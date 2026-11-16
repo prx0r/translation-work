@@ -8,15 +8,15 @@
 "tokens": [
 {
 "surface": "samācaṣṭa",
-"quick_gloss": "told"
+"quick_gloss": "reported"
 },
 {
 "surface": "samāgamya",
 "quick_gloss": "having-approached"
 },
 {
-"surface": "daityarājāya",
-"quick_gloss": "demon+king"
+"surface": "daitya+rājāya",
+"quick_gloss": "to-demon+king"
 },
 {
 "surface": "vistarāt",
@@ -37,15 +37,19 @@
 },
 {
 "surface": "prāha",
-"quick_gloss": "said"
+"quick_gloss": "spoke"
 },
 {
-"surface": "daityānāmadhipaṃ",
-"quick_gloss": "of-demons+lord"
+"surface": "daityānām",
+"quick_gloss": "of-demons"
+},
+{
+"surface": "adhipaṃ",
+"quick_gloss": "to-lord"
 },
 {
 "surface": "dhūmralocanam",
-"quick_gloss": "Dhūmralocana"
+"quick_gloss": "to-Dhūmralocana"
 }
 ]
 },
@@ -70,11 +74,15 @@
 },
 {
 "surface": "duṣṭāṃ",
-"quick_gloss": "wicked"
+"quick_gloss": "wicked-woman"
 },
 {
-"surface": "keśākarṣaṇavihvalām",
-"quick_gloss": "hair+dragging+distressed"
+"surface": "keśa+ākarṣaṇa",
+"quick_gloss": "by-hair+dragging"
+},
+{
+"surface": "vihvalām",
+"quick_gloss": "distressed"
 }
 ]
 },
@@ -106,11 +114,11 @@
 "quick_gloss": "also"
 },
 {
-"surface": "yakṣaḥ",
+"surface": "yakṣo",
 "quick_gloss": "yakṣa"
 },
 {
-"surface": "gandharvaḥ",
+"surface": "gandharva",
 "quick_gloss": "gandharva"
 },
 {
@@ -152,8 +160,8 @@
 "quick_gloss": "surrounded"
 },
 {
-"surface": "ṣaṣṭhyāsahasrāṇām",
-"quick_gloss": "by-sixty-thousand"
+"surface": "ṣaṣṭhyā+sahasrāṇām",
+"quick_gloss": "by-sixty+thousands"
 },
 {
 "surface": "asurāṇāṃ",
@@ -178,15 +186,15 @@
 "tokens": [
 {
 "surface": "jagāda",
-"quick_gloss": "went"
+"quick_gloss": "shouted"
 },
 {
 "surface": "uccaiḥ",
-"quick_gloss": "loudly"
+"quick_gloss": "aloud"
 },
 {
 "surface": "prayāhi",
-"quick_gloss": "go"
+"quick_gloss": "go-forth"
 },
 {
 "surface": "iti",
@@ -197,8 +205,8 @@
 "quick_gloss": "root"
 },
 {
-"surface": "śumbhaniśumbhayoḥ",
-"quick_gloss": "of-Śumbha-Niśumbha"
+"surface": "śumbha+niśumbhayoḥ",
+"quick_gloss": "of-Śumbha+Niśumbha"
 }
 ]
 },
@@ -219,15 +227,19 @@
 },
 {
 "surface": "nayāmi",
-"quick_gloss": "I-bring"
+"quick_gloss": "I-shall-bring"
 },
 {
 "surface": "eṣa",
-"quick_gloss": "this"
+"quick_gloss": "this-one"
 },
 {
-"surface": "keśākarṣaṇavihvalām",
-"quick_gloss": "hair+dragging+distressed"
+"surface": "keśa+ākarṣaṇa",
+"quick_gloss": "by-hair+dragging"
+},
+{
+"surface": "vihvalām",
+"quick_gloss": "distressed"
 }
 ]
 },
@@ -268,6 +280,10 @@
 "quick_gloss": "me"
 },
 {
+"surface": "mā",
+"quick_gloss": "not"
+},
+{
 "surface": "evaṃ",
 "quick_gloss": "thus"
 },
@@ -285,7 +301,7 @@
 },
 {
 "surface": "karomi",
-"quick_gloss": "I-do"
+"quick_gloss": "I-shall-do"
 },
 {
 "surface": "aham",
@@ -319,7 +335,7 @@
 "tokens": [
 {
 "surface": "huṅkāreṇa",
-"quick_gloss": "by-huṅkāra"
+"quick_gloss": "by-huṃkāra"
 },
 {
 "surface": "eva",
@@ -360,11 +376,11 @@
 "tokens": [
 {
 "surface": "vavarṣa",
-"quick_gloss": "rained"
+"quick_gloss": "showered"
 },
 {
 "surface": "sāyakaiḥ",
-"quick_gloss": "arrows"
+"quick_gloss": "with-arrows"
 },
 {
 "surface": "tīkṣṇaiḥ",
@@ -375,8 +391,8 @@
 "quick_gloss": "and"
 },
 {
-"surface": "śaktiparaśvadhaiḥ",
-"quick_gloss": "śakti+axes"
+"surface": "śakti+paraśvadhaiḥ",
+"quick_gloss": "with-spears+axes"
 }
 ]
 },
@@ -392,11 +408,11 @@
 "quick_gloss": "fell"
 },
 {
-"surface": "asurasenāyām",
-"quick_gloss": "in-demon-army"
+"surface": "asura+senāyāṃ",
+"quick_gloss": "upon-demon+army"
 },
 {
-"surface": "siṃhaḥ",
+"surface": "siṃho",
 "quick_gloss": "lion"
 },
 {
@@ -404,8 +420,8 @@
 "quick_gloss": "of-goddess"
 },
 {
-"surface": "svavāhanaḥ",
-"quick_gloss": "own+vehicle"
+"surface": "sva+vāhanaḥ",
+"quick_gloss": "own+mount"
 }
 ]
 },
@@ -417,8 +433,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
+"surface": "ākrāntyā0",
+"quick_gloss": "having-attacked"
+},
+{
+"surface": "ca",
+"quick_gloss": "and"
+},
+{
 "surface": "ākramya",
-"quick_gloss": "having-trampled"
+"quick_gloss": "having-attacked"
 },
 {
 "surface": "ca",
@@ -437,8 +461,8 @@
 "quick_gloss": "killed"
 },
 {
-"surface": "mahāsurān",
-"quick_gloss": "great-demons"
+"surface": "mahā+surān",
+"quick_gloss": "great+demons"
 }
 ]
 },
@@ -454,8 +478,8 @@
 "quick_gloss": "and"
 },
 {
-"surface": "talaprahāreṇa",
-"quick_gloss": "by-palm-blow"
+"surface": "tala+prahāreṇa",
+"quick_gloss": "by-paw+blow"
 },
 {
 "surface": "śirāṃsi",
@@ -492,15 +516,15 @@
 },
 {
 "surface": "koṣṭhāt",
-"quick_gloss": "from-belly"
+"quick_gloss": "from-chest"
 },
 {
 "surface": "anyeṣāṃ",
 "quick_gloss": "of-others"
 },
 {
-"surface": "dhutakesaraḥ",
-"quick_gloss": "shaking-mane"
+"surface": "dhuta+kesaraḥ",
+"quick_gloss": "with-shaken+mane"
 }
 ]
 },
@@ -520,16 +544,16 @@
 "quick_gloss": "lion"
 },
 {
-"surface": "devyāḥ",
+"surface": "devyā",
 "quick_gloss": "of-goddess"
 },
 {
 "surface": "vāhanena",
-"quick_gloss": "vehicle"
+"quick_gloss": "by-mount"
 },
 {
-"surface": "atikopinā",
-"quick_gloss": "very-angry"
+"surface": "ati+kopinā",
+"quick_gloss": "very+angry"
 }
 ]
 },
@@ -542,7 +566,7 @@
 "tokens": [
 {
 "surface": "ājñāpayāmāsa",
-"quick_gloss": "commanded"
+"quick_gloss": "ordered"
 },
 {
 "surface": "ca",
@@ -550,19 +574,15 @@
 },
 {
 "surface": "tau",
-"quick_gloss": "those"
+"quick_gloss": "those-two"
 },
 {
-"surface": "caṇḍa",
-"quick_gloss": "Caṇḍa"
+"surface": "caṇḍa+muṇḍau",
+"quick_gloss": "Caṇḍa+Muṇḍa"
 },
 {
-"surface": "muṇḍau",
-"quick_gloss": "Muṇḍa"
-},
-{
-"surface": "mahāsurau",
-"quick_gloss": "great-demons"
+"surface": "mahā+surau",
+"quick_gloss": "great+demons"
 }
 ]
 },
@@ -594,7 +614,7 @@
 "quick_gloss": "she"
 },
 {
-"surface": "samānīyatām",
+"surface": "samānīyatāṃ",
 "quick_gloss": "be-brought"
 },
 {
@@ -615,20 +635,24 @@
 "quick_gloss": "then"
 },
 {
-"surface": "śeṣāyudhaiḥ",
-"quick_gloss": "with-remaining-weapons"
+"surface": "śeṣa+āyudhaiḥ",
+"quick_gloss": "with-remaining+weapons"
 },
 {
 "surface": "sarvaiḥ",
-"quick_gloss": "all"
+"quick_gloss": "with-all"
 },
 {
 "surface": "asuraiḥ",
-"quick_gloss": "demons"
+"quick_gloss": "by-demons"
+},
+{
+"surface": "vā",
+"quick_gloss": "or"
 },
 {
 "surface": "vinihanyatām",
-"quick_gloss": "be-killed"
+"quick_gloss": "be-slain"
 }
 ]
 },
@@ -644,8 +668,8 @@
 "quick_gloss": "quickly"
 },
 {
-"surface": "āgamyatām",
-"quick_gloss": "come"
+"surface": "āgamyatāṃ",
+"quick_gloss": "having-come"
 },
 {
 "surface": "baddhvā",
@@ -668,8 +692,8 @@
 "quick_gloss": "Ambikā"
 },
 {
-"surface": "oṃ",
-"quick_gloss": "oṃ"
+"surface": "|| oṃ",
+"quick_gloss": "om"
 }
 ]
 },
@@ -689,7 +713,7 @@
 "quick_gloss": "chapter"
 },
 {
-"surface": "6",
+"surface": "|| 6 ||",
 "quick_gloss": "6"
 },
 {
@@ -701,12 +725,12 @@
 "quick_gloss": "4"
 },
 {
-"surface": "ardhaḥ",
+"surface": "ardha0",
 "quick_gloss": "half"
 },
 {
 "surface": "śloka",
-"quick_gloss": "verse"
+"quick_gloss": "verses"
 },
 {
 "surface": "20",
@@ -721,8 +745,12 @@
 "quick_gloss": "24"
 },
 {
-"surface": "evamāditaḥ",
-"quick_gloss": "thus-from-beginning"
+"surface": "|| evam",
+"quick_gloss": "thus"
+},
+{
+"surface": "āditaḥ",
+"quick_gloss": "from-beginning"
 }
 ]
 },
@@ -734,16 +762,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "śaṃkhapātrām",
-"quick_gloss": "conch-vessel"
+"surface": "śaṃkha+pātrāṃ",
+"quick_gloss": "with-conch+vessel"
 },
 {
-"surface": "madhuramadhumadām",
-"quick_gloss": "sweet-honey-intoxicated"
+"surface": "madhura",
+"quick_gloss": "sweet"
 },
 {
-"surface": "citrakodbhāsibhālām",
-"quick_gloss": "bright-forehead"
+"surface": "madhu+madāṃ",
+"quick_gloss": "honey+intoxicated"
+},
+{
+"surface": "citra+udbhāsi+bhālām",
+"quick_gloss": "with-brilliantly+shining+forehead"
 }
 ]
 },

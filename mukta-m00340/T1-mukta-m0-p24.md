@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p24-v576
-[trident](triśūlaṃ) [let-it-protect](pātu) [from-fear](bhīter) [Bhadrakali](bhadrakālī) [salutation-to-you](namostute)
+[trident](triśūlaṃ) [may-protect](pātu) [you](te) [from-fear](bhīteḥ) [Bhadrakali](bhadrakālī) [salutation](namaḥ) [to-you](te)
 
 ## mukta-m0-p24-v577
-[that](sā) [bell](ghaṇṭā) [let-it-fall](pātu) [O-goddess](devi) [from-sins](pāpebhyaḥ) [our](naḥ) [sons-like](sutāniva)
+[that](sā) [bell](ghaṇṭā) [may-protect](pātu) [us](naḥ) [O-goddess](devi) [!](!) [from-sins](pāpebhyaḥ) [us](naḥ) [children](sutān) [like](iva)
 
 ## mukta-m0-p24-v578
-[for-auspiciousness](śubhāya) [sword](khaḍgaḥ) [let-it-be](bhavatu) [Caṇḍikā](caṇḍike) [to-you](tvāṃ) [we-bow](natāvayam)
+[for-welfare](śubhāya) [sword](khaḍgaḥ) [may-be](bhavatu) [O-Candika](caṇḍike) [!](!) [you](tvāṃ) [bowed](natā) [we](vayam)
 
 ## mukta-m0-p24-v579
-[holding](dadhatīṃ) [mace](bhuśuṇḍīṃ) [and](ca) [head](śiraḥ) [sword](khaḍgaṃ) [ten-faced-one](daśavaktrakām)
+[club](bhuśuṇḍīṃ) [and](ca) [head](śiraḥ) [sword](khaḍgaṃ) [holding](dadhatīṃ) [ten+faced](daśa+vaktrakām)
 
 ## mukta-m0-p24-v580
-[garland](mālāṃ) [and](ca) [axe](paraśuṃ) [arrows](vāṇān) [club](gadāṃ) [thunderbolt](kuliśa) [mevaca](mevaca)
+[garland](mālāṃ) [and](ca) [axe](paraśuṃ) [arrows](vāṇān) [mace](gadāṃ) [thunderbolt](kuliśaṃ) [indeed](eva) [and](ca)
 
 ## mukta-m0-p24-v581
-[shield](kheṭakaṃ) [lotus](jalajaṃ) [bell](ghaṃṭāṃ) [liquor-vessel](surāpātraṃ) [and](ca) [trident](śūlakam)
+[shield](kheṭakaṃ) [lotus](jalajaṃ) [bell](ghaṃṭāṃ) [liquor+vessel](surā+pātraṃ) [and](ca) [trident](śūlakam)
 
 ## mukta-m0-p24-v582
-[lotus-seated](padmasthitāṃ) [Mahalakshmi](mahālakṣmīṃ) [I-worship](bhaje) [Mahishasuramardini](mahiṣamardinīm)
+[lotus+seated](padma+sthitāṃ) [Mahalakshmi](mahālakṣmīṃ) [I-worship](bhaje) [buffalo+demon+slayer](mahiṣa+mardinīm)
 
 ## mukta-m0-p24-v583
-[holding](dadhatīm) [radiant](ujvalāṃ) [I-bow](naumi) [goddess](devīṃ) [Gauri-born](gaurī+samudbhavām)
+[holding](dadhatīm) [radiant](ujvalāṃ) [I-bow](naumi) [goddess](devīṃ) [from-Gauri+born](gaurī+samudbhavām)
 
 ## mukta-m0-p24-v584
-[sleep](nidrāṃ) [of-Vishnu](viṣṇor) [goddess](bhagavatīṃ) [incomparable](atulāṃ) [of-splendor](tejasaḥ) [lord](prabhuḥ)
+[sleep](nidrāṃ) [divine](bhagavatīṃ) [of-Vishnu](viṣṇoḥ) [incomparable](atulāṃ) [of-splendor](tejasaḥ) [lord](prabhuḥ)
 
 ## mukta-m0-p24-v585
-[purity](suddhātvam) [in-imperishable](akṣare) [eternal](nitye) [three-abodes](tridhāma) [triadic](trātmikā) [established](sthitā)
+[in-pure+element](śuddha+ātma) [in-imperishable](akṣare) [in-eternal](nitye) [in-threefold+state](tridhā+amatrā) [self-natured](ātmikā) [situated](sthitā)
 
 ## mukta-m0-p24-v586
-[you-alone](tvameva) [she](sā) [you](tvaṃ) [Savitri](sāvitrī) [you](tvaṃ) [goddess-mother](devijananī) [supreme](parā)
+[you](tvam) [alone](eva) [she](sā) [you](tvaṃ) [Savitri](sāvitrī) [you](tvaṃ) [O-goddess](devi) [mother](jananī) [supreme](parā)
 
 ## mukta-m0-p24-v587
-[by-you](tvayā) [this](etat) [is-protected](pālyate) [goddess](devi) [you](tvam) [always](sarvadā)
+[by-you](tvayā) [this](etat) [is-protected](pālyate) [O-goddess](devi) [you-devour](tvam) [at-end](atsyante) [and](ca) [always](sarvadā)
 
 ## mukta-m0-p24-v588
-[thus](tathā) [dissolution-form](saṃhṛtirūpā) [at-end](ante) [of-world](jagataḥ) [this](asya) [world-pervading](jaganmaye)
+[likewise](tathā) [dissolution+form](saṃhṛti+rūpā) [at-end](ante) [of-world](jagataḥ) [this](asya) [O-world-formed](jaganmaye)
 
 ## mukta-m0-p24-v589
-[great-delusion](mahāmohā) [and](ca) [you-are](bhavatī) [great-goddess](mahādevī) [great-demoness](mahāsurī)
+[great+delusion](mahā+mohā) [and](ca) [you-are](bhavatī) [great+goddess](mahā+devī) [great+demoness](mahā+asurī)
 
 ## mukta-m0-p24-v590
-[Kalaratri](kālarātriḥ) [Maharatri](mahārātriḥ) [Moharatri](moharātriḥ) [and](ca) [terrible](dāruṇā)
+[night+of-time](kāla+rātriḥ) [great+night](mahā+rātriḥ) [night+of-delusion](moha+rātriḥ) [and](ca) [terrible](dāruṇā)
 
 ## mukta-m0-p24-v591
-[modesty](lajjā) [nourishment](puṣṭiḥ) [thus](tathā) [satisfaction](tuṣṭiḥ) [you](tvaṃ) [peace](śāntiḥ) [forbearance](kṣāntiḥ) [indeed](eva) [and](ca)
+[modesty](lajjā) [nourishment](puṣṭiḥ) [likewise](tathā) [satisfaction](tuṣṭiḥ) [you](tvaṃ) [peace](śāntiḥ) [forbearance](kṣāntiḥ) [indeed](eva) [and](ca)
 
 ## mukta-m0-p24-v592
-[conch-holder](śaṃkhinī) [bow-holder](cāpinī) [arrow](bāṇa) [mace](bhuśuṇḍī) [club](parigha) [weapons](āyudhā)
+[conch-holder](śaṃkhinī) [and](ca) [discus-holder](apinī) [arrow](bāṇa) [club](bhuśuṇḍī) [iron-club+weaponed](parigha+āyudhā)
 
 ## mukta-m0-p24-v593
-[of-supreme-and-inferior](parāparāṇāṃ) [supreme](paramā) [you-alone](tvameva) [supreme-goddess](parameśvarī)
+[of-higher+and-lower](para+aparāṇāṃ) [supreme](paramā) [you](tvam) [alone](eva) [supreme+goddess](parama+īśvarī)
 
 ## mukta-m0-p24-v594
-[of-him](tasya) [all](sarvasva) [that](yā) [power](śaktiḥ) [she](sā) [you](tvaṃ) [why](kiṃ) [are-you-praised](stūyase) [then](tadā)
+[of-him](tasya) [of-all-wealth](sarvasva) [which](yā) [power](śaktiḥ) [she](sā) [you](tvaṃ) [why](kiṃ) [are-praised](stūyase) [then](tadā)
 
 ## mukta-m0-p24-v595
-[he-too](so'pi) [under-sleep](nidrāvaśaṃ) [led](nītaḥ) [who](kaḥ) [you](tvāṃ) [praise](stotum) [here](iha) [lord](īśvaraḥ)
+[he](saḥ) [also](api) [sleep+control](nidrā+vaśaṃ) [brought](nītaḥ) [who](kaḥ) [you](tvāṃ) [to-praise](stotum) [here](iha) [is-able](īśvaraḥ)
 
 ## mukta-m0-p24-v596
-[caused](kāritāḥ) [by-you](te) [since](yataḥ) [therefore](tasmāt) [you](tvāṃ) [who](kaḥ) [praise](stotuṃ) [capable](śaktimān) [be](bhavet)
+[caused](kāritāḥ) [by-you](te) [since](yataḥ) [therefore](ataḥ) [you](tvāṃ) [who](kaḥ) [to-praise](stotuṃ) [capable](śaktimān) [could-be](bhavet)
 
 ## mukta-m0-p24-v597
-[delude](mohaya) [these](etau) [hard-to-assail](durādharṣau) [demons](asurau) [Madhu-Kaitabha](madhukaiṭabhau)
+[delude](mohaya) [these-two](etau) [hard+to-overcome](durādharṣau) [two-demons](asurau) [Madhu+and-Kaitabha](madhu+kaiṭabhau)
 
 ## mukta-m0-p24-v598
-[awakening](bodhaḥ) [and](ca) [let-it-be-made](kriyatām) [of-him](asya) [to-kill](hantum) [these](etau) [great-demons](mahāsurau)
+[awakening](bodhaḥ) [and](ca) [let-be-made](kriyatām) [of-him](asya) [to-slay](hantum) [these-two](etau) [great+demons](mahā+asurau)
 
 ## mukta-m0-p24-v599
-[heart](hṛt) [lion](siṃha) [mine](mama) [let-it-be](astu) [desired-giver](iṣṭadaḥ)
+[in-heart](hṛt) [lion](siṃha) [seated](upamā) [radiance+giving](tviṣṭa+daḥ)
 
 ## mukta-m0-p24-v600
-[holding](bibhrāṇām) [fire-natured](analātmikāṃ) [moon-bearing](śaśidharāṃ) [Durga](durgāṃ) [three-eyed](trinetrāṃ) [I-worship](bhaje)
+[bearing](bibhrāṇām) [fire+natured](anala+ātmikāṃ) [moon+holding](śaśi+dharāṃ) [Durga](durgāṃ) [three+eyed](tri+netrāṃ) [I-worship](bhaje)
