@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p09-v201
-fire-seed (vahnibījaṃ) great-lady (maheśāni) heart-lotus (hṛtpadme) as-before (pūrvavat) beloved (priye)
+[fire-seed](vahnibījaṃ) [o-great-goddess](maheśāni) [in-heart-lotus](hṛtpadme) [as-before](pūrvavat) [o-beloved](priye)
 
 ## mukta-m0-p09-v202
-forehead (lalāṭe) water-seed (vāruṇaṃ+bījaṃ) white (śuklaṃ) meditate (sañcintya) beautiful (sundari)
+[on-forehead](lalāṭe) [of-water](vāruṇaṃ) [seed](bījaṃ) [white](śuklaṃ) [having-visualized](sañcintya) [o-beautiful-one](sundari)
 
 ## mukta-m0-p09-v203
-thus (evaṃ) twelve-fold (dvādaśadhā) goddess (devi) element-purification (bhūtaśuddhiṃ) perform (samācaret)
+[thus](evaṃ) [in-twelve-ways](dvādaśadhā) [o-goddess](devi) [element-purification](bhūtaśuddhiṃ) [one-should-perform](samācaret)
 
 ## mukta-m0-p09-v204
-previously-said (pūrvoktaṃ) supreme-lady (parameśāni) general (sāmānyaṃ) purification (śuddhim) indeed (eva) and (ca)
+[previously-stated](pūrvoktaṃ) [o-supreme-goddess](parameśāni) [general](sāmānyaṃ) [purification](śuddhim) [indeed](eva) [and](ca)
 
 ## mukta-m0-p09-v205
-body (dehasya) subtle-form (sūkṣmarūpasya) element-purification (bhūtaśuddhiḥ) this (iyam) beloved (priye)
+[of-body](dehasya) [of-subtle-form](sūkṣmarūpasya) [element-purification](bhūtaśuddhiḥ) [this](iyaṃ) [o-beloved](priye)
 
 ## mukta-m0-p09-v206
-soul (jīvena) with (saha) goddess (deveśi) central-channel (suṣumnāyāṃ) immerse (nimajjayet)
+[with-individual-soul](jīvena) [together](saha) [o-goddess-of-gods](deveśi) [in-suṣumnā](suṣumnāyāṃ) [one-should-immerse](nimajjayet)
 
 ## mukta-m0-p09-v207
-recite (prajapet) supreme (parayā) devotion (bhaktyā) garland (mālayā) letter-count (varṇasaṅkhyayā)
+[one-should-repeat](prajapet) [with-supreme](parayā) [devotion](bhaktyā) [with-rosary](mālayā) [by-letter-count](varṇasaṅkhyayā)
 
 ## mukta-m0-p09-v208
-mind-transcending (manonmanīyute) soul (jīvaḥ) brahma-aperture (brahmarandhre) and (ca) recite (saṃjapet)
+[with-manonmanī-united](manonmanīyute) [individual-soul](jīvaḥ) [in-brahma-aperture](brahmarandhre) [and](ca) [one-should-repeat](saṃjapet)
 
 ## mukta-m0-p09-v209
-soul (jīvaḥ) pure (śuddho) becomes (bhaved) goddess (devi) hosts (gaṇaiḥ) attendants (parikaraiḥ) with (saha)
+[individual-soul](jīvaḥ) [pure](śuddho) [becomes](bhaved) [o-goddess](devi) [with-attendants](gaṇaiḥ) [with-retinue](parikaraiḥ) [together](saha)
 
 ## mukta-m0-p09-v210
-eyes (akṣiṇī) nose (nāsike) ears (karṇau) tongue (jihvā) and (ca) lotus-eyed (kamalekṣaṇe)
+[two-eyes](akṣiṇī) [two-nostrils](nāsike) [two-ears](karṇau) [tongue](jihvā) [and](ca) [o-lotus-eyed-one](kamalekṣaṇe)
 
 ## mukta-m0-p09-v211
-navel (nābhiṃ) and (ca) supreme-lady (parameśāni) mind (manaḥ) and (ca) supreme-goddess (parameśvari)
+[navel](nābhiṃ) [and](ca) [o-supreme-goddess](parameśāni) [mind](manaḥ) [and](ca) [o-supreme-lady](parameśvari)
 
 ## mukta-m0-p09-v212
-mind (manaḥ) and (ca) supreme-lady (parameśāni) beyond-mind (unmanī) dwelling-destroyer (bhavanāśinī)
+[mind](manaḥ) [and](ca) [o-supreme-goddess](parameśāni) [unmanī](unmanī) [existence-destroying](bhavanāśinī)
 
 ## mukta-m0-p09-v213
-waking-dream-deep-sleep-states (jāgratsvapnasuṣuptyavasthā) this (etad) goddess (devi) three (trayaṃ) remembered (smṛtam)
+[waking-dream-deep-sleep-states](jāgratsvapnasuṣuptyavasthā) [this](etad) [o-goddess](devi) [triad](trayaṃ) [remembered](smṛtam)
 
 ## mukta-m0-p09-v214
-senses (indriyāṇāṃ) indeed (tu) all (sarveṣāṃ) mind (manaḥ) supreme-charioteer (paramasārathiḥ)
+[of-senses](indriyāṇāṃ) [indeed](tu) [of-all](sarveṣāṃ) [mind](manaḥ) [supreme-charioteer](paramasārathiḥ)
 
 ## mukta-m0-p09-v215
-own-action (svakarma) worships (bhajate) goddess (devi) beyond-mind (unmanī) always (satataṃ) beloved (priye)
+[own-action](svakarma) [enjoys](bhajate) [o-goddess](devi) [unmanī](unmanī) [always](satataṃ) [o-beloved](priye)
 
 ## mukta-m0-p09-v216
-weeping (rodanaṃ) delusion-fainting (mohamūrcche) and (ca) hunger (kṣudhā) thirst (tṛṣṇā) pure-smiling (śucismite)
+[weeping](rodanaṃ) [delusion-fainting](mohamūrcche) [and](ca) [hunger](kṣudhā) [thirst](tṛṣṇā) [o-smiling-one](śucismite)
 
 ## mukta-m0-p09-v217
-soul (jīvaḥ) eternal (nityaḥ) imperishable (avyayaḥ) subtle (sūkṣmaḥ) all-pervading (sarvagaḥ) all-knowing (sarvavit) supreme (paraḥ)
+[individual-soul](jīvo) [eternal](nityo) [imperishable]('vyayaḥ) [subtle](sūkṣmaḥ) [all-pervading](sarvagaḥ) [all-knowing](sarvavit) [supreme](paraḥ)
 
 ## mukta-m0-p09-v218
-lamp-flame-form (pradīpakalikākāraḥ) all (sarvaḥ) attained (prāpya) expands (vijṛmbhate)
+[lamp-flame-form](pradīpakalikākāraḥ) [all](sarvaḥ) [having-attained](prāpya) [expands](vijṛmbhate)
 
 ## mukta-m0-p09-v219
-million-suns-like (koṭisūryapratīkāśāṃ) golden-river (svarṇadīṃ) sin-destroying (pāpanāśinīm)
+[resembling-ten-million-suns](koṭisūryapratīkāśāṃ) [golden-river](svarṇadīṃ) [sin-destroying](pāpanāśinīm)
 
 ## mukta-m0-p09-v220
-directly (sākṣāt) brahma-pool-form (brahmahradākārāṃ) various-pleasures-roaming (nānāsukhavihāriṇīm)
+[directly](sākṣād) [having-form-of-brahma-lake](brahmahradākārāṃ) [sporting-in-various-joys](nānāsukhavihāriṇīm)
 
 ## mukta-m0-p09-v221
-knowledge-and-realization-endowed (jñānavijñānasaṃyuktāṃ) consciousness-form (cidākārāṃ) eternal (sanātanīm)
+[endowed-with-knowledge-and-realization](jñānavijñānasaṃyuktāṃ) [of-consciousness-form](cidākārāṃ) [eternal](sanātanīm)
 
 ## mukta-m0-p09-v222
-left-side (vāmapārśve) situated (sthitāṃ) eternal (nityāṃ) brahma-form (brahmarūpāṃ) lightning-made (taḍinmayīm)
+[on-left-side](vāmapārśve) [situated](sthitāṃ) [eternal](nityāṃ) [of-brahma-form](brahmarūpāṃ) [consisting-of-lightning](taḍinmayīm)
 
 ## mukta-m0-p09-v223
-in-its-middle (tanmadhyasthāṃ) great-lady (maheśāni) nectar-birth-filled (amṛtabhavapūritām)
+[situated-in-its-middle](tanmadhyasthāṃ) [o-great-goddess](maheśāni) [filled-with-nectar-existence](amṛtabhavapūritām)
 
 ## mukta-m0-p09-v224
-left-channel (vāmanāḍī) great-lady (maheśāni) sleep-form (suptirūpā) front-situated (puraḥsthitā)
+[left-channel](vāmanāḍī) [o-great-goddess](maheśāni) [of-sleep-form](suptirūpā) [situated-in-front](puraḥsthitā)
 
 ## mukta-m0-p09-v225
-right (dakṣiṇe) piṅgalā-seated (piṅgalāśritā)
+[on-right-side](dakṣiṇe) [resorting-to-piṅgalā](piṅgalāśritā)
