@@ -44,12 +44,8 @@
 "quick_gloss": "and"
 },
 {
-"surface": "vaśam",
+"surface": "vaśamānaya",
 "quick_gloss": "bring-under-control"
-},
-{
-"surface": "ānaya",
-"quick_gloss": "bring"
 },
 {
 "surface": "svāhā",
@@ -57,7 +53,7 @@
 },
 {
 "surface": "bhavāṇarkaḥ",
-"quick_gloss": "bhavāṇa+sun"
+"quick_gloss": "bhavāṇarkaḥ"
 }
 ]
 },
@@ -69,12 +65,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "varekṣūn",
-"quick_gloss": "with-excellent+sugarcanes"
+"surface": "vara",
+"quick_gloss": "with-excellent"
 },
 {
-"surface": "hastapaṃkajaiḥ",
-"quick_gloss": "with-hand+lotuses"
+"surface": "ikṣūn",
+"quick_gloss": "sugarcanes"
+},
+{
+"surface": "hasta",
+"quick_gloss": "with-hands"
+},
+{
+"surface": "paṃkajaiḥ",
+"quick_gloss": "lotuses"
 }
 ]
 },
@@ -90,8 +94,16 @@
 "quick_gloss": "by-dark-limbed-one"
 },
 {
-"surface": "liṅgapadmahastayā",
-"quick_gloss": "by-liṅga+lotus+handed-one"
+"surface": "liṅga",
+"quick_gloss": "with-liṅga"
+},
+{
+"surface": "padma",
+"quick_gloss": "and-lotus"
+},
+{
+"surface": "hastayā",
+"quick_gloss": "in-hands"
 },
 {
 "surface": "bhāvayet",
@@ -115,8 +127,12 @@
 "quick_gloss": "one-should-offer-oblations"
 },
 {
-"surface": "tarpaṇādi",
-"quick_gloss": "libation+etc."
+"surface": "tarpaṇa",
+"quick_gloss": "libation"
+},
+{
+"surface": "ādi",
+"quick_gloss": "and-so-forth"
 },
 {
 "surface": "tataḥ",
@@ -136,16 +152,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "kāmyaprayogāḥ",
-"quick_gloss": "desire+applications"
+"surface": "kāmya",
+"quick_gloss": "desire-oriented"
+},
+{
+"surface": "prayogāḥ",
+"quick_gloss": "applications"
 },
 {
 "surface": "tu",
 "quick_gloss": "but"
 },
 {
-"surface": "tatkalpoktān",
-"quick_gloss": "that+ritual-prescribed"
+"surface": "tat+kalpa+uktān",
+"quick_gloss": "taught-in-that-ritual"
 },
 {
 "surface": "prasādhayet",
@@ -173,12 +193,8 @@
 "quick_gloss": "śakti"
 },
 {
-"surface": "ca",
-"quick_gloss": "and"
-},
-{
-"surface": "api",
-"quick_gloss": "also"
+"surface": "ca+api",
+"quick_gloss": "and-also"
 },
 {
 "surface": "na",
@@ -210,8 +226,8 @@
 "quick_gloss": "śakti"
 },
 {
-"surface": "śrībhuvaneśvarīm",
-"quick_gloss": "śrī+bhuvaneśvarī"
+"surface": "śrī+bhuvaneśvarīm",
+"quick_gloss": "śrī-bhuvaneśvarī"
 }
 ]
 },
@@ -228,7 +244,7 @@
 },
 {
 "surface": "vaśiṣṭhaḥ",
-"quick_gloss": "vaśiṣṭha"
+"quick_gloss": "vasiṣṭha"
 },
 {
 "surface": "ca",
@@ -239,12 +255,16 @@
 "quick_gloss": "sūta"
 },
 {
-"surface": "chandasaḥ",
-"quick_gloss": "of-meter"
+"surface": "asya",
+"quick_gloss": "of-this"
+},
+{
+"surface": "chandaḥ",
+"quick_gloss": "metre"
 },
 {
 "surface": "kathyate",
-"quick_gloss": "is-said"
+"quick_gloss": "is-declared"
 }
 ]
 },
@@ -285,12 +305,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "ṣaḍdīrghayuktabījena",
-"quick_gloss": "with-six+long+joined+seed-syllable"
+"surface": "bījena",
+"quick_gloss": "with-seed"
 },
 {
-"surface": "ṣaḍaṃgāni",
-"quick_gloss": "six+limbs"
+"surface": "ṣaḍ+dīrgha+yukta",
+"quick_gloss": "joined-with-six-long-vowels"
+},
+{
+"surface": "ṣaḍ+aṃgāni",
+"quick_gloss": "six-limbs"
 },
 {
 "surface": "samācaret",
@@ -306,12 +330,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "devyekatāpādanāya",
-"quick_gloss": "for-goddess+unity+bringing-about"
+"surface": "devī+eka+tā+pādanāya",
+"quick_gloss": "for-placing-the-goddess"
 },
 {
-"surface": "mantranyāsaḥ",
-"quick_gloss": "mantra+placement"
+"surface": "mantra+nyāsaḥ",
+"quick_gloss": "mantra-placement"
 },
 {
 "surface": "atha",
@@ -364,12 +388,28 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "ūrdhvodagyāmyapūrvāśā",
-"quick_gloss": "in-upper+northern+southern+eastern+directions"
+"surface": "ūrdhva",
+"quick_gloss": "in-upper"
 },
 {
-"surface": "pratyekastheṣu",
-"quick_gloss": "in-each+located-places"
+"surface": "udak",
+"quick_gloss": "northern"
+},
+{
+"surface": "yāmya",
+"quick_gloss": "southern"
+},
+{
+"surface": "pūrva",
+"quick_gloss": "eastern"
+},
+{
+"surface": "āśā",
+"quick_gloss": "directions"
+},
+{
+"surface": "pratyeka+stheṣu",
+"quick_gloss": "in-each-location"
 },
 {
 "surface": "ca",
@@ -389,16 +429,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "dakṣakuce",
-"quick_gloss": "in-right+breast"
+"surface": "dakṣa+kuce",
+"quick_gloss": "on-right-breast"
 },
 {
 "surface": "brahmāṇīṃ",
 "quick_gloss": "brahmāṇī"
 },
 {
-"surface": "vāmageṃsake",
-"quick_gloss": "in-left+shoulder"
+"surface": "vāma+geṃsake",
+"quick_gloss": "on-left-shoulder"
 }
 ]
 },
@@ -427,7 +467,7 @@
 },
 {
 "surface": "sudhīḥ",
-"quick_gloss": "wise-one"
+"quick_gloss": "the-wise-one"
 }
 ]
 },
@@ -439,8 +479,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "vāmagaṇḍe",
-"quick_gloss": "on-left+cheek"
+"surface": "vāma+gaṇḍe",
+"quick_gloss": "on-left-cheek"
 },
 {
 "surface": "ca",
@@ -484,8 +524,8 @@
 "quick_gloss": "with-śrī"
 },
 {
-"surface": "śrotrāgrake",
-"quick_gloss": "at-ear+tip"
+"surface": "śrotra+agrake",
+"quick_gloss": "at-tip-of-ear"
 },
 {
 "surface": "nyaset",
@@ -501,20 +541,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "dakṣaśrotrāgrake",
-"quick_gloss": "at-right+ear+tip"
+"surface": "dakṣa+śrotra+agrake",
+"quick_gloss": "at-tip-of-right-ear"
 },
 {
 "surface": "mantrī",
-"quick_gloss": "practitioner"
+"quick_gloss": "the-practitioner"
 },
 {
 "surface": "nidhī",
-"quick_gloss": "two-treasures"
+"quick_gloss": "the-two-nidhis"
 },
 {
-"surface": "śaktiyutau",
-"quick_gloss": "with-śakti+joined"
+"surface": "śakti+yutau",
+"quick_gloss": "joined-with-śakti"
 },
 {
 "surface": "nyaset",
@@ -530,12 +570,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "vāmāṃse",
-"quick_gloss": "on-left+shoulder"
+"surface": "vāma+aṃse",
+"quick_gloss": "on-left-shoulder"
 },
 {
-"surface": "hṛdidakṣiṇe",
-"quick_gloss": "on-heart+right-side"
+"surface": "hṛdi+dakṣiṇe",
+"quick_gloss": "on-right-side-of-heart"
 }
 ]
 },
@@ -551,8 +591,8 @@
 "quick_gloss": "one-should-place"
 },
 {
-"surface": "mātṛraṣṭa",
-"quick_gloss": "eight+mothers"
+"surface": "mātṛḥ+aṣṭa",
+"quick_gloss": "the-eight-mothers"
 },
 {
 "surface": "bhāle",
@@ -592,8 +632,8 @@
 "quick_gloss": "one-should-pervade"
 },
 {
-"surface": "mūlamantreṇa",
-"quick_gloss": "with-root+mantra"
+"surface": "mūla+mantreṇa",
+"quick_gloss": "with-root-mantra"
 },
 {
 "surface": "tanuṃ",
@@ -601,7 +641,7 @@
 },
 {
 "surface": "devīṃ",
-"quick_gloss": "goddess"
+"quick_gloss": "the-goddess"
 },
 {
 "surface": "tataḥ",
@@ -621,8 +661,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "mandasmitalasanmukhīm",
-"quick_gloss": "with-gentle+smile+shining+face"
+"surface": "manda+smita",
+"quick_gloss": "with-gentle-smile"
+},
+{
+"surface": "lasat+mukhīm",
+"quick_gloss": "shining-face"
 }
 ]
 },
@@ -634,16 +678,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "ṣaṭkoṇaṃ",
-"quick_gloss": "six+cornered-figure"
+"surface": "ṣaṭ+koṇaṃ",
+"quick_gloss": "six-cornered-figure"
 },
 {
-"surface": "tadbāhye",
-"quick_gloss": "its+outside"
+"surface": "tat+bāhye",
+"quick_gloss": "outside-that"
 },
 {
-"surface": "aṣṭadalāmbujam",
-"quick_gloss": "eight+petal+lotus"
+"surface": "aṣṭa+dala+ambujam",
+"quick_gloss": "eight-petalled-lotus"
 }
 ]
 },
@@ -655,8 +699,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "caturdvārasamopetaṃ",
-"quick_gloss": "with-four+doors+endowed"
+"surface": "catur+dvāra+samopetaṃ",
+"quick_gloss": "endowed-with-four-gates"
 },
 {
 "surface": "maṇḍalaṃ",
