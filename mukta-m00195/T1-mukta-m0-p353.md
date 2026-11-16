@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p353-v8801
-[o-annapūrṇe](annapūrṇe) [fire-born](vahni+jāyā) [and](ca) [thirty-one-syllabled](ekatriṃśa+arṇakaḥ) [mantra](manuḥ)
+[o-annapūrṇā](annapūrṇe) [fire-born-syllable](vahnijāyā) [and](ca) [thirty-one](ekatriṃśa)+[syllabled](arṇakaḥ) [mantra](manuḥ)
 
 ## mukta-m0-p353-v8802
-[meditation-worship-application](dhyāna+pūjā+prayoga+ādi) [as-before](prāk+vat) [all](sarvaṃ) [declared](samīritam)
+[meditation](dhyāna)+[worship](pūjā)+[application](prayoga)+[etc.](ādi) [as-before](prāgvat) [all](sarvaṃ) [declared](samīritam)
 
 ## mukta-m0-p353-v8803
-[praṇava](tāraḥ) [ramā](ramā) [and](ca) [hṛllekhā](hṛllekhā) [obeisance](namaḥ) [bhagavatī-thus](bhagavatī+iti) [and](ca)
+[tāra-syllable](tāro) [ramā-syllable](ramā) [and](ca) [hṛllekhā-syllable](hṛllekhā) [obeisance](namo) [bhagavatī](bhagavati)+[thus](iti) [and](ca)
 
 ## mukta-m0-p353-v8804
-[annapūrṇe-fire-born-ending](annapūrṇe+agni+jāyā+antaḥ) [with-mantra-syllables](manu+varṇaiḥ) [limb-conception](aṃga+kalpanam)
+[annapūrṇe](annapūrṇe)+[fire-born-syllable](agnijāyā)+[ending-with](aṃto) [with-mantra](manu)+[syllables](varṇaiḥ)+[limb](aṃga)+[formation](kalpanam)
 
 ## mukta-m0-p353-v8805
-[all](sarvaṃ) [as-before](prāk+vat) [to-be-known](parijñeyaṃ) [specific](viśiṣṭaṃ) [of-one-reciting](japataḥ) [fruit](phalam)
+[all](sarvaṃ) [as-before](prāgvat)+[to-be-known](parijñeyaṃ) [special](viśiṣṭaṃ) [of-one-reciting](japataḥ) [fruit](phalam)
 
 ## mukta-m0-p353-v8806
-[hrīṃ](hrīṃ) [gaurī](gauri) [rudra-beloved](rudra+dayite) [yogeśvarī-position](yogeśvarī+padaṃ) [one-should-say](vadet)
+[hrīṃ](hrīṃ) [gauri](gauri)+[beloved-of-rudra](rudradayite) [yogeśvarī](yogeśvari)+[word](padaṃ) [one-should-say](vadet)
 
 ## mukta-m0-p353-v8807
-[aja](ajaḥ) [its](asya) [sage](muniḥ) [declared](ākhyātaḥ) [anuṣṭup](anuṣṭup) [meter](chandaḥ) [is](asti) [deity](devatā)
+[aja](ajaḥ)+[its](asya) [sage](muniḥ)+[declared](ākhyātaḥ)+[anuṣṭup](anuṣṭup)+[meter](chandaḥ)+[is](asti) [deity](devatā)
 
 ## mukta-m0-p353-v8808
-[with-six-long-by-māyā](ṣaṭ+dīrgham+āyayā) [one-should-make](kuryyāt) [six-limbs](ṣaṭ+aṅgāni) [o-desire-granter](manoratha)
+[six](ṣaḍ)+[long](dīrgha)+[with-māyā](māyayā) [one-should-make](kuryyāt)+[six](ṣaḍ)+[limbs](aṅgāni) [o-manoratha](manoratha)
 
 ## mukta-m0-p353-v8809
-[noose-and-goad](pāśa+aṃkuśau) [all-adorned](sarva+bhūṣāṃ) [that](tāṃ) [gaurī](gaurīṃ) [always](sarvadā) [one-should-meditate](smaret)
+[noose](pāśa)+[and-goad](aṃkuśau) [all](sarva)+[ornaments](bhūṣāṃ) [that](tāṃ) [gaurī](gaurīṃ) [always](sarvadā) [one-should-meditate](smaret)
 
 ## mukta-m0-p353-v8810
-[limbs](aṅgāni) [first](pūrvam) [having-worshipped](abhyarcya) [subhagā-and-others](subhagā+ādyāḥ) [then](tataḥ) [one-should-worship](yajet)
+[limbs](aṅgāni) [first](pūrvam)+[having-worshipped](abhyarcya) [subhagā](subhagā)+[and-others](ādyāḥ)+[then](tataḥ) [one-should-worship](yajet)
 
 ## mukta-m0-p353-v8811
-[noose](pāśā) [goad](aṃkuśā) [mirror-named](darppaṇa+ākhyā) [and](ca) [collyrium](añjanā) [and](ca) [applicator-stick](śalākikā)
+[noose-and-goad](pāśāṃkuśā) [mirror](darppaṇa)+[named](ākhyā) [and](ca)+[collyrium](añjanā) [and](ca) [applicator-stick](śalākikā)
 
 ## mukta-m0-p353-v8812
-[indra-and-others](śakra+ādayaḥ) [their-weapons](tat+astrāṇi) [gaurī-worship](gaurī+pūjā) [declared](samīritā)
+[indra](śakra)+[and-others](ādayaḥ)+[their](tat)+[weapons](astrāṇi) [gaurī](gaurī)+[worship](pūjā) [declared](samīritā)
 
 ## mukta-m0-p353-v8813
-[libation-etc](tarppaṇa+ādi) [then](tataḥ) [one-should-do](kuryyāt) [guru](guruṃ) [having-pleased](santoṣya) [with-effort](yatnataḥ)
+[libation](tarppaṇa)+[etc.](ādi) [then](tataḥ) [one-should-perform](kuryyāt)+[guru](guruṃ) [having-pleased](santoṣya) [with-effort](yatnataḥ)
 
 ## mukta-m0-p353-v8814
-[of-left-eyed-women](vāma+akṣīṇām) [with-eye-collyrium](akṣi+maṣyā) [on-left-thigh](vāma+urau) [one-should-write-well](su+likhet) [mantra](manum)
+[of-beautiful-eyed-women](vāmākṣīṇām)+[eye-collyrium](akṣimaṣyā) [on-left-thigh](vāmorau) [one-should-write-well](sulikhet)+[mantra](manum)
 
 ## mukta-m0-p353-v8815
-[hundred](śataṃ) [thousand](sahasraṃ) [fickle-eyed-woman](lola+akṣīm) [one-may-bring](ānayet) [by-desire-infatuated](kāma+mohitām)
+[hundred](śataṃ) [thousand](sahasraṃ) [tremulous-eyed-woman](lolākṣīm)+[one-should-bring](ānayet)+[by-desire](kāma)+[infatuated](mohitām)
 
 ## mukta-m0-p353-v8816
-[given](dattaṃ) [consumed](saṃsevitaṃ) [all-people](sarva+janatā) [subjugation-causing](vaśya+kārakam)
+[given](dattaṃ) [well-used](saṃsevitaṃ) [all](sarva)+[people](janatā)+[subjugation](vaśya)+[causing](kārakam)
 
 ## mukta-m0-p353-v8817
-[desired-woman-subduing-o-śaṅkarī](kāṃkṣita+strī+vaśaṅkari) [o-subhagā](subhage) [and](ca) [separately](pṛthak) [pair](dvayam)
+[desired](kāṃkṣita)+[woman](strī)+[o-subduer](vaśaṅkari) [o-subhagā](subhage) [and](ca) [separately](pṛthak)+[pair](dvayam)
 
 ## mukta-m0-p353-v8818
-[gauṃ](gauṃ) [to-gaurī-form](gaurī+mūrttaye) [hṛt](hṛt) [and](ca) [seat-mantra](pīṭha+mantraḥ) [declared](udāhṛtaḥ)
+[gauṃ](gauṃ) [to-gaurī](gaurī)+[form](mūrttaye) [hṛt-syllable](hṛt)+[and](ca) [pedestal](pīṭha)+[mantra](mantraḥ) [declared](udāhṛtaḥ)
 
 ## mukta-m0-p353-v8819
-[that](tat) [us](naḥ) [gaurī](gaurī) [may-inspire](pracodayāt)
+[that](tat)+[us](naḥ) [gaurī](gaurī) [may-inspire](pracodayāt)
 
 ## mukta-m0-p353-v8820
-[limbs](aṅgāni) [first](pūrvam) [having-worshipped](abhyarcya) [subhagā-and-others](subhagā+ādyāḥ) [then](tataḥ) [one-should-worship](yajet)
+[limbs](aṅgāni) [first](pūrvam)+[having-worshipped](abhyarcya) [subhagā](subhagā)+[and-others](ādyāḥ)+[then](tataḥ) [one-should-worship](yajet)
 
 ## mukta-m0-p353-v8821
-[with-bindu-ending](sa+bindu+antaṃ) [that-name](tat+nāma) [obeisance-ending](namaḥ+antaṃ) [that-mantra](tat+manuḥ) [considered](mataḥ)
+[with-bindu](sabindu)+[ending-in-ṅ](ṅentaṃ) [that](tat)+[name](nāma) [namas](namaḥ)+[ending](antaṃ) [that](tat)+[mantra](manuḥ)+[considered](mataḥ)
 
 ## mukta-m0-p353-v8822
-[vāmā](vāmā) [jyeṣṭhā](jyeṣṭhā) [and](ca) [raudrī](raudrī) [and](ca) [guhya-śakti](guhya+śaktiḥ) [in-order-beginning-with-these](krama+ādimāḥ)
+[vāmā](vāmā) [jyeṣṭhā](jyeṣṭhā) [and](ca) [raudrī](raudrī) [and](ca) [guhyaśakti](guhyaśaktiḥ) [in-order](krama)+[beginning-with-these](ādimāḥ)
 
 ## mukta-m0-p353-v8823
-[one-should-recite-mantra](japet+mantraṃ) [hundred](śataṃ) [and](ca) [also](api) [he](saḥ) [subdued](vaśyaḥ) [becomes](bhavati) [certainly](dhruvam)
+[one-should-recite](japet)+[mantra](mantraṃ) [hundred](śataṃ) [and](ca)+[also](api) [he](sa) [subjugated](vaśyaḥ) [becomes](bhavati) [certainly](dhruvam)
 
 ## mukta-m0-p353-v8824
-[māyā](māyā) [obeisance](namaḥ) [and](ca) [o-brahma-śrī-adorned](brahma+śrī+rājite) [o-king-worshipped](rāja+pūjite)
+[māyā](māyā) [namas](namaḥ)+[and](ca) [brahmaśrīrājite](brahmaśrīrājite) [rājapūjite](rājapūjite)
 
 ## mukta-m0-p353-v8825
-[na](na) [o-vaśaṅkarī](vaśaṅkari) [and](ca) [thus-having-said](iti+uktvā) [o-all-world-subduer](sarva+loka+vaśaṃkari)
+[na](na) [vaśaṅkari](vaśaṅkari) [and](ca)+[thus](iti)+[having-said](uktvā) [all](sarva)+[world](loka)+[o-subduer](vaśaṃkari)
