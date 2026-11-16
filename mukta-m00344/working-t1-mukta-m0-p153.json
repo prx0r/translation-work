@@ -24,7 +24,7 @@
 "quick_gloss": "not"
 },
 {
-"surface": "darpaṇād",
+"surface": "darpaṇāt",
 "quick_gloss": "from-mirror"
 },
 {
@@ -33,10 +33,10 @@
 },
 {
 "surface": "asti",
-"quick_gloss": "exists"
+"quick_gloss": "is"
 },
 {
-"surface": "tvādarśaḥ",
+"surface": "tvā+ādarśaḥ",
 "quick_gloss": "your-reflection"
 },
 {
@@ -85,7 +85,7 @@
 "quick_gloss": "not"
 },
 {
-"surface": "ca+itarat",
+"surface": "cetarat",
 "quick_gloss": "other"
 }
 ]
@@ -118,7 +118,7 @@
 "quick_gloss": "not"
 },
 {
-"surface": "ca+itarat",
+"surface": "cetarat",
 "quick_gloss": "other"
 },
 {
@@ -180,10 +180,6 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "k:",
-"quick_gloss": "reading"
-},
-{
 "surface": "bhāsataḥ",
 "quick_gloss": "appears"
 },
@@ -193,7 +189,7 @@
 },
 {
 "surface": "asti",
-"quick_gloss": "exists"
+"quick_gloss": "is"
 },
 {
 "surface": "iti",
@@ -213,8 +209,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "na+asti",
-"quick_gloss": "not-exists"
+"surface": "na",
+"quick_gloss": "not"
+},
+{
+"surface": "asti",
+"quick_gloss": "is"
 },
 {
 "surface": "iti",
@@ -230,7 +230,7 @@
 },
 {
 "surface": "niścayaḥ",
-"quick_gloss": "determination"
+"quick_gloss": "certainty"
 },
 {
 "surface": "na",
@@ -238,7 +238,7 @@
 },
 {
 "surface": "eva",
-"quick_gloss": "indeed"
+"quick_gloss": "ever"
 },
 {
 "surface": "siddhyati",
@@ -279,8 +279,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "na+asti",
-"quick_gloss": "not-exists"
+"surface": "na",
+"quick_gloss": "not"
+},
+{
+"surface": "asti",
+"quick_gloss": "is"
 },
 {
 "surface": "iti",
@@ -300,7 +304,7 @@
 },
 {
 "surface": "jagataḥ",
-"quick_gloss": "of-the-world"
+"quick_gloss": "of-world"
 },
 {
 "surface": "layaḥ",
@@ -350,7 +354,7 @@
 },
 {
 "surface": "eka+rūpam",
-"quick_gloss": "one-nature"
+"quick_gloss": "one-form"
 },
 {
 "surface": "satyam",
@@ -370,8 +374,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "na+asti",
-"quick_gloss": "not-exists"
+"surface": "na",
+"quick_gloss": "not"
+},
+{
+"surface": "asti",
+"quick_gloss": "is"
 },
 {
 "surface": "sarvam",
@@ -379,7 +387,7 @@
 },
 {
 "surface": "asti",
-"quick_gloss": "exists"
+"quick_gloss": "is"
 },
 {
 "surface": "iti",
@@ -407,7 +415,7 @@
 },
 {
 "surface": "dhyeyam",
-"quick_gloss": "to-be-considered"
+"quick_gloss": "to-be-noted"
 }
 ]
 },
@@ -502,7 +510,7 @@
 },
 {
 "surface": "asti",
-"quick_gloss": "exists"
+"quick_gloss": "is"
 },
 {
 "surface": "na",
@@ -514,7 +522,7 @@
 },
 {
 "surface": "asti",
-"quick_gloss": "exists"
+"quick_gloss": "is"
 },
 {
 "surface": "sādhakaḥ",
@@ -579,8 +587,12 @@
 "quick_gloss": "says"
 },
 {
-"surface": "sā+eva",
-"quick_gloss": "she-alone"
+"surface": "sā",
+"quick_gloss": "that-very"
+},
+{
+"surface": "eva",
+"quick_gloss": "indeed"
 },
 {
 "surface": "iti",
@@ -609,7 +621,7 @@
 },
 {
 "surface": "rāma",
-"quick_gloss": "O-Rama"
+"quick_gloss": "Rama"
 },
 {
 "surface": "vijñāna+kramam",
@@ -617,7 +629,7 @@
 },
 {
 "surface": "āditaḥ",
-"quick_gloss": "from-the-beginning"
+"quick_gloss": "from-beginning"
 }
 ]
 },
@@ -642,11 +654,11 @@
 },
 {
 "surface": "āditaḥ",
-"quick_gloss": "from-the-beginning"
+"quick_gloss": "from-beginning"
 },
 {
 "surface": "sādhana+prāptim",
-"quick_gloss": "attainment-of-means"
+"quick_gloss": "means-attainment"
 },
 {
 "surface": "abhyetya",

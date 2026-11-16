@@ -2,13 +2,13 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p150-v3726
-[who](yaḥ) [but](tu) [highest](uttamaḥ) [even](api) [by-own-will](sva+ācchandyāt) [by-force-of-prārabdha](prārabdha+vaśataḥ) [even](api) [or](vā)
+[who](yaḥ) [but](tu) [highest](uttamaḥ) [even](api) [by-own-will](sva+ācchandyāt) [or](vā) [due-to-prārabdha-force](prārabdha+vaśataḥ) [even](api)
 
 ## mukta-m0-p150-v3727
-[of-them](tā) [even](api) [non-forgetfulness](avismṛtiḥ) [unfaded](amlānā) [indeed](eva) [thus](iti) [meaning](arthaḥ)
+[of-them](tā) [non-forgetfulness](avismṛtiḥ) [unfaded](amlānā) [indeed](eva) [thus](iti) [meaning](arthaḥ)
 
 ## mukta-m0-p150-v3728
-[in-reality](vastutaḥ) [listen](śṛṇu) [O-god-on-earth](bhūdeva) [of-middle-and-highest-knowers](madhyama+uttama+jñāninām)
+[in-reality](vastutaḥ) [listen](śṛṇu) [O-god-on-earth](bhū+deva) [of-middle-and-highest-knowers](madhyama+uttama+jñāninām)
 
 ## mukta-m0-p150-v3729
 [of-those-two](tayoḥ) [not](na) [prārabdha](prārabhdam) [even](api) [thus](iti) [says](āha) [in-reality](vastutaḥ) [thus](iti)
@@ -20,7 +20,7 @@
 [and](ca) [thus](iti) [Śiva-Dṛṣṭi](śi0+dṛ0) [7|5-6](7|5-6) [thus](iti)
 
 ## mukta-m0-p150-v3732
-[reduced-to-ashes](bhasmī+kṛtam) [therefore](ataḥ) [of-them](teṣāṃ) [not](na) [anything](kiñcit) [remains](pariśiṣyate)
+[reduced-to-ashes](bhasmīkṛtam) [therefore](ataḥ) [of-them](teṣāṃ) [not](na) [anything](kiñcit) [remains](pariśiṣyate)
 
 ## mukta-m0-p150-v3733
 [remains](śiṣyati) [thus](iti) [says](āha) [karma](karma) [thus](iti) [all](sarvaṃ) [duality](dvaitam) [not](na) [anything](kiñcit) [karma](karma)
@@ -32,7 +32,7 @@
 [because-of-equality-with-Śiva](śiva+tulyatvāt) [not](na) [karma](karma) [thus](iti) [says](āha) [listen](śṛṇu) [thus](iti)
 
 ## mukta-m0-p150-v3736
-[not](na) [is](asti) [difference](bhedaḥ) [even-to-a-small-degree](leśataḥ) [even](api) [truth](satyam) [this](etat) [not](na) [doubt](saṃśayaḥ)
+[not](na) [is](asti) [difference](bhedaḥ) [even-to-the-least-degree](leśataḥ) [even](api) [truth](satyam) [this](etat) [not](na) [doubt](saṃśayaḥ)
 
 ## mukta-m0-p150-v3737
 [remainder-of-prārabdha](prārabdha+śeṣaḥ) [thus](iti) [meaning](bhāvaḥ)
@@ -50,13 +50,13 @@
 [thus](evaṃ) [having-heard](śrutvā) [again](punā) [Rāma](rāmaḥ) [asked](papraccha) [son-of-Atri](atri+sutaṃ) [sage](munim)
 
 ## mukta-m0-p150-v3742
-[destroyed](vinaṣṭaḥ) [my](mama) [doubt](sandehaḥ) [known](viditaṃ) [that](tat) [great-state](mahat+padam)
+[destroyed](vinaṣṭaḥ) [my](mama) [doubt](sandehaḥ) [known](viditaṃ) [that](tat) [supreme-state](mahat+padam)
 
 ## mukta-m0-p150-v3743
-[that](tat) [great-state](mahat+padam) [of-the-nature-of-pure-consciousness-non-dual-self](śuddha+cit+advaya+ātma+rūpam)
+[that](tat) [supreme-state](mahat+padam) [of-nature-of-pure-consciousness-non-dual-self](śuddha+cit+advaya+ātma+rūpam)
 
 ## mukta-m0-p150-v3744
-[even-so](tathā+api) [by-you](bhavatā) [spoken](proktam) [from-the-beginning](āditaḥ) [all](sarvam) [indeed](eva) [but](tu)
+[even-so](tathā+api) [by-you](bhavatā) [spoken](proktam) [from-beginning](āditaḥ) [all](sarvam) [indeed](eva) [but](tu)
 
 ## mukta-m0-p150-v3745
 [all-spoken-meaning](prokta+akhila+artham) [in-brief](saṃkṣepeṇa) [tell](brūhi) [thus](iti) [asks](pṛcchati) [even-so](tathā+api) [thus](iti)
@@ -74,4 +74,4 @@
 [of-all](sarvasya) [spoken](proktasya) [most-essential](sāra+tamam)
 
 ## mukta-m0-p150-v3750
-[that](sā) [by-the-greatness-of-the-power-called-independence](svātantrya+abhidha+māyā+śakti+māhātmyataḥ) [always](sadā)
+[she](sā) [by-greatness-of-power-called-independence](svātantrya+abhidha+māyā+śakti+māhātmyataḥ) [always](sadā)
