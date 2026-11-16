@@ -5,13 +5,13 @@
 [tortoise](kūrmaṃ) [back+raised](pṛṣṭha+unnataṃ) [in-middle](madhye) [twelve+part+elevated](dvādaśa+aṃśa+samucchritam)
 
 ## mukta-m0-p59-v1452
-[made-of-bricks](aiṣṭakaṃ) [for-all+accomplishment](sarva+sidhy+artha) [sometimes+stated](dvacit+uktaṃ) [in-another+view](mata+antare)
+[made-of-bricks](aiṣṭakaṃ) [for-all+accomplishment](sarva+sidhy+artham) [sometimes+stated](kvacit+uktaṃ) [in-another-view](mata+antare)
 
 ## mukta-m0-p59-v1453
-[five+garlands](pañca+hāraṃ) [wide+eyed](viśāla+akṣaṃ) [seven+garlands](sapta+hāraṃ) [with-good+stars](su+tārakam)
+[five+garlands](pañca+hāraṃ) [wide-eyed](viśāla+akṣaṃ) [seven+garlands](sapta+hāraṃ) [with-beautiful-stars](su+tārakam)
 
 ## mukta-m0-p59-v1454
-[in-siddhānta](siddhānte) [sand+filled](bālukā+pūrṇa) [platform+bed+endowed](pīṭha+śayyā+anvitaṃ) [auspicious](śubham)
+[in-the-siddhānta](siddhānte) [sand+filled](bālukā+pūrṇam) [pedestal+bed+endowed-with](pīṭha+śayyā+anvitaṃ) [auspicious](śubham)
 
 ## mukta-m0-p59-v1455
 [with-cloths](vastraiḥ) [of-various+kinds](nānā+vidhaiḥ) [covered](channaṃ) [pavilion](maṇḍapaṃ) [with-pillars+joined](stambha+saṃyutam)
@@ -20,58 +20,58 @@
 [hanging+flower+garlands](lamba+puṣpa+srajaṃ) [one-should-make](kuryāt) [with-bells+chowries+garments](sa+ghaṇṭā+cāmara+amvaram)
 
 ## mukta-m0-p59-v1457
-[yellow](pītaṃ) [red](raktaṃ) [likewise](tathā) [black](kṛṣṇaṃ) [smoky](ghūmraṃ) [white](śveta) [parrot+colored](śuka+prabham)
+[yellow](pītaṃ) [red](raktaṃ) [likewise](tathā) [black](kṛṣṇaṃ) [smoky](dhūmraṃ) [white](śvetam) [parrot+colored](śuka+prabham)
 
 ## mukta-m0-p59-v1458
 [nine+these](nava+etān) [white](dhavalān) [in-peaceful-rite](śāntau) [in-fierce-rite](raudre) [black-ones](kṛṣṇān) [one-should-employ](prayojayet)
 
 ## mukta-m0-p59-v1459
-[seven+cubits](sapta+hastāḥ) [flags](patākāḥ) [indeed](tu) [twenty+fingers+wide](viṃśati+aṅgula+vistarāḥ)
+[seven+cubits](sapta+hastāḥ) [banners](patākāḥ) [indeed](tu) [twenty+fingers+in-width](viṃśati+aṅgula+vistarāḥ)
 
 ## mukta-m0-p59-v1460
-[ten+cubits](daśa+hastāḥ) [of-flags](patākānāṃ) [fifth+part](pañcama+aṃśa) [inserted](praveśitāḥ)
+[ten+cubits](daśa+hastāḥ) [of-banners](patākānāṃ) [fifth+part](pañcama+aṃśaḥ) [inserted](praveśitāḥ)
 
 ## mukta-m0-p59-v1461
-[with-seven](saptabhiḥ) [with-ten](daśabhiḥ) [should-be-made](kāryā) [twenty](viṃśā) [which](yāḥ) [with-cubits](ca+karaiḥ) [banners](dhvajāḥ)
+[with-seven](saptabhiḥ) [with-ten](daśabhiḥ) [should-be-made](kāryāḥ) [twenty](viṃśati) [which](yāḥ) [with-cubits](karaiḥ) [flags](dhvajāḥ)
 
 ## mukta-m0-p59-v1462
-[sometimes](dvacit) [eight+cubits+long](aṣṭa+kara+āyāmā) [in-width](vistāreṇa) [two+cubits](dvi+hastakāḥ)
+[sometimes](kvacit) [eight+cubits+in-length](aṣṭa+kara+āyāmāḥ) [in-width](vistāreṇa) [two+cubits](dvi+hastakāḥ)
 
 ## mukta-m0-p59-v1463
 [with-cloths](vastraiḥ) [strong](dṛḍhaiḥ) [new](navaiḥ) [always](nityaṃ) [in-divine+rites](deva+kāryeṣu) [honored](pūjitāḥ)
 
 ## mukta-m0-p59-v1464
-[copper](tāmrā) [iron](lauhāḥ) [and](ca) [silver](raupyāḥ) [and](ca) [golden](haimāḥ) [east+beginning+arches](prāk+ādi+toraṇāḥ)
+[copper](tāmrāḥ) [iron](lauhāḥ) [and](ca) [silver](raupyāḥ) [and](ca) [golden](haimāḥ) [in-east+etc.](prāk+ādi) [archways](toraṇāḥ)
 
 ## mukta-m0-p59-v1465
-[in-east+etc.+directions](pūrva+ādi+dikṣu) [should-be-placed](vinyasyāḥ) [arches](toraṇā) [for-prosperity](bhūtaye) [in-order](kramāt)
+[in-east+etc.+directions](pūrva+ādi+dikṣu) [should-be-placed](vinyasyāḥ) [archways](toraṇāḥ) [for-prosperity](bhūtaye) [in-order](kramāt)
 
 ## mukta-m0-p59-v1466
-[vaikaṅkata+śamī+bilva+khādira](vaikaṅkata+śamī+bilva+khādirāḥ) [enemy+destroying](śatru+nāśanāḥ)
+[vaikaṅkata](vaikaṅkata) [śamī](śamī) [bilva](bilva) [khādira](khādirāḥ) [enemy+destroying](śatru+nāśanāḥ)
 
 ## mukta-m0-p59-v1467
-[aśvattha](aśvatthaḥ) [and](ca) [also](api) [mādhūka](mādhūka) [plakṣa](plakṣaḥ) [bilva+eighth](bilva+aṣṭamaḥ) [sometimes](kvacit)
+[aśvattha](aśvatthaḥ) [and](ca) [also](api) [mādhūka](mādhūkaḥ) [plakṣa](plakṣaḥ) [bilva](bilvaḥ) [eighth](aṣṭamaḥ) [sometimes](kvacit)
 
 ## mukta-m0-p59-v1468
-[in-east+īśa+fire+corners](prāk+īśa+vahni+koṇiṣu) [east+facing](pūrva+āsyaṃ) [triad](tritayaṃ) [should-be](bhavet)
+[in-east+īśa+fire+corners](prāk+īśa+vahni+koṇiṣu) [east+facing](pūrva+āsyam) [the-triad](tritayam) [should-be](bhavet)
 
 ## mukta-m0-p59-v1469
-[in-north](saumye) [north+facing](saumya+nanaṃ) [should-be-made](kāryaṃ) [in-south](yāmye) [south+facing](yāmya+ānanaṃ) [considered](matam)
+[in-north](saumye) [north+facing](saumya+ananam) [should-be-made](kāryam) [in-south](yāmye) [south+facing](yāmya+ananam) [considered](matam)
 
 ## mukta-m0-p59-v1470
-[nyagrodha+udumbara+aśvattha+plakṣa+tree+born](nyagrodha+udumbara+aśvattha+plakṣa+vṛkṣa+udbhavāḥ) [auspicious](śubhāḥ)
+[from-nyagrodha](nyagrodha) [udumbara](udumbara) [aśvattha](aśvattha) [plakṣa+tree+arisen](plakṣa+vṛkṣa+udbhavāḥ) [auspicious](śubhāḥ)
 
 ## mukta-m0-p59-v1471
-[four+cornered](catur+asrāḥ) [and](tu) [also](atha) [eight+cornered](aṣṭa+asrā) [round](vṛttā) [or](vā) [wheel+without-holes](cakra+nirbraṇāḥ)
+[four-cornered](caturasrāḥ) [or](atha) [eight-cornered](aṣṭa+asrāḥ) [or](vā) [round](vṛttāḥ) [or](vā) [wheel+shaped](cakra+nirvraṇāḥ)
 
 ## mukta-m0-p59-v1472
-[of-pillar-base](jaṅghāyāḥ) [and](ca) [of-top](lalāṭasya) [and](ca) [one+cubit+insertion](eka+hasta+praveṣṭanam)
+[of-the-pillar](jaṅghāyāḥ) [and](ca) [of-the-top](lalāṭasya) [and](ca) [one+cubit+insertion](eka+hasta+praveṣṭanam)
 
 ## mukta-m0-p59-v1473
-[with-bells+chowries+good+cloths](ghaṇṭā+cāmara+sat+vastra) [flower+garlands+incense](puṣpa+srag+gandha) [with-fumigations](dhūpanaiḥ)
+[with-bells+chowries+good+cloths](ghaṇṭā+cāmara+sat+vastra) [with-flowers+garlands+incense](puṣpa+srag+gandha+dhūpanaiḥ)
 
 ## mukta-m0-p59-v1474
-[at-pillar-base+etc.](jaṅghā+ādau) [deities](devatā) [having-placed](nyastvā) [on-ground](bhūmau) [posts](hastau) [one-should-erect](praropayet)
+[at-pillar+etc.](jaṅghā+ādau) [deities](devatāḥ) [having-installed](nyastvā) [on-ground](bhūmau) [posts](hastau) [one-should-erect](praropayet)
 
 ## mukta-m0-p59-v1475
-[at-top](śṛṅge) [twelve+zodiac+situated](dvādaśa+rāśi+sthāḥ) [in-their+own](sve) [in-their+own](sve) [rudras+suns+viṣṇus](rudra+arka+cakriṇaḥ)
+[at-top](śṛṅge) [in-twelve+zodiac+situated](dvādaśa+rāśi+sthāḥ) [in-their-own](sve) [in-their-own](sve) [rudras+suns+viṣṇus](rudra+arka+cakriṇaḥ)

@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p60-v1476
-[dawn](pratyūṣaḥ) [and](ca) [radiance](prabhāsaḥ) [and](ca) [these](ete) [eight](aṣṭau) [Vasus](vasavaḥ) [are-remembered](smṛtāḥ)
+[pratyūṣa](pratyūṣaḥ) [and](ca) [prabhāsa](prabhāsaḥ) [and](ca) [these](ete) [eight](aṣṭau) [vasus](vasavaḥ) [are-remembered](smṛtāḥ)
 
 ## mukta-m0-p60-v1477
-[in-Tretā-yuga](traitāyuge) [named-Tvanattā](tvanattā+ākhyaḥ) [in-Kali](kalau) [lord](svāmī) [Sadāśiva](sadāśivaḥ)
+[in-tretā-yuga](traitāyuge) [but](tu) [ananta-named](anattākhyaḥ) [in-kali-age](kalau) [lord](svāmī) [sadāśiva](sadāśivaḥ)
 
 ## mukta-m0-p60-v1478
-[of-fish-etc](mīna+ādīnām) [and](ca) [of-zodiac-signs](rāśīnām) [triad](tritayam) [triad](tritayam) [in-order](kramāt)
+[of-mīna+etc.](mīnādīnāṃ) [and](ca) [of-zodiac-signs](rāśīnāṃ) [triad](tritayaṃ) [triad](tritayaṃ) [in-order](kramāt)
 
 ## mukta-m0-p60-v1479
-[Īśvara](īśvara) [and](ca) [Rudra](rudram) [Śaṅkara](śaṅkaram) [Śambhu](śambhu) [and-knower](jñakam)
+[īśvara](īśvara) [avya](āvyaṃ) [and](ca) [rudra](rudraṃ) [śaṅkara](śaṅkaraṃ) [śambhu+jña](śambhujñakam)
 
 ## mukta-m0-p60-v1480
-[of-Viṣṇu-and-Sun](viṣṇu+arkayoḥ) [in-establishment](pratiṣṭhāne) [Viṣṇu-Indra-etc](viṣṇu+indra+ādīn) [one-should-appoint](prakalpayet)
+[of-viṣṇu+and-sun](viṣṇvarkayoḥ) [in-installation](prathiṣṭhāne) [viṣṇu+indra+etc.](viṣṇvindradīn) [one-should-assign](prakalpayet)
 
 ## mukta-m0-p60-v1481
-[east-etc-gate](pūrva+ādi+toraṇā) [overseers](adhyakṣāḥ) [four](catvāraḥ) [these](ime) [are-declared](aprakīrtitāḥ)
+[from-east+etc.](pūrvāditoraṇā) [presiding](dhyakṣaḥ) [four](catvāro) [mī](mī) [are-proclaimed](prakīrtitāḥ)
 
 ## mukta-m0-p60-v1482
-[outside](bahis) [thus](evam) [having-adorned](alaṅkṛtya) [then](tataḥ) [and](ca) [inside](abhyantare) [again](punaḥ)
+[outside](bahir) [thus](evam) [having-decorated](alaṅkṛtya) [then](tataḥ) [and](ca) [inside](abhyantare) [again](punaḥ)
 
 ## mukta-m0-p60-v1483
-[with-good-jewels](sa+ratnau) [water-jars-with-bottoms](saghiga+rbhāḥ) [and](ca) [filled](saṃpūrṇāḥ) [with-fragrant-water](gandha+vāriṇāḥ)
+[with-good-jewels](suratnau) [six+pitched](ṣaghigarbhāśca) [filled](saṃpūrṇā) [with-fragrant+water](gandhavāriṇāḥ)
 
 ## mukta-m0-p60-v1484
-[with-lamps-unbroken-rice-fruits](dīpa+akṣata+phalaiḥ) [joined](yuktāḥ) [door-guardians-eight](dvāḥ+pāla+aṣṭakam) [with-mantras](mantritāḥ)
+[with-lamp+unbroken-rice+fruits](dīpākṣataphalair) [endowed](yuktā) [door+guardians+eight](dvāḥpālāṣṭaka) [consecrated-with-mantras](mantritāḥ)
 
 ## mukta-m0-p60-v1485
-[Rudra](rudra) [and-heroine](uvīra) [thus](iti) [are-to-be-known](jñeyāḥ) [eight](aṣṭau) [jar-deities](kalaśa+devatāḥ)
+[rudra](rūdra) [vīra](vīra) [thus](iti) [to-be-known](jñeyā) [eight](aṣṭau) [pitcher+deities](kalaśadevatāḥ)
 
 ## mukta-m0-p60-v1486
-[fifth](pañcamaḥ) [named-Śaṅkukarṇa](śaṅku+karṇa+ākhyaḥ) [another](tathā+aparaḥ) [all-eyed](sarva+netraḥ)
+[fifth](pañcamaḥ) [śaṅku+karṇa-named](śaṅkukarṇākhyaḥ) [all+eyed](sarvanetraḥ) [likewise](tathā) [another](aparaḥ)
 
 ## mukta-m0-p60-v1487
-[by-each](eka+eka) [multitude-of-beings](bhūta+koṭibhiḥ) [surrounded](āvṛtāḥ) [banner-deities](dhvaja+devatāḥ)
+[by-each+single+element+crores](ekaikabhūtakoṭībhir) [surrounded](āvṛtā) [banner+deities](dhvajadevatāḥ)
 
 ## mukta-m0-p60-v1488
-[gates](dāraḥ) [white-and-dark](sita+asitaḥ) [thus](ca) [are-to-be-known](vijñeyāḥ) [door-guardians](dvāra+pālakāḥ)
+[dāra](dāraḥ) [white+and-black](sitāsitaḥ) [and](ca) [thus](iti) [to-be-known](vijñeyā) [two+door-guardians](dvārapālakāḥ)
 
 ## mukta-m0-p60-v1489
-[with-Rambhā-group-eight](rambhā+aṣṭaka+samāyuktam) [with-region-guardians-eight](kṣetra+pāla+aṣṭaka+anvitam)
+[with-plantain+octad](rambhāṣṭaka) [accompanied](samāyukta) [with-field-protector+octad](kṣetrapālāṣṭaka) [endowed](anvitam)
 
 ## mukta-m0-p60-v1490
-[Kāla](kālaḥ) [Karālika](karālika) [one-footed](eka+aṅghriḥ) [Bhīma](bhīmaḥ) [eight](aṣṭau) [region-guardians](kṣetra+pālakāḥ)
+[kāla](kālaḥ) [karālika](karālika) [one+footed](ekāṅghrir) [bhīma](bhīmaḥ) [eight](aṣṭau) [field-protectors](kṣetrapālakāḥ)
 
 ## mukta-m0-p60-v1491
-[the-three-doors-bound](baddha+dvāra+traye) [in-that](tasmin) [one-should-bring-out](bāhayet) [facing-west](paścima+ānanam)
+[with-bound+three-doors](baddhadvāratraye) [in-that](tasmin) [one-should-cause-to-enter](bāhayet) [west+facing](paścimānanam)
 
 ## mukta-m0-p60-v1492
-[one-should-not-bring-in](na+praveśayet) [there](tatra+eva) [one-should-do](kuryāt) [of-the-sacrifice](yāgasya) [protection](rakṣaṇam)
+[one-should-cause-to-enter](praveśayet) [not](na) [there+indeed](tatraiva) [one-should-make](kuryāt) [of-the-rite](yāgasya) [protection](rakṣaṇam)
 
 ## mukta-m0-p60-v1493
-[of-the-sanctuary](prāsādasya) [by-measure](pramāṇena) [with-pedestal](sa+pīṭham) [with-two-roofs](dvi+chada+anvitam)
+[of-the-temple](prāsādasya) [by-measure](pramāṇena) [with-pedestal](sapīṭhaṃ) [with-two+canopies](dvicchadānvitam)
 
 ## mukta-m0-p60-v1494
-[with-four-roofs](catuḥ+chadam) [four-cornered](catuṣ+koṇam) [heroic](vīram) [flawless](vimalam) [bent-down](ānataḥ)
+[with-four+canopies](catuśchadaṃ) [four+cornered](catuṣkoṇaṃ) [vīra](vīraṃ) [by-vimala+measure](vimalamānataḥ)
 
 ## mukta-m0-p60-v1495
-[at-corners](koṇe) [with-banner-canopy](dhvaja+vitāna+āḍyam) [adorned-with-plantain-and-mango](kadalī+cūta+maṇḍitam)
+[in-corner](koṇe) [with-banner+canopy](dhvajavitānāḍyaṃ) [with-plantain+mango](kadalīcūta) [adorned](maṇḍitam)
 
 ## mukta-m0-p60-v1496
-[by-half-of-pavilion-measure](maṇḍapa+ardha+pramāṇena) [by-one-fourth-height](catur+yāṃśa+samucchritām)
+[by-pavilion+half+extension](maṇḍapārdhapratāṇena) [by-fourth+part](caturyāṃśa) [raised](samucchritām)
 
 ## mukta-m0-p60-v1497
-[one-should-make](kurvīta) [or](vā) [common](sāmānyam) [in-the-pavilion](maṇḍape) [two-platforms](vedikā+dvayam)
+[one-should-make](kurvīta) [or](vā) [also](atha) [common](sāmānyaṃ) [in-pavilion](maṇḍape) [altar+pair](vedikādvayam)
 
 ## mukta-m0-p60-v1498
-[one-should-make](kuryāt) [in-the-middle](tantadhyataḥ) [pedestal](pīṭham) [named-Bhadra](bhadra+ākhyaṃ) [made-of-ksīra-tree](kṣīra+vṛkṣa+jam)
+[one-should-make](kuryāt) [then+after-that](tantadhyataḥ) [pedestal](pīṭhaṃ) [bhadra-named](bhadrākhyaṃ) [milk+tree+born](kṣīravṛkṣajam)
 
 ## mukta-m0-p60-v1499
-[by-twice-the-breadth](vistāra+dvi+guṇam) [length](dairghyam) [for-the-smallest](kanyasānām) [always](sadā+eva) [indeed](tu)
+[breadth+double](vistāradviguṇaṃ) [length](dairghyaṃ) [of-the-smaller-ones](kanyasānāṃ) [always](sadaiva) [indeed](tu)
 
 ## mukta-m0-p60-v1500
-[pedestal-measure](pīṭha+mānam) [thus](iti) [is-declared](proktam) [hut-measure](kuṭī+mānam) [now](ataḥ) [I-speak](bruve)
+[pedestal+measure](pīṭhamānam) [thus](iti) [declared](proktaṃ) [of-hut+measure](kuṭīmānam) [now](ataḥ) [I-speak](bruve)
