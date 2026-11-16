@@ -78,7 +78,7 @@
 },
 {
 "surface": "guroḥ",
-"quick_gloss": "from-guru"
+"quick_gloss": "of-the-guru"
 },
 {
 "surface": "nṛṣu",
@@ -107,7 +107,7 @@
 },
 {
 "surface": "saṃbhave",
-"quick_gloss": "possibility"
+"quick_gloss": "when-possible"
 }
 ]
 },
@@ -119,7 +119,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "prakurvāṇo",
+"surface": "prakurvāṇaḥ",
 "quick_gloss": "performing"
 },
 {
@@ -128,7 +128,7 @@
 },
 {
 "surface": "ṛkṣa",
-"quick_gloss": "lunar-mansion"
+"quick_gloss": "constellation"
 },
 {
 "surface": "ādi",
@@ -172,8 +172,12 @@
 "quick_gloss": "that"
 },
 {
-"surface": "amūlakam",
-"quick_gloss": "baseless"
+"surface": "a",
+"quick_gloss": "without"
+},
+{
+"surface": "mūlakam",
+"quick_gloss": "basis"
 },
 {
 "surface": "iṣyate",
@@ -194,7 +198,7 @@
 },
 {
 "surface": "adhivāsa",
-"quick_gloss": "preliminary-consecration"
+"quick_gloss": "preliminary-rite"
 },
 {
 "surface": "vidhinā",
@@ -206,11 +210,11 @@
 },
 {
 "surface": "śiṣṭa",
-"quick_gloss": "remaining"
+"quick_gloss": "orthodox"
 },
 {
 "surface": "anusārataḥ",
-"quick_gloss": "following"
+"quick_gloss": "according-to-tradition"
 }
 ]
 },
@@ -248,7 +252,7 @@
 "tokens": [
 {
 "surface": "kuryāt",
-"quick_gloss": "should-do"
+"quick_gloss": "should-perform"
 },
 {
 "surface": "pāpa",
@@ -277,7 +281,7 @@
 },
 {
 "surface": "yāga",
-"quick_gloss": "and-sacrifice"
+"quick_gloss": "sacrifice"
 },
 {
 "surface": "vihīnaḥ",
@@ -329,7 +333,7 @@
 "quick_gloss": "if"
 },
 {
-"surface": "idaṃ",
+"surface": "idam",
 "quick_gloss": "this"
 },
 {
@@ -338,7 +342,7 @@
 },
 {
 "surface": "guroḥ",
-"quick_gloss": "of-guru"
+"quick_gloss": "of-the-guru"
 },
 {
 "surface": "api",
@@ -375,7 +379,7 @@
 },
 {
 "surface": "virodhataḥ",
-"quick_gloss": "contradiction"
+"quick_gloss": "due-to-contradiction"
 }
 ]
 },
@@ -391,12 +395,12 @@
 "quick_gloss": "and"
 },
 {
-"surface": "vidhā",
+"surface": "vidha",
 "quick_gloss": "rule"
 },
 {
 "surface": "upalakṣaṇam",
-"quick_gloss": "implication"
+"quick_gloss": "as-implication"
 },
 {
 "surface": "ucyate",
@@ -416,8 +420,8 @@
 "quick_gloss": "I-shall-worship"
 },
 {
-"surface": "iha",
-"quick_gloss": "here"
+"surface": "haṃ",
+"quick_gloss": "I"
 },
 {
 "surface": "tatra",
@@ -429,7 +433,7 @@
 },
 {
 "surface": "me",
-"quick_gloss": "to-me"
+"quick_gloss": "my"
 },
 {
 "surface": "guruḥ",
@@ -487,7 +491,7 @@
 },
 {
 "surface": "guroḥ",
-"quick_gloss": "of-guru"
+"quick_gloss": "of-the-guru"
 },
 {
 "surface": "ājñā",
@@ -495,7 +499,7 @@
 },
 {
 "surface": "anurūpataḥ",
-"quick_gloss": "according-to"
+"quick_gloss": "in-accordance-with"
 }
 ]
 },
@@ -515,20 +519,28 @@
 "quick_gloss": "but"
 },
 {
-"surface": "sva+icchā",
-"quick_gloss": "by-own-will"
+"surface": "sva",
+"quick_gloss": "own"
 },
 {
-"surface": "avāpte",
-"quick_gloss": "obtained"
+"surface": "icchā",
+"quick_gloss": "will"
+},
+{
+"surface": "āvāpte",
+"quick_gloss": "when-obtained"
 },
 {
 "surface": "tu",
 "quick_gloss": "indeed"
 },
 {
-"surface": "sat+gurau",
-"quick_gloss": "true-guru"
+"surface": "sat",
+"quick_gloss": "true"
+},
+{
+"surface": "gurau",
+"quick_gloss": "guru"
 }
 ]
 },
@@ -549,7 +561,7 @@
 },
 {
 "surface": "pravarttayet",
-"quick_gloss": "one-should-proceed"
+"quick_gloss": "should-perform"
 }
 ]
 },
@@ -578,7 +590,7 @@
 },
 {
 "surface": "bhūṣitam",
-"quick_gloss": "adorned"
+"quick_gloss": "and-ornaments"
 }
 ]
 },
@@ -595,11 +607,27 @@
 },
 {
 "surface": "hunet",
-"quick_gloss": "one-should-offer"
+"quick_gloss": "should-offer"
 },
 {
-"surface": "aṣṭa+uttaraṃ",
-"quick_gloss": "eight-more-than-hundred"
+"surface": "aṣṭa",
+"quick_gloss": "eight"
+},
+{
+"surface": "uttaraṃ",
+"quick_gloss": "more"
+},
+{
+"surface": "jepet",
+"quick_gloss": "should-chant"
+},
+{
+"surface": "iti",
+"quick_gloss": "thus"
+},
+{
+"surface": "arthaḥ",
+"quick_gloss": "meaning"
 },
 {
 "surface": "śatam",
@@ -616,19 +644,23 @@
 "tokens": [
 {
 "surface": "prokṣaṇī",
-"quick_gloss": "with-sprinkling"
+"quick_gloss": "sprinkling"
 },
 {
 "surface": "toyaiḥ",
-"quick_gloss": "waters"
+"quick_gloss": "with-waters"
 },
 {
-"surface": "śānti+kumbha",
-"quick_gloss": "with-peace-vessel"
+"surface": "śānti",
+"quick_gloss": "peace"
+},
+{
+"surface": "kumbha",
+"quick_gloss": "pot"
 },
 {
 "surface": "jalaiḥ",
-"quick_gloss": "waters"
+"quick_gloss": "with-waters"
 },
 {
 "surface": "tathā",
@@ -674,19 +706,23 @@
 "tokens": [
 {
 "surface": "vacā",
-"quick_gloss": "with-vacā"
+"quick_gloss": "vacā"
 },
 {
 "surface": "kuṣṭhaṃ",
-"quick_gloss": "costus"
+"quick_gloss": "kuṣṭha"
 },
 {
 "surface": "śaileyaṃ",
 "quick_gloss": "śaileya"
 },
 {
-"surface": "rajanī+dvayam",
-"quick_gloss": "two-turmerics"
+"surface": "rajanī",
+"quick_gloss": "turmeric"
+},
+{
+"surface": "dvayam",
+"quick_gloss": "pair"
 }
 ]
 },
@@ -699,22 +735,34 @@
 "tokens": [
 {
 "surface": "kaścit",
-"quick_gloss": "if-someone"
+"quick_gloss": "someone"
 },
 {
 "surface": "cet",
-"quick_gloss": "then"
+"quick_gloss": "if"
 },
 {
 "surface": "abjam",
-"quick_gloss": "conch"
+"quick_gloss": "lotus"
 },
 {
 "surface": "abhyarcya",
 "quick_gloss": "having-worshipped"
 },
 {
-"surface": "sa+akṣatam",
+"surface": "śaṃkham",
+"quick_gloss": "conch"
+},
+{
+"surface": "iti",
+"quick_gloss": "thus"
+},
+{
+"surface": "arthaḥ",
+"quick_gloss": "meaning"
+},
+{
+"surface": "sākṣatam",
 "quick_gloss": "with-unbroken-rice"
 }
 ]
@@ -728,7 +776,7 @@
 "tokens": [
 {
 "surface": "japet",
-"quick_gloss": "one-should-mutter"
+"quick_gloss": "should-chant"
 },
 {
 "surface": "karṇe",

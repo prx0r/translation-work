@@ -8,70 +8,70 @@
 [all](sarvam) [infinite](ananta) [fruit](phala) [giving](daṃ) [should-be](bhavet)
 
 ## mukta-m0-p10-v228
-[taken](gṛhītaṃ) [which](yat) [at-that](tasmin) [time](kāle) [from-guru](guroḥ) [among-men](nṛṣu)
+[taken](gṛhītaṃ) [which](yat) [at-that](tasmin) [time](kāle) [of-the-guru](guroḥ) [among-men](nṛṣu)
 
 ## mukta-m0-p10-v229
-[initiation](dīkṣā) [etc.](ādi) [being-present](sati) [possibility](saṃbhave)
+[initiation](dīkṣā) [etc.](ādi) [being-present](sati) [when-possible](saṃbhave)
 
 ## mukta-m0-p10-v230
-[performing](prakurvāṇo) [month](māsa) [lunar-mansion](ṛkṣa) [etc.](ādi) [not](na) [should-examine](śodhayet)
+[performing](prakurvāṇaḥ) [month](māsa) [constellation](ṛkṣa) [etc.](ādi) [not](na) [should-examine](śodhayet)
 
 ## mukta-m0-p10-v231
-[which](yat) [by-some](kaiścit) [thus](iti) [stated](uktaṃ) [that](tat) [baseless](amūlakam) [is-considered](iṣyate)
+[which](yat) [by-some](kaiścit) [thus](iti) [stated](uktaṃ) [that](tat) [without](a) [basis](mūlakam) [is-considered](iṣyate)
 
 ## mukta-m0-p10-v232
-[immediately](sadyaḥ) [preliminary-consecration](adhivāsa) [by-method](vidhinā) [all](sarva) [remaining](śiṣṭa) [following](anusārataḥ)
+[immediately](sadyaḥ) [preliminary-rite](adhivāsa) [by-method](vidhinā) [all](sarva) [orthodox](śiṣṭa) [according-to-tradition](anusārataḥ)
 
 ## mukta-m0-p10-v233
 [that](tat) [gift](dānam) [also](api) [he](asau)
 
 ## mukta-m0-p10-v234
-[should-do](kuryāt) [sin](pāpa) [destruction](kṣayaṃ) [because](yataḥ)
+[should-perform](kuryāt) [sin](pāpa) [destruction](kṣayaṃ) [because](yataḥ)
 
 ## mukta-m0-p10-v235
-[initiation](dīkṣā) [and-sacrifice](yāga) [devoid](vihīnaḥ) [even](api) [thus](iti) [etc.](ādau) [what](kā) [or](vā) [course](gatiḥ) [should-be](bhavet)
+[initiation](dīkṣā) [sacrifice](yāga) [devoid](vihīnaḥ) [even](api) [thus](iti) [etc.](ādau) [what](kā) [or](vā) [course](gatiḥ) [should-be](bhavet)
 
 ## mukta-m0-p10-v236
-[thus](tathā) [if](cet) [this](idaṃ) [should-proceed](pravarteta) [of-guru](guroḥ) [also](api)
+[thus](tathā) [if](cet) [this](idam) [should-proceed](pravarteta) [of-the-guru](guroḥ) [also](api)
 
 ## mukta-m0-p10-v237
-[initiation](dīkṣām) [thus](iti) [etc.](ādi) [disciple](śiṣya) [statement](vākya) [contradiction](virodhataḥ)
+[initiation](dīkṣām) [thus](iti) [etc.](ādi) [disciple](śiṣya) [statement](vākya) [due-to-contradiction](virodhataḥ)
 
 ## mukta-m0-p10-v238
-[and](ca) [rule](vidhā) [implication](upalakṣaṇam) [is-stated](ucyate)
+[and](ca) [rule](vidha) [as-implication](upalakṣaṇam) [is-stated](ucyate)
 
 ## mukta-m0-p10-v239
-[I-shall-worship](yakṣye) [here](iha) [there](tatra) [you](tvaṃ) [to-me](me) [guru](guruḥ) [become](bhava)
+[I-shall-worship](yakṣye) [I](haṃ) [there](tatra) [you](tvaṃ) [my](me) [guru](guruḥ) [become](bhava)
 
 ## mukta-m0-p10-v240
 [initiation](dīkṣā) [general](sāmānya) [time](kālaḥ) [now](atha) [of-mantras](mantrāṇām) [is-stated](abhidhīyate)
 
 ## mukta-m0-p10-v241
-[initiation](dīkṣā) [of-guru](guroḥ) [command](ājñā) [according-to](anurūpataḥ)
+[initiation](dīkṣā) [of-the-guru](guroḥ) [command](ājñā) [in-accordance-with](anurūpataḥ)
 
 ## mukta-m0-p10-v242
-[cause](kāraṇaṃ) [but](kintu) [by-own-will](sva+icchā) [obtained](avāpte) [indeed](tu) [true-guru](sat+gurau)
+[cause](kāraṇaṃ) [but](kintu) [own](sva) [will](icchā) [when-obtained](āvāpte) [indeed](tu) [true](sat) [guru](gurau)
 
 ## mukta-m0-p10-v243
-[by-method](vidhinā) [abbreviated](saṃkṣiptena) [one-should-proceed](pravarttayet)
+[by-method](vidhinā) [abbreviated](saṃkṣiptena) [should-perform](pravarttayet)
 
 ## mukta-m0-p10-v244
-[with-fragrance](gandha) [and-flowers](puṣpābhyām) [worshipped](arcitaṃ) [with-garment](vastra) [adorned](bhūṣitam)
+[with-fragrance](gandha) [and-flowers](puṣpābhyām) [worshipped](arcitaṃ) [with-garment](vastra) [and-ornaments](bhūṣitam)
 
 ## mukta-m0-p10-v245
-[having-made](kṛtvā) [one-should-offer](hunet) [eight-more-than-hundred](aṣṭa+uttaraṃ) [hundred](śatam)
+[having-made](kṛtvā) [should-offer](hunet) [eight](aṣṭa) [more](uttaraṃ) [should-chant](jepet) [thus](iti) [meaning](arthaḥ) [hundred](śatam)
 
 ## mukta-m0-p10-v246
-[with-sprinkling](prokṣaṇī) [waters](toyaiḥ) [with-peace-vessel](śānti+kumbha) [waters](jalaiḥ) [likewise](tathā)
+[sprinkling](prokṣaṇī) [with-waters](toyaiḥ) [peace](śānti) [pot](kumbha) [with-waters](jalaiḥ) [likewise](tathā)
 
 ## mukta-m0-p10-v247
 [accomplishing](sampādayan) [mantra](mantraṃ) [hand](hastaṃ) [on-head](śirasi) [placing](dhārayan)
 
 ## mukta-m0-p10-v248
-[with-vacā](vacā) [costus](kuṣṭhaṃ) [śaileya](śaileyaṃ) [two-turmerics](rajanī+dvayam)
+[vacā](vacā) [kuṣṭha](kuṣṭhaṃ) [śaileya](śaileyaṃ) [turmeric](rajanī) [pair](dvayam)
 
 ## mukta-m0-p10-v249
-[if-someone](kaścit) [then](cet) [conch](abjam) [having-worshipped](abhyarcya) [with-unbroken-rice](sa+akṣatam)
+[someone](kaścit) [if](cet) [lotus](abjam) [having-worshipped](abhyarcya) [conch](śaṃkham) [thus](iti) [meaning](arthaḥ) [with-unbroken-rice](sākṣatam)
 
 ## mukta-m0-p10-v250
-[one-should-mutter](japet) [in-ear](karṇe) [in-instruction](upadeśe) [indeed](tu) [this](ayaṃ) [method](vidhiḥ)
+[should-chant](japet) [in-ear](karṇe) [in-instruction](upadeśe) [indeed](tu) [this](ayaṃ) [method](vidhiḥ)

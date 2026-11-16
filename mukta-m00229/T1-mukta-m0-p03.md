@@ -5,7 +5,7 @@
 [always](nityaṃ) [wealth](dhanaṃ) [wealth+increase+giving](dhana+vivṛddhi+dam)
 
 ## mukta-m0-p03-v52
-[son](putra) [increase](vivṛddhiḥ) [should-be](syād) [among-relatives](bandhau) [like-kinsman](bāndhava+vat) [dear](priyam)
+[son](putra) [increase](vivṛddhiḥ) [may-be](syād) [in-kinsman](bandhau) [like-kinsman](bāndhava+vat) [dear](priyam)
 
 ## mukta-m0-p03-v53
 [likewise](tathā) [in-rudra](rudre) [in-planet](grahe) [in-eyes](netre) [in-pair](yuge) [in-sun](ravau)
@@ -14,31 +14,31 @@
 [and](ca) [in-arrow+moon](śara+candre) [in-thirteenth](trayodaśe)
 
 ## mukta-m0-p03-v55
-[the-wise-one](matimān) [should-know](vidyāt) [siddha+etc](siddha+ādikaṃ) [then](tataḥ)
+[the-wise-one](matimān) [should-know](vidyāt) [siddha+etc.](siddha+ādikaṃ) [then](tataḥ)
 
 ## mukta-m0-p03-v56
-[mantra+first+syllable](mantra+ādi+arṇa) [four+cell](catuḥ+koṣṭha) [up-to](paryantaṃ) [should-count](gaṇayet) [the-wise](budhaḥ)
+[mantra+initial+syllable](mantra+ādi+arṇa) [four+cell](catuḥ+koṣṭha) [up-to](paryantaṃ) [should-count](gaṇayet) [the-wise](budhaḥ)
 
 ## mukta-m0-p03-v57
-[by-time](kālena) [to-be-accomplished](sādhyaḥ) [indeed](tu) [by-japa+and-homa](japa+homa+taḥ)
+[by-time](kālena) [to-be-accomplished](sādhyaḥ) [but](tu) [by-recitation+oblation](japa+homa+taḥ)
 
 ## mukta-m0-p03-v58
 [should-count](gaṇayet) [the-practitioner](mantrī) [name+cell](nāma+koṣṭha) [according-to](anusārataḥ)
 
 ## mukta-m0-p03-v59
-[as-stated](yathā+uktena) [by-double](dviguṇāt) [siddha+sādhya](siddha+sādhyakaḥ)
+[as-stated](yathā+uktena) [by-double](dvi+guṇāt) [siddha+sādhya](siddha+sādhyakaḥ)
 
 ## mukta-m0-p03-v60
-[by-double](dviguṇāt) [sādhya+siddha](sādhya+siddhaḥ) [indeed](tu) [sādhya+sādhya](sādhya+sādhyaḥ) [useless](nirarthakaḥ)
+[by-double](dvi+guṇāt) [sādhya+siddha](sādhya+siddhaḥ) [but](tu) [sādhya+sādhya](sādhya+sādhyaḥ) [useless](nirarthakaḥ)
 
 ## mukta-m0-p03-v61
 [from-chariot](rathāt) [great](mahā)
 
 ## mukta-m0-p03-v62
-[zodiac-sign+purification](rāśi+śuddhiḥ) [should-be](syāt) [vārāhī+tantra](vārāhī+tantram) [declared](abravīt)
+[zodiac-sign+purity](rāśi+śuddhiḥ) [may-be](syāt) [Vārāhī-tantra](vārāhī+tantram) [spoke](abravīt)
 
 ## mukta-m0-p03-v63
-[by-the-wise](dhīmadbhiḥ) [fruitlessness](vaiphalyaṃ) [because-therefore](yat+ataḥ) [otherwise](anyathā)
+[by-the-wise](dhīmadbhiḥ) [fruitlessness](vaiphalyaṃ) [because](yat) [therefore](ataḥ) [otherwise](anyathā)
 
 ## mukta-m0-p03-v64
 [westward-going](pratyag+āyatāḥ) [and](ca) [thus](evaṃ) [sun+lines](bhānu+rekhāḥ) [one-should-arrange](prakalpayet)
@@ -47,10 +47,10 @@
 [six](ṣaṭ) [one](sva) [one](ekam) [one](ekam) [having-written](ālikhya) [beginning-with-ka](ka+ādi) [ending-with-ha](ha+antaṃ) [then](tataḥ) [syllable](akṣaram)
 
 ## mukta-m0-p03-v66
-[by-directions](dig) [earths](bhū) [mountains](giri) [vedas](śruti) [elephants](gaja) [rāma](rāma) [seers](ṛṣiṣu) [oceans](abdhi) [six](ṣaṭ) [triads](trikaiḥ)
+[directions](dik) [earths](bhū) [mountains](giri) [vedas](śruti) [elephants](gaja) [rāma](rāma) [seers](ṛṣiṣu) [oceans](abdhi) [six](ṣaṭ) [triads](trikaiḥ)
 
 ## mukta-m0-p03-v67
-[by-indra](indra) [constellations](nakṣatra) [eyes](nayana) [suns](ravi) [fifteen](pañcadaśa) [fours](turbhiḥ)
+[indra](indra) [constellations](nakṣatra) [eyes](nayana) [suns](ravi) [five](pañca) [ten](daśa) [four](turbhiḥ)
 
 ## mukta-m0-p03-v68
 [name+syllable+cell+number](nāma+arṇa+koṣṭha+aṅkam) [then](athaḥ) [beginning+end+placed](ādi+anta+nihitaṃ) [in-order](kramāt)
@@ -59,19 +59,19 @@
 [ending](paryavasannāḥ) [they](te) [multiplier+numbers](guṇaka+aṅkāḥ) [in-brief](samāsataḥ)
 
 ## mukta-m0-p03-v70
-[that+that](tat+tat) [indeed](tu) [mountain](naga) [earth](bhū) [sun](bhānu) [rivers](nimnagāḥ)
+[that+that](tat+tat) [mountain](naga) [earth](bhū) [sun](bhānu) [rivers](nimnagāḥ)
 
 ## mukta-m0-p03-v71
-[having-known](jñātvā) [of-both](ubhayoḥ) [debt](ṛṇaṃ) [should-know](vidyāt) [greater](adhikaṃ) [remainder](śeṣam) [number+knower](aṅka+vit)
+[having-known](jñātvā) [of-both](ubhayoḥ) [debt](ṛṇaṃ) [one-should-know](vidyāt) [greater](adhikaṃ) [remainder](śeṣam) [number+knower](aṅka+vit)
 
 ## mukta-m0-p03-v72
-[may-be-seen](dṛśyeta) [that](saḥ) [lesser+debt](adhama+ṛṇaḥ) [declared](prakīrtitaḥ)
+[may-be-seen](dṛśyeta) [he](saḥ) [lesser+debt](adhama+ṛṇaḥ) [declared](prakīrtitaḥ)
 
 ## mukta-m0-p03-v73
-[in-that-state](tad+bhāve) [equal+wealth](sama+dhanam) [wealthy](dhanikaṃ) [not](na) [ever](kadācana)
+[in-that-state](tad+bhāve) [equal+wealth](sama+dhanaṃ) [wealthy](dhanikaṃ) [not](na) [ever](kadācana)
 
 ## mukta-m0-p03-v74
-[syllable](varṇam) [having-taken](ādāya) [highest](paramaṃ) [indeed](tu) [who](ye)
+[syllable](varṇam) [having-taken](ādāya) [highest](paramaṃ) [but](tu) [those-who](ye)
 
 ## mukta-m0-p03-v75
-[by-seven](saptabhiḥ) [to-be-multiplied](guṇanīyāḥ) [indeed](tu) [to-be-divided](haraṇīyāḥ) [by-threes](tribhiḥ+tribhiḥ)
+[by-seven](saptabhiḥ) [to-be-multiplied](guṇanīyāḥ) [but](tu) [to-be-divided](haraṇīyāḥ) [by-three+by-three](tribhiḥ+tribhiḥ)

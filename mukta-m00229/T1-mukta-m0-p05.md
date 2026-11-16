@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p05-v101
-[sapiṇḍa+akṣara+mantrāḥ](sāpiṇḍākṣaramantrāś) [ca](ca) [śrī](śrī) [cintāmaṇikā+ādayaḥ](cintāmaṇikādayaḥ)
+[with-sapiṇḍa+syllable+mantras](sāpiṇḍākṣaramantrāśca) [śrī](śrī) [cintāmaṇi+and-others](cintāmaṇikādayaḥ)
 
 ## mukta-m0-p05-v102
-[pañcākṣara+adhikāḥ](pañcākṣarādhikā) [vā](vā) [anye](anye) [bālye](bālye) [sarvadā](sarvadā) [siddhi+dāḥ](siddhidāḥ) [pare](pare)
+[five-syllable+and-more](pañcākṣarādhikā) [or](vā) [others](anye) [in-childhood](bālye) [always](sarvadā) [accomplishment-giving](siddhidāḥ) [others](pare)
 
 ## mukta-m0-p05-v103
-[sarva+tantrāṇām](sarvatantrāṇām) [anurodhena](anurodhena) [vacmi](vacmy) [aham](aham)
+[of-all-tantras](sarvatantrāṇām) [in-accordance-with](anurodhena) [say](vacmyaham) [or-say](bravīmyaham)
 
 ## mukta-m0-p05-v104
-[ratna+lābhaḥ](ratnalābhaḥ) [syāt](syāt) [jyeṣṭhe](jyeṣṭhe) [ca](ca) [maraṇam](maraṇaṃ) [dhruvam](dhruvam)
+[jewel+gain](ratnalābhaḥ) [or-destruction](nāśaḥ) [will-be](syāt) [in-jyeṣṭha](jyeṣṭhe) [and](ca) [death](maraṇaṃ) [certainly](dhruvam)
 
 ## mukta-m0-p05-v105
-[bhādrapade](bhādrapade) [sarvataḥ](sarvataḥ) [sukham](sukham) [āśvine](āśvine)
+[in-bhādrapada](bhādrapade) [everywhere](sarvataḥ) [happiness](sukham) [in-āśvina](āśvine)
 
 ## mukta-m0-p05-v106
-[jñāna+hāniḥ](jñānahāniḥ) [syāt](syāt) [māghe](māghe) [medhā+vivardhanam](medhāvivardhanam)
+[knowledge+loss](jñānahāniḥ) [will-be](syāt) [in-māgha](māghe) [intellect+increase](medhāvivardhanam)
 
 ## mukta-m0-p05-v107
-[śukla+pakṣīyā](śuklapakṣīyā) [putra+vṛddhi+karī](putravṛddhikarī) [matā](matā)
+[bright-fortnight+related](śuklapakṣīyā) [son+increase+causing](putravṛddhikarī) [considered](matā)
 
 ## mukta-m0-p05-v108
-[proktā](proktā) [ṣaṣṭhī](ṣaṣṭhī) [sarvatra](sarvatra) [ninditā](ninditā)
+[declared](proktā) [sixth](ṣaṣṭhī) [everywhere](sarvatra) [censured](ninditā)
 
 ## mukta-m0-p05-v109
-[ṛktha+nāśā](ṝkthanāśā) [ca](ca) [daśamī](daśamī) [sukha+śaṃsinī](sukhaśaṃsinī)
+[wealth+destruction](ṛkthanāśā) [and](ca) [tenth](daśamī) [happiness+indicating](sukhaśaṃsinī)
 
 ## mukta-m0-p05-v110
-[go+samṛddhiḥ](gosamṛddhiḥ) [syāt](syāt) [trayodaśyām](trayodaśyāṃ) [śubha+udayaḥ](śubhodayaḥ)
+[cattle+prosperity](gosamṛddhiḥ) [will-be](syāt) [on-thirteenth](trayodaśyāṃ) [auspicious+rise](śubhodayaḥ)
 
 ## mukta-m0-p05-v111
-[tu](tu) [bala+hā](balahā) [pratipad](pratipad) [buddhi+nāśinī](buddhināśinī)
+[but](tu) [strength+destroying](balahā) [first-day](pratipad) [intellect+destroying](buddhināśinī)
 
 ## mukta-m0-p05-v112
-[ṣaṣṭhī](ṣaṣṭhī) [syāt](syāt) [iti](iti) [śaiva+āgama+antare](śaivāgamāntare)
+[sixth](ṣaṣṭhī) [will-be](syāt) [thus](iti) [in-another-śaiva-tradition](śaivāgamāntare)
 
 ## mukta-m0-p05-v113
-[vāñchita+siddhiḥ](vāñchitasiddhis) [tu](tu) [ratna+lābhaḥ](ratnalābhaḥ) [śubha+udayaḥ](śubhodayaḥ)
+[desired+accomplishment](vāñchitasiddhiḥ) [indeed](tu) [jewel+gain](ratnalābhaḥ) [auspicious+rise](śubhodayaḥ)
 
 ## mukta-m0-p05-v114
-[sarva+kāma+artham](sarvakāmārtham) [iti](iti) [tu](tu) [proktam](proktaṃ) [śrī+mantra+darpaṇe](śrīmantradarpaṇe)
+[for-all-desires](sarvakāmārtham) [thus](iti) [indeed](tu) [declared](proktaṃ) [in-śrī-mantradarpaṇa](śrīmantradarpaṇe)
 
 ## mukta-m0-p05-v115
-[mṛgaśiraḥ](mṛgaśiro) [rohiṇī](rohiṇī) [ca](ca) [divākaraḥ](divākaraḥ)
+[mṛgaśiras](mṛgaśiro) [rohiṇī](rohiṇī) [and](ca) [sun](divākaraḥ)
 
 ## mukta-m0-p05-v116
-[nityam](nityaṃ) [kanyā+ādyam](kanyādyaṃ) [mīna+kā+avadhi](mīnakāvadhi)
+[always](nityaṃ) [beginning-with-kanyā](kanyādyaṃ) [up-to-mīna](mīnakāvadhi)
 
 ## mukta-m0-p05-v117
-[raṅga+saṃpannaḥ](raṅgasaṃpannaḥ) [sukha+bhojī](sukhabhojī) [dhana+āśrayaḥ](dhanāśrayaḥ)
+[with-delight+endowed](raṅgasaṃpannaḥ) [enjoying-happiness](sukhabhojī) [wealth+supported](dhanāśrayaḥ)
 
 ## mukta-m0-p05-v118
-[roga+śoka+ākulaḥ](rogaśokākulo) [nityam](nityaṃ) [kṛttikāyām](kṛttikāyāṃ) [sadā](sadā) [bhavet](bhavet)
+[disease+sorrow+afflicted](rogaśokākulo) [always](nityaṃ) [in-kṛttikā](kṛttikāyāṃ) [ever](sadā) [will-be](bhavet)
 
 ## mukta-m0-p05-v119
-[bhavet](bhavel) [lābhaḥ](lābho) [nṛpati+iṣṭaḥ](nṛpatīṣṭaḥ) [sa+bāndhavaḥ](sabāndhavaḥ)
+[will-be](bhavet) [gain](lābho) [dear-to-king](nṛpatīṣṭaḥ) [with-relatives](sabāndhavaḥ)
 
 ## mukta-m0-p05-v120
-[prajā+vṛddhiḥ](prajāvṛddhiḥ) [kārya+ārambhe](kāryārambhe) [sadā+sthitiḥ](sadāsthitiḥ)
+[progeny+increase](prajāvṛddhiḥ) [in-beginning-of-work](kāryārambhe) [constant-stability](sadāsthitiḥ)
 
 ## mukta-m0-p05-v121
-[aśleṣāyām](aśleṣāyāṃ) [tathā](tathā) [mantrī](mantrī) [vināśam](vināśaṃ) [yāti](yāti) [nityaśaḥ](nityaśaḥ)
+[in-aśleṣā](aśleṣāyāṃ) [likewise](tathā) [minister](mantrī) [to-destruction](vināśaṃ) [goes](yāti) [always](nityaśaḥ)
 
 ## mukta-m0-p05-v122
-[pūrva+traye](pūrvatraye) [api]('pi) [saṃpūrṇa+veda+tritaya+pāragaḥ](saṃpūrṇavedatritayapāragaḥ)
+[in-first-three](pūrvatraye) [also](api) [complete+veda+triad+versed](saṃpūrṇavedatritayapāragaḥ)
 
 ## mukta-m0-p05-v123
-[vidyā+lābhaḥ](vidyālābhas) [tathā](tathā) [eva](eva) [ca](ca)
+[knowledge+gain](vidyālābhaḥ) [likewise](tathaiva) [and](ca)
 
 ## mukta-m0-p05-v124
-[mṛtyu+vaśam](mṛtyuvaśaṃ) [yāti](yāti) [bala+hāniḥ](balahānis) [tathā](tathā) [bhavet](bhavet)
+[to-death+control](mṛtyuvaśaṃ) [goes](yāti) [strength+loss](balahāniḥ) [likewise](tathā) [will-be](bhavet)
 
 ## mukta-m0-p05-v125
-[anurādhā+gate](anurādhāgate) [candre](candre) [bhāskara+ābhaḥ](bhāskarābhaḥ) [śubhaḥ](śubhaḥ) [priyaḥ](priyaḥ)
+[to-anurādhā+gone](anurādhāgate) [moon](candre) [sun-like+splendor](bhāskarābhaḥ) [auspicious](śubhaḥ) [dear](priyaḥ)
