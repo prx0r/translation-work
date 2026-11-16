@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p40-v976
-[amāyī](amāyī) [nirvikārī](nirvikārī) [ca](ca) [bahir-ante](bahirante) [ca](ca) [saṃsthitaḥ](saṃsthitaḥ)
+[without-deceit](amāyī) [unchanging](nirvikārī) [and](ca) [outside](bahis) [and-inside](ante) [and](ca) [situated](saṃsthitaḥ)
 
 ## mukta-m0-p40-v977
-[maline](maline) [api](api) [sva-dehe](svadehe) [tu](tu) [dṛśyate](dṛśyate) [parameśvaraḥ](parameśvaraḥ)
+[in-impure](maline) [even](api) [in-own-body](svadehe) [but](tu) [is-seen](dṛśyate) [supreme-lord](parameśvaraḥ)
 
 ## mukta-m0-p40-v978
-[vidyamāno](vidyamāno) [na](na) [dṛśyeta](dṛśyeta) [tathā](tathā) [patra-phalādiṣu](patraphalādiṣu)
+[being-present](vidyamānaḥ) [not](na) [may-be-seen](dṛśyeta) [likewise](tathā) [in-leaves+fruits+and-so-on](patra+phala+ādiṣu)
 
 ## mukta-m0-p40-v979
-[upadeśena](upadeśena) [deveśi](deveśi) [pratyakṣaṃ](pratyakṣaṃ) [sarvataḥ-sthitaḥ](sarvatasthitaḥ)
+[by-instruction](upadeśena) [O-goddess](deveśi) [directly-perceptible](pratyakṣaṃ) [present-everywhere](sarvataḥ+sthitaḥ)
 
 ## mukta-m0-p40-v980
-[yathā](yathā) [tvaṃ](tvaṃ) [devi](devi) [saṃmūḍhā](saṃmūḍhā) [asaṃgrāhye](asaṃgrāhye) [vyavasthitāḥ](vyavasthitāḥ)
+[just-as](yathā) [you](tvaṃ) [O-goddess](devi) [deluded](saṃmūḍhā) [in-ungraspable](asaṃgrāhye) [situated](vyavasthitāḥ)
 
 ## mukta-m0-p40-v981
-[evaṃ](evaṃ) [patreṣu](patreṣu) [puṣpeṣu](puṣpeṣu) [dṛśyate](dṛśyate) [parameśvaraḥ](parameśvaraḥ)
+[thus](evaṃ) [in-leaves](patreṣu) [in-flowers](puṣpeṣu) [is-seen](dṛśyate) [supreme-lord](parameśvaraḥ)
 
 ## mukta-m0-p40-v982
-[sūkṣmatvāt](sūkṣmatvāt) [saṃsthitaḥ](saṃsthitaḥ) [tatra](tatra) [dṛṣṭvā](dṛṣṭvā) [tat-na-vikalpanā](tannavikalpanā)
+[because-of-subtlety](sūkṣmatvāt) [situated](saṃsthitaḥ) [there](tatra) [having-seen](dṛṣṭvā) [that](tat) [non-conceptualization](na+vikalpanā)
 
 ## mukta-m0-p40-v983
-[vidyamāno](vidyamāno) [api](api) [teṣu-eva](teṣveva) [sūkṣmatvāt](sūkṣmatvāt) [na](na) [tu](tu) [vidyate](vidyate)
+[being-present](vidyamānaḥ) [even](api) [in-them](teṣu) [indeed](eva) [because-of-subtlety](sūkṣmatvāt) [not](na) [but](tu) [is-known](vidyate)
 
 ## mukta-m0-p40-v984
-[tejo-agni](tejogni) [maṇikāṃsānāṃ](maṇikāṃsānāṃ) [ākāśe](ākāśe) [darśane](darśane) [tathā](tathā)
+[of-light](tejaḥ) [of-fire](agni) [of-gem+rays](maṇi+kāṃsānāṃ) [in-sky](ākāśe) [in-seeing](darśane) [likewise](tathā)
 
 ## mukta-m0-p40-v985
-[eṣāṃ](eṣaṃ) [patra-phalādīnāṃ](patraphalādīnāṃ) [bīja-ādye](bījādye) [prasaveṣu](prasaveṣu) [ca](ca)
+[of-these](eṣaṃ) [of-leaves+fruits+and-so-on](patra+phala+ādīnāṃ) [in-seed+and-so-on](bīja+ādye) [in-productions](prasaveṣu) [and](ca)
 
 ## mukta-m0-p40-v986
-[sarvataḥ](sarvataḥ) [pāṇi-caraṇaṃ](pāṇicaraṇaṃ) [sarvato](sarvato) [akṣi-śiro-mukham](akṣiśiromukham)
+[everywhere](sarvataḥ) [hand+foot](pāṇi+caraṇaṃ) [everywhere](sarvataḥ) [eye+head+face](akṣi+śiraḥ+mukham)
 
 ## mukta-m0-p40-v987
-[tasmāt](tasmāt) [tat-na](tanna) [vikalpeta](vikalpeta) [avicāreṇa](avicāreṇa) [śobhate](śobhate)
+[therefore](tasmāt) [that](tat) [not](na) [one-should-conceptualize](vikalpeta) [without-inquiry](avicāreṇa) [it-shines](śobhate)
 
 ## mukta-m0-p40-v988
-[sarva-ābhāsa](sarvābhāsa) [nir-ābhāsa](nirābhāsa) [arūpa](arūpa) [sarva-rūpakaṃ](sarvarūpakam)
+[all-manifestation](sarva+ābhāsan) [non-manifestation](nirābhāsa) [formless](a+rūpa) [all-forms](sarva+rūpakam)
 
 ## mukta-m0-p40-v989
-[sarva-vyāpi](sarvavyāpi) [śarīre](śarīre) [sve](sve) [paṭhyate](paṭhyate) [varṇa-saṃharau](varṇasaṃharau)
+[all-pervading](sarva+vyāpi) [in-body](śarīre) [in-own](sve) [is-taught](paṭhyate) [in-collection-of-letters](varṇa+saṃharau)
 
 ## mukta-m0-p40-v990
-[yataḥ](yatasvadehe) [sva-dehe](svadehe) [paṭhito](paṭhito) [nirodhaḥ](nirodho) [asya](asya) [kutaḥ-smṛtaḥ](kutasmṛtaḥ)
+[because](yataḥ) [in-own-body](svadehe) [taught](paṭhitaḥ) [restriction](nirodhaḥ) [of-this](asya) [from-where](kutaḥ) [remembered](smṛtaḥ)
 
 ## mukta-m0-p40-v991
-[sānnidhya-kāraṇañca-eva](sānnidhyakāraṇañcaiva) [virodhañca](virodhañca) [na](na) [vidyate](vidyate)
+[reason-for-proximity](sānnidhya+kāraṇam) [and](ca) [indeed](eva) [obstruction](virodham) [and](ca) [not](na) [exists](vidyate)
 
 ## mukta-m0-p40-v992
-[vidhi-sāmagrya-hetau](vidhisāmagryahetau) [tu](tu) [kīrtitā](kīrtitā) [hīna-śāsane](hīnaśāsane)
+[in-cause-of-completeness-of-rite](vidhi+sāmagrya+hetau) [but](tu) [declared](kīrtitā) [in-lower-scripture](hīna+śāsane)
 
 ## mukta-m0-p40-v993
-[na-ca](nacaitadarthavādastu) [etat](etat) [artha-vādaḥ](arthavādaḥ) [tu](tu) [vidhi-vādaḥ](vidhivādaḥ) [prakīrtitaḥ](prakīrtitaḥ)
+[and-not](na+ca) [this](etat) [explanatory-statement](artha+vādaḥ) [but](tu) [injunctive-statement](vidhi+vādaḥ) [is-declared](prakīrtitaḥ)
 
 ## mukta-m0-p40-v994
-[aiśvaryam](aiśvaryamatulaṃ) [atulaṃ](atulaṃ) [lābham](lābham) [amaratvañca](amaratvañca) [śāśvatam](śāśvatam)
+[sovereignty](aiśvaryam) [incomparable](atulaṃ) [gain](lābham) [immortality](amaratvam) [and](ca) [eternal](śāśvatam)
 
 ## mukta-m0-p40-v995
-[na-hi](nahi) [doṣo](doṣo) [viśodho](viśodho) [vā](vā) [ubhaya-artha-prasiddhi-daḥ](ubhayārthaprasiddhidaḥ)
+[not](na+hi) [fault](doṣaḥ) [purification](viśodhaḥ) [or](vā) [accomplishing-both-purposes](ubhaya+artha+prasiddhi+daḥ)
 
 ## mukta-m0-p40-v996
-[pradeśinī](pradeśinīti) [iti](iti) [vṛttiḥ](vṛttiḥ) [syāt](syānna) [na](na) [tu](tu) [sarva-gatā](sarvagatā) [vibhoḥ](vibhoḥ)
+[pointing-out](pradeśinī) [thus](iti) [usage](vṛttiḥ) [may-be](syāt) [not](na) [but](tu) [all-pervading](sarva+gatā) [of-the-lord](vibhoḥ)
 
 ## mukta-m0-p40-v997
-[arcāyāṃ](arcāyāṃ) [lakṣaṇa-upetaṃ](lakṣaṇopetaṃ) [japa-yoge](japayoge) [tatha-eva](tathaiva) [ca](ca)
+[in-image](arcāyāṃ) [endowed-with-characteristics](lakṣaṇa+upetaṃ) [in-mantra-practice](japa+yoge) [likewise](tathā) [indeed](eva) [and](ca)
 
 ## mukta-m0-p40-v998
-[tat-eva](tadeva) [sthānam](sthānam) [iti](ityuktaṃ) [uktaṃ](uktaṃ) [mano-buddhy-ādi](manobuddhyādi) [kalpitam](kalpitam)
+[that](tat) [indeed](eva) [place](sthānam) [thus](iti) [said](uktam) [by-mind+intellect+and-so-on](manaḥ+buddhi+ādi) [imagined](kalpitam)
 
 ## mukta-m0-p40-v999
-[stutyādi-vidhi](stutyādividhi) [nirmuktaṃ](nirmuktaṃ) [parā-pastham](parāpastham) [idaṃ](idaṃ) [smṛtam](smṛtam)
+[from-praise+and-so-on+rite](stutyā+ādi+vidhi) [free](nirmuktaṃ) [established-in-the-supreme](para+apastham) [this](idam) [remembered](smṛtam)
 
 ## mukta-m0-p40-v1000
-[yadi](yadi) [sarva-gato](sarvagato) [devaḥ](devassarvāvasthoṣvavasthitaḥ) [sarva-avasthoṣu](sarvāvasthoṣvavasthitaḥ) [avasthitaḥ](avasthitaḥ)
+[if](yadi) [all-pervading](sarva+gataḥ) [god](devaḥ) [in-all-states](sarva+avasthaḥ) [situated](su+avasthitaḥ)

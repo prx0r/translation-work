@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p54-v1326
-[thirty-two-named](dvāttriṃśakaḥ) [supportless-in](nirālaṃbe) [supreme](pare) [standing](sthitaḥ)
+[thirty-second](dvāttriṃśakaḥ) [called](samākhyātaḥ) [in-supportless](nirālaṃbe) [in-supreme](pare) [situated](sthitaḥ)
 
 ## mukta-m0-p54-v1327
-[that](taṃ) [knowing](jñātvā) [goddess](devi) [succeed](siddhyante) [hundred-thousand-this-praised](lakṣaitatparikīrtitam)
+[that](taṃ) [having-known](jñātvā) [O-goddess](devi) [they-succeed](siddhyante) [characteristic](lakṣa) [this](etat) [proclaimed](parikīrtitam)
 
 ## mukta-m0-p54-v1328
-[success-giving](siddhidaṃ) [liberation-giving-and-also](mokṣadañcaiva) [destined-that-but](diṣṭantattu) [should-contemplate](vicintayet)
+[success-giving](siddhidam) [liberation-giving](mokṣadam) [and](ca) [indeed](eva) [that-indicated](diṣṭam) [but](tu) [one-should-contemplate](vicintayet)
 
 ## mukta-m0-p54-v1329
-[this-not](etanna) [to-anyone-given](kasyaciddeyaṃ) [knowledge-nectar-this](jñānāmṛtamidaṃ) [auspicious](śubham)
+[this](etat) [not](na) [to-anyone](kasyacit) [to-be-given](deyam) [knowledge+nectar](jñāna+amṛtam) [this](idam) [auspicious](śubham)
 
 ## mukta-m0-p54-v1330
-[supreme](paraṃ) [so-far-this](tāvadidaṃ) [goddess](devi) [of-principles](tattvānāṃ) [praised](parikīrtitam)
+[supreme](paraṃ) [so-far](tāvat) [this](idam) [O-goddess](devi) [of-principles](tattvānāṃ) [proclaimed](parikīrtitam)
 
 ## mukta-m0-p54-v1331
-[of-all-support](sarveṣāndhārakaḥ) [he-indeed](sohi) [he](sa) [and](vai) [support](cā'dhāra) [devoid](varjitaḥ)
+[of-all](sarveṣām) [supporter](dhārakaḥ) [he](saḥ) [indeed](hi) [he](sa) [indeed](vai) [and](ca) [support+devoid](ādhāra+varjitaḥ)
 
 ## mukta-m0-p54-v1332
-[knows-all](vettisarvam) [completely](aśeṣeṇa) [world-cause](lokahetu) [devoid](vivarjitaḥ)
+[knows](vetti) [all](sarvam) [entirely](aśeṣeṇa) [world+cause+devoid](loka+hetu+vivarjitaḥ)
 
 ## mukta-m0-p54-v1333
-[of-them-and](teṣāñca) [higher](uttaraṃ) [to-be-spoken](vācyaṃ) [by-which-means](yenopāyena) [lord](īśvaram)
+[of-them](teṣām) [and](ca) [higher](uttaraṃ) [to-be-spoken](vācyam) [by-which+means](yena+upāyena) [the-Lord](īśvaram)
 
 ## mukta-m0-p54-v1334
-[who](yo) [would-say](brūyāt) [someone](kaścit) [what-word](kaśśabdo) [as-destructible](vināśitvena) [is-read](paṭhyate)
+[who](yaḥ) [may-say](brūyāt) [someone](kaścit) [which](kaḥ) [word](śabdaḥ) [by-perishability](vināśitvena) [is-read](paṭhyate)
 
 ## mukta-m0-p54-v1335
-[three-guna](triguṇaḥ) [individual](pudgalo) [wind](vāyuḥ) [of-space-then-or](ākāśasyātha) [or](vā) [quality](guṇaḥ)
+[three-quality](triguṇaḥ) [matter](pudgalaḥ) [wind](vāyuḥ) [of-space](ākāśasya) [or](atha) [or](vā) [quality](guṇaḥ)
 
 ## mukta-m0-p54-v1336
-[word-sentence-essence-sphota](padavākyātmakasphoṭaḥ) [bowing](praṇamya) [returns](vinivartate)
+[word+sentence+nature+sphoṭa](pada+vākya+ātmaka+sphoṭaḥ) [having-bowed](praṇamya) [turns-back](vinivartate)
 
 ## mukta-m0-p54-v1337
-[sentence](vākyaṃ) [word-based](padāśrayaṃ) [all](sarvaṃ) [word](padaṃ) [letter-based](varṇāśrayaṃ) [remembered](smṛtam)
+[sentence](vākyaṃ) [word+dependent](pada+āśrayaṃ) [all](sarvaṃ) [word](padaṃ) [letter+dependent](varṇa+āśrayaṃ) [remembered](smṛtam)
 
 ## mukta-m0-p54-v1338
-[life-breath](prāṇo) [indeed](hi) [lord](bhagavān) [wind](vāyuḥ) [space-based](ākāśāśraya) [is-called](ucyate)
+[breath](prāṇaḥ) [indeed](hi) [lord](bhagavān) [wind](vāyuḥ) [space+dependent](ākāśa+āśrayaḥ) [is-said](ucyate)
 
 ## mukta-m0-p54-v1339
-[element-beginning](bhūtādiḥ) [tu](tu) [great-and-also](mahāścaiva) [he](sa) [and-also](caiva) [lower-based](aparamāśritaḥ)
+[elements+origin](bhūta+ādiḥ) [but](tu) [the-great](mahān) [and](ca) [and](eva) [he](sa) [on-another+dependent](apara+āśritaḥ)
 
 ## mukta-m0-p54-v1340
-[than-that-even](tasmādapi) [supreme](paro) [god](devaḥ) [all-cause-of-cause](sarvakāraṇakāraṇaḥ)
+[therefore](tasmāt) [also](api) [higher](paraḥ) [God](devaḥ) [of-all-causes+cause](sarva+kāraṇa+kāraṇaḥ)
 
 ## mukta-m0-p54-v1341
-[that-support](tadādhāram) [this](idaṃ) [all](sarvaṃ) [supreme-this](paro'yaṃ) [highest](paramo) [opinion](mataḥ)
+[on-that+supported](tat+ādhāram) [this](idam) [all](sarvaṃ) [supreme](paraḥ) [this](ayam) [highest](paramaḥ) [considered](mataḥ)
 
 ## mukta-m0-p54-v1342
-[where-that](yatrā'sau) [supreme](paramo) [god](devaḥ) [all-cause-of-cause](sarvakāraṇakāraṇaḥ)
+[where](yatra) [that](asau) [supreme](paramaḥ) [God](devaḥ) [of-all-causes+cause](sarva+kāraṇa+kāraṇaḥ)
 
 ## mukta-m0-p54-v1343
-[by-sound](śabdena) [is-accomplished](sādhyate) [god](devo) [sound](śabdo) [is-not](nāsti) [but](tu) [deity](devatā)
+[by-word](śabdena) [is-established](sādhyate) [God](devaḥ) [word](śabdaḥ) [not](na) [exists](asti) [but](tu) [deity](devatā)
 
 ## mukta-m0-p54-v1344
-[threefold-then](trividho'tha) [freed](vinirmuktaḥ) [subtle](sūkṣmaḥ) [sound](śabdaḥ) [is-called](ucyate)
+[threefold](trividhaḥ) [then](atha) [fully-liberated](vinirmuktaḥ) [subtle](sūkṣmaḥ) [word](śabdaḥ) [he](saḥ) [is-called](ucyate)
 
 ## mukta-m0-p54-v1345
-[by-that](tena) [divine](divyena) [sound](śabdena) [always](nityaṃ) [seen](dṛśyam) [diseaseless](anāmayam)
+[by-that](tena) [divine](divyena) [by-word](śabdena) [eternally](nityaṃ) [to-be-seen](dṛśyam) [blemishless](anāmayam)
 
 ## mukta-m0-p54-v1346
-[all-sound-distinguished](sarvaśabdaviśiṣṭo'sau) [incomparable](anaupamyam) [diseaseless](anāmayam)
+[by-all-words+distinguished](sarva+śabda+viśiṣṭaḥ) [he](asau) [without-comparison](anaupamyam) [blemishless](anāmayam)
 
 ## mukta-m0-p54-v1347
-[hearing-only-taste-attainable](śrutimātrarasādyeṣāṃ) [principal-person-lords](pradhānapuruṣeśvarān)
+[by-mere-hearing+taste](śruti+mātra+rasāt) [of-these](yeṣām) [primordial-matter+soul+lords](pradhāna+puruṣa+īśvarān)
 
 ## mukta-m0-p54-v1348
-[without](vinā) [sound](śabdena) [which-sound](yaśśabda) [fire-eater-bean-like](hutabhuṅmāṣasannibhaḥ)
+[without](vinā) [by-word](śabdena) [which](yaḥ) [word](śabdaḥ) [fire-eater+bean+resembling](hutabhuṅ+māṣa+sannibhaḥ)
 
 ## mukta-m0-p54-v1349
-[sound-roar-voice](ghoṣorāvasvanaśśabdo) [called-sphota](sphoṭākhyo) [resonance-indeed](dhvanireva) [and](ca)
+[sound](ghoṣaḥ) [cry](rāvaḥ) [tone](svanaḥ) [word](śabdaḥ) [sphoṭa-named](sphoṭa+ākhyaḥ) [resonance](dhvaniḥ) [indeed](eva) [and](ca)
 
 ## mukta-m0-p54-v1350
-[hearing-thumb-union-from](śravaṇāṅguṣṭhasaṃyogād) [which-sound](yaśśabdaḥ) [arises](saṃprajāyate)
+[ear+thumb+conjunction](śravaṇa+aṅguṣṭha+saṃyogāt) [which](yaḥ) [word](śabdaḥ) [is-produced](saṃprajāyate)

@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p63-v1551
-[what-kind](kīdṛśantu) [be-end](bhavedantaḥ) [seat-and](āsanañca) [great-lord](maheśvaraḥ)
+[of-what-kind](kīdṛśan) [indeed](tu) [may-be](bhavet) [end](antaḥ) [seat](āsanam) [and](ca) [o-great-lord](maheśvaraḥ)
 
 ## mukta-m0-p63-v1552
-[freed-from-ocean-of-becoming](bhāvārṇavavinirmuktāḥ) [to-shiva](śivaṃ) [go](yānti) [at-body-decay](tanukṣaye)
+[existence](bhāva) [ocean](arṇava) [fully-liberated](vinirmuktāḥ) [śiva](śivaṃ) [they-go](yānti) [at-body](tanu) [destruction](kṣaye)
 
 ## mukta-m0-p63-v1553
-[born-of-will-power](icchāśaktisamudbhūtaṃ) [named-ananta](anantākhyaṃ) [that-seat](tadāsanam)
+[will](icchā) [power](śakti) [arisen-from](samudbhūtaṃ) [named-ananta](anantākhyaṃ) [that](tat) [seat](āsanam)
 
 ## mukta-m0-p63-v1554
-[pervade](vyā) [*] [*] [*] [*] [*] [*] [*] [of-shiva](śivasya) [of-supreme-self](paramātmanaḥ)
+[pervading](vyā) [*](* ) [*](* ) [*](* ) [*](* ) [*](* ) [*](* ) [*](* ) [of-śiva](śivasya) [of-supreme-self](paramātmanaḥ)
 
 ## mukta-m0-p63-v1555
-[support-of-sadashiva-shiva](sadāśivaśivādhāraṃ) [called-eternal-support](nityādhāreti) [named](saṃjñitam)
+[sadāśiva](sadāśiva) [śiva](śiva) [support](ādhāraṃ) [eternal](nitya) [support](ādhāra) [thus](iti) [designated](saṃjñitam)
 
 ## mukta-m0-p63-v1556
-[thirty-three](trayastriṃśatimāvidyā) [*] [*] [*] [*] [*] [*] [*] [*]
+[thirty-three](trayastriṃśati) [mā](mā) [avidyā](vidyā) [*](* ) [*](* ) [*](* ) [*](* ) [*](* ) [*](* ) [*](* ) [*](*)
 
 ## mukta-m0-p63-v1557
-[ancient-root-mud-rich](anādimūlapaṅkāḍhyaṃ) [born-of-knowledge-ocean](jñānatoyasamudbhavam)
+[beginningless](anādi) [root](mūla) [mud](paṅka) [abounding-in](āḍhyaṃ) [knowledge](jñāna) [water](toya) [arisen-from](samudbhavam)
 
 ## mukta-m0-p63-v1558
-[ten-crores](daśa) [mantras](koṭyastu) [mantras](mantrāṇāṃ) [in-shiva-lotus](śivapadme) [established](vyavasthitāḥ)
+[ten](daśa) [crores](koṭyas) [indeed](tu) [of-mantras](mantrāṇāṃ) [in-śiva](śiva) [lotus](padme) [situated](vyavasthitāḥ)
 
 ## mukta-m0-p63-v1559
-[this-path-lotus](etadadhvanapadmantu) [named-shiva](śivākhye) [all-refuge](sarvamāśritam)
+[this](etat) [path](adhvana) [lotus](padmam) [indeed](tu) [in-śiva](śiva) [named](ākhye) [all](sarvam) [resting-on](āśritam)
 
 ## mukta-m0-p63-v1560
-[of-persons](puruṣāṇāmanantatvāt) [of-principles-beginning](tatvādīnāmanantatā)
+[of-souls](puruṣāṇām) [from-infinitude](anantatvāt) [of-principles](tatva) [and-so-on](ādīnām) [infinitude](anantatā)
 
 ## mukta-m0-p63-v1561
-[of-bound-souls](paśūnāṃ) [of-worlds](bhuvanānāñca) [count](parisaṃkhyā) [not-known](na) [is](vidyate)
+[of-bound-souls](paśūnāṃ) [of-worlds](bhuvanānām) [and](ca) [enumeration](parisaṃkhyā) [not](na) [is-known](vidyate)
 
 ## mukta-m0-p63-v1562
-[beginningless](anādireṣa) [samsara](saṃsāro) [whose-end](yasyānto) [not](na) [indeed](hi) [is-known](vidyate)
+[beginningless](anādiḥ) [this](eṣa) [transmigration](saṃsāro) [of-which](yasya) [end](antaḥ) [not](na) [indeed](hi) [is-known](vidyate)
 
 ## mukta-m0-p63-v1563
-[not](na) [of-lotus](padmasya) [measure](pramāṇo'sti) [endless](anantatvācchivasya) [but](tu)
+[not](na) [of-lotus](padmasya) [measure](pramāṇaḥ) [is](asti) [from-infinitude](anantatvāt) [of-śiva](śivasya) [indeed](tu)
 
 ## mukta-m0-p63-v1564
-[endless](anantaḥ) [is-indicated](khāpyate) [by-that](tena) [by-endless](anantenatvadhiṣṭhitaḥ)
+[infinite](anantaḥ) [is-made-known](khāpyate) [by-that](tena) [by-infinite](anantena) [that](tvat) [presided-over](adhiṣṭhitaḥ)
 
 ## mukta-m0-p63-v1565
-[immeasurable](aprameyaṃ) [by-bound-soul-knowledge](paśujñānaiḥ) [by-independent](svatantre) [is-sung](gīyate) [by-parts](kalaiḥ)
+[immeasurable](aprameyaṃ) [by-bound-soul](paśu) [knowledges](jñānaiḥ) [in-independent](svatantre) [is-sung](gīyate) [by-parts](kalaiḥ)
 
 ## mukta-m0-p63-v1566
-[agency](kartṛtvamīśvaratvañca) [eternally-satisfied](nityatṛptaḥ) [tranquility](praśāntatā)
+[agency](kartṛtvam) [lordship](īśvaratvam) [and](ca) [eternally-satisfied](nityatṛptaḥ) [tranquility](praśāntatā)
 
 ## mukta-m0-p63-v1567
-[once](sakṛt) [everywhere](sarvatra) [existing](sat) [knowledge](jñānaṃ) [omniscience](sarvajñatvañca) [always](sarvadā)
+[at-once](sakṛt) [everywhere](sarvatra) [true](sat) [knowledge](jñānaṃ) [omniscience](sarvajñatvam) [and](ca) [always](sarvadā)
 
 ## mukta-m0-p63-v1568
-[detached](viraktaḥ) [from-natural-states](prākṛtairbhāvaiḥ) [disinterest](nispṛhatvañca) [always](sarvadā)
+[detached](viraktaḥ) [from-material](prākṛtaiḥ) [states](bhāvaiḥ) [desirelessness](nispṛhatvam) [and](ca) [always](sarvadā)
 
 ## mukta-m0-p63-v1569
-[with-aṇimā-etc-powers](aṇimādiguṇaissarvaiḥ) [which](yā) [powers](bhūtyastvabhighātinī)
+[with-aṇimā](aṇimā) [and-other](ādi) [qualities](guṇaiḥ) [with-all](sarvaiḥ) [which](yā) [powers](bhūtyas) [indeed](tu) [unobstructed](abhighātinī)
 
 ## mukta-m0-p63-v1570
-[not](na) [that-world-path](tadbhuvanamadhvānaṃ) [not](na) [form](rūpaṃ) [not](na) [speech-born](ca) [vāṅmayam]
+[not](na) [that](tat) [world](bhuvanam) [path](adhvānaṃ) [not](na) [form](rūpaṃ) [not](na) [and](ca) [consisting-of-speech](vāṅmayam)
 
 ## mukta-m0-p63-v1571
-[radiant](virajannirmalaṃ) [sky](vyomaṃ) [on-all-sides](samantādanivāritam)
+[stainless](virajat) [spotless](nirmalaṃ) [space](vyomaṃ) [on-all-sides](samantāt) [unobstructed](anivāritam)
 
 ## mukta-m0-p63-v1572
-[like-molten-gold](taptacāmīkarākāraṃ) [somewhere](kvacitprāleyasannibham)
+[molten](tapta) [gold](cāmīkara) [in-appearance](ākāraṃ) [sometimes](kvacit) [snow](prāleya) [resembling](sannibham)
 
 ## mukta-m0-p63-v1573
-[moon-moon-mark-like](candracandrakasaṃkāśaṃ) [somewhere](kvacinmaratakaprabham)
+[moon](candra) [camphor](candrakasa) [resembling](saṃkāśaṃ) [sometimes](kvacit) [emerald](marataka) [radiant](prabham)
 
 ## mukta-m0-p63-v1574
-[pervading](vyāpakaṃ) [immeasurable](aprameyañca) [lotus](padmaṃ) [all](sārvaṃ) [greatly-radiant](mahojvalam)
+[pervading](vyāpakaṃ) [immeasurable](aprameyam) [and](ca) [lotus](padmaṃ) [with-all](sārvaṃ) [greatly-radiant](mahojvalam)
 
 ## mukta-m0-p63-v1575
-[by-pervading](vyāpinībhiranantābhiḥ) [vow](vrataṃ) [nectar-powers](amṛtaśaktibhiḥ)
+[with-pervading](vyāpinībhiḥ) [with-infinite](anantābhiḥ) [covered](vrataṃ) [with-immortal](amṛta) [powers](śaktibhiḥ)

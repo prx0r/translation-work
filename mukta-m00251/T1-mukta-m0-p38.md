@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p38-v926
-[sixth-less](ṣaṣṭhahīnaṃ) [when](yadā) [goddess](devi) [m-letter](makārastatra) [there](tatra) [seen](dṛśyate)
+[sixth-less](ṣaṣṭhahīnaṃ) [when](yadā) [O-goddess](devi) [ma-syllable](makāraḥ) [there](tatra) [is-seen](dṛśyate)
 
 ## mukta-m0-p38-v927
-[when](yadā) [by-that](tena) [deprived](vihīnastu) [six-varṇa-less](ṣaḍvarṇarahitaśśivaḥ) [śiva](śivaḥ)
+[when](yadā) [by-that](tena) [devoid](vihīnaḥ) [but](tu) [six-letter+devoid](ṣaḍvarṇa+rahitaḥ) [Śiva](śivaḥ)
 
 ## mukta-m0-p38-v928
-[not](na) [by-loss](lopena) [best-of-women](varārohe) [in-whom](yasmin) [crooked-plough-shape](vakrahalākṛtiḥ)
+[not](na) [by-elision](lopena) [O-fair-hipped-one](varārohe) [in-which](yasmin) [curved+consonant+form](vakra+hala+ākṛtiḥ)
 
 ## mukta-m0-p38-v929
-[seventy-tattvas-etc](saptatatvādi) [in-this-body](dehe'smin) [by-me](mayā) [fully](pūrṇam) [declared](udāhṛtā)
+[seven+principle+etc](sapta+tatva+ādi) [in-body](dehe) [in-this](asmin) [by-me](mayā) [fully](pūrṇam) [declared](udāhṛtā)
 
 ## mukta-m0-p38-v930
-[five](pañca) [tattvas](tatvā) [established](sthitā) [indeed](hy) [upward](ūrdhvam) [aya-and](ayaścaiva) [arranged](vyavasthitaḥ)
+[five](pañca) [principles](tatvā) [situated](sthitā) [indeed](hi) [above](ūrdhvam) [this](ayaḥ) [and](ca) [indeed](eva) [established](vyavasthitaḥ)
 
 ## mukta-m0-p38-v931
-[wind-distinction](vāyubhedaṃ) [again](punastasya) [to-be-told](kathyamānamidaṃ) [hear](śṛṇu)
+[wind+division](vāyu+bhedaṃ) [again](punaḥ) [of-that](tasya) [being-told](kathyamānam) [this](idam) [hear](śṛṇu)
 
 ## mukta-m0-p38-v932
-[udāna](udānassaṃsthito) [established](saṃsthito) [upward](hyūrdhve) [apāna](apāno'dho) [downward](vyavasthitaḥ)
+[udāna](udānaḥ) [situated](saṃsthitaḥ) [indeed](hi) [above](ūrdhve) [apāna](apānaḥ) [below](adhaḥ) [established](vyavasthitaḥ)
 
 ## mukta-m0-p38-v933
-[samāna](samānassarvagastatra) [all-pervading](sarvagaḥ) [there](tatra) [vyāpin](vyāpī) [of-them](teṣāṃ) [dhanañjaya](dhanañjayaḥ)
+[samāna](samānaḥ) [all-pervading](sarvagaḥ) [there](tatra) [pervading](vyāpī) [of-them](teṣāṃ) [dhanañjaya](dhanañjayaḥ)
 
 ## mukta-m0-p38-v934
-[then](tadā) [indeed](tu) [told](kathito) [goddess](devi) [six-varṇa-less](ṣaḍvarṇarahitaśśivaḥ) [śiva](śivaḥ)
+[then](tadā) [but](tu) [declared](kathitaḥ) [O-goddess](devi) [six-letter+devoid](ṣaḍvarṇa+rahitaḥ) [Śiva](śivaḥ)
 
 ## mukta-m0-p38-v935
-[by-śakti-nāda](śaktinādena) [when](tu) [deprived](hīnaṃ) [by-them](tairvihīnastu) [partless](niṣkalaḥ)
+[śakti+nāda](śakti+nādena) [but](tu) [when](yadā) [devoid](hīnaṃ) [by-those](taiḥ) [devoid](vihīnaḥ) [but](tu) [partless](niṣkalaḥ)
 
 ## mukta-m0-p38-v936
-[by-these-varṇas](ebhirvarṇairyadā) [when](yadā) [deprived](hīnaṃ) [six-varṇa-less](ṣaḍvarṇarahito) [becomes](bhavet)
+[by-these](ebhiḥ) [by-letters](varṇaiḥ) [when](yadā) [devoid](hīnaṃ) [six-letter+devoid](ṣaḍvarṇa+rahitaḥ) [would-be](bhavet)
 
 ## mukta-m0-p38-v937
-[then](tadāntau) [supreme](paramaṃ) [peace](śāntaṃ) [varṇa-form-devoid](varṇarūpavivarjitam)
+[then](tadā) [at-end](antau) [supreme](paramaṃ) [peaceful](śāntaṃ) [letter+form+devoid](varṇa+rūpa+vivarjitam)
 
 ## mukta-m0-p38-v938
-[not](na) [mind](mano) [exists](vidyate) [there](tatra) [thought](cintā) [there](tatra) [not](na) [exists](vidyate)
+[not](na) [mind](manaḥ) [exists](vidyate) [there](tatra) [thought](cintā) [there](tatra) [not](na) [exists](vidyate)
 
 ## mukta-m0-p38-v939
-[today](adyāhaṃ) [I](ahaṃ) [god](deva) [know](jānāmi) [life](jīvitañca) [well-lived](sujīvitam)
+[today](adya) [I](ahaṃ) [O-god](deva) [know](jānāmi) [life](jīvitam) [and](ca) [well-lived](su+jīvitam)
 
 ## mukta-m0-p38-v940
-[consonant-vowel-free](vyañjanasvaranirmuktaṃ) [varṇa-form-devoid](varṇarūpavivarjitam)
+[consonant+vowel+freed](vyañjana+svara+nirmuktaṃ) [letter+form+devoid](varṇa+rūpa+vivarjitam)
 
 ## mukta-m0-p38-v941
-[guru-far-shore](gurupāraṃ) [beyond](parāddevi) [goddess](devi) [tradition](saṃpradāyamivoditam) [thus](ivoditam)
+[beyond-guru](guru+pāraṃ) [higher-than-supreme](parāt) [O-goddess](devi) [tradition](saṃpradāyam) [as-if](iva) [declared](uditam)
 
 ## mukta-m0-p38-v942
-[as](yathā) [by-what](yena) [and](ca) [by-mood](bhāvena) [mood-knower](bhāvajñaḥ) [would-tell](kathayedguruḥ) [guru](guruḥ)
+[as](yathā) [by-which](yena) [and](ca) [by-state](bhāvena) [state-knower](bhāva+jñaḥ) [should-tell](kathayet) [guru](guruḥ)
 
 ## mukta-m0-p38-v943
-[as](yathā) [and](ca) [mood](bhāvam) [in-absence](ābhāve) [mood](bhāvaṃ) [becomes](bhāvati) [auspicious](śobhane)
+[as](yathā) [and](ca) [in-being+non-being](bhāva+abhāve) [state](bhāvaṃ) [realizes](bhāvati) [O-beautiful-one](śobhane)
 
 ## mukta-m0-p38-v944
-[that](tadekaṃ) [one](ekaṃ) [word](vacanañcintyaṃ) [to-be-pondered](cintyaṃ) [by-which](yena) [welfare](śreyo'hamāpnuyām) [I-may-obtain](āpnuyām)
+[that](tat) [one](ekaṃ) [word](vacanam) [to-be-contemplated](cintyaṃ) [by-which](yena) [highest-good](śreyaḥ) [I](aham) [may-obtain](āpnuyām)
 
 ## mukta-m0-p38-v945
-[knowable](jñeyantadvyatiriktānya) [that](tad) [other](vyatiriktānya) [in-knowledge](jñāne) [knowable](jñeyaṃ) [is-prescribed](vidhīyate)
+[to-be-known](jñeyam) [that](tat) [distinct-things](vyatiriktāni) [in-knowledge](jñāne) [to-be-known](jñeyaṃ) [is-prescribed](vidhīyate)
 
 ## mukta-m0-p38-v946
-[pure](śuddhā) [natural](svābhāvikī) [form](mūrtiḥ) [without-effort](ayatnādeva) [arises](jāyate)
+[pure](śuddhā) [natural](svābhāvikī) [form](mūrtiḥ) [without-effort](ayatnāt) [indeed](eva) [arises](jāyate)
 
 ## mukta-m0-p38-v947
-[distinction](viśeṣastu) [honey-milk](madhukṣīro) [waters](jalāni) [nectar-etc](amṛtādibhiḥ)
+[difference](viśeṣaḥ) [but](tu) [honey+milk](madhu+kṣīraḥ) [waters](jalāni) [with-nectar+etc](amṛta+ādibhiḥ)
 
 ## mukta-m0-p38-v948
-[for-liberation](muktyarthantu) [praise](praśaṃsanti) [knowable](jñeyaṃ) [dharma-knowers](dharmapravedinaḥ)
+[for-liberation](mukti+artham) [but](tu) [they-praise](praśaṃsanti) [to-be-known](jñeyaṃ) [dharma-knowers](dharma+pravedinaḥ)
 
 ## mukta-m0-p38-v949
-[by-mercury](rasendreṇaiva) [of-metals](lohānāṃ) [blackness](kālikā) [touch-transmuting](sparśavedhinā)
+[by-mercury-lord](rasendreṇa) [indeed](eva) [of-metals](lohānāṃ) [blackness](kālikā) [by-touch-piercing](sparśa+vedhinā)
 
 ## mukta-m0-p38-v950
-[touch-possessing](sparśavat) [knowledge](jñānamuddiṣṭaṃ) [declared](uddiṣṭaṃ) [like-fire](agnivajjñeyamiṣyate) [knowable](jñeyamiṣyate)
+[like-touch](sparśa+vat) [knowledge](jñānam) [declared](uddiṣṭaṃ) [like-fire](agni+vat) [to-be-known](jñeyam) [is-desired](iṣyate)

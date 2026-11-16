@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p36-v876
-third (tṛtīyam) difference (bhedam) tell (ākhyā) indeed (hi) as (yathā) whole+partless (sakala+niṣkalam)
+[third](tṛtīyaṃ) [division](bhedam) [called](ākhyā) [indeed](hi) [as](yathā) [with-parts+without-parts](sakala+niṣkalam)
 
 ## mukta-m0-p36-v877
-this (etat) to-you (te) I-will-tell (kathayiṣyāmi) five (pañca) difference+natured (bheda+ātmakam) Shiva (śivam)
+[this](etat) [to-you](te) [I-shall-tell](kathayiṣyāmi) [five+division+natured](pañca+bheda+ātmakaṃ) [Śiva](śivam)
 
 ## mukta-m0-p36-v878
-space+pervading (vyoma+vyāpī) supreme (paraḥ) god (devaḥ) fifth+mantra (pañca+mantraḥ) great+lord (mahā+īśvaraḥ)
+[space+pervading](vyoma+vyāpī) [supreme](paraḥ) [god](devaḥ) [five+mantra](pañca+mantraḥ) [great-lord](maheśvaraḥ)
 
 ## mukta-m0-p36-v879
-whole (sakalaḥ) and+so (ca+iti) who (yaḥ) declared (proktaḥ) self (svayam) god (devaḥ) indeed (hi) Uma+lord (umā+patiḥ)
+[with-parts](sakalaḥ) [and-thus](ca+iti) [who](yaḥ) [declared](proktaḥ) [himself](svayaṃ) [god](devaḥ) [indeed](hi) [Umā+husband](umā+patiḥ)
 
 ## mukta-m0-p36-v880
-would+pervade (vyāpayet) world (bhuvanam) all (sarvam) would+pervade (vyāpayet) all+bodies (sarva+dehiṣu)
+[he-should-pervade](vyāpayet) [world](bhuvanaṃ) [all](sarvaṃ) [he-should-pervade](vyāpayet) [all+embodied-beings](sarva+dehiṣu)
 
 ## mukta-m0-p36-v881
-undivided+equal (avikalpa+samaḥ) state (bhāvaḥ) where (yatra) by+mantra (mantreṇa) is+united (yujyate)
+[non-conceptual+equal](avikalpa+samaḥ) [state](bhāvaḥ) [where](yatra) [with-mantra](mantreṇa) [is-united](yujyate)
 
 ## mukta-m0-p36-v882
-gross+subtle (sthūla+sūkṣmeṣu) beings (bhūteṣu) situated (sthitaḥ) all+bodied+ones (sarva+śarīriṇām)
+[in-gross+subtle](sthūla+sūkṣmeṣu) [elements](bhūteṣu) [situated](sthitaḥ) [of-all+embodied-beings](sarva+śarīriṇām)
 
 ## mukta-m0-p36-v883
-by+pervasion (vyāpitvāt) whole (sakalaḥ) god (devaḥ) kalā+principle (kalā+tattvam) proclaimed (prakīrtitam)
+[by-pervading](vyāpitvāt) [with-parts](sakalaḥ) [O-gods](devāḥ) [part+principle](kalā+tatvaṃ) [is-proclaimed](prakīrtitam)
 
 ## mukta-m0-p36-v884
-whole (sakalaḥ) does (kurute) creation (sṛṣṭim) mantra+success (mantra+siddhim) grants (prayacchati)
+[with-parts](sakalaḥ) [performs](kurute) [creation](sṛṣṭiṃ) [mantra+accomplishment](mantra+siddhiṃ) [bestows](prayacchati)
 
 ## mukta-m0-p36-v885
-immeasurable (aprameyaḥ) indeed (hi) indescribable (anirdeśyaḥ) incomparable (na+upamyaḥ) formless (rūpa+varjitaḥ)
+[immeasurable](aprameyaḥ) [and-indescribable](hi+anirdeśyaḥ) [without-comparison](na+aupamyaḥ) [form+devoid](rūpa+varjitaḥ)
 
 ## mukta-m0-p36-v886
-body+principle+limited (deha+tattva+paricchinne) sound (ninādaḥ) all+bodied (sarva+dehinām)
+[body+principle+limited](deha+tatva+paricchinne) [inner-sound](ninādaḥ) [of-all+embodied-beings](sarva+dehinām)
 
 ## mukta-m0-p36-v887
-from+whole (sakalena) freed (vinirmuktaḥ) bindu+sound+devoid (bindu+nāda+varjitaḥ)
+[by-with-parts](sakalena) [fully-freed](vinirmuktaḥ) [bindu+sound+devoid](bindu+nāda+vivarjitaḥ)
 
 ## mukta-m0-p36-v888
-knowledge+ignorance+freed (vidyā+avidyā+vinirmuktam) partless (niṣkalam) supreme (paramam) state (padam)
+[knowledge+ignorance+freed](vidyā+avidyā+vinirmuktaṃ) [without-parts](niṣkalaṃ) [supreme](paramaṃ) [state](padam)
 
 ## mukta-m0-p36-v889
-by+mind (manasā) liberation+success+for (mokṣa+siddhi+artham) in+partless (niṣkale) dissolution (layam) do (kuru)
+[with-mind](manasā) [liberation+accomplishment+for-the-sake-of](mokṣa+sidhy+artham) [in-without-parts](niṣkale) [indeed](tu) [dissolution](layaṃ) [make](kuru)
 
 ## mukta-m0-p36-v890
-visible (dṛśyam) here (atra) half+pure (ardha+vimalam) knowable (jñeyam) whole+partless (sakala+niṣkalam)
+[visible](dṛśya) [here](atra) [half+pure](ardha+vimalaṃ) [to-be-known](jñeyaṃ) [with-parts+without-parts](sakala+niṣkalam)
 
 ## mukta-m0-p36-v891
-om+sound+element (oṃkāra+śabda+tanmātram) is+heard (śrūyate) is+said (kathyate) not (na) and (ca)
+[oṃkāra+sound+subtle-element](oṃkāra+śabda+tanmātraṃ) [is-heard](śrūyate) [is-spoken](kathyate) [not](na) [and](ca)
 
 ## mukta-m0-p36-v892
-whole (sakalam) having+united (yojayitvā) but (tu) partless (niṣkalam) is+united (yojyate) when (yadā)
+[with-parts](sakalaṃ) [having-united](yojayitvā) [indeed](tu) [without-parts](niṣkalaṃ) [is-united](yojyate) [when](yadā)
 
 ## mukta-m0-p36-v893
-body+situated (deha+sthaḥ) whole (sakalaḥ) knowable (jñeyaḥ) partless (niṣkalaḥ) body+devoid (deha+varjitaḥ)
+[body+abiding](deha+sthaḥ) [with-parts](sakalaḥ) [to-be-known](jñeyaḥ) [without-parts](niṣkalaḥ) [body+devoid](deha+varjitaḥ)
 
 ## mukta-m0-p36-v894
-fourth (caturtham) space+made (ākāśa+mayam) beyond+sound (nāda+atītam) beyond+senses (atīndriyam)
+[fourth](caturtham) [space+consisting-of](ākāśa+mayaṃ) [sound+beyond](nāda+atītam) [beyond-senses](atīndriyam)
 
 ## mukta-m0-p36-v895
-atom+subtleness (paramāṇu+susūkṣmatvāt) to+be+meditated (bhāvitavyam) diseaseless (nirāmayam)
+[atom+very+subtle+because-of](paramāṇu+su+sūkṣmatvāt) [to-be-contemplated](bhāvitavyaṃ) [free-from-ailment](nirāmayam)
 
 ## mukta-m0-p36-v896
-atom+subtle (paramāṇu+susūkṣmaḥ) that (asau) in+heart (hṛdi) middle (madhye) situated (vyavasthitaḥ)
+[atom+very+subtle](paramāṇu+su+sūkṣmaḥ) [this](asau) [in-heart](hṛdi) [in-middle](madhye) [situated](vyavasthitaḥ)
 
 ## mukta-m0-p36-v897
-mantra+syllable+words (mantra+akṣara+padaiḥ) foremost (agraiḥ) space+situated (viyastham) sees (paśyate) always (sadā)
+[mantra+syllable+words+foremost](mantra+akṣara+padaiḥ+agraiḥ) [in-space](viyasthaṃ) [sees](paśyate) [always](sadā)
 
 ## mukta-m0-p36-v898
-sin+destruction (pāpa+kṣayāt) and (ca) yoga (yogāt) and (ca) meditation+increase (dhyānasya+upacayāt) thus (tathā)
+[sin+destruction+and](pāpa+kṣayāt+ca) [yoga+and](yogāt+ca) [meditation+increase+and](dhyānasya+upacayāt+tathā)
 
 ## mukta-m0-p36-v899
-all+within (sarva+antaḥ+sthaḥ) samadhi+situated (samādhi+sthaḥ) inner+organ+range (antaḥkaraṇa+gocaraḥ)
+[all+inner+abiding](sarva+antaḥsthaḥ) [absorption+abiding](samādhi+sthaḥ) [inner-organ+perceptible](antaḥkaraṇa+gocaraḥ)
 
 ## mukta-m0-p36-v900
-earth+water+fire+air+space (bhū+jala+agni+anila+ākāśa) kingdom+self (rājye+ātman) moon+sun+form (indu+ravi+rūpavān)
+[earth+water+fire+wind+space](bhū+jala+agni+anila+ākāśa) [in-realm](rājye) [(ātme)](ātme) [moon+sun+form-possessing](indu+ravi+rūpavān)
