@@ -7,12 +7,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "manonmanyāsamāyuktaṃ",
-"quick_gloss": "mind+great+union"
+"surface": "manas",
+"quick_gloss": "mind"
 },
 {
-"surface": "pañcāvaraṇasaṃyutam",
-"quick_gloss": "five+coverings+endowed"
+"surface": "unmanyā+samāyuktaṃ",
+"quick_gloss": "unmanī+united-with"
+},
+{
+"surface": "pañca+āvaraṇa+saṃyutam",
+"quick_gloss": "five+enclosures+endowed-with"
 }
 ]
 },
@@ -24,12 +28,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "indhanādājyasamidhaṃ",
-"quick_gloss": "fuel+from+ghee+kindling"
+"surface": "indhanāt",
+"quick_gloss": "fuel+and"
+},
+{
+"surface": "ājya+samidhaṃ",
+"quick_gloss": "ghee+firewood"
 },
 {
 "surface": "sūpaṃ",
-"quick_gloss": "soup"
+"quick_gloss": "broth"
 },
 {
 "surface": "dadhi",
@@ -53,16 +61,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "sitāmrapañcadūrvāgraṃ",
-"quick_gloss": "white+copper+five+dūrvā+tip"
+"surface": "sita+āmra",
+"quick_gloss": "white+copper"
 },
 {
-"surface": "homadravyaṃ",
-"quick_gloss": "offering+substance"
+"surface": "pañca+dūrvā+agraṃ",
+"quick_gloss": "five+dūrvā+tips"
 },
 {
-"surface": "daśāṣṭadham",
-"quick_gloss": "ten+eight+quality"
+"surface": "homa+dravyaṃ",
+"quick_gloss": "oblation+substance"
+},
+{
+"surface": "daśa+aṣṭa+dham",
+"quick_gloss": "ten+eight+fold"
 }
 ]
 },
@@ -90,8 +102,8 @@
 "quick_gloss": "or"
 },
 {
-"surface": "tadardhaṃ",
-"quick_gloss": "that+half"
+"surface": "tat+ardhaṃ",
+"quick_gloss": "its+half"
 },
 {
 "surface": "vā",
@@ -99,11 +111,11 @@
 },
 {
 "surface": "hutaṃ",
-"quick_gloss": "offered"
+"quick_gloss": "offering"
 },
 {
 "surface": "caret",
-"quick_gloss": "should+do"
+"quick_gloss": "should-perform"
 }
 ]
 },
@@ -115,20 +127,24 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "gandhapuṣpaisamabhyarcya",
-"quick_gloss": "fragrance+flowers+with+worship"
+"surface": "gandha+puṣpaiḥ",
+"quick_gloss": "with-fragrances+flowers"
 },
 {
-"surface": "dhūpadīpaṃ",
+"surface": "samabhyarcya",
+"quick_gloss": "having-worshipped"
+},
+{
+"surface": "dhūpa+dīpaṃ",
 "quick_gloss": "incense+lamp"
 },
 {
-"surface": "daded",
-"quick_gloss": "should+give"
+"surface": "dadet",
+"quick_gloss": "should-give"
 },
 {
-"surface": "guru",
-"quick_gloss": "guru"
+"surface": "guruḥ",
+"quick_gloss": "teacher"
 }
 ]
 },
@@ -140,20 +156,28 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "vitānavannimabhyarcya",
-"quick_gloss": "canopy+like+worship"
+"surface": "vitāna+vat",
+"quick_gloss": "like-canopy"
 },
 {
-"surface": "sarvadravyai",
-"quick_gloss": "all+substances"
+"surface": "agnim",
+"quick_gloss": "fire"
+},
+{
+"surface": "abhyarcya",
+"quick_gloss": "having-worshipped"
+},
+{
+"surface": "sarva+dravyaiḥ",
+"quick_gloss": "with-all+substances"
 },
 {
 "surface": "hutaṃ",
-"quick_gloss": "offered"
+"quick_gloss": "offering"
 },
 {
 "surface": "caret",
-"quick_gloss": "should+do"
+"quick_gloss": "should-perform"
 }
 ]
 },
@@ -165,12 +189,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "gandhapuṣpaiḥ",
-"quick_gloss": "fragrance+flowers+with+worship"
+"surface": "gandha+puṣpaiḥ",
+"quick_gloss": "with-fragrances+flowers"
 },
 {
-"surface": "visṛjaidagnidaivatam",
-"quick_gloss": "should+release+fire+deity"
+"surface": "samabhyarcya",
+"quick_gloss": "having-worshipped"
+},
+{
+"surface": "visṛjet",
+"quick_gloss": "should-dismiss"
+},
+{
+"surface": "agni+daivatam",
+"quick_gloss": "fire+deity"
 }
 ]
 },
@@ -182,12 +214,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "vedadhvanisamāyuktaṃ",
-"quick_gloss": "veda+sound+endowed"
+"surface": "veda+dhvani+samāyuktaṃ",
+"quick_gloss": "veda+sound+accompanied-by"
 },
 {
-"surface": "stotradhvani",
-"quick_gloss": "hymn+sound+accompanied"
+"surface": "stotra+dhvani",
+"quick_gloss": "hymn+sound"
+},
+{
+"surface": "samanvitam",
+"quick_gloss": "endowed-with"
 }
 ]
 },
@@ -199,8 +235,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "śivāgre",
-"quick_gloss": "śiva+before"
+"surface": "śiva+agre",
+"quick_gloss": "Śiva+in-front"
 },
 {
 "surface": "maṇḍalaṃ",
@@ -208,11 +244,11 @@
 },
 {
 "surface": "kṛtvā",
-"quick_gloss": "having+made"
+"quick_gloss": "having-made"
 },
 {
-"surface": "sarvālaṅkārasaṃyutam",
-"quick_gloss": "all+ornaments+endowed"
+"surface": "sarva+alaṅkāra+saṃyutam",
+"quick_gloss": "all+ornaments+endowed-with"
 }
 ]
 },
@@ -225,23 +261,27 @@
 "tokens": [
 {
 "surface": "navakaṃ",
-"quick_gloss": "ninefold"
+"quick_gloss": "group-of-nine"
 },
 {
 "surface": "dakṣiṇe",
-"quick_gloss": "south"
+"quick_gloss": "in-south"
 },
 {
 "surface": "sthāpya",
-"quick_gloss": "having+placed"
+"quick_gloss": "having-placed"
 },
 {
 "surface": "nīrājanam",
-"quick_gloss": "lamp+waving"
+"quick_gloss": "waving-of-light"
 },
 {
-"surface": "athottare",
-"quick_gloss": "then+north"
+"surface": "atha",
+"quick_gloss": "then"
+},
+{
+"surface": "uttare",
+"quick_gloss": "in-north"
 }
 ]
 },
@@ -254,23 +294,23 @@
 "tokens": [
 {
 "surface": "gaṇeśaṃ",
-"quick_gloss": "gaṇeśa"
+"quick_gloss": "Gaṇeśa"
 },
 {
 "surface": "pūjayet",
-"quick_gloss": "should+worship"
+"quick_gloss": "should-worship"
 },
 {
-"surface": "pāścād",
-"quick_gloss": "west"
+"surface": "pāścāt",
+"quick_gloss": "afterwards"
 },
 {
-"surface": "dvāradevān",
+"surface": "dvāra+devān",
 "quick_gloss": "door+deities"
 },
 {
 "surface": "samarcayet",
-"quick_gloss": "should+worship"
+"quick_gloss": "should-worship"
 }
 ]
 },
@@ -282,20 +322,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "arcayed",
-"quick_gloss": "should+worship"
+"surface": "arcayet",
+"quick_gloss": "should-worship"
 },
 {
-"surface": "īpadānāntaṃ",
-"quick_gloss": "lamp+gift+end"
+"surface": "dīpa+dāna+antaṃ",
+"quick_gloss": "lamp+offering+ending-with"
 },
 {
-"surface": "tanmatreṇa",
-"quick_gloss": "that+measure"
+"surface": "tat+mantreṇa",
+"quick_gloss": "with-that+mantra"
 },
 {
 "surface": "vicakṣaṇaḥ",
-"quick_gloss": "wise"
+"quick_gloss": "skilled-one"
 }
 ]
 },
@@ -307,32 +347,28 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "mantrapuṣpaṃ",
+"surface": "mantra+puṣpaṃ",
 "quick_gloss": "mantra+flower"
 },
 {
-"surface": "tato",
+"surface": "tataḥ",
 "quick_gloss": "then"
 },
 {
 "surface": "datvā",
-"quick_gloss": "having+given"
+"quick_gloss": "having-given"
 },
 {
-"surface": "mantrān",
-"quick_gloss": "mantras"
-},
-{
-"surface": "annaṃ",
-"quick_gloss": "food"
+"surface": "mantra+annaṃ",
+"quick_gloss": "mantra+food"
 },
 {
 "surface": "ca",
-"quick_gloss": "ca"
+"quick_gloss": "and"
 },
 {
 "surface": "nivedayet",
-"quick_gloss": "should+offer"
+"quick_gloss": "should-offer"
 }
 ]
 },
@@ -348,16 +384,16 @@
 "quick_gloss": "pots"
 },
 {
-"surface": "bhasmasamādāya",
-"quick_gloss": "ash+with"
+"surface": "bhasma+samādāya",
+"quick_gloss": "with-ashes"
 },
 {
-"surface": "liṅgamūrdhani",
-"quick_gloss": "liṅga+head"
+"surface": "liṅga+mūrdhani",
+"quick_gloss": "liṅga+on-head"
 },
 {
 "surface": "dāpayet",
-"quick_gloss": "should+give"
+"quick_gloss": "should-place"
 }
 ]
 },
@@ -369,16 +405,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "pañcavarṇahavirdatvā",
-"quick_gloss": "five+colored+offering"
+"surface": "pañca+varṇa+haviḥ",
+"quick_gloss": "five+colored+oblation"
 },
 {
-"surface": "pāniyācamanaṃ",
-"quick_gloss": "water+mouth+rinsing"
+"surface": "datvā",
+"quick_gloss": "having-given"
+},
+{
+"surface": "pānīya+ācamanaṃ",
+"quick_gloss": "water+sipping"
 },
 {
 "surface": "dadet",
-"quick_gloss": "should+give"
+"quick_gloss": "should-give"
 }
 ]
 },
@@ -390,12 +430,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "dhūpadīpaiḥ",
-"quick_gloss": "incense+lamp+with"
+"surface": "dhūpa+dīpaiḥ",
+"quick_gloss": "with-incense+lamps"
 },
 {
-"surface": "vṛṣamūlena",
-"quick_gloss": "bull+root"
+"surface": "samabhyarcya",
+"quick_gloss": "having-worshipped"
+},
+{
+"surface": "vṛṣa+mūlena",
+"quick_gloss": "with-bull+root-mantra"
 },
 {
 "surface": "deśikaḥ",
@@ -415,12 +459,12 @@
 "quick_gloss": "then"
 },
 {
-"surface": "sāyānnasamaye",
-"quick_gloss": "evening+time"
+"surface": "sāya+anna+samaye",
+"quick_gloss": "evening+meal+time"
 },
 {
-"surface": "dhūpadīpāvasānake",
-"quick_gloss": "incense+lamp+end"
+"surface": "dhūpa+dīpa+avasānake",
+"quick_gloss": "incense+lamp+conclusion"
 }
 ]
 },
@@ -432,16 +476,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "nivṛtyādi",
-"quick_gloss": "return+etc"
+"surface": "nivṛti+ādi",
+"quick_gloss": "nivṛtti+beginning"
 },
 {
-"surface": "kalāmantrer",
-"quick_gloss": "kalā+mantra"
+"surface": "kalā+mantraiḥ",
+"quick_gloss": "with-kalā+mantras"
 },
 {
-"surface": "gandhapuṣpakaiḥ",
-"quick_gloss": "fragrance+flowers"
+"surface": "arcayet",
+"quick_gloss": "should-worship"
+},
+{
+"surface": "gandha+puṣpakaiḥ",
+"quick_gloss": "with-fragrances+flowers"
 }
 ]
 },
@@ -453,12 +501,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "sagulmalughṛtairyuktaṃ",
-"quick_gloss": "with+gulma+ghee"
+"surface": "sa+gulma+lu+ghṛtaiḥ",
+"quick_gloss": "with-clusters+ghee"
 },
 {
-"surface": "dhūpāmodasamanvitam",
-"quick_gloss": "incense+fragrance+endowed"
+"surface": "yuktaṃ",
+"quick_gloss": "endowed-with"
+},
+{
+"surface": "dhūpa+āmoda+samanvitam",
+"quick_gloss": "incense+fragrance+accompanied-by"
 }
 ]
 },
@@ -470,16 +522,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "bhūmayo",
-"quick_gloss": "earth"
+"surface": "bhūmayaḥ",
+"quick_gloss": "earths"
 },
 {
-"surface": "mūlamantreṇa",
-"quick_gloss": "root+mantra"
+"surface": "mūla+mantreṇa",
+"quick_gloss": "with-root+mantra"
 },
 {
-"surface": "śanaiśanaiḥ",
-"quick_gloss": "slowly"
+"surface": "avatiyya",
+"quick_gloss": "having-offered"
+},
+{
+"surface": "śanaiḥ+śanaiḥ",
+"quick_gloss": "slowly+slowly"
 }
 ]
 },
@@ -491,24 +547,24 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "pūrvavad",
-"quick_gloss": "as+before"
+"surface": "pūrva+vat",
+"quick_gloss": "as-before"
 },
 {
 "surface": "bhramaṇaṃ",
-"quick_gloss": "circumambulation"
+"quick_gloss": "circling"
 },
 {
 "surface": "kṛtvā",
-"quick_gloss": "having+done"
+"quick_gloss": "having-done"
 },
 {
 "surface": "praṇavena",
-"quick_gloss": "with+oṃ"
+"quick_gloss": "with-praṇava"
 },
 {
 "surface": "visarjayet",
-"quick_gloss": "should+release"
+"quick_gloss": "should-dismiss"
 }
 ]
 },
@@ -528,12 +584,12 @@
 "quick_gloss": "then"
 },
 {
-"surface": "kuryā",
-"quick_gloss": "should+do"
+"surface": "kuryāt",
+"quick_gloss": "should-do"
 },
 {
-"surface": "vādyadhvanisamanvitam",
-"quick_gloss": "music+sound+accompanied"
+"surface": "vādya+dhvani+samanvitam",
+"quick_gloss": "musical-instrument+sound+accompanied-by"
 }
 ]
 },
@@ -546,15 +602,15 @@
 "tokens": [
 {
 "surface": "nirājanaṃ",
-"quick_gloss": "lamp+waving"
+"quick_gloss": "waving-of-light"
 },
 {
 "surface": "parityajya",
-"quick_gloss": "having+abandoned"
+"quick_gloss": "having-abandoned"
 },
 {
 "surface": "bahurūpam",
-"quick_gloss": "many+forms"
+"quick_gloss": "Bahurūpa"
 },
 {
 "surface": "anusmaran",
@@ -570,24 +626,24 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "pādaprakṣālanaṃ",
+"surface": "pāda+prakṣālanaṃ",
 "quick_gloss": "foot+washing"
 },
 {
 "surface": "kṛtvā",
-"quick_gloss": "having+done"
+"quick_gloss": "having-done"
 },
 {
-"surface": "praveśed",
-"quick_gloss": "should+enter"
+"surface": "praviśet",
+"quick_gloss": "should-enter"
 },
 {
 "surface": "ālayaṃ",
 "quick_gloss": "temple"
 },
 {
-"surface": "guru",
-"quick_gloss": "guru"
+"surface": "guruḥ",
+"quick_gloss": "teacher"
 }
 ]
 },
@@ -599,24 +655,24 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "puṣpāñjalitrayaṃ",
+"surface": "puṣpa+añjali+trayaṃ",
 "quick_gloss": "flower+handful+three"
 },
 {
 "surface": "datvā",
-"quick_gloss": "having+given"
+"quick_gloss": "having-given"
 },
 {
 "surface": "abhiṣṭhaṃ",
-"quick_gloss": "desire"
+"quick_gloss": "desired-object"
 },
 {
-"surface": "prāthayed",
-"quick_gloss": "should+pray"
+"surface": "prārthayet",
+"quick_gloss": "should-pray"
 },
 {
-"surface": "guru",
-"quick_gloss": "guru"
+"surface": "guruḥ",
+"quick_gloss": "teacher"
 }
 ]
 }

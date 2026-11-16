@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p115-v2851
-[mind+great+union](manonmanyāsamāyuktaṃ) [five+coverings+endowed](pañcāvaraṇasaṃyutam)
+[mind](manas) [unmanī+united-with](unmanyā+samāyuktaṃ) [five+enclosures+endowed-with](pañca+āvaraṇa+saṃyutam)
 
 ## mukta-m0-p115-v2852
-[fuel+from+ghee+kindling](indhanādājyasamidhaṃ) [soup](sūpaṃ) [curd](dadhi) [barley](yavaṃ) [honey](madhu)
+[fuel+and](indhanāt) [ghee+firewood](ājya+samidhaṃ) [broth](sūpaṃ) [curd](dadhi) [barley](yavaṃ) [honey](madhu)
 
 ## mukta-m0-p115-v2853
-[white+copper+five+dūrvā+tip](sitāmrapañcadūrvāgraṃ) [offering+substance](homadravyaṃ) [ten+eight+quality](daśāṣṭadham)
+[white+copper](sita+āmra) [five+dūrvā+tips](pañca+dūrvā+agraṃ) [oblation+substance](homa+dravyaṃ) [ten+eight+fold](daśa+aṣṭa+dham)
 
 ## mukta-m0-p115-v2854
-[each](pratyekaṃ) [hundred](śatam) [half](ardhaṃ) [or](vā) [that+half](tadardhaṃ) [or](vā) [offered](hutaṃ) [should+do](caret)
+[each](pratyekaṃ) [hundred](śatam) [half](ardhaṃ) [or](vā) [its+half](tat+ardhaṃ) [or](vā) [offering](hutaṃ) [should-perform](caret)
 
 ## mukta-m0-p115-v2855
-[fragrance+flowers+with+worship](gandhapuṣpaisamabhyarcya) [incense+lamp](dhūpadīpaṃ) [should+give](daded) [guru](guru)
+[with-fragrances+flowers](gandha+puṣpaiḥ) [having-worshipped](samabhyarcya) [incense+lamp](dhūpa+dīpaṃ) [should-give](dadet) [teacher](guruḥ)
 
 ## mukta-m0-p115-v2856
-[canopy+like+worship](vitānavannimabhyarcya) [all+substances](sarvadravyai) [offered](hutaṃ) [should+do](caret)
+[like-canopy](vitāna+vat) [fire](agnim) [having-worshipped](abhyarcya) [with-all+substances](sarva+dravyaiḥ) [offering](hutaṃ) [should-perform](caret)
 
 ## mukta-m0-p115-v2857
-[fragrance+flowers+with+worship](gandhapuṣpaiḥ) [samabhyarcya] [should+release+fire+deity](visṛjaidagnidaivatam)
+[with-fragrances+flowers](gandha+puṣpaiḥ) [having-worshipped](samabhyarcya) [should-dismiss](visṛjet) [fire+deity](agni+daivatam)
 
 ## mukta-m0-p115-v2858
-[veda+sound+endowed](vedadhvanisamāyuktaṃ) [hymn+sound+accompanied](stotradhvani) [samanvitam]
+[veda+sound+accompanied-by](veda+dhvani+samāyuktaṃ) [hymn+sound](stotra+dhvani) [endowed-with](samanvitam)
 
 ## mukta-m0-p115-v2859
-[śiva+before](śivāgre) [maṇḍala](maṇḍalaṃ) [having+made](kṛtvā) [all+ornaments+endowed](sarvālaṅkārasaṃyutam)
+[Śiva+in-front](śiva+agre) [maṇḍala](maṇḍalaṃ) [having-made](kṛtvā) [all+ornaments+endowed-with](sarva+alaṅkāra+saṃyutam)
 
 ## mukta-m0-p115-v2860
-[ninefold](navakaṃ) [south](dakṣiṇe) [having+placed](sthāpya) [lamp+waving](nīrājanam) [then+north](athottare)
+[group-of-nine](navakaṃ) [in-south](dakṣiṇe) [having-placed](sthāpya) [waving-of-light](nīrājanam) [then](atha) [in-north](uttare)
 
 ## mukta-m0-p115-v2861
-[gaṇeśa](gaṇeśaṃ) [should+worship](pūjayet) [west](pāścād) [door+deities](dvāradevān) [should+worship](samarcayet)
+[Gaṇeśa](gaṇeśaṃ) [should-worship](pūjayet) [afterwards](pāścāt) [door+deities](dvāra+devān) [should-worship](samarcayet)
 
 ## mukta-m0-p115-v2862
-[should+worship](arcayed) [lamp+gift+end](īpadānāntaṃ) [that+measure](tanmatreṇa) [wise](vicakṣaṇaḥ)
+[should-worship](arcayet) [lamp+offering+ending-with](dīpa+dāna+antaṃ) [with-that+mantra](tat+mantreṇa) [skilled-one](vicakṣaṇaḥ)
 
 ## mukta-m0-p115-v2863
-[mantra+flower](mantrapuṣpaṃ) [then](tato) [having+given](datvā) [mantras](mantrān) [food](annaṃ) [ca](ca) [should+offer](nivedayet)
+[mantra+flower](mantra+puṣpaṃ) [then](tataḥ) [having-given](datvā) [mantra+food](mantra+annaṃ) [and](ca) [should-offer](nivedayet)
 
 ## mukta-m0-p115-v2864
-[pots](kumbhān) [ash+with](bhasmasamādāya) [liṅga+head](liṅgamūrdhani) [should+give](dāpayet)
+[pots](kumbhān) [with-ashes](bhasma+samādāya) [liṅga+on-head](liṅga+mūrdhani) [should-place](dāpayet)
 
 ## mukta-m0-p115-v2865
-[five+colored+offering](pañcavarṇahavirdatvā) [water+mouth+rinsing](pāniyācamanaṃ) [should+give](dadet)
+[five+colored+oblation](pañca+varṇa+haviḥ) [having-given](datvā) [water+sipping](pānīya+ācamanaṃ) [should-give](dadet)
 
 ## mukta-m0-p115-v2866
-[incense+lamp+with](dhūpadīpaiḥ) [samabhyarcya] [bull+root](vṛṣamūlena) [teacher](deśikaḥ)
+[with-incense+lamps](dhūpa+dīpaiḥ) [having-worshipped](samabhyarcya) [with-bull+root-mantra](vṛṣa+mūlena) [teacher](deśikaḥ)
 
 ## mukta-m0-p115-v2867
-[then](tataḥ) [evening+time](sāyānnasamaye) [incense+lamp+end](dhūpadīpāvasānake)
+[then](tataḥ) [evening+meal+time](sāya+anna+samaye) [incense+lamp+conclusion](dhūpa+dīpa+avasānake)
 
 ## mukta-m0-p115-v2868
-[return+etc](nivṛtyādi) [kalā+mantra](kalāmantrer) [arcayed] [fragrance+flowers](gandhapuṣpakaiḥ)
+[nivṛtti+beginning](nivṛti+ādi) [with-kalā+mantras](kalā+mantraiḥ) [should-worship](arcayet) [with-fragrances+flowers](gandha+puṣpakaiḥ)
 
 ## mukta-m0-p115-v2869
-[with+gulma+ghee](sagulmalughṛtairyuktaṃ) [incense+fragrance+endowed](dhūpāmodasamanvitam)
+[with-clusters+ghee](sa+gulma+lu+ghṛtaiḥ) [endowed-with](yuktaṃ) [incense+fragrance+accompanied-by](dhūpa+āmoda+samanvitam)
 
 ## mukta-m0-p115-v2870
-[earth](bhūmayo) [root+mantra](mūlamantreṇa) [avatiyya] [slowly](śanaiśanaiḥ)
+[earths](bhūmayaḥ) [with-root+mantra](mūla+mantreṇa) [having-offered](avatiyya) [slowly+slowly](śanaiḥ+śanaiḥ)
 
 ## mukta-m0-p115-v2871
-[as+before](pūrvavad) [circumambulation](bhramaṇaṃ) [having+done](kṛtvā) [with+oṃ](praṇavena) [should+release](visarjayet)
+[as-before](pūrva+vat) [circling](bhramaṇaṃ) [having-done](kṛtvā) [with-praṇava](praṇavena) [should-dismiss](visarjayet)
 
 ## mukta-m0-p115-v2872
-[circumambulation](pradakṣiṇaṃ) [then](tataḥ) [should+do](kuryā) [music+sound+accompanied](vādyadhvanisamanvitam)
+[circumambulation](pradakṣiṇaṃ) [then](tataḥ) [should-do](kuryāt) [musical-instrument+sound+accompanied-by](vādya+dhvani+samanvitam)
 
 ## mukta-m0-p115-v2873
-[lamp+waving](nirājanaṃ) [having+abandoned](parityajya) [many+forms](bahurūpam) [remembering](anusmaran)
+[waving-of-light](nirājanaṃ) [having-abandoned](parityajya) [Bahurūpa](bahurūpam) [remembering](anusmaran)
 
 ## mukta-m0-p115-v2874
-[foot+washing](pādaprakṣālanaṃ) [having+done](kṛtvā) [should+enter](praveśed) [temple](ālayaṃ) [guru](guru)
+[foot+washing](pāda+prakṣālanaṃ) [having-done](kṛtvā) [should-enter](praviśet) [temple](ālayaṃ) [teacher](guruḥ)
 
 ## mukta-m0-p115-v2875
-[flower+handful+three](puṣpāñjalitrayaṃ) [having+given](datvā) [desire](abhiṣṭhaṃ) [should+pray](prāthayed) [guru](guru)
+[flower+handful+three](puṣpa+añjali+trayaṃ) [having-given](datvā) [desired-object](abhiṣṭhaṃ) [should-pray](prārthayet) [teacher](guruḥ)
