@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p50-v1226
-śrīśaila-esvāmi-śaila-vā godāvarī-sarasvatī
+[at-śrīśaila](śrīśaile) [or-at-svāmiśaila](svāmiśaile) [or](vā) [at-godāvarī](godāvaryāṃ) [at-sarasvatī](sarasvatau)
 
 ## mukta-m0-p50-v1227
-sindhu-saras-tīra-vā sarasvatī-taṭa-api-vā
+[at-sindhu+lake+shore](sindhusarastīre) [or](vā) [at-sarasvatī+bank](sarasvatyāstaṭe) [also](api) [or](vā)
 
 ## mukta-m0-p50-v1228
-brāhmaṇa-mahī-śvetā rakta-bhūmi-bhūpateḥ
+[of-brāhmaṇa](brāhmaṇasya) [earth+white](mahīśvetā) [red+earth](raktabhūmiḥ) [but](tu) [of-king](bhūpateḥ)
 
 ## mukta-m0-p50-v1229
-vipra-ghṛta-gandha rakta-gandha-nṛpa
+[of-brāhmaṇa](viprasya) [ghee+smell](ghṛtagandhā) [indeed](tu) [red+smell](raktagandhā) [of-king](nṛpasya) [but](tu)
 
 ## mukta-m0-p50-v1230
-varṇa-gandha-rasa-jñātvā yoga-veśma-samārabhet
+[color](varṇaṃ) [smell](gandhaṃ) [taste](rasaṃ) [having-known](jñātvā) [yoga+dwelling](yogaveśma) [one-should-begin](samārabhet)
 
 ## mukta-m0-p50-v1231
-yoga-sthāna-sarva vidhi-prakīrtita
+[yoga+places](yogasthānāni) [all](sarvāṇi) [rule](vidhiḥ) [this](eṣa) [is-declared](prakīrtitaḥ)
 
 ## mukta-m0-p50-v1232
-tri-bhūmi-dvi-bhūmi-eka-bhūmi-api
+[three+storied](tribhūmiṃ) [or](vā) [two+storied](dvibhūmiṃ) [or](vā) [one+storied](ekabhūmim) [or-else](athāpi) [or](vā)
 
 ## mukta-m0-p50-v1233
-kavāṭa-argala-saṃyukta prākāra-dīrghaka-yuta
+[door+bolt+endowed](kavāṭārgalasaṃyuktaṃ) [with-enclosures](prākāraiḥ) [long](dīrghakaiḥ) [endowed](yutam)
 
 ## mukta-m0-p50-v1234
-nālikera-kamuka-puṃnāga-vakula-yuta
+[with-coconut-trees](nālikeraiḥ) [with-areca-palms](kamukaiḥ) [and](ca) [with-puṃnāga+groups](puṃnāgavakulaiḥ) [endowed](yutam)
 
 ## mukta-m0-p50-v1235
-gāvo-vaseyuḥ-saptāhaṃ mapati-daśabhiḥ-nava
+[cows](gāvo) [should-dwell](vaseyuḥ) [seven+nights](saptāhaṃ) [*](mapatiḥ) [with-ten](daśabhiḥ) [nine](nava)
 
 ## mukta-m0-p50-v1236
-uttara-jala-grāma paścima-padmamaṇḍapa
+[in-north](uttare) [but](tu) [water+place](jalagrāmaṃ) [in-west](paścime) [lotus+pavilion](padmamaṇḍapam)
 
 ## mukta-m0-p50-v1237
-barbara-pulinda-kirāta-vivarjita
+[by-barbarians](barbaraiḥ) [and](ca) [by-pulindas](pulindaiḥ) [and](ca) [by-kirātas](kirātaiḥ) [and](ca) [devoid](vivarjitam)
 
 ## mukta-m0-p50-v1238
-āsana-baddhā nāḍī-śodhana-ārabhet
+[*](*) [*](sti?) [then](tu) [seat](āsanaṃ) [having-bound](baddhā) [channel+purification](nāḍīśodhanam) [one-should-begin](ārabhet)
 
 ## mukta-m0-p50-v1239
-tālu-sthā cala-jihvā saṃvṛta-āsya suniścaya
+[palate+standing](tālusthā) [moving+tongue](calajihvā) [and](ca) [closed+mouth](saṃvṛtāsyaḥ) [well+resolved](suniścayaḥ)
 
 ## mukta-m0-p50-v1240
-praṇipatya-śiva-śānta yogīndra-śaśiśekhara
+[having-bowed](praṇipatya) [to-śiva](śivaṃ) [peaceful](śāntaṃ) [yogi+lord](yogīndraḥ) [moon+crested](śaśiśekharam)
 
 ## mukta-m0-p50-v1241
-nāsāgra-śaśabhṛd-bimba jyotsnā-jāla-vitānita
+[at-nose+tip](nāsāgre) [moon+disk](śaśabhṛdbimbaṃ) [like](vat) [moonlight+net+spread](jyotsnājālavitānitam)
 
 ## mukta-m0-p50-v1242
-pañca-ākṛtya-niṣkramya iḍayā-varmaṇā-saha
+[by-five+actions](pañcākṛtyā) [then](atha) [having-gone-out](niṣkramya) [by-iḍā](iḍayā) [with-varman](varmaṇā) [together](saha)
 
 ## mukta-m0-p50-v1243
-dvitīya-bindu-yukta trikoṇa-analāyuta
+[which](yat) [second](dvitīyaṃ) [drop+endowed](binduyuktaṃ) [in-triangle](trikoṇe) [fire+joined](analāyute)
 
 ## mukta-m0-p50-v1244
-pūrvavat-pūrayet-nāḍyā prāṇa-dakṣiṇayā-guha
+[as-before](pūrvavat) [one-should-fill](pūrayet) [by-channel](nāḍyā) [breath](prāṇaṃ) [by-right](dakṣiṇayā) [O-guha](guha)
 
 ## mukta-m0-p50-v1245
-tri-catuḥ-savana māsa-pakṣa-māsa-abhyaset
+[three+or-four](tricatuḥ) [times](savanaṃ) [month](māsaṃ) [fortnight](pakṣaṃ) [or](vai) [month](māsam) [one-should-practice](abhyaset)
 
 ## mukta-m0-p50-v1246
-īṣat-vaiśeṣika-upāya mānasa-praṇavena-ca
+[slightly+special+method](īṣadvaiśeṣikopāyaṃ) [by-mental+praṇava](mānasapraṇavena) [and](ca)
 
 ## mukta-m0-p50-v1247
-māsa-trika-triṣavaṇa-anayā-śuddhi-īritā
+[month+three](māsatrikaṃ) [at-three+times](triṣavaṇeṣu) [by-this](anayā) [purification](śuddhiḥ) [is-declared](īritā)
 
 ## mukta-m0-p50-v1248
-jñāna-abhivyakti-iti etat chinna-śuddhi-sūcaka
+[knowledge+manifestation](jñānābhivyaktiḥ) [thus](iti) [this](etat) [pierced](chinnaṃ) [that](tat) [purification+indicator](śuddhisūcakam)
 
 ## mukta-m0-p50-v1249
-samāna-vyāna-udāna-eva-ca
+[*](*) [*](*) [*](*) [*](na?) [samāna](samānaḥ) [but](tu) [vyāna](vyānaḥ) [then](atha) [udāna](udānaḥ) [indeed](eva) [and](ca)
 
 ## mukta-m0-p50-v1250
-eteṣāṃ-vijaya-vatsa-rṇakān
+[of-these](eteṣāṃ) [conquest](vijayaṃ) [O-child](vatsa) [*](*) [*](*) [*](*) [*](*) [*](*) [*](*) [*](rṇakān)

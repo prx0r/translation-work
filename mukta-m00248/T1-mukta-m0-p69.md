@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p69-v1701
-[sound](śabdaḥ) [touch](sparśaśca) [form](rūpaṃ) [taste](raso) [smell](gandhaśca) [fifth](pañcamaḥ)
+[sound](śabdaḥ) [touch](sparśaḥ) [and](ca) [form](rūpaṃ) [and](ca) [taste](rasaḥ) [smell](gandhaḥ) [and](ca) [fifth](pañcamaḥ)
 
 ## mukta-m0-p69-v1702
-[fire](tejo) [digestion](pācanaṃ) [known](jñeyaṃ) [expansion](vyūhanaṃ) [wind](vāyurucyate)
+[fire](tejo) [indeed](vai) [cooking](pācanaṃ) [to-be-known](jñeyaṃ) [moving](vyūhanaṃ) [wind](vāyuḥ) [is-called](ucyate)
 
 ## mukta-m0-p69-v1703
-[ear](śrotraṃ) [hears](śṛṇoti) [child](vatsa) [skin](tvakcaiva) [touch](sparśanaṃ) [becomes](bhavet)
+[ear](śrotraṃ) [hears](śṛṇoti) [indeed](vai) [child](vatsa) [skin](tvak) [and](ca) [indeed](eva) [touching](sparśanaṃ) [should-be](bhavet)
 
 ## mukta-m0-p69-v1704
-[nose](ghrāṇaṃ) [smell](gandhaṃ) [knows](vijānīyād) [objects](viṣayāḥ) [declared](parikīrtitāḥ)
+[nose](ghrāṇaṃ) [smell](gandhaṃ) [one-should-know](vijānīyāt) [sense-objects](viṣayāḥ) [are-declared](parikīrtitāḥ)
 
 ## mukta-m0-p69-v1705
-[feet](pādābhyāṃ) [go](caiva+gacchanti) [anus](pāyur) [excretion](utsargameva) [indeed](hi)
+[with-feet](pādābhyāṃ) [and](ca) [indeed](eva) [they-go](gacchanti) [anus](pāyuḥ) [excretion](utsargam) [indeed](eva) [indeed](hi)
 
 ## mukta-m0-p69-v1706
-[sound](śabdo) [tone](dhvanirvijānīyāt) [from-space](ākāśāttu) [arises](prajāyate)
+[sound](śabdaḥ) [noise](dhvaniḥ) [one-should-know](vijānīyāt) [from-ether](ākāśāt) [but](tu) [is-born](prajāyate)
 
 ## mukta-m0-p69-v1707
-[cold-element](śītatanmātrakaścāpassarvalokasya) [life](jīvanam)
+[cold+subtle-element](śīta+tanmātrakaḥ) [and](ca) [water](āpaḥ) [of-all-worlds](sarva+lokasya) [life](jīvanam)
 
 ## mukta-m0-p69-v1708
-[hard](yatkaṭhinaṃ) [earth](tatpṛthivī) [liquid](yaddravaṃ) [water](salilaṃ) [indeed](hi) [that](tat)
+[what](yat) [hard](kaṭhinaṃ) [that](tat) [earth](pṛthivī) [what](yat) [fluid](dravaṃ) [water](salilaṃ) [indeed](hi) [that](tat)
 
 ## mukta-m0-p69-v1709
-[hollow](yatsuṣiraṃ) [space](tadākāśaṃ) [divine-support](devādhāraḥ) [declared](prakīrtitaḥ)
+[what](yat) [hollow](suṣiraṃ) [that](tat) [ether](ākāśaṃ) [support+of-gods](deva+ādhāraḥ) [is-declared](prakīrtitaḥ)
 
 ## mukta-m0-p69-v1710
-[from-nature](prakṛtermahān) [arises](samutpannaḥ) [from-purusha](puruṣātprakṛtirbhavet)
+[from-primal-nature](prakṛteḥ) [the-great-principle](mahān) [arisen](samutpannaḥ) [from-spirit](puruṣāt) [primal-nature](prakṛtiḥ) [should-be](bhavet)
 
 ## mukta-m0-p69-v1711
-[twenty-sixth](ṣaḍviṃśaka) [vishnu](viṣṇu)
+[twenty-sixth](ṣaḍviṃśaka) [Viṣṇu](viṣṇu) [*](* ) [*](* ) [*](* ) [*](* ) [*](* ) [*](* ) [*](* ) [*](* ) [*](* )
 
 ## mukta-m0-p69-v1712
-[attachment](rāgo) [maya](māyā) [knowledge](vidyā) [three-coverings](kañcukatrayamucyate)
+[passion](rāgaḥ) [illusion](māyā) [and](ca) [knowledge](vidyā) [and](ca) [sheath+triad](kañcuka+trayam) [is-called](ucyate)
 
 ## mukta-m0-p69-v1713
-[time](kālā) [necessity](niyatirvigraheśo) [from-knowledge-power](jñānaśakteḥ) [arise](samudbhavāḥ)
+[time](kālā) [necessity](niyatiḥ) [lord+of-body](vigraha+īśaḥ) [from-knowledge+power](jñāna+śakteḥ) [born](samudbhavāḥ)
 
 ## mukta-m0-p69-v1714
-[from-shiva-power](śivaśakteḥ) [arise](samutpannāḥ) [all-worlds](sarvalokasya) [deluders](mohakāḥ)
+[from-Śiva's+power](śiva+śakteḥ) [arisen](samutpannāḥ) [of-all-worlds](sarva+lokasya) [deluders](mohakāḥ)
 
 ## mukta-m0-p69-v1715
-[of-shiva](śivasya) [dissolution](pralayetvasti) [not](na) [born](jātaṃ) [vai](vai) [six-faced](ṣaḍānana)
+[of-Śiva](śivasya) [in-dissolution](pralaye) [exists](asti) [not](na) [born](jātaṃ) [indeed](vai) [six-faced-one](ṣaḍānana)
 
 ## mukta-m0-p69-v1716
-[i](ahaṃ) [dissolution](saṃhāramekaṃ) [with-three-gunas](tu+guṇatrayasamanvitaḥ)
+[I](ahaṃ) [destruction](saṃhāram) [one](ekaṃ) [but](tu) [with-three+qualities](guṇa+traya+samanvitaḥ)
 
 ## mukta-m0-p69-v1717
-[darkness-dissolution](tamaḥsaṃhāra) [thus](evaṃ) [tu](tu) [by-me](mayā) [all](sarvaṃ) [declared](prakīrtitam)
+[darkness+destruction](tamaḥ+saṃhāra) [thus](evaṃ) [but](tu) [by-me](mayā) [all](sarvaṃ) [declared](prakīrtitam)
 
 ## mukta-m0-p69-v1718
-[from-head](mūrdhyā(rdhā)dipādaparyantaṃ) [in-disciple-body](śiṣyadehe) [tu](tu) [join](yojayet)
+[from-head](mūrdhyā) [(or-half)]((rdhā)) [beginning-with+up-to-feet](ādi+pāda+paryantaṃ) [in-disciple's+body](śiṣya+dehe) [but](tu) [one-should-place](yojayet)
 
 ## mukta-m0-p69-v1719
-[at-installation](pratiṣṭhākāle) [of-linga](liṅgasya) [join](yojayet) [with-rite](vidhipūrvakam)
+[at-consecration+time](pratiṣṭhā+kāle) [of-liṅga](liṅgasya) [one-should-place](yojayet) [according-to-rule](vidhi+pūrvakam)
 
 ## mukta-m0-p69-v1720
-[inauspicious](abhāgye) [place](vinyaseddhīmān) [fortune](saubhāgyamatulaṃ) [becomes](bhavet)
+[in-unfortunate-one](abhāgye) [should-place](vinyaset) [wise-one](dhīmān) [good-fortune](saubhāgyam) [unequalled](atulaṃ) [should-be](bhavet)
 
 ## mukta-m0-p69-v1721
-[six-meditations](ṣaḍadhyānaṃ) [place](nyasetkumbhe) [bathe](snānaṃ) [do](kuryāt) [six-faced](ṣaḍānana)
+[sixfold+meditation](ṣaḍ+adhyānaṃ) [one-should-place](nyaset) [in-pot](kumbhe) [bath](snānaṃ) [one-should-perform](kuryāt) [six-faced-one](ṣaḍānana)
 
 ## mukta-m0-p69-v1722
-[thus](iti) [kalottara](kālottare) [twelve-thousand](dvādaśasahasrasaṃhitāyāṃ) [tattva-path-chapter](tattvādhvapaṭalaḥ) [thirtieth](triṃśatitamaḥ)
+[thus](iti) [in-Kālottara](kālottare) [in-twelve-thousand+compendium](dvādaśa+sahasra+saṃhitāyāṃ) [chapter+on-tattva-path](tattva+adhva+paṭalaḥ) [thirtieth](triṃśatitamaḥ)
 
 ## mukta-m0-p69-v1723
-[being-nonbeing](rbhāvābhavau) [or](vā) [tu](tu) [without](hinā) [of-other](parasyaḥ)
+[existence+and-non-existence](rbhāva+abhavau) [or](vā) [but](tu) [devoid](hinā) [of-the-other](parasyaḥ)
 
 ## mukta-m0-p69-v1724
-[i-speak](lapāmi) [that](tatprāvaraṇopamārgam)
+[I-speak](lapāmi) [that+covering+path](tat+prāvaraṇa+upamārgam)
 
 ## mukta-m0-p69-v1725
-[those](ye) [others](cānyāni) [yati](yatissakālagaṇayanmāyāprabuddhaḥ) [shiva](śivaḥ)
+[who](ye) [and](ca) [others](anyāni) [ascetic](yatiḥ) [with-time+counting](sa+kāla+gaṇayan) [awakened+by-māyā](māyā+prabuddhaḥ) [Śiva](śivaḥ)
