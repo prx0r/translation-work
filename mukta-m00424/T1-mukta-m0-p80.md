@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p80-v1976
-[island](koladvīpa) [part](abhaga) [peak](kūḍaṃ) [from-desire](mahiṣāḍapakāmataḥ)
+[kola+dvīpa+ābhaga+kūḍaṃ](koladvīpābhagakūḍaṃ) [mahiṣa+āḍapaka+amataḥ](mahiṣāḍapakāmataḥ)
 
 ## mukta-m0-p80-v1977
-[looking](udvīkṣaṇāṃ) [blood-giving](raktadaṃ) [unknown](*********)
+[udvīkṣaṇāṃ](udvīkṣaṇāṃ) [rakta+dāṃ](raktadaṃ) [*********](*********) [(?)](?)
 
 ## mukta-m0-p80-v1978
-[thousand-pride-ornament](sahasradarpābharaṇāṃ) [red-flower-anointed](raktapuṣpānulepanām)
+[sahasra+darpa+ābharaṇāṃ](sahasradarpābharaṇāṃ) [rakta+puṣpa+anulepanām](raktapuṣpānulepanām)
 
 ## mukta-m0-p80-v1979
-[blazing](jvalat) [destruction-fire-form](saṃhārakālāgnimūrti) [bhairava-formed](bhairavarūpiṇīm)
+[jvalat](jvalat) [saṃhāra+kāla+agni+mūrtim](saṃhārakālāgnimūrti) [bhairava+rūpiṇīm](bhairavarūpiṇīm)
 
 ## mukta-m0-p80-v1980
-[unknown](**) [may-be](syāt) [shield-bracelet](kheṭakaṭakaṃ) [kusha-noose](kuśopāśa) [skull](kapālakam)
+[**](**) [(?)](?) [syāt](syāt) [kheṭaka+ṭaṅkaṃ](kheṭakaṭakaṃ) [kuśa+pāśa](kuśopāśa) [kapālakam](kapālakam)
 
 ## mukta-m0-p80-v1981
-[always](sadā) [with-men?](menarairvā) [meru-like](merudvataiḥ) [lotus-hands](karapaṅkajaiḥ)
+[sadā](sadā) [amena+araiḥ](amenarair) [vāme](vāmer) [udvataiḥ](udvataiḥ) [kara+paṅkajaiḥ](karapaṅkajaiḥ)
 
 ## mukta-m0-p80-v1982
-[destruction-wheel](saṃhāracakra) [standing?](sthāmyājādhātu) [unknown](pra*****)
+[saṃhāra+cakra+sthām](saṃhāracakrasthāmyā) [ājā+dhātu](jādhātu) [pra*****](pra*****) [(?)](?)
 
 ## mukta-m0-p80-v1983
-[always](sadā) [breath-filled](vasvāsavyāpūrṇaṃ) [skull-bearing-hands](kapāladharapāṇibhiḥ)
+[sadā](sadā) [avasvāsa+vyāpūrṇaṃ](avasvāsavyāpūrṇaṃ) [kapāla+dhara+pāṇibhiḥ](kapāladharapāṇibhiḥ)
 
 ## mukta-m0-p80-v1984
-[from-rasa-blood-flow](rasāsṛkramaṇādā) [born-prana-poison](stijanyaprāṇaratonviṣām)
+[rasa+asṛk+ramaṇāt](rasāsṛkramaṇād) [āsti](āsti) [janya+prāṇa+rata](janyaprāṇaraton) [viṣām](viṣām)
 
 ## mukta-m0-p80-v1985
-[deliverer-from-calamity](āpaduddhāraṇī) [devotees](bhaktān) [kalarudra-etc-bhairavi](kālarudrādi+bhairavīm)
+[āpad+uddhāraṇīm](āpaduddhāraṇī) [bhaktān](bhaktān) [kāla+rudra+ādi](kālarudrādi) [bhairavīm](bhairavīm)
 
 ## mukta-m0-p80-v1986
-[always](sadā) [quickly](śīghraṃ) [all-desires-fruit-giving](sarvakāma+phalapradam)
+[sat+bhuktasya](sadbhuktasya) [sadā+śīghraṃ](sadāśīghraṃ) [sarva+kāma](sarvakāma) [phala+pradam](phalapradam)
 
 ## mukta-m0-p80-v1987
-[one-two-thousand-end](ekadvaṣṭa+sahasrāntaṃ) [color-unknown](varṇa******)
+[eka+dva+aṣṭa](ekadvaṣṭa) [sahasra+antaṃ](sahasrāntaṃ) [varṇa******](varṇa******) [(?)](?)
 
 ## mukta-m0-p80-v1988
-[serpent-formed](sarparū*) [man?](pumanubhra) [serpent-thread](sarpaprota) [japa-sacred-thread](japopavīta) [pearl](muktā)
+[sarpa+rūpa](sarparū) [*(?)](*(?)) [pum+anu+bhra+sarpa+prota](pumanubhrasarpaprota) [japa+upavīta](japopavīta) [muktā](muktā)
 
 ## mukta-m0-p80-v1989
-[unknown](***?) [shiva-assembly](śivagoṣṭhaṃ) [eastern-chamber](prācīkoṣṭhaṃ) [sadashiva](sadāśivam)
+[***(?)](***(?)) [śiva+goṣṭhaṃ](śivagoṣṭhaṃ) [ca](ca) [prācī+koṣṭhaṃ](prācīkoṣṭhaṃ) [sadā+śivam](sadāśivam)
 
 ## mukta-m0-p80-v1990
-[western-one-chamber](paścimekālakoṣṭhaṃ) [chamber-worship](koṣṭhapūjāṃ) [perform](samācaret)
+[paścime](paścime) [kāla+koṣṭhaṃ](kālakoṣṭhaṃ) [ca](ca) [koṣṭha+pūjāṃ](koṣṭhapūjāṃ) [samācaret](samācaret)
 
 ## mukta-m0-p80-v1991
-[with-gem](ratnena) [vessel](pātram) [unknown](i*********)
+[ratnena](ratnena) [pātram](pātrami) [*](*) [*](*) [*](*) [*](*) [*](*) [*](*) [*](*) [*](*) [*](*) [*](*) [(?)](?)
 
 ## mukta-m0-p80-v1992
-[three-footed](tripādaṃ) [milk-thus-said](kṣīramityuktaṃ) [four-footed-cow-dung](catuṣpandañcagomayam)
+[tri+pādaṃ](tripādaṃ) [kṣīram](kṣīram) [iti+uktam](ityuktaṃ) [catuḥ+pādaṃ](catuṣpandañ) [ca](ca) [go+mayam](gomayam)
 
 ## mukta-m0-p80-v1993
-[milk-pot](kṣīrakumṃbhaṃ) [middle](madhye) [then](tu) [curd-east](dadhipūrve) [place](vinyaset)
+[kṣīra+kumbhaṃ](kṣīrakumṃbhaṃ) [ca](ca) [madhye](madhye) [tu](tu) [dadhi](dadhi) [pūrve](pūrve) [tu](tu) [vinyaset](vinyaset)
 
 ## mukta-m0-p80-v1994
-[unknown](**************) [joined](saṃyutam)
+[*](*) [*](*) [*](*) [*](*) [*](*) [*](*) [*](*) [*](*) [*](*) [*](*) [*](*) [*](*) [*](*) [(?)](?) [saṃyutam](saṃyutam)
 
 ## mukta-m0-p80-v1995
-[prastha](prasthaṃ) [two-prastha](prasthadvayaṃ) [also](caiva) [kuḍuba](kuḍubaṃ) [two-kuḍuba](kuḍubadvayam)
+[prasthaṃ](prasthaṃ) [prastha+dvayaṃ](prasthadvayaṃ) [ca](ca) [eva](eva) [kuḍubaṃ](kuḍubaṃ) [kuḍuba+dvayam](kuḍubadvayam)
 
 ## mukta-m0-p80-v1996
-[honey-middle](madhumdhyeti) [establish](saṃsthāpya) [milk-southeast](kṣīramāgneya) [place](vinyaset)
+[madhum](madhum) [dhyeti](dhyeti) [saṃsthāpya](saṃsthāpya) [kṣīram](kṣīram) [āgneye](āgneya) [vinyaset](vinyaset)
 
 ## mukta-m0-p80-v1997
-[milk](kṣīraṃ) [tu](tu) [skanda-deity](skanda+daivatyaṃ) [curd](dadhiṃ) [ganapati](gaṇapatiṃ) [thus](tathā)
+[kṣīraṃ](kṣīraṃ) [tu](tu) [skanda+daivatyam](skanda) [daivatyaṃ](daivatyaṃ) [dadhi](dadhiṃ) [gaṇapatiṃ](gaṇapatiṃ) [tathā](tathā)
 
 ## mukta-m0-p80-v1998
-[altar](sthaṇḍilaṃ) [make-rice](kārayecchāliṃ) [each](pratyekaṃ) [prastha-perform](prasthamācaret)
+[sthaṇḍilaṃ](sthaṇḍilaṃ) [kārayet](kārayec) [śāliṃ](chāliṃ) [pratyekaṃ](pratyekaṃ) [prastha+mātram](prasthamācaret) [ācaret](ācaret)
 
 ## mukta-m0-p80-v1999
-[that-night](tadrātrau) [tu](tu) [shiva-worship](śivaṃ+pūjyaṃ) [that-fruit](tatphalaṃ) [magni-me-night](magni+me+niśi)
+[tat+rātrau](tadrātrau) [tu](tu) [śivaṃ](śivaṃ) [pūjyaṃ](pūjyaṃ) [tat+phalaṃ](tatphalaṃ) [magni](magni) [me](me) [niśi](niśi)
 
 ## mukta-m0-p80-v2000
-[from-negligence](pramādādatvapakṣe) [tu](tu) [kingdom-destroyed](rājarāṣṭraṃ+vinaśyati)
+[pramādāt](pramādād) [atu+apakṣe](atvapakṣe) [tu](tu) [rāja+rāṣṭraṃ](rājarāṣṭraṃ) [vinaśyati](vinaśyati)

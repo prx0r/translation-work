@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p82-v2026
-[planet](grahā) [unknown](*) [unknown](*) [unknown](?) 
+[planets](grahā) [*](*) [*](*) [*](*) [*](*) [*](*) [*](*) [*](*) [*](*) [*](*) [*](*) [*](*) [*](*) [*](?) 
 
 ## mukta-m0-p82-v2027
-[left](vāma) [vessel](sthāli) [taking](ādāya) [holding](dhāraṃ) [Brahman](brahme) [release](vimocayet)
+[left+remaining+vessel](vāmā+śeṣṭhāli+m) [having-taken](ādāya) [stream](dhāraṃ) [o-brahman](brahme) [one-should-release](vimocayet)
 
 ## mukta-m0-p82-v2028
-[west](paścima) [purification](śodha) [going](gatvā) [standing](stāyāt) [unknown](?) [second](dvitam)
+[to-western+purification](paścimā+śodha+gatvā) [one-should-stand](stāyād) [*](va****(?)) [second](dvitam)
 
 ## mukta-m0-p82-v2029
-[unknown](*) [corners](koṇeṣu) [corner-like](koṇeṣukam)
+[*](*) [*](*) [*](*) [*](*) [*](*) [*](*) [*](*) [*](*) [*](?) [in-corners](koṇeṣu) [in-corners](koṇeṣu) [particle](kam)
 
 ## mukta-m0-p82-v2030
-[seed](bījaṃ) [and](ca) [their](tāśayo) [place](sthāna) [faults](doṣāṇām) [removal](apanuttaye)
+[seed](bījaṃ) [and](ca) [in-those+abodes](tāśayo) [place](sthāna) [of-faults](doṣāṇām) [for-removal](apanuttaye)
 
 ## mukta-m0-p82-v2031
-[unknown](?) [you](tvaṃ) [here](atra) [scriptures](śāstreṣu) [speech-goddess](vāgīśī) [womb-fitness](garbhayogyatā)
+[*+you](**(?)+tvaṃ) [and](ca) [here](atra) [in-scriptures](śāstreṣu) [o-goddess-of-speech](vāgīśī) [fitness-for-womb](garbha+yogyatā)
 
 ## mukta-m0-p82-v2032
-[ash](bhasmaṃ) [and](ca) [etc](evādi) [Shaivas](śaivānāṃ) [fifth-mudra](pañcamudrā) [declared](prakīrtitā)
+[ashes](bhasmaṃ) [and](ca) [indeed+etc.](eva+ādi) [of-śaivas](śaivānāṃ) [five-seals](pañca+mudrā) [are-declared](prakīrtitā)
 
 ## mukta-m0-p82-v2033
-[unknown](?) [growth](vṛdhyarthaṃ) [secret](rahasyaṃ) [mine](mama) [self-nature](ātmakam)
+[*](*****) [*](?) [for-increase](vṛdhyarthaṃ) [secret](rahasyaṃ) [my](mama) [and+own](ca+ātmakam)
 
 ## mukta-m0-p82-v2034
-[three-syllable-self](tryakṣarātmā) [transcended](atītaṃ) [and](ca) [three-form-dissolution-self](trimūrtyādilayātmakam)
+[three-syllable+self](tryakṣara+ātmā) [transcendent](atītaṃ) [and](ca) [three-forms+etc.+dissolution+nature](trimūrtya+ādi+laya+ātmakam)
 
 ## mukta-m0-p82-v2035
-[sixty-four-etc](catuṣṣaṣṭhādi) [seeds](bījeṣu) [thirty-six](ṣaṭtriṃśat) [grain-seed](sasyabījakam)
+[in-sixty-four+etc.+seeds](catuṣṣaṣṭha+ādi) [in-seeds](bījeṣu) [thirty-six](ṣaṭtriṃśat) [plant-seed](sasya+bījakam)
 
 ## mukta-m0-p82-v2036
-[unknown](*) [drink](pivā)
+[*](*) [*](*) [*](*) [*](*) [*](*) [*](*) [*](*) [*](*) [*](*) [*](*) [*](*) [*](*) [*](*) [*](?) [having-drunk](pivā)
 
 ## mukta-m0-p82-v2037
-[thus](itthaṃ) [lotus-petal](padmadalaṃ) [placing](nyastvā) [its-middle](tanmadhye) [circle](maṇḍala) [unknown](?) [yam](yam)
+[thus](itthaṃ) [lotus-petal](padma+dalaṃ) [having-placed](nyastvā) [in-its-middle](tan+madhye) [circle](maṇḍala) [*](*(?)yam)
 
 ## mukta-m0-p82-v2038
-[three-circles](maṇḍalatraya) [outside](vāhye) [but](tu) [triangle-one-circle](trikoṇamekamaṇḍalam)
+[outside-three-circles](maṇḍala+traya) [outside](vāhye) [indeed](tu) [triangle](trikoṇam) [one-circle](eka+maṇḍalam)
 
 ## mukta-m0-p82-v2039
-[unknown](?) [rain](rvaṣā) [net](jālañca) [place](nyaset) [nine](nava) [good-mouthed](suvaktrakam)
+[*+of-all+upper-net](*(?)+rvaṣām+ūrva+jālañ+ca) [one-should-place](nyaset) [nine-faced](nava) [good-faced](su+vaktrakam)
 
 ## mukta-m0-p82-v2040
-[flame-garland-one-root](jvālāmālaikamūlaṃ) [but](tu) [third-instrument](tṛtīyantreṇa) [draw](lekhayet)
+[flame-garland+one-root](jvālā+māla+eka+mūlaṃ) [indeed](tu) [with-third-diagram](tṛtīya+antreṇa) [one-should-draw](lekhayet)
 
 ## mukta-m0-p82-v2041
-[aḥ-syllable](aḥkāraṃ) [east-day-placing](pūrvadinyastvā) [unknown](?)
+[syllable-aḥ](aḥkāraṃ) [in-eastern-direction](pūrva+diśi) [having-placed](nyastvā) [*](*) [*](*) [*](*) [*](*) [*](*) [*](*) [*](*) [*](?)
 
 ## mukta-m0-p82-v2042
-[i-syllable](ikāraṃ) [middle](madhyame) [placing](nyastvā) [ī-syllable](īkāraṃ) [and-north](cottare) [place](nyaset)
+[syllable-i](ikāraṃ) [in-middle](madhyame) [having-placed](nyastvā) [syllable-ī](īkāraṃ) [and](ca) [in-north](uttare) [one-should-place](nyaset)
 
 ## mukta-m0-p82-v2043
-[ṛ-syllable](ṛkāraṃ) [east-day-placing](pūrvadinyastvā) [ṛ-syllable](ṛkāraṃ) [and-fire](cāgni) [place](vinyaset)
+[syllable-ṛ](ṛkāraṃ) [in-eastern-direction](pūrva+diśi) [having-placed](nyastvā) [syllable-ṝ](ṛkāraṃ) [and](ca) [in-fire-direction](agni) [one-should-place](vinyaset)
 
 ## mukta-m0-p82-v2044
-[a-syllable](akāre) [unknown](?) [but](tu) [three-three](triṣu triṣu) [and](ca) [draw](lekhayet)
+[in-syllable-a](akāre) [*+end](***(?)+nte) [indeed](tu) [in-threes](triṣu) [in-threes](triṣu) [and](ca) [one-should-write](lekhayet)
 
 ## mukta-m0-p82-v2045
-[ga-syllable](gakāraṃ) [middle](madhyame) [placing](nyastvā) [gha-syllable](ghakāraṃ) [and-north](cottare) [place](nyaset)
+[syllable-ga](gakāraṃ) [in-middle](madhyame) [having-placed](nyastvā) [syllable-gha](ghakāraṃ) [and](ca) [in-north](uttare) [one-should-place](nyaset)
 
 ## mukta-m0-p82-v2046
-[cha-syllable](chakāraṃ) [east-direction-placing](pūrvadiṅnyastvā) [unknown](?)
+[syllable-cha](chakāraṃ) [in-eastern-direction](pūrva+diṅ) [having-placed](nyastvā) [*](*) [*](*) [*](*) [*](*) [*](*) [*](*) [*](*) [*](?)
 
 ## mukta-m0-p82-v2047
-[ṭa-syllable](ṭakāraṃ) [middle](madhyame) [placing](nyastvā) [ṭha-syllable](ṭhakāraṃ) [southwest](naiṛtaṃ) [place](nyaset)
+[syllable-ṭa](ṭakāraṃ) [in-middle](madhyame) [having-placed](nyastvā) [syllable-ṭha](ṭhakāraṃ) [in-southwest](naiṛtaṃ) [one-should-place](nyaset)
 
 ## mukta-m0-p82-v2048
-[ḍa-syllable](ḍakāraṃ) [west](paścime) [placing](nyastvā) [ḍha-syllable](ḍhakāraṃ) [wind](vāyu) [direction-place](diṅnyaset)
+[syllable-ḍa](ḍakāraṃ) [in-west](paścime) [having-placed](nyastvā) [syllable-ḍha](ḍhakāraṃ) [in-wind-direction](vāyu) [in-direction](diṅ) [one-should-place](nyaset)
 
 ## mukta-m0-p82-v2049
-[pa-syllable](pakāraṃ) [south](dakṣiṇe) [placing](nyastvā) [pha-syllable](phakāraṃ) [power](śakti) [place](vinyaset)
+[syllable-pa](pakāraṃ) [in-south](dakṣiṇe) [having-placed](nyastvā) [syllable-pha](phakāraṃ) [in-śakti-direction](śakti) [one-should-place](vinyaset)
 
 ## mukta-m0-p82-v2050
-[ha-syllable](hakāraṃ) [west](paścime) [placing](nyastvā) [ma-syllable](makāraṃ) [middle](madhyame) [place](nyaset)
+[syllable-ha](hakāraṃ) [in-west](paścime) [having-placed](nyastvā) [syllable-ma](makāraṃ) [in-middle](madhyame) [one-should-place](nyaset)

@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p79-v1951
-kālī-bhadrī(kālībhadrī) called(samākhyātaṃ) kālī(kālī) and(ca) indeed(eva) for-longevity(āyunāya) and(ca)
+named (samākhyātam) kālī+bhadrī (kālībhadrī) kālī (kālī) and-indeed (ca+eva) to-āyunāya (āyunāya) and (ca)
 
 ## mukta-m0-p79-v1952
-trident(śūlaṃ) drum(ḍamarukaṃ) on-left(savye) skull(kapālaṃ) noose+axe(pāśaṭaṅkare)
+spear (śūlam) small-drum (ḍamarukam) in-left (savye) skull (kapālam) noose-axe (pāśaṭaṅkare)
 
 ## mukta-m0-p79-v1953
-du(du) * * * (?) karṇikābhāsāṃ(karṇikābhāsāṃ) bhīma(bhīma) * * * * * (?)
+[damaged] (du*) pericarp-resembling (karṇikābhāsāṃ) terrible (bhīma*) [damaged]
 
 ## mukta-m0-p79-v1954
-kālarātri(kālarātri) in-true-form(svarūpāyāṃ) cremation-ground(śmaśānaṃ) god(devam) worship(arcayet)
+kāla+night (kālarātri) in-own-form (svarūpāyāṃ) cremation-ground (śmaśānaṃ) god (devam) should-worship (arcayet)
 
 ## mukta-m0-p79-v1955
-from-middle(madhyādi) to-throat(galaparyantaṃ) by-viṣṇu(viṣṇunā) end(antaṃ) well-worship(supūjayet)
+middle-beginning (madhya+ādi) up-to-throat (gala+paryantaṃ) with-viṣṇu-end (viṣṇunā+antaṃ) well-should-worship (supūjayet)
 
 ## mukta-m0-p79-v1956
-śakti(śakti) for-śaiva-purpose(utpatyaśaivārthaṃ) by-śakti(śaktyā) arises(utpadyate) śiva(śivaḥ)
+śakti (śaktiḥ) having-arisen (utpatya) non-śaiva-meaning (aśaiva+arthaṃ) by-śakti (śaktyā) is-produced (utpadyate) śiva (śivaḥ)
 
 ## mukta-m0-p79-v1957
-brahmā(brahmā) viṣṇu(viṣṇu) rudra(rudra) and(ca) īśvara(īśvara) and(ca) sadāśiva(sadāśivaḥ)
+brahmā+viṣṇu (brahmā+viṣṇuḥ) and-rudra (ca+rudraḥ) and (ca) īśvara (īśvaraḥ) and (ca) sadāśiva (sadāśivaḥ)
 
 ## mukta-m0-p79-v1958
-will-power(icchāśaktiḥ) action(kriyā) * * * * * * * * * * (?)
+will-power (icchā+śaktiḥ) action (kriyā) [damaged] (* * * * * * * * * *)
 
 ## mukta-m0-p79-v1959
-brāhmī(brāhmī) on-crown(mūrdhni) tu(tu) place(vinyasya) forehead(lalāṭe) tu(tu) maheśvarī(maheśvarīm)
+brāhmī (brāhmī) on-head (mūrdhni) but (tu) having-placed (vinyasya) on-forehead (lalāṭe) but (tu) maheśvarī (maheśvarīm)
 
 ## mukta-m0-p79-v1960
-vārāhī(vārāhī) heart(hṛdaye) ca(ca) eva(eva) indrāṇī(indrāṇī) liṅga-base(liṅgamūlake)
+vārāhī (vārāhī) in-heart (hṛdaye) and-indeed (ca+eva) indrāṇī (indrāṇī) at-liṅga-base (liṅga+mūlake)
 
 ## mukta-m0-p79-v1961
-* * * * * * * * (?) worship(pūjāṃ) as-before(pūrvavad) perform(ācaret)
+[damaged] (* * * * * * * *) worship (pūjāṃ) as-before (pūrvavat) should-perform (ācaret)
 
 ## mukta-m0-p79-v1962
-vārāhī(vārāhī) ca(ca) tathā(tathā) indrāṇī(indrāṇī) goddess-corner(devyāgrādiṣṭa) six-angles(koṇaṣaṭ)
+vārāhī (vārāhī) and (ca) thus-indrāṇī (tathā+indrāṇī) of-goddess-front-etc (devyā+agra+ādi) six-corners (koṇa+ṣaṭ)
 
 ## mukta-m0-p79-v1963
-jambhīti(jambhīti) stambhinī(stambhinī) ca(ca) eva(eva) śā(śā) * * * * * * * (?)
+jambhī+stambhinī (jambhītistambhinī) and-indeed (ca+eva) [damaged] (śā* * * * * * *)
 
 ## mukta-m0-p79-v1964
-outside-that(tadbahiṣ) sixteen-part(ṣoḍaśāṃśa) eva(eva) leaf(patraṃ) sixteen-syllable(ṣoḍaśākṣaram)
+that-outside-sixteenth-part (tadbahiḥ+ṣoḍaśa+aṃśa+eva) petal (patraṃ) sixteen-syllabled (ṣoḍaśa+akṣaram)
 
 ## mukta-m0-p79-v1965
-noose(pāśā) ca(ca) month(māsi) joined(saṃyuktaṃ) vipuśācchedikaṃ(vipuśācchedikaṃ) tathā(tathā)
+noose (pāśā) and (ca) in-month (māsi) joined (saṃyuktam) cutting-from-vipuśā (vipuśāt+chedikam) thus (tathā)
 
 ## mukta-m0-p79-v1966
-*(?)bhodbhavantu(bhodbhavantu) joined(saṃyuktaṃ) arising(udbhavaṃ) ca(ca) eva(eva) make(kārayet)
+[damaged] (*bhodbhavantu) joined (saṃyuktam) origin (udbhavaṃ) and-indeed (ca+eva) should-cause (kārayet)
 
 ## mukta-m0-p79-v1967
-vijāyī(vijāyī) ca(ca) avijāyī(avijāyī) ca(ca) vijayī(vijayī) thus(eva) jṛmbhiṇī(jṛmbhiṇī)
+vijāyī (vijāyī) and-avijāyī (ca+avijāyī) and (ca) vijayī-thus-indeed (vijayī+iti+eva) jṛmbhiṇī (jṛmbhiṇī)
 
 ## mukta-m0-p79-v1968
-goddess-corner(devyāgrādiṣu) worship(saṃpūjya) * * * * * * * * (?)
+of-goddess-front-etc (devyā+agra+ādiṣu) having-worshipped (saṃpūjya) [damaged] (* * * * * * * *)
 
 ## mukta-m0-p79-v1969
-honey-meat-fruit(madhumāṃsaphalānāṃ) tu(tu) offering(naivedyaṃ) ca(ca) eva(eva) worship(pūjayet)
+of-honey-meat-fruits (madhu+māṃsa+phalānāṃ) but (tu) offering (naivedyaṃ) and-indeed (ca+eva) should-worship (pūjayet)
 
 ## mukta-m0-p79-v1970
-song(gīta) music(vādyaṃ) ca(ca) dance(nṛttaṃ) ca(ca) all-services(sarvopacāra) worship(pūjayet)
+song-music (gīta+vādyam) and (ca) dance (nṛttam) and (ca) all-services (sarva+upacāra) should-worship (pūjayet)
 
 ## mukta-m0-p79-v1971
-* * * * * * * * (?) gate(dvārāre) offering-altar(balipīṭhake)
+[damaged] (* * * * * * * *) at-door (dvārāre) on-bali-platform (balipīṭhake)
 
 ## mukta-m0-p79-v1972
-god-mother(devamātarakaṃ) ca(ca) eva(eva) piśāca-mother(paiśācamātaras) tathā(tathā)
+divine-mothers (devamātarakaṃ) and-indeed (ca+eva) piśāca-mothers (paiśācamātarāḥ) thus (tathā)
 
 ## mukta-m0-p79-v1973
-goat(aja) cock(kukkuṭa) buffalo(mahiṣāṃ) ca(ca) horse-elephant-human(aśvagajamānuṣā) ca(ca) mu(mu) *(?)
+goat (aja) chicken-buffalo (kukkuṭa+mahiṣāṃ) and (ca) horse-elephant-human (aśva+gaja+mānuṣā) and (ca) [damaged] (mu*)
 
 ## mukta-m0-p79-v1974
-pretā-vehicle(pretavāhanakaṃ) ca(ca) eva(eva) worship-service(upāsyārcanakaṃ) tathā(tathā) *(?)
+ghost-vehicle (pretavāhanakaṃ) and-indeed (ca+eva) worship-honoring (upāsya+arcanaṃ) thus (tatha*) [damaged]
 
 ## mukta-m0-p79-v1975
-all(sarveṣāṃ) served(sevitaṃ) ca(ca) eva(eva) cāmuṇḍā(cāmuṇḍā) other(nyaṃ) worship(samarcayet)
+of-all (sarveṣāṃ) served (sevitam) and-indeed (ca+eva) cāmuṇḍā (cāmuṇḍā) other (anyam) should-worship (samarcayet)
