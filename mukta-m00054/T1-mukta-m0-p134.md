@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p134-v3326
-[that-name](tannāma) [divine](divya) [excellent-mantra-root](vvaramantramūla) [burn](ndhunotu) [me](me) [all-sin](sarvamaghaṃ) [heart-seated](hṛdistham)
+[that](tat)+[name](nāma) [divine](divya)+[excellent](vara)+[mantra](mantra)+[root](mūlam) [may-shake-off](dhunotu) [my](me) [all](sarvam)+[sin](agham) [heart](hṛdi)+[situated](stham)
 
 ## mukta-m0-p134-v3327
-[tinier-than-atom](aṇoraṇīyān) [great-power](uruśaktiḥ) [one](ekaḥ) [lord](īśvaraḥ) [protect](pātu) [from-all-fear](bhayādaśeṣāt)
+[than-atom](aṇoḥ)+[more-minute](aṇīyān) [vast](uru)+[power](śaktiḥ)+[one](ekaḥ) [he](saḥ) [lord](īśvaraḥ) [may-protect](pātu) [from-fear](bhayāt)+[entire](aśeṣāt)
 
 ## mukta-m0-p134-v3328
-[who](yo) [by-water-form](apāṃsvarūpeṇa) [for-men](nṛṇām) [makes-life](karoti+sañjīvanaṃ) [he](saḥ) [protect](avatu) [me](mām) [from-dangers](añjalebhyaḥ)
+[who](yaḥ)+[water](apāṃsu)+[in-form](rūpeṇa) [of-men](nṛṇāṅ)+[does](karoti) [revivification](sañjīvanam) [he](so)+[may-protect](avatu) [me](māñ)+[from-waters](jalebhyaḥ)
 
 ## mukta-m0-p134-v3329
-[he](saḥ) [time-rudra](kālarudraḥ) [protect](avatu) [me](mām) [from-wildfire](davāgni) [from-storm](vātyā) [from-all](akhilāt) [heat](tāpāt)
+[he](sa) [Kāla-Rudra](kālarudro)+[may-protect](avatu) [me](mān)+[from-forest](dava)+[fire](āgner) [from-wind](vātya)+[etc.](ādi)+[fear](bhīter)+[from-all](akhilāc)+[and](ca) [torment](tāpāt)
 
 ## mukta-m0-p134-v3330
-[four-faced](caturmukhaḥ) [that-puruṣa](tatpuruṣaḥ) [three-eyed](trinetraḥ) [in-east](prācyāṃ) [standing](sthitaṃ) [protect](rakṣatu) [me](mām) [always](ajasram)
+[four](catur)+[faced](mukhas)+[Tatpuruṣa](tatpuruṣas)+[three](tri)+[eyed](netraḥ) [in-east](prācyāṃ) [situated](sthitaṃ) [may-protect](rakṣatu) [me](mām)+[constantly](ajasram)
 
 ## mukta-m0-p134-v3331
-[four-faced](caturmukhaḥ) [blue-radiant](nīlaruciḥ) [three-eyed](trinetraḥ) [protect](pāyāt) [aghora](aghoraḥ) [in-south](diśi+dakṣiṇasyām)
+[four](catur)+[faced](mukho) [blue](nīla)+[hued](rucis)+[three](tri)+[eyed](netraḥ) [may-protect](pāyād)+[Aghora](aghoro) [in-direction](diśi) [of-south](dakṣiṇasyām)
 
 ## mukta-m0-p134-v3332
-[three-eyed](tryakṣaḥ) [four-faced](caturvaktraḥ) [great-radiance](uruprabhāvaḥ) [sadyojāta](sadyodhijātaḥ) [protect](avatu) [me](mām) [in-west](pratīcyām)
+[three](try)+[eyed](akṣaś)+[four](catur)+[faced](vaktra) [great](uru)+[majesty](prabhāvaḥ) [Sadyojāta](sadyodhijāto)+[may-protect](avatu) [me](mām)+[in-west](pratīcyām)
 
 ## mukta-m0-p134-v3333
-[three-eyed](trilocanaḥ) [beautiful-four-faced](cārucaturmukhaḥ) [me](mām) [protect](pāyāt) [in-north](udīcyāndiśi) [vāmadeva](vāmadevaḥ)
+[three](tri)+[eyed](locanaś)+[beautiful](cāru)+[four](catur)+[faced](mukho) [me](mām)+[may-protect](pāyād)+[in-northern](udīcyān)+[direction](diśi) [Vāmadeva](vāmadevaḥ)
 
 ## mukta-m0-p134-v3334
-[eyes](netre) [my](mama) [protect](avyāt) [eye-destroyer](baganetrahārī) [nose](nāsāṃ) [always](sadā) [protect](rakṣatu) [world-lord](viśvanāthaḥ)
+[eyes](netre) [my](mamā)+[may-protect](vyād)+[Bhaga](bhaga)+[eye](netra)+[destroyer](hārī) [nose](nāsāṃ) [always](sadā) [may-protect](rakṣatu) [lord-of-all](viśvanāthaḥ)
 
 ## mukta-m0-p134-v3335
-[face](vaktraṃ) [always](sadā) [protect](rakṣatu) [five-faced](pañcavaktro) [tongue](jihvāṃ) [always](sadā) [protect](rakṣatu) [veda-tongued](vedajihvaḥ)
+[mouth](vaktraṃ) [always](sadā) [may-protect](rakṣatu) [five](pañca)+[faced](vaktro) [tongue](jihvāṃ) [always](sadā) [may-protect](rakṣatu) [Veda](veda)+[tongued](jihvaḥ)
 
 ## mukta-m0-p134-v3336
-[heramba-father](herambatāto) [my](mama) [protect](pātu) [navel](nābhim) [protect](pāyāt) [loin](kaṭi) [śiva](dhūrjjaṭiḥ) [lord](īśvaro) [me](me)
+[Heramba](heramba)+[father](tāto) [my](mama) [may-protect](pātu) [navel](nābhim)+[may-protect](pāyāt)+[hip](kaṭin)+[matted-hair](dhūrjjaṭir)+[lord](īśvaro) [my](me)
 
 ## mukta-m0-p134-v3337
-[leg-pair](jaṅghāyugam) [bull-bannered](puṅgavaketuḥ) [protect](avyāt) [feet](pādau) [my](mama) [protect](avyāt) [god-venerated-foot](suravandyapādaḥ)
+[shank](jaṅghā)+[pair](yugam)+[bull](puṅgava)+[bannered](ketur)+[may-protect](avyāt)+[feet](pādau) [my](mamā)+[may-protect](vyāt)+[by-gods](sura)+[worshipped](vandya)+[footed](pādaḥ)
 
 ## mukta-m0-p134-v3338
-[three-eyed](triyambakaḥ) [protect](pātu) [third-watch](tṛtīyayāme) [bull-bannered](vṛṣadhvajaḥ) [protect](pātu) [day-end](dināntyayāme)
+[three](tri)+[eyed](yambakaḥ) [may-protect](pātu) [in-third](tṛtīya)+[watch](yāme) [bull](vṛṣa)+[bannered](dhvajaḥ) [may-protect](pātu) [day](dina)+[end](āntya)+[watch](yāme)
 
 ## mukta-m0-p134-v3339
-[gaurī-lord](gaurīpatiḥ) [protect](pātu) [night-end](niśāvasāne) [death-conqueror](mṛtyuñjayo) [protect](rakṣatu) [all-time](sarvakālam)
+[Gaurī](gaurī)+[lord](patiḥ) [may-protect](pātu) [night](niśā)+[end](avasāne) [death](mṛtyu)+[conqueror](ñjayo) [may-protect](rakṣatu) [all](sarva)+[time](kālam)
 
 ## mukta-m0-p134-v3340
-[therein](tadantare) [protect](pātu) [lord-of-beasts](patiḥ+paśūnāṃ) [sadāśiva](sadāśivo) [protect](rakṣatu) [me](mām) [all-around](samantāt)
+[that](tad)+[interval](antare) [may-protect](pātu) [lord](patiḥ) [of-beings](paśūnāṃ) [Sadāśiva](sadāśivo) [may-protect](rakṣatu) [me](māṃ) [on-all-sides](samantāt)
 
 ## mukta-m0-p134-v3341
-[forest-residence](araṇyavāsa) [great-exile](ādimahāpravāse) [protect](pāyāt) [deer-hunter](mṛgavyādhaḥ) [noble-power](udāraśaktiḥ)
+[forest](araṇya)+[dwelling](vāsā)+[etc.](ādi)+[great](mahā)+[journey](pravāse) [may-protect](pāyān)+[deer](mṛga)+[hunter](vyādha) [noble](udāra)+[power](śaktiḥ)
 
 ## mukta-m0-p134-v3342
-[terrible-enemy-army](ghorarisenā) [ocean](arṇava) [irresistible](durnnivāra) [great-fear](mahābhayāt) [protect](rakṣatu) [vīrabhadra](vīrabhadraḥ)
+[terrible](ghora)+[enemy](ri)+[army](senā)+[ocean](arṇava)+[difficult](durn)+[to-cross](nivāra)+[great](mahā)+[fear](bhayād)+[may-protect](rakṣatu) [Vīrabhadra](vīrabhadraḥ)
 
 ## mukta-m0-p134-v3343
-[tiger-lion-bear](śārdūlasiṃharkṣa) [etc](vṛkādi) [cruel](hiṃsrān) [terrify](santrāsayatu) [lord](īśaḥ) [bow](dhanuḥ) [pināka](pinākaḥ)
+[tiger](śārdūla)+[lion](siṃha)+[bear](rkṣa)+[wolf](vṛka)+[etc.](ādi)+[beasts](hiṃsrān) [may-terrify](santrāsayatv)+[lord](īśa) [bow](dhanuḥ) [Pināka](pinākaḥ)
 
 ## mukta-m0-p134-v3344
-[world-lord](jagatāmadhīśaḥ)
+[of-worlds](jagatām)+[supreme-lord](adhīśaḥ)
 
 ## mukta-m0-p134-v3345
-[all-obstacle-removal](sarvabādhāpraśamanaṃ) [secret](rahasyaṃ) [all-embodied](sarvadehinām)
+[all](sarva)+[obstacles](bādhā)+[pacifying](praśamanaṃ) [secret](rahasyaṃ) [of-all](sarva)+[embodied-beings](dehinām)
 
 ## mukta-m0-p134-v3346
-[not](na) [his](tasya) [arises](jāyate) [anywhere](kvāpi) [fear](bhayaṃ) [śambhu-grace](śambhoranugrahāt)
+[not](na) [of-him](tasya) [arises](jāyate) [anywhere](kvāpi) [fear](bhayaṃ) [of-Śambhu](śambhor)+[by-grace](anugrahāt)
 
 ## mukta-m0-p134-v3347
-[immediately](sadyaḥ) [happiness](sukham) [obtains](avāpnoti) [long-life](dīrgghamāyuḥ) [and](ca) [finds](vindati)
+[immediately](sadyaḥ) [happiness](sukham)+[obtains](avāpnoti) [long](dīrggham)+[life](āyuś)+[and](ca) [attains](vindati)
 
 ## mukta-m0-p134-v3348
-[who](yo) [wears](dhatte) [śaiva-armor](kavacaṃ+śaivaṃ) [he](saḥ) [by-gods](devairapi) [worshipped](pūjyate)
+[who](yo) [wears](dhatte) [armor](kavacaṃ) [Śaiva](śaivaṃ) [he](sa) [by-gods](devair)+[even](api) [is-honored](pūjyate)
 
 ## mukta-m0-p134-v3349
-[at-body-end](dehānte) [liberation](muktim) [obtains](āpnoti) [śiva-armor-power](śivavarmānubhāvataḥ)
+[body](deha)+[end](ante) [liberation](muktim)+[obtains](āpnoti) [Śiva](śiva)+[armor](varma)+[by-power](anubhāvataḥ)
 
 ## mukta-m0-p134-v3350
-[wear](dhārayasva) [by-me](mayā) [given](dattaṃ) [immediately](sadyaḥ) [welfare](śreyo) [indeed](hi) [obtain](avāpsyasi)
+[wear](dhārayasva) [by-me](mayā) [given](dattaṃ) [immediately](sadyaḥ) [welfare](śreyo) [indeed](hi)+[you-will-obtain](avāpsyasi)

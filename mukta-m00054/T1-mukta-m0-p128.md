@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p128-v3176
-[ratna-anga-ayana-namaha](ratnāṅgāyanamaḥ) [maha-arnava-nipana-videna-namaha](mahārṇavanipānavidenamaḥ)
+jewel+limbed(ratnāṅgāya) homage(namaḥ) || 772 || great+ocean+drinking+knower(mahārṇavanipānavide) homage(namaḥ)
 
 ## mukta-m0-p128-v3177
-[mula-ayana-namaha](mūlāyanamaḥ) [visala-ayana-namaha](viśālāyanamaḥ) [amrita-ayana-namaha](amṛtāyanamaḥ)
+root(mūlāya) homage(namaḥ) || 774 || vast(viśālāya) homage(namaḥ) || 775 || immortal(amṛtāya) homage(namaḥ)
 
 ## mukta-m0-p128-v3178
-[vyakta-avyakta-ayana-namaha](vyaktāvyaktāyanamaḥ) [taponidhaye-namaha](taponidhayenamaḥ) [arohana-ayana-namaha](ārohaṇāyanamaḥ)
+manifest+unmanifest(vyaktāvyaktāya) homage(namaḥ) || 777 || austerity+treasure(taponidhaye) homage(namaḥ) || 778 || ascent(ārohaṇāya) ||
 
 ## mukta-m0-p128-v3179
-[adhiro-dha-ayana-namaha](adhirodhāyanamaḥ) [sula-dharine-namaha](śūladhāriṇenamaḥ)
+779 || elevation(adhirodhāya) homage(namaḥ) || 780 || trident+bearer(śūladhāriṇe) homage(namaḥ)
 
 ## mukta-m0-p128-v3180
-[maha-yasasena-namaha](mahāyaśasenamaḥ) [sena-kalpa-ayana-namaha](senākalpāyanamaḥ) [maha-kalpa-ayana-namaha](mahākalpāyanamaḥ)
+great+fame(mahāyaśase) homage(namaḥ) || 782 || army+arrangement(senākalpāya) homage(namaḥ) || 783 || great+arrangement(mahākalpāya) ||
 
 ## mukta-m0-p128-v3181
-[yoga-ayana-namaha](yogāyanamaḥ) [yuga-kara-ayana-namaha](yugakarāyanamaḥ) [haraye-namaha](harayenamaḥ)
+784 || yoga(yogāya) homage(namaḥ) || 785 || age+maker(yugakarāya) homage(namaḥ) || 786 || remover(haraye) homage(namaḥ)
 
 ## mukta-m0-p128-v3182
-[yuga-rupa-ayana-namaha](yugarūpāyanamaḥ) [maha-rupa-ayana-namaha](mahārūpāyanamaḥ)
+p. 471) age+form(yugarūpāya) homage(namaḥ) || 788 || great+form(mahārūpāya) homage(namaḥ)
 
 ## mukta-m0-p128-v3183
-[maha-naga-hana-ayana-namaha](mahānāgahanāyanamaḥ) [vadha-ayana-namaha](vadhāyanamaḥ)
+great+serpent+slayer(mahānāgahanāya) homage(namaḥ) || 790 || slayer(vadhāya) homage(namaḥ)
 
 ## mukta-m0-p128-v3184
-[nyaya-nirvapana-ayana-namaha](nyāyanirvapaṇāyanamaḥ) [pada-ayana-namaha](pādāyanamaḥ) [pandita-ayana-namaha](paṇḍitāyanamaḥ)
+justice+offering(nyāyanirvapaṇāya) homage(namaḥ) || 792 || foot(pādāya) homage(namaḥ) || 793 || learned(paṇḍitāya) ||
 
 ## mukta-m0-p128-v3185
-[acalopama-ayana-namaha](acalopamāyanamaḥ) [bahu-mala-ayana-namaha](bahumālāyanamaḥ)
+794 || mountain+like(acalopamāya) homage(namaḥ) || 795 || many+garlanded(bahumālāya) homage(namaḥ)
 
 ## mukta-m0-p128-v3186
-[maha-mala-ayana-namaha](mahāmālāyanamaḥ) [sasi-hara-su-locana-ayana-namaha](śaśiharasulocanāyanamaḥ)
+great+garlanded(mahāmālāya) homage(namaḥ) || 797 || moon+Hara+beautiful+eyed(śaśiharasulocanāya) homage(namaḥ)
 
 ## mukta-m0-p128-v3187
-[vistara-lavana-kupa-ayana-namaha](vistāralavaṇakūpāyanamaḥ) [tri-yuga-ayana-namaha](triyugāyanamaḥ)
+vast+salt+well(vistāralavaṇakūpāya) homage(namaḥ) || 799 || three+ages(triyugāya) homage(namaḥ)
 
 ## mukta-m0-p128-v3188
-[mani-viddha-ayana-namaha](maṇividdhāyanamaḥ) [jata-dhara-ayana-namaha](jaṭādharāyanamaḥ)
+|| 803 || jewel+pierced(maṇividdhāya) homage(namaḥ) || 804 || matted+hair+bearer(jaṭādharāya) ||
 
 ## mukta-m0-p128-v3189
-[bindave-namaha](bindavenamaḥ) [visarga-ayana-namaha](visargāyanamaḥ) [su-mukha-ayana-namaha](sumukhāyanamaḥ)
+drop(bindave) homage(namaḥ) || 806 || emission(visargāya) homage(namaḥ) || 807 || beautiful+faced(sumukhāya) homage(namaḥ)
 
 ## mukta-m0-p128-v3190
-[sara-ayana-namaha](śarāyanamaḥ) [sarva-ayudha-ayana-namaha](sarvāyudhāyanamaḥ) [saha-ayana-namaha](sahāyanamaḥ)
+arrow(śarāya) homage(namaḥ) || 809 || all+weapons(sarvāyudhāya) homage(namaḥ) || 810 || companion(sahāya) homage(namaḥ)
 
 ## mukta-m0-p128-v3191
-[nivedana-ayana-namaha](nivedanāyanamaḥ) [sukha-jata-ayana-namaha](sukhājātāyanamaḥ) [su-gandhara-ayana-namaha](sugandhārāyanamaḥ)
+offering(nivedanāya) homage(namaḥ) || 812 || happiness+born(sukhājātāya) homage(namaḥ) || 813 || good+fragrance(sugandhārāya) ||
 
 ## mukta-m0-p128-v3192
-[maha-dhanuse-namaha](mahādhanuṣenamaḥ) [gandha-pali-bhagavate-namaha](gandhapālibhagavatenamaḥ)
+814 || great+bow(mahādhanuṣe) homage(namaḥ) || 815 || fragrance+protector+lord(gandhapālibhagavate) homage(namaḥ)
 
 ## mukta-m0-p128-v3193
-[sarva-karma-utthana-ayana-namaha](sarvakarmotthānāyanamaḥ) [manthana-bahula-vayave-namaha](manthānabahulavāyavenamaḥ)
+all+action+arising(sarvakarmotthānāya) homage(namaḥ) || 817 || churning+abundant+wind(manthānabahulavāyave) homage(namaḥ)
 
 ## mukta-m0-p128-v3194
-[sakala-ayana-namaha](sakalāyanamaḥ) [sarva-locana-ayana-namaha](sarvalocanāyanamaḥ) [tala-stala-ayana-namaha](talastālāyanamaḥ)
+whole(sakalāya) homage(namaḥ) || 819 || all+eyed(sarvalocanāya) homage(namaḥ) || 820 || surface+clapping(talastālāya) homage(namaḥ)
 
 ## mukta-m0-p128-v3195
-[chatra-ayana-namaha](chatrāyanamaḥ) [su-chatra-ayana-namaha](succhatrāyanamaḥ)
+|| 824 || parasol(chatrāya) homage(namaḥ) || 825 || beautiful+parasol(succhatrāya) homage(namaḥ)
 
 ## mukta-m0-p128-v3196
-[vikhyata-loka-ayana-namaha](vikhyātalokāyanamaḥ) [sarva-asraya-krama-ayana-namaha](sarvāśrayakramāyanamaḥ)
+famous+world(vikhyātalokāya) homage(namaḥ) || 827 || all+refuge+order(sarvāśrayakramāya) homage(namaḥ)
 
 ## mukta-m0-p128-v3197
-[munda-ayana-namaha](muṇḍāyanamaḥ) [virupa-ayana-namaha](virūpāyanamaḥ) [vikrita-ayana-namaha](vikṛtāyanamaḥ)
+shaven(muṇḍāya) homage(namaḥ) || 829 || deformed(virūpāya) homage(namaḥ) || 830 || transformed(vikṛtāya) homage(namaḥ)
 
 ## mukta-m0-p128-v3198
-[dandine-namaha](daṇḍinenamaḥ) [kundine-namaha](kuṇḍinenamaḥ) [vikurvāna-ayana-namaha](vikurvāṇāyanamaḥ)
+staff+bearer(daṇḍine) homage(namaḥ) || 832 || earring+bearer(kuṇḍine) homage(namaḥ) || 833 || transforming(vikurvāṇāya) homage(namaḥ)
 
 ## mukta-m0-p128-v3199
-[haryaksa-ayana-namaha](haryakṣāyanamaḥ) [kakubha-ayana-namaha](kakubhāyanamaḥ) [vajrine-namaha](vajriṇenamaḥ)
+green+eyed(haryakṣāya) homage(namaḥ) || 835 || direction(kakubhāya) homage(namaḥ) || 836 || thunderbolt+bearer(vajriṇe) homage(namaḥ)
 
 ## mukta-m0-p128-v3200
-[sata-jihva-ayana-namaha](śatajihvāyanamaḥ) [sahasra-pat-sahasra-murddhne-namaha](sahasrapatsahasramūrddhnenamaḥ)
+hundred+tongued(śatajihvāya) homage(namaḥ) || 838 || thousand+footed+thousand+headed(sahasrapatsahasramūrddhne) homage(namaḥ)

@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p130-v3226
-[ṛtu](ṛtavenamaḥ) [saṃvatsara](sa/vvatsarāyanamaḥ) [māsa](māsāyanamaḥ) [namaḥ](namaḥ)
+[to-season](ṛtave)[obeisance](namaḥ) [to-year](sa/vvatsarāya)[obeisance](namaḥ) [to-month](māsāya)[obeisance](namaḥ)
 
 ## mukta-m0-p130-v3227
-[pakṣa](pakṣāyanamaḥ) [saṅkhyā-samāpana](saṅkhyāsamāpanāyanamaḥ) [kalā](kalāyainamaḥ) [namaḥ](namaḥ)
+[to-fortnight](pakṣāya)[obeisance](namaḥ) [to-number+completion](saṅkhyā+samāpanāya)[obeisance](namaḥ) [to-digit](kalāyai)[obeisance](namaḥ)
 
 ## mukta-m0-p130-v3228
-[kāṣṭhā](kāṣṭhāyainamaḥ) [lava](lavebhyonamaḥ) [mātrā](mātrābhyonamaḥ) [namaḥ](namaḥ)
+[to-instant](kāṣṭhāyai)[obeisance](namaḥ) [to-moments](lavebhyo)[obeisance](namaḥ) [to-measures](mātrābhyo)[obeisance](namaḥ)
 
 ## mukta-m0-p130-v3229
-[muhūrta-aha-kṣapā](muhūrttāhaḥkṣapābhyonamaḥ) [kṣaṇa](kṣaṇebhyonamaḥ) [ādi-nirgama](ādyanirgamāyanamaḥ) [namaḥ](namaḥ)
+[to-muhūrta+day+nights](muhūrttāhaḥ+kṣapābhyo)[obeisance](namaḥ) [to-instants](kṣaṇebhyo)[obeisance](namaḥ)
 
 ## mukta-m0-p130-v3230
-[sat](sat) [asat](asat) [vyakta](vyaktāyanamaḥ) [namaḥ](namaḥ)
+[to-first+emergence](ādy+anirgamāya)[obeisance](namaḥ) [to-existent](sate)[obeisance](namaḥ) [to-non-existent](asate)[obeisance](namaḥ)
 
 ## mukta-m0-p130-v3231
-[avyakta](avyaktāyanamaḥ) [pitṛ](pitrenamaḥ) [mātṛ](mātrenamaḥ) [namaḥ](namaḥ)
+[to-manifest](vyaktāya)[obeisance](namaḥ) [to-unmanifest](avyaktāya)[obeisance](namaḥ) [to-father](pitre)[obeisance](namaḥ)
 
 ## mukta-m0-p130-v3232
-[pitāmaha](pitāmahāyanamaḥ) [svarga-dvāra](svargadvārāyanamaḥ) [prajā-dvāra](prajādvārāyanamaḥ) [namaḥ](namaḥ)
+[to-mother](mātre)[obeisance](namaḥ) [to-grandfather](pitāmahāya)[obeisance](namaḥ) [to-heaven+door](svarga+dvārāya)[obeisance](namaḥ)
 
 ## mukta-m0-p130-v3233
-[mokṣa-dvāra](mokṣadvārāyanamaḥ) [brahma-loka](brahmalokāyanamaḥ) [parāgata](parāgatayenamaḥ) [namaḥ](namaḥ)
+[to-progeny+door](prajā+dvārāya)[obeisance](namaḥ) [to-liberation+door](mokṣa+dvārāya)[obeisance](namaḥ)
 
 ## mukta-m0-p130-v3234
-[deva-asura-vinirmātṛ](devāsuravinirmātrenamaḥ) [deva-asura-parāyaṇa](devāsuraparāyaṇāyanamaḥ) [deva-asura-guru](devāsuraguravenamaḥ) [namaḥ](namaḥ)
+[to-brahma+world](brahma+lokāya)[obeisance](namaḥ) [to-supreme+goal](parā+gataye)[obeisance](namaḥ)
 
 ## mukta-m0-p130-v3235
-[deva](devāyanamaḥ) [deva-asura-namaskṛta](devāsuranamaskṛtāyanamaḥ) [deva-asura-mahāmātra](devāsuramahāmātrāyanamaḥ) [namaḥ](namaḥ)
+[to-god+demon+creator](deva+asura+vinirmātre)[obeisance](namaḥ) [to-god+demon+supreme-refuge](deva+asura+parāyaṇāya)[obeisance](namaḥ)
 
 ## mukta-m0-p130-v3236
-[deva-asura-gaṇa-agraṇī](devāsuragaṇāgraṇyenamaḥ) [deva-atideva](devātidevāyanamaḥ) [devarṣi](devarṣṣayenamaḥ) [namaḥ](namaḥ)
+[to-god+demon+teacher](deva+asura+gurave)[obeisance](namaḥ) [to-god](devāya)[obeisance](namaḥ)
 
 ## mukta-m0-p130-v3237
-[deva-asura-vara-prada](devāsuravarapradāyanamaḥ) [deva-asura-īśvara](devāsureśvarāyanamaḥ) [viśva](viśvāyanamaḥ) [namaḥ](namaḥ)
+[to-god+demon+saluted](deva+asura+namaskṛtāya)[obeisance](namaḥ) [to-god+demon+great-counsellor](deva+asura+mahā+mātrāya)[obeisance](namaḥ)
 
 ## mukta-m0-p130-v3238
-[deva-asura-maheśvara](devāsuramaheśvarāyanamaḥ) [sarva-deva-maya](sarvadevamayāyanamaḥ) [acintya](acintyāyanamaḥ) [namaḥ](namaḥ)
+[to-god+demon+host+chief](deva+asura+gaṇa+agraṇye)[obeisance](namaḥ) [to-god+of-gods](deva+atidevāya)[obeisance](namaḥ)
 
 ## mukta-m0-p130-v3239
-[deva-ātman](devātmanenamaḥ) [ātma-sambhava](ātmasambhavāyanamaḥ) [viraja](virajāyanamaḥ) [namaḥ](namaḥ)
+[to-divine+sage](deva+rṣṣaye)[obeisance](namaḥ) [to-god+demon+boon+giver](deva+asura+vara+pradāya)[obeisance](namaḥ)
 
 ## mukta-m0-p130-v3240
-[nīraja](nīrajāyanamaḥ) [amara](amarāyanamaḥ) [īḍya](īḍyāyanamaḥ) [namaḥ](namaḥ)
+[to-god+demon+lord](deva+asura+īśvarāya)[obeisance](namaḥ) [to-all](viśvāya)[obeisance](namaḥ)
 
 ## mukta-m0-p130-v3241
-[hastīśvara](hastīśvarāyanamaḥ) [vyāghra](vyāghrāyanamaḥ) [deva-siṃha](devasiṃhāyanamaḥ) [namaḥ](namaḥ)
+[to-god+demon+great-lord](deva+asura+mahā+īśvarāya)[obeisance](namaḥ) [to-all+god+consisting](sarva+deva+mayāya)[obeisance](namaḥ)
 
 ## mukta-m0-p130-v3242
-[nara-ṛṣabha](nararṣabhāyanamaḥ) [vibudha](vibudhāyanamaḥ) [agra-vara](agravarāyanamaḥ) [namaḥ](namaḥ)
+[to-inconceivable](acintyāya)[obeisance](namaḥ) [to-god+self](deva+ātmane)[obeisance](namaḥ) [to-self+born](ātma+sambhavāya)[obeisance](namaḥ)
 
 ## mukta-m0-p130-v3243
-[sūkṣma](sūkṣmāyanamaḥ) [sarva-deva](sarvadevāyanamaḥ) [tapo-maya](tapomayāyanamaḥ) [namaḥ](namaḥ)
+[to-passionless](virajāya)[obeisance](namaḥ) [to-water-born](nīrajāya)[obeisance](namaḥ) [to-immortal](amarāya)[obeisance](namaḥ)
 
 ## mukta-m0-p130-v3244
-[suyukta](suyuktāyanamaḥ) [śobhana](śobhanāyanamaḥ) [vajrin](vajriṇenamaḥ) [namaḥ](namaḥ)
+[to-praiseworthy](īḍyāya)[obeisance](namaḥ) [to-elephant+lord](hastī+īśvarāya)[obeisance](namaḥ) [to-tiger](vyāghrāya)[obeisance](namaḥ)
 
 ## mukta-m0-p130-v3245
-[prāsāda-prabhava](prāsānāmprabhavāyanamaḥ) [avyaya](avyayāyanamaḥ) [guhā](guhāyanamaḥ) [namaḥ](namaḥ)
+[to-god+lion](deva+siṃhāya)[obeisance](namaḥ) [to-man+bull](nara+rṣabhāya)[obeisance](namaḥ) [to-wise](vibudhāya)[obeisance](namaḥ)
 
 ## mukta-m0-p130-v3246
-[kānta](kāntāyanamaḥ) [śṛṅgin](śṛṅgiṇenamaḥ) [śṛṅga-priya](śṛṅgapriyāyanamaḥ) [namaḥ](namaḥ)
+[to-foremost+excellent](agra+varāya)[obeisance](namaḥ) [to-subtle](sūkṣmāya)[obeisance](namaḥ) [to-all+god](sarva+devāya)[obeisance](namaḥ)
 
 ## mukta-m0-p130-v3247
-[babhru](babhravenamaḥ) [namaḥ](namaḥ) [namaḥ](namaḥ) [namaḥ](namaḥ)
+[to-austerity+consisting](tapo+mayāya)[obeisance](namaḥ) [to-well-united](suyuktāya)[obeisance](namaḥ) [to-beautiful](śobhanāya)[obeisance](namaḥ)
 
 ## mukta-m0-p130-v3248
-[namaḥ](namaḥ) [namaḥ](namaḥ) [namaḥ](namaḥ) [namaḥ](namaḥ)
+[to-thunderbolt-bearer](vajriṇe)[obeisance](namaḥ) [to-spears+of+source](prāsānām+prabhavāya)[obeisance](namaḥ)
 
 ## mukta-m0-p130-v3249
-[namaḥ](namaḥ) [namaḥ](namaḥ) [namaḥ](namaḥ) [namaḥ](namaḥ)
+[to-imperishable](avyayāya)[obeisance](namaḥ) [to-hidden](guhāya)[obeisance](namaḥ) [to-lovely](kāntāya)[obeisance](namaḥ)
 
 ## mukta-m0-p130-v3250
-[namaḥ](namaḥ) [namaḥ](namaḥ) [namaḥ](namaḥ) [namaḥ](namaḥ)
+[to-horned](śṛṅgiṇe)[obeisance](namaḥ) [to-horn+dear](śṛṅga+priyāya)[obeisance](namaḥ) [to-brown](babhrave)[obeisance](namaḥ)

@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p165-v4101
-[early-rising](prātarutthāya) [best-of-brahmins](viprendra) [should-recite](paṭhet) [one-pointed-mind](ekāgramānasaḥ)
+[early-morning](prātar) [having-risen](utthāya) [o-best-of-brahmins](viprendra) [should-recite](paṭhet) [with-one-pointed](ekāgra) [mind](mānasaḥ)
 
 ## mukta-m0-p165-v4102
-[of-him](tasya) [perish](naśyanti) [of-calamities](vipadāṃ) [heaps](rāśayaḥ) [attains-success](siddhim+āpnuyāt)
+[of-him](tasya) [are-destroyed](naśyanti) [of-calamities](vipadāṃ) [heaps](rāśayaḥ) [success](siddhim) [he-attains](āpnuyāt)
 
 ## mukta-m0-p165-v4103
-[not](na) [again](punar) [in-you-unrecognized](tvayi+avijñāte) [by-kalpa-crore-hundreds](kalpakoṭiśataiḥ) [even](api)
+[not](na) [again](punas) [in-you](tvayi) [not-being-known](avijñāte) [by-hundreds-of-millions](koṭi+śataiḥ) [of-kalpas](kalpa) [even](api)
 
 ## mukta-m0-p165-v4104
-[perish](naśyanti) [all-sins](sarvapāpāni) [that-me](tan+māṃ) [speak](vada) [lord-of-gods](sureśvara)
+[are-destroyed](naśyanti) [all](sarva) [sins](pāpāni) [therefore](tat) [to-me](māṃ) [speak](vada) [o-lord-of-gods](sureśvara)
 
 ## mukta-m0-p165-v4105
-[thus-said](tad+āha) [god](devo) [govinda](govindo) [my](mama) [with-affection](prītyā) [fittingly](yathāyatham)
+[then](tadā) [spoke](āha) [the-god](devaḥ) [Govinda](govindaḥ) [of-me](mama) [out-of-love](prītyā) [as-it-truly-is](yathāyatham)
 
 ## mukta-m0-p165-v4106
-[devoted-to-that](tatparaḥ) [daily](anudinaṃ) [śambhu](śambho) [all-sovereignty](sarvaiśvarya) [if-desire](yadi+icchasi)
+[devoted-to-that](tat+paraḥ) [daily](anudinaṃ) [o-Śambhu](śambho) [all](sarva) [sovereignty](aiśvaryam) [if](yadi) [you-desire](icchasi)
 
 ## mukta-m0-p165-v4107
-[world-worshipped](jagatpūjyaḥ) [am](asmi) [pārvatī](pārvati)
+[by-the-world](jagat) [worshipped](pūjyaḥ) [I-am](asmi) [o-Pārvatī](pārvati)
 
 ## mukta-m0-p165-v4108
-[lord-of-śarva](śarveśvarī) [incomparable](nirupamā) [your](tava) [may-I-be](syāṃ) [like](sadṛśī) [lord](prabho)
+[o-queen-of-Śarva](śarveśvarī) [incomparable](nirupamā) [of-you](tava) [I-may-be](syāṃ) [equal](sadṛśī) [o-lord](prabho)
 
 ## mukta-m0-p165-v4109
-[of-names](nāmnāṃ) [thousand](sahasra) [will-declare](vakṣyāmi) [chief-three-worlds-auspicious](mukhyaṃ+trailokya+maṅgalam)
+[of-names](nāmnāṃ) [thousand](sahasram) [I-shall-declare](vakṣyāmi) [chief](mukhyam) [to-the-three-worlds](trailokya) [auspicious](maṅgalam)
 
 ## mukta-m0-p165-v4110
-[pure-abode](viśuddhasadma) [having-established](adhiṣṭhāya) [great-swan](mahāhaṃsāya) [we-meditate](dhīmahi)
+[on-the-pure](viśuddha) [true-abode](sat+mā) [established](adhiṣṭhāya) [on-the-great-swan](mahā+haṃsāya) [we-meditate](dhīmahi)
 
 ## mukta-m0-p165-v4111
-[rising-sun-like](samudyaddinakarasadṛśam) [lotus-handed](padmahastam) [I-bow](namāmi)
+[like-the-rising](samudyat) [sun](dina+kara) [resembling](sadṛśam) [lotus](padma) [in-hand](hastam) [that-one](tam) [I-bow](namāmi)
 
 ## mukta-m0-p165-v4112
-[supreme-abode](parandhāma) [supreme-light](parañjyotiḥ) [supreme-principle](parantattvam) [supreme-state](parampadam)
+[supreme-abode](param+dhāma) [supreme-light](param+jyotiḥ) [supreme-principle](param+tattvam) [supreme-state](param+padam)
 
 ## mukta-m0-p165-v4113
-[supreme-meaning](paramārthaḥ) [supreme](paraṃ) [good](śreyaḥ) [supreme-bliss](parānandaḥ) [supreme-rise](parodayaḥ)
+[supreme-object](parama+artthaḥ) [supreme-good](paraṃ+śreyaḥ) [supreme-bliss](para+ānandaḥ) [supreme-source](para+udayaḥ)
 
 ## mukta-m0-p165-v4114
-[diseaseless](nirāmayaḥ) [changeless](nirvikāraḥ) [without-alternative](nirvikalpaḥ) [without-support](nirāśrayaḥ)
+[free-from-disease](nir+āmayaḥ) [unchanging](nir+vikāraḥ) [free-from-conceptualization](nir+vikalpaḥ) [without-support](nir+āśrayaḥ)
 
 ## mukta-m0-p165-v4115
-[without-qualities](nirguṇaḥ) [without-parts](niṣkalaḥ) [endless](anantaḥ) [unthinkable](acintyaḥ) [unmoving](asāvacalaḥ) [imperishable](acyutaḥ)
+[without-qualities](nir+guṇaḥ) [without-parts](niṣ+kalaḥ) [endless](anantaḥ) [inconceivable](acintyaḥ) [unborn](asaḥ) [immovable](acalaḥ) [imperishable](acyutaḥ)
 
 ## mukta-m0-p165-v4116
-[all-knowing](sarvajñaḥ) [all-pervading](sarvagaḥ) [all](sarvaḥ) [all-giving](sarvadaḥ) [all-sustaining](sarvabhāvanaḥ)
+[all-knowing](sarva+jñaḥ) [all-pervading](sarva+gaḥ) [all](sarvaḥ) [all-giving](sarva+daḥ) [creator-of-all](sarva+bhāvanaḥ)
 
 ## mukta-m0-p165-v4117
-[all-power](sarvaśaktiḥ) [all-essence](sarvasāraḥ) [all-self](sarvātmā) [facing-all](sarvatomukhaḥ)
+[all-powerful](sarva+śaktiḥ) [essence-of-all](sarva+sāraḥ) [soul-of-all](sarva+ātmā) [facing-all-directions](sarvataḥ+mukhaḥ)
 
 ## mukta-m0-p165-v4118
-[all-purpose](sarvārthaḥ) [all-auspicious](sarvatobhadraḥ) [cause-of-causes](sarvakāraṇakāraṇam)
+[goal-of-all](sarva+artthaḥ) [auspicious-on-all-sides](sarvataḥ+bhadraḥ) [cause](kāraṇa) [of-the-cause-of-all](sarva+kāraṇam)
 
 ## mukta-m0-p165-v4119
-[six-twenty](ṣaḍviṃśakaḥ) [great-viṣṇu](mahāviṣṇuḥ) [great-secret](mahāguhyaḥ) [great-hari](mahāhariḥ)
+[the-twenty-sixth](ṣaḍviṃśakaḥ) [the-great-Viṣṇu](mahā+viṣṇuḥ) [the-great-mystery](mahā+guhyaḥ) [the-great-Hari](mahā+hariḥ)
 
 ## mukta-m0-p165-v4120
-[lord-of-māyā](māyāpatiḥ) [lord-of-yoga](yogapatiḥ) [lord-of-liberation](kaivalyapatiḥ) [self-born](ātmabhūḥ)
+[lord-of-māyā](māyā+patiḥ) [lord-of-yoga](yoga+patiḥ) [lord-of-liberation](kaivalya+patiḥ) [self-born](ātma+bhūḥ)
 
 ## mukta-m0-p165-v4121
-[full](pūrṇaḥ) [true](satyaḥ) [pure-intellect-nature](śuddhabuddhasvarūpaḥ) [eternal-consciousness](nityacinmayaḥ)
+[full](pūrṇaḥ) [true](satyaḥ) [pure](śuddha) [of-the-nature-of-consciousness](buddha+svarūpaḥ) [eternally](nitya) [consciousness](cinmayaḥ)
 
 ## mukta-m0-p165-v4122
-[ancient](purāṇaḥ) [person](puruṣaḥ) [inner-consciousness](pratyakcaitanya) [supreme-person](puruṣottamaḥ)
+[ancient](purāṇaḥ) [person](puruṣaḥ) [inner-witness](pratyak) [consciousness](caitanya) [supreme-person](puruṣa+uttamaḥ)
 
 ## mukta-m0-p165-v4123
-[support-of-brahma-vidyā](brahmavidyāśrayaḥ) [unsurpassable](alaṅghyaḥ) [self-luminous](svaprakāśaḥ) [self-radiant](svayamprabhaḥ)
+[abode-of-knowledge-of-Brahman](brahma+vidyā+āśrayaḥ) [untransgressable](alaṅghyaḥ) [self-luminous](sva+prakāśaḥ) [self-shining](svayam+prabhaḥ)
 
 ## mukta-m0-p165-v4124
-[page-569](p.+569) [faultless](sarvānavadyaḥ) [hard-to-attain](duṣprāpaḥ) [fourth](turīyaḥ) [beyond-darkness](tamasaḥ+paraḥ)
+[free-from-all-faults](sarva+anavadyaḥ) [hard-to-attain](duṣprāpaḥ) [the-fourth](turīyaḥ) [beyond-darkness](tamasaḥ+paraḥ)
 
 ## mukta-m0-p165-v4125
-[saṅkarṣaṇa](saṅkarṣaṇaḥ) [all-destroyer](sarvaharaḥ) [time](kālaḥ) [all-terrifying](sarvabhayaṅkaraḥ)
+[Saṅkarṣaṇa](saṅkarṣaṇaḥ) [destroyer-of-all](sarva+haraḥ) [time](kālaḥ) [causing-fear-to-all](sarva+bhayaṅkaraḥ)

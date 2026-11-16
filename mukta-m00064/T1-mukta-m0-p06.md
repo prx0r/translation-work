@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p06-v126
-[in-kashi](kāśyām) [and](ca) [not](na) [rises](udeti) [when](kadā) [from-sandhi-yoga](sandhiyogāt) [O-beautiful-faced](varānane)
+[in-kāśī](kāśyām) [and](ca) [not](na) [rises](udeti) [ever](kadā) [from-junction+union](sandhiyogāt) [o-fair-faced-one](varānane)
 
 ## mukta-m0-p06-v127
-[O-goddess](devi) [by-length-and-breadth](āyāmaprasthataḥ) [eternal](nityā) [this](iyam) [eternal](nityadā) [auspicious](śubhe)
+[from-measure+extent](āyāmaprasthataḥ) [o-goddess](devi) [eternal](nityā) [this](iyam) [always-giving](nityadā) [o-auspicious-one](śubhe)
 
 ## mukta-m0-p06-v128
-[brahma-egg](brahmāṇḍam) [establishes](sthāpayet) [there](tatra) [with-peak](sakūṭam) [dwelling-measure](vastumānavam)
+[cosmic-egg](brahmāṇḍam) [one-should-establish](sthāpayet) [there](tatra) [with-peak](sakūṭam) [thing+measure](vastumānavam)
 
 ## mukta-m0-p06-v129
-[by-all-wealth](sarvasvena) [api](api) [should-be-done](kartavyam) [in-varanasi](vārāṇasyām) [brahmin-offering](dvijārpaṇam)
+[with-all+wealth](sarvasvena) [even](api) [to-be-done](kartavyam) [in-vārāṇasī](vārāṇasyām) [to-twice-born+offering](dvijārpaṇam)
 
 ## mukta-m0-p06-v130
-[desireless](niṣkāme) [bond-of-action](karmabandhaḥ) [ca](ca) [all](sarvam) [cause-of-liberation](nirvāṇakāraṇam)
+[in-desireless-one](niṣkāme) [action+bondage](karmabandhaḥ) [and](ca) [all](sarvam) [liberation+cause](nirvāṇakāraṇam)
 
 ## mukta-m0-p06-v131
-[dead](mṛtam) [purified](pūtam) [leads](nayet) [to-kashi](kāśyām) [liberated](muktaḥ) [by-my-teaching](mamopadeśataḥ)
+[dead](mṛtam) [purified](pūtam) [one-should-lead](nayet) [to-kāśī](kāśyām) [liberated](muktaḥ) [from-my+instruction](mamopadeśataḥ)
 
 ## mukta-m0-p06-v132
-[there](tatra) [whatever](yadyat) [done](kṛtam) [karma](karma) [that](tat) [endless-fruit](anantaphalam) [obtains](labhet)
+[there](tatra) [whatever](yadyat) [done](kṛtam) [action](karma) [that](tat) [endless+fruit](anantaphalam) [one-obtains](labhet)
 
 ## mukta-m0-p06-v133
-[there](tatra) [conjunctive](sāṃyogikam) [merit](puṇyam) [there](tatra) [ca](ca) [eva](eva) [is-liberated](vimucyate)
+[there](tatra) [conjunctive](sāṃyogikam) [merit](puṇyam) [there](tatra) [and](ca) [indeed](eva) [one-is-liberated](vimucyate)
 
 ## mukta-m0-p06-v134
-[in-smallness](svalpatve) [in-tithi-time](tithikālatve) [action-time-course](kriyākālagatir) [bhavet](bhavet)
+[in-smallness](svalpatve) [in-lunar-day+time](tithikālatve) [ritual+time+course](kriyākālagatiḥ) [should-be](bhavet)
 
 ## mukta-m0-p06-v135
-[at-sandhya](sandhyāyām) [fallen](patitāyām) [tu](tu) [gayatri](gāyatrīm) [ten-times](daśadhā) [japet](japet)
+[in-twilight](sandhyāyām) [having-fallen](patitāyām) [but](tu) [gāyatrī](gāyatrīm) [tenfold](daśadhā) [one-should-recite](japet)
 
 ## mukta-m0-p06-v136
-[from-this](itaḥ) [beyond](parataram) [something](kiñcit) [that](tat) [speak](brūyāḥ) [your](tava) [mind](mānase)
+[from-this](itaḥ) [beyond](parataram) [anything](kiñcit) [that](tat) [you-may-say](brūyāḥ) [of-you](tava) [in-mind](mānase)
 
 ## mukta-m0-p06-v137
-[of-war](yuddhasya) [warding](vāraṇam) [deva](deva) [of-fever-etc](jvarādivāraṇam) [tathā](tathā)
+[of-battle](yuddhasya) [averting](vāraṇam) [o-god](deva) [fever+etc+averting](jvarādivāraṇam) [likewise](tathā)
 
 ## mukta-m0-p06-v138
-[not-protector](nāśutrātā) [ca](ca) [of-worlds](jagatām) [tvām](tvām) [vinā](vinā) [supreme-lord](parameśvara)
+[not](na) [quick+protector](āśutrātā) [and](ca) [of-worlds](jagatām) [you](tvām) [without](vinā) [o-supreme-lord](parameśvara)
 
 ## mukta-m0-p06-v139
-[by-ordinary](prākṛtena) [eva](eva) [word](vākyena) [speak](kathayāmi) [hear](śṛṇuṣva) [tat](tat)
+[with-ordinary](prākṛtena) [indeed](eva) [with-speech](vākyena) [I-tell](kathayāmi) [listen](śṛṇuṣva) [that](tat)
 
 ## mukta-m0-p06-v140
-[in-graha-fever-etc-beings](grahajvarādibhūteṣu) [all-actions](sarvakarmasu) [employ](yojayet)
+[in-planet+fever+etc+spirits](grahajvarādibhūteṣu) [in-all+actions](sarvakarmasu) [one-should-employ](yojayet)
 
 ## mukta-m0-p06-v141
-[given](datte) [ca](ca) [loss-of-siddhi](siddhihāniḥ) [syāt](syāt) [of-yoginis](yoginīnām) [becomes-beast](bhavet) [paśuḥ](paśuḥ)
+[when-given](datte) [and](ca) [success+loss](siddhihāniḥ) [would-be](syāt) [of-yoginīs](yoginīnāṃ) [would-become](bhavet) [beast](paśuḥ)
 
 ## mukta-m0-p06-v142
-[always-conduct-devoted](sadācāraratāya) [ca](ca) [conquered-all-enemies](nirjitāśeṣaśatrave)
+[in-good+conduct+delighting](sadācāraratāya) [and](ca) [to-conquered+entire+enemies](nirjitāśeṣaśatrave)
 
 ## mukta-m0-p06-v143
-[now](idānīm) [hear-wish](śrotumicchāmi) [world-subduing-supreme](jagadvaśyakaraṃ) [param](param)
+[now](idānīm) [to-hear](śrotum) [I-desire](icchāmi) [world+subduing](jagadvaśyakaram) [supreme](param)
 
 ## mukta-m0-p06-v144
-[by-narada](nāradena) [formerly](purā) [nourished](puṣṭam) [from-me](mattaḥ) [on-kailasa-peak](kailāsamūrdhani)
+[by-nārada](nāradena) [formerly](purā) [asked](puṣṭam) [from-me](mattaḥ) [on-kailāsa+summit](kailāsamūrdhani)
 
 ## mukta-m0-p06-v145
-[by-that-armor](tenaiva) [kavacenaiva](kavacenaiva) [narada](nārado) [brahma-born](brahmasambhavaḥ)
+[by-that](tena) [indeed](eva) [by-armor](kavacena) [indeed](eva) [nārada](nāradaḥ) [brahmā+born](brahmasambhavaḥ)
 
 ## mukta-m0-p06-v146
-[that-impossibility](tadasambhavam) [seeing](ālokya) [vishnu](viṣṇur) [says](āha) [of-vidhi-son](vidheḥ) [sutam](sutam)
+[that](tat) [impossibility](asambhavam) [having-seen](ālokya) [viṣṇu](viṣṇuḥ) [said](āha) [of-brahmā+son](vidheḥ sutam)
 
 ## mukta-m0-p06-v147
-[all-that](tatsarvam) [became](abhavad) [in-vishnu](viṣṇau) [vishnu](viṣṇur) [says](āha) [to-ocean-born](samudrajām)
+[that](tat) [all](sarvam) [became](abhavat) [in-viṣṇu](viṣṇau) [viṣṇu](viṣṇuḥ) [said](āha) [ocean+born](samudrajām)
 
 ## mukta-m0-p06-v148
-[asked](papraccha) [narada](nārado) [wise](dhīmān) [all-worlds-welfare](sarvalokahite) [devoted](rataḥ)
+[asked](papraccha) [nārada](nāradaḥ) [wise](dhīmān) [in-all+world+welfare](sarvalokahite) [delighting](rataḥ)
 
 ## mukta-m0-p06-v149
-[what](kim) [of-this](etasyāḥ) [fruit](phalam) [deva](deva) [what](kim) [this](etan) [enchanting](mohanaṃ) [bhavet](bhavet)
+[what](kim) [of-this](etasyāḥ) [fruit](phalam) [o-god](deva) [what](kim) [this](etat) [enchantment](mohanam) [may-be](bhavet)
 
 ## mukta-m0-p06-v150
-[three-times](trikāle) [hidden](gopitaṃ) [devi](devi) [time-to-time](kāle) [kāle](kāle) [manifested](prakāśitam)
+[in-three+times](trikāle) [hidden](gopitam) [o-goddess](devi) [at-time+time](kāle kāle) [revealed](prakāśitam)

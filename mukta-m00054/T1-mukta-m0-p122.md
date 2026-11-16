@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p122-v3026
-[to-beggar](bhikṣavenamaḥ) [to-beggar-form](bhikṣurūpāyanamaḥ) [to-market](vipaṇāyanamaḥ)
+[monk+to+obeisance](bhikṣavenamaḥ) [monk+form+to+obeisance](bhikṣurūpāyanamaḥ) [market+to+obeisance](vipaṇāyanamaḥ)
 
 ## mukta-m0-p122-v3027
-[to-thunderbolt-holder](vajrahastāyanamaḥ) [to-obstructor](viṣkambhinenamaḥ)
+[vajra+hand+to+obeisance](vajrahastāyanamaḥ) [supporter+to+obeisance](viṣkambhinenamaḥ)
 
 ## mukta-m0-p122-v3028
-[to-army-stopper](camūstambhanāyanamaḥ) [to-round-and-not-round-maker](vṛttāvṛttakarāyanamaḥ)
+[army+stabilizer+to+obeisance](camūstambhanāyanamaḥ) [turning+turning+doer+to+obeisance](vṛttāvṛttakarāyanamaḥ)
 
 ## mukta-m0-p122-v3029
-[to-palm](tālāyanamaḥ) [to-spring](madhavenamaḥ) [to-honey-eyed](madhukalocanāyanamaḥ)
+[time+to+obeisance](tālāyanamaḥ) [madhava+to+obeisance](madhavenamaḥ) [honey+eyed+to+obeisance](madhukalocanāyanamaḥ)
 
 ## mukta-m0-p122-v3030
-[to-speech-lord](vācaspatyāyanamaḥ) [to-feathered](vājasanāyanamaḥ)
+[lord+of+speech+to+obeisance](vācaspatyāyanamaḥ) [vājasana+to+obeisance](vājasanāyanamaḥ)
 
 ## mukta-m0-p122-v3031
-[to-hermitage-honored](āśramapūjitāyanamaḥ) [to-celibate](brahmacāriṇenamaḥ)
+[hermitage+worshipped+to+obeisance](āśramapūjitāyanamaḥ) [brahma+student+to+obeisance](brahmacāriṇenamaḥ)
 
 ## mukta-m0-p122-v3032
-[to-world-wanderer](lokacāriṇenamaḥ) [to-all-wanderer](sarvacāriṇenamaḥ) [to-inquiry-knower](vicāravidenamaḥ)
+[world+wandering+to+obeisance](lokacāriṇenamaḥ) [all+wandering+to+obeisance](sarvacāriṇenamaḥ) [reflection+knower+to+obeisance](vicāravidenamaḥ)
 
 ## mukta-m0-p122-v3033
-[to-lord](īśānāyanamaḥ) [to-controller](īśvarāyanamaḥ) [to-time](kālāyanamaḥ)
+[īśāna+to+obeisance](īśānāyanamaḥ) [lord+to+obeisance](īśvarāyanamaḥ) [time+to+obeisance](kālāyanamaḥ)
 
 ## mukta-m0-p122-v3034
-[to-night-wanderer](niśācāriṇenamaḥ) [to-pinaka-holder](pinākadhṛṣenamaḥ) [to-omen-abider](nimittasthāyanamaḥ)
+[night+wandering+to+obeisance](niśācāriṇenamaḥ) [pināka+holder+to+obeisance](pinākadhṛṣenamaḥ) [omen+abiding+to+obeisance](nimittasthāyanamaḥ)
 
 ## mukta-m0-p122-v3035
-[to-omen](nimittāyanamaḥ) [to-delighter](nandayenamaḥ) [to-joy-maker](nandikarāyanamaḥ)
+[omen+to+obeisance](nimittāyanamaḥ) [delighter+to+obeisance](nandayenamaḥ) [joy+maker+to+obeisance](nandikarāyanamaḥ)
 
 ## mukta-m0-p122-v3036
-[to-hara](harayenamaḥ) [to-joy-lord](nandīśvarāyanamaḥ) [to-joy](nandinenamaḥ)
+[hari+to+obeisance](harayenamaḥ) [nandin+lord+to+obeisance](nandīśvarāyanamaḥ) [nandin+to+obeisance](nandinenamaḥ)
 
 ## mukta-m0-p122-v3037
-[to-slayer](nihantrenamaḥ) [to-time](kālāyanamaḥ) [to-brahman](brahmaṇenamaḥ)
+[leader+to+obeisance](nihantrenamaḥ) [time+to+obeisance](kālāyanamaḥ) [brahman+to+obeisance](brahmaṇenamaḥ)
 
 ## mukta-m0-p122-v3038
-[to-grandfather](pitāmahāyanamaḥ) [to-four-faced](caturmmukhāyanamaḥ)
+[grandfather+to+obeisance](pitāmahāyanamaḥ) [four+faced+to+obeisance](caturmmukhāyanamaḥ)
 
 ## mukta-m0-p122-v3039
-[to-great-linga](mahāliṅgāyanamaḥ) [to-beautiful-linga](cāruliṅgāyanamaḥ)
+[great+liṅga+to+obeisance](mahāliṅgāyanamaḥ) [beautiful+liṅga+to+obeisance](cāruliṅgāyanamaḥ)
 
 ## mukta-m0-p122-v3040
-[to-linga-superintendent](liṅgādhyakṣāyanamaḥ) [to-god-superintendent](surādhyakṣāyanamaḥ)
+[liṅga+overlord+to+obeisance](liṅgādhyakṣāyanamaḥ) [gods+overlord+to+obeisance](surādhyakṣāyanamaḥ)
 
 ## mukta-m0-p122-v3041
-[to-yoga-superintendent](yogādhyakṣāyanamaḥ) [to-yuga-bearer](yugāvahāyanamaḥ)
+[yoga+overlord+to+obeisance](yogādhyakṣāyanamaḥ) [yuga+bringer+to+obeisance](yugāvahāyanamaḥ)
 
 ## mukta-m0-p122-v3042
-[to-seed-superintendent](bījādhyakṣāyanamaḥ) [to-seed-maker](bījakarttrenamaḥ)
+[seed+overlord+to+obeisance](bījādhyakṣāyanamaḥ) [seed+maker+to+obeisance](bījakarttrenamaḥ)
 
 ## mukta-m0-p122-v3043
-[to-self-follower](adhyātmānugatāyanamaḥ) [to-strength](balāyanamaḥ) [to-history](itihāsāyanamaḥ)
+[self+followed+to+obeisance](adhyātmānugatāyanamaḥ) [strength+to+obeisance](balāyanamaḥ) [itihāsa+to+obeisance](itihāsāyanamaḥ)
 
 ## mukta-m0-p122-v3044
-[to-subduer](vaśyāyanamaḥ) [to-subjugator](vaśakarāyanamaḥ) [to-time](kalayenamaḥ)
+[subject+to+obeisance](vaśyāyanamaḥ) [control+maker+to+obeisance](vaśakarāyanamaḥ) [time+to+obeisance](kalayenamaḥ)
 
 ## mukta-m0-p122-v3045
-[to-world-maker](lokakarttrenamaḥ) [to-pashupati](paśupatayenamaḥ) [to-great-maker](mahākarttrenamaḥ)
+[world+maker+to+obeisance](lokakarttrenamaḥ) [lord+of+beasts+to+obeisance](paśupatayenamaḥ) [great+maker+to+obeisance](mahākarttrenamaḥ)
 
 ## mukta-m0-p122-v3046
-[to-without-medicine](anauṣadhāyanamaḥ) [to-imperishable](akṣarāyanamaḥ) [to-supreme-brahman](paramabrahmaṇenamaḥ)
+[no+medicine+to+obeisance](anauṣadhāyanamaḥ) [imperishable+to+obeisance](akṣarāyanamaḥ) [supreme+brahman+to+obeisance](paramabrahmaṇenamaḥ)
 
 ## mukta-m0-p122-v3047
-[to-strong](balavatenamaḥ) [to-indra](śakrāyanamaḥ) [to-policy](nītayenamaḥ)
+[mighty+to+obeisance](balavatenamaḥ) [śakra+to+obeisance](śakrāyanamaḥ) [policy+to+obeisance](nītayenamaḥ)
 
 ## mukta-m0-p122-v3048
-[to-without-policy](anītayenamaḥ) [to-pure-soul](śuddhātmanenamaḥ) [to-pure](śuddhāyanamaḥ)
+[no+policy+to+obeisance](anītayenamaḥ) [pure+self+to+obeisance](śuddhātmanenamaḥ) [pure+to+obeisance](śuddhāyanamaḥ)
 
 ## mukta-m0-p122-v3049
-[to-honorable](mānyāyanamaḥ) [to-going-and-coming](gatāgatāyanamaḥ) [to-much-grace](bahuprasādāyanamaḥ)
+[honored+to+obeisance](mānyāyanamaḥ) [gone+gone+to+obeisance](gatāgatāyanamaḥ) [much+grace+to+obeisance](bahuprasādāyanamaḥ)
 
 ## mukta-m0-p122-v3050
-[to-veda-maker](vedakārāyanamaḥ) [to-mantra-maker](mantrakārāyanamaḥ) [to-knower](viduṣenamaḥ)
+[veda+maker+to+obeisance](vedakārāyanamaḥ) [mantra+maker+to+obeisance](mantrakārāyanamaḥ) [wise+to+obeisance](viduṣenamaḥ)

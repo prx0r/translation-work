@@ -7,20 +7,28 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "ṛtavenamaḥ",
-"quick_gloss": "ṛtu"
-},
-{
-"surface": "sa/vvatsarāyanamaḥ",
-"quick_gloss": "saṃvatsara"
-},
-{
-"surface": "māsāyanamaḥ",
-"quick_gloss": "māsa"
+"surface": "ṛtave",
+"quick_gloss": "to-season"
 },
 {
 "surface": "namaḥ",
-"quick_gloss": "namaḥ"
+"quick_gloss": "obeisance"
+},
+{
+"surface": "sa/vvatsarāya",
+"quick_gloss": "to-year"
+},
+{
+"surface": "namaḥ",
+"quick_gloss": "obeisance"
+},
+{
+"surface": "māsāya",
+"quick_gloss": "to-month"
+},
+{
+"surface": "namaḥ",
+"quick_gloss": "obeisance"
 }
 ]
 },
@@ -32,20 +40,28 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "pakṣāyanamaḥ",
-"quick_gloss": "pakṣa"
-},
-{
-"surface": "saṅkhyāsamāpanāyanamaḥ",
-"quick_gloss": "saṅkhyā-samāpana"
-},
-{
-"surface": "kalāyainamaḥ",
-"quick_gloss": "kalā"
+"surface": "pakṣāya",
+"quick_gloss": "to-fortnight"
 },
 {
 "surface": "namaḥ",
-"quick_gloss": "namaḥ"
+"quick_gloss": "obeisance"
+},
+{
+"surface": "saṅkhyā+samāpanāya",
+"quick_gloss": "to-number+completion"
+},
+{
+"surface": "namaḥ",
+"quick_gloss": "obeisance"
+},
+{
+"surface": "kalāyai",
+"quick_gloss": "to-digit"
+},
+{
+"surface": "namaḥ",
+"quick_gloss": "obeisance"
 }
 ]
 },
@@ -57,20 +73,28 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "kāṣṭhāyainamaḥ",
-"quick_gloss": "kāṣṭhā"
-},
-{
-"surface": "lavebhyonamaḥ",
-"quick_gloss": "lava"
-},
-{
-"surface": "mātrābhyonamaḥ",
-"quick_gloss": "mātrā"
+"surface": "kāṣṭhāyai",
+"quick_gloss": "to-instant"
 },
 {
 "surface": "namaḥ",
-"quick_gloss": "namaḥ"
+"quick_gloss": "obeisance"
+},
+{
+"surface": "lavebhyo",
+"quick_gloss": "to-moments"
+},
+{
+"surface": "namaḥ",
+"quick_gloss": "obeisance"
+},
+{
+"surface": "mātrābhyo",
+"quick_gloss": "to-measures"
+},
+{
+"surface": "namaḥ",
+"quick_gloss": "obeisance"
 }
 ]
 },
@@ -82,20 +106,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "muhūrttāhaḥkṣapābhyonamaḥ",
-"quick_gloss": "muhūrta-aha-kṣapā"
-},
-{
-"surface": "kṣaṇebhyonamaḥ",
-"quick_gloss": "kṣaṇa"
-},
-{
-"surface": "ādyanirgamāyanamaḥ",
-"quick_gloss": "ādi-nirgama"
+"surface": "muhūrttāhaḥ+kṣapābhyo",
+"quick_gloss": "to-muhūrta+day+nights"
 },
 {
 "surface": "namaḥ",
-"quick_gloss": "namaḥ"
+"quick_gloss": "obeisance"
+},
+{
+"surface": "kṣaṇebhyo",
+"quick_gloss": "to-instants"
+},
+{
+"surface": "namaḥ",
+"quick_gloss": "obeisance"
 }
 ]
 },
@@ -107,20 +131,28 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "sat",
-"quick_gloss": "sat"
-},
-{
-"surface": "asat",
-"quick_gloss": "asat"
-},
-{
-"surface": "vyaktāyanamaḥ",
-"quick_gloss": "vyakta"
+"surface": "ādy+anirgamāya",
+"quick_gloss": "to-first+emergence"
 },
 {
 "surface": "namaḥ",
-"quick_gloss": "namaḥ"
+"quick_gloss": "obeisance"
+},
+{
+"surface": "sate",
+"quick_gloss": "to-existent"
+},
+{
+"surface": "namaḥ",
+"quick_gloss": "obeisance"
+},
+{
+"surface": "asate",
+"quick_gloss": "to-non-existent"
+},
+{
+"surface": "namaḥ",
+"quick_gloss": "obeisance"
 }
 ]
 },
@@ -132,20 +164,28 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "avyaktāyanamaḥ",
-"quick_gloss": "avyakta"
-},
-{
-"surface": "pitrenamaḥ",
-"quick_gloss": "pitṛ"
-},
-{
-"surface": "mātrenamaḥ",
-"quick_gloss": "mātṛ"
+"surface": "vyaktāya",
+"quick_gloss": "to-manifest"
 },
 {
 "surface": "namaḥ",
-"quick_gloss": "namaḥ"
+"quick_gloss": "obeisance"
+},
+{
+"surface": "avyaktāya",
+"quick_gloss": "to-unmanifest"
+},
+{
+"surface": "namaḥ",
+"quick_gloss": "obeisance"
+},
+{
+"surface": "pitre",
+"quick_gloss": "to-father"
+},
+{
+"surface": "namaḥ",
+"quick_gloss": "obeisance"
 }
 ]
 },
@@ -157,20 +197,28 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "pitāmahāyanamaḥ",
-"quick_gloss": "pitāmaha"
-},
-{
-"surface": "svargadvārāyanamaḥ",
-"quick_gloss": "svarga-dvāra"
-},
-{
-"surface": "prajādvārāyanamaḥ",
-"quick_gloss": "prajā-dvāra"
+"surface": "mātre",
+"quick_gloss": "to-mother"
 },
 {
 "surface": "namaḥ",
-"quick_gloss": "namaḥ"
+"quick_gloss": "obeisance"
+},
+{
+"surface": "pitāmahāya",
+"quick_gloss": "to-grandfather"
+},
+{
+"surface": "namaḥ",
+"quick_gloss": "obeisance"
+},
+{
+"surface": "svarga+dvārāya",
+"quick_gloss": "to-heaven+door"
+},
+{
+"surface": "namaḥ",
+"quick_gloss": "obeisance"
 }
 ]
 },
@@ -182,20 +230,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "mokṣadvārāyanamaḥ",
-"quick_gloss": "mokṣa-dvāra"
-},
-{
-"surface": "brahmalokāyanamaḥ",
-"quick_gloss": "brahma-loka"
-},
-{
-"surface": "parāgatayenamaḥ",
-"quick_gloss": "parāgata"
+"surface": "prajā+dvārāya",
+"quick_gloss": "to-progeny+door"
 },
 {
 "surface": "namaḥ",
-"quick_gloss": "namaḥ"
+"quick_gloss": "obeisance"
+},
+{
+"surface": "mokṣa+dvārāya",
+"quick_gloss": "to-liberation+door"
+},
+{
+"surface": "namaḥ",
+"quick_gloss": "obeisance"
 }
 ]
 },
@@ -207,20 +255,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "devāsuravinirmātrenamaḥ",
-"quick_gloss": "deva-asura-vinirmātṛ"
-},
-{
-"surface": "devāsuraparāyaṇāyanamaḥ",
-"quick_gloss": "deva-asura-parāyaṇa"
-},
-{
-"surface": "devāsuraguravenamaḥ",
-"quick_gloss": "deva-asura-guru"
+"surface": "brahma+lokāya",
+"quick_gloss": "to-brahma+world"
 },
 {
 "surface": "namaḥ",
-"quick_gloss": "namaḥ"
+"quick_gloss": "obeisance"
+},
+{
+"surface": "parā+gataye",
+"quick_gloss": "to-supreme+goal"
+},
+{
+"surface": "namaḥ",
+"quick_gloss": "obeisance"
 }
 ]
 },
@@ -232,20 +280,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "devāyanamaḥ",
-"quick_gloss": "deva"
-},
-{
-"surface": "devāsuranamaskṛtāyanamaḥ",
-"quick_gloss": "deva-asura-namaskṛta"
-},
-{
-"surface": "devāsuramahāmātrāyanamaḥ",
-"quick_gloss": "deva-asura-mahāmātra"
+"surface": "deva+asura+vinirmātre",
+"quick_gloss": "to-god+demon+creator"
 },
 {
 "surface": "namaḥ",
-"quick_gloss": "namaḥ"
+"quick_gloss": "obeisance"
+},
+{
+"surface": "deva+asura+parāyaṇāya",
+"quick_gloss": "to-god+demon+supreme-refuge"
+},
+{
+"surface": "namaḥ",
+"quick_gloss": "obeisance"
 }
 ]
 },
@@ -257,20 +305,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "devāsuragaṇāgraṇyenamaḥ",
-"quick_gloss": "deva-asura-gaṇa-agraṇī"
-},
-{
-"surface": "devātidevāyanamaḥ",
-"quick_gloss": "deva-atideva"
-},
-{
-"surface": "devarṣṣayenamaḥ",
-"quick_gloss": "devarṣi"
+"surface": "deva+asura+gurave",
+"quick_gloss": "to-god+demon+teacher"
 },
 {
 "surface": "namaḥ",
-"quick_gloss": "namaḥ"
+"quick_gloss": "obeisance"
+},
+{
+"surface": "devāya",
+"quick_gloss": "to-god"
+},
+{
+"surface": "namaḥ",
+"quick_gloss": "obeisance"
 }
 ]
 },
@@ -282,20 +330,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "devāsuravarapradāyanamaḥ",
-"quick_gloss": "deva-asura-vara-prada"
-},
-{
-"surface": "devāsureśvarāyanamaḥ",
-"quick_gloss": "deva-asura-īśvara"
-},
-{
-"surface": "viśvāyanamaḥ",
-"quick_gloss": "viśva"
+"surface": "deva+asura+namaskṛtāya",
+"quick_gloss": "to-god+demon+saluted"
 },
 {
 "surface": "namaḥ",
-"quick_gloss": "namaḥ"
+"quick_gloss": "obeisance"
+},
+{
+"surface": "deva+asura+mahā+mātrāya",
+"quick_gloss": "to-god+demon+great-counsellor"
+},
+{
+"surface": "namaḥ",
+"quick_gloss": "obeisance"
 }
 ]
 },
@@ -307,20 +355,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "devāsuramaheśvarāyanamaḥ",
-"quick_gloss": "deva-asura-maheśvara"
-},
-{
-"surface": "sarvadevamayāyanamaḥ",
-"quick_gloss": "sarva-deva-maya"
-},
-{
-"surface": "acintyāyanamaḥ",
-"quick_gloss": "acintya"
+"surface": "deva+asura+gaṇa+agraṇye",
+"quick_gloss": "to-god+demon+host+chief"
 },
 {
 "surface": "namaḥ",
-"quick_gloss": "namaḥ"
+"quick_gloss": "obeisance"
+},
+{
+"surface": "deva+atidevāya",
+"quick_gloss": "to-god+of-gods"
+},
+{
+"surface": "namaḥ",
+"quick_gloss": "obeisance"
 }
 ]
 },
@@ -332,20 +380,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "devātmanenamaḥ",
-"quick_gloss": "deva-ātman"
-},
-{
-"surface": "ātmasambhavāyanamaḥ",
-"quick_gloss": "ātma-sambhava"
-},
-{
-"surface": "virajāyanamaḥ",
-"quick_gloss": "viraja"
+"surface": "deva+rṣṣaye",
+"quick_gloss": "to-divine+sage"
 },
 {
 "surface": "namaḥ",
-"quick_gloss": "namaḥ"
+"quick_gloss": "obeisance"
+},
+{
+"surface": "deva+asura+vara+pradāya",
+"quick_gloss": "to-god+demon+boon+giver"
+},
+{
+"surface": "namaḥ",
+"quick_gloss": "obeisance"
 }
 ]
 },
@@ -357,20 +405,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "nīrajāyanamaḥ",
-"quick_gloss": "nīraja"
-},
-{
-"surface": "amarāyanamaḥ",
-"quick_gloss": "amara"
-},
-{
-"surface": "īḍyāyanamaḥ",
-"quick_gloss": "īḍya"
+"surface": "deva+asura+īśvarāya",
+"quick_gloss": "to-god+demon+lord"
 },
 {
 "surface": "namaḥ",
-"quick_gloss": "namaḥ"
+"quick_gloss": "obeisance"
+},
+{
+"surface": "viśvāya",
+"quick_gloss": "to-all"
+},
+{
+"surface": "namaḥ",
+"quick_gloss": "obeisance"
 }
 ]
 },
@@ -382,20 +430,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "hastīśvarāyanamaḥ",
-"quick_gloss": "hastīśvara"
-},
-{
-"surface": "vyāghrāyanamaḥ",
-"quick_gloss": "vyāghra"
-},
-{
-"surface": "devasiṃhāyanamaḥ",
-"quick_gloss": "deva-siṃha"
+"surface": "deva+asura+mahā+īśvarāya",
+"quick_gloss": "to-god+demon+great-lord"
 },
 {
 "surface": "namaḥ",
-"quick_gloss": "namaḥ"
+"quick_gloss": "obeisance"
+},
+{
+"surface": "sarva+deva+mayāya",
+"quick_gloss": "to-all+god+consisting"
+},
+{
+"surface": "namaḥ",
+"quick_gloss": "obeisance"
 }
 ]
 },
@@ -407,20 +455,28 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "nararṣabhāyanamaḥ",
-"quick_gloss": "nara-ṛṣabha"
-},
-{
-"surface": "vibudhāyanamaḥ",
-"quick_gloss": "vibudha"
-},
-{
-"surface": "agravarāyanamaḥ",
-"quick_gloss": "agra-vara"
+"surface": "acintyāya",
+"quick_gloss": "to-inconceivable"
 },
 {
 "surface": "namaḥ",
-"quick_gloss": "namaḥ"
+"quick_gloss": "obeisance"
+},
+{
+"surface": "deva+ātmane",
+"quick_gloss": "to-god+self"
+},
+{
+"surface": "namaḥ",
+"quick_gloss": "obeisance"
+},
+{
+"surface": "ātma+sambhavāya",
+"quick_gloss": "to-self+born"
+},
+{
+"surface": "namaḥ",
+"quick_gloss": "obeisance"
 }
 ]
 },
@@ -432,20 +488,28 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "sūkṣmāyanamaḥ",
-"quick_gloss": "sūkṣma"
-},
-{
-"surface": "sarvadevāyanamaḥ",
-"quick_gloss": "sarva-deva"
-},
-{
-"surface": "tapomayāyanamaḥ",
-"quick_gloss": "tapo-maya"
+"surface": "virajāya",
+"quick_gloss": "to-passionless"
 },
 {
 "surface": "namaḥ",
-"quick_gloss": "namaḥ"
+"quick_gloss": "obeisance"
+},
+{
+"surface": "nīrajāya",
+"quick_gloss": "to-water-born"
+},
+{
+"surface": "namaḥ",
+"quick_gloss": "obeisance"
+},
+{
+"surface": "amarāya",
+"quick_gloss": "to-immortal"
+},
+{
+"surface": "namaḥ",
+"quick_gloss": "obeisance"
 }
 ]
 },
@@ -457,20 +521,28 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "suyuktāyanamaḥ",
-"quick_gloss": "suyukta"
-},
-{
-"surface": "śobhanāyanamaḥ",
-"quick_gloss": "śobhana"
-},
-{
-"surface": "vajriṇenamaḥ",
-"quick_gloss": "vajrin"
+"surface": "īḍyāya",
+"quick_gloss": "to-praiseworthy"
 },
 {
 "surface": "namaḥ",
-"quick_gloss": "namaḥ"
+"quick_gloss": "obeisance"
+},
+{
+"surface": "hastī+īśvarāya",
+"quick_gloss": "to-elephant+lord"
+},
+{
+"surface": "namaḥ",
+"quick_gloss": "obeisance"
+},
+{
+"surface": "vyāghrāya",
+"quick_gloss": "to-tiger"
+},
+{
+"surface": "namaḥ",
+"quick_gloss": "obeisance"
 }
 ]
 },
@@ -482,20 +554,28 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "prāsānāmprabhavāyanamaḥ",
-"quick_gloss": "prāsāda-prabhava"
-},
-{
-"surface": "avyayāyanamaḥ",
-"quick_gloss": "avyaya"
-},
-{
-"surface": "guhāyanamaḥ",
-"quick_gloss": "guhā"
+"surface": "deva+siṃhāya",
+"quick_gloss": "to-god+lion"
 },
 {
 "surface": "namaḥ",
-"quick_gloss": "namaḥ"
+"quick_gloss": "obeisance"
+},
+{
+"surface": "nara+rṣabhāya",
+"quick_gloss": "to-man+bull"
+},
+{
+"surface": "namaḥ",
+"quick_gloss": "obeisance"
+},
+{
+"surface": "vibudhāya",
+"quick_gloss": "to-wise"
+},
+{
+"surface": "namaḥ",
+"quick_gloss": "obeisance"
 }
 ]
 },
@@ -507,20 +587,28 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "kāntāyanamaḥ",
-"quick_gloss": "kānta"
-},
-{
-"surface": "śṛṅgiṇenamaḥ",
-"quick_gloss": "śṛṅgin"
-},
-{
-"surface": "śṛṅgapriyāyanamaḥ",
-"quick_gloss": "śṛṅga-priya"
+"surface": "agra+varāya",
+"quick_gloss": "to-foremost+excellent"
 },
 {
 "surface": "namaḥ",
-"quick_gloss": "namaḥ"
+"quick_gloss": "obeisance"
+},
+{
+"surface": "sūkṣmāya",
+"quick_gloss": "to-subtle"
+},
+{
+"surface": "namaḥ",
+"quick_gloss": "obeisance"
+},
+{
+"surface": "sarva+devāya",
+"quick_gloss": "to-all+god"
+},
+{
+"surface": "namaḥ",
+"quick_gloss": "obeisance"
 }
 ]
 },
@@ -532,20 +620,28 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "babhravenamaḥ",
-"quick_gloss": "babhru"
+"surface": "tapo+mayāya",
+"quick_gloss": "to-austerity+consisting"
 },
 {
 "surface": "namaḥ",
-"quick_gloss": "namaḥ"
+"quick_gloss": "obeisance"
+},
+{
+"surface": "suyuktāya",
+"quick_gloss": "to-well-united"
 },
 {
 "surface": "namaḥ",
-"quick_gloss": "namaḥ"
+"quick_gloss": "obeisance"
+},
+{
+"surface": "śobhanāya",
+"quick_gloss": "to-beautiful"
 },
 {
 "surface": "namaḥ",
-"quick_gloss": "namaḥ"
+"quick_gloss": "obeisance"
 }
 ]
 },
@@ -557,20 +653,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "namaḥ",
-"quick_gloss": "namaḥ"
+"surface": "vajriṇe",
+"quick_gloss": "to-thunderbolt-bearer"
 },
 {
 "surface": "namaḥ",
-"quick_gloss": "namaḥ"
+"quick_gloss": "obeisance"
+},
+{
+"surface": "prāsānām+prabhavāya",
+"quick_gloss": "to-spears+of+source"
 },
 {
 "surface": "namaḥ",
-"quick_gloss": "namaḥ"
-},
-{
-"surface": "namaḥ",
-"quick_gloss": "namaḥ"
+"quick_gloss": "obeisance"
 }
 ]
 },
@@ -582,20 +678,28 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "namaḥ",
-"quick_gloss": "namaḥ"
+"surface": "avyayāya",
+"quick_gloss": "to-imperishable"
 },
 {
 "surface": "namaḥ",
-"quick_gloss": "namaḥ"
+"quick_gloss": "obeisance"
+},
+{
+"surface": "guhāya",
+"quick_gloss": "to-hidden"
 },
 {
 "surface": "namaḥ",
-"quick_gloss": "namaḥ"
+"quick_gloss": "obeisance"
+},
+{
+"surface": "kāntāya",
+"quick_gloss": "to-lovely"
 },
 {
 "surface": "namaḥ",
-"quick_gloss": "namaḥ"
+"quick_gloss": "obeisance"
 }
 ]
 },
@@ -607,20 +711,28 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "namaḥ",
-"quick_gloss": "namaḥ"
+"surface": "śṛṅgiṇe",
+"quick_gloss": "to-horned"
 },
 {
 "surface": "namaḥ",
-"quick_gloss": "namaḥ"
+"quick_gloss": "obeisance"
+},
+{
+"surface": "śṛṅga+priyāya",
+"quick_gloss": "to-horn+dear"
 },
 {
 "surface": "namaḥ",
-"quick_gloss": "namaḥ"
+"quick_gloss": "obeisance"
+},
+{
+"surface": "babhrave",
+"quick_gloss": "to-brown"
 },
 {
 "surface": "namaḥ",
-"quick_gloss": "namaḥ"
+"quick_gloss": "obeisance"
 }
 ]
 }
