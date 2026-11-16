@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p106-v2626
-pale-backed(pāṇḍupṛṣṭhaḥ) and(ca) bad-day(durdinaḥ) good-day(sudinaḥ) thus(tathā)
+[pale-backed](pāṇḍupṛṣṭhaḥ) [and](ca) [bad-day](durdinaḥ) [good-day](sudinaḥ) [thus](tathā)
 
 ## mukta-m0-p106-v2627
-causing-to-be(bhāvanaḥ) lord(bhagavān) existence(bhavaḥ)
+[causing-to-be](bhāvanaḥ) [lord](bhagavān) [existence](bhavaḥ)
 
 ## mukta-m0-p106-v2628
-all-army(viśvasenaḥ) and(ca) all-pervading-army(viṣvaksenaḥ) spreading(visāraṇaḥ)
+[all-army](viśvasenaḥ) [and](ca) [all-pervading-army](viṣvaksenaḥ) [spreading](visāraṇaḥ)
 
 ## mukta-m0-p106-v2629
-desirous(kāmukaḥ) desireless(akāmukaḥ) and(ca) indeed(eva) desire-remover(kāma+hṛt) desire-destroyer(kāma+nāśanaḥ)
+[desirous](kāmukaḥ) [desireless](akāmukaḥ) [and](ca) [indeed](eva) [desire-remover](kāmahṛt) [desire-destroyer](kāmanāśanaḥ)
 
 ## mukta-m0-p106-v2630
-fire(agniḥ) fire-like(agni+samānaḥ) and(ca) flame-garlanded(jvālā+mālī) and(ca) all-devouring(viśva+bhuk)
+[fire](agniḥ) [fire-equal](agnisamānaḥ) [and](ca) [flame-garlanded](jvālāmālī) [and](ca) [all-devouring](viśvabhuk)
 
 ## mukta-m0-p106-v2631
-red-bodied(rakta+vapūḥ) smoky(dhūmraḥ) seven-flamed(sapta+arciḥ) universal-medicine(viśva+bheṣajaḥ)
+[red-bodied](raktavapūḥ) [smoky](dhūmraḥ) [seven-flamed](saptārciḥ) [universal-medicine](viśvabheṣajaḥ)
 
 ## mukta-m0-p106-v2632
-yoga-loving(yoga+priyaḥ) wood-born(dāru+jaḥ) and(ca) also(api) fiery(āgneyaḥ) destruction(nidhanaḥ) thus(tathā)
+[yoga-dear](yogapriyaḥ) [wood-born](dārujaḥ) [and](ca) [also](api) [fiery](āgneyaḥ) [destruction](nidhanam) [thus](tathā)
 
 ## mukta-m0-p106-v2633
-frog(maṇḍūḥ) frog-faced-and-crow-faced(maṇḍūka+kāka+āsyau) god(devaḥ) temple-priest(devalakaḥ) thus(tathā)
+[iron-rust](maṇḍūḥ) [frog](maṇḍūka) [crow-faced](kākāsyau) [god](devaḥ) [temple-priest](devalakaḥ) [thus](tathā)
 
 ## mukta-m0-p106-v2634
-droṇa(droṇaḥ) mārīca(mārīcaḥ) buffalo(mahiṣaḥ) terrible(bhīṣaṇaḥ) thus(tathā)
+[droṇa](droṇa) [mārīca](mārīcaḥ) [buffalo](mahiṣaḥ) [terrible](bhīṣaṇaḥ) [thus](tathā)
 
 ## mukta-m0-p106-v2635
-and(ca) indeed(eva) envious(matsarī) ascetic(maskaraḥ) thus(tathā)
+[and](ca) [indeed](eva) [envious](matsarī) [bamboo-staffed-ascetic](maskaraḥ) [thus](tathā)
 
 ## mukta-m0-p106-v2636
-lion-faced(siṃha+mukhaḥ) and(ca) indeed(eva) man-lion(nāra+siṃhaḥ) man(naraḥ) thus(tathā)
+[lion-faced](siṃhamukhaḥ) [and](ca) [indeed](eva) [man-lion](nārasiṃhaḥ) [man](naraḥ) [thus](tathā)
 
 ## mukta-m0-p106-v2637
-reed-eared(nāla+karṇaḥ) and(ca) thus(iti) in-fiery(āgneyyām) direction(diśi) seventy(saptatiḥ)
+[reed-eared](nālakarṇaḥ) [and](ca) [thus](iti) [in-fiery](āgneyyāṃ) [direction](diśi) [seventy](saptatiḥ)
 
 ## mukta-m0-p106-v2638
-lord-of-dead(preta+adhipaḥ) dharma(dharmaḥ) dark(kṛṣṇaḥ) dark-eyed(kṛṣṇa+akṣaḥ) indeed(eva) and(ca)
+[departed-lord](pretādhipaḥ) [dharma](dharmaḥ) [dark](kṛṣṇaḥ) [dark-eyed](kṛṣṇākṣaḥ) [indeed](eva) [and](ca)
 
 ## mukta-m0-p106-v2639
-death(kṛtāntaḥ) and(ca) truth(satyaḥ) truth-loving(satya+priyaḥ) friend(suhṛt)
+[death](kṛtāntaḥ) [and](ca) [truth](satyaḥ) [truth-dear](satyapriyaḥ) [friend](suhṛt)
 
 ## mukta-m0-p106-v2640
-dharma-born(dharma+jaḥ) and(ca) also(api) bowman(dhanvī) and(ca) humility(praśrayaḥ) conduct(nayaḥ)
+[dharma-born](dharmajaḥ) [and](ca) [also](api) [bowman](dhanvī) [and](ca) [humility](praśrayaḥ) [conduct](nayaḥ)
 
 ## mukta-m0-p106-v2641
-merciless(niranukrośaḥ) hunchback(kubjaḥ) dust-crusher(pāṃsu+vimardanaḥ)
+[merciless](niranukrośaḥ) [hunchbacked](kubjaḥ) [dust-crusher](pāṃsuvimardanaḥ)
 
 ## mukta-m0-p106-v2642
-protection(saṃrakṣaṇaḥ) thus(tathā)
+[protection](saṃrakṣaṇaḥ) [thus](tathā)
 
 ## mukta-m0-p106-v2643
-very-auspicious(subhadraḥ) and(ca) horn-bow-holder(śārṅgī) horn-bow-bearer(śārṅga+dharaḥ) thus(tathā)
+[very-auspicious](subhadraḥ) [and](ca) [horn-bow-holder](śārṅgī) [horn-bow-bearer](śārṅgadharaḥ) [thus](tathā)
 
 ## mukta-m0-p106-v2644
-lute-in-hand(vallakī+hastaḥ) two-tusked(dviradaḥ) body(vigrahaḥ) sky(ambaraḥ)
+[lute-in-hand](vallakīhastaḥ) [two-tusked](dviradaḥ) [body](vigrahaḥ) [sky](ambaraḥ)
 
 ## mukta-m0-p106-v2645
-demon(rākṣasaḥ) and(ca) asura(asuraḥ) flesh-eater(kravyād) hero-slayer(vīra+hā) dissolution(nir-ṛtiḥ) thus(tathā)
+[demon](rākṣasaḥ) [and](ca) [anti-god](asuraḥ) [flesh-eater](kravyād) [hero-slayer](vīrahā) [nirṛti](nir-ṛtiḥ) [thus](tathā)
 
 ## mukta-m0-p106-v2646
-son-of-kaikasī(kaikaseyaḥ) cruel(krūraḥ) cruel-bodied(krūra+vapuḥ) thus(tathā)
+[son-of-kaikasī](kaikaseyaḥ) [cruel](krūraḥ) [cruel-bodied](krūravapuḥ) [thus](tathā)
 
 ## mukta-m0-p106-v2647
-odd-eyed(vīrūpa+akṣaḥ) then(atha) ash-limbed(bhasma+aṅgaḥ) well-made(sukṛtiḥ) deformed(vikṛtiḥ) thus(tathā)
+[multiform-eyed](vīrūpākṣaḥ) [then](atha) [ash-limbed](bhasmāṅgaḥ) [virtuous](sukṛtiḥ) [deformed](vikṛtiḥ) [thus](tathā)
 
 ## mukta-m0-p106-v2648
-fleshy(māṃsakaḥ) and(ca) indeed(civa) demon(rākṣasaḥ) protector(rakṣakaḥ) thus(tathā)
+[fleshy](māṃsakaḥ) [and](ca) [indeed](iva) [demon](rākṣasaḥ) [protector](rakṣakaḥ) [thus](tathā)
 
 ## mukta-m0-p106-v2649
-hero-army(vīra+senaḥ) imperishable-eater(akṣara+aśaḥ) and(ca) life-giver(prāṇa+daḥ) sacred-syllable(praṇavaḥ) thus(tathā)
+[hero-army](vīrasenaḥ) [imperishable-eater](akṣarāśaḥ) [and](ca) [life-giver](prāṇadaḥ) [sacred-syllable](praṇavaḥ) [thus](tathā)
 
 ## mukta-m0-p106-v2650
-wide-eyed(viśāla+akṣaḥ) red-tongued(rakta+jihvaḥ) crooked(vijihmakaḥ)
+[wide-eyed](viśālākṣaḥ) [red-tongued](raktajihvaḥ) [crooked](vijihmakaḥ)
