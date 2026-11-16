@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p08-v176
-[dissolution-fire](pralayāgniḥ) [blue-footed](nīlapādaḥ) [imperishable](akṣaraḥ) [lord-of-beasts](paśupatiḥ) [moon](śaśī)
+[pralaya-fire](pralayāgnir) [blue-foot](nīlapādo') [imperishable](kṣaraḥ) [lord-of-beings](paśupatiḥ) [moon](śaśī)
 
 ## mukta-m0-p08-v177
-[fruitless](niṣphalā) [speech-ego](vāgahaṅkāraḥ) [confluence](prayāgaḥ) [fruitless](niṣphalaḥ) [passion-erotic](rāgaśṛṅgārau) [departure](prayāṇaḥ) [leader](grāmaṇīḥ) [fruit](phalam)
+[fruitless](niṣphalā) [speech](vāg) [ego](ahaṅkāraḥ) [prayāga](prayāgo) [fruitless](niṣphalo) [passion+beauty](rāgaśṛṅgārau) [departure](prayāṇo) [village-chief](grāmaṇīḥ) [fruit](phalam)
 
 ## mukta-m0-p08-v178
-[four](4) [oceans](pracetāḥ) [pot](kalasaḥ) [bird](pakṣī) [goat-neck](chagalaṇḍaḥ) [matted-hair](kapardinī)
+[varuṇa](pracetāḥ) [jar](kalasaḥ) [bird](pakṣī) [testicle](chagalaṇḍaḥ) [kapardinī](kapardinī)
 
 ## mukta-m0-p08-v179
-[moon-face](mu(su)khaindurvalī) [bell](ghaṇṭā) [warrior](yoddhā) [three-eyed-beloved](trilocanapriyaḥ)
+[beautiful-face](mu(su)kha) [moon](indur) [creeper](valī) [bell](ghaṇṭā) [warrior](yoddhā) [dear-to-three-eyed](trilocanapriyaḥ)
 
 ## mukta-m0-p08-v180
-[eight](8) [fragrant](surabhiḥ) [face-viṣṇu](mukha-viṣṇū) [dissolution](saṃhāraḥ) [earth-lord](vasudhādhipaḥ)
+[fragrant](surabhir) [face](mukha) [viṣṇu](viṣṇū) [and](ca) [dissolution](saṃhāro) [lord-of-earth](vasudhādhipaḥ)
 
 ## mukta-m0-p08-v181
-[early-āṣāḍhā](pūrvāṣāḍhā) [middle-liṅga](madhyaliṅge) [saturn](śaniḥ) [aquarius-third](kumbha-tṛtīyakau)
+[pūrvāṣāḍhā](pūrvāṣāḍhā) [middle-liṅga](madhyaliṅge) [saturn](śaniḥ) [aquarius](kumbha) [third-pair](tṛtīyakau)
 
 ## mukta-m0-p08-v182
-[twelve](12) [two-seeds](dviraṇḍaḥ) [ornament](bhūṣaṇaṃ) [root](mūlaṃ) [sacrificial-thread](yajñasūtrasya) [speaker](vācakaḥ)
+[two-testicles](dviraṇḍo) [ornament](bhūṣaṇaṃ) [root](mūlaṃ) [of-sacred-thread](yajñasūtrasya) [speaker](vācakaḥ)
 
 ## mukta-m0-p08-v183
-[navel](nābhiḥ) [auspicious](bhadraṃ) [mighty-armed](mahābāhuḥ) [universal-form](viśvamūrtiḥ) [crooked-tooth](vibhā(tu)ṇḍakaḥ) [formless](vimūrtikaḥ)
+[navel](nābhir) [auspicious](bhadraṃ) [great-armed](mahābāhur) [universal-form](viśvamūrtir) [vibhāṇḍaka](vibhā(tu)ṇḍakaḥ) [formless](vimūrtikaḥ)
 
 ## mukta-m0-p08-v184
-[sixteen](16) [bhīma](bhīmasenaḥ) [nectar-army](sudhāsenaḥ) [good-face](su(mu)khaṃ) [illusion](māyā) [city-destroyer](puraṃharaḥ)
+[bhīmasena](bhīmasenaḥ) [nectar-army](sudhāsenaḥ) [beautiful-face](su(mu)khaṃ) [illusion](māyā) [destroyer-of-cities](puraṃharaḥ)
 
 ## mukta-m0-p08-v185
-[vaikuṇṭha](vaikuṇṭhaḥ) [earth](vasudhā) [substance-giver](vastudā) [moon](candraḥ) [sun](raviḥ) [person-speaker](puruṣavācakaḥ)
+[vaikuṇṭha](vaikuṇṭho) [earth](vasudhā) [giver-of-things](vastudā) [moon](candro) [sun](raviḥ) [denoting-puruṣa](puruṣavācakaḥ)
 
 ## mukta-m0-p08-v186
-[one](1) [belly](jatharaṃ) [delusion](bhramā) [pride](mānaṃ) [lakṣmī](lakṣmīḥ) [mother-fierce-bond](mātogra-bandhane)
+[belly](jatharañ) [and](ca) [wandering](bhramā) [measure](mānaṃ) [lakṣmī](lakṣmīr) [mother](māto) [fierce-bonds](gra-bandhane)
 
 ## mukta-m0-p08-v187
 [intoxicated](pramattaḥ) [dear-son](priyasū) [rudra](rudraḥ) [all-limbs](sarvāṅgaṃ) [fire-circle](vahnimaṇḍalam)
 
 ## mukta-m0-p08-v188
-[four](4) [elephant-garland](mātaṅgamālinī) [drop](binduḥ) [śravaṇa-like](śravaṇābhaṃ) [chariot](rathaḥ) [sacrifice](makho) [sky](viyat)
+[mātaṅgamālinī](mātaṅgamālinī) [drop](binduḥ) [ear-sky](śravaṇābhaṃ) [chariot](ratho) [sacrifice](makho) [sky](viyat)
 
 ## mukta-m0-p08-v189
-[world-end](yugāntaḥ) [world-base](yugādhaḥ) [breath](śvasanaḥ) [swift](śīghraṃ) [smoke-flame](dhūmrārciḥ) [life-servant](prāṇisevakaḥ)
+[end-of-age](yugāntaḥ) [beginning-of-age](yugādhaḥ) [wind](śvasanaḥ) [swift](śīghraṃ) [smoke-flame](dhūmrārciḥ) [servant-of-beings](prāṇisevakaḥ)
 
 ## mukta-m0-p08-v190
-[eight](8) [saṅkarṣaṇa](saṅkarṣaṇaḥ) [night](kṣapā) [child](bālaḥ) [heart](hṛdayaṃ) [kapilā](kapilā) [radiance](prabhā)
+[saṅkarṣaṇa](saṅkarṣaṇaḥ) [night](kṣapā) [child](bālo) [heart](hṛdayaṃ) [kapilā](kapilā) [radiance](prabhā)
 
 ## mukta-m0-p08-v191
-[fierce](caṇḍaḥ) [all-lady](sarveśvarī) [smoke](dhūmaḥ) [cāmuṇḍā](cāmuṇḍā) [good-face-lady](sumukheśvarī)
+[fierce](caṇḍaḥ) [queen-of-all](sarveśvarī) [smoke](dhūmaś) [cāmuṇḍā](cāmuṇḍā) [lady-of-beautiful-face](sumukheśvarī)
 
 ## mukta-m0-p08-v192
-[twelve](12) [consciousness](cetanā) [drier](śoṣakaḥ) [fish](mīnaḥ) [dhaniṣṭhā](dhaniṣṭhā) [love-knower](anaṅgavedinī)
+[consciousness](cetanā) [dryer](śoṣako) [fish](mīno) [dhaniṣṭhā](dhaniṣṭhā') [knower-of-love](naṅgavedinī)
 
 ## mukta-m0-p08-v193
-[ram](meṣaḥ) [best](meṣṭhaḥ) [best](seṣṭaḥ) [moon](somaḥ) [row-named](paṅktināmā) [sin-destroyer](pāpahā) [life-named](prāṇasaṃjñakaḥ)
+[aries](meṣaḥ) [most-desired](meṣṭhaḥ) [remaining](seṣṭaḥ) [soma](somaḥ) [named-paṅkti](paṅktināmā) [sin-remover](pāpahā) [named-breath](prāṇasaṃjñakaḥ)
 
 ## mukta-m0-p08-v194
-[radiance](prakāśaḥ) [sight](darśanaḥ) [lamp](dīpaḥ) [alas](vata) [black](kṛṣṇaḥ) [red-black](raktakṛṣṇaḥ) [dust-thirst](rajastṛṣṇā) [great-strong](paraṃ) [strong](balī)
+[light](prakāśo) [vision](darśano) [lamp](dīpo) [alas](vata) [dark](kṛṣṇaḥ) [red-dark](raktakṛṣṇaḥ) [passion-thirst](rajastṛṣṇā) [supremely](paraṃ) [strong](balī)
 
 ## mukta-m0-p08-v195
-[pervading](vyāpakaḥ) [revatī](revatī) [garland](dāma) [krauñca-parts](krauñcāṃśau) [gift](dānaṃ) [belly-parts](kukṣyaṃśau) [servant](dāsaḥ) [dakṣa-parts](dakṣāṃśaḥ) [fire-circle](vahnimaṇḍalam)
+[pervading](vyāpako) [revatī](revatī) [garland](dāma) [krauñca-part](krauñcāṃśau) [gift](dānaṃ) [belly-part](kukṣyaṃśau) [servant](dāso) [skilled-part](dakṣāṃśaḥ) [fire-circle](vahnimaṇḍalam)
 
 ## mukta-m0-p08-v196
-[nature](prakṛtiḥ) [well-gone](sugataḥ) [good-group](sugaṇaḥ) [good-speech](sugalaḥ) [brahma-word](brahmaśabdaḥ) [singer](gāyakaḥ) [wealth](dhanam)
+[nature](prakṛtiḥ) [well-gone](sugato) [good-group](sugaṇo) [good-neck](sugalo) [brahma-word](brahmaśabdaś) [and](ca) [singer](gāyako) [wealth](dhanam)
 
 ## mukta-m0-p08-v197
-[with-drop](sabinduḥ) [womb-born](yonijaḥ) [flame](jvālā) [śrīśaila](śrīśailaḥ) [all-faced](viśvatomukhī)
+[with-bindu](sabindur) [womb-born](yonijo) [flame](jvālā) [śrīśaila](śrīśailo) [facing-all-directions](viśvatomukhī)
 
 ## mukta-m0-p08-v198
-[four](4) [younger-brother](balānujaḥ) [pinākī-lord](pinākīśaḥ) [pervading](vyāpakaḥ) [flesh-named](māṃsasaṃjñakaḥ)
+[younger-brother-of-bala](balānujaḥ) [lord-of-pināka](pinākīśo) [pervading](vyāpako) [named-flesh](māṃsasaṃjñakaḥ)
 
 ## mukta-m0-p08-v199
-[crest](śikhā) [speech](vāṁī) [action](kriyā) [mother](mātā) [beautiful](bhāminī) [beloved](kāminīpriyā)
+[flame](śikhā) [vāmī](vāṁī) [action](kriyā) [mother](mātāa) [lovely-woman](bhāminī) [dear-to-desire](kāminīpriyā)
 
 ## mukta-m0-p08-v200
-[eight](8) [universal-soul-two](viśvātma-mandau) [mantra](tma) [mantra](mantrau) [mandra](mandrau) [strong](balavān) [mind](cetaḥ) [meru-mountain](merurgiriḥ) [art-essence](kalārasaḥ)
+[universal-self](viśvātma) [slow-pair](mandau) [strong](balavān) [mantras](mantrau) [slow-pair](mandrau) [strong](balī) [mind](cetaḥ) [meru](merur) [mountain](giriḥ) [digit-essence](kalārasaḥ)

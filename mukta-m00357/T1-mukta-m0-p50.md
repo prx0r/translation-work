@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p50-v1226
-[in-rites](arcaneṣu) [by-one](anyatamena) [always](nityam) [should-worship](arcayet)
+[among-worships](arcaneṣu) [with-any-one](anyatamena) [constantly](nityam) [one-should-worship](arcayet)
 
 ## mukta-m0-p50-v1227
-[of-all](sarveṣām) [some](eke) [of-special-worship](viśeṣārcanasya) [festival-time](parvakālaḥ) [explained](vyākhyātaḥ)
+[of-all](sarveṣām) [some-say](eke) [of-special+worship](viśeṣārcanasya) [festival+time](parvakālo) [is-explained](vyākhyātaḥ)
 
 ## mukta-m0-p50-v1228
-[special-worship](viśeṣārcanam) [we-shall-declare](vakṣyāmaḥ)
+[special](viśeṣa) [+worship](arcanaṃ) [we-shall-explain](vakṣyāma) [now](iti)
 
 ## mukta-m0-p50-v1229
-[done-or-undone](kṛtākṛtam) [therefore](tasmāt) [that-special-worship](tadviśeṣārcanam) [thus](iti) [some](kecit)
+[that](tat) [+done+not-done](kṛtākṛtaṃ) [therefore](tasmāt) [that](tat) [+special+worship](viśeṣārcanam) [thus](iti) [some-say](kecit)
 
 ## mukta-m0-p50-v1230
-[not-different-from-daily-worship](naityārcanābhinnaṃ) [special-worship](viśeṣārcanam) [thus](iti) [some](eke)
+[daily+worship](naityārcanā) [+not-different](abhinnaṃ) [special+worship](viśeṣārcanam) [thus](iti) [some-say](eke)
 
 ## mukta-m0-p50-v1231
-[elder](jyeṣṭhaḥ) [knower-of-rite](jñātavidhiḥ) [then](tad) [anointing-with-garlands](anusraganulepanaḥ) [should-be](syāt)
+[the-best](jyeṣṭho) [known+method](jñātavidhis) [+that](tad) [+following+anointing](anusraganulepanaḥ) [should-be](syāt) [thus](iti)
 
 ## mukta-m0-p50-v1232
-[by-own-varṇa-and-āśrama](svavarṇāśramāmyām) [also](api) [superior](śreṣṭhaḥ) [should-be](syāt) [thus](iti) [some](eke)
+[by-own+varna+āśrama](svavarṇāśramābhyām) [even](api) [superior](śreṣṭhaḥ) [should-be](syāt) [thus](iti) [some-say](eke)
 
 ## mukta-m0-p50-v1233
-[with-praṇava-etc](praṇavādyaiḥ) [ending-in-fourth](caturthyantamadhyaiḥ) [with-those](taiḥ) [thousand-oblations](āhutisahasram) [should-offer](juhuyāt)
+[with-praṇava+etc.](praṇavādyaiś) [+ending-in-fourth-case](caturthyantamadhyais) [with-those](tair) [+oblation+thousand](āhutisahasraṃ) [one-should-offer](juhuyāt)
 
 ## mukta-m0-p50-v1234
-[some](kaṃcit) [lord](īśvaram) [non-primary-temporary](amukhyasāmayikāḥ) [by-special-worship](viśeṣārcanena) [worshipping](arcayiṣyantaḥ) [should-worship](arcayeyuḥ)
+[some](kaṃcid) [lord](īśvaram) [+non-chief+initiates](amukhyasāmayikā) [with-special+worship](viśeṣārcanenā) [+wishing-to-worship](rcayiṣyanto) [they-should-worship](’rcayeyuḥ)
 
 ## mukta-m0-p50-v1235
-[by-primary-temporary](mukhyasāmayikena)
+[by-chief+initiate](mukhyasāmayikena) [indeed](eva) [thus](iti) [or](vā)
 
 ## mukta-m0-p50-v1236
-[with-wine](madyaiḥ) [and-with-copulation](maithunaiśca)
+[with-intoxicants](madyair) [with-sexual-unions](maithunaiś) [+and](ca) [thus](iti) [or](vā)
 
 ## mukta-m0-p50-v1237
-[with-cool](śītena) [water](vāriṇā) [or-lukewarm](kavoṣṇena) [or-hot](uṣṇena)
+[with-cold](śītena) [or](vā) [with-water](ariṇā) [with-lukewarm](kavoṣṇena) [with-hot](uṣṇena) [or](vā)
 
 ## mukta-m0-p50-v1238
-[him](tam) [thus](evaṃ) [with-flowers](puṣpair) [worship](arcanam) [with-unbroken-rice](akṣatair) [or](vā) [thus](iti) [some](eke)
+[him](tam) [thus](evaṃ) [with-flowers](puṣpair) [worship](arcanam) [with-unbroken-rice](akṣatair) [or](vā) [thus](iti) [some-say](eke)
 
 ## mukta-m0-p50-v1239
-[then](tataḥ) [another](anyaṃ) [or](vā) [great](mahāntam) [if-desires](īhecet) [with-flowers](puṣpair) [having-worshipped](abhyarcya) [thus](evaṃ) [should-praise](stuvīta)
+[then](tato) [+another](’nyaṃ) [or](vā) [great-one](mahāntam) [if-one-desires](īheccet) [with-flowers](puṣpair) [having-worshipped](abhyarcya) [thus](evaṃ) [one-should-praise](stuvīta)
 
 ## mukta-m0-p50-v1240
-[should-take](gṛhṇīyāt) [thus](iti) [some](eke)
+[one-should-take](gṛhṇīyāt) [thus](iti) [some-say](eke) [indeed](eva)
 
 ## mukta-m0-p50-v1241
-[for-bhairava](bhairavāya) [sound](svānam) [for-brahman](brahmaṇe) [haṃsa](haṃsaṃ) [delightful](manoharam) [bird](pakṣiṇaṃ) [or](vā)
+[to-Bhairava](bhairavāya) [a-dog](svānaṃ) [to-Brahmā](brahmaṇe) [a-swan](haṃsaṃ) [charming](manoharaṃ) [bird](pakṣiṇaṃ) [or](vā)
 
 ## mukta-m0-p50-v1242
-[woman-too](stryapīti)
+[a-woman](strī) [+also](api) [thus](iti) [indeed](eva)
 
 ## mukta-m0-p50-v1243
-[oblations](āhutīḥ) [with-all](sarvaiḥ) [having-offered](hutvā) [remainder](śeṣaṃ) [should-complete](samāpayīta)
+[oblations](āhutīḥ) [with-all](sarvair) [having-offered](hutvā) [the-remainder](śeṣaṃ) [one-should-complete](samāpayīta)
 
 ## mukta-m0-p50-v1244
-[thus](evaṃ) [animal-sacrifice](paśuyāgam) [should-not-perform](nācaret) [learned](vidvān) [pārānanda](pārānandaḥ)
+[thus](evaṃ) [animal+sacrifice](paśuyāgaṃ) [should-not-perform](nācared) [the-wise](vidvān) [supremely-blissful](pārānandaḥ)
 
 ## mukta-m0-p50-v1245
-[once](ekadā) [should-perform](ācaret) [thus](iti) [some](eke)
+[once](ekadā) [only](eva) [one-should-perform](ācared) [thus](iti) [some-say](eke)
 
 ## mukta-m0-p50-v1246
-[kālī](kālīm) [worshipping](yajan) [liberation-while-living](jīvanmuktiṃ) [attained](jagāma) [therefore](tasmāt) [pārānanda](pārānandaḥ) [learned](vidvān) [there](tatrā) [should-perform](ācaret)
+[Kālī](kālīṃ) [worshipping](yajan) [living+liberation](jīvanmuktiṃ) [he-attained](jagāma) [therefore](tasmāt) [supremely-blissful](pārānando) [the-wise](vidvān) [there](tatra) [should-not-perform](na+ācaret)
 
 ## mukta-m0-p50-v1247
-[having-raised](uttārya) [should-hold](abhidhārayet) [if](yadi) [cloth](vastraṃ) [that](tat) [with-water](jalenā) [having-washed](plāvya) [that](tat) [blood](raktaṃ) [water](jalaṃ) [or](vā)
+[having-removed](uttārya) [one-should-hold](abhidhārayet) [if](yadi) [garment](vastraṃ) [that](taj) [+with-water](jalenā) [+having-washed](plāvya) [that+blood](tadraktaṃ) [water](jalaṃ) [or](vā)
 
 ## mukta-m0-p50-v1248
-[of-these](etayoḥ) [either](anyataraḥ) [uttareya](auttareyaḥ) [rite](vidhiḥ)
+[of-these-two](etayor) [one-of-the-two](anyatara) [northern](auttareyo) [rule](vidhiḥ)
 
 ## mukta-m0-p50-v1249
-[diseases](ādhyāḥ) [ailments](vyādhyāḥ) [trembling](vepadaḥ) [healthy](svasthaḥ) [daily-performance](nityanirvartanaṃ) [should-not-perform](na nirvartayet)
+[by-mental-distress](ādhyā) [by-disease](vyādhyā) [by-trembling](vepad) [+unwell](asvastho) [daily+performance](nityanirvartanaṃ) [not](na) [one-should-perform](nirvartayet)
 
 ## mukta-m0-p50-v1250
-[with-materials](saṃbhāraiḥ) [and](ca) [with-worships](pūjābhiḥ) [should-worship](pūjayīta)
+[with-materials](saṃbhāraiś) [+and](ca) [with-worships](pūjābhiḥ) [one-should-worship](pūjayīta) [thus](iti)

@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p49-v1201
-[kavaca+ādi-gen-pl](kavacādīnām) [eteṣām](eteṣām) [anadhyāya](anadhyāya) [mīmāṃsā](mīmāṃsā) [pūrvavat](pūrvavad) [iti](iti) [mahādeva](mahādevaḥ)
+[armor+etc.](kavaca+ādīnām) [of-these](eteṣām) [non-study+consideration](anadhyāya+mīmāṃsā) [as-before](pūrva+vat) [thus](iti) [Mahādeva](mahādevaḥ)
 
 ## mukta-m0-p49-v1202
-[pūrvavat](pūrvavad) [iti](iti) [śakti](śaktiḥ)
+[as-before](pūrva) [like](vat) [thus](iti) [Śakti](śaktiḥ)
 
 ## mukta-m0-p49-v1203
-[cet](cet) [pratyavāya](pratyavāyo) [na](na) [iti](iti) [janārdana](janārdanaḥ)
+[if](cet) [transgression](pratyavāyaḥ) [not](na) [thus](iti) [Janārdana](janārdanaḥ)
 
 ## mukta-m0-p49-v1204
-[dīkṣita-gen-pl](dīkṣitānā) [para+ānanda-mate](parānandamate) [puṇya+phala+udaya](puṇyaphalodaya) [iti](iti) [bhāskara](bhāskaraḥ)
+[of-the-initiated](dīkṣitānā) [in-Parānanda's+view](parānanda+mate) [merit+fruit+arising](puṇya+phala+udaya) [thus](iti) [Bhāskara](bhāskaraḥ)
 
 ## mukta-m0-p49-v1205
-[pāra+ānanda-tva-bhāvana](pārānandatvabhāvanaṃ) [ca](ca) [pāra+ānanda-gen-pl](pārānandānāṃ) [dīkṣita-gen-pl](dīkṣitānāṃ) [nityam](nityam) [iti](iti) [ekadanta](ekadantaḥ)
+[supreme-bliss-state+contemplation](pārānandatva+bhāvanaṃ) [and](ca) [of-the-supremely-blissful](pārānandānāṃ) [of-the-initiated](dīkṣitānāṃ) [constant](nityam) [thus](iti) [Ekadanta](ekadantaḥ)
 
 ## mukta-m0-p49-v1206
-[yāvat](yāvattāvannirvartayedekadā) [tāvat](yāvattāvannirvartayedekadā) [nirvartayet](yāvattāvannirvartayedekadā) [ekadā](yāvattāvannirvartayedekadā) [sudhī](sudhīrityunmattabhairavaḥ) [iti](sudhīrityunmattabhairavaḥ) [unmatta+bhairava](sudhīrityunmattabhairavaḥ)
+[as-long-as](yāvat) [so-long](tāvat) [one-should-perform](nirvartayet) [at-once](ekadā) [the-wise-one](sudhīḥ) [thus](iti) [Unmattabhairava](unmattabhairavaḥ)
 
 ## mukta-m0-p49-v1207
-[āpatsu](āpatsvityetaditi) [iti](āpatsvityetaditi) [etat](āpatsvityetaditi) [iti](āpatsvityetaditi) [dig+bhairava](digbhairavaḥ)
+[in-calamities](āpatsu) [thus](iti) [this](etat) [thus](iti) [Digbhairava](digbhairavaḥ)
 
 ## mukta-m0-p49-v1208
-[vā](vābhyuttarayorityākāśabhairavaḥ) [abhyuttarayoḥ](vābhyuttarayorityākāśabhairavaḥ) [iti](vābhyuttarayorityākāśabhairavaḥ) [ākāśa+bhairava](vābhyuttarayorityākāśabhairavaḥ)
+[or](vā) [in-the-reply](abhyuttarayoḥ) [thus](iti) [Ākāśabhairava](ākāśabhairavaḥ)
 
 ## mukta-m0-p49-v1209
-[kavaca+sahasra+nāma+pāṭhau](kavacasahasranāmapāṭhau) [vaivam](vaivamiti) [iti](vaivamiti) [kāla+bhairava](kālabhairavaḥ)
+[armor+thousand-name+recitations](kavaca+sahasranāma+pāṭhau) [or](vā) [thus](evam) [thus](iti) [Kālabhairava](kālabhairavaḥ)
 
 ## mukta-m0-p49-v1210
-[śrautena](śrautena) [vidhinā](vidhinā) [sarve](sarve)
+[by-Vedic](śrautena) [by-rule](vidhinā) [all](sarve) [should-act](sarve)
 
 ## mukta-m0-p49-v1211
-[devatām](devatāṃ) [paśyati](paśyati) [śrauta+tāntra+smārta+sva+upakḷpta](śrautatāntrasmārtasvopakḷpteṣūttarottaraḥ) [uttarottaraḥ](śrautatāntrasmārtasvopakḷpteṣūttarottaraḥ) [kanīyān](kanīyān)
+[deity](devatāṃ) [sees](paśyati) [in-Vedic+Tantric+Smārta+prescribed](śrauta+tāntra+smārta+sva+upakḷpteṣu) [successively](uttara+uttaraḥ) [inferior](kanīyān)
 
 ## mukta-m0-p49-v1212
-[yathāyathā](yathāyathā) [naityam](naityaṃ) [nirvartayati](nirvartayati) [jīva](jīvastathātathā) [tathātathā](jīvastathātathā) [sāntam](sāntaṃ) [parigṛhṇāti](parigṛhṇāti)
+[in-whatever-manner](yathā+yathā) [daily-rite](naityaṃ) [performs](nirvartayati) [the-living-being](jīvaḥ) [in-that-manner](tathā+tathā) [with-remainder](sāntaṃ) [accepts](parigṛhṇāti)
 
 ## mukta-m0-p49-v1213
-[pratīkaṃ](pratīkaṃ) [dvidhā](dvidhā) [divyam](divyam) [adivyaṃ](adivyaṃ) [ca](ca)
+[image](pratīkaṃ) [twofold](dvidhā) [divine](divyam) [and-non-divine](a+divyaṃ) [and](ca)
 
 ## mukta-m0-p49-v1214
-[sarva+bhūta+ruta+jñāḥ](sarvabhūtarutajñāḥ) [siddhāḥ](siddhāstadanyathā) [tat](siddhāstadanyathā) [anyathā](siddhāstadanyathā) [ye](ye) [te](te) [tu](tvasiddhaḥ) [asiddhaḥ](tvasiddhaḥ)
+[all+being+sound+knowers](sarva+bhūta+ruta+jñāḥ) [accomplished-ones](siddhāḥ) [than-them+otherwise](tat+anyathā) [who](ye) [they](te) [indeed-unaccomplished](tu+a+siddhaḥ)
 
 ## mukta-m0-p49-v1215
-[siddhaiḥ](siddhaiḥ) [pratiṣṭhāpitam](pratiṣṭhāpitaṃ) [divyaṃ](divyaṃ) [tat](tadanyaiḥ) [anyaiḥ](tadanyaiḥ) [pratiṣṭhāpitam](pratiṣṭhāpitamadivyam) [adivyaṃ](pratiṣṭhāpitamadivyam)
+[by-accomplished-ones](siddhaiḥ) [consecrated](pratiṣṭhāpitaṃ) [divine](divyaṃ) [by-others-than-them](tat+anyaiḥ) [consecrated](pratiṣṭhāpitaṃ) [non-divine](a+divyam)
 
 ## mukta-m0-p49-v1216
-[upalakāṣṭheṣu](upalakāṣṭheṣu) [pārānanda](pārānando'pi) [api](pārānando'pi) [devatā](devatā) [pūjayet](pūjayedityeke) [iti](pūjayedityeke) [eke](pūjayedityeke)
+[in-stones+and-wood](upa+la+kāṣṭheṣu) [the-supremely-blissful](pārānandaḥ) [also](api) [deity](devatā) [should-worship](pūjayet) [thus](iti) [some](eke)
 
 ## mukta-m0-p49-v1217
-[kuryāt](kuryāt)
+[one-should-do](kuryāt) [one-should-do](kuryāt) [one-should-do](kuryāt) [one-should-do](kuryāt)
 
 ## mukta-m0-p49-v1218
-[ca](ca) [pṛthak](pṛthak) [pṛthak](pṛthakkuryuḥ) [kuryuḥ](pṛthakkuryuḥ)
+[and](ca) [separately](pṛthak) [separately](pṛthak) [they-should-do](kuryuḥ)
 
 ## mukta-m0-p49-v1219
-[bhavati](bhavatyekena) [ekena](bhavatyekena) [visarjitaḥ](visarjitaḥ) [sarvaiḥ](sarvaireva) [eva](sarvaireva) [visarjitaḥ](visarjito) [bhavati](bhavatītyunmattabhairavaḥ) [iti](bhavatītyunmattabhairavaḥ) [unmatta+bhairava](bhavatītyunmattabhairavaḥ)
+[becomes](bhavati) [by-one](ekena) [dismissed](visarjitaḥ) [by-all](sarvaiḥ) [indeed](eva) [dismissed](visarjito) [becomes](bhavati) [thus](iti) [Unmattabhairava](unmattabhairavaḥ)
 
 ## mukta-m0-p49-v1220
-[bahu+vidhāni](bahuvidhāni) [pratīkāni](pratīkāni) [bhavanti](bhavanti)
+[of-many-kinds](bahu+vidhāni) [images](pratīkāni) [are](bhavanti) [indeed](bhavanti)
 
 ## mukta-m0-p49-v1221
-[nivedakaḥ](nivedako) [dvividhaḥ](dvividhaḥ)
+[offerer](nivedakaḥ) [twofold](dvi+vidhaḥ) [is](dvi+vidhaḥ) [indeed](nivedakaḥ)
 
 ## mukta-m0-p49-v1222
-[sādhakaḥ](sādhakaḥ) [siddhaḥ](siddhaśca) [ca](siddhaśca)
+[practitioner](sādhakaḥ) [accomplished-one](siddhaḥ) [and](ca) [twofold](sādhakaḥ)
 
 ## mukta-m0-p49-v1223
-[devatā+upabhuktam](devatopabhuktamucchiṣṭaṃ) [ucchiṣṭaṃ](devatopabhuktamucchiṣṭaṃ) [bhuṅkte](bhuṅkte) [sa](sa) [siddhaḥ](siddhaḥ)
+[deity+enjoyed+remnant](devatā+upabhuktam+ucchiṣṭaṃ) [eats](bhuṅkte) [he](sa) [accomplished-one](siddhaḥ)
 
 ## mukta-m0-p49-v1224
-[vācā](vācā) [devatā](devatā) [prārthyate](prārthyate) [yena](yena) [sa](sa) [sādhakaḥ](sādhako'cireṇaiva) [acireṇa](sādhako'cireṇaiva) [eva](sādhako'cireṇaiva) [siddha](siddha) [sampadyate](sampadyate)
+[by-speech](vācā) [deity](devatā) [is-prayed-to](prārthyate) [by-whom](yena) [he](sa) [practitioner](sādhakaḥ) [in-no-long-time](a+cireṇa+eva) [accomplished](siddha) [becomes](sampadyate)
 
 ## mukta-m0-p49-v1225
-[na](nānyasyā) [anyasyāḥ](nānyasyā) [devatāyāḥ](devatāyā) [āvāhanaṃ](āvāhanaṃ) [pūjanaṃ](pūjanaṃ) [ca](ca) [jāyate](jāyate)
+[not](na) [of-another](anyasyā) [deity](devatāyā) [invocation](āvāhanaṃ) [worship](pūjanaṃ) [and](ca) [occurs](jāyate)

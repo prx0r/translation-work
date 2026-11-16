@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p34-v826
-[various-ornaments-endowed](nānālaṅkārasaṃyuktaṃ) [yellow-sandal-anointed](pītacandanacarcitam) [thus](iti) [meditation](dhyānaṃ) [of-Vishnu](viṣṇoḥ)
+[various](nānā)+[ornament](alaṅkāra)+[endowed-with](saṃyuktaṃ) [yellow](pīta)+[sandalwood](candana)+[smeared-with](carcitam) [thus](iti) [meditation](dhyānaṃ) [of-Viṣṇu](viṣṇoḥ)
 
 ## mukta-m0-p34-v827
-[various-ornaments-endowed](nānālaṅkārasaṃyuktāṃ) [saffron-agaru-anointed](kuṅkumāgarucarcitām) [thus](iti) [meditation](dhyānaṃ) [of-Shakti](śakteḥ)
+[various](nānā)+[ornament](alaṅkāra)+[endowed-with](saṃyuktāṃ) [saffron](kuṅkuma)+[aloewood](agaru)+[smeared-with](carcitām) [thus](iti) [meditation](dhyānaṃ) [of-the-Goddess](śakteḥ)
 
 ## mukta-m0-p34-v828
-[various-ornaments-endowed](nānālaṅkārasaṃyuktaṃ) [red-sandal-anointed](raktacandanacarcitam) [thus](iti) [meditation](dhyānaṃ) [of-Surya](sūryasya)
+[various](nānā)+[ornament](alaṅkāra)+[endowed-with](saṃyuktaṃ) [red](rakta)+[sandalwood](candana)+[smeared-with](carcitam) [thus](iti) [meditation](dhyānaṃ) [of-the-Sun](sūryasya)
 
 ## mukta-m0-p34-v829
-[human-form](manuṣyavigrahāṃ) [Kali](kālikāṃ) [meditate](dhyāyedbhakta) [thus](iti) [meditation](dhyānaṃ) [of-Kali](kālikāyāḥ)
+[human](manuṣya)+[form](vigrahāṃ) [Kālikā](kālikāṃ) [should-meditate](dhyāyet)+[devotee](bhakta) [thus](iti) [meditation](dhyānaṃ) [of-Kālikā](kālikāyāḥ)
 
 ## mukta-m0-p34-v830
-[Tara-etc](tārādyā) [great-vidyas](mahāvidyāḥ) [lion-posture](siṃhanyāṣa)
+[Tārā](tārā)+[and-others](ādyāḥ) [great](mahā)+[vidyās](vidyāḥ) [lion](siṃha)+[nyāsa](nyāṣa)
 
 ## mukta-m0-p34-v831
-[of-great-vidyas](mahāvidyānāṃ) [separate-separate-forms](pṛthagpṛthagākārāni) [vehicles](vāhanānīcchanti)
+[of-the-great-vidyās](mahāvidyānāṃ) [separately](pṛthag)+[separately](pṛthag)+[forms](ākārāni) [vehicles](vāhanāni)+[they-desire](icchanti)
 
 ## mukta-m0-p34-v832
 [axe](paraśuḥ)
 
 ## mukta-m0-p34-v833
-[handle-weapon-fist](tsarurāyudhamuṣṭiḥ)
+[handle](tsaru)+[weapon](rāyudha)+[grip](muṣṭiḥ)
 
 ## mukta-m0-p34-v834
-[everywhere](sarvatra) [handle](tsaruḥ) [six-angulas](ṣaḍaṅgulaḥ)
+[everywhere](sarvatra) [handle](tsaruḥ) [six](ṣaḍ)+[aṅgulas](aṅgulaḥ)
 
 ## mukta-m0-p34-v835
-[this-form-goad](etadākāroṅkuśaḥ)
+[this](etad)+[form](ākāraḥ)+[goad](aṅkuśaḥ)
 
 ## mukta-m0-p34-v836
-[serpent](nāgaḥ) [noose](pāśaḥ)
+[serpent](nāgaḥ) [noose](pāśaḥ) [||](||) [100](100)
 
 ## mukta-m0-p34-v837
-[lotus-stalk](kamaladaṇḍo) [two-vitastis](dvivitastiḥ)
+[lotus](kamala)+[stalk](daṇḍaḥ) [two](dvi)+[vitastis](vitastiḥ)
 
 ## mukta-m0-p34-v838
-[by-that-measure](tadīyena+mānenotthito) [mouse](mūṣakaḥ) [seven-vitastis-raised](saptavitastirucchrita) [long](āyatastadanu) [vitasti](vitastiḥ)
+[by-that](tadīyena) [measure](mānena)+[raised](utthitaḥ) [mouse](mūṣakaḥ) [seven](sapta)+[vitastis](vitastiḥ)+[high](ucchritaḥ) [long](āyataḥ)+[after-that](tadanu) [one-vitasti](vitastiḥ)
 
 ## mukta-m0-p34-v839
-[all](sarva) [lords](eveśvarāḥ) [seven-vitastis-raised](saptavitastyucchritāstadanukūlato) [accordingly-proportioned](yathāyathamāyatāḥ)
+[all](sarve) [indeed](eva)+[lords](īśvarāḥ) [seven](sapta)+[vitastis](vitasti)+[high](ucchritāḥ)+[according-to-that](tadanukūlataḥ) [as-appropriate](yathāyatham)+[long](āyatāḥ)
 
 ## mukta-m0-p34-v840
-[their-feet](tatpāripadāstadvanmanuṣyākṛtayastadanusraganulepanāḥ)
+[their](tat)+[attendants](pāripadāḥ)+[of-that](tadvat)+[human](manuṣya)+[forms](ākṛtayaḥ)+[following-them](tadanusraga)+[anointed](anulepanāḥ)
 
 ## mukta-m0-p34-v841
 [powers](śaktayaḥ)
 
 ## mukta-m0-p34-v842
-[offering](tarpaṇaṃ) [flower](puṣpaṃ) [becomes](bhavati) [thus](iti) [Kala-Bhairava](kālabhairavaḥ)
+[libation](tarpaṇaṃ) [flower](puṣpaṃ) [becomes](bhavati) [thus](iti) [Kālabhairava](kālabhairavaḥ)
 
 ## mukta-m0-p34-v843
-[beaten-on-faces](mukhayostāḍyamānaḥ) [sound-maker](śabdakṛdetadākāro) [drum](ḍamarurmahādevasya)
+[on-the-faces](mukhayoḥ)+[being-struck](tāḍyamānaḥ) [sound](śabda)+[making](kṛt)+[this](etad)+[form](ākāraḥ) [drum](ḍamaruḥ)+[of-Mahādeva](mahādevasya)
 
 ## mukta-m0-p34-v844
-[with-space](sākāśaṃ) [inside](antasta) [support](ādhārametadākāraṃ) [wheel](cakraṃ) [of-Narayana](nārāyaṇasya)
+[with-space](sākāśaṃ) [within](antaḥ)+[that](taḥ) [support](ādhāram)+[this](etad)+[form](ākāraṃ) [discus](cakraṃ) [of-Nārāyaṇa](nārāyaṇasya)
 
 ## mukta-m0-p34-v845
-[lines](rekhāstato'ṅguṣṭhaparvamātrāṇiretadākārā) [mace](gadā) [of-Vasudeva](vāsudevasya)
+[lines](rekhāḥ)+[from-that](tataḥ)+[thumb](aṅguṣṭha)+[joint](parva)+[measures](mātrāṇi)+[this](etad)+[form](ākārā) [mace](gadā) [of-Vāsudeva](vāsudevasya)
 
 ## mukta-m0-p34-v846
-[anjali-measured](añjalimitāyato) [vitasti-measured](vitastimātro) [long](dīrghaḥ) [conch](śaṅkho) [of-Vishnu](viṣṇoḥ)
+[fist](añjali)+[measure](mitā)+[long](āyataḥ) [vitasti](vitasti)+[measure](mātraḥ) [long](dīrghaḥ) [conch](śaṅkhaḥ) [of-Viṣṇu](viṣṇoḥ)
 
 ## mukta-m0-p34-v847
-[Kurukulla-power](kurukullāśaktiḥ) [sword-abhaya-handed](khaḍgābhayakarā) [Chandika-power](caṇḍikāśaktiśca)
+[Kurukullā](kurukullā)+[power](śaktiḥ) [sword](khaḍga)+[fearlessness](abhaya)+[handed](karā) [and](ca)+[Caṇḍikā](caṇḍikā)+[power](śaktiḥ)+[and](ca)
 
 ## mukta-m0-p34-v848
-[six-angulas-handle](ṣaḍaṅgulatsaruka) [this-form](etadākāraḥ) [sword](khaḍgaḥ)
+[six](ṣaḍ)+[aṅgula](aṅgula)+[handled](tsarukaḥ) [this](etad)+[form](ākāraḥ) [sword](khaḍgaḥ)
 
 ## mukta-m0-p34-v849
-[hand-operation](karavyāpāreṇa) [sound-maker](nādakarī) [this-form](etadākārā) [bell](ghaṇṭā)
+[by-hand](kara)+[movement](vyāpāreṇa) [sound](nāda)+[making](karī) [this](etad)+[form](ākārā) [bell](ghaṇṭā)
 
 ## mukta-m0-p34-v850
-[Kadi-great-vidyas](kādyā+mahāvidyāḥ) [all](sarvā) [ten-years](daśavārṣikyaḥ)
+[beginning-with-Kā](kā)+[and-others](ādyāḥ) [great](mahā)+[vidyās](vidyāḥ) [all](sarvāḥ) [ten](daśa)+[year-old-girls](vārṣikyaḥ)
