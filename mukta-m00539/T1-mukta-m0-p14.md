@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p14-v326
-[yakṣa](yakṣā) [+](a) [vidyādhara](vidhādharāś) [+](ca) [and](ca) [+](iva) [indeed](eva) [likewise](tathā) [kim-puruṣa](kiṃ+puruṣā) [+](dayaḥ) [and-others](ādayaḥ)
+[yakṣa](yakṣā) + [vidyādhara](vidhādharāś) + [and](ca) + [indeed](eva) [likewise](tathā) [kimpuruṣa](kiṃ) + [puruṣa](puruṣādayaḥ) + [and-others](puruṣādayaḥ)
 
 ## mukta-m0-p14-v327
-[guru](gurv) [+](āyatte) [dependent-on](āyatte) [because](yataḥ) [all](sarva) [three-worlds](trailokyaṃ) [that](sa) [with](cara) [+](acaram) [moving-and-unmoving](carācaram)
+[guru](gurv) + [dependent-on](āyatte) [because](yataḥ) [all](sarva) [three-worlds](trailokyaṃ) [that](sa) [moving](cara) + [unmoving](acaram)
 
 ## mukta-m0-p14-v328
-[guru](guruṃ) [with-whole](sarvā) [+](tma) [+](bhāvena) [self-disposition](ātmabhāvena) [afterwards](paścād) [blind](dināndha) [+](pūjanam) [worship](pūjanam)
+[guru](guruṃ) [all](sarvā) + [self](tma) + [with-disposition](bhāvena) [afterwards](paścād) + [day](dinā) + [blind](ndha) + [worship](pūjanam)
 
 ## mukta-m0-p14-v329
-[should-do](kuryāt) [+](tapasvi) [ascetic](tapasvi) [of-brahmins](viprāṇāṃ) [in-actors](naṭa) [+](gāyanakeṣu) [+](a) [and-singers](gāyanakeṣua) [+](ca) [and](ca)
+[should-do](kuryāt) + [ascetic](tapasvi) [of-brahmins](viprāṇāṃ) [actor](naṭa) + [singer](gāyanakeṣua) + [and](ca)
 
 ## mukta-m0-p14-v330
-[to-guru](gurave) [supreme](parama) [+](īśāya) [lord](eśāya) [own](svā) [+](tmānaṃ) [self](ātmānaṃ) [should-offer](vinivedayet)
+[to-guru](gurave) [supreme](param) + [lord](eśāya) [own](svā) + [self](tmānaṃ) [should-offer](vinivedayet)
 
 ## mukta-m0-p14-v331
-[guru](guravas) [+](te) [they](te) [+](api) [also](api) [to-be-known](vijñeyāḥ) [well](su) [+](sammānyāḥ) [to-be-honored](sammānyāḥ) [guru](gurur) [+](yathā) [as](yathā)
+[gurus](guravas) + [of-him](te) + [also](pi) [to-be-known](vijñeyāḥ) [well](su) + [to-be-honored](sammānyā) [guru](gurur) + [as](yathā)
 
 ## mukta-m0-p14-v332
-[common](samānya) [+](ayogyatām) [unfitness](ayogyatām) [+](īkṣate) [observes](īkṣate) [by-knowledge](jñānā) [+](') [+](jñā) [+](ādibhiḥ) [ignorance-and-others](jñādibhiḥ) [in-order](kramāt)
+[general](samānyā) + [unfitness](yogyatām) + [observes](īkṣate) [knowledge](jñānā') + [ignorance](jñā) + [and-others](dibhiḥ) [in-order](kramāt)
 
 ## mukta-m0-p14-v333
-[that](tan) [+](mūlāḥ) [rooted-in](mūlāḥ) [powers](siddhayaḥ) [all](sarvāḥ) [everywhere](sarvatra) [+](iva) [indeed](eva) [established](vyavasthitāḥ)
+[that](tan) + [rooted](mūlāḥ) [powers](siddhayaḥ) [all](sarvāḥ) [everywhere](sarvatra) + [indeed](eva) [established](vyavasthitāḥ)
 
 ## mukta-m0-p14-v334
-[scripture](śāstra) [+](lope) [destruction](lope) [done](kṛte) [destroyed](luptaḥ) [himself](svayaṃ) [god](devo) [great-lord](maheśvaraḥ)
+[scripture](śāstra) + [transgression](lope) [done](kṛte) [destroyed](luptaḥ) [himself](svayaṃ) [god](devo) [great-lord](maheśvaraḥ)
 
 ## mukta-m0-p14-v335
-[then](tato) [destroyed](vilupta) [+](saṃkāro) [consecration](saṃkāro) [in-hell](naraka) [+](ādiṣu) [and-others](ādiṣu) [is-cooked](pacyate)
+[then](tato) [destroyed](vilupta) + [consecration](saṃkāro) [hell](narakā) + [and-others](diṣu) [is-cooked](pacyate)
 
 ## mukta-m0-p14-v336
 [observant-of-vow](samayasthaṃ) [come](samāyānti) [for-dwelling](nivāsāyāṃ) [indeed](hi) [powers](siddhayaḥ)
 
 ## mukta-m0-p14-v337
-[may-split](sphoṭayec) [+](chaila) [+](vṛkṣāṃś) [rocks-and-trees](chailavṛkṣāṃś) [+](ca) [and](ca) [vow](samaya) [+](ācāra) [+](pālanāt) [conduct-observance](ācārapālanāt)
+[may-split](sphoṭayec) + [rock](chaila) + [trees](vṛkṣāṃś) + [and](ca) [vow](samayā) + [conduct](cāra) + [by-observance](pālanāt)
 
 ## mukta-m0-p14-v338
-[should-bow](praṇamen) [+](na) [not](na) [guru](guruṃ) [disciple](śiṣyaḥ) [with-body](kāyena) [with-mind](manasā) [should-bow](namet)
+[should-bow](praṇamen) + [not](na) [guru](guruṃ) [disciple](śiṣyaḥ) [with-body](kāyena) [with-mind](manasā) [should-bow](namet)
 
 ## mukta-m0-p14-v339
-[in-shaving](vapane) [in-vomiting](vamane) [and](ca) [+](iva) [indeed](eva) [should-bow](praṇamen) [+](na) [not](na) [guru](guruṃ) [child](śiśuḥ)
+[in-shaving](vapane) [in-vomiting](vamane) [and](ca) + [indeed](eva) [should-bow](praṇamen) + [not](na) [guru](guruṃ) [child](śiśuḥ)
 
 ## mukta-m0-p14-v340
-[guru](guror) [+](agre) [in-front](agre) [likewise](tathā) [+](ikānte) [in-solitude](ekānte) [with-hands-clasped](vipṇvadhastād) [+](gurau) [guru](gurau) [standing](sthite)
+[guru](guror) + [in-front](agre) [likewise](tathā) + [in-seclusion](ikānte) [joined-hands](vipṇvadhastād) + [guru](gurau) [being-situated](sthite)
 
 ## mukta-m0-p14-v341
-[door](dvāram) [+](ādau) [first](ādau) [having-bowed](praṇamya) [+](atha) [then](atha) [should-enter](praviśet) [restrained](saṃyataḥ) [child](śiśuḥ)
+[door](dvāram) + [first](ādau) [having-bowed](praṇamyā) + [then](tha) [should-enter](praviśet) [restrained](saṃyataḥ) [child](śiśuḥ)
 
 ## mukta-m0-p14-v342
-[likewise](tathā) [+](iva) [indeed](eva) [guru](guru) [+](saṃsparkāc) [by-contact](saṃsparkāc) [+](chiśoḥ) [of-disciple](śiśoḥ) [sin](pāpa) [+](kṣayam) [destruction](kṣayam) [+](bhavet) [may-be](bhavet)
+[likewise](tathā) + [indeed](eva) [guru](guru) + [by-contact](saṃsparkāc) + [of-disciple](chiśoḥ) [sin](pāpa) + [destruction](kṣayam) + [may-be](bhavet)
 
 ## mukta-m0-p14-v343
-[much](bahu) [+](pralāpan) [chattering](pralāpan) [+](na) [not](na) [+](vadet) [should-speak](vadet) [+](vadet) [speak](vadet) [+](ukte) [when-spoken](ukte) [but](tu) [should-converse](saṃvadet)
+[much](bahu) + [prattling](pralāpan) + [not](na) + [should-speak](vadet) + [speak](vadety) + [when-said](ukte) [but](tu) [should-converse](saṃvadet)
 
 ## mukta-m0-p14-v344
-[foot](pāda) [+](prakṣālanaṃ) [washing](prakṣālanaṃ) [sleeping](svāpaṃ) [likewise](tathā) [foot](pāda) [stretching](prasāraṇam)
+[foot](pāda) + [washing](prakṣālanaṃ) [sleeping](svāpaṃ) [likewise](tathā) [foot](pāda) + [stretching](prasāraṇam)
 
 ## mukta-m0-p14-v345
-[permission](anujñāṃ) [having-obtained](prāpya) [or](vā) [should-do](kuryād) [+](guru) [+](dṛṣṭer) [guru-sight](gurudṛṣṭer) [+](agocaram) [out-of-range](agocaram)
+[permission](anujñāṃ) [having-obtained](prāpya) [or](vā) [should-do](kuryād) + [guru](guru) + [sight](dṛṣṭer) + [out-of-range](agocaram)
 
 ## mukta-m0-p14-v346
-[with-mind](manasā) [+](api) [even](api) [not](na) [by-disciple](śiṣyeṇa) [to-be-desired](kāmitavyā) [own](sva) [+](mātṛ) [+](vat) [like-mother](mātṛvat)
+[with-mind](manasā) + [even](api) [not](na) [by-disciple](śiṣyeṇa) [to-be-desired](kāmitavyā) [own](sva) + [mother](mātṛ) + [like](vat)
 
 ## mukta-m0-p14-v347
-[with-guru](guruṇā) [with](saha) [speech](vāg) [+](vādaṃ) [dispute](vādaṃ) [ever](kadācin) [+](na) [not](na) [+](iva) [indeed](eva) [should-make](kārayet)
+[guru](guruṇā) [with](saha) [speech](vāg) + [dispute](vādaṃ) [ever](kadācin) + [not](na) + [indeed](eva) [should-make](kārayet)
 
 ## mukta-m0-p14-v348
-[palanquin](ḍolā) [and](ca) [vehicle](vāhanaṃ) [and](ca) [+](iva) [indeed](eva) [guru](guru) [+](vat) [like](vat) [should-worship](pūjayet) [always](sadā)
+[palanquin](ḍolā) [and](ca) [vehicle](vāhanaṃ) [and](ca) + [indeed](eva) [guru](guru) + [like](vat) [should-worship](pūjayet) [always](sadā)
 
 ## mukta-m0-p14-v349
-[his](tat) [+](sambhukta) [enjoyed](sambhukta) [+](upakaraṇāṃ) [implements](upakaraṇāṃ) [that](tad) [+](vat) [like](vat) [+](saṃpūjayec) [should-worship](saṃpūjayec) [+](chiśuḥ) [disciple](śiśuḥ)
+[his](tat) + [enjoyed](sambhukto) + [implements](pakaraṇāṃ) [that](tad) + [like](vat) + [should-worship](saṃpūjayec) + [disciple](chiśuḥ)
 
 ## mukta-m0-p14-v350
-[his](tad) [+](bandhu) [kinsmen](bandhu) [+](varge) [in-group](varge) [but](tu) [greatly](bhṛśaṃ) [guru](guru) [+](vad) [like](vad) [+](vartayet) [should-behave](vartayet) [always](sadā)
+[his](tad) + [kinsmen](bandhu) + [group](varge) [but](tu) [greatly](bhṛśaṃ) [guru](guru) + [like](vad) + [should-behave](vattayet) [always](sadā)
