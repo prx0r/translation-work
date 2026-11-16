@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p164-v4076
-[priya-apriyam](priyāpriyaṃ) [ca](ca) [samkalpya](saṃkalpya) [sama-loṣṭha-aśma-kāñcanaḥ](samaloṣṭhāśmakāñcanaḥ)
+dear-and-undear(priyāpriyaṃ) and(ca) having-resolved(saṃkalpya) equal-clod-stone-gold(sama+loṣṭha+aśma+kāñcanaḥ)
 
 ## mukta-m0-p164-v4077
-[janāt-bhīti](janādbhīti) [samāyuktaḥ](samāyukto) [vaset](vased) [bāhūpadhānakaḥ](bāhūpadhānakaḥ)
+from-people(janāt) fear(bhīti) endowed-with(samāyukto) should-dwell(vaset) arm-as-pillow(bāhu+upadhānakaḥ)
 
 ## mukta-m0-p164-v4078
-[pāṇi-pātre](pāṇipātre) [varet](varetpārśve) [pārśve](pārśve) [yācitam](yācitaṃ) [tena](tena) [jīvitam](jīvitam)
+hand-as-bowl(pāṇi+pātre) should-beg(varet) at-side(pārśve) begged(yācitaṃ) by-that(tena) livelihood(jīvitam)
 
 ## mukta-m0-p164-v4079
-[viduṣoḥ](viduṣoryadyateścāpi) [yadi](yadi) [tasya](tasya) [ca](ca) [api](api) [vartanam](vartanaṃ) [nandikeśvara](nandikeśvara)
+of-wise(viduṣoḥ) and-of-ascetic(yateḥ) and(ca) also(api) conduct(vartanaṃ) O-Nandikeśvara(nandikeśvara)
 
 ## mukta-m0-p164-v4080
-[evam](evaṃ) [catuṣṭayam](catuṣṭayaṃ) [tasya](tasya) [viduṣaḥ](viduṣaśca) [ca](ca) [viśeṣataḥ](viśeṣataḥ)
+thus(evaṃ) fourfold(catuṣṭayaṃ) of-him(tasya) and-of-wise(viduṣaḥ) and(ca) especially(viśeṣataḥ)
 
 ## mukta-m0-p164-v4081
-[sadācārya-abhiṣekeṇa](sadācāryābhiṣekeṇa) [yuktaḥ](yukto) [vidvat-samākhyakaḥ](vidvatsamākhyakaḥ)
+with-proper-teacher-consecration(sat+ācārya+abhiṣekeṇa) endowed(yukto) called-wise(vidvat+samākhyakaḥ)
 
 ## mukta-m0-p164-v4082
-[catur-āśramiṇām](caturāśramiṇāṃ) [madhye](madhye) [vaiśeṣika](vaiśeṣika) [vrataṃ](vrataṃ) [śṛṇu](śṛṇu)
+among-four-stages-of-life(catur+āśramiṇāṃ) in-middle(madhye) special(vaiśeṣika) vow(vrataṃ) hear(śṛṇu)
 
 ## mukta-m0-p164-v4083
-[tathā](tathā) [saṃkhyena](saṃkhyena) [saṃkhyāsyuḥ](saṃkhyāsyurvra?ktiścāpi) [vrataḥ](vrataḥ) [ca](ca) [api](api) [śṛṇu](śṛṇu) [kramāt](kramāt)
+likewise(tathā) by-number(saṃkhyena) they-are-counted(saṃkhyāsyuḥ) vow(vra?ktiḥ) and(ca) also(api) hear(śṛṇu) in-order(kramāt)
 
 ## mukta-m0-p164-v4084
-[samaye](samaye) [mo](mo) [*](*) [*](*) [*](*) [*](*) [svādhyāyaḥ](svādhyāyassatyavāditā) [satya-vāditā](satya-vāditā)
+in-observance(samaye) mo(mo) *(* ) *(* ) *(* ) *(* ) self-study(svādhyāyaḥ) truth-speaking(satya+vāditā)
 
 ## mukta-m0-p164-v4085
-[śāntikam](śāntikaṃ) [pauṣṭikam](pauṣṭikaṃ) [ca](ca) [eva](eva) [suduṣānām](suduṣānāṃ) [sadā](sadā) [tathā](tathā)
+propitiatory(śāntikaṃ) nourishing(pauṣṭikaṃ) and(ca) indeed(eva) of-very-wicked(su+duṣānāṃ) always(sadā) likewise(tathā)
 
 ## mukta-m0-p164-v4086
-[nipati](nipati) [*](*) [nkaṇān](nkaṇānbhūmau) [bhūmau](bhūmau) [bhakṣaṇa-artham](bhakṣaṇārthamupetavat) [upetavat](upetavat)
+falling(nipati) *(* ) grains(nkaṇān) on-ground(bhūmau) for-eating(bhakṣaṇa+artham) as-approaching(upetavat)
 
 ## mukta-m0-p164-v4087
-[abhyāsāt](abhyāsātsatataṃ) [satatam](satatam) [grantham](granthamāmamādi) [āmam](āmam) [ādi](ādi) [mahā-yaśān](mahāyaśān)
+by-practice(abhyāsāt) constantly(satataṃ) text(grantham) beginning-with-āmam(āmam+ādi) of-great-fame(mahā+yaśān)
 
 ## mukta-m0-p164-v4088
-[nadī-tīre](nadītīre'pi) [api](api) [velāyām](velāyāṃ) [kuṭīm](kuṭīṃ) [kṛtvā](kṛtvā) [nivāsanam](nivāsanam)
+on-river-bank(nadī+tīre) also(api) at-time(velāyāṃ) hut(kuṭīṃ) having-made(kṛtvā) dwelling(nivāsanam)
 
 ## mukta-m0-p164-v4089
-[ete](ete) [pañca](pañca) [vratāḥ](vratāḥ) [proktāḥ](proktāḥ) [preta-vetāla](pretavetāla) [*](*) [*](*)
+these(ete) five(pañca) vows(vratāḥ) declared(proktāḥ) preta-vetāla(preta+vetāla) *(* ) *(* ) *(* )
 
 ## mukta-m0-p164-v4090
-[tapo-utsāha-samāyuktaḥ](tapotsāhasamāyukto) [vetāla](vetāla) [pratimāna-yuk](pratimānayuk)
+endowed-with-ascetic-effort(tapaḥ+utsāha+samāyukto) endowed-with-vetāla-observance(vetāla) (pratimā+anayuk)
 
 ## mukta-m0-p164-v4091
-[vānaprastha-āśramī](vānaprasthāśramī) [bhūmau](bhūmau) [*](*) [*](*) [*](*) [*](*) [*](*) [*](*) [*](*)
+forest-dweller-stage(vānaprastha+āśramī) on-ground(bhūmau) *(* ) *(* ) *(* ) *(* ) *(* ) *(* ) *(* )
 
 ## mukta-m0-p164-v4092
-[svayam-utpanna](svayamutpanna) [*](*) [*](*) [ca](śca) [haṃsakāḥ](haṃsakāste) [te](te) [amī](amī) [matāḥ](matāḥ)
+self-arisen(svayam+utpanna) *(* ) *(* ) and(ca) haṃsa-dwellers(haṃsakāḥ) they(te) these(amī) considered(matāḥ)
 
 ## mukta-m0-p164-v4093
-[yogācāra](yogācāra) [*](*) [*](*) [*](*) [karaṇa-indriya](karaṇendriya) [nirjitaḥ](nirjitaḥ)
+yoga-practice(yoga+ācāra) *(* ) *(* ) *(* ) *(* ) organs-of-action-and-sense(karaṇa+indriya) conquered(nirjitaḥ)
 
 ## mukta-m0-p164-v4094
-[śiva-jñāna-gataḥ](śivajñānagataḥ) [paścāt](paścād) [gūḍha-ācāraḥ](gūḍhācāraśca) [ca](ca) [saṃvṛtaḥ](saṃvṛtaḥ)
+gone-to-knowledge-of-Śiva(śiva+jñāna+gataḥ) afterwards(paścāt) and(ca) of-hidden-conduct(gūḍha+ācāraḥ) and(ca) concealed(saṃvṛtaḥ)
 
 ## mukta-m0-p164-v4095
-[gopālā](gopālā) [*](*) [*](*) [*](*) [paścāt](paścād) [go-nivāse](gonivāse) [nivāsanaḥ](nivāsanaḥ)
+cowherd(gopālā) *(* ) *(* ) *(* ) afterwards(paścāt) dwelling-in-cow-abode(go+nivāse) dwelling(nivāsanaḥ)
 
 ## mukta-m0-p164-v4096
-[vāyavya-tīrtham](vāyavyatīrthaṃ) [saṃyuktaḥ](saṃyuktaḥ) [pañca-indriya](pañcendriya) [vinirmitaḥ](vinirmitaḥ)
+joined-with-vāyavya-tīrtha(vāyavya+tīrthaṃ) united(saṃyuktaḥ) formed-by-five-senses(pañca+indriya) accomplished(vinirmitaḥ)
 
 ## mukta-m0-p164-v4097
-[nityam](nityaṃ) [cāndrāyaṇe](cāndrāyaṇe) [na](na) [eva](eva) [sarva-pāpam](sarvapāpaṃ) [vinaśyati](vinaśyati)
+always(nityaṃ) in-cāndrāyaṇa(cāndrāyaṇe) not(na) indeed(eva) all-sin(sarva+pāpaṃ) is-destroyed(vinaśyati)
 
 ## mukta-m0-p164-v4098
-[kuṭikānām](kuṭikānāṃ) [vrataṃ](vrataṃ) [hi](hyetad) [etad](etad) [jñāna-yoga](jñānayoga) [prakāśanam](prakāśanam)
+of-kuṭikā-ascetics(kuṭikānāṃ) vow(vrataṃ) indeed(hi) this(etat) illuminating-knowledge-and-yoga(jñāna+yoga) (prakāśanam)
 
 ## mukta-m0-p164-v4099
-[bhikṣānna-bhojanam](bhikṣānnabhojanaṃ) [nityam](nityaṃ) [maṭha-kākhya-vrataṃ](maṭhakākhyavrataṃ) [bhavet](bhavet)
+eating-begged-food(bhikṣā+anna+bhojanaṃ) always(nityaṃ) vow-called-maṭhaka(maṭhaka+ākhya+vrataṃ) should-be(bhavet)
 
 ## mukta-m0-p164-v4100
-[deham](dehaṃ) [ca](ca) [tena](tena) [saṃrakṣya](saṃrakṣya) [ghuṭikākhyaḥ](ghuṭikākhyo) [vratī](vratī) [bhavet](bhavet)
+body(dehaṃ) and(ca) by-that(tena) having-protected(saṃrakṣya) one-of-vow-called-ghuṭikā(ghuṭikā+ākhyaḥ) vow-observer(vratī) should-be(bhavet)
