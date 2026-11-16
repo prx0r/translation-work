@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p23-v551
-chariot (rathaṃ) path-gone (mārgagataṃ) having-made (kṛtvā) slowly (śanaiḥ) own-city-to (svapuram) bring (ānayet)
+[chariot](rathaṃ) [road+gone](mārga+gataṃ) [having-made](kṛtvā) [slowly](śanaiḥ) [own+city](sva+puram) [should-bring](ānayet)
 
 ## mukta-m0-p23-v552
-beauty (śobhāṃ) with-flags-banners-etc (dhvajapatākādyaiḥ) with-women (strībhiḥ) auspicious-songs (maṅgalagītakaiḥ)
+[splendor](śobhāṃ) [banner+flag+etc](dhvaja+patākā+ādyaiḥ) [with-women](strībhiḥ) [auspicious+songs](maṅgala+gītakaiḥ)
 
 ## mukta-m0-p23-v553
-temple's (prāsādasya) northern (uttare) side (pārśve) work (karma) do (kuryāt) offer (nivedayet)
+[temple's](prāsādasya) [northern](uttare) [on-side](pārśve) [ritual+hut](karma+kuryāt) [should-assign](nivedayet)
 
 ## mukta-m0-p23-v554
-five-seven-eleven (pañcasaptaikādaśabhiḥ) hands (karaiḥ) work-hut (karmakuṭī) considered (matā)
+[by-five+seven+eleven](pañca+sapta+ekādaśabhiḥ) [by-cubits](karaiḥ) [ritual+hut](karma+kuṭī) [considered](matā)
 
 ## mukta-m0-p23-v555
-temple-north-direction-pit (prāsādottaradiggarte) having-thrown (kṣiptvā) it (tāṃ) fill (pūrayet) with-earth (mṛdā)
+[temple+north+direction+pit](prāsāda+uttara+dik+garte) [having-thrown](kṣiptvā) [that](tāṃ) [should-fill](pūrayet) [with-earth](mṛdā)
 
 ## mukta-m0-p23-v556
-satisfy (tarpayet) weapon-king (astrarājaṃ) and (ca) great-pāśupata (mahāpāśupataṃ) and (ca) which (yat)
+[should-propitiate](tarpayet) [weapon+king](astra+rājaṃ) [and](ca) [great+pāśupata](mahā+pāśupataṃ) [and](ca) [which](yat)
 
 ## mukta-m0-p23-v557
-thus (evaṃ) well-satisfied (santarpite) indeed-weapon (hyastre) direction-defects (digdoṣaiḥ) freed (mucyate) stone (śilā)
+[thus](evaṃ) [when-propitiated](santarpite) [indeed](hi) [weapon](astre) [direction+faults](dik+doṣaiḥ) [is-freed](mucyate) [stone](śilā)
 
 ## mukta-m0-p23-v558
-its (tasya) liṅga's (liṅgasya) good-brāhmaṇa (sadvipraḥ) maiden (kanyā) artisan (śilpī) and (ca) worshipped (pūjitā)
+[of-that](tasya) [of-liṅga](liṅgasya) [good+brahmin](sat+vipraḥ) [maiden](kanyā) [artisan](śilpī) [and](ca) [honored](pūjitā)
 
 ## mukta-m0-p23-v559
-certainly (dhruvaṃ) to-be-done (kartavyam) thus-said (ityāha) lord (bhagavān) supreme-lord (parameśvaraḥ)
+[certainly](dhruvaṃ) [to-be-done](kartavyam) [thus](iti) [says](āha) [lord](bhagavān) [supreme+lord](parama+īśvaraḥ)
 
 ## mukta-m0-p23-v560
-stone (śilāṃ) that (tāṃ) avoid (varjayet) with-effort (yatnāt) not-auspicious (naśastā) in-liṅga-work (liṅgakarmaṇi)
+[stone](śilāṃ) [that](tāṃ) [should-avoid](varjayet) [with-effort](yatnāt) [not+auspicious](na+śastā) [in-liṅga+work](liṅga+karmaṇi)
 
 ## mukta-m0-p23-v561
-thus (evaṃ) wooden (dārumayaṃ) and-also (cāpi) liṅga-etc-material (liṅgādidravyam) bring (ānayet)
+[thus](evaṃ) [wood+made](dāru+mayaṃ) [and](ca) [also](api) [liṅga+etc+material](liṅga+ādi+dravyam) [should-bring](ānayet)
 
 ## mukta-m0-p23-v562
-previously-said-east-north-woods (prāguktareśakāṣṭhāsu) stone (śilāṃ) placing (nyasya) in-some-opinion (kvacinmate)
+[east+north+lord+quarters](prāk+uttara+īśa+kāṣṭhāsu) [stone](śilāṃ) [having-placed](nyasya) [somewhere](kvacit) [in-opinion](mate)
 
 ## mukta-m0-p23-v563
-or (athavā) death-conqueror (mṛtyujetāraṃ) with-vidyā-limbs (vidyāṅgaiḥ) six (ṣaḍbhiḥ) endowed (anvitam)
+[or](athavā) [death+conqueror](mṛtyu+jetāraṃ) [with-knowledge+limbs](vidyā+aṅgaiḥ) [with-six](ṣaḍbhiḥ) [endowed](anvitam)
 
 ## mukta-m0-p23-v564
-thus (ityanena) by-rite (vidhānena) having-taken (gṛhītvā) wood (dāru) or-stone (vāśma) or (vā)
+[thus](iti) [by-this](anena) [by-procedure](vidhānena) [having-taken](gṛhītvā) [wood](dāru) [or](vā) [stone](aśma) [or](vā)
 
 ## mukta-m0-p23-v565
-liṅga (liṅgaṃ) by-guru's-command (gurvājñyā) make (kuryāt) threefold (tridhā) measure-marked (mānopalakṣitam)
+[liṅga](liṅgaṃ) [by-teacher+command](guru+ājñayā) [should-make](kuryāt) [threefold](tridhā) [by-measure+characterized](māna+upalakṣitam)
 
 ## mukta-m0-p23-v566
-thus (iti) in-characteristics-compendium (lakṣaṇasamuccaye) wood-stone-taking (dāruśilāgrahaṇaṃ) named (nāma) third (tṛtīyo) rite (vidhiḥ)
+[thus](iti) [in-characteristics+compendium](lakṣaṇa+samuccaye) [wood+stone+taking](dāru+śilā+grahaṇaṃ) [named](nāma) [third](tṛtīyo) [rule](vidhiḥ)
 
 ## mukta-m0-p23-v567
-four-angula-measure (caturaṅgulamānena) door-womb-hands (dvāragarbhakaraiḥ) situated (sthitam)
+[by-four+finger+measure](catur+aṅgula+mānena) [by-door+womb+cubits](dvāra+garbha+karaiḥ) [situated](sthitam)
 
 ## mukta-m0-p23-v568
-hair-tip-lice (keśāgralikṣāyūkābhyāṃ) in-order (kramāt) eight-eight (aṣṭāṣṭabhiḥ) yavas (yavaḥ)
+[hair+tip+nit+louse](keśa+agra+likṣā+yūkābhyāṃ) [in-order](kramāt) [by-eight+eight](aṣṭa+aṣṭabhiḥ) [barleycorn](yavaḥ)
 
 ## mukta-m0-p23-v569
-transverse (tiryak) equal-bellies (samodaraiḥ) said (proktaṃ) measure-purpose (mānārthaṃ) in-pārameśvara (pārameśvare)
+[across](tiryak) [with-equal+bellies](sama+udaraiḥ) [declared](proktaṃ) [for-measure+purpose](māna+arthaṃ) [in-pārameśvara](pārameśvare)
 
 ## mukta-m0-p23-v570
-kalā-golaka-eye-mark (kalāgolakanetrāṅka) by-measures (mātrābhiḥ) two-angula (dvyaṅgalaṃ) remembered (smṛtam)
+[by-digit+ball+eye+number](kalā+golaka+netra+aṅka) [by-measures](mātrābhiḥ) [two+finger](dvi+aṅgulaṃ) [remembered](smṛtam)
 
 ## mukta-m0-p23-v571
-half-hasta (ardhahastaṃ) span (vitastiṃ) and (ca) tāla (tālaṃ) and (ca) twelve-angula (dvādaśāṅgulam)
+[half+hand](ardha+hastaṃ) [span](vitastiṃ) [and](ca) [palm](tālaṃ) [and](ca) [twelve+finger](dvādaśa+aṅgulam)
 
 ## mukta-m0-p23-v572
-liṅga-abode-seat-etc (liṅgadhāmāsanādīnāṃ) in-all-work-rite (sarvakarmavidhau) considered (matā)
+[of-liṅga+shrine+seat+etc](liṅga+dhāma+āsana+ādīnāṃ) [in-all+work+procedure](sarva+karma+vidhau) [accepted](matā)
 
 ## mukta-m0-p23-v573
-door-measure (dvāramānāt) three-numbered (trisaṃkhyākaṃ) ninefold (navadhā) womb-measure (garbhamānataḥ)
+[from-door+measure](dvāra+mānāt) [three+numbered](tri+saṃkhyākaṃ) [ninefold](navadhā) [from-womb+measure](garbha+mānataḥ)
 
 ## mukta-m0-p23-v574
-thus (evaṃ) liṅgas (liṅgāni) thirty-six (ṣaṭtriṃśat) to-be-known (jñeyāni) from-largest-measure (jyeṣṭhamānataḥ)
+[thus](evaṃ) [liṅgas](liṅgāni) [thirty-six](ṣaṭtriṃśat) [to-be-known](jñeyāni) [in-largest+measure](jyeṣṭha+mānataḥ)
 
 ## mukta-m0-p23-v575
-of-these (eṣām) by-unity (aikyena) of-liṅgas (liṅgānāṃ) hundred-eight (śatamaṣṭottaraṃ) becomes (bhavet)
+[of-these](eṣām) [by-combination](aikyena) [of-liṅgas](liṅgānāṃ) [hundred](śatam) [eight+more](aṣṭa+uttaraṃ) [should-be](bhavet)
