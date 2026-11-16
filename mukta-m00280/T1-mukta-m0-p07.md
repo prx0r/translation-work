@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p07-v151
-[nyāsaṃ](nyāsaṃ) [pūrvaṃ](pūrvaṃ) [mayā](mayā) [proktaṃ](proktaṃ) [sūtra](sūtra) [uttarasaṃjñite](uttarasaṃjñite)
+[nyāsa](nyāsaṃ) [before](pūrvaṃ) [by-me](mayā) [spoken](proktaṃ) [in-sūtra](sūtra) [named-after](uttara-saṃjñite)
 
 ## mukta-m0-p07-v152
-[na](na) [kuryādanyathā](kuryādanyathā) [devi](devi) [ājñaiṣā](ājñaiṣā) [pārameśvarī](pārameśvarī)
+[not](na) [should-do](kuryāt) [otherwise](anyathā) [o-goddess](devi) [command](ājñā) [this](eṣā) [supreme](pārameśvarī)
 
 ## mukta-m0-p07-v153
-[mṛtyunāśanahetvarthaṃ](mṛtyunāśanahetvarthaṃ) [sa](sa) [snigdhaphalabhāk](snigdhaphalabhāk) [bhavet](bhavet)
+[death](mṛtyu)-[destruction](nāśana)-[for-purpose](hetvarthaṃ) [that](sa) [with-oily](snigdha)-[fruit](phala)-[partaker](bhāk) [becomes](bhavet)
 
 ## mukta-m0-p07-v154
-[nāḍisañcāratatvajñaḥ](nāḍisañcāratatvajñaḥ) [sa](sa) [mṛtyuṃ](mṛtyuṃ) [vijayiṣyati](vijayiṣyati)
+[nāḍī](nāḍi)-[movement](sañcāra)-[truth-knower](tatvajñaḥ) [that](sa) [death](mṛtyuṃ) [will-conquer](vijayiṣyati)
 
 ## mukta-m0-p07-v155
-[dhū](dhū) [varānena](varānena) [ha](ha) [suṣimnābhinnamastakam](suṣimnābhinnamastakam)
+[dhū](dhū) [*](*) [*](*) [by-this](varānena) [ha](ha) [suṣumnā](suṣimnā)-[split](abhinnam)-[head](astakam)
 
 ## mukta-m0-p07-v156
-[sa](sa) [mukta](mukta) [iti](iti) [vijñeyaśśeṣādyātmaviḍaṃbakāḥ](vijñeyaśśeṣādyātmaviḍaṃbakāḥ)
+[that](sa) [liberated](mukta) [thus](iti) [to-be-known](vijñeyaḥ) [rest-etc](śeṣa-ādyā)-[self](ātma)-[mockers](viḍaṃbakāḥ)
 
 ## mukta-m0-p07-v157
-[dharmādharmānna](dharmādharmānna) [lipyeta](lipyeta) [sa](sa) [sarvānugṛhe](sarvānugṛhe) [kṣamaḥ](kṣamaḥ)
+[dharma](dharma)-[adharma](adharmān)-[not](na) [is-stained](lipyeta) [that](sa) [all](sarvān)-[grace](anugṛhe) [capable](kṣamaḥ)
 
 ## mukta-m0-p07-v158
-[vibhaktiṃ](vibhaktiṃ) [naiva](naiva) [vidyeta](vidyeta) [yathāgnāvagnireva](yathāgnāvagnireva) [hi](hi)
+[division](vibhaktiṃ) [not](na)-[indeed](eva) [is-known](vidyeta) [as](yathā) [in-fire](agnau)-[fire](agni)-[just](eva) [indeed](hi)
 
 ## mukta-m0-p07-v159
-[vibhāgo](vibhāgo) [naiva](naiva) [vidyeta](vidyeta) [tatvamiśvara](tatvamiśvara) [bhāvitam](bhāvitam)
+[division](vibhāgo) [not](na)-[indeed](eva) [is-known](vidyeta) [that-essence](tatvamiśvara) [contemplated](bhāvitam)
 
 ## mukta-m0-p07-v160
-[vivekantu](vivekantu) [na](na) [śakyante](śakyante) [rasabhāvaṃ](rasabhāvaṃ) [pṛthak](pṛthak) [pṛthak](pṛthak)
+[discernment](vivekam)-[but](tu) [not](na) [is-possible](śakyante) [taste](rasa)-[emotion](bhāvaṃ) [separately](pṛthak) [separately](pṛthak)
 
 ## mukta-m0-p07-v161
-[śivabhāva](śivabhāva) [samāyukto](samāyukto) [tulyametannasaṃśayaḥ](tulyametannasaṃśayaḥ)
+[śiva](śiva)-[state](bhāva) [joined-with](samāyukto) [equal](tulyam)-[this](etat)-[no-doubt](nasaṃśayaḥ)
 
 ## mukta-m0-p07-v162
-[sa](sa) [pacyennaro](pacyennaro) [ghoreṣu](ghoreṣu) [dvātriṃśannarakeṣu](dvātriṃśannarakeṣu) [ca](ca)
+[that](sa) [is-cooked](pacyet)-[man](naraḥ) [in-horrible](ghoreṣu) [thirty-two](dvātriṃśat)-[hells](narakeṣu) [and](ca)
 
 ## mukta-m0-p07-v163
-[dinatrayantu](dinatrayantu) [rudrasya](rudrasya) [prāyaścittīyate](prāyaścittīyate) [naraḥ](naraḥ)
+[three-days](dinatrayam)-[but](tu) [of-rudra](rudrasya) [atonement](prāyaścittīyate) [man](naraḥ)
 
 ## mukta-m0-p07-v164
-[vivekī](vivekī) [gacchate'dhastāt](gacchate'dhastāt) [avivekī](avivekī) [jet](jet)
+[discerning](vivekī) [goes](gacchate)-[downward](adhastāt) [non-discerning](avivekī) [*](*) [*](*) [*](jet)
 
 ## mukta-m0-p07-v165
-[tvayā](tvayā) [guptataraṃ](guptataraṃ) [kāryaṃ](kāryaṃ) [na](na) [dadyā](dadyā) [paradīkṣite](paradīkṣite)
+[by-you](tvayā) [most-secret](guptataraṃ) [should-be-done](kāryaṃ) [not](na) [should-be-given](dadyā) [to-other](para)-[initiated](dīkṣite)
 
 ## mukta-m0-p07-v166
-[athavā](athavā) [satya](satya) [eva](eva) [syāt](syāt) [viditārādhi](viditārādhi) [toryadā](toryadā)
+[or](athavā) [truth](satya) [indeed](eva) [may-be](syāt) [known](vidita)-[honored](ārādhi) [of-him](toryadā)
 
 ## mukta-m0-p07-v167
-[na](na) [likhetpuṇyapāpebhyo](likhetpuṇyapāpebhyo) [satyaṃ](satyaṃ) [devi](devi) [udāhṛtam](udāhṛtam)
+[not](na) [should-write](likhet)-[merit](puṇya)-[sins](pāpebhyo) [truth](satyaṃ) [o-goddess](devi) [declared](udāhṛtam)
 
 ## mukta-m0-p07-v168
-[sarve](sarve) [te](te) [praṇavā](praṇavā) [jñeyāḥ](jñeyāḥ) [kāmamuktiphalapradāḥ](kāmamuktiphalapradāḥ)
+[all](sarve) [they](te) [praṇava](praṇavā) [to-be-known](jñeyāḥ) [desire](kāma)-[liberation](mukti)-[fruit-givers](phalapradāḥ)
 
 ## mukta-m0-p07-v169
-[yena](yena) [iṣṭo](iṣṭo) [iṣṭaṃ](iṣṭaṃ) [vā](vā) [a](a)
+[by-whom](yena) [desired](iṣṭo) [desired-thing](iṣṭaṃ) [vā](vā) [*](* )[*](* )[*](* )[*](* )[*](* )[*](*)
 
 ## mukta-m0-p07-v170
-[yathā](yathā) [sā](sā) [sādhanā](sādhanā) [tatra](tatra) [mātṛkā](mātṛkā)
+[as](yathā) [that](sā) [practice](sādhanā) [there](tatra) [mātṛkā](mātṛkā) [*](* )[*](* )[*](* )[*](* )[*](*)
 
 ## mukta-m0-p07-v171
-[sa](sa) [evaṃ](evaṃ) [saṃsthito](saṃsthito) [nityaṃ](nityaṃ) [dehī](dehī) [dehatvamāgataḥ](dehatvamāgataḥ)
+[that](sa) [thus](evaṃ) [situated](saṃsthito) [always](nityaṃ) [embodied](dehī) [body-state](dehatvam)-[come](āgataḥ)
 
 ## mukta-m0-p07-v172
-[sa](sa) [eva](eva) [nālamityuktaṃ](nālamityuktaṃ) [ādhāraṃ](ādhāraṃ) [sarvadehinām](sarvadehinām)
+[that](sa) [indeed](eva) [not-support](nālam)-[thus](iti)-[said](uktaṃ) [support](ādhāraṃ) [of-all](sarva)-[embodied](dehinām)
 
 ## mukta-m0-p07-v173
-[abhayoreva](abhayoreva) [jānīyāt](jānīyāt) [saṃpuṭaṃ](saṃpuṭaṃ) [paramaṃ](paramaṃ) [mahat](mahat)
+[of-both](abhayoreva) [should-know](jānīyāt) [pair](saṃpuṭaṃ) [supreme](paramaṃ) [great](mahat)
 
 ## mukta-m0-p07-v174
-[ekaikamakṣaraṃ](ekaikamakṣaraṃ) [vidyāt](vidyāt) [patre](patre) [patre](patre) [yathākramam](yathākramam)
+[one-by-one](ekaikam)-[syllable](akṣaraṃ) [should-know](vidyāt) [on-leaf](patre) [on-leaf](patre) [in-order](yathākramam)
 
 ## mukta-m0-p07-v175
-[makāraṃ](makāraṃ) [karṇikā](karṇikā) [jñeyā](jñeyā) [tasya](tasya) [padmasya](padmasya) [madhyataḥ](madhyataḥ)
+[makāra](makāraṃ) [pericarp](karṇikā) [to-be-known](jñeyā) [of-that](tasya) [lotus](padmasya) [in-middle](madhyataḥ)
