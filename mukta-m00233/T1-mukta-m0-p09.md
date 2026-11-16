@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p09-v201
-[oblique-diagonal](vidig) [curved](vakra) [gone](gatta) [hole](chidraṃ) [cow-urine](gomūtra) [named](ākhyaṃ) [that-form](tadākṛti)
+intermediate-direction+crooked+going+hole(vidigvakragattacchidraṃ) cow-urine+named(gomūtrākhyaṃ) that+shape(tadākṛti)
 
 ## mukta-m0-p09-v202
-[five](pañca) [threads](sūtra) [between](antarā) [holes](randhraiḥ) [clockwise-made](prādakṣiṇyakṛtaṃ) [but](tu) [which](yat)
+five+thread+intervals(pañcasūtrāntarā) with-holes(randhraiḥ) clockwise+made(prādakṣiṇyakṛtaṃ) indeed(tu) which(yat)
 
 ## mukta-m0-p09-v203
-[platform](vedikā) [double](dviguṇaḥ) [one-and-half](adhyardhaṃ) [equal](samaḥ) [or](vā) [be](syāt) [neck-rise](galodayaḥ)
+from-platform(vedikād) double+or+one-and-half(dviguṇo'dhyardhaṃ) equal(samo) or(vā) should-be(syād) neck+height(galodayaḥ)
 
 ## mukta-m0-p09-v204
-[neck-entry](grīvāveśaḥ) [above-that](tadūrdhvaṃ) [be](syāt) [arrow-part](śarāṃśaḥ) [also](api) [same](tatsamaḥ)
+neck+insertion(grīvāveśas) above-that(tadūrdhvaṃ) should-be(syāt) dome+portion(śarāṃśāno'pi) that+equal(tatsamaḥ)
 
 ## mukta-m0-p09-v205
-[serpent-dance-stories](vyālanāṭyakathābhiḥ) [or](vā) [neck-ornament](galabhūṣaṇaṃ) [perform](ācaret)
+with-vyāla+drama+narratives(vyālanāṭyakathābhir) or(vā) neck+ornamentation(galabhūṣaṇam) one-should-make(ācaret)
 
 ## mukta-m0-p09-v206
-[two-staff-measure](dvidaṇḍamānena) [be](bhavet) [spire-exit](śikharanirgamaḥ)
+two-daṇḍa+measure(dvidaṇḍamānena) should-be(bhavec) spire+projection(chikharanirgamaḥ)
 
 ## mukta-m0-p09-v207
-[with-pot](sakumbhāṃ) [make](kurvīta) [just-as](yathaiva) [spire-form](śikharākṛtiḥ)
+with-kumbha(sakumbhāṃ) one-should-make(kurvīta) just-as(yathaiva) spire+form(śikharākṛtiḥ)
 
 ## mukta-m0-p09-v208
-[square](caturaśraṃ) [long](āyata) [corner](aśraṃ) [round](vṛttaṃ) [round-long](vṛttāyataṃ) [thus](tathā)
+square(caturaśram) rectangular(āyatāśraṃ) circular(vṛttaṃ) elliptical(vṛttāyataṃ) likewise(tathā)
 
 ## mukta-m0-p09-v209
-[thus](iti) [eight](aṣṭau) [spire-forms](śikharākārāḥ) [their](teṣāṃ) [then](atha) [declared](nigadyate)
+thus(iti) eight(aṣṭau) spire+forms(śikharākārās) of-them(teṣām) now(atha) is-stated(nigadyate)
 
 ## mukta-m0-p09-v210
-[two-fold](dvayadhā) [divided](bhaktam) [one-two-three-part](ekadvitryaṃśakaḥ) [also](api) [ca](ca)
+twofold(dvayadhā) divided(bhaktam) one+two+three+parts(ekadvitryaṃśako'pi) and(ca)
 
 ## mukta-m0-p09-v211
-[spire-heights](śikharoccānāṃ) [names](nāmāni) [also](api) [ca](ca) [seven-fold](saptadhā)
+of-spire+heights(śikharoccānāṃ) names(nāmāny) also(api) and(ca) sevenfold(saptadhā)
 
 ## mukta-m0-p09-v212
-[gāṅgeya](gāṅgeyaṃ) [spires](śikharāṇi) [separately](pṛthak) [know](viduḥ)
+gāṅgeya(gāṅgeyaṃ) spires(śikharāṇi) separately(pṛthag) they-know(viduḥ)
 
 ## mukta-m0-p09-v213
-[pillars](stambhāḥ) [or](vā) [hand-bamboo-scale](hastavaṃśatulāḥ) [also](api)
+pillars(stambhā) or(vā) hand+beam+cross-beams(hastavaṃśatulā) also(api)
 
 ## mukta-m0-p09-v214
-[of-men](manuṣyāṇāṃ) [auspicious](praśastāḥ) [in-all-abodes](sarvadhāmasu)
+for-humans(manuṣyāṇāṃ) recommended(praśastāḥ) in-all+buildings(sarvadhāmasu)
 
 ## mukta-m0-p09-v215
-[foot-more](pādādhikaṃ) [or](vā) [syāt](syāt) [one-and-half-foot-more](sārdhapādādhikaṃ) [tu](tu) [vā](vā)
+quarter+more(pādādhikaṃ) or(vā) should-be(syāt) half-quarter+more(sārdhapādādhikaṃ) indeed(tu) or(vā)
 
 ## mukta-m0-p09-v216
-[front-stair-making](agrasopānakaraṇaṃ) [secret-nonsecret](guhyāguhyaṃ) [iti](iti) [two-fold](dvidhā)
+front+staircase+making(agrasopānakaraṇaṃ) hidden+and+open(guhyāguhyam) thus(iti) twofold(dvidhā)
 
 ## mukta-m0-p09-v217
-[type](prakāraḥ) [be](syāt) [three-part](trikhaṇḍaṃ) [conch-circle](śaṅkhamaṇḍalam)
+enclosure(prakāraḥ) should-be(syāt) three-sectioned(trikhaṇḍaṃ) conch+circle(śaṅkhamaṇḍalam)
 
 ## mukta-m0-p09-v218
-[three-part-form-arranged](trikhaṇḍākāranicitaṃ) [yat](yat) [stair](sopānaṃ) [three-part](trikhaṇḍakam)
+three-section+form+arranged(trikhaṇḍākāranicitaṃ) which(yat) staircase(sopānaṃ) three-sectioned(trikhaṇḍakam)
 
 ## mukta-m0-p09-v219
-[that-two-part](taddvikhaṇḍaṃ) [tu](tu) [stair](sopānam) [half-cow-urine-named](ardhagomutrasaṃjñitam)
+that(tad) two-sectioned(dvikhaṇḍaṃ) indeed(tu) staircase(sopānam) half-cow-urine+named(ardhagomutrasaṃjñitam)
 
 ## mukta-m0-p09-v220
-[lying-measure-foot-half-three-foot-heights](śayitavyāsapādārdhatripādoccāni) [vai](vai) [separately](pṛthak)
+lying+width+quarter+half+three-quarter+heights(śayitavyāsapādārdhatripādoccāni) indeed(vai) separately(pṛthak)
 
 ## mukta-m0-p09-v221
-[one-and-half-staff](vādhyardhadaṇḍaṃ) [be](bhavet) [hand-hole](hastabilaṃ) [then](tataḥ)
+or+one-and-half+daṇḍa(vādhyardhadaṇḍaṃ) should-be(bhaved) hand+hole(hastabilaṃ) then(tataḥ)
 
 ## mukta-m0-p09-v222
-[of-lying-one](śayitasya) [api](api) [entry](praveśaḥ) [be](syāt) [according-to-strength](yathābalam)
+of-lying-person(śayitasyāpi) entrance(praveśaḥ) should-be(syāt) according-to-strength(yathābalam)
 
 ## mukta-m0-p09-v223
-[two-three-four-staff](dvitricaturdaṇḍaḥ) [horse-foot](aśvapādake)
+two+three+four+daṇḍa(dvitricaturdaṇḍo) in-horse-foot(aśvapādake)
 
 ## mukta-m0-p09-v224
-[hand-cubit](hastaghanaṃ) [or](vā) [be](syāt) [three-foot](tripādaṃ) [vā](vā) [asya](asya) [above](upari)
+hand+thick(hastaghanaṃ) or(vā) should-be(syāt) three-quarter(tripādaṃ) or(vā) of-it(asya) above(upari)
 
 ## mukta-m0-p09-v225
-[be](syāt) [palace](prāsāde) [pavilion](maṇḍape) [api](api) [vā](vā)
+should-be(syāt) in-temple(prāsāde) in-hall(maṇḍape) also(api) or(vā)
