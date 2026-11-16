@@ -8,70 +8,70 @@
 [when](yadā) [entered](āviṣṭo) [delight](ratiṃ) [not](na) [in-the-end](ante) [obtains](labhate) [dispassion](viratiḥ) [indeed](hi) [that](sā)
 
 ## mukta-m0-p103-v2553
-[truth-increasing](satya+vardhinī)
+[truth-increasing](satyavardhinī)
 
 ## mukta-m0-p103-v2554
-[may-be](bhūyāt) [that](sā) [o-supreme-goddess](parama+īśāni) [of-people](janānāṃ) [truth-increasing](satya+vardhinī)
+[may-be](bhūyāt) [that](sā) [O-supreme-goddess](parameśāni) [of-people](janānāṃ) [truth-increasing](satyavardhinī)
 
 ## mukta-m0-p103-v2555
-[p.-295](p. 295)) [human-command](puruṣa+ājñā)
+[of-man](puruṣa) [command](ājñā)
 
 ## mukta-m0-p103-v2556
-[in-ignorance-destruction](ajñāna+khaṇḍane) [in-knowledge-adornment](jñāna+maṇḍane) [also](api) [may-be](astu) [for-us](naḥ) [steady](sthirā)
+[in-ignorance](ajñāna) [destruction](khaṇḍane) [in-knowledge](jñāna) [adorning](maṇḍane) [indeed](api) [may-be](astu) [for-us](naḥ) [firm](sthirā)
 
 ## mukta-m0-p103-v2557
 [divided](bhinnā)
 
 ## mukta-m0-p103-v2558
-[by-reality-nature](tattva+ātmanā) [also](api) [not-divided](abhinna) [indeed](eva) [victorious](jayati) [this](iyaṃ) [toward-existence](bhava+unmukhī)
+[by-reality](tattva) [nature](ātmanā) [even](api) [not-divided](abhinna) [indeed](eva) [victorious](jayati) [this](iyaṃ) [toward-existence](bhava) [facing](unmukhī)
 
 ## mukta-m0-p103-v2559
-[forbearance](kṣāntiḥ) [liberation-giving](kaivalya+dāyinī)
+[forbearance](kṣāntiḥ) [liberation](kaivalya) [giving](dāyinī)
 
 ## mukta-m0-p103-v2560
-[as-long-as](yāvat) [not](na) [this](eṣā) [resorted-to](śritā) [with-devotion](bhaktyā) [forbearance](kṣāntiḥ) [liberation-giving](kaivalya+dāyinī)
+[as-long-as](yāvat) [not](na) [this](eṣā) [resorted-to](śritā) [with-devotion](bhaktyā) [forbearance](kṣāntiḥ) [liberation](kaivalya) [giving](dāyinī)
 
 ## mukta-m0-p103-v2561
-[solitude-serving](vivikta+sevinī)
+[solitude](vivikta) [resorting-to](sevinī)
 
 ## mukta-m0-p103-v2562
-[by-which](yena) [all-pervading](viśva+gataḥ) [also](api) [this](eṣa) [ever](jātu) [universe](viśvaṃ) [not](na) [should-conceive](bhāvaye)
+[by-which](yena) [all-pervading](viśvagataḥ) [even](api) [this](eṣa) [ever](jātu) [universe](viśvaṃ) [not](na) [should-conceive](bhāvaye)
 
 ## mukta-m0-p103-v2563
-[wisdom-producing](prajñā+janayitrī)
+[wisdom](prajñā) [generating](janayitrī)
 
 ## mukta-m0-p103-v2564
-[higher](parā) [lower](aparā) [always](sadā) [wisdom-producing](prajñā+janayitrī) [great-goddess](mahā+īśvarī)
+[higher](parā) [lower](aparā) [always](sadā) [wisdom](prajñā) [generating](janayitrī) [great-goddess](maheśvarī)
 
 ## mukta-m0-p103-v2565
-[much-learned](bahu+śrutiḥ)
+[much-learned](bahuśrutiḥ)
 
 ## mukta-m0-p103-v2566
-[on-one-hand](ekataḥ) [not-one-colored](na+eka+varṇā) [who](yā) [on-one-hand](na+ekataḥ) [also](api) [one-colored-partaking](eka+varṇa+bhāk)
+[on-one-hand](ekataḥ) [not-one](na+eka) [colored](varṇā) [who](yā) [on-one-hand](na+ekataḥ) [even](api) [one](eka) [color](varṇa) [partaking](bhāk)
 
 ## mukta-m0-p103-v2567
-[desireless](nir+īhā)
+[without-effort](nirīhā)
 
 ## mukta-m0-p103-v2568
-[by-which](yayā) [all](sarvaṃ) [having-done](vidhāya) [also](api) [not](na) [anything](kiṃcit) [and](ca) [is-done](vidhīyate)
+[by-whom](yayā) [all](sarvaṃ) [having-done](vidhāya) [even](api) [not](na) [anything](kiṃcit) [and](ca) [is-done](vidhīyate)
 
 ## mukta-m0-p103-v2569
-[p.-296](p. 296)) [all-one](samasta+ekā)
+[all](samasta) [one](ekā)
 
 ## mukta-m0-p103-v2570
-[of-the-knowers-of-that](tat+vidāṃ) [and](ca) [by-own-nature](sva+rūpeṇa) [all-one](samasta+ekā) [victorious](jayati) [she](asau)
+[of-those-who-know-that](tadvidāṃ) [and](ca) [by-nature](svarūpeṇa) [all](samasta) [one](ekā) [victorious](jayati) [she](asau)
 
 ## mukta-m0-p103-v2571
-[by-all-worlds-uniquely-served](sarva+loka+eka+sevitā)
+[by-all](sarva) [worlds](loka) [alone](eka) [served](sevitā)
 
 ## mukta-m0-p103-v2572
-[by-one-mindedness](eka+cittatayā) [may-be-victorious](jīyāt) [by-all-worlds-uniquely-served](sarva+loka+eka+sevitā)
+[by-one-mindedness](eka+cittatayā) [may-be-victorious](jīyāt) [by-all](sarva) [worlds](loka) [alone](eka) [served](sevitā)
 
 ## mukta-m0-p103-v2573
 [service](sevā)
 
 ## mukta-m0-p103-v2574
-[service](sevā) [higher-and-higher](uttara+uttaraṃ) [to-be-done](kāryā) [art](kalā) [one](ekā) [fruit-giving](phala+pradā)
+[service](sevā) [higher-and-higher](uttara+uttaraṃ) [to-be-done](kāryā) [art](kalā) [one](ekā) [fruit](phala) [giving](pradā)
 
 ## mukta-m0-p103-v2575
-[service-loving](sevā+priyā)
+[service](sevā) [fond-of](priyā)

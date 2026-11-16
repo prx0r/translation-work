@@ -11,40 +11,40 @@
 [Mṛḍānī](mṛḍānī) [may-protect](pātu) [going](yāntaṃ) [or](vā) [always](sarvadā) [path](pathi) [deity](devatā)
 
 ## mukta-m0-p106-v2629
-[all](sarva) [holy-place](tīrtha) [consisting-of](mayī) [form](mūrtiḥ)
+[all](sarva) [sacred-fords](tīrtha) [consisting-of](mayī) [form](mūrtiḥ)
 
 ## mukta-m0-p106-v2630
-[all](sarva) [holy-place](tīrtha) [consisting-of](mayī) [form](mūrtiḥ) [manifestation](sphūrtiṃ) [may-make](kuryāt) [which](yat) [within](antarā)
+[all](sarva) [sacred-fords](tīrtha) [consisting-of](mayī) [form](mūrtiḥ) [manifestation](sphūrtiṃ) [may-make](kuryāt) [which](yat) [within](antarā)
 
 ## mukta-m0-p106-v2631
-[all](sarva) [deity](deva) [consisting-of](mayī) [radiance](prabhā)
+[all](sarva) [gods](deva) [consisting-of](mayī) [radiance](prabhā)
 
 ## mukta-m0-p106-v2632
-[by-which](yayā) [set](astaṃ) [that](tat) [darkness](tamaḥ) [even](api) [this](eṣā) [all](sarva) [deity](deva) [consisting-of](mayī) [radiance](prabhā)
+[by-which](yayā) [set](astaṃ) [that](tat) [darkness](tamaḥ) [even](api) [this](eṣā) [all](sarva) [gods](deva) [consisting-of](mayī) [radiance](prabhā)
 
 ## mukta-m0-p106-v2633
-[all](sarva) [accomplishment](siddhi) [giving](pradā) [power](śaktiḥ)
+[all](sarva) [accomplishments](siddhi) [granting](pradā) [power](śaktiḥ)
 
 ## mukta-m0-p106-v2634
-[all](sarva) [accomplishment](siddhi) [giving](pradā) [power](śaktiḥ) [may-be-victorious](jayatāt) [may-be-victorious](jayatāt) [this](iyam)
+[all](sarva) [accomplishments](siddhi) [granting](pradā) [power](śaktiḥ) [may-be-victorious](jayatāt) [may-be-victorious](jayatāt) [this](iyam)
 
 ## mukta-m0-p106-v2635
-[all](sarva) [auspiciousness](maṅgala) [auspicious](maṅgalā)
+[all](sarva) [auspiciousness](maṅgala) [auspiciousness](maṅgalā)
 
 ## mukta-m0-p106-v2636
-[because](yat) [everywhere](sarvatra) [always](sadā) [known](jñātā) [all](sarva) [auspiciousness](maṅgala) [auspicious](maṅgalā)
+[which](yat) [everywhere](sarvatra) [always](sadā) [known](jñātā) [all](sarva) [auspiciousness](maṅgala) [auspiciousness](maṅgalā)
 
 ## mukta-m0-p106-v2637
-[supreme](parama) [power](śaktiḥ) [this](iyaṃ) [with-glory](śriyā) [be-victorious](jaya) [all](sarva) [auspiciousness](maṅgala) [auspicious](maṅgalā)
+[supreme](parama) [power](śaktiḥ) [this](iyaṃ) [with-glory](śriyā) [be-victorious](jaya) [all](sarva) [auspiciousness](maṅgala) [auspiciousness](maṅgalā)
 
 ## mukta-m0-p106-v2638
 [fifteen-versed](pañcadaśī) [devotion](bhaktiḥ)
 
 ## mukta-m0-p106-v2639
-[not](na) [indeed](nāma) [to-him](nāmuṃ) [bow](praṇamanti) [who](ke) [who](ke)
+[not](na) [indeed](nāma) [to-him](nāmuṃ) [bow-down](praṇamanti) [who](ke) [who](ke)
 
 ## mukta-m0-p106-v2640
-[sense](hṛṣīka) [group](pūgaṃ) [and](ca) [pure](śuciḥ) [threefold](tridhā) [also](api)
+[sense-organs](hṛṣīka) [group](pūgaṃ) [and](ca) [pure](śuciḥ) [threefold](tridhā) [also](api)
 
 ## mukta-m0-p106-v2641
 [meditating](dhyāyan) [should-study](adhīyeta) [and](ca) [him](taṃ) [at-three-junctures](trisandhyam)
@@ -62,7 +62,7 @@
 [with-that](sa) [splendor](tejasvitā) [that](sā) [also](api) [would-be](bhavet) [subordinate](adhīnā)
 
 ## mukta-m0-p106-v2646
-[would-be](syāt) [of-him](tat) [own-controlled](svavaśyaṃ) [mighty](prabalaṃ) [strength](balitvam)
+[would-be](syāt) [to-him](tat) [self-controlled](svavaśyaṃ) [mighty](prabalaṃ) [strength](balitvam)
 
 ## mukta-m0-p106-v2647
 [heroism](śauryaṃ) [how](kathaṃ) [not](na) [would-be](astu) [shining](virājamānam)
@@ -71,7 +71,7 @@
 [because](yat) [sorrow](śokaḥ) [from-this](etat) [born](prabhavaḥ) [even](api) [far-away](dūre)
 
 ## mukta-m0-p106-v2649
-[would-be](syātāṃ) [subdued](vaśau) [those-two](tau) [and](ca) [fame](yaśaḥ) [splendor](pratāpau)
+[would-be](syātāṃ) [subdued](vaśau) [those-two](tau) [and](ca) [fame](yaśaḥ) [majesty](pratāpau)
 
 ## mukta-m0-p106-v2650
-[to-intellect](matyā) [and-so-on](ādi) [subordinate](adhīnā) [not](na) [would-be](bhavet) [how](kathaṃ) [indeed](tu)
+[to-intellect](matyā) [and-so-forth](ādi) [subordinate](adhīnā) [not](na) [would-be](bhavet) [how](kathaṃ) [indeed](tu)
