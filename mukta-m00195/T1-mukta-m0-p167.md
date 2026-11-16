@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p167-v4151
-[east+etc.](pūrvādi) [+clockwise-direction](prādakṣiṇyena) [to-īśāna](īśānāya) [sun](sūrya) [+form](mūrtaye)
+[east-etc-circumambulation-by](pūrvādiprādakṣiṇyena) [to-īśāna](īśānāya) [sun-form-to](sūryamūrtaye)
 
 ## mukta-m0-p167-v4152
-[to-śarva](śarvāya) [water](jala) [+form](mūrtaye) [obeisance](namaḥ)
+[to-śarva](śarvāya) [water-form-to](jalamūrtaye)
 
 ## mukta-m0-p167-v4153
-[to-bhīma](bhīmāya) [ether](ākāśa) [+form](mūrtaye) [ṅe-ending](ṅentaṃ) [paśupati](paśupatiṃ) [likewise](tathā)
+[to-bhīma](bhīmāya) [sky-form-to](ākāśamūrtaye) [bowing](ṅentaṃ) [to-paśupati](paśupatiṃ) [thus](tathā)
 
 ## mukta-m0-p167-v4154
-[moonlight](jyotsnā) [full](pūrṇā) [this](eṣā) [fulfilling](pūraṇī) [nectar](sudhā)
+[jyotsnā](jyotsnā) [full-this](pūrṇeṣā) [filling](pūraṇī) [nectar](sudhā)
 
 ## mukta-m0-p167-v4155
-[white](sitā) [united](yuktā) [essence](sārā) [to-be-accomplished](sādhyā) [auspicious](śivā) [night](niśā)
+[white](sitā) [joined](yuktā) [essence](sārā) [to-be-accomplished](sādhyā) [auspicious](śivā) [night](niśā)
 
 ## mukta-m0-p167-v4156
-[in-fifth](pañcama) [+enclosure](āvaraṇe) [and-these](ca+etāḥ) [in-sixth](ṣaṣṭha) [+enclosure](āvaraṇa) [+gone](gāḥ) [then](atha)
+[in-fifth-enclosure](pañcamāvaraṇe) [these](caitāḥ) [in-sixth-enclosure-going](ṣaṣṭhāvaraṇagā) [then](atha)
 
 ## mukta-m0-p167-v4157
-[in-seventh](saptame) [world](loka) [+guardians](pālāḥ) [and](ca) [their](tat) [+weapons](astrāṇi) [likewise](tathā) [in-eighth](aṣṭame)
+[in-seventh](saptame) [world-guardians-and](lokapālāśca) [their-weapons](tadastrāṇi) [thus](tathā) [in-eighth](aṣṭame)
 
 ## mukta-m0-p167-v4158
-[one-should-offer](juhuyāt) [with-ten](daśabhiḥ) [+substances](dravyaiḥ) [ten-thousand](ayutaṃ) [ghee](ghṛta) [+mixed](saṃyutaiḥ)
+[one-should-offer](juhuyāt) [with-ten-substances](daśabhirdravyaiḥ) [ten-thousand](ayutaṃ) [ghee-mixed-with](ghṛtasaṃyutaiḥ)
 
 ## mukta-m0-p167-v4159
-[dūrvā-grass](dūrvāṃ) [and](ca) [likewise](tathā) [with-one](ekena) [one-thousand](sahasrakam)
+[darbha-grass](dūrvāṃ) [and](ca) [then](tathā) [with-one](ekena) [thousand](sahasrakam)
 
 ## mukta-m0-p167-v4160
-[fit-for-use](prayoga+arhaḥ) [becomes](jāyate) [this](ayaṃ) [great](mahā) [+mantra](manuḥ)
+[for-use-fit](prayogārho) [becomes](jāyate) [this](iyaṃ) [great-mantra](mahāmanuḥ)
 
 ## mukta-m0-p167-v4161
-[one-should-offer](juhuyāt) [of-brahma-tree](brahma+vṛkṣasya) [with-fuel-sticks](samidbhiḥ) [for-brahmanic-splendor](brahma+tejase)
+[one-should-offer](juhuyāt) [of-brahma-tree](brahmavṛkṣasya) [with-fuel-sticks](samidbhiḥ) [for-brahma-power](brahmatejase)
 
 ## mukta-m0-p167-v4162
-[with-fuel-sticks](samidbhiḥ) [of-banyan-tree](vaṭa+vṛkṣasya) [one-should-offer](juhuyāt) [and](ca) [according-to-rule](yathā+vidhi)
+[with-fuel-sticks](samidbhir) [of-banyan-tree](vaṭavṛkṣasya) [one-should-offer](juhuyāt) [and](ca) [as-prescribed](yathāvidhi)
 
 ## mukta-m0-p167-v4163
-[having-offered](hutvā) [from-all](sarva) [+sins](pāpaiḥ) [is-released](pramucyate)
+[having-offered](hutvā) [from-all-sins](sarvapāpaiḥ) [is-freed](pramucyate)
 
 ## mukta-m0-p167-v4164
-[by-procedure](vidhānena) [not](na) [should-be](syāt) [death](mṛtyuḥ) [untimely](akālataḥ)
+[by-rule](vidhānena) [not](na) [would-be](syāt) [death](mṛtyuḥ) [untimely](akālataḥ)
 
 ## mukta-m0-p167-v4165
-[cooked-rice](siddha+annaṃ) [having-offered](hutvā) [magical-rite](kṛtyāṃ) [one-should-destroy](vināśayet)
+[with-cooked-rice-offering](siddhānnaṃ) [having-offered](hutvā) [magic](kṛtyāṃ) [would-destroy](vināśayet)
 
 ## mukta-m0-p167-v4166
-[conversation](saṃvādaṃ) [one-should-make](kuryāt) [of-two-enemies](vidveṣiṇoḥ) [mutually](mithaḥ)
+[conversation](saṃvādaṃ) [would-make](kuryāt) [of-enemies](vidveṣiṇor) [mutually](mithaḥ)
 
 ## mukta-m0-p167-v4167
-[diseases](āmayān) [all](nikhilān) [having-conquered](jitvā) [long](dīrgham) [life](āyuḥ) [one-obtains](avāpnuyāt)
+[diseases](āmayān) [all](nikhilān) [having-conquered](jitvā) [long-life](dīrghamāyuḥ) [would-attain](avāpnuyāt)
 
 ## mukta-m0-p167-v4168
-[prosperity](lakṣmīm) [health](ārogyaṃ) [abundant](vipulaṃ) [fame](yaśaḥ)
+[fortune](lakṣmīm) [health](ārogyaṃ) [abundant](vipulaṃ) [fame](yaśaḥ)
 
 ## mukta-m0-p167-v4169
-[one-should-live](jīvet) [year](varṣa) [+hundred](śataṃ) [happy](sukhī)
+[would-live](jīvet) [hundred-years](varṣaśataṃ) [happy](sukhī)
 
 ## mukta-m0-p167-v4170
-[one-should-offer](juhuyāt) [brāhmaṇas](brāhmaṇān) [afterwards](ante) [one-should-feed](bhojayet) [with-sweets](madhura) [+endowed](anvitam)
+[one-should-offer](juhuyāt) [to-brahmins](brāhmaṇān) [then](ante) [one-should-feed](bhojayet) [with-sweet-mixed](madhurānvitam)
 
 ## mukta-m0-p167-v4171
-[long](dīrgham) [life](āyuḥ) [with-prosperity](śriyā) [together](saha)
+[long-life](dīrghamāyuḥ) [with-fortune](śriyā) [together](saha)
 
 ## mukta-m0-p167-v4172
-[in-six](ṣaṭ) [+months](māsāt) [not](na) [here](atra) [doubt](saṃśayaḥ)
+[after-six-months](ṣaṇmāsāt) [not-here](nātra) [doubt](saṃśayaḥ)
 
 ## mukta-m0-p167-v4173
-[milky-tree](kṣīra+druma) [+fuel-stick](samid) [+oblation](homāt) [brāhmaṇas](brāhmaṇān) [+and-others](ādīn) [under-control](vaśaṃ) [one-should-bring](nayet)
+[with-kṣīra-tree-fuel-offering](kṣīradrumasamiddhomāt) [brahmins-etc](brāhmaṇādīn) [under-control](vaśaṃ) [would-bring](nayet)
 
 ## mukta-m0-p167-v4174
-[one-should-accomplish](sādhayet) [desired](iṣṭam) [of-oneself](ātmanaḥ)
+[one-would-accomplish](sādhayet) [desired](iṣṭam) [for-oneself](ātmanaḥ)
 
 ## mukta-m0-p167-v4175
-[medhātithi](medhātithiḥ) [sage](ṛṣiḥ) [declared](proktaḥ) [gāyatra](gāyatraṃ) [meter](chandaḥ) [stated](īritam)
+[medhātithi-ṛṣi](medhātithir-ṛṣiḥ) [said](proktaḥ) [gāyatrī-meter](gāyatraṃ) [chandas](chandaḥ) [declared](īritam)
