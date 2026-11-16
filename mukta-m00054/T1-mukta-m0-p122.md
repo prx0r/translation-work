@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p122-v3026
-mendicant-dative+obeisance(bhikṣavenamaḥ) mendicant-form-dative+obeisance(bhikṣurūpāyanamaḥ) market-dative+obeisance(vipaṇāyanamaḥ)
+[to-beggar](bhikṣavenamaḥ) [to-beggar-form](bhikṣurūpāyanamaḥ) [to-market](vipaṇāyanamaḥ)
 
 ## mukta-m0-p122-v3027
-vajra-hand-dative+obeisance(vajrahastāyanamaḥ) viṣkambhin-dative+obeisance(viṣkambhinenamaḥ)
+[to-thunderbolt-holder](vajrahastāyanamaḥ) [to-obstructor](viṣkambhinenamaḥ)
 
 ## mukta-m0-p122-v3028
-army-pillar-dative+obeisance(camūstambhanāyanamaḥ) turn-turn-doer-dative+obeisance(vṛttāvṛttakarāyanamaḥ)
+[to-army-stopper](camūstambhanāyanamaḥ) [to-round-and-not-round-maker](vṛttāvṛttakarāyanamaḥ)
 
 ## mukta-m0-p122-v3029
-tāla-dative+obeisance(tālāyanamaḥ) madhu-dative+obeisance(madhavenamaḥ) madhu-eye-dative+obeisance(madhukalocanāyanamaḥ)
+[to-palm](tālāyanamaḥ) [to-spring](madhavenamaḥ) [to-honey-eyed](madhukalocanāyanamaḥ)
 
 ## mukta-m0-p122-v3030
-vācaspati-dative+obeisance(vācaspatyāyanamaḥ) vājasana-dative+obeisance(vājasanāyanamaḥ)
+[to-speech-lord](vācaspatyāyanamaḥ) [to-feathered](vājasanāyanamaḥ)
 
 ## mukta-m0-p122-v3031
-hermitage-honored-dative+obeisance(āśramapūjitāyanamaḥ) brahma-student-dative+obeisance(brahmacāriṇenamaḥ)
+[to-hermitage-honored](āśramapūjitāyanamaḥ) [to-celibate](brahmacāriṇenamaḥ)
 
 ## mukta-m0-p122-v3032
-world-wanderer-dative+obeisance(lokacāriṇenamaḥ) all-wanderer-dative+obeisance(sarvacāriṇenamaḥ) discernment-knower-dative+obeisance(vicāravidenamaḥ)
+[to-world-wanderer](lokacāriṇenamaḥ) [to-all-wanderer](sarvacāriṇenamaḥ) [to-inquiry-knower](vicāravidenamaḥ)
 
 ## mukta-m0-p122-v3033
-īśāna-dative+obeisance(īśānāyanamaḥ) īśvara-dative+obeisance(īśvarāyanamaḥ) time-dative+obeisance(kālāyanamaḥ)
+[to-lord](īśānāyanamaḥ) [to-controller](īśvarāyanamaḥ) [to-time](kālāyanamaḥ)
 
 ## mukta-m0-p122-v3034
-night-wanderer-dative+obeisance(niśācāriṇenamaḥ) pināka-holder-dative+obeisance(pinākadhṛṣenamaḥ) omen-stander-dative+obeisance(nimittasthāyanamaḥ)
+[to-night-wanderer](niśācāriṇenamaḥ) [to-pinaka-holder](pinākadhṛṣenamaḥ) [to-omen-abider](nimittasthāyanamaḥ)
 
 ## mukta-m0-p122-v3035
-omen-dative+obeisance(nimittāyanamaḥ) nandaya-dative+obeisance(nandayenamaḥ) nandikara-dative+obeisance(nandikarāyanamaḥ)
+[to-omen](nimittāyanamaḥ) [to-delighter](nandayenamaḥ) [to-joy-maker](nandikarāyanamaḥ)
 
 ## mukta-m0-p122-v3036
-hara-dative+obeisance(harayenamaḥ) nandīśvara-dative+obeisance(nandīśvarāyanamaḥ) nandin-dative+obeisance(nandinenamaḥ)
+[to-hara](harayenamaḥ) [to-joy-lord](nandīśvarāyanamaḥ) [to-joy](nandinenamaḥ)
 
 ## mukta-m0-p122-v3037
-destroyer-dative+obeisance(nihantrenamaḥ) time-dative+obeisance(kālāyanamaḥ) brahman-dative+obeisance(brahmaṇenamaḥ)
+[to-slayer](nihantrenamaḥ) [to-time](kālāyanamaḥ) [to-brahman](brahmaṇenamaḥ)
 
 ## mukta-m0-p122-v3038
-grandfather-dative+obeisance(pitāmahāyanamaḥ) four-faced-dative+obeisance(caturmmukhāyanamaḥ)
+[to-grandfather](pitāmahāyanamaḥ) [to-four-faced](caturmmukhāyanamaḥ)
 
 ## mukta-m0-p122-v3039
-great-liṅga-dative+obeisance(mahāliṅgāyanamaḥ) lovely-liṅga-dative+obeisance(cāruliṅgāyanamaḥ)
+[to-great-linga](mahāliṅgāyanamaḥ) [to-beautiful-linga](cāruliṅgāyanamaḥ)
 
 ## mukta-m0-p122-v3040
-liṅga-lord-dative+obeisance(liṅgādhyakṣāyanamaḥ) gods-lord-dative+obeisance(surādhyakṣāyanamaḥ)
+[to-linga-superintendent](liṅgādhyakṣāyanamaḥ) [to-god-superintendent](surādhyakṣāyanamaḥ)
 
 ## mukta-m0-p122-v3041
-yoga-lord-dative+obeisance(yogādhyakṣāyanamaḥ) yuga-bringer-dative+obeisance(yugāvahāyanamaḥ)
+[to-yoga-superintendent](yogādhyakṣāyanamaḥ) [to-yuga-bearer](yugāvahāyanamaḥ)
 
 ## mukta-m0-p122-v3042
-seed-lord-dative+obeisance(bījādhyakṣāyanamaḥ) seed-maker-dative+obeisance(bījakarttrenamaḥ)
+[to-seed-superintendent](bījādhyakṣāyanamaḥ) [to-seed-maker](bījakarttrenamaḥ)
 
 ## mukta-m0-p122-v3043
-self-gone-to-dative+obeisance(adhyātmānugatāyanamaḥ) strength-dative+obeisance(balāyanamaḥ) itihāsa-dative+obeisance(itihāsāyanamaḥ)
+[to-self-follower](adhyātmānugatāyanamaḥ) [to-strength](balāyanamaḥ) [to-history](itihāsāyanamaḥ)
 
 ## mukta-m0-p122-v3044
-subjugated-dative+obeisance(vaśyāyanamaḥ) subjugator-dative+obeisance(vaśakarāyanamaḥ) time-dative+obeisance(kalayenamaḥ)
+[to-subduer](vaśyāyanamaḥ) [to-subjugator](vaśakarāyanamaḥ) [to-time](kalayenamaḥ)
 
 ## mukta-m0-p122-v3045
-world-maker-dative+obeisance(lokakarttrenamaḥ) paśupati-dative+obeisance(paśupatayenamaḥ) great-maker-dative+obeisance(mahākarttrenamaḥ)
+[to-world-maker](lokakarttrenamaḥ) [to-pashupati](paśupatayenamaḥ) [to-great-maker](mahākarttrenamaḥ)
 
 ## mukta-m0-p122-v3046
-no-medicine-dative+obeisance(anauṣadhāyanamaḥ) imperishable-dative+obeisance(akṣarāyanamaḥ) supreme-brahman-dative+obeisance(paramabrahmaṇenamaḥ)
+[to-without-medicine](anauṣadhāyanamaḥ) [to-imperishable](akṣarāyanamaḥ) [to-supreme-brahman](paramabrahmaṇenamaḥ)
 
 ## mukta-m0-p122-v3047
-mighty-dative+obeisance(balavatenamaḥ) śakra-dative+obeisance(śakrāyanamaḥ) conduct-dative+obeisance(nītayenamaḥ)
+[to-strong](balavatenamaḥ) [to-indra](śakrāyanamaḥ) [to-policy](nītayenamaḥ)
 
 ## mukta-m0-p122-v3048
-misconduct-dative+obeisance(anītayenamaḥ) pure-self-dative+obeisance(śuddhātmanenamaḥ) pure-dative+obeisance(śuddhāyanamaḥ)
+[to-without-policy](anītayenamaḥ) [to-pure-soul](śuddhātmanenamaḥ) [to-pure](śuddhāyanamaḥ)
 
 ## mukta-m0-p122-v3049
-honored-dative+obeisance(mānyāyanamaḥ) gone-and-come-dative+obeisance(gatāgatāyanamaḥ) much-grace-dative+obeisance(bahuprasādāyanamaḥ)
+[to-honorable](mānyāyanamaḥ) [to-going-and-coming](gatāgatāyanamaḥ) [to-much-grace](bahuprasādāyanamaḥ)
 
 ## mukta-m0-p122-v3050
-veda-maker-dative+obeisance(vedakārāyanamaḥ) mantra-maker-dative+obeisance(mantrakārāyanamaḥ) wise-dative+obeisance(viduṣenamaḥ)
+[to-veda-maker](vedakārāyanamaḥ) [to-mantra-maker](mantrakārāyanamaḥ) [to-knower](viduṣenamaḥ)

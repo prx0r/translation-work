@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p109-v2701
-[threefold-sugar](trisitaṃ) [sandalwood](candanaṃ) [lotus](padmam) [uśīra-grass](uśīraṃ) [is-declared](parikīrtitam)
+[three-scented](trisitaṃ) [sandal](candanaṃ) [lotus+usira](padmamuśīraṃ) [declared](parikīrtitam)
 
 ## mukta-m0-p109-v2702
-[holy-place+water](tīrthodakaṃ) [fragrance+water](gandhatoyaṃ) [camphor+water](karpūrasyodakaṃ) [likewise](tathā)
+[holy-water](tīrthodakaṃ) [scented-water](gandhatoyaṃ) [camphor-water](karpūrasyodakaṃ) [thus](tathā)
 
 ## mukta-m0-p109-v2703
-[having-bathed](snāpayitvā) [as-prescribed](yathoktena) [likewise](tathā) [again](punaḥ) [bath](snānaṃ) [one-should-perform](samācaret)
+[having-bathed](snāpayitvā) [as-stated](yathoktena) [again](punaḥ) [bathing](snānaṃ) [should-perform](samācaret)
 
 ## mukta-m0-p109-v2704
-[with-eight+more+thousand](aṣṭottarasahasraistu) [gold+fashioned](suvarṇaghaṭitair) [with-pots](ghaṭaiḥ)
+[with-thousand-eight](aṣṭottarasahasraistu) [golden-pots](suvarṇaghaṭitairghaṭaiḥ)
 
 ## mukta-m0-p109-v2705
-[unable](aśaktaḥ) [but](tu) [hundred](śataṃ) [one-should-do](kuryāt) [tenfold](daśadhā) [O-god+beautiful-one](surasundari)
+[unable](aśaktastu) [hundred](śataṃ) [should-do](kuryāt) [tenfold](daśadhā) [celestial-beauty](surasundari)
 
 ## mukta-m0-p109-v2706
-[with-earthen](mārtikair) [or](vā) [with-pots](ghaṭaiḥ) [bath](snānam) [unable](aśaktaḥ) [but](tu) [one-should-perform](samācaret)
+[earthen-pots](mārtikairvā) [pots](ghaṭaiḥ) [bathing](snānam) [unable](aśaktastu) [should-perform](samācaret)
 
 ## mukta-m0-p109-v2707
-[in-pot](kumbhe) [having-done](kṛtvā) [according-to-rule](vidhānataḥ)
+[in-pot](kumbhe) [having-made](kṛtvā) [according-to-rite](vidhānataḥ)
 
 ## mukta-m0-p109-v2708
-[immortalization](amṛtīkaraṇaṃ) [one-should-do](kuryāt) [hand-gesture](mudrāṃ) [there](tatra) [and](ca) [one-should-show](darśayet)
+[nectar-making](amṛtīkaraṇaṃ) [should-do](kuryāt) [mudra](mudrāṃ) [there](tatra) [and](ca) [show](darśayet)
 
 ## mukta-m0-p109-v2709
-[great-festival](mahotsavaṃ) [then](tataḥ) [having-done](kṛtvā) [for-bathing](snānārthaṃ) [to-god+right-side](devadakṣiṇe)
+[great-festival](mahotsavaṃ) [then](tataḥ) [having-done](kṛtvā) [for-bathing](snānārthaṃ) [to-right-of-deity](devadakṣiṇe)
 
 ## mukta-m0-p109-v2710
-[rubbing-unguent](udvartanaṃ) [every-day](pratidinaṃ) [to-be-done](kartavyaṃ) [and](ca) [on-alternate-day](dināntare)
+[anointing](udvartanaṃ) [daily](pratidinaṃ) [should-be-done](kartavyaṃ) [and](ca) [at-day-end](dināntare)
 
 ## mukta-m0-p109-v2711
-[with-oils](snehair) [or](vā) [with-turmeric-powders](rajanībhiḥ) [and](ca) [with-rice+rubbing-unguent+etc.](taṇḍulodvartanādibhiḥ)
+[with-oils](snehairvā) [with-nights](rajanībhiśca) [rice-anointing-etc](taṇḍulodvartanādibhiḥ)
 
 ## mukta-m0-p109-v2712
-[having-rubbed](saṃghṛṣya) [body](gātraṃ) [with-leaves](patrair) [or](vā) [of-apāmārga](apāmārgasya) [with-roots](mūlakaiḥ)
+[rubbing](saṃghṛṣya) [limb](gātraṃ) [with-leaves](patrairvā) [of-apamarga](apāmārgasya) [roots](mūlakaiḥ)
 
 ## mukta-m0-p109-v2713
-[with-kuśa-grass](kuśena) [with-yak-tail-fan](cāmareṇa) [then](atha) [with-cow-hair](gobālena) [especially](viśeṣataḥ)
+[with-kusha](kuśena) [and-chamara](cāmareṇātha) [cow-tail](gobālena) [especially](viśeṣataḥ)
 
 ## mukta-m0-p109-v2714
-[having-given](datvā) [cow-hair](gobālakaṃ) [brush](kurcaṃ) [from-all+sins](sarvapāpāt) [removes](vyapohati)
+[having-given](datvā) [cow-tail-tuft](gobālakaṃ) [brush](kurcaṃ) [all-sins](sarvapāpād) [removes](vyapohati) [sins-removes](pāpānapohati)
 
 ## mukta-m0-p109-v2715
 [not](na) [of-boar](varāhasya) [with-hair](romeṇa) [not](na) [with-bamboo](vaṃśena) [ever](kadācana)
 
 ## mukta-m0-p109-v2716
-[on-liṅga](liṅge) [or](vā) [on-image](pratimāyāṃ) [or](vā) [on-śālagrāma](śālagrāme) [likewise](tathaiva) [and](ca)
+[on-linga](liṅge) [or](vā) [on-image](pratimāyāṃ) [vā](vā) [on-shalagrama](śālagrāme) [thus](tathaiva) [ca](ca)
 
 ## mukta-m0-p109-v2717
-[at-month+end](māsānte) [or](vā) [or](atha) [at-fortnight+end](pakṣānte) [one-should-brush](kūrcayet) [my](mama) [O-beautiful-one](sundari)
+[at-month-end](māsānte) [or](vātha) [at-fortnight-end](pakṣānte) [should-brush](kūrcayet) [my](mama) [beautiful](sundari)
 
 ## mukta-m0-p109-v2718
-[on-twelfth-day](dvādaśyāṃ) [in-Rāhu+eclipse](rāhugraste) [and](ca) [oil+bath](tailasnānaṃ) [not](na) [one-should-cause](kārayet)
+[on-dvadashi](dvādaśyāṃ) [when-rahu-grasped](rāhugraste) [ca](ca) [oil-bath](tailasnānaṃ) [not](na) [should-do](kārayet)
 
 ## mukta-m0-p109-v2719
-[at-nose+end](nāsikānte) [likewise](tathā) [in-private-part](guhye) [on-liṅga](liṅge) [and](ca) [on-body-hairs](pulakeṣu) [and](ca)
+[at-nose-tip](nāsikānte) [thus](tathā) [at-private](guhye) [on-linga](liṅge) [ca](ca) [on-hair](pulakeṣu) [ca](ca)
 
 ## mukta-m0-p109-v2720
-[with-red+garments](raktavastrair) [one-becomes](bhavet) [leprous](kuṣṭhī) [white-disease](pāṇḍuvyādhim) [one-obtains](avāpnuyāt)
+[with-red-cloths](raktavastrairbhavet) [becomes-leper](kuṣṭhī) [pandu-disease](pāṇḍuvyādhim) [obtains](avāpnuyāt)
 
 ## mukta-m0-p109-v2721
-[lower-garment](paridhānaṃ) [having-covered](pidhāya) [thus](evaṃ) [bath](snānaṃ) [who](yaḥ) [performs](kurute) [man](naraḥ)
+[covering](paridhānaṃ) [having-covered](pidhāyaivaṃ) [bathing](snānaṃ) [who](yaḥ) [does](kurute) [man](naraḥ)
 
 ## mukta-m0-p109-v2722
-[he](saḥ) [also](api) [destruction](nāśam) [obtains](avāpnoti) [wealth+destruction](dhananāśaṃ) [likewise](tathaiva) [and](ca)
+[he](so'pi) [destruction](nāśam) [obtains](avāpnoti) [wealth-loss](dhananāśaṃ) [thus](tathaiva) [ca](ca)
 
 ## mukta-m0-p109-v2723
-[with-bilva+wood+produced](bilvakāṣṭhodbhavena) [then](atha) [with-tulasī+wood](tulasīkāṣṭhakena) [or](vā)
+[from-bilva-wood](bilvakāṣṭhodbhavenātha) [or](vā) [with-tulasi-wood](tulasīkāṣṭhakena) [vā](vā)
 
 ## mukta-m0-p109-v2724
-[having-applied](pidhāya) [forehead-mark](tilakaṃ) [best](śreṣṭham) [of-these](eṣām) [with-one-of-them](ekatamena) [and](ca)
+[having-covered](pidhāya) [tilaka](tilakaṃ) [best](śreṣṭham) [of-these-one](eṣāmekatamena) [ca](ca)
 
 ## mukta-m0-p109-v2725
-[here](atra) [having-anointed](ālipya) [then](tato) [body](deham) [with-this](ayanena) [one-should-dismiss](visarjayet)
+[there](atrālipya) [then](tato) [body](deham) [with-this](ayanena) [should-dismiss](visarjayet)

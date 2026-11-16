@@ -2,76 +2,52 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p141-v3501
-[there](tatra) [having-bathed](snātvā) [brahma-world](brahma+lokaṃ) [not](na) [would-see](paśyed) [yama-abode](yama+sādanam)
-
+[there](tatra) [bathing](snātvā) [brahma-world](brahmalokaṃ) [not](na) [would-see](paśyed) [yama-abode](yamasādanam)
 ## mukta-m0-p141-v3502
-[at-mayūra](mayūre) [and-indeed](ca+eva) [lord-of-gods](divya+īśaṃ) [gaṇeśa](gaṇeśaṃ) [bull-bannered](vṛṣabha+dhvajam)
-
+[on-peacock](mayūre) [and-indeed](caiva) [divine-lord](divyeśaṃ) [ganesha](gaṇeśaṃ) [bull-bannered](vṛṣabhadhvajam)
 ## mukta-m0-p141-v3503
-[at-pāripātra](pāripātre) [situated](sthitā) [durgā](durgā) [of-her](tasyā) [with-mantra](mantreṇa) [one-should-worship](pūjayet)
-
+[on-paripatra](pāripātre) [situated](sthitā) [durga](durgā) [her](tasyā) [by-mantra](mantreṇa) [should-worship](pūjayet)
 ## mukta-m0-p141-v3504
-[at-vijaya](vijaye) [and](ca) [named-jayantā](jayantā+ākhyaṃ) [nāga](nāgakaṃ) [my](mama) [marked](lakṣaṇam)
-
+[in-vijaya](vijaye) [and](ca) [jayanta-named](jayantākhyaṃ) [naga](nāgakaṃ) [my](mama) [mark](lakṣaṇam)
 ## mukta-m0-p141-v3505
-[at-kaśeru-mountain](kaśeru+śaile) [lord-of-yogins](yogī+īśaḥ) [at-mānasa](mānase) [by-mind](manasā) [śivā](śivā)
-
+[on-kasheru-mountain](kaśeruśaile) [yogi-lord](yogīśaḥ) [in-mind](mānase) [by-mind](manasā) [shiva](śivā)
 ## mukta-m0-p141-v3506
-[at-called-kārtika](kārtika+ākhye) [great-mountain](mahā+śaile) [very-fierce](ati+ugraḥ) [there](tatra) [leader](nāyakaḥ)
-
+[on-kartika-named](kārtikākhye) [great-mountain](mahāśaile'tyugrastatra) [very-fierce-there](yadyugrastatra) [leader](nāyakaḥ)
 ## mukta-m0-p141-v3507
-[gayā-head](gayā+śiraḥ) [at-gayā-mountain](gayā+śaile) [of-viṣṇu](viṣṇoḥ) [and-indeed](ca+eva) [two-feet](pada+dvayam)
-
+[gayashira](gayāśiro) [on-gayamountain](gayāśaile) [vishnu-and-indeed](viṣṇoścaiva) [two-feet](padadvayam)
 ## mukta-m0-p141-v3508
-[at-kṛṣṇa-mountain](kṛṣṇa+śaile) [situated](sthitaḥ) [kṛṣṇa](kṛṣṇo) [at-vana-mountain](vana+śaile) [vana](vanaḥ) [likewise](tathā)
-
+[on-krishna-mountain](kṛṣṇaśaile) [situated](sthitaḥ) [krishna](kṛṣṇo) [on-forest-mountain](vanaśaile) [forest-thus](vanastathā)
 ## mukta-m0-p141-v3509
-[at-subhadra](subhadre) [blue-clad](nīla+vāsī) [and](ca) [at-mandara](mandare) [and](ca) [janārdana](janārdanaḥ)
-
+[in-subhadra](subhadre) [blue-clad](nīlavāsī) [and](ca) [on-mandara](mandare) [and](ca) [janardana](janārdanaḥ)
 ## mukta-m0-p141-v3510
-[at-kubera-mountain](kubera+śaile) [lotus-eyed-one](padma+ākṣi) [of-śiva-and-viṣṇu](śiva+viṣṇoḥ) [cave-pair](vila+dvayam)
-
+[on-kubera-mountain](kuberaśaile) [lotus-eyed](padmākṣi) [shiva-vishnu](śivaviṣṇorviladvayam) [two-abodes](viladvayam)
 ## mukta-m0-p141-v3511
-[at-dharma-mountain](dharma+śaile) [at-great-sacrificial-post](mahā+yūpe) [goddess](devī) [kāmeśvarī](kāmeśvarī) [situated](sthitā)
-
+[on-dharma-mountain](dharmaśaile) [great-yupa](mahāyūpe) [goddess](devī) [kameshvari](kāmeśvarī) [situated](sthitā)
 ## mukta-m0-p141-v3512
-[at-called-lolā](lolā+ākhye) [jambhakeśa](jambhakeśaḥ) [and](ca) [at-liṅga](liṅge) [lord-of-beings](paśupati+īśvaraḥ)
-
+[in-lola-named](lolākhye) [jambhakesha-and](jambhakeśaśca) [in-linga](liṅge) [pashupati-ishvara](paśupatīśvaraḥ)
 ## mukta-m0-p141-v3513
-[at-kamala](kamale) [lotus](kamalaṃ) [liṅga](liṅgaṃ) [at-kāmadhenu](kāmadhenau) [but](tu) [keśava](keśavaḥ)
-
+[in-kamala](kamale) [lotus](kamalaṃ) [linga](liṅgaṃ) [in-kamadhenu](kāmadhenau) [but](tu) [kesava](keśavaḥ)
 ## mukta-m0-p141-v3514
-[at-kāma-mountain](kāma+śaile) [situated](sthitā) [sītā](sītā) [at-anasūyā-hermitage](anasūyā+āśrame) [beloved](priye)
-
+[on-kama-mountain](kāmaśaile) [situated](sthitā) [sita](sītā) [in-anasuya-ashrama](anasūyāśrame) [dear](priye)
 ## mukta-m0-p141-v3515
-[great-grandfather](prapitāmahaḥ) [and](ca) [at-gomedha](gomedhe) [at-gavākṣa](gavākṣe) [viṣṇu](viṣṇuḥ) [imperishable](avyayaḥ)
-
+[grandfather-and](prapitāmahaśca) [in-gomedha](gomedhe) [in-gavaksha](gavākṣe) [vishnu-imperishable](viṣṇuravyayaḥ)
 ## mukta-m0-p141-v3516
-[that-fruit](tat+phalaṃ) [obtains](samavāpnoti) [of-kāma-kuṇḍa](kāma+kuṇḍasya) [in-south](dakṣiṇe)
-
+[that-fruit](tatphalaṃ) [obtains](samavāpnoti) [of-kamakunda](kāmakuṇḍasya) [south](dakṣiṇe)
 ## mukta-m0-p141-v3517
-[having-worshipped](sampūjya) [with-fragrance-and-flowers](gandha+puṣpaiḥ) [and](ca) [with-incense-offerings-and-sandal](dhūpa+naivedya+candanaiḥ)
-
+[having-worshipped](sampūjya) [with-incense-flowers-and](gandhapuṣpaiśca) [with-incense-offerings-sandal](dhūpanaivedyacandanaiḥ)
 ## mukta-m0-p141-v3518
-[vigil](jāgaraṃ) [performs](kurute) [there](tatra) [he](sa) [goes](yāti) [supreme](paramāṃ) [state](gatim)
-
+[vigil](jāgaraṃ) [does](kurute) [there](tatra) [he](sa) [goes](yāti) [supreme](paramāṃ) [goal](gatim)
 ## mukta-m0-p141-v3519
-[of-her](tasyāḥ) [clear-water](svaccha+udakaṃ) [having-drunk](pītvā) [again-birth](punaḥ+janma) [not](na) [exists](vidyate)
-
+[her](tasyāḥ) [pure-water](svacchodakaṃ) [drinking](pītvā) [rebirth](punarjanma) [not](na) [is](vidyate)
 ## mukta-m0-p141-v3520
-[by-bows](dhanuṣāñ) [and](ca) [likewise](tathā) [ten-million](koṭī) [is-protected](rakṣyate) [by-gaṇa-leaders](gaṇa+nāyakaiḥ)
-
+[by-bows-and](dhanuṣāñca) [thus](tathā) [koti](koṭī) [protected](rakṣyate) [by-gana-leaders](gaṇanāyakaiḥ)
 ## mukta-m0-p141-v3521
-[kṛttivāsa-lord](kṛttivāsa+īśvaraḥ) [god](devo) [to-be-seen](draṣṭavyaḥ) [and](ca) [again](punaḥ) [again](punaḥ)
-
+[krittivaseshvara](kṛttivāseśvaro) [god](devo) [to-be-seen-and](draṣṭavyaśca) [again](punaḥ) [again](punaḥ)
 ## mukta-m0-p141-v3522
-[they](te) [blessed](dhanyāḥ) [they](te) [fulfilled](kṛta+arthāḥ) [and](ca) [by-them](taiḥ) [obtained](prāptaṃ) [of-birth](janmanaḥ) [fruit](phalam)
-
+[they](te) [blessed](dhanyāste) [they](kṛtārthāśca) [accomplished-and](taiḥ) [by-them](prāptaṃ) [obtained](janmanaḥ) [of-birth](phalam) [fruit](phalam)
 ## mukta-m0-p141-v3523
-[sixty-ten-million-thousands](ṣaṣṭi+koṭi+sahasrāṇi) [sixty-ten-million-hundreds](ṣaṣṭi+koṭi+śatāni) [and](ca)
-
+[sixty-crore-thousands](ṣaṣṭikoṭisahasrāṇi) [sixty-crore-hundreds](ṣaṣṭikoṭiśatāni) [and](ca)
 ## mukta-m0-p141-v3524
-[of-nīla-mountain](nīla+śailasya) [in-west](pāścātye) [in-south](dakṣiṇe) [also](api) [then](atha) [o-virtuous-one](su+vrate)
-
+[of-nilamountain](nīlaśailasya) [west](pāścātye) [south-also](dakṣiṇe'pyatha) [then](suvrate) [good-vowed](suvrate)
 ## mukta-m0-p141-v3525
-[there](tatra) [having-stood](sthitvā) [for-a-moment](nimeṣaṃ) [and](ca) [all-sacrifice-fruit](sarva+yajña+phalaṃ) [obtains](labhet)
+[there](tatra) [staying](sthitvā) [moment-and](nimeṣañca) [all-sacrifice-fruit](sarvayajñaphalaṃ) [obtains](labhet)

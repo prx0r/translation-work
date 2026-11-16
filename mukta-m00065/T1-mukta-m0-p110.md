@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p110-v2726
-[from-these](etebhyaḥ) [eighteen](aṣṭādaśa) [others](anye) [may-be](syuḥ) [beginning-with-uttama](uttama+ādyāḥ) [but](tu) [I-say](vacmi) [them](tān)
+[from-these](etebhyo) [eighteen](aṣṭādaśa) [others](anye) [be](syuḥ) [highest-etc](uttamādyāḥ) [I-speak](vacmi) [them](tān)
 
 ## mukta-m0-p110-v2727
-[called-Gauḍa](gauḍāḥ) [thus](iti) [and](ca) [sixfold](ṣoḍhā) [these](ete) [temples](prāsādāḥ) [and](ca) [with-lines](sa+rekhakāḥ)
+[gauḍas](gauḍāḥ) [thus](iti) [and](ca) [sixteen](ṣoḍaśa) [these](ete) [temples](prāsādāḥ) [with-lines](sarekhakāḥ)
 
 ## mukta-m0-p110-v2728
-[Gāndhāra](gāndhāraḥ) [and](ca) [earth-born](bhauma+jaḥ) [and](ca) [also](api) [temples](prāsādāḥ) [six](ṣaṭ) [remembered](smṛtāḥ) [but](tu) [these](ime)
+[gāndhāra](gāndhāraḥ) [earth-born](bhaumajaḥ) [and](ca) [api](api) [temples](prāsādāḥ) [six](ṣaṭ) [remembered](smṛtāḥ) [these](ime)
 
 ## mukta-m0-p110-v2729
-[of-unmanifest-manifest-mixed](avyakta+vyakta+miśrāṇāṃ) [of-liṅgas](liṅgāṇāṃ) [may-be](syāt) [in-order](kramāt) [abode](gṛham)
+[unmanifest-manifest-mixed](avyaktavyaktamiśrāṇām) [of-liṅgas](liṅgānām) [be](syāt) [in-order](kramāt) [house](gṛham)
 
 ## mukta-m0-p110-v2730
-[Mānika](mānikam])
+[manika](mānikam)
 
 ## mukta-m0-p110-v2731
-[with-uttama-etc-measures](uttama+ādi+karaiḥ) [and](ca) [may-be](syāt) [of-each-one](ekaikasya) [threefold](tridhā) [condition](gatiḥ)
+[highest-etc](uttamādi) [by-rays](karaiḥ) [and](ca) [be](syāt) [each](ekaikasya) [threefold](tridhā) [course](gatiḥ)
 
 ## mukta-m0-p110-v2732
-[consisting-of-inferior-measure](hīna+pravi+ātmakaṃ) [not](na) [desired](iṣṭaṃ) [cruel](krūraṃ) [in-excess-measure](māna+adhike) [situated](sthitam)
+[low-natured](hīnapravyātmakam) [not-desired](neṣṭam) [cruel](krūram) [in-measure-above](mānādhike) [situated](sthitam)
 
 ## mukta-m0-p110-v2733
-[circular-peak-moon-hall-named](vṛtta+śṛṅga+indu+śālā+ākhyaṃ) [characteristic](lakṣaṇaṃ) [tenfold](daśadhā) [is-stated](ucyate)
+[round-horn-moon-hall-named](vṛttaśṛṅgenduśālākhyaṃ) [characteristic](lakṣaṇam) [tenfold](daśadhā) [said](ucyate)
 
 ## mukta-m0-p110-v2734
-[Gāndhāra-pure-abodes](gāndhāra+śuddha+dhāmāni) [liṅga](liṅgam) [this](etat) [by-measure](pramāṇataḥ)
+[gāndhāra-pure-abodes](gāndhāraśuddhadhāmāni) [liṅga](liṅgam) [this](etat) [by-measure](pramāṇataḥ)
 
 ## mukta-m0-p110-v2735
-[these](ete) [ninety](navati) [vandhāra-temples](vandhārāḥ) [temples](prasādāḥ) [by-liṅga-measure](liṅga+mānataḥ)
+[these](ete) [ninety](navati) [vandhāras](vandhārāḥ) [temples](prasādāḥ) [liṅga-measure](liṅgamānataḥ)
 
 ## mukta-m0-p110-v2736
-[Śrīvatsa-Uka-Nanda-named](śrīvatsokapa+nanda+ākhyāḥ) [but](tu) [these](ete) [Vairāja-born](vairāja+jāḥ) [nine](nava)
+[śrīvatsa-nanda-named](śrīvatsokapanandākhyāḥ) [these](ete) [vairāja-born](vairājajāḥ) [nine](nava)
 
 ## mukta-m0-p110-v2737
-[ending-with-Vṛṣa-Ibha-Hasa-Tārkṣya](vṛṣa+ibha+hasa+tārkṣya+antāḥ) [in-order](kramāt) [may-be](syuḥ) [by-ninefold-division](nava+bhedataḥ)
+[bull-has-garuḍa-ended](vṛṣebhahasatārkṣyāntāḥ) [in-order](kramāt) [be](syuḥ) [nine-varieties](navabhedataḥ)
 
 ## mukta-m0-p110-v2738
-[Vajra](vajraḥ) [Tripiṣṭapa](tripiṣṭapaḥ) [and](ca) [from-Candra](candrāt) [Padma-Arka](padma+'rkā) [Dvalaya](dvalayaḥ) [Hari](hariḥ)
+[vajra](vajraḥ) [three-worlds](tripiṣṭapam) [moon](candraḥ) [lotus-sun](padmārkau) [two](dvau) [hari](hariḥ)
 
 ## mukta-m0-p110-v2739
-[eighteen](aṣṭādaśa) [from-principal](pradhānāt) [and](ca) [temples](prāsādāḥ) [but](tu) [of-both-natures](ubhaya+ātmakāḥ)
+[eighteen](aṣṭādaśa) [principal](pradhānāt) [and](ca) [temples](prāsādāḥ) [both-natured](ubhayātmakāḥ)
 
 ## mukta-m0-p110-v2740
-[Mālyavān](mālyāvān) [Malaya](malayaḥ) [and](ca) [indeed](eva) [Supārśva](supārśvaḥ) [Meru](meruḥ) [Ambhava](ambhavāḥ)
+[mālyavān](mālyāvān) [malaya](malayaḥ) [and](ca) [eva](eva) [supārśva](supārśvaḥ) [meru](meruḥ) [ambhava](ambhavāḥ)
 
 ## mukta-m0-p110-v2741
 [always](sadā)
 
 ## mukta-m0-p110-v2742
-[from-Śrīvatsa](śrīvatsāt) [named-Vardhamāna](vardhamāna+ākhyaḥ) [Mālā](mālā) [named-Śrīvatsa](śrīvatsa+saṃjñakaḥ)
+[śrīvatsa-etc-named](śrīvatsādvardhamānākhyaḥ) [garland](mālā) [śrīvatsa-named](śrīvatsasaṃjñakaḥ)
 
 ## mukta-m0-p110-v2743
-[hall-house](śālā+gṛhaṃ) [spacious](viśālaṃ) [and](ca) [Brahma-temple](brahma+mandira) [in-temple](mandire)
+[hall-house](śālāgṛham) [spacious](viśālam) [and](ca) [brahma-temple](brahmamandiram) [in-circle](mandire)
 
 ## mukta-m0-p110-v2744
-[half-house](ardha+gṛhaṃ) [named-hut](kuṭīra+ākhyaṃ) [stability-making](sthiti+kṛt) [and](ca) [from-lord-of-house](gṛha+adhipāt)
+[half-house](ardhagṛham) [hut-named](kuṭīrākhyaṃ) [sthiti-maker](sthitikṛt) [and](ca) [house-lord](gṛhādhipāt)
 
 ## mukta-m0-p110-v2745
-[Cakra](cakraṃ) [and](ca) [named-Svastika](svastika+saṃjñā) [and](ca) [Vijaya](vijayaḥ) [seven](sapta) [Vajra-born](vajra+jāḥ)
+[wheel](cakram) [swastika-named](svastikasaṃjñāt) [and](ca) [victory](vijayaḥ) [seven](sapta) [vajra-born](vajrajāḥ)
 
 ## mukta-m0-p110-v2746
-[Dundubhī](dundubhī) [Mukulī](mukulī) [Cakra](cakram) [Uṣṇīṣī](uṣṇīṣī) [named-Śaṅkha](śaṅkha+saṃjñakaḥ)
+[dundubhi](dundubhī) [mukuli](mukulī) [wheel](cakram) [uṣṇīṣa](uṣṇīṣī) [śaṅkha-named](śaṅkhasaṃjñakaḥ)
 
 ## mukta-m0-p110-v2747
-[Ṛkṣaka](ṛkṣakaḥ) [Bhūṣaṇa](bhūṣaṇaḥ) [and](ca) [indeed](eva) [Bhūdhara](bhūdharaḥ) [Śrījaya](śrījayaḥ) [likewise](tathā)
+[rkṣaka](ṛkṣakaḥ) [ornament](bhūṣaṇaḥ) [and](ca) [eva](eva) [earth-bearer](bhūdharaḥ) [śrī-jaya](śrījayaḥ) [thus](tathā)
 
 ## mukta-m0-p110-v2748
-[temples](prāsādāḥ) [stated-in-Bāṇa-śāstra](bāṇa+śāstra+uktāḥ) [but](tu) [this-division](etat+bhedaḥ) [very-extensive](ati+vistaraḥ)
+[temples](prāsādāḥ) [bāṇa-śāstra-said](bāṇaśāstroktāḥ) [and](ca) [this-variety](etadbhedaḥ) [too-extensive](ativistaraḥ)
 
 ## mukta-m0-p110-v2749
-[stated](uktāni) [divided-by-varieties](bheda+bhinnāni) [of-abodes](dhāmnāṃ) [indeed](vai) [in-Pārameśvara](pārameśvare)
+[said](uktāni) [varieties-separated](bhedabhinnāni) [of-abodes](dhāmnām) [indeed](vai) [parameshvara](pārameśvare)
 
 ## mukta-m0-p110-v2750
-[temple](prāsādaḥ) [of-Brahmā](brahmaṇaḥ) [also](api) [stated](uktaḥ) [but-not](na+tu) [of-others](anyeṣāṃ) [ever](kadācana)
+[temple](prāsādaḥ) [of-brahma](brahmaṇaḥ) [also](api) [said](uktaḥ) [not](na) [of-others](anyeṣām) [ever](kadācana)

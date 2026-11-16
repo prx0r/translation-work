@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p120-v2976
-[month](māsi) [month](māsi) [in-bright](site) [fortnight](pakṣe) [on-fifth](pañcamyāṃ) [or-on-seventh](saptamyāṃ) [sense-conquered](vijitendriyaḥ)
+[month](māsi) [month](māsi) [bright](site) [fortnight](pakṣe) [fifth](pañcamyāṃ) [seventh](saptamyāṃ) [sense-conquered](vijitendriyaḥ)
 
 ## mukta-m0-p120-v2977
-[in-lauhitya](lauhitye) [according-to-rule](vidhivat) [having-bathed](snātvā) [and-should-worship](arcayet) [and](ca) [or-worships](arcayati) [concentrated](samāhitaḥ)
+[redness](lauhitye) [duly](vidhivat) [having-bathed](snātvā) [would-worship](arcayecca) [arcayati](arcayati) [composed](samāhitaḥ)
 
 ## mukta-m0-p120-v2978
-[having-risen](uttirya) [two-garments](dāsasī) [washed](dhaute) [having-put-on](paridhāya) [very-clean](sunirmale)
+[having-crossed](uttirya) [cloth](dāsasī) [washed](dhaute) [having-put-on](paridhāya) [very-pure](sunirmale)
 
 ## mukta-m0-p120-v2979
-[having-sat](upaviśya) [at-sunrise](udaye) [time](kāle) [facing-east](prāṅmukhaḥ) [of-savitṛ](savituḥ) [likewise](tathā)
+[having-sat](upaviśya) [rising-time](udaye) [time](kāle) [east-facing](prāṅmukhaḥ) [of-sun](savitustathā)
 
 ## mukta-m0-p120-v2980
-[round](vartulam) [and](ca) [upward+spout](ūrdhva+karṇikam)
+[round](vartulañca) [upward-ear](ūrdhvakarṇikam)
 
 ## mukta-m0-p120-v2981
-[red+flower](rakta+puṣpam) [and](ca) [kuśa-grass](darbham) [and](ca) [having-placed](prakṣipya) [in-copper+vessel](tāmra+bhājane)
+[red-flower](raktapuṣpañca) [darbha](darbhañca) [having-thrown](prakṣipya) [copper-vessel](tāmrabhājane)
 
 ## mukta-m0-p120-v2982
-[having-covered](pidhāya) [then](tat) [o-great-goddess](mahā+īśāni) [vessel](pātram) [with-vessel](pātreṇa) [should-place](vinyaset)
+[having-covered](pidhāya) [that](tanmaheśāni) [vessel](pātraṃ) [vessel](pātreṇa) [would-place](vinyaset)
 
 ## mukta-m0-p120-v2983
-[not](na) [exists](asti)
+[not](nāsti)
 
 ## mukta-m0-p120-v2984
-[having-worshipped](sampūjya) [lotus](padmam) [and-beginning](ca+ārabhya) [from-sky](gaganāt) [there](tatra) [sun](bhāskaram)
+[having-worshipped](sampūjya) [lotus](padmañcārabhya) [from-sky](gaganāttatra) [sun](bhāskaram)
 
 ## mukta-m0-p120-v2985
-[having-performed](kṛtvā) [worship+etc.](arcana+ādikam) [all](sarvam) [having-meditated](dhyātvā) [him](tam) [attentive](samupāhitaḥ) [or-approached](samupasyitaḥ)
+[having-done](kṛtvā) [worship-etc](arcana-ādikaṃ) [all](sarvaṃ) [having-meditated](dhyātvā) [him](taṃ) [composed](samupāhitaḥ) [samupasyitaḥ](samupasyitaḥ)
 
 ## mukta-m0-p120-v2986
-[tawny+eyed](piṅgala+akṣam) [great+bodied](mahā+kāyam) [lotus+handed](padma+hasta) [red+garmented](aruṇa+ambaram)
+[tawny-eyed](piṅgalākṣaṃ) [great-bodied](mahākāyaṃ) [lotus-handed](padmahastā) [reddish-garmented](aruṇāmbaram)
 
 ## mukta-m0-p120-v2987
-[own+form](sva+rūpam) [strength+giving](bala+dam) [peaceful](śāntam) [radiance+circle+adorned](prabhā+maṇḍala+maṇḍitam)
+[own-form](svarūpaṃ) [strength-giving](baladaṃ) [peaceful](śāntaṃ) [radiance-orb](prabhāmaṇḍalamaṇḍitam)
 
 ## mukta-m0-p120-v2988
-[then](tataḥ) [that+vessel](tat+pātram) [having-taken](ādāya) [on-knees](jānubhyām) [to-earth](dharaṇīm) [gone](gataḥ)
+[then](tataḥ) [that-vessel](tatpātram) [having-taken](ādāya) [knees](jānubhyāṃ) [earth](dharaṇīṃ) [gone](gataḥ)
 
 ## mukta-m0-p120-v2989
-[with-three+syllabled](tri+akṣareṇa) [indeed](tu) [with-mantra](mantreṇa) [to-sun](sūryāya) [water-offering](arghyam) [should-offer](nivedayet)
+[three-syllabled](tryakṣareṇa) [mantra](tu) [mantra](mantreṇa) [to-sun](sūryāyārghyaṃ) [would-offer](nivedayet)
 
 ## mukta-m0-p120-v2990
-[as-long-as](yāvat) [not](na) [sees](vīkṣate) [viṣṇu](viṣṇum) [śaṅkara](śaṅkaram) [or](vā) [great-lord](mahā+īśvaram) [or-lord-of-gods](sura+īśvaram)
+[until](yāvanna) [sees](vīkṣate) [viṣṇu](viṣṇuṃ) [śiva](śaṅkaraṃ) [or](vā) [great-lord](maheśvaram) [sureśvaram](sureśvaram)
 
 ## mukta-m0-p120-v2991
-[to-āditya](ādityāya) [pure](śuciḥ) [having-bathed](snātvā) [he](saḥ) [may-obtain](labhet) [desired](īpsitam) [fruit](phalam)
+[to-āditya](ādityāya) [pure](śuciḥ) [having-bathed](snātvā) [he-obtains](sa) [desired](labhedīpsitaṃ) [fruit](phalam)
 
 ## mukta-m0-p120-v2992
-[with-tāntric](tāntrikaiḥ) [with-vedic](vaidikaiḥ) [with-mantras](mantraiḥ) [of-sun](bhānoḥ) [of-him](tasya) [and](ca) [wise](buddhimān)
+[tantric](tāntrikair) [vedic](vaidikair) [mantras](mantrair) [of-sun](bhānostasya) [and](ca) [wise](buddhimān)
 
 ## mukta-m0-p120-v2993
-[having-bathed](snātvā) [in-kapota+kuṇḍa](kapota+kuṇḍe) [and](ca) [may-ascend](ārohet) [sunrise+mountain](udaya+acalam)
+[having-bathed](snātvā) [dove-pool](kapotakuṇḍe) [and](ca) [would-ascend](ārohed) [rising-mountain](udayācalam)
 
 ## mukta-m0-p120-v2994
-[at-karaṇa](karaṇe) [according-to-rule](vidhivat) [having-bathed](snātvā) [in-aries+sun](meṣa+arke) [on-sun+day](ravi+vāsare)
+[rite](karaṇe) [duly](vidhivat) [having-bathed](snātvā) [aries-sun](meṣārke) [sun-day](ravivāsare)
 
 ## mukta-m0-p120-v2995
-[seven+lower](sapta+avarān) [seven](sapta) [higher](parān) [lineages](vaṃśān) [having-uplifted](uddhṛtya) [o-pārvatī](pārvati)
+[seven-lower](saptāvarān) [seven-upper](sapta) [parān](parān) [lineages](vaṃśān) [having-raised](uddhṛtya) [pārvati](pārvati)
 
 ## mukta-m0-p120-v2996
-[being-praised](upagīyamānaḥ) [or-being-praised](upagīyamāne) [by-gandharvas](gandharvaiḥ) [sun+world](sūrya+lokam) [he](saḥ) [goes](gacchati)
+[being-sung](upagīyamāno) [upagīyamāne](upagīyamāne) [gandharvas](gandharveḥ) [sun-world](sūryalokaṃ) [he-goes](sa) [gacchati](gacchati)
 
 ## mukta-m0-p120-v2997
-[who](yaḥ) [does](karoti) [man](naraḥ) [there](tatra) [aforementioned](pūrva+uktam) [all](sakalam) [may-obtain](labhet) [or-may-be](bhavet)
+[who](yaḥ) [does](karoti) [man](narastatra) [previously-said](pūrvoktaṃ) [all](sakalaṃ) [obtains](labhet) [bhavet](bhavet)
 
 ## mukta-m0-p120-v2998
-[on-weekday](vāre) [on-lunar-day](tithau) [on-sun](ravau) [and](ca) [indeed](eva) [at-all+time](sarva+kāle) [o-great-goddess](mahā+īśvari)
+[day](vāre) [tithi](tithiravau) [and](caiva) [all-times](sarvakāle) [maheśvari](maheśvari)
 
 ## mukta-m0-p120-v2999
-[by-celestial-car](vimānena) [sun+colored](arka+varṇena) [sun+world](sūrya+lokam) [go](vrajanti) [they](te)
+[chariot](vimānenārkavarṇena) [sun-world](sūryalokaṃ) [go](vrajanti) [they](te)
 
 ## mukta-m0-p120-v3000
-[rāmeśvara](rāmeśvaraḥ) [thus](iti) [known](khyātaḥ) [all+desire+fruit+giving](sarva+kāma+phala+pradaḥ)
+[rāmeśvara](rāmeśvara) [thus-called](iti) [khyātaḥ](khyātaḥ) [all-desires-fruit-giving](sarvakāmaphalapradaḥ)

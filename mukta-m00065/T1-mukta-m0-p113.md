@@ -5,73 +5,73 @@
 [corner](koṇaṃ) [and](ca) [indeed](eva) [by-division](vibhāgataḥ)
 
 ## mukta-m0-p113-v2802
-[chariot](ratho) [mansion+marked](dhāmāṅkito) [story](bhūḥ) [and](ca) [cavity+middle+going](kuharīmadhyago) [chariot](rathaḥ)
+[chariot](ratho) [marked-by-abode](dhāmāṅkito) [earth](bhūḥ) [and](ca) [middle-going-in-cavity](kuharīmadhyago) [chariot](rathaḥ)
 
 ## mukta-m0-p113-v2803
-[Bhṛgu+and-others](bhṛgādayaḥ) [with](sahe) [thus](iti) [indeed](evaṃ) [Śrīvatsa](śrīvatsaḥ) [should-be](syāt) [of-Hari](hareḥ) [beloved](priyaḥ)
+[bhṛga-and-others](bhṛgādayaḥ) [with](sahe) [thus](tyevaṃ) [śrīvatsa](śrīvatsaḥ) [be](syāt) [of-hari](dhareḥ) [dear](priyaḥ)
 
 ## mukta-m0-p113-v2804
-[lion+shouldered](siṃhaskandhaḥ) [spotless+essences+endowed-with](amalāsārairyuktaḥ) [to-be-made](kāryo) [house+lord](gṛhādhipaḥ)
+[lion-shouldered](siṃhaskandho) [pure-streams](amalāsāraiḥ) [endowed](yuktaḥ) [to-be-made](kāryo) [house-lord](gṛhādhipaḥ)
 
 ## mukta-m0-p113-v2805
-[various+demons+filled-with](nānāsurākulo) [delightful](ramno) [Nandana](nandanaḥ) [gods+delighting](suranandanaḥ)
+[various-asura-filled](nānāsurākulo) [delightful](ramyo) [nandana](nandanaḥ) [suranandana](suranandanaḥ)
 
 ## mukta-m0-p113-v2806
-[in-order](kramāt)
+[gradually](kramāt)
 
 ## mukta-m0-p113-v2807
-[with-pairs](ryugaiḥ) [with-waters](jalaiḥ)
+[with-waters](ryugairjalaiḥ)
 
 ## mukta-m0-p113-v2808
-[valabhī+moon+hall+faced](valabhīcandraśālāsyā) [four](catu) [nose+faced+endowed-with](rnāsāsyasaṃyutā)
+[valabhī-candraśālā-having](valabhīcandraśālāsyā) [four](catu) [nose-having](rnāsāsyasaṃyutā)
 
 ## mukta-m0-p113-v2809
-[kettle-drum+moon+hall](bherīnduśālikā) [by-two](dvābhyāṃ) [by-Meru](meruṇā) [spire+elevation](śikharonnatiḥ)
+[bherī-indu-śālikā](bherīnduśālikā) [by-two](dvābhyāṃ) [meru](meruṇā) [peak-elevation](śikharonnatiḥ)
 
 ## mukta-m0-p113-v2810
-[armor+part](kaṅkaṭāṃśaṃ) [but](tu) [having-contracted](saṅkocya) [spire](śikharaṃ) [right+side](dakṣabhāgataḥ)
+[kaṅkaṭa-portion](kaṅkaṭāṃśaṃ) [contracting](tu+saṅkocya) [peak](śikharaṃ) [right-side](dakṣabhāgataḥ)
 
 ## mukta-m0-p113-v2811
-[Meru+and-others+resembling](mervādyābhāḥ) [somewhere](kvacit) [to-be-made](kāryāḥ) [six+lions](ṣaṭsiṃhāḥ) [pot+headed](kumbhamastakā)
+[meru-and-others](mervādyābhāḥ) [sometimes](kvacit) [to-be-made](kāryāḥ) [six-lions](ṣaṭsiṃhāḥ) [pot-head](kumbhamastakā)
 
 ## mukta-m0-p113-v2812
-[two+six+on-both-sides](dviṣaṭkapārśvayoḥ) [to-be-placed](yojyaṃ) [two](dvau) [two](dvau) [life+purpose](prāṇārtham) [in-front](agrataḥ)
+[two-six-side](dviṣaṭkapārśvayoḥ) [to-be-joined](yojyaṃ) [two-two](dvau+dvau) [for-life-purpose](prāṇārtham) [in-front](agrataḥ)
 
 ## mukta-m0-p113-v2813
-[of-the-mountain+in](ghrācalasyake)
+[valabhī](ghrācalasyake)
 
 ## mukta-m0-p113-v2814
-[womb+circular](garbhavṛttaḥ) [wealth+Veda+cornered](arthavedāsro) [eight+part](aṣṭāṃśo) [or](vā) [in-god+lord](surādhipe)
+[round](garbhavṛtto) [wealth-veda-four-cornered](arthavedāsro) [eighth-part](aṣṭāṃśo) [vā](vā) [surādhipa](surādhipe)
 
 ## mukta-m0-p113-v2815
-[circular](vṛttaḥ) [or](vā) [with-lotus](abjena) [endowed-with](saṃyuktaḥ) [sixteen+half](ṣoḍaśārdha) [with-petal](dalena) [and](ca)
+[round](vṛtto) [vā](vā) [lotus](abjena) [joined](saṃyuktaḥ) [sixteen-half](ṣoḍaśārdha) [petal](dalena) [and](ca)
 
 ## mukta-m0-p113-v2816
-[one+door+one+nose](ekadvāraikanāsaḥ) [and](ca) [Padma+named](padmanāmā) [god+abode](surālayaḥ)
+[one-door-one-nose](ekadvāraikanāsaḥ) [and](ca) [lotus-named](padmanāmā) [surālaya](surālayaḥ)
 
 ## mukta-m0-p113-v2817
-[circular](vṛttaḥ) [being](san) [Valaya+named](valayāhvaḥ) [should-be](syāt) [all-around](parito) [with-rings+endowed](valayānvitaḥ)
+[round](vṛttaḥ) [san](san) [valaya-named](valayāhvaḥ) [be](syāt) [around](parito) [valaya-endowed](valayānvitaḥ)
 
 ## mukta-m0-p113-v2818
-[oblation](homa) [gods+beloved](amarapriyaḥ)
+[homa](homa) [amara-dear](amarapriyaḥ)
 
 ## mukta-m0-p113-v2819
-[nose+womb](nāsāgarbhaḥ) [and](ca) [Veda+cornered](vedāsrau) [five+story+height](pañcabhūmyucchrayo) [Vṛṣa](vṛṣaḥ)
+[nose-garbha](nāsāgarbhaḥ) [and](ca) [veda-cornered](vedāsrau) [five-ground-elevation](pañcabhūmyucchrayo) [bull](vṛṣaḥ)
 
 ## mukta-m0-p113-v2820
-[with-shank](jaṅgayā) [and](ca) [of-vimāna](vimānasya) [with-hip](kaṭyā) [of-Bhadra+named](bhadrāhvayasya) [and](ca)
+[by-jaṅgā](jaṅgayā) [and](ca) [of-vimāna](vimānasya) [of-waist](kaṭyā) [of-bhadra-named](bhadrāhvayasya) [and](ca)
 
 ## mukta-m0-p113-v2821
-[of-maker](kartu) [desire](ricchā) [by-will](vaśāt) [another](anyo) [to-be-placed](nyastavyo) [or](vā) [auspicious+giving](śubhapradaḥ)
+[to-be-made](kartu) [desire](ricchā) [by-will](vaśāt) [other](anyo) [to-be-placed](nyastavyo) [vā](vā) [auspicious-giving](śubhapradaḥ)
 
 ## mukta-m0-p113-v2822
-[wing+endowed-with](pakṣasaṃyutā)
+[wing-endowed](pakṣasaṃyutā)
 
 ## mukta-m0-p113-v2823
-[with-?](sasaryaṃ) [hip+neck+faced](kaṭikaṇṭhāsyaṃ) [in-?](viṣṭiṣṭe) [in-desire-for-bricks](tviṣṭakāmaye)
+[with-sarya](sasaryaṃ) [neck-waist-mouth](kaṭikaṇṭhāsyaṃ) [viṣṭiṣṭe](viṣṭiṣṭe) [brick-made](tviṣṭakāmaye)
 
 ## mukta-m0-p113-v2824
-[in-directions](dikṣu) [all](sarve) [valabhī+and-others](balabhyādyāḥ) [staircase+platform+endowed-with](sopānajagatīyutāḥ)
+[in-directions](dikṣu) [all](sarve) [balabhya-and-others](balabhyādyāḥ) [with-steps-and-plinth](sopānajagatīyutāḥ)
 
 ## mukta-m0-p113-v2825
-[above](ūrdhve) [and](ca) [by-half](ardhena) [Haṃsa](haṃsaḥ) [should-be](syāt) [womb+equal](garbhatulyā) [but](tu) [platform](vedikā)
+[above](ūrdhve) [and](ca) [by-half](ardhena) [swan](haṃsaḥ) [be](syāt) [garbha-equal](garbhatulyā) [tu](tu) [vedikā](vedikā)

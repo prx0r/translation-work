@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p09-v201
-[by-learning](śrutena) [versed-in-śruti](śrotriyaḥ)+[and](ca)+[indeed](eva) [brāhmaṇa](brāhmaṇo) [by-celibacy](brahmacaryataḥ)
+[by-study](śrutena) [vedic-scholar](śrotriyaḥ) [and](ca) [indeed](eva) [brahmin](brāhmaṇaḥ) [from-celibacy](brahmacaryataḥ)
 
 ## mukta-m0-p09-v202
-[in-human](manuṣya)+[birth](jāti)+[commonality](sāmānye) [what](ko) [hatred](vidveṣaḥ) [between-śiva-devotee](śiva)+[and-brāhmaṇa](dvije)
+[human-birth-commonality](manuṣyajātisāmānye) [who](ko) [hatred](vidveṣaḥ) [auspicious-twice-born](śivadvije)
 
 ## mukta-m0-p09-v203
-[not](na) [thus](tathā) [of-brāhmaṇas](brāhmaṇa)+[and-others](ādīnāṃ) [therefore](tasmāt)+[birth](jātiḥ)+[not](na)+[cause](kāraṇam)
+[not](na) [thus](tathā) [of-brahmins-etc](brāhmaṇādīnāṃ) [therefore](tasmāt) [birth](jātiḥ) [not-cause](nakāraṇam)
 
 ## mukta-m0-p09-v204
-[sacred-thread](upavītaṃ) [always](sadā) [to-be-worn](dhāryaṃ) [by-śaiva](śaiva)+[teachers](ācāryaiḥ)+[not](na) [and](ca)+[by-others](itaraiḥ)
+[sacred-thread](upavītaṃ) [always](sadā) [to-be-worn](dhāryaṃ) [by-shaiva-teachers](śaivācāryaiḥ) [not](na) [by-others](cetaraiḥ)
 
 ## mukta-m0-p09-v205
-[sāvitrī](sāvitra) [thus](ittham) [this](ī) [supreme](parṇā) [declared](proktā) [in-various](nānā) [śaiva](śiva)+[scriptures](āgame)
+[sāvitrī](sāvitra) [thus](ittham) [leaf](parṇā) [declared](proktā) [various](nānā) [in-shaiva-agamas](śivāgame)
 
 ## mukta-m0-p09-v206
-[of-two](dvayoḥ) [may-be](syāt)+[birth](jātiḥ)+[thus](iti)+[said](uktaḥ) [sāvitrī](sāvitraḥ)+[but](tu) [own](sva)+[sphere](gocaraḥ)
+[of-two](dvayoḥ) [may-be](syāt) [birth](jyātiḥ) [thus-said](ityuktaḥ) [sāvitrī](sāvitrastu) [own-sphere](svagocaraḥ)
 
 ## mukta-m0-p09-v207
-[with-banners](dhvajaiḥ)+[with-parasols](chatraiḥ)+[endowed](yutāḥ) [all](sarve) [śaiva](śaiva)+[teachers](ācāryā) [like-kings](nṛpā) [as](iva)
+[with-banners-umbrellas](dhvajaiśchatraiḥ) [yuta](yutāḥ) [all](sarve) [shaiva-teachers](śaivācāryāḥ) [kings](nṛpā) [like](iva)
 
 ## mukta-m0-p09-v208
-[may-be](syāt)+[prosperity](vṛddhiḥ)+[victory](vijayaḥ) [peace](śāntiḥ)+[health](ārogyaṃ) [dharma](dharma)+[increase](vardhanam)
+[may-be-increase](syādvṛddhiḥ) [victory](vijayaḥ) [peace](śāntiḥ) [health](ārogyaṃ) [dharma-increase](dharmavardhanam)
 
 ## mukta-m0-p09-v209
-[with-long-life](āyuṣā) [with-fame](yaśasā) [with-prosperity](lakṣmyā) [with-sons](putra)+[and-grandsons](pautraiḥ)+[increases](vivardhate)
+[by-life](āyuṣā) [by-fame](yaśasā) [by-prosperity](lakṣmyā) [with-sons-grandsons](putrapautraiḥ) [grows](vivardhate)
 
 ## mukta-m0-p09-v210
-[for-so-long](tāvat)+[ten](daśa) [thousands](sahasrāṇi) [in-rudra](rudra)+[world](loke) [is-honored](mahīyate)
+[so-many-thousands](tāvadya gasahasrāṇi) [in-rudra-world](rudraloke) [is-honored](mahīyate)
 
 ## mukta-m0-p09-v211
-[not](na)+[at-untimely-time](akāle) [dies](mriyate) [performer](kartā) [afterwards](parataḥ) [state-of-śiva](śiva)+[ness](tāṃ) [attains](vrajet)
+[not-untimely](nākāle) [dies](mriyate) [maker](kartā) [afterwards](parataḥ) [shivahood](śivatāṃ) [attains](vrajet)
 
 ## mukta-m0-p09-v212
-[abode](padaṃ) [having-attained](saṃprāpya) [of-rudra](rudrasya) [happiness](sukham)+[imperishable](akṣayam)+[enjoys](aśnute)
+[place](padaṃ) [having-obtained](saṃprāpya) [of-rudra](rudrasya) [imperishable-bliss](sukhamakṣayam) [enjoys](aśnute)
 
 ## mukta-m0-p09-v213
-[them](tān)+[but](tu) [all](sarvān) [one-should-employ](prayuñjīta) [in-cruel](krūra)+[acts](karmasu) [always](sarvadā)
+[those](tāṃstu) [all](sarvān) [employ](prayuñjīta) [in-cruel-acts](krūrakarmasu) [always](sarvadā)
 
 ## mukta-m0-p09-v214
-[deformed](vikṛtāḥ) [spotted](śavalā) [fierce](raudrāḥ) [deceitful](śaṭhāḥ) [cruel](krūrāḥ) [of-bad-conduct](ku)+[vṛttikāḥ](vṛttikāḥ)
+[deformed](vikṛtāḥ) [spotted](śavalā) [fierce](raudrāḥ) [deceitful](śaṭhāḥ) [cruel](krūrāḥ) [of-bad-conduct](kuvṛttikāḥ)
 
 ## mukta-m0-p09-v215
-[speech](vāk)+[throated](kaṇṭhā) [deaf](baghiraḥ) [stout](sthūlāḥ) [bad-nailed](ku)+[nakhāḥ](nakhāḥ)+[and](ca) [bad-haired](ku)+[mūrdhajāḥ](mūrdhajāḥ)
+[harsh-voiced](vākkaṇṭhā) [tiger-like](baghiraḥ) [stout](sthūlāḥ) [bad-nails](kunakhāḥ) [bad-hair](kumūrdhajāḥ)
 
 ## mukta-m0-p09-v216
-[family-priest](purodhāḥ) [living-by-trade](paṇya)+[jīvī](jīvī) [and](ca) [merchants](vaṇijo) [metal](dhātu)+[alchemists](vādinaḥ)
+[priests](purodhāḥ) [living-by-trade](paṇyajīvī) [and](ca) [merchants](vaṇijaḥ) [alchemists](dhātuvādinaḥ)
 
 ## mukta-m0-p09-v217
-[crooked](vakra)+[nose](nāsa)+[hanging](aṅga)+[lipped](lamboṣṭhā) [foolish](mūrkhāḥ) [trembling](spandana)+[bodied](gātrakāḥ)
+[crooked-nose](vakranāsā) [pendulous-lip](aṅgalamboṣṭhā) [fools](mūrkhāḥ) [trembling-limbed](spandanagātrakāḥ)
 
 ## mukta-m0-p09-v218
-[knot](granthi)+[swollen](viplākā) [old](vṛddhā) [addicted-to-vices](vyasanī) [from-observance](samaya)+[fallen](cyutaḥ)
+[scrofulous](granthaviplākā) [old](vṛddhā) [addicted](vyasanī) [fallen-from-vow](samayacyutaḥ)
 
 ## mukta-m0-p09-v219
-[by-these](etaiḥ)+[but](tu) [installed](sthāpitā) [gods](devā) [wealth](dhana)+[life](āyuḥ) [son](putra)+[destroyers](nāśakāḥ)
+[by-these](etaistu) [installed](sthāpitā) [gods](devā) [destroyers-of-wealth-life-sons](dhanāyuḥputranāśakāḥ)
 
 ## mukta-m0-p09-v220
-[boasters](katthakāḥ) [kauśikas](kauśikāḥ) [born-of-them](tat)+[jāḥ](jāḥ)+[three-eared](tri)+[karṇāḥ](karṇāḥ)+[and-others](ādyāḥ)+[and](ca) [to-be-avoided](varjitāḥ)
+[boasters](katthakāḥ) [kaushikas](kauśikā) [born-there](stajjāḥ) [tri-eared-etc](trikarṇādyāḥ) [excluded](varjitāḥ)
 
 ## mukta-m0-p09-v221
-[renunciation](sanyāsa)+[vow-holders](vratinaḥ)+[and](ca)+[others](anye) [in-installation](sthāpane) [not](na)+[authorized](adhikāriṇaḥ)
+[renunciants-vowed](sanyāsavratinaḥ) [others](cānye) [for-installation](sthāpane) [not-qualified](nādhikāriṇaḥ)
 
 ## mukta-m0-p09-v222
-[remnants](nirmālya)+[eating](bhakṣyaṇa)+[for-the-sake-of](arthaṃ) [but](tu) [by-śāmba](śāmbena)+[son-of-acyuta](acyuta)+[sūnunā](sūnunā)
+[for-nirmālya-eating](nirmālyabhakṣyaṇārthaṃ) [tu](tu) [by-śāmba-son-of-acyuta](śāmbenācyutasūnunā)
 
 ## mukta-m0-p09-v223
-[śiva](śiva)+[and-others](ādīn) [should-install](sthāpayet)+[always](nityaṃ) [self-born](svayam)+[bhūḥ](bhūḥ) [he](sa) [lowest-of-men](nara)+[adhamaḥ](adhamaḥ)
+[gods-from-śiva](śivādīn) [installs](sthāpayet) [always](nityaṃ) [self-born](svayambhūḥ) [that](sa) [lowest-man](narādhamaḥ)
 
 ## mukta-m0-p09-v224
-[he](sa) [remarried-widow's-son](punarbhūḥ) [to-be-known](parijñeyaḥ) [to-be-avoided](varjanīyaḥ) [in-śaiva](śiva)+[scripture](āgame)
+[that](sa) [again-birth](punarbhūḥ) [to-be-known](parijñeyo) [to-be-avoided](varjanīyaḥ) [in-shaiva-agama](śivāgame)
 
 ## mukta-m0-p09-v225
-[kuṇḍa](kuṇḍaḥ) [cruel](krūra)+[natured](svabhāvaḥ)+[may-be](syāt)+[having-died](mṛte) [husband](patyau) [but](tu) [golaka](golakaḥ)
+[pot](kuṇḍaḥ) [cruel-natured](krūrasvabhāvaḥ) [may-be](syāt) [on-husband-death](mṛte patyau) [tu](tu) [widow](golakaḥ)

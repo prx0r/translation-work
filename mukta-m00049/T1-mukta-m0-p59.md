@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p59-v1451
-then(tataḥ) them(tān) with-equal+disposition(tulya+bhāvena) having-considered(matvā) affection(sneham) should-show(pradarśayet)
+[tataḥ](tataḥ) [tān](tān) [tulya+bhāvena](tulyabhāvena) [matvā](matvā) [sneham](snehaṃ) [pradarśayet](pradarśayet)
 
 ## mukta-m0-p59-v1452
-to-be-given(deyā) to-bridegroom(varāya) to-learned(viduṣe) with-wealth+jewels+endowed(dhana+ratna+samanvitā)
+[deyā](deyā) [varāya](varāya) [viduṣe](viduṣe) [dhanaratnasamanvitā](dhanaratnasamanvitā)
 
 ## mukta-m0-p59-v1453
-with-wicked(duṣṭena) with-mind(cetasā) with-perverted(vikṛtena) with-mind(manasā)
+[duṣṭena](duṣṭena) [cetasā](cetasā) [vikṛtena](vikṛtena) [manasā](manasā)
 
 ## mukta-m0-p59-v1454
-in-solitary(virale) in-deserted+place(nirjana+sthāne) ||(41)
+[virale](virale) [nirjana+sthāne](nirjanasthāne) [|| 41](|| 41)
 
 ## mukta-m0-p59-v1455
-in-another+house(anya+niketane) in-another's+house(para+gṛhe) ||(43)
+[anyaniketane](anyaniketane) [paragṛhe](paragṛhe) [|| 43](|| 43)
 
 ## mukta-m0-p59-v1456
-then(tataḥ) from-four(caturbhyaḥ) from-years(varṣebhyaḥ) above(ūrddhvam)
+[tataḥ](tataḥ) [caturbhyo](caturbhyo) [varṣebhya](varṣebhya) [ūrddhvam](ūrddhvam)
 
 ## mukta-m0-p59-v1457
-should-urge(prerayet) should-engage(pravartayet) |(tān) them(tān) more-than-twenty+years(viṃśati+abda+adhikān) sons(putrān)
+[prerayet](prerayet) [pravartayet](pravartayet) [tān](tān) [viṃśatyabdādhikān](viṃśatyabdādhikān) [putrān](putrān)
 
 ## mukta-m0-p59-v1458
-kinsmen(jñātīn) friends(mitrāṇi) and-servants(bhṛtyān) and(ca) should-protect(pālayet) should-please(toṣayet) householder(gṛhī)
+[jñātīn](jñātīn) [mitrāṇi](mitrāṇi) [bhṛtyāṃśca](bhṛtyāṃśca) [pālayet](pālayet) [toṣayed](toṣayed) [gṛhī](gṛhī)
 
 ## mukta-m0-p59-v1459
-guests(abhyāgatān) and-neutral-persons(udāsīnān) householder(gṛhasthaḥ) should-protect(paripālayet)
+[abhyāgatān+udāsīnān](abhyāgatānudāsīnān) [gṛhasthaḥ](gṛhasthaḥ) [paripālayet](paripālayet)
 
 ## mukta-m0-p59-v1460
-animal(paśuḥ) indeed(eva) he(saḥ) to-be-known(vijñeyaḥ) he(saḥ) sinner(pāpī) world+condemned(loka+garhitaḥ)
+[paśu+eva](paśureva) [sa](sa) [vijñeyaḥ](vijñeyaḥ) [sa](sa) [pāpī](pāpī) [loka+garhitaḥ](lokagarhitaḥ)
 
 ## mukta-m0-p59-v1461
-attachment(āsaktim) in-food(aśane) in-clothing(vastre) not(nā) excess(atiriktam) should-practice(sa+samācaret)
+[āsaktim+aśane+vastre](āsaktimaśane) [nātiriktaṃ](nātiriktaṃ) [sasācaret](sasācaret)
 
 ## mukta-m0-p59-v1462
-clean(svacchaḥ) humble(namraḥ) pure(śuciḥ) skillful(dakṣaḥ) engaged(yuktaḥ) should-be(syāt) in-all+actions(sarva+karmasu)
+[svaccho](svaccho) [namraḥ](namraḥ) [śucirdakṣo](śucirdakṣo) [yuktaḥ](yuktaḥ) [syāt](syāt) [sarvakarmasu](sarvakarmasu)
 
 ## mukta-m0-p59-v1463
-despicable(jugupsitān) not(na) should-regard(manyeta) not(na) should-despise(avamanyeta) proud(māninaḥ)
+[jugupsitān](jugupsitān) [na+manyeta](na manyeta) [nāvamanyeta](nāvamanyeta) [māninaḥ](māninaḥ)
 
 ## mukta-m0-p59-v1464
-by-living-together(saha+vāsena) by-reasonings(tarkaiḥ) and(ca) having-known(viditvā) should-trust(viśvaset) then(tataḥ)
+[sahavāsena](sahavāsena) [tarkaiśca](tarkaiśca) [viditvā](viditvā) [viśvasettataḥ](viśvasettataḥ)
 
 ## mukta-m0-p59-v1465
-friend+foe+distinguished(mitra+amitra+bhinnān) ||(48)
+[mitra+amitra+bhinnān](mitrāmitrabhinnān) [|| 48](|| 48)
 
 ## mukta-m0-p59-v1466
-and-state-of-being-world-condemned(loka+garhitatvañ) and(ca) would-be(syāt) thus-says(iti+āha) if(yadi) etc.(ityādinā)
+[loka+garhita+tvañ+ca](lokagarhitatvañca) [syād](syād) [ityāha](ityāha) [yad+ityādinā](yadītyādinā)
 
 ## mukta-m0-p59-v1467
-attachment(āsaktim) clinging(āsaṅgam) |(atiriktam) excess(atiriktam) more(adhikam)
+[āsaktim](āsaktim) [āsaṅgam](āsaṅgam) [atiriktam](atiriktam) [adhikam](adhikam)
 
 ## mukta-m0-p59-v1468
-industrious(udyogavān)
+[udyogavān](udyogavān)
 
 ## mukta-m0-p59-v1469
-heroic(śūraḥ) valiant(vikrāntaḥ) |(na) not(na) should-despise(avamanyeta) not(na) should-disregard(anādriyeta)
+[śūraḥ](śūraḥ) [vikrāntaḥ](vikrāntaḥ) [nāvamanyeta](nāvamanyeta) [na+anādriyeta](na anādriyeta)
 
 ## mukta-m0-p59-v1470
-by-reasonings(tarkaiḥ) by-deliberations(paryālocanaiḥ)
+[tarkaiḥ](tarkaiḥ) [paryālocanaiḥ](paryālocanaiḥ)
 
 ## mukta-m0-p59-v1471
-should-display(pradarśayet) own+natures(ātma+bhāvān) not(na) indeed(eva) duty(dharmam) should-transgress(vilaṅghayet)
+[pradarśayed](pradarśayed) [ātma+bhāvān](ātmabhāvān) [na+eva](naiva) [dharmaṃ](dharmaṃ) [vilaṅghayet](vilaṅghayet)
 
 ## mukta-m0-p59-v1472
-done(kṛtam) what(yat) for-help(upakārāya) knower-of-duty(dharma+jñaḥ) not(na) should-proclaim(prakāśayet)
+[kṛtaṃ](kṛtaṃ) [yad+upakārāya](yadupakārāya) [dharmajño](dharmajño) [na](na) [prakāśayet](prakāśayet)
 
 ## mukta-m0-p59-v1473
-with-elder(guruṇā) with-younger(laghunā) and(ca) even(api) famous(yaśasvī) not(na) should-quarrel(vivādayet)
+[guruṇā](guruṇā) [laghunā](laghunā) [cāpi](cāpi) [yaśasvī](yaśasvī) [na+vivādayet](na vivādayet)
 
 ## mukta-m0-p59-v1474
-calamity(vyasanam) and(ca) company-of-wicked(asatām+saṅgam) false+hostility(mithyā+droham) should-abandon(parityajet)
+[vyasanañ](vyasanañ) [asatāṃ+saṅgaṃ](asatāṃ saṅgaṃ) [mithyā+drohaṃ](mithyādrohaṃ) [parityajet](parityajet)
 
 ## mukta-m0-p59-v1475
-therefore(tasmāt) condition(avasthām) time(samayam) having-considered(vīkṣya) action(karma) should-perform(samācaret)
+[tasmād](tasmād) [avasthāṃ](avasthāṃ) [samayaṃ](samayaṃ) [vīkṣya](vīkṣya) [karma](karma) [samācaret](samācaret)

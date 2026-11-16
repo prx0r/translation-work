@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p116-v2876
-[nāga+andhakārikā+āhvam](nāgāndhakārīkāhvaṃ) [and](ca) [stambha+andhakārikā](stambhāndhakārikā) [again](punaḥ)
+[naga+andhakarika+ahvam](nāgāndhakārīkāhvaṃ) [ca](ca) [stambha+andhakarika](stambhāndhakārikā) [punah](punaḥ)
 
 ## mukta-m0-p116-v2877
-[andha+ākhyā](andhākhyā) [but](tu) [marīci+aṅkā](marīcyaṅkā) [root+branch](mūlaśākheti) [is-called](kīrtitā)
+[andha+akhyā](andhākhyā) [tu](tu) [marici+anka](marīcyaṅkā) [mula+sakha+iti](mūlaśākheti) [kirtita](kīrtitā)
 
 ## mukta-m0-p116-v2878
-[veda+eka+sārdhaiḥ](vedaikasārdhair) [by-vedas](vedaistu) [world+water+form](bhavāmburūpa) [kh, gh: austerity](tapa) [by-fourths](turyakaiḥ)
+[veda+eka+sardhaih+vedaih+tu](vedaikasārdhairvedaistu) [bhava+ambu+rūpa](bhavāmburūpa) [turyakaih](turyakaiḥ)
 
 ## mukta-m0-p116-v2879
-[with-half+water](sārdhāmbunā) [position](sthitiḥ) [should-be-known](jñeyā) [of-branch+and-door](śākhādvārikayoḥ) [in-order](kramāt)
+[sardha+ambuna](sārdhāmbunā) [sthitiḥ+jñeyā](sthitirjñeyā) [sakha+dvārikayoh](śākhādvārikayoḥ) [kramāt](kramāt)
 
 ## mukta-m0-p116-v2880
-[like-root](mūlavat)
+[mula+vat](mūlavat)
 
 ## mukta-m0-p116-v2881
-[jāhravī](jāhravī) [and-yamunā](yamune) [and](cāpi) [their-sides](tatpārśve) [load-bearer](bhāravāhikā)
+[jahnavi+yamune](jāhravīyamune) [ca+api](cāpi) [tat+pārśve](tatpārśve) [bhāra+vāhikā](bhāravāhikā)
 
 ## mukta-m0-p116-v2882
-[by-pairs](yugmakaiḥ)
+[yugmakaih](yugmakaiḥ)
 
 ## mukta-m0-p116-v2883
-[adorning](śobhayat) [with-effort](yatnataḥ) [branches](śākhās) [with-those-riches](tadhanayaiś) [and](ca) [very-beautiful](suśobhanaiḥ)
+[sobhaya+d+yatnatah](śobhayadyatnataḥ) [sakhāḥ+tadhanayaih+ca](śākhāstadhanayaiśca) [su+sobhanaih](suśobhanaiḥ)
 
 ## mukta-m0-p116-v2884
-[in-first-udumbara](prathamodumbare) [(?)](?) [should-be-placed](sthāpyāḥ) [adorned-with-all-parts](sarvāvayavaśobhitāḥ)
+[prathama+udumbare](prathamodumbare) [sthāpyāḥ](sthāpyāḥ) [sarva+avayava+sobhitāḥ](sarvāvayavaśobhitāḥ)
 
 ## mukta-m0-p116-v2885
-[planets](grahāḥ) [and](ca) [mothers](mātāro) [vevīs](vevyo) [situated-in-channel-activity](nādyavyāpārasaṃsthitāḥ)
+[grahāḥ+ca](grahāśca) [mātāro](mātāro) [vevyo](vevyo) [nādya+vyāpāra+saṃsthitāḥ](nādyavyāpārasaṃsthitāḥ)
 
 ## mukta-m0-p116-v2886
-[forehead](lalāṭaṃ) [beautiful](śobhanaṃ) [and](ca) [above](ūrdhvaṃ) [endowed-with-nāgadantas](nāgadantānvitaṃ) [firm](dṛḍham)
+[lalāṭaṃ](lalāṭaṃ) [sobhanaṃ](śobhanaṃ) [ca+ūrdhvaṃ](cordhvaṃ) [nāga+dantānvitaṃ](nāgadantānvitaṃ) [dṛḍham](dṛḍham)
 
 ## mukta-m0-p116-v2887
-[by-half-quarter-of-door-height](dvārocchrayārdhapādena) [or](vā) [by-two-hand-feet](karapādadvayena)
+[dvāra+ucchraya+ardha+pādena](dvārocchrayārdhapādena) [kara+pāda+dvayena](karapādadvayena) [vā](vā)
 
 ## mukta-m0-p116-v2888
-[by-three](tribhiḥ) [by-thirds-of-quality-mountain](guṇagiritryaṃśaiḥ) [two](dvi) [in-two-parts](dvibhāge) [two-bases](khuradvayam)
+[tribhiḥ+guṇa+giri+tryaṃśaiḥ+dvi](tribhirguṇagiritryaṃśairdvi) [dvibhāge](dvibhāge) [khura+dvayam](khuradvayam)
 
 ## mukta-m0-p116-v2889
-[gh: egg-born](aṇḍajam)
+[aṇḍajam](aṇḍajam)
 
 ## mukta-m0-p116-v2890
-[should-be-made](kāryaḥ) [and](ca) [by-four-measure-parts](caturyamāṃśaiś) [threshold](dehalī) [tiger-strip](vyāghrapaṭṭikā)
+[kāryaḥ+catur+yamāṃśaiḥ+ca](kāryaścaturyamāṃśaiśca) [dehalī](dehalī) [vyāghra+paṭṭikā](vyāghrapaṭṭikā)
 
 ## mukta-m0-p116-v2891
-[all](sarva) [mū: and-that](sa ca) [for-destruction-of-piercing](vedhavināśāya) [a-little](kiñcit) [to-the-north](uttarato) [one-should-place](nyaset)
+[sarva](sarva) [vedha+vināśāya](vedhavināśāya) [kiñcit+uttarato](kiñciduttarato) [nyaset](nyaset)
 
 ## mukta-m0-p116-v2892
-[therefore](tasmāt) [for-the-purpose-of-avoiding-that](tadvarjanānārthāya) [by-guru](guror) [kh: by-king](rājñā) [that-knowledge](jñātvaṃ) [that-is-stated](taducyate)
+[tasmāt+tad+varjanā+nārthāya](tasmāttadvarjanānārthāya) [guroḥ+jñātvaṃ](gurorjñātvaṃ) [tad+ucyate](taducyate)
 
 ## mukta-m0-p116-v2893
-[by-road](rathyā) [mū, gh: by-chariot](ratha) [pierced](viddhe) [exile](pravāsaḥ) [would-be](syāt) [by-crossroads](catuṣpathena) [harshness](rūkṣatā)
+[rathyā](rathyā) [viddhe](viddhe) [pravāsaḥ](pravāsaḥ) [syāt+catuṣpathena](syāccatuṣpathena) [rūkṣatā](rūkṣatā)
 
 ## mukta-m0-p116-v2894
-[by-tree](vṛkṣeṇa) [loss-of-wealth](vittanāśaḥ) [and](ca) [gh: indeed](stu) [by-pillar](stambhena) [servitude-to-another](parabhṛtyatā)
+[vṛkṣeṇa](vṛkṣeṇa) [vitta+nāśaḥ+ca](vittanāśaśca) [stambhena](stambhena) [para+bhṛtyatā](parabhṛtyatā)
 
 ## mukta-m0-p116-v2895
-[by-corner](koṇena) [royal-punishment](rājadaṇḍaḥ) [would-be](syāt) [confusion](vibhramo) [by-door-jamb](dvāraśākhayā)
+[koṇena](koṇena) [rāja+daṇḍaḥ](rājadaṇḍaḥ) [syāt](syād) [vibhramaḥ](vibhramo) [dvāra+śākhayā](dvāraśākhayā)
 
 ## mukta-m0-p116-v2896
-[from-enemy](śatror) [fear](bhayaṃ) [and](ca) [by-well](kūpena) [pierced-by-deity](devabiddheba) [bondage](bandhanam)
+[śatroḥ+bhayaṃ](śatrorbhayaṃ) [ca](ca) [kūpena](kūpena) [deva+biddhe+ba](devabiddheba) [bandhanam](bandhanam)
 
 ## mukta-m0-p116-v2897
-[by-ashes](bhasmanā) [loss-of-cattle](paśunāśaḥ) [would-be](syāt) [by-vardhamāna](vardhamānena) [killing-of-cows](govyadhā)
+[bhasmanā](bhasmanā) [paśu+nāśaḥ](paśunāśaḥ) [syāt+vardhamānena](syādvardhamānena) [go+vyadhā](govyadhā)
 
 ## mukta-m0-p116-v2898
-[by-face](vaktreṇa) [and](ca) [friend](suhṛ) [gh: by-wheel wealth](cakrena vasu) [milking](dogas) [but](tu) [by-hearing-in-veranda](ālindaśravaṇena) [fear](bhīḥ)
+[vaktreṇa](vaktreṇa) [ca](ca) [suhṛ](suhṛ) [dogastvālinda+śravaṇena](dogastvālindaśravaṇena) [bhīḥ](bhīḥ)
 
 ## mukta-m0-p116-v2899
-[kṛtamityarthaḥ)](kṛtamityarthaḥ)]) [by-pit](śvabhreṇa) [then](atha) [loss-of-son](sutakṣayaḥ)
+[kṛtam+ity+arthaḥ](kṛtamityarthaḥ) [śvabhreṇa+atha](śvabhreṇātha) [suta+kṣayaḥ](sutakṣayaḥ)
 
 ## mukta-m0-p116-v2900
-[by-kaṇḍanyā](kaṇḍanyā) [by-kuṇḍalī](kuṇḍalyā) [loss-of-wealth](dhananāśaḥ) [would-be](syāt) [pierced-by-stone](śilābiddhe) [disease](rujā) [likewise](tathā)
+[kaṇḍanyā](kaṇḍanyā) [dhananāśaḥ](dhananāśaḥ) [syāt+śilā+biddhe](syācchilābiddhe) [rujā](rujā) [tathā](tathā)

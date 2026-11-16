@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p47-v1151
-[vāmā](vāmā) [jyeṣṭhā](jyeṣṭhā) [and](tathā) [raudrī](raudrī) [ambikā](ambikā) [thus](iti) [in-order](yathākramāt)
+[vāmā](vāmā) [jyeṣṭhā](jyeṣṭhā) [tathā](tathā) [raudrī](raudrī) [ambikā](ambikā) [iti](iti) [yathākramāt](yathākramāt)
 
 ## mukta-m0-p47-v1152
-[thus](iti) [altar-ground](sthaṇḍilam) [having-worshipped](āpūjya) [in-its-middle](tanmadhye) [root-form-goddess](mūlarūpiṇīm)
+[iti](iti) [sthaṇḍilam](sthaṇḍilam) [āpūjya](āpūjya) [tanmadhye](tanmadhye) [mūlarūpiṇīm](mūlarūpiṇīm)
 
 ## mukta-m0-p47-v1153
-[fire](vahnim) [having-lifted](uddhṛtya) [at-end-of-root-mantra](mūlānte) [kūrca+weapon-mantra](kūrcamastraṃ) [uttering](samuccaran)
+[vahnim](vahnim) [uddhṛtya](uddhṛtya) [mūlānte](mūlānte) [kūrcam](kūrcam) [astram](astram) [samuccaran](samuccaran)
 
 ## mukta-m0-p47-v1154
-[with-weapon-mantra](astreṇa) [fire](vahniṃ) [having-gazed-at](saṃvīkṣya) [with-kūrca-alone](kūrcena+eva) [one-should-enclose](avaguṇṭhayet)
+[astreṇa](astreṇa) [vahnim](vahnim) [saṃvīkṣya](saṃvīkṣya) [kūrcena](kūrcena) [eva](eva) [avaguṇṭhayet](avaguṇṭhayet)
 
 ## mukta-m0-p47-v1155
-[with-vāmā-etc.](vāma+iti+ādi) [half-verse](arddhena)
+[vāmetyādyarddhena](vāmetyādyarddhena)
 
 ## mukta-m0-p47-v1156
-[in-clockwise-order](prādakṣiṇyakrameṇa) [fire](agniṃ) [causing-to-revolve](bhrāmayan) [upon-the-altar-ground](sthaṇḍilopari)
+[prādakṣiṇyakrameṇa](prādakṣiṇyakrameṇa) [agnim](agnim) [bhrāmayan](bhrāmayan) [sthaṇḍilopari](sthaṇḍilopari)
 
 ## mukta-m0-p47-v1157
-[towards-oneself](ātmanaḥ+abhimukhīkṛtya) [in-the-yoni-diagram](yoniyantre) [one-should-place](niyojayet)
+[ātmanaḥ](ātmanaḥ) [abhimukhīkṛtya](abhimukhīkṛtya) [yoniyantre](yoniyantre) [niyojayet](niyojayet)
 
 ## mukta-m0-p47-v1158
-[to-consciousness](caitanyāya) [obeisance](namo) [of-fire](vahneḥ) [consciousness](caitanyaṃ) [one-should-worship](paripūjayet)
+[caitanyāya](caitanyāya) [namaḥ](namaḥ) [vahneḥ](vahneḥ) [caitanyam](caitanyam) [paripūjayet](paripūjayet)
 
 ## mukta-m0-p47-v1159
-[in-the-triangle-diagram](trikoṇamaṇḍale) [one-should-place](niyojayet) [one-should-establish](sthāpayet)
+[trikoṇamaṇḍale](trikoṇamaṇḍale) [niyojayet](niyojayet) [sthāpayet](sthāpayet)
 
 ## mukta-m0-p47-v1160
-[thus](iti) [mantra](manuḥ) [is-born](jātaḥ) [by-this-very-mantra](anena+eva+manunā) [of-fire](vahneḥ) [consciousness](caitanyaṃ) [one-should-worship](paripūjayet)
+[iti](iti) [manuḥ](manuḥ) [jātaḥ](jātaḥ) [anena](anena) [eva](eva) [manunā](manunā) [vahneḥ](vahneḥ) [caitanyam](caitanyam) [paripūjayet](paripūjayet)
 
 ## mukta-m0-p47-v1161
-[one-should-kindle](prajvālayet) [then](tataḥ) [fire](vahniṃ) [with-this-mantra](mantreṇa+anena) [mantra-knower](mantravit)
+[prajvālayet](prajvālayet) [tataḥ](tataḥ) [vahnim](vahnim) [mantreṇa](mantreṇa) [anena](anena) [mantravit](mantravit)
 
 ## mukta-m0-p47-v1162
-[hanadvayaṃ](hanadvayaṃ) [daha](daha) [daha](daha) [paca](paca) [paca](paca) [thus](iti) [then](tataḥ) [one-should-say](vadet)
+[hanadvayam](hanadvayam) [daha](daha) [daha](daha) [paca](paca) [paca](paca) [iti](iti) [tataḥ](tataḥ) [vadet](vadet)
 
 ## mukta-m0-p47-v1163
-[then](tataḥ) [with-folded-hands](kṛtāñjaliḥ) [having-become](bhūtvā) [one-should-perform](prakuryāt) [fire-salutation](agnivandanam)
+[tataḥ](tataḥ) [kṛtāñjaliḥ](kṛtāñjaliḥ) [bhūtvā](bhūtvā) [prakuryāt](prakuryāt) [agnivandanam](agnivandanam)
 
 ## mukta-m0-p47-v1164
-[golden-colored](suvarṇavarṇam) [stainless](amalam) [well-kindled](samiddhaṃ) [facing-all-directions](sarvatomukham)
+[suvarṇavarṇam](suvarṇavarṇam) [amalam](amalam) [samiddham](samiddham) [sarvatomukham](sarvatomukham)
 
 ## mukta-m0-p47-v1165
-[with-desired-name](sveṣṭanāmnā) [fire-name](vahnināma) [having-made](kṛtvā) [worship](abhyarcanam) [one-should-perform](ācaret)
+[sveṣṭanāmnā](sveṣṭanāmnā) [vahnināma](vahnināma) [kṛtvā](kṛtvā) [abhyarcanam](abhyarcanam) [ācaret](ācaret)
 
 ## mukta-m0-p47-v1166
-[with-mantra](mantreṇa) [mantra-knower](mantravit) [practitioner](sādhakaḥ) [fire](vahniṃ) [should-kindle](prajvālayet) [should-inflame](uddīpayet)
+[mantreṇa](mantreṇa) [mantravit](mantravit) [sādhakaḥ](sādhakaḥ) [vahnim](vahnim) [prajvālayet](prajvālayet) [uddīpayet](uddīpayet)
 
 ## mukta-m0-p47-v1167
-[mantra](manuḥ) [in-kindling-fire](vahniprajvālane) [is-remembered](smṛtaḥ)
+[manuḥ](manuḥ) [vahniprajvālane](vahniprajvālane) [smṛtaḥ](smṛtaḥ)
 
 ## mukta-m0-p47-v1168
-[fire-salutation-mantra](agnivandanamantram) [he-states](āha) [kindled-fire](agniṃ+prajvalitaṃ) [I-salute](vande) [thus-etc.](iti+āti)
+[agnivandanamantram](agnivandanamantram) [āha](āha) [agnim](agnim) [prajvalitam](prajvalitam) [vande](vande) [ityāti](ityāti)
 
 ## mukta-m0-p47-v1169
-[here-invoke-invoke](iha+āvaha+āvaha) [thus](iti) [having-said](uktvā) [ending-with-lohitākṣa-word](lohitākṣapadāntaram)
+[ihāvahāvahetyuktvā](ihāvahāvahetyuktvā) [lohitākṣapadāntaram](lohitākṣapadāntaram)
 
 ## mukta-m0-p47-v1170
-[thus](iti) [having-worshipped](abhyarcya) [hiraṇyā-etc.-seven-tongues](hiraṇyādi+saptajihvāḥ) [one-should-worship](prapūjayet)
+[ityabhyarcya](ityabhyarcya) [hiraṇyādisaptajihvāḥ](hiraṇyādisaptajihvāḥ) [prapūjayet](prapūjayet)
 
 ## mukta-m0-p47-v1171
-[six-limbs](ṣaḍaṅgaṃ) [one-should-worship](pūjayet) [of-fire](vahneḥ) [then](tataḥ) [forms](mūrtīḥ) [one-should-worship](yajet) [wise-one](sudhīḥ)
+[ṣaḍaṅgam](ṣaḍaṅgam) [pūjayet](pūjayet) [vahneḥ](vahneḥ) [tataḥ](tataḥ) [mūrtīḥ](mūrtīḥ) [yajet](yajet) [sudhīḥ](sudhīḥ)
 
 ## mukta-m0-p47-v1172
-[jātaveda-etc.](jātaveda+prabhṛtayaḥ) [forms](mūrtayaḥ) [eight](aṣṭau) [are-declared](prakīrtitāḥ)
+[jātavedaprabhṛtayaḥ](jātavedaprabhṛtayaḥ) [mūrtayaḥ](mūrtayaḥ) [aṣṭau](aṣṭau) [prakīrtitāḥ](prakīrtitāḥ)
 
 ## mukta-m0-p47-v1173
-[padma-etc.-eight-treasures](padma+ādi+aṣṭanidhīn) [having-worshipped](iṣṭvā) [one-should-worship](yajet) [indra-etc.-guardians-of-directions](indra+ādi+dikpatīn)
+[padmādyaṣṭanidhīn](padmādyaṣṭanidhīn) [iṣṭvā](iṣṭvā) [yajet](yajet) [indrādidikpatīn](indrādidikpatīn)
 
 ## mukta-m0-p47-v1174
-[of-fire](vahneḥ) [hiraṇyā-etc.-seven-tongues](hiraṇyādi+saptajihvāḥ) [with-fragrance-flowers-etc.](gandhapuṣpādibhiḥ) [one-should-worship](pūjayet)
+[vahneḥ](vahneḥ) [hiraṇyādisaptajihvāḥ](hiraṇyādisaptajihvāḥ) [gandhapuṣpādibhiḥ](gandhapuṣpādibhiḥ) [pūjayet](pūjayet)
 
 ## mukta-m0-p47-v1175
-[of-fire](vahneḥ) [forms](mūrtīḥ) [wise-one](sudhīḥ) [should-worship](yajet)
+[vahneḥ](vahneḥ) [mūrtīḥ](mūrtīḥ) [sudhīḥ](sudhīḥ) [yajet](yajet)

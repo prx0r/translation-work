@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p112-v2776
-praṇata-sura-narebhyaḥ(vājivaktraḥ) murāriḥ(murāriḥ) praṇata-sura-narebhyaḥ(praṇatasuranarebhyaḥ) vājivaktraḥ(vājivaktro) murāriḥ(murāriḥ)
+[to-bowed-gods-and-men](praṇatasuranarebhyo) [horse-faced](vājivaktro) [murari](murāriḥ)
 
 ## mukta-m0-p112-v2777
-maṇi-kūṭa-kṛta-āvāsa(kamalākṣa) namaḥ-astu(te) maṇi-kūṭa-kṛta-āvāsa(maṇikūṭakṛtāvāsa) kamalākṣa(kamalākṣa) namaḥ-astu(namo'stu) te(te)
+[jewel-peak-made-abode](maṇikūṭakṛtāvāsa) [lotus-eyed](kamalākṣa) [salutation-to-you](namo'stu) [to-you](te)
 
 ## mukta-m0-p112-v2778
-tat-kṣaṇāt(tatkṣaṇāt) tat-kṣaṇāt(tatkṣaṇāt)
+[at-that-moment](tatkṣaṇāt)
 
 ## mukta-m0-p112-v2779
-pradakṣiṇa-trayam(kuryāt) padma-ākāram(namet-tataḥ) pradakṣiṇa-trayam(pradakṣiṇatrayaṃ) kuryāt(kuryāt) padma-ākāram(padmākāraṃ) namet-tataḥ(namettataḥ)
+[three-circumambulations](pradakṣiṇatrayaṃ) [should-do](kuryāt) [lotus-shaped](padmākāraṃ) [should-bow-then](namettataḥ)
 
 ## mukta-m0-p112-v2780
-kṛtvā-añjaliḥ-tataḥ(bhaktyā) kṛta-añjaliḥ(bhramayitvā) namet-tataḥ(kṛtvāñjalistato) bhaktyā(bhaktyā) kṛta-añjaliḥ(kṛtāñjaliḥ) bhramayitvā(bhramayitvā) namet-tataḥ(namettataḥ)
+[having-made-anjali-then](kṛtvāñjalistato) [with-devotion](bhaktyā) [having-made-anjali](kṛtāñjaliḥ) [having-turned](bhramayitvā) [should-bow-then](namettataḥ)
 
 ## mukta-m0-p112-v2781
-yaḥ(naḥ) na-namet(bhramayitvā) ca(aparādhaḥ) bhavet-tadā(yaḥ) naḥ(no) na-namet(namedbhramayitvā) ca(ca) aparādhaḥ(aparādho) bhavet-tadā(bhavettadā)
+[who-not-bows-having-turned](yo+no+namedbhramayitvā+ca) [offense](aparādho) [then](tadā) [becomes](bhavettadā)
 
 ## mukta-m0-p112-v2782
-moha-andhakāra-narake(pacyate) na-atra(saṃśayaḥ) moha-andhakāra-narake(mohāndhakāranarake) pacyate(pacyate) na-atra(nātra) saṃśayaḥ(saṃśayaḥ)
+[in-delusion-darkness-hell](mohāndhakāranarake) [is-cooked](pacyate) [no-doubt-here](nātra+saṃśayaḥ)
 
 ## mukta-m0-p112-v2783
-śapanti(devatāḥ-tasya) viphalaṃ(parikīrtitam) śapanti(śapanti) devatāḥ-tasya(devatāstasya) viphalaṃ(viphalaṃ) parikīrtitam(parikīrtitam)
+[curse](śapanti) [deities](devatāstasya) [fruitless](viphalaṃ) [declared](parikīrtitam)
 
 ## mukta-m0-p112-v2784
-śarīre(vā) mahā-īśāni(tasya) puṇya-phalaṃ(śṛṇu) śarīre(śarīre) vā(vā) mahā-īśāni(maheśāni) tasya(tasya) puṇya-phalaṃ(puṇyaphalaṃ) śṛṇu(śṛṇu)
+[in-body](śarīre) [or](vā) [great-goddess](maheśāni) [of-him](tasya) [merit-fruit](puṇyaphalaṃ) [hear](śṛṇu)
 
 ## mukta-m0-p112-v2785
-tāvat-varṇa-sahasrāṇi(brahma-loke) mahīyate(tāvatvarṇasahasrāṇi) brahma-loke(brahmaloke) mahīyate(mahīyate)
+[so-many-thousand-varnas](tāvadvarṇasahasrāṇi) [in-brahma-world](brahmaloke) [is-honored](mahīyate)
 
 ## mukta-m0-p112-v2786
-maṇi-kūṭe(ayaṃ) viṣṇuḥ(sthāpitaḥ) kena(vai) purā(maṇikūṭe) ayaṃ(tvayaṃ) viṣṇuḥ(viṣṇuḥ) sthāpitaḥ(sthāpitaḥ) kena(kena) vai(vai) purā(purā)
+[on-jewel-peak](maṇikūṭe) [here](tvayaṃ) [vishnu](viṣṇuḥ) [was-established](sthāpitaḥ) [by-whom-indeed](kena+vai) [formerly](purā)
 
 ## mukta-m0-p112-v2787
-kathayāmi(purā-vṛttam) pratimāyāḥ-ca(sambhavam) kathayāmi(kathayāmi) purā-vṛttam(purāvṛttaṃ) pratimāyāḥ-ca(pratimāyāśca) sambhavam(sambhavam)
+[i-will-tell](kathayāmi) [ancient-event](purāvṛttaṃ) [of-image](pratimāyāśca) [origin](sambhavam)
 
 ## mukta-m0-p112-v2788
-cinmaya-ārtaḥ(mahī-pālaḥ) pratimā-artham-ahar-niśam(cinmayārto) mahī-pālaḥ(mahīpālaḥ) pratimā-artham-ahar-niśam(pratimārthamaharniśam)
+[consciousness-afflicted](cinmayārto) [king](mahīpālaḥ) [for-image](pratimārtham) [day-and-night](aharniśam)
 
 ## mukta-m0-p112-v2789
-sarga-sthiti-anta-kartāram(paśyāmi) puruṣa-uttamam(sarga) sthiti-anta-kartāram(sthityantakartāraṃ) paśyāmi(paśyāmi) puruṣa-uttamam(puruṣottamam)
+[creator-preserver-destroyer](sargasthityantakartāraṃ) [i-see](paśyāmi) [supreme-person](puruṣottamam)
 
 ## mukta-m0-p112-v2790
-na(bhuṅkte) vividhan(bhogān) na(snānam) na(prasādhanam) na(na) bhuṅkte(bhuṅkte) vividhan(vividhān) bhogān(bhogān) na(na) snānam(snānaṃ) na(na) prasādhanam(prasādhanam)
+[not-enjoys](na+bhuṅkte) [various-pleasures](vividhān+bhogān) [not-bathing](na+snānaṃ) [not-grooming](na+prasādhanam)
 
 ## mukta-m0-p112-v2791
-viṣṇoḥ(pratimā-yogyaḥ) yaḥ(sarva-lakṣaṇa-lakṣitaḥ) viṣṇoḥ(viṣṇoḥ) pratimā-yogyaḥ(pratimayogyo) yaḥ(yaḥ) sarva-lakṣaṇa-lakṣitaḥ(sarvalakṣaṇalakṣitaḥ)
+[of-vishnu](viṣṇoḥ) [image-worthy](pratimayogyo) [who](yaḥ) [all-marks-marked](sarvalakṣaṇalakṣitaḥ)
 
 ## mukta-m0-p112-v2792
-tat(kena) vā(kariṣyāmi) ca(ājñāpayatu) me(prabhuḥ) tat(tat) kena(kena) vā(vā) kariṣyāmi(kariṣyāmi) ca(ca) ājñāpayatu(ājñāpayatu) me(me) prabhuḥ(prabhuḥ)
+[that](tat) [by-whom-or](kena+vā) [will-i-do](kariṣyāmi) [let-command-me](cājñāpayatu+me) [lord](prabhuḥ)
 
 ## mukta-m0-p112-v2793
-hari-dhyāna-paraḥ(bhūtvā) su-svāpa(niyata-indriyaḥ) hari-dhyāna-paraḥ(haridhyānaparo) bhūtvā(bhūtvā) su-svāpa(susvāpa) niyata-indriyaḥ(niyatendriyaḥ)
+[vishnu-meditation-absorbed](haridhyānaparo) [having-become](bhūtvā) [slept](susvāpa) [controlled-senses](niyatendriyaḥ)
 
 ## mukta-m0-p112-v2794
-ātmānam(darśayāmāsa) guptaḥ-tasmai(ca) cakra-bhṛt(ātmānam) darśayāmāsa(darśayāmāsa) guptaḥ-tasmai(guptastasmai) ca(ca) cakra-bhṛt(cakrabhṛt)
+[himself](ātmānaṃ) [showed](darśayāmāsa) [hidden](guptastasmai) [and](ca) [to-him](tasmai) [disc-bearer](cakrabhṛt)
 
 ## mukta-m0-p112-v2795
-ātmānam(darśayāmāsa) tasmai(suptāya) cakra-bhṛt(ātmānam) darśayāmāsa(darśayāmāsa) tasmai(tasmai) suptāya(suptāya) cakra-bhṛt(cakrabhṛt)
+[himself](ātmānaṃ) [showed](darśayāmāsa) [to-him](tasmai) [sleeping](suptāya) [disc-bearer](cakrabhṛt)
 
 ## mukta-m0-p112-v2796
-yuga-anta-āditya-varṇa-ābhaṃ(nīla-vaidūrya-sannibham) yuga-anta-āditya-varṇa-ābhaṃ(yugāntādityavarṇābhaṃ) nīla-vaidūrya-sannibham(nīlavaidūryasannibham)
+[end-of-yuga-sun-colored](yugāntādityavarṇābhaṃ) [blue-beryl-like](nīlavaidūryasannibham)
 
 ## mukta-m0-p112-v2797
-kratunā-anena(dānena) dhiyā(bhaktyā) praśastayā(ca) te(nṛpa) kratunā-anena(kratunānena) dānena(dānena) dhiyā(dhiyā) bhaktyā(bhaktyā) praśastayā(praśastayā) ca(ca) te(te) nṛpa(nṛpa)
+[by-sacrifice](kratunānena) [by-gift](dānena) [by-mind](dhiyā) [by-devotion](bhaktyā) [praised](praśastayā)
 
 ## mukta-m0-p112-v2798
-yad-atra(pratimām) rājan(jagat-pūjyām) sanātanīm(yadatra) pratimām(pratimāṃ) rājan(rājan) jagat-pūjyām(jagatpūjyāṃ) sanātanīm(sanātanīm)
+[what-here](yadatra) [image](pratimāṃ) [king](rājan) [world-worshipped](jagatpūjyāṃ) [eternal](sanātanīm)
 
 ## mukta-m0-p112-v2799
-sāgarasya(jalasya-ante) nānā-druma-vibhūṣite(sāgarasya) jalasya-ante(jalasyānte) nānā-druma-vibhūṣite(nānādrumavibhūṣite)
+[of-ocean](sāgarasya) [of-water](jalasyānte) [end](ante) [various-trees-adorned](nānādrumavibhūṣite)
 
 ## mukta-m0-p112-v2800
-haste(paraśu-haste) ca(paraśum) kṛtvā(ūrmintam) tataḥ(vrajet) haste(haste) paraśu-haste(paraśuhaste) ca(ca) paraśum(paraśuṃ) kṛtvā(kṛtvā) ūrmintam(ūrmintaṃ) tataḥ(tato) vrajet(vrajet)
+[in-hand](haste) [axe-in-hand](paraśuhaste) [and](ca) [axe](paraśuṃ) [having-made](kṛtvā) [wave](ūrmintaṃ) [then](tato) [should-go](vrajet)

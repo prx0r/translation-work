@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p140-v3476
-[should-recite](saṃjapet) [śatarudrīya-hymn](śatarudrīyaṃ) [some](kañcid) [veda+beginning](veda+ādikaṃ) [should-recite](japet)
+[should-chant](saṃjapet) [hundred-rudra-hymn](śatarudrīyaṃ) [some](kañcid) [veda-etc](vedādikaṃ) [chant](japet)
 
 ## mukta-m0-p140-v3477
-[govinda](govindo) [brahman](brahmaṇaḥ) [and+indeed](ca+eva) [pāripātra](pāripātraḥ) [subhadraka](subhadrakaḥ)
+[govinda](govindo) [of-brahma-and-also](brahmaṇaścaiva) [pāripātra](pāripātraḥ) [subhadraka](subhadrakaḥ)
 
 ## mukta-m0-p140-v3478
-[āditya](ādityaḥ) [and](ca) [kaseru](kaseruḥ) [and](ca) [manas](manaḥ) [and](ca) [mānasa](mānasaḥ) [likewise](tathā)
+[sun-and](ādityaśca) [kaseru-and](kaseruśca) [mind-and](manaśca) [mānasa-thus](mānasastathā)
 
 ## mukta-m0-p140-v3479
-[in-front](agrataḥ) [eastern+part](pūrva+bhāge) [but](tu) [nīla](nīlaḥ) [and](ca) [kumuda](kumudaḥ) [likewise](tathā)
+[in-front](agrataḥ) [eastern-part](pūrvabhāge) [but](tu) [blue-and](nīlaśca) [kumuda-thus](kumudastathā)
 
 ## mukta-m0-p140-v3480
-[rāma](rāmaḥ) [and](ca) [lakṣmaṇa](lakṣmaṇaḥ) [and+indeed](ca+eva) [śubhada](śubhado)
+[rama-and](rāmaśca) [lakshmana-and-also](lakṣmaṇaścaiva) [auspicious-giver](śubhado)
 
 ## mukta-m0-p140-v3481
-[kuru](kuruḥ) [and](ca) [dharma+form](dharma+rūpaḥ) [and](ca) [kāhāla](kāhālo) [lona](lona) [indeed](eva) [and](ca)
+[kuru-and](kuruśca) [dharma-form-and](dharmarūpaśca) [kahala](kāhālo) [lona](lona) [indeed](eva) [and](ca)
 
 ## mukta-m0-p140-v3482
-[kamala](kamalaḥ) [kāmadhenu](kāmadhenuḥ) [and](ca) [hara](haraḥ) [and](ca) [makarandaka](makarandakaḥ)
+[lotus](kamalaḥ) [kamadhenu-and](kāmadhenuśca) [hara-and](haraśca) [makarandaka](makarandakaḥ)
 
 ## mukta-m0-p140-v3483
-[these](ete) [of-lauhitya+at-end](lauhityasya+ante) [these](ete) [indeed](vai) [middle+end](madhya+prānte) [but](tu) [but](tu) [west+beginning+in](paścima+ādiṣu) [proclaimed](kīrtitāḥ)
+[these](ete) [of-lauhitya-end](lauhityasyānte) [variant](ete vai madhyaprānte tu) [but](tu) [in-western-etc](paścimādiṣu) [praised](kīrtitāḥ)
 
 ## mukta-m0-p140-v3484
-[in-southeast](āgneye) [jālaśaila](jāla+śailaḥ) [and](ca) [in-northeast](aiśānye) [rākṣasācala](rākṣasa+ācalaḥ)
+[in-southeast](āgneye) [jala-shaila-and](jālaśailaśca) [in-northeast](aiśānye) [rakshasa-mountain](rākṣasācalaḥ)
 
 ## mukta-m0-p140-v3485
-[thousand](sahasraṃ) [vārāṇasī+field](vārāṇasī+kṣetraṃ) [hear](śṛṇu) [and](ca) [inner+house](antar+gṛhaṃ) [o-beloved](priye)
+[thousand](sahasraṃ) [varanasi-field](vārāṇasīkṣetraṃ) [hear](śṛṇu) [and-inner-house](cāntargṛhaṃ) [dear](priye)
 
 ## mukta-m0-p140-v3486
-[not](na) [should-ascend](ārohet) [malabhadra](mala+bhadrañ) [and](ca) [great+sin](mahā+pātakam) [would-obtain](āpnuyāt)
+[not-ascend-malabhadraka-and](nārohenmalabhadrañca) [great-sin-obtain](mahāpātakamāpnuyāt)
 
 ## mukta-m0-p140-v3487
-[this](etat) [inner+house](antar+gṛhaṃ) [o-goddess](devi) [all+pilgrimage-place+consisting](sarva+tīrtha+mayaṃ) [remembered](smṛtam)
+[this-inner-house](etadantargṛhaṃ) [goddess](devi) [all-tirtha-made](sarvatīrthamayaṃ) [remembered](smṛtam)
 
 ## mukta-m0-p140-v3488
-[evil-deed](duṣkṛtaṃ) [which](yat) [o-great-goddess](mahā+īśāni) [in-kalpa](kalpe) [brahman+slayings](brahma+vadhaiḥ) [equal](samam)
+[evil-done](duṣkṛtaṃ) [which](yanmaheśāni) [in-kalpa](kalpe) [with-brahma-killing](brahmavadhaiḥ) [equal](samam)
 
 ## mukta-m0-p140-v3489
-[that](tat) [hard-to-obtain](dur+labhaṃ) [supreme](paraṃ) [liberation](mokṣaṃ) [they-obtain](prāpnuvanti) [not](na) [doubt](saṃśayaḥ)
+[that-difficult](taddurlabhaṃ) [supreme](paraṃ) [liberation](mokṣaṃ) [attain](prāpnuvanti) [no](na) [doubt](saṃśayaḥ)
 
 ## mukta-m0-p140-v3490
-[he](saḥ) [also](api) [sorrow+freed](duḥkha+vinirmukto) [liberation](muktim) [obtains](āpnoti) [human](mānavaḥ) [hard-to-obtain](dur+labhām)
+[he-also](so'pi) [sorrow-freed](duḥkhavinirmukto) [liberation-obtains](muktimāpnoti) [man](mānavaḥ) [difficult](durlabhām)
 
 ## mukta-m0-p140-v3491
-[here](atra) [body](dehaṃ) [having-abandoned](parityajya) [they](te) [also](api) [go](yānti) [supreme](parāṃ) [state](gatim)
+[here](atra) [body](dehaṃ) [abandoning](parityajya) [they-also](te'pi) [go](yānti) [supreme](parāṃ) [destination](gatim)
 
 ## mukta-m0-p140-v3492
-[unliberated](amuktāḥ) [them](tan) [not](na) [see](paśyanti) [liberated](muktāḥ) [see](paśyanti) [with-mind](cetasā)
+[unliberated-those](amuktāstan) [not](na) [see](paśyanti) [liberated](muktāḥ) [see](paśyanti) [by-mind](cetasā)
 
 ## mukta-m0-p140-v3493
-[there](tatra) [drinking](pivan) [not](na) [they-serve](sevante) [saṃsāra+fear+releasing](saṃsāra+bhaya+mocakam)
+[there](tatra) [drinking](pivan) [not](na) [serve](sevante) [samsara-fear-releaser](saṃsārabhayamocakam)
 
 ## mukta-m0-p140-v3494
-[they-will-be](bhaviṣyanti) [always](sadā) [o-goddess](devi) [dharma+refuge+deprived](dharma+āśraya+vivarjitāḥ)
+[will-be](bhaviṣyanti) [always-goddess](sadādevi) [dharma-refuge-devoid](dharmāśrayavivarjitāḥ)
 
 ## mukta-m0-p140-v3495
-[all+sin+destroying](sarva+pāpa+praśamanaṃ) [expiation](prāyaścittaṃ) [in-kali+age](kalau) [age](yuge)
+[all-sin-pacification](sarvapāpapraśamanaṃ) [penance](prāyaścittaṃ) [in-kali](kalau) [age](yuge)
 
 ## mukta-m0-p140-v3496
-[bhadrapīṭha](bhadra+pīṭhaṃ) [of-entered](praviṣṭasya) [that](tat) [all](sarvaṃ) [goes](vrajati) [destruction](kṣayam)
+[bhadra-seat](bhadrapīṭhaṃ) [entered-of](praviṣṭasya) [that](tat) [all](sarvaṃ) [goes](vrajati) [destruction](kṣayam)
 
 ## mukta-m0-p140-v3497
-[birth+interval+thousands](janma+antara+sahasreṣu) [merit+vehicle](puṇya+yānam) [would-obtain](avāpnuyāt)
+[birth-other-thousand-in](janmāntarasahasreṣu) [merit-vehicle-obtain](puṇya-yānamavāpnuyāt)
 
 ## mukta-m0-p140-v3498
-[that](tat) [all](sarvañ) [and+indeed](ca+eva) [eastern](paurastyaṃ) [by-thief](caureṇa) [also](api) [taken](hṛtañ) [and](ca) [which](yat)
+[that](tat) [all-and-also](sarvañcaiva) [eastern](paurastyaṃ) [by-thief-also](caureṇāpi) [stolen-and](hṛtañca) [which](yat)
 
 ## mukta-m0-p140-v3499
-[great+bank](mahā+kūle) [great+pilgrimage-place](mahā+tīrthe) [immersed](nimagnañ) [and](ca) [that](tat) [family](kulaṃ) [other-worldly](pāra+laukikam)
+[great-kula](mahākūle) [great-tirtha](mahātīrthe) [immersed-and](nimagnañca) [that](tat) [family](kulaṃ) [otherworldly](pāralaukikam)
 
 ## mukta-m0-p140-v3500
-[inner+house](antar+gṛhaṃ) [having-reached](samāsādya) [they](te) [go](yānti) [supreme](paramāṃ) [state](gatim)
+[inner-house](antargṛhaṃ) [having-approached](samāsādya) [they](te) [go](yānti) [supreme](paramāṃ) [destination](gatim)

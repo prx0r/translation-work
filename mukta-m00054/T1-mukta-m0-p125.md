@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p125-v3101
-imitator-to(anukāriṇe) homage(namaḥ) good-friend-to(subāndhavāya) homage(namaḥ) gourd-lute-to(tumbavīṇāya) homage(namaḥ)
+[salutation](anukāriṇenamaḥ) [salutation](subāndhavāyanamaḥ) [salutation](tumbavīṇāyanamaḥ)
 
 ## mukta-m0-p125-v3102
-great-anger-to(mahākrodhāya) homage(namaḥ) upward-semen-to(ūrddhvaretase) homage(namaḥ)
+[salutation](mahākrodhāyanamaḥ) [salutation](ūrddhvaretasenamaḥ)
 
 ## mukta-m0-p125-v3103
-water-lord-to(jaleśāya) homage(namaḥ) fierce-to(ugrāya) homage(namaḥ) bamboo-maker-to(vaṃśakarāya) homage(namaḥ)
+[salutation](jaleśāyanamaḥ) [salutation](ugrāyanamaḥ) [salutation](vaṃśakarāyanamaḥ)
 
 ## mukta-m0-p125-v3104
-bamboo-to(vaṃśāya) homage(namaḥ) bamboo-sound-to(vaṃśanādāya) homage(namaḥ) blameless-to(aninditāya) homage(namaḥ)
+[salutation](vaṃśāyanamaḥ) [salutation](vaṃśanādāyanamaḥ) [salutation](aninditāyanamaḥ)
 
 ## mukta-m0-p125-v3105
-all-limb-form-to(sarvāṅgarūpāya) homage(namaḥ) possessor-of-magic-to(māyāvine) homage(namaḥ)
+[salutation](sarvāṅgarūpāyanamaḥ) [salutation](māyāvinenamaḥ)
 
 ## mukta-m0-p125-v3106
-good-hearted-to(suhṛdāya) homage(namaḥ) wind-to(anilāya) homage(namaḥ) fire-to(analāya) homage(namaḥ)
+[salutation](suhṛdāyanamaḥ) [salutation](anilāyanamaḥ) [salutation](analāyanamaḥ)
 
 ## mukta-m0-p125-v3107
-bondage-to(bandhanāya) homage(namaḥ) bondage-maker-to(bandhakartre) homage(namaḥ)
+[salutation](bandhanāyanamaḥ) [salutation](bandhakartrenamaḥ)
 
 ## mukta-m0-p125-v3108
-good-bondage-liberator-to(subandhanavimocanāya) homage(namaḥ) with-sacrifice-enemy-to(sayajñāraye) homage(namaḥ)
+[salutation](subandhanavimocanāyanamaḥ) [salutation](sayajñārayenamaḥ)
 
 ## mukta-m0-p125-v3109
-with-desire-enemy-to(sakāmāraye) homage(namaḥ) great-tusked-to(mahādaṃṣṭrāya) homage(namaḥ)
+[salutation](sakāmārayenamaḥ) [salutation](mahādaṃṣṭrāyanamaḥ)
 
 ## mukta-m0-p125-v3110
-lord-of-immortals-to(amareśāya) homage(namaḥ) great-god-to(mahādevāya) homage(namaḥ)
+[salutation](amareśāyanamaḥ) [salutation](mahādevāyanamaḥ)
 
 ## mukta-m0-p125-v3111
-all-gods-to(viśvadevāya) homage(namaḥ) enemy-of-gods-slayer-to(surārighne) homage(namaḥ) serpent-of-the-depths-to(ahirbbudhnyāaya) homage(namaḥ)
+[salutation](viśvadevāyanamaḥ) [salutation](surārighnenamaḥ) [salutation](ahirbbudhnyāayanamaḥ)
 
 ## mukta-m0-p125-v3112
-wind-luster-to(anilābhāya) homage(namaḥ) shining-to(cekitāya) homage(namaḥ) oblation-to(haviṣe) homage(namaḥ)
+[salutation](anilābhāyanamaḥ) [salutation](cekitāyanamaḥ) [salutation](haviṣenamaḥ)
 
 ## mukta-m0-p125-v3113
-unborn-one-footed-to(ajaikapade) homage(namaḥ) skull-bearer-to(kapāline) homage(namaḥ) triśaṅku-to(triśaṅkave) homage(namaḥ)
+[salutation](ajaikapadenamaḥ) [salutation](kapālinenamaḥ) [salutation](triśaṅkavenamaḥ)
 
 ## mukta-m0-p125-v3114
-unconquered-to(ajitāya) homage(namaḥ) auspicious-to(śivāya) homage(namaḥ)
+[salutation](ajitāyanamaḥ) [salutation](śivāyanamaḥ)
 
 ## mukta-m0-p125-v3115
-dhanvantari-to(dhanvantaraye) homage(namaḥ) smoke-banner-to(dhūmaketave) homage(namaḥ)
+[salutation](dhanvantarayenamaḥ) [salutation](dhūmaketavenamaḥ)
 
 ## mukta-m0-p125-v3116
-skanda-to(skandāya) homage(namaḥ) vaiśravaṇa-to(vaiśravaṇāya) homage(namaḥ) creator-to(dhātre) homage(namaḥ)
+[salutation](skandāyanamaḥ) [salutation](vaiśravaṇāyanamaḥ) [salutation](dhātrenamaḥ)
 
 ## mukta-m0-p125-v3117
-śakra-to(śakrāya) homage(namaḥ) viṣṇu-to(viṣṇave) homage(namaḥ) friend-to(mitrāya) homage(namaḥ)
+[salutation](śakrāyanamaḥ) [salutation](viṣṇavenamaḥ) [salutation](mitrāyanamaḥ)
 
 ## mukta-m0-p125-v3118
-tvaṣṭṛ-to(tvaṣṭre) homage(namaḥ) fixed-to(dhruvāya) homage(namaḥ) supporter-to(dharāya) homage(namaḥ)
+[salutation](tvaṣṭrenamaḥ) [salutation](dhruvāyanamaḥ) [salutation](dharāyanamaḥ)
 
 ## mukta-m0-p125-v3119
-majesty-to(prabhāvāya) homage(namaḥ) all-going-to(sarvagave) homage(namaḥ) aryaman-to(aryamṇe) homage(namaḥ)
+[salutation](prabhāvāyanamaḥ) [salutation](sarvagavenamaḥ) [salutation](aryamṇenamaḥ)
 
 ## mukta-m0-p125-v3120
-impeller-to(savitre) homage(namaḥ) sun-to(ravaye) homage(namaḥ) dawn-ray-to(uṣaṅgave) homage(namaḥ)
+[salutation](savitrenamaḥ) [salutation](ravayenamaḥ) [salutation](uṣaṅgavenamaḥ)
 
 ## mukta-m0-p125-v3121
-ordainer-to(vidhātre) homage(namaḥ) māndhātṛ-to(māndhātre) homage(namaḥ) being-nourisher-to(bhūtabhāvanāya) homage(namaḥ)
+[salutation](vidhātrenamaḥ) [salutation](māndhātrenamaḥ) [salutation](bhūtabhāvanāyanamaḥ)
 
 ## mukta-m0-p125-v3122
-lord-to(vibhave) homage(namaḥ) color-manifester-to(varṇavibhāvine) homage(namaḥ)
+[salutation](vibhavenamaḥ) [salutation](varṇavibhāvinenamaḥ)
 
 ## mukta-m0-p125-v3123
-all-desire-quality-bringer-to(sarvakāmaguṇāvahāya) homage(namaḥ) lotus-navel-to(padmanābhāya) homage(namaḥ)
+[salutation](sarvakāmaguṇāvahāyanamaḥ) [salutation](padmanābhāyanamaḥ)
 
 ## mukta-m0-p125-v3124
-great-womb-to(mahāgarbbhāya) homage(namaḥ) moon-faced-to(candravaktrāya) homage(namaḥ) wind-to(anilāya) homage(namaḥ)
+[salutation](mahāgarbbhāyanamaḥ) [salutation](candravaktrāyanamaḥ) [salutation](anilāyanamaḥ)
 
 ## mukta-m0-p125-v3125
-fire-to(analāya) homage(namaḥ) powerful-to(balavate) homage(namaḥ) tranquil-to(upaśāntāya) homage(namaḥ)
+[salutation](analāyanamaḥ) [salutation](balavatenamaḥ) [salutation](upaśāntāyanamaḥ)

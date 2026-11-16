@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p122-v3026
-[for-rudra-sun](rudrārka) [for-rudras](rudrāṇāṃ) [of-śaṅkara](śaṅkarāṇāṃ) [and](ca) [for-caṇḍī](caṇḍīyam) [of-avid-ojas](aviḍaujasāma)
+rudra [rudrārka] śaṅkara [śaṅkarāṇāṃ] ca [ca] caṇḍī [caṇḍīyamaviḍaujasāma] ojas [aviḍaujasāma]
 
 ## mukta-m0-p122-v3027
-[all-lord](sarveśvara) [for-fathers](pitṛṇāṃ) [and](ca) [purification-ascending](pavitrārohaṇaṃ) [considered](matam)
+sarveśvara [sarveśvara] pitṛ [pitṛṇāṃ] ca [ca] pavitra-ārohaṇa [pavitrārohaṇaṃ] mata [matam]
 
 ## mukta-m0-p122-v3028
-[clay](mṛd) [ash](bhasma) [cloth](vastra) [leaf-etc](patrādi) [thus](tathā) [thread](sūtraṃ) [and](ca) [sevenfold](saptadhā)
+mṛd-bhasma-vastra-patra-ādi [mṛdbhasmavastrapatrādi] tathā [tathā] sūtra [sūtraṃ] ca [ca] saptadhā [saptadhā]
 
 ## mukta-m0-p122-v3029
-[pādma](pādma) [made-of-cotton](kārpāsajaṃ) [thread](sūtraṃ) [twice-born-daughter-etc](dvijakanyādinirmitam)
+pādma [pādma] kārpāsa-ja [kārpāsajaṃ] sūtra [sūtraṃ] dvija-kanyā-ādi-nirmita [dvijakanyādinirmitam]
 
 ## mukta-m0-p122-v3030
-[ten-finger](daśāṅgula) [interval-knot](antarāgranthiś) [one-by-one-finger](caikaikāṅguli) [decrease](hānitaḥ)
+daśa-aṅgula-antara-granthi [daśāṅgulāntarāgranthiścaikaikāṅgulihānitaḥ] ca [ca] eka-eka-aṅguli-hānita [ekaikāṅgulihānitaḥ]
 
 ## mukta-m0-p122-v3031
-[six-eight](ṣṭāṣṭa) [decrease](hānitaḥ)
+aṣṭa-aṣṭa-hānita [ṣṭāṣṭahānitaḥ]
 
 ## mukta-m0-p122-v3032
-[with-gorocanā](rocanā) [with-saffron-anointed](kuṅkumāktaiś) [with-madacandra](ca) [madacandrais](madacandrais) [by-power](tu) [śaktitaḥ](śaktitaḥ)
+rocanā-kuṅkuma-akta [rocanākuṅkumāktaiśca] ca [ca] mada-candra [madacandraistu] tu [tu] śakti [śaktitaḥ]
 
 ## mukta-m0-p122-v3033
-[in-three-tattva](tritattve) [three](trīṇi) [should-be-done](kāryāṇi) [fourth](caturthaṃ) [and](ca) [supporting](āvalaṃbajam)
+tri-tattva [tritattve] trīṇi [trīṇi] kārya [kāryāṇi] caturtha [caturthaṃ] ca [ca] avalambaja [cāvalaṃbajam]
 
 ## mukta-m0-p122-v3034
-[all-purpose-fulfillment](sarvārthapūraṇaṃ) [should-give](dadyāt) [on-back-seat](pṛṣṭhapīṭhe) [fourth](caturthakam)
+sarva-artha-pūraṇa [sarvārthapūraṇaṃ] dadyāt [dadyāt] pṛṣṭha-pīṭha [pṛṣṭhapīṭhe] caturthaka [caturthakam]
 
 ## mukta-m0-p122-v3035
-[on-sand-altar](sthaṇḍile) [of-hari-śambhu](hariśambhos) [on-petal](tu) [dale](dale) [on-filament-corner](kesarakoṇake)
+sthaṇḍila [sthaṇḍile] hari-śambhu [hariśambhostu] tu [tu] dala [dale] kesara-koṇaka [kesarakoṇake]
 
 ## mukta-m0-p122-v3036
-[with-threads](sūtraiś) [and](ca) [knots](granthayo) [of-others]('nyeṣāṃ) [thus](tathā) [ten-one](daśaika) [decrease](hānitaḥ)
+sūtra [sūtraiśca] ca [ca] granthi [granthayo'nyeṣāṃ] anyeṣām [anyeṣāṃ] tathā [tathā] daśa-eka [daśaika] hānita [hānitaḥ]
 
 ## mukta-m0-p122-v3037
-[of-bull](vṛṣasya) [horn-foot-end](śṛṅgapādāntaṃ) [purification-thread](pavitraṃ) [like-liṅga](liṅgavan) [considered](matam)
+vṛṣa [vṛṣasya] śṛṅga-pāda-anta [śṛṅgapādāntaṃ] pavitra [pavitraṃ] liṅga-vat [liṅgavanmatam] mata [matam]
 
 ## mukta-m0-p122-v3038
-[of-other](itareṣāṃ) [and](tu) [of-gods](devānāṃ) [purification-thread](pavitraṃ) [should-be](syāt) [three-threaded](trisūtrakam)
+itara [itareṣāṃ] tu [tu] deva [devānāṃ] pavitra [pavitraṃ] syāt [syāt] tri-sūtraka [trisūtrakam]
 
 ## mukta-m0-p122-v3039
-[sometimes](kvacid) [two-vitasti-measure](vitastimātraṃ) [and](ca) [hundred-half-half-half-threaded](śatārdhārdhārdhasūtrakam)
+kvacid [kvacidvitastimātraṃ] vitasti-mātra [vitastimātraṃ] ca [ca] śata-ardha-ardha-ardha-sūtraka [śatārdhārdhārdhasūtrakam]
 
 ## mukta-m0-p122-v3040
-[twice-born-sun-jina-number](dvijārkajinasaṃkhyābhiḥ) [firm-sand-altar-householder](sthirasthaṇḍilagehinām)
+dvija-arka-jina-saṃkhyābhiḥ [dvijārkajinasaṃkhyābhiḥ] sthira-sthaṇḍila-gehinām [sthirasthaṇḍilagehinām]
 
 ## mukta-m0-p122-v3041
-[little-finger-root-armpit-end](kaniṣṭhāmūlakakṣāntaṃ) [shoulder-navel-above-measure](skandhanābhyūrdhvamānakam)
+kaniṣṭhā-mūlaka-kṣa-anta [kaniṣṭhāmūlakakṣāntaṃ] skandha-nābhi-ūrdhva-mānaka [skandhanābhyūrdhvamānakam]
 
 ## mukta-m0-p122-v3042
-[purification-ascending](pavitrārohaṇaṃ) [should-do](kuryād) [with-chosen-mantras](iṣṭamantrais) [by-three-tattva](tritattvataḥ)
+pavitra-ārohaṇa [pavitrārohaṇaṃ] kuryāt [kuryādiṣṭamantraistritattvataḥ] iṣṭa-mantra [iṣṭamantraiḥ] tri-tattvataḥ [tritattvataḥ]
 
 ## mukta-m0-p122-v3043
-[should-give](dadyāt) [purification-thread](pavitrakaṃ) [thus](tadvad) [fire-etc-directions](vahnyādidikṣu) [by-others](cetaraiḥ)
+dadyāt [dadyāt] pavitraka [pavitrakaṃ] tadvat [tadvadvahnyādidikṣu] vahni-ādi-dikṣu [vahnyādidikṣu] cetaraiḥ [cetaraiḥ]
 
 ## mukta-m0-p122-v3044
-[with-three-five-threads](tripañcasūtrakair) [or](vāpi) [with-heart](hṛdā) [and](ca) [without-mantra-syllable](amantrarṇa) [of-lord](vibhoḥ)
+tri-pañca-sūtraka [tripañcasūtrakairvāpi] vā [vā] api [api] hṛdā [hṛdā] ca [ca] amantra-rṇa [amantrarṇa] vibho [vibhoḥ]
 
 ## mukta-m0-p122-v3045
-[accept](gṛhāṇa) [this](imāṃ) [great-god](mahādeva) [all-rite-cause](samastavidhikāraṇa)
+gṛhāṇa [gṛhāṇemāṃ] imām [imāṃ] mahādeva [mahādeva] samasta-vidhi-kāraṇa [samastavidhikāraṇa]
 
 ## mukta-m0-p122-v3046
-[pañcagavya](pañcagavyaṃ) [kama](kamā) [in-them](ātteṣu) [palm-crescent-metal](tālacandranalohakam)
+pañca-gavya [pañcagavyaṃ] kamātteṣu [kamātteṣu] tāla-candra-nalohaka [tālacandranalohakam]
 
 ## mukta-m0-p122-v3047
-[offering-materials](homadravyāṇi) [all](sarvāṇi) [with-kuśa](sakuśāny) [other-other-face](aparāparānane)
+homa-dravya [homadravyāṇi] sarvāṇi [sarvāṇi] sa-kuśa [sakuśānyaparāparānane] apara-apara-ānane [aparāparānane]
 
 ## mukta-m0-p122-v3048
-[betel](tāmbūlaṃ) [to-guhyaka](guhyake) [should-give](dadyāt) [with-ghee](sājyaṃ) [oblation](caru) [to-man-again](nare) [punaḥ](punaḥ)
+tāmbūla [tāmbūlaṃ] guhyaka [guhyake] dadyāt [dadyāt] sa-ājya [sājyaṃ] caru [caru] nare [nare] punaḥ [punaḥ]
 
 ## mukta-m0-p122-v3049
-[in-northeast](aiśānyām) [seat](āsanaṃ) [umbrella](chatraṃ) [sandals](pāduke) [yoga-band](yogapaṭṭakam)
+aiśānyām [aiśānyāmāsanaṃ] āsana [āsanaṃ] chatra [chatraṃ] pāduke [pāduke] yoga-paṭṭaka [yogapaṭṭakam]
 
 ## mukta-m0-p122-v3050
-[vessel](pātraṃ) [having-made](kṛtvā) [purification-threads](pavitrāṇi) [sprinkled](prokṣitāni) [with-śiva-water](śivāmbhasā)
+pātra [pātraṃ] kṛtvā [kṛtvā] pavitra [pavitrāṇi] prokṣita [prokṣitāni] śiva-ambhasā [śivāmbhasā]

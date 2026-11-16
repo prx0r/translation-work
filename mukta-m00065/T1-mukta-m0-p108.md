@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p108-v2676
-[four-part+by](caturbhāgaiś) [four-part+by](caturbhāgaiḥ) [remaining](śeṣānyāś) [and](ca) [moon-chamber](candraśālikā)
+[caturbhāgaiḥ](caturbhāgaiḥ) [caturbhāgaiḥ](caturbhāgaiḥ) [śeṣān](śeṣān) [yāḥ](yāḥ) [candraśālikā](candraśālikā)
 
 ## mukta-m0-p108-v2677
-[thus](evaṃ) [fifteen](pañcadaśā) [called](khyātāḥ) [five](pañca) [storey](bhūmī) [moon](indu) [chambers](śālikāḥ)
+[evaṃ](evaṃ) [pañcadaśākhyātāḥ](pañcadaśākhyātāḥ) [pañcabhūmīnduśālikāḥ](pañcabhūmīnduśālikāḥ)
 
 ## mukta-m0-p108-v2678
-[with-half](sārdhena) [in-middle](madhyatas) [there](tatra) [chariot](rathakā) [half](rdhaṃ) [risen](samudgatas)
+[sārdhena](sārdhena) [madhyataḥ](madhyataḥ) [tatra](tatra) [rathakārdhaṃ](rathakārdhaṃ) [samudgataḥ](samudgataḥ)
 
 ## mukta-m0-p108-v2679
-[sixty](ṣaṣṭi) [part](bhāga) [height](samucchāyaṃ) [should-make](kuryād) [half](ardha) [moon](indu) [chamber](śālikām)
+[ṣaṣṭibhāgasamucchāyaṃ](ṣaṣṭibhāgasamucchāyaṃ) [kuryāt](kuryāt) [ardhenduśālikām](ardhenduśālikām)
 
 ## mukta-m0-p108-v2680
-[pitcher](kumbha) [band](paṭṭīṃ) [likewise](tathā) [neck](kaṇṭham) [with-half](ardhena) [should-design](parikalpayet)
+[kumbhapaṭṭīṃ](kumbhapaṭṭīṃ) [tathā](tathā) [kaṇṭham](kaṇṭham) [ardhena](ardhena) [parikalpayet](parikalpayet)
 
 ## mukta-m0-p108-v2681
-[likewise](tathā) [to-be-made](kāryā) [part](bhāga) [by-part](bhāgena) [constructed](nirmitā)
+[tathā](tathā) [kāryā](kāryā) [bhāgabhāgena](bhāgabhāgena) [nirmitā](nirmitā)
 
 ## mukta-m0-p108-v2682
-[of-sky](khaneś) [and](ca) [forehead-mark](tilaka) [endowed](upetaṃ) [its](tad) [outside](bāhye) [half](ardha) [moon](indu) [chamber](śālikā)
+[khaneśca](khaneśca) [tilakopetaṃ](tilakopetaṃ) [tadbāhye](tadbāhye) [ardhenduśālikā](ardhenduśālikā)
 
 ## mukta-m0-p108-v2683
-[its](tan) [middle](madhye) [spire](śikharī) [two-parts](dvyaṃśā) [raised](ucchritā) [very](ati) [charming](manoramā)
+[tanmadhye](tanmadhye) [śikharī](śikharī) [dvyaṃśā](dvyaṃśā) [ucchritātimanoramā](ucchritātimanoramā)
 
 ## mukta-m0-p108-v2684
-[its](tat) [side](pārśva) [half](ardha) [chariot](rathe) [also](apyevaṃ) [to-be-made](kartavyā) [half](ardha) [moon](indu) [chamber](śālikā)
+[tatpārśvārdhārathe](tatpārśvārdhārathe) [pyevaṃ](pyevaṃ) [kartavyārdhendaśālikā](kartavyārdhendaśālikā)
 
 ## mukta-m0-p108-v2685
-[above](upari) [above](upari) [and](ca) [three](trīṇi) [one](ekaṃ) [ground](bhū) [sūtra](sūtra) [equal-to](tulyataḥ)
+[uparyupari](uparyupari) [ca](ca) [trīṇi](trīṇi) [ekaṃ](ekaṃ) [bhūsūtratulyataḥ](bhūsūtratulyataḥ)
 
 ## mukta-m0-p108-v2686
-[of-middle](madhya) [chariot](rathasya) [work](karma) [this](idaṃ) [platform](vedikā) [etc](ādyam) [now](atha) [is-stated](ucyate)
+[madhyarathasya](madhyarathasya) [karma](karma) [idaṃ](idaṃ) [vedikādyam](vedikādyam) [athocyate](athocyate)
 
 ## mukta-m0-p108-v2687
-[from-foot](pādāt) [entry](praveśa) [band](paṭṭī) [should-be](syān) [projection](nirgamā) [band](paṭṭikā) [from-foot](aṅghritaḥ)
+[pādāt](pādāt) [praveśapaṭṭī](praveśapaṭṭī) [syāt](syāt) [nirgamā](nirgamā) [paṭṭikāṅghritaḥ](paṭṭikāṅghritaḥ)
 
 ## mukta-m0-p108-v2688
-[by-foot](pādena) [square](caturasrā) [should-be](syāt) [that](sā) [womb](garbha) [half](ardha) [in-width](pravistarā)
+[pādena](pādena) [caturasrā](caturasrā) [syāt](syāt) [sā](sā) [garbhārdhapravistarā](garbhārdhapravistarā)
 
 ## mukta-m0-p108-v2689
-[haṃsa-called](haṃsākhyā) [end](ntā) [half](ardha) [sūtra](sūtrāc) [and](ca) [six](ṣaḍ) [division](vibhāgas) [its](tad) [height](ucchrayaḥ)
+[haṃsākhyāntārdhasūtrācca](haṃsākhyāntārdhasūtrācca) [ṣaḍvibhāgastaducchrayaḥ](ṣaḍvibhāgastaducchrayaḥ)
 
 ## mukta-m0-p108-v2690
-[from-capital](kapolād) [projection](aṃśa) [emergence](niṣkāśād) [amalasāra](amalāsāra) [width](vistaraḥ)
+[kapolādaṃśaniṣkāśādamalāsāravistaraḥ](kapolādaṃśaniṣkāśādamalāsāravistaraḥ)
 
 ## mukta-m0-p108-v2691
-[by-half](ardhena) [neck](gala) [band](paṭṭī) [and](ca) [upper](upa) [band](paṭṭy) [other](aparā) [by-half](ardhataḥ)
+[ardhena](ardhena) [galapaṭṭī](galapaṭṭī) [ca](ca) [upapaṭṭyaparārdhataḥ](upapaṭṭyaparārdhataḥ)
 
 ## mukta-m0-p108-v2692
-[by-two](dvābhyāṃ) [and](ca) [amalasāra-called](amalasārākhyaṃ) [all-around](parito) [round](vṛttam) [raised](ucchritam)
+[dvābhyāṃ](dvābhyāṃ) [cāmalasārākhyaṃ](cāmalasārākhyaṃ) [parito](parito) [vṛttam](vṛttam) [ucchritam](ucchritam)
 
 ## mukta-m0-p108-v2693
-[by-one](ekena) [square](caturasrā) [should-be](syād) [by-two](dvābhyāṃ) [haṃsa](haṃsa) [cornice](kapotikā)
+[ekena](ekena) [caturasrā](caturasrā) [syāt](syāt) [dvābhyāṃ](dvābhyāṃ) [haṃsakapotikā](haṃsakapotikā)
 
 ## mukta-m0-p108-v2694
-[with-bhūta-parts](sabhūtāṃśais) [by-three](tribhiḥ) [to-be-made](kāryo) [pot](ghaṭas) [its](tad) [double](dviguṇa) [height](ucchrayaḥ)
+[sabhūtāṃśaistribhiḥ](sabhūtāṃśaistribhiḥ) [kāryo](kāryo) [ghaṭastaddviguṇocchrayaḥ](ghaṭastaddviguṇocchrayaḥ)
 
 ## mukta-m0-p108-v2695
-[thus](tvāt) [likewise](tathaiva) [and](ca) (?)
+[tvāttathaiva](tvāttathaiva) [ca](ca)
 
 ## mukta-m0-p108-v2696
-[sometimes](kvacid) [Bhairava](bhairava) [Nāṭyeśa](nāṭyeśa) [Gaurī](gaury) [Arka](arko) [from-south](dakṣiṇāditaḥ)
+[kvacidbhairavanāṭyeśagauryarko](kvacidbhairavanāṭyeśagauryarko) [dakṣiṇāditaḥ](dakṣiṇāditaḥ)
 
 ## mukta-m0-p108-v2697
-[its](tat) [hip](kaṭy) [half](ardha) [height](samucchrāyaṃ) [having-divided](pravibhajyā) [eight](aṣṭa) [parts](bhāgataḥ)
+[tatkaṭyardhasamucchrāyaṃ](tatkaṭyardhasamucchrāyaṃ) [pravibhajyāṣṭabhāgataḥ](pravibhajyāṣṭabhāgataḥ)
 
 ## mukta-m0-p108-v2698
-[by-three-parts](tryaṃśakaiś) [moon-chamber](candraśālāṃ) [by-two-parts](dvayaṃśato) [in-middle](madhyataḥ) [structure](puram)
+[tryaṃśakaiścandraśālāṃ](tryaṃśakaiścandraśālāṃ) [dvayaṃśato](dvayaṃśato) [madhyataḥ](madhyataḥ) [puram](puram)
 
 ## mukta-m0-p108-v2699
-[thus](evaṃ) [its](tat) [at-sides](pārśvataḥ) [to-be-made](kāryāś) [half](cārdha) [moon](indu) [chamber](śālikā) [etc](ādayaḥ)
+[evaṃ](evaṃ) [tatpārśvataḥ](tatpārśvataḥ) [kāryāścārdhenduśālikādayaḥ](kāryāścārdhenduśālikādayaḥ)
 
 ## mukta-m0-p108-v2700
-[architecture](vāstu) [ornament](bhūṣaṇam) [stone-born](aśmottham) [stated](uktam) [others](anyāni) [and](ca) [I-speak](bruve)
+[vāstubhūṣaṇamaśmotthamuktamanyāni](vāstubhūṣaṇamaśmotthamuktamanyāni) [ca](ca) [bruve](bruve)

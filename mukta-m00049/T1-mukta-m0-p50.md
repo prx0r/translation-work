@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p50-v1226
-[śakti-sādhakaḥ](śaktisādhakaḥ) [śakti-sahitaḥ](śaktisahitaḥ) [sādhakaḥ](sādhakaḥ) [iti](iti)
+[power-practitioner](śaktisādhakaḥ) [power-accompanied](śaktisahitaḥ) [practitioner](sādhakaḥ)
 
 ## mukta-m0-p50-v1227
-[delightful](manoramaṃ) [pleasing](ramyaṃ) [vessel](pātraṃ) [one-should-make](kuryāt)
+[pleasing](manoramaṃ) [delightful](ramyaṃ) [vessel](pātraṃ) [should-make](kuryāt)
 
 ## mukta-m0-p50-v1228
-[then](tataḥ) [with-initiated-companions](sāmayikaiḥ) [together](sārddhaṃ) [drinking-and-eating](pānabhojanam) [one-should-perform](ācaret)
+[then](tataḥ) [with-agreed-ones](sāmayikaiḥ) [together](sārddhaṃ) [drink-food-should-practice](pānabhojanamācaret)
 
 ## mukta-m0-p50-v1229
-[then](tataḥ) [with-very-joyful-mind](atihṛṣṭamanasā) [all](samastaḥ) [kula-practitioner](kulasādhakaḥ)
+[then](tato) [exceedingly-joyful-minded](atihṛṣṭamanasā) [all](samastaḥ) [clan-practitioner](kulasādhakaḥ)
 
 ## mukta-m0-p50-v1230
-[from-mūlādhāra](mūlādhārāt) [up-to-tongue](jihvāntāṃ) [consciousness-form](cidrūpāṃ) [kula-kuṇḍalinī](kulakuṇḍalīm)
+[root-support-beginning-tongue-end](mūlādhārādijihvāntāṃ) [consciousness-formed](cidrūpāṃ) [clan-kundalini](kulakuṇḍalīm)
 
 ## mukta-m0-p50-v1231
-[mutual-permission](parasparājñām) [having-taken](ādāya) [one-should-offer](juhuyāt) [in-mouth-of-kuṇḍalinī](kuṇḍalīmukhe)
+[mutual-command](parasparājñām) [taking](ādāya) [should-offer](juhuyāt) [kundalini-mouth](kuṇḍalīmukhe)
 
 ## mukta-m0-p50-v1232
-[of-practitioners](sādhakānāṃ) [of-householders](gṛhasthānāṃ) [five-cups](pañcapātraṃ) [is-declared](prakīrtitam)
+[of-practitioners](sādhakānāṃ) [of-householders](gṛhasthānāṃ) [five-vessel](pañcapātraṃ) [proclaimed](prakīrtitam)
 
 ## mukta-m0-p50-v1233
-[from-excessive-drinking](atipānāt) [of-kula-members](kulīnānāṃ) [loss-of-success](siddhihāniḥ) [arises](prajāyate)
+[from-excessive-drinking](atipānāt) [of-clan-people](kulīnānāṃ) [loss-of-accomplishment](siddhihāniḥ) [arises](prajāyate)
 
 ## mukta-m0-p50-v1234
-[drinking-and-eating](pānabhojanam) [one-should-perform](ācaret)
+[drink-food-should-practice](pānabhojanamācaret)
 
 ## mukta-m0-p50-v1235
-[so-much](tāvat) [drinking](pānaṃ) [one-should-do](prakurvīta) [beyond-that](ataḥ) [higher](param) [beast-drinking](paśupānam)
+[so-much](tāvat) [drinking](pānaṃ) [should-do](prakurvīta) [animal-drinking](paśupānam) [thereafter](ataḥ) [beyond](param)
 
 ## mukta-m0-p50-v1236
-[he](sa) [most-sinful](pāpiṣṭhaḥ) [how](kathaṃ) [should-say](brūyāt) [the-primeval](ādyāṃ) [Kālī](kālīṃ) [I-worship](bhajāmyaham)
+[he](sa) [most-sinful](pāpiṣṭhaḥ) [how](kathaṃ) [would-say](brūyāt) [first](ādyāṃ) [kālī](kālīṃ) [I-worship](bhajāmyaham)
 
 ## mukta-m0-p50-v1237
-[likewise](tathā) [in-your-grace](tava) [even](prasāde'pi) [distinction-of-caste](jātibhedaṃ) [one-should-abandon](vivarjayet)
+[thus](tathā) [your](tava) [grace](prasāde) [also](api) [birth-difference](jātibhedaṃ) [should-avoid](vivarjayet)
 
 ## mukta-m0-p50-v1238
-[wiping-of-ointment](lepāvanodanaṃ) [one-should-do](kuryāt) [with-cloth](vastreṇa) [or](vā) [with-water](pāthasā'pi)
+[anointing](lepāvanodanaṃ) [should-do](kuryāt) [cloth](vastreṇa) [water](pāthasā) [or](api) [vā](vā)
 
 ## mukta-m0-p50-v1239
-[yantra-ointment](yantralepaṃ) [in-kūrca-region](kūrcadeśe) [one-should-enjoy](viharet) [like-a-god](devavat) [on-earth](bhuvi)
+[yantra-anointing](yantralepaṃ) [kūrca-place](kūrcadeśe) [should-place](vihared) [like-god](devavad) [on-earth](bhuvi)
 
 ## mukta-m0-p50-v1240
-[thus-far](yāvat) [iti](iti) [one-should-move](cālayet) [one-should-roll](ghūrṇayet)
+[so-long](yāvat) [iti](iti) [should-move](cālayet) [should-rotate](ghūrṇayet)
 
 ## mukta-m0-p50-v1241
-[thus](evam) [iti](iti) [wiping-of-ointment](lepāvanodanam) [removal-of-hand-ointment](hastalepāpanayanam)
+[thus](evam) [iti](iti) [anointing-removal](lepāvanodanam) [hand-anointing-removal](hastalepāpanayanam)
 
 ## mukta-m0-p50-v1242
-[kūrca](kūrcam) [middle-of-eyebrows](astrībhruvormadhyam) [thus](iti) [Amara](amaraḥ)
+[kūrca](kūrcam) [not-woman](astrī) [brows-middle](bhruvormadhyam) [thus](ityamaraḥ)
 
 ## mukta-m0-p50-v1243
-[producing-good-fortune-and-liberation](saubhāgyamokṣajananaṃ) [sole-means-of-brahman-knowledge](brahmajñānaikasādhanam)
+[auspiciousness-liberation-producing](saubhāgyamokṣajananaṃ) [brahma-knowledge-only-means](brahmajñānaikasādhanam)
 
 ## mukta-m0-p50-v1244
-[method-of-nyāsa-and-worship](nyāsapūjāvidhānam) [and](ca) [by-distinction-of-external-and-internal](bāhyābhyantarabhedataḥ)
+[nyāsa-worship-rite](nyāsapūjāvidhānañca) [external-internal-distinction](bāhyābhyantarabhedataḥ)
 
 ## mukta-m0-p50-v1245
-[bowed-with-humility](vinayāvanatā) [goddess](devī) [spoke](provāca) [toward-Śaṅkara](śaṅkaraṃ) [prati](prati)
+[with-humility-bowed](vinayāvanatā) [goddess](devī) [spoke](provāca) [to-śaṅkara](śaṅkaraṃ) [towards](prati)
 
 ## mukta-m0-p50-v1246
-[out-of-compassion](kṛpayā) [told](kathitaṃ) [O-god](deva) [practice-of-supreme-nature](parāprakṛtisādhanam)
+[with-compassion](kṛpayā) [told](kathitaṃ) [lord](deva) [supreme-nature-practice](parāprakṛtisādhanam)
 
 ## mukta-m0-p50-v1247
-[especially](viśeṣataḥ) [in-Kali-age](kaliyuge) [for-beings](jīvānām) [quickly](āśu) [giving-success](siddhidam)
+[especially](viśeṣataḥ) [in-kali-age](kaliyuge) [of-beings](jīvānām) [quick](āśu) [accomplishment-giving](siddhidam)
 
 ## mukta-m0-p50-v1248
-[Sadāśiva](sadāśiva) [and-so-forth](ityādi) [4](|| 4)
+[sadāśiva-etc](sadāśivetyādi) [4](4)
 
 ## mukta-m0-p50-v1249
-[not](na) [to-rise](utthātum) [desires](īhate) [freely](svairaṃ) [again](bhūyaḥ) [requests](prārthayate) [soon](acirāt)
+[not-rise](notthātum) [wishes](īhate) [freely](svairaṃ) [again](bhūyaḥ) [requests](prārthayate) [soon](acirāt)
 
 ## mukta-m0-p50-v1250
-[hymn](stotram) [and](ca) [armor](kavacaṃ) [O-god](deva) [that](tat) [now](idānīṃ) [reveal](prakāśaya)
+[hymn](stotrañca) [and](ca) [armor](kavacaṃ) [lord](deva) [that-now](tadidānīṃ) [reveal](prakāśaya)

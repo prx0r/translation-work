@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p90-v2226
-three-times(trivāraṃ) oblation(havanaṃ) should-perform(caret) should-do(kuryāt)
+[thrice](trivāraṃ) [offering](havanaṃ) [perform](caret) [do](kuryāt)
 
 ## mukta-m0-p90-v2227
-at-night(niśāyāṃ) if(cet) then(tadā) with-women(strībhiḥ) should-see(paśyet) pole-star(dhruvam) Arundhatī(arundhatīm)
+[night](niśāyāṃ) [if](cet) [then](tadā) [by-women](strībhiḥ) [see](paśyed) [dhruva+arundhatī](dhruvamarundhatīm)
 
 ## mukta-m0-p90-v2228
-from-sviṣṭakṛt-offering(sviṣṭikṛt+homataḥ) with-full-offering+end(pūrṇa+āhuti+antena) should-complete(samāpayet)
+[from-sviṣṭikṛt-homa](sviṣṭikṛddhomataḥ) [full-offering-end](pūrṇāhutyantena) [complete](samāpayet)
 
 ## mukta-m0-p90-v2229
-according-to-family+duty(kula+dharma+anusāreṇa) with-different-gotra+not-sapiṇḍa(gotra+bhinna+asapiṇḍayā)
+[family-duty-according-to](kuladharmānusāreṇa) [different-gotra-non-sapiṇḍa](gotrabhinnāsapiṇḍayā)
 
 ## mukta-m0-p90-v2230
-her-permission(tat+anujñāṃ) without(vinā) brahma-marriage(brāhma+vivāhaṃ) not-should-perform(na+ācaret) again(punaḥ)
+[without-permission](tadanujñāṃ) [vinā](vinā) [brāhma-marriage](brāhmavivāhaṃ) [not-perform](nācaret) [again](punaḥ)
 
 ## mukta-m0-p90-v2231
-born-of-śaiva-union(śaiva+udbhavāni) offspring(apatyāni) entitled-to-inheritance(dāya+arhāṇi) become(bhavanti) not(na)
+[śaiva-born](śaivodbhavāni) [offspring](apatyāni) [inheritance-worthy](dāyārhāṇi) [are-not](bhavanti) [not](na)
 
 ## mukta-m0-p90-v2232
-according-to-means(yathā+vibhavam) clothing(ācchādaṃ) and(ca) food(grāsaṃ) O-supreme-goddess(parameśvari)
+[according-to-means](yathāvibhavam) [clothing](ācchādaṃ) [food](grāsañca) [supreme-goddess](parameśvari)
 
 ## mukta-m0-p90-v2233
-of-the-circle(cakrasya) by-rule(niyamena) one(ekaḥ) second(dvitīyaḥ) until-end-of-life(jīvana+avadhi)
+[of-cakra](cakrasya) [by-rule](niyamena) [one](eko) [second](dvitīyo) [life-limit](jīvanāvadhi)
 
 ## mukta-m0-p90-v2234
-should-see(paśyet)
+[see](paśyet)
 
 ## mukta-m0-p90-v2235
-in-offspring(apatye) in-own-son(ātmaje) in-own-wife(ātmajāyāṃ) or(vā)
+[in-offspring](apatye) [in-son](ātmaje) [in-daughter](ātmajāyāṃ) [or](vā)
 
 ## mukta-m0-p90-v2236
-from-wealth-sharing(dhana+bhājinaḥ) person(janāt)
+[wealth-sharers](dhanabhājino) [people](janāt)
 
 ## mukta-m0-p90-v2237
-by-mutual-desire(paraspara+icchayā) marriage(udvāhaṃ) should-perform(kuryāt) hero(vīraḥ) composed(samāhitaḥ)
+[by-mutual-consent](parasparecchayā) [marriage](udvāhaṃ) [perform](kuryāt) [hero](vīraḥ) [composed](samāhitaḥ)
 
 ## mukta-m0-p90-v2238
-of-us-two(āvayoḥ) in-śāmbhava-marriage(śāmbhava+udvāhe) by-you(bhavadbhiḥ) let-it-be-consented(anumanyatām)
+[of-us](āvayoḥ) [śāmbhava-marriage](śāmbhavodvāhe) [by-you](bhavadbhiḥ) [be-approved](anumanyatām)
 
 ## mukta-m0-p90-v2239
-with-one-hundred-eight+repetitions(aṣṭa+uttara+śata+āvṛttyā) should-bow(praṇamet) to-Kālikā(kālikāṃ) supreme(parām)
+[by-hundred-and-eight](aṣṭottaraśatāvṛttyā) [bow](praṇamet) [to-supreme-kālikā](kālikāṃ) [parām](parām)
 
 ## mukta-m0-p90-v2240
-with-sincere(akaitavena) mind(cittena) with-husband-attitude(pati+bhāvena) me(māṃ) choose(vṛṇu)
+[without-deceit](akaitavena) [mind](cittena) [as-husband](patibhāvena) [me](māṃ) [choose](vṛṇu)
 
 ## mukta-m0-p90-v2241
-having-great-faith(su+śraddadhānā) O-goddess(deveśi) hands(karau) should-place(dadyāt) upon-hand(kara+upari)
+[well-faithful](suśraddadhānā) [goddess](deveśi) [hands](karau) [give](dadyāt) [on-hands](karopari)
 
 ## mukta-m0-p90-v2242
-composed(samāhitaḥ) attentive(sāvadhānaḥ) being(san) hero(vīraḥ) marriage(udvāhaṃ) should-perform(kuryāt)
+[composed](samāhitaḥ) [attentive](sāvadhānaḥ) [being](san) [hero](vīraḥ) [marriage](udvāhaṃ) [perform](kuryāt)
 
 ## mukta-m0-p90-v2243
-hero(vīraḥ) supreme(paramām) highest(uttamāṃ) Kālikā(kālikāṃ) should-bow(praṇamet)
+[hero](vīraḥ) [supreme](paramām) [excellent](uttamāṃ) [kālikā](kālikāṃ) [bow](praṇamet)
 
 ## mukta-m0-p90-v2244
-me(māṃ) choose(vṛṇu) thus(iti) to-that(tāṃ) woman(ramaṇīṃ) should-say(vadet)
+[me](māṃ) [choose](vṛṇviti) [that](tāṃ) [lady](ramaṇīṃ) [say](vadet)
 
 ## mukta-m0-p90-v2245
-hands(karau) should-place(dadyāt)
+[hands](karau) [give](dadyāt)
 
 ## mukta-m0-p90-v2246
-then(tadā) situated-in-circle(cakra+sthitāḥ) kaulas(kaulāḥ) should-say(brūyuḥ) hail(svasti) thus(iti) respectfully(sādaram)
+[then](tadā) [cakra-seated](cakrasthitāḥ) [kaulas](kaulāḥ) [say](brūyuḥ) [well](svastīti) [respectfully](sādaram)
 
 ## mukta-m0-p90-v2247
-Bagalā(bagalā) Kamalā(kamalā) Nityā(nityā) you-two(yuvāṃ) may-protect(rakṣantu) Bhairavī(bhairavī)
+[bagalā](bagalā) [kamalā](kamalā) [nityā](nityā) [you-two](yuvāṃ) [protect](rakṣantu) [bhairavī](bhairavī)
 
 ## mukta-m0-p90-v2248
-then(tataḥ) to-those-two-bowing(tau+praṇatau) wise-one(vidvān) should-make-hear(śrāvayet) vāgbhava(vāgbhavaṃ) ramā(ramām)
+[then](tataḥ) [those-two](tau) [bowed](praṇatau) [learned](vidvān) [recite](śrāvayed) [vāgbhava](vāgbhavaṃ) [ramā](ramām)
 
 ## mukta-m0-p90-v2249
-by-method-taught-by-Śambhu(śāmbhava+ukta+vidhānena) by-the-two-kulīnas(kulīnābhyāṃ) O-lady-of-the-kula(kuleśvari)
+[by-śāmbhava-prescribed-rite](śāmbhavoktavidhānena) [of-noble-pair](kulīnābhyāṃ) [goddess-of-family](kuleśvari)
 
 ## mukta-m0-p90-v2250
-not-sapiṇḍa(asapiṇḍāṃ) husbandless(bhartṛ+hīnām) should-marry(udvahet) by-command-of-Śambhu(śambhu+śāsanāt)
+[non-sapiṇḍa](asapiṇḍāṃ) [husbandless](bhartṛhīnām) [marry](udvahec) [by-śambhu-command](śambhuśāsanāt)

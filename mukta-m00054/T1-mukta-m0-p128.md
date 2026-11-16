@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p128-v3176
-jewel+limbed(ratnāṅgāya) homage(namaḥ) great+ocean+drinking+knower(mahārṇavanipānavide) homage(namaḥ)
+[ratna-anga-ayana-namaha](ratnāṅgāyanamaḥ) [maha-arnava-nipana-videna-namaha](mahārṇavanipānavidenamaḥ)
 
 ## mukta-m0-p128-v3177
-root(mūlāya) homage(namaḥ) vast(viśālāya) homage(namaḥ) immortal(amṛtāya) homage(namaḥ)
+[mula-ayana-namaha](mūlāyanamaḥ) [visala-ayana-namaha](viśālāyanamaḥ) [amrita-ayana-namaha](amṛtāyanamaḥ)
 
 ## mukta-m0-p128-v3178
-manifest+unmanifest(vyaktāvyaktāya) homage(namaḥ) austerity+treasure(taponidhaye) homage(namaḥ) ascension(ārohaṇāya) homage(namaḥ)
+[vyakta-avyakta-ayana-namaha](vyaktāvyaktāyanamaḥ) [taponidhaye-namaha](taponidhayenamaḥ) [arohana-ayana-namaha](ārohaṇāyanamaḥ)
 
 ## mukta-m0-p128-v3179
-elevation(adhirodhāya) homage(namaḥ) trident+bearer(śūladhāriṇe) homage(namaḥ)
+[adhiro-dha-ayana-namaha](adhirodhāyanamaḥ) [sula-dharine-namaha](śūladhāriṇenamaḥ)
 
 ## mukta-m0-p128-v3180
-great+fame(mahāyaśase) homage(namaḥ) army+arrangement(senākalpāya) homage(namaḥ) great+arrangement(mahākalpāya) homage(namaḥ)
+[maha-yasasena-namaha](mahāyaśasenamaḥ) [sena-kalpa-ayana-namaha](senākalpāyanamaḥ) [maha-kalpa-ayana-namaha](mahākalpāyanamaḥ)
 
 ## mukta-m0-p128-v3181
-yoga(yogāya) homage(namaḥ) age+maker(yugakarāya) homage(namaḥ) remover(haraye) homage(namaḥ)
+[yoga-ayana-namaha](yogāyanamaḥ) [yuga-kara-ayana-namaha](yugakarāyanamaḥ) [haraye-namaha](harayenamaḥ)
 
 ## mukta-m0-p128-v3182
-age+form(yugarūpāya) homage(namaḥ) great+form(mahārūpāya) homage(namaḥ)
+[yuga-rupa-ayana-namaha](yugarūpāyanamaḥ) [maha-rupa-ayana-namaha](mahārūpāyanamaḥ)
 
 ## mukta-m0-p128-v3183
-great+serpent+slayer(mahānāgahanāya) homage(namaḥ) slayer(vadhāya) homage(namaḥ)
+[maha-naga-hana-ayana-namaha](mahānāgahanāyanamaḥ) [vadha-ayana-namaha](vadhāyanamaḥ)
 
 ## mukta-m0-p128-v3184
-justice+offering(nyāyanirvapaṇāya) homage(namaḥ) foot(pādāya) homage(namaḥ) learned(paṇḍitāya) homage(namaḥ)
+[nyaya-nirvapana-ayana-namaha](nyāyanirvapaṇāyanamaḥ) [pada-ayana-namaha](pādāyanamaḥ) [pandita-ayana-namaha](paṇḍitāyanamaḥ)
 
 ## mukta-m0-p128-v3185
-immovable+like(acalopamāya) homage(namaḥ) many+garlanded(bahumālāya) homage(namaḥ)
+[acalopama-ayana-namaha](acalopamāyanamaḥ) [bahu-mala-ayana-namaha](bahumālāyanamaḥ)
 
 ## mukta-m0-p128-v3186
-great+garlanded(mahāmālāya) homage(namaḥ) hare+moon+beautiful+eyed(śaśiharasulocanāya) homage(namaḥ)
+[maha-mala-ayana-namaha](mahāmālāyanamaḥ) [sasi-hara-su-locana-ayana-namaha](śaśiharasulocanāyanamaḥ)
 
 ## mukta-m0-p128-v3187
-vast+salt+well(vistāralavaṇakūpāya) homage(namaḥ) three+ages(triyugāya) homage(namaḥ)
+[vistara-lavana-kupa-ayana-namaha](vistāralavaṇakūpāyanamaḥ) [tri-yuga-ayana-namaha](triyugāyanamaḥ)
 
 ## mukta-m0-p128-v3188
-jewel+pierced(maṇividdhāya) homage(namaḥ) matted+hair+bearer(jaṭādharāya) homage(namaḥ)
+[mani-viddha-ayana-namaha](maṇividdhāyanamaḥ) [jata-dhara-ayana-namaha](jaṭādharāyanamaḥ)
 
 ## mukta-m0-p128-v3189
-drop(bindave) homage(namaḥ) emission(visargāya) homage(namaḥ) beautiful+faced(sumukhāya) homage(namaḥ)
+[bindave-namaha](bindavenamaḥ) [visarga-ayana-namaha](visargāyanamaḥ) [su-mukha-ayana-namaha](sumukhāyanamaḥ)
 
 ## mukta-m0-p128-v3190
-arrow(śarāya) homage(namaḥ) all+weaponed(sarvāyudhāya) homage(namaḥ) companion(sahāya) homage(namaḥ)
+[sara-ayana-namaha](śarāyanamaḥ) [sarva-ayudha-ayana-namaha](sarvāyudhāyanamaḥ) [saha-ayana-namaha](sahāyanamaḥ)
 
 ## mukta-m0-p128-v3191
-offering(nivedanāya) homage(namaḥ) happiness+born(sukhājātāya) homage(namaḥ) good+fragrance(sugandhārāya) homage(namaḥ)
+[nivedana-ayana-namaha](nivedanāyanamaḥ) [sukha-jata-ayana-namaha](sukhājātāyanamaḥ) [su-gandhara-ayana-namaha](sugandhārāyanamaḥ)
 
 ## mukta-m0-p128-v3192
-great+bowed(mahādhanuṣe) homage(namaḥ) fragrance+protector+lord(gandhapālibhagavate) homage(namaḥ)
+[maha-dhanuse-namaha](mahādhanuṣenamaḥ) [gandha-pali-bhagavate-namaha](gandhapālibhagavatenamaḥ)
 
 ## mukta-m0-p128-v3193
-all+action+arising(sarvakarmotthānāya) homage(namaḥ) churning+abundant+wind(manthānabahulavāyave) homage(namaḥ)
+[sarva-karma-utthana-ayana-namaha](sarvakarmotthānāyanamaḥ) [manthana-bahula-vayave-namaha](manthānabahulavāyavenamaḥ)
 
 ## mukta-m0-p128-v3194
-complete(sakalāya) homage(namaḥ) all+eyed(sarvalocanāya) homage(namaḥ) surface+clapping(talastālāya) homage(namaḥ)
+[sakala-ayana-namaha](sakalāyanamaḥ) [sarva-locana-ayana-namaha](sarvalocanāyanamaḥ) [tala-stala-ayana-namaha](talastālāyanamaḥ)
 
 ## mukta-m0-p128-v3195
-umbrella(chatrāya) homage(namaḥ) beautiful+umbrella(succhatrāya) homage(namaḥ)
+[chatra-ayana-namaha](chatrāyanamaḥ) [su-chatra-ayana-namaha](succhatrāyanamaḥ)
 
 ## mukta-m0-p128-v3196
-famous+world(vikhyātalokāya) homage(namaḥ) all+refuge+order(sarvāśrayakramāya) homage(namaḥ)
+[vikhyata-loka-ayana-namaha](vikhyātalokāyanamaḥ) [sarva-asraya-krama-ayana-namaha](sarvāśrayakramāyanamaḥ)
 
 ## mukta-m0-p128-v3197
-shaven(muṇḍāya) homage(namaḥ) deformed(virūpāya) homage(namaḥ) transformed(vikṛtāya) homage(namaḥ)
+[munda-ayana-namaha](muṇḍāyanamaḥ) [virupa-ayana-namaha](virūpāyanamaḥ) [vikrita-ayana-namaha](vikṛtāyanamaḥ)
 
 ## mukta-m0-p128-v3198
-staff+bearer(daṇḍine) homage(namaḥ) earring+bearer(kuṇḍine) homage(namaḥ) transforming(vikurvāṇāya) homage(namaḥ)
+[dandine-namaha](daṇḍinenamaḥ) [kundine-namaha](kuṇḍinenamaḥ) [vikurvāna-ayana-namaha](vikurvāṇāyanamaḥ)
 
 ## mukta-m0-p128-v3199
-green+eyed(haryakṣāya) homage(namaḥ) direction(kakubhāya) homage(namaḥ) thunderbolt+bearer(vajriṇe) homage(namaḥ)
+[haryaksa-ayana-namaha](haryakṣāyanamaḥ) [kakubha-ayana-namaha](kakubhāyanamaḥ) [vajrine-namaha](vajriṇenamaḥ)
 
 ## mukta-m0-p128-v3200
-hundred+tongued(śatajihvāya) homage(namaḥ) thousand+footed+thousand+headed(sahasrapatsahasramūrddhne) homage(namaḥ)
+[sata-jihva-ayana-namaha](śatajihvāyanamaḥ) [sahasra-pat-sahasra-murddhne-namaha](sahasrapatsahasramūrddhnenamaḥ)

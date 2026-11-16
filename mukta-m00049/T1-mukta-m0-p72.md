@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p72-v1776
-[of-śūdras](śūdrāṇām) [and-of-others](itareṣām) [and](ca) [tuft-of-hair](śikhāṃ) [having-offered](hutvā) [indeed](eva) [consecration](saṃskriyā)
+[of-śūdras](śūdrāṇām) [and-others](itareṣāñca) [topknot](śikhāṃ) [having-offered](hutvaiva) [consecration](saṃskriyā)
 
 ## mukta-m0-p72-v1777
-[the-guru](guruḥ) [having-raised](utthāpya) [that](taṃ) [disciple](śiṣyaṃ) [in-right-ear](dakṣa+karṇe) [should-say](vadet) [this](idam)
+[guru](gurur) [having-raised](utthāpya) [that](taṃ) [disciple](śiṣyaṃ) [right-ear](dakṣakarṇe) [would-say](vaded) [this](idam)
 
 ## mukta-m0-p72-v1778
-[without-mine-ness](nirmamaḥ) [without-ego](nirahaṅkāraḥ) [by-own-nature](svabhāvena) [in-happiness](sukhaṃ) [wander](cara)
+[without-mine](nirmamo) [without-ego](nirahaṅkāraḥ) [by-nature](svabhāvena) [happily](sukhaṃ) [wander](cara)
 
 ## mukta-m0-p72-v1779
-[consisting-of-brahman](brahma+mayaḥ) [of-the-nature-of-brahman](brahma+svarūpaḥ)
+[full-of-brahman](brahmamayo) [brahman-nature](brahmasvarūpaḥ)
 
 ## mukta-m0-p72-v1780
-[of-those-of-mixed-castes](varṇa+saṅkarāṇām) [|| 262](|| 262)
+[of-mixed-castes](varṇasaṅkarāṇām) [262](262)
 
 ## mukta-m0-p72-v1781
-[of-"aham"-etc.](aham+iti+āsyādeḥ) [elision](lopaḥ) [indeed](tu) [archaic](ārṣaḥ)
+[of-aham-iti-beginning](ahamityasyāder) [omission](lopas) [ārṣa](tvārṣaḥ)
 
 ## mukta-m0-p72-v1782
-[of-the-nature-of-the-self](ātma+svarūpaṃ) [that](taṃ) [having-considered](matvā) [should-bow](praṇamet) [with-head](śirasā) [the-guru](guruḥ)
+[self-nature](ātmasvarūpaṃ) [that](taṃ) [considering](matvā) [would-bow](praṇamec) [with-head](śirasā) [guru](guruḥ)
 
 ## mukta-m0-p72-v1783
-[you](tvam) [alone](eva) [that](tat) [you](tat+tvam) [alone](eva) [of-universal-form](viśva+rūpa) [salutation](namaḥ) [be](astu) [to-you](te)
+[you-only](tvameva) [that](tat) [truth-only](tattvameva) [universal-form](viśvarūpa) [salutation](namo'stu) [to-you](te)
 
 ## mukta-m0-p72-v1784
-[by-one's-own-mantra](sva+mantreṇa) [from-cutting-of-tuft](śikhā+cchedāt) [taking-of-renunciation](saṃnyāsa+grahaṇaṃ) [should-be](bhavet)
+[by-own-mantra](svamantreṇa) [from-topknot-cutting](śikhācchedāt) [renunciation-taking](saṃnyāsagrahaṇaṃ) [would-be](bhavet)
 
 ## mukta-m0-p72-v1785
-[for-those-devoted-to-free-conduct](sva+icchā+ācāra+parāṇāṃ) [but](tu) [transgression](pratyavāyaḥ) [not](na) [exists](vidyate)
+[devoted-to-own-will](svecchācāraparāṇāṃ) [but](tu) [loss](pratyavāyo) [not](na) [exists](vidyate)
 
 ## mukta-m0-p72-v1786
-[should-wander](viharet) [according-to-own-will](sva+icchayā) [the-disciple](śiṣyaḥ) [directly](sākṣāt) [consisting-of-brahman](brahma+mayaḥ) [on-earth](bhuvi)
+[wander](viharet) [by-own-will](svecchayā) [disciple](śiṣyaḥ) [directly](sākṣād) [full-of-brahman](brahmamayo) [on-earth](bhuvi)
 
 ## mukta-m0-p72-v1787
-[forgetting](vismaran) [names-and-forms](nāma+rūpāṇi) [meditating-on](dhyāyan) [the-self](ātmānam) [in-the-self](ātmani)
+[forgetting](vismaran) [names-forms](nāmarūpāṇi) [meditating](dhyāyan) [self](ātmānam) [in-self](ātmani)
 
 ## mukta-m0-p72-v1788
-[with-head](śirasā) [should-bow](praṇamet)
+[with-head](śirasā) [would-bow](praṇamet)
 
 ## mukta-m0-p72-v1789
-[salutation-to-you](namas+tubhyam) [and-so-forth](iti+ādikam)
+[salutation-to-you-etc](namastubhyamityādikam)
 
 ## mukta-m0-p72-v1790
-[taking-of-renunciation](saṃnyāsa+grahaṇaṃ) [should-be](bhavet)
+[renunciation-taking](saṃnyāsagrahaṇaṃ) [would-be](bhavet)
 
 ## mukta-m0-p72-v1791
-[knowledge-of-brahman](brahma+jñāna) [and-so-forth](iti+ādi)
+[brahma-knowledge-etc](brahmajñānetyādi)
 
 ## mukta-m0-p72-v1792
-[free-from-dualities](nirdvandvaḥ) [of-that-nature](tat+svarūpaḥ)
+[without-dualities](nirdvandvas) [its-nature](tatsvarūpaḥ)
 
 ## mukta-m0-p72-v1793
-[without-mine-ness](nirmamaḥ) [without-ego](nirahaṅkāraḥ) [the-renunciant](saṃnyāsī) [should-wander](viharet) [on-earth](kṣitau)
+[without-mine](nirmamo) [without-ego](nirahaṅkāraḥ) [renunciant](saṃnyāsī) [wander](viharet) [on-earth](kṣitau)
 
 ## mukta-m0-p72-v1794
-[equal-in-pleasure-and-pain](sukha+duḥkha+samaḥ) [wise](dhīraḥ) [self-controlled](jita+ātmā) [free-from-desire](vigata+spṛhaḥ)
+[equal-to-pleasure-pain](sukhaduḥkhasamo) [steadfast](dhīro) [self-conquered](jitātmā) [without-desire](vigataspṛhaḥ)
 
 ## mukta-m0-p72-v1795
-[ever-blissful](sadā+ānandaḥ) [pure](śuciḥ) [peaceful](śāntaḥ) [without-expectations](nirapekṣaḥ) [unperturbed](nirākulaḥ)
+[always-blissful](sadānandaḥ) [pure](śuciḥ) [peaceful](śānto) [without-expectation](nirapekṣo) [unperturbed](nirākulaḥ)
 
 ## mukta-m0-p72-v1796
-[free-from-anger-and-fear](vigata+amarṣa+bhīḥ) [self-restrained](dāntaḥ) [without-resolve](niḥ+saṅkalpaḥ) [without-effort](nirudyamaḥ)
+[without-anger-fear](vigatāmarṣabhīr) [controlled](dānto) [without-resolve](niḥsaṅkalpo) [without-effort](nirudyamaḥ)
 
 ## mukta-m0-p72-v1797
-[enduring-cold-wind-and-heat](śīta+vāta+ātapa+sahaḥ) [equal](samaḥ) [in-honor-and-dishonor](māna+apamānayoḥ)
+[cold-wind-heat-enduring](śītavātātapasahaḥ) [equal](samo) [honor-dishonor](mānāpamānayoḥ)
 
 ## mukta-m0-p72-v1798
-[anywhere](kvacit) [even](api) [unattached](anāsaktaḥ)
+[even-somewhere-unattached](kvacidapyanāsaktaḥ)
 
 ## mukta-m0-p72-v1799
-[desire](spṛhā) [of-whom](yasya) [he](saḥ)
+[desire](spṛhā) [whose](yasya) [he](saḥ)
 
 ## mukta-m0-p72-v1800
-[unperturbed](nirākulaḥ) [devoid-of-agitation](ākulatā+śūnyaḥ)
+[unperturbed](nirākulaḥ) [free-from-agitation](ākulatāśūnyaḥ)

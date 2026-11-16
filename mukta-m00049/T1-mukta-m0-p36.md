@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p36-v876
-[made-of-clay](mṛṇmayaṃ) [in+all+works](sarva+kāryeṣu) [well-visible](su+dṛśyaṃ) [well-adorned](su+pariṣkṛtam)
+[mṛṇmayaṃ](clay-made) [sarvakāryeṣu](in-all-works) [sudṛśyaṃ](well-visible) [supariṣkṛtam](well-adorned)
 
 ## mukta-m0-p36-v877
-[that+outside+being](tat+bahis+vṛttam) [having-drawn](ālikhya) [square](caturasraṃ) [then](tato) [outside](vahiḥ)
+[tadbahirvṛttam](that-outer-round) [ālikhya](having-drawn) [caturasraṃ](square) [tato](then) [vahiḥ](outside)
 
 ## mukta-m0-p36-v878
-[hole+devoid](chidra+śūnyam)
+[chidraśūnyam](hole-less)
 
 ## mukta-m0-p36-v879
-[made-of-gold](sauvarṇaṃ) [born-of-gold](suvarṇa+jātaṃ) [jar](kalaśam) [thus](iti) [remainder](śeṣaḥ)
+[sauvarṇaṃ](golden) [suvarṇajātaṃ](born-of-gold) [kalaśam](pot) [iti](thus) [śeṣaḥ](remainder)
 
 ## mukta-m0-p36-v880
-[māyā](māyām) [supporting+power](ādhāra+śaktiñ) [ca](ca) [ending-in-ṅe-namaḥ](ṅe+namo+'ntāṃ) [one-should-utter](samuddharet)
+[māyām](māyā) [ādhāraśaktiṃ](support-power) [ca](and) [ṅenamo'ntāṃ](ending-in-ṅe-namo) [samuddharet](should-extract)
 
 ## mukta-m0-p36-v881
-[with-astra](astreṇa) [washed](kṣālitaṃ) [jar](kumbhaṃ) [there](tatra) [on+support](ādhāre) [one-should-place](niveśayet)
+[astreṇa](by-astra) [kṣālitaṃ](washed) [kumbhaṃ](pot) [tatrā'dhāre](in-that-support) [niveśayet](should-place)
 
 ## mukta-m0-p36-v882
-[root-mantra](mūlaṃ) [uttering](samuccaran) [priest](mantrī) [with-liquor](kāraṇena) [one-should-fill](prapūrayet)
+[mūlaṃ](root-mantra) [samuccaran](reciting) [mantrī](mantrin) [kāraṇena](by-cause) [prapūrayet](should-fill)
 
 ## mukta-m0-p36-v883
-[as+before](pūrva+vat) [one-should-worship](pūjayet) [wise-one](vidvān) [devoted-to-goddess-nature](devī+bhāva+parāyaṇaḥ)
+[pūrvavat](as-before) [pūjayet](should-worship) [vidvān](learned-one) [devībhāvaparāyaṇaḥ](devoted-to-devī-bhāva)
 
 ## mukta-m0-p36-v884
-[having-adorned](bhūṣayitvā) [indeed](tu) [jar](kalaśaṃ) [fivefold-consecration](pañcīkaraṇam) [one-should-perform](ācaret)
+[bhūṣayitvā](having-adorned) [tu](but) [kalaśaṃ](pot) [pañcīkaraṇam](pañcīkaraṇa) [ācaret](should-perform)
 
 ## mukta-m0-p36-v885
-[namaḥ](namaḥ) [thus](iti) [mantra](mantraḥ) [in-worship-of-support-deity](ādhāra+devatā+yajane) [arisen](jātaḥ)
+[namaḥ](namaḥ) [iti](thus) [mantra](mantra) [ādhāradevatāyajane](in-worship-of-support-deity) [jātaḥ](born)
 
 ## mukta-m0-p36-v886
-[practitioner](sādhakaḥ) [with-liquor](kāraṇena) [with-wine](madyena) [jar](kalaśaṃ) [one-should-fill](prapūrayet)
+[sādhakaḥ](sādhaka) [kāraṇena](by-cause) [madyena](by-wine) [kalaśaṃ](pot) [prapūrayet](should-fill)
 
 ## mukta-m0-p36-v887
-[in+consecration](saṃskāre) [as](iva)
+[saṃskāre](in-purification) [iva](as-if)
 
 ## mukta-m0-p36-v888
-[hrī](hrī/) [with-divine+vision](divya+dṛṣṭyā) [having-beheld](saṃvīkṣya) [with-namaḥ](namasā) [sprinkling](abhyukṣaṇaṃ) [one-should-perform](caret)
+[hrī/](hrī/) [divyadṛṣṭyā](by-divine-sight) [saṃvīkṣya](having-seen) [namasā'bhyukṣaṇaṃ](sprinkling-with-namas) [caret](should-do)
 
 ## mukta-m0-p36-v889
-[having-bowed](praṇamya) [to-jar](kalaśaṃ) [red+flower](rakta+puṣpaṃ) [having-given](dattvā) [one-should-purify](viśodhayet)
+[praṇamya](having-bowed) [kalaśaṃ](pot) [raktapuṣpaṃ](red-flower) [dattvā](having-given) [viśodhayet](should-purify)
 
 ## mukta-m0-p36-v890
-[born-from-hair](kaca+udbhavāṃ) [brahmin-slaying](brahma+hatyāṃ) [by-that](tena) [of-you](te) [I-destroy](nāśayāmi) [I](aham)
+[kacodbhavāṃ](hair-born) [brahmahatyāṃ](brahmicide) [tena](by-that) [te](your) [nāśayāmyaham](I-destroy)
 
 ## mukta-m0-p36-v891
-[consisting-of-amā-seed](amā+bīja+maye) [O-goddess](devi) [from-Śukra's-curse](śukra+śāpāt) [be-released](vimucyatām)
+[amābījamaye](amā-bīja-filled) [devi](devi) [śukraśāpāt](from-semen-curse) [vimucyatām](may-be-released)
 
 ## mukta-m0-p36-v892
-[fivefold-consecration](pañcīkaraṇam) [declared](īritaṃ) [stated](kathitam) [one-should-purify](viśodhayet) [wine](madyam) [thus](iti) [remainder](śeṣaḥ)
+[pañcīkaraṇamīritaṃ](pañcīkaraṇa-stated) [kathitam](said) [viśodhayet](should-purify) [madyam](wine) [iti](thus) [śeṣaḥ](remainder)
 
 ## mukta-m0-p36-v893
-[born-from-hair](kaca+udbhavāṃ) [brahmin-slaying](brahma+hatyām) [I](aham) [destroy](nāśayāmi) [thus](iti) [connection](anvayaḥ)
+[kacodbhavāṃ](hair-born) [brahmahatyām](brahmicide) [ahaṃ](I) [nāśayāmi](destroy) [iti](thus) [anvayaḥ](connection)
 
 ## mukta-m0-p36-v894
-[from-Śukra's-curse](śukra+śāpāt) [by-you](tvayā) [be-released](vimucyatāṃ) [by-released-one](vimuktayā) [may-be](bhūyatām)
+[śukraśāpāt](from-semen-curse) [tvayā](by-you) [vimucyatāṃ](may-be-released) [vimuktayā](having-been-released) [bhūyatām](may-become)
 
 ## mukta-m0-p36-v895
-[by-that](tena) [truth](satyena) [of-you](te) [O-goddess](devi) [brahmin-slaying](brahma+hatyā) [may-remove](vyapohatu)
+[tena](by-that) [satyena](truth) [te](your) [devi](devi) [brahmahatyā](brahmicide) [vyapohatu](may-remove)
 
 ## mukta-m0-p36-v896
-[earth-born](go+jāḥ) [born-of-ṛta](ṛta+jāḥ) [mountain-born](adri+jāḥ) [ṛta](ṛtaṃ) [vast](bṛhat)
+[gojā](cow-born) [ṛtajā](truth-born) [adrijā](mountain-born) [ṛtaṃ](truth) [bṛhat](great)
 
 ## mukta-m0-p36-v897
-[to-goddess-Sudhā](sudhā+devyai) [obeisance](namaḥ) [afterwards](paścāt) [sevenfold](saptadhā) [destroyer-of-Brahma's-curse](brahma+śāpa+nut)
+[sudhādevyai](to-sudhā-devī) [namaḥ](namaḥ) [paścāt](afterwards) [saptadhā](sevenfold) [brahmaśāpanut](remover-of-brahma-curse)
 
 ## mukta-m0-p36-v898
-[nectar](amṛtaṃ) [streaming](srāvayat) [pair](dvandvaṃ) [ending-in-dviṭha](dviṭha+antaḥ) [mantra](manuḥ) [declared](īritaḥ)
+[amṛtaṃ](nectar) [srāvayadvandvaṃ](flowing-pair) [dviṭhānto](ending-in-dviṭha) [manurīritaḥ](mantra-spoken)
 
 ## mukta-m0-p36-v899
-[releaser-of-Brahma's-curse](brahma+śāpa+mocakaḥ) [becomes](bhavati)
+[brahmaśāpamocako](remover-of-brahma-curse) [bhavati](becomes)
 
 ## mukta-m0-p36-v900
-[Ānanda-Bhairava](ānanda+bhairavaṃ) [god](devam) [Ānanda-Bhairavī](ānanda+bhairavīṃ) [likewise](tathā)
+[ānandabhairavaṃ](ānandabhairava) [devam](god) [ānandabhairavīṃ](ānandabhairavī) [tathā](and)
