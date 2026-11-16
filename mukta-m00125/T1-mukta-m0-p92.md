@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p92-v2276
-[river-bank](nadītaṭe) [and](tathā) [cow-pen](goṣṭhe) [anthill](valmīke) [elephant-tusk](gajadantake)
+[river-bank](nadītaṭe) [likewise](tathā) [cow-pen](goṣṭhe) [anthill](valmīke) [elephant-tusk](gajadantake)
 
 ## mukta-m0-p92-v2277
-[two](dvayaṃ) [of-lotus](utpalasya) [and](ścaiva) [two](dvayaṃ) [of-lotus](paṅkajasya) [and](tathā)
+[of-blue-lotus](utpalasya) [pair](dvayam) [and+indeed](ca+eva) [of-lotus](paṅkajasya) [pair](dvayam) [likewise](tathā)
 
 ## mukta-m0-p92-v2278
-[jasmine](mālatīṃ) [sage-flower](munipuṣpaṃ) [and](ca) [nandikāvarta](nandikāvartameva) [and](ca)
+[jasmine](mālatīm) [sage-flower](munipuṣpam) [and](ca) [nandikāvarta-plant](nandikāvartam) [indeed](eva) [and](ca)
 
 ## mukta-m0-p92-v2279
-[sandalwood](candanośīrakuṣṭhaṃ) [and](ca) [saffron](kuṅkumaṃ) [and](ca) [man](naraṃ) [and](tathā)
+[sandalwood](candana) [uśīra-root](uśīra) [costus](kuṣṭham) [and](ca) [saffron](kuṅkumam) [and](ca) [nard](naram) [likewise](tathā)
 
 ## mukta-m0-p92-v2280
-[south-west](naiṛte) [nine](navake) [known](jñeyaṃ) [water-quarter](vāruṇyāmatha) [said](kathyate)
+[in-southwest](naiṛte) [in-group-of-nine](navake) [to-be-known](jñeyam) [in-west](vāruṇyām) [now](atha) [is-stated](kathyate)
 
 ## mukta-m0-p92-v2281
-[apāmārga](apāmārgaṃ) [sesame](tilaṃ) [mung](mudga) [priyaṅgu](priyaṅguṃ) [mustard](sarṣapaṃ) [and](tathā)
+[apāmārga-plant](apāmārgam) [sesame](tilam) [mung-bean](mudgam) [priyaṅgu](priyaṅgum) [mustard](sarṣapam) [likewise](tathā)
 
 ## mukta-m0-p92-v2282
-[lakṣmī](lakṣmīśca) [śaṃkhapuṣpī](śaṃkhapuṣpī) [and](ca) [viṣṇukrānti](viṣṇukrāntiśca) [and](ca) [haṃsinī](haṃsinī)
+[lakṣmī-plant](lakṣmīḥ) [and](ca) [śaṅkhapuṣpī](śaṃkhapuṣpī) [and](ca) [viṣṇukrānti](viṣṇukrāntiḥ) [and](ca) [haṃsinī](haṃsinī)
 
 ## mukta-m0-p92-v2283
-[sūryāvarta](sūryāvartaṃ) [and](ca) [said](kathyante) [north-west](vāyavyāṃ) [nine](navake) [held](matāḥ)
+[sūryāvarta](sūryāvartam) [and](ca) [are-stated](kathyante) [in-northwest](vāyavyām) [in-group-of-nine](navake) [regarded](matāḥ)
 
 ## mukta-m0-p92-v2284
-[cow-dung](gomayaṃ) [coconut](nālikeraṃ) [then](ta) [citron-fruit](mātuluṅgaphalaṃ) [and](tathā)
+[cow-dung](gomayam) [coconut](nālikeram) [and](ta) [citron-fruit](mātuluṅgaphalam) [likewise](tathā)
 
 ## mukta-m0-p92-v2285
-[pomegranate-born](dāḍimīsaṃbhavaṃ) [and](caiva) [to-be-placed](nyastavyāḥ) [in-order](kramaśastataḥ)
+[pomegranate-produced](dāḍimīsaṃbhavam) [and+indeed](ca+eva) [to-be-placed](nyastavyāḥ) [in-order](kramaśaḥ) [then](tataḥ)
 
 ## mukta-m0-p92-v2286
-[thus](evaṃ) [substances](dravyāṇi) [placing](vinyasya) [śiva-etc](śivādīnarcayet) [in-order](kramāt)
+[thus](evam) [substances](dravyāṇi) [having-arranged](vinyasya) [Śiva-and-others](śivādīn) [one-should-worship](arcayet) [in-order](kramāt)
 
 ## mukta-m0-p92-v2287
-[wearing](vasāno) [new](nūtanaṃ) [garment](vāsassoṣṇīṣassottarīyakaḥ)
+[wearing](vasānaḥ) [new](nūtanam) [garment](vāsaḥ) [with-turban](sa+uṣṇīṣaḥ) [with-upper-garment](sa+uttarīyakaḥ)
 
 ## mukta-m0-p92-v2288
-[pavilion](maṇṭape) [door-worship-etc](dvārapūjādi) [all](sarvaṃ) [rite](karma) [perform](samācaret)
+[in-pavilion](maṇṭape) [door-worship-etc.](dvārapūjādi) [all](sarvam) [rite](karma) [one-should-perform](samācaret)
 
 ## mukta-m0-p92-v2289
-[manonmanī](manonmanīṃ) [and](ca) [vardhanī](vardhanyāmekapatnī) [if](bhavedyadi)
+[Manonmanī](manonmanīm) [and](ca) [in-vessel](vardhanyām) [having-one-wife](ekapatnī) [one-should-be](bhavet) [if](yadi)
 
 ## mukta-m0-p92-v2290
-[initiated](dīkṣitaścenna) [if-not](ceddīkṣā) [then](tasminkāle'tha) [initiate](dīkṣayet)
+[initiated](dīkṣitaḥ) [if](cet) [not](na) [if](cet) [initiation](dīkṣā) [at-that-time](tasmin+kāle) [then](atha) [one-should-initiate](dīkṣayet)
 
 ## mukta-m0-p92-v2291
-[north](uttare) [south](dakṣiṇe) [or](vātha) [fire-pit](vahnikuṇḍena) [joined](saṃyute)
+[in-north](uttare) [in-south](dakṣiṇe) [or+also](vā+atha) [with-fire-pit](vahnikuṇḍena) [endowed](saṃyute)
 
 ## mukta-m0-p92-v2292
-[flower-falling-etc](puṣpapātādikaṃ) [doing](kṛtvā) [homa](homaṃ) [perform](kuryādviśeṣataḥ)
+[flower-falling-etc.](puṣpapātādikam) [having-done](kṛtvā) [oblation](homam) [one-should-perform](kuryāt) [especially](viśeṣataḥ)
 
 ## mukta-m0-p92-v2293
-[nine-fires](navāgniṃ) [or](vātha) [five-fires](pañcāgnimekāgniṃ) [or](vātha) [one-fire](kalpayet)
+[nine-fires](navāgnim) [or+also](vā+atha) [five-fires](pañcāgnim) [one-fire](ekāgnim) [or+also](vā+atha) [one-should-arrange](kalpayet)
 
 ## mukta-m0-p92-v2294
-[offer](juhuyāt) [in-order](kramaśo) [learned](vidvān) [fit-for-homa](homayogyāṃśca) [available](saṃbhavān)
+[one-should-offer](juhuyāt) [in-order](kramaśaḥ) [learned-one](vidvān) [fit-for-oblation](homayogyān) [and](ca) [produced-materials](saṃbhavān)
 
 ## mukta-m0-p92-v2295
-[śamī-khadira-mayūra-śrīvṛkṣa](śamīkhadiramāyūraśrīvṛkṣāḥ) [are](syurvidikṣu) [in-intermediate-directions](ca)
+[śamī](śamī) [khadira](khadira) [māyūra](māyūra) [śrīvṛkṣa](śrīvṛkṣāḥ) [should-be](syuḥ) [in-intermediate-directions](vidikṣu) [and](ca)
 
 ## mukta-m0-p92-v2296
-[all-substances](sarvadravyāṇi) [offer](juhuyāt) [of-goddess](devyāścāpi) [principal](pradhānake)
+[all-substances](sarvadravyāṇi) [one-should-offer](juhuyāt) [of-goddess](devyāḥ) [and+also](ca+api) [in-principal-fire](pradhānake)
 
 ## mukta-m0-p92-v2297
-[of-brahmāṅgas](brahmāṅgānāṃ) [tenth-part](daśāṃśaṃ) [then](tu) [offer](juhuyāttu) [separately](pṛthak) [separately](pṛthak)
+[of-brahma-and-limbs](brahmāṅgānām) [tenth-part](daśāṃśam) [indeed](tu) [one-should-offer](juhuyāt) [separately](pṛthak) [separately](pṛthak)
 
 ## mukta-m0-p92-v2298
-[best-guru](gurūttamaḥ) [principal-fire](pradhānāgnau) [their](teṣāṃ) [initiation](dīkṣāṃ) [perform](samācaret)
+[best-of-teachers](gurūttamaḥ) [in-principal-fire](pradhānāgnau) [of-them](teṣām) [initiation](dīkṣām) [should-perform](samācaret)
 
 ## mukta-m0-p92-v2299
-[but](kiṃtu) [with-five-syllables](pañcākṣareṇaiva) [to-śivā](śivāyai) [nama](nama) [also](ityapi)
+[but](kiṃtu) [with-five-syllable-mantra](pañcākṣareṇa+eva) [śivāyai-namaḥ](śivāyai nama) [thus+also](iti+api)
 
 ## mukta-m0-p92-v2300
-[with-five-syllables](pañcākṣareṇa) [mantra](mantreṇa) [rudra](rudrameva) [worship](samarcayet)
+[with-five-syllable-mantra](pañcākṣareṇa) [with-mantra](mantreṇa) [Rudra](rudram) [indeed](eva) [one-should-worship](samarcayet)

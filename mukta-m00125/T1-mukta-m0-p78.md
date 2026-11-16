@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p78-v1926
-[first-śaiva-may-it-be](ādiśaivāstu) [to-you](te) [knowable](jñeyāḥ) [all-grace-desire](sarvānugrahakāmatāḥ)
+[ādi-śaivāḥ](ādiśaivāstu) [but](tu) [they](te) [to-be-known](jñeyāḥ) [all+grace+desiring](sarvānugrahakāmatāḥ)
 
 ## mukta-m0-p78-v1927
-[three-factions](pakṣatraya) [below-lying](madhaśśāyī) [night-eating](naktāśī) [offering-eating-always](carubhuk sadā)
+[fortnight+three](pakṣatraya) [on-ground+lying](madhaśśāyī) [night+eating](naktāśī) [rice-dish+eating](carubhuk) [always](sadā)
 
 ## mukta-m0-p78-v1928
-[embodied](samūrtikaṃ) [śiva](śivaṃ) [with-limbs](sāṅgam) [should-practice-by-power](abhyasecchaktito) [teacher](guruḥ)
+[with-form](samūrtikaṃ) [Śiva](śivaṃ) [with-limbs](sāṅgam) [should-practice](abhyasecchaktito) [according-to-ability](śaktito) [guru](guruḥ)
 
 ## mukta-m0-p78-v1929
-[teacher](ācāryassādhakaścānyaḥ) [practitioner](sādhakaḥ) [another](ca+anyaḥ) [initiate](putrakaḥ) [samayī](samayīyataḥ)
+[teacher](ācāryas) [adept](sādhakaś) [another](cānyaḥ) [son-disciple](putrakaḥ) [vow-holder](samayī) [from-that](yataḥ)
 
 ## mukta-m0-p78-v1930
-[daily](pratyahaṃ) [should-be-performed](samanuṣṭheyaṃ) [that-eternal](tannityamiha) [is-praised](kīrtyate)
+[every-day](pratyahaṃ) [to-be-performed](samanuṣṭheyaṃ) [that+daily-rite](tannityam) [here](iha) [is-declared](kīrtyate)
 
 ## mukta-m0-p78-v1931
-[expiation](prayāścitte) [own-eternal](svanityotthe) [his-authority](tasyossyādadhikāritā)
+[in-expiation](prayāścitte) [in-own+daily+arisen](svanityotthe) [of-him](tasya) [would-be](syād) [eligibility](adhikāritā)
 
 ## mukta-m0-p78-v1932
-[if-two-sāntānikas](yadi sāntānikau) [they-indeed](tau hi) [he-that](so'sau) [occasional-also](naimittikepi ca)
+[if](yadi) [belonging-to-lineage](sāntānikau) [those-two](tau) [indeed](hi) [he](so'sau) [in-occasional+also](naimittikepi) [and](ca)
 
 ## mukta-m0-p78-v1933
-[teacher-authority](ācāryādhikṛte) [duty](kṛtye) [all](sarvasmin) [installation-etc](sthāpanādike)
+[teacher+authorized](ācāryādhikṛte) [in-rite](kṛtye) [in-all](sarvasmin) [installation+etc.](sthāpanādike)
 
 ## mukta-m0-p78-v1934
-[installation-etc-limb](sthāpanādyaṅga) [being](bhūteṣu) [auspicious-sprout-etc](maṅgalāṅkurakādiṣu)
+[installation+etc.+limb](sthāpanādyaṅga) [become](bhūteṣu) [auspicious+sprout+etc.](maṅgalāṅkurakādiṣu)
 
 ## mukta-m0-p78-v1935
-[teacher](ācārya) [all-suitable](sarva yogyasyādyadi) [sāntānika](sāntāniko) [may-be](bhavet)
+[teacher](ācārya) [all+worthy](sarva) [of-worthy](yogyasya) [if](ādi) [if](yadi) [belonging-to-lineage](sāntāniko) [should-be](bhavet)
 
 ## mukta-m0-p78-v1936
-[great-śaiva-etc](mahā śaivādayo) [suitable](yogyā) [initiated](dīkṣitā) [daily-rite](nityakarmaṇi)
+[great+Śaiva+etc.](mahā) [Śaiva+etc.](śaivādayo) [worthy](yogyā) [initiated](dīkṣitā) [in-daily-rite](nityakarmaṇi)
 
 ## mukta-m0-p78-v1937
-[lakh-study](lakṣādhyāyī) [best-teacher](guruśreṣṭhaḥ) [enjoyment-liberation-fruit-giving](bhukti mukti phalapradaḥ)
+[hundred-thousand+reciter](lakṣādhyāyī) [guru+best](guruśreṣṭhaḥ) [enjoyment+liberation+fruit+giver](bhukti) [liberation+fruit+giver](mukti) [fruit+giver](phalapradaḥ)
 
 ## mukta-m0-p78-v1938
-[saṃhitā-knower](saṃhitā pārago) [or](vātha) [lakh-study-by-instruction](lakṣādhyāyyupadeśataḥ)
+[scripture+versed](saṃhitā) [versed](pārago) [or](vātha) [hundred-thousand+reciter+instruction](lakṣādhyāyyupadeśataḥ)
 
 ## mukta-m0-p78-v1939
-[śaiva-fourfold](śaivaṃ caturvidhaṃ) [declared](proktaṃ) [śaiva](śaivaṃ) [pāśupata](pāśupataṃ) [thus](tathā)
+[Śaiva](śaivaṃ) [fourfold](caturvidhaṃ) [declared](proktaṃ) [Śaiva](śaivaṃ) [Pāśupata](pāśupataṃ) [likewise](tathā)
 
 ## mukta-m0-p78-v1940
-[four-faced-from-maheśa](caturvaktrānmaheśācca) [puruṣa-etc-mouth-born](puruṣādyānanodbhavam)
+[from-four+faced](caturvaktrān) [from-Maheśa](maheśācca) [Puruṣa+etc.+face+arisen](puruṣādyānanodbhavam)
 
 ## mukta-m0-p78-v1941
-[each](pratyekaṃ) [threefold](trividhaṃ) [declared](proktaṃ) [left-right-distinction](vāmadakṣiṇa bhedataḥ)
+[each](pratyekaṃ) [threefold](trividhaṃ) [declared](proktaṃ) [left+right+division](vāmadakṣiṇa) [by-division](bhedataḥ)
 
 ## mukta-m0-p78-v1942
-[therein-also](tatrāpi) [śaiva-siddhānta](śaivasiddhāntaḥ) [all-from-highest-highest](sarvebhyo hyuttamottamaḥ)
+[there+also](tatrāpi) [Śaiva+Siddhānta](śaivasiddhāntaḥ) [than-all](sarvebhyo) [indeed+best+of-best](hyuttamottamaḥ)
 
 ## mukta-m0-p78-v1943
-[spiritual](adhyātmaṃ) [that-from-lower](yattato nīcaṃ) [from-that-vedic-indeed](tasmādvaidikameva ca)
+[spiritual](adhyātmaṃ) [which](yat) [than-that](tato) [lower](nīcaṃ) [than-that](tasmād) [Vedic+indeed](vaidikameva) [and](ca)
 
 ## mukta-m0-p78-v1944
-[speakers](vaktāro) [worldly-etc](laukikādīnāṃ) [their-distinction-here](teṣāṃ bheda ihocyate)
+[speakers](vaktāro) [of-worldly+etc.](laukikādīnāṃ) [of-them](teṣāṃ) [division](bheda) [here](iha) [is-stated](ucyate)
 
 ## mukta-m0-p78-v1945
-[by-that-worldly-śāstra](tena vai laukikaṃ śāstraṃ) [mortal-world-descended](martyaloke'vatāritam)
+[by-that](tena) [indeed](vai) [worldly](laukikaṃ) [scripture](śāstraṃ) [in-mortal+world](martyaloke) [brought-down](’vatāritam)
 
 ## mukta-m0-p78-v1946
-[kauṭilya](kauṭilyaṃ) [bhārata](bhārataṃ) [jyotiś-śāstra](jyotiśśāstraṃ) [vātsyāyana-etc](vātsyāyanādikam)
+[Kauṭilya](kauṭilyaṃ) [Bhārata](bhārataṃ) [astrology+scripture](jyotiśśāstraṃ) [Vātsyāyana+etc.](vātsyāyanādikam)
 
 ## mukta-m0-p78-v1947
-[lokāyata](lokāyataṃ) [thus](tathā) [sāṃkhya](sāṃkhya) [ārhata-opinion-indeed](mārhato matameva ca)
+[Lokāyata](lokāyataṃ) [likewise](tathā) [Sāṃkhya](sāṃkhya) [of-Ārhatas+doctrine](mārhato) [indeed](eva) [and](ca)
 
 ## mukta-m0-p78-v1948
-[vāma-mantra-born](vāma mantrodbhavo) [viṣṇu](viṣṇuḥ) [cause-lord-second](kāraṇeśo dvitīyakaḥ)
+[left+mantra+born](vāma) [mantra+born](mantrodbhavo) [Viṣṇu](viṣṇuḥ) [Kāraṇeśa](kāraṇeśo) [second](dvitīyakaḥ)
 
 ## mukta-m0-p78-v1949
-[dharma-śāstra](dharmaśāstraṃ) [ca](ca) [vedānta](vedāntaṃ) [pāñcarātra](pāñcarātraṃ) [ca](ca) [bauddha](bauddhakam)
+[law+scripture](dharmaśāstraṃ) [and](ca) [Vedānta](vedāntaṃ) [Pāñcarātra](pāñcarātraṃ) [and](ca) [Buddhist](bauddhakam)
 
 ## mukta-m0-p78-v1950
-[nyāya](nyāya) [vaiśeṣika](vaiśeṣikaṃ) [sāṃkhya](sāṃkhyaṃ) [with-īśvara](seśvaraṃ) [which-composed](yat praṇītavān)
+[Nyāya](nyāya) [Vaiśeṣika](vaiśeṣikaṃ) [Sāṃkhya](sāṃkhyaṃ) [with-Īśvara](seśvaraṃ) [which](yat) [composed](praṇītavān)
