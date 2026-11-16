@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p247-v6151
-[three-syllable+stated+applications](tryakṣara+ukta+prayogān) [and](ca) [should-perform](kuryāt) [here](atra) [also](api) [practitioner](sādhakaḥ)
+[three-syllable+stated+applications](tryakṣaroktaprayogāṃś) [and](ca) [should-perform](kuryād) [here](atrā) [also](pi) [practitioner](sādhakaḥ)
 
 ## mukta-m0-p247-v6152
-[declared](ākhyātaḥ) [gāyatrī](gāyatrī) [metre](chandaḥ) [stated](īritam)
+[declared](ākhyāto) [gāyatrī](gāyatrī) [meter](chanda) [stated](īritam)
 
 ## mukta-m0-p247-v6153
-[with-six+long+seed-syllables](ṣaḍ+dīrgha+bīja+yuktena) [six-limb+procedure](ṣaḍ+aṅga+vidhiḥ) [declared](īritaḥ)
+[six+long+seed-syllable+endowed-with](ṣaḍdīrghabījayuktena) [six+limb+procedure](ṣaḍaṅgavidhir) [stated](ītitaḥ)
 
 ## mukta-m0-p247-v6154
-[like-elephant](gaja+vat) [with-five](pañcabhiḥ) [endowed](yuktaḥ) [crowned](kirīṭī) [and](ca) [sword+in-hand](asi+hastakaḥ)
+[elephant+like](gajavat) [with-five](paṃcabhir) [endowed](yuktaḥ) [crowned](kirīṭī) [and](cā) [sword+holding](sihastakaḥ)
 
 ## mukta-m0-p247-v6155
-[own-tusk](sva+dantam) [fearlessness](abhayam) [and](ca) [also](api) [boon](varam) [sweet-cake](modakam) [indeed](eva) [and](ca)
+[own-tusk](svayantam) [fearlessness](abhayaṃ) [and](cā) [also](pi) [boon](varaṃ) [sweet-cake](modakam) [indeed](eva) [and](ca)
 
 ## mukta-m0-p247-v6156
-[crore+suns+resembling](koṭi+sūrya+pratīkāśam) [one-should-meditate](dhyāyet) [Heramba](herambam) [imperishable](avyayam)
+[crore+sun+resembling](koṭisūryapratīkāśaṃ) [one-should-meditate](dhyāyed) [heramba](dherambam) [imperishable](avyayam)
 
 ## mukta-m0-p247-v6157
-[four+doors+endowed-with](catur+dvāra+samāyuktam) [there](tatra) [first](ādau) [seat](āsanam) [one-should-worship](yajet)
+[four+door+endowed-with](caturdvārasamāyuktaṃ) [there](tatrā) [first](dāv) [seat](āsanaṃ) [one-should-worship](yajet)
 
 ## mukta-m0-p247-v6158
-[namaḥ](namaḥ) [and](ca) [thus](iti) [declared](proktaḥ) [seventeen-syllabled](saptadaśa+akṣaraḥ)
+[namaḥ](namaś) [and](ca) [thus](iti) [declared](proktaḥ) [seventeen+syllabled](saptadaśākṣaraḥ)
 
 ## mukta-m0-p247-v6159
-[one-should-perform](kuryāt) [deity+installation](mūrti+pravartanam)
+[one-should-perform](kuryān) [image+installation](mūrtipravartanam)
 
 ## mukta-m0-p247-v6160
-[its+outside](tat+bāhye) [Heramba+worship](heramba+arcanam) [declared](īritam)
+[that+outside](tadbāhye) [heramba+worship](herambārcanam) [stated](īritam)
 
 ## mukta-m0-p247-v6161
-[with-three-sweets+combined](madhura+traya+saṃyuktaiḥ) [libation+etc.](tarpaṇa+ādi) [one-should-perform](samācaret)
+[sweet+triad+combined-with](madhuratrayasaṃyuktais) [libation+etc.](tarpaṇādi) [one-should-perform](samācaret)
 
 ## mukta-m0-p247-v6162
-[with-sweet-cakes](modakaiḥ) [for-desired+accomplishment](iṣṭa+siddhaye)
+[with-sweet-cakes](modakair) [desired+accomplishment+for](iṣṭasiddhaye)
 
 ## mukta-m0-p247-v6163
-[quick+propitiation+declared](kṣipra+prasādana+proktān) [applications](prayogān) [or](vā) [one-should-perform](samācaret)
+[quick+propitiation+declared](kṣipraprasādanaproktān) [applications](prayogānvā) [or](vā) [one-should-perform](samācaret)
 
 ## mukta-m0-p247-v6164
-[praṇava+ending+eight+syllables](praṇava+anta+aṣṭa+varṇaḥ) [this](ayam) [śakti-seed+beginning](śakti+bīja+ādikaḥ) [also](api) [or](vā)
+[praṇava+ending+eight+syllable](praṇavāntoṣṭavarṇoyaṃ) [this](ayaṃ) [śakti+seed+beginning-with](śaktibījādikopi) [also](vā)
 
 ## mukta-m0-p247-v6165
-[six+limbs](ṣaḍ+aṅgāni) [one-should-perform](samācaret)
+[six+limbs](ṣaḍaṅgāni) [one-should-perform](samācaret)
 
 ## mukta-m0-p247-v6166
-[being-worshipped](pūjyamānam) [devotee+sin+remover](bhakta+pātaka+hāriṇam)
+[being-worshipped](pūjyamānaṃ) [devotee+sin+removing](bhaktapātakahāriṇam)
 
 ## mukta-m0-p247-v6167
-[with-hands](hastaiḥ) [holding](dadhānam) [moon+faced](candra+āsyam) [with-various+ornaments+adorned](nānā+bhūṣaṇa+bhūṣitam)
+[with-hands](hastair) [holding](dadhānaṃ) [moon+faced](candrāsyaṃ) [various+ornament+adorned](nānābhūṣaṇabhūṣitam)
 
 ## mukta-m0-p247-v6168
-[when-worshipped](pūjite) [on-pedestal](pīṭhe) [afterwards](paścāt) [one-should-worship](sampūjayet) [lord](vibhum)
+[worshipped](pūjite) [on-pedestal](pīṭhe) [afterwards](paścāt) [one-should-worship](sampūjayed) [lord](vibhum)
 
 ## mukta-m0-p247-v6169
-[Jayanta](jayantaḥ) [and](ca) [Agniveṣa](agniveṣaḥ) [and](ca) [Kṛttikā+son](kṛttikā+putraḥ) [indeed](eva) [and](ca)
+[jayanta](jayantaś) [and](cā) [agniveṣa](gniveṣaś) [and](ca) [kṛttikā+son](kṛttikāputra) [indeed](eva) [and](ca)
 
 ## mukta-m0-p247-v6170
-[Viśālākṣa](viśālākṣaḥ) [and](ca) [declared](samproktāḥ) [śakti+spear+in-hands](śakti+śūla+karāḥ) [these](ime)
+[viśālākṣa](viśālākṣaś) [and](ca) [declared](samproktāḥ) [śakti+spear+holding](śaktiśūlakarā) [these](ime)
 
 ## mukta-m0-p247-v6171
-[Vighna](vighnam) [rooster](kukkuṭam) [indeed](eva) [and](ca)
+[vighna](vighnaṃ) [rooster](kukkuṭam) [indeed](eva) [and](ca)
 
 ## mukta-m0-p247-v6172
-[his+weapons](tat+astrāṇi) [and](ca) [having-worshipped](sampūjya) [Subrahmaṇya+worship](subrahmaṇya+arcanam) [indeed](tu) [this](idam)
+[his+weapons](tadastrāṇi) [and](ca) [having-worshipped](sampūjya) [subrahmaṇya+worship](subrahmaṇyārcanaṃ) [indeed](tu) [this](idam)
 
 ## mukta-m0-p247-v6173
-[one-should-offer-oblations](juhuyāt) [priest](mantrī) [one-should-libate](tarpayet) [to-brahmin+best](vipra+puṅgavān)
+[one-should-offer-oblations](juhuyān) [mantrin](mantrī) [one-should-libate](tarpayed) [brahmin+best](viprapuṅgavān)
 
 ## mukta-m0-p247-v6174
-[properly](samyak) [one-should-worship](arcayet) [celibate-student](brahmacāriṇam)
+[properly](samyag) [one-should-worship](arcayed) [celibate-student](brahmacāriṇam)
 
 ## mukta-m0-p247-v6175
-[worldly+otherworldly+enjoyments](aihika+āmuṣmikān+bhogān) [they-obtain](labhante) [not](na) [here](atra) [doubt](saṃśayaḥ)
+[this-worldly+other-worldly](aihikāmuṣmikān) [enjoyments](bhogāṁl) [they-obtain](labhante) [not](nā) [here](tra) [doubt](saṃśayaḥ)

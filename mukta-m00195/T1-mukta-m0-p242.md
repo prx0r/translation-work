@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p242-v6026
-[of-deity](devatāyāḥ) [and-thus](tathā) [former](pūrvaḥ) [likeness](sārūpyaṃ) [obtains](labhate) [other](paraḥ)
+[of-deity](devatāyās) [and-thus](tathā) [former](pūrvaḥ) [similarity-of-form](sārūpyaṃ) [obtains](labhate) [other](paraḥ)
 
 ## mukta-m0-p242-v6027
-[greed](lobha) [abandonment](tyāgaḥ) [and](ca) [help](upakāraḥ) [indeed](hi) [in-lower](adhaḥ) [path](mārge) [even](api) [future-fruit](udarka) [making](kṛt)
+[greed+abandonment](lobha+tyāgaḥ) [and](ca) [helping-others](upakāraḥ) [indeed](hi) [in-lower+path](adhas+mārge) [even](api) [future-fruit+producing](udarka+kṛt)
 
 ## mukta-m0-p242-v6028
-[as](yathā) [stated](ukta) [conduct](ācaraṇāt) [of-him](tasya) [success](siddhiḥ) [of-disciple](śiṣyasya) [arises](jāyate)
+[as+prescribed+practice](yathā+ukta+ācaraṇāt) [of-him](tasya) [success](siddhiḥ) [of-disciple](śiṣyasya) [arises](jāyate)
 
 ## mukta-m0-p242-v6029
-[mantra](mantraḥ) [may-be](syāt) [many](bahu) [obstacle](vighna) [giving](daḥ)
+[mantra](mantraḥ) [may-be](syāt) [many+obstacle+giving](bahu+vighna+daḥ)
 
 ## mukta-m0-p242-v6030
-[preliminary-rite](puraścaryā) [by-itself](svataḥ) [may-succeed](siddhyet) [mantra](manu) [best](uttamaḥ)
+[preliminary-practice](puraścaryā) [by-itself](svataḥ) [may-succeed](siddhyet) [mantra+best](manu+uttamaḥ)
 
 ## mukta-m0-p242-v6031
-[obstacle](vighna) [mantra](mantraṃ) [purification](śuddhi) [giving](dam)
+[obstacle+mantra](vighna+mantraṃ) [purification+giving](śuddhi+dam)
 
 ## mukta-m0-p242-v6032
-[with-bindu](bindu) [joined](yuktaḥ) [two](dvi) [bindu](binduḥ) [of-former](pūrva) [path-followers](mārgiṇām)
+[dot+endowed](bindu+yuktaḥ) [two+dots](dvi+binduḥ) [of-former+path-followers](pūrva+mārgiṇām)
 
 ## mukta-m0-p242-v6033
-[and](ca) [netherworld](pātāla) [tradition](āmnāyaḥ) [declared](īritaḥ)
+[and](ca) [netherworld+tradition](pātāla+āmnāyaḥ) [declared](īritaḥ)
 
 ## mukta-m0-p242-v6034
-[svāhā](svāhā) [hṛt](hṛt) [to-one-tusked](ekadaṃṣṭrāya) [śiraḥ](śiraḥ) [huṃphaṭ](huṃphaṭ)
+[svāhā](svāhā) [hṛt](hṛt) [to-ekadaṃṣṭra](kamekadaṃṣṭrāya) [śiraḥ]([śiraḥ]) [huṃphaṭ](huṃphaṭ)
 
 ## mukta-m0-p242-v6035
-[namaḥ](namaḥ) [thus](tathā) [eye](netram) [is-pronounced](udīryate)
+[namaḥ](namas) [likewise](tathā) [eye](netram) [is-pronounced](udīryate)
 
 ## mukta-m0-p242-v6036
-[six](ṣaḍ) [long-vowel](dīrgha) [joined](yukta) [with-seed-syllable](bījena) [tantric-practitioner](tāntrikaḥ) [installation](nyāsam) [should-perform](ācaret)
+[with-six+long-vowel+joined+seed-syllable](ṣaḍ+dīrgha+yukta+bījena) [tantric-practitioner](tāntrikaḥ) [installation](nyāsam) [should-perform](ācaret)
 
 ## mukta-m0-p242-v6037
-[red](rakta) [colored](varṇaṃ) [red](rakta) [fragrance](gandha) [anointed](anulepanam)
+[red+colored](rakta+varṇaṃ) [red+fragrance+anointed](rakta+gandha+anulepanam)
 
 ## mukta-m0-p242-v6038
-[dwarf](vāmanaṃ) [obstacle](vighna) [lord](adhīśaṃ) [worshipable](pūjyaṃ) [and](ca) [trunked-one](śuṇḍinam)
+[dwarf](vāmanaṃ) [obstacle+lord](vighna+adhīśaṃ) [to-be-worshipped](pūjyaṃ) [and](ca) [trunked-one](śuṇḍinam)
 
 ## mukta-m0-p242-v6039
-[lotus](padma) [seated](āsanaṃ) [all](sarva) [adorned](bhūṣaṃ) [should-meditate](dhyāyet) [obstacle](vighna) [remover](vināyakam)
+[lotus+seated](padma+āsanaṃ) [all+ornamented](sarva+bhūṣaṃ) [one-should-meditate](dhyāyet) [obstacle+remover](vighna+vināyakam)
 
 ## mukta-m0-p242-v6040
-[diagram](yantram) [this](etat) [wise-one](budhaḥ) [should-make](kuryāt) [square](caturasra) [triad](trayaṃ) [auspicious](śubham)
+[diagram](yantram) [this](etat) [wise-one](budhaḥ) [should-make](kuryāt) [square+triad](caturasra+trayaṃ) [auspicious](śubham)
 
 ## mukta-m0-p242-v6041
-[previously](pūrva) [stated](ukta) [by-method](vidhinā) [pavilion](maṇḍapa) [etc.](ādi) [should-prepare](prakalpayet)
+[by-previously+stated+method](pūrva+ukta+vidhinā) [pavilion+etc.](maṇḍapa+ādi) [one-should-arrange](prakalpayet)
 
 ## mukta-m0-p242-v6042
-[supreme](paraṃ) [should-worship](tvarcet) [desired](iṣṭa) [petal](dala) [consisting-of](ātmake)
+[supreme](paraṃ) [one-should-worship](tvarcet) [in-desired+petal+consisting](iṣṭa+dala+ātmake)
 
 ## mukta-m0-p242-v6043
 [jvālinī](jvālinī) [nandā](nandā) [bhogadā](bhogadā) [kāmarūpiṇī](kāmarūpiṇī)
 
 ## mukta-m0-p242-v6044
-[and](ca) [inward](antaḥ) [minded](manāḥ) [seat](pīṭha) [mantra](manuṃ) [hear](śṛṇu)
+[and](ca) [inward-minded](antaḥ+manāḥ) [pedestal+mantra](pīṭha+manuṃ) [hear](śṛṇu)
 
 ## mukta-m0-p242-v6045
-[should-worship](yajet) [seat](pīṭhaṃ) [lord](gaṇa) [of-attendants](adhipam)
+[one-should-worship](yajet) [pedestal](pīṭhaṃ) [troop+lord](gaṇa+adhipam)
 
 ## mukta-m0-p242-v6046
-[blue](nīla) [colored](varṇaṃ) [in-pericarp](keśareṣu) [then](tataḥ) [should-worship](yajet)
+[blue+colored](nīla+varṇaṃ) [in-pericarp-filaments](keśareṣu) [then](tatas) [one-should-worship](yajet)
 
 ## mukta-m0-p242-v6047
-[six](ṣaḍ) [limbs](aṅgāni) [to-be-meditated](dhyātavyāḥ) [they](tāḥ) [and](ca) [deities](devatāḥ)
+[six+limbs](ṣaḍ+aṅgāni) [to-be-meditated](dhyātavyās) [they](tās) [and](ca) [deities](devatāḥ)
 
 ## mukta-m0-p242-v6048
-[boon](vara) [and](da) [fearlessness](abhaya) [holding](dhāriṇyaḥ) [principal](pradhāna) [bodied](tanavaḥ) [female](striyaḥ)
+[boon+fearlessness+holding](vara+da+abhaya+dhāriṇyaḥ) [principal+bodies](pradhāna+tanavaḥ) [female](striyaḥ)
 
 ## mukta-m0-p242-v6049
-[lambodara](lambodara) [named](ākhya) [vikaṭa](vikaṭau) [obstacle](vighna) [king](rāṭ) [smoke](dhūmra) [colored](varṇakau)
+[lambodara+named+vikaṭa](lambodara+ākhya+vikaṭau) [vighnarāj+smoke+colored](vighna+rāṭ+dhūmra+varṇakau)
 
 ## mukta-m0-p242-v6050
-[of-them](tāsāṃ) [shall-declare](pravakṣyāmi) [stated](proktaṃ) [with-left](savya) [order](krameṇa) [indeed](tu)
+[of-them](tāsāṃ) [I-shall-declare](pravakṣyāmi) [declared](proktaṃ) [in-left+order](savya+krameṇa) [indeed](tu)

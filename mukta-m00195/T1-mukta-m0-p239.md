@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p239-v5951
-[in-its-pericarp](tatkarṇikāyāṃ) [first](prathamaṃ) [one-should-worship](pūjayet) [and](ca) [lord-of-gaṇas](gaṇādhipam)
+[in-that](tat)+[pericarp-locative](karṇikāyāṃ) [first](prathamaṃ) [one-should-worship](pūjayet)+[and](ca) [group](gaṇa)+[lord-accusative](adhipam)
 
 ## mukta-m0-p239-v5952
-[on-the-petals](patreṣu) [Indra-and-others](indrādikān) [one-should-worship](arcet) [in-the-pericarp](karṇikāyāṃ) [but](tu) [the-lamp](dīpikām)
+[in-petals](patreṣu)+[Indra](indra)+[and-others-accusative](ādikān)+[one-should-worship](arcet)+[in-pericarp-locative](karṇikāyāṃ) [but](tu) [lamp-accusative](dīpikām)
 
 ## mukta-m0-p239-v5953
-[of-a-kuḍava-measure](kuḍavonmānaṃ) [of-sesame-seeds](tilānāṃ) [there](tatra) [it-stands](tiṣṭhati)
+[kuḍava](kuḍava)+[measure-nominative](unmānaṃ) [of-sesame-seeds](tilānāṃ) [there](tatra) [stands](tiṣṭhati)
 
 ## mukta-m0-p239-v5954
-[lamp-and-so-forth](dīpikādi) [in-the-evening](sāyaṃ) [there](tatra) [one-should-place](upaveśayet)
+[lamp](dīpikā)+[and-so-forth-accusative](ādi) [in-evening](sāyaṃ) [there](tatra)+[one-should-place](upaveśayet)
 
 ## mukta-m0-p239-v5955
-[of-the-presiding-deity-of-the-lamp](dīpādhiṣṭhātṛdevasya) [for-the-satisfaction](tuṣṭyai) [with-retinue](sāvaraṇasya) [and](ca)
+[lamp](dīpa)+[presiding](adhiṣṭhātṛ)+[of-deity-genitive](devasya) [for-satisfaction](tuṣṭyai) [with](sa)+[retinue-genitive](āvaraṇasya) [and](ca)
 
 ## mukta-m0-p239-v5956
-[should-blaze](prajvalet) [the-lamp](dīpaḥ) [one-should-watch](paśyet) [so-long](tāvat) [unwearied](atandritaḥ)
+[should-blaze](prajvalet)+[lamp-nominative](dīpaḥ) [one-should-watch](paśyet)+[so-long](tāvat)+[unwearied-nominative](atandritaḥ)
 
 ## mukta-m0-p239-v5957
-[the-rite](kāryaṃ) [peace](śāntiḥ) [occurs](bhavati) [certainly](niścitam)
+[ritual-act-nominative](kāryaṃ) [peace-nominative](śāntiḥ)+[becomes](bhavati) [certain](niścitam)
 
 ## mukta-m0-p239-v5958
-[to-be-done](kartavyaṃ) [the-sick-person](rogī) [happiness](sukham) [may-obtain](avāpnuyāt)
+[to-be-done](kartavyaṃ) [sick-person-nominative](rogī) [happiness-accusative](sukham)+[may-obtain](avāpnuyāt)
 
 ## mukta-m0-p239-v5959
-[great](mahān) [and](ca) [even](api) [moment-by-moment](kṣaṇekṣaṇe)
+[great-nominative](mahān)+[and](ca)+[also](api) [moment](kṣaṇe)+[in-moment](kṣaṇe)
 
 ## mukta-m0-p239-v5960
-[of-faults-of-done-and-undone-rites](kṛtyākṛtadoṣavināśanam)
+[done](kṛtyā)+[undone](akṛta)+[fault](doṣa)+[destruction-nominative](vināśanam)
 
 ## mukta-m0-p239-v5961
-[fault-of-consuming-the-mantra](mantrabhakṣaṇadoṣaḥ) [then](atha) [by-four-lamps](caturdīpaiḥ) [may-be-destroyed](vinaśyatu)
+[mantra](mantra)+[eating](bhakṣaṇa)+[fault-nominative](doṣaḥ)+[then](atha) [by-four](catur)+[lamps-instrumental](dīpaiḥ)+[may-be-destroyed](vinaśyatu)
 
 ## mukta-m0-p239-v5962
-[may-perish](naśyet) [this](etat) [very-wonderful](mahādbhutam)
+[may-perish](naśyet)+[this-nominative](etat)+[great](mahā)+[wonder-nominative](adbhutam)
 
 ## mukta-m0-p239-v5963
-[blackness](kālimā) [flaw](avacchidraṃ) [or](vā) [even](api) [is-seen](pradṛśyate)
+[blackness-nominative](kālimam)+[flawless-nominative](avacchidraṃ) [or](vā)+[also](api) [is-seen](pradṛśyate)
 
 ## mukta-m0-p239-v5964
-[full](pūrṇam) [lifespan](āyuḥ) [to-be-indicated](vinirdeśyaṃ) [that](sa) [sick-person](rogī) [not](na) [indeed](eva) [lives](jīvati)
+[full](pūrṇam)+[lifespan-nominative](āyuḥ)+[to-be-indicated](vinirdeśyaṃ) [that-nominative](saḥ) [sick-person-nominative](rogī) [not](na)+[indeed](eva) [lives](jīvati)
 
 ## mukta-m0-p239-v5965
-[of-those-who-abandon-their-own-dharma](svadharmatyāgināṃ) [not](na) [indeed](eva) [the-yantra](yantraṃ) [to-be-made](kāryaṃ) [but](tu) [by-the-wise](paṇḍitaiḥ)
+[own](sva)+[duty](dharma)+[of-abandoners-genitive](tyāgināṃ) [not](na)+[indeed](eva) [ritual-diagram-nominative](yantraṃ) [to-be-done](kāryaṃ) [but](tu) [by-wise-men-instrumental](paṇḍitaiḥ)
 
 ## mukta-m0-p239-v5966
-[yantras](yaṃtrāṇi) [and](ca) [mantras](mantrāḥ) [succeed](siddhyanti) [here](atra) [no](na) [doubt](saṃśayaḥ)
+[ritual-diagrams-nominative](yantrāṇi) [mantras-nominative](mantrāḥ)+[and](ca) [succeed](siddhyanti)+[here](atra) [not](na) [doubt-nominative](saṃśayaḥ)
 
 ## mukta-m0-p239-v5967
-[this](asau) [principle](nyāyaḥ) [means-of-dharma](dharmasādhanam)
+[principle-nominative](nyāyaḥ)+[this-nominative](asau) [duty](dharma)+[means-nominative](sādhanam)
 
 ## mukta-m0-p239-v5968
-[again](bhūyaḥ) [a-ghost](pretaḥ) [or](vā) [a-brahma-rākṣasa](brahmarākṣasaḥ)
+[again](bhūyaḥ) [ghost-nominative](pretaḥ) [or](vā) [brahma](brahma)+[demon-nominative](rākṣasaḥ)
 
 ## mukta-m0-p239-v5969
-[devoted-to-action](karmaparāḥ) [enjoyment](bhogaṃ) [heaven](svargaṃ) [bestows](prayacchati)
+[action](karma)+[devoted-nominative-plural](parāḥ) [enjoyment-accusative](bhogaṃ) [heaven-accusative](svargaṃ) [bestows](prayacchati)
 
 ## mukta-m0-p239-v5970
-[Śaṅkha](śaṅkhaḥ) [and](ca) [Likhita](likhitaḥ) [Vyāsa](vyāsaḥ) [Vaśiṣṭha](vaśiṣṭhaḥ) [Kaśyapa](kaśyapaḥ) [sage](muniḥ)
+[Śaṅkha-nominative](śaṅkhaḥ)+[and](ca) [Likhita-nominative](likhitaḥ) [Vyāsa-nominative](vyāso) [Vaśiṣṭha-nominative](vaśiṣṭhaḥ) [Kaśyapa-nominative](kaśyapo) [sage-nominative](muniḥ)
 
 ## mukta-m0-p239-v5971
-[the-venerable](bhagavān) [Jamadagni](jamadagniḥ) [and](ca) [Gautama](gautamaḥ)
+[venerable-nominative](bhagavān)+[Jamadagni-nominative](jamadagniḥ)+[and](ca) [Gautama-nominative](gautamaḥ)
 
 ## mukta-m0-p239-v5972
-[of-them](teṣāṃ) [to-be-known](vijñeyaḥ) [in-tenfold-division](daśabhedataḥ)
+[of-them-genitive](teṣāṃ) [to-be-known-nominative](vijñeyaḥ) [ten](daśa)+[by-division-instrumental](bhedataḥ)
 
 ## mukta-m0-p239-v5973
-[the-place](deśaṃ) [having-known](jñātvā) [dharma](dharmaṃ) [one-should-prescribe](samādiśet)
+[place-accusative](deśaṃ) [having-known](jñātvā) [duty-accusative](dharmaṃ) [one-should-instruct](sam+ādiśet)
 
 ## mukta-m0-p239-v5974
-[saṃhitā](saṃhitā) [horā](horā) [threefold](trividhaṃ) [astrology](jyautiṣaṃ) [likewise](tathā)
+[compendium-nominative](saṃhitā) [horoscopy-nominative](horā) [three](tri)+[fold-nominative](vidhaṃ) [astrology-nominative](jyautiṣaṃ) [likewise](tathā)
 
 ## mukta-m0-p239-v5975
-[whatever](yadyat) [that](tat) [declared](proktam) [means-of-dharma](dharmasādhanam)
+[whatever](yat)+[whatever](yat)+[that-nominative](tat)+[declared-nominative](proktam)+[duty](dharma)+[means-nominative](sādhanam)
