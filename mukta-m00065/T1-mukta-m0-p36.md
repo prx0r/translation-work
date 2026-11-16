@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p36-v876
-[yoga-seal](yogamudrāṃ) [and](ca) [conch](śaṅkhaṃ) [and](ca) [mace](gadā)+[discus](cakra)+[holding](dharaṃ) [pair](dvayam)
+[yoga-mudra](yogamudrāṃ) [and](ca) [conch](śaṅkhaṃ) [and](ca) [mace-disc-bearer](gadācakradharaṃ) [pair](dvayam)
 
 ## mukta-m0-p36-v877
-[gesture](mudrāṃ) [one-should-make](kuryād)+[heart](hṛdi)+[situated](sthāṃ) [and](ca) [entire](aśeṣa)+[sin](āgha)+[destroying](praṇāśinīm)
+[mudra](mudrāṃ) [should-make](kuryāt) [heart-placed](hṛdisthāṃ) [and](ca) [all-sin-destroying](aśeṣāghapraṇāśinīm)
 
 ## mukta-m0-p36-v878
-[vessel](pātra)+[peace](śānti)+[holding](dharaṃ) [on-right](yāmye) [on-left](vāmake) [lotus](padma)+[plough-holding](sīriṇau)
+[vessel-peace-bearer](pātraśāntidharaṃ) [in-south](yāmye) [in-left](vāmake) [lotus-siris](padmasīriṇau)
 
 ## mukta-m0-p36-v879
-[with-Kaumodakī-mace](kaumodyā) [weapon](heti)+[king](rājena) [with-Pāñcajanya-conch](pāñcajanya)+[lotus](ambujena) [and](ca)
+[kaumodi](kaumodyā) [with-weapon-king](hetirājena) [with-pañcajanya-lotus](pāñcajanyāmbujena) [and](ca)
 
 ## mukta-m0-p36-v880
-[Nārāyaṇa](nārāyaṇa)+[etc.](ādi)+[five](pañca)+[other](anyat)+[previously](pūrva)+[mentioned](ukta)+[hand](kara)+[weapon](śastra)+[bearing](bhṛt)
+[nārāyaṇa-etc-five-other](nārāyaṇādipañcānyat) [previously-said-hand-weapon-bearer](pūrvoktakaraśastrabhṛt)
 
 ## mukta-m0-p36-v881
-[with-these](ebhir)+[endowed](yuktaṃ) [nine](nava)+[manifestation](vyūhaṃ) [to-be-known](jñātavyaṃ) [teacher](daiśika)+[by-best](uttamaiḥ)
+[with-these-united](ebhiryuktaṃ) [nine-formation](navavyūhaṃ) [to-be-known](jñātavyaṃ) [by-excellent-teachers](daiśikottamaiḥ)
 
 ## mukta-m0-p36-v882
-[left](vāma)+[lap](utsaṅga)+[holding](dhṛta)+[Śrī](śrīkam) [half](ardha)+[moon](candra)+[on-seat](āsane) [seated](sthitam)
+[left-lap-held-śrī](vāmotsaṅgadhṛtaśrīkam) [on-half-moon-seat](ardhacandrāsane) [situated](sthitam)
 
 ## mukta-m0-p36-v883
-[his](tad)+[right](dakṣiṇaṃ) [hand](karaṃ) [on-shoulder](skandhe) [god](deva)+[of-gods](devasya) [on-right](dakṣiṇe)
+[that-right](taddakṣiṇaṃ) [hand](karaṃ) [on-shoulder](skandhe) [of-god-of-gods](devadevasya) [right](dakṣiṇe)
 
 ## mukta-m0-p36-v884
-[lotus](padma)+[seated](stho) [rolling](ghūrṇita)+[eyes](ākṣaś)+[and](ca) [singer](gātṛ)+[dancers](nartanakair)+[surrounded](vṛtaḥ)
+[on-lotus](padmastho) [rolling-eyed](ghūrṇitākṣaś) [and](ca) [surrounded-by-singers-dancers](gātṛnartanakairvṛtaḥ)
 
 ## mukta-m0-p36-v885
-[with-non-dual](advaitena) [method](vidhānena) [to-be-worshipped](pūjanīyo) [by-wise-one](vipaścitā)
+[by-nonduality](advaitena) [by-rite](vidhānena) [to-be-worshipped](pūjanīyo) [by-wise](vipaścitā)
 
 ## mukta-m0-p36-v886
-[yogic-sleep](yoganidrā)+[absorbed-state](parāvasthaḥ) [asleep](supto)+[on-Ananta](’nantatanū)+[upon-body](pari)
+[yoga-sleep-supreme-state](yoganidrāparāvasthaḥ) [sleeping](supto) [on-ananta-body](anantatanūpari)
 
 ## mukta-m0-p36-v887
-[foot](pāda)+[clinging](lagnā) [earth](dharā)+[goddess](devī) [water](jala)+[reclining](śāyī) [planets](graha)+[surrounded](āvṛtaḥ)
+[foot-clinging](pādalagnā) [earth-goddess](dharādevī) [water-lying](jalaśāyī) [planet-surrounded](grahāvṛtaḥ)
 
 ## mukta-m0-p36-v888
-[arisen](ābhyuttha)+[lotus](paṅkaja)+[mounted](ārūḍhaḥ) [Brahmā](pitāmaha)+[accompanied](samanvitaḥ)
+[rising-lotus-mounted](ābhyutthapaṅkajārūḍhaḥ) [with-grandfather](pitāmahasamanvitaḥ)
 
 ## mukta-m0-p36-v889
-[he](sā) [licked](līḍho) [in-Nandana-garden](nandane) [passionate](rāgī) [always](sadā) [and](ca)+[bow](āpa)+[arrows](iṣu)+[bearing](bhṛc)+[auspicious](chubhaḥ)
+[that](sā) [licked](līḍho) [in-nandana](nandane) [passionate](rāgī) [always](sadā) [bow-arrow-bearer-auspicious](cāpeṣubhṛcchubhaḥ)
 
 ## mukta-m0-p36-v890
-[high](tuṅga)+[nose](ghrāṇo) [human](nara)+[footed](aṅghir)+[or](vā) [bird](pakṣi)+[legged](jaṅgho) [human](nara)+[bodied](aṅgakaḥ)
+[high-nosed](tuṅgaghrāṇo) [or-human-footed](narāṅghirvā) [bird-thighed](pakṣijaṅgho) [human-bodied](narāṅgakaḥ)
 
 ## mukta-m0-p36-v891
-[left](vāma)+[knee](jānu)+[gone](gato) [on-ground](bhūmau) [Tārkṣya](tārkṣyaḥ) [wings](pakṣa)+[endowed-with](samanvitaḥ)
+[left-knee-gone](vāmajānugato) [on-earth](bhūmau) [tārkṣya](tārkṣyaḥ) [winged](pakṣasamanvitaḥ)
 
 ## mukta-m0-p36-v892
-[plough](hala)+[conch](śaṅkha)+[excellent](varo) [garlanded](mālī) [Viśvaksena](viśvakseno) [of-Hari](harer)+[attendant](gaṇaḥ)
+[plow-conch-excellent](halaśaṅkhavaro) [garlanded](mālī) [viśvaksena](viśvakseno) [of-hari-troop](harergaṇaḥ)
 
 ## mukta-m0-p36-v893
-[lotus](padma)+[plough](sīra)+[holding](dharaṃ) [on-left](vāme) [on-Śeṣa](śeṣe) [mace](muśala)+[plough](go)+[bearing-two](dvaham)
+[lotus-sīra-bearer](padmasīradharaṃ) [in-left](vāme) [on-śeṣa](śeṣe) [mace-cow-bearer](muśalagodvaham)
 
 ## mukta-m0-p36-v894
-[half](ardhe)+[half](’rdhe) [ornaments](bhūṣaṇaiḥ) [own](svaiḥ) [own](svair)+[adorned](yuktam)+[above](ūrdhvaṃ) [lotus](kaja)+[seated](sthitam)
+[half-half](ardhe'rdhe) [with-ornaments](bhūṣaṇaiḥ) [own](svaiḥ) [with-own-united-upward](svairyuktamūrdhvaṃ) [on-lotus-situated](kajasthitam)
 
 ## mukta-m0-p36-v895
-[rosary](akṣamālāṃ) [trident](triśūlaṃ) [and](ca) [conch](śaṅkhaṃ) [and](ca) [mace](kaumudīṃ) [in-order](kramāt)
+[rosary](akṣamālāṃ) [trident](triśūlaṃ) [and](ca) [conch](śaṅkhaṃ) [and](ca) [kaumudī](kaumudīṃ) [in-order](kramāt)
 
 ## mukta-m0-p36-v896
-[male](puṃ)+[female](strī)+[form](svarūpakaṃ) [one-should-make](kuryāc)+[Śiva](śiva)+[Nārāyaṇa](nārāyaṇa)+[consisting-of](ātmakam)
+[male-female-form](puṃstrīsvarūpakaṃ) [should-make](kuryāt) [śiva-nārāyaṇa-natured](śivanārāyaṇātmakam)
 
 ## mukta-m0-p36-v897
-[Brahmā](brahmāṇaṃ) [ascetic](vratinaṃ) [one-should-make](kuryāj)+[matted-hair](jaṭā)+[crown](mukuṭa)+[adorned](bhūṣitam)
+[brahmā](brahmāṇaṃ) [vowed](vratinaṃ) [should-make](kuryāt) [matted-crown-ornamented](jaṭāmukuṭabhūṣitam)
 
 ## mukta-m0-p36-v898
-[black-antelope-skin](kṛṣṇājinaṃ) [and](ca) [on-his-shoulder](tat)+[on-shoulder](skandhe) [garment](vastraṃ) [and](ca)+[skin](ajina)+[clad](vāsasam)
+[black-deer-skin](kṛṣṇājinaṃ) [and](ca) [on-its-shoulder](tatskandhe) [garment](vastraṃ) [and-deer-skin-garment](cājinavāsasam)
 
 ## mukta-m0-p36-v899
-[ladle](sruvaṃ) [water-pot](kamaṇḍaluṃ) [in-left](vāme) [with-kuśa-grass](sa)+[kuśa](kuśa)+[clarified-butter](ājya)+[vessel](ghaṭaṃ) [likewise](tathā)
+[sruva](sruvaṃ) [water-pot](kamaṇḍaluṃ) [in-left](vāme) [with-kuśa-ghee-pot](sakuśājyaghaṭaṃ) [thus](tathā)
 
 ## mukta-m0-p36-v900
-[Gāyatrī](gāyatrīṃ) [and](ca)+[indeed](eva) [Sāvitrī](sāvitrīm)+[sages](ṛṣīṃs)+[at-his-sides](tatpārśvayos)+[likewise](tathā)
+[gāyatrī](gāyatrīṃ) [and-indeed](caiva) [sāvitrī](sāvitrīm) [ṛṣis](ṛṣīṃs) [at-its-sides](tatpārśvayos) [thus](tathā)

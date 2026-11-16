@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p38-v926
-[golden-colored+lotus+seated](hemavarṇābjasaṃsthā) [and](ca) [full+uplifted+breasts](pīnonnatapayodharā)
+[hema-varṇa-abja-saṃsthā](hemavarṇābjasaṃsthā) [ca](ca) [pīna-unnata-payodharā](pīnonnatapayodharā)
 
 ## mukta-m0-p38-v927
-[always](sadā) [right+hand+lotus](yāmyakarāmbhojā) [in-left](vāme) [Śrī](śrīḥ) [bilva-fruit+endowed](śrīphalānvitā)
+[sadā](sadā) [yāmya-kara-ambhojā](yāmyakarāmbhojā) [vāme](vāme) [śrīḥ](śrīḥ) [śrī-phala-anvitā](śrīphalānvitā)
 
 ## mukta-m0-p38-v928
-[two-elephants](gajau) [water-vessel+in-hands](bhṛṅgārahastau) [and](ca) [bathing](snāpayantau) [and](ca) [from-sides](pārśvataḥ)
+[gajau](gajau) [bhṛṅgāra-hastau](bhṛṅgārahastau) [ca](ca) [snāpayantau](snāpayantau) [ca](ca) [pārśvataḥ](pārśvataḥ)
 
 ## mukta-m0-p38-v929
-[book](pustā) [rosary+in-hand](kṣamālikāhastā) [or](vā) [lute+bearing](vīṇābhṛd) [Sarasvatī](sarasvatī)
+[pustā](pustā) [kṣamā-ālikā-hastā](kṣamālikāhastā) [vīṇā-bhṛt-vā](vīṇābhṛdvā) [sarasvatī](sarasvatī)
 
 ## mukta-m0-p38-v930
-[water-pot+blue-lotus+in-hands](kumbhendīvarahastā) [and](ca) [at-door+standing](dvārasthā) [Jāhnavī](janhuputrikā)
+[kumbha-indīvara-hastā](kumbhendīvarahastā) [ca](ca) [dvāra-sthā](dvārasthā) [janhu-putrikā](janhuputrikā)
 
 ## mukta-m0-p38-v931
-[blue-lotus+petal+dark](indīvaradalaśyāmā) [beautiful-formed](surūpā) [Yamunā](yamunā) [likewise](tathā)
+[indīvara-dala-śyāmā](indīvaradalaśyāmā) [surūpā](surūpā) [yamunā](yamunā) [tathā](tathā)
 
 ## mukta-m0-p38-v932
-[tiger+skin+wearing](dvīpicarmadharaṃ) [one-should-make](kuryād) [lute+in-hand](vīṇāhastaṃ) [and](ca) [Tumburu](tumburum)
+[dvīpi-carma-dharaṃ](dvīpicarmadharaṃ) [kuryāt](kuryāt) [vīṇā-hastaṃ](vīṇāhastaṃ) [ca](ca) [tumburum](tumburum)
 
 ## mukta-m0-p38-v933
-[thereafter](anantaraṃ) [indeed](tu) [Mothers](mātṛś) [and](ca) [Brahmāṇī+beginning-with](brahmāṇyādyās) [indeed](tu) [seven](sapta) [and](ca)
+[anantaraṃ](anantaraṃ) [tu](tu) [mātṛḥ](mātṛḥ) [ca](ca) [brahmāṇī-ādyāḥ](brahmāṇyādyāḥ) [tu](tu) [sapta](sapta) [ca](ca)
 
 ## mukta-m0-p38-v934
-[water-pot+ghee-vessel+holding](kuṇḍyājyapātriṇīṃ) [in-left](vāme) [Brahmāṇī](brahmāṇīṃ) [swan+seated](haṃsasaṃsthitam)
+[kuṇḍī-ājya-pātriṇīṃ](kuṇḍyājyapātriṇīṃ) [vāme](vāme) [brahmāṇīṃ](brahmāṇīṃ) [haṃsa-saṃsthitam](haṃsasaṃsthitam)
 
 ## mukta-m0-p38-v935
-[skull+garlanded](kapālamālinīṃ) [white](śuklāṃ) [Rudrāṇī](rudrāṇīṃ) [bull+seated](vṛṣasaṃsthitām)
+[kapāla-mālinīṃ](kapālamālinīṃ) [śuklāṃ](śuklāṃ) [rudrāṇīṃ](rudrāṇīṃ) [vṛṣa-saṃsthitām](vṛṣasaṃsthitām)
 
 ## mukta-m0-p38-v936
-[peacock+back+mounted](śikhipṛṣṭhasamārūḍhāṃ) [Kaumārī](kaumārīṃ) [Skanda+formed](skandarūpiṇīm)
+[śikhi-pṛṣṭha-samārūḍhāṃ](śikhipṛṣṭhasamārūḍhāṃ) [kaumārīṃ](kaumārīṃ) [skanda-rūpiṇīm](skandarūpiṇīm)
 
 ## mukta-m0-p38-v937
-[dark](śyāmāṃ) [beautiful-formed](surūpiṇīṃ) [one-should-make](kuryād) [Vaiṣṇavī](vaiṣṇavīṃ) [forest+garlanded](vanamālinīm)
+[śyāmāṃ](śyāmāṃ) [surūpiṇīṃ](surūpiṇīṃ) [kuryāt](kuryāt) [vaiṣṇavīṃ](vaiṣṇavīṃ) [vana-mālinīm](vanamālinīm)
 
 ## mukta-m0-p38-v938
-[well-garmented](suvastrāṃ) [youth+blossomed](yauvanodbhinnāṃ) [woman's+ornaments+adorned](nāryābharaṇabhūṣitām)
+[su-vastrāṃ](suvastrāṃ) [yauvana-udbhinnāṃ](yauvanodbhinnāṃ) [nārya-ābharaṇa-bhūṣitām](nāryābharaṇabhūṣitām)
 
 ## mukta-m0-p38-v939
-[sword+shield+joined](khaḍgakheṭakasaṃyuktām) [or](athavā) [also](api) [four-armed](caturbhujām)
+[khaḍga-kheṭaka-saṃyuktām](khaḍgakheṭakasaṃyuktām) [athavā](athavā) [api](api) [catur-bhujām](caturbhujām)
 
 ## mukta-m0-p38-v940
-[Indrāṇī](indrāṇīṃ) [for-all+accomplishment](sarvasiddhyarthaṃ) [garments+ornaments+endowed](vastrālaṅkārasaṃyutām)
+[indrāṇīṃ](indrāṇīṃ) [sarva-siddhi-artham](sarvasiddhyartham) [vastra-alaṅkāra-saṃyutām](vastrālaṅkārasaṃyutām)
 
 ## mukta-m0-p38-v941
-[wide-open+mouth](vivatāsyāṃ) [indeed](tu) [tusk+terrible](daṃṣṭrogrāṃ) [on-corpse](śave) [or](vā) [on-owl+seated](kauśike) [standing](sthitām)
+[vivatā-asyāṃ](vivatāsyāṃ) [tu](tu) [daṃṣṭra-ugrāṃ](daṃṣṭrogrāṃ) [śave](śave) [vā](vā) [kauśike](kauśike) [sthitām](sthitām)
 
 ## mukta-m0-p38-v942
-[skull](kapālaṃ) [scissors](katarīṃ) [in-right](yāmye) [noose](pāśaṃ) [trident](śūlaṃ) [and](ca) [in-left](vāmake)
+[kapālaṃ](kapālaṃ) [katarīṃ](katarīṃ) [yāmye](yāmye) [pāśaṃ](pāśaṃ) [śūlaṃ](śūlaṃ) [ca](ca) [vāmake](vāmake)
 
 ## mukta-m0-p38-v943
-[in-Mothers'+place](mātṛsthāne) [or](atha) [or](vā) [one](ekāṃ) [or](vā) [and-after-that](tadante) [and](ca) [Gaṇeśvara](gaṇeśvaraḥ)
+[mātṛ-sthāne](mātṛsthāne) [athavā](athavā) [ekāṃ](ekāṃ) [vā](vā) [tad-ante](tadante) [ca](ca) [gaṇeśvaraḥ](gaṇeśvaraḥ)
 
 ## mukta-m0-p38-v944
-[elephant+skin+bearing](gajacarmabhṛd) [with-upper-two](ūrdhvābhyāṃ) [six-armed](ṣaḍdoḥ) [should-be](syād) [Rudra-Carcikā](rudracarcikā)
+[gaja-carma-bhṛt-ūrdhvābhyāṃ](gajacarmabhṛdūrdhvābhyāṃ) [ṣaḍ-doḥ](ṣaḍdoḥ) [syāt](syāt) [rudra-carcikā](rudracarcikā)
 
 ## mukta-m0-p38-v945
-[by-that](tena) [she](sā) [Rudra-Cāmuṇḍā](rudracāmuṇḍā) [in-dance](nāṭye) [or-as-queen](īśvary) [then](atha) [dancing](nṛtyatī)
+[tena](tena) [sā](sā) [rudra-cāmuṇḍā](rudracāmuṇḍā) [nāṭyeśvarī](nāṭyeśvarī) [atha](atha) [nṛtyatī](nṛtyatī)
 
 ## mukta-m0-p38-v946
-[kings+battle+buffaloes+elephants](nṛpājimahiṣebhāṃś) [and](ca) [devouring](khādantī) [if](cet) [in-hands](kare) [placed](sthitān)
+[nṛpa-āji-mahiṣa-ibhāṃśca](nṛpājimahiṣebhāṃśca) [khādantī](khādantī) [cet](cet) [kare](kare) [sthitān](sthitān)
 
 ## mukta-m0-p38-v947
-[one-faced](ekāsyā) [white-colored](śvetavarṇa) [and](ca) [white+ornaments+adorned](śvetābharaṇabhūṣitā)
+[ekāsyā](ekāsyā) [śveta-varṇa](śvetavarṇa) [ca](ca) [śveta-ābharaṇa-bhūṣitā](śvetābharaṇabhūṣitā)
 
 ## mukta-m0-p38-v948
-[ten-armed](daśabāhu) [three-eyed](strinetrā) [and](ca) [weapon+sword](śastrāsiṃ) [drum](ḍamaruṃ) [man](nṛkam)
+[daśa-bāhu](daśabāhu) [tri-netrā](strinetrā) [ca](ca) [śastra-asiṃ](śastrāsiṃ) [ḍamaruṃ](ḍamaruṃ) [nṛkam](nṛkam)
 
 ## mukta-m0-p38-v949
-[skull-staff](khaṭvāṅgaṃ) [and](ca) [trident](triśūlaṃ) [and](ca) [Siddha-Cāmuṇḍikā+named](siddhacāmuṇḍikāhvayā)
+[khaṭvāṅgaṃ](khaṭvāṅgaṃ) [ca](ca) [tri-śūlaṃ](triśūlaṃ) [ca](ca) [siddha-cāmuṇḍikā-āhvayā](siddhacāmuṇḍikāhvayā)
 
 ## mukta-m0-p38-v950
-[of-this+form](etadrūpā) [should-be](bhaved) [another](anyā) [noose+goad+endowed](pāśāṅkuśayutā) [red](aruṇā)
+[etad-rūpā](etadrūpā) [bhavet](bhaved) [anyā](anyā) [pāśa-aṅkuśa-yutā](pāśāṅkuśayutā) [aruṇā](aruṇā)

@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p39-v951
-[vampire](vetāla) [+-witch](+śākinī) [+-vulture](+gṛdhra) [+-crow](+kāka) [+-owl](+ulūka) [+-jackal](+śiva) [+-filled-with](+ākulā)
+[vampire](vetāla) [witch](śākinī) [vulture](gṛdhra) [owl](kākolūka) [jackal](śivā) [crowded](ākulā)
 
 ## mukta-m0-p39-v952
-[first](ādya) [+-group-of-eight](+aṣṭakam) [this](idam) [known](khyātam) [remaining](śeṣa) [+-divisions](+bhedaḥ) [but](tu) [elaboration](vistaraḥ)
+[first-eight](ādyāṣṭakam) [this](idaṃ) [famous](khyātaṃ) [remainder-difference](śeṣabhedaḥ) [indeed](tu) [expansion](vistaraḥ)
 
 ## mukta-m0-p39-v953
-[tusked](danturā) [+-Kṣemakarī](+kṣemakarī) [should-be](syāt) [on-ground](bhūmau) [on-knee](jānu) [+-hand](+kara) [+-standing](+āsthitā)
+[toothed](danturā) [inauspicious-maker](akṣemakarī) [is](syāt) [on-ground](bhūmau) [knee-hand-situated](jānukarāsthitā)
 
 ## mukta-m0-p39-v954
-[Eṅgā](eṅgā) [(?)](?) [smiling](hāsyā) [large-bellied](mahodaryaḥ) [beautiful](rūpiṇyaḥ) [celestial-nymphs](apsarasaḥ) [always](sadā)
+[laughing](hāsyā) [big-bellied](mahodaryo) [beautiful](rūpiṇyo) [apsaras](apsarasaḥ) [always](sadā)
 
 ## mukta-m0-p39-v955
-[Yogeśvara](yogeśvaraḥ) [or](atha) [Vīra](vīraḥ) [and](ca) [in-half-moon](ardha+candra) [+-seat](+āsane) [standing](sthitaḥ)
+[yogeśvara](yogeśvara) [and-hero](vīraśca) [half-moon-seat](ardhacandrāsane) [situated](sthitaḥ)
 
 ## mukta-m0-p39-v956
-[having-bound](badhvā) [having-placed](vinyasya) [on-chest](hṛdaye) [or](atha) [upturned](uttāna) [+-pair-of-hands](+kara+dvayam)
+[having-bound](badhdvā) [placing](vinyasya) [heart](hṛdaye) [or](athavā) [upturned-two-hands](uttānakaradvayam)
 
 ## mukta-m0-p39-v957
-[fierce](pracaṇḍaḥ) [staff](daṇḍa) [+-holder](+dhārī) [and](ca) [to-be-made](kāryaḥ) [Caṇḍeśvara](caṇḍeśvaraḥ) [great](mahān)
+[fierce](pracaṇḍo) [staff-bearer](daṇḍadhārī) [and](ca) [should-be-made](kāryaḥ) [Caṇḍeśvara](caṇḍeśvaraḥ) [great](mahān)
 
 ## mukta-m0-p39-v958
-[large-bellied](mahā+udaraḥ) [large-bodied](vṛhat+dehaḥ) [single-tusked](eka+dantaḥ) [three-eyed](tri+locanaḥ)
+[big-belly](mahodaro) [large-body](vṛhaddehaḥ) [one-tusk](ekadantaḥ) [three-eyed](trilocanaḥ)
 
 ## mukta-m0-p39-v959
-[divine](divya) [+-garment](+ambara) [+-wearing](+dharaḥ) [to-be-made](kāryaḥ) [snake](nāga) [+-sacred-thread](+yajña+upavīta) [+-possessing](+vān)
+[divine-garment-wearer](divyāmbaradharaḥ) [should-be-made](kāryo) [snake-sacrificial-thread-possessing](nāgayajñopavītavān)
 
 ## mukta-m0-p39-v960
-[sixteen](ṣoḍaśa) [+-aṅgulas](+aṅgulakam) [in-length](dairghyāt) [trunk](śuṇḍam) [thirty-six](ṣaṭ+triṃśat) [+-aṅgulas](+aṅgulam)
+[sixteen-angula](ṣoḍaśāṅgulakaṃ) [length](dairghyāt) [trunk](śuṇḍaṃ) [thirty-six-angula](ṣaḍtriṃśadaṅgulam)
 
 ## mukta-m0-p39-v961
-[stout](pīnaḥ) [well-raised](samunnata) [+-chest](+uraskaḥ) [to-be-made](kartavyaḥ) [lord-of-gaṇas](gaṇa+nāyakaḥ)
+[plump](pīnaḥ) [raised-chest](samunnatoraskaḥ) [should-be-made](kartavyo) [troop-leader](gaṇanāyakaḥ)
 
 ## mukta-m0-p39-v962
-[neck](kaṇṭha) [+-hollow](+guhayā) [+-interior](+antaram) [to-be-made](kāryam) [equal](samam) [thirty-two](dvā+triṃśat) [+-aṅgulas](+aṅgulam)
+[throat-cavity-interval](kaṇṭhaguhayāntaraṃ) [should-be-made](kāryaṃ) [equal](samaṃ) [thirty-two-angula](dvātriṃśadaṅgulam)
 
 ## mukta-m0-p39-v963
-[head](mastakam) [compact](niviḍam) [broad](vyastam) [left](vāma) [pot](kumbha) [+-elevated](+samunnatam)
+[head](mastakaṃ) [dense](niviḍaṃ) [scattered](vyastaṃ) [left](vāma) [pot-raised](kumbhasamunnatam)
 
 ## mukta-m0-p39-v964
-[opening](randhram) [opening](randhra) [+-aṅgula](+aṅgulau) [two-pots](kumbhau) [in-their-middle](tat+madhye) [by-thread](sūtra) [+-measured](+mānataḥ)
+[hole](randhraṃ) [hole-angula](randhrāṅgulau) [two-pots](kumbhau) [between](tanmadhye) [thread-measured](sūtramānataḥ)
 
 ## mukta-m0-p39-v965
-[one-by-one](eka+ekam) [by-diminution](hrāsa+yogena) [until](yāvat) [four](veda) [+-aṅgula](+aṅgula) [+-state](+sthitiḥ)
+[one-by-one](ekaikaṃ) [decrease-yoga](hrāsayogena) [until](yāvat) [four-angula-state](vedāṅgulasthitiḥ)
 
 ## mukta-m0-p39-v966
-[five](pañca) [+-tāla](+tāla) [+-length](+pradairghyam) [and](ca) [four](catuḥ) [+-tāla](+tāla) [+-breadth](+viveśanam)
+[five-tāla-length](pañcatālapradairghyaṃ) [and](ca) [four-tāla-entrance](catustālaviveśanam)
 
 ## mukta-m0-p39-v967
-[own-tusk](sva+dantam) [in-right](dakṣiṇe) [hand](pāṇau) [in-left](vāma) [+-hand](+haste) [and](ca) [sweet-ball](laḍḍukam)
+[own-tusk](svadantaṃ) [right-hand](dakṣiṇe pāṇau) [left-hand](vāmahaste) [and](ca) [ladduka](laḍḍukam)
 
 ## mukta-m0-p39-v968
-[Gaṇeśa](gaṇeśa) [+-characteristics](+lakṣaṇam) [declared](proktam) [four](catur) [+-handed](+hastam) [but](tu) [not-otherwise](na+anyathā)
+[Gaṇeśa-characteristic](gaṇeśalakṣaṇaṃ) [proclaimed](proktaṃ) [four-handed](caturhastaṃ) [indeed](tu) [not-otherwise](nānyathā)
 
 ## mukta-m0-p39-v969
-[by-two-arms](bhujābhyām) [more](adhikam) [one-should-make](kuryāt) [six](ṣaṭ) [+-armed](+bhujam) [as-before](pūrva+vat) [and](ca) [him](tam)
+[by-arms](bhujābhyām) [more](adhikaṃ) [should-make](kuryāt) [six-armed](ṣaḍbhujaṃ) [as-before](pūrvavat) [that](tam)
 
 ## mukta-m0-p39-v970
-[left](vāmam) [and](ca) [fearlessness](abhaya) [+-giving](+dam) [hand](hastam) [auspicious](śubham) [and](ca) [eight](aṣṭa) [+-armed](+bhuja) [+-endowed-with](+anvitam)
+[left](vāmaṃ) [and](ca) [fear-giving](abhayadaṃ) [hand](hastaṃ) [auspicious](śubhaṃ) [and](ca) [eight-armed-endowed](aṣṭabhujānvitam)
 
 ## mukta-m0-p39-v971
-[below-lotus](padma+adhastāt) [but](tu) [to-be-made](kartavyaḥ) [great-mouse](mahā+khuḥ) [and](ca) [beautiful](cāru) [+-formed](+rūpavān)
+[below-lotus](padmādhastāt) [should-be-made](kartavyo) [great-rat](mahākhu) [beautiful-formed](sārurūpavān)
 
 ## mukta-m0-p39-v972
-[six](ṣaṭ) [+-armed](+bhujaḥ) [and](ca) [eight](aṣṭa) [+-armed](+bāhuḥ) [and](ca) [delighted](prahṛṣṭaḥ) [with-dance](tāṇḍava) [+-engaged](+ākulaḥ)
+[six-armed](ṣaḍbhujaḥ) [and](ca) [eight-armed](aṣṭabāhuḥ) [delighted](prahṛṣṭaḥ) [dance-crowded](tāṇḍavākulaḥ)
 
 ## mukta-m0-p39-v973
-[first](ādyam) [white](sitam) [in-house](gṛhe) [desired](abhīṣṭam) [threefold](tri+vidham) [in-god](sura) [+-temple](+mandire)
+[first](ādyaṃ) [white](sitaṃ) [in-house](gṛhe) [desired](abhīṣṭaṃ) [threefold](trividhaṃ) [in-temple](suramandire)
 
 ## mukta-m0-p39-v974
-[with-arms](bhujaiḥ) [twelve](dvādaśabhiḥ) [endowed](yuktaḥ) [Skanda](skandaḥ) [principal](mukhyaḥ) [well-formed](su+rūpakaḥ)
+[with-twelve-arms](bhujairdvādaśabhiḥ) [endowed](yuktaḥ) [Skanda](skandaḥ) [chief](mukhyaḥ) [beautiful](surūpakaḥ)
 
 ## mukta-m0-p39-v975
-[with-Śānti](śāntyā) [and](ca) [in-right](dakṣiṇe) [hand](haste) [with-six](ṣaḍbhiḥ) [in-left](vāma) [+-hand](+kare) [likewise](tathā)
+[with-peace](śāntyā) [and](ca) [right-hand](dakṣiṇe haste) [six](ṣaḍbhiḥ) [left-hand](vāmakare) [likewise](tathā)
