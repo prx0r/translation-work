@@ -8,13 +8,13 @@
 [rainbow+resembling+lines](indra+cāpa+upama+rekhāḥ) [all+prosperity+wealth+prosperity+giving](sarva+śrī+vasu+bhūti+dāḥ)
 
 ## mukta-m0-p19-v453
-[characteristics+endowed+little+flaw](lakṣaṇa+āḍhya+alpa+doṣā) [which](yā) [to-be-taken](grāhyā) [she](sā) [oblation+purified](homa+śodhitā)
+[marks+endowed+little+flaw](lakṣaṇa+āḍhya+alpa+doṣā) [which](yā) [to-be-taken](grāhyā) [she](sā) [oblation+purified](homa+śodhitā)
 
 ## mukta-m0-p19-v454
-[in-east+northeast+north+directions](indra+īśāna+indu+kāṣṭhāsu) [of-that](tasyā) [head](mastakam) [is-desired](iṣyate)
+[in-east+īśāna+north+directions](indra+īśāna+indu+kāṣṭhāsu) [of-that](tasyā) [head](mastakam) [is-desired](iṣyate)
 
 ## mukta-m0-p19-v455
-[in-threefold+also](trividheṣu+api) [in-liṅgas](liṅgeṣu) [in-stone](śilāyāṃ) [not+other](na+aparaḥ) [rule](vidhiḥ)
+[in-threefold+also](trividheṣu+api) [in-liṅgas](liṅgeṣu) [in-stone](śilāyām) [not+other](na+aparaḥ) [rule](vidhiḥ)
 
 ## mukta-m0-p19-v456
 [flaws](doṣān) [aged+etc](vṛddha+ādikān) [we-tell](brūmaḥ) [by-eighty-four+kinds](ca+aṣṭāśīti+prabhedataḥ)
@@ -29,7 +29,7 @@
 [harsh](niṣṭhurā) [and+very-rough](ca+ati+rūkṣā) [and](ca) [aged](vṛddhā) [work+destroying](kārya+vināśinī)
 
 ## mukta-m0-p19-v460
-[chisel+blow+not-enduring](ṭaṅka+ghāta+asahiṣṇuñ) [and](ca) [not](na) [that](tāṃ) [for-deity](devāya) [one-should-employ](yojayet)
+[chisel+blow+not-enduring](ṭaṅka+ghāta+asahiṣṇum) [and](ca) [not](na) [that](tāṃ) [for-deity](devāya) [one-should-employ](yojayet)
 
 ## mukta-m0-p19-v461
 [therefore](tasmāt) [image+consisting](bimba+ātmakaṃ) [and](ca) [stone](aśma) [one-should-cut](saṃchindyāt) [wood](dāru) [indeed](vai) [likewise](tathā)
@@ -47,7 +47,7 @@
 [campaka-flower+resembling](campaka+ābhaṃ) [and](ca) [blue+resembling](nīla+ābhaṃ) [mixed+red+yellow](miśra+lohita+pītakam)
 
 ## mukta-m0-p19-v466
-[red](raktaṃ) [and](ca) [pale](pāṇḍaraṃ) [and](ca) [indeed](eva) [internal+flaws](garbha+doṣān) [I-tell](vadāmi) [now](ata)
+[red](raktaṃ) [and](ca) [pale](pāṇḍaraṃ) [and](ca) [indeed](eva) [womb+flaws](garbha+doṣān) [I-declare](vadāmi) [now](ataḥ)
 
 ## mukta-m0-p19-v467
 [in-jaggery+color](guḍa+varṇe) [stone+other](śilā+anyā) [may-be](syāt) [by-that](tena) [drought](avṛṣṭiḥ) [may-be](bhavet) [long](ciram)
@@ -56,22 +56,22 @@
 [in-madder+resembling](mañjiṣṭhā+ābhe) [may-be](bhavet) [frog](bhekaḥ) [crop+destruction](śasya+nāśaḥ) [from-water+danger](jalāt+bhayam)
 
 ## mukta-m0-p19-v469
-[in-yellow](pīte) [lizard](godhā) [king](nṛpaṃ) [may-kill](hanyāt) [and](ca) [that](sā) [pain+causing](pīḍā+karī)
+[in-yellow](pīte) [lizard](godhā) [king](nṛpaṃ) [may-kill](hanyāt) [fever](ṅṭavāṃ) [pain+causing](pīḍā+karī) [and](ca) [she](sā)
 
 ## mukta-m0-p19-v470
-[in-palm-fruit+resembling](tāla+ābhe) [crab](karkaṭaḥ) [bile+disease+famine+causing](pitta+roga+durbhikṣa+kṛt) [and](ca) [he](saḥ)
+[in-palm-fruit+resembling](tāla+ābhe) [crab](karkaṭaḥ) [bile+disease+famine+causing](pitta+roga+durbhikṣa+kṛt) [and](ca) [that](saḥ)
 
 ## mukta-m0-p19-v471
-[elder](jyeṣṭhā) [in-pigeon+throat+resembling](kapota+kaṇṭha+ābhe) [disease+poverty+fear+giving](vyādhi+dāridrya+bhīti+dā)
+[elder-sister](jyeṣṭhā) [in-pigeon+throat+resembling](kapota+kaṇṭha+ābhe) [disease+poverty+fear+giving](vyādhi+dāridrya+bhīti+dā)
 
 ## mukta-m0-p19-v472
-[in-blue](nīlake) [fly](makṣikā) [she](sā) [and](ca) [may-kill](hanyāt) [wife](bhāryāṃ) [with-son](sa+putrakām)
+[in-dark-blue](nīlake) [fly](makṣikā) [she](sā) [and](ca) [may-kill](hanyāt) [wife](bhāryāṃ) [with-son](sa+putrakām)
 
 ## mukta-m0-p19-v473
-[king-bird](nṛpakṣī) [in-blue-jay+color](cāṣa+varṇe) [may-be](syāt) [by-that](tena) [of-maker+offspring+destruction](kartuḥ+prajā+kṣayaḥ)
+[king-bird](nṛpakṣī) [in-blue-jay+color](cāṣa+varṇe) [may-be](syāt) [by-that](tena) [of-maker](kartuḥ) [offspring+destruction](prajā+kṣayaḥ)
 
 ## mukta-m0-p19-v474
-[in-kiṃśuka](kiṃśuke) [red-velvet-mite](śakragopaḥ) [may-be](syāt) [by-that](tena) [of-king+wealth+destruction](rājñaḥ+dhana+kṣayaḥ)
+[in-kiṃśuka-color](kiṃśuke) [red-velvet-mite](śakragopaḥ) [may-be](syāt) [by-that](tena) [of-king](rājñaḥ) [wealth+loss](dhana+kṣayaḥ)
 
 ## mukta-m0-p19-v475
-[in-flax+flower+resembling](atasī+puṣpa+saṃkāśe) [in-womb](garbhe) [one-should-know](vidyāt) [ant](pipīlikā)
+[in-flax+flower+resembling](atasī+puṣpa+saṃkāśe) [in-womb](garbhe) [one-should-know](vidyāt) [ant](pipīlikāḥ)

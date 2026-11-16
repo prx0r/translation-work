@@ -70,7 +70,7 @@
 },
 {
 "surface": "cāṇḍalī",
-"quick_gloss": "caṇḍālī"
+"quick_gloss": "caṇḍāla-woman-like"
 },
 {
 "surface": "sā",
@@ -135,12 +135,8 @@
 "quick_gloss": "known"
 },
 {
-"surface": "viṃśatiḥ",
-"quick_gloss": "twenty"
-},
-{
-"surface": "lakṣabhedataḥ",
-"quick_gloss": "with-characteristic+differences"
+"surface": "viṃśatirlakṣabhedataḥ",
+"quick_gloss": "twenty+characteristic+types"
 }
 ]
 },
@@ -152,12 +148,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "jñaya",
+"surface": "jñeya",
 "quick_gloss": "to-be-known"
 },
 {
 "surface": "sadbhūmibhūtasya",
-"quick_gloss": "of-good+ground+born"
+"quick_gloss": "of-existing+on-good+ground"
 },
 {
 "surface": "pāṣāṇasya",
@@ -181,12 +177,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "tajja",
-"quick_gloss": "by-that+born"
-},
-{
-"surface": "tīśena",
-"quick_gloss": "by-īśa+mantra"
+"surface": "tajjātīśena",
+"quick_gloss": "of-that+born"
 },
 {
 "surface": "mantreṇa",
@@ -210,23 +202,27 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "lāñcha",
-"quick_gloss": "mark"
+"surface": "lāñchanaṃ",
+"quick_gloss": "marking"
 },
 {
-"surface": "yatvā",
+"surface": "yat",
 "quick_gloss": "which"
+},
+{
+"surface": "vā",
+"quick_gloss": "or"
 },
 {
 "surface": "yathānyāyaṃ",
 "quick_gloss": "according-to-rule"
 },
 {
-"surface": "kartayec",
+"surface": "kartayet",
 "quick_gloss": "one-should-cut"
 },
 {
-"surface": "chodhayed",
+"surface": "śodhayet",
 "quick_gloss": "and-should-purify"
 },
 {
@@ -244,7 +240,7 @@
 "tokens": [
 {
 "surface": "piṇḍikāsahitaṃ",
-"quick_gloss": "with-pedestal+included"
+"quick_gloss": "with-pedestal+accompanied"
 },
 {
 "surface": "tat",
@@ -297,7 +293,7 @@
 },
 {
 "surface": "tu",
-"quick_gloss": "indeed"
+"quick_gloss": "but"
 }
 ]
 },
@@ -367,7 +363,7 @@
 },
 {
 "surface": "bhāṣitam",
-"quick_gloss": "stated"
+"quick_gloss": "declared"
 }
 ]
 },
@@ -379,20 +375,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "liṅgacheda",
-"quick_gloss": "of-liṅga+cut"
-},
-{
-"surface": "ūrdhvabhāgasthā",
-"quick_gloss": "upper+part+situated"
+"surface": "liṅgachedordhvabhāgasthā",
+"quick_gloss": "of-liṅga+cut+upper+part+situated"
 },
 {
 "surface": "tathā",
-"quick_gloss": "and-likewise"
+"quick_gloss": "likewise"
 },
 {
 "surface": "adho",
-"quick_gloss": "lower+part+going"
+"quick_gloss": "below"
 },
 {
 "surface": "bhāgagā",
@@ -416,7 +408,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "ucchrāyena",
+"surface": "ucchrāyeṇa",
 "quick_gloss": "by-height"
 },
 {
@@ -453,7 +445,7 @@
 "quick_gloss": "also"
 },
 {
-"surface": "liṅgānāṃ",
+"surface": "liṅgānām",
 "quick_gloss": "of-liṅgas"
 },
 {
@@ -461,7 +453,7 @@
 "quick_gloss": "in-order"
 },
 {
-"surface": "ekāṅgulādhilā",
+"surface": "ekāṅgulādhikā",
 "quick_gloss": "by-one+finger+greater"
 }
 ]
@@ -475,7 +467,7 @@
 "tokens": [
 {
 "surface": "svamānāt",
-"quick_gloss": "by-own+measure"
+"quick_gloss": "by-its-own+measure"
 },
 {
 "surface": "mekhalā",
@@ -515,12 +507,12 @@
 "quick_gloss": "cavity"
 },
 {
-"surface": "yavai",
+"surface": "yavaiḥ",
 "quick_gloss": "by-barleycorns"
 },
 {
 "surface": "ṣaḍbhiḥ",
-"quick_gloss": "by-six"
+"quick_gloss": "six"
 },
 {
 "surface": "pravistaraḥ",
@@ -566,11 +558,11 @@
 "tokens": [
 {
 "surface": "svamānavistarārdhena",
-"quick_gloss": "by-own+measure+width+half"
+"quick_gloss": "by-its-own+measure+width+half"
 },
 {
 "surface": "bāhulyena",
-"quick_gloss": "with-thickness"
+"quick_gloss": "with-depth"
 },
 {
 "surface": "samanvitā",
@@ -628,7 +620,7 @@
 },
 {
 "surface": "astrapuṣpādyaiḥ",
-"quick_gloss": "with-weapons+flowers+and-so-on"
+"quick_gloss": "with-weapons+flowers+and-others"
 },
 {
 "surface": "ānetuṃ",
@@ -652,7 +644,7 @@
 "quick_gloss": "ascetics"
 },
 {
-"surface": "chivabhaktāṃś",
+"surface": "śivabhaktān",
 "quick_gloss": "and-śiva+devotees"
 },
 {
@@ -731,7 +723,7 @@
 },
 {
 "surface": "pramādāt",
-"quick_gloss": "through-negligence"
+"quick_gloss": "through-carelessness"
 },
 {
 "surface": "skhalitaṃ",
@@ -739,7 +731,7 @@
 },
 {
 "surface": "bhavet",
-"quick_gloss": "should-be"
+"quick_gloss": "should-occur"
 }
 ]
 },
