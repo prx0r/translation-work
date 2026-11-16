@@ -13,6 +13,18 @@
 {
 "surface": "rīriṣaḥ",
 "quick_gloss": "wishing-to-harm"
+},
+{
+"surface": "ariḥ",
+"quick_gloss": "enemy"
+},
+{
+"surface": "iti",
+"quick_gloss": "thus"
+},
+{
+"surface": "uktaḥ",
+"quick_gloss": "declared"
 }
 ]
 },
@@ -24,12 +36,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "śītalāt",
+"surface": "śītala",
 "quick_gloss": "from-coolness"
 },
 {
 "surface": "ādibhyaḥ",
-"quick_gloss": "and-other-things"
+"quick_gloss": "and-others"
 },
 {
 "surface": "ārogyaṃ",
@@ -53,12 +65,24 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "siddhaye",
-"quick_gloss": "for-accomplishment"
+"surface": "kārya",
+"quick_gloss": "for-action"
 },
 {
-"surface": "kārya",
-"quick_gloss": "of-purpose"
+"surface": "siddhaye",
+"quick_gloss": "accomplishment"
+},
+{
+"surface": "idam",
+"quick_gloss": "this"
+},
+{
+"surface": "karma",
+"quick_gloss": "rite"
+},
+{
+"surface": "kāryam",
+"quick_gloss": "should-be-done"
 }
 ]
 },
@@ -83,11 +107,11 @@
 },
 {
 "surface": "pūta",
-"quick_gloss": "pure-bodied"
+"quick_gloss": "pure"
 },
 {
 "surface": "kāyaḥ",
-"quick_gloss": "body"
+"quick_gloss": "bodied"
 },
 {
 "surface": "japan",
@@ -95,7 +119,7 @@
 },
 {
 "surface": "caret",
-"quick_gloss": "one-should-practice"
+"quick_gloss": "should-move"
 }
 ]
 },
@@ -107,15 +131,15 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "bhikṣāñ",
+"surface": "bhikṣā",
 "quick_gloss": "alms"
 },
 {
-"surface": "ca",
+"surface": "añca",
 "quick_gloss": "and"
 },
 {
-"surface": "ājyañ",
+"surface": "ājyaṃ",
 "quick_gloss": "clarified-butter"
 },
 {
@@ -124,7 +148,7 @@
 },
 {
 "surface": "tasya",
-"quick_gloss": "of-him"
+"quick_gloss": "his"
 },
 {
 "surface": "bhavet",
@@ -148,16 +172,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "tu",
-"quick_gloss": "indeed"
+"surface": "ahaḥ",
+"quick_gloss": "day"
 },
 {
-"surface": "aho",
-"quick_gloss": "day-and-night"
-},
-{
-"surface": "rātrañ",
-"quick_gloss": "night"
+"surface": "rātraṃ",
+"quick_gloss": "and-night"
 },
 {
 "surface": "japaḥ",
@@ -169,7 +189,7 @@
 },
 {
 "surface": "nirantaram",
-"quick_gloss": "uninterruptedly"
+"quick_gloss": "without-interval"
 }
 ]
 },
@@ -182,11 +202,11 @@
 "tokens": [
 {
 "surface": "mahā",
-"quick_gloss": "with-great-vyāhṛtis"
+"quick_gloss": "with-great"
 },
 {
 "surface": "vyāhṛtibhiḥ",
-"quick_gloss": "utterances"
+"quick_gloss": "vyāhṛtis"
 },
 {
 "surface": "paścāt",
@@ -280,8 +300,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "samidhāñ",
-"quick_gloss": "fuel-sticks"
+"surface": "samidhāṃ",
+"quick_gloss": "of-fuel-sticks"
 },
 {
 "surface": "ca",
@@ -298,6 +318,10 @@
 {
 "surface": "karmasu",
 "quick_gloss": "rites"
+},
+{
+"surface": "bhavanti",
+"quick_gloss": "are-used"
 }
 ]
 },
@@ -314,23 +338,23 @@
 },
 {
 "surface": "lakṣmī",
-"quick_gloss": "desiring-prosperity"
+"quick_gloss": "prosperity"
 },
 {
 "surface": "kāmaḥ",
-"quick_gloss": "desirer"
+"quick_gloss": "desiring"
 },
 {
 "surface": "vā",
 "quick_gloss": "or"
 },
 {
-"surface": "darśanāt",
-"quick_gloss": "from-vision"
+"surface": "śiva",
+"quick_gloss": "from-Śiva"
 },
 {
-"surface": "śiva",
-"quick_gloss": "of-Śiva"
+"surface": "darśanāt",
+"quick_gloss": "vision"
 }
 ]
 },
@@ -351,7 +375,7 @@
 },
 {
 "surface": "sarva",
-"quick_gloss": "of-all"
+"quick_gloss": "for-all"
 },
 {
 "surface": "arthasya",
@@ -376,11 +400,15 @@
 },
 {
 "surface": "aṣṭakam",
-"quick_gloss": "eightfold"
+"quick_gloss": "eight"
 },
 {
 "surface": "ādarāt",
 "quick_gloss": "with-reverence"
+},
+{
+"surface": "juhuyāt",
+"quick_gloss": "one-should-offer"
 }
 ]
 },
@@ -402,6 +430,14 @@
 {
 "surface": "sahasrakam",
 "quick_gloss": "thousand"
+},
+{
+"surface": "tat",
+"quick_gloss": "that"
+},
+{
+"surface": "phalam",
+"quick_gloss": "result"
 }
 ]
 },
@@ -414,15 +450,15 @@
 "tokens": [
 {
 "surface": "bhāryā",
-"quick_gloss": "facing-wife"
+"quick_gloss": "wife"
 },
 {
 "surface": "mukī",
-"quick_gloss": "facing"
+"quick_gloss": "favorable-to-me"
 },
 {
 "surface": "me",
-"quick_gloss": "to-me"
+"quick_gloss": "me"
 },
 {
 "surface": "bhavatu",
@@ -430,14 +466,10 @@
 },
 {
 "surface": "hi",
-"quick_gloss": "indeed"
-},
-{
-"surface": "etat",
 "quick_gloss": "for-this"
 },
 {
-"surface": "arthe",
+"surface": "edarthe",
 "quick_gloss": "purpose"
 },
 {
@@ -463,10 +495,14 @@
 },
 {
 "surface": "vṛṣabhaṃ",
-"quick_gloss": "bull"
+"quick_gloss": "a-bull"
 },
 {
-"surface": "vāsitā",
+"surface": "vā",
+"quick_gloss": "or"
+},
+{
+"surface": "āsitā",
 "quick_gloss": "desirous-cow"
 },
 {
@@ -536,7 +572,7 @@
 "quick_gloss": "eight"
 },
 {
-"surface": "putrāṃś",
+"surface": "putrān",
 "quick_gloss": "sons"
 },
 {
@@ -570,11 +606,11 @@
 "tokens": [
 {
 "surface": "āyuḥ",
-"quick_gloss": "desiring-long-life"
+"quick_gloss": "long-life"
 },
 {
 "surface": "kāmaḥ",
-"quick_gloss": "desirer"
+"quick_gloss": "desiring"
 },
 {
 "surface": "aṣṭa",
@@ -585,12 +621,8 @@
 "quick_gloss": "thousand"
 },
 {
-"surface": "cira",
-"quick_gloss": "long-life"
-},
-{
-"surface": "āyuṣṭvaṃ",
-"quick_gloss": "life-state"
+"surface": "cirāyuṣṭvaṃ",
+"quick_gloss": "long-livedness"
 },
 {
 "surface": "saḥ",
@@ -652,7 +684,7 @@
 },
 {
 "surface": "bhavet",
-"quick_gloss": "should-become"
+"quick_gloss": "would-become"
 },
 {
 "surface": "vaśyaḥ",
@@ -704,16 +736,12 @@
 "quick_gloss": "that-one"
 },
 {
-"surface": "vaśa",
+"surface": "vaśagaḥ",
 "quick_gloss": "under-control"
 },
 {
-"surface": "gaḥ",
-"quick_gloss": "gone"
-},
-{
 "surface": "bhavet",
-"quick_gloss": "should-become"
+"quick_gloss": "would-become"
 }
 ]
 },
@@ -730,7 +758,7 @@
 },
 {
 "surface": "lakṣaṃ",
-"quick_gloss": "hundred-thousand"
+"quick_gloss": "a-hundred-thousand"
 },
 {
 "surface": "tejaḥ",
@@ -742,7 +770,7 @@
 },
 {
 "surface": "bhavet",
-"quick_gloss": "one-should-become"
+"quick_gloss": "one-would-become"
 }
 ]
 },
@@ -775,7 +803,7 @@
 },
 {
 "surface": "bhavet",
-"quick_gloss": "should-be"
+"quick_gloss": "would-be"
 }
 ]
 },
