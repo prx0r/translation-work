@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p81-v2001
-[water](jala)[+standing](sthā) [water-abiding](jalasthā) [she](sā) [goddess](devatā)
+[water](jala)+[standing](sthā)
 
 ## mukta-m0-p81-v2002
-[of-ever-present](sadā+sannidheḥ) [some](ko'pi) [state](bhāva)[+experience](anubhāvaḥ) [is](asti)
+[always](sadā)+[nearness](sannidheḥ) [some](ko'pi) [feeling](bhāva)+[power](anubhāvaḥ)
 
 ## mukta-m0-p81-v2003
-[water](jala)[+goddess](devatā) [she](sā) [divine](divyā) [deity](devī)
+[water](jala)+[deity](devatā)
 
 ## mukta-m0-p81-v2004
-[lotus](kamalaṃ) [that](tat)[+water-goddess](jala+devatā)[+grace](prasādaḥ) [is](asti) [gift](dānam)
+[lotus](kamalaṃ) [that](taj)+[water](jala)+[deity](devatā)+[grace](prasādaḥ)
 
 ## mukta-m0-p81-v2005
-[Kuru-field](kuru+kṣetra)[+land](avaniḥ) [sacred](puṇyā) [earth](bhūmiḥ) [is](asti)
+[kuru-field](kurukṣetra)+[earth](avaniḥ)
 
 ## mukta-m0-p81-v2006
-[of-Kauravas](kauravāṇāṃ) [Kuru-field](kuru+kṣetra)[+land](avaniḥ)[+me](mām)[+may-protect](avatād) [from-fear](bhayāt)
+[kauravas](kauravāṇāṃ) [kuru-field](kurukṣetra)+[earth](avaniḥ)+[me](mām)+[protect](avatād) [fear](bhayāt)
 
 ## mukta-m0-p81-v2007
-[Kāśī](kāśī) [city](purī) [luminous](prakāśā) [sacred](puṇyā)
+[kashi](kāśī)
 
 ## mukta-m0-p81-v2008
-[she](sā) [Kāśī](kāśī) [shines-forth](parikāśate) [my](mama) [heart](hṛd)[+sky](ākāśe) [always](sadā) [undivided](nirbhidā)
+[that](sā) [kashi](kāśī) [shines](parikāśate) [my](mama) [heart-space](hṛdākāśe) [always](sadā) [unbroken](nirbhidā)
 
 ## mukta-m0-p81-v2009
-[Mathurā](mathurā) [city](purī) [sacred](puṇyā) [place](sthānam)
+[mathura](mathurā)
 
 ## mukta-m0-p81-v2010
-[firm](sthiraṃ) [essence](rasa)[+splendor](śrīḥ)[+Mathurā](mathurā)[+is](asti) [some](kāpi) [indeed](eva)
+[steady](sthiraṃ) [rasa-glory](rasaśrīḥ)+[mathura](mathurā)+[is](asti) [some](kāpi)
 
 ## mukta-m0-p81-v2011
-[Kāñcī](kāñcī) [city](purī) [sacred](puṇyā) [place](sthānam)
+[kanchi](kāñcī)
 
 ## mukta-m0-p81-v2012
-[in-which](yasyāṃ) [golden](kāñcana) [golden-mountain](kāñcana+adri)[+pertaining-to](viṣayāṃ) [Kāñcī](kāñcī) [may-give](dadātu) [prosperity](śriyam)
+[in-which](yasyāṃ) [gold](kāñcana) [golden-mountain](kāñcanādri)+[region](viṣayāṃ) [kanchi](kāñcī) [give](dadātu) [glory](śriyam)
 
 ## mukta-m0-p81-v2013
-[page](p.) [244](244)[)]()) [Avantikā](avantikā) [city](purī)
+[avantika](avantikā)
 
 ## mukta-m0-p81-v2014
-[which](kā) [city](pūr)[+sun](bhāskara)[+path](yāna)[+middle](madhya)[+situated](viṣayā) [shines-forth](saṃrājate)[+Avantikā](avantikā)
+[which](kā) [eastern-sun](pūrbhāskara)+[path](yāna)+[middle-region](madhyaviṣayā) [shines](saṃrājate)+[avantika](avantikā)
 
 ## mukta-m0-p81-v2015
-[Ayodhyā](ayodhyā) [city](purī) [unconquerable](ayodhyā) [place](sthānam)
+[ayodhya](ayodhyā)
 
 ## mukta-m0-p81-v2016
-[Ayodhyā](ryodhyā) [people](janāḥ) [she](sā)[+is](asti) [and](ca) [some](kāpi)[+Ayodhyā](ayodhyā)
+[ayodhya](ryodhyā) [people](janāḥ) [that](sā)+[is](asti) [some](kāpi)+[ayodhya](ayodhyā)
 
 ## mukta-m0-p81-v2017
-[Dvārakā](dvārakā) [city](purī) [many-gated](dvārakā) [place](sthānam)
+[dwarka](dvārakā)
 
 ## mukta-m0-p81-v2018
-[which](yā) [seen](dṛṣṭā) [or](vāpi) [hidden](guptā)[+like](iva) [becomes](bhavati) [of-mind](manasaḥ) [from-vibration](spandanād) [Dvārakā](dvārakā) [she](sā)
+[which](yā) [seen](dṛṣṭā) [or](vāpi) [hidden](gupteva) [becomes](bhavati) [mind](manasaḥ) [throbbing](spandanād) [dwarka](dvārakā) [that](sā)
 
 ## mukta-m0-p81-v2019
-[Māyā](māyā) [illusion](māyā) [power](śaktiḥ) [divine](divyā)
+[maya](māyā)
 
 ## mukta-m0-p81-v2020
-[having-abandoned](hitvā) [become](bhavanti) [true](sad)[+awakened](bodhāḥ) [Viṣṇu](viṣṇu)[+Māyā](māyā)[+lords](īśvarāḥ) [themselves](svayam)
+[leaving](hitvā) [become](bhavanti) [true-knowers](sadbodhā) [vishnu-maya-lords](viṣṇumāyeśvarāḥ) [themselves](svayam)
 
 ## mukta-m0-p81-v2021
-[holy-places](tīrthā) [sacred-fords](tīrthāni) [pilgrimage-sites](tīrthāḥ) [places](sthānāni)
+[tirtha](tīrthā)
 
 ## mukta-m0-p81-v2022
-[of-pilgrims](ttīrthyānāṃ) [she](sā) [by-whom](kena) [holy-place](tīrthā) [not](na) [to-be-visited](tīrthyā)
+[tirtha-ones](ttīrthyānāṃ) [that](sā) [by-whom](kena) [tirtha](tīrthā) [not](na) [tirtha-one](tīrthyā)
 
 ## mukta-m0-p81-v2023
-[ford-maker](tīrthakara)[+beloved](priyā) [dear](priyā) [to-saviors](tīrthakarebhyaḥ) [she](sā)
+[tirthakara-dear](tīrthakarapriyā)
 
 ## mukta-m0-p81-v2024
-[not](na) [if](cet)[+beneficial](hitā) [ford-maker](tīrthakara)[+beloved](priyā) [would-be](syāt) [then](tadā)
+[if-not](na ced)+[dear](hitā) [tirthakara-dear](tīrthakarapriyā) [would-be](syāt)
 
 ## mukta-m0-p81-v2025
-[three](tri)[+lotus-ponds](puṣkarā) [sacred-place](tīrtham) [holy](puṇyā) [site](sthānam)
+[three-pushkara](tripuṣkarā)

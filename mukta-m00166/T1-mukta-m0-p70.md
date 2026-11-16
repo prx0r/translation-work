@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p70-v1726
-[auspicious](bhavyaṃ) [not](na) [or](vā) [bliss](ānanda)+[by-essence](rasena) [of-man](puṃsaḥ)
+[auspicious](bhavyaṃ) [not](na) [by-bliss-essence](vānandarasena) [of-man](puṃsaḥ)
 
 ## mukta-m0-p70-v1727
-[future](bhaviṣyā) [she-who-will-be](bhaviṣyā) [goddess-name](bhaviṣyā) [epithet](bhaviṣyā)
+[future](bhaviṣyā)
 
 ## mukta-m0-p70-v1728
-[to-determine](nirṇetum) [this](eṣā) [let-be](astu) [beneficial](hitā) [future](bhaviṣyā)
+[to-determine](nirṇetumeṣāstu) [beneficial](hitā) [future](bhaviṣyā)
 
 ## mukta-m0-p70-v1729
-[mountain](śaila)+[born](jā) [daughter-of-mountain](śailajā) [goddess-name](śailajā) [epithet](śailajā)
+[mountain-born](śailajā)
 
 ## mukta-m0-p70-v1730
-[mountain](śaila)+[born](jā) [is](asti) [pure](vimala)+[unity](aikya)+[joy](harṣa)+[ground](bhūḥ)
+[mountain-born](śailajāsti) [pure-unity-joy-abode](vimalaikyaharṣabhūḥ)
 
 ## mukta-m0-p70-v1731
-[mountain](śaila)+[dwelling](vāsinī) [mountain-dweller](śailavāsinī) [goddess-name](śailavāsinī) [epithet](śailavāsinī)
+[page-215](p.) [215)](215)) [mountain-dweller](śailavāsinī)
 
 ## mukta-m0-p70-v1732
-[firmly](dṛḍhaṃ) [god](deva)+[etc.](ādi)+[goddess](devī) [because](yat) [herself](svayaṃ) [she](sā) [mountain](śaila)+[dweller](vāsinī)
+[firmly](dṛḍhaṃ) [goddess-of-gods](devādidevī) [herself](svayaṃ) [that](yatsvayaṃ) [mountain-dweller](sā) [mountain-dweller](śailavāsinī)
 
 ## mukta-m0-p70-v1733
-[left](vāma)+[path](mārga)+[devoted](ratā) [devoted-to-left-path](vāmamārgaratā) [goddess-name](vāmamārgaratā) [epithet](vāmamārgaratā)
+[left-path-devoted](vāmamārgaratā)
 
 ## mukta-m0-p70-v1734
-[powers](siddhayaḥ) [attained](sevitā) [by-whom](yena) [left](vāma)+[path](mārga)+[devoted](ratā) [beneficial](hitā)
+[accomplishments](siddhayaḥ) [served](sevitā) [by-whom](yena) [left-path-devoted](vāmamārgaratā) [beneficial](hitā)
 
 ## mukta-m0-p70-v1735
-[left](vāmā) [beautiful](vāmā) [goddess-name](vāmā) [epithet](vāmā)
+[left-one](vāmā)
 
 ## mukta-m0-p70-v1736
-[left](vāmā) [auspicious](śivā) [of-whom](yasya) [always](sadaiva) [beautiful](vāmā)
+[left-one](vāmā) [auspicious](śivā) [whose](yasya) [always](sadaiva) [left-one](vāmā)
 
 ## mukta-m0-p70-v1737
-[Śiva](śiva)+[left](vāma)+[limb](aṅga)+[dwelling](vāsinī) [dweller-in-Śiva's-left-side](śivavāmāṅgavāsinī) [goddess-name](śivavāmāṅgavāsinī) [epithet](śivavāmāṅgavāsinī)
+[left-auspicious-limb-dweller](śivavāmāṅgavāsinī)
 
 ## mukta-m0-p70-v1738
-[she-alone](sa) [indeed](eva) [here](iha) [always](sarvadā) [shines](bhāti) [my](mama) [all](sarva)+[limb](aṅga)+[dwelling](vāsinī)
+[she-here](saiveha) [always](sarvadā) [shines](bhāti) [my](mama) [all-limb-dweller](sarvāṅgavāsinī)
 
 ## mukta-m0-p70-v1739
-[left](vāma)+[practice](ācāra)+[fond](priyā) [fond-of-left-practice](vāmācārapriyā) [goddess-name](vāmācārapriyā) [epithet](vāmācārapriyā)
+[left-conduct-loving](vāmācārapriyā)
 
 ## mukta-m0-p70-v1740
-[in-Kali-age](kalau) [she-alone](sa) [indeed](eva) [how](kathaṃ) [worshipable](pūjyā) [left](vāma)+[practice](ācāra)+[fond](priyā) [by-dull-ones](jaḍaiḥ)
+[in-kali](kalau) [she](saiva) [how](kathaṃ) [worshipable](pūjyā) [left-conduct-loving](vāmācārapriyā) [by-dull-ones](jaḍaiḥ)
 
 ## mukta-m0-p70-v1741
-[satisfied](tuṣṭā) [content](tuṣṭā) [goddess-name](tuṣṭā) [epithet](tuṣṭā)
+[pleased](tuṣṭā)
 
 ## mukta-m0-p70-v1742
-[satisfied](tuṣṭāḥ) [own](sva)+[self](ātma)+[by-realization](avabodhena) [they](te) [satisfied-one](tuṣṭā)+[compassion](kṛpayā)+[devoid](ujjhitāḥ)
+[pleased](tuṣṭāḥ) [by-self-knowledge](svātmāvabodhena) [they](te) [pleased](tuṣṭākṛpayojjhitāḥ)
 
 ## mukta-m0-p70-v1743
-[Lopāmudrā](lopāmudrā) [sage's-wife](lopāmudrā) [goddess-name](lopāmudrā) [epithet](lopāmudrā)
+[page-216](p.) [216)](216)) [lopamudra](lopāmudrā)
 
 ## mukta-m0-p70-v1744
-[Lopāmudrā](lopāmudrā) [how](katham) [here](iha) [supremely](paraṃ) [sealed](mudrita)+[heart](svānta)+[mortals](martyaiḥ)
+[lopamudra](lopāmudrā) [how-here](kathamiha) [supreme](paraṃ) [sealed-mind-mortals](mudritasvāntamartyaiḥ)
 
 ## mukta-m0-p70-v1745
-[awakener](prabodhinī) [she-who-awakens](prabodhinī) [goddess-name](prabodhinī) [epithet](prabodhinī)
+[awakening](prabodhinī)
 
 ## mukta-m0-p70-v1746
-[awakener](prabodhinī)+[meditation](dhyāna)+[born](bhavaḥ) [power](prabhāvaḥ) [great-efficacy](prabhāvaḥ) [manifestation](prabhāvaḥ)
+[awakening-meditation-born](prabodhinīdhyānabhavaḥ) [power](prabhāvaḥ)
 
 ## mukta-m0-p70-v1747
-[being](bhūta)+[self](ātmā) [soul-of-beings](bhūtātmā) [goddess-name](bhūtātmā) [epithet](bhūtātmā)
+[being-soul](bhūtātmā)
 
 ## mukta-m0-p70-v1748
-[being](bhūta)+[self](ātmā) [thus](iti) [Śivā](śivā) [power](vibhūtim) [unequalled](atulāṃ) [own](svīyāṃ) [may-give](dadātu) [surely](dhruvam)
+[being-soul](rbhūtātmeti) [auspicious](śivā) [incomparable-glory](vibhūtimatulāṃ) [own](svīyāṃ) [let-give](dadātu) [certainly](dhruvam)
 
 ## mukta-m0-p70-v1749
-[supreme](parama)+[self](ātmā) [supreme-self](paramātmā) [goddess-name](paramātmā) [epithet](paramātmā)
+[supreme-soul](paramātmā)
 
 ## mukta-m0-p70-v1750
-[supreme](parama)+[self](ātmā) [thus](iti) [Śivā](śivā) [proclaimed](prakīrtitā) [she](sā)
+[supreme-soul](paramātmeti) [auspicious](śivā) [proclaimed](prakīrtitā) [she](sā)

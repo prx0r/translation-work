@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p87-v2151
-[initiation](dīkṣā) [consecration](dīkṣā) [dedication](dīkṣā) [empowerment](dīkṣā)
+[initiation](dīkṣā)
 
 ## mukta-m0-p87-v2152
-[initiation](dīkṣā) [vision](prekṣāṃ) [strengthen](draḍhaya) [in-real-and-unreal](sat+asat+vastuni) [thing](vastuni) [you](tvaṃ) [compassionate-one](dayāluḥ)
+[initiation](dīkṣā) [vision](prekṣāṃ) [strengthen](draḍhaya) [in-real-unreal-thing](sadasadvastuni) [you](tvaṃ) [compassionate](dayāluḥ)
 
 ## mukta-m0-p87-v2153
-[skillful](dakṣā) [capable](dakṣā) [expert](dakṣā) [efficient](dakṣā)
+[skillful](dakṣā)
 
 ## mukta-m0-p87-v2154
-[without-description](nirvarṇa)+[multitude](sambhāra)+[immortal](amaraṃ) [which](yat)+[by-eye](akṣi)+[sight](viloka)+[merely](mātreṇa) [therefore](tatas)+[is](asti) [skillful](dakṣā)
+[without-color-provision-death](nirvarṇasambhāramaraṃ) [by-merely-seeing](yadakṣivilokamātreṇa) [from-that](tato'sti) [skillful](dakṣā)
 
 ## mukta-m0-p87-v2155
-[by-initiates](dīkṣita)+[worshipped](pūjitā) [by-initiates](dīkṣita)+[worshipped](pūjitā) [by-initiates](dīkṣita)+[worshipped](pūjitā) [by-initiates](dīkṣita)+[worshipped](pūjitā)
+[initiated-worshipped](dīkṣitapūjitā)
 
 ## mukta-m0-p87-v2156
-[worship](pūjā)+[etc.](ādi)+[distinguished](bheditā)+[non-distinguisher](abhettrī) [becoming](bhavat)+[to-him](asya)+[non-becoming](abhavat)+[giver](dā)
+[worship-etc-difference-destroyer](pūjādibheditābhettrī) [let-it-be](bhavatvasyābhavatvadā)
 
 ## mukta-m0-p87-v2157
-[betel-vine](nāga)+[creeper](vallī) [betel-vine](nāga)+[creeper](vallī) [betel-vine](nāga)+[creeper](vallī) [betel-vine](nāga)+[creeper](vallī)
+[snake-creeper](nāgavallī)
 
 ## mukta-m0-p87-v2158
-[therefore](tat)+[betel-vine](nāga)+[creeper](vallī)+[thus](iti) [say](vadanti) [good-people](santaḥ) [thus](iti)
+[that](tan) [snake-creeper](nāgavallī) [thus](ti) [say](vadanti) [saints](santaḥ)
 
 ## mukta-m0-p87-v2159
-[serpent](nāga)+[maiden](kanyā) [serpent](nāga)+[maiden](kanyā) [serpent](nāga)+[maiden](kanyā) [serpent](nāga)+[maiden](kanyā)
+[snake-maiden](nāgakanyā)
 
 ## mukta-m0-p87-v2160
-[of-her](tasyā) [like](iva) [herself](svayaṃ) [become](bhūtā) [serpent](nāga)+[maiden](kanyā)+[also](api) [beautiful](sundarī)
+[of-her](tasyā) [like](iva) [by-herself](svayaṃ) [born](bhūtā) [snake-maiden](nāgakanyā) [also](pi) [beautiful](sundarī)
 
 ## mukta-m0-p87-v2161
-[enjoyer](bhoginī) [serpent-woman](bhoginī) [experiencer](bhoginī) [possessor-of-enjoyment](bhoginī)
+[enjoyer](bhoginī)
 
 ## mukta-m0-p87-v2162
-[enjoyer](bhoginī)+[thus](iti) [spoken](gaditā) [separated-one](viyoginī) [thus](iti)
+[enjoyer](bhoginī) [thus](ti) [said](gaditā) [separated](viyoginī)
 
 ## mukta-m0-p87-v2163
-[enjoyment](bhoga)+[beloved](vallabhā) [enjoyment](bhoga)+[beloved](vallabhā) [enjoyment](bhoga)+[beloved](vallabhā) [enjoyment](bhoga)+[beloved](vallabhā)
+[enjoyment-beloved](bhogavallabhā)
 
 ## mukta-m0-p87-v2164
-[therefore](tatas) [indeed](eva) [herself](svayaṃ) [I-know](jāne) [always](sarvadā) [enjoyment](bhoga)+[beloved](vallabhā)
+[from-that](tata) [indeed](eva) [by-herself](svayaṃ) [I-know](jāne) [always](sarvadā) [enjoyment-beloved](bhogavallabhā)
 
 ## mukta-m0-p87-v2165
-[all](sarva)+[scriptures](śāstra)+[possessing](vatī) [knowledge](vidyā) [all](sarva)+[scriptures](śāstra)+[possessing](vatī) [knowledge](vidyā)
+[all-script-possessing](sarvaśāstravatī) [knowledge](vidyā)
 
 ## mukta-m0-p87-v2166
-[all](sarva)+[scriptures](śāstra)+[possessing](vatī) [knowledge](vidyā)+[blameless](anavadyā) [in-heart](hṛdi) [always](sarvadā)
+[all-script-possessing](sarvaśāstravatī) [knowledge](vidyā) [blameless](navadyā) [in-heart](hṛdi) [always](sarvadā)
 
 ## mukta-m0-p87-v2167
-[good-memory](su)+[remembrance](smṛtiḥ) [good-memory](su)+[remembrance](smṛtiḥ) [good-memory](su)+[remembrance](smṛtiḥ) [good-memory](su)+[remembrance](smṛtiḥ)
+[good-memory](susmṛtiḥ)
 
 ## mukta-m0-p87-v2168
-[one-pointed](ekāgra)+[minded](manasā) [all](sarve) [not](na) [should-remember](smareyuḥ) [other](paraṃ) [how](katham)
+[one-pointed-mind](ekāgramanasā) [all](sarve) [not](na) [remember](smareyuḥ) [supreme](paraṃ) [how](katham)
 
 ## mukta-m0-p87-v2169
-[dharma](dharma)+[speaker](vādinī) [dharma](dharma)+[speaker](vādinī) [dharma](dharma)+[speaker](vādinī) [dharma](dharma)+[speaker](vādinī)
+[righteous-speaker](dharmavādinī)
 
 ## mukta-m0-p87-v2170
-[not-one](na+eka)+[dharma](dharmāt) [slipping](skhalantī) [because](yat)+[therefore](tat)+[she](eṣā) [dharma](dharma)+[speaker](vādinī)
+[not-one-duty](naikadharmāt) [stumbling](skhalantī) [that](yattadeṣā) [righteous-speaker](dharmavādinī)
 
 ## mukta-m0-p87-v2171
-[sacred-text](śrutiḥ) [revelation](śrutiḥ) [veda](śrutiḥ) [hearing](śrutiḥ)
+[hearing](śrutiḥ)
 
 ## mukta-m0-p87-v2172
-[goes](yāti) [sacred-text](śrutiḥ)+[this](iyaṃ) [some](kācid) [brahman](brahma)+[indeed](eva) [world](jagat)+[mother](ambikā)
+[goes](yāti) [hearing](śrutiriyaṃ) [some](kācid) [like-brahman](brahmeva) [world-mother](jagadambikā)
 
 ## mukta-m0-p87-v2173
-[sacred-text](śruti)+[holder](dharā) [sacred-text](śruti)+[holder](dharā) [sacred-text](śruti)+[holder](dharā) [sacred-text](śruti)+[holder](dharā)
+[hearing-holder](śrutidharā)
 
 ## mukta-m0-p87-v2174
-[sacred-text](śrutiṃ) [world](jagat)+[activity](pravṛttyai) [she](sā) [by-herself](svataḥ) [sacred-text](śruti)+[holder](dharā) [supreme](parā)
+[hearing](śrutiṃ) [world-progression](jagatpravṛttyai) [she](sā) [by-herself](svataḥ) [hearing-holder](śrutidharā) [supreme](parā)
 
 ## mukta-m0-p87-v2175
-[eldest](jyeṣṭhā) [foremost](jyeṣṭhā) [senior](jyeṣṭhā) [preeminent](jyeṣṭhā)
+[eldest](jyeṣṭhā)

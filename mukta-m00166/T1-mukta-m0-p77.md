@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p77-v1901
-[ninth](nava) [+](mī) [lunar-day](navamī) [goddess](navamī)
+[ninth-day](navamī)
 
 ## mukta-m0-p77-v1902
-[new](navaṃ) [new](navaṃ) [she](sā) [navamī](navamī) [may-make](karotu)
+[new](navaṃ) [new](navaṃ) [she](sā) [ninth-day](navamī) [let-make](karotu)
 
 ## mukta-m0-p77-v1903
-[fourteenth](catur) [+](daśī) [lunar-day](caturdaśī) [goddess](caturdaśī)
+[fourteenth-day](caturdaśī)
 
 ## mukta-m0-p77-v1904
-[fourteen-hundredfold](caturdaśatayīṃ) [knowledge](vidyāṃ) [she](sā) [may-give](dadātu) [caturdaśī](caturdaśī)
+[fourteenth-fold](caturdaśatayīṃ) [knowledge](vidyāṃ) [she](sā) [let-give](dadātu) [fourteenth-day](caturdaśī)
 
 ## mukta-m0-p77-v1905
-[new-moon](amā) [day](amā) [goddess](amā) [amā](amā)
+[no-moon-day](amā)
 
 ## mukta-m0-p77-v1906
-[goes](prayāti) [in-which](yasyāṃ) [supreme-goddess](paradevatā) [+](i) [this](yam) [+](amā) [peace](śam) [+](ārāma) [+](karī) [of-me](mama) [may-be](astu)
+[goes](prayāti) [in-which](yasyāṃ) [supreme-goddess](paradevatā) [this](iyam) [no-moon](amā) [peace-giving](śamārāmakarī) [to-me](mamāstu)
 
 ## mukta-m0-p77-v1907
-[water-pot](kalaśa) [+](hastā) [in-hand](kalaśahastā) [goddess](kalaśahastā)
+[pot-in-hand](kalaśahastā)
 
 ## mukta-m0-p77-v1908
-[in-difficulty](kṛcchre) [water-pot](kalaśa) [+](hastā) [+](iyaṃ) [may-give](deyāt) [+](hasta) [+](avalambanam) [hand-support](hastāvalambanam)
+[in-distress](kṛcchre) [pot-in-hand](kalaśahastā) [this](iyam) [let-give](deyāt) [hand-support](hastāvalambanam)
 
 ## mukta-m0-p77-v1909
-[full](pūrṇa) [+](kumbha) [+](dharā) [pot-holder](pūrṇakumbhadharā) [goddess](pūrṇakumbhadharā)
+[full-pot-bearing](pūrṇakumbhadharā)
 
 ## mukta-m0-p77-v1910
-[by-whose](yat) [+](seka) [+](dānāt) [constantly](satataṃ) [full](pūrṇa) [+](kumbha) [+](dharā) [+](iti) [she](sā)
+[by-whose-libation](yatsekadānāt) [always](satataṃ) [full-pot-bearing](pūrṇakumbhadharā) [thus](iti) [she](sā)
 
 ## mukta-m0-p77-v1911
-[page](p.) [234](234)) [supporter](dharā) [goddess](dharā)
+[earth](dharā)
 
 ## mukta-m0-p77-v1912
-[shines](vibhāti) [she](sā) [+](iyaṃ) [called](kathitā) [supporter](dharā) [+](iti)
+[shines](vibhāti) [this](seyam) [called](kathitā) [earth](dhareti)
 
 ## mukta-m0-p77-v1913
-[fearless](a) [+](bhīruḥ) [one](abhīruḥ) [goddess](abhīruḥ)
+[fearless](abhīruḥ)
 
 ## mukta-m0-p77-v1914
-[she](sā) [+](abhīruḥ) [+](asya) [may-remove](haratāṃ) [indeed](vata) [fearful](bhīru) [+](bhāvam) [state](bhīrubhāvam)
+[she-fearless](sābhīruḥ) [his](asya) [let-remove](haratāṃ) [indeed](vata) [fear-state](bhīrubhāvam)
 
 ## mukta-m0-p77-v1915
-[bhairavī](bhairavī) [terrible-goddess](bhairavī) [deity](bhairavī) [invoked](bhairavī)
+[terrific-goddess](bhairavī)
 
 ## mukta-m0-p77-v1916
-[loud-laughter](aṭṭahāsa) [+](catura) [+](āsya) [+](danturā) [bhairavī](bhairavī) [may-remove](haratu) [enemy-born](vairijaṃ) [fear](daram)
+[loud-laugh-four-faced-toothed](aṭṭahāsacaturāsyadanturā) [terrific-goddess](bhairavī) [let-remove](haratu) [enemy-born](vairijaṃ) [fear](daram)
 
 ## mukta-m0-p77-v1917
-[terrible](bhīmā) [fierce-goddess](bhīmā) [deity](bhīmā) [invoked](bhīmā)
+[terrible](bhīmā)
 
 ## mukta-m0-p77-v1918
-[terrible](bhīmā) [+](astu) [terrible-one's](bhīma) [+](dayitā) [upon-me](mayi) [gentle](saumya) [+](dṛṣṭiḥ) [gaze](saumyadṛṣṭiḥ)
+[terrible-let-be](bhīmāstu) [terrible-beloved](bhīmadayitā) [to-me](mayi) [gentle-gaze](saumyadṛṣṭiḥ)
 
 ## mukta-m0-p77-v1919
-[timid](bhīrā) [fearful-goddess](bhīrā) [deity](bhīrā) [invoked](bhīrā)
+[fearful-one](bhīrā)
 
 ## mukta-m0-p77-v1920
-[timid](bhīrā) [+](asti) [she](sā) [herself](svayam) [+](aho) [holding](dhṛta) [+](sīra) [+](śastrā) [plough-weapon](sīraśastrā)
+[fearful-one-is](bhīrāsti) [she](sā) [herself-indeed](svayamaho) [holding-spear-weapon](dhṛtasīraśastrā)
 
 ## mukta-m0-p77-v1921
-[tripura](tripura) [+](bhairavī) [goddess](tripurabhairavī) [deity](tripurabhairavī)
+[tripura-terrific-goddess](tripurabhairavī)
 
 ## mukta-m0-p77-v1922
-[in-presence](saṃnidhau) [+](alaka) [+](śṛṅkhala) [+](ujjvalā) [goddess](devatā) [tripura](tripura) [+](bhairavī) [+](iha) [of-us](naḥ)
+[shining-chain-garland](saṃnidhāvalakaśṛṅkhalojjvalā) [deity](devatā) [tripura-terrific-goddess](tripurabhairavī) [here](ha) [to-us](naḥ)
 
 ## mukta-m0-p77-v1923
-[great](mahā) [+](aruṇḍā) [goddess](mahāruṇḍā) [deity](mahāruṇḍā)
+[great-skull-goddess](mahāruṇḍā)
 
 ## mukta-m0-p77-v1924
-[dancing](nṛtyantī) [and](ca) [herself](svayaṃ) [some](kācit) [great](mahā) [+](aruṇḍā) [victorious-is](jayati) [+](asau)
+[dancing](nṛtyantī) [and](ca) [herself](svayaṃ) [some](kācit) [great-skull-goddess](mahāruṇḍā) [conquers](jayatyasau)
 
 ## mukta-m0-p77-v1925
-[raudrī](raudrī) [fierce-goddess](raudrī) [deity](raudrī) [invoked](raudrī)
+[fierce](raudrī)

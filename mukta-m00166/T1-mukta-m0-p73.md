@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p73-v1801
-[page](p.) [222](222)) [skillful](dakṣā)
+[dakṣā](dakṣā)
 
 ## mukta-m0-p73-v1802
-[skillful](dakṣā) [other-than-that](tadanyā) [which](katamā) [that](tat) [exists](asti)
+[dakṣā](dakṣā) [tadanyā](tadanyā) [katamā](katamā) [tadasti](tadasti)
 
 ## mukta-m0-p73-v1803
-[Dakṣa-born](dakṣa+jā)
+[dakṣajā](dakṣajā)
 
 ## mukta-m0-p73-v1804
-[not](na) [indeed](tu) [from-whom](yasmāt) [therefore](tataḥ) [truth](satyaṃ) [Dakṣa-born](dakṣa+jā) [you-are](asi) [world-mother](jagat+prasūḥ)
+[na](na) [tu](tu) [yasmāt](yasmāt) [tataḥ](tataḥ) [satyaṃ](satyaṃ) [dakṣajāsi](dakṣajāsi) [jagatprasūḥ](jagatprasūḥ)
 
 ## mukta-m0-p73-v1805
-[crore-formed](koṭi+rūpiṇī)
+[koṭirūpiṇī](koṭirūpiṇī)
 
 ## mukta-m0-p73-v1806
-[crore-form-ness](koṭi+rūpitvam) [having-attained](āptaḥ) [being](san) [one](ekaḥ) [I-am](asmi) [even-today](adya+api) [certainly](niścitam)
+[koṭirūpitvamāptaḥ](koṭirūpitvamāptaḥ) [sanneko'smyadyāpi](sanneko'smyadyāpi) [niścitam](niścitam)
 
 ## mukta-m0-p73-v1807
-[sacrifice](kratuḥ)
+[kratuḥ](kratuḥ)
 
 ## mukta-m0-p73-v1808
-[became](abhūt) [preparation-girdle](sambhāra+nīvī) [also](api) [of-sacrifices](kratūnām) [also](api) [she](sā) [sacrifice](kratuḥ)
+[abhūt](abhūt) [sambhāranīvyāpi](sambhāranīvyāpi) [kratūnāmapi](kratūnāmapi) [sā](sā) [kratuḥ](kratuḥ)
 
 ## mukta-m0-p73-v1809
-[Kātyāyanī](kātyāyanī)
+[kātyāyanī](kātyāyanī)
 
 ## mukta-m0-p73-v1810
-[Kātyāyanī](kātyāyanī) [may-protect](pātu) [from-death-accomplishment](kṛtānta+siddhāt)
+[kātyāyanī](kātyāyanī) [pātu](pātu) [kṛtāntasiddhāt](kṛtāntasiddhāt)
 
 ## mukta-m0-p73-v1811
-[page](p.) [223](223)) [pure](svacchā)
+[svacchā](svacchā)
 
 ## mukta-m0-p73-v1812
-[pure](svacchā) [worthless-ego-remover](tuccha+ahantva+hartrī) [of-you](tava) [may-be](astu)
+[svacchā](svacchā) [tucchāhantvahartrī](tucchāhantvahartrī) [tavāstu](tavāstu)
 
 ## mukta-m0-p73-v1813
-[free-willed](svacchandā)
+[svacchandā](svacchandā)
 
 ## mukta-m0-p73-v1814
-[free-willed](svacchandā) [may-be](syāt) [not-by-self-non-duality-knowable](na+ātmanā+advaita+gamyā)
+[svacchandā](svacchandā) [syā](syā) [nātmanādvaitagamyā](nātmanādvaitagamyā)
 
 ## mukta-m0-p73-v1815
-[poet-dear](kavi+priyā)
+[kavipriyā](kavipriyā)
 
 ## mukta-m0-p73-v1816
-[renowned](prathitaṃ) [who](yaḥ) [indeed](hi) [poet-dear-beloved](kavi+priyā+priyaḥ) [may-be](syāt)
+[prathitaṃ](prathitaṃ) [yo](yo) [hi](hi) [kavipriyāpriyaḥ](kavipriyāpriyaḥ) [syāt](syāt)
 
 ## mukta-m0-p73-v1817
-[true-scripture](satya+āgamā)
+[satyāgamā](satyāgamā)
 
 ## mukta-m0-p73-v1818
-[going-and-coming](gamā+agamaṃ) [without-error](nirbhramam) [you-spread](ātanoṣi)
+[gamā'gamaṃ](gamā'gamaṃ) [nirbhramamātanoṣi](nirbhramamātanoṣi)
 
 ## mukta-m0-p73-v1819
-[page](p.) [224](224)) [external](bahiḥ+sthā)
+[bahiḥsthā](bahiḥsthā)
 
 ## mukta-m0-p73-v1820
-[all-one-stream-flow](sarva+eka+dhārā+prasarā) [external](bahiḥ+sthā)
+[sarvaikadhārāprasarā](sarvaikadhārāprasarā) [bahiḥsthā](bahiḥsthā)
 
 ## mukta-m0-p73-v1821
-[poetry-power](kāvya+śaktiḥ)
+[kāvyaśaktiḥ](kāvyaśaktiḥ)
 
 ## mukta-m0-p73-v1822
-[as-long-as](yāvat) [not](na) [this](eṣā) [shines](vilasati) [in-own](nije) [mind-sky](citta+khe) [poetry-power](kāvya+śaktiḥ)
+[yāvannaiṣā](yāvannaiṣā) [vilasati](vilasati) [nije](nije) [cittakhe](cittakhe) [kāvyaśaktiḥ](kāvyaśaktiḥ)
 
 ## mukta-m0-p73-v1823
-[poet-hood-giver](kavitva+dā)
+[kavitvadā](kavitvadā)
 
 ## mukta-m0-p73-v1824
-[having-heard](śrutvā) [disheartened](amanāḥ) [may-be](syāt) [good-minded-group](sumanaḥ+gaṇaḥ) [even](api)
+[cchrutvāmanāḥ](cchrutvāmanāḥ) [syāt](syāt) [sumanogaṇo'pi](sumanogaṇo'pi)
 
 ## mukta-m0-p73-v1825
-[Menā-daughter](menā+putrī)
+[menāputrī](menāputrī)

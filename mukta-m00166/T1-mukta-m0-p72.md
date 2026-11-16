@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p72-v1776
-[yoga-band](yoga)[+wearer](paṭṭadharā) [having-become](bhūtā) [wonderful](citraṃ) [queen](yogeśvarī)[+of-lords](śvarī)
+[yoga-band-possessor](yogapaṭṭadharā) [being](bhūtā) [wonder](citraṃ) [yoga-goddess+lord](yogeśvarīśvarī)
 
 ## mukta-m0-p72-v1777
-[liberated](muktā) [pearl](muktā) [released-one](muktā) [free](muktā)
+[liberated-one](muktā)
 
 ## mukta-m0-p72-v1778
-[lotus](padma)[+leaf](patraṃ) [triumphs](jayati)[+this](eṣā) [pearl](muktā) [desireless](niḥspṛha)[+desire](saṃspṛhā)
+[lotus-leaf](padmapatraṃ) [conquers](jayatyeṣā) [liberated-one](muktā) [desireless-desiring](niḥspṛhasaṃspṛhā)
 
 ## mukta-m0-p72-v1779
-[of-the-liberated](muktānāṃ) [supreme](paramā) [goal](gatiḥ) [state](gatiḥ)
+[of-liberated-ones](muktānāṃ) [supreme](paramā) [goal](gatiḥ)
 
 ## mukta-m0-p72-v1780
-[which](yā)[+having-gone](magatva)[+indeed](eva) [anywhere](kutrāpi) [obtain](prāpnuvanti) [the-wise](vicakṣaṇāḥ)
+[by-yama-going](yāmagatvaiva) [somewhere](kutrāpi) [attain](prāpnuvanti) [discerning-ones](vicakṣaṇāḥ)
 
 ## mukta-m0-p72-v1781
-[narasimhi](nārasiṃhī) [lioness-goddess](nārasiṃhī) [man-lioness](nārasiṃhī) [deity](nārasiṃhī)
+[narasimhi](nārasiṃhī)
 
 ## mukta-m0-p72-v1782
-[opponent](virodhi)[+and-worshipper](ārādhinau) [devotees](bhaktau) [narasimhi](nārasiṃhī)[+thus](iti) [she](sā) [auspicious-one](śivā)
+[opposing](virodhyārādhinau) [devotees](bhaktau) [narasimhi](nārasiṃhīti) [that](sā) [auspicious](śivā)
 
 ## mukta-m0-p72-v1783
-[good-birth](sujanmā) [noble-born](sujanmā) [well-born](sujanmā) [auspicious-birth](sujanmā)
+[good-born](sujanmā)
 
 ## mukta-m0-p72-v1784
-[everywhere](sarvatra) [that](tat) [you](tvaṃ) [renowned](prathitā) [of-good-birth](sujanmā)
+[everywhere](sarvatra) [that](tat) [you](tvaṃ) [famous](prathitā) [good-born](sujanmā)
 
 ## mukta-m0-p72-v1785
-[three-aims](trivarga)[+fruit](phala)[+giver](dāyinī) [bestower](dāyinī) [granting](dāyinī) [provider](dāyinī)
+[three-aims-fruit-giving](trivargaphaladāyinī)
 
 ## mukta-m0-p72-v1786
-[because](yat) [you](tvaṃ) [wonder](citraṃ) [great](mahat) [that](tat)[+indeed](tu) [of-the-liberated](muktānām)[+also](api) [which](yat)[+likewise](tathā)
+[that](yat) [you](tvaṃ) [wonder](citraṃ) [great](mahat) [that-indeed](tattu) [of-liberated-ones](muktānāmapi) [as](yattathā)
 
 ## mukta-m0-p72-v1787
-[dharma-giver](dharmadā) [righteousness-bestower](dharmadā) [law-giver](dharmadā) [virtue-giver](dharmadā)
+[righteousness-giving](dharmadā)
 
 ## mukta-m0-p72-v1788
-[of-all](sarvasya) [honored](mānyā) [indeed](kila) [dharma-giver](dharmadā)[+you-are](asi)
+[of-all](sarvasya) [honored](mānyā) [indeed](kila) [righteousness-giving](dharmadāsi)
 
 ## mukta-m0-p72-v1789
-[wealth-giver](dhanadā) [riches-bestower](dhanadā) [fortune-giver](dhanadā) [prosperity-giver](dhanadā)
+[wealth-giving](dhanadā)
 
 ## mukta-m0-p72-v1790
-[and-not](nnaca) [in-creation](sarga)[+etc.](ādiṣu) [which](yat) [very-difficult](sukaṣṭa)[+form](rūpam)
+[not](nnaca) [creation-etc](sargādiṣu) [what](yat) [very-difficult-form](sukaṣṭarūpam)
 
 ## mukta-m0-p72-v1791
-[desire-giver](kāmadā) [wish-bestower](kāmadā) [love-giver](kāmadā) [pleasure-giver](kāmadā)
+[desire-giving](kāmadā)
 
 ## mukta-m0-p72-v1792
-[half-body](ardhāṅga)[+shambhu](śambhur)[+because](yat) [you](tvaṃ) [and](ca) [twofold](dvidhā) [triumph](jayasi) [desire-giver](kāmadā)
+[half-bodied-shambhu](ardhāṅgaśambhuryat) [you](tvaṃ) [ca](ca) [twofold](dvidhā) [conquer](jayasi) [desire-giving](kāmadā)
 
 ## mukta-m0-p72-v1793
-[liberation-giver](mokṣadā) [release-bestower](mokṣadā) [salvation-giver](mokṣadā) [emancipation-giver](mokṣadā)
+[liberation-giving](mokṣadā)
 
 ## mukta-m0-p72-v1794
-[then](tat) [where](kva) [he](saḥ)[+I-am](asmi) [always](satata)[+supreme-authority](ādhikāravān)
+[that](tat) [where](kva) [so](so) [I](asmi) [constant-authority-possessing](satatādhikāravān)
 
 ## mukta-m0-p72-v1795
-[radiance](dyutiḥ) [splendor](dyutiḥ) [light](dyutiḥ) [brilliance](dyutiḥ)
+[splendor](dyutiḥ)
 
 ## mukta-m0-p72-v1796
-[desirable](kāmyāḥ) [how](kathaṃ) [if-not](cenna) [compassionate](dayākarī) [radiance](dyutiḥ)
+[desirable](kāmyāḥ) [how](kathaṃ) [if-not](cenna) [compassionate](dayākarī) [splendor](dyutiḥ)
 
 ## mukta-m0-p72-v1797
-[witness](sākṣiṇī) [observer](sākṣiṇī) [seer](sākṣiṇī) [testifier](sākṣiṇī)
+[witness](sākṣiṇī)
 
 ## mukta-m0-p72-v1798
-[directly](sākṣāt)[+indescribable](nirākhyā) [indeed](kila) [witness](sākṣiṇī) [she](sā)
+[directly](sākṣānnirākhyā) [indeed](kila) [witness](sākṣiṇī) [that](sā)
 
 ## mukta-m0-p72-v1799
-[night-giver](kṣaṇadā) [moment-giver](kṣaṇadā) [time-giver](kṣaṇadā) [night](kṣaṇadā)
+[moment-giving](kṣaṇadā)
 
 ## mukta-m0-p72-v1800
-[compassionate](kṛpākarī) [not](na) [night-giver](kṣaṇadā) [auspicious-one](śivā) [may-you-be](syāḥ)
+[compassionate](kṛpākarī) [not](na) [moment-giving](kṣaṇadā) [auspicious](śivā) [you-would-be](syāḥ)

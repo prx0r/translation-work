@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p78-v1926
-[how](kathaṃ) [indeed](nu) [sung](gītā) [supreme+goddess](parameśvarīyaṃ) [fierce](raudrīti) [by-name](nāmnā) [supremely+gentle+natured](parasaumya+bhāvā)
+[how](kathaṃ) [indeed](nu) [sung](gītā) [supreme+goddess](parameśvarīyaṃ) [fierce](raudrī) [thus](iti) [by+name](nāmnā) [supremely+gentle+nature](parasaumyabhāvā)
 
 ## mukta-m0-p78-v1927
-[worshipped](pūjitā) [by-great](mahā) [Bhairava](bhairava) [worshipped-by-great-Bhairava](mahābhairava+pūjitā)
+[great+bhairava+worshipped](mahābhairavapūjitā)
 
 ## mukta-m0-p78-v1928
-[great+peace](mahā+śānti) [giver](pradā) [may-she-be](bhūyān) [worshipped](pūjitā) [by-great](mahā) [Bhairava](bhairava) [worshipped-by-great-Bhairava](mahābhairava+pūjitā)
+[great+peace+giving](mahāśāntipradā) [may+she+be](bhūyāt) [great+bhairava+worshipped](mahābhairavapūjitā)
 
 ## mukta-m0-p78-v1929
-[skull-less](nir) [head](muṇḍā) [Nirmuṇḍā](nirmuṇḍā)
+[shaven](nirmuṇḍā)
 
 ## mukta-m0-p78-v1930
-[Nirmuṇḍā](nirmuṇḍā) [me](māṃ) [crooked](vakra) [faced](tuṇḍaṃ) [as](yathā) [may-protect](avyāt)
+[shaven](nirmuṇḍā) [me](māṃ) [crooked+tusk](vakratuṇḍaṃ) [as+fitting](yathāvyāt)
 
 ## mukta-m0-p78-v1931
-[p.](p.) [236)](236)) [she-elephant](hastinī) [Hastinī](hastinī)
+[elephant](hastinī)
 
 ## mukta-m0-p78-v1932
-[may-she-be](bhūyād) [elephant](hasti) [shining](lasat) [good](su) [head](mastaka) [surface](talā) [welfare](svasti) [giver](pradā) [she-elephant](hastinī)
+[may+she+be](bhūyāt) [elephant+shining+excellent+head+surface](hastilasatsumastakatalā) [well-being+giving](svastipradā) [elephant](hastinī)
 
 ## mukta-m0-p78-v1933
-[fierce](caṇḍā) [Caṇḍā](caṇḍā) [fierce-one](caṇḍā) [goddess](caṇḍā)
+[fierce](caṇḍā)
 
 ## mukta-m0-p78-v1934
-[by-destruction](nāśena) [what](kiṃ) [or](vā) [meaning](artha) [contrary](viloma) [by-name](nāmnā)
+[destruction](nāśena) [what+or](kiṃvā) [meaning+reversal+name](arthavilomanāmnā)
 
 ## mukta-m0-p78-v1935
-[terrible](karāla) [teeth](daśana) [faced](ānanā) [terrible-toothed-faced](karāla+daśana+ānanā)
+[terrible+toothed+face](karāladaśanānanā)
 
 ## mukta-m0-p78-v1936
-[ancestors](pitṛ) [forest](kānana) [going](gā) [may-she-be-victorious](jīyāt) [terrible](karāla) [teeth](daśana) [faced](ānanā)
+[ancestral+grove+dwelling](pitṛkānanagā) [may+she+conquer](jīyāt) [terrible+toothed+face](karāladaśanānanā)
 
 ## mukta-m0-p78-v1937
-[terrible](karālā) [Karālā](karālā) [terrible-one](karālā) [goddess](karālā)
+[terrible](karālā)
 
 ## mukta-m0-p78-v1938
-[trident-bearer](śūlī) [is-victorious](jayati) [exceedingly](atitarām) [here](iha) [she](sā) [terrible](karālā)
+[trident+bearer](śūlī) [conquers](jayati) [exceedingly](atitarām) [here](iha) [she](sā) [terrible](karālā)
 
 ## mukta-m0-p78-v1939
-[very-terrible](vikarālā) [Vikarālā](vikarālā) [very-terrible-one](vikarālā) [goddess](vikarālā)
+[very+terrible](vikarālā)
 
 ## mukta-m0-p78-v1940
-[fear](bhaya) [cause](hetur) [enough](alaṃ) [dissolution](layaṃ) [resorting-to](śrayantī) [very-terrible](vikarālā) [Kali-born](kali+jaṃ) [impurity](malaṃ) [may-she-remove](hara) [of-us](asya)
+[fear+cause](bhayahetu) [enough](alaṃ) [dissolution](layaṃ) [resorting](śrayantī) [very+terrible](vikarālā) [kali+born](kalijaṃ) [impurity](malaṃ) [removing](harāsya)
 
 ## mukta-m0-p78-v1941
-[p.](p.) [237)](237)) [terrible](ghora) [rumbling](ghurghura) [sounding](nādinī) [terrible-rumbling-sounding](ghora+ghurghura+nādinī)
+[terrible+growling+sound+making](ghoraghurghuranādinī)
 
 ## mukta-m0-p78-v1942
-[thus](iti) [as-if](iva) [from-anger](roṣato) [goddess](devī) [terrible](ghora) [rumbling](ghurghura) [sounding](nādinī)
+[thus](itīva) [in+anger](roṣato) [goddess](devī) [terrible+growling+sound+making](ghoraghurghuranādinī)
 
 ## mukta-m0-p78-v1943
-[red](rakta) [toothed](dantā) [Raktadantā](raktadantā) [red-toothed-one](rakta+dantā)
+[red+toothed](raktadantā)
 
 ## mukta-m0-p78-v1944
-[red-toothed](rakta+dantā) [even](api) [she](sā) [having-become](bhūtā) [as-if-by-rivalry](spardhayā+iva) [for-that-purpose](tad+arthitā)
+[red+toothed](raktadantā) [also](api) [she](sā) [became](bhūtā) [in+rivalry](spardhayā) [eva](eva) [that+desired](tadarthitā)
 
 ## mukta-m0-p78-v1945
-[upward](ūrdhva) [haired](keśī) [Ūrdhvakeśī](ūrdhvakeśī) [upward-haired-one](ūrdhva+keśī)
+[upward+haired](ūrdhvakeśī)
 
 ## mukta-m0-p78-v1946
-[mutually](rmithaḥ) [hair](keśa) [prosperity](bhūti) [giver](pradā) [may-she-be](astu) [upward](ūrdhva) [haired](keśī)
+[mutually](mithaḥ) [hair+ash+giving](keśabhūtipradā) [may+they+be](astu) [upward+haired](ūrdhvakeśī)
 
 ## mukta-m0-p78-v1947
-[bandhūka](bandhūka) [flower](kusuma) [red](aruṇā) [red-as-bandhūka-flower](bandhūka+kusuma+aruṇā)
+[bandhūka+flower+reddish](bandhūkakusumāruṇā)
 
 ## mukta-m0-p78-v1948
-[night](kṣaṇadā) [may-she-be](astu) [of-worldly](bhava) [delusion](bhrānter) [bandhūka](bandhūka) [flower](kusuma) [red](aruṇā)
+[night](kṣaṇadā) [may+she+be](astu) [world+delusion](bhavabhrānteḥ) [bandhūka+flower+reddish](bandhūkakusumāruṇā)
 
 ## mukta-m0-p78-v1949
-[Kādambarī](kādambarī) [intoxication](kādambarī) [Kādambarī-goddess](kādambarī) [she](kādambarī)
+[kādambarī](kādambarī)
 
 ## mukta-m0-p78-v1950
-[Kādambarī](kādambarī) [she](sā) [in-object](viṣaye) [inner](antarasthaṃ) [joy](harṣaṃ) [own](svakīyaṃ) [may-manifest](prakaṭī+karotu)
+[kādambarī](kādambarī) [she](sā) [in+objects](viṣaye) [within](antarasthaṃ) [joy](harṣaṃ) [own](svakīyaṃ) [may+she+reveal](prakaṭīkarotu)
