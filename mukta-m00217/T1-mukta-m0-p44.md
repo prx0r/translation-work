@@ -14,7 +14,7 @@
 [offering+vessels](balipātrāṇi) [five](pañca) [should-be](syuḥ) [of-blood](rudhirasya) [one+vessel](ekapātrakam)
 
 ## mukta-m0-p44-v1080
-[one](ekaṃ) [of-cooked](pakvasya) [of-meat](māṃsasya)
+[one](ekaṃ) [of-cooked](pakvasya) [meat](māṃsasya)
 
 ## mukta-m0-p44-v1081
 [to-be-placed](sthāpanīyāni) [with-effort](yatnena) [if](yadi) [one-desires](icchet) [accomplishment](siddhim) [of-oneself](ātmanaḥ)
@@ -56,19 +56,19 @@
 [of-fire](vahneḥ) [ten](daśa) [digits](kalāḥ) [there](tatra) [clockwise](prādakṣiṇyena) [one-should-worship](pūjayet)
 
 ## mukta-m0-p44-v1094
-[from-that](tasmāt) [according-to-rule](vidhivat) [support](ādhāraṃ) [one-should-arrange](kalpayet) [O-lady-of-kula](kulanāyike)
+[therefore](tasmād) [according-to-rule](vidhivat) [support](ādhāraṃ) [one-should-arrange](kalpayet) [O-lady-of-the-family](kulanāyike)
 
 ## mukta-m0-p44-v1095
-[or](athavā) [circular+form](vartulākāraṃ) [one-should-make](kuryāt) [O-goddess](devi) [charming](manoharam)
+[or](athavā) [circular+form](vartulākāraṃ) [one-should-make](kuryād) [O-goddess](devi) [charming](manoharam)
 
 ## mukta-m0-p44-v1096
 [suśrīḥ](suśrīḥ) [svarūpā](svarūpā) [kapilā](kapilā) [havyakavyavahe](havyakavyavahe) [likewise](tathā)
 
 ## mukta-m0-p44-v1097
-[conch+measure](śaṅkhamānaṃ) [indeed](tu) [span](prādeśaṃ) [four+finger](caturaṃgulam) [raised](ucchritam)
+[conch+measure](śaṅkhamānaṃ) [indeed](tu) [span](prādeśaṃ) [four+finger](caturaṃgulam) [elevated](ucchritam)
 
 ## mukta-m0-p44-v1098
-[ahamarthapradāya](ahamarthapradāya) [thus](iti) [one-should-say](vadeta) [twelve](dvādaśa) [thus](iti) [also](api)
+[ahamarthapradāya](ahamarthapradāya) [thus](iti) [one-should-say](vadet) [twelve](dvādaśa) [thus](iti) [also](api)
 
 ## mukta-m0-p44-v1099
 [with-this](anena) [conch](śaṅkham) [having-worshipped](abhyarcya) [digits](kalāḥ) [of-sun](sūryasya) [one-should-worship](pūjayet)
