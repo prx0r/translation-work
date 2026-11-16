@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p96-v2376
-[root-limbs](mūlo'ṅgāni) [khaṣotka](khaṣotkaḥ) [and](ca) [thus](tathā) [with-ten-stars](sadaśatārakā)
+[root-mantra](mūlo) [and-limbs](aṅgāni) [khaṣotka-mantra](khaṣotkaś) [and](ca) [likewise](tathā) [with-sadā](sadā) [and-with-tāraka](śatārakā)
 
 ## mukta-m0-p96-v2377
-[ten-praṇava-gāyatrī](daśapraṇavagāyatryāḥ) [of-reality-number-words](tattvasaṃkhyāpadāni) [indeed](tu)
+[of-ten-praṇava-gāyatrī](daśapraṇava+gāyatryās) [of-tattva-number](tattva+saṃkhyā) [syllables](padāni) [indeed](tu)
 
 ## mukta-m0-p96-v2378
-[having-visualized-thus](vibhāvyaivaṃ) [in-that-form](tu) [in-heart](hṛdi) [haṃsa-with-star](haṃsaṃ) [with-star](satārakam)
+[having-visualized](vibhāvya) [thus](evaṃ) [indeed](tu) [in-that-form](tat+mūrtau) [in-heart](hṛdi) [haṃsa](haṃsaṃ) [with-tāraka](sa+tārakam)
 
 ## mukta-m0-p96-v2379
-[of-chariot](cārasya) [ku](ku) [in-own-kunda-fire](svakuṇḍe'gnau) [with-these](amībhiḥ) [would-offer](juhuyāt) [ghee](ghṛtam)
+[of-cāra](cārasya) [ku](ku) [in-own-fire-pit](sva+kuṇḍe) [in-fire](agnau) [with-these](amībhir) [one-should-offer](juhuyād) [ghee](ghṛtam)
 
 ## mukta-m0-p96-v2380
-[always](nityaḥ) [ca](ca) [then](tataḥ) [would-be](syāt) [api](api) [without-flow](niścaraḥ)
+[constant](nityaś) [and](ca) [then](tataḥ) [may-be](syād) [also](api) [night-wanderer](niścaraḥ)
 
 ## mukta-m0-p96-v2381
-[with-these](ebhiḥ) [having-offered](hutvā) [ghee](ājyam) [with-these](ebhiḥ) [deity](devaṃ) [then](tataḥ) [would-touch](spṛśet)
+[they-may-be](syur) [with-these](ebhir) [having-offered-ghee](hutvā+ājyam) [with-these](ebhir) [the-deity](devaṃ) [then](tataḥ) [one-should-touch](spṛśet)
 
 ## mukta-m0-p96-v2382
-[root-limb-khaṣotka-etc](aṅgamūlakhaṣotkādyaiḥ) [mantras](mantraiḥ) [vyāhṛtis](vyāhṛtibhiḥ) [thus](tathā)
+[with-limb-root-khaṣotka-etc.](aṅga+mūla+khaṣotka+ādyair) [with-mantras](mantrair) [with-vyāhṛtis](vyāhṛtibhis) [likewise](tathā)
 
 ## mukta-m0-p96-v2383
-[would-bathe](snapayet) [as-before](prāgvat) [after-offering](nivedyāntaṃ) [would-worship](yajet) [api](api)
+[one-should-bathe](snapayet) [as-before](prāk+vat) [ending-with-offering](nivedya+antaṃ) [one-should-worship](yajed) [also](api)
 
 ## mukta-m0-p96-v2384
-[having-given-bhūta-bali](bhūtabaliṃ) [dattvā] [as-before](yathāpūrvaṃ) [three-days](dinatrayam)
+[elemental-offering](bhūta+balim) [having-given](dattvā) [as-before](yathā+pūrvaṃ) [for-three-days](dina+trayam)
 
 ## mukta-m0-p96-v2385
-[with-gāyatrī](gāyatryā) [separately](pṛthak) [one-hundred-eight](aṣṭottaraṃ) [hundred](śatam)
+[with-gāyatrī](gāyatryā) [separately](pṛthag) [eight-more](aṣṭa+uttaraṃ) [hundred](śatam)
 
 ## mukta-m0-p96-v2386
-[* * * * * * * *](*) [then](tato) [fires](agnīn) [in-own-heart-lotus](svahṛdambuje)
+[lacuna](*) [lacuna](*) [lacuna](*) [lacuna](*) [lacuna](*) [lacuna](*) [lacuna](*) [lacuna](*) [then](tato) [fires](agnīn) [in-own-heart-lotus](sva+hṛd+ambuje)
 
 ## mukta-m0-p96-v2387
-[would-worship](yajet) [three-eyed](trinetraṃ) [tawny-eyed](piṅgākṣaṃ) [red](raktaṃ) [red-garmented-etc](raktāmbarādikam)
+[one-should-worship](yajet) [three-eyed](tri+netraṃ) [tawny-eyed](piṅga+akṣaṃ) [red](raktaṃ) [with-red-garment-etc.](rakta+ambara+ādikam)
 
 ## mukta-m0-p96-v2388
-[with-pots](kalaśaiḥ) [deity](devam) [having-abhiṣeka](abhiṣicya) [from-stated-path](uktamārgataḥ)
+[with-pitchers](kalaśair) [the-deity](devam) [having-bathed](abhiṣicya) [according-to-prescribed-method](ukta+mārga+taḥ)
 
 ## mukta-m0-p96-v2389
-[by-eternal-rite](nityavidhānena) [according-to-prosperity](vibhavānuguṇena) [tu](tu)
+[by-daily-rite](nitya+vidhānena) [according-to-means](vibhava+anuguṇena) [indeed](tu)
 
 ## mukta-m0-p96-v2390
-[worship](pūjāṃ) [would-conduct](pravartayet) [properly](samyak) [three-sandhyā](trisandhyaṃ) [with-upacāra](sopacārakam)
+[worship](pūjāṃ) [one-should-perform](pravartayet) [properly](samyak) [at-three-junctures](tri+sandhyaṃ) [with-attendants](sa+upacārakam)
 
 ## mukta-m0-p96-v2391
-[in-eternal-festival](nityotsave) [tu](tu) [of-sun](sūryasya) [at-gate](dvārasthau) [caṇḍa-piṅgala](caṇḍapiṅgalau)
+[in-daily-festival](nitya+utsave) [indeed](tu) [of-sun](sūryasya) [door-guardians](dvāra+sthau) [Caṇḍa-and-Piṅgala](caṇḍa+piṅgalau)
 
 ## mukta-m0-p96-v2392
-[mothers](mātaraḥ) [ca](ca) [eva](eva) [durgā](durgā) [ca](ca) [tejas](tejaḥ) [caṇḍa](caṇḍaḥ) [ca](ca) [in-directions](diggatāḥ)
+[Mothers](mātaraś) [and](ca) [indeed](eva) [Durgā](durgā) [and](ca) [Tejas](tejaś) [and](ca) [Caṇḍa](caṇḍaś) [and](ca) [direction-situated](dik+gatāḥ)
 
 ## mukta-m0-p96-v2393
-[would-be-worshipped](pūjyāḥ) [syuḥ](syuḥ) [gāyatrī-uṣṇih-anuṣṭubh](gāyatryuṣṇiganuṣṭubhaḥ)
+[to-be-worshipped](pūjyāḥ) [they-should-be](syur) [with-gāyatrī-uṣṇih-anuṣṭubh](gāyatry+uṣṇig+anuṣṭubhaḥ)
 
 ## mukta-m0-p96-v2394
-[at-gate](gopuradvāḥsthau) [wings](pakṣau) [white-black](śuklāsitau) [would-worship](yajet)
+[at-tower-gate](gopura+dvāḥ) [standing](sthau) [two-wings](pakṣau) [white-and-dark](śukla+asitau) [one-should-worship](yajet)
 
 ## mukta-m0-p96-v2395
-[bali](baliṃ) [having-given](dattvā) [from-bali-pīṭha](balipīṭhāt) [outside](bahiḥ) [standing](sthitaḥ) [kh: tiḥ (?)](tiḥ)
+[offering](balim) [having-given](dattvā) [from-offering-pedestal](bali+pīṭhād) [outside](bahiḥ) [standing](sthitaḥ) [variant-reading](kh:) [tiḥ](tiḥ) [(?)]((?))
 
 ## mukta-m0-p96-v2396
-[having-pervaded](vyāpya) [stand](tiṣṭhanti) [bali-desiring](balikāṅkṣiṇaḥ)
+[pervading](vyāpya) [they-stand](tiṣṭhanti) [offering-desiring](bali+kāṅkṣiṇaḥ)
 
 ## mukta-m0-p96-v2397
-[then](tato) [from-twelve-signs](dvādaśarāśibhyaḥ) [according-to-place](yathāsthānaṃ) [clockwise](pradakṣiṇam)
+[then](tato) [to-twelve-zodiac-signs](dvādaśa+rāśibhyo) [in-proper-place](yathā+sthānaṃ) [clockwise](pradakṣiṇam)
 
 ## mukta-m0-p96-v2398
-[from-madhu-mādhava-śukra](madhumādhavaśukrebhyaḥ) [to-pure](śucaye) [to-nabhas](nabhase) [thus](tathā)
+[to-Madhu-Mādhava-Śukra](madhu+mādhava+śukrebhyaḥ) [to-Śuci](śucaye) [to-Nabhas](nabhase) [likewise](tathā)
 
 ## mukta-m0-p96-v2399
-[to-tapasya](tapasyāya) [bali](baliṃ) [would-cast](kṣipet)
+[to-Tapasya](tapasyāya) [offering](balim) [one-should-cast](kṣipet)
 
 ## mukta-m0-p96-v2400
-[of-gaṇas-eight](gaṇānāmaṣṭānāṃ) [own-named-gaṇa-count-end](svākhyāgaṇanamontakam)
+[of-groups](gaṇānām) [of-eight](aṣṭānāṃ) [ending-with-own-name-group-counting-om](sva+ākhyā+gaṇana+am+antakam)
