@@ -8,19 +8,35 @@
 "tokens": [
 {
 "surface": "niṣpāvaka",
-"quick_gloss": "flat-bean"
+"quick_gloss": "black-gram"
+},
+{
+"surface": "+",
+"quick_gloss": "+"
 },
 {
 "surface": "mahāvrīhi",
 "quick_gloss": "great-rice"
 },
 {
+"surface": "+",
+"quick_gloss": "+"
+},
+{
 "surface": "śyāmāka",
 "quick_gloss": "barnyard-millet"
 },
 {
+"surface": "+",
+"quick_gloss": "+"
+},
+{
 "surface": "aṇu",
-"quick_gloss": "fine-panic-seed"
+"quick_gloss": "fine-grain"
+},
+{
+"surface": "+",
+"quick_gloss": "+"
 },
 {
 "surface": "gavīthukaiḥ",
@@ -37,7 +53,7 @@
 "tokens": [
 {
 "surface": "nīvāraiḥ",
-"quick_gloss": "with-wild-rice"
+"quick_gloss": "wild-rice"
 },
 {
 "surface": "pūrayet",
@@ -62,27 +78,35 @@
 "tokens": [
 {
 "surface": "ṣebha",
-"quick_gloss": "ṣebha"
+"quick_gloss": "ṣebha-mountain"
 },
 {
-"surface": "giri",
-"quick_gloss": "mountain"
+"surface": "+",
+"quick_gloss": "+"
 },
 {
-"surface": "śṛṅgebhyaḥ",
-"quick_gloss": "from-peaks"
+"surface": "giriśṛṅgebhyaḥ",
+"quick_gloss": "mountain-peaks"
 },
 {
 "surface": "kulī(re?",
-"quick_gloss": "kulīra"
+"quick_gloss": "kulīra-field"
 },
 {
-"surface": "ra",
+"surface": "+",
+"quick_gloss": "+"
+},
+{
+"surface": "kṣetrayoḥ",
 "quick_gloss": "and-field"
 },
 {
+"surface": "+",
+"quick_gloss": "+"
+},
+{
 "surface": "mṛdaḥ",
-"quick_gloss": "clods-of-earth"
+"quick_gloss": "soils"
 }
 ]
 },
@@ -94,12 +118,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "varāha",
-"quick_gloss": "by-boar"
+"surface": "varāhakṛ(ṣṭai?ṣṭā",
+"quick_gloss": "boar-ploughed"
 },
 {
-"surface": "kṛ(ṣṭai?ṣṭā",
-"quick_gloss": "ploughed"
+"surface": "+",
+"quick_gloss": "+"
 },
 {
 "surface": "ca",
@@ -107,11 +131,11 @@
 },
 {
 "surface": "mṛdo",
-"quick_gloss": "clods-of-earth"
+"quick_gloss": "soils"
 },
 {
 "surface": "devagṛhasya",
-"quick_gloss": "of-temple"
+"quick_gloss": "temple"
 },
 {
 "surface": "ca",
@@ -129,6 +153,10 @@
 {
 "surface": "campakadvaya",
 "quick_gloss": "campaka-pair"
+},
+{
+"surface": "+",
+"quick_gloss": "+"
 },
 {
 "surface": "munmattatrayaṃ",
@@ -186,7 +214,11 @@
 },
 {
 "surface": "punnāga",
-"quick_gloss": "of-punnāga"
+"quick_gloss": "punnāga"
+},
+{
+"surface": "+",
+"quick_gloss": "+"
 },
 {
 "surface": "nāgayoḥ",
@@ -256,8 +288,12 @@
 "quick_gloss": "granthi"
 },
 {
-"surface": "nthi",
-"quick_gloss": "and-uśīra"
+"surface": "+",
+"quick_gloss": "+"
+},
+{
+"surface": "ruśīrakam",
+"quick_gloss": "uśīra"
 }
 ]
 },
@@ -270,23 +306,23 @@
 "tokens": [
 {
 "surface": "aruṇā",
-"quick_gloss": "aruṇa"
+"quick_gloss": "aruṇā"
 },
 {
-"surface": "agasti",
-"quick_gloss": "agasti"
+"surface": "+",
+"quick_gloss": "+"
 },
 {
-"surface": "kusuma",
-"quick_gloss": "flower"
+"surface": "agastikusuma",
+"quick_gloss": "agasti-flower"
 },
 {
-"surface": "māmra",
-"quick_gloss": "mango"
+"surface": "+",
+"quick_gloss": "+"
 },
 {
-"surface": "puṣpaṃ",
-"quick_gloss": "flower"
+"surface": "māmrapuṣpaṃ",
+"quick_gloss": "mango-flower"
 },
 {
 "surface": "ca",
@@ -308,6 +344,10 @@
 {
 "surface": "musalī",
 "quick_gloss": "musalī"
+},
+{
+"surface": "+",
+"quick_gloss": "+"
 },
 {
 "surface": "bhadre",
@@ -335,16 +375,24 @@
 "quick_gloss": "thus"
 },
 {
+"surface": "+",
+"quick_gloss": "+"
+},
+{
 "surface": "imāni",
 "quick_gloss": "these"
 },
 {
-"surface": "dvātriṃśad",
+"surface": "dvātriṃśat",
 "quick_gloss": "thirty-two"
 },
 {
+"surface": "+",
+"quick_gloss": "+"
+},
+{
 "surface": "adhikaṃ",
-"quick_gloss": "more-than"
+"quick_gloss": "plus"
 },
 {
 "surface": "śatam",
@@ -410,12 +458,12 @@
 "quick_gloss": "dūrvā"
 },
 {
-"surface": "asana",
-"quick_gloss": "asana"
+"surface": "+",
+"quick_gloss": "+"
 },
 {
-"surface": "prasūne",
-"quick_gloss": "two-flowers"
+"surface": "asanaprasūne",
+"quick_gloss": "asana-flower"
 },
 {
 "surface": "dve",
@@ -428,6 +476,10 @@
 {
 "surface": "tathā",
 "quick_gloss": "and"
+},
+{
+"surface": "+",
+"quick_gloss": "+"
 },
 {
 "surface": "arjakam",
@@ -459,8 +511,12 @@
 "quick_gloss": "and"
 },
 {
+"surface": "+",
+"quick_gloss": "+"
+},
+{
 "surface": "agarudvayam",
-"quick_gloss": "aguru-pair"
+"quick_gloss": "agarwood-pair"
 }
 ]
 },
@@ -476,20 +532,24 @@
 "quick_gloss": "caṣāla"
 },
 {
+"surface": "+",
+"quick_gloss": "+"
+},
+{
 "surface": "padmākṣau",
-"quick_gloss": "and-lotus-seed"
+"quick_gloss": "padmākṣa"
 },
 {
-"surface": "gandha",
-"quick_gloss": "fragrant"
+"surface": "gandhāmalaka",
+"quick_gloss": "fragrant-amalaka"
 },
 {
-"surface": "amalaka",
-"quick_gloss": "āmalaka"
+"surface": "+",
+"quick_gloss": "+"
 },
 {
 "surface": "gandhakāḥ",
-"quick_gloss": "and-sulphur"
+"quick_gloss": "and-gandhaka"
 }
 ]
 },
@@ -538,6 +598,10 @@
 "quick_gloss": "and"
 },
 {
+"surface": "+",
+"quick_gloss": "+"
+},
+{
 "surface": "abhrakatrayam",
 "quick_gloss": "mica-triad"
 }
@@ -555,20 +619,40 @@
 "quick_gloss": "coconut"
 },
 {
+"surface": "+",
+"quick_gloss": "+"
+},
+{
 "surface": "āmra",
 "quick_gloss": "mango"
+},
+{
+"surface": "+",
+"quick_gloss": "+"
 },
 {
 "surface": "panasa",
 "quick_gloss": "jackfruit"
 },
 {
+"surface": "+",
+"quick_gloss": "+"
+},
+{
 "surface": "rambhā",
 "quick_gloss": "plantain"
 },
 {
+"surface": "+",
+"quick_gloss": "+"
+},
+{
 "surface": "likuca",
 "quick_gloss": "likuca"
+},
+{
+"surface": "+",
+"quick_gloss": "+"
 },
 {
 "surface": "ḍāḍimāḥ",
@@ -596,12 +680,12 @@
 "quick_gloss": "orange"
 },
 {
-"surface": "āmalakī",
-"quick_gloss": "and-āmalakī"
+"surface": "+",
+"quick_gloss": "+"
 },
 {
-"surface": "phale",
-"quick_gloss": "fruits"
+"surface": "āmalakīphale",
+"quick_gloss": "amalakī-fruits"
 }
 ]
 },
@@ -617,8 +701,12 @@
 "quick_gloss": "sarja"
 },
 {
+"surface": "+",
+"quick_gloss": "+"
+},
+{
 "surface": "lodhrau",
-"quick_gloss": "and-lodhra"
+"quick_gloss": "lodhra"
 },
 {
 "surface": "ca",
@@ -629,8 +717,12 @@
 "quick_gloss": "rohitaka"
 },
 {
+"surface": "+",
+"quick_gloss": "+"
+},
+{
 "surface": "vikaṅkatau",
-"quick_gloss": "and-vikaṅkata"
+"quick_gloss": "vikaṅkata"
 }
 ]
 },
@@ -644,6 +736,10 @@
 {
 "surface": "sārāṇi",
 "quick_gloss": "essences"
+},
+{
+"surface": "+",
+"quick_gloss": "+"
 },
 {
 "surface": "eteṣāṃ",
@@ -679,24 +775,32 @@
 "quick_gloss": "turmeric"
 },
 {
+"surface": "+",
+"quick_gloss": "+"
+},
+{
 "surface": "yava",
 "quick_gloss": "barley"
+},
+{
+"surface": "+",
+"quick_gloss": "+"
 },
 {
 "surface": "godhūma",
 "quick_gloss": "wheat"
 },
 {
-"surface": "śālī",
-"quick_gloss": "rice"
+"surface": "+",
+"quick_gloss": "+"
 },
 {
-"surface": "cūrṇāni",
-"quick_gloss": "powders"
+"surface": "śālīcūrṇāni",
+"quick_gloss": "rice-powders"
 },
 {
 "surface": "bhasma",
-"quick_gloss": "ashes"
+"quick_gloss": "ash"
 },
 {
 "surface": "ca",
