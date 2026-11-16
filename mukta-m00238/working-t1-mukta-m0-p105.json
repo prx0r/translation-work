@@ -8,7 +8,7 @@
 "tokens": [
 {
 "surface": "mātāpitror",
-"quick_gloss": "obedient-to-mother+father"
+"quick_gloss": "mother+father"
 },
 {
 "surface": "vidheyaś",
@@ -24,7 +24,7 @@
 },
 {
 "surface": "kaulavodbhavaḥ",
-"quick_gloss": "born-in-noble-family"
+"quick_gloss": "born-in-good-family"
 }
 ]
 },
@@ -36,12 +36,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "taitulekaraṇejāto",
-"quick_gloss": "born-in-taitula-karaṇa"
+"surface": "taitulekaraṇe",
+"quick_gloss": "in-taitula-karaṇa"
 },
 {
-"surface": "mṛduvākpāṭhakaḥ",
-"quick_gloss": "soft-speech+reader"
+"surface": "jāto",
+"quick_gloss": "born"
+},
+{
+"surface": "mṛduvāk",
+"quick_gloss": "soft-spoken"
+},
+{
+"surface": "pāṭhakaḥ",
+"quick_gloss": "reader"
 },
 {
 "surface": "sukhī",
@@ -57,8 +65,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "garajekaraṇejāto",
-"quick_gloss": "born-in-garaja-karaṇa"
+"surface": "garajekaraṇe",
+"quick_gloss": "in-garaja-karaṇa"
+},
+{
+"surface": "jāto",
+"quick_gloss": "born"
 },
 {
 "surface": "jitaśatrur",
@@ -83,11 +95,11 @@
 },
 {
 "surface": "ti",
-"quick_gloss": "very"
+"quick_gloss": "and"
 },
 {
 "surface": "muṃḍaś",
-"quick_gloss": "shaven"
+"quick_gloss": "shaven-headed"
 },
 {
 "surface": "ca",
@@ -95,11 +107,11 @@
 },
 {
 "surface": "vaṇije",
-"quick_gloss": "in-vaṇija"
+"quick_gloss": "in-vaṇija-karaṇa"
 },
 {
 "surface": "karaṇe",
-"quick_gloss": "karaṇa"
+"quick_gloss": "in-karaṇa"
 },
 {
 "surface": "nṛpaḥ",
@@ -165,7 +177,7 @@
 },
 {
 "surface": "gobhūmiparivārakaḥ",
-"quick_gloss": "possessing-cattle+land+retinue"
+"quick_gloss": "possessed-of-cattle+land"
 }
 ]
 },
@@ -248,7 +260,7 @@
 },
 {
 "surface": "karaṇe",
-"quick_gloss": "karaṇa"
+"quick_gloss": "in-karaṇa"
 },
 {
 "surface": "jāto",
@@ -256,11 +268,11 @@
 },
 {
 "surface": "bhogī",
-"quick_gloss": "enjoying"
+"quick_gloss": "enjoyer"
 },
 {
 "surface": "tyāgī",
-"quick_gloss": "renouncing"
+"quick_gloss": "renouncer"
 },
 {
 "surface": "naraḥ",
@@ -355,7 +367,7 @@
 "tokens": [
 {
 "surface": "vajrāṃkuśābhītikaraṃ",
-"quick_gloss": "thunderbolt+hook+fearlessness-granting"
+"quick_gloss": "thunderbolt+goad+fearlessness-granting-hand"
 },
 {
 "surface": "naumīṃ",
@@ -363,11 +375,11 @@
 },
 {
 "surface": "drāṇī",
-"quick_gloss": "indrāṇī"
+"quick_gloss": "to-indrāṇī"
 },
 {
 "surface": "manoharam",
-"quick_gloss": "mind-charming"
+"quick_gloss": "charming"
 }
 ]
 },
@@ -381,6 +393,18 @@
 {
 "surface": "kanakavarṇaḥ",
 "quick_gloss": "golden-colored"
+},
+{
+"surface": "lokapāleṃdravat",
+"quick_gloss": "like-lord-of-world-protectors-indra"
+},
+{
+"surface": "ni0",
+"quick_gloss": "ni0"
+},
+{
+"surface": "4",
+"quick_gloss": "4"
 }
 ]
 },
@@ -393,7 +417,7 @@
 "tokens": [
 {
 "surface": "akṣasruksruvakuṃḍāḍhyaṃ",
-"quick_gloss": "endowed-with-rosary+ladle+spoon+vessel"
+"quick_gloss": "rosary+ladle+spoon+water-pot-endowed"
 },
 {
 "surface": "vaṃde",
@@ -401,7 +425,7 @@
 },
 {
 "surface": "māṃ",
-"quick_gloss": "me"
+"quick_gloss": "to-her"
 },
 {
 "surface": "pātu",
@@ -413,7 +437,7 @@
 },
 {
 "surface": "nvaham",
-"quick_gloss": "continually"
+"quick_gloss": "always"
 }
 ]
 },
@@ -455,7 +479,7 @@
 },
 {
 "surface": "divaseśvaram",
-"quick_gloss": "lord-of-day"
+"quick_gloss": "to-lord-of-day"
 }
 ]
 },
@@ -497,7 +521,7 @@
 },
 {
 "surface": "vāñchitārthadāḥ",
-"quick_gloss": "desired-object-givers"
+"quick_gloss": "givers-of-desired-objects"
 }
 ]
 },
@@ -511,6 +535,18 @@
 {
 "surface": "nīlavarṇaḥ",
 "quick_gloss": "blue-colored"
+},
+{
+"surface": "maghānakṣatradevatāvat",
+"quick_gloss": "like-deity-of-maghā-nakṣatra"
+},
+{
+"surface": "ni0",
+"quick_gloss": "ni0"
+},
+{
+"surface": "5",
+"quick_gloss": "5"
 }
 ]
 },
@@ -539,7 +575,7 @@
 },
 {
 "surface": "chūbhakārikā",
-"quick_gloss": "auspicious-doer"
+"quick_gloss": "doer-of-auspiciousness"
 }
 ]
 },
@@ -553,6 +589,18 @@
 {
 "surface": "śvetavarṇā",
 "quick_gloss": "white-colored"
+},
+{
+"surface": "paṃcabhūtasthabhūmivat",
+"quick_gloss": "like-earth-situated-in-five-elements"
+},
+{
+"surface": "ni0",
+"quick_gloss": "ni0"
+},
+{
+"surface": "4",
+"quick_gloss": "4"
 }
 ]
 },
@@ -569,15 +617,11 @@
 },
 {
 "surface": "pāṇiṃ",
-"quick_gloss": "hand"
+"quick_gloss": "in-hand"
 },
 {
-"surface": "se",
-"quick_gloss": "he"
-},
-{
-"surface": "ṣṭaṃ",
-"quick_gloss": "desired"
+"surface": "seṣṭaṃ",
+"quick_gloss": "to-me"
 },
 {
 "surface": "prayacchatu",

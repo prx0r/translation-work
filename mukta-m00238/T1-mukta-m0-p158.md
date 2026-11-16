@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p158-v3926
-[imagined](kalpitaṃ) [as-liṅga](laiṃgyam) [thus](iti) [spoken](uktaṃ) [purāṇa](purāṇaṃ) [by-brahmā](brahmaṇā) [himself](svayam)
+[fashioned](kalpitaṃ) + [liṅga-related](laiṃgyam) + [thus](iti) + [spoken](uktaṃ) [purāṇa](purāṇaṃ) [by-brahmā](brahmaṇā) [himself](svayam)
 
 ## mukta-m0-p158-v3927
-[that](tat) [eleven](ekādaśa) [thousand](sāhasra) [declared](mākhyātaṃ) [o-best](muni) [of-sages](puṃgavāḥ)
+[that](tat) + [eleven](ekādaśa) + [thousand](sāhasra) (11000 ślo0) [declared](mākhyātaṃ) [o-best-of-sages](munipuṃgavāḥ)
 
 ## mukta-m0-p158-v3928
-[of-great-varāha](mahāvarāhasya) [again](punar) [glory](māhātmyam) [having-taken-as-subject](adhikṛtya) [and](ca)
+[of-great-varāha](mahāvarāhasya) + [again](punar) + [glory](māhātmyam) + [having-as-subject](adhikṛtya) [and](ca)
 
 ## mukta-m0-p158-v3929
-[twenty-four](caturviṃśati) [thousands](sahasrāṇi) [that](tat) [purāṇa](purāṇam) [here](iha) [is-spoken](ucyate)
+[twenty-four](caturviṃśati) + [thousands](sahasrāṇi) (24000 ślo0) [that](tat) + [purāṇa](purāṇam) + [here](iha) + [is-spoken](ucyate) || 2
 
 ## mukta-m0-p158-v3930
-[in-the-kalpa](kalpe) [of-tatpuruṣa](tatpuruṣe) [by-events](vṛttaiḥ) [by-deeds](caritraiḥ) [enlarged](upabṛṃhitam)
+[in-kalpa](kalpe) [of-tatpuruṣa](tatpuruṣe) [by-occurred](vṛttaiḥ) + [deeds](caritraiḥ) + [augmented](upabṛṃhitam)
 
 ## mukta-m0-p158-v3931
-[of-thousands](sahasrāṇāṃ) [hundred](śataṃ) [and](ca) [one](eka) [measure](mitim) [among-mortals](artyeṣu) [proclaimed](prakīrtitam)
+[of-thousands](sahasrāṇāṃ) + [hundred](śataṃ) + [and](ca) + [one](eka) (100000 ślo0) [measure](mitim) + [among-mortals](artyeṣu) + [is-celebrated](prakīrtitam) || 2
 
 ## mukta-m0-p158-v3932
-[three-aims](trivargaṃ) [and](ca) [three-deities](tridaivatyaṃ) [vāmana](vāmanaṃ) [that](tat) [is-proclaimed](prakīrtitam)
+[three-aims](trivargaṃ) [and](ca) [three-deities](tridaivatyaṃ) [vāmana](vāmanaṃ) [that](tat) + [is-celebrated](prakīrtitam)
 
 ## mukta-m0-p158-v3933
-[fourteen](caturdaśa) [thousands](sahasrāṇi) [celebrated](khyātaṃ) [following-the-kalpa](kalpānugaṃ) [śiva-purāṇa](śivam)
+[fourteen](caturdaśa) + [thousands](sahasrāṇi) (14000 ślo0) [renowned](khyātaṃ) + [following-the-kalpa](kalpānugaṃ) [śiva](śivam)
 
 ## mukta-m0-p158-v3934
-[glory](māhātmyaṃ) [narrated](kathayāmāsa) [in-tortoise-form](kūrmarūpī) [janārdana](janārdanaḥ)
+[glory](māhātmyaṃ) [narrated](kathayāmāsa) [in-tortoise-form](kūrmarūpī) + [janārdana](janārdanaḥ)
 
 ## mukta-m0-p158-v3935
-[that](tat) [kūrma-purāṇa](kaurmaṃ) [six](ṣaṭ) [thousands](sahasrāṇi) [connected-with-lakṣmī-kalpa](lakṣmīkalpānuṣaṃgikam)
+[that](tat) + [kūrma](kaurmaṃ) + [six](ṣaṭ) + [thousands](sahasrāṇi) (6000 ślo0) [connected-with-lakṣmī-kalpa](lakṣmīkalpānuṣaṃgikam) || 2
 
 ## mukta-m0-p158-v3936
-[in-fish-form](mātsyarūpeṇa) [by-manu](manave) [nṛsiṃha-account](nārasiṃha) [described](upavarṇitam)
+[in-fish-form](mātsyarūpeṇa) + [by-manu](manave) + [nṛsiṃha](nārasiṃha) + [described](upavarṇitam)
 
 ## mukta-m0-p158-v3937
-[that](tat) [matsya-purāṇa](mātsyam) [thus](iti) [know](jānīdhvaṃ) [thousands](sahasrāṇi) [and](ca) [fourteen](caturdaśa)
+[that](tat) + [mātsya](mātsyam) + [thus](iti) + [know](jānīdhvaṃ) + [thousands](sahasrāṇi) [and](ca) + [fourteen](caturdaśa) (14000 ślo0) || 2
 
 ## mukta-m0-p158-v3938
-[having-taken-as-subject](adhikṛtya) [spoke](abravīt) [viṣṇu](viṣṇuḥ) [gāruḍa](gāruḍaṃ) [that](tat) [here](iha) [is-spoken](ucyate)
+[having-as-subject](adhikṛtya) + [spoke](abravīt) + [viṣṇu](viṣṇuḥ) [gāruḍa](gāruḍaṃ) [that](tat) + [here](iha) + [is-spoken](ucyate)
 
 ## mukta-m0-p158-v3939
-[that](tat) [sixteen](tuṣoḍaśa) [thousand](sāhasraṃ) [purāṇa](purāṇaṃ) [is-recited](paripaṭhyate)
+[that](tat) + [indeed](tu) + [sixteen](ṣoḍaśa) + [thousand](sāhasraṃ) (16000 ślo0) [purāṇa](purāṇaṃ) [is-recited](paripaṭhyate)
 
 ## mukta-m0-p158-v3940
-[that](tat) [twelve](dvādaśa) [thousand](sāhasraṃ) [brahmāṇḍa-purāṇa](brahmāṃḍaṃ) [by-two-hundred](dviśata) [exceeded](adhikam)
+[that](tat) + [and](ca) + [twelve](dvādaśa) + [thousand](sāhasraṃ) (12200 ślo0) [brahmāṇḍa](brahmāṃḍaṃ) + [with-two-hundred-more](dviśatādhikam) || 1
 
 ## mukta-m0-p158-v3941
-[four](catur) [hundred-thousand](lakṣam) [this](idaṃ) [declared](proktaṃ) [by-vyāsa](vyāsena) [of-wondrous-deeds](adbhutakarmaṇā)
+[four](catur) + [hundred-thousand](lakṣam) + [this](idaṃ) (400000 ślo0) [declared](proktaṃ) [by-vyāsa](vyāsenā) + [of-wondrous-deeds](dbhutakarmaṇā)
 
 ## mukta-m0-p158-v3942
-[this](idaṃ) [for-the-welfare-of-the-world](lokahitārthāya) [abridged](saṃkṣiptaṃ) [by-the-great-sage](paramarṣiṇā)
+[this](idaṃ) + [for-the-welfare-of-the-world](lokahitārthāya) + [abridged](saṃkṣiptaṃ) + [by-the-great-seer](paramarṣiṇā)
 
 ## mukta-m0-p158-v3943
-[in-the-rudra-sections](rudreṣu) [eyes](akṣīṇi) [forests](vanyena) [tastes](vara) [eyes](rasanayanāni) [oceans](abdhi) [six](ṣaṭ) [six](ṣaṇ) [earths](mahīkṣmāḥ) [in-the-vairāṭa](vairāṭe) [seven](sapta) [sixes](ṣaṭkāḥ) [sky](gagana) [arrows](śara) [sky](nabho) [arms](bāhavaḥ) [are-indicated](saṃpradiṣṭāḥ)
+[rudras](rudreṣu) + [eyes](akṣīṇi) + [arrows](vānyena) + [tastes](vara) + [eyes](rasa) + [eyes](nayanāni) + [oceans](abdhisaṭ) + [six](ṣaṇ) + [earths](mahīkṣmāḥ) [in-vairāṭa](vairāṭe) + [seven](sapta) + [sixes](ṣaṭkāḥ) + [sky](gagana) + [arrows](śara) + [sky](nabho) + [arms](bāhavaḥ) + [are-indicated](saṃpradiṣṭāḥ)
 
 ## mukta-m0-p158-v3944
-[in-the-karṇa-section](kārṇe) [limbs](kāṃgāni) [vedas](vedāḥ) [enemies](ari) [nine](nava) [made](kṛta) [measured](mitāḥ) [in-the-śalya-parvan](śalyaparvaṇi) [then](atha) [cows](go) [arrows](bāṇāḥ) [suns](ravi) [eyes](akṣi) [two](dvi) [rāmas](rāmāḥ) [then](atha) [elephants](gaja) [moons](śaśinaḥ) [in-the-sauptika](sauptike) [mountains](bhrā) [serpents](nāgāḥ)
+[in-karṇa](kārṇe) + [limbs](kāṃgāni) + [vedas](vedāḥ) + [enemies](ari) + [nine](nava) + [made](kṛta) + [measured](mitāḥ) [in-śalya-parvan](śalyaparvaṇi) + [then](atha) + [cows](ugo) + [arrows](bāṇāḥ) [tastes](ravā) + [eyes](akṣi) + [two](dvi) + [rāmas](rāmā) [then](atha) + [elephants](gaja) + [moons](śaśinaḥ) [in-sauptika](sauptike) + [mountains](bhrā) + [serpents](adrināgāḥ)
 
 ## mukta-m0-p158-v3945
-[suns](ravi) [skies](abhrā) [skies](abhrā) [eight](aṣṭa) [in-the-aśvamedha](aśvamedhe) [gods](sura) [noses](bhu) [nails](nakha) [gods](surāḥ) [in-the-āśramavāsa-parvan](āśramāvāsaparvaṇi) [eyes](akṣi) [oceans](abdhi) [named](ākhyāḥ) [six](ṣaḍ) [skies](abhrā) [eyes](akṣi) [moon](śaśadhara) [measured](mitāḥ) [in-the-mausala](mausale) [eight](aṣṭau) [sky](kha) [vedas](vedāḥ)
+[tastes](ravā) + [skies](abhrā) + [skies](abhrā) + [eight](aṣṭā) + [in-aśvamedha](aśvamedhe) + [fragrances](surabhi) + [nails](nakha) + [gods](surāḥ) [in-āśramavāsa-parvan](āśramāvāsaparvaṇi) + [eyes](akṣi) + [oceans](abdhi) + [named](ākhyāḥ) [six](ṣaḍ) + [skies](abhrā) + [eyes](akṣi) + [moon](śaśadhara) + [measured](mitāḥ) + [in-mausala](mausale) + [eight](aṣṭau) + [sky](kha) + [vedas](vedāḥ)
 
 ## mukta-m0-p158-v3946
-[of-chapters](ahyāyānāṃ) [thousand](sahasraṃ) [with-six](sadal) [eighteen](adhṛti) [thousand](sahasraṃ) [of-hari’s-lineage](harervaṃśa) [thus](ittham) [verses](ślokāḥ) [by-śrīkṛṣṇa-king](śrīkṛṣṇabhūmībhṛt) [this](idam) [counted](agaṇayat) [of-the-bhārata](bhāratāt) [chapter-lotus](adhyāyapadmam)
+[of-chapters](ahyāyānāṃ) [thousand](sahasraṃ) + [with-six](sadal) + [eighteen](adhṛti) + [thousand](sahasraṃ) + [of-hari](hareḥ) + [lineage](vaṃśa) [thus](itthaṃ) + [verses](ślokāḥ) [śrī-kṛṣṇa-earth-lord](śrīkṛṣṇabhūmībhṛt) + [this](idam) + [counted](agaṇayat) + [of-bhārata](bhāratāt) + [chapter-lotus](adhyāyapadmam)
 
 ## mukta-m0-p158-v3947
-[six](ṣaṇ) [nines](ṇaṃda) [fires](jvalanāḥ) [third](tṛtīya) [fires](anala) [fires](agnī) [twenty-five](paṃcaviṃśan) [manu](manuḥ) [fourth](tūrya) [one](eka) [fires](jvalanāḥ) [sky](kha) [six](ṣaṭka) [oceans](jaladhi) [earths](kṣmā) [in-the-fifth](paṃcame) [six](ṣaḍ) [two](vayam)
+[sixes](ṣaṇṇaṃ) + [fires](dajvalanāḥ) + [third](tṛtīya) [fires](analā) + [fires](agnī) + [twenty-five](paṃcaviṃśan) + [manu](manuḥ) + [fourth](tūrya) + [one](eka) + [fires](ujvalanāḥ) + [sky](kha) + [six](ṣaṭka) + [oceans](jaladhi) + [earths](kṣmā) + [fifth](paṃcame) + [six](ṣaḍ) + [two](vayam)
 
 ## mukta-m0-p158-v3948
-[counted](saṃkhyātāḥ) [and](ca) [likewise](tathā) [in-the-eighth](aṣṭame) [oceans](jaladhi) [eyes](netre) [nines](naṃda) [fires](vahni) [prajāpati](prajeśāḥ) [in-the-skandha](skaṃdhe) [ninth](navame) [jina](jināḥ) [vidhi](vidhi) [munis](muni) [creators](sraṣṭṛ) [numbered](prasaṃkhyāḥ) [in-order](kramāt)
+[counted](saṃkhyātāḥ) + [and](ca) [likewise](tathā) + [in-eighth](aṣṭame) [oceans](jaladhi) + [eyes](netre) [nines](naṃda) + [fires](vahni) + [prajāpati](prajeśāḥ) + [in-skandha](skaṃdhe) + [ninth](navame) + [jina](jināḥ) + [vidhi](vidhi) + [sages](muni) + [creator](sraṣṭṛ) + [numbered](prasaṃkhyāḥ) [in-order](kramāt)
 
 ## mukta-m0-p158-v3949
-[in-the-skandha](skaṃdhe) [and](ca) [final](aṃtyama) [thirteen](trayodaśa) [measured](mitāḥ) [and](ca) [chapter-numbers](adhyāyasaṃkhyāḥ) [likewise](tathā) [and](ca) [verses](ślokāḥ) [moon](caṃdra) [munis](muni) [lords](īśa) [arrows](bāṇa) [counted](gaṇitāḥ) [skandhas](skaṃdhāḥ) [further](paraṃ) [twelve](dvāhaśa)
+[in-skandha](skaṃdhe) [and](ca) + [final](āṃtyama) + [thirteen](ketrayodaśa) + [measured](mitāḥ) + [and](ca) + [chapter-numbers](adhyāyasaṃkhyāḥ) + [likewise](tathā) [verses](ślokāḥ) + [and](ca) + [moon](candra) + [sages](munīśa) + [arrows](bāṇa) + [counted](gaṇitāḥ) [skandhas](skaṃdhāḥ) [further](paraṃ) + [two](dvā) + [twelve](haśa)
 
 ## mukta-m0-p158-v3950
-[verses](ślokāḥ) [sky](aṃbara) [arrows](bāṇa) [swords](asi) [arms](bāhavaḥ) [and](ca) [proclaimed](prakīrtitāḥ)
+[verses](ślokāḥ) + [indeed](tu) + [sky](aṃbara) + [arrows](bāṇa) + [swords](asi) [arms](bāhavaḥ) + [and](ca) [are-celebrated](prakīrtitāḥ)

@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p136-v3376
-[umbrella-shaped+very+smooth](chatrākāraṃmahāsnigdhaṃ) [opening](dvāraṃ) [not](na) [+exists](asti) [that](sa) [dot-marked](biṃdukam)
+[umbrella-shaped](chatrākāraṃ)+[very](mahā)+[smooth](snigdhaṃ) [opening](dvāraṃ) [not](na)+[is](asti) [that](sa) [mark](biṃdukam)
 
 ## mukta-m0-p136-v3377
-[back+side](pṛṣṭhabhāge) [likewise](tathā) [gold](hema) [with-dot](biṃdunā) [+adorned](paribhūṣitaḥ)
+[back](pṛṣṭha)+[side](bhāge) [likewise](tathā)+[golden](hema) [with-mark](biṃdunā)+[adorned](paribhūṣitaḥ)
 
 ## mukta-m0-p136-v3378
-[vārāha+field](vārāhakṣetram) [by+origin](uptattyā)
+[in-varāha](vārāha)+[field](kṣetre)+[released](muptattyā) [thus](tathā) [indeed](eva) [it-is](asti)
 
 ## mukta-m0-p136-v3379
-[four+discus](catuścakraṃ) [janārdana](janārdanaḥ)
+[four](catuḥ)+[discus](cakraṃ)+[janārdana](janārdanaḥ) [four](catuḥ)+[discus](cakraṃ)+[janārdana](janārdanaḥ)
 
 ## mukta-m0-p136-v3380
-[three+discus](tricakraṃ) [and](ca) [in-acyuta](acyute) [to-be-known](jñeyaṃ) [four+discus](catuścakraṃ) [in-janārdana](janārdane)
+[three](tri)+[discus](cakraṃ) [and](ca)+[in-acyuta](acyute) [to-be-known](jñeyaṃ) [four](catuḥ)+[discus](cakraṃ) [in-janārdana](janārdane)
 
 ## mukta-m0-p136-v3381
-[seven+discus](saptacakraṃ) [indeed](tu) [in-vārāha](vārāhe) [and](ca) [eight](aṣṭakaṃ) [and](ca) [in-puruṣottama](puruṣottame)
+[seven](sapta)+[discus](cakraṃ) [indeed](tu) [in-varāha](vārāhe) [and](ca)+[eight](aṣṭakaṃ) [and](ca) [in-puruṣottama](puruṣottame)
 
 ## mukta-m0-p136-v3382
-[eleven](ekādaśa) [indeed](tu) [in-pradyumna](pradyumne) [and](tu) [in-ananta](anaṃte) [twelve](dvādaśa) [remembered](smṛtām)
+[eleven](ekādaśa) [indeed](tu) [in-pradyumna](pradyumne) [and](tu)+[in-ananta](anaṃte) [twelve](dvādaśa) [remembered](smṛtām)
 
 ## mukta-m0-p136-v3383
-[in-others](anyeṣu) [in-many+discus-ones](bahūcakreṣu) [supreme+self](paramātmā) [established](pratiṣṭhitaḥ)
+[in-others](anyeṣu)+[many](bahū)+[in-discus-forms](cakreṣu) [supreme](parama)+[self](ātmā)+[established](pratiṣṭhitaḥ)
 
 ## mukta-m0-p136-v3384
-[śiva+nābha](śivanābha) [thousand](sahasraṃ) [and](ca) [śāligrāma](sāligrāma) [thousand](sahasrakam)
+[śiva](śiva)+[nābha](nābha)+[thousand](sahasraṃ) [and](ca) [sāli](sāli)+[grāma](grāma)+[thousand](sahasrakam)
 
 ## mukta-m0-p136-v3385
-[so-many](tāvatyaḥ) [forms](mūrtayaḥ) [exist](saṃti) [in-śāligrāmas](sāligrāmeṣu) [o-nārada](nārada)
+[that-many](tāvatyaḥ)+[forms](mūrtayaḥ)+[are](ssaṃti) [in-sāli](sāli)+[grāmas](grāmeṣu)+[o-nārada](nārada)
 
 ## mukta-m0-p136-v3386
-[not](na) [able-to-be](śakyate) [by-me](mayā) [to-tell](vaktuṃ) [even](api) [by-hundred+crores](koṭiśatair) [of-kalpas](kalpa)
+[not](na) [is-possible](śakyate) [by-me](mayā)+[to-tell](vaktuṃ) [kalpa](kalpa)+[crore](koṭi)+[by-hundreds](śataiḥ)+[even](api)
 
 ## mukta-m0-p136-v3387
-[without-discus](acakraṃ) [indeed](tu) [likewise](tathā) [rubbed](ghṛṣṭaṃ) [crooked+mouth](vakrāsyaṃ) [or](vā) [broken](bhinnam) [indeed](eva)
+[without-discus](acakraṃ) [indeed](tu) [likewise](tathā)+[rubbed](ghṛṣṭaṃ) [crooked](vakra)+[faced](āsyaṃ) [broken](bhinnam)+[indeed](eva)+[or](vā)
 
 ## mukta-m0-p136-v3388
-[long+shining](dīrghaśobhitam) [unblemished+body](acchāṃgam) [or](vā) [gentle+form](saumyākṛtim) [indeed](eva)
+[long](dīrgha)+[shining](śobhitam)+[clear](acchāṃgam)+[not-gentle](asaumya)+[form](ākṛtim)+[indeed](eva) [or](vā)
 
 ## mukta-m0-p136-v3389
-[with-many+lines](bahubāṇasamāyuktaṃ) [with-trembling+marked+discus](sphuritālakṣyacakrakam)
+[many](bahu)+[arrow](bāṇa)+[endowed-with](samāyuktaṃ) [trembling](sphurita)+[invisible](alakṣya)+[discus](cakrakam)
 
 ## mukta-m0-p136-v3390
-[bound](baṃdhanaṃ) [bound+discus](baddhacakraṃ) [and](ca) [fierce+discus](krūracakraṃ) [likewise](tathā) [one-should-reject](tyajet)
+[bound](baṃdhanaṃ) [bound](baddha)+[discus](cakraṃ) [and](ca) [fierce](krūra)+[discus](cakraṃ) [thus](tathā) [one-should-reject](tyajet)
 
 ## mukta-m0-p136-v3391
-[frog-like](dardduraṃ) [cracked](sphuṭitaṃ) [burnt](dagdhaṃ) [triangular](trikoṇaṃ) [one-should-avoid](parivarjayet)
+[frog-like](dardduraṃ) [cracked](sphuṭitaṃ) [burnt](dagdhaṃ) [three](tri)+[cornered](koṇaṃ) [one-should-avoid](parivarjayet)
 
 ## mukta-m0-p136-v3392
-[many+lined](bahurekhaṃ) [perforated](paricchidraṃ) [oblique+discus](tiryakcakraṃ) [likewise](tathā) [one-should-reject](tyajet)
+[many](bahu)+[lined](rekhaṃ) [perforated](paricchidraṃ) [oblique](tiryak)+[discus](cakraṃ) [thus](tathā) [one-should-reject](tyajet)
 
 ## mukta-m0-p136-v3393
-[binding](baṃdhakaṃ) [bound+discus](baddhacakraṃ) [and](ca) [triangular](trikoṇaṃ) [kinsmen+destroying](baṃdhunāśanam)
+[binding](baṃdhakaṃ)+[bound](baddha)+[discus](cakraṃ) [and](ca) [three](tri)+[cornered](koṇaṃ) [kin](bandhu)+[destroying](nāśanam)
 
 ## mukta-m0-p136-v3394
-[wealth+destroying](arthadhnī) [and](ca) [blemished](vimalā) [may-be](syāt) [and](ca) [rough](karkaśaṃ) [field](kṣetram) [indeed](eva)
+[wealth](artha)+[destroying](dhnī)+[blemished](vimalā) [and](ca) [may-be](syāt) [rough](karkaśaṃ) [field](kṣetram)+[indeed](eva) [and](ca)
 
 ## mukta-m0-p136-v3395
-[solidity](ghanatvaṃ) [increased](vṛddham) [having-seen](ālokya) [should-take](gṛhṇīyāt) [wise+man](buddhimānnaraḥ)
+[solidity](ghanatvaṃ) [increased](vṛddham)+[having-seen](ālokya) [should-take](gṛhṇīyāt)+[wise](buddhimān)+[man](naraḥ)
 
 ## mukta-m0-p136-v3396
-[therefore](tasmāt) [by-giving](pradānena) [of-this](asya) [pleased](prītaḥ) [may-be](bhavatu) [mādhava](mādhavaḥ)
+[therefore](tasmāt)+[of-this](asya)+[by-giving](pradānena) [pleased](prītaḥ)+[may-be](bhavatu) [mādhava](mādhavaḥ)
 
 ## mukta-m0-p136-v3397
-[those](tau) [both](ubhau) [of-meritorious+deeds](puṇyakarmāṇau) [hell-bound](narakī) [buyer](kraya) [+and-seller](vikrayī)
+[those](tau)+[both](ubhau)+[merit](puṇya)+[doers](karmāṇau) [hell-dweller](narakī)+[buyer](kraya)+[seller](vikrayī)
 
 ## mukta-m0-p136-v3398
-[where](yatra) [śāligrāma+form](sāligrāmavapuḥ) [there](tatra) [fault](doṣaḥ) [not](na) [exists](vidyate)
+[sāli](sāli)+[grāma](grāma)+[body](vapuḥ)+[where](yatra) [there](tatra) [fault](doṣo) [not](na) [exists](vidyate)
 
 ## mukta-m0-p136-v3399
-[broken](khaṇḍitā) [or](vā) [cracked](sphuṭitā) [or](api) [śāligrāma+stone](sāligrāmaśilā) [auspicious](śubhā)
+[broken](khaṇḍitā) [cracked](sphuṭitā) [or](vā)+[even](api) [sāli](sāli)+[grāma](grāma)+[stone](śilā) [auspicious](śubhā)
 
 ## mukta-m0-p136-v3400
-[keśava](keśavaṃ) [or](vā) [śiva](śivaṃ) [or](vā) [having-touched](spṛṣṭvā) [hell](naraka) [one-attains](maśnute)
+[keśava](keśavaṃ) [or](vā) [śiva](śivaṃ) [or](vā)+[even](api) [having-touched](spṛṣṭvā) [hell](naraka) [experiences](maśnute)
