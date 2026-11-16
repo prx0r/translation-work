@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p122-v3026
-rudra [rudrārka] śaṅkara [śaṅkarāṇāṃ] ca [ca] caṇḍī [caṇḍīyamaviḍaujasāma] ojas [aviḍaujasāma]
+rudra+arka [kh: rudrāṇāṃ] (rudrārka) śaṅkarāṇāṃ (śaṅkarāṇāṃ) ca (ca) caṇḍīya+aviḍa+ojasām (caṇḍīyamaviḍaujasāma)
 
 ## mukta-m0-p122-v3027
-sarveśvara [sarveśvara] pitṛ [pitṛṇāṃ] ca [ca] pavitra-ārohaṇa [pavitrārohaṇaṃ] mata [matam]
+sarva+īśvara [kh: ṣveva] (sarveśvara) pitṝṇāṃ (pitṛṇāṃ) ca (ca) pavitra+ārohaṇaṃ (pavitrārohaṇaṃ) matam (matam)
 
 ## mukta-m0-p122-v3028
-mṛd-bhasma-vastra-patra-ādi [mṛdbhasmavastrapatrādi] tathā [tathā] sūtra [sūtraṃ] ca [ca] saptadhā [saptadhā]
+mṛd+bhasma+vastra+ādi (mṛdbhasmavastrādi) tathā (tathā) sūtraṃ (sūtraṃ) ca (ca) sapta+dhā (saptadhā)
 
 ## mukta-m0-p122-v3029
-pādma [pādma] kārpāsa-ja [kārpāsajaṃ] sūtra [sūtraṃ] dvija-kanyā-ādi-nirmita [dvijakanyādinirmitam]
+pādma (pādma) kārpāsa+jaṃ (kārpāsajaṃ) sūtraṃ (sūtraṃ) dvi+jā+kanyā+ādi+nirmitam (dvijakanyādinirmitam)
 
 ## mukta-m0-p122-v3030
-daśa-aṅgula-antara-granthi [daśāṅgulāntarāgranthiścaikaikāṅgulihānitaḥ] ca [ca] eka-eka-aṅguli-hānita [ekaikāṅgulihānitaḥ]
+daśa+aṅgula+antara+agranthiḥ+ca (daśāṅgulāntarāgranthiśca) eka+eka+aṅguli+hāni+taḥ (ekaikāṅgulihānitaḥ)
 
 ## mukta-m0-p122-v3031
-aṣṭa-aṣṭa-hānita [ṣṭāṣṭahānitaḥ]
+ṣaṭ+aṣṭa+hānitaḥ (ṣṭāṣṭahānitaḥ)
 
 ## mukta-m0-p122-v3032
-rocanā-kuṅkuma-akta [rocanākuṅkumāktaiśca] ca [ca] mada-candra [madacandraistu] tu [tu] śakti [śaktitaḥ]
+rocanā+kuṅkuma+aktaiḥ+ca (rocanākuṅkumāktaiśca) mada+candraiḥ+tu (madacandraistu) śaktitaḥ (śaktitaḥ)
 
 ## mukta-m0-p122-v3033
-tri-tattva [tritattve] trīṇi [trīṇi] kārya [kāryāṇi] caturtha [caturthaṃ] ca [ca] avalambaja [cāvalaṃbajam]
+tri+tattve (tritattve) trīṇi (trīṇi) kāryāṇi (kāryāṇi) caturthaṃ (caturthaṃ) ca+ava+lambajam (cāvalaṃbajam)
 
 ## mukta-m0-p122-v3034
-sarva-artha-pūraṇa [sarvārthapūraṇaṃ] dadyāt [dadyāt] pṛṣṭha-pīṭha [pṛṣṭhapīṭhe] caturthaka [caturthakam]
+sarva+artha+pūraṇaṃ (sarvārthapūraṇaṃ) dadyāt (dadyāt) pṛṣṭha+pīṭhe (pṛṣṭhapīṭhe) caturthakam (caturthakam)
 
 ## mukta-m0-p122-v3035
-sthaṇḍila [sthaṇḍile] hari-śambhu [hariśambhostu] tu [tu] dala [dale] kesara-koṇaka [kesarakoṇake]
+sthaṇḍile (sthaṇḍile) hari+śambhoḥ+tu (hariśambhostu) dale (dale) kesara+koṇake (kesarakoṇake)
 
 ## mukta-m0-p122-v3036
-sūtra [sūtraiśca] ca [ca] granthi [granthayo'nyeṣāṃ] anyeṣām [anyeṣāṃ] tathā [tathā] daśa-eka [daśaika] hānita [hānitaḥ]
+sūtraiḥ+ca (sūtraiśca) granthayaḥ+anyeṣāṃ (granthayo'nyeṣāṃ) tathā (tathā) daśa+eka [g: dalaika] hāni+taḥ (daśaika hānitaḥ)
 
 ## mukta-m0-p122-v3037
-vṛṣa [vṛṣasya] śṛṅga-pāda-anta [śṛṅgapādāntaṃ] pavitra [pavitraṃ] liṅga-vat [liṅgavanmatam] mata [matam]
+vṛṣasya (vṛṣasya) śṛṅga+pāda+antaṃ (śṛṅgapādāntaṃ) pavitraṃ (pavitraṃ) liṅga+vat+matam (liṅgavanmatam)
 
 ## mukta-m0-p122-v3038
-itara [itareṣāṃ] tu [tu] deva [devānāṃ] pavitra [pavitraṃ] syāt [syāt] tri-sūtraka [trisūtrakam]
+itareṣāṃ (itareṣāṃ) tu (tu) devānāṃ (devānāṃ) pavitraṃ (pavitraṃ) syāt (syāt) tri+sūtrakam [gh: trakaiḥ] (trisūtrakam)
 
 ## mukta-m0-p122-v3039
-kvacid [kvacidvitastimātraṃ] vitasti-mātra [vitastimātraṃ] ca [ca] śata-ardha-ardha-ardha-sūtraka [śatārdhārdhārdhasūtrakam]
+kvacit (kvacit) dvita+sti+mātraṃ (dvistimātraṃ) ca (ca) śata+ardha+ardha+ardha+sūtrakam [kh, gh: trakaiḥ] (śatārdhārdhārdhasūtrakam)
 
 ## mukta-m0-p122-v3040
-dvija-arka-jina-saṃkhyābhiḥ [dvijārkajinasaṃkhyābhiḥ] sthira-sthaṇḍila-gehinām [sthirasthaṇḍilagehinām]
+dvi+ja+arka+jinasaṃkhyābhiḥ (dvijārkajinasaṃkhyābhiḥ) sthira+sthaṇḍila+gehinām (sthirasthaṇḍilagehinām)
 
 ## mukta-m0-p122-v3041
-kaniṣṭhā-mūlaka-kṣa-anta [kaniṣṭhāmūlakakṣāntaṃ] skandha-nābhi-ūrdhva-mānaka [skandhanābhyūrdhvamānakam]
+kaniṣṭhā+mūla+kakṣā+antaṃ (kaniṣṭhāmūlakakṣāntaṃ) skandha+nābhi+ūrdhva+mānakam (skandhanābhyūrdhvamānakam)
 
 ## mukta-m0-p122-v3042
-pavitra-ārohaṇa [pavitrārohaṇaṃ] kuryāt [kuryādiṣṭamantraistritattvataḥ] iṣṭa-mantra [iṣṭamantraiḥ] tri-tattvataḥ [tritattvataḥ]
+pavitra+ārohaṇaṃ (pavitrārohaṇaṃ) kuryāt (kuryāt) iṣṭa+mantraiḥ+tri+tattvataḥ (iṣṭamantraistritattvataḥ)
 
 ## mukta-m0-p122-v3043
-dadyāt [dadyāt] pavitraka [pavitrakaṃ] tadvat [tadvadvahnyādidikṣu] vahni-ādi-dikṣu [vahnyādidikṣu] cetaraiḥ [cetaraiḥ]
+dadyāt (dadyāt) pavitrakaṃ (pavitrakaṃ) tadvat (tadvat) vahni+ādi+dikṣu (vahnyādidikṣu) ca+itaraiḥ (cetaraiḥ)
 
 ## mukta-m0-p122-v3044
-tri-pañca-sūtraka [tripañcasūtrakairvāpi] vā [vā] api [api] hṛdā [hṛdā] ca [ca] amantra-rṇa [amantrarṇa] vibho [vibhoḥ]
+tri+pañca+sūtrakaiḥ+vā+api (tripañcasūtrakairvāpi) hṛdā (hṛdā) ca+amantra+arṇa (cāmantrarṇa) vibhoḥ [k, kh, ṅ: prabhoḥ] (vibhoḥ)
 
 ## mukta-m0-p122-v3045
-gṛhāṇa [gṛhāṇemāṃ] imām [imāṃ] mahādeva [mahādeva] samasta-vidhi-kāraṇa [samastavidhikāraṇa]
+gṛhāṇa (gṛhāṇa) imāṃ (imāṃ) mahā+deva (mahādeva) samasta+vidhi+kāraṇa (samastavidhikāraṇa)
 
 ## mukta-m0-p122-v3046
-pañca-gavya [pañcagavyaṃ] kamātteṣu [kamātteṣu] tāla-candra-nalohaka [tālacandranalohakam]
+pañca+gavyaṃ (pañcagavyaṃ) kamāt+teṣu (kamātteṣu) tāla+candra+nalohakam (tālacandranalohakam)
 
 ## mukta-m0-p122-v3047
-homa-dravya [homadravyāṇi] sarvāṇi [sarvāṇi] sa-kuśa [sakuśānyaparāparānane] apara-apara-ānane [aparāparānane]
+homa+dravyāṇi (homadravyāṇi) sarvāṇi (sarvāṇi) sa+kuśāni+apara+aparā+ānane (sakuśānyaparāparānane)
 
 ## mukta-m0-p122-v3048
-tāmbūla [tāmbūlaṃ] guhyaka [guhyake] dadyāt [dadyāt] sa-ājya [sājyaṃ] caru [caru] nare [nare] punaḥ [punaḥ]
+tāmbūlaṃ (tāmbūlaṃ) guhya+ke (guhyake) dadyāt (dadyāt) sa+ājyaṃ (sājyaṃ) caru (caru) nare (nare) punaḥ (punaḥ)
 
 ## mukta-m0-p122-v3049
-aiśānyām [aiśānyāmāsanaṃ] āsana [āsanaṃ] chatra [chatraṃ] pāduke [pāduke] yoga-paṭṭaka [yogapaṭṭakam]
+aiśānyām (aiśānyām) āsanaṃ (āsanaṃ) chatraṃ (chatraṃ) pāduke (pāduke) yoga+paṭṭakam (yogapaṭṭakam)
 
 ## mukta-m0-p122-v3050
-pātra [pātraṃ] kṛtvā [kṛtvā] pavitra [pavitrāṇi] prokṣita [prokṣitāni] śiva-ambhasā [śivāmbhasā]
+pātraṃ (pātraṃ) kṛtvā (kṛtvā) pavitrāṇi (pavitrāṇi) prokṣitāni (prokṣitāni) śiva+ambhasā (śivāmbhasā)
