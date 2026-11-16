@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p65-v1601
-[according-to-age](yugānurūpam) [imperishable](akṣara) [three-lakhs](trilakṣa) [etc](ādikaṃ) [as-before](prāgvat)
+[age](yuga)+[conformable](anurūpam) [syllable](akṣara)+[three](tri)+[hundred-thousand](lakṣa)+[and-so-forth](ādikaṃ) [as-before](prāgvat)
 
 ## mukta-m0-p65-v1602
-[oil](taila) [and-clarified-butter](ājyayoḥ) [mixed](miśrībhūtayoḥ) [thus](iti) [remainder](śeṣaḥ) [not-eating](anaśnan) [food](annam) [thus](iti) [remainder](śeṣaḥ)
+[oil](taila)+[ghee](ājyayoḥ)+[mixed](miśrībhūtayoḥ) [thus](iti)+[remainder](śeṣaḥ) [not-eating](anaśnan) [food](annam)+[thus](iti)+[remainder](śeṣaḥ)
 
 ## mukta-m0-p65-v1603
-[lotus-eyed](padmākṣaiḥ) [from-offering](havanāt) [wealth](lakṣmīm) [obtains](avāpnoti) [in-three-days](tribhirdinaiḥ)
+[lotus](padma)+[seeds](akṣaiḥ)+[by-offering](havanāt) [prosperity](lakṣmīm)+[obtains](avāpnoti) [in-three](tribhiḥ)+[days](dinaiḥ)
 
 ## mukta-m0-p65-v1604
-[hear](śṛṇu) [their](teṣu) [rites](vidhānāni) [with-composed-mind](samāhitamanāṃ) [o-śiva](śive)
+[hear](śṛṇu) [to-you](teṣu) [procedures](vidhānāni) [with-collected](samāhita)+[mind](manāṃ) [O-Śivā](śive)
 
 ## mukta-m0-p65-v1605
-[by-them](taiḥ) [sixteen-vowels](ṣoḍaśasvarayutaiḥ) [with-sixty-hundred](ṣaṣṭyāśatam) [uttered](udīritaiḥ)
+[with-those](taiḥ) [sixteen](ṣoḍaśa)+[vowels](svara)+[joined](yutaiḥ) [sixty](ṣaṣṭyā)+[hundred](śatam)+[declared](udīritaiḥ)
 
 ## mukta-m0-p65-v1606
-[that-inner](tadantara) [eight-cornered](aṣṭakoṇaṃ) [and](ca) [that-inner](tadantara) [pair-of-circles](vṛttayugmakam)
+[its](tat)+[inside](antara)+[eight](aṣṭa)+[cornered](koṇaṃ) [and](ca) [its](tat)+[inside](antar)+[circle](vṛtta)+[pair](yugmakam)
 
 ## mukta-m0-p65-v1607
-[between-circles](vṛttayorantarā) [remainder](aśeṣaṃ) [outside](bahiḥ) [corners](koṇeṣu) [and](ca) [eight](aṣṭasu)
+[of-the-two-circles](vṛttayoḥ)+[in-between](antarā)+[all](aśeṣaṃ) [outside](bahiḥ) [in-corners](koṇeṣu) [and](ca)+[in-eight](aṣṭasu)
 
 ## mukta-m0-p65-v1608
-[according-to-action](karmānurūpān) [elemental-letters](bhūtārṇān) [from-ten-cities](daśabhūpuram) [in-middle](adhyataḥ)
+[action](karma)+[according-to](anurūpān) [element](bhūta)+[syllables](arṇān) [ten](daśa)+[enclosure](bhūpura)+[within](madhyataḥ)
 
 ## mukta-m0-p65-v1609
-[last](antyaṃ) [in-four-corners](caturṣu) [koṇeṣu] [of-remainders](śeṣāṇāṃ) [and](ca) [in-drawing](vilekhane)
+[last](antyaṃ) [in-four](caturṣu) [corners](koṇeṣu) [of-the-rest](śeṣāṇāṃ) [and](ca) [in-writing](vilekhane)
 
 ## mukta-m0-p65-v1610
-[goat-flesh](chāgamāṃsaiḥ) [thus](iti) [connection](anvayaḥ) [goat-sheep](chāgomeṣaḥ)
+[goat](chāga)+[meat](māṃsaiḥ)+[thus](iti)+[connection](anvayaḥ) [goat](chāga)+[ram](meṣaḥ)
 
 ## mukta-m0-p65-v1611
-[thus](evaṃ) [yantras](yantrāṇi) [arise](jāyante) [ten-accomplishments](daśasiddhyā) [with-feet](spadāni) [indeed](vai)
+[thus](evaṃ) [diagrams](yantrāṇi) [are-born](jāyante) [ten](daśa)+[siddhi](siddhyā) [abodes](spadāni) [indeed](vai)
 
 ## mukta-m0-p65-v1612
-[on-seventh](saptamyāṃ) [in-three-twilights](triṣu) [sandhyāsu] [with-white-cake](sitāpūpasamanvitam)
+[on-the-seventh-day](saptamyāṃ) [in-three](triṣu) [junctions](sandhyāsu) [white](sita)+[cake](apūpa)+[accompanied](samanvitam)
 
 ## mukta-m0-p65-v1613
-[curd-rice](dadhibhaktantu) [evening](sāyantu) [milk](kṣīraṃ) [plantain-fruit](mocāphalaṃ) [likewise](tathā)
+[curd](dadhi)+[rice](bhaktam)+[then](tu) [in-evening](sāyam)+[then](tu) [milk](kṣīraṃ) [banana](mocā)+[fruit](phalaṃ) [likewise](tathā)
 
 ## mukta-m0-p65-v1614
-[desired](vāñcchitaṃ) [obtains](prāpnuyāt) [of-goddess](devyāḥ) [by-grace](prasādena) [with-little-effort](alpayatnataḥ)
+[desired](vāñcchitaṃ) [one-may-obtain](prāpnuyāt)+[of-the-goddess](devyāḥ) [by-grace](prasādena)+[with-little](alpa)+[effort](yatnataḥ)
 
 ## mukta-m0-p65-v1615
-[well-cooked](supakvaṃ) [goat-flesh](chāgamāṃsena) [honey-food](kṣaudramannaṃ) [should-offer](nivedayet)
+[well-cooked](supakvaṃ) [with-goat](chāga)+[meat](māṃsena) [with-honey](kṣaudram)+[food](annaṃ) [one-should-offer](nivedayet)
 
 ## mukta-m0-p65-v1616
-[likewise](tathaiva) [woman](vanitāṃ) [pleasing](hṛdyāṃ) [subjugates](vaśayet) [for-life](yāvadāyuṣaḥ)
+[likewise](tathaiva) [woman](vanitāṃ) [charming](hṛdyāṃ) [one-may-subjugate](vaśayet)+[as-long-as](yāvat)+[life](āyuṣaḥ)
 
 ## mukta-m0-p65-v1617
-[for-that-many-days](tāvaddinaṃ) [thus](tathā) [worshipping](abhyarcya) [subjugates](vaśayet) [two-kinds](dvividhān) [enemies](ripūn)
+[for-that-long](tāvat)+[day](dinaṃ) [likewise](tathā)+[having-worshipped](abhyarcya) [one-may-subjugate](vaśayet)+[two-kinds](dvividhān) [enemies](ripūn)
 
 ## mukta-m0-p65-v1618
-[ten](daśa) [well-matched](susamānīti)
+[ten](daśa) [very-equal](susamā(nā)n)+[thus](iti)
 
 ## mukta-m0-p65-v1619
-[from-seven-days](saptāhāt) [calamities](āpadaḥ) [all](sarvāḥ) [depart](prayāntyasyāḥ) [by-grace](prasādataḥ)
+[in-seven-days](saptāhāt)+[calamities](āpadaḥ) [all](sarvāḥ) [depart](prayānti)+[of-him](asyaḥ) [by-grace](prasādataḥ)
 
 ## mukta-m0-p65-v1620
-[only](kevalaṃ) [milk-rice](pāyasaṃ) [plantain](mocāṃ) [sugar](sitāṃ) [with-ghee](ghṛtasamanvitām)
+[only](kevalaṃ) [milk-rice](pāyasaṃ) [banana](mocāṃ) [sugar](sitāṃ) [ghee](ghṛta)+[accompanied](samanvitām)
 
 ## mukta-m0-p65-v1621
-[having-conquered](jitvā) [happy](sukhī) [long](ciraṃ) [lives](jīvet) [remainder](śeṣam) [life](āyur) [disease-free](nirāmayaḥ)
+[having-conquered](jitvā) [happy](sukhī) [long](ciraṃ) [may-live](jīvet)+[remaining](śeṣam)+[life](āyuḥ)+[free-from-disease](nirāmayaḥ)
 
 ## mukta-m0-p65-v1622
-[having-done](kṛtvā) [to-him](tasmai) [gift](dakṣiṇāṃ) [and](ca) [should-give](dadyāt) [wealth](dravyaṃ) [abundant](bhūri) [according-to-ability](svaśaktitaḥ)
+[having-done](kṛtvā) [to-him](tasmai) [fee](dakṣiṇāṃ) [and](ca) [one-should-give](dadyāt)+[wealth](dravyaṃ)+[abundant](bhūri) [according-to-own](sva)+[ability](śaktitaḥ)
 
 ## mukta-m0-p65-v1623
-[by-which](yenāsau) [satisfaction](toṣam) [comes](āyāti) [that-much](tāvadvittaṃ) [should-offer](samarpayet)
+[by-which](yena)+[he](asau) [satisfaction](toṣam)+[attains](āyāti) [that-much](tāvat)+[wealth](vittaṃ) [one-should-offer](samarpayet)
 
 ## mukta-m0-p65-v1624
-[on-smooth](masṛṇe) [or](vā) [stone-slab](śilāpaṭṭe) [seat](pīṭhe) [or](vā) [palace-floor](saudhabhūtale)
+[on-smooth](masṛṇe) [or](vā) [stone](śilā)+[slab](paṭṭe) [on-platform](pīṭhe) [or](vā) [on-mansion](saudha)+[ground](bhūtale)
 
 ## mukta-m0-p65-v1625
-[should-worship](pūjayet) [in-three-twilights](triṣu) [sandhyāsu] [reciting](japan) [vidyā](vidyāṃ) [thus](tathā) [subjugation](vaśī)
+[one-should-worship](pūjayet)+[in-three](triṣu) [junctions](sandhyāsu) [reciting](japan)+[mantra](vidyāṃ) [likewise](tathā) [self-controlled](vaśī)
