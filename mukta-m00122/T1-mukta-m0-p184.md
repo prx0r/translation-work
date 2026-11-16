@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p184-v4576
-[earth-born](bhūtayaḥ) [abounding](pracurāḥ) [gentle](saumyāḥ) [to-be-served](sevyāḥ) [siddhi-causing](siddhi-karāḥ) [considered](matāḥ)
+[element](bhūta) [not-abundant](uyapracurāḥ) [gentle](saumyāḥ) [to-be-served](sevyāḥ) [success-giving](siddhikarā) [considered](matāḥ)
 
 ## mukta-m0-p184-v4577
-[by-them](taiḥ) [thus](tathā) [by-worship](bhajanāt) [siddhas](siddhāḥ) [bear-fruit](phalanti) [by-sekya-yoga](saikya-yogataḥ)
+[by-them](taiḥ) [thus](tathā) [from-worship](bhajanāt) [accomplished](siddhāḥ) [they-bear-fruit](phalanti) [by-union-connection](saikya+yogataḥ)
 
 ## mukta-m0-p184-v4578
-[worship-series](pūjā-paṭala) [proclaimed](samproktāḥ) [threefold](tri-vidhāḥ) [they-are](syuḥ) [worshippers](upāsakāḥ)
+[in-worship-chapter](pūjā+paṭala) [declared](samproktāḥ) [threefold](trividhāḥ) [they-are](syuḥ) [worshippers](upāsakāḥ)
 
 ## mukta-m0-p184-v4579
-[by-proclaimed-yoga](prokta-yogataḥ) [to-be-stated](vakṣyamāṇa) [mantra-power-nature](mantra-vīryya-sva-rūpa) [contemplation-yoga](anusandhāna-yogataḥ)
+[by-declared-method](prokta+yogataḥ) [to-be-stated](vakṣyamāṇa) [mantra-power](mantra+vīryya) [nature](svarūpa) [contemplation](anusandhāna) [by-method](yogataḥ)
 
 ## mukta-m0-p184-v4580
-[siddhas](siddhāḥ) [their-own](sva-sva) [fierce-gentle-mixed-etc](krūra-saumya-miśra-ādi) [by-own-nature](sva-bhāva-anuguṇam) [bear-fruit](phalanti) [thus](iti)
+[accomplished](siddhāḥ) [own](sva+sva) [fierce-gentle-mixed-etc.](krūra+saumya+miśra+ādi) [nature](svabhāva) [according-to](anuguṇaṃ) [they-bear-fruit](phalanti) [thus](iti)
 
 ## mukta-m0-p184-v4581
-[mutually](ekonyaḥ) [from-all-sides](sarvataḥ) [siddhi-derivation-purpose](siddha-vyutpatti-artha) [looking-into](abhivīkṣaṇam)
+[one-by-one](ekonyaḥ) [from-all-sides](sarvataḥ) [accomplishment](siddha) [arising](vyutpatti) [purpose](artha) [examination](abhivīkṣaṇam)
 
 ## mukta-m0-p184-v4582
-[of-these](eṣām) [fivefold](pañca-prakārāṇām) [entirely](aśeṣeṇa) [desired-siddhi-givers](iṣṭa-siddhi-dāḥ)
+[of-these](eṣāṃ) [of-five-kinds](pañca+prakārāṇām) [completely](aśeṣeṇa) [desired-success](iṣṭa+siddhi) [giving](dāḥ)
 
 ## mukta-m0-p184-v4583
-[by-which](yena) [by-knowledge-experienced](jñāna-anubhūtena) [living-liberated](jīvan-muktaḥ) [becomes](bhavet) [man](naraḥ)
+[by-which](yena) [by-knowledge-experience](jñāna+anubhūtena) [living-liberated](jīvan+muktaḥ) [becomes](bhavet) [man](naraḥ)
 
 ## mukta-m0-p184-v4584
-[by-that-contemplation](tad-anusandhānena) [as-stated-above](yathā-uditena) [thus](iti) [so-much](yāvat)
+[by-contemplation-of-that](tat+anusandhānena) [as-stated](yathā+uditena) [thus](iti) [so-far](yāvat)
 
 ## mukta-m0-p184-v4585
-[three-gunas](guṇa-trayam) [of-these](amīṣām) [and](ca) [which](yat) [cause](kāraṇam) [declared](udāhṛtam)
+[three-qualities](guṇa+trayam) [and-of-these](amīṣām+ca) [which](yat) [cause](kāraṇam) [declared](udāhṛtam)
 
 ## mukta-m0-p184-v4586
-[that](tat) [mantra-power](mantra-vīryyam) [is-pointed-out](uddiṣṭam) [of-mantras](mantrāṇām) [life](jīvaḥ) [is-said](īritaḥ)
+[that](tat) [mantra-power](mantra+vīryyam) [designated](uddiṣṭaṃ) [of-mantras](mantrāṇāṃ) [life](jīvaḥ) [called](īritaḥ)
 
 ## mukta-m0-p184-v4587
-[praṇava-part-formed](praṇava-avayava-bhūtaiḥ) [also](api) [as-before](prāk-vat) [one-should-make-one](ekīkuryāt) [thus](iti) [tradition](sampradāyaḥ)
+[by-parts-of-praṇava](praṇava+avayava+bhūtaiḥ) [also](api) [as-before](prāk+vat) [one-should-unite](ekīkuryāt) [thus](iti) [tradition](sampradāyaḥ)
 
 ## mukta-m0-p184-v4588
-[always](sadā) [by-practice](prayogāt) [by-worship](bhajanāt) [at-wrong-time](akāle) [by-doubt](saṃśayāt) [may-be](bhavet)
+[always](sadā) [from-application](prayogāt) [from-worship](bhajanāt) [at-wrong-time](akāle) [from-doubt](saṃśayāt) [may-arise](bhavet)
 
 ## mukta-m0-p184-v4589
-[by-offense-to-deity](devatā-drohataḥ) [all](sarva) [by-slander](parivādāt) [by-instability](avasthayā)
+[from-offense-to-deity](devatā+drohataḥ) [from-censuring-all](sarva+parivādāt) [from-instability](anavasthayā)
 
 ## mukta-m0-p184-v4590
-[that](tat) [correctness](samyaktvam) [by-which](yena) [may-be](bhavet) [to-be-done](kāryyam) [that](tat) [before](pūrvam) [stated](īritam)
+[its-correctness](tat+samyaktvaṃ) [by-which](yena) [may-be](bhavet) [to-be-done](kāryyaṃ) [that](tat) [previously-stated](pūrvam+īritam)
 
 ## mukta-m0-p184-v4591
-[not-excessive-grief](na-atiśokaḥ) [not-excessive-joy](na-atiharṣaḥ) [not-excessive-attachment](na-atisnehaḥ) [not-envy](na-matsaraḥ)
+[not-excessive-sorrow](na+ati+śokaḥ) [not-excessive-joy](na+ati+harṣaḥ) [not-excessive-attachment](na+ati+snehaḥ) [not](na) [envy](matsaraḥ)
 
 ## mukta-m0-p184-v4592
-[one’s-own-body-only](sva-deha-mātra) [desire](yātrā-icchā) [other-thought-avoidance](para-cintā-vivarjanam)
+[own-body](sva+deha) [mere](mātra) [sustenance](yātrā) [desire](icchā) [concern-for-others](para+cintā) [abandonment](vivarjanam)
 
 ## mukta-m0-p184-v4593
-[that](tat) [that-mantra-knowledge-contemplation](tat-mantra-vidyā-anusandhānam) [thus](iti) [meaning](arthaḥ)
+[that](tat) [that-mantra-knowledge](tat+mantra+vidyā) [contemplation](anusandhānam) [thus](iti) [meaning](arthaḥ)
 
 ## mukta-m0-p184-v4594
-[enjoyership](bhoktṛtvam) [by-power](śaktitaḥ) [giving](dānam) [thus](iti) [of-siddha](siddhasya) [mark](lakṣaṇam)
+[enjoyment](bhoktṛtvaṃ) [according-to-capacity](śaktitaḥ) [giving](dānam) [thus](iti) [of-accomplished-one](siddhasya) [characteristic](lakṣaṇam)
 
 ## mukta-m0-p184-v4595
-[of-king](rājñaḥ) [favor](prasādaḥ) [of-all](sarveṣām) [respect](mānyatvam) [merit-attainments](puṇya-siddhayaḥ)
+[of-king](rājñaḥ) [favor](prasādaḥ) [of-all](sarveṣāṃ) [honor](mānyatvaṃ) [merit-successes](puṇya+siddhayaḥ)
 
 ## mukta-m0-p184-v4596
-[health](ārogyam) [non-contradiction](avisaṃvādaḥ) [good-discipleship](sat-śiṣyatvam) [gratitude](kṛtajñatā)
+[health](ārogyam) [non-contradiction](avisaṃvādaḥ) [good-discipleship](sat+śiṣyatvaṃ) [gratitude](kṛtajñatā)
 
 ## mukta-m0-p184-v4597
-[direct](pratyakṣāḥ) [siddhis](siddhayaḥ) [proclaimed](proktāḥ) [of-mantra](manoḥ) [of-siddha](siddhasya) [from-all-sides](sarvataḥ)
+[perceptible](pratyakṣāḥ) [successes](siddhayaḥ) [declared](proktāḥ) [of-mantra](manoḥ) [of-accomplished-one](siddhasya) [in-all-respects](sarvataḥ)
 
 ## mukta-m0-p184-v4598
-[by-siddha-mantra](siddha-mantreṇa) [to-be-done](karttavyāḥ) [practices](prayogāḥ) [not](na) [otherwise](anyathā) [O-beloved](priye)
+[by-accomplished-mantra](siddha+mantreṇa) [to-be-done](karttavyāḥ) [applications](prayogāḥ) [not-otherwise](na+anyathā) [dear-one](priye)
 
 ## mukta-m0-p184-v4599
-[mutual](anyonya) [enmity](vairam) [is-indeed](asti) [eva](eva) [guna-bhuta-connection](guṇa-bhūta-samanvayāt)
+[mutual](anyonya) [enmity](vairam) [exists](asti) [indeed](eva) [secondary-quality](guṇa+bhūta) [connection](samanvayāt)
 
 ## mukta-m0-p184-v4600
-[of-wind-born](vāyavyānām) [of-waters](jalānām) [ca](ca) [of-earth-born](bhaumānām) [may-be](syāt) [mutually](parasparam)
+[of-airy-ones](vāyavyānāṃ) [of-watery-ones](jalānām+ca) [of-earthy-ones](bhaumānāṃ) [may-be](syāt) [mutually](parasparam)

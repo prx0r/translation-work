@@ -19,12 +19,8 @@
 "quick_gloss": "but"
 },
 {
-"surface": "tat",
-"quick_gloss": "that"
-},
-{
-"surface": "māsa",
-"quick_gloss": "month"
+"surface": "tan+māsa",
+"quick_gloss": "that-month"
 },
 {
 "surface": "pūrṇāyāṃ",
@@ -56,7 +52,7 @@
 "quick_gloss": "even"
 },
 {
-"surface": "dīrghāyuḥ",
+"surface": "dīrgha+āyuḥ",
 "quick_gloss": "long-lived"
 },
 {
@@ -81,12 +77,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "nitya",
-"quick_gloss": "eternity"
-},
-{
-"surface": "ātmakau",
-"quick_gloss": "natured"
+"surface": "nitya+ātmakau",
+"quick_gloss": "eternal-natured"
 },
 {
 "surface": "bhavataḥ",
@@ -135,12 +127,8 @@
 "quick_gloss": "is-regarded"
 },
 {
-"surface": "sarva",
-"quick_gloss": "all"
-},
-{
-"surface": "mantrāḥ",
-"quick_gloss": "mantras"
+"surface": "sarva+mantrāḥ",
+"quick_gloss": "all-mantras"
 },
 {
 "surface": "ca",
@@ -152,7 +140,7 @@
 },
 {
 "surface": "syuḥ",
-"quick_gloss": "they-become"
+"quick_gloss": "may-be"
 },
 {
 "surface": "tatra",
@@ -192,12 +180,8 @@
 "quick_gloss": "thus"
 },
 {
-"surface": "sapta",
-"quick_gloss": "in-seven"
-},
-{
-"surface": "dvīpeṣu",
-"quick_gloss": "islands"
+"surface": "sapta+dvīpeṣu",
+"quick_gloss": "in-seven-islands"
 },
 {
 "surface": "bhūruhāḥ",
@@ -213,28 +197,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "tat",
-"quick_gloss": "by-those"
-},
-{
-"surface": "tat",
-"quick_gloss": "by-those"
-},
-{
-"surface": "nāmabhiḥ",
-"quick_gloss": "names"
+"surface": "tat+tat+nāmabhiḥ",
+"quick_gloss": "by-their-respective-names"
 },
 {
 "surface": "abhyarcya",
 "quick_gloss": "having-worshipped"
 },
 {
-"surface": "tat",
-"quick_gloss": "that"
-},
-{
-"surface": "dvīpaṃ",
-"quick_gloss": "island"
+"surface": "tat+dvīpaṃ",
+"quick_gloss": "that-island"
 },
 {
 "surface": "tatra",
@@ -299,19 +271,15 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "mahā",
-"quick_gloss": "great"
-},
-{
-"surface": "vyoma",
-"quick_gloss": "sky"
+"surface": "mahā+vyoma",
+"quick_gloss": "great-space"
 },
 {
 "surface": "ca",
 "quick_gloss": "and"
 },
 {
-"surface": "niḥsaumaṃ",
+"surface": "niḥ+saumaṃ",
 "quick_gloss": "without-moon"
 },
 {
@@ -319,12 +287,8 @@
 "quick_gloss": "there"
 },
 {
-"surface": "etat",
-"quick_gloss": "of-this"
-},
-{
-"surface": "dvaya",
-"quick_gloss": "pair"
+"surface": "etat+dvaya",
+"quick_gloss": "of-this-pair"
 },
 {
 "surface": "saṃsthitiḥ",
@@ -340,20 +304,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "pratipakṣa",
+"surface": "prati+pakṣa",
 "quick_gloss": "each-fortnight"
 },
 {
-"surface": "tat",
-"quick_gloss": "that"
-},
-{
-"surface": "tat",
-"quick_gloss": "that"
-},
-{
-"surface": "prāpta",
-"quick_gloss": "obtained"
+"surface": "tat+tat+prāpta",
+"quick_gloss": "each-attained"
 },
 {
 "surface": "tithīḥ",
@@ -368,20 +324,16 @@
 "quick_gloss": "worshipping"
 },
 {
-"surface": "prokta",
-"quick_gloss": "declared"
-},
-{
-"surface": "phala",
-"quick_gloss": "fruit"
+"surface": "prokta+phala",
+"quick_gloss": "stated-fruit"
 },
 {
 "surface": "siddhi",
-"quick_gloss": "accomplishment"
+"quick_gloss": "attainment"
 },
 {
 "surface": "bhāk",
-"quick_gloss": "sharer"
+"quick_gloss": "partaker"
 },
 {
 "surface": "iti",
@@ -397,12 +349,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "prokta",
-"quick_gloss": "declared"
-},
-{
-"surface": "rūpa",
-"quick_gloss": "form"
+"surface": "prokta+rūpa",
+"quick_gloss": "of-stated-form"
 },
 {
 "surface": "prabhāvaḥ",
@@ -442,12 +390,8 @@
 "quick_gloss": "movement"
 },
 {
-"surface": "niyata",
-"quick_gloss": "regulated"
-},
-{
-"surface": "ātmanām",
-"quick_gloss": "natured"
+"surface": "niyata+ātmanām",
+"quick_gloss": "regulated-nature"
 }
 ]
 },
@@ -496,32 +440,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "prāk",
-"quick_gloss": "previously"
+"surface": "prāk+ukta+rūpāṃ",
+"quick_gloss": "previously-stated-form"
 },
 {
-"surface": "ukta",
-"quick_gloss": "described"
+"surface": "tat+tīre",
+"quick_gloss": "on-its-shore"
 },
 {
-"surface": "rūpāṃ",
-"quick_gloss": "form"
-},
-{
-"surface": "tat",
-"quick_gloss": "on-that"
-},
-{
-"surface": "tīre",
-"quick_gloss": "shore"
-},
-{
-"surface": "kola",
-"quick_gloss": "boar"
-},
-{
-"surface": "vaktrām",
-"quick_gloss": "faced"
+"surface": "kola+vaktrām",
+"quick_gloss": "boar-faced"
 },
 {
 "surface": "tu",
@@ -541,28 +469,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "tat",
-"quick_gloss": "in-that"
+"surface": "tat+madhye",
+"quick_gloss": "in-its-middle"
 },
 {
-"surface": "madhye",
-"quick_gloss": "middle"
+"surface": "nava+ratnāni",
+"quick_gloss": "nine-jewels"
 },
 {
-"surface": "nava",
-"quick_gloss": "nine"
-},
-{
-"surface": "ratnāni",
-"quick_gloss": "jewels"
-},
-{
-"surface": "mahā",
-"quick_gloss": "great"
-},
-{
-"surface": "dvīpam",
-"quick_gloss": "island"
+"surface": "mahā+dvīpam",
+"quick_gloss": "great-island"
 },
 {
 "surface": "ca",
@@ -586,32 +502,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "tat",
-"quick_gloss": "in-that"
+"surface": "tat+madhye",
+"quick_gloss": "in-its-middle"
 },
 {
-"surface": "madhye",
-"quick_gloss": "middle"
-},
-{
-"surface": "asaṃkhya",
-"quick_gloss": "by-innumerable"
-},
-{
-"surface": "rūpābhiḥ",
-"quick_gloss": "forms"
+"surface": "asaṃkhya+rūpābhiḥ",
+"quick_gloss": "by-innumerable-forms"
 },
 {
 "surface": "vṛtāṃ",
 "quick_gloss": "surrounded"
 },
 {
-"surface": "saṅgīta",
-"quick_gloss": "by-music"
-},
-{
-"surface": "śaktibhiḥ",
-"quick_gloss": "powers"
+"surface": "saṅgīta+śaktibhiḥ",
+"quick_gloss": "by-music-powers"
 }
 ]
 },
@@ -636,7 +540,7 @@
 },
 {
 "surface": "manthara",
-"quick_gloss": "languid"
+"quick_gloss": "slow"
 },
 {
 "surface": "vīkṣaṇām",
@@ -652,20 +556,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "śuci",
-"quick_gloss": "pure"
+"surface": "śuci+smitāṃ",
+"quick_gloss": "pure-smile"
 },
 {
-"surface": "smitāṃ",
-"quick_gloss": "smiling"
-},
-{
-"surface": "śakti",
-"quick_gloss": "by-śakti"
-},
-{
-"surface": "vṛnda",
-"quick_gloss": "multitude"
+"surface": "śakti+vṛnda",
+"quick_gloss": "by-group-of-śaktis"
 },
 {
 "surface": "gīta",
@@ -694,7 +590,7 @@
 },
 {
 "surface": "icchā",
-"quick_gloss": "desire"
+"quick_gloss": "will"
 },
 {
 "surface": "iti",
@@ -730,8 +626,8 @@
 "quick_gloss": "beheld"
 },
 {
-"surface": "susādhakām",
-"quick_gloss": "fortunate-practitioner"
+"surface": "su+sādhakām",
+"quick_gloss": "good-practitioner"
 }
 ]
 },
@@ -747,7 +643,7 @@
 "quick_gloss": "shining"
 },
 {
-"surface": "diradān",
+"surface": "dviradān",
 "quick_gloss": "elephants"
 },
 {
@@ -760,7 +656,7 @@
 },
 {
 "surface": "tathāvidhān",
-"quick_gloss": "of-that-kind"
+"quick_gloss": "of-such-kind"
 }
 ]
 },
@@ -772,12 +668,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "sva",
-"quick_gloss": "by-her"
-},
-{
-"surface": "samānābhiḥ",
-"quick_gloss": "equal"
+"surface": "sva+samānābhiḥ",
+"quick_gloss": "by-those-equal-to-herself"
 },
 {
 "surface": "abhitaḥ",
@@ -805,20 +697,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "tat",
-"quick_gloss": "her"
+"surface": "tat+vinodaḥ",
+"quick_gloss": "her-entertainment"
 },
 {
-"surface": "vinodaḥ",
-"quick_gloss": "entertainment"
-},
-{
-"surface": "tat",
-"quick_gloss": "her"
-},
-{
-"surface": "samīpa",
-"quick_gloss": "vicinity"
+"surface": "tat+samīpa",
+"quick_gloss": "her-near"
 },
 {
 "surface": "nivāsī",
@@ -826,7 +710,7 @@
 },
 {
 "surface": "syāt",
-"quick_gloss": "he-becomes"
+"quick_gloss": "may-be"
 },
 {
 "surface": "suniścitam",
@@ -842,32 +726,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "nava",
-"quick_gloss": "nine"
-},
-{
-"surface": "ratna",
-"quick_gloss": "jewel"
-},
-{
-"surface": "mayaṃ",
-"quick_gloss": "made"
+"surface": "nava+ratna+mayaṃ",
+"quick_gloss": "nine-jewel-made"
 },
 {
 "surface": "dvīpaṃ",
 "quick_gloss": "island"
 },
 {
-"surface": "tat",
-"quick_gloss": "by-that"
-},
-{
-"surface": "māna",
-"quick_gloss": "measure"
-},
-{
-"surface": "abdibhiḥ",
-"quick_gloss": "oceans"
+"surface": "tat+māna+abdibhiḥ",
+"quick_gloss": "by-oceans-of-its-measure"
 },
 {
 "surface": "āvṛtam",
@@ -883,28 +751,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "ratna",
-"quick_gloss": "of-jewel"
+"surface": "ratna+dvīpasya",
+"quick_gloss": "of-jewel-island"
 },
 {
-"surface": "dvīpasya",
-"quick_gloss": "island"
+"surface": "madhya+stha",
+"quick_gloss": "in-middle-situated"
 },
 {
-"surface": "madhya",
-"quick_gloss": "in-the-middle"
-},
-{
-"surface": "stha",
-"quick_gloss": "situated"
-},
-{
-"surface": "tṛtīya",
-"quick_gloss": "third"
-},
-{
-"surface": "aṃśe",
-"quick_gloss": "part"
+"surface": "tṛtīya+aṃśe",
+"quick_gloss": "third-part"
 },
 {
 "surface": "tu",
@@ -912,7 +768,7 @@
 },
 {
 "surface": "maṇḍape",
-"quick_gloss": "in-the-pavilion"
+"quick_gloss": "in-pavilion"
 }
 ]
 }
