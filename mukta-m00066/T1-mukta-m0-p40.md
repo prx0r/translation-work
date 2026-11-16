@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p40-v976
-[bahunā](bahunā) [kim](kim) [iha](iha) [uktena](uktena) [sākṣāt](sākṣāt) [ānanda-dāyakaḥ](ānandadāyakaḥ)
+[much](bahunā) [what+here](kim+iha) [by-saying](uktena) [directly](sākṣāt) [bliss+giving](ānaṃda+dāyakaḥ)
 
 ## mukta-m0-p40-v977
-[iti](iti) [dvitīya-pātasya](dvitīyapātasya) [maṃtra-sannāma](maṃtrasannāma) [īritam](īritam)
+[thus](iti) [of-second+fall](dvitīya+pātasya) [mantra+six-named](maṃtra+sat+nāma) [declared](īritam)
 
 ## mukta-m0-p40-v978
-[aṣṭa-bhogavatī](aṣṭabhogavatī) [dhatte](dhatte) [mahā-sāmrājya](mahāsāmrājya) [nāthatām](nāthatām)
+[eight+enjoyment-possessing](aṣṭa+bhogavatī) [holds](dhatte) [great+sovereignty](mahā+sāmrājya) [lordship](nāthatām)
 
 ## mukta-m0-p40-v979
-[sarva-ākāreṇa](sarvākāreṇa) [caitanya](caitanya) [layaḥ](layaḥ) [sarva-aṃga-suṃdarī](sarvāṃgasuṃdarī)
+[in-all+forms](sarva+ākāreṇa) [consciousness](caitanya) [dissolution](layaḥ) [all+limb+beautiful](sarva+aṃga+suṃdarī)
 
 ## mukta-m0-p40-v980
-[viśva-kṣati](viśvakṣati) [ca](ca) [yat-kiṃcit](yatkiṃcit) [na](na) [ca](ca) [niryāti](niryāti) [vakrataḥ](vakrataḥ)
+[universe+decay](viśva+kṣati) [and](ca) [whatever](yatkiṃcit) [not](na) [and](ca) [goes-out](niryāti) [from-crookedness](vakrataḥ)
 
 ## mukta-m0-p40-v981
-[na](na) [ceṣṭā](ceṣṭā) [na](na) [ca](ca) [saṃraṃbhaḥ](saṃraṃbho) [na](na) [ca](ca) [mohana](mohana) [kūjitam](kūjitam)
+[not](na) [activity](ceṣṭā) [not](na) [and](ca) [agitation](saṃraṃbhaḥ) [not](na) [and](ca) [delusion](mohana) [cooing](kūjitam)
 
 ## mukta-m0-p40-v982
-[na](na) [daṃta](daṃta) [pātana](pātano) [muṣṭi-ghātena](muṣṭighātena) [ca](ca) [ka](ka) [ca](ca) [grahaḥ](grahaḥ)
+[not](na) [tooth](daṃta) [falling+fist](pātana+muṣṭi) [by-striking](ghātena) [and](ca) [what](ka) [and](ca) [seizing](grahaḥ)
 
 ## mukta-m0-p40-v983
-[na](na) [mekhalā](mekhalā) [kala-kvāṇaḥ](kalakvāṇo) [na](na) [līlā-saṃgama-aṃgayaḥ](līlāsaṃgamaṃgayaḥ)
+[not](na) [girdle](mekhalā) [soft-sound](kalakvāṇaḥ) [not](na) [sport+union+breaking](līlā+saṃgama+ṃgayaḥ)
 
 ## mukta-m0-p40-v984
-[hṛdaya-sthāna](hṛdayasthāna) [janitaḥ](janitaḥ) [kaṃpaḥ](kaṃpaḥ) [para-parāyate](paraparāyate)
+[heart+place](hṛdaya+sthāna) [born](janitaḥ) [trembling](kaṃpaḥ) [to-supreme-state](paraparāyate)
 
 ## mukta-m0-p40-v985
-[eka-aṣṭaka-mahā-yāga](ekāṣṭakamahāyāga) [pakṣe-biṃduṃ](pakṣebiṃduṃ) [sam-utsṛjet](samutsṛjet)
+[one+eight+great+sacrifice](eka+aṣṭaka+mahā+yāga) [in-fortnight](pakṣe) [drop](biṃduṃ) [one-should-emit](samutsṛjet)
 
 ## mukta-m0-p40-v986
-[aṣṭa-aṣṭaka-mahā-yāge](aṣṭāṣṭakamahāyāge) [dūtya-aṣṭakam](dūtyaṣṭakam) [ataḥ](ataḥ) [param](param)
+[eight+eight+great+sacrifice](aṣṭa+aṣṭaka+mahā+yāge) [messenger+eight](dūty+aṣṭakam) [thereafter](ataḥ) [then](param)
 
 ## mukta-m0-p40-v987
-[iyam-eva](iyameva) [hi](hi) [śakteḥ-ca](śakteśca) [śaṃbhoḥ-ekatayā](śaṃbhorekatayā) [sthitiḥ](sthitiḥ)
+[this](iyam) [alone](eva) [indeed](hi) [of-śakti](śakteḥ) [and](ca) [of-śambhu](śaṃbhoḥ) [by-oneness](ekatayā) [state](sthitiḥ)
 
 ## mukta-m0-p40-v988
-[ittham-ānanda](itthamānaṃda) [yāgaḥ-ayam](yāgo'yaṃ) [kathitaḥ-te](kathitaste) [maheśvari](maheśvari)
+[thus](ittham) [bliss](ānaṃda) [sacrifice](yāgaḥ) [this](ayam) [told](kathitaḥ) [to-you](te) [o-great-goddess](maheśvari)
 
 ## mukta-m0-p40-v989
-[bhavataḥ](bhavato) [vadana-aṃbhojāt](vadanāṃbhojāt) [su-śrutaḥ](suśruto) [aṣṭa-āhuti](aṣṭāhuti) [kramaḥ](kramaḥ)
+[from-your](bhavataḥ) [face+lotus](vadana+aṃbhojāt) [well-heard](suśrutaḥ) [eight+oblation](aṣṭa+āhuti) [sequence](kramaḥ)
 
 ## mukta-m0-p40-v990
-[śrotuṃ](śrotuṃ) [vāṃcchāmi](vāṃcchāmi) [deveśa](deveśa) [yāga-anaṃtara-jam](yāgānaṃtarajaṃ) [kramam](kramam)
+[to-hear](śrotuṃ) [I-desire](vāṃcchāmi) [o-lord-of-gods](deveśa) [sacrifice+after+born](yāga+antara+jaṃ) [sequence](kramam)
 
 ## mukta-m0-p40-v991
-[śṛṇu](śṛṇu) [devi](devi) [mahā-bhāge](mahābhāge) [yat-māṃ-tvaṃ](yanmāṃtvaṃ) [paripṛcchasi](paripṛcchasi)
+[listen](śṛṇu) [o-goddess](devi) [o-greatly-fortunate-one](mahābhāge) [which](yat) [me](māṃ) [you](tvaṃ) [ask](paripṛcchasi)
 
 ## mukta-m0-p40-v992
-[vīraḥ](vīraḥ) [sucira-nṛttena](suciranṛttena) [śrāṃta-liṃga-maheśvaraḥ](śrāṃtaliṃgamaheśvaraḥ)
+[hero](vīraḥ) [by-very-long+dancing](sucira+nṛttena) [fatigued+linga+great-lord](śrāṃta+liṃga+maheśvaraḥ)
 
 ## mukta-m0-p40-v993
-[atha](atha) [pradūṣita-pāte](pradūṣitapāte) [pūrite](pūrite) [puṇya-vastubhiḥ](puṇyavastubhiḥ)
+[then](atha) [in-polluted](pradūṣita) [vessel](pāte) [filled](pūrite) [with-meritorious+substances](puṇya+vastubhiḥ)
 
 ## mukta-m0-p40-v994
-[ānaṃda-nāthasya](ānaṃdanāthasya) [manuṃ](manuṃ) [ca](ca) [aṣṭā-viṃśati-vārakam](aṣṭāviṃśativārakam)
+[of-ānandanātha](ānaṃdanāthasya) [mantra](manuṃ) [and](ca) [twenty-eight+times](aṣṭāviṃśati+vārakam)
 
 ## mukta-m0-p40-v995
-[dakṣa-hastasya](dakṣahastasya) [culuke](culuke) [dhārayitvā](dhārayitvā) [vicakṣaṇaḥ](vicakṣaṇaḥ)
+[of-right+hand](dakṣa+hastasya) [in-hollow](culuke) [having-held](dhārayitvā) [skilled-one](vicakṣaṇaḥ)
 
 ## mukta-m0-p40-v996
-[sa-śuddhi-bhyāṃ-tayoḥ](saśuddhibhyāṃtayor) [biṃduṃ](biṃduṃ) [kārikāḥ](kārikāḥ) [prapaṭhan](prapaṭhan) [kiret](kiret)
+[with-two-purifications](saśuddhibhyāṃ) [of-those-two](tayoḥ) [drop](biṃduṃ) [verses](kārikāḥ) [reciting](prapaṭhan) [should-scatter](kiret)
 
 ## mukta-m0-p40-v997
-[etaiḥ](etair) [ānaṃda-yāga-anta](ānaṃdayāgāṃta) [śukla-śoṇita-biṃdubhiḥ](śuklaśoṇitabiṃdubhiḥ)
+[with-these](etaiḥ) [bliss+sacrifice+end](ānaṃda+yāga+aṃta) [white+red+drop](śukla+śoṇita+biṃdubhiḥ)
 
 ## mukta-m0-p40-v998
-[etaiḥ](etair) [ānaṃda-yāga-anta](ānaṃdayāgāṃta) [śukla-śoṇita-biṃdubhiḥ](śuklaśoṇitabiṃdubhiḥ)
+[with-these](etaiḥ) [bliss+sacrifice+end](ānaṃda+yāga+aṃta) [white+red+drop](śukla+śoṇita+biṃdubhiḥ)
 
 ## mukta-m0-p40-v999
-[etaiḥ](etair) [ānaṃda-yāga-anta](ānaṃdayāgāṃta) [śukla-śoṇita-biṃdubhiḥ](śuklaśoṇitabiṃdubhiḥ)
+[with-these](etaiḥ) [bliss+sacrifice+end](ānaṃda+yāga+aṃta) [white+red+drop](śukla+śoṇita+biṃdubhiḥ)
 
 ## mukta-m0-p40-v1000
-[etaiḥ](etair) [ānaṃda-yāga-anta](ānaṃdayāgāṃta) [śukla-śoṇita-biṃdubhiḥ](śuklaśoṇitabiṃdubhiḥ)
+[with-these](etaiḥ) [bliss+sacrifice+end](ānaṃda+yāga+aṃta) [white+red+drop](śukla+śoṇita+biṃdubhiḥ)
