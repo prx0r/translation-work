@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p62-v1526
-[unafraid](abhīruṇam) [waters](āpomāta) [from-sin](smādenasaḥ) [purifying](pavamānañcamuñcatu)
+[fearless](abhīruṇam) [waters](āpo) [not](mā) [from-this](tasmāt) [from-sin](enasaḥ) [purifying](pavamānaḥ) [and](ca) [release](muñcatu)
 
 ## mukta-m0-p62-v1527
-[colors](raṅgānimitramme) [with](saha) [arms](bāhūmebalamidriyaguṃ) [hand](hastaumekarma) [virility](vīryam)
+[colors](raṅgāni) [friend](mitram) [my](me) [with](saha) [arms](bāhū) [my](me) [strength](balam) [sense-power](indriyam) [hands](hastau) [my](me) [action](karma) [vigor](vīryam)
 
 ## mukta-m0-p62-v1528
-[self](ātmākṣatramuromama)
+[self](ātmā) [ruling-power](kṣatram) [chest](uraḥ) [my](mama)
 
 ## mukta-m0-p62-v1529
-[limbs](viśomeṅgāni) [everywhere](sarvataḥ) [name](nāmirmecittamvijñānampāyurmepacitirbhasat)
+[people](viśaḥ) [my](me) [limbs](aṅgāni) [on-all-sides](sarvataḥ) [navel](nābhiḥ) [my](me) [mind](cittam) [knowledge](vijñānam) [anus](pāyuḥ) [my](me) [arrangement](pacitiḥ) [be](bhasat)
 
 ## mukta-m0-p62-v1530
-[viṣṇu](viṣṇumaheśvarāḥ) [maheśvara](viṣṇumaheśvarāḥ) [vāsudeva](vāsudevo) [jagannātha](jagannāthastasthāsaṃkarṣaṇo) [vibhu](vibhuḥ)
+[viṣṇu+great-lords](viṣṇumaheśvarāḥ) [vāsudeva](vāsudevo) [world-lord](jagannāthas) [stood](tasthā) [saṃkarṣaṇa](saṃkarṣaṇo) [all-pervading](vibhuḥ)
 
 ## mukta-m0-p62-v1531
-[vairi](vainir-ṛtistathā) [varuṇa](varuṇaḥ) [pavana](pavanaścaivadhanādhyakṣastathāśivaḥ) [śiva](śivaḥ)
+[indeed](vai) [nirṛti](nir-ṛtis) [likewise](tathā) [varuṇa](varuṇaḥ) [wind](pavanaś) [and](ca) [indeed](eva) [wealth-lord](dhanādhyakṣas) [likewise](tathā) [śiva](śivaḥ)
 
 ## mukta-m0-p62-v1532
-[brahmā](brahmaṇāḥ) [together](sahitāḥ) [all](sarvedigpālāḥ) [guardians](digpālāḥ) [protect](pāntu) [you](te) [always](sadā)
+[with-brahmā](brahmaṇāḥ) [accompanied](sahitāḥ) [all](sarve) [direction-guardians](digpālāḥ) [protect](pāntu) [you](te) [always](sadā)
 
 ## mukta-m0-p62-v1533
-[peace](śāntistuṣṭiḥ) [contentment](tuṣṭiḥ) [beauty](kāntiścamātaraḥ) [mothers](mātaraḥ)
+[peace](śāntis) [satisfaction](tuṣṭiḥ) [radiance](kāntiś) [and](ca) [mothers](mātaraḥ)
 
 ## mukta-m0-p62-v1534
-[āditya](ādityaścaṃdramābhaumabudhajīvasitārkajāḥ) [moon](caṃdramā) [mars](bhauma) [mercury](budha) [jupiter](jīva) [saturn](sitārkajāḥ)
+[sun](ādityaś) [moon](caṃdramā) [mars](bhauma) [mercury+jupiter+venus+saturn](budhajīvasitārkajāḥ)
 
 ## mukta-m0-p62-v1535
-[gandharvas](gandharvāḥyakṣarākṣapannagāḥ) [yakṣas](yakṣa) [rākṣasas](rākṣa) [serpents](pannagāḥ) [sages](ṛṣayomanavogāvodevamātara) [mothers](devamātara)
+[gandharvas](gandharvāḥ) [yakṣas+rākṣasas+nāgas](yakṣarākṣapannagāḥ) [sages](ṛṣayo) [manus](manavo) [cows](gāvo) [divine-mothers](devamātara) [indeed](eva) [and](ca)
 
 ## mukta-m0-p62-v1536
-[scriptures](śāstrāṇirājāno) [kings](rājāno) [vehicles](vāhanāni) [medicines](auṣadhāni) [jewels](caratnāni) [time-parts](kālasyāvayavāśca)
+[scriptures](śāstrāṇi) [kings](rājāno) [vehicles](vāhanāni) [and](ca) [herbs](auṣadhāni) [and](ca) [jewels](ratnāni) [of-time](kālasya) [parts](avayavāś) [and](ca) [which](ye)
 
 ## mukta-m0-p62-v1537
-[all](satsarvaṃ) [destroy](nāśayājyatvaṃ) [ghee-ness](jyatvaṃ) [dear](priyamāyuśca) [life](āyuśca) [increase](varddhaya)
+[being](sat) [all](sarvaṃ) [destroy](nāśaya) [ghee](ājya) [you](tvaṃ) [dear](priyam) [life](āyuś) [and](ca) [increase](varddhaya)
 
 ## mukta-m0-p62-v1538
-[ghee-vessel](ājyapātra) [gift](pradānena) [peace](śāntirastu) [always](sadāmama)
+[ghee-vessel](ājyapātra) [by-giving](pradānena) [peace](śāntir) [be](astu) [always](sadā) [my](mama)
 
 ## mukta-m0-p62-v1539
-[life](āyureveṃdriyaṃ) [senses](indriyaṃ) [virility](vīryamātmandhatte) [self](ātman) [holds](dhatte) [om](oṃ) [svasti](svastina') [indra](indro0)
+[life](āyur) [indeed](eva) [sense-power](indriyaṃ) [vigor](vīryam) [in-self](ātman) [places](dhatte) [oṃ](oṃ) [well-being](svastina') [indra](indro0)
 
 ## mukta-m0-p62-v1540
-[rāma](rāma) [kingdom](rājyaṃ) [rāma](rāma) [kingdom](rājyaṃ) [rāma](rāma) [kingdom](rājyaṃ) [saying](vruvan)
+[rāma-kingdom](rāma) [rāma-kingdom](rājyaṃ) [rāma-kingdom](rāma) [rāma-kingdom](rājyaṃ) [rāma-kingdom](rāma) [rāma-kingdom](rājyam) [thus](iti) [saying](vruvan)
 
 ## mukta-m0-p62-v1541
-[foot](padābhāvetrayaṃ) [three](trayaṃ) [give](deyaṃ) [vessel](pātra) [cloth](vastrāṃgulīyakam) [ring](aṃgulīyakam)
+[foot-absence](padābhāve) [three](trayaṃ) [to-be-given](deyaṃ) [vessel+garment+ring](pātra) [vessel+garment+ring](vastrāṃgulīyakam)
 
 ## mukta-m0-p62-v1542
-[then](tadā'jagāma) [vaiśya](vaiśyastu) [some](kaścitārti) [distressed](ārti) [other](parastathā)
+[then](tadā') [came](jagāma) [merchant](vaiśyas) [but](tu) [someone](kaścit) [distress-engaged](ārti) [other](paras) [likewise](tathā)
 
 ## mukta-m0-p62-v1543
-[friend](mitrāhaṃ) [vaiśya](vaiśya) [caste](jātīyaḥ) [samādhi](samādhirnāma) [named](nāma) [famous](viśrutaḥ)
+[friend](mitrā) [I](haṃ) [merchant-born](vaiśya) [merchant-born](jātīyaḥ) [samādhi](samādhir) [by-name](nāma) [renowned](viśrutaḥ)
 
 ## mukta-m0-p62-v1544
-[son](putradārai0) [wife](dārai0)
+[with-son+wife](putradārai0) [.....](.....)  [.....](.....)  [.....](.....)
 
 ## mukta-m0-p62-v1545
-[own-people](svajanena) [abandoned](ca) [reached](prāptosmi) [forest](vanamāśu) [quickly](āśu) [indeed](vai)
+[by-own-people](svajanena) [and](ca) [abandoned](saṃtyaktaḥ) [reached](prāptosmi) [forest](vanam) [quickly](āśu) [indeed](vai)
 
 ## mukta-m0-p62-v1546
-[suratha](suratho) [named](nāma) [king](rājāhaṃ) [by-robbers](dasyubhiḥ) [afflicted](pīḍito'bhavaṃ)
+[suratha](suratho) [by-name](nāma) [king](rājā) [I](haṃ) [by-robbers](dasyubhiḥ) [afflicted](pīḍito') [became](bhavaṃ)
 
 ## mukta-m0-p62-v1547
-[family](kuṭuṃbaṃ) [mine](me) [supportless](nirālaṃbaṃ) [by-me](mayāhīnaṃ) [very](suduḥkhitaṃ) [sorrowful](duḥkhitaṃ)
+[family](kuṭuṃbaṃ) [my](me) [without-support](nirālaṃbaṃ) [by-me-deprived](mayāhīnaṃ) [very-suffering](suduḥkhitaṃ)
 
 ## mukta-m0-p62-v1548
-[how](kathaṃ) [they](te) [what](kiṃnu0)
+[how](kathaṃ) [they](te) [what](kiṃ) [indeed](nu0) [.....](.....)  [.....](.....)  [.....](.....)
 
 ## mukta-m0-p62-v1549
-[those](tāndṛṣṭvā) [seeing](dṛṣṭvā) [what](kiṃ) [happiness](sukhaṃ) [to-you](tedya) [will-be](bhaviṣyati) [wise](mahāmate)
+[them](tān) [having-seen](dṛṣṭvā) [what](kiṃ) [happiness](sukhaṃ) [to-you](te) [today](adya) [will-be](bhaviṣyati) [great-minded](mahāmate)
 
 ## mukta-m0-p62-v1550
-[therefore](tasmātsthiraṃ) [firm](sthiraṃ) [mind](manaḥ) [making](kṛtvā) [dwell](viharasva) [with-me](mayā) [with](saha)
+[therefore](tasmāt) [steady](sthiraṃ) [mind](manaḥ) [having-made](kṛtvā) [dwell](viharasva) [with-me](mayā) [with](saha)

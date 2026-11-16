@@ -2,81 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p57-v1401
-direct(sākṣāt) sarasvati(sarasvatī) proclaimed(proktā) shumbha-asura-destroyer(śumbhāsuranibarhiṇī)
+[directly](sākṣāt) [sarasvati](sarasvatī) [declared](proktā) [śumbha+demon+destroyer](śumbhāsuranibarhiṇī)
 
 ## mukta-m0-p57-v1402
-conch(śaṅkhaṃ) bell(ghaṇṭāṃ) plow(lāṅgalaṃ) and(ca) bow(kārmukaṃ) earth-lord(vasudhādhipa)
+[conch](śaṅkhaṃ) [bell](ghaṇṭāṃ) [plough](lāṅgalaṃ) [and](ca) [bow](kārmukaṃ) [o-lord-of-earth](vasudhādhipa)
 
 ## mukta-m0-p57-v1403
-nishumbha-crusher(niśumbhamathinī) goddess(devī) shumbha-asura-destroyer(śumbhāsuranibarhiṇī)
+[niśumbha+slayer](niśumbhamathinī) [goddess](devī) [śumbha+demon+destroyer](śumbhāsuranibarhiṇī)
 
 ## mukta-m0-p57-v1404
-worship(upāsanaṃ) world-mother(jaganmātuḥ) separately(pṛthagāsāṃ) listen(niśāmaya)
+[worship](upāsanaṃ) [of-world+mother](jaganmātuḥ) [separately](pṛthag) [of-these](āsāṃ) [listen](niśāmaya)
 
 ## mukta-m0-p57-v1405
-right-left(pūjye) back(mithunatrayam?) three-couples? Actually "dakṣiṇottarayoḥ pūjye pṛṣṭhatomithunatrayam" -> right-left(pūjye) back-three-couples(pṛṣṭhatomithunatrayam). Keep simple.
-
-right-left(pūjye) back-three-couples(pṛṣṭhatomithunatrayam)
+[on-south+and-north](dakṣiṇottarayoḥ) [to-be-worshipped](pūjye) [behind](pṛṣṭhato) [pair+triad](mithunatrayam)
 
 ## mukta-m0-p57-v1406
-left(lakṣmī) vishnu(vāmabhāge? no) ... 
-left-side(vāmabhāge) goddess(devyāḥ) front(purataḥ) triad(devatātrayam) with-kesha? Hmm.
-
-left-side(vāmabhāge) front(purataḥ) triad(devatātrayam) hrisikesha(ahṛṣīkeśaḥ)
+[on-left](vāme) [of-lakṣmī](lakṣmyā) [hṛṣīkeśa](hṛṣīkeśaḥ) [in-front](purato) [deity+triad](devatātrayam)
 
 ## mukta-m0-p57-v1407
-right(dakṣiṇe) eight-armed(aṣṭabhujā) lakshmi(lakṣmī) great(mahatī) thus(samarcayet)
+[on-right](dakṣiṇe) [eight+armed](aṣṭabhujā) [lakṣmī](lakṣmīr) [mahatī](mahatī) [thus](iti) [one-should-worship](samarcayet)
 
 ## mukta-m0-p57-v1408
-eighteen-armed(aṣṭādaśabhujā) this(caiṣā) when(yadā) worshipped(pūjyā) king(narādhipa)
+[eighteen+armed](aṣṭādaśabhujā) [and](ca) [this](eṣā) [when](yadā) [to-be-worshipped](pūjyā) [o-lord-of-men](narādhipa)
 
 ## mukta-m0-p57-v1409
-ten-faced(daśānanā) when(yadā) worshipped(pūjyā) right-left(dakṣiṇottarayos) then(tadā)
+[ten+faced](daśānanā) [when](yadā) [to-be-worshipped](pūjyā) [on-south+and-north](dakṣiṇottarayoḥ) [then](tadā)
 
 ## mukta-m0-p57-v1410
-when(yadā) eight-armed(aṣṭabhujā) worshipped(pūjyā) shumbha-asura-destroyer(śumbhāsuranibarhiṇī)
+[when](yadā) [and](ca) [eight+armed](aṣṭabhujā) [to-be-worshipped](pūjyā) [śumbha+demon+destroyer](śumbhāsuranibarhiṇī)
 
 ## mukta-m0-p57-v1411
-salutation(namodevyā) with-hymns(iti stotraiḥ) great-lakshmi(mahālakṣmīṃ) worship(samarcayet)
+[salutation](namo) [to-goddess](devyā) [thus](iti) [with-hymns](stotrair) [mahālakṣmī](mahālakṣmīṃ) [one-should-worship](samarcayet)
 
 ## mukta-m0-p57-v1412
-eighteen-armed(aṣṭādaśabhujā) this(caiṣā) worshipped(pūjyā) buffalo-slayer(mahiṣamardinī)
+[eighteen+armed](aṣṭādaśabhujā) [and](ca) [this](eṣā) [to-be-worshipped](pūjyā) [mahiṣa+slayer](mahiṣamardinī)
 
 ## mukta-m0-p57-v1413
-mistress(īśvarī) merit-sin(puṇyapāpānāṃ) all-worlds-lord(sarvalokamaheśvarī)
+[sovereign](īśvarī) [of-merit+and-sin](puṇyapāpānāṃ) [of-all+worlds+great+sovereign](sarvalokamaheśvarī)
 
 ## mukta-m0-p57-v1414
-worship(pūjayet) worlds-nourisher(jagatāṃ dhātrīṃ) chandika(caṇḍikāṃ) devotee-loving(bhaktavatsalām)
+[one-should-worship](pūjayej) [of-worlds](jagatāṃ) [supporter](dhātrīṃ) [caṇḍikā](caṇḍikāṃ) [devotee+loving](bhaktavatsalām)
 
 ## mukta-m0-p57-v1415
-incense(dhūpaiḥ) lamps(dīpaiḥ) offerings(naivedyaiḥ) various-foods(nānābhakṣyasamanvitaiḥ)
+[with-incense](dhūpair) [with-lamps](dīpaiś) [and](ca) [with-food-offerings](naivedyair) [with-various+foods+endowed](nānābhakṣyasamanvitaiḥ)
 
 ## mukta-m0-p57-v1416
-offering(balimāṃsādipūjeyaṃ) brahmin-excluded(vipravarjyā) by-me(mayeritā)
+[with-animal-sacrifice+meat+etc](balimāṃsādi) [worship](pūjā) [this](iyaṃ) [by-brahmins+to-be-avoided](vipravarjyā) [by-me](mayā) [declared](iritā)
 
 ## mukta-m0-p57-v1417
-bowing(praṇāmācamanīyaiśca) sandal(candanenasugandhinā)
+[with-prostrations+with-sipping-water](praṇāmācamanīyaiś) [and](ca) [with-sandalwood](candanena) [fragrant](sugandhinā)
 
 ## mukta-m0-p57-v1418
-left-side(vāmabhāge) front(agratodevyāś) severed-head(chinnaśīrṣaṃ) great-asura(mahāsuram)
+[on-left+side](vāmabhāge) [in-front](agrato) [of-goddess](devyāś) [cut+head](chinnaśīrṣaṃ) [great+demon](mahāsuram)
 
 ## mukta-m0-p57-v1419
-right(dakṣiṇe) front(purataḥ) lion(siṃhaṃ) whole(samagraṃ) dharma-lord(dharmamīśvaram)
+[on-right](dakṣiṇe) [in-front](purataḥ) [lion](siṃhaṃ) [complete](samagraṃ) [dharma](dharmam) [lord](īśvaram)
 
 ## mukta-m0-p57-v1420
-by-mantra(yena mantra) power(prabhāveṇa) chandi-japa-success(caṇḍī japasusiddhidam)
+[by-which](yena) [mantra](mantra) [by-power](prabhāveṇa) [caṇḍī](caṇḍī) [recitation+good+accomplishment+giving](japasusiddhidam)
 
 ## mukta-m0-p57-v1421
-not(na) hymn(sūktaṃ) nor(nāpi) meditation(dhyānaṃ) nor(na) nyasa(nyāsaṃ) nor(nāpi) worship(arcanaṃ)
+[not](na) [hymn](sūktaṃ) [not](na) [also](api) [meditation](dhyānaṃ) [and](ca) [not](na) [installation](nyāsaṃ) [not](na) [also](api) [and](ca) [worship](arcanaṃ)
 
 ## mukta-m0-p57-v1422
-very-secret(ati guhyataraṃ) goddess(devi) even-gods(durlabhaṃ) difficult(devānām)
+[very](ati) [most-secret](guhyataraṃ) [o-goddess](devi) [of-gods](devānām) [even](api) [hard-to-obtain](durlabhaṃ)
 
 ## mukta-m0-p57-v1423
-killing(māraṇaṃ) deluding(mohanaṃ) subduing(vaśyaṃ) paralyzing(stambhanoccaṭanādikam)
+[killing](māraṇaṃ) [deluding](mohanaṃ) [subjugation](vaśyaṃ) [paralyzing+uprooting+etc](stambhanoccaṭanādikam)
 
 ## mukta-m0-p57-v1424
-then(tataḥ) joined-palms(kṛtāñjalirbhūtvā) praise(stuvīta) with-deeds(caritairimaiḥ)
+[then](tataḥ) [made+joined-palms](kṛtāñjalir) [having-become](bhūtvā) [one-should-praise](stuvīta) [with-narratives](caritair) [with-these](imaiḥ)
 
 ## mukta-m0-p57-v1425
-half-carita(caritārdhaṃ) not(na) chant(japeñ) chanting-chidra(japañchidramavāpnuyāt)
+[narrative+half](caritārdhaṃ) [but](tu) [not](na) [one-should-recite](japeñ) [reciting](japañ) [recitation+flaw](chidram) [obtains](avāpnuyāt)
