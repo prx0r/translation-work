@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p54-v1326
-[śivaḥ](śivo'hamiti) [matvā](matvā) [ca](ca) [ramaṇam](ramaṇaṃ) [mama](mama) [sammatam](sammatam)
+[śivaḥ](śivo') [i-am](aham) [thus](iti) [having-thought](matvā) [and](ca) [delight](ramaṇaṃ) [my](mama) [approved](sammatam)
 
 ## mukta-m0-p54-v1327
-[yoni](yoni) [jñānam](jñānaṃ) [vinā](vinā) [deva](deva) [maithunam](maithunaṃ) [na](na) [śubha-pradam](śubha pradam)
+[yoni](yoni) [knowledge](jñānaṃ) [without](vinā) [o-god](deva) [sexual-union](maithunaṃ) [not](na) [auspicious](śubha) [giving](pradam)
 
 ## mukta-m0-p54-v1328
-[madhye](madhye) [devīm](devīṃ) [yajet](yajed) [gānam](gānaṃ) [pānam](pānaṃ) [nṛtyam](nṛtyaṃ) [japam](japañcaret)
+[in-middle](madhye) [goddess](devīṃ) [one-should-worship](yajed) [singing](gānaṃ) [drinking](pānaṃ) [dancing](nṛtyaṃ) [muttering](japañ) [one-should-practice](caret)
 
 ## mukta-m0-p54-v1329
-[yasya](yasyāvabodhanāddehe) [avabodhanāt](yasyāvabodhanāddehe) [dehe](yasyāvabodhanāddehe) [dehī](dehī) [brahma-mayaḥ](brahma mayo) [bhavet](bhavet)
+[of-which](yasya) [from-awakening](avabodhanād) [in-body](dehe) [embodied-one](dehī) [brahman](brahma) [consisting-of](mayo) [may-become](bhavet)
 
 ## mukta-m0-p54-v1330
-[na](na) [vaktavyam](vaktavyaṃ) [kadācit](kadācittu) [tu](kadācittu) [pāṣaṇḍe](pāṣaṇḍe) [nāstike](nāstike) [nare](nare)
+[not](na) [to-be-spoken](vaktavyaṃ) [ever](kadācit) [indeed](tu) [to-heretic](pāṣaṇḍe) [to-atheist](nāstike) [to-man](nare)
 
 ## mukta-m0-p54-v1331
-[asya](asya) [prapaṭhanāt](prapaṭhanāddeva) [deva](prapaṭhanāddeva) [jīvanmuktaḥ](jīvanmukto'pi) [api](jīvanmukto'pi) [jāyate](jāyate)
+[of-this](asya) [from-recitation](prapaṭhanād) [o-god](deva) [living-liberated](jīvanmukto') [even](api) [one-becomes](jāyate)
 
 ## mukta-m0-p54-v1332
-[daśa-vidyā](daśavidyāsvarūpātmā) [svarūpa](daśavidyāsvarūpātmā) [ātmā](daśavidyāsvarūpātmā) [yoniḥ](yonirmāṃ) [mām](yonirmāṃ) [pātu](pātu) [sarvadā](sarvadā)
+[ten](daśa) [knowledge](vidyā) [form](svarūpa) [essence](ātmā) [yoni](yonir) [me](māṃ) [may-protect](pātu) [always](sarvadā)
 
 ## mukta-m0-p54-v1333
-[jagadānanda](jagadānanda) [sambhūtā](saṃbhūtā) [yoniḥ](yonirmāṃ) [mām](yonirmāṃ) [pātu](pātu) [sarvadā](sarvadā)
+[world](jagad) [bliss](ānanda) [born-from](saṃbhūtā) [yoni](yonir) [me](māṃ) [may-protect](pātu) [always](sarvadā)
 
 ## mukta-m0-p54-v1334
-[brahma](brahma) [viṣṇu](viṣṇu) [śiva](śiva) [prāṇāḥ](prāṇā) [yoniḥ](yonirmāṃ) [mām](yonirmāṃ) [pātu](pātu) [sarvadā](sarvadā)
+[brahmā](brahma) [viṣṇu](viṣṇu) [śiva](śiva) [life-breath](prāṇā) [yoni](yonir) [me](māṃ) [may-protect](pātu) [always](sarvadā)
 
 ## mukta-m0-p54-v1335
-[bhukti](bhukti) [mukti](mukti) [pradā](pradā) [yoniḥ](yonirmāṃ) [yonir](yonirmāṃ) [mām](yonirmāṃ) [pātu](pātu) [sarvadā](sarvadā)
+[enjoyment](bhukti) [liberation](mukti) [giving](pradā) [yoni](yonir) [yoni](yonir) [me](māṃ) [may-protect](pātu) [always](sarvadā)
 
 ## mukta-m0-p54-v1336
-[sarvadā](sarvadā)
+[always](sarvadā)
 
 ## mukta-m0-p54-v1337
-[sukhadā](sukhadā) [madanāgārā](madanāgārā) [yoniḥ](yonirmāṃ) [mām](yonirmāṃ) [pātu](pātu) [sarvadā](sarvadā)
+[happiness-giving](sukhadā) [love-god](madana) [abode](āgārā) [yoni](yonir) [me](māṃ) [may-protect](pātu) [always](sarvadā)
 
 ## mukta-m0-p54-v1338
-[manoharā](manoharā) [duḥkha-labhā](duḥkha labhā) [yoniḥ](yonirmāṃ) [mām](yonirmāṃ) [pātu](pātu) [sarvadā](sarvadā)
+[mind-captivating](manoharā) [sorrow](duḥkha) [removing](labhā) [yoni](yonir) [me](māṃ) [may-protect](pātu) [always](sarvadā)
 
 ## mukta-m0-p54-v1339
-[sarva-prasava-kartrī](sarva prasavakartrī) [tvam](tvaṃ) [yoniḥ](yonirmāṃ) [mām](yonirmāṃ) [pātu](pātu) [sarvadā](sarvadā)
+[all](sarva) [birth](prasava) [doer](kartrī) [you](tvaṃ) [yoni](yonir) [me](māṃ) [may-protect](pātu) [always](sarvadā)
 
 ## mukta-m0-p54-v1340
-[sarva-gehe](sarva gehe) [sthitā](sthitā) [yoniḥ](yonirmāṃ) [yonir](yonirmāṃ) [mām](yonirmāṃ) [pātu](pātu) [sarvadā](sarvadā)
+[all](sarva) [in-house](gehe) [situated](sthitā) [yoni](yonir) [yoni](yonir) [me](māṃ) [may-protect](pātu) [always](sarvadā)
 
 ## mukta-m0-p54-v1341
-[ārogyadā](ārogyadā) [vīra-ratā](vīra ratā) [pañca-tattva-yutā](pañca tatva yutā) [sadā](sadā)
+[health-giving](ārogyadā) [hero](vīra) [delighting](ratā) [five](pañca) [elements](tatva) [endowed-with](yutā) [always](sadā)
 
 ## mukta-m0-p54-v1342
-[śakti-rūpā](śaktirūpā) [mahādevī](mahādevī) [tasya](tasya) [gehe](gehe) [sadā](sadā) [sthirā](sthirā)
+[power](śakti) [form](rūpā) [great-goddess](mahādevī) [of-him](tasya) [in-house](gehe) [always](sadā) [firm](sthirā)
 
 ## mukta-m0-p54-v1343
-[muktir](muktirakhaṇḍitā) [akhaṇḍitā](muktirakhaṇḍitā)
+[liberation](muktir) [unbroken](akhaṇḍitā)
 
 ## mukta-m0-p54-v1344
-[satyaṃ](satyaṃ) [satyaṃ](satyaṃ) [punaḥ](punaḥ) [satyaṃ](satyaṃ) [mama](mamavākyaṃ) [vākyam](mamavākyaṃ) [vṛthā](vṛthā) [na](na) [hi](nahi)
+[truth](satyaṃ) [truth](satyaṃ) [again](punaḥ) [truth](satyaṃ) [my](mama) [word](vākyaṃ) [false](vṛthā) [not](nahi)
 
 ## mukta-m0-p54-v1345
-[kṛtāñjali](kṛtāñjali) [puṭaḥ](puṭobhūtvā) [bhūtvā](puṭobhūtvā) [paṭhet](paṭhet) [stotram](stotraṃ) [digambara](digambara)
+[joined-hands](kṛtāñjali) [hollow](puṭo) [having-become](bhūtvā) [one-should-recite](paṭhet) [hymn](stotraṃ) [o-naked-one](digambara)
 
 ## mukta-m0-p54-v1346
-[cānyathā](cānyathā)
+[otherwise](cānyathā)
 
 ## mukta-m0-p54-v1347
-[anyathā](anyathā) [pūjanāt](pūjanāddeva) [deva](pūjanāddeva) [ramaṇam](ramaṇaṃ) [maraṇam](maraṇaṃ) [bhavet](bhavet)
+[otherwise](anyathā) [from-worship](pūjanād) [o-god](deva) [delight](ramaṇaṃ) [death](maraṇaṃ) [may-become](bhavet)
 
 ## mukta-m0-p54-v1348
-[niśāyām](niśāyāṃ) [sammukhe](sammukhe) [śaktyāḥ](śaktyāḥ) [saḥ](sa) [śivaḥ](śivo) [na](nātra) [atra](nātra) [saṃśayaḥ](saṃśayaḥ)
+[at-night](niśāyāṃ) [in-presence](sammukhe) [of-śakti](śaktyāḥ) [he](sa) [śiva](śivo) [not](na) [here](atra) [doubt](saṃśayaḥ)
 
 ## mukta-m0-p54-v1349
-[vāma-haste](vāmahaste) [pradātavyam](pradātavyaṃ) [guhyādi](guhyā di) [mantra](mantra) [pūrvakam](pūrvakam)
+[in-left-hand](vāmahaste) [to-be-given](pradātavyaṃ) [secret](guhyā) [etc.](di) [mantra](mantra) [preceded-by](pūrvakam)
 
 ## mukta-m0-p54-v1350
-[tīrtha-snāna](tīrtha snāna) [sahasra-koṭi](sahasra koṭi) [phaladam](phaladaṃ) [śrīcakra](śrīcakra) [pādodakam](pādodakam)
+[holy-place](tīrtha) [bathing](snāna) [thousand](sahasra) [ten-million](koṭi) [fruit-giving](phaladaṃ) [śrī-cakra](śrīcakra) [foot-water](pādodakam)

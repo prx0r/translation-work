@@ -2,52 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p51-v1251
-for-sexual-purpose+even you goddess in-woman-body always situated
+[for-sexual-union+even](maithunārthe'pi) [you](tvaṃ) [o-goddess](devi) [in-woman's+body](nārīdehe) [always](sadā) [situated](sthitā)
+
 ## mukta-m0-p51-v1252
-I knowledge relying in-bodies bearer-of-embodied-names
+[I](ahaṃ) [knowledge](jñānaṃ) [having-resorted-to](samāśritya) [in-bodies](deheṣu) [of-embodied-beings+holder](dihināmadhṛk)
+
 ## mukta-m0-p51-v1253
-in-gross in-subtle action-capable in-radiance indeed Parvati
+[in-gross](sthūle) [in-subtle](sūkṣme) [action+power](kriyāśakta) [in-luminous](stejasi) [indeed](khalu) [o-pārvatī](pārvati)
+
 ## mukta-m0-p51-v1254
-sexual-union merit-born action-attached knower if
+[sexual-union](maithunaṃ) [merit+born](puṇyajanitaṃ) [action+endowed](kriyākto) [knowledge+possessing](jñānavān) [if](yadi)
+
 ## mukta-m0-p51-v1255
-of-them in-middle and-primal-seed sexual-union-tinged as-action and
+[of-them](teṣāṃ) [in-middle](madhye) [and+primordial+seed](cādyabījaṃ) [sexual-union+marked](maithunāktaṃ) [action+thus](kriyeti) [and](ca)
+
 ## mukta-m0-p51-v1256
-for-meaning+even great-god in-gross-body action joined
+[for-emotion+even](bhāvārthe'pi) [o-great-god](mahādeva) [in-gross+body](sthūladehe) [action](kriyā) [joined](yutā)
+
 ## mukta-m0-p51-v1257
-of-man pleasure god in-woman-bodies sexual-union
+[of-man](puruṣasya) [pleasure](sukhaṃ) [o-god](deva) [in-woman's+bodies](nārīdeheṣu) [sexual-union](maithunam)
+
 ## mukta-m0-p51-v1258
-woman man-form-I and-you for-enjoyment manifested
+[woman](strī) [man+form+I](puṃrūpamahaṃ) [you+and](tvañca) [for-delight](ramaṇārthe) [manifested](prakāśitaṃ)
+
 ## mukta-m0-p51-v1259
-thus by-Sri-Sarvanandanatha-composed in-Sarvollasa forty-chapter
+[thus](iti) [by-śrī+sarvānandanātha+composed](śrīsarvānandanāthaviracite) [in-sarvollāsa](sarvollāse) [fortieth+chapter](catvāriṃśadullāsaḥ)
+
 ## mukta-m0-p51-v1260
-equal-to-copulation great-bliss of-them in-middle not exists
+[than-delight](ratestulyaṃ) [great+bliss](mahānandaṃ) [of-them](teṣāṃ) [in-middle](madhye) [not](na) [exists](vidyate)
+
 ## mukta-m0-p51-v1261
-that-bliss how auspicious-one and-in-other-principles exists
+[that+bliss](tadānandaṃ) [how](kathaṃ) [o-fair-one](bhadre) [in-other+principles](cānyatattveṣu) [exists](vidyate)
+
 ## mukta-m0-p51-v1262
-Shakti-form-I-indeed by-that I-stand and in-house in-house
+[power+form](śaktirūpāhyahaṃ) [therefore](tena) [I-dwell](tiṣṭhāmi) [and](ca) [in-house+house](gṛhe) [in-house](gṛhe)
+
 ## mukta-m0-p51-v1263
-Shiva-I-indeed
+[auspicious+also+I](śivāpyaham)
+
 ## mukta-m0-p51-v1264
-I you woman man form I-stand for-cause-of-bhava
+[I](ahaṃ) [you](tvaṃ) [woman](strī) [man+form](pumān) [form](rūpo) [I-dwell](tiṣṭhāmi) [for-emotion+cause](bhāvahetave)
+
 ## mukta-m0-p51-v1265
-in-worms-etc excellent-ascender for-sexual-purpose always situated
+[in-insects+and-so-forth](kīṭādiṣu) [o-fair-faced-one](varārohe) [for-sexual-union](maithunārthe) [always](sadā) [situated](sthitaḥ)
+
 ## mukta-m0-p51-v1266
-by-that by-that by-manner roams-even on-earth
+[by-that](tena) [by-that](tena) [by-manner](prakāreṇa) [moves-about](vicaratyapi) [on-earth](bhūtale)
+
 ## mukta-m0-p51-v1267
-steady-bliss in-fifth fifth liberation-giving
+[steady+bliss](sthirānandaṃ) [in-fifth](pañcameṣu) [fifth](pañcamaṃ) [liberation+giving](muktidāyakam)
+
 ## mukta-m0-p51-v1268
-by-bliss without embodied for-moment not stands
+[by-bliss](ānandena) [without](vinā) [embodied-being](dehī) [moment+measure](kṣaṇamātraṃ) [not](na) [remains](tiṣṭhati)
+
 ## mukta-m0-p51-v1269
-and-because sexual-bliss Prakriti person-natured
+[because](yataśca) [sexual-union+bliss](maithunānadaṃ) [nature](prakṛti) [spirit+nature](puruṣātmakam)
+
 ## mukta-m0-p51-v1270
-Brahma knowledge when goddess then Brahmin is-called
+[brahman](brahma) [knowledge](jñānaṃ) [when](yadā) [o-goddess](devi) [then](tadā) [brahmin](brāhmaṇa) [is-called](ucyate)
+
 ## mukta-m0-p51-v1271
-in-wine-drinking becomes-knower in-sexual-union that-ness-possessor becomes
+[in-wine+drinking](madyapāne) [becomes](bhavet) [knower](jñānī) [in-sexual-union](maithune) [truth+possessing](tattavavān) [becomes](bhavet)
+
 ## mukta-m0-p51-v1272
-by-distinction-of-bhava speak adept-bliss characteristic
+[by-emotion+difference](bhāvabhedena) [tell](kathaya) [practitioner+bliss](sādhakānanda) [characteristic](lakṣaṇam)
+
 ## mukta-m0-p51-v1273
-of-action-self characteristic indeed in-many-ways manifested
+[of-action+nature](kriyātmano) [characteristic](lakṣaṇaṃ) [indeed](hi) [in-many-ways](bahudhā) [made-manifest](prakaṭīkṛtam)
+
 ## mukta-m0-p51-v1274
-by-which by-path goddess fruit-share is-born man
+[by-which](yena) [by-path](mārgeṇa) [o-lord-of-gods](deveśi) [fruit+share](phalabhāg) [is-born](jāyate) [man](naraḥ)
+
 ## mukta-m0-p51-v1275
-without seal drinks-wine fruitless not-here doubt
+[without](vinā) [seal](mudrāṃ) [drinks](piven) [wine](madyaṃ) [fruitless](niṣphalaṃ) [not](na) [here](atra) [doubt](saṃśayaḥ)
