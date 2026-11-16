@@ -5,10 +5,10 @@
 [fulfilled-purpose](kṛtārthaḥ) [bondage+freed](bandha+nirmuktaḥ) [becomes](bhavati) [thus](iti) [certain-conclusion](suniścayaḥ)
 
 ## mukta-m0-p147-v3652
-[again](punar) [uncontradicted+conceptualization+non-arising](abādhita+vikalpa+anudayena) [invalidity+cognition+non-arising](aprāmāṇya+graha+anudayāt) [thus](iti) [meaning](bhāvaḥ)
+[again](punar) [unrefuted+conception+non-arising](abādhita+vikalpa+anudayena) [invalidity+cognition+non-arising](aprāmāṇya+graha+anudayāt) [thus](iti) [meaning](bhāvaḥ)
 
 ## mukta-m0-p147-v3653
-[therefore](tasmāt) [by-ordinary-experience](vyavahāreṇa) [contradiction+absence](bādhā+abhāvasya) [clearness](spaṣṭatvāt) [thus](iti) [having-heard](śrutvā) [again](punaḥ) [spoke](prāha)
+[therefore](tasmāt) [by-ordinary-experience](vyavahāreṇa) [of-refutation+absence](bādhā+abhāvasya) [due-to-clearness](spaṣṭatvāt) [thus](iti) [having-heard](śrutvā) [again](punaḥ) [spoke](prāha)
 
 ## mukta-m0-p147-v3654
 [own-nature](svarūpaṃ) [without-conceptualization](nirvikalpaṃ) [indeed](hi) [consciousness](saṃvedanam) [here](iha) [is-called](ucyate)
@@ -20,7 +20,7 @@
 [conceptualization](vikalpaḥ) [alone](eva) [indeed](hi) [error](bhrāntiḥ) [as](yathā) [in-rope](rajjau) [snake](bhujaṅgamaḥ)
 
 ## mukta-m0-p147-v3657
-[conceptualization+appearance](vikalpa+ābhāsaḥ) [harm+bringing](anartha+āvahaḥ) [thus](iti) [meaning](bhāvaḥ)
+[conception+semblance](vikalpa+ābhāsaḥ) [harm-producing](anartha+āvahaḥ) [thus](iti) [meaning](bhāvaḥ)
 
 ## mukta-m0-p147-v3658
 [sky](gaganaṃ) [not](na) [blue](nīlam) [thus](iti) [even-for-those-knowing](jānatām) [also](api)
@@ -29,7 +29,7 @@
 [by-that-much-alone](tāvatā) [indeed](eva) [but](tu) [that+knowledge](tat+jñānaṃ) [not](na) [error](bhrāntiḥ) [is-called](abhidhīyate)
 
 ## mukta-m0-p147-v3660
-[variant: sky-ness](k: gaganatva) [blue](nīlaṃ) [sky](nabhaḥ) [thus](iti) [knowledge](jñānam)
+[variant: sky-ness](k:) [gaganatva] [blue](nīlaṃ) [sky](nabhaḥ) [thus](iti) [knowledge](jñānam)
 
 ## mukta-m0-p147-v3661
 [destroyed+validity+life](hata+prāmāṇya+jīvaṃ) [that+knowledge](tat+jñānaṃ) [like-dead+great+snake](mṛta+mahā+ahi+vat)
@@ -44,31 +44,31 @@
 [of-the-knowers](jñānināṃ) [knowledge](jñānam) [alone](eva) [would-be](syāt) [all](sarvaḥ) [also](api) [practical-activity](vyavahārakaḥ)
 
 ## mukta-m0-p147-v3665
-[not-harm+bringing](na+arthāvahaḥ) [all](sarvaḥ) [also](api) [practical-activity](vyavahāraḥ) [thus](iti) [meaning](bhāvaḥ)
+[not-harm-producing](na+artha+āvahaḥ) [all](sarvaḥ) [also](api) [practical-activity](vyavahāraḥ) [thus](iti) [meaning](bhāvaḥ)
 
 ## mukta-m0-p147-v3666
 [of-the-knowers](abhijñānām) [therefore](ataḥ) [again](bhūyaḥ) [not](na) [indeed](hi) [of-error](bhrānteḥ) [arising](samudbhavaḥ)
 
 ## mukta-m0-p147-v3667
-[knowledge+mere+nature](jñāna+mātra+rūpatvena) [not](na) [of-that](tasya) [error-ness](bhrāntitvam) [thus](iti) [meaning](bhāvaḥ)
+[knowledge+mere+nature](jñāna+mātra+rūpatvena) [not](na) [of-that](tasya) [erroneousness](bhrāntitvam) [thus](iti) [meaning](bhāvaḥ)
 
 ## mukta-m0-p147-v3668
 [by-defect](doṣeṇa) [not](na) [produced](janitaṃ) [why](kasmāt) [would-dissolve](vilīyet) [by-knowledge+alone](jñāna+mātrataḥ)
 
 ## mukta-m0-p147-v3669
-[of-that+dissolution+cause+absence](tat+vilaya+kāraṇatva+abhāvaḥ) [thus](iti) [purport](tātparyam)
+[of-that+dissolution+causality+absence](tat+vilaya+kāraṇatva+abhāvaḥ) [thus](iti) [purport](tātparyam)
 
 ## mukta-m0-p147-v3670
 [world+appearance](jagat+ābhāsaḥ) [this](eṣaḥ) [but](tu) [karma+defect+born](karma+doṣa+samudbhavaḥ)
 
 ## mukta-m0-p147-v3671
-[being-completed](samāpte) [karma](karmaṇi) [then](tataḥ) [would-remain](śiṣyet) [non-dual+consciousness](advaya+cinmayam)
+[on-completion](samāpte) [of-karma](karmaṇi) [then](tataḥ) [would-remain](śiṣyet) [non-dual+consciousness](advaya+cinmayam)
 
 ## mukta-m0-p147-v3672
 [purport](tātparyam)
 
 ## mukta-m0-p147-v3673
-[thus](iti) [having-heard](śrutvā) [again](punar) [brahmin](vipraḥ) [asked](papraccha) [king+son](nṛpa+nandanam)
+[thus](iti) [having-heard](śrutvā) [again](punar) [brahmin](vipraḥ) [asked](papraccha) [king's-son](nṛpa+nandanam)
 
 ## mukta-m0-p147-v3674
 [error+arising](bhrānti+sambhavaḥ) [from-karma+remainder](karma+śeṣāt) [non-dual+appearance](advaita+ābhāsaḥ) [thus](iti) [having-heard](śrutvā)

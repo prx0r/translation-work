@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p141-v3501
-[not](na) [body](deha) [thus](iti) [body](deha) [and-that](tat) [activities](vyāpārayoḥ) [abandoned](tyakta) [ego-sense](abhimānaḥ) [thus](iti) [purport](tātparyam)
+[not](na) [body](deha) [iti](iti) [body+and-its+activities](deha+tad+vyāpārayoḥ) [abandoned+ego](tyakta+abhimānaḥ) [iti](iti) [purport](tātparyam)
 
 ## mukta-m0-p141-v3502
-[as](yathā) [woman](strī) [disguised](veṣitaḥ) [in-drama](nāṭye) [duality](dvairūpyam) [having-attained](upasaṅgataḥ)
+[as](yathā) [woman+disguised](strī+veṣitaḥ) [in-drama](nāṭye) [two+form](dvai+rūpyam) [assumed](upasaṅgataḥ)
 
 ## mukta-m0-p141-v3503
-[this](asau) [supreme](uttama) [knower](jñānī) [here](atra) [example](dṛṣṭāntaḥ) [as](yathā) [thus](iti) [woman](strī) [disguised](veṣitaḥ) [man](puruṣaḥ)
+[he](asau) [supreme+knower](uttama+jñānī) [here](atra) [example](dṛṣṭāntaḥ) [as](yathā) [iti](iti) [woman+disguised](strī+veṣitaḥ) [man](puruṣaḥ)
 
 ## mukta-m0-p141-v3504
-[thus](evam) [this](eṣaḥ) [world](jagat) [play](krīḍā) [intent-on](tatparaḥ) [pure](nirmala) [minded](āśayaḥ)
+[thus](evam) [this](eṣaḥ) [world+play+engaged](jagat+krīḍā+tatparaḥ) [pure+minded](nirmala+āśayaḥ)
 
 ## mukta-m0-p141-v3505
-[unmoving](acala) [state](sthitiḥ) [of-this](etasya) [of-inquiry](vicārasya) [by-excellence](prakarṣataḥ)
+[unmoving+state](acala+sthitiḥ) [of-this](etasya) [of-inquiry](vicārasya) [by-excellence](prakarṣataḥ)
 
 ## mukta-m0-p141-v3506
-[unshaken](niṣprakampa) [certainty](niścaya) [form](rūpa) [result](phala) [culmination](paryavasāyitā)
+[unshaken+certainty+form](niṣprakampa+niścaya+rūpa) [result+culmination](phala+paryavasāyitā)
 
 ## mukta-m0-p141-v3507
-[here](atra) [to-you](te) [listen](śṛṇu) [I-shall-tell](vakṣyāmi) [dialogue](saṃvādam) [of-two-knowers](jñāninoḥ) [mutual](mithaḥ)
+[here](atra) [to-you](te) [listen](śṛṇu) [I-shall-tell](vakṣyāmi) [dialogue](saṃvādam) [of-two-knowers](jñāninoḥ) [mutually](mithaḥ)
 
 ## mukta-m0-p141-v3508
-[knowledge](vijñāna) [method](prakriyā) [in-context](prasaṅge) [all](sarva) [doubt](sandeha) [destroying](nāśanam) [dialogue](saṃvādam)
+[knowledge+method+context](vijñāna+prakriyā+prasaṅge) [all+doubt+destroying](sarva+sandeha+nāśanam) [dialogue](saṃvādam)
 
 ## mukta-m0-p141-v3509
-[he](saḥ) [Vipāśā](vipāśām) [along](anu) [city](purīm) [dwelt-in](adhyāsīt) [Amṛtā](amṛtā) [named](abhidhām)
+[he](saḥ) [Vipāśā+along](vipāśām+anu) [city](purīm) [dwelt](adhyāsīt) [Amṛtā+named](amṛtā+abhidhām)
 
 ## mukta-m0-p141-v3510
-[Vipāśā](vipāśām) [along](anu) [Vipāśā](vipāśā) [river](nadī) [bank](tīre) [situated](sthitām) [city](purīm)
+[Vipāśā+along](vipāśām+anu) [on-Vipāśā+river+bank](vipāśā+nadī+tīre) [situated](sthitām) [city](purīm)
 
 ## mukta-m0-p141-v3511
-[Rukmāṅgada](rukmāṅgada) [and-Hemāṅgada](hemāṅgadau) [of-Janaka](janakasya) [very](ati) [beloved](vallabhau)
+[Rukmāṅgada+Hemāṅgada](rukmāṅgada+hemāṅgadau) [of-Janaka](janakasya) [very+beloved](ati+vallabhau)
 
 ## mukta-m0-p141-v3512
-[wise](manīṣiṇau) [pure](nirmala) [intellect](prajñau) [beloved](vallabhau) [dear](priyau)
+[wise](manīṣiṇau) [pure+intellect](nirmala+prajñau) [beloved](vallabhau) [dear](priyau)
 
 ## mukta-m0-p141-v3513
-[Hemāṅgada](hemāṅgadaḥ) [very](ati) [learned](vijñānaḥ) [of-knowers](jñāninām) [supreme](uttamaḥ) [became](abhavat)
+[Hemāṅgada](hemāṅgadaḥ) [very+learned](ati+vijñānaḥ) [of-knowers](jñāninām) [supreme](uttamaḥ) [became](abhavat)
 
 ## mukta-m0-p141-v3514
-[for-hunting](mṛgayā) [purpose](artham) [in-springs](vasanteṣu) [went](yayatuḥ) [dense](gahanam) [forest](vanam)
+[for-hunting](mṛgayā+artham) [in-springs](vasanteṣu) [went](yayatuḥ) [dense](gahanam) [forest](vanam)
 
 ## mukta-m0-p141-v3515
-[in-springs](vasanteṣu) [thus](iti) [plural](bahuvacanam) [many](bahu) [day](dina) [indicating](bodhakam) [dense](gahanam) [forest](vanam) [great-forest](mahāraṇyam)
+[in-springs](vasanteṣu) [iti](iti) [plural](bahu+vacanam) [many+days+indicating](bahu+dina+bodhakam) [dense](gahanam) [forest](vanam) [great+forest](mahā+araṇyam)
 
 ## mukta-m0-p141-v3516
-[having-killed](hatvā) [very](atyanta) [exhausted](pariśrāntau) [having-reached](āsādya) [pond](hradam) [remained](āsthitau)
+[having-killed](hatvā) [very+much+exhausted](atyanta+pariśrāntau) [having-reached](āsādya) [pond](hradam) [remained](āsthitau)
 
 ## mukta-m0-p141-v3517
 [a-certain](kañcana) [pond](hradam)
 
 ## mukta-m0-p141-v3518
-[all](samasta) [scripture](śāstra) [essence](sāra) [knower](jñaḥ) [with-scholars](vidvadbhiḥ) [debates](vivadati) [greatly](alam)
+[all+scripture+essence+knower](samasta+śāstra+sāra+jñaḥ) [with-scholars](vidvadbhiḥ) [debates](vivadati) [greatly](alam)
 
 ## mukta-m0-p141-v3519
-[in-banyan-tree](nyagrodhe) [banyan](vaṭa) [tree](vṛkṣe) [situated](sthitaḥ) [thus](iti) [supplied](śeṣaḥ) [greatly](alam) [exceedingly](atyantam)
+[in-banyan-tree](nyagrodhe) [in-banyan+tree](vaṭa+vṛkṣe) [situated](sthitaḥ) [iti](iti) [to-be-supplied](śeṣaḥ) [greatly](alam) [exceedingly](atyantam)
 
 ## mukta-m0-p141-v3520
-[Rukmāṅgada](rukmāṅgadaḥ) [and](ca) [from-spy](cara) [mouth](mukhāt) [having-heard](niśamya) [debate](vāda) [eager](kautukī)
+[Rukmāṅgada](rukmāṅgadaḥ) [and](ca) [from-spy+mouth](cara+mukhāt) [having-heard](niśamya) [debate+eager](vāda+kautukī)
 
 ## mukta-m0-p141-v3521
-[defeated](nirjitaḥ) [by-him](tena) [in-debates](vādeṣu) [seized](gṛhītaḥ) [by-brahma-demon](brahmarakṣasā)
+[defeated](nirjitaḥ) [by-him](tena) [in-debates](vādeṣu) [seized](gṛhītaḥ) [by-brahma+rākṣasa](brahma+rakṣasā)
 
 ## mukta-m0-p141-v3522
-[there](tatra) [banyan-tree](nyagrodha) [region](pradeśe) [by-him](tena) [by-brahma-demon](brahmarākṣasena)
+[there](tatra) [in-banyan+region](nyagrodha+pradeśe) [by-him](tena) [by-brahma+rākṣasa](brahma+rākṣasena)
 
 ## mukta-m0-p141-v3523
-[O](bho) [brahma-demon](brahmarākṣasa) [this-one](enam) [you](tvam) [not](na) [to-devour](bhakṣayitum) [ought](arhasi)
+[O](bho) [brahma+rākṣasa](brahma+rākṣasa) [this-one](enam) [you](tvam) [not](na) [to-devour](bhakṣayitum) [ought](arhasi)
 
 ## mukta-m0-p141-v3524
-[Rukmāṅgada](rukmāṅgadaḥ) [seized](gṛhītaḥ) [that](tam) [brahma-demon](brahmarākṣasam) [this-one](enam) [my-brother](madbhrātaram)
+[Rukmāṅgada](rukmāṅgadaḥ) [seized](gṛhītaḥ) [that](tam) [brahma+rākṣasa](brahma+rākṣasam) [this](enam) [my+brother](mad+bhrātaram)
 
 ## mukta-m0-p141-v3525
-[Hemāṅgada](hemāṅgada) [speech](vacaḥ) [having-heard](śrutvā) [spoke](provāca) [brahma-demon](brahmarākṣasaḥ)
+[Hemāṅgada+speech](hemāṅgada+vacaḥ) [having-heard](śrutvā) [spoke](provāca) [brahma+rākṣasa](brahma+rākṣasaḥ)
