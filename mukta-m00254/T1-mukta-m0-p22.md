@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p22-v526
-[nīrāñjana](nīrāñjanañca) [bhasma](bhasmā) [cāmara](cāmaraṃ) [tālavṛntaka](tālavṛntakam)
+[lamp-waving](nīrāñjanam) [and](ca) [sacred-ash](bhasmā) [and](ca) [yak-tail-fan](cāmaraṃ) [palm-leaf-fan](tālavṛntakam)
 
 ## mukta-m0-p22-v527
-[naivedya](naivedyaṃ) [homakarma](homakarmañca) [balidāna](balidānañca) [pañcadhā](pañcadhā)
+[food-offering](naivedyaṃ) [fire-ritual](homa) [act](karma) [and](ca) [oblation](bali) [giving](dānam) [and](ca) [fivefold](pañcadhā)
 
 ## mukta-m0-p22-v528
-[udaka](udakañca) [amudvāha](apyamudvāhaṃ) [ṣaṭtriṃśat](ṣaṭtriṃśad) [upacāra](upacārakam)
+[water](udakam) [and](ca) [also](api) [ceremonial-bath](amudvāhaṃ) [thirty-six](ṣaṭtriṃśat) [services](upacārakam)
 
 ## mukta-m0-p22-v529
-[śiro](śirovaktañca) [vaktra](vaktañca) [hṛdaya](hṛdayamaṅgañca) [aṅga](aṅgañceti) [prakīrtita](prakīrtitam)
+[head](śiraḥ) [face](vaktam) [and](ca) [heart](hṛdayam) [limb](aṅgam) [and](ca) [thus](iti) [declared](prakīrtitam)
 
 ## mukta-m0-p22-v530
-[ūru](ūrujānudvayañcaiva) [jānu](jānudvayañcaiva) [dvaya](dvayañcaiva) [prati-aṅga](pratyaṃgaṃ) [kīrtita](ceti kīrtitam)
+[thigh](ūru) [knee](jānu) [pair](dvayam) [and](ca) [indeed](eva) [subsidiary-limb](pratyaṃgam) [and](ca) [thus](iti) [declared](kīrtitam)
 
 ## mukta-m0-p22-v531
-[jaṭā](jaṭāmakuṭakañcaiva) [makuṭa](makuṭakañcaiva) [sāṅga](sāṅgaṃ) [prakīrtita](ceti prakīrtitam)
+[matted-hair](jaṭā) [crown](makuṭakam) [and](ca) [indeed](eva) [with-limbs](sāṅgam) [and](ca) [thus](iti) [declared](prakīrtitam)
 
 ## mukta-m0-p22-v532
-[sakala](sakalānāntu) [sarva](sarveṣāṃ) [kartavya](kartavyo) [bāla-biṃbaka](bālabiṃbake)
+[of-all](sakalānām) [indeed](tu) [of-all](sarveṣāṃ) [to-be-done](kartavyaḥ) [in-small-image](bāla) [in-image](biṃbake)
 
 ## mukta-m0-p22-v533
-[jānu](jānvantaṃ) [kanyasa](kanyasaṃproktaṃ) [vāhu](vāhvantaṃ) [madhyama](madhyamaṃ) [bhavet](bhavet)
+[up-to-knee](jānu) [ending](antam) [inferior](kanyasam) [declared](proktam) [up-to-arm](vāhu) [ending](antam) [middle](madhyamam) [should-be](bhavet)
 
 ## mukta-m0-p22-v534
-[pratimā](pratimāṃ) [pīṭha](pīṭhaṃ) [deva](devāgre) [agra](devāgre) [sthāpayet](sthāpayedbudhaḥ) [budha](budhaḥ)
+[image](pratimām) [or](vā) [also](api) [pedestal](pīṭham) [or](vā) [before-deity](deva) [in-front](agre) [should-place](sthāpayet) [wise-one](budhaḥ)
 
 ## mukta-m0-p22-v535
-[prati-aṅga](pratyaṅgādīni) [sarva](sarveṣāṃ) [chinna](chinnabhinne) [bhinna](bhinne) [saṃbhava](saṃbhave)
+[subsidiary-limbs](pratyaṅga) [and-so-forth](ādīni) [of-all](sarveṣāṃ) [in-broken](chinna) [and-split](bhinne) [and](ca) [when-occurrence](saṃbhave)
 
 ## mukta-m0-p22-v536
-[rahasya](rahasyaṃ) [kalpayet](kalpayettatra) [punaḥ](punassandhānamācaret) [sandhāna](sandhānamācaret) [ācaret](ācaret)
+[secretly](rahasyam) [should-arrange](kalpayet) [there](tatra) [again](punaḥ) [joining](sandhānam) [should-perform](ācaret)
 
 ## mukta-m0-p22-v537
-[pūrvavat](pūrvavat) [śakti](śaktisahitaṃ) [sahita](sahitaṃ) [kalyāṇa](kalyāṇaṃ) [kārayet](kārayedbudhaḥ) [budha](budhaḥ)
+[as-before](pūrva) [like](vat) [with-power](śakti) [accompanied](sahitam) [auspicious-rite](kalyāṇam) [should-perform](kārayet) [wise-one](budhaḥ)
 
 ## mukta-m0-p22-v538
-[utsava](utsavādīni) [sarva](sarvāṇi) [kṛta](kṛtañcedrākṣasāspadam) [rākṣasa](rākṣasāspadam) [āspada](āspadam)
+[festivals](utsava) [and-so-forth](ādīni) [all](sarvāṇi) [if-done](kṛtam) [if](cet) [demons](rākṣasa) [abode](āspadam)
 
 ## mukta-m0-p22-v539
-[tasmāt](tasmātsarvaprayatnena) [sarva](sarvaprayatnena) [prayatna](prayatnena) [jīrṇa](jīrṇamuddhṛtya) [uddhṛtya](uddhṛtya) [kārayet](kārayet)
+[therefore](tasmāt) [with-all](sarva) [effort](prayatnena) [decayed](jīrṇam) [having-removed](uddhṛtya) [should-perform](kārayet)
 
 ## mukta-m0-p22-v540
-[darśa](darśāntaḥ) [anta](antaḥ) [paurṇamāsa](paurṇamānte) [anta](ante) [cāndra](cāndramāsaḥ) [māsa](māsaḥ) [prakīrtita](prakīrtitaḥ)
+[new-moon](darśa) [ending](antaḥ) [full-moon](paurṇamā) [ending](ante) [and](ca) [lunar](cāndra) [month](māsaḥ) [declared](prakīrtitaḥ)
 
 ## mukta-m0-p22-v541
-[aśvinī](aśvinyādi) [ādi](ādi) [paurṇa](paurṇāntaṃ) [anta](antaṃ) [māsa](māsanakṣatramīritam) [nakṣatra](nakṣatramīritam) [īrita](īritam)
+[aśvinī](aśvinī) [beginning-with](ādi) [and](ca) [full-moon](paurṇā) [ending](antam) [month](māsa) [nakṣatra](nakṣatram) [stated](īritam)
 
 ## mukta-m0-p22-v542
-[sāvana](sāvanenaiva) [kartavya](kartavya) [bhṛtya](bhṛtyānāṃ) [vedana](vedanaṃ) [tathā](tathā)
+[by-solar-month](sāvanena) [indeed](eva) [to-be-done](kartavyam) [of-servants](bhṛtyānām) [wages](vedanam) [likewise](tathā)
 
 ## mukta-m0-p22-v543
-[sāvana](sāvanaṃ) [cāndra](cāndranakṣatraṃ) [nakṣatra](nakṣatraṃ) [māsa](māseṣu) [śakti](śaktimaṃgalau) [maṃgala](maṃgalau)
+[solar](sāvanam) [and](ca) [lunar](cāndra) [nakṣatra](nakṣatram) [in-months](māseṣu) [for-śakti](śakti) [and-auspicious-rites](maṅgalau)
 
 ## mukta-m0-p22-v544
-[mukti](muktidaṃ) [da](daṃ) [cāndra](cāndramāse) [māsa](māse) [nakṣatra](nakṣatraṃ) [pāpa](pāpanāśanam) [nāśana](nāśanam)
+[liberation](mukti) [giving](dam) [in-lunar-month](cāndra) [in-month](māse) [indeed](tu) [nakṣatra](nakṣatram) [sin](pāpa) [destroying](nāśanam)
 
 ## mukta-m0-p22-v545
-[tithi](tithipradhānatīrthāntaṃ) [pradhāna](pradhāna) [tīrtha](tīrthāntaṃ) [anta](antaṃ) [cāndra](cāndramāsoktamuttamam) [māsa](māsoktamuttamam) [ukta](uktaṃ) [uttama](uttamam)
+[tithi](tithi) [predominant](pradhāna) [sacred-bath](tīrtha) [ending](antam) [by-lunar-month](cāndra) [by-month](māsa) [stated](uktam) [supreme](uttamam)
 
 ## mukta-m0-p22-v546
-[sāvana](sāvane) [utsava](cotsavaṃ) [jñeya](jñeyaṃ) [pratiṣṭhā](pratiṣṭhotsavaṃ) [utsava](utsavaṃ) [guha](guha)
+[in-solar-month](sāvane) [and](ca) [festival](utsavam) [to-be-known](jñeyam) [that](sā) [consecration](pratiṣṭhā) [festival](utsavam) [O-Guha](guha)
 
 ## mukta-m0-p22-v547
-[jñātvā](jñātvā) [pariharet](pariharettadvat) [tadvat](tadvat) [tīrtha](tīrtharkṣeścedvijottamaḥ) [ṛkṣa](ṛkṣeścedvijottamaḥ) [īśa](īścedvijottamaḥ) [vijottama](vijottamaḥ)
+[having-known](jñātvā) [one-should-avoid](pariharet) [likewise](tadvat) [that](saḥ) [sacred-bath](tīrtha) [in-nakṣatra](ṛkṣe) [if](cet) [O-best-of-twice-born](dvijottamaḥ)
 
 ## mukta-m0-p22-v548
-[neṣṭa](neṣṭaṃ) [prathama](prathamarkṣe) [ṛkṣa](ṛkṣe) [anya](anyarkṣe) [ṛkṣa](ṛkṣe) [tīrtha](tīrthamācaret) [ācaret](ācaret)
+[not](na) [desirable](iṣṭam) [in-first](prathama) [in-nakṣatra](ṛkṣe) [indeed](tu) [in-another](anya) [in-nakṣatra](ṛkṣe) [sacred-bath](tīrtham) [should-perform](ācaret)
 
 ## mukta-m0-p22-v549
-[tasmāt](tasmātsarvaprayatnena) [sarva](sarvaprayatnena) [prayatna](prayatnena) [tīrtha](tīrthamanyarkṣamācaret) [anya](anyarkṣamācaret) [ṛkṣa](ṛkṣamācaret) [ācaret](ācaret)
+[therefore](tasmāt) [with-all](sarva) [effort](prayatnena) [sacred-bath](tīrtham) [in-another](anya) [in-nakṣatra](ṛkṣam) [should-perform](ācaret)
 
 ## mukta-m0-p22-v550
-[tata](tatañca) [vitata](vitatañcaiva) [ghana](ghanaṃ) [suṣira](suṣirameva) [eva](eva) [ca](ca)
+[stretched](tatam) [and](ca) [spread-out](vitatam) [and](ca) [indeed](eva) [solid](ghanam) [hollow](suṣiram) [indeed](eva) [and](ca)
