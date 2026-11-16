@@ -7,12 +7,28 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "mithyāvikalpajanitaṃ",
-"quick_gloss": "false+conceptual-construction+produced"
+"surface": "mithyā",
+"quick_gloss": "false"
 },
 {
-"surface": "bhavamokṣajālam",
-"quick_gloss": "existence+liberation+net"
+"surface": "vikalpa",
+"quick_gloss": "imagination"
+},
+{
+"surface": "janitaṃ",
+"quick_gloss": "produced"
+},
+{
+"surface": "bhava",
+"quick_gloss": "existence"
+},
+{
+"surface": "mokṣa",
+"quick_gloss": "liberation"
+},
+{
+"surface": "jālam",
+"quick_gloss": "net"
 }
 ]
 },
@@ -28,20 +44,40 @@
 "quick_gloss": "thus"
 },
 {
-"surface": "śrīmahānayaprakāśe",
-"quick_gloss": "in-the-illuminator+of-the-great+method"
+"surface": "śrī",
+"quick_gloss": "in-the-śrī"
 },
 {
-"surface": "pīṭhasvarūpanirūpaṇaṃ",
-"quick_gloss": "determination+of-the-nature+of-the-seat"
+"surface": "mahānaya",
+"quick_gloss": "great-path"
+},
+{
+"surface": "prakāśe",
+"quick_gloss": "illumination"
+},
+{
+"surface": "pīṭha",
+"quick_gloss": "seat"
+},
+{
+"surface": "svarūpa",
+"quick_gloss": "own-nature"
+},
+{
+"surface": "nirūpaṇaṃ",
+"quick_gloss": "determination"
 },
 {
 "surface": "nāma",
 "quick_gloss": "named"
 },
 {
-"surface": "dvitīyollāsaḥ",
-"quick_gloss": "second+chapter"
+"surface": "dvitīya",
+"quick_gloss": "second"
+},
+{
+"surface": "ullāsaḥ",
+"quick_gloss": "chapter"
 }
 ]
 },
@@ -53,20 +89,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "ākuñcanaprasāraṇavaśato",
-"quick_gloss": "by-the-power+of-contraction+and-expansion"
+"surface": "ākuñcana",
+"quick_gloss": "contraction"
 },
 {
-"surface": "yatra",
+"surface": "prasāraṇavaśato",
+"quick_gloss": "expansion"
+},
+{
+"surface": "yatrāsti",
 "quick_gloss": "where"
 },
 {
-"surface": "asti",
-"quick_gloss": "exists"
-},
-{
 "surface": "tatpadaṃ",
-"quick_gloss": "that+state"
+"quick_gloss": "that"
 },
 {
 "surface": "natvā",
@@ -82,16 +118,24 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "prātītikasvarūpaṃ",
-"quick_gloss": "of-apparent+nature"
+"surface": "prātītika",
+"quick_gloss": "apparent"
+},
+{
+"surface": "svarūpaṃ",
+"quick_gloss": "nature"
 },
 {
 "surface": "brūmo",
-"quick_gloss": "we-shall-describe"
+"quick_gloss": "we-speak"
 },
 {
-"surface": "vyomeśvarīcakram",
-"quick_gloss": "of-the-lord-of-space+circle"
+"surface": "vyomeśvarī",
+"quick_gloss": "void"
+},
+{
+"surface": "cakram",
+"quick_gloss": "goddess"
 }
 ]
 },
@@ -104,15 +148,15 @@
 "tokens": [
 {
 "surface": "ā",
-"quick_gloss": "from+the-root"
+"quick_gloss": "from"
 },
 {
 "surface": "mūlāt",
-"quick_gloss": "from-the-root"
+"quick_gloss": "root"
 },
 {
 "surface": "tasya",
-"quick_gloss": "of-that"
+"quick_gloss": "its"
 },
 {
 "surface": "saṃsthānaṃ",
@@ -124,7 +168,7 @@
 },
 {
 "surface": "saṃvidātmanā",
-"quick_gloss": "by-the-nature+of-consciousness"
+"quick_gloss": "by-consciousness"
 }
 ]
 },
@@ -145,11 +189,19 @@
 },
 {
 "surface": "tadapahnotuṃ",
-"quick_gloss": "that+to-deny"
+"quick_gloss": "that"
 },
 {
-"surface": "svasaṃvedanasiddhitaḥ",
-"quick_gloss": "by-the-establishment+of-own-awareness"
+"surface": "sva",
+"quick_gloss": "by-own"
+},
+{
+"surface": "saṃvedana",
+"quick_gloss": "awareness"
+},
+{
+"surface": "siddhitaḥ",
+"quick_gloss": "establishment"
 }
 ]
 },
@@ -162,7 +214,7 @@
 "tokens": [
 {
 "surface": "jñānātmatāṃ",
-"quick_gloss": "of-the-nature+of-knowledge"
+"quick_gloss": "knowledge"
 },
 {
 "surface": "vinā",
@@ -174,7 +226,7 @@
 },
 {
 "surface": "bāhyatāpi",
-"quick_gloss": "externality+also"
+"quick_gloss": "externality"
 },
 {
 "surface": "na",
@@ -202,12 +254,12 @@
 "quick_gloss": "separate"
 },
 {
-"surface": "tasya",
+"surface": "* *",
 "quick_gloss": "of-that"
 },
 {
 "surface": "sarvajñenāpi",
-"quick_gloss": "by-the-omniscient+even"
+"quick_gloss": "even-by-the-omniscient"
 },
 {
 "surface": "duṣkaram",
@@ -223,12 +275,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "jñānādhikatvāt",
-"quick_gloss": "because-of-superiority+of-knowledge"
+"surface": "jñānāt",
+"quick_gloss": "by-superiority"
+},
+{
+"surface": "ādhikatvāt",
+"quick_gloss": "of-knowledge"
 },
 {
 "surface": "siddhestu",
-"quick_gloss": "of-establishment+however"
+"quick_gloss": "of-establishment"
 },
 {
 "surface": "na",
@@ -240,7 +296,7 @@
 },
 {
 "surface": "nāpi",
-"quick_gloss": "nor+also"
+"quick_gloss": "nor"
 },
 {
 "surface": "vāsanā",
@@ -257,15 +313,15 @@
 "tokens": [
 {
 "surface": "kalpyaviśvātmakatve'pi",
-"quick_gloss": "even-in-the-state+of-being-of-the-nature+of-the-imagined-universe"
+"quick_gloss": "in-imagined"
 },
 {
 "surface": "taduttīrṇatayā",
-"quick_gloss": "by-being-transcendent+of-that"
+"quick_gloss": "by-transcendence"
 },
 {
 "surface": "sthitam",
-"quick_gloss": "it-remains"
+"quick_gloss": "of-that"
 }
 ]
 },
@@ -277,24 +333,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "taduttīrṇasvarūpāyāḥ",
-"quick_gloss": "of-the-nature+transcendent-of-that"
-},
-{
-"surface": "tasyā",
+"surface": "taduttīrṇa",
 "quick_gloss": "of-that"
 },
 {
-"surface": "na",
+"surface": "svarūpāyāstasyā",
+"quick_gloss": "transcendent"
+},
+{
+"surface": "nānubhavastadā",
 "quick_gloss": "not"
-},
-{
-"surface": "anubhavastadā",
-"quick_gloss": "experience"
-},
-{
-"surface": "tadā",
-"quick_gloss": "then"
 }
 ]
 },
@@ -306,20 +354,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "nirāvaraṇarūpāyāḥ",
-"quick_gloss": "of-the-nature+without-covering"
-},
-{
-"surface": "citaḥ",
-"quick_gloss": "of-consciousness"
+"surface": "nirāvaraṇarūpāyāścito",
+"quick_gloss": "of-unveiled"
 },
 {
 "surface": "viśvātmatā",
-"quick_gloss": "of-the-nature+of-the-universe"
+"quick_gloss": "consciousness"
 },
 {
 "surface": "kutaḥ",
-"quick_gloss": "whence"
+"quick_gloss": "universality"
 }
 ]
 },
@@ -332,19 +376,15 @@
 "tokens": [
 {
 "surface": "nīlaprakāro",
-"quick_gloss": "blue+form"
+"quick_gloss": "blue"
 },
 {
 "surface": "naiva",
-"quick_gloss": "not+indeed"
+"quick_gloss": "form"
 },
 {
-"surface": "syād",
-"quick_gloss": "would-be"
-},
-{
-"surface": "ātmasaṃvitprathābalāt",
-"quick_gloss": "by-the-force+of-the-manifestation+of-self-awareness"
+"surface": "syādātmasaṃvitprathābalāt",
+"quick_gloss": "not"
 }
 ]
 },
@@ -356,16 +396,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "nīlābhinnaprathāsiddhā",
-"quick_gloss": "established+as-manifestation+non-different-from-blue"
+"surface": "nīlābhinna",
+"quick_gloss": "blue"
 },
 {
-"surface": "nīlatāpy",
-"quick_gloss": "blueness+also"
+"surface": "prathāsiddhā",
+"quick_gloss": "non-different"
 },
 {
-"surface": "anubhūyate",
-"quick_gloss": "is-experienced"
+"surface": "nīlatāpyanubhūyate",
+"quick_gloss": "manifestation"
+},
+{
+"surface": "api",
+"quick_gloss": "blueness"
 }
 ]
 },
@@ -377,24 +421,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "prathābahiṣṭve'pi",
-"quick_gloss": "even-in-being+outside-manifestation"
+"surface": "prathābahiṣṭve'pyeṣaiva",
+"quick_gloss": "in-being-outside"
 },
 {
-"surface": "eṣaiva",
-"quick_gloss": "this+indeed"
-},
-{
-"surface": "nyāyoktir",
-"quick_gloss": "reasoning+stated"
-},
-{
-"surface": "yadataḥ",
-"quick_gloss": "because-from-that"
+"surface": "nyāyoktiryadataḥ",
+"quick_gloss": "manifestation"
 },
 {
 "surface": "pṛthak",
-"quick_gloss": "separate"
+"quick_gloss": "this-very"
 }
 ]
 },
@@ -407,23 +443,23 @@
 "tokens": [
 {
 "surface": "natu",
-"quick_gloss": "not+indeed"
+"quick_gloss": "not"
 },
 {
 "surface": "śuddhasvarūpāyāḥ",
-"quick_gloss": "of-the-nature+pure"
-},
-{
-"surface": "prathāyā",
-"quick_gloss": "of-manifestation+indeed"
-},
-{
-"surface": "eva",
 "quick_gloss": "indeed"
 },
 {
+"surface": "prathāyā",
+"quick_gloss": "of-pure"
+},
+{
+"surface": "eva",
+"quick_gloss": "nature"
+},
+{
 "surface": "jṛmbhaṇāt",
-"quick_gloss": "from-the-expansion"
+"quick_gloss": "manifestation"
 }
 ]
 },
@@ -440,7 +476,7 @@
 },
 {
 "surface": "eva",
-"quick_gloss": "indeed"
+"quick_gloss": "alone"
 },
 {
 "surface": "viśvaṃ",
@@ -448,11 +484,15 @@
 },
 {
 "surface": "tu",
-"quick_gloss": "but"
+"quick_gloss": "indeed"
 },
 {
 "surface": "sarvānubhavavāsitam",
-"quick_gloss": "dwelling+in-the-experience+of-all"
+"quick_gloss": "by-all"
+},
+{
+"surface": "vāsitam",
+"quick_gloss": "experience"
 }
 ]
 },
@@ -465,23 +505,19 @@
 "tokens": [
 {
 "surface": "yadataḥ",
-"quick_gloss": "because-from-that"
+"quick_gloss": "because"
 },
 {
-"surface": "svapratho'pi",
-"quick_gloss": "own+manifestation+also"
-},
-{
-"surface": "eṣa",
-"quick_gloss": "this"
+"surface": "svapratho'pyeṣa",
+"quick_gloss": "own"
 },
 {
 "surface": "siddho",
-"quick_gloss": "established"
+"quick_gloss": "manifestation"
 },
 {
 "surface": "viśvaniyantritaḥ",
-"quick_gloss": "regulated+by-the-universe"
+"quick_gloss": "also"
 }
 ]
 },
@@ -501,8 +537,16 @@
 "quick_gloss": "having-entered"
 },
 {
-"surface": "viśvānubhavabhūmikām",
-"quick_gloss": "the-level+of-universal-experience"
+"surface": "viśvānubhava",
+"quick_gloss": "universal"
+},
+{
+"surface": "bhūmikām",
+"quick_gloss": "experience"
+},
+{
+"surface": "bhūmikām",
+"quick_gloss": "level"
 }
 ]
 },
@@ -515,15 +559,19 @@
 "tokens": [
 {
 "surface": "nirvikalpaparāhantāsvarūpā",
-"quick_gloss": "of-the-nature+of-supreme-I-ness+free-from-conceptualization"
+"quick_gloss": "non-conceptual"
 },
 {
 "surface": "prathate",
-"quick_gloss": "manifests"
+"quick_gloss": "supreme"
 },
 {
 "surface": "prathā",
-"quick_gloss": "manifestation"
+"quick_gloss": "I-ness"
+},
+{
+"surface": "prathā",
+"quick_gloss": "nature"
 }
 ]
 },
@@ -536,23 +584,19 @@
 "tokens": [
 {
 "surface": "viśeṣānubhavo",
-"quick_gloss": "of-particular+experience"
+"quick_gloss": "particular"
 },
 {
-"surface": "na",
+"surface": "nāsti",
+"quick_gloss": "experience"
+},
+{
+"surface": "vivādo'ntarbahiṣṭhayā",
 "quick_gloss": "not"
 },
 {
-"surface": "asti",
-"quick_gloss": "exists"
-},
-{
-"surface": "vivādo",
+"surface": "vivādo'ntarbahiṣṭhayā",
 "quick_gloss": "dispute"
-},
-{
-"surface": "antarbahiṣṭhayā",
-"quick_gloss": "by-the-internal+and-external"
 }
 ]
 },
@@ -565,19 +609,19 @@
 "tokens": [
 {
 "surface": "antarmukhaprakāśo",
-"quick_gloss": "inward-facing+light"
+"quick_gloss": "inward"
 },
 {
 "surface": "yaḥ",
-"quick_gloss": "which"
+"quick_gloss": "facing"
 },
 {
 "surface": "parāhantātmakaḥ",
-"quick_gloss": "of-the-nature+of-supreme-I-ness"
+"quick_gloss": "light"
 },
 {
 "surface": "sthitaḥ",
-"quick_gloss": "remains"
+"quick_gloss": "which"
 }
 ]
 },
@@ -594,15 +638,15 @@
 },
 {
 "surface": "nīlasaṃvittirapi",
-"quick_gloss": "cognition+of-blue+also"
+"quick_gloss": "blue"
 },
 {
 "surface": "naiva",
-"quick_gloss": "not+indeed"
+"quick_gloss": "cognition"
 },
 {
 "surface": "prasidhyati",
-"quick_gloss": "would-be-established"
+"quick_gloss": "also"
 }
 ]
 },
@@ -615,27 +659,31 @@
 "tokens": [
 {
 "surface": "ābhāso'pi",
-"quick_gloss": "manifestation+also"
+"quick_gloss": "manifestation"
 },
 {
 "surface": "kathaṃ",
-"quick_gloss": "how"
+"quick_gloss": "also"
 },
 {
 "surface": "sidhyet",
-"quick_gloss": "would-be-established"
+"quick_gloss": "how"
 },
 {
 "surface": "kila",
-"quick_gloss": "indeed"
+"quick_gloss": "could-be-established"
 },
 {
 "surface": "saṃvedanaṃ",
-"quick_gloss": "without+awareness"
+"quick_gloss": "indeed"
 },
 {
 "surface": "vinā",
 "quick_gloss": "without"
+},
+{
+"surface": "vinā",
+"quick_gloss": "awareness"
 }
 ]
 },
@@ -648,19 +696,27 @@
 "tokens": [
 {
 "surface": "ābhāsanirapekṣātra",
-"quick_gloss": "independent+of-manifestation"
+"quick_gloss": "independent"
 },
 {
 "surface": "draṣṭavyā",
-"quick_gloss": "to-be-seen"
+"quick_gloss": "of-manifestation"
 },
 {
 "surface": "saṃvidaḥ",
-"quick_gloss": "of-consciousness"
+"quick_gloss": "here"
+},
+{
+"surface": "sthitaḥ",
+"quick_gloss": "to-be-seen"
 },
 {
 "surface": "sthitaḥ",
 "quick_gloss": "state"
+},
+{
+"surface": "sthitaḥ",
+"quick_gloss": "of-consciousness"
 }
 ]
 }

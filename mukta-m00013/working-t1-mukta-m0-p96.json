@@ -7,7 +7,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "ūrdhva+adhaḥ",
+"surface": "ūrdhvādhaḥ",
 "quick_gloss": "above-below"
 },
 {
@@ -19,8 +19,8 @@
 "quick_gloss": "always"
 },
 {
-"surface": "brahmā+anantaḥ",
-"quick_gloss": "Brahmā-Ananta"
+"surface": "brahmā+ananto",
+"quick_gloss": "brahmā-and-ananta"
 },
 {
 "surface": "yathā",
@@ -74,15 +74,15 @@
 "tokens": [
 {
 "surface": "brahmā",
-"quick_gloss": "Brahmā"
+"quick_gloss": "brahmā"
 },
 {
 "surface": "viṣṇuḥ+ca",
-"quick_gloss": "Viṣṇu-and"
+"quick_gloss": "viṣṇu-and"
 },
 {
 "surface": "rudraḥ+ca",
-"quick_gloss": "Rudra-and"
+"quick_gloss": "rudra-and"
 },
 {
 "surface": "dhāraṇāt",
@@ -226,7 +226,7 @@
 },
 {
 "surface": "bhavanti",
-"quick_gloss": "they-become"
+"quick_gloss": "become"
 },
 {
 "surface": "hi",
@@ -243,19 +243,19 @@
 "tokens": [
 {
 "surface": "bhāvayāmi",
-"quick_gloss": "I-contemplate"
+"quick_gloss": "i-contemplate"
 },
 {
 "surface": "bhāvayāmi",
-"quick_gloss": "I-contemplate"
+"quick_gloss": "i-contemplate"
 },
 {
 "surface": "bhāvayāmi",
-"quick_gloss": "I-contemplate"
+"quick_gloss": "i-contemplate"
 },
 {
 "surface": "bhāvayāmi",
-"quick_gloss": "I-contemplate"
+"quick_gloss": "i-contemplate"
 }
 ]
 },
@@ -267,20 +267,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "narāḥ+te",
-"quick_gloss": "men-those"
+"surface": "narāḥ",
+"quick_gloss": "men"
 },
 {
-"surface": "narāḥ+te",
-"quick_gloss": "men-those"
+"surface": "te",
+"quick_gloss": "those"
 },
 {
-"surface": "narāḥ+te",
-"quick_gloss": "men-those"
+"surface": "narāḥ",
+"quick_gloss": "men"
 },
 {
-"surface": "narāḥ+te",
-"quick_gloss": "men-those"
+"surface": "te",
+"quick_gloss": "those"
 }
 ]
 },
@@ -367,7 +367,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "duḥ+grahāḥ",
+"surface": "dur+grahāḥ",
 "quick_gloss": "evil-planets"
 },
 {
@@ -376,11 +376,15 @@
 },
 {
 "surface": "tyajanti",
-"quick_gloss": "abandon"
+"quick_gloss": "they-abandon"
 },
 {
-"surface": "duḥ+grahāḥ+tān+tyajanti",
-"quick_gloss": "evil-planets-them-abandon"
+"surface": "dur+grahāḥ+tān",
+"quick_gloss": "evil-planets-them"
+},
+{
+"surface": "tyajanti",
+"quick_gloss": "abandon"
 }
 ]
 },
@@ -418,19 +422,19 @@
 "tokens": [
 {
 "surface": "su+vakṣoja+nabhrām",
-"quick_gloss": "beautiful-breast-resembling-cloud"
+"quick_gloss": "beautiful-breast-cloud"
 },
 {
 "surface": "su+vakṣoja+nabhrām",
-"quick_gloss": "beautiful-breast-resembling-cloud"
+"quick_gloss": "beautiful-breast-cloud"
 },
 {
 "surface": "su+vakṣoja+nabhrām",
-"quick_gloss": "beautiful-breast-resembling-cloud"
+"quick_gloss": "beautiful-breast-cloud"
 },
 {
 "surface": "su+vakṣoja+nabhrām",
-"quick_gloss": "beautiful-breast-resembling-cloud"
+"quick_gloss": "beautiful-breast-cloud"
 }
 ]
 },
@@ -455,7 +459,7 @@
 },
 {
 "surface": "su+kāñcīm",
-"quick_gloss": "with-beautiful-girdle"
+"quick_gloss": "beautiful-girdled"
 }
 ]
 },
@@ -493,19 +497,19 @@
 "tokens": [
 {
 "surface": "tri+śaktiṃ",
-"quick_gloss": "threefold-power"
+"quick_gloss": "three-power"
 },
 {
 "surface": "bhajāmi",
-"quick_gloss": "I-worship"
+"quick_gloss": "i-worship"
 },
 {
 "surface": "tri+śaktiṃ",
-"quick_gloss": "threefold-power"
+"quick_gloss": "three-power"
 },
 {
 "surface": "bhajāmi",
-"quick_gloss": "I-worship"
+"quick_gloss": "i-worship"
 }
 ]
 },
@@ -572,7 +576,7 @@
 },
 {
 "surface": "mānavaḥ+api",
-"quick_gloss": "even-a-human"
+"quick_gloss": "even-a-man"
 },
 {
 "surface": "labhet",
@@ -580,7 +584,7 @@
 },
 {
 "surface": "mānavaḥ+api",
-"quick_gloss": "even-a-human"
+"quick_gloss": "even-a-man"
 }
 ]
 },
