@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p263-v6551
-[then](tad) [fire-oblation](agnihotram) [indeed](tu) [should-be-performed](caryatām) [should-be-seen](dṛśyatām) [this](idam)
+[that+fire-oblation+indeed](tadagnihotrantu) [let-be-performed](caryatāṃ) [let-be-seen](dṛśyatām) [this](idaṃ)
 
 ## mukta-m0-p263-v6552
-[veda-path](veda+mārgaṃ) [entered](praviṣṭā) [of-vāma-and-kaula](vāma+kaulayoḥ)
+[veda+path](vedamārgaṃ) [entered](praviṣṭā) [of-vāma](vām) [+and-kaula](akaulayoḥ)
 
 ## mukta-m0-p263-v6553
-[lotus-seat](padma+āsanam) [straight](ṛjuḥ) [should-be](bhavet)
+[lotus+seat](padmāsanam) [straight](ṛjur) [should-be](bhavet)
 
 ## mukta-m0-p263-v6554
-[in-its-middle](tat+madhye) [to-be-contemplated](cintanīyaṃ) [quality-natured](guṇa+ātmakam)
+[that+in-middle](tanmadhye) [to-be-contemplated](cintanīyaṃ) [quality+consisting-of](guṇātmakam)
 
 ## mukta-m0-p263-v6555
-[in-its-middle](tat+madhye) [one-should-meditate](dhyāyet) [sattva-quality-natured](sattva+guṇa+ātmakam)
+[that+in-middle](tanmadhye) [one-should-meditate](dhyāyet) [sattva+quality+consisting-of](sattvaguṇātmakam)
 
 ## mukta-m0-p263-v6556
-[by-the-syllable-ha](ha+kāreṇa) [enveloped](veṣṭitaṃ) [and](ca) [that](tat) [one-should-contemplate](cintayet)
+[with-ha+syllable](hakāreṇa) [enveloped](veṣṭitaṃ) [that](tat) [and](ca) [one-should-contemplate](cintayet)
 
 ## mukta-m0-p263-v6557
-[pervaded](samākrāntam) [indeed](tu) [that-pair](tat+dvayam)
+[pervaded+indeed](samākrāntantu) [that+pair](taddvayam)
 
 ## mukta-m0-p263-v6558
-[in-the-east](prācyāṃ) [in-the-west](praticyāṃ) [and](ca) [in-the-north](kauberyāṃ) [in-the-south](dakṣiṇe) [likewise](tathā)
+[in-east](prācyāṃ) [in-west](praticyāṃ) [and](ca) [in-north](kauberyāṃ) [in-south](dakṣiṇe) [likewise](tathā)
 
 ## mukta-m0-p263-v6559
-[from-middle-etc-eastward](madhya+ādi+pūrvataḥ) [there](tatra) [to-be-known](jñeyāḥ) [five-fires](pañca+agnayaḥ) [indeed](hi) [these](amī)
+[from-middle+beginning](madhyādipūrvatastatra) [to-be-known](jñeyāḥ) [five+fires](paṃcāgnayo) [indeed](hi) [these](amī)
 
 ## mukta-m0-p263-v6560
-[and](ca) [āhavanīya](āhavanīyaḥ) [fire](agniḥ) [anvāhārya](anvāhāryaḥ) [and](ca) [fifth](pañcamaḥ)
+[and+āhavanīya+fire](cāhavanīyognir) [anvāhārya](anvāhāryaś) [and](ca) [fifth](paṃcamaḥ)
 
 ## mukta-m0-p263-v6561
-[situated](sthitāṃ) [them](tān) [and](ca) [like-kalpa-suns](kalpa+ādityān) [one-should-visualize](vicintayet)
+[situated](sthitāṃ) [them](stāṃś) [and](ca) [kalpa+suns](kalpādityān) [one-should-visualize](vicintayet)
 
 ## mukta-m0-p263-v6562
-[saṃ](saṃ) [ṣam](ṣam) [thus](iti) [indeed](tu) [to-be-known](jñeyāḥ) [syllables](varṇāḥ) [and](ca) [five](pañca) [and](ca)
+[saṃ](saṃ) [ṣam](ṣam) [thus](iti) [indeed](tu) [to-be-known](jñeyā) [syllables](varṇāś) [and](ca) [five](paṃca) [and](ca)
 
 ## mukta-m0-p263-v6563
-[five](pañca) [these](ete) [in-battle](saṃgrāme) [victory-giving](vijaya+pradāḥ)
+[five](paṃca) [these](ete) [in-battle](saṃgrāme) [victory+giving](vijayapradāḥ)
 
 ## mukta-m0-p263-v6564
-[with-blue-indra](nīla+indreṇa) [equal](samāḥ) [to-be-meditated](dhyeyāḥ) [mantra-accomplishment-giving](mantra+siddhi+pradāyakāḥ)
+[with-blue+indra](nīlendr) [eṇa](eṇa) [equal](samā) [to-be-meditated](dhyeyā) [mantra+accomplishment+bestowing](mantrasiddhipradāyakāḥ)
 
 ## mukta-m0-p263-v6565
-[of-mars](bhaumasya) [these](ete) [in-gambling-dispute-and-royal-gates](dyūta+kali+rāja+dvāreṣu) [success-giving](siddhi+dāḥ)
+[of-mars](bhaumasya) [these](ete) [in-gambling+strife+royal+doors](dyūtakalirājadvāreṣu) [success+giving](siddhidāḥ)
 
 ## mukta-m0-p263-v6566
-[to-be-contemplated](cintanīyāḥ) [thunderbolt-like](vajra+nibhāḥ) [in-journey-and-tasks-auspiciousness-making](yātrā+kārya+śubhaṃ+karāḥ)
+[to-be-contemplated](cintanīyā) [thunderbolt+resembling](vajranibhā) [journey+undertaking+auspicious-making](yātrākāryaśubhaṃkarāḥ)
 
 ## mukta-m0-p263-v6567
-[in-marriage-and-other-tasks](vivāha+ādi+kārya+ādiṣu) [very-auspicious](su+śobhanāḥ)
+[in-marriage+etc+undertakings](vivāhādikāryādiṣu) [very+auspicious](suśobhanāḥ)
 
 ## mukta-m0-p263-v6568
-[enemy-destruction-causing](śatru+nāśa+karāḥ) [to-be-meditated](dhyeyāḥ) [by-the-wise](manīṣibhiḥ)
+[enemy+destruction+causing](śatrunāśakarā) [to-be-meditated](dhyeyā) [by-the-wise](manīṣibhiḥ)
 
 ## mukta-m0-p263-v6569
-[diamond-like](hīraka+saṃkāśāḥ) [royal-task-accomplishing](rāja+kārya+karāḥ) [these](ime)
+[diamond+resembling](hīrakasaṃkāśā) [royal+work+accomplishing](rājakāryakarā) [these](ime)
 
 ## mukta-m0-p263-v6570
-[maṃ](maṃ) [naṃ](naṃ) [ṇaṃ](ṇaṃ) [and](ca) [ñaṃ](ñaṃ) [ṅaṃ](ṅaṃ) [aḥ](aḥ) [eṃ](eṃ) [ūṃ](ūṃ) [in-the-āvasathya](āvasathyake)
+[maṃ](maṃ) [naṃ](naṃ) [ṇaṃ](ṇaṃ) [and](ca) [ñaṃ](ñaṃ) [ṅaṃ](ṅaṃ) [aḥ](aḥ) [eṃ](eṃ) [ūṃ](ūṃ) [in-āvasathya](āvasathyake)
 
 ## mukta-m0-p263-v6571
-[khaṃ](khaṃ) [oṃ](oṃ) [ṛṃ](ṛṃ) [and](ca) [iṃ](iṃ) [syllable](kāram) [in-the-anvāhārya](anvāhārye) [should-offer](hunet) [the-wise-one](su+dhīḥ)
+[khaṃ](khaṃ) [oṃ](oṃ) [ṛṃ](ṛṃ) [and](ca) [iṃ](iṃ) [syllable](kāram) [in-anvāhārya](anvāhārye) [should-offer](hunet) [wise-one](sudhīḥ)
 
 ## mukta-m0-p263-v6572
-[svāhā](svāhā) [having-said](iti+uktvā) [in-the-prescribed-fire-pit](prokta+kuṇḍe) [one-should-offer](hunet) [each-syllable](eka+ekam+akṣaram)
+[svāhā](svāhā) [thus](iti) [having-said](uktvā) [in-mentioned+fire-pit](proktakuṇḍe) [one-should-offer](hunet) [one+one+syllable](ekaikamakṣaram)
 
 ## mukta-m0-p263-v6573
-[sound-collection](śabda+jātaṃ) [all](sarvaṃ) [scripture-etc](śāstra+ādikaṃ) [one-should-offer](hunet)
+[sound+collection](śabdajātaṃ) [all](sarvaṃ) [scripture+etc](śāstrādikaṃ) [one-should-offer](hunet)
 
 ## mukta-m0-p263-v6574
-[touch-etc](sparśa+ādikān) [or](vā) [air-qualities](āyu+guṇān) [yaṃ](yaṃ) [with-the-seed-syllable](bījena) [in-the-indra-fire-pit](indra+kuṇḍake)
+[touch+etc](sparśādikān) [air+qualities](vāyuguṇān) [yaṃ](yaṃ) [with-seed](bījena) [in-indra+fire-pit](indrakuṇḍake)
 
 ## mukta-m0-p263-v6575
-[tastes](rasān) [all](sarvān) [one-should-offer](hunet) [in-the-fire-pit](kuṇḍe) [likewise](tathā) [in-the-northern](uttare)
+[tastes](rasān) [all](sarvān) [one-should-offer](hunet) [in-fire-pit](kuṇḍe) [likewise](tathā) [in-northern](uttare)

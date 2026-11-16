@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p278-v6926
-[with-passion](mada) [slow-moving](manthara+gāminyaḥ) [well-adorned](su+bhūṣāḥ) [and](ca) [with-beautiful-ornaments](āru+bhuṣaṇāḥ)
+[with-intoxication+slow-moving](madamantharagāminyaḥ) [well-adorned](subhūṣāḥ) [and](ca) [with-beautiful+ornaments](ārubhūṣaṇāḥ)
 
 ## mukta-m0-p278-v6927
-[smiling](ṅehṛdantān) [and](ca) [Ananga-and-others](anaṃga+ādīn) [one-should-worship](pūjayet) [in-order](kramāt)
+[of-love](ananga) [and-others](ādīn) [should-worship](pūjayet) [in-order](kramāt)
 
 ## mukta-m0-p278-v6928
-[in-the-five-arrows](pañca+puṣpeṣu) [noose](pāśa) [goad](aṅkuśa) [sugarcane-bow](ikṣu+dhanur) [bearing](bhṛtaḥ)
+[of-the-five+flower-arrows](pañcapuṣpeṣu) [noose](pāśa) [and](āhva) [goad+sugarcane+bow+bearing](nāṃkuśekṣudhanurbhṛtaḥ)
 
 ## mukta-m0-p278-v6929
-[with-ornaments](bhūṣā) [endowed](yuktāḥ) [one-should-meditate](smaret) [lotus-faced](vaktra+kamalāḥ) [properly](sādhu) [one-should-worship](pūjayet)
+[with-ornaments+endowed](bhūṣāyuktāḥ) [one-should-meditate](smaret) [lotus-faced](vaktrakamalāḥ) [properly](sādhu) [one-should-worship](pūjayet)
 
 ## mukta-m0-p278-v6930
-[ending-in-ṣaṇḍa](ṣaṇḍa+anta) [without-vowel](svara+hīnam) [and](ca) [the-letter-ka](ka+kāram) [adorned-with-bindu](bindu+bhūṣitam)
+[ṣaṇḍa+end+vowel-less](ṣaṇḍāntasvarahīnañca) [the-letter-ka](kakāraṃ) [with-bindu+adorned](bindubhūṣitat)
 
 ## mukta-m0-p278-v6931
-[worship-mantra](pūjā+mantraḥ) [should-be](syāt) [of-all](sarvāsām) [and](ca) [also](api) [in-sequence](anukramāt)
+[worship+mantra](pūjāmantraḥ) [should-be](syāt) [of-all](sarvāsāṃ) [and](ca) [also](api) [in-sequence](anukramāt)
 
 ## mukta-m0-p278-v6932
-[Durbhati](durbhatiḥ) [Nidhṛti](nidhṛtiḥ) [Vidhṛti](vidhṛtiḥ) [Tuṣṭi](tuṣṭiḥ) [and](ca) [also](api) [Vituṣṭikā](vituṣṭikā)
+[durbhati](durbhatiḥ) [nidhṛti](nidhṛtiḥ) [vidhṛti](vidhṛtiḥ) [tuṣṭi](tuṣṭiḥ) [and](ca) [also](api) [vituṣṭikā](vituṣṭikā)
 
 ## mukta-m0-p278-v6933
-[outside](bāhye) [then](tad) [weapons](astrāṇi) [then](tataḥ) [outside](bahiḥ)
+[outside](bāhye) [then](tat) [weapons](astrāṇi) [then](tato) [outside](bahiḥ)
 
 ## mukta-m0-p278-v6934
-[libation-and-so-forth](tarpaṇa+ādyam) [and](ca) [having-done](kṛtvā) [having-satisfied](saṃtoṣya) [the-teacher](deśikam)
+[libation+and-so-forth](tarpaṇādyaṃ) [and](ca) [having-done](kṛtvā) [having-satisfied](saṃtoṣya) [the-teacher](deśikam)
 
 ## mukta-m0-p278-v6935
-[declared-by-previous-mantra](pūrva+mantra+uditān) [properly](samyak) [by-the-aforementioned-method](pūrva+ukta+vidhinā) [the-wise-one](su+dhīḥ)
+[by-previous+mantra+declared](pūrvamantroditān) [properly](samyak) [by-previously+stated+method](pūrvoktavidhinā) [the-wise-one](sudhīḥ)
 
 ## mukta-m0-p278-v6936
-[with-delighted-women](pramadā+janaiḥ)
+[with-delighted+people](pramadājanaiḥ)
 
 ## mukta-m0-p278-v6937
-[now](atha) [therefore](ataḥ) [of-her](asyāḥ) [I-shall-declare](pravakṣyāmi) [twelve-syllabled](dvādaśa+arṇam) [great-mantra](mahā+manum)
+[now](atha) [therefore](ataḥ) [of-her](asyāḥ) [I-shall-declare](pravakṣyāmi) [twelve-syllabled](dvādaśārṇaṃ) [great+mantra](mahāmanum)
 
 ## mukta-m0-p278-v6938
-[the-mantra](manuḥ) [is-declared](proktaḥ) [the-seer](muniḥ) [Sammohana](sammohanaḥ) [is-considered](mataḥ)
+[the-mantra](manuḥ) [is-declared](proktaḥ) [the-seer](muniḥ) [sammohana](sammohano) [is-considered](mataḥ)
 
 ## mukta-m0-p278-v6939
-[six-limbs](ṣaṭ+aṃgāni) [having-performed](kṛtvā) [the-goddess](devīm) [one-should-visualize](vicintayet)
+[six+limbs](ṣaḍaṃgāni) [having-performed](kṛtvā) [the-goddess](devīṃ) [one-should-visualize](vicintayet)
 
 ## mukta-m0-p278-v6940
-[sickle](sṛṇim) [noose](pāśam) [skull](kapālam) [bearing](bibhratīm) [with-hands](karaiḥ)
+[sickle](sṛṇiṃ) [noose](pāśaṃ) [skull](kapālaṃ) [bearing](bibhratīṃ) [with-hands](karaiḥ)
 
 ## mukta-m0-p278-v6941
-[one-should-worship](yajet) [the-goddess](devīm) [the-declared-limbs](prokta+aṃgāni) [first](purā) [one-should-worship](yajet)
+[one-should-worship](yajet) [the-goddess](devīṃ) [the-declared+limbs](proktāṃgāni) [first](purā) [one-should-worship](yajet)
 
 ## mukta-m0-p278-v6942
-[with-blue-lotus](nīla+kamala) [and-skull](kapāla) [endowed](āḍhya) [lotus-hands](kara+ambujā)
+[blue+lotus+skull+endowed+lotus-hands](nīlakamalakapālāḍhyakarāmbujā)
 
 ## mukta-m0-p278-v6943
-[Mahākālī](mahākālīm) [deluding-all-people](samasta+jana+mohinīm)
+[mahākālī](mahākālīṃ) [all+people+bewitching](samastajanamohinīm)
 
 ## mukta-m0-p278-v6944
-[by-the-left-hand-path](vāma+mārgeṇa) [indeed](hi) [of-her](asyāḥ) [success](siddhiḥ) [arises](prajāyate)
+[by-the-left+path](vāmamārgeṇa) [indeed](hi) [of-her](asyāḥ) [success](siddhiḥ) [is-produced](prajāyate)
 
 ## mukta-m0-p278-v6945
-[svāhā](svāhā) [of-Śakra-color](śakra+varṇaḥ) [mantra](mantraḥ) [of-Kālī](kālyāḥ) [is-declared](udīritaḥ)
+[svāhā](svāhā) [śakra+syllable](śakravarṇo) [mantra](mantraḥ) [of-kālī](kālyā) [is-declared](udīritaḥ)
 
 ## mukta-m0-p278-v6946
-[by-desired-food-and-drink](yathā+iṣṭa+bhakṣya+pānābhyām) [by-sexual-union](maithunena) [she-is-pleased](prasīdati)
+[with-desired+food+drink](yatheṣṭabhakṣyapānābhyāṃ) [by-sexual-union](maithunena) [she-is-pleased](prasīdati)
 
 ## mukta-m0-p278-v6947
-[with-Brāhmī-and-others](brāhmī+ādibhiḥ) [with-śaktis](śaktibhiḥ) [and](ca) [endowed](yuktā) [with-devotion](bhaktyā) [one-should-worship](prapūjayet)
+[with-brāhmī+and-others](brāhmyādibhiḥ) [with-śaktis](śaktibhiḥ) [and](ca) [endowed](yuktā) [with-devotion](bhaktyā) [one-should-worship](prapūjayet)
 
 ## mukta-m0-p278-v6948
-[spear](śakti) [trident](śūla) [bow](dhanur) [arrow](bāṇa) [shield](kheṭa) [sword](khaḍga) [boon](vara) [and-fearlessness](abhayān)
+[śakti+spear+bow+arrow+shield+sword+boon+fearlessness](śaktiśūladhanurbāṇakheṭakhaḍgavarābhayān)
 
 ## mukta-m0-p278-v6949
-[having-meditated-thus](dhyātvā+evam) [the-accomplished-practitioner](siddhakaḥ) [the-object-to-be-accomplished](sādhyam) [should-accomplish](sādhayet) [situated-in-the-mind](manasi+sthitam)
+[having-meditated](dhyātva) [thus](evaṃ) [the-accomplished-practitioner](siddhakaḥ) [the-object-to-be-accomplished](sādhyaṃ) [should-accomplish](sādhayet) [in-mind](manasi) [situated](sthitam)
 
 ## mukta-m0-p278-v6950
-[and-likewise](tathā) [Indrāṇī](indrāṇī) [and](ca) [Cāmuṇḍā](cāmuṇḍā) [and](ca) [Caṇḍikā](caṇḍikā) [the-eighth](aṣṭamī)
+[likewise](tathā) [indrāṇī](indrāṇī) [and](ca) [cāmuṇḍā](cāmuṇḍā) [and](ca) [caṇḍikā](caṇḍikā) [the-eighth](aṣṭamī)
