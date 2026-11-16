@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p80-v1976
-[month-by-month](māse) [month-by-month](māse) [indeed](tu) [to-be-offered](hotavyaṃ) [one-by-one](ekaikaṃ) [indeed](tu) [separately](pṛthak) [separately](pṛthak)
+[month](māse) [month](māse) [indeed](tu) [to-be-performed](hotavyaṃ) [one-by-one](ekaikaṃ) [indeed](tu) [separately](pṛthak) [separately](pṛthak)
 
 ## mukta-m0-p80-v1977
-[teacher](ācāryaḥ) [śiva-offering](śivahomaṃ) [indeed](tu) [of-them](teṣāṃ) [indeed](tu) [double](dviguṇaṃ) [becomes](bhavet)
+[teacher](ācāryaḥ) [śiva+oblation](śiva+homaṃ) [indeed](tu) [of-them](teṣāṃ) [indeed](tu) [double](dviguṇaṃ) [should-be](bhavet)
 
 ## mukta-m0-p80-v1978
-[at-end-of-homa](homānte) [bathing](snānaṃ) [should-do](kurvīta) [on-twelfth-and-eighth](dvādaśāṣṭamīkeṣu) [and](ca)
+[oblation+end](homa+ante) [bath](snānaṃ) [one-should-perform](kurvīta) [on-twelfth+and-eighth-days](dvādaśa+aṣṭamīkeṣu) [and](ca)
 
 ## mukta-m0-p80-v1979
-[with-left-mantra](vāmamantreṇa) [temple](prāsādaṃ) [seed+chief+accompanied](vījamukhyasamanvitam)
+[with-vāma+mantra](vāma+mantreṇa) [prāsāda-mantra](prāsādaṃ) [seed+chief+accompanied](bīja+mukhya+samanvitam)
 
 ## mukta-m0-p80-v1980
-[fuel-and-ghee](samidhājya) [oblation](caruṃ) [parched-rice](lājāṃ) [sesame-rice](tilaśāliṃ) [and](ca) [all-drinks](sarvapān)
+[fuel-stick+clarified-butter](samidh+ājya) [rice-gruel](caruṃ) [parched-grains](lājān) [sesame+rice](tila+śāliṃ) [and](ca) [all+offerings](sarva+pān)
 
 ## mukta-m0-p80-v1981
-[with-temple-name-mantra](prāsādanāmamantreṇa) [with-seed-chiefs](bījamukhyaiḥ) [should-manifest](prakāśayet)
+[with-prāsāda+name+mantra](prāsāda+nāma+mantreṇa) [with-seed+chief-mantras](bīja+mukhyaiḥ) [one-should-utter](prakāśayet)
 
 ## mukta-m0-p80-v1982
-[homa](homaṃ) [before](pūrve) [indeed](tu) [wise-one](matimān) [should-worship](pūjayed) [priests](ṛtvijaḥ) [separately](pṛthak)
+[oblation](homaṃ) [in-the-east](pūrve) [indeed](tu) [the-wise-one](matimān) [one-should-worship](pūjayet) [priests](ṛtvijaḥ) [separately](pṛthak)
 
 ## mukta-m0-p80-v1983
-[gold-ring](hemāṅgulīyakaṃ) [and-indeed](caiva) [umbrella](chatraṃ) [sandals](pādukam) [indeed](eva) [and](ca)
+[gold+finger-ring](hema+aṅgulīyakaṃ) [and](ca) [indeed](eva) [parasol](chatraṃ) [sandals](pādukam) [indeed](eva) [and](ca)
 
 ## mukta-m0-p80-v1984
-[turban](uṣṇīvaṃ) [plank](phalakaṃ) [and-indeed](caiva) [according-to](yathā) [ability](śakti) [and](ca) [gift](dakṣiṇām)
+[turban](uṣṇīvaṃ) [board](phalakaṃ) [and](ca) [indeed](eva) [according-to](yathā) [ability](śakti) [and](ca) [fee](dakṣiṇām)
 
 ## mukta-m0-p80-v1985
-[with-armlets](keyūrair) [with-sacred-threads](upavītaiḥ) [and](ca) [with-bracelets](kaṭakaiḥ) [with-hip-strings](kaṭisūtrakaiḥ)
+[with-armlets](keyūraiḥ) [with-sacred-threads](upavītaiḥ) [and](ca) [with-bracelets](kaṭakaiḥ) [with-waist-bands](kaṭisūtrakaiḥ)
 
 ## mukta-m0-p80-v1986
-[milk-rice](pāyasaṃ) [ghee-mixed](ghṛtasaṃyuktaṃ) [with-ghee](ghṛtena) [indeed](tu) [flooded](pariplutam)
+[milk-rice](pāyasaṃ) [ghee+mixed](ghṛta+saṃyuktaṃ) [with-ghee](ghṛtena) [indeed](tu) [flooded](pariplutam)
 
 ## mukta-m0-p80-v1987
-[turmeric](haridrām) [fire-colored](agnivarṇāṃ) [and](ca) [yellow-colored](pītavarṇāṃ) [well-beautiful](suśobhanām)
+[turmeric-colored](haridrām) [fire+colored](agni+varṇāṃ) [and](ca) [yellow+colored](pīta+varṇāṃ) [very-beautiful](suśobhanām)
 
 ## mukta-m0-p80-v1988
-[hundred-pots-like](śatakumbhanibhāṃ) [brown](kapilāṃ) [for-śiva](śivāya) [twelfth](dvādaśaṃ) [becomes](bhavet)
+[hundred+pitcher+resembling](śata+kumbha+nibhāṃ) [tawny-cow](kapilāṃ) [to-śiva](śivāya) [twelfth](dvādaśaṃ) [should-be](bhavet)
 
 ## mukta-m0-p80-v1989
-[great-worship](mahāpūjā) [should-be-done](prakartavyā) [of-brahman](brahmaṇaḥ) [and-indeed](caiva) [should-offer](homayet)
+[great+worship](mahā+pūjā) [to-be-performed](prakartavyā) [of-brahmins](brahmaṇaḥ) [and](ca) [indeed](eva) [one-should-offer-oblation](homayet)
 
 ## mukta-m0-p80-v1990
-[seven-days](saptāhaṃ) [three-days](triyahaṃ) [or-indeed](vāpi) [festival](utsavaṃ) [should-cause](kārayet) [wise-one](budhaḥ)
+[seven+days](sapta+ahaṃ) [three+days](tri+ahaṃ) [or](vā) [even](api) [festival](utsavaṃ) [one-should-perform](kārayet) [the-wise-one](budhaḥ)
 
 ## mukta-m0-p80-v1991
-[various-countries-filled](nānājanapadākīrṇaṃ) [various-umbrellas-accompanied](nānācchatrasamanvitam)
+[various+regions+filled](nānā+janapada+ākīrṇaṃ) [various+parasols+accompanied](nānā+cchatra+samanvitam)
 
 ## mukta-m0-p80-v1992
-[village](grāmaṃ) [or](vā) [city](nagaraṃ) [or-indeed](vāpi) [town](nattanaṃ) [hamlet](kheṭakaṃ) [indeed](tu) [or](vā)
+[village](grāmaṃ) [or](vā) [city](nagaraṃ) [or](vā) [even](api) [town](nattanaṃ) [hamlet](kheṭakaṃ) [indeed](tu) [or](vā)
 
 ## mukta-m0-p80-v1993
-[śrīkaṇṭha-lord](śrīkaṇṭhanāthaṃ) [with-son](sasutaṃ) [soma](somaṃ) [by-chariot](rathena) [should-convey](vāhayet)
+[śrīkaṇṭha+lord](śrīkaṇṭha+nāthaṃ) [with-son](sa+sutaṃ) [soma](somaṃ) [by-chariot](rathena) [one-should-convey](vāhayet)
 
 ## mukta-m0-p80-v1994
-[parched-rice-flour-mixed](lājāsaktu) [mixed](samāyuktaṃ) [rice-food](śālyannaṃ) [droṇa-vessel](droṇabhājanam)
+[parched-grain+groats](lājā+saktu) [accompanied](samāyuktaṃ) [rice+food](śāli+annaṃ) [droṇa+vessel](droṇa+bhājanam)
 
 ## mukta-m0-p80-v1995
-[at-four-way](catuṣpathe) [at-three-way](tripathe) [and-indeed](caiva) [at-two-way-and-one-way](dvipathaikapathe) [should-throw](kṣipet)
+[at-crossroads](catuṣpathe) [at-triple-road](tripathe) [and](ca) [indeed](eva) [at-double-road](dvipathe) [at-single-road](ekapathe) [one-should-scatter](kṣipet)
 
 ## mukta-m0-p80-v1996
-[with-one-hundred-eight](aṣṭottaraśataiḥ) [pots](kalaśaiḥ) [or-eighty-one](ekāśītim) [and-also](athāpi) [or](vā)
+[with-eight+over+hundreds](aṣṭa+uttara+śataiḥ) [with-pitchers](kalaśaiḥ) [eighty-one](ekāśītim) [or](atha) [even](api) [or](vā)
 
 ## mukta-m0-p80-v1997
-[with-twenty-five](pañcaviṃśaiḥ) [with-sixteen](ṣoḍaśair) [or](vā) [bathing](snapanaṃ) [should-cause](kārayet) [guha](guha)
+[with-twenty-five](pañcaviṃśaiḥ) [with-sixteen](ṣoḍaśaiḥ) [or](vā) [bathing](snapanaṃ) [one-should-perform](kārayet) [O-Guha](guha)
 
 ## mukta-m0-p80-v1998
-[powder](cūrṇa) [having-made](kṛtvā)
+[powder](cūrṇa) [*](*) [*](*) [*](*) [*](*) [*](*) [*](*) [having-made](kṛtvā) [*](*) [*](*) [*](*) [*](*) [*](*)
 
 ## mukta-m0-p80-v1999
-[great-abhiṣeka-materials](mahābhiṣekadravyāṇi) [said](kathitaṃ) [before-indeed](pūrvameva) [indeed](hi)
+[great+ablution+substances](mahā+abhiṣeka+dravyāṇi) [declared](kathitaṃ) [previously](pūrvam) [indeed](eva) [indeed](hi)
 
 ## mukta-m0-p80-v2000
-[avabhṛta](avabhṛtaṃ) [should-cause](kārayet) [after](paścāt) [river-bathing](nadīsnānaṃ) [especially](viśeṣataḥ)
+[concluding-bath](avabhṛtaṃ) [one-should-perform](kārayet) [afterwards](paścāt) [river+bath](nadī+snānaṃ) [especially](viśeṣataḥ)

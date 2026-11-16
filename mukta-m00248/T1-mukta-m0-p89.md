@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p89-v2201
-[this-time-excess](etatkālādhikaṃ) [do](kuryāt) [upward-vessel](ūrdhvapātraṃ) [six-faced](ṣaḍānana)
+[this](etat) [time+more](kāla+adhikaṃ) [should-do](kuryāt) [upper+vessel](ūrdhva+pātraṃ) [six-faced](ṣaḍānana)
 
 ## mukta-m0-p89-v2202
-[comfort](sukhaṃ) [pra](pra) [*](*) [*](*) [*](*) [do-feet](kuryātpādau) [hands](hastau) [and](tu) [fire](vānalam)
+[happily](sukhaṃ) [forth](pra) [*](*) [*](*) [*](*) [should-do](kuryāt) [feet](pādau) [hands](hastau) [indeed](tu) [or+forearm](vā+nalam)
 
 ## mukta-m0-p89-v2203
-[well-fill](samyagāpūrayitvā) [then](tu) [brahma-born-knowledge](brahmajajñānakena) [then](tu)
+[properly](samyak) [having-filled](āpūrayitvā) [indeed](tu) [brahma+born+knowledge+by](brahmaja+jñāna+kena) [indeed](tu)
 
 ## mukta-m0-p89-v2204
-[ten-mouthed](daśāsyāṃ) [sons-place](putrānādhe) [indeed](hi) [womb-rite](garbhādhānantu) [offer](homayet)
+[in-tenth](daśāsyāṃ) [sons](putrān) [placing](ādhe) [indeed](hi) [conception+indeed](garbhādhānam+tu) [should-offer](homayet)
 
 ## mukta-m0-p89-v2205
-[progeny-life-sons](prajāvajjīvaputrābhyāṃ) [thus](iti) [progenitor-opinion](prajāpatermatam)
+[with-progeny](prajāvat) [with-living+sons](jīva+putrābhyāṃ) [thus](iti) [of-Prajāpati+opinion](prajāpateḥ+matam)
 
 ## mukta-m0-p89-v2206
-[remainder-offer](haviṣā) [homayeccheṣaṃ](haviṣā) [palasha-fuel](pālāśedhmaṃ) [make](tu) [kārayet](kārayet)
+[with-oblation](haviṣā) [should-offer+remainder](homayet+śeṣaṃ) [palāśa+fuel](pālāśa+edhmaṃ) [indeed](tu) [should-make](kārayet)
 
 ## mukta-m0-p89-v2207
-[twenty-one-kusha](ekaviṃśatkuśān) [shami](śamīn) [udumbara-fruits](udumbaraphalāni) [and](ca)
+[twenty-one](ekaviṃśat) [kuśa-grasses](kuśān) [śamī-sticks](śamīn) [udumbara+fruits](udumbara+phalāni) [and](ca)
 
 ## mukta-m0-p89-v2208
-[held-give-honey](dhṛte) [dadāmi](dadāmi) [madhunā](madhunā) [ghṛteneti](ghṛteneti) [ghee-honey](ghṛtaṃ) [madhu](madhu)
+[in-ghee](dhṛte) [I-give](dadāmi) [with-honey](madhunā) [with-ghee+thus](ghṛtena+iti) [ghee](ghṛtaṃ) [honey](madhu)
 
 ## mukta-m0-p89-v2209
-[those-mantras](tairmantraiśca) [hunet](hunedvatsa) [hundred-eight](śatamaṣṭottaraṃ) [hunet](hunet)
+[with-these+mantras](taiḥ+mantraiḥ) [and](ca) [should-offer+child](hunet+vatsa) [hundred](śatam) [eight-more](aṣṭa+uttaraṃ) [should-offer](hunet)
 
 ## mukta-m0-p89-v2210
-[each-eight-thousand](pratyekamaṣṭottarasahasraṃ) [or](tu) [half-eight-hundred](dardhaṃ) [vāṣṭaśataṃ](vāṣṭaśataṃ) [or](tu) [vā](vā)
+[each](pratyekam) [eight-more+thousand](aṣṭa+uttara+sahasraṃ) [indeed](tu) [or-half](vā+ardhaṃ) [or+eight+hundred](vā+aṣṭa+śataṃ) [indeed](tu) [or](vā)
 
 ## mukta-m0-p89-v2211
-[name-rite](nāmadheyaṃ) [tenth](daśamyāṃ) [or](tu) [twelfth](dvādaśyāṃ) [or](vāpi) [do](kārayet)
+[name-giving](nāma+dheyaṃ) [on-tenth-day](daśamyāṃ) [indeed](tu) [on-twelfth-day](dvādaśyāṃ) [or+also](vā+api) [should-perform](kārayet)
 
 ## mukta-m0-p89-v2212
-[havatāsvarmaśarmaghoṣānyantaṃ](havatāsvarmaśarmaghoṣānyantaṃ) [prayoktavyam](prayoktavyam)
+[varman+śarman+ghoṣa+ending](varma+śarma+ghoṣa+antaṃ) [to-be-used](prayoktavyam) [?](?)
 
 ## mukta-m0-p89-v2213
-[herb-protect-him](oṣadhe) [trāyasvainamiti](trāyasvainamiti) [*](*) [*](*) [*](*) [*](*) [*](*) [*](*) [*](*)
+[oṣadhe trāyasvainamiti](oṣadhe trāyasvainamiti) [*](*) [*](*) [*](*) [*](*) [*](*) [*](*)
 
 ## mukta-m0-p89-v2214
-[mantra-yoga](mantrayogaṃ) [do](prakartavyaṃ) [these-mantras](etairmantraistu) [cutting](chedanam)
+[mantra+application](mantra+yogaṃ) [to-be-done](prakartavyaṃ) [with-these+mantras](etaiḥ+mantraiḥ) [indeed](tu) [cutting](chedanam)
 
 ## mukta-m0-p89-v2215
-[not-cooked](na) [keśava-word-cutting](pakvātkeśavacanacchedanaṃ) [do](tu) [ca](ca) [kārayet](kārayet)
+[not](na) [from-ripe](pakvāt) [hair+cutting](keśa+vacana+chedanaṃ) [indeed](tu) [and](ca) [should-perform](kārayet)
 
 ## mukta-m0-p89-v2216
-[sixteen-twelve-brahmins](ṣoḍaśairdvādaśairvipraiḥ) [nine-brahmins](navavipraiśca) [offer](homayet)
+[with-sixteen](ṣoḍaśaiḥ) [with-twelve](dvādaśaiḥ) [with-priests](vipraiḥ) [with-nine+priests](nava+vipraiḥ) [and](ca) [should-offer](homayet)
 
 ## mukta-m0-p89-v2217
-[separately-eight-thousand](pṛthagaṣṭottarasāhasraṃ) [eight-hundred](aṣṭottaraśataṃ) [or](tu) [vā](vā)
+[separately](pṛthak) [eight-more+thousand](aṣṭa+uttara+sāhasraṃ) [eight-more+hundred](aṣṭa+uttara+śataṃ) [indeed](tu) [or](vā)
 
 ## mukta-m0-p89-v2218
-[eighth-womb](garbhāṣṭame) [or](vā) [do](kartavyaṃ) [heard-seen-rite](śrutidṛṣṭena) [karmaṇā](karmaṇā)
+[in-eighth+of-pregnancy](garbha+aṣṭame) [or](vā) [to-be-done](kartavyaṃ) [by-śruti+seen](śruti+dṛṣṭena) [by-rite](karmaṇā)
 
 ## mukta-m0-p89-v2219
-[fathers-five](pitraiḥ) [pañcabhirdadyāt](pañcabhirdadyāt) [blazing-fire](dīptāgniṃ) [there](tatra) [mantras](mantrakaiḥ)
+[to-fathers](pitraiḥ) [with-five](pañcabhiḥ) [should-give](dadyāt) [kindled+fire](dīpta+agniṃ) [there](tatra) [with-mantras](mantrakaiḥ)
 
 ## mukta-m0-p89-v2220
-[purusha-suktas](puruṣasūktairviṣṇusūktaiḥ) [rudra-suktas](rudrasūktaiśca) [offer](homayet)
+[with-puruṣa-sūktas](puruṣa+sūktaiḥ) [with-viṣṇu-sūktas](viṣṇu+sūktaiḥ) [with-rudra-sūktas](rudra+sūktaiḥ) [and](ca) [should-offer](homayet)
 
 ## mukta-m0-p89-v2221
-[water-gift](jalapradānaṃ) [whatever](yatkiñcittatsarvaṃ) [brahma-sacrifice](brahmayajñakam)
+[water+offering](jala+pradānaṃ) [whatever](yat+kiñcit) [that+all](tat+sarvaṃ) [brahma+sacrifice](brahma+yajñakam)
 
 ## mukta-m0-p89-v2222
-[three-great-veda](tribhirmahādyādiveda) [*](*) [*](*) [vṛtta](vṛttañca) [offer](juhuyāt)
+[with-three](tribhiḥ) [mahā+beginning+veda](mahā+ādi+veda) [*](*) [*](*) [procedure](vṛttam) [and](ca) [should-offer](juhuyāt)
 
 ## mukta-m0-p89-v2223
-[one-only](eka) [eva](eva) [ghaṭikā](ghaṭikāṃ) [ca](ca) [each](pratyekaṃ) [sixteen](ṣoḍaśa) [kriyā](kriyā)
+[one](eka) [only](eva) [ghaṭikā](ghaṭikāṃ) [and](ca) [each](pratyekaṃ) [sixteen](ṣoḍaśa) [rites](kriyā)
 
 ## mukta-m0-p89-v2224
-[thus-brahmins-eat](evaṃ) [hi](hi) [vipraiḥbhuktvā](vipraiḥbhuktvā) [tu](tu) [that-time](tatkāle) [brahmin-feeding](viprabhojanam)
+[thus](evaṃ) [indeed](hi) [by-priests+having-eaten](vipraiḥ+bhuktvā) [indeed](tu) [at-that-time](tat+kāle) [priest+feeding](vipra+bhojanam)
 
 ## mukta-m0-p89-v2225
-[auspicious-day](puṇyāhaṃ) [vācayettatra](vācayettatra) [ādāvante](ādāvante) [ca](ca) [six-faced](ṣaṇmukha)
+[benediction](puṇyāham) [should-cause-to-recite](vācayet) [there](tatra) [at-beginning+at-end](ādau+ante) [and](ca) [six-faced](ṣaṇmukha)

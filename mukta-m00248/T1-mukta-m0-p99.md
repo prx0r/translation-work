@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p99-v2451
-[haṃsa-pure](haṃsaśuciṃ) [śan-navarga](śannavargaṃ) [anna-sūkta](annasūktaṃ) [jātavedas](jātavedasam)
+[swan-pure](haṃsaśuciṃ) [śan-group](śannavargaṃ) [food-hymn](annasūktaṃ) [jātavedas](jātavedasam)
 
 ## mukta-m0-p99-v2452
-[seven-hotṛ](saptahotā) [ten-hotṛ](daśahotā) [rudra-eleven](rudraikādaśa) [thus](eva) [and](ca)
+[saptahotṛ](saptahotā) [daśahotṛ](daśahotā) [rudra-eleven](rudraikādaśa) [indeed](eva) [and](ca)
 
 ## mukta-m0-p99-v2453
-[brahma-sāman](brahmasāma) [sam-jeṣṭha](samajyeṣṭhāt) [sāman](sāmaṃ) [vi-karṇa](vikarṇaṃ) [rudra-sāman](rudrasāmakam)
+[brahma-sāman](brahmasāma) [with-sama+jyeṣṭha](samajyeṣṭhāt) [sāman](sāmaṃ) [vikarṇa](vikarṇaṃ) [rudra-sāman](rudrasāmakam)
 
 ## mukta-m0-p99-v2454
-[blue-rudra](nīlarudraṃ) [great-rudra](mahārudraṃ) [atharva-śiras](atharvaśirasaṃ) [thus](tathā)
+[nīla-rudra](nīlarudraṃ) [mahā-rudra](mahārudraṃ) [atharva-śiras](atharvaśirasaṃ) [likewise](tathā)
 
 ## mukta-m0-p99-v2455
-[ājya](ājyena) [homa-rite](homavidhinā) [own-own-branch](svasvaśākhāparairdvijaiḥ)
+[with-ghee](ājyena) [oblation-method](homavidhinā) [by-own+branch+devoted+twice-born](svasvaśākhāparairdvijaiḥ)
 
 ## mukta-m0-p99-v2456
-[sāvitrī](sāvitryā) [vyāhṛti](vyāhṛtibhiḥ) [each](pratyekaṃ) [hundred](śataṃ) [homayet](homayet)
+[with-sāvitrī](sāvitryā) [with-vyāhṛtis](vyāhṛtibhiḥ) [each](pratyekaṃ) [hundred](śataṃ) [one-should-offer](homayet)
 
 ## mukta-m0-p99-v2457
-[sky-pervading](vyomavyāpiñcāṣṭa) [eight-form](mūrtimaṣṭavidyeśvaraiḥ) [with](saha)
+[vyomavyāpin](vyomavyāpiñca) [eight](aṣṭa) [forms](mūrtim) [with-eight+vidyeśvaras](aṣṭavidyeśvaraiḥ) [with](saha)
 
 ## mukta-m0-p99-v2458
-[gandharva](gandharvāpsarasaḥ) [apsaras](apsarasaḥ) [siddha](siddhān) [nāga](nāgān) [kiṃ-puruṣa](kiṃpuruṣānapi)
+[gandharvas+apsarases](gandharvāpsarasaḥ) [siddhas](siddhān) [nāgas](nāgān) [kimpuruṣas](kiṃ) (puruṣānapi)
 
 ## mukta-m0-p99-v2459
-[vidyādhara](vidyādharān) [yātudhāna](yātudhānān) [fifty-five-half](śatapañcāśadardhakān)
+[vidyādharas](vidyādharān) [yātudhānas](yātudhānān) [hundred+fifty+half](śatapañcāśadardhakān)
 
 ## mukta-m0-p99-v2460
-[eight](aṣṭa) [seven](sapta) [and](ca) [six-five](ṣaṭpañca) [four-three](catvārastraya) [thus](eva) [ca](ca)
+[eight](aṣṭa) [seven](sapta) [and](ca) [six+five](ṣaṭpañca) [four](catvāras) [three](traya) [indeed](eva) [and](ca)
 
 ## mukta-m0-p99-v2461
-[thus](evaṃ) [having-offered](hutvā) [rite](vidhānena) [pūrṇāhuti](pūrṇāhutimathācaret)
+[thus](evaṃ) [having-offered](hutvā) [according-to-rule](vidhānena) [final-offering](pūrṇāhutim) [then](atha) [one-should-perform](ācaret)
 
 ## mukta-m0-p99-v2462
-[ghee](ghṛtaṃ) [having-offered](hutvā) [touch](spṛśenmūrdhni) [lāja](lājaṃ) [having-offered](hutvā) [tu](tu) [ca](ca) [indriya](cendriyam)
+[ghee](ghṛtaṃ) [having-offered](hutvā) [one-should-touch+on-head](spṛśenmūrdhni) [parched-rice](lājaṃ) [having-offered](hutvā) [but](tu) [sense-organ](cendriyam)
 
 ## mukta-m0-p99-v2463
-[sesame](tilān) [having-offered](hutvā) [heaven](divi) [praśya](praśyaśāliṃ) [rice](śāliṃ) [having-offered](hutvā) [belly](udaraṃ) [touch](spṛśet)
+[sesame-seeds](tilān) [having-offered](hutvā) [in-sky](divi) [fame](praśya) [rice](śāliṃ) [having-offered](hutvā) [belly](udaraṃ) [one-should-touch](spṛśet)
 
 ## mukta-m0-p99-v2464
-[barley](yavaṃ) [having-offered](hutvorusaṃgṛhya) [thigh](ūru) [having-grasped](saṃgṛhya) [once](sakṛcchreṇa) [tu](tu) [six-faced](ṣaṇmukha)
+[barley](yavaṃ) [having-offered](hutvā) [thigh+having-grasped](urusaṃgṛhya) [with-kṛcchra-rite](sakṛcchreṇa) [but](tu) [o-six-faced](ṣaṇmukha)
 
 ## mukta-m0-p99-v2465
-[seed-mouth](bījamukhena) [joined](saṃyuktaṃ) [touch](spṛśetprasṛtamudrayā) [prasarita-mudrā](prasṛtamudrayā)
+[with-seed+mantra](bījamukhena) [joined](saṃyuktaṃ) [one-should-touch](spṛśet) [with-prasṛta+gesture](prasṛtamudrayā)
 
 ## mukta-m0-p99-v2466
-[amulet](pratisaraṃ) [bind](bandhayettatra) [there](tatra) [lotus-thread](padmasūtreṇa) [chief](mukhyayā)
+[protective-thread](pratisaraṃ) [one-should-bind](bandhayet) [there](tatra) [with-lotus+thread](padmasūtreṇa) [with-best](mukhyayā)
 
 ## mukta-m0-p99-v2467
-[brāhmaṇa](viprānekādaśān) [eleven](ekādaśān) [having-fed](bhojya) [that-time](tatkāle) [rice-pudding](pāyasaṃ) [guha](guha)
+[brahmins+eleven](viprānekādaśān) [having-fed](bhojya) [at-that-time](tatkāle) [rice-pudding](pāyasaṃ) [o-guha](guha)
 
 ## mukta-m0-p99-v2468
-[direction-offering](diśābaliṃ) [give](dāpayeddhi)
+[directional-offering](diśābaliṃ) [one-should-cause-to-give](dāpayeddhi) [*](*) [*](*) [*](*) [*](*) [*](*) [*](*) [*](*) [*](*)
 
 ## mukta-m0-p99-v2469
-[night](rātrau) [homa](homaṃ) [should-be-done](prakartavyaṃ) [dawn](prabhāte) [installation](sthāpanaṃ) [becomes](bhavet)
+[at-night](rātrau) [oblation](homaṃ) [to-be-performed](prakartavyaṃ) [at-dawn](prabhāte) [installation](sthāpanaṃ) [should-be](bhavet)
 
 ## mukta-m0-p99-v2470
-[thus](iti) [kālottara](kālottare) [adhi-vāsana-chapter](adhivāsanapaṭalo'ṣṭācatvāriṃśat)
+[thus](iti) [in-kālottara](kālottare) [consecration-chapter](adhivāsanapaṭalo) [forty-eighth]('ṣṭācatvāriṃśat)
 
 ## mukta-m0-p99-v2471
-[garbha-house](garbhagehaṃ) [having-made](sūtrayitvā) [eight-directions](aṣṭadikṣu) [as](yathā) [rite](vidhi)
+[sanctum](garbhagehaṃ) [having-measured-with-cords](sūtrayitvā) [in-eight+directions](aṣṭadikṣu) [as](yathā) [rule](vidhi)
 
 ## mukta-m0-p99-v2472
-[garbha-house](garbhagehasya) [east](pūrve) [tu](tu) [door](dvāraṃ) [properly](samyakprakalpayet)
+[of-sanctum](garbhagehasya) [in-east](pūrve) [but](tu) [door](dvāraṃ) [properly](samyak) [one-should-arrange](prakalpayet)
 
 ## mukta-m0-p99-v2473
-[one](ekaṃ) [middle](madhye) [tu](tu) [that](taṃ) [having-made](kṛtvā) [three-part](tribhāgaṃ) [flower-garden](kusumākaram)
+[one](ekaṃ) [in-middle](madhye) [but](tu) [that](taṃ) [having-made](kṛtvā) [three-part](tribhāgaṃ) [flower-receptacle](kusumākaram)
 
 ## mukta-m0-p99-v2474
-[kalhāra-leaf-like](kalhārapatravatkuryāt) [haṃsinī](haṃsinī) [flower-like](puṣpavadbhavet)
+[like-water-lily+petal](kalhārapatravat) [one-should-make](kuryāt) [like-haṃsinī+flower](haṃsinī) (puṣpavadbhavet)
 
 ## mukta-m0-p99-v2475
-[upāna](upānaṃ) [jagatī](jagatīṃ) [make](kuryānmekhalātrayameva) [three-girdle](mekhalātrayameva) [ca](ca)
+[base](upānaṃ) [platform](jagatīṃ) [one-should-make](kuryān) [moulding+triad](mekhalātrayam) [indeed](eva) [and](ca)
