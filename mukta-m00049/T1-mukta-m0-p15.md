@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p15-v351
-[may-brahma-offering-be](brahmārpaṇamastu) [statement](vākyaṃ) [of-drinking-eating-actions](pānabhojanakarmaṇoḥ)
+[brahma+arpaṇam](brahmārpaṇam) [be](astu) [utterance](vākyaṃ) [drinking+eating+actions](pānabhojanakarmaṇoḥ)
 
 ## mukta-m0-p15-v352
-[that-same](tadeva) [should-be-done](kāryaṃ) [by-brahma-knowers](brahmajñairidaṃ) [this-eternal-duty](dharmaṃ) [sanātanam](sanātanam)
+[that](tat) [indeed](eva) [to-be-done](kāryaṃ) [by-brahman-knowers](brahmajñaiḥ) [this](idam) [dharma](dharmaṃ) [eternal](sanātanam)
 
 ## mukta-m0-p15-v353
-[thus](eva) [rule](vidhiḥ) [of-this-brahma-devoted-one](asya) [brahmaniṣṭhasya](brahmaniṣṭhasya)
+[thus](eva) [rule](vidhiḥ) [of-this](asya) [brahman+steadfast-one](brahmaniṣṭhasya)
 
 ## mukta-m0-p15-v354
-[of-parents](mātāpitroḥ)
+[of-mother+father](mātāpitroḥ)
 
 ## mukta-m0-p15-v355
-[which](yāṃ) [having-done](kṛtvā) [brahma-prosperity](brahmasampattiṃ) [obtain](labhante) [on-earth](bhuvi) [humans](mānavāḥ)
+[which](yāṃ) [having-done](kṛtvā) [brahman+attainment](brahmasampattiṃ) [obtain](labhante) [on-earth](bhuvi) [humans](mānavāḥ)
 
 ## mukta-m0-p15-v356
-[as-before](pūrvavat) [supreme-brahma](paramabrahma) [having-meditated](dhyātvā) [best-practitioner](sādhakasattamaḥ)
+[as-before](pūrvavat) [supreme+brahman](paramabrahma) [having-meditated](dhyātvā) [practitioner+best](sādhakasattamaḥ)
 
 ## mukta-m0-p15-v357
-[japa](japaṃ) [having-offered](samarpya) [according-to-rule](vidhivat) [as-before](pūrvavat) [would-bow](praṇamet) [wise-one](sudhīḥ)
+[recitation](japaṃ) [having-offered](samarpya) [according-to-rule](vidhivat) [as-before](pūrvavat) [should-bow](praṇamet) [wise-one](sudhīḥ)
 
 ## mukta-m0-p15-v358
-[by-whose-performance](yadanuṣṭhānato) [mantra-practitioner](mantrī) [pure-inner-organ](śuddhāntaḥkaraṇo) [becomes](bhavet)
+[by-whose+performance](yadanuṣṭhānato) [mantrin](mantrī) [pure+inner-organ](śuddhāntaḥkaraṇo) [may-become](bhavet)
 
 ## mukta-m0-p15-v359
-[supreme-lord](parameśvaraṃ) [ending-in-ṅe](ṅe'ntamuktvā) [we-know](vidmahe) [thereafter](tadanantaram)
+[supreme+lord](parameśvaraṃ) [ṅe+ending](ṅe'ntam) [having-said](uktvā) [vidmahe](vidmahe) [after-that](tadanantaram)
 
 ## mukta-m0-p15-v360
-[this](iyaṃ) [śrī-brahma-gāyatrī](śrībrahmagāyatrī) [giver-of-four-aims](caturvargapradāyinī)
+[this](iyaṃ) [śrī+brahma+gāyatrī](śrībrahmagāyatrī) [four+aims+bestowing](caturvargapradāyinī)
 
 ## mukta-m0-p15-v361
-[whatever](yadyatkarma) [action](prakurvīta) [by-brahma-mantra](brahmamantreṇa) [accomplish](sādhayet)
+[whatever](yadyat) [action](karma) [one-may-perform](prakurvīta) [with-brahma+mantra](brahmamantreṇa) [one-should-accomplish](sādhayet)
 
 ## mukta-m0-p15-v362
-[as-before](pūrvavat) [would-bow](praṇamed) [brahma](brahma) [morning-rite](prātaḥkṛtyamidaṃ) [remembered](smṛtam)
+[as-before](pūrvavat) [should-bow](praṇamed) [to-brahman](brahma) [morning+duty](prātaḥkṛtyam) [this](idam) [remembered](smṛtam)
 
 ## mukta-m0-p15-v363
-[that-tenth-part](taddaśāṃśena) [oblation](havanaṃ) [libation](tarpaṇaṃ) [that-tenth-part](taddaśāṃśataḥ)
+[of-that+tenth-part](taddaśāṃśena) [oblation](havanaṃ) [libation](tarpaṇaṃ) [of-that+tenth-part](taddaśāṃśataḥ)
 
 ## mukta-m0-p15-v364
-[brahmins](brāhmaṇān) [would-feed](bhojayenmantrī) [in-preliminary-rite](puraścaraṇakarmaṇi)
+[brahmins](brāhmaṇān) [should-feed](bhojayet) [mantrin](mantrī) [in-preliminary-rite+action](puraścaraṇakarmaṇi)
 
 ## mukta-m0-p15-v365
-[no-time-purity-rule](na) [kālaśuddhiniyamo](kālaśuddhiniyamo) [no-place-determination](na) [vā](vā) [sthānanirūpaṇam](sthānanirūpaṇam)
+[not](na) [time+purity+rule](kālaśuddhiniyamo) [not](na) [or](vā) [place+determination](sthānanirūpaṇam)
 
 ## mukta-m0-p15-v366
-[brahma-etc-mantra](brahmetyādimantram)
+[brahma+etc.+mantra](brahmetyādimantram)
 
 ## mukta-m0-p15-v367
-[accomplish](sādhayet) [supreme-mantra](paramaṃ) [mantraṃ](mantraṃ) [by-own-will-conduct](svecchācāreṇa) [practitioner](sādhakaḥ)
+[one-should-accomplish](sādhayet) [supreme](paramaṃ) [mantra](mantraṃ) [by-own-will+conduct](svecchācāreṇa) [practitioner](sādhakaḥ)
 
 ## mukta-m0-p15-v368
-[without-nyāsa](vinā) [nyāsaṃ](nyāsaṃ) [without-mudrā](vinā) [mudrāṃ](mudrāṃ) [without-setu](vinā) [setuṃ](setuṃ) [O-fair-faced-one](varānane)
+[without](vinā) [nyāsa](nyāsaṃ) [without](vinā) [mudrā](mudrāṃ) [without](vinā) [setu](setuṃ) [o-fair-faced-one](varānane)
 
 ## mukta-m0-p15-v369
-[suddenly](akasmāt) [supreme-brahma-direct-perception](paramabrahmasākṣātkāro) [would-happen](bhaved) [certainly](dhruvam)
+[suddenly](akasmāt) [supreme+brahman+realization](paramabrahmasākṣātkāro) [may-be](bhaved) [certainly](dhruvam)
 
 ## mukta-m0-p15-v370
-[in-practice](sādhane) [of-brahma-mantra](brahmamantrasya) [purity-of-feeling](bhāvaśuddhirvidhīyate)
+[in-practice](sādhane) [of-brahma+mantra](brahmamantrasya) [disposition+purity](bhāvaśuddhiḥ) [is-prescribed](vidhīyate)
 
 ## mukta-m0-p15-v371
-[of-great-mantra](mahāmanoḥ) [in-practice](sādhane) [tu](tu) [defect](vyaṅgaṃ) [becomes-complete](sāṅgāyate) [certainly](dhruvam)
+[of-great+mantra](mahāmanoḥ) [in-practice](sādhane) [but](tu) [deficiency](vyaṅgaṃ) [with-limbs](sāṅgāyate) [certainly](dhruvam)
 
 ## mukta-m0-p15-v372
-[liberating-seed](nistārabījametāvat) [brahma-mantra-practice](brahmamantrasya) [sādhanam](sādhanam)
+[deliverance+seed](nistārabījam) [this-much](etāvat) [of-brahma+mantra](brahmamantrasya) [practice](sādhanam)
 
 ## mukta-m0-p15-v373
-[in-kali](kalau) [of-weak-living-beings](durbalajīvānāmasādhyāni) [O-great-goddess](maheśvari)
+[in-kali-age](kalau) [of-weak+beings](durbalajīvānām) [unaccomplishable](asādhyāni) [o-great-goddess](maheśvari)
 
 ## mukta-m0-p15-v374
-[no-harm](pratyavāyo) [na](na) [bhavet](bhavet) [defective](vyaṅgam) [even-without-limb](aṅgahīnamapi)
+[transgression](pratyavāyo) [not](na) [may-be](bhavet) [deficiency](vyaṅgam) [limb+devoid](aṅgahīnam) [even](api)
 
 ## mukta-m0-p15-v375
-[although](yadyapi) [nevertheless](tathāpītyadhyāhāryam)
+[even-if](yadyapi) [nevertheless](tathāpi) [thus](iti) [to-be-supplied](adhyāhāryam)
