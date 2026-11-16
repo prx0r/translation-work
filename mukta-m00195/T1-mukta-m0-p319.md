@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p319-v7951
-[pearl](muktā)+[coral](pravāla)+[garland](mālā)+[adorned-with](āḍhyā) [conch](śaṅkha)+[earring](kuṇḍala)+[wearing](dhāriṇīm)
+[pearl+coral+garland+adorned](muktāpravālamālāḍhyā) [conch+earring+wearing](śaṅkhakuṇḍaladhāriṇīm)
 
 ## mukta-m0-p319-v7952
-[five](pañca)+[arrows](bāṇān)+[and](tathā)+[limbs](aṅgāni) [Brāhmī](brāhmyā)+[and-others](ādyāḥ)+[and](ca)+[eight](aṣṭa)+[petal](patrake)
+[five+arrows](pañcabāṇān) [and+limbs](tathāṅgāni) [brāhmī+and-others](brāhmyādyāḥ) [and](ca) [in-eight-petals](aṣṭapatrake)
 
 ## mukta-m0-p319-v7953
-[world-guardians](lokapālāḥ)+[their](tat)+[weapons](astrāṇi) [then](tataḥ) [outside](bahiḥ)
+[world+guardians](lokapālāḥ) [their+weapons](tadastrāṇi) [then](tataḥ) [outside](bahiḥ)
 
 ## mukta-m0-p319-v7954
-[before](pūrvaṃ) [or](vā) [should-repeat](japet)+[mantras](mantrau)+[these-two](etayoḥ)+[Madana](madanaḥ) [sage](muniḥ)
+[previously](pūrvaṃ) [or](vā) [one-should-recite](japen) [the-two-mantras](mantrā) [of-these-two](etayoḥ) [madana](madano) [sage](muniḥ)
 
 ## mukta-m0-p319-v7955
-[worship](pūjā)+[repetition](japa)+[and-so-forth](ādikaṃ) [as-before](prāgvat)+[differences](bhedān)+[and](ca)+[of-her](asya)+[others](aparān)+[hear](chṛṇu)
+[worship+recitation+and-so-forth](pūjājapādikaṃ) [as-before](prāgvad) [differences](bhedān) [and](ca) [of-her](asyā) [others](aparān) [and](ca) [hear](śṛṇu)
 
 ## mukta-m0-p319-v7956
-[eloquence](vāgmitvaṃ) [and](ca) [poetry](kavitvaṃ) [and](ca) [singing](gāna)+[power](śaktiṃ) [causes](karoti) [and](ca)
+[eloquence](vāgmitvaṃ) [and](ca) [poetic-skill](kavitvaṃ) [and](ca) [singing+power](gānaśaktiṃ) [it-causes](karoti) [and](ca)
 
 ## mukta-m0-p319-v7957
-[āṃ-hrīṃ-kroṃ](āṃhrīṃkroṃbhiḥ)+[with-twice](dviḥ)+[repetition](āvṛttyā) [six](ṣaḍ)+[limbs](aṅgāni) [one-should-perform](samācaret)
+[with-āṃ+hrīṃ+kroṃ](āṃhrīṃkroṃbhir) [by-double+repetition](dvirāvṛttyā) [six+limbs](ṣaḍaṅgāni) [one-should-perform](samācaret)
 
 ## mukta-m0-p319-v7958
-[blue](nīla)+[crested](cūḍāṃ) [and](ca) [playing](vādayantīṃ) [and](ca) [lute](vallakīm)
+[blue+crested](nīlacūḍāṃ) [and](ca) [playing](vādayantīṃ) [and](ca) [lute](vallakīm)
 
 ## mukta-m0-p319-v7959
-[triangle](trikoṇaṃ) [five](pañca)+[cornered-figure](koṇañ)+[and](ca) [outside](bahiḥ)+[eight](aṣṭa)+[petal](dala)+[pair](dvayam)
+[triangle](trikoṇaṃ) [pentagon](pañcakoṇaṃ) [and](ca) [outside](bahir) [eight+petal+pair](aṣṭadaladvayam)
 
 ## mukta-m0-p319-v7960
-[then](tathā) [name](nāma) [should-say](vadet)+[Ucchiṣṭa](ucchiṣṭa)+[Pādukā](pādukām)
+[then](tathā) [name](nāma) [one-should-say](vaded) [ucchiṣṭa+pādukā](ucchiṣṭapādukām)
 
 ## mukta-m0-p319-v7961
-[Rati](ratyā)+[and-others](ādyāḥ) [corner](koṇa)+[end](ante) [indeed](tu) [three](tri)+[powers](śaktayaḥ)
+[rati+and-others](ratyādyāḥ) [at-corner+end](koṇānte) [indeed](tu) [three+śaktis](triśaktayaḥ)
 
 ## mukta-m0-p319-v7962
-[Drāviṇī](drāviṇyā)+[and-others](ādyāḥ) [five](pañca)+[cornered-figure](koṇe) [to-be-worshipped](sampūjyāḥ) [desire](kāma)+[powers](śaktayaḥ)
+[drāviṇī+and-others](drāviṇyādyāḥ) [in-pentagon](pañcakoṇe) [to-be-worshipped](sampūjyāḥ) [kāma+śaktis](kāmaśaktayaḥ)
 
 ## mukta-m0-p319-v7963
-[Brāhmī](brāhmyā)+[and-others](ādyāḥ) [maiden](kanyakā)+[named](nāmnyo) [in-second](dvitīye)+[eight](aṣṭa)+[petal](dale) [likewise](tathā)
+[brāhmī+and-others](brāhmyādyāḥ) [maiden+named](kanyakānāmnyo) [in-second](dvitīye) [eight+petal](aṣṭadale) [likewise](tathā)
 
 ## mukta-m0-p319-v7964
-[sixteen](ṣoḍaśa)+[spoked-circle](are) [maiden](kanyakā)+[named](ākhyāḥ) [one-should-worship](prapūjayet)
+[in-sixteen+spokes](ṣoḍaśāre) [maiden+called](kanyakākhyāḥ) [one-should-worship](prapūjayet)
 
 ## mukta-m0-p319-v7965
-[Sukeśī](sukeśī) [Mañjughoṣā](mañjughoṣā) [Nāga](nāga)+[maiden](kanyakā)
+[sukeśī](sukeśī) [mañjughoṣā](mañjughoṣā) [nāga+maiden](nāgakanyakā)
 
 ## mukta-m0-p319-v7966
-[into-another's-body](para+kāya)+[entering](praveśinyāḥ) [maiden](kanyakāṃ) [far](dūra)+[seeing](darśanām)
+[of-other+body+entering](parakāyapraveśinyāḥ) [maiden](kanyakāṃ) [far+seeing](dūradarśanām)
 
 ## mukta-m0-p319-v7967
-[at-the-doors](dvāreṣu) [one-should-worship](pūjayet)+[door](dvāra)+[deities](devatāḥ)
+[in-doorways](dvāreṣu) [one-should-worship](pūjayet) [door+deities](dvāradevatāḥ)
 
 ## mukta-m0-p319-v7968
-[Gaṇeśa](gaṇeśaṃ) [and](ca) [Kṣetrapāla](kṣetrapālaṃ) [and](ca) [Yoginī](yoginīm)
+[gaṇeśa](gaṇeśaṃ) [and](ca) [kṣetrapāla](kṣetrapālaṃ) [and](ca) [yoginī](yoginīm)
 
 ## mukta-m0-p319-v7969
-[own](sva)+[name](nāma)+[first](ādi)+[syllable](akṣaraṃ) [seed-syllable](bījaṃ) [having-made](kṛtvā)+[in-southeast](āgneya)+[and-so-forth](ādike) [one-should-worship](yajet)
+[own+name+first+syllable](svanāmādyakṣaraṃ) [seed](bījaṃ) [having-made](kṛtvā) [in-southeast+and-so-forth](āgneyādike) [one-should-worship](yajet)
 
 ## mukta-m0-p319-v7970
-[all](sarve) [with-Śruti](śruti)+[joined](yutā) [left](vāma)+[side](bhāge) [then](tataḥ) [after](param)
+[all](sarve) [with-vowel+joined](śrutiyutā) [on-left+side](vāmabhāge) [then](tataḥ) [after](param)
 
 ## mukta-m0-p319-v7971
-[one-should-worship](abhyarcet)+[of-the-supreme-goddess](parameśvaryāḥ) [on-two-sides](pārśvayoḥ) [parrot](śuka)+[myna](sārike)
+[one-should-worship](abhyarcet) [of-supreme+goddess](parameśvaryāḥ) [on-two-sides](pāśvaryoḥ) [parrot+and-myna](śukasārike)
 
 ## mukta-m0-p319-v7972
-[of-Bālā](bālāyāḥ) [of-the-practitioner](sādhakasya) [auspicious](śubhaṃ) [may-be](bhavet)
+[of-bālā](bālāyāḥ) [of-practitioner](sādhakasya) [auspiciousness](śubhaṃ) [may-be](bhavet)
 
 ## mukta-m0-p319-v7973
-[of-the-mantra](manoḥ)+[Ucchiṣṭa-Mātaṅgī](ucchiṣṭamātaṅgyā) [having-given](dattvā)+[at-first](ādau) [one-should-worship](pūjayet)+[mantra](manum)
+[of-mantra](manor) [of-ucchiṣṭa+mātaṅgī](ucchiṣṭamātaṅgyā) [having-given](dattvā) [at-beginning](ādau) [one-should-worship](pūjayen) [mantra](manum)
 
 ## mukta-m0-p319-v7974
-[because-of-heaviness](gauravāt)+[or-because-of-lightness](lāghavāt)+[or](vā)+[indeed](api) [to-be-done](kartavyam)+[indeed](tu) [as-appropriate](yathocitam)
+[from-importance](gauravāl) [from-ease](lāghavād) [or](vā) [also](api) [to-be-done](kartavyan) [indeed](tu) [as+appropriate](yathocitam)
 
 ## mukta-m0-p319-v7975
-[by-Ucchiṣṭa](ucchiṣṭa)+[devotee](bhaktena) [offering](baliṃ) [at-night](niśi) [daily](nityaṃ) [one-should-offer](nivedayet)
+[by-ucchiṣṭa+devotee](ucchiṣṭabhaktena) [offering](baliṃ) [at-night](niśi) [daily](nityaṃ) [one-should-offer](nivedayet)
