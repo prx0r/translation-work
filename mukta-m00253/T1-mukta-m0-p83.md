@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p83-v2051
-[temple](prāsādaṃ) [lost](naṣṭam) [thus](evaṃ) [be](syāt) [temple](prāsādaṃ) [and](ca) [also](eva) [make-let](kārayet)
+[temple](prāsādaṃ) [destroyed](naṣṭam) [thus](evaṃ) [may-be](syāt) [temple](prāsādaṃ) [and](ca) [indeed](eva) [one-should-cause-to-make](kārayet)
 
 ## mukta-m0-p83-v2052
-[former-place](pūrva+sthāna) [gone](gataṃ) [liṅga](liṃgaṃ) [other-place](anya+sthāna) [gone](gataṃ) [be](bhavet)
+[previous+place+gone](pūrvasthānagataṃ) [liṅga](liṃgaṃ) [other+place+gone](anyasthānagataṃ) [may-become](bhavet)
 
 ## mukta-m0-p83-v2053
-[former-region](pūrva+deśe) [movable](calaṃ) [liṅga](liṃgaṃ) [somewhat](kiṃcit) [eva](eva) [then](tu) [established](saṃsthitam)
+[previous+place](pūrvadeśe) [moved](calaṃ) [liṅga](liṃgaṃ) [somewhat](kiṃcid) [indeed](eva) [indeed](tu) [situated](saṃsthitam)
 
 ## mukta-m0-p83-v2054
-[liṅga](liṃgaṃ) [or](vā) [pedestal](pīṭham) [thus](evaṃ) [vā](vā) [cracked](sphuṭite) [burnt](dagdham) [eva](eva) [vā](vā)
+[liṅga](liṃgaṃ) [or](vā) [pedestal](pīṭham) [thus](evaṃ) [or](vā) [when-cracked](sphuṭite) [or](vā) [burnt](dagdham) [indeed](eva)
 
 ## mukta-m0-p83-v2055
-[removing](vyapohya) [eva](eva) [then](tu) [that-liṅga](tad+liṃgaṃ) [establish](sthāpayet) [new-liṅga](nava+liṃgakam)
+[having-removed](vyapohya) [indeed](eva) [indeed](tu) [that+liṅga](talliṃgaṃ) [one-should-install](sthāpayet) [new+liṅga](navaliṃgakam)
 
 ## mukta-m0-p83-v2056
-[that-liṅga](tad+liṃgaṃ) [establish](sthāpayet) [other](anyat) [deśa-lakṣaṇa](deśi+lakṣaṇa) [endowed](saṃyutam)
+[that+liṅga](talliṃgaṃ) [one-should-install](sthāpayet) [another](anyat) [preceptor+characteristics](deśilakṣaṇa) [endowed-with](saṃyutam)
 
 ## mukta-m0-p83-v2057
-[water-sprinkling](jala+saṃprokṣaṇaṃ) [do](kuryāt) [lakṣaṇa](lakṣaṇa) [with](nena) [endowed](samanvitam)
+[water+sprinkling](jalasaṃprokṣaṇaṃ) [one-should-perform](kuryāt) [with-this+characteristic](lakṣaṇanena) [endowed-with](samanvitam)
 
 ## mukta-m0-p83-v2058
-[gula](gulaṃ) [directly](sākṣāt) [honey-residue](madhu+ucchiṣṭaṃ) [with-sajja-rasa](sajja+rasa+manvitam)
+[molasses](gulaṃ) [directly](sākṣāt) [beeswax](madhūcchiṣṭaṃ) [with-resin](sajjarasamanvitam)
 
 ## mukta-m0-p83-v2059
-[water-sprinkling](jala+saṃprokṣaṇaṃ) [do](kuryāt) [near](samīpe) [bathing](snapanaṃ) [be](bhavet)
+[water+sprinkling](jalasaṃprokṣaṇaṃ) [one-should-perform](kuryāt) [nearby](samīpe) [bathing](snapanaṃ) [should-be](bhavet)
 
 ## mukta-m0-p83-v2060
-[peace-homa](śānti+homaṃ) [then](tu) [make-let](kārayet)
+[lacuna](*) [lacuna](*) [lacuna](*) [lacuna](*) [lacuna](*) [lacuna](*) [lacuna](*) [lacuna](*) [pacification+fire-ritual](śāntihomaṃ) [indeed](tu) [one-should-cause-to-perform](kārayet)
 
 ## mukta-m0-p83-v2061
-[image](pratimā) [limb-deficient](aṃga+hīnaṃ) [tu](tu) [by-artisan](śilpinā) [make-let](kārayet) [then](tataḥ)
+[of-image](pratimasyā) [limb+deficient](aṃgahīnaṃ) [indeed](tu) [by-artisan](śilpinā) [one-should-cause-to-make](kārayet) [then](tataḥ)
 
 ## mukta-m0-p83-v2062
-[image](pratimāṃ) [ca](ca) [eva](eva) [deveśa](deveśaṃ) [around](parito) [with-universe](viśva+raiḥ+yutam)
+[image](pratimāṃ) [and](ca) [indeed](eva) [lord-of-gods](deveśaṃ) [all-around](parito) [with-all-gods](viśvaraiḥ) [endowed-with](yutam)
 
 ## mukta-m0-p83-v2063
-[having-offered](hutvā) [consecration-path](pratiṣṭhā+mārgeṇa) [establish](sthāpayet) [likewise](tadvat) [eva](eva) [ca](ca)
+[having-offered](hutvā) [by-consecration+method](pratiṣṭhāmārgeṇa) [one-should-install](sthāpayet) [in-that-manner](tadvat) [indeed](eva) [and](ca)
 
 ## mukta-m0-p83-v2064
-[connect](yojayet) [image](pratimāṃ) [brāhmaṇa-bathing](vipra+snapanaṃ) [there](tatra) [make-let](kārayet)
+[one-should-join](yojayet) [image](pratimāṃ) [O-priest](vipra) [bathing](snapanaṃ) [there](tatra) [one-should-perform](kārayet)
 
 ## mukta-m0-p83-v2065
-[broken](bhinne) [ca](ca) [cracked](sphuṭite) [ca](ca) [eva](eva) [by-negligence](pramādāt) [cutting](chedane) [api](api) [ca](ca)
+[when-broken](bhinne) [and](ca) [when-cracked](sphuṭite) [and](ca) [indeed](eva) [through-negligence](pramādāt) [even-in-cutting](chedane) [even](api) [and](ca)
 
 ## mukta-m0-p83-v2066
-[water-sprinkling](jala+saṃprokṣaṇaṃ) [having-done](kṛtvā) [peace-homa](śānti+homaṃ) [tu](tu) [make-let](kārayet)
+[water+sprinkling](jalasaṃprokṣaṇaṃ) [having-performed](kṛtvā) [pacification+fire-ritual](śāntihomaṃ) [indeed](tu) [one-should-cause-to-perform](kārayet)
 
 ## mukta-m0-p83-v2067
-[with-sadyogandha-etc](sadyo+gandha+ādinā) [having-worshipped](pūjya) [śiva](śivam) [eight-hundred](aṣṭa+śataṃ) [japet](japet)
+[with-fresh-fragrance+etc.](sadyogandhādinā) [having-worshipped](āpūjya) [Śiva](śivam) [eight+hundred](aṣṭaśataṃ) [one-should-recite](japet)
 
 ## mukta-m0-p83-v2068
-[as-before](pūrvavat) [parimanyā](parimanyā) [vā](vā) [sprinkling-etc](saṃprokṣaṇa+ādi) [do](kārayet)
+[as-before](pūrvavat) [having-consecrated](parimanyā) [or](vā) [sprinkling+etc.](saṃprokṣaṇādi) [one-should-perform](kārayet)
 
 ## mukta-m0-p83-v2069
-[fever-etc-affliction](jvara+ādi+pīḍanaṃ) [do](kuryāt) [pacification](upaśāntiṃ) [make](karoti) [ca](ca)
+[fever+etc.+affliction](jvarādipīḍanaṃ) [it-may-cause](kuryāt) [appeasement](upaśāntiṃ) [it-effects](karoti) [and](ca)
 
 ## mukta-m0-p83-v2070
-[four-directions](catuḥ+dikṣu) [four-vedas](catur+vedaiḥ) [do](kuryāt) [study](adhyayanaṃ) [then](tataḥ)
+[in-four+directions](catudikṣu) [with-four+Vedas](caturvedaiḥ) [one-should-perform](kuryāt) [recitation](adhyayanaṃ) [then](tataḥ)
 
 ## mukta-m0-p83-v2071
-[samid-ājya-caru](samid+ājya+caruṃ) [lājā](lājā) [saktu](saktuṃ) [ca](ca) [eva](eva) [tu](tu) [offered](hūyate)
+[fuel-stick+clarified-butter+cooked-rice](samidājyacaruṃ) [parched-rice](lājā) [groats](saktuṃ) [and](ca) [indeed](eva) [indeed](tu) [is-offered](hūyate)
 
 ## mukta-m0-p83-v2072
-[eight-plus-hundred](aṣṭottara+śataṃ) [ca](ca) [evaṃ](evaṃ) [offer](homayet) [best-teacher](deśika+uttamaḥ)
+[eight+over+hundred](aṣṭottaraśataṃ) [and](ca) [thus](evaṃ) [should-offer](homayet) [preceptor+best](deśikottamaḥ)
 
 ## mukta-m0-p83-v2073
-[thus](evam) [eva](eva) [in-order](krameṇa) [eva](eva) [seven-days](saptāhaṃ) [do](kārayet) [brāhmaṇa](dvijaḥ)
+[thus](evam) [indeed](eva) [in-order](krameṇa) [indeed](eva) [seven+days](saptāhaṃ) [one-should-cause-to-perform](kārayet) [twice-born](dvijaḥ)
 
 ## mukta-m0-p83-v2074
-[śaiva](śaivān) [ca](ca) [feed](bhojayet) [there](tatra) [with-savyaṣṭi-attendants](savyaṣṭi+paricārakān)
+[Śaivas](śaivān) [and](ca) [one-should-feed](bhojayet) [there](tatra) [with-attendants+servants](savyaṣṭiparicārakān)
 
 ## mukta-m0-p83-v2075
-[day-end](dinānte) [ca](ca) [eva](eva) [brāhmaṇa-lord](viprendra) [night](rātrau) [village-offering](grāma+baliṃ) [give](dadet)
+[at-day+end](dinānte) [and](ca) [indeed](eva) [O-best-of-priests](viprendra) [at-night](rātrau) [village+offering](grāmabaliṃ) [one-should-give](dadet)

@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p07-v151
-[paśuḥ](paśurātmā) [svatantraḥ](svatantraśca) [cit-mātraḥ](cinmātro) [mala-dūṣitaḥ](maladūṣitaḥ)
+[pasu+self](paśurātmā) [self+dependent+and](svatantraśca) [consciousness+only](cinmātro) [impurity+defiled](maladūṣitaḥ)
 
 ## mukta-m0-p07-v152
-[ātmanaḥ](ātmano) [vyāpikaḥ](vyāpiko'nantā) [cit-rūpā](cidrūpā) [śavaḥ](śava) [smṛtāḥ](smṛtāḥ)
+[self](ātmano) [pervading+endless](vyāpiko'nantā) [consciousness+form](cidrūpā) [corpse](śava) [remembered](smṛtāḥ)
 
 ## mukta-m0-p07-v153
-[māyā](māyā) [karma-mala-chinnaḥ](karmamalacchinnassakalasso'bhidhīyate) [sakalaḥ](sakalasso'bhidhīyate) [iti](sakalasso'bhidhīyate) [abhidhīyate](sakalasso'bhidhīyate)
+[illusion](māyā) [action+impurity+cut+with+kalā+he+is-called](karmamalacchinnassakalasso'bhidhīyate)
 
 ## mukta-m0-p07-v154
-[mala](mala) [kāma-āvṛtaḥ](kāmāvṛto) [yaḥ](yastu) [tu](yastu) [saḥ](sa) [bhavet](bhavetpralayākalaḥ) [pralaya-ākalaḥ](bhavetpralayākalaḥ)
+[impurity](mala) [desire+covered](kāmāvṛto) [who+indeed](yastu) [he](sa) [becomes+pralaya+akala](bhavetpralayākalaḥ)
 
 ## mukta-m0-p07-v155
-[kalā-tattva-ūrdhva](kalātatvodhva) [bhuvane](bhuvane) [kaivalyam](kaivalyaṃ) [saṃbhavet](saṃbhavetpaśoḥ) [paśoḥ](saṃbhavetpaśoḥ)
+[kalā+tattva+upward](kalātatvodhva) [in-world](bhuvane) [liberation](kaivalyaṃ) [may-happen+of-pasu](saṃbhavetpaśoḥ)
 
 ## mukta-m0-p07-v156
-[upādāna-trayam](upādānatrayaṃ) [etat](etat) [kāraṇam](kāraṇaṃ) [tam](tamudāhṛtam) [udāhṛtam](tamudāhṛtam)
+[material-cause+three](upādānatrayaṃ) [this](etat) [cause](kāraṇaṃ) [that+is-called](tamudāhṛtam)
 
 ## mukta-m0-p07-v157
-[sthūla](sthūla) [sūkṣmā](sūkṣmā) [parā](paretyeva) [iti](paretyeva) [eva](paretyeva) [mahā-māyā](mahāmāyā) [bhavet](bhavettridhā) [tri-dhā](bhavettridhā)
+[gross](sthūla) [subtle](sūkṣmā) [supreme+thus+indeed](paretyeva) [great-illusion](mahāmāyā) [becomes+threefold](bhavettridhā)
 
 ## mukta-m0-p07-v158
-[sūkṣma-kāla-ādi](sūkṣmakālādi) [tattvānām](tattvānāṃ) [avibhāga](avibhāga) [svarūpiṇī](svarūpiṇī)
+[subtle+kalā+beginning](sūkṣmakālādi) [of-tattvas](tattvānāṃ) [non-division+own-form](avibhāga+svarūpiṇī)
 
 ## mukta-m0-p07-v159
-[mantra-yoniḥ](maṃtrayoniḥ) [parā](parā) [māyā](māyā) [nityā](nityā) [kuṇḍalinī](kuṇḍalinī) [tu](tu) [yā](yā)
+[mantra+womb](maṃtrayoniḥ) [supreme](parā) [illusion](māyā) [eternal](nityā) [kuṇḍalinī](kuṇḍalinī) [but](tu) [who](yā)
 
 ## mukta-m0-p07-v160
-[śuddha-adhvani](śuddhedhvani) [śivaḥ](śivaḥ) [kartā](kartā) [proktaḥ](prokto'nanto) [anantaḥ](prokto'nanto) [site](site) [prabhuḥ](prabhuḥ)
+[pure-path](śuddhedhvani) [śiva](śivaḥ) [doer](kartā) [said+endless](prokto'nanto) [lord](prabhuḥ)
 
 ## mukta-m0-p07-v161
-[sadāśivaḥ](sadāśivo) [maheśaḥ](maheśaśca) [ca](maheśaśca) [rudraḥ](rudraśceti) [ca](rudraśceti) [iti](rudraśceti) [tri-dhā](tridhā) [matā](matā)
+[sadāśiva](sadāśivo) [maheśa+and](maheśaśca) [rudra+and+thus](rudraśceti) [threefold](tridhā) [considered](matā)
 
 ## mukta-m0-p07-v162
-[nimittam](nimittamīśvarākhyaṃ) [īśvara-ākhyam](nimittamīśvarākhyaṃ) [yat](yat) [tat](taddṛṣṭaṃ) [dṛṣṭam](taddṛṣṭaṃ) [saha](saha) [kāraṇam](kāraṇam)
+[instrumental-cause+īśvara+named](nimittamīśvarākhyaṃ) [which](yat) [that+seen](taddṛṣṭaṃ) [with](saha) [cause](kāraṇam)
 
 ## mukta-m0-p07-v163
-[tat-kārya-kārikā](tatkāryakārikā) [śaktiḥ](śaktiḥ) [kriyā-ākhyā](kriyākhyā) [sūkṣma-rūpiṇī](sūkṣmarūpiṇī)
+[that+effect+agent](tatkāryakārikā) [power](śaktiḥ) [action+named](kriyākhyā) [subtle+form](sūkṣmarūpiṇī)
 
 ## mukta-m0-p07-v164
-[sūkṣmā](sūkṣmā) [śuddha-adhva-nigarām](śuddhādhvanigarāṃ) [sthūla-miśra-adhva-saṃsthitā](sthūlamiśrādhvasaṃsthitā)
+[subtle](sūkṣmā) [pure-path+within](śuddhādhvanigarāṃ) [gross+mixed+path+situated](sthūlamiśrādhvasaṃsthitā)
 
 ## mukta-m0-p07-v165
-[tatra](tatra) [śabdāḥ](śabdāstriyodvānaḥ) [tri-yodvanāḥ](śabdāstriyodvānaḥ) [trayaḥ](trayaścārtha) [ca](trayaścārtha) [artha](trayaścārtha) [samīritāḥ](samīritāḥ)
+[there](tatra) [sound+path+three](śabdāstriyodvānaḥ) [three+and+object](trayaścārtha) [proclaimed](samīritāḥ)
 
 ## mukta-m0-p07-v166
-[bhuvana-adhvā](bhuvanādhvā) [ca](ca) [tattva-adhvā](tatvādhva) [kalā-adhvā](kalādhvārthataḥ) [arthataḥ](kalādhvārthataḥ) [kramāt](kramāt)
+[world-path+and](bhuvanādhvā) [tattva-path](tatvādhva) [kalā-path+by-meaning](kalādhvārthataḥ) [in-order](kramāt)
 
 ## mukta-m0-p07-v167
-[sthūlāt](sthūlātpañca) [pañca](sthūlātpañca) [bhūtāya](bhūtāya) [adhiṣṭhātrī](adhiṣṭhātrī) [yathā](yathā) [tathā](tathā)
+[from-gross+five](sthūlātpañca) [to-elements](bhūtāya) [presiding](adhiṣṭhātrī) [as](yathā) [so](tathā)
 
 ## mukta-m0-p07-v168
-[sthūlam](sthūlaṃ) [bhūta-śarīram](bhūtaśarīrañca) [ca](bhūtaśarīrañca) [sūkṣmam](sūkṣmaṃ) [puri-aṣṭakam](puryaṣṭakaṃ) [bhavet](bhavet)
+[gross](sthūlaṃ) [element+body+and](bhūtaśarīrañca) [subtle](sūkṣmaṃ) [city-of-eight](puryaṣṭakaṃ) [becomes](bhavet)
 
 ## mukta-m0-p07-v169
-[āṇavam](āṇavaṃ) [ca](caiva) [eva](caiva) [māyeyam](māyeyaṃ) [karmeyam](karmeyaṃ) [syāt](syāt) [mala-trayam](malatrayam)
+[āṇava](āṇavaṃ) [and+indeed](caiva) [māyeya](māyeyaṃ) [karmeya](karmeyaṃ) [may-be](syāt) [impurity+three](malatrayam)
 
 ## mukta-m0-p07-v170
-[sahajam](sahajaṃ) [mala-saṃbaddham](malasaṃbaddhaṃ) [kevalam](kevalaṃ) [tam](tamudāhṛtam) [udāhṛtam](tamudāhṛtam)
+[inborn](sahajaṃ) [impurity+bound](malasaṃbaddhaṃ) [alone](kevalaṃ) [that+called](tamudāhṛtam)
 
 ## mukta-m0-p07-v171
-[māyeyam](māyeyaṃ) [tat](tadvijānīyā) [vijānīyā](tadvijānīyā) [puṇya-pāpa-ākhya-karma-jam](puṇyapāpākhyakarmajam)
+[māyeya](māyeyaṃ) [that+should-know](tadvijānīyā) [merit+sin+named+action-born](puṇyapāpākhyakarmajam)
 
 ## mukta-m0-p07-v172
-[karmeyam](karmeyaṃ) [tri-vidham](trividhaṃ) [dṛṣṭvā](dṛṣṭvā) [dṛṣṭa-janma-upabhogyakam](dṛṣṭajanmopabhogyakam)
+[karmeya](karmeyaṃ) [threefold](trividhaṃ) [having-seen](dṛṣṭvā) [seen+birth+enjoyable](dṛṣṭajanmopabhogyakam)
 
 ## mukta-m0-p07-v173
-[tat-janmani](tajjanmanyeva) [eva](tajjanmanyeva) [phala-daḥ](phalado) [dṛṣṭa-bhogam](dṛṣṭabhogaṃ) [na](na) [mucyate](mucyate)
+[that+birth+only](tajjanmanyeva) [fruit-giver](phalado) [seen+enjoyment](dṛṣṭabhogaṃ) [not](na) [is-released](mucyate)
 
 ## mukta-m0-p07-v174
-[adṛṣṭa-vedanīyam](adṛṣṭavedanīyaṃ) [tat](tat) [karma](karmoktaṃ) [uktam](karmoktaṃ) [śiva-darśane](śivadarśane)
+[unseen+to-be-experienced](adṛṣṭavedanīyaṃ) [that](tat) [karma+said](karmoktaṃ) [śiva+doctrine](śivadarśane)
 
 ## mukta-m0-p07-v175
-[adhyātmam](adyātmamadhibhūtañca) [adhibhūtam](adyātmamadhibhūtañca) [ca](adyātmamadhibhūtañca) [ādi-daivikam](ādidaivikameva) [eva](ādidaivikameva) [ca](ca)
+[self+concerning](adhyātmaṃ) [element+concerning+and](adhibhūtañca) [divine+beginning+concerning+indeed+and](ādidaivikameva+ca)
