@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p42-v1026
-[one's-own](svakīyāṃ) [belonging-to-another](parakīyāṃ) [or](vā) [beauty+youth+proud](rūpa+yauvana+garvitām)
+[one's-own](svakīyāṃ) [or-another's](parakīyāṃ) [or](vā) [beauty+](rūpa)[youth+](yauvana)[proud](garvitām)
 
 ## mukta-m0-p42-v1027
-[kula+yogin](kulayogī) [how](kathaṃ) [should-do](kuryāt) [purification](śodhanaṃ) [of-kula-women](kula+yoṣitām)
+[kula+](kula)[yogin](yogī) [how](kathaṃ) [should-do+](kuryāt)[purification](chodhanaṃ) [of-kula+](kula)[women](yoṣitām)
 
 ## mukta-m0-p42-v1028
 [having-performed](vidhāya) [mental](mānasīṃ) [worship](pūjāṃ) [mantra](mantraṃ) [yogin](yogī) [should-utter](samuccaret)
 
 ## mukta-m0-p42-v1029
-[despised](kutsitāṃ) [or](vā) [very+wicked](mahā+duṣṭāṃ) [having-bowed](namaskṛtya) [one-should-contemplate](vibhāvayet)
+[despised](kutsitāṃ) [or](vā) [very+](mahā)[wicked](duṣṭāṃ) [having-bowed](namaskṛtya) [one-should-contemplate](vibhāvayet)
 
 ## mukta-m0-p42-v1030
-[in-every-way](sarvathā) [not+indeed](na+eva) [should-be-done](kartavyam) [otherwise](anyathā) [siddhi+obstruction+causing](siddhi+rodha+kṛt)
+[in-every-way](sarvathā) [not+](na)[indeed](iva) [should-be-done+](kartavyam)[otherwise](anyathā) [siddhi+](siddhi)[obstruction+](rodha)[causing](kṛt)
 
 ## mukta-m0-p42-v1031
-[among-women+groups](strī+gaṇeṣu) [always](sadā) [should-be-contemplated](bhāvyam) [otherwise](anyathā) [in-one's-own+woman](sva+striyām) [also](api)
+[among-women+](strī)[groups](gaṇeṣu) [always](sadā) [should-be-contemplated+](bhāvyam)[otherwise](anyathā) [in-one's-own+](sva)[wife+](striyām)[also](api)
 
 ## mukta-m0-p42-v1032
-[of-the-practitioner](sādhakasya) [may-become](bhavet) [quickly](āśu) [wish-fulfilling-cow](kāma+dhenur) [like](iva) [another](aparā)
+[of-the-practitioner](sādhakasya) [may-become+](bhavet)[quickly](āśu) [wish-fulfilling-cow+](kāma)[dhenu+](dhenur)[like+](iva)[another](aparā)
 
 ## mukta-m0-p42-v1033
-[devoted-to-that](tat+paraḥ) [of-other+women](para+tanvīnāṃ) [in-supreme+reality](para+tattve) [dissolves](pralīyate)
+[devoted-to-that](tatparaḥ) [of-other+](para)[women](tanvīnāṃ) [in-supreme+](para)[reality](tattve) [dissolves](pralīyate)
 
 ## mukta-m0-p42-v1034
-[brahmin-woman](brāhmaṇī) [śūdra+girl](śūdra+kanyā) [and](ca) [likewise](tathā) [cowherd+girl](gopāla+kanyakā)
+[brahmin-woman](brāhmaṇī) [śūdra+](śūdra)[girl](kanyā) [and](ca) [likewise](tathā) [cowherd+](gopāla)[girl](kanyakā)
 
 ## mukta-m0-p42-v1035
-[among-these](etāsu) [some-one](kāṃcid) [having-brought](ānīya) [purification](saṃśodhanam) [then](atha) [one-should-perform](ācaret)
+[among-these](etāsu) [someone+](kāṃcit)[having-brought](ānīya) [purification+](saṃśodhanam)[then+](atha)[one-should-perform](ācaret)
 
 ## mukta-m0-p42-v1036
-[of-śakti+purification+mantra](śakti+śodhana+mantrasya) [seer](ṛṣiḥ) [declared](proktaḥ) [sadāśiva](sadā+śivaḥ)
+[of-śakti+](śakti)[purification+](śodhana)[mantra](mantrasya) [seer](ṛṣiḥ) [declared](proktaḥ) [sadāśiva](sadāśivaḥ)
 
 ## mukta-m0-p42-v1037
-[speech+seed](vāk+bījaṃ) [seed](bījam) [O-Īśānī](īśāni) [power](śaktiḥ) [śakti](śaktiḥ) [thus](iti) [declared](īritā)
+[speech+](vāk)[seed](bījaṃ) [seed+](bījam)[O-Īśānī](īśāni) [power](śaktiḥ) [śakti+](śaktiḥ)[thus+](iti)[declared](īritā)
 
 ## mukta-m0-p42-v1038
-[enjoyment+liberation+accomplishment+for-the-sake-of](bhoga+apavarga+siddhi+artham) [application](viniyogaḥ) [O-great-goddess](mahā+īśvari)
+[enjoyment+](bhoga)[liberation+](apavarga)[accomplishment+](siddhi)[for-the-sake-of](artham) [application](viniyogo) [O-Maheśvarī](maheśvari)
 
 ## mukta-m0-p42-v1039
-[eleven](ekādaśa) [nine+eight](nava+aṣṭau) [or](vā) [kaulika](kaulikaḥ) [O-lady-of-kaulas](kaulika+īśvari)
+[eleven](ekādaśa) [nine+](nava)[eight](aṣṭau) [or](vā) [kaulika](kaulikaḥ) [O-Kaulikeśvarī](kaulikeśvari)
 
 ## mukta-m0-p42-v1040
-[practitioner](sādhakaḥ) [should-touch](saṃspṛśet) [first](ādau) [having-done](kṛtvā) [seat+purification](viṣṭara+śodhanam)
+[practitioner](sādhakaḥ) [should-touch+](saṃspṛśet)[first](ādau) [having-done](kṛtvā) [seat+](viṣṭara)[purification](śodhanam)
 
 ## mukta-m0-p42-v1041
-[mantra+resolution](mantra+saṃkalpakaṃ) [having-done](kṛtvā) [sage+etc+installation](muni+ādi+nyāsam) [one-should-perform](ācaret)
+[mantra+](mantra)[resolve](saṃkalpakaṃ) [having-made](kṛtvā) [sage+](muni)[etc.+](ādi)[installation+](nyāsam)[should-perform](ācaret)
 
 ## mukta-m0-p42-v1042
-[heart+seat+worship](hṛt+pīṭha+arcāṃ) [having-performed](vidhāya) [then](atha) [variant: yātra](yātra) [śrī+cakra+worship](śrī+cakra+arcanam) [one-should-perform](ācaret)
+[heart+](hṛt)[seat+](pīṭha)[worship](arcāṃ) [having-performed+](vidhāya)[then](atha) [śrī+](śrī)[cakra+](cakra)[worship+](arcanam)[should-perform](ācaret)
 
 ## mukta-m0-p42-v1043
-[hero+worship](vīra+arcanam) [hero+beloved+service](vīra+kāntā+sevanam) [by-gods+difficult-to-obtain](deva+durlabham)
+[hero+](vīra)[worship](arcanaṃ) [hero+](vīra)[beloved+](kāntā)[service](sevanaṃ) [by-gods+](deva)[hard-to-obtain](durlabham)
 
 ## mukta-m0-p42-v1044
-[śakti](śaktiṃ) [on-the-left](vāme) [indeed](tu) [having-placed](saṃsthāpya) [one-should-worship](pūjayet) [is-described](varṇyate) [as](yathā)
+[śakti](śaktiṃ) [on-the-left](vāme) [indeed](tu) [having-placed](saṃsthāpya) [one-should-worship+](pūjayet)[is-described](varṇyate) [as](yathā)
 
 ## mukta-m0-p42-v1045
-[śiva+three+triangle](śiva+tri+aśraṃ) [kāma+three+triangle](kāma+tri+aśraṃ) [weapon+three+triangle](heti+tri+aśraṃ) [O-great-goddess](mahā+īśvari)
+[śiva+](śiva)[triangle](tryaśraṃ) [kāma+](kāma)[triangle](tryaśraṃ) [weapon+](heti)[triangle](tryaśraṃ) [O-Maheśvarī](maheśvari)
 
 ## mukta-m0-p42-v1046
-[in-śrī+cakras](śrī+cakreṣu) [indeed](hi) [naṭyā+beginning-with+mālinī+ending-with](naṭyā+ādi+mālinī+antam) [having-considered](vicārya) [and](ca)
+[in-śrī+](śrī)[cakras](cakreṣu) [indeed](hi) [naṭyā+](naṭyā)[etc.+](ādi)[mālinī+](mālinī)[ending](antaṃ) [having-considered](vicārya) [and](ca)
 
 ## mukta-m0-p42-v1047
-[its](tadīyaṃ) [diagram](yantram) [having-drawn](ālikhya) [in-that](tasmin) [her](tām) [indeed](eva) [one-should-worship](pūjayet)
+[its](tadīyaṃ) [diagram+](yantram)[having-drawn](ālikhya) [in-that](tasmiṃs)[her+](tām)[indeed](eva) [one-should-worship](pūjayet)
 
 ## mukta-m0-p42-v1048
-[with-loosened+hair](mukta+keśīṃ) [devoid-of+shame](vīta+lajjāṃ) [with-all+ornaments+adorned](sarva+ābharaṇa+bhūṣitām)
+[with-loosened+](mukta)[hair](keśīṃ) [devoid-of+](vīta)[shame](lajjāṃ) [with-all+](sarva)[ornaments+](ābharaṇa)[adorned](bhūṣitām)
 
 ## mukta-m0-p42-v1049
-[in-bliss+absorbed+heart](ānanda+līna+hṛdayām) [by-beauty+very+charming](saundaryāt+manoharām)
+[in-bliss+](ānanda)[absorbed+](līna)[heart](hṛdayāṃ) [by-beauty+](saundaryāt)[exceedingly+](ati)[charming](manoharām)
 
 ## mukta-m0-p42-v1050
-[bālā+seed+triad](bālā+bīja+trayam) [O-goddess](devi) [having-uttered](proccārya) [after-that](tadanantaram)
+[bālā+](bālā)[seed+](bīja)[triad](trayaṃ) [O-goddess](devi) [having-uttered](proccārya) [thereafter](tadanantaraṃ)
