@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p143-v3551
-[those](tān)+[indeed](eva) [questions](praśnān)+[says](āha) - [space](ākāśa)+[etcetera](ādi)+[thus](iti)+[etcetera](ādi) | [that](sā) [questioned](pṛṣṭa)+[form](rūpā)
+[those](tān) [indeed](eva) [questions](praśnān) [speaks](āha) - [space+etc.](ākāśa+ādityādi) | [that](sā) [question-form](pṛṣṭa+rūpā)
 
 ## mukta-m0-p143-v3552
-[shining](sphurat)+[form](rūpā) [own](sva)+[self](ātma)+[abiding](saṃsthā) [listen](śṛṇu) [you](tvaṃ) [brahma](brahma)+[demon](rākṣasa)
+[flashing-form](sphurat+rūpā) [in-own-self+abiding](sva+ātma+saṃsthā) [hear](śṛṇu) [you](tvaṃ) [O-brahma-demon](brahma+rākṣasa)
 
 ## mukta-m0-p143-v3553
-[all](sarva)+[inwardness](antaratvāt)+[inaccessibility](agocaratvāt)+[and](ca) [subtlety](sūkṣmatvam) | [own](sva)+[self](ātma)+[abiding](saṃsthā) [own](sva)+[nature](rūpe) [indeed](eva) [situated](sthitā)
+[because-of-being-inner-of-all](sarva+antaratvāt) [and-because-of-being-imperceptible](agocaratvāt+ca) [subtlety](sūkṣmatvam) | [in-own-self+abiding](sva+ātma+saṃsthā) [in-own-nature](sva+rūpe) [indeed](eva) [situated](sthitā)
 
 ## mukta-m0-p143-v3554
-[shiningness](sphurattvaṃ) [what](kiṃ) [what](kim)+[self](ātmā) [and](ca) [tell](vada)+[this](etat)+[prince](nṛpa)+[son](nandana)
+[flashingness](sphurattvaṃ) [what](kiṃ) [what-nature](kim+ātmā) [and](ca) [tell](vada) [this](etat) [O-prince](nṛpa+nandana)
 
 ## mukta-m0-p143-v3555
-[extended](vitatā) [subtle](sūkṣmā)+[also](api)+[one](ekā) [and](ca) [g:]( [and](ca) [not](nāsti) ) [how](kathaṃ) [could-be](bhavet)
+[extended](vitatā) [subtle](sūkṣmā) [though](api) [one](ekā) [and](ca) [how](kathaṃ) [could-be](bhavet)
 
 ## mukta-m0-p143-v3556
-[shiningness](sphurattvam)+[self](ātmā) [and](ca) [consciousness](citiḥ) [listen](śṛṇu) [you](tvaṃ) [brahma](brahma)+[demon](rākṣasa)
+[flashingness](sphurattvam) [self](ātmā) [and](ca) [consciousness](citiḥ) [hear](śṛṇu) [you](tvaṃ) [O-brahma-demon](brahma+rākṣasa)
 
 ## mukta-m0-p143-v3557
-[consciousness](cit)+[mere](mātram)+[only](eva) | [not](na) [than-that](tataḥ)+[more](adhikam)+[thus](iti) [purport](tātparyam)
+[consciousness-measure](cit+mātram) [alone](eva) | [not](na) [than-that](tataḥ) [more](adhikam) [thus](iti) [purport](tātparyam)
 
 ## mukta-m0-p143-v3558
-[by-cognition](upalabdhyā) [and](ca) [what](kiṃ) [or](vā) [would-be](syāt) [tell](vada)+[this](etat)+[prince](nṛpa)+[son](nandana)
+[by-apprehension](upalabdhyā) [and](ca) [what](kiṃ) [or](vā) [would-be](syāt) [tell](vada) [this](etat) [O-prince](nṛpa+nandana)
 
 ## mukta-m0-p143-v3559
-[by-cognition](upalabdhyā) [birth](janiḥ)+[not](na) [would-be](syāt)+[listen](śṛṇu) [you](tvaṃ) [brahma](brahma)+[demon](rākṣasa)
+[by-apprehension](upalabdhyā) [birth](janiḥ) [not](na) [would-be](syāt) [hear](śṛṇu) [you](tvaṃ) [O-brahma-demon](brahma+rākṣasa)
 
 ## mukta-m0-p143-v3560
-[own](sva)+[self](ātma)+[consciousness](cit)+[mere](mātra)+[form](ākāratā)+[attainment](sampattiḥ) | [by-this](etena) [dull](mūḍha)+[absorption](samādhiḥ)+[excluded](vyāvṛttaḥ)
+[own-self+consciousness-measure+form+attainment](sva+ātma+cit+mātra+ākāratā+sampattiḥ) | [by-this](etena) [deluded-absorption](mūḍha+samādhiḥ) [excluded](vyāvṛttaḥ)
 
 ## mukta-m0-p143-v3561
-[birth](janiḥ)+[or](vā)+[also](api) [could-be](bhavet) [what](kā) [that](sā) [tell](vada)+[this](etat)+[prince](nṛpa)+[son](nandana)
+[birth](janiḥ) [or](vā) [also](api) [would-be](bhavet) [what](kā) [that](sā) [tell](vada) [this](etat) [O-prince](nṛpa+nandana)
 
 ## mukta-m0-p143-v3562
-[birth](janiḥ)+[body](deha)+[selfhood](ātmatā)+[notion](buddhiḥ) [listen](śṛṇu) [you](tvaṃ) [brahma](brahma)+[demon](rākṣasa)
+[birth](janiḥ) [body-selfhood+notion](deha+ātmatā+buddhiḥ) [hear](śṛṇu) [you](tvaṃ) [O-brahma-demon](brahma+rākṣasa)
 
 ## mukta-m0-p143-v3563
-[toward-seen](dṛśya)+[non-turning](anunmukhatvam) [state](avasthā) [is](asti) [thus](iti)
+[toward-the-seen+non-turning](dṛśya+anunmukhatvam)
 
 ## mukta-m0-p143-v3564
-[birth](janiḥ) [how](kathaṃ) [or](vā) [obtained](samprāptā) [tell](vada)+[this](etat)+[prince](nṛpa)+[son](nandana)
+[birth](janiḥ) [how](kathaṃ) [or](vā) [obtained](samprāptā) [tell](vada) [this](etat) [O-prince](nṛpa+nandana)
 
 ## mukta-m0-p143-v3565
-[from-what](kasmāt)+[cause](nimittāt) | [by-what](kena) [instrument](karaṇena) [k:]( [cause](kāra) )
+[from-what-cause](kasmāt+nimittāt) | [by-what-instrument](kena) [instrument](karaṇena)
 
 ## mukta-m0-p143-v3566
-[birth](janiḥ) [agency](kartṛtva)+[identification](abhimānāt)+[listen](śṛṇu) [you](tvaṃ) [brahma](brahma)+[demon](rākṣasa)
+[birth](janiḥ) [from-agency+identification](kartṛtva+abhimānāt) [hear](śṛṇu) [you](tvaṃ) [O-brahma-demon](brahma+rākṣasa)
 
 ## mukta-m0-p143-v3567
-[by-self](ātmanā) [by-own](svena)+[indeed](eva) [instrument](karaṇa)+[other](antara)+[independence](nairapekṣyeṇa)+[thus](iti) [k:]( [cause](kāra) ) [namely](yāvat)
+[by-self](ātmanā) [by-own](svena) [indeed](eva) [with-independence-from-other-instruments](karaṇa+antara+nairapekṣyeṇa) [thus](iti) [so-far](yāvat)
 
 ## mukta-m0-p143-v3568
-[what](kaḥ) [or](vā) [agency](kartṛtva)+[identification](abhimānaḥ) [tell](vada)+[this](etat)+[prince](nṛpa)+[son](nandana)
+[what](kaḥ) [or](vā) [agency+identification](kartṛtva+abhimānaḥ) [tell](vada) [this](etat) [O-prince](nṛpa+nandana)
 
 ## mukta-m0-p143-v3569
-[that](tat)+[latent-impression](vāsanā)+[identification](abhimānaḥ) [would-be](syāt)+[listen](śṛṇu) [you](tvaṃ) [brahma](brahma)+[demon](rākṣasa)
+[that+latent-impression+identification](tat+vāsanā+abhimānaḥ) [would-be](syāt) [hear](śṛṇu) [you](tvaṃ) [O-brahma-demon](brahma+rākṣasa)
 
 ## mukta-m0-p143-v3570
-[latent-impression](saṃskāraḥ) [is](asti) [that](tat) [cause](kāraṇam)
+[latent-impression](saṃskāraḥ)
 
 ## mukta-m0-p143-v3571
-[of-that](tasyāḥ)+[also](api) [what](kiṃ) [cause](kāraṇam) [would-be](syāt) [tell](vada)+[this](etat)+[prince](nṛpa)+[son](nandana)
+[of-that](tasyā) [also](api) [what](kiṃ) [cause](kāraṇaṃ) [would-be](syāt) [tell](vada) [this](etat) [O-prince](nṛpa+nandana)
 
 ## mukta-m0-p143-v3572
-[of-that](tasya) [non-discrimination](aviveka)+[destroyer](nāśakasya) | [of-that](tasyāḥ)+[also](api) [of-that](tat)+[cause](kāraṇasya)+[also](api)
+[of-that](tasya) [of-the-destroyer-of-non-discrimination](aviveka+nāśakasya) | [of-that](tasyā) [also](api) [of-that-cause](tat+kāraṇasya) [also](api)
 
 ## mukta-m0-p143-v3573
-[that](tat)+[cause](kāraṇam) [fault](doṣa)+[seeing](dṛṣṭiḥ) [listen](śṛṇu) [you](tvaṃ) [brahma](brahma)+[demon](rākṣasa)
+[that-cause](tat+kāraṇaṃ) [fault+seeing](doṣa+dṛṣṭiḥ) [hear](śṛṇu) [you](tvaṃ) [O-brahma-demon](brahma+rākṣasa)
 
 ## mukta-m0-p143-v3574
-[object](viṣaya)+[fault](doṣa)+[seeing](dṛṣṭiḥ) [is](asti) [that](sā) [cause](kāraṇam)
+[sense-object+fault+seeing](viṣaya+doṣa+dṛṣṭiḥ)
 
 ## mukta-m0-p143-v3575
-[fault](doṣa)+[seeing](dṛṣṭiḥ)+[and](ca) [what](kā) [declared](proktā) [tell](vada)+[this](etat)+[prince](nṛpa)+[son](nandana)
+[fault+seeing](doṣa+dṛṣṭiḥ) [and](ca) [what](kā) [declared](proktā) [tell](vada) [this](etat) [O-prince](nṛpa+nandana)

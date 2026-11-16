@@ -7,12 +7,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "kṛtārthaḥ",
-"quick_gloss": "fulfilled-purpose"
+"surface": "kṛta",
+"quick_gloss": "fulfilled"
 },
 {
-"surface": "bandha+nirmuktaḥ",
-"quick_gloss": "bondage+freed"
+"surface": "arthaḥ",
+"quick_gloss": "purpose"
+},
+{
+"surface": "bandha",
+"quick_gloss": "bondage"
+},
+{
+"surface": "nirmuktaḥ",
+"quick_gloss": "released"
 },
 {
 "surface": "bhavati",
@@ -23,8 +31,12 @@
 "quick_gloss": "thus"
 },
 {
-"surface": "suniścayaḥ",
-"quick_gloss": "certain-conclusion"
+"surface": "su",
+"quick_gloss": "certain"
+},
+{
+"surface": "niścayaḥ",
+"quick_gloss": "conviction"
 }
 ]
 },
@@ -40,12 +52,28 @@
 "quick_gloss": "again"
 },
 {
-"surface": "abādhita+vikalpa+anudayena",
-"quick_gloss": "unrefuted+conception+non-arising"
+"surface": "abādhita",
+"quick_gloss": "uncontradicted"
 },
 {
-"surface": "aprāmāṇya+graha+anudayāt",
-"quick_gloss": "invalidity+cognition+non-arising"
+"surface": "vikalpa",
+"quick_gloss": "conceptualization"
+},
+{
+"surface": "anudayena",
+"quick_gloss": "non-arising"
+},
+{
+"surface": "aprāmāṇya",
+"quick_gloss": "invalidity"
+},
+{
+"surface": "graha",
+"quick_gloss": "apprehension"
+},
+{
+"surface": "anudayāt",
+"quick_gloss": "non-arising"
 },
 {
 "surface": "iti",
@@ -73,12 +101,16 @@
 "quick_gloss": "by-ordinary-experience"
 },
 {
-"surface": "bādhā+abhāvasya",
-"quick_gloss": "of-refutation+absence"
+"surface": "bādhā",
+"quick_gloss": "contradiction"
+},
+{
+"surface": "abhāvasya",
+"quick_gloss": "absence"
 },
 {
 "surface": "spaṣṭatvāt",
-"quick_gloss": "due-to-clearness"
+"quick_gloss": "clearness"
 },
 {
 "surface": "iti",
@@ -94,7 +126,7 @@
 },
 {
 "surface": "prāha",
-"quick_gloss": "spoke"
+"quick_gloss": "he-said"
 }
 ]
 },
@@ -138,6 +170,10 @@
 "quick_english": "",
 "quick_english_source": "t1parse",
 "tokens": [
+{
+"surface": " -",
+"quick_gloss": "-"
+},
 {
 "surface": "svarūpam",
 "quick_gloss": "own-nature"
@@ -193,12 +229,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "vikalpa+ābhāsaḥ",
-"quick_gloss": "conception+semblance"
+"surface": "vikalpa",
+"quick_gloss": "conceptualization"
 },
 {
-"surface": "anartha+āvahaḥ",
-"quick_gloss": "harm-producing"
+"surface": "ābhāsaḥ",
+"quick_gloss": "semblance"
+},
+{
+"surface": "anartha",
+"quick_gloss": "harm"
+},
+{
+"surface": "āvahaḥ",
+"quick_gloss": "bringing"
 },
 {
 "surface": "iti",
@@ -235,11 +279,11 @@
 },
 {
 "surface": "jānatām",
-"quick_gloss": "even-for-those-knowing"
+"quick_gloss": "of-those-knowing"
 },
 {
 "surface": "api",
-"quick_gloss": "also"
+"quick_gloss": "even"
 }
 ]
 },
@@ -252,19 +296,23 @@
 "tokens": [
 {
 "surface": "tāvatā",
-"quick_gloss": "by-that-much-alone"
+"quick_gloss": "by-that-much"
 },
 {
 "surface": "eva",
-"quick_gloss": "indeed"
+"quick_gloss": "alone"
 },
 {
 "surface": "tu",
-"quick_gloss": "but"
+"quick_gloss": "indeed"
 },
 {
-"surface": "tat+jñānaṃ",
-"quick_gloss": "that+knowledge"
+"surface": "tat",
+"quick_gloss": "that"
+},
+{
+"surface": "jñānaṃ",
+"quick_gloss": "knowledge"
 },
 {
 "surface": "na",
@@ -288,8 +336,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "k:",
-"quick_gloss": "variant: sky-ness"
+"surface": " [k:",
+"quick_gloss": "[variant:"
+},
+{
+"surface": "gaganatva",
+"quick_gloss": "sky-ness"
 },
 {
 "surface": "nīlaṃ",
@@ -317,16 +369,40 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "hata+prāmāṇya+jīvaṃ",
-"quick_gloss": "destroyed+validity+life"
+"surface": "hata",
+"quick_gloss": "destroyed"
 },
 {
-"surface": "tat+jñānaṃ",
-"quick_gloss": "that+knowledge"
+"surface": "prāmāṇya",
+"quick_gloss": "validity"
 },
 {
-"surface": "mṛta+mahā+ahi+vat",
-"quick_gloss": "like-dead+great+snake"
+"surface": "jīvaṃ",
+"quick_gloss": "life"
+},
+{
+"surface": "tat",
+"quick_gloss": "that"
+},
+{
+"surface": "jñānaṃ",
+"quick_gloss": "knowledge"
+},
+{
+"surface": "mṛta",
+"quick_gloss": "dead"
+},
+{
+"surface": "mahā",
+"quick_gloss": "great"
+},
+{
+"surface": "ahi",
+"quick_gloss": "snake"
+},
+{
+"surface": "vat",
+"quick_gloss": "like"
 }
 ]
 },
@@ -437,8 +513,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "na+artha+āvahaḥ",
-"quick_gloss": "not-harm-producing"
+"surface": "na",
+"quick_gloss": "not"
+},
+{
+"surface": "artha",
+"quick_gloss": "harm"
+},
+{
+"surface": "āvahaḥ",
+"quick_gloss": "bringing"
 },
 {
 "surface": "sarvaḥ",
@@ -507,8 +591,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "jñāna+mātra+rūpatvena",
-"quick_gloss": "knowledge+mere+nature"
+"surface": "jñāna",
+"quick_gloss": "knowledge"
+},
+{
+"surface": "mātra",
+"quick_gloss": "mere"
+},
+{
+"surface": "rūpatvena",
+"quick_gloss": "nature"
 },
 {
 "surface": "na",
@@ -560,8 +652,12 @@
 "quick_gloss": "would-dissolve"
 },
 {
-"surface": "jñāna+mātrataḥ",
-"quick_gloss": "by-knowledge+alone"
+"surface": "jñāna",
+"quick_gloss": "by-knowledge"
+},
+{
+"surface": "mātrataḥ",
+"quick_gloss": "alone"
 }
 ]
 },
@@ -573,8 +669,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "tat+vilaya+kāraṇatva+abhāvaḥ",
-"quick_gloss": "of-that+dissolution+causality+absence"
+"surface": "tat",
+"quick_gloss": "of-that"
+},
+{
+"surface": "vilaya",
+"quick_gloss": "dissolution"
+},
+{
+"surface": "kāraṇatva",
+"quick_gloss": "causality"
+},
+{
+"surface": "abhāvaḥ",
+"quick_gloss": "absence"
 },
 {
 "surface": "iti",
@@ -594,8 +702,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "jagat+ābhāsaḥ",
-"quick_gloss": "world+appearance"
+"surface": "jagat",
+"quick_gloss": "world"
+},
+{
+"surface": "ābhāsaḥ",
+"quick_gloss": "appearance"
 },
 {
 "surface": "eṣaḥ",
@@ -603,11 +715,19 @@
 },
 {
 "surface": "tu",
-"quick_gloss": "but"
+"quick_gloss": "indeed"
 },
 {
-"surface": "karma+doṣa+samudbhavaḥ",
-"quick_gloss": "karma+defect+born"
+"surface": "karma",
+"quick_gloss": "karma"
+},
+{
+"surface": "doṣa",
+"quick_gloss": "defect"
+},
+{
+"surface": "samudbhavaḥ",
+"quick_gloss": "born"
 }
 ]
 },
@@ -620,11 +740,11 @@
 "tokens": [
 {
 "surface": "samāpte",
-"quick_gloss": "on-completion"
+"quick_gloss": "when-completed"
 },
 {
 "surface": "karmaṇi",
-"quick_gloss": "of-karma"
+"quick_gloss": "karma"
 },
 {
 "surface": "tataḥ",
@@ -635,8 +755,12 @@
 "quick_gloss": "would-remain"
 },
 {
-"surface": "advaya+cinmayam",
-"quick_gloss": "non-dual+consciousness"
+"surface": "advaya",
+"quick_gloss": "non-dual"
+},
+{
+"surface": "cinmayam",
+"quick_gloss": "consciousness"
 }
 ]
 },
@@ -681,8 +805,12 @@
 "quick_gloss": "asked"
 },
 {
-"surface": "nṛpa+nandanam",
-"quick_gloss": "king's-son"
+"surface": "nṛpa",
+"quick_gloss": "king's"
+},
+{
+"surface": "nandanam",
+"quick_gloss": "son"
 }
 ]
 },
@@ -694,16 +822,24 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "bhrānti+sambhavaḥ",
-"quick_gloss": "error+arising"
+"surface": "bhrānti",
+"quick_gloss": "error"
 },
 {
-"surface": "karma+śeṣāt",
-"quick_gloss": "from-karma+remainder"
+"surface": "sambhavaḥ",
+"quick_gloss": "arising"
 },
 {
-"surface": "advaita+ābhāsaḥ",
-"quick_gloss": "non-dual+appearance"
+"surface": "karmaśeṣāt",
+"quick_gloss": "from-remainder-of-karma"
+},
+{
+"surface": "advaita",
+"quick_gloss": "non-dual"
+},
+{
+"surface": "ābhāsaḥ",
+"quick_gloss": "appearance"
 },
 {
 "surface": "iti",
@@ -723,16 +859,28 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "jñāna+agni+saṃsparśane",
-"quick_gloss": "knowledge+fire+contact"
+"surface": "jñāna",
+"quick_gloss": "knowledge"
+},
+{
+"surface": "agni",
+"quick_gloss": "fire"
+},
+{
+"surface": "saṃsparśane",
+"quick_gloss": "contact"
 },
 {
 "surface": "api",
 "quick_gloss": "even"
 },
 {
-"surface": "karma+tūlaḥ",
-"quick_gloss": "karma+cotton"
+"surface": "karma",
+"quick_gloss": "karma"
+},
+{
+"surface": "tūlaḥ",
+"quick_gloss": "cotton"
 },
 {
 "surface": "kathaṃ",
