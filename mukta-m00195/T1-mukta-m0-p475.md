@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p475-v11851
-[female-yakṣa](yakṣiṇyo) [under-control](vaśagāḥ) [and-indeed](caiva) [controllable](vaśyaḥ) [may-be](syāt) [yoginī+group](yoginīgaṇaḥ)
+[yakṣiṇyaḥ](yakṣiṇyo) [subjugated](vaśagāḥ) [and](ca) [indeed](eva) [submissive](vaśyaḥ) [should-be](syāt) [yoginī+group](yoginī+gaṇaḥ)
 
 ## mukta-m0-p475-v11852
-[brāhmaṇa](viprāḥ) [palāśa+flower](palāśakusumaiḥ) [serve](sevantībhiḥ) [kings](nṛpāḥ) [thus](tathā)
+[brahmins](viprāḥ) [with-palāśa+flowers](palāśa+kusumaiḥ) [by-worshipping-women](sevantībhiḥ) [kings](nṛpāḥ) [likewise](tathā)
 
 ## mukta-m0-p475-v11853
-[turuṣka](turuṣkāḥ) [go](yānti) [servitude](dāsatvaṃ) [jayantī](jayantyāḥ) [flower](kusumaiḥ) [offer](hunet)
+[turuṣkas](turuṣkā) [go](yānti) [to-slavery](dāsatvaṃ) [of-jayantī](jayantyāḥ) [with-flowers](kusumaiḥ) [one-should-offer](hunet)
 
 ## mukta-m0-p475-v11854
-[uṣā+heart](uṣāhṛdaya) [bound](ruddhāya) [kāmarūpa](kāmarūpāya) [to-you](te) [salutation](namaḥ)
+[to-uṣā+heart+confined](uṣā+hṛdaya+ruddhāya) [to-desire+form](kāma+rūpāya) [to-you](te) [salutation](namaḥ)
 
 ## mukta-m0-p475-v11855
-[remember](smaret) [uṣā+house](uṣāgṛhe) [him](taṃ) [ca](ca) [citralekhā+etc](citralekhādisaṃyute)
+[one-should-meditate](smaret) [in-uṣā+house](uṣā+gṛhe) [him](taṃ) [and](ca) [with-citralekhā+and-others+endowed](citralekhā+ādi+saṃyute)
 
 ## mukta-m0-p475-v11856
-[embraced](āliṅgita) [dear+uṣā](priyoṣaṃ) [ca](ca) [woman+curiosity](strīkautuka) [with](ramānvitam)
+[embraced+beloved+uṣā](āliṅgita+priya+uṣaṃ) [and](ca) [with-women+playfulness+delight+endowed](strī+kautuka+rama+ānvitam)
 
 ## mukta-m0-p475-v11857
-[kāma+pīṭha](kāmapīṭhe) [worship](yajet) [god](devaṃ) [hundred-thousand](varṇalakṣaṃ) [chant](japen) [mantra](manum)
+[in-kāma+seat](kāma+pīṭhe) [one-should-worship](yajet) [god](devaṃ) [hundred-thousand+times](varṇa+lakṣaṃ) [one-should-repeat+mantra](japet+manum)
 
 ## mukta-m0-p475-v11858
-[offer](juhuyāt) [mantra+king](mantrarājasya) [perfection](siddhi) [of-him](tosya) [world+control](jagadvaśam)
+[one-should-offer-oblation](juhuyāt) [of-mantra+king](mantra+rājasya) [by-accomplishment](siddhitaḥ) [of-this](asya) [world+subjugation](jagat+vaśam)
 
 ## mukta-m0-p475-v11859
-[servant+become](dāsībhūtāḥ) [of-practitioner](sādhakasya) [chant](japed) [menstruating](ṛtumatīṃ) [unite](yabhet)
+[become+maidservants](dāsī+bhūtāḥ) [of-practitioner](sādhakasya) [one-should-repeat](japet) [ṛtumatī](ṛtumatīṃ) [one-should-worship](yabhet)
 
 ## mukta-m0-p475-v11860
-[manifest](pratyakṣībhūya) [tasks](kāryāṇi) [do](kurvate) [like-servant](dāsavat) [long](ciram)
+[having-become-visible](pratyakṣī+bhūya) [tasks](kāryāṇi) [they-perform](kurvate) [like-servants](dāsa+vat) [for-long](ciram)
 
 ## mukta-m0-p475-v11861
-[māyā+ramā+tārakā](māyāramātārakā) [kāma+bīja](kāmabījaṃ) [heart](hṛt) [puruṣottama](puruṣottama)
+[māyā](māyā) [ramā](ramā) [tārā](tārā) [kāma+seed](kāma+bījaṃ) [hṛt](hṛt) [puruṣottama](puruṣottama)
 
 ## mukta-m0-p475-v11862
-[world+agitation](jagatkṣobhaṇa) [all](sarva) [woman+heart](strīhṛdaya) [iti](iti) [splitting](vidāraṇa)
+[world+agitator](jagat+kṣobhaṇa) [all](sarva) [woman+heart](strī+hṛdaya) [thus](iti) [piercer](vidāraṇa)
 
 ## mukta-m0-p475-v11863
-[man+beautiful](manujasundarī) [thus-saying](tyuktvā) [mind+agitation](manonmatha) [minds](manāṃsi) [ca](ca)
+[human+beautiful-woman](manuja+sundarī) [having-said](iti+uktvā) [mind+churner](manaḥ+matha) [minds](manāṃsi) [and](ca)
 
 ## mukta-m0-p475-v11864
-[twice](dvir) [kill](māraya) [paralyze](stambhaya) [twice](dvir) [twice](dvir) [destroy](nāśaya) [word](padaṃ) [say](vadet)
+[twice](dviḥ) [māraya](māraya) [stambhaya](stambhaya) [twice](dviḥ) [twice](dviḥ) [nāśaya+word](nāśaya+padaṃ) [one-should-say](vadet)
 
 ## mukta-m0-p475-v11865
-[parama](parama) [uktvā](uktvā) [ca](ca) [fragrant](surabhe) [fortune-making](saubhāgyakara) [all](sarva) [ca](ca)
+[then](param) [having-said](uktvā) [and](ca) [o-surabhi](surabhe) [good-fortune+maker](saubhāgya+kara) [all](sarva) [and](ca)
 
 ## mukta-m0-p475-v11866
-[with-disc](cakreṇa) [with-mace](gadayā) [ca](ca) [iti](iti) [with-sword](khaḍgena) [iti](iti) [together](samuccaret)
+[with-discus](cakreṇa) [with-mace](gadayā) [and](ca) [thus](iti) [with-sword](khaḍgena) [thus](iti) [one-should-utter](samuccaret)
 
 ## mukta-m0-p475-v11867
-[bond+bond](bandhabandha) [iti](ityaṃkuśena) [twice](dvir) [terrify](trāsaya) [do](kuru) [pair](dvayam)
+[bind+bind](bandha+bandha) [thus](iti) [with-goad](aṃkuśena) [twice](dviḥ) [terrify](trāsaya) [kuru+pair](kuru+dvayam)
 
 ## mukta-m0-p475-v11868
-[to-me](me) [accomplished](siddhaṃ) [becomes](bhavati) [klīṃ](klīṃ) [huṃ](huṃ) [phaṭ](phaṭ) [namaḥ](namo) [hrīṃ](hrīṃ) [ramā](ramāṃ) [say](vadet)
+[to-me](me) [accomplished](siddhaṃ) [becomes](bhavati) [klīṃ](klīṃ) [huṃ](huṃ) [phaṭ](phaṭ) [namaḥ](namaḥ) [hrīṃ](hrīṃ) [ramā](ramāṃ) [one-should-say](vadet)
 
 ## mukta-m0-p475-v11869
-[difference](bhedān) [of-him](asya) [I-will-declare](pravakṣyāmi) [desire+color+difference](kāmanāvarṇabhedataḥ)
+[variations](bhedān) [of-this](asya) [I-shall-declare](pravakṣyāmi) [according-to-desire+syllable+difference](kāmanā+varṇa+bhedataḥ)
 
 ## mukta-m0-p475-v11870
-[knowledge+initiated](jñānadīkṣī) [ca](ca) [renouncer](sannyāsī) [who](yaḥ) [tu](tu) [only-vaiṣṇava](kevalavaiṣṇavaḥ)
+[knowledge+initiated](jñāna+dīkṣī) [and](ca) [renunciant](sannyāsī) [who](yaḥ) [indeed](tu) [exclusively+vaiṣṇava](kevala+vaiṣṇavaḥ)
 
 ## mukta-m0-p475-v11871
-[paralyze+pair](stambhayadvitayaṃ) [say](brūyāt) [thus](tathā) [delude+pair](sammohayadvayam)
+[stambhaya+pair](stambhaya+dvitayaṃ) [one-should-say](brūyāt) [likewise](tathā) [sammohaya+pair](sammohaya+dvayam)
 
 ## mukta-m0-p475-v11872
-[before](pūrvaṃ) [all+word](samastaśabdaṃ) [ca](ca) [join](yojayet) [twice](dvidhā) [iti](reti) [ca](ca)
+[previously](pūrvaṃ) [entire+word](samasta+śabdaṃ) [and](ca) [one-should-apply](yojayet) [twice+dhara](dvi+dhara) [thus](iti) [and](ca)
 
 ## mukta-m0-p475-v11873
-[place](sthāne) [of-lakṣmī](lakṣmyā) [iti](iti) [said](procya) [differences](bhedāḥ) [four](catvāra) [indeed](eva) [hi](hi)
+[in-place](sthāne) [of-lakṣmī](lakṣmyāḥ) [thus](iti) [having-said](procya) [variations](bhedāḥ) [four](catvāraḥ) [indeed](eva) [verily](hi)
 
 ## mukta-m0-p475-v11874
-[three-worlds+deluding](trailokhyamohano) [named](nāma) [deity](devatā) [puruṣottama](puruṣottamaḥ)
+[three-worlds+deluder](trailokhya+mohanaḥ) [name](nāma) [deity](devatā) [puruṣottama](puruṣottamaḥ)
 
 ## mukta-m0-p475-v11875
-[six+limbs](ṣaḍaṅgeṣu) [words](padāni) [here](atra) [say](vadet) [ca](ca) [puruṣottama](puruṣottama)
+[in-six+limbs](ṣaṭ+aṅgeṣu) [words](padāni) [here](atra) [one-should-say](vadet) [and](ca) [puruṣottama](puruṣottama)
