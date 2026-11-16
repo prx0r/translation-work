@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p05-v101
-that [sa] cloth [vastram] with-gold [sahiraṇyam] and [ca] with-kūrca-etc [sakūrcādīni] place [vinyaset]
+[he](sa) [cloth](vastraṃ) [with+gold](sa+hiraṇyaṃ) [and](ca) [with+kuśa-grass+etc](sa+kūrca+ādīni) [should-place](vinyaset)
 
 ## mukta-m0-p05-v102
-strength-transforming [balavikariṇīm] strength-crushing [balapramathinīm] all-beings-subduing [sarvabhūtadamanīm]
+[balavikariṇīm](balavikariṇīṃ) [balapramathinīṃ](balapramathinīṃ) [all+beings+subduing](sarva+bhūta+damanīm)
 
 ## mukta-m0-p05-v103
-from-heart-etc [hṛdayādīṣasaṃghaiś] and [ca] worship [pūjayet] tu [tu] according-to-rite [vidhānataḥ]
+[in+heart+etc](hṛdaya+ādīṣu) [with+groups](saṃghaiś+ca) [should-worship](pūjayet+tu) [according-to-rule](vidhānataḥ)
 
 ## mukta-m0-p05-v104
-palāśa [pālāśaḥ] eastern-side [pūrvatobhāge] aśvattha [aśvatthaṃ] southern [dakṣiṇe] thus [tathā]
+[pālaśa](pālāśaḥ) [in+eastern+side](pūrva+taḥ+bhāge) [aśvattha](aśvatthaṃ) [in+south](dakṣiṇe) [likewise](tathā)
 
 ## mukta-m0-p05-v105
-udumbara [udumbaraṃ] thus-northeast [tathaiśānyāṃ] palāśa-or [pālāśairvāpi] offered [hūyate]
+[udumbara](udumbaraṃ) [likewise](tathā) [in+northeast](aiśānyāṃ) [or+with+pālaśa-sticks](pālāśaiḥ+vā+api) [is-offered](hūyate)
 
 ## mukta-m0-p05-v106
-fuel [samidhaṃ] sadya-mantra [sadyamantreṇa] īśāna [īśānena] ghee [ājyam] eva [eva] ca [ca]
+[fuel-stick](samidhaṃ) [with+sadya-mantra](sadya+mantreṇa) [with+īśāna-mantra](īśānena) [ghee](ājyam) [indeed](eva) [and](ca)
 
 ## mukta-m0-p05-v107
-mustard [sarṣapān] sadya-mantra [sadyamantreṇa] netra-mantra [netreṇa] tu [tu] barley [yavān] thus [tathā]
+[mustard-seeds](sarṣapān) [with+sadya-mantra](sadya+mantreṇa) [with+netra-mantra](netreṇa) [but](tu) [barley-grains](yavān) [likewise](tathā)
 
 ## mukta-m0-p05-v108
-thousand [sahasraṃ] or [vā] half [tadardhaṃ] or [vā] half [tadardhaṃ] or [vāpi] offered [hūyate]
+[thousand](sahasraṃ) [or](vā) [its+half](tat+ardhaṃ) [or](vā) [its+half](tat+ardhaṃ) [or+also](vā+api) [is-offered](hūyate)
 
 ## mukta-m0-p05-v109
-after-offerings [dravyānte] vyāhṛti [vyāhṛtiṃ] having-offered [hutvā] book [pustakaṃ] touch [sparśayet] heart [hṛdā]
+[at+substance+end](dravya+ante) [vyāhṛti](vyāhṛtiṃ) [having-offered](hutvā) [book](pustakaṃ) [should-touch](sparśayet) [with+heart-mantra](hṛdā)
 
 ## mukta-m0-p05-v110
-sviṣṭa-agni [sviṣṭamagni] mantra [mantreṇa] offer [juhuyāt] thereafter [tadanantare]
+[sviṣṭakṛt+of+fire](sviṣṭam+agne) [thus](iti) [with+mantra](mantreṇa) [should-offer](juhuyāt) [thereafter](tat+anantare)
 
 ## mukta-m0-p05-v111
-that-that-āgama-seed [tattadāgamabījena] sprinkle [prokṣayet] vessel [bardhanīṃ] then [tataḥ]
+[with+that+respective+āgama+seed](tat+tat+āgama+bījena) [should-sprinkle](prokṣayet) [vardhanī-vessel](vardhanīṃ) [then](tataḥ)
 
 ## mukta-m0-p05-v112
-oblation [havir] offer [nivedayet] afterwards [paścāt] betel [tāmbūlaṃ] give [dāpayet] then [tataḥ]
+[food-offering](havir) [should-offer](nivedayet) [afterwards](paścāt) [betel](tāmbūlaṃ) [should-give](dāpayet) [then](tataḥ)
 
 ## mukta-m0-p05-v113
-brāhmaṇas [brāhmaṇān] worship [pūjayet] there [tatra] seven-girls [saptakanyāḥ] and [ca] worship [pūjayet]
+[brahmins](brāhmaṇān) [should-worship](pūjayet) [there](tatra) [seven+maidens](sapta+kanyāḥ) [and](ca) [should-worship](pūjayet)
 
 ## mukta-m0-p05-v114
-kāpāla [kāpālaṃ] pañcarātra [pañcarātraṃ] ca [ca] six [ṣaḍ] these [ete] conventions [samayāḥ] remembered [smṛtāḥ]
+[kāpāla](kāpālaṃ) [pañcarātra](paṃcarātraṃ) [and](ca) [six+these](ṣaṭ+ete) [traditions](samayāḥ) [are-remembered](smṛtāḥ)
 
 ## mukta-m0-p05-v115
-tantra-mixing-fault [tantrasaṃkaradoṣeṇa] king-kingdom [rājarāṣṭraṃ] destroyed [vinaśyati]
+[by+tantra+mixture+fault](tantra+saṃkara+doṣeṇa) [king+kingdom](rāja+rāṣṭraṃ) [is-destroyed](vinaśyati)
 
 ## mukta-m0-p05-v116
-twenty-eight-divisions [aṣṭāviṃśatibhedena] śaiva-division [śaivabhedaṃ] prescribed [vidhīyate]
+[by+twenty-eight+divisions](aṣṭāviṃśati+bhedena) [śaiva+division](śaiva+bhedaṃ) [is-prescribed](vidhīyate)
 
 ## mukta-m0-p05-v117
-initiated [dīkṣitasya] heroic [subīrasya] śiva-devotion-engaged [śivabhaktiratasya] ca [ca]
+[of+initiated](dīkṣitasya) [of+noble-hero](su+bīrasya) [in+śiva+devotion+delighting](śiva+bhakti+ratasya) [and](ca)
 
 ## mukta-m0-p05-v118
-uninitiated [adīkṣitaṃ] not [na] heard [śrotavyaṃ] not [na] given [deyaṃ] to-whomsoever [yasya kasya cit]
+[by+uninitiated](adīkṣitaṃ) [not](na) [to-be-heard](śrotavyaṃ) [not](na) [to-be-given](deyaṃ) [to+whomsoever](yasya+kasya+cit)
 
 ## mukta-m0-p05-v119
-tantra-descent [tantrāvatāra] eva [eva] said [uktaṃ] pañcākṣara [pañcākṣaraṃ] then [tataḥ] hear [śṛṇu]
+[tantra+descent](tantra+avatāram) [thus](eva) [stated](uktam) [pañcākṣara](paṃcākṣaraṃ) [then](tataḥ) [hear](śṛṇu)
 
 ## mukta-m0-p05-v120
-thus [iti] vīratantre [vīratantre] ṣaṭsahasrikā [ṣaṭsahasrikāyāṃ] tantra-descent [tantrāvatāraḥ] second [dvitīyaḥ] chapter [paṭalaḥ]
+[thus](iti) [in+vīra-tantra](vīra+tantre) [in+six-thousand](ṣaṭ+sahastrikāyāṃ) [tantra+descent](tantra+avatāraḥ) [second](dvitīyaḥ) [chapter](paṭalaḥ)
 
 ## mukta-m0-p05-v121
-śrī-pañcākṣara-kalpa [śrīpaṃcākṣarakalpaṃ] ca [ca] all [tatsarvaṃ] speak [vada] me [me] lord [prabho]
+[śrī+pañcākṣara+ritual](śrī+paṃcākṣara+kalpaṃ) [and](ca) [that+all](tat+sarvaṃ) [tell](vada) [to-me](me) [o-lord](prabho)
 
 ## mukta-m0-p05-v122
-salutation-joined [namaskāreṇa saṃyuktaṃ] śiva [śiva] thus [iti] two-letters [akṣaradvayam]
+[with+obeisance](namaskāreṇa) [joined](saṃyuktaṃ) [śiva](śiva) [thus](iti) [syllable+pair](akṣara+dvayam)
 
 ## mukta-m0-p05-v123
-that-vara-end [tadvargāntaṃ] seventh [saptamaṃ] syāt [syāt] pañcākṣara [pañcākṣaram] thus [iti] remembered [smṛtam]
+[of-that+class+end](tat+varga+antaṃ) [seventh](saptamaṃ) [should-be](syāt) [pañcākṣara](paṃcākṣaram) [thus](iti) [remembered](smṛtam)
 
 ## mukta-m0-p05-v124
-dative [caturthyā] tu [tu] joined [samāyuktaṃ] pañcākṣara [pañcākṣaram] thus [iti] remembered [smṛtam]
+[with+fourth-case-ending](caturthyā) [but](tu) [joined](samāyuktaṃ) [pañcākṣara](paṃcākṣaram) [thus](iti) [remembered](smṛtam)
 
 ## mukta-m0-p05-v125
-yakāra-joined [yakāreṇa samāyuktaṃ] pañcākṣara [pañcākṣaram] here [iha] said [ucyate]
+[with+ya-syllable](ya+kāreṇa) [joined](samāyuktaṃ) [pañcākṣara](paṃcākṣaram) [here](iha) [is-called](ucyate)
