@@ -20,7 +20,7 @@
 [declared](nigaditaḥ) [meter](chando) [gāyatra](gāyatram) [is-called](ucyate)
 
 ## mukta-m0-p283-v7057
-[six+limbs](ṣaṭ+aṃgāni) [meditation](dhyānam) [of-this](asya) [is-described](nirūpyate)
+[six+limbs](ṣaḍ+aṃgāni) [meditation](dhyānam) [of-this](asya) [is-described](nirūpyate)
 
 ## mukta-m0-p283-v7058
 [noose+rosary+tusk](pāśa+akṣa+sūtra+daśanān) [holding](dhārayantaṃ) [and](tathā) [goad](aṃkuśam)
@@ -29,13 +29,13 @@
 [midday+sun+resembling](madhyāhna+āditya+saṃkāśaṃ) [with-beautiful+śakti](cāru+śaktyā) [endowed](samanvitam)
 
 ## mukta-m0-p283-v7060
-[first+enclosure](prathama+āvṛttiḥ) [with-limbs](aṃgaiḥ) [should-be](syāt) [in-petal+six](dala+ṣaṭke) [then](tataḥ) [after](param)
+[first+enclosure](prathamā+āvṛttiḥ) [with-limbs](aṃgaiḥ) [should-be](syāt) [in-petal+six](dala+ṣaṭke) [then](tataḥ) [after](param)
 
 ## mukta-m0-p283-v7061
-[one-should-worship](pūjayet) [outside](bāhye) [in-ground-enclosure](bhū+pure) [world+guardians](loka+pālakān)
+[one-should-worship](pūjayet) [outside](bāhye) [in-ground-enclosure](bhū+pure) [world-guardians](loka+pālakān)
 
 ## mukta-m0-p283-v7062
-[one-should-repeat](japet) [mantra](mantraṃ) [its+tenth-part](tat+daśāṃśaṃ) [concentrated](samāhitaḥ)
+[one-should-recite](japet) [mantra](mantraṃ) [its+tenth-part](tat+daśāṃśaṃ) [concentrated](samāhitaḥ)
 
 ## mukta-m0-p283-v7063
 [one-should-do](kuryāt) [thus](evaṃ) [accomplished](siddho) [should-become](bhavet) [mantra](manuḥ)
@@ -47,10 +47,10 @@
 [obtains](labhet) [maiden](kanyām) [this](enaṃ) [who](yo) [worships](bhajate) [man](naraḥ)
 
 ## mukta-m0-p283-v7066
-[and](ca) [maha+thus](maha+iti) [having-said](ukatvā) [ṅa-ending](ṅa+antaṃ) [gaṇapati](gaṇapatiṃ) [again](punaḥ)
+[and](ca) [maha-iti](maha+iti) [having-said](ukatvā) [ending-in-ṅa](ṅa+antaṃ) [gaṇapati](gaṇapatiṃ) [again](punaḥ)
 
 ## mukta-m0-p283-v7067
-[is-declared](ākhyāto) [deity](devaḥ) [śakti+vināyaka](śakti+vināyakaḥ)
+[is-declared](ākhyāto) [deity](devaḥ) [śakti-vināyaka](śakti+vināyakaḥ)
 
 ## mukta-m0-p283-v7068
 [with-mantra+syllables](mantra+arṇaiḥ) [limb+formation](aṅga+kḷptiḥ) [here](iha) [is-stated](uditā)
@@ -62,13 +62,13 @@
 [jewel-made](maṇi+mayaṃ) [crown](mukuṭaṃ) [wearing](bibhrataṃ) [lord](prabhum)
 
 ## mukta-m0-p283-v7071
-[on-seat](pīṭhe) [by-brahmā+gaṇeśa+path](viri+vighneśa+vartmanā)
+[on-seat](pīṭhe) [by-brahmā-vighneśa+method](viri+vighneśa+vartmanā)
 
 ## mukta-m0-p283-v7072
 [with-cakes](apūpaiḥ) [with-ghee+mixed](ghṛta+saṃyuktaiḥ) [according-to-rule](vidhi+vat) [in-worshipped+fire](pūjita+anale)
 
 ## mukta-m0-p283-v7073
-[accomplished+mantra](siddha+manuḥ) [practitioner](mantrī) [rituals](prayogān) [according-to-rule](vidhi+vat) [should-perform](caret)
+[accomplished+mantra](siddha+manuḥ) [practitioner](mantrī) [rites](prayogān) [according-to-rule](vidhi+vat) [should-perform](caret)
 
 ## mukta-m0-p283-v7074
 [with-coconuts](nārikelaiḥ) [and](ca) [oblation](homo) [world+subduing](loka+vaśaṅkaraḥ)
