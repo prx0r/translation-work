@@ -2,7 +2,7 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p57-v1401
-[thus](evaṃ) [there](tatra) [formerly](purā) [by-Hemalekha](hemalekhayā) [indeed](khalu) [awakened](bodhitaḥ)
+[thus](evaṃ) [there](tatra) [formerly](purā) [by-Hemalekha](hemalekhayā) [indeed](khalu) [instructed](bodhitaḥ)
 
 ## mukta-m0-p57-v1402
 [women+children+and-others](strī+bāla+pramukhāḥ) [all](sarve) [became](jātā) [knowers-of-higher+and-lower](jñāta+para+avarāḥ)
@@ -11,7 +11,7 @@
 [therefore](tasmāt) [in-desire-for-the-highest-good](śreyaḥ+vāñchane) [indeed](tu) [devoted-to-resort-to-the-good](sat+saṃśraya+paraḥ) [one-should-be](bhavet)
 
 ## mukta-m0-p57-v1404
-[because](yasmāt) [from-association-with-Hemalekha](hemalekhā+saṅgāt) [all](sarve) [liberated](muktā) [became](jātāḥ) [therefore](tasmāt) [devoted-to-resort-to-the-virtuous](sajjana+saṃśraya+paraḥ)
+[because](yasmāt) [from-association-with-Hemalekha](hemalekhā+saṅgāt) [all](sarve) [liberated](muktā) [became](jātāḥ) [therefore](tasmāt) [devoted-to-resort-to-the-good](sajjana+saṃśraya+paraḥ)
 
 ## mukta-m0-p57-v1405
 [Bhargava](bhārgavaḥ) [with-doubting-mind](sandigdha+manāḥ) [to-ask](praṣṭuṃ) [began](samupacakrame)
@@ -32,19 +32,19 @@
 [not](na) [established](upapannaṃ) [in-every-way](sarvathā) [this](etat) [how](kathaṃ) [mind](cittaṃ) [could-ascend](samāruhet)
 
 ## mukta-m0-p57-v1411
-[thus](iti) [asked](āpṛṣṭaḥ) [Dattaguru](datta+guruḥ) [spoke](avadat) [to-Bhargava](bhārgavaṃ) [towards](prati)
+[thus](iti) [asked](āpṛṣṭaḥ) [Datta-guru](datta+guruḥ) [spoke](avadat) [to-Bhargava](bhārgavaṃ) [towards](prati)
 
 ## mukta-m0-p57-v1412
-[here](atra) [in-the-subject-of-pure-consciousness](śuddha+citi+viṣaye)
+[here](atra) [regarding-the-pure-consciousness](śuddha+citi+viṣaye)
 
 ## mukta-m0-p57-v1413
-[this](etat) [visible-world](dṛśyam) [entire](aśeṣaṃ) [but](tu) [mere-seeing](dṛśi+mātraṃ) [not](na) [and](ca) [other](itarat)
+[this](etat) [visible-world](dṛśyam) [entire](aśeṣaṃ) [indeed](tu) [mere-seeing](dṛśi+mātraṃ) [not](na) [anything-else](ca+itarat)
 
 ## mukta-m0-p57-v1414
-[that](tat) [indeed](eva) [he-says](āha) [this](etat) [thus](iti)
+[that](tat) [indeed](eva) [he-says](āha) [thus](iti) [this](etat) [thus](iti)
 
 ## mukta-m0-p57-v1415
-[this](etat) [visible-world](dṛśyaṃ) [being-an-effect](kārya+bhūtam) [from-arising](utpatteḥ) [from-being-perceived](upalambhataḥ)
+[this](etat) [visible-world](dṛśyaṃ) [being-an-effect](kārya+bhūtam) [from-origination](utpatteḥ) [from-being-perceived](upalambhataḥ)
 
 ## mukta-m0-p57-v1416
 [this](etat) [thus](iti) [effect](kāryaṃ) [object-of-agent's-activity](kartṛ+vyāpāra+viṣayam)
@@ -53,25 +53,25 @@
 [with-newness](nūtanatvena) [indeed](eva) [appears](bhāti) [arising-at-that-moment](tat+kṣaṇa+utpattimat) [world](jagat)
 
 ## mukta-m0-p57-v1418
-[world](jagat) [with-newness](nūtanatvena) [indeed](eva) [every-moment](pratikṣaṇaṃ) [appears](bhāti) [therefore](tasmāt) [this-is-the-meaning](iti+arthaḥ) [and-this](etat) [later](ca+agre) [will-be](bhaviṣyati)
+[world](jagat) [with-newness](nūtanatvena) [indeed](eva) [every-moment](prati+kṣaṇaṃ) [appears](bhāti) [therefore](tasmāt) [this-is-the-meaning](iti+arthaḥ) [and-this](etat+ca) [later](agre) [will-be](bhaviṣyati)
 
 ## mukta-m0-p57-v1419
-[others](anye) [consisting-of-aggregate-of-objects](padārtha+saṃghāta+mayaṃ) [of-the-nature-of-moving+and-unmoving](sthira+cara+ātmakam)
+[others](anye) [consisting-of-aggregate-of-objects](padārtha+saṃghāta+mayaṃ) [of-the-nature-of-moving-and-unmoving](sthira+cara+ātmakam)
 
 ## mukta-m0-p57-v1420
-[first](prathamam) [explanation](upapādanam) [thus](iti) [to-be-considered](dhyeyam)
+[first](prathamam) [establishment](upapādanam) [thus](iti) [to-be-considered](dhyeyam)
 
 ## mukta-m0-p57-v1421
-[there](tatra) [the-doctrine-of-inherent-nature](svabhāva+vādaḥ) [but](tu) [not](na) [proper](ucitaḥ) [because-of-undue-extension](atiprasaṅgataḥ)
+[there](tatra) [the-doctrine-of-inherent-nature](svabhāva+vādaḥ) [indeed](tu) [not](na) [proper](ucitaḥ) [because-of-over-extension](ati+prasaṅgataḥ)
 
 ## mukta-m0-p57-v1422
-[cause-of-cloth](paṭa+kāraṇaṃ) [why](kutaḥ) [not](na) [should-be](bhavet) [thus](iti) [if](cet) [from-diversity-of-its-own-causes](sva+kāraṇa+vaicityāt) [thus](iti) [understand](gṛhāṇa)
+[cause-of-cloth](paṭa+kāraṇaṃ) [why](kutaḥ) [not](na) [should-be](bhavet) [thus](iti) [if](cet) [from-diversity-of-own-causes](sva+kāraṇa+vaicityāt) [thus](iti) [understand](gṛhāṇa)
 
 ## mukta-m0-p57-v1423
-[from-agreement](saṃvādataḥ) [of-activities](pravṛttīnāṃ) [how](katham) [accidental](ākasmikaṃ) [could-be](bhavet)
+[from-agreement](saṃvādataḥ) [of-activities](pravṛttīnām) [how](katham) [accidental](ākasmikaṃ) [could-be](bhavet)
 
 ## mukta-m0-p57-v1424
 [effect](kāryam) [accidental](ākasmikaṃ) [without-cause](niṣkāraṇaṃ) [how](kathaṃ) [could-be](bhavet)
 
 ## mukta-m0-p57-v1425
-[of-many](bahūnām) [conformity](anurodhaḥ) [indeed](hi) [reasonable](nyāyyaḥ) [by-all](sarvaiḥ) [declared](udāhṛtaḥ)
+[of-many](bahūnām) [conformity](anurodhaḥ) [indeed](hi) [proper](nyāyyaḥ) [by-all](sarvaiḥ) [declared](udāhṛtaḥ)
