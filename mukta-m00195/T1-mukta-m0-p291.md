@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p291-v7251
-[various](nānā) [wonder-making](āścaryakarān) [Kashi-dwelling](kāśīsaṃsthitān) [leaders-of-gaṇas](gaṇanāyakān)
+[various](nānā) [wonder](āścarya) [causing](karān) [in-Kāśī](kāśī) [situated](saṃsthitān) [gaṇa](gaṇa) [leaders](nāyakān)
 
 ## mukta-m0-p291-v7252
-[having-taken](gṛhītvā) [indeed](tu) [yoginī](yoginīṃ) [attendant-female](ceṭikām) [also](api)
+[having-taken](gṛhītvā) [indeed](tu) [yoginī](yoginīm) [and](ca) [female-attendant](ceṭikām) [also](api)
 
 ## mukta-m0-p291-v7253
-[with-eight-enclosures](aṣṭāvaraṇakaiḥ) [eight](aṣṭau) [situated](saṃsthitāḥ) [success-granting](siddhidāyakāḥ)
+[with-eight](aṣṭa) [enclosures](āvaraṇakaiḥ) [eight](aṣṭau) [situated](saṃsthitāḥ) [siddhi](siddhi) [givers](dāyakāḥ)
 
 ## mukta-m0-p291-v7254
-[outside](bahiḥ) [of-Kashi](kāśyā) [proclaimed](kīrtitaḥ) [boundary](paridhiḥ) [indeed](tu) [that](saḥ)
+[outside](bahiḥ) [of-Kāśī](kāśyāḥ) [proclaimed](kīrtitaḥ) [enclosure](paridhiḥ) [indeed](tu) [that](saḥ)
 
 ## mukta-m0-p291-v7255
-[quick-propitiation-equal](kṣipraprasādanasamam) [of-the-eight](aṣṭānāṃ) [practice](sādhanaṃ) [is-remembered](smṛtam)
+[quick](kṣipra) [propitiation](prasādana) [equal](samam) [of-eight](aṣṭānām) [practice](sādhanam) [is-remembered](smṛtam)
 
 ## mukta-m0-p291-v7256
-[as-before](pūrvavat) [and](ca) [here](atra) [quickly](kṣipram) [indeed](eva) [and](ca) [successes](siddhayaḥ)
+[as-before](pūrvavat) [and](ca) [here](atra) [quickly](kṣipram) [indeed](eva) [and](ca) [siddhis](siddhayaḥ)
 
 ## mukta-m0-p291-v7257
-[nāndi-syllable-with-bindu](nāndyarṇassabindus) [that-name-mantra](tannāmamantraḥ) [thus](iti) [is-declared](īritaḥ)
+[nāndya](nāndya) [syllable](arṇaḥ) [with-bindu](sabinduḥ) [his](tat) [name](nāma) [mantra](mantraḥ) [thus](iti) [is-declared](īritaḥ)
 
 ## mukta-m0-p291-v7258
-[śiva-patnī-thus](śivapatnīti) [śaṃ](śaṃ) [śive](śive) [sva-kare-thus](svakareti) [and](ca)
+[śivapatnīti](śivapatnīti) [śaṃ](śaṃ) [śive](śive) [svakareti](svakareti) [and](ca)
 
 ## mukta-m0-p291-v7259
-[is](ni) [fully](rū) [described](pya) [thus](te)
+[is-explained](nirūpyate)
 
 ## mukta-m0-p291-v7260
-[noose](pāśaṃ) [holding](dadhānāṃ) [I-worship](prabhaje) [auspicious-one](śivām)
+[noose](pāśam) [holding](dadhānām) [I-worship](prabhaje) [Śivā](śivām)
 
 ## mukta-m0-p291-v7261
-[accomplished-mantra](siddhamanuḥ) [practitioner](mantrī) [attendant-female](ceṭikāṃ) [and](ca) [should-accomplish](prasādhayet)
+[accomplished](siddha) [mantra](manuḥ) [practitioner](mantrī) [female-attendant](ceṭikām) [and](ca) [should-accomplish](prasādhayet)
 
 ## mukta-m0-p291-v7262
-[having-worshipped](pūjayitvā) [should-recite](japet) [mantra](mantram) [then](tadā) [sounds](nādān) [hears](śṛṇoti) [and](ca)
+[having-worshipped](pūjayitvā) [should-repeat](japet) [mantra](mantram) [then](tadā) [sounds](nādān) [hears](śṛṇoti) [and](ca)
 
 ## mukta-m0-p291-v7263
-[then](tadā) [with-many-gods](anekasuraiḥ) [joined](yuktā) [visible](pratyakṣā) [called](ākhyā) [Śivā](śivā) [becomes](bhavet)
+[then](tadā) [with-many](aneka) [gods](suraiḥ) [united](yuktā) [visible](pratyakṣā) [called](ākhyā) [Śivā](śivā) [becomes](bhavet)
 
 ## mukta-m0-p291-v7264
-[in-a-moment](kṣaṇena) [indeed](eva) [of-mind](manasaḥ) [also](api) [exceeding-speed](ativegavān)
+[in-a-moment](kṣaṇena) [indeed](eva) [of-mind](manasaḥ) [also](api) [exceeding](ati) [speed](vega) [possessing](vān)
 
 ## mukta-m0-p291-v7265
-[deluded](mohitāḥ) [many](bahavaḥ) [people](janāḥ) [become](bhavanti)
+[deluded](mohitāḥ) [many](bahavaḥ) [people](janāḥ)
 
 ## mukta-m0-p291-v7266
-[syllable-lakṣa](varṇalakṣam) [preliminary-rite](puraścaryā) [of-Gaṇeśas](gaṇeśānāṃ) [is-proclaimed](prakīrtitā)
+[syllable](varṇa) [hundred-thousand](lakṣam) [preliminary-rite](puraścaryā) [of-Gaṇeśas](gaṇeśānām) [is-proclaimed](prakīrtitā)
 
 ## mukta-m0-p291-v7267
-[name-mantras](nāmamantrāḥ) [remembered](smṛtāḥ) [mantra-syllable-lakṣa](mantravarṇalakṣam) [preliminary-rite](puraskriyā)
+[name](nāma) [mantras](mantrāḥ) [are-remembered](smṛtāḥ) [mantra](mantra) [syllable](varṇa) [hundred-thousand](lakṣam) [preliminary-rite](puraskriyā)
 
 ## mukta-m0-p291-v7268
-[by-yoginī-service](yoginīsevanāt) [here](atra) [not](na) [by-obstacles](vighnaiḥ) [is-overcome](paribhūyate)
+[yoginī](yoginī) [by-service](sevanāt) [here](atra) [not](na) [by-obstacles](vighnaiḥ) [is-overcome](paribhūyate)
 
 ## mukta-m0-p291-v7269
-[and](ca) [here](atra) [matted-haired](jaṭilā) [poison-bearing](viṣadhāriṇī)
+[and](ca) [here](atra) [matted-haired](jaṭilā) [poison](viṣa) [bearing](dhāriṇī)
 
 ## mukta-m0-p291-v7270
-[from-two-syllables](varṇadvitayāt) [nether-world-dwelling](pātālatalavāsinīm)
+[from-two-syllables](varṇa+dvitayāt) [nether-world](pātāla) [surface](tala) [dwelling](vāsinīm)
 
 ## mukta-m0-p291-v7271
-[healthy](svasthāṃ) [clapping-hands](karatālīm) [charming](manoramām)
+[healthy](svasthām) [hand](kara) [clapping](tālīm) [charming](manoramām)
 
 ## mukta-m0-p291-v7272
-[should-recite](japet) [ten-thousand-in-number](ayutasaṃkhyākaṃ) [calm-minded](śāntātmā) [in-palm-grove](tālakānane)
+[should-repeat](japet) [ten-thousand](ayuta) [in-number](saṃkhyākam) [calm](śānta) [souled](ātmā) [in-palm](tāla) [grove](kānane)
 
 ## mukta-m0-p291-v7273
-[with-camphor-and-aguru](karpūrāguruyuktaiḥ) [and](ca) [filled](pūrṇaṃ) [that](tat) [thrice](triḥ) [circumambulation](pradakṣiṇam)
+[with-camphor](karpūra) [and-agalloch](aguru) [mixed](yuktaiḥ) [and](ca) [full](pūrṇam) [that](tat) [thrice](triḥ) [circumambulation](pradakṣiṇam)
 
 ## mukta-m0-p291-v7274
-[should-recite](japet) [at-night](rātrau) [two-thousand](sahasradvitayaṃ) [mantra](manum)
+[should-repeat](japet) [at-night](rātrau) [thousand](sahasra) [two](dvitayam) [mantra](manum)
 
 ## mukta-m0-p291-v7275
 [comes](āyāti) [light](prakāśaḥ) [very](atīva) [arises](jāyate)
