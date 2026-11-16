@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p27-v651
-[beating](tāḍana) [chief](pramukhaṃ) [action](karmataṃ) [cause](hetuṃ) [tell](kathaya) [lord](prabho)
+[striking](tāḍana) [beginning-with](pramukhaṃ) [action](karma) [that](taṃ) [cause](hetuṃ) [tell](kathaya) [lord](prabho)
 
 ## mukta-m0-p27-v652
-[delusion](mohaṃ) [moment](kṣaṇe) [moment](kṣaṇe) [messenger](dūtyā) [worship](bhajaṃte) [playful-action](narmakarmaṇi)
+[delusion](mohaṃ) [moment](kṣaṇe) [in-moment](kṣaṇe) [by-messengers](dūtyā) [they-experience](bhajaṃte) [in-playful+action](narma+karmāṇi)
 
 ## mukta-m0-p27-v653
-[therefore](tasmāt) [laziness](alasatāṃ) [obtained](prāptā) [not](na) [melt-indeed](dravaṃtyeva) [messengers](dūtikāḥ)
+[therefore](tasmāt) [languor](alasatāṃ) [having-attained](prāptā) [not](na) [melt](dravaṃti) [indeed](eva) [female-messengers](dūtikāḥ)
 
 ## mukta-m0-p27-v654
-[delays](vilaṃbate) [pleasure](ratiṃ) [give](dātuṃ) [from-that-delay](tadvilaṃbāt) [pleasure-where](sukhaṃkutaḥ)
+[delays](vilaṃbate) [pleasure](ratiṃ) [to-give](dātuṃ) [from-that+delay](tat+vilaṃbāt) [happiness](sukhaṃ) [whence](kutaḥ)
 
 ## mukta-m0-p27-v655
-[they](tāḥ) [awakened](prabuddhāḥ) [enthusiasm](samutsāha) [begin](mārabhaṃte) [pleasure-sacrifice](ratādhvare)
+[they](tāḥ) [awakened](prabuddhāḥ) [with-enthusiasm](samutsāha) [undertake](mārabhaṃte) [in-love+sacrifice](rata+adhvare)
 
 ## mukta-m0-p27-v656
-[messenger](dūtyā) [flows](udravati) [much](bahuśaḥ) [butter](navanītam) [like](iva) [fire](agninā)
+[female-messenger](dūtyā) [melts](udravati) [abundantly](bahuśaḥ) [like-fresh-butter](navanītam+iva) [by-fire](agninā)
 
 ## mukta-m0-p27-v657
-[dissolution](layam) [meaning-dissolution](arthalayaṃ) [and](ca) [then](tadā) [striking-dissolution](ghaṭṭalayaṃ) [beloved](priye)
+[dissolution](layam) [meaning+dissolution](artha+layam) [and](ca) [also](api) [then](tadā) [union+dissolution](ghaṭṭa+layam) [beloved](priye)
 
 ## mukta-m0-p27-v658
-[moving](acaran) [messenger-body](dūtikāgātram) [blissful-state](ānandamayatāṃ) [lead](nayet)
+[moving](acaran) [female-messenger+body](dūtikā+gātram) [bliss+producing](ānanda+mayatāṃ) [should-lead](nayet)
 
 ## mukta-m0-p27-v659
-[oneself](svayam) [extremely](atyaṃta) [steadfast-self](dhīrātmā) [contemplating](bhāvayan) [linga-key](liṃgakuṃcikām)
+[oneself](svayam) [extremely](atyaṃta) [firm-minded](dhīra+ātmā) [contemplating](bhāvayan) [linga+key](liṃga+kuṃcikām)
 
 ## mukta-m0-p27-v660
-[eternal-bliss](nityānandamayaṃ) [essence](tatvaṃ) [world-pervading](jagadvyāptaṃ) [contemplate](viciṃtayat)
+[eternal+bliss+consisting](nitya+ānanda+mayaṃ) [principle](tatvaṃ) [world+pervading](jagat+vyāptaṃ) [should-contemplate](viciṃtayat)
 
 ## mukta-m0-p27-v661
-[this](ayam) [indeed](eva) [great-sacrifice](mahāyajñaḥ) [austerity](tapaḥ) [and](ca) [supreme](anuttamam)
+[this](ayam) [indeed](eva) [great+sacrifice](mahā+yajñaḥ) [austerity](tapaḥ) [and](ca) [this](idam) [unsurpassed](anuttamam)
 
 ## mukta-m0-p27-v662
-[this](idaṃ) [vow](vrataṃ) [great-merit](mahāpuṇyam) [bliss-nonduality-giving](ānandādvaitadāyakaṃ)
+[this](idaṃ) [vow](vrataṃ) [great+merit](mahā+puṇyam) [bliss+non-duality+giving](ānanda+advaita+dāyakaṃ)
 
 ## mukta-m0-p27-v663
-[drop-emission](biṃduvikṣaraṇaṃ) [named](nāma) [sacrifice-concluding-rite](yajñāvabhṛtha) [called](ucyate)
+[semen+emission](biṃdu+vikṣaraṇaṃ) [named](nāma) [sacrifice+concluding-bath](yajña+avabhṛtha) [is-called](ucyate)
 
 ## mukta-m0-p27-v664
-[as](yathā) [as](yathā) [time-length](kāladairghyaṃ) [steadiness-bond](dhairyabaṃdhena) [greatly](bhūyasā)
+[as](yathā) [as](yathā) [time+length](kāla+dairghyaṃ) [firmness+bond](dhairya+baṃdhena) [with-great](bhūyasā)
 
 ## mukta-m0-p27-v665
-[fire](agniḥ) [mouth](mukhe) [mercury-like](pāradavat) [not](na) [steadiness-follows](dhairyamanudhāvati)
+[in-fire+mouth](agni+mukhe) [like-mercury](pārada+vat) [not](na) [firmness](dhairyam) [runs-away](anudhāvati)
 
 ## mukta-m0-p27-v666
-[how](kathaṃ) [becomes](bhavati) [fierce-lord](caṇḍīśa) [stiff](prastabdhaṃ) [white-limb](śuklamaṃgake)
+[how](kathaṃ) [becomes](bhavati) [O-Caṇḍīśa](caṇḍīśa) [retained](prastabdhaṃ) [semen](śuklam) [in-body](aṃgake)
 
 ## mukta-m0-p27-v667
-[extremely-wonder-causing](atyaṃtāścaryajanakaṃ) [if](yadi) [white](śuklasya) [retention](dhāraṇā)
+[extremely+wonder+producing](atyaṃta+āścarya+janakaṃ) [if](yadi) [of-semen](śuklasya) [retention](dhāraṇā)
 
 ## mukta-m0-p27-v668
-[not](na) [even](tu) [effort](yatnena) [arises](jāyate) [white-retention](śukladhāraṇā)
+[not](na) [by-any](tu+kenāpi) [effort](yatnena) [arises](jāyate) [semen+retention](śukla+dhāraṇā)
 
 ## mukta-m0-p27-v669
-[in-love-treatises](kāmataṃtreṣu) [much](bahuśaḥ) [by-enjoyers](bhogibhiḥ) [what](yat) [performed](anuṣṭhitam)
+[in-desire+treatises](kāma+tantreṣu) [in-many-ways](bahuśaḥ) [by-enjoyers](bhogibhiḥ) [which](yat) [practiced](anuṣṭhitam)
 
 ## mukta-m0-p27-v670
-[thus](tadvat) [I-say](vadāmi) [great-fortunate](mahābhāge) [stiffening](staṃbhanaṃ) [nectar-excellences](rasasaṃpadām)
+[that](tat) [I-tell](vadāmi) [O-great-fortunate-one](mahābhāge) [retention](staṃbhanaṃ) [of-essence+wealth](rasa+saṃpadām)
 
 ## mukta-m0-p27-v671
-[is-delighted](nandavyate) [somehow](kathamapi) [mature](prauḍham) [one-nectar](ekorasam) [by-wise](budhaiḥ)
+[is-praised](naṃdavyate) [somehow](kathamapi) [mature](prauḍham) [one+essence](eka+rasaḥ) [by-wise](budhaiḥ)
 
 ## mukta-m0-p27-v672
-[all](sarve) [pi](pi) [elements](dhātavaḥ) [goddess](devī) [own-own-place](svasvasthāne) [made-refuge](kṛtāśrayāḥ)
+[all](sarve) [also](api) [elements](dhātavaḥ) [O-goddess](devī) [in-own+own+place](sva+sva+sthāne) [having-taken-refuge](kṛta+āśrayāḥ)
 
 ## mukta-m0-p27-v673
-[in-nadi-chakras](nāḍīcakreṣu) [all](sarveṣu) [residing](vasan) [even](api) [mercury-lord](raseśvaraḥ)
+[in-channel+circles](nāḍī+cakreṣu) [in-all](sarveṣu) [dwelling](vasan) [even](api) [essence+lord](rasa+īśvaraḥ)
 
 ## mukta-m0-p27-v674
-[some](kecid) [say](vadaṃti) [brow-middle](bhrūmadhye) [some](kecid) [heart-crest-jewel](hṛdiparemaṇau)
+[some](kecit) [say](vadaṃti) [in-eyebrow+middle](bhrū+madhye) [some](kecit) [in-heart](hṛdi) [others](pare) [in-jewel](maṇau)
 
 ## mukta-m0-p27-v675
-[some](kecid) [navel-surface](ūrvostale) [goddess](devi) [some](kecid) [hip-crest](jaghanasīmani)
+[some](kecit) [at-ūrvastala](ūrvastale) [O-goddess](devi) [some](kecit) [at-hip+border](jaghana+sīmani)

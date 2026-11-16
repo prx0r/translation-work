@@ -12,14 +12,14 @@
 },
 {
 "surface": "parirabdhasya",
-"quick_gloss": "embraced"
+"quick_gloss": "enveloped+of"
 },
 {
 "surface": "jīvasya",
-"quick_gloss": "of-soul"
+"quick_gloss": "of-the-individual-soul"
 },
 {
-"surface": "ite",
+"surface": "ete",
 "quick_gloss": "these"
 },
 {
@@ -37,7 +37,7 @@
 "tokens": [
 {
 "surface": "pātayaṃti",
-"quick_gloss": "cast-down"
+"quick_gloss": "they-cause-to-fall"
 },
 {
 "surface": "ca",
@@ -45,11 +45,11 @@
 },
 {
 "surface": "dṛṣṭeṣu",
-"quick_gloss": "in-visible"
+"quick_gloss": "in-visible-things"
 },
 {
 "surface": "duḥkhasaṃkramavarttmasu",
-"quick_gloss": "suffering-pathways"
+"quick_gloss": "in-paths+of-suffering+transition"
 }
 ]
 },
@@ -61,7 +61,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "pāṭava",
+"surface": "pāṭavaḥ",
 "quick_gloss": "skill"
 },
 {
@@ -69,8 +69,12 @@
 "quick_gloss": "also"
 },
 {
-"surface": "vidhāvastu",
-"quick_gloss": "in-ritual"
+"surface": "vidhāvaḥ",
+"quick_gloss": "of-means"
+},
+{
+"surface": "tu",
+"quick_gloss": "indeed"
 },
 {
 "surface": "śaktayaḥ",
@@ -82,7 +86,7 @@
 },
 {
 "surface": "bhāṣitāḥ",
-"quick_gloss": "spoken"
+"quick_gloss": "are-spoken"
 }
 ]
 },
@@ -99,15 +103,15 @@
 },
 {
 "surface": "anenadravyeṇa",
-"quick_gloss": "by-this-substance"
+"quick_gloss": "by-this+substance"
 },
 {
-"surface": "nā",
-"quick_gloss": "not"
+"surface": "nānauṣadhiḥ",
+"quick_gloss": "not+by-various-medicines"
 },
 {
-"surface": "nauṣadhirasātmanā",
-"quick_gloss": "medicine-essence"
+"surface": "rasātmanā",
+"quick_gloss": "by-essence-less"
 }
 ]
 },
@@ -124,11 +128,11 @@
 },
 {
 "surface": "jīvaśarīrasya",
-"quick_gloss": "soul-body"
+"quick_gloss": "of-the-individual-soul+body"
 },
 {
-"surface": "jīvasaṃskāraḥ",
-"quick_gloss": "soul-refinement"
+"surface": "jīvasaṃskāra",
+"quick_gloss": "of-the-individual-soul+impression"
 },
 {
 "surface": "āṃtaraḥ",
@@ -149,19 +153,19 @@
 },
 {
 "surface": "dūti",
-"quick_gloss": "messenger"
+"quick_gloss": "O-messenger"
 },
 {
 "surface": "śarīrasthā",
-"quick_gloss": "body-seated"
+"quick_gloss": "body+abiding"
 },
 {
 "surface": "jīvadeva",
-"quick_gloss": "soul-deity"
+"quick_gloss": "individual-soul+god"
 },
 {
 "surface": "samāśrayā",
-"quick_gloss": "refuge"
+"quick_gloss": "resorting-to"
 }
 ]
 },
@@ -174,15 +178,15 @@
 "tokens": [
 {
 "surface": "svabhāvataḥ",
-"quick_gloss": "naturally"
+"quick_gloss": "by-nature"
 },
 {
 "surface": "manasttrīṇāṃ",
-"quick_gloss": "mind-of-women"
+"quick_gloss": "of-women+mind"
 },
 {
 "surface": "vrīḍājaḍimabhājanam",
-"quick_gloss": "shame-stupidity-vessel"
+"quick_gloss": "of-modesty+inertia+receptacle"
 }
 ]
 },
@@ -195,7 +199,7 @@
 "tokens": [
 {
 "surface": "caṃcalaṃ",
-"quick_gloss": "restless"
+"quick_gloss": "fickle"
 },
 {
 "surface": "kṣaṇikaṃ",
@@ -214,6 +218,10 @@
 "quick_gloss": "crooked"
 },
 {
+"surface": "ca",
+"quick_gloss": "and"
+},
+{
 "surface": "svabhāvataḥ",
 "quick_gloss": "by-nature"
 }
@@ -228,11 +236,11 @@
 "tokens": [
 {
 "surface": "atilolamanastrīṇāṃ",
-"quick_gloss": "excessively-fickle-mind-of-women"
+"quick_gloss": "of-very-restless+mind+women"
 },
 {
 "surface": "sulabhaglāni",
-"quick_gloss": "easily-grief"
+"quick_gloss": "easily+fading"
 },
 {
 "surface": "ca",
@@ -253,19 +261,19 @@
 "tokens": [
 {
 "surface": "naśyaṃti",
-"quick_gloss": "perish"
+"quick_gloss": "they-perish"
 },
 {
 "surface": "vastuśaktīnāṃ",
-"quick_gloss": "substance-powers"
+"quick_gloss": "of-thing+powers"
 },
 {
 "surface": "manuṣe",
-"quick_gloss": "for-man"
+"quick_gloss": "in-human"
 },
 {
 "surface": "vaṇadhārayā",
-"quick_gloss": "by-attachment"
+"quick_gloss": "by-color+holding"
 }
 ]
 },
@@ -277,20 +285,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "argalā",
-"quick_gloss": "bolt"
+"surface": "argalākāmasarvasva",
+"quick_gloss": "of-the-bolt+desire+whole-essence"
 },
 {
-"surface": "kāmasarvasva",
-"quick_gloss": "desire-all"
-},
-{
-"surface": "dvārasya",
-"quick_gloss": "of-gate"
+"surface": "dvārasyā",
+"quick_gloss": "of-the-door"
 },
 {
 "surface": "āśuvilīyate",
-"quick_gloss": "quickly-dissolves"
+"quick_gloss": "quickly+dissolves"
 }
 ]
 },
@@ -303,7 +307,7 @@
 "tokens": [
 {
 "surface": "abhogasamaye",
-"quick_gloss": "at-enjoyment-time"
+"quick_gloss": "at-the-time+of-non-enjoyment"
 },
 {
 "surface": "bhūya",
@@ -331,16 +335,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "ānaṃdanātha+pūjārthaṃ",
-"quick_gloss": "for-bliss-lord-worship"
+"surface": "ānaṃdanātha",
+"quick_gloss": "of-Ānandanātha+worship"
+},
+{
+"surface": "pūjārthaṃ",
+"quick_gloss": "for-the-sake"
 },
 {
 "surface": "parivārāṃ",
-"quick_gloss": "attendants"
+"quick_gloss": "retinue"
 },
 {
 "surface": "ganā",
-"quick_gloss": "hosts"
+"quick_gloss": "groups"
 },
 {
 "surface": "iva",
@@ -357,15 +365,11 @@
 "tokens": [
 {
 "surface": "sakṛto",
-"quick_gloss": "once"
+"quick_gloss": "at-once"
 },
 {
-"surface": "dṛṣṭisaṃcāra",
-"quick_gloss": "glance-movement"
-},
-{
-"surface": "smitamullāsamāṃsalam",
-"quick_gloss": "smile-bright-flesh"
+"surface": "dṛṣṭisaṃcārasmitamullāsamāṃsalam",
+"quick_gloss": "glance+movement+smile+joy+filled"
 }
 ]
 },
@@ -378,11 +382,11 @@
 "tokens": [
 {
 "surface": "līlāvaśena",
-"quick_gloss": "by-play"
+"quick_gloss": "by-play+power"
 },
 {
 "surface": "dehasya",
-"quick_gloss": "of-body"
+"quick_gloss": "of-the-body"
 },
 {
 "surface": "ghūrṇanaṃ",
@@ -390,7 +394,7 @@
 },
 {
 "surface": "cāṭubhāṣaṇam",
-"quick_gloss": "flattering-speech"
+"quick_gloss": "flattering+speech"
 }
 ]
 },
@@ -411,7 +415,7 @@
 },
 {
 "surface": "svecchayaiva",
-"quick_gloss": "by-own-will"
+"quick_gloss": "by-own-will+alone"
 },
 {
 "surface": "prakāśanam",
@@ -428,19 +432,11 @@
 "tokens": [
 {
 "surface": "parīhāsakathālāpaḥ",
-"quick_gloss": "jesting-talk"
+"quick_gloss": "jesting+story+conversation"
 },
 {
-"surface": "kiṃcid",
-"quick_gloss": "somewhat"
-},
-{
-"surface": "āviṣkṛta",
-"quick_gloss": "revealed"
-},
-{
-"surface": "ātrapā",
-"quick_gloss": "shame"
+"surface": "kiṃcidāviṣkṛtātrapā",
+"quick_gloss": "somewhat+revealed+modesty"
 }
 ]
 },
@@ -453,19 +449,15 @@
 "tokens": [
 {
 "surface": "kilikiṃcita",
-"quick_gloss": "kilikincita"
+"quick_gloss": "kilikiñcita+movement"
 },
 {
 "surface": "saṃcāraḥ",
 "quick_gloss": "movement"
 },
 {
-"surface": "krīḍāprāya",
-"quick_gloss": "play-like"
-},
-{
-"surface": "viceṣṭitaḥ",
-"quick_gloss": "gestures"
+"surface": "krīḍāprāyaviceṣṭitaḥ",
+"quick_gloss": "play+mostly+activity"
 }
 ]
 },
@@ -478,11 +470,11 @@
 "tokens": [
 {
 "surface": "pratyaṃgapulakodbhedaḥ",
-"quick_gloss": "limb-goosebumps"
+"quick_gloss": "every-limb+horripilation+arising"
 },
 {
 "surface": "pratyaṃgasvedabindavaḥ",
-"quick_gloss": "limb-sweat-drops"
+"quick_gloss": "every-limb+sweat+drops"
 }
 ]
 },
@@ -498,12 +490,12 @@
 "quick_gloss": "these"
 },
 {
-"surface": "dṛśāguṇā",
-"quick_gloss": "visible-qualities"
+"surface": "dṛśāguṇāḥ",
+"quick_gloss": "by-sight+qualities"
 },
 {
 "surface": "dūtyām",
-"quick_gloss": "in-messenger"
+"quick_gloss": "in-the-messenger"
 },
 {
 "surface": "udbhavaṃti",
@@ -511,7 +503,7 @@
 },
 {
 "surface": "kulāmṛtaiḥ",
-"quick_gloss": "by-clan-nectar"
+"quick_gloss": "by-kula-nectars"
 }
 ]
 },
@@ -523,12 +515,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "athā",
-"quick_gloss": "then"
+"surface": "atha",
+"quick_gloss": "now"
 },
 {
-"surface": "svātmani",
-"quick_gloss": "in-self"
+"surface": "āsvātmani",
+"quick_gloss": "in-one's-own+self"
 },
 {
 "surface": "vinyāsam",
@@ -544,7 +536,7 @@
 },
 {
 "surface": "kalpayet",
-"quick_gloss": "imagine"
+"quick_gloss": "one-should-imagine"
 }
 ]
 },
@@ -561,11 +553,11 @@
 },
 {
 "surface": "cinmātra",
-"quick_gloss": "consciousness-only"
+"quick_gloss": "consciousness+mere+nature"
 },
 {
 "surface": "rūpatvaṃ",
-"quick_gloss": "formness"
+"quick_gloss": "form-ness"
 },
 {
 "surface": "tathā",
@@ -573,11 +565,11 @@
 },
 {
 "surface": "vastu",
-"quick_gloss": "substance"
+"quick_gloss": "thing"
 },
 {
 "surface": "prakalpayet",
-"quick_gloss": "imagine"
+"quick_gloss": "one-should-imagine"
 }
 ]
 },
@@ -590,19 +582,19 @@
 "tokens": [
 {
 "surface": "jīvarūpasya",
-"quick_gloss": "of-soul-form"
+"quick_gloss": "of-individual-soul+form"
 },
 {
 "surface": "mahatā",
-"quick_gloss": "great"
+"quick_gloss": "by-great"
 },
 {
 "surface": "cidvahneḥ",
-"quick_gloss": "consciousness-fire"
+"quick_gloss": "consciousness+fire"
 },
 {
 "surface": "prajvalattanoḥ",
-"quick_gloss": "blazing-body"
+"quick_gloss": "blazing+bodied"
 }
 ]
 },
@@ -619,7 +611,7 @@
 },
 {
 "surface": "puṇyam",
-"quick_gloss": "meritorious"
+"quick_gloss": "merit"
 },
 {
 "surface": "idaṃ",
@@ -627,11 +619,11 @@
 },
 {
 "surface": "sevyaṃ",
-"quick_gloss": "serve"
+"quick_gloss": "to-be-served"
 },
 {
 "surface": "madhurūpaṃ",
-"quick_gloss": "sweet-form"
+"quick_gloss": "honey+form"
 },
 {
 "surface": "rasāyanam",
@@ -647,20 +639,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "parāmṛtasya",
-"quick_gloss": "of-supreme-nectar"
-},
-{
-"surface": "āhutivat",
-"quick_gloss": "offering-like"
+"surface": "parāmṛtasyāhutivat",
+"quick_gloss": "of-supreme-nectar+like-oblation"
 },
 {
 "surface": "śīlayet",
-"quick_gloss": "practice"
+"quick_gloss": "one-should-practice"
 },
 {
 "surface": "sarakakramam",
-"quick_gloss": "gradually"
+"quick_gloss": "with-essence+method"
 }
 ]
 }
