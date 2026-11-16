@@ -11,8 +11,12 @@
 "quick_gloss": "from-initiation"
 },
 {
-"surface": "prāk+magradīkṣāyāḥ",
-"quick_gloss": "before+first-initiation"
+"surface": "prāk",
+"quick_gloss": "before"
+},
+{
+"surface": "magradīkṣāyāḥ",
+"quick_gloss": "magha+initiation"
 },
 {
 "surface": "pitrā",
@@ -24,7 +28,7 @@
 },
 {
 "surface": "bhavati",
-"quick_gloss": "he-becomes"
+"quick_gloss": "becomes"
 }
 ]
 },
@@ -37,11 +41,15 @@
 "tokens": [
 {
 "surface": "mantradīkṣātaḥ",
-"quick_gloss": "from-mantra-initiation"
+"quick_gloss": "from-mantra+initiation"
 },
 {
-"surface": "prāk+devatāsākṣātkārāt",
-"quick_gloss": "before+deity-realization"
+"surface": "prāk",
+"quick_gloss": "before"
+},
+{
+"surface": "devatāsākṣātkārāt",
+"quick_gloss": "deity+direct-realization"
 },
 {
 "surface": "guru",
@@ -53,7 +61,7 @@
 },
 {
 "surface": "bhavati",
-"quick_gloss": "he-becomes"
+"quick_gloss": "becomes"
 }
 ]
 },
@@ -66,7 +74,7 @@
 "tokens": [
 {
 "surface": "devatāsākṣātkārataḥ",
-"quick_gloss": "from-deity-realization"
+"quick_gloss": "from-deity+direct-realization"
 },
 {
 "surface": "devatā",
@@ -77,12 +85,16 @@
 "quick_gloss": "to-be-permitted"
 },
 {
-"surface": "prāk+parāmukteḥ",
-"quick_gloss": "before+supreme-liberation"
+"surface": "prāk",
+"quick_gloss": "before"
+},
+{
+"surface": "parāmukteḥ",
+"quick_gloss": "supreme+liberation"
 },
 {
 "surface": "bhavati",
-"quick_gloss": "he-becomes"
+"quick_gloss": "becomes"
 }
 ]
 },
@@ -98,16 +110,12 @@
 "quick_gloss": "therefore"
 },
 {
-"surface": "guru",
-"quick_gloss": "by-guru"
-},
-{
-"surface": "anujñātaḥ",
-"quick_gloss": "permitted"
+"surface": "gurvanujñātaḥ",
+"quick_gloss": "by-guru+permitted"
 },
 {
 "surface": "viharet",
-"quick_gloss": "one-should-wander"
+"quick_gloss": "one-should-move-freely"
 }
 ]
 },
@@ -120,7 +128,7 @@
 "tokens": [
 {
 "surface": "paramātmā",
-"quick_gloss": "supreme-self"
+"quick_gloss": "supreme+self"
 },
 {
 "surface": "iti",
@@ -129,10 +137,6 @@
 {
 "surface": "bhāvayet",
 "quick_gloss": "one-should-contemplate"
-},
-{
-"surface": "etat",
-"quick_gloss": "this"
 }
 ]
 },
@@ -144,28 +148,24 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "mantra+arthaṃ",
+"surface": "mantrārthaṃ",
 "quick_gloss": "mantra+meaning"
 },
 {
-"surface": "guruḥ",
-"quick_gloss": "guru"
+"surface": "gururāśritaḥ",
+"quick_gloss": "in-guru+resorting"
 },
 {
-"surface": "āśritaḥ",
-"quick_gloss": "resorted-to"
-},
-{
-"surface": "devatā+arthaḥ",
+"surface": "devatārthaḥ",
 "quick_gloss": "deity+meaning"
 },
 {
-"surface": "mantraḥ",
-"quick_gloss": "mantra"
+"surface": "mantra",
+"quick_gloss": "in-mantra+resorting"
 },
 {
 "surface": "āśritaḥ",
-"quick_gloss": "resorted-to"
+"quick_gloss": "resorting"
 },
 {
 "surface": "iti",
@@ -193,12 +193,12 @@
 "quick_gloss": "illumination"
 },
 {
-"surface": "devatāyāḥ",
-"quick_gloss": "of-deity"
-},
-{
 "surface": "ca",
 "quick_gloss": "and"
+},
+{
+"surface": "devatāyāḥ",
+"quick_gloss": "of-deity"
 },
 {
 "surface": "prakāśaḥ",
@@ -206,7 +206,7 @@
 },
 {
 "surface": "kāryaḥ",
-"quick_gloss": "to-be-effected"
+"quick_gloss": "to-be-done"
 }
 ]
 },
@@ -227,23 +227,19 @@
 },
 {
 "surface": "kaṇṭhakūpāt",
-"quick_gloss": "from-throat-pit"
+"quick_gloss": "from-throat+well"
 },
 {
-"surface": "ūrdhvam",
-"quick_gloss": "upward"
-},
-{
-"surface": "ānītaḥ",
-"quick_gloss": "brought"
+"surface": "ūrdhvamānītaḥ",
+"quick_gloss": "upward+brought"
 },
 {
 "surface": "siddhiṃ",
-"quick_gloss": "success"
+"quick_gloss": "accomplishment"
 },
 {
 "surface": "kuryāt",
-"quick_gloss": "should-effect"
+"quick_gloss": "should-make"
 }
 ]
 },
@@ -264,15 +260,15 @@
 },
 {
 "surface": "niṣkāsitaḥ",
-"quick_gloss": "drawn-out"
+"quick_gloss": "emitted"
 },
 {
 "surface": "siddhiṃ",
-"quick_gloss": "success"
+"quick_gloss": "accomplishment"
 },
 {
 "surface": "hanyāt",
-"quick_gloss": "destroys"
+"quick_gloss": "would-destroy"
 }
 ]
 },
@@ -285,19 +281,11 @@
 "tokens": [
 {
 "surface": "sveṣṭeśvaraḥ",
-"quick_gloss": "one's-own-chosen-deity"
+"quick_gloss": "own+chosen+lord"
 },
 {
 "surface": "sveṣṭamantraḥ",
-"quick_gloss": "one's-own-chosen-mantra"
-},
-{
-"surface": "asti",
-"quick_gloss": "is"
-},
-{
-"surface": "iti",
-"quick_gloss": "thus"
+"quick_gloss": "own+chosen+mantra"
 }
 ]
 },
@@ -318,11 +306,7 @@
 },
 {
 "surface": "gopyaḥ",
-"quick_gloss": "to-be-kept-secret"
-},
-{
-"surface": "asti",
-"quick_gloss": "it-is"
+"quick_gloss": "to-be-concealed"
 }
 ]
 },
@@ -339,15 +323,7 @@
 },
 {
 "surface": "anyatra",
-"quick_gloss": "other-than"
-},
-{
-"surface": "na",
-"quick_gloss": "not"
-},
-{
-"surface": "prakāśyaḥ",
-"quick_gloss": "to-be-revealed"
+"quick_gloss": "elsewhere"
 }
 ]
 },
@@ -369,10 +345,6 @@
 {
 "surface": "śiṣyaḥ",
 "quick_gloss": "disciple"
-},
-{
-"surface": "asti",
-"quick_gloss": "is"
 }
 ]
 },
@@ -397,7 +369,7 @@
 },
 {
 "surface": "svaśāstre",
-"quick_gloss": "in-one's-own-scripture"
+"quick_gloss": "in-own+scripture"
 },
 {
 "surface": "śiṣyate",
@@ -430,11 +402,11 @@
 "tokens": [
 {
 "surface": "śiṣṭebhyaḥ",
-"quick_gloss": "to-the-virtuous"
+"quick_gloss": "to-the-disciplined"
 },
 {
 "surface": "svācāreṇa",
-"quick_gloss": "by-one's-own-conduct"
+"quick_gloss": "by-own+conduct"
 },
 {
 "surface": "mudaṃ",
@@ -446,7 +418,7 @@
 },
 {
 "surface": "yacchati",
-"quick_gloss": "who-gives"
+"quick_gloss": "gives"
 },
 {
 "surface": "saḥ",
@@ -467,7 +439,7 @@
 "tokens": [
 {
 "surface": "puṇyapāpayoḥ",
-"quick_gloss": "of-merit-and-sin"
+"quick_gloss": "of-merit+and-sin"
 },
 {
 "surface": "śaithilyaṃ",
@@ -496,15 +468,19 @@
 "tokens": [
 {
 "surface": "śaighryeṇa",
-"quick_gloss": "quickly"
+"quick_gloss": "with-swiftness"
 },
 {
-"surface": "īśvara+dharmam",
-"quick_gloss": "lord's+dharma"
+"surface": "īśvara",
+"quick_gloss": "lord+dharma"
+},
+{
+"surface": "dharmaṃ",
+"quick_gloss": "dharma"
 },
 {
 "surface": "yatati",
-"quick_gloss": "strives-for"
+"quick_gloss": "strives"
 },
 {
 "surface": "saḥ",
@@ -528,12 +504,12 @@
 "quick_gloss": "of-guru"
 },
 {
-"surface": "prakāśanam",
+"surface": "prakāśanaṃ",
 "quick_gloss": "illumination"
 },
 {
 "surface": "mantreśvarayoḥ",
-"quick_gloss": "of-mantra-and-lord"
+"quick_gloss": "of-mantra+and-lord"
 },
 {
 "surface": "gopanam",
@@ -553,8 +529,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "gurumantreśvarāṇām",
-"quick_gloss": "of-guru-mantra-lords"
+"surface": "gurumantreśvarāṇāṃ",
+"quick_gloss": "of-guru+mantra+lords"
 },
 {
 "surface": "gopanam",
@@ -591,7 +567,7 @@
 },
 {
 "surface": "cet",
-"quick_gloss": "then"
+"quick_gloss": "if"
 },
 {
 "surface": "uttarasyāḥ",
@@ -602,7 +578,7 @@
 "quick_gloss": "direction"
 },
 {
-"surface": "tam",
+"surface": "taṃ",
 "quick_gloss": "him"
 },
 {
@@ -627,8 +603,8 @@
 "quick_gloss": "he"
 },
 {
-"surface": "svacchandam",
-"quick_gloss": "by-own-will"
+"surface": "svacchandaṃ",
+"quick_gloss": "by-own+will"
 },
 {
 "surface": "yadi",
@@ -656,12 +632,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "sidhyartham",
-"quick_gloss": "for-success"
+"surface": "sidhyarthaṃ",
+"quick_gloss": "for-accomplishment+purpose"
 },
 {
-"surface": "bhakti+sayutaiḥ",
-"quick_gloss": "with-devotion+endowed"
+"surface": "bhaktisayutaiḥ",
+"quick_gloss": "by-devotion+endowed"
 },
 {
 "surface": "śiṣyaiḥ",
@@ -689,7 +665,7 @@
 "quick_gloss": "guru"
 },
 {
-"surface": "mārga+pradarśakaḥ",
+"surface": "mārgapradarśakaḥ",
 "quick_gloss": "path+shower"
 },
 {
@@ -743,7 +719,7 @@
 "quick_gloss": "they-do"
 },
 {
-"surface": "asmin",
+"surface": "asmiṃś",
 "quick_gloss": "in-this"
 },
 {

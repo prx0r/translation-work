@@ -8,11 +8,11 @@
 "tokens": [
 {
 "surface": "vimarśaḥ",
-"quick_gloss": "reflective-cognition"
+"quick_gloss": "reflective-awareness"
 },
 {
 "surface": "śabda+sambhedād",
-"quick_gloss": "from-connection-with-word"
+"quick_gloss": "from-non-difference+of-word"
 },
 {
 "surface": "vibhedāt",
@@ -20,7 +20,7 @@
 },
 {
 "surface": "savikalpakaḥ",
-"quick_gloss": "conceptual"
+"quick_gloss": "with-conceptualization"
 }
 ]
 },
@@ -33,7 +33,7 @@
 "tokens": [
 {
 "surface": "śabda+sambhedād",
-"quick_gloss": "from-connection-with-word"
+"quick_gloss": "from-non-difference+of-word"
 },
 {
 "surface": "vastūnāṃ",
@@ -41,11 +41,11 @@
 },
 {
 "surface": "vimarśaḥ",
-"quick_gloss": "reflective-cognition"
+"quick_gloss": "reflective-awareness"
 },
 {
 "surface": "savikalpakaḥ",
-"quick_gloss": "conceptual"
+"quick_gloss": "with-conceptualization"
 },
 {
 "surface": "bhavet",
@@ -62,7 +62,7 @@
 "tokens": [
 {
 "surface": "vastu+darśana+rūpaḥ",
-"quick_gloss": "of-the-nature-of-object-perception"
+"quick_gloss": "object+perception+nature"
 },
 {
 "surface": "asau",
@@ -74,7 +74,7 @@
 },
 {
 "surface": "nivikalpakaḥ",
-"quick_gloss": "non-conceptual"
+"quick_gloss": "without-conceptualization"
 }
 ]
 },
@@ -91,7 +91,7 @@
 },
 {
 "surface": "etasya+eva",
-"quick_gloss": "of-this-very"
+"quick_gloss": "of-this+indeed"
 },
 {
 "surface": "vivaraṇaṃ",
@@ -99,14 +99,18 @@
 },
 {
 "surface": "śloka+dvayena",
-"quick_gloss": "by-two-verses"
+"quick_gloss": "by-two+verses"
 },
 {
 "surface": "kriyate",
 "quick_gloss": "is-made"
 },
 {
-"surface": "ayam+iti",
+"surface": "ayam",
+"quick_gloss": "this"
+},
+{
+"surface": "iti",
 "quick_gloss": "thus"
 }
 ]
@@ -120,7 +124,7 @@
 "tokens": [
 {
 "surface": "śabda+sambhinna+rūpaḥ",
-"quick_gloss": "of-form-differentiated-by-word"
+"quick_gloss": "word+differentiated+form"
 },
 {
 "surface": "asau",
@@ -128,7 +132,7 @@
 },
 {
 "surface": "vicāra+ātmā",
-"quick_gloss": "of-the-nature-of-deliberation"
+"quick_gloss": "thought+natured"
 },
 {
 "surface": "avabhāsanaḥ",
@@ -145,7 +149,7 @@
 "tokens": [
 {
 "surface": "vicāra+ātmā",
-"quick_gloss": "of-the-nature-of-deliberation"
+"quick_gloss": "thought+natured"
 },
 {
 "surface": "avabhāsanaṃ",
@@ -153,7 +157,7 @@
 },
 {
 "surface": "yasya",
-"quick_gloss": "of-whom"
+"quick_gloss": "of-which"
 },
 {
 "surface": "saḥ",
@@ -161,7 +165,7 @@
 },
 {
 "surface": "savikalpakaḥ",
-"quick_gloss": "conceptual"
+"quick_gloss": "with-conceptualization"
 },
 {
 "surface": "iti",
@@ -190,7 +194,7 @@
 },
 {
 "surface": "abhinava+ābhāsaḥ",
-"quick_gloss": "new-manifestation"
+"quick_gloss": "new+manifestation"
 },
 {
 "surface": "saḥ",
@@ -202,7 +206,7 @@
 },
 {
 "surface": "anubhava+ātmakaḥ",
-"quick_gloss": "of-the-nature-of-experience"
+"quick_gloss": "experience+natured"
 }
 ]
 },
@@ -219,7 +223,7 @@
 },
 {
 "surface": "anubhava+ātmakaḥ",
-"quick_gloss": "of-the-nature-of-experience"
+"quick_gloss": "experience+natured"
 }
 ]
 },
@@ -239,8 +243,8 @@
 "quick_gloss": "mind"
 },
 {
-"surface": "dvi+prakāra+śakti+yuktaṃ",
-"quick_gloss": "endowed-with-twofold-power"
+"surface": "dviprakāra+śakti+yuktaṃ",
+"quick_gloss": "twofold+nature+power+endowed"
 },
 {
 "surface": "sadā",
@@ -260,8 +264,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "prakāśa+āmarśa+ātmaka+nirvikalpa+savikalpaka+ābhāsa+śakti+dvaya+yuktaṃ",
-"quick_gloss": "endowed-with-two-powers-of-manifestation"
+"surface": "prakāśa+āmarśa+ātmaka",
+"quick_gloss": "light+reflective-awareness+nature"
+},
+{
+"surface": "nirvikalpa+savikalpaka+ābhāsa",
+"quick_gloss": "non-conceptual+conceptual+manifestation"
+},
+{
+"surface": "śakti+dvaya+yuktaṃ",
+"quick_gloss": "two+powers+endowed"
 },
 {
 "surface": "bhavati",
@@ -294,8 +306,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "amūḍha+daśā+ucyate",
-"quick_gloss": "is-called-the-state-of-non-delusion"
+"surface": "amūḍha+daśā",
+"quick_gloss": "non-deluded+state"
+},
+{
+"surface": "ucyate",
+"quick_gloss": "is-called"
 },
 {
 "surface": "suṣuptau",
@@ -303,7 +319,7 @@
 },
 {
 "surface": "āmarśa+abhāvāt",
-"quick_gloss": "due-to-absence-of-reflective-cognition"
+"quick_gloss": "from-absence+of-reflective-awareness"
 },
 {
 "surface": "mūḍhatā",
@@ -340,11 +356,11 @@
 },
 {
 "surface": "dīpa+ādeḥ",
-"quick_gloss": "of-lamp-etc."
+"quick_gloss": "of-lamp+and-others"
 },
 {
 "surface": "prakāśa+nibiḍatvataḥ",
-"quick_gloss": "due-to-density-of-illumination"
+"quick_gloss": "due-to-density+of-illumination"
 }
 ]
 },
@@ -382,7 +398,7 @@
 },
 {
 "surface": "mahā+śūnyam",
-"quick_gloss": "great-void"
+"quick_gloss": "great+void"
 },
 {
 "surface": "iha",
@@ -402,12 +418,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "evaṃ+ākāra+ādi+abhāvāt",
-"quick_gloss": "due-to-absence-of-such-forms-etc."
+"surface": "evākāra+ādi+abhāvāt",
+"quick_gloss": "from-absence+of-such+form+and-others"
 },
 {
 "surface": "mahā+śunyam",
-"quick_gloss": "great-void"
+"quick_gloss": "great+void"
 },
 {
 "surface": "iha",
@@ -439,8 +455,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "vastu+darśana+kāle+api",
-"quick_gloss": "even-at-the-time-of-object-perception"
+"surface": "vastu+darśana+kāle",
+"quick_gloss": "at-time+of-object+perception"
+},
+{
+"surface": "api",
+"quick_gloss": "also"
 },
 {
 "surface": "jāgrati",
@@ -448,7 +468,7 @@
 },
 {
 "surface": "evaṃvidhaṃ",
-"quick_gloss": "of-this-kind"
+"quick_gloss": "of-such-kind"
 },
 {
 "surface": "manaḥ",
@@ -468,8 +488,12 @@
 "quick_gloss": "in-deep-sleep"
 },
 {
-"surface": "avyakta+śakti+prakāśa+nibiḍatvataḥ",
-"quick_gloss": "due-to-density-of-illumination-of-unmanifest-power"
+"surface": "prakāśana+nibiḍatvataḥ",
+"quick_gloss": "due-to-density+of-illumination"
+},
+{
+"surface": "avyakta+śakti",
+"quick_gloss": "of-unmanifest+power"
 }
 ]
 },
@@ -482,7 +506,7 @@
 "tokens": [
 {
 "surface": "viviñcanti",
-"quick_gloss": "they-discriminate"
+"quick_gloss": "they-distinguish"
 },
 {
 "surface": "iti",
@@ -502,12 +526,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "vastu+darśana+kāle+api",
-"quick_gloss": "even-at-the-time-of-object-perception"
+"surface": "vastu+darśana+kāle",
+"quick_gloss": "at-time+of-object+perception"
+},
+{
+"surface": "api",
+"quick_gloss": "also"
 },
 {
 "surface": "ca",
-"quick_gloss": "and"
+"quick_gloss": "indeed"
 },
 {
 "surface": "evaṃ",
@@ -515,7 +543,7 @@
 },
 {
 "surface": "līnaṃ",
-"quick_gloss": "absorbed"
+"quick_gloss": "dissolved"
 },
 {
 "surface": "manaḥ",
@@ -536,10 +564,10 @@
 "tokens": [
 {
 "surface": "vastu+darśana+ātmaka+ghaṭa+ādi+nirvikalpaka+kāle",
-"quick_gloss": "at-the-time-of-non-conceptual-cognition-of-pot-etc.-consisting-of-object-perception"
+"quick_gloss": "at-time+of-non-conceptual+perception"
 },
 {
-"surface": "tulya",
+"surface": "tulyaḥ",
 "quick_gloss": "equal"
 },
 {
@@ -551,8 +579,12 @@
 "quick_gloss": "says"
 },
 {
-"surface": "vastu+iti",
-"quick_gloss": "object-etc."
+"surface": "vastu",
+"quick_gloss": "object"
+},
+{
+"surface": "iti",
+"quick_gloss": "thus"
 }
 ]
 },
@@ -581,7 +613,7 @@
 },
 {
 "surface": "ati+sūkṣma+vivecakāḥ",
-"quick_gloss": "very-subtle-discriminators"
+"quick_gloss": "very+subtle+discriminators"
 }
 ]
 },
@@ -593,8 +625,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "trayam+etat",
-"quick_gloss": "this-triad"
+"surface": "trayam",
+"quick_gloss": "triad"
+},
+{
+"surface": "etat",
+"quick_gloss": "this"
 },
 {
 "surface": "ca",
@@ -605,8 +641,8 @@
 "quick_gloss": "of-one-kind"
 },
 {
-"surface": "prakāśa+nibiḍatvataḥ",
-"quick_gloss": "due-to-density-of-illumination"
+"surface": "prakāśana+nibiḍatvataḥ",
+"quick_gloss": "due-to-density+of-illumination"
 }
 ]
 },
@@ -618,8 +654,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "prakāśa+nibiḍatvam",
-"quick_gloss": "due-to-density-of-illumination"
+"surface": "prakāśana+nibiḍatvam",
+"quick_gloss": "due-to-density+of-illumination"
 },
 {
 "surface": "iti",
@@ -648,7 +684,7 @@
 },
 {
 "surface": "bhāsya+bhedāt",
-"quick_gloss": "due-to-difference-of-what-is-to-be-illuminated"
+"quick_gloss": "from-difference+of-objects-to-be-illuminated"
 },
 {
 "surface": "iti",
@@ -660,7 +696,7 @@
 },
 {
 "surface": "praviniścayaḥ",
-"quick_gloss": "determinate-conclusion"
+"quick_gloss": "definite-conclusion"
 }
 ]
 }
