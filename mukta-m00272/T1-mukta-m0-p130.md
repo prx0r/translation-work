@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p130-v3226
-[tiḥ](tiḥ) [pibasārabhuk](pibasārabhuk)
+[missing](* ) [missing](* ) [missing](* ) [missing](* ) [missing](* ) [missing](* ) [missing](* ) [missing](* ) [missing](* ) [tiḥ](tiḥ) [drinking-essence-eater](piba+sāra+bhuk)
 
 ## mukta-m0-p130-v3227
-[candrabimbadyutirnīlājāsano](candrabimbadyutirnīlājāsano) [bhadravājinī](bhadravājinī)
+[moon-disc-splendor](candra+bimba+dyutiḥ) [blue-goat-seated](nīla+aja+āsanaḥ) [auspicious-horse-rider](bhadra+vājinī)
 
 ## mukta-m0-p130-v3228
-[triṃśābdaśca](triṃśābdaśca) [sahasrāyuḥ](sahasrāyuḥ) [kāmavṛkṣa](kāmavṛkṣa) [phalāśinaḥ](phalāśinaḥ)
+[thirty-years-old](triṃśa+abdaḥ) [and](ca) [thousand-year-lifespan](sahasra+āyuḥ) [wish-tree](kāma+vṛkṣa) [fruit-eaters](phala+āśinaḥ)
 
 ## mukta-m0-p130-v3229
-[bhūtave](bhūtave) [sahasrordhvāvekadik](sahasrordhvāvekadik) [sandhilakṣaṇau](sandhilakṣaṇau)
+[for-beings](bhūtave) [thousand-above-one-direction](sahasra+ūrdhva+eka+dik) [junction-marks](sandhi+lakṣaṇau)
 
 ## mukta-m0-p130-v3230
-[candrabhadrākarādhipau](candrabhadrākarādhipau) [candraraktāṃburugajanau](candraraktāṃburugajanau) [ailāvṛtaḥ](ailāvṛtaḥ)
+[Candrabhadra-and-Akarādhipa](candrabhadra+ākarādhipau) [moon-red-water-born-people](candra+rakta+aṃbu+ruha+janau) [Ailāvṛta](ailāvṛtaḥ)
 
 ## mukta-m0-p130-v3231
-[antarbhāvaṃ](antarbhāvaṃ) [kuruṣveva](kuruṣveva) [sānnidhyātkatamastadā](sānnidhyātkatamastadā)
+[inner-state](antarbhāvaṃ) [make](kuruṣva) [indeed](eva) [by-proximity](sānnidhyāt) [which](katamaḥ) [then](tadā)
 
 ## mukta-m0-p130-v3232
-[janasyaindradviṣo](janasyaindradviṣo) [nityaṃ](nityaṃ) [aśvato](aśvato) [lāṃkulaṃ](lāṃkulaṃ) [phalam](phalam)
+[of-people](janasya) [Indra's-enemies](indra+dviṣaḥ) [always](nityaṃ) [from-horse](aśvataḥ) [tail](lāṃkulaṃ) [fruit](phalam)
 
 ## mukta-m0-p130-v3233
-[janasyābdasahasrāṇi](janasyābdasahasrāṇi) [nyagrodhaphalamaśnutaḥ](nyagrodhaphalamaśnutaḥ)
+[of-people](janasya) [year-thousands](abda+sahasrāṇi) [banyan-fruit](nyagrodha+phalam) [they-eat](aśnutaḥ)
 
 ## mukta-m0-p130-v3234
-[raukmaṃ](raukmaṃ) [kiṃ](kiṃ) [puruṣe](puruṣe) [plakṣa](plakṣa) [bhojanābdāyuta](bhojanābdāyuta) [sthitiḥ](sthitiḥ)
+[golden](raukmaṃ) [what](kiṃ) [for-man](puruṣe) [fig-tree](plakṣa) [food-year-ten-thousand](bhojana+abda+ayuta) [duration](sthitiḥ)
 
 ## mukta-m0-p130-v3235
-[naveṣvavasthā](naveṣvavasthā) [bhedo'sti](bhedo'sti) [vivarṣeṣu](vivarṣeṣu) [kṛtādiṣu](kṛtādiṣu)
+[in-nines](naveṣu) [condition](avasthā) [difference](bhedaḥ) [exists](asti) [in-various-ages](vi+varṣeṣu) [in-Kṛta-etc.](kṛta+ādiṣu)
 
 ## mukta-m0-p130-v3236
-[nānājana](nānājana) [padākīrṇaṃ](padākīrṇaṃ) [jarārogabhayānvitam](jarārogabhayānvitam)
+[by-various-people](nānā+jana) [groups-filled](pada+ākīrṇaṃ) [with-old-age-disease-fear](jarā+roga+bhaya+anvitam)
 
 ## mukta-m0-p130-v3237
-[teṣāṃ](teṣāṃ) [śatāyuḥ](śatāyuḥ) [kḷptiśca](kḷptiśca) [caturyugavaśātpunaḥ](caturyugavaśātpunaḥ)
+[of-them](teṣāṃ) [hundred-year-lifespan](śata+āyuḥ) [arrangement](kḷptiḥ) [and](ca) [by-four-ages-influence](catur+yuga+vaśāt) [again](punaḥ)
 
 ## mukta-m0-p130-v3238
-[bhūrādīnāṃ](bhūrādīnāṃ) [samastānāṃ](samastānāṃ) [phalabhūḥ](phalabhūḥ) [karmabhūryataḥ](karmabhūryataḥ)
+[of-Bhū-and-others](bhūḥ+ādīnāṃ) [of-all](samastānāṃ) [fruit-land](phala+bhūḥ) [action-land](karma+bhūḥ) [because](yataḥ)
 
 ## mukta-m0-p130-v3239
-[bhūmibhuktiphalaṃ](bhūmibhuktiphalaṃ) [prāpya](prāpya) [śivaṃ](śivaṃ) [saṃprāpya](saṃprāpya) [yatnataḥ](yatnataḥ)
+[earth-enjoyment-fruit](bhūmi+bhukti+phalaṃ) [having-obtained](prāpya) [Śiva](śivaṃ) [having-attained](saṃprāpya) [with-effort](yatnataḥ)
 
 ## mukta-m0-p130-v3240
-[indradvīpādayastatra](indradvīpādayastatra) [śṛṇutvaṃ](śṛṇutvaṃ) [nandikeśvara](nandikeśvara)
+[Indra-island-and-others](indra+dvīpa+ādayaḥ) [there](tatra) [hear](śṛṇu) [you](tvaṃ) [O-Nandikeśvara](nandikeśvara)
 
 ## mukta-m0-p130-v3241
-[nāgadvīpāśca](nāgadvīpāśca) [sābhyaśca](sābhyaśca) [gāndharvo](gāndharvo) [vāruṇastathā](vāruṇastathā)
+[Nāga-islands](nāga+dvīpāḥ) [and](ca) [with-Sābha](sābhyaḥ) [and](ca) [Gāndharva](gāndharvaḥ) [Vāruṇa](vāruṇaḥ) [likewise](tathā)
 
 ## mukta-m0-p130-v3242
-[nānājāti](nānājāti) [samākīrṇā](samākīrṇā) [bhaktākhye](bhaktākhye) [pratikīrtitāḥ](pratikīrtitāḥ)
+[by-various-kinds](nānā+jāti) [crowded](samākīrṇāḥ) [in-Bhaktā](bhaktākhye) [well-renowned](pratikīrtitāḥ)
 
 ## mukta-m0-p130-v3243
-[nadānāṃ](nadānāṃ) [ca](ca) [nadīnāṃ](nadīnāṃ) [ca](ca) [jñeyāḥ](jñeyāḥ) [pañcaśatāni](pañcaśatāni) [tu](tu)
+[of-rivers-masculine](nadānāṃ) [and](ca) [of-rivers-feminine](nadīnāṃ) [and](ca) [to-be-known](jñeyāḥ) [five-hundreds](pañca+śatāni) [indeed](tu)
 
 ## mukta-m0-p130-v3244
-[himavaduttare](himavaduttare) [bhāge](bhāge) [kailāsaśikharaṃ](kailāsaśikharaṃ) [mahat](mahat)
+[of-Himavat](himavat) [in-northern](uttare) [part](bhāge) [Kailāsa-peak](kailāsa+śikharaṃ) [great](mahat)
 
 ## mukta-m0-p130-v3245
-[sarvālaṃkāra](sarvālaṃkāra) [saṃyuktaḥ](saṃyuktaḥ) [divyavṛkṣairalaṃkṛtaḥ](divyavṛkṣairalaṃkṛtaḥ)
+[with-all-ornaments](sarva+alaṃkāra) [endowed](saṃyuktaḥ) [with-divine-trees](divya+vṛkṣaiḥ) [adorned](alaṃkṛtaḥ)
 
 ## mukta-m0-p130-v3246
-[aṣṭaṣaṣṭi](aṣṭaṣaṣṭi) [mahākṣetraṃ](mahākṣetraṃ) [vāraṇāsyādi](vāraṇāsyādi) [pāvanam](pāvanam)
+[sixty-eight](aṣṭa+ṣaṣṭi) [great-sacred-places](mahā+kṣetraṃ) [Vārāṇasī-etc.](vāraṇāsī+ādi) [purifying](pāvanam)
 
 ## mukta-m0-p130-v3247
-[mahendro](mahendro) [malayassahyaḥ](malayassahyaḥ) [śaktimānṛkṣaparvataḥ](śaktimānṛkṣaparvataḥ)
+[Mahendra](mahendraḥ) [Malaya](malayaḥ) [Sahya](sahyaḥ) [Śaktimān](śaktimān) [Ṛkṣa-mountain](ṛkṣa+parvataḥ)
 
 ## mukta-m0-p130-v3248
-[dvīpālaṃ](dvīpālaṃ) [kārasaṃyuktāḥ](kārasaṃyuktāḥ) [cāmīkaranibhāḥ](cāmīkaranibhāḥ) [śubhāḥ](śubhāḥ)
+[island-protecting](dvīpa+alaṃ+kāra) [endowed-with](saṃyuktāḥ) [gold-resembling](cāmīkara+nibhāḥ) [auspicious](śubhāḥ)
 
 ## mukta-m0-p130-v3249
-[jambūdvīpaṃ](jambūdvīpaṃ) [samākhyātaṃ](samākhyātaṃ) [lavaṇodadhyutaṃ](lavaṇodadhyutaṃ) [śṛṇu](śṛṇu)
+[Jambū-island](jambū+dvīpaṃ) [called](samākhyātaṃ) [surrounded-by-salt-ocean](lavaṇa+udadhi+utaṃ) [hear](śṛṇu)
 
 ## mukta-m0-p130-v3250
-[bhūdharā](bhūdharā) [dvādaśāścaivaṃ](dvādaśāścaivaṃ) [prasiddhaṃ](prasiddhaṃ) [lavaṇodadhau](lavaṇodadhau)
+[mountains](bhūdharāḥ) [twelve](dvādaśa) [and](ca) [thus](evaṃ) [famous](prasiddhaṃ) [in-salt-ocean](lavaṇa+udadhau)
