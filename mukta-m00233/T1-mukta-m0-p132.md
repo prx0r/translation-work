@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p132-v3276
-[impossible](assaṃbhava) [field+guardian](kṣetrepāla) [army+named](senasaṃjñaḥ) [and](ca) [middle](madhyamaḥ)
+[impossible](assaṃbhava) [field+guardian](kṣetra+pāla) [sena+named](sena+saṃjñaḥ) [and](ca) [middle](madhyamaḥ)
 
 ## mukta-m0-p132-v3277
-[dog+marked](sārameyāṅkaṃ) [banner](dhvajam) [having-raised](ucchritya) [one-should-worship](pūjayet)
+[dog+marked](sārameya+aṅkaṃ) [banner](dhvajam) [having-raised](ucchritya) [one-should-worship](pūjayet)
 
 ## mukta-m0-p132-v3278
-[field+guardian’s](kṣetrapālasya) [which](ye) [beings](bhūtā) [indeed](vai) [attendants](purassadaḥ)
+[of-field-guardian](kṣetrapālasya) [which](ye) [beings](bhūtāḥ) [indeed](vai) [attendants](purassadaḥ)
 
 ## mukta-m0-p132-v3279
-[then](tatas) [in-third+enclosure](tṛtīyahārāyāṃ) [Heruka+and-others](herukādyā) [from-circle](vṛteḥ) [outside](bahiḥ)
+[then](tatas) [in-third+enclosure](tṛtīya+hārāyāṃ) [Heruka+and-others](heruka+ādyāḥ) [outside+of-circle](vṛteḥ+bahiḥ)
 
 ## mukta-m0-p132-v3280
-[donkey](kharaḥ) [fragrance+fond](gandhapriyaḥ) [bell+sound](ghaṇṭāravaḥ) [likewise](tathā)
+[donkey](kharaḥ) [fragrance+fond](gandha+priyaḥ) [bell+sound](ghaṇṭā+ravaḥ) [likewise](tathā)
 
 ## mukta-m0-p132-v3281
-[jingling+mouthed](jhaṅkāramukharaḥ) [Ñoṅga](ñoṅgaḥ) [Ṭaṅkārin](ṭaṅkārī) [Ṭhamaya](ṭhamayaḥ) [likewise](tathā)
+[jingling+mouthed](jhaṅkāra+mukharaḥ) [Ñoṅga](ñoṅgaḥ) [Ṭaṅkārī](ṭaṅkārī) [Ṭhamaya](ṭhamayaḥ) [likewise](tathā)
 
 ## mukta-m0-p132-v3282
-[Mūrti](mūrtiḥ) [tusked](danturaḥ) [and](ca) [indeed](eva) [Dhanapāla](dhanapālaḥ) [and](ca) [Nandaka](nandakaḥ)
+[Mūrti](mūrtiḥ) [tusked](danturaḥ) [and+indeed](ca+eva) [Dhanapāla](dhanapālaḥ) [and](ca) [Nandaka](nandakaḥ)
 
 ## mukta-m0-p132-v3283
-[Yakṣa+lord](yakṣeśaḥ) [Rākṣasa](rākṣasaḥ) [Lambana](lambanaḥ) [likewise](tathā)
+[Yakṣa+lord](yakṣa+īśaḥ) [Rākṣasa](rākṣasaḥ) [Lambana](lambanaḥ) [likewise](tathā)
 
 ## mukta-m0-p132-v3284
-[offering](baliṃ) [having-thrown](kṣiptvā) [then](atha) [in-upward](ūrdhvāyāṃ) [direction](diśi) [below](adhaḥ) [likewise](tathā)
+[offering](baliṃ) [having-thrown](kṣiptvā) [then](atha) [in-upward+direction](ūrdhvāyāṃ+diśi) [below](adhasta) [likewise](tathā)
 
 ## mukta-m0-p132-v3285
-[with-Tārā+and-others](tārādyaiḥ) [with-dative+ending](caturthyantaiḥ) [with-own+names](svanāmabhiḥ)
+[[kh: vikārā]]([kh: vikārā]) [with-Tārā+and-others](tārā+ādyaiḥ) [ending-in-dative](caturthī+antaiḥ) [with-own+names](sva+nāmabhiḥ)
 
 ## mukta-m0-p132-v3286
-[all](sarve) [field+lords](kṣetreśāḥ) [field+guardian+like](kṣetrapopamāḥ)
+[all](sarve) [field+lords](kṣetra+īśāḥ) [like-field-guardians](kṣetra+pa+upamāḥ)
 
 ## mukta-m0-p132-v3287
-[outside](bahiḥ) [in-directions](dikṣu) [as+before](yathāpūrvam) [in-sequence](anukramāt)
+[outside](bahiḥ) [in-directions](dikṣu) [as+before](yathā+pūrvam) [in-sequence](anukramāt)
 
 ## mukta-m0-p132-v3288
-[with-thus+and-others](ityādibhiḥ) [as+before](yathāpūrvaṃ) [with-mantras](mantraiḥ) [indeed](tu) [one-should-scatter](vikiret) [offering](balim)
+[with-thus+and-others](iti+ādibhiḥ) [as+before](yathā+pūrvaṃ) [with-mantras](mantraiḥ) [indeed](tu) [one-should-scatter](vikiret) [offering](balim)
 
 ## mukta-m0-p132-v3289
-[having-completed](samāpya) [then](atha) [having-bathed](snapayitvā) [according-to-ability](upapattitaḥ)
+[having-completed](samāpya) [then](atha) [having-bathed](snapayitvā) [according-to-appropriateness](upapattitaḥ)
 
 ## mukta-m0-p132-v3290
-[fees](dakṣiṇāḥ) [and](ca) [to-be-given](pradeyāni) [having-given](dattvā) [food+and-others](annādyaṃ) [and](ca) [abundant](puṣkalam)
+[fees](dakṣiṇāḥ) [and](ca) [to-be-given](pradeyāni) [having-given](dattvā) [food+and-drink](anna+ādyaṃ) [and](ca) [abundant](puṣkalam)
 
 ## mukta-m0-p132-v3291
-[in-Phālguna](phālgune) [month](māse) [new+food-offering](navanaivedyam) [is-desired](iṣyate)
+[in-Phālguna](phālgune) [month](māse) [new+food-offering](nava+naivedyam) [is-desired](iṣyate)
 
 ## mukta-m0-p132-v3292
-[in-favorable+constellation+ascendant+etc.](anukūlarkṣalagnādau) [sprout+offering+preceded-by](aṅkurārpaṇapūrvakam)
+[in-favorable+constellation+ascendant+etc.](anukūla+ṛkṣa+lagna+ādau) [sprout+offering+preceded-by](aṅkura+arpaṇa+pūrvakam)
 
 ## mukta-m0-p132-v3293
-[with-drum+song+etc.+sounds](tūryagītādinirghoṣaiḥ) [by-bathed](snātaiḥ) [by-ritual+workers](karmakaraiḥ) [teacher](guruḥ)
+[with-drum+song+etc.+sounds](tūrya+gīta+ādi+nirghoṣaiḥ) [by-bathed](snātaiḥ) [by-ritual+workers](karma+karaiḥ) [teacher](guruḥ)
 
 ## mukta-m0-p132-v3294
-[having-circumambulated](pradakṣiṇīkṛtya) [with-curd+rice](dadhyannena) [offering](baliṃ) [should-throw](kṣipet)
+[having-circumambulated](pradakṣiṇīkṛtya) [with-curd+rice](dadhi+annena) [offering](baliṃ) [should-throw](kṣipet)
 
 ## mukta-m0-p132-v3295
-[with-weapon](śastreṇa) [east+facing](prāṅmukhaḥ) [or](vā) [also](api) [north+facing](udaṅmukhaḥ)
+[with-weapon](śastreṇa) [facing-east](prāṅ+mukhaḥ) [or](vā) [also](api) [facing-north](udaṅ+mukhaḥ)
 
 ## mukta-m0-p132-v3296
-[mung-bean+black-gram+etc.](mudgamāṣādikaṃ) [and](ca) [indeed](eva) [handful+to-be-taken](muṣṭigrāhyaṃ) [one-should-collect](samāharet)
+[mung-bean+black-gram+etc.](mudga+māṣa+ādikaṃ) [and](ca) [indeed](eva) [handful+to-be-taken](muṣṭi+grāhyaṃ) [one-should-collect](samāharet)
 
 ## mukta-m0-p132-v3297
-[and](ca) [other-things](anyāni) [should-carry](vaheyuḥ) [ritual+attendants](karmacāriṇaḥ)
+[and](ca) [other-things](anyāni) [should-carry](vaheyuḥ) [ritual+attendants](karma+cāriṇaḥ)
 
 ## mukta-m0-p132-v3298
-[having-brought](nītvā) [inside](antaḥ) [they-recite](paṭhanti) [svasti](svasti) [hymn](sūktakam)
+[having-brought](nītvā) [inside](antaḥ) [they-recite](paṭhanti) [svasti+hymn](svasti+sūktakam)
 
 ## mukta-m0-p132-v3299
-[with-ground-rice](piṣṭaiḥ) [in-pavilion](maṇḍape) [svastika+lotus](svastikāmbuje)
+[with-ground-rice](piṣṭaiḥ) [in-pavilion](maṇḍape) [svastika+lotus](svastika+ambuje)
 
 ## mukta-m0-p132-v3300
-[with-waters](jalaiḥ) [to-be-worshipped](pūjyaḥ) [Soma](somaḥ) [there](tatra) [herb+lord](auṣadhīśvaraḥ)
+[with-waters](jalaiḥ) [to-be-worshipped](pūjyaḥ) [Soma](somaḥ) [there](tatra) [herb+lord](oṣadhi+īśvaraḥ)
