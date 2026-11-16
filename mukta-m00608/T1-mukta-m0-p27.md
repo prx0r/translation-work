@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p27-v651
-[aghora](aghoraṃ) [in-heart](hṛdaye) [having-placed](nyasya) [in-mouth](mukhe) [tatpuruṣa](tatpuruṣe) [should-place](nyaset)
+[not-terrible](aghoraṃ) [in-heart](hṛdaye) [having-placed](nyasya) [in-face](mukhe) [tatpuruṣa](tatpuruṣe) [should-place](nyaset)
 
 ## mukta-m0-p27-v652
-[in-genitals](meḍhraṃ) [indeed](tu) [head-mantra](śiraḥ+mantraṃ) [indeed](tu) [in-belly](kukṣau) [śikhā](śikhāṃ) [indeed](tu) [should-place](vinyaset)
+[in-genitals](meḍhraṃ) [indeed](tu) [head+mantra](śiraḥ+mantraṃ) [indeed](tu) [in-belly](kukṣau) [tuft](śikhāṃ) [indeed](tu) [should-place](vinyaset)
 
 ## mukta-m0-p27-v653
-[in-mouth](mukhe) [astra](ca+astram) [thus](iti) [declared](proktaṃ) [śiva-mantra](śiva+mantraṃ) [indeed](tu) [everywhere](sarvaśaḥ)
+[in-face](mukhe) [and+weapon](ca+astram) [thus](iti) [declared](proktaṃ) [śiva+mantra](śiva+mantraṃ) [indeed](tu) [everywhere](sarvaśaḥ)
 
 ## mukta-m0-p27-v654
 [yama](yamaṃ) [in-belly](kukṣau) [indeed](tu) [having-placed](vinyasya) [nirṛti](nirṛtiṃ) [in-heart](hṛdaye) [should-place](nyaset)
 
 ## mukta-m0-p27-v655
-[in-mouth](mukhe) [indeed](tu) [soma-deity](soma+daivatyam) [īśāna](īśānaṃ) [on-head](śirasi) [should-place](nyaset)
+[in-face](mukhe) [indeed](tu) [soma+deity](soma+daivatyam) [īśāna](īśānaṃ) [on-head](śirasi) [should-place](nyaset)
 
 ## mukta-m0-p27-v656
-[teacher](ācāryaḥ) [indeed](tu) [etc.](ādi) [śaiva](śaivaḥ) [should-be](syāt) [householder](grahasthaḥ) [or](vā) [best-of-twice-born](dvija+uttamaḥ)
+[teacher](ācāryaḥ) [indeed+etc.](tu+ādi) [śaiva](śaivaḥ) [should-be](syāt) [householder](grahasthaḥ) [or](vā) [twice-born+best](dvija+uttamaḥ)
 
 ## mukta-m0-p27-v657
-[thus](evaṃ) [having-placed](nyastvā) [according-to-rule](vidhānena) [teachers](deśikāḥ) [and](ca) [also](api) [should-visualize](bhāvayet)
+[thus](evaṃ) [having-placed](nyastvā) [according-to-rule](vidhānena) [teachers](deśikāḥ) [and+also](ca+api) [should-visualize](bhāvayet)
 
 ## mukta-m0-p27-v658
-[door-guardians](dvāra+pālān) [having-worshipped](samabhyarcya) [with-fragrance-flowers-etc.](gandha+puṣpa+ādinā) [together](saha)
+[door+guardians](dvāra+pālān) [having-worshipped](samabhyarcya) [fragrance+flower+etc.](gandha+puṣpa+ādinā) [with](saha)
 
 ## mukta-m0-p27-v659
-[southern-door-guardians](dakṣiṇa+dvāra+pālau) [indeed](tu) [daṇḍin](daṇḍī) [muṇḍin](muṇḍīḥ) [likewise](tathā+eva) [and](ca)
+[southern+door+guardians](dakṣiṇa+dvāra+pālau) [indeed](tu) [staff-bearer](daṇḍī) [shaven-headed](muṇḍī) [likewise](tathā+eva) [and](ca)
 
 ## mukta-m0-p27-v660
-[northern-door-guardians](uttara+dvāra+pālau) [indeed](tu) [ananta](ananta) [paśupati](paśupatiḥ) [likewise](tathā)
+[northern+door+guardians](uttara+dvāra+pālau) [indeed](tu) [ananta](ananta) [paśupati](paśupatiḥ) [likewise](tathā)
 
 ## mukta-m0-p27-v661
-[with-staff-in-hand](daṇḍa+hasta+samāyuktaṃ) [huṃkāra](huṃkāraṃ) [mantra](mantram) [is-spoken](ucyate)
+[staff+hand+endowed-with](daṇḍa+hasta+samāyuktaṃ) [huṃkāra](huṃkāraṃ) [mantra](mantraṃ) [is-spoken](ucyate)
 
 ## mukta-m0-p27-v662
-[with-banyan-tree-weapons](vaṭa+vṛkṣa+āyudhaiḥ) [endowed](yuktaṃ) [mantra](mantra) [hiṃkāra](hiṃkāram) [indeed](eva) [and](ca)
+[banyan+tree+weapons+endowed-with](vaṭa+vṛkṣa+āyudhaiḥ+yuktaṃ) [mantra](mantra) [hiṃkāra](hiṃkāram) [indeed](eva) [and](ca)
 
 ## mukta-m0-p27-v663
-[with-sword-weapon](khaḍga+āyata) [endowed](samāyuktaḥ) [hrauṃkāra](hrauṃkāraṃ) [mantra](mantram) [is-spoken](ucyate)
+[sword+missile+endowed-with](khaḍga+āyata+samāyuktaḥ) [hrauṃkāra](hrauṃkāraṃ) [mantra](mantraṃ) [is-spoken](ucyate)
 
 ## mukta-m0-p27-v664
-[with-bhiṇḍipāla-weapon](bhiṇḍipāla+samāyuktaṃ) [hrūṃkāra](hrūṃkāraṃ) [mantra](mantram) [is-spoken](ucyate)
+[short-javelin+endowed-with](bhiṇḍipāla+samāyuktaṃ) [hrūṃkāra](hrūṃkāraṃ) [mantra](mantraṃ) [is-spoken](ucyate)
 
 ## mukta-m0-p27-v665
-[with-śakti-weapon](śaktyā+āyu) [equally](samaṃ) [endowed](yuktaṃ) [mantra](mantraṃ) [hruṃkāra](hruṃkāram) [is-spoken](ucyate)
+[spear+missile+equal+endowed-with](śaktyā+āyu+samaṃ+yuktaṃ) [mantra](mantraṃ) [hruṃkāra](hruṃkāram) [is-spoken](ucyate)
 
 ## mukta-m0-p27-v666
-[with-trident-weapon](śūla+āyudha+samāyuktaṃ) [hraṃkāra](hraṃkāraṃ) [mantra](mantram) [is-spoken](ucyate)
+[trident+weapon+endowed-with](śūla+āyudha+samāyuktaṃ) [hraṃkāra](hraṃkāraṃ) [mantra](mantraṃ) [is-spoken](ucyate)
 
 ## mukta-m0-p27-v667
-[with-thunderbolt-weapon](vajra+āyudha+samāyuktaṃ) [hrīṃkāra](hrīṃkāraṃ) [mantra](mantram) [is-spoken](ucyate)
+[thunderbolt+weapon+endowed-with](vajra+āyudha+samāyuktaṃ) [hrīṃkāra](hrīṃkāraṃ) [mantra](mantraṃ) [is-spoken](ucyate)
 
 ## mukta-m0-p27-v668
-[with-noose-weapon](pāśa+āyudha+samāyuktaṃ) [hrīṃkāra](hrīṃkāraṃ) [mantra](mantram) [is-spoken](ucyate)
+[noose+weapon+endowed-with](pāśa+āyudha+samāyuktaṃ) [hrīṃkāra](hrīṃkāraṃ) [mantra](mantraṃ) [is-spoken](ucyate)
 
 ## mukta-m0-p27-v669
-[all](sarvān) [and](ca) [four-armed](catur+bhujān) [and](ca) [indeed](eva) [with-three-eyes](tri+netreṇa) [indeed](eva) [endowed](saṃyutān)
+[all](sarvān) [and](ca) [four+armed](catur+bhujān) [and+indeed](ca+eva) [three+eye+indeed+endowed-with](tri+netreṇa+eva+saṃyutān)
 
 ## mukta-m0-p27-v670
-[with-crowns](makuṭaiḥ) [with-earrings](kuṇḍalaiḥ) [endowed](yuktān) [should-sprinkle](prokṣayet) [with-water](ambhasā) [then](tataḥ)
+[crowns](makuṭaiḥ) [earrings+endowed-with](kuṇḍalaiḥ+yuktān) [should-sprinkle](prokṣayet) [with-water](ambhasā) [then](tataḥ)
 
 ## mukta-m0-p27-v671
-[three](tisraḥ) [east-facing](pūrva+mukhāḥ) [lines](rekhāḥ) [north-facing-line](udak+rekhāṃ) [likewise](tathā+eva) [and](ca)
+[three](tisraḥ) [east+facing](pūrva+mukhāḥ) [lines](rekhāḥ) [north+line](udak+rekhāṃ) [likewise](tathā+eva) [and](ca)
 
 ## mukta-m0-p27-v672
-[should-worship](arcayet) [with-fragrances-and-flowers](gandha+puṣpaiḥ) [and](ca) [with-heart-mantra](hṛdayena) [indeed](tu) [by-mantra](mantrataḥ)
+[should-worship](arcayet) [fragrance+flowers](gandha+puṣpaiḥ) [and](ca) [with-heart](hṛdayena) [indeed](tu) [with-mantra](mantrataḥ)
 
 ## mukta-m0-p27-v673
-[of-śrotriya](śrotriyasya) [by-agnihotra](agnihotreṇa) [worship](yajana) [jātavedas](jātavedasam)
+[of-vedic-scholar](śrotriyasya) [by-fire-offering](agnihotreṇa) [worship](yajana) [jātavedas](jātavedasam)
 
 ## mukta-m0-p27-v674
-[breadth](vistāraṃ) [indeed](tu) [six-fingers](ṣaḍ+a"ngulyaṃ) [width](viṣkambhaṃ) [indeed](tu) [three-fingers](tri+a"ngulam)
+[breadth](vistāraṃ) [indeed](tu) [six+fingers](ṣaḍ+aṅgulyam) [width](viṣkambhaṃ) [indeed](tu) [three+fingers](tri+aṅgulam)
 
 ## mukta-m0-p27-v675
-[having-made](mayitvā) [with-pañcabrahma](pañca+brahmeṇa) [vessel](pātraṃ) [having-placed](vinyasya) [teacher](deśikaḥ)
+[having-fashioned](mayitvā) [with-five+brahmans](pañca+brahmeṇa) [vessel](pātraṃ) [having-placed](vinyasya) [teacher](deśikaḥ)
