@@ -5,73 +5,73 @@
 [twelve-end+sole+dwelling](dvādaśāntaikavasatiḥ) [twelve-souled](dvādaśātmā) [lord-of-heaven](divaspatiḥ)
 
 ## mukta-m0-p69-v1702
-[hard-to-know](durdhyeyaḥ) [wicked-lineage+destroyer](duṣṭavaṃśaghnaḥ) [compassion+lord](dayānāthaḥ) [compassion+filled](dayākulaḥ)
+[difficult-to-meditate](durdhyeyaḥ) [destroyer-of-wicked-lineage](duṣṭavaṃśaghnaḥ) [lord-of-compassion](dayānāthaḥ) [filled-with-compassion](dayākulaḥ)
 
 ## mukta-m0-p69-v1703
-[dharma+friend](dharmabandhuḥ) [dharma+treasure](dharmanidhiḥ) [dharma+king](dharmarājaḥ) [wealth+giver](dhanapradaḥ)
+[friend-of-dharma](dharmabandhuḥ) [treasure-of-dharma](dharmanidhiḥ) [king-of-dharma](dharmarājaḥ) [giver-of-wealth](dhanapradaḥ)
 
 ## mukta-m0-p69-v1704
-[matted-hair+eye+dweller](dhūrjaṭīkṣaṇavāsī) [and](ca) [dharma+field](dharmakṣetraḥ) [earth+lord](dharādhipaḥ)
+[dweller-in-Dhūrjaṭī's-eye](dhūrjaṭīkṣaṇavāsī) [and](ca) [field-of-dharma](dharmakṣetraḥ) [lord-of-earth](dharādhipaḥ)
 
 ## mukta-m0-p69-v1705
-[mountain+bearer+beloved](dharābhṛdvallabhaḥ) [righteous](dharmī) [dha-syllable+adorned](dhakārākṣarabhūṣaṇaḥ)
+[beloved-of-mountain-bearer](dharābhṛdvallabhaḥ) [righteous](dharmī) [adorned-with-letter-dha](dhakārākṣarabhūṣaṇaḥ)
 
 ## mukta-m0-p69-v1706
-[lotus-cluster+beloved](nalinīvallabhaḥ) [pushed](nunnaḥ) [dance+maker](nāṭyakṛt) [dance+increaser](nāṭyavardhanaḥ)
+[beloved-of-lotus-pond](nalinīvallabhaḥ) [impelled](nunnaḥ) [doer-of-dance](nāṭyakṛt) [promoter-of-dance](nāṭyavardhanaḥ)
 
 ## mukta-m0-p69-v1707
-[salutation+end](namantaḥ) [bowed+enemy](namitārātiḥ) [nara+nārāyaṇa+refuge](naranārāyaṇāśrayaḥ)
+[end-of-obeisance](namontaḥ) [one-with-bowed-enemies](namitārātiḥ) [refuge-of-Nara-and-Nārāyaṇa](naranārāyaṇāśrayaḥ)
 
 ## mukta-m0-p69-v1708
-[sound+form](nādarūpaḥ) [sound+made](nādamayaḥ) [sound+bindu+form](nādabindusvarūpakaḥ)
+[of-sound-form](nādarūpaḥ) [consisting-of-sound](nādamayaḥ) [of-sound-and-bindu-nature](nādabindusvarūpakaḥ)
 
 ## mukta-m0-p69-v1709
-[heaven+dwelling](nākasthitaḥ) [many+bodied](anekavapuḥ) [na-syllable+matrix](nakārākṣaramātṛkaḥ)
+[dwelling-in-heaven](nākasthitaḥ) [having-many-bodies](anekavapuḥ) [source-of-letter-na](nakārākṣaramātṛkaḥ)
 
 ## mukta-m0-p69-v1710
-[love+dear](prītipriyaḥ) [love+maker](premakaraḥ) [prostrated+suffering+fear+remover](praṇatārtibhayāpahaḥ)
+[lover-of-love](prītipriyaḥ) [maker-of-love](premakaraḥ) [remover-of-fear-and-distress-of-supplicants](praṇatārtibhayāpahaḥ)
 
 ## mukta-m0-p69-v1711
-[full+bliss+made](pūrṇānandamayaḥ) [full+splendor](pūrṇatejāḥ) [full+goddess+lord](pūrṇeśvarīśvaraḥ)
+[full-of-perfect-bliss](pūrṇānandamayaḥ) [of-perfect-splendor](pūrṇatejāḥ) [lord-of-the-perfect-goddess](pūrṇeśvarīśvaraḥ)
 
 ## mukta-m0-p69-v1712
-[supreme-lord+body](parameśavapuḥ) [tall](prāṃśuḥ) [exhilarated](pramattaḥ) [prostrated+wish+giver](praṇateṣṭadaḥ)
+[body-of-supreme-lord](parameśavapuḥ) [lofty](prāṃśuḥ) [exuberant](pramattaḥ) [giver-of-desires-to-supplicants](praṇateṣṭadaḥ)
 
 ## mukta-m0-p69-v1713
-[cooking](pācanaḥ) [tamarind](piculaḥ) [burnt](pluṣṭaḥ) [delighted-women+happiness+giver](pramadājanasaukhyadaḥ)
+[cooking](pācanaḥ) [tamarind-tree](piculaḥ) [scorched](pluṣṭaḥ) [giver-of-joy-to-delighted-women](pramadājanasaukhyadaḥ)
 
 ## mukta-m0-p69-v1714
-[fruit](phalaṃ) [enjoyment+liberation](bhogāpavargasya) [fruitful+lord](phalinīśaḥ) [fruit+nature](phalātmakaḥ)
+[fruit](phalam) [of-enjoyment-and-liberation](bhogāpavargasya) [lord-of-fruitful-vines](phalinīśaḥ) [of-fruit-nature](phalātmakaḥ)
 
 ## mukta-m0-p69-v1715
-[child](bālaḥ) [strength+dear](balapriyaḥ) [restrained](bāntaḥ) [cave+darkness+remover](biladhvāntaharaḥ) [strong](balī)
+[child](bālaḥ) [lover-of-strength](balapriyaḥ) [shining](bāntaḥ) [remover-of-cave-darkness](biladhvāntaharaḥ) [strong](balī)
 
 ## mukta-m0-p69-v1716
-[wise](budhaḥ) [bṛhaspati](bṛhaspatiḥ) [tree](vṛkṣaḥ) [great+horse](bṛhadaśvaḥ) [great+path](bṛhadgatiḥ)
+[wise](budhaḥ) [Bṛhaspati](bṛhaspatiḥ) [tree](vṛkṣaḥ) [having-great-horses](bṛhadaśvaḥ) [of-great-course](bṛhadgatiḥ)
 
 ## mukta-m0-p69-v1717
-[fortune](bhagaḥ) [bhṛgu](bhṛguḥ) [bhṛgu+abiding](bhṛgusthāyī) [descendant-of-bhṛgu](bhārgavaḥ) [poet+chief](kaviśekharaḥ)
+[Bhaga](bhagaḥ) [Bhṛgu](bhṛguḥ) [abiding-in-Bhṛgu](bhṛgusthāyī) [descendant-of-Bhṛgu](bhārgavaḥ) [chief-of-poets](kaviśekharaḥ)
 
 ## mukta-m0-p69-v1718
-[great+time](mahākālaḥ) [great+overseer](mahādhyakṣaḥ) [great+sound](mahānādaḥ) [great+intellect](mahāmatiḥ)
+[great-time](mahākālaḥ) [great-overseer](mahādhyakṣaḥ) [great-sound](mahānādaḥ) [great-minded](mahāmatiḥ)
 
 ## mukta-m0-p69-v1719
-[honor+giver](mānadaḥ) [wrestler+slayer](mallahā) [wrestler](mallaḥ) [meru+mandara+abode](merumandaramandiraḥ)
+[giver-of-honor](mānadaḥ) [wrestler-destroyer](mallahā) [wrestler](mallaḥ) [abode-in-Meru-and-Mandara](merumandaramandiraḥ)
 
 ## mukta-m0-p69-v1720
-[delighted](moditaḥ) [liquor+food](madirāhāraḥ) [sun](mārtaṇḍaḥ) [skull+shaved](muṇḍamuṇḍitaḥ)
+[delighted](moditaḥ) [consumer-of-intoxicants](madirāhāraḥ) [sun](mārtaṇḍaḥ) [shaved-of-head](muṇḍamuṇḍitaḥ)
 
 ## mukta-m0-p69-v1721
-[intoxication+weary](madālasaḥ) [immortal+praised](amarastutyaḥ) [murāri+boon+giver](murārivaradaḥ) [manu](manuḥ)
+[slow-from-intoxication](madālasaḥ) [praised-by-immortals](amarastutyaḥ) [giver-of-boons-to-enemy-of-Mura](murārivaradaḥ) [Manu](manuḥ)
 
 ## mukta-m0-p69-v1722
-[garlanded](mālyavān) [sacrificial-post](medhanaḥ) [māra](māraḥ) [intelligent](medhāvī) [pestle+weaponed](musalāyudhaḥ)
+[garlanded](mālyavān) [nourisher](medhanaḥ) [Māra](māraḥ) [intelligent](medhāvī) [wielding-club-as-weapon](musalāyudhaḥ)
 
 ## mukta-m0-p69-v1723
-[madana](madanaḥ) [sweetmeat+food](modakāhāraḥ) [ma-syllable+matrix](makārākṣaramātṛkaḥ)
+[Madana](madanaḥ) [eater-of-sweetmeats](modakāhāraḥ) [source-of-letter-ma](makārākṣaramātṛkaḥ)
 
 ## mukta-m0-p69-v1724
-[pilgrim](yātrikaḥ) [sacrifice+fruit+giver](yajñaphaladaḥ) [going](yāyī) [yāmala+lord](yāmalanāyakaḥ)
+[pilgrim](yātrikaḥ) [giver-of-sacrifice-fruit](yajñaphaladaḥ) [goer](yāyī) [lord-of-Yāmala](yāmalanāyakaḥ)
 
 ## mukta-m0-p69-v1725
-[staff+holder](yaṣṭidhārī) [and](ca) [instrument+lord](yantreśaḥ) [womb+circle+middle+dwelling](yonimaṇḍalamadhyagaḥ)
+[staff-bearer](yaṣṭidhārī) [and](ca) [lord-of-yantras](yantreśaḥ) [dwelling-in-middle-of-womb-circle](yonimaṇḍalamadhyagaḥ)
