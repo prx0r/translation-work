@@ -8,7 +8,7 @@
 [by-that](tena) [this](idam) [in-own-self](svātmani) [world](jagat) [picture](citram) [unfolded](unmīlitam) [indeed](nanu)
 
 ## mukta-m0-p59-v1453
-[by-the-Lord](īśvareṇa)
+[by-the-lord](īśvareṇa)
 
 ## mukta-m0-p59-v1454
 [without](ṛte) [consciousness](citim) [ever](kadācit) [or](vā) [where](kva) [what](kim) [to-be](bhavitum) [is-fit](arhati)
@@ -23,10 +23,10 @@
 [of-negation](niṣedha) [limit](avadhi) [being-the-ground](bhūtatvāt)
 
 ## mukta-m0-p59-v1458
-[being](bhā)
+[light](bhā)
 
 ## mukta-m0-p59-v1459
-[world](jagat) [thus](iti) [with-example](sa+dṛṣṭāntam) [says](āha) [ocean](samudram) [thus](iti)
+[world](jagat) [thus](iti) [with-example](sadṛṣṭāntam) [says](āha) [ocean](samudram) [thus](iti)
 
 ## mukta-m0-p59-v1460
 [therefore](tasmāt) [this](eṣaḥ) [great-god](mahādevaḥ) [pure](śudha) [consciousness](caitanya) [form](vigrahaḥ)
@@ -38,7 +38,7 @@
 [in-that](tasmin) [dissolves](vilīyate) [and](ca) [in-the-end](ante) [world](jagat) [this](etat) [moving](cara) [and-unmoving](acaram)
 
 ## mukta-m0-p59-v1463
-[ocean](samudra) [etc.](ādi) [mere](mātra) [etc.](ādi) [self-nature](ātmatvam) [thus](evam) [of-world](jagataḥ) [consciousness](cit) [mere](mātra) [self-nature](ātmatvam) [thus](iti) [meaning](bhāvaḥ)
+[ocean](samudra) [etc.](ādi) [mere](mātra) [own-nature](ātmatvam) [thus](evam) [of-world](jagataḥ) [consciousness](cit) [mere](mātra) [own-nature](ātmatvam) [thus](iti) [meaning](bhāvaḥ)
 
 ## mukta-m0-p59-v1464
 [in-unseen](adṛṣṭa) [matters](artheṣu) [from-agreement](saṃvādāt) [authority](pramāṇam) [indeed](hi) [scripture](āgamaḥ) [would-be](bhavet)
@@ -47,7 +47,7 @@
 [scripture](āgamaḥ) [authority](pramāṇam) [indeed](eva) [would-be](bhavet) [thus](iti) [meaning](bhāvaḥ)
 
 ## mukta-m0-p59-v1466
-[not](na) [small](alpa) [intellect](prajñaḥ) [would-know](vijānīyāt) [jewel](maṇi) [mantra](mantra) [great](mahā) [fruit](phalam)
+[not](na) [small-minded](alpa-prajñaḥ) [would-know](vijānīyāt) [gem](maṇi) [mantra](mantra) [great](mahā) [fruit](phalam)
 
 ## mukta-m0-p59-v1467
 [to-give](dātum) [not](na) [capable](samarthaḥ) [thus](iti) [says](āha) [not](na) [thus](iti)
@@ -56,7 +56,7 @@
 [there](tatra) [declared](uktaḥ) [god](devaḥ) [indeed](eva) [in-the-beginning](ādau) [of-creation](sṛṣṭeḥ) [of-world](jagataḥ) [situated](āsthitaḥ)
 
 ## mukta-m0-p59-v1469
-[god](devaḥ) [consciousness](cit) [mere](mātra) [form](mūrtiḥ) [Lord](īśvaraḥ) [by-the-word-eva](eva+kāreṇa) [of-primal-matter](pradhāna) [etc.](ādi) [exclusion](vyāvṛttiḥ)
+[god](devaḥ) [consciousness](cit) [mere](mātra) [form](mūrtiḥ) [lord](īśvaraḥ) [by-emphatic-particle](evakāreṇa) [primordial-matter](pradhāna) [etc.](ādi) [exclusion](vyāvṛttiḥ)
 
 ## mukta-m0-p59-v1470
 [freedom](svātantryam) [by-that](tena) [endowed](yutaḥ)
@@ -68,7 +68,7 @@
 [in-another](anya) [place](sthāna) [situated](sthitam) [and-that](tat) [and](ca) [in-any-way](kathañcit) [not](na) [indeed](eva) [is-established](sidhyati)
 
 ## mukta-m0-p59-v1473
-[world](jagat) [is-established](siddhyati) [consciousness](cit) [light](prakāśa) [gone-outside](bahiḥ+gatasya) [from-non-manifestation](aprakāśāt) [thus](iti) [says](āha) [in-another-place](anya+sthāna) [thus](iti)
+[world](jagat) [is-established](siddhyati) [consciousness](cit) [light](prakāśa) [gone-outside](bahir-gatasya) [from-non-manifestation](aprakāśāt) [thus](iti) [says](āha) [in-another-place](anya-sthāna) [thus](iti)
 
 ## mukta-m0-p59-v1474
 [world](jagat) [unfolded](unmīlitam) [in-god](deve) [and](ca) [thus](evam) [all](sarvam) [consistent](samañjasam)

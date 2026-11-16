@@ -40,7 +40,7 @@
 "quick_gloss": "desire"
 },
 {
-"surface": "krodhaḥ",
+"surface": "krodho",
 "quick_gloss": "anger"
 },
 {
@@ -69,12 +69,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "anāhṛtaḥ",
-"quick_gloss": "uninvited"
+"surface": "an+āhṛto",
+"quick_gloss": "not+brought"
 },
 {
 "surface": "na+asti",
-"quick_gloss": "not+exists"
+"quick_gloss": "does-not-exist"
 },
 {
 "surface": "iti",
@@ -95,7 +95,7 @@
 "tokens": [
 {
 "surface": "āhṛtaiḥ",
-"quick_gloss": "by-invited"
+"quick_gloss": "by-brought"
 },
 {
 "surface": "krodha+kāma+ādyaiḥ",
@@ -103,7 +103,7 @@
 },
 {
 "surface": "vyavahāra+parāyaṇāḥ",
-"quick_gloss": "engaged-in-worldly-activity"
+"quick_gloss": "worldly-activity+devoted"
 }
 ]
 },
@@ -181,8 +181,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "duḥkham+iti+ādi+rūpayā",
-"quick_gloss": "suffering+thus+etc.+form"
+"surface": "duḥkham",
+"quick_gloss": "suffering"
+},
+{
+"surface": "iti",
+"quick_gloss": "thus"
+},
+{
+"surface": "ādi+rūpayā",
+"quick_gloss": "etc.+form"
 },
 {
 "surface": "evam",
@@ -219,7 +227,7 @@
 },
 {
 "surface": "vitanvanti",
-"quick_gloss": "perform"
+"quick_gloss": "spread-out"
 },
 {
 "surface": "pātraiḥ",
@@ -248,7 +256,7 @@
 },
 {
 "surface": "viveka+moha+ādi+veṣaiḥ",
-"quick_gloss": "discrimination+delusion+etc.+disguises"
+"quick_gloss": "discrimination+delusion+etc.+guises"
 }
 ]
 },
@@ -286,7 +294,7 @@
 "tokens": [
 {
 "surface": "para+tattva+vicāra+arhaiḥ",
-"quick_gloss": "supreme-truth+inquiry+worthy"
+"quick_gloss": "supreme+truth+inquiry+fit"
 },
 {
 "surface": "udāharaṇa+maṇḍalaiḥ",
@@ -336,7 +344,7 @@
 "tokens": [
 {
 "surface": "prāk+saṃskāra+balena",
-"quick_gloss": "prior+impression+force"
+"quick_gloss": "previous+impression+force"
 },
 {
 "surface": "eva",
@@ -344,7 +352,7 @@
 },
 {
 "surface": "vyavahāra+parāyaṇāḥ",
-"quick_gloss": "engaged-in-worldly-activity"
+"quick_gloss": "worldly-activity+devoted"
 }
 ]
 },
@@ -357,11 +365,11 @@
 "tokens": [
 {
 "surface": "prāk+saṃskāra+mātreṇa",
-"quick_gloss": "prior+impression+mere"
+"quick_gloss": "previous+impression+mere"
 },
 {
-"surface": "śastra+vartma+su+askhalan",
-"quick_gloss": "weapon+path+without-stumbling"
+"surface": "śastra+vartmasu+askhalan",
+"quick_gloss": "weapon+path+not-stumbling"
 },
 {
 "surface": "yudhyati",
@@ -369,7 +377,7 @@
 },
 {
 "surface": "tathā",
-"quick_gloss": "thus"
+"quick_gloss": "so"
 },
 {
 "surface": "iti",
@@ -389,7 +397,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "bhaviṣyat",
+"surface": "bhaviṣyad",
 "quick_gloss": "future"
 },
 {
@@ -398,7 +406,7 @@
 },
 {
 "surface": "anusandhatte",
-"quick_gloss": "considers"
+"quick_gloss": "reflects-on"
 },
 {
 "surface": "harṣa+śoka+ādi+sādhanam",
@@ -423,7 +431,7 @@
 },
 {
 "surface": "anusaṃdhatte",
-"quick_gloss": "considers"
+"quick_gloss": "reflects-on"
 }
 ]
 },
@@ -440,15 +448,15 @@
 },
 {
 "surface": "iva",
-"quick_gloss": "like"
+"quick_gloss": "as"
 },
 {
 "surface": "atyantaṃ",
-"quick_gloss": "extremely"
+"quick_gloss": "exceedingly"
 },
 {
 "surface": "vyavahāra+paraḥ",
-"quick_gloss": "engaged-in-worldly-activity"
+"quick_gloss": "worldly-activity+devoted"
 },
 {
 "surface": "janaḥ",
@@ -490,7 +498,7 @@
 },
 {
 "surface": "ākhyam",
-"quick_gloss": "named"
+"quick_gloss": "name"
 },
 {
 "surface": "ūcuḥ",
@@ -547,8 +555,12 @@
 "quick_gloss": "consciousness+form"
 },
 {
-"surface": "svam+ātmānaṃ",
-"quick_gloss": "own+self"
+"surface": "svam",
+"quick_gloss": "own"
+},
+{
+"surface": "ātmānaṃ",
+"quick_gloss": "self"
 },
 {
 "surface": "bhajadhvaṃ",
@@ -576,15 +588,23 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "yatra+iti+ādi+śloka+catuṣṭayaṃ",
-"quick_gloss": "where+thus+etc.+verse+quartet"
+"surface": "yatra",
+"quick_gloss": "where"
+},
+{
+"surface": "iti",
+"quick_gloss": "thus"
+},
+{
+"surface": "ādi+śloka+catuṣṭayaṃ",
+"quick_gloss": "etc.+verse+quartet"
 },
 {
 "surface": "caturtha+adhyāya+anta+gataṃ",
-"quick_gloss": "fourth+chapter+end+gone"
+"quick_gloss": "fourth+chapter+end+contained"
 },
 {
-"surface": "prāk",
+"surface": "prāg",
 "quick_gloss": "previously"
 },
 {
@@ -605,8 +625,8 @@
 "quick_gloss": "consciousness"
 },
 {
-"surface": "cetyaṃ",
-"quick_gloss": "object-of-consciousness"
+"surface": "cetyam",
+"quick_gloss": "object"
 },
 {
 "surface": "citiḥ",
@@ -651,11 +671,11 @@
 },
 {
 "surface": "sarva+bhāsinīṃ",
-"quick_gloss": "all+illuminating"
+"quick_gloss": "all+shining"
 },
 {
 "surface": "sarva+saṃśrayām",
-"quick_gloss": "all+supporting"
+"quick_gloss": "all+support"
 }
 ]
 },
@@ -680,7 +700,7 @@
 },
 {
 "surface": "atyantaṃ",
-"quick_gloss": "extremely"
+"quick_gloss": "exceedingly"
 },
 {
 "surface": "yatra",

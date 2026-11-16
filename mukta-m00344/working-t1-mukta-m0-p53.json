@@ -11,12 +11,12 @@
 "quick_gloss": "alas"
 },
 {
-"surface": "janā",
+"surface": "janāḥ",
 "quick_gloss": "people"
 },
 {
 "surface": "duḥkha+sukha+viveka+jñāna+varjitāḥ",
-"quick_gloss": "pain+pleasure+discrimination+knowledge+devoid"
+"quick_gloss": "suffering+pleasure+discrimination+knowledge+deprived"
 }
 ]
 },
@@ -29,7 +29,7 @@
 "tokens": [
 {
 "surface": "duḥkham",
-"quick_gloss": "pain"
+"quick_gloss": "suffering"
 },
 {
 "surface": "eva",
@@ -74,7 +74,7 @@
 },
 {
 "surface": "duḥkha+bhogena",
-"quick_gloss": "with-pain+experience"
+"quick_gloss": "with-suffering+experience"
 },
 {
 "surface": "sva+yatna+āsāditena",
@@ -94,12 +94,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "duḥkha+saṅghaṃ",
-"quick_gloss": "pain+mass"
+"surface": "duḥkha+saṅgham",
+"quick_gloss": "suffering+mass"
 },
 {
-"surface": "duḥkha+sādhana+jālaṃ",
-"quick_gloss": "pain+means+net"
+"surface": "duḥkha+sādhana+jālam",
+"quick_gloss": "suffering+means+net"
 },
 {
 "surface": "dhana+gṛha+ādikam",
@@ -144,7 +144,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "viśrāntiṃ",
+"surface": "viśrāntim",
 "quick_gloss": "rest"
 },
 {
@@ -182,8 +182,12 @@
 "quick_gloss": "you-strive"
 },
 {
-"surface": "vyavahāra+parāsi",
+"surface": "vyavahāra+parā",
 "quick_gloss": "in-activity+engaged"
+},
+{
+"surface": "asi",
+"quick_gloss": "you-are"
 }
 ]
 },
@@ -211,11 +215,11 @@
 "quick_gloss": "not"
 },
 {
-"surface": "viditaṃ",
+"surface": "viditam",
 "quick_gloss": "known"
 },
 {
-"surface": "padaṃ",
+"surface": "padam",
 "quick_gloss": "state"
 },
 {
@@ -252,7 +256,7 @@
 "quick_gloss": "recognized"
 },
 {
-"surface": "parama+pāvanaṃ",
+"surface": "parama+pāvanam",
 "quick_gloss": "supremely+pure"
 },
 {
@@ -269,8 +273,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "tat+padaṃ",
-"quick_gloss": "that+state"
+"surface": "tat",
+"quick_gloss": "that"
+},
+{
+"surface": "padam",
+"quick_gloss": "state"
 },
 {
 "surface": "dūrataḥ",
@@ -278,22 +286,22 @@
 },
 {
 "surface": "te",
-"quick_gloss": "of-you"
+"quick_gloss": "from-you"
 },
 {
 "surface": "asti",
 "quick_gloss": "is"
 },
 {
-"surface": "bhū+sthasya",
-"quick_gloss": "of-earth+dweller"
+"surface": "bhūsthasya",
+"quick_gloss": "on-earth+standing"
 },
 {
 "surface": "iva",
 "quick_gloss": "like"
 },
 {
-"surface": "nabhaḥ+talam",
+"surface": "nabhas+talam",
 "quick_gloss": "sky+surface"
 }
 ]
@@ -307,11 +315,11 @@
 "tokens": [
 {
 "surface": "nimīlya",
-"quick_gloss": "having-closed"
+"quick_gloss": "closing"
 },
 {
 "surface": "unmīlya",
-"quick_gloss": "having-opened"
+"quick_gloss": "opening"
 },
 {
 "surface": "vā",
@@ -322,8 +330,12 @@
 "quick_gloss": "eyes"
 },
 {
-"surface": "tat+padaṃ",
-"quick_gloss": "that+state"
+"surface": "tat",
+"quick_gloss": "that"
+},
+{
+"surface": "padam",
+"quick_gloss": "state"
 },
 {
 "surface": "na",
@@ -352,7 +364,7 @@
 },
 {
 "surface": "nimīlya",
-"quick_gloss": "having-closed"
+"quick_gloss": "closing"
 },
 {
 "surface": "iti",
@@ -369,7 +381,7 @@
 "tokens": [
 {
 "surface": "agatvā",
-"quick_gloss": "not-having-gone"
+"quick_gloss": "not-going"
 },
 {
 "surface": "ca",
@@ -385,7 +397,7 @@
 },
 {
 "surface": "gatvā",
-"quick_gloss": "having-gone"
+"quick_gloss": "going"
 },
 {
 "surface": "na",
@@ -418,7 +430,7 @@
 },
 {
 "surface": "nimīlana+karaṇa+gamana+ādibhiḥ",
-"quick_gloss": "by-closing+doing+going+etc"
+"quick_gloss": "closing+doing+going+etc"
 },
 {
 "surface": "na",
@@ -447,7 +459,7 @@
 "tokens": [
 {
 "surface": "yava+aṣṭaka+mitena",
-"quick_gloss": "by-barley+eight+measured"
+"quick_gloss": "barley+eight+measured"
 },
 {
 "surface": "eva",
@@ -463,7 +475,7 @@
 },
 {
 "surface": "tu",
-"quick_gloss": "indeed"
+"quick_gloss": "but"
 }
 ]
 },
@@ -484,7 +496,7 @@
 },
 {
 "surface": "yava+aṣṭaka",
-"quick_gloss": "by-barley+eight"
+"quick_gloss": "barley+eight"
 },
 {
 "surface": "iti",
@@ -512,7 +524,7 @@
 "quick_gloss": "delusion+greatness"
 },
 {
-"surface": "āścaryaṃ",
+"surface": "āścaryam",
 "quick_gloss": "wonder"
 },
 {
@@ -632,7 +644,7 @@
 },
 {
 "surface": "ṛcchati",
-"quick_gloss": "one-attains"
+"quick_gloss": "one-obtains"
 }
 ]
 },
@@ -657,7 +669,7 @@
 },
 {
 "surface": "udīritā",
-"quick_gloss": "is-declared"
+"quick_gloss": "declared"
 }
 ]
 },
@@ -743,7 +755,7 @@
 "quick_gloss": "of-this"
 },
 {
-"surface": "granthitvaṃ",
+"surface": "granthitvam",
 "quick_gloss": "knotness"
 },
 {
