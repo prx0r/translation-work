@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p50-v1226
-[trident](triśūlaṃ) [may-protect](pātu) [+us](naḥ) [+from-fear](bhīteḥ) [O-Bhadrakali](bhadrakāli) [salutation](namaḥ) [+be](astu) [+to-you](te)
+[trident](triśūlaṃ) [may-protect](pātu) [us](naḥ) [from-fear](abhīteḥ) [O-Bhadrakālī](bhadrakāli) [salutation](namaḥ) [to-you](astu) [to-you](te)
 
 ## mukta-m0-p50-v1227
-[that](sā) [bell](ghaṇṭā) [may-protect](pātu) [us](naḥ) [O-goddess](devi) [from-sins](pāpebhyaḥ) [+from-evils](anaḥ) [children](sutān) [+like](iva)
+[that](sā) [bell](ghaṇṭā) [may-protect](pātu) [us](naḥ) [O-goddess](devi) [from-sins](pāpebhyaḥ) [children](anaḥ) [like](sutān) [as](iva)
 
 ## mukta-m0-p50-v1228
-[for-auspiciousness](śubhāya) [sword](khaḍgaḥ) [may-be](bhavatu) [O-Candika](caṇḍike) [you](tvāṃ) [bowed](natāḥ) [we](vayam)
+[for-welfare](śubhāya) [sword](khaḍgaḥ) [may-be](bhavatu) [O-Caṇḍikā](caṇḍike) [to-you](tvāṃ) [bowed](natāḥ) [we](vayam)
 
 ## mukta-m0-p50-v1229
-[with-forms](rūpaiḥ) [+many](anekaiḥ) [+in-various-ways](bahudhā) [+own](ātma) [+body](mūrtiṃ) [having-made](kṛtvā) [+O-Mother](ambike) [that](tat) [+performs](prakaroti) [who](kā) [+other](anyā)
+[with-forms](rūpaiḥ) [with-many](anekaiḥ) [in-many-ways](bahudhā) [own+form](ātma+mūrtiṃ) [having-made](kṛtvā) [O-Mother](ambike) [that](tat) [performs](prakaroti) [what](kā) [other](anyā)
 
 ## mukta-m0-p50-v1230
-[in-mine-ness](mama) [+ness](tva) [+pit](garte) [+exceedingly](ati) [great](mahā) [+darkness](andhakāre) [bewilders](vibhāmayati) [+this](etat) [+then](atāva) [universe](viśvam)
+[in-mine-ness+pit](mamatva+garte) [exceedingly](ati) [in-great+darkness](mahān+dhakāre) [bewilders](vibhāmayati) [this](etat) [then](ataḥ) [indeed](āva) [universe](viśvam)
 
 ## mukta-m0-p50-v1231
-[forest](dāvā) [+fire](analaḥ) [where](yatra) [likewise](tathā) [+ocean](abdhi) [+middle](madhye) [there](tatra) [situated](sthitā) [you](tvaṃ) [protect](paripāsi) [universe](viśvam)
+[forest+fire](dāva+analaḥ) [where](yatra) [likewise](tathā) [ocean+middle](abdhi+madhye) [there](tatra) [standing](sthitā) [you](tvaṃ) [protect](paripāsi) [universe](viśvam)
 
 ## mukta-m0-p50-v1232
-[by-lord](viśva) [+of-universe](īśa) [+adorable](vandyā) [becomes](bhavati) [become](bhavanti) [+universe](viśva) [+refuge](āśrayā) [who](ye) [in-you](tvayi) [with-devotion](bhakti) [+bowed](namrāḥ)
+[by-lord-of-universe+to-be-adored](viśva+īśa+vandyā) [becomes](bhavati) [you-become](bhavanti) [universe+refuge](viśva+āśrayā) [who](ye) [in-you](tvayi) [with-devotion+bowed](bhakti+namrāḥ)
 
 ## mukta-m0-p50-v1233
-[great](mahā) [+calamities](upasargān) [from-great](mahā) [+calamities](upasargān)
+[great+calamities](mahā+upasargān)
 
 ## mukta-m0-p50-v1234
-[by-inhabitants](trailokya) [+of-three-worlds](vāsinām) [+praiseworthy](īḍye) [to-worlds](lokānāṃ) [boon](vara) [+giver](dā) [be](bhava)
+[of-three-worlds+dwellers](trailokya+vāsinām) [O-praiseworthy-one](īḍye) [to-worlds](lokānāṃ) [boon+giver](vara+dā) [be](bhava)
 
 ## mukta-m0-p50-v1235
-[goddess](devī) [+said](uvāca)
+[the-goddess](devī) [said](uvāca)
 
 ## mukta-m0-p50-v1236
-[that](taṃ) [choose](vṛṇudhvaṃ) [I-grant](prayacchāmi) [+of-worlds](jagatām) [+benefit](upa) [+doing](kārakam)
+[that](taṃ) [choose](vṛṇudhvaṃ) [I-shall-grant](prayacchāmi) [of-worlds](jagatām) [benefit+doing](upakārakam)
 
 ## mukta-m0-p50-v1237
-[gods](devāḥ) [+said](ūcuḥ)
+[the-gods](devāḥ) [said](ūcuḥ)
 
 ## mukta-m0-p50-v1238
-[thus](evam) [+indeed](eva) [by-you](tvayā) [+to-be-done](kāryam) [+our](asmat) [+enemy](vairi) [+destruction](vināśanam)
+[thus](evam) [indeed](eva) [by-you](tvayā) [to-be-done](kāryam) [our+enemy+destruction](asmat+vairi+vināśanam)
 
 ## mukta-m0-p50-v1239
-[goddess](devī) [+said](uvāca)
+[the-goddess](devī) [said](uvāca)
 
 ## mukta-m0-p50-v1240
-[Śumbha](śumbhaḥ) [Niśumbha](niśumbhaḥ) [+and](ca) [+also](eva) [+other](anyau) [+will-be-born](utpatsyete) [great](mahā) [+demons](asurau)
+[Śumbha](śumbhaḥ) [Niśumbha](niśumbhaḥ) [and](ca) [also](eva) [other-two](anyau) [will-be-born](utpatsyete) [great+demons](mahā+asurau)
 
 ## mukta-m0-p50-v1241
-[then](tataḥ) [+those-two](tau) [I-will-destroy](nāśayiṣyāmi) [Vindhya](vindhya) [+mountain](acala) [+dwelling](nivāsinī)
+[then](tataḥ) [those-two](tau) [I-shall-destroy](nāśayiṣyāmi) [Vindhya+mountain+dwelling](vindhya+acala+nivāsinī)
 
 ## mukta-m0-p50-v1242
-[having-descended](avatīrya) [I-will-slay](haniṣyāmi) [Vaipracitta](vaipracittān) [+indeed](tu) [demons](dānavān)
+[having-descended](avatīrya) [I-shall-slay](haniṣyāmi) [sons-of-Vipracitti](vaipracittān) [indeed](tu) [demons](dānavān)
 
 ## mukta-m0-p50-v1243
-[blood](rakta) [+red](ādantāḥ) [will-be](bhaviṣyanti) [pomegranate](dāḍimī) [+flower](kusuma) [+resembling](upamāḥ)
+[red+teeth](rakta+dantāḥ) [will-be](bhaviṣyanti) [pomegranate+flower+resembling](dāḍimī+kusuma+upamāḥ)
 
 ## mukta-m0-p50-v1244
-[praising](stuvantaḥ) [will-utter](vyāhāraṣyan) [+indeed](it) [constantly](satataṃ) [Raktadantika](raktadantikām)
+[praising](stuvantaḥ) [they-will-utter](vyāhāraṣyanti) [constantly](satataṃ) [Raktadantikā](raktadantikām)
 
 ## mukta-m0-p50-v1245
-[by-sages](munibhiḥ) [praised](saṃstutā) [on-earth](bhūmau) [I-will-be-born](saṃbhaviṣyāmi) [+not](a) [+womb-born](yonijā)
+[by-sages](munibhiḥ) [well-praised](saṃstutā) [on-earth](bhūmau) [I-shall-be-born](saṃbhaviṣyāmi) [not-womb-born](ayonijā)
 
 ## mukta-m0-p50-v1246
-[will-proclaim](kīrtayiṣyanti) [humans](manujāḥ) [Śatakshi](śatākṣīm) [+thus](iti) [me](māṃ) [then](tataḥ)
+[will-proclaim](kīrtayiṣyanti) [humans](manujāḥ) [Śatākṣī](śatākṣī) [thus](iti) [me](māṃ) [then](tataḥ)
 
 ## mukta-m0-p50-v1247
-[I-will-nourish](bhariṣyāmi) [gods](surāḥ) [with-vegetables](śākaiḥ) [+from-rainlessness](āvṛṣṭeḥ) [life](prāṇa) [+sustaining](dhārakaiḥ)
+[I-shall-nourish](bhariṣyāmi) [gods](surāḥ) [with-vegetables](śākaiḥ) [during-drought](āvṛṣṭeḥ) [life+sustaining](prāṇa+dhārakaiḥ)
 
 ## mukta-m0-p50-v1248
-[Durgama](durgamākhyaṃ) [+named](ākhyaṃ) [great](mahā) [+demon](asuram)
+[Durgama+named](durgama+ākhyaṃ) [great+demon](mahā+asuram)
 
 ## mukta-m0-p50-v1249
-[again](punaḥ) [+and](ca) [+I](aham) [when](yadā) [terrible](bhīmaṃ) [form](rūpaṃ) [having-made](kṛtvā) [in-Himalaya](himācale)
+[again](punaḥ) [and](ca) [I](ahaṃ) [when](yadā) [terrible](bhīmaṃ) [form](rūpaṃ) [having-made](kṛtvā) [in-Himalaya](himācale)
 
 ## mukta-m0-p50-v1250
-[then](tadā) [me](māṃ) [sages](munayaḥ) [all](sarve) [will-praise](stoṣyanti) [+with-bowed](ānamra) [+bodies](mūrtayaḥ)
+[then](tadā) [me](māṃ) [sages](munayaḥ) [all](sarve) [will-praise](stoṣyanti) [with-bowed+bodies](ānamra+mūrtayaḥ)

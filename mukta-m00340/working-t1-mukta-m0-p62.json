@@ -11,20 +11,20 @@
 "quick_gloss": "fearless"
 },
 {
-"surface": "āpo",
+"surface": "āpaḥ",
 "quick_gloss": "waters"
 },
 {
-"surface": "māta",
-"quick_gloss": "mother"
+"surface": "mā",
+"quick_gloss": "me"
 },
 {
-"surface": "smād",
-"quick_gloss": "from-us"
+"surface": "asmāt",
+"quick_gloss": "from-this"
 },
 {
 "surface": "enasaḥ",
-"quick_gloss": "from-sin"
+"quick_gloss": "sin"
 },
 {
 "surface": "pavamānaḥ",
@@ -36,7 +36,7 @@
 },
 {
 "surface": "muñcatu",
-"quick_gloss": "release"
+"quick_gloss": "may-release"
 }
 ]
 },
@@ -48,11 +48,11 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "raṅgān",
-"quick_gloss": "colors"
+"surface": "raṅgāni",
+"quick_gloss": "limbs"
 },
 {
-"surface": "imitram",
+"surface": "mitram",
 "quick_gloss": "friend"
 },
 {
@@ -76,8 +76,8 @@
 "quick_gloss": "strength"
 },
 {
-"surface": "indriyaṃ",
-"quick_gloss": "and-vigor"
+"surface": "indriyam",
+"quick_gloss": "sense-power"
 },
 {
 "surface": "hastau",
@@ -110,7 +110,7 @@
 },
 {
 "surface": "kṣatram",
-"quick_gloss": "sovereignty"
+"quick_gloss": "ruling-power"
 },
 {
 "surface": "uraḥ",
@@ -143,17 +143,8 @@
 },
 {
 "surface": "sarvataḥ",
-"quick_gloss": "all-around"
-}
-]
+"quick_gloss": "from-all-sides"
 },
-{
-"verse_id": "mukta-m0-p62-v1530",
-"song": "mukta-m0-p62",
-"verse": 1530,
-"quick_english": "",
-"quick_english_source": "t1parse",
-"tokens": [
 {
 "surface": "nābhiḥ",
 "quick_gloss": "navel"
@@ -180,19 +171,28 @@
 },
 {
 "surface": "pacitiḥ",
-"quick_gloss": "intelligence"
+"quick_gloss": "digestive-power"
 },
 {
 "surface": "bhasat",
-"quick_gloss": "splendor"
+"quick_gloss": "may-shine"
+}
+]
 },
+{
+"verse_id": "mukta-m0-p62-v1530",
+"song": "mukta-m0-p62",
+"verse": 1530,
+"quick_english": "",
+"quick_english_source": "t1parse",
+"tokens": [
 {
 "surface": "viṣṇuḥ",
 "quick_gloss": "Viṣṇu"
 },
 {
-"surface": "maheśvaraḥ",
-"quick_gloss": "great-lord"
+"surface": "maheśvarāḥ",
+"quick_gloss": "great-lords"
 },
 {
 "surface": "vāsudevaḥ",
@@ -204,7 +204,7 @@
 },
 {
 "surface": "tasthā",
-"quick_gloss": "thus-stood"
+"quick_gloss": "then"
 },
 {
 "surface": "saṃkarṣaṇaḥ",
@@ -224,8 +224,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "ca+nirṛtiḥ",
-"quick_gloss": "and-Nirṛti"
+"surface": "ca",
+"quick_gloss": "and"
+},
+{
+"surface": "nir-ṛtiḥ",
+"quick_gloss": "Nirṛti"
 },
 {
 "surface": "tathā",
@@ -240,8 +244,12 @@
 "quick_gloss": "wind"
 },
 {
-"surface": "ca+eva",
-"quick_gloss": "and-also"
+"surface": "ca",
+"quick_gloss": "and"
+},
+{
+"surface": "eva",
+"quick_gloss": "also"
 },
 {
 "surface": "dhanādhyakṣaḥ",
@@ -266,11 +274,11 @@
 "tokens": [
 {
 "surface": "brahmaṇāḥ",
-"quick_gloss": "with-Brahmā"
+"quick_gloss": "by-Brahmā"
 },
 {
 "surface": "sahitāḥ",
-"quick_gloss": "together"
+"quick_gloss": "accompanied"
 },
 {
 "surface": "sarve",
@@ -278,11 +286,11 @@
 },
 {
 "surface": "digpālāḥ",
-"quick_gloss": "guardians-of-directions"
+"quick_gloss": "guardians-of-the-directions"
 },
 {
 "surface": "pāntu",
-"quick_gloss": "protect"
+"quick_gloss": "may-protect"
 },
 {
 "surface": "te",
@@ -335,8 +343,12 @@
 "quick_gloss": "Āditya"
 },
 {
-"surface": "caṃdramā",
-"quick_gloss": "and-Moon"
+"surface": "ca",
+"quick_gloss": "and"
+},
+{
+"surface": "aṃdramā",
+"quick_gloss": "Moon"
 },
 {
 "surface": "bhaumaḥ",
@@ -355,7 +367,7 @@
 "quick_gloss": "Venus"
 },
 {
-"surface": "arkajaḥ",
+"surface": "arkajāḥ",
 "quick_gloss": "Saturn"
 }
 ]
@@ -376,11 +388,11 @@
 "quick_gloss": "Yakṣas"
 },
 {
-"surface": "rākṣasa",
+"surface": "rākṣapa",
 "quick_gloss": "Rākṣasas"
 },
 {
-"surface": "nāgāḥ",
+"surface": "nnagāḥ",
 "quick_gloss": "Nāgas"
 },
 {
@@ -482,16 +494,20 @@
 "quick_gloss": "destroy"
 },
 {
-"surface": "ajyatvaṃ",
-"quick_gloss": "impurity"
+"surface": "ajya",
+"quick_gloss": "today"
+},
+{
+"surface": "tvaṃ",
+"quick_gloss": "you"
 },
 {
 "surface": "priyam",
-"quick_gloss": "dear"
+"quick_gloss": "life"
 },
 {
 "surface": "āyuḥ",
-"quick_gloss": "life"
+"quick_gloss": "lifespan"
 },
 {
 "surface": "ca",
@@ -524,7 +540,7 @@
 },
 {
 "surface": "astu",
-"quick_gloss": "be"
+"quick_gloss": "may-be"
 },
 {
 "surface": "sadā",
@@ -545,7 +561,7 @@
 "tokens": [
 {
 "surface": "āyuḥ",
-"quick_gloss": "life"
+"quick_gloss": "lifespan"
 },
 {
 "surface": "eva",
@@ -577,7 +593,7 @@
 },
 {
 "surface": "naḥ",
-"quick_gloss": "to-us"
+"quick_gloss": "for-us"
 },
 {
 "surface": "indraḥ",
@@ -635,11 +651,11 @@
 "tokens": [
 {
 "surface": "padābhāve",
-"quick_gloss": "on-foot-fall"
+"quick_gloss": "on-foot-arrival"
 },
 {
 "surface": "trayaṃ",
-"quick_gloss": "three"
+"quick_gloss": "three-things"
 },
 {
 "surface": "deyaṃ",
@@ -691,12 +707,8 @@
 "quick_gloss": "distressed"
 },
 {
-"surface": "paraḥ",
-"quick_gloss": "other"
-},
-{
-"surface": "tathā",
-"quick_gloss": "likewise"
+"surface": "parastathā",
+"quick_gloss": "and-devoted"
 }
 ]
 },
@@ -733,7 +745,7 @@
 },
 {
 "surface": "viśrutaḥ",
-"quick_gloss": "renowned"
+"quick_gloss": "well-known"
 }
 ]
 },
@@ -795,7 +807,7 @@
 },
 {
 "surface": "asmi",
-"quick_gloss": "am"
+"quick_gloss": "I-am"
 },
 {
 "surface": "vanam",
@@ -803,7 +815,7 @@
 },
 {
 "surface": "āśu",
-"quick_gloss": "shelter"
+"quick_gloss": "quickly"
 },
 {
 "surface": "vai",
@@ -840,7 +852,7 @@
 },
 {
 "surface": "pīḍitaḥ",
-"quick_gloss": "afflicted"
+"quick_gloss": "tormented"
 },
 {
 "surface": "abhavaṃ",
@@ -873,7 +885,7 @@
 },
 {
 "surface": "ahīnaṃ",
-"quick_gloss": "without"
+"quick_gloss": "deprived"
 },
 {
 "surface": "suduḥkhitaṃ",
@@ -955,7 +967,7 @@
 },
 {
 "surface": "mahāmate",
-"quick_gloss": "o-great-minded-one"
+"quick_gloss": "O-great-minded-one"
 }
 ]
 },
