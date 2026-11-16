@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p13-v301
-[for-marriage-purpose](dārakriyārthaṃ) [to-him](tasmai) [her](tāṃ) [Hemalekha](hemalekhāṃ) [gave](dadau) [sage](muniḥ)
+[dāra-kriyā-arthaṃ](dārakriyārthaṃ) [tasmai](tasmai) [tāṃ](tāṃ) [hema-lekhāṃ](hemalekhāṃ) [dadau](dadau) [muniḥ](muniḥ)
 
 ## mukta-m0-p13-v302
-[all](sarvaṃ) [their-intention](tayorabhiprāyam) [that](tat) [to-him](tasmai) [maiden-gift](kanyādānam)
+[sarvaṃ](sarvaṃ) [tayoḥ-abhiprāyam](tayorabhiprāyam) [tat](tat) [tasmai](tasmai) [kanyā-dānam](kanyādānam)
 
 ## mukta-m0-p13-v303
-[Muktacuda](muktācūḍo'tisantuṣṭo) [very-pleased](atisantuṣṭo) [by-great-festival-arrangement](mahotsavavidhānataḥ)
+[muktā-cūḍaḥ](muktācūḍo'tisantuṣṭo) [ati-santuṣṭaḥ](muktācūḍo'tisantuṣṭo) [mahā-utsava-vidhānataḥ](mahotsavavidhānataḥ) [utsava-vidhi-taḥ](mahotsavavidhānataḥ)
 
 ## mukta-m0-p13-v304
-[then](atha) [prince](rājakumāro'pi) [also](api) [with-her](tayā) [play-absorbed](krīḍāparaḥ) [always](sadā)
+[atha](atha) [rāja-kumāraḥ-api](rājakumāro'pi) [tayā](tayā) [krīḍā-paraḥ](krīḍāparaḥ) [sadā](sadā)
 
 ## mukta-m0-p13-v305
-[Hemalekha](hemalekhāṃ) [prince](rājaputro) [in-enjoyments](bhogeṣvanatikāminīm) [not-too-desiring](anatikāminīm)
+[hema-lekhāṃ](hemalekhāṃ) [rāja-putraḥ](rājaputro) [bhogeṣu](bhogeṣvanatikāminīm) [an-ati-kāminīm](bhogeṣvanatikāminīm)
 
 ## mukta-m0-p13-v306
-[why](kiṃ) [beloved](priye) [not-attached-are-you](nānuraktāsi) [beloved](priye) [in-me-loving](mayyanurāgiṇi)
+[kim](kiṃ) [priye](priye) [na-anuraktā-asi](nānuraktāsi) [priye](priye) [mayi-anurāgiṇi](mayyanurāgiṇi)
 
 ## mukta-m0-p13-v307
-[what](kiṃ) [enjoyments-your](bhogāste) [mind-suitable](manoyogyā) [not](na) [exist](santyatra) [whence-this](kutastvidam)
+[kim](kiṃ) [bhogāḥ-te](bhogāste) [manaḥ-yogyāḥ](manoyogyā) [na](na) [santi-atra](santyatra) [kutaḥ-tu-idam](kutastvidam)
 
 ## mukta-m0-p13-v308
-[whence](kutaḥ) [from-what-cause](kasmāddhetoḥ) [enjoyments](bhogāḥ) [means-of-enjoyment](bhogasādhanāni) [whence](kuta) [this-indifference](idamaudāsīnyam)
+[kutaḥ](kutaḥ) [kasmāt-hetoḥ](kasmāddhetoḥ) [bhogāḥ](bhogāḥ) [bhoga-sādhanāni](bhogasādhanāni) [kutaḥ](kuta) [idam-audāsīnyam](idamaudāsīnyam)
 
 ## mukta-m0-p13-v309
-[in-you](tvayyāsaktivihīnāyāṃ) [attachment-lacking](āsaktivihīnāyāṃ) [how](kathaṃ) [my](me) [pleasure-giving](sukhadā) [love](ratiḥ)
+[tvayi-āsakti-vihīnāyāṃ](tvayyāsaktivihīnāyāṃ) [katham](kathaṃ) [me](me) [sukha-dā](sukhadā) [ratiḥ](ratiḥ)
 
 ## mukta-m0-p13-v310
-[mutual-attachment-excess](parasparāsaktyatiśayenaiva) [alone](eva) [love](ratiḥ) [pleasure-giving](sukhadā) [intention](ityāśayaḥ)
+[paraspara-āsakti-atiśayena-eva](parasparāsaktyatiśayenaiva) [ratiḥ](ratiḥ) [sukha-dā-iti-āśayaḥ](sukhadetyāśayaḥ)
 
 ## mukta-m0-p13-v311
-[spoken](bhāṣitāpi) [even](api) [by-me](mayā) [again](bhūyo) [not](na) [hear-at-all](śṛṇoṣyeva) [anything](kiñcana)
+[bhāṣitā-api](bhāṣitāpi) [mayā](mayā) [bhūyaḥ](bhūyo) [na](na) [śṛṇoṣi-eva](śṛṇoṣyeva) [kiñcana](kiñcana)
 
 ## mukta-m0-p13-v312
-[other-directed-mind-state](anyagatamānasatvaṃ) [or](vā) [how](kathaṃ) [by-you-understood](tvayā'vagatamiti) [thus](cedāha) [says](āha) [spoken](bhāṣiteti)
+[anya-gata-mānasatvaṃ](anyagatamānasatvaṃ) [vā](vā) [katham](kathaṃ) [tvayā-avagatam-iti](tvayā'vagatamiti) [ca-ida-āha](cedāha) [bhāṣitā-iti](bhāṣiteti)
 
 ## mukta-m0-p13-v313
-[when](kadā) [lord-arrived](nāthāgataṃ) [thus](ceti) [ask](pṛcchasyaviditā) [unknowing](aviditā) [as](yathā)
+[kadā](kadā) [nātha-āgatam](nāthāgataṃ) [ca-iti](ceti) [pṛcchasi-aviditā](pṛcchasyaviditā) [yathā](yathā)
 
 ## mukta-m0-p13-v314
-[long-time](cirāt) [neck-clinging](kaṇṭhasaṃlagnamapi) [even](api) [when](kadā) [arrived](āgatamiti) [thus](iti) [ask](pṛcchasi)
+[cirāt](cirāt) [kaṇṭha-saṃlagnam-api](kaṇṭhasaṃlagnamapi) [kadā](kadā) [āgatam-iti](āgatamiti) [pṛcchasi](pṛcchasi)
 
 ## mukta-m0-p13-v315
-[mind](mana) [attaches](āsajjate) [why](kasmānna) [not](na) [anything](kiñcidanumodasi) [approve](anumodasi)
+[manaḥ](mana) [āsajjate](āsajjate) [kasmāt-na](kasmānna) [kiñcit-anumodasi](kiñcidanumodasi)
 
 ## mukta-m0-p13-v316
-[not](nā) [approve](anumodasi)
+[na-anumodasi](nā(a)numodasi)
 
 ## mukta-m0-p13-v317
-[when](yadā) [whenever](yadopagacchāmi) [approach](upagacchāmi) [see](paśyāmi) [and](ca) [then](tadā) [then](tadā)
+[yadā-yadā](yadā) [upagacchāmi](yadopagacchāmi) [paśyāmi](paśyāmi) [ca](ca) [tadā-tadā](tadā) [tadā](tadā)
 
 ## mukta-m0-p13-v318
-[how](kathaṃ) [be](bhaveddāruyoṣāsaṅgatasyeva) [wooden-doll-attached](dāruyoṣāsaṅgatasyeva) [like](eva) [that-say](tadvada)
+[katham](kathaṃ) [bhavet-dāru-yoṣā-saṅgatasya-iva](bhaveddāruyoṣāsaṅgatasyeva) [tat-vat](tadvada)
 
 ## mukta-m0-p13-v319
-[always](sarvathā) [you-follow](tvāmanugato) [moonlight](jyotsnāṃ) [lotus-like](kumudavat) [indeed](kila)
+[sarvathā](sarvathā) [tvām-anugataḥ](tvāmanugato) [jyotsnāṃ](jyotsnāṃ) [kumudavat](kumudavat) [kila](kila)
 
 ## mukta-m0-p13-v320
-[not](na) [and](ca) [you-not-follow](tvāmananugato'smītyāha) [am](asmi) [thus](iti) [says](āha) [not](na) [yours](taveti)
+[na](na) [ca](ca) [tvām-ananugataḥ-asmi-iti-āha](tvāmananugato'smītyāha) [na](na) [tava-iti](na) [tava-iti](taveti)
 
 ## mukta-m0-p13-v321
-[by-which](yena) [purify](śuddhyettu) [indeed](tu) [my-mind](maccittaṃ) [sworn](śāpitāsi) [are](asi) [by-me](mayā) [beloved](priye)
+[yena](yena) [śuddhyet-tu](śuddhyettu) [mat-cittam](maccittaṃ) [śāpitā-asi](śāpitāsi) [mayā](mayā) [priye](priye)
 
 ## mukta-m0-p13-v322
-[thus](evaṃ) [sense-objects-averse](viṣayavimukham)
+[evam](evaṃ) [viṣaya-vimukham](viṣayavimukham)
 
 ## mukta-m0-p13-v323
-[slight-smiling-face](īṣatsmitānanā) [said](prāha) [prince](rājaputramaninditā) [blameless](aninditā)
+[īṣat-smita-ānanā](īṣatsmitānanā) [prāha](prāha) [rāja-putram](rājaputram) [aninditā](aninditā)
 
 ## mukta-m0-p13-v324
-[blameless](aninditeti) [thus](iti) [not](na) [her](tasyā) [known-knower](viditavedyāyā) [sense-objects-aversion](viṣayavaimukhyaṃ) [foolishness](mauḍhyādineti) [etc](ādi) [meaning](bhāvaḥ)
+[aninditā-iti](aninditeti) [na](na) [tasyāḥ](tasyā) [vidita-vedyāyāḥ](viditavedyāyā) [viṣaya-vaimukhyam](viṣayavaimukhyaṃ) [mauḍhyāt-iti-na](mauḍhyādineti) [bhāvaḥ](bhāvaḥ)
 
 ## mukta-m0-p13-v325
-[prince](rājaputra) [hear](śṛṇu) [word](vaco) [not](nāhaṃ) [I](ahaṃ) [in-you](tvayi) [dispassionate](virāgiṇī)
+[rāja-putra](rājaputra) [śṛṇu](śṛṇu) [vacaḥ](vaco) [na-ahaṃ](nāhaṃ) [tvayi](tvayi) [virāgiṇī](virāgiṇī)

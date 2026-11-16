@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p130-v3226
-[meaning](tātparyam)
+[purport](tātparyam) [essential-meaning](tātparyam) [intended-sense](tātparyam) [import](tātparyam)
 
 ## mukta-m0-p130-v3227
-[this](etan) [my](me) [chief+sovereignty](mukhyamaiśvaryaṃ) [manifestation+of+difficult+meaning](durghaṭārthavibhāvanam)
+[this](etat) [my](me) [chief](mukhya) [sovereignty](aiśvaryaṃ) [difficult](durghaṭa) [object](artha) [manifestation](vibhāvanam)
 
 ## mukta-m0-p130-v3228
-[of+difficult+meaning](durghaṭārthasya) [manifestation](vibhāvanaṃ) [accomplishment](sampādanam)
+[of-difficult](durghaṭa) [object](arthasya) [manifestation](vibhāvanaṃ) [accomplishment](sampādanam) [bringing-about](sampādanam) [realization](vibhāvanaṃ)
 
 ## mukta-m0-p130-v3229
-[all+support](sarvāśrayā) [all+pervading](sarvagatā) [and+I](cāpyahaṃ) [alone](kevalā) [standing](sthitā) [k:]( [consciousness](citiḥ) ])
+[of-all](sarva) [support](āśrayā) [all](sarva) [pervading](gatā) [and](ca) [also](api) [I](ahaṃ) [alone](kevalā) [abiding](sthitā)
 
 ## mukta-m0-p130-v3230
-[again](bhūyo) [having+known](viditvā) [own+self](svātmānaṃ) [of+teacher](guroḥ) [disciple+state](śiṣyapadaṃ) [gone](gatā)
+[again](bhūyo) [having-known](viditvā) [own](sva) [self](ātmānaṃ) [of-guru](guroḥ) [disciple](śiṣya) [state](padaṃ) [gone](gatā)
 
 ## mukta-m0-p130-v3231
-[connection](sambandhaḥ)
+[connection](sambandhaḥ) [relation](sambandhaḥ) [link](sambandhaḥ) [context](sambandhaḥ)
 
 ## mukta-m0-p130-v3232
-[without+material+cause](nirupādānasambhāraṃ) [I+create](sṛjāmi) [such+world](jagadīdṛśam)
+[without](nir) [material](upādāna) [collection](sambhāraṃ) [I-create](sṛjāmi) [world](jagat) [such-as-this](īdṛśam)
 
 ## mukta-m0-p130-v3233
-[I+create](sṛjāmi)
+[I-create](sṛjāmi) [I-emanate](sṛjāmi) [I-produce](sṛjāmi) [I-bring-forth](sṛjāmi)
 
 ## mukta-m0-p130-v3234
-[not](na) [that](tad) [to+count](gaṇayituṃ) [possible](śakyaṃ) [with+thousand+mouths](sahasravadanena) [or](vā)
+[not](na) [that](tad) [to-count](gaṇayituṃ) [possible](śakyaṃ) [by-thousand](sahasra) [mouthed-one](vadanena) [even](vā)
 
 ## mukta-m0-p130-v3235
-[sense](bhāvaḥ)
+[meaning](bhāvaḥ) [sense](bhāvaḥ) [purport](bhāvaḥ) [import](bhāvaḥ)
 
 ## mukta-m0-p130-v3236
-[world+journey](jagadyātrā) [k:]( [supporter](dhātrā) ) [variegated+this](vicitreyaṃ) [everywhere](sarvataḥ) [spread+out](saṃprasāritā)
+[world](jagat) [course](yātrā) [variegated](vicitrā) [this](iyaṃ) [on-all-sides](sarvataḥ) [spread-forth](saṃprasāritā)
 
 ## mukta-m0-p130-v3237
-[from+difference+of+higher+and+lower](parāparavibhedācca) [in+many+ways](bahudhā) [and](cāpi) [its+fruit](tatphalam)
+[by-higher](para) [and-lower](apara) [distinction](vibhedāt) [and](ca) [manifold](bahudhā) [and](ca) [also](api) [its](tat) [fruit](phalam)
 
 ## mukta-m0-p130-v3238
-[meditation+only](dhyānameva) [but](tu) [that+declared](tatproktaṃ) [dream+kingdom+etc+equal](svapnarājyādisammitam)
+[meditation](dhyānam) [alone](eva) [indeed](tu) [that](tat) [declared](proktam) [with-dream](svapna) [kingdom](rājya) [and-so-on](ādi) [comparable](sammitam)
 
 ## mukta-m0-p130-v3239
-[dream+kingdom+delusion+equality](svapnarājyabhramatulyatvam) [thus](iti) [to+be+meditated](dhyeyam)
+[with-dream](svapna) [kingdom](rājya) [delusion](bhrama) [similarity](tulyatvam) [thus](iti) [to-be-meditated](dhyeyam) [to-be-contemplated](dhyeyam) [this](iti)
 
 ## mukta-m0-p130-v3240
-[another](aparaṃ) [and](cāpi) [various](vividhaṃ) [there](tatra) [chief](mukhyaṃ) [that+indeed](tadeva) [hi](hi)
+[other](aparaṃ) [and](ca) [also](api) [various](vividhaṃ) [there](tatra) [chief](mukhyaṃ) [that](tat) [alone](eva) [indeed](hi)
 
 ## mukta-m0-p130-v3241
-[or](uta) [whatever+chief](yatkiñcinmukhyam) [thus](iti) [if](ced) [says](āha) [-]( -) [another](aparaṃ) [ceti](ceti) [|]( |) [duality](dvaitaṃ) [cetyarthaḥ](cetyarthaḥ)
+[or](uta) [whatever](yatkiñcit) [chief](mukhyam) [thus](iti) [if](cet) [says](āha) [other](aparaṃ) [and](ca) [thus](iti) [duality](dvaitaṃ) [and](ca) [thus](iti) [meaning](arthaḥ)
 
 ## mukta-m0-p130-v3242
-[non+dual+knowledge+only](advaitavijñānameva) [supreme+knowledge](paravijñānam) [declared](īritam)
+[non-dual](advaita) [knowledge](vijñānam) [alone](eva) [supreme](para) [knowledge](vijñānam) [declared](īritam)
 
 ## mukta-m0-p130-v3243
-[supreme+knowledge](paravijñānaṃ) [best+knowledge](śreṣṭhavijñānam)
+[supreme](para) [knowledge](vijñānaṃ) [best](śreṣṭha) [knowledge](vijñānam) [highest](śreṣṭha) [cognition](vijñānam)
 
 ## mukta-m0-p130-v3244
-[how](kathaṃ) [would+be+attained](prāpyeta) [supreme](paramāṃ) [knowledge+non+dual+named](vidyāmadvaitasaṃjñikām)
+[how](kathaṃ) [could-be-obtained](prāpyeta) [supreme](paramāṃ) [knowledge](vidyām) [non-dual](advaita) [named](saṃjñikām)
 
 ## mukta-m0-p130-v3245
-[would+be+attained](prāpyeta) [?] [?] [not+indeed+attained](naiva) [prāpyeteti](prāpyeteti) [bhāvaḥ](bhāvaḥ) [|]( |) [knowledge](vidyāṃ) [knowledge](jñānam)
+[could-be-obtained](prāpyeta) [not](na) [indeed](eva) [could-be-obtained](prāpyeta) [thus](iti) [meaning](bhāvaḥ) [knowledge](vidyāṃ) [cognition](jñānam)
 
 ## mukta-m0-p130-v3246
-[of+that](tasyāḥ) [pure+state+reflection](śuddhadaśāmarśo) [duality+reflection+overpowering](dvaitāmarśābhibhāvakaḥ)
+[of-that](tasyāḥ) [pure](śuddha) [state](daśā) [awareness](āmarśaḥ) [duality](dvaita) [awareness](āmarśa) [overpowering](abhibhāvakaḥ)
 
 ## mukta-m0-p130-v3247
-[meaning](tātparyam)
+[purport](tātparyam) [essential-meaning](tātparyam) [intended-sense](tātparyam) [import](tātparyam)
 
 ## mukta-m0-p130-v3248
-[that+indeed+manifested](tadevānuvibhātaṃ) [would+be](syād) [knowledge](vijñānam) [sages+best](ṛṣisattamāḥ)
+[that](tat) [alone](eva) [shining-forth](anuvibhātaṃ) [may-be](syāt) [knowledge](vijñānam) [O-best](sattamāḥ) [of-sages](ṛṣi)
 
 ## mukta-m0-p130-v3249
-[of+body+etc+self+appearance](dehādyātmāvabhāsasya) [destruction](nāśanaṃ) [knowledge+called](jñānamucyate)
+[of-body](deha) [and-so-on](ādi) [self](ātma) [appearance](avabhāsasya) [destruction](nāśanaṃ) [knowledge](jñānam) [is-called](ucyate)
 
 ## mukta-m0-p130-v3250
-[vāmadeva+karkaṭikā+etc](vāmadevakarkaṭikādayaḥ)
+[Vāmadeva](vāmadeva) [Karkaṭikā](karkaṭikā) [and-others](ādayaḥ) [such-sages](ādayaḥ) [examples](ādayaḥ) [mentioned](ādayaḥ)
