@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p62-v1526
-[as-before](prāgvat) [vowel-divided](svaravibhinnāni) [by-previously-stated-method](prāguktavidhinā) [thus](tathā(taḥ))
+[as-before](prāgvat) [vowel+distinguished](svara+vibhinnāni) [by-previously+stated+method](prāg+ukta+vidhinā) [thus](tathā)
 
 ## mukta-m0-p62-v1527
-[twenty-one](ekaviṃśati) [cells](koṣṭhāni) [remaining](śiṣṭāni) [again](punar) [O-Mother](ambike)
+[twenty-one+cells](ekaviṃśati+koṣṭhāni) [remaining](śiṣṭāni) [again](punar) [O-Mother](ambike)
 
 ## mukta-m0-p62-v1528
-[beginning-with](ādi) [the-eighth](aṣṭama) [zodiac-sign](rāśy) [and-so-forth](aṣṭamarāśyādi)
+[eighth+zodiac-sign+beginning-with](aṣṭama+rāśi+ādi)
 
 ## mukta-m0-p62-v1529
-[ghaṭikā](ghaṭikā) [pair](yuga) [syllables](varṇau) [and](ca) [one-should-write](likhet) [by-previously-stated](prāgukta) [method](yogataḥ)
+[ghaṭikā+pair+syllables](ghaṭikā+yuga+varṇau) [and](ca) [one-should-write](likhet) [by-previously+stated+application](prāg+ukta+yogataḥ)
 
 ## mukta-m0-p62-v1530
-[named-sādhya](sādhyākhyaṃ) [one-should-write](ālikhet) [by-stated](ukta) [order](krameṇa) [in-the-two](dvayoḥ) [sections](puṭayoḥ)
+[target+name](sādhya+ākhyam) [one-should-write](ālikhet) [by-stated+order](ukta+krameṇa) [in-enclosures](puṭayoḥ) [of-two](dvayoḥ)
 
 ## mukta-m0-p62-v1531
-[in-groups-of-two-and-three](dvitrikrameṇa) [in-east-west](prākpratyak) [corners](koṇayoḥ) [indeed](tu) [three](trayaṃ) [by-three](trayam)
+[in-two-and-three+order](dvi+tri+krameṇa) [in-east-west+corners](prāk+pratyak+koṇayoḥ) [indeed](tu) [three](trayaṃ) [three](trayam)
 
 ## mukta-m0-p62-v1532
-[touching](spṛśan) [one-should-repeat](japen) [the-mantra](manuṃ) [afterwards](paścāt) [three-thousand-times](trisahasraṃ) [then](tatas) [indeed](tu) [that](tat(tam))
+[touching](spṛśan) [one-should-mutter+mantra](japet+manuṃ) [afterwards](paścāt) [three-thousand](tri+sahasraṃ) [then](tatas) [indeed](tu) [that](tat)
 
 ## mukta-m0-p62-v1533
-[elemental](bhūta) [syllables](akṣarāṇi) [and](ca) [again](punar) [one-should-write](likhet) [according-to-the-purpose](kāryānurūpataḥ)
+[element+syllables](bhūta+akṣarāṇi) [and](ca) [again](punar) [one-should-write](likhet) [according-to-purpose](kārya+anurūpataḥ)
 
 ## mukta-m0-p62-v1534
-[in-victory](vijaya) [paralyzing](stambha) [enmity](vidveṣa) [subjugation](vaśya) [and-eradication](uccāṭana) [rites](karmasu)
+[in-victory+paralysis+hatred+subjugation+eradication+rites](vijaya+stambha+vidveṣa+vaśya+uccāṭana+karmasu)
 
 ## mukta-m0-p62-v1535
-[of-country](deśa) [kingdom](rāṣṭra) [city](pura) [village](grāma) [settlement](niveśa) [and-so-forth](ādeḥ) [especially](viśeṣataḥ)
+[of-country+kingdom+city+village+settlement+and-so-forth](deśa+rāṣṭra+pura+grāma+niveśa+ādeḥ) [especially](viśeṣataḥ)
 
 ## mukta-m0-p62-v1536
-[in-the-middle](madhye) [the-goddess](devīṃ) [having-invoked](samāvāhya) [one-should-worship](pūjayet) [daily](nityaśaḥ) [the-auspicious-one](śivām)
+[in-middle](madhye) [goddess](devīṃ) [having-invoked](samāvāhya) [one-should-worship](pūjayet) [daily](nityaśaḥ) [auspicious-one](śivām)
 
 ## mukta-m0-p62-v1537
-[one-should-perform](kuryāt) [for-three-nights](trirātraṃ) [doubled](dviguṇaṃ) [or-tripled](triguṇaṃ) [according-to-desire](kāmyarūpataḥ)
+[one-should-perform](kuryāt) [three-nights](tri+rātraṃ) [twofold](dvi+guṇaṃ) [threefold](tri+guṇaṃ) [according-to-desire](kāmya+rūpataḥ)
 
 ## mukta-m0-p62-v1538
-[if-resources-permit](vibhave) [in-a-pavilion](maṇḍape) [of-that](tasya) [the-aforementioned](prokta) [great](mahat) [vajra](vajaṃ) [one-should-draw](likhet)
+[if-resources-exist](vibhave) [in-pavilion](maṇḍape) [of-that](tasya) [prescribed+vajra](prokta+vajraṃ) [one-should-draw](likhet) [great](mahat)
 
 ## mukta-m0-p62-v1539
-[with-dance](nṛtya) [song](gīta) [and-so-forth](ādibhiḥ) [together](sārddhaṃ) [at-twilight-times](sandhyāsu) [and](ca) [especially](viśeṣataḥ)
+[with-dance+song+and-so-forth](nṛtya+gīta+ādibhīḥ) [together](sārddhaṃ) [at-twilights](sandhyāsu) [and](ca) [especially](viśeṣataḥ)
 
 ## mukta-m0-p62-v1540
-[by-destruction](nāśena) [of-the-enemy](vairi) [or](vā) [by-his](tasya) [defeat](bhaṅgāt) [or-even](api) [by-calamity](vyasanataḥ) [or](vā)
+[by-enemy+destruction](vairi+nāśena) [or](vā) [of-him](tasya) [by-defeat](bhaṅgāt) [or-by-calamity](vyasanataḥ) [even](api) [or](vā)
 
 ## mukta-m0-p62-v1541
-[one-should-honor](pratīyā(parīyā)t) [the-teacher](deśikaṃ) [indeed](tu) [first](agre) [on-an-elephant](gaje) [and-may-live](jīvet) [long](ciraṃ) [happily](sukhī(m))
+[one-should-approach](pratīyāt) [teacher](deśikaṃ) [indeed](tu) [in-front](agre) [on-elephant](gaje) [one-should-live+long](jīvet+ciraṃ) [happily](sukhī)
 
 ## mukta-m0-p62-v1542
-[thus](evam) [of-this](etasya) [vajra](vajrasya) [the-glory](vaibhavaṃ) [who](kaḥ) [indeed](nu) [can-describe](varṇayet)
+[thus](evam) [of-this](etasya) [vajra's](vajrasya) [glory](vaibhavaṃ) [who](kaḥ) [indeed](nu) [could-describe](varṇayet)
 
 ## mukta-m0-p62-v1543
-[beginning-with-a-month](māsādibhiḥ) [having-established](sthāpayitvā) [on-an-elephant](gaje) [thus](iti) [is-to-be-supplied](śeṣaḥ) [80](80)
+[beginning-with-months](māsa+ādibhiḥ) [on-elephant](gaje) [having-established](sthāpayitvā) [thus](iti) [remainder](śeṣaḥ) [80](80)
 
 ## mukta-m0-p62-v1544
-[by-which](yena) [held-in-hand](hastagatena) [may-be](syuḥ) [accomplishments](siddhayaḥ) [even](api) [in-one's-own-hand](svahastagāḥ)
+[by-which](yena) [being-in-hand](hasta+gatena) [may-be](syuḥ) [accomplishments](siddhayaḥ) [even](api) [in-own-hand+gone](sva+hasta+gāḥ)
 
 ## mukta-m0-p62-v1545
-[by-that](tena) [eighty-one](ekāśīti) [cells](koṣṭhāni) [are-produced](jāyante) [and-that](ta(cca)da) [as-before](pūrvavat)
+[by-that](tena) [eighty-one+cells](ekāśīti+koṣṭhāni) [are-produced](jāyante) [that](tat) [as-before](pūrva+vat)
 
 ## mukta-m0-p62-v1546
-[triangles](trikoṇāni) [in-the-four](catur) [directions](dikṣu) [in-them](teṣu) [those](tā(nyeva)) [indeed](vat) [and](ca) [as-before](pūrvavat)
+[triangles](trikoṇāni) [in-four+directions](catur+dikṣu) [in-them](teṣu) [those](tāni) [indeed](eva) [and](ca) [as-before](pūrva+vat)
 
 ## mukta-m0-p62-v1547
-[in-one](ekasmin) [middle](madhyame) [the-śakti](śaktiḥ) [in-the-womb](jaṭhare) [the-sādhya](sādhyam) [one-should-write](ālikhet)
+[in-one](ekasmin) [middle](madhyame) [power](śaktiḥ) [in-womb](jaṭhare) [target](sādhyam) [one-should-write](ālikhet)
 
 ## mukta-m0-p62-v1548
-[not](na) [difference](bhedaḥ) [indeed](tu) [of-these-two](anayoḥ) [exists](asti) [in-applications](prayogeṣu) [indeed](tu) [in-all](sarvataḥ)
+[not](na) [difference](bhedaḥ) [indeed+of-these-two](tu+anayoḥ) [exists](asti) [in-applications](prayogeṣu) [indeed](tu) [everywhere](sarvataḥ)
 
 ## mukta-m0-p62-v1549
-[on-the-arm](daśake) [on-the-heart](hṛdaye) [on-the-head](śīrṣe) [having-placed](saṃsthāpya) [in-battle](samare) [when-engaged](kṛte)
+[in-necklace](daśake) [on-heart](hṛdaye) [on-head](śīrṣe) [having-placed](saṃsthāpya) [in-battle](samare) [when-done](kṛte)
 
 ## mukta-m0-p62-v1550
-[unwounded](akṣata) [free-from-disease](aroga) [with-whole-body](sarvāṅgaḥ) [endowed-with-fame](yaśaḥ) [fortune](lakṣmī) [and-wealth](dhanānvitaḥ)
+[uninjured+disease-free+whole-bodied](akṣata+aroga+sarva+aṅgaḥ) [with-fame+prosperity+wealth+endowed](yaśas+lakṣmī+dhana+anvitaḥ)

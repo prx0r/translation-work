@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p63-v1551
-[this](etat) [on-copper+plate](tāmratale) [having-made](kṛtvā) [one-should-place](sthāpayet) [for-increase](abhivṛddhaye)
+[this](etat) [copper+plate](tāmra+tale) [having-made](kṛtvā) [one-should-place](sthāpayet) [for-increase](abhivṛddhaye)
 
 ## mukta-m0-p63-v1552
-[outside](bāhye) [having-placed](kṛtvā) [and](ca) [of-the-mantra](vidyāyā) [seed](bījam) [first](ādyam) [then](atha) [last](antim)
+[outside](bāhye) [having-placed](kṛtvā) [and](ca) [of-mantra](vidyāyā) [seed](bījam) [first](ādyam) [then](atha) [last](antim)
 
 ## mukta-m0-p63-v1553
-[one-by-one](ekaikaṃ) [in-side+corners](pārśvakoṇeṣu) [two](dve) [two](dve) [in-circle+intervals](vṛttāntarā) [again](punaḥ)
+[one-by-one](ekaikam) [in-side-corners](pārśva+koṇeṣu) [two](dve) [two](dve) [in-circle-intervals](vṛtta+antarā) [again](punaḥ)
 
 ## mukta-m0-p63-v1554
-[of-the-middle+seed](madhyabījasya) [in-the-middle](madhyasthaṃ) [one-should-write](likhet) [that](taṃ) [one's-own+desired](nijavāñchitam)
+[of-middle-seed](madhya+bījasya) [in-middle](madhya+stham) [one-should-write](likhet) [that](tam) [one's-own-desired](nija+vāñchitam)
 
 ## mukta-m0-p63-v1555
-[on-neck](kaṇṭhe) [or](vā) [one-should-wear](dhārayet) [immediately](sadyo) [beloved](vallabhā) [of-him](tasya) [becomes](jāyate)
+[on-neck](kaṇṭhe) [or](vā) [one-should-wear](dhārayet) [immediately](sadyaḥ) [beloved](vallabhā) [his](tasya) [becomes](jāyate)
 
 ## mukta-m0-p63-v1556
-[with-circle+eight+petals](vṛttāṣṭapatrayuktāni) [sixteen](ṣoḍaśāni) [charming](manoharam)
+[with-circle-eight-petals](vṛtta+aṣṭa+patra+yuktāni) [sixteen](ṣoḍaśāni) [charming](manoharam)
 
 ## mukta-m0-p63-v1557
-[their+fruits](tatphalāni) [and](ca) [teaches](upadiśati) [there](tatra) [daṃśaka](daṃśakaḥ) [armor](kavacaḥ) [other](anyat) [easy](sugamam)
+[their-fruits](tat+phalāni) [and](ca) [teaches](upadiśati) [there](tatra) [armor](daṃśakaḥ) [mail](kavacaḥ) [other](anyat) [easy](sugamam)
 
 ## mukta-m0-p63-v1558
-[with-repha+part](rephāṃśena) [one-should-make](kuryāt) [elsewhere](anyatra) [with-fourth+vowel+part](caturthasvarāṃśena) [one-should-make](kuryāt)
+[with-repha-part](repha+aṃśena) [one-should-make](kuryāt) [elsewhere](anyatra) [with-fourth-vowel-part](caturtha+svara+aṃśena) [one-should-make](kuryāt)
 
 ## mukta-m0-p63-v1559
-[of-pericarp+syllable](karṇikārṇasya) [in-the-middle](madhyasthaṃ) [one-should-make](kuryāt) [name](nāma) [one's-own+desired](nijepsitam)
+[of-pericarp-letter](karṇikā+arṇasya) [in-middle](madhya+stham) [one-should-make](kuryāt) [name](nāma) [one's-own-desired](nija+īpsitam)
 
 ## mukta-m0-p63-v1560
-[day+night](ahorātraṃ) [sixteenfold](ṣoḍaśadhā) [having-divided](kṛtvā) [that](tāṃ) [in-them](teṣu) [one-should-apply](yojayet)
+[day-and-night](aho+rātram) [sixteenfold](ṣoḍaśadhā) [having-divided](kṛtvā) [that](tām) [in-them](teṣu) [one-should-apply](yojayet)
 
 ## mukta-m0-p63-v1561
-[one-should-wear](dhārayet) [one-should-sprinkle](abhiṣiñcet) [and](ca) [one-should-mutter](ja(yurja)pet) [for-desired+object+accomplishment](iṣṭārthasiddhaye)
+[one-should-wear](dhārayet) [one-should-sprinkle](abhiṣiñcet) [and](ca) [one-should-mutter](japet) [for-desired-object-accomplishment](iṣṭa+artha+siddhaye)
 
 ## mukta-m0-p63-v1562
 [cells](koṣṭhāni) [sixteen](ṣoḍaśāni) [should-be](syuḥ) [in-them](teṣu) [lotuses](padmāni) [one-should-make](kārayet)
 
 ## mukta-m0-p63-v1563
-[goddess](devīṃ) [indeed](tu) [one-should-place](sthāpayet) [on-ground](bhūmau) [for-all+prosperity+attainment](sarvasampadavāptaye)
+[goddess](devīm) [indeed](tu) [one-should-place](sthāpayet) [on-ground](bhūmau) [for-all-prosperity-attainment](sarva+sampad+avāptaye)
 
 ## mukta-m0-p63-v1564
-[of-this](asyā) [from-manifestation](niṣphālanāt) [in-mind](citte) [that+principle](tattattvaṃ) [made-one's-own+self](svātmasātkṛtam)
+[of-this](asyā) [from-contemplation](niṣphālanāt) [in-mind](citte) [that-truth](tat+tattvam) [made-one's-own](sva+ātma+sātkṛtam)
 
 ## mukta-m0-p63-v1565
-[as-before](prāgvad) [having-drawn](vilikhya) [and-from-worship](pūjanāt) [and](ca) [previously+stated](prāguktā) [accomplishment](siddhiḥ) [thus](iti)
+[as-before](prāk+vat) [having-drawn](vilikhya) [and-from-worship](pūjanāt) [and](ca) [previously-stated](prāk+uktā) [accomplishment](siddhiḥ) [thus](iti)
 
 ## mukta-m0-p63-v1566
-[complete](paripūrṇaṃ) [considered](parāmṛṣṭam)
+[complete](paripūrṇam) [contemplated](parāmṛṣṭam)
 
 ## mukta-m0-p63-v1567
-[twelfth+chapter](dvādaśapaṭalaṃ) [complete](paripūrṇaṃ) [considered](parāmṛṣṭam)
+[twelfth-chapter](dvādaśa+paṭalam) [complete](paripūrṇam) [contemplated](parāmṛṣṭam)
 
 ## mukta-m0-p63-v1568
-[its+procedure](tadvidhānaṃ) [hear](śṛṇu) [O-wise-one](prājña) [desired+fruit+giving](samīhitaphalapradam)
+[its-procedure](tat+vidhānam) [hear](śṛṇu) [o-wise-one](prājña) [desired-fruit-giving](samīhita+phala+pradam)
 
 ## mukta-m0-p63-v1569
-[its+enclosing+powers](tadāvaraṇaśaktiḥ) [and](ca) [its+meditation](taddhyānaṃ) [its+worship](tatprapūjanam)
+[its-enclosing-power](tat+āvaraṇa+śaktiḥ) [and](ca) [its-meditation](tat+dhyānam) [its-worship](tat+prapūjanam)
 
 ## mukta-m0-p63-v1570
-[life-breath+installation](prāṇapratiṣṭhāṃ) [mantra](vidyāṃ) [and](ca) [its+procedure](tadvidhānaṃ) [and](ca) [its+fruit](tatphalam)
+[life-breath-establishment](prāṇa+pratiṣṭhām) [mantra](vidyām) [and](ca) [its-procedure](tat+vidhānam) [and](ca) [its-fruit](tat+phalam)
 
 ## mukta-m0-p63-v1571
-[by-which+mantras](yairmantraiḥ) [in-world](bhuvane) [renowned](khyātaḥ) [subjugation+favor+capable](nigrahānugrahakṣamaḥ)
+[by-which-mantras](yaiḥ+mantraiḥ) [in-world](bhuvane) [famous](khyātaḥ) [subjugation-and-favor-capable](nigraha+anugraha+kṣamaḥ)
 
 ## mukta-m0-p63-v1572
-[by-that+alone](tenaiva) [with-enclosed+syllables](puṭitairarṇaiḥ) [one-should-place](nyaset) [in-ear+etc.+five](śrotrādipañcasu)
+[by-that-very](tena+eva) [enclosed](puṭitaiḥ) [with-syllables](arṇaiḥ) [one-should-place](nyaset) [in-ear-etc-five](śrotra+ādi+pañcasu)
 
 ## mukta-m0-p63-v1573
-[as-before](prāgvad) [arghya](arghyaṃ) [declared](samuddiṣṭaṃ) [its+powers](tacchaktī) [hear](śṛṇu) [O-Pārvatī](pārvati)
+[as-before](prāk+vat) [arghya](arghyam) [declared](samuddiṣṭam) [its-powers](tat+śaktī) [hear](śṛṇu) [o-pārvatī](pārvati)
 
 ## mukta-m0-p63-v1574
-[one-should-place](nyaset) [thus+meaning](ityarthaḥ)
+[one-should-place](nyaset) [thus-meaning](iti+arthaḥ)
 
 ## mukta-m0-p63-v1575
-[Vinodā](vinodā) [Kautukā](kautukā) [Puṇyā](puṇyā) [Purāṇā](purāṇā) [going-in-four-directions](caturasragāḥ)
+[vinodā](vinodā) [kautukā](kautukā) [puṇyā](puṇyā) [purāṇā](purāṇā) [four-streamed](caturasragāḥ)
