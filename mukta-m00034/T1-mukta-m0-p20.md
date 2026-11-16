@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p20-v476
-[instruction+tree's](upadeśataroḥ) [flower](puṣpaṃ) [consciousness+fragrance+mind-charming](cidāmodamanoharam)
+instruction+tree+of(upadeśataroḥ) flower(puṣpaṃ) consciousness+fragrance+delightful(cidāmodamanoharam)
 
 ## mukta-m0-p20-v477
-[without+covering+rest](nirāvaraṇaviśrāntiḥ) [transition+self](saṅkramātmā) [proceeds](pravartate)
+unobstructed+rest(nirāvaraṇaviśrāntiḥ) transition+natured(saṅkramātmā) proceeds(pravartate)
 
 ## mukta-m0-p20-v478
-[creation+maintenance+dissolution+wheel+regard](sṛṣṭisthitisaṃhāracakrāpekṣāṃ) [not](na) [do](kurvate)
+creation+maintenance+destruction+wheel+expectation(sṛṣṭisthitisaṃhāracakrāpekṣāṃ) not(na) they-make(kurvate)
 
 ## mukta-m0-p20-v479
-[creation+etc+wheel+triad](sṛṣṭyādicakratritayaṃ) [in+that+view](tanmate) [not+indeed](naiva) [is-worshipped](pūjyate)
+creation+etc+wheel+triad(sṛṣṭyādicakratritayaṃ) in-their-view(tanmate) not(na) indeed(eva) is-honored(pūjyate)
 
 ## mukta-m0-p20-v480
-[this](etat) [through+attainment+power](samārūḍhivaśāt) [power](prabhāvo) [indeed](hi) [proceeds](pravartate)
+this(etat) ascension+power+by(samārūḍhivaśāt) efficacy(prabhāvo) indeed(hi) proceeds(pravartate)
 
 ## mukta-m0-p20-v481
-[was+dwarf+hero's](āsīdvāmanavīryasya) [which+viṣṇu+stopping+etc](yadviṣṇustambhanādikam)
+was(āsīt) dwarf+power+of(vāmanavīryasya) which(yat) Viṣṇu+arresting+etc(viṣṇustambhanādikam)
 
 ## mukta-m0-p20-v482
-[self+knowledge+from](ātmajñānāt) [proceed](pravartante) [as+wish+jewel+etc](yathecchamaṇimādayaḥ)
+self+knowledge+from(ātmajñānāt) proceed(pravartante) as-desired(yatheccham) minuteness+etc(aṇimādayaḥ)
 
 ## mukta-m0-p20-v483
-[each](pratyekam) [is](asti) [three+foldness](traividhyam) [from+excess](udrekād) [difference](bheda) [is-desired](iṣyate)
+each(pratyekam) is(asti) threefoldness(traividhyam) by-intensity(udrekād) difference(bhedaḥ) is-accepted(iṣyate)
 
 ## mukta-m0-p20-v484
-[time+swallowing+moving+offering+delighted](kālagrāsacarūpahārarasikā) [rejoice](nandantu) [yogi+troop](yogivrajāḥ)
+time+devouring+own+form+seizing+delighting(kālagrāsacarūpahārarasikāḥ) may-rejoice(nandantu) yogin+multitudes(yogivrajāḥ)
 
 ## mukta-m0-p20-v485
-[that](tat) [transition+nameless+wheel](saṅkrāmamanākhyacakram) [with+fitting+reason+methods](ucitairyuktikramairdṛśyate)
+that(tat) transition(saṅkrāmam) unnameable+wheel(anākhyacakram) by-proper(ucitaiḥ) reasoning+methods(yuktikramaiḥ) is-seen(dṛśyate)
 
 ## mukta-m0-p20-v486
-[playful+state+situated](lolībhāvasthitaṃ) [eternal](nityaṃ) [all+experience+grounds](sarvānubhavabhūmiṣu)
+wavering+state+situated(lolībhāvasthitaṃ) always(nityaṃ) in-all+experience+grounds(sarvānubhavabhūmiṣu)
 
 ## mukta-m0-p20-v487
-[him+resorting](tamāśrityānurūpeṇa) [accordingly](anurūpeṇa) [object](prameyaṃ) [is-explained](pratipādyate)
+that(tam) having-resorted-to(āśritya) accordingly(anurūpeṇa) object-of-knowledge(prameyaṃ) is-expounded(pratipādyate)
 
 ## mukta-m0-p20-v488
-[attachment](āsaktiḥ) [all+beings'](sarvajantūnāṃ) [especially](viśeṣāt) [of-some](kasyacit) [somewhere](kvacit)
+attachment(āsaktiḥ) of-all+beings(sarvajantūnāṃ) especially(viśeṣāt) of-someone(kasyacit) somewhere(kvacit)
 
 ## mukta-m0-p20-v489
-[instruction](upadeśo) [not](na) [that](sa) [even+a-little](manāgapi) [in+mind](citte) [sprouts](prarohati)
+instruction(upadeśaḥ) not(na) that(saḥ) even-slightly(manāg) even(api) in-mind(citte) takes-root(prarohati)
 
 ## mukta-m0-p20-v490
-[old+cow+like](jaradgauriva) [from+grains](sasyebhyaḥ) [that](sā) [indeed](hi) [with+difficulty](duḥkhena) [is-prevented](vāryate)
+old+cow(jaradgauḥ) like(iva) from-crops(sasyebhyaḥ) that(sā) indeed(hi) with-difficulty(duḥkhena) is-warded-off(vāryate)
 
 ## mukta-m0-p20-v491
-[envy](abhyasūyanti) [they](te) [because](yasmādupadeśakarāya) [to+instruction+maker](upadeśakarāya) [and](ca)
+they-find-fault(abhyasūyanti) they(te) because(yasmāt) toward-instruction+giver(upadeśakarāya) and(ca)
 
 ## mukta-m0-p20-v492
-[there+high+attainment](tatrādhirūḍhirlokasya) [of+world](lokasya) [faith+prior](śraddhāpūrvaṃ) [arises](prajāyate)
+there(tatra) elevation(adhirūḍhiḥ) of-people(lokasya) with-faith+preceded(śraddhāpūrvaṃ) arises(prajāyate)
 
 ## mukta-m0-p20-v493
-[of+tradition](prathāyā) [state+limit](bhāvaparyantaṃ) [form](rūpaṃ) [that](tad) [is-divided](bhidyate) [how](katham)
+from-manifestation(prathāyāḥ) up-to+state(bhāvaparyantaṃ) form(rūpaṃ) that(tat) is-divided(bhidyate) how(katham)
 
 ## mukta-m0-p20-v494
-[from+shining+only](sphuraṇādeva) [indeed](vai) [their](teṣāṃ) [melting](gālanaṃ) [not+even](nāpi) [real](tāttvikam)
+from-flashing-forth(sphuraṇāt) alone(eva) indeed(vai) of-them(teṣāṃ) dissolution(gālanaṃ) not(na) even(api) real(tāttvikam)
 
 ## mukta-m0-p20-v495
-[not+and+is](nacāsti) [shining+absence](sphuraṇābhāvo) [(sphura *-)](sphura *-) [indeed+other's+non-perception](hyanyasyānupalambhataḥ)
+and-not(na) (ca) is(asti) flashing-forth+absence(sphuraṇābhāvaḥ) indeed(hi) of-another(anyasya) from-non-perception(anupalambhataḥ)
 
 ## mukta-m0-p20-v496
-[therefore](tasmāt) [truth](tattvam) [non-truth](atattvaṃ) [or](vā) [not](na) [by+state](bhāvena) [without](vinā) [becomes](bhavet)
+therefore(tasmāt) reality(tattvam) or(vā) unreality(atattvaṃ) not(na) without-being(bhāvena) without(vinā) would-be(bhavet)
 
 ## mukta-m0-p20-v497
-[abandonment+acceptance+calculation+tantra](hānopādānakalanātantre) [thus](tvitthaṃ) [justification](samarthanā)
+in-rejection+acceptance+construction+system(hānopādānakalanātantre) but(tu) thus(ittham) justification(samarthanā)
 
 ## mukta-m0-p20-v498
-[this+realization+filled](etatparijñānamayī) [living+liberation](jīvanmuktirnigadyate) [is-called](nigadyate)
+this+full-understanding+consisting-of(etatparijñānamayī) living+liberation(jīvanmuktiḥ) is-declared(nigadyate)
 
 ## mukta-m0-p20-v499
-[creation+descent+dissolution+filled](sargāvatārasaṃhāramayirākramya) [overcoming](ākramya) [remains](vartate)
+creation+descent+dissolution+consisting-of(sargāvatārasaṃhāramayīḥ) having-pervaded(ākramya) it-abides(vartate)
 
 ## mukta-m0-p20-v500
-[creation+maintenance+etc+by+differences](sṛṣṭisthityādibhirbhedaiścaturdhā) [fourfold](caturdhā) [indeed](api) [those](tāḥ) [stand](sthitāḥ)
+by-creation+maintenance+etc+differences(sṛṣṭisthityādibhirbhedaiḥ) fourfold(caturdhā) also(api) those(tāḥ) situated(sthitāḥ)

@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p06-v126
-[pratipādyaḥ-asmi](pratipādyo'smi) [na-anyaḥ-asti](nānyo'sti) [prabhuḥ-jagati](prabhurjagati) [mām](māṃ) [vinā](vinā)
+[to-be-established](pratipādyaḥ) [am-I](asmi) [not](na) [other](anyaḥ) [is](asti) [lord](prabhuḥ) [in-world](jagati) [me](māṃ) [without](vinā)
 
 ## mukta-m0-p06-v127
-[satyam](satyam) [iti](iti) [hi](hī) [itya](itya) [avadhāraṇe](avadhāraṇe)
+[truth](satyam) [thus](iti) [hi-particle](hi) [indeed](iti) [in-emphasis](avadhāraṇe)
 
 ## mukta-m0-p06-v128
-[mayā](maya) [eva](eva) [uktam](uktam) [iti](iti) [anvayaḥ](anvayaḥ)
+[by-me](mayā) [alone](eva) [said](uktam) [thus](iti) [construction](anvayaḥ)
 
 ## mukta-m0-p06-v129
-[bodhayitavyaḥ](bodhayitavyaḥ) [iti](iti) [śeṣaḥ](śeṣaḥ) [anvayaḥ](anvayaḥ)
+[to-be-instructed](bodhayitavyaḥ)
 
 ## mukta-m0-p06-v130
-[manmārga-vimukhāḥ](manmārgavimukhā) [lokāḥ](lokāḥ) [pāṣaṇḍāḥ](pāṣaṇḍā) [brahma-ghātinaḥ](brahmaghātinaḥ)
+[my](man) [path](mārga) [averse](vimukhāḥ) [people](lokāḥ) [heretics](pāṣaṇḍāḥ) [brahman](brahma) [killers](ghātinaḥ)
 
 ## mukta-m0-p06-v131
-[niṣphalam](niṣphalaṃ) [tat](tad) [bhavet](bhaved) [devi](devi) [kartā-api](kartā'pi) [nārakī](nārakī) [bhavet](bhavet)
+[fruitless](niṣphalaṃ) [that](tat) [would-be](bhavet) [O-goddess](devi) [doer](kartā) [also](api) [hell-dweller](nārakī) [would-be](bhavet)
 
 ## mukta-m0-p06-v132
-[brahma-hā](brahmahā) [pitṛ-hā](pitṛhā) [strī-ghnaḥ](strīghnaḥ) [saḥ](sa) [bhavet](bhavet) [na-atra](nātra) [saṃśayaḥ](saṃśayaḥ)
+[brahman](brahma) [slayer](hā) [father](pitṛ) [slayer](hā) [woman](strī) [slayer](ghnaḥ) [he](saḥ) [would-be](bhavet) [not](na) [here](atra) [doubt](saṃśayaḥ)
 
 ## mukta-m0-p06-v133
-[śastāḥ](śastāḥ) [karmasu](karmasu) [sarveṣu](sarveṣu) [japa-yajña-kriyā-ādiṣu](japayajñakriyādiṣu)
+[prescribed](śastāḥ) [in-rites](karmasu) [in-all](sarveṣu) [japa](japa) [sacrifice](yajña) [ritual](kriyā) [etc](ādiṣu)
 
 ## mukta-m0-p06-v134
-[satyādau](satyādau) [saphalāḥ](saphalā) [āsan](āsan) [kalau](kalau) [te](te) [mṛtakāḥ](mṛtakā) [iva](iva)
+[in-satya](satyā) [etc](ādau) [with-fruit](sa+phalāḥ) [were](āsan) [in-kali](kalau) [they](te) [dead](mṛtakāḥ) [like](iva)
 
 ## mukta-m0-p06-v135
-[brahma-ghātinaḥ](brahmaghātino) [bhaveyuḥ](bhaveyur) [iti](iti) [śeṣaḥ](śeṣaḥ) [anvayaḥ](anvayaḥ)
+[brahman](brahma) [killers](ghātinaḥ) [would-be](bhaveyuḥ) [thus](iti) [remainder](śeṣaḥ)
 
 ## mukta-m0-p06-v136
-[tat-tat-phala-pradātṛtvāt](tattatphalapradātṛtvāccātiprāśastyamāha) [ca](ca) [ati-prāśastyam](ātiprāśastyam) [āha](āha) [kalau](kalāvityādibhiḥ) [ityādibhiḥ](ityādibhiḥ)
+[of-those](tat) [respective](tat) [fruit](phala) [bestowingness](pradātṛtvāt) [and](ca) [very-great-excellence](ati+prāśastyam) [states](āha) [in-kali](kalau) [etc](ity+ādibhiḥ)
 
 ## mukta-m0-p06-v137
-[tat-tat-phalāniṣpādakāḥ](tattatphalāniṣpādakāśca) [ca](ca) [boddhavyāḥ](boddhavyā) [iti](iti) [anvayaḥ](anvayaḥ)
+[of-those](tat) [respective](tat) [fruits](phalāni) [non-producers](aniṣpādakāḥ) [and](ca) [to-be-understood](boddhavyāḥ) [thus](iti) [construction](anvayaḥ)
 
 ## mukta-m0-p06-v138
-[amūra-śaktāḥ](amūraśaktāḥ) [kāryeṣu](kāryeṣu) [tathā](tathā) [anye](anye) [mantra-rāśayaḥ](mantrarāśayaḥ)
+[powerless](amūra+śaktāḥ) [in-actions](kāryeṣu) [likewise](tathā) [others](anye) [mantra](mantra) [multitudes](rāśayaḥ)
 
 ## mukta-m0-p06-v139
-[na](na) [tatra](tatra) [phala-siddhiḥ](phalasiddhiḥ) [syāt](syāt) [śramaḥ](śramaḥ) [eva](eva) [hi](hi) [kevalam](kevalam)
+[not](na) [there](tatra) [fruit](phala) [attainment](siddhiḥ) [would-be](syāt) [effort](śramaḥ) [alone](eva) [indeed](hi) [only](kevalam)
 
 ## mukta-m0-p06-v140
-[tṛṣitaḥ](tṛṣito) [jāhnavī-tīre](jāhnavītīre) [kūpam](kūpaṃ) [khanati](khanati) [durmatiḥ](durmatiḥ)
+[thirsty](tṛṣitaḥ) [on-jahnavi](jāhnavī) [bank](tīre) [well](kūpaṃ) [digs](khanati) [fool](durmatiḥ)
 
 ## mukta-m0-p06-v141
-[amṛtam](amṛtaṃ) [sva-gṛhe](svagṛhe) [tyaktvā](tyaktvā) [kṣīram](kṣīram) [ārkam](ārkaṃ) [saḥ](sa) [vāñchati](vāñchati)
+[nectar](amṛtaṃ) [in-own](sva) [house](gṛhe) [having-abandoned](tyaktvā) [milk](kṣīram) [of-arka](ārkaṃ) [he](saḥ) [desires](vāñchati)
 
 ## mukta-m0-p06-v142
-[yathā](yathā) [tantra-uditaḥ](tantrodito) [mārgaḥ](mārgo) [mokṣāya](mokṣāya) [ca](ca) [sukhāya](sukhāya) [ca](ca)
+[as](yathā) [by-tantra](tantra) [taught](uditaḥ) [path](mārgaḥ) [for-liberation](mokṣāya) [and](ca) [for-happiness](sukhāya) [and](ca)
 
 ## mukta-m0-p06-v143
-[siddhānām](siddhānāṃ) [sādhakānām](sādhakānāñca) [ca](ca) [vidhānāni](vidhānāni) [ca](ca) [bhūriśaḥ](bhūriśaḥ)
+[of-siddhas](siddhānāṃ) [of-sadhakas](sādhakānāñ) [and](ca) [methods](vidhānāni) [and](ca) [abundantly](bhūriśaḥ)
 
 ## mukta-m0-p06-v144
-[niścitam](niścitam) [etat](etat)
+[ascertained](niścitam) [this](etat)
 
 ## mukta-m0-p06-v145
-[vāñchati](vāñchati) [ārkam](ārkam) [arka-vṛkṣa-udbhavam](arkavṛkṣodbhavam)
+[desires](vāñchati) [arka](ārkam) [arka](arka) [tree](vṛkṣa) [born](udbhavam)
 
 ## mukta-m0-p06-v146
-[na](na) [anyaḥ](anya) [iti](iti) [amutra](amutra) [pare](pare) [loke](loke)
+[not](na) [other](anyaḥ) [thus](iti) [in-that-world](amutra) [in-higher](pare) [world](loke)
 
 ## mukta-m0-p06-v147
-[kulācāra-uditam](kulācāroditaṃ) [dharmam](dharmaṃ) [gupti-artham](guptyarthaṃ) [kathitam](kathitaṃ) [kvacit](kvacit)
+[kula](kula) [tradition](ācāra) [taught](uditaṃ) [dharma](dharmaṃ) [for-secrecy](gupty+arthaṃ) [told](kathitaṃ) [somewhere](kvacit)
 
 ## mukta-m0-p06-v148
-[devāḥ](devā) [nānāvidhāḥ](nānāvidhāḥ) [proktāḥ](proktā) [devyaḥ](devyo'pi) [api](api) [bahudhāḥ](bahudhāḥ) [priye](priye)
+[gods](devāḥ) [of-various](nānā) [kinds](vidhāḥ) [declared](proktāḥ) [goddesses](devyaḥ) [also](api) [in-many-ways](bahudhāḥ) [O-beloved](priye)
 
 ## mukta-m0-p06-v149
-[śāktāḥ](śāktāḥ) [śaivāḥ](śaivā) [vaiṣṇavāḥ](vaiṣṇavāśca) [ca](ca) [saurāḥ](saurā) [gāṇapatāḥ](gāṇapatādayaḥ) [ādayaḥ](ādayaḥ)
+[shaktas](śāktāḥ) [shaivas](śaivāḥ) [vaishnavas](vaiṣṇavāḥ) [and](ca) [sauras](saurāḥ) [ganapatas](gāṇapatāḥ) [etc](ādayaḥ)
 
 ## mukta-m0-p06-v150
-[bhūri-prayāsa-sādhyāni](bhūriprayāsasādhyāni) [yathā-ukta-phala-dāni](yathoktaphaladāni) [ca](ca)
+[with-much](bhūri) [effort](prayāsa) [to-be-accomplished](sādhyāni) [as-stated](yathā+ukta) [fruit](phala) [giving](dāni) [and](ca)
