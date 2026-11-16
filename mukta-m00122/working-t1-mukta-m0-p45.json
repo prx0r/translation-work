@@ -15,12 +15,16 @@
 "quick_gloss": "o-goddess"
 },
 {
-"surface": "pravakṣyāmi",
-"quick_gloss": "I-shall-tell"
+"surface": "!",
+"quick_gloss": "!"
 },
 {
-"surface": "prayoga+arhaḥ",
-"quick_gloss": "fit-for-application"
+"surface": "pravakṣyāmi",
+"quick_gloss": "i-shall-tell"
+},
+{
+"surface": "prayoga+ārhaḥ",
+"quick_gloss": "application+fit"
 },
 {
 "surface": "yataḥ",
@@ -45,15 +49,15 @@
 },
 {
 "surface": "lakṣaṃ",
-"quick_gloss": "hundred-thousand"
+"quick_gloss": "a-hundred-thousand"
 },
 {
-"surface": "tat+daśa+aṃśaṃ",
-"quick_gloss": "its-tenth-part"
+"surface": "tat+daśāṃśaṃ",
+"quick_gloss": "its+tenth-part"
 },
 {
 "surface": "kuryāt",
-"quick_gloss": "one-should-perform"
+"quick_gloss": "one-should-do"
 },
 {
 "surface": "homam",
@@ -77,24 +81,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "candra",
-"quick_gloss": "with-camphor"
-},
-{
-"surface": "candra",
-"quick_gloss": "sandal"
-},
-{
-"surface": "nakha+kastūrī",
-"quick_gloss": "musk"
-},
-{
-"surface": "vāsitaiḥ",
-"quick_gloss": "scented"
+"surface": "candra+candra+naka+stūrī+vāsitaiḥ",
+"quick_gloss": "with-camphor+musk+sandal"
 },
 {
 "surface": "tarpayet",
-"quick_gloss": "one-should-offer-libations"
+"quick_gloss": "one-should-offer-libation"
 },
 {
 "surface": "jalaiḥ",
@@ -111,27 +103,27 @@
 "tokens": [
 {
 "surface": "sahasra+jāpī",
-"quick_gloss": "performer-of-thousand-recitations"
+"quick_gloss": "thousand+reciter"
 },
 {
 "surface": "tat+bhaktaḥ",
-"quick_gloss": "devoted-to-that"
+"quick_gloss": "his+devotee"
 },
 {
 "surface": "kuryāt",
-"quick_gloss": "one-should-do"
+"quick_gloss": "should-do"
 },
 {
 "surface": "uktam",
-"quick_gloss": "as-prescribed"
-},
-{
-"surface": "ca",
-"quick_gloss": "and"
+"quick_gloss": "what-is-prescribed"
 },
 {
 "surface": "na",
 "quick_gloss": "not"
+},
+{
+"surface": "ca",
+"quick_gloss": "and"
 },
 {
 "surface": "anyathā",
@@ -148,7 +140,11 @@
 "tokens": [
 {
 "surface": "sarva+nityā+sādhāraṇaḥ",
-"quick_gloss": "common-to-all-nityās"
+"quick_gloss": "all+nityās+common"
+},
+{
+"surface": "|",
+"quick_gloss": "|"
 },
 {
 "surface": "tanmayaḥ",
@@ -173,11 +169,15 @@
 },
 {
 "surface": "vidyā+puraścaraṇa+prakāram",
-"quick_gloss": "the-method-of-mantra-preliminary-rites"
+"quick_gloss": "mantra+preliminary-rite+method"
 },
 {
 "surface": "upadiśati",
-"quick_gloss": "he-teaches"
+"quick_gloss": "teaches"
+},
+{
+"surface": "|",
+"quick_gloss": "|"
 },
 {
 "surface": "tatra",
@@ -202,7 +202,7 @@
 "tokens": [
 {
 "surface": "lakṣaṃ",
-"quick_gloss": "hundred-thousand"
+"quick_gloss": "a-hundred-thousand"
 },
 {
 "surface": "vidyāyāḥ",
@@ -214,7 +214,7 @@
 },
 {
 "surface": "akṣara+lakṣa+krameṇa",
-"quick_gloss": "in-the-order-of-syllable-hundred-thousands"
+"quick_gloss": "by-syllable+hundred-thousand+sequence"
 }
 ]
 },
@@ -227,23 +227,23 @@
 "tokens": [
 {
 "surface": "prayoga+ādi+abhijñaḥ",
-"quick_gloss": "knowing-application-etc."
+"quick_gloss": "application+etc.+knower"
 },
 {
 "surface": "na+anyam",
-"quick_gloss": "not-another"
+"quick_gloss": "not+another"
 },
 {
 "surface": "iti",
 "quick_gloss": "thus"
 },
 {
-"surface": "na+anyathā+iti",
-"quick_gloss": "(not-otherwise)"
+"surface": "(nānyatheti",
+"quick_gloss": "(not+otherwise)"
 },
 {
 "surface": "sarva+devatā+sādhāraṇam",
-"quick_gloss": "common-to-all-deities"
+"quick_gloss": "all+deities+common"
 }
 ]
 },
@@ -264,7 +264,7 @@
 },
 {
 "surface": "aktaiḥ",
-"quick_gloss": "with-red-lotuses"
+"quick_gloss": "with-uncolored-ones"
 },
 {
 "surface": "aṅganāḥ",
@@ -292,20 +292,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "mallikā",
-"quick_gloss": "with-jasmine"
-},
-{
-"surface": "mālatī",
-"quick_gloss": "with-mālatī"
-},
-{
-"surface": "jātī",
-"quick_gloss": "with-jātī"
-},
-{
-"surface": "śatapatraiḥ",
-"quick_gloss": "with-lotus"
+"surface": "mallikā+mālatī+jātī+śatapatraiḥ",
+"quick_gloss": "with-jasmine+mālatī+jātī+hundred-petaled-lotuses"
 },
 {
 "surface": "hutaiḥ",
@@ -326,19 +314,15 @@
 "tokens": [
 {
 "surface": "āragvadha+prasūnaiḥ",
-"quick_gloss": "with-āragvadha-flowers"
+"quick_gloss": "with-āragvadha+flowers"
 },
 {
 "surface": "tu",
 "quick_gloss": "indeed"
 },
 {
-"surface": "kṣaudra",
-"quick_gloss": "with-honey"
-},
-{
-"surface": "aktaiḥ",
-"quick_gloss": "smeared"
+"surface": "kṣaudra+āktaiḥ",
+"quick_gloss": "with-honey+smeared"
 },
 {
 "surface": "havanāt",
@@ -358,16 +342,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "ājya",
-"quick_gloss": "with-ghee"
-},
-{
-"surface": "aktaiḥ",
-"quick_gloss": "smeared"
+"surface": "ājya+āktaiḥ",
+"quick_gloss": "with-ghee+smeared"
 },
 {
 "surface": "karavīra+utthaiḥ",
-"quick_gloss": "produced-from-oleander"
+"quick_gloss": "from-oleander+produced"
 },
 {
 "surface": "prasūnaiḥ",
@@ -375,11 +355,11 @@
 },
 {
 "surface": "aruṇaiḥ",
-"quick_gloss": "with-red"
+"quick_gloss": "red"
 },
 {
 "surface": "hutaiḥ",
-"quick_gloss": "offered"
+"quick_gloss": "offered-in-fire"
 }
 ]
 },
@@ -391,20 +371,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "bhūṣā",
-"quick_gloss": "ornament"
-},
-{
-"surface": "vāhana",
-"quick_gloss": "vehicle"
-},
-{
-"surface": "vāṇijya",
-"quick_gloss": "commerce"
-},
-{
-"surface": "siddhayaḥ",
-"quick_gloss": "successes"
+"surface": "bhūṣā+vāhana+vāṇijya+siddhayaḥ",
+"quick_gloss": "ornament+vehicle+commerce+accomplishments"
 },
 {
 "surface": "ca",
@@ -428,12 +396,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "tat+taila",
-"quick_gloss": "with-that-oil"
-},
-{
-"surface": "aktaiḥ",
-"quick_gloss": "smeared"
+"surface": "tat+taila+āktaiḥ",
+"quick_gloss": "with-that+oil+smeared"
 },
 {
 "surface": "niśā+madhye",
@@ -473,12 +437,8 @@
 "quick_gloss": "of-the-enemy"
 },
 {
-"surface": "tīvra+ārti",
-"quick_gloss": "with-intense-pain"
-},
-{
-"surface": "jvareṇa",
-"quick_gloss": "with-fever"
+"surface": "tīvra+ārti+jvareṇa",
+"quick_gloss": "by-intense+pain+fever"
 },
 {
 "surface": "bhavati",
@@ -498,12 +458,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "śatroḥ",
-"quick_gloss": "of-the-enemy"
-},
-{
-"surface": "dehe",
-"quick_gloss": "on-the-body"
+"surface": "śatroḥ+dehe",
+"quick_gloss": "of-the-enemy+in-the-body"
 },
 {
 "surface": "vraṇāni",
@@ -535,12 +491,8 @@
 "quick_gloss": "likewise"
 },
 {
-"surface": "tat+taila",
-"quick_gloss": "with-that-oil"
-},
-{
-"surface": "saṃsiktaiḥ",
-"quick_gloss": "soaked"
+"surface": "tat+taila+saṃsiktaiḥ",
+"quick_gloss": "with-that+oil+sprinkled"
 },
 {
 "surface": "bījaiḥ",
@@ -548,7 +500,7 @@
 },
 {
 "surface": "aṅkāra+kaiḥ",
-"quick_gloss": "marked-with-the-syllable-aṅ"
+"quick_gloss": "with-aṅkāra+making"
 },
 {
 "surface": "api",
@@ -565,11 +517,11 @@
 "tokens": [
 {
 "surface": "samāna+rūpa+vatsāyāḥ",
-"quick_gloss": "of-one-having-a-calf-of-same-color"
+"quick_gloss": "of-equal+form+calf"
 },
 {
 "surface": "śukla+vatsāyāḥ",
-"quick_gloss": "of-one-having-a-white-calf"
+"quick_gloss": "of-white+calf"
 },
 {
 "surface": "iti",
@@ -580,20 +532,36 @@
 "quick_gloss": "meaning"
 },
 {
+"surface": "||",
+"quick_gloss": "||"
+},
+{
 "surface": "27",
-"quick_gloss": "verse-27"
+"quick_gloss": "27"
+},
+{
+"surface": "||",
+"quick_gloss": "||"
 },
 {
 "surface": "28",
-"quick_gloss": "verse-28"
+"quick_gloss": "28"
+},
+{
+"surface": "||",
+"quick_gloss": "||"
 },
 {
 "surface": "29",
-"quick_gloss": "verse-29"
+"quick_gloss": "29"
+},
+{
+"surface": "||",
+"quick_gloss": "||"
 },
 {
 "surface": "30",
-"quick_gloss": "verse-30"
+"quick_gloss": "30"
 }
 ]
 },
@@ -610,7 +578,11 @@
 },
 {
 "surface": "kṛṣṇaiḥ",
-"quick_gloss": "with-black"
+"quick_gloss": "black"
+},
+{
+"surface": "|",
+"quick_gloss": "|"
 },
 {
 "surface": "vā",
@@ -621,12 +593,16 @@
 "quick_gloss": "in-the-other-alternative"
 },
 {
-"surface": "tat+taila+aktaiḥ",
-"quick_gloss": "with-that-oil-smeared"
+"surface": "|",
+"quick_gloss": "|"
 },
 {
-"surface": "sarṣapa+dvaya+taila+aktaiḥ",
-"quick_gloss": "with-oil-of-both-mustards-smeared"
+"surface": "tat+taila+āktaiḥ",
+"quick_gloss": "with-that+oil+smeared"
+},
+{
+"surface": "sarṣapa+dvaya+taila+āktaiḥ",
+"quick_gloss": "with-both-mustards+oil+smeared"
 }
 ]
 },
@@ -647,7 +623,7 @@
 },
 {
 "surface": "kāma+jvara+ārtām",
-"quick_gloss": "tormented-by-fever-of-love"
+"quick_gloss": "by-love+fever+pained"
 },
 {
 "surface": "ānayet",
@@ -668,11 +644,11 @@
 "tokens": [
 {
 "surface": "dhairya+māna+kulaiḥ",
-"quick_gloss": "deprived-of-firmness-honor-and-family"
+"quick_gloss": "by-firmness+pride+family"
 },
 {
 "surface": "nityam",
-"quick_gloss": "constantly"
+"quick_gloss": "always"
 },
 {
 "surface": "duṣprāpām",
@@ -700,8 +676,8 @@
 "quick_gloss": "by-that"
 },
 {
-"surface": "anna+pūrṇa+bhuvanaḥ",
-"quick_gloss": "of-the-world-full-of-food"
+"surface": "anna+pūrṇa+bhuvana",
+"quick_gloss": "food+filled+world"
 },
 {
 "surface": "bhoktā",
@@ -718,6 +694,10 @@
 {
 "surface": "priye",
 "quick_gloss": "o-beloved"
+},
+{
+"surface": "!",
+"quick_gloss": "!"
 }
 ]
 },
@@ -737,7 +717,7 @@
 "quick_gloss": "mudga"
 },
 {
-"surface": "ghṛtaiḥ",
+"surface": "dhṛtaiḥ",
 "quick_gloss": "with-ghee"
 },
 {
@@ -746,11 +726,11 @@
 },
 {
 "surface": "iṣṭaiḥ",
-"quick_gloss": "with-desired-things"
+"quick_gloss": "desired-things"
 },
 {
 "surface": "iṣṭam",
-"quick_gloss": "desired-result"
+"quick_gloss": "desired"
 },
 {
 "surface": "hutaiḥ",
@@ -771,11 +751,11 @@
 "tokens": [
 {
 "surface": "rājī+marīca+loṇa+utthām",
-"quick_gloss": "of-mustard-pepper-and-salt"
+"quick_gloss": "of-mustard+pepper+salt+produced"
 },
 {
 "surface": "puttalīm",
-"quick_gloss": "a-doll"
+"quick_gloss": "doll"
 },
 {
 "surface": "juhuyāt",

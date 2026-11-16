@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p43-v1051
-[garland-of-vines](vitavalīṃ) [māṣu+dhvī](māṣudhvī) [shines](gaucate)
+[row](vitavalīṃ) [bean](māṣu)+[flag](dhvī)+[shines](gaucate)
 
 ## mukta-m0-p43-v1052
-[everywhere](sarvatra) [in-reversal](vaiparītye) [in-portent](utpāte) [threefold](trividhe) [by-celestial+atmospheric+terrestrial](divya+āntarikṣa+bhaumatvena) [declared](prokte)
+[everywhere](sarvatra) [in-reversal](vaiparītye) [in-calamity](utpāte) [threefold](trividhe) [divine](divya)+[atmospheric](āntarikṣa)+[terrestrial](bhauma)+[by-nature](tvena) [declared](prokte)
 
 ## mukta-m0-p43-v1053
-[of-Ṛgurgu](rgurgu) [yocanā](yocanā) [hyāśantaḥ](hyāśantaḥ) [likṣi+lata+satanaḥ](likṣi+latasatanaḥ) [dense](ghanaḥ) [māpulo](māpulo) [pusa](pusa)
+[Ṛgurgu](rgurgu) [reflection](yocanā) [indeed](hi)+[peaceful](āśantaḥ) [marked](likṣi)+[creeper](lata)+[spread](satanaḥ) [dense](ghanaḥ) [measure](māpulo) [flower](pusa)
 
 ## mukta-m0-p43-v1054
-[prosyarvaśivet](prosyarvaśivet) [by-you](tvayā) [utobhaso](utobhaso) [by-me](nmayā)
+[abandoned](prosya)+[all](rva)+[auspicious](śive) [by-you](tvayā)+[arisen](utobhaso) [by-me](nmayā)
 
 ## mukta-m0-p43-v1055
-[which+ocean-named](yoni+arṇava+ākhyaṃ) [woman+cow+mountain+thunderbolt](vanitā+gava+parvata+vajrakam)
+[which](yoni)+[ocean](arṇava)+[called](ākhyaṃ) [woman](vanitā)+[cow](gava)+[mountain](parvata)+[thunderbolt](vajrakam)
 
 ## mukta-m0-p43-v1056
-[nasalesi](nasalesi) [śeddhāva](śeddhāva) [before](prāk) [tarca](tarca) [cogaḥ](cogaḥ) [direction+praṃ](diśa+praṃ) [with-three](satrayo)
+[nose](nasalesi) [pure](śeddhāva) [before](prāk) [then](tarca) [collection](cogaḥ) [direction](diśa)+[forth](praṃ) [with-seven](satrayo)
 
 ## mukta-m0-p43-v1057
-[direction+dvīlikā](diśa+dvīlikā) [immortal](ścamṛtaṃ) [river+turi+rgumucam](ṇadī+turi+rgumucam)
+[direction](diśa)+[two](dvī)+[line](likā) [immortal](ścamṛtaṃ) [river](ṇadī)+[swift](turi)+[Ṛgu](rgu)+[released](mucam)
 
 ## mukta-m0-p43-v1058
-[lārai+trarddeha+āvataḥ](lāraitrarddehāvataḥ) [servant+accomplishment](dāsa+siddhiḥ) [yārvasaḥ](yārvasaḥ)
+[wave](lārai)+[three](tra)+[body](rddeha)+[possessed](āvataḥ) [servant](dāsa)+[accomplishment](siddhi)+[by-means](ryā)+[wealth](rvasaḥ)
 
 ## mukta-m0-p43-v1059
-[may-be](syāt) [ja](ja) [fuel](edho) [or](vā) [vayat](vayat) [vā](vā) [done](kṛt) [klekā+other](klekā+anyam) [then](athā) [always](sadā)
+[may-be](syāja) [fuel](edho) [age](vayat) [or](vā) [done](kṛt) [affliction](klekā)+[other](anyam)+[then](athā) [always](sada)
 
 ## mukta-m0-p43-v1060
-[there](tatra) [in-two-finger-measures](dvi+aṅgula+māneṣu) [threads](sūtrāṇi) [eleven](ekādaśa) [should-place](arpayet)
+[there](tatra) [two](dvi)+[finger](aṅgula)+[in-measures](māneṣu) [threads](sūtrāṇi)+[eleven](ekādaśa)+[should-place](arpayet)
 
 ## mukta-m0-p43-v1061
-[forty](catvāriṃśat) [and](ca) [four](catvāri) [in-them](teṣu) [mantra-syllables](mantra+akṣarāṇi) [indeed](tu)
+[forty](catvāriṃśat)+[and](ca) [four](catvāri) [in-them](teṣu) [mantra](mantra)+[syllables](akṣarāṇi) [indeed](tu)
 
 ## mukta-m0-p43-v1062
-[in-middle](madhye) [in-remaining-nine-group](avaśiṣṭa+navake) [with-nine-classes](nava+varga+samanvite)
+[in-middle](madhye)+[remaining](avaśiṣṭa)+[group-of-nine](navake) [nine](nava)+[class](varga)+[endowed-with](samanvite)
 
 ## mukta-m0-p43-v1063
-[everywhere](sarvatra) [should-draw](vilikhet) [again](bhūyaḥ) [by-repeated-turning](bhūyaḥ+āvartanena) [indeed](tu)
+[everywhere](sarvatra) [should-draw](vilikhet)+[again](bhūyo) [again](bhūyas)+[by-repetition](āvartanena) [indeed](tu)
 
 ## mukta-m0-p43-v1064
-[being-burned](dahyamānāṃ) [with-heart-taken](hṛta+svāṃtāṃ) [with-folded-hands-placed-on-head](mastaka+sthāpita+añjalim)
+[being-burned](dahyamānāṃ) [heart](hṛta)+[essence](svāṃtāṃ) [on-head](mastaka)+[placed](sthāpita)+[joined-palms](añjalim)
 
 ## mukta-m0-p43-v1065
-[with-body-resembling](kalevarām) [a-cloth](paṭa+upama) [called-flag](patākā+ākhya) [fluttering-in-wind](vāyu+preṅkat)
+[by-wind](vāyu)+[swaying](preṅkat)+[flag](patākā)+[called](ākhya)+[cloth](paṭa)+[like](upama)+[body](kalevarām)
 
 ## mukta-m0-p43-v1066
-[one-should-visualize](cintayet) [and-should-worship](arcayet) [and](ca) [in-middle-of-circle](cakra+madhye) [goddess](devīṃ) [sky-clad](digambarām)
+[one-should-visualize](cintayet)+[and-should-worship](nārcayet)+[and](ca)+[circle](cakra)+[in-middle](madhye) [goddess](devīṃ) [sky-clad](digambarām)
 
 ## mukta-m0-p43-v1067
-[with-others](anyaiḥ) [fragrant+remainder+phāli](sugandhi+śeṣat+phāli) [with-flowers-etc.](kusuma+ādyaiḥ) [fragrant](sugandhibhiḥ)
+[with-others](anyaiḥ) [fragrant](sugandhi)+[remainder](śeṣat)+[forehead-mark](phāli) [flowers](kusuma)+[and-others](ādyaiḥ) [fragrant](sugandhibhiḥ)
 
 ## mukta-m0-p43-v1068
-[as-long-as](yāvat) [until-fall-of-body](śarīra+pātam) [indeed](tu) [like-a-shadow](chāyā+iva) [not-departing](anapagā) [of-him](asya) [she](sā)
+[as-long-as](yāvat)+[body](śarīra)+[fall](pātam)+[indeed](tu) [like-shadow](chāyā)+[iva]+[not-departing](anapagā)+[his](asya) [she](sā)
 
 ## mukta-m0-p43-v1069
-[by-her](asyāḥ) [by-revelation](niṣphālanāt) [in-mind](citte) [that+that-principle](tat+tat+tvaṃ) [made-one's-own-self](sva+ātma+sātkṛtam)
+[of-her](asyā) [from-revelation](niṣphālanāt)+[in-mind](citte) [that](tat)+[that](tat)+[principle](tvaṃ) [own](sva)+[self](ātma)+[made-one's-own](sātkṛtam)
 
 ## mukta-m0-p43-v1070
-[thus](iti) [in-śrī-ṣoḍaśa-nityā-tantras](śrī+ṣoḍaśa+nityā+tantreṣu) [in-śrī-kādimata](śrī+kādimate) [eighth](aṣṭamaṃ) [chapter](paṭalam)
+[thus](iti) [in-śrī](śrī)+[sixteen](ṣoḍaśa)+[Nityā](nityā)+[tantras](tantreṣu) [in-śrī](śrī)+[Kādimata](kādimate)+[eighth](aṣṭamaṃ) [chapter](paṭalam)
 
 ## mukta-m0-p43-v1071
-[nine-classes](nava+vargāḥ) [consisting-of-nine-nāthas](nava+nātha+ātmakāḥ) [94](94) [95](95) [96](96) [body](kalevaraṃ) [body](śarīram) [97](97)
+[nine](nava)+[classes](vargā) [nine](nava)+[Nātha](nātha)+[consisting-of](ātmakāḥ) [94](|| 94 ||) [95](95 ||) [96](96 ||) [body](kalevaraṃ) [body](śarīram) [97](|| 97)
 
 ## mukta-m0-p43-v1072
-[declared-result](prokta+phalam) [one-may-obtain](avāpnuyāt) [thus](iti)
+[declared](prokta)+[fruit](phalam)+[may-obtain](avāpnuyāt)+[thus](iti)
 
 ## mukta-m0-p43-v1073
 [complete](paripūrṇaṃ) [touched](parāmṛṣṭam)
 
 ## mukta-m0-p43-v1074
-[of-nityaklinnā-rites](nityaklinnā+vidhānānāṃ) [her-mantra](tat+mantraṃ) [previously-stated](prāk+udīritam)
+[of-Nityaklinnā](nityaklinnā)+[rites](vidhānānāṃ) [her](tat)+[mantra](mantraṃ) [previously](prāk)+[declared](udīritam)
 
 ## mukta-m0-p43-v1075
-[distinctions-of-homa-and-tarpaṇa](homa+tarpaṇa+bhedān) [and](ca) [yantras](yantrāṇi) [according-to-difference-of-results](phala+bhedataḥ)
+[oblation](homa)+[libation](tarpaṇa)+[divisions](bhedān)+[and](ca) [diagrams](yantrāṇi) [by-fruit](phala)+[difference](bhedataḥ)
