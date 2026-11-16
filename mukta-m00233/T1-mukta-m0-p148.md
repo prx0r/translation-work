@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p148-v3676
-[satyam](satyam) [asteyam](asteyam) [brahmacaryam](brahmacaryam) [daya](dayā) [arjavam](ārjavam)
+[truth](satyam) [non-stealing](asteyaṃ) [celibacy](brahmacaryaṃ) [compassion](dayā) + [straightforwardness](ārjavam)
 
 ## mukta-m0-p148-v3677
-[astikyam](āstikyaṃ) [danam](dānam) [isvara-pujanam](īśvarapūjanam)
+[faith](āstikyaṃ) [charity](dānam) [lord](īśvara) + [worship](pūjanam)
 
 ## mukta-m0-p148-v3678
-[asana](āsanāni) [api](api) [ca](ca) [uktani](uktāni) [bahudha](bahudhā) [purva-paddhatau](pūrvapaddhatau)
+[seats](āsanāni) [also](api) [and](ca) [stated](uktāni) [in-many-ways](bahudhā) [in-previous-tradition](pūrvapaddhatau)
 
 ## mukta-m0-p148-v3679
-[padma-samjnam](padmasaṃjñaṃ) [ca](ca) [bhadram](bhadraṃ) [yoga-asanam](yogāsanaṃ) [tatha](tathā)
+[lotus](padma) + [named](saṃjñaṃ) [and](ca) [auspicious](bhadraṃ) [yoga](yoga) + [seat](āsanaṃ) [likewise](tathā)
 
 ## mukta-m0-p148-v3680
-[nivishtam](niviṣṭam)
+[seated](niviṣṭam) [thus](iti) [stated](uktam) [here](atra)
 
 ## mukta-m0-p148-v3681
-[tad](tad) [ahuh](āhuḥ)
+[then](tadā) [they-say](āhuḥ) [thus](iti) [regarding-this](etat)
 
 ## mukta-m0-p148-v3682
-[pranasya](prāṇasya) [dharanam](dhāraṇaṃ) [dehe](dehe) [pranayama](prāṇāyāma) [iti](iti) [iritah](īritaḥ)
+[of-breath](prāṇasya) [restraint](dhāraṇaṃ) [in-body](dehe) [breath](prāṇa) + [control](āyāmaḥ) [thus](iti) [declared](īritaḥ)
 
 ## mukta-m0-p148-v3683
-[kumbhakah](kumbhakaḥ) [ca](ca) [eva](eva) [recakah](recakaḥ) [ca](ca) [iti](iti) [te](te) [trayah](trayaḥ)
+[retention](kumbhakaḥ) [and](ca) [indeed](eva) [exhalation](recakaḥ) [and](ca) [thus](iti) [they](te) [three](trayaḥ)
 
 ## mukta-m0-p148-v3684
-[tribhih](tribhiḥ) [angaih](aṅgaiḥ) [yutah](yutaḥ) [try-angah](tryaṃgaḥ) [syat](syāt) [kutpurakam](kutpūrakaṃ) [vina](vinā)
+[with-three](tribhiḥ) + [limbs](aṅgaiḥ) + [endowed](yutaḥ) [three](tri) + [limbed](aṃgaḥ) [should-be](syāt) [without](vinā) + [inhalation](utpūrakaṃ)
 
 ## mukta-m0-p148-v3685
-[nirdishta](nirdiṣṭa) [udghata-matra-abhih](udghātamātrābhiḥ) [vijneyah](vijñeyaḥ) [sah](saḥ) [tu](tu) [purakah](pūrakaḥ)
+[by-prescribed](nirdiṣṭa) + [impulse](udghāta) + [measures](mātrābhiḥ) [to-be-known](vijñeyaḥ) [that](saḥ) [indeed](tu) [inhalation](pūrakaḥ)
 
 ## mukta-m0-p148-v3686
-[tisthet](tiṣṭhet) [yada](yadā) [asau](asau) [kumbhakah](kumbhakaḥ) [smrtah](smṛtaḥ)
+[should-remain](tiṣṭhet) [when](yadā) [that](asau) [retention](kumbhakaḥ) [remembered](smṛtaḥ)
 
 ## mukta-m0-p148-v3687
-[kramena](krameṇa) [yah](yaḥ) [moksah](mokṣaḥ) [recakah](recakaḥ) [paripathyate](paripaṭhyate)
+[gradually](krameṇa) [which](yaḥ) [release](mokṣaḥ) [exhalation](recakaḥ) [is-taught](paripaṭhyate)
 
 ## mukta-m0-p148-v3688
-[sashtimatrah](ṣaṣṭimātraḥ) [syat](syāt) [pancoddhatah](pañcoddhātaḥ) [tu](tu) [samsmrtah](saṃsmṛtaḥ)
+[sixty](ṣaṣṭi) + [measures](mātraḥ) [should-be](syāt) [five](pañca) + [impulses](udghātaḥ) [indeed](tu) [remembered](saṃsmṛtaḥ)
 
 ## mukta-m0-p148-v3689
-[hi](hi) [ayam](ayaṃ) [mandah](mandaḥ) [madhyah](madhyaḥ) [asmat](asmāt) [dvigunah](dviguṇaḥ) [bhavet](bhavet)
+[indeed](hi) [this](ayaṃ) [slow](mandaḥ) [middle](madhyaḥ) [than-this](asmāt) [double](dviguṇaḥ) [should-be](bhavet)
 
 ## mukta-m0-p148-v3690
-[sagarbhah](sagarbhāḥ) [ca](ca) [pranayamah](prāṇāyāmāḥ) [tu](tu) [te](te) [smrtah](smṛtāḥ)
+[with-seed](sagarbhāḥ) [and](ca) [breath](prāṇa) + [controls](āyāmāḥ) [indeed](tu) [they](te) [remembered](smṛtāḥ)
 
 ## mukta-m0-p148-v3691
-[antar-japa-vihinah](antarjapavihīnāḥ) [ye](ye) [te](te) [tu](tu) [agarbhah](agarbhāḥ) [iti](iti) [smrtah](smṛtāḥ)
+[internal](antar) + [recitation](japa) + [devoid](vihīnāḥ) [which](ye) [they](te) [indeed](tu) [without-seed](agarbhāḥ) [thus](iti) [remembered](smṛtāḥ)
 
 ## mukta-m0-p148-v3692
-[kumbhikrtya](kumbhīkṛtya) [udare](udare) [vayum](vāyuṃ) [sva-sva-mantram](svasvamantraṃ) [dhiya](dhiyā) [japet](japet)
+[having-made-pot-like](kumbhīkṛtya) [in-belly](udare) [air](vāyuṃ) [own](sva) + [own](sva) + [mantra](mantraṃ) [with-mind](dhiyā) [one-should-repeat](japet)
 
 ## mukta-m0-p148-v3693
-[sva-mantrah](svamantraḥ) [cet](cet) [tasya](tasya) [syat](syāt) [dvisatam](dviśataṃ) [japah](japaḥ)
+[own](sva) + [mantra](mantraḥ) [if](cet) [of-him](tasya) [should-be](syāt) [two-hundred](dviśataṃ) [recitation](japaḥ)
 
 ## mukta-m0-p148-v3694
-[hapayitva](hāpayitvā) [yataprana](yataprāṇaḥ) [pranayamam](prāṇāyāmaṃ) [samaccaret](samācaret)
+[having-diminished](hāpayitvā) + [prolonged](āyata) + [breath](prāṇaḥ) [breath](prāṇa) + [control](āyāmaṃ) [one-should-practice](samācaret)
 
 ## mukta-m0-p148-v3695
-[vidhatavyah](vidhātavyāḥ) [tat-tat-dhyana-upabrmhitah](tattaddhyānopabṛṃhitāḥ)
+[to-be-performed](vidhātavyāḥ) [by-that](tat) + [that](tat) + [meditation](dhyāna) + [augmented](upabṛṃhitāḥ)
 
 ## mukta-m0-p148-v3696
-[sarirat](śarīrāt) [adhikam](adhikaṃ) [pranah](prāṇaḥ) [syat](syāt) [dvadasa-angulam](dvādaśāṅgulam)
+[from-body](śarīrāt) [greater](adhikaṃ) [breath](prāṇaḥ) [should-be](syāt) [twelve](dvādaśa) + [finger-breadths](aṅgulam)
 
 ## mukta-m0-p148-v3697
-[sah](saḥ) [ca](ca) [tryasrah](tryaśraḥ) [deva-adinam](devādīnām) [nrnam](nṛṇām) [api](api)
+[that](saḥ) [and](ca) [triangular](tryaśraḥ) [of-gods](devādīnām) [of-humans](nṛṇām) [also](api)
 
 ## mukta-m0-p148-v3698
-[catuhpadanam](catuṣpadānāṃ) [hrn-madhye](hṛnmadhye) [kroda-madhye](kroḍamadhye) [andajanmanam](aṇḍajanmanām)
+[of-quadrupeds](catuṣpadānām) [in-heart](hṛt) + [middle](madhye) [in-breast](kroḍa) + [middle](madhye) [of-egg-born](aṇḍajanmanām)
 
 ## mukta-m0-p148-v3699
-[nabhi-cakram](nābhicakraṃ) [tat-urdhvam](tadūrdhvaṃ) [tu](tu) [dvadasa-arama-susthitih](dvādaśāramasusthitiḥ)
+[navel](nābhi) + [wheel](cakraṃ) [above-that](tadūrdhvaṃ) [indeed](tu) [twelve](dvādaśa) + [spoked](aram) [breath](asu) + [abode](sthitiḥ)
 
 ## mukta-m0-p148-v3700
-[prasupta-bhujaga-akarah](prasuptabhujagākārā) [catur-angula-vistrta](caturaṅgulavistṛtā)
+[sleeping](prasupta) + [serpent](bhujaga) + [form](ākārā) [four](catur) + [finger-breadths](aṅgula) + [extended](vistṛtā)

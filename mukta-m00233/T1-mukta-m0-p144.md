@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p144-v3576
-[vidhiḥ](vidhiḥ) [tu](tu) [evaṃ](evaṃ) [dārujam](dārujam) [ca](ca) [icchā](icchā) [śivāgninā](śivāgninā)
+[procedure](vidhiḥ) [indeed](tu) [thus](evam) [wooden-made](dāru+jam) [if](ca) [wishes](icchet) [with-Śiva-fire](śiva+agninā)
 
 ## mukta-m0-p144-v3577
-[avivarṇam](avivarṇam) [uduṣṭam](uduṣṭam) [ca](ca) [et](et) [tad](tad) [eva](eva) [sthāpayet](sthāpayet) [punaḥ](punaḥ)
+[not-discolored](a+vivarṇam) [not-defective](a+duṣṭam) [if](ca) [it](tat) [then](eva) [to-place](sthāpayet) [again](punaḥ)
 
 ## mukta-m0-p144-v3578
-[pratiṣṭhāpya](pratiṣṭhāpya) [arcayet](arcayet) [kuryāt](kuryāt) [ālaye](ālaye) [nūtanam](nūtanam) [punaḥ](punaḥ)
+[having-installed](pratiṣṭhāpya) [one-should-worship](arcayet) [one-should-do](kuryāt) [in-shrine](ālaye) [new](nūtanaṃ) [again](punaḥ)
 
 ## mukta-m0-p144-v3579
-[nūtanāni](nūtanāni) [uktamārgeṇa](uktamārgeṇa) [pratiṣṭhāpya](pratiṣṭhāpya) [tu](tu) [pūjayet](pūjayet)
+[new-ones](nūtanāni) [by-proper-method](ukta+mārgeṇa) [having-installed](pratiṣṭhāpya) [indeed](tu) [one-should-worship](pūjayet)
 
 ## mukta-m0-p144-v3580
-[yathāpūrvam](yathāpūrvam) [mūlaliṅgam](mūlaliṅgam) [niyojayet](niyojayet)
+[as-before](yathā+pūrvaṃ) [original-liṅga](mūla+liṅgaṃ) [one-should-join](niyojayet)
 
 ## mukta-m0-p144-v3581
-[kṛtvā](kṛtvā) [adhivāsanādyam](adhivāsanādyam) [tu](tu) [sthāpayet](sthāpayet) [garbhamandire](garbhamandire)
+[having-done](kṛtvā) [adhivāsana-etc](adhivāsana+ādyam) [indeed](tu) [one-should-place](sthāpayed) [in-garbha-chamber](garbha+mandire)
 
 ## mukta-m0-p144-v3582
-[mūlaliṅge](mūlaliṅge) [tu](tu) [pūrvavat](pūrvavat) [sanniyojayet](sanniyojayet)
+[in-original-liṅga](mūla+liṅge) [indeed](tu) [as-before](pūrva+vat) [one-should-join](sanniyojayet)
 
 ## mukta-m0-p144-v3583
-[sarvān](sarvān) [tu](tu) [samāhṛtya](samāhṛtya) [yathākramam](yathākramam)
+[all](sarvān) [indeed](tu) [having-gathered](samāhṛtya) [in-order](yathā+kramam)
 
 ## mukta-m0-p144-v3584
-[suniṣpanne](suniṣpanne) [tanmantrān](tanmantrān) [pūrvavat](pūrvavat) [kramāt](kramāt)
+[well-prepared](su+niṣpanne) [those-mantras](tat+mantrān) [as-before](pūrva+vat) [in-order](kramāt)
 
 ## mukta-m0-p144-v3585
-[daśaguṇām](daśaguṇām) [jīrṇoddhāre](jīrṇoddhāre) [tu](tu) [dakṣiṇām](dakṣiṇām)
+[ten-times](daśa+guṇām) [in-renovation-of-worn](jīrṇa+uddhāre) [indeed](tu) [fee](dakṣiṇām)
 
 ## mukta-m0-p144-v3586
-[liṅgibhyaḥ](liṅgibhyaḥ) [takṣabhyo](takṣabhyo) [arthibhyaḥ](arthibhyaḥ) [eva](eva) [ca](ca)
+[to-liṅga-holders](liṅgibhyaḥ) [to-stone-cutters](takṣabhyaḥ) [to-needy](arthibhyaḥ) [indeed](eva) [and](ca)
 
 ## mukta-m0-p144-v3587
-[pratiṣṭhite](pratiṣṭhite) [yat](yat) [vā](vā) [prāsādakaraṇe](prāsādakaraṇe) [phalam](phalam)
+[when-installed](pratiṣṭhite) [which](yat) [or](vā) [in-making-of-temple](prāsāda+karaṇe) [fruit](phalam)
 
 ## mukta-m0-p144-v3588
-[jīrṇoddhārāvasānam](jīrṇoddhārāvasānam) [suraguruvibudhaḥ](suraguruvibudhaḥ) [tam](tam) [kriyāpādam](kriyāpādam) [ūce](ūce)
+[in-renovation-ending](jīrṇa+uddhāra+avasānaṃ) [to-gods-teachers-gods](sura+guru+vibudhaḥ) [that](tam) [ritual-section](kriyā+pādam) [said](ūce)
 
 ## mukta-m0-p144-v3589
-[vairāgyāt](vairāgyāt) [vairāgyam](vairāgyam) [ca](ca) [svabhāvataḥ](svabhāvataḥ)
+[from-dispassion](vairāgyāt) [dispassion](vairāgyam) [and](ca) [by-nature](svabhāvataḥ)
 
 ## mukta-m0-p144-v3590
-[saṃsāraḥ](saṃsāraḥ) [tu](tu) [ātmabuddhiḥ](ātmabuddhiḥ) [syāt](syāt) [dehe](dehe) [svatvena](svatvena) [vastuṣu](vastuṣu)
+[worldly-existence](saṃsāraḥ) [indeed](tu) [self-notion](ātma+buddhiḥ) [may-be](syāt) [in-body](dehe) [as-own](sva+tvena) [in-things](vastuṣu)
 
 ## mukta-m0-p144-v3591
-[bhūtāni](bhūtāni) [śrotrādyādhārakāni](śrotrādyādhārakāni) [api](api)
+[elements](bhūtāni) [ear-etc](śrotra+ādyā) [supports](ādhārakāni) [also](api)
 
 ## mukta-m0-p144-v3592
-[tvak](tvak) [asṛk](asṛk) [māṃsa](māṃsa) [medas](medas) [asthi](asthi) [majjā](majjā) [śuklaiḥ](śuklaiḥ) [ca](ca) [nāḍibhiḥ](nāḍibhiḥ)
+[skin-blood-flesh-fat-bone-marrow-semen](tvak+asṛk+māṃsa+medaḥ+asthi+majjā+śuklaiḥ) [and](ca) [with-nerves](nāḍibhiḥ)
 
 ## mukta-m0-p144-v3593
-[catuḥ](catuḥ) [ṣaṭ](ṣaṭ) [aṣṭa](aṣṭa) [jagatī](jagatī) [vikāra](vikāra) [akṣi](akṣi) [chadāmbujaiḥ](chadāmbujaiḥ)
+[four-six-eight-world](catuṣ+ṣaḍ+aṣṭa+jagatī) [modifications-eyes-lotus](vikāra+akṣi+chada+ambujaiḥ)
 
 ## mukta-m0-p144-v3594
-[tat](tat) [tat](tat) [śabdādayaḥ](śabdādayaḥ) [pañca](pañca) [manaḥ](manaḥ) [buddhiḥ](buddhiḥ) [ahaṅkṛtiḥ](ahaṅkṛtiḥ)
+[those-sounds-etc](tat+tat+śabda+ādayaḥ) [five](pañca) [mind](manaḥ) [intellect](buddhiḥ) [ego](ahaṅkṛtiḥ)
 
 ## mukta-m0-p144-v3595
-[śrotrādayaḥ](śrotrādayaḥ) [ca](ca) [vāgādyāḥ](vāgādyāḥ) [tathā](tathā) [adhyātmāni](adhyātmāni) [vai](vai) [pṛthak](pṛthak)
+[ear-etc](śrotra+ādayaḥ) [and](ca) [speech-etc](vāk+ādyāḥ) [thus](tathā) [adhyātma](adhyātmāni) [indeed](vai) [separately](pṛthak)
 
 ## mukta-m0-p144-v3596
-[jalam](jalam) [pṛthivī](pṛthivī) [ca](ca) [tathā](tathā) [analaḥ](analaḥ)
+[water](jalam) [earth](pṛthivī) [and](ca) [thus](tathā) [fire](analaḥ)
 
 ## mukta-m0-p144-v3597
-[adhyātmāni](adhyātmāni) [manaḥ](manaḥ) [buddhiḥ](buddhiḥ) [ahaṃkāraḥ](ahaṃkāraḥ) [ca](ca) [tattrayam](tattrayam)
+[adhyātma](adhyātmāni) [mind](manaḥ) [intellect](buddhiḥ) [ego](ahaṃkāraḥ) [and](ca) [that-triad](tat+trayam)
 
 ## mukta-m0-p144-v3598
-[viriñcaḥ](viriñcaḥ) [ca](ca) [api](api) [adhidaivāni](adhidaivāni) [anukramāt](anukramāt)
+[Brahmā](viriñcaḥ) [and](ca) [indeed](api) [adhidaiva-etc](adhidaivāni) [in-order](anukramāt)
 
 ## mukta-m0-p144-v3599
-[vidyāditattvāni](vidyāditattvāni) [māyāntāni](māyāntāni) [akhilāni](akhilāni) [tu](tu)
+[knowledge-etc-principles](vidyā+ādi+tattvāni) [up-to-māyā](māyā+antāni) [all](akhilāni) [indeed](tu)
 
 ## mukta-m0-p144-v3600
-[suṣuptiḥ](suṣuptiḥ) [ca](ca) [iti](iti) [avasthātritayam](avasthātritayam) [tathā](tathā)
+[deep-sleep](su+suptiḥ) [and](ca) [thus](iti) [three-states](avasthā+tritayam) [thus](tathā)
