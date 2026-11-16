@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p04-v76
-[where+meru](kutrameruta) [fault+end](doṣāṃte) [heaven+place](svargasthān) [is-proclaimed](pratikīrtyate)
+[where](kutra) [meru+mountain](meruta) [fault+end](doṣāṃte) [heaven+place](svargasthān) [is-declared](pratikīrtyate)
 
 ## mukta-m0-p04-v77
-[dwell](vasaṃti) [where](yatra) [constantly](niyataṃ) [nectar+drink+engaged](sudhāpānapadākulāḥ)
+[dwell](vasaṃti) [where](yatra) [constantly](niyataṃ) [nectar+drinking](sudhāpāna) [occupied+by](padākulāḥ)
 
 ## mukta-m0-p04-v78
-[sacrificer+there](yajamānastatra) [having-gone](gatvā) [there-being+deity+groups](tatratyairdevatāgaṇaiḥ)
+[sacrificer](yajamānaḥ) [there](tatra) [having-gone](gatvā) [by-those-there](tatratyaiḥ) [deity+groups](devatāgaṇaiḥ)
 
 ## mukta-m0-p04-v79
-[jewel+pillar+filled](ratnastaṃbhasamākīrṇaṃ) [pearl+net+crowded](muktājālasamākulam)
+[jewel+pillar](ratna+staṃbha) [filled-with](samākīrṇaṃ) [pearl+net](muktājāla) [crowded-with](samākulam)
 
 ## mukta-m0-p04-v80
-[black-agalloch](kālāgaru) [arisen](samudbhūta) [new+bride](navadhū) [row+tender](pālikomalam)
+[black+aloe](kālāgaru) [arisen-from](samudbhūta) [new+bride](navadhū) [embrace+soft](pālikomalam)
 
 ## mukta-m0-p04-v81
-[sweet+with-honeys](madhurairmadhubhiḥ) [filled](pūrṇaiḥ) [jewel+pots+and](ratnakuṃbhaiśca) [adorned](śobhitam)
+[with-sweet](madhuraiḥ) [with-honeys](madhubhiḥ) [filled-with](pūrṇaiḥ) [jewel+jars](ratnakuṃbhaiḥ) [and](ca) [adorned](śobhitam)
 
 ## mukta-m0-p04-v82
-[skilled+maidservant+groups](vidagdhaiśceṭikāvargaistataścetaśca) [here-and-there](saṃkulam)
+[by-skillful](vidagdhaiḥ) [maidservant+groups](ceṭikāvargaiḥ) [then](tataḥ) [and](ca) [here-and-there](itaḥ+ca) [crowded](saṃkulam)
 
 ## mukta-m0-p04-v83
-[in-heaven](svarge) [divine+house](divyagrahaṃ) [having-gone](gatvā) [sees+one](paśyatyekāṃ) [beautiful-eyed](sulocanām)
+[in-heaven](svarge) [divine+abode](divyagrahaṃ) [having-gone](gatvā) [sees](paśyati) [one](ekāṃ) [beautiful-eyed-woman](sulocanām)
 
 ## mukta-m0-p04-v84
-[she](sā) [feigned+sewn+movements](kūtasyūtasaṃcārairapāṃgairati) [very+beautiful](śobhanām)
+[she](sā) [covert+glance](kūtasyūta) [movements](saṃcāraiḥ) [with-sidelong-glances](apāṃgaiḥ) [very+beautiful](ati+śobhanām)
 
 ## mukta-m0-p04-v85
-[gradually+limb+limb+contact](kramādaṃgāṃgasaṃsarga) [happiness](sukhaṃ) [immediately+attainable](sadyogyamaśnute)
+[gradually](kramāt) [limb+limb](aṃgāṃga) [contact](saṃsarga) [happiness](sukhaṃ) [immediately+fit](sadyogyam) [enjoys](aśnute)
 
 ## mukta-m0-p04-v86
-[different+as-if](anyādṛśamivābhāti) [liṅga-related+happiness](laiṃgaṃsaukhyaṃ) [that+indeed](tadevahi)
+[of-another-kind](anyādṛśam) [as-if](iva) [appears](ābhāti) [liṅga+pleasure](laiṃgaṃsaukhyaṃ) [that](tat) [indeed](eva) [here](ahi)
 
 ## mukta-m0-p04-v87
-[astonishes](camatkaroti) [sacrificer+this](yajvāsau) [own](nijakaṃ) [deed+accomplishment](karmasādhanam)
+[astonishes](camatkaroti) [sacrificer](yajvā) [this](asau) [own](nijakaṃ) [ritual+instrument](karmasādhanam)
 
 ## mukta-m0-p04-v88
-[worships](abhyarcayati) [speech-goddess](gīrvāṇī) [vulva+flower+offerings](bhagapuṣpasamarpaṇaiḥ)
+[worships](abhyarcayati) [speech-goddess](gīrvāṇī) [vulva+flower](bhagapuṣpa) [with-offerings](samarpaṇaiḥ)
 
 ## mukta-m0-p04-v89
-[all+veda+declared](samastavedasaṃproktā) [sacrifice+deed+performed](yajñakarmābhyanuṣṭhitaiḥ)
+[all+Veda](samastaveda) [declared](saṃproktā) [sacrifice+ritual](yajñakarmā) [by-performances](abhyanuṣṭhitaiḥ)
 
 ## mukta-m0-p04-v90
-[veda+of+also+and](vedasyāpi) [purport](ca) [great+liṅga+worship+method](tātparyaṃ) [mahāliṃgārcanakramaḥ](mahāliṃgārcanakramaḥ)
+[of-Veda](vedasya) [also](api) [and](ca) [purport](tātparyaṃ) [great+liṅga+worship](mahāliṃgārcana) [procedure](kramaḥ)
 
 ## mukta-m0-p04-v91
-[āyurveda+of](āyurvedasya) [essence+indeed](sārastu) [aphrodisiac+is-called](vājīkaraṇamucyate)
+[of-Āyurveda](āyurvedasya) [essence](sāraḥ) [indeed](tu) [aphrodisiac-therapy](vājīkaraṇam) [is-called](ucyate)
 
 ## mukta-m0-p04-v92
-[existing+disease+of](varthamānasyarogasya) [destruction+by-means](nāśadvārāṃgapuṣṭitaḥ)
+[of-existing](varthamānasya) [disease](arogasya) [by-destruction](nāśadvārā) [body+nourishment](aṃgapuṣṭitaḥ)
 
 ## mukta-m0-p04-v93
-[in-dharma+and](dharmecārthe) [in-wealth+and](ca) [in-desire+and](kāme) [in-liberation+and](ca) [mountain-daughter](mokṣe) [girinaṃdinī](ca) [girinaṃdinī](girinaṃdinī)
+[in-dharma](dharme) [in-wealth](cārthe) [and](ca) [in-desire](kāme) [and](ca) [in-liberation](mokṣe) [and](ca) [mountain+daughter](girinaṃdinī)
 
 ## mukta-m0-p04-v94
-[by-disease](rogeṇa) [first](prathamaṃ) [perishes](naśyedrava) [fluid+indeed+self+characteristic](evātmalakṣaṇaḥ)
+[by-disease](rogeṇa) [first](prathamaṃ) [is-destroyed](naśyet) [semen](ravaḥ) [indeed](eva) [self+characteristic](ātmalakṣaṇaḥ)
 
 ## mukta-m0-p04-v95
-[therefore](ataḥ) [first](prathamato) [enemy](vairi) [fluid+of+indeed](rasasyeva) [great](mahīyasaḥ)
+[therefore](ataḥ) [first](prathamataḥ) [enemy](vairi) [of-semen](rasasya) [indeed](eva) [great](mahīyasaḥ)
 
 ## mukta-m0-p04-v96
-[whence](kuto) [liṅga+maheśa+of](liṃgamaheśasya) [from-worship](pūjanāt) [merit+arising](puṇyasaṃbhavaḥ)
+[whence](kutaḥ) [liṅga+great-lord](liṃgamaheśasya) [from-worship](pūjanāt) [merit+arising](puṇyasaṃbhavaḥ)
 
 ## mukta-m0-p04-v97
-[semen+of](śuklasya) [nourishing+things](poṣakairvastu) [born+oneself](jātairātmānamarcayet) [should-worship](arcayet)
+[of-semen](śuklasya) [by-nourishing](poṣakaiḥ) [with-substances](vastu) [produced](jātaiḥ) [oneself](ātmānam) [one-should-worship](arcayet)
 
 ## mukta-m0-p04-v98
-[dhanurveda+of](dhanurvedasya) [and+also+this](cāpyetat) [purpose+declared](prayojanamudāhṛtam)
+[of-archery-science](dhanurvedasya) [and](ca) [also](api) [this](etat) [purpose](prayojanam) [is-declared](udāhṛtam)
 
 ## mukta-m0-p04-v99
-[in-battle](yuddhe) [if+death+obtains](cenmṛtimāpnoti) [sacrificer-like+fruit](yajvavatphalamaśnute)
+[in-battle](yuddhe) [if](cet) [death](mṛtim) [obtains](āpnoti) [like-sacrificer](yajvavat) [fruit](phalam) [enjoys](aśnute)
 
 ## mukta-m0-p04-v100
 [māṃnaṃda-](māṃnaṃda-)
