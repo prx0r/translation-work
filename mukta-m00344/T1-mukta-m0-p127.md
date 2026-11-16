@@ -5,7 +5,7 @@
 [sanaka-etc.](sanakādyā) [vasiṣṭha](vasiṣṭhaḥ) [and](ca) [pulastya](pulastyaḥ) [pulaha](pulahaḥ) [kratu](kratuḥ)
 
 ## mukta-m0-p127-v3152
-[subtle](sūkṣmā) [thus](iti) [very-subtle+deliberation+form](atisūkṣma+vicāra+rūpaḥ) [sanaka-etc.](sanakādyāḥ) [assembled](samuditāḥ) [thus](iti) [connection](anvayaḥ)
+[subtle](sūkṣma) [thus](iti) [of-very-subtle-inquiry-nature](atisūkṣma+vicāra+rūpaḥ) [sanaka-etc.](sanakādyāḥ) [assembled](samuditāḥ) [thus](iti) [construction](anvayaḥ)
 
 ## mukta-m0-p127-v3153
 [cyavana](cyavanaḥ) [vāmadeva](vāmadevaḥ) [and](ca) [viśvāmitra](viśvāmitraḥ) [then](atha) [gautama](gautamaḥ)
@@ -14,64 +14,64 @@
 [dakṣa](dakṣaḥ) [sumantu](sumantuḥ) [śaṅkha](śaṅkhaḥ) [and](ca) [likhita](likhitaḥ) [devala](devalaḥ) [also](api) [and](ca)
 
 ## mukta-m0-p127-v3155
-[all](sarve) [assembled](samuditāḥ) [there](tatra) [in-brahma+session](brahma+satre) [very-great](mahattare)
+[all](sarve) [assembled](samuditāḥ) [there](tatra) [in-brahma-sacrifice](brahma+satre) [very-great](mahattare)
 
 ## mukta-m0-p127-v3156
-[in-brahma+session](brahma+satre) [in-knowledge+sacrifice+context](jñāna+yajña+prasaṅge)
+[in-brahma-sacrifice](brahma+satre) [in-knowledge-sacrifice-context](jñāna+yajña+prasaṅge)
 
 ## mukta-m0-p127-v3157
-[to-brahmā](brahmāṇaṃ) [there](tatra) [asked](papracchuḥ) [sages](ṛṣayaḥ) [all](sarve) [indeed](eva) [they](te)
+[brahmā](brahmāṇaṃ) [there](tatra) [asked](papracchuḥ) [sages](ṛṣayaḥ) [all](sarve) [indeed](eva) [they](te)
 
 ## mukta-m0-p127-v3158
-[of-them](teṣāṃ) [to-us](naḥ) [various](vividhā) [appears](bhāti) [state](sthitiḥ) [by-nature+difference](prakṛti+bhedataḥ)
+[of-them](teṣāṃ) [to-us](naḥ) [various](vividhā) [appears](bhāti) [state](sthitiḥ) [due-to-nature-difference](prakṛti+bhedataḥ)
 
 ## mukta-m0-p127-v3159
-[by-nature+difference](prakṛti+bhedataḥ) [by-material+impression+difference](prākṛta+saṃskāra+bhedāt)
+[due-to-nature-difference](prakṛti+bhedataḥ) [due-to-natural-disposition-difference](prākṛta+saṃskāra+bhedāt)
 
 ## mukta-m0-p127-v3160
-[others](apare) [in-devotion+immersed](bhakti+nirmagnāḥ) [and](ca) [others](anye) [in-action+resorting](karma+samāśrayāḥ)
+[some](apare) [immersed-in-devotion](bhakti+nirmagnāḥ) [and](ca) [others](anye) [resorting-to-action](karma+samāśrayāḥ)
 
 ## mukta-m0-p127-v3161
-[that](tat) [indeed](eva) [says](āha) [some](kecid) [thus](iti)
+[that](tat) [indeed](eva) [says](āha) [some](kecit) [thus](iti)
 
 ## mukta-m0-p127-v3162
 [among-them](teṣu) [superior](śreyān) [indeed](hi) [which](katamaḥ) [this](etat) [to-us](naḥ) [to-tell](vaktum) [you-should](arhasi)
 
 ## mukta-m0-p127-v3163
-[among-them](teṣu) [among-those-in-absorption-etc.](samādhistha+ādiṣu) [superior](śreyān) [best](śreṣṭhaḥ)
+[among-them](teṣu) [those-established-in-absorption-etc.](samādhistha+ādiṣu) [superior](śreyān) [best](śreṣṭhaḥ)
 
 ## mukta-m0-p127-v3164
-[thus](iti) [asked](pṛṣṭaḥ) [said](avadat) [brahmā](brahmā) [having-thought](matvā) [with-unconfident+minds](anāśvasta+mānasān)
+[thus](iti) [asked](pṛṣṭaḥ) [said](avadat) [brahmā](brahmā) [thinking](matvā) [of-unconfident-minds](anāśvasta+mānasān)
 
 ## mukta-m0-p127-v3165
-[they-will-grasp](grahīṣyanti) [thus](iti) [from-me](mattaḥ) [thus](iti) [meaning](bhāvaḥ)
+[they-will-grasp](grahīṣyanti) [thus](iti) [thinking](matvā) [thus](iti) [sense](bhāvaḥ)
 
 ## mukta-m0-p127-v3166
-[one-should-know](jānīyāt) [this](imam) [matter](arthaṃ) [but](tu) [all-knowing](sarvajñaḥ) [supreme+lord](parama+īśvaraḥ)
+[one-should-know](jānīyāt) [this](imam) [matter](artham) [but](tu) [all-knowing](sarva+jñaḥ) [supreme-lord](parama+īśvaraḥ)
 
 ## mukta-m0-p127-v3167
-[having-met](saṅgamya) [god+of-gods+lord](deva+deva+īśaṃ) [by-viṣṇu+approached](viṣṇunā+abhisamāgatam)
+[having-met](saṅgamya) [lord-of-gods](deva+deva+īśam) [by-viṣṇu-approached](viṣṇunā+abhisamāgatam)
 
 ## mukta-m0-p127-v3168
-[mahādeva](mahādevaṃ) [having-met](saṅgamya) [having-reached](prāpya)
+[mahādeva](mahādevam) [having-met](saṅgamya) [having-reached](prāpya)
 
 ## mukta-m0-p127-v3169
-[question](praśnaṃ) [having-heard](niśamya) [and](ca) [śiva](śivaḥ) [having-known](jñātvā) [brahmā+approached](vidhim+anogatam)
+[question](praśnam) [having-heard](niśamya) [and](ca) [śiva](śivaḥ) [having-known](jñātvā) [brahmā-not-approached](vidhim+anogatam)
 
 ## mukta-m0-p127-v3170
-[brahmā+approached](vidhim+anogatam) [unconfident](anāśvastāḥ) [these](ete) [my+words](mat+vacaḥ) [not](na) [they-will-grasp](grahīṣyanti) [thus](iti)
+[brahmā-not-approached](vidhim+anogatam) [unconfident](anāśvastāḥ) [these](ete) [my-word](mat+vacaḥ) [not](na) [they-will-grasp](grahīṣyanti) [thus](iti)
 
 ## mukta-m0-p127-v3171
-[in-present+question+subject](prakṛta+praśna+viṣaye) [indeed](nanu) [thus](iti) [possibility+indicator](sambhāvanā+dyotakaḥ)
+[in-the-present-question-subject](prakṛta+praśna+viṣaye) [nanu-particle](nanu) [thus](iti) [indicating-supposition-etc.](sambhāvanā+dyotakaḥ)
 
 ## mukta-m0-p127-v3172
-[thus](iti) [having-thought](matvā) [replied](pratyuvāca) [god+of-gods](deva+devaḥ) [great+lord](mahā+īśvaraḥ)
+[thus](iti) [having-thought](matvā) [replied](pratyuvāca) [god-of-gods](deva+devaḥ) [great-lord](mahā+īśvaraḥ)
 
 ## mukta-m0-p127-v3173
 [it-may-be](bhavet) [thus](iti) [having-thought](matvā)
 
 ## mukta-m0-p127-v3174
-[therefore](ataḥ) [knowledge](vidyāṃ) [divine](bhagavatīṃ) [we-meditate-on](dhyāyāmaḥ) [supreme+goddess](parama+īśvarīm)
+[therefore](ataḥ) [knowledge](vidyām) [divine](bhagavatīm) [we-meditate-on](dhyāyāmaḥ) [supreme-goddess](parama+īśvarīm)
 
 ## mukta-m0-p127-v3175
-[by-full+independence+endowed](pūrṇa+svātantrya+yuktatvena) [in-our+doubt+cutting](asmat+saṃśaya+chedane) [capable](samarthā) [indeed](eva) [thus](iti) [meaning](bhāvaḥ)
+[by-being-endowed-with-complete-independence](pūrṇa+svātantrya+yuktatvena) [in-cutting-our-doubt](asmat+saṃśaya+chedane) [capable](samarthā) [indeed](eva) [thus](iti) [sense](bhāvaḥ)
