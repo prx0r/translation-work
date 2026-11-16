@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p09-v201
-[he](sa) [of-conceptual-thought](vikalpasya) [of-the-creature](jantoḥ) [and](ca) [of-the-ritual](jatrasya) [of-the-impure](samalasya) [and](ca)
+he(sa) of-conceptualization(vikalpasya) of-being(jantoḥ) + and(ca) of-journey(jatrasya) of-impure(samalasya) + and(ca)
 
 ## mukta-m0-p09-v202
-[page-111b](p. 111b)) [state](bhāvam) [this](etām) [vision](dṛśam) [having-made](kṛtvā) [which](yā) [vision](dṛśam) [told](kathitam) [to-you](tava)
+state(bhāvam) + this(etāṃ) view(dṛśaṃ) having-made(kṛtvā) which(yā) view(dṛśaṃ) told(kathitaṃ) to-you(tava)
 
 ## mukta-m0-p09-v203
-[of-invocation](āhvāna) [cause](kāraṇam) [place](sthānam) [for-those-desiring-to-ascend](ārurukṣuṣu) [one-should-show](darśayet)
+of-invocation(āhvāna) + cause(kāraṇaṃ) place(sthānam) to-those-desiring-to-ascend(ārurukṣuṣu) should-show(darśayet)
 
 ## mukta-m0-p09-v204
-[meditation](dhyāna) [worship](pūjā) [and-so-forth](ādikam) [and](ca) [that](tat) [all](sarvam) [from-conceptualization](saṅkalpa) [arisen](saṃbhavam)
+meditation(dhyāna) worship(pūjā) + etc.(ādikaṃ) and(tat) + that(ca) all(sarvaṃ) from-conceptualization(saṅkalpa) + arisen(saṃbhavam)
 
 ## mukta-m0-p09-v205
-[existence](bhāva) [non-existence](abhāva) [freed-from](vinirmuktam) [by-the-conduct-of-the-liberated](mukta+ācāreṇa) [one-should-move](sañcaret)
+being(bhāva) + non-being(abhāva) + free-from(vinirmuktaṃ) by-liberated-conduct(muktācāreṇa) + should-move(sañcaret)
 
 ## mukta-m0-p09-v206
-[otherwise](anyathā) [scripture](śāstra) [learning](pāṇḍityam) [in-the-pride-of-the-Vedas](veda+garveṣu) [proud](garvitāḥ)
+otherwise(anyathā) scripture(śāstra) + learning(pāṇḍityaṃ) in-veda(veda) + prides(garveṣu) proud(garvitāḥ)
 
 ## mukta-m0-p09-v207
-[page-112a](p. 112a)) [otherwise](anyathā) [indeed](hi) [instruction](upadeśam) [but](tu) [with-delusion](bhrānti) [endowed](yuktāḥ) [and](tathā) [otherwise](anyathā)
+otherwise(anyathā) indeed(hi) + teaching(upadeśaṃ) but(tu) delusion(bhrānti) + endowed(yuktāḥ) + likewise(tathā) + otherwise(anyathā)
 
 ## mukta-m0-p09-v208
-[otherwise](anyathā) [supreme-power](paramā+śaktiḥ) [people](lokāḥ) [suffer](kliśyanti) [and](ca) [otherwise](anyathā)
+otherwise(anyathā) supreme(paramā) + power(śaktiḥ) + people(lokāḥ) suffer(kliśyanti) and(ca) + otherwise(anyathā)
 
 ## mukta-m0-p09-v209
-[not](na) [logic](tarkam) [protection](trāṇam) [thus](iti) [they-say](āhuḥ) [for-the-sake-of-protection](trāṇa+artham) [supreme](paramam) [Śiva](śivam)
+not(na) reasoning(tarkaṃ) protection(trāṇam) + thus(iti) + they-say(āhuḥ) + for-protection(trāṇārthaṃ) supreme(paramaṃ) śiva(śivam)
 
 ## mukta-m0-p09-v210
-[metal](dhātu) [wood](dāru) [made-of](mayam) [liṅga](liṅgam) [stone](pāṣāṇa) [or](artham) [but](tu) [gold](hema) [born](jam)
+metal(dhātu) wood(dāru) + made-of(mayaṃ) liṅga(liṅgaṃ) stone(pāṣāṇa) + or(artham) but(tu) gold(hema) + born(jam)
 
 ## mukta-m0-p09-v211
-[not](na) [and](ca) [here](atra) [it-effects](kurute) [protection](trāṇam) [of-consciousness](caitanyasya) [the-insentient](acetanam)
+not(na) and(ca) + here(atra) does(kurute) protection(trāṇaṃ) of-consciousness(caitanyasya) insentient(acetanam)
 
 ## mukta-m0-p09-v212
-[page-112b](p. 112b)) [non-dual](advaita) [state](bhāvam) [O-goddess](deveśi) [for-the-sake-of-protection](trāṇa+artham) [in-every-way](sarvataḥ) [should-be](bhavet)
+non-dual(advaita) + state(bhāvaṃ) O-goddess(deveśi) for-protection(trāṇārthaṃ) in-all-ways(sarvataḥ) should-be(bhavet)
 
 ## mukta-m0-p09-v213
-[without](vinā) [of-knowledge](vijñāna) [beauty](saundaryāt) [by-the-guru](guruṇā) [instructed](ājñāpitaḥ) [when](yadā)
+without(vinā) + of-knowledge(vijñāna) + beauty(saundaryāt) by-guru(guruṇā) + instructed(ājñāpitaḥ) when(yadā)
 
 ## mukta-m0-p09-v214
-[non-duality](advaitam) [one-should-accomplish](sādhayet) [always](nityam) [in-all-states](sarva+avastham) [of-the-nature-of-Śiva](śiva+ātmakam)
+non-duality(advaitaṃ) should-accomplish(sādhayet) + always(nityaṃ) in-all-states(sarvāvasthaṃ) śiva(śiva) + nature(ātmakam)
 
 ## mukta-m0-p09-v215
-[non-duality](advaitam) [firm](suthiram) [liberation](mokṣam) [non-duality](advaitam) [enjoyment](bhoga) [characterized-by](lakṣaṇam)
+non-duality(advaitaṃ) very-firm(suthiraṃ) liberation(mokṣam) + non-duality(advaitaṃ) enjoyment(bhoga) + characterized(lakṣaṇam)
 
 ## mukta-m0-p09-v216
-[of-duality-and-non-duality](dvaita+advaita) [rule](vidhiḥ) [there-is-not](na+asti) [one-should-enter](praviśet) [in-the-state-of-Śambhu](śāmbhave) [state](pade)
+duality(dvaita) + non-duality(advaita) + rule(vidhiḥ) + not(nāsti) one-should-enter(praviśet) + in-śāmbhava(śāmbhave) state(pade)
 
 ## mukta-m0-p09-v217
-[even-if](yadyapi) [it-may-be](syāt) [great-non-duality](mahā+dvaitam) [duality](dvaitam) [I-salute](vande) [O-Kulāraṇī](kulāraṇī)
+even-if(yadyapi) may-be(syāt) great-non-duality(mahādvaitaṃ) duality(dvaitaṃ) I-salute(vande) kula(kula) + araṇi(araṇī)
 
 ## mukta-m0-p09-v218
-[of-these](eṣām) [in-the-midst](madhye) [not](na) [and](ca) [non-duality](advaitam) [this](etat) [of-the-scripture](śāstrasya) [conclusion](nirṇayam)
+of-these(eṣāṃ) in-middle(madhye) not(na) and(ca) + non-duality(advaitam) + this(etat) + of-scripture(śāstrasya) conclusion(nirṇayam)
 
 ## mukta-m0-p09-v219
-[by-difference-of-name-and-resting-place](nāma+paryaṅka+bhedena) [oneness](ekatvam) [and](ca) [indeed](eva) [in-one-way](ekadhā)
+name(nāma) + couch(paryaṅka) + by-difference(bhedena) oneness(ekatvaṃ) and(ca) + thus(evam) + in-one-way(ekadhā)
 
 ## mukta-m0-p09-v220
-[they-wander](bhramanti) [doubting-in-knowledge](jñāna+sandigdhāḥ) [deluded-by-the-state-of-ignorance](ajñāna+pada+mohitāḥ)
+wander(bhramanti) in-knowledge(jñāna) + doubting(sandigdhāḥ) by-ignorance(ajñāna) + state(pada) + deluded(mohitāḥ)
 
 ## mukta-m0-p09-v221
-[some](kecid) [say](vadanti) [haṃsa](haṃsaḥ) [that](asau) [some](kecit) [of-the-praṇava](praṇava) [the-vital-one](prāṇinam)
+some(kecit) + say(vadanti) haṃsa(haṃsaḥ) + that(asau) some(kecit) praṇava(praṇava) + living(prāṇinam)
 
 ## mukta-m0-p09-v222
-[some](kecit) [in-śakti](śakti) [supreme-bliss](para+ānandam) [supreme](param) [state](bhāvam) [worship](bhajanti) [they](te)
+some(kecit) + śakti(śakti) + supreme-bliss(parānandaṃ) supreme(paraṃ) state(bhāvaṃ) worship(bhajanti) + they(te)
 
 ## mukta-m0-p09-v223
-[some](kecit) [Śaiva](śaivam) [likewise](tathā) [divine](daivam) [some](kecit) [light](jyotiḥ) [but](tu) [sphere](golakam)
+some(kecit) + śaiva(śaivaṃ) likewise(tathā) divine(daivaṃ) some(kecit) + light(jyotiḥ) + but(tu) sphere(golakam)
 
 ## mukta-m0-p09-v224
-[some](kecit) [mother](mātṛ) [digit](kalā) [bindu](bindu) [untouched](asparśaḥ) [from-sound](nādataḥ) [likewise](tathā)
+some(kecit) mātṛkā(mātṛkā) + kalā(kalā) + bindu(bindu) untouched(asparśaḥ) + from-nāda(nādātaḥ) + likewise(tathā)
 
 ## mukta-m0-p09-v225
-[some](kecit) [say](vadanti) [the-self](ātmānam) [in-the-supreme-self](parama+ātmani) [situated](saṃsthitam)
+some(kecit) + say(vadanti) and(ca) + self(ātmānaṃ) in-supreme-self(paramātmani) situated(saṃsthitam)
