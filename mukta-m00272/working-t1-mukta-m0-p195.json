@@ -7,8 +7,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "deśiko",
-"quick_gloss": "teacher"
+"surface": "deśikaḥ",
+"quick_gloss": "priest"
 },
 {
 "surface": "mūrti+paiḥ",
@@ -53,11 +53,11 @@
 },
 {
 "surface": "sahitaiḥ",
-"quick_gloss": "accompanied"
+"quick_gloss": "with-companions"
 },
 {
 "surface": "yutaḥ",
-"quick_gloss": "endowed"
+"quick_gloss": "accompanied"
 }
 ]
 },
@@ -70,11 +70,11 @@
 "tokens": [
 {
 "surface": "pūrṇa+antam",
-"quick_gloss": "up-to-completion"
+"quick_gloss": "ending-with-pūrṇā"
 },
 {
 "surface": "agni+homam",
-"quick_gloss": "fire-oblation"
+"quick_gloss": "fire-offering"
 },
 {
 "surface": "ca",
@@ -107,7 +107,7 @@
 "tokens": [
 {
 "surface": "ratna+nyāsa+ādi+saṃyuktam",
-"quick_gloss": "with-jewel-deposit-etc."
+"quick_gloss": "with-gem-deposit-etc"
 },
 {
 "surface": "snāna+śvabhre",
@@ -128,7 +128,7 @@
 "tokens": [
 {
 "surface": "mātṛkā+nyāsakam",
-"quick_gloss": "mātṛkā-installation"
+"quick_gloss": "mātṛkā-deposit"
 },
 {
 "surface": "kṛtvā",
@@ -136,7 +136,7 @@
 },
 {
 "surface": "jīva+nyāsam",
-"quick_gloss": "life-installation"
+"quick_gloss": "life-deposit"
 },
 {
 "surface": "samācaret",
@@ -153,7 +153,7 @@
 "tokens": [
 {
 "surface": "vastra+ādi",
-"quick_gloss": "with-garments-etc."
+"quick_gloss": "with-garments-etc"
 },
 {
 "surface": "ābharaṇaiḥ",
@@ -168,7 +168,7 @@
 "quick_gloss": "indeed"
 },
 {
-"surface": "malaṃkṛtvā",
+"surface": "alaṃkṛtvā",
 "quick_gloss": "having-adorned"
 },
 {
@@ -177,7 +177,7 @@
 },
 {
 "surface": "deśikaḥ",
-"quick_gloss": "teacher"
+"quick_gloss": "priest"
 }
 ]
 },
@@ -218,8 +218,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "sanmārga+ātmako",
-"quick_gloss": "of-true-path-nature"
+"surface": "sanmārgam+ātmakaḥ",
+"quick_gloss": "of-the-nature-of-the-good-path"
 },
 {
 "surface": "nityam",
@@ -260,7 +260,7 @@
 },
 {
 "surface": "sanmārga+nāyakaḥ",
-"quick_gloss": "leader-of-true-path"
+"quick_gloss": "lord-of-the-good-path"
 }
 ]
 },
@@ -323,7 +323,7 @@
 "tokens": [
 {
 "surface": "dhvaje",
-"quick_gloss": "on-flag"
+"quick_gloss": "on-banner"
 },
 {
 "surface": "api",
@@ -360,7 +360,7 @@
 "tokens": [
 {
 "surface": "pūrva+utsavam",
-"quick_gloss": "prior-festival"
+"quick_gloss": "previous-festival"
 },
 {
 "surface": "ca",
@@ -372,7 +372,7 @@
 },
 {
 "surface": "vaśinām",
-"quick_gloss": "of-the-Vaśins"
+"quick_gloss": "for-the-subdued"
 },
 {
 "surface": "nandikeśvara",
@@ -396,16 +396,16 @@
 "quick_gloss": "prosperity"
 },
 {
-"surface": "vijayo",
+"surface": "vijayaḥ",
 "quick_gloss": "victory"
 },
 {
-"surface": "tārcciḥ",
+"surface": "tā",
 "quick_gloss": "and-honor"
 },
 {
-"surface": "ratne",
-"quick_gloss": "in-jewel"
+"surface": "arcciratne",
+"quick_gloss": "and-wealth"
 },
 {
 "surface": "sāyujyam",
@@ -413,7 +413,7 @@
 },
 {
 "surface": "āpnuyāt",
-"quick_gloss": "may-obtain"
+"quick_gloss": "he-obtains"
 }
 ]
 },
@@ -430,7 +430,7 @@
 },
 {
 "surface": "jayā+ādyaiḥ",
-"quick_gloss": "with-Jayā-etc."
+"quick_gloss": "with-Jayā-etc"
 },
 {
 "surface": "ca",
@@ -442,7 +442,7 @@
 },
 {
 "surface": "āyatanam",
-"quick_gloss": "in-shrine"
+"quick_gloss": "in-sanctuary"
 },
 {
 "surface": "nyaset",
@@ -467,7 +467,7 @@
 },
 {
 "surface": "nyasya",
-"quick_gloss": "having-installed"
+"quick_gloss": "having-placed"
 },
 {
 "surface": "sannirodhya",
@@ -479,7 +479,7 @@
 },
 {
 "surface": "homayet",
-"quick_gloss": "should-offer-oblations"
+"quick_gloss": "should-offer"
 }
 ]
 },
@@ -491,16 +491,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "vāstu+dvāra+ādayo",
-"quick_gloss": "Vāstu-door-etc."
+"surface": "vāstu+dvāra+ādayaḥ",
+"quick_gloss": "Vāstu-door-etc"
 },
 {
 "surface": "yaṣṭvā",
 "quick_gloss": "having-worshipped"
 },
 {
-"surface": "tatra+eva",
-"quick_gloss": "there-only"
+"surface": "tatra",
+"quick_gloss": "there"
+},
+{
+"surface": "eva",
+"quick_gloss": "indeed"
 },
 {
 "surface": "ananta+mantrataḥ",
@@ -516,16 +520,32 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "kāntisiddhārtharuddhiḥ",
-"quick_gloss": "kānti-siddhārtha-ruddhi"
+"surface": "kānti",
+"quick_gloss": "radiance"
+},
+{
+"surface": "siddhi",
+"quick_gloss": "accomplishment"
+},
+{
+"surface": "artha",
+"quick_gloss": "and-wealth"
+},
+{
+"surface": "ruddhiḥ",
+"quick_gloss": "and-obstruction"
 },
 {
 "surface": "ca",
 "quick_gloss": "and"
 },
 {
-"surface": "yavavṛddhi+saha+anunā",
-"quick_gloss": "with-yava-vṛddhi-and-anu"
+"surface": "yava+vṛddhi",
+"quick_gloss": "with-barley-growth"
+},
+{
+"surface": "saha+anunā",
+"quick_gloss": "together-with-Anu"
 }
 ]
 },
@@ -545,7 +565,7 @@
 "quick_gloss": "and"
 },
 {
-"surface": "nāragvadho",
+"surface": "nāragvadhaḥ",
 "quick_gloss": "nāragvadha"
 },
 {
@@ -554,14 +574,14 @@
 },
 {
 "surface": "sāndaghnaḥ",
-"quick_gloss": "sāndaghna"
+"quick_gloss": "and-sāndaghna"
 },
 {
 "surface": "ca",
 "quick_gloss": "and"
 },
 {
-"surface": "yo",
+"surface": "yaḥ",
 "quick_gloss": "which"
 },
 {
@@ -586,7 +606,7 @@
 "quick_gloss": "to-the-north"
 },
 {
-"surface": "kiñcid",
+"surface": "kiñcit",
 "quick_gloss": "somewhat"
 },
 {
@@ -644,8 +664,8 @@
 "quick_gloss": "and"
 },
 {
-"surface": "nandy+ādīn",
-"quick_gloss": "Nandin-etc."
+"surface": "nandi+ādīn",
+"quick_gloss": "Nandin-etc"
 },
 {
 "surface": "hṛt+saṃyuktaiḥ",
@@ -677,12 +697,8 @@
 "quick_gloss": "should-offer"
 },
 {
-"surface": "āhuteḥ",
-"quick_gloss": "of-oblations"
-},
-{
-"surface": "śatam",
-"quick_gloss": "hundred"
+"surface": "āhuteḥ+śatam",
+"quick_gloss": "hundred-oblations"
 }
 ]
 },
@@ -698,8 +714,8 @@
 "quick_gloss": "should-deposit"
 },
 {
-"surface": "kuṃbha+garbhe",
-"quick_gloss": "in-pot-womb"
+"surface": "kumbha+garbhe",
+"quick_gloss": "in-pot-cavity"
 },
 {
 "surface": "ca",
@@ -707,15 +723,11 @@
 },
 {
 "surface": "nyasya",
-"quick_gloss": "having-installed"
+"quick_gloss": "having-placed"
 },
 {
-"surface": "tantrāt",
-"quick_gloss": "from-scripture"
-},
-{
-"surface": "nivāsikam",
-"quick_gloss": "resident-deity"
+"surface": "tantrāt+nivāsikam",
+"quick_gloss": "residing-in-tantra"
 }
 ]
 },
@@ -727,7 +739,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "kṣmī+antam",
+"surface": "kṣmi+antam",
 "quick_gloss": "ending-with-earth"
 },
 {
@@ -735,8 +747,8 @@
 "quick_gloss": "and"
 },
 {
-"surface": "śekharaṃ",
-"quick_gloss": "ending-with-śekhara"
+"surface": "śekharam",
+"quick_gloss": "crest"
 },
 {
 "surface": "tatvam",
