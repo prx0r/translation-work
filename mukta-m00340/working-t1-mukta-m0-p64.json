@@ -16,11 +16,11 @@
 },
 {
 "surface": "bhavāni",
-"quick_gloss": "o-divine-one"
+"quick_gloss": "o-divine-mother"
 },
 {
 "surface": "bhavāni",
-"quick_gloss": "o-mother"
+"quick_gloss": "o-consort-of-śiva"
 }
 ]
 },
@@ -65,12 +65,12 @@
 "quick_gloss": "this"
 },
 {
-"surface": "kāryam",
-"quick_gloss": "purpose"
+"surface": "kāryam+etat",
+"quick_gloss": "this-duty"
 },
 {
-"surface": "etat",
-"quick_gloss": "this-here"
+"surface": "kāryam",
+"quick_gloss": "to-be-done"
 }
 ]
 },
@@ -87,15 +87,15 @@
 },
 {
 "surface": "dāsi",
-"quick_gloss": "servant"
+"quick_gloss": "servant-woman"
 },
 {
-"surface": "vṛtti",
-"quick_gloss": "behavior"
+"surface": "vṛtti+dāsi",
+"quick_gloss": "maidservant"
 },
 {
 "surface": "dāsi",
-"quick_gloss": "maid"
+"quick_gloss": "female-attendant"
 }
 ]
 },
@@ -116,7 +116,7 @@
 },
 {
 "surface": "kaiṭabhaṃ",
-"quick_gloss": "demon-kaiṭabha"
+"quick_gloss": "the-demon-kaiṭabha"
 },
 {
 "surface": "ca",
@@ -144,8 +144,8 @@
 "quick_gloss": "sleeps"
 },
 {
-"surface": "śete",
-"quick_gloss": "lies-asleep"
+"surface": "vivaśa+utha",
+"quick_gloss": "lies-powerless"
 }
 ]
 },
@@ -157,7 +157,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "vivaśīkṛta",
+"surface": "vivaśī+kṛta",
 "quick_gloss": "made-helpless"
 },
 {
@@ -165,12 +165,12 @@
 "quick_gloss": "as-if"
 },
 {
-"surface": "vivaśīkṛta",
+"surface": "vivaśī+kṛta",
 "quick_gloss": "rendered-powerless"
 },
 {
 "surface": "iva",
-"quick_gloss": "like"
+"quick_gloss": "so-to-speak"
 }
 ]
 },
@@ -195,7 +195,7 @@
 },
 {
 "surface": "kāmadheuṃ",
-"quick_gloss": "desire-granting"
+"quick_gloss": "desire-granting-cow"
 }
 ]
 },
@@ -220,7 +220,7 @@
 },
 {
 "surface": "nūnaṃ",
-"quick_gloss": "verily"
+"quick_gloss": "assuredly"
 }
 ]
 },
@@ -245,7 +245,7 @@
 },
 {
 "surface": "māṃ",
-"quick_gloss": "i"
+"quick_gloss": "i-accusative"
 }
 ]
 },
@@ -258,15 +258,15 @@
 "tokens": [
 {
 "surface": "citraṃ",
-"quick_gloss": "wonder"
+"quick_gloss": "wonderful"
 },
 {
 "surface": "citraṃ",
-"quick_gloss": "marvel"
+"quick_gloss": "marvelous"
 },
 {
 "surface": "citraṃ",
-"quick_gloss": "amazing"
+"quick_gloss": "astonishing"
 },
 {
 "surface": "citraṃ",
@@ -291,11 +291,11 @@
 },
 {
 "surface": "gariṣṭhaṃ",
-"quick_gloss": "greatest"
+"quick_gloss": "most-weighty"
 },
 {
 "surface": "gariṣṭhaṃ",
-"quick_gloss": "weightiest"
+"quick_gloss": "supremely-great"
 }
 ]
 },
@@ -320,7 +320,7 @@
 },
 {
 "surface": "jātaṃ",
-"quick_gloss": "manifested"
+"quick_gloss": "come-into-being"
 }
 ]
 },
@@ -385,7 +385,7 @@
 "quick_gloss": "when"
 },
 {
-"surface": "jāto",
+"surface": "jātaḥ",
 "quick_gloss": "was-born"
 },
 {
@@ -422,7 +422,7 @@
 "quick_gloss": "of-him"
 },
 {
-"surface": "jagadguroḥ",
+"surface": "jagad+guroḥ",
 "quick_gloss": "world-teacher"
 }
 ]
@@ -451,8 +451,12 @@
 "quick_gloss": "there"
 },
 {
-"surface": "bhayatrastaṃ",
-"quick_gloss": "fear-terrified"
+"surface": "bhaya",
+"quick_gloss": "with-fear"
+},
+{
+"surface": "trastaṃ",
+"quick_gloss": "terrified"
 },
 {
 "surface": "prajāpatiṃ",
@@ -473,11 +477,11 @@
 },
 {
 "surface": "āgataḥ",
-"quick_gloss": "come"
+"quick_gloss": "have-come"
 },
 {
 "surface": "asi",
-"quick_gloss": "are-you"
+"quick_gloss": "you"
 },
 {
 "surface": "bhagavan",
@@ -530,10 +534,10 @@
 },
 {
 "surface": "haniṣyāmi",
-"quick_gloss": "will-slay"
+"quick_gloss": "i-shall-kill"
 },
 {
-"surface": "aham",
+"surface": "ahaṃ",
 "quick_gloss": "i"
 },
 {
@@ -550,7 +554,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "ekārṇave",
+"surface": "eka+arṇave",
 "quick_gloss": "in-the-one-ocean"
 },
 {
@@ -588,7 +592,7 @@
 },
 {
 "surface": "ciṃtitaṃ",
-"quick_gloss": "thought"
+"quick_gloss": "was-thought"
 },
 {
 "surface": "tatra",
@@ -625,11 +629,11 @@
 },
 {
 "surface": "tava",
-"quick_gloss": "by-your"
+"quick_gloss": "of-your"
 },
 {
 "surface": "yuddhena",
-"quick_gloss": "battle"
+"quick_gloss": "by-battle"
 },
 {
 "surface": "vāsudeva",
@@ -653,12 +657,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "tat",
+"surface": "tat+śrutvā",
 "quick_gloss": "having-heard"
-},
-{
-"surface": "śrutvā",
-"quick_gloss": "that"
 },
 {
 "surface": "vacanaṃ",
@@ -711,7 +711,7 @@
 },
 {
 "surface": "dānavau",
-"quick_gloss": "demons"
+"quick_gloss": "dānavas"
 },
 {
 "surface": "viṣṇum",
@@ -731,7 +731,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "nirjale",
+"surface": "nir+jale",
 "quick_gloss": "in-waterless"
 },
 {
