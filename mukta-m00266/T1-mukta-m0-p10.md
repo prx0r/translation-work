@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p10-v226
-[some] (kecit) [breath] (prāṇaṃ) [thus] (tathā) [intellect] (buddhiḥ) [some] (kecit) [golden] (dhairaṇyam) [indeed] (eva) [also] (ca)
+[some](kecit) [breath](prāṇaṃ) [thus](tathā) [intellect](buddhiḥ) [some](kecit) [golden](dhairaṇyam) [indeed](eva) [and](ca)
 
 ## mukta-m0-p10-v227
-[wool+thread] (ūrṇātantu) [resembling] (nibhaṃ) [some] (kecit) [some] (kecit) [firefly] (khadyotam) [indeed] (eva) [also] (ca)
+[wool+thread](ūrṇa+ātantu) [resembling](nibhaṃ) [some](kecit) [some](kecit) [firefly](khadyotam) [indeed](eva) [and](ca)
 
 ## mukta-m0-p10-v228
-[some] (kecit) [hair+tip+part] (bālāgrabhāgaṃ) [but] (tu) [some] (kecit) [line+of-smoke] (dhūmāvalī) [shining] (prabham)
+[some](kecit) [hair+tip+part](bāla+agra+bhāgaṃ) [but](tu) [some](kecit) [lightning+row](vidyut+mālā) [splendor](prabham)
 
 ## mukta-m0-p10-v229
-[without-support] (nirālamba) [situated] (sthitaṃ) [some] (kecit) [some] (kecit) [sacrifice+fruit+endowed] (yajñaphalānvitam)
+[without+support](nir+ālamba) [situated](sthitaṃ) [some](kecit) [some](kecit) [sacrifice+fruit+endowed](yajña+phala+anvitam)
 
 ## mukta-m0-p10-v230
-[woman+pleasure+end+near] (strīsukhāntāntikaṃ) [some] (kecit) [some] (kecit) [culmination+end+within-range] (niṣṭhāntagocaram)
+[woman+pleasure+end+near](strī+sukha+anta+antikaṃ) [some](kecit) [some](kecit) [culmination+end+range](niṣṭhā+anta+gocaram)
 
 ## mukta-m0-p10-v231
-[with-characteristics+without-characteristics] (lakṣaṇālakṣaṇaṃ) [some] (kecit) [some] (kecit) [desire+free-from-disease] (icchāmanāmayam)
+[with-characteristics+without-characteristics](lakṣaṇa+alakṣaṇaṃ) [some](kecit) [some](kecit) [desire+free-from-disease](icchā+anāmayam)
 
 ## mukta-m0-p10-v232
-[sense+object+pleasure] (indriyārthasukhaṃ) [some] (kecit) [some] (kecit) [wheel+interior+row] (cakrāntarālinam)
+[sense+object+pleasure](indriya+artha+sukhaṃ) [some](kecit) [some](kecit) [wheel+interior+row](cakra+antara+ālinam)
 
 ## mukta-m0-p10-v233
-[unstruck+consisting-of] (anāhatamayaṃ) [some] (kecit) [some] (kecit) [sound+near] (ghoṣāntike) [state] (padam)
+[unstruck+consisting-of](anāhata+mayaṃ) [some](kecit) [some](kecit) [sound+near](ghoṣa+antike) [state](padam)
 
 ## mukta-m0-p10-v234
-[Īśvara+beginning-with] (īśvarādyaṃ) [thus] (tathā) [some] (kecit) [some] (kecit) [not+Īśvara+proponents] (neśvaravādinaḥ)
+[lord+beginning-with](īśvara+ādyaṃ) [thus](tathā) [some](kecit) [some](kecit) [not-lord+proponents](na+īśvara+vādinaḥ)
 
 ## mukta-m0-p10-v235
-[fifty+syllables+consisting-of] (pañcāśārṇamayaṃ) [some] (kecit) [some] (kecit) [Kāśī+fire+end] (kāśānalāntakam)
+[fifty+syllable+consisting-of](pañcāśat+arṇa+mayaṃ) [some](kecit) [some](kecit) [sky+fire+end](kāśa+anala+antakam)
 
 ## mukta-m0-p10-v236
-[deep-sleep+form] (sauṣuptarūpiṇaṃ) [some] (kecit) [some] (kecit) [fourth-state+support] (turyāvalambanam)
+[deep-sleep+form](sauṣupta+rūpiṇaṃ) [some](kecit) [some](kecit) [fourth-state+support](turyā+avalambanam)
 
 ## mukta-m0-p10-v237
-[Sanatkumāra+bliss+state] (sanatkumānandatā) [some] (kecit) [some] (kecit) [indeed] (caiva) [mind+consisting-of] (manāmayam)
+[eternal+bliss+nature](sanatka+ānandatā) [some](kecit) [some](kecit) [indeed](eva) [mind+consisting-of](manaḥ+mayam)
 
 ## mukta-m0-p10-v238
-[some] (kecit) [manifestation+free-from] (prabhāvanirmuktaṃ) [principle] (tattvaṃ) [in-principles+abiding] (tattveṣusaṃsthitam)
+[some](kecit) [manifestation+free-from](prabhāva+nirmuktaṃ) [principle](tattvaṃ) [principles+in+situated](tattveṣu+saṃsthitam)
 
 ## mukta-m0-p10-v239
-[some] (kecit) [indeed] (vai) [of-Vāsudeva] (vāsudevasya) [light+form] (jyotirūpaṃ) [eternal] (sanātanam)
+[some](kecit) [indeed](vai) [of-Vāsudeva](vāsudevasya) [light+form](jyoti+rūpaṃ) [eternal](sanātanam)
 
 ## mukta-m0-p10-v240
-[some] (kecit) [void] (śūnyaṃ) [thus] (tathā) [having-become] (bhūtvā) [some] (kecit) [liberation] (nirvāṇam) [indeed] (eva) [also] (ca)
+[some](kecit) [void](śūnyaṃ) [thus](tathā) [having-become](bhūtvā) [some](kecit) [liberation](nirvāṇam) [indeed](eva) [and](ca)
 
 ## mukta-m0-p10-v241
-[eternal+bliss] (nityānandaṃ) [thus] (tathā) [some] (kecit) [some] (kecit) [indeed] (caiva) [unstruck] (anāhatam)
+[eternal+bliss](nitya+ānandaṃ) [thus](tathā) [some](kecit) [some](kecit) [indeed](ca) [indeed](eva) [unstruck](anāhatam)
 
 ## mukta-m0-p10-v242
-[some] (kecit) [praṇava] (praṇavam) [thus] (iti) [said] (uktaṃ) [some] (kecit) [in-the-perceptible+abiding] (pratyakṣasaṃsthitam)
+[some](kecit) [praṇava](praṇavam) [thus](iti) [said](uktaṃ) [some](kecit) [perception+situated](pratyakṣa+saṃsthitam)
 
 ## mukta-m0-p10-v243
-[of-such-kind] (īdṛśaṃ) [and-of-such-kind] (cedṛśaṃ) [some] (kecit) [some] (kecit) [in-bliss] (ānandataḥ) [situated] (sthitāḥ)
+[such](īdṛśaṃ) [and-such](ca+īdṛśaṃ) [some](kecit) [some](kecit) [in-bliss](ānandataḥ) [situated](sthitāḥ)
 
 ## mukta-m0-p10-v244
-[beyond+space] (atītavyomakaṃ) [some] (kecit) [some] (kecit) [pure+discrimination+born] (śuddhavivekajam)
+[beyond+space](atīta+vyomakaṃ) [some](kecit) [some](kecit) [pure+discrimination+born](śuddha+viveka+jam)
 
 ## mukta-m0-p10-v245
-[some] (kecit) [*?] (*?) [kuṇḍalinī] (kuṇḍalinī) [power] (śaktir) [birth+place+resting-on] (janmasthānāvalambinī)
+[some](kecit) [kuṇḍalinī](kuṇḍalinī) [power](śaktiḥ) [birth+place+resting-on](janma+sthāna+avalambinī)
 
 ## mukta-m0-p10-v246
-[birth+place] (janmasthāna) [gone] (gatā) [power] (śaktis) [palate+aperture+spreading] (tālurandhravisarpiṇī)
+[birth+place](janma+sthāna) [gone](gatā) [power](śaktiḥ) [palate+aperture+spreading](tālu+randhra+visarpiṇī)
 
 ## mukta-m0-p10-v247
-[moon+sun+fire+middle+standing] (candrārkavahnimadhyasthaṃ) [some] (kecit) [contemplated+minds] (bhāvita) (cetasaḥ)
+[moon+sun+fire+middle+situated](candra+arka+vahni+madhya+sthaṃ) [some](kecit) [contemplated+minds](bhāvita+cetasaḥ)
 
 ## mukta-m0-p10-v248
-[thus+beginning-with] (evamādīni) [and] (ca) [others] (anyāni) [crore+divisions+abiding] (koṭi) (bhedena) (saṃsthitāḥ)
+[thus+beginning-with](evam+ādīni) [and](ca) [others](anyāni) [crore+divisions+by](koṭi+bhedena) [situated](saṃsthitāḥ)
 
 ## mukta-m0-p10-v249
-[to-count] (gaṇituṃ) [not] (naiva) [possible] (śakyeta) [many+crore+hundreds+even] (bahukoṭi) (śatair) (api)
+[to-count](gaṇituṃ) [not](na) [indeed](eva) [possible](śakyeta) [many+crore+hundreds+by](bahu+koṭi+śataiḥ) [even](api)
 
 ## mukta-m0-p10-v250
-[rest+characterized] (viśrāmalakṣaṇaṃ) [tell] (brūhi) [number+difference] (saṅkhyābhedaṃ) [one-should-abandon] (tyajen) [O-Hara] (hara)
+[rest+characterized](viśrāma+lakṣaṇaṃ) [tell](brūhi) [number+difference](saṅkhyā+bhedaṃ) [one-should-abandon](tyajet) [O-Hara](hara)
