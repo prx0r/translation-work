@@ -8,16 +8,16 @@
 [daily-worship](nitya+pūjā) [this](iyaṃ) [preliminary-rite](puraścaraṇam) [is-called](ucyate)
 
 ## mukta-m0-p185-v4603
-[facing-the-sun](āditya+abhimukhaḥ) [having-chanted](japtvā) [as-much](yāvat) [so-much](tāvat) [and](ca) [one-should-offer-libation](tarpayet)
+[facing-the-sun](āditya+abhimukhaḥ) [having-chanted](japtvā) [as-much](yāvat) [so-much](tāvat) [and](ca) [one-should-offer-libations](tarpayet)
 
 ## mukta-m0-p185-v4604
 [so-much](tāvat) [twelve-thousand](dvādaśa+sāhasraṃ) [one-should-chant](japet) [with-steady-mind](niścala+mānasaḥ)
 
 ## mukta-m0-p185-v4605
-[with-lotuses](padmaiḥ) [endowed-with-three-sweets](tri+madhu+upetaiḥ) [smeared-with-ghee](ghṛta+aktena) [with-milk](payaḥ+ondhasā)
+[with-lotuses](padmaiḥ) [endowed-with-three-sweets](tri+madhu+upetaiḥ) [smeared-with-ghee](ghṛta+āktena) [with-milk](payondhasā)
 
 ## mukta-m0-p185-v4606
-[accomplished](siddhaḥ) [should-become](bhavet) [mantra](mantraḥ) [not-here](na+atra) [to-be-done](kāryā) [deliberation](vicāraṇā)
+[accomplished](siddhaḥ) [should-become](bhavet) [mantra](mantraḥ) [not-here](na+atra) [to-be-done](kāryā) [consideration](vicāraṇā)
 
 ## mukta-m0-p185-v4607
 [of-lakṣmī](lakṣmyāḥ) [and](ca) [very-dear-things](ati+priyāṇi) [and](ca)
@@ -26,22 +26,22 @@
 [does](karoti) [thus](evaṃ) [he](saḥ) [should-become](syāt) [lord-of-wealth](lakṣa+patiḥ) [himself](svayam)
 
 ## mukta-m0-p185-v4609
-[should-offer-oblation](hunet) [wise-one](su+dhīḥ)
+[one-should-offer-oblation](hunet) [wise-one](su+dhīḥ)
 
 ## mukta-m0-p185-v4610
 [with-forty](catvāriṃśadbhiḥ) [of-this](asya) [should-be](syāt) [great-lakṣmī](mahā+lakṣmīḥ) [unwavering](acañcalā)
 
 ## mukta-m0-p185-v4611
-[in-six-months](ṣaṭ+māsāt) [should-be](syāt) [great-indrā](mahā+indirā)
+[in-six-months](ṣaṭ+māsāt) [should-become](syāt) [great-indrā](mahā+indirā)
 
 ## mukta-m0-p185-v4612
 [with-devotion](priyataḥ) [having-become](bhūtvā) [one-should-offer-oblation](juhuyāt) [clarified-butter](ājyam) [daily](anvaham)
 
 ## mukta-m0-p185-v4613
-[one-should-invoke](āvāhayet) [śrī](śriyaṃ) [in-lotus](padme) [with-five](pañcabhiḥ) [or-in-gold](kanake+atha+vā)
+[one-should-invoke](āvāhayet) [śrī](śriyam) [in-lotus](padme) [with-five](pañcabhiḥ) [or-in-gold](kanake+atha+vā)
 
 ## mukta-m0-p185-v4614
-[of-rice](śālīnāṃ) [with-milk](payasā) [one-should-prepare](samprakalpayet)
+[of-rice-grains](śālīnām) [with-milk](payasā) [one-should-prepare](samprakalpayet)
 
 ## mukta-m0-p185-v4615
 [with-all-herbs](sarva+auṣadhībhiḥ) [and-with-decoctions](phāṇṭaiḥ) [and](ca) [having-bathed](snātvā) [with-consecrated](abhipācitaiḥ) [also](api)
@@ -50,28 +50,28 @@
 [in-consecration-for-one-desiring-cattle](paśu+kāma+abhiṣecane)
 
 ## mukta-m0-p185-v4617
-[with-aśvapūrṇā](aśva+pūrṇā) [thus](iti) [one-should-bathe](snāyāt) [one-desiring-kingdom](rājya+kāmaḥ) [composed](samāhitaḥ)
+[with-aśvapūrṇā](aśvapūrṇā+iti) [one-should-bathe](snāyāt) [one-desiring-kingship](rājya+kāmaḥ) [composed](samāhitaḥ)
 
 ## mukta-m0-p185-v4618
 [to-be-done](kāryaḥ) [but](tu) [afterwards](anantaram)
 
 ## mukta-m0-p185-v4619
-[with-ādityavarṇa](āditya+varṇa) [with-this](iti+anayā) [bilva-oblation](bilva+homaḥ) [is-prescribed](vidhīyate)
+[with-ādityavarṇa](ādityavarṇa+iti) [with-this](anayā) [bilva-oblation](bilva+homaḥ) [is-prescribed](vidhīyate)
 
 ## mukta-m0-p185-v4620
-[first](prathamaṃ) [properly](samyak) [endless](anantāṃ) [one-obtains](viṃdate) [prosperity](śriyam)
+[first](prathamaṃ) [properly](samyak) [endless](anantām) [one-obtains](viṃdate) [prosperity](śriyam)
 
 ## mukta-m0-p185-v4621
-[unspoken](anuktām) [uninterrupted](avyavacchinnāṃ) [eternal](śāśvatīṃ) [one-obtains](vidate) [prosperity](śriyam)
+[unspoken](anuktām) [uninterrupted](avyavacchinnām) [eternal](śāśvatīm) [one-obtains](vidate) [prosperity](śriyam)
 
 ## mukta-m0-p185-v4622
-[in-chanting](jape) [but](tu) [ten-thousand](prayutaṃ) [properly](samyak) [endless](anantāṃ) [one-obtains](viṃdate) [prosperity](śriyam)
+[in-chanting](jape) [but](tu) [ten-thousand](prayutaṃ) [properly](samyak) [endless](anantām) [one-obtains](viṃdate) [prosperity](śriyam)
 
 ## mukta-m0-p185-v4623
-[one-should-offer-oblation](juhuyāt) [daily](nityaṃ) [lotuses](padmāni) [even-ten-thousand](ayutaḥ+api) [and](ca)
+[one-should-offer-oblation](juhuyāt) [daily](nityaṃ) [lotuses](padmāni) [ten-thousand](ayutaḥ) [also](api) [and](ca)
 
 ## mukta-m0-p185-v4624
 [success](siddhiṃ) [he](saḥ) [attains](gacchati)
 
 ## mukta-m0-p185-v4625
-[bilva-fruits](bilvāni) [with-that](sa+saḥ) [desiring](kāmaḥ) [prospers](samṛddhyati)
+[bilva-fruits](bilvāni) [with-that](sa+sa) [desiring](kāmaḥ) [prospers](samṛddhyati)
