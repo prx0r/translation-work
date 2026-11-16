@@ -14,10 +14,10 @@
 [one-should-visualize](viciṃtayen) [O-great-goddess](maheśāni) [in-its-middle](tanmadhye) [golden+mansion](hemamaṃdiram)
 
 ## mukta-m0-p09-v205
-[four-aims+fruit+attainment](caturvarga+phalaprāpti) [cause](kāraṇaṃ) [sorrow+removing](śokavāraṇam)
+[four-goals+fruit+attainment](caturvarga+phalaprāpti) [cause](kāraṇaṃ) [sorrow+removing](śokavāraṇam)
 
 ## mukta-m0-p09-v206
-[various+jewel+variegated](nānāmaṇi+vicitrāṇāṃ) [of-pillars](staṃbhānāṃ) [with-new+splendor](navaśobhayā)
+[various+gem+variegated](nānāmaṇi+vicitrāṇāṃ) [of-pillars](staṃbhānāṃ) [with-new+splendor](navaśobhayā)
 
 ## mukta-m0-p09-v207
 [with-moonbeams](caṃdrikābhiḥ) [surrounded](parivṛtaṃ) [young+sunlight+reddened](bālātapavilohitam)
@@ -26,52 +26,52 @@
 [with-ready+bow](sajjacāpena) [by-Kāma](kāmena) [being-guarded](rakṣyamāṇam) [on-all-sides](itastataḥ)
 
 ## mukta-m0-p09-v209
-[eagerness](utkaṇṭhā) [deity+given](devatādatta) [yak-tail+fan+fanning](vālavyajanavījanam)
+[eagerness](utkaṇṭhā) [deity+given](devatādatta) [yak-tail-fan+fanning](vālavyajanavījanam)
 
 ## mukta-m0-p09-v210
-[enjoyment+implements+endowed](bhogopakaraṇairyuktaṃ) [with-various](vividhaiśca) [with-drinks](prapānakaiḥ)
+[enjoyment+implements+endowed](bhogopakaraṇairyuktaṃ) [and](ca) [with-various](vividhaiś) [drinks](prapānakaiḥ)
 
 ## mukta-m0-p09-v211
-[playful+conversation+skilled](narmālāpakasābhijñaiḥ) [maidservant+groups](ceṭi+vargaiḥ) [charming](manoharam)
+[playful+conversation+skilled](narmālāpakasābhijñaiś) [maidservant+groups](ceṭi+vargair) [charming](manoharam)
 
 ## mukta-m0-p09-v212
 [treasure+deity+endowed](nidhidevatayāyuktaṃ) [silk+garment+adorned](paṭṭāṃśukapariṣkṛtam)
 
 ## mukta-m0-p09-v213
-[various+gems+filled](nānāratnasamākīrṇaṃ) [four+pillar+adorned](catustaṃbhopaśobhitām)
+[various+jewels+filled](nānāratnasamākīrṇaṃ) [four+pillars+beautified](catustaṃbhopaśobhitām)
 
 ## mukta-m0-p09-v214
 [there](tatra) [two-pillars+attached](staṃbhadvayāsakta) [crosswise+wooden-beam+suspended](tiryagdārupalaṃbite)
 
 ## mukta-m0-p09-v215
-[couch](maṃcam) [high-and-low+jewel+light](uccāvacamaṇijyotiḥ) [tawny+directions+face](piṃjaradiṅmukham)
+[couch](maṃcam) [high-and-low+gem+light](uccāvacamaṇijyotiḥ) [tawny+directions+face](piṃjaradiṅmukham)
 
 ## mukta-m0-p09-v216
-[Sadāśiva+body+placed](sadāśivavapuḥ+kṣipta) [well-made+plank+shining](sujātaphalakojvalam)
+[Sadāśiva+body+placed](sadāśivavapuḥ+kṣipta) [well-made+board+shining](sujātaphalakojvalam)
 
 ## mukta-m0-p09-v217
-[extremely+soft](atyaṃta+mṛdulaṃ) [delightful](hṛdyaṃ) [milk+ocean+white+splendor](kṣīrābdhi+dhavalacchaviḥ)
+[extremely+soft](atyaṃta+mṛdulaṃ) [delightful](hṛdyaṃ) [milk-ocean+white+splendor](kṣīrābdhi+dhavalacchaviḥ)
 
 ## mukta-m0-p09-v218
-[safflower+garment](kausuṃbhavasanaṃ) [new](navyaṃ) [young+sun+similar](bālārka+sadṛśaṃ) [one-should-meditate](smaret)
+[safflower+garment](kausuṃbhavasanaṃ) [new](navyaṃ) [young+sun+similar](bālārka+sadṛśaṃ) [one-should-remember](smaret)
 
 ## mukta-m0-p09-v219
 [tied-up+braid+mass](unnaddhakabarīpāśaṃ) [musk+forehead-mark+shining](kastūrītilakojvalam)
 
 ## mukta-m0-p09-v220
-[with-pearl+necklace](muktāhāreṇa) [with-lovely](ramyeṇa) [adorned+neck](vibhūṣitaśirodharam)
+[with-pearl+necklace](muktāhāreṇa) [charming](ramyeṇa) [adorned+neck](vibhūṣitaśirodharam)
 
 ## mukta-m0-p09-v221
-[always](satataṃ) [union+device+state](yuktayaṃtratvāt) [sky+own+form](anaṃbara+nijākṛtim)
+[always](satataṃ) [joined+instrumentality](yuktayaṃtratvād) [unclothed+own+form](anaṃbara+nijākṛtim)
 
 ## mukta-m0-p09-v222
-[with-nail+scratches](nakhakṣataiśca) [with-various](vividhaiḥ) [with-kisses](cuṃbanaiśca) [with-hundreds+more](paraḥśataiḥ)
+[with-nail+scratches](nakhakṣataiś) [and](ca) [with-various](vividhaiś) [with-kisses](cuṃbanaiś) [and](ca) [hundreds+more](paraḥśataiḥ)
 
 ## mukta-m0-p09-v223
-[with-acts](karaṇaiḥ) [with-many+variations](bahuvinyāsai) [with-embraces](rāśleṣaiḥ) [with-many+kinds](bahubhedibhiḥ)
+[with-acts](karaṇair) [with-many+variations](bahuvinyāsai) [with-embraces](rāśleṣair) [with-many+kinds](bahubhedibhiḥ)
 
 ## mukta-m0-p09-v224
-[that](tāṃ) [goddess](devīm) [also+that+meditation](api+taddhyāna) [in-sequence](krameṇa) [the-wise-one](matimān) [should-meditate](smaret)
+[that](tāṃ) [goddess](devīm) [also](api) [that+meditation](taddhyāna) [in-sequence](krameṇa) [the-wise-one](matimān) [should-remember](smaret)
 
 ## mukta-m0-p09-v225
 [himself](svayam) [unagitated+having-become](avyākulobhūtvā) [motionless+senses+mind](niścalendriyamānasaḥ)
