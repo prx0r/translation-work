@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p70-v1726
-brahma+viṣṇu+rudra+paraḥ(brahmaviṣṇurudrapara) sarva+sannidhya+kārakaḥ(sarvasannidhyakārakaḥ)
+[brahma-viṣṇu-rudra-para](brahmaviṣṇurudrapara) [sarva-sannidhya-kāraka](sarvasannidhyakārakaḥ)
 
 ## mukta-m0-p70-v1727
-bhava+yugmam(bhavayugmaṃ) tathā(tathā) śarva+yugmam(śarvayugmaṃ) ca(ca) prathama+dvayam(prathamadvayam)
+[bhava-yugma](bhavayugmaṃ) [tathā](tathā) [śarva-yugma](śarvayugmaṃ) [ca](ca) [prathama-dvaya](prathamadvayam)
 
 ## mukta-m0-p70-v1728
-mahā+tejaḥ(mahātejaḥ) padam(padaṃ) sat+bhāva+īśvaram(sadbhāveśvaraṃ) ca(ca) iti(iti) kīrtitam(kīrtitam)
+[mahā-tejaḥ-pada](mahātejaḥ) [sat-bhāveśvara](sadbhāveśvaraṃ) [ca](ceti) [kīrtita](kīrtitam)
 
 ## mukta-m0-p70-v1729
-nivṛttyā(nivṛttyā) vyāpta+adhvānam(vyāptamadhvānaṃ) tattva+ādyam(tattvādyaṃ) kalayā(kalayā) smaret(smaret)
+[nivṛttyā](nivṛttyā) [vyāpta-adhvāna](vyāptamadhvānaṃ) [tattva-ādya](tattvādyaṃ) [kalayā](kalayā) [smaret](smaret)
 
 ## mukta-m0-p70-v1730
-iti(iti) uccārya(uccārya) nivṛttim(nivṛttiṃ) tu(tu) sūtrāt(sūtrāt) saṃgrāhya(saṃgrāhya) pāvale(pāvale)
+[ity-uccārya](ityuccārya) [nivṛtti](nivṛttiṃ) [tu](tu) [sūtrāt](sūtrātsaṃgrāhya) [saṃgrāhya](saṃgrāhya) [pāvale](pāvale)
 
 ## mukta-m0-p70-v1731
-malaḥ(malaḥ) karma(karma) ca(ca) māyā+ākhyam(māyākhyaṃ) bhoktṛ+bhoga+śarīra+jam(bhoktṛbhogaśarīrajam)
+[mala](malaḥ) [karma](karma) [ca](ca) [māyā-ākhya](māyākhyaṃ) [bhoktṛ-bhoga-śarīra-ja](bhoktṛbhogaśarīrajam)
 
 ## mukta-m0-p70-v1732
-tat+vyāpikām(tadvyāpikāṃ) ca(ca) vāg+īśīm(vāgīśīṃ) samāvāhya(samāvāhya) prapūjayet(prapūjayet)
+[tad-vyāpikā](tadvyāpikāṃ) [ca](ca) [vāgīśī](vāgīśīṃ) [samāvāhya](samāvāhya) [prapūjayet](prapūjayet)
 
 ## mukta-m0-p70-v1733
-hutvā(hutvā) āhuti+trayam(āhutitrayaṃ) paścāt(paścāt) svāhā+antena(svāhāntena) eva(eva) mantrataḥ(mantrataḥ)
+[hutvā](hutvāhutitrayaṃ) [āhuti-traya](āhutitrayaṃ) [paścāt](paścātsvāhāntenaiva) [svāhā-anta](svāhāntenaiva) [mantrataḥ](mantrataḥ)
 
 ## mukta-m0-p70-v1734
-prārthya(prārtha) evam(evaṃ) śiṣyam(śiṣyam) astreṇa(astreṇa) saṃprokṣya(saṃprokṣya) hṛdi(hṛdi) tāḍayet(tāḍayet)
+[prārtha](prārthaivaṃ) [evaṃ](evaṃ) [śiṣya](śiṣyamastreṇa) [astreṇa](astreṇa) [saṃprokṣya](saṃprokṣya) [hṛdi](hṛdi) [tāḍayet](tāḍayet)
 
 ## mukta-m0-p70-v1735
-sva+ātmanaḥ(svātmano) recakena(recakena) eva(eva) tasya(tasya) dehe(dehe) praviśya(praviśya) ca(ca)
+[sva-ātmanaḥ](svātmano) [recakena](recakenaiva) [eva](eva) [tasya](tasya) [dehe](dehe) [praviśya](praviśya) [ca](ca)
 
 ## mukta-m0-p70-v1736
-ākṛṣya(ākṛṣya) mūla+mantreṇa(mūlamantreṇa) ca(ca) āhuti+trayam(āhutitrayam) ācaret(ācaret)
+[ākṛṣya](ākṛṣya) [mūla-mantreṇa](mūlamantreṇa) [ca](ca) [āhuti-traya](āhutitrayamācaret) [ācaret](ācaret)
 
 ## mukta-m0-p70-v1737
-sa+anta+bījam(sāntabījaṃ) samuccārya(samuccārya) śiśum(śiśuṃ) saṃhāra+mudrayā(saṃhāramudrayā)
+[sānta-bīja](sāntabījaṃ) [samuccārya](samuccārya) [śiśu](śiśuṃ) [saṃhāra-mudrayā](saṃhāramudrayā)
 
 ## mukta-m0-p70-v1738
-kṛtvā(kṛtvā) mūlam(mūlaṃ) smaran(smaran) svasya(svasya) dvādaśa+ante(dvādaśānte) niyojya(niyojya) ca(ca)
+[kṛtvā](kṛtvā) [mūla](mūlaṃ) [smaran](smaran) [svasya](svasya) [dvādaśa-ante](dvādaśānte) [niyojya](niyojya) [ca](ca)
 
 ## mukta-m0-p70-v1739
-sarvāsu(sarvāsu) yoniṣu(yoniṣu) śiśoḥ(śiśoḥ) saṃyogam(saṃyogaṃ) yugapat(yugapat) nayet(nayet)
+[sarvāsu](sarvāsu) [yoniṣu](yoniṣu) [śiśoḥ](śiśoḥ) [saṃyoga](saṃyogaṃ) [yugapat](yugapannayet) [nayet](nayet)
 
 ## mukta-m0-p70-v1740
-bhagavan(bhagavan) deva(deva) deva+īśa(deveśa) śiśoḥ(śiśoḥ) sarvāsu(sarvāsu) yoniṣu(yoniṣu)
+[bhagavan](bhagavan) [deva](deva) [deveśa](deveśa) [śiśoḥ](śiśossarvāsu) [sarvāsu](sarvāsu) [yoniṣu](yoniṣu)
 
 ## mukta-m0-p70-v1741
-niṣpatyai(niṣpatyai) sarva+garbhāṇām(sarvagarbhāṇāṃ) dadyāt(dadyāt) mūla+huti+trayam(mūlahutitrayam)
+[niṣpatyai](niṣpatyai) [sarva-garbhāṇāṃ](sarvagarbhāṇāṃ) [dadyāt](dadyānmūlahutitrayam) [mūla-huti-traya](mūlahutitrayam)
 
 ## mukta-m0-p70-v1742
-sarvāsu(sarvāsu) yoniṣu(yoniṣu) kuru+kuru(kurukuru) iti(iti) evam(evam) nayet(nayet) dvijāḥ(dvijāḥ)
+[sarvāsu](sarvāsu) [yoniṣu](yoniṣu) [kuru-kuru](kurukurvityevannayedvijāḥ) [iti](iti) [evaṃ](evaṃ) [nayed](nayed) [vijāḥ](vijāḥ)
 
 ## mukta-m0-p70-v1743
-bhagavan(bhagavan) sarva+garbhāṇām(sarvagarbhāṇāṃ) jananam(jananaṃ) kuru(kuru) kuru(kuru) aṇoḥ(aṇoḥ)
+[bhagavan](bhagavan) [sarva-garbhāṇāṃ](sarvagarbhāṇāṃ) [jananaṃ](jananaṃ) [kuru](kuru) [kurvaṇoḥ](kurvaṇoḥ)
 
 ## mukta-m0-p70-v1744
-mūla+huti+trayam(mūlahutitrayaṃ) datvā(datvā) śivam(śivaṃ) prativadet(prativadet) idam(idam)
+[mūla-huti-traya](mūlahutitrayaṃ) [datvā](datvā) [śivaṃ](śivaṃprativadedidam) [prativaded](prativaded) [idam](idam)
 
 ## mukta-m0-p70-v1745
-karma+arjanāya(karmārjanāya) mūlena(mūlena) āhuti+trayam(āhutitrayam) ācaret(ācaret)
+[karma-ārjanāya](karmārjanāya) [mūlena](mūlena) [āhuti-traya](āhutitrayamācaret) [ācaret](ācaret)
 
 ## mukta-m0-p70-v1746
-karma+arjanam(karmārjanaṃ) paṭhitvā(paṭhitvā) evam(evaṃ) viśeṣaḥ(viśeṣo) loka+dharmiṇi(lokadharmiṇi)
+[karma-ārjanaṃ](karmārjanaṃ) [paṭhitvā](paṭhitvaivaṃ) [evaṃ](evaṃ) [viśeṣaḥ](viśeṣo) [loka-dharmiṇi](lokadharmiṇi)
 
 ## mukta-m0-p70-v1747
-deśataḥ(deśataḥ) kālataḥ(kālataḥ) ca(ca) eva(eva) dehena(dehena) viṣayeṇa(viṣayeṇa) ca(ca)
+[deśataḥ](deśataḥ) [kālataḥ](kālataścaiva) [ca](ca) [eva](eva) [dehena](dehena) [viṣayeṇa](viṣayeṇa) [ca](ca)
 
 ## mukta-m0-p70-v1748
-bhoktṛtve(bhoktṛtva) liṅgite(liṅgite) puṃsi(puṃsi) sukha+duḥkha+ātma+vedanam(sukhaduḥkhātmavedanam)
+[bhoktṛtva](bhoktṛtva) [liṃgite](liṃgitepuṃsi) [puṃsi](puṃsi) [sukha-duḥkha-ātma-vedana](sukhaduḥkhātmavedanam)
 
 ## mukta-m0-p70-v1749
-bhagavan(bhagavan) bhoga+niṣpattim(bhoganiṣpattiṃ) sarvatra(sarvatra) kuru(kuru) kuru(kuru) aṇoḥ(aṇoḥ)
+[bhagavan](bhagavan) [bhoga-niṣpatti](bhoganiṣpattiṃ) [sarvatra](sarvatra) [kuru](kuru) [kurvaṇoḥ](kurvaṇoḥ)
 
 ## mukta-m0-p70-v1750
-śiva+āhuti+trayam(śivāhutitrayaṃ) datvā(datvā) parama+prīti+rūpakam(paramaprītirūpakam)
+[śiva-āhuti-traya](śivāhuti) [datvā](trayaṃ) [parama-prīti-rūpaka](paramaprīti) [rūpaka](rūpakam)

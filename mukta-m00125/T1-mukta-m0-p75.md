@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p75-v1851
-[having-conceived](saṃbhāvya) [having-uttered](mantram+uccārya) [by-means-of-abandonment](kāraṇa+tyāga) [connection](yogataḥ)
+[having-honored](saṃbhāvya) [having-uttered-mantra](mantramuccārya) [by-means-of-renunciation-of-cause](kāraṇatyāgayogataḥ)
 
 ## mukta-m0-p75-v1852
-[withdrawn](vyāvartita) [mind](manaḥ) [breath](prāṇa) [giving](dāna) [power](śakti) [part](kalā) [of-the-self](ātmanaḥ)
+[turned-away-mind](vyāvartitamanaḥ) [life-giving-power-art-essence](prāṇadānaśaktikalātmanaḥ)
 
 ## mukta-m0-p75-v1853
-[pure](śuddham) [rising](udyat) [flame](śikhā) [like](kalpaṃ) [from-fire](vahneḥ) [having-taken](ādāya) [body](pudgalam)
+[pure-uplifted-flame-like](śuddhamudyacchikhākalpaṃ) [taking-fire](vahnerādāya) [person](pudgalam)
 
 ## mukta-m0-p75-v1854
-[there](tatra) [joined](yuktaḥ) [even](api) [he](asau) [by-that](tena) [not](na) [made-of-equal-quality](samāna+guṇī+kṛtaḥ)
+[there-united-even-he](tatra yukto'pyasau) [by-that](tena) [not-equalized-in-quality](na samānaguṇīkṛtaḥ)
 
 ## mukta-m0-p75-v1855
-[in-attainment-of-sovereignty](sāmrājya+adhigame) [even](api) [highly](uccaiḥ) [of-the-prince](nṛpa+sūnoḥ) [fulfillment](kṛtārthatā)
+[even-in-attaining-empire](sāmrājyādhigame'pyuccair) [of-prince](nṛpasūnoḥ) [accomplishment](kṛtārthatā)
 
 ## mukta-m0-p75-v1856
-[for-manifestation-of-own-qualities](sva+guṇa+vyaktaye) [by-that](tena) [with-ladle](sruveṇa) [ghee-oblations](ājya+āhutīḥ) [indeed](tu) [six](ṣaṭ)
+[for-manifestation-of-own-quality](svaguṇavyaktaye) [by-that](tena) [with-ladle-ghee-offerings](sruveṇājyāhutīstu) [six](ṣaṭ)
 
 ## mukta-m0-p75-v1857
-[all-knowing](sarvajñaḥ) [eternally-conscious](nitya+saṃbodhaḥ) [independent](svatantraḥ) [content](tṛptimān) [be](bhava)
+[all-knowing](sarvajño) [eternally-awakened](nityasaṃbodhaḥ) [independent](svatantraḥ) [content](tṛptimān) [be](bhava)
 
 ## mukta-m0-p75-v1858
-[in-the-self](ātman) [thus](iti) [endowed-with-word](pada+upetaṃ) [ending-with-svāhā](svāhā+antaṃ) [joined-with-dīpa](dīpa+saṃyutam)
+[with-word-ātman](ātmanniti padopetaṃ) [ending-with-svāhā](svāhāntaṃ) [joined-with-lamp](dīpasaṃyutam)
 
 ## mukta-m0-p75-v1859
-[four](catvāraḥ) [beginning-with-brāhmaṇa](brāhmaṇa+ādyāḥ) [and](ca) [also](api) [and-anulomas](anulomāḥ) [and](ca) [who](ye) [are-considered](matāḥ)
+[four](catvāro) [brahmins-etc](brāhmaṇādyāścāpyanulomāśca) [who-considered](ye matāḥ)
 
 ## mukta-m0-p75-v1860
-[son-in-law](jāmātṛ) [father](pitṛ) [wife](patnī) [and-others](ādyāḥ) [fit](yogyāḥ) [may-be](syuḥ) [desiring-liberation](mokṣa+kāṃkṣiṇaḥ)
+[son-in-law-father-wife-etc](jāmātṛpitṛpatnyādyāḥ) [fit](yogyāssyur) [liberation-seekers](mokṣakāṃkṣiṇaḥ)
 
 ## mukta-m0-p75-v1861
-[of-outcastes](antyajānāṃ) [not](na) [priest](hotrī) [should-be](syāt) [but](kiṃ tu) [for-them](teṣāṃ) [indeed](tu) [visual](cākṣuṣī)
+[of-outcastes](antyajānāṃ) [not-priestess](na hotrī syāt) [but](kiṃ tu) [of-them](teṣāṃ) [visual](tu cākṣuṣī)
 
 ## mukta-m0-p75-v1862
-[born-in-āryāvarta](āryāvarta+udbhavaḥ) [illustrious](śrīmān) [marked-by-all-characteristics](sarva+lakṣaṇa+lakṣitaḥ)
+[born-in-āryāvarta](āryāvartodbhavaḥ) [glorious](śrīmān) [marked-by-all-marks](sarvalakṣaṇa lakṣitaḥ)
 
 ## mukta-m0-p75-v1863
-[there-are](santi) [gods](devāḥ) [likewise](tathā) [vedas](vedāḥ) [āryāvarta](āryāvarta) [thus](iti) [remembered](smṛtaḥ)
+[there-are-gods](santi devāḥ) [and-vedas](tathā vedāḥ) [āryāvarta-thus-remembered](āryāvarta itismṛtaḥ)
 
 ## mukta-m0-p75-v1864
-[free-from-the-eight-ka-syllables](kakāra+aṣṭaka+nirmuktaḥ) [incidentally](prasaṃṅgāt) [that](saḥ) [also](api) [is-described](kathyate)
+[freed-from-eight-kas](kakārāṣṭaka nirmuktaḥ) [by-association](prasaṃṅgāt) [he-too](so'pi) [is-said](kathyate)
 
 ## mukta-m0-p75-v1865
-[koṅkaṇa](koṅkaṇaḥ) [karahāṭa](karahāṭaḥ) [and](ca) [kukkuṭa](kukkuṭaḥ) [kāṅka](kāṅkaḥ) [declared](īritaḥ)
+[koṅkaṇa](koṅkaṇaḥ) [karahāṭa](karahāṭaśca) [kukkuṭa](kukkuṭaḥ) [kāṅka](kāṅka) [declared](īritaḥ)
 
 ## mukta-m0-p75-v1866
-[brāhmaṇas-and-others](vipra+ādayaḥ) [four-classes](catur+varṇāḥ) [also](api) [fit](yogyāḥ) [in-own-duty](sva+karmaṇi)
+[brahmins-etc-four-varnas](viprādayaścaturvarṇāḥ) [also](api) [fit](yogyāḥ) [in-own-duty](sva karmaṇi)
 
 ## mukta-m0-p75-v1867
-[in-bathing](snapane) [in-sprinkling](prokṣaṇe) [in-other](anyatra) [in-expiation](prāyaścitte) [in-consecration](abhiṣecane)
+[in-bathing](snapane) [in-sprinkling](prokṣaṇe'nyatra) [in-penance](prāyaścitte'bhiṣecane)
 
 ## mukta-m0-p75-v1868
-[in-worship-of-all-gods](sarva+deva+arcane) [brāhmaṇas](viprāḥ) [indeed](tu) [or](ādi) [śaiva](śaivaḥ) [supreme-teacher](guru+uttamaḥ)
+[in-all-god-worship](sarva devārcane) [brahmins](viprāstvādi) [śaiva](śaivo) [best-guru](gurūttamaḥ)
 
 ## mukta-m0-p75-v1869
-[of-brāhmaṇas-kṣatriyas-and-others](brāhmaṇa+kṣatriya+ādīnāṃ) [kṣatriya](kṣatriyaḥ) [of-śūdra-and-vaiśya](śūdra+vaiśyayoḥ)
+[of-brahmin-kshatriya-etc](brāhmaṇakṣatriyādīnāṃ) [kshatriya](kṣatriyaḥ) [shudra](śūdra) [vaishya](vaiśyayoḥ)
 
 ## mukta-m0-p75-v1870
-[in-own-rites](sva+artha+iṣṭau) [of-movable-liṅga](cala+liṃgasya) [in-installation](pratiṣṭhāyāṃ) [these-three](trayaḥ+ime)
+[in-own-rite](svārtheṣṭau) [movable](cala) [of-linga](liṃgasya) [in-installation](pratiṣṭhāyāṃ) [three-these](trayasvime)
 
 ## mukta-m0-p75-v1871
-[in-seeing-bāṇa-liṅga](bāṇa+liṃga+īkṣaṇe) [or](vā) [also](api) [installer](sthāpakaḥ) [if](yadi) [perpetual-student](naiṣṭhikaḥ)
+[even-in-seeing-bana-linga](bāṇaliṃgekṣaṇevāpi) [installer](sthāpako) [if](yadi) [steadfast](naiṣṭhikaḥ)
 
 ## mukta-m0-p75-v1872
-[likewise](tathaiva) [one-who-marries-before-elder-brother](pāravettāram) [temple-priest](devalaṃ) [and](ca) [twice-married](punarbhavat)
+[likewise](tathaiva) [ferryman](pāravettāraṃ) [devala](devalaṃ) [again](ca punarbhavat)
 
 ## mukta-m0-p75-v1873
-[skull-staff-bearer](khaṭvāṅgi) [black-toothed](śyāma+dantau) [and](ca) [also](api) [mounted](ārūḍhaṃ) [or](tu) [fallen](patitaṃ) [or](vā)
+[khatvanga-possessor](khaṭvāṅgiśyāmadantau) [and-mounted](cāpyārūḍhaṃ) [fallen](patitaṃ) [or](tu vā)
 
 ## mukta-m0-p75-v1874
-[made-by-false-scripture](asat+śastra+kṛtaṃ) [impotent](klībaṃ) [diseased](vyādhitaṃ) [having-bad-nails](ku+nakhaṃ) [likewise](tathā)
+[made-by-bad-weapon](asacchastrakṛtaṃ) [eunuch](klībaṃ) [diseased](vyādhitaṃ) [bad-nail](kunakhaṃ) [and](tathā)
 
 ## mukta-m0-p75-v1875
-[spotted](citrakaṃ) [singer](gāyakaṃ) [and](ca) [also](eva) [dancer](nartakaṃ) [and](ca) [one-should-avoid](vivarjayet)
+[painter](citrakaṃ) [singer](gāyakaṃ) [and-also](caiva) [dancer](nartakaṃ) [and](ca) [avoid](vivarjayet)

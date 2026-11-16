@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p86-v2126
-vāmarathinaḥ(vāmarathinaḥ) vaidehāḥ(vaidehāḥ) vājaḥ(vājaḥ) bhreyāḥ(bhreyāḥ) tataḥ(tataḥ) matāḥ(matāḥ)
+[vāmarathin](vāmarathino) [vaideha](vaidehā) [vāja](vājo) [bhreya+tataḥ](bhreyāstato) [mata](matāḥ)
 
 ## mukta-m0-p86-v2127
-anīlāyayana+saṃjñāḥ(anīlāyayanasaṃjñāḥ) ca(ca) aṅgirāḥ(aṅgirāḥ) ca(ca) tataḥ(tataḥ) matāḥ(matāḥ)
+[anīlāyayana+saṃjña](anīlāyayanasaṃjñāśca) [aṅgira](aṅgirāśca) [tataḥ](tato) [mata](matāḥ)
 
 ## mukta-m0-p86-v2128
-śailelaḥ(śailelaḥ) ca(ca) punaḥ(punaḥ) sāketāyanāḥ(sāketāyanāḥ) prakīrtitāḥ(prakīrtitāḥ)
+[śailela](śailelaśca) [punaḥ](punaḥ) [sāketāyana](sāketāyanāḥ) [prakīrtita](prakīrtitāḥ)
 
 ## mukta-m0-p86-v2129
-tri+ārṣeyāḥ(triyārṣeyāḥ) samākhyātāḥ(samākhyātāḥ) pālikāḥ(pālikāḥ) ca(ca) atriḥ(atriḥ) eva(eva) ca(ca)
+[triyārṣeya](triyārṣeyāḥ) [samākhyāta](samākhyātāḥ) [pālikā](pālikāścātrireva) [ca](ca)
 
 ## mukta-m0-p86-v2130
-tathā(tathā) vāgbhūtakāḥ(vāgbhūtakāḥ) jñeyāḥ(jñeyāḥ) tri+ārṣeyāḥ(triyārṣeyāḥ) tatra(tatra) vā(vā) matāḥ(matāḥ)
+[tathā](tathā) [vāgbhūtaka](vāgbhūtakā) [jñeya](jñeyāstriyārṣeyāstatra) [vā](vā) [mata](matāḥ)
 
 ## mukta-m0-p86-v2131
-tataḥ(tataḥ) gaviṣṭhirāḥ(gaviṣṭhirāḥ) jñeyāḥ(jñeyāḥ) tri+ārṣeyāḥ(triyārṣeyāḥ) tu(tu) ca(ca) ātrayaḥ(ātrayaḥ)
+[tataḥ](tato) [gaviṣṭhira](gaviṣṭhirā) [jñeya](jñeyāstriyārṣeyāstu) [cātraya](cātrayaḥ)
 
 ## mukta-m0-p86-v2132
-mudgalaḥ(mudgalaḥ) vyālasandhiḥ(vyālasandhiḥ) ca(ca) cūrṇavābodhavājakiḥ(cūrṇavābodhavājakiḥ)
+[mudgala](mudgalo) [vyālasandhi](vyālasandhiśca) [cūrṇavābodhavājaki](cūrṇavābodhavājakiḥ)
 
 ## mukta-m0-p86-v2133
-tataḥ(tataḥ) śālimataḥ(śālimataḥ) gaurīmataḥ(gaurīmataḥ) brāhmīmataḥ(brāhmīmataḥ) tataḥ(tataḥ)
+[tataḥ](tataḥ) [śālimata](śālimato) [gaurīmata](gaurīmato) [brāhmīmata](brāhmīmatastataḥ)
 
 ## mukta-m0-p86-v2134
-iti(iti) ete(ete) tri+ārṣeyāḥ(triyārṣeyāḥ) syuḥ(syuḥ) mudgalāḥ(mudgalāḥ) saṃprakīrtitāḥ(saṃprakīrtitāḥ)
+[ityete](ityete) [triyārṣeya](triyārṣeyāḥ) [syuḥ](syurmudgalāḥ) [saṃprakīrtita](saṃprakīrtitāḥ)
 
 ## mukta-m0-p86-v2135
-catur+vidhāḥ(caturvidhāḥ) api(api) ātreyāḥ(ātreyāḥ) na(na) samanvaya+gāminaḥ(samanvayagāminaḥ)
+[caturvidha](caturvidhā) [apyātreya](apyātreyā) [na](na) [samanvayagāmin](samanvayagāminaḥ)
 
 ## mukta-m0-p86-v2136
-vāṭharakiḥ(vāṭharakiḥ) tataḥ(tataḥ) proktaḥ(proktaḥ) gaurīśravasaḥ(gaurīśravasaḥ) iti(iti) api(api)
+[vāṭharaki](vāṭharakistataḥ) [prokta](prokto) [gaurīśravasa](gaurīśravasa) [ityapi](ityapi)
 
 ## mukta-m0-p86-v2137
-śaucivṛkṣāḥ(śaucivṛkṣāḥ) tataḥ(tataḥ) proktāḥ(proktāḥ) tataḥ(tataḥ) syuḥ(syuḥ) vyāghrapādayaḥ(vyāghrapādayaḥ)
+[śaucivṛkṣa](śaucivṛkṣāstataḥ) [prokta](proktāstataḥ) [syuḥ](syuḥ) [vyāghrapāda](vyāghrapādayaḥ)
 
 ## mukta-m0-p86-v2138
-kolāyanāḥ(kolāyanāḥ) ca(ca) kaḥ(ko) bhojiḥ(bhojiḥ) tataḥ(tataḥ) paulāyanāḥ(paulāyanāḥ) matāḥ(matāḥ)
+[kolāyana](kolāyanāśca) [ko+bhoji](kobhojistataḥ) [paulāyana](paulāyanā) [mata](matāḥ)
 
 ## mukta-m0-p86-v2139
-sapta+velām(saptavelāṃ) ime(ime) khyātāḥ(khyātāḥ) vasiṣṭhāḥ(vasiṣṭhāḥ) ca(ca) dvija+uttamāḥ(dvijottamāḥ)
+[saptavelā](saptavelāṃ) [ime](ime) [khyāta](khyātā) [vasiṣṭha](vasiṣṭhāśca) [dvijottama](dvijottamāḥ)
 
 ## mukta-m0-p86-v2140
-pravaryaḥ(pravaryaḥ) ca(ca) samādiṣṭaḥ(samādiṣṭaḥ) kuṇḍināḥ(kuṇḍināḥ) ca(ca) tataḥ(tataḥ) matāḥ(matāḥ)
+[pravarya](pravaryaśca) [samādiṣṭa](samādiṣṭaḥ) [kuṇḍina](kuṇḍināśca) [tataḥ](tato) [mata](matāḥ)
 
 ## mukta-m0-p86-v2141
-āvi+śvāśvattha+vaikarṇi+rājīva+khadirāḥ(āviśvāśvatthavaikarṇirājīvakhadirāḥ) smṛtāḥ(smṛtāḥ)
+[āviśvāśvatthavaikarṇirājīvakhadira](āviśvāśvatthavaikarṇirājīvakhadirāḥ) [smṛta](smṛtāḥ)
 
 ## mukta-m0-p86-v2142
-somaraṅgalinaḥ(somaraṅgalinaḥ) kokāḥ(kokāḥ) tataḥ(tataḥ) kāpaṭavāḥ(kāpaṭavāḥ) matāḥ(matāḥ)
+[somaraṅgali](somaraṅgalinaḥ) [koka](kokāstataḥ) [kāpaṭava](kāpaṭavā) [mata](matāḥ)
 
 ## mukta-m0-p86-v2143
-mādhyāndiniḥ(mādhyāndiniḥ) ca(ca) śāntiḥ(śāntiḥ) ca(ca) saupadārthaḥ(saupadārthaḥ) ca(ca) kauṇḍinaḥ(kauṇḍinaḥ)
+[mādhyāndini](mādhyāndiniśca) [śānti](śāntiśca) [saupadārtha](saupadārthaśca) [kauṇḍina](kauṇḍinaḥ)
 
 ## mukta-m0-p86-v2144
-vasiṣṭha+mitrāvaruṇau(vasiṣṭhamitrāvaruṇau) kuṇḍinaḥ(kuṇḍinaḥ) ca(ca) trayaḥ(trayaḥ) tu(tu) amī(amī)
+[vasiṣṭhamitrāvaruṇa](vasiṣṭhamitrāvaruṇau) [kuṇḍina](kuṇḍinaśca) [traya](trayastvamī)
 
 ## mukta-m0-p86-v2145
-jālāgataḥ(jālāgataḥ) jayaḥ(jayaḥ) lokāḥ(lokāḥ) tataḥ(tataḥ) proktāḥ(proktāḥ) kapiñjalāḥ(kapiñjalāḥ)
+[jālāgata](jālāgato) [jaya](jayo) [loka](lokāstataḥ) [prokta](proktāḥ) [kapiñjala](kapiñjalāḥ)
 
 ## mukta-m0-p86-v2146
-śailālayaḥ(śailālayaḥ) mahākarṇānayā(mahākarṇānayā) bālaśikhāḥ(bālaśikhāḥ) matāḥ(matāḥ)
+[śailālaya](śailālayo) [mahākarṇa](mahākarṇānayā) [bālaśikhā](bālaśikhā) [mata](matāḥ)
 
 ## mukta-m0-p86-v2147
-iti(iti) unmāyana+saṃjñāḥ(unmāyanasaṃjñāḥ) ca(ca) tataḥ(tataḥ) kuṇḍodarāyaṇāḥ(kuṇḍodarāyaṇāḥ)
+[ityunmāyana](ityunmāyana) [saṃjña](saṃjñāśca) [tataḥ](tataḥ) [kuṇḍodarāyaṇa](kuṇḍodarāyaṇāḥ)
 
 ## mukta-m0-p86-v2148
-anṛkṣara+vasaṃjñāḥ(anṛkṣaravasaṃjñāḥ) ca(ca) kāpilāḥ(kāpilāḥ) vayaḥ(vayaḥ) eva(eva) ca(ca)
+[anṛkṣara](anṛkṣara) [vasaṃjña](vasaṃjñāśca) [kāpila](kāpilā) [vaya](vaya) [eva](eva) [ca](ca)
 
 ## mukta-m0-p86-v2149
-vasiṣṭhāḥ(vasiṣṭhāḥ) tri+ārṣeyāḥ(triyārṣeyāḥ) te(te) vasiṣṭhāḥ(vasiṣṭhāḥ) ca(ca) abharadvasuḥ(abharadvasuḥ)
+[vasiṣṭha](vasiṣṭhāstriyārṣeyāste) [vasiṣṭha](vasiṣṭhāścābharadvasuḥ)
 
 ## mukta-m0-p86-v2150
-tataḥ(tataḥ) vā(vā) tritayaḥ(tritayaḥ) proktāḥ(proktāḥ) bharadavasuḥ(bharadavasuriti) iti(iti) smṛtaḥ(smṛtaḥ)
+[tataḥ](tato) [vā](vā) [tritaya](tritayaḥ) [prokta](proktā) [bharadavasu](bharadavasuriti) [smṛta](smṛtaḥ)

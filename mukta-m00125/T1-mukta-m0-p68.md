@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p68-v1676
-[head](śiraḥ) [having-struck](saṃtāḍya) [with-weapon-mantra](cāstreṇa) [śiva-mantra](śivamantraṃ) [thrice](tridhā) [remembering](asmaran)
+[head](śiraḥ) [striking+with-weapon](saṃtāḍya+astra-ena) [śiva-mantra](śivamantraṃ) [thrice](tridhā) [remembering](smaran)
 
 ## mukta-m0-p68-v1677
-[pervasive](vyāpakaṃ) [o-peace](śānti) [from-tattva+etc.](tatvādeḥ) [bond](pāśaṃ) [bind](bandha) [word+pair](padadvayam)
+[pervading](vyāpakaṃ) [peace](śānti) [principle-etc](tatvādeḥ) [bond](pāśaṃ) [binding](bandha) [two-feet](padadvayam)
 
 ## mukta-m0-p68-v1678
-[śiva](śivaṃ) [enclosed](saṃpuṭitaṃ) [own+own+seed](svasvabījaṃ) [and](ca) [lord](bhagavat) [word](padam)
+[śiva](śivaṃ) [enclosed](saṃpuṭitaṃ) [own-seed](svasvabījaṃ) [ca](ca) [lord-foot](bhagavat+padam)
 
 ## mukta-m0-p68-v1679
-[bind](bandha) [bind](bandha) [word](padaṃ) [and](ca) [having-uttered](uktvā) [with-huṃ+phaṭ+end](huṃphaṣanta) [accompanied](samanvitam)
+[binding](bandha) [binding-foot](bandha+padam) [having-said](uktvā) [huṃ-phaṭ-with](huṃphaṣanta+samanvitam)
 
 ## mukta-m0-p68-v1680
-[that+thread](tatsūtraṃ) [and](ca) [having-taken](samādāya) [potsherd+pair](śarāvayuga) [enclosure](saṃpuṭam)
+[that-thread](tatsūtraṃ) [ca](ca) [taking](samādāya) [two-shells-enclosure](śarāvayuga+saṃpuṭam)
 
 ## mukta-m0-p68-v1681
-[having-offered](nivedya) [of-that](tasya) [for-protection](rakṣārthaṃ) [near-śiva+pot](śivakuṃbhāntikaṃ) [should-place](nyaset)
+[offering](nivedya) [his](tasya) [protection-for](rakṣārthaṃ) [near-śiva-pot](śivakuṃbhāntikaṃ) [placing](nyaset)
 
 ## mukta-m0-p68-v1682
-[teacher](ācāryaḥ) [with-disciple+accompanied](śiṣyasahito) [having-gone-out](niḥsṛtya) [from-sacrifice+pavilion](makhamaṇḍapāt)
+[teacher](ācāryaḥ) [with-disciple](śiṣyasahito) [going-out](niḥsṛtya) [from-sacrifice-pavilion](makhamaṇḍapāt)
 
 ## mukta-m0-p68-v1683
-[in-pure](śucau) [with-enclosure](sāvaraṇe) [place](deśe) [secluded](vivikte) [smeared](lepite) [of-ground](bhuvaḥ)
+[pure](śucau) [enclosed](sāvaraṇe) [place](deśe) [secluded](vivikte) [smeared](lepite) [earth](bhuvaḥ)
 
 ## mukta-m0-p68-v1684
-[for-prosperity](bhūtaye) [to-those-facing-east](pūrvavaktrebhyaḥ) [to-those-facing-north](saumyāsyebhyaḥ) [for-liberation](vimuktaye)
+[for-prosperity](bhūtaye) [from-eastern-faces](pūrvavaktrebhyaḥ) [gentle-faced](saumyāsyebhyaḥ) [for-release](vimuktaye)
 
 ## mukta-m0-p68-v1685
-[to-those-seated-between-knees](antarjānūpaviṣṭebhyaḥ) [with-kuśa-grass](sakuśe) [in-right+hand](dakṣiṇekare)
+[between-knees-seated](antarjānūpaviṣṭebhyaḥ) [with-kuśa](sakuśe) [right-hand](dakṣiṇekare)
 
 ## mukta-m0-p68-v1686
-[sip](culukaṃ) [of-five-products-of-cow](pañcagavyasya) [should-give](dadyāt) [one](ekaṃ) [with-heart-mantra](hṛdānvitam)
+[spoonful](culukaṃ) [five-cow-products](pañcagavyasya) [give-one](dadyādekaṃ) [with-heart](hṛdānvitam)
 
 ## mukta-m0-p68-v1687
-[sip](culukaṃ) [and](ca) [another](aparaṃ) [also](cāpi) [having-given](datvā) [should-give](dadyāt) [then](tataḥ) [cooked-rice](carum)
+[spoonful](culukaṃ) [and-another](cāparaṃ) [ca](ca) [giving](datvā) [give-then-porridge](dadyāttataścarum)
 
 ## mukta-m0-p68-v1688
-[to-those-desiring-liberation](mumukṣubhyo) [to-those-desiring-enjoyment](bhubhukṣubhyaḥ) [made](kṛte) [with-pippala+leaves](pippala+patrakaiḥ)
+[for-liberation-seekers](mumukṣubhyo) [for-enjoyment-seekers](bhubhukṣubhyaḥ) [made](kṛte) [peepal-leaves](pippala+patrakaiḥ)
 
 ## mukta-m0-p68-v1689
-[to-the-pure](śucibhyo) [with-tooth+sticks](dantakāṣṭhaiḥ) [and](ca) [from-milky+tree+arisen](kṣīra+vṛkṣasamudbhavam)
+[pure-ones](śucibhyo) [tooth-sticks](dantakāṣṭhaiśca) [milk-tree-born](kṣīra+vṛkṣasamudbhavam)
 
 ## mukta-m0-p68-v1690
-[auspicious+sun+finger-measure](maṅgalārkāṅgulān) [liberation+enjoyment](muktibhukti) [mark+revealing](liṅgaprakāśakam)
+[auspicious-sun-finger](maṅgalārkāṅgulāt) [liberation-enjoyment-linga-manifesting](muktibhukti+liṅgaprakāśakam)
 
 ## mukta-m0-p68-v1691
-[released](āmuktaṃ) [where](yatra) [it-may-fall](nipatet) [by-that](tena) [one-should-know](vidyāt) [good+and-bad](śubhāśubham)
+[adorned](āmuktaṃ) [falls-where](nipatedyatra) [thereby](tena) [know-auspicious-inauspicious](vidyācchubhāśubham)
 
 ## mukta-m0-p68-v1692
-[face+fall](mukhapāto) [of-this](asya) [in-other-directions](śeṣāsu) [auspicious](śobhanaḥ) [of-rites](karmaṇāṃ) [by-power](vaśāt)
+[face-fall](mukhapāto) [his](asya) [remaining](śeṣāsu) [auspicious](śobhanaḥ) [by-actions](karmaṇāṃ) [control](vaśāt)
 
 ## mukta-m0-p68-v1693
-[by-dream+attainment](svapnādhigamanena) [indeed](eva) [with-protection](sarakṣān) [one-should-make-sleep](svāpayet) [at-night](niśi)
+[by-dream-attainment](svapnādhigamanenaiva) [with-protection](sarakṣān) [make-sleep-at-night](svāpayenniśi)
 
 ## mukta-m0-p68-v1694
-[on-east+south+north+head](pūrvayāmyottamāṅgāsu) [beds](śayyāsu) [with-kuśa+ashes](kuśabhasmanā)
+[east-south-head](pūrvayāmyottamāṅgāsu) [beds](śayyāsu) [kuśa-ash](kuśabhasmanā)
 
 ## mukta-m0-p68-v1695
-[for-four-daṇḍas](caturdaṇḍikayā) [with-weapon-mantra](astreṇa) [protected](guptāsu) [and](ca) [in-darkness-free](vitamassu)
+[four-staffed](caturdaṇḍikayā) [with-weapon](astra-ena) [protected](guptāsu) [darkness-free](vitamassu) [ca](ca)
 
 ## mukta-m0-p68-v1696
-[on-heart](hadā) [having-placed](āropya) [with-tuft+tied+tufts](śikhābaddhaśikhān) [with-armor-mantra+consecrated](varmābhimantritaiḥ)
+[placing](hadāropya) [crest-bound](śikhābaddha) [crests](śikhān) [armor-mantra-empowered](varmābhimantritaiḥ)
 
 ## mukta-m0-p68-v1697
-[with-weapon-mantra+consecrated](astrābhimantritaiḥ) [three](tisro) [lines](rekhāḥ) [having-imagined](saṃkalpya) [outside](bāhyataḥ)
+[weapon-mantra-empowered](astrābhimantritaiḥ) [three](tistro) [lines](rekhāḥ) [imagining](saṃkalpya) [outside](bāhyataḥ)
 
 ## mukta-m0-p68-v1698
-[having-given](datvā) [external+offering](bāhyabaliṃ) [in-directions](dikṣu) [to-direction+lords](dikpatibhyo) [in-due-order](yathākramāt)
+[giving](datvā) [outer-offering](bāhyabaliṃ) [in-directions](dikṣu) [to-direction-lords](dikpatibhyo) [in-order](yathākramāt)
 
 ## mukta-m0-p68-v1699
-[terrible+flame](viṣamārciṣam) [having-kindled](ādīpya) [having-offered](hutvā) [and](ca) [one-by-one](ekaikataḥ) [hundred](śatam)
+[unequal-flamed](viṣamārciṣam) [kindling](ādīpya) [offering](hutvā) [ca](ca) [one-by-one](ekaikataḥ) [hundred](śatam)
 
 ## mukta-m0-p68-v1700
-[washed+feet+hands](prakṣālitāṅghrihastuḥ) [then](tu) [having-sipped-water](svācāntaḥ) [bathing](snānam) [with-water](ambhasā)
+[washed-feet-hands](prakṣālitāṅghrihastastu) [self-sipped](svācāntaḥ) [bathing-with-water](snānamambhasā)

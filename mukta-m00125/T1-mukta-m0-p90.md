@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p90-v2226
-[of-kings](rājñāṃ) [of-vaiśyas](viśāṃ) [and](ca) [I-will-tell](vakṣye) [here](iha) [Manu](manuḥ) [Aila](ailaḥ) [Purūravas](pururavāḥ)
+[of-kings](rājñāṃ) [of-peoples](viśāṃ) [and](ca) [I-will-speak](vakṣye) [here](iha) [Manu](manuḥ) [and](ca) [Aila](ailāḥ) [Pururavas](pururavāḥ)
 
 ## mukta-m0-p90-v2227
-[Vātsapramodaka](vātsapramodakaḥ) [among-vaiśyas](vaiśye) [Nārāsātya](nārāsātya) [and-others](ādayaḥ) [also](api) [and](ca)
+[Vatsapramodaka](vātsapramodako) [in-Vaisya](vaiśye) [Narasatyas-and-others](nārāsātyādayo) [also](api) [and](ca)
 
 ## mukta-m0-p90-v2228
-[Vasiṣṭha](vasiṣṭaḥ) [Śunaka](śunakaḥ) [and](ca) [indeed](eva) [Kaṇva](kaṇvaḥ) [Yaska](yaskaḥ) [these](ime) [eight](aṣṭa) [and](ca)
+[Vasistha](vasiṣṭaḥ) [Sunaka](śunakaḥ) [and](ca) [indeed](eva) [Kanva](kaṇvaḥ) [Yaska](yaska) [these](ime) [eight](aṣṭa) [and](ca)
 
 ## mukta-m0-p90-v2229
-[now](atha) [of-kṣatriyas](kṣatriya) [and-vaiśyas](vaiśyānām) [teacher](ācāryaḥ) [most-excellent](pravaraḥ) [also](api) [or](vā)
+[then](atha) [Kshatriya](kṣatriya) [of-Vaisyas](vaiśyānām) [teacher](ācārya) [best](pravaraḥ) [also](api) [or](vā)
 
 ## mukta-m0-p90-v2230
-[same-gotra](samāna+gotra) [and-pravara](pravarāṃ) [girl](kanyāṃ) [not](na) [should-choose](vṛṇuyāt) [always](sadā)
+[same-gotra](samāna-gotra) [Pravara](pravarām) [maiden](kanyām) [not](na) [should-choose](vṛṇuyāt) [always](sadā)
 
 ## mukta-m0-p90-v2231
-[of-her](tasyāḥ) [and](ca) [protection](rakṣaṇaṃ) [should-be-done](kāryam) [by-food](āhāra) [clothing](ācchādana) [and-so-forth](ādibhiḥ)
+[her](tasyāḥ) [and](ca) [protection](rakṣaṇam) [should-be-done](kāryam) [food](āhāra) [clothing](ācchādana) [etc](ādibhiḥ)
 
 ## mukta-m0-p90-v2232
-[with-her](tayā) [together](saha) [through-negligence](pramādena) [union](saṃyogāt) [which](yam) [done](kṛtaṃ) [if](yadi)
+[with-her](tayā) [together](saha) [through-negligence](pramādena) [from-union](saṃyogāt) [which](yam) [done](kṛtam) [if](yadi)
 
 ## mukta-m0-p90-v2233
-[once](sakṛt) [in-approach](āgamane) [one-should-perform](kuryāt) [by-that](tena) [cāndrāyaṇa-penance](cāndrāyaṇena) [and](ca)
+[once](sakṛt) [on-arrival](āgamane) [should-do](kuryāt) [by-that](tena) [and](ca) [Candrayana](āndrāyaṇena) [and](ca)
 
 ## mukta-m0-p90-v2234
-[thus](evaṃ) [by-increase](vṛddhyā) [of-union](yoga+avi) [but](tu) [increase](vṛddhiḥ) [of-oblations](homa) [here](iha) [is-prescribed](ucyate)
+[thus](evam) [of-union](yogā) [by-increase](vivṛddhyā) [indeed](tu) [homa](homa) [increase](vṛddhiḥ) [here](iha) [is-said](ucyate)
 
 ## mukta-m0-p90-v2235
-[from-six-months](ṣaṇ+māsāt) [up-to-a-year](abda+paryantaṃ) [with-the-aforementioned](pūrvoktaiḥ) [everything](sarvam) [one-should-perform](ācaret)
+[from-six-months](ṣaṇmāsāt) [year](abda) [until](paryantam) [by-previously-stated](pūrvoktaiḥ) [all](sarvam) [should-perform](ācaret)
 
 ## mukta-m0-p90-v2236
-[called-nirvāṇa](nirvāṇa+ākhyā) [beyond-that](tad+ūrdhvam) [would-be](syāt) [initiation](dīkṣā) [liberating-from-saṃsāra](saṃsāra+mocanī)
+[Nirvana](nirvāṇa) [named](ākhyā) [that](tat) [beyond](ūrdhvam) [may-be](syāt) [initiation](dīkṣā) [worldly-existence](saṃsāra) [liberating](mocanī)
 
 ## mukta-m0-p90-v2237
-[in-union](saṃyoge) [with-her-son](tat+putra) [and-grandson](pautra) [expiation](prāyaścittam) [that](tat) [indeed](eva) [verily](hi)
+[that](tat) [son](putra) [grandson](pautra) [in-union](saṃyoge) [penance](prāyaścittam) [that](tat) [indeed](eva) [indeed](hi)
 
 ## mukta-m0-p90-v2238
-[and-oblations](homaḥ) [and](ca) [thus](evam) [impurity](alam) [destroy](hanti) [born-of-all-mixture](sarva+saṅkara+jam) [of-men](nṛṇām)
+[homa](homaḥ) [and](ca) [thus](evam) [enough](alam) [destroys](hanti) [all](sarva) [mixed](saṅkara) [born](jam) [of-men](nṛṇām)
 
 ## mukta-m0-p90-v2239
-[devoid](vihīnaḥ) [of-four-meals](catur+bhukti) [who](yaḥ) [fast](upavāsaḥ) [thus](iti) [is-remembered](smṛtaḥ)
+[four](catur) [meal](bhukti) [devoid](vihīnaḥ) [who](yaḥ) [fast](upavāsaḥ) [thus](iti) [remembered](smṛtaḥ)
 
 ## mukta-m0-p90-v2240
-[or](vā) [devoid](hīnaḥ) [of-two-times](dvi+kāla) [emaciated](kṣīṇaḥ) [but](tu) [for-the-weak](ānāṃ) [of-feeble-selves](durbala+ātmanām)
+[two](dvi) [time](kāla) [devoid](hīnaḥ) [or](vā) [diminished](kṣīṇaḥ) [indeed](tu) [of-them](ānām) [weak](durbala) [of-selves](ātmanām)
 
 ## mukta-m0-p90-v2241
-[destroying](mathanam) [untimely-death](akāla+mṛtyu) [increasing](vardhanam) [life](āyuḥ) [and-health](ārogya)
+[untimely](akāla) [death](mṛtyu) [churning](mathanam) [life](āyuḥ) [health](ārogya) [increasing](vardhanam)
 
 ## mukta-m0-p90-v2242
-[of-the-initiated](dīkṣitānām) [formerly](purā) [of-thousand-moons](candra+sahasrasya) [of-those-who-have-beheld](avalokinām)
+[of-initiated](dīkṣitānām) [formerly](purā) [of-thousand-moons](candrasahasrasya) [of-observers](avalokinām)
 
 ## mukta-m0-p90-v2243
-[on-an-auspicious-ascendant](su+lagne) [and](ca) [on-an-auspicious-weekday](su+vāre) [and](ca) [on-an-auspicious-lunar-day](su+tithau) [on-an-auspicious](śobhane) [day](dine)
+[auspicious-lagna](sulagne) [and](ca) [good-day](suvāre) [and](ca) [good-tithi](sutithau) [auspicious](śobhane) [day](dine)
 
 ## mukta-m0-p90-v2244
-[endowed](saṃyukte) [with-auspicious-sprouts](maṅgala+aṅkura) [in-a-pavilion](maṇḍape) [well-decorated](sam+alaṃkṛte)
+[auspicious-sprout](maṅgalāṅkura) [joined](saṃyukte) [pavilion](maṇḍape) [well-decorated](samalaṃkṛte)
 
 ## mukta-m0-p90-v2245
-[endowed](samanvite) [with-measures](sīmā) [of-five](pañca) [up-to-fifty-five](ādi+pañca+pañcāśat) [hands](kara)
+[five](pañca) [beginning](ādi) [five](pañca) [fifty](pañcāśat) [hand](kara) [boundary](sīmā) [endowed](samanvite)
 
 ## mukta-m0-p90-v2246
-[surrounded](parimaṇḍite) [by-divisions](bhaktibhiḥ) [from-one](eka+ādi) [up-to-five-times-five](pañca+pañca+anta)
+[one](eka) [beginning](ādi) [five](pañca) [ending-in-five](pañcānta) [with-devotions](bhaktibhiḥ) [adorned](parimaṇḍite)
 
 ## mukta-m0-p90-v2247
-[born](samudbhūtam) [in-direct-order](anuloma) [especially](viśeṣāt) [a-king](bhū+patim) [O-twice-born](dvijāḥ)
+[anuloma](anulomasamudbhūtaṃ) [born](samudbhūtaṃ) [especially](viśeṣāt) [king](bhūpatim) [Brahmins](dvijāḥ)
 
 ## mukta-m0-p90-v2248
-[or](vā) [a-woman](striyam) [born](samudbhūtām) [of-the-respective-caste](tat+tat+jāti) [O-Śiva-brāhmaṇas](śiva+viprakāḥ)
+[that-that](tattat) [caste](jāti) [born](samudbhūtaḥ) [woman](striyam) [or](vā) [Shiva](śiva) [Brahmins](viprakāḥ)
 
 ## mukta-m0-p90-v2249
-[before](pūrvam) [the-day](dināt) [of-consecration](abhiṣeka) [at-night](rātrau) [tying](bandhanam) [of-the-protective-thread](kautuka)
+[consecration](abhiṣeka) [from-day](dināt) [before](pūrvam) [at-night](rātrau) [kautuka](kautuka) [binding](bandhanam)
 
 ## mukta-m0-p90-v2250
-[and](ca) [of-his-wife](tat+patnyāḥ) [for-the-chief-one](pradhānāya) [on-the-left](vāma) [hand](haste) [but](tu) [one-should-tie](bandhayet)
+[that](tat) [wife's](patnyāḥ) [and](ca) [for-chief](pradhānāya) [left](vāma) [hand](haste) [indeed](tu) [should-bind](bandhayet)

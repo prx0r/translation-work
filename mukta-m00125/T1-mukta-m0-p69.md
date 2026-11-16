@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p69-v1701
-[having-made-body](śivīkṛta+tanur) [having-meditated](dhyātvā) [consisting-of-all-paths](samasta+adhva+tanuṃ) [Śiva](śivam)
+[having-meditated-on-śiva-made-body](śivīkṛtatanurdhyātvā) [all-path-body](samastādhvatanuṃ) [śiva](śivam)
 
 ## mukta-m0-p69-v1702
-[as-before](pūrvavat) [restrained](prayato) [having-become](bhūtvā) [pure](śuddhaḥ) [himself](svayam) [also](api) [should-sleep](svapet)
+[purified-as-before](pūrvavatprayato) [becoming](bhūtvā) [pure](śuddhaḥ) [oneself](svayam) [also](api) [would-sleep](svapet)
 
 ## mukta-m0-p69-v1703
-[disciples](śiṣyān) [having-asked](pṛṣṭvā) [night-dreams](niśās+svapnān) [in-bad-dream](duḥsvapne) [pacification](śāntim) [should-perform](ācaret)
+[disciples](śiṣyān) [having-asked](pṛṣṭvā) [night-dreams](niśāssvapnān) [in-bad-dream](duḥsvapne) [pacification](śāntim) [should-perform](ācaret)
 
 ## mukta-m0-p69-v1704
-[in-auspicious-dream](śubhe) [as-before](pūrvavat) [disciple-entry-etc.](śiṣya+praveśa+ādikam) [should-perform](ācaret)
+[auspicious](śubhe) [as-before](pūrvavat) [disciple-entry-etc](śiṣyapraveśādikam) [should-perform](ācaret)
 
 ## mukta-m0-p69-v1705
-[having-taken-hold-of](avalmbya) [and](ca) [that-thread](tat+sūtraṃ) [placed-in-disciple's-body](śiṣya+dehe+adhivāsitam)
+[relying-on](avalmbya) [that-thread](ca tatsūtraṃ) [in-disciple-body](śiṣyadehe) [dwelt-in](adhivāsitam)
 
 ## mukta-m0-p69-v1706
-[having-obtained-permission](labdha+anujño) [should-deposit](nyaset) [in-fire](agnau) [power](śaktim) [of-the-nature-of-support](ādhāra+rūpiṇīm)
+[having-obtained-permission](labdhānujño) [should-place](nyased) [in-fire](agnau) [power](śaktim) [support-formed](ādhāra rūpiṇīm)
 
 ## mukta-m0-p69-v1707
-[earth](pṛthivī) [element](tatvaṃ) [syllable-kṣa](kṣakāraḥ) [and](ca) [two-mantras](mantrau) [heart-and-sadya](hṛdaya+sadyakau)
+[earth-tattva](pṛthivī tatvaṃ) [kṣa-syllable](kṣakāraśca) [mantras](mantrau) [heart-immediate](hṛdayasadyakau)
 
 ## mukta-m0-p69-v1708
-[Raudra](raudraṃ) [and](ca) [worlds](bhuvanāni) [within-the-egg-of-Brahmā](antar+brahmāṇḍasya) [situated](sthitāni) [six](ṣaṭ)
+[fierce](raudraṃ) [and](ca) [worlds](bhuvanānyantar) [of-brahmāṇḍa](brahmāṇḍasya) [situated](sthitāni) [six](ṣaṭ)
 
 ## mukta-m0-p69-v1709
-[Vibhūti](vibhūtiḥ) [Avyaya](avyayaḥ) [Śāstā](śāstā) [Pinākī](pinākī) [lord-of-the-gods](tridaśa+adhipaḥ)
+[glory](vibhūtiḥ) [imperishable](avyayaḥ) [teacher](śāstā) [pinākī](pinākī) [lord-of-gods](tridaśādhipaḥ)
 
 ## mukta-m0-p69-v1710
-[Jvalana](jvalano) [Dahana](dahano) [Babhru](babhruḥ) [Bhasmāntaka](bhasmāntakaḥ) [Kṣayāntaka](kṣayāntakaḥ)
+[flame](jvalano) [burner](dahano) [brown](babhruḥ) [ash-ended](bhasmāntakaḥ) [decay-ended](kṣayāntakaḥ)
 
 ## mukta-m0-p69-v1711
-[Saṃyoktā](saṃyoktā) [and](ca) [Viyoktā](viyoktā) [and](ca) [Dharma](dharmo) [lord-of-Dharma](dharma+patiḥ) [likewise](tathā)
+[joiner](saṃyoktā) [and](ca) [separator](viyoktā) [and](ca) [dharma](dharmo) [dharma-lord](dharmapatistathā)
 
 ## mukta-m0-p69-v1712
-[Ūrdhvakeśa](ūrdhvakeśo) [Virūpākṣa](virūpākṣo) [Dhūmra](dhūmra) [Lohitadaṃṣṭrin](lohita+daṃṣṭriṇaḥ)
+[upward-haired](ūrdhvakeśo) [odd-eyed](virūpākṣo) [smoke-red-fanged](dhūmralohitadaṃṣṭriṇaḥ)
 
 ## mukta-m0-p69-v1713
-[Śveta](śvetaḥ) [then](atha) [Jayabhadra](jayabhadraḥ) [and](ca) [Dīrghabāhu](dīrghabāhuḥ) [Jalāntaka](jala+antakaḥ)
+[white](śveto) [then](atha) [jayabhadra](jayabhadraśca) [long-armed](dīrghabāhur) [water-ended](jalāntakaḥ)
 
 ## mukta-m0-p69-v1714
-[Śīghra](śīghro) [Laghu](laghuḥ) [Vāyuvega](vāyu+vegaḥ) [Tīkṣṇa](tīkṣṇaḥ) [Sūkṣma](sūkṣma) [Kṣayāntaka](kṣyāntakaḥ)
+[swift](śīghro) [light](laghur) [wind-speed](vāyuvegas) [sharp](tīkṣṇaḥ) [subtle](sūkṣma) [decay-ended](kṣyāntakaḥ)
 
 ## mukta-m0-p69-v1715
-[Nidhīśa](nidhīśo) [Rūpavān](rūpavān) [Dhanya](dhanyaḥ) [Saumyadeha](saumya+deho) [Jaṭādhara](jaṭādharaḥ)
+[treasure-lord](nidhīśo) [formed](rūpavān) [fortunate](dhanyaḥ) [gentle-bodied](saumyadeho) [matted-haired](jaṭādharaḥ)
 
 ## mukta-m0-p69-v1716
-[two-lords-of-knowledge](vidyādhipeśau) [Sarvajña](sarvajño) [Jñānabhuk](jñāna+bhuk) [Vedapāraga](veda+pāragaḥ)
+[knowledge-lords](vidyādhipeśau) [all-knowing](sarvajño) [knowledge-eater](jñānabhug) [veda-crosser](vedapāragaḥ)
 
 ## mukta-m0-p69-v1717
-[Vṛṣa](vṛṣo) [Vṛṣadhara](vṛṣa+dharaḥ) [Ananta](anantaḥ) [Krodhana](krodhano) [Mārutāśana](māruta+aśanaḥ)
+[bull](vṛṣo) [bull-bearer](vṛṣadharo) [endless](anantaḥ) [wrathful](krodhano) [wind-eater](mārutāśanaḥ)
 
 ## mukta-m0-p69-v1718
-[Śaṃbhu](śaṃbhuḥ) [Vibhu](vibhuḥ) [Gaṇādhyakṣa](gaṇa+adhyakṣaḥ) [Tryakṣa](tri+akṣaḥ) [lord-of-the-gods](tridaśa+īśvaraḥ)
+[śambhu](śaṃbhur) [all-pervading](vibhur) [troop-lord](gaṇādhyakṣas) [tri-eyed](triyakṣas) [god-lord](tridaśeśvaraḥ)
 
 ## mukta-m0-p69-v1719
-[Vīrabhadra](vīrabhadro) [Bhadrakālī](bhadrakālī) [above-all](sarva+ūrdhve) [pair-of-worlds](bhuvana+dvayam)
+[vīrabhadra](vīrabhadro) [bhadrakālī](bhadrakālī) [all-upward](sarvordhve) [two-worlds](bhuvanadvayam)
 
 ## mukta-m0-p69-v1720
-[beginning-with-Yāmyā](yāmyā+ādyā) [in-southern](dakṣiṇe) [quarter](bhāge) [beginning-with-Nirṛti](niṛtyā+ādyāḥ) [and](ca) [in-southwest](naiṛte)
+[southern-starting](yāmyādyā) [right-side](dakṣiṇe) [portion](bhāge) [nirṛti-starting](niṛtyādyāśca) [southwest](naiṛte)
 
 ## mukta-m0-p69-v1721
-[in-north](uttare) [but](tu) [beginning-with-Nidhīśa](nidhīśa+ādyā) [in-northeast](īśe) [beginning-with-lords-of-knowledge](vidyādhipa+ādayaḥ)
+[northern](uttare) [then](tu) [treasure-lord-starting](nidhīśādyā) [northeast](īśe) [knowledge-lord-starting](vidyādhipādayaḥ)
 
 ## mukta-m0-p69-v1722
-[of-worlds](bhuvanānāṃ) [hundred](śataṃ) [and](ca) [eight-more](aṣṭa+adhikam) [thus](evaṃ) [indeed](tu) [should-deposit](vinyaset)
+[of-worlds](bhuvanānāṃ) [hundred](śataṃ) [and](ca) [eight-more](aṣṭādhikam) [thus](evaṃ) [should-place](tu vinyaset)
 
 ## mukta-m0-p69-v1723
-[pair-of-namas](namaḥ+dvayaṃ) [praṇava](praṇavaṃ) [six-syllabled](ṣaḍ+akṣaram) [thereafter](ataḥ) [then](param)
+[two-namas](namodvayaṃ) [praṇava](praṇavaṃ) [six-syllabled](ṣaḍakṣaram) [then](ataḥ) [beyond](param)
 
 ## mukta-m0-p69-v1724
-[pair-of-śabda](śabda+dvayaṃ) [likewise](tathā) [pair-of-jñāna](jñāna+dvayaṃ) [pair-of-piṅga](piṅga+dvayaṃ) [likewise](tathā)
+[two-sounds](śabdadvayaṃ) [then](tathā) [two-knowledges](jñānadvayaṃ) [two-tawny](piṅgadvayaṃ) [then](tathā)
 
 ## mukta-m0-p69-v1725
-[pair-of-sākṣi-word](sākṣi+yugma+padaṃ) [afterwards](paścāt) [previously-situated](pūrva+sthitam) [thereafter](ataḥ) [then](param)
+[witness-pair-word](sākṣiyugmapadaṃ) [afterwards](paścāt) [eastern-placed](pūrvasthitam) [then](ataḥ) [beyond](param)

@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p55-v1351
-[done](kṛtaṃ) [pained](kliṣṭaṃ) [abandoned](samutsṛṣṭaṃ) [taken](hṛtaṃ) [hidden](guptaṃ) [and](ca) [done-by-me](mat+kṛtam)
+[done](kṛtaṃ) [afflicted](kliṣṭaṃ) [abandoned](samutsṛṣṭaṃ) [stolen](hṛtaṃ) [hidden](guptaṃ) [and](ca) [by-me-done](matkṛtam)
 
 ## mukta-m0-p55-v1352
-[with-whole-self](sarva+ātmanā) [by-this](amunā) [O-Śambhu](śambho) [by-purifier](pavitreṇa) [by-your-will](tvat+icchayā)
+[by-all-soul](sarvātmanāmunā) [O-Śambhu](śambho) [by-purifier](pavitreṇa) [by-your-will](tvadicchayā)
 
 ## mukta-m0-p55-v1353
-[niyameśvarāya-iti](niyameśvarāya+iti) [word](padaṃ) [svāhā-iti-ending](svāhā+iti+antaṃ) [uttering](samuccaran)
+[to-niyameśvara](niyameśvarāya) [thus](iti) [word](padaṃ) [svāhā](svāhā) [ending](ityantaṃ) [reciting-together](samuccaran)
 
 ## mukta-m0-p55-v1354
-[tattva-vidyā-śiva-named](tatva+vidyā+śiva+ākhyaṃ) [and](ca) [liberation-desire-word](mukti+kāma+padaṃ) [should-recite](paṭhet)
+[that-knowledge-śiva-named](tatvavidyāśivākhyaṃ) [and](ca) [muktikāma-word](muktikāmapadaṃ) [let-read](paṭhet)
 
 ## mukta-m0-p55-v1355
-[śiva-aṇu-etc.](śiva+aṇum+ādau) [having-uttered](uccārya) [śiva-vidyā-ātmaka](śiva+vidyā+ātmakaṃ) [again](punaḥ)
+[from-śiva-aṇu-beginning](śivāṇumādāvuccārya) [śiva-knowledge-natured](śivavidyātmakaṃ) [again](punaḥ)
 
 ## mukta-m0-p55-v1356
-[flower-offering-hollow](puṣpa+añjali+puṭo) [having-become](bhūtvā) [with-devotion](bhaktyā) [should-inform-lord](vijñāpayet+prabhum)
+[flower-palm-cup](puṣpāñjalipuṭo) [having-become](bhūtvā) [with-devotion](bhaktyā) [let-inform-lord](vijñāpayetprabhum)
 
 ## mukta-m0-p55-v1357
-[inner-mover](antaḥ+cāreṇa) [of-beings](bhūtānāṃ) [seer-you](draṣṭā+tvaṃ) [O-supreme-lord](parameśvara)
+[by-inner-movement](antaścāreṇa) [of-beings](bhūtānāṃ) [seer-ness](draṣṭātvaṃ) [supreme-lord](parameśvara)
 
 ## mukta-m0-p55-v1358
-[mantra-deficient](mantra+hīnaṃ) [action-deficient](kriyā+hīnaṃ) [material-deficient](dravya+hīnaṃ) [and](ca) [what-done](yat+kṛtam)
+[mantra-lacking](mantrahīnaṃ) [action-lacking](kriyāhīnaṃ) [substance](dravya) [lacking](hīnaṃ) [and](ca) [whatever-done](yatkṛtam)
 
 ## mukta-m0-p55-v1359
-[undone](akṛtaṃ) [or](vā) [speech-deficient](ākya+hīnaṃ) [and](ca) [that-complete](tat+pūraya) [O-great-lord](maheśvara)
+[not-done](akṛtaṃ) [speech-lacking](vākyahīnaṃ) [and](ca) [that-fill](tatpūraya) [great-lord](maheśvara)
 
 ## mukta-m0-p55-v1360
-[by-you](tvayā) [purified](pavitritaṃ) [all](sarvaṃ) [world-stationary-immobile-mobile](jagat+sthāvara+jaḍagamam)
+[by-you](tvayā) [purified](pavitritaṃ) [all](sarvaṃ) [world-immovable-inert-moving](jagatsthāvarajaḍagamam)
 
 ## mukta-m0-p55-v1361
-[one](ekī) [let-become](bhavatu) [that-all](tat+sarvaṃ) [by-your-command-thread-strung](tava+ājñā+sūtra+guṃbhitam)
+[one](ekī) [let-be](bhavatu) [that-all](tatsarvaṃ) [your-command-thread-strung](tavājñāsūtraguṃbhitam)
 
 ## mukta-m0-p55-v1362
-[should-take](gṛhṇīyāt) [bowed](praṇato) [with-devotion](bhaktyā) [four-three-two-one-month](catur+tri+dvi+eka+māsakam)
+[let-take](gṛhṇīyāt) [prostrate](praṇato) [with-devotion](bhaktyā) [four-three-two-one-month](catustridvyekamāsakam)
 
 ## mukta-m0-p55-v1363
-[or](athavā) [one-day](eka+ahaṃ) [begun-action-end](ārabdha+karma+antaṃ) [vow](niyamaṃ) [should-lead](nayet)
+[or-one-day](athavaikāha) [begun](mārabdha) [to-end-of-rite](karmāntaṃ) [vow](niyamaṃ) [let-lead](nayet)
 
 ## mukta-m0-p55-v1364
-[vow](vrataṃ) [having-taken](gṛhītvā) [to-be-done](kartavyaṃ) [until-thread-descent](yāvat+sūtra+avarohaṇam)
+[vow](vrataṃ) [having-taken](gṛhītvā) [to-be-done](kartavyaṃ) [until](yāvat) [thread](sūtrā) [descent](varohaṇam)
 
 ## mukta-m0-p55-v1365
-[to-Śiva](śive) [purifier](pavitraṃ) [fourth](turyaṃ) [then](tu) [having-given](datvā) [with-vyāhṛtis-guru](vyāhṛtibhiḥ+guruḥ)
+[to-Śiva](śive) [purifier](pavitraṃ) [fourth](turyaṃ) [indeed](tu) [having-given](datvā) [with-vyāhṛtis](vyāhṛtibhir) [guru](guruḥ)
 
 ## mukta-m0-p55-v1366
-[deity](devaṃ) [having-worshipped](sampūjya) [to-guru](gurave) [in-siddhānta](saiddhānte) [in-book-also](pustake+api) [and](ca)
+[god](devaṃ) [having-worshipped](sampūjya) [to-guru](gurave) [in-siddhānta](saiddhānte) [in-book](pustake) [also](api) [and](ca)
 
 ## mukta-m0-p55-v1367
-[expiation](prāyaścitaṃ) [then](tato) [having-given](datvā) [full-offering](pūrṇāṃ) [indeed](vai) [gap-filling](chidra+pūraṇīm)
+[expiation](prāyaścitaṃ) [then](tato) [having-given](datvā) [full](pūrṇāṃ) [indeed](vai) [hole](chidra) [filler](pūraṇīm)
 
 ## mukta-m0-p55-v1368
-[at-its-end](tat+ante) [with-food-clothing](bhojana+ācchāda) [with-gifts-implements-etc.](mātṛ+upakaraṇa+ādibhiḥ)
+[after-that](tadante) [food-clothing](bhojanācchāda) [measure-instruments-etc](mātropakaraṇādibhiḥ)
 
 ## mukta-m0-p55-v1369
-[from-liṅga](liṅgāt) [purifier-removal](pavitram+udvārasya) [nirmālya-removal](nirmālya+apanaye) [being-done](kṛte)
+[from-liṅga](liṅgāt) [purifier](pavitraṃ) [of-gate](udvārasya) [removal-of-withered](nirmālyāpanaye) [done](kṛte)
 
 ## mukta-m0-p55-v1370
-[at-vow-end](brata+ante) [as-before](prāk+vat) [having-worshipped](abhyarcya) [and-as-past-days](ca+atīta+dina+vat) [Śiva](śivam)
+[at-vow-end](bratānte) [as-before](prāgvad) [worshipping](ābhyarcya) [and](ca) [past-days-like](atītadinavat) [Śiva](śivam)
 
 ## mukta-m0-p55-v1371
-[enjoyment-desiring](bhukti+kāmo) [vow-holder](vratī) [desire-action-bondage](kāma+karma+bandhaka) [thus-also](iti+api)
+[desiring-enjoyment](bhuktikāmo) [vow-keeper](vratī) [one-desire-action-bound](kāmekarmabandhaka) [thus](iti) [also](api)
 
 ## mukta-m0-p55-v1372
-[sacred-ash](bhasitaṃ) [having-saluted](vandayitvā) [then](atha) [fire-situated](vahni+sthaṃ) [should-unite-in-Śiva](yojayet+śive)
+[ash](bhasitaṃ) [having-saluted](vandayitvā) [then](atha) [fire-placed](vahnisthaṃ) [let-unite](yojayet) [in-Śiva](śive)
 
 ## mukta-m0-p55-v1373
-[in-heart](hṛdaye) [having-placed-fire](saṃniveśya+agniṃ) [having-dismissed](visṛtya) [having-removed-from-seat](udvārasya+viṣṭarāt)
+[in-heart](hṛdaye) [having-placed-fire](saṃniveśyāgniṃ) [having-departed](visṛtya) [from-gate](udvārasya) [from-seat](viṣṭarāt)
 
 ## mukta-m0-p55-v1374
-[of-śiva-pot-astra-vardhanī](śiva+kuṃbha+astra+vardhanyoḥ) [mantras](manūn) [having-withdrawn](saṃhṛtya) [should-unite](yojayet)
+[of-Śiva-pot-weapon-increaser](śivakuṃbhāstravardhanyoḥ) [mantras](manūn) [having-gathered](saṃhṛtya) [let-unite](yojayet)
 
 ## mukta-m0-p55-v1375
-[guardians-of-directions](dik+pālān) [with-astra-joined](astra+saṃyuktān) [door-guardians](dvāra+pān) [door-situated](dvāra+saṃsthitān)
+[direction-guardians](dikpālān) [weapon](astra) [joined](saṃyuktān) [gate-keepers](dvārapān) [gate-situated](dvārasaṃsthitān)

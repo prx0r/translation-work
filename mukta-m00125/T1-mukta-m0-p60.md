@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p60-v1476
-[having-removed](apanīya) [eye+sight+covering](dṛg+āloka+ācchādanaṃ) [cloth](vasanam) [gradually](kramāt)
+[having-removed](apanīya) [eye-light-covering](dṛgālokācchādanaṃ) [garment](vasanam) [gradually](kramāt)
 
 ## mukta-m0-p60-v1477
-[go](yāt) [that](tam) [limb](aṅgam) [release](uñca) [thus](iti) [flower](prasūnaṃ) [facing-Śiva](śiva+saṃmukham)
+[having-gone-limb-lift-thus](yāttamaṅgamuñceti) [flower](prasūnaṃ) [facing-Shiva](śivasaṃmukham)
 
 ## mukta-m0-p60-v1478
-[its+fall+indicated](tat+pāta+sūcite) [in-place](sthāne) [previously](pūrvaṃ) [Śiva+word+followed-by](śiva+pada+uttaram)
+[indicated-by-that-fall](tatpātasūcite) [place](sthāne) [first](pūrvaṃ) [after-Shiva-foot](śivapadottaram)
 
 ## mukta-m0-p60-v1479
-[kṣatriya+vaiśya+śūdra+classes](kṣatra+viṭ+śūdra+jātīnāṃ) [of-women](strīṇāṃ) [ending-in-śakti](śakti+anta) [named](saṃjñakam)
+[of-kshatriya-vaishya-shudra-castes](kṣatraviṭchūdrajātīnāṃ) [of-women](strīṇāṃ) [ending-in-shakti](śaktyanta) [named](saṃjñakam)
 
 ## mukta-m0-p60-v1480
-[with-circumambulation](sa+pradakṣiṇam) [eight-limbed](aṣṭāṅgaṃ) [prostration](praṇāmaṃ) [and](ca) [having-instructed](upadiśya) [and](ca)
+[with-circumambulation](sapradakṣiṇam) [eight-limbed](aṣṭāṅgaṃ) [prostration](praṇāmaṃ) [and-instructing](copadiśyaca)
 
 ## mukta-m0-p60-v1481
-[having-seated](saṃsthāpya) [disciple](śiṣyaṃ) [in-his-hand](tat+haste) [having-given](datvā) [of-darbha-grass](darbhasya) [root](mūlakam)
+[having-established](saṃsthāpya) [disciple](śiṣyaṃ) [in-his-hand](taddhaste) [having-given](datvā) [of-darbha](darbhasya) [root](mūlakam)
 
 ## mukta-m0-p60-v1482
-[piṅgalā+middle+body+situated](piṅgalā+madhya+deha+sthāṃ) [having-gone-out](viniḥsṛtya) [of-disciple](śiśoḥ) [from-own](svataḥ)
+[in-middle-of-pingala](piṅgalāmadhya) [situated-in-body](dehasthāṃ) [having-exited](viniḥsṛtya) [of-child](śiśoḥ) [by-itself](svataḥ)
 
 ## mukta-m0-p60-v1483
-[having-given](datvā) [oblation+triad](āhuti+trayaṃ) [for-channel+joining+purpose](nāḍī+sandhāna+arthatayā) [teacher](guruḥ)
+[having-given-three-oblations](datvāhutitrayaṃ) [for-joining-nadis](nāḍīsandhānārthatayā) [guru](guruḥ)
 
 ## mukta-m0-p60-v1484
-[hundred](śatam) [eight-more](aṣṭa+uttaraṃ) [having-offered](hutvā) [Śiva](śivam) [limbs](aṅgāni) [indeed](vai) [ten](daśa)
+[one-hundred-eight](śatamaṣṭottaraṃ) [having-offered](hutvā) [Shiva-limbs](śivamaṅgāni) [indeed](vai) [ten](daśa)
 
 ## mukta-m0-p60-v1485
-[hundred](śatam) [eight-more](aṣṭa+uttaraṃ) [having-offered](hutvā) [by-that-very](tena+eva) [with-Śiva-mantra](śiva+mantrataḥ)
+[one-hundred-eight](śatamaṣṭottaraṃ) [having-offered](hutvā) [by-that](tenaiva) [from-Shiva-mantra](śivamantrataḥ)
 
 ## mukta-m0-p60-v1486
-[śūdra+etc.+class](śūdra+ādi+jātim) [having-uplifted](uddhṛtya) [ending-with-svāhā](svāhā+antena) [by-that-very](eva) [with-root-mantra](mūlataḥ)
+[having-extracted-shudra-etc-caste](śūdrādijātimuddhṛtya) [with-svaha-ending](svāhāntenaiva) [from-root](mūlataḥ)
 
 ## mukta-m0-p60-v1487
-[from-food+nature+faults](āhāra+bhāva+doṣābhyāṃ) [from-womb+seed+body](yoni+bīja+śarīrataḥ)
+[by-food-state-defects](āhārabhāvadoṣābhyāṃ) [womb](yoni) [from-seed-body](bījaśarīrataḥ)
 
 ## mukta-m0-p60-v1488
-[from-Rudra+portion+falling](rudra+aṃśa+āpātane) [also](api) [thus](evam) [oblation+triad](āhuti+trayam) [one-should-perform](ācaret)
+[in-installing-Rudra-part](rudrāṃśāpādane) [also-thus](pyevam) [three-oblations](āhutrayam) [should-perform](ācaret)
 
 ## mukta-m0-p60-v1489
-[thus](iti) [in-this-way](evam) [prayer](prārthanāṃ) [having-made](kṛtvā) [one-should-do](kuryāt) [sprinkling+striking](prokṣaṇa+tāḍane)
+[thus](ityevaṃ) [prayer](prārthanāṃ) [having-done](kṛtvā) [should-do-sprinkling-striking](kuryātprokṣaṇatāḍane)
 
 ## mukta-m0-p60-v1490
-[having-performed](vidhāya) [with-astra-mantra](astreṇa) [separation](viśleṣa) [cutting](chedanaṃ) [and](ca) [by-hook-named](aṅkuśa+ākhyayā)
+[by-astra](vidhāyāstreṇa) [cutting-separation](viśleṣacchedanaṃ) [and-by-ankusha-named](cāṅkuśākhyayā)
 
 ## mukta-m0-p60-v1491
-[having-drawn](samānīya) [with-dhruva-mantra](dhruveṇa) [indeed](eva) [having-worshipped](saṃpūjya) [disciple+head](śiśu+mastakāt)
+[having-brought](samānīya) [by-dhruva](dhruveṇaiva) [having-worshipped](saṃpūjya) [from-child's-head](śiśumastakāt)
 
 ## mukta-m0-p60-v1492
-[having-entered](praviśya) [with-pitcher](kumbhakena) [indeed](eva) [having-remembered](smṛtvā) [of-same-essence](sama+rasaṃ) [of-disciple](śiśoḥ)
+[having-entered](praviśya) [by-kumbhaka](kumbhakenaiva) [having-remembered](smṛtvā) [equal-essence](samarasaṃ) [of-child](śiśoḥ)
 
 ## mukta-m0-p60-v1493
-[having-led](nītvā) [self](ātmānaṃ) [having-returned](samāvartya) [at-twelve-end](dvādaśa+ante) [then](tataḥ) [Śiva](śivam)
+[having-led-self](nītvātmānaṃ) [having-turned](samāvartya) [at-twelfth-end](dvādaśānte) [then-Shiva](tataśśivam)
 
 ## mukta-m0-p60-v1494
-[one-should-give](dadyāt) [sacred-thread](yajña+upavītaṃ) [indeed](tu) [consecrated-by-root-mantra](mūla+mantra+abhimantritam)
+[should-give](dadyāt) [sacred-thread](yajñopavītaṃ) [indeed](tu) [consecrated-by-root-mantra](mūlamantrābhimantritam)
 
 ## mukta-m0-p60-v1495
-[thus](evam) [endowed-with-vow-consecration](samaya+saṃskāra+yuktaḥ) [who](yaḥ) [in-Śiva-worship](śiva+pūjane)
+[thus](evaṃ) [endowed-with-vow-purification](samayasaṃskārayukto) [who-in-Shiva-worship](yaśśivapūjane)
 
 ## mukta-m0-p60-v1496
-[fit](yogyaḥ) [may-be](syāt) [O-sages](munayaḥ) [Raudra](raudraṃ) [state](padaṃ) [obtains](prāpnoti) [human](mānavaḥ)
+[becomes-fit](yogyassyāt) [sages](munayo) [Rudra](raudraṃ) [state](padaṃ) [attains](prāpnoti) [man](mānavaḥ)
 
 ## mukta-m0-p60-v1497
-[śūdra](śūdraṃ) [indeed](hi) [having-initiated](dīkṣayitvā) [indeed](tu) [by-rite](vidhāna) [of-twice-born](agra+janmanaḥ)
+[shudra](śūdraṃ) [indeed](hi) [having-initiated](dīkṣayitvā) [but](tu) [by-rite-of-twice-born](vidhānevāgrajanmanaḥ)
 
 ## mukta-m0-p60-v1498
-[he](saḥ) [also](api) [śūdra-hood](śudratvam) [obtains](āpnoti) [from-giving-initiation](dīkṣā+dānāt) [no](na) [doubt](saṃśayaḥ)
+[he-too](so'pi) [attains-shudra-status](śudratvamāpnoti) [from-giving-initiation](dīkṣādānāt) [not](na) [doubt](saṃśayaḥ)
 
 ## mukta-m0-p60-v1499
-[vessel](sthālīṃ) [made-of-copper](tāmra+mayīṃ) [or](vā) [also](atha) [made-of-clay](mṛṇ+mayīṃ) [endowed-with-marks](lakṣaṇa+anvitām)
+[pot](sthālīṃ) [copper](tāmramayīṃ) [or](vātha) [earthen](mṛṇmayīṃ) [endowed-with-marks](lakṣaṇānvitām)
 
 ## mukta-m0-p60-v1500
-[having-inspected](nirīkṣya) [having-sprinkled](prokṣya) [and](ca) [having-besprinkled](abhyukṣya) [having-struck](saṃtāḍya) [having-smeared](ālipya) [with-fragrance](gandhataḥ)
+[having-inspected](nirīkṣya) [having-sprinkled](prokṣya) [and-having-sprinkled](cābhyukṣya) [having-struck-anointed](saṃtāḍyālipya) [with-sandal](gandhataḥ)
