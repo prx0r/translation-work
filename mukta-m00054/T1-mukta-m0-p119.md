@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p119-v2951
-[beautiful-form](surūpāya)[+][obeisance](namaḥ) [to-radiance](tejase)[+][obeisance](namaḥ) [radiance-making](tejaskara)[+][to-treasure](nidhaye)[+][obeisance](namaḥ)
+[to-beautiful-form](surūpāya)[obeisance](namaḥ) [to-the-fiery-one](tejase)[obeisance](namaḥ) [to-the-treasure+of+light-making](tejaskara)[+](nidhaye)[obeisance](namaḥ)
 
 ## mukta-m0-p119-v2952
-[to-turbaned-one](uṣṇīṣiṇe)[+][obeisance](namaḥ) [to-beautiful-faced](suvaktrāya)[+][obeisance](namaḥ) [to-exalted](udagrāya)[+][obeisance](namaḥ)
+[to-the-turbaned-one](uṣṇīṣiṇe)[obeisance](namaḥ) [to-the-beautiful-faced-one](suvaktrāya)[obeisance](namaḥ) [to-the-lofty-one](udagrāya)[obeisance](namaḥ)
 
 ## mukta-m0-p119-v2953
-[to-humble](vinatāya)[+][obeisance](namaḥ) [to-long](dīrgghāya)[+][obeisance](namaḥ) [to-tawny-haired](harikeśāya)[+][obeisance](namaḥ)
+[to-the-bent-one](vinatāya)[obeisance](namaḥ) [to-the-long-one](dīrgghāya)[obeisance](namaḥ) [to-the-tawny-haired-one](harikeśāya)[obeisance](namaḥ)
 
 ## mukta-m0-p119-v2954
-[to-one-of-accomplished-aims](siddhārtthāya)[+][obeisance](namaḥ) [to-shaven-headed](muṇḍāya)[+][obeisance](namaḥ)
+[to-the-one-whose-aim-is-accomplished](siddhārtthāya)[obeisance](namaḥ) [to-the-shaven-headed-one](muṇḍāya)[obeisance](namaḥ)
 
 ## mukta-m0-p119-v2955
-[to-all-auspicious-maker](sarvaśubhaṃkarāya)[+][obeisance](namaḥ) [to-unborn](ajāya)[+][obeisance](namaḥ) [to-many-formed](bahurūpāya)[+][obeisance](namaḥ)
+[to-the-maker+of+all+auspiciousness](sarvaśubhaṃkarāya)[obeisance](namaḥ) [to-the-unborn-one](ajāya)[obeisance](namaḥ) [to-the-many-formed-one](bahurūpāya)[obeisance](namaḥ)
 
 ## mukta-m0-p119-v2956
-[to-fragrance-bearer](gandhadhāriṇe)[+][obeisance](namaḥ) [to-matted-haired](kaparddine)[+][obeisance](namaḥ)
+[to-the-fragrance-bearer](gandhadhāriṇe)[obeisance](namaḥ) [to-the-one-with-matted-hair](kaparddinenamaḥ)
 
 ## mukta-m0-p119-v2957
-[to-upward-semen](urddhvaretase)[+][obeisance](namaḥ) [to-upward-mark](urddhvaliṅgāya)[+][obeisance](namaḥ)
+[to-the-one-with-upward-seed](urddhvaretase)[obeisance](namaḥ) [to-the-one-with-upward-mark](urddhvaliṅgāya)[obeisance](namaḥ)
 
 ## mukta-m0-p119-v2958
-[to-upward-lying](urddhvaśāyine)[+][obeisance](namaḥ) [to-sky-abiding](nabhasthalāya)[+][obeisance](namaḥ) [to-three-braided](trijaṭāya)[+][obeisance](namaḥ)
+[to-the-one-lying-upward](urddhvaśāyine)[obeisance](namaḥ) [to-the-one-abiding+in+the-sky](nabhasthalāya)[obeisance](namaḥ) [to-the-one-with-three-braids](trijaṭāya)[obeisance](namaḥ)
 
 ## mukta-m0-p119-v2959
-[to-mighty](vibhave)[+][obeisance](namaḥ) [to-day-wanderer](ahaścarāya)[+][obeisance](namaḥ) [to-night-wanderer](naktañcarāya)[+][obeisance](namaḥ)
+[to-the-mighty-one](vibhavenamaḥ) [to-the-day-wanderer](ahaścarāya)[obeisance](namaḥ) [to-the-night-wanderer](naktañcarāya)[obeisance](namaḥ)
 
 ## mukta-m0-p119-v2960
-[to-fierce-spirited](tigmamanyave)[+][obeisance](namaḥ) [to-brilliant](suvarccasāya)[+][obeisance](namaḥ) [to-elephant-slayer](gajaghne)[+][obeisance](namaḥ)
+[to-the-fierce-spirited-one](tigmamanyavenamaḥ) [to-the-radiant-one](suvarccasāya)[obeisance](namaḥ) [to-the-slayer+of+elephants](gajaghnenamaḥ)
 
 ## mukta-m0-p119-v2961
-[to-demon-slayer](daityaghne)[+][obeisance](namaḥ) [to-time](kālāya)[+][obeisance](namaḥ) [to-world-supporter](lokadhātre)[+][obeisance](namaḥ)
+[to-the-slayer+of+demons](daityaghnenamaḥ) [to-time](kālāya)[obeisance](namaḥ) [to-the-supporter+of+the-world](lokadhātrenamaḥ)
 
 ## mukta-m0-p119-v2962
-[to-quality-mine](guṇākarāya)[+][obeisance](namaḥ)
+[to-the-mine+of+qualities](guṇākarāyanamaḥ)
 
 ## mukta-m0-p119-v2963
-[to-lion](siṃha)[+][tiger](śārddūla)[+][form](rūpāya)[+][obeisance](namaḥ)
+[to-the-one-having+the-form+of+lion+and+tiger](siṃhaśārddūlarūpāyanamaḥ)
 
 ## mukta-m0-p119-v2964
-[to-wet](ārddra)[+][skin](carma)[+][garment](āmbara)[+][covered](āvṛtāya)[+][obeisance](namaḥ) [to-time-yogin](kālayogine)[+][obeisance](namaḥ)
+[to-the-one-covered+with+wet+skin+as+garment](ārddracarmāmbarāvṛtāya)[obeisance](namaḥ) [to-the-yogin+of+time](kālayoginenamaḥ)
 
 ## mukta-m0-p119-v2965
-[to-night-wanderer](niśācarāya)[+][obeisance](namaḥ) [to-ghost-wanderer](pretacāriṇe)[+][obeisance](namaḥ)
+[to-the-night-wanderer](niśācarāya)[obeisance](namaḥ) [to-the-wanderer+among+spirits](pretacāriṇenamaḥ)
 
 ## mukta-m0-p119-v2966
-[to-course](gataye)[+][obeisance](namaḥ) [to-dance-lover](nṛtyapriyāya)[+][obeisance](namaḥ) [to-eternal-dancer](nityanarttāya)[+][obeisance](namaḥ)
+[to-the-goal](gatayenamaḥ) [to-the-one-fond+of+dance](nṛtyapriyāya)[obeisance](namaḥ) [to-the-eternal-dancer](nityanarttāya)[obeisance](namaḥ)
 
 ## mukta-m0-p119-v2967
-[to-dancer](narttakāya)[+][obeisance](namaḥ) [to-all-sportive](sarvalālasāya)[+][obeisance](namaḥ) [to-terrible](ghorāya)[+][obeisance](namaḥ)
+[to-the-dancer](narttakāya)[obeisance](namaḥ) [to-the-one-delighting+in+all](sarvalālasāya)[obeisance](namaḥ) [to-the-terrible-one](ghorāya)[obeisance](namaḥ)
 
 ## mukta-m0-p119-v2968
-[to-great-austerity](mahātapase)[+][obeisance](namaḥ) [to-noose](pāśāya)[+][obeisance](namaḥ) [to-eternal](nityāya)[+][obeisance](namaḥ)
+[to-the-one-of-great-austerity](mahātapasenamaḥ) [to-the-noose](pāśāya)[obeisance](namaḥ) [to-the-eternal-one](nityāya)[obeisance](namaḥ)
 
 ## mukta-m0-p119-v2969
-[to-mountain-dwelling](giriruhāya)[+][obeisance](namaḥ) [to-sky](nabhasen)[+][obeisance](namaḥ) [to-thousand-handed](sahasrahastāya)[+][obeisance](namaḥ)
+[to-the-one-growing+on+mountains](giriruhāya)[obeisance](namaḥ) [to-the-sky](nabhasenamaḥ) [to-the-thousand-handed-one](sahasrahastāya)[obeisance](namaḥ)
 
 ## mukta-m0-p119-v2970
-[to-victory](vijayāya)[+][obeisance](namaḥ) [to-resolve](vyavasāyāya)[+][obeisance](namaḥ) [to-unwearied](atandritāya)[+][obeisance](namaḥ)
+[to-victory](vijayāya)[obeisance](namaḥ) [to-resolute-effort](vyavasāyanamaḥ) [to-the-unwearied-one](atandritāya)[obeisance](namaḥ)
 
 ## mukta-m0-p119-v2971
-[to-unassailable](adharṣaṇāya)[+][obeisance](namaḥ) [to-assailing-self](dharṣaṇātmane)[+][obeisance](namaḥ) [to-sacrifice-slayer](yajñaghne)[+][obeisance](namaḥ)
+[to-the-unassailable-one](adharṣaṇāya)[obeisance](namaḥ) [to-the-one-whose-nature+is+assailing](dharṣaṇātmanenamaḥ) [to-the-destroyer+of+sacrifice](yajñaghnenamaḥ)
 
 ## mukta-m0-p119-v2972
-[to-desire-destroyer](kāmanāśakāya)[+][obeisance](namaḥ) [to-Dakṣa-sacrifice-remover](dakṣayāgāpahāriṇe)[+][obeisance](namaḥ)
+[to-the-destroyer+of+desire](kāmanāśakāya)[obeisance](namaḥ) [to-the-remover+of+Dakṣa’s+sacrifice](dakṣayāgāpahāriṇenamaḥ)
 
 ## mukta-m0-p119-v2973
-[to-very-patient](susahāya)[+][obeisance](namaḥ) [to-middle](madhyamāya)[+][obeisance](namaḥ) [to-radiance-remover](tejopahāriṇe)[+][obeisance](namaḥ)
+[to-the-easily-borne-one](susahāya)[obeisance](namaḥ) [to-the-middle-one](madhyamāya)[obeisance](namaḥ) [to-the-remover+of+splendor](tejopahāriṇenamaḥ)
 
 ## mukta-m0-p119-v2974
-[to-strength-slayer](balaghne)[+][obeisance](namaḥ) [to-delighted](muditāya)[+][obeisance](namaḥ) [to-meaning](artthāya)[+][obeisance](namaḥ)
+[to-the-destroyer+of+strength](balaghnenamaḥ) [to-the-delighted-one](muditāya)[obeisance](namaḥ) [to-wealth](artthāya)[obeisance](namaḥ)
 
 ## mukta-m0-p119-v2975
-[to-unconquered](ajitāya)[+][obeisance](namaḥ) [to-inferior](avarāya)[+][obeisance](namaḥ) [to-profound](gambhīrāya)[+][obeisance](namaḥ)
+[to-the-unconquered-one](ajitāya)[obeisance](namaḥ) [to-the-inferior-one](avarāya)[obeisance](namaḥ) [to-the-profound-one](gambhīrāya)[obeisance](namaḥ)
