@@ -5,10 +5,10 @@
 [gave-as-if](dadāviva) [herself](svayaṃ) [having-become](bhūtvā) [peacock+excellent+vehicle](mayūravaravāhanā)
 
 ## mukta-m0-p48-v1177
-[boon+weapon+holder](varāyudhadharā)
+[boon+weapon+bearing](varāyudhadharā)
 
 ## mukta-m0-p48-v1178
-[boon+weapon+holder](varāyudhadharā) [she](sā) [this](iyaṃ) [is-sung](gīyate) [by-those-of-excellent-intellect](varabuddhibhiḥ)
+[boon+weapon+bearing](varāyudhadharā) [she](sā) [this](iyaṃ) [is-sung](gīyate) [by-those-of-excellent-intellect](varabuddhibhiḥ)
 
 ## mukta-m0-p48-v1179
 [heroic](vīrā)
@@ -32,19 +32,19 @@
 [stream-of-wealth](vasudhārā)
 
 ## mukta-m0-p48-v1186
-[of-him](tasya) [in-control](vaśā) [not](na) [how](kathaṃ) [may-they-be](syuḥ) [noble-ones](udārā) [of-whom](yasya) [in-hand](kare) [indeed](vata) [she](sā) [stream-of-wealth](vasudhārā)
+[of-him](tasya) [under-control](vaśā) [not](na) [how](kathaṃ) [may-be](syuḥ) [noble-ones](udārā) [of-whom](yasya) [in-hand](kare) [indeed](vata) [she](sā) [stream-of-wealth](vasudhārā)
 
 ## mukta-m0-p48-v1187
 [victorious](jayā)
 
 ## mukta-m0-p48-v1188
-[whose+name+speaker](yannāmavaktṛ) [shines](pratibhāti) [face](vaktraṃ) [victorious](jayā) [compassion+ocean](dayābdhiḥ) [for-victory](vijayāya) [may-she-be](bhūyāt)
+[whose+name+speaker](yannāmavaktṛ) [shines](pratibhāti) [face](vaktraṃ) [victorious](jayā) [compassion+ocean](dayābdhiḥ) [for-victory](vijayāya) [may-be](bhūyāt)
 
 ## mukta-m0-p48-v1189
 [herb-bearing](śākambharī)
 
 ## mukta-m0-p48-v1190
-[herb-bearing](śākambharī) [always](sadā) [may-she-be](bhūyād) [boon-giving](varadā) [supreme+goddess](parameśvarī)
+[herb-bearing](śākambharī) [always](sadā) [may-be](bhūyāt) [boon-giving](varadā) [supreme+goddess](parameśvarī)
 
 ## mukta-m0-p48-v1191
 [auspicious](śivā)
@@ -56,13 +56,13 @@
 [victorious](vijayā)
 
 ## mukta-m0-p48-v1194
-[moon](vidhuḥ) [of-supreme-bliss+nectar+ocean](parānandasudhāmburāśeḥ) [fearlessness+giving](ayapradā) [may-stand](stād) [victorious](vijayā) [in-fearlessness](abhayasthā)
+[moon](vidhuḥ) [supreme+bliss+nectar+ocean](parānandasudhāmburāśeḥ) [fearlessness+giving](ayapradā) [may-be](stād) [victory+fearlessness+abiding](vijayābhayasthā)
 
 ## mukta-m0-p48-v1195
 [conquering](jayantī)
 
 ## mukta-m0-p48-v1196
-[enemy+host+darkness+night+destroyer](vipakṣayūthāndhaniśānihantā) [of-the-good](satāṃ) [conquering](jayantī) [victory+giving](jayadā) [always](sadā) [may-she-be](astu)
+[enemy+host+darkness+night+destroyer](vipakṣayūthāndhaniśānihantā) [of-the-good](satāṃ) [conquering](jayantī) [victory+giving](jayadā) [always](sadā) [may-be](astu)
 
 ## mukta-m0-p48-v1197
 [beautiful-breasted](sustanī)

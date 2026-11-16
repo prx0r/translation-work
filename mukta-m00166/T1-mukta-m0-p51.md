@@ -8,7 +8,7 @@
 [bull-mounted](vṛṣa+ārūḍhā) [bull-mounted](vṛṣa+ārūḍhā) [bull-mounted](vṛṣa+ārūḍhā) [bull-mounted](vṛṣa+ārūḍhā)
 
 ## mukta-m0-p51-v1253
-[bull-mounted](vṛṣa+ārūḍhā) [auspicious-one](śivā) [she](sā) [me](māṃ) [bull-mounted](vṛṣa+ārūḍhaṃ) [may-make](karotu) [quickly](aram)
+[bull-mounted](vṛṣa+ārūḍhā) [auspicious-one](śivā) [she](sā) [me](mām) [bull-mounted](vṛṣa+ārūḍham) [may-make](karotu) [quickly](aram)
 
 ## mukta-m0-p51-v1254
 [buffalo-demon-slayer](mahiṣa+asura+ghātinī) [buffalo-demon-slayer](mahiṣa+asura+ghātinī) [buffalo-demon-slayer](mahiṣa+asura+ghātinī) [buffalo-demon-slayer](mahiṣa+asura+ghātinī)
@@ -17,37 +17,37 @@
 [beings-all-protecting](bhūta+akhilam+avantī) [indeed](nu) [buffalo-demon-slayer](mahiṣa+asura+ghātinī) [buffalo-demon-slayer](mahiṣa+asura+ghātinī)
 
 ## mukta-m0-p51-v1256
-[to-be-praised](vandanīyā) [not](na) [of-whom](kasya) [this](eṣā) [buffalo-demon-slayer](mahiṣa+asura+ghātinī)
+[to-be-praised](vandanīyā) [not](na) [by-whom](kasya) [this](eṣā) [buffalo-demon-slayer](mahiṣa+asura+ghātinī) [buffalo-demon-slayer](mahiṣa+asura+ghātinī)
 
 ## mukta-m0-p51-v1257
 [śumbha-pride-destroyer](sumbha+darpa+harā) [śumbha-pride-destroyer](sumbha+darpa+harā) [śumbha-pride-destroyer](sumbha+darpa+harā) [śumbha-pride-destroyer](sumbha+darpa+harā)
 
 ## mukta-m0-p51-v1258
-[śumbha-pride-destroyer](sumbha+darpa+harā) [she](sā) [you](tvaṃ) [śumbha-pride-destroyer](sumbha+darpa+harā) [are](asi) [or](vā)
+[śumbha-pride-destroyer](sumbha+darpa+harā) [she](sā) [you](tvam) [śumbha-pride-destroyer](sumbha+darpa+harā) [are](asi) [or](vā)
 
 ## mukta-m0-p51-v1259
 [radiant](dīptā) [radiant](dīptā) [radiant](dīptā) [radiant](dīptā)
 
 ## mukta-m0-p51-v1260
-[radiant](dīptā) [own-name-meaning-fulfilling](sva+nāma+artha+karī) [for-me](mama) [may-be](astu)
+[radiant](dīptā) [own-name-meaning-making](sva+nāma+artha+karī) [for-me](mama) [may-be](astu)
 
 ## mukta-m0-p51-v1261
 [blazing-fire-resembling](dīpta+pāvaka+sannibhā) [blazing-fire-resembling](dīpta+pāvaka+sannibhā) [blazing-fire-resembling](dīpta+pāvaka+sannibhā) [blazing-fire-resembling](dīpta+pāvaka+sannibhā)
 
 ## mukta-m0-p51-v1262
-[very-bright](su+prakāśaṃ) [becomes](bhavati) [this](eṣā) [blazing-fire-resembling](dīpta+pāvaka+sannibhā)
+[very-bright](su+prakāśam) [becomes](bhavati) [this](eṣā) [blazing-fire-resembling](dīpta+pāvaka+sannibhā)
 
 ## mukta-m0-p51-v1263
 [skull-adorned](kapāla+bhūṣaṇā) [skull-adorned](kapāla+bhūṣaṇā) [skull-adorned](kapāla+bhūṣaṇā) [skull-adorned](kapāla+bhūṣaṇā)
 
 ## mukta-m0-p51-v1264
-[skull-adorned](kapāla+bhūṣaṇā) [ornament](bhūṣām) [entire](aśeṣāṃ) [to-us](no) [may-give](dadātu) [this](iyam)
+[skull-adorned](kapāla+bhūṣaṇā) [ornament](bhūṣām) [entire](aśeṣām) [to-us](naḥ) [may-give](dadātu) [this](iyam)
 
 ## mukta-m0-p51-v1265
-[black-one](kālī) [black-one](kālī) [black-one](kālī) [black-one](kālī)
+[kālī](kālī) [kālī](kālī) [kālī](kālī) [kālī](kālī)
 
 ## mukta-m0-p51-v1266
-[black-one](kālī) [terrible](karālaṃ) [may-remove](haratāt) [affliction](vikāram)
+[kālī](kālī) [terrible](karālam) [may-remove](haratāt) [affliction](vikāram)
 
 ## mukta-m0-p51-v1267
 [skull-garland-wearing](kapāla+māla+bhāriṇī) [skull-garland-wearing](kapāla+māla+bhāriṇī) [skull-garland-wearing](kapāla+māla+bhāriṇī) [skull-garland-wearing](kapāla+māla+bhāriṇī)
@@ -71,7 +71,7 @@
 [auspicious](śivā) [messenger](dūtī) [auspicious](śivā) [messenger](dūtī)
 
 ## mukta-m0-p51-v1274
-[auspicious](śivā) [messenger](dūtī) [for-welfare](śivāya) [may-be](astu) [śiva-pervasion](śiva+vyāptyā) [worshipped](prapūjitā)
+[auspicious](śivā) [messenger](dūtī) [for-welfare](śivāya) [may-be](astu) [by-śiva-pervasion](śiva+vyāptyā) [worshipped](prapūjitā)
 
 ## mukta-m0-p51-v1275
 [deep-sound](ghana+dhvaniḥ) [deep-sound](ghana+dhvaniḥ) [deep-sound](ghana+dhvaniḥ) [deep-sound](ghana+dhvaniḥ)

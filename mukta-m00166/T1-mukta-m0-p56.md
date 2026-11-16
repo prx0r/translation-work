@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p56-v1376
-[reason+joined](yuktiyuktā) [becoming+become](bhaverbhūtā) [snare](vāgurā) [heavy+wonderful](gururadbhutā)
+[endowed-with-means](yuktiyuktā) [may-you-be](bhaver) [become](bhūtā) [snare](vāgurā) [heavy](gurur) [wondrous](adbhutā)
 
 ## mukta-m0-p56-v1377
-[bond+form](bandharūpā) [fetter+shape](bandharūpā) [tie+appearance](bandharūpā) [binding+form](bandharūpā)
+[page](p.) [179](179)) [bondage](bandha+) [form](rūpā)
 
 ## mukta-m0-p56-v1378
-[connection+bond](sambandhabandhaṃ) [completely+breaking](paribhindatī) [to-us](naḥ) [bond+breaker](sambandha-bandhaṃ)
+[connection](sambandha+) [bond](bandhaṃ) [breaking-asunder](paribhindatī) [of-us](naḥ)
 
 ## mukta-m0-p56-v1379
-[slaughter+form](vadharūpā) [killing+shape](vadharūpā) [violence+form](vadharūpā) [death+form](vadharūpā)
+[slaying](vadha+) [form](rūpā) [she](sā) [is](asti)
 
 ## mukta-m0-p56-v1380
-[she-becomes](bhavatī) [thus](iti) [difficult+end](durantam) [by-wonderful](adbhutena)
+[she-becomes](bhavatī) [thus](iti) [approaches](ameti) [unrestrained](durantam) [by-wonder](adbhutena)
 
 ## mukta-m0-p56-v1381
-[slaughter+aroused](vadhoddhatā) [killing+excited](vadhoddhatā) [violence+raised](vadhoddhatā) [murder+intense](vadhoddhatā)
+[slaying](vadha+) [uplifted](uddhatā) [she](sā) [is](asti)
 
 ## mukta-m0-p56-v1382
-[maddened](unmattaḥ) [other](itaraḥ) [who](kaḥ) [indeed](svid) [goddess](devī) [of-whom](yasya) [slaughter+aroused](vadhoddhatā)
+[mad](unmatta) [other](itaraḥ) [who](kaḥ) [indeed](svid) [O-goddess](devī) [whose](yasya) [slaying](vadha+) [uplifted](uddhatā)
 
 ## mukta-m0-p56-v1383
-[prisoner](vandī) [captive](vandī) [bard](vandī) [praiser](vandī)
+[captive](vandī) [she](sā) [is](asti) [indeed](eva)
 
 ## mukta-m0-p56-v1384
-[made+prisoner](vandīkṛtā) [is](asti) [good-flower+assembly](sumanonikāyye) [captive+made](vandī-kṛtā)
+[made-captive](vandīkṛtā) [is](asti) [in-the-multitude](su+) [of-good-minded](manaḥ+) [host](nikāyye)
 
 ## mukta-m0-p56-v1385
-[praise+praise+form](vandistutākārā) [prisoner+praise+form](vandistutākārā) [praise+song+form](vandistutākārā) [bard+hymn+form](vandistutākārā)
+[captive](vandi+) [praise](stuta+) [form](ākārā) [she](sā)
 
 ## mukta-m0-p56-v1386
-[oh](aho) [praise+praise+form](vandistutākārā) [she](sā) [power](śaktiḥ) [devotee+affectionate](bhaktavatsalā)
+[oh](aho) [captive](vandi+) [praise](stuta+) [form](ākārā) [that](sā) [power](śaktir) [devotee](bhakta+) [loving](vatsalā)
 
 ## mukta-m0-p56-v1387
-[prison+bond+remover](kārābandhavimocanī) [jail+fetter+liberator](kārābandhavimocanī) [cage+bond+releaser](kārābandhavimocanī) [prison+binding+freeing](kārābandhavimocanī)
+[page](p.) [180](180)) [prison](kārā+) [bond](bandha+) [releaser](vimocanī)
 
 ## mukta-m0-p56-v1388
-[in-difficulty](viṣame) [at-time](samaye) [may-she-be](bhūyāt) [prison+bond+remover](kārābandhavimocinī)
+[in-difficult](viṣame) [time](samaye) [may-she-be](bhūyāt) [prison](kārā+) [bond](bandha+) [releaser](vimocinī)
 
 ## mukta-m0-p56-v1389
-[chain](śṛṅkhalā) [fetter](śṛṅkhalā) [shackle](śṛṅkhalā) [bond](śṛṅkhalā)
+[chain](śṛṅkhalā) [she](sā) [is](asti) [indeed](eva)
 
 ## mukta-m0-p56-v1390
-[as+wind](yayā+vayaḥ) [like](iva) [bound](ābaddhāḥ) [controllable](vaśyāḥ) [she](sā) [chain](śṛṅkhalā) [thought](matā)
+[like](iva) [bound-together](ābaddhā) [submissive](vaśyāḥ) [that](sā) [chain](śṛṅkhalā) [regarded](matā)
 
 ## mukta-m0-p56-v1391
-[evil+destroyer](khalahā) [wicked+slayer](khalahā) [fool+remover](khalahā) [base+destroyer](khalahā)
+[wicked](khala+) [slayer](hā) [she](sā) [is](asi)
 
 ## mukta-m0-p56-v1392
-[them](tān) [leading+also](prāpayantī+api) [and](ca) [them](tān) [evil+destroyer](khalahā) [art](asi) [she](sā) [you](tvam)
+[them](tāṃ) [causing-to-attain](prāpayanty) [also](api) [and](ca) [them](tān) [wicked](khala+) [slayer](hā) [are](asi) [that](sā) [you](tvam)
 
 ## mukta-m0-p56-v1393
-[lightning+conquers](vidyujjayati) [she](sā) [always](nityam) [mare-fire+sister](vaḍavāgnisahodarī)
+[lightning](vidyuj) [conquers](jayati) [that](sā) [always](nityaṃ) [submarine-fire](vaḍavāgni+) [sister](sahodarī)
 
 ## mukta-m0-p56-v1394
-[firm+bond+remover](dṛḍhabandhavimocinī) [strong+fetter+liberator](dṛḍhabandhavimocinī) [hard+binding+releaser](dṛḍhabandhavimocinī) [solid+bond+freeing](dṛḍhabandhavimocinī)
+[firm](dṛḍha+) [bond](bandha+) [releaser](vimocinī) [she](sā)
 
 ## mukta-m0-p56-v1395
-[she-takes-away](harati) [by-memory+only](smṛtimātrāt) [she](sā) [firm+bond+remover](dṛḍhabandhavimocinī)
+[carries-away](harati) [by-mere-remembrance](smṛtimātrāt) [that](sā) [firm](dṛḍha+) [bond](bandha+) [releaser](vimocinī)
 
 ## mukta-m0-p56-v1396
-[mother](ambikā) [goddess](ambikā) [divine-mother](ambikā) [parvati](ambikā)
+[mother](ambikā) [she](sā) [is](asti) [indeed](eva)
 
 ## mukta-m0-p56-v1397
-[by-sight](dṛśā) [greatly](bhṛśam) [may-she-destroy](nāśayatāt) [without-anger](aroṣā)
+[by-glance](dṛśā) [exceedingly](bhṛśaṃ) [may-destroy](nāśayatāt) [without-anger](a+) [wrath](roṣā)
 
 ## mukta-m0-p56-v1398
-[mother+little](ambālikā) [ambika+small](ambālikā) [goddess+diminutive](ambālikā) [motherly](ambālikā)
+[little-mother](ambālikā) [she](sā) [is](asti) [indeed](eva)
 
 ## mukta-m0-p56-v1399
-[creeper+little](rambālikā) [nourishment+doing](poṣaṇakāriṇī) [may-you-be](syāḥ) [nurturing+agent](poṣaṇa-kāriṇī)
+[plantain-shoot](rambālikā) [nourishment](poṣaṇa+) [making](kāriṇī) [may-you-be](syāḥ)
 
 ## mukta-m0-p56-v1400
-[mother](ambā) [divine-mother](ambā) [goddess](ambā) [parent](ambā)
+[mother](ambā) [she](sā) [is](asti) [indeed](eva)

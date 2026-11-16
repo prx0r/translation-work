@@ -8,19 +8,27 @@
 "tokens": [
 {
 "surface": "yuktiyuktā",
-"quick_gloss": "reason+joined"
+"quick_gloss": "endowed-with-means"
 },
 {
-"surface": "bhaverbhūtā",
-"quick_gloss": "becoming+become"
+"surface": "bhaver",
+"quick_gloss": "may-you-be"
+},
+{
+"surface": "bhūtā",
+"quick_gloss": "become"
 },
 {
 "surface": "vāgurā",
 "quick_gloss": "snare"
 },
 {
-"surface": "gururadbhutā",
-"quick_gloss": "heavy+wonderful"
+"surface": "gurur",
+"quick_gloss": "heavy"
+},
+{
+"surface": "adbhutā",
+"quick_gloss": "wondrous"
 }
 ]
 },
@@ -32,20 +40,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "bandharūpā",
-"quick_gloss": "bond+form"
+"surface": "p.",
+"quick_gloss": "page"
 },
 {
-"surface": "bandharūpā",
-"quick_gloss": "fetter+shape"
+"surface": "179",
+"quick_gloss": "179"
 },
 {
-"surface": "bandharūpā",
-"quick_gloss": "tie+appearance"
+"surface": "bandha+",
+"quick_gloss": "bondage"
 },
 {
-"surface": "bandharūpā",
-"quick_gloss": "binding+form"
+"surface": "rūpā",
+"quick_gloss": "form"
 }
 ]
 },
@@ -57,20 +65,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "sambandhabandhaṃ",
-"quick_gloss": "connection+bond"
+"surface": "sambandha+",
+"quick_gloss": "connection"
+},
+{
+"surface": "bandhaṃ",
+"quick_gloss": "bond"
 },
 {
 "surface": "paribhindatī",
-"quick_gloss": "completely+breaking"
+"quick_gloss": "breaking-asunder"
 },
 {
 "surface": "naḥ",
-"quick_gloss": "to-us"
-},
-{
-"surface": "sambandha-bandhaṃ",
-"quick_gloss": "bond+breaker"
+"quick_gloss": "of-us"
 }
 ]
 },
@@ -82,20 +90,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "vadharūpā",
-"quick_gloss": "slaughter+form"
+"surface": "vadha+",
+"quick_gloss": "slaying"
 },
 {
-"surface": "vadharūpā",
-"quick_gloss": "killing+shape"
+"surface": "rūpā",
+"quick_gloss": "form"
 },
 {
-"surface": "vadharūpā",
-"quick_gloss": "violence+form"
+"surface": "sā",
+"quick_gloss": "she"
 },
 {
-"surface": "vadharūpā",
-"quick_gloss": "death+form"
+"surface": "asti",
+"quick_gloss": "is"
 }
 ]
 },
@@ -115,12 +123,16 @@
 "quick_gloss": "thus"
 },
 {
+"surface": "ameti",
+"quick_gloss": "approaches"
+},
+{
 "surface": "durantam",
-"quick_gloss": "difficult+end"
+"quick_gloss": "unrestrained"
 },
 {
 "surface": "adbhutena",
-"quick_gloss": "by-wonderful"
+"quick_gloss": "by-wonder"
 }
 ]
 },
@@ -132,20 +144,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "vadhoddhatā",
-"quick_gloss": "slaughter+aroused"
+"surface": "vadha+",
+"quick_gloss": "slaying"
 },
 {
-"surface": "vadhoddhatā",
-"quick_gloss": "killing+excited"
+"surface": "uddhatā",
+"quick_gloss": "uplifted"
 },
 {
-"surface": "vadhoddhatā",
-"quick_gloss": "violence+raised"
+"surface": "sā",
+"quick_gloss": "she"
 },
 {
-"surface": "vadhoddhatā",
-"quick_gloss": "murder+intense"
+"surface": "asti",
+"quick_gloss": "is"
 }
 ]
 },
@@ -157,8 +169,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "unmattaḥ",
-"quick_gloss": "maddened"
+"surface": "unmatta",
+"quick_gloss": "mad"
 },
 {
 "surface": "itaraḥ",
@@ -174,15 +186,19 @@
 },
 {
 "surface": "devī",
-"quick_gloss": "goddess"
+"quick_gloss": "O-goddess"
 },
 {
 "surface": "yasya",
-"quick_gloss": "of-whom"
+"quick_gloss": "whose"
 },
 {
-"surface": "vadhoddhatā",
-"quick_gloss": "slaughter+aroused"
+"surface": "vadha+",
+"quick_gloss": "slaying"
+},
+{
+"surface": "uddhatā",
+"quick_gloss": "uplifted"
 }
 ]
 },
@@ -195,19 +211,19 @@
 "tokens": [
 {
 "surface": "vandī",
-"quick_gloss": "prisoner"
-},
-{
-"surface": "vandī",
 "quick_gloss": "captive"
 },
 {
-"surface": "vandī",
-"quick_gloss": "bard"
+"surface": "sā",
+"quick_gloss": "she"
 },
 {
-"surface": "vandī",
-"quick_gloss": "praiser"
+"surface": "asti",
+"quick_gloss": "is"
+},
+{
+"surface": "eva",
+"quick_gloss": "indeed"
 }
 ]
 },
@@ -220,19 +236,23 @@
 "tokens": [
 {
 "surface": "vandīkṛtā",
-"quick_gloss": "made+prisoner"
+"quick_gloss": "made-captive"
 },
 {
 "surface": "asti",
 "quick_gloss": "is"
 },
 {
-"surface": "sumanonikāyye",
-"quick_gloss": "good-flower+assembly"
+"surface": "su+",
+"quick_gloss": "in-the-multitude"
 },
 {
-"surface": "vandī-kṛtā",
-"quick_gloss": "captive+made"
+"surface": "manaḥ+",
+"quick_gloss": "of-good-minded"
+},
+{
+"surface": "nikāyye",
+"quick_gloss": "host"
 }
 ]
 },
@@ -244,20 +264,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "vandistutākārā",
-"quick_gloss": "praise+praise+form"
+"surface": "vandi+",
+"quick_gloss": "captive"
 },
 {
-"surface": "vandistutākārā",
-"quick_gloss": "prisoner+praise+form"
+"surface": "stuta+",
+"quick_gloss": "praise"
 },
 {
-"surface": "vandistutākārā",
-"quick_gloss": "praise+song+form"
+"surface": "ākārā",
+"quick_gloss": "form"
 },
 {
-"surface": "vandistutākārā",
-"quick_gloss": "bard+hymn+form"
+"surface": "sā",
+"quick_gloss": "she"
 }
 ]
 },
@@ -273,20 +293,32 @@
 "quick_gloss": "oh"
 },
 {
-"surface": "vandistutākārā",
-"quick_gloss": "praise+praise+form"
+"surface": "vandi+",
+"quick_gloss": "captive"
+},
+{
+"surface": "stuta+",
+"quick_gloss": "praise"
+},
+{
+"surface": "ākārā",
+"quick_gloss": "form"
 },
 {
 "surface": "sā",
-"quick_gloss": "she"
+"quick_gloss": "that"
 },
 {
-"surface": "śaktiḥ",
+"surface": "śaktir",
 "quick_gloss": "power"
 },
 {
-"surface": "bhaktavatsalā",
-"quick_gloss": "devotee+affectionate"
+"surface": "bhakta+",
+"quick_gloss": "devotee"
+},
+{
+"surface": "vatsalā",
+"quick_gloss": "loving"
 }
 ]
 },
@@ -298,20 +330,24 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "kārābandhavimocanī",
-"quick_gloss": "prison+bond+remover"
+"surface": "p.",
+"quick_gloss": "page"
 },
 {
-"surface": "kārābandhavimocanī",
-"quick_gloss": "jail+fetter+liberator"
+"surface": "180",
+"quick_gloss": "180"
 },
 {
-"surface": "kārābandhavimocanī",
-"quick_gloss": "cage+bond+releaser"
+"surface": "kārā+",
+"quick_gloss": "prison"
 },
 {
-"surface": "kārābandhavimocanī",
-"quick_gloss": "prison+binding+freeing"
+"surface": "bandha+",
+"quick_gloss": "bond"
+},
+{
+"surface": "vimocanī",
+"quick_gloss": "releaser"
 }
 ]
 },
@@ -324,19 +360,27 @@
 "tokens": [
 {
 "surface": "viṣame",
-"quick_gloss": "in-difficulty"
+"quick_gloss": "in-difficult"
 },
 {
 "surface": "samaye",
-"quick_gloss": "at-time"
+"quick_gloss": "time"
 },
 {
 "surface": "bhūyāt",
 "quick_gloss": "may-she-be"
 },
 {
-"surface": "kārābandhavimocinī",
-"quick_gloss": "prison+bond+remover"
+"surface": "kārā+",
+"quick_gloss": "prison"
+},
+{
+"surface": "bandha+",
+"quick_gloss": "bond"
+},
+{
+"surface": "vimocinī",
+"quick_gloss": "releaser"
 }
 ]
 },
@@ -352,16 +396,16 @@
 "quick_gloss": "chain"
 },
 {
-"surface": "śṛṅkhalā",
-"quick_gloss": "fetter"
+"surface": "sā",
+"quick_gloss": "she"
 },
 {
-"surface": "śṛṅkhalā",
-"quick_gloss": "shackle"
+"surface": "asti",
+"quick_gloss": "is"
 },
 {
-"surface": "śṛṅkhalā",
-"quick_gloss": "bond"
+"surface": "eva",
+"quick_gloss": "indeed"
 }
 ]
 },
@@ -373,24 +417,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "yayā+vayaḥ",
-"quick_gloss": "as+wind"
-},
-{
 "surface": "iva",
 "quick_gloss": "like"
 },
 {
-"surface": "ābaddhāḥ",
-"quick_gloss": "bound"
+"surface": "ābaddhā",
+"quick_gloss": "bound-together"
 },
 {
 "surface": "vaśyāḥ",
-"quick_gloss": "controllable"
+"quick_gloss": "submissive"
 },
 {
 "surface": "sā",
-"quick_gloss": "she"
+"quick_gloss": "that"
 },
 {
 "surface": "śṛṅkhalā",
@@ -398,7 +438,7 @@
 },
 {
 "surface": "matā",
-"quick_gloss": "thought"
+"quick_gloss": "regarded"
 }
 ]
 },
@@ -410,20 +450,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "khalahā",
-"quick_gloss": "evil+destroyer"
+"surface": "khala+",
+"quick_gloss": "wicked"
 },
 {
-"surface": "khalahā",
-"quick_gloss": "wicked+slayer"
+"surface": "hā",
+"quick_gloss": "slayer"
 },
 {
-"surface": "khalahā",
-"quick_gloss": "fool+remover"
+"surface": "sā",
+"quick_gloss": "she"
 },
 {
-"surface": "khalahā",
-"quick_gloss": "base+destroyer"
+"surface": "asi",
+"quick_gloss": "is"
 }
 ]
 },
@@ -435,12 +475,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "tān",
+"surface": "tāṃ",
 "quick_gloss": "them"
 },
 {
-"surface": "prāpayantī+api",
-"quick_gloss": "leading+also"
+"surface": "prāpayanty",
+"quick_gloss": "causing-to-attain"
+},
+{
+"surface": "api",
+"quick_gloss": "also"
 },
 {
 "surface": "ca",
@@ -451,16 +495,20 @@
 "quick_gloss": "them"
 },
 {
-"surface": "khalahā",
-"quick_gloss": "evil+destroyer"
+"surface": "khala+",
+"quick_gloss": "wicked"
+},
+{
+"surface": "hā",
+"quick_gloss": "slayer"
 },
 {
 "surface": "asi",
-"quick_gloss": "art"
+"quick_gloss": "are"
 },
 {
 "surface": "sā",
-"quick_gloss": "she"
+"quick_gloss": "that"
 },
 {
 "surface": "tvam",
@@ -476,20 +524,28 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "vidyujjayati",
-"quick_gloss": "lightning+conquers"
+"surface": "vidyuj",
+"quick_gloss": "lightning"
+},
+{
+"surface": "jayati",
+"quick_gloss": "conquers"
 },
 {
 "surface": "sā",
-"quick_gloss": "she"
+"quick_gloss": "that"
 },
 {
-"surface": "nityam",
+"surface": "nityaṃ",
 "quick_gloss": "always"
 },
 {
-"surface": "vaḍavāgnisahodarī",
-"quick_gloss": "mare-fire+sister"
+"surface": "vaḍavāgni+",
+"quick_gloss": "submarine-fire"
+},
+{
+"surface": "sahodarī",
+"quick_gloss": "sister"
 }
 ]
 },
@@ -501,20 +557,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "dṛḍhabandhavimocinī",
-"quick_gloss": "firm+bond+remover"
+"surface": "dṛḍha+",
+"quick_gloss": "firm"
 },
 {
-"surface": "dṛḍhabandhavimocinī",
-"quick_gloss": "strong+fetter+liberator"
+"surface": "bandha+",
+"quick_gloss": "bond"
 },
 {
-"surface": "dṛḍhabandhavimocinī",
-"quick_gloss": "hard+binding+releaser"
+"surface": "vimocinī",
+"quick_gloss": "releaser"
 },
 {
-"surface": "dṛḍhabandhavimocinī",
-"quick_gloss": "solid+bond+freeing"
+"surface": "sā",
+"quick_gloss": "she"
 }
 ]
 },
@@ -527,19 +583,27 @@
 "tokens": [
 {
 "surface": "harati",
-"quick_gloss": "she-takes-away"
+"quick_gloss": "carries-away"
 },
 {
 "surface": "smṛtimātrāt",
-"quick_gloss": "by-memory+only"
+"quick_gloss": "by-mere-remembrance"
 },
 {
 "surface": "sā",
-"quick_gloss": "she"
+"quick_gloss": "that"
 },
 {
-"surface": "dṛḍhabandhavimocinī",
-"quick_gloss": "firm+bond+remover"
+"surface": "dṛḍha+",
+"quick_gloss": "firm"
+},
+{
+"surface": "bandha+",
+"quick_gloss": "bond"
+},
+{
+"surface": "vimocinī",
+"quick_gloss": "releaser"
 }
 ]
 },
@@ -555,16 +619,16 @@
 "quick_gloss": "mother"
 },
 {
-"surface": "ambikā",
-"quick_gloss": "goddess"
+"surface": "sā",
+"quick_gloss": "she"
 },
 {
-"surface": "ambikā",
-"quick_gloss": "divine-mother"
+"surface": "asti",
+"quick_gloss": "is"
 },
 {
-"surface": "ambikā",
-"quick_gloss": "parvati"
+"surface": "eva",
+"quick_gloss": "indeed"
 }
 ]
 },
@@ -577,19 +641,23 @@
 "tokens": [
 {
 "surface": "dṛśā",
-"quick_gloss": "by-sight"
+"quick_gloss": "by-glance"
 },
 {
-"surface": "bhṛśam",
-"quick_gloss": "greatly"
+"surface": "bhṛśaṃ",
+"quick_gloss": "exceedingly"
 },
 {
 "surface": "nāśayatāt",
-"quick_gloss": "may-she-destroy"
+"quick_gloss": "may-destroy"
 },
 {
-"surface": "aroṣā",
+"surface": "a+",
 "quick_gloss": "without-anger"
+},
+{
+"surface": "roṣā",
+"quick_gloss": "wrath"
 }
 ]
 },
@@ -602,19 +670,19 @@
 "tokens": [
 {
 "surface": "ambālikā",
-"quick_gloss": "mother+little"
+"quick_gloss": "little-mother"
 },
 {
-"surface": "ambālikā",
-"quick_gloss": "ambika+small"
+"surface": "sā",
+"quick_gloss": "she"
 },
 {
-"surface": "ambālikā",
-"quick_gloss": "goddess+diminutive"
+"surface": "asti",
+"quick_gloss": "is"
 },
 {
-"surface": "ambālikā",
-"quick_gloss": "motherly"
+"surface": "eva",
+"quick_gloss": "indeed"
 }
 ]
 },
@@ -627,19 +695,19 @@
 "tokens": [
 {
 "surface": "rambālikā",
-"quick_gloss": "creeper+little"
+"quick_gloss": "plantain-shoot"
 },
 {
-"surface": "poṣaṇakāriṇī",
-"quick_gloss": "nourishment+doing"
+"surface": "poṣaṇa+",
+"quick_gloss": "nourishment"
+},
+{
+"surface": "kāriṇī",
+"quick_gloss": "making"
 },
 {
 "surface": "syāḥ",
 "quick_gloss": "may-you-be"
-},
-{
-"surface": "poṣaṇa-kāriṇī",
-"quick_gloss": "nurturing+agent"
 }
 ]
 },
@@ -655,16 +723,16 @@
 "quick_gloss": "mother"
 },
 {
-"surface": "ambā",
-"quick_gloss": "divine-mother"
+"surface": "sā",
+"quick_gloss": "she"
 },
 {
-"surface": "ambā",
-"quick_gloss": "goddess"
+"surface": "asti",
+"quick_gloss": "is"
 },
 {
-"surface": "ambā",
-"quick_gloss": "parent"
+"surface": "eva",
+"quick_gloss": "indeed"
 }
 ]
 }
