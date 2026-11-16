@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p47-v1151
-[elephant-vehicle](gajayānā) [world-named](prapañcākhyā) [gaurī](gaurī) [universal-world-maker](viśvaprapañcikā)
+[elephant+vehicle](gajayānā) [named-prapañcā](prapañcākhyā) [gaurī](gaurī) [universe-manifesting](viśvaprapañcikā)
 
 ## mukta-m0-p47-v1152
-[always](nityaṃ) [mango-fruit](āmraphalaṃ) [eating](khādantyā) [monkey-faced](kapyāsyā) [golden-colored](gaura-varṇinī)
+[eating+mango+fruit](khādantyāmraphalaṃ) [always](nityaṃ) [monkey+faced](kapyāsyā) [fair+complexioned](gaura) [colored](varṇinī)
 
 ## mukta-m0-p47-v1153
-[with-bhindipāla-and-kheṭa](bhindipālakakheṭābhyāṃ) [with-prāsa-and-asi](prāsāsibhyāṃ) [ca](ca) [joined](saṃyutā)
+[with-sling+shield](bhindipālakakheṭābhyāṃ) [with-spear+sword](prāsāsibhyāṃ) [and](ca) [endowed](saṃyutā)
 
 ## mukta-m0-p47-v1154
-[what-fruit](kaṃ-phalaṃ) [scissors](kartarīṃ) [sword](khaḍgaṃ) [bearing](bibhratī) [gentle-and-southern](saumyayāmyayoḥ)
+[kaṃ](kaṃ) [fruit](phalaṃ) [scissors](kartarīṃ) [sword](khaḍgaṃ) [bearing](bibhratī) [in-left+and-right](saumyayāmyayoḥ)
 
 ## mukta-m0-p47-v1155
-[donkey-mounted](kharasthā) [brown-colored](babhruvarṇa) [flesh-eating](piśitāśā) [very-weak](tidurbalā)
+[donkey+seated](kharasthā) [brown+colored](babhruvarṇa) [should-be](syāt) [flesh+desiring+very+emaciated](piśitāśātidurbalā)
 
 ## mukta-m0-p47-v1156
-[sound](dhvana) [iḍamaru](iḍamaru) [scissors](kartaryau) [noose](pāśaṃ) [feather](picchaṃ) [bearing](bibhratī)
+[flag+drum](dhvana) [scissors](iḍamaru[gh:) [and](dhvajaṃ) [noose](ḍamaru]kartaryau) [feather](pāśaṃ) [and](ca) [bearing](bibhratī)
 
 ## mukta-m0-p47-v1157
-[beautiful](vamanī) [flower-mounted](puṣpakasthā) [gaurī](gaurī) [yakṣa-host-accompanied](yakṣagaṇānvitā)
+[vomiting](vamanī) [on-flower+seated](puṣpakasthā) [should-be](syāt) [fair](gaurī) [by-yakṣa+hosts+accompanied](yakṣagaṇānvitā)
 
 ## mukta-m0-p47-v1158
-[with-hood](svaphaṇā) [vehicle](yāna) [portion](bhāje) [placed-hand](nyastahastā) [this](iyam)
+[on-own-hood+vehicle](svaphaṇā[k,) [resorting](g:) [and](suphaṇā]yāna) [placed+hands](bhāje) [should-be](ca) [this-one](nyastahastā) [indeed](bhavediyam)
 
 ## mukta-m0-p47-v1159
-[axe](kuṭhāraṃ) [ladduka](laḍḍukaṃ) [left](vāme) [rosary](akṣamālī) [jackfruit](panasaṃ) [then](tataḥ)
+[axe](kuṭhāraṃ) [sweet-ball](laḍḍukaṃ) [in-left](vāme) [rosary](akṣamālī) [jackfruit](panasaṃ) [then](tataḥ)
 
 ## mukta-m0-p47-v1160
-[tongue-bearing](jihvābhṛt) [vajra-holder](vajriṇī) [yellow](pītā) [four-armed](caturdor) [distorted-face](vikṛtānanā)
+[tongue+bearing](jihvābhṛd) [thunderbolt-holder](vajriṇī) [yellow](pītā) [four+armed+distorted+faced](caturdorvikṛtānanā)
 
 ## mukta-m0-p47-v1161
-[two-swan-chariot-mounted](dvihaṃsavadrathasthā) [palm-like](tālābhā) [wind-swift](vāyuvegikā)
+[on-two+swan+faced+chariot+seated](dvihaṃsavadrathasthā) [should-be](syāt) [palm-tree+colored](tālābhā) [wind+swift](vāyuvegikā)
 
 ## mukta-m0-p47-v1162
-[great-bodied](mahākāyā) [gaurī-sun](gauryaṅka) [scissors-bearing](kartarī-bhṛt) [flesh-eater](nṛkādanī)
+[great+bodied](mahākāyā) [and](ca) [fair+limbed](gauryaṅka[mū:) [scissors+bearing](gauryarka]kartarī) [human+devouring](bhṛnnṛkādanī)
 
 ## mukta-m0-p47-v1163
-[drum](tūraṃ) [ḍamaru](ḍamaruṃ) [southern](yāmye) [her](asyāḥ) [remainder](śeṣe) [khaṭvāṅga-head](khaṭvāṅgamastakam)
+[drum](tūraṃ) [small-drum](ḍamaruṃ) [in-right](yāmye) [of-her](asyāḥ) [in-rest](śeṣe) [skull-topped-staff](khaṭvāṅgam) [skull](astakam)
 
 ## mukta-m0-p47-v1164
-[indra-mounted](vīndrasthā) [universal-form](viśvarūpā) [golden-hued](hemābhā) [forest-garlanded](vanamālinī)
+[on-bird-king+seated](vīndrasthā) [universal+form](viśvarūpā) [should-be](syāt) [golden+colored](dhemābhā) [garlanded-with-forest-flowers](vanamālinī)
 
 ## mukta-m0-p47-v1165
-[bearing](bibhratī) [yama-tongue-named](yamajihvākhyā) [fierce](karālā) [buffalo-seated](mahiṣasdhitā)
+[bearing](bibhratī) [called-yama-tongue](yamajihvākhyā) [terrible](karālā) [on-buffalo+seated](mahiṣasdhitā)
 
 ## mukta-m0-p47-v1166
-[with-daitya-skull-trident-fierce](sadaityamuṇḍaśūlogrā) [victorious](jayantī) [left-hands](vāmahastayoḥ)
+[with-demon+head+and-spear+fierce](sadaityamuṇḍaśūlogrā) [victorious](jayantī) [in-left+hands](vāmahastayoḥ)
 
 ## mukta-m0-p47-v1167
-[various-beings-surrounded](nānābhūtāvṛtā) [white](śvetā) [durgā-forest-situated](durgakānanasaṃsthitā)
+[by-various+beings+surrounded](nānābhūtāvṛtā) [white](śvetā) [in-impassable+forest+dwelling](durgakānanasaṃsthitā)
 
 ## mukta-m0-p47-v1168
-[cart-mounted](śakaṭasthā) [very-fierce-faced](tidhorāsyā) [milk-colored](kṣīravarṇā) [yama-near](yamāntikā)
+[on-cart+seated](śakaṭasthā) [very+terrible+faced](atidhorāsyā) [milk+colored](kṣīravarṇā) [near-yama](yamāntikā)
 
 ## mukta-m0-p47-v1169
-[left](vāme) [hand](karaṃ) [khaṭvāṅga](khaṭvāṅgaṃ) [trident](śūlaṃ) [axe](ṭaṅkaṃ) [bearing](bibhratī)
+[in-left](vāme) [hand](karaṃ) [and](ca) [skull-topped-staff](khaṭvāṅgaṃ) [spear](śūlaṃ) [hatchet](ṭaṅkaṃ) [and](ca) [bearing](bibhratī)
 
 ## mukta-m0-p47-v1170
-[trident-staff-bearing](triśūlayaṣṭi) [southern](yāmye) [bhindipāla-gadā-sword-bearing](bhindipālagadāsibhṛt)
+[trident+staff+bearing](triśūlayaṣṭi) [in-right](bhṛdyāmye) [sling+mace+sword+bearing](bhindipālagadāsibhṛt)
 
 ## mukta-m0-p47-v1171
-[scissors-trident-bearing](kartarīśūlabhṛt) [sun](sūrye) [left](vāme) [skull-cup-bearing](muṇḍakapālabhṛt)
+[scissors+spear+bearing](kartarīśūlabhṛt) [in-right](sūrye) [in-left](vāme) [skull+cup+bearing](muṇḍakapālabhṛt)
 
 ## mukta-m0-p47-v1172
-[trident](śūlaṃ) [ḍamaru](ḍamaruṃ) [southern](yāmye) [her](asyāḥ) [half-khaṭvāṅga-bearing](kārdhakhaṭvāṅgadhṛk) [then](tataḥ)
+[spear](śūlaṃ) [small-drum](ḍamaruṃ) [in-right](yāmye) [of-her](asyāḥ) [half+skull-topped-staff+holding](kārdhakhaṭvāṅgadhṛk) [then](tataḥ)
 
 ## mukta-m0-p47-v1173
-[to-be-made](kartavyāḥ) [by-artisans](śilpibhir) [always](nityaṃ) [yoginīs](yoginyo) [all-siddhi-giving](aśeṣasiddhidāḥ)
+[should-be-made](kartavyāḥ) [by-artisans](śilpibhir) [always](nityaṃ) [yoginīs](yoginyo) [all+success+giving](aśeṣasiddhidāḥ)
 
 ## mukta-m0-p47-v1174
-[sword-goad-axe](khaḍgāṅkuśakuṭhāreṣu) [universal](viśvā) [fearless-making](abhayakṛt) [from-right](dakṣataḥ)
+[in-sword+goad+axe](khaḍgāṅkuśakuṭhāreṣu) [universe+fearlessness+making+sun-like](viśvābhayakṛdarkataḥ)
 
 ## mukta-m0-p47-v1175
-[elephant-skin-wearer](gajacarmadharo) [by-two](dvābhyāṃ) [tiger-skin](kṛttivāso) [snake-ornamented](ahibhūṣitaḥ)
+[elephant+skin+wearing](gajacarmadharo) [with-two-hands](dvābhyāṃ) [hide+clad](kṛttivāso) [snake+adorned](ahibhūṣitaḥ)
