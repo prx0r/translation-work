@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p168-v4176
-[nectar-fragrance](sudhāgandhā) [like](yathā) [enumeration](saṃkhyā) [brahmin-etc](brāhmaṇādyā) [earth](vasundharā)
+[nectar-fragrance](sudhāgandhā) [as](yathā) [number](saṃkhyā) [brahmin-etc.](brāhmaṇādyā) [earth](vasundharā)
 
 ## mukta-m0-p168-v4177
-[spoken-color-clay-not-obtained](uktavarṇamṛdo'lābhe) [color-support-is-said](varṇāvādhāramucyate)
+[mentioned-color-clay](uktavarṇamṛdo) [in-absence](alābhe) [color-support](varṇāvādhāram) [is-stated](ucyate)
 
 ## mukta-m0-p168-v4178
-[without-feet](apadanta) [clay](mṛdā) [and-indeed](caiva) [fill](pūrayedadhikā) [becomes](bhavet)
+[toothless](apadanta) [with-clay](mṛdā) [and](ca) [indeed](eva) [one-should-fill](pūrayed) [more](adhikā) [should-be](bhavet)
 
 ## mukta-m0-p168-v4179
-[earth](bhūmiṃ) [on-ground](bhuvi) [place](sthalīṃ) [making](kṛtvā) [purify-with-saffron](śodhayetkuṃkumaistathā)
+[ground](bhūmiṃ) [on-earth](bhuvi) [platform](sthalīṃ) [having-made](kṛtvā) [one-should-purify](śodhayet) [with-saffron](kuṃkumais) [likewise](tathā)
 
 ## mukta-m0-p168-v4180
-[east-pot](pūrvakumbhe) [thus-ishana](* *) [middle](madhye) [shiva](śivaṃ) [worship](yajet)
+[in-eastern-pot](pūrvakumbhe) [likewise](tathā) [Īśāna](aiśānaṃ) [*](*) [*](*) [in-middle](madhye) [Śiva](śivaṃ) [one-should-worship](yajet)
 
 ## mukta-m0-p168-v4181
-[rakshas](rakṣo) [planet-from-outside](grahādbahiḥ) [worship](* *) [rite](vidhinā) [throw](kṣipet)
+[demons](rakṣo) [planets](grahād) [outside](bahiḥ) [to-be-worshipped](pūjyā) [*](*) [*](*) [*](*) [by-rule](vidhinā) [one-should-cast](kṣipet)
 
 ## mukta-m0-p168-v4182
-[honey-sprinkled-mustard-seed](kṣaudrasiktenakhardāla) [by-mouth](mukhena) [lead](* * *)
+[honey-sprinkled](kṣaudrasiktena) [nail-mustard](khardāla) [with-mouth](mukhena) [*](*) [*](*) [*](*) [one-should-lead](nayet)
 
 ## mukta-m0-p168-v4183
-[well-bathed](susnāpya) [her](tāṃ) [earth](bhuvaḥ) [after](paścāt) [spade-etc](kuddālādyaṃ) [fully-worship](prapūjayet)
+[having-well-bathed](susnāpya) [that](tāṃ) [of-earth](bhuvaḥ) [afterwards](paścāt) [hoe-etc.](kuddālādyaṃ) [one-should-worship](prapūjayet)
 
 ## mukta-m0-p168-v4184
-[making](vidhāya) [five-sounds](pañcaghoṣāni) [auspicious-recitation-with-also](svastivācanakairapi)
+[having-performed](vidhāya) [five-sounds](pañcaghoṣāni) [with-svasti-vācana-reciters](svastivācanakair) [also](api)
 
 ## mukta-m0-p168-v4185
-[city-thus-anointed](purasyathākta) [there-indeed](tatraiva) [moment](kṣaṇaṃ) [standing](sthitvā) [pleased-mind](prasannadhīḥ)
+[of-city](purasya) [as-said](athākta) [there](tatra) [indeed](eva) [for-a-moment](kṣaṇaṃ) [having-stood](sthitvā) [with-pleased-mind](prasannadhīḥ)
 
 ## mukta-m0-p168-v4186
-[ishana](īśānaṃ) [thread](* *) [eye-pot](drukumbha) [from-circumambulation](paribhramāt)
+[Īśāna](īśānaṃ) [thread](tantuku) [*](*) [*](*) [*](*) [by-pot-circumambulation](drukumbha+paribhramāt)
 
 ## mukta-m0-p168-v4187
-[thus](evaṃ) [done](kṛte) [but](tu) [earth](bhūme'stu) [possession-declared](parigrahamudīritam)
+[thus](evaṃ) [being-done](kṛte) [indeed](tu) [of-ground](bhūme) [let-be](astu) [taking-possession](parigraham) [declared](udīritam)
 
 ## mukta-m0-p168-v4188
-[digging-then](khanitvā'pyatha) [king-knowing](rājñātvā) [rite-remove](* * nvidhinoddharet)
+[having-dug](khanitvā) [also](api) [then](atha) [having-known](rājñātvā) [*](śa) [*](*) [*](*) [by-rule](nvidhinā) [one-should-remove](uddharet)
 
 ## mukta-m0-p168-v4189
-[guru-offering-where-standing](gurūbalivayatrasthastatra) [indeed](vai) [homa-thorn](homaśalyakam)
+[heavy-strong](gurūbali) [in-that-place](vayatrasthas) [there](tatra) [indeed](vai) [homa-obstacle](homaśalyakam)
 
 ## mukta-m0-p168-v4190
-[slow-if-iron](mandaścedāyasaṃ) [thorn](* * * * *) [know-then](vettadā)
+[slow](mandaś) [if](ced) [iron](āyasaṃ) [obstacle](śalyaṃ) [*](*) [*](*) [*](*) [*](*) [*](*) [one-should-know](vettadā)
 
 ## mukta-m0-p168-v4191
-[that-time](tatkāla) [offspring-of](praśrajānāṃ) [indeed](tu) [letters](akṣarāṇi) [become](bhavanti) [indeed](hi)
+[at-that-time](tatkāla) [of-those-arising](praśrajānāṃ) [indeed](tu) [syllables](akṣarāṇi) [are](bhavanti) [indeed](hi)
 
 ## mukta-m0-p168-v4192
-[e-letter-and](ekāraśca) [thus-o-letter](tathokāraṃ) [five-a-letter](pañcākāramidaṃ) [becomes](bhavet)
+[syllable-e](ekāraś) [and](ca) [likewise](tathā) [syllable-u](ukāraṃ) [five-syllables](pañcākāram) [this](idaṃ) [should-be](bhavet)
 
 ## mukta-m0-p168-v4193
-[earth-water](pṛthvījalaṃ) [fire-air](vahnirmarut) [ether](vyoma) [and-indeed](caiva) [in-order](yathākramam)
+[earth](pṛthvī) [water](jalaṃ) [fire](vahniḥ) [wind](marut) [ether](vyoma) [and](ca) [indeed](eva) [in-order](yathākramam)
 
 ## mukta-m0-p168-v4194
-[sun](sūre) [and](ca) [guru-poem](gurukāvye) [and](ca) [earth-son](bhūsute) [mercury](budha) [indeed](eva) [and](ca)
+[in-sun](sūre) [and](ca) [in-Jupiter-Venus](gurukāvye) [and](ca) [in-Mars](bhūsute) [Mercury](budha) [indeed](eva) [and](ca)
 
 ## mukta-m0-p168-v4195
-[thus](evaṃ) [having-led](vinītvā) [by-them](tairevaṃ) [thorn-etc](śalyādikamudāharet)
+[thus](evaṃ) [having-determined](vinītvā) [by-those](tairevaṃ) [obstacle-etc.](śalyādikam) [one-should-declare](udāharet)
 
 ## mukta-m0-p168-v4196
-[two-five](dvipañca) [crow-and-also](vāyasīścāpi) [east-etc](pūrvādiṣu) [in-order](yathā kramam)
+[two-times-five](dvipañca) [crows](vāyasīś) [and](ca) [also](api) [in-east-etc.](pūrvādiṣu) [in-order](yathā+kramam)
 
 ## mukta-m0-p168-v4197
-[that-side-place-thorn-of](tatpārśvasthānaśalyānāṃ) [knowing-that-thorn-circle-from](jñānantacchalyacakrataḥ)
+[of-those-adjoining-places](tatpārśvasthāna) [of-obstacles](śalyānāṃ) [knowledge](jñānan) [from-that-obstacle-wheel](tacchalyacakrataḥ)
 
 ## mukta-m0-p168-v4198
-[thorn-freed](śalyamuktaṃ) [but](tu) [place-even](sthānepi) [speed-slowness-cause-from](śīghramandatvakāraṇāt)
+[obstacle](śalyam) [stated](uktaṃ) [indeed](tu) [in-place](sthāne) [also](api) [due-to-quickness-slowness](śīghramandatva+kāraṇāt)
 
 ## mukta-m0-p168-v4199
-[filling](āpūrya) [quarter-nail-dug-ness](pādonakhātatvaṃ) [old-men-with-mudgaras-struck](jarairmudgārakāhataiḥ)
+[having-filled](āpūrya) [to-quarter-foot-depth](pādonakhātatvaṃ) [with-stones](jarair) [struck-by-hammers](mudgārakāhataiḥ)
 
 ## mukta-m0-p168-v4200
-[to-be-spoken](vakṣyamāṇaṃ) [pavilion-and](maṇḍapaṃca) [until](yāvat) [common-named](sāmānyakākhyakaḥ)
+[to-be-described](vakṣyamāṇaṃ) [pavilion](maṇḍapaṃ) [and](ca) [as-far-as](yāvat) [called-common](sāmānyakākhyakaḥ)

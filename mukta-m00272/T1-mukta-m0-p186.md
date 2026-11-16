@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p186-v4626
-oṃ[om] hrīṃ[hrīṃ] hrīṃ[hrīṃ] saḥ[saḥ] mahāgauri[mahā+gaurī] rudradayite[rudra+dayitā] namaḥ[namaḥ]
+[oṃ](oṃ) [hrīṃ](hrīṃ) [hrīṃ](hrīṃ) [saḥ](saḥ) [mahā+gauri](mahāgauri) [rudra+dayite](rudradayite) [namaḥ](namaḥ)
 
 ## mukta-m0-p186-v4627
-iti[iti] mūlamantraḥ[mūla+mantraḥ] oṃ[om] gāṃ[gāṃ] hṛdayāya[hṛdayāya] namaḥ[namaḥ]
+[iti](iti) [mūla+mantraḥ](mūlamantraḥ) [oṃ](oṃ) [gāṃ](gāṃ) [hṛdayāya](hṛdayāya) [namaḥ](namaḥ)
 
 ## mukta-m0-p186-v4628
-oṃ[om] gaiṃ[gaiṃ] kavacāya[kavacāya] hum[hum] oṃ[om] gauṃ[gauṃ] netratrayāya[netra+trayāya] vauṣaṭ[vauṣaṭ]
+[oṃ](oṃ) [gaiṃ](gaiṃ) [kavacāya](kavacāya) [hum](hum) [oṃ](oṃ) [gauṃ](gauṃ) [netra+trayāya](netratrayāya) [vauṣaṭ](vauṣaṭ)
 
 ## mukta-m0-p186-v4629
-mantra[mantra] pūrvoktaḥ[pūrva+uktaḥ] subhagādyā[subhaga+ādyā] anantaram[anantaram]
+[lost](* ) [lost](* ) [lost](* ) [mantraḥ](mantra) [pūrva+uktaḥ](pūrvoktaḥ) [subhagā+ādyāḥ](subhagādyā) [anantaram](anantaram)
 
 ## mukta-m0-p186-v4630
-oṃ[om] saiṃ[saiṃ] kāmamālinyai[kāma+mālinyai] namaḥ[namaḥ]
+[oṃ](oṃ) [saiṃ](saiṃ) [kāma+mālinyai](kāmamālinyai) [namaḥ](namaḥ) [lost](* ) [lost](* ) [lost](* ) [lost](* ) [lost](* ) [lost](* )
 
 ## mukta-m0-p186-v4631
-evaṃ[evaṃ] dhyātvā[dhyātvā] susaṃpūjya[su+saṃpūjya] sugandhaiḥ[sugandhaiḥ] kusumākṣataiḥ[kusuma+akṣataiḥ]
+[evam](evaṃ) [dhyātvā](dhyātvā) [su+saṃpūjya](susaṃpūjya) [su+gandhaiḥ](sugandhaiḥ) [kusuma+akṣataiḥ](kusumākṣataiḥ)
 
 ## mukta-m0-p186-v4632
-vidyāntāsanaśarya[vidyā+antāsana+śarya] gaṃsa[gaṃsa] trayamatho[traya+matho] nyaset[nyaset]
+[vidyā+anta+āsana+śarya](vidyāntāsanaśarya) [lost](* ) [gaṃsa](gaṃsa) [trayam](trayam) [athaḥ](atho) [nyaset](nyaset)
 
 ## mukta-m0-p186-v4633
-śuddhyādi[śuddhi+ādi] pūrvavat[pūrva+vat] kuryāt[kuryāt] kṛtvā[kṛtvā] piṇḍaṃ[piṇḍaṃ] ca[ca] pūrvavat[pūrva+vat]
+[śuddhi+ādi](śuddhyādi) [pūrva+vat](pūrvavat) [kuryāt](kuryāt) [kṛtvā](kṛtvā) [piṇḍam](piṇḍaṃ) [ca](ca) [pūrva+vat](pūrvavat)
 
 ## mukta-m0-p186-v4634
-śaktyā[śaktyā] ca[ca] sarvato[sarvatas] mukhyāḥ[mukhyāḥ] saṃsthāpya[saṃsthāpya] vidhivat[vidhi+vat] tataḥ[tataḥ]
+[śaktyā](śaktyā) [ca](ca) [sarvataḥ](sarvato) [mukhyāḥ](mukhyāssaṃsthāpya) [saṃsthāpya](mukhyāssaṃsthāpya) [vidhi+vat](vidhivattataḥ) [tataḥ](vidhivattataḥ)
 
 ## mukta-m0-p186-v4635
-myaṃ[myaṃ] tathā[tathā] kṣantaṃ[kṣantaṃ] nāma[nāma] dhārayet[dhārayet]
+[lost](* ) [lost](* ) [lost](* ) [lost](* ) [myaṃ](myaṃ) [tathā](tathā) [lost](* ) [lost](* ) [kṣa+antam](kṣantaṃ) [nāma](nāma) [dhārayet](dhārayet)
 
 ## mukta-m0-p186-v4636
-vakṣyehaṃ[vakṣye+ahaṃ] nandikeśvara[nandikeśvara]
+[lost](* ) [lost](* ) [lost](* ) [lost](* ) [lost](* ) [lost](* ) [lost](* ) [lost](* ) [vakṣye](vakṣyehaṃ) [aham](vakṣyehaṃ) [nandikeśvara](nandikeśvara)
 
 ## mukta-m0-p186-v4637
-ātmārthaṃ[ātma+arthaṃ] ca[ca] parārthaṃ[para+arthaṃ] ca[ca] sthāpanaṃ[sthāpanaṃ] ca[ca] vidhīyate[vidhīyate]
+[ātma+artham](ātmārthaṃ) [ca](ca) [para+artham](parārthaṃ) [ca](ca) [sthāpanam](sthāpanaṃ) [ca](ca) [vidhīyate](vidhīyate)
 
 ## mukta-m0-p186-v4638
-maṇṭapaṃ[maṇṭapaṃ] maṇḍalaṃ[maṇḍalaṃ] kuṇḍaṃ[kuṇḍaṃ] pūrvavat[pūrva+vat] nandikeśvara[nandikeśvara]
+[maṇṭapam](maṇṭapaṃ) [maṇḍalam](maṇḍalaṃ) [kuṇḍam](kuṇḍaṃ) [pūrva+vat](pūrvavat) [nandikeśvara](nandikeśvara)
 
 ## mukta-m0-p186-v4639
-unmattaṃ[unmattaṃ] lalitaṃ[lalitaṃ] bhīmaṃ[bhīmaṃ] tīkṣṇadaṃṣṭraṃ[tīkṣṇa+daṃṣṭraṃ] namam[namam]
+[unmattam](unmattaṃ) [lalitam](lalitaṃ) [bhīmam](bhīmaṃ) [tīkṣṇa+daṃṣṭram](tīkṣṇadaṃṣṭraṃ) [namam](namam)
 
 ## mukta-m0-p186-v4640
-vikaṭaṃ[vikaṭaṃ] bhīmasaṃjñaṃ[bhīma+saṃjñaṃ] ca[ca] dvārapārśve[dvāra+pārśve] prakalpayet[prakalpayet]
+[vikaṭam](vikaṭaṃ) [bhīma+saṃjñam](bhīmasaṃjñaṃ) [ca](ca) [dvāra+pārśve](dvārapārśve) [prakalpayet](prakalpayet)
 
 ## mukta-m0-p186-v4641
-āmodaḥ[āmodaḥ] ca[ca] pramodaḥ[pramodaḥ] ca[ca] sumukhaḥ[sumukhaḥ] durmukhaḥ[durmukhaḥ] tathā[tathā]
+[āmodaḥ](āmodaśca) [ca](āmodaśca) [pramodaḥ](pramodaśca) [ca](pramodaśca) [su+mukhaḥ](sumukho) [dur+mukhaḥ](durmukhastathā) [tathā](durmukhastathā)
 
 ## mukta-m0-p186-v4642
-aṣṭamūrtyadhipāḥ[aṣṭa+mūrti+adhipāḥ] hyete[hi+ete] athavā[athavā] hastivaktrakaḥ[hasti+vaktrakaḥ]
+[aṣṭa+mūrti+adhipāḥ](aṣṭamūrtyadhipā) [hi](hyete) [ete](hyete) [athavā](athavā) [hasti+vaktrakaḥ](hastivaktrakaḥ)
 
 ## mukta-m0-p186-v4643
-daṃṣṭrākaralavadanau[daṃṣṭrā+karala+vadanau] skandapādakau[skanda+pādakau]
+[daṃṣṭrā+karala+vadanau](daṃṣṭrākaralavadanau) [lost](* ) [lost](* ) [lost](* ) [skanda+pādakau](skandapādakau)
 
 ## mukta-m0-p186-v4644
-gajānano[gaja+ānanaḥ] mahākāyaḥ[mahā+kāyaḥ] pralambodara[pralamba+udara] saṃyutaḥ[saṃyutaḥ]
+[gaja+ānanaḥ](gajānano) [mahā+kāyaḥ](mahākāyaḥ) [pralamba+udara](pralambodara) [saṃyutaḥ](saṃyutaḥ)
 
 ## mukta-m0-p186-v4645
-sandhyābhrasannibhaḥ[sandhyā+abhra+sannibhaḥ] vāpi[vā+api] nīlanīraruhaprabhaḥ[nīla+nīra+ruha+prabhaḥ]
+[sandhyā+abhra+saṃnibhaḥ](sandhyābhrasannibhovāpi) [vā](sandhyābhrasannibhovāpi) [api](sandhyābhrasannibhovāpi) [nīla+nīraruha+prabhaḥ](nīlanīraruhaprabhaḥ)
 
 ## mukta-m0-p186-v4646
-śyāmavarṇamayaḥ[śyāma+varṇa+mayaḥ] vāpi[vā+api] yatheṣṭaphalayogataḥ[yatheṣṭa+phala+yogataḥ]
+[śyāma+varṇa+mayaḥ](śyāmavarṇamayo) [vā](śyāmavarṇamayo) [api](śyāmavarṇamayo) [yathā+iṣṭa+phala+yogataḥ](yatheṣṭaphalayogataḥ)
 
 ## mukta-m0-p186-v4647
-kirīṭa[kirīṭa] makuṭopetaṃ[makuṭa+upetaṃ] śuklayajñopavītavān[śukla+yajñopavīta+vān]
+[kirīṭa](kirīṭa) [makuṭa+upetam](makuṭopetaṃ) [śukla+yajña+upavīta+vān](śuklayajñopavītavān)
 
 ## mukta-m0-p186-v4648
-pīṭhasthaṃ[pīṭha+sthaṃ] mūṣikasthaṃ[mūṣika+sthaṃ] vā[vā] siṃhasthaṃ[siṃha+sthaṃ] vātha[vā+atha] kalpayet[kalpayet]
+[pīṭha+stham](pīṭhasthaṃ) [mūṣika+stham](mūṣikasthaṃ) [vā](vā) [siṃha+stham](sihmasthaṃ) [vā](vā) [atha](vātha) [kalpayet](kalpayet)
 
 ## mukta-m0-p186-v4649
-jalādhivāsanaṃ[jala+adhivāsanaṃ] kuryāt[kuryāt] lambakūrca[lamba+kūrca] samanvitam[samanvitam]
+[jala+adhivāsanam](jalādhivāsanaṃ) [kuryāt](kuryāllambakūrca) [lamba+kūrca](kuryāllambakūrca) [samanvitam](samanvitam)
 
 ## mukta-m0-p186-v4650
-kuṇḍāni[kuṇḍāni] pañcakaṃ[pañcakaṃ] ca[ca] evam[evam] athavā[athavā] parikalpayet[parikalpayet]
+[kuṇḍāni](kuṇḍāni) [pañcakam](pañcakaṃ) [ca](ca) [evam](caivamathavā) [athavā](caivamathavā) [parikalpayet](parikalpayet)

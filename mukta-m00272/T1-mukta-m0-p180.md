@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p180-v4476
-[first](pūrvaṃ) [but](tu) [pavilion+door](maṇḍapadvāraṃ) [there](tatra) [throne+seated](bhadrāsanasthitān)
+[first](pūrvaṃ) [indeed](tu) [pavilion+door](maṇḍapa+dvāraṃ) [there](tatra) [auspicious-seat+seated-ones](bhadrāsana+sthitān)
 
 ## mukta-m0-p180-v4477
-[unknown](*) [unknown](*) [unknown](*) [unknown](*) [unknown](*) [west](paścime) [placing](nyasya) [stone](śilāṃ) [indeed](vai) [named](saṃjñatām)
+[lacuna](* * * * *) [in-the-west](paścime) [having-placed](nyasya) [stone](śilāṃ) [indeed](vai) [named](saṃjñatām)
 
 ## mukta-m0-p180-v4478
-[there](tatra) [from+weapons+hundred](śastraśatāllabdha) [sleep+pot+fixed+seat](nidrākumbhadhruvāsanam)
+[there](tatra) [weapon+hundred+obtained](śastra+śata+āllabdha) [sleep+pitcher+fixed-seat](nidrā+kumbha+dhruva+āsanam)
 
 ## mukta-m0-p180-v4479
-[after](paścāt) [hand](skaraṃ) [fruit+head](phalaśirasā) [unknown](*) [unknown](*) [unknown](*) [unknown](*) [unknown](*) [unknown](*) 
+[afterwards](paścāt) [lacuna](skaraṃ) [fruit+head](phala+śirasā) [and](ca) [lacuna](* * * * * *)
 
 ## mukta-m0-p180-v4480
-[footed](padatāṃ) [and](ca) [planets+etc](grahādīni) [by+heart](hṛdā) [give](dadyāt) [according+to+own+power](svaśaktitaḥ)
+[of-those-falling](padatāṃ) [and](ca) [planets+etc.](graha+ādīni) [with-heart-mantra](hṛdā) [one-should-give](dadyāt) [according-to-own-power](sva+śaktitaḥ)
 
 ## mukta-m0-p180-v4481
-[there](tatra) [standing](sthito) [guru](guruḥ) [after](paścāt) [thirty+six+tattva+collection](ṣaṭtriṃśattatvasaṃcayam)
+[there](tatra) [standing](sthitaḥ) [teacher](guruḥ) [afterwards](paścāt) [thirty-six+principle+collection](ṣaṭtriṃśat+tattva+saṃcayam)
 
 ## mukta-m0-p180-v4482
-[placing](vinyasya) [flower+garlands](puṣpamālābhiḥ) [tripuṇḍra](tripuṇṭraṃ) [should+arrange](parikalpayet)
+[having-arranged](vinyasya) [with-flower+garlands](puṣpa+mālābhiḥ) [triple-mark](tripuṇṭraṃ) [one-should-fashion](parikalpayet)
 
 ## mukta-m0-p180-v4483
-[unknown](*) [unknown](*) [unknown](*) [unknown](*) [placing](vinyasye) [oblation+knowledge](darghyaviddhyā) [by+śiva+self](śivātmanā)
+[lacuna](* * * *ṇa) [having-arranged](vinyasye) [with-arghya+piercing](darghya+viddhyā) [with-Śiva-nature](śiva+ātmanā)
 
 ## mukta-m0-p180-v4484
-[earth](bhū) [fire](vahni) [sacrificer](yajamāna) [sun](arka) [water](jala) [air](vāyu) [moon](niśākara) [from](āt)
+[earth+fire+sacrificer+sun](bhū+vahni+yajamāna+arka) [water+wind+moon](jala+vāyu+niśākarāt)
 
 ## mukta-m0-p180-v4485
-[śarva](śarvaṃ) [paśupati](paśupatiṃ) [and](ca) [fierce](ugraṃ) [rudra](rudraṃ) [bhava](bhavam) [then](atha) [īśvara](īśvaram)
+[Śarva](śarvaṃ) [Paśupati](paśupatiṃ) [and-Ugra](ca+ugraṃ) [Rudra](rudraṃ) [Bhava](bhavam) [then-Īśvara](atha+īśvaram)
 
 ## mukta-m0-p180-v4486
-[unknown](*) [unknown](*) [unknown](*) [unknown](*) [unknown](*) [unknown](*) [rasa](rasa) [pavasā](pavasāśca) [three+night](trirātrika)
+[lacuna](* * * * * *) [essence](rasa) [and-lacuna](pavasāḥ+ca) [three-night-rite](trirātrika)
 
 ## mukta-m0-p180-v4487
-[earth](kṣma) [unknown](*) [unknown](*) [unknown](*) [unknown](*) [unknown](*) [unknown](*) [unknown](*) [unknown](*) [unknown](*) [unknown](*) [unknown](*) [unknown](*) [unknown](*) [thus](stathā)
+[earth](kṣma) [lacuna](* * * * * * * * * * * * *) [likewise](tathā)
 
 ## mukta-m0-p180-v4488
-[creation](sṛṣṭi) [in+order](krameṇa) [for+enjoyment](bhogāya) [for+liberation](muktyarthaṃ) [reverse](viparītakam)
+[creation+in-order](sṛṣṭi+krameṇa) [for-enjoyment](bhogāya) [for-liberation](mukti+arthaṃ) [in-reverse](viparītakam)
 
 ## mukta-m0-p180-v4489
-[there](tatra) [two](dvayaṃ) [place](nyasedvāpya) [everywhere](sarvatra) [two+cause](dvyasakāraṇam)
+[there](tatra) [pair](dvayaṃ) [one-should-place](nyaset) [or](vā+api) [everywhere](sarvatra) [pair+cause](dvaya+sakāraṇam)
 
 ## mukta-m0-p180-v4490
-[to+be+seen](draṣṭavyā) [forms+and](mūrtipāścaite) [enjoyers](bhogino) [unknown](ma) [unknown](*) [unknown](*) [unknown](*) [unknown](*) 
+[to-be-seen](draṣṭavyāḥ) [form+nooses](mūrti+pāśaḥ) [and-these](ca+ete) [enjoying](bhoginaḥ) [lacuna](ma * * * *)
 
 ## mukta-m0-p180-v4491
-[bathed](kṛtasnātā) [unknown](*) [unknown](*) [unknown](*) [unknown](*) [sandal+etc](candanādi) [unknown](*) [unknown](*) [unknown](*) [unknown](*) 
+[having-performed-bath](kṛta+snātāḥ) [lacuna](* * * *) [sandalwood+etc.](candana+ādi) [lacuna](* * * *)
 
 ## mukta-m0-p180-v4492
-[red+five](raktapañcaka) [joined](saṃyuktaṃ) [of+liṅga](liṃgasya) [north](uttarataḥ) [standing](sthitān)
+[red+pentad+joined](rakta+pañcaka+saṃyuktaṃ) [of-the-liṅga+north](liṅgasya+uttarataḥ) [standing](sthitān)
 
 ## mukta-m0-p180-v4493
-[bathed+etc](kṛtasnānādikāntadvā) [at+liṅga+root](liṃgamūle) [śivā](śivāṃ) [place](nyaset)
+[having-performed-bath+etc.-then](kṛta+snāna+ādika+anta+dvā) [at-liṅga+base](liṅga+mūle) [Śivā](śivāṃ) [one-should-place](nyaset)
 
 ## mukta-m0-p180-v4494
-[tāra](tārapūrvaṃ) [and](ca) [mūsūṃhrīṃ](mūsūṃhrīṃ) [middle+etc](madhyādanyatamena) [and](ca)
+[tāra+preceded](tāra+pūrvaṃ) [and](ca) [mantra](mūsūṃhrīṃ) [from-middle+any-one](madhyāt+anyatamena) [and](ca)
 
 ## mukta-m0-p180-v4495
-[unknown](*) [unknown](*) [unknown](*) [unknown](*) [unknown](*) [unknown](*) [should+do](kuryād) [with+ashes+kuśa+sesame](bhasmadarbhatilairyutaḥ)
+[lacuna](* * * * * *) [one-should-do](kuryāt) [with-ashes+kuśa-grass+sesame+joined](bhasma+darbha+tilaiḥ+yutaḥ)
 
 ## mukta-m0-p180-v4496
-[oṃ hrīṃ hrāṃ saḥ oṃ hāṃ bhauri rudra](oṃ hrīṃ hrāṃ saḥ oṃ hāṃ bhauri rudra) [thus](ityete) [svāhā](svāhetyapi) [also](ca) [pedestal](piṇḍikām)
+[mantra](oṃ hrīṃ hrāṃ saḥ oṃ hāṃ bhauri rudra) [thus-these](iti+ete) [with-svāhā](svāhā+iti+api) [and](ca) [pedestal](piṇḍikām)
 
 ## mukta-m0-p180-v4497
-[holder](dhārikā) [very+blazing](dīptamatyugrā) [moonlight](jyotsnā) [cetāsalotkaṭā](cetāsalotkaṭā)
+[Dhārikā](dhārikā) [Dīptā](dīptā) [very-fierce](ati+ugrā) [Jyotsnā](jyotsnā) [and](ca+etā) [exceedingly-fierce](sala+utkaṭā)
 
 ## mukta-m0-p180-v4498
-[vāmā](vāmā) [jyeṣṭhā](jyeṣṭhā) [kriyā+jñāni](kriyājñāni) [ceṣṭā](ceṣṭā) [three](tisro) [or](athavā) [place](nyaset)
+[Vāmā](vāmā) [Jyeṣṭhā](jyeṣṭhā) [Kriyā](kriyā) [Jñāni](jñāni) [and-Iceṣṭā](ca+iṣṭā) [three](tisraḥ) [or](atha+vā) [one-should-place](nyaset)
 
 ## mukta-m0-p180-v4499
-[not](mā) [liberation](mokṣā) [decay](kṣayā) [sleep](nidrā) [death](mṛtyuṃ) [māyā](māyā) [fear](bhaya) [then](tha) [wheel](cakratā)
+[Mā](mā) [Mokṣā](mokṣā) [Kṣayā](kṣayā) [Nidrā](nidrā) [Mṛtyu](mṛtyuṃ) [Māyā](māyā) [Abhayā](abhaya) [then-Cakratā](tha cakratā)
 
 ## mukta-m0-p180-v4500
-[in+three+forms](triṣu mūrtiṣu) [named](ātmavidyāśivākhyeṣu) [place](vinyaset)
+[in-Ātman+Vidyā+Śiva+named](ātma+vidyā+śiva+ākhyeṣu) [in-three](triṣu) [in-forms](mūrtiṣu) [one-should-place](vinyaset)
