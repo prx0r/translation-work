@@ -2,52 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p74-v1826
-[gloss](kathaṃ) [gloss](tadanuvṛttirvai) [gloss](bhavedavitathātmikā)
+[how](kathaṃ) [its+continuity+indeed](tat+anuvṛttiḥ+vai) [may-be+non-false+natured](bhavet+a+vitatha+ātmikā)
+
 ## mukta-m0-p74-v1827
-[gloss](bhavedityarthaḥ)
+[may-be+thus+meaning](bhavet+iti+arthaḥ)
+
 ## mukta-m0-p74-v1828
-[gloss](rūpamasti) [gloss](sarvadaiva) [gloss](nirjharairbheditātmanām)
+[form+exists](rūpam+asti) [always+indeed](sarvadā+eva) [of-those-whose-nature-is-divided+by-streams](nirjharaiḥ+bhedita+ātmanām)
+
 ## mukta-m0-p74-v1829
-[gloss](nācalānāmastītyarthaḥ)
+[not+of-mountains+exists+thus+meaning](na+acalānām+asti+iti+arthaḥ)
+
 ## mukta-m0-p74-v1830
-[gloss](sarvatastu) [gloss](vibhidyante) [gloss](parvatāḥ) [gloss](sarvadaiva) [gloss](hi)
+[on-all-sides+but](sarvataḥ+tu) [are-divided](vibhidyante) [mountains](parvatāḥ) [always+indeed](sarvadā+eva) [for](hi)
+
 ## mukta-m0-p74-v1831
-[gloss](vanagajādibhiḥ)
+[by-forest+elephants+and-others](vana+gaja+ādibhiḥ) [k: dayaḥ]([k: dayaḥ])
+
 ## mukta-m0-p74-v1832
-[gloss](atha) [gloss](te) [gloss](sampravakṣyāmi) [gloss](paśya) [gloss](sūkṣmadhiyā) [gloss](nṛpa)
+[now](atha) [to-you](te) [I-shall-declare](sampravakṣyāmi) [see](paśya) [with-subtle+intellect](sūkṣma+dhiyā) [O-king](nṛpa)
+
 ## mukta-m0-p74-v1833
-[gloss](svāpna) [gloss](vaktumāha) [gloss](atheti) [gloss](paśya) [gloss](vicāraya)
+[dream](svāpna]) [to-speak+says](vaktum+āha) [-]( -) [now+thus](atha+iti) [|](|) [see](paśya) [consider](vicāraya)
+
 ## mukta-m0-p74-v1834
-[gloss](aparicchinnā'nuvṛttiḥ) [gloss](kāryeṣvatyantadurlabhā)
+[unlimited+continuity](aparicchinnā+anuvṛttiḥ) [in-effects](kāryeṣu) [extremely+difficult-to-obtain](atyanta+durlabhā)
+
 ## mukta-m0-p74-v1835
-[gloss](siddhajāgradbhāvasyāparicchinnānuvṛttirdurlabhaivetyarthaḥ)
+[of-established+waking+state](siddha+jāgrat+bhāvasya) [unlimited+continuity](aparicchinnā+anuvṛttiḥ) [difficult-to-obtain+indeed+thus+meaning](durlabhā+eva+iti+arthaḥ)
+
 ## mukta-m0-p74-v1836
-[gloss](iti) [gloss](cet) [gloss](kāraṇaṃ) [gloss](rūpaṃ) [gloss](pṛthivyādimayaṃ) [gloss](kila)
+[thus](iti) [if](cet) [causal](kāraṇaṃ) [form](rūpaṃ) [consisting-of+earth+and-others](pṛthivī+ādi+mayaṃ) [indeed](kila)
+
 ## mukta-m0-p74-v1837
-[gloss](kāraṇe) [gloss](sūkṣmarūpeṇāvasthānāditi) [gloss](bhāvaḥ)
+[in-cause](kāraṇe) [in-subtle+form](sūkṣma+rūpeṇa) [existing+thus+meaning](avasthānāt+iti) [sense](bhāvaḥ)
+
 ## mukta-m0-p74-v1838
-[gloss](atha) [gloss](svāpnasya) [gloss](bādho) [gloss](hi) [gloss](jāgrati) [gloss](hyanubhūyate)
+[now](atha) [of-dream](svāpnasya) [sublation](bādhaḥ) [indeed](hi) [in-waking](jāgrati) [indeed](hi) [is-experienced](anubhūyate)
+
 ## mukta-m0-p74-v1839
-[gloss](svāpnabhāvānāṃ) [gloss](bādho) [gloss](jāgrati) [gloss](sarvairanubhūyata) [gloss](ityarthaḥ)
+[of-dream+states](svāpna+bhāvānāṃ) [sublation](bādhaḥ) [in-waking](jāgrati) [by-all](sarvaiḥ) [is-experienced+thus+meaning](anubhūyate+iti+arthaḥ)
+
 ## mukta-m0-p74-v1840
-[gloss](iti) [gloss](cecchṛṇu) [gloss](vakṣyāmi) [gloss](bādho) [gloss](hyanavabhāsanam)
+[thus](iti) [if](cet) [listen](śṛṇu) [I-shall-say](vakṣyāmi) [sublation](bādhaḥ) [indeed](hi) [non-appearance](an+avabhāsanam)
+
 ## mukta-m0-p74-v1841
-[gloss](bādha) [gloss](ityucyata) [gloss](iti) [gloss](jñeyam)
+[sublation](bādhaḥ) [thus](iti) [is-called](ucyate) [thus](iti) [to-be-known](jñeyam)
+
 ## mukta-m0-p74-v1842
-[gloss](atha) [gloss](bādho) [gloss](hyapramāṇadarśanaṃ) [gloss](cettadā) [gloss](śṛṇu)
+[now](atha) [sublation](bādhaḥ) [indeed](hi) [non-valid-cognition+seeing](a+pramāṇa+darśanaṃ) [if](cet) [then](tadā) [listen](śṛṇu)
+
 ## mukta-m0-p74-v1843
-[gloss](bhādaḥ) [gloss](nahyevaṃvidhabādho) [gloss](jāgratyastīti) [gloss](bhāvaḥ)
+[sublation](bhādaḥ) [not+indeed](na+hi) [thus+kind](evaṃ+vidha) [sublation](bādhaḥ) [in-waking](jāgrati) [exists+thus+meaning](asti+iti) [sense](bhāvaḥ)
+
 ## mukta-m0-p74-v1844
-[gloss](jñātavijñeyatatvānāmapramāṇadṛśiḥ) [gloss](sphuṭā)
+[of-those-who-have-known+the-to-be-known+truth](jñāta+vijñeya+tatvānām) [non-valid-cognition+seeing](a+pramāṇa+dṛśiḥ) [clear](sphuṭā)
+
 ## mukta-m0-p74-v1845
-[gloss](cetarat) [gloss](iti) [gloss](nītyā) [gloss](jñātavijñeyatattvānāṃ) [gloss](jāgrati) [gloss](sphuṭā'pramāṇadṛśiḥ)
+[otherwise](cetarat) [thus](iti) [by-the-rule](nītyā) [of-those-who-have-known+the-to-be-known+truth](jñāta+vijñeya+tattvānāṃ) [in-waking](jāgrati) [clear+non-valid-cognition+seeing](sphuṭā+a+pramāṇa+dṛśiḥ)
+
 ## mukta-m0-p74-v1846
-[gloss](dīrghakālo'pi) [gloss](ca) [gloss](svapne) [gloss](bhāsate) [gloss](nirviśeṣataḥ)
+[long+time](dīrgha+kālaḥ) [also](api) [and](ca) [in-dream](svapne) [appears](bhāsate) [without-difference](nir+viśeṣataḥ)
+
 ## mukta-m0-p74-v1847
-[gloss](nirviśeṣata) [gloss](iti) [gloss](jāgratkālavadaviśeṣād) [gloss](bhāsata) [gloss](ityarthaḥ)
+[without-difference+thus](nir+viśeṣataḥ+iti) [of-waking+time](jāgrat+kāla+vat) [without-distinction](a+viśeṣāt) [k: dasata]([k: dasata]) [appears+thus+meaning](bhāsate+iti+arthaḥ)
+
 ## mukta-m0-p74-v1848
-[gloss](svāpnabhāvastena) [gloss](tulyo) [gloss](jāgrabhāvo'pi) [gloss](sarvaśaḥ)
+[dream+state](svāpna+bhāvaḥ) [therefore](tena) [equal](tulyaḥ) [waking+state](jāgrat+bhāvaḥ) [also](api) [in-every-way](sarvaśaḥ)
+
 ## mukta-m0-p74-v1849
-[gloss](sattvāt) [gloss](svāpnajāgradbhāvayoḥ) [gloss](sarvāṃśena) [gloss](tulyatvamiti) [gloss](bhāvaḥ)
+[because-of-existence](sattvāt) [of-dream+waking+states](svāpna+jāgrat+bhāvayoḥ) [in-all+parts](sarva+aṃśena) [equality+thus+meaning](tulyatvam+iti) [sense](bhāvaḥ)
+
 ## mukta-m0-p74-v1850
-[gloss](svapne'pi) [gloss](jāgaratvaṃ) [gloss](tu) [gloss](gṛhītaṃ) [gloss](tadvadeva) [gloss](hi)
+[in-dream](svapne) [also](api) [waking-state](jāgaratvaṃ) [indeed](tu) [is-apprehended](gṛhītaṃ) [like-that+indeed](tadvat+eva) [for](hi)

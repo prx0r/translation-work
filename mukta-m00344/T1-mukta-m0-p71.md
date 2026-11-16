@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p71-v1751
-[thus-hearing](ityākarṇya) [son-of-sage](munisuta) [words](vākyam) [he](sa) [and](ca) [king](mahīpatiḥ)
+[thus](iti) [having-heard](ākarṇya) [sage-son+speech](muni+suta+vākyam) [he](saḥ) [and](ca) [earth-lord](mahī+patiḥ)
 
 ## mukta-m0-p71-v1752
-[therefore](tasmāt) [change](pariṇāma) [other](antara) [attainment](prāpteḥ) [such](īdṛśaḥ) [unprecedented](apūrva) [like](vat)
+[therefore](tasmāt) [transformation+other+attainment](pariṇāma+antara+prāpteḥ) [such](īdṛśaḥ) [like-unprecedented](apūrva+vat)
 
 ## mukta-m0-p71-v1753
-[son-of-sage](muniputra) [comforted](samāśvastaḥ) [wisdom](prajñām) [having-obtained](āsādya) [king](bhūpatiḥ)
+[sage-son+consoled](muni+putra+samāśvastaḥ) [wisdom](prajñām) [having-attained](āsādya) [earth-lord](bhū+patiḥ)
 
 ## mukta-m0-p71-v1754
-[brother](bhrātaram) [nephews](bhrātṛputrān) [and](ca) [wives](dārān) [own](svātmanaḥ) [even](eva) [and](ca)
+[brother](bhrātaram) [brother+sons](bhrātṛ+putrān) [and](ca) [wives](dārān) [of-own-self](sva+ātmanaḥ) [indeed](eva) [and](ca)
 
 ## mukta-m0-p71-v1755
-[own](svātmanaḥ) [even](api) [sons-etc](putrādīn) [thus](iti) [connection](sambandhaḥ)
+[of-own-self](sva+ātmanaḥ) [also](api) [son+others](putra+ādīn) [thus](iti) [connection](sambandhaḥ)
 
 ## mukta-m0-p71-v1756
-[then](atha) [him](tam) [deluded](mohataḥ) [brothers'-faces](bhrātṛmukhān) [lamenting](śocantam) [directly](añjasā)
+[then](atha) [him](tam) [from-delusion](mohataḥ) [brother+face](bhrātṛ+mukhān) [grieving](śocantam) [directly](añjasā)
 
 ## mukta-m0-p71-v1757
 [him](tam) [king](rājānam)
 
 ## mukta-m0-p71-v1758
-[desire-to-enlighten](bubodhayiṣayā) [to-enlighten](bodhayitum) [with-desire](icchayā)
+[with-desire-to-enlighten](bubodhayiṣayā) [to-enlighten+desire](bodhayitum+icchayā)
 
 ## mukta-m0-p71-v1759
-[without-considering](avimṛśya) [result](phalam) [who](yah) [indeed](tu) [action](karma) [does](kuryāt) [he](sa) [foolish](bāliśaḥ)
+[without-reflecting](avimṛśya) [result](phalam) [who](yaḥ) [indeed](tu) [action](karma) [would-do](kuryāt) [he](saḥ) [foolish](bāliśaḥ)
 
 ## mukta-m0-p71-v1760
-[would-be](syāt) [indeed](eva) [thus](iti) [if](ced) [says](āha) [without-considering](avimṛśya) [thus](iti)
+[it-may-be](syāt) [indeed](eva) [thus](iti) [if](cet) [says](āha) [without-reflecting](avimṛśya) [thus](iti)
 
 ## mukta-m0-p71-v1761
 [that](tat) [therefore](tasmāt)
 
 ## mukta-m0-p71-v1762
-[why](kutaḥ) [you](tvam) [ask](pṛcchasi) [again](punaḥ) [total-destruction](sarvanāśe) [indeed](hy) [present](upasthite)
+[why](kutas) [you](tvam) [ask](pṛcchasi) [again](punaḥ) [all+destruction](sarva+nāśe) [indeed](hi) [being-present](upasthite)
 
 ## mukta-m0-p71-v1763
-[king](rājan) [speak](brūhi) [what](kim) [this](etat) [your](te) [family-duty](kuladharmaḥ) [eternal](sanātanaḥ)
+[O-king](rājan) [say](brūhi) [what](kim) [this](etat) [of-you](te) [family+duty](kula+dharmaḥ) [eternal](sanātanaḥ)
 
 ## mukta-m0-p71-v1764
-[this](etat) [own-people](svajane) [lost](naṣṭe) [should-be-lamented](śocitavyam) [thus](iti) [eternal](sanātanaḥ) [traditional](paramparāgataḥ)
+[this](etat) [own-person+being-destroyed](sva+jane) [naṣṭe](naṣṭe) [to-be-grieved](śocitavyam) [thus](iti) [eternal](sanātanaḥ) [tradition+come](paramparā+āgataḥ)
 
 ## mukta-m0-p71-v1765
-[or](athavā) [lamented](śocite) [lost](naṣṭam) [obtained](prāpyate) [again](bhūya) [indeed](eva) [that](tat)
+[or](athavā) [in-grieving](śocite) [lost](naṣṭam) [is-obtained](prāpyate) [again](bhūyaḥ) [indeed](eva) [that](tat)
 
 ## mukta-m0-p71-v1766
-[lost](naṣṭeṣu) [relatives](bandhuṣu) [if](yadi) [should-lament](śocitavyam) [then](tadā) [listen](śṛṇu)
+[in-destroyed](naṣṭeṣu) [relatives](bandhuṣu) [if](yadi) [to-be-grieved](śocitavyam) [then](tadā) [listen](śṛṇu)
 
 ## mukta-m0-p71-v1767
-[that](tat) [always](sarvadā) [should-lament](śocitavyam) [why](kutaḥ) [before](pūrvam) [not](na) [lamented](śocitam)
+[that](tat) [always](sarvadā) [to-be-grieved](śocitavyam) [why](kutaḥ) [before](pūrvam) [not](na) [grieved](śocitam)
 
 ## mukta-m0-p71-v1768
-[would-be](bhavet) [thus](iti) [meaning](tātparyam)
+[it-may-be](bhavet) [thus](iti) [purport](tātparyam)
 
 ## mukta-m0-p71-v1769
-[parents](mātāpitroḥ) [own](svasya) [or](vā) [even](api) [excrement](purīṣa) [worms](kṛmayaḥ) [indeed](hi) [who](ye)
+[of-mother+father](mātā+pitroḥ) [of-self](svasya) [or](vā) [also](api) [excrement+worms](purīṣa+kṛmayaḥ) [indeed](hi) [which](ye)
 
 ## mukta-m0-p71-v1770
-[brothers-etc](bhrātrādi) [kinship](bandhutvam) [my](mama) [thus](iti) [if](ced) [says](āha) [parents](mātāpitroḥ) [thus](iti)
+[brother+other+kinship](bhrātr+ādi+bandhutvam) [of-me](mama) [thus](iti) [if](cet) [says](āha) [mother](mātā) [thus](iti)
 
 ## mukta-m0-p71-v1771
-[not](na) [they](te) [would-be](syuḥ) [relatives](bandhavaḥ) [why](kasmāt) [from-where](kutaḥ) [or](vā) [they](te) [not](na) [lamented](śocitāḥ)
+[not](na) [they](te) [would-be](syuḥ) [relatives](bandhavāḥ) [why](kasmāt) [whence](kutaḥ) [or](vā) [they](te) [not](na) [grieved](śocitāḥ)
 
 ## mukta-m0-p71-v1772
-[body](dehaḥ) [you](tvam) [different-from-body](dehabhinnaḥ) [or](vā) [body](dehaḥ) [aggregate](saṃghāta) [form](rūpakaḥ)
+[body](dehaḥ) [you](tvam) [body+different](deha+bhinnaḥ) [or](vā) [body](dehaḥ) [aggregate+form](saṃghāta+rūpakaḥ)
 
 ## mukta-m0-p71-v1773
-[body](dehaḥ) [only](eva) [I](aham) [thus](iti) [if](ced) [says](āha) [body](dehaḥ) [aggregate](saṃghāta) [form](rūpakaḥ) [thus](iti)
+[body](dehaḥ) [indeed](eva) [I](aham) [thus](iti) [if](cet) [says](āha) [body](dehaḥ) [aggregate+form](saṃghāta+rūpakaḥ) [thus](iti)
 
 ## mukta-m0-p71-v1774
-[every-moment](pratikṣaṇam) [but](tu) [part](ekadeśa) [destruction](nāśaḥ) [body](dehasya) [occurs](bhāvitaḥ)
+[every-moment](prati+kṣaṇam) [indeed](tu) [one-part+destruction](eka+deśa+nāśaḥ) [of-body](dehasya) [established](bhāvitaḥ)
 
 ## mukta-m0-p71-v1775
-[every-moment](pratikṣaṇam) [thus](iti)
+[every-moment](prati+kṣaṇam) [thus](iti)
