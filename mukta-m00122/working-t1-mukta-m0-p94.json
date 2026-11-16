@@ -7,7 +7,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "samidbhiḥ",
+"surface": "samidbhir",
 "quick_gloss": "with-fuel-sticks"
 },
 {
@@ -15,12 +15,12 @@
 "quick_gloss": "one-should-offer"
 },
 {
-"surface": "samyak",
+"surface": "samyag",
 "quick_gloss": "properly"
 },
 {
 "surface": "vāreśa+arcana+pūrvakam",
-"quick_gloss": "weekday-lord+worship+preceded-by"
+"quick_gloss": "lord-of-weekday+worship+preceded-by"
 }
 ]
 },
@@ -62,7 +62,7 @@
 },
 {
 "surface": "prokta+phala+siddhiḥ",
-"quick_gloss": "declared+result+accomplishment"
+"quick_gloss": "declared+fruit+accomplishment"
 },
 {
 "surface": "iti",
@@ -83,7 +83,7 @@
 },
 {
 "surface": "asya",
-"quick_gloss": "of-him"
+"quick_gloss": "his"
 },
 {
 "surface": "vijayaḥ",
@@ -152,8 +152,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "arāti+diṅ+mukhaḥ+bhūtvā",
-"quick_gloss": "enemy+direction+facing+having-become"
+"surface": "arāti+diṅ+mukhaḥ",
+"quick_gloss": "enemy+direction+facing"
+},
+{
+"surface": "bhūtvā",
+"quick_gloss": "having-become"
 },
 {
 "surface": "kuṇḍe",
@@ -181,12 +185,12 @@
 "quick_gloss": "enemy"
 },
 {
-"surface": "bala+samaḥ+agraḥ+api",
-"quick_gloss": "strength+equal+even-if"
+"surface": "bala+samagraḥ+api",
+"quick_gloss": "strength+endowed+even"
 },
 {
 "surface": "śaurya+māna+anvitaḥ+api",
-"quick_gloss": "valor+pride+endowed-with+even-if"
+"quick_gloss": "valor+pride+possessed+even"
 },
 {
 "surface": "ca",
@@ -206,7 +210,7 @@
 "quick_gloss": "by-oblation"
 },
 {
-"surface": "soma+vāre",
+"surface": "somavāre",
 "quick_gloss": "on-Monday"
 },
 {
@@ -272,7 +276,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "budha+vāreṣu",
+"surface": "budhavāreṣu",
 "quick_gloss": "on-Wednesdays"
 },
 {
@@ -280,12 +284,12 @@
 "quick_gloss": "of-white-cow"
 },
 {
-"surface": "sa+vatsāyāḥ",
+"surface": "sa+vatsāyā",
 "quick_gloss": "with-calf"
 },
 {
 "surface": "ghṛta+anvitam",
-"quick_gloss": "ghee+accompanied"
+"quick_gloss": "with-ghee"
 }
 ]
 },
@@ -302,7 +306,7 @@
 },
 {
 "surface": "te",
-"quick_gloss": "they"
+"quick_gloss": "those"
 },
 {
 "surface": "śatravaḥ",
@@ -392,7 +396,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "takṣa+vāreṣu",
+"surface": "takṣavāreṣu",
 "quick_gloss": "on-Thursdays"
 },
 {
@@ -430,7 +434,7 @@
 },
 {
 "surface": "tat+tat+dvāreśa+dvaya+pūjanam",
-"quick_gloss": "that+that+weekday-lord+pair+worship"
+"quick_gloss": "that+that+two-lords-of-weekday+worship"
 }
 ]
 },
@@ -447,7 +451,7 @@
 },
 {
 "surface": "tat+phala+saṃsiddhyai",
-"quick_gloss": "that+result+accomplishment+for"
+"quick_gloss": "that+fruit+accomplishment"
 },
 {
 "surface": "bhavati",
@@ -484,11 +488,11 @@
 },
 {
 "surface": "tat+phala+āptiḥ",
-"quick_gloss": "that+result+attainment"
+"quick_gloss": "that+fruit+attainment"
 },
 {
 "surface": "tat+dinaiḥ",
-"quick_gloss": "by-that+days"
+"quick_gloss": "by-those+days"
 },
 {
 "surface": "syāt",
@@ -521,11 +525,11 @@
 },
 {
 "surface": "tat+dinaiḥ",
-"quick_gloss": "by-that+days"
+"quick_gloss": "by-those+days"
 },
 {
-"surface": "tat+ca",
-"quick_gloss": "and-that"
+"surface": "tat",
+"quick_gloss": "that"
 },
 {
 "surface": "siddhyati",
@@ -546,7 +550,7 @@
 },
 {
 "surface": "tat+phalāni",
-"quick_gloss": "those+results"
+"quick_gloss": "those+fruits"
 },
 {
 "surface": "syuḥ",
@@ -558,7 +562,7 @@
 },
 {
 "surface": "vāreṣu",
-"quick_gloss": "on-days"
+"quick_gloss": "on-weekdays"
 },
 {
 "surface": "saptasu",
@@ -574,7 +578,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "viyayam",
+"surface": "viyayaṃ",
 "quick_gloss": "procedure"
 },
 {
@@ -608,7 +612,7 @@
 "tokens": [
 {
 "surface": "tat+vāreśa+dvayam",
-"quick_gloss": "that+weekday-lord+pair"
+"quick_gloss": "that+two-lords-of-weekday"
 },
 {
 "surface": "ca",
@@ -628,7 +632,7 @@
 },
 {
 "surface": "kuryāt",
-"quick_gloss": "one-should-do"
+"quick_gloss": "one-should-perform"
 },
 {
 "surface": "iti",
@@ -677,7 +681,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "ṣaṣṭhī+ādi",
+"surface": "ṣaṣṭhi+ādi",
 "quick_gloss": "sixth+etc."
 },
 {
@@ -685,16 +689,16 @@
 "quick_gloss": "and"
 },
 {
-"surface": "daśamī+antam",
-"quick_gloss": "tenth+ending"
+"surface": "daśami+antam",
+"quick_gloss": "ending-with-tenth"
 },
 {
 "surface": "aja+bhava+ghṛtaiḥ",
-"quick_gloss": "with-goat+milk+ghee"
+"quick_gloss": "with-goat+ghee"
 },
 {
 "surface": "tathā",
-"quick_gloss": "likewise"
+"quick_gloss": "thus"
 }
 ]
 },
@@ -710,8 +714,8 @@
 "quick_gloss": "after-that"
 },
 {
-"surface": "pañcadaśī+ante",
-"quick_gloss": "fifteenth+ending"
+"surface": "pañcadaśi+ante",
+"quick_gloss": "ending-with-fifteenth"
 },
 {
 "surface": "samastaiḥ",
@@ -723,7 +727,7 @@
 },
 {
 "surface": "tila+dvayaiḥ",
-"quick_gloss": "with-sesame+two"
+"quick_gloss": "with-two-sesames"
 }
 ]
 },
@@ -739,8 +743,12 @@
 "quick_gloss": "from-oblation"
 },
 {
-"surface": "tat+avāpnoti",
-"quick_gloss": "then+obtains"
+"surface": "tadā",
+"quick_gloss": "then"
+},
+{
+"surface": "avāpnoti",
+"quick_gloss": "obtains"
 },
 {
 "surface": "yat",
@@ -748,11 +756,11 @@
 },
 {
 "surface": "asau",
-"quick_gloss": "by-him"
+"quick_gloss": "that"
 },
 {
 "surface": "phalam",
-"quick_gloss": "result"
+"quick_gloss": "fruit"
 },
 {
 "surface": "īritam",
