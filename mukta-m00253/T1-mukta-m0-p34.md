@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p34-v826
-up-to-five [āpañca] of-ācamitra [ācamitrasya] black+antelope-skin [kṛṣṇājinaṃ] should-give-then [dadettataḥ]
+[up-to](āpañca) [of-ācamitra](ācamitrasya) [black-antelope+skin](kṛṣṇājinaṃ) [should-give](dadet) [then](tataḥ)
 
 ## mukta-m0-p34-v827
-devasya-tvā-iti [devasyatveti] with-left [savyena] cooked-offering [pakvāhutim] then-should-perform [athācaret]
+[devasya-tvā](devasyatveti) [with-left-hand](savyena) [cooked+oblation](pakvāhutim) [then](atha) [should-perform](ācaret)
 
 ## mukta-m0-p34-v828
-with-brahma-sūkta [brahmasūktena] having-offered [hutvā] then [tu] having-offered [hutvā] vyāhṛti [vyāhṛti] by-name [nāmataḥ]
+[with-brahma-sūkta](brahmasūktena) [having-offered](hutvā) [indeed](tu) [having-offered](hutvā) [with-vyāhṛti](vyāhṛti) [by-name](nāmataḥ)
 
 ## mukta-m0-p34-v829
-four [catasṝḥ] palāśa-twigs [palāśasamidho] should-be-offered [hotavyaṃ] by-low-born-living [nīcajīvinā]
+[four](catasṝḥ) [palāśa+fuel-sticks](palāśasamidho) [to-be-offered](hotavyaṃ) [by-low+living-one](nīcajīvinā)
 
 ## mukta-m0-p34-v830
-of-āditya [āditya] vow-lord [vratapate] and [ca] indeed [eva] of-vows [vratānāṃ] vow-lord-also [vratapatepi] and [ca]
+[o-āditya](āditya) [o-lord+of-vows](vratapate) [and](ca) [indeed](eva) [of-vows](vratānāṃ) [o-lord+of-vows](vratapate) [also](api) [and](ca)
 
 ## mukta-m0-p34-v831
-of-agni [agner] to-right [dakṣiṇataḥ] having-placed [sthāpya] with-astra [astreṇa] should-sprinkle-then [abhyukṣayettataḥ]
+[of-fire](agneḥ) [to-the-south](dakṣiṇataḥ) [having-placed](sthāpya) [with-astra-mantra](astreṇa) [should-sprinkle](abhyukṣayet) [then](tataḥ)
 
 ## mukta-m0-p34-v832
-of-brahmacārin [brahmacāryasya] facing [abhimukhaṃ] sāvitrī [sāvitrīṃ] and [ca] should-chant-then [japettataḥ]
+[of-student](brahmacāryasya) [facing](abhimukhaṃ) [sāvitrī](sāvitrīṃ) [and](ca) [should-mutter](japet) [then](tataḥ)
 
 ## mukta-m0-p34-v833
-at-that-time [tatkāle] maṇḍala [maṇḍalaṃ] having-drawn [likhya] according-to-rite-first [yathāvidhipurassaram]
+[at-that+time](tatkāle) [circle](maṇḍalaṃ) [having-drawn](likhya) [as](yathā) [according-to-rule+preceded](vidhipurassaram)
 
 ## mukta-m0-p34-v834
-of-maṇḍala [maṇḍalasya] northern [uttare] part [bhāge] jars [kalaśāṃs] should-place-then [sthāpayettataḥ]
+[of-circle](maṇḍalasya) [in-northern+part](uttare) [in-part](bhāge) [water-pots](kalaśān) [should-place](sthāpayet) [then](tataḥ)
 
 ## mukta-m0-p34-v835
-from-īśāna [īśānādi] vyāhṛtis [vyāhṛtibhir] new-twigs [navasamidhā] joined [samāyutam]
+[beginning-with-īśāna+with-vyāhṛtis](īśānādivyāhṛtibhiḥ) [with-nine+fuel-sticks](navasamidhā) [endowed-with](samāyutam)
 
 ## mukta-m0-p34-v836
-teacher [ācāryaṃ] worship [pūjanaṃ] should-do [kuryāt] with-cow-earth-gold-etc [gobhūmīkāṃcanādibhiḥ]
+[teacher](ācāryaṃ) [worship](pūjanaṃ) [should-do](kuryāt) [with-cow+earth+gold+and-others](gobhūmīkāṃcanādibhiḥ)
 
 ## mukta-m0-p34-v837
-with-arghya [arghyeṇa] indeed [eva] tu [tu] māyās [māyāṃś] and [ca] should-give [dadyāt] to-boy [māṇavake] then [tataḥ]
+[with-arghya](arghyeṇa) [indeed](eva) [then](tu) [māyā](māyāṃ) [and](ca) [should-give](dadyāt) [to-student](māṇavake) [then](tataḥ)
 
 ## mukta-m0-p34-v838
-morning [prātaḥ] having-bathed [snātvā] water [āpaḥ] having-sipped [ācamya] sūryaśca-iti [sūryaśceti] water [jalaṃ] should-drink [pibet]
+[in-morning](prātaḥ) [having-bathed](snātvā) [water]('pa) [having-sipped](ācamya) [sūryaś-ca](sūryaśceti) [water](jalaṃ) [should-drink](pibet)
 
 ## mukta-m0-p34-v839
-agniśca-iti [agniśceti] and [ca] sānneti [sānneti] at-time [kāle] at-time [kāle] should-drink-then [pibettataḥ]
+[agniś-ca](agniśceti) [and](ca) [sānna](sānneti) [at-time+at-time](kāle) [at-time](kāle) [should-drink](pibet) [then](tataḥ)
 
 ## mukta-m0-p34-v840
-with-cupped-hands-water [añjalyodakam] having-taken [ādāya] with-vyāhṛti [vyāhṛtyā] toward-sun [sūryābhimukhaṃ] should-release [sṛjet]
+[with-hollowed-palms](añjalyā) [water](udakam) [having-taken](ādāya) [with-vyāhṛti](vyāhṛtyā) [facing-sun](sūryābhimukhaṃ) [should-release](sṛjet)
 
 ## mukta-m0-p34-v841
-* * * with-sahāra [sahāraṃ] * * * * * * * should-enter [praviśet]
+[*](* ) [*](* ) [*](* ) [sahāraṃ](sahāraṃ) [*](* ) [*](* ) [*](* ) [*](* ) [*](* ) [*](* ) [*](* ) [should-enter](praviśet)
 
 ## mukta-m0-p34-v842
-prāṇāyāma-triad [prāṇāyāmatrayaṃ] having-done [kṛtvā] sāvitrī [sāvitryā] eight-hundred [aṣṭaśataṃ] should-chant [japet]
+[breath+control+three](prāṇāyāmatrayaṃ) [having-done](kṛtvā) [sāvitrī+hundred-and-eight](sāvitryāṣṭaśataṃ) [should-mutter](japet)
 
 ## mukta-m0-p34-v843
-mitra [mitraḥ] having-assembled [sametya] nayaśca [nayaści] siddha-sandhyā-upasthāna [siddhasandhyopasthānam] should-perform [ācaret]
+[mitras-sa](mitrassametya) [nayaś-ci](nayaści) [accomplished+sandhyā+worship](siddhasandhyopasthānam) [should-perform](ācaret)
 
 ## mukta-m0-p34-v844
-agni [agniṃ] and [ca] indeed [eva] having-circumambulated [paristīrya] circumambulation [pariṣecanam] should-perform [ācaret]
+[fire](agniṃ) [and](ca) [indeed](eva) [having-strewn-around](paristīrya) [sprinkling-around](pariṣecanam) [should-perform](ācaret)
 
 ## mukta-m0-p34-v845
-thus [evam] indeed [eva] in-order [krameṇa] indeed [eva] evening [sāyaṃ] morning [prātaś] and [ca] should-offer [homayet]
+[thus](evam) [indeed](eva) [in-order](krameṇa) [indeed](eva) [evening](sāyaṃ) [morning](prātaḥ) [and](ca) [should-offer](homayet)
 
 ## mukta-m0-p34-v846
-alkali [kṣāraṃ] and [ca] honey-meat-etc [madhumāṃsādi] salt [lavaṇa] and [ca] indeed [eva] should-avoid [varjayet]
+[alkaline](kṣāraṃ) [and](ca) [honey+meat+and-others](madhumāṃsādi) [salt](lavaṇa) [and](ca) [indeed](eva) [should-avoid](varjayet)
 
 ## mukta-m0-p34-v847
-thus [evam] indeed [eva] in-order [krameṇa] indeed [eva] strength [balaṃ] mostly [prāyeṇa] at-night [naktakam]
+[thus](evam) [indeed](eva) [in-order](krameṇa) [indeed](eva) [strength](balaṃ) [mostly](prāyeṇa) [nightly](naktakam)
 
 ## mukta-m0-p34-v848
-two [dve] women [striyau] well-adorned [samalaṃkṛtya] śraddhā [śraddhā] medhā [medhā] prayāmi-iti [prayāmiti]
+[two](dve) [women](striyau) [well+adorned](samalaṃkṛtya) [śraddhā](śraddhā) [medhā](medhā) [prayāmi](prayāmiti)
 
 ## mukta-m0-p34-v849
-thus [evam] indeed [eva] order [kramaṃ] should-do [kuryāt] longevity [āyuṣyaṃ] strength [balaṃ] should-obtain [āpnuyāt]
+[thus](evam) [indeed](eva) [procedure](kramaṃ) [should-do](kuryāt) [long-life](āyuṣyaṃ) [strength](balam) [obtains](āpnuyāt)
 
 ## mukta-m0-p34-v850
-agni-mouth [agnimukhaṃ] and [ca] having-intended [saṃkalpya] sruk-sruva [sruksruve] and [ca] with-mantra [ceti] mantrataḥ [mantrataḥ]
+[fire+mouth](agnimukhaṃ) [and](ca) [having-resolved](saṃkalpya) [sruk+sruva](sruksruve) [and](ca) [iti](iti) [by-mantra](mantrataḥ)

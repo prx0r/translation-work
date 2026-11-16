@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p23-v551
-[initiation-circle](dīkṣāmaṇḍalataḥ) [taught-initiation-path](proktadīkṣāmārgamataḥ) [hear](śṛṇu)
+[initiation-maṇḍala-from](dīkṣāmaṇḍalataḥ) [declared-initiation-path-after](proktadīkṣāmārgamataḥ) [listen](śṛṇu)
 
 ## mukta-m0-p23-v552
-[thus](iti) [in-vīra-tantra](vīratantre) [in-six-thousand-saṃhitā](ṣaṭsahasrasaṃhitāyāṃ) [initiation-circle-rite-eighth-chapter](dīkṣāmaṇḍalavidhiraṣṭamaḥ) [chapter](paṭalaḥ)
+[thus](iti) [in-vīra-tantra](vīratantre) [in-six-thousand-compendium](ṣaṭsahasrasaṃhitāyāṃ) [initiation-maṇḍala-rule](dīkṣāmaṇḍalavidhir) [eighth](aṣṭamaḥ) [chapter](paṭalaḥ)
 
 ## mukta-m0-p23-v553
-[śaivas](śaivāssaptavidhājñeyā) [sevenfold](saptavidhā) [knowable](jñeyā) [all-that](tatsarvaṃ) [speak](brūhi) [me](me) [lord](prabho)
+[śaivas](śaivās) [seven-fold](saptavidhā) [to-be-known](jñeyās) [that-all](tatsarvaṃ) [tell](brūhi) [to-me](me) [o-lord](prabho) [!]
 
 ## mukta-m0-p23-v554
-[all-that](tatsarvamakhilaṃ) [whole](akhilaṃ) [I-will-speak](vakṣye) [hear](śṛṇuṣva) [lotus-seated](kamalāsana)
+[that-all](tatsarvam) [entirely](akhilaṃ) [i-shall-tell](vakṣye) [listen](śṛṇuṣva) [o-lotus-seated](kamalāsana)
 
 ## mukta-m0-p23-v555
-[so-be-it](tathostu) [uniting](saṃghaṭīkṛtya) [that](sā) [initiation](dīkṣā) [thus](iti) [called](kathyate)
+[so-be-it](tathostu) [having-assembled](saṃghaṭīkṛtya) [that](sā) [initiation](dīkṣā) [thus](iti) [is-called](kathyate)
 
 ## mukta-m0-p23-v556
-[beginningless](anādi) [śaiva](śaivaṃ) [first](prathamam) [ādi-śaiva](ādiśaivaṃ) [second](dvitīyakam)
+[beginningless-śaiva](anādi) [śaivam](śaivaṃ) [first](prathamam) [primordial-śaiva](ādiśaivaṃ) [second](dvitīyakam)
 
 ## mukta-m0-p23-v557
-[intermediate](avāntarastu) [śaiva](śaivaṃ) [tu](tu) [fifth](paṃcamaṃ) [tu](tu) [know](vidurbudhāḥ)
+[intermediate](avāntaras) [indeed](tu) [śaiva](śaivaṃ) [indeed](tu) [fifth](paṃcamaṃ) [indeed](tu) [know](vidur) [the-wise](budhāḥ)
 
 ## mukta-m0-p23-v558
-[śaivas](śaivāssaptavidhāḥ) [sevenfold](saptavidhāḥ) [declared](proktā) [their](teṣāṃ) [difference](bhedaṃ) [hear](śṛṇuṣva) [ca](ca)
+[śaivas](śaivās) [seven-fold](saptavidhāḥ) [declared](proktās) [of-them](teṣāṃ) [distinction](bhedaṃ) [listen](śṛṇuṣva) [and](ca)
 
 ## mukta-m0-p23-v559
-[śiva-twice-born](śivadvijāśca) [ca](ca) [best-of-brāhmaṇas](viprendra) [ādi-śaivas](ādiśaivāḥ) [declared](prakīrtitāḥ)
+[śiva-twice-born](śivadvijāś) [and](ca) [o-best-of-brahmins](viprendra) [primordial-śaivas](ādiśaivāḥ) [are-proclaimed](prakīrtitāḥ)
 
 ## mukta-m0-p23-v560
-[gautama](gautamaścaiva) [ca](ca) [eva](eva) [five](paṃcaiva) [five-faced](paṃcavaktreṣu) [initiated](dīkṣitāḥ)
+[gautama](gautamaś) [and](ca) [indeed](eva) [five](paṃcaiva) [in-five-faces](paṃcavaktreṣu) [initiated](dīkṣitāḥ)
 
 ## mukta-m0-p23-v561
-[śiva-initiation](śivadīkṣā) [not](na) [to-be-done](kartavyā) [if-done](cetsuniṣphalā) [fruitless](suniṣphalā)
+[śiva-initiation](śivadīkṣā) [not](na) [to-be-done](kartavyā) [to-be-done](kartavyā) [if](cet) [utterly-fruitless](suniṣphalā)
 
 ## mukta-m0-p23-v562
-[sprinkling](snapanaṃ) [ca](cāṃgaśudhyarthaṃ) [for-limb-purification](aṃgaśudhyarthaṃ) [let-do](kārayettu) [śiva-twice-born](śivadvijān)
+[bathing](snapanaṃ) [and](ca) [for-body-purification](aṃgaśudhyarthaṃ) [one-should-cause](kārayet) [indeed](tu) [śiva-twice-born](śivadvijān)
 
 ## mukta-m0-p23-v563
-[uninitiated](adīkṣitaścaturvedī) [four-vedas](caturvedī) [śiva-worship](śivapūjāṃ) [not](na) [let-do](kārayet)
+[uninitiated](adīkṣitaś) [knower-of-four-vedas](caturvedī) [śiva-worship](śivapūjāṃ) [not](na) [should-cause](kārayet)
 
 ## mukta-m0-p23-v564
-[six-months](saṇmāsātpatanaṃ) [fall](patanaṃ) [they-go](yānti) [worship](yajeddevalakāḥ) [devalakas](devalakāḥ) [remembered](smṛtāḥ)
+[from-six-months](saṇmāsāt) [fall](patanaṃ) [they-go](yānti) [if-they-worship](yajed) [temple-priests](devalakāḥ) [are-remembered](smṛtāḥ)
 
 ## mukta-m0-p23-v565
-[if-worships](pūjayedyadi) [brāhmaṇa](viprastu) [he](sa) [indeed](vai) [devalaka](devalako) [becomes](bhavet)
+[if-he-worships](pūjayed) [if](yadi) [brahmin](vipras) [indeed](tu) [he](sa) [indeed](vai) [temple-priest](devalako) [becomes](bhavet)
 
 ## mukta-m0-p23-v566
-[on-fixed-liṅgas](sthiraliṃgeṣu) [whatever](yatpūjānnakurvanti) [worship](pūjā) [not-do](nakurvanti) [ever](kadācana)
+[in-fixed-liṅgas](sthiraliṃgeṣu) [which](yat) [by-worship](pūjān) [not-do](na+kurvanti) [ever](kadācana)
 
 ## mukta-m0-p23-v567
-[śūdra](śūdro) [or](vāpyantaro) [antara](antaro) [or](vāpi) [antara](antare) [śaiva](śaiva) [called](ucyate)
+[śūdra](śūdro) [or](vā) [even](api) [outsider](antaro) [or](vā) [even](api) [within](antare) [śaiva](śaiva) [is-called](cocyate)
 
 ## mukta-m0-p23-v568
-[pravara-śaiva](pravaraśaivamiti) [thus](iti) [known](khyātaṃ) [this](idamanyacchṛṇuṣva) [other](anyacchṛṇuṣva) [hear](śṛṇuṣva) [ca](ca)
+[excellent-śaiva](pravaraśaivam) [thus](iti) [known](khyātaṃ) [this](idam) [other](anyac) [listen](chṛṇuṣva) [and](ca)
 
 ## mukta-m0-p23-v569
-[ādi-śaiva](ādiśaivena) [consecration-worship-ending](pratiṣṭhābhyarcanāntakam)
+[*](*) [*](*) [*](*) [by-primordial-śaiva](ādiśaivena) [from-consecration-to-worship](pratiṣṭhābhyarcanāntakam)
 
 ## mukta-m0-p23-v570
-[śaiva-differences](śaivabhedā) [by-me](mayākhyātā) [declared](ākhyātā) [initiation-rite](dīkṣāvidhimataḥ) [hear](śṛṇu)
+[śaiva-divisions](śaivabhedā) [by-me](mayā) [declared](ākhyātā) [initiation-rule](dīkṣāvidhim) [after-this](ataḥ) [listen](śṛṇu)
 
 ## mukta-m0-p23-v571
-[puṣya](puṣyaṃ) [śatabhiṣak](śatabhiṣak) [ca](ca) [eva](eva) [initiation-nakṣatra](dīkṣānakṣatramucyate)
+[puṣya](puṣyaṃ) [śatabhiṣak](śatabhiṣak) [and](ca) [indeed](eva) [initiation-constellation](dīkṣānakṣatram) [is-stated](ucyate)
 
 ## mukta-m0-p23-v572
-[mithuna](mithunaṃ) [or](vāpi) [kanyā](kanyā) [or](vā) [dhanu](dhanurvā) [mīna](mīnameva) [eva](eva) [or](vā)
+[gemini](mithunaṃ) [or](vā) [even](api) [virgo](kanyā) [or](vā) [sagittarius](dhanur) [or](vā) [pisces](mīnam) [indeed](eva) [or](vā)
 
 ## mukta-m0-p23-v573
-[second](dvitīyā) [fifth](paṃcamī) [or](vāpi) [sixth](ṣaṣṭhī) [or](vāpi) [especially](viśeṣataḥ)
+[second](dvitīyā) [fifth](paṃcamī) [or](vā) [even](api) [sixth](ṣaṣṭhī) [or](vā) [even](api) [especially](viśeṣataḥ)
 
 ## mukta-m0-p23-v574
-[these](ete) [indeed](hi) [tithis](tithayaḥ) [declared](proktā) [weekdays](vārāṃścaiva) [ca](ca) [eva](eva) [hear](śṛṇuṣva) [ca](ca)
+[these](ete) [indeed](hi) [lunar-days](tithayaḥ) [declared](proktā) [weekdays](vārāṃś) [and](ca) [indeed](eva) [listen](śṛṇuṣva) [and](ca)
 
 ## mukta-m0-p23-v575
-[jupiter-rising](bṛhaspatyudayaṃ) [or](vāpi) [venus-rising](śukrodayamathāpi) [athāpi](athāpi) [or](vā)
+[jupiter-rising](bṛhaspatyudayaṃ) [or](vā) [even](api) [venus-rising](śukrodayam) [or-else](athāpi) [or](vā)
