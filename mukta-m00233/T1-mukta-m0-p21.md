@@ -5,10 +5,10 @@
 [boundary](maryādā) [great-boundary](mahāmaryādakaṃ) [then](tataḥ)
 
 ## mukta-m0-p21-v502
-[arrow](śara) [sage](ṛṣi) [bṛhatī-meter](bṛhatī) [rudra](rudra) [hand](hastaṃ) [in-due-order](yathākramāt)
+[arrow](śara) [sage](ṛṣi) [bṛhatī](bṛhatī) [rudra](rudra) [hand](hastaṃ) [in-order](yathākramāt)
 
 ## mukta-m0-p21-v503
-[root](mūla) [half](ardhaṃ) [first](prathamaṃ) [then](tu) [now](atha) [with-sages](ca) [with-sages](ṛṣibhiḥ)
+[root](mūla) [half](ardhaṃ) [first](prathamaṃ) [then](tu) [now](atha) [with-sages](carṣibhiḥ)
 
 ## mukta-m0-p21-v504
 [should-be](syād) [diameter](viṣkambhaḥ) [with-half](sārdha) [hand](hasta) [possessing](vān)
@@ -20,58 +20,58 @@
 [small](kṣudra) [little](alpa) [wall](bhitti) [diameter](viṣkambhaṃ) [from-hand](hastāt) [beginning](ārabhya) [as-before](pūrvavat)
 
 ## mukta-m0-p21-v507
-[with-upper-beam](sa) [with-upper-beam](uttara) [with-entablature](āvājana) [with-canopy](cchatra) [with-top](śīrṣa) [possessing](vatyaḥ) [and](ca) [walls](bhittayaḥ)
+[with-upper-beam](sa+uttara) [with-āvājana](āvājana) [with-canopy](chatra) [with-top](śīrṣa) [possessing](vatyaḥ) [and](ca) [walls](bhittayaḥ)
 
 ## mukta-m0-p21-v508
-[one-should-make](kuryāt) [all-around](parito) [bull](vṛṣabha) [row](āvalim)
+[[k,kh: rāṃ]]([k, kh: rāṃ]) [should-make](kuryāt) [all-around](parito) [bull](vṛṣabha) [row](āvalim)
 
 ## mukta-m0-p21-v509
-[less](hīna) [six](ṣaṇ) [measure](mātraṃ) [in-each-hall](pratisālaṃ) [and](ca) [in-that-order](tatkramāt)
+[less](hīna) [six](ṣaṇ) [mātra](mātraṃ) [in-each-hall](pratisālaṃ) [and](ca) [in-that-order](tatkramāt)
 
 ## mukta-m0-p21-v510
-[great-boundary](mahāmaryāda) [wall](bhitti) [end](antam) [thus](evaṃ) [to-be-diminished](hāpyam) [now](atha) [also](api) [or](vā)
+[great-boundary](mahāmaryāda) [wall](bhitti) [end](antam) [thus](evaṃ) [to-be-diminished](hāpyam) [now](atha) [or](api) [or](vā)
 
 ## mukta-m0-p21-v511
-[by-that](tat) [four](catur) [measures](mātraiḥ) [until](yāvat) [five](pañca) [end](anta) [hall](sālakam)
+[by-that](tat) [four](catur) [mātras](mātraiḥ) [until](yāvat) [five](pañca) [end](anta) [hall](sālakam)
 
 ## mukta-m0-p21-v512
-[but](tu) [of-yama](yama) [in-vicinity](upānte) [of-elephant-faced](gajavaktrasya) [in-southwest](nair-ṛte)
+[but](tu) [of-yama](yama) [at-side](upānte) [of-elephant-face](gajavaktrasya) [in-nairṛta](nair-ṛte)
 
 ## mukta-m0-p21-v513
-[in-northwest](vāyavyām) [or](atha) [in-northeast](vaiśānyām) [of-umā](umā) [and-durgā](durgā) [abodes](ālayaḥ) [are-remembered](smṛtaḥ)
+[in-vāyavya](vāyavyām) [or](atha) [in-aiśānya](vaiśānyām) [of-umā](umā) [and-durgā](durgā) [abodes](ālayaḥ) [are-remembered](smṛtaḥ)
 
 ## mukta-m0-p21-v514
-[of-dhātṛ](dhātuḥ) [should-be](syāt) [of-dance](nṛttasya) [in-southeast](aiśe) [or](atha) [or](vā) [in-front](puraḥ)
+[of-dhātṛ](dhātuḥ) [should-be](syāt) [of-dance](nṛttasya) [in-aiśa](aiśe) [or](atha) [or](vā) [in-front](puraḥ)
 
 ## mukta-m0-p21-v515
 [bathing](snapana) [water](ambu) [house](gṛhaṃ) [is-remembered](smṛtam)
 
 ## mukta-m0-p21-v516
-[of-rakṣas](rakṣaḥ) [and-water](ambu) [in-middle](madhye) [of-weapons](śastrāṇāṃ) [cow-stall](gośālā) [in-west](varuṇe) [outside](bahiḥ)
+[of-rakṣas](rakṣas) [and-water](ambu) [in-middle](madhye) [of-weapons](śastrāṇāṃ) [cow-shed](gośālā) [in-varuṇa](varuṇe) [outside](bahiḥ)
 
 ## mukta-m0-p21-v517
-[knowledge](vidyā) [seat](pīṭhaṃ) [should-be](bhavet) [in-east](mukhye) [in-parjanya](parjanye) [of-field](kṣetra) [grain](pasya) [indeed](tu)
+[knowledge](vidyā) [seat](pīṭhaṃ) [should-be](bhavet) [in-mukhya](mukhye) [in-parjanya](parjanye) [of-field](kṣetra) [crops](pasya) [but](tu)
 
 ## mukta-m0-p21-v518
-[of-world-guardians](lokeśānāṃ) [in-own-directions](svadikṣu) [indeed](eva) [of-indra](ca) [and-agni](indra) [and-agni](agnyoḥ) [in-middle](madhyataḥ) [of-aśvins](aśvinoḥ)
+[of-world-guardians](lokeśānāṃ) [in-own-directions](svadikṣu) [indeed](eva) [of-indra](cendra) [and-agni](agnyoḥ) [in-middle](madhyataḥ) [of-aśvins](aśvinoḥ)
 
 ## mukta-m0-p21-v519
 [of-śāstṛ](śāstuḥ) [and](ca) [in-rakṣas-direction](rakṣodigbhāge) [of-bhadrakālī](bhadrakālyāḥ) [likewise](tathā) [outside](bahiḥ)
 
 ## mukta-m0-p21-v520
-[of-vasus](vastūnām) [of-water](ambu) [and-wind](marutoḥ) [of-munis](munināṃ) [of-wind](vāyu) [and-soma](somayoḥ)
+[of-things](vastūnām) [of-water](ambu) [and-wind](marutoḥ) [of-sages](munināṃ) [of-wind](vāyu) [and-soma](somayoḥ)
 
 ## mukta-m0-p21-v521
 [of-retinue](parivāra) [shrines](vimānānāṃ) [measure](mānaṃ) [from-garbha](garbha) [half](ardha) [measure](mānataḥ)
 
 ## mukta-m0-p21-v522
-[enclosure-wall](vapraṃ) [should-be](syāt) [retinue](parivāra) [group-of-eight](aṣṭakaṃ) [likewise](tathā)
+[rampart](vapraṃ) [should-be](syāt) [retinue](parivāra) [octad](aṣṭakaṃ) [likewise](tathā)
 
 ## mukta-m0-p21-v523
 [caṇḍeśvara](caṇḍeśvaraḥ) [and](ca) [eight](aṣṭau) [retinue-deities](parivārāḥ) [are-declared](prakīrtitāḥ)
 
 ## mukta-m0-p21-v524
-[in-middle](madhyame) [temple](dhāmni) [twelve](dvādaśa) [these](ete) [become](bhavanti) [indeed](hi)
+[in-middle](madhyame) [temple](dhāmni) [twelve](dvādaśa) [these](ete) [are](bhavanti) [indeed](hi)
 
 ## mukta-m0-p21-v525
 [retinue-deities](parivārāḥ) [should-be](syuḥ) [in-middle](madhyame) [temple](dhāmni) [sixteen](ṣoḍaśa)
