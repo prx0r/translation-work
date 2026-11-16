@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p03-v51
-[donor-gift-received](dātṛdānagṛhītaṃ) [and](ca) [then](tato) [linga-according-to](liṅgānurūpataḥ)
+[giver+gift+taken](dātṛdānagṛhītaṃ) [and](ca) [then](tato) [mark+according-to](liṅgānurūpataḥ)
 
 ## mukta-m0-p03-v52
-[shraddha](śrāddhe) [marriage](vivāhe) [gift](dāne) [and](ca) [bathing](snāne) [and](ca) [limb-worship](aṅgaprapūjane)
+[in-śrāddha](śrāddhe) [in-marriage](vivāhe) [in-gift](dāne) [and](ca) [in-bathing](snāne) [and+limb+worship](cāṅgaprapūjane)
 
 ## mukta-m0-p03-v53
-[then](tataḥ) [satisfied](tṛptāḥ) [then](tadā) [all-worlds](aśeṣalokān) [pleases](prīṇāmi) [truly](tattvataḥ)
+[then+satisfied](tatastṛptā) [then+all+worlds](tadāśeṣalokān) [I-please](prīṇāmi) [in-reality](tattvataḥ)
 
 ## mukta-m0-p03-v54
-[tilaka](tilakam) [kula-form](kularūpam) [and](ca) [having-made](kṛtvā) [having-sipped](ācamya) [having-completed](samāpya) [and](ca)
+[forehead-mark](tilakaṃ) [kula+form](kularūpaṃ) [and](ca) [having-made+sipping-water](kṛtvācamya) [and+having-completed](samāpya) [and](ca)
 
 ## mukta-m0-p03-v55
-[door-place](dvāradeśe) [then](tato) [song-dance-music-etc-satisfied](gītanṛttavādyāditoṣitaḥ)
+[door+place](dvāradeśe) [then](tato) [song+dance+music+etc.+satisfied](gītanṛttavādyāditoṣitaḥ)
 
 ## mukta-m0-p03-v56
-[kula-seat](kulāsanam) [then](tataḥ) [having-thrown](kṣiptvā) [that](tad) [having-worshipped](abhyarcya) [as-comfortable](yathāsukham)
+[kula+seat](kulāsanaṃ) [then](tataḥ) [having-placed](kṣiptvā) [that+having-worshipped](tadabhyarcya) [according-to-comfort](yathāsukham)
 
 ## mukta-m0-p03-v57
-[body-purity-etc-distinction](dehaśuddhyādibhedataḥ)
+[body+purification+etc.+distinction](dehaśuddhyādibhedataḥ)
 
 ## mukta-m0-p03-v58
-[initiated](dīkṣitābhiḥ) [good-natured](suśīlābhiḥ) [young-women](yuvatībhiḥ) [kula-souled](kulātmabhiḥ)
+[by-initiated-women](dīkṣitābhiḥ) [by-well-behaved](suśīlābhiḥ) [by-young-women](yuvatībhiḥ) [by-kula-natured](kulātmabhiḥ)
 
 ## mukta-m0-p03-v59
-[various-kinds](nānāvidhāni) [flowers](puṣpāṇi) [fragrances](gandhāni) [various](vividhāni) [and](ca)
+[various+kinds](nānāvidhāni) [flowers](puṣpāṇi) [fragrances](gandhāni) [various](vividhāni) [and](ca)
 
 ## mukta-m0-p03-v60
-[betel](tāmbūlam) [gift-thing](deyadravyam) [and](ca) [incense-lamp-etc](dhūpadīpādikam) [and](ca) [which](yat)
+[betel](tāmbūlaṃ) [to-be-given+substance](deyadravyaṃ) [and](ca) [incense+lamp+etc.](dhūpadīpādikaṃ) [and](ca) [which](yat)
 
 ## mukta-m0-p03-v61
-[root-mantra-chanted-water](mūlavidyājaptatoyaiḥ) [sprinkled](prokṣitam) [should-place](sthāpayet) [then](tataḥ)
+[root+mantra+muttered+waters](mūlavidyājaptatoyaiḥ) [sprinkled](prokṣitaṃ) [should-place](sthāpayet) [then](tataḥ)
 
 ## mukta-m0-p03-v62
-[western](paścime) [deity](devatāyām) [and](ca) [kula-things](kuladravyāṇi) [should-hold](dhārayet)
+[in-the-west](paścime) [in-the-deity](devatāyāṃ) [and](ca) [kula+substances](kuladravyāṇi) [should-place](dhārayet)
 
 ## mukta-m0-p03-v63
-[rochana-laksha-red](rocanālākṣayāraktaiḥ) [saffron-red-sandal](kuṅkumāruṇacandanaiḥ)
+[with-yellow-pigment+lac+red](rocanālākṣayāraktaiḥ) [with-saffron+red+sandal](kuṅkumāruṇacandanaiḥ)
 
 ## mukta-m0-p03-v64
-[as-ability](yathāśakti) [mantra](manum) [having-chanted](japtvā) [having-praised](stutvā) [goddess](devīm) [should-dismiss](visarjayet)
+[according-to-ability](yathāśakti) [mantra](manuṃ) [having-muttered](japtvā) [having-praised](stutvā) [goddess](devīṃ) [should-dismiss](visarjayet)
 
 ## mukta-m0-p03-v65
-[kula-nectar-essence](kulāmṛtarasam) [first](pūrvam) [to-guru](gurave) [should-offer](vinivedayet)
+[kula+nectar+essence](kulāmṛtarasaṃ) [first](pūrvaṃ) [to-guru](gurave) [should-offer](vinivedayet)
 
 ## mukta-m0-p03-v66
-[brahma-opening](brahmarandhre) [secret-place](guptasthāne) [yantra-paste](yantralepam) [indeed](tu) [should-hold](dhārayet)
+[in-brahma-aperture](brahmarandhre) [in-secret+place](guptasthāne) [yantra+unguent](yantralepaṃ) [indeed](tu) [should-place](dhārayet)
 
 ## mukta-m0-p03-v67
-[to-kula-person](kulīnāya) [and](ca) [should-give](dātavyam) [or](athavā) [in-water-middle](jalamadhyataḥ)
+[to-kula-born](kulīnāya) [and](ca) [to-be-given](dātavyam) [or](athavā) [water+middle](jalamadhyataḥ)
 
 ## mukta-m0-p03-v68
-[by-hari-name](harināmnā) [born-state](jātabhāvaḥ) [with-gesture](bhaṅgyanvita) [movement](viceṣṭitaḥ)
+[by-Hari+name](harināmnā) [born+feeling](jātabhāvo) [gesture+endowed+behavior](bhaṅgyanvitaviceṣṭitaḥ)
 
 ## mukta-m0-p03-v69
-[watch-measure](yāmamātre) [gone](gate) [night](rātrau) [kula-house](kulageham) [then](tataḥ) [man](pumān)
+[watch+measure](yāmamātre) [gone](gate) [in-night](rātrau) [kula+house](kulagehaṃ) [then](tataḥ) [man](pumān)
 
 ## mukta-m0-p03-v70
-[kula-yantra](kulayantram) [by-sadhya-name](sādhyanāmnā) [congregated](saṃkulaṃ) [in-kula-circle](kulacakrake)
+[kula+diagram](kulayantraṃ) [with-target+name](sādhyanāmnā) [filled](saṃkulaṃ) [in-kula+circle](kulacakrake)
 
 ## mukta-m0-p03-v71
-[by-own-power](svaśaktyā) [other-power](paraśaktim) [and](ca) [brings-together](samānayati) [sadhaka](sādhakaḥ)
+[own+power](svaśaktyā) [other+power](paraśaktiṃ) [and](ca) [brings-together](samānayati) [practitioner](sādhakaḥ)
 
 ## mukta-m0-p03-v72
-[own-beloved](nijakāntām) [having-brought](samānīya) [good-natured](suśīlām) [well-famed](suyaśasvinīm)
+[own+beloved](nijakāntāṃ) [having-brought](samānīya) [well-behaved](suśīlāṃ) [of-good-fame](suyaśasvinīm)
 
 ## mukta-m0-p03-v73
-[supreme-bliss-nectar-rolling-eyed](parānandarasāghūrṇalocanām) [kula-born](kulajām) [faithful-wife](satīm)
+[supreme+bliss+essence+reeling+eyes](parānandarasāghūrṇalocanāṃ) [kula-born](kulajāṃ) [virtuous](satīm)
 
 ## mukta-m0-p03-v74
-[like-own-daughter](nijaputrīvat) [teacher](ācāryaḥ) [on-that-forehead-plate](tadbhālapaṭṭake) [should-write](likhet)
+[own+daughter+like](nijaputrīvat) [teacher](ācāryaḥ) [her+forehead+surface](tadbhālapaṭṭake) [should-write](likhet)
 
 ## mukta-m0-p03-v75
-[in-middle](tanmadhye) [by-given-mantra](deyamantreṇa) [darbha-marked](darbhitam) [name-marked](nāmalāñchitam)
+[in-its-middle](tanmadhye) [to-be-given+mantra](deyamantreṇa) [pierced](darbhitaṃ) [name+marked](nāmalāñchitam)

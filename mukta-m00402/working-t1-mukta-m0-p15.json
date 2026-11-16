@@ -8,7 +8,7 @@
 "tokens": [
 {
 "surface": "vāme",
-"quick_gloss": "left"
+"quick_gloss": "in-left"
 },
 {
 "surface": "khaḍgaṃ",
@@ -23,8 +23,12 @@
 "quick_gloss": "shield"
 },
 {
-"surface": "dhanustarjanam",
-"quick_gloss": "bow-arrow"
+"surface": "dhanuḥ",
+"quick_gloss": "bow"
+},
+{
+"surface": "tarjanam",
+"quick_gloss": "and-threatening-gesture"
 },
 {
 "surface": "eva",
@@ -53,7 +57,7 @@
 },
 {
 "surface": "pīnonnatakucadvayām",
-"quick_gloss": "full-raised-breast-pair"
+"quick_gloss": "full-and-raised-breasts-pair"
 }
 ]
 },
@@ -65,8 +69,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "oṃ mahiṣa(daitya",
-"quick_gloss": "oṃ mahiṣa(daitya)śatro hūṃ phaṭ"
+"surface": "oṃ",
+"quick_gloss": "oṃ"
+},
+{
+"surface": "mahiṣa(daitya",
+"quick_gloss": "buffalo-demon-enemy"
+},
+{
+"surface": "hūṃ",
+"quick_gloss": "hūṃ"
+},
+{
+"surface": "phaṭ",
+"quick_gloss": "phaṭ"
 },
 {
 "surface": "śirasi",
@@ -86,16 +102,36 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "oṃ mahiṣaṃ heṣaya heṣaya hūṃ (phaṭ",
-"quick_gloss": "oṃ mahiṣaṃ heṣaya heṣaya hūṃ (phaṭ)"
+"surface": "oṃ",
+"quick_gloss": "oṃ"
+},
+{
+"surface": "mahiṣaṃ",
+"quick_gloss": "buffalo"
+},
+{
+"surface": "heṣaya",
+"quick_gloss": "neigh"
+},
+{
+"surface": "heṣaya",
+"quick_gloss": "neigh"
+},
+{
+"surface": "hūṃ",
+"quick_gloss": "hūṃ"
+},
+{
+"surface": "phaṭ",
+"quick_gloss": "phaṭ"
 },
 {
 "surface": "śikhāmantraḥ",
-"quick_gloss": "crest-mantra"
+"quick_gloss": "tuft-mantra"
 },
 {
 "surface": "samīritaḥ",
-"quick_gloss": "pronounced"
+"quick_gloss": "declared"
 }
 ]
 },
@@ -108,11 +144,15 @@
 "tokens": [
 {
 "surface": "mahiṣamardinī",
-"quick_gloss": "buffalo-crusher"
+"quick_gloss": "buffalo-crushing-goddess"
 },
 {
-"surface": "hūṃ phaṭ",
-"quick_gloss": "hūṃ phaṭ"
+"surface": "hūṃ",
+"quick_gloss": "hūṃ"
+},
+{
+"surface": "phaṭ",
+"quick_gloss": "phaṭ"
 },
 {
 "surface": "astrāṇi",
@@ -124,7 +164,7 @@
 },
 {
 "surface": "bhairava",
-"quick_gloss": "Bhairava"
+"quick_gloss": "O-Bhairava"
 }
 ]
 },
@@ -141,11 +181,11 @@
 },
 {
 "surface": "palāśāgre",
-"quick_gloss": "on-palasha-leaf"
+"quick_gloss": "on-palāśa-leaf-tip"
 },
 {
 "surface": "yādibhiḥ",
-"quick_gloss": "with-ya-etc"
+"quick_gloss": "with-ya-etc."
 },
 {
 "surface": "kramaśaḥ",
@@ -153,7 +193,7 @@
 },
 {
 "surface": "yajet",
-"quick_gloss": "should-worship"
+"quick_gloss": "one-should-worship"
 }
 ]
 },
@@ -166,11 +206,11 @@
 "tokens": [
 {
 "surface": "siddhamantrī",
-"quick_gloss": "accomplished-mantra-user"
+"quick_gloss": "accomplished-in-mantra"
 },
 {
 "surface": "tadastrāṇi",
-"quick_gloss": "those-weapons"
+"quick_gloss": "then-weapons"
 },
 {
 "surface": "prayogaṃ",
@@ -199,11 +239,11 @@
 },
 {
 "surface": "vidyā",
-"quick_gloss": "vidya"
+"quick_gloss": "knowledge"
 },
 {
 "surface": "mahāvidyā",
-"quick_gloss": "great-vidya"
+"quick_gloss": "great-knowledge"
 },
 {
 "surface": "na",
@@ -214,7 +254,11 @@
 "quick_gloss": "to-be-given"
 },
 {
-"surface": "yasya kasyacit",
+"surface": "yasya",
+"quick_gloss": "to-whomever"
+},
+{
+"surface": "kasyacit",
 "quick_gloss": "to-anyone"
 }
 ]
@@ -231,16 +275,16 @@
 "quick_gloss": "initiated"
 },
 {
-"surface": "kulajātistu",
-"quick_gloss": "kula-born"
+"surface": "kulajātu",
+"quick_gloss": "born-in-noble-family"
 },
 {
 "surface": "siddhidā",
-"quick_gloss": "giver-of-siddhi"
+"quick_gloss": "granting-success"
 },
 {
 "surface": "saiva",
-"quick_gloss": "that-alone"
+"quick_gloss": "she-alone"
 },
 {
 "surface": "nānyathā",
@@ -257,15 +301,19 @@
 "tokens": [
 {
 "surface": "prāptānantarasārṇave",
-"quick_gloss": "in-ocean-after-attainment"
+"quick_gloss": "obtained-in-the-ocean-of-essence"
 },
 {
 "surface": "mama",
 "quick_gloss": "my"
 },
 {
-"surface": "manohaṃsaściraṃ",
+"surface": "manohaṃsaḥ",
 "quick_gloss": "mind-swan"
+},
+{
+"surface": "ciraṃ",
+"quick_gloss": "for-long"
 },
 {
 "surface": "nandatu",
@@ -282,19 +330,27 @@
 "tokens": [
 {
 "surface": "sevante",
-"quick_gloss": "serve"
+"quick_gloss": "they-serve"
 },
 {
 "surface": "karivairiṇaṃ",
-"quick_gloss": "elephant-enemy"
+"quick_gloss": "enemy-of-elephant"
 },
 {
-"surface": "kim",
-"quick_gloss": "what"
+"surface": "kimaribhiḥ",
+"quick_gloss": "what-with-enemies"
 },
 {
-"surface": "aribhirbhītirbhavetsevinaḥ",
-"quick_gloss": "by-enemies"
+"surface": "bhītiḥ",
+"quick_gloss": "fear"
+},
+{
+"surface": "bhavet",
+"quick_gloss": "may-be"
+},
+{
+"surface": "sevinaḥ",
+"quick_gloss": "of-the-servant"
 }
 ]
 },
@@ -306,16 +362,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "cchrīmatpādapayojacumbanaparaṃ",
-"quick_gloss": "devoted-to-kissing-lotus-feet"
+"surface": "śrīmatpādapayojacumbanaparaṃ",
+"quick_gloss": "of-the-glorious-feet-lotus"
 },
 {
-"surface": "māmadya",
+"surface": "mām",
 "quick_gloss": "me"
 },
 {
+"surface": "adya",
+"quick_gloss": "today"
+},
+{
 "surface": "saṃbhāvaya",
-"quick_gloss": "consider"
+"quick_gloss": "honor"
 }
 ]
 },
@@ -328,19 +388,27 @@
 "tokens": [
 {
 "surface": "śrīmatpādapayojacintanavidhau",
-"quick_gloss": "in-meditation-on-lotus-feet"
+"quick_gloss": "in-the-method-of-contemplation-of-glorious-feet-lotus"
 },
 {
 "surface": "cittaṃ",
 "quick_gloss": "mind"
 },
 {
-"surface": "sadaivāstu",
+"surface": "sadā",
 "quick_gloss": "always"
 },
 {
+"surface": "eva",
+"quick_gloss": "indeed"
+},
+{
+"surface": "astu",
+"quick_gloss": "may-be"
+},
+{
 "surface": "naḥ",
-"quick_gloss": "our"
+"quick_gloss": "of-us"
 }
 ]
 },
@@ -352,20 +420,24 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "maccitte'kṣatasaṃpadi",
+"surface": "maccitte",
 "quick_gloss": "in-my-mind"
 },
 {
+"surface": "akṣatasaṃpadi",
+"quick_gloss": "in-unbroken-prosperity"
+},
+{
 "surface": "prasaratu",
-"quick_gloss": "unbroken-prosperity"
+"quick_gloss": "may-spread"
 },
 {
 "surface": "kṣemaṃkari",
-"quick_gloss": "welfare-doer"
+"quick_gloss": "O-granter-of-welfare"
 },
 {
 "surface": "kṣamyatām",
-"quick_gloss": "forgive"
+"quick_gloss": "may-it-be-forgiven"
 }
 ]
 },
@@ -377,12 +449,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "nmādhvīpūrṇabhavatpadaikakamalāmodena",
-"quick_gloss": "by-fragrance-of-your-single-lotus-foot"
+"surface": "na",
+"quick_gloss": "not"
 },
 {
-"surface": "nāsvāditaḥ",
-"quick_gloss": "not"
+"surface": "mādhvīpūrṇabhavatpadaikakamalāmodena",
+"quick_gloss": "by-the-fragrance-of-your-one-lotus-foot-filled-with-honey"
+},
+{
+"surface": "āsvāditaḥ",
+"quick_gloss": "tasted"
 }
 ]
 },
@@ -395,7 +471,7 @@
 "tokens": [
 {
 "surface": "śrīmadbhaktirasātidurdinaparīvāhaḥ",
-"quick_gloss": "stream-of-intense-devotion-rain"
+"quick_gloss": "the-flood-of-the-rainy-season-of-the-rasa-of-glorious-devotion"
 },
 {
 "surface": "sadā",
@@ -416,7 +492,7 @@
 "tokens": [
 {
 "surface": "pāṭhaḥ",
-"quick_gloss": "reading"
+"quick_gloss": "recitation"
 }
 ]
 },
@@ -428,8 +504,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "dṛpyaddaivatavairdāraṇapaṭurjīyājjayāhlādinī",
-"quick_gloss": "skilled-in-crushing-proud-gods-enemies"
+"surface": "dṛpyaddaivatavairdāraṇapaṭuḥ",
+"quick_gloss": "skilled-in-tearing-the-proud-gods-and-enemies"
+},
+{
+"surface": "jīyāt",
+"quick_gloss": "may-be-victorious"
+},
+{
+"surface": "jayāhlādinī",
+"quick_gloss": "delighting-in-victory"
 }
 ]
 },
@@ -442,7 +526,7 @@
 "tokens": [
 {
 "surface": "truṭyatkhaṇḍavikhaṇḍitākhilaśakuntakṣutpipāsojjvale",
-"quick_gloss": "bright-with-hunger-thirst-of-all-birds-broken"
+"quick_gloss": "in-the-blazing-hunger-and-thirst-of-all-birds-torn-by-breaking-fragments"
 }
 ]
 },
@@ -455,7 +539,7 @@
 "tokens": [
 {
 "surface": "smaret",
-"quick_gloss": "should-remember"
+"quick_gloss": "one-should-remember"
 },
 {
 "surface": "iti",
@@ -463,7 +547,7 @@
 },
 {
 "surface": "tantrasāre",
-"quick_gloss": "in-Tantra-sara"
+"quick_gloss": "in-the-Tantrasāra"
 }
 ]
 },
@@ -476,11 +560,11 @@
 "tokens": [
 {
 "surface": "dvīrāsphālalasatkarālavadanāṃ",
-"quick_gloss": "terrifying-face-shining-with-clashing"
+"quick_gloss": "with-terrible-face-flashing-from-waving-arms"
 },
 {
 "surface": "ghorāṭṭahāsodbhaṭām",
-"quick_gloss": "terrific-loud-laughter"
+"quick_gloss": "fierce-with-loud-terrible-laughter"
 }
 ]
 },
@@ -493,11 +577,11 @@
 "tokens": [
 {
 "surface": "stambhoccāṭanamāraṇādikṛtināṃ",
-"quick_gloss": "of-those-doing-immobilizing-etc"
+"quick_gloss": "of-those-engaged-in-acts-of-paralyzing-expelling-killing-etc."
 },
 {
 "surface": "teṣāṃ",
-"quick_gloss": "their"
+"quick_gloss": "of-them"
 },
 {
 "surface": "svayaṃ",
@@ -517,11 +601,11 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "steṣāṃ",
-"quick_gloss": "their"
+"surface": "teṣāṃ",
+"quick_gloss": "of-them"
 },
 {
-"surface": "hastagatā",
+"surface": "hastagatāḥ",
 "quick_gloss": "in-hand"
 },
 {
@@ -530,11 +614,15 @@
 },
 {
 "surface": "jagatāṃ",
-"quick_gloss": "of-worlds"
+"quick_gloss": "of-the-worlds"
 },
 {
-"surface": "mātarnamaste",
-"quick_gloss": "mother"
+"surface": "mātaḥ",
+"quick_gloss": "O-mother"
+},
+{
+"surface": "namaste",
+"quick_gloss": "salutation-to-you"
 },
 {
 "surface": "jaya",
@@ -571,7 +659,7 @@
 },
 {
 "surface": "mama",
-"quick_gloss": "my"
+"quick_gloss": "to-me"
 },
 {
 "surface": "sukhāvaham",
@@ -588,19 +676,23 @@
 "tokens": [
 {
 "surface": "tripurā",
-"quick_gloss": "Tripura"
+"quick_gloss": "Tripurā"
 },
 {
-"surface": "bhairavīmūrtirādyā",
-"quick_gloss": "Bhairavi-form"
+"surface": "bhairavīmūrtiḥ",
+"quick_gloss": "form-of-Bhairavī"
 },
 {
-"surface": "sā",
+"surface": "ādyā",
 "quick_gloss": "primordial"
 },
 {
+"surface": "sā",
+"quick_gloss": "she"
+},
+{
 "surface": "parikīrtitā",
-"quick_gloss": "proclaimed"
+"quick_gloss": "is-proclaimed"
 }
 ]
 }
