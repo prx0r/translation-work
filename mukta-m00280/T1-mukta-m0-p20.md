@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p20-v476
-[therefore](tasmāt) [without-doubt](nissaṃśayaḥ) [speak](brūhi) [not-secret](agopyaṃ) [supreme-lord](parameśvara)
+[therefore](tasmāt) [without+doubt](nissaṃśayaḥ) [speak](brūhi) [not+to-be-concealed](agopyam) [supreme+lord](parameśvara)
 
 ## mukta-m0-p20-v477
-[all-knowing](sarvajñā) [consciousness](cetanā) [pure](śuddhā) [illuminator-of-all-principles](sarvatatvaprakāśikā)
+[all+knowing](sarvajñā) [consciousness](cetanā) [pure](śuddhā) [all+principles+illuminating](sarva+tatva+prakāśikā)
 
 ## mukta-m0-p20-v478
-[by-qualities](guṇataḥ) [by-faults](doṣataḥ) [and-indeed](caiva) [pure-impure](śuddhāśuddheṣu) [beings](prāṇiṣu)
+[from+qualities](guṇataḥ) [from+faults](doṣataḥ) [and+indeed](ca+eva) [in+pure+and+impure](śuddha+aśuddheṣu) [beings](prāṇiṣu)
 
 ## mukta-m0-p20-v479
-[in-all](sarveṣu) [pervading](anugatā) [power](śaktiḥ) [always](nityaṃ) [in-all](sarveṣu) [abides](tiṣṭhati)
+[in+all+pervading](sarveṣu+anugatā) [power](śaktiḥ) [always](nityam) [in+all](sarveṣu) [abides](tiṣṭhati)
 
 ## mukta-m0-p20-v480
-[a](a) [star](*) [star](*) [not-thus](nātve) [six](ṣaṭ) [exist](vartante) [then](atha) [powers-of-lord](ceśvaraśaktayaḥ)
+[a](a) [*](*) [*](*) [in+thatness](nātve) [six](ṣaṭ) [exist](vartante) [now](atha) [and](ca) [lord+powers](īśvara+śaktayaḥ)
 
 ## mukta-m0-p20-v481
-[in-space](ākāśe) [and](ca) [spaciousness](avakāśitvaṃ) [powers-of-lord-of-principles](tattvadīśvaraśaktayaḥ)
+[in+space](ākāśe) [and](ca) [spaciousness](avakāśitvam) [principle](tattva) [lord+powers](dīśvara+śaktayaḥ)
 
 ## mukta-m0-p20-v482
-[touch](sparśaḥ) [in-air](anile) [sound](śabdaḥ) [likewise](tadvat) [powers-of-lord](īśvaraśaktayaḥ)
+[touch](sparśaḥ) [in+wind](anile) [lord](īśvare) [sound](śabdaḥ) [likewise](tadvat) [lord+powers](dīśvara+śaktayaḥ)
 
 ## mukta-m0-p20-v483
-[power](śakti) [of-power-holder](śaktimatoḥ) [likewise](tadvat) [beginninglessness](anāditvam) [here](iha) [is-accepted](iṣyate)
+[of+power+and+power-holder](śakti+śaktimatoḥ) [likewise](tadvat) [beginninglessness](anāditvam) [here](iha) [is+accepted](iṣyate)
 
 ## mukta-m0-p20-v484
-[light](tejaḥ) [worlds](lokāḥ) [situated-in-own-body](svadehasthāḥ) [so](tathā) [power](śaktiḥ) [supreme](pare) [in-shiva](śive)
+[fire](tejaḥ) [worlds](lokāḥ) [own+body+abiding](sva+deha+sthāḥ) [likewise](tathā) [power](śakti) [in+supreme](pare) [Śiva](śive)
 
 ## mukta-m0-p20-v485
-[of-substrate](dharmiṇaḥ) [by-own-will](svecchayā) [quality](dharmam) [activity](pravṛttim) [presides](adhitiṣṭhati)
+[of+the+attribute-holder](dharmiṇaḥ) [by+own+will](sva+icchayā) [attribute](dharmam) [activity](pravṛttim) [presides+over](adhitiṣṭhati)
 
 ## mukta-m0-p20-v486
-[held](dhṛte) [in-substrate](dharmiṇi) [quality](dharmaḥ) [that](asau) [true-cause](satkāraṇam) [here](iha) [is-said](ucyate)
+[when+supported](dhṛte) [attribute-holder](dharmiṇi) [attribute](dharmaḥ) [this](asau) [true+cause](sat+kāraṇam) [here](iha) [is+called](ucyate)
 
 ## mukta-m0-p20-v487
-[tell](kathayasva) [completely](aśeṣam) [indeed](tu) [distinction-of-principles](tatvabhedam) [higher-lower](parāparam)
+[tell](kathayasva) [without+remainder](aśeṣam) [indeed](tu) [principle+distinction](tatva+bhedam) [higher+and+lower](para+aparam)
 
 ## mukta-m0-p20-v488
-[how](kathaṃ) [and](ca) [in-sleep](śayane) [principles](tatvāḥ) [know](vidante) [dreamers](svapnavāriṇaḥ)
+[how](katham) [and](ca) [in+sleep](śayane) [principles](tatvāḥ) [know](vidante) [dream+waters](svapna+vāriṇaḥ)
 
 ## mukta-m0-p20-v489
-[in-breath](śvasane) [who](ka) [situated](sthitāḥ) [principles](tatvāḥ) [long-breath](dīrghaprāṇe) [in-movement](care) [situated](sthitāḥ)
+[in+breathing](śvasane) [where+situated](ka+sthitāḥ) [those+principles](tatvāḥ) [in+long+breath](dīrgha+prāṇe) [in+moving](care) [situated](sthitāḥ)
 
 ## mukta-m0-p20-v490
-[dancing](nṛtyataḥ) [singing](gāyataḥ) [and-indeed](caiva) [anger](manyudaḥ) [compassionate-eager](karuṇotsuke)
+[of+one+dancing](nṛtyataḥ) [of+one+singing](gāyataḥ) [and+indeed](ca+eva) [of+one+giving+anger](manyu+daḥ) [of+one+eager+for+compassion](karuṇa+utsuke)
 
 ## mukta-m0-p20-v491
-[this](eṣa) [in-actions](karmasu) [of-attached](saktānām) [in-death](prāṇatyāgeṣu) [what](kā) [destination](gatiḥ)
+[this](eṣaḥ) [in+actions](karmasu) [of+those+attached](saktānām) [in+abandoning+life](prāṇa+tyāgeṣu) [what](kā) [destiny](gatiḥ)
 
 ## mukta-m0-p20-v492
-[are-known](vijñāyante) [how](kathaṃ) [principles](tatvāḥ) [eightfold](aṣṭadhā) [ninefold](navadhā) [situated](sthitāḥ)
+[are+known](vijñāyante) [how](katham) [principles](tatvāḥ) [eightfold](aṣṭadhā) [ninefold](navadhā) [situated](sthitāḥ)
 
 ## mukta-m0-p20-v493
-[lacking-inner-organ](antaḥkaraṇahīnāḥ) [and](ca) [how](yathā) [in-body](dehe) [established](pratiṣṭhitāḥ)
+[without+inner+organ](antaḥkaraṇa+hīnāḥ) [and](ca) [as](yathā) [in+body](dehe) [established](pratiṣṭhitāḥ)
 
 ## mukta-m0-p20-v494
-[hear](śṛṇu) [goddess](devi) [supreme](param) [secret](guhyam) [in-body](dehe) [principles](tatvāḥ) [how](yathā) [situated](sthitāḥ)
+[hear](śṛṇu) [goddess](devi) [supreme](param) [secret](guhyam) [in+body](dehe) [principles](tatvāḥ) [as](yathā) [situated](sthitāḥ)
 
 ## mukta-m0-p20-v495
-[let-be-heard](śrūyatām) [existence-of-knowledge](jñānasadbhāvam) [distinction-of-principles](tatvabhedam) [higher-lower](parāparam)
+[let+be+heard](śrūyatām) [knowledge+true+nature](jñāna+sadbhāvam) [principle+distinction](tatva+bhedam) [higher+and+lower](para+aparam)
 
 ## mukta-m0-p20-v496
-[joy](harṣa) [madness](unmādaḥ) [and](ca) [delusion](saṃmohaḥ) [told](kathitam) [celestial-beauty](surasundarī)
+[joy](harṣaḥ) [frenzy](unmādaḥ) [and](ca) [delusion](saṃmohaḥ) [told](kathitam) [gods+beautiful+one](sura+sundarī)
 
 ## mukta-m0-p20-v497
-[upward](ūrdhva) [downward](adhara) [experience](anubhāvaḥ) [and](ca) [left](vāma) [right](dakṣiṇataḥ) [so](tathā)
+[upward](ūrdhve) [downward](adharaḥ) [experience](anubhāvaḥ) [and](ca) [from+left+and+right](vāma+dakṣiṇataḥ) [likewise](tathā)
 
 ## mukta-m0-p20-v498
-[speech](vāk) [mouth](vaktra) [lower-lip](adhara) [placed](nikṣipta) [causeless](animitta) [observation](nirīkṣaṇam)
+[speech](vāk) [mouth](vaktra) [lip](adhara) [placed](nikṣiptam) [without+cause](animitta) [looking](nirīkṣaṇam)
 
 ## mukta-m0-p20-v499
-[thus](evaṃ) [indeed](vai) [eightfold](aṣṭadhā) [knowing](jñātvā) [this](etat) [indeed](vai) [mark-of-void](śūnyalakṣaṇam)
+[thus](evam) [indeed](vai) [eightfold](aṣṭadhā) [having+known](jñātvā) [this](etat) [indeed](vai) [void+characteristic](śūnya+lakṣaṇam)
 
 ## mukta-m0-p20-v500
-[hum-sound](huṃkāra) [union-with-mind](manasaṃyuktiḥ) [rich-in-arts](kalāḍhyaḥ) [told](kathitaḥ) [eightfold](aṣṭadhā)
+[huṃ+sound](huṃkāra) [mind+union](manas+saṃyuktiḥ) [endowed+with+kalā](kalā+āḍhyaḥ) [declared](kathitaḥ) [eightfold](aṣṭadhā)
