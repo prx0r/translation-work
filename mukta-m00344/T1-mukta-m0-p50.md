@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p50-v1226
-[tat-nirodhaḥ](tannirodhaḥ) [mano-nirodhaḥ](manonirodhaḥ) [nidarśanam](nidarśanaṃ) [dṛṣṭāntam](dṛṣṭāntam)
+[its-restraint](tannirodhaḥ) [mind-restraint](manonirodhaḥ) [illustration](nidarśanaṃ) [example](dṛṣṭāntam)
 
 ## mukta-m0-p50-v1227
-[dīpa+ādyaiḥ+āpyate](dīpādyairāpyate) [prāptam+iva](prāptamiva) [loke](loke) [yathā](yathā) [tathā](tathā)
+[by-lamp+etc.](dīpādyaiḥ) [is-obtained](āpyate) [obtained+as-if](prāptam+iva) [in-world](loke) [as](yathā) [so](tathā)
 
 ## mukta-m0-p50-v1228
-[sva-rūpa-prāpakatvam+iti](svarūpaprāpakatvamiti) [bhāvaḥ](bhāvaḥ)
+[own-nature+attainment-ness](svarūpaprāpakatvam) [thus](iti) [meaning](bhāvaḥ)
 
 ## mukta-m0-p50-v1229
-[anya-cintā-nirodhena](anyacintānirodhena) [samāhitatayā](samāhitatayā) [punaḥ](punaḥ)
+[by-other+thought+cessation](anyacintānirodhena) [by-collected-state](samāhitatayā) [again](punaḥ)
 
 ## mukta-m0-p50-v1230
-[dṛṣṭānta-antaram+āha](dṛṣṭāntāntaramāha) [yathā+iti](yatheti) [niṣkam](niṣkaṃ) [suvarṇam](suvarṇam)
+[another+example](dṛṣṭāntāntaram) [states](āha) [as](yathā) [thus](iti) [gold-coin](niṣkaṃ) [gold](suvarṇam)
 
 ## mukta-m0-p50-v1231
-[na](na) [nirodhaḥ](nirodho) [atra](atra) [hetuḥ](hetuḥ) [syāt](syāt) [niṣka-āptau](niṣkāptau) [tu](tu) [yathā](yathā) [tathā](tathā)
+[not](na) [restraint](nirodhaḥ) [here](atra) [cause](hetuḥ) [would-be](syāt) [in-gold-coin+attainment](niṣkāptau) [but](tu) [as](yathā) [so](tathā)
 
 ## mukta-m0-p50-v1232
-[yathā+anya-cintā-nirodhaḥ](yathānyacintānirodho) [na](na) [niṣka-prāptau](niṣkaprāptau) [hetuḥ](hetuḥ) [tathā](tathā) [prakṛte+api](prakṛtepi) [nirodhaḥ](nirodho) [na](na) [hetuḥ](hetuḥ)
+[as](yathā) [other+thought+cessation](anyacintānirodhaḥ) [not](na) [in-gold-coin+attainment](niṣkaprāptau) [cause](hetuḥ) [so](tathā) [in-present-case+also](prakṛte+api) [restraint](nirodhaḥ) [not](na) [cause](hetuḥ)
 
 ## mukta-m0-p50-v1233
-[tvayā](tvayā) [na](na) [lakṣitaḥ](lakṣitaḥ) [sva-ātmā](svātmā) [tatra](tatra) [vyutpatti-varjanāt](vyutpattivarjanāt)
+[by-you](tvayā) [not](na) [perceived](lakṣitaḥ) [own-self](svātmā) [there](tatra) [by-understanding+absence](vyutpattivarjanāt)
 
 ## mukta-m0-p50-v1234
-[tatra+iti](tatreti) [vyutpattiḥ](vyutpattiḥ) [vastu-paricayaḥ](vastuparicayaḥ)
+[there](tatra) [thus](iti) [understanding](vyutpattiḥ) [thing+knowledge](vastuparicayaḥ)
 
 ## mukta-m0-p50-v1235
-[paśyan](paśyan) [sabhyāṃś+ca](sabhyāṃśca) [dīpāṃś+ca](dīpāṃśca) [na](na) [jānāti](jānāti) [prakāśakam](prakāśakam)
+[seeing](paśyan) [assembly](sabhyāṃḥ) [and](ca) [lamps](dīpāṃḥ) [and](ca) [not](na) [knows](jānāti) [illuminator](prakāśakam)
 
 ## mukta-m0-p50-v1236
-[paricaya-hīnaḥ](paricayahīnaḥ) [evaṃ](evaṃ) [tvayā](tvayā) [na](na) [lakṣitaḥ](lakṣitaḥ) [iti](iti) [yojyam](yojyam)
+[knowledge+devoid](paricayahīnaḥ) [thus](evaṃ) [by-you](tvayā) [not](na) [perceived](lakṣitaḥ) [thus](iti) [to-be-construed](yojyam)
 
 ## mukta-m0-p50-v1237
-[andhakāra-avaloka-ādau](andhakārāvalokādau) [śeṣa-bhāvaḥ](śeṣabhāvaḥ) [tava](tava) [sthitaḥ](sthitaḥ)
+[in-darkness+perception+etc.](andhakārāvalokādau) [remainder+state](śeṣabhāvaḥ) [of-you](tava) [remained](sthitaḥ)
 
 ## mukta-m0-p50-v1238
-[kālaṃ](kālaṃ) [kiñcit](kiñcit) [avidan](avidan) [na+asam](nāsam) [iti](iti) [anusandhānāt+ca+iti](anusandhānācceti)
+[time](kālaṃ) [a-little](kiñcit) [not-knowing](avidan) [I-was](āsam) [thus](iti) [from-recollection](anusandhānāt) [and](ca) [thus](iti)
 
 ## mukta-m0-p50-v1239
-[atra](atra) [sarve](sarve) [mahā-moha-graha-grastāḥ](mahāmohagrahagrastāḥ) [parāg-dṛśaḥ](parāgdṛśaḥ)
+[here](atra) [all](sarve) [by-great+delusion+seizure+seized](mahāmohagrahagrastāḥ) [outward+seers](parāgdṛśaḥ)
 
 ## mukta-m0-p50-v1240
-[yat+uktam](yaduktam) [paśyāmi+iti](paśyāmīti) [parāg-dṛṣṭeḥ](parāgdṛṣṭeralabhyaṃ) [alabhyaṃ](alabhyaṃ) [tat](tat) [paraṃ](paraṃ) [padam](padam) [iti](iti)
+[as](yat) [said](uktam) [I-see](paśyāmi) [thus](iti) [of-outward+vision](parāgdṛṣṭeḥ) [unattainable](alabhyaṃ) [that](tat) [supreme](paraṃ) [state](padam) [thus](iti)
 
 ## mukta-m0-p50-v1241
-[santi](santi) [loke](loke) [śāstra-vidaḥ](śāstravidaḥ) [kuśalāḥ+ca](kuśalāśca) [suta-ārkikāḥ](sutārkikāḥ)
+[are](santi) [in-world](loke) [scripture+knowers](śāstravidaḥ) [skilled](kuśalāḥ) [and](ca) [good+logicians](sutārkikāḥ)
 
 ## mukta-m0-p50-v1242
-[śocanti+eva+iti](śocantyeveti) [bhāvaḥ](bhāvaḥ)
+[they-grieve](śocanti) [indeed](eva) [thus](iti) [meaning](bhāvaḥ)
 
 ## mukta-m0-p50-v1243
-[śabda-artha-śilpa-mātreṇa](śabdārthaśilpamātreṇa) [na+hi](nahi) [tat-padam](tatpadam) [āpyate](āpyate)
+[by-word+meaning+craft+mere](śabdārthaśilpamātreṇa) [not](na) [indeed](hi) [that+state](tatpadam) [is-attained](āpyate)
 
 ## mukta-m0-p50-v1244
-[śabda-arthe](śabdārthe) [śruta-arthe](śrutārthe) [śilpaḥ](śilpo) [mananam](mananaṃ) [tat-mātreṇa](tanmātreṇa)
+[in-word+meaning](śabdārthe) [in-heard+meaning](śrutārthe) [skill](śilpaḥ) [reflection](mananaṃ) [by-that+mere](tanmātreṇa)
 
 ## mukta-m0-p50-v1245
-[tāvat](tāvanna) [na](na) [prāpyate](prāpyate) [tat+vai](tadvai) [yato](yato) [na](na) [grāhyam+eva](grāhyameva) [tat](tat)
+[so-long](tāvat) [not](na) [is-attained](prāpyate) [that](tat) [indeed](vai) [because](yataḥ) [not](na) [graspable](grāhyam) [indeed](eva) [that](tat)
 
 ## mukta-m0-p50-v1246
-[citta-ārūḍha+teti](cittārūḍhateti) [bhāvaḥ](bhāvaḥ)
+[mind+mounted-ness](cittārūḍhatā) [thus](iti) [meaning](bhāvaḥ)
 
 ## mukta-m0-p50-v1247
-[na](na) [tat](tadvicārya) [vicārya](vicārya) [vijñeyam](vijñeyam) [avicārāt](avicārād) [vibhāsate](vibhāsate)
+[not](na) [that](tat) [by-inquiry](vicārya) [to-be-known](vijñeyam) [from-non-inquiry](avicārāt) [shines-forth](vibhāsate)
 
 ## mukta-m0-p50-v1248
-[pratyag-rūpatvena](pratyagrūpatvenendriyamanonirodhamantarā) [indriya-mano-nirodham](indriyamanonirodham) [antarā](antarā) [durvijñeyatvam+iti](durvijñeyatvamiti) [bhāvaḥ](bhāvaḥ)
+[by-inward+form-ness](pratyagrūpatvena) [sense+mind+restraint](indriyamanonirodham) [without](antarā) [difficult-to-know-ness](durvijñeyatvam) [thus](iti) [meaning](bhāvaḥ)
 
 ## mukta-m0-p50-v1249
-[yathā](yathā) [hi](hi) [nirmala-ādarśe](nirmalādarśe) [pratibimba-sahasrakam](pratibimbasahasrakam)
+[as](yathā) [indeed](hi) [in-clean+mirror](nirmalādarśe) [reflection+thousand](pratibimbasahasrakam)
 
 ## mukta-m0-p50-v1250
-[nirūpayati](nirūpayati) [yathā+iti](yatheti)
+[explains](nirūpayati) [as](yathā) [thus](iti)
