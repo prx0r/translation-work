@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p54-v1326
-[time-wish-tree](kālakalpataruṃ) [having-bowed](natvā) [power-siddhi](bhūtinīsiddhiḥ) [is-said](ucyate)
+[time-wish-fulfilling-tree](kālakalpataruṃ) [having-bowed](natvā) [bhūtinī-accomplishment](bhūtinīsiddhiḥ) [is-stated](ucyate)
 
 ## mukta-m0-p54-v1327
-[saving-one](tāriṇī) [lioness](siṃhinī) [and-then](cātho) [swan-one](haṃsinī) [and](ca) [then](tato) [dancer](naṭī)
+[savior](tāriṇī) [lioness](siṃhinī) [and-also](ca+atho) [swan-lady](haṃsinī) [and](ca) [then](tato) [dancer](naṭī)
 
 ## mukta-m0-p54-v1328
-[wrath-weapon-two-name-end](krodhāstradvayanāmānte) [spirit-power-trikūrca-from](bhūtavīryastrikūrcataḥ)
+[wrath-weapon-two-name](krodhāstradvayanāmā) [at-end](ante) [bhūta-vīrya-three-kūrca](bhūtavīryastrikūrcataḥ)
 
 ## mukta-m0-p54-v1329
-[wrath-two](krodhadvayaṃ) [indeed](tu) [mantra-this](mantro'yaṃ) [adorned-one's](vibhūṣiṇyāḥ) [is-declared](udāhṛtaḥ)
+[wrath-two](krodhadvayaṃ) [indeed](tu) [mantra](mantraḥ) [this](ayaṃ) [of-vibhūṣiṇī](vibhūṣiṇyāḥ) [declared](udāhṛtaḥ)
 
 ## mukta-m0-p54-v1330
-[whose](yasyāḥ) [hair-mass-tangled](keśakulākulā) [whole-earth](akhilamahī) [mountain-end](śailāntam) [may-protect](ārakṣatu)
+[of-whom](yasyāḥ) [hair-mass-agitated-entire-earth](keśakulākulākhilamahī) [up-to-mountain](śailāntam) [may-protect](ārakṣatu)
 
 ## mukta-m0-p54-v1331
-[should-recite](japed) [eight-thousand](aṣṭasahasraṃ) [indeed](tu) [meditating](dhyāyan) [one-pointed-mind](ekāgramānasaḥ)
+[should-recite](japet) [eight-thousand](aṣṭasahasraṃ) [indeed](tu) [meditating](dhyāyan) [with-one-pointed-mind](ekāgramānasaḥ)
 
 ## mukta-m0-p54-v1332
-[should-recite](prajaped) [midnight](ardharātre) [indeed](tu) [comes](samāyāti) [adorned-one](vibhūṣiṇī)
+[should-recite](prajapet) [at-midnight](ardharātre) [indeed](tu) [comes](samāyāti) [vibhūṣiṇī](vibhūṣiṇī)
 
 ## mukta-m0-p54-v1333
-[mother](mātā) [or](vā) [sister](bhaginī) [wife](bhāryā) [pleased](tuṣṭā) [becomes](bhavati) [desired](kāmitā)
+[mother](mātā) [or](vā) [sister](bhaginī) [wife](bhāryā) [satisfied](tuṣṭā) [becomes](bhavati) [desired](kāmitā)
 
 ## mukta-m0-p54-v1334
-[hundred-eight-attendant's](śatāṣṭaparivārasya) [gives](dadāti) [collyrium-ornament](añjanabhūṣaṇam)
+[hundred-eight-retinue](śatāṣṭaparivārasya) [gives](dadāti) [collyrium-ornament](añjanabhūṣaṇam)
 
 ## mukta-m0-p54-v1335
-[gives](dadāti) [woman](striyam) [bringing](ānīya) [divine](divyaṃ) [mercury-elixir](rasarasāyanam)
+[gives](dadāti) [woman](striyam) [having-brought](ānīya) [divine](divyaṃ) [mercury-elixir](rasarasāyanam)
 
 ## mukta-m0-p54-v1336
-[dinars](dīnārāṇāṃ) [thousand](sahasraṃ) [indeed](tu) [mercury](rasaṃ) [and-indeed](caiva) [elixir](rasāyanam)
+[of-dinars](dīnārāṇāṃ) [thousand](sahasraṃ) [indeed](tu) [mercury](rasaṃ) [and](ca) [also](eva) [elixir](rasāyanam)
 
 ## mukta-m0-p54-v1337
-[certainly](dhruvam) [illusion-weapon-two-from](āyāstradvayataḥ) [declared](proktā) [earring-bearer](kuṇḍaladhāriṇī)
+[dhruva-māyā-weapon-two](dhruvamāyāstradvayataḥ) [declared](proktā) [earring-bearer](kuṇḍaladhāriṇī)
 
 ## mukta-m0-p54-v1338
-[may-protect](pāyāt) [earring-bearer](kuṇḍaladhāriṇī) [three-worlds-joy-abundance-source](trijagatāmānandasandohabhūḥ)
+[may-protect](pāyāt) [earring-bearer](kuṇḍaladhāriṇī) [of-three-worlds](trijagatām) [bliss-abundance-source](ānandasandohabhūḥ)
 
 ## mukta-m0-p54-v1339
-[comes](āyāti) [with-blood](rudhireṇa) [arghya](arghyaḥ) [to-be-given](deyaḥ) [pleased](tuṣṭaḥ) [gives](dadāti) [also](api)
+[comes](āyāti) [with-blood](rudhireṇa) [offering](arghyaḥ) [to-be-given](deyaḥ) [satisfied](tuṣṭaḥ) [gives](dadāti) [also](api)
 
 ## mukta-m0-p54-v1340
-[five-hundred-days](pañcaśatavāsarāṇi) [three-worlds](trailokyam) [also](api) [will-give](dāsyati)
+[five-hundred-days](pañcaśatavāsarāṇi) [three-worlds](trailokyam) [even](api) [will-give](dāsyati)
 
 ## mukta-m0-p54-v1341
-[trikūrca-weapon-declared](kūrcatrayāstrasaṃproktaḥ) [vermilion-bearer-mantra](sindūrahāriṇīmanuḥ)
+[kūrca-three-weapon](kūrcatrayāstra) [declared](saṃproktaḥ) [vermilion-bearer-mantra](sindūrahāriṇīmanuḥ)
 
 ## mukta-m0-p54-v1342
-[may-protect](pāyāt) [beloved-root-Rāhu-creeper](vallabhamūlarāhulatikā) [vermilion-bearer-this](sindūrahāriṇyasau)
+[may-protect](pāyāt) [beloved-root-rāhu-creeper](vallabhamūlarāhulatikā) [vermilion-bearer](sindūrahāriṇī) [this](asau)
 
 ## mukta-m0-p54-v1343
-[quickly-comes](śīghramāyātyāgatā) [she](sā) [wife](bhāryā) [becomes](bhavati) [desired](kāmitā)
+[quickly](śīghram) [comes](āyāti) [having-come](āgatā) [she](sā) [wife](bhāryā) [becomes](bhavati) [desired](kāmitā)
 
 ## mukta-m0-p54-v1344
-[protects](rakṣati) [twelve-people](dvādaśajanān) [goddess](devī) [vermilion-bearer](sindūrahāriṇī)
+[protects](rakṣati) [twelve-persons](dvādaśajanān) [goddess](devī) [vermilion-bearer](sindūrahāriṇī)
 
 ## mukta-m0-p54-v1345
-[wrath-seed-three-from-born](krodhabījatrayājjātaḥ) [proclaimed](kīrtitaḥ) [lioness-mantra](siṃhinīmanuḥ)
+[wrath-seed-three](krodhabījatrayāt) [born](jātaḥ) [proclaimed](kīrtitaḥ) [lioness-mantra](siṃhinīmanuḥ)
 
 ## mukta-m0-p54-v1346
-[she-this](seyaṃ) [may-protect](pātu) [all-head-family-hanging-garland-tangled](samastamastakakulavyālambimālākulā)
+[she](sā) [this](iyaṃ) [may-protect](pātu) [all-head-mass-hanging-garland-filled](samastamastakakulavyālambimālākulā)
 
 ## mukta-m0-p54-v1347
-[then](tato) [delighted](hṛṣṭā) [very-boon-giving](ativaradā) [lioness-comes](siṃhinyāyāti) [worshipped](pūjitā)
+[then](tato) [pleased](hṛṣṭā) [very-boon-giving](ativaradā) [lioness](siṃhinī) [comes](āyāti) [worshipped](pūjitā)
 
 ## mukta-m0-p54-v1348
-[dinar](dīnāraṃ) [cloth-pair](vastrayugalaṃ) [giving](dadhad) [mercury-elixir](rasarasāyanam)
+[dinar](dīnāraṃ) [garment-pair](vastrayugalaṃ) [giving](dadhat) [mercury-elixir](rasarasāyanam)
 
 ## mukta-m0-p54-v1349
-[trikūrca-weapon](trikūrcāstraṃ) [and](ca) [declared](kathito) [swan-mantra-supreme](haṃsi(nī)manuruttamaḥ)
+[three-kūrca-weapon](trikūrcāstraṃ) [and](ca) [declared](kathitaḥ) [swan-lady-mantra](haṃsinīmanuḥ) [supreme](uttamaḥ)
 
 ## mukta-m0-p54-v1350
-[pearl-adorned-swinging-garland-creeper](muktāyuktavilolahāralatikā) [glorious-swan](śrīhaṃsinī) [may-protect](pātu) [you](vaḥ)
+[pearl-adorned-swaying-garland-creeper](muktāyuktavilolahāralatikā) [glorious-swan-lady](śrīhaṃsinī) [may-protect](pātu) [you](vaḥ)
