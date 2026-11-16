@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p108-v2676
-[caturbhāgaiḥ](caturbhāgaiḥ) [caturbhāgaiḥ](caturbhāgaiḥ) [śeṣān](śeṣān) [yāḥ](yāḥ) [candraśālikā](candraśālikā)
+[fourth-parts](caturbhāgaiḥ) [fourth-parts](caturbhāgaiḥ) [remaining](śeṣāni) [other](āḥ) [moon-hall](candraśālikā)
 
 ## mukta-m0-p108-v2677
-[evaṃ](evaṃ) [pañcadaśākhyātāḥ](pañcadaśākhyātāḥ) [pañcabhūmīnduśālikāḥ](pañcabhūmīnduśālikāḥ)
+[thus](evaṃ) [fifteen-named](pañcadaśa+ākhyātāḥ) [five-storied-moon-hall](pañca+bhūmi+indu+śālikāḥ)
 
 ## mukta-m0-p108-v2678
-[sārdhena](sārdhena) [madhyataḥ](madhyataḥ) [tatra](tatra) [rathakārdhaṃ](rathakārdhaṃ) [samudgataḥ](samudgataḥ)
+[with-half](sārdhena) [in-middle](madhyataḥ) [there](tatra) [chariot-half](ratha+kārdhaṃ) [risen](samudgataḥ)
 
 ## mukta-m0-p108-v2679
-[ṣaṣṭibhāgasamucchāyaṃ](ṣaṣṭibhāgasamucchāyaṃ) [kuryāt](kuryāt) [ardhenduśālikām](ardhenduśālikām)
+[sixty-parts-height](ṣaṣṭi+bhāga+samucchāyaṃ) [should-make](kuryāt) [half-moon-hall](ardha+indu+śālikām)
 
 ## mukta-m0-p108-v2680
-[kumbhapaṭṭīṃ](kumbhapaṭṭīṃ) [tathā](tathā) [kaṇṭham](kaṇṭham) [ardhena](ardhena) [parikalpayet](parikalpayet)
+[pitcher-band](kumbha+paṭṭīṃ) [thus](tathā) [neck](kaṇṭham) [by-half](ardhena) [should-arrange](parikalpayet)
 
 ## mukta-m0-p108-v2681
-[tathā](tathā) [kāryā](kāryā) [bhāgabhāgena](bhāgabhāgena) [nirmitā](nirmitā)
+[thus](tathā) [should-be-made](kāryā) [part-by-part](bhāga+bhāgena) [made](nirmitā)
 
 ## mukta-m0-p108-v2682
-[khaneśca](khaneśca) [tilakopetaṃ](tilakopetaṃ) [tadbāhye](tadbāhye) [ardhenduśālikā](ardhenduśālikā)
+[in-ground](khaneḥ) [with-tilaka](ca) [tilaka+upetaṃ] [that-outside](tad+bāhye) [half-moon-hall](ardha+indu+śālikā)
 
 ## mukta-m0-p108-v2683
-[tanmadhye](tanmadhye) [śikharī](śikharī) [dvyaṃśā](dvyaṃśā) [ucchritātimanoramā](ucchritātimanoramā)
+[that-in-middle](tan+madhye) [small-shrine](śikharī) [two-parts](dvyaṃśā) [height-very-charming](ucchrita+ati+manoramā)
 
 ## mukta-m0-p108-v2684
-[tatpārśvārdhārathe](tatpārśvārdhārathe) [pyevaṃ](pyevaṃ) [kartavyārdhendaśālikā](kartavyārdhendaśālikā)
+[that-side-half-chariot](tat+pārśva+ardha+ratha+api) [thus](evaṃ) [should-be-made-half-moon-hall](kartavyā+ardha+indu+śālikā)
 
 ## mukta-m0-p108-v2685
-[uparyupari](uparyupari) [ca](ca) [trīṇi](trīṇi) [ekaṃ](ekaṃ) [bhūsūtratulyataḥ](bhūsūtratulyataḥ)
+[above-above](upari+upari) [and](ca) [three](trīṇi) [one](ekaṃ) [thus](evaṃ) [ground-line-equal](bhū+sūtra+tulyataḥ)
 
 ## mukta-m0-p108-v2686
-[madhyarathasya](madhyarathasya) [karma](karma) [idaṃ](idaṃ) [vedikādyam](vedikādyam) [athocyate](athocyate)
+[middle-chariot](madhya+rathasya) [work-this](karma+idam) [pedestal-etc-now-is-said](vedikā+ādyam+atha+ucyate)
 
 ## mukta-m0-p108-v2687
-[pādāt](pādāt) [praveśapaṭṭī](praveśapaṭṭī) [syāt](syāt) [nirgamā](nirgamā) [paṭṭikāṅghritaḥ](paṭṭikāṅghritaḥ)
+[from-foot](pādāt) [entrance-band](praveśa+paṭṭī) [should-be](syāt) [exit-band-foot](nirgamā+paṭṭikā+aṅghritaḥ)
 
 ## mukta-m0-p108-v2688
-[pādena](pādena) [caturasrā](caturasrā) [syāt](syāt) [sā](sā) [garbhārdhapravistarā](garbhārdhapravistarā)
+[by-foot](pādena) [four-cornered](caturasrā) [should-be](syāt) [that](sā) [womb-half-breadth](garbha+ardha+pravistarā)
 
 ## mukta-m0-p108-v2689
-[haṃsākhyāntārdhasūtrācca](haṃsākhyāntārdhasūtrācca) [ṣaḍvibhāgastaducchrayaḥ](ṣaḍvibhāgastaducchrayaḥ)
+[hamsa-named-half-line](haṃsa+ākhyā+anta+ardha+sūtrāt) [and](ca) [six-divisions](ṣaṭ+vibhāgaḥ) [that-height](tad+ucchrayaḥ)
 
 ## mukta-m0-p108-v2690
-[kapolādaṃśaniṣkāśādamalāsāravistaraḥ](kapolādaṃśaniṣkāśādamalāsāravistaraḥ)
+[from-cheek](kapolāt) [part-protrusion](aṃśa+niṣkāśāt) [amalasa-band-breadth](amalāsa+āra+vistaraḥ)
 
 ## mukta-m0-p108-v2691
-[ardhena](ardhena) [galapaṭṭī](galapaṭṭī) [ca](ca) [upapaṭṭyaparārdhataḥ](upapaṭṭyaparārdhataḥ)
+[by-half](ardhena) [neck-band](gala+paṭṭī) [and](ca) [upaband-other-half](upa+paṭṭi+apara+ardhataḥ)
 
 ## mukta-m0-p108-v2692
-[dvābhyāṃ](dvābhyāṃ) [cāmalasārākhyaṃ](cāmalasārākhyaṃ) [parito](parito) [vṛttam](vṛttam) [ucchritam](ucchritam)
+[by-two](dvābhyāṃ) [amalasara-named](amalasāra+ākhyaṃ) [around](paritaḥ) [round](vṛttam) [height](ucchritam)
 
 ## mukta-m0-p108-v2693
-[ekena](ekena) [caturasrā](caturasrā) [syāt](syāt) [dvābhyāṃ](dvābhyāṃ) [haṃsakapotikā](haṃsakapotikā)
+[by-one](ekena) [four-cornered](caturasrā) [should-be](syāt) [by-two](dvābhyāṃ) [hamsa-pigeon](haṃsa+kapotikā)
 
 ## mukta-m0-p108-v2694
-[sabhūtāṃśaistribhiḥ](sabhūtāṃśaistribhiḥ) [kāryo](kāryo) [ghaṭastaddviguṇocchrayaḥ](ghaṭastaddviguṇocchrayaḥ)
+[with-bhuta-parts](sa+bhūta+aṃśaiḥ) [by-three](tribhiḥ) [should-be-made](kāryaḥ) [pitcher](ghaṭaḥ) [that-double-height](tad+dvi+guṇa+ucchrayaḥ)
 
 ## mukta-m0-p108-v2695
-[tvāttathaiva](tvāttathaiva) [ca](ca)
+[thus-even](tvāttathaiva) [and](ca)
 
 ## mukta-m0-p108-v2696
-[kvacidbhairavanāṭyeśagauryarko](kvacidbhairavanāṭyeśagauryarko) [dakṣiṇāditaḥ](dakṣiṇāditaḥ)
+[sometimes](kvacit) [bhairava-nataka-isha-gauri-arka](bhairava+nāṭya+īśa+gaurī+arkaḥ) [from-south-etc](dakṣiṇa+āditaḥ)
 
 ## mukta-m0-p108-v2697
-[tatkaṭyardhasamucchrāyaṃ](tatkaṭyardhasamucchrāyaṃ) [pravibhajyāṣṭabhāgataḥ](pravibhajyāṣṭabhāgataḥ)
+[that-side-half-height](tat+kaṭi+ardha+samucchrāyaṃ) [having-divided-into-eight-parts](pravibhajya+aṣṭa+bhāgataḥ)
 
 ## mukta-m0-p108-v2698
-[tryaṃśakaiścandraśālāṃ](tryaṃśakaiścandraśālāṃ) [dvayaṃśato](dvayaṃśato) [madhyataḥ](madhyataḥ) [puram](puram)
+[by-three-parts](tryaṃśakaiḥ) [moon-hall](candraśālāṃ) [by-two-parts](dvayaṃśataḥ) [in-middle](madhyataḥ) [city](puram)
 
 ## mukta-m0-p108-v2699
-[evaṃ](evaṃ) [tatpārśvataḥ](tatpārśvataḥ) [kāryāścārdhenduśālikādayaḥ](kāryāścārdhenduśālikādayaḥ)
+[thus](evaṃ) [that-at-side](tat+pārśvataḥ) [should-be-made](kāryāḥ) [half-moon-halls-etc](ardha+indu+śālikā+ādayaḥ)
 
 ## mukta-m0-p108-v2700
-[vāstubhūṣaṇamaśmotthamuktamanyāni](vāstubhūṣaṇamaśmotthamuktamanyāni) [ca](ca) [bruve](bruve)
+[house-ornament](vāstu+bhūṣaṇam) [ash-produced](aśma+uttham) [said](uktam) [others](anyāni) [and](ca) [I-will-speak](bruve)
