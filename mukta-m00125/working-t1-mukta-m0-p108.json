@@ -7,8 +7,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "dadyāt+tu",
-"quick_gloss": "should-give+indeed"
+"surface": "dadyāt",
+"quick_gloss": "should-give"
+},
+{
+"surface": "tu",
+"quick_gloss": "but"
 },
 {
 "surface": "madhura+annam",
@@ -24,7 +28,7 @@
 },
 {
 "surface": "ghṛta+plutam",
-"quick_gloss": "ghee+soaked"
+"quick_gloss": "ghee+flooded"
 }
 ]
 },
@@ -36,20 +40,24 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "pavitrī+karaṇāya+iti",
-"quick_gloss": "for-purification+thus"
+"surface": "pavitrīkaraṇāya",
+"quick_gloss": "for-purification"
 },
 {
-"surface": "tataḥ",
+"surface": "iti",
+"quick_gloss": "thus"
+},
+{
+"surface": "tatas",
 "quick_gloss": "then"
 },
 {
 "surface": "savyam",
-"quick_gloss": "left"
+"quick_gloss": "leftward"
 },
 {
-"surface": "adhaḥ+mukham",
-"quick_gloss": "down+facing"
+"surface": "adho+mukham",
+"quick_gloss": "downward+facing"
 }
 ]
 },
@@ -65,16 +73,24 @@
 "quick_gloss": "secret+mantra"
 },
 {
-"surface": "japet+vā",
-"quick_gloss": "should-recite+or"
+"surface": "japet",
+"quick_gloss": "should-mutter"
+},
+{
+"surface": "vā",
+"quick_gloss": "or"
 },
 {
 "surface": "ayam",
 "quick_gloss": "this"
 },
 {
-"surface": "mṛtyu+jit+mantram+eva",
-"quick_gloss": "death+conquering+mantra+indeed"
+"surface": "mṛtyu+jit+mantram",
+"quick_gloss": "death+conquering+mantra"
+},
+{
+"surface": "eva",
+"quick_gloss": "indeed"
 },
 {
 "surface": "vā",
@@ -91,7 +107,7 @@
 "tokens": [
 {
 "surface": "āpośana+artham",
-"quick_gloss": "for-sipping+purpose"
+"quick_gloss": "for-sipping-water"
 },
 {
 "surface": "ādyena",
@@ -119,12 +135,16 @@
 "quick_gloss": "guest"
 },
 {
-"surface": "bhojayet+śaktyā",
-"quick_gloss": "should-feed+according-to-ability"
+"surface": "bhojayet",
+"quick_gloss": "should-feed"
+},
+{
+"surface": "śaktyā",
+"quick_gloss": "according-to-ability"
 },
 {
 "surface": "tat+kāle",
-"quick_gloss": "at-that+time"
+"quick_gloss": "at-that-time"
 },
 {
 "surface": "na",
@@ -132,7 +152,7 @@
 },
 {
 "surface": "vicārayet",
-"quick_gloss": "should-investigate"
+"quick_gloss": "should-inquire"
 }
 ]
 },
@@ -165,7 +185,7 @@
 },
 {
 "surface": "vicārayet",
-"quick_gloss": "should-investigate"
+"quick_gloss": "should-inquire"
 }
 ]
 },
@@ -177,16 +197,28 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "tṛptāḥ+stha+iti",
-"quick_gloss": "satisfied+are-you+thus"
+"surface": "tṛptāḥ",
+"quick_gloss": "satisfied"
 },
 {
-"surface": "bhṛta+annaḥ+san",
-"quick_gloss": "having-eaten+food+being"
+"surface": "stha",
+"quick_gloss": "are-you"
 },
 {
-"surface": "tṛptāḥ+sma",
-"quick_gloss": "satisfied+we-are"
+"surface": "iti",
+"quick_gloss": "thus"
+},
+{
+"surface": "bhṛta+annaḥ",
+"quick_gloss": "by-offered+food"
+},
+{
+"surface": "santṛptāḥ",
+"quick_gloss": "satisfied"
+},
+{
+"surface": "sma",
+"quick_gloss": "we-are"
 },
 {
 "surface": "iti",
@@ -194,7 +226,7 @@
 },
 {
 "surface": "kīrtite",
-"quick_gloss": "when-said"
+"quick_gloss": "when-declared"
 }
 ]
 },
@@ -207,15 +239,19 @@
 "tokens": [
 {
 "surface": "ucchiṣṭa+sannidhau",
-"quick_gloss": "near-leftovers"
+"quick_gloss": "in-remnants+vicinity"
 },
 {
 "surface": "kuryāt",
 "quick_gloss": "should-make"
 },
 {
-"surface": "gomayena+eva",
-"quick_gloss": "with-cow-dung+indeed"
+"surface": "gomayena",
+"quick_gloss": "with-cow-dung"
+},
+{
+"surface": "eva",
+"quick_gloss": "indeed"
 },
 {
 "surface": "maṇḍalam",
@@ -236,15 +272,15 @@
 },
 {
 "surface": "tila+saṃyuktam",
-"quick_gloss": "sesame+mixed"
+"quick_gloss": "with-sesame+mixed"
 },
 {
 "surface": "sarva+audana",
-"quick_gloss": "all+rice"
+"quick_gloss": "with-all+rice"
 },
 {
 "surface": "samanvitam",
-"quick_gloss": "endowed-with"
+"quick_gloss": "endowed"
 }
 ]
 },
@@ -256,16 +292,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "madhva+ājya+tila+saṃyuktam",
-"quick_gloss": "honey+ghee+sesame+mixed"
+"surface": "madhu+ājya+tila+saṃyuktam",
+"quick_gloss": "with-honey+ghee+sesame+mixed"
 },
 {
 "surface": "bhūmi+sthaḥ",
-"quick_gloss": "on-ground+standing"
+"quick_gloss": "ground+standing"
 },
 {
 "surface": "savya+jānunā",
-"quick_gloss": "with-right+knee"
+"quick_gloss": "with-left+knee"
 }
 ]
 },
@@ -290,7 +326,7 @@
 },
 {
 "surface": "vāmadevam",
-"quick_gloss": "vāmadeva-mantra"
+"quick_gloss": "Vāmadeva-mantra"
 },
 {
 "surface": "udīrayan",
@@ -311,7 +347,7 @@
 },
 {
 "surface": "gandha+puṣpa+ādyaiḥ",
-"quick_gloss": "with-fragrance+flower+etc"
+"quick_gloss": "with-fragrance+flower+etc."
 },
 {
 "surface": "praṇipatya",
@@ -319,7 +355,7 @@
 },
 {
 "surface": "kṣamāpayet",
-"quick_gloss": "should-ask-forgiveness"
+"quick_gloss": "should-beg-pardon"
 }
 ]
 },
@@ -335,8 +371,8 @@
 "quick_gloss": "first"
 },
 {
-"surface": "ācamanaṃ",
-"quick_gloss": "sipping"
+"surface": "ācamanam",
+"quick_gloss": "sipping-water"
 },
 {
 "surface": "tribhyaḥ",
@@ -368,7 +404,7 @@
 "quick_gloss": "with-camphor"
 },
 {
-"surface": "tada+ṅgam",
+"surface": "tat+aṅgam",
 "quick_gloss": "that+limb"
 },
 {
@@ -377,7 +413,7 @@
 },
 {
 "surface": "gṛha+upakaraṇam",
-"quick_gloss": "house+utensils"
+"quick_gloss": "household+utensil"
 },
 {
 "surface": "tathā",
@@ -393,12 +429,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "varddhanīm",
+"surface": "vardhanīm",
 "quick_gloss": "vardhanī-vessel"
 },
 {
-"surface": "udaka+āpūrṇāṃ",
-"quick_gloss": "water+filled"
+"surface": "udaka+āpūrṇām",
+"quick_gloss": "with-water+filled"
 },
 {
 "surface": "śrāddha+kṛt",
@@ -418,15 +454,19 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "īśa+ādi+tritayam",
-"quick_gloss": "īśāna+beginning+triad"
+"surface": "īśa+ādi",
+"quick_gloss": "beginning-with-Īśāna"
+},
+{
+"surface": "tritayam",
+"quick_gloss": "triad"
 },
 {
 "surface": "paścāt",
 "quick_gloss": "afterwards"
 },
 {
-"surface": "caturthi+antam",
+"surface": "caturthī+antam",
 "quick_gloss": "ending-in-fourth-case"
 },
 {
@@ -444,11 +484,15 @@
 "tokens": [
 {
 "surface": "astu",
-"quick_gloss": "be"
+"quick_gloss": "be-it"
 },
 {
-"surface": "svadhā+iti",
-"quick_gloss": "svadhā+thus"
+"surface": "svadhā",
+"quick_gloss": "svadhā"
+},
+{
+"surface": "iti",
+"quick_gloss": "thus"
 },
 {
 "surface": "brūyuḥ",
@@ -467,7 +511,7 @@
 "quick_gloss": "should-pour"
 },
 {
-"surface": "tataḥ",
+"surface": "tatas",
 "quick_gloss": "then"
 },
 {
@@ -488,12 +532,20 @@
 "quick_gloss": "gods"
 },
 {
-"surface": "rudrāḥ+ca",
-"quick_gloss": "rudras+and"
+"surface": "rudrāḥ",
+"quick_gloss": "and-Rudras"
 },
 {
-"surface": "tṛpyantām+iti",
-"quick_gloss": "may-be-satisfied+thus"
+"surface": "ca",
+"quick_gloss": "ca"
+},
+{
+"surface": "tṛpyantām",
+"quick_gloss": "may-be-satisfied"
+},
+{
+"surface": "iti",
+"quick_gloss": "thus"
 },
 {
 "surface": "ete",
@@ -509,7 +561,7 @@
 },
 {
 "surface": "paṭhat",
-"quick_gloss": "should-recite"
+"quick_gloss": "recites"
 }
 ]
 },
@@ -521,8 +573,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "iti+ukte",
-"quick_gloss": "thus+spoken"
+"surface": "iti",
+"quick_gloss": "thus"
+},
+{
+"surface": "ukte",
+"quick_gloss": "when-said"
 },
 {
 "surface": "taiḥ",
@@ -542,7 +598,7 @@
 },
 {
 "surface": "dvija+sattamāḥ",
-"quick_gloss": "twice-born+best"
+"quick_gloss": "O-twice-born+best"
 }
 ]
 },
@@ -570,7 +626,7 @@
 "quick_gloss": "not"
 },
 {
-"surface": "vyagāt",
+"surface": "vyavagāt",
 "quick_gloss": "may-depart"
 },
 {
@@ -586,8 +642,12 @@
 "quick_gloss": "of-us"
 },
 {
-"surface": "astu+iti",
-"quick_gloss": "may-be+thus"
+"surface": "astu",
+"quick_gloss": "be-it"
+},
+{
+"surface": "iti",
+"quick_gloss": "thus"
 }
 ]
 },
@@ -608,7 +668,7 @@
 },
 {
 "surface": "saṃsravāḥ",
-"quick_gloss": "drippings"
+"quick_gloss": "streams"
 },
 {
 "surface": "pūrvam",
@@ -632,16 +692,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "sadyo+jātena",
-"quick_gloss": "with-sadyojāta-mantra"
+"surface": "sadyojātena",
+"quick_gloss": "with-Sadyojāta"
 },
 {
 "surface": "mantreṇa",
-"quick_gloss": "with-mantra"
+"quick_gloss": "mantra"
 },
 {
 "surface": "pitṛ+pūrvam",
-"quick_gloss": "ancestors+first"
+"quick_gloss": "beginning-with-pitṛs"
 },
 {
 "surface": "anuvrajet",
@@ -657,12 +717,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "iṣṭaiḥ+saha",
-"quick_gloss": "with-desired-ones+together"
+"surface": "iṣṭaiḥ",
+"quick_gloss": "with-desired-ones"
 },
 {
-"surface": "upabhoktavyam+iti",
-"quick_gloss": "to-be-enjoyed+thus"
+"surface": "saha",
+"quick_gloss": "together"
+},
+{
+"surface": "upabhoktavyam",
+"quick_gloss": "to-be-eaten"
+},
+{
+"surface": "iti",
+"quick_gloss": "thus"
 },
 {
 "surface": "te",
@@ -674,7 +742,7 @@
 },
 {
 "surface": "iṣṭa+dāḥ",
-"quick_gloss": "wish-granters"
+"quick_gloss": "wish+givers"
 }
 ]
 },
@@ -706,7 +774,7 @@
 "quick_gloss": "ball"
 },
 {
-"surface": "aśnuyāt",
+"surface": "aśruyāt",
 "quick_gloss": "should-eat"
 }
 ]
@@ -736,7 +804,7 @@
 },
 {
 "surface": "vidyā+santāna+pāragaḥ",
-"quick_gloss": "knowledge+lineage+accomplished"
+"quick_gloss": "in-learning+lineage+accomplished"
 }
 ]
 }
