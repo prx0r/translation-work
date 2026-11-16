@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p375-v9351
-[uccāṭayati](uccāṭayati) [in-seven-days](saptāhāt) [with-family](sakuṭumbaṃ) [not](na) [doubt](saṃśayaḥ)
+[uproots](uccāṭayati) [in-seven-days](saptāhāt) [with-family](sakuṭumbam) [not](na) [doubt](saṃśayaḥ)
 
 ## mukta-m0-p375-v9352
-[on-sunday](ravivāre) [at-midnight](niśīthinyāṃ) [thousand-times](sahasram) [one-should-recite](abhimantrayet)
+[on-sunday](ravivāre) [at-midnight](niśīthinyām) [thousand-times](sahasram) [one-should-consecrate](abhimantrayet)
 
 ## mukta-m0-p375-v9353
-[in-field](kṣetre) [thrown](kṣiptaṃ) [for-crop-loss](sasyahānyai) [in-horse-stable](turagālaye) [quickly](java)
+[in-field](kṣetre) [thrown](kṣiptam) [for-crop-destruction](sasya+hānyai) [swift-destroying](java+hṛt) [in-horse-stable](turaga+ālaye)
 
 ## mukta-m0-p375-v9354
-[oṃ](oṃ) [oṃ-trīṃ-hrīṃ-hrūṃ-hrīṃ-huṃ-phaṭ](oṃ trīṃhrīṃhrūṃhrīṃhuṃ phaṭ ||) [trīṃ-hrīṃ-hrūṃ](trīṃ hrīṃ hrūṃ) [uttering-together](samuccārya) [hrīṃ-huṃ-phaṭ](hrīṃhuṃphaṭ) [seven-syllabled](saptavarṇakaḥ)
+[oṃ](oṃ) [oṃ-trīṃ-hrīṃ-hrūṃ-hrīṃ-huṃ-phaṭ](trīṃhrīṃhrūṃhrīṃhuṃ) [phaṭ](phaṭ) [trīṃ](trīṃ) [hrīṃ](hrīṃ) [hrūṃ](hrūṃ) [having-uttered](samuccārya) [hrīṃ-huṃ-phaṭ](hrīṃhuṃphaṭ) [seven-syllabled](sapta+varṇakaḥ)
 
 ## mukta-m0-p375-v9355
-[white-garmented](śvetāmbarāṃ) [moon-beauty](candrakānti) [crescent-crowned](candrārdhakṛtaśekharām)
+[white-garmented](śveta+ambarām) [moon-radiance](candra+kānti) [crescent-moon-made-crest](candrārdha+kṛta+śekharām)
 
 ## mukta-m0-p375-v9356
-[adorned-with-various-ornaments](nānālaṃkāraśobhāḍhyāṃ) [three-eyed](trīkṣaṇām) [lotus-seated](padmasaṃsthitām)
+[various-ornaments-resplendent](nānā+alaṃkāra+śobhāḍhyām) [three-eyed](trī+kṣaṇām) [lotus-seated](padma+saṃsthitām)
 
 ## mukta-m0-p375-v9357
-[from-honey-lotus-petal-homa](madhupuṣkarapatrānnahomāt) [becomes-treasury-of-vidyā](vidyānidhirbhavet)
+[with-honey-puṣkara-leaf-food](madhu+puṣkara+patra+anna) [from-oblation](homāt) [mantra-treasure](vidyā+nidhiḥ) [one-becomes](bhavet)
 
 ## mukta-m0-p375-v9358
-[in-uccāṭana](uccāṭane) [smoke-colored](dhūmra) [varṇāṃ](varṇāṃ) [in-śānti](śāntau) [white](śvetāṃ) [one-should-contemplate](vicintayet)
+[in-uprooting](uccāṭane) [smoke-colored](dhūmra+varṇām) [in-pacification](śāntau) [white](śvetām) [one-should-visualize](vicintayet)
 
 ## mukta-m0-p375-v9359
-[by-brahmā-worshipped](brahmaṇopāsitāntārāṃ) [twelve-syllabled](dvādaśārṇāṃ) [very-rare](sudurlabhām)
+[by-brahmā-worshipped](brahmaṇā+upāsitām) [tārā](tārām) [twelve-syllabled](dvādaśa+arṇām) [very-rare](su+durlabhām)
 
 ## mukta-m0-p375-v9360
-[to-tārā](tāre) [huṃ-phaṭ](huṃphaḍ) [thus-spoken](iti prokto) [mantra](mantraḥ) [this](ayaṃ) [twelve-syllabled](dvādaśākṣaraḥ)
+[in-tārā](tāre) [huṃ-phaṭ](huṃphaḍ) [thus](iti) [declared](proktaḥ) [mantra](mantraḥ) [this](ayam) [twelve-syllabled](dvādaśa+akṣaraḥ)
 
 ## mukta-m0-p375-v9361
-[to-grant-boon](varaṃ) [to-hiraṇyakaśipu](hiraṇyakaśipordātuṃ) [seven-syllabled](saptārṇasammitām)
+[of-hiraṇyakaśipu](hiraṇyakaśipoḥ) [to-give](dātum) [boon](varam) [seven-syllable-measured](sapta+arṇa+sammitām)
 
 ## mukta-m0-p375-v9362
-[huṃ-phaṭ-ending](huṃphaḍantaḥ) [all-of-it](sarvamasya) [nyāsa-etc](nyāsādyam) [as-before](pūrvavadbhavet)
+[ending-with-huṃ-phaṭ](huṃphaḍ+antaḥ) [all](sarvam) [of-this](asya) [nyāsa-etc.](nyāsa+ādyam) [as-before](pūrva+vat) [should-be](bhavet)
 
 ## mukta-m0-p375-v9363
-[for-spreading-buddhist-path](bauddhamārgapracārārthaṃ) [giving-siddhi](siddhidā) [twelve-syllabled](dvādaśākṣarī)
+[for-propagation-of-buddhist-path](bauddha+mārga+pracārārtham) [siddhi-giving](siddhi+dā) [twelve-syllabled](dvādaśa+akṣarī)
 
 ## mukta-m0-p375-v9364
-[well-recited](sauruktvā) [accomplished-vidyā](sādhitā vidyā) [twelve-syllabled](dvādaśārṇāt) [giving-great-intelligence](atibuddhidā)
+[by-sūrya-spoken](saura+uktvā) [accomplished](sādhitā) [mantra](vidyā) [than-twelve-syllabled](dvādaśa+arṇāt) [supreme-intellect-giving](ati+buddhi+dā)
 
 ## mukta-m0-p375-v9365
-[of-it](tasyāstu) [as-before](pūrvavat) [known](jñeyaṃ) [nyāsa-meditation-japa-etc](nyāsadhyānajapādikam)
+[of-that](tasyāḥ) [but](tu) [as-before](pūrva+vat) [to-be-known](jñeyam) [nyāsa-meditation-recitation-etc.](nyāsa+dhyāna+japa+ādikam)
 
 ## mukta-m0-p375-v9366
-[lakṣmī-etc](lakṣmīprabhṛtirā) [for-play](vilāsārtham) [by-me](mattastadā) [halī](halī)
+[lakṣmī-and-others](lakṣmī+prabhṛti) [rāsa-festival](rāsa+samaye) [for-sake-of-lakṣmī-named-gopī-and-others-sport](lakṣmī+nāma+gopyā+ādi+vilāsārtham) [by-her](tayā) [infatuated](mattaḥ) [then](tadā) [balarāma](halī)
 
 ## mukta-m0-p375-v9367
-[abandoning](tyaktvā) [there](tatra) [saying](sauścoktvā) [vidyā](vidyā) [by-rāma](rāmeṇa) [served](sevitā)
+[having-abandoned](tyaktvā) [there](tatra) [by-sūrya-spoken](saura+uktvā) [mantra](vidyā) [by-rāma](rāmeṇa) [son-of-daśaratha](dāśarathinā) [practiced](sevitā)
 
 ## mukta-m0-p375-v9368
-[meditation-worship-etc](dhyānapūjādikam) [as-before](prāgvat) [practice-etc](prayogādikameva) [also](ca)
+[meditation-worship-etc.](dhyāna+pūjā+ādikam) [as-before](prāk+vat) [application-etc.](prayoga+ādikam) [indeed](eva) [also](ca)
 
 ## mukta-m0-p375-v9369
-[five-syllabled](pañcārṇāṃ) [by-whose-power](yatprabhāveṇa) [of-demons](daityānāṃ) [slaughter](kadanaṃ) [done](kṛtam)
+[five-syllabled](pañca+arṇām) [by-whose-power](yat+prabhāveṇa) [of-demons](daityānām) [slaughter](kadanam) [was-done](kṛtam)
 
 ## mukta-m0-p375-v9370
-[of-these-three](eṣāṃ trayāṇāṃ) [munir-viṣṇu](munirviṣṇuḥ) [as-before](prāgvat) [japa-etc](japādikam)
+[of-these](eṣām) [three](trayāṇām) [but](tu) [sage](muniḥ) [viṣṇu](viṣṇuḥ) [as-before](prāk+vat) [recitation-etc.](japa+ādikam)
 
 ## mukta-m0-p375-v9371
-[given](dattā) [by-sun](raviṇādityai) [that-vidyā](sā vidyā) [six-syllabled](tu ṣaḍakṣarī)
+[given](dattā) [and](ca) [by-ravi](raviṇā) [to-āditya](ādityai) [that](sā) [mantra](vidyā) [indeed](tu) [six-syllabled](ṣaḍ+akṣarī)
 
 ## mukta-m0-p375-v9372
-[known](jñeyaṃ) [nyāsa-etc](nyāsādikaṃ) [before](pūrvaṃ) [practice-etc](prayogādi) [also](ca) [as-before](pūrvavat)
+[to-be-known](jñeyam) [nyāsa-etc.](nyāsa+ādikam) [before](pūrvam) [application-etc.](prayoga+ādi) [and](ca) [as-before](pūrva+vat)
 
 ## mukta-m0-p375-v9373
-[for-killing-jalandhara](jalandharavadhārthaṃ) [by-me](mayā) [accomplished](siddhīkṛtaṃ) [formerly](purā)
+[for-slaying-jalandhara](jalandhara+vadhārtham) [indeed](tu) [by-me](mayā) [accomplished](siddhī+kṛtam) [formerly](purā)
 
 ## mukta-m0-p375-v9374
-[by-me](mayā) [five-faced](pañcamukhair) [recited](japto) [dakṣa-path](dakṣamārgeṇa) [O-gods](bhoḥ surāḥ)
+[by-me](mayā) [with-five-faces](pañca+mukhaiḥ) [recited](japtaḥ) [by-dakṣa-method](dakṣa+mārgeṇa) [o](bhoḥ) [gods](surāḥ)
 
 ## mukta-m0-p375-v9375
-[of-yamas](yamānāṃ) [of-niyamas](niyamānāṃ) [there](tatrasthā) [not-other-deity](nānyadevatā)
+[of-restraints](yamānām) [of-observances](niyamānām) [and](ca) [there-situated](tatra+sthāḥ) [not](na) [other-deity](anya+devatā)

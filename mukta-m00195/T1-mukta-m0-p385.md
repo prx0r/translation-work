@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p385-v9601
-[having-offered](hutvā) [accomplished-mantra-user](siddhamanurmantrī) [in-rites](prayogeṣu) [hundred](śataṃ) [recite](japet)
+[having-offered](hutvā) [accomplished](siddham) [mantra-knower](anuḥ+mantrī) [in-applications](prayogeṣu) [hundred](śataṃ) [should-recite](japet)
 
 ## mukta-m0-p385-v9602
-[destroy](vināśayet) [others-made](parakṛtaṃ) [yantra-mantra-etc-means](yantramantrādisādhanam)
+[should-destroy](vināśayet) [done-by-another](para+kṛtaṃ) [yantra-mantra-etc-means](yantra+mantra+ādi+sādhanam)
 
 ## mukta-m0-p385-v9603
-[nine-durga-nature](navadurgātmakaṃ) [whose](yasya) [by-service](sevanāt) [enjoyment-liberation](bhuktimuktike)
+[consisting-of-nine-durgās](nava+durgā+ātmakaṃ) [of-whom](yasya) [by-worship](sevanāt) [enjoyment-and-liberation](bhukti+muktike)
 
 ## mukta-m0-p385-v9604
-[samsara-bond-destruction](saṃsārabandhanirnāśi) [knowledge-obtained](jñānamāptaṃ) [by-samadhi](samādhinā)
+[destroying-bondage-of-saṃsāra](saṃsāra+bandha+nirnāśi) [knowledge](jñānam) [obtained](āptaṃ) [by-absorption](samādhinā)
 
 ## mukta-m0-p385-v9605
-[of-recitation-etc](japādyasya) [fruit](phalaṃ) [give](dadyāt) [that-mantra](taṃ manuṃ) [I-speak](vacmi) [now](sāmpratam)
+[from-recitation-etc](japāt+ādyasya) [fruit](phalaṃ) [may-give](dadyāt) [that](taṃ) [mantra](manuṃ) [I-say](vacmi) [now](sāmpratam)
 
 ## mukta-m0-p385-v9606
-[I-speak](vicce) [nine-syllable-mantra](navārṇamantroyaṃ) [shakti-mantra-supreme-supreme](śaktimantrottamottamaḥ)
+[vicce](vicce) [nine-syllabled-mantra](nava+arṇa+mantraḥ) [this](ayam) [powerful-mantra](śakti+mantraḥ) [best-of-the-best](uttama+uttamaḥ)
 
 ## mukta-m0-p385-v9607
-[gayatri](gāyatryuṣṇiganuṣṭup) [and](ca) [meters-three](cchandastrayam) [declared](udīritam)
+[gāyatrī](gāyatrī) [uṣṇig](uṣṇig) [anuṣṭup](anuṣṭup) [and](ca) [three-meters](chandaḥ+trayam) [declared](udīritam)
 
 ## mukta-m0-p385-v9608
-[nanda-shakambhari-bhima-shakti-triad](nandāśākambharībhīmāśaktitrayam) [called](udāhṛtam)
+[nandā](nandā) [śākambharī](śākambharī) [bhīmā](bhīmā) [triad-of-śaktis](śakti+trayam) [stated](udāhṛtam)
 
 ## mukta-m0-p385-v9609
-[fire-air-bhaga-tattva](agnivāyubhagāstattvaṃ) [previously-as-seer-etc](prāgvadṛṣyādikaṃ) [place](nyaset)
+[fire-wind-bhaga](agni+vāyu+bhagāḥ) [tattva](tattvaṃ) [as-before](prāk+vat) [ṛṣi-etc](ṛṣi+ādikaṃ) [one-should-place](nyaset)
 
 ## mukta-m0-p385-v9610
-[then](tata) [eleven-nyasas](ekādaśanyāsān) [do](kuryyāt) [desired-fruit-giving](iṣṭaphalapradān)
+[then](tataḥ) [eleven-placements](ekādaśa+nyāsān) [one-should-perform](kuryyāt) [granting-desired-fruit](iṣṭa+phala+pradān)
 
 ## mukta-m0-p385-v9611
-[by-done](kṛtena) [by-which](yena) [of-deity](devasya) [same-form](sārūpyaṃ) [goes](yāti) [man](mānavaḥ)
+[by-which](yena) [done](kṛtena) [of-the-deity](devasya) [sameness-of-form](sārūpyaṃ) [goes](yāti) [human](mānavaḥ)
 
 ## mukta-m0-p385-v9612
-[seed-triad](bījatrayaṃ) [indeed](tu) [mantra-beginning](mantrādyaṃ) [tara-etc-heart-ending](tārādihṛdayāntakam)
+[three-seed-syllables](bīja+trayaṃ) [oṃ aiṃ hrīṃ klīṃ namaḥ kaniṣṭhāyugme, oṃ aiṃ hrīṃ klīṃ namaḥ anāmikāyugme, oṃ aiṃ hrīṃ klīṃ namaḥ madhyamāyugme, asyaiva ṣaḍakṣarasya nyāsāccheṣasthāneṣvapi kuryyāt ||]( [oṃ aiṃ hrīṃ klīṃ namaḥ kaniṣṭhāyugme, oṃ aiṃ hrīṃ klīṃ namaḥ anāmikāyugme, oṃ aiṃ hrīṃ klīṃ namaḥ madhyamāyugme, asyaiva ṣaḍakṣarasya nyāsāccheṣasthāneṣvapi kuryyāt || ] ) [indeed](tu) [beginning-with-mantra](mantra+ādyaṃ) [beginning-with-tāra-ending-with-heart](tāra+ādi+hṛdaya+antakam)
 
 ## mukta-m0-p385-v9613
-[little-ring-middle-index-thumb-pairs](kaniṣṭhānāmikāmadhyātarjanyaṃguṣṭhayugmake)
+[on-pairs-of-little-ring-middle-index-thumb-fingers](kaniṣṭhā+anāmikā+madhyā+tarjanī+aṃguṣṭha+yugmake)
 
 ## mukta-m0-p385-v9614
-[heart-etc-six-limbs](hṛdayādiṣaḍaṅgeṣu) [caste-endowed](jātiyuktaṃ) [again](punarnyaset)
+[in-heart-etc-six-limbs](hṛdaya+ādi+ṣaḍ+aṅgeṣu) [joined-with-class](jāti+yuktaṃ) [again](punaḥ) [one-should-place](nyaset)
 
 ## mukta-m0-p385-v9615
-[nyasa](nyāsaḥ) [to-be-done](kāryaḥ) [of-saptashati](saptaśatyāḥ) [recite](paṭhet) [desire-specifically](kāmaviśeṣataḥ)
+[placement](nyāsaḥ) [to-be-done](kāryaḥ) [of-the-seven-hundred](saptaśatyāḥ) [one-should-recite](paṭhet) [especially-for-desire](kāma+viśeṣataḥ)
 
 ## mukta-m0-p385-v9616
-[maya-seed-etc](māyābījādikā) [brahmi](brāhmī) [east](pūrvataḥ) [protect](pātu) [me](māṃ) [always](sadā)
+[beginning-with-māyā-seed](māyā+bīja+ādikā) [hlīṃ brāhmī māṃ pūrvataḥ pātu, hrīṃ māheśvarī āgneyyāṃ pātu evamanyatranyasyet ||]( [hlīṃ brāhmī māṃ pūrvataḥ pātu, hrīṃ māheśvarī āgneyyāṃ pātu evamanyatranyasyet || ] ) [brāhmī](brāhmī) [from-the-east](pūrvataḥ) [protect](pātu) [me](māṃ) [always](sadā)
 
 ## mukta-m0-p385-v9617
-[northeast](aiśānye) [but](tu) [mahalakshmi](mahālakṣmī) [upward](ūrdhvaṃ) [vyomeshvari](vyomeśvarī) [and](tathā)
+[in-the-northeast](aiśānye) [indeed](tu) [mahālakṣmī](mahālakṣmīḥ) [above](ūrdhvaṃ) [vyomeśvarī](vyomeśvarī) [likewise](tathā)
 
 ## mukta-m0-p385-v9618
-[third](tṛtīye) [in-this](asmin) [done](kṛte) [nyasa](nyāse) [in-three-worlds](trailokye) [victorious](vijayī) [become](bhavet)
+[in-the-third](tṛtīye) [when-done](asmin+kṛte) [placement](nyāse) [in-the-three-worlds](trailokye) [victorious](vijayī) [one-becomes](bhavet)
 
 ## mukta-m0-p385-v9619
-[nanda-born](nandajā) [protect](pātu) [front-limb](pūrvāṅgaṃ) [lotus-goad-adorned](kamalāṃkuśamaṇḍitā)
+[nandajā](nandajā) [protect](pātu) [front-part](pūrva+aṅgaṃ) [adorned-with-lotus-and-goad](kamalā+aṃkuśa+maṇḍitā)
 
 ## mukta-m0-p385-v9620
-[back](pṛṣṭhe) [shakambhari](śākambharī) [protect](pātu) [flower-sprout-endowed](puṣpapallavasaṃyutā)
+[on-the-back](pṛṣṭhe) [śākambharī](śākambharī) [protect](pātu) [endowed-with-flowers-and-sprouts](puṣpa+pallava+saṃyutā)
 
 ## mukta-m0-p385-v9621
-[head-vessel-handed](śiraḥpātrakarā) [bhima](bhīmā) [from-head-to-feet](mastakāccaraṇāvadhi)
+[having-skull-and-vessel-in-hand](śiraḥ+pātra+karā) [bhīmā](bhīmā) [from-head](mastakāt) [up-to-feet](caraṇa+avadhi)
 
 ## mukta-m0-p385-v9622
-[fourth](turyyaṃ) [nyasa](nyāsaṃ) [man](naraḥ) [doing](kurvañ) [old-age-death](jarāmṛtyuṃ) [remove](vyapohati)
+[fourth](turyyaṃ) [placement](nyāsaṃ) [man](naraḥ) [performing](kurvan) [old-age-and-death](jarā+mṛtyuṃ) [removes](vyapohati)
 
 ## mukta-m0-p385-v9623
-[from-feet-to-navel](pādādinābhiparyantaṃ) [brahma](brahmā) [protect](pātu) [eternal](sanātanaḥ)
+[from-feet](pādāt+ādi) [up-to-navel](nābhi+paryantaṃ) [brahmā](brahmā) [protect](pātu) [eternal](sanātanaḥ)
 
 ## mukta-m0-p385-v9624
-[from-vishuddhi-to-brahmarandhra](viśuddherbrahmarandhrāntam) [protect](pātu) [rudra](rudrastrilocanaḥ) [three-eyed](trilocanaḥ)
+[from-throat](viśuddheḥ) [up-to-brahmarandhra](brahmarandhra+antam) [protect](pātu) [rudra](rudraḥ) [three-eyed](tri+locanaḥ)
 
 ## mukta-m0-p385-v9625
-[eyes](cakṣuṣī) [bull](vṛṣabhaḥ) [protect](pātu) [all-limbs](sarvāṅgāni) [elephant-faced](gajānanaḥ)
+[two-eyes](cakṣuṣī) [vṛṣabha](vṛṣabhaḥ) [protect](pātu) [all-limbs](sarva+aṅgāni) [gajānana](gajānanaḥ)
