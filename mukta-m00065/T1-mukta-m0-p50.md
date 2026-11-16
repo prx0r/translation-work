@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p50-v1226
-[pedestal-gen](pīṭhikāyāḥ) [height-acc](samucchrāyaṃ) [part-instr](vikārāṃśena) [divide-opt](bhājayet)
+[of-pedestal](pīṭhikāyāḥ) [height](samucchrāyaṃ) [by-part+of-vikāra](vikārāṃśena) [one-should-divide](bhājayet)
 
 ## mukta-m0-p50-v1227
-[quality-gen](guṇābhāge) [thus](tathā) [pot](kumbhaḥ) [pot-band-gen](kumbhapaṭṭi) [tu](tu) [by-part](bhāgataḥ)
+[in-guṇa+part](guṇābhāge) [likewise](tathā) [pitcher](kumbhaḥ) [pitcher+band](kumbhapaṭṭi) [indeed](tu) [by-one-part](bhāgataḥ)
 
 ## mukta-m0-p50-v1228
-[wing-part-gen](pakṣabhāge) [water-reservoir](jalādhāra) [one-part-loc](ekāṃśe) [remainder-band](śeṣapaṭṭikā)
+[in-side+part](pakṣabhāge) [water+receptacle](jalādhāra) [in-one+part](ekāṃśe) [remaining+band](śeṣapaṭṭikā)
 
 ## mukta-m0-p50-v1229
-[bāṇa-doctrine-abl](bāṇamatānusāreṇa) [smaller](kanyasī) [thus](tthaṃ) [breast](payodharā)
+[according-to-bāṇa+doctrine](bāṇamatānusāreṇa) [smallest](kanyasī) [thus](tthaṃ) [water-holder](payodharā)
 
 ## mukta-m0-p50-v1230
-[band](paṭṭa) [sub-band](upapaṭṭikā) [neck](kaṇṭho) [neck-band](galapaṭṭa) [day-upa-band](ṭdayupapaṭṭikā)
+[band](paṭṭa) [upper+band](upapaṭṭikā) [neck](kaṇṭho) [throat+band](galapaṭṭa) [two+upper-bands](ṭdayupapaṭṭikā)
 
 ## mukta-m0-p50-v1231
-[girdle](mekhalā) [band](paṭṭikā) [but](kintu) [part-instr](bhāgakena) [above-that](tadūrdhvataḥ)
+[girdle](mekhalā) [band](paṭṭikā) [but](kintu) [by-one+part](bhāgakena) [above+that](tadūrdhvataḥ)
 
 ## mukta-m0-p50-v1232
-[height-half](ucchrāyārdha) [tu](tu) [pedestal-gen](pīṭhyāḥ) [rudra-part-loc](rudrabhāge) [twofold](dvidhā) [made](kṛte)
+[height+half](ucchrāyārdha) [indeed](tu) [of-pedestal](pīṭhyāḥ) [should-be](syāt) [in-rudra+parts](rudrabhāge) [in-two+ways](dvidhā) [divided](kṛte)
 
 ## mukta-m0-p50-v1233
-[three-instr](tribhiraljaṃ) [two-band-loc](dvipaṭṭau) [hi](hi) [tu](tu) [two-two-instr](dvābhyāṃ) [dvābhyā](dvābhyā) [thus](tathā) [lotus](ambujam)
+[by-three](tribhiḥ) [lotus](aljaṃ) [two+bands](dvipaṭṭau) [indeed](tu) [by-two](dvābhyāṃ) [by-two](dvābhyāṃ) [likewise](tathā) [lotus](ambujam)
 
 ## mukta-m0-p50-v1234
-[two-two-instr](dvābhyāṃ) [dvābhyāṃ](dvābhyāṃ) [in-order](kramāt) [padya](padyaṃ) [with-half-part](sārdhāśe) [neck-exit](galanirgamaḥ)
+[by-two](dvābhyāṃ) [by-two](dvābhyāṃ) [in-order](kramāt) [lotus](padyaṃ) [in-half+part](sārdhāśe) [neck+projection](galanirgamaḥ)
 
 ## mukta-m0-p50-v1235
-[neck-pair-instr](kaṇṭhadvayena) [joined](saṃyuktā) [six-instr](ṣaḍbhiḥ) [lotuses-instr](padmairvibhūṣitā)
+[with-two+necks](kaṇṭhadvayena) [joined](saṃyuktā) [with-six](ṣaḍbhiḥ) [with-lotuses](padmair) [adorned](vibhūṣitā)
 
 ## mukta-m0-p50-v1236
-[samvarta-named](samvartākhyā) [water-reservoir](jalādhārā) [viṣṇu-part-end-loc](viṣṇubhāgāntamucchritā)
+[named-saṃvarta](samvartākhyā) [water+receptacle](jalādhārā) [up-to-viṣṇu+part](viṣṇubhāgāntam) [raised](ucchritā)
 
 ## mukta-m0-p50-v1237
-[liṅga-three-wind-instr](liṅganāhatriveṣṭena) [round-indistinct-gen](vṛttāvyaktasya) [lump](piṇḍikā)
+[by-liṅga+circumference+three+wrap](liṅganāhatriveṣṭena) [circular](vṛttā) [of-the-unmanifest](avyaktasya) [pedestal](piṇḍikā)
 
 ## mukta-m0-p50-v1238
-[that-length-half-width-abl](taddīrghatvārdhavistārāttadardhānnālakocchrayau)
+[by-half+of-its-length](taddīrghatvārdhavistārāt) [from-half+of-that](tadardhāt) [channel+height](nālakocchrayau)
 
 ## mukta-m0-p50-v1239
-[height-loc](ucchraye) [tenfold-divided-loc](daśadhābhakte) [foot](padaṃ) [pot](kumbhaṃ) [thus](tathā) [neck](galam)
+[in-height](ucchraye) [divided-into-ten](daśadhābhakte) [foot](padaṃ) [pitcher](kumbhaṃ) [likewise](tathā) [neck](galam)
 
 ## mukta-m0-p50-v1240
-[hoof](khuraṃ) [thigh](jaṅyā) [ca](ca) [kūrṇauṃ](kūrṇauṃ) [ca](ca) [neck](kaṇṭhaṃ) [ca-eva-upa-neck](caivopakaṇṭhikām)
+[base](khuraṃ) [shaft](jaṅyā) [roll-moulding](ca) [kūrṇauṃ](kūrṇauṃ) [and](ca) [neck](kaṇṭhaṃ) [and](ca) [indeed](eva) [upper-neck](upakaṇṭhikām)
 
 ## mukta-m0-p50-v1241
-[one-pair-one-wing-one-pair-one-neck-part-instr](ekayugmaikapakṣaikayugmaikagalāṃśakaiḥ)
+[with-one+pair+one+side+one+pair+one+neck+parts](ekayugmaikapakṣaikayugmaikagalāṃśakaiḥ)
 
 ## mukta-m0-p50-v1242
-[sixteen-part-made-height-loc](ṣoḍaśāṃśakṛtocchāye) [elders-gen](jyeṣṭhānāmāsane) [always](sadā)
+[with-height+divided-into-sixteen+parts](ṣoḍaśāṃśakṛtocchāye) [of-the-largest](jyeṣṭhānām) [in-seat](āsane) [always](sadā)
 
 ## mukta-m0-p50-v1243
-[foot-band](caraṇapaṭṭikā) [pot](kumbha) [band](paṭṭikā) [neck-band](galapaṭṭikā)
+[foot+band](caraṇapaṭṭikā) [pitcher](kumbha) [band](paṭṭikā) [neck+band](galapaṭṭikā)
 
 ## mukta-m0-p50-v1244
-[eight-direction-hand-instr](aṣṭadigravihastaiśca) [deficient-middle-excellent-tri](hīnamadhyottamāstribhiḥ)
+[by-eight+direction+hand-measures](aṣṭadigravihastaiśca) [lesser+middle+highest](hīnamadhyottamās) [by-three](tribhiḥ)
 
 ## mukta-m0-p50-v1245
-[entrance-height-abundance-abl](praveśogdamabāhulyācchū) [bhranālādi](bhranālādi) [as-before](pūrvavat)
+[from-thickness+of-entry+spout](praveśogdamabāhulyāt) [spout+channel+etc.](śūbhranālādi) [as-before](pūrvavat)
 
 ## mukta-m0-p50-v1246
-[that-third-part-abl](tattryaṃśātpīṭhavistārastatpādonasamucchrayaḥ)
+[from-its+third-part](tattryaṃśāt) [pedestal+width](pīṭhavistāras) [from-quarter+of-that](tatpādonasamucchrayaḥ)
 
 ## mukta-m0-p50-v1247
-[with](saha) [pot](kumbho) [neck](galo) [round](vṛtto) [veda-corner](vedāsrā) [band](paṭṭikā) [in-order](kramāt)
+[with](saha) [pitcher](kumbho) [neck](galo) [round](vṛtto) [four-cornered](vedāsrā) [band](paṭṭikā) [in-order](kramāt)
 
 ## mukta-m0-p50-v1248
-[elsewhere-thus-thus-syāt-saṃvṛttāt-karṇa-pīṭakam](anyatra tvevamevaṃ syātsaṃvṛttātkarṇapīṭakam)
+[elsewhere](anyatra) [indeed](tu) [thus](evam) [only](evaṃ) [should-be](syāt) [from-rounded](saṃvṛttāt) [corner+pedestal](karṇapīṭakam)
 
 ## mukta-m0-p50-v1249
-[well-smooth-well-joined-joint-ca](suślakṣṇāśliṣṭasandhiśca) [form-instr](rupeṇāmbudharādivat)
+[well-polished](suślakṣṇā) [closely-joined+joints](śliṣṭasandhiśca) [in-form](rupeṇa) [like-cloud-bearer+etc.](ambudharādivat)
 
 ## mukta-m0-p50-v1250
-[some-gen-mate](keṣāṃcittu) [opinion](mate) [manifest-liṅga-loc](vyaktaliṅge) [tu](tu) [umbrella-head-loc](chatramastake)
+[of-some](keṣāṃcit) [indeed](tu) [in-opinion](mate) [in-manifest+liṅga](vyaktaliṅge) [indeed](tu) [on-top](chatramastake)
