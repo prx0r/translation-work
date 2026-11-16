@@ -61,11 +61,11 @@
 },
 {
 "surface": "hi",
-"quick_gloss": "hi-particle"
+"quick_gloss": "indeed"
 },
 {
 "surface": "iti",
-"quick_gloss": "indeed"
+"quick_gloss": "iti"
 },
 {
 "surface": "avadhāraṇe",
@@ -90,7 +90,7 @@
 },
 {
 "surface": "uktam",
-"quick_gloss": "said"
+"quick_gloss": "spoken"
 },
 {
 "surface": "iti",
@@ -98,7 +98,7 @@
 },
 {
 "surface": "anvayaḥ",
-"quick_gloss": "construction"
+"quick_gloss": "connection"
 }
 ]
 },
@@ -123,7 +123,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "man",
+"surface": "mat",
 "quick_gloss": "my"
 },
 {
@@ -206,7 +206,7 @@
 },
 {
 "surface": "hā",
-"quick_gloss": "slayer"
+"quick_gloss": "killer"
 },
 {
 "surface": "pitṛ",
@@ -214,7 +214,7 @@
 },
 {
 "surface": "hā",
-"quick_gloss": "slayer"
+"quick_gloss": "killer"
 },
 {
 "surface": "strī",
@@ -222,7 +222,7 @@
 },
 {
 "surface": "ghnaḥ",
-"quick_gloss": "slayer"
+"quick_gloss": "killer"
 },
 {
 "surface": "saḥ",
@@ -255,11 +255,11 @@
 "tokens": [
 {
 "surface": "śastāḥ",
-"quick_gloss": "prescribed"
+"quick_gloss": "praised"
 },
 {
 "surface": "karmasu",
-"quick_gloss": "in-rites"
+"quick_gloss": "in-actions"
 },
 {
 "surface": "sarveṣu",
@@ -267,7 +267,7 @@
 },
 {
 "surface": "japa",
-"quick_gloss": "japa"
+"quick_gloss": "recitation"
 },
 {
 "surface": "yajña",
@@ -275,11 +275,11 @@
 },
 {
 "surface": "kriyā",
-"quick_gloss": "ritual"
+"quick_gloss": "rite"
 },
 {
 "surface": "ādiṣu",
-"quick_gloss": "etc"
+"quick_gloss": "and-so-forth"
 }
 ]
 },
@@ -291,16 +291,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "satyā",
-"quick_gloss": "in-satya"
+"surface": "satya",
+"quick_gloss": "in-truth-age"
 },
 {
 "surface": "ādau",
-"quick_gloss": "etc"
+"quick_gloss": "and-so-forth"
 },
 {
-"surface": "sa+phalāḥ",
-"quick_gloss": "with-fruit"
+"surface": "saphalāḥ",
+"quick_gloss": "fruitful"
 },
 {
 "surface": "āsan",
@@ -308,7 +308,7 @@
 },
 {
 "surface": "kalau",
-"quick_gloss": "in-kali"
+"quick_gloss": "in-kali-age"
 },
 {
 "surface": "te",
@@ -366,7 +366,7 @@
 },
 {
 "surface": "tat",
-"quick_gloss": "respective"
+"quick_gloss": "of-those"
 },
 {
 "surface": "phala",
@@ -374,15 +374,19 @@
 },
 {
 "surface": "pradātṛtvāt",
-"quick_gloss": "bestowingness"
+"quick_gloss": "giver-ness"
 },
 {
 "surface": "ca",
 "quick_gloss": "and"
 },
 {
-"surface": "ati+prāśastyam",
-"quick_gloss": "very-great-excellence"
+"surface": "ati",
+"quick_gloss": "very-great"
+},
+{
+"surface": "prāśastyam",
+"quick_gloss": "excellence"
 },
 {
 "surface": "āha",
@@ -390,11 +394,15 @@
 },
 {
 "surface": "kalau",
-"quick_gloss": "in-kali"
+"quick_gloss": "in-kali-age"
 },
 {
-"surface": "ity+ādibhiḥ",
-"quick_gloss": "etc"
+"surface": "iti",
+"quick_gloss": "thus"
+},
+{
+"surface": "ādibhiḥ",
+"quick_gloss": "and-so-forth"
 }
 ]
 },
@@ -411,7 +419,7 @@
 },
 {
 "surface": "tat",
-"quick_gloss": "respective"
+"quick_gloss": "of-those"
 },
 {
 "surface": "phalāni",
@@ -435,7 +443,7 @@
 },
 {
 "surface": "anvayaḥ",
-"quick_gloss": "construction"
+"quick_gloss": "connection"
 }
 ]
 },
@@ -447,8 +455,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "amūra+śaktāḥ",
+"surface": "amūra",
 "quick_gloss": "powerless"
+},
+{
+"surface": "śaktāḥ",
+"quick_gloss": "powers"
 },
 {
 "surface": "kāryeṣu",
@@ -493,7 +505,7 @@
 },
 {
 "surface": "siddhiḥ",
-"quick_gloss": "attainment"
+"quick_gloss": "accomplishment"
 },
 {
 "surface": "syāt",
@@ -530,7 +542,7 @@
 },
 {
 "surface": "jāhnavī",
-"quick_gloss": "on-jahnavi"
+"quick_gloss": "on-ganges"
 },
 {
 "surface": "tīre",
@@ -562,12 +574,8 @@
 "quick_gloss": "nectar"
 },
 {
-"surface": "sva",
-"quick_gloss": "in-own"
-},
-{
-"surface": "gṛhe",
-"quick_gloss": "house"
+"surface": "sva+gṛhe",
+"quick_gloss": "in-own-house"
 },
 {
 "surface": "tyaktvā",
@@ -578,8 +586,8 @@
 "quick_gloss": "milk"
 },
 {
-"surface": "ārkaṃ",
-"quick_gloss": "of-arka"
+"surface": "ārkam",
+"quick_gloss": "arka-tree"
 },
 {
 "surface": "saḥ",
@@ -641,11 +649,11 @@
 "tokens": [
 {
 "surface": "siddhānāṃ",
-"quick_gloss": "of-siddhas"
+"quick_gloss": "of-accomplished"
 },
 {
-"surface": "sādhakānāñ",
-"quick_gloss": "of-sadhakas"
+"surface": "sādhakānām",
+"quick_gloss": "of-practitioners"
 },
 {
 "surface": "ca",
@@ -661,7 +669,7 @@
 },
 {
 "surface": "bhūriśaḥ",
-"quick_gloss": "abundantly"
+"quick_gloss": "abundant"
 }
 ]
 },
@@ -695,7 +703,7 @@
 },
 {
 "surface": "ārkam",
-"quick_gloss": "arka"
+"quick_gloss": "arka-tree-produced"
 },
 {
 "surface": "arka",
@@ -707,7 +715,7 @@
 },
 {
 "surface": "udbhavam",
-"quick_gloss": "born"
+"quick_gloss": "produced"
 }
 ]
 },
@@ -732,15 +740,15 @@
 },
 {
 "surface": "amutra",
-"quick_gloss": "in-that-world"
+"quick_gloss": "in-other-world"
 },
 {
 "surface": "pare",
-"quick_gloss": "in-higher"
+"quick_gloss": "in-higher-world"
 },
 {
 "surface": "loke",
-"quick_gloss": "world"
+"quick_gloss": "in-world"
 }
 ]
 },
@@ -757,23 +765,23 @@
 },
 {
 "surface": "ācāra",
-"quick_gloss": "tradition"
+"quick_gloss": "practice"
 },
 {
-"surface": "uditaṃ",
+"surface": "uditam",
 "quick_gloss": "taught"
 },
 {
-"surface": "dharmaṃ",
+"surface": "dharmam",
 "quick_gloss": "dharma"
 },
 {
-"surface": "gupty+arthaṃ",
+"surface": "gupti+artham",
 "quick_gloss": "for-secrecy"
 },
 {
-"surface": "kathitaṃ",
-"quick_gloss": "told"
+"surface": "kathitam",
+"quick_gloss": "declared"
 },
 {
 "surface": "kvacit",
@@ -793,12 +801,8 @@
 "quick_gloss": "gods"
 },
 {
-"surface": "nānā",
-"quick_gloss": "of-various"
-},
-{
-"surface": "vidhāḥ",
-"quick_gloss": "kinds"
+"surface": "nānā+vidhāḥ",
+"quick_gloss": "of-various-kinds"
 },
 {
 "surface": "proktāḥ",
@@ -855,7 +859,7 @@
 },
 {
 "surface": "ādayaḥ",
-"quick_gloss": "etc"
+"quick_gloss": "and-so-forth"
 }
 ]
 },
@@ -868,7 +872,7 @@
 "tokens": [
 {
 "surface": "bhūri",
-"quick_gloss": "with-much"
+"quick_gloss": "by-much"
 },
 {
 "surface": "prayāsa",
