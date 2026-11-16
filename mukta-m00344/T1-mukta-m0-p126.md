@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p126-v3126
-[contrary](viruddha) [tendency](vāsanā) [practice](abhyāsa) [suppression](nirodha) [etc](ādi) [absence](abhāvataḥ)
+[opposed](viruddha) [+](+) [latent-impression](vāsanā) [+](+) [practice](abhyāsa) [+](+) [cessation](nirodha) [+](+) [and-so-forth](ādeḥ) [+](+) [from-absence](abhāvataḥ)
 
 ## mukta-m0-p126-v3127
-[therefore](ataḥ) [some](kecit) [action-devoted](karmaniṣṭhāḥ) [desirous](kāminaḥ) [angry+others](krodhino'pare)
+[therefore](ataḥ) [some](kecit) [action](karma) [+](+) [devoted](niṣṭhāḥ) [desirous](kāminaḥ) [angry](krodhinaḥ) [+](+) [others](apare)
 
 ## mukta-m0-p126-v3128
-[that](tattat) [tendency](vāsanā) [continuance](anuvṛtteḥ)
+[that](tat) [+](+) [that](tat) [+](+) [latent-impression](vāsanā) [+](+) [from-continuation](anuvṛtteḥ)
 
 ## mukta-m0-p126-v3129
-[with-mind](samanaskaḥ) [there](tatra) [who](yaḥ) [indeed](vai) [dull-knower](mandajñānī) [described](nirūpitaḥ)
+[with](sa) [+](+) [mind](manaskaḥ) [+](+) [there](tatra) [who](yaḥ) [indeed](vai) [dull](manda) [+](+) [knowledge](jñānī) [is-described](nirūpitaḥ)
 
 ## mukta-m0-p126-v3130
-[in-self-knowledge](svarūpavittau) [not](no) [anything](kiñcit) [shines](bhāsate) [indeed](hi) [in-samadhis](samādhiṣu)
+[own-nature](svarūpa) [+](+) [in-cognition](vittau) [not](naḥ) [anything](kiñcit) [+](+) [shines](bhāsate) [indeed](hi) [in-absorptions](samādhiṣu)
 
 ## mukta-m0-p126-v3131
-[joy-sorrow-etc](harṣaviṣādādi) [thus](iti) [meaning](bhāvaḥ)
+[joy](harṣa) [+](+) [sorrow](viṣādāt) [+](+) [thus](iti) [meaning](bhāvaḥ)
 
 ## mukta-m0-p126-v3132
-[nondual-self-nature](nirvikalpasvarūpam) [but](tu) [as-refuge-of-all](sarvāśrayatayā) [always](sadā)
+[indeterminate](nirvikalpa) [+](+) [nature](svarūpam) [but](tu) [all](sarva) [+](+) [by-being-support](āśrayatayā) [always](sadā)
 
 ## mukta-m0-p126-v3133
-[nondual](nirvikalpa) [thus](iti) [always](sadā) [shines-indeed](sphuratyeva) [thus](iti) [connection](sambandhaḥ)
+[indeterminate](nirvikalpa) [+](+) [thus](iti) [|](|) [always](sadā) [shines](sphurati) [+](+) [indeed](eva) [+](+) [thus](iti) [connection](sambandhaḥ)
 
 ## mukta-m0-p126-v3134
-[thus](tathā) [free-from-thought](vikalpavikalam) [may-shine](sphuret) [in-stated-states](proktadaśāsu) [and](ca)
+[likewise](tathā) [thought](vikalpa) [+](+) [devoid](vikalam) [may-shine](sphuret) [mentioned](prokta) [+](+) [in-states](daśāsu) [and](ca)
 
 ## mukta-m0-p126-v3135
-[in-stated-states](proktadaśāsu) [in-limited-knowledge-intervals-etc-states](paricchinnajñānāntarālādidaśāsu)
+[mentioned](prokta) [+](+) [in-states](daśāsu) [limited](paricchinna) [+](+) [knowledge](jñāna) [+](+) [interval](antarāla) [+](+) [and-so-forth](ādi) [+](+) [in-states](daśāsu)
 
 ## mukta-m0-p126-v3136
-[who](ye) [with-that-reflection](tadvimarśasaṃyuktāḥ) [he](saḥ) [of-them-indeed](teṣāmeva) [remembered](saṃsmṛtaḥ)
+[who](ye) [that](tat) [+](+) [reflective-awareness](vimarśa) [+](+) [endowed-with](saṃyuktāḥ) [that](sa) [of-them](teṣām) [+](+) [alone](eva) [is-remembered](saṃsmṛtaḥ)
 
 ## mukta-m0-p126-v3137
-[something-new](kiñcidapūrvam) [thus](iti) [to-be-meditated](dhyeyam)
+[something](kiñcit) [+](+) [unprecedented](apūrvam) [+](+) [thus](iti) [to-be-noted](dhyeyam)
 
 ## mukta-m0-p126-v3138
-[known](viditam) [not-sky](nābhasam) [blueness](nailyam) [as](yathā) [again](bhūyaḥ) [on-looking](avalokane)
+[known](viditam) [not](na) [+](+) [appearing](ābhasam) [blueness](nailyam) [as](yathā) [again](bhūyaḥ) [+](+) [on-seeing](avalokane)
 
 ## mukta-m0-p126-v3139
-[object-relation-excluded-indeed](vedyasambandhavarjitā) [knowledge](vittiḥ) [thus](iti) [meaning](arthaḥ) [this-indeed](etadeva) [proves](upapādayati) [known](viditam) [thus](iti)
+[knowable](vedya) [+](+) [connection](sambandha) [+](+) [devoid](varjitā) [+](+) [indeed](eva) [cognition](vittiḥ) [+](+) [thus](iti) [+](+) [meaning](arthaḥ) [|](|) [this](etat) [+](+) [indeed](eva) [+](+) [establishes](upapādayati) [-](-) [known](viditam) [+](+) [thus](iti)
 
 ## mukta-m0-p126-v3140
-[otherwise](anyathā) [not-indeed](naiva) [difference](bhedaḥ) [would-be](syāt) [of-real-unreal-distinction](tattvātattvavibhāsayoḥ)
+[otherwise](anyathā) [not](na) [+](+) [indeed](eva) [difference](bhedaḥ) [would-be](syāt) [reality](tattva) [+](+) [unreality](atattva) [+](+) [of-appearances](vibhāsayoḥ)
 
 ## mukta-m0-p126-v3141
-[of-obstacle-ness-conception](pratibandhakatvakalpanāyāḥ) [of-impropriety](anyāyyatvāt)
+[obstruction](pratibandhakatva) [+](+) [of-postulation](kalpanāyāḥ) [from-unreasonableness](anyāyyatvāt)
 
 ## mukta-m0-p126-v3142
-[connection](sambandhaḥ) [somewhere-or](kutracidvā) [would-be](syāt) [of-knowers](jñāninām) [from-that-indeed](ata eva) [indeed](hi)
+[connection](sambandhaḥ) [somewhere](kutracit) [+](+) [or](vā) [may-be](syāt) [of-knowers](jñāninām) [+](+) [therefore](ataḥ) [indeed](eva) [for](hi)
 
 ## mukta-m0-p126-v3143
-[objectless](vedyahīnā) [knowledge](vittiḥ) [becomes](bhavet) [thus](iti) [connection](sambandhaḥ)
+[knowable](vedya) [+](+) [devoid](hīnā) [cognition](vittiḥ) [+](+) [may-be](bhavet) [+](+) [thus](iti) [connection](sambandhaḥ)
 
 ## mukta-m0-p126-v3144
-[of-mindless](amanaskasya) [especially](sutarām) [because](yataḥ) [that](sā) [unmani-state](unmanī) [state](daśā)
+[of-mindless](amanaskasya) [especially](sutarām) [because](yataḥ) [that](sā) [and](ca) [+](+) [transcendent-mind](unmanī) [state](daśā)
 
 ## mukta-m0-p126-v3145
-[abiding](sthitiḥ) [unmani-state](unmanī) [state](daśā) [thus](iti) [is-called](ucyate)
+[state](sthitiḥ) [+](+) [transcendent-mind](unmanī) [state](daśā) [+](+) [thus](iti) [+](+) [is-called](ucyate)
 
 ## mukta-m0-p126-v3146
-[of-mind](manasaḥ) [movement](calanam) [that](tat) [would-be](syāt) [of-real-object](satyavedyasya) [contact](saṅgatiḥ)
+[of-mind](manasaḥ) [+](+) [movement](calanam) [that](tat) [would-be](syāt) [real](satya) [+](+) [of-knowable](vedyasya) [contact](saṅgatiḥ)
 
 ## mukta-m0-p126-v3147
-[he](saḥ) [always](sarvadā) [risen](vyutthataḥ) [and](ca) [in-samadhi](samādhisthaḥ) [and](ca) [Bhargava](bhārgava)
+[he](sa) [always](sarvadā) [risen-out](vyutthataḥ) [+](+) [and](ca) [absorption](samādhi) [+](+) [abiding](sthaḥ) [+](+) [and](ca) [O-Bhārgava](bhārgava)
 
 ## mukta-m0-p126-v3148
-[simultaneously](yugapat) [possible](sambhavet) [thus](iti) [meaning](bhāvaḥ) [from-that-indeed](ata eva) [says](āha) [always-thus](sarvadeti)
+[simultaneously](yugapat) [may-occur](sambhavet) [+](+) [thus](iti) [meaning](bhāvaḥ) [|](|) [therefore](ataḥ) [indeed](eva) [+](+) [says](āha) [-](-) [always](sarvadā) [+](+) [thus](iti)
 
 ## mukta-m0-p126-v3149
-[thus](evam) [this-indeed](etaddhi) [well-spoken](saṃproktam) [asked](pṛṣṭam) [whatever](yadyat) [formerly](purā) [by-you](tvayā)
+[thus](evam) [+](+) [this](etat) [+](+) [indeed](hi) [well-declared](samproktam) [asked](pṛṣṭam) [whatever](yat) [+](+) [whatever](yat) [formerly](purā) [by-you](tvayā)
 
 ## mukta-m0-p126-v3150
-[formerly](purā) [in-Brahma-assembly](brahmasabhāmadhye) [in-Satyaloka](satyaloke) [very-pure](atipāvane)
+[formerly](purā) [Brahma](brahma) [+](+) [assembly](sabhā) [+](+) [in-middle](madhye) [Satya](satya) [+](+) [in-world](loke) [+](+) [very](ati) [+](+) [pure](pāvane)

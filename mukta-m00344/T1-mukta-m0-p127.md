@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p127-v3151
-[sanaka-and-others](sanakādyā) [vasiṣṭha](vasiṣṭhaśca) [pulastya](pulastyaḥ) [pulaha](pulahaḥ) [kratu](kratuḥ)
+[sanaka+ādyāḥ](sanakādyā) [vasiṣṭhaḥ](vasiṣṭhaśca) [ca](vasiṣṭhaśca) [pulastyaḥ](pulastyaḥ) [pulahaḥ](pulahaḥ) [kratuḥ](kratuḥ)
 
 ## mukta-m0-p127-v3152
-[subtle](sūkṣmeti) [very-subtle-inquiry-form](atisūkṣmavicārarūpaḥ) [sanaka-and-others](sanakādyāḥ) [assembled](samuditā) [thus-connection](ityanvayaḥ)
+[sūkṣmā](sūkṣmeti) [iti](sūkṣmeti) [ati+sūkṣma+vicāra+rūpaḥ](atisūkṣmavicārarūpaḥ) [sanaka+ādyāḥ](sanakādyāḥ) [samuditāḥ](samuditā) [iti](ityanvayaḥ) [anvayaḥ](ityanvayaḥ)
 
 ## mukta-m0-p127-v3153
-[cyavana](cyavano) [vāmadeva](vāmadevaśca) [viśvāmitra](viśvāmitro'tha) [gautama](gautamaḥ)
+[cyavanaḥ](cyavano) [vāmadevaḥ](vāmadevaśca) [ca](vāmadevaśca) [viśvāmitraḥ](viśvāmitro'tha) [atha](viśvāmitro'tha) [gautamaḥ](gautamaḥ)
 
 ## mukta-m0-p127-v3154
-[dakṣa](dakṣaḥ) [sumantu](sumantuḥ) [śaṅkha](śaṅkhaśca) [likhita](likhito) [devala](devalo'pi) [ca](ca)
+[dakṣaḥ](dakṣaḥ) [sumantuḥ](sumantuḥ) [śaṅkhaḥ](śaṅkhaśca) [ca](śaṅkhaśca) [likhitaḥ](likhito) [devalaḥ](devalo'pi) [api](devalo'pi) [ca](ca)
 
 ## mukta-m0-p127-v3155
-[all](sarve) [assembled](samuditāstatra) [brahma-sacrifice](brahmasatre) [great](mahattare)
+[sarve](sarve) [samuditāḥ](samuditāstatra) [tatra](samuditāstatra) [brahma+satre](brahmasatre) [mahat+tare](mahattare)
 
 ## mukta-m0-p127-v3156
-[brahma-sacrifice](brahmasatre) [knowledge-sacrifice-context](jñānayajñaprasaṅge)
+[brahma+satre](brahmasatre) [jñāna+yajña+prasaṅge](jñānayajñaprasaṅge)
 
 ## mukta-m0-p127-v3157
-[brahmā](brahmāṇaṃ) [there](tatra) [asked](papracchur-ṛṣayaḥ) [sages](ṛṣayaḥ) [all](sarva) [those](eva) [te](te)
+[brahmāṇam](brahmāṇaṃ) [tatra](tatra) [papracchuḥ](papracchur-ṛṣayaḥ) [ṛṣayaḥ](papracchur-ṛṣayaḥ) [sarve](sarva) [eva](eva) [te](te)
 
 ## mukta-m0-p127-v3158
-[their](teṣāṃ) [no](no) [various](vividhā) [appears](bhāti) [state](sthitiḥ) [from-nature-difference](prakṛtibhedataḥ)
+[teṣām](teṣāṃ) [naḥ](no) [vividhā](vividhā) [bhāti](bhāti) [sthitiḥ](sthitiḥ) [prakṛti+bhedataḥ](prakṛtibhedataḥ)
 
 ## mukta-m0-p127-v3159
-[from-nature-difference](prakṛtibhedataḥ) [from-prakṛti-impression-difference](prākṛtasaṃskārabhedāt)
+[prakṛti+bhedataḥ](prakṛtibhedataḥ) [prākṛta+saṃskāra+bhedāt](prākṛtasaṃskārabhedāt)
 
 ## mukta-m0-p127-v3160
-[others](apare) [absorbed-in-devotion](bhaktinirmagnāścānye) [others](cānye) [action-refuge](karmasamāśrayāḥ)
+[apare](apare) [bhakti+nirmagnāḥ](bhaktinirmagnāścānye) [ca](bhaktinirmagnāścānye) [anye](bhaktinirmagnāścānye) [karma+samāśrayāḥ](karmasamāśrayāḥ)
 
 ## mukta-m0-p127-v3161
-[that-indeed-says](tadevāha) [some](keciditi)
+[tat](tadevāha) [eva](tadevāha) [āha](tadevāha) [kecit](keciditi) [iti](keciditi)
 
 ## mukta-m0-p127-v3162
-[among-them](teṣu) [better](śreyān) [indeed](hi) [which](katama) [this](etanno) [to-speak](vaktumarhasi)
+[teṣu](teṣu) [śreyān](śreyān) [hi](hi) [katamaḥ](katama) [etat](etanno) [naḥ](etanno) [vaktum](vaktumarhasi) [arhasi](vaktumarhasi)
 
 ## mukta-m0-p127-v3163
-[among-them](teṣu) [samādhi-etc](samādhisthādiṣu) [better](śreyān) [best](śreṣṭhaḥ)
+[teṣu](teṣu) [samādhi+stha+ādiṣu](samādhisthādiṣu) [śreyān](śreyān) [śreṣṭhaḥ](śreṣṭhaḥ)
 
 ## mukta-m0-p127-v3164
-[thus](iti) [asked](pṛṣṭo'vadad) [brahmā](brahmā) [thinking](matvā'nāśvastamānasān) [unsteady-minded](anāśvastamānasān)
+[iti](iti) [pṛṣṭaḥ](pṛṣṭo'vadad) [avadat](pṛṣṭo'vadad) [brahmā](brahmā) [matvā](matvā'nāśvastamānasān) [anāśvasta+mānasān](matvā'nāśvastamānasān)
 
 ## mukta-m0-p127-v3165
-[will-grasp](grahīṣyantīti) [thinking](mattveti) [meaning](bhāvaḥ)
+[grahīṣyanti](grahīṣyantīti) [iti](grahīṣyantīti) [matvā](mattveti) [iti](mattveti) [bhāvaḥ](bhāvaḥ)
 
 ## mukta-m0-p127-v3166
-[to-know-this-meaning](jānīyādimamarthaṃ) [but](tu) [all-knowing](sarvajñaḥ) [supreme-lord](parameśvaraḥ)
+[jānīyāt](jānīyādimamarthaṃ) [imam](jānīyādimamarthaṃ) [artham](jānīyādimamarthaṃ) [tu](tu) [sarva+jñaḥ](sarvajñaḥ) [parama+īśvaraḥ](parameśvaraḥ)
 
 ## mukta-m0-p127-v3167
-[approaching](saṅgamya) [god-of-gods](devadeveśaṃ) [viṣṇu-navel-met](viṣṇunābhisamāgatam)
+[saṅgamya](saṅgamya) [deva+deva+īśam](devadeveśaṃ) [viṣṇunā](viṣṇunābhisamāgatam) [abhi+samāgatam](viṣṇunābhisamāgatam)
 
 ## mukta-m0-p127-v3168
-[great-god](mahādevaṃ) [approaching](saṅgamya) [obtaining](prāpya)
+[mahā+devam](mahādevaṃ) [saṅgamya](saṅgamya) [prāpya](prāpya)
 
 ## mukta-m0-p127-v3169
-[question](praśnaṃ) [hearing](niśamya) [and](ca) [śiva](śivo) [knowing](jñātvā) [brahmā-mind-gone](vidhimanogatam)
+[praśnam](praśnaṃ) [niśamya](niśamya) [ca](ca) [śivaḥ](śivo) [jñātvā](jñātvā) [vidhim](vidhimanogatam) [anogatam](vidhimanogatam)
 
 ## mukta-m0-p127-v3170
-[brahmā-mind-gone](vidhimanogatam) [unsteady](anāśvastā) [these](ete) [my-word](madvaco) [not](na) [will-grasp](grahīṣyantīti)
+[vidhim](vidhimanogatam) [anogatam](vidhimanogatam) [anāśvastāḥ](anāśvastā) [ete](ete) [mat+vacaḥ](madvaco) [na](na) [grahīṣyanti](grahīṣyantīti) [iti](grahīṣyantīti)
 
 ## mukta-m0-p127-v3171
-[topic-question](prakṛtapraśnaviṣaye) [nanu](nanviti) [possibility-indicator](sambhāvanādyotakaḥ)
+[prakṛta+praśna+viṣaye](prakṛtapraśnaviṣaye) [nanu](nanviti) [iti](nanviti) [sambhāvanā+dyotakaḥ](sambhāvanādyotakaḥ)
 
 ## mukta-m0-p127-v3172
-[thus](iti) [thinking](matvā) [replied](pratyuvāca) [god-of-gods](devadevo) [great-lord](maheśvaraḥ)
+[iti](iti) [matvā](matvā) [pratyuvāca](pratyuvāca) [deva+devaḥ](devadevo) [mahā+īśvaraḥ](maheśvaraḥ)
 
 ## mukta-m0-p127-v3173
-[will-be](bhavediti) [thinking](matvā)
+[bhavet](bhavediti) [iti](bhavediti) [matvā](matvā)
 
 ## mukta-m0-p127-v3174
-[therefore](ato) [knowledge](vidyāṃ) [goddess](bhagavatīṃ) [meditate](dhyāyāmaḥ) [supreme-goddess](parameśvarīm)
+[ataḥ](ato) [vidyām](vidyāṃ) [bhagavatīm](bhagavatīṃ) [dhyāyāmaḥ](dhyāyāmaḥ) [parama+īśvarīm](parameśvarīm)
 
 ## mukta-m0-p127-v3175
-[full-independence-endowed](pūrṇasvātantryayuktatvenāsmatsaṃśayacchedane) [our-doubt-cutting](asmatsaṃśayacchedane) [capable-indeed](samarthaiveti) [meaning](bhāvaḥ)
+[pūrṇa+svātantrya+yuktatvena](pūrṇasvātantryayuktatvenāsmatsaṃśayacchedane) [asmat+saṃśaya+cchedane](pūrṇasvātantryayuktatvenāsmatsaṃśayacchedane) [samarthā](samarthaiveti) [eva](samarthaiveti) [iti](samarthaiveti) [bhāvaḥ](bhāvaḥ)
