@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p59-v1451
-[not](na) [syllables](akṣarā) [if](yadi) [would-be](bhavet) [compassion-making](kṛpā+karī)
+[not-akṣarā](nākṣarā) [if](yadi) [be](bhavet) [compassion-maker](kṛpākarī)
 
 ## mukta-m0-p59-v1452
-[letter](varṇa) [garland](mālinī) [she](sā) [goddess](devī)
+[letter+garlanded](varṇamālinī)
 
 ## mukta-m0-p59-v1453
-[by-whom](yena) [from-true-guru](sat+gurutaḥ) [known](jñātā) [of-Śaṅkara](śāṅkarī) [letter-garland](varṇa+mālinī)
+[by-whom](yena) [from-true-guru](sadguruto) [known](jñātā) [śāṅkarī](śāṅkarī) [letter+garlanded](varṇamālinī)
 
 ## mukta-m0-p59-v1454
-[vermilion](sindūra) [red](aruṇa) [faced](vaktrā) [she](sā)
+[vermilion+ruddy+face](sindūrāruṇavaktrā)
 
 ## mukta-m0-p59-v1455
-[vermilion-red-faced](sindūra+aruṇa+vaktrā) [she](sā) [of-whom](kasya) [praiseworthy](ślāghyā) [not](na) [of-the-wise](dhīmataḥ)
+[vermilion+ruddy+face](sindūrāruṇavaktrā) [she](sā) [of-whom](kasya) [praiseworthy](ślāghyā) [not](na) [of-wise](dhīmataḥ)
 
 ## mukta-m0-p59-v1456
-[vermilion](sindūra) [forehead-mark](tilaka) [fond-of](priyā) [she](sā)
+[vermilion+tilaka+beloved](sindūratilakapriyā)
 
 ## mukta-m0-p59-v1457
-[bearing](dadhānā) [shines](bhāti) [Venus-Mars](śukra+arara) [conjunction](yogaṃ) [having-attained](yātaḥ) [moon](vidhuḥ) [as](yathā)
+[bearing](dadhānā) [shines](bhāti) [venus-enemy-yoga](śukrārayogaṃ) [gone](yāto) [moon](vidhu) [as](yathā)
 
 ## mukta-m0-p59-v1458
-[page](p.) [188](188)) [to-be-controlled](vaśyā) [she](sā)
+[page-188](p. 188)) [subduable](vaśyā)
 
 ## mukta-m0-p59-v1459
-[to-be-controlled](vaśyā) [certainly](avaśyaṃ) [served](sevitā) [goddess-of-gods](deva+devī)
+[subduable+necessarily](vaśyāvaśyaṃ) [served](sevitā) [goddess-of-gods](devadevī)
 
 ## mukta-m0-p59-v1460
-[subjugation](vaśya) [seed](bījā) [she](sā) [goddess](devī)
+[subduing+seed](vaśyabījā)
 
 ## mukta-m0-p59-v1461
-[devotee](bhaktā) [by-whose-compassion](yat+dayayā) [she](sā) [this](iyaṃ) [subjugation-seed](vaśya+bījā) [thus](iti) [celebrated](kīrtitā)
+[devotee](bhaktā) [by-whose-compassion](yaddayayā) [she-this](seyaṃ) [subduing+seed-thus](vaśyabījeti) [proclaimed](kīrtitā)
 
 ## mukta-m0-p59-v1462
-[world](loka) [subjugation](vaśya) [causing](vibhāvinī) [she](sā)
+[world+subduing+manifesting](lokavaśyavibhāvinī)
 
 ## mukta-m0-p59-v1463
-[worshipped](ārādhitā) [not](na) [by-whom](yena) [this](iyaṃ) [world-subjugating](loka+vaśya+vibhāvinī)
+[worshipped](ārādhitā) [not](na) [by-whom-this](yeneyaṃ) [world+subduing+manifesting](lokavaśyavibhāvinī)
 
 ## mukta-m0-p59-v1464
-[king](nṛpa) [subjugating](vaśyā) [she](sā) [goddess](devī)
+[king+subduable](nṛpavaśyā)
 
 ## mukta-m0-p59-v1465
-[king-subjugating](nṛpa+vaśyā) [triumphs](jayati) [this](eṣā) [throne-great-goddess](siṃhāsana+mahā+īśvarī)
+[king+subduable](nṛpavaśyā) [conquers](jayati) [this](eṣā) [throne+great-goddess](siṃhāsanamaheśvarī)
 
 ## mukta-m0-p59-v1466
-[by-kings](nṛpaiḥ) [to-be-served](sevyā) [she](sā) [goddess](devī)
+[by-kings](nṛpaiḥ) [served](sevyā)
 
 ## mukta-m0-p59-v1467
-[of-whom](yasya) [such](īdṛśī) [by-kings-served](nṛpaiḥ+sevyā) [pleased](prasannā) [supreme-goddess](parama+īśvarī)
+[of-whom-such](yasyedṛśī) [by-kings](nṛpaiḥ) [served](sevyā) [pleased](prasannā) [supreme-goddess](parameśvarī)
 
 ## mukta-m0-p59-v1468
-[king](nṛpa) [subjugation](vaśya) [making](karī) [she](sā)
+[king+subduing+maker](nṛpavaśyakarī)
 
 ## mukta-m0-p59-v1469
-[desirous](spṛhayāluḥ) [becomes](bhavati) [here](iha) [king-of-kings](rāja+rājaḥ)
+[desirous](spṛhayāluḥ) [becomes-here](bhavatīha) [king-of-kings](rājarājaḥ)
 
 ## mukta-m0-p59-v1470
-[beloved](priyā) [dear](priyā) [she](sā) [goddess](devī)
+[beloved](priyā)
 
 ## mukta-m0-p59-v1471
-[queen](mahiṣī) [consort](mahiṣī) [she](sā) [goddess](devī)
+[queen](mahiṣī)
 
 ## mukta-m0-p59-v1472
-[satisfaction-making](santoṣa+kartrī) [may-bring](ānayatu) [to-light](prakāśam) [she](sā)
+[pleasure-maker](santoṣakartrī) [bring](ānayatu) [light](prakāśam)
 
 ## mukta-m0-p59-v1473
-[by-kings](nṛpa) [honored](mānyā) [she](sā) [goddess](devī)
+[king+honored](nṛpamānyā)
 
 ## mukta-m0-p59-v1474
-[he](saḥ) [this](ayaṃ) [of-whom](yasya) [pleased](prasannā) [you](tvaṃ) [by-kings-honored](nṛpa+mānyā) [great-goddess](mahā+īśvarī)
+[he-this](so'yaṃ) [of-whom](yasya) [pleased](prasannā) [you](tvaṃ) [king+honored](nṛpamānyā) [great-goddess](maheśvarī)
 
 ## mukta-m0-p59-v1475
-[by-men](nṛ) [honored](mānyā) [she](sā) [goddess](devī)
+[man+honored](nṛmānyā)

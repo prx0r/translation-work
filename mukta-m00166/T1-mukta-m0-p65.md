@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p65-v1601
-[satisfaction](tuṣṭi)+[giver](dā)
+[giver-of-satisfaction](tuṣṭidā)
 
 ## mukta-m0-p65-v1602
-[remembered](pyujjhito) [in-heart](hṛdi) [always](sadā)+[may-be](astu) [satisfaction](tuṣṭi)+[giver](dā)
+[abandoned](pyujjhito) [in-heart](hṛdi) [always](sadā) [let-it-be](stu) [giver-of-satisfaction](tuṣṭidā)
 
 ## mukta-m0-p65-v1603
-[nourishment](puṣṭi)+[giver](dā)
+[giver-of-nourishment](puṣṭidā)
 
 ## mukta-m0-p65-v1604
-[by-which](kena) [by-which](kena)+[are-you](asi) [in-form](rūpeṇa) [to-whom](kasmai) [to-whom](kasmai) [not](na) [nourishment](puṣṭi)+[giver](dā)
+[by-whom](kena) [by-whom](kena) [asi](asi) [by-form](rūpeṇa) [to-whom](kasmai) [to-whom](kasmai) [not](na) [giver-of-nourishment](puṣṭidā)
 
 ## mukta-m0-p65-v1605
 [imperishable](akṣayā)
 
 ## mukta-m0-p65-v1606
-[you](tvam)+[indeed](eva)+[alone](ekā) [but](tu) [true](sat)+[form](rūpā) [by-own-nature](svabhāvena) [consciousness](cit)+[imperishable](akṣayā)
+[you-alone](tvamevaikā) [indeed](tu) [true-form](sadrūpā) [by-nature](svabhāvena) [consciousness-imperishable](cidakṣayā)
 
 ## mukta-m0-p65-v1607
-[foundation](niṣṭhā)
+[steadfastness](niṣṭhā)
 
 ## mukta-m0-p65-v1608
-[foundation](niṣṭhā) [compassion](kṛpāṃ) [as-long-as](yāvat)+[this](iyaṃ) [not](na) [holds](dhatte)
+[steadfastness](niṣṭhā) [compassion](kṛpāṃ) [as-long-as](yāvadiyaṃ) [not](na) [bears](dhatte)
 
 ## mukta-m0-p65-v1609
-[truth](satya)+[loving](priyā)
+[truth-dear](satyapriyā)
 
 ## mukta-m0-p65-v1610
-[truth](satya)+[loving](priyā) [she](sā) [what-is-dear](priyam)+[may-bring-forth](ātanotu)
+[truth-dear](satyapriyā) [she](sā) [dear-thing](priyam) [may-she-extend](ātanotu)
 
 ## mukta-m0-p65-v1611
 [wisdom](prajñā)
 
 ## mukta-m0-p65-v1612
-[of-that](tasya) [of-that](tasya) [how](kathaṃ) [not](na)+[command](ājñāṃ) [bear](vahanti) [on-head](śirasi)+[others](itare)
+[of-him](tasya) [of-him](tasya) [how](kathaṃ) [not-ignorance](nājñāṃ) [carry](vahanti) [on-heads](śirasī) [others](itare)
 
 ## mukta-m0-p65-v1613
-[world](loka)+[mistress](īśī)
+[world-lady](lokeśī)
 
 ## mukta-m0-p65-v1614
-[world](loka)+[mistress](īśī) [me](māṃ) [sorrow](śoka)+[devoid](hīnaṃ) [may-make](karotu)
+[world-lady](lokeśī) [me](māṃ) [grief-free](śokahīnaṃ) [may-she-make](karotu)
 
 ## mukta-m0-p65-v1615
-[among-gods](sura)+[supreme](uttamā)
+[best-of-gods](surottamā)
 
 ## mukta-m0-p65-v1616
-[among-gods](sura)+[supreme](uttamā) [may-make](karotu)+[this](enam) [all](sarva)+[supreme](uttama)+[state](gatiṃ) [person](janam)
+[best-of-gods](surottamā) [may-she-make](karotu) [him](enaṃ) [supreme-goal](sarvottamagatiṃ) [person](janam)
 
 ## mukta-m0-p65-v1617
-[poisonous](saviṣā)
+[with-poison](saviṣā)
 
 ## mukta-m0-p65-v1618
-[poisonous](saviṣā) [by-name](nāma)+[merely](mātreṇa) [I-know](jāne) [like-ḍitthaḍavittha](ḍitthaḍavitthavat)
+[with-poison](saviṣā) [by-name-alone](nāmamātreṇa) [I-know](jāne) [ḍitthaḍavitthavat](ḍitthaḍavitthavat)
 
 ## mukta-m0-p65-v1619
 [flaming](jvālinī)
 
 ## mukta-m0-p65-v1620
-[she](sā) [flaming](jvālinī) [time](kāla)+[fear](bhayaṃ) [remove](hara)+[of-him](asya)
+[she](sā) [flaming](jvālinī) [fear-of-death](kālabhayaṃ) [may-she-remove](harāsya)
 
 ## mukta-m0-p65-v1621
 [flame](jvālā)
 
 ## mukta-m0-p65-v1622
-[blazes](jājvalīti) [standing](sthitā)+[alone](ekā)+[indeed](eva) [flame](jvālā) [she](sā) [strength](bala)+[giver](dā)+[may-be](astu) [to-us](naḥ)
+[blazes](jājvalīti) [standing-alone](sthitaikaiva) [flame](jvālā) [she](sā) [strength-giving](baladā) [let-it-be](stu) [us](naḥ)
 
 ## mukta-m0-p65-v1623
-[poison](viṣa)+[delusion](moha)+[suffering](ārti)+[destroyer](nāśinī)
+[destroyer-of-poison-delusion-pain](viṣamohārtināśinī)
 
 ## mukta-m0-p65-v1624
-[death](mṛtyu)+[conqueror](jit) [creatures](paśu)+[protector](paḥ) [she](sā)+[this](iyaṃ) [poison](viṣa)+[delusion](moha)+[suffering](ārti)+[destroyer](nāśinī)
+[death-conqueror](mṛtyujit) [cowherd](paśupaḥ) [she-this](seyaṃ) [destroyer-of-poison-delusion-pain](viṣamohārtināśinī)
 
 ## mukta-m0-p65-v1625
-[poison](viṣa)+[enemy](ariḥ)
+[enemy-of-poison](viṣāriḥ)

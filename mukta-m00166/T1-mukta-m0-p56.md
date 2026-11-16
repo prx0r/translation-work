@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p56-v1376
-[reason](yukti) [+endowed](yuktā) [in-existence](bhaveḥ) [+become](bhūtā) [snare](vāgurā) [heavy](guruḥ) [+wondrous](adbhutā)
+[yukti-yuktā](yuktiyuktā) [bhaver-bhūtā](bhaverbhūtā) [vāgurā](vāgurā) [gurur-adbhutā](gururadbhutā)
 
 ## mukta-m0-p56-v1377
-[bond](bandha) [+form](rūpā) [bond](bandha) [+form](rūpā)
+[page-179](p. 179)) [bandha-rūpā](bandharūpā)
 
 ## mukta-m0-p56-v1378
-[connection](sambandha) [+bond](bandhaṃ) [breaking-asunder](paribhindatī) [of-us](naḥ)
+[sambandha-bandhaṃ](sambandhabandhaṃ) [pari-bhindatī](paribhindatī) [naḥ](naḥ)
 
 ## mukta-m0-p56-v1379
-[slaying](vadha) [+form](rūpā) [slaying](vadha) [+form](rūpā)
+[vadha-rūpā](vadharūpā)
 
 ## mukta-m0-p56-v1380
-[becoming](bhavatī) [+thus](iti) [hard-to-overcome](durantam) [+with-wonder](adbhutena)
+[bhavatīm-eti](bhavatīmeti) [durantam-adbhutena](durantamadbhutena)
 
 ## mukta-m0-p56-v1381
-[slaying](vadha) [+eager](uddhatā) [slaying](vadha) [+eager](uddhatā)
+[vadha-uddhatā](vadhoddhatā)
 
 ## mukta-m0-p56-v1382
-[maddened](unmatta) [other](itaraḥ) [who](kaḥ) [indeed](svid) [O-goddess](devī) [whose](yasya) [slaying](vadha) [+eager](uddhatā)
+[unmatta](unmatta) [itaraḥ](itaraḥ) [kaḥ](kaḥ) [svid](svid) [devī](devī) [yasya](yasya) [vadha-uddhatā](vadhoddhatā)
 
 ## mukta-m0-p56-v1383
-[praiser](vandī) [praiser](vandī) [praiser](vandī) [praiser](vandī)
+[vandī](vandī)
 
 ## mukta-m0-p56-v1384
-[praiser](vandī) [+made](kṛtā) [+is](asti) [good-minded](sumanaḥ) [+multitude](nikāyye)
+[vandī-kṛtā](vandīkṛtāsti) [asti](vandīkṛtāsti) [sumano-nikāyye](sumanonikāyye)
 
 ## mukta-m0-p56-v1385
-[praiser](vandi) [+praise](stuta) [+form](ākārā) [praiser](vandi) [+praise](stuta) [+form](ākārā)
+[vandi-stutā-kārā](vandistutākārā)
 
 ## mukta-m0-p56-v1386
-[oh](aho) [praiser](vandi) [+praise](stuta) [+form](ākārā) [she](sā) [power](śaktiḥ) [+devotee](bhakta) [+loving](vatsalā)
+[aho](aho) [vandi-stutā-kārā](vandistutākārā) [sā](sā) [śaktir-bhakta-vatsalā](śaktirbhaktavatsalā)
 
 ## mukta-m0-p56-v1387
-[prison](kārā) [+bond](bandha) [+releaser](vimocanī) [prison](kārā) [+bond](bandha) [+releaser](vimocanī)
+[page-180](p. 180)) [kārā-bandha-vimocanī](kārābandhavimocanī)
 
 ## mukta-m0-p56-v1388
-[in-difficult](viṣame) [time](samaye) [may-be](bhūyāt) [prison](kārā) [+bond](bandha) [+releaser](vimocinī)
+[viṣame](viṣame) [samaye](samaye) [bhūyāt](bhūyāt) [kārā-bandha-vimocinī](kārābandhavimocinī)
 
 ## mukta-m0-p56-v1389
-[chain](śṛṅkhalā) [chain](śṛṅkhalā) [chain](śṛṅkhalā) [chain](śṛṅkhalā)
+[śṛṅkhalā](śṛṅkhalā)
 
 ## mukta-m0-p56-v1390
-[like](iva) [sheep](yaya) [+sheep](āvaya) [bound](ābaddhā) [submissive](vaśyāḥ) [she](sā) [chain](śṛṅkhalā) [regarded](matā)
+[yayā](yayāvaya) [ivā-baddhā](ivābaddhā) [vaśyāḥ](vaśyāḥ) [sā](sā) [śṛṅkhalā](śṛṅkhalā) [matā](matā)
 
 ## mukta-m0-p56-v1391
-[wicked](khala) [+slayer](hā) [wicked](khala) [+slayer](hā) [wicked](khala) [+slayer](hā) [wicked](khala) [+slayer](hā)
+[khala-hā](khalahā)
 
 ## mukta-m0-p56-v1392
-[them](tāṃ) [causing-to-reach](prāpayanti) [+even](api) [and](ca) [them](tān) [wicked](khala) [+slayer](hā) [+are](asi) [she](sā) [you](tvam)
+[tāṃ](tāṃ) [prāpayanty-api](prāpayantyapi) [ca](ca) [tān](tān) [khala-hā](khalahāsi) [asi](khalahāsi) [sā](sā) [tvam](tvam)
 
 ## mukta-m0-p56-v1393
-[lightning](vidyut) [+conquers](jayati) [she](sā) [always](nityaṃ) [submarine-fire](vaḍavāgni) [+sister](sahodarī)
+[vidyuj-jayati](vidyujjayati) [sā](sā) [nityaṃ](nityaṃ) [vaḍavāgni-sahodarī](vaḍavāgnisahodarī)
 
 ## mukta-m0-p56-v1394
-[firm](dṛḍha) [+bond](bandha) [+releaser](vimocinī) [firm](dṛḍha) [+bond](bandha) [+releaser](vimocinī)
+[dṛḍha-bandha-vimocinī](dṛḍhabandhavimocinī)
 
 ## mukta-m0-p56-v1395
-[removes](harati) [remembrance](smṛti) [+mere](mātrāt) [she](sā) [firm](dṛḍha) [+bond](bandha) [+releaser](vimocinī)
+[harati](harati) [smṛti-mātrāt](smṛtimātrāt) [sā](sā) [dṛḍha-bandha-vimocinī](dṛḍhabandhavimocinī)
 
 ## mukta-m0-p56-v1396
-[mother](ambikā) [mother](ambikā) [mother](ambikā) [mother](ambikā)
+[ambikā](ambikā)
 
 ## mukta-m0-p56-v1397
-[by-glance](dṛśā) [greatly](bhṛśaṃ) [may-destroy](nāśayatāt) [+without](a) [+anger](roṣā)
+[dṛśā](dṛśā) [bhṛśaṃ](bhṛśaṃ) [nāśayatādaroṣā](nāśayatādaroṣā)
 
 ## mukta-m0-p56-v1398
-[little-mother](ambālikā) [little-mother](ambālikā) [little-mother](ambālikā) [little-mother](ambālikā)
+[ambālikā](ambālikā)
 
 ## mukta-m0-p56-v1399
-[plantain-shoot](rambālikā) [nourishment](poṣaṇa) [+making](kāriṇī) [may-be](syāḥ)
+[rambālikā](rambālikā) [poṣaṇa-kāriṇī](poṣaṇakāriṇī) [syāḥ](syāḥ)
 
 ## mukta-m0-p56-v1400
-[mother](ambā) [mother](ambā) [mother](ambā) [mother](ambā)
+[ambā](ambā)

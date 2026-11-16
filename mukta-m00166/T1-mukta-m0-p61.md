@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p61-v1501
-[lower](avara) [and+other](vara) [class](varṇa) [born](jā)
+[born-of-lower-varna](avaravarṇajā)
 
 ## mukta-m0-p61-v1502
-[reflection](vicāra) [delight](ruci) [having-locks](rālakāḥ) [indeed](tu) [lower+and+other+class+born](avaravarṇajā) [for-us](naḥ) [for-prosperity](śriye)
+[deliberation-beautiful-curls](vicārarucirālakāḥ) [and-born-of-lower-varna](tvavaravarṇajā) [to-us](naḥ) [for-prosperity](śriye)
 
 ## mukta-m0-p61-v1503
-[Veda](veda) [path](mārga) [devoted](ratā)
+[devoted-to-vedic-path](vedamārgaratā)
 
 ## mukta-m0-p61-v1504
-[oh](aho) [she](sā) [also](api) [herself](svayaṃ) [goddess](devī) [Veda+path+devoted](vedamārgaratā) [supreme](parā)
+[oh](aho) [she-too](sāpi) [herself](svayaṃ) [goddess](devī) [devoted-to-vedic-path](vedamārgaratā) [supreme](parā)
 
 ## mukta-m0-p61-v1505
-[sacrifices](yajñāḥ)
+[sacrifices](yajñā)
 
 ## mukta-m0-p61-v1506
-[they-attain](gacchanti) [success](siddhiṃ) [auspicious](śivadāḥ) [indeed](tu) [sacrifices](yajñāḥ)
+[attain](gacchanti) [perfection](siddhiṃ) [may-śiva-give](śivadāstu) [sacrifices](yajñā)
 
 ## mukta-m0-p61-v1507
-[Veda](veda) [universe](viśva) [illuminating](vibhāvinī)
+[revealing-vedic-universe](vedaviśvavibhāvinī)
 
 ## mukta-m0-p61-v1508
-[by-whom](yayā) [illuminated](vibhāvitaḥ) [she](sā) [this](iyaṃ) [Veda+universe+illuminating](vedaviśvavibhāvinī)
+[by-whom](yayā) [manifested](vibhāvitaḥ) [she-this](seyaṃ) [revealing-vedic-universe](vedaviśvavibhāvinī)
 
 ## mukta-m0-p61-v1509
-[missile](astra) [weapon](śastra) [consisting-of](mayī) [knowledge](vidyā)
+[weapon-armed-knowledge](astraśastramayī) [knowledge](vidyā)
 
 ## mukta-m0-p61-v1510
-[missile+weapon+consisting-of](astraśastramayī) [knowledge](vidyā) [not](na) [by-them](taiḥ) [if](cet) [would-be](syād) [subdued](vaśīkṛtā)
+[weapon-armed-knowledge](astraśastramayī) [knowledge](vidyā) [not](na) [by-them-if](taiścet) [would-be](syād) [subjugated](vaśīkṛtā)
 
 ## mukta-m0-p61-v1511
-[boon](vara) [weapon](śastra) [and-missile](astra) [bearing](dhāriṇī)
+[bearing-excellent-weapons](varaśastrāstradhāriṇī)
 
 ## mukta-m0-p61-v1512
-[bliss](ānanda) [causing](kāriṇī) [supreme-lady](īśānī) [boon+weapon+missile+bearing](varaśastrāstradhāriṇī)
+[bliss-causing-īśānī](ānandakāriṇīśānī) [bearing-excellent-weapons](varaśastrāstradhāriṇī)
 
 ## mukta-m0-p61-v1513
-[of-good-intellect](sumedhāḥ)
+[good-intelligence](sumedhāḥ)
 
 ## mukta-m0-p61-v1514
-[she](sā) [to-me](me) [may-be-helper](sahāyāstu) [always](sadā) [of-good-intellect](sumedhāḥ)
+[she](sā) [to-me](me) [companion-be](sahāyāstu) [always](sadā) [good-intelligence](sumedhāḥ)
 
 ## mukta-m0-p61-v1515
-[of-true-intellect](satyamedhā)
+[true-intelligence](satyamedhā)
 
 ## mukta-m0-p61-v1516
-[gone](gatā) [always](sadā) [even](api) [exists](asti) [indeed](hi) [of-true-intellect](satyamedhā)
+[gone](gatā) [always-yet-is](sadāpyasti) [indeed](hi) [true-intelligence](satyamedhā)
 
 ## mukta-m0-p61-v1517
-[auspicious](bhadra) [Kālī](kālī)
+[auspicious-kālī](bhadrakālī)
 
 ## mukta-m0-p61-v1518
-[of-devotees](bhaktānāṃ) [she](sā) [may-be](bhavatu) [of-prosperous-ones](bhavināṃ) [auspicious+Kālī](bhadrakālī) [for-prosperity](śriye) [of-you](vaḥ)
+[of-devotees](bhaktānāṃ) [she](sā) [be](bhavatu) [of-beings](bhavināṃ) [auspicious-kālī](bhadrakālī) [for-prosperity](śriye) [to-you](vaḥ)
 
 ## mukta-m0-p61-v1519
 [unconquered](aparājitā)
 
 ## mukta-m0-p61-v1520
-[Śakra](śakraḥ) [and-conquering](jiṣṇuḥ) [and](ca) [world](lokaṃ) [she](sā) [for-welfare](hitāya) [indeed](astu) [unconquered](aparājitā)
+[Indra](śakro) [victorious](jiṣṇuśca) [world](lokaṃ) [she](sā) [for-welfare](hitāyāstu) [unconquered](aparājitā)
 
 ## mukta-m0-p61-v1521
-[Gāyatrī](gāyatrī)
+[gāyatrī](gāyatrī)
 
 ## mukta-m0-p61-v1522
-[Gāyatrī](gāyatrī) [not](na) [and](ca) [by-whom](kena) [by-whom](kena) [constantly](satataṃ) [who](ke) [who](ke) [not](na) [worship](vārcanti) [him](tam)
+[gāyatrī](gāyatrī) [not](na) [and](ca) [by-whom](kena) [by-whom](kena) [always](satataṃ) [who](ke) [who](ke) [not](na) [praise](vārcanti) [him](tam)
 
 ## mukta-m0-p61-v1523
-[good-action](satkṛtiḥ)
+[good-rite](satkṛtiḥ)
 
 ## mukta-m0-p61-v1524
-[Rudra-hood](rudratvam) [wondrous+art](adbhutakalāṃ) [of-tawny-ones](haritāṃ) [own-state](svatāṃ) [or](vā)
+[rudra-hood](rudratvam) [wonderful-art](adbhutakalāṃ) [green](haritāṃ) [ownness](svatāṃ) [or](vā)
 
 ## mukta-m0-p61-v1525
 [twilight](sandhyā)
