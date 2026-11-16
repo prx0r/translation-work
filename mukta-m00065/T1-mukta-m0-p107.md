@@ -2,52 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p107-v2651
-that-band from-foot to-be-made quarter-part-by exit
+[that+band](tatpaṭṭī) [by-quarter](pādataḥ) [to-be-made](kāryā) [by-quarter+part](pādonāṃśena) [projection](nirgamā)
+
 ## mukta-m0-p107-v2652
-one-part in-three having-made entrance and one from-part
+[part](bhāgam) [one](ekaṃ) [threefold](tridhā) [having-made](kṛtvā) [recess](praveśaḥ) [and](ca) [by-one](eka) [part](bhāgataḥ)
+
 ## mukta-m0-p107-v2653
-band but to-be-made by-second near-exit
+[band](paṭṭikā) [but](tu) [to-be-made](prakartavyā) [by-second](dvitīyena) [with-projection](upanirgamā)
+
 ## mukta-m0-p107-v2654
-called-balita by-three parts planet-parts and waist becomes
+[called-balita](balitāhvaṃ) [by-three](tribhi) [parts](rbhāgaiḥ) [by-planet+parts](grahāṃśaiḥ) [but](tu) [hip](kaṭiḥ) [should-be](bhavet)
+
 ## mukta-m0-p107-v2655
-from-throat-cord enters from-part that-band-above
+[from-neck+line](kaṇṭhasūtrāt) [should-enter](viśet) [hip](kaṭhaḥ) [by-part](bhāgāt) [that+band+above](tatpaṭṭikordhvaḥ)
+
 ## mukta-m0-p107-v2656
-of-earth shank hips and declared by-Tvaṣṭṛ by-scripture
+[of-base](bhūmeḥ) [shin](jaṅghā) [and-hip](nitambau) [and](ca) [declared](kīrtitau) [by-architect](tvaṣṭṭa) [from-scripture](śāstrataḥ)
+
 ## mukta-m0-p107-v2657
-below-that half-wing-part by-width and should-make
+[below-that](tadadhaḥ) [with-half+side+part](sārdhapakṣāṃśaṃ) [in-width](vistāreṇa) [but](tu) [one-should-make](kārayet)
+
 ## mukta-m0-p107-v2658
-one-by-one and by-part enters throat from-cord
+[by-one+one](ekaikena) [but](tu) [by-part](bhāgega) [should-enter](viśet) [from-neck](kaṇṭhaka) [line](sūtrataḥ)
+
 ## mukta-m0-p107-v2659
-becomes anuratha by-six by-seventh water-interval
+[should-be](bhavet) [anuratha](anurathaḥ) [by-six](ṣadbhiḥ) [by-seventh](saptamena) [water+interval](udakāntaram)
+
 ## mukta-m0-p107-v2660
-of-corner-anuratha-etc circular-entrance is-called
+[of-corner+anuratha+and-others](koṇānurathakādīnāṃ) [circular+recess](vṛttapraveśaḥ) [is-stated](ucyate)
+
 ## mukta-m0-p107-v2661
-likewise by-fourth-part entrance of-anuratha and
+[likewise](tadvat) [by-fourth](caturtha) [part](bhāgena) [recess](praveśaḥ) [of-anuratha](anurathasya) [and](ca)
+
 ## mukta-m0-p107-v2662
-having-omitted parts of-grounds own own of-all and in-order
+[having-divided](luptvā) [parts](bhāgān) [of-levels](bhuvāṃ) [own](svāṃ) [own](svāṃ) [of-all](sarvāsāṃ) [and](ca) [in-order](yathākramam)
+
 ## mukta-m0-p107-v2663
-by-quarter-less-two-part pot that-band from-foot becomes
+[by-quarter+less+twenty-two](pādonadvyaṃśataḥ) [pot](kumbhaḥ) [its+band](tatpaṭṭī) [by-quarter](pādataḥ) [should-be](bhavet)
+
 ## mukta-m0-p107-v2664
-pot-like and those to-be-made of-knife-wings likewise
+[like-pot](kumbhopame) [and](ca) [those-two](te) [to-be-made](kārye) [of-churikā+and-side](churikāpakṣayoḥ) [likewise](tathā)
+
 ## mukta-m0-p107-v2665
-by-foot pot-band but by-half neck-band
+[by-quarter](pādena) [pot+band](kumbhapaṭṭī) [but](tu) [and-by-half](cārdhena) [neck+band](galapaṭṭikā)
+
 ## mukta-m0-p107-v2666
-by-pot-half likewise band throat that-band-half-from
+[by-pot+half](kumbhārdhena) [likewise](tathā) [band](paṭṭī) [neck](kaṇṭhaḥ) [by-that+band+half](tatpaṭṭīkārdhataḥ)
+
 ## mukta-m0-p107-v2667
-three-throat-height by-two of-wings there should-turn
+[three+neck+height](trikaṇṭhakocchrayaṃ) [by-two](dvābhyāṃ) [on-sides](pakṣayoḥ) [there](tatra) [one-should-shape](vartayet)
+
 ## mukta-m0-p107-v2668
-head like-lavalī-fruit becomes
+[head](mastaṃ) [like-lavalī+fruit](lavalīphalavat) [should-be](bhavet)
+
 ## mukta-m0-p107-v2669
-called-exit by-supreme-part from-square-part becomes
+[called-projection](nirgamākhyā) [by-another+part](parāṃśena) [from-square+part](caturasrāṃśato) [should-be](bhavet)
+
 ## mukta-m0-p107-v2670
-in-that-middle mark to-be-made thus by-three-parts varaṇḍikā
+[in-its-middle](tanmadhye) [tilaka](tilakaṃ) [to-be-made](kāryam) [thus](evaṃ) [by-three+parts](tryaṃśaiḥ) [varaṇḍikā](varaṇḍikā)
+
 ## mukta-m0-p107-v2671
-form of-corner-chariot thus I-will-speak and upper-chariot from-you
+[form](rūpaṃ) [of-corner+ratha](koṇarathasya) [thus](evaṃ) [I-shall-tell](vakṣye) [and](ca) [uparatha](uparathaṃ) [now](tvataḥ)
+
 ## mukta-m0-p107-v2672
-by-pot-half band throat by-half-part likewise
+[by-pot+one](kumbhaikena) [by-half](ardhataḥ) [band](paṭṭī) [neck](kaṇṭhaḥ) [and](ca) [by-half+part](ardhāṃśataḥ) [likewise](tathā)
+
 ## mukta-m0-p107-v2673
-circular-band and exited by-part-part should-arrange
+[circular+band](vṛttapaṭṭī) [and](ca) [projecting](niṣkrāntā) [by-part](bhāga) [by-part](bhāgena) [one-should-design](kalpayet)
+
 ## mukta-m0-p107-v2674
-in-part pit-mark knower at-its-sides by-quality-part
+[in-part](aṃśe) [gartālaka](gartālakaṃ) [O-knower](tajña) [on-its-sides](tatpārśvayoḥ) [by-quality+part](guṇāṃśataḥ)
+
 ## mukta-m0-p107-v2675
-above-below-mark-overcome from-middle-place-above situated
+[above+below+tilaka+covered](ūrdhvādhastilakākrāntā) [of-middle+ones](madhyasthānoḥ) [above](ūrdhvataḥ) [situated](sthitā)
