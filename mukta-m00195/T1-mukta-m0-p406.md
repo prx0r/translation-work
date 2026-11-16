@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p406-v10126
-[immediately-bathing](sadyovagāhanaṃ) [having-done](kṛtvā) [in-her-only](tasyāmeva) [wise-man](vicakṣaṇaḥ)
+[immediately](sadyah) [immersion](avagāhanaṃ) [having-done](kṛtvā) [in-that-very](tasyām+eva) [wise-one](vicakṣaṇaḥ)
 
 ## mukta-m0-p406-v10127
-[six-months](ṣaṇmāsāt) [dies](mriyate) [enemy](śatruḥ) [at-both-twilight](sandhyayorubhayorapi)
+[for-six-months](ṣaṇ+māsāt) [dies](mriyate) [enemy](śatruḥ) [at-the-two-twilights](sandhyayoḥ) [of-both](ubhayoḥ+api)
 
 ## mukta-m0-p406-v10128
-[camel-bone](uṣṭrāsthnā) [and](ca) [corpse-charcoal](śavāṅgāraiḥ) [enemy-expulsion](śatroruccāṭanaṃ) [becomes](bhavet)
+[with-camel-bone](uṣṭra+asthnā) [and](ca) [with-corpse-coals](śava+aṅgāraiḥ) [of-enemy](śatroḥ) [eradication](uccāṭanaṃ) [should-be](bhavet)
 
 ## mukta-m0-p406-v10129
-[foods](annaiḥ) [kindling-palasha](samidbhiḥ+pālāśaiḥ) [peace](śāntiṃ) [do](kuryād) [wise-man](vicakṣaṇaḥ)
+[with-food-offerings](annaiḥ) [with-fuel-sticks](samidbhiḥ) [of-palāśa](pālāśaiḥ) [pacification](śāntiṃ) [should-perform](kuryāt) [wise-one](vicakṣaṇaḥ)
 
 ## mukta-m0-p406-v10130
-[sweet-trio-sprinkled](madhuratrayasaṃsiktaiḥ) [these](ebhiḥ) [do](kuryāt) [also](ca) [subjugation](vaśyakam)
+[with-three-sweets](madhura+traya) [mixed-with](saṃsiktaiḥ) [with-these](ebhiḥ) [should-perform](kuryāt) [and](ca) [subjugation](vaśyakam)
 
 ## mukta-m0-p406-v10131
-[great-disease-pacification](mahāvyādhipraśamanaṃ) [daily](nityam) [hundred-eight](aṣṭottaraṃ+śatam)
+[great-disease](mahā+vyādhi) [pacification](praśamanaṃ) [daily](nityam) [one-hundred-and-eight-times](aṣṭa+uttaraṃ) [hundred](śatam)
 
 ## mukta-m0-p406-v10132
-[mind](manasā) [think](cintayet) [ritual](kṛtyāṃ) [elephant-mounted](gajārūḍhām) [Ambika-heroine](ibhadravīm)
+[in-mind](manasā) [should-contemplate](cintayet) [magical-figure](kṛtyāṃ) [mounted-on-elephant](gaja+ārūḍhām) [like-Ibhadra](ibha+dravīm)
 
 ## mukta-m0-p406-v10133
-[thief-tiger-beast-etc](cauravyāghramṛgādīnāṃ) [water-etc](salilāder) [fear-removing](bhayāpaham)
+[from-thieves](caura) [tigers](vyāghra) [wild-animals](mṛga+ādīnāṃ) [and-from-water](salilāt) [and-others](ādeḥ) [fear-removing](bhaya+apaham)
 
 ## mukta-m0-p406-v10134
-[wise](medhāvī) [and](ca) [becomes](bhaved) [eloquent](vāgmī) [so-long](tāvaj) [japa-abhisheka](jāpābhiṣekataḥ)
+[intelligent](medhāvī) [and](ca) [should-become](bhavet) [eloquent](vāgmī) [by-that-much](tāvat) [by-recitation](jāpa) [and-consecration](abhiṣekataḥ)
 
 ## mukta-m0-p406-v10135
-[fortnight](pakṣam) [month](māsaṃ) [two-months](dvimāsaṃ) [or](vā) [six-months](ṣaṇmāsaṃ) [year](vatsaraṃ) [or](tu+vā)
+[for-a-fortnight](pakṣam) [a-month](māsaṃ) [or-two-months](dvi+māsaṃ) [or](vā) [for-six-months](ṣaṇ+māsaṃ) [or-a-year](vatsaraṃ) [indeed](tu) [or](vā)
 
 ## mukta-m0-p406-v10136
-[ritual](kṛtyāṃ) [worship](samarcayed) [hand](haste) [as](yathā) [rite-first](vidhipuraḥsaram)
+[the-magical-figure](kṛtyāṃ) [one-should-worship](samarcayet) [in-hand](haste) [as](yathā) [according-to-rule](vidhi+puraḥsaram)
 
 ## mukta-m0-p406-v10137
-[its-middle](tanmadhye) [desired-petal](iṣṭadalaṃ) [placing](nyasya) [ya-letters](yakārādīn) [set](nyaset) [in-order](kramāt)
+[in-its-middle](tat+madhye) [eight-petals](aṣṭa+dalaṃ) [having-placed](nyasya) [beginning-with-ya](ya+kāra+ādīn) [one-should-place](nyaset) [in-order](kramāt)
 
 ## mukta-m0-p406-v10138
-[moon-disk](candrabimbaṃ) [draw](likhet) [lotus](padmaṃ) [its-above](tasyordhvaṃ) [image](pratimāṃ) [draw](likhet)
+[moon-disc](candra+bimbaṃ) [one-should-draw](likhet) [lotus](padmaṃ) [above-it](tasya+ūrdhvaṃ) [image](pratimāṃ) [one-should-draw](likhet)
 
 ## mukta-m0-p406-v10139
-[pot-middle](kumbhamadhye) [place](nyaset) [ritual](kṛtyāṃ) [all-marks-endowed](sarvalakṣaṇasaṃyutām)
+[in-the-middle-of-the-jar](kumbha+madhye) [one-should-place](nyaset) [the-magical-figure](kṛtyāṃ) [with-all-marks](sarva+lakṣaṇa) [endowed](saṃyutām)
 
 ## mukta-m0-p406-v10140
-[satisfying](paritoṣya) [and](ca) [them](tān) [place](nyasyed) [dark-limbed-etc](asitāṅgādibhairavān)
+[having-satisfied](paritoṣya) [and](ca) [them](tān) [one-should-place](nyasyet) [beginning-with-Asitāṅga](asitāṅga+ādi) [Bhairavas](bhairavān)
 
 ## mukta-m0-p406-v10141
-[world-lord-until](lokeśāntaṃ) [worship](yajed) [goddess](devi) [before-that](tadagre) [homa](homam) [perform](ācaret)
+[up-to-the-world-guardians](loka+īśa+antaṃ) [one-should-worship](yajet) [goddess](devi) [before-her](tat+agre) [oblation](homam) [one-should-perform](ācaret)
 
 ## mukta-m0-p406-v10142
-[pot-middle](kumbhamadhye) [place](nyased) [goddess](devīṃ) [right](dakṣiṇe) [but](tu) [Sri](śriyaṃ) [remember](smaret)
+[in-the-middle-of-the-jar](kumbha+madhye) [one-should-place](nyaset) [goddess](devīṃ) [on-the-right](dakṣiṇe) [but](tu) [Śrī](śriyaṃ) [one-should-contemplate](smaret)
 
 ## mukta-m0-p406-v10143
-[ten-thousand](ayutaṃ) [root-mantra](mūlamantrantu) [chant](japen) [death-destruction](mṛtyuvināśanam)
+[ten-thousand-times](ayutaṃ) [root-mantra](mūla+mantram) [indeed](tu) [one-should-recite](japet) [death-destroying](mṛtyu+vināśanam)
 
 ## mukta-m0-p406-v10144
-[great-peace-doing](mahāśāntikare) [because-etc-remainder](yasmāt+iti+śeṣaḥ) [world](loke) [suffering-poverty-destruction](duḥkhadāridryanāśanaḥ)
+[bringing-great-peace](mahā+śānti+kare) [in-the-world](loke) [sorrow](duḥkha) [and-poverty](dāridrya) [destroying](nāśanaḥ)
 
 ## mukta-m0-p406-v10145
-[to-Yaksha](yakṣāya) [mantra](yakṣāya+kuberāya+...) [and](ca) [to-Kubera](kuberāya) [say](vaded) [to-Vaishravana](vaiśravaṇāya) [and](ca)
+[to-Yakṣa](yakṣāya) [and](ca) [to-Kubera](kuberāya) [one-should-say](vadet) [to-Vaiśravaṇa](vaiśravaṇāya) [and](ca)
 
 ## mukta-m0-p406-v10146
-[prosperity](samṛddhiṃ) [me](me) [give](dehi) [say](vaded) [give](dāpaya) [fire-dear-end](agnipriyāntakaḥ)
+[prosperity](samṛddhiṃ) [to-me](me) [give](dehi) [one-should-say](vadet) [cause-to-be-given](dāpaya) [ending-with-svāhā](agni+priyā+antakaḥ)
 
 ## mukta-m0-p406-v10147
-[meter](chandastu) [indeed](tu) [Brihati](bṛhatī) [mantra](yakṣāya+...) [three-oceans-eight-eight-limbs](tryabdhīṣvaṣṭāṣṭāgaiḥ) [six-limbed](ṣaḍaṅgakam)
+[metre](chandaḥ+tu) [Bṛhatī](bṛhatī) [with-three-four-five-eight-eight-seven](tri+abdhi+iṣu+aṣṭa+aṣṭa+agaiḥ) [six-limb-ritual](ṣaḍ+aṅgakam)
 
 ## mukta-m0-p406-v10148
-[best-bracelet](varaṅgadāñca) [and](ca) [wearing](dadhat) [thread-thick](tantundilaṃ) [Yaksha-served](yakṣasevitam)
+[boon](varaṃ) [and-club](gadāṃ+ca) [holding](dadhatam) [pot-bellied](tundilaṃ) [served-by-Yakṣas](yakṣa+sevitam)
 
 ## mukta-m0-p406-v10149
-[dharma-etc-seat](dharmādipīṭhe) [worship](prayajed) [Anga-world-lord-weapon](aṅgalokeśahetikam)
+[on-the-seat-of-Dharma-etc.](dharma+ādi+pīṭhe) [one-should-worship](prayajet) [with-limbs-world-guardians-and-weapons](aṅga+loka+īśa+hetikam)
 
 ## mukta-m0-p406-v10150
-[bhel-root-seated](bilvamūlopaviṣṭena) [chanted](japto) [hundred-thousand](lakṣaṃ) [wealth-increasing](dhanarddhidaḥ)
+[seated-at-the-root-of-a-bilva-tree](bilva+mūla+upaviṣṭena) [recited](japtaḥ) [a-hundred-thousand-times](lakṣaṃ) [wealth-increase-giving](dhana+ṛddhi+daḥ)
