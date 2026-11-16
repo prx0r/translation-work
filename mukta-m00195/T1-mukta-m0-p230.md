@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p230-v5726
-[afterwards](paścāt) [that](tat) [diagram](yantraṃ) [should-bury](nikhanet) [on-earth](bhuvi)
+afterwards(paścāt) that(tat) + diagram(yantraṃ) should-bury(nikhanet) on-earth(bhuvi)
 
 ## mukta-m0-p230-v5727
-[of-constellations](nakṣatra) [of-planets](graha) [of-zodiac-signs](rāśīnāṃ) [of-world-protectors](lokeśānāṃ) [offering](baliṃ) [one-should-offer](haret)
+of-constellations(nakṣatra) + planets(graha) + zodiac-signs(rāśīnāṃ) of-world-lords(lokeśānāṃ) offering(baliṃ) one-should-present(haret)
 
 ## mukta-m0-p230-v5728
-[by-rule](vidhinā) [not](na) [here](atra) [doubt](saṃśayaḥ)
+by-rule(vidhinā) not(na) here(atra) doubt(saṃśayaḥ)
 
 ## mukta-m0-p230-v5729
-[to-be-done](kartavyam) [otherwise](anyathā) [sorrow-giving](duḥkha+daṃ) [it-would-become](bhavet)
+to-be-done(kartavyam) otherwise(anyathā) sorrow-giving(duḥkha-daṃ) it-may-become(bhavet)
 
 ## mukta-m0-p230-v5730
-[declared](samuddiṣṭāḥ) [of-them](teṣāṃ) [diagram](yantraṃ) [I-speak](vadāmi) [I](aham)
+declared(samuddiṣṭāḥ) of-them(teṣāṃ) diagram(yantraṃ) I-say(vadāmi) I(aham)
 
 ## mukta-m0-p230-v5731
-[clockwise](prādakṣiṇyena) [that](tat) [outside](bāhye) [in-circle-pair-interval](vṛtta+yugma+antare) [one-should-write](likhet)
+clockwise(prādakṣiṇyena) its(tat) + outside(bāhye) in-circle-pair(vṛtta-yugma) + interval(antare) one-should-write(likhet)
 
 ## mukta-m0-p230-v5732
-[earth-moving](bhuvi+cāḥ) [weapon](astram) [this](idam) [diagram](yantraṃ) [spirit-disease-removing](bhūta+roga+nivāraṇam)
+earth-moving(bhuvi-cāra) + weapon(astraṃ) this(idam) diagram(yantraṃ) spirit(bhūta) + disease(roga) + removing(nivāraṇam)
 
 ## mukta-m0-p230-v5733
-[one-should-wear](dhārayet) [on-arm-root](bāhu+mūle) [and](ca) [on-neck](kaṇṭhe) [or](vā) [on-head](mastake) [even](api) [or](vā)
+one-should-wear(dhārayet) on-arm-root(bāhu-mūle) and(ca) on-neck(kaṇṭhe) or(vā) on-head(mastake) even(api) or(vā)
 
 ## mukta-m0-p230-v5734
-[all-purpose-giving](sarva+artha+daṃ) [there](tatra) [lotus](padmam) [eight-petaled](aṣṭa+dalaṃ) [one-should-draw](likhet)
+all(sarva) + purpose(artha) + giving(daṃ) there(tatra) lotus(padmam) eight(aṣṭa) + petalled(dalaṃ) one-should-write(likhet)
 
 ## mukta-m0-p230-v5735
-[of-Śiva-five-syllable](śiva+pañca+akṣarasya) [indeed](tu)
+of-Śiva(śiva) + five-syllabled(pañca-akṣarasya) indeed(tu)
 
 ## mukta-m0-p230-v5736
-[of-Jātavedas-mantra](jātavedasa+mantrasya) [first-half](pūrva+ardham) [indeed](tu) [in-second](dvitīyake)
+of-Jātavedas(jātavedasa) + mantra(mantrasya) first-half(pūrva-ardham) indeed(tu) in-second(dvitīyake)
 
 ## mukta-m0-p230-v5737
-[ṭhaṃ](ṭhaṃ) [caṃ](caṃ) [kaṃ](kaṃ) [sam](sam) [iti](iti) [hyauṃ](hyauṃ) [yaṃ](yaṃ) [maṃ](maṃ) [then](tataḥ) [pacam](pacam)
+ṭhaṃ(ṭhaṃ) caṃ(caṃ) kaṃ(kaṃ) sam(sam) iti(iti) hyauṃ(hyauṃ) yaṃ(yaṃ) maṃ(maṃ) then(tataḥ) pacam(pacam)
 
 ## mukta-m0-p230-v5738
-[ye](ye) [iti](iti) [saṃ](saṃ) [kaṇṭhaṃ](kaṇṭhaṃ) [tāra](tāro) [māyā](māyā) [dhruva](dhruvaḥ) [likewise](tathā)
+ya(ya) iti(iti) saṃ(saṃ) kaṇṭhaṃ(kaṇṭhaṃ) tāra(tāraḥ) māyā(māyā) dhruva(dhruvaḥ) likewise(tathā)
 
 ## mukta-m0-p230-v5739
-[of-Tryambaka](tryambakasya) [latter-half](uttara+ardham) [indeed](tu) [in-fifth](pañcame) [then](atha) [latter-half](uttara+ardhakam)
+of-Tryambaka(tryambakasya) latter-half(uttara-ardham) indeed(tu) in-fifth(pañcame) also(atha) latter-half(uttara-ardhakam)
 
 ## mukta-m0-p230-v5740
-[to-be-written](lekhyam) [om-āpo-jyotiḥ](omāpojyotiḥ) [iti](iti) [also](api)
+to-be-written(lekhyam) omāpojyotiḥ(omāpojyotiḥ) iti(iti) also(api)
 
 ## mukta-m0-p230-v5741
-[one-should-write](likhet) [on-eighth-petal](aṣṭama+patre) [indeed](tu) [outside](bahiḥ) [circle-pair](vṛtta+dvayaṃ) [one-should-draw](likhet)
+one-should-write(likhet) on-eighth(aṣṭama) + petal(patre) indeed(tu) outside(bahiḥ) circle(vṛtta) + pair(dvayaṃ) one-should-write(likhet)
 
 ## mukta-m0-p230-v5742
-[in-corners](koṇeṣu) [seed-syllable](kūṭaṃ) [cintāmaṇi](cintāmaṇiṃ) [one-should-write](likhet)
+in-corners(koṇeṣu) kūṭa(kūṭaṃ) cintāmaṇi(cintāmaṇiṃ) one-should-write(likhet)
 
 ## mukta-m0-p230-v5743
-[then](tataḥ) [beyond](paraṃ) [with-candras](candraiḥ) [seed-syllable](kūṭaṃ) [of-great-cintāmaṇi](cintāmaṇeḥ) [great](mahat)
+then(tataḥ) beyond(param) with-candras(candraiḥ) kūṭa(kūṭaṃ) of-cintāmaṇi(cintāmaṇeḥ) great(mahat)
 
 ## mukta-m0-p230-v5744
-[hundred-syllable-mantra](śata+akṣara+manoḥ) [diagram](yantraṃ) [should-be](bhavet) [such](īdṛśam) [indeed](eva) [and](ca)
+hundred(śata) + syllabled(akṣara) + mantra(manoḥ) + diagram(yantraṃ) should-be(bhavet) such(īdṛśam) indeed(eva) and(ca)
 
 ## mukta-m0-p230-v5745
-[prosperity](lakṣmīṃ) [he](sa) [may-live](jīvet) [autumns](śaradāṃ) [hundred](śatam)
+prosperity(lakṣmīṃ) he(saḥ) may-live(jīvet) autumns(śaradāṃ) hundred(śatam)
 
 ## mukta-m0-p230-v5746
-[with-ghee](ghṛtena) [so-much](tāvat) [indeed](tu) [having-done](kṛtvā) [sprinkling](sampātam) [indeed](eva) [and](ca)
+with-ghee(ghṛtena) so-much(tāvat) indeed(tu) having-done(kṛtvā) oblation-remnant(sampātam) indeed(eva) and(ca)
 
 ## mukta-m0-p230-v5747
-[diagram](yantram) [this](etat) [indeed](tu) [cow-progeny-health-nourishment-giving](go+satya+ārogya+puṣṭi+daṃ)
+diagram(yantram) this(etat) indeed(tu) cow(go) + truth(satya) + health(ārogya) + nourishment(puṣṭi) + giving(dam)
 
 ## mukta-m0-p230-v5748
-[protection](rakṣaṇaṃ) [of-them](teṣāṃ) [from-enemy-tiger-etc-fear](vairi+vyāghra+ādi+bhītitaḥ)
+protection(rakṣaṇaṃ) of-them(teṣāṃ) from-enemy(vairi) + tiger(vyāghra) + etc.(ādi) + fear(bhītitaḥ)
 
 ## mukta-m0-p230-v5749
-[with-object-of-worship](sa+sādhyaṃ) [praṇava](praṇavaṃ) [one-should-write](likhet)
+with-object(sa-sādhyaṃ) praṇava(praṇavaṃ) one-should-write(likhet)
 
 ## mukta-m0-p230-v5750
-[and](ca) [of-this](asya) [in-six-corners](koṇa+ṣaṭke) [one-should-write](likhet) [of-mantra](manoḥ)
+and(ca) of-this(asya) in-corner(koṇa) + hexad(ṣaṭke) one-should-write(likhet) of-mantra(manoḥ)

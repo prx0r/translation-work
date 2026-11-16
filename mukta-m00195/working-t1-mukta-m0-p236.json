@@ -29,23 +29,19 @@
 "tokens": [
 {
 "surface": "praṇavaṃ",
-"quick_gloss": "sacred-syllable-oṃ"
+"quick_gloss": "om-syllable"
 },
 {
 "surface": "lekhyaṃ",
-"quick_gloss": "to-be-written"
+"quick_gloss": "should-be-written"
 },
 {
 "surface": "tasmin",
 "quick_gloss": "in-that"
 },
 {
-"surface": "huṃ",
-"quick_gloss": "hūṃ-seed"
-},
-{
-"surface": "bījam",
-"quick_gloss": "seed"
+"surface": "huṃ+bījam",
+"quick_gloss": "hūṃ-seed-syllable"
 },
 {
 "surface": "ālikhet",
@@ -71,6 +67,10 @@
 {
 "surface": "akṣaram",
 "quick_gloss": "syllable"
+},
+{
+"surface": "atra",
+"quick_gloss": "there"
 }
 ]
 },
@@ -124,7 +124,7 @@
 },
 {
 "surface": "smṛtaḥ",
-"quick_gloss": "remembered"
+"quick_gloss": "is-remembered"
 }
 ]
 },
@@ -149,11 +149,11 @@
 },
 {
 "surface": "vakṣyāmi",
-"quick_gloss": "I-shall-tell"
+"quick_gloss": "I-will-tell"
 },
 {
-"surface": "sāvadhānatayā",
-"quick_gloss": "with-attentiveness"
+"surface": "sa+avadhānatayā",
+"quick_gloss": "with+attentiveness"
 },
 {
 "surface": "śṛṇu",
@@ -170,15 +170,15 @@
 "tokens": [
 {
 "surface": "yoṣayitnavā",
-"quick_gloss": "yoṣayitnavā"
+"quick_gloss": "mantra"
 },
 {
 "surface": "sano",
-"quick_gloss": "sanaḥ"
+"quick_gloss": "mantra"
 },
 {
 "surface": "mūlatīdṛśe",
-"quick_gloss": "mūlatīdṛśe"
+"quick_gloss": "mantra"
 }
 ]
 },
@@ -198,7 +198,7 @@
 "quick_gloss": "lord"
 },
 {
-"surface": "madhumān",
+"surface": "madhu+mān",
 "quick_gloss": "honey-rich"
 },
 {
@@ -207,19 +207,19 @@
 },
 {
 "surface": "asya",
-"quick_gloss": "this"
+"quick_gloss": "be"
 },
 {
-"surface": "ripyaṃ",
+"surface": "ripyam",
 "quick_gloss": "harm"
 },
 {
 "surface": "attvenaṃ",
-"quick_gloss": "having-eaten"
+"quick_gloss": "eating"
 },
 {
 "surface": "carema",
-"quick_gloss": "may-we-wander"
+"quick_gloss": "may-we-avoid"
 }
 ]
 },
@@ -231,7 +231,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "varatrā",
+"surface": "varatrāḥ",
 "quick_gloss": "with-ropes"
 },
 {
@@ -240,15 +240,15 @@
 },
 {
 "surface": "śunam",
-"quick_gloss": "śunam"
+"quick_gloss": "dog"
 },
 {
 "surface": "aṣṭrām",
-"quick_gloss": "aṣṭrām"
+"quick_gloss": "goad"
 },
 {
 "surface": "udiṅgayā",
-"quick_gloss": "with-goad"
+"quick_gloss": "with-point"
 }
 ]
 },
@@ -260,7 +260,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "yamaḥ",
+"surface": "yaḥ",
 "quick_gloss": "which"
 },
 {
@@ -297,8 +297,8 @@
 "quick_gloss": "not"
 },
 {
-"surface": "suphalā",
-"quick_gloss": "well-fruited"
+"surface": "su+phalā",
+"quick_gloss": "fruitless"
 },
 {
 "surface": "asi",
@@ -336,7 +336,7 @@
 "tokens": [
 {
 "surface": "śunam",
-"quick_gloss": "prosperity"
+"quick_gloss": "dog"
 },
 {
 "surface": "asmāsu",
@@ -357,11 +357,11 @@
 "tokens": [
 {
 "surface": "pulastya+ṛṣiḥ",
-"quick_gloss": "pulastya+seer"
+"quick_gloss": "pulastya-seer"
 },
 {
 "surface": "anuṣṭup",
-"quick_gloss": "anuṣṭup"
+"quick_gloss": "anuṣṭubh"
 },
 {
 "surface": "ca",
@@ -369,7 +369,7 @@
 },
 {
 "surface": "triṣṭup+chandaḥ",
-"quick_gloss": "triṣṭup+meter"
+"quick_gloss": "triṣṭubh+meter"
 },
 {
 "surface": "asti",
@@ -402,11 +402,11 @@
 },
 {
 "surface": "veṣṭayet",
-"quick_gloss": "one-should-encircle"
+"quick_gloss": "one-should-enclose"
 },
 {
 "surface": "mātṛkā+arṇakaiḥ",
-"quick_gloss": "with-mother+syllables"
+"quick_gloss": "with-mātṛkā+letters"
 }
 ]
 },
@@ -418,7 +418,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "huṃ+bījaṃ",
+"surface": "huṃ+bījam",
 "quick_gloss": "hūṃ-seed"
 },
 {
@@ -448,7 +448,7 @@
 },
 {
 "surface": "dvāre",
-"quick_gloss": "in-door"
+"quick_gloss": "at-door"
 },
 {
 "surface": "kṣetre",
@@ -464,7 +464,7 @@
 },
 {
 "surface": "api",
-"quick_gloss": "even"
+"quick_gloss": "also"
 },
 {
 "surface": "vā",
@@ -506,11 +506,11 @@
 },
 {
 "surface": "syāt",
-"quick_gloss": "may-be"
+"quick_gloss": "will-be"
 },
 {
 "surface": "samāgamaḥ",
-"quick_gloss": "coming-together"
+"quick_gloss": "assembly"
 }
 ]
 },
@@ -522,11 +522,11 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "sulikhet",
+"surface": "su+likhet",
 "quick_gloss": "one-should-write-well"
 },
 {
-"surface": "kāma+bījaṃ",
+"surface": "kāma+bījam",
 "quick_gloss": "desire-seed"
 },
 {
@@ -560,7 +560,7 @@
 },
 {
 "surface": "catur+dalam",
-"quick_gloss": "four+petaled"
+"quick_gloss": "four+petalled"
 }
 ]
 },
@@ -581,11 +581,11 @@
 },
 {
 "surface": "lekhyāḥ",
-"quick_gloss": "to-be-written"
+"quick_gloss": "should-be-written"
 },
 {
 "surface": "trayaḥ+trayaḥ",
-"quick_gloss": "three+by-three"
+"quick_gloss": "three+three"
 }
 ]
 },
@@ -639,7 +639,7 @@
 },
 {
 "surface": "viṣa+dharāya",
-"quick_gloss": "to-serpent+holder"
+"quick_gloss": "to-serpent-holder"
 },
 {
 "surface": "ca",
@@ -656,7 +656,7 @@
 "tokens": [
 {
 "surface": "ṣoḍaśa+dalam",
-"quick_gloss": "sixteen+petaled"
+"quick_gloss": "sixteen+petalled"
 },
 {
 "surface": "kṛtvā",
