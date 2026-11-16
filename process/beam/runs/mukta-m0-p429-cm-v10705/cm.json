@@ -4,28 +4,28 @@
  "rows": [
   {
    "lemma": "rāmamantra",
-   "morph": "m.acc.pl",
-   "grounds": "gloss 'rama-mantras'; form rāmamantrān shows accusative plural masculine"
+   "morph": "acc.pl.m",
+   "grounds": "gloss 'rama-mantras' + form rāmamantrān"
   },
   {
    "lemma": "sa",
-   "morph": "m.nom.sg",
-   "grounds": "gloss 'sa'; form sa is nominative singular masculine pronoun"
+   "morph": "nom.sg.m",
+   "grounds": "gloss 'sa' + form sa"
   },
   {
    "lemma": "bhagavat",
-   "morph": "m.voc.sg",
-   "grounds": "gloss 'bhagavan'; form bhagavan is vocative singular masculine"
+   "morph": "voc.sg.m",
+   "grounds": "gloss 'bhagavan' + form bhagavan"
   },
   {
    "lemma": "pratimanvantara",
-   "morph": "n.loc.sg",
-   "grounds": "gloss 'manvantara'; form pratimanvantare shows locative singular neuter"
+   "morph": "loc.sg.n",
+   "grounds": "gloss 'manvantara' + form pratimanvantare"
   },
   {
-   "lemma": "hya+√bhū",
-   "morph": "indecl. + 3sg.aor.act",
-   "grounds": "gloss 'was'; form hyabhūta combines indeclinable hya with abhūt, 3rd singular aorist active of √bhū"
+   "lemma": "bhū",
+   "morph": "3sg.aor.act √bhū",
+   "grounds": "gloss 'was' + form hyabhūta"
   }
  ]
 }

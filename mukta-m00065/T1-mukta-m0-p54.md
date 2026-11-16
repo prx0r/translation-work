@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p54-v1326
-[mouth-tail-half-measure](mukha+puccha+ardha+mā) [at-beginning-and-end](ādyante) [by-direction-regions](dik+deśaiḥ) [at-middle-of-pair](yuga+madhyataḥ)
+[face](mukha)+[tail](puccha)+[half](ardha)+[beginning](ādi)+[end](ante) [direction](dig)+[place](deśaiḥ) [pair](yuga)+[middle-from](madhyataḥ)
 
 ## mukta-m0-p54-v1327
-[having-rotated](bhrāmya) [two-and-two](dvau) [two](dvau) [by-two-divisions](dvibhāgābhyāṃ) [in-two-middle-cells](madhya+koṣṭha+dvaye) [O-wise-one](budhaḥ)
+[revolve](bhrāmya) [two](dvau)+[two](dvau) [two-part](dvibhāgābhyāṃ) [middle](madhya)+[square](koṣṭha)+[two](dvaye) [wise](budhaḥ)
 
 ## mukta-m0-p54-v1328
-[knot-form](granthi+rūpaṃ) [as](yathā) [properly](samyak) [so](tathā) [that](tat) [one-should-erase](parilopayet)
+[knot](granthi)+[form](rūpaṃ) [as](yathā) [properly](samyak) [thus](tathā) [that](tat)+[erase](parilopayet)
 
 ## mukta-m0-p54-v1329
-[by-its-lower-part](tat+adhaḥ+aṃśena) [face](vaktraṃ) [should-be](syāt) [with-nose-eyes-tongue](nāsā+akṣi+rasana+anvitam)
+[that](tad)+[below](adhaḥ)+[part](aṃśena) [face](vaktraṃ) [be](syāt) [nose](nāsā)+[eye](akṣi)+[tongue](rasanā)+[possessed](anvitam)
 
 ## mukta-m0-p54-v1330
-[below-that](tat+adhaḥ) [on-both-sides](pārśvayoḥ) [in-two-parts](dyaṃśe) [ear-line](karṇa+sūtraṃ) [of-both](dvayoḥ) [equal](samam)
+[that](tad)+[below](adhaḥ) [sides](pārśvayoḥ) [two-part](dyaṃśe) [ear](karṇa)+[thread](sūtraṃ) [two](dvayoḥ) [equal](samam)
 
 ## mukta-m0-p54-v1331
-[from-three-parts-below](tryaṃśa+adhaḥ) [one-should-diminish](hrāsayet) [tail](pucchaṃ) [by-own-part](svāṃśaṃ) [by-third-part](tryaṃśena) [from-arrow](vāṇataḥ)
+[three-part](tryaṃśa)+[below](adho) [diminish](hrāsayet) [tail](pucchaṃ) [own](sva)+[part](aṃśaṃ) [three-part](tryaṃśena) [or](vā) [arrow](vāṇataḥ)
 
 ## mukta-m0-p54-v1332
-[white](sitaḥ) [serpent](ahiḥ) [black-tongued-faced](kṛṣṇa+jihvā+āsyaḥ) [and](ca) [red-eyed](rakta+akṣaḥ) [and](ca) [very-beautiful](suśobhanaḥ)
+[white](sitaḥ)+[snake](ahiḥ) [black](kṛṣṇa)+[tongue](jihvā)+[mouth](āsyaḥ) [red](rakta)+[eye](akṣaḥ)+[and](ca) [very-beautiful](suśobhanaḥ)
 
 ## mukta-m0-p54-v1333
-[in-west](vārūṇyāṃ) [of-Varuna](vārūṇaḥ) [noose](pāśaḥ) [to-be-made](kartavyaḥ) [in-direction](diśi) [by-teacher](daiśikaḥ)
+[varuṇa](vārūṇyāṃ) [varuṇa](vārūṇaḥ) [noose](pāśaḥ) [make](kartavyaḥ) [direction](diśi) [directional](daiśikaḥ)
 
 ## mukta-m0-p54-v1334
-[in-northwest-corner](vāyu+koṇe) [from-water](ambutaḥ) [declared](proktaṃ) [by-third-part](tryaṃśena) [indeed](tu) [and](ca) [mirror](darpaṇam)
+[wind](vāyu)+[corner](koṇe) [water](ambu)+[said](proktaṃ) [three-part](tryaṃśena) [but](tu) [ca](ca) [mirror](darpaṇam)
 
 ## mukta-m0-p54-v1335
-[from-half-moon](candra+ardhāt) [from-corner](koṇataḥ) [two-parts](dyaṃśaṃ) [one-should-remove](lopayet) [from-water](jalataḥ) [then](tataḥ)
+[moon](candra)+[half](ardhāt) [corner](koṇataḥ) [two-part](dyaṃśaṃ) [erase](lopayet) [water](jalataḥ) [then](stataḥ)
 
 ## mukta-m0-p54-v1336
-[below](adhaḥ) [by-element](bhūtena) [from-width](vistārāt) [from-transverse-line](tiryak+sūtrāt) [twice](dviḥ) [upward](ūrdhvataḥ)
+[below](adho) [element](bhūtena) [width](vistārāt) [transverse](tiryak)+[thread](sūtrāt) [twice](dvi)+[upward](ūrdhvataḥ)
 
 ## mukta-m0-p54-v1337
-[by-its-two-parts](tat+dyaṃśena) [straight](ṛjuṃ) [one-should-make](kuryāt) [flag](dhvajaṃ) [or](vā) [like-crooked-serpent](kuṭila+ahi+vat)
+[that](tad)+[two-part](dyaṃśena) [straight](ṝjuṃ) [make](kuryāt) [banner](dhvajaṃ) [or](vā) [curved](kuṭila)+[snake](ahi)+[like](vat)
 
 ## mukta-m0-p54-v1338
-[from-southwest](nairṝtyāt) [by-five-divisions](pañca+veśena) [line](sūtraṃ) [having-placed](vinyasya) [from-corner](koṇataḥ)
+[southwest](nairṝtyāt) [five](pañca)+[part](veśena) [thread](sūtraṃ) [place](vinyasya) [corner](koṇataḥ)
 
 ## mukta-m0-p54-v1339
-[from-northeast](īśānāt) [by-seven-previous](sapta+pūrveṇa) [from-seven-divisions](sapta+veśāt) [from-rotation](bhramāt) [again](punaḥ)
+[northeast](īśānāt) [seven](sapta)+[east](pūrveṇa) [seven](sapta)+[part](veśāt) [revolving](bhramāt) [again](punaḥ)
 
 ## mukta-m0-p54-v1340
-[by-removal-of-remaining-line](śeṣa+rekhā+vināśena) [of-Vayu](vāyoḥ) [flag](dhvajaḥ) [and](ca) [in-northwest](mārute)
+[remaining](śeṣa)+[line](rekhā) [destruction](vināśena) [wind](vāyoḥ) [banner](dhvajaḥ)+[and](ca) [wind](mārute)
 
 ## mukta-m0-p54-v1341
-[head](śiraḥ) [mirror](darpaṇa) [crescent-moon](khaṇḍa+induḥ) [flag](dhvajaḥ) [yellow](pītaḥ) [or](atha+vā) [green](harit)
+[head](śiro) [mirror](darpaṇa)+[fragment](khaṇḍa)+[moon](indu)+[banner](dhvajaḥ) [yellow](pītaḥ) [or](athavā) [green](harit)
 
 ## mukta-m0-p54-v1342
-[at-beginning-and-end](ādyante) [ellipse](sambikā) [by-two](dvābhyāṃ) [circle](vṛttam) [by-one](ekena) [on-sides](pārśvayoḥ)
+[beginning](ādi)+[end](ante) [junction](sambikā) [two](dvābhyāṃ) [round](vṛttam) [one](ekena) [sides](pārśvayoḥ)
 
 ## mukta-m0-p54-v1343
-[yellow](pītā) [mace](gadā) [with-red](aruṇaiḥ) [lines](rekhā) [middle-line](madhya+rekhā) [parrot-colored](śuka+prabhā)
+[yellow](pītā) [mace](gadā)+[red](aruṇai) [line](rekhā) [middle](madhya)+[line](rekhā) [parrot](śuka)+[radiance](prabhā)
 
 ## mukta-m0-p54-v1344
-[equal-to-hip-and-foot](kaṭi+kāṅghri+samā) [circular](vṛttā) [four](catasraḥ) [lines](rekhikāḥ) [likewise](tathā)
+[waist](kaṭi)+[foot](aṅghri)+[equal](samā) [round](vṛttā) [four](catasraḥ) [small-lines](rekhikāḥ)+[thus](tathā)
 
 ## mukta-m0-p54-v1345
-[of-Kubera](kuvera) [weapon](astraṃ) [should-be](bhavet) [thus](evaṃ) [situated-in-north](soma+kāṣṭhā+sthitaṃ) [always](sadā)
+[kubera](kuvera)+[weapon](astraṃ) [be](bhavet) [thus](evaṃ) [soma](soma)+[wood](kāṣṭha)+[situated](sthitaṃ) [always](sadā)
 
 ## mukta-m0-p54-v1346
-[very-white](suśvetaṃ) [endowed-with-red-rim](rakta+nemi+āḍhyam) [situated-between-northeast-and-east](īśa+indra+antara+saṃsthitam)
+[very-white](suśvetaṃ) [red](rakta)+[rim](nemi)+[rich](āḍhyam) [īśa](īśa)+[indra](indra)+[between](antarasaṃsthitam)
 
 ## mukta-m0-p54-v1347
-[from-middle-of-navel-to-end](nābhi+madhya+antataḥ) [by-part](aśena) [girdle](mekhalā) [by-rotation](bhramataḥ) [should-be](bhavet)
+[navel](nābhi)+[middle](madhya)+[end](antaḥ)+[part](aṃśena) [girdle](mekhalā) [revolving](bhramataḥ) [be](bhavet)
 
 ## mukta-m0-p54-v1348
-[likewise](tadvat) [beyond-that](tat+parataḥ) [by-part](aṃśena) [by-rotation](bhramāt) [discus](cakraṃ) [indeed](tu) [circular](vartulam)
+[thus](tadvat) [that](tat)+[beyond](parato)+[part](aṃśena) [revolving](bhramāt) [wheel](cakraṃ) [round](vartulam)
 
 ## mukta-m0-p54-v1349
-[in-eight-directions](aṣṭa+dikṣu) [spokes](ārakāḥ) [indeed](tu) [eight](aṣṭau) [or](kvacit) [or](vā) [sixteen-spoked](ṣoḍaśa+ārakāḥ)
+[eight](aṣṭa)+[directions](dikṣu) [spokes](ārakāḥ) [eight](aṣṭau) [sometimes](kkacid) [or](vā) [sixteen](ṣoḍaśa)+[spokes](ārakāḥ)
 
 ## mukta-m0-p54-v1350
-[below-discus](cakra+adhaḥ) [from-third-part-of-edge](prānta+tat+tryaṃśāt) [from-width](vivistārāt) [six-part-measure](rasa+bhāgikam)
+[wheel](cakrāt) [below](adhaḥ) [edge](prānta)+[that](tat)+[three-part](tryaṃśāt) [width](vivistārāt) [rasa](rasa)+[part](bhāgikam)
