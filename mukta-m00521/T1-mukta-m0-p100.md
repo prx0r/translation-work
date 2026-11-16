@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p100-v2476
-[bitten](daṣṭāṃ) [by-desire](kāmayā) [then](ataḥ) [he](saḥ) [called](nāma) [māhiṣika](māhiṣikaḥ) [is-remembered](smṛtaḥ)
+[bitten](daṣṭāṃ) [by-desire](kāmayā) [then](ato) [he](so) [called](nāma) [māhiṣika](rāmāhiṣikah) [is-remembered](smṛtaḥ)
 
 ## mukta-m0-p100-v2477
-[then](ateva) [half-cooked](ardhuṣikaṃ) [having-seen](dṛṣṭvā) [without-hope](nirāśāḥ) [the-travelers](pirāmāḥ) [gone-to-yellow-disease](pīta+rogatāḥ)
+[seeing](dṛṣṭvā) [a-half-teacher](atevārdhuṣikaṃ) [without-hope](nirāśāḥ) [the-travelers](pirāmāḥ) [gone-to-yellow-disease](pītarogatāḥ)
 
 ## mukta-m0-p100-v2478
-[so-long](tāvat) [unwearied](aśraṃti) [thirst](taraḥ) [as-long-as](yāvat) [eaten](bhīktaḥ) [sacrificial-offering](haviḥ) [without-quality](guṇaḥ)
+[so-long](tāvat) [without-fatigue](aśraṃti) [crossing](taro) [as-long-as](yāva) [eaten](bhīkto) [oblation](haviḥ) [without-quality](guṇaḥ)
 
 ## mukta-m0-p100-v2479
-[playing](krīḍati) [herbs](oṣadhayaḥ) [all](sarvā) [we-shall-go](yāsyāmaḥ) [to-supreme](paramāṃ) [state](gatiṃ)
+[playing](krīḍati) [herbs](oṣadhayaḥ) [all](sarvā) [we-shall-go](yāsyāmaḥ) [to-the-supreme](paramāṃ) [state](gatiṃ)
 
 ## mukta-m0-p100-v2480
-[cries](roditi) [food](annam) [burning](dīpamānaṃ) [what](kiṃ) [by-me](mayā) [evil](duṣṭataṃ) [done](kṛtaṃ)
+[cries](roditi) [food](annam) [blazing](dīpamānaṃ) [what](kiṃ) [by-me](mayā) [evil](duṣṭataṃ) [done](kṛtaṃ)
 
 ## mukta-m0-p100-v2481
-[he-causes-to-cross](satārayati) [the-giver](dātāraṃ) [ten](daśa) [ancestors](pūrvān) [ten](dṛśa) [descendants](aparān)
+[he-causes-to-cross](satārayati) [the-giver](dātāraṃ) [ten](daśa) [ancestors](pūrvān) [ten](dṛśā) [descendants](parān)
 
 ## mukta-m0-p100-v2482
-[nine](nava) [nights](rātrau) [should-dwell](vaset) [with-jāṣṭa](jāṣṭena) [should-perform](kuryāt) [vedic](vaidikāṃ) [recitation](śrutiṃ)
+[for-nine-nights](navarātrau) [should-dwell](vaset) [with-jāṣṭa](jāṣṭena) [should-perform](kuryāt) [vedic](vaidikāṃ) [recitation](śrutiṃ)
 
 ## mukta-m0-p100-v2483
-[of-suvāsinī-women](suvāsinīnām) [thus](evaṃ) [should-be](syāt) [and-not](na+athaḥ) [tonsure](ca+amuṃḍanaṃ) [should-be](bhavet)
+[of-married-women](suvāsinīnām) [thus](evaṃ) [should-be](syāt) [and-not](na+athaḥ) [tonsure](ca+amuṃḍanaṃ) [should-be](bhavet)
 
 ## mukta-m0-p100-v2484
-[of-hair](keśānāṃ) [for-protection](rakṣaṇa+arthāya) [should-give](ṣvāt) [double](dviguṇa) [fee](dakṣiṇāṃ)
+[of-hair](keśānāṃ) [for-the-sake-of-protection](rakṣaṇārthāya) [one-should-give](ṣvāt) [double](dviguṇa) [fee](dakṣiṇāṃ)
 
 ## mukta-m0-p100-v2485
-[who](yaḥ) [having-taken](gṛhītvā) [of-suvāsinī-women](vivāsinī+nām) [thus](evaṃ) [should-be](syāt) [not](na) [otherwise](anyathā) [tonsure](muṃḍanaṃ) [should-be](bhavet)
+[who](yo) [having-taken](gṛhītvā) [of-a-married-woman](vivāsinī) [thus](nāmevaṃ) [should-be](syāt) [not](na) [otherwise](anyathā) [tonsure](muṃḍanaṃ) [should-be](bhavet)
 
 ## mukta-m0-p100-v2486
-[of-hair](keśānāṃ) [for-protection](rakṣaṇa+arthāya) [should-give](dadyāt) [double](dviguṇa) [fee](dakṣiṇāṃ)
+[of-hair](keśānāṃ) [for-the-sake-of-protection](rakṣaṇārthāya) [one-should-give](dadyāt) [double](dviguṇa) [fee](dakṣiṇāṃ)
 
 ## mukta-m0-p100-v2487
-[of-another's-food](annatasya) [not](na) [to-be-eaten](bhoktavyaṃ) [for-what-purpose](kṛthāya) [who](kaḥ) [indeed](hi) [is-remembered](saṃsmṛtaḥ)
+[of-one-who-has-not-eaten](annatasya) [not](na) [to-be-eaten](bhoktavyaṃ) [for-what-purpose](kṛthāyā) [who](ko) [indeed](hi) [is-remembered](saṃsmṛtaḥ)
 
 ## mukta-m0-p100-v2488
-[superseder](parivetā) [he](saḥ) [to-be-known](vijñeyaḥ) [and-superseded](ṣarivitī) [and](ca) [by-the-former](pūryataḥ)
+[one-who-marries-before-elder-brother](parivetā) [he](sa) [to-be-known](vijñeyaḥ) [and](ca) [one-whose-elder-brother-is-unmarried](ṣarivitī) [by-the-city](pūryataḥ)
 
 ## mukta-m0-p100-v2489
-[in-distress](pīṭhe) [dwelling-in-another-land](deśāṃtara+sthe) [and](ca) [in-hymn](sūke) [engaged-in-vow](pravratitaṃ) [inert](jaḍe)
+[in-a-seat](pīṭhe) [in-another-place](deśāṃtarasthe) [and](ca) [in-a-hymn](sūke) [gone-forth](pravratitaṃ) [inert](jaḍe)
 
 ## mukta-m0-p100-v2490
-[vedic](veda) [syllables](akṣarāṇi) [as-many-as](yāvaṃti) [one-should-employ](niyuṃjyāt) [for-meaning](artha) [for-reason](kāraṇāt)
+[of-the-Veda](veda) [syllables](akṣarāṇi) [as-many-as](yāvaṃti) [one-should-employ](niyuṃjyāt) [for-the-sake-of-meaning](artha+kāraṇāt)
 
 ## mukta-m0-p100-v2491
-[who](yaḥ) [having-been-well-vowed](su+vrātitaḥ) [having-become](bhūtvā) [having-served](sevagta) [sexual-union](maithuna) [again](punaḥ)
+[who](yaḥ) [having-been](bhūtvā) [well-vowed](su+vrātito) [having-gone](sevagtema) [sexual-intercourse](maithuna) [again](punaḥ)
 
 ## mukta-m0-p100-v2492
-[with-hero](śūra) [close-contact](saṃsaṃparkaṃ) [with-śūdra](śūdreṇa) [sitting-together](saha+āsanaṃ)
+[with-a-hero](śūra) [close-contact](saṃsaṃparkaṃ) [with-a-śūdra](śūdreṇa) [sitting-together](saha+āsanaṃ)
 
 ## mukta-m0-p100-v2493
-[from-śūdra](śūdrāt) [having-taken](āhṛtya) [without-payment](nirvāyaṃ) [who](ye) [go](yati) [by-unwise](avudhāt) [twice-born](dvijāḥ)
+[from-a-śūdra](śūdrāt) [having-taken](āhṛtya) [without-payment](nirvāyaṃ) [who](ye) [go](yati) [by-the-unwise](avudhāt) [twice-born](dvijāḥ)
 
 ## mukta-m0-p100-v2494
-[given-by-hand](hasta+datā) [sesame-and-salt](tila+lavaṇa) [and-so-forth](vyaṃ+janādīni) [continually](saṃtataṃ)
+[given-by-hand](hasta+datā) [sesame-and-salt](tila+lavaṇavyaṃ) [people-and-others](jana+ādīni) [continually](saṃtataṃ)
 
 ## mukta-m0-p100-v2495
-[in-mouth](āsase) [not](na+eva) [by-vessel](pātreṇa) [which](yat) [food](annam) [is-offered](upadīyate)
+[in-the-mouth](āsase) [not](na+eva) [by-a-vessel](pātreṇa) [which](yat) [food](annam) [is-offered](upadīyate)
 
 ## mukta-m0-p100-v2496
-[given-by-finger](aṃgulyā+data) [and-condiments](kāvyaṃ) [visible](pralakṣa) [salt](lavaṇaṃ) [and](ca) [which](yat)
+[given-by-finger](aṃgulyā+datakāvyaṃ) [and](ca) [which](yat) [scattered-salt](pralakṣa+lavaṇaṃ)
 
 ## mukta-m0-p100-v2497
-[in-front](agrataḥ) [should-dwell](nivaset) [happily](sūkhaḥ) [with-joy](hṛraiḥ) [and](ca) [endowed-with-qualities](guṇa+anvitaḥ)
+[in-front](agrato) [one-should-dwell](nivaset) [happily](sūkho) [with-delight](hṛraiḥ) [and](ca) [endowed-with-qualities](guṇa+anvitaḥ)
 
 ## mukta-m0-p100-v2498
-[than-brāhmaṇa](brāhmaṇāt) [superiority](kramaḥ) [not](na+asti) [in-brāhmaṇa](vipre) [devoid-of-veda](veda+vivarjita)
+[among-brāhmaṇas](brāhmaṇāti) [order](kramo) [there-is-not](na+asti) [in-a-brāhmaṇa](vipre) [devoid-of-Veda](veda+vivarjita)
 
 ## mukta-m0-p100-v2499
-[nearby](sānnikṛṣṭam) [studying](adhīyātaṃ) [brāhmaṇa](brāhmaṇaṃ) [who](yaḥ) [would-transgress](vyatikrāmeta)
+[one-who-is-near](sānnikṛṣṭam) [studying](adhīyātaṃ) [brāhmaṇa](brāhmaṇaṃ) [who](yo) [would-transgress](vyatikrāmeta)
 
 ## mukta-m0-p100-v2500
-[cow-protectors](go+rakṣakān) [traders](vāṇitakāt) [and-likewise](tathā) [those-of-wanton-conduct](kāma+kuśīlakān)
+[cowherds](gorakṣakān) [traders](vāṇitakāt) [and-likewise](tathā) [those-of-wanton-conduct](kāma+kuśīlakān)
