@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p32-v776
-īśāna-ādi(īśānādi) and(ca) sadya-antaṃ(sadyāntaṃ) tri-puṇḍraṃ(tripuṇḍraṃ) should-place(vinyaset) in-order(kramāt)
+īśāna+ādi(īśānādi) ca(ca) sadya+antam(sadyāntaṃ) tri+puṇḍram(tripuṇḍraṃ) vinyaset(vinyaset) kramāt(kramāt)
 
 ## mukta-m0-p32-v777
-at-its-end(tadante) mirror(darpaṇaṃ) should-give(dadyāt) śakti-mantraṃ(śaktimantraṃ) reciting(samuccaran)
+tat+ante(tadante) darpaṇam(darpaṇaṃ) dadyāt(dadyāt) śakti+mantram(śaktimantraṃ) samuccaran(samuccaran)
 
 ## mukta-m0-p32-v778
-then(tataḥ) umbrella(chatraṃ) chowrie(cāmaraṃ) and(ca) with-heart-mantra(hṛdayena) should-offer(pradāpayet)
+tataḥ(tataś) chatram(chatraṃ) cāmaram(cāmaraṃ) ca(ca) hṛdayena(hṛdayena) pradāpayet(pradāpayet)
 
 ## mukta-m0-p32-v779
-flower-offering(puṣpāñjaliṃ) should-give(dadet) afterwards(paścāt) with-salutation-named-gesture(namaskārākhyamudrayā)
+puṣpa+añjalim(puṣpāñjaliṃ) dadet(dadet) paścāt(paścāt) namaskāra+ākhya+mudrayā(namaskārākhyamudrayā)
 
 ## mukta-m0-p32-v780
-flame-vessels(jvālāpātrāṇi) with-head-mantra(śirasā) with-both-hands(hastābhyāṃ) and(ca) should-present(nivedayet)
+jvālā+pātrāṇi(jvālāpātrāṇi) śirasā(śirasā) hastābhyām(hastābhyāṃ) ca(ca) nivedayet(nivedayet)
 
 ## mukta-m0-p32-v781
-in-gold-pot-situated-water(hemakumbhasthitajale) lamp(dīpaṃ) in-east(pūrve) indeed(tu) should-place(nikṣipet)
+hema+kumbha+sthita+jale(hemakumbhasthitajale) dīpam(dīpaṃ) pūrve(pūrve) tu(tu) nikṣipet(nikṣipet)
 
 ## mukta-m0-p32-v782
-flower-offering(puṣpāñjaliṃ) then(tataḥ) having-done(kṛtvā) japa-characteristic(japalakṣaṇam) is-stated(ucyate)
+puṣpa+añjalim(puṣpāñjaliṃ) tataḥ(tataḥ) kṛtvā(kṛtvā) japa+lakṣaṇam(japalakṣaṇam) ucyate(ucyate)
 
 ## mukta-m0-p32-v783
-mental(mānasaṃ) and(ca) indeed(eva) throat-lip(kaṇṭhoṣṭh) whispered(upāṃśuṃ) audible(vyaktam) indeed(eva) and(ca)
+mānasam(mānasaṃ) ca(ca) eva(eva) kaṇṭha+oṣṭha+upāṃśum(kaṇṭhoṣṭhmupāṃśuṃ) vyaktam(vyaktam) eva(eva) ca(ca)
 
 ## mukta-m0-p32-v784
-at-dawn(prātar) having-worshipped-thus(tathābhyarcya) at-midday(madhyāhne) and(ca) should-offer(nivedayet)
+prātaḥ+uṣasi(prātarusāgye) tathā(tathā) abhyarcya(abhyarcya) madhyāhne(madhyāhne) ca(ca) nivedayet(nivedayet)
 
 ## mukta-m0-p32-v785
-one-lamp(ekadīpaṃ) at-two-times(dvikāle) and(ca) at-night(rātrau) two-lamps(dīpadvayaṃ) should-be(bhavet)
+eka+dīpam(ekadīpaṃ) dvi+kāle(dvikāle) ca(ca) rātrau(rātrau) dīpa+dvayam(dīpadvayaṃ) bhavet(bhavet)
 
 ## mukta-m0-p32-v786
-in-evening(sāye) having-worshipped-until-end(cāsyāṃtamabhyarcya) lamp(dīpaṃ) and(ca) double(dviguṇaṃ) should-be(bhavet)
+sāye(sāye) ca(ca) asya+antam(cāsyāṃtam) abhyarcya(abhyarcya) dīpam(dīpaṃ) ca(ca) dvi+guṇam(dviguṇaṃ) bhavet(bhavet)
 
 ## mukta-m0-p32-v787
-lamp(dīpaṃ) and(ca) indeed(eva) four-declared(catuḥproktāḥ) in-evening(sāye) indeed(tu) double(dviguṇaṃ) should-be(bhavet)
+dīpam(dīpaṃ) ca(ca) eva(eva) catuḥ(catuḥ) proktāḥ(proktās) sāye(sāye) tu(tu) dvi+guṇam(dviguṇaṃ) bhavet(bhavet)
 
 ## mukta-m0-p32-v788
-two-prasthas(prasthadvayaṃ) at-two-times(dvikāle) and(ca) lamps(dīpaṃ) twenty(viṃśatikaṃ) should-be(bhavet)
+prastha+dvayam(prasthadvayaṃ) dvi+kāle(dvikāle) ca(ca) dīpam(dīpaṃ) viṃśatikam(viṃśatikaṃ) bhavet(bhavet)
 
 ## mukta-m0-p32-v789
-at-three-times(trikālaṃ) with-offering-to-liṅga(baliliṅgena) gift-of-offering(balidānaṃ) should-conduct(nayet) wise-one(budhāḥ)
+tri+kālam(trikālaṃ) bali+liṅgena(baliliṅgena) bali+dānam(balidānaṃ) nayet(nayet) budhāḥ(budhāḥ)
 
 ## mukta-m0-p32-v790
-at-midnight(ardhayāme) half-of-that(tadardhaṃ) and(ca) twenty-four-lamps(caturviṃśatidīpakam)
+ardha+yāme(ardhayāme) tat+ardham(tadardhaṃ) ca(ca) catur+viṃśati+dīpakam(caturviṃśatidīpakam)
 
 ## mukta-m0-p32-v791
-at-three-times(trikāle) accompanied-by-offering(valisaṃyuktaṃ) with-flowers-food-unbroken-rice(puṣpānnākṣata) indeed(vai) in-order(kramāt)
+tri+kāle(trikāle) vali+saṃyuktam(valisaṃyuktaṃ) puṣpa+anna+akṣataiḥ(puṣpānnākṣata) vai(vai) kramāt(kramāt)
 
 ## mukta-m0-p32-v792
-at-midday(madhyāhne) of-daily-fire-offering(nityahomasya) with-incense-lamp(dhūpadīpa) accompanied(samanvitam)
+madhyāhne(madhyāhne) nitya+homasya(nityahomasyāt) dhūpa+dīpa(dhūpadīpa) samanvitam(samanvitam)
 
 ## mukta-m0-p32-v793
-at-three-times(trikālam) and(ca) food-offering(nivedyaṃ) and(ca) fifth-part(pañcāṃśaṃ) with-lamp(dīpasaṃyutam)
+tri+kālam(trikālañ) ca(ca) nivedyam(nivedyaṃ) ca(ca) pañca+aṃśam(pañcāṃśaṃ) dīpa+saṃyutam(dīpasaṃyutam)
 
 ## mukta-m0-p32-v794
-from-best-to-lowest(uttamādadhamaṃ) there(tatra) at-three-times(trikālam) one-droṇa(droṇam) should-bring(āharet)
+uttama+āt+adhamam(uttamādadhamaṃ) tatra(tatra) tri+kālam(trikālan) droṇam(droṇam) āharet(āharet)
 
 ## mukta-m0-p32-v795
-at-three-times(trikālam) food-liṅga(annaliṅgaṃ) should-be(syāt) at-three-times(trikālaṃ) with-fire-offering(homasaṃyutam)
+tri+kālam(trikālam) anna+liṅgam(annaliṅgaṃ) syāt(syāt) tri+kālam(trikālaṃ) homa+saṃyutam(homasaṃyutam)
 
 ## mukta-m0-p32-v796
-eight-more-than-thousand(aṣṭottarasahasraṃ) or(vā) hundred(śataṃ) or(vā) Rudra-maidens(rudrakanyakāḥ)
+aṣṭa+uttara+sahasram(aṣṭottarasahasraṃ) vā(vā) śatam(śataṃ) vā(vā) rudra+kanyakāḥ(rudrakanyakāḥ)
 
 ## mukta-m0-p32-v797
-middle(madhyamā) middle(madhyamaṃ) there(tatra) at-three-times(trikāle) indeed(tu) four-oblations(caturhaviḥ)
+madhyamā(madhyamā) madhyamam(madhyamaṃ) tatra(tatra) tri+kāle(trikāle) tu(tu) catur+haviḥ(caturhaviḥ)
 
 ## mukta-m0-p32-v798
-with-droṇa(droṇena) pure-rice(śuddhamannaṃ) and(ca) having-cooked(pacitvā) indeed(tu) separately(pṛthak) separately(pṛthak)
+droṇena(droṇena) śuddham(śuddham) annam(annaṃ) ca(ca) pacitvā(pacitvā) tu(tu) pṛthak(pṛthak) pṛthak(pṛthak)
 
 ## mukta-m0-p32-v799
-at-three-times(trikāle) offering-and-fire-oblation(balihomaṃ) should-be(syāt) cold-enemy(śītārī) incense(dhūpam) should-prescribe(ādiśet)
+tri+kāle(trikāle) bali+homam(balihomaṃ) syāt(syāt) śīta+arī(śītārī) dhūpam(dhūpam) ādiśet(ādiśet)
 
 ## mukta-m0-p32-v800
-with-courtesans-eight-hundred(gaṇikāṣṭa-śatopetaṃ) with-hymn-sound(stotra-dhvanisamākulam)
+gaṇikā+aṣṭa+śata+upetam(gaṇikāṣṭa śatopetaṃ) stotra+dhvani+samākulam(stotra dhvanisamākulam)
