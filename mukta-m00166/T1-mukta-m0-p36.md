@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p36-v876
-[faith](śraddhā) [devotion](śraddhā) [reverence](śraddhā) [trust](śraddhā)
+[faith](śraddhā) [reverence](śraddhā) [devotion](śraddhā) [trust](śraddhā)
 
 ## mukta-m0-p36-v877
-[that](tat) [abode](dhāma) [to-awaken](saṃbodhayitum) [capable](samarthā) [faith](śraddhā) [always](sadā) [she](sā) [mine-giving](mama+dā) [to-me](mama) [may-be](astu)
+[that-abode](tat+dhāma) [to-awaken](saṃbodhayitum) [capable](samarthā) [faith](śraddhā) [always](sadā) [she](sā) [joy-giving](mama+dā) [to-me](mama) [may-be](astu)
 
 ## mukta-m0-p36-v878
-[page-129](p.+129) [good](sat) [path](gatiḥ) [good-destination](sadgatiḥ)
+[page-129](p.+129)) [good-destination](sat+gatiḥ) [good-path](sat+gatiḥ) [liberation](sat+gatiḥ)
 
 ## mukta-m0-p36-v879
-[the-good](santaḥ) [worshipping](bhajantaḥ) [you](bhavatīm) [virtuous-one](satīm) [because](yat) [you-are-praised](saṃkīrtyase) [good-destination](sat+gatiḥ) [thus](iti) [therefore](atas) [you](tvam)
+[the-good](santaḥ) [worshipping](bhajantaḥ) [you](bhavatīm) [virtuous-one](satīm) [because](yat) [you-are-praised](saṃkīrtyase) [as-good-destination](sat+gatiḥ+iti) [therefore](atas) [you](tvam)
 
 ## mukta-m0-p36-v880
-[devoted-to-the-good](sat+parāyaṇā) [supreme-refuge](sat+parāyaṇā) [dedicated-to-truth](sat+parāyaṇā) [highest-goal](sat+parāyaṇā)
+[devoted-to-the-good](sat+parāyaṇā) [supreme-refuge](sat+parāyaṇā) [devoted-to-truth](sat+parāyaṇā) [highest-goal](sat+parāyaṇā)
 
 ## mukta-m0-p36-v881
-[not](na) [indeed](tu) [ever](jātu) [always](sadā) [your-nature](tvat+ātmakā) [because](yat) [sung](parigītā) [indeed](hi) [you-are](asi) [devoted-to-the-good](sat+parāyaṇāt)
+[not](na) [indeed](tu) [ever](jātu) [always](sadā) [your-nature](tvad+ātmakā) [because](yat) [sung](parigītā) [indeed](hi) [you-are](asi) [as-devoted-to-the-good](sat+parāyaṇātaḥ)
 
 ## mukta-m0-p36-v882
 [river](sindhuḥ) [ocean](sindhuḥ) [stream](sindhuḥ) [flood](sindhuḥ)
 
 ## mukta-m0-p36-v883
-[river](sindhuḥ) [destroyer](kanduḥ) [of-evil-deed](duṣkṛta) [fuel-masses](edhas+su) [may-be](bhūyāt)
+[the-river](sindhuḥ) [destroyer](kanduḥ) [of-evil-deed-fuel](duṣkṛta+edhas+su) [may-be](bhūyāt)
 
 ## mukta-m0-p36-v884
 [celestial-river](mandākinī) [Ganges-of-heaven](mandākinī) [Mandakini](mandākinī) [divine-stream](mandākinī)
 
 ## mukta-m0-p36-v885
-[she](sā) [by-gods](vṛndāraka) [worshipped](vanditā) [may-remove](haratu) [our](naḥ) [Mandakini](mandākinī) [dullness](mandatām)
+[she](sā) [worshipped-by-gods](vṛndāraka+vanditā) [may-remove](haratu) [of-us](naḥ) [Mandakini](mandākinī) [dullness](mandatām)
 
 ## mukta-m0-p36-v886
-[Ganges](gaṅgā) [river-Ganga](gaṅgā) [sacred-stream](gaṅgā) [divine-river](gaṅgā)
+[Ganges](gaṅgā) [river-Ganga](gaṅgā) [sacred-stream](gaṅgā) [Ganga](gaṅgā)
 
 ## mukta-m0-p36-v887
-[she](sā) [Ganges](gaṅgā) [also](api) [makes](karoti) [wonder](citram) [pure](amalam) [above-all](sarva+uparistham) [person](janam)
+[she](sā) [Ganges](gaṅgā) [also](api) [makes](karoti) [wonder](citram) [spotless](amalam) [highest-standing](sarva+uparistham) [person](janam)
 
 ## mukta-m0-p36-v888
-[Yamuna](yamunā) [river-Yamuna](yamunā) [sacred-stream](yamunā) [divine-river](yamunā)
+[Yamuna](yamunā) [river-Yamuna](yamunā) [sacred-river](yamunā) [Yamuna](yamunā)
 
 ## mukta-m0-p36-v889
-[pride](maya) [subduing](damanī) [Yamuna](yamunā) [deathlessness](yama+tva) [giving](dā) [may-be](astu)
+[pride-subduing](maya+damanī) [Yamuna](yamunā) [having-Yama's-nature](yama+tva+dā) [may-be](astu)
 
 ## mukta-m0-p36-v890
-[Sarasvati](sarasvatī) [goddess-of-speech](sarasvatī) [sacred-river](sarasvatī) [divine-stream](sarasvatī)
+[Sarasvati](sarasvatī) [goddess-of-speech](sarasvatī) [sacred-river](sarasvatī) [Sarasvati](sarasvatī)
 
 ## mukta-m0-p36-v891
-[waterless](nīra+bhūḥ) [even](api) [she](sā) [enjoyment](bhoga) [essence](rasa) [giving](dā) [may-be](astu) [Sarasvati](sarasvatī)
+[without-water](nīra+bhūr) [even](api) [she](sā) [enjoyment-essence-giving](bhoga+rasa+dā) [may-be](astu) [Sarasvati](sarasvatī)
 
 ## mukta-m0-p36-v892
-[Godavari](godāvarī) [river-Godavari](godāvarī) [sacred-stream](godāvarī) [divine-river](godāvarī)
+[Godavari](godāvarī) [river-Godavari](godāvarī) [sacred-river](godāvarī) [Godavari](godāvarī)
 
 ## mukta-m0-p36-v893
-[Godavari](godāvarī) [dullness](jaḍatvam) [our](naḥ) [with-knowledge](bodha) [rays](gobhiḥ) [may-drive-away](vyapohatām)
+[Godavari](godāvarī) [dullness](jaḍatvam) [of-us](naḥ) [with-knowledge-rays](bodha+gobhiḥ) [may-remove](vyapohatām)
 
 ## mukta-m0-p36-v894
-[Vipasha](vipāśā) [unfettered-river](vipāśā) [Beas-river](vipāśā) [bondless-stream](vipāśā)
+[Vipasha](vipāśā) [unfettered-river](vipāśā) [river-Vipasha](vipāśā) [Vipasha](vipāśā)
 
 ## mukta-m0-p36-v895
-[because](yatas) [therefore](tatas) [from-that](tataḥ) [flood](odaughā) [Vipasha](vipāśā) [thus](iti) [celebrated](prakīrtitā)
+[because](yatas) [therefore](tatas) [flow-of-that](tata+udaughā) [as-Vipasha](vipāśā+iti) [proclaimed](prakīrtitā)
 
 ## mukta-m0-p36-v896
-[Kaveri](kāverī) [river-Kaveri](kāverī) [sacred-stream](kāverī) [divine-river](kāverī)
+[Kaveri](kāverī) [river-Kaveri](kāverī) [sacred-river](kāverī) [Kaveri](kāverī)
 
 ## mukta-m0-p36-v897
-[Kaveri](kāverī) [of-rivers](nimnayānām) [by-momentary](kṣaṇa) [destruction](hati) [power](vibhavāt) [to-lowly](nimna) [joy](harṣa) [bringing](upayānāt)
+[Kaveri](kāverī) [of-rivers](nimnayānām) [by-power-of-instant-destruction](kṣaṇa+hati+vibhavāt) [from-attaining-joy-in-the-lowly](nimna+harṣa+upayānāt)
 
 ## mukta-m0-p36-v898
-[Shatadru](śatadrukā) [hundred-channeled](śatadrukā) [Sutlej-river](śatadrukā) [sacred-stream](śatadrukā)
+[Shatadruka](śatadrukā) [river-Sutlej](śatadrukā) [hundred-channeled](śatadrukā) [Shatadruka](śatadrukā)
 
 ## mukta-m0-p36-v899
-[by-hundred](śata) [good-ones](sadbhiḥ) [how](katham) [sung](gītā) [she](sā) [goddess](devī) [here](iha) [Shatadru](śatadrukā)
+[by-hundred-good-ones](śata+sadbhiḥ) [how](katham) [sung](gītā) [she](sā) [goddess](devī) [here](iha) [Shatadruka](śatadrukā)
 
 ## mukta-m0-p36-v900
-[Sarayu](sarayūḥ) [river-Sarayu](sarayūḥ) [sacred-stream](sarayūḥ) [divine-river](sarayūḥ)
+[Sarayu](sarayūḥ) [river-Sarayu](sarayūḥ) [sacred-river](sarayūḥ) [Sarayu](sarayūḥ)
