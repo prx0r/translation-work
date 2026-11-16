@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p17-v401
-[ādiśaiva+kule](ādiśaivakule) [jātassa](jātassa) [tu](tu) [vaidika](vaidika) [ucyate](ucyate)
+[in-ādiśaiva+family](ādiśaivakule) [born+he](jātassa) [but](tu) [vaidika](vaidikaḥ) [is-called](ucyate)
 
 ## mukta-m0-p17-v402
-[dīkṣitasya](dīkṣitasya) [kule](kule) [jātassa](jātassa) [sarva+āgama+viśāradaḥ](sarvāgamaviśāradaḥ)
+[of-the-initiated](dīkṣitasya) [in-family](kule) [born](jātaḥ) [all+āgama+versed](sarvāgamaviśāradaḥ)
 
 ## mukta-m0-p17-v403
-[sarva+āyava+saṃpūrṇaḥ](sarvāyavasaṃpūrṇaḥ) [sarva+lakṣaṇa+saṃyutaḥ](sarvalakṣaṇasaṃyutaḥ)
+[all+limbs+complete](sarvāyavasaṃpūrṇaḥ) [all+marks+endowed](sarvalakṣaṇasaṃyutaḥ)
 
 ## mukta-m0-p17-v404
-[kriyādi](kriyādi) [jñāna+paryanta](jñānaparyantatantrajñāna) [tantra+jñāna](jñānaparyantatantrajñāna) [viśāradaḥ](viśāradaḥ)
+[kriyā+beginning](kriyādi) [jñāna+ending](jñānaparyanta) [tantra+knowledge+versed](tantrajñāna) [versed](viśāradaḥ)
 
 ## mukta-m0-p17-v405
-[sanābhiḥ](sanābhiḥ) [kunakho](kunakho) [bālo](bālo) [vṛddhaḥ](vṛddhastathaiva) [tathā+eva+ca](vṛddhastathaiva)
+[with-kinsmen](sanābhiḥ) [having-bad-nails](kunakho) [*](*) [*](*) [young](bālo) [old](vṛddhaḥ) [likewise](tathaiva) [and](ca)
 
 ## mukta-m0-p17-v406
-[ati+dīrghaḥ](atidīrgho) [ati+hṛsvaḥ](atihṛsvaśca) [ca](atihṛsvaśca) [ati+sthūlaḥ](atisthūlaḥ) [kṛśaḥ](kṛśastathā) [tathā](kṛśastathā)
+[very-tall](atidīrgho) [very-short](atihṛsvaḥ) [and](ca) [very-stout](atisthūlaḥ) [thin](kṛśaḥ) [likewise](tathā)
 
 ## mukta-m0-p17-v407
-[nagna+prabhā](nagnaprabhā) [tathā](tathā) [kṣība](kṣībaśmaśruromādivarjitaḥ) [śmaśru+roma+ādi+varjitaḥ](kṣībaśmaśruromādivarjitaḥ)
+[naked+appearance](nagnaprabhā) [likewise](tathā) [intoxicated](kṣībaḥ) [beard+hair+etc.+devoid](śmaśruromādivarjitaḥ)
 
 ## mukta-m0-p17-v408
-[anabadyāḥ](anabadyāśca) [ca](anabadyāśca) [viprendra](viprendra) [gaṇakāḥ](gaṇakāśca) [ca](gaṇakāśca) [tathā+eva+ca](tathaiva)
+[not-blameless](anabadyāḥ) [and](ca) [o-best-of-brahmins](viprendra) [astrologers](gaṇakāḥ) [and](ca) [likewise](tathaiva)
 
 ## mukta-m0-p17-v409
-[vyasanāḥ](vyasanāḥ) [krūra+karmāṇaḥ](krūrakarmāṇaḥ) [pāra+dārika](pāradārika) [corakāḥ](corakāḥ)
+[addicted-to-vices](vyasanāḥ) [cruel+deeds](krūrakarmāṇaḥ) [adulterers](pāradārikaḥ) [thieves](corakāḥ)
 
 ## mukta-m0-p17-v410
-[kuṣṭhinaḥ](kuṣṭhinaścakṣuhīnāśca) [cakṣu+hīnāḥ](kuṣṭhinaścakṣuhīnāśca) [ca](kuṣṭhinaścakṣuhīnāśca) [badhirāḥ](badhirāḥ) [śruti+dūṣakāḥ](śrutidūṣakāḥ)
+[lepers](kuṣṭhinaḥ) [eye+deprived](cakṣuhīnāḥ) [and](ca) [deaf](badhirāḥ) [ear+impaired](śrutidūṣakāḥ)
 
 ## mukta-m0-p17-v411
-[rāja+rāṣṭra+api](rājarāṣṭrāpi) [naśyanti](naśyanti) [tasmin+deśe](tasmindeśe) [na](na) [varṣati](varṣati)
+[king+kingdom](rājarāṣṭrā) [even](api) [perish](naśyanti) [in-that+country](tasmindeśe) [not](na) [it-rains](varṣati)
 
 ## mukta-m0-p17-v412
-[ādiśaivena](ādiśaivena) [kartavyaṃ](kartavyaṃ) [pratiṣṭhā+ādi+arcana+antakam](pratiṣṭhādyarcanāntakam)
+[by-ādiśaiva](ādiśaivena) [to-be-done](kartavyaṃ) [consecration+beginning+worship+ending](pratiṣṭhādyarcanāntakam)
 
 ## mukta-m0-p17-v413
-[sa](sa) [gotreṇa](gotreṇa) [tu](tu) [sambandhaṃ](sambandhaṃ) [na](na) [kartavyaṃ](kartavyaṃ) [kadācana](kadācana)
+[he](saḥ) [with-lineage](gotreṇa) [but](tu) [connection](sambandhaṃ) [not](na) [to-be-done](kartavyaṃ) [ever](kadācana)
 
 ## mukta-m0-p17-v414
-[eṣām](eṣām) [ṛṣīṇāṃ](ṛṣīṇāṃ) [viprendra](viprendra) [jātānāṃ](jātānāṃ) [ca](ca) [punaḥ](punaḥ) [punaḥ](punaḥ)
+[of-these+sages](eṣāmṛṣīṇāṃ) [o-best-of-brahmins](viprendra) [of-those-born](jātānāṃ) [and](ca) [again+again](punaḥ) [again](punaḥ)
 
 ## mukta-m0-p17-v415
-[upanayana](upanayana) [kālānte](kālānte) [maṇḍale](maṇḍale) [pūjayet](pūjayecchivam) [śivam](pūjayecchivam)
+[initiation+time+end](upanayana) [at-end-of-time](kālānte) [in-maṇḍala](maṇḍale) [one-should-worship+śiva](pūjayecchivam)
 
 ## mukta-m0-p17-v416
-[sthira+liṃgaṃ](sthiraliṃgaṃ) [tu](tu) [śūdrāṇāṃ](śūdrāṇāṃ) [spṛśyate](spṛśyate) [tu](tu) [abhicārataḥ](abhicārataḥ)
+[fixed+liṅga](sthiraliṃgaṃ) [but](tu) [of-śūdras](śūdrāṇāṃ) [is-touched](spṛśyate) [but+by-sorcery](tvabhicārataḥ)
 
 ## mukta-m0-p17-v417
-[ātmārthaṃ](ātmārthaṃ) [pūjayet](pūjayennityaṃ) [nityaṃ](pūjayennityaṃ) [sarveṣāṃ](sarveṣāṃ) [jātiḥ](jātireva) [eva](jātireva) [ca](ca)
+[for-oneself+purpose](ātmārthaṃ) [one-should-worship+daily](pūjayennityaṃ) [of-all](sarveṣāṃ) [birth+indeed](jātireva) [and](ca)
 
 ## mukta-m0-p17-v418
-[ācārya+hastayoḥ](ācāryahastayordadyācchiva) [dadyāt](ācāryahastayordadyācchiva) [śiva+lokam](śivalokamavāpnuyāt) [avāpnuyāt](śivalokamavāpnuyāt)
+[in-teacher+hands](ācāryahastayoḥ) [one-should-give](dadyāt) [śiva+world](śiva) [one-obtains](lokamavāpnuyāt)
 
 ## mukta-m0-p17-v419
-[śiva+dvijānāṃ](śivadvijānāṃ) [sarveṣāṃ](sarveṣāṃ) [na](na) [doṣāya](doṣāya) [prakalpayet](prakalpayet)
+[of-śiva+twice-born](śivadvijānāṃ) [of-all](sarveṣāṃ) [not](na) [for-fault](doṣāya) [one-should-consider](prakalpayet)
 
 ## mukta-m0-p17-v420
-[ācārya+hastayoḥ](ācāryahastayordadyācchiva) [dadyāt](ācāryahastayordadyācchiva) [śiva+lokam](śivalokamavāpnuyāt) [avāpnuyāt](śivalokamavāpnuyāt)
+[in-teacher+hands](ācāryahastayoḥ) [one-should-give](dadyāt) [śiva+world](śiva) [one-obtains](lokamavāpnuyāt)
 
 ## mukta-m0-p17-v421
-[patitaṃ](patitaṃ) [ca](ca) [anu+cāṇḍāla](anucāṇḍāla) [dhūpa+deśe+vikaṃ](dhūpadeśevikaṃ) [śivim](śivim)
+[fallen](patitaṃ) [and+outcaste](cānucāṇḍāla) [in-incense+place](dhūpadeśe) [seller](vikaṃ) [auspicious](śivim)
 
 ## mukta-m0-p17-v422
-[grāma+kukkuṭam](grāmakukkuṭamevaṃ) [evaṃ](grāmakukkuṭamevaṃ) [tu](tu) [saṃspṛṣṭvā](saṃspṛṣṭvāgniṃ) [agniṃ](saṃspṛṣṭvāgniṃ) [tathā+eva+ca](tathaiva)
+[village+cock](grāmakukkuṭam) [thus](evaṃ) [but](tu) [having-touched](saṃspṛṣṭvā) [fire](agniṃ) [likewise](tathaiva) [and](ca)
 
 ## mukta-m0-p17-v423
-[snānaṃ](snānaṃ) [kṛtvā](kṛtvā) [tu](tu) [viprenda](viprenda) [sa](sa) [prāsādena](prāsādena) [saṃyutam](saṃyutam)
+[bath](snānaṃ) [having-done](kṛtvā) [but](tu) [o-best-of-brahmins](viprendra) [he](saḥ) [with-prāsāda-mantra](prāsādena) [endowed](saṃyutam)
 
 ## mukta-m0-p17-v424
-[prayaṃ](prayaṃ) [prātaḥ](prātastrayaṃ) [trayaṃ](prātastrayaṃ) [sāyaṃ](sāyaṃ) [madya+ādi+ācitam](madyādayācitam)
+[three-times](prayaṃ) [in-morning](prātaḥ) [three-times](trayaṃ) [in-evening](sāyaṃ) [*](*) [*](*) [liquor+etc.+begged](madyādayācitam)
 
 ## mukta-m0-p17-v425
-[ṣoḍaśānāṃ](ṣoḍaśānāṃ) [kriyāṇāṃ](kriyāṇāṃ) [ca](ca) [pūrvam](pūrvamevācarettathā) [eva](pūrvamevācarettathā) [ācaret](pūrvamevācarettathā) [tathā](pūrvamevācarettathā)
+[of-sixteen](ṣoḍaśānāṃ) [of-rites](kriyāṇāṃ) [and](ca) [before+indeed](pūrvameva) [one-should-perform](ācaret) [likewise](tathā)
