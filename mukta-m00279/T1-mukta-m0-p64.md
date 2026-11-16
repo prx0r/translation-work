@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p64-v1576
-[meditation-worthy](dhyeyam)+[and](ca) [various](vividham) [which](yat) [that](tad) [knowledge](vidyā)+[limbs](aṅgaiḥ)+[purify](śodhayet) [in-order](kramāt)
+[to-be-meditated](dhyeyañ) [and](ca) [various](vividhaṃ) [which](yat) [that](tat) [by-branches-of-knowledge](vidyā+āṅgaiḥ) [one-should-purify](śodhayet) [in-order](kramāt)
 
 ## mukta-m0-p64-v1577
-[garbhādhāna](garbhādhānam) [puṃsavana](puṃsavanam) [sīmanta](sīmantam) [jātakarma](jātakarmaṇi)
+[garbhādhāna](garbhādhānaṃ) [puṃsavana](puṃsavanaṃ) [sīmanta](sīmantaṃ) [in-jātakarman](jātakarmaṇi)
 
 ## mukta-m0-p64-v1578
-[tuft-ceremony](cūḍa)+[upanayana](upanayanam)+[and](ca)+[indeed](eva) [vow-binding](vṛtabandham) [thus](tathā)+[indeed](eva)+[and](ca)
+[cūḍā](cūḍā) [and-upanayana](upanayanañ) [and](ca) [and](eva) [vow-bond](vṛta+bandhaṃ) [likewise](tathā) [and](eva) [and](ca)
 
 ## mukta-m0-p64-v1579
-[?](?) [fire-worship](magnirupāsanam)+[and](ca) [vows](vratāni) [again](punar)+[indeed](eva) [but](tu)
+[**?](**?) [and-fire-worship](magnirupāsañ) [and](ca) [vows](vratāni) [again](punar) [and](eva) [indeed](tu)
 
 ## mukta-m0-p64-v1580
-[gaṇeśvara](gaṇeśvaram) [fourth](caturtham)+[and](tu) [excellent](uttamam)+[and](ca)+[adhisākaka](adhisākakam)
+[gaṇeśvara](gaṇeśvaraṃ) [fourth](caturtham) [and](tu) [supreme](uttamañ) [and](ca) [adhisākaka](adhisākakam)
 
 ## mukta-m0-p64-v1581
-[aiṣṭika](aiṣṭikam) [dārthaka](dārthakam)+[and](ca)+[indeed](eva) [bhautika](bhautikam) [saumika](saumikam) [thus](tathā)
+[aiṣṭika](aiṣṭikaṃ) [and-dārthaka](dārthakañ) [and](ca) [and](eva) [bhautika](bhautikaṃ) [and-saumika](saumikaṃ) [likewise](tathā)
 
 ## mukta-m0-p64-v1582
-[godāna](godānam)+[and](tu) [then](tataḥ) [having-done](kṛtvā) [wife-joining](patnīsaṃyojanam) [thus](tathā)
+[godāna](godānam) [then](tu) [then](tataḥ) [having-done](kṛtvā) [wife-union](patnī+saṃyojanaṃ) [likewise](tathā)
 
 ## mukta-m0-p64-v1583
-[caitrī](caitrī) [and](ca)+[āśvayujī](āśvayujī) [and](ca)+[indeed](eva) [pākayajñas](pākayajñāḥ) [declared](prakīrtitāḥ)
+[caitrī](caitrī) [and](ca) [āśvayujī](āśvayujī) [and](ca) [and](eva) [pāka-sacrifices](pāka+yajñāḥ) [are-declared](prakīrtitāḥ)
 
 ## mukta-m0-p64-v1584
-[paurṇamāsī](paurṇamāsī)+[thus](iti) [known](vijñeyā) [sautrāmaṇī](sautrāmaṇī) [then](tataḥ) [beyond](param)
+[paurṇamāsī](paurṇamāsī) [thus](iti) [to-be-known](vijñeyā) [sautrāmaṇī](sautrāmaṇī) [then](tataḥ) [after](param)
 
 ## mukta-m0-p64-v1585
-[agniṣṭoma](agniṣṭoma)+[and](u)+[atyagniṣṭoma](atyagniṣṭomam)+[and](u)+[third](tṛtīyakaḥ)
+[agniṣṭoma](agniṣṭoma) [and-atyagniṣṭoma](atyagniṣṭomam) [ukthya-sacrifice](uthya+yajña) [third](kṛtīyakaḥ)
 
 ## mukta-m0-p64-v1586
-[three-night](trirātram) [sixth](ṣaṣṭam)+[thus](iti)+[said](uktaṃ) [aptoryāma](aptoryāmam)+[and](ca) [seventh](saptamaḥ)
+[three-night](tri+rātraṃ) [sixth](ṣaṣṭam) [thus](iti) [said](uktam) [aptoryāma](aptoryāmañ) [and](ca) [seventh](saptamaḥ)
 
 ## mukta-m0-p64-v1587
-[golden-foot](hiraṇyapādaḥ) [first](prathamaḥ) [golden-secret](hiraṇyaguhyam)+[then](ataḥ) [beyond](param)
+[hiraṇyapāda](hiraṇyapādaḥ) [first](prathamo) [hiraṇyaguhya](hiraṇyaguhyam) [then](ataḥ) [after](param)
 
 ## mukta-m0-p64-v1588
-[golden-womb](hiraṇyagarbhaḥ)+[thus](tathā) [declared](proktā) [fifth](pañcamaḥ) [O-supreme-goddess](parameśvari)
+[hiraṇyagarbha](hiraṇyagarbhas) [likewise](tathā) [declared](proktā) [fifth](pañcamaḥ) [o-supreme-goddess](parameśvari)
 
 ## mukta-m0-p64-v1589
-[golden-skin](hiraṇyavak)+[named](samākhyātam) [golden-eye](hiraṇyākṣam) [thus](tathā)+[eighth](aṣṭamam)
+[hiraṇyatvak](hiraṇyatvak) [called](samākhyātaṃ) [hiraṇyākṣa](hiraṇyākṣaṃ) [likewise](tathā) [eighth](aṣṭamam)
 
 ## mukta-m0-p64-v1590
-[of-thousand](āsahasrasya) [sacrifice](yajñasya) [ten-sacrifices](daśayajñāḥ) [beyond](paraḥ) [remembered](smṛtāḥ)
+[of-thousand-offerings](ā+sahasrasya) [of-sacrifice](yajñasya) [ten-sacrifices](daśa+yajñāḥ) [higher](paraḥ) [are-remembered](smṛtāḥ)
 
 ## mukta-m0-p64-v1591
-[ten-sacrifices](daśayajña)+[above](upariṣṭāt)+[then](tu) [aśvamedha](aśvamedham)+[let-him-offer](homayet)
+[above-ten-sacrifices](daśa+yajña+upariṣṭāt) [then](tu) [aśvamedha](aśvamedham) [then](tu) [one-should-offer](homayet)
 
 ## mukta-m0-p64-v1592
-[renunciation](pārivrājyam) [then](tataḥ) [to-be-joined](yojya) [final-rite](antyeṣṭim)+[then](tu) [let-him-offer](hunet)
+[renunciation](pārivrājyaṃ) [then](tato) [having-joined](yojya) [final-rites](antyeṣṭim) [then](tu) [then](tato) [one-should-offer](hunet)
 
 ## mukta-m0-p64-v1593
-[puryaṣṭaka](puryaṣṭaka)+[endowed](samāyuktam) [afterward](paścāt)+[in-principles](tatveṣu) [join](yojayet)
+[endowed-with-eightfold-body](puryaṣṭaka+samāyuktaṃ) [afterwards](paścāt) [in-the-principles](tatveṣu) [one-should-unite](yojayet)
 
 ## mukta-m0-p64-v1594
-[intellect](buddhiḥ)+[quality](guṇaḥ)+[thus](tathā)+[unmanifest](avyaktam) [in-order](kramaśaḥ) [said](kathayāmite)
+[intellect](buddhir) [quality](guṇas) [likewise](tathā) [unmanifest](avyaktaṃ) [in-order](kramaśaḥ) [I-tell](kathayāmi) [to-you](te)
 
 ## mukta-m0-p64-v1595
-[aṣaḍi](aṣaḍiñca)+[and](ca)+[indeed](eva) [daṇḍi](daṇḍiñca) [bhārabhūti](bhārabhūtiñca) [lākula](lākulam)
+[aṣaḍi](aṣaḍiñ) [and](ca) [and](eva) [daṇḍi](daṇḍiñ) [and](ca) [bhārabhūti](bhārabhūtiñ) [and](ca) [lākula](lākulam)
 
 ## mukta-m0-p64-v1596
-[hariścandra](hariścandraḥ)+[śrīśaila](śrīśailam) [jalpeśvara](jalpeśvaram)+[then](ataḥ) [beyond](param)
+[hariścandra](hariścandraḥ) [śrīśaila](śrīśailaṃ) [jalpeśvara](jalpeśvaram) [then](ataḥ) [after](param)
 
 ## mukta-m0-p64-v1597
-[kedāra](kedāram) [bhairava](bhairavam)+[and](ca) [atiguhyāṣṭaka](atiguhyāṣṭakam) [remembered](smṛtam)
+[kedāra](kedāraṃ) [bhairava](bhairavañ) [and](ca) [most-secret-octad](atiguhya+aṣṭakaṃ) [is-remembered](smṛtam)
 
 ## mukta-m0-p64-v1598
-[vimala](vimalam)+[and](ca)+[aṭṭahāsa](aṭṭahāsam)+[and](ca) [mahendra](mahendram) [bhīma](bhīmam)+[eighth](aṣṭamam)
+[vimala](vimalañ) [and](ca) [aṭṭahāsa](aṭṭahāsañ) [and](ca) [mahendra](mahendraṃ) [bhīma](bhīmam) [eighth](aṣṭamam)
 
 ## mukta-m0-p64-v1599
-[vastrāpada](vastrāpadam) [rudrakoṭi](rudrakoṭim)+[avimukta](avimuktam) [mahālaya](mahālayam)
+[vastrāpada](vastrāpadaṃ) [rudrakoṭi](rudrakoṭim) [avimukta](avimuktaṃ) [mahālaya](mahālayam)
 
 ## mukta-m0-p64-v1600
-[pavitrāṣṭaka](pavitrāṣṭakam)+[this](etad)+[indeed](hi) [declared](kathitam) [hy](hy)+[in-order](anupūrvaśaḥ)
+[this-holy-octad](pavitra+aṣṭakam) [this](etat) [indeed](hi) [declared](kathitaṃ) [indeed](hi) [in-due-order](anupūrvaśaḥ)

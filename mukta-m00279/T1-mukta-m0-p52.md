@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p52-v1276
-[by-that](tena) [full-offering](pūrṇāhutiṃ) [should-give](dadyāt) [final-rite](antyeṣṭim) [indeed](tu) [should-offer](samarpayet)
+[by-that](tena) [full-offering](pūrṇāhutiṃ) [one-should-give](dadyāt) [final-rite](antyeṣṭim) [but](tu) [one-should-offer](samarpayet)
 
 ## mukta-m0-p52-v1277
-[final-rite](antyeṣṭiḥ) [is-purified](śudhyate) [and](ca) [indeed](eva) [from-expiation](prāyaścittāt) [is-purified](viśudhyate)
+[final-rite](antyeṣṭiḥ) [is-purified](śudhyate) [and](ca) [indeed](eva) [by-expiation](prāyaścittāt) [becomes-pure](viśudhyate)
 
 ## mukta-m0-p52-v1278
-[all](sarvā) [commands](ājñā) [in-transgression](laṅghane) [and](ca) [indeed](eva) [final-rite](antyeṣṭi) [should-offer](homayet) [then](tataḥ)
+[all](sarva) [command](ājñā) [in-transgression](laṅghane) [and](ca) [indeed](eva) [final-rite](antyeṣṭi) [one-should-offer-oblation](homayet) [then](tataḥ)
 
 ## mukta-m0-p52-v1279
-[time-wheel](kālacakra) [rule](vidhāna) [knower](jñaḥ) [time-knower](kālajñaḥ) [is-declared](vidhīyate)
+[time-wheel](kālacakra) [rule](vidhāna) [knower](jñaḥ) [time](kāla) [knower](jñaḥ) [he](saḥ) [is-designated](vidhīyate)
 
 ## mukta-m0-p52-v1280
-[why](kasmāt) [proceeds](pravartate) [time](kālaḥ) [how](kathaṃ) [time](kālaḥ) [is-called](nigadyate)
+[from-what](kasmāt) [proceeds](pravartate) [time](kālaḥ) [how](kathaṃ) [time](kālaḥ) [is-spoken-of](nigadyate)
 
 ## mukta-m0-p52-v1281
-[by-whom](yena) [being-impelled](sañcodyamānaḥ) [indeed](tu) [time](kālaḥ) [measures](kalayate) [lord](prabho)
+[by-which](yena) [being-impelled](sañcodyamānaḥ) [indeed](tu) [time](kālaḥ) [measures](kalayate) [O-lord](prabho)
 
 ## mukta-m0-p52-v1282
-[worldly](laukika) [spiritual](adhyātmika) [and](ca) [indeed](eva) [how](kathaṃ) [is-known](vijñāyate) [lord](prabho)
+[worldly](laukika) [and-spiritual](ādhyātmikam) [and](ca) [indeed](eva) [how](kathaṃ) [is-known](vijñāyate) [O-lord](prabho)
 
 ## mukta-m0-p52-v1283
-[without](vinā) [without](vinā) [and](ca) [indeed](eva) [moments](muhūrtānāṃ) [and](tathā) [indeed](eva) [ca](ca)
+[without](vinā) [and-with](vinā) [and-divisions](avayaḥ) [and](ca) [indeed](eva) [of-moments](muhūrtānāṃ) [likewise](tathā) [and](eva) [and](ca)
 
 ## mukta-m0-p52-v1284
-[of-ghaṭikās](ghaṭikānāṃ) [designation](samākhyā) [hi](hi) [of-principles](tatvānāṃ) [ca](ca) [in-order](yathākramam)
+[of-ghaṭikās](ghaṭikānāṃ) [designation](samākhyā) [indeed](hi) [and-of-principles](tatvānām) [and](ca) [in-due-order](yathākramam)
 
 ## mukta-m0-p52-v1285
-[worldly](laukika) [spiritual](adhyātmika) [and](ca) [indeed](eva) [tell](kathayasva) [graciously](prasādataḥ)
+[worldly](laukika) [and-spiritual](ādhyātmikam) [and](ca) [indeed](eva) [tell](kathayasva) [by-grace](prasādataḥ)
 
 ## mukta-m0-p52-v1286
-[that](tad) [I](ahaṃ) [will-declare](saṃpravakṣyāmi) [which](yat) [by-gods](surair) [api](api) [difficult](durlabham)
+[that](tat) [I](ahaṃ) [shall-declare](saṃpravakṣyāmi) [which](yat) [even-by-gods](suraiḥ) [also](api) [hard-to-obtain](durlabham)
 
 ## mukta-m0-p52-v1287
-[as](yathā) [vai](vai) [is-known](jñāyate) [goddess](devi) [worldly](laukikaṃ) [time](kālam) [best](uttamam)
+[as](yathā) [indeed](vai) [is-known](jñāyate) [O-goddess](devi) [worldly](laukikaṃ) [time](kālam) [supreme](uttamam)
 
 ## mukta-m0-p52-v1288
-[this](etat) [time-rule](kālavidhāna) [knower](jñaḥ) [obtains](labhate) [eternal](śāśvataṃ) [state](padam)
+[this](etat) [time](kāla) [rule](vidhāna) [knower](jñaḥ) [attains](labhate) [eternal](śāśvataṃ) [state](padam)
 
 ## mukta-m0-p52-v1289
-[worldly](laukika) [spiritual](adhyātmika) [time](kālaṃ) [who](yaḥ) [knows](vetti) [entirely](nikhilena) [tu](tu)
+[worldly](laukika) [and-spiritual](ādhyātmikaṃ) [time](kālaṃ) [who](yaḥ) [knows](vetti) [entirely](nikhilena) [indeed](tu)
 
 ## mukta-m0-p52-v1290
-[auspicious-inauspicious](śubhāśubhaṃ) [ca](ca) [goddess](deveśe) [of-world](lokasya) [eva](eva) [benefit-harm](hitāhitam)
+[auspicious-and-inauspicious](śubhāśubham) [and](ca) [O-lord-of-gods](deveśe) [of-the-world](lokasya) [indeed](eva) [beneficial-and-harmful](hitāhitam)
 
 ## mukta-m0-p52-v1291
-[time-wheel](kālacakraṃ) [is-called](samākhyātam) [from-sun](ādityāt) [proceeds](saṃpravartate)
+[time-wheel](kālacakraṃ) [declared](samākhyātam) [from-the-sun](ādityāt) [proceeds](saṃpravartate)
 
 ## mukta-m0-p52-v1292
-[season](ṛtuḥ) [month](māsaḥ) [and](tathā) [fortnight](pakṣaḥ) [house](gṛha) [star](ṛkṣa) [and](atha) [zodiac](rāśayaḥ)
+[season](ṛtuḥ) [month](māsaḥ) [likewise](tathā) [fortnight](pakṣaḥ) [houses](gṛha) [lunar-mansions](ṛkṣa) [and-signs](atha+rāśayaḥ)
 
 ## mukta-m0-p52-v1293
-[parts](aṃśāḥ) [twilights](sandhyāḥ) [and](tathā) [stars](tārāḥ) [hours](horāḥ) [drekkāṇas](drekkāṇayaḥ) [and](tathā)
+[degrees](aṃśāḥ) [junctions](sandhyaḥ) [likewise](tathā) [stars](tārāḥ) [horās](horāḥ) [and-decanates](drekkāṇayaḥ) [likewise](tathā)
 
 ## mukta-m0-p52-v1294
-[that](saḥ) [this](eṣa) [is-declared](kathitaḥ) [time](kālaḥ) [worldly](laukikaḥ) [supreme-goddess](parameśvari)
+[that](saḥ) [this](eṣaḥ) [declared](kathitaḥ) [time](kālaḥ) [worldly](laukikaḥ) [O-supreme-goddess](parameśvari)
 
 ## mukta-m0-p52-v1295
-[thus](tathā) [to-you](te) [will-tell](kathayiṣyāmi) [listen](śṛṇuṣva) [wide-eyed](āyatalocane)
+[likewise](tathā) [to-you](te) [I-shall-tell](kathayiṣyāmi) [listen](śṛṇuṣva) [O-long-eyed-one](āyatalocane)
 
 ## mukta-m0-p52-v1296
-[by-sun](bhāskareṇa) [together](samāḥ) [all](sarve) [zodiac-signs](rāśayaḥ) [ca](ca) [no](na) [doubt](saṃśayaḥ)
+[with-the-sun](bhāskareṇa) [equal](samāḥ) [all](sarve) [zodiac-signs](rāśayaḥ) [and](ca) [no](na) [doubt](saṃśayaḥ)
 
 ## mukta-m0-p52-v1297
-[planets](grahān) [on-leaves](patreṣu) [placing](saṃsthāpya) [east-etc](pūrvādi) [side-situated](dalasaṃsthitān)
+[planets](grahān) [in-diagrams](patreṣu) [having-placed](saṃsthāpya) [in-east-etc.-directions](pūrvādi+dala+saṃsthitān)
 
 ## mukta-m0-p52-v1298
-[house-wheel](gṛhacakraṃ) [is-remembered](smṛtaḥ) [hi](hi) [eṣa](eṣa) [to-be-known](jñātavyaṃ) [by-time-knower](kālavedinā)
+[house-wheel](gṛhacakraṃ) [remembered](smṛtaḥ) [indeed](hi) [this](eṣaḥ) [to-be-known](jñātavyaṃ) [by-time-knower](kālavedinā)
 
 ## mukta-m0-p52-v1299
-[prince](rajaputraṃ) [place](nyaset) [goddess](devi) [south](dakṣiṇe) [well-composed](susamāhitaḥ)
+[Mars](rajaputraṃ) [one-should-place](nyaset) [O-goddess](devi) [in-the-south](dakṣiṇe) [well-composed](susamāhitaḥ)
 
 ## mukta-m0-p52-v1300
-[Jupiter](bṛhaspatiṃ) [place](nyaset) [always](nityaṃ) [west](paścime) [well-composed](susamāhitaḥ)
+[Jupiter](bṛhaspatiṃ) [one-should-place](nyaset) [always](nityaṃ) [in-the-west](paścime) [well-composed](susamāhitaḥ)

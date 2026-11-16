@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p59-v1451
-thus(evaṃ) by-means(vidhaiḥ) by-many-signs(bahuliṅgaiḥ) to-be-understood(boddhavyaṃ) by-death-impelled(mṛtyucoditaiḥ)
+thus(evaṃ) by-such-methods(vidhaiḥ) + with-many-signs(bahuliṅgaiḥ) should-be-known(boddhavyaṃ) by-death(mṛtyu) + impelled(coditaiḥ)
 
 ## mukta-m0-p59-v1452
-this(idaṃ) O-three-eyed(trinetra) declared(saṃproktaṃ) to-yogis(yogino) at-sunrise(bhāskarodaye)
+this(idam) O-three-eyed-one(trinetra) well-declared(saṃproktaṃ) for-the-yogin(yoginaḥ) at-sunrise(bhāskara) + rising(udaye)
 
 ## mukta-m0-p59-v1453
-then(tato) yogi(yogī) pure-becoming(śucirbhūtvā) brave(dhīro) in-yoga-seat(yogāsane) situated(sthitaḥ)
+then(tataḥ) yogin(yogī) pure(śuciḥ) + having-become(bhūtvā) steady(dhīraḥ) on-yoga-seat(yoga) + seat(āsane) situated(sthitaḥ)
 
 ## mukta-m0-p59-v1454
-vigilant-always(apramattassadā) should-stand(tiṣṭhet) joined(yukto) to-sound-unity(nādaikatāṃ) gone(gataḥ)
+un-distracted(apramattaḥ) + always(sadā) should-remain(tiṣṭhet) yoked(yuktaḥ) in-sound(nāda) + oneness(ekatāṃ) gone(gataḥ)
 
 ## mukta-m0-p59-v1455
-nine-powers-thus(navaśaktīti) transit(saṅkrānti) at-time(kāle) indeed(vai) should-count-always(kalayetsadā)
+nine(nava) + powers(śakti) + thus(iti) transition(saṅkrānti) at-time(kāle) indeed(vai) should-observe(kalayet) + always(sadā)
 
 ## mukta-m0-p59-v1456
-those(ye) but(tu) in-transit(saṅkrāntike) breaths(prāṇā) central-channel(suṣumnā) but(tu) situated(sthito) should-carry(vahet)
+which(ye) indeed(tu) at-transition(saṅkrāntike) breaths(prāṇāḥ) in-suṣumnā(suṣumnā) indeed(tu) situated(sthitaḥ) flows(vahet)
 
 ## mukta-m0-p59-v1457
-by-day-night(ahorātreṇa) and(ca) one-year(abdaikaṃ) yogi(yogī) to-live(jīvitum) desires(icchami)
+by-day-and-night(ahaḥ) + night(rātreṇa) and(ca) + one-year(abda) + one(ekaṃ) yogin(yogī) to-live(jīvitum) + I-desire(icchāmi)
 
 ## mukta-m0-p59-v1458
-?(**) to-be-known(vijñeyañ) by-four(caturbhiś) four-year(caturabdikam)
+**?(**?) + ?(rabdantu) to-be-known(vijñeyam) + by-four(caturbhiḥ) + four-year(catur) + period(abdikam)
 
 ## mukta-m0-p59-v1459
-six-seven-eight-day(ṣaṭsaptāṣṭadine) deployed(vyūḍhe) that-many-years(tāvadvarṣāṇi) lives(jīvati)
+six(ṣaṭ) + seven(sapta) + eight(aṣṭa) + day(dine) having-passed(vyūḍhe) that-many(tāvat) + years(varṣāṇi) lives(jīvati)
 
 ## mukta-m0-p59-v1460
-sometimes(kadācic) lord-of-shards(śakaleśānaḥ) seven-watch-exit(saptapraharanirgamam)
+sometimes(kadācit) + Śakaleśāna(śakala) + lord(īśānaḥ) seven(sapta) + watch(prahara) + passing(nirgamam)
 
 ## mukta-m0-p59-v1461
-five?(pañcakohyardha) ?(*) ?(*) by-four(caturbhiḥ) month-living(māsajīvinaḥ)
+five(pañcaka) + ?(uhyardha) *(* *) + *(* *) + ?(?) by-four(caturbhiḥ) + month(māsa) + living(jīvinaḥ)
 
 ## mukta-m0-p59-v1462
-two-watches(praharadvayaṃ) thus(tathā) deployed(vyūḍhaṃ) days-eight(dinānyaṣṭau) he(sa) lives(jīvati)
+two(prahara) + pair(dvayaṃ) likewise(tathā) having-passed(vyūḍhaṃ) days(dināni) + eight(aṣṭau) he(saḥ) lives(jīvati)
 
 ## mukta-m0-p59-v1463
-half-watch(praharārdhaṃ) carries-whose(vahedyasya) he(sa) lives(jīvati) two-days(dinadvayam)
+half(prahara) + half(ardhaṃ) flows(vahet) + for-whom(yasya) he(saḥ) lives(jīvati) two(dina) + days(dvayam)
 
 ## mukta-m0-p59-v1464
-which(yaṃ) or(vā) time(kālaṃ) mounting(samāruhya) should-carry(pravahet) ?(*) ?(*) ?(*) ?(*) yam(yam)
+which(yam) or(vā) time(kālaṃ) having-mounted(samāruhya) flows-forth(pravahet) *(* *) + *(* *) + *(* *) + *(* *) + ?(yam)
 
 ## mukta-m0-p59-v1465
-northern-course-born(uttarāyaṇaje) at-time(kāle) told(kathitaṃ) to-you(tava) auspicious-one(śobhane)
+in-northern-course(uttarāyaṇa) + born(je) at-time(kāle) declared(kathitaṃ) to-you(tava) O-beautiful-one(śobhane)
 
 ## mukta-m0-p59-v1466
-ear-path-made-thumbs(śrotramārgakṛtāṅguṣṭhau) sound(ghoṣaṃ) not(na) hears(śṛṇute) man(naraḥ)
+ear(śrotra) + path(mārga) + made(kṛta) + thumbs(aṅguṣṭhau) sound(ghoṣaṃ) not(na) hears(śṛṇute) person(naraḥ)
 
 ## mukta-m0-p59-v1467
-kāravam(kāravam)
+kāravam(kāravam) ?(?) ?(?) ?(?)
 
 ## mukta-m0-p59-v1468
-to-be-produced-and(utpādyañca) thus-hearing(tathākarṇya) death-yoga(mṛtyuyogaṃ) likewise(tathaiva) and(ca)
+having-produced(utpādya) + and(ca) likewise(tathā) + having-heard(ākarṇya) death(mṛtyu) + conjunction(yogaṃ) likewise(tathā) + indeed(eva) and(ca)
 
 ## mukta-m0-p59-v1469
-yogi(yogī) mouth-end-collection(vaktrāntanivahaṃ) time-transit-five(kālasaṅkrāntipañcakam)
+yogin(yogī) mouth(vaktra) + within(anta) + flow(nivahaṃ) time(kāla) + transition(saṅkrānti) + fivefold(pañcakam)
 
 ## mukta-m0-p59-v1470
-loss-of-substance(dravyahānir) mental-agitation(manodvegaṃ) should-do(kuryād) disease-increase(rogavivardhanam)
+wealth(dravya) + loss(hāniḥ) + mind(manaḥ) + agitation(udvegaṃ) may-cause(kuryāt) + disease(roga) + increase(vivardhanam)
 
 ## mukta-m0-p59-v1471
-in-right-nostril(nāsikādakṣiṇapuṭe) southern-course-living(dakṣiṇāyanajīvite)
+nostril(nāsikā) + right(dakṣiṇa) + in-opening(puṭe) in-southern-course(dakṣiṇāyana) + life(jīvite)
 
 ## mukta-m0-p59-v1472
-in-left-nostril-situated(vāmaghrāṇapuṭāntasthaṃ) transit-eight-five(saṅkrāntyāhyaṣṭapañcakam)
+left(vāma) + nostril(ghrāṇa) + opening(puṭa) + situated-within(antasthaṃ) by-transition(saṅkrāntyā) + indeed(hi) + eight(aṣṭa) + fivefold(pañcakam)
 
 ## mukta-m0-p59-v1473
-disease-free(nīroga) diabetes-and(pramehañca) urinary-difficulty-causes(mūtrakṛcchrakāpayet)
+disease-free(nīroga) urinary-disorder(prameham) + and(ca) painful-urination(mūtra) + difficulty(kṛcchra) + may-cause(kāpayet)
 
 ## mukta-m0-p59-v1474
-at-which-time(yatkāle) carries(vahate) wind(vāyuḥ) at-that-time(tatkāle) day(divase) next(pare)
+at-which(yat) + time(kāle) flows(vahate) wind(vāyuḥ) at-that(tat) + time(kāle) on-day(divase) next(pare)
 
 ## mukta-m0-p59-v1475
-above-touch-sign(ator dhvasparśabhaṃ) hundred-thousand(lakṣaṃ) nose-below-but(nāsādhastāttu) ?(*) ri(ri)
+above(ataḥ) + upward(ūrdhva) + touch(sparśa) + appearing(bham) mark(lakṣaṃ) below-nose(nāsā) + below(adhastāt) + indeed(tu) **?(**?) + ?(ri)
