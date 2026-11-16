@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p159-v3951
-[west](paścime) [protect](pātu) [boar-goddess](vārāhī) [north](uttare) [but](tu) [great-lady](maheśvarī)
+[in-the-west](paścime) [may-protect](pātu) [vārāhī](vārāhī) [in-the-north](uttare) [indeed](tu) [maheśvarī](maheśvarī)
 
 ## mukta-m0-p159-v3952
-[northwest](vāyavyāṃ) [protect](pātu) [chamunda](cāmuṇḍā) [indra-consort](indrāṇī) [protect](pātu) [in-corner](ceśake)
+[in-the-northwest](vāyavyāṃ) [may-protect](pātu) [cāmuṇḍā](cāmuṇḍā) [indrāṇī](indrāṇī) [may-protect](pātu) [in-the-southeast](ca) [in-the-southeast](īśake)
 
 ## mukta-m0-p159-v3953
-[sky](ākāśe) [protect](pātu) [boon-giver](varadā) [everywhere](sarvato) [world-lady](bhuvaneśvarī)
+[in-the-sky](ākāśe) [may-protect](pātu) [varadā](varadā) [from-all-sides](sarvataḥ) [bhuvaneśvarī](bhuvaneśvarī)
 
 ## mukta-m0-p159-v3954
-[recite](paṭhet) [morning](prātaḥ) [rising](samutthāya) [pure](śuciḥ) [striving-mind](prayatamānasaḥ)
+[should-recite](paṭhet) [in-the-morning](prātaḥ) [having-risen](samutthāya) [pure](śuciḥ) [with-disciplined+mind](prayata+mānasaḥ)
 
 ## mukta-m0-p159-v3955
-[not](naca) [plague-fear](mārībhayaṃ) [his](tasya) [sins](pātakānāṃ) [fear](bhayaṃ) [thus](tathā)
+[not](na) [and](ca) [of-plague+fear](mārī+bhayaṃ) [of-him](tasya) [of-sins+fear](pātakānāṃ) [fear](bhayaṃ) [likewise](tathā)
 
 ## mukta-m0-p159-v3956
-[go](gacchecchivapure) [shiva-city](śivapure) [goddess](devi) [truth](satyaṃ) [truth](satyaṃ) [say](vadāmyaham)
+[he-goes](gacchet) [to-śiva's+city](śiva+pure) [o-goddess](devi) [truth](satyaṃ) [truth](satyaṃ) [I-say](vadāmi) [I](aham)
 
 ## mukta-m0-p159-v3957
-[not](sa) [obtain](nāpnoti) [fruit](phalaṃ) [his](tasya) [obtain](prāpnuyācchakraghātakam) [indra-slayer](śakraghātakam)
+[he](saḥ) [not](na) [obtains](āpnoti) [fruit](phalaṃ) [of-that](tasya) [he-would-obtain](prāpnuyāt) [śakra+slayer](śakra+ghātakam)
 
 ## mukta-m0-p159-v3958
-[bliss-abundance](paramānandasandohamuditaṃ) [spoke](prāha) [parvati](pārvatī)
+[with-supreme+bliss+mass+delighted](parama+ānanda+sandoha+muditaṃ) [kh,g:]( [kh,) [g:](g:) [delighted-fem](muditā]) [spoke](prāha) [pārvatī](pārvatī)
 
 ## mukta-m0-p159-v3959
-[compassion](kṛpayā) [if](yadi) [mine](me) [shambhu](śambho) [very-secret](sugopyamapi) [tell](kathyatām)
+[by-compassion](kṛpayā) [if](yadi) [to-me](me) [o-śambhu](śambho) [very-secret+even](su+gopyam) [even](api) [let-it-be-told](kathyatām)
 
 ## mukta-m0-p159-v3960
-[beauty-ocean](lāvaṇyasindhustatrāsti) [there](tatrāsti) [girl](bālāyā) [rasa-cave](rasakandaraḥ)
+[of-beauty+ocean](lāvaṇya+sindhuḥ) [there](tatra) [is](asti) [of-the-young-girl](bālāyāḥ) [essence+cave](rasa+kandaraḥ) [k,g:]( [k,) [g:](g:) [cave-fem](kandarā])
 
 ## mukta-m0-p159-v3961
-[her](tasyā) [thousand-names](nāmasahasrāṇi) [tell](kathayāmi) [your](tava) [dear](priye)
+[of-her](tasyāḥ) [name+thousands](nāma+sahasrāṇi) [gh:]( [gh:) [thousand-to-you](sahasraṃ) [to-you](te]) [I-tell](kathayāmi) [to-you](tava) [o-beloved](priye)
 
 ## mukta-m0-p159-v3962
-[bliss-abundance-cause](sukhasandohasaṃbhāvo) [knowledge-bliss](jñānānandasya) [cause](kāraṇam)
+[of-happiness+mass+origin](sukha+sandoha+saṃbhāvaḥ) [of-knowledge+bliss](jñāna+ānandasya) [cause](kāraṇam)
 
 ## mukta-m0-p159-v3963
-[tripura-beauty](tripurāsundarī) [love-ocean](premapāthonidhiranuttamā) [unsurpassed](anuttamā)
+[tripurāsundarī](tripurā+sundarī) [of-love+milk-ocean+unsurpassed](prema+pāthaḥ+nidhiḥ) [unsurpassed](anuttamā)
 
 ## mukta-m0-p159-v3964
-[erotic-form](śṛṅgāramūrtirvaradā) [boon-giver](varadā) [rasa](rasā) [auspicious-range](śubhagocarā)
+[of-erotic-sentiment+embodiment](śṛṅgāra+mūrtiḥ) [boon-giver](varadā) [essence](rasā) [and](ca) [in-auspicious+range](śubha+gocarā)
 
 ## mukta-m0-p159-v3965
-[play-garland](raṅgamālānaṅgakalā) [love-art](anaṅgakalā) [sport](kelī) [liberation-giver](kaivalyadā) [art](kalā)
+[of-delight+garland](raṅga+mālā) [of-love-god+art](anaṅga+kalā) [sport](kelī) [liberation+giver](kaivalya+dā) [art](kalā)
 
 ## mukta-m0-p159-v3966
-[delight-smeared](vinodadigdhā) [very-smooth](susnigdhā) [charming-form](mugdhāmūrtirmanoramā) [mind-pleasing](manoramā)
+[with-delight+smeared](vinoda+digdhā) [very-affectionate](su+snigdhā) [charming+form](mugdhā+mūrtiḥ) [delightful](manoramā)
 
 ## mukta-m0-p159-v3967
-[meaning](rthā)
+[k,kh:]( [k,) [kh:](kh:) [rthā](rthā])
 
 ## mukta-m0-p159-v3968
-[world-queen](rājarājeśvarī) [queen](rājñī) [great-indra-worshipped](mahendraparivanditā)
+[queen+of-kings+sovereign](rāja+rāja+īśvarī) [queen](rājñī) [by-mahendra+saluted](mahendra+parivanditā)
 
 ## mukta-m0-p159-v3969
-[durvasa](durvāsā) [hard-to-bear](duḥsahāśaktiḥ) [shakti](śaktiḥ) [jingling-gold-anklets](śiñjatkanakanūpurā)
+[durvāsā](durvāsā) [unbearable+power](duḥsahā+śaktiḥ) [jingling+golden+anklet](śiñjat+kanaka+nūpurā)
 
 ## mukta-m0-p159-v3970
-[arrow-bow-held](śarakodaṇḍasaṃsaktapāṇidvayavirājitā) [two-hands](pāṇidvayavirājitā)
+[with-arrow+bow+attached+hand+pair+adorned](śara+kodaṇḍa+saṃsakta+pāṇi+dvaya+virājitā) [kh:]( [kh:) [joined](saṃyukta])
 
 ## mukta-m0-p159-v3971
-[vermilion-mark](sindūratilakā) [beautiful](cārudhammillāmalamālikā) [braid-garland](dhammillāmalamālikā)
+[with-vermilion+forehead-mark](sindūra+tilakā) [with-beautiful+braid+pure+garland](cāru+dhammilla+amala+mālikā)
 
 ## mukta-m0-p159-v3972
-[gold-ornament-loving](suvarṇābharaṇaprītā) [pearl-abode](muktādhāmamanoramā) [mind-pleasing](manoramā)
+[in-golden+ornaments+delighted](suvarṇa+ābharaṇa+prītā) [with-pearl+string+charming](muktā+dhāma+manoramā)
 
 ## mukta-m0-p159-v3973
-[easy-worshipped](sukhārādhyā) [tapas-essence](tapaḥsārā) [compassion-ocean](kṛpāpārā) [vidhi-lady](vidhīśvarī)
+[easily+worshipped](sukha+ārādhyā) [of-austerity+essence](tapaḥ+sārā) [of-compassion+shore](kṛpā+pārā) [sovereign+of-fate](vidhi+īśvarī) [kh:]( [kh:) [treasure](nidhī])
 
 ## mukta-m0-p159-v3974
-[bindu-nada-self](bindunādātmakoccārarahitā) [fourth-form](turyarūpiṇī)
+[from-bindu+nāda+nature+utterance+devoid](bindu+nāda+ātmaka+uccāra+rahitā) [of-turīya+form](turya+rūpiṇī)
 
 ## mukta-m0-p159-v3975
-[manifold](prapañcā) [fifth](pañcamī) [full](pūrṇā) [full-seat-dwelling](pūrṇapīṭhanivāsinī)
+[beyond-the-manifold](prapañcā) [fifth](pañcamī) [complete](pūrṇā) [in-complete+seat+dwelling](pūrṇa+pīṭha+nivāsinī)

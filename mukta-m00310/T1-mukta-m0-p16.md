@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p16-v376
-[vidyām](vidyāṃ) [śāpa-harīm](śāpaharīṃ) [sadyas](sadyo) [mantra-siddhiḥ](mantrasiddhir) [bhavet](bhaved) [yatas](yataḥ)
+[knowledge](vidyāṃ) [curse+removing](śāpa+harīṃ) [immediately](sadyo) [mantra+success](mantra+siddhir) [may-be](bhaved) [because](yataḥ)
 
 ## mukta-m0-p16-v377
-[mocaya](mocaya) [dvayam](dvayam) [āpaḥ](āpaś) [ca](ca) [vidyā](vidyeyaṃ) [iyaṃ](vidyeyaṃ) [śāpa-hāriṇī](śāpahāriṇī)
+[release](mocaya) [pair](dvayam) [āpaḥ](āpaḥ) [and](ca) [knowledge](vidyā) [this](iyaṃ) [curse+removing](śāpa+hāriṇī)
 
 ## mukta-m0-p16-v378
-[mocaya](mocayāpo) [āpaḥ](mocayāpo) [mahādevi](mahādevi) [vidyā](vidyeyaṃ) [iyaṃ](vidyeyaṃ) [śāpa-hāriṇī](śāpahāriṇī)
+[release](mocaya) [āpaḥ](āpo) [great+goddess](mahā+devi) [knowledge](vidyā) [this](iyaṃ) [curse+removing](śāpa+hāriṇī)
 
 ## mukta-m0-p16-v379
-[tāram](tāraṃ) [ṭha-dvayam](ṭhadvayam) [ante](ante) [ca](ca) [vidyā](vidyeyaṃ) [iyaṃ](vidyeyaṃ) [śāpa-hāriṇī](śāpahāriṇī)
+[tāra](tāraṃ) [ṭha+pair](ṭha+dvayam) [at-end](ante) [and](ca) [knowledge](vidyā) [this](iyaṃ) [curse+removing](śāpa+hāriṇī)
 
 ## mukta-m0-p16-v380
-[mocaya](mocaya) [dvayam](dvayam) [āpaḥ](āpaś) [ca](ca) [po'nte](po'nte) [vidyā](vidyeyaṃ) [iyaṃ](vidyeyaṃ) [śāpa-hāriṇī](śāpahāriṇī)
+[release](mocaya) [pair](dvayam) [āpaḥ](āpaḥ) [and](ca) [kh: po'nte]([kh: po'nte]) [knowledge](vidyā) [this](iyaṃ) [curse+removing](śāpa+hāriṇī)
 
 ## mukta-m0-p16-v381
-[mocaya](mocaya) [dvayam](dvayam) [āpaḥ](āpo) [ante]('nte) [vidyā](vidyeyaṃ) [iyaṃ](vidyeyaṃ) [śāpa-hāriṇī](śāpahāriṇī)
+[release](mocaya) [pair](dvayam) [āpaḥ](āpo) [at-end]('nte) [knowledge](vidyā) [this](iyaṃ) [curse+removing](śāpa+hāriṇī)
 
 ## mukta-m0-p16-v382
-[turagam](turagaṃ) [ṭha-dvayam](ṭhadvayaṃ) [devi](devi) [vidyā](vidyeyaṃ) [iyaṃ](vidyeyaṃ) [śāpa-hāriṇī](śāpahāriṇī)
+[turaga](turagaṃ) [ṭha+pair](ṭha+dvayaṃ) [goddess](devi) [knowledge](vidyā) [this](iyaṃ) [curse+removing](śāpa+hāriṇī)
 
 ## mukta-m0-p16-v383
-[haram](haraṃ) [ṭha-dvayam](ṭhadvayam) [ante](ante) [ca](ca) [vidyā](vidyeyaṃ) [iyaṃ](vidyeyaṃ) [śāpa-hāriṇī](śāpahāriṇī)
+[hara](haraṃ) [ṭha+pair](ṭha+dvayam) [at-end](ante) [and](ca) [knowledge](vidyā) [this](iyaṃ) [curse+removing](śāpa+hāriṇī)
 
 ## mukta-m0-p16-v384
-[mocaya](mocaya) [dvayam](dvayam) [āpaḥ](āpaś) [ca](ca) [vidyā](vidyeyaṃ) [iyaṃ](vidyeyaṃ) [śāpa-hāriṇī](śāpahāriṇī)
+[release](mocaya) [pair](dvayam) [āpaḥ](āpaḥ) [and](ca) [knowledge](vidyā) [this](iyaṃ) [curse+removing](śāpa+hāriṇī)
 
 ## mukta-m0-p16-v385
-[mocaya](mocaya) [dvayam](dvayam) [āpaḥ](āpaś) [ca](ca) [vidyā](vidyeyaṃ) [iyaṃ](vidyeyaṃ) [śāpa-hāriṇī](śāpahāriṇī)
+[release](mocaya) [pair](dvayam) [āpaḥ](āpaḥ) [and](ca) [knowledge](vidyā) [this](iyaṃ) [curse+removing](śāpa+hāriṇī)
 
 ## mukta-m0-p16-v386
-[guhyam](guhyaṃ) [sarvasvam](sarvasvam) [īśāni](īśāni) [gopanīyam](gopanīyaṃ) [viśeṣataḥ](viśeṣataḥ)
+[secret](guhyaṃ) [all+wealth](sarva+svam) [Īśānī](īśāni) [to-be-concealed](gopanīyaṃ) [especially](viśeṣataḥ)
 
 ## mukta-m0-p16-v387
-[paṭalaḥ](paṭalaḥ)
+[chapter](paṭalaḥ)
 
 ## mukta-m0-p16-v388
-[yena](yena) [sādhita-mātreṇa](sādhitamātreṇa) [mantra-siddhiḥ](mantrasiddhiḥ) [prajāyate](prajāyate)
+[by-which](yena) [accomplished+merely](sādhita+mātreṇa) [mantra+success](mantra+siddhiḥ) [is-produced](prajāyate)
 
 ## mukta-m0-p16-v389
-[puraskriyā-japena](puraskriyājapena) [eva](eva) [cet](cet) [tām](tāṃ) [sādhayitum](sādhayituṃ) [kṣamaḥ](kṣamaḥ)
+[preliminary-rite+recitation](puraskriyā+japena) [alone](eva) [if](cet) [that](tāṃ) [to-accomplish](sādhayituṃ) [capable](kṣamaḥ)
 
 ## mukta-m0-p16-v390
-[paratra](paratra) [sādhakaḥ](sādhako) [devi](devi) [bhavet](bhaved) [bhairava-sannibhaḥ](bhairavasannibhaḥ)
+[hereafter](paratra) [practitioner](sādhako) [goddess](devi) [may-be](bhaved) [Bhairava+like](bhairava+sannibhaḥ)
 
 ## mukta-m0-p16-v391
-[sva-gṛham](svagṛhaṃ) [sva-gurum](svaguruṃ) [nītvā](nītvā) [natvā](natvā) [pādau](pādau) [maheśvari](maheśvari)
+[own+house](sva+gṛhaṃ) [own+guru](sva+guruṃ) [having-brought](nītvā) [having-bowed](natvā) [feet](pādau) [great+goddess](mahā+īśvari)
 
 ## mukta-m0-p16-v392
-[sindūreṇa](sindūreṇa) [likhet](likhet) [tri-asram](tryasraṃ) [gurum](guruṃ) [tatra](tatra) [niveśayet](niveśayet)
+[with-vermilion](sindūreṇa) [should-draw](likhet) [triangle](tryasraṃ) [guru](guruṃ) [there](tatra) [should-place](niveśayet)
 
 ## mukta-m0-p16-v393
-[viśvam](viśvam) [ante](ante) [mahādevi](mahādevi) [guru-mantraḥ](gurumantro) [ayam]('yam) [uttamaḥ](uttamaḥ)
+[viśva](viśvam) [at-end](ante) [great+goddess](mahā+devi) [guru+mantra](guru+mantro) [this]('yam) [supreme](uttamaḥ)
 
 ## mukta-m0-p16-v394
-[mātṛkābhiḥ](mātṛkābhiḥ) [samam](samaṃ) [devi](devi) [yathā-sthāneṣu](yathāsthāneṣu) [pārvati](pārvati)
+[with-mātṛkās](mātṛkābhiḥ) [together](samaṃ) [goddess](devi) [in-proper-places](yathā+sthāneṣu) [Pārvatī](pārvati)
 
 ## mukta-m0-p16-v395
-[gurum](guruṃ) [santoṣayet](santoṣayet) [tatra](tatra) [dakṣiṇābhiḥ](dakṣiṇābhiḥ) [kula-amṛtaiḥ](kulāmṛtaiḥ)
+[guru](guruṃ) [should-please](santoṣayet) [there](tatra) [with-gifts](dakṣiṇābhiḥ) [with-kula+nectars](kula+amṛtaiḥ)
 
 ## mukta-m0-p16-v396
-[ravau](ravau) [prātar](prātar) [mahādevi](mahādevi) [gurum](guruṃ) [natvā](natvā) [ca](ca) [sādhakaḥ](sādhakaḥ)
+[on-Sunday](ravau) [in-morning](prātar) [great+goddess](mahā+devi) [guru](guruṃ) [having-bowed](natvā) [and](ca) [practitioner](sādhakaḥ)
 
 ## mukta-m0-p16-v397
-[śiva-śaktyoḥ](śivaśaktyoḥ) [pṛthak](pṛthag) [devi](devi) [japam](japaṃ) [saṃpādya](saṃpādya) [sādhakaḥ](sādhakaḥ)
+[of-Śiva+and-Śakti](śiva+śaktyoḥ) [separately](pṛthag) [goddess](devi) [recitation](japaṃ) [having-performed](saṃpādya) [practitioner](sādhakaḥ)
 
 ## mukta-m0-p16-v398
-[tatas](tato) [devi](devi) [japet](japen) [mantrī](mantrī) [chandomuni-manum](chandomunimanuṃ) [tataḥ](tataḥ)
+[then](tato) [goddess](devi) [should-recite](japen) [mantrin](mantrī) [meter+sage+mantra](chando+muni+manuṃ) [then](tataḥ)
 
 ## mukta-m0-p16-v399
-[tarpayitvā](tarpayitvā) [daśāṃśena](daśāṃśena) [mārjayet](mārjayet) [tat-daśāṃśataḥ](taddaśāṃśataḥ)
+[having-offered-libations](tarpayitvā) [with-tenth-part](daśa+aṃśena) [should-cleanse](mārjayet) [by-its-tenth-part](tat+daśa+aṃśataḥ)
 
 ## mukta-m0-p16-v400
-[japāt](japāt) [siddhiḥ](siddhir) [japāt](japāt) [siddhiḥ](siddhir) [japāt](japāt) [siddhiḥ](siddhir) [maheśvari](maheśvari)
+[from-recitation](japāt) [success](siddhir) [from-recitation](japāt) [success](siddhir) [from-recitation](japāt) [success](siddhir) [great+goddess](mahā+īśvari)

@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p155-v3851
-[gāyatra](gāyatraṃ) [chandas](chanda) [iti](iti) [ukta](uktaṃ) [śrī-rājñī](śrīrājñī) [devatā](devateritā)
+[gāyatraṃ](gāyatraṃ) [meter](chanda) [thus](iti) [stated](uktaṃ) [śrī-rājñī](śrīrājñī) [deity](devatā) [declared](īritā)
 
 ## mukta-m0-p155-v3852
-[bhoga](bhogāpavargasiddhyarthe) [apavarga](bhogāpavargasiddhyarthe) [siddhi](bhogāpavargasiddhyarthe) [artha](bhogāpavargasiddhyarthe) [viniyoga](viniyogaḥ) [prakīrtita](prakīrtitaḥ)
+[enjoyment+and+liberation](bhoga+apavarga) [accomplishment](siddhi) [for-the-sake-of](arthe) [application](viniyogaḥ) [proclaimed](prakīrtitaḥ)
 
 ## mukta-m0-p155-v3853
-[vikasat](vikasadvadanārabindām) [vadana](vikasadvadanārabindām) [aravinda](vikasadvadanārabindām) [ām](vikasadvadanārabindām)
+[blooming](vikasat) [face](vadana) [lotus](arabindām)
 
 ## mukta-m0-p155-v3854
-[yaḥ](yo) [japet](japeduṣasi) [uṣasi](uṣasi) [ratna-mālā](ratnamālayā) [rājya](rājyamāśu) [āśu](āśu) [labhate](labhate) [sa](sa) [sādhaka](sādhakaḥ)
+[who](yaḥ) [recites](japet) [at-dawn](uṣasi) [with-jewel-rosary](ratna+mālayā) [kingdom](rājyam) [quickly](āśu) [obtains](labhate) [he](saḥ) [practitioner](sādhakaḥ)
 
 ## mukta-m0-p155-v3855
-[smaya-maya](smayamayānarīn) [narī](narīn) [raṇe](raṇe)
+[with-smiling-face](smaya+mayā) [enemies](anarīn) [in-battle](raṇe)
 
 ## mukta-m0-p155-v3856
-[rambhā](rambhāṃ) [samāliṅgya](samāliṅgya) [vimāna-cārī](vimānacāri) [līlā](līlāṃ) [bhajet](bhajennandanavāṭikāyām) [nandana-vāṭikā](nandanavāṭikāyām)
+[Rambhā](rambhāṃ) [embracing](samāliṅgya) [chariot-riding](vimāna+cārī) [sport](līlāṃ) [enjoys](bhajet) [in-Nandana-garden](nandana+vāṭikāyām)
 
 ## mukta-m0-p155-v3857
-[yaḥ](yo) [japet](japenniśi) [niśi](niśi) [dhana-abhilāṣa-vān](dhanābhilāṣavān) [sa](sa) [kṣaṇāt](kṣaṇādbhavati) [bhavati](bhavati) [vitta-dopa-ma](vittadopamaḥ)
+[who](yaḥ) [recites](japet) [at-night](niśi) [wealth](dhana) [desiring](abhilāṣavān) [he](saḥ) [in-an-instant](kṣaṇāt) [becomes](bhavati) [like-Kubera](vittada+upamaḥ)
 
 ## mukta-m0-p155-v3858
-[tasya](tasya) [yānti](yānti) [vaśatā](vaśatāṃ) [surāṅganāḥ](surāṅganāḥ) [kiṃ](kiṃ) [punaḥ](punaḥ) [jagati](jagati) [bhū-bhṛt-aṅganāḥ](bhūbhṛdaṅganāḥ)
+[of-him](tasya) [go](yānti) [under-control](vaśatāṃ) [celestial-women](sura+aṅganāḥ) [what](kiṃ) [again](punar) [in-the-world](jagati) [kings’](bhūbhṛt) [women](aṅganāḥ)
 
 ## mukta-m0-p155-v3859
-[naktaṃ](naktaṃ) [tasya](tasya) [smera-vaktrā](smeravaktrā) [ghṛtācī](ghṛtācī) [veśyā](veśyā) [vaśyā](vaśyā) [svarga-tā](svargatā) [vā](vā) [śacī](śacī) [ca](ca)
+[at-night](naktaṃ) [of-him](tasya) [smiling-faced](smera+vaktrā) [Ghṛtācī](ghṛtācī) [courtesan](veśyā) [submissive](vaśyā) [heaven-dwelling](svarga+tā) [or](vā) [Śacī](śacī) [and](ca)
 
 ## mukta-m0-p155-v3860
-[yaḥ](yo) [devi](devi) [tasya](tasya) [vaśyāḥ](vaśyāḥ) [syuḥ](syurbhairavasyāṣṭasiddhayaḥ) [bhairava](bhairavasyāṣṭasiddhayaḥ) [aṣṭa-siddhi](aṣṭasiddhayaḥ)
+[who](yaḥ) [O-goddess](devi) [of-him](tasya) [submissive](vaśyāḥ) [become](syuḥ) [of-Bhairava](bhairavasya) [eight-siddhis](aṣṭa+siddhayaḥ)
 
 ## mukta-m0-p155-v3861
-[tatra](tatraiva) [eva](eva) [devī](devīṃ) [paramārtha-rājñī](paramārtharājñīṃ) [paśyet](paśyet) [sa](sa) [sadyaḥ](sadyo) [vara-siddhi-dātrī](varasiddhidātrīm)
+[there](tatra) [indeed](eva) [goddess](devīṃ) [supreme-truth](parama+artha) [queen](rājñīṃ) [may-see](paśyet) [he](saḥ) [immediately](sadyaḥ) [boon](vara) [accomplishment](siddhi) [giver](dātrīm)
 
 ## mukta-m0-p155-v3862
-[jiṣṇu](jiṣṇuviṣṇukamalāsaneśvarā) [viṣṇu](jiṣṇuviṣṇukamalāsaneśvarā) [kamala-āsana](jiṣṇuviṣṇukamalāsaneśvarā) [īśvara](jiṣṇuviṣṇukamalāsaneśvarā) [yānti](yānti) [devi](devi) [vaśatā](vaśatāṃ) [tadā](tadā) [kṣaṇāt](kṣaṇāt)
+[Indra](jiṣṇu) [Viṣṇu](viṣṇu) [lotus-seated](kamala+āsana) [lords](īśvarāḥ) [go](yānti) [O-goddess](devi) [under-control](vaśatāṃ) [then](tadā) [in-an-instant](kṣaṇāt)
 
 ## mukta-m0-p155-v3863
-[niseduṣī](niṣeduṣīṃ) [rāja-kula-adhi-devī](rājakulādhidevīṃ) [rājñī](rājñīṃ) [bhaje](bhaje) [rāja-kula-avataṃsā](rājakulāvataṃsām)
+[seated](niṣeduṣīṃ) [royal-family](rāja+kula) [presiding-goddess](adhi+devīṃ) [queen](rājñīṃ) [I-worship](bhaje) [royal-family](rāja+kula) [crest-jewel](avataṃsām)
 
 ## mukta-m0-p155-v3864
-[sura-diti-janute](suraditijanute) [rājñi](rājñi) [tvaṃ](tvaṃ) [vai](vai) [prasīda](prasīda)
+[by-gods-and-demons](sura+diti+ja) [praised](nute) [O-queen](rājñi) [you](tvaṃ) [indeed](vai) [be-pleased](prasīda)
 
 ## mukta-m0-p155-v3865
-[bhavanam](bhavanamāpnoti) [āpnoti](āpnoti) [varade](varade)
+[abode](bhavanam) [obtains](āpnoti) [O-boon-giver](varade)
 
 ## mukta-m0-p155-v3866
-[sarvasvaṃ](sarvasvaṃ) [ca](ca) [rahasyaṃ](rahasyaṃ) [me](me) [sarva-sārasvata-pradam](sarvasārasvatapradam)
+[all-wealth](sarvasvaṃ) [and](ca) [secret](rahasyaṃ) [of-me](me) [all](sarva) [eloquence](sārasvata) [giving](pradam)
 
 ## mukta-m0-p155-v3867
-[bhoga-apavarga-daṃ](bhogāpavargadaṃ) [puṇyaṃ](puṇyaṃ) [dāridrya-bhaya-nāśanam](dāridryabhayanāśanam)
+[enjoyment+and+liberation](bhoga+apavarga) [giving](dam) [meritorious](puṇyaṃ) [poverty](dāridrya) [fear](bhaya) [destroying](nāśanam)
 
 ## mukta-m0-p155-v3868
-[tava](tava) [bhaktyā](bhaktyā) [mayā](mayā) [ākhyātaṃ](ākhyātaṃ) [gopanīyaṃ](gopanīyaṃ) [prayatnataḥ](prayatnataḥ)
+[by-your](tava) [devotion](bhaktyā) [by-me](mayā) [declared](ākhyātaṃ) [to-be-concealed](gopanīyaṃ) [with-effort](prayatnataḥ)
 
 ## mukta-m0-p155-v3869
-[dāsyasmi](dāsyasmi) [tava](tava) [bhaktāsmi](bhaktāsmi) [kṛtārthāsmi](kṛtārthāsmi) [jagat-prabho](jagatprabho)
+[servant](dāsyaḥ) [I-am](asmi) [your](tava) [devotee](bhaktaḥ) [I-am](asmi) [fulfilled](kṛta+arthaḥ) [I-am](asmi) [O-lord-of-the-world](jagat+prabho)
 
 ## mukta-m0-p155-v3870
-[bhavat-prasādāt](bhavatprasādād) [devyasmi](devyasmi) [kim](kim) [anyat](anyat) [kathayāmi](kathayāmi) [te](te)
+[by-your](bhavat) [grace](prasādāt) [goddess](devī) [I-am](asmi) [what](kim) [other](anyat) [shall-I-say](kathayāmi) [to-you](te)
 
 ## mukta-m0-p155-v3871
-[kaulānāṃ](kaulānāṃ) [siddhi-daṃ](siddhidaṃ) [vāmāt](vāmādgopanīyaṃ) [gopanīyaṃ](gopanīyaṃ) [sva-yoni-vat](svayonivat)
+[of-Kaulas](kaulānāṃ) [accomplishment](siddhi) [giving](dam) [from-the-left](vāmāt) [to-be-concealed](gopanīyaṃ) [like-one’s-own-womb](sva+yoni+vat)
 
 ## mukta-m0-p155-v3872
-[iti](iti) [śrī-rudra-yāmale](śrīrudrayāmale) [tantre](tantre) [daśa-vidyā-rahasye](daśavidyārahasye) [śrī-mahā-rājñī-stotram](śrīmahārājñīstotram)
+[thus](iti) [in-śrī-Rudrayāmala](śrī+rudra+yāmale) [tantra](tantre) [in-ten-vidyās-secret](daśa+vidyā+rahasye) [śrī-Mahārājñī-hymn](śrī+mahā+rājñī+stotram)
 
 ## mukta-m0-p155-v3873
-[candra-ardha-mukuṭaṃ](candrārdhamukuṭaṃ) [devaṃ](devaṃ) [soma-sūrya-agni-locanam](somasūryāgnilocanam)
+[crescent-moon](candra+ardha) [crowned](mukuṭaṃ) [god](devaṃ) [moon-sun-fire](soma+sūrya+agni) [eyed](locanam)
 
 ## mukta-m0-p155-v3874
-[gaṇa-gandharva-yakṣa-indra](gaṇagandharvayakṣendra) [deva-asura-namaskṛtam](devāsuranamaskṛtam)
+[by-gaṇas-gandharvas-yakṣa-lords](gaṇa+gandharva+yakṣa+indra) [gods-and-demons](deva+asura) [saluted](namaskṛtam)
 
 ## mukta-m0-p155-v3875
-[utthāya](utthāya) [praṇatā](praṇatā) [bhūtvā](bhūtvā) [cedaṃ](cedaṃ) [pṛcchati](pṛcchati) [bhairavī](bhairavī)
+[having-risen](utthāya) [bowed](praṇatā) [having-become](bhūtvā) [and-this](ca+idam) [asks](pṛcchati) [Bhairavī](bhairavī)
