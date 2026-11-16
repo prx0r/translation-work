@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p21-v501
-[rāma](rāma) [therefore](tasmāt)+[tu](tu) [good-company](satsaṅgaḥ) [root](mūlam) [all-auspicious-rise](sarvaśubhodaye)
+[o-rāma](rāma) [therefore+indeed](tasmāt+tu) [good-company](satsaṅgaḥ) [root](mūlaṃ) [in-all+auspicious+arising](sarva+śubha+udaye)
 
 ## mukta-m0-p21-v502
-[that](tat) [therefore](tasmāt)+[not](na)+[name-making](akaraṇāt)+[from-cause](hetoḥ)
+[that](tat) [therefore](tasmāt) [from-name+making+reason](nāma+karaṇāt+hetoḥ)
 
 ## mukta-m0-p21-v503
-[therefore](tasmāt) [company](saṅgaḥ) [supreme](param) [root](mūlam) [rāma](rāma) [know](jānīhi) [of-welfare](śreyasaḥ)
+[therefore](tasmāt) [company](saṅgaḥ) [supreme](paraṃ) [root](mūlaṃ) [o-rāma](rāma) [know](jānīhi) [of-welfare](śreyasaḥ)
 
 ## mukta-m0-p21-v504
-[concludes](upasaṃharati) [therefore](tasmāt)+[iti](iti)
+[concludes](upasaṃharati) [therefore+thus](tasmāt+iti)
 
 ## mukta-m0-p21-v505
-[glad-minded](prahṛṣṭamānasaḥ) [again](bhūyaḥ) [to-ask](praṣṭum)+[eva](eva)+[began](upacakrame)
+[with-delighted+mind](prahṛṣṭa+mānasaḥ) [again](bhūyaḥ) [to-ask+indeed](praṣṭum+eva) [began](upacakrame)
 
 ## mukta-m0-p21-v506
 [rāma](rāmaḥ) [having-heard](śrutvā)
 
 ## mukta-m0-p21-v507
-[good-company-form](satsaṅgarūpam)+[this](etat)+[ca](ca) [by-direct-perception](pratyakṣeṇa)+[eva](eva) [made-manifest](bhāvitam)
+[good-company+form+this+and](satsaṅga+rūpam+etat+ca) [by-direct-perception+indeed](pratyakṣeṇa+eva) [realized](bhāvitam)
 
 ## mukta-m0-p21-v508
-[made-manifest](bhāvitam)+[experienced](anubhūtam) [from-saṃvarta-company](saṃvartasaṅgāt)
+[realized](bhāvitam) [experienced](anubhūtaṃ) [from-saṃvarta+company](saṃvarta+saṅgāt)
 
 ## mukta-m0-p21-v509
-[women](striyaḥ)+[api](api) [of-hemalekhā](hemalekhāyāḥ) [from-company](saṅgāt) [all](sarve) [great-fruits](mahāphalāḥ)
+[women+also](striyaḥ+api) [of-hemalekhā](hemalekhāyāḥ) [from-company](saṅgāt) [all](sarve) [of-great+fruit](mahā+phalāḥ)
 
 ## mukta-m0-p21-v510
-[all](sarve) [viśāla-city-dwellers](viśālanagaravāsinaḥ)
+[all](sarve) [of-viśāla+city+dwellers](viśāla+nagara+vāsinaḥ)
 
 ## mukta-m0-p21-v511
-[instructed](bodhitaḥ)+[that](tat)+[me](mama)+[tell](ācakṣva) [in-detail](vistareṇa) [compassion-treasury](dayānidhe)
+[instructed](bodhitaḥ) [that+to-me](tat+mama) [tell](ācakṣva) [in-detail](vistareṇa) [o-ocean+of-compassion](dayā+nidhe)
 
 ## mukta-m0-p21-v512
-[listen](śṛṇu) [bhārgava](bhārgava) [i-will-speak](vakṣyāmi) [story](kathām) [supremely-purifying](paramapāvanīm)
+[listen](śṛṇu) [o-bhārgava](bhārgava) [i-shall-tell](vakṣyāmi) [story](kathāṃ) [supremely+purifying](parama+pāvanīm)
 
 ## mukta-m0-p21-v513
-[questioned](anuyuktaḥ) [asked](pṛṣṭaḥ) [from-removing-saṃsāra-fault](saṃsṛtidoṣaśāmakatvāt) [supremely-purifying](paramapāvanīm)
+[questioned](anuyuktaḥ) [asked](pṛṣṭaḥ) [due-to-worldly-existence+fault+pacifying+nature](saṃsṛti+doṣa+śāmaka+tvāt) [supremely+purifying](parama+pāvanīm)
 
 ## mukta-m0-p21-v514
-[among-them](teṣu) [born-dispassion](sañjātanirvedaḥ) [dejected](vimanā) [iva](iva) [appeared](saṃbabhau)
+[among-them](teṣu) [arisen+dispassion](sañjāta+nirvedaḥ) [dejected+mind](vimanāḥ) [as-if](iva) [became](saṃbabhau)
 
 ## mukta-m0-p21-v515
-[thus](evaṃ) [san](san) [dejected](vimanā) [iva](iva) [afflicted](khinna) [iva](iva)
+[thus](evaṃ) [being](san) [dejected+mind](vimanāḥ) [as-if](iva) [distressed](khinnaḥ) [as-if](iva)
 
 ## mukta-m0-p21-v516
-[to-abandon](tyaktuṃ) [vā](vā) [to-grasp](saṃgrahītuṃ)+[vā](vā) [not-could](nāśakat) [suddenly](sahasā) [hi](hi) [he](saḥ)
+[to-abandon](tyaktuṃ) [or](vā) [to-grasp](saṃgrahītum) [or](vā) [not+was-able](na+aśakat) [suddenly](sahasā) [indeed](hi) [he](saḥ)
 
 ## mukta-m0-p21-v517
-[of-dejection](vaimanasye) [reason](hetum)+[āha](āha) [long](cirā)+[iti](iti) [objects](viṣayān) [to-abandon](tyaktuṃ) [to-grasp](saṃgrahītuṃ) [to-enjoy](bhoktuṃ) [vā](vā)
+[of-dejection](vaimanasye) [reason+says](hetum+āha) [cira+thus](cira+iti) [sense-objects](viṣayān) [to-abandon](tyaktuṃ) [to-grasp](saṃgrahītum) [to-enjoy](bhoktum) [or](vā)
 
 ## mukta-m0-p21-v518
-[some](kāṃścit)+[ca](ca) [days](divasān)+[eva](eva)+[thus](anayat)+[thought-troubled](cintayākulaḥ)
+[some+and](kāṃścit+ca) [days](divasān) [thus](evam) [spent](anayat) [by-anxiety+troubled](cintayā+ākulaḥ)
 
 ## mukta-m0-p21-v519
-[of-renunciation-enjoyment](tyāgabhogayoḥ)+[unable](aśaktaḥ) [san](san)
+[in-abandonment+and-enjoyment](tyāga+bhogayoḥ) [unable](aśaktaḥ) [being](san)
 
 ## mukta-m0-p21-v520
-[blaming](vigarhan)+[eva](eva) [self](svātmānam) [enjoyed](bubhuje) [by-vasanā-force](vāsanāvaśaḥ)
+[censuring+indeed](vigarhan+eva) [own+self](sva+ātmānaṃ) [enjoyed](bubhuje) [by-latent-impressions+controlled](vāsanā+vaśaḥ)
 
 ## mukta-m0-p21-v521
-[why](kuto) [not](na) [avoids](pariharati) [that](tad)+[āha](āha) [by-vasanā-force](vāsanāvaśaḥ) [iti](iti)
+[why](kutaḥ) [not](na) [avoids](pariharati) [that+says](tat+āha) [by-latent-impressions+controlled](vāsanā+vaśaḥ) [thus](iti)
 
 ## mukta-m0-p21-v522
-[having-seen](dṛṣṭvā)+[eva](eva) [objects](viṣayān) [faults](doṣān) [by-beloved-spoken](priyāproktān) [reflecting](vicintayan)
+[having-seen+indeed](dṛṣṭvā+eva) [sense-objects](viṣayān) [faults](doṣān) [by-beloved+spoken](priyā+proktān) [reflecting-on](vicintayan)
 
 ## mukta-m0-p21-v523
-[follows](anugacchati) [object-nearness](viṣayasamīpam) [obtains](prāpnoti) [by-beloved-spoken](priyāproktān) [object-faults](viṣayadoṣān)
+[approaches](anugacchati) [sense-object+vicinity](viṣaya+samīpaṃ) [reaches](prāpnoti) [by-beloved+spoken](priyā+proktān) [sense-object+faults](viṣaya+doṣān)
 
 ## mukta-m0-p21-v524
-[thus](evaṃ) [his](tasya)+[became](abhavat)+[mind](cittam) [swinging-craddle-situated](caladdolāsthitaṃ) [yathā](yathā)
+[thus](evaṃ) [his](tasya) [became+mind](abhavat+cittam) [moving+swing+seated](calat+dolā+āsthitam) [as](yathā)
 
 ## mukta-m0-p21-v525
-[by-fault-remembrance](taddoṣasmṛtyā) [then](tataḥ) [rises](uccalati)
+[their+fault+by-remembrance](tat+doṣa+smṛtyā) [from-there](tataḥ) [rises-up](uccalati)

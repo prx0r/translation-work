@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p23-v551
-[thus](iti) [remainder](śeṣaḥ) [of-the-discourse](vākyasya) [is](astu)
+[thus](iti) [remainder](śeṣaḥ)
 
 ## mukta-m0-p23-v552
-[certainly](nūnam) [this-one](eṣa) [dispassion](sunirvedam) [has-attained](āgataḥ) [my](mad) [speech](vacaḥ) [by-hearing](śruteḥ)
+[certainly](nūnam) [this-one](eṣaḥ) [good+dispassion](su+nirvedam) [arrived](āgataḥ) [my+speech+hearing](mat+vacaḥ+śruteḥ)
 
 ## mukta-m0-p23-v553
-[own-mind](svamanasā) [said](abravīt) [by-hearing](śruteḥ) [hearing](śravaṇāt)
+[in+own+mind](sva+manasi) [spoke](abravīt) [from-hearing](śruteḥ) [from-listening](śravaṇāt)
 
 ## mukta-m0-p23-v554
-[in-whom](yeṣu) [welfare](śreyo) [indeed](hi) [impossible](asambhāvyaṃ) [those](te) [thus](evaṃ) [speech-garlands](vākyagumphanaiḥ)
+[in-whom](yeṣu) [welfare](śreyaḥ) [indeed](hi) [unimaginable](asambhāvyam) [they](te) [thus](evam) [by-speech+compositions](vākya+gumphanaiḥ)
 
 ## mukta-m0-p23-v555
-[garlands](gumphanaiḥ) [dense-assemblies](nibiḍasamudāyaiḥ) [by](iti) [means](arthaḥ)
+[by-compositions](gumphanaiḥ) [by-dense+collections](nibiḍa+samudāyaiḥ)
 
 ## mukta-m0-p23-v556
-[long](ciraṃ) [propitiated](saṃrādhitā) [heart-seated](hṛtsthā) [pleased](prasannā) [own-self-deity](svātmadevatā)
+[for-long](ciram) [well-propitiated](saṃrādhitā) [heart-abiding](hṛt+sthā) [pleased](prasannā) [own-self+goddess](sva+ātma+devatā)
 
 ## mukta-m0-p23-v557
-[if](cen) [root-cause](mūlakāraṇa) [absence](abhāvāt) [thus](iti) [says](āha) [long](ciraṃ) [iti](iti)
+[if](cet) [root+cause+absence](mūla+kāraṇa+abhāvāt) [thus](iti) [says](āha) [for-long](ciram) [thus](iti)
 
 ## mukta-m0-p23-v558
-[thus](ityā) [considering](ālocya) [very-wise](atividuṣī) [wishing-to-instruct](bubodhayiṣatī) [beloved](priyam)
+[thus](iti) [having-reflected](ālocya) [very-wise-woman](ati+viduṣī) [wishing-to-instruct](bubodhayiṣatī) [beloved](priyam)
 
 ## mukta-m0-p23-v559
-[of-all](sarveṣām) [this](iyam) [state](sthitir) [iti](iti) [meaning](bhāvaḥ)
+[of-all](sarveṣām) [this](iyam) [condition](sthitiḥ) [thus](iti) [meaning](bhāvaḥ)
 
 ## mukta-m0-p23-v560
-[hear](śṛṇu) [prince](rājakumāra) [this](idam) [what](yan) [my](me) [deed](vṛttaṃ) [ancient](purātanam)
+[listen](śṛṇu) [prince](rāja+kumāra) [this](idam) [which](yat) [of-me](me) [occurred](vṛttam) [ancient](purātanam)
 
 ## mukta-m0-p23-v561
-[bahu-vrīhi-embedded](bahubrīhigarbhitaṃ) [sentence](vākyam) [bondage](bandhasya) [beginningless](anādikālika) [tva](tvāt) [meaning](ityarthaḥ)
+[bahuvrīhi+containing](bahubrīhi+garbhitam) [sentence](vākyam) [of-bondage](bandhasya) [beginningless+temporality](anādi+kālikatvāt) [thus](iti) [meaning](arthaḥ)
 
 ## mukta-m0-p23-v562
-[she](sā) [own-nature-existing](svabhāvasatī) [some](kāñcid) [non-existent](asatīm) [attached](anusaṅgatā)
+[she](sā) [by-nature+virtuous](svabhāva+satī) [some](kāñcit) [unvirtuous-woman](asatīm) [followed](anusaṅgatā)
 
 ## mukta-m0-p23-v563
-[sā](sā) [0-28](0-28) [iti](iti) [in-both-alternatives](pakṣadvaye) [also](api) [non-existent](asatī) [thus](iti) [of-non-existent-nature](asatyātmakatvāt) [to-be-known](jñeyam)
+[she](sā) [thus](iti) [in-both+views](pakṣa+dvaye) [also](api) [unvirtuous](asatī) [thus](iti) [of-unreal+nature](asatya+ātmakatvāt) [to-be-known](jñeyam)
 
 ## mukta-m0-p23-v564
-[unperceived](alakṣitā) [by-me](me) [by-mother](jananyā) [friendship](sakhyā) [by-me](me) [associated](saṅgatā) [became](abhavat)
+[unnoticed](alakṣitā) [by-me](me) [by-mother](jananyā) [with-friend](sakhyā) [by-me](me) [association](saṅgatā) [became](abhavat)
 
 ## mukta-m0-p23-v565
-[pure-consciousness](śuddhacid) [not-object](aviṣayakatvāt) [unperceived](alakṣitā) [iti](iti) [to-be-known](jñeyam)
+[pure+consciousness+objectness](śuddha+cit+aviṣayakatvāt) [unnoticed](alakṣitā) [thus](iti) [to-be-known](jñeyam)
 
 ## mukta-m0-p23-v566
-[than-breaths](prāṇebhyo) [more-beloved](priyatamā) [always](sadā) [her-control](tadvaśagā) [indeed](hi) [I](aham)
+[than-life-breaths](prāṇebhyaḥ) [even](api) [more-dear](priya+tamā) [always](sadā) [to-her+submissive](tat+vaśagā) [indeed](hi) [I](aham)
 
 ## mukta-m0-p23-v567
-[therefore](atas) [her-control](tadvaśagā) [I](aham) [became](abhavam) [mutual-identity-superimposition](parasparatādātmyādhyāsāt)
+[therefore](ataḥ) [to-her+submissive](tat+vaśagā) [I](aham) [became](abhavam) [mutual+identity+superimposition](paraspara+tādātmya+adhyāsāt)
 
 ## mukta-m0-p23-v568
-[she](sā) [pure-nature](nirmalasvabhāvena) [me](māṃ) [subduing](vaśīkṛtya) [stood](saṃsthitā)
+[she](sā) [by-pure+nature](nirmala+svabhāvena) [me](mām) [having-subjugated](vaśīkṛtya) [remained](saṃsthitā)
 
 ## mukta-m0-p23-v569
-[fitting](yuktam) [indeed](eva) [iti](iti) [meaning](bhāvaḥ)
+[fitting](yuktam) [indeed](eva) [thus](iti) [meaning](bhāvaḥ)
 
 ## mukta-m0-p23-v570
-[she](sā) [by-that](tayā) [wicked](duṣṭayā) [united](yuktā) [actress](naṭyā) [variegated-nature](citrasvabhāvayā)
+[she](sā) [by-that](tayā) [wicked](duṣṭayā) [united](yuktā) [by-actress](naṭyā) [of-variegated+nature](citra+svabhāvayā)
 
 ## mukta-m0-p23-v571
-[own-form](svarūpaṃ) [whose](yasyāḥ) [own-play-display](svalīlāpradarśanena) [object-stealing](arthaharatvāt) [actress](naṭī) [iti](iti)
+[own-form](sva+rūpam) [of-whom](yasyāḥ) [by-own+play+display](sva+līlā+pradarśanena) [wealth+stealing](artha+haratvāt) [actress](naṭī) [thus](iti)
 
 ## mukta-m0-p23-v572
-[her](tasyāḥ) [son](putraḥ) [very-deluded-self](atimūḍhātmā) [wine-reeling-eyed](madirāghūrṇitekṣaṇaḥ)
+[of-her](tasyāḥ) [son](putraḥ) [very+deluded+soul](ati+mūḍha+ātmā) [by-liquor+rolling+eyes](madirā+ghūrṇita+īkṣaṇaḥ)
 
 ## mukta-m0-p23-v573
-[she](sā) [by-him](tena) [overcome-all-limbs](ākrāntasarvāṅgī) [being-enjoyed](bhujyamānā) [daily](anuvāsaram)
+[she](sā) [by-him](tena) [overpowered+all+limbs](ākrānta+sarva+aṅgī) [being-enjoyed+day-by-day](bhujyamāna+anuvāsaram)
 
 ## mukta-m0-p23-v574
-[purpose](tātparyam) [she](sā) [intellect](buddhiḥ) [by-him](tena) [delusion](mohena)
+[purport](tātparyam) [she](sā) [intellect](buddhiḥ) [by-him](tena) [by-delusion](mohena)
 
 ## mukta-m0-p23-v575
-[then](tataḥ) [son](putraḥ) [arose](samutpanno) [of-deluded](mūḍhasya) [similar-form](sadṛśākṛtiḥ)
+[then](tataḥ) [son](putraḥ) [was-born](samutpannaḥ) [of-deluded-one](mūḍhasya) [similar+form](sadṛśa+ākṛtiḥ)

@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p26-v626
-[cold-touch](śītasparśāni) [things](vastūni) [thus](tathā) [hot-touch](uṣṇasparśakāni) [and](ca)
+[cold-touch](śīta+sparśāni) [things](vastūni) [and-likewise](tathā) [hot-touch-ones](uṣṇa+sparśakāni) [and](ca)
 
 ## mukta-m0-p26-v627
-[beneficial](hitān) [seeing](dṛṣṭvā) [delighted](pramuditaḥ) [dejected](viṣaṇṇaḥ) [but](tu) [non-beneficial](ahitān) [also](api)
+[beneficial](hitān) [having-seen](dṛṣṭvā) [delighted](pramuditaḥ) [but-dejected](viṣaṇṇaḥ+tu) [harmful-also](ahitān+api)
 
 ## mukta-m0-p26-v628
-[saw](apaśyat) [beautiful-form](rucirākārān) [states](bhāvān) [various-color](vividhavarṇakān)
+[saw](apaśyat) [beautiful-forms](rucira+ākārān) [objects](bhāvān) [various-colored](vividha+varṇakān)
 
 ## mukta-m0-p26-v629
 [third](tṛtīyaḥ) [eye](cakṣuḥ)
 
 ## mukta-m0-p26-v630
-[smoky](dhūmrān) [brown](kaḍārān) [tawny](kapiśān) [dark](mecakān) [spotted](karburān) [thus](tathā)
+[smoky](dhūmrān) [tawny](kaḍārān) [brownish](kapiśān) [dark](mecakān) [variegated](karburān) [and-likewise](tathā)
 
 ## mukta-m0-p26-v631
-[half-round](arddhavṛttān) [long-round](dīrghavṛttān) [beautiful](sundarān) [and](ca) [frightful](vibhīṣaṇān)
+[half-round](arddha+vṛttān) [long-round](dīrgha+vṛttān) [beautiful](sundarān) [and](ca) [terrifying](vibhīṣaṇān)
 
 ## mukta-m0-p26-v632
-[of-eye](netrasya) [forms](rūpāṇi) [innumerable](aparimāṇādi) [objects](viṣayatvāt) [says](āha) [gross](sthūlān) [etc](ityādi)
+[of-eye](netrasya) [forms](rūpāṇi) [unlimited-etc-objectness-because](aparimāṇa+ādi+viṣayatvāt) [says](āha) [gross-etc](sthūlān+iti+ādi)
 
 ## mukta-m0-p26-v633
-[somewhere](kvacit) [beneficial](hitam) [then](tataḥ) [other](anyat) [ca](ca) [seeing](paśyantam) [father](pitaram) [again](punaḥ)
+[sometimes](kvacit) [beneficial](hitam) [then](tataḥ) [another](anyat) [and](ca) [seeing](paśyantam) [father](pitaram) [again](punaḥ)
 
 ## mukta-m0-p26-v634
-[without-light](anālokān) [darkness](andhakārān) [what-kind](kīdṛśān) [sight-stealing](dṛṅmuṣaḥ)
+[lightless](an+ālokān) [darknesses](andhakārān) [of-what-kind](kīdṛśān) [eye-stealing](dṛk+muṣaḥ)
 
 ## mukta-m0-p26-v635
-[gradually](kramāt)
+[in-sequence](kramāt)
 
 ## mukta-m0-p26-v636
-[fourth](turyaḥ) [taste-sense](rāsanam) [taste-inferred](rasānumitam) [flower](puṣpādi) [knowable](jñeyam)
+[fourth](turyaḥ) [tongue](rāsanam) [taste-inferred](rasa+anumitam) [flower-etc](puṣpa+ādi) [to-be-known](jñeyam)
 
 ## mukta-m0-p26-v637
-[nectar-sweet](sudhāsvādūni) [sweet](madhurāṇi) [others](anyāni) [sour-taste](amlarasāni) [and](ca)
+[nectar-tasting](sudhā+āsvādūni) [sweet](madhurāṇi) [others](anyāni) [sour-tasting](amla+rasāni) [and](ca)
 
 ## mukta-m0-p26-v638
-[alkaline](kṣārāṇi) [sweet-sour](madhurāmlāni) [pungent-sour-salty](kaṭvamlalavaṇāni) [and](ca)
+[salty](kṣārāṇi) [sweet-sour](madhura+amlāni) [pungent-sour-salty](kaṭu+amla+lavaṇāni) [and](ca)
 
 ## mukta-m0-p26-v639
-[sweet-sour](madhurāmlāni) [etc](ityādi) [mixed-taste](miśrarasaḥ)
+[sweet-sour-etc](madhura+amlāni+iti+ādi) [mixed-taste](miśra+rasaḥ)
 
 ## mukta-m0-p26-v640
-[tasting](āsvādayan) [with-own](ātmajena) [joined](sametaḥ) [then](atha) [last](antimaḥ) [son](sutaḥ)
+[tasting](āsvādayan) [with-son](ātmajena) [accompanied](sametaḥ) [then](atha) [last](antimaḥ) [son](sutaḥ)
 
 ## mukta-m0-p26-v641
-[last](antimaḥ) [smell-sense](ghrāṇam)
+[last](antimaḥ) [nose](ghrāṇam)
 
 ## mukta-m0-p26-v642
-[there](tatra) [obtained](upālabhata) [many-flowers](anekapuṣpāṇi) [and](ca) [fruits](phalāni) [and](ca)
+[there](tatra) [perceived](upālabhata) [many-flowers](aneka+puṣpāṇi) [and](ca) [fruits](phalāni) [and](ca)
 
 ## mukta-m0-p26-v643
-[fragrant](sugandhān) [foul-smelling](pūtigandhān) [and](ca) [soft-scent](mṛdugandha) [strong-scent](ugragandhakān)
+[fragrant](su+gandhān) [foul-smelling](pūti+gandhān) [and](ca) [mild-smelling-strong-smelling](mṛdu+gandha+ugra+gandhakān)
 
 ## mukta-m0-p26-v644
-[states](bhāvān) [objects](arthān) [those](tān) [indeed](eva) [says](āha) [fragrant](sugandhān) [etc](ityādi)
+[objects](bhāvān) [things](arthān) [them](tān) [indeed](eva) [says](āha) [fragrant-etc](su+gandhān+iti+ādi)
 
 ## mukta-m0-p26-v645
-[of-sons](putrāṇām) [in-house](bhavane) [and](ca) [thus](evam) [entering](praviśan) [settling](niviśan) [also](api)
+[of-sons](putrāṇām) [in-house](bhavane) [and](ca) [thus](evam) [entering](praviśan) [dwelling](niviśan) [also](api)
 
 ## mukta-m0-p26-v646
-[delusion-causing](mohajanakaḥ) [delusion-scent](mohagandhaḥ) [thus](evam) [ahead](agre) [also](api)
+[delusion-producing](moha+janakaḥ) [delusion-smell](moha+gandhaḥ) [thus](evam) [ahead](agre) [also](api)
 
 ## mukta-m0-p26-v647
-[always](sadā) [coming-going](gamāgamaparaḥ) [of-sons](putrāṇām) [in-house](bhavane) [shone](babhau)
+[always](sadā) [intent-on-going-and-coming](gama+āgama+paraḥ) [of-sons](putrāṇām) [in-house](bhavane) [shone](babhau)
 
 ## mukta-m0-p26-v648
-[touch](spṛśanti) [objects](viṣayān) [various](citrān) [little](svalpam) [or](vā) [api](api) [sometimes](kadācana)
+[touch](spṛśanti) [objects](viṣayān) [various](citrān) [little](svalpam) [or](vā) [also](api) [sometimes](kadācana)
 
 ## mukta-m0-p26-v649
-[state](bhāvaḥ)
+[object](bhāvaḥ)
 
 ## mukta-m0-p26-v650
-[stealing](muṣitvā) [others](anyān) [and](ca) [objects](viṣayān) [by-secrecy](guptyā) [leads](nayati) [own](svam) [place](padam)
+[having-stolen](muṣitvā) [other](anyān) [and](ca) [objects](viṣayān) [secretly](guptyā) [leads](nayati) [own](svam) [place](padam)

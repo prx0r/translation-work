@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p20-v476
-sarvathā(in-every-way) nātra(not-here) sandehaḥ(doubt) sarvaiḥ(by-all) eva(indeed) vibhāvitaḥ(manifested)
+[in-every-way](sarvathā) [not](na) [here](atra) [doubt](sandehaḥ) [by-all](sarvaiḥ) [indeed](eva) [ascertained](vibhāvitaḥ)
 
 ## mukta-m0-p20-v477
-pariṇāma(transformation)+svabhāvam(nature) eva(indeed) āha(says) bhakṣita(eaten) iti(thus)
+[transformation](pariṇāma) [nature](svabhāvam) [indeed](eva) [says](āha) [having-been-eaten](bhakṣita) [thus](iti)
 
 ## mukta-m0-p20-v478
-iti(thus) uktaḥ(spoken) hemacūḍaḥ(hemacūḍa) atha(then) vairasyam(aversion) viṣaye(in-objects) vidan(knowing)
+[thus](iti) [addressed](uktaḥ) [Hemacūḍa](hemacūḍaḥ) [then](atha) [dispassion](vairasyam) [toward-objects](viṣaye) [knowing](vidan)
 
 ## mukta-m0-p20-v479
-vicārya(considering) bhūyaḥ(again) tat(that) sarvam(all) yat(what) uktam(said) hemalekhayā(by-hemalekhā)
+[having-reflected](vicārya) [again](bhūyaḥ) [that](tat) [all](sarvam) [which](yat) [spoken](uktam) [by-Hemalekhā](hemalekhayā)
 
 ## mukta-m0-p20-v480
-apūrvam(unprecedented) kadā(ever) api(even) aśrutam(unheard)
+[unprecedented](apūrvam) [ever](kadāpi) [unheard](aśrutam)
 
 ## mukta-m0-p20-v481
-atha(then) krameṇa(in-order) pṛṣṭvā(asking) tām(her) priyām(beloved) jñātvā(knowing) ca(and) tat(that) padam(state)
+[then](atha) [gradually](krameṇa) [having-questioned](pṛṣṭvā) [her](tām) [beloved](priyām) [having-known](jñātvā) [and](ca) [that](tat) [state](padam)
 
 ## mukta-m0-p20-v482
-jātaḥ(born) nirvedaḥ(disgust) alam(enough)+buddhiḥ(intellect) yasya(whose) param(supreme) tīvram(intense) tat(that) padam(state) ātma(self)+padam(state)
+[born](jātaḥ) [dispassion](nirvedaḥ) [sufficient](alam) [cognition](buddhiḥ) [whose](yasya) [supreme](param) [intense](tīvram) [that](tat) [state](padam) [self](ātma) [state](padam)
 
 ## mukta-m0-p20-v483
-budhvā(having-known) abhavat(became) vimuktātmā(liberated-self) svātma(self)+bhūta(become)+akhila(all)+īkṣaṇaḥ(perception)
+[having-awakened](budhvā) [became](abhavat) [liberated](vimukta) [self](ātmā) [self](sva) [become](ātmabhūta) [all](akhila) [perception](īkṣaṇaḥ)
 
 ## mukta-m0-p20-v484
-svātma(self)+bhūtam(become) akhila(all)+īkṣaṇam(perception) yasya(whose)
+[self](sva) [become](ātmabhūtam) [all](akhila) [perception](īkṣaṇam) [whose](yasya)
 
 ## mukta-m0-p20-v485
-maṇicūḍaḥ(maṇicūḍa) avidat(knew) bhrātuḥ(brother's) muktācūḍaḥ(muktācūḍa) api(also) putrataḥ(from-son)
+[Maṇicūḍa](maṇicūḍaḥ) [knew](avidat) [of-brother](bhrātuḥ) [Muktācūḍa](muktācūḍaḥ) [also](api) [from-son](putrataḥ)
 
 ## mukta-m0-p20-v486
-mantriṇaḥ(ministers) ca(and) api(also) paurāḥ(citizens) ca(and) babhūvuḥ(became) jñāna(knowledge)+śālinaḥ(possessing)
+[ministers](mantriṇaḥ) [and](ca) [also](api) [citizens](paurāḥ) [and](ca) [became](babhūvuḥ) [knowledge](jñāna) [possessing](śālinaḥ)
 
 ## mukta-m0-p20-v487
-paraspara(mutual)+upadeśena(instruction) jñāna(knowledge)+śālinaḥ(possessing)
+[mutual](paraspara) [instruction](upadeśena) [knowledge](jñāna) [possessing](śālinaḥ)
 
 ## mukta-m0-p20-v488
-āsīt(was) brahma(brahma)+pura(city)+prakhyam(like) śānta(peaceful)+saṃsṛti(transmigration)+vāsanam(impression)
+[became](āsīt) [Brahma](brahma) [city](pura) [resembling](prakhyam) [calmed](śānta) [transmigration](saṃsṛti) [abode](vāsanam)
 
 ## mukta-m0-p20-v489
-brahma(brahma)+pura(city)+prakhyam(like) satya(truth)+loka(world)+tulyam(equal) saṃsṛteḥ(transmigration's) vāsanā(impression) kāma(desire)+krodha(anger)+ādi(etc)
+[Brahma](brahma) [city](pura) [resembling](prakhyam) [truth](satya) [world](loka) [equal](tulyam) [transmigration](saṃsṛteḥ) [latent-impression](vāsanā) [desire](kāma) [anger](krodha) [etc.](ādi)
 
 ## mukta-m0-p20-v490
-yatra(where) kīrāḥ(parrots) śārikāḥ(mynahs) ca(and) pañjara(cage)+sthāḥ(dwelling) paṭhanti(recite) vai(indeed)
+[where](yatra) [parrots](kīrāḥ) [mynas](śārikāḥ) [and](ca) [cage](pañjara) [situated](sthāḥ) [recite](paṭhanti) [indeed](vai)
 
 ## mukta-m0-p20-v491
-aty(supreme)+uttamatve(excellence) hetuḥ(cause) yatra(where) iti(thus)
+[in-supreme-excellence](ati+uttamatve) [reason](hetuḥ) [where](yatra) [thus](iti)
 
 ## mukta-m0-p20-v492
-nāsti(not-is) cet(consciousness)+yam(object) citer(consciousness's) anyat(other) darpaṇa(mirror)+pratibimba(reflection)+vat(like)
+[not](na) [exists](asti) [object-of-consciousness](cetyam) [from-consciousness](citeḥ) [other](anyat) [mirror](darpaṇa) [reflection](pratibimba) [like](vat)
 
 ## mukta-m0-p20-v493
-tasmāt(therefore) pratibimba(reflection)+vidhayā(manner) eva(only) dṛśya(visible)+avabhāsanam(manifestation) iti(thus)
+[therefore](tasmāt) [reflection](pratibimba) [manner](vidhayā) [indeed](eva) [visible](dṛśya) [appearance](avabhāsanam) [thus](iti)
 
 ## mukta-m0-p20-v494
-yataḥ(because) sarvam(all) citim(consciousness) anu(following) bhāti(shines) sā(she) tu(but) svatantrataḥ(independently)
+[because](yataḥ) [all](sarvam) [consciousness](citim) [after](anu) [shines](bhāti) [she](sā) [but](tu) [by-independence](svatantrataḥ)
 
 ## mukta-m0-p20-v495
-svatantra(independent)+prakāśattvam(luminosity) eva(indeed) cittvam(consciousness-ness) iti(thus) bhāvaḥ(meaning)
+[independent](svatantra) [luminosity](prakāśattvam) [indeed](eva) [consciousness-ness](cittvam) [thus](iti) [meaning](bhāvaḥ)
 
 ## mukta-m0-p20-v496
-bhajadhvam(worship) bhrāntim(delusion) utsṛjya(abandoning) citi(consciousness)+mātra(only)+sudṛṣṭayaḥ(good-seers)
+[worship](bhajadhvam) [delusion](bhrāntim) [having-abandoned](utsṛjya) [consciousness](citi) [alone](mātra) [true](su) [vision](dṛṣṭayaḥ)
 
 ## mukta-m0-p20-v497
-sudṛṣṭiḥ(good-vision) satya(true)+dṛṣṭiḥ(vision) sarvam(all) jñānam(knowledge) dharmiṇy(in-substratum) abhrāntam(unerring) iti(thus) nyāyāt(by-reason)
+[true-vision](su+dṛṣṭiḥ) [true](satya) [vision](dṛṣṭiḥ) [all](sarvam) [knowledge](jñānam) [in-substrate](dharmiṇi) [non-erroneous](abhrāntam) [thus](iti) [by-principle](nyāyāt)
 
 ## mukta-m0-p20-v498
-brāhmaṇāḥ(brahmins) vāmadeva(vāmadeva)+ādyāḥ(etc) nāma(name) ācakhyuḥ(declared) purasya(of-city) tu(but)
+[brahmins](brāhmaṇāḥ) [Vāmadeva](vāmadeva) [and-others](ādyāḥ) [name](nāma) [declared](ācakhyuḥ) [of-city](purasya) [indeed](tu)
 
 ## mukta-m0-p20-v499
-mahataḥ(great) mokṣasya(liberation's) udayaḥ(rise) yasmāt(because)
+[of-great](mahataḥ) [liberation](mokṣasya) [arising](udayaḥ) [from-which](yasmāt)
 
 ## mukta-m0-p20-v500
-prasiddha(famous)+vidyā(knowledge)+nagaram(city) iti(thus) nāmnā(by-name) prasiddhyatu(may-become-famous)
+[famous](prasiddha) [knowledge](vidyā) [city](nagaram) [thus](iti) [by-name](nāmnā) [let-it-be-renowned](prasiddhyatu)

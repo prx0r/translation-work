@@ -7,7 +7,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "śītasparśāni",
+"surface": "śīta+sparśāni",
 "quick_gloss": "cold-touch"
 },
 {
@@ -16,11 +16,11 @@
 },
 {
 "surface": "tathā",
-"quick_gloss": "thus"
+"quick_gloss": "and-likewise"
 },
 {
-"surface": "uṣṇasparśakāni",
-"quick_gloss": "hot-touch"
+"surface": "uṣṇa+sparśakāni",
+"quick_gloss": "hot-touch-ones"
 },
 {
 "surface": "ca",
@@ -41,27 +41,19 @@
 },
 {
 "surface": "dṛṣṭvā",
-"quick_gloss": "seeing"
+"quick_gloss": "having-seen"
 },
 {
 "surface": "pramuditaḥ",
 "quick_gloss": "delighted"
 },
 {
-"surface": "viṣaṇṇaḥ",
-"quick_gloss": "dejected"
+"surface": "viṣaṇṇaḥ+tu",
+"quick_gloss": "but-dejected"
 },
 {
-"surface": "tu",
-"quick_gloss": "but"
-},
-{
-"surface": "ahitān",
-"quick_gloss": "non-beneficial"
-},
-{
-"surface": "api",
-"quick_gloss": "also"
+"surface": "ahitān+api",
+"quick_gloss": "harmful-also"
 }
 ]
 },
@@ -77,16 +69,16 @@
 "quick_gloss": "saw"
 },
 {
-"surface": "rucirākārān",
-"quick_gloss": "beautiful-form"
+"surface": "rucira+ākārān",
+"quick_gloss": "beautiful-forms"
 },
 {
 "surface": "bhāvān",
-"quick_gloss": "states"
+"quick_gloss": "objects"
 },
 {
-"surface": "vividhavarṇakān",
-"quick_gloss": "various-color"
+"surface": "vividha+varṇakān",
+"quick_gloss": "various-colored"
 }
 ]
 },
@@ -120,11 +112,11 @@
 },
 {
 "surface": "kaḍārān",
-"quick_gloss": "brown"
+"quick_gloss": "tawny"
 },
 {
 "surface": "kapiśān",
-"quick_gloss": "tawny"
+"quick_gloss": "brownish"
 },
 {
 "surface": "mecakān",
@@ -132,11 +124,11 @@
 },
 {
 "surface": "karburān",
-"quick_gloss": "spotted"
+"quick_gloss": "variegated"
 },
 {
 "surface": "tathā",
-"quick_gloss": "thus"
+"quick_gloss": "and-likewise"
 }
 ]
 },
@@ -148,11 +140,11 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "arddhavṛttān",
+"surface": "arddha+vṛttān",
 "quick_gloss": "half-round"
 },
 {
-"surface": "dīrghavṛttān",
+"surface": "dīrgha+vṛttān",
 "quick_gloss": "long-round"
 },
 {
@@ -165,7 +157,7 @@
 },
 {
 "surface": "vibhīṣaṇān",
-"quick_gloss": "frightful"
+"quick_gloss": "terrifying"
 }
 ]
 },
@@ -185,24 +177,16 @@
 "quick_gloss": "forms"
 },
 {
-"surface": "aparimāṇādi",
-"quick_gloss": "innumerable"
-},
-{
-"surface": "viṣayatvāt",
-"quick_gloss": "objects"
+"surface": "aparimāṇa+ādi+viṣayatvāt",
+"quick_gloss": "unlimited-etc-objectness-because"
 },
 {
 "surface": "āha",
 "quick_gloss": "says"
 },
 {
-"surface": "sthūlān",
-"quick_gloss": "gross"
-},
-{
-"surface": "ityādi",
-"quick_gloss": "etc"
+"surface": "sthūlān+iti+ādi",
+"quick_gloss": "gross-etc"
 }
 ]
 },
@@ -215,7 +199,7 @@
 "tokens": [
 {
 "surface": "kvacit",
-"quick_gloss": "somewhere"
+"quick_gloss": "sometimes"
 },
 {
 "surface": "hitam",
@@ -227,11 +211,11 @@
 },
 {
 "surface": "anyat",
-"quick_gloss": "other"
+"quick_gloss": "another"
 },
 {
 "surface": "ca",
-"quick_gloss": "ca"
+"quick_gloss": "and"
 },
 {
 "surface": "paśyantam",
@@ -255,20 +239,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "anālokān",
-"quick_gloss": "without-light"
+"surface": "an+ālokān",
+"quick_gloss": "lightless"
 },
 {
 "surface": "andhakārān",
-"quick_gloss": "darkness"
+"quick_gloss": "darknesses"
 },
 {
 "surface": "kīdṛśān",
-"quick_gloss": "what-kind"
+"quick_gloss": "of-what-kind"
 },
 {
-"surface": "dṛṅmuṣaḥ",
-"quick_gloss": "sight-stealing"
+"surface": "dṛk+muṣaḥ",
+"quick_gloss": "eye-stealing"
 }
 ]
 },
@@ -281,7 +265,7 @@
 "tokens": [
 {
 "surface": "kramāt",
-"quick_gloss": "gradually"
+"quick_gloss": "in-sequence"
 }
 ]
 },
@@ -298,19 +282,19 @@
 },
 {
 "surface": "rāsanam",
-"quick_gloss": "taste-sense"
+"quick_gloss": "tongue"
 },
 {
-"surface": "rasānumitam",
+"surface": "rasa+anumitam",
 "quick_gloss": "taste-inferred"
 },
 {
-"surface": "puṣpādi",
-"quick_gloss": "flower"
+"surface": "puṣpa+ādi",
+"quick_gloss": "flower-etc"
 },
 {
 "surface": "jñeyam",
-"quick_gloss": "knowable"
+"quick_gloss": "to-be-known"
 }
 ]
 },
@@ -322,8 +306,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "sudhāsvādūni",
-"quick_gloss": "nectar-sweet"
+"surface": "sudhā+āsvādūni",
+"quick_gloss": "nectar-tasting"
 },
 {
 "surface": "madhurāṇi",
@@ -334,8 +318,8 @@
 "quick_gloss": "others"
 },
 {
-"surface": "amlarasāni",
-"quick_gloss": "sour-taste"
+"surface": "amla+rasāni",
+"quick_gloss": "sour-tasting"
 },
 {
 "surface": "ca",
@@ -352,14 +336,14 @@
 "tokens": [
 {
 "surface": "kṣārāṇi",
-"quick_gloss": "alkaline"
+"quick_gloss": "salty"
 },
 {
-"surface": "madhurāmlāni",
+"surface": "madhura+amlāni",
 "quick_gloss": "sweet-sour"
 },
 {
-"surface": "kaṭvamlalavaṇāni",
+"surface": "kaṭu+amla+lavaṇāni",
 "quick_gloss": "pungent-sour-salty"
 },
 {
@@ -376,15 +360,11 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "madhurāmlāni",
-"quick_gloss": "sweet-sour"
+"surface": "madhura+amlāni+iti+ādi",
+"quick_gloss": "sweet-sour-etc"
 },
 {
-"surface": "ityādi",
-"quick_gloss": "etc"
-},
-{
-"surface": "miśrarasaḥ",
+"surface": "miśra+rasaḥ",
 "quick_gloss": "mixed-taste"
 }
 ]
@@ -402,11 +382,11 @@
 },
 {
 "surface": "ātmajena",
-"quick_gloss": "with-own"
+"quick_gloss": "with-son"
 },
 {
 "surface": "sametaḥ",
-"quick_gloss": "joined"
+"quick_gloss": "accompanied"
 },
 {
 "surface": "atha",
@@ -435,7 +415,7 @@
 },
 {
 "surface": "ghrāṇam",
-"quick_gloss": "smell-sense"
+"quick_gloss": "nose"
 }
 ]
 },
@@ -452,10 +432,10 @@
 },
 {
 "surface": "upālabhata",
-"quick_gloss": "obtained"
+"quick_gloss": "perceived"
 },
 {
-"surface": "anekapuṣpāṇi",
+"surface": "aneka+puṣpāṇi",
 "quick_gloss": "many-flowers"
 },
 {
@@ -480,11 +460,11 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "sugandhān",
+"surface": "su+gandhān",
 "quick_gloss": "fragrant"
 },
 {
-"surface": "pūtigandhān",
+"surface": "pūti+gandhān",
 "quick_gloss": "foul-smelling"
 },
 {
@@ -492,12 +472,8 @@
 "quick_gloss": "and"
 },
 {
-"surface": "mṛdugandha",
-"quick_gloss": "soft-scent"
-},
-{
-"surface": "ugragandhakān",
-"quick_gloss": "strong-scent"
+"surface": "mṛdu+gandha+ugra+gandhakān",
+"quick_gloss": "mild-smelling-strong-smelling"
 }
 ]
 },
@@ -510,15 +486,15 @@
 "tokens": [
 {
 "surface": "bhāvān",
-"quick_gloss": "states"
-},
-{
-"surface": "arthān",
 "quick_gloss": "objects"
 },
 {
+"surface": "arthān",
+"quick_gloss": "things"
+},
+{
 "surface": "tān",
-"quick_gloss": "those"
+"quick_gloss": "them"
 },
 {
 "surface": "eva",
@@ -529,12 +505,8 @@
 "quick_gloss": "says"
 },
 {
-"surface": "sugandhān",
-"quick_gloss": "fragrant"
-},
-{
-"surface": "ityādi",
-"quick_gloss": "etc"
+"surface": "su+gandhān+iti+ādi",
+"quick_gloss": "fragrant-etc"
 }
 ]
 },
@@ -567,7 +539,7 @@
 },
 {
 "surface": "niviśan",
-"quick_gloss": "settling"
+"quick_gloss": "dwelling"
 },
 {
 "surface": "api",
@@ -583,12 +555,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "mohajanakaḥ",
-"quick_gloss": "delusion-causing"
+"surface": "moha+janakaḥ",
+"quick_gloss": "delusion-producing"
 },
 {
-"surface": "mohagandhaḥ",
-"quick_gloss": "delusion-scent"
+"surface": "moha+gandhaḥ",
+"quick_gloss": "delusion-smell"
 },
 {
 "surface": "evam",
@@ -616,8 +588,8 @@
 "quick_gloss": "always"
 },
 {
-"surface": "gamāgamaparaḥ",
-"quick_gloss": "coming-going"
+"surface": "gama+āgama+paraḥ",
+"quick_gloss": "intent-on-going-and-coming"
 },
 {
 "surface": "putrāṇām",
@@ -662,7 +634,7 @@
 },
 {
 "surface": "api",
-"quick_gloss": "api"
+"quick_gloss": "also"
 },
 {
 "surface": "kadācana",
@@ -679,7 +651,7 @@
 "tokens": [
 {
 "surface": "bhāvaḥ",
-"quick_gloss": "state"
+"quick_gloss": "object"
 }
 ]
 },
@@ -692,11 +664,11 @@
 "tokens": [
 {
 "surface": "muṣitvā",
-"quick_gloss": "stealing"
+"quick_gloss": "having-stolen"
 },
 {
 "surface": "anyān",
-"quick_gloss": "others"
+"quick_gloss": "other"
 },
 {
 "surface": "ca",
@@ -708,7 +680,7 @@
 },
 {
 "surface": "guptyā",
-"quick_gloss": "by-secrecy"
+"quick_gloss": "secretly"
 },
 {
 "surface": "nayati",
