@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p43-v1051
-[vitavalīṃ](vitavalīṃ) [māṣudhvīgaucate](māṣudhvīgaucate)
+[garland-of-vines](vitavalīṃ) [māṣu+dhvī](māṣudhvī) [shines](gaucate)
 
 ## mukta-m0-p43-v1052
-[sarvatra](sarvatra) [vaiparītye](vaiparītye) [utpāte](utpāte) [trividhe](trividhe) [divyāntarikṣabhaumatvena](divyāntarikṣa+bhaumatvena) [prokte](prokte)
+[everywhere](sarvatra) [in-reversal](vaiparītye) [in-portent](utpāte) [threefold](trividhe) [by-celestial+atmospheric+terrestrial](divya+āntarikṣa+bhaumatvena) [declared](prokte)
 
 ## mukta-m0-p43-v1053
-[rgurgu](rgurgu) [yocanā](yocanā) [hyāśantaḥ](hyāśantaḥ) [likṣilatasatanaḥ](likṣilatasatanaḥ) [ghanaḥ](ghanaḥ) [māpulo](māpulo) [pusa](pusa)
+[of-Ṛgurgu](rgurgu) [yocanā](yocanā) [hyāśantaḥ](hyāśantaḥ) [likṣi+lata+satanaḥ](likṣi+latasatanaḥ) [dense](ghanaḥ) [māpulo](māpulo) [pusa](pusa)
 
 ## mukta-m0-p43-v1054
-[prosyarvaśivet](prosyarvaśivet) [tvayotobhaso](tvayotobhaso) [nmayā](nmayā)
+[prosyarvaśivet](prosyarvaśivet) [by-you](tvayā) [utobhaso](utobhaso) [by-me](nmayā)
 
 ## mukta-m0-p43-v1055
-[yonyarṇavākhyaṃ](yonyarṇava+ākhyaṃ) [vanitāgavaparvatavajrakam](vanitā+gava+parvata+vajrakam)
+[which+ocean-named](yoni+arṇava+ākhyaṃ) [woman+cow+mountain+thunderbolt](vanitā+gava+parvata+vajrakam)
 
 ## mukta-m0-p43-v1056
-[nasalesi](nasalesi) [śeddhāva](śeddhāva) [prāk](prāk) [tarca](tarca) [cogaḥ](cogaḥ) [di(śapraṃ](di(śapraṃ) [satrayo](satrayo)
+[nasalesi](nasalesi) [śeddhāva](śeddhāva) [before](prāk) [tarca](tarca) [cogaḥ](cogaḥ) [direction+praṃ](diśa+praṃ) [with-three](satrayo)
 
 ## mukta-m0-p43-v1057
-[diśadvīlikā](diśadvīlikā) [ścamṛtaṃ](ścamṛtaṃ) [ṇadīturirgumucam](ṇadīturirgumucam)
+[direction+dvīlikā](diśa+dvīlikā) [immortal](ścamṛtaṃ) [river+turi+rgumucam](ṇadī+turi+rgumucam)
 
 ## mukta-m0-p43-v1058
-[lāraitrarddehāvataḥ](lāraitrarddehāvataḥ) [dāsasiddhiryārvasaḥ](dāsasiddhi+yārvasaḥ)
+[lārai+trarddeha+āvataḥ](lāraitrarddehāvataḥ) [servant+accomplishment](dāsa+siddhiḥ) [yārvasaḥ](yārvasaḥ)
 
 ## mukta-m0-p43-v1059
-[syāja](syāja) [edho](edho) [vayat](vayat) [vā](vā) [kṛt](kṛt) [klekānyamathā](klekānya+mathā) [sada](sada)
+[may-be](syāt) [ja](ja) [fuel](edho) [or](vā) [vayat](vayat) [vā](vā) [done](kṛt) [klekā+other](klekā+anyam) [then](athā) [always](sadā)
 
 ## mukta-m0-p43-v1060
-[tatra](tatra) [dvyaṅgulamāneṣu](dvyaṅgula+māneṣu) [sūtrāṇyekādaśārpayet](sūtrāṇi+ekādaśa+arpayet)
+[there](tatra) [in-two-finger-measures](dvi+aṅgula+māneṣu) [threads](sūtrāṇi) [eleven](ekādaśa) [should-place](arpayet)
 
 ## mukta-m0-p43-v1061
-[catvāriṃśacca](catvāriṃśat+ca) [catvāri](catvāri) [teṣu](teṣu) [mantrākṣarāṇi](mantra+akṣarāṇi) [tu](tu)
+[forty](catvāriṃśat) [and](ca) [four](catvāri) [in-them](teṣu) [mantra-syllables](mantra+akṣarāṇi) [indeed](tu)
 
 ## mukta-m0-p43-v1062
-[madhye'vaśiṣṭanavake](madhye+avaśiṣṭa+navake) [navavargasamanvite](nava+varga+samanvite)
+[in-middle](madhye) [in-remaining-nine-group](avaśiṣṭa+navake) [with-nine-classes](nava+varga+samanvite)
 
 ## mukta-m0-p43-v1063
-[sarvatra](sarvatra) [vilikhedbhūyo](vilikhet+bhūyo) [bhūyostvāvartanena](bhūyo+tu+āvartanena) [tu](tu)
+[everywhere](sarvatra) [should-draw](vilikhet) [again](bhūyaḥ) [by-repeated-turning](bhūyaḥ+āvartanena) [indeed](tu)
 
 ## mukta-m0-p43-v1064
-[dahyamānāṃ](dahyamānāṃ) [hṛtasvāṃtāṃ](hṛta+svāṃtāṃ) [mastakasthāpitāñjalim](mastaka+sthāpita+añjalim)
+[being-burned](dahyamānāṃ) [with-heart-taken](hṛta+svāṃtāṃ) [with-folded-hands-placed-on-head](mastaka+sthāpita+añjalim)
 
 ## mukta-m0-p43-v1065
-[vāyupreṅkatpatākākhyapaṭopamakalevarām](vāyu+preṅkat+patākā+ākhya+paṭa+upama+kalevarām)
+[with-body-resembling](kalevarām) [a-cloth](paṭa+upama) [called-flag](patākā+ākhya) [fluttering-in-wind](vāyu+preṅkat)
 
 ## mukta-m0-p43-v1066
-[cintayennārcayeccakramadhye](cintayet+na+arcayet+cakra+madhye) [devīṃ](devīṃ) [digambarām](digambarām)
+[one-should-visualize](cintayet) [and-should-worship](arcayet) [and](ca) [in-middle-of-circle](cakra+madhye) [goddess](devīṃ) [sky-clad](digambarām)
 
 ## mukta-m0-p43-v1067
-[anyaiḥ](anyaiḥ) [sugandhiśe(ṣat)phāli](sugandhi+śe(ṣat)phāli) [kusumādyaiḥ](kusuma+ādyaiḥ) [sugandhibhiḥ](sugandhibhiḥ)
+[with-others](anyaiḥ) [fragrant+remainder+phāli](sugandhi+śeṣat+phāli) [with-flowers-etc.](kusuma+ādyaiḥ) [fragrant](sugandhibhiḥ)
 
 ## mukta-m0-p43-v1068
-[yāvaccharīrapātantu](yāvat+śarīra+pātantu) [chāyevā'napagā'sya](chāyā+iva+anapagā+asya) [sā](sā)
+[as-long-as](yāvat) [until-fall-of-body](śarīra+pātam) [indeed](tu) [like-a-shadow](chāyā+iva) [not-departing](anapagā) [of-him](asya) [she](sā)
 
 ## mukta-m0-p43-v1069
-[asyā](asyā) [niṣphālanācitte](niṣphālana+acitte) [tattattvaṃ](tat+tattvaṃ) [svātmasātkṛtam](sva+ātma+sāt+kṛtam)
+[by-her](asyāḥ) [by-revelation](niṣphālanāt) [in-mind](citte) [that+that-principle](tat+tat+tvaṃ) [made-one's-own-self](sva+ātma+sātkṛtam)
 
 ## mukta-m0-p43-v1070
-[iti](iti) [śrīṣoḍaśanityātantreṣu](śrī+ṣoḍaśa+nitya+tantreṣu) [śrīkādimate'ṣṭamaṃ](śrī+kādimat+e+ṣṭamaṃ) [paṭalam](paṭalam)
+[thus](iti) [in-śrī-ṣoḍaśa-nityā-tantras](śrī+ṣoḍaśa+nityā+tantreṣu) [in-śrī-kādimata](śrī+kādimate) [eighth](aṣṭamaṃ) [chapter](paṭalam)
 
 ## mukta-m0-p43-v1071
-[navavargā](nava+vargā) [navanāthātmakāḥ](nava+nātha+ātmakāḥ) [kalevaraṃ](kalevaraṃ) [śarīram](śarīram)
+[nine-classes](nava+vargāḥ) [consisting-of-nine-nāthas](nava+nātha+ātmakāḥ) [94](94) [95](95) [96](96) [body](kalevaraṃ) [body](śarīram) [97](97)
 
 ## mukta-m0-p43-v1072
-[proktaphalamavāpnuyāditi](prokta+phalam+avāpnuyāt+iti)
+[declared-result](prokta+phalam) [one-may-obtain](avāpnuyāt) [thus](iti)
 
 ## mukta-m0-p43-v1073
-[paripūrṇaṃ](paripūrṇaṃ) [parāmṛṣṭam](parāmṛṣṭam)
+[complete](paripūrṇaṃ) [touched](parāmṛṣṭam)
 
 ## mukta-m0-p43-v1074
-[nityaklinnāvidhānānāṃ](nitya+klinnā+vidhānānāṃ) [tanmantraṃ](tat+mantraṃ) [prāgudīritam](prāg+udīritam)
+[of-nityaklinnā-rites](nityaklinnā+vidhānānāṃ) [her-mantra](tat+mantraṃ) [previously-stated](prāk+udīritam)
 
 ## mukta-m0-p43-v1075
-[homatarpaṇabhedāṃśca](homa+tarpaṇa+bhedān+ca) [yantrāṇi](yantrāṇi) [phalabhedataḥ](phala+bhedataḥ)
+[distinctions-of-homa-and-tarpaṇa](homa+tarpaṇa+bhedān) [and](ca) [yantras](yantrāṇi) [according-to-difference-of-results](phala+bhedataḥ)

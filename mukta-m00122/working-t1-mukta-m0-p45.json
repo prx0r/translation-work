@@ -12,23 +12,23 @@
 },
 {
 "surface": "devi",
-"quick_gloss": "goddess"
+"quick_gloss": "o-goddess"
 },
 {
 "surface": "pravakṣyāmi",
-"quick_gloss": "i-will-declare"
+"quick_gloss": "I-shall-tell"
 },
 {
-"surface": "prayogārho",
-"quick_gloss": "suitable-for-rite"
+"surface": "prayoga+arhaḥ",
+"quick_gloss": "fit-for-application"
 },
 {
-"surface": "yato",
-"quick_gloss": "from-which"
+"surface": "yataḥ",
+"quick_gloss": "whereby"
 },
 {
 "surface": "bhavet",
-"quick_gloss": "may-be"
+"quick_gloss": "one-may-become"
 }
 ]
 },
@@ -40,16 +40,24 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "prāgvallakṣaṃ",
-"quick_gloss": "before-hundred-thousand"
+"surface": "prāk+vat",
+"quick_gloss": "as-before"
 },
 {
-"surface": "taddaśāṃśaṃ",
-"quick_gloss": "that-tenth-part"
+"surface": "lakṣaṃ",
+"quick_gloss": "hundred-thousand"
 },
 {
-"surface": "kuryāddhomaṃ",
-"quick_gloss": "do-homa"
+"surface": "tat+daśa+aṃśaṃ",
+"quick_gloss": "its-tenth-part"
+},
+{
+"surface": "kuryāt",
+"quick_gloss": "one-should-perform"
+},
+{
+"surface": "homam",
+"quick_gloss": "oblation"
 },
 {
 "surface": "ca",
@@ -69,8 +77,28 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "candracandranakastūrīvāsitaistarpayejjalaiḥ",
-"quick_gloss": "with-moon-camphor-musk-scented"
+"surface": "candra",
+"quick_gloss": "with-camphor"
+},
+{
+"surface": "candra",
+"quick_gloss": "sandal"
+},
+{
+"surface": "nakha+kastūrī",
+"quick_gloss": "musk"
+},
+{
+"surface": "vāsitaiḥ",
+"quick_gloss": "scented"
+},
+{
+"surface": "tarpayet",
+"quick_gloss": "one-should-offer-libations"
+},
+{
+"surface": "jalaiḥ",
+"quick_gloss": "with-waters"
 }
 ]
 },
@@ -82,24 +110,32 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "sahasrajāpī",
-"quick_gloss": "thousand-reciter"
+"surface": "sahasra+jāpī",
+"quick_gloss": "performer-of-thousand-recitations"
 },
 {
-"surface": "tadbhaktaḥ",
-"quick_gloss": "that-devotee"
+"surface": "tat+bhaktaḥ",
+"quick_gloss": "devoted-to-that"
 },
 {
-"surface": "kuryāduktaṃ",
-"quick_gloss": "should-do-as-said"
+"surface": "kuryāt",
+"quick_gloss": "one-should-do"
+},
+{
+"surface": "uktam",
+"quick_gloss": "as-prescribed"
+},
+{
+"surface": "ca",
+"quick_gloss": "and"
 },
 {
 "surface": "na",
 "quick_gloss": "not"
 },
 {
-"surface": "cā'nyathā",
-"quick_gloss": "and-otherwise"
+"surface": "anyathā",
+"quick_gloss": "otherwise"
 }
 ]
 },
@@ -111,16 +147,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "sarvanityāsādhāraṇaḥ",
-"quick_gloss": "all-eternal-not-common"
+"surface": "sarva+nityā+sādhāraṇaḥ",
+"quick_gloss": "common-to-all-nityās"
 },
 {
 "surface": "tanmayaḥ",
-"quick_gloss": "that-made"
+"quick_gloss": "absorbed-in-that"
 },
 {
-"surface": "prāgvat",
-"quick_gloss": "like-before"
+"surface": "prāk+vat",
+"quick_gloss": "as-before"
 }
 ]
 },
@@ -132,8 +168,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "ślokairvidyāpuraścaraṇaprakāramupadiśati",
-"quick_gloss": "by-verses"
+"surface": "ślokaiḥ",
+"quick_gloss": "with-verses"
+},
+{
+"surface": "vidyā+puraścaraṇa+prakāram",
+"quick_gloss": "the-method-of-mantra-preliminary-rites"
+},
+{
+"surface": "upadiśati",
+"quick_gloss": "he-teaches"
 },
 {
 "surface": "tatra",
@@ -141,11 +185,11 @@
 },
 {
 "surface": "yataḥ",
-"quick_gloss": "from"
+"quick_gloss": "whereby"
 },
 {
 "surface": "sādhanataḥ",
-"quick_gloss": "practice"
+"quick_gloss": "from-accomplishment"
 }
 ]
 },
@@ -161,12 +205,16 @@
 "quick_gloss": "hundred-thousand"
 },
 {
-"surface": "vidyāyā",
-"quick_gloss": "of-vidya"
+"surface": "vidyāyāḥ",
+"quick_gloss": "of-the-mantra"
 },
 {
-"surface": "yugānurūpamakṣaralakṣakrameṇa",
-"quick_gloss": "according-to-yuga"
+"surface": "yuga+anurūpam",
+"quick_gloss": "according-to-the-age"
+},
+{
+"surface": "akṣara+lakṣa+krameṇa",
+"quick_gloss": "in-the-order-of-syllable-hundred-thousands"
 }
 ]
 },
@@ -178,19 +226,23 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "prayogādyabhijñaḥ",
-"quick_gloss": "knower-of-rite-etc"
+"surface": "prayoga+ādi+abhijñaḥ",
+"quick_gloss": "knowing-application-etc."
 },
 {
-"surface": "nānyamiti",
-"quick_gloss": "not-other"
+"surface": "na+anyam",
+"quick_gloss": "not-another"
 },
 {
-"surface": "nānyatheti",
-"quick_gloss": "not-otherwise"
+"surface": "iti",
+"quick_gloss": "thus"
 },
 {
-"surface": "sarvadevatāsādhāraṇam",
+"surface": "na+anyathā+iti",
+"quick_gloss": "(not-otherwise)"
+},
+{
+"surface": "sarva+devatā+sādhāraṇam",
 "quick_gloss": "common-to-all-deities"
 }
 ]
@@ -207,16 +259,28 @@
 "quick_gloss": "likewise"
 },
 {
-"surface": "kairavairaktairaṅganāstu",
-"quick_gloss": "with-white-lotus-red"
+"surface": "kairavaiḥ",
+"quick_gloss": "with-white-lotuses"
 },
 {
-"surface": "vaśaṃ",
-"quick_gloss": "to-subjection"
+"surface": "aktaiḥ",
+"quick_gloss": "with-red-lotuses"
+},
+{
+"surface": "aṅganāḥ",
+"quick_gloss": "women"
+},
+{
+"surface": "tu",
+"quick_gloss": "indeed"
+},
+{
+"surface": "vaśam",
+"quick_gloss": "under-control"
 },
 {
 "surface": "nayet",
-"quick_gloss": "lead"
+"quick_gloss": "one-may-bring"
 }
 ]
 },
@@ -228,8 +292,28 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "mallikāmālatījātīśatapatrairhutairbhavet",
-"quick_gloss": "with-jasmine-mallika-jati-hundred-petals"
+"surface": "mallikā",
+"quick_gloss": "with-jasmine"
+},
+{
+"surface": "mālatī",
+"quick_gloss": "with-mālatī"
+},
+{
+"surface": "jātī",
+"quick_gloss": "with-jātī"
+},
+{
+"surface": "śatapatraiḥ",
+"quick_gloss": "with-lotus"
+},
+{
+"surface": "hutaiḥ",
+"quick_gloss": "offered-in-fire"
+},
+{
+"surface": "bhavet",
+"quick_gloss": "it-may-be"
 }
 ]
 },
@@ -241,12 +325,28 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "āragvadhaprasūnaistu",
-"quick_gloss": "with-cassia-flowers"
+"surface": "āragvadha+prasūnaiḥ",
+"quick_gloss": "with-āragvadha-flowers"
 },
 {
-"surface": "kṣaudrāktairhavanādbhavet",
-"quick_gloss": "honey-smeared"
+"surface": "tu",
+"quick_gloss": "indeed"
+},
+{
+"surface": "kṣaudra",
+"quick_gloss": "with-honey"
+},
+{
+"surface": "aktaiḥ",
+"quick_gloss": "smeared"
+},
+{
+"surface": "havanāt",
+"quick_gloss": "by-offering"
+},
+{
+"surface": "bhavet",
+"quick_gloss": "it-may-be"
 }
 ]
 },
@@ -258,16 +358,28 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "ājyāktaiḥ",
-"quick_gloss": "ghee-smeared"
+"surface": "ājya",
+"quick_gloss": "with-ghee"
 },
 {
-"surface": "karavīrotthaiḥ",
-"quick_gloss": "oleander-born"
+"surface": "aktaiḥ",
+"quick_gloss": "smeared"
 },
 {
-"surface": "prasūnairaruṇairhutaiḥ",
-"quick_gloss": "flowers"
+"surface": "karavīra+utthaiḥ",
+"quick_gloss": "produced-from-oleander"
+},
+{
+"surface": "prasūnaiḥ",
+"quick_gloss": "with-flowers"
+},
+{
+"surface": "aruṇaiḥ",
+"quick_gloss": "with-red"
+},
+{
+"surface": "hutaiḥ",
+"quick_gloss": "offered"
 }
 ]
 },
@@ -279,8 +391,28 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "bhūṣāvāhanavāṇijyasiddhayaścāsya",
-"quick_gloss": "ornament-vehicle-trade-accomplishments"
+"surface": "bhūṣā",
+"quick_gloss": "ornament"
+},
+{
+"surface": "vāhana",
+"quick_gloss": "vehicle"
+},
+{
+"surface": "vāṇijya",
+"quick_gloss": "commerce"
+},
+{
+"surface": "siddhayaḥ",
+"quick_gloss": "successes"
+},
+{
+"surface": "ca",
+"quick_gloss": "and"
+},
+{
+"surface": "asya",
+"quick_gloss": "of-him"
 },
 {
 "surface": "vāñchitāḥ",
@@ -296,16 +428,32 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "tattailāktairniśāmadhye",
-"quick_gloss": "that-oil-smeared"
+"surface": "tat+taila",
+"quick_gloss": "with-that-oil"
 },
 {
-"surface": "tvānayedvāñchitāṃ",
-"quick_gloss": "lead"
+"surface": "aktaiḥ",
+"quick_gloss": "smeared"
+},
+{
+"surface": "niśā+madhye",
+"quick_gloss": "in-the-middle-of-night"
+},
+{
+"surface": "tu",
+"quick_gloss": "indeed"
+},
+{
+"surface": "ānayet",
+"quick_gloss": "one-may-bring"
+},
+{
+"surface": "vāñchitām",
+"quick_gloss": "desired"
 },
 {
 "surface": "vadhūm",
-"quick_gloss": "bride"
+"quick_gloss": "woman"
 }
 ]
 },
@@ -317,20 +465,28 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "māsādarāteḥ",
-"quick_gloss": "from-month-anger"
+"surface": "māsāt",
+"quick_gloss": "within-a-month"
 },
 {
-"surface": "tīvrārtijvareṇa",
-"quick_gloss": "intense-pain-fever"
+"surface": "arāteḥ",
+"quick_gloss": "of-the-enemy"
+},
+{
+"surface": "tīvra+ārti",
+"quick_gloss": "with-intense-pain"
+},
+{
+"surface": "jvareṇa",
+"quick_gloss": "with-fever"
 },
 {
 "surface": "bhavati",
-"quick_gloss": "becomes"
+"quick_gloss": "it-happens"
 },
 {
 "surface": "dhruvam",
-"quick_gloss": "certain"
+"quick_gloss": "certainly"
 }
 ]
 },
@@ -342,20 +498,28 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "śatrordehe",
-"quick_gloss": "enemy's-body"
+"surface": "śatroḥ",
+"quick_gloss": "of-the-enemy"
+},
+{
+"surface": "dehe",
+"quick_gloss": "on-the-body"
 },
 {
 "surface": "vraṇāni",
 "quick_gloss": "wounds"
 },
 {
-"surface": "syurduḥsādhyāni",
-"quick_gloss": "may-be"
+"surface": "syuḥ",
+"quick_gloss": "will-be"
+},
+{
+"surface": "duḥsādhyāni",
+"quick_gloss": "difficult-to-cure"
 },
 {
 "surface": "cikitsakaiḥ",
-"quick_gloss": "difficult-to-cure"
+"quick_gloss": "by-physicians"
 }
 ]
 },
@@ -371,8 +535,24 @@
 "quick_gloss": "likewise"
 },
 {
-"surface": "tattailasaṃsiktairbījairaṅkārakairapi",
-"quick_gloss": "that-oil-sprinkled"
+"surface": "tat+taila",
+"quick_gloss": "with-that-oil"
+},
+{
+"surface": "saṃsiktaiḥ",
+"quick_gloss": "soaked"
+},
+{
+"surface": "bījaiḥ",
+"quick_gloss": "with-seeds"
+},
+{
+"surface": "aṅkāra+kaiḥ",
+"quick_gloss": "marked-with-the-syllable-aṅ"
+},
+{
+"surface": "api",
+"quick_gloss": "also"
 }
 ]
 },
@@ -384,16 +564,36 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "samānarūpavatsāyāḥ",
-"quick_gloss": "same-form-calf's"
+"surface": "samāna+rūpa+vatsāyāḥ",
+"quick_gloss": "of-one-having-a-calf-of-same-color"
 },
 {
-"surface": "śuklavatsāyā",
-"quick_gloss": "white-calf's"
+"surface": "śukla+vatsāyāḥ",
+"quick_gloss": "of-one-having-a-white-calf"
 },
 {
-"surface": "ityarthaḥ",
-"quick_gloss": "that-is-meaning"
+"surface": "iti",
+"quick_gloss": "thus"
+},
+{
+"surface": "arthaḥ",
+"quick_gloss": "meaning"
+},
+{
+"surface": "27",
+"quick_gloss": "verse-27"
+},
+{
+"surface": "28",
+"quick_gloss": "verse-28"
+},
+{
+"surface": "29",
+"quick_gloss": "verse-29"
+},
+{
+"surface": "30",
+"quick_gloss": "verse-30"
 }
 ]
 },
@@ -406,27 +606,27 @@
 "tokens": [
 {
 "surface": "itaraiḥ",
-"quick_gloss": "by-others"
+"quick_gloss": "with-others"
 },
 {
 "surface": "kṛṣṇaiḥ",
-"quick_gloss": "black"
+"quick_gloss": "with-black"
 },
 {
 "surface": "vā",
 "quick_gloss": "or"
 },
 {
-"surface": "pakṣāntare",
-"quick_gloss": "in-other-case"
+"surface": "pakṣa+antare",
+"quick_gloss": "in-the-other-alternative"
 },
 {
-"surface": "tattailāktaiḥ",
-"quick_gloss": "that-oil-smeared"
+"surface": "tat+taila+aktaiḥ",
+"quick_gloss": "with-that-oil-smeared"
 },
 {
-"surface": "sarṣapadvayatailāktaiḥ",
-"quick_gloss": "mustard-two-oil-smeared"
+"surface": "sarṣapa+dvaya+taila+aktaiḥ",
+"quick_gloss": "with-oil-of-both-mustards-smeared"
 }
 ]
 },
@@ -438,20 +638,24 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "vāñchitāṃ",
+"surface": "vāñchitām",
 "quick_gloss": "desired"
 },
 {
-"surface": "vanitāṃ",
+"surface": "vanitām",
 "quick_gloss": "woman"
 },
 {
-"surface": "kāmajvarārtāmānayed",
-"quick_gloss": "love-fever-afflicted"
+"surface": "kāma+jvara+ārtām",
+"quick_gloss": "tormented-by-fever-of-love"
+},
+{
+"surface": "ānayet",
+"quick_gloss": "one-may-bring"
 },
 {
 "surface": "dhruvam",
-"quick_gloss": "certain"
+"quick_gloss": "certainly"
 }
 ]
 },
@@ -463,12 +667,24 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "dhairyamānakulairnityaṃ",
-"quick_gloss": "steadiness-honor-family"
+"surface": "dhairya+māna+kulaiḥ",
+"quick_gloss": "deprived-of-firmness-honor-and-family"
 },
 {
-"surface": "duṣprāpāmānayedvadhūm",
-"quick_gloss": "difficult-to-obtain"
+"surface": "nityam",
+"quick_gloss": "constantly"
+},
+{
+"surface": "duṣprāpām",
+"quick_gloss": "hard-to-obtain"
+},
+{
+"surface": "ānayet",
+"quick_gloss": "one-may-bring"
+},
+{
+"surface": "vadhūm",
+"quick_gloss": "woman"
 }
 ]
 },
@@ -480,8 +696,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "tenānnapūrṇabhuvanobhoktā",
+"surface": "tena",
 "quick_gloss": "by-that"
+},
+{
+"surface": "anna+pūrṇa+bhuvanaḥ",
+"quick_gloss": "of-the-world-full-of-food"
+},
+{
+"surface": "bhoktā",
+"quick_gloss": "enjoyer"
 },
 {
 "surface": "ca",
@@ -489,11 +713,11 @@
 },
 {
 "surface": "bhavati",
-"quick_gloss": "becomes"
+"quick_gloss": "one-becomes"
 },
 {
 "surface": "priye",
-"quick_gloss": "dear"
+"quick_gloss": "o-beloved"
 }
 ]
 },
@@ -506,19 +730,35 @@
 "tokens": [
 {
 "surface": "mudgaiḥ",
-"quick_gloss": "with-mung"
+"quick_gloss": "with-mudga-beans"
 },
 {
-"surface": "mudgaṃ",
-"quick_gloss": "mung"
+"surface": "mudgam",
+"quick_gloss": "mudga"
 },
 {
-"surface": "dhṛtairājyamiṣṭairiṣṭaṃ",
-"quick_gloss": "held"
+"surface": "ghṛtaiḥ",
+"quick_gloss": "with-ghee"
 },
 {
-"surface": "hutairbhavet",
-"quick_gloss": "offered"
+"surface": "ājyam",
+"quick_gloss": "with-clarified-butter"
+},
+{
+"surface": "iṣṭaiḥ",
+"quick_gloss": "with-desired-things"
+},
+{
+"surface": "iṣṭam",
+"quick_gloss": "desired-result"
+},
+{
+"surface": "hutaiḥ",
+"quick_gloss": "by-offerings"
+},
+{
+"surface": "bhavet",
+"quick_gloss": "may-be"
 }
 ]
 },
@@ -530,16 +770,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "rājīmarīcaloṇotthāṃ",
-"quick_gloss": "radish-pepper-salt-born"
+"surface": "rājī+marīca+loṇa+utthām",
+"quick_gloss": "of-mustard-pepper-and-salt"
 },
 {
-"surface": "puttalīṃ",
-"quick_gloss": "doll"
+"surface": "puttalīm",
+"quick_gloss": "a-doll"
 },
 {
-"surface": "juhuyānniśi",
-"quick_gloss": "offer"
+"surface": "juhuyāt",
+"quick_gloss": "one-should-offer"
+},
+{
+"surface": "niśi",
+"quick_gloss": "at-night"
 }
 ]
 },
@@ -551,8 +795,24 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "nābheradhastāddhṛdayādbhinnenākaṇṭhatastathā",
-"quick_gloss": "from-below-navel"
+"surface": "nābheḥ+adhastāt",
+"quick_gloss": "below-the-navel"
+},
+{
+"surface": "hṛdayāt",
+"quick_gloss": "from-the-heart"
+},
+{
+"surface": "bhinnena",
+"quick_gloss": "pierced"
+},
+{
+"surface": "ā+kaṇṭhataḥ",
+"quick_gloss": "up-to-the-throat"
+},
+{
+"surface": "tathā",
+"quick_gloss": "likewise"
 }
 ]
 }
