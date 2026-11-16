@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p69-v1701
-[uninitiated](adīkṣitaḥ) [four-veda-knower](caturvedī) [for-others-worship](parārthapūjā) [not](na) [should-cause](kārayet)
+uninitiated(a+dīkṣitaḥ) four-veda-knower(catur+vedī) for-another-worship(parārtha+pūjā) not(na) should-cause-to-do(kārayet)
 
 ## mukta-m0-p69-v1702
-[after-six-months](ṣaṇmāsāt) [fall](patanaṃ) [go](yānti) [god-of-gods](devadeva) [remembered-by-kalā](kalāsmṛtāḥ)
+from-six-months(ṣaṇ+māsāt) fall(patanaṃ) they-go(yānti) O-god-of-gods(deva+deva) known-as-kalā(kalā+smṛtāḥ)
 
 ## mukta-m0-p69-v1703
-[would-worship](pūjayet) [if](yadi) [brahmin](vipraḥ) [but](tu) [all-god-marked](sarvadevalakaḥ) [becomes](bhavet)
+should-worship(pūjayet) if(yadi) brahmin(vipraḥ) then(tu) all-gods-worshipper(sarva+devalakaḥ) he-becomes(bhavet)
 
 ## mukta-m0-p69-v1704
-[stationary-linga](sthitiliṅgam) [and](ca) [of-worships](pūjānām) [not](na) [do](kurvanti) [ever](kadācana)
+fixed-liṅga(sthiti+liṅgañ) and(ca) of-worships(pūjānāṃ) not(na) they-do(kurvanti) ever(kadācana)
 
 ## mukta-m0-p69-v1705
-[rudra](rudraḥ) [indeed](hi) [intermediate](avāntaraḥ) [and](ca) [indeed](eva) [in-order](kramaśaḥ) [and](ca) [following-varna](anuvarṇakam)
+Rudra(rudraḥ) indeed(hi) intermediate(avāntaraḥ) and(ca) and(eva) in-order(kramaśaḥ) and(ca) enumeration(anuvarṇakam)
 
 ## mukta-m0-p69-v1706
-[etc](ityādi) [of-excellent-śaivas](pravaraśaivānām) [final-śaiva](antyaśaivam) [then](atha) [hear](śṛṇu)
+thus-etc(iti+ādi) of-superior-Śaivas(pravara+śaivānāṃ) lower-Śaivas(antya+śaivān) now(atha) hear(śṛṇu)
 
 ## mukta-m0-p69-v1707
-[by-ādi-śaiva](ādiśaivena) [to-be-done](kartavyam) [from-consecration-to-worship-end](pratiṣṭhādyarcanāntakam)
+by-Ādiśaiva(ādi+śaivena) to-be-done(kartavyaṃ) beginning-with-consecration-ending-with-worship(pratiṣṭhā+ādi+arcana+antakam)
 
 ## mukta-m0-p69-v1708
-[knowers-of-veda-vedānta-truth](vedavedāntatattvajñāḥ) [ādiśaivas](ādiśaivāḥ) [thus](iti) [remembered](smṛtāḥ)
+Veda-Vedānta-truth-knowers(veda+vedānta+tattva+jñāḥ) Ādiśaivas(ādi+śaivāḥ) thus(iti) remembered(smṛtāḥ)
 
 ## mukta-m0-p69-v1709
-[rohiṇī](rohiṇī) [śravaṇa](śravaṇam) [and](ca) [indeed](eva) [viṣṭi](viṣṭhā) [three](trīṇi) [and](ca) [uttarā](uttarā)
+Rohiṇī(rohiṇī) Śravaṇa(śravaṇañ) and(ca) and(eva) Viṣṭi(viṣṭhā) three(trīṇi) and(ca) Uttaras(uttarā)
 
 ## mukta-m0-p69-v1710
-[in-fixed-sign](sthirarāśau) [to-be-done](prakartavye) [both](ubhaye) [and](ca) [auspicious-rise](śubhodaye)
+in-fixed-sign(sthira+rāśau) to-be-done(prakartavye) in-both(ubhaye) and(ca) auspicious-rising(śubha+udaye)
 
 ## mukta-m0-p69-v1711
-[eighth-place](aṣṭamasthān) [houses](gṛhān) [all](sarvān) [in-avoidance](parihāre) [but](tu) [especially](viśeṣataḥ)
+eighth-placed(aṣṭama+sthān) houses(gṛhān) all(sarvān) in-avoidance(parihāre) indeed(tu) especially(viśeṣataḥ)
 
 ## mukta-m0-p69-v1712
-[sprout-offering](aṅkurārpaṇam) [should-do](yet) [first](pūrva) [by-previously-stated-rite](pūrvoktavidhinā) [do](kuru)
+should-offer-sprouts(aṅkurān+arpayet) first(pūrva) by-previously-stated-method(pūrva+ukta+vidhinā) do(kuru)
 
 ## mukta-m0-p69-v1713
-[foot-washing](pādaprakṣālanam) [having-done](kṛtvā) [sipping](ācamanam) [by-rite](vidhinā) [should-perform](caret)
+foot-washing(pāda+prakṣālanaṃ) having-done(kṛtvā) sipping(ācamanam) according-to-rule(vidhinā) should-perform(caret)
 
 ## mukta-m0-p69-v1714
-[pavilion](maṇḍapam) [should-decorate](maṇḍayet) [wise-one](dhīmān) [like-consecration-pavilion](pratiṣṭhāmaṇḍapavat) [do](kuru)
+pavilion(maṇḍapaṃ) should-decorate(maṇḍayet) wise-one(dhīmān) like-consecration-pavilion(pratiṣṭhā+maṇḍapa+vat) make(kuru)
 
 ## mukta-m0-p69-v1715
-[altar](vedim) [should-make](kuryāt) [according-to-rule](yathānyāyam) [śiva-linga](śivaliṅgam) [maṇḍala](maṇḍalam) [but](tu) [or](vā)
+altar(vediṃ) should-make(kuryāt) according-to-rule(yathā+nyāyaṃ) Śiva-liṅga(śiva+liṅgaṃ) or-maṇḍala(maṇḍalam) or(tu) or(vā)
 
 ## mukta-m0-p69-v1716
-[svastika](svastikam) [and](ca) [half-moon](ardhacandram) [and](ca) [maṇḍala](maṇḍalam) [there](tatra) [and](ca) [should-be-made](kriyet)
+svastika(svastikañ) and(ca) half-moon(ardha+candrañ) and(ca) maṇḍala(maṇḍalaṃ) there(tatra) and(ca) should-be-made(kriyet)
 
 ## mukta-m0-p69-v1717
-[half-of-that](tadardham) [or](vā) [half-of-that](tadardham) [or](vā) [eight-bent](aṣṭavakram) [with](sa) [ear-like](karṇakam)
+its-half(tat+ardhaṃ) or(vā) its-half(tat+ardhaṃ) or(vā) eight-cornered(aṣṭa+vakraṃ) with-pericarp(sa+karṇakam)
 
 ## mukta-m0-p69-v1718
-[parched-rice-flowers](lājapuṣpaiḥ) [and](ca) [darbha-grasses](darbhaiḥ) [and](ca) [should-move](vicaret) [but](tu) [especially](viśeṣataḥ)
+with-parched-rice-and-flowers(lāja+puṣpaiḥ) and(ca) with-darbha-grass(darbhaiḥ) and(ca) should-strew(vicaret) indeed(tu) especially(viśeṣataḥ)
 
 ## mukta-m0-p69-v1719
-[new-pot](navakuṃbham) [growth-vessel](vardhanīm) [and](ca) [indeed](eva) [scented-water](gandhatoyena) [filled](pūritam)
+nine-pots(nava+kuṃbhaṃ) and-vardhanī-pot(vardhanīñ) and(ca) and(eva) with-fragrant-water(gandha+toyena) filled(pūritam)
 
 ## mukta-m0-p69-v1720
-[śiva-pot](śivakuṃbham) [vidyeśa](vidyeśam) [and](ca) [manonmanī](manonmanī) [should-place](vinyaset) [wise-one](budhaḥ)
+Śiva-pot(śiva+kuṃbhaṃ) Vidyeśa(vidyeśañ) and(ca) Manonmanī(manonmanī) should-place(vinyaset) wise-one(budhaḥ)
 
 ## mukta-m0-p69-v1721
-[fire-taking-etc](agnyādānādikam) [all](sarvam) [fire-rite-stated](agnikāryoktam) [should-perform](ācaret)
+beginning-with-fire-installation(agni+ādāna+ādikaṃ) all(sarvam) as-stated-for-fire-ritual(agni+kārya+uktam) should-perform(ācaret)
 
 ## mukta-m0-p69-v1722
-[disciple-body](śiṣyadeham) [but](tu) [having-sprinkled](saṃprokṣya) [kautuka](kautukam) [from-prior-mantra](pūrvamantrataḥ)
+disciple's-body(śiṣya+deham) indeed(tu) having-sprinkled(saṃprokṣya) protective-thread(kautukaṃ) with-previous-mantra(pūrva+mantrataḥ)
 
 ## mukta-m0-p69-v1723
-[dance-song-endowed](nṛttageyasamāyuktam) [amusement](vinodam) [should-cause](kārayet) [wise-one](budhaḥ)
+with-dance-and-song(nṛtta+geya+samāyuktaṃ) festivity(vinodaṃ) should-cause(kārayet) wise-one(budhaḥ)
 
 ## mukta-m0-p69-v1724
-[to-vāma-form](vāmarūpāya) [to-universe](viśvāya) [to-dream-lord](svapnādhipataye) [salutation](namaḥ)
+to-Vāmarūpa(vāma+rūpāya) to-Viśva(viśvāya) to-lord-of-dreams(svapna+adhipataye) obeisance(namaḥ)
 
 ## mukta-m0-p69-v1725
-[at-dawn](prabhāte) [clear](vimale) [at-sunrise](sūryodaye) [but](tu) [should-cause](kārayet)
+in-morning(prabhāte) in-clear(vimale) at-sunrise(sūrya+udaye) indeed(tu) should-perform(kārayet)
