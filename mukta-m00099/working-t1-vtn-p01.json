@@ -12,10 +12,10 @@
 },
 {
 "surface": "naumi",
-"quick_gloss": "i-bow-to"
+"quick_gloss": "I-bow"
 },
 {
-"surface": "sāhasa+varaṃ",
+"surface": "sāhasa+varam",
 "quick_gloss": "sāhasa+supreme"
 },
 {
@@ -37,7 +37,7 @@
 },
 {
 "surface": "api",
-"quick_gloss": "indeed"
+"quick_gloss": "api"
 },
 {
 "surface": "anuttara+cit+vyoma+svabhāvaḥ",
@@ -45,7 +45,7 @@
 },
 {
 "surface": "jayatāt",
-"quick_gloss": "may-he-be-victorious"
+"quick_gloss": "may-victorious-be"
 },
 {
 "surface": "ajaḥ",
@@ -65,7 +65,7 @@
 "quick_gloss": "worshipped+worshipper+worships"
 },
 {
-"surface": "projjhitaṃ",
+"surface": "projjhitam",
 "quick_gloss": "abandoned"
 },
 {
@@ -74,7 +74,7 @@
 },
 {
 "surface": "namāmi",
-"quick_gloss": "i-bow-to"
+"quick_gloss": "I-bow"
 },
 {
 "surface": "tat",
@@ -95,7 +95,7 @@
 },
 {
 "surface": "tiṣṭhāmi",
-"quick_gloss": "i-stand"
+"quick_gloss": "I-stand"
 },
 {
 "surface": "asmin",
@@ -115,12 +115,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "saṃvid+vikalpa+saṃkalpa+ghaṭṭanaṃ",
+"surface": "saṃvit+vikalpa+saṃkalpa+ghaṭṭanam",
 "quick_gloss": "consciousness+thought+resolve+striking"
 },
 {
 "surface": "naumi",
-"quick_gloss": "i-bow-to"
+"quick_gloss": "I-bow"
 },
 {
 "surface": "anuttaram",
@@ -136,8 +136,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "kenāpi",
-"quick_gloss": "by-someone"
+"surface": "kena",
+"quick_gloss": "by-whom"
+},
+{
+"surface": "api",
+"quick_gloss": "api"
 },
 {
 "surface": "kriyate",
@@ -225,7 +229,19 @@
 "tokens": [
 {
 "surface": "ḥ",
-"quick_gloss": "ḥ"
+"quick_gloss": "visarga"
+},
+{
+"surface": "ḥ",
+"quick_gloss": "sign"
+},
+{
+"surface": "ḥ",
+"quick_gloss": "marker"
+},
+{
+"surface": "ḥ",
+"quick_gloss": "pause"
 }
 ]
 },
@@ -237,12 +253,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "prāpta+mahā+upadeśa+nām",
+"surface": "prāpta+mahā+upadeśa",
 "quick_gloss": "obtained+great+instruction"
 },
 {
+"surface": "nāmā",
+"quick_gloss": "named"
+},
+{
 "surface": "āvirbhavati",
-"quick_gloss": "manifestation"
+"quick_gloss": "manifests"
 },
 {
 "surface": "iti",
@@ -266,8 +286,8 @@
 "quick_gloss": "pair+devouring"
 },
 {
-"surface": "niravakāśa+saṃvit+niṣṭhā",
-"quick_gloss": "without-interval+consciousness+firmness"
+"surface": "niravakāśa+saṃvin+niṣṭhā",
+"quick_gloss": "without-interval+consciousness+abidance"
 }
 ]
 },
@@ -279,8 +299,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "nirupādhi+nīrūpa+niḥsvarūpatā+tādātmyaṃ",
-"quick_gloss": "without-support+formless+no-own-nature+identity"
+"surface": "nirupādhi+nīrūpa+niḥsvarūpatā+tādātmyam",
+"quick_gloss": "without-support+formless+no-nature+identity"
 },
 {
 "surface": "bhavati",
@@ -309,7 +329,7 @@
 },
 {
 "surface": "mahā+melāpa+udayaḥ",
-"quick_gloss": "great+meeting+arising"
+"quick_gloss": "great+festival+arising"
 }
 ]
 },
@@ -337,7 +357,7 @@
 "quick_gloss": "thus"
 },
 {
-"surface": "uktaṃ",
+"surface": "uktam",
 "quick_gloss": "stated"
 },
 {
@@ -380,7 +400,7 @@
 },
 {
 "surface": "svare",
-"quick_gloss": "own-essence"
+"quick_gloss": "own-sound"
 },
 {
 "surface": "eva",
@@ -388,14 +408,14 @@
 },
 {
 "surface": "prathate",
-"quick_gloss": "shines-forth"
+"quick_gloss": "spreads"
 },
 {
 "surface": "iti",
 "quick_gloss": "thus"
 },
 {
-"surface": "uktaṃ",
+"surface": "uktam",
 "quick_gloss": "stated"
 },
 {
@@ -412,11 +432,11 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "vigata+bandhaṃ",
-"quick_gloss": "freed-from-bondage"
+"surface": "vigata+bandham",
+"quick_gloss": "freed+bond"
 },
 {
-"surface": "paraṃ",
+"surface": "param",
 "quick_gloss": "supreme"
 },
 {
@@ -475,8 +495,8 @@
 "quick_gloss": "fifth+state+transcending"
 },
 {
-"surface": "niravakāśa+saṃvit+niṣṭhā",
-"quick_gloss": "without-interval+consciousness+firmness"
+"surface": "niravakāśa+saṃvin+niṣṭhā",
+"quick_gloss": "without-interval+consciousness+abidance"
 },
 {
 "surface": "sthiti",
@@ -501,7 +521,7 @@
 "tokens": [
 {
 "surface": "dvādaśa+vāha+udayena",
-"quick_gloss": "twelve+rayed+arising"
+"quick_gloss": "twelve+channel+arising"
 },
 {
 "surface": "mahā+marīci+vikāsaḥ",
@@ -526,7 +546,7 @@
 },
 {
 "surface": "sarvataḥ",
-"quick_gloss": "in-all-ways"
+"quick_gloss": "from-all-sides"
 },
 {
 "surface": "sarvadā",
@@ -559,7 +579,7 @@
 "tokens": [
 {
 "surface": "caryā+pañcaka+udaye",
-"quick_gloss": "conduct+pentad+arising"
+"quick_gloss": "conduct+fivefold+arising"
 },
 {
 "surface": "nistaraṅga+samāveśaḥ",
@@ -575,8 +595,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "caryā+pañcaka+udayaḥ",
-"quick_gloss": "conduct+pentad+arising"
+"surface": "caryā",
+"quick_gloss": "conduct"
+},
+{
+"surface": "pañcaka",
+"quick_gloss": "fivefold"
+},
+{
+"surface": "udayaḥ",
+"quick_gloss": "arising"
+},
+{
+"surface": "udayaḥ",
+"quick_gloss": "emergence"
 }
 ]
 }
