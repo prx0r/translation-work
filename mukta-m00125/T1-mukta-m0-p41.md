@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p41-v1001
-[all](sarvātodyasamāyuktaṃ) [instrument](sarvātodyasamāyuktaṃ) [equipped](sarvātodyasamāyuktaṃ) [conch](śaṃkhadhvani) [sound](śaṃkhadhvani) [accompanied](samanvitam)
+[all](sarva) [musical-instruments](ātodya) [accompanied-by](samāyuktaṃ) [conch](śaṃkha) [sound](dhvani) [endowed-with](samanvitam)
 
 ## mukta-m0-p41-v1002
-[women](strībhirvāvāhayeddīpānathavā) [or](strībhirvāvāhayeddīpānathavā) [attendants](paricārakaiḥ) [lamps](strībhirvāvāhayeddīpānathavā) [should-light](strībhirvāvāhayeddīpānathavā)
+[by-women](strībhiḥ) [or](vā) [should-carry](vāhayet) [lamps](dīpān) [or-else](athavā) [by-attendants](paricārakaiḥ)
 
 ## mukta-m0-p41-v1003
-[giving](datvā) [water](pādyamajātena) [for-feet](pādyamajātena) [born](ajātena) [give](dadyādācamanaṃ) [mouth-rinse](ācamanaṃ) [heart](hṛdā)
+[having-given](datvā) [foot-water](pādyam) [with-ajāta-mantra](ajātena) [one-should-give](dadyāt) [sipping-water](ācamanam) [with-hṛdaya-mantra](hṛdā)
 
 ## mukta-m0-p41-v1004
-[three-times](trivāramekavāraṃ) [or](vā) [one-time](ekavāraṃ) [revolve](bhrāmayecchivamūrdhani) [on-śiva-head](śivamūrdhani)
+[three](tri) [times](vāram) [one](eka) [time](vāraṃ) [or](vā) [one-should-wave](bhrāmayet) [Śiva's](śiva) [on-head](mūrdhani)
 
 ## mukta-m0-p41-v1005
-[with-ātma-tattva-mantras](ātmatatvādibhirmantraiḥ) [give](dadyācchiṣya) [disciple](śiṣya) [in-palm](karāmbuje)
+[with-ātma](ātma) [tattva](tatva) [and-other](ādibhiḥ) [with-mantras](mantraiḥ) [one-should-give](dadyāt) [disciple's](śiṣya) [hand](kara) [in-lotus](ambuje)
 
 ## mukta-m0-p41-v1006
-[white](sitaṃ) [purified](pūtaṃ) [fragrant](sugandhañca) [without-sand](nirvālukamanantaram)
+[white](sitaṃ) [pure](pūtaṃ) [well](su) [fragrant](gandhañ) [and](ca) [without](nir) [sand](vālukam) [thereafter](anantaram)
 
 ## mukta-m0-p41-v1007
-[three-times](trivārandīpamadhye) [in-lamp-middle](dīpamadhye) [then](tadanantaram) [place](nikṣipya)
+[three](tri) [times](vāram) [lamp](dīpa) [in-middle](madhye) [indeed](tu) [having-placed](nikṣipya) [then](tat) [afterwards](anantaram)
 
 ## mukta-m0-p41-v1008
-[on-foreheads](lalāṭeṣu) [in-order](kramāt) [do](kuryāddhṛdi) [heart](hṛdi) [arms](bāhvoranukramāt) [in-sequence](anukramāt)
+[on-foreheads](lalāṭeṣu) [in-order](kramāt) [one-should-make](kuryāt) [on-heart](hṛdi) [on-arms](bāhvoḥ) [in-sequence](anukramāt)
 
 ## mukta-m0-p41-v1009
-[goddess](devī) [manifest-form](vyaktasvarūpācettilakañca) [tilaka](tilakañca) [before](puro) [becomes](bhavet)
+[goddess](devī) [manifest](vyakta) [form](svarūpā) [if](cet) [mark](tilakam) [and](ca) [in-front](puraḥ) [should-be](bhavet)
 
 ## mukta-m0-p41-v1010
-[on-image](bere) [forehead-heart-arms](lalāṭahṛtbāhupradeśe) [place](tilakannayet) [tilaka](tilakannayet)
+[on-image](bere) [forehead](lalāṭa) [heart](hṛt) [arm](bāhu) [on-region](pradeśe) [mark](tilakam) [one-should-apply](nayet)
 
 ## mukta-m0-p41-v1011
-[for-devotees](bhakteṣvanyeṣu) [iron-etc](lohādi) [made-images](kṛtabereṣu) [give](dāpayet)
+[to-devotees](bhakteṣu) [to-others](anyeṣu) [metal](loha) [and-other](ādi) [made](kṛta) [on-images](bereṣu) [one-should-give](dāpayet)
 
 ## mukta-m0-p41-v1012
-[all-ornaments-equipped](sarvālaṃkārasaṃyuktaṃ) [vessels](pātrāṇyāhṛtyapūrvavat) [having-brought](āhṛtya) [as-before](pūrvavat)
+[all](sarva) [ornaments](alaṃkāra) [endowed-with](saṃyuktaṃ) [vessels](pātrāṇi) [having-brought](āhṛtya) [as-before](apūrvavat)
 
 ## mukta-m0-p41-v1013
-[on-pedestal-front](pīṭhāgre) [or-bull-part](vṛṣabhāge) [or-near-gopura](gopurasyāntikepi) [or](vā)
+[pedestal](pīṭha) [in-front](agre) [bull](vṛṣabha) [in-part](bhāge) [or](vā) [of-gate-tower](gopurasya) [near](antike) [also](api) [or](vā)
 
 ## mukta-m0-p41-v1014
-[things](dravyāṇi) [to-guru](gurave) [give](dadyāddahedvātena) [burn](dahedvātena) [by-wind](vātena) [by-fire](vahninā)
+[materials](dravyāṇi) [to-guru](gurave) [one-should-give](dadyāt) [one-should-burn](dahet) [or](vā) [by-that](tena) [by-fire](vahninā)
 
 ## mukta-m0-p41-v1015
-[for-kings](rājñāmapi) [also](ca) [should-do](kartavyaṃ) [but](kintvagnistatra) [fire](agniḥ) [there](tatra) [deity](devatā)
+[of-kings](rājñām) [also](api) [and](ca) [to-be-done](kartavyaṃ) [but](kintu) [fire](agniḥ) [there](tatra) [deity](devatā)
 
 ## mukta-m0-p41-v1016
-[for-teacher-abhiṣeka](deśikasyābhiṣekepi) [but](kintu) [lamp-excluded](dīpavivarjitam)
+[of-teacher](deśikasya) [in-consecration](abhiṣeke) [also](api) [but](kintu) [lamp](dīpa) [devoid-of](vivarjitam)
 
 ## mukta-m0-p41-v1017
-[rice-grains](taṇḍulā) [prescribed](vihitāstatra) [there](tatra) [if-night](rātrauceddīpasaṃyutam) [with-lamp](dīpasaṃyutam)
+[rice-grains](taṇḍulāḥ) [prescribed](vihitāḥ) [there](tatra) [at-night](rātrau) [if](cet) [lamp](dīpa) [accompanied-by](saṃyutam)
 
 ## mukta-m0-p41-v1018
-[in-month](māse) [named-kārtika](kārtikākhye) [in-nakṣatra](nakṣatre) [named-kṛttikā](kṛttikāhvaye)
+[in-month](māse) [indeed](tu) [named-kārttika](kārtikākhye) [indeed](tu) [in-lunar-mansion](nakṣatre) [named-kṛttikā](kṛttikāhvaye)
 
 ## mukta-m0-p41-v1019
-[at-sunset-time](ravyastamaya) [velāyāndīpārohaṇamācaret) [lamp-ascending](dīpārohaṇam) [should-do](ācaret)
+[sun](ravi) [setting](astamaya) [at-time](velāyām) [lamp](dīpa) [mounting](ārohaṇam) [one-should-perform](ācaret)
 
 ## mukta-m0-p41-v1020
-[rain-destroying-star-etc](vṛṣṭivaināśikarkṣādi) [seeing](prekṣaṇantatra) [there](tatra) [approved](sammatam)
+[rain](vṛṣṭi) [destroying](vaināśi) [constellation](ṛkṣa) [and-other](ādi) [observation](prekṣaṇam) [there](tatra) [approved](sammatam)
 
 ## mukta-m0-p41-v1021
-[time](kālastadūrdhvaṃ) [after-that](tadūrdhvaṃ) [half-watch](yāmārdhaparyantaḥ) [time](kāla) [or](eva) [indeed](vā)
+[time](kālaḥ) [that](tat) [after](ūrdhvaṃ) [watch](yāma) [half](ardha) [until](paryantaḥ) [time](kālaḥ) [indeed](eva) [or](vā)
 
 ## mukta-m0-p41-v1022
-[before-lamp-worship](dīpārādhanapūvedyuradhivāsanamārabhet) [previous-day](pūvedyuḥ) [consecration](adhivāsanam) [begin](ārabhet)
+[lamp](dīpa) [worship](ārādhana) [previous](pūrva) [day](edyuḥ) [preliminary-rite](adhivāsanam) [one-should-begin](ārabhet)
 
 ## mukta-m0-p41-v1023
-[in-eight-directions](aṣṭadikṣu) [or-four-directions](caturdikṣu) [or-three](triṣvekatra) [or-one](ekatra) [or-two](dvayoḥ)
+[in-eight](aṣṭa) [directions](dikṣu) [in-four](catur) [directions](dikṣu) [in-three](triṣu) [in-one-place](ekatra) [and](ca) [or](vā) [in-two](dvayoḥ)
 
 ## mukta-m0-p41-v1024
-[that-staff](sa) [coconut](daṇḍo) [or](vā) [palm](tālaḥ) [areca-palm-bamboo](kramukaveṇujau)
+[that](saḥ) [staff](daṇḍaḥ) [coconut](nālikeraḥ) [or](vā) [palmyra](tālaḥ) [areca-nut](kramuka) [bamboo](veṇu) [born-of](jau)
 
 ## mukta-m0-p41-v1025
-[from-twelve-angulas](dvādaśāṃgulamārabhya) [increasing-by-sky-angulas](vyomāṃgulavivṛddhitaḥ)
+[twelve](dvādaśa) [aṅgula](aṃgulam) [beginning-with](ārabhya) [space](vyoma) [aṅgula](aṃgula) [by-increase](vivṛddhitaḥ)
