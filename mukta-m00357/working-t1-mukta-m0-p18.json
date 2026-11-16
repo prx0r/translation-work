@@ -7,24 +7,24 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "tasmād",
+"surface": "tasmāt",
 "quick_gloss": "therefore"
 },
 {
 "surface": "aham",
-"quick_gloss": "i"
+"quick_gloss": "I"
 },
 {
 "surface": "api",
 "quick_gloss": "also"
 },
 {
-"surface": "parānanda",
-"quick_gloss": "supreme-bliss"
+"surface": "para+ānanda",
+"quick_gloss": "supreme+bliss"
 },
 {
-"surface": "paramānanda",
-"quick_gloss": "supreme-bliss"
+"surface": "parama+ānanda",
+"quick_gloss": "highest+bliss"
 }
 ]
 },
@@ -41,23 +41,23 @@
 },
 {
 "surface": "tathā",
-"quick_gloss": "thus"
+"quick_gloss": "so"
 },
 {
 "surface": "hṛṣyāmi",
-"quick_gloss": "i-rejoice"
+"quick_gloss": "I-rejoice"
 },
 {
 "surface": "yathā",
 "quick_gloss": "as"
 },
 {
-"surface": "nāmabhyām",
-"quick_gloss": "by-names"
+"surface": "para+ānanda+parama+ānanda+iti",
+"quick_gloss": "by-supreme+bliss+highest+bliss+thus"
 },
 {
-"surface": "parānandaparamānandeti",
-"quick_gloss": "supreme-bliss-supreme-bliss"
+"surface": "nāmabhyām",
+"quick_gloss": "by-the-two-names"
 }
 ]
 },
@@ -69,20 +69,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "praṇavādinamontābhyāmābhyāṃ",
-"quick_gloss": "with-om-beginning-end"
+"surface": "praṇava+ādi+namas+anta+ābhyām+ābhyām",
+"quick_gloss": "by-the-two-beginning-with-praṇava+and-ending-with-namas"
 },
 {
-"surface": "puṣpāñjaliṃ",
-"quick_gloss": "flower-offering"
+"surface": "puṣpa+añjalim",
+"quick_gloss": "handful-of-flowers"
 },
 {
-"surface": "manmūrdhani",
-"quick_gloss": "on-my-head"
+"surface": "mat+mūrdhani",
+"quick_gloss": "on-my+head"
 },
 {
 "surface": "prayacchet",
-"quick_gloss": "let-him-give"
+"quick_gloss": "one-should-offer"
 }
 ]
 },
@@ -99,7 +99,7 @@
 },
 {
 "surface": "brāhmaṇa",
-"quick_gloss": "brahmin"
+"quick_gloss": "O-brāhmaṇa"
 }
 ]
 },
@@ -115,12 +115,12 @@
 "quick_gloss": "thus"
 },
 {
-"surface": "pārānandasūtre",
-"quick_gloss": "in-parananda-sutra"
+"surface": "pārānanda+sūtre",
+"quick_gloss": "in-the-Pārānanda+sūtra"
 },
 {
-"surface": "caturthamāhnikam",
-"quick_gloss": "fourth-chapter"
+"surface": "caturtham+āhnikam",
+"quick_gloss": "fourth+daily-section"
 }
 ]
 },
@@ -133,19 +133,19 @@
 "tokens": [
 {
 "surface": "oṃ",
-"quick_gloss": "om"
+"quick_gloss": "oṃ"
 },
 {
-"surface": "ka",
-"quick_gloss": "ka"
+"surface": "kaḥ",
+"quick_gloss": "what"
 },
 {
-"surface": "aiśvaro",
+"surface": "aiśvaraḥ",
 "quick_gloss": "divine"
 },
 {
 "surface": "dharmaḥ",
-"quick_gloss": "dharma"
+"quick_gloss": "duty"
 }
 ]
 },
@@ -157,7 +157,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "kiṃ",
+"surface": "kim",
 "quick_gloss": "what"
 },
 {
@@ -174,7 +174,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "kiṃ",
+"surface": "kim",
 "quick_gloss": "what"
 },
 {
@@ -191,16 +191,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "saṃskāraśāstroktaṃ",
-"quick_gloss": "scripturally-declared"
+"surface": "saṃskāra+śāstra+uktam",
+"quick_gloss": "declared-by-ritual+scripture"
 },
 {
-"surface": "svargasādhakam",
-"quick_gloss": "heaven-causing"
-},
-{
-"surface": "agniṣṭomādikaṃ",
-"quick_gloss": "agnishtoma-etc"
+"surface": "svarga+sādhakam+agniṣṭoma+ādikam",
+"quick_gloss": "accomplishing-heaven+such-as-agniṣṭoma+and-others"
 },
 {
 "surface": "puṇyam",
@@ -216,8 +212,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "śāstraniṣiddhaṃ",
-"quick_gloss": "scripturally-forbidden"
+"surface": "śāstra+niṣiddham",
+"quick_gloss": "forbidden-by-scripture"
 },
 {
 "surface": "pāpam",
@@ -233,12 +229,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "tatsamarpitāni",
-"quick_gloss": "offered-to-that"
+"surface": "tat+samarpitāni",
+"quick_gloss": "those-offered-to-him"
 },
 {
-"surface": "aiśvaradharmāyante",
-"quick_gloss": "divine-dharmas"
+"surface": "aiśvara+dharmāya",
+"quick_gloss": "for-divine+duty"
+},
+{
+"surface": "ante",
+"quick_gloss": "in-the-end"
 }
 ]
 },
@@ -251,15 +251,19 @@
 "tokens": [
 {
 "surface": "yutāni",
-"quick_gloss": "united"
+"quick_gloss": "endowed"
 },
 {
-"surface": "tatsamarpitāni",
-"quick_gloss": "offered-to-that"
+"surface": "tat+samarpitāni",
+"quick_gloss": "those-offered-to-him"
 },
 {
-"surface": "aiśvaradharmāyante",
-"quick_gloss": "divine-dharmas"
+"surface": "aiśvara+dharmāya",
+"quick_gloss": "for-divine+duty"
+},
+{
+"surface": "ante",
+"quick_gloss": "in-the-end"
 }
 ]
 },
@@ -275,24 +279,28 @@
 "quick_gloss": "knower"
 },
 {
-"surface": "bhakto",
+"surface": "bhaktaḥ",
 "quick_gloss": "devotee"
 },
 {
-"surface": "dīkṣita",
+"surface": "dīkṣitaḥ",
 "quick_gloss": "initiated"
 },
 {
-"surface": "aiśvarāneva",
-"quick_gloss": "divine-only"
+"surface": "aiśvarān",
+"quick_gloss": "divine"
+},
+{
+"surface": "eva",
+"quick_gloss": "alone"
 },
 {
 "surface": "dharmān",
-"quick_gloss": "dharmas"
+"quick_gloss": "duties"
 },
 {
 "surface": "kurvīta",
-"quick_gloss": "let-him-do"
+"quick_gloss": "should-perform"
 },
 {
 "surface": "no",
@@ -313,10 +321,10 @@
 "tokens": [
 {
 "surface": "anye",
-"quick_gloss": "others"
+"quick_gloss": "other"
 },
 {
-"surface": "bhaktā",
+"surface": "bhaktāḥ",
 "quick_gloss": "devotees"
 },
 {
@@ -324,20 +332,24 @@
 "quick_gloss": "initiated"
 },
 {
-"surface": "sarvatrā",
+"surface": "sarvatra",
 "quick_gloss": "everywhere"
 },
 {
 "surface": "anīhām",
-"quick_gloss": "non-desire"
+"quick_gloss": "without-effort"
 },
 {
-"surface": "īśvaradarśana",
-"quick_gloss": "divine-vision"
+"surface": "īśvara+darśane",
+"quick_gloss": "in-vision-of-the-Lord"
 },
 {
-"surface": "evehā",
-"quick_gloss": "here-only"
+"surface": "eva",
+"quick_gloss": "alone"
+},
+{
+"surface": "iha",
+"quick_gloss": "here"
 },
 {
 "surface": "kartum",
@@ -357,16 +369,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "aiśvaradharmaṃ",
-"quick_gloss": "divine-dharma"
+"surface": "aiśvara+dharmam",
+"quick_gloss": "divine+duty"
 },
 {
 "surface": "nirvartya",
-"quick_gloss": "having-performed"
+"quick_gloss": "having-accomplished"
 },
 {
 "surface": "puṇyāni",
-"quick_gloss": "merits"
+"quick_gloss": "meritorious-acts"
 },
 {
 "surface": "vā",
@@ -374,7 +386,7 @@
 },
 {
 "surface": "sampādayeyuḥ",
-"quick_gloss": "let-them-accomplish"
+"quick_gloss": "they-may-acquire"
 }
 ]
 },
@@ -386,12 +398,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "śrāvaṇasarpabalidānādau",
-"quick_gloss": "in-shravana-snake-offering-etc"
+"surface": "śrāvaṇa+sarpa+bali+dānādau",
+"quick_gloss": "in-the-offering-of-serpent-bali+in-Śrāvaṇa+and-so-on"
 },
 {
 "surface": "prayacchati",
-"quick_gloss": "gives"
+"quick_gloss": "one-offers"
 }
 ]
 },
@@ -403,8 +415,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "ārjavaṃ",
-"quick_gloss": "straightness"
+"surface": "ārjavam",
+"quick_gloss": "straightforwardness"
 },
 {
 "surface": "sarvatra",
@@ -412,7 +424,7 @@
 },
 {
 "surface": "kuryāt",
-"quick_gloss": "let-one-do"
+"quick_gloss": "one-should-practice"
 }
 ]
 },
@@ -424,8 +436,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "nārjavam",
-"quick_gloss": "non-straightness"
+"surface": "na",
+"quick_gloss": "not"
+},
+{
+"surface": "ārjavam",
+"quick_gloss": "crookedness"
 }
 ]
 },
@@ -445,11 +461,11 @@
 "quick_gloss": "is-fit"
 },
 {
-"surface": "tasmād",
+"surface": "tasmāt",
 "quick_gloss": "therefore"
 },
 {
-"surface": "evaṃ",
+"surface": "evam",
 "quick_gloss": "thus"
 },
 {
@@ -466,8 +482,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "phaladvayadaṃ",
-"quick_gloss": "two-fruit-giving"
+"surface": "phala+dvaya+dam",
+"quick_gloss": "twofold+fruit+giving"
 },
 {
 "surface": "karma",
@@ -483,20 +499,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "sākṣātphaladaṃ",
-"quick_gloss": "direct-fruit-giving"
+"surface": "sākṣāt+phala+dam",
+"quick_gloss": "directly+fruit+giving"
 },
 {
 "surface": "pariṇāme",
-"quick_gloss": "in-transformation"
+"quick_gloss": "in-result"
 },
 {
-"surface": "phalaṃ",
+"surface": "phalam",
 "quick_gloss": "fruit"
 },
 {
 "surface": "prayacchati",
-"quick_gloss": "gives"
+"quick_gloss": "it-bestows"
 },
 {
 "surface": "ca",
@@ -512,24 +528,24 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "kṛtaṃ",
+"surface": "kṛtam",
 "quick_gloss": "done"
 },
 {
-"surface": "pāpaṃ",
+"surface": "pāpam",
 "quick_gloss": "sin"
 },
 {
-"surface": "nirayadaṃ",
-"quick_gloss": "hell-giving"
+"surface": "niraya+dam",
+"quick_gloss": "hell+giving"
 },
 {
-"surface": "pariṇataṃ",
-"quick_gloss": "transformed"
+"surface": "pariṇatam",
+"quick_gloss": "when-ripened"
 },
 {
-"surface": "duḥsaṅgadam",
-"quick_gloss": "bad-association-giving"
+"surface": "duḥsaṅga+dam",
+"quick_gloss": "bad+company+giving"
 }
 ]
 },
@@ -542,23 +558,23 @@
 "tokens": [
 {
 "surface": "yathā",
-"quick_gloss": "as"
+"quick_gloss": "just-as"
 },
 {
-"surface": "durvākyaṃ",
-"quick_gloss": "bad-speech"
+"surface": "durvākyam",
+"quick_gloss": "harsh+speech"
 },
 {
-"surface": "tāḍanadaṃ",
-"quick_gloss": "beating-giving"
+"surface": "tāḍana+dam",
+"quick_gloss": "beating+giving"
 },
 {
-"surface": "pariṇataṃ",
-"quick_gloss": "transformed"
+"surface": "pariṇatam",
+"quick_gloss": "when-ripened"
 },
 {
-"surface": "kārāgārapraveśadam",
-"quick_gloss": "prison-entry-giving"
+"surface": "kārāgāra+praveśa+dam",
+"quick_gloss": "prison+entry+giving"
 }
 ]
 },
@@ -570,8 +586,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "etadviparītaṃ",
-"quick_gloss": "this-opposite"
+"surface": "etat",
+"quick_gloss": "this"
+},
+{
+"surface": "viparītam",
+"quick_gloss": "opposite"
 },
 {
 "surface": "puṇye",
@@ -587,8 +607,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "parameśvaradarśanadaḥ",
-"quick_gloss": "supreme-lord-vision-giving"
+"surface": "parama+īśvara+darśana+daḥ",
+"quick_gloss": "supreme+Lord+vision+giving"
 }
 ]
 }

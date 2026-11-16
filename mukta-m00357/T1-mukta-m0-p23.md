@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p23-v551
-[yoga+phala+ālipta](yogaphalāliptāḥ) [yoga](yoga) [fruit](phala) [anointed](ālipta)
+[yoga](yoga) [fruit](phala) [untainted](aliptāḥ) [by](∅)
 
 ## mukta-m0-p23-v552
-[yoga+phala+dā](yogaphaladā) [tadā](tadā) [ājñayā](ājñayā) [by-command](ājñayā)
+[yoga](yoga) [fruit](phala) [givers](dāḥ) [by-his](tat) [command](ājñayā)
 
 ## mukta-m0-p23-v553
-[jīvaiḥ](jīvaiḥ) [upāsyāḥ](upāsyāḥ) [by-living-beings](jīvaiḥ) [worshipful](upāsyāḥ)
+[by-souls](jīvaiḥ) [to-be-worshipped](upāsyāḥ) [they](te) [are](∅)
 
 ## mukta-m0-p23-v554
-[jīvaiḥ](jīvaiḥ) [upāsitāḥ](upāsitāḥ) [by-living-beings](jīvaiḥ) [worshipped](upāsitāḥ)
+[by-souls](jīvaiḥ) [worshipped](upāsitāḥ) [they](te) [are](∅)
 
 ## mukta-m0-p23-v555
-[jīvānām](jīvānām) [nigraha](nigraha) [anugraha](anugraha) [kṣamāḥ](kṣamāḥ)
+[of-souls](jīvānāṃ) [restraint](nigraha) [and](anu) [grace](graha) [capable](kṣamāḥ)
 
 ## mukta-m0-p23-v556
-[sarve](sarve) [sarva](sarva) [kartāraḥ](kartāraḥ) [all](sarve) [all-doers](sarvakartāraḥ)
+[all](sarve) [all](sarva) [doers](kartāraḥ) [are](∅)
 
 ## mukta-m0-p23-v557
-[aiśvara](aiśvara) [dharma](dharma) [toṣyāḥ](toṣyāḥ) [divine-law](aiśvaradharma) [pleasing](toṣyāḥ)
+[by-lordly](aiśvara) [duty](dharma) [to-be-pleased](toṣyāḥ) [they](te)
 
 ## mukta-m0-p23-v558
-[aiśvara](aiśvara) [dharma](dharma) [kṛt](kṛt) [gamyāḥ](gamyāḥ)
+[by-lordly](aiśvara) [duty](dharma) [doers](kṛt) [to-be-approached](gamyāḥ)
 
 ## mukta-m0-p23-v559
-[atha](atha) [viśeṣataḥ](viśeṣataḥ) [adhikṛtāḥ](adhikṛtāḥ) [then](atha) [especially](viśeṣataḥ)
+[now](atha) [specially](viśeṣataḥ) [appointed](adhikṛtāḥ) [ones](te)
 
 ## mukta-m0-p23-v560
-[utpattau](utpattau) [brahmā](brahmā) [in-creation](utpattau) [brahmā](brahmā)
+[in-creation](utpattau) [Brahmā](brahmā) [is](asti) [appointed](adhikṛtaḥ)
 
 ## mukta-m0-p23-v561
-[sthitau](sthitau) [viṣṇuḥ](viṣṇuḥ) [in-preservation](sthitau) [viṣṇu](viṣṇuḥ)
+[in-preservation](sthitau) [Viṣṇu](viṣṇuḥ) [is](asti) [appointed](adhikṛtaḥ)
 
 ## mukta-m0-p23-v562
-[pralaye](pralaye) [śivaḥ](śivaḥ) [in-dissolution](pralaye) [śiva](śivaḥ)
+[in-dissolution](pralaye) [Śiva](śivaḥ) [is](asti) [appointed](adhikṛtaḥ)
 
 ## mukta-m0-p23-v563
-[nairvighne](nairvighne) [vighneśaḥ](vighneśaḥ) [obstacle-free](nairvighne) [gaṇeśa](vighneśaḥ)
+[in-obstacle](vighne) [removal](naiḥ) [Vighneśa](vighneśaḥ) [is](asti)
 
 ## mukta-m0-p23-v564
-[jñāne](jñāne) [kauśikī](kauśikī) [in-knowledge](jñāne) [kauśikī](kauśikī)
+[in-knowledge](jñāne) [Kauśikī](kauśikī) [is](asti) [appointed](adhikṛtā)
 
 ## mukta-m0-p23-v565
-[prakāśe](prakāśe) [sūryaḥ](sūryaḥ) [in-light](prakāśe) [sun](sūryaḥ)
+[in-illumination](prakāśe) [Sūrya](sūryaḥ) [is](asti) [appointed](adhikṛtaḥ)
 
 ## mukta-m0-p23-v566
-[muktidāḥ](muktidāḥ) [liberation-givers](muktidāḥ) [mukti](mukti) [dāḥ](dāḥ)
+[liberation](mukti) [givers](dāḥ) [they](te) [are](∅)
 
 ## mukta-m0-p23-v567
-[īśvarāḥ](īśvarāḥ) [anādi](anādi) [ananta](ananta) [lords](īśvarāḥ)
+[lords](īśvarāḥ) [without-beginning](anādi) [and-endless](anantāḥ) [are](∅)
 
 ## mukta-m0-p23-v568
-[jīvāḥ](jīvāḥ) [jñānavantaḥ](jñānavantaḥ) [aṇurūpāḥ](aṇurūpāḥ) [kartāraḥ](kartāraḥ)
+[souls](jīvāḥ) [knowledge-possessing](jñānavantaḥ) [atomic-formed](aṇu+rūpāḥ) [doers](kartāraḥ) [yoga](yoga) [fruit](phala) [enjoyers](bhoktāraḥ) [until-liberation](āmukteḥ)
 
 ## mukta-m0-p23-v569
-[manasā](manasā) [yuktāḥ](yuktāḥ) [tattat](tattat) [indriya](indriya)
+[with-mind](manasā) [joined](yuktāḥ) [with-those](tat) [respective](tat) [sense-organs](indriyaiḥ) [conjoined-and-disjoined](saṃvyayujaḥ)
 
 ## mukta-m0-p23-v570
-[anādi](anādi) [ananta](ananta) [aṇurūpāḥ](aṇurūpāḥ) [jīvāḥ](jīvāḥ)
+[without-beginning](anādi) [and-endless](anantāḥ) [atomic-formed](aṇu+rūpāḥ) [souls](jīvāḥ)
 
 ## mukta-m0-p23-v571
-[jñānarūpāḥ](jñānarūpāḥ) [iti](iti) [eke](eke) [knowledge-formed](jñānarūpāḥ)
+[knowledge-formed](jñāna+rūpāḥ) [thus](iti) [some](eke) [say](āhuḥ)
 
 ## mukta-m0-p23-v572
-[parama](parama) [ānanda](ānanda) [loka](loka) [eka-deśaḥ](eka-deśaḥ)
+[supreme-bliss](parama+ānanda) [world](loka) [one-part](eka+deśaḥ) [called-Sānanda](sānanda+ākhyaḥ) [outward-facing](bahirmukhaḥ)
 
 ## mukta-m0-p23-v573
-[sthāpayati](sthāpayati) [establishes](sthāpayati) [sthā](sthā) [payati](payati)
+[he-places](sthāpayati) [there](tatra) [them](tān) [thus](iti)
 
 ## mukta-m0-p23-v574
-[na](na) [yatra](yatra) [kṛtapuṇyāḥ](kṛtapuṇyāḥ) [prahṛṣyante](prahṛṣyante)
+[not](na) [where](yatra) [done-good-deeds](kṛta+puṇyāḥ) [rejoice](prahṛṣyante) [and](ca) [not](na) [are-distressed](udvijante) [done-evil-deeds](kṛta+pāpāḥ)
 
 ## mukta-m0-p23-v575
-[khaṇḍaparaśuḥ](khaṇḍaparaśuḥ) [bhūmiḥ](bhūmiḥ) [apsu](apsu) [pralīnāḥ](pralīnāḥ)
+[broken](khaṇḍa) [axe](paraśuḥ) [earth](bhūmiḥ) [in-waters](apsu) [dissolved](pralīnāḥ) [makes](kurute)

@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p10-v226
-[special](viśeṣa) [worship](arcanaṃ) [done](kṛta) [undone](akṛtam) [some](eke)
+[special](viśeṣa)+[worship](arcanaṃ) [done](kṛta)+[not-done](akṛtam) [some-say](eke)
 
 ## mukta-m0-p10-v227
-[this](etat) [performance](nirvartanam) [as-long-as-life](yāvajjīvam) [should-perform](nirvartayet)
+[this](etat)+[performance](nirvartanaṃ) [as-long-as](yāvat)+[life](jīvaṃ) [one-should-perform](nirvartayet)
 
 ## mukta-m0-p10-v228
-[great-sins](mahāpāpaiḥ) [equal](samam) [or](vā) [unequal](asamam)
+[with-great](mahā)+[sins](pāpaiḥ) [equal](samaṃ) [or](vā) [unequal](asamam)
 
 ## mukta-m0-p10-v229
-[therefore](tasmāt) [initiated](dīkṣitaḥ) [careful](apramādī) [constant-performance](nityanivartanam) [should-perform](nirvartayet)
+[therefore](tasmāt) [the-initiated](dīkṣitaḥ) [non-negligent](apramādī) [daily](nitya)+[performance](nivartanaṃ) [one-should-perform](nirvartayet)
 
 ## mukta-m0-p10-v230
-[śruti](śruti) [smṛti](smṛti) [purāṇas](purāṇāni) [should-study](abhyaset)
+[śruti](śruti)+[smṛti](smṛti)+[purāṇas](purāṇāni) [one-should-study](abhyaset)
 
 ## mukta-m0-p10-v231
-[that-knower](tadvidas) [should-worship](pūjayet)
+[that](tat)+[knowers](vidaḥ) [and](ca) [one-should-honor](pūjayet)
 
 ## mukta-m0-p10-v232
-[own-varṇa-āśrama-conduct](svasvavarṇāśramācāraḥ) [should-be-followed](sevyas) [by-the-wise](tadanudhīmatā)
+[own](sva)+[own](sva)+[class](varṇa)+[stage](āśrama)+[conduct](ācāraḥ) [to-be-followed](sevyaḥ) [by-that](tat)+[follower](anudhīmatā)
 
 ## mukta-m0-p10-v233
-[where](yatra) [varṇa-āśrama](varṇāśrame) [initiated](dīkṣitas) [there](tataḥ) [another-āśrama](āśramāntaram) [should-not-enter](na+niviśet)
+[where](yatra) [in-class](varṇa)+[stage](āśrame) [initiated](dīkṣitaḥ) [from-there](tataḥ) [stage](āśrama)+[other](antaraṃ) [not](na) [one-should-enter](niviśet)
 
 ## mukta-m0-p10-v234
-[entered](niviṣṭaḥ) [more-sinful](pāpīyān) [becomes](bhavati)
+[having-entered](niviṣṭaḥ) [more-sinful](pāpīyān) [one-becomes](bhavati)
 
 ## mukta-m0-p10-v235
-[right-hand-initiated](dakṣācāradīkṣitaḥ) [should-enter](niviśet) [some](eke)
+[dakṣa](dakṣa)+[conduct](ācāra)+[initiated](dīkṣito) [one-may-enter](niviśet) [some-say](eke)
 
 ## mukta-m0-p10-v236
-[he](saḥ) [left-northern](vāmottarayoḥ) [should-not-enter](na+praviśet) [some](eke)
+[he](sa) [into-vāma](vāma)+[uttara](uttarayoḥ) [not](na) [should-enter](praviśet) [some-say](eke)
 
 ## mukta-m0-p10-v237
-[should-enter](praviśet) [some](kecit)
+[should-enter](praviśet) [thus](iti) [some-say](kecit)
 
 ## mukta-m0-p10-v238
-[first-conduct-initiated](ādyācāradīkṣitaḥ) [in-first-conduct](ādyācāre) [should-initiate](dīkṣayet)
+[ādya](ādya)+[conduct](ācāra)+[initiated](dīkṣitaḥ) [in-ādya](ādya)+[conduct](ācāre) [one-should-initiate](dīkṣayet)
 
 ## mukta-m0-p10-v239
-[eunuch-etc](klivādīn) [should-initiate](dīkṣayet)
+[eunuch](kliva)+[and-others](ādīn) [not](na) [one-should-initiate](dīkṣayet)
 
 ## mukta-m0-p10-v240
-[he](saḥ) [falls](patet) [into-hell](narake) [terrible](ghore) [ten-thousand-years](varṣāṇāmayutaṃ) [equal](samāḥ) [thus](iti)
+[he](sa) [may-fall](patet) [in-hell](narake) [terrible](ghore) [of-years](varṣāṇām) [ten-thousand](ayutaṃ) [years](samāḥ) [thus](iti)
 
 ## mukta-m0-p10-v241
-[so](tathā) [indeed](hi) [to-uninitiated](adīkṣitāya) [giving-path](mārgaṃ+dadan) [falls](patet) [guru](guruḥ) [thus](iti)
+[likewise](tathā) [indeed](hi) [to-uninitiated](adīkṣitāya) [alone](eva) [giving](dadan) [path](mārgaṃ) [may-fall](patet) [guru](guruḥ) [thus](iti)
 
 ## mukta-m0-p10-v242
-[right-hand-practitioner](dakṣācārī) [in-right-hand-mantras](dakṣācāramantreṣu) [all-deities](sarvadevatākeṣu) [authorized](adhikṛtaḥ) [becomes](bhavati)
+[dakṣa](dakṣa)+[practitioner](ācārī) [in-dakṣa](dakṣa)+[conduct](ācāra)+[mantras](mantreṣu) [in-all](sarva)+[deity](devatākeṣu) [authorized](adhikṛto) [becomes](bhavati)
 
 ## mukta-m0-p10-v243
-[as](yathā) [one-veda-initiated](ekavedopanītaḥ) [in-all-vedas](sarvavedeṣu) [initiated](upanītaḥ) [becomes](bhavati)
+[as](yathā) [one](eka)+[veda](veda)+[initiated](upanītaḥ) [in-all](sarva)+[vedas](vedeṣu) [initiated](upanīto) [becomes](bhavati)
 
 ## mukta-m0-p10-v244
 [in-absence](abhāve) [of-guru](guroḥ) [from-image](pratimātaḥ)
 
 ## mukta-m0-p10-v245
-[with-pādya-etc](pādyādyaiḥ) [should-worship-īśa](upacaryeśaṃ) [having-dismissed](visṛjya) [according-to-śāstra](yathāśāstraṃ) [constant-performance](nityanirvartanam) [should-perform](nirvartayet)
+[with-foot-water](pādya)+[and-others](ādyaiḥ) [having-worshipped](upacarya) [lord](īśaṃ) [having-dismissed](visṛjya) [according-to](yathā)+[scripture](śāstraṃ) [daily](nitya)+[performance](nirvartanaṃ) [one-should-perform](nirvartayet)
 
 ## mukta-m0-p10-v246
-[this](ayaṃ) [rule](vidhiḥ) [first-conduct](ādyācāra) [only](eva) [not-elsewhere](nānyatra)
+[this](ayaṃ) [rule](vidhiḥ) [in-ādya](ādya)+[conduct](ācāre) [alone](eva) [not](na) [elsewhere](anyatra)
 
 ## mukta-m0-p10-v247
-[with-wine-mudrā-intercourse](madyamaithunamudrābhiḥ) [united](yuktaḥ) [he](asau) [highest](uttamaḥ) [remembered](smṛtaḥ) [thus](iti)
+[with-wine](madya)+[intercourse](maithuna)+[mudrās](mudrābhiḥ) [endowed](yukto) [he](asau) [supreme](uttamaḥ) [remembered](smṛtaḥ) [thus](iti)
 
 ## mukta-m0-p10-v248
-[with-wine-meat-fish-mudrā-intercourse](madyamāṃsamatsyamudrāmaithunaiḥ) [united](yuktaḥ) [middle](madhyamaḥ)
+[with-wine](madya)+[meat](māṃsa)+[fish](matsya)+[mudrā](mudrā)+[intercourse](maithunaiḥ) [endowed](yukto) [middle](madhyamaḥ)
 
 ## mukta-m0-p10-v249
-[of-pārānanda](pārānandasya) [eightfold-harmlessness](aṣṭavidhahiṃsanābhāvāt) [middle](madhyamaṃ) [pārānanda](pārānandaḥ) [should-avoid](varjayet)
+[of-pāra](pāra)+[ānanda](ānandasya) [eight](aṣṭa)+[fold](vidha)+[violence](hiṃsanā)+[absence](abhāvāt) [middle](madhyamaṃ) [pāra](pāra)+[ānanda](ānando) [should-avoid](varjayet)
 
 ## mukta-m0-p10-v250
-[by-pārānandas](pārānandaiḥ) [highest](uttamaḥ) [should-be-served](sevyaḥ)
+[by-pāra](pāra)+[ānandas](ānandaiḥ) [supreme](uttamaḥ) [to-be-practiced](sevyaḥ)

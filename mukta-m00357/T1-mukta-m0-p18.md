@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p18-v426
-[therefore](tasmād) [i](aham) [also](api) [supreme-bliss](parānanda) [supreme-bliss](paramānanda)
+[therefore](tasmāt) [I](aham) [also](api) [supreme+bliss](para+ānanda) [highest+bliss](parama+ānanda)
 
 ## mukta-m0-p18-v427
-[not](na) [thus](tathā) [i-rejoice](hṛṣyāmi) [as](yathā) [by-names](nāmabhyām) [supreme-bliss-supreme-bliss](parānandaparamānandeti)
+[not](na) [so](tathā) [I-rejoice](hṛṣyāmi) [as](yathā) [by-supreme+bliss+highest+bliss+thus](para+ānanda+parama+ānanda+iti) [by-the-two-names](nāmabhyām)
 
 ## mukta-m0-p18-v428
-[with-om-beginning-end](praṇavādinamontābhyāmābhyāṃ) [flower-offering](puṣpāñjaliṃ) [on-my-head](manmūrdhani) [let-him-give](prayacchet)
+[by-the-two-beginning-with-praṇava+and-ending-with-namas](praṇava+ādi+namas+anta+ābhyām+ābhyām) [handful-of-flowers](puṣpa+añjalim) [on-my+head](mat+mūrdhani) [one-should-offer](prayacchet)
 
 ## mukta-m0-p18-v429
-[thus](eva) [brahmin](brāhmaṇa)
+[thus](eva) [O-brāhmaṇa](brāhmaṇa)
 
 ## mukta-m0-p18-v430
-[thus](iti) [in-parananda-sutra](pārānandasūtre) [fourth-chapter](caturthamāhnikam)
+[thus](iti) [in-the-Pārānanda+sūtra](pārānanda+sūtre) [fourth+daily-section](caturtham+āhnikam)
 
 ## mukta-m0-p18-v431
-[om](oṃ) [ka](ka) [divine](aiśvaro) [dharma](dharmaḥ)
+[oṃ](oṃ) [what](kaḥ) [divine](aiśvaraḥ) [duty](dharmaḥ)
 
 ## mukta-m0-p18-v432
-[what](kiṃ) [merit](puṇyam)
+[what](kim) [merit](puṇyam)
 
 ## mukta-m0-p18-v433
-[what](kiṃ) [sin](pāpam)
+[what](kim) [sin](pāpam)
 
 ## mukta-m0-p18-v434
-[scripturally-declared](saṃskāraśāstroktaṃ) [heaven-causing](svargasādhakam) [agnishtoma-etc](agniṣṭomādikaṃ) [merit](puṇyam)
+[declared-by-ritual+scripture](saṃskāra+śāstra+uktam) [accomplishing-heaven+such-as-agniṣṭoma+and-others](svarga+sādhakam+agniṣṭoma+ādikam) [merit](puṇyam)
 
 ## mukta-m0-p18-v435
-[scripturally-forbidden](śāstraniṣiddhaṃ) [sin](pāpam)
+[forbidden-by-scripture](śāstra+niṣiddham) [sin](pāpam)
 
 ## mukta-m0-p18-v436
-[offered-to-that](tatsamarpitāni) [divine-dharmas](aiśvaradharmāyante)
+[those-offered-to-him](tat+samarpitāni) [for-divine+duty](aiśvara+dharmāya) [in-the-end](ante)
 
 ## mukta-m0-p18-v437
-[united](yutāni) [offered-to-that](tatsamarpitāni) [divine-dharmas](aiśvaradharmāyante)
+[endowed](yutāni) [those-offered-to-him](tat+samarpitāni) [for-divine+duty](aiśvara+dharmāya) [in-the-end](ante)
 
 ## mukta-m0-p18-v438
-[knower](jñānī) [devotee](bhakto) [initiated](dīkṣita) [divine-only](aiśvarāneva) [dharmas](dharmān) [let-him-do](kurvīta) [not](no) [others](itarān)
+[knower](jñānī) [devotee](bhaktaḥ) [initiated](dīkṣitaḥ) [divine](aiśvarān) [alone](eva) [duties](dharmān) [should-perform](kurvīta) [not](no) [others](itarān)
 
 ## mukta-m0-p18-v439
-[others](anye) [devotees](bhaktā) [initiated](dīkṣitāḥ) [everywhere](sarvatrā) [non-desire](anīhām) [divine-vision](īśvaradarśana) [here-only](evehā) [to-do](kartum) [unable](asamarthāḥ)
+[other](anye) [devotees](bhaktāḥ) [initiated](dīkṣitāḥ) [everywhere](sarvatra) [without-effort](anīhām) [in-vision-of-the-Lord](īśvara+darśane) [alone](eva) [here](iha) [to-do](kartum) [unable](asamarthāḥ)
 
 ## mukta-m0-p18-v440
-[divine-dharma](aiśvaradharmaṃ) [having-performed](nirvartya) [merits](puṇyāni) [or](vā) [let-them-accomplish](sampādayeyuḥ)
+[divine+duty](aiśvara+dharmam) [having-accomplished](nirvartya) [meritorious-acts](puṇyāni) [or](vā) [they-may-acquire](sampādayeyuḥ)
 
 ## mukta-m0-p18-v441
-[in-shravana-snake-offering-etc](śrāvaṇasarpabalidānādau) [gives](prayacchati)
+[in-the-offering-of-serpent-bali+in-Śrāvaṇa+and-so-on](śrāvaṇa+sarpa+bali+dānādau) [one-offers](prayacchati)
 
 ## mukta-m0-p18-v442
-[straightness](ārjavaṃ) [everywhere](sarvatra) [let-one-do](kuryāt)
+[straightforwardness](ārjavam) [everywhere](sarvatra) [one-should-practice](kuryāt)
 
 ## mukta-m0-p18-v443
-[non-straightness](nārjavam)
+[not](na) [crookedness](ārjavam)
 
 ## mukta-m0-p18-v444
-[to-be](bhavitum) [is-fit](arhati) [therefore](tasmād) [thus](evaṃ) [proper](yuktam)
+[to-be](bhavitum) [is-fit](arhati) [therefore](tasmāt) [thus](evam) [proper](yuktam)
 
 ## mukta-m0-p18-v445
-[two-fruit-giving](phaladvayadaṃ) [action](karma)
+[twofold+fruit+giving](phala+dvaya+dam) [action](karma)
 
 ## mukta-m0-p18-v446
-[direct-fruit-giving](sākṣātphaladaṃ) [in-transformation](pariṇāme) [fruit](phalaṃ) [gives](prayacchati) [and](ca)
+[directly+fruit+giving](sākṣāt+phala+dam) [in-result](pariṇāme) [fruit](phalam) [it-bestows](prayacchati) [and](ca)
 
 ## mukta-m0-p18-v447
-[done](kṛtaṃ) [sin](pāpaṃ) [hell-giving](nirayadaṃ) [transformed](pariṇataṃ) [bad-association-giving](duḥsaṅgadam)
+[done](kṛtam) [sin](pāpam) [hell+giving](niraya+dam) [when-ripened](pariṇatam) [bad+company+giving](duḥsaṅga+dam)
 
 ## mukta-m0-p18-v448
-[as](yathā) [bad-speech](durvākyaṃ) [beating-giving](tāḍanadaṃ) [transformed](pariṇataṃ) [prison-entry-giving](kārāgārapraveśadam)
+[just-as](yathā) [harsh+speech](durvākyam) [beating+giving](tāḍana+dam) [when-ripened](pariṇatam) [prison+entry+giving](kārāgāra+praveśa+dam)
 
 ## mukta-m0-p18-v449
-[this-opposite](etadviparītaṃ) [in-merit](puṇye)
+[this](etat) [opposite](viparītam) [in-merit](puṇye)
 
 ## mukta-m0-p18-v450
-[supreme-lord-vision-giving](parameśvaradarśanadaḥ)
+[supreme+Lord+vision+giving](parama+īśvara+darśana+daḥ)

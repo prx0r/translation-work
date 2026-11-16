@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p17-v401
-[from-men](manuṣyebhyaḥ) [absence-of-desire](anīhā) [steady](sthira) [practice](anuṣṭhāna) [rule](vidhi)
+[to-humans](manuṣyebhyaḥ) [but](tu) [non-desire](anīhā)
 
 ## mukta-m0-p17-v402
-[human](manuṣya) [measure](meya) [untouchable](apṛśya) [making](karaṇa) [rite](vidhi) [observance](anuṣṭhāna)
+[human](manuṣya) [measurable](meya) [untouchable](apṛśya) [making](karaṇam)
 
 ## mukta-m0-p17-v403
-[uncooked](apācita) [austerity](tapas) [touchable](pṛśya) [purification](partana) [rule](vidhi) [practice](anuṣṭhāna)
+[unhonored](apācita) [heat](tapā) [untouchable](pṛśyā) [filling](partanam)
 
 ## mukta-m0-p17-v404
-[with-oṃ-triple](sapraṇavatraya) [twenty-three](viṃśatika) [gāyatrī](gāyatrī) [japa](japa) [rite](vidhi) [observance](anuṣṭhāna)
+[with-praṇava](sapraṇava) [twenty-three](trayoviṃśatikā) [gāyatrī](gāyatrī) [recitation](japa)
 
 ## mukta-m0-p17-v405
-[secret](guhya) [dharma](dharma) [tenfold](daśaka) [completion](nirvartana) [rite](vidhi) [practice](anuṣṭhāna)
+[secret](guhya) [dharma](dharma) [tenfold](daśaka) [accomplishment](nirvartanam)
 
 ## mukta-m0-p17-v406
-[own](sva) [doctrine](mata) [investigation](anusaṃdhāna) [rule](vidhi) [practice](anuṣṭhāna) [observance](vrata)
+[own](sva) [doctrine](mata) [adherence](anusaṃdhānam)
 
 ## mukta-m0-p17-v407
-[other](anya) [doctrine](mata) [acceptance](svīkaraṇa) [rule](vidhi) [practice](anuṣṭhāna) [observance](vrata)
+[other](anya) [doctrines](mata) [non-acceptance](asvīkaraṇam)
 
 ## mukta-m0-p17-v408
-[this](eṣa) [eternal](nitya) [dharma](dharma) [rule](vidhi) [practice](anuṣṭhāna) [observance](vrata)
+[this](eṣa) [eternal](nityaḥ) [dharma](dharmaḥ)
 
 ## mukta-m0-p17-v409
-[of-the-latter](auttara) [own-eternal-dharma](svanityadharma) [practitioner](anuṣṭhāyin) [rule](vidhi) [observance](vrata) [practice](anuṣṭhāna)
+[of-the-uttara](auttarasya) [own](sva) [eternal](nitya) [dharma](dharma) [practitioner](anuṣṭhāyina)
 
 ## mukta-m0-p17-v410
-[dharma](dharma) [gaṅgā-bath](gaṅgāsnāna) [ash-smearing](bhasmalepana) [prescribed](vihita) [sacrifice](yajña) [etc](ādi) [by-him](tena) [done](kṛta) [prosperity](abhyudaya) [rule](vidhi)
+[dharma](dharmaḥ) [Gaṅgā](gaṅgā) [bathing](snāna) [ash](bhasma) [smearing](lepana) [prescribed](vihita) [sacrifice](yajña) [etc.](ādiḥ) [by-him](tena) [done](kṛtaḥ) [for-his-prosperity](tadabhyudayāya)
 
 ## mukta-m0-p17-v411
-[not](na) [growth](ucchryāya) [also](ca) [rule](vidhi) [practice](anuṣṭhāna) [observance](vrata) [limit](maryādā)
+[and](ca) [not](na) [for-elevation](ucchryāya)
 
 ## mukta-m0-p17-v412
-[not](na) [secret-dharma](guhyadharma) [in-books](pusteṣu) [write](pralikhenna) [not](na) [speak](vadecchiṣyato) [to-other](anyataḥ) [rule](vidhi) [practice](anuṣṭhāna)
+[not](na) [secret](guhya) [dharma](dharmaṃ) [in-books](pusteṣu) [should-write](pralikhet) [not](na) [should-speak](vadet) [to-disciple](śiṣyataḥ) [other-than](anyataḥ)
 
 ## mukta-m0-p17-v413
-[latter-guru](auttaraguru) [lotus-mouth](aktrābja) [known](vedyatvāt) [secret-dharmas](guhyadharmāṇām) [rule](vidhi) [practice](anuṣṭhāna) [observance](vrata)
+[of-uttara](auttara) [guru](guru) [lotus-mouth](vaktra+abja) [to-be-known](vedyatvāt) [of-secret-dharmas](guhya+dharmāṇām)
 
 ## mukta-m0-p17-v414
-[writing](pralikhan) [secret-dharmas](guhyadharmāṁs) [tu](tu) [raurava](raurava) [hell](naraka) [goes](vrajediti) [rule](vidhi) [practice](anuṣṭhāna)
+[writing](pralikhan) [secret](guhya) [dharmas](dharmāṁḥ) [but](tu) [Raurava](raurava) [hell](naraka) [should-go](vrajet) [thus](iti)
 
 ## mukta-m0-p17-v415
-[brahmin-killing](brahmahatyā) [hundred](śata) [his](tasya) [who](yaḥ) [speaks](vadecchiṣyato) [to-other](anyata) [iti](iti) [rule](vidhi) [practice](anuṣṭhāna)
+[brahman-murder](brahmahatyā) [hundred](śata) [of-him](tasya) [who](yaḥ) [should-speak](vadet) [to-disciple](śiṣyataḥ) [other-than](anyataḥ) [thus](iti)
 
 ## mukta-m0-p17-v416
-[therefore](ata) [sun-stopping](sūryasastambhana) [flow](pravāha) [initiation](pravartanādi) [accomplishment](siddhimān) [eva](eva) [disciple](śiṣya) [make](kurvīta) [rule](vidhi) [practice](anuṣṭhāna)
+[therefore](ata) [sun](sūrya) [stopping](sastambhana) [stream](pravāha) [causing-to-flow](pravartana) [etc.](ādi) [power-possessing](siddhimān) [alone](eva) [disciple](śiṣya) [one-should-make](kurvīta)
 
 ## mukta-m0-p17-v417
-[so-long](tāvan) [na](na) [disciples](śiṣyān) [make](kurvīta) [hi](hi) [latter-path](uttarācāramārgavān) [kasmiṃścit](kasmiṃścit) [kathaṃcit](kathaṃcit) [kaṃcit](kaṃcit) [rule](vidhi) [practice](anuṣṭhāna)
+[so-long](tāvat) [not](na) [disciples](śiṣyān) [one-should-make](kurvīta) [indeed](hi) [uttara](uttara) [conduct](ācāra) [path](mārga) [possessing](vān) [to-anyone](kasmiṃścit) [in-any-way](kathaṃcit) [to-anyone](kaṃcit)
 
 ## mukta-m0-p17-v418
-[aya](aya) [right-left](dakṣavāma) [uninitiated-before](adīkṣitapūrvo) [api](api) [of-them](tayor) [authorized](adhikṛto) [becomes](bhavati) [rule](vidhi) [practice](anuṣṭhāna)
+[this](aya) [of-right-and-left](dakṣa+vāmayor) [uninitiated](adīkṣita) [previously](pūrvaḥ) [even](api) [of-those-two](tayor) [qualified](adhikṛtaḥ) [becomes](bhavati)
 
 ## mukta-m0-p17-v419
-[latter](uttare) [humans](manuṣyeṣu) [two](dvāveva) [disciples](śiṣyau) [to-be-made](kāryau) [rule](vidhi) [practice](anuṣṭhāna) [observance](vrata)
+[in-uttara](uttare) [among-humans](manuṣyeṣu) [two](dvau) [only](eva) [disciples](śiṣyau) [to-be-made](kāryau)
 
 ## mukta-m0-p17-v420
-[there](tatra) [with-accomplishment](sasiddhayaḥ) [of-eligible](yeṣṭha) [eva](eva) [disciple](śiṣyaṃ) [to-make](kartuṃ) [able](samartha) [rule](vidhi) [practice](anuṣṭhāna)
+[there](tatra) [of-those-with-powers](sasiddhayoḥ) [elder](yeṣṭha) [alone](eva) [disciple](śiṣyaṃ) [to-make](kartuṃ) [capable](samartha)
 
 ## mukta-m0-p17-v421
-[elder](jyeṣṭha) [accomplishment-absence](sasidhyabhāve) [then](tad) [permitted](anujñāta) [younger](kaniṣṭha) [accomplished](siddha) [disciple](śiṣyaṃ) [make](kuryāt) [rule](vidhi) [practice](anuṣṭhāna)
+[of-elder](jyeṣṭha) [power](sasidhya) [absence](abhāve) [by-his-permission](tadanujñāta) [younger](kaniṣṭha) [accomplished](siddha) [disciple](śiṣyaṃ) [should-make](kuryāt)
 
 ## mukta-m0-p17-v422
-[lamp](dīpa) [pacification](śāṃti) [not](na) [make](kurvīta) [learned](vidvā) [dharma-devoted](dharmaparāyaṇa) [iti](iti) [rule](vidhi) [practice](anuṣṭhāna)
+[lamp](dīpa) [pacification](śāṃti) [not](na) [one-should-do](kurvīta) [wise](vidvā) [dharma](dharma) [devoted](parāyaṇa) [thus](iti)
 
 ## mukta-m0-p17-v423
-[someone](kaścid) [latter](uttare) [right-left](dakṣavāma) [like](vacchiṣyabāhulyamicchati) [disciple-abundance](śiṣyabāhulya) [desires](icchati) [rule](vidhi) [practice](anuṣṭhāna)
+[someone](kaścit) [in-uttara](uttare) [like-right-and-left](dakṣa+vāma+vat) [disciple](śiṣya) [multiplicity](bāhulyam) [desires](icchati)
 
 ## mukta-m0-p17-v424
-[latter-path](uttarācāramārgeṇa) [supreme-self-worship](parātmopāsanam) [īśvara-like](īśvaravad) [iti](iti) [unmatta-bhairava](unmattabhairava) [rule](vidhi) [practice](anuṣṭhāna)
+[by-uttara](uttara) [conduct](ācāra) [path](mārgeṇa) [supreme-self](para+ātma) [worship](upāsanam) [like-Īśvara](īśvara+vat) [thus](iti) [Unmattabhairava](unmattabhairavaḥ)
 
 ## mukta-m0-p17-v425
-[ānanda-sound-ending](ānandaśabdāntaṃ) [name](nāma) [should-give](vidadhyād) [uttare](uttare) [rule](vidhi) [practice](anuṣṭhāna) [observance](vrata)
+[ānanda](ānanda) [word](śabda) [ending](antaṃ) [name](nāma) [one-should-give](vidadhyāt) [in-uttara](uttare)
