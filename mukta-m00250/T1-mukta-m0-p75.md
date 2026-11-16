@@ -2,49 +2,49 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p75-v1851
-[its-height](tasyotsedhaṃ) [in-essence-part](rasāṃśe) [but](tu) [should-do-by-part](kuryādaṃśena) [bearer](dhṛk) [becomes](bhavet)
+[its](tasya) [height](utsedhaṃ) [in-taste+parts](rasāṃśe) [indeed](tu) [one-should-make](kuryāt) [by-a-part](aṃśena) [support](dhṛk) [should-be](bhavet)
 
 ## mukta-m0-p75-v1852
-[mouth](āsyamekena) [by-one](āsyamekena) [should-be-done](kartavyaṃ) [lotus](padmamekena) [by-one](padmamekena) [should-be-made](kārayet)
+[face](āsyam) [by-one](ekena) [should-be-made](kartavyaṃ) [lotus](padmam) [by-one](ekena) [one-should-make](kārayet)
 
 ## mukta-m0-p75-v1853
-[by-half-part](ardhāṃśenaiva) [should-be-done](kartavyā) [mouth-expansion](āsyavistāram) [is-said](ucyate)
+[by-half+part](ardhāṃśena) [indeed](eva) [should-be-made](kartavyā) [face+width](āsyavistāram) [is-stated](ucyate)
 
 ## mukta-m0-p75-v1854
-[by-middle](madhyena) [growth-foot](vṛddhipādaṃ) [would-be](syāt) [fourfold](caturguṇantu) [in-forgetting](vismṛtau)
+[by-middle](madhyena) [increase+foot](vṛddhipādaṃ) [should-be](syāt) [fourfold](caturguṇam) [indeed](tu) [in-extension](vismṛtau)
 
 ## mukta-m0-p75-v1855
-[staff-height](daṇḍotsedhaṃ) [by-quality-part](guṇāṃśena) [by-portion](bhāgena) [height](utsedham) [is-said](ucyate)
+[staff+height](daṇḍotsedhaṃ) [by-quality+part](guṇāṃśena) [by-part](bhāgena) [height](utsedham) [is-stated](ucyate)
 
 ## mukta-m0-p75-v1856
-[hero-stem](vīrakāṇḍasya) [expansion](vistāraṃ) [foot-expansion](pādavistārameva) [or](vā)
+[hero+shaft+of](vīrakāṇḍasya) [width](vistāraṃ) [foot+width](pādavistāram) [indeed](eva) [or](vā)
 
 ## mukta-m0-p75-v1857
-[five-parts](pañcāṃśena) [highest](uttamā) [knowledge](vidyā) [four](cature) [middle](madhyamaṃ) [becomes](bhavet)
+[by-five+parts](pañcāṃśena) [best](uttamā) [knowledge](vidyā) [by-four](cature) [middle](madhyamaṃ) [should-be](bhavet)
 
 ## mukta-m0-p75-v1858
-[by-part](aṃśena) [potika-height](potikotsedha) [northern](uttarā) [is-remembered](smṛtam)
+[by-one-part](aṃśena) [bracket+height](potikotsedha) [upper-beam](uttarā) [is-remembered](smṛtam)
 
 ## mukta-m0-p75-v1859
-[height](utsedhantu) [threefold](tridhā) [having-made](kṛtvā) [one-portion](ekabhāgantu)
+[height](utsedham) [indeed](tu) [threefold](tridhā) [having-made](kṛtvā) [one+part](ekabhāgam) [indeed](tu) [*](*) [*](*) [*](*)
 
 ## mukta-m0-p75-v1860
-[in-palika](pālike) [five-portion](pañcabhāge) [tu](tu) [yoke-limb](yugāṅgaṃ) [lotus-expanded](padmavistṛtam)
+[in-capital](pālike) [in-five+parts](pañcabhāge) [indeed](tu) [pair+member](yugāṅgaṃ) [lotus+width](padmavistṛtam)
 
 ## mukta-m0-p75-v1861
-[pot-triple-part-one](kuṃbhatāratribhāgaikaṃ) [pot-below](kuṃbhasyādhova) [attached](lagnakam)
+[pitcher+width+three+part+one](kuṃbhatāratribhāgaikaṃ) [of-pitcher](kuṃbhasya) [below](adhova) [attached](lagnakam)
 
 ## mukta-m0-p75-v1862
-[neck](kandharaṃ) [threefold](triguṇaṃ) [palika](pāli) [triple-part-one](tattribhāgaika) [kushmala](kuśmalam)
+[neck](kandharaṃ) [threefold](triguṇaṃ) [capital](pāli) [that+three+part+one](tattribhāgaika) [bud](kuśmalam)
 
 ## mukta-m0-p75-v1863
-[lotus-high](padmoccaṃ) [tirthya-part](tīrthyaṃśantu) [smooth-glossy](snignagdhañcāsyārdhamaṃśakam)
+[lotus+height](padmoccaṃ) [three+part](tīrthyaṃśam) [indeed](tu) [smooth+compact](snignagdham) [and](ca) [face+half+part](āsyārdhamaṃśakam)
 
 ## mukta-m0-p75-v1864
-[one-and-half](adhyardha) [upward-lotus](ūrdhvapadmantu) [essence-part](rasāṃśaṃ) [neck-height](grīvamucchrayam)
+[one-and-half](adhyardha) [upper+lotus](ūrdhvapadmam) [indeed](tu) [taste+part](rasāṃśaṃ) [neck](grīvam) [height](ucchrayam)
 
 ## mukta-m0-p75-v1865
-[neck-height](kumucchrayaṃ) [five-portion-half](paṃcabhāgārdhamevaṃ) [stupa](sthūpirudāhṛtam)
+[pitcher+height](kumucchrayaṃ) [five+part+half](paṃcabhāgārdham) [thus](evaṃ) [finial](sthūpiḥ) [is-declared](udāhṛtam)
 
 ## mukta-m0-p75-v1866
-[temple-half-measure](prāsādārdhapramāṇena) [half-mandapa](ardhamaṇṭapamiṣyate)
+[temple+half+measure](prāsādārdhapramāṇena) [half+hall](ardhamaṇṭapam) [is-desired](iṣyate)

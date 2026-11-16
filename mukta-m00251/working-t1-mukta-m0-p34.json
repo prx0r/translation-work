@@ -8,7 +8,7 @@
 "tokens": [
 {
 "surface": "jñānāt",
-"quick_gloss": "knowledge"
+"quick_gloss": "from-knowledge"
 },
 {
 "surface": "apunarāvṛttiḥ",
@@ -16,15 +16,19 @@
 },
 {
 "surface": "bhavet",
-"quick_gloss": "becomes"
+"quick_gloss": "would-be"
 },
 {
-"surface": "tadapi",
-"quick_gloss": "that-also"
+"surface": "tat",
+"quick_gloss": "that"
+},
+{
+"surface": "api",
+"quick_gloss": "also"
 },
 {
 "surface": "kāriṇī",
-"quick_gloss": "causing"
+"quick_gloss": "causal"
 }
 ]
 },
@@ -49,11 +53,11 @@
 },
 {
 "surface": "api",
-"quick_gloss": "api"
+"quick_gloss": "also"
 },
 {
 "surface": "aśeṣataḥ",
-"quick_gloss": "completely"
+"quick_gloss": "entirely"
 }
 ]
 },
@@ -66,19 +70,19 @@
 "tokens": [
 {
 "surface": "sa",
-"quick_gloss": "he"
+"quick_gloss": "that"
 },
 {
 "surface": "kāmā",
-"quick_gloss": "desire"
+"quick_gloss": "desire-based"
 },
 {
 "surface": "kāmita+phalā",
-"quick_gloss": "desired-fruit"
+"quick_gloss": "yielding-desired-fruit"
 },
 {
 "surface": "nyāsa+yoga+ādi+lakṣaṇāḥ",
-"quick_gloss": "renunciation-yoga-etc-marked"
+"quick_gloss": "renunciation+yoga+etc.-characterized"
 }
 ]
 },
@@ -116,15 +120,15 @@
 },
 {
 "surface": "tu",
-"quick_gloss": "but"
+"quick_gloss": "indeed"
 },
 {
 "surface": "sanyāsikī",
-"quick_gloss": "renunciant"
+"quick_gloss": "of-renunciation"
 },
 {
 "surface": "kriyā",
-"quick_gloss": "action"
+"quick_gloss": "activity"
 }
 ]
 },
@@ -141,15 +145,15 @@
 },
 {
 "surface": "samuddiṣṭāḥ",
-"quick_gloss": "described"
+"quick_gloss": "are-declared"
 },
 {
 "surface": "catasraḥ",
 "quick_gloss": "four"
 },
 {
-"surface": "triguṇa+ātmikāḥ",
-"quick_gloss": "three-guna-natured"
+"surface": "tri+guṇa+ātmikāḥ",
+"quick_gloss": "consisting-of-three-guṇas"
 }
 ]
 },
@@ -161,15 +165,15 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "yat+kiñcit",
+"surface": "yatkiñcit",
 "quick_gloss": "whatever"
 },
 {
-"surface": "ārjitam",
-"quick_gloss": "earned"
+"surface": "ārjitaṃ",
+"quick_gloss": "acquired"
 },
 {
-"surface": "puṇyam",
+"surface": "puṇyaṃ",
 "quick_gloss": "merit"
 },
 {
@@ -191,27 +195,27 @@
 "tokens": [
 {
 "surface": "śeṣa+vṛttī",
-"quick_gloss": "remaining-conduct"
+"quick_gloss": "remaining-tendency"
 },
 {
 "surface": "guṇa+mayī",
-"quick_gloss": "guna-made"
+"quick_gloss": "consisting-of-guṇas"
 },
 {
 "surface": "tiṣṭhati",
-"quick_gloss": "stands"
+"quick_gloss": "remains"
 },
 {
 "surface": "ekā",
-"quick_gloss": "one"
+"quick_gloss": "even-one"
 },
 {
 "surface": "api",
-"quick_gloss": "api"
+"quick_gloss": "also"
 },
 {
 "surface": "aviplutā",
-"quick_gloss": "unfallen"
+"quick_gloss": "unimpaired"
 }
 ]
 },
@@ -237,7 +241,7 @@
 "tokens": [
 {
 "surface": "svarge",
-"quick_gloss": "heaven"
+"quick_gloss": "in-heaven"
 },
 {
 "surface": "vā",
@@ -245,7 +249,7 @@
 },
 {
 "surface": "narake",
-"quick_gloss": "hell"
+"quick_gloss": "in-hell"
 },
 {
 "surface": "vā",
@@ -253,15 +257,15 @@
 },
 {
 "surface": "api",
-"quick_gloss": "api"
+"quick_gloss": "also"
 },
 {
 "surface": "yatra",
-"quick_gloss": "where"
+"quick_gloss": "wherever"
 },
 {
 "surface": "yatra",
-"quick_gloss": "where"
+"quick_gloss": "wherever"
 },
 {
 "surface": "yathā",
@@ -281,16 +285,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
+"surface": "kta",
+"quick_gloss": "kta"
+},
+{
 "surface": "kriyā+ārambhāḥ",
-"quick_gloss": "actions-beginnings"
+"quick_gloss": "undertakings-of-action"
 },
 {
 "surface": "saktāḥ",
 "quick_gloss": "attached"
 },
 {
-"surface": "karma+phala+iṣiṇam",
-"quick_gloss": "fruit-seeker"
+"surface": "karma+phala+eṣiṇam",
+"quick_gloss": "to-one-desiring-fruit-of-action"
 }
 ]
 },
@@ -302,7 +310,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "sanyāsam",
+"surface": "sanyāsaṃ",
 "quick_gloss": "renunciation"
 },
 {
@@ -314,8 +322,8 @@
 "quick_gloss": "perform"
 },
 {
-"surface": "kṛtānām",
-"quick_gloss": "done"
+"surface": "kṛtānā",
+"quick_gloss": "of-done"
 }
 ]
 },
@@ -328,7 +336,7 @@
 "tokens": [
 {
 "surface": "avyakte",
-"quick_gloss": "unmanifest"
+"quick_gloss": "in-the-unmanifest"
 },
 {
 "surface": "vā",
@@ -336,11 +344,11 @@
 },
 {
 "surface": "parikṣīṇe",
-"quick_gloss": "exhausted"
+"quick_gloss": "when-exhausted"
 },
 {
 "surface": "guṇe",
-"quick_gloss": "guna"
+"quick_gloss": "in-guṇa"
 },
 {
 "surface": "nāśena",
@@ -348,7 +356,7 @@
 },
 {
 "surface": "vidyate",
-"quick_gloss": "is-known"
+"quick_gloss": "exists"
 }
 ]
 },
@@ -360,12 +368,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "yoga+bhedam",
-"quick_gloss": "yoga-difference"
+"surface": "yoga+bhedaṃ",
+"quick_gloss": "division-of-yoga"
 },
 {
 "surface": "samāsataḥ",
-"quick_gloss": "briefly"
+"quick_gloss": "in-brief"
 }
 ]
 },
@@ -378,15 +386,15 @@
 "tokens": [
 {
 "surface": "sthūla+sūkṣma+vibhāgena",
-"quick_gloss": "gross-subtle-division"
+"quick_gloss": "by-division-of-gross-and-subtle"
 },
 {
 "surface": "śivena",
-"quick_gloss": "auspicious"
+"quick_gloss": "by-Śiva"
 },
 {
 "surface": "parama+ātmanā",
-"quick_gloss": "supreme-self"
+"quick_gloss": "by-the-supreme-self"
 }
 ]
 },
@@ -398,24 +406,24 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "nirguṇam",
-"quick_gloss": "gunless"
+"surface": "nirguṇaṃ",
+"quick_gloss": "without-guṇas"
 },
 {
-"surface": "yogam",
+"surface": "yogaṃ",
 "quick_gloss": "yoga"
 },
 {
 "surface": "prāpya",
-"quick_gloss": "having-obtained"
+"quick_gloss": "having-attained"
 },
 {
-"surface": "saguṇena",
-"quick_gloss": "with-guna"
+"surface": "sa+guṇena",
+"quick_gloss": "with-guṇas"
 },
 {
 "surface": "mumukṣavaḥ",
-"quick_gloss": "liberation-seekers"
+"quick_gloss": "those-desiring-liberation"
 }
 ]
 },
@@ -432,7 +440,7 @@
 },
 {
 "surface": "śātiśayān",
-"quick_gloss": "excessive"
+"quick_gloss": "surpassing"
 },
 {
 "surface": "bhogān",
@@ -440,7 +448,7 @@
 },
 {
 "surface": "ante",
-"quick_gloss": "end"
+"quick_gloss": "in-the-end"
 },
 {
 "surface": "tatra",
@@ -448,7 +456,7 @@
 },
 {
 "surface": "guṇa+ātmikān",
-"quick_gloss": "guna-natured"
+"quick_gloss": "consisting-of-guṇas"
 }
 ]
 },
@@ -461,19 +469,15 @@
 "tokens": [
 {
 "surface": "vidyā+yogena",
-"quick_gloss": "knowledge-yoga"
+"quick_gloss": "of-those-accomplished-by-knowledge-yoga"
 },
 {
-"surface": "siddhānām",
-"quick_gloss": "of-accomplished"
-},
-{
-"surface": "duḥkham",
+"surface": "duḥkhaṃ",
 "quick_gloss": "suffering"
 },
 {
 "surface": "sātiśaya+ātmakam",
-"quick_gloss": "excessive-natured"
+"quick_gloss": "of-surpassing-nature"
 }
 ]
 },
@@ -489,20 +493,20 @@
 "quick_gloss": "therefore"
 },
 {
-"surface": "sātiśayam",
-"quick_gloss": "excessive"
+"surface": "sātiśayaṃ",
+"quick_gloss": "surpassing"
 },
 {
-"surface": "yogam",
+"surface": "yogaṃ",
 "quick_gloss": "yoga"
 },
 {
 "surface": "sa",
-"quick_gloss": "he"
+"quick_gloss": "that"
 },
 {
 "surface": "vidyā+kalpanā+yutam",
-"quick_gloss": "knowledge-contrivance-endowed"
+"quick_gloss": "endowed-with-conception-of-knowledge"
 }
 ]
 },
@@ -519,11 +523,11 @@
 },
 {
 "surface": "kathayiṣyāmi",
-"quick_gloss": "I-will-tell"
+"quick_gloss": "I-shall-explain"
 },
 {
 "surface": "vidyā+yogasya",
-"quick_gloss": "knowledge-yoga"
+"quick_gloss": "of-the-yoga-of-knowledge"
 },
 {
 "surface": "nirṇayam",
@@ -539,16 +543,24 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "trisareṇu+bhramaḥ",
-"quick_gloss": "three-dust-whirl"
+"surface": "tri+sareṇu",
+"quick_gloss": "of-three-trasareṇus"
 },
 {
-"surface": "vāyu+reṇukaḥ",
-"quick_gloss": "wind-dust"
+"surface": "bhramaḥ",
+"quick_gloss": "motion"
+},
+{
+"surface": "vāyuḥ",
+"quick_gloss": "or-air-particle"
+},
+{
+"surface": "eṇukaḥ",
+"quick_gloss": "atom"
 },
 {
 "surface": "parikīrtitaḥ",
-"quick_gloss": "is-declared"
+"quick_gloss": "is-called"
 }
 ]
 },
@@ -560,20 +572,24 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "mano+vastha+maṇum",
-"quick_gloss": "mind-state-atom"
+"surface": "manaḥ+avastham",
+"quick_gloss": "existing-in-mind"
+},
+{
+"surface": "aṇuṃ",
+"quick_gloss": "atom"
 },
 {
 "surface": "vidyāt",
-"quick_gloss": "know"
+"quick_gloss": "one-should-know"
 },
 {
 "surface": "vāk",
-"quick_gloss": "speech"
+"quick_gloss": "in-speech"
 },
 {
 "surface": "sthāne",
-"quick_gloss": "place"
+"quick_gloss": "in-place"
 },
 {
 "surface": "ca",
@@ -593,20 +609,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "hrasva+dīrgha+pluta+ākhyaḥ",
-"quick_gloss": "short-long-pluta-named"
+"surface": "hrasva+dīrgha+pḷta+ākhyaḥ",
+"quick_gloss": "called-short-long-and-protracted"
 },
 {
 "surface": "tu",
-"quick_gloss": "tu"
+"quick_gloss": "indeed"
 },
 {
 "surface": "mātrā+trayam",
-"quick_gloss": "three-morae"
+"quick_gloss": "triad-of-measures"
 },
 {
 "surface": "udāhṛtam",
-"quick_gloss": "is-called"
+"quick_gloss": "is-declared"
 }
 ]
 },
@@ -618,20 +634,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "eka+mātram",
-"quick_gloss": "one-mora"
+"surface": "eka+mātraṃ",
+"quick_gloss": "of-one-measure"
 },
 {
 "surface": "vadet",
-"quick_gloss": "would-say"
+"quick_gloss": "utters"
 },
 {
 "surface": "cāṣaḥ",
-"quick_gloss": "caṣa"
+"quick_gloss": "blue-jay"
 },
 {
-"surface": "dvi+mātram",
-"quick_gloss": "two-mora"
+"surface": "dvi+mātraṃ",
+"quick_gloss": "of-two-measures"
 },
 {
 "surface": "vāyasaḥ",
@@ -639,7 +655,7 @@
 },
 {
 "surface": "vadet",
-"quick_gloss": "would-say"
+"quick_gloss": "utters"
 }
 ]
 },
@@ -652,11 +668,11 @@
 "tokens": [
 {
 "surface": "ghaṇṭā+nāda+anta+saṃstham",
-"quick_gloss": "bell-sound-end-situated"
+"quick_gloss": "ending-in-the-sound-of-a-bell"
 },
 {
 "surface": "tu",
-"quick_gloss": "tu"
+"quick_gloss": "indeed"
 },
 {
 "surface": "virāmaḥ",
@@ -668,7 +684,7 @@
 },
 {
 "surface": "prakīrtitaḥ",
-"quick_gloss": "is-declared"
+"quick_gloss": "is-called"
 }
 ]
 }
