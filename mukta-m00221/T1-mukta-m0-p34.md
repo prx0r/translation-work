@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p34-v826
-[here](atra) [also](api) [I-think](manye) [of-women+children+faced-ones](strī+bāla+mukhānāṃ) [not](na) [indeed](hi) [possibility](sambhavam)
+[here](atrā')+[also](pi) [I-think](manye) [woman](strī)+[child](bāla)+[faced-ones](mukhānāṃ) [not](na) [indeed](hi) [possibility](sambhavam)
 
 ## mukta-m0-p34-v827
-[now](atha) [or](vā) [this](etat) [by-me](mayā) [formerly](pūrvaṃ) [heard](śrutam) [from-lotus-seated-one](abja+āsanāt) [from-mouth](mukhāt)
+[now](atha) [but](vā)+[this](etat)+[by-me](mayā) [formerly](pūrvaṃ) [heard](śrutam)+[lotus](abja)+[seated-one](āsanāt)+[from-mouth](mukhāt)
 
 ## mukta-m0-p34-v828
-[thus](iti) [therefore](tat) [my](me) [retinue](parīvāraṃ) [not](na) [may-dry-up](śoṣayatu) [she](sā) [supreme](parā)
+[thus](iti) [that](tat)+[my](me) [retinue](parīvāraṃ) [not](na) [let-dry-up](śoṣayatu) [she](sā) [supreme](parā)
 
 ## mukta-m0-p34-v829
-[of-knowing](jānānasya) [even](api) [of-me](me) [goddess](devī) [delusion](moham) [produces](utpādayati) [exceedingly](alam)
+[knowing](jānānasya)+[even](api) [of-me](me) [goddess](devī) [delusion](moham)+[produces](utpādayati)+[greatly](alam)
 
 ## mukta-m0-p34-v830
-[therefore](tat) [him](taṃ) [with-whole](sarveṇa) [with-disposition](bhāvena) [refuge](śaraṇaṃ) [having-attained](prāptavān) [I](aham)
+[therefore](tat)+[him](taṃ) [with-all](sarveṇa) [being](bhāvena) [refuge](śaraṇaṃ) [attained](prāptavān)+[I](aham)
 
 ## mukta-m0-p34-v831
-[protect](pāhi) [me](māṃ) [O-supreme-goddess](parameśāni) [O-refuge-giver](śaraṇye) [refuge-taken](śaraṇa+āgatam)
+[protect](pāhi) [me](māṃ) [supreme-goddess](parameśāni) [O-refuge-worthy](śaraṇye) [refuge-come](śaraṇāgatam)
 
 ## mukta-m0-p34-v832
-[thus](iti) [having-prayed](prārthya) [to-great-goddess](mahā+devīṃ) [Tripura](tripurāṃ) [Bhaṇḍa-demon](bhaṇḍa+dānavaḥ)
+[thus](iti) [having-prayed](prārthya) [great-goddess](mahādevīṃ) [Tripura](tripurāṃ) [Bhaṇḍa](bhaṇḍa)+[demon](dānavaḥ)
 
 ## mukta-m0-p34-v833
-[delighting](harṣayan) [thus](iti) [spoke](ha) [said](uvāca) [with-valor+endowed](parākrama+yutaṃ) [speech](vacaḥ)
+[delighting](harṣayann)+[thus](iti) [spoke](uvāca) [valor](parākrama)+[endowed](yutaṃ) [speech](vacaḥ)
 
 ## mukta-m0-p34-v834
-[not](na) [of-me](me) [death](mṛyuḥ) [from-anywhere](kutaḥ+api) [is](asti) [of-death](mṛtyoḥ) [death](mṛtyuḥ) [I](aham) [as](yathā)
+[not](na) [of-me](me) [death](mṛyuḥ) [from-anywhere](kuto'pi)+[exists](asti) [of-death](mṛtyor)+[death](mṛtyur)+[I](aham) [as](yathā)
 
 ## mukta-m0-p34-v835
-[of-moving+non-moving+worlds](sa+cara+a+cara+lokānāṃ) [creator](sraṣṭā) [I](aham) [of-you](vaḥ) [in-sight](samakṣataḥ)
+[moving](sacara)+[non-moving](acara)+[worlds](lokānāṃ) [creator](sraṣṭā)+[I](aham) [of-you](vaḥ) [before-eyes](samakṣataḥ)
 
 ## mukta-m0-p34-v836
-[therefore](tat) [this](imām) [weak-woman](abalāṃ) [having-known](jñātvā) [not](na) [quickly](śīghraṃ) [to-kill](hantum) [I-desire](utshe)
+[therefore](tat)+[this](imām)+[woman](abalāṃ) [knowing](jñātvā) [not](na) [quickly](śīghraṃ) [to-kill](hantum)+[I-strive](utshe)
 
 ## mukta-m0-p34-v837
-[own+inner+palace](sva+antaḥ+puraṃ) [having-brought](samānīya) [great+bliss](mahā+ānandam) [I-shall-enjoy](uṣaimi) [exceedingly](alam)
+[own](svā')+[inner](ntaḥ) [palace](puraṃ) [having-brought](samānīya) [great](mahā)+[bliss](ānandam)+[I-shall-enjoy](uṣaimi)+[greatly](alam)
 
 ## mukta-m0-p34-v838
-[of-Bhaṇḍāsura](bhaṇḍāsurasya) [of-speech+and-reply+description](ūha+apohavarṇanaṃ) [named](nāma) [sixtieth](ṣaṣṭitamaḥ) [chapter](adhyāyaḥ)
+[of-Bhaṇḍa](bhaṇḍa)+[demon](āsurasya)+[speech](ūhā)+[and](am)+[reply](apohā)+[description](varṇanaṃ) [named](nāma) [sixtieth](ṣaṣṭitamo)+[chapter](adhyāyaḥ)
 
 ## mukta-m0-p34-v839
-[he-spoke](babhāṣe) [with-anger+reddened+eyes](krodha+tāmra+akṣaḥ) [chariot](rathaḥ) [let-be-yoked](saṃyujyatām) [thus](iti)
+[spoke](babhāṣe) [with-anger](krodha)+[red](tāmra)+[eyed](ākṣo) [chariot](rathaḥ) [let-be-yoked](saṃyujyatām)+[thus](iti)
 
 ## mukta-m0-p34-v840
-[he-informed](nivedayat) [to-demon-lord](daitya+nāthe) [having-bowed](praṇamya) [very+humbly](ati+vinītavat)
+[announced](nivedayat)+[to-demon](daitya)+[lord](nāthe) [having-bowed](praṇamya)+[very](ati)+[humbly](vinītavat)
 
 ## mukta-m0-p34-v841
-[having-taken](gṛhītvā) [with-arrow](sa+śaraṃ) [bow](cāpaṃ) [he-set-forth](pracacāla) [very+enraged](ati+roṣitaḥ)
+[having-taken](gṛhītvā) [with-arrow](saśaraṃ) [bow](cāpaṃ) [set-forth](pracacāla)+[very](ati)+[angered](roṣitaḥ)
 
 ## mukta-m0-p34-v842
-[demons](daityāḥ) [went-forth](viniryayuḥ) [quickly](śīghraṃ) [armored](sannaddhāḥ) [with-anger+fainted](krodha+mūrchitāḥ)
+[demons](daityā) [went-forth](viniryayuḥ) [quickly](śīghraṃ) [armored](sannaddhāḥ) [with-anger](krodha)+[fainted](mūrchitāḥ)
 
 ## mukta-m0-p34-v843
-[went-forth](niryayuḥ) [demon+warriors](daitya+subhaṭāḥ) [in-multitudes](saṅghaśaḥ) [holding+weapons](dhṛta+hetayaḥ)
+[went-forth](niryayur)+[demon](daitya)+[warriors](subhaṭāḥ) [in-multitudes](saṅghaśo) [holding](dhṛta)+[weapons](hetayaḥ)
 
 ## mukta-m0-p34-v844
-[Kuṭilākṣa](kuṭilākṣaḥ) [elder-brother](agrajaḥ) [of-them](teṣām) [immeasurable+strength+valor](ameya+bala+vikramaḥ)
+[Kuṭilākṣa](kuṭilākṣo)+[elder-brother](agrajas)+[of-them](teṣām)+[immeasurable](ameya)+[strength](bala)+[valor](vikramaḥ)
 
 ## mukta-m0-p34-v845
-[with-akṣauhiṇī+hundred+joined](akṣauhiṇī+śata+yutāḥ) [Bhaṇḍa-demons](bhaṇḍa+daityāḥ) [in-front](agrataḥ) [went](yayuḥ)
+[akṣauhiṇī](akṣauhiṇī)+[hundred](śata)+[endowed-with](yutā) [Bhaṇḍa](bhaṇḍa)+[demon](daitya)+[in-front](agrato) [went](yayuḥ)
 
 ## mukta-m0-p34-v846
-[on-two-sides](pārśvayoḥ) [of-demon-king](daitya+parājasya) [Viṣaṅga](viṣaṅgaḥ) [and](ca) [Viśukraka](viśukrakaḥ)
+[on-sides](pārśvayor)+[of-demon](daitya)+[king](parājasya) [Viṣaṅga](viṣaṅgaś)+[and](ca) [Viśukraka](viśukrakaḥ)
 
 ## mukta-m0-p34-v847
-[chariot-standing](ratha+sthau) [those-two](tau) [great+bowed](mahā+cāpau) [with-anger+reddened+eyes](krudhā+aruṇita+locanau)
+[chariot](ratha)+[standing](sthau) [those-two](tau) [great](mahā)+[bowed](cāpau) [with-anger](krudhā)+[reddened](aruṇita)+[eyed](locanau)
 
 ## mukta-m0-p34-v848
-[each](pratyekam) [of-akṣauhiṇīs](akṣauhiṇīnāṃ) [by-hundred](śatena) [surrounded](parivāritau)
+[each](pratyekam)+[of-akṣauhiṇīs](akṣauhiṇīnāṃ) [by-hundred](śatena) [surrounded](parivāritau)
 
 ## mukta-m0-p34-v849
-[followed](anujagmuḥ) [demon-lord](daitya+parim) [with-hundred+akṣauhiṇīs+joined](śata+akṣauhiṇi+saṃyutāḥ)
+[followed](anujagmur)+[demon](daitya)+[king](pariṃ) [hundred](śata)+[akṣauhiṇī](akṣauhiṇi)+[accompanied](saṃyutāḥ)
 
 ## mukta-m0-p34-v850
-[shone](rarāja) [royal-road](rāja+pathyā) [indeed](tu) [rainy-season+river](prāvṛṭ+kāla+nadī) [like](yathā)
+[shone](rarāja) [royal](rāja)+[road](pathyā) [indeed](tu) [rainy-season](prāvṛṭkāla)+[river](nadī) [like](yathā)
