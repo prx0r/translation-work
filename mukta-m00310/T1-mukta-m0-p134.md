@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p134-v3326
-with-lord-ones (seśvarāḥ) suddenly (sahasā) his (tasya) into-control (vaśam) will-go (eṣyanti) without-doubt (asaṃśayam)
+[with-lords](seśvarāḥ) [suddenly](sahasā) [his](tasya) [control](vaśam) [will-come](eṣyanti) [without-doubt](asaṃśayam)
 
 ## mukta-m0-p134-v3327
-single (ekākī) should-recite (prajapet) there (tatra) having-made (kṛtvā) drink+anointing (pāna+añjanam) O-Śiva (śive)
+[alone](ekākī) [should-mutter](prajapet) [there](tatra) [having-made](kṛtvā) [drinking+anointing](pāna+añjanam) [O-Śivā](śive)
 
 ## mukta-m0-p134-v3328
-funeral-pyre+ember-heap (citā+āṅgāra+caye) O-goddess (devi) of-enemy (ripoḥ) expulsion (uccāṭanam) becomes (bhavet)
+[funeral-pyre+ember+heap](citā+aṅgāra+caye) [O-goddess](devi) [enemy's](ripoḥ) [eradication](uccāṭanam) [would-be](bhavet)
 
 ## mukta-m0-p134-v3329
-having-gone (gatvā) temple (devālayam) O-goddess (devi) goddess (devīm) having-meditated (dhyātvā) according-to-rite (yathāvidhi)
+[having-gone](gatvā) [to-temple](deva+ālayam) [O-goddess](devi) [the-goddess](devīm) [having-meditated](dhyātvā) [according-to-rule](yathāvidhi)
 
 ## mukta-m0-p134-v3330
-there (tatra) triangular-pit (trikoṇa+kuṇḍe) indeed (tu) should-offer-ghee (huned+ājyam) with-sesame (samaiḥ+tilam)
+[there](tatra) [in-triangle+fire-pit](trikoṇa+kuṇḍe) [indeed](tu) [one-should-offer](hunet) [clarified-butter](ājyam) [with-Bhairava](samairavam)
 
 ## mukta-m0-p134-v3331
-immediately (sadyaḥ) of-all-fears (sarva+bhayānām) and (ca) peace (śāntiḥ) becomes (bhavati) O-Pārvatī (pārvati)
+[immediately](sadyaḥ) [of-all+fears](sarva+bhayānām) [and](ca) [peace](śāntiḥ) [comes-to-be](bhavati) [O-Pārvatī](pārvati)
 
 ## mukta-m0-p134-v3332
-should-recite (japed) ten-thousand-or-half (ayutam+ardham) or (vā) should-offer (hunet) rice-pudding+sugar (pāyasa+śarkarām)
+[one-should-mutter](japet) [ten-thousand](ayutam) [or-half](ardham) [or](vā) [one-should-offer](hunet) [milk-rice+sugar](pāyasa+śarkarām)
 
 ## mukta-m0-p134-v3333
-thus (iti) this (eṣa) rite (vidhiḥ) declared (ākhyātaḥ) in-all-tantras (sarva+tantreṣu) hidden (gopitaḥ)
+[thus](iti) [this](eṣaḥ) [procedure](vidhiḥ) [declared](ākhyātaḥ) [in-all+tantras](sarva+tantreṣu) [hidden](gopitaḥ)
 
 ## mukta-m0-p134-v3334
-secret-become (rahasya+bhūtaḥ) this (ayam) O-goddess (devi) to-be-concealed (gopanīyaḥ) by-liberation-seekers (mumukṣubhiḥ)
+[secret-natured](rahasya+bhūtaḥ) [this](ayam) [O-goddess](devi) [to-be-concealed](gopanīyaḥ) [by-those-desiring-liberation](mumukṣubhiḥ)
 
 ## mukta-m0-p134-v3335
-thus (iti) in-Śrī-Rudrayāmala (śrī+rudra+yāmale) tantra (tantre) in-Daśavidyā-secret (daśa+vidyā+rahasye) chapter-of-Śrī-Śārikā-devī (śrī+śārikā+devī+paṭalaḥ)
+[thus](iti) [in-the-venerable+Rudrayāmala+tantra](śrī+rudrayāmale+tantre) [in-the-secret-of-ten-vidyās](daśavidyā+rahasye) [chapter-of-venerable-Śārikā-goddess](śrī+śārikā+devī+paṭalaḥ)
 
 ## mukta-m0-p134-v3336
-prose-verse-composed (gadya+padya+mayīm) secret (gopyām) all-scriptures-certain (sakala+āgama+niścitām)
+[consisting-of-prose+verse](gadya+padya+mayīm) [secret](gopyām) [ascertained-by-all+āgamas](sakala+āgama+niścitām)
 
 ## mukta-m0-p134-v3337
-its (tasya) worship (pūjā) indeed (tu) fruitless (viphalā) purity-lacking (śauca+hīnā) like (yathā) action (kriyā)
+[his](tasya) [worship](pūjā) [indeed](tu) [fruitless](viphalā) [devoid-of-purity](śauca+hīnā) [as](yathā) [action](kriyā)
 
 ## mukta-m0-p134-v3338
-thus (iti) in-Śrī-Rudrayāmala (śrī+rudra+yāmale) tantra (tantre) in-Daśavidyā-secret (daśa+vidyā+rahasye) method-of-Śrī-Śārikā (śrī+śārikāyāḥ) paddhatiḥ
+[thus](iti) [in-the-venerable+Rudrayāmala+tantra](śrī+rudrayāmale+tantre) [in-the-secret-of-ten-vidyās](daśavidyā+rahasye) [manual-of-venerable-Śārikā](śrī+śārikāyāḥ+paddhatiḥ)
 
 ## mukta-m0-p134-v3339
-world-three-charming (trailokya+mohanam) named (nāma) root-mantra-composed (mūla+mantra+mayam) supreme (param)
+[three-worlds+enchanting](trailokya+mohanam) [by-name](nāma) [root-mantra+consisting](mūla+mantra+mayam) [supreme](param)
 
 ## mukta-m0-p134-v3340
-all-calamity-crossing (sarva+āpat+tāraṇam) divine (divyam) all-accomplishment-giving (sarva+siddhi+pradam) in-Kali (kalau)
+[all+calamities+delivering](sarva+āpat+tāraṇam) [divine](divyam) [all+siddhis+granting](sarva+siddhi+pradam) [in-Kali-age](kalau)
 
 ## mukta-m0-p134-v3341
-by-holding (dhāraṇāt) of-this (asya) O-goddess (deveśi) by-Viṣṇu (viṣṇunā) he (sa) water-born (jala+udbhavaḥ)
+[by-retention](dhāraṇāt) [of-this](asya) [O-lady-of-gods](deveśi) [by-Viṣṇu](viṣṇunā) [he](saḥ) [born-from-water](jala+udbhavaḥ)
 
 ## mukta-m0-p134-v3342
-by-me-too (mayā+api) Tripura-overseer (tripurā+adhyakṣaḥ) demon (dānavaḥ) by-Jiṣṇu (jiṣṇunā) strength (balaḥ)
+[by-me](mayā) [also](api) [lord-of-Tripurā](tripurā+adhyakṣaḥ) [demon](dānavaḥ) [by-Jiṣṇu](jiṣṇunā) [Bala](balaḥ)
 
 ## mukta-m0-p134-v3343
-of-this-armor (kavacasya+asya) O-goddess (deveśi) seer (ṛṣiḥ) Bhairava (bhairavaḥ) declared (īritaḥ)
+[of-this+armor](kavacasya+asya) [O-lady-of-gods](deveśi) [sage](ṛṣiḥ) [Bhairava](bhairavaḥ) [declared](īritaḥ)
 
 ## mukta-m0-p134-v3344
-for-world-three-charming-knowledge (trailokya+moha+vidyā+arthe) application (viniyogaḥ) proclaimed (prakīrtitaḥ)
+[for-the-purpose-of-trailokyamohā-vidyā](trailokya+moha+vidyā+arthe) [application](viniyogaḥ) [proclaimed](prakīrtitaḥ)
 
 ## mukta-m0-p134-v3345
-oṃ hrīṃ caṇḍī lalāṭaṃ me jagadullāsarūpiṇī
+[oṃ hrīṃ](oṃ hrīṃ) [Caṇḍī](caṇḍī) [forehead](lalāṭam) [my](me) [world+delight+form](jagat+ullāsa+rūpiṇī)
 
 ## mukta-m0-p134-v3346
-oṃ hrīṃ śrīṃ hūṃ ca netre'vyāt sarvamaṅgalamaṅgalā
+[oṃ hrīṃ śrīṃ hūṃ](oṃ hrīṃ śrīṃ hūṃ) [and](ca) [eyes](netre) [may-protect](avyāt) [auspiciousness-of-all-auspicious](sarva+maṅgala+maṅgalā)
 
 ## mukta-m0-p134-v3347
-oṃ hrīṃ śrīṃ hūṃ phrāṃ āṃ pātu nāsāṃ nārāyaṇeśvarī
+[oṃ hrīṃ śrīṃ hūṃ phrāṃ āṃ](oṃ hrīṃ śrīṃ hūṃ phrāṃ āṃ) [may-protect](pātu) [nose](nāsām) [lady-of-Nārāyaṇa](nārāyaṇa+īśvarī)
 
 ## mukta-m0-p134-v3348
-aṃāṃiṃīṃ radān pātu mātṛkāśekhareśvarī
+[aṃāṃiṃīṃ](aṃāṃiṃīṃ) [teeth](radān) [may-protect](pātu) [lady-of-the-crown-of-Mātṛkās](mātṛkā+śekhara+īśvarī)
 
 ## mukta-m0-p134-v3349
-oṃauṃaṃaḥ galaṃ pātu nīlakaṇṭhāsaneśvarī
+[oṃauṃaṃaḥ](oṃauṃaṃaḥ) [throat](galam) [may-protect](pātu) [lady-seated-on-Nīlakaṇṭha](nīlakaṇṭha+āsana+īśvarī)
 
 ## mukta-m0-p134-v3350
-caṃchaṃjaṃjhaṃñaṃ me pāyād vakṣo vāmapriyāmbikā
+[caṃchaṃjaṃjhaṃñaṃ](caṃchaṃjaṃjhaṃñaṃ) [my](me) [may-protect](pāyād) [chest](vakṣaḥ) [beloved-mother-of-the-left](vāma+priyā+ambikā)

@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p129-v3201
-[knowledge](vedanā) [vasu-born](vāsavī) [courtesan](veśyā) [putana](pūtanā) [flower-smiling](puṣpahāsinī)
+[sensation](vedanā) [pertaining-to-Indra](vāsavī) [courtesan](veśyā) [Pūtanā](pūtanā) [flower+smiling](puṣpa+hāsinī)
 
 ## mukta-m0-p129-v3202
-[slow](mandā) [ganges-born](mandākinī) [seal](mudrā) [element](bhūtā) [lord-of-beings-dear](bhūtapatipriyā)
+[slow](mandā) [Mandākinī](mandākinī) [seal](mudrā) [being](bhūtā) [being+lord+beloved](bhūta+pati+priyā)
 
 ## mukta-m0-p129-v3203
-[dwelling](vāsinī) [cave-dweller](kuhikā) [obtained](lambhā) [long-haired](lambakeśī) [beautiful-haired](sukeśinī)
+[dwelling](vāsinī) [new-moon-night](kuhikā) [pendulous](lambhā) [hanging+haired](lamba+keśī) [beautiful+haired](su+keśinī)
 
 ## mukta-m0-p129-v3204
-[dusty](pāṃsulā) [vessel-handed](pātrahastā) [skull-bearer](kharparī) [skull-armed](kharparāyudhā)
+[dusty](pāṃsulā) [vessel+handed](pātra+hastā) [and](ca) [skull-bearer](kharparī) [skull+weaponed](kharpara+āyudhā)
 
 ## mukta-m0-p129-v3205
-[fruitless](viphalā) [victorious](vijayā) [prosperity-giver](śrīdā) [served-by-prosperity](śrīdasevyā) [auspicious-doer](śubhaṅkarī)
+[fruitless](viphalā) [victorious](vijayā) [fortune+giving](śrī+dā) [fortune+giver+worshipped](śrī+da+sevyā) [auspiciousness+making](śubhaṅ+karī)
 
 ## mukta-m0-p129-v3206
-[compassionate](kāruṇyā) [essence-of-universe](viśvasārā) [mercy](karuṇā) [pitiable](kṛpaṇā) [grace](kṛpā)
+[compassionate](kāruṇyā) [universe+essence](viśva+sārā) [and](ca) [merciful](karuṇā) [pitiful](kṛpaṇā) [compassion](kṛpā)
 
 ## mukta-m0-p129-v3207
-[deer-like](hāriṇī)
+[captivating](hāriṇī)
 
 ## mukta-m0-p129-v3208
-[seven-toned](saptasvarā) [seven-supported](saptadharā) [seven-seven-eyed](saptasaptivilocanā)
+[seven+toned](sapta+svarā) [seven+sustaining](sapta+dharā) [seven+seven+eyed](sapta+sapta+vi+locanā)
 
 ## mukta-m0-p129-v3209
-[sweet-voiced](kalakaṇṭhī) [sound-bearing](ghoṣadharā) [beautiful-necked](sugrīvā) [neck](kandharā) [radiance](ruciḥ)
+[sweet+throated](kala+kaṇṭhī) [sound+bearing](ghoṣa+dharā) [beautiful+necked](su+grīvā) [neck](kandharā) [splendor](ruciḥ)
 
 ## mukta-m0-p129-v3210
-[all-knowing](sarvajñā) [always](sarvadā) [body](śārī) [beautiful-nosed](sunāsā) [divine-maiden](surakanyakā)
+[all+knowing](sarva+jñā) [all+giving](sarva+dā) [arrow](śārī) [beautiful+nosed](su+nāsā) [god+maiden](sura+kanyakā)
 
 ## mukta-m0-p129-v3211
-[hoṭikā](hoṭikā) [deer-like](hāriṇī) [liṅga](liṅgā) [bhaga-liṅga-formed](bhagaliṅgasvarūpiṇī)
+[lip](hoṭikā) [captivating](hāriṇī) [mark](liṅgā) [vulva+mark+own+form](bhaga+liṅga+sva+rūpiṇī)
 
 ## mukta-m0-p129-v3212
-[maiden](kumārī) [young-woman](yuvatī) [mature](prauḍhā) [newly-wed](navoḍhā) [mature-formed](prauḍharūpiṇī)
+[maiden](kumārī) [young-woman](yuvatī) [mature](prauḍhā) [newly+wed](nava+ūḍhā) [mature+formed](prauḍha+rūpiṇī)
 
 ## mukta-m0-p129-v3213
-[fisherwoman](kaivartī) [rākṣasī](rākṣasī) [night](rātrī) [night-roamer-destroyer](rātriñcarakṣayaṅkarī)
+[fisherwoman](kaivartī) [demoness](rākṣasī) [night](rātrī) [night+roamer+destruction+making](rātriñ+cara+kṣayaṅ+karī)
 
 ## mukta-m0-p129-v3214
-[sesame-like](tilābhā) [girl](dārikā) [door-keeper](dvāḥsthā) [gatekeeper](dvārikā) [middle-region-going](madhyadeśagā)
+[sesame+resembling](tila+ābhā) [girl](dārikā) [door+standing](dvāḥ+sthā) [Dvārikā](dvārikā) [middle+region+going](madhya+deśa+gā)
 
 ## mukta-m0-p129-v3215
-[goddess](devatā) [mountain-dwelling](parvatasthā) [supreme-lord](parabhūḥ) [supreme-formed](paramākṛtiḥ)
+[deity](devatā) [mountain+dwelling](parvata+sthā) [and](ca) [supreme+earth](para+bhūḥ) [supreme+form](parama+ākṛtiḥ)
 
 ## mukta-m0-p129-v3216
-[cremation-ground-timed](śmaśānakālikā) [beard](śmaśruḥ) [dissolution-self](pralayātmā) [destroyer](pralopinī)
+[cremation-ground+Kālī](śmaśāna+kālikā) [beard](śmaśruḥ) [dissolution+natured](pralaya+ātmā) [dissolving](pra+lopinī)
 
 ## mukta-m0-p129-v3217
-[smoky-limbed](dhūmrāṅgī) [smoky-haired](dhūmrakeśā) [tawny](kapilā) [time-destroyer](kālanāśinī)
+[smoky+limbed](dhūmra+aṅgī) [smoky+haired](dhūmra+keśā) [and](ca) [tawny](kapilā) [time+destroying](kāla+nāśinī)
 
 ## mukta-m0-p129-v3218
-[śarvāṇī](śarvāṇī) [rudra-consort](rudrapatnī) [fierce](raudrī) [rudra-formed](rudrasvarūpiṇī)
+[Śarvāṇī](śarvāṇī) [Rudra+wife](rudra+patnī) [and](ca) [fierce](raudrī) [Rudra+own+formed](rudra+sva+rūpiṇī)
 
 ## mukta-m0-p129-v3219
-[family-born](kulajā) [truth-world-lord](satyalokeśā) [truth-speaking](satyavāk) [truth-telling](satyavādinī)
+[family+born](kula+jā) [truth+world+mistress](satya+loka+īśā) [truth+speaking](satya+vāk) [truth+speaking](satya+vādinī)
 
 ## mukta-m0-p129-v3220
-[queen](rājñī) [kingdom-giver](rājyapradā) [worthy](yogyā) [yoginī](yoginī) [world-lady](bhuvaneśvarī)
+[queen](rājñī) [kingdom+giving](rājya+pra+dā) [worthy](yogyā) [yoginī](yoginī) [world+mistress](bhuvana+īśvarī)
 
 ## mukta-m0-p129-v3221
-[black-night](kālarātri) [great-night](mahārātri) [great-vidyā](mahāvidyā) [śiva-abode](śivālayā)
+[time+night](kāla+rātriḥ) [great+night](mahā+rātriḥ) [great+knowledge](mahā+vidyā) [Śiva+abode](śiva+ālayā)
 
 ## mukta-m0-p129-v3222
-[fire-lady](agnīśvarī) [great-pervasion](mahāvyāpti) [crane](balākā) [child-formed](bālarūpiṇī)
+[fire+mistress](agni+īśvarī) [great+pervading](mahā+vyāptiḥ) [crane](balākā) [child+formed](bāla+rūpiṇī)
 
 ## mukta-m0-p129-v3223
-[obstacle-remover](vighnahā) [wicked-remover](khalahā) [song](gāthā) [story](kathā) [blanket](kanthā) [auspicious-garmented](śubhāmbarā)
+[obstacle+removing](vighna+hā) [wicked+destroying](khala+hā) [song](gāthā) [story](kathā) [patchwork-cloth](kanthā) [auspicious+garmented](śubha+ambarā)
 
 ## mukta-m0-p129-v3224
-[red-eyed](aruṇākṣī) [wide-eyed](viśālākṣī) [meritorious-natured](puṇyaśīlā) [sportive](vilāsinī)
+[reddish+eyed](aruṇa+akṣī) [wide+eyed](viśāla+akṣī) [merit+natured](puṇya+śīlā) [sportive](vi+lāsinī)
 
 ## mukta-m0-p129-v3225
-[jina-lady](jineśvarī) [very-skilled](sukuśalā) [cowherdess](gopī) [cow-lord-worshipped](gopatipūjitā)
+[victor+mistress](jina+īśvarī) [very+skillful](su+kuśalā) [cowherdess](gopī) [cow+lord+worshipped](go+pati+pūjitā)
