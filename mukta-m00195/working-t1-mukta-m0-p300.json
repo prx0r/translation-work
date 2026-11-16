@@ -78,7 +78,7 @@
 },
 {
 "surface": "ratā",
-"quick_gloss": "delighted"
+"quick_gloss": "devoted"
 }
 ]
 },
@@ -90,8 +90,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "ṅe+antam",
-"quick_gloss": "ending-in-ṅa"
+"surface": "ṅa+antam",
+"quick_gloss": "ṅa-ending"
 },
 {
 "surface": "uktvā",
@@ -99,7 +99,7 @@
 },
 {
 "surface": "svāhā+antaḥ",
-"quick_gloss": "ending-in-svāhā"
+"quick_gloss": "svāhā-ending"
 },
 {
 "surface": "aṣṭādaśa+akṣaraḥ",
@@ -137,7 +137,7 @@
 "tokens": [
 {
 "surface": "japet",
-"quick_gloss": "should-chant"
+"quick_gloss": "should-repeat"
 },
 {
 "surface": "mahā+mantrī",
@@ -204,11 +204,11 @@
 },
 {
 "surface": "japet",
-"quick_gloss": "should-chant"
+"quick_gloss": "should-repeat"
 },
 {
 "surface": "varṇa+sahasrakam",
-"quick_gloss": "thousand-syllables"
+"quick_gloss": "syllable-thousand"
 }
 ]
 },
@@ -221,7 +221,7 @@
 "tokens": [
 {
 "surface": "kaṇṭha+mātre",
-"quick_gloss": "up-to-throat"
+"quick_gloss": "throat-measure"
 },
 {
 "surface": "ayutaṃ",
@@ -274,7 +274,7 @@
 },
 {
 "surface": "pañca+dina+avadhi",
-"quick_gloss": "up-to-five-days"
+"quick_gloss": "five-day-limit"
 }
 ]
 },
@@ -290,8 +290,12 @@
 "quick_gloss": "śakti"
 },
 {
-"surface": "mantra+ādyasya",
-"quick_gloss": "of-this-mantra"
+"surface": "mantra+ādi",
+"quick_gloss": "mantra-beginning"
+},
+{
+"surface": "asya",
+"quick_gloss": "of-which"
 },
 {
 "surface": "nirūpyate",
@@ -348,12 +352,8 @@
 "quick_gloss": "in-eyes"
 },
 {
-"surface": "kapola",
-"quick_gloss": "in-cheeks"
-},
-{
-"surface": "āsye",
-"quick_gloss": "in-mouth"
+"surface": "kapola+āsye",
+"quick_gloss": "in-cheeks-mouth"
 },
 {
 "surface": "tathā",
@@ -423,7 +423,7 @@
 "quick_gloss": "vimalā"
 },
 {
-"surface": "jñānavṛddhiḥ",
+"surface": "jñāna+vṛddhiḥ",
 "quick_gloss": "jñānavṛddhi"
 },
 {
@@ -453,7 +453,7 @@
 },
 {
 "surface": "bhūpura+ādau",
-"quick_gloss": "in-ground-plan-etc."
+"quick_gloss": "in-ground-diagram-etc."
 },
 {
 "surface": "yathā+kramam",
@@ -474,15 +474,15 @@
 },
 {
 "surface": "tat+daśāṃśaiḥ",
-"quick_gloss": "with-its-tenth-part"
+"quick_gloss": "its-tenth-part"
 },
 {
 "surface": "tu",
-"quick_gloss": "indeed"
+"quick_gloss": "with"
 },
 {
 "surface": "śuddhaiḥ",
-"quick_gloss": "with-pure"
+"quick_gloss": "pure"
 },
 {
 "surface": "ca",
@@ -498,7 +498,7 @@
 },
 {
 "surface": "hunet",
-"quick_gloss": "should-offer"
+"quick_gloss": "one-should-offer"
 }
 ]
 },
@@ -569,7 +569,7 @@
 },
 {
 "surface": "atulāṃ",
-"quick_gloss": "unequalled"
+"quick_gloss": "incomparable"
 },
 {
 "surface": "naraḥ",
@@ -610,12 +610,8 @@
 "quick_gloss": "large-trunked"
 },
 {
-"surface": "tāla+vādana",
-"quick_gloss": "in-clapping"
-},
-{
-"surface": "tatparā",
-"quick_gloss": "intent"
+"surface": "tāla+vādana+tatparā",
+"quick_gloss": "clapping-devoted"
 }
 ]
 },
@@ -639,7 +635,7 @@
 "quick_gloss": "mantras"
 },
 {
-"surface": "trayastriṃśat",
+"surface": "trayas+triṃśat",
 "quick_gloss": "thirty-three"
 },
 {
