@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p93-v2301
-[should-perform](kalpayet) [all](sarvato) [auspicious](bhadraṃ) [for](sarva) [sin](pāpa) [liberation](vimuktaye)
+[one-should-arrange](kalpayet) [sarvatobhadra](sarvatobhadraṃ) [for-all-sin+liberation](sarva+pāpa+vimuktaye)
 
 ## mukta-m0-p93-v2302
-[morning](prātaḥ) [bath](snāna) [anointed](avilipta) [limb](aṅgaṃ) [adorned](bhūṣitaṃ) [with](bhūṣaṇa) [worthy-ornaments](arhakaiḥ)
+[in-morning+bath+anointed+body](prātaḥ+snāna+avilipta+aṅgaṃ) [adorned](bhūṣitaṃ) [with-ornament+worthy-ones](bhūṣaṇa+arhakaiḥ)
 
 ## mukta-m0-p93-v2303
-[foot](pāda) [washing](prakṣālana) [endowed](upetam) [sipped](ācāntaṃ) [peaceful](śānta) [mind](mānasam)
+[with-foot+washing+endowed](pāda+prakṣālana+upetam) [having-sipped-water](ācāntaṃ) [calm+minded](śānta+mānasam)
 
 ## mukta-m0-p93-v2304
-[flower](puṣpa) [offering](añjaliṃ) [and](ca) [by-that](tena) [indeed](eva) [circumambulation](pradakṣiṇa) [salutations](namaskṛtī)
+[flower+offering](puṣpa+añjaliṃ) [and](ca) [by-him+indeed](tena+eva) [circumambulation+obeisances](pradakṣiṇa+namaskṛtī)
 
 ## mukta-m0-p93-v2305
-[in-vessel](kuṇḍa) [situated](sthe) [also](api) [then](tataḥ) [bath](snāna) [altar](vedyāṃ) [having-placed](saṃsthāpya) [teacher](deśikaḥ)
+[in-fire-pit+situated](kuṇḍa+sthe) [also](api) [then](tataḥ) [on-bathing+platform](snāna+vedyāṃ) [having-placed](saṃsthāpya) [the-teacher](deśikaḥ)
 
 ## mukta-m0-p93-v2306
-[in-jackfruit](pānase) [in-bilva](bilva) [born](je) [or](vā) [then](atha) [in-jambu](jambu) [born](je) [brahma](brahma) [tree](vṛkṣa) [born](je)
+[in-jackfruit-wood](pānase) [in-bilva-wood](bilvaje) [or](vā) [then](atha) [in-jambu-wood](jambuje) [in-brahma-tree-wood](brahma+vṛkṣaje)
 
 ## mukta-m0-p93-v2307
-[of-others](anyeṣām) [also](api) [of-all](sarveṣāṃ) [hundred](śata) [streams](dhārā) [pit](vaṭena) [or](vā)
+[of-others](anyeṣām) [also](api) [of-all](sarveṣāṃ) [with-hundred+stream+vessel](śata+dhārā+avaṭena) [or](vā)
 
 ## mukta-m0-p93-v2308
-[all](sarva) [ornament](alaṅkāra) [endowed](saṃyuktam) [at-end](ante) [and](ca) [amalaka](āmalaka) [etc](ādibhiḥ)
+[with-all+ornaments+endowed](sarva+alaṅkāra+saṃyuktam) [at-end](ante) [and](ca) [with-amalaka+etc.](āmalaka+ādibhiḥ)
 
 ## mukta-m0-p93-v2309
-[limb](gātra) [standing](sthaṃ) [water](toyam) [here](atra) [indeed](eva) [cloth](vastra) [etc](ādyaṃ) [having-changed](parivartya) [and](ca)
+[on-body+remaining](gātra+sthaṃ) [water](toyam) [here+indeed](atra+eva) [garment+etc.](vastra+ādyaṃ) [having-changed](parivartya) [and](ca)
 
 ## mukta-m0-p93-v2310
-[that](tad) [elsewhere](anyatra) [auspicious](śubhe) [place](deśe) [anointed](vilipte) [adorned](alaṅkate) [guru](guruḥ)
+[then+elsewhere](tat+anyatra) [in-auspicious](śubhe) [place](deśe) [smeared](vilipte) [decorated](alaṅkate) [the-teacher](guruḥ)
 
 ## mukta-m0-p93-v2311
-[with](sa) [tiger-skin](vaiyāghraṃ) [with](sa) [cloth](vasraṃ) [and](ca) [with](sa) [gold](hema) [lotus](ambujam) [of-him](asya) [indeed](tu)
+[with-tiger-skin](sa+vaiyāghraṃ) [with-garment](sa+vasraṃ) [and](ca) [with-gold+lotus](sa+hema+ambujam) [of-him](asya) [indeed](tu)
 
 ## mukta-m0-p93-v2312
-[sipped](ācāntaṃ) [mantra](mantra) [body](deha) [end](antaṃ) [sandal](gandha) [etc](ādyaiḥ) [arm](bāhu) [garland](mālayā)
+[having-sipped-water](ācāntaṃ) [with-mantra+body+end](mantra+deha+antaṃ) [with-sandal+etc.](gandha+ādyaiḥ) [with-arm+garland](bāhu+mālayā)
 
 ## mukta-m0-p93-v2313
-[with-cloth](paṭena) [great](mahātā) [covered](ācchādya) [that](tad) [before](agre) [then](atha) [anointed](viliptake)
+[with-cloth](paṭena) [greatly](mahātā) [having-covered](ācchādya) [then+in-front-of-that](tat+agre) [then](atha) [in-smeared-place](viliptake)
 
 ## mukta-m0-p93-v2314
-[having-placed](sthāpayitvā) [with-calf](sa) [limb](vatsa) [limb](aṅgāṃ) [should-show](darśayet) [and](ca) [milch-cow](payasvinīm)
+[having-placed](sthāpayitvā) [with-calf+limbed](sa+vatsā+aṅgāṃ) [one-should-show](darśayet) [and](ca) [milk-yielding-cow](payasvinīm)
 
 ## mukta-m0-p93-v2315
-[gold](suvarṇa) [flowers](puṣpaiḥ) [others](anyaiḥ) [and](ca) [song](geya) [music](vādya) [accompanied](samanvitam)
+[with-gold+flowers](suvarṇa+puṣpaiḥ) [with-others](anyaiḥ) [and](ca) [with-song+instrument](geya+vādya) [accompanied](samanvitam)
 
 ## mukta-m0-p93-v2316
-[house](gṛha) [door](dvāre) [in-front](purastāt) [and](ca) [anointed](vilipte) [auspicious](maṅgala) [sprout](aṅkure)
+[at-house+door](gṛha+dvāre) [in-front](purastāt) [and](ca) [in-smeared-place](vilipte) [with-auspicious+sprouts](maṅgala+aṅkure)
 
 ## mukta-m0-p93-v2317
-[having-placed](sthāpayitvā) [indeed](tu) [his](tat) [feet](pādau) [with-milk](kṣīraiḥ) [washing](prakṣālanaṃ) [with-water](jalaiḥ)
+[having-placed](sthāpayitvā) [indeed](tu) [his+feet](tat+pādau) [with-milk](kṣīraiḥ) [washing](prakṣālanaṃ) [with-waters](jalaiḥ)
 
 ## mukta-m0-p93-v2318
-[with-lamp](dīpena) [accompanied](sahitābhiḥ) [and](ca) [should-do](kārayet) [three](tri) [circumambulation](pradakṣiṇam)
+[with-lamp](dīpena) [with-accompanied](sahitābhiḥ) [and](ca) [one-should-cause](kārayet) [three](tri) [circumambulation](pradakṣiṇam)
 
 ## mukta-m0-p93-v2319
-[best](śreṣṭha) [path](mārgaḥ) [this](ayam) [one](eka) [less](ūna) [fifty](pañcāśat) [pots](kalaśaiḥ) [indeed](tu) [or](vā)
+[best+path](śreṣṭha+mārgaḥ) [this](ayam) [with-forty-nine](ekona+pañcāśat) [with-pots](kalaśaiḥ) [indeed](tu) [or](vā)
 
 ## mukta-m0-p93-v2320
-[by-one](ekena) [or](vā) [anointing](abhiṣekaṃ) [indeed](tu) [should-do](kārayet) [consecration](abhiṣecanam)
+[with-one](ekena) [or](vā) [sprinkling](abhiṣekaṃ) [indeed](tu) [one-should-cause](kārayet) [consecration](abhiṣecanam)
 
 ## mukta-m0-p93-v2321
-[female-slave](dāsī) [male-slave](dāsaṃ) [earth](bhuvaṃ) [cow](gāṃ) [and](ca) [house](gṛha) [utensils](upakaraṇāni) [and](ca)
+[female-servant+male-servant](dāsī+dāsaṃ) [land](bhuvaṃ) [cow](gāṃ) [and](ca) [house+implements](gṛha+upakaraṇāni) [and](ca)
 
 ## mukta-m0-p93-v2322
-[of-praisers](stotṛṇām) [also](api) [of-devotees](bhaktānāṃ) [gift](dakṣiṇā) [as-before](pūrva) [becomes](vat) [bhavet]
+[of-praisers](stotṛṇām) [also](api) [of-devotees](bhaktānāṃ) [fee](dakṣiṇā) [as-before](pūrva+vat) [should-be](bhavet)
 
 ## mukta-m0-p93-v2323
-[thus](evaṃ) [who](yaḥ) [should-do](kārayet) [mortal](martyaḥ) [his](tasya) [in-dharma](dharme) [mind](matiḥ) [becomes](bhavet)
+[thus](evaṃ) [who](yaḥ) [causes-to-perform](kārayet) [mortal](martyaḥ) [of-him](tasya) [in-dharma](dharme) [mind](matiḥ) [should-be](bhavet)
 
 ## mukta-m0-p93-v2324
-[life](āyuḥ) [health](ārogyam) [desired](iṣṭāḥ) [women](strīḥ) [having-enjoyed](bhuktvā) [obtains](āpnoti) [supreme](parāṃ) [goal](gatim)
+[life+health](āyuḥ+ārogyam) [desired](iṣṭāḥ) [women](strīḥ) [having-enjoyed](bhuktvā) [obtains](āpnoti) [supreme](parāṃ) [state](gatim)
 
 ## mukta-m0-p93-v2325
-[not](na) [untimely](akāla) [death](mṛtyuḥ) [there](tatra) [is](asti) [not](na) [misfortune](alakṣmīḥ) [sin](pāpa) [doer](kṛt) [even](su) [also](api)
+[not+untimely+death](na+akāla+mṛtyuḥ) [there](tatra) [is](asti) [not+misfortune](na+alakṣmīḥ) [even-for-sin+doers](pāpa+kṛtsu) [also](api)
