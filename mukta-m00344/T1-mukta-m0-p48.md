@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p48-v1176
-[prāṇāyāma-nirodha-ādi-abhyāsena](prāṇāyāmanirodhādyabhyāsena) [bhāsvaraṃ](bhāsvaraṃ) [prakāśa-eka-nibiḍam](prakāśaikanibiḍam)
+[breath-control](prāṇāyāma) [restraint+etc.](nirodha+ādi) [by-practice](abhyāsena) [luminous](bhāsvaraṃ) [light+only+dense](prakāśa+eka+nibiḍam)
 
 ## mukta-m0-p48-v1177
-[aho](aho) [paśyāmi](paśyāmi) [vividhaṃ](vividhaṃ) [kim-ātmānaṃ](kimātmānaṃ) [kathaṃ](kathaṃ) [tu-idam](tvidam)
+[oh](aho) [I-see](paśyāmi) [various](vividhaṃ) [what](kim) [self](ātmānaṃ) [how](kathaṃ) [indeed](tu) [this](idam)
 
 ## mukta-m0-p48-v1178
-[vismitaḥ](vismitaḥ)
+[astonished](vismitaḥ)
 
 ## mukta-m0-p48-v1179
-[vilīnaṃ](vilīnaṃ) [nidrayā](nidrayā) [cittaṃ](cittaṃ) [babhau](babhau) [cirataraṃ](cirataraṃ) [dṛḍham](dṛḍham)
+[dissolved](vilīnaṃ) [by-sleep](nidrayā) [mind](cittaṃ) [shone](babhau) [for-a-long-time](cirataraṃ) [firmly](dṛḍham)
 
 ## mukta-m0-p48-v1180
-[nidrā-hetunā](nidrāhetunā) [cittaṃ](cittaṃ) [vilīnam](vilīnam)
+[sleep+cause](nidrā+hetunā) [mind](cittaṃ) [dissolved](vilīnam)
 
 ## mukta-m0-p48-v1181
-[atha](atha) [prabuddhaḥ](prabuddho) [atyantaṃ](atyantaṃ) [vai](vai) [cintāṃ](cintāṃ) [prāpa](prāpa) [mahattarām](mahattarām)
+[then](atha) [awakened](prabuddhaḥ) [exceedingly](atyantaṃ) [indeed](vai) [thought](cintāṃ) [obtained](prāpa) [very-great](mahattarām)
 
 ## mukta-m0-p48-v1182
-[tam](tam) [tejaḥ](tejaś) [ca-api](cāpi) [dṛṣṭam](dṛṣṭam) [aho](aho) [svapna-ātmakaṃ](svapnātmakaṃ) [bhavet](bhavet)
+[darkness](tamaḥ) [and-light](tejaḥ) [and-also](ca+api) [seen](dṛṣṭam) [oh](aho) [dream+natured](svapna+ātmakaṃ) [may-be](bhavet)
 
 ## mukta-m0-p48-v1183
-[bhūyo](bhūyo) [nigṛhya](nigṛhya) [paśyāmi](paśyāmī) [iti](ityevaṃ) [niścitya](niścitya) [vai](vai) [dṛḍham](dṛḍham)
+[again](bhūyaḥ) [restraining](nigṛhya) [I-shall-see](paśyāmi) [thus](iti+evam) [having-determined](niścitya) [indeed](vai) [firmly](dṛḍham)
 
 ## mukta-m0-p48-v1184
-[cintayati](cintayati) [svapna](svapna) [iti](iti) [etaṃ](etaṃ) [svapnam](svapnam)
+[he-thinks](cintayati) [dream](svapna) [thus](iti) [this](etaṃ) [dream](svapnam)
 
 ## mukta-m0-p48-v1185
-[tadā-ānanda-samudra-antar](tadānandasamudrāntar) [nimagna](nimagna) [iva](iva) [saḥ](so) [abhavat](abhavat)
+[then](tadā) [bliss+ocean+within](ānanda+samudra+antar) [immersed](nimagnaḥ) [as-if](iva) [he](saḥ) [became](abhavat)
 
 ## mukta-m0-p48-v1186
-[sthiram](sthiram) [abhavat](abhavat) [tadā](tadā) [niruddha-citta-daśāyām](niruddhacittadaśāyām)
+[steady](sthiram) [became](abhavat) [then](tadā) [restrained+mind+state](niruddha+citta+daśāyām)
 
 ## mukta-m0-p48-v1187
-[kim](kim) [eṣa](eṣa) [me](me) [abhavat](abhavat) [svapnaḥ](svapnaś) [ca](cā) [athavā](athavā) [citta-vibhramaḥ](cittavibhramaḥ)
+[what](kim) [this](eṣaḥ) [to-me](me) [became](abhavat) [dream](svapnaḥ) [or](ca) [or-else](athavā) [mind+delusion](citta+vibhramaḥ)
 
 ## mukta-m0-p48-v1188
-[vikalpayati](vikalpayati) [kim](kim) [eṣa](eṣa) [iti](iti)
+[he-ponders](vikalpayati) [what](kim) [this](eṣaḥ) [thus](iti)
 
 ## mukta-m0-p48-v1189
-[na](nā) [anvabhūvaṃ](nvabhūvaṃ) [kiñcid](kiñcid) [api](api) [sukham](sukham) [āptaṃ](āptaṃ) [kathaṃ](kathaṃ) [mayā](mayā)
+[not](na) [I-experienced](anvabhūvaṃ) [anything](kiñcid+api) [happiness](sukham) [obtained](āptaṃ) [how](kathaṃ) [by-me](mayā)
 
 ## mukta-m0-p48-v1190
-[nirodha-kāle](nirodhakāle) [sukha-anubhava](sukhānubhava) [iti](iti) [śaṅkate](śaṅkate) [na](nā) [anvabhūvam](nvabhūvam) [iti](iti)
+[restraint+time](nirodha+kāle) [happiness+experience](sukha+anubhavaḥ) [thus](iti) [he-doubts](śaṅkate) [not](na) [I-experienced](anvabhūvam) [thus](iti)
 
 ## mukta-m0-p48-v1191
-[ahaṃ](ahaṃ) [suṣupta-vat](suṣuptavan) [mūḍhaḥ](mūḍhaḥ) [katham](katham) [etat](etat) [sukhaṃ](sukhaṃ) [sthitam](sthitam)
+[I](ahaṃ) [deep-sleep+like](suṣupta+vat) [deluded](mūḍhaḥ) [how](katham) [this](etat) [happiness](sukhaṃ) [remained](sthitam)
 
 ## mukta-m0-p48-v1192
-[katham](katham) [eṣa](eṣa) [sukha-anubhavaḥ](sukhānubhavaḥ)
+[how](katham) [this](eṣaḥ) [happiness+experience](sukha+anubhavaḥ)
 
 ## mukta-m0-p48-v1193
-[ātma-avagamanāya](ātmāvagamanāya) [ahaṃ](ahaṃ) [pravṛttaḥ](pravṛtto) [api](pyadya) [adya](adya) [na](nā) [avidam](avidam)
+[self+realization+for](ātma+avagamana+āya) [I](ahaṃ) [engaged](pravṛttaḥ) [although](api) [today](adya) [not](na) [I-knew](avidam)
 
 ## mukta-m0-p48-v1194
-[atra](atra) [sukha-upalabdhau](sukhopalabdhau) [tat](tat) [sukhaṃ](sukhaṃ) [hetuṃ](hetuṃ) [vinā](vinā) [kathaṃ](kathaṃ) [bhavet](bhavet)
+[here](atra) [happiness+perception](sukha+upalabdhau) [that](tat) [happiness](sukhaṃ) [cause](hetuṃ) [without](vinā) [how](kathaṃ) [may-be](bhavet)
 
 ## mukta-m0-p48-v1195
-[prakāśaḥ](prakāśo) [vā](vā) [andhakāraḥ](ndhakāro) [vā](vā) [sukhaṃ](sukhaṃ) [vā](vā) [anyat](nyad) [atha](athāpi) [api](pi) [vā](vā)
+[light](prakāśaḥ) [or](vā) [darkness](andhakāraḥ) [or](vā) [happiness](sukhaṃ) [or](vā) [other](anyat) [or-else](atha+api) [or](vā)
 
 ## mukta-m0-p48-v1196
-[atha](atha) [prakāśa-ādibhyaḥ](prakāśādibhyo) [anyat](nyadeva) [eva](eva) [iti](vetyarthaḥ) [arthaḥ](arthaḥ)
+[then](atha) [light+etc.](prakāśa+ādibhyaḥ) [other](anyat) [indeed](eva) [or](vā) [thus](iti) [meaning](arthaḥ)
 
 ## mukta-m0-p48-v1197
-[na](nā) [antam](ntam) [emi](emyatra) [atra](atra) [bhūyaḥ](bhūyastāṃ) [tām](tāṃ) [pṛcchāmi](pṛcchāmi) [viduṣīṃ](viduṣīṃ) [priyām](priyām)
+[not](na) [I-reach-end](antam+emi) [here](atra) [again](bhūyaḥ) [her](tāṃ) [I-shall-ask](pṛcchāmi) [wise](viduṣīṃ) [beloved](priyām)
 
 ## mukta-m0-p48-v1198
-[bhavet](bhavet) [atra](atra) [antam](ntaṃ) [niścayaṃ](niścayaṃ) [naimi](naimi) [na](na) [prāpnomi](prāpnomi)
+[may-be](bhavet) [here](atra) [end](antaṃ) [certainty](niścayaṃ) [not](na) [I-reach](emi) [not](na) [I-obtain](prāpnomi)
 
 ## mukta-m0-p48-v1199
-[sva-sannidhānam](svasannidhānam) [ānetuṃ](ānetuṃ) [hemalekhāṃ](hemalekhāṃ) [nṛpa-ātmajaḥ](nṛpātmajaḥ)
+[own+presence](sva+sannidhānam) [to-bring](ānetuṃ) [Hemalekha](hemalekhāṃ) [king+son](nṛpa+ātmajaḥ)
 
 ## mukta-m0-p48-v1200
-[āruroha](āruroha) [mahā-saudhaṃ](mahāsaudhaṃ) [merum](merum) [indu-prabhā](induprabhā) [iva](iva) [sā](sā)
+[ascended](āruroha) [great+palace](mahā+saudhaṃ) [Meru](merum) [moon+splendor](indu+prabhā) [like](iva) [she](sā)

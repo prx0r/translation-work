@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p47-v1151
-[draḍhayati](draḍhayati) [nūnam](nūnam) [iti](iti)
+[confirms](draḍhayati) [indeed](nūnam) [thus](iti)
 
 ## mukta-m0-p47-v1152
-[iti](iti) [niścitya](niścitya) [dadhyau](dadhyau) [taṃ](taṃ) [dehaṃ](dehaṃ) [rājakumārakaḥ](rājakumārakaḥ)
+[thus](iti) [having-ascertained](niścitya) [meditated-on](dadhyau) [that](taṃ) [body](dehaṃ) [prince](rāja+kumārakaḥ)
 
 ## mukta-m0-p47-v1153
-[ahanteti](ahanteti) [tathaite](tathaite) [dehātmānaḥ](dehātmānaḥ) [eva](eva) [deham](deham) [ātmatvena](ātmatvena) [dadhyau](dadhyau) [cintayāmāsa](cintayāmāsa)
+[I](aham) [thus](iti) [thus](tathā) [these](ete) [body-selves](deha+ātmānaḥ) [indeed](eva) [body](deham) [as-self](ātmatvena) [meditated-on](dadhyau) [thought](cintayāmāsa)
 
 ## mukta-m0-p47-v1154
-[aho](aho) [kathaṃ](kathaṃ) [dehaḥ](dehaḥ) [eṣa](eṣa) [mamatāyāḥ](mamatāyāḥ) [samāśrayaḥ](samāśrayaḥ)
+[alas](aho) [how](kathaṃ) [body](dehaḥ) [this](eṣaḥ) [of-mineness](mamatāyāḥ) [abode](samāśrayaḥ)
 
 ## mukta-m0-p47-v1155
-[hemalekhoktaṃ](hemalekhoktaṃ) [smṛtvāha](smṛtvāha) [aho](aho) [iti](iti)
+[Hemalekha-spoken](hemalekhā+uktam) [having-remembered](smṛtvā) [said](āha) [alas](aho) [thus](iti)
 
 ## mukta-m0-p47-v1156
-[mama](mama) [rūpaṃ](rūpaṃ) [bhavet](bhavet) [nūnaṃ](nūnaṃ) [chinnam](chinnam) [etat](etat) [tu](tu) [lakṣyate](lakṣyate)
+[my](mama) [form](rūpaṃ) [would-be](bhavet) [indeed](nūnam) [cut](chinnam) [this](etat) [but](tu) [is-seen](lakṣyate)
 
 ## mukta-m0-p47-v1157
-[kathaṃ](kathaṃ) [mama](mama) [rūpaṃ](rūpaṃ) [bhavet](bhavet) [hetvantaram](hetvantaram) [api](api) [āha](āha) [chinnam](chinnam) [iti](iti)
+[how](kathaṃ) [my](mama) [form](rūpaṃ) [would-be](bhavet) [another-reason](hetu+antaram) [also](api) [says](āha) [cut](chinnam) [thus](iti)
 
 ## mukta-m0-p47-v1158
-[na](na) [ahaṃ](ahaṃ) [dehaḥ](dehaḥ) [anyaḥ](anyaḥ) [eva](eva) [syāṃ](syāṃ) [prāṇaḥ](prāṇaḥ) [api](api) [eṣa](eṣa) [tathāvidhaḥ](tathāvidhaḥ)
+[not](na) [I](aham) [body](dehaḥ) [other](anyaḥ) [indeed](eva) [would-be](syām) [vital-breath](prāṇaḥ) [also](api) [this](eṣaḥ) [of-such-nature](tathāvidhaḥ)
 
 ## mukta-m0-p47-v1159
-[ādipadena](ādipadena) [suṣuptiḥ](suṣuptiḥ) [janmāntaraṃ](janmāntaraṃ) [vā](vā) [tathāvidhaḥ](tathāvidhaḥ) [mamatvādi](mamatvādi) [āśrayaḥ](āśrayaḥ)
+[by-the-word-ādi](ādi+padena) [deep-sleep](suṣuptiḥ) [another-birth](janma+antaram) [or](vā) [of-such-nature](tathāvidhaḥ) [abode-of-mineness-etc](mamatva+ādi+āśrayaḥ)
 
 ## mukta-m0-p47-v1160
-[ataḥ](ataḥ) [dehādi](dehādi) [buddhyantāt](buddhyantāt) [anyaḥ](anyaḥ) [eva](eva) [na](na) [saṃśayaḥ](saṃśayaḥ)
+[therefore](ataḥ) [from-body-etc-up-to-intellect](deha+ādi+buddhi+antāt) [other](anyaḥ) [indeed](eva) [no](na) [doubt](saṃśayaḥ)
 
 ## mukta-m0-p47-v1161
-[mama](mama) [īritaṃ](īritaṃ) [mamatvena](mamatvena) [uktam](uktam) [ataḥ](ataḥ) [dehādeḥ](dehādeḥ) [mamatvāśrayatvāt](mamatvāśrayatvāt)
+[of-mine](mama) [declared](īritam) [as-mineness](mamatvena) [spoken](uktam) [therefore](ataḥ) [because-of-being-abode-of-mineness-of-body-etc](deha+ādeḥ+mamatva+āśrayatvāt)
 
 ## mukta-m0-p47-v1162
-[sarvadā](sarvadā) [ahaṃ](ahaṃ) [bhāsamānaḥ](bhāsamānaḥ) [sthitaḥ](sthitaḥ) [eva](eva) [na](na) [saṃśayaḥ](saṃśayaḥ)
+[always](sarvadā) [I](aham) [shining](bhāsamānaḥ) [existing](sthitaḥ) [indeed](eva) [no](na) [doubt](saṃśayaḥ)
 
 ## mukta-m0-p47-v1163
-[na](na) [hi](hi) [jānāmi](jānāmi) [tat](tat) [kasmāt](kasmāt) [etat](etat) [na](na) [viditaṃ](viditaṃ) [mayā](mayā)
+[not](na) [indeed](hi) [I-know](jānāmi) [that](tat) [why](kasmāt) [this](etat) [not](na) [known](viditam) [by-me](mayā)
 
 ## mukta-m0-p47-v1164
-[kasmāt](kasmāt) [nimittāt](nimittāt) [na](na) [viditam](viditam)
+[for-what-reason](kasmāt+nimittāt) [not](na) [known](viditam)
 
 ## mukta-m0-p47-v1165
-[prāṇaḥ](prāṇaḥ) [tvacā](tvacā) [vibhāti](vibhāti) [eṣaḥ](eṣaḥ) [manaḥ](manaḥ) [jñānena](jñānena) [ca](ca) [ūhitam](ūhitam)
+[vital-breath](prāṇaḥ) [but](tu) [by-skin](acā) [shines](vibhāti) [this](eṣaḥ) [mind](manaḥ) [by-knowledge](jñānena) [and](ca) [inferred](ūhitam)
 
 ## mukta-m0-p47-v1166
-[jñānena](jñānena) [jñānātmaka](jñānātmaka) [kāryahetunā](kāryahetunā) [ūhitaṃ](ūhitaṃ) [kāryakāraṇatvena](kāryakāraṇatvena) [anumitam](anumitam)
+[by-knowledge](jñānena) [by-cause-of-effect-consisting-of-knowledge](jñāna+ātmaka+kārya+hetunā) [inferred](ūhitam) [as-cause-and-effect](kārya+kāraṇatvena) [inferred](anumitam)
 
 ## mukta-m0-p47-v1167
-[atha](atha) [eṣāṃ](eṣāṃ) [bhāsanāt](bhāsanāt) [eva](eva) [na](na) [ātmā](ātmā) [bhāseta](bhāseta) [me](me) [yadi](yadi)
+[now](atha) [of-these](eṣām) [by-shining-alone](bhāsanāt+eva) [self](ātmā) [would-shine](bhāseta) [to-me](me) [if](yadi)
 
 ## mukta-m0-p47-v1168
-[eṣām](eṣām) [iti](iti)
+[of-these](eṣām) [thus](iti)
 
 ## mukta-m0-p47-v1169
-[iti](iti) [niścitya](niścitya) [manasā](manasā) [jahau](jahau) [mānasagocaram](mānasagocaram)
+[thus](iti) [having-ascertained](niścitya) [by-mind](manasā) [abandoned](jahau) [object-of-mind](mānasa+gocaram)
 
 ## mukta-m0-p47-v1170
-[mānasollekham](mānasollekham)
+[mental-conception](mānasa+ullekham)
 
 ## mukta-m0-p47-v1171
-[idaṃ](idaṃ) [mama](mama) [ātmanaḥ](ātmanaḥ) [rūpam](rūpam) [iti](iti) [niścitamānasaḥ](niścitamānasaḥ)
+[this](idam) [my](mama) [of-self](ātmanaḥ) [form](rūpam) [thus](iti) [with-ascertained-mind](niścita+mānasaḥ)
 
 ## mukta-m0-p47-v1172
-[mānasaṃ](mānasaṃ) [manovikārātmaka](manovikārātmaka) [tamaḥ](tamaḥ) [yena](yena)
+[mental](mānasam) [darkness-consisting-of-mental-modification](manaḥ+vikāra+ātmaka+tamaḥ) [by-which](yena)
 
 ## mukta-m0-p47-v1173
-[nūnaṃ](nūnaṃ) [punaḥ](punaḥ) [prapaśyāmi](prapaśyāmi) [iti](iti) [evaṃ](evaṃ) [cittaṃ](cittaṃ) [rurodha](rurodha) [vai](vai)
+[indeed](nūnam) [again](punaḥ) [I-shall-see](prapaśyāmi) [thus](iti) [thus](evam) [mind](cittam) [restrained](rurodha) [indeed](vai)
 
 ## mukta-m0-p47-v1174
-[praharṣam](praharṣam) [ātmā](ātmā) [dṛṣṭaḥ](dṛṣṭaḥ) [iti](iti) [bhramajanitam](bhramajanitam)
+[joy](praharṣam) [self](ātmā) [seen](dṛṣṭaḥ) [thus](iti) [born-of-delusion](bhrama+janitam)
 
 ## mukta-m0-p47-v1175
-[tejaḥpuñjam](tejaḥpuñjam) [anādyantam](anādyantam) [bhāsvaraṃ](bhāsvaraṃ) [kṣaṇamātrataḥ](kṣaṇamātrataḥ)
+[mass-of-light](tejaḥ+puñjam) [without-beginning-and-end](an+ādi+antam) [luminous](bhāsvaram) [for-a-moment](kṣaṇa+mātrataḥ)

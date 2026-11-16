@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p44-v1076
-[yat](yat) [prāk](prāk) [svavṛttam](svavṛttam) [kathitam](kathitam) [tat](tat) [sphuṭam](sphuṭam) [me](me) [samīraya](samīraya)
+[which](yat) [formerly](prāk) [own-account](sva+vṛttaṃ) [told](kathitaṃ) [that](tat) [clearly](sphuṭaṃ) [to-me](me) [relate](samīraya)
 
 ## mukta-m0-p44-v1077
-[ityādi](ityādi) [prāguktam](prāguktam) [svavṛttam](svavṛttam)
+[(5|108)]((5|108)) [thus-etc](iti+ādi) [previously-said](prāk+uktaṃ) [own-account](sva+vṛttam)
 
 ## mukta-m0-p44-v1078
-[tat-putra-ādyāḥ](tatputrādyā) [api](api) [ca](ca) [ke](ke) [mama](mama) [vā](vā) [te](te) [kva](kva) [saṃvada](saṃvada)
+[his-sons-etc](tat+putra+ādyāḥ) [also](api) [and](ca) [who](ke) [my](mama) [or](vā) [they](te) [where](kva) [tell](saṃvada)
 
 ## mukta-m0-p44-v1079
-[te](te) [jananyādayaḥ](jananyādayaḥ)
+[they](te) [mother-etc](jananī+ādayaḥ)
 
 ## mukta-m0-p44-v1080
-[kintu](kintu) [tvayā](tvayā) [nigaditam](nigaditaṃ) [vyapadeśena](vyapadeśena) [sarvathā](sarvathā)
+[but](kintu) [by-you](tvayā) [spoken](nigaditaṃ) [by-designation](vyapadeśena) [in-every-way](sarvathā)
 
 ## mukta-m0-p44-v1081
-[tat](tat) [tvad-uktam](tvaduktam) [na](na) [tan-mṛṣā-uditam](tanmṛṣoditam) [kintu](kintu) [anya-vyapadeśena](anyavyapadeśena) [uktam](uktam)
+[that](tat) [spoken-by-you](tvad+uktam) [not](na) [that-falsely-spoken](tat+mṛṣā+uditam) [but](kintu) [by-another-designation](anya+vyapadeśena) [spoken](uktam)
 
 ## mukta-m0-p44-v1082
-[saṃśayam](saṃśayam)
+[doubt](saṃśayam)
 
 ## mukta-m0-p44-v1083
-[matvā](matvā) [su-nirmala-dhiyam](sunirmaladhiyaṃ) [parā-anugraha-saṃyutam](parānugrahasaṃyutam)
+[having-thought](matvā) [of-very-pure-mind](su+nirmala+dhiyam) [endowed-with-grace-to-others](para+anugraha+saṃyutam)
 
 ## mukta-m0-p44-v1084
-[parāyāḥ](parāyās) [tripurāyāḥ](tripurāyā) [anugraha-yutam](anugrahayutam)
+[of-supreme](parāyāḥ) [Tripura](tripurāyāḥ) [endowed-with-grace](anugraha+yutam)
 
 ## mukta-m0-p44-v1085
-[mahaiśvaryā](mahaiśvaryā) [phalitaḥ](phalitaḥ) [puṇya-sañcayaḥ](puṇyasañcayaḥ)
+[gh:](gh:) [great-sovereignty](mahaiśvaryā]) [ripened](phalitaḥ) [accumulation-of-merit](puṇya+sañcayaḥ)
 
 ## mukta-m0-p44-v1086
-[anugraha-śaktyā](anugrahaśaktyā)
+[by-power-of-grace](anugraha+śaktyā)
 
 ## mukta-m0-p44-v1087
-[nātha](nātha) [te](te) [aho](aho) [mahā-bhāgyam](mahābhāgyaṃ) [prāptam](prāptam) [īśa-kṛpā-vaśāt](īśakṛpāvaśāt)
+[O-lord](nātha) [your](te) [ah](aho) [great-fortune](mahā+bhāgyaṃ) [obtained](prāptam) [by-force-of-Lord's-grace](īśa+kṛpā+vaśāt)
 
 ## mukta-m0-p44-v1088
-[yataḥ](yato) [ayam](ayaṃ) [bodhane](bodhane) [kālaḥ](kālaḥ) [tataḥ](tata) [iti](iti) [matvā](matvā) [prāha](prāha) [iti](iti) [śeṣaḥ](śeṣaḥ) [te](te) [tvayā](tvayā)
+[because](yataḥ) [this](ayam) [in-awakening](bodhane) [time](kālaḥ) [therefore](tataḥ) [thus](iti) [having-thought](matvā) [he-spoke](prāha) [thus-ellipsis](iti) [remainder](śeṣaḥ) [by-you](te) [by-you](tvayā)
 
 ## mukta-m0-p44-v1089
-[etat-lakṣaṇam](etallakṣaṇam) [īśasya](īśasya) [anugrahe](anugrahe) [jñeyam](jñeyam) [āditaḥ](āditaḥ)
+[this-characteristic](etat+lakṣaṇam) [of-the-Lord](īśasya) [in-grace](anugrahe) [to-be-known](jñeyam) [from-the-beginning](āditaḥ)
 
 ## mukta-m0-p44-v1090
-[bhāvaḥ](bhāvaḥ)
+[meaning](bhāvaḥ)
 
 ## mukta-m0-p44-v1091
-[hanta](hanta) [te](te) [sampravakṣyāmi](sampravakṣyāmi) [vṛttim](vṛttiṃ) [proktām](proktāṃ) [sadā-ātmanaḥ](sadātmanaḥ)
+[ah](hanta) [to-you](te) [I-shall-declare](sampravakṣyāmi) [account](vṛttiṃ) [declared](proktāṃ) [of-the-eternal-self](sadā+ātmanaḥ)
 
 ## mukta-m0-p44-v1092
-[aparam](aparaṃ) [dvitīyam](dvitīyam) [vṛttim](vṛttiṃ) [sthitim](sthitim) [sadā](sadā) [sthitām](sthitām) [iti](iti) [śeṣaḥ](śeṣaḥ)
+[other](aparaṃ) [second](dvitīyam) [account](vṛttiṃ) [state](sthitim) [eternally](sadā) [abiding](sthitām) [thus-ellipsis](iti) [remainder](śeṣaḥ)
 
 ## mukta-m0-p44-v1093
-[avidyā](avidyā) [tu](tu) [asatī](asatī) [sā](sā) [uktā](uktā) [yayā](yayā) [buddhiḥ](buddhiḥ) [su-saṅgatā](susaṅgatā)
+[ignorance](avidyā) [indeed](tu) [unreal](asatī) [she-said](sā+uktā) [by-which](yayā) [intellect](buddhiḥ) [well-associated](su+saṅgatā)
 
 ## mukta-m0-p44-v1094
-[yat](yad) [rajjau](rajjau) [sarpam](sarpam) [ābhāsya](ābhāsya) [mahā-bhītim](mahābhītiṃ) [prayacchati](prayacchati)
+[which](yat) [on-rope](rajjau) [snake](sarpam) [having-made-appear](ābhāsya) [great-fear](mahā+bhītiṃ) [produces](prayacchati)
 
 ## mukta-m0-p44-v1095
-[tasya](tasya) [patnī](patnī) [kalpanā](kalpanā) [syāt](syāt) [tat-sutāḥ](tatsutāḥ) [pañca](pañca) [ye](ye) [abhavan](abhavan)
+[his](tasya) [wife](patnī) [imagination](kalpanā) [may-be](syāt) [her-sons](tat+sutāḥ) [five](pañca) [who](ye) [were-born](abhavan)
 
 ## mukta-m0-p44-v1096
-[viṣayāṇām](viṣayāṇāṃ) [pramoṣaḥ](pramoṣaḥ) [tu](tu) [saṃskāraḥ](saṃskāro) [manasaḥ](manaso) [bhavet](bhavet)
+[of-sense-objects](viṣayāṇāṃ) [loss](pramoṣaḥ) [indeed](tu) [impression](saṃskāraḥ) [of-mind](manasaḥ) [may-be](bhavet)
 
 ## mukta-m0-p44-v1097
-[mahā-āśanā](mahāśanā) [bhavet](bhaved) [āśā](āśā) [tasyāḥ](tasyā) [yau](yau) [tanujau](tanujāv) [ubhau](ubhau)
+[great-devourer](mahā+aśanā) [may-be](bhavet) [desire](āśā) [her](tasyāḥ) [which](yau) [two-sons](tanujau) [both](ubhau)
 
 ## mukta-m0-p44-v1098
-[tat-bhogaḥ](tadbhogaḥ) [pramuṣita-viṣaya-bhogaḥ](pramuṣitaviṣayabhogaḥ)
+[his-enjoyment](tat+bhogaḥ) [enjoyment-of-lost-objects](pramuṣita+viṣaya+bhogaḥ)
 
 ## mukta-m0-p44-v1099
-[mama](mama) [yaḥ](yastu) [tu](tu) [mahā-mantraḥ](mahāmantraḥ) [svarūpa-sphuraṇam](svarūpasphuraṇaṃ) [hi](hi) [tat](tat)
+[my](mama) [which](yaḥ) [indeed](tu) [great-mantra](mahā+mantraḥ) [flashing-forth-of-own-nature](sva+rūpa+sphuraṇaṃ) [indeed](hi) [that](tat)
 
 ## mukta-m0-p44-v1100
-[kāntāra-ādyāḥ](kāntārādyās) [tu](tu) [narakāḥ](narakā) [evam](evaṃ) [sarvam](sarvaṃ) [prakīrtitam](prakīrtitam)
+[wilderness-etc](kāntāra+ādyāḥ) [indeed](tu) [hells](narakāḥ) [k:](k:) [nine](navakā) [thus](evaṃ) [all](sarvaṃ) [declared](prakīrtitam)
