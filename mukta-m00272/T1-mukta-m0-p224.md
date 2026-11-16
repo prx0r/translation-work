@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p224-v5576
-[various](vividhā) [deaths](mṛtayaḥ) [and](ca) [also](api) [by-weapons-snakes-poisons-etc](śastrasarpaviṣāṇibhiḥ)
+[various](vividhāḥ) [deaths](mṛtayaḥ) [and](ca) [also](api) [by-weapons+snakes+poisons](śastra+sarpa+viṣāṇibhiḥ)
 
 ## mukta-m0-p224-v5577
-[time-death](kālamṛtyu) [under](vaśaṃ) [creature](jantuṃ) [not](na) [anyone](kaścid) [also](api) [protects](rakṣati)
+[time+death+under-sway](kāla+mṛtyu+vaśaṃ) [creature](jantuṃ) [not](na) [anyone](kaścid) [even](api) [protects](rakṣati)
 
 ## mukta-m0-p224-v5578
-[rasāyana](rasāyana) [means](varaiḥ) [yogas](yogaiḥ) [time](kālaṃ) [divinity](daivatvaṃ) [obtains](āpnuyāt)
+[by-elixirs+best+practices](rasāyana+varaiḥ+yogaiḥ) [for-a-time](kālaṃ) [divinity](daivatvam) [one-may-obtain](āpnuyāt)
 
 ## mukta-m0-p224-v5579
-[not](nāsti) [death-equal](mṛtyusamaṃ) [sorrow](duḥkhaṃ) [not](nāsti) [death-equal](mṛtyusamaṃ) [fear](bhayam)
+[not](na) [exists](asti) [death+equal](mṛtyu+samaṃ) [suffering](duḥkhaṃ) [not](na) [exists](asti) [death+equal](mṛtyu+samaṃ) [fear](bhayam)
 
 ## mukta-m0-p224-v5580
-[good-son-friend-wife-etc](satputramitrabhāryādi) [kingdom](rājya) [sovereignty](aiśvarya) [etc](ādikān) [also](api)
+[good+sons+friends+wives+etc.](sat+putra+mitra+bhāryā+ādi) [kingdom+sovereignty+etc.](rājya+aiśvarya+ādikān) [even](api)
 
 ## mukta-m0-p224-v5581
-[pra](pra) [dhyā](dhya) [pya](pya) [aśani](aśani) [sixty](ṣaṣṭiḥ) [eva](eva) [or](vā)
+[pra](pra) [*](* ) [*](* ) [*](* ) [*](* ) [*](* ) [*](* ) [dhya](dhya) [fifty-six](pyaśaniṣaṣṭiḥ) [indeed](eva) [or](vā)
 
 ## mukta-m0-p224-v5582
-[middle](madhye) [night](rātriṃ) [death-equal](mṛtistulyā) [all](sarveṣāṃ) [beings](prāṇinām) [this](ayam)
+[in-middle](madhye) [night](rātriṃ) [death](mṛtiḥ) [equal](tulyā) [of-all](sarveṣāṃ) [of-living-beings](prāṇinām) [this](ayam)
 
 ## mukta-m0-p224-v5583
-[old-age](vārdhakye) [by-decay](jarayā) [grasped](grasto) [middle](madhye) [hundreds-of-diseases](vyādhiśataiḥ) [also](api)
+[in-old-age](vārdhakye) [by-decrepitude](jarayā) [seized](grastaḥ) [in-middle](madhye) [by-hundreds+of-diseases](vyādhi+śataiḥ) [also](api)
 
 ## mukta-m0-p224-v5584
-[body-born](dehajaiḥ) [enemies](śatrubhiḥ) [all](sarvaiḥ) [always](sarvadā) [afflicted](bādhyate) [man](naraḥ)
+[by-body-born+enemies](deha+jaiḥ+śatrubhiḥ) [by-all](sarvaiḥ) [always](sarvadā) [is-afflicted](bādhyate) [man](naraḥ)
 
 ## mukta-m0-p224-v5585
-[sārdhaiḥ](sārdhaiḥ) [ca](ca) [midday](madhyehni) [satisfaction](tṛptau) [by-desire](kāmena) [by-sleep](nidrayā)
+[*](* ) [*](* ) [with-half](sārdhaiḥ) [and](ca) [at-midday](madhye+ahni) [in-satiation](tṛptau) [by-desire](kāmena) [by-sleep](nidrayā)
 
 ## mukta-m0-p224-v5586
-[disease-etc](vyādhyādi) [afflictions](bādhayo) [terrible](ghoraṃ) [death](maraṇaṃ) [ca](ca) [he](sa) [goes](gacchati)
+[disease+etc.+afflictions](vyādhi+ādi+bādhayaḥ) [terrible](ghoraṃ) [death](maraṇaṃ) [and](ca) [he](saḥ) [goes-to](gacchati)
 
 ## mukta-m0-p224-v5587
-[mutual](anyonya) [mother-fatherhood](mātṛpitṛtva) [fatherhood](pitṛtva) [kin-words](jñātiśabdakaiḥ)
+[mutual](anyonya) [mother+fatherhood](mātṛ+pitṛtva) [fatherhood+kinsman+words](pitṛtva+jñāti+śabdakaiḥ)
 
 ## mukta-m0-p224-v5588
-[by-karma](karmaṇāṃ) [association](sāhacaryācca) [debt-etc](ṛṇamātrādi) [arising](saṃbhavaḥ)
+[of-actions](karmaṇāṃ) [by-association](sāhacaryāt) [and](ca) [debt+mere+etc.](ṛṇa+mātra+ādi) [origin](saṃbhavaḥ)
 
 ## mukta-m0-p224-v5589
-[dharma-etc](dharmādyayepi) [yoga](yogaṃ) [ca](ca) [by-body](dehena) [ca](ca) [obtains](samāpnuyāt)
+[dharma+etc.](dharma+ādi) [also](api) [connection](yogaṃ) [and](ca) [with-body](dehena) [and](ca) [one-obtains](samāpnuyāt)
 
 ## mukta-m0-p224-v5590
-[death-sorrow](mṛtyuduḥkhaṃ) [ca](ca) [which](yat) [occurred](bhūtaṃ) [that](tad) [hundredfold](śataguṇa) [more](adhikam)
+[death+suffering](mṛtyu+duḥkhaṃ) [and](ca) [which](yat) [has-been](bhūtaṃ) [than-that](tadvat) [hundredfold+greater](śata+guṇa+adhikam)
 
 ## mukta-m0-p224-v5591
-[snake-mouth-entered-frog](sarpāsyagatamaṇḍūka) [like](iva) [crying](krandan) [again-and-again](muhurmuhuḥ)
+[snake+mouth+gone+frog](sarpa+āsya+gata+maṇḍūkaḥ) [like](iva) [crying](krandan) [again+and-again](muhuḥ+muhuḥ)
 
 ## mukta-m0-p224-v5592
-[served](sevito) [api](api) [by-mouth](mukhena) [eva](eva) [dries](śuṣyet) [ati](āti) [breathing](samucchvasan)
+[served](sevitaḥ) [even](api) [by-mouth](mukhena) [indeed](eva) [dries-up](śuṣyeta) [thus](ati) [breathing-heavily](samucchvasan)
 
 ## mukta-m0-p224-v5593
-[nāga-jālena](nāgajālena) [paḍyate](paḍyate)
+[*](* ) [*](* ) [*](* ) [*](* ) [*](* ) [*](* ) [*](* ) [*](* ) [by-serpent+net](nāga+jālena) [falls](paḍyate)
 
 ## mukta-m0-p224-v5594
-[dry-stick-like](śuṣkandha) [water](pipa) [contempt](avamānasya) [dead](mṛtaḥ) [whose](kasya) [will-be](bhaviṣyati)
+[dry+throat](śuṣka+kaṇṭha) [drinking](pipa) [water+measuring](toya+avamānasya) [dead](mṛtaḥ) [of-whom](kasya) [will-be](bhaviṣyati)
 
 ## mukta-m0-p224-v5595
-[urine-feces-smeared-limbs](mūtraviṣṭhānuliptāṃgo) [dies](mriyate) [by-death](mṛtyunā) [again](punaḥ)
+[urine+feces+smeared+body](mūtra+viṣṭhā+anulipta+aṅgaḥ) [dies](mriyate) [by-death](mṛtyunā) [again](punaḥ)
 
 ## mukta-m0-p224-v5596
-[noble](manasvinaḥ) [prayer](prārthanāṃ) [tu](tu) [than-death](maraṇād) [greater](adhikaṃ) [becomes](bhavet)
+[of-the-wise](manasvinaḥ) [prayer](prārthanāṃ) [indeed](tu) [than-death](maraṇāt) [greater](adhikaṃ) [would-be](bhavet)
 
 ## mukta-m0-p224-v5597
-[constant-disease](nityavyādhi) [tu](tu) [hunger-disease](kṣudvyādhi) [midam](midam)
+[constant+disease](nitya+vyādhiḥ) [indeed](tu) [hunger+disease](kṣut+vyādhiḥ) [*](* ) [*](* ) [*](* ) [*](* ) [*](* ) [this](idam)
 
 ## mukta-m0-p224-v5598
-[takṣa-vidhi](takṣavṛ) [vidhi](vidhi) [extreme](atyanta) [strength-destruction-cause](balasaṃhārakāraṇam)
+[carpenter](takṣa) [vṛ](vṛ) [method](vidhiḥ) [exceedingly](atyanta) [strength+destruction+cause](bala+saṃhāra+kāraṇam)
 
 ## mukta-m0-p224-v5599
-[disease-medicine](vyādhyauṣadham) [this](idaṃ) [known](jñeyaṃ) [supreme-truth](paramārthena) [by-wise](paṇḍitaiḥ)
+[disease+remedy](vyādhi+auṣadham) [this](idam) [to-be-known](jñeyaṃ) [in-ultimate-sense](paramārthena) [by-the-wise](paṇḍitaiḥ)
 
 ## mukta-m0-p224-v5600
-[happiness](saukhyaṃ) [there](tatra) [not](na) [exists](vidyeta) [by-darkness](tamasā) [covered](cchāditātmanaḥ)
+[happiness](saukhyaṃ) [there](tatra) [not](na) [may-be-found](vidyeta) [by-darkness+covered+self](tamasā+ācchādita+ātmanaḥ)

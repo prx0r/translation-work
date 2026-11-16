@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p236-v5876
-immediately(sadyaḥ) done(kṛtaṃ) jewel-womb-expiation(ratnagarbha+prāyaścittaṃ) not(na) praised(śasyate)
+[immediately](sadyaḥ) [done](kṛtaṃ) [jewel-womb+expiation](ratnagarbha+prāyaścittaṃ) [not](na) [is-praised](śasyate)
 
 ## mukta-m0-p236-v5877
-month-end(māsāvasānakaṃ) that(tu) inferior(hīnaṃ) likewise(tathā) with-these(taiḥ) conduct(ācara)
+[month+ending](māsa+avasānakaṃ) [but-which](yattu) [deficient](hīnaṃ) [likewise](tathā) [aiścara](aiścara)
 
 ## mukta-m0-p236-v5878
-for-self(ātmārthe) quality(guṇaṃ) declared(proktaṃ) expiation-rite(prāyaścittavidhau) then(tadā)
+[for-oneself](ātmārthe) [and](ca) [quality](guṇaṃ) [declared](proktaṃ) [in-expiation+rule](prāyaścitta+vidhau) [then](tadā)
 
 ## mukta-m0-p236-v5879
-svāhā-end(svāhānte) lord(bhagavat) agitation(kṣobha) lineage(vaṃśa) word(padaṃ) again(punaḥ)
+[with-svāhā+end](svāhā+ante) [o-lord](bhagavat) [kṣobha+lineage+word](kṣobha+vaṃśa+padaṃ) [again](punaḥ)
 
 ## mukta-m0-p236-v5880
-afterwards(paścāt) then(anantaraṃ) sinner(pāpī) hundred-mantra(śataṃmantrāntaraṃ) or(vā)
+[afterwards](paścāt) [thereafter](anantaraṃ) [sinner](pāpī) [hundred+mantra+interval](śataṃ+mantra+antaraṃ) [but](tu) [or](vā)
 
 ## mukta-m0-p236-v5881
-full-offering(pūrṇāhutiṃ) and(ca) offer(juhuyāt) rite(vidhinā) nandikeśvara(nandikeśvara)
+[final+oblation](pūrṇa+āhutiṃ) [and](ca) [should-offer](juhuyāt) [according-to-rule](vidhinā) [o-nandikeśvara](nandikeśvara)
 
 ## mukta-m0-p236-v5882
-fortnight-three-seven-nakṣatra(pakṣatrisaptanakṣatre) uninterrupted(avicchinnā) since(yataḥ) from-there(tataḥ)
+[fortnight+three+seven+constellation](pakṣa+tri+sapta+nakṣatre) [uninterrupted](avicchinnā) [because](yatas) [therefore](tatas)
 
 ## mukta-m0-p236-v5883
-self-purpose(ātmārtha) liṅga(anyena) worshipped(pūjitaṃ) or(vā) again(svayaṃ) again(punaḥ)
+[for-oneself+liṅga](ātmārtha+liṃgam) [by-another](anyena) [worshipped](pūjitaṃ) [or](vā) [by-oneself](svayaṃ) [again](punaḥ)
 
 ## mukta-m0-p236-v5884
-vowed-to-end(naiṣṭhikaḥ) api(api) turmeric(haridrāṃ) and(ca) betel(tāmbūlaṃ) if(yadi) uses(sevate)
+[perpetual-vow-observer](naiṣṭhikaḥ) [even](api) [turmeric](haridrāṃ) [and](ca) [betel](tāmbūlaṃ) [if](yadi) [uses](sevate)
 
 ## mukta-m0-p236-v5885
-after-seven-days(saptāhādūrdhvam) thus(evaṃ) be(syāt) one-kṛcchra(kṛcchramekaṃ) perform(caret) wise(sudhīḥ)
+[from-week+after](saptāhāt+ūrdhvam) [thus](evaṃ) [should-be](syāt) [one+kṛcchra](kṛcchram+ekaṃ) [should-perform](caret) [wise-one](sudhīḥ)
 
 ## mukta-m0-p236-v5886
-aghoramantra(aghoram) thousand(sahasraṃ) be(syāt) day(dinaṃ) daily(pratidinaṃ) each(prati)
+[aghora-mantra](aghoraṃ) [but](tu) [thousand](sahasraṃ) [should-be](syāt) [day](dinaṃ) [each-day](pratidinaṃ) [each](prati)
 
 ## mukta-m0-p236-v5887
-śiva-treachery(śivadrohe) guru-treachery(gurudrohe) sage-insult(jñāninindā) etc(ādini) vow(vrate)
+[in-śiva+offense](śiva+drohe) [in-guru+offense](guru+drohe) [in-wise-one+insult+etc](jñāni+nindā+ādini) [in-vow](vrate)
 
 ## mukta-m0-p236-v5888
-twenty-eight-koṭi(aṣṭāviṃśati+koṭīnāṃ) in-hell(narake) very-terrible(atidāruṇe)
+[twenty-eight](aṣṭāviṃśati) [of-crores](koṭīnāṃ) [in-hell](narake) [even](api) [very-terrible](atidāruṇe)
 
 ## mukta-m0-p236-v5889
-great-fall(sumahat+pātaṃ) thus(kṛthame) half-time(tatkālārdhaṃ) then(tu) afflicted(pīḍyate)
+[very-great+sin+committed](sumahat+pātaṃśa+kṛthame) [of-that+time+half](tat+kāla+ardhaṃ) [but](tu) [is-tormented](pīḍyate)
 
 ## mukta-m0-p236-v5890
-equal(tatsame) then(tu) half(tadardhaṃ) be(syāt) in-hell(niraye) residence(vasatiḥ) always(sadā)
+[in-that+equal](tat+same) [but](tu) [its-half](tat+ardhaṃ) [should-be](syāt) [in-hell](niraye) [dwelling](vasatiḥ) [always](sadā)
 
 ## mukta-m0-p236-v5891
-* * * * * * * * thousand(sahasraṃ) resides(vasati) certainly(dhruvam)
+[lacuna](*) [lacuna](*) [lacuna](*) [lacuna](*) [lacuna](*) [lacuna](*) [lacuna](*) [lacuna](*) [thousand](sahasraṃ) [dwells](vasati) [certainly](dhruvam)
 
 ## mukta-m0-p236-v5892
-therefore(tasmāt) all-effort(sarvaprayatnena) sins(pātakān) remove(visarjayet)
+[therefore](tasmāt) [with-all+effort](sarva+prayatnena) [sins+etc](pātaka+ādīn) [one-should-abandon](visarjayet)
 
 ## mukta-m0-p236-v5893
-sin(pāpāt) hell-attainment(narakasaṃprāptiḥ) therefore(tasmāt) sin(pāpaṃ) not-do(na+kārayet)
+[from-sin](pāpāt) [hell+attainment](naraka+saṃprāptiḥ) [therefore](tasmāt) [sin](pāpaṃ) [not](na) [should-do](kārayet)
 
 ## mukta-m0-p236-v5894
-subjugation(vaśyaṃ) east-facing(pūrvamukhaṃ) and(ca) eva(eva) south(dakṣiṇaṃ) for-sorcery(ca+abhicārakam)
+[subjugation](vaśyaṃ) [east+facing](pūrva+mukhaṃ) [and](ca) [indeed](eva) [south](dakṣiṇaṃ) [and](ca) [malevolent-rite](ābhicārakam)
 
 ## mukta-m0-p236-v5895
-uṣṇīṣa(uṣṇīṣaṃ) jacket-destruction(kañcukīnāśaḥ) loose-haired(muktakeśa) dalā-covered(dalāvṛtaḥ)
+[turban](uṣṇīṣaṃ) [bodice+destruction](kañcukī+nāśaḥ) [loose-hair](mukta+keśa) [with-garment+covered](udala+āvṛtaḥ)
 
 ## mukta-m0-p236-v5896
-yawning(jṛmbhā) spitting(niṣṭhīvanaṃ) and(ca) eva(eva) sneezing(kṣuta) rubbing(mardana) tantric(tantrikā)
+[yawning](jṛmbhā) [spitting](niṣṭhīvanaṃ) [and](ca) [sneezing](kṣutam) [rubbing](ardana) [tantric-rite](tantrikā)
 
 ## mukta-m0-p236-v5897
-ācamana(ācamanaṃ) be(bhavet) their(teṣāṃ) remember(smaret) vāmā(vāmām) umā-with(umānvitam)
+[sipping-water](ācamanaṃ) [should-be](bhavet) [of-these](teṣāṃ) [one-should-remember](smaret) [vāmā](vāmām) [umā+endowed](umā+anvitam)
 
 ## mukta-m0-p236-v5898
-* * * lying-down(naśśayānaḥ) or(vā) goes(gacchet) risen(utthitaḥ) eva(eva) or(vā)
+[lacuna](*) [lacuna](*) [lacuna](*) [not](naḥ) [lying-down](śayānaḥ) [or](vā) [should-go](gacchet) [standing-up](utthitaḥ) [indeed](eva) [or](vā)
 
 ## mukta-m0-p236-v5899
-feet(pādau) stretching(prasārya) not(japet) kukkuṭāsana(kukkuṭāsanakaḥ) new(navaḥ)
+[feet](pādau) [having-stretched](prasārya) [not](na) [should-recite](japet) [in-cock+posture](kukkuṭa+āsanakaḥ) [not](navaḥ)
 
 ## mukta-m0-p236-v5900
-able(suśaktaḥ) if(cet) all(sarvam) eva(eva) powers(śaktayaḥ) by-power(śaktitaḥ) chant(japet)
+[if-capable](suśaktaḥ) [if](cet) [all](sarvam) [indeed](eva) [powers](śaktayaḥ) [according-to-ability](śaktitaḥ) [should-recite](japet)

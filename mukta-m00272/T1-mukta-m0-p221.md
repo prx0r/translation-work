@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p221-v5501
-[fingers](aṃgulyaḥ) [and](ca) [from-four-months](caturmāsāt) [of-bellies](jaṭharāṇām) [unknown](*) [unknown](*) [excrement](śakam)
+[fingers](aṃgulyaḥ) [and](ca) [from-four-months](caturmāsāt) [of-the-abdomen](jaṭharāṇā) [*](*) [*](*) [śakam](śakam)
 
 ## mukta-m0-p221-v5502
-[secret-part](guhyaṃ) [and](ca) [tooth-row](dantapaṃktiḥ) [is-born](jāyate) [and](ca) [not](na) [sprouts](khāṃkurāḥ)
+[private-part](guhyaṃ) [and](ca) [row+of-teeth](dantapaṃktiḥ) [and](ca) [is-born](jāyate) [and](ca) [not](na) [sprouts](khāṃkurāḥ)
 
 ## mukta-m0-p221-v5503
-[anus](pāyuḥ) [penis](meḍhram) [genitals](upasthaṃ) [and](ca) [navel](nābhiḥ) [spine-bone](vaṃśāsthi) [indeed](eva) [ca](ca)
+[anus](pāyuḥ) [penis](meḍhram) [groin](upasthaṃ) [and](ca) [navel](nābhiḥ) [spine](vaṃśāḥ) [firm](sthirā) [indeed](eva) [and](ca)
 
 ## mukta-m0-p221-v5504
-[limb](aṃga) [sub-limb](pratyaṃga) [complete](saṃpūrṇa) [head-part](śirobhāga) [endowed](samanvitaḥ)
+[with-limbs+and-minor-limbs](aṃgapratyaṃga) [complete](saṃpūrṇa) [head+portion](śirobhāga) [endowed-with](samanvitaḥ)
 
 ## mukta-m0-p221-v5505
-[in-ninth](navame) [month](māsi) [arrived](saṃprāpte) [complete-knowledge](saṃpūrṇajñāna) [varuṇa](vāruṇaḥ)
+[in-ninth](navame) [month](māsi) [having-arrived](saṃprāpte) [complete+knowledge](saṃpūrṇajñāna) [vāruṇa](vāruṇaḥ)
 
 ## mukta-m0-p221-v5506
-[not](na) [interval](antarālena) [pervaded](saṃvyāpta) [nourishment-born](poṣajā) [goes](yāti) [always](nityayaḥ)
+[without+interval](nāntarālena) [pervaded](saṃvyāpta) [nourishment-born](poṣajā) [goes](yāti) [constant](nityayaḥ)
 
 ## mukta-m0-p221-v5507
-[old-age](jarā) [and](ca) [appearance](ābhaṃ) [dead](mṛta) [and](ca) [appearance](ābhaḥ) [birth-birth](janmajanma) [again](punaḥ) [again](punaḥ)
+[old-age](jaraḥ) [and](ca) [like-that](ābhaṃ) [death](mṛtaḥ) [and](ca) [like-that](ābhaḥ) [birth+after-birth](janmajanma) [again+and-again](punaḥ) [again](punaḥ)
 
 ## mukta-m0-p221-v5508
-[alone](ekākī) [by-that](tena) [burned-here](dahyehaṃ) [gone](gatāḥ) [they](te) [fruit-enjoyers](phalabhoginaḥ)
+[alone](ekākī) [by-that](tena) [I-burn](dahye) [here](ihaṃ) [gone](gatāḥ) [they](te) [enjoyers+of-fruit](phalabhoginaḥ)
 
 ## mukta-m0-p221-v5509
-[inauspicious-destruction-maker](aśubhakṣayakartāraṃ) [supreme](paraṃ) [liberation-giver](mukti+pradāyakam)
+[inauspiciousness+destruction+doer](aśubhakṣayakartāraṃ) [supreme](paraṃ) [liberation+giver](mukti) [giver](pradāyakam)
 
 ## mukta-m0-p221-v5510
-[by-which](yena) [by-which](yena) [manner](prakāreṇa) [womb-dwelling](garbhavāsaḥ) [not](na) [arises](jāyate)
+[by-which](yena) [by-which](yena) [manner](prakāreṇa) [womb+dwelling](garbhavāso) [not](na) [is-born](jāyate)
 
 ## mukta-m0-p221-v5511
-[womb-dweller](garbhasthaḥ) [thinking](cintayan) [always](nityaṃ) [if](yadi) [or](vā) [exited](nirgato) [becomes](bhavet)
+[womb-situated](garbhasthaḥ) [thinking](cintayan) [always](nityaṃ) [if](yadi) [or](vā) [gone-out](nirgato) [may-be](bhavet)
 
 ## mukta-m0-p221-v5512
-[liberation](mokṣaṃ) [contemplating](vicintayan) [living-being](jīvī) [karma-bonds-follower](karmapāśānugaḥ)
+[liberation](mokṣaṃ) [contemplating](vicintayan) [living-being](jīvī) [karma+bond+following](karmapāśānugaḥ)
 
 ## mukta-m0-p221-v5513
-[living-being](jīvaḥ) [also](api) [like-that](tadvat) [great](mahatā) [enveloped](veṣṭitaḥ) [ca](ca) [membrane](jarāyuṇā)
+[living-being](jīvaḥ) [also](api) [like-that](tadvat) [greatly](mahatā) [enveloped](veṣṭitaḥ) [and](ca) [by-amnion](jarāyuṇā)
 
 ## mukta-m0-p221-v5514
-[from-womb](garbhāt) [etc](ādika) [covered](channāṃga) [agitated](vyākulaḥ) [man](pumān)
+[by-womb+etc.](garbhādikena) [covered+limbs](channāṃga) [distressed](vyākulaḥ) [person](pumān)
 
 ## mukta-m0-p221-v5515
-[then](athāpi) [indeed](api) [in-pot](kumbhe) [womb](garbhaḥ) [tu](tu) [womb-fire](jaṭharāgninā)
+[then](atha) [also](api) [ripened](praścite) [embryo](garbhaḥ) [in-pot](kumbhe) [indeed](tu) [by-abdominal+fire](jaṭharāgninā)
 
 ## mukta-m0-p221-v5516
-[suffering](duḥkhaṃ) [which](yat) [arises](jāyate) [of-that](tasya) [that](tat) [in-wombs](garbheṣu) [quality](guṇaṃ) [becomes](bhavet)
+[suffering](duḥkhaṃ) [which](yat) [is-born](jāyate) [of-that](tasya) [that](tat) [in-wombs](garbheṣu) [quality](guṇaṃ) [may-be](bhavet)
 
 ## mukta-m0-p221-v5517
-[fire-terrible](agnighoraṃ) [great-suffering](mahāduḥkhaṃ) [abundant](bahulaṃ) [of-embodied-ones](dehinām) [this](idam)
+[fire+terrible](agnighoraṃ) [great+suffering](mahāduḥkhaṃ) [abundant](bahulaṃ) [of-embodied-beings](dehinām) [this](idam)
 
 ## mukta-m0-p221-v5518
-[from-womb](garbhāt) [crore-fold](koṭiguṇaṃ) [suffering](duḥkhaṃ) [birth-canal](yoniyantra) [pressing](prapīḍanāt)
+[than-womb](garbhāt) [crore+times](koṭiguṇaṃ) [suffering](duḥkhaṃ) [from-womb+mechanism+pressing](yoniyantra) [from-pressing](prapīḍanāt)
 
 ## mukta-m0-p221-v5519
-[sesame](tila) [pressed](pīḍyamāṇasya) [by-machine](yantreṇa) [indeed](eva) [all-around](samantataḥ)
+[of-sesame-seed](tilaṣat) [being-pressed](pīḍyamāṇasya) [by-mechanism](yantreṇa) [indeed](eva) [on-all-sides](samantataḥ)
 
 ## mukta-m0-p221-v5520
-[great-suffering](mahadduḥkhaṃ) [becomes](bhavatyeva) [being-born](jāyamānasya) [of-that](tasya) [vai](vai)
+[great+suffering](mahadduḥkhaṃ) [becomes](bhavati) [indeed](eva) [of-being-born](jāyamānasya) [of-that](tasya) [indeed](vai)
 
 ## mukta-m0-p221-v5521
-[like-that](tadvat) [essenceless](nissāram) [obtained](āpanno) [helpless](vivaśaḥ) [down](adhaḥ) [falls](patatyasau)
+[like-that](tadvat) [devoid-of-essence](nissāram) [having-attained](āpannaḥ) [helpless](vivaśaḥ) [downward](adhaḥ) [falls](patati) [he](asau)
 
 ## mukta-m0-p221-v5522
-[blood](rakta) [flesh](māṃsa) [mud](mṛdā) [smeared](liptaṃ) [feces-urine-substances](viṇmūtradravya) [vessel](bhājanam)
+[blood+flesh+mud](raktamāṃsamṛdā) [smeared](liptaṃ) [feces+urine+matter](viṇmūtradravya) [receptacle](bhājanam)
 
 ## mukta-m0-p221-v5523
-[mouth-one](vadanaika) [great-door](mahādvāraṃ) [windows-eight](gavākṣāṣṭaka) [ornamented](bhūṣitam)
+[mouth+single](vadanaika) [great+door](mahādvāraṃ) [window+eight](gavākṣāṣṭaka) [adorned-with](bhūṣitam)
 
 ## mukta-m0-p221-v5524
-[veins](sirā) [sweat](sveda) [flow](pravāhaṃ) [ca](ca) [phlegm](śleṣma) [lotus](padma) [flooded](pariplutam)
+[vein+sweat](sirāsveda) [flow](pravāhaṃ) [and](ca) [phlegm+lotus](śleṣma) [lotus](padma) [flooded-with](pariplutam)
 
 ## mukta-m0-p221-v5525
-[desire](kāma) [anger](krodha) [fuel](indhana) [overcome](ākrāntaṃ) [vices](vyasanaiḥ) [ca](ca) [api](api) [crushed](marditam)
+[desire+anger+fuel](kāmakrodhendhana) [overrun-by](ākrāntaṃ) [by-calamities](vyasanaiḥ) [and](ca) [also](api) [crushed](marditam)

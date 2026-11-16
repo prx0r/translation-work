@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p195-v4851
-[teacher](deśiko) [having-bathed](mūrtipaiḥsnātvā) [at-dawn](prabhāte) [ever-united](nityasaṃyutaḥ)
+[teacher](deśiko) [with-image-priests](mūrti+paiḥ) [having-bathed](snātvā) [in-morning](prabhāte) [endowed-with-daily-rites](nitya+saṃyutaḥ)
 
 ## mukta-m0-p195-v4852
-[with-students](adhyetṛbhiśca) [with-astrologers](daivajñaiḥ) [with-artisans](śilpibhissahitairyutaḥ)
+[with-reciters](adhyetṛbhiḥ) [and](ca) [with-astrologers](daivajñaiḥ) [with-artisans](śilpibhiḥ) [accompanied](sahitaiḥ) [endowed](yutaḥ)
 
 ## mukta-m0-p195-v4853
-[full-ending](pūrṇāntam) [fire-offering](agnihomaṃ) [having-done](kṛtvā) [having-raised](utthāpyātha) [image](bimbakam)
+[up-to-completion](pūrṇa+antam) [fire-oblation](agni+homam) [and](ca) [having-performed](kṛtvā) [having-raised](utthāpya) [then](atha) [image](bimbakam)
 
 ## mukta-m0-p195-v4854
-[with-gem-deposit](ratnanyāsādisaṃyuktaṃ) [in-bathing-pit](snānaśvabhre) [place](niveśayet)
+[with-jewel-deposit-etc.](ratna+nyāsa+ādi+saṃyuktam) [in-bathing-pit](snāna+śvabhre) [should-place](niveśayet)
 
 ## mukta-m0-p195-v4855
-[having-done-mother-deposit](mātṛkānyāsakaṃ) [having-done](kṛtvā) [life-deposit](jīvanyāsaṃ) [perform](samācaret)
+[mātṛkā-installation](mātṛkā+nyāsakam) [having-done](kṛtvā) [life-installation](jīva+nyāsam) [should-perform](samācaret)
 
 ## mukta-m0-p195-v4856
-[with-clothes-etc-ornaments](vastrādyābharaṇaiścaiva) [having-adorned](malaṃkṛtvātha) [teacher](deśikaḥ)
+[with-garments-etc.](vastra+ādi) [and-with-ornaments](ābharaṇaiḥ) [and](ca) [indeed](eva) [having-adorned](malaṃkṛtvā) [then](atha) [teacher](deśikaḥ)
 
 ## mukta-m0-p195-v4857
-[having-worshipped](saṃpūjya) [śiva-devotees](śivabhaktāṃśca) [according-to-wealth](yathā vibhavavistaram)
+[Śiva-devotees](śiva+bhaktān) [and](ca) [having-worshipped](saṃpūjya) [according-to](yathā) [extent-of-resources](vibhava+vistaram)
 
 ## mukta-m0-p195-v4858
-[good-path](sanmārgam) [soul](ātmako) [always](nityam) [with-mantra-six-limbs](ātma mantraṣaḍaṃgakaiḥ)
+[of-true-path-nature](sanmārga+ātmako) [always](nityam) [self](ātma) [with-mantra-six-limbs](mantra+ṣaḍ+aṃgakaiḥ)
 
 ## mukta-m0-p195-v4859
-[having-worshipped](samabhyarcya) [with-devotion](bhaktyā) [good-path-leader](sanmārganāyakaḥ) [or](vā) [balyanta](balyantaṃ)
+[up-to-bali-offering](bali+antam) [or](vā) [having-worshipped](samabhyarcya) [with-devotion](bhaktyā) [leader-of-true-path](sanmārga+nāyakaḥ)
 
 ## mukta-m0-p195-v4860
-[root-mantra](mūlamantram) [so-called](itikhyātaṃ) [with-svāhā-ending](svāhāntaṃ) [in-fire-rite](cāgnikāryake)
+[root-mantra](mūla+mantram) [thus-known](iti+khyātam) [ending-with-svāhā](svāhā+antam) [and](ca) [in-fire-ritual](agni+kāryake)
 
 ## mukta-m0-p195-v4861
-[festival-of-image](pratimāsotsavaṃ) [perform](kuryād) [according-to-wealth](vibhavasyānusārataḥ)
+[image-festival](pratimā+utsavam) [should-perform](kuryāt) [according-to-resources](vibhavasya+anusārataḥ)
 
 ## mukta-m0-p195-v4862
-[on-flag](dhvaje) [bull](vṛṣabhaṃ) [make](kuryāc) [festival](utsavaṃ) [like-śiva](śivavaccotsavaṃ) [be](bhavet)
+[on-flag](dhvaje) [also](api) [bull](vṛṣabham) [should-make](kuryāt) [like-Śiva](śiva+vat) [festival](utsavam) [should-be](bhavet)
 
 ## mukta-m0-p195-v4863
-[prior-festival](pūrvotsavaṃ) [do](kartavyaṃ) [of-vasins](vaśināṃ) [nandikeśvara](nandikeśvara)
+[prior-festival](pūrva+utsavam) [and](ca) [should-be-performed](kartavyam) [of-the-Vaśins](vaśinām) [O-Nandikeśvara](nandikeśvara)
 
 ## mukta-m0-p195-v4864
-[of-him](tasya) [prosperity](śrīḥ) [victory](vijayo) [radiance](tārccir) [in-gem](atne) [union](sāyujyam) [obtain](āpnuyāt)
+[his](tasya) [prosperity](śrīḥ) [victory](vijayo) [and-honor](tārcciḥ) [in-jewel](ratne) [union](sāyujyam) [may-obtain](āpnuyāt)
 
 ## mukta-m0-p195-v4865
-[door-limbs](dvārāṃgāni) [with-jayā-etc](jayādyaiśca) [having-purified](saṃskṛtyāyatanaṃ) [place](nyaset)
+[door-limbs](dvāra+aṃgāni) [with-Jayā-etc.](jayā+ādyaiḥ) [and](ca) [having-consecrated](saṃskṛtya) [in-shrine](āyatanam) [should-place](nyaset)
 
 ## mukta-m0-p195-v4866
-[three-principles](tatvatrayaṃ) [in-order](kramān) [having-placed](nyasya) [having-restrained](sannirodhyātha) [offer](homayet)
+[three-principles](tatva+trayam) [in-order](kramāt) [having-installed](nyasya) [having-restrained](sannirodhya) [then](atha) [should-offer-oblations](homayet)
 
 ## mukta-m0-p195-v4867
-[having-worshipped](yaṣṭvā) [site-door-etc](vāstudvārādayo) [there](tatraivānantamantrataḥ)
+[Vāstu-door-etc.](vāstu+dvāra+ādayo) [having-worshipped](yaṣṭvā) [there-only](tatra+eva) [with-Ananta-mantra](ananta+mantrataḥ)
 
 ## mukta-m0-p195-v4868
-[radiance](kānti) [accomplishment](siddhārtha) [growth](ruddhi) [with-barley-growth](yavavṛddhisahānunā)
+[kānti-siddhārtha-ruddhi](kāntisiddhārtharuddhiḥ) [and](ca) [with-yava-vṛddhi-and-anu](yavavṛddhi+saha+anunā)
 
 ## mukta-m0-p195-v4869
-[those](te) [ca](ca) [nāragvadha](nāragvadho) [dūrvā](dūrvā) [sāndaghna](sāndaghnaśca) [leaf](yo dalaḥ)
+[they](te) [and](ca) [nāragvadha](nāragvadho) [dūrvā-grass](dūrvā) [sāndaghna](sāndaghnaḥ) [and](ca) [which](yo) [leaf](dalaḥ)
 
 ## mukta-m0-p195-v4870
-[door](dvāram) [north](uttarataḥ) [a-little](kiñcid) [resorted](āśritaṃ) [place](sanniveśayet)
+[door](dvāram) [to-the-north](uttarataḥ) [somewhat](kiñcid) [resorting-to](āśritam) [should-place](sanniveśayet)
 
 ## mukta-m0-p195-v4871
-[śiva](śivam) [in-space-region](ākāśadeśe) [pervading](vyāpakaṃ) [all-pervading](sarvapṛdgalam)
+[Śiva](śivam) [in-space-region](ākāśa+deśe) [indeed](tu) [all-pervading](vyāpakam) [all-material](sarva+pṛdgalam)
 
 ## mukta-m0-p195-v4872
-[door-residing](dvārāśritāṃśca) [nandī-etc](nandyādīn) [with-heart](hṛtsaṃyuktaiḥ) [with-own-names](svanāmabhiḥ)
+[resorting-to-door](dvāra+āśritān) [and](ca) [Nandin-etc.](nandy+ādīn) [joined-with-heart-mantra](hṛt+saṃyuktaiḥ) [with-their-own-names](sva+nāmabhiḥ)
 
 ## mukta-m0-p195-v4873
-[with-weapon](astreṇa) [for-release-of-fault](doṣamokṣārthaṃ) [offer](juhuyād) [to-fire-lord](āhuteśśatam)
+[with-astra-mantra](astreṇa) [for-removal-of-faults](doṣa+mokṣa+artham) [should-offer](juhuyāt) [of-oblations](āhuteḥ) [hundred](śatam)
 
 ## mukta-m0-p195-v4874
-[deposit](nikṣipet) [in-pot-womb](kuṃbhagarbhe) [having-placed](ca nyasya) [tantra-resident](tantrānnivāsikam)
+[should-deposit](nikṣipet) [in-pot-womb](kuṃbha+garbhe) [and](ca) [having-installed](nyasya) [from-scripture](tantrāt) [resident-deity](nivāsikam)
 
 ## mukta-m0-p195-v4875
-[earth-ending](kṣmyāntaṃ) [and](ca) [crest](śekharaṃ) [principle](tatvaṃ) [edge](prāntaṃ) [there](tatra) [place](niveśayet)
+[ending-with-earth](kṣmī+antam) [and](ca) [ending-with-śekhara](śekharaṃ) [principle](tatvam) [ending-with-prā](prā+antam) [there](tatra) [should-place](niveśayet)
