@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p158-v3926
-[fruit](phalaṃ) [there](tatra) [liberation](muktiḥ) [its](tasya) [sub-pīṭha](upapīṭhake)
+[fruit](phalaṃ) [there](tatra) [liberation](muktiḥ) [of-that](tasya) [at-secondary-seat](upapīṭhake)
 
 ## mukta-m0-p158-v3927
-[that](sā) [with-sword](asiḥ) [ca](ca) [Varuṇa](varuṇā) [became](abhavat)
+[she](sā) [sword](asiḥ) [and](ca) [of-varuṇa](varuṇā) [became](abhavat)
 
 ## mukta-m0-p158-v3928
-[mantras](mantrāḥ) [at-that-time](tatkālaṃ) [fruit-giving](phala+dāyakāḥ)
+[mantras](mantrāḥ) [at-that-time](tat+kālaṃ) [fruit-giving](phala+dāyakāḥ)
 
 ## mukta-m0-p158-v3929
-[gods](devāḥ) [that](tat) [accomplishment](siddhiḥ) [by-practice-alone](puraścaraṇa+mātrataḥ)
+[gods](devāḥ) [that-accomplishment](tat+siddhiḥ) [by-preliminary-rite-alone](puraścaraṇa+mātrataḥ)
 
 ## mukta-m0-p158-v3930
 [that-born](tat+jātaṃ) [donkey-field](gardabha+kṣetram) [wonderful](adbhutam)
 
 ## mukta-m0-p158-v3931
-[right-path](dakṣiṇa+mārgasya) [mantras](mantrāḥ) [accomplishment-giving](siddhi+pradāyakāḥ)
+[of-right-path](dakṣiṇa+mārgasya) [mantras](mantrāḥ) [accomplishment-granting](siddhi+pradāyakāḥ)
 
 ## mukta-m0-p158-v3932
-[left](vāmasya) [path](mārgasya) [very-much](atīva) [accomplishment-doing](siddhi+kṛt)
+[of-left](vāmasya) [of-path](mārgasya) [exceedingly](atīva) [accomplishment-making](siddhi+kṛt)
 
 ## mukta-m0-p158-v3933
-[therefore](tasmāt) [left](vāmasya) [path](mārgasya) [root-place](mūla+sthānaṃ) [that](tat) [is-called](ucyate)
+[therefore](tasmāt) [of-left](vāmasya) [of-path](mārgasya) [root-place](mūla+sthānaṃ) [that](tat) [is-called](ucyate)
 
 ## mukta-m0-p158-v3934
-[ca](ca) [in-thousand](sahasre) [two](dve) [of-pīṭhas](pīṭhānāṃ) [ca](ca) [three-hundred](śata+trayam)
+[and](ca) [thousands](sahasre) [two](dve) [of-seats](pīṭhānāṃ) [and](ca) [hundred-triad](śata+trayam)
 
 ## mukta-m0-p158-v3935
-[accomplishment-giving](siddhi+dāni) [pīṭhas](pīṭhāni) [eight](aṣṭau) [ca](ca) [there](tatra) [tu](tu)
+[accomplishment-giving](siddhi+dāni) [seats](pīṭhāni) [eight](aṣṭau) [and](ca) [there](tatra) [indeed](tu)
 
 ## mukta-m0-p158-v3936
-[fallen](patitaṃ) [born](jātaṃ) [that](tat) [sub-pīṭha](upapīṭhakam)
+[fallen](patitaṃ) [become](jātaṃ) [that](tat) [secondary-seat](upapīṭhakam)
 
 ## mukta-m0-p158-v3937
-[thousands](sahasrāṇi) [god-births](deva+yonīni) [are](santi) [indeed](hi)
+[thousands](sahasrāṇi) [divine-wombs](deva+yonīni) [are](santi) [indeed](hi)
 
 ## mukta-m0-p158-v3938
-[left-eye](vāma+netraṃ) [that](te) [great-pīṭha](mahat+pīṭhaṃ) [that](tat) [is-called](ucyate)
+[left-eye](vāma+netraṃ) [your](te) [great-seat](mahat+pīṭhaṃ) [that](tat) [is-called](ucyate)
 
 ## mukta-m0-p158-v3939
-[gods](devāḥ) [goddess](devatā) [seeing](dar"anaṃ) [may-be](bhavet)
+[gods](devāḥ) [deity-vision](devatā+darśanaṃ) [may-be](bhavet)
 
 ## mukta-m0-p158-v3940
-[left](vāmaḥ) [therefore](tasmāt) [pīṭha-best](pīṭha+uttamaṃ) [tu](tu) [that](tat)
+[left](vāmaḥ) [therefore](tasmāt) [supreme-seat](pīṭha+uttamaṃ) [indeed](tu) [that](tat)
 
 ## mukta-m0-p158-v3941
-[mercury-seer](pāra+darśī) [would-be](syāt) [that-truth-knower](tat+tva+jñānī) [would-be](bhavet) [thus](tathā)
+[one-who-sees-beyond](pāra+darśī) [may-be](syāt) [truth-knower](tattva+jñānī) [may-become](bhavet) [likewise](tathā)
 
 ## mukta-m0-p158-v3942
-[there](tatra) [O-goddess](deveśi) [expiations](prāyaścitta+karaṇi) [ca](ca)
+[there](tatra) [o-lord-of-gods](deveśi) [expiation-causing](prāyaścitta+karāṇi) [and](ca)
 
 ## mukta-m0-p158-v3943
-[I-will-do](kariṣyāmi) [very-secret](ati+guptāni) [in-Kali](kalau) [by-mlecchas-covered](mleccha+āvṛtāni) [ca](ca)
+[I-shall-perform](kariṣyāmi) [very-secret](ati+guptāni) [in-kali-age](kalau) [covered-by-barbarians](mleccha+āvṛtāni) [and](ca)
 
 ## mukta-m0-p158-v3944
-[right-ear](dakṣa+karṇaḥ) [tu](tu) [fallen](patitaḥ) [very-beautiful](atīva+śobhanaḥ)
+[right-ear](dakṣa+karṇaḥ) [indeed](tu) [fallen](patitaḥ) [very-beautiful](atīva+śobhanaḥ)
 
 ## mukta-m0-p158-v3945
 [of-drinks](pānāṃ) [indeed](hi) [for-dwelling](nivāsāya) [arranged](upakalpitam)
 
 ## mukta-m0-p158-v3946
-[Vedic-mantras](vaidika+mantrāṇāṃ) [accomplishment](siddhiḥ) [gods](devāḥ) [at-step-at-step](pade pade)
+[of-vedic-mantras](vaidika+mantrāṇāṃ) [accomplishment](siddhiḥ) [gods](devāḥ) [at-every-step](pade+pade)
 
 ## mukta-m0-p158-v3947
-[in-world](loke) [famous](prasiddham) [sub-pīṭha](upapīṭhakam)
+[in-the-world](loke) [well-known](prasiddham) [secondary-seat](upapīṭhakam)
 
 ## mukta-m0-p158-v3948
-[again](punaḥ) [obtained](labdhāḥ) [then](tataḥ) [born](jātaṃ) [tīrtha](tīrthaṃ) [Veda-teaching](nigama+bodhakam)
+[again-obtained](punaḥ+labdhāḥ) [then](tataḥ) [become](jātaṃ) [sacred-place](tīrthaṃ) [scripture-teaching](nigama+bodhakam)
 
 ## mukta-m0-p158-v3949
-[vā](vā) [that](tat) [would-be](bhavet) [which](yat) [by-boon-wish](vara+icchayā)
+[or](vā) [that](tat) [may-be](bhavet) [which](yat) [by-desire-of-boon](vara+icchayā)
 
 ## mukta-m0-p158-v3950
-[he-sent](prerayāmāsa) [accomplishment](siddhiṃ) [ca](ca) [manifest](prakaṭā) [he-gave](dadau)
+[impelled](prerayāmāsa) [accomplishment](siddhiṃ) [and](ca) [manifest](prakaṭā) [gave](dadau)
