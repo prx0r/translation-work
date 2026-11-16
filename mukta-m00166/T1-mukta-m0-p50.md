@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p50-v1226
-[own-mind](svāntaṃ) [firm+own-mind](dṛḍha+svantam) [this](iyam) [may-make](karotu)
+[mind](svāntaṃ) [firm-minded](dṛḍhasvantam) [this](iyaṃ) [let-make](karotu)
 
 ## mukta-m0-p50-v1227
-[in-śrīnāma+sport](śrīnāma+vilāse) [eighth](aṣṭamī) [devotion](bhaktiḥ)
+[śrī-name-play](śrī+nāma+vilāse) [eighth](aṣṭamī) [devotion](bhaktiḥ)
 
 ## mukta-m0-p50-v1228
-[desire+form+dwelling](kāmarūpa+nivāsinī)
+[desire](kāma) [form](rūpa) [dwelling](nivāsinī)
 
 ## mukta-m0-p50-v1229
-[beautifully-smiling](suhāsinī) [for-essence](rasāya) [be](astu) [desire+form+dwelling](kāmarūpa+nivāsinī)
+[sweet-smiling](suhāsinī) [of-rasa](rasāyāḥ) [let-be](astu) [Kāmarūpa-dweller](kāma+rūpa+nivāsinī)
 
 ## mukta-m0-p50-v1230
-[desire+seed+possessing](kāma+bīja+vatī)
+[possessing-Kāma-seed](kāma+bīja+vatī)
 
 ## mukta-m0-p50-v1231
-[possessing](vatī) [always](sadā) [therefore](tena) [not](na) [served](sevitā) [may-be](syāḥ)
+[possessing](vatī) [always](sadā) [by-that](tena) [not](na) [served](sevitā) [may-be](syāḥ)
 
 ## mukta-m0-p50-v1232
-[true](satyā)
+[truthful](satyā)
 
 ## mukta-m0-p50-v1233
-[true](satyā) [even-though](api) [untrue](asatyam) [this](idam) [spreads-out](ātanute) [how](kathaṃ) [or](vā)
+[truthful](satyā) [even](api) [untruth](asatyam) [this](idam) [extends](ātanute) [how](kathaṃ) [or](vā)
 
 ## mukta-m0-p50-v1234
-[truth+dharma+devoted](satya+dharma+parāyaṇā)
+[devoted-to-true-dharma](satya+dharmaparāyaṇā)
 
 ## mukta-m0-p50-v1235
-[in-truth+dharma+steadfast](satya+dharma+sthirāḥ) [this](sā) [this](iyam) [truth+dharma+devoted](satya+dharma+parāyaṇā)
+[firm-in-true-dharma](satya+dharmasthirāḥ) [this](seyam) [devoted-to-true-dharma](satya+dharmaparāyaṇā)
 
 ## mukta-m0-p50-v1236
-[in-gross+path+situated](sthūla+mārga+sthitā)
+[situated-in-gross-path](sthūla+mārga+sthitā)
 
 ## mukta-m0-p50-v1237
-[full+bliss](pūrṇa+ānandā) [wonder](citram) [this](etat) [marvelous](vicitram)
+[full-bliss](pūrṇānandā) [wonder](citram) [this](etad) [variegated](vicitram)
 
 ## mukta-m0-p50-v1238
 [subtle](sūkṣmā)
 
 ## mukta-m0-p50-v1239
-[arise](bhavanti) [without-effort](ayatnataḥ) [of-whom](yasyāḥ) [she](sā) [subtle](sūkṣmā) [of-what-kind](kīdṛśī) [auspicious-one](śivā)
+[become](bhavanti) [effortlessly](ayatnataḥ) [whose](yasyāḥ) [she](sā) [subtle](sūkṣmā) [what-kind](kīdṛśī) [Śivā](śivā)
 
 ## mukta-m0-p50-v1240
-[subtle+intellect+awakener](sūkṣma+buddhi+prabodhinī)
+[awakening-subtle-intellect](sūkṣma+buddhi+prabodhinī)
 
 ## mukta-m0-p50-v1241
-[how](kathaṃ) [to-be-known](jñeyāt) [not](na) [if](cet) [she](sā) [may-be](syāt) [subtle+intellect+awakener](sūkṣma+buddhi+prabodhinī)
+[how](kathaṃ) [knowable](jñeyā) [not](na) [if](cet) [she](sā) [would-be](syāt) [awakening-subtle-intellect](sūkṣma+buddhi+prabodhinī)
 
 ## mukta-m0-p50-v1242
 [six-cornered](ṣaṭkoṇā)
 
 ## mukta-m0-p50-v1243
-[she](sā) [six-cornered](ṣaṭkoṇā) [six+action+firmness+giver](ṣaṭ+kriyā+dārḍhya+dā) [may-be](astu)
+[she](sā) [six-cornered](ṣaṭkoṇā) [firmness-of-six-acts-giver](ṣaṭ+kriyā+dārḍhya+dā) [let-be](astu)
 
 ## mukta-m0-p50-v1244
 [three-cornered](trikoṇā)
 
 ## mukta-m0-p50-v1245
-[this](sā) [this](iyam) [illusion](māyā) [by-what](kena) [measure](mānena) [mother](mātā)
+[this](seyam) [māyā](māyā) [by-what](kena) [measure](mānena) [mother](mātā)
 
 ## mukta-m0-p50-v1246
 [three-eyed](trinetrā)
 
 ## mukta-m0-p50-v1247
-[she](sā) [to-me](me) [three-eyed](trinetrā) [to-givers](dadatām) [good-eye](su+netram)
+[she](sā) [to-me](me) [three-eyed](trinetrā) [let-give](dadatām) [good-eye](sunetram)
 
 ## mukta-m0-p50-v1248
-[tripura+beautiful](tripura+sundarī)
+[beauty-of-three-cities](tripura+sundarī)
 
 ## mukta-m0-p50-v1249
-[three-eye+beloved](tri+netra+dayitā) [beneficial](hitā) [tripura+beautiful](tripura+sundarī) [may-protect](pātu) [us](naḥ)
+[beloved-of-three-eyed](trinetra+dayitā) [beneficent](hitā) [Tripurasundarī](tripura+sundarī) [protect](pātu) [us](naḥ)
 
 ## mukta-m0-p50-v1250
-[bull+beloved](vṛṣa+priyā)
+[dear-to-bull](vṛṣa+priyā)

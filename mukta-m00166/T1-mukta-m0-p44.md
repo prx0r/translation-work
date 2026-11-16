@@ -2,76 +2,52 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p44-v1076
-[beautiful-ear+tongue](sukarṇarasanā) [become](bhūtā) [goddess](devī) [she](sā) [also](api) [stainless](nirañjanā)
-
+good-ear-tongue being goddess she-also stainless
 ## mukta-m0-p44-v1077
-[nose](nāsā)
-
+nose
 ## mukta-m0-p44-v1078
-[fragrance+multitude](āmodasaṃghaṃ) [of-all](sakalasya) [who](yā) [also](api) [destroys](nāseti) [she](sā) [some](kāpi) [is-inferred](anumīyate) [here](atra)
-
+fragrance-collection all of-whom also nose thus she some inferred here
 ## mukta-m0-p44-v1079
-[eye](cakṣuḥ)
-
+eye
 ## mukta-m0-p44-v1080
-[of-joy](prīteḥ) [one+cause](ekanidānaṃ) [she](sā) [eye](cakṣuḥ) [thus](iti) [is-called](abhidhīyate)
-
+love-one-cause she eye thus called
 ## mukta-m0-p44-v1081
-[having-touch](sparśavatī)
-
+touch-possessing
 ## mukta-m0-p44-v1082
-[illusion](māyā) [somewhere](kvāpi) [ever](kadāpi) [this](eṣā) [being](satī) [having-touch](sparśavatī) [is-considered](matā)
-
+illusion somewhere sometime this being touch-possessing considered
 ## mukta-m0-p44-v1083
-[taste](rasā)
-
+taste
 ## mukta-m0-p44-v1084
-[full](pūrṇaṃ) [essence](rasaṃ) [she](sā) [may-make-taste](rasayet) [taste](rasā) [people](janam)
-
+full taste she tastes taste people
 ## mukta-m0-p44-v1085
-[fragrance-loving](gandhapriyā)
-
+scent-loving
 ## mukta-m0-p44-v1086
-[by-whose+grace](yatprasattyā) [good-fragrance](sugandhaṃ) [she](sā) [may-give](deyād) [fragrance-loving](gandhapriyā) [fame](yaśaḥ)
-
+whose-pleasure sweet-scent she give scent-loving glory
 ## mukta-m0-p44-v1087
-[well-fragrant](sugandhā)
-
+sweet-scent
 ## mukta-m0-p44-v1088
-[well-fragrant](sugandhā) [indeed](tu) [in-world+arisen](bhavodbhūte) [illusion+bad-smell+remover](māyādurgandhahārikā)
-
+sweet-scents indeed birth-born illusion bad-scent-remover
 ## mukta-m0-p44-v1089
-[good-to-touch](susparśā)
-
+good-touch
 ## mukta-m0-p44-v1090
-[by-whose+foot+dust+contact](yatpādareṇusaṃsparśāt) [good-to-touch](susparśā) [may-be](astu) [for-welfare](śivāya) [of-you](vaḥ)
-
+whose-foot-dust-touch good-touch indeed auspicious to-you
 ## mukta-m0-p44-v1091
-[mind-going](manogatiḥ)
-
+mind-going
 ## mukta-m0-p44-v1092
-[thus+called](tyākhyā) [goddess](devī) [always](sadā) [in-my](me) [in-mind](manasi) [may-dwell](nivasatād) [like-day+splendor](vāsaraśrīr) [in-sun](iva+ārke)
-
+that-called goddess always my mind dwell may day-glory-like-sun
 ## mukta-m0-p44-v1093
-[musk](mṛganābhiḥ)
-
+musk-deer-navel
 ## mukta-m0-p44-v1094
-[nose+only+path](ghrāṇaikamārgaṃ) [creates](vidadhāti) [mind](cetaḥ) [is-proclaimed](prakīrtyate) [she](sā) [musk](mṛganābhiḥ) [by-the-noble](āryaiḥ)
-
+smell-one-path makes mind proclaimed she musk-deer-navel noble-ones
 ## mukta-m0-p44-v1095
-[deer-eyed](mṛgākṣī)
-
+deer-eyed
 ## mukta-m0-p44-v1096
-[this](sā) [here](iyaṃ) [some](kāpi) [deer-eyed](mṛgākṣī) [for-us](naḥ) [may-be](bhūyāt) [before-eyes+going](akṣyagragā) [always](sadā)
-
+this some deer-eyed not be eye-front-going always
 ## mukta-m0-p44-v1097
-[camphor+fragrance+bearing](karpūrāmodadhāriṇī)
-
+camphor-fragrance-bearing
 ## mukta-m0-p44-v1098
-[may-perish](vinaśyati) [for-welfare](śivāya) [may-be](astu) [camphor+fragrance+bearing](karpūrāmodadhāriṇī)
-
+perish auspicious may camphor-fragrance-bearing
 ## mukta-m0-p44-v1099
-[lotus-born](padmayoniḥ)
-
+lotus-womb
 ## mukta-m0-p44-v1100
-[womb+entry+bad-state+face](yonipraveśadurveśamukhaṃ) [suffering](duḥkhaṃ) [may-remove](vyapohatām)
+womb-entry-difficult-mouth suffering remove-return

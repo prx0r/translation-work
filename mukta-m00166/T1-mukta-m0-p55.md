@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p55-v1351
-[herb](oṣadhiḥ) [medicine](oṣadhiḥ) [remedy](oṣadhiḥ) [healing-plant](oṣadhiḥ)
+[herb](oṣadhiḥ)
 
 ## mukta-m0-p55-v1352
-[disease](rogaṃ) [emaciation](śoṣaṃ) [may-she-lead-away](nayatu) [in-time](samaye) [she+medicine](sā+oṣadhiḥ) [by-mere-meditation](dhyāna+mātrāt)
+[disease](rogaṃ) [wasting](śoṣaṃ) [may-remove](nayatu) [in-time](samaye) [with-medicine](sauṣadhiḥ) [from-meditation-only](dhyānamātrāt)
 
 ## mukta-m0-p55-v1353
-[physician+mother](vaidya+mātā) [she](sā) [is](asti) [nurse](vaidya+mātā)
+[mother-of-physicians](vaidyamātā)
 
 ## mukta-m0-p55-v1354
-[she](sā) [physician-mother](vaidya+mātā) [thus](iti) [of-the-good](satāṃ) [regarded](matā) [you-are](asi)
+[she](sā) [mother-of-physicians](vaidyamātā) [thus](iti) [of-good](satāṃ) [you-are-considered](matāsi)
 
 ## mukta-m0-p55-v1355
-[substance+power](dravya+śaktiḥ) [she](sā) [is](asti) [potency](dravya+śaktiḥ)
+[drug-power](dravyaśaktiḥ)
 
 ## mukta-m0-p55-v1356
-[she](sā) [substance-power](dravya+śaktiḥ) [may-remove](haratāt) [powerlessness](aśaktim)
+[she](sā) [drug-power](dravyaśaktiḥ) [removes-weakness](haratādaśaktim)
 
 ## mukta-m0-p55-v1357
-[efficacious](prabhāvinī) [she](sā) [is](asti) [powerful](prabhāvinī)
+[powerful](prabhāvinī)
 
 ## mukta-m0-p55-v1358
-[efficacious-one](prabhāvinī) [may-she-adorn](bhūṣayatu) [with-her-own-splendors](sva+bhābhiḥ) [us](asmān)
+[powerful](prabhāvinī) [may-adorn](bhūṣayatu) [with-own-natures](svabhābhiḥ)
 
 ## mukta-m0-p55-v1359
-[physician](vaidyā) [she](sā) [is](asti) [healer](vaidyā)
+[physician](vaidyā)
 
 ## mukta-m0-p55-v1360
-[of-the-sick](rogiṇaḥ) [sorrow-giving](śoka+dāḥ) [they](te) [may-be](syuḥ) [worldly-diseases](bhava+rogāḥ) [even](api) [themselves](svayam)
+[of-patients](rogiṇaḥ) [grief-givers](śokadāste) [may-be](syur) [world-diseases](bhavarogā) [also](api) [themselves](svayam)
 
 ## mukta-m0-p55-v1361
-[physician+treatment](vaidyā+cikitsā) [she](sā) [is](asti) [remedy](vaidyā+cikitsā)
+[medical-treatment](vaidyācikitsā)
 
 ## mukta-m0-p55-v1362
-[goes](eti) [physician-treatment](vaidya+cikitsā) [this](iyaṃ) [doubt-fever](vicikitsā+jvaraṃ) [remove](hara)
+[goes](eti) [medical-treatment](vaidyacikitseyaṃ) [doubt-fever](vicikitsājvaraṃ) [remove](hara)
 
 ## mukta-m0-p55-v1363
-[good-path](supathyā) [she](sā) [is](asti) [wholesome](supathyā)
+[wholesome](supathyā)
 
 ## mukta-m0-p55-v1364
-[in-the-mind](ścitte) [situated](sthitā) [of-whom](yasya) [always](sadā) [good-path](supathyā) [is](asti)
+[in-mind](ścitte) [situated](sthitā) [whose](yasya) [always](sadā) [wholesome](supathyā)
 
 ## mukta-m0-p55-v1365
-[disease+destroying](roga+nāśinī) [she](sā) [is](asti) [curer](roga+nāśinī)
+[disease-destroyer](roganāśinī)
 
 ## mukta-m0-p55-v1366
-[without-effort](ayatnāt) [is-sung](gīyate) [therefore](tasmāt) [supreme-lady](īśānī) [disease-destroying](roga+nāśinī)
+[without-effort](ayatnād) [is-sung](gīyate) [therefore](tasmād) [goddess](īśānī) [disease-destroyer](roganāśinī)
 
 ## mukta-m0-p55-v1367
-[hunt](mṛgayā) [she](sā) [is](asti) [seeking](mṛgayā)
+[hunting](mṛgayā)
 
 ## mukta-m0-p55-v1368
-[proclaimed](saṃkīrtitā) [she](sā) [hunt](mṛgayā) [by-scripture-knowers](āgama+jñaiḥ)
+[proclaimed](saṃkīrtitā) [she](sā) [hunting](mṛgayā) [by-knowers-of-hunting-tradition](mṛgayāgamajñaiḥ)
 
 ## mukta-m0-p55-v1369
-[deer+flesh+eating](mṛga+māṃsa+adā) [she](sā) [is](asti) [consumer](mṛga+māṃsa+adā)
+[deer-flesh-giver](mṛgamāṃsādā)
 
 ## mukta-m0-p55-v1370
-[became](bhūtā) [because](yat) [deer-flesh-eating](mṛga+māṃsa+adā) [with-her-own-mount-lion](sva+vāha+hari+saṅgataḥ) [she](sā)
+[beings](bhūtā) [which](yan) [deer-flesh-giver](mṛgamāṃsādā) [with-own-vehicle-hari-joined](svavāhaharisaṅgataḥ)
 
 ## mukta-m0-p55-v1371
-[deer+skin](mṛga+tvak) [she](sā) [is](asti) [hide](mṛga+tvak)
+[deer-skin](mṛgatvak)
 
 ## mukta-m0-p55-v1372
-[deer-skin](mṛga+tvak) [this-one](eṣā) [declared](kathitā) [by-story-knowers](kathā+jñaiḥ)
+[deer-skin](mṛgatvageṣā) [this](eṣā) [said](kathitā) [by-knowers-of-stories](kathājñaiḥ)
 
 ## mukta-m0-p55-v1373
-[deer+eyed](mṛga+locanā) [she](sā) [is](asti) [doe-eyed](mṛga+locanā)
+[deer-eyed](mṛgalocanā)
 
 ## mukta-m0-p55-v1374
-[went](āgāt) [to-bondage](bandhanam) [lord-deer](īśāna+mṛgaḥ) [she](sā) [deer-eyed](mṛga+locanā)
+[came](āgād) [bondage](bandhanam) [of-īśāna](īśānam) [deer](mṛgaḥ) [she](sā) [deer-eyed](mṛgalocanā)
 
 ## mukta-m0-p55-v1375
-[snare](vāgurā) [net](vāgurā) [trap](vāgurā) [she](vāgurā)
+[snare](vāgurā)

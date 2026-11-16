@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p39-v951
-[battle](yuddha) [desiring-feminine](kāṃkṣiṇī)
+[battle+desiring](yuddhakāṃkṣiṇī)
 
 ## mukta-m0-p39-v952
-[they-should-abandon](tyajeyuḥ) [you](tvaṃ) [not](na) [if](cet) [fainting](mūrcchā) [causing-feminine](kartrī) [should-be](syāt) [battle](yuddha) [desiring-feminine](kāṃkṣiṇī)
+[they-would-abandon](tyajeyuḥ) [you](tvaṃ) [not](na) [if](cen) [fainting-causing](mūrcchākartrī) [would-be](syā) [battle-desiring](yuddhakāṃkṣiṇī)
 
 ## mukta-m0-p39-v953
-[having-a-banner-feminine](patākinī)
+[bannered-one](patākinī)
 
 ## mukta-m0-p39-v954
-[state](sthitiṃ) [for-welfare](hitāya) [let-be](astu) [bannered-feminine](patākinī) [she](sā)
+[condition](sthitiṃ) [for-welfare](hitāyāḥ) [tu](tu) [bannered-one](patākinī) [she](sā)
 
 ## mukta-m0-p39-v955
-[compassion](dayā) [beginning-feminine](ārambhā)
+[page-136](p.) [dayā-beginning](dayārambhā)
 
 ## mukta-m0-p39-v956
-[truly](satyaṃ) [she-alone](sā+eva) [compassion](dayā) [beginning-feminine](ārambhā) [honored](sambhāvita) [world](jagat) [triad-feminine](ttrayī)
+[truth](satyaṃ) [she-indeed](saiva) [compassion-beginning](dayārambhā) [honored-three-worlds](sambhāvitajagatattrayī)
 
 ## mukta-m0-p39-v957
-[lute](vipañcī) [fifth-note](pañcama) [fond-of-feminine](priyā)
+[vīṇā-five-fifth-dear](vipañcīpañcamapriyā)
 
 ## mukta-m0-p39-v958
-[how](kathaṃ) [they-should-be](syuḥ) [should-not-be](syāt) [not](na) [if](cet) [goddess](devī) [lute](vipañcī) [fifth-note](pañcama) [fond-of-feminine](priyā)
+[how](kathaṃ) [would-be](syuḥ) [would-be-not](syānna) [if](ced) [goddess](devī) [vīṇā-five-fifth-dear](vipañcīpañcamapriyā)
 
 ## mukta-m0-p39-v959
-[higher-and-lower](para+apara) [arts](kalā) [beloved-feminine](kāntā)
+[supreme-inferior-art-beloved](parāparakalākāntā)
 
 ## mukta-m0-p39-v960
-[higher-and-lower](para+apara) [arts](kalā) [beloved-feminine](kāntā) [she](sā) [of-me](mama) [let-be](astu) [in-front](agrataḥ) [always](sadā)
+[supreme-inferior-art-beloved](parāparakalākāntā) [she](sā) [to-me](mama) [be](astu) [before](agrataḥ) [always](sadā)
 
 ## mukta-m0-p39-v961
-[three](tri) [powers-feminine](śaktiḥ)
+[three-powers](triśaktiḥ)
 
 ## mukta-m0-p39-v962
-[in-whom](yeṣu) [three](tri) [powers-feminine](śaktiḥ) [indeed](kila) [very-pleased-feminine](suprasannā)
+[in-whom](yeṣu) [three-powers](triśaktiḥ) [indeed](kila) [very-pleased](suprasannā)
 
 ## mukta-m0-p39-v963
-[liberation](mokṣa) [giving-feminine](dāyinī)
+[liberation-giving](mokṣadāyinī)
 
 ## mukta-m0-p39-v964
-[alas](vata) [of-whom](yasya) [O-goddess](īśvari) [liberation](mokṣa) [giving-feminine](dāyinī) [you](tvam)
+[alas](vata) [whose](yasya) [O-goddess](īśvari) [liberation-giving](mokṣadāyinī) [you](tvam)
 
 ## mukta-m0-p39-v965
-[of-Indra-feminine](aindrī)
+[page-137](p.) [Indra's](aindrī)
 
 ## mukta-m0-p39-v966
-[inertness](jala+tva) [removal](dūrīkaraṇena) [may-be](bhūyāt) [of-Indra-feminine](aindrī) [elephant](gaja) [lord](indra) [upon-going-feminine](uparigā) [for-prosperity](śriye) [to-us](naḥ)
+[water-your-removing](jalatvadūrīkaraṇena) [may-become](bhūyāt) [Indra's](aindrī) [elephant-lord-upon-riding](gajendroparigā) [for-prosperity](śriye) [to-us](naḥ)
 
 ## mukta-m0-p39-v967
-[of-Maheśvara-feminine](māheśvarī)
+[Śiva's](māheśvarī)
 
 ## mukta-m0-p39-v968
-[even-so](tathā+api) [trident-bearer](śūlī) [supreme-lord](parama+īśvaraḥ) [therefore](tat) [of-Maheśvarī](māheśvarī) [service](sevana) [born](jaḥ) [grace](prasādaḥ)
+[nevertheless](tathāpi) [trident-bearer](śūlī) [supreme-lord](parameśvaraḥ) [that](tan) [Śiva's-devotion-born](māheśvarīsevanajaḥ) [grace](prasādaḥ)
 
 ## mukta-m0-p39-v969
-[of-Brahmā-feminine](brāhmī)
+[Brahmā's](brāhmī) [may-be](bhūyāt) [always](sadā) [goddess](devī) [Brahma-creation-sole-witness](brahmasṛṣṭyekasākṣiṇī)
 
 ## mukta-m0-p39-v970
-[of-Brahmā-feminine](brāhmī) [may-be](bhūyāt) [always](sadā) [goddess](devī) [Brahmā](brahma) [creation](sṛṣṭi) [sole](eka) [witness-feminine](sākṣiṇī)
+[Brahmā's](brāhmī) [may-be](bhūyāt) [always](sadā) [goddess](devī) [Brahma-creation-sole-witness](brahmasṛṣṭyekasākṣiṇī)
 
 ## mukta-m0-p39-v971
-[of-Kumāra-feminine](kaumārī)
+[Kumāra's](kaumārī)
 
 ## mukta-m0-p39-v972
-[Kumāra](kumāra) [delighting-feminine](hāriṇī) [may-be](bhūyāt) [of-Kumāra-feminine](kaumārī) [Māra](māra) [fear](bhīti) [removing-feminine](hṛt)
+[Kumāra-seizing](kumārahāriṇī) [may-be](bhūyāt) [Kumāra's](kaumārī) [death-fear-removing](mārabhītihṛt)
 
 ## mukta-m0-p39-v973
-[family](kula) [dwelling-feminine](vāsinī)
+[clan-dwelling](kulavāsinī)
 
 ## mukta-m0-p39-v974
-[welfare](śiva) [giving-feminine](dā) [may-be](stāt) [family](kula) [dwelling-feminine](vāsinī) [always](sadā) [to-us](naḥ)
+[auspicious-giving](śivadā) [may-be](stāt) [clan-dwelling](kulavāsinī) [always](sadā) [to-us](naḥ)
 
 ## mukta-m0-p39-v975
 [will](icchā)

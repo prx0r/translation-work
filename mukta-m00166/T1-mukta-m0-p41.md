@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p41-v1001
-[not-one](anekā) [not-one](anekā) [not-one](anekā) [not-one](anekā)
+[not-one](anekā)
 
 ## mukta-m0-p41-v1002
-[not-one](na) [not-one](ekā) [may-be](bhavet) [some](kāpi) [sport+ground](vilāsa+bhūmiḥ)
+[not-one](nekā) [may-be](bhavet) [some](kāpi) [play+ground](vilāsabhūmiḥ)
 
 ## mukta-m0-p41-v1003
-[greatly-worshipped](mahejyā) [greatly-worshipped](mahejyā) [greatly-worshipped](mahejyā) [greatly-worshipped](mahejyā)
+[great-worshipful](mahejyā)
 
 ## mukta-m0-p41-v1004
-[creation+earth](prasūti+vasudhā) [goddess](devī) [greatly-worshipped](mahejyā) [this](iyaṃ) [may-burn](dahatv) [sin](agham)
+[born+earth](prasūtivasudhā) [goddess](devī) [this-great-worshipful](mahejyeyaṃ) [burn-sin](dahatvagham)
 
 ## mukta-m0-p41-v1005
-[hundred+armed](śata+bāhuḥ) [hundred+armed](śata+bāhuḥ) [hundred+armed](śata+bāhuḥ) [hundred+armed](śata+bāhuḥ)
+[hundred-armed](śatabāhuḥ)
 
 ## mukta-m0-p41-v1006
-[not-one+armed](na+eka+bāhuḥ) [not-one+armed](na+eka+bāhuḥ) [manifest+unmanifest](vyakta+avyaktā) [victorious-is](jayati) [that-one](asau)
+[not-one-armed](naikabāhur) [not-one-armed](naikabāhur) [manifest-unmanifest](vyaktāvyaktā) [conquers](jayatyasau)
 
 ## mukta-m0-p41-v1007
-[great+armed](mahā+bhujā) [great+armed](mahā+bhujā) [great+armed](mahā+bhujā) [great+armed](mahā+bhujā)
+[great-armed](mahābhujā)
 
 ## mukta-m0-p41-v1008
-[be-it-so](stat) [by-truth](satyena) [great+arm+worship+born](mahā+bhujā+bhajana+jaḥ) [properly](samyak) [grace+arising](prasāda+udayaḥ)
+[that](stat) [truth](satyena) [great-armed-worship-born](mahābhujābhajanajaḥ) [fully](samyak) [grace-rise](prasādodayaḥ)
 
 ## mukta-m0-p41-v1009
-[serpent+ornamented](bhujaṅga+bhūṣaṇā) [serpent+ornamented](bhujaṅga+bhūṣaṇā) [serpent+ornamented](bhujaṅga+bhūṣaṇā) [serpent+ornamented](bhujaṅga+bhūṣaṇā)
+[serpent-ornament](bhujaṅgabhūṣaṇā)
 
 ## mukta-m0-p41-v1010
-[serpent+ornamented](bhujaṅga+bhūṣaṇā) [Śambhu](śambhu) [serpent+ornament](bhujaṅgam) [without-ornament](a+vibhūṣaṇam)
+[serpent-ornament](bhujaṅgabhūṣaṇā) [shambhu-serpent-ornament](śambhubhujaṅgamavibhūṣaṇam)
 
 ## mukta-m0-p41-v1011
-[ornament](bhūṣā) [ornament](bhūṣā) [ornament](bhūṣā) [ornament](bhūṣā)
+[ornament](bhūṣā)
 
 ## mukta-m0-p41-v1012
-[desirable](kāmyaṃ) [at-will](nikāmaṃ) [supreme+fortune](para+bhāgam) [this](eṣā) [ornament](bhūṣā) [of-sight](dṛśā) [nourishment+making](poṣaṇa+kṛt) [always](sadā) [may-be](stāt)
+[desired](kāmyaṃ) [without-desire](nikāmaṃ) [other-share](parabhāgameṣā) [ornament](bhūṣā) [sight](dṛśā) [nourish-doer](poṣaṇakṛtsadā) [let-stand](stāt)
 
 ## mukta-m0-p41-v1013
-[six+chakra+sequence+dwelling](ṣaṭ+cakra+krama+vāsinī) [six+chakra+sequence+dwelling](ṣaṭ+cakra+krama+vāsinī) [six+chakra+sequence+dwelling](ṣaṭ+cakra+krama+vāsinī) [six+chakra+sequence+dwelling](ṣaṭ+cakra+krama+vāsinī)
+[six-chakra-course-dweller](ṣaṭcakrakramavāsinī)
 
 ## mukta-m0-p41-v1014
-[six+chakra+sequence+dwelling](ṣaṭ+cakra+krama+vāsinī) [may-dwell](nivasatāt) [my+mind](man+mānase) [with-own+splendor](sva+tviṣā)
+[six-chakra-course-dweller](ṣaṭcakrakramavāsinī) [dwell](nivasatānmanmānase) [own-splendor](svatviṣā)
 
 ## mukta-m0-p41-v1015
-[six+chakra+piercing](ṣaṭ+cakra+bhedinī) [six+chakra+piercing](ṣaṭ+cakra+bhedinī) [six+chakra+piercing](ṣaṭ+cakra+bhedinī) [six+chakra+piercing](ṣaṭ+cakra+bhedinī)
+[six-chakra-piercer](ṣaṭcakrabhedinī)
 
 ## mukta-m0-p41-v1016
-[difference+thought+removing](bheda+buddhi+harīṃ) [accomplishment](siddhiṃ) [may-give](dadātu) [to-this-one](asmai) [without](vinā) [force](haṭham)
+[difference-intellect-removing](bhedabuddhiharīṃ) [perfection](siddhiṃ) [give-to-him](dadātvasmai) [without-force](vināhaṭham)
 
 ## mukta-m0-p41-v1017
-[dark-one](śyāmā) [dark-one](śyāmā) [dark-one](śyāmā) [dark-one](śyāmā)
+[dark](śyāmā)
 
 ## mukta-m0-p41-v1018
-[becomes](bhavati) [this](eṣā) [dark-one](śyāmā) [may-be](bhavatu) [worldly+evil-state+destruction+making](bhava+durbhāva+hati+kṛt)
+[becomes-this](bhavatyeṣā) [dark](śyāmā) [let-become](bhavatu) [your-evil-destroyer](bhavadurbhāvahatikṛt)
 
 ## mukta-m0-p41-v1019
-[body+dwelling](kāya+sthā) [body+dwelling](kāya+sthā) [body+dwelling](kāya+sthā) [body+dwelling](kāya+sthā)
+[body-abiding](kāyasthā)
 
 ## mukta-m0-p41-v1020
-[measurable](meyā) [wonderful](citraṃ) [consciousness](cetanā) [well+self-dependent](su+svatantrā)
+[measurable](meyā) [wonder](citraṃ) [consciousness](cetanā) [self-dependent](susvatantrā)
 
 ## mukta-m0-p41-v1021
-[body+devoid](kāya+varjitā) [body+devoid](kāya+varjitā) [body+devoid](kāya+varjitā) [body+devoid](kāya+varjitā)
+[body-abandoned](kāyavarjitā)
 
 ## mukta-m0-p41-v1022
-[of-the-good](satāṃ) [may-be](bhūyād) [for-prosperity](vibhūtyai) [she](sā) [Bhavānī](bhavānī) [body+devoid](kāya+varjitā)
+[of-good](satāṃ) [let-be](bhūyād) [glory](vibhūtyai) [she](sā) [bhavani](bhavānī) [body-abandoned](kāyavarjitā)
 
 ## mukta-m0-p41-v1023
-[well-smiling](su+smitā) [well-smiling](su+smitā) [well-smiling](su+smitā) [well-smiling](su+smitā)
+[well-smiling](susmitā)
 
 ## mukta-m0-p41-v1024
-[she](sā) [well-smiling](su+smitā) [to-you](te) [may-be](astu) [for-welfare](hitāya) [power](śaktiḥ)
+[she](sā) [well-smiling](susmitā) [to-you](te'stu) [benefit](hitāya) [power](śaktiḥ)
 
 ## mukta-m0-p41-v1025
-[of-goddesses](devīnām) [in-sport+name](avilāsa+nāmni) [cessation](viratiṃ) [devotion](bhaktiḥ) [gone](gatā) [seventh](saptamī)
+[goddesses-play-name-seventh](devīnāmavilāsanāmni) [cessation](viratiṃ) [devotion](bhaktirgatā) [seventh](saptamī)

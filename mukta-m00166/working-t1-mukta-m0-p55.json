@@ -9,18 +9,6 @@
 {
 "surface": "oṣadhiḥ",
 "quick_gloss": "herb"
-},
-{
-"surface": "oṣadhiḥ",
-"quick_gloss": "medicine"
-},
-{
-"surface": "oṣadhiḥ",
-"quick_gloss": "remedy"
-},
-{
-"surface": "oṣadhiḥ",
-"quick_gloss": "healing-plant"
 }
 ]
 },
@@ -37,23 +25,23 @@
 },
 {
 "surface": "śoṣaṃ",
-"quick_gloss": "emaciation"
+"quick_gloss": "wasting"
 },
 {
 "surface": "nayatu",
-"quick_gloss": "may-she-lead-away"
+"quick_gloss": "may-remove"
 },
 {
 "surface": "samaye",
 "quick_gloss": "in-time"
 },
 {
-"surface": "sā+oṣadhiḥ",
-"quick_gloss": "she+medicine"
+"surface": "sauṣadhiḥ",
+"quick_gloss": "with-medicine"
 },
 {
-"surface": "dhyāna+mātrāt",
-"quick_gloss": "by-mere-meditation"
+"surface": "dhyānamātrāt",
+"quick_gloss": "from-meditation-only"
 }
 ]
 },
@@ -65,20 +53,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "vaidya+mātā",
-"quick_gloss": "physician+mother"
-},
-{
-"surface": "sā",
-"quick_gloss": "she"
-},
-{
-"surface": "asti",
-"quick_gloss": "is"
-},
-{
-"surface": "vaidya+mātā",
-"quick_gloss": "nurse"
+"surface": "vaidyamātā",
+"quick_gloss": "mother-of-physicians"
 }
 ]
 },
@@ -94,8 +70,8 @@
 "quick_gloss": "she"
 },
 {
-"surface": "vaidya+mātā",
-"quick_gloss": "physician-mother"
+"surface": "vaidyamātā",
+"quick_gloss": "mother-of-physicians"
 },
 {
 "surface": "iti",
@@ -103,15 +79,11 @@
 },
 {
 "surface": "satāṃ",
-"quick_gloss": "of-the-good"
+"quick_gloss": "of-good"
 },
 {
-"surface": "matā",
-"quick_gloss": "regarded"
-},
-{
-"surface": "asi",
-"quick_gloss": "you-are"
+"surface": "matāsi",
+"quick_gloss": "you-are-considered"
 }
 ]
 },
@@ -123,20 +95,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "dravya+śaktiḥ",
-"quick_gloss": "substance+power"
-},
-{
-"surface": "sā",
-"quick_gloss": "she"
-},
-{
-"surface": "asti",
-"quick_gloss": "is"
-},
-{
-"surface": "dravya+śaktiḥ",
-"quick_gloss": "potency"
+"surface": "dravyaśaktiḥ",
+"quick_gloss": "drug-power"
 }
 ]
 },
@@ -152,16 +112,12 @@
 "quick_gloss": "she"
 },
 {
-"surface": "dravya+śaktiḥ",
-"quick_gloss": "substance-power"
+"surface": "dravyaśaktiḥ",
+"quick_gloss": "drug-power"
 },
 {
-"surface": "haratāt",
-"quick_gloss": "may-remove"
-},
-{
-"surface": "aśaktim",
-"quick_gloss": "powerlessness"
+"surface": "haratādaśaktim",
+"quick_gloss": "removes-weakness"
 }
 ]
 },
@@ -172,18 +128,6 @@
 "quick_english": "",
 "quick_english_source": "t1parse",
 "tokens": [
-{
-"surface": "prabhāvinī",
-"quick_gloss": "efficacious"
-},
-{
-"surface": "sā",
-"quick_gloss": "she"
-},
-{
-"surface": "asti",
-"quick_gloss": "is"
-},
 {
 "surface": "prabhāvinī",
 "quick_gloss": "powerful"
@@ -199,19 +143,15 @@
 "tokens": [
 {
 "surface": "prabhāvinī",
-"quick_gloss": "efficacious-one"
+"quick_gloss": "powerful"
 },
 {
 "surface": "bhūṣayatu",
-"quick_gloss": "may-she-adorn"
+"quick_gloss": "may-adorn"
 },
 {
-"surface": "sva+bhābhiḥ",
-"quick_gloss": "with-her-own-splendors"
-},
-{
-"surface": "asmān",
-"quick_gloss": "us"
+"surface": "svabhābhiḥ",
+"quick_gloss": "with-own-natures"
 }
 ]
 },
@@ -225,18 +165,6 @@
 {
 "surface": "vaidyā",
 "quick_gloss": "physician"
-},
-{
-"surface": "sā",
-"quick_gloss": "she"
-},
-{
-"surface": "asti",
-"quick_gloss": "is"
-},
-{
-"surface": "vaidyā",
-"quick_gloss": "healer"
 }
 ]
 },
@@ -249,27 +177,23 @@
 "tokens": [
 {
 "surface": "rogiṇaḥ",
-"quick_gloss": "of-the-sick"
+"quick_gloss": "of-patients"
 },
 {
-"surface": "śoka+dāḥ",
-"quick_gloss": "sorrow-giving"
+"surface": "śokadāste",
+"quick_gloss": "grief-givers"
 },
 {
-"surface": "te",
-"quick_gloss": "they"
-},
-{
-"surface": "syuḥ",
+"surface": "syur",
 "quick_gloss": "may-be"
 },
 {
-"surface": "bhava+rogāḥ",
-"quick_gloss": "worldly-diseases"
+"surface": "bhavarogā",
+"quick_gloss": "world-diseases"
 },
 {
 "surface": "api",
-"quick_gloss": "even"
+"quick_gloss": "also"
 },
 {
 "surface": "svayam",
@@ -285,20 +209,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "vaidyā+cikitsā",
-"quick_gloss": "physician+treatment"
-},
-{
-"surface": "sā",
-"quick_gloss": "she"
-},
-{
-"surface": "asti",
-"quick_gloss": "is"
-},
-{
-"surface": "vaidyā+cikitsā",
-"quick_gloss": "remedy"
+"surface": "vaidyācikitsā",
+"quick_gloss": "medical-treatment"
 }
 ]
 },
@@ -314,15 +226,11 @@
 "quick_gloss": "goes"
 },
 {
-"surface": "vaidya+cikitsā",
-"quick_gloss": "physician-treatment"
+"surface": "vaidyacikitseyaṃ",
+"quick_gloss": "medical-treatment"
 },
 {
-"surface": "iyaṃ",
-"quick_gloss": "this"
-},
-{
-"surface": "vicikitsā+jvaraṃ",
+"surface": "vicikitsājvaraṃ",
 "quick_gloss": "doubt-fever"
 },
 {
@@ -340,18 +248,6 @@
 "tokens": [
 {
 "surface": "supathyā",
-"quick_gloss": "good-path"
-},
-{
-"surface": "sā",
-"quick_gloss": "she"
-},
-{
-"surface": "asti",
-"quick_gloss": "is"
-},
-{
-"surface": "supathyā",
 "quick_gloss": "wholesome"
 }
 ]
@@ -365,7 +261,7 @@
 "tokens": [
 {
 "surface": "ścitte",
-"quick_gloss": "in-the-mind"
+"quick_gloss": "in-mind"
 },
 {
 "surface": "sthitā",
@@ -373,7 +269,7 @@
 },
 {
 "surface": "yasya",
-"quick_gloss": "of-whom"
+"quick_gloss": "whose"
 },
 {
 "surface": "sadā",
@@ -381,11 +277,7 @@
 },
 {
 "surface": "supathyā",
-"quick_gloss": "good-path"
-},
-{
-"surface": "asti",
-"quick_gloss": "is"
+"quick_gloss": "wholesome"
 }
 ]
 },
@@ -397,20 +289,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "roga+nāśinī",
-"quick_gloss": "disease+destroying"
-},
-{
-"surface": "sā",
-"quick_gloss": "she"
-},
-{
-"surface": "asti",
-"quick_gloss": "is"
-},
-{
-"surface": "roga+nāśinī",
-"quick_gloss": "curer"
+"surface": "roganāśinī",
+"quick_gloss": "disease-destroyer"
 }
 ]
 },
@@ -422,7 +302,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "ayatnāt",
+"surface": "ayatnād",
 "quick_gloss": "without-effort"
 },
 {
@@ -430,16 +310,16 @@
 "quick_gloss": "is-sung"
 },
 {
-"surface": "tasmāt",
+"surface": "tasmād",
 "quick_gloss": "therefore"
 },
 {
 "surface": "īśānī",
-"quick_gloss": "supreme-lady"
+"quick_gloss": "goddess"
 },
 {
-"surface": "roga+nāśinī",
-"quick_gloss": "disease-destroying"
+"surface": "roganāśinī",
+"quick_gloss": "disease-destroyer"
 }
 ]
 },
@@ -452,19 +332,7 @@
 "tokens": [
 {
 "surface": "mṛgayā",
-"quick_gloss": "hunt"
-},
-{
-"surface": "sā",
-"quick_gloss": "she"
-},
-{
-"surface": "asti",
-"quick_gloss": "is"
-},
-{
-"surface": "mṛgayā",
-"quick_gloss": "seeking"
+"quick_gloss": "hunting"
 }
 ]
 },
@@ -485,11 +353,11 @@
 },
 {
 "surface": "mṛgayā",
-"quick_gloss": "hunt"
+"quick_gloss": "hunting"
 },
 {
-"surface": "āgama+jñaiḥ",
-"quick_gloss": "by-scripture-knowers"
+"surface": "mṛgayāgamajñaiḥ",
+"quick_gloss": "by-knowers-of-hunting-tradition"
 }
 ]
 },
@@ -501,20 +369,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "mṛga+māṃsa+adā",
-"quick_gloss": "deer+flesh+eating"
-},
-{
-"surface": "sā",
-"quick_gloss": "she"
-},
-{
-"surface": "asti",
-"quick_gloss": "is"
-},
-{
-"surface": "mṛga+māṃsa+adā",
-"quick_gloss": "consumer"
+"surface": "mṛgamāṃsādā",
+"quick_gloss": "deer-flesh-giver"
 }
 ]
 },
@@ -527,23 +383,19 @@
 "tokens": [
 {
 "surface": "bhūtā",
-"quick_gloss": "became"
+"quick_gloss": "beings"
 },
 {
-"surface": "yat",
-"quick_gloss": "because"
+"surface": "yan",
+"quick_gloss": "which"
 },
 {
-"surface": "mṛga+māṃsa+adā",
-"quick_gloss": "deer-flesh-eating"
+"surface": "mṛgamāṃsādā",
+"quick_gloss": "deer-flesh-giver"
 },
 {
-"surface": "sva+vāha+hari+saṅgataḥ",
-"quick_gloss": "with-her-own-mount-lion"
-},
-{
-"surface": "sā",
-"quick_gloss": "she"
+"surface": "svavāhaharisaṅgataḥ",
+"quick_gloss": "with-own-vehicle-hari-joined"
 }
 ]
 },
@@ -555,20 +407,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "mṛga+tvak",
-"quick_gloss": "deer+skin"
-},
-{
-"surface": "sā",
-"quick_gloss": "she"
-},
-{
-"surface": "asti",
-"quick_gloss": "is"
-},
-{
-"surface": "mṛga+tvak",
-"quick_gloss": "hide"
+"surface": "mṛgatvak",
+"quick_gloss": "deer-skin"
 }
 ]
 },
@@ -580,20 +420,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "mṛga+tvak",
+"surface": "mṛgatvageṣā",
 "quick_gloss": "deer-skin"
 },
 {
 "surface": "eṣā",
-"quick_gloss": "this-one"
+"quick_gloss": "this"
 },
 {
 "surface": "kathitā",
-"quick_gloss": "declared"
+"quick_gloss": "said"
 },
 {
-"surface": "kathā+jñaiḥ",
-"quick_gloss": "by-story-knowers"
+"surface": "kathājñaiḥ",
+"quick_gloss": "by-knowers-of-stories"
 }
 ]
 },
@@ -605,20 +445,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "mṛga+locanā",
-"quick_gloss": "deer+eyed"
-},
-{
-"surface": "sā",
-"quick_gloss": "she"
-},
-{
-"surface": "asti",
-"quick_gloss": "is"
-},
-{
-"surface": "mṛga+locanā",
-"quick_gloss": "doe-eyed"
+"surface": "mṛgalocanā",
+"quick_gloss": "deer-eyed"
 }
 ]
 },
@@ -630,23 +458,27 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "āgāt",
-"quick_gloss": "went"
+"surface": "āgād",
+"quick_gloss": "came"
 },
 {
 "surface": "bandhanam",
-"quick_gloss": "to-bondage"
+"quick_gloss": "bondage"
 },
 {
-"surface": "īśāna+mṛgaḥ",
-"quick_gloss": "lord-deer"
+"surface": "īśānam",
+"quick_gloss": "of-īśāna"
+},
+{
+"surface": "mṛgaḥ",
+"quick_gloss": "deer"
 },
 {
 "surface": "sā",
 "quick_gloss": "she"
 },
 {
-"surface": "mṛga+locanā",
+"surface": "mṛgalocanā",
 "quick_gloss": "deer-eyed"
 }
 ]
@@ -661,18 +493,6 @@
 {
 "surface": "vāgurā",
 "quick_gloss": "snare"
-},
-{
-"surface": "vāgurā",
-"quick_gloss": "net"
-},
-{
-"surface": "vāgurā",
-"quick_gloss": "trap"
-},
-{
-"surface": "vāgurā",
-"quick_gloss": "she"
 }
 ]
 }

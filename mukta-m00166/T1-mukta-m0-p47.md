@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p47-v1151
-[camphor](karpūra) [fragrance](āmoda) [breath](niḥśvāsā)
+[camphor](karpūra) [fragrance](āmoda) [out](niḥ) [breath](śvāsā)
 
 ## mukta-m0-p47-v1152
-[camphor](karpūra) [fragrance](āmoda) [breath](niḥśvāsā) [she](sā) [this](iyam) [by-breathing](śvasana) [worshipped](pūjitā)
+[camphor](karpūra) [fragrance](āmoda) [out](niḥ) [breath](śvāsā) [she](sā) [this](iyam) [breath](śvasana) [worshipped](pūjitā)
 
 ## mukta-m0-p47-v1153
 [lotus-woman](padminī)
 
 ## mukta-m0-p47-v1154
-[wishing-to-see](saṃdidṛkṣuḥ) [as-if](iva) [slowly](manda) [slowly](manda) [going](gaḥ) [lotus-woman](padminī) [thus](iti) [spoken](gaditā) [by-the-wise](budhaiḥ) [this](iyam)
+[desiring-to-see](saṃdidṛkṣuḥ) [slowly](mandamandam) [going](gaḥ) [lotus-woman](padminī) [thus](iti) [called](gaditā) [wise-ones](budhaiḥ) [this](iyam)
 
 ## mukta-m0-p47-v1155
-[lotus](padma) [abode](mandirā)
+[lotus-temple](padmamandirā)
 
 ## mukta-m0-p47-v1156
-[truth](tattva) [knower](vaimi) [indeed](kila) [lotus](padma) [abode](mandirā) [sight](dṛṣṭi) [sight](dṛṣṭi) [born](janitā) [distinction](vibhaktatā)
+[truth](tattva) [I-know](vaimi) [indeed](kila) [lotus-temple](padmamandirāt) [sight](dṛṣṭi) [sight-born](dṛṣṭijanitā) [distinction](vibhaktatā)
 
 ## mukta-m0-p47-v1157
-[sword-wielder](khaḍginī)
+[sword-woman](khaḍginī)
 
 ## mukta-m0-p47-v1158
-[fled](palāyitāḥ) [they](te) [even](api) [by-fear](bhiyā) [as-if](iva) [death](mṛtyum) [she](sā) [sword-wielder](khaḍginī) [thus](iti) [renowned](prathitā) [in-three-worlds](trilokyām)
+[fled](palāyitāḥ) [they](te) [api](api) [fear](bhiyā) [eva](eva) [death](mṛtyum) [she](sā) [sword-woman](khaḍginī) [thus](iti) [famous](prathitā) [three-worlds](trilokyām)
 
 ## mukta-m0-p47-v1159
-[discus](cakra) [handed](hastā)
+[discus-handed](cakrahastā)
 
 ## mukta-m0-p47-v1160
-[not](na) [would-be](syāt) [pleased](prasannā) [if](yadi) [discus](cakra) [handed](hastā)
+[not](na) [would-be](syāt) [pleased](prasannā) [if](yadi) [discus-handed](cakrahastā)
 
 ## mukta-m0-p47-v1161
-[mace-wielder](bhusuṇḍī)
+[club](bhusuṇḍī)
 
 ## mukta-m0-p47-v1162
-[consciousness](cit) [weapon](bhuṇḍim) [this](eṣā) [to-givers](dadatām) [mace-wielder](bhusuṇḍī)
+[consciousness](cit) [club](bhuṇḍi) [this](imeṣā) [giving](dadatām) [club](bhusuṇḍī)
 
 ## mukta-m0-p47-v1163
-[iron-bar](parigha) [weaponed](āyudhā)
+[bar-weapon](parighāyudhā)
 
 ## mukta-m0-p47-v1164
-[delusion](vimoha) [bar](parigham) [she](sā) [this](iyam) [called](kīrtitā) [iron-bar](parigha) [weaponed](āyudhā)
+[delusion-bar](vimohaparigham) [she](seyam) [called](kīrtitā) [bar-weapon](parighāyudhā)
 
 ## mukta-m0-p47-v1165
-[bow-wielder](cāpinī)
+[bow-woman](cāpinī)
 
 ## mukta-m0-p47-v1166
-[compassion](kṛpā) [maker](karī) [delusion](moha) [made](kṛtam) [destroy](vilumpa)
+[compassion-doer](kṛpākarī) [delusion-made](mohakṛtam) [destroy](vilumpa)
 
 ## mukta-m0-p47-v1167
-[noose](pāśa) [handed](hastā)
+[noose-handed](pāśahastā)
 
 ## mukta-m0-p47-v1168
-[compassion](dayām) [whose](yadīyām) [having-obtained](parilabhya) [may-give](deyāt) [she](sā) [noose](pāśa) [handed](hastā) [worldly-bondage](bhava) [noose](pāśa) [destruction](nāśam)
+[compassion](dayām) [whose](yadīyām) [having-obtained](parilabhya) [would-give](deyāt) [she](sā) [noose-handed](pāśahastā) [worldly-bond-destruction](bhavapāśanāśam)
 
 ## mukta-m0-p47-v1169
-[trident](triśūla) [boon](vara) [holder](dhāriṇī)
+[trident-boon-holder](triśūlavaradhāriṇī)
 
 ## mukta-m0-p47-v1170
-[prosperity](śrī) [maker](kāriṇī) [of-people](janasya) [may-be](astu) [trident](triśūla) [boon](vara) [holder](dhāriṇī)
+[prosperity-doer](śrīkāriṇī) [people](janasya) [astu](astu) [trident-boon-holder](triśūlavaradhāriṇī)
 
 ## mukta-m0-p47-v1171
-[good-arrowed](subāṇā)
+[good-arrow](subāṇā)
 
 ## mukta-m0-p47-v1172
-[by-that](tena) [innumerable](asaṃkhyī) [become](bhūta) [form](rūpeṇa) [demons](daityān) [for-gods](deva) [pleasure](prītyai) [she](sā) [good-arrowed](subāṇā) [thus](iti) [sung](gītā)
+[by-that](tena) [innumerable-formed](asaṃkhyībhūtarūpeṇa) [demons](daityān) [for-gods-pleasure](devaprītyai) [she](sā) [good-arrow](subāṇā) [iti](iti) [sung](gītā)
 
 ## mukta-m0-p47-v1173
-[power](śakti) [handed](hastā)
+[spear-handed](śaktihastā)
 
 ## mukta-m0-p47-v1174
-[for-welfare](śivāya) [may-be](astu) [power](śaktiḥ) [auspicious](śivā) [power](śakti) [handed](hastā)
+[auspicious](śivāya) [astu](astu) [spear](śaktiḥ) [auspicious](śivā) [spear-handed](śaktihastā)
 
 ## mukta-m0-p47-v1175
-[peacock](mayūra) [excellent](vara) [vehicle](vāhanā)
+[peacock-excellent-vehicle](mayūravaravāhanā)

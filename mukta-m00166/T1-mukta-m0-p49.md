@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p49-v1201
-pregnant-within(antarvatnī)
+[antarvatnī](antarvatnī)
 
 ## mukta-m0-p49-v1202
-by-reflection(vimarśanena) in-the-self(ātmani) consisting-of-consciousness(cinmaye) pregnant-within(antarvatnī) auspicious-one(śivā) this(iyam) by-the-wise(matimadbhiḥ) to-be-praised(īḍyā)
+[vimarśanena](vimarśanenātmani) [ātmani](vimarśanenātmani) [cinmaye](cinmaye'ntarvatnī) [antarvatnī](cinmaye'ntarvatnī) [śive](śiveyaṃ) [iyam](śiveyaṃ) [matimadbhiḥ](matimadbhirīḍyā) [īḍyā](matimadbhirīḍyā)
 
 ## mukta-m0-p49-v1203
-veda-power(vedaśaktiḥ)
+[vedaśaktiḥ](vedaśaktiḥ)
 
 ## mukta-m0-p49-v1204
-knowable(vedyā) not(na) or(vā) she(sā) may-protect(avatu) veda-power(vedaśaktiḥ)
+[vedyā](vedyā) [na](na) [vā](vā) [sā](sāvatu) [avatu](sāvatu) [vedaśaktiḥ](vedaśaktiḥ)
 
 ## mukta-m0-p49-v1205
-boon-giver(varadā)
+[varadā](varadā)
 
 ## mukta-m0-p49-v1206
-boon-giver(varadā) indeed(tu) this(iyam) alone(eva) always(sadā) renowned(prathitā) two-feet(caraṇau) as-refuge(śaraṇau) may-resort(śrayatām) with-compassion(dayayā)
+[varadā](varadā) [tu](tviyameva) [iyam](tviyameva) [eva](tviyameva) [sadā](sadā) [prathitā](prathitā) [caraṇau](caraṇau) [śaraṇau](śaraṇau) [śrayatām](śrayatāṃ) [dayayā](dayayā)
 
 ## mukta-m0-p49-v1207
-boon-holder(varadhāriṇī)
+[varadhāriṇī](varadhāriṇī)
 
 ## mukta-m0-p49-v1208
-are-praised(saṃkīrtyase) you(tvam) as-boon-holder(varadhāriṇī) thus(iti)
+[saṃkīrtyase](saṃkīrtyase) [tvam](tvaṃ) [varadhāriṇī](varadhāriṇī) [iti](iti)
 
 ## mukta-m0-p49-v1209
-cool-one(śītalā)
+[śītalā](śītalā)
 
 ## mukta-m0-p49-v1210
-anger-heat-destroyer(krodha+uṣma+hantrī) own-knowledge-creator(nija+bodha+kartrī)
+[krodha](krodhoṣmahantrī) [uṣma](krodhoṣmahantrī) [hantrī](krodhoṣmahantrī) [nija](nijabodhakartrī) [bodha](nijabodhakartrī) [kartrī](nijabodhakartrī)
 
 ## mukta-m0-p49-v1211
-good-natured(suśīlā)
+[suśīlā](suśīlā)
 
 ## mukta-m0-p49-v1212
-may-protect(avyāt) good-natured(suśīlā) by-own-play(nija+līlayā) this-one(enam)
+[sā](sāvyāt) [avyāt](sāvyāt) [suśīlā](suśīlā) [nija](nijalīlayainam) [līlayā](nijalīlayainam) [enam](nijalīlayainam)
 
 ## mukta-m0-p49-v1213
-child-demon-destroyer(bāla+graha+vināśinī)
+[bālagraha](bālagrahavināśinī) [vināśinī](bālagrahavināśinī)
 
 ## mukta-m0-p49-v1214
-yogins(yoginaḥ) even(api) therefore(tataḥ) I-know(jāne) to-obtain(labdhum) desire(vāñchanti) childhood(śaiśavam)
+[yoginaḥ](yogino'pi) [api](yogino'pi) [tataḥ](tato) [jāne](jāne) [labdhum](labdhuṃ) [vāñchanti](vāñchanti) [śaiśavam](śaiśavam)
 
 ## mukta-m0-p49-v1215
-maiden(kumārī)
+[kumārī](kumārī)
 
 ## mukta-m0-p49-v1216
-goddess(devī) sung(gītā) she(sā) maiden(kumārī) ancient(purāṇā)
+[devī](devī) [gītā](gītā) [sā](sā) [kumārī](kumārī) [purāṇā](purāṇā)
 
 ## mukta-m0-p49-v1217
-of-good-festivals(suparvā)
+[suparvā](suparvā)
 
 ## mukta-m0-p49-v1218
-in-giving-etc-acts(dāna+ādi+kṛtyeṣu) of-very-auspicious-form(supuṇya+rūpā) renowned(khyātā) of-good-festivals(suparvā) may-be(astu) for-happiness(sukhāya) complete(sārvā)
+[dāna](dānādikṛtyeṣu) [ādi](dānādikṛtyeṣu) [kṛtyeṣu](dānādikṛtyeṣu) [supuṇya](supuṇyarūpā) [rūpā](supuṇyarūpā) [khyātā](khyātā) [suparvā](suparvā) [astu](astu) [sukhāya](sukhāya) [sārvā](sārvā)
 
 ## mukta-m0-p49-v1219
-Kāmākhyā(kāmākhyā)
+[kāmākhyā](kāmākhyā)
 
 ## mukta-m0-p49-v1220
-Kāmākhyā(kāmākhyā) this(iyam) some(kāpi) by-desireless-action(niṣkāma+karma) to-be-known(jñeyā) may-protect(pāyāt) goddess(devatā) me(mām) may-protect(apāyāt)
+[kāmākhyā](kāmākhyeyaṃ) [iyam](kāmākhyeyaṃ) [kāpi](kāpi) [niṣkāma](niṣkāmakarmajñeyā) [karma](niṣkāmakarmajñeyā) [jñeyā](niṣkāmakarmajñeyā) [pāyāt](pāyāddevatā) [devatā](pāyāddevatā) [mām](māmapāyāt) [apāyāt](māmapāyāt)
 
 ## mukta-m0-p49-v1221
-worshipped-by-Kāma(kāmavanditā)
+[kāmavanditā](kāmavanditā)
 
 ## mukta-m0-p49-v1222
-knowing(viti) having-thought(matvā) indeed(kila) worshipped-by-Kāma(kāmavanditā) you(tvam)
+[viti](viti) [matvā](matvā) [kila](kila) [kāmavanditā](kāmavanditā) [tvam](tvam)
 
 ## mukta-m0-p49-v1223
-bearer-of-Jālandhara(jālandhara+dharā) she(sā) alone(eva) only(kevalā) goddess-of-gods(deva+devatā)
+[jālandharadharā](jālandharadharā)
 
 ## mukta-m0-p49-v1224
-bearer-of-Jālandhara(jālandhara+dharā) she(sā) alone(eva) only(kevalā) goddess-of-gods(deva+devatā)
+[jālandharadharā](jālandharadharā) [sā](saiva) [eva](saiva) [kevalā](kevalā) [devadevatā](devadevatā)
 
 ## mukta-m0-p49-v1225
-endless-one(anantā)
+[anantā](anantā)
