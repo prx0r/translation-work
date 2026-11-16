@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p43-v1051
-śiva-form [śivamū?] śakti-form [śaktimūrtiṃ] nāda-self [nādātmā] bindu-form [bindumūrtikaḥ]
+[śiva+form](śivamūr) [śakti+form](śśaktimūrtiṃ) [nāda+nature](nādātmā) [bindu+form](bindumūrtikaḥ)
 
 ## mukta-m0-p43-v1052
-mortals [martayo] ninefold [navadhā] declared [proktāḥ] śaktis [śaktīrapi] then [tataḥ] hear [śṛṇu]
+[forms](martayo) [ninefold](navadhā) [declared](proktāḥ) [śaktis](śaktīrapi) [then](tataḥ) [hear](śṛṇu)
 
 ## mukta-m0-p43-v1053
-knowledge-śakti [jñānaśaktiḥ] victory-śakti [jayāśakti] yoga-bliss-named-śakti [yogānandākhyaśaktikāḥ]
+[knowledge+power](jñānaśaktir) [victory+power](jayāśakti) [yoga+bliss+named+powers](yogānandākhyaśaktikāḥ)
 
 ## mukta-m0-p43-v1054
-name-etc [nāmādi] divisions [bhedāḥ] declared [saṃproktāḥ] door-varṇa-order [dvāravarṇakramaṃ] hear [śṛṇu]
+[name+etc.](nāmādi) [distinctions](bhedās) [declared](saṃproktā) [door+color+sequence](dvāravarṇakramaṃ) [hear](śṛṇu)
 
 ## mukta-m0-p43-v1055
-east-door [pūrvadvāraṃ] auspicious [praśastaṃ] tu [tu] brāhmaṇas [brāhmaṇānāṃ] maheśvara [maheśvara]
+[eastern+door](pūrvadvāraṃ) [excellent](praśastaṃ) [indeed](tu) [for-brāhmaṇas](brāhmaṇānāṃ) [O-Maheśvara](maheśvara)
 
 ## mukta-m0-p43-v1056
-śūdras [śūdrāṇāṃ] west-door [paścimadvāraṃ] special [viśeṣaṃ] tu [tu] maheśvara [maheśvara]
+[for-śūdras](śūdrāṇāṃ) [western+door](paścimadvāraṃ) [special-rule](viśeṣaṃ) [indeed](tu) [O-Maheśvara](maheśvara)
 
 ## mukta-m0-p43-v1057
-five-brahma-six-aṅgas [pañcabrahmaṣaḍaṅgaiḥ] ca [ca] as-before [pūrvavat] nyāsa [nyāsam] perform [ācaret]
+[with-five-brahmas](pañcabrahma) [with-six-limbs](ṣaḍaṅgaiś) [and](ca) [as-before](pūrvavat) [placement](nyāsam) [one-should-perform](ācaret)
 
 ## mukta-m0-p43-v1058
-root-mantra [mūlamantraṃ] once [sakṛt] japa [japtvā] disciple-head [śiṣyamūrdhni] behold [nirīkṣayet]
+[root-mantra](mūlamantraṃ) [once](sakṛj) [having-muttered](japtvā) [on-disciple's-head](śiṣyamūrdhni) [one-should-gaze](nirīkṣayet)
 
 ## mukta-m0-p43-v1059
-proclaiming [saṃśrāvya] covenant [samayaṃ] properly [samyak] god-of-gods [devadevasya] before [cāgrataḥ]
+[having-made-hear](saṃśrāvya) [vow](samayaṃ) [properly](samyak) [of-God-of-gods](devadevasya) [in-presence](cāgrataḥ)
 
 ## mukta-m0-p43-v1060
-ācārya [ācārya] elder-liṅgas [jyeṣṭhaliṅgānāṃ] shadow [chāyām] api [api] not-cross [na laṅghayet]
+[of-teacher](ācārya) [of-elder-liṅga](jyeṣṭhaliṅgānāṃ) [shadow](chāyām) [even](api) [not](na) [one-should-step-over](laṅghayet)
 
 ## mukta-m0-p43-v1061
-nirmālya [nirmālyaṃ] tu [tu] not-eat [na bhuñjīta] ash-with-food [bhasmayuktānna] not-blame [nindayet]
+[remnants](nirmālyaṃ) [indeed](tu) [not](na) [one-should-eat](bhuñjīta) [with-ashes+mixed](bhasmayuktān) [not](na) [one-should-despise](nindayet)
 
 ## mukta-m0-p43-v1062
-thus [evaṃ] gather [saṅgrāhya] covenants [samayān] afterwards [paścāt] homa [homa] perform [samācaret]
+[thus](evaṃ) [having-received](saṅgrāhya) [vows](samayān) [afterwards](paścād) [oblation](dhoma) [one-should-perform](samācaret)
 
 ## mukta-m0-p43-v1063
-sound-restraint [śabdasaṃrodhana] place [sthānaṃ] ear-sense [karṇendriyam] iti [iti] remembered [smṛtam]
+[sound+restraining](śabdasaṃrodhana) [place](sthānaṃ) [ear+sense](karṇendriyam) [thus](iti) [remembered](smṛtam)
 
 ## mukta-m0-p43-v1064
-water? [nīra***] ear [karṇaṃ] tu [tu] eye [cakṣu] prāṇa [prāṇe] good-tongue [sujihvake]
+[?](nīra***(?)) [ear](karṇaṃ) [indeed](tu) [eye](cakṣu) [in-nose](prāṇe) [and-tongue](sujihvake)
 
 ## mukta-m0-p43-v1065
-covenant-sense [samayendriyam] ahaṃkāra [ahaṃkāra] sense-organ [nalendriyam]
+[by-vow+sense+measure](samayendriyamānena) [by-ego](ahaṃkārena) [sense](lendriyam)
 
 ## mukta-m0-p43-v1066
-five-seed [pañcabīja] placing [karaṃ nyastvā] east-sense [pūrvendriya] set [nyaset] in-order [kramāt]
+[five-seed+hand](pañcabījakaraṃ) [having-placed](nyastvā) [previous+sense](pūrvendriya) [one-should-place](nyaset) [in-order](kramāt)
 
 ## mukta-m0-p43-v1067
-thus [evaṃ] restraining [nirudhya] duly [vidhivat] draw [karṣayet] śiva-śaktis [śivaśaktibhiḥ]
+[thus](evaṃ) [having-restrained](nirudhya) [according-to-rule](vidhivat) [one-should-draw](karṣayec) [with-śiva+śaktis](chivaśaktibhiḥ)
 
 ## mukta-m0-p43-v1068
-nectar [sudhayā] flood [plāvayet] there [tatra] vāruṇī [vāruṇyena] śiva [śivena] ca [ca]
+[with-nectar](sudhayā) [one-should-flood](plāvayet) [there](tatra) [with-vāruṇī](vāruṇyena) [with-śiva](śivena) [and](ca)
 
 ## mukta-m0-p43-v1069
-sun-maṇḍala-like [sūryamaṇḍalasaṅkāśaṃ] middle-seed [madhyabījaṃ] established [pratiṣṭhitam]
+[sun+orb+resembling](sūryamaṇḍalasaṅkāśaṃ) [middle+seed](madhyabījaṃ) [established](pratiṣṭhitam)
 
 ## mukta-m0-p43-v1070
-śiva-tattva [śivatatvam] iti [iti] known [prakhyaṃ] mantra-rāja [mantrarājānam] imperishable [avyayam]
+[śiva+principle](śivatatvam) [thus](iti) [renowned](prakhyaṃ) [mantra+king](mantrarājānam) [imperishable](avyayam)
 
 ## mukta-m0-p43-v1071
-before [pūrvam] thus [evaṃ] with-kumbha [sakumbhitvāt] afterwards [paścāt] disciple [śiṣye] appoint [niyojayet]
+[previously](pūrvam) [thus](evaṃ) [having-filled](sakumbhitvāt) [afterwards](paścāc) [in-disciple](chiṣye) [one-should-place](niyojayet)
 
 ## mukta-m0-p43-v1072
-indranīla-gem-like [indranīlamaṇiprakhyaṃ] twenty-five-self-form [pañcaviṃśātmarūpakam]
+[indranīla+gem+resembling](indranīlamaṇiprakhyaṃ) [twenty-five+self+nature](pañcaviṃśātmarūpakam)
 
 ## mukta-m0-p43-v1073
-beginning-end void [ādyanta śūnyam] middle-seated [madhyasthaṃ] bliss-nectar-self [ānandamamṛtātmakam]
+[beginning+end+void+middle-situated](ādyantaśūnyamadhyasthaṃ) [bliss](ānandam) [immortal+nature](amṛtātmakam)
 
 ## mukta-m0-p43-v1074
-supreme-substance [paravastu] own-form [svarūpaṃ] ca [ca] supreme-bliss-form [paramānandarūpiṇam]
+[supreme+reality](paravastu) [own-form](svarūpaṃ) [and](ca) [supreme+bliss+form](paramānandarūpiṇam)
 
 ## mukta-m0-p43-v1075
-eighth-etc [aṣṭamādyā] ma [mamadhvaṃ] syāt [syāt] mudga [mudgasya] established [pratiṣṭhitam]
+[eighth+beginning](aṣṭamādyā) [my+path](mamadhvaṃ) [should-be](syāt) [of-mudga](mudgasya) [established](pratiṣṭhitam)
