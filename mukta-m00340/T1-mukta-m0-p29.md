@@ -5,7 +5,7 @@
 [having-risen](samutthāya) [then](tatas) [with-those-two](tābhyāṃ) [fought](yuyudhe) [lord](bhagavān) [Hari](hariḥ)
 
 ## mukta-m0-p29-v702
-[they-two](tau) [also](api) [with-excessive-strength+intoxicated](atibala+unmattau) [by-great-illusion+deluded](mahāmāyā+vimohitau)
+[they-two](tau) [also](api) [exceedingly-strength+intoxicated](atibala+unmattau) [great-illusion+deluded](mahāmāyā+vimohitau)
 
 ## mukta-m0-p29-v703
 [said](uktavantau) [boon](varaḥ) [by-us](asmāt) [let-be-chosen](vriyatām) [thus](iti) [to-Keśava](keśavam)
@@ -14,16 +14,16 @@
 [the-lord](bhagavān) [said](uvāca)
 
 ## mukta-m0-p29-v705
-[may-you-two-become](bhavetām) [today](adya) [with-me](me) [pleased](tuṣṭau) [my](mama) [to-be-slain](vadhyau) [both](ubhau) [also](api)
+[may-become](bhavetām) [today](adya) [of-me](me) [pleased](tuṣṭau) [of-me](mama) [to-be-slain](vadhyau) [both](ubhau) [also](api)
 
 ## mukta-m0-p29-v706
-[what](kim) [with-another](anyena) [by-boon](vareṇa) [here](atra) [this-much](etāvat) [indeed](hi) [chosen](vṛtaṃ) [by-me](mama)
+[what](kim) [with-another](anyena) [by-boon](vareṇa) [here](atra) [this-much](etāvat) [indeed](hi) [chosen](vṛtaṃ) [of-me](mama)
 
 ## mukta-m0-p29-v707
 [the-seer](ṛṣiḥ) [said](uvāca)
 
 ## mukta-m0-p29-v708
-[deceived](vañcitābhyām) [thus](iti) [then](tadā) [all](sarvam) [made-of-māṣa-beans](āṣomayaṃ) [world](jagat)
+[deceived](vañcitābhyām) [thus](iti) [then](tadā) [all](sarvam) [bean+made-of](āṣa+omayaṃ) [world](jagat)
 
 ## mukta-m0-p29-v709
 [us-two](āvāṃ) [slay](jahi) [not](na) [where](yatra) [earth](urvī) [by-water](salilena) [flooded](paripulutā)
@@ -35,37 +35,37 @@
 [having-made](kṛtvā) [with-discus](cakreṇa) [cut-off](vaicchinne) [on-thigh](jaghane) [on-head](śirasi) [of-those-two](tayoḥ)
 
 ## mukta-m0-p29-v712
-[power](prabhāvam) [of-this](asyāḥ) [of-goddess](devyāḥ) [indeed](tu) [again](bhūyaḥ) [hear](śṛṇu) [I-tell](vadāmi) [to-you](te) [aiṃ](aiṃ) [oṃ](oṃ)
+[power](prabhāvam) [of-this](asyāḥ) [of-goddess](devyāḥ) [but](tu) [again](bhūyaḥ) [hear](śṛṇu) [I-tell](vadāmi) [to-you](te) [aiṃ](aiṃ) [oṃ](oṃ)
 
 ## mukta-m0-p29-v713
-[slaying-of-Madhu-and-Kaiṭabha](madhukaiṭabha+vadhaḥ) [first-chapter](prathamaḥ+adhyāyaḥ) [1](|| 1 ||) [said](uvāca) [14](14) [half-verses](ardha) [24](24) [verses](śloka) [66](66) [||](||)
+[Madhu-Kaiṭabha+slaying](madhukaiṭabha+vadhaḥ) [first+chapter](prathama+adhyāyaḥ) [1](|| 1 ||) [said](uvāca) [14](14) [half-verses](ardha) [24](24) [verses](śloka) [66](66) [||](||)
 
 ## mukta-m0-p29-v714
-[for-liberation](mokṣa+arthe) [in-recitation](pāṭhe) [in-offering](havane) [application](viniyogaḥ)
+[for-liberation+purpose](mokṣa+arthe) [in-recitation](pāṭhe) [in-oblation](havane) [application](viniyogaḥ)
 
 ## mukta-m0-p29-v715
-[to-Mahālakṣmī](mahālakṣmīṃ) [born-from-gods'+splendor](sura+ojaḥ+udbhavām)
+[to-Mahālakṣmī](mahālakṣmīṃ) [from-gods'+splendor+born](sura+ojaḥ+udbhavām)
 
 ## mukta-m0-p29-v716
 [oṃ](oṃ) [hrīṃ](hrīṃ) [the-seer](ṛṣiḥ) [said](uvāca)
 
 ## mukta-m0-p29-v717
-[when-Mahiṣa](mahiṣe) [of-demons+lord](asurāṇām+adhipe) [and-of-gods](devānāṃ) [and-Indra](ca) [purandare](purandare)
+[when-Mahiṣa](mahiṣe) [of-demons](asurāṇām) [in-lord](adhipe) [and](ca) [of-gods](devānāṃ) [in-Indra](purandare)
 
 ## mukta-m0-p29-v718
 [having-conquered](jitvā) [and](ca) [all](sakalān) [gods](devān) [Indra](indraḥ) [became](abhūt) [Mahiṣa-demon](mahiṣa+asuraḥ)
 
 ## mukta-m0-p29-v719
-[placing-in-front](puraskṛtya) [gone](gatāḥ) [then](tatra) [where](yatra) [Īśa-and-Garuḍa-bannered](īśa+garuḍa+dhvajau)
+[placing-in-front](puraskṛtya) [went](gatāḥ) [then](tatra) [where](yatra) [Īśa-and-Garuḍa-bannered](īśa+garuḍa+dhvajau)
 
 ## mukta-m0-p29-v720
-[the-thirty-gods](tridaśāḥ) [told](kathayāmāsuḥ) [of-gods'+defeat+detailed-account](deva+abhibhava+vistaram)
+[the-thirty-gods](tridaśāḥ) [told](kathayāmāsuḥ) [of-gods+defeat+account](deva+abhibhava+vistaram)
 
 ## mukta-m0-p29-v721
-[of-others](anyeṣāṃ) [and](ca) [authorities](adhikārān) [he](saḥ) [himself](svayam) [indeed](eva) [assumes](adhitiṣṭhati)
+[of-others](anyeṣām) [and](ca) [authorities](adhikārān) [he](saḥ) [himself](svayam) [indeed](eva) [assumes](adhitiṣṭhati)
 
 ## mukta-m0-p29-v722
-[wander](vicaranti) [as](yathā) [mortals](martyāḥ) [by-Mahiṣa](mahiṣeṇa) [evil-souled](durātmanā)
+[wander](vicaranti) [as](yathā) [mortals](martyāḥ) [by-Mahiṣa](mahiṣeṇa) [by-evil-souled](durātmanā)
 
 ## mukta-m0-p29-v723
 [refuge](śaraṇaṃ) [of-you](vaḥ) [approached](prapannāḥ) [we-are](smaḥ) [slaying](badhaḥ) [of-him](tasya) [let-be-considered](vicintyatām)

@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p03-v51
-[presence](sānnidhyam) [do](kuru) [to-me](me) [o-god](deva) [gracious](prasanna)+[become](bhava) [always](sarvadā)
+[proximity](sānnidhyaṃ) [make](kuru) [for-me](me) [o-god](deva) [!](!) [be-pleased](prasannaḥ) [be](bhava) [always](sarvadā)
 
 ## mukta-m0-p03-v52
-[moonlike](candrām) [golden](hiraṇmayīm) [fortune](lakṣmīm) [o-jātavedas](jātavedo) [to-me](ma) [bring](āvaha) [on-head](śirasi)
+[brilliant](candrāṃ) [golden](hiraṇmayīṃ) [fortune](lakṣmīṃ) [o-jātavedas](jātavedo) [to-me](ma) [bring](āvaha) [||](||) [1](1) [||](||) [on-head](śirasi) [||](||)
 
 ## mukta-m0-p03-v53
-[in-whom](yasyām) [gold](hiraṇyam) [may-i-obtain](vindeyam) [cow](gām) [horse](aśvam) [men](puruṣān) [i](aham) [in-eyes](netrayoḥ)
+[in-whom](yasyāṃ) [gold](hiraṇyaṃ) [may-I-obtain](vindeyaṃ) [cattle](gām) [horses](aśvaṃ) [men](puruṣān) [I](aham) [||](||) [2](2) [||](||) [on-eyes](netrayoḥ) [||](||)
 
 ## mukta-m0-p03-v54
-[fortune](śriyam) [goddess](devīm) [i-invoke](mupahvaye) [fortune](śrīḥ) [goddess](mādevī) [may-enjoy](juṣatām) [in-ears](karṇayoḥ)
+[fortune](śriyaṃ) [goddess](devīm) [I-invoke](upahvaye) [fortune](śrīḥ) [me](mā) [goddess](devī) [may-favor](juṣatām) [||](||) [3](3) [||](||) [on-ears](karṇayoḥ) [||](||)
 
 ## mukta-m0-p03-v55
-[on-lotus](padme) [seated](sthitām) [lotus](padma) [lotus-hued](arṇām) [her-here](tāmiha) [i-invoke](pahvaye) [fortune](śriyam) [in-nostrils](ghrāṇayoḥ)
+[in-lotus](padme) [seated](sthitāṃ) [lotus](padma) [colored](arṇāṃ) [her](tām) [here](iha) [I-invoke](upahvaye) [fortune](śriyam) [||](||) [4](4) [||](||) [on-nostrils](ghrāṇayoḥ) [||](||)
 
 ## mukta-m0-p03-v56
-[misfortune](a'lakṣmīḥ) [may-perish](menaśyatām) [you](tvām) [i-choose](vṛṇe) [in-mouth](mukhe)
+[misfortune](a'lakṣmīḥ) [of-me](me) [may-perish](naśyatāṃ) [you](tvāṃ) [I-choose](vṛṇe) [||](||) [5](5) [||](||) [on-mouth](mukhe) [||](||)
 
 ## mukta-m0-p03-v57
-[manifested](prādurbhūtaḥ) [i-am](smi) [in-this-kingdom](rāṣṭre+asmin) [fame](kīrtim) [prosperity](ṛddham) [may-give](dadātu) [to-me](me) [in-hands](karayoḥ)
+[manifested](prādurbhūto) [I-am](smi) [in-kingdom](rāṣṭre) [in-this](asmin) [fame](kīrtim) [prosperity](ṛddhaṃ) [may-give](dadātu) [to-me](me) [||](||) [7](7) [||](||) [on-hands](karayoḥ) [||](||)
 
 ## mukta-m0-p03-v58
-[non-prosperity](abhūtim) [misfortune](asamṛddhim) [and](ca) [all](sarvām) [drive-out](nirṇuda) [from-me](me) [from-house](gṛhāt) [in-heart](hṛdi)
+[misfortune](abhūtim) [non-prosperity](asamṛddhiṃ) [and](ca) [all](sarvāṃ) [drive-out](nirṇuda) [of-me](me) [from-house](gṛhāt) [||](||) [8](8) [||](||) [on-heart](hṛdi) [||](||)
 
 ## mukta-m0-p03-v59
-[goddess](īśvarīm) [of-all-beings](sarva+bhūtānām) [her-here](tām+iha) [i-invoke](upahvaye) [fortune](śriyam) [in-navel](nābhau)
+[sovereign](īśvarīṃ) [of-all](sarva) [beings](bhūtānāṃ) [her](tām) [here](iha) [I-invoke](upahvaye) [fortune](śriyam) [||](||) [9](9) [||](||) [on-navel](nābhau) [||](||)
 
 ## mukta-m0-p03-v60
-[of-cattle](paśūnām) [form](rūpam) [of-food](annasya) [in-me](mayi) [fortune](śrīḥ) [may-dwell](śrayatām) [fame](yaśaḥ) [in-linga](liṅge)
+[of-cattle](paśūnāṃ) [form](rūpam) [of-food](annasya) [in-me](mayi) [fortune](śrīḥ) [may-resort](śrayatāṃ) [glory](yaśaḥ) [||](||) [10](10) [||](||) [on-genitals](liṅge) [||](||)
 
 ## mukta-m0-p03-v61
-[fortune](śriyam) [cause-to-dwell](vāsaya) [in-my](me) [family](kule) [mother](mātaram) [lotus-garlanded](padma+mālinīm) [in-anus](gude)
+[fortune](śriyaṃ) [cause-to-dwell](vāsaya) [in-my](me) [family](kule) [mother](mātaraṃ) [lotus](padma) [garlanded](mālinīm) [||](||) [11](11) [||](||) [on-anus](gude) [||](||)
 
 ## mukta-m0-p03-v62
-[divine-goddess](nicadevīm) [mother](mātaram) [fortune](śriyam) [cause-to-dwell](vāsaya) [in-my](me) [family](kule) [in-thighs](ūrvoḥ)
+[eternal](nica) [goddess](devīṃ) [mother](mātaraṃ) [fortune](śriyaṃ) [cause-to-dwell](vāsaya) [in-my](me) [family](kule) [||](||) [12](12) [||](||) [on-thighs](ūrvoḥ) [||](||)
 
 ## mukta-m0-p03-v63
-[moonlike](candrām) [golden](hiraṇmayīm) [fortune](lakṣmīm) [o-jātavedas](jātavedo) [to-me](ma) [bring](āvaha) [in-knees](jānunoḥ)
+[brilliant](candrāṃ) [golden](hiraṇmayīṃ) [fortune](lakṣmīṃ) [o-jātavedas](jātavedo) [to-me](ma) [bring](āvaha) [||](||) [13](13) [||](||) [on-knees](jānunoḥ) [||](||)
 
 ## mukta-m0-p03-v64
-[sunlike](sūryām) [golden](hiraṇmayī) [fortune](lakṣmīm) [o-jātavedas](jātavedo) [to-me](ma) [bring](āvaha) [in-shanks](jaṃghayoḥ)
+[solar](sūryāṃ) [golden](hiraṇmayī) [fortune](lakṣmīṃ) [o-jātavedas](jātavedo) [to-me](ma) [bring](āvaha) [||](||) [14](14) [||](||) [on-shanks](jaṃghayoḥ) [||](||)
 
 ## mukta-m0-p03-v65
-[in-whom](yasyām) [gold](hiraṇyam) [abundance](prabhūtim) [cows](gāvaḥ) [servants](udāsyaḥ) [horses](aśvān) [may-i-obtain](vindeyam) [men](puruṣān) [i](aham)
+[in-whom](yasyāṃ) [gold](hiraṇyaṃ) [abundance](prabhūtiṃ) [cattle](gāvo) [servants](dāsyo) [horses](aśvān) [may-I-obtain](viṃdeyaṃ) [men](puruṣān) [I](aham)
 
 ## mukta-m0-p03-v66
-[hymn](sūktam) [fifteen-verses](pañcadaśa+ṛcam) [and](ca) [fortune-desiring](śrī+kāmaḥ) [constantly](satatam) [may-chant](japet) [in-all-limbs](sarva+aṅge)
+[hymn](sūktaṃ) [fifteen](paṃcadaśa) [versed](arcaṃ) [and](ca) [desiring-fortune](śrī+kāmaḥ) [constantly](satataṃ) [should-recite](japet) [||](||) [16](16) [||](||) [on-all-limbs](sarvāṅge) [||](||)
 
 ## mukta-m0-p03-v67
-[o-purifier](pāvakaḥ) [to-us](asmabhyam) [auspicious](śivaḥ) [become](bhava)
+[purifier](pāvako') [for-us](asmabhyaguṃ) [auspicious](śivaḥ) [be](bhava)
 
 ## mukta-m0-p03-v68
-[o-purifier](pāvakaḥ) [to-us](asmabhyam) [auspicious](śivaḥ) [become](bhava)
+[purifier](pāvako') [for-us](asmabhyaguṃ) [auspicious](śivaḥ) [be](bhava)
 
 ## mukta-m0-p03-v69
-[auspicious](śivam) [make](kṛdhi)
+[auspicious](śivaṃ) [make](kṛdhi)
 
 ## mukta-m0-p03-v70
-[other-weapons](anyāḥ+te) [from-us](asmāt) [may-burn](tapantu) [weapons](hetayaḥ) [o-purifier](pāvakaḥ) [to-us](asmabhyam) [auspicious](śivaḥ) [become](bhava)
+[other](anyāṁs) [your](te') [away-from-us](asmattapantu) [weapons](hetayaḥ) [purifier](pāvako) [for-us](asmabhyaguṃ) [auspicious](śivaḥ) [be](bhava)
 
 ## mukta-m0-p03-v71
-[om](oṃ) [o-agne](agne) [o-purifier](pāvaka) [by-brightness](rociṣā) [by-sweet](mandrayā) [o-god-tongue](deva+jihvayā) [gods](devān) [you-will-lead](vakṣi) [sacrifice](yakṣi) [and](ca) [to-us](naḥ)
+[oṃ](oṃ) [o-agni](agne) [o-purifier](pāvaka) [with-radiance](rociṣā) [with-delightful](mandrayā) [god](deva) [tongue](jihvayā) [||](||) [to-gods](ādevān) [bring](vakṣi) [worship](yakṣi) [and](ca)
 
 ## mukta-m0-p03-v72
-[to-us](naḥ)
+[us](naḥ)
 
 ## mukta-m0-p03-v73
-[hastening](tūrvann) [by-leader](nayā) [of-praiser](mat+netaḥ) [of-this](asya) [strong](nūraṇaḥ) [by-fiery-heat](ā+yogha+ṛṇena) [thirsting](tatṛṣāṇaḥ) [ageless](ajaraḥ)
+[overcoming](tūrvannayā) [not-mindless](mannetaśasya) [o-leader](nūraṇa') [come](āyo) [with-heat](ghṛṇena) [thirsting](tatṛṣāṇo') [unaging](ajaraḥ)
 
 ## mukta-m0-p03-v74
-[other-weapons](anyāḥ+te) [from-us](asmāt) [may-burn](tapantu) [weapons](hetayaḥ) [o-purifier](pāvakaḥ) [to-us](asmabhyam) [auspicious](śivaḥ) [become](bhava)
+[other](anyāṃs) [your](te) [away-from-us](asmat) [may-burn](tapantu) [weapons](hetayaḥ) [purifier](pāvako) [for-us](asmabhyaguṃ) [auspicious](śivaḥ) [be](bhava)
 
 ## mukta-m0-p03-v75
-[om](oṃ) [nṛṣadeva](nṛṣadev) [i-see](veḍ) [apsuṣadeva](apsuṣadev) [i-see](veḍ) [barhiṣadeva](varhiṣadev) [i-see](veḍ) [vanasadeva](vanasadev) [i-see](veḍ) [svardeva](svarvidev) [i-see](iṭ)
+[oṃ](oṃ) [man](nṛṣa) [o-god](devveḍ) [in-waters](apsuṣa) [o-god](devveḍ) [on-sacred-grass](varhipa) [o-god](devveḍ) [in-forest](vanasa) [o-god](devveḍ) [light](svarvi) [o-god](deveṭ)
