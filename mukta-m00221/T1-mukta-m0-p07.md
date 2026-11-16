@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p07-v151
-[extreme-fear](atyantabhītā) [goddess-of-gods-acc](deveśīm) [loudly](uccaḥ) [protect-imp](pāhi) [thus](iti) [cried-out](saṃjaguḥ)
+[extremely](atyanta+) [frightened](bhītā) [goddess](deveśīm) [loudly](uccaḥ) [protect](pāhi) [thus](iti) [they-cried-out](saṃjaguḥ)
 
 ## mukta-m0-p07-v152
-[go-imp](gaccha) [flame-garlanded-voc](jvālāmālini) [you-nom](tvaṃ) [protect-imp](rakṣa) [frightened-acc-pl](bhītān) [gods-acc-pl](surān) [quickly](drutam)
+[go](gaccha) [O-jvālamālini](jvālā+mālini) [you](tvaṃ) [protect](rakṣa) [the-frightened](bhītān) [gods](surān) [quickly](drutam)
 
 ## mukta-m0-p07-v153
-[by-flame](jvālayā) [them-acc-pl](tān) [blocked](rurodha) [loudly](uccaiḥ) [flame-garlanded-nom](jvālāmālinikā) [auspicious-nom](śivā)
+[with-her-flame](jvālayā) [them](tān) [she-restrained](rurodha) [loudly](uccaiḥ) [jvālamālinikā](jvālā+mālinikā) [auspicious-one](śivā)
 
 ## mukta-m0-p07-v154
-[slain-acc-pl](hatān) [gods-acc-pl](devān) [with-great-joy](praharṣeṇa) [bhaṇḍa-demon-nom](bhaṇḍadaityaḥ) [again-went](punaryayau)
+[the-slain](hatān) [gods](devān) [with-joy](praharṣeṇa) [bhaṇḍa-demon](bhaṇḍa+daityaḥ) [again](punar) [went](yayau)
 
 ## mukta-m0-p07-v155
-[terrified-nom-pl](vitrastā) [to-die-wishing-nom-pl](martukāmāḥ) [they-nom-pl](te) [having-cut](chittvā) [limbs-acc-pl](aṅgāni) [from-all-sides](samantataḥ)
+[terrified](vitrastā) [desiring-to-die](martu+kāmāḥ) [they](te) [having-cut](chittvā) [limbs](aṅgāni) [on-all-sides](samantataḥ)
 
 ## mukta-m0-p07-v156
-[all-limbs-acc-pl](aśeṣāṅgāni) [having-offered](hutvā) [thus](evam) [by-full-oblation](pūrṇāhutitayā) [body-acc](tanum)
+[all-limbs](aśeṣa+aṅgāni) [having-offered](hutvā) [thus](evam) [by-full-oblation](pūrṇa+āhutitayā) [body](tanum)
 
 ## mukta-m0-p07-v157
-[in-that-interval](tadantare) [she-nom](sā) [tripurā-nom](tripurā) [devotee-protection-dedicated-nom](bhaktarakṣāparāyaṇā)
+[at-that-time](tad+antare) [she](sā) [tripurā](tri+purā) [devoted-to-protection-of-devotees](bhakta+rakṣā+aparāyaṇā)
 
 ## mukta-m0-p07-v158
-[arose](jātaḥ) [caṭacaṭa-sound-nom](caṭacaṭāśabdaḥ) [from-kund-middle](kuṇḍamadhyāt) [very-high-nom](mahonnataḥ)
+[arose](jātaḥ) [crackling-sound](caṭacaṭā+śabdaḥ) [from-middle-of-the-kund](kuṇḍa+madhyāt) [very-high](mahā+unnataḥ)
 
 ## mukta-m0-p07-v159
-[in-flame-middle](jvālāmadhye) [great-goddess-acc](mahādevīm) [all-beauty-continuum-acc](sarvasaundaryasantatim)
+[in-middle-of-the-flame](jvālā+madhye) [great-goddess](mahā+devīm) [all-beauty-continuum](sarva+saundarya+santatim)
 
 ## mukta-m0-p07-v160
-[then-having-risen](athotthāya) [indra-headed-nom-pl](śakramukhāḥ) [praised](tuṣṭuvuḥ) [her-acc](tām) [great-goddess-acc](maheśvarīm)
+[then](atha) [having-risen](utthāya) [indra-headed-ones](śakra+mukhāḥ) [they-praised](tuṣṭuvuḥ) [her](tām) [great-goddess](mahā+īśvarīm)
 
 ## mukta-m0-p07-v161
-[flower-rain-nom](puṣpavṛṣṭiḥ) [was](abhūt) [from-sky](vyomnaḥ) [roared](neduḥ) [drums-nom-pl](dundubhayaḥ) [also](api) [and](ca)
+[shower-of-flowers](puṣpa+vṛṣṭiḥ) [there-was](abhūt) [from-the-sky](vyomnaḥ) [roared](neduḥ) [drums](dundubhayaḥ) [also](api) [and](ca)
 
 ## mukta-m0-p07-v162
-[brahma-etc-nom-pl](brahmādyāḥ) [from-all-sides](sarvataḥ) [her-gen](tasyāḥ) [worship-acc](pūjām) [made](cakruḥ) [according-to-rule](yathāvidhi)
+[brahma-and-others](brahma+ādyāḥ) [from-all-sides](sarvataḥ) [to-her](tasyāḥ) [worship](pūjām) [they-did](cakruḥ) [according-to-rule](yathā+vidhi)
 
 ## mukta-m0-p07-v163
-[with-various](vividhaiḥ) [eatables-drinkables-etc](bhakṣyabhojyādyaiḥ) [with-liquors](āsavaiḥ) [with-meats](piśitaiḥ) [also](api)
+[with-various](vividhaiḥ) [food-and-eatables-and-others](bhakṣya+bhojya+ādyaiḥ) [with-intoxicants](āsavaiḥ) [with-flesh](piśitaiḥ) [also](api)
 
 ## mukta-m0-p07-v164
-[with-singers](gāyanaiḥ) [with-dance-music-etc](nṛtyavādyādyaiḥ) [with-festivals](utsavaiḥ) [also](api) [greatly](bhūriśaḥ)
+[with-singers](gāyanaiḥ) [with-dance-music-and-others](nṛtya+vādya+ādyaiḥ) [with-festivals](utsavaiḥ) [also](api) [greatly](bhūriśaḥ)
 
 ## mukta-m0-p07-v165
-[fifty-second-nom](dvipañcāśattamaḥ) [chapter-nom](adhyāyaḥ)
+[fifty-second](dvi+pañcāśat+tamaḥ) [chapter](adhyāyaḥ)
 
 ## mukta-m0-p07-v166
-[brahma-chief-acc-pl](vidhātṛmukhyān) [said](ūcuḥ) [they-nom-pl](te) [of-goddess-gen](devyāḥ) [abode-for-cause-dat](saṃsthānahetave)
+[brahma-and-chief-ones](vidhātṛ+mukhyān) [said](ūcuḥ) [they](te) [to-the-goddess](devyāḥ) [for-establishment-cause](saṃsthāna+hetave)
 
 ## mukta-m0-p07-v167
-[having-bowed](praṇamya) [prayed](prārthayāmāsuḥ) [that-acc](yat) [that-acc](tat) [hear-imp](śṛṇu) [pot-born-voc](ghaṭodbhava)
+[having-bowed](praṇamya) [they-prayed](prārthayām+āsuḥ) [that](yat) [that](tat) [hear](śṛṇu) [O-jar-born](ghaṭa+udbhava)
 
 ## mukta-m0-p07-v168
-[in-this-loc](asyām) [world-loc](jagatyām) [which-acc](yat) [always](nityam) [we-see](paśyāmaḥ) [you-acc](tvām) [great-goddess-acc](maheśvarīm)
+[in-this](asyām) [world](jagatyām) [what](yat) [always](nityam) [we-see](paśyāmaḥ) [you](tvām) [great-goddess](mahā+īśvarīm)
 
 ## mukta-m0-p07-v169
-[having-attained](prāpya) [your-acc](tvadīyam) [your-gen](te) [world-acc](lokam) [we-see](paśyāmaḥ) [your-foot-lotus-acc](tvatpadāmbujam)
+[having-attained](prāpya) [your](tvadīyam) [that](te) [world](lokam) [we-see](paśyāmaḥ) [your-lotus-feet](tvat+pada+ambujam)
 
 ## mukta-m0-p07-v170
-[brahma-egg-breaking-acc](brahmāṇḍabhedam) [not](na) [deserve](arhanti) [therefore](tat) [you-acc](tvām) [to-see-wishing-nom-pl](draṣṭumabhipsavaḥ)
+[cosmic-egg-breaking](brahma+aṇḍa+bhedam) [not](na) [they-deserve](arhanti) [that](tat) [you](tvām) [to-see-desiring](draṣṭum+abhīpsavaḥ)
 
 ## mukta-m0-p07-v171
-[having-been-prayed-nom](prārthitā) [thus](ittham) [by-brahma-headed](brahmamukhaiḥ) [tripura-mother-nom](tripurāmbā) [great-goddess-nom](maheśvarī)
+[prayed-thus](prārthitā+ittham) [by-brahma-headed-ones](brahma+mukhaiḥ) [tripura-mother](tripurā+ambā) [great-goddess](mahā+īśvarī)
 
 ## mukta-m0-p07-v172
-[dwelt](avasat) [with-retinue-nom](saparīvārā) [as](yathā) [in-world-loc](loke) [own-loc](svake) [so](tathā)
+[she-dwelt](avasat) [with-retinue](sa+parīvārā) [as](yathā) [in-world](loke) [in-her-own](svake) [so](tathā)
 
 ## mukta-m0-p07-v173
-[kāmeśvara-acc](kāmeśvaram) [husband-acc](patim) [made](cakre) [married-nom](samūḍhā) [became](abhavat) [mother-nom](ambikā)
+[kāmeśvara](kāma+īśvaram) [husband](patim) [she-made](cakre) [married](samūḍhā) [became](abhavat) [mother](ambikā)
 
 ## mukta-m0-p07-v174
-[asked](papraccha) [about-glory-hearing-loc](vibhavaśrutyām) [about-supreme-loc](parāyām) [arisen-curiosity-nom](jātakautukaḥ)
+[he-asked](papraccha) [about-power-hearing](vibhava+śrutyām) [about-supreme](parāyām) [arisen-curiosity](jāta+kautukaḥ)
 
 ## mukta-m0-p07-v175
-[of-what-kind-acc](kīdṛśam) [what-acc](kim) [measure-acc](pramāṇam) [and](ca) [in-which-loc](yasmin) [dwells](vasati) [she-nom](sā) [supreme-nom](parā)
+[of-what-kind](kīdṛśam) [what](kim) [measure](pramāṇam) [and](ca) [in-which](yasmin) [dwells](vasati) [she](sā) [supreme](parā)
