@@ -16,7 +16,7 @@
 },
 {
 "surface": "āvahanti",
-"quick_gloss": "bring-about"
+"quick_gloss": "bring"
 },
 {
 "surface": "sadaiva",
@@ -74,7 +74,7 @@
 },
 {
 "surface": "bhūri+śocanaiḥ",
-"quick_gloss": "by-those-of-much-grief"
+"quick_gloss": "by-much-grieving-ones"
 }
 ]
 },
@@ -87,11 +87,11 @@
 "tokens": [
 {
 "surface": "vigarhyāṃ",
-"quick_gloss": "despicable"
+"quick_gloss": "blameworthy"
 },
 {
 "surface": "nindyām",
-"quick_gloss": "blameworthy"
+"quick_gloss": "censurable"
 },
 {
 "surface": "prathitāḥ",
@@ -111,8 +111,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "kim+ete",
-"quick_gloss": "are-these"
+"surface": "kim",
+"quick_gloss": "what"
+},
+{
+"surface": "ete",
+"quick_gloss": "these"
 },
 {
 "surface": "sama+vijñānāḥ",
@@ -124,7 +128,7 @@
 },
 {
 "surface": "tāratamyam",
-"quick_gloss": "having-gradation"
+"quick_gloss": "gradation"
 },
 {
 "surface": "āśritāḥ",
@@ -141,7 +145,7 @@
 "tokens": [
 {
 "surface": "śiṣye",
-"quick_gloss": "in-the-disciple"
+"quick_gloss": "in-disciple"
 },
 {
 "surface": "ananya+śaraṇye",
@@ -264,7 +268,7 @@
 },
 {
 "surface": "prabhāvitaḥ",
-"quick_gloss": "empowered"
+"quick_gloss": "capable"
 }
 ]
 },
@@ -276,24 +280,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "k, kh:",
-"quick_gloss": "in-k-and-kh"
-},
-{
-"surface": "sattarka+paraḥ",
-"quick_gloss": "devoted-to-right-reasoning"
-},
-{
-"surface": "nāsti",
-"quick_gloss": "not-present"
-},
-{
 "surface": "prabhāvitaḥ",
-"quick_gloss": "empowered"
+"quick_gloss": "capable"
 },
 {
 "surface": "samarthaḥ",
-"quick_gloss": "capable"
+"quick_gloss": "able"
 }
 ]
 },
@@ -305,8 +297,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "bhagavat+śakti+pātena vinā",
-"quick_gloss": "without-the-descent-of-the-Lord's-grace"
+"surface": "bhagavat+śakti+pātena",
+"quick_gloss": "by-lord's-grace-descent"
+},
+{
+"surface": "vinā",
+"quick_gloss": "without"
 },
 {
 "surface": "kaḥ",
@@ -318,7 +314,7 @@
 },
 {
 "surface": "āpnuyāt",
-"quick_gloss": "could-obtain"
+"quick_gloss": "may-obtain"
 }
 ]
 },
@@ -360,11 +356,15 @@
 "tokens": [
 {
 "surface": "prasanna+īśvarasya",
-"quick_gloss": "of-the-propitiated-Lord"
+"quick_gloss": "of-propitiated-lord"
 },
 {
-"surface": "sutarka+utpādanam+eva",
-"quick_gloss": "production-of-right-reasoning-alone"
+"surface": "sutarka+utpādanam",
+"quick_gloss": "production-of-right-reasoning"
+},
+{
+"surface": "eva",
+"quick_gloss": "alone"
 },
 {
 "surface": "kṛtyam",
@@ -409,7 +409,7 @@
 },
 {
 "surface": "api",
-"quick_gloss": "even"
+"quick_gloss": "also"
 },
 {
 "surface": "tvayā",
@@ -420,8 +420,8 @@
 "quick_gloss": "spoken"
 },
 {
-"surface": "apracit+vapuḥ",
-"quick_gloss": "not-consciousness-embodied"
+"surface": "apara+cit+vapuḥ",
+"quick_gloss": "not-supreme-consciousness-form"
 }
 ]
 },
@@ -433,8 +433,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "para+cit+vapuḥ+na suviditam",
-"quick_gloss": "not-well-known-as-supreme-consciousness-embodied"
+"surface": "para+cit+vapuḥ",
+"quick_gloss": "supreme-consciousness-form"
+},
+{
+"surface": "na",
+"quick_gloss": "not"
+},
+{
+"surface": "suviditam",
+"quick_gloss": "well-known"
 },
 {
 "surface": "iti",
@@ -455,7 +463,7 @@
 "tokens": [
 {
 "surface": "tāṭasthyena",
-"quick_gloss": "by-standing-aside"
+"quick_gloss": "by-standpoint-of-outsider"
 },
 {
 "surface": "tu",
@@ -499,8 +507,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "na veda",
-"quick_gloss": "not-knows"
+"surface": "na",
+"quick_gloss": "not"
+},
+{
+"surface": "veda",
+"quick_gloss": "knows"
 },
 {
 "surface": "iti",
@@ -508,11 +520,15 @@
 },
 {
 "surface": "vedana+mukhya+phala+abhāvāt",
-"quick_gloss": "due-to-absence-of-the-chief-fruit-of-knowledge"
+"quick_gloss": "due-to-absence-of-main-fruit-of-knowing"
 },
 {
-"surface": "na veda",
-"quick_gloss": "not-knows"
+"surface": "na",
+"quick_gloss": "not"
+},
+{
+"surface": "veda",
+"quick_gloss": "knows"
 },
 {
 "surface": "iti",
@@ -561,8 +577,12 @@
 "quick_gloss": "knowledge"
 },
 {
-"surface": "bhrama+rūpam+eva",
-"quick_gloss": "like-error-alone"
+"surface": "bhrama+rūpam",
+"quick_gloss": "like-error"
+},
+{
+"surface": "eva",
+"quick_gloss": "indeed"
 },
 {
 "surface": "iti",
@@ -599,7 +619,7 @@
 },
 {
 "surface": "amukhya+phala+dam",
-"quick_gloss": "giver-of-non-chief-fruit"
+"quick_gloss": "giver-of-non-primary-fruit"
 },
 {
 "surface": "bhavet",
@@ -657,7 +677,7 @@
 },
 {
 "surface": "videheṣu",
-"quick_gloss": "in-Videha"
+"quick_gloss": "in-Videhas"
 },
 {
 "surface": "kaścit",
@@ -690,7 +710,7 @@
 },
 {
 "surface": "taṭastha+vijñānasya+amukhya+phalatve",
-"quick_gloss": "in-the-non-chief-fruitfulness-of-detached-knowledge"
+"quick_gloss": "in-non-primary-fruitfulness-of-detached-knowledge"
 }
 ]
 },
@@ -711,15 +731,19 @@
 },
 {
 "surface": "sva+ātma+devīm",
-"quick_gloss": "his-own-soul-goddess"
+"quick_gloss": "own-self-goddess"
 },
 {
 "surface": "īje",
 "quick_gloss": "worshipped"
 },
 {
-"surface": "kratubhiḥ+uttamaiḥ",
-"quick_gloss": "with-excellent-sacrifices"
+"surface": "kratubhiḥ",
+"quick_gloss": "with-sacrifices"
+},
+{
+"surface": "uttamaiḥ",
+"quick_gloss": "supreme"
 }
 ]
 },
