@@ -54,15 +54,19 @@
 },
 {
 "surface": "kolāhala",
-"quick_gloss": "tumult"
+"quick_gloss": "uproar"
 },
 {
-"surface": "sukhakarasannibhṛta",
-"quick_gloss": "bliss-giving+full+abiding"
+"surface": "sukhakara",
+"quick_gloss": "bliss+making"
+},
+{
+"surface": "sannibhṛta",
+"quick_gloss": "full+abiding"
 },
 {
 "surface": "nika-",
-"quick_gloss": "nika-"
+"quick_gloss": "without"
 }
 ]
 },
@@ -75,7 +79,7 @@
 "tokens": [
 {
 "surface": "śāṃka",
-"quick_gloss": "fearless"
+"quick_gloss": "doubt"
 },
 {
 "surface": "śatasahasrasaṃkāśa",
@@ -103,12 +107,8 @@
 "quick_gloss": "contemplates"
 },
 {
-"surface": "||",
-"quick_gloss": "thus"
-},
-{
 "surface": "mūlādhāre",
-"quick_gloss": "in-mūlādhāra"
+"quick_gloss": "in-root-support"
 },
 {
 "surface": "smare",
@@ -116,7 +116,7 @@
 },
 {
 "surface": "ra-",
-"quick_gloss": "ra-"
+"quick_gloss": "in"
 }
 ]
 },
@@ -138,10 +138,6 @@
 {
 "surface": "udāhṛtaṃ",
 "quick_gloss": "is-declared"
-},
-{
-"surface": "|",
-"quick_gloss": "|"
 },
 {
 "surface": "hṛdare",
@@ -185,10 +181,6 @@
 "quick_gloss": "and"
 },
 {
-"surface": "|",
-"quick_gloss": "|"
-},
-{
 "surface": "nādākhyaṃ",
 "quick_gloss": "called-nāda"
 },
@@ -214,8 +206,12 @@
 "quick_gloss": "one-should-know"
 },
 {
-"surface": "ūrdhvanṛttaṃ",
-"quick_gloss": "upward+dance"
+"surface": "ūrdhva",
+"quick_gloss": "above"
+},
+{
+"surface": "nṛttaṃ",
+"quick_gloss": "dance"
 },
 {
 "surface": "vicintayet",
@@ -232,7 +228,7 @@
 "tokens": [
 {
 "surface": "śivamadhyagato",
-"quick_gloss": "gone-to-Śiva’s-center"
+"quick_gloss": "Śiva+middle+gone"
 },
 {
 "surface": "śāṃtaṃ",
@@ -244,7 +240,7 @@
 },
 {
 "surface": "parātparaṃ",
-"quick_gloss": "supreme-of-supremes"
+"quick_gloss": "supreme+than-supreme"
 }
 ]
 },
@@ -265,19 +261,19 @@
 },
 {
 "surface": "mṛtyu",
-"quick_gloss": "death+ornament"
+"quick_gloss": "death"
 },
 {
 "surface": "bhūṣaṇa",
-"quick_gloss": "moon+fragment"
+"quick_gloss": "ornament"
 },
 {
 "surface": "caṃdrakhaṇḍa",
-"quick_gloss": "quality+foremost"
+"quick_gloss": "moon+fragment"
 },
 {
 "surface": "guṇāgra-",
-"quick_gloss": "guṇāgra-"
+"quick_gloss": "quality+foremost"
 }
 ]
 },
@@ -302,11 +298,11 @@
 },
 {
 "surface": "triśikha",
-"quick_gloss": "three-peaked"
+"quick_gloss": "three+peaked"
 },
 {
 "surface": "dvibiṃbo-",
-"quick_gloss": "two-bindu"
+"quick_gloss": "two+bindus"
 },
 {
 "surface": "ssakalo",
@@ -315,10 +311,6 @@
 {
 "surface": "śivaḥ",
 "quick_gloss": "Śiva"
-},
-{
-"surface": "|",
-"quick_gloss": "|"
 }
 ]
 },
@@ -330,16 +322,29 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "prāsādamāruhya",
+"surface": "prāsādam",
+"quick_gloss": "palace"
+},
+{
+"surface": "āruhya",
 "quick_gloss": "having-ascended"
 },
 {
 "surface": "kalādhvanīyaṃ-",
-"quick_gloss": "the-palace"
+"quick_gloss": "kalā+path+to-be-led"
+}
+]
 },
 {
+"verse_id": "mukta-m0-p58-v1438",
+"song": "mukta-m0-p58",
+"verse": 1438,
+"quick_english": "",
+"quick_english_source": "t1parse",
+"tokens": [
+{
 "surface": "parāmṛte",
-"quick_gloss": "parāmṛte"
+"quick_gloss": "in-supreme+nectar"
 },
 {
 "surface": "tatra",
@@ -368,23 +373,19 @@
 ]
 },
 {
-"verse_id": "mukta-m0-p58-v1438",
+"verse_id": "mukta-m0-p58-v1439",
 "song": "mukta-m0-p58",
-"verse": 1438,
+"verse": 1439,
 "quick_english": "",
 "quick_english_source": "t1parse",
 "tokens": [
 {
 "surface": "rbhakṣamati",
-"quick_gloss": "devours"
+"quick_gloss": "eats"
 },
 {
 "surface": "laṃghaparairalaṃghyam",
-"quick_gloss": "by-leapers+unleapable"
-},
-{
-"surface": "|",
-"quick_gloss": "|"
+"quick_gloss": "by-others+unattainable"
 },
 {
 "surface": "prāsādaśṛṃga-",
@@ -393,23 +394,19 @@
 ]
 },
 {
-"verse_id": "mukta-m0-p58-v1439",
+"verse_id": "mukta-m0-p58-v1440",
 "song": "mukta-m0-p58",
-"verse": 1439,
+"verse": 1440,
 "quick_english": "",
 "quick_english_source": "t1parse",
 "tokens": [
 {
 "surface": "manaṃgam",
-"quick_gloss": "the-bodiless"
+"quick_gloss": "bodiless"
 },
 {
 "surface": "upāṃgayaṃti",
 "quick_gloss": "as-limb"
-},
-{
-"surface": "|",
-"quick_gloss": "|"
 },
 {
 "surface": "prāsādamātrasya",
@@ -422,9 +419,9 @@
 ]
 },
 {
-"verse_id": "mukta-m0-p58-v1440",
+"verse_id": "mukta-m0-p58-v1441",
 "song": "mukta-m0-p58",
-"verse": 1440,
+"verse": 1441,
 "quick_english": "",
 "quick_english_source": "t1parse",
 "tokens": [
@@ -434,21 +431,12 @@
 },
 {
 "surface": "pāyanītvāṃ",
-"quick_gloss": "having-led"
+"quick_gloss": "having-made-drink"
 },
 {
 "surface": "saṃviṃvayayiṃjiṃmana-",
 "quick_gloss": "consciousness"
-}
-]
 },
-{
-"verse_id": "mukta-m0-p58-v1441",
-"song": "mukta-m0-p58",
-"verse": 1441,
-"quick_english": "",
-"quick_english_source": "t1parse",
-"tokens": [
 {
 "surface": "amanasko",
 "quick_gloss": "mindless"
@@ -456,7 +444,16 @@
 {
 "surface": "namaskṛtvā",
 "quick_gloss": "having-bowed"
+}
+]
 },
+{
+"verse_id": "mukta-m0-p58-v1442",
+"song": "mukta-m0-p58",
+"verse": 1442,
+"quick_english": "",
+"quick_english_source": "t1parse",
+"tokens": [
 {
 "surface": "na",
 "quick_gloss": "not"
@@ -472,9 +469,9 @@
 ]
 },
 {
-"verse_id": "mukta-m0-p58-v1442",
+"verse_id": "mukta-m0-p58-v1443",
 "song": "mukta-m0-p58",
-"verse": 1442,
+"verse": 1443,
 "quick_english": "",
 "quick_english_source": "t1parse",
 "tokens": [
@@ -496,7 +493,7 @@
 },
 {
 "surface": "vedmi",
-"quick_gloss": "I-know"
+"quick_gloss": "know"
 },
 {
 "surface": "tvam",
@@ -521,9 +518,9 @@
 ]
 },
 {
-"verse_id": "mukta-m0-p58-v1443",
+"verse_id": "mukta-m0-p58-v1444",
 "song": "mukta-m0-p58",
-"verse": 1443,
+"verse": 1444,
 "quick_english": "",
 "quick_english_source": "t1parse",
 "tokens": [
@@ -545,14 +542,14 @@
 },
 {
 "surface": "vibhāvibhau",
-"quick_gloss": "in-shining-ones"
+"quick_gloss": "in-two-shining-ones"
 }
 ]
 },
 {
-"verse_id": "mukta-m0-p58-v1444",
+"verse_id": "mukta-m0-p58-v1445",
 "song": "mukta-m0-p58",
-"verse": 1444,
+"verse": 1445,
 "quick_english": "",
 "quick_english_source": "t1parse",
 "tokens": [
@@ -579,9 +576,9 @@
 ]
 },
 {
-"verse_id": "mukta-m0-p58-v1445",
+"verse_id": "mukta-m0-p58-v1446",
 "song": "mukta-m0-p58",
-"verse": 1445,
+"verse": 1446,
 "quick_english": "",
 "quick_english_source": "t1parse",
 "tokens": [
@@ -591,7 +588,7 @@
 },
 {
 "surface": "āsvādanārthasya",
-"quick_gloss": "for-sake-of-tasting"
+"quick_gloss": "for-tasting+purpose"
 },
 {
 "surface": "śivaśaktimayo",
@@ -608,15 +605,15 @@
 ]
 },
 {
-"verse_id": "mukta-m0-p58-v1446",
+"verse_id": "mukta-m0-p58-v1447",
 "song": "mukta-m0-p58",
-"verse": 1446,
+"verse": 1447,
 "quick_english": "",
 "quick_english_source": "t1parse",
 "tokens": [
 {
 "surface": "prāsādahṛdayecchā",
-"quick_gloss": "in-heart-of-palace"
+"quick_gloss": "in-palace+heart"
 },
 {
 "surface": "saniśvāsa",
@@ -633,15 +630,15 @@
 ]
 },
 {
-"verse_id": "mukta-m0-p58-v1447",
+"verse_id": "mukta-m0-p58-v1448",
 "song": "mukta-m0-p58",
-"verse": 1447,
+"verse": 1448,
 "quick_english": "",
 "quick_english_source": "t1parse",
 "tokens": [
 {
 "surface": "saṃsārasarpadaṣṭānāṃ",
-"quick_gloss": "of-those-bitten-by-serpent-of-saṃsāra"
+"quick_gloss": "by-world+serpent+bitten"
 },
 {
 "surface": "etad",
@@ -658,15 +655,15 @@
 ]
 },
 {
-"verse_id": "mukta-m0-p58-v1448",
+"verse_id": "mukta-m0-p58-v1449",
 "song": "mukta-m0-p58",
-"verse": 1448,
+"verse": 1449,
 "quick_english": "",
 "quick_english_source": "t1parse",
 "tokens": [
 {
 "surface": "labdhe",
-"quick_gloss": "having-obtained"
+"quick_gloss": "when-obtained"
 },
 {
 "surface": "dakṣiṇa",
@@ -674,7 +671,7 @@
 },
 {
 "surface": "bhavave",
-"quick_gloss": "bhavave"
+"quick_gloss": "existence"
 },
 {
 "surface": "kiṃ",
@@ -686,7 +683,7 @@
 },
 {
 "surface": "tālavṛnte",
-"quick_gloss": "in-fan"
+"quick_gloss": "in-palm-leaf-fan"
 },
 {
 "surface": "naḥ",
@@ -695,9 +692,9 @@
 ]
 },
 {
-"verse_id": "mukta-m0-p58-v1449",
+"verse_id": "mukta-m0-p58-v1450",
 "song": "mukta-m0-p58",
-"verse": 1449,
+"verse": 1450,
 "quick_english": "",
 "quick_english_source": "t1parse",
 "tokens": [
@@ -714,25 +711,16 @@
 "quick_gloss": "experiencer"
 },
 {
-"surface": "dhvanimanān",
-"quick_gloss": "sound+mind"
+"surface": "dhvani",
+"quick_gloss": "sound"
+},
+{
+"surface": "manān",
+"quick_gloss": "mind"
 },
 {
 "surface": "pratyartha-",
 "quick_gloss": "toward-object"
-}
-]
-},
-{
-"verse_id": "mukta-m0-p58-v1450",
-"song": "mukta-m0-p58",
-"verse": 1450,
-"quick_english": "",
-"quick_english_source": "t1parse",
-"tokens": [
-{
-"surface": "pratyartha-",
-"quick_gloss": "continuation"
 }
 ]
 }

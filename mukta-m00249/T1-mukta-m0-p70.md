@@ -2,52 +2,52 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p70-v1726
-[in-birth-impurity](sūtake) [in-death-impurity](mṛtake) [and](ca) [indeed](eva) [ritual+omission](kriyā+lopaṃ) [not](na) [one-should-cause](kārayet)
+[in-birth-impurity](sūtake) [in-death-impurity](mṛtake) [and](ca) [indeed](eva) [rite+cessation](kriyā+lopaṃ) [not](na) [one-should-cause](kārayet)
 
 ## mukta-m0-p70-v1727
 [liṅga+worship+devoted](liṃga+arcana+ratā) [woman](nārī) [by-childbirth](prasūtena) [menstruating](rajasvalā)
 
 ## mukta-m0-p70-v1728
-[śiva+twice-born+ten-days](śiva+dvija+daśāhan) [indeed](tu) [of-twice-born](dvijānāṃ) [but](tu) [likewise](tathaiva) [and](ca)
+[Śiva+twice-born+ten-days](śiva+dvija+daśāha) [indeed](ntu) [of-twice-born](dvijānāṃ) [but](tu) [likewise](tathaiva) [and](ca)
 
 ## mukta-m0-p70-v1729
-[month](māsam) [one](ekaṃ) [should-be](bhavet) [śūdra](śūdraḥ) [of-four+varṇas](cātur+varṇaḥ) [in-summary](samāsataḥ)
+[month](māsam) [one](ekaṃ) [should-be](bhavet) [Śūdra](śūdraḥ) [of-four+varṇas](cātur+varṇaḥ) [in-summary](samāsataḥ)
 
 ## mukta-m0-p70-v1730
-[in-the-interval](antarāle) [cooked](śṛtaṃ) [if](cet) [then](sadā) [in-impurity](āśauce) [death](mṛtaṃ) [birth+born](janma+jau) [and](ca)
+[in-the-interval](antarāle) [cooked](śṛtaṃ) [if](cet) [then](sat) [in-impurity](āśauce) [died](mṛtaṃ) [birth+born](janma+jau) [and](ca)
 
 ## mukta-m0-p70-v1731
-[liṅga](liṃgaṃ) [or](vā) [votive-image](kautukaṃ) [or](vā) [indeed](api) [daily+worship](nitya+pūjā) [śiva+twice-born](śiva+dvijaḥ)
+[liṅga](liṃgaṃ) [or](vā) [auspicious-thread-image](kautukaṃ) [or](vā) [indeed](api) [daily](nitya) [worship](pūjā) [Śiva+twice-born](śiva+dvijaḥ)
 
 ## mukta-m0-p70-v1732
-[in-ten-days](daśāhe) [purity](śuddhiḥ) [of-brāhmaṇas](viprāṇāṃ) [in-twelve-days](dvādaśāhe) [of-king](nṛpasya) [but](tu)
+[in-ten-days](daśāhe) [purity](śuddhiḥ) [of-Brāhmaṇas](viprāṇāṃ) [in-twelve-days](dvādaśāhe) [of-king](nṛpasya) [but](tu)
 
 ## mukta-m0-p70-v1733
-[in-sacrifice+etc.](yāga+ādi) [in-all+activities](sarva+kāryeṣu) [for-sacrifice+purpose](yāga+arthaṃ) [and](ca) [vow](vrataṃ) [one-should-perform](caret)
+[in-sacrifice+etc.](yāga+ādi) [in-all+activities](sarva+kāryeṣu) [for-sacrifice+sake](yāga+arthaṃ) [and](ca) [vow](vrataṃ) [one-should-perform](caret)
 
 ## mukta-m0-p70-v1734
 [of-twice-born](dvijānāṃ) [of-initiated](dīkṣitānāṃ) [and](ca) [of-ascetics](yatīnāṃ) [of-celibates](brahmacāriṇāṃ)
 
 ## mukta-m0-p70-v1735
-[of-maternal-grandmother+maternal-grandfather](mātāmahi+pitāmahyoḥ) [of-maternal-uncle+elder-sister's-husband](mātula+agrakayoḥ) [in-death](mṛtau)
+[of-maternal-grandmother+maternal-grandfather](mātāmahi+pitāmahyoḥ) [of-maternal-uncle+elder-sister](mātula+agrakayoḥ) [in-death](mṛtau)
 
 ## mukta-m0-p70-v1736
 [of-mother's-sister](mātṛṣvasuḥ) [of-sister](bhaginyāḥ) [and](ca) [pregnant](garbhavān) [even](api) [one-should-bathe](snāpayet)
 
 ## mukta-m0-p70-v1737
-[having-abandoned](parityajya) [śiva](śivaṃ) [one-should-do](kuryāt) [daily+occasional](nitya+naimittikā) [one-should-perform](caret)
+[having-abandoned](parityajya) [Śiva](śivaṃ) [one-should-do](kuryāt) [daily+occasional-rites](nitya+naimittikā) [one-should-perform](ācaret)
 
 ## mukta-m0-p70-v1738
-[beast+bond](paśu+pāśa) [by-word](śabdato) [soul](jīvaṃ) [bond+released](pāśa+muktaḥ) [supreme+śiva](paraḥ+śivaḥ)
+[beast+bond](paśu+pāśa) [by-word](śabdato) [soul](jīvaṃ) [bond+released](pāśa+muktaḥ) [supreme+Śiva](paraḥ+śivaḥ)
 
 ## mukta-m0-p70-v1739
-[sun](ādityaḥ) [and](ca) [pa](pa) [cowherd+bird](gopāla+khagaṃ) [rudra](rudraṃ) [likewise](tathaiva) [and](ca)
+[sun](ādityaḥ) [and](ca) [pa](pa) [cowherd+bird](gopāla+khagaṃ) [Rudra](rudraṃ) [likewise](tathaiva) [and](ca)
 
 ## mukta-m0-p70-v1740
-[having-arrived](prāpte) [in-kali+age](kali+yuge) [terrible](ghore) [destroyed](naṣṭe) [burned](dagdhe) [and](ca) [or](vā) [again](punaḥ)
+[having-arrived](prāpte) [in-Kali+age](kali+yuge) [terrible](ghore) [destroyed](naṣṭe) [burned](dagdhe) [and](ca) [or](vā) [again](punaḥ)
 
 ## mukta-m0-p70-v1741
-[smelling+lotus](āghrā+raviṃdan) [indeed](tu) [veda+horses](veda+śvānaḥ) [slowly+slowly](śanaiḥ+śanaiḥ)
+[smelling+lotus](āghrā+raviṃda) [indeed](ntu) [Veda+horses](veda+śvānaḥ) [slowly+slowly](śanaiḥ+śanaiḥ)
 
 ## mukta-m0-p70-v1742
 [auspicious](śubhaṃ) [and](ca) [inauspicious](aśubhaṃ) [and](ca) [indeed](ava) [inauspicious](aśubhaṃ) [auspicious+vehicle](śubha+vāhanam)
@@ -56,22 +56,22 @@
 [moon+sun+like](caṃdra+arka+vat) [cut-off](chinnau) [and](ca) [indeed](eva) [all+gods](sarva+devāḥ) [and](ca) [indeed](eva) [and](ca)
 
 ## mukta-m0-p70-v1744
-[thirteenth-day](trayodaśīm) [on-new-moon-day](amāvāsyāyāṃ) [in-māgha+month](māgha+māse) [fourteenth-day](caturdaśī)
+[thirteenth-day](trayodaśīm) [on-new-moon-day](amāvāsyāyāṃ) [in-Māgha+month](māgha+māse) [fourteenth-day](caturdaśī)
 
 ## mukta-m0-p70-v1745
-[fourteenth-day](caturdaśī) [auspicious](śivāṃ) [declared](proktā) [new-moon-day](amāvāsyā) [himself](svayaṃ) [śiva](śivaḥ)
+[fourteenth-day](caturdaśī) [auspicious](śivāṃ) [declared](proktā) [new-moon-day](amāvāsyā) [himself](svayaṃ) [Śiva](śivaḥ)
 
 ## mukta-m0-p70-v1746
 [by-recitation](japena) [deity](devatā) [always](nityaṃ) [being-filled](pūryamānaṃ) [becomes-pleased](prasīdati)
 
 ## mukta-m0-p70-v1747
-[yakṣa+rākṣasa+paiśāca](yakṣa+rākṣasa+paiśāca) [planet+serpent+etc.](grahaḥ+sarpa+ādi) [terrifying](bhīṣaṇāḥ)
+[yakṣa+rākṣasa](yakṣa+rākṣasa) [paiśāca](paiśāca) [planet+serpent+etc.](grahaḥ+sarpa+ādi) [terrifying](bhīṣaṇāḥ)
 
 ## mukta-m0-p70-v1748
-[I-shall-tell](vakṣyāmi) [śiva+night](śiva+rātriṃ) [should-be](syāt) [one-should-worship](pūjayet) [sage+best](muni+sattama)
+[I-shall-tell](vakṣyāmi) [Śiva+night](śiva+rātriṃ) [should-be](syāt) [one-should-worship](pūjayet) [sage+best](muni+sattama)
 
 ## mukta-m0-p70-v1749
-[in-age+in-age](yuge+yuge) [indeed](tu) [having-worshipped](saṃpūjya) [in-tretā](tretāyāṃ) [but](tu) [guha](guhaṃ) [one-should-worship](yajet)
+[in-age+after-age](yuge+yuge) [indeed](tu) [having-worshipped](saṃpūjya) [in-Tretā](tretāyāṃ) [but](tu) [Guha](guhaṃ) [one-should-worship](yajet)
 
 ## mukta-m0-p70-v1750
-[by-brahmā+indra](brahma+indre) [by-sages](ṛṣibhiḥ) [and](ca) [indeed](eva) [in-kali+age](kali+yuge) [but](tu) [one-should-worship](samarcayet)
+[by-Brahmā+Indra](brahma+indre) [by-sages](ṛṣibhiḥ) [and](ca) [indeed](eva) [in-Kali+age](kali+yuge) [but](tu) [one-should-worship](samarcayet)
