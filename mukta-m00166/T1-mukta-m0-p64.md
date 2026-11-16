@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p64-v1576
-[not](nna) [of-whom](kasya) [song](gītiḥ) [dearness-bringing](priyatā+vahā) [is](asti)
+[not](nna) [of-whom](kasya) [song](gītiḥ) [dearness](priyatā)+[bringing](vahā)+[is](asti)
 
 ## mukta-m0-p64-v1577
-[good-song](su+gītiḥ)
+[good](su)+[song](gītiḥ)
 
 ## mukta-m0-p64-v1578
-[prosperity](sphītiṃ) [of-intellect](buddheḥ) [she](sā) [good-song](su+gītiḥ) [may-give](dadātu)
+[prosperity](sphītiṃ) [of-intellect](buddheḥ) [she](sā) [good](su)+[song](gītiḥ)+[may-give](dadātu)
 
 ## mukta-m0-p64-v1579
-[knowledge-eyed](jñāna+locanā)
+[knowledge](jñāna)+[eye](locanā)
 
 ## mukta-m0-p64-v1580
-[having-stolen](muṣitvā) [who](yā) [all](akhilān) [objects](arthān) [she](sā) [goddess](devī) [knowledge-eyed](jñāna+locanā)
+[having-stolen](muṣitvā) [which](yā)+[all](akhila)+[misfortunes](anarthān) [she](sā) [goddess](devī) [knowledge](jñāna)+[eye](locanā)
 
 ## mukta-m0-p64-v1581
-[seven-note-consisting](sapta+svara+mayī) [lute](tantrī)
+[seven](sapta)+[note](svara)+[consisting-of](mayī) [lute](tantrī)
 
 ## mukta-m0-p64-v1582
-[seven-note-consisting](sapta+svara+mayī) [lute](tantrī) [freedom](svātantryaṃ) [may-make-hear](śrāvayatu) [this](iyam)
+[seven](sapta)+[note](svara)+[consisting-of](mayī) [lute](tantrī) [independence](svātantryaṃ) [may-cause-to-hear](śrāvayatv)+[this](iyam)
 
 ## mukta-m0-p64-v1583
-[ṣaḍja-madhyama-dhaivata](ṣaḍja+madhyama+dhaivatā)
+[ṣaḍja](ṣaḍja)+[madhyama](madhyama)+[dhaivata](dhaivatā)
 
 ## mukta-m0-p64-v1584
-[nearby](upānte) [and](ca) [regarded](matā) [she](sā) [this](iyaṃ) [ṣaḍja-madhyama-dhaivata](ṣaḍja+madhyama+dhaivatā)
+[nearby](upānte) [and](ca) [regarded](matā) [she](sā)+[this](iyaṃ) [ṣaḍja](ṣaḍja)+[madhyama](madhyama)+[dhaivata](dhaivatā)
 
 ## mukta-m0-p64-v1585
-[modulation](mūrcchanā) [scale-abiding](grāma+saṃsthānā)
+[modulation](mūrcchanā) [scale](grāma)+[abiding-in](saṃsthānā)
 
 ## mukta-m0-p64-v1586
-[causes-to-rest](viśrāmayati) [this](asau) [scale-abiding](grāma+saṃsthānā) [modulation](mūrcchanā) [regarded](matā)
+[causes-to-rest](viśrāmayati)+[this](asau) [scale](grāma)+[abiding-in](saṃsthānā) [modulation](mūrcchanā) [regarded](matā)
 
 ## mukta-m0-p64-v1587
-[abiding-in-self](svasthā)
+[self-abiding](svasthā)
 
 ## mukta-m0-p64-v1588
-[she](sā) [goddess](devī) [renowned](prathitā) [abiding-in-self](svasthā) [may-make](kriyāt) [healthy](svasthaṃ) [mind](manaḥ) [my](mama)
+[she](sā) [goddess](devī) [renowned](prathitā) [self-abiding](svasthā) [may-make](kriyāt) [healthy](svasthaṃ) [mind](mano) [my](mama)
 
 ## mukta-m0-p64-v1589
-[own-place-dwelling](svasthāna+vāsinī)
+[own](sva)+[place](sthāna)+[dwelling](vāsinī)
 
 ## mukta-m0-p64-v1590
-[not](na) [abandons](jahāti) [because](yatas) [therefore](tasmāt) [consciousness](citiḥ) [own-place-dwelling](svasthāna+vāsinī)
+[not](na) [abandons](jahāti) [because](yatas)+[therefore](tasmāt)+[consciousness](citiḥ) [own](sva)+[place](sthāna)+[dwelling](vāsinī)
 
 ## mukta-m0-p64-v1591
-[loudly-laughing](aṭṭāṭṭa+hāsinī)
+[loud](aṭṭāṭṭa)+[laughing](hāsinī)
 
 ## mukta-m0-p64-v1592
-[shines](śobhate) [agitation](kṣobham) [loudly-laughing](aṭṭāṭṭa+hāsinī) [she](sā) [may-remove](vyapohatām)
+[shines](śobhate) [agitation](kṣobham)+[loud](aṭṭāṭṭa)+[laughing](hāsinī) [she](sā) [may-remove](vyapohatām)
 
 ## mukta-m0-p64-v1593
 [spirit](pretā)
 
 ## mukta-m0-p64-v1594
-[spirit](pretā) [spirit-city-approaching-born](preta+pura+abhiyāna+jam) [this](iyaṃ) [sorrow](śokaṃ) [may-burn](dahatu) [wondrous](adbhutā)
+[spirit](pretā) [spirit](preta)+[city](pura)+[approach](ābhiyāna)+[born](jam)+[this](iyaṃ) [sorrow](śokaṃ) [may-burn](dahatu)+[wondrous](adbhutā)
 
 ## mukta-m0-p64-v1595
-[corpse-seat-dwelling](preta+āsana+nivāsinī)
+[corpse](preta)+[seat](āsana)+[dwelling](nivāsinī)
 
 ## mukta-m0-p64-v1596
-[of-whom](yasyā) [carry](vahanti) [she](sā) [some](kācit) [corpse-seat-dwelling](preta+āsana+nivāsinī)
+[of-whom](yasyā) [carry](vahanti) [she](sā) [some](kācit) [corpse](preta)+[seat](āsana)+[dwelling](nivāsinī)
 
 ## mukta-m0-p64-v1597
-[dance-song-loving](nṛtta+gīta+priyā)
+[dance](nṛtta)+[song](gīta)+[fond-of](priyā)
 
 ## mukta-m0-p64-v1598
-[beloved](priyā) [with-prosperity](śriyā) [may-nourish](poṣayatu) [with-own](svayā) [us](naḥ)
+[fond](priyā) [with-prosperity](śriyā) [may-nourish](poṣayatu) [with-own](svayā) [us](naḥ)
 
 ## mukta-m0-p64-v1599
 [desireless](akāmā)
 
 ## mukta-m0-p64-v1600
-[from-you-alone](tvattaḥ+eva) [which](yat) [shines](bhāti) [therefore](tatas) [she](asya) [desireless](akāmā)
+[from-you](tvatta)+[alone](eva) [which](yat)+[shines](bhāti) [therefore](tatas)+[this](asya)+[desireless](kāmā)
