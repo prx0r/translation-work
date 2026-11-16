@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p70-v1726
-[sūtaka-in-impurity](sūtake) [mṛtaka-in-death](mṛtake) [ca-and-eva-indeed](caiva) [kriyālopa-omission-of-rites](kriyālopaṃ) [na-not](na) [kārayet-should-cause](kārayet)
+[in-birth-impurity](sūtake) [in-death-impurity](mṛtake) [and](ca) [indeed](eva) [ritual+omission](kriyā+lopaṃ) [not](na) [one-should-cause](kārayet)
 
 ## mukta-m0-p70-v1727
-[liṅga-arcana-devoted](liṃgārcanaratā) [nārī-woman](nārī) [prasūtena-by-childbirth](prasūtena) [rajasvalā-menstruating](rajasvalā)
+[liṅga+worship+devoted](liṃga+arcana+ratā) [woman](nārī) [by-childbirth](prasūtena) [menstruating](rajasvalā)
 
 ## mukta-m0-p70-v1728
-[śiva-dvija-ten-days](śivadvijadaśāhantu) [dvijānāṃ-of-twice-born](dvijānāṃ) [tu-indeed](tu) [tathaiva-ca-so-too](tathaiva) [ca-and](ca)
+[śiva+twice-born+ten-days](śiva+dvija+daśāhan) [indeed](tu) [of-twice-born](dvijānāṃ) [but](tu) [likewise](tathaiva) [and](ca)
 
 ## mukta-m0-p70-v1729
-[māsa-month](māsamekaṃ) [eka-one](ekaṃ) [bhavet-becomes](bhavecchūdro) [śūdra-śūdra](śūdro) [cāturvarṇa-four-varṇas](cāturvarṇassamāsataḥ) [samāsataḥ-briefly](samāsataḥ)
+[month](māsam) [one](ekaṃ) [should-be](bhavet) [śūdra](śūdraḥ) [of-four+varṇas](cātur+varṇaḥ) [in-summary](samāsataḥ)
 
 ## mukta-m0-p70-v1730
-[antarāle-in-interval](antarāle) [śṛtaṃ-cooked](śṛtaṃ) [cet-if](cetsadāśauce) [sadā-always](sadā) [auce-impurity](auce) [mṛtaṃ-dead](mṛtaṃ) [janmajau-birth-born](janmajau) [ca-and](ca)
+[in-the-interval](antarāle) [cooked](śṛtaṃ) [if](cet) [then](sadā) [in-impurity](āśauce) [death](mṛtaṃ) [birth+born](janma+jau) [and](ca)
 
 ## mukta-m0-p70-v1731
-[liṅgaṃ-liṅga](liṃgaṃ) [vā-or](vā) [kautukaṃ-kautuka](kautukaṃ) [vāpi-or-even](vāpi) [nitya-daily](nitya) [pūjā-worship](pūjā) [śivadvijaḥ-śiva-dvija](śivadvijaḥ)
+[liṅga](liṃgaṃ) [or](vā) [votive-image](kautukaṃ) [or](vā) [indeed](api) [daily+worship](nitya+pūjā) [śiva+twice-born](śiva+dvijaḥ)
 
 ## mukta-m0-p70-v1732
-[daśāhe-in-ten-days](daśāhe) [śuddhiḥ-purity](śuddhirviprāṇāṃ) [viprāṇāṃ-of-brāhmaṇas](viprāṇāṃ) [dvādaśāhe-in-twelve-days](dvādaśāhe) [nṛpasya-of-king](nṛpasya) [tu-indeed](tu)
+[in-ten-days](daśāhe) [purity](śuddhiḥ) [of-brāhmaṇas](viprāṇāṃ) [in-twelve-days](dvādaśāhe) [of-king](nṛpasya) [but](tu)
 
 ## mukta-m0-p70-v1733
-[yāgādi-sacrifice-etc](yāgādi) [sarvakāryeṣu-in-all-works](sarvakāryeṣu) [yāgārthaṃ-for-sacrifice](yāgārthaṃ) [ca-and](ca) [vrataṃ-vow](vrataṃ) [caret-should-perform](caret)
+[in-sacrifice+etc.](yāga+ādi) [in-all+activities](sarva+kāryeṣu) [for-sacrifice+purpose](yāga+arthaṃ) [and](ca) [vow](vrataṃ) [one-should-perform](caret)
 
 ## mukta-m0-p70-v1734
-[dvijānāṃ-of-twice-born](dvijānāṃ) [dīkṣitānāṃ-of-initiated](dīkṣitānāṃ) [ca-and](ca) [yatīnāṃ-of-ascetics](yatīnāṃ) [brahmacāriṇāṃ-of-celibates](brahmacāriṇāṃ)
+[of-twice-born](dvijānāṃ) [of-initiated](dīkṣitānāṃ) [and](ca) [of-ascetics](yatīnāṃ) [of-celibates](brahmacāriṇāṃ)
 
 ## mukta-m0-p70-v1735
-[mātāmahī-maternal-grandmother](mātāmahipitāmahyo) [pitāmahyo-paternal-grandmother](pitāmahyo) [mātulāgrakayoḥ-of-maternal-uncle-and-elder](mātulāgrakayormṛtau) [mṛtau-in-death](mṛtau)
+[of-maternal-grandmother+maternal-grandfather](mātāmahi+pitāmahyoḥ) [of-maternal-uncle+elder-sister's-husband](mātula+agrakayoḥ) [in-death](mṛtau)
 
 ## mukta-m0-p70-v1736
-[mātṛṣvasu-maternal-aunt](mātṛṣvasu) [bhaginyāśca-of-sister-and](bhaginyāśca) [garbhavānapi-pregnant-woman-too](garbhavānapi) [snāpayet-should-bathe](snāpayet)
+[of-mother's-sister](mātṛṣvasuḥ) [of-sister](bhaginyāḥ) [and](ca) [pregnant](garbhavān) [even](api) [one-should-bathe](snāpayet)
 
 ## mukta-m0-p70-v1737
-[parityajya-abandoning](parityajya) [śivaṃ-śiva](śivaṃ) [kuryāt-should-do](kuryāt) [nitya-daily](nitya) [naimittika-occasional](naimittikācaret) [ācaret-should-perform](ācaret)
+[having-abandoned](parityajya) [śiva](śivaṃ) [one-should-do](kuryāt) [daily+occasional](nitya+naimittikā) [one-should-perform](caret)
 
 ## mukta-m0-p70-v1738
-[paśupāśa-paśu-bond](paśupāśa) [śabdato-by-word](śabdato) [jīvaṃ-soul](jīvaṃ) [pāśamuktaḥ-freed-from-bond](pāśamuktaḥ) [paraśśivaḥ-supreme-śiva](paraśśivaḥ)
+[beast+bond](paśu+pāśa) [by-word](śabdato) [soul](jīvaṃ) [bond+released](pāśa+muktaḥ) [supreme+śiva](paraḥ+śivaḥ)
 
 ## mukta-m0-p70-v1739
-[ādityaśca-sun-and](ādityaśca) [pa-gopāla-khagaṃ-rudraṃ-tathaiva-ca](pa) [gopāla-cowherd](gopāla) [khagaṃ-bird](khagaṃ) [rudraṃ-rudra](rudraṃ) [tathaiva-so-too](tathaiva) [ca-and](ca)
+[sun](ādityaḥ) [and](ca) [pa](pa) [cowherd+bird](gopāla+khagaṃ) [rudra](rudraṃ) [likewise](tathaiva) [and](ca)
 
 ## mukta-m0-p70-v1740
-[prāpte-in-arrived](prāpte) [kaliyuge-in-kali-age](kaliyuge) [ghore-terrible](ghore) [naṣṭe-destroyed](naṣṭe) [dagdhe-burnt](dagdhe) [ca-and](ca) [vā-or](vā) [punaḥ-again](punaḥ)
+[having-arrived](prāpte) [in-kali+age](kali+yuge) [terrible](ghore) [destroyed](naṣṭe) [burned](dagdhe) [and](ca) [or](vā) [again](punaḥ)
 
 ## mukta-m0-p70-v1741
-[āghrāraviṃdantu-fragrant-lotus](āghrāraviṃdantu) [vedaśvānaśśanaiśśanaiḥ-by-vedas-slowly](vedaśvānaśśanaiśśanaiḥ)
+[smelling+lotus](āghrā+raviṃdan) [indeed](tu) [veda+horses](veda+śvānaḥ) [slowly+slowly](śanaiḥ+śanaiḥ)
 
 ## mukta-m0-p70-v1742
-[śubhaṃ-auspicious](śubhaṃ) [ca-and](ca) [aśubhaṃ-inauspicious](aśubhaṃ) [cāva-and-also](cāva) [aśubhaṃ-inauspicious](aśubhaṃ) [śubhavāhanam-auspicious-vehicle](śubhavāhanam)
+[auspicious](śubhaṃ) [and](ca) [inauspicious](aśubhaṃ) [and](ca) [indeed](ava) [inauspicious](aśubhaṃ) [auspicious+vehicle](śubha+vāhanam)
 
 ## mukta-m0-p70-v1743
-[caṃdrārkavacchinnau-moon-and-sun-cut](caṃdrārkavacchinnau) [caiva-and-indeed](caiva) [sarvadevāśca-all-gods-and](sarvadevāśca) [meva-ca-me-too](meva) [ca-and](ca)
+[moon+sun+like](caṃdra+arka+vat) [cut-off](chinnau) [and](ca) [indeed](eva) [all+gods](sarva+devāḥ) [and](ca) [indeed](eva) [and](ca)
 
 ## mukta-m0-p70-v1744
-[trayodaśīm-amāvāsyāyāṃ-on-thirteenth-and-new-moon](trayodaśīmamāvāsyāyāṃ) [māghamāse-in-māgha-month](māghamāse) [caturdaśī-fourteenth](caturdaśī)
+[thirteenth-day](trayodaśīm) [on-new-moon-day](amāvāsyāyāṃ) [in-māgha+month](māgha+māse) [fourteenth-day](caturdaśī)
 
 ## mukta-m0-p70-v1745
-[caturdaśī-fourteenth](caturdaśī) [śivāṃ-śivā](śivāṃ) [proktā-declared](proktā) [amāvāsyā-new-moon](amāvāsyā) [svayaṃ-oneself](svayaṃ) [śivaḥ-śiva](śivaḥ)
+[fourteenth-day](caturdaśī) [auspicious](śivāṃ) [declared](proktā) [new-moon-day](amāvāsyā) [himself](svayaṃ) [śiva](śivaḥ)
 
 ## mukta-m0-p70-v1746
-[japena-by-japa](japena) [devatā-deity](devatā) [nityaṃ-daily](nityaṃ) [pūryamānaṃ-being-filled](pūryamānaṃ) [prasīdati-is-pleased](prasīdati)
+[by-recitation](japena) [deity](devatā) [always](nityaṃ) [being-filled](pūryamānaṃ) [becomes-pleased](prasīdati)
 
 ## mukta-m0-p70-v1747
-[yakṣarākṣasa-yakṣa-rākṣasa](yakṣarākṣasa) [paiśāca-paiśāca](paiśāca) [grahassarpādi-graha-serpent-etc](grahassarpādi) [bhīṣaṇā-terrifying](bhīṣaṇā)
+[yakṣa+rākṣasa+paiśāca](yakṣa+rākṣasa+paiśāca) [planet+serpent+etc.](grahaḥ+sarpa+ādi) [terrifying](bhīṣaṇāḥ)
 
 ## mukta-m0-p70-v1748
-[vakṣyāmi-i-will-speak](vakṣyāmi) [śivarātriṃ-śivarātri](śivarātriṃ) [syāt-may-be](syātpūjayenmuni) [pūjayen-should-worship](pūjayen) [muni-sage](muni) [sattama-best](sattama)
+[I-shall-tell](vakṣyāmi) [śiva+night](śiva+rātriṃ) [should-be](syāt) [one-should-worship](pūjayet) [sage+best](muni+sattama)
 
 ## mukta-m0-p70-v1749
-[yuge-in-age](yuge) [yuge-tu-in-age-indeed](yuge) [tu-indeed](tu) [saṃpūjya-having-worshipped](saṃpūjya) [tretāyāṃ-in-tretā](tretāyāṃ) [tu-indeed](tu) [guhaṃ-guha](guhaṃ) [yajet-should-sacrifice](yajet)
+[in-age+in-age](yuge+yuge) [indeed](tu) [having-worshipped](saṃpūjya) [in-tretā](tretāyāṃ) [but](tu) [guha](guhaṃ) [one-should-worship](yajet)
 
 ## mukta-m0-p70-v1750
-[brahmendre-brahma-indra](brahmendre) [ṛṣibhiścaiva-by-sages-and-indeed](ṛṣibhiścaiva) [kaliyuge-in-kali-age](kaliyuge) [tu-indeed](tu) [samarcayet-should-worship](samarcayet)
+[by-brahmā+indra](brahma+indre) [by-sages](ṛṣibhiḥ) [and](ca) [indeed](eva) [in-kali+age](kali+yuge) [but](tu) [one-should-worship](samarcayet)
