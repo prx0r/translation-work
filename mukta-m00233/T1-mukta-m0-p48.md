@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p48-v1176
-[left-forehead](vāmabhāle) [indeed](tu) [left-eye](vāmanetre) [at-puṭa-end](puṭāntake)
+[left](vāma)[forehead](bhāle) [indeed](tu) [left](vāma)[eye](netre) [corner-of-eye](puṭāntake)
 
 ## mukta-m0-p48-v1177
-[oblique-shank](tiraścīnajaṅghaḥ) [this](ayam) [in-excessive-bend](atibhaṅge) [indeed](tu) [not-otherwise](nānyathā)
+[oblique](tiraścīna)[thigh](jaṅghaḥ)[this](ayam)[in-excessive-bending](atibhaṅge) [but](tu) [not](na)[otherwise](anyathā)
 
 ## mukta-m0-p48-v1178
-[let-fall](pātayet) [not](nā) [above-navel](nābherūrdhvam) [as-before](prāgvat) [here](iha) [also](api) [and](ca)
+[one-should-place](pātayet)[from-navel](nābheḥ)[upward](ūrdhvaṃ) [as-before](prākvat)[here](iha)[also](api) [and](ca)
 
 ## mukta-m0-p48-v1179
-[elbow](korparaḥ) [left](vāmaḥ) [from-hiccup](hikkātaḥ) [eighteen-angulas](aṣṭādaśāṅgulaḥ)
+[elbow](korparaḥ) [left](vāmaḥ) [from-collarbone](hikkātaḥ)[eighteen](aṣṭādaśa)[aṅgulas](aṅgulaḥ)
 
 ## mukta-m0-p48-v1180
-[hip-region](kaṭīdeśa) [dependent](avalambī) [or](vā) [left-other-hand](vāmetarakaraḥ) [becomes](bhavet)
+[hip](kaṭī)[region](deśa)[hanging](avalambī) [or](vā) [left](vāma)[other](itara)[hand](karaḥ) [should-be](bhavet)
 
 ## mukta-m0-p48-v1181
-[goddess](devī) [pendulous-left-hand](lambavāmakarā) [becomes](bhavet)
+[goddess](devī) [hanging](lamba)[left](vāma)[hand](karā) [should-be](bhavet)
 
 ## mukta-m0-p48-v1182
-[naṭeśvara](naṭeśvaraḥ) [four-armed](caturbāhuḥ) [three-eyed](triṇetraḥ) [moon-crested](candraśekharaḥ)
+[lord-of-dance](naṭeśvaraḥ)[four](catur)[armed](bāhuḥ)[three](tri)[eyed](netraḥ)[moon](candra)[crested](śekharaḥ)
 
 ## mukta-m0-p48-v1183
-[sun-angula](sūryāṅgulam) [or](vā) [of-thread](sūtrasya) [pendant](lambanam) [then](tu) [atha](atha) [is-said](kathyate)
+[twelve](sūrya)[aṅgulas](aṅgulaṃ) [or](vā) [of-thread](sūtrasya) [hanging](lambanaṃ) [now](tu)[then](atha) [is-stated](kathyate)
 
 ## mukta-m0-p48-v1184
-[in-middle](madhye) [on-left-ankle](savyagulphe) [let-fall](pātayet)
+[bhyaḥ)](bhyo)) [thus](tathā) [in-middle](madhye) [right](savya)[ankle](gulphe) [and](ca) [one-should-place](pātayet)
 
 ## mukta-m0-p48-v1185
-[other-hand-tip](parakarāgram) [that](tat) [fifty-eight-angulas](aṣṭapañcāśadaṅgulaiḥ)
+[other](para)[hand](kara)[tip](agraṃ) [that](tat)[fifty-eight](aṣṭapañcāśat)[aṅgulas](aṅgulaiḥ)
 
 ## mukta-m0-p48-v1186
-[forty](catvāriṃśadbhiḥ) [eighth-parts](aṣṭāṃśaiḥ) [ear-boundary](karṇasīmā) [equal](samaḥ)
+[with-forty](catvāriṃśadbhiḥ)[eight-parts](aṣṭāṃśaiḥ) [ear](karṇa)[limit](sīmā)[equal](samaḥ)[(bha? da)yam]((bha? da)yam)
 
 ## mukta-m0-p48-v1187
-[spread-matted-hair](prasāritajaṭābhāraḥ) [slightly](kiñcit) [smiling-faced](prahasitānanaḥ)
+[spread-out](prasārita)[matted-hair](jaṭā)[mass](bhāraḥ) [slightly](kiñcit) [smiling](prahasita)[faced](ānanaḥ)
 
 ## mukta-m0-p48-v1188
-[by-gaṇas](gaṇaiḥ) [divine-sages](devarṣi) [yakṣas](yakṣa) [etc](ādyaiḥ) [vighneśa](vighneśa) [skanda](skanda) [mātṛs](mātṛbhiḥ)
+[by-gaṇas](gaṇaiḥ)[divine-sages](devarṣi)[yakṣas](yakṣa)[and-others](ādyaiḥ)[by-Vighneśa](vighneśa)[Skanda](skanda)[Mātṛs](mātṛbhiḥ)
 
 ## mukta-m0-p48-v1189
-[sounding](nādayan) [nandī](nandī) [well-seated](sūpaviṣṭaḥ) [four-armed](caturbhujaḥ)
+[roaring](nādayan) [Nandī](nandī) [well-seated](sūpaviṣṭaḥ)[four](catur)[armed](bhujaḥ)
 
 ## mukta-m0-p48-v1190
-[standing-right-foot](sthitadakṣiṇapādaḥ) [would-be](syāt) [bent-other-lotus-foot](kuñcitānyapadāmbujaḥ)
+[standing](sthita)[right](dakṣiṇa)[foot](pādaḥ) [should-be](syāt) [bent](kuñcita)[other](anya)[lotus-foot](padāmbujaḥ)
 
 ## mukta-m0-p48-v1191
-[at-navel-region](nābhideśāt) [right](dakṣiṇe) [two-angulas](dvyaṅgule) [then](tataḥ)
+[from-navel](nābhi)[region](deśāt) [to-the-right](dakṣiṇe) [two](dvi)[aṅgulas](aṅgule) [from-there](tataḥ)
 
 ## mukta-m0-p48-v1192
-[body-turned-aside](sācīkṛtaśarīraḥ) [would-be](syāt) [left-shoulder](vāmāṃśa) [bent](avanata) [then](tataḥ)
+[slightly-bent](sācīkṛta)[body](śarīraḥ) [should-be](syāt) [left](vāma)[shoulder](aṃśa)[bent](avanata)[extended](ātataḥ)(?)
 
 ## mukta-m0-p48-v1193
-[with-left-upper-hand](vāmordhvakareṇa) [deer](hariṇam) [holding](dadhat)
+[left](vāma)[raised](ūrdhva)[hand](kareṇa) [deer](hariṇaṃ) [holding](dadhat)
 
 ## mukta-m0-p48-v1194
-[by-ascetics](munibhiḥ) [worshipped](vanditaḥ) [becomes](bhavet)
+[by-Cāraṇas](cārayaiḥ)[and](ca) [by-sages](munibhiḥ)[worshipped](vanditaḥ) [should-be](bhavet)
 
 ## mukta-m0-p48-v1195
-[tripurāntaka](tripurāntakaḥ) [form](davaḥ) [would-be](syāt) [vaiśākha-stance](vaiśākhasthānaka) [endowed](anvitaḥ)
+[Tripurāntaka](tripurāntaka)[form](davaḥ) [should-be](syāt) [Vaiśākha](vaiśākha)[stance](sthāna)[endowed-with](kānvitaḥ)
 
 ## mukta-m0-p48-v1196
-[by-rāma-veda-arrows](rāmavedeṣumātraiḥ) [would-be](syāt) [bow-measure](natimāna) [in-three](triṣu) [in-order](kramāt)
+[three](rāma)[four](veda)[five](iṣu)[measures](mātraiḥ) [should-be](syāt)[bending](nati)[measure](mānaṃ) [in-three](triṣu) [in-order](kramāt)
 
 ## mukta-m0-p48-v1197
-[pināka-bearing](sapinākaḥ) [hand](karaḥ) [left](vāmaḥ) [armpit-high](kakṣāntoccaḥ) [other-hand](karaḥ) [aparaḥ]
+[with-Pināka](sapinākaḥ) [hand](karaḥ) [left](vāmaḥ) [armpit](kakṣa)[end](anta)[high](uccaḥ) [hand](karaḥ)[other](aparaḥ)
 
 ## mukta-m0-p48-v1198
-[goddess](devī) [left-side](vāmapārśve) [standing](sthitā) [becomes](bhavet)
+[goddess](devī) [left](vāma)[side](pārśve) [standing](sthitā) [should-be](bhavet)
 
 ## mukta-m0-p48-v1199
-[at-puṭa-end](puṭānte) [and](ca) [in-hiccup-middle](hikkāmadhye) [and](ca) [right](dakṣiṇe)
+[at-corner-of-eye](puṭānte) [and](ca) [at-collarbone-middle](hikkāmadhye) [and](ca) [on-the-right](dakṣiṇe)
 
 ## mukta-m0-p48-v1200
-[of-lord](devasya) [desiring-to-go](gantukāmasya) [fire](pāvakam)
+[of-the-god](devasya) [desiring-to-go](gantukāmasya) [fire](pāvakam)
