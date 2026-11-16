@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p43-v1051
-[therefore](tasmāt) [better-seeking](śreyas+arthibhiḥ) [always](nityam) [worship-worthy](pūjanīyaḥ) [teacher](guruḥ) [always](sadā)
+[therefore](tasmāt) [by-those-desiring-welfare](śreyārthibhiḥ) [always](nityam) [to-be-worshipped](pūjanīyaḥ) [guru](guruḥ) [always](sadā)
 
 ## mukta-m0-p43-v1052
-[tithi-nakshatra-yoga](tithinakṣatrayogāḥ) [and](ca) [favorable-other](itarānukūlam) [indeed](eva) [and](ca)
+[lunar-day](tithi) [constellation](nakṣatra) [conjunctions](yogāḥ) [and](ca) [other](itara) [favorable](anukūlam) [indeed](eva) [and](ca)
 
 ## mukta-m0-p43-v1053
-[eastward](pūrveṇa) [to-brahma](brahmaṇe) [should-do](kuryāt) [kshatriya-northward](kṣatriyasyottareṇa) [but](tu)
+[in-the-east](pūrveṇa) [for-a-brahmin](brahmaṇe) [one-should-do](kuryāt) [of-a-kṣatriya](kṣatriyasya) [in-the-north](uttareṇa) [but](tu)
 
 ## mukta-m0-p43-v1054
-[for-brahmin](brāhmaṇe) [sweet-taste](madhurāsvādā) [astringent](kaṣāyā) [for-kshatriya](kṣatriyasya) [but](tu)
+[for-a-brahmin](brāhmaṇe) [sweet-tasting](madhurāsvādā) [astringent](kaṣāyā) [of-a-kṣatriya](kṣatriyasya) [but](tu)
 
 ## mukta-m0-p43-v1055
-[ghee-scent-for-twice-born](ājyagandhādvije) [earth](bhūmiḥ) [red-scent](raktagandhā) [but](tu) [for-kshatriya](kṣatriye)
+[from-ghee-smell](ājyagandhāt) [for-a-twice-born](dvije) [earth](bhūmiḥ) [blood-smell](raktagandhā) [but](tu) [for-a-kṣatriya](kṣatriye)
 
 ## mukta-m0-p43-v1056
-[examining](parīkṣya) [skillful](nipuṇaḥ) [earth](bhūmiṃ) [vara-yoga-rite-knower](vārayogavidhānavit)
+[having-examined](parīkṣya) [skilled](nipuṇaḥ) [ground](bhūmim) [knowing-rules-of-water-and-conjunction](vāra+yoga+vidhāna+vit)
 
 ## mukta-m0-p43-v1057
-[horas-drekkana](horāddrekkāṇi) [degrees](aṃśāḥ) [and](ca) [star](tārā) [and-indeed](caiva) [strength-weakness](balābalam)
+[horā](horāt) [drekkāṇa](drekkāṇi) [divisions](aṃśāḥ) [and](ca) [star](tārā) [and](ca) [indeed](eva) [strength-and-weakness](balābalam)
 
 ## mukta-m0-p43-v1058
-[if](yadi) [is](syāt) [worldly](laukikaḥ) [goddess](devi) [time-knowledge](kālajñānam) [not](na) [knows](jānati)
+[if](yadi) [it-may-be](syāt) [worldly-person](laukikaḥ) [O-goddess](devi) [knowledge-of-time](kālajñānam) [not](na) [knows](jānati)
 
 ## mukta-m0-p43-v1059
-[then](tataḥ) [worship](saṃpūjya) [lord-of-gods](deveśam) [mark](lakṣayet) [and](ca) [in-order](kramāt) [wise](budhaḥ)
+[then](tataḥ) [having-worshipped](saṃpūjya) [lord-of-gods](deveśam) [should-observe](lakṣayet) [and](ca) [in-order](kramāt) [wise-one](budhaḥ)
 
 ## mukta-m0-p43-v1060
-[having-marked](lakṣayitvā) [by-rite](vidhānena) [teacher](ācāryaḥ) [well-composed](susamāhitaḥ)
+[having-observed](lakṣayitvā) [according-to-rule](vidhānena) [teacher](ācāryaḥ) [well-composed](susamāhitaḥ)
 
 ## mukta-m0-p43-v1061
-[song-instrument-sound-proclamation](gītavādyaravodghoṣam) [victory-sound-accompanied](jayaśabdasamanvitam)
+[song](gīta) [instrument](vādya) [sound](rava) [uproar](udghoṣam) [accompanied-by-victory-cry](jaya+śabda+samanvitam)
 
 ## mukta-m0-p43-v1062
-[earthly](bhaumāni) [these](etāni) [sounds](śabdāni) [celestial](antarikṣāḥ) [declared](prakīrtitāḥ)
+[earthly](bhaumāni) [these](etāni) [sounds](śabdāni) [atmospheric](antarikṣāḥ) [are-declared](prakīrtitāḥ)
 
 ## mukta-m0-p43-v1063
-[smooth-lightning-vine-pleasant](snigdhavidyullatāramyam) [all-prosperity-making](sarvasaṃpatkaram) [auspicious](śubham)
+[pleasant-with-smooth-lightning-creepers](snigdha+vidyul+latā+ramyam) [bringing-all-prosperity](sarva+saṃpat+karam) [auspicious](śubham)
 
 ## mukta-m0-p43-v1064
-[crow-old-moving-owl-dog-cat-cry](kākavṛddhacalolūkaśvānamārjārakūjitam)
+[crow](kāka) [vulture](vṛddha) [jackal](cala) [owl](ulūka) [dog](śvāna) [cat](mārjāra) [crying](kūjitam)
 
 ## mukta-m0-p43-v1065
-[of-these-and-indeed](eteṣāñcaiva) [which-sound](yaśśabda) [praised](praśastam) [tu](tu) [auspicious](śobhane)
+[of-these](eteṣām) [and](ca) [indeed](eva) [which](yaḥ) [sound](śabdaḥ) [not-praiseworthy](apraśastam) [but](tu) [O-beautiful-one](śobhane)
 
 ## mukta-m0-p43-v1066
-[dig-knee-measure](khātayejjānumātram) [tu](tu) [dust-raising](pāṃsumuddhṛtya) [fill](pūrayet)
+[one-should-dig](khātayet) [knee-deep](jānumātram) [but](tu) [having-removed](uddhṛtya) [soil](pāṃsum) [one-should-fill](pūrayet)
 
 ## mukta-m0-p43-v1067
-[knowing](jñātvā) [earth](bhūmiḥ) [rite-knower](vidhānajñaḥ) [vastu-rite](vāstuyāgam) [sacrifice](yajet) [wise](budhaḥ)
+[having-known](jñātvā) [ground](bhūmiḥ) [knower-of-procedure](vidhānajñaḥ) [vāstu-rite](vāstuyāgam) [should-perform](yajet) [wise-one](budhaḥ)
 
 ## mukta-m0-p43-v1068
-[vastu-rite](vāstuyāga) [remembered](smṛtaḥ) [indeed-this](hyeṣaḥ) [then](tataḥ) [of-earth](bhūmyām) [purification](viśodhanam)
+[vāstu-rite](vāstuyāgaḥ) [remembered](smṛtaḥ) [indeed](hi) [this](eṣaḥ) [then](tataḥ) [on-the-ground](bhūmyām) [purification](viśodhanam)
 
 ## mukta-m0-p43-v1069
-[sprinkle](secayet) [with-panchagavya](pañcagavyena) [that](tām) [earth](bhūmiṃ) [well-examined](suparīkṣitām)
+[one-should-sprinkle](secayet) [with-five-products-of-cow](pañcagavyena) [that](tām) [ground](bhūmim) [well-examined](suparīkṣitām)
 
 ## mukta-m0-p43-v1070
-[enclose](koṣṭayet) [firm](sudṛḍhām) [earth](bhūmiṃ) [low-high-devoid](nimnonnatavivarjitām)
+[one-should-divide-into-plots](koṣṭayet) [very-firm](sudṛḍhām) [ground](bhūmim) [free-from-depressions-and-elevations](nimna+unnata+vivarjitām)
 
 ## mukta-m0-p43-v1071
-[equal](samaṃ) [everywhere](sarvatra) [to-be-done](kartavyam) [earth-portion](bhūmibhāgam) [this](idam) [auspicious](śubham)
+[level](samam) [everywhere](sarvatra) [to-be-made](kartavyam) [ground-portion](bhūmi+bhāgam) [this](idam) [auspicious](śubham)
 
 ## mukta-m0-p43-v1072
-[for-man](puruṣāya) [not](na) [to-be-done](kartavyam) [brick](iṣṭakam) [clay](mṛṇmayam) [and](ca) [or](vā)
+[for-a-person](puruṣāya) [not](na) [to-be-made](kartavyam) [brick](iṣṭakam) [made-of-clay](mṛṇmayam) [and](ca) [or](vā)
 
 ## mukta-m0-p43-v1073
-[thus](evaṃ) [having-done](kṛtvā) [then](tataḥ) [goddess](devi) [vishnu-earth-taking](viṣṇubhūmiparigraham)
+[thus](evam) [having-done](kṛtvā) [then](tataḥ) [O-goddess](devi) [taking-possession-of-viṣṇu’s-ground](viṣṇu+bhūmi+parigraham)
 
 ## mukta-m0-p43-v1074
-[panchanga](pañcāṅgam) [and](ca) [shiva](śivam) [having-sacrificed](yaṣṭvā) [offer](juhuyāt) [eight-hundred](aṣṭaśatam) [in-order](kramāt)
+[five-limbed](pañcāṅgam) [and](ca) [śiva](śivam) [having-worshipped](yaṣṭvā) [one-should-offer-oblation](juhuyāt) [eight-hundred](aṣṭaśatam) [in-order](kramāt)
 
 ## mukta-m0-p43-v1075
-[seat-om-accompanied](pīṭhoṅkārasamāyuktam) [worship](pūjayeta) [ganesha](gaṇeśvaram)
+[seat](pīṭhaḥ) [joined-with-oṃkāra](oṅkāra+samāyuktam) [one-should-worship](pūjayeta) [lord-of-gaṇas](gaṇeśvaram)

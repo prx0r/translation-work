@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p07-v151
-[they](te) [and-also-end](cāpyante) [great-fortunate-ones](mahābhāgāḥ) [by-order-worshipped](krama+ārādyāḥ) [Indra](śacī+patiḥ)
+[they](te) [and+are-attained](cāpyante) [great+fortunate](mahābhāgāḥ) [order+beginning+and+śacī+lord](kramārādyāśśacīpatiḥ)
 
 ## mukta-m0-p07-v152
-[mantra-difference](mantra+bheda) [originators](praṇetāraḥ) [mantra-compilers](mantra+kalpa+karāḥ) [also](tathā)
+[mantra+division](mantrabheda) [proclaimers](praṇetāraḥ) [mantra+ritual-makers](mantrakalpakarāḥ) [and+thus](tathā)
 
 ## mukta-m0-p07-v153
-[name-difference](nāma+bheda) [enumerated](prasaṃkhyātam) [worshipping](ārādhya) [supreme-lord](parama+īśvaram)
+[name+division+enumerated](nāmabhedaprasaṃkhyātam) [having-worshipped](ārādhya) [supreme+lord](parameśvaram)
 
 ## mukta-m0-p07-v154
-[host-difference](gaṇa+guhyaka+bhedaiḥ) [and](ca) [Rudra-difference](rudra+bhedaiḥ) [ca](ca) [named](saṃjñitam)
+[group+secret+division+and](gaṇaguhyakabhedaiśca) [rudra+division+and](rudrabhedaiśca) [named](saṃjñitam)
 
 ## mukta-m0-p07-v155
-[again](punaḥ) [also](ca+eva) [declared](samākhyātā) [lost](naṣṭā) [tenfold](daśa+vidhāḥ) [also](tathā)
+[again+and+indeed](punaścaiva) [proclaimed](samākhyātāḥ) [lost](naṣṭāḥ) [ten+kinds+and+thus](daśavidhāstathā)
 
 ## mukta-m0-p07-v156
-[therein](tasmin) [mantras](mantrāḥ) [declared](samākhyātāḥ) [listen](śrūyatām) [fair-lady](vara+varṇinī)
+[in-that](tasmin) [mantras](mantrāḥ) [proclaimed](samākhyātāḥ) [may-be-heard](śrūyatām) [O-beautiful-one](varavarṇini)
 
 ## mukta-m0-p07-v157
-[fifty-one](eka+pañcāśatam) [and](ca+eva) [also](tathā) [seventy-seven](sapta+saptatiḥ)
+[fifty-one+and](ekapañcāśatañcaiva) [and+thus](tathā) [indeed](vai) [seventy-seven](saptasaptatiḥ)
 
 ## mukta-m0-p07-v158
-[victory](vijaye) [tu](tu) [declared](samākhyātam) [therein](tasmin) [Brahma](brahmā) [tu](tu) [initiated](dīkṣitaḥ)
+[in-vijaya](vijaye) [but](tu) [proclaimed](samākhyātam) [in-that](tasmin) [brahmā](brahmā) [but](tu) [initiated](dīkṣitaḥ)
 
 ## mukta-m0-p07-v159
-[eight](aṣṭau) [ca](ca+eva) [tu](tu) [lakhs](lakṣāṇi) [ten](daśabhiḥ) [mandalas](maṇḍalaiḥ) [situated](sthitam)
+[eight+and](aṣṭaucaiva) [but](tu) [lakṣas](lakṣāṇi) [with-ten](daśabhiḥ) [circles+established](maṇḍalaisthitam)
 
 ## mukta-m0-p07-v160
-[Shukra](śukraḥ) [Kubera](kuberaḥ) [Varuna](varuṇaḥ) [Yama](yamaḥ) [ca](ca+eva) [Ashvins](aśvinau) [api](api)
+[śukra](śukraḥ) [kubera](kuberaḥ) [varuṇa](varuṇaḥ) [yama+and](yamaścaiva) [aśvins+also](aśvināvapi)
 
 ## mukta-m0-p07-v161
-[in-breath](niśvāse) [tu](tu) [other](pare) [tantra](tantre) [told](kathitam) [your](tava) [beautiful-one](śobhane)
+[in-niśvāsa](niśvāse) [but](tu) [in-other](pare) [tantra](tantre) [told](kathitam) [to-you](tava) [O-beautiful-one](śobhane)
 
 ## mukta-m0-p07-v162
-[hundred](śatam) [one](ekam) [and](tathā) [ca](ca) [another](anyam) [mantras](mantrāṇām) [enumeration](parisaṃkhyayā)
+[hundred+one](śatamekam) [and+thus](tathā) [another](cānyam) [of-mantras](mantrāṇām) [by-count](parisaṃkhyayā)
 
 ## mukta-m0-p07-v163
-[seven-vidyas](sapta+vidyā) [tantra](tantram) [and](tathā) [Svayambhuva](svāyaṃbhuvam) [iti](iti) [ca](ca)
+[seven+vidyādhara](saptavidyādharam) [tantra](tantram) [and+thus](tathā) [self-born+and](svāyaṃbhuvetica)
 
 ## mukta-m0-p07-v164
-[creatures](prajānām) [lords](patayaḥ) [ca](ca+eva) [and](tathā) [Brahma-sons](brahma+sutāḥ) [ca](ca) [ye](ye)
+[of-creatures+lords+and](prajānāmpatayaścaiva) [and+thus](tathā) [brahma+sons+and](brahmasutāśca) [who](ye)
 
 ## mukta-m0-p07-v165
-[yakshas](yakṣa) [rakshasas](rākṣasa) [gandharvas](gandharvāḥ) [pishachas](piśāca) [serpents](uraga) [kinnaras](kinnarāḥ)
+[yakṣa+rākṣasa+gandharvas](yakṣarākṣasagandharvāḥ) [piśāca+uraga+kinnaras](piśācoragakinnarāḥ)
 
 ## mukta-m0-p07-v166
-[thousand](sahasram) [one](ekam) [mantras](mantrāṇām) [thirty](triṃśadbhiḥ) [mandalas](maṇḍalaiḥ) [situated](sthitam)
+[thousand+one](sahasramekam) [of-mantras](mantrāṇām) [with-thirty](triṃśadbhiḥ) [circles+established](maṇḍalaiḥsthitam)
 
 ## mukta-m0-p07-v167
-[obstruction](gāta+rodhe) [houses](gṛhāḥ) [ca](ca+eva) [and](ye) [ca](ca) [obstacles](vighna+ādayaḥ) [hosts](gaṇāḥ)
+[in-gātarodha](gātarodhe) [houses+and](gṛhāścaiva) [who](ye) [and](ca) [obstacles-etc+groups](vighnādayogaṇāḥ)
 
 ## mukta-m0-p07-v168
-[eleven](ekādaśa) [thousands](sahasrāṇi) [three](trīṇi) [crores](koṭi) [ca](ca) [in-collection](saṃgrahe)
+[eleven](ekādaśa) [thousands](sahasrāṇi) [three+crores+and](koṭitrīṇica) [in-collection](saṃgrahe)
 
 ## mukta-m0-p07-v169
-[eighteen](aṣṭādaśa) [ways](vidhaiḥ) [differences](bhedaiḥ) [in-world](loke) [mantra-hosts](mantra+gaṇān) [many](bahūn)
+[eighteen](aṣṭādaśa) [kinds+with-divisions](vidhairbhedaiḥ) [in-world](loke) [mantra+groups](mantragaṇān) [many](bahūn)
 
 ## mukta-m0-p07-v170
-[spread](visarpitam) [ca](ca) [with-enlightenments](saṃbodhaiḥ) [knot](kūṭa) [arisen-causes](udbhūta+kāraṇaiḥ)
+[spread+and](visarpitañca) [with-awakenings](saṃbodhaiḥ) [kūṭa+arisen+causes](kūṭamudbhūtakāraṇaiḥ)
 
 ## mukta-m0-p07-v171
-[here](atra) [your](te) [sages](ṛṣayaḥ) [siddhas](siddhāḥ) [balakhilyas](balakhilyāḥ) [austerities](tapo+dhanāḥ)
+[here](atra) [those](te) [sages+and+siddhas](ṛṣayaṃssiddhāḥ) [bala+khilyas](balakhilyāstapodhanāḥ)
 
 ## mukta-m0-p07-v172
-[by-this](anena) [ca](ca+eva) [siddhanta](siddhānte) [gods](devāḥ) [vai](vai) [humans](mānava+ādayaḥ)
+[by-this+and](anenacaiva) [in-teaching](siddhānte) [gods](devāḥ) [indeed](vai) [humans-etc](mānavādayaḥ)
 
 ## mukta-m0-p07-v173
-[crore](koṭiḥ) [one](ekam) [thousand](sahasram) [ca](ca) [mantra-mandala-twenty](mantra+maṇḍala+viṃśakam)
+[crore+one](koṭirekam) [thousand+and](sahasrañca) [mantra+circle+twenty](mantramaṇḍalaviṃśakam)
 
 ## mukta-m0-p07-v174
-[five-hundred](pañca+śata) [mantras](mantra+śatāḥ) [known](jñeyāḥ) [four-formed](catur+mūrti) [established](vyavasthitāḥ)
+[five+mantra+hundreds](pañcamantraśatāḥ) [to-be-known](jñeyāḥ) [four+form+arranged](caturmūrtivyavasthitāḥ)
 
 ## mukta-m0-p07-v175
-[reed-inner](nalāntar) [matrka](mātṛ) [arrangements](kalpaiḥ) [ca](ca) [by-sages](ṛṣibhiḥ) [served](sevyate) [always](sadā)
+[nala+inner+mātṛ+kalpas+and](nalāntarmātṛkalpaiśca) [by-sages](ṛṣibhiḥ) [served](sevyate) [always](sadā)
