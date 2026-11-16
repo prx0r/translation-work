@@ -2,19 +2,19 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p39-v951
-[primordial-nature+principle](prakṛtitattvasya) [agency+establishing](kartṛtvasādhane) [example+scarcity+like](dṛṣṭāntadaurlabhyavat) [not+here](na+atra) [thus](iti) [meaning](bhāvaḥ)
+[of-primal-nature+principle](prakṛtitattvasya) [in-establishing+agency](kartṛtvasādhane) [like-scarcity+of-example](dṛṣṭāntadaurlabhyavat) [not+here+thus](nātreti) [is-the-meaning](bhāvaḥ)
 
 ## mukta-m0-p39-v952
-[he](saḥ) [creator](kartā) [worldly+from](laukikebhyaḥ) [but](tu) [creators+from](kartṛbhyaḥ) [would-be](syāt) [distinct](vilakṣaṇaḥ)
+[that](sa) [agent](kartā) [from-worldly+but](laukikebhyastu) [agents](kartṛbhyaḥ) [would-be+distinct](syādvilakṣaṇaḥ)
 
 ## mukta-m0-p39-v953
-[unlimited+power](aparicchinnasāmarthyaḥ) [effect+of](kāryasya) [conformity+because-of](ānuguṇyatvataḥ)
+[of-unlimited+power](aparicchinna+sāmarthyaḥ) [of-the-effect](kāryasya) [suitability+because-of](anuguṇatva+taḥ)
 
 ## mukta-m0-p39-v954
-[thus](iti) [unlimited+world+of](aparicchinnajagataḥ) [unlimited+power](aparicchinnasāmarthyaḥ) [indeed](eva) [creator](kartā) [thus](iti) [meaning](bhāvaḥ)
+[thus](iti) [of-unlimited+universe](aparicchinna+jagataḥ) [of-unlimited+power](aparicchinna+sāmarthyaḥ) [alone](eva) [agent](kartā) [thus](iti) [is-the-meaning](bhāvaḥ)
 
 ## mukta-m0-p39-v955
-[therefore](ataḥ) [him](taṃ) [with-whole-being](sarvabhāvena) [take-refuge](śaraṇīkuru) [always](sarvadā)
+[therefore](atastaṃ) [with-whole+being](sarva+bhāvena) [take-refuge](śaraṇīkuru) [always](sarvadā)
 
 ## mukta-m0-p39-v956
 [meaning](bhāvaḥ)
@@ -23,55 +23,55 @@
 [propitiated](prasāditaḥ)
 
 ## mukta-m0-p39-v958
-[faith](viśvāsaḥ) [non-deceit+because-of](akāpaṭyāt) [with-whole-being](sarvabhāvena)
+[faith](viśvāsaḥ) [due-to-non-deceit](akāpaṭyāt) [with-whole+being](sarva+bhāvena)
 
 ## mukta-m0-p39-v959
-[this](eṣaḥ) [world+lord](lokeśvaraḥ) [god](devaḥ) [properly](samyak) [by-whom](yena) [propitiated](prasāditaḥ)
+[this](eṣa) [world+lord](loka+īśvaraḥ) [god](devaḥ) [properly](samyag) [by-whom](yena) [is-propitiated](prasāditaḥ)
 
 ## mukta-m0-p39-v960
-[with-whole-self](sarvātmanā) [body+speech+mind+by](kāyavāṅmanobhiḥ) [propitiated](prasāditaḥ) [thus](iti) [connection](sambandhaḥ) [for-welfare](śreyase) [for-happiness](sukhāya)
+[with-whole+self](sarvātmanā) [by-body+speech+minds](kāya+vāṅ+manobhiḥ) [propitiated](prasāditaḥ) [thus](iti) [connection](sambandhaḥ) [for-welfare](śreyase) [for-happiness](sukhāya)
 
 ## mukta-m0-p39-v961
-[men](puruṣāḥ) [indeed](hi) [lords](īśvarāḥ) [in-world](loke) [and](ca) [unstable](anavasthāḥ) [not-affectionate](avatsalāḥ)
+[human](puruṣāḥ) [indeed](hi) [lords](īśvarāḥ) [in-the-world](loke) [and](ca) [unstable](anavasthāḥ) [not-affectionate](avatsalāḥ)
 
 ## mukta-m0-p39-v962
-[necessarily](niyatā) [thus](iti) [says](āha) [men](puruṣāḥ) [thus](iti)
+[as-fixed](niyatā) [thus](iti) [says](āha) [humans](puruṣāḥ) [thus](iti)
 
 ## mukta-m0-p39-v963
-[fruit+attainment](phalaprāptiḥ) [would-be](bhavet) [indeed](eva) [thus](iti) [ellipsis](śeṣaḥ)
+[attainment+of-fruit](phala+prāptiḥ) [would-be](bhavet) [indeed](eva) [thus](iti) [is-to-be-supplied](śeṣaḥ)
 
 ## mukta-m0-p39-v964
-[unstable](anavasthaḥ) [if](cet) [by-him+done](tatkṛtā) [world+course](lokayātrā) [orderly](vyavasthitā) [not](na) [would-be](bhavet) [thus](iti) [meaning](bhāvaḥ)
+[if-unstable](anavasthaḥ) [then](cet) [by-him+done](tat+kṛtā) [world+course](loka+yātrā) [orderly](vyavasthitā) [not](na) [would-be](bhavet) [thus](iti) [is-the-meaning](bhāvaḥ)
 
 ## mukta-m0-p39-v965
-[therefore](tasmāt) [this](eṣaḥ) [compassion+ocean](dayāsindhuḥ) [well-ordered](suvyavasthaḥ) [and](ca) [proclaimed](kīrtitaḥ)
+[therefore](tasmāt) [this](eṣa) [compassion+ocean](dayā+sindhuḥ) [and-well-ordered](su+vyavasthaḥ) [and](ca) [is-declared](kīrtitaḥ)
 
 ## mukta-m0-p39-v966
 [meaning](bhāvaḥ)
 
 ## mukta-m0-p39-v967
-[in-welfare](śreyasi) [you](tvāṃ) [may-engage](yojayet) [he](saḥ) [you](tvaṃ) [not](na) [devotion+to-him](tatparatāṃ) [go](vraja)
+[in-welfare](śreyasi) [you](tvāṃ) [may-he-join](yojayet) [he](saḥ) [you](tvaṃ) [not](na) [devotion+to-that](tat+paratāṃ) [go](vraja)
 
 ## mukta-m0-p39-v968
 [doubt](śaṅkā) [inserted](prakṣiptā) [to-be-known](jñeyā)
 
 ## mukta-m0-p39-v969
-[without-cause](nirhetukaṃ) [but](tu) [occasional](kvācitkaṃ) [that](tat) [true+worship](satyopāsanaṃ) [would-be](bhavet)
+[without-cause](nirhetukaṃ) [but](tu) [occasional](kvācitkaṃ) [that](tat) [true+worship](satya+upāsanaṃ) [would-be](bhavet)
 
 ## mukta-m0-p39-v970
-[desireless+worship](niṣkāmopāsanaṃ) [true+worship](satyopāsanam) [true+fruit+endowed+because-of](satyaphalasahitatvāt)
+[desireless+worship](niṣkāma+upāsanaṃ) [true+worship](satya+upāsanam) [due-to-being-endowed+with-true+fruit](satya+phala+sahitatvāt)
 
 ## mukta-m0-p39-v971
-[sometimes](kadācit) [by-compassion+possessed](dayayāviṣṭaḥ) [news](vārtti) [his](tasya) [may-liberate](vimocayet)
+[sometime](kadācit) [by-compassion+possessed](dayayā+āviṣṭaḥ) [affair](vārtti) [of-him](tasya) [may-release](vimocayet)
 
 ## mukta-m0-p39-v972
-[this](etat) [indeed](eva) [worldly+example+by](laukikadṛṣṭāntena) [establishes](upapādayati) [seen](dṛṣṭam) [this](etat) [thus](iti)
+[this](etat) [indeed](eva) [by-worldly+example](laukika+dṛṣṭāntena) [establishes](upapādayati) [is-seen](dṛṣṭam) [this](etat) [thus](iti)
 
 ## mukta-m0-p39-v973
-[thus](evam) [indeed](eva) [wealth+seekers+of](arthārthinaḥ) [also](api) [limited](mitaṃ) [and](ca) [uncertain](aniyataṃ) [fruit](phalam)
+[thus](evam) [indeed](eva) [of-wealth+seekers](artha+arthinaḥ) [also](api) [limited](mitaṃ) [and](ca) [uncertain](aniyataṃ) [fruit](phalam)
 
 ## mukta-m0-p39-v974
-[fruit+non-attainment+because-of](phalāprāpteḥ) [and](ca) [thus](iti) [meaning](bhāvaḥ)
+[of-non-attainment+of-fruit](phala+aprāpteḥ) [and](ca) [thus](iti) [is-the-meaning](bhāvaḥ)
 
 ## mukta-m0-p39-v975
-[limited+lord](miteśvaraḥ) [also](api) [unstable](avyavasthaḥ) [on-him+dependent](tadadhīnaḥ) [becomes](bhavati) [strength](balam)
+[of-limited+lord](mita+īśvaraḥ) [also](api) [unstable](avyavasthaḥ) [dependent+on-him](tat+adhīnaḥ) [becomes](bhavat) [strength](balam)
