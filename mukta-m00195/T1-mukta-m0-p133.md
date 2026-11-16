@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p133-v3301
-[pleasing+making](rucikaraṃ) [with+fragrance](sāmodaṃ) [and](ca) [mind+delighting](manoharam)
+[ruci-karaṃ](rucikaraṃ) [sa-āmodaṃ](sāmodaṃ) [ca](ca) [mano-haram](manoharam)
 
 ## mukta-m0-p133-v3302
-[to-be-given](deyāḥ) [then](tataḥ) [one-should-worship](arcayet)
+[deyāḥ](deyāḥ) [tataḥ](tataḥ) [arcayet](arcayet) [evam](evam)
 
 ## mukta-m0-p133-v3303
-[vatasa+tree](vatsa+vṛkṣasya) [and](ca) [indeed](tu) [bark](valkalam)
+[vatsa-vṛkṣasya](vatsavṛkṣasya) [ca](ca) [tu](tu) [valkalam](valkalam)
 
 ## mukta-m0-p133-v3304
-[bindu](binduḥ) [and](ca) [eight+fragrance+named](aṣṭa+gandha+abhidhānaḥ) [to-gods+dear](devatā+priyaḥ)
+[binduḥ](binduḥ) [ca](ca) [aṣṭa-gandha-abhidhānaḥ](aṣṭagandhābhidhāno) [devatā-priyaḥ](devatāpriyaḥ)
 
 ## mukta-m0-p133-v3305
-[one-should-do](kuryāt) [this](etat) [rite](karma) [not](na) [one-should-neglect](lopayet)
+[kuryāt](kuryāt) [etat](etat) [karma](karma) [na](na) [lopayet](lopayet)
 
 ## mukta-m0-p133-v3306
-[with-liquids](dravaiḥ) [or](vā) [if-absence](athā+bhāve) [offering-of-water](tarpaṇam) [one-should-perform](ācaret)
+[dravaiḥ](dravaiḥ) [vā](vā) [atha](atha) [abhāve](abhāve) [tarpaṇam](tarpaṇam) [ācaret](ācaret)
 
 ## mukta-m0-p133-v3307
-[of-kaulika+and-vāmana](kaulika+vāmānāṃ) [mantra+gods](mantra+devāḥ) [from-fatigue+afflicted](śrama+āturāḥ)
+[kaulika-vāmānām](kaulikavāmānāṃ) [mantra-devāḥ](mantradevāḥ) [śrama-āturāḥ](śramāturāḥ) [smṛtāḥ](smṛtāḥ)
 
 ## mukta-m0-p133-v3308
-[and](ca) [to-devotees](bhaktebhyaḥ) [mantras](mantrāḥ) [they-give](yacchanti) [that](tam) [without](vinā)
+[ca](ca) [bhaktebhyaḥ](bhaktebhyo) [mantrāḥ](mantrā) [yacchanti](yacchanti) [tam](taṃ) [vinā](vinā)
 
 ## mukta-m0-p133-v3309
-[in-left](vāme) [minor-ones](kṣudrāḥ) [also](api) [by-consideration](vicārataḥ)
+[vāme](vāme) [kṣudrāḥ](kṣudrā) [api](api) [vicārataḥ](vicārataḥ)
 
 ## mukta-m0-p133-v3310
-[me](me) [one-by-one](eka+ekaṃ) [for-offering-of-water](tarpaṇāya) [one-should-employ](prayojayet)
+[eka-ekam](mekaikaṃ) [tu](tu) [tarpaṇāya](tarpaṇāya) [prayojayet](prayojayet)
 
 ## mukta-m0-p133-v3311
-[with-fragrance+flowers+rice-grains](gandha+puṣpa+akṣataiḥ) [worship](pūjā) [and](ca) [otherwise](anyathā) [hell](narakam) [one-goes](vrajet)
+[gandha-puṣpa-akṣataiḥ](gandhapuṣpākṣataiḥ) [pūjā](pūjā) [ca](ca) [anyathā](anyathā) [narakam](narakaṃ) [vrajet](vrajet)
 
 ## mukta-m0-p133-v3312
-[you-are-animal](paśuḥ) [indeed](tu) [you-are-not-auspicious](na+aśivaḥ) [you-are](tvaṃ) [auspicious](śivaḥ) [indeed](hi) [you-are](asi)
+[paśo](paśo) [tvaṃ](tvaṃ) [hi](hi) [na-aśivaḥ+tvaṃ](nāśivastvaṃ) [śivaḥ](śivo) [hi+asi](hyasi)
 
 ## mukta-m0-p133-v3313
-[then](tadā) [in-bliss](ānande) [therefore](tasmāt) [to-be-served](sevyam) [this](idam) [O-beloved](priye)
+[tadā](tadā) [ānande](ānande) [tasmāt](tasmāt) [sevyam](sevyam) [idam](idaṃ) [priye](priye)
 
 ## mukta-m0-p133-v3314
-[or](vā) [and](atha) [fried-cakes](vaṭakāḥ) [of-lentils](masūrāṇām) [thus](tathā) [indeed](eva) [and](ca)
+[vā](vā) [atha](atha) [vaṭakāḥ](vaṭakā) [masūrāṇām](masūrāṇāntathaiva) [tathā-eva](tathaiva) [ca](ca)
 
 ## mukta-m0-p133-v3315
-[one-should-make](kuryāt) [with-meat+fish](māṃsa+matsyābhyām) [without](vinā) [with-substance](dravyeṇa) [worship](pūjanam)
+[kuryāt](kuryāt) [māṃsa-matsyābhyām](māṃsamatsyābhyāṃ) [vinā](vinā) [dravyeṇa](dravyeṇa) [pūjanam](pūjanam)
 
 ## mukta-m0-p133-v3316
-[of-goddess+state](devatā+bhāvaḥ) [otherwise](anyathā) [ghost+conception](preta+vibhāvanam)
+[devatā-bhāvaḥ](devatābhāvaḥ) [anyathā](anyathā) [preta-vibhāvanam](pretavibhāvanam) [bhavet](bhavet)
 
 ## mukta-m0-p133-v3317
-[by-Vaiśya](vaiśyaiḥ) [in-gola+offering](gola+ambhane) [to-be-drunk](peyam) [by-Śūdra](śūdraiḥ) [in-woman+sexual-act](strī+rati+karmaṇi)
+[vaiśyaiḥ](vaiśyaiḥ) [go-lambhane](golambhane) [peyam](peyaṃ) [śūdraiḥ](śūdraiḥ) [strī-rati-karmaṇi](strīratikarmaṇi)
 
 ## mukta-m0-p133-v3318
-[remembering](smaran) [one-should-drink](pibet) [liquor](madyaṃ) [one-should-eat](khādet) [meat](māsaṃ) [not](na) [fault+possessor](doṣa+bhāk)
+[smaran](smaran) [pibet](piben) [madyaṃ](madyaṃ) [khādet](khāden) [māsaṃ](māsaṃ) [na](na) [doṣa-bhāk](doṣa-bhāk)
 
 ## mukta-m0-p133-v3319
-[honey+meats](madhu+māṃsāni) [for-satisfaction](tṛptaye) [if](cet) [saḥ](saḥ) [sinner](pātakī)
+[madhu-māṃsāni](madhumāṃsāni) [tṛptaye](tṛptaye) [cet](cet) [saḥ](sa) [pātakī](pātakī)
 
 ## mukta-m0-p133-v3320
-[without](vinā) [elsewhere](anyatra) [saḥ](saḥ) [great+sinner](mahā+pātakī) [would-be](bhavet)
+[vinā](vinā) [anyatra](anyatra) [saḥ](sa) [mahā-pātakī](mahāpātakī) [bhavet](bhavet)
 
 ## mukta-m0-p133-v3321
-[of-Kaulas](kaulānāṃ) [at-worship+end](pūjā+ante) [not](na) [to-be-blamed](vigarhitam)
+[kaulānām](kaulānāṃ) [pūjā-ante](pūjānte) [na](na) [vigarhitam](vigarhitam)
 
 ## mukta-m0-p133-v3322
-[they-are-poured-out](niṣicyante) [and](ca) [otherwise](anyathā) [fallen](patitaḥ) [one-becomes](bhavet)
+[niṣavyante](niṣavyante) [ca](ca) [anyathā](anyathā) [patitaḥ](patito) [bhavet](bhavet)
 
 ## mukta-m0-p133-v3323
-[from-drinking](pānāt) [of-goddess+curse](devatā+śāpam) [one-obtains](āpnuyāt)
+[pānāt](pānāt) [devatā-śāpam](devatāśāpam) [naraḥ](naraḥ) [āpnuyāt](āpnuyāt)
 
 ## mukta-m0-p133-v3324
-[on-that+shoulder](tat+skandhe) [pyre](citāṃ) [to-bind](veṣṭuṃ) [having-set-out](samudyataḥ)
+[tat-skandhe](tatskandhe) [citām](citāṃ) [veṣṭum](veṣṭuṃ) [samudyataḥ](samudyataḥ)
 
 ## mukta-m0-p133-v3325
-[by-Indra](śakreṇa) [quickly](tūrṇam) [extinguished](nirvāpitaḥ) [with-waters](jalaiḥ)
+[śakreṇa](śakreṇa) [tūrṇam](tūrṇa) [nirvāpitaḥ](nirvāpito) [jalaiḥ](jalaiḥ)

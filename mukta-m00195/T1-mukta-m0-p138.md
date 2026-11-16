@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p138-v3426
-[sky-wanderer](vyomacarī)+[pleased](prītā) [always](sadā)+[let-be](astu) [to-me](me)
+[sky-wanderer+pleased](vyomacarīprītā) [always](sadā) [be](astu) [to-me](me)
 
 ## mukta-m0-p138-v3427
-[seventeen](saptadaśa)+[syllabled](akṣaraḥ) [mantra](mantraḥ) [is](asti) [this](ayam)
+[seventeen+syllabled](saptadaśākṣaraḥ)
 
 ## mukta-m0-p138-v3428
-[nether-world](pātāla)+[surface](tala)+[dwelling](saṃsthāḥ)+[and](ca) [śiva](śiva)+[yoga](yogena) [contemplated](bhāvitāḥ)
+[nether-world+surface+dwelling](pātālatalasaṃsthāḥ) [and](ca) [śiva+yoga](śivayogena) [contemplated](bhāvitāḥ)
 
 ## mukta-m0-p138-v3429
-[let-them-be-satisfied](tṛpyantu) [pleased](prīta)+[minded](manasaḥ) [beings](bhūtāḥ) [let-them-accept](gṛhṇantu)+[this](imam) [offering](balim)
+[be-satisfied](tṛpyantu) [pleased+minded](prītamanasaḥ) [beings](bhūtāḥ) [accept](gṛhṇantu) [this](imam) [offering](balim)
 
 ## mukta-m0-p138-v3430
-[all](sarva)+[services](upacāra)+[accompanied-by](sahitam)+[this](imam) [worship](pūjā)+[offering](balim) [one-should-say](vadet)
+[all+services+accompanied](sarvopacārasahitam) [this](imam) [worship+offering](pūjābalim) [should-say](vadet)
 
 ## mukta-m0-p138-v3431
-[of-kṣetrapāla](kṣetrapālasya) [declared](samproktaḥ) [all](sarva)+[siddhi](siddhi)+[accomplishing](vidhāyakaḥ)
+[of-kṣetrapāla](kṣetrapālasya) [declared](samproktaḥ) [all+accomplishment+effecting](sarvasiddhividhāyakaḥ)
 
 ## mukta-m0-p138-v3432
-[offering](bali)+[by-giving](dānena) [all](sarva)+[protection](rakṣāṃ) [let-him-make](karotu) [for-me](me)
+[offering+giving](balidānena) [all+protection](sarvarakṣām) [may-do](karotu) [for-me](me)
 
 ## mukta-m0-p138-v3433
-[bhairava](bhairava)+[presided-over](adhiṣṭhita)+[āyākṣa](āyākṣaḥ) [one-should-say](vadet)+[thus](iti)
+[bhairava+presided](bhairavādhiṣṭhita) [imperishable](ayākṣaḥ) [should-say](vadet) [thus](iti)
 
 ## mukta-m0-p138-v3434
-[to-the-great-kṣetrapāla](mahākṣetrapālāya) [vauṣaṭ](vauṣaḍ) [hum](hum)+[thus](iti)
+[to-great-kṣetrapāla](mahākṣetrapālāya) [vauṣaṭ](vauṣaḍ) [hum](hum) [thus](iti)
 
 ## mukta-m0-p138-v3435
-[of-kṣetrapāla](kṣetrapālasya) [great](mahā)+[pleasure](prīti)+[causing](karaḥ) [supreme](paraḥ)
+[of-kṣetrapāla](kṣetrapālasya) [great+pleasure+causing](mahāprītikaraḥ) [supreme](paraḥ)
 
 ## mukta-m0-p138-v3436
-[this](imāṃ) [worship](pūjā)+[offering](balim)+[thereafter](ataḥ) [supreme](param)
+[this](imām) [worship+offering](pūjābalim) [thereafter](ataḥ) [supreme](param)
 
 ## mukta-m0-p138-v3437
-[rājarājeśvara](rājarājeśvara)+[named](ākhyasya) [of-the-deity](daivatasya) [in-worship](samarcane)
+[of-rājarājeśvara+named](rājarājeśvarākhyasya) [of-deity](daivatasya) [in-worship](samarcane)
 
 ## mukta-m0-p138-v3438
-[may-he-be-pleased](prasīdatu) [always](sarvadā)
+[be-pleased](prasīdatu) [always](sarvadā)
 
 ## mukta-m0-p138-v3439
-[one-should-give](dadyāt) [to-kṣetrapāla](kṣetrapālāya) [on-the-right](dakṣiṇe)
+[should-give](dadyāt) [to-kṣetrapāla](kṣetrapālāya) [on-the-right](dakṣiṇe)
 
 ## mukta-m0-p138-v3440
-[thumb](aṃguṣṭha)+[ring-finger](anāmikābhyām)+[indeed](tu) [of-baṭuka](baṭukasya) [should-be](bhavet)+[offering](baliḥ)
+[with-thumb+ring-finger](aṃguṣṭhānāmikābhyām) [but](tu) [of-baṭuka](baṭukasya) [should-be](bhavet) [offering](baliḥ)
 
 ## mukta-m0-p138-v3441
-[with-fingers](aṃgulībhiḥ)+[and](ca) [with-all](sarvābhiḥ)+[one-should-give](dadyāt)+[being-offering](bhūta)+[offering](balim) [twice-born](dvijaḥ)
+[with-fingers](aṃgulībhiḥ) [and](ca) [with-all](sarvābhiḥ) [should-give](dadyāt) [being+offering](bhūtabalim) [twice-born](dvijaḥ)
 
 ## mukta-m0-p138-v3442
-[thumb](aṃguṣṭha)+[middle-finger](madhyamābhyāṃ) [indeed](tu) [of-rājarājeśvara](rājarājeśvarasya) [and](ca)
+[with-thumb+middle-finger](aṃguṣṭhamadhyamābhyām) [but](tu) [of-rājarājeśvara](rājarājeśvarasya) [and](ca)
 
 ## mukta-m0-p138-v3443
-[with-well-ground-paste](supiṣṭena) [one-should-make](kuryāt)+[four](veda)+[finger](aṃgula)+[elevated](unnatān)
+[with-well-ground-paste](supiṣṭena) [should-make](kuryāt) [four+finger+high](vedāṃgulonnatān)
 
 ## mukta-m0-p138-v3444
-[karṣa](karṣa)+[ghee](ājya)+[receiving](grāhiṇaḥ) [one-should-make](kuryāt)+[nine](nava) [seven](sapta)+[or](atha) [five](pañca) [and](ca)
+[karṣa+ghee+holding](karṣājyagrāhiṇaḥ) [should-make](kuryāt) [nine](nava) [seven](sapta) [or](atha) [five](pañca) [and](ca)
 
 ## mukta-m0-p138-v3445
-[family](kula)+[lamp](dīpaṃ) [one-should-offer](nivedayet)
+[family+lamp](kuladīpam) [should-offer](nivedayet)
 
 ## mukta-m0-p138-v3446
-[o-goddess](devi) [accept](gṛhāṇa) [my](mama) [for-success](siddhaye)
+[o-goddess](devi) [accept](gṛhāṇa) [for-my](mama) [for-accomplishment](siddhaye)
 
 ## mukta-m0-p138-v3447
-[guru](guru)+[foot](pāda)+[dust](rajaḥ)+[relishing](joṣī) [faith](śraddhā)+[devotion](bhakti)+[endowed-with](samanvitaḥ)
+[guru+foot+dust+enjoying](gurupādarajojoṣī) [faith+devotion+endowed](śraddhābhaktisamanvitaḥ)
 
 ## mukta-m0-p138-v3448
-[one-should-drink](pibet)+[wine](madyam) [and](ca)+[thus](iti) [of-scripture](śāstrasya) [conclusion](niścayaḥ)
+[should-drink](pibet) [wine](madyam) [and](ca) [thus](iti) [of-scripture](śāstrasya) [conclusion](niścayaḥ)
 
 ## mukta-m0-p138-v3449
 [fruitless](niṣphalam) [of-him](tasya) [deity](devatā) [not](na) [is-pleased](prasīdati)
 
 ## mukta-m0-p138-v3450
-[khaṭakī](khaṭakī) [and](ca)+[indeed](eva) [kaivartī](kaivartī) [universal](viśva)+[womb](yonikā)
+[khaṭakī](khaṭakī) [and](ca) [indeed](eva) [kaivartī](kaivartī) [universal+womb+born](viśvayonikā)
