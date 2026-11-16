@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p253-v6301
-[may-he-us](tanno) [hero](vīraḥ) [may-impel](pracodayāt)
+[to-us](tat+naḥ) [hero](vīraḥ) [may-impel](pracodayāt) [filler](* * * * * * * *)
 
 ## mukta-m0-p253-v6302
-[may-he-us](tanno) [brāhmī](brāhmī) [may-impel](pracodayāt)
+[to-us](tat+naḥ) [brahman-feminine](brāhmī) [may-impel](pracodayāt) [filler](* * * * * * * *)
 
 ## mukta-m0-p253-v6303
-[may-he-us](tannaśśaṃkari) [śaṃkarī](śaṃkari) [may-impel](pracodayāt)
+[to-us](tat+naḥ) [auspicious-one](śaṃkarī) [may-impel](pracodayāt) [filler](* * * * * * * *)
 
 ## mukta-m0-p253-v6304
-[may-he-us](tannaḥ) [kaumārī](kaumārī) [may-impel](pracodayāt)
+[to-us](tat+naḥ) [kaumārī](kaumārī) [may-impel](pracodayāt) [filler](* * * * * * * *)
 
 ## mukta-m0-p253-v6305
-[may-he-us](tanno) [vaiṣṇavī](vaiṣṇavī) [may-impel](pracodayāt)
+[to-us](tat+naḥ) [vaiṣṇavī](vaiṣṇavī) [may-impel](pracodayāt) [filler](* * * * * * * *)
 
 ## mukta-m0-p253-v6306
-[may-he-us](tanno) [vārāhī](vārāhī) [may-impel](pracodayāt)
+[to-us](tat+naḥ) [vārāhī](vārāhī) [may-impel](pracodayāt) [filler](* * * * * * * *)
 
 ## mukta-m0-p253-v6307
-[may-he-us](tanno) [indrāṇī](indrāṇī) [may-impel](pracodayāt)
+[to-us](tat+naḥ) [indra's-wife](indrāṇī) [may-impel](pracodayāt) [filler](* * * * * * * *)
 
 ## mukta-m0-p253-v6308
-[may-he-us](tannaścāmuṇḍī) [cāmuṇḍī](cāmuṇḍī) [may-impel](pracodayet)
+[to-us](tat+naḥ) [cāmuṇḍā](cāmuṇḍī) [may-impel](pracodayet) [filler](* * * * * * * *)
 
 ## mukta-m0-p253-v6309
-[may-he-us](tanno) [bhairava](bhairavaḥ) [may-impel](pracodayāt)
+[to-us](tat+naḥ) [bhairava](bhairavaḥ) [may-impel](pracodayāt) [filler](* * * * * * * *)
 
 ## mukta-m0-p253-v6310
-[may-he-us](tanno) [mayūra](mayūraḥ) [may-impel](pracodayāt)
+[to-us](tat+naḥ) [peacock](mayūraḥ) [may-impel](pracodayāt) [filler](* * * * * * * *)
 
 ## mukta-m0-p253-v6311
-[may-he-us](tannaḥ) [skanda](skandaḥ) [may-impel](pracodayāt)
+[to-us](tat+naḥ) [skanda](skandaḥ) [may-impel](pracodayāt) [filler](* * * * * * * *)
 
 ## mukta-m0-p253-v6312
-[may-he-us](tanno) [gaja-indra](gajendraḥ) [may-impel](pracodayāt)
+[to-us](tat+naḥ) [lord-of-elephants](gajendraḥ) [may-impel](pracodayāt) [filler](* * * * * * * *)
 
 ## mukta-m0-p253-v6313
-[may-he-us](tanno) [nandī](nandī) [may-impel](pracodayāt)
+[to-us](tat+naḥ) [nandī](nandī) [may-impel](pracodayāt) [filler](* * * * * * * *)
 
 ## mukta-m0-p253-v6314
-[may-he-us](tannaścaṇḍaḥ) [caṇḍa](caṇḍaḥ) [may-impel](pracodayāt)
+[to-us](tat+naḥ) [caṇḍa](caṇḍaḥ) [may-impel](pracodayāt) [filler](* * * * * * * *)
 
 ## mukta-m0-p253-v6315
-[may-he-us](tannaścaṇḍī) [caṇḍī](caṇḍī) [may-impel](pracodayāt)
+[to-us](tat+naḥ) [caṇḍī](caṇḍī) [may-impel](pracodayāt) [filler](* * * * * * * *)
 
 ## mukta-m0-p253-v6316
-[may-he-us](tanno) [haṃsa](haṃsaḥ) [may-impel](pracodayāt)
+[to-us](tat+naḥ) [hamsa](haṃsaḥ) [may-impel](pracodayāt) [filler](* * * * * * * *)
 
 ## mukta-m0-p253-v6317
-[may-he-us](tanno'nantaḥ) [ananta](anantaḥ) [may-impel](pracodayāt)
+[to-us](tat+naḥ) [ananta](anantaḥ) [may-impel](pracodayāt) [filler](* * * * * * * *)
 
 ## mukta-m0-p253-v6318
-[may-he-us](tanno) [rudra](rudraḥ) [may-impel](pracodayāt)
+[to-us](tat+naḥ) [rudra](rudraḥ) [may-impel](pracodayāt) [filler](* * * * * * * *)
 
 ## mukta-m0-p253-v6319
-[may-he-us](tannaḥ) [śiva](śivaḥ) [may-impel](pracodayāt)
+[to-us](tat+naḥ) [śiva](śivaḥ) [may-impel](pracodayāt) [filler](* * * * * * * *)
 
 ## mukta-m0-p253-v6320
-[filler](*) [filler](*) [filler](*) [filler](*) [filler](*) [filler](*) [filler](*) [filler](*) [filler](*) [thus](iti) [pāśupata-weapon](pāśupatāstram)
+[filler](* * * * * * * *) [iti](iti) [pāśupata-weapon](pāśupatāstram)
 
 ## mukta-m0-p253-v6321
-[om](oṃ) [flare-forth](prasphura) [flare-forth](prasphura) [fierce-fiercer](ghoraghoratara) [body-form](tanurūpa) [crackle](caṭacaṭa)
+oṃ prasphura prasphura ghoraghorataratanurūpa caṭacaṭa
 
 ## mukta-m0-p253-v6322
-[strike](ghātaya) [strike](ghātaya) [thus-aghora-weapon](ityaghorāstram)
+ghātaya ghātaya | ityaghorāstram
 
 ## mukta-m0-p253-v6323
-[thus](iti) [pāśupata-weapon](pāśupatāstram) [filler](*) [filler](*) [filler](*) [filler](*) [filler](*) [filler](*) [filler](*) [filler](*) [filler](*)
+iti pāśupatāstram * * * * * * * *
 
 ## mukta-m0-p253-v6324
-[kaṭirudra-speech-ordinance](kaṭirudravacanavidhāri) [protect-me](rakṣamāṃ) [toward-limb](pratyaṃgi) [redha](redhāma) [svāhā](svāhā)
+kaṭirudravacanavidhāri rakṣamāṃ pratyaṃgiredhāma svāhā |
 
 ## mukta-m0-p253-v6325
-[thus-pratyaṅgirā-weapon](itipratyaṃgirāstram) [filler](*) [filler](*) [filler](*) [filler](*) [filler](*)
+iti pratyaṃgirāstram * * * * * * * *
