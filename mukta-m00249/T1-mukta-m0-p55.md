@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p55-v1351
-[in-east](prācyām) [in-front](agrataḥ) [Śambhu](śaṃbhu) [not](na) [in-north](uttare) [in-woman’s-abode](yoṣitā+āśraye)
+[in-east](prācyām) [in-front](agrataḥ) [śambhu](śaṃbhu) [not](na) [in-north](uttare) [in-woman’s-abode](yoṣitā+āśraye)
 
 ## mukta-m0-p55-v1352
-[in-yogaja](yogaje) - [worship](arcanā) [in-section](prakaraṇe)
+[in-yogaja](yogaje) - [in-worship](arcanā) [in-section](prakaraṇe)
 
 ## mukta-m0-p55-v1353
-[Sadyojāta](sadyo+jātaṃ) [should-be](bhavet) [in-east](prācyāṃ) [Aghora](ghoraṃ) [and](ca) [Vāma](vāmaṃ) [as-before](pūrva+vat)
+[sadyojāta](sadyo+jātaṃ) [should-be](bhavet) [in-east](prācyāṃ) [aghora](ghoraṃ) [vāma](vāmaṃ) [and](ca) [as-before](pūrva+vat)
 
 ## mukta-m0-p55-v1354
-[first](prathamaṃ) [called-Śiva](śiva+sādākhyaṃ) [form](mūrti) [second](dvitīyakam)
+[first](prathamaṃ) [śiva-sādākhya](śiva+sādākhyaṃ) [form](mūrti) [second](dvitīyakam)
 
 ## mukta-m0-p55-v1355
-[fifth](pañcamaṃ) [called-Karma](karma+sādākhyaṃ) [fivefold-called](pañca+sādākhyaṃ) [is-said](ucyate)
+[fifth](pañcamaṃ) [karma-sādākhya](karma+sādākhyaṃ) [five-sādākhya](pañca+sādākhyam) [is-called](ucyate)
 
 ## mukta-m0-p55-v1356
-[Īśvara](īśvaraṃ) [pot-form](kuṃbha+mūrtiṃ) [and](ca) [fire-form](agni+mūrtiṃ) [and](ca) [Rudraka](rudrakā)
+[īśvara](īśvaraṃ) [pot](kuṃbha) [form](mūrtiṃ) [and](ca) [fire-form](agni+mūrtiṃ) [and](ca) [rudra](rudrakā)
 
 ## mukta-m0-p55-v1357
-[from-liṅga](liṃgāt) [that-form](tat+rūpakaṃ) [having-known](jñātvā) [one-should-arrange](kalpayet) [accomplishment](sādanaṃ) [then](tataḥ)
+[from-liṅga](liṃgāt) [its-form](tat+rūpakaṃ) [having-known](jñātvā) [one-should-arrange](kalpayet) [seat](sādanaṃ) [then](tataḥ)
 
 ## mukta-m0-p55-v1358
-[in-Ārṣa-and-Gāṇava](ārṣe+gāṇave) [O-child](vatsa) [one-should-arrange](kalpayet) [seat-triad](āsana+trayam)
+[in-ārṣa-and-gāṇava](ārṣe+gāṇave) [child](vatsa) [one-should-arrange](kalpayet) [three-seats](āsana+trayam)
 
 ## mukta-m0-p55-v1359
-[jasmine-moon-colored](kunda+indu+varṇāṃ) [boon-giving](varadāṃ) [three-eyed](triṇetrāṃ) [diadem-](koṭīra-)
+[jasmine-moon-colored](kunda+indu+varṇāṃ) [boon-giving](varadāṃ) [three-eyed](triṇetrāṃ) [in-diadem](koṭīra-)
 
 ## mukta-m0-p55-v1360
-[situated-in-middle](madhya+saṃsthāṃ) [support-power](ādhāra+śaktim) [thus](iti) [to-be-contemplated](cintya) [at-root](mūle)
+[middle](madhya) [situated](saṃsthāṃ) [support-power](ādhāra+śaktim) [thus](iti) [to-be-meditated](cintyam) [at-root](ūle)
 
 ## mukta-m0-p55-v1361
-[in-part-situated](bhāga+sthita) [by-nāgas](nāgaiḥ) [by-eight](aṣṭabhiḥ) [in-eight-directions](aṣṭa+dikṣu) [placed-](nihitai-)
+[part](bhāga) [situated](sthita) [by-nāgas](nāgaiḥ) [by-eight](aṣṭabhiḥ) [in-eight-directions](aṣṭa+dikṣu) [placed](nihitai-)
 
 ## mukta-m0-p55-v1362
-[resembling](sadṛśaṃ) [rādhū-here](rādhū-matra) [with-smoke](dhūma+trānvitam) [conch-colored](śaṅkhābha) [shining-](spha-)
+[similar](sadṛśaṃ) [rādhū-here](rādhū-matra) [with-smoke](dhūma+trānvitam) | [conch-colored](śaṃkha+ābha) [spha-](spha-)
 
 ## mukta-m0-p55-v1363
-[Ananta-seat](ra+naṃta+āsanam) [above-yoga](yogasya+upari) [saṃhya](saṃhya) * * * *
+[ananta-seat](ra+naṃta+āsanam) | [above-yoga](yogasya+upari) [saṃhya](saṃhya) * * * *
 
 ## mukta-m0-p55-v1364
-[with-ten-winds](daśa+vāyubhiḥ) [and](ca) [accompanied](sahitaṃ) [joined](yuktaṃ) [with-ten-syllables](daśa+ātma+akṣaraiḥ)
+[with-sixteen](rdaśa) [with-winds](vāyubhiḥ) [and](ca) [accompanied](sahitaṃ) [joined](yuktaṃ) [with-ten-syllables](daśa+ātma+akṣaraiḥ)
 
 ## mukta-m0-p55-v1365
 [to-be-given](dātaṃ) [and](ca) [with-vaṃ-oṃkāra](vaṃ+oṃkāreṇa) [indeed](tu) [resembling-variegated-plantain](citra+kadala+nibhaṃ-)
 
 ## mukta-m0-p55-v1366
-[upon-pericarp](karṇikā+upari) [having-placed](nidhāya) [equal-to-that](tat+samam) [Ambikā-etc.-](aṃbikā+ādi-)
+[upon-pericarp](karṇikā+upari) [having-placed](nidhāya) [equal-to-that](tat+samam) | [beginning-with-ambikā](aṃbikā+ādi-)
 
 ## mukta-m0-p55-v1367
-[support-seed-sprout-stalk](ādhāra+bīja+aṃkura+nālakaṃ) [and](ca) [in-pleasant-seats](sukha+āsaneṣu-) [conception](lpanā) [saṃprahirārdra-flowers](saṃprahirārdra+puṣpaiḥ)
+[support-seed-sprout-stalk](ādhāra+bīja+aṃkura+nālakaṃ) [and](ca) [in-pleasant-seats](sukhā+sukhāsaneṣu-)
 
 ## mukta-m0-p55-v1368
-[offering](nyavedanaṃ) [striking](tāḍana-) [of-pedestal](pīṭhasya) [by-five-limb-six-limb-name](pañca+aṃga+ṣaḍ+aṃga+nāmnā) [three-circles-](tri+maṇḍalāni-)
+[conception](lpanā) [with-offered-fresh-flowers](saṃprahira+ārdra+puṣpaiḥ) | [offering](nyavedanaṃ) [striking](tāḍana-)
 
 ## mukta-m0-p55-v1369
-[seats](sanāni) [in-ritual](karmaṇi) [Vimalā-seat](vimalā+āsanaṃ) [joined-with-worships](arcanaiḥ+yuktaṃ-)
+[of-pedestal](pīṭhasya) [by-five-limb-six-limb-names](pañca+aṃga+ṣaḍ+aṃga+nāmnā) [three-circles](tri+maṇḍalāni-)
 
 ## mukta-m0-p55-v1370
-[lion-seat](siṃha+āsanam) [thereafter](ataḥ+paraṃ) [golden](haimani) [should-be](bhavet) [hand-](akara) [dark-](śyāma-)
+[seats](sanāni) [in-ritual](karmaṇi) | [vimala-seat](vimala+āsanaṃ) [joined-with-worships](arcanaiḥ+yuktaṃ-)
 
 ## mukta-m0-p55-v1371
-[variegated-garment-cloth](vicitra+vasana+aṃbaraṃ) [endowed-with-matted-hair-crown](jaṭā+makuṭa+yuktam) [endowed-with-eyes-](akṣa+yuta-)
+[lion-seat](siṃha+āsanam) [thereafter](ataḥ+paraṃ) | [golden](haimani) [should-be](bhavet) [hand](akara) [dark](śyāma-)
 
 ## mukta-m0-p55-v1372
-[of-Keśava-form](keśava+svarūpaṃ) [of-Śiva-form](śiva+rūpam)
+[variegated-garment-cloth](vicitra+vasana+aṃbaraṃ) [endowed-with-matted-hair-crown](jaṭā+makuṭa+yuktam) [with-eyes](akṣa+yuta-)
 
 ## mukta-m0-p55-v1373
-[endowed-with-goad-and-banner-hand](dāṃkuśa+patākā+yuta+hastaṃ) [dark-boon-garment-](kṛṣṇa+varada+aṃbara-)
+[keśava-form](keśava+svarūpaṃ) | [śiva-form](śiva+rūpam)
 
 ## mukta-m0-p55-v1374
-[of-Śiva-form](śiva+rūpam) [one-faced](eka+mukha) [Veda-hand](veda+kara) [coral-colored-](vidruma+nibhaṃ-)
+[endowed-with-goad-and-banner-hand](dāṃkuśa+patākā+yuta+hastaṃ) | [dark-boon-giving-garment](kṛṣṇa+varada+aṃbara-)
 
 ## mukta-m0-p55-v1375
-[of-Śiva-form](śiva+rūpam) [one-faced](eka+mukha) [Veda-hand](veda+kara) [coral-colored](vidruma+nibhaṃ)
+[śiva-form](śiva+rūpam) | [one-faced-veda-hand](eka+mukha+veda+kara) [coral-colored](vidruma+nibhaṃ-)
