@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p53-v1301
-by-his-practice(tasyābhyāsena) constantly(satataṃ) consciousness(cidrā) sees(paśyati) earth(medinīm)
+[of-that](tasya) [by-practice](abhyāsena) [constantly](satataṃ) [consciousness-stream](cidrā) [sees](paśyati) [the-earth](medinīm)
 
 ## mukta-m0-p53-v1302
-obtains(prāpnoti) auspiciousness(subhagatvañca) at-fall-of-body(dehapāte) to-śiva(śivaṃ) goes(vrajet)
+[obtains](prāpnoti) [good-fortune](subhagatvañ) [and](ca) [at-body-fall](dehapāte) [to-Śiva](śivaṃ) [goes](vrajet)
 
 ## mukta-m0-p53-v1303
-of-śiva(śivasya) indeed(vai) he(sa) to-be-known(vijñeyaḥ) from-commonality(sāmānyatvāt) illuminator(prakāśakaḥ)
+[of-Śiva](śivasya) [indeed](vai) [he](sa) [to-be-known](vijñeyaḥ) [because-of-generality](sāmānyatvāt) [illuminator](prakāśakaḥ)
 
 ## mukta-m0-p53-v1304
-with-bindu(bindunā) accompanied(sahitenaiva) rudra-form(rudrākāraḥ) proclaimed(prakīrtitaḥ)
+[with-bindu](bindunā) [accompanied](sahitena) [indeed](eva) [Rudra-form](rudrākāraḥ) [is-proclaimed](prakīrtitaḥ)
 
 ## mukta-m0-p53-v1305
-self-willed-activity(svacchandavṛttiḥ) subtle(sūkṣmo'yaṃ) treasure(nidhānoṅkāra) called(ucyate)
+[of-independent-activity](svacchanda+vṛttiḥ) [subtle](sūkṣmaḥ) [this](ayaṃ) [as-receptacle](nidhāna) [oṃkāra](oṅkāra) [is-called](ucyate)
 
 ## mukta-m0-p53-v1306
-with-bindu(bindunā) accompanied(sahito) goddess(devi) third(tṛtīyaḥ) proclaimed(parikīrtitam)
+[with-bindu](bindunā) [accompanied](sahito) [O-goddess](devi) [third](tṛtīyaḥ) [is-declared](parikīrtitam)
 
 ## mukta-m0-p53-v1307
-from-śrīkaṇṭha-to-ananta(śrīkaṇṭhādimanantāntaṃ) rudra-oṃ(rudroṅkārassa) called(ucyate)
+[from-Śrīkaṇṭha](śrīkaṇṭha+ādi) [up-to-Ananta](ananta+antaṃ) [Rudra-oṃkāra](rudra+oṅkāraḥ) [he](sa) [is-called](ucyate)
 
 ## mukta-m0-p53-v1308
-peace-vidyā-excelling(śāntividyādhikā) accomplishment(siddhiḥ) in-death(nidhane) death-ending(nidhanāntikā)
+[of-śānti-and-vidyā](śānti+vidyā) [superior](adhikā) [accomplishment](siddhiḥ) [at-death](nidhane) [near-death](nidhanāntikā)
 
 ## mukta-m0-p53-v1309
-three-divided(tribhinnametatsakalamadhvānaṃ) proclaimed(parikīrtitam)
+[threefold-divided](tribhinnaṃ) [this](etat) [entire](sakalam) [path](adhvānaṃ) [is-declared](parikīrtitam)
 
 ## mukta-m0-p53-v1310
-by-utterance(uccāreṇa) when(yadā) deficient(hīno) bindu(binduṃ) to-niṣkala(niṣkalatāṃ) gone(gataḥ)
+[by-utterance](uccāreṇa) [when](yadā) [devoid](hīno) [bindu](binduṃ) [to-partless-state](niṣkalatāṃ) [gone](gataḥ)
 
 ## mukta-m0-p53-v1311
-auspicious-channel(saumyanāḍīti) known(vikhyātā) great-sin-destroying(mahāpātakanāśinī)
+[saumya-nāḍī](saumya+nāḍī) [thus](iti) [renowned](vikhyātā) [great-sin-destroying](mahāpātaka+nāśinī)
 
 ## mukta-m0-p53-v1312
-which-sound(yaśśabdaḥ) heard(śrūyate) goddess(devi) rudra-oṃ(rudroṃkārassa) called(ucyate)
+[which](yaḥ) [sound](śabdaḥ) [is-heard](śrūyate) [O-goddess](devi) [Rudra-oṃkāra](rudra+oṃkāraḥ) [he](sa) [is-called](ucyate)
 
 ## mukta-m0-p53-v1313
-thirty-one(ekattriṃśadvijānīyāt) śiva-oṃ(śivoṅkārastu) beyond-that(tatparaḥ)
+[thirty-first](ekattriṃśat) [one-should-know](vijānīyāt) [Śiva-oṃkāra](śiva+oṅkāraḥ) [but](tu) [beyond-that](tatparaḥ)
 
 ## mukta-m0-p53-v1314
-with-pervader(vyāpakena) united(samāyuktā) channel(nāḍī) called(proktā) delighting-men(narañjanā)
+[with-the-pervasive](vyāpakena) [united](samāyuktā) [nāḍī](nāḍī) [declared](proktā) [nirañjanā](narañjanā)
 
 ## mukta-m0-p53-v1315
-by-constant-practice-yoga(satatā'bhyāsayogena) to-practitioners(sādhakānāṃ) grants(prayacchati)
+[by-constant](satatā) [practice-yoga](abhyāsa+yogena) [of-practitioners](sādhakānāṃ) [bestows](prayacchati)
 
 ## mukta-m0-p53-v1316
-distant-hearing-knowledge(dūraśravaṇavijñānaṃ) in-all-worlds(sarvalokeṣu) spoken(bhāṣitam)
+[distant-hearing](dūra+śravaṇa) [knowledge](vijñānaṃ) [in-all-worlds](sarva+lokeṣu) [speech](bhāṣitam)
 
 ## mukta-m0-p53-v1317
-pervaded(vyāpto'ti) kāma-form(kāmarūpitvaṃ) omniscience(sarvajñatvaṃ) likewise(tathaiva) indeed(hi)
+[pervasion](vyāptaḥ) [and](ati) [form-at-will](kāma+rūpitvaṃ) [omniscience](sarvajñatvaṃ) [likewise](tathaiva) [indeed](hi)
 
 ## mukta-m0-p53-v1318
-at-end-of-bell-sound(ghaṇṭānādavirāmānte) śiva-oṃ(śivoṅkāraṃ) declared(nigadyate)
+[at-bell-sound](ghaṇṭā+nāda) [cessation-end](virāma+ante) [Śiva-oṃkāra](śiva+oṅkāraṃ) [is-spoken](nigadyate)
 
 ## mukta-m0-p53-v1319
-time-principle(kālatatvaḥ) he(sa) indeed(evokto) channel-proclaimed(nāḍīproktā) stainless(nirañjanā)
+[time-principle](kāla+tatvaḥ) [he](sa) [indeed](eva) [declared](ukto) [nāḍī](nāḍī) [proclaimed](proktā) [nirañjanā](nirañjanā)
 
 ## mukta-m0-p53-v1320
-supportless(nirālaṃbaṃ) I-will-declare(pravakṣyāmi) nine-principles-fruit-giving(navatatvaphalapradam)
+[the-supportless](nirālaṃbaṃ) [I-shall-declare](pravakṣyāmi) [nine-principle-fruit-giving](nava+tatva+phala+pradam)
 
 ## mukta-m0-p53-v1321
-afterwards(paścāttu) supreme(parametattu) nothing(na) at-all(kiñcidapi) think(cintayet)
+[afterwards](paścāt) [but](tu) [beyond-this](param) [this](etat) [not](na) [anything](kiñcid) [even](api) [one-should-think](cintayet)
 
 ## mukta-m0-p53-v1322
-thirty-two(dvāttriṃśakassamākhyāto) in-supportless-supreme(nirālaṃbe) situated(pare) sthitaḥ
+[thirty-second](dvāttriṃśakaḥ) [is-designated](samākhyāto) [in-the-supportless](nirālaṃbe) [in-the-supreme](pare) [situated](sthitaḥ)
 
 ## mukta-m0-p53-v1323
-that-knowing(taṃ) goddess(devi) accomplished(siddhyante) hundred-thousand(lakṣaitatparikīrtitam)
+[that](taṃ) [having-known](jñātvā) [O-goddess](devi) [they-attain-perfection](siddhyante) [aim](lakṣa) [this](etat) [is-declared](parikīrtitam)
 
 ## mukta-m0-p53-v1324
-accomplishment-giving(siddhidaṃ) liberation-giving(mokṣadañcaiva) thus(diṣṭantattu) contemplate(vicintayet)
+[accomplishment-giving](siddhi+daṃ) [liberation-giving](mokṣa+daṃ) [and](ca) [indeed](eva) [at-death](diṣṭantaṃ) [but](tu) [one-should-contemplate](vicintayet)
 
 ## mukta-m0-p53-v1325
-this(etanna) to-no-one(kasyaciddeyaṃ) nectar-of-knowledge(jñānāmṛtamidaṃ) auspicious(śubham)
+[this](etat) [not](na) [to-anyone](kasyacid) [to-be-given](deyaṃ) [knowledge-nectar](jñāna+amṛtam) [this](idaṃ) [auspicious](śubham)

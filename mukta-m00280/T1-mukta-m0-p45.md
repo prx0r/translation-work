@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p45-v1101
-[that+measure+purpose](tanmānārtham) [statement](vākyaṃ) [deva-chariot](devayāne) [as](yathā) [so](tathā)
+[that+measure+purpose](tanmānārtham) [this](idaṃ) [statement](vākyaṃ) [in-path-of-gods](devayāne) [as](yathā) [so](tathā)
 
 ## mukta-m0-p45-v1102
-[where](yatra) [goes](gamyati) [that](tad) [not](na) [is](asti) [not](na) [and](ca) [there](tatra) [path](pathā) [ever](kvacit)
+[where](yatra) [is-gone](gamyati) [that](tat) [not](na) [is](asti) [not](na) [and](ca) [there](tatra) [by-path](pathā) [anywhere](kvacit)
 
 ## mukta-m0-p45-v1103
-[motion](gatiḥ) [not](na) [returns](āvartate) [surely](vaśyaṃ) [far](sudūreṣu) [api](api) [by-yoga](yogataḥ)
+[going](gatir) [not](na) [returns](āvartate) [necessarily](vaśyaṃ) [in-very-distant-places](sudūreṣv) [even](api) [by-yoga](yogataḥ)
 
 ## mukta-m0-p45-v1104
-[who](yaḥ) [someone](kaścit) [pitṛ-path](pitṛyānena) [path](pathena) [tu](tu) [gone](gataḥ) [man](naraḥ)
+[whoever](yaḥ) [any](kaścit) [by-path-of-ancestors](pitṛyānena) [by-path](pathena) [indeed](tu) [gone](gato) [man](naraḥ)
 
 ## mukta-m0-p45-v1105
-[deva-chariot](devayānena) [so](saḥ) [gone](gatvā) [all-sins](sarvapāpaiḥ) [free](vivarjitaḥ)
+[by-path-of-gods](devayānena) [he](so) [having-gone](gatvā) [by-all+sins](sarvapāpair) [freed](vivarjitaḥ)
 
 ## mukta-m0-p45-v1106
-[instrument](karaṇam) [ca](ca) [eva](eva) [name](saṃjñā) [ca](ca) [ego](ahaṅkāraṃ) [tathā](tathā) [eva](eva) [ca](ca)
+[instrument](karaṇañ) [and](ca) [indeed](eva) [consciousness](saṃjñā) [and](ca) [ego](ahaṅkāraṃ) [likewise](tathaiva) [and](ca)
 
 ## mukta-m0-p45-v1107
-[lordship](aiśvaryaṃ) [ca](ca) [stated](uditaṃ) [in-scripture](śāstre) [small-being](alpasatvam) [unparalleled](anaupamam)
+[lordship](aiśvaryaṃ) [declared](coditaṃ) [in-scripture](śāstre) [small+being](alpasatvam) [incomparable](anaupamam)
 
 ## mukta-m0-p45-v1108
-[whose](yasya) [lord](īśvaraḥ) [api](api) [hopelessness](nairāśyaṃ) [hopeless](nirāśaṃ) [praised](saṃpraśasyate)
+[whose](yasyeśvaro') [lord](pi) [desirelessness](nairāśyaṃ) [free-from-hope](nirāśaṃ) [is-highly-praised](saṃpraśasyate)
 
 ## mukta-m0-p45-v1109
-[self-purpose](ātmārthe) [all-actions](sarvakāryāṇi) [hope-become](āśābhūtaḥ) [proceeds](pravartate)
+[for-self+purpose](ātmārthe) [all+actions](sarvakāryāṇi) [become-hope](āśābhūtaḥ) [proceeds](pravartate)
 
 ## mukta-m0-p45-v1110
-[so-long](tāvat) [bound](badhyati) [in-saṃsāra](saṃsāre) [until](yāvat) [hope](āśā) [not](na) [releases](muñcati)
+[so-long](tāvad) [is-bound](badhyati) [in-transmigration](saṃsāre) [as-long-as](yāvad) [hope](āśā) [not](na) [releases](muñcati)
 
 ## mukta-m0-p45-v1111
-[past](atīta) [future](anāgata) [ca](ca) [eva](eva) [present](vartamānaṃ) [tathā](tathā) [eva](eva) [ca](ca)
+[past](atītānāgatañ) [and](ca) [indeed](eva) [present](vartamānaṃ) [likewise](tathaiva) [and](ca)
 
 ## mukta-m0-p45-v1112
-[born](jātaṃ) [not](na) [is](asti) [thus](tathā) [necessarily](avaśyaṃ) [unborn](ajātaṃ) [ca](ca) [especially](viśeṣataḥ)
+[born](jātaṃ) [not](na) [is](asti) [likewise](tathā') [necessarily](vaśyaṃ) [unborn](ajātañ) [and](ca) [especially](viśeṣataḥ)
 
 ## mukta-m0-p45-v1113
-[unborn-ness](ajātatvāt) [unborn](ajaḥ) [not](na) [is](asti) [born](jātaṃ) [not](na) [is](asti) [indestructible](avināśakam)
+[from-unbornness](ajātatvād) [unborn](ajo) [not](na) [is](asti) [born](jātaṃ) [not](na) [is](asti) [indestructible](avināśakam)
 
 ## mukta-m0-p45-v1114
-[desire-root](kāmamūlaḥ) [great-tree](mahāvṛkṣaḥ) [saṃsāra](saṃsāraḥ) [sharp-thorn](tīkṣṇakaṇṭakaḥ)
+[desire+rooted](kāmamūlo) [great+tree](mahāvṛkṣaḥ) [transmigration](saṃsāras) [sharp+thorned](tīkṣṇakaṇṭakaḥ)
 
 ## mukta-m0-p45-v1115
-[desire-attachment](kāmarāgāt) [na](na) [*(lacuna)](*) [*(lacuna)](*) [*(lacuna)](*) [*(lacuna)](*) [he](saḥ) [conquers](jiṣyati) [wise](paṇḍitaḥ)
+[from-desire+passion](kāmarāgān) [not](na) [*](* ) [*](* ) [*](* ) [*](* ) [he](sa) [conquers](jiṣyati) [wise-one](paṇḍitaḥ)
 
 ## mukta-m0-p45-v1116
-[previously-stated](prāgukta) [limb-strength](aṅgabalaṃ) [all](sarvaṃ) [lightning-sight](vidyuddarśana) [like](sannibham)
+[previously+spoken+limb+strength](prāguktāṅgabalaṃ) [all](sarvaṃ) [lightning+sight+resembling](vidyuddarśanasannibham)
 
 ## mukta-m0-p45-v1117
-[therefore](tasmāt) [flaw](chidraṃ) [pure](pavitraṃ) [ca](ca) [auspicious](kṣemaṃ) [limb](aṅgulam) [eva](eva) [ca](ca)
+[therefore](tasmāc) [aperture](chidraṃ) [pure](pavitrañ) [and](ca) [welfare](kṣemam) [finger-breadth](aṅgulam) [indeed](eva) [and](ca)
 
 ## mukta-m0-p45-v1118
-[pātāla](pātālaḥ) [seven-worlds-end](saptalokāntaḥ) [all](sarvam) [this](etat) [fearful](vibhīṣikā)
+[netherworld](pātālas) [seven+world+end](saptalokāntaḥ) [all](sarvam) [this](etad) [terror](vibhīṣikā)
 
 ## mukta-m0-p45-v1119
-[not](na) [offered](hutaṃ) [not](na) [ca](ca) [given](dattam) [not](na) [other-world](paratra) [not](na) [ca](ca) [this-world](aihikam)
+[not](na) [offered](hutaṃ) [not](na) [and](ca) [or](vā) [given](dattan) [not](na) [in-other-world](paratra) [not](na) [and](ca) [in-this-world](aihikam)
 
 ## mukta-m0-p45-v1120
-[bound](bandhavyaḥ) [bond](bandhanaṃ) [ca](ca) [eva](eva) [tathā](tathā) [ca](ca) [eva](eva) [other-binder](anyabandhakaḥ)
+[to-be-bound](bandhavyo) [bondage](bandhanañ) [and](ca) [indeed](eva) [likewise](tathā) [and](ca) [indeed](eva) [other+binder](anyabandhakaḥ)
 
 ## mukta-m0-p45-v1121
-[fire-grass](agnidarbhāḥ) [ca](ca) [mantras](mantrāḥ) [ca](ca) [hotṛ](hotā) [to-be-offered](hotavyam) [eva](eva) [ca](ca)
+[fire+kuśa-grass](agnidarbhāś) [and](ca) [mantras](mantrāś) [and](ca) [priest](hotā) [to-be-offered](hotavyam) [indeed](eva) [and](ca)
 
 ## mukta-m0-p45-v1122
-[agnihotra-etc](agnihotrādayaḥ) [sacrifices](yajñāḥ) [vedas](vedāḥ) [ca](ca) [sages](ṛṣayaḥ) [tathā](tathā)
+[fire-oblation+and-others](agnihotrādayo) [sacrifices](yajñā) [Vedas](vedāś) [and](ca) [seers](ṛṣayas) [likewise](tathā)
 
 ## mukta-m0-p45-v1123
-[all](sarve) [mantra-formed](mantrātmakāḥ) [gods](devāḥ) [god](devaḥ) [mantra-group-remembered](mantragaṇasmṛtaḥ)
+[all](sarve) [mantra+natured](mantrātmakā) [gods](devā) [god](devo) [mantra+group+known-as](mantragaṇasmṛtaḥ)
 
 ## mukta-m0-p45-v1124
-[there](tatra) [mantras](mantrāṇi) [exist](vartante) [there](tatra) [to-be-known](jñeyaṃ) [pure](suniṣkalam)
+[there](tatra) [mantras](mantrāṇi) [exist](vartante) [there](tatra) [to-be-known](jñeyaṃ) [perfectly-partless](suniṣkalam)
 
 ## mukta-m0-p45-v1125
-[all](sarve) [dharmas](dharmāḥ) [oppose](virudhyante) [ultimate-truth](paramārthasya) [certainty](niścayāt)
+[all](sarve) [dharmas](dharmā) [are-contradicted](virudhyante) [supreme+meaning](paramārthasya) [by-ascertainment](niścayāt)

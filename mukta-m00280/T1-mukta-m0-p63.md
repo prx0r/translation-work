@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p63-v1551
-[eternal-śiva-support](sadāśivaśivādhāraṃ) [permanent-support-called](nityādhāreti) [named](saṃjñitam)
+[eternal-auspicious+auspicious+support](sadāśivaśivādhāraṃ) [eternal+support+thus](nityādhāreti) [named](saṃjñitam)
 
 ## mukta-m0-p63-v1552
-[thirty-three](trayastriṃśatimāvidyā) [ignorance](trayastriṃśatimāvidyā)
+[thirty-third](trayastriṃśatimā) [ignorance](avidyā) [*](* ) [*](* ) [*](* ) [*](* ) [*](* ) [*](* ) [*](*)
 
 ## mukta-m0-p63-v1553
-[beginningless-root-mud-rich](anādimūlapaṅkāḍhyaṃ) [knowledge-ocean-born](jñānatoyasamudbhavam)
+[beginningless+root+mud+filled](anādimūlapaṅkāḍhyaṃ) [knowledge+water+arisen](jñānatoyasamudbhavam)
 
 ## mukta-m0-p63-v1554
-[ten-crores](daśa) [mantras](koṭyastu) [mantras](mantrāṇāṃ) [śiva-lotus-situated](śivapadme) [established](vyavasthitāḥ)
+[ten](daśa) [crores](koṭyastu) [of-mantras](mantrāṇāṃ) [in-śiva-lotus](śivapadme) [situated](vyavasthitāḥ)
 
 ## mukta-m0-p63-v1555
-[this-path-lotus](etadadhvanapadmantu) [śiva-named](śivākhye) [all-refuge](sarvamāśritam)
+[this](etat) [path+lotus](adhvanapadmantu) [in-śiva-called](śivākhye) [all](sarvam) [resting](āśritam)
 
 ## mukta-m0-p63-v1556
-[of-puruṣas](puruṣāṇāmanantatvāt) [infinite](anantatvāt) [of-principles](tatvādīnāmanantatā) [infinity](anantatā)
+[of-souls](puruṣāṇām) [due-to-infinitude](anantatvāt) [of-principles+and-so-on](tatvādīnām) [infinitude](anantatā)
 
 ## mukta-m0-p63-v1557
-[of-bound-souls](paśūnāṃ) [of-worlds](bhuvanānāñca) [enumeration](parisaṃkhyā) [not-known](na) [is](vidyate)
+[of-bound-souls](paśūnāṃ) [of-worlds](bhuvanānāñca) [complete-enumeration](parisaṃkhyā) [not](na) [is-known](vidyate)
 
 ## mukta-m0-p63-v1558
-[beginningless](anādireṣa) [this-saṃsāra](saṃsāro) [whose-end](yasyānto) [not](na) [indeed](hi) [is-known](vidyate)
+[beginningless](anādiḥ) [this](eṣa) [transmigration](saṃsāro) [of-which](yasya) [end](antaḥ) [not](na) [indeed](hi) [is-known](vidyate)
 
 ## mukta-m0-p63-v1559
-[not](na) [of-lotus](padmasya) [measure](pramāṇo'sti) [exists](asti) [infinite](anantatvācchivasya) [of-śiva](śivasya) [but](tu)
+[not](na) [of-lotus](padmasya) [measure](pramāṇaḥ) [is](asti) [due-to-infinitude](anantatvāt) [of-śiva](śivasya) [indeed](tu)
 
 ## mukta-m0-p63-v1560
-[infinite](anantaḥ) [is-declared](khāpyate) [by-that](tena) [by-infinite](anantenatvadhiṣṭhitaḥ) [presided](adhiṣṭhitaḥ)
+[infinite](anantaḥ) [is-measured](khāpyate) [by-that](tena) [by-infinite](anantena) [presided-over](atvadhiṣṭhitaḥ)
 
 ## mukta-m0-p63-v1561
-[immeasurable](aprameyaṃ) [by-bound-soul-knowledge](paśujñānaiḥ) [by-independent](svatantre) [is-sung](gīyate) [by-arts](kalaiḥ)
+[immeasurable](aprameyaṃ) [by-bound-soul+knowledges](paśujñānaiḥ) [in-independent](svatantre) [is-sung](gīyate) [by-parts](kalaiḥ)
 
 ## mukta-m0-p63-v1562
-[doership](kartṛtvamīśvaratvañca) [īśvara-hood](īśvaratvañca) [eternally-satisfied](nityatṛptaḥ) [tranquility](praśāntatā)
+[agency](kartṛtvam) [lordship](īśvaratvañca) [eternally-satisfied](nityatṛptaḥ) [tranquility](praśāntatā)
 
 ## mukta-m0-p63-v1563
-[once](sakṛt) [everywhere](sarvatra) [existing](sat) [knowledge](jñānaṃ) [omniscience](sarvajñatvañca) [always](sarvadā)
+[at-once](sakṛt) [everywhere](sarvatra) [being](sat) [knowledge](jñānaṃ) [omniscience](sarvajñatvañca) [always](sarvadā)
 
 ## mukta-m0-p63-v1564
-[detached](viraktaḥ) [from-natural-states](prākṛtairbhāvaiḥ) [disinterest](nispṛhatvañca) [always](sarvadā)
+[detached](viraktaḥ) [from-material](prākṛtaiḥ) [states](bhāvaiḥ) [desirelessness](nispṛhatvañca) [always](sarvadā)
 
 ## mukta-m0-p63-v1565
-[with-aṇimā-etc-powers](aṇimādiguṇaissarvaiḥ) [which](yā) [powers](bhūtyastvabhighātinī) [striking](abhighātinī)
+[by-aṇimā+and-other](aṇimādi) [qualities](guṇaiḥ) [by-all](sarvaiḥ) [which](yā) [majesty](bhūtiḥ) [unobstructed](tu) [unimpeded](abhighātinī)
 
 ## mukta-m0-p63-v1566
-[not](na) [that-world-path](tadbhuvanamadhvānaṃ) [not](na) [form](rūpaṃ) [not](na) [speech](ca) [vāṅmayam](vāṅmayam)
+[not](na) [that](tat) [world](bhuvanam) [path](adhvānaṃ) [not](na) [form](rūpaṃ) [not](na) [and](ca) [verbal](vāṅmayam)
 
 ## mukta-m0-p63-v1567
-[radiant-pure](virajannirmalaṃ) [sky](vyomaṃ) [all-around](samantādanivāritam) [unobstructed](anivāritam)
+[stainless](virajat) [blemishless](nirmalaṃ) [space](vyomaṃ) [on-all-sides](samantāt) [unobstructed](anivāritam)
 
 ## mukta-m0-p63-v1568
-[heated-gold-shaped](taptacāmīkarākāraṃ) [somewhere](kvacitprāleyasannibham) [snow-like](prāleyasannibham)
+[molten+gold](tapta+cāmīkara) [appearance](ākāraṃ) [sometimes](kvacit) [snow](prāleya) [resembling](sannibham)
 
 ## mukta-m0-p63-v1569
-[moon-moon-mark-like](candracandrakasaṃkāśaṃ) [somewhere](kvacinmaratakaprabham) [emerald-radiant](maratakaprabham)
+[moon+camphor](candra+candrakasaṃ) [resembling](kāśaṃ) [sometimes](kvacit) [emerald](marataka) [radiance](prabham)
 
 ## mukta-m0-p63-v1570
-[pervading](vyāpakaṃ) [immeasurable](aprameyañca) [lotus](padmaṃ) [all](sārvaṃ) [greatly-radiant](mahojvalam)
+[pervasive](vyāpakaṃ) [immeasurable](aprameyañca) [lotus](padmaṃ) [all-beneficial](sārvaṃ) [greatly-radiant](mahojvalam)
 
 ## mukta-m0-p63-v1571
-[by-pervading](vyāpinībhiranantābhiḥ) [infinite](anantābhiḥ) [vow](vrataṃ) [nectar-powers](amṛtaśaktibhiḥ)
+[by-pervasive](vyāpinībhiḥ) [by-infinite](anantābhiḥ) [surrounded](vṛtaṃ) [by-immortal+powers](amṛtaśaktibhiḥ)
 
 ## mukta-m0-p63-v1572
-[all-pure](viśvasvacchaṃ) [great-radiance](mahātejaḥ) [own-form-infinite-splendor](svarūpānantavarcasam)
+[universe+pure](viśvasvacchaṃ) [great+splendor](mahātejaḥ) [own-nature+infinite+radiance](svarūpānantavarcasam)
 
 ## mukta-m0-p63-v1573
-[declared](pradiṣṭhāstu) [with-qualities](guṇopetāḥ) [śiva's-infinite-powers](śivasyānantaśaktayaḥ)
+[indicated](pradiṣṭhāḥ) [indeed](tu) [endowed-with-qualities](guṇopetāḥ) [of-śiva](śivasya) [infinite+powers](anantaśaktayaḥ)
 
 ## mukta-m0-p63-v1574
-[shines](śobhate) [pure](nirmalaṃ) [thread](tantu) [purely-adorned](nirmalābhilaṅkṛtam)
+[shines](śobhate) [blemishless](nirmalaṃ) [substrate](tantu) [by-blemishless](nirmalābhiḥ) [adorned](alaṅkṛtam)
 
 ## mukta-m0-p63-v1575
-[extremely-pure](atyantavimalaṃ) [peaceful-radiant](śāntabhāsvaraṃ) [lotus-petal](kamalacchadam)
+[extremely+pure](atyantavimalaṃ) [peaceful+radiant](śāntabhāsvaraṃ) [lotus+petal](kamalacchadam)

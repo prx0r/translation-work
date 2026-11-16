@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p46-v1126
-na[not] ca[and] nāsti[not-exist] kriyā[action] yajñā[sacrifice] astitve[existence] ca[and] phala[fruit]+pradāḥ[giving]
+[not](na) [and](ca) [not-exists](nāsti) [action](kriyā) [sacrifice](yajñā) [in-existence](astitve) [and](ca) [fruit+giving](phala+pradāḥ)
 
 ## mukta-m0-p46-v1127
-nā[not] pṛṣṭhaḥ[asked] kasyacid[anyone] brūyāt[speak] na[not] ca[and] anyāyena[unjustly] pṛcchitaḥ[questioned]
+[not](nā) [unasked](pṛṣṭhaḥ) [to-anyone](kasyacid) [should-speak](brūyāt) [not](na) [and](ca) [by-unjustly](anyāyena) [asked](pṛcchitaḥ)
 
 ## mukta-m0-p46-v1128
-vidito[known] yoga[yoga]+sadbhāve[true-existence] tadā[then] akṣama[unable] punar[again] gṛhī[taken]
+[known](vidito) [in-yoga+reality](yoga+sadbhāve) [then](tadā) [patient](kṣama) [not-again+householder](punar+gṛhī)
 
 ## mukta-m0-p46-v1129
-virāge[dispassion] niścayo[certainty] yasya[whose] jñeyasya[knowable] prāṅ[before] nivedayet[declare]
+[in-dispassion](virāge) [certainty](niścayo) [of-whom](yasya) [of-the-to-be-known](jñeyasya) [beforehand](prāṅ) [should-declare](nivedayet)
 
 ## mukta-m0-p46-v1130
-tasya[his] tyāgaḥ[renunciation] kṛto[done] yena[by-whom] tad[that]+virāgasya[dispassion] lakṣaṇam[mark]
+[of-him](tasya) [renunciation](tyāgaḥ) [done](kṛto) [by-whom](yena) [of-that+dispassion](tad+virāgasya) [mark](lakṣaṇam)
 
 ## mukta-m0-p46-v1131
-saspṛhe[desirous] ca[and] avarakte[attached] ca[and] duṣṭacitte[evil-minded] ajita[unconquered]+indriye[senses]
+[to-the-desirous](saspṛhe) [and](ca) [to-the-un-detached](avarakte) [and](ca) [to-the-evil+minded](duṣṭa+citte) [to-the-unconquered+senses](ajita+indriye)
 
 ## mukta-m0-p46-v1132
-tasmāt[therefore] sanyāsinaṃ[renunciant] muktvā[except] nākhyeyaṃ[not-tell] kasyacit[anyone] tvayā[by-you]
+[therefore](tasmāt) [renunciant](sanyāsinaṃ) [except](muktvā) [not+to-be-told](na+ākhyeyaṃ) [to-anyone](kasyacit) [by-you](tvayā)
 
 ## mukta-m0-p46-v1133
-siddhānte[conclusion] brūhi[speak] ko[what] doṣo[fault] gṛhasthānāṃ[householders] prakāśate[appears]
+[in-the-doctrine](siddhānte) [tell](brūhi) [what](ko) [fault](doṣo) [of-householders](gṛhasthānāṃ) [appears](prakāśate)
 
 ## mukta-m0-p46-v1134
-siddhānte[conclusion] kevalaṃ[only] jñānaṃ[knowledge] dharma[duty]+kāma[desire]+artha[wealth]+varjitam[devoid]
+[in-the-doctrine](siddhānte) [only](kevalaṃ) [knowledge](jñānaṃ) [duty+desire+wealth+devoid](dharma+kāma+artha+varjitam)
 
 ## mukta-m0-p46-v1135
-na[not] sidhyate[accomplished] ca[and] tat[that]+kāryaṃ[work] tasya[its] āraṃbho[beginning] nirarthakaḥ[useless]
+[not](na) [is-accomplished](sidhyate) [and](ca) [that+action](tat+kāryaṃ) [its+undertaking](tasya+āraṃbho) [meaningless](nirarthakaḥ)
 
 ## mukta-m0-p46-v1136
-oṣadhīn[herbs] naiva[not] sidhyeta[accomplished] mati[intellect]+grastasya[possessed] dehinaḥ[embodied]
+[herbs](oṣadhīn) [not+indeed](na+eva) [would-succeed](sidhyeta) [of-the-mind+seized](mati+grastasya) [of-the-embodied-being](dehinaḥ)
 
 ## mukta-m0-p46-v1137
-na[not] doṣo[fault] ayam[this] iyat[so-much] brūhi[speak] śrūyatāṃ[listen] kena[by-what] hetunā[reason]
+[not](na) [fault](doṣo) [this](ayam) [this-much](iyat) [tell](brūhi) [let-it-be-heard](śrūyatāṃ) [by-what](kena) [reason](hetunā)
 
 ## mukta-m0-p46-v1138
-kadācit[sometimes] yajate[sacrifices] yajñaṃ[sacrifice] tena[by-that] yajño[sacrifice] vidūṣitaḥ[corrupted]
+[sometimes](kadācid) [performs](yajate) [sacrifice](yajñaṃ) [by-that](tena) [sacrifice](yajño) [defiled](vidūṣitaḥ)
 
 ## mukta-m0-p46-v1139
-vidhi[rule]+yajña[sacrifice] pramāṇaḥ[authority] tu[but] saspṛhasya[desirous] na[not] yujyate[fit]
+[ritual+sacrifice](vidhi+yajña) [authority](pramāṇaḥ) [but](tu) [for-the-desirous](saspṛhasya) [not](na) [is-fitting](yujyate)
 
 ## mukta-m0-p46-v1140
-gṛhasthasya[householder] parityāgo[renunciation] na[not] kadācit[ever] bhaviṣyati[will-be]
+[of-the-householder](gṛhasthasya) [renunciation](parityāgo) [not](na) [ever](kadācid) [will-be](bhaviṣyati)
 
 ## mukta-m0-p46-v1141
-gṛhastho[householder] api[even] parityaktuṃ[renounce] aihikaṃ[worldly] naiva[not] śakyate[possible]
+[householder](gṛhastho) [even](api) [to-renounce](parityaktuṃ) [worldly](aihikaṃ) [not+indeed](na+eva) [is-able](śakyate)
 
 ## mukta-m0-p46-v1142
-upādānam[acquisition] tu[but] vittasya[wealth] sarva[all]+upāyena[means] kāraṇam[cause]
+[acquisition](upādāna) [but](tu) [of-wealth](vittasya) [by-every+means](sarva+upāyena) [cause](kāraṇam)
 
 ## mukta-m0-p46-v1143
-pañcasu[five] na[not] ādṛtaiḥ[regarded] doṣaiḥ[faults] gṛhīṇāṃ[householders] gṛhyate[taken] tadā[then]
+[in-the-five](pañcasu) [not-regarded](anādṛtaiḥ) [faults](doṣaiḥ) [of-householders](gṛhīṇāṃ) [is-taken](gṛhyate) [then](tadā)
 
 ## mukta-m0-p46-v1144
-na[not] sa[he] tyajati[abandons] saṃsāra[world]+lobha[greed]+moha[delusion]+tamo[darkness] vrataḥ[vow]
+[not](na) [he](sa) [abandons](tyajati) [worldly-existence+greed+delusion+darkness](saṃsāra+lobha+moha+tamo) [vow](vrataḥ)
 
 ## mukta-m0-p46-v1145
-īśāvāsyam[covered-by-Lord] idaṃ[this] sarvaṃ[all] yatkiñca[whatever] jagatāṃ[of-worlds] jagat[world]
+[by-the-Lord+to-be-enveloped](īśā+vāsyam) [this](idaṃ) [all](sarvaṃ) [whatever](yatkiñca) [of-worlds](jagatāṃ) [world](jagat)
 
 ## mukta-m0-p46-v1146
-tad[that] gṛhasthasya[householder] kiṃ[what] bāhyam[external] asmin[this] loke[world] api[even] avasthitam[situated]
+[then](tad) [of-the-householder](gṛhasthasya) [what](kiṃ) [external](bāhyam) [in-this](asmin) [world](loke) [even](api) [situated](avasthitam)
 
 ## mukta-m0-p46-v1147
-tasmāt[therefore] sundari[beautiful] tasya[his] api[even] gṛhe[house] muktir[liberation] na[not] dṛśyate[seen]
+[therefore](tasmāt) [O-beautiful-one](sundari) [of-him](tasya) [also](api) [in-house](gṛhe) [liberation](muktiḥ) [not](na) [is-seen](dṛśyate)
 
 ## mukta-m0-p46-v1148
-na[not] māyā[illusion] matsara[envy]+ādi[etc] yukto[possessed] gṛhastho[householder] api[even] na[not] sidhyati[accomplished]
+[not](na) [illusion](māyā) [envy+etc.+endowed](matsara+ādi+yukto) [householder](gṛhastho) [also](api) [not](na) [succeeds](sidhyati)
 
 ## mukta-m0-p46-v1149
-pravṛttiḥ[activity] ca[and] nivṛttiḥ[cessation] ca[and] dvividhaṃ[twofold] karma[action] kīrtitam[declared]
+[engagement](pravṛttiḥ) [and](ca) [withdrawal](nivṛttiḥ) [and](ca) [twofold](dvividhaṃ) [action](karma) [is-declared](kīrtitam)
 
 ## mukta-m0-p46-v1150
-lokasya[world] sarvato[everywhere] maunī[silent] samaḥ[equal] śāntaḥ[peaceful] samāhitaḥ[composed]
+[of-the-world](lokasya) [from-all-sides](sarvato) [silent](maunī) [equal](samaḥ) [calm](śāntaḥ) [composed](samāhitaḥ)
