@@ -11,7 +11,7 @@
 "quick_gloss": "therefore"
 },
 {
-"surface": "śreya+arthibhiḥ",
+"surface": "śreyārthibhiḥ",
 "quick_gloss": "by-those-desiring-welfare"
 },
 {
@@ -41,11 +41,11 @@
 "tokens": [
 {
 "surface": "tithi",
-"quick_gloss": "lunar-day"
+"quick_gloss": "lunar-days"
 },
 {
 "surface": "nakṣatra",
-"quick_gloss": "lunar-mansion"
+"quick_gloss": "constellations"
 },
 {
 "surface": "yogāḥ",
@@ -156,7 +156,7 @@
 },
 {
 "surface": "rakta+gandhā",
-"quick_gloss": "blood-smelling"
+"quick_gloss": "blood-smell"
 },
 {
 "surface": "tu",
@@ -181,7 +181,7 @@
 },
 {
 "surface": "nipuṇaḥ",
-"quick_gloss": "skilled-one"
+"quick_gloss": "skilled"
 },
 {
 "surface": "bhūmim",
@@ -189,7 +189,7 @@
 },
 {
 "surface": "vāra+yoga+vidhāna+vit",
-"quick_gloss": "knower-of-water-finding-method"
+"quick_gloss": "knower-of-water-finding-methods"
 }
 ]
 },
@@ -259,14 +259,14 @@
 },
 {
 "surface": "kāla+jñānam",
-"quick_gloss": "time-knowledge"
+"quick_gloss": "knowledge-of-time"
 },
 {
 "surface": "na",
 "quick_gloss": "not"
 },
 {
-"surface": "jānāti",
+"surface": "jānati",
 "quick_gloss": "knows"
 }
 ]
@@ -287,7 +287,7 @@
 "quick_gloss": "having-worshipped"
 },
 {
-"surface": "deveśam",
+"surface": "deva+īśam",
 "quick_gloss": "lord-of-gods"
 },
 {
@@ -341,24 +341,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "gīta",
-"quick_gloss": "song"
-},
-{
-"surface": "vādya",
-"quick_gloss": "instrument"
-},
-{
-"surface": "rava",
-"quick_gloss": "sound"
-},
-{
-"surface": "udghoṣam",
-"quick_gloss": "uproar"
+"surface": "gīta+vādya+rava+udghoṣam",
+"quick_gloss": "with-sound-of-song-and-instruments"
 },
 {
 "surface": "jaya+śabda+samanvitam",
-"quick_gloss": "accompanied-by-victory-cry"
+"quick_gloss": "accompanied-by-cries-of-victory"
 }
 ]
 },
@@ -400,7 +388,7 @@
 "tokens": [
 {
 "surface": "snigdha+vidyut+latā+ramyam",
-"quick_gloss": "pleasant-with-smooth-lightning-creeper"
+"quick_gloss": "delightful-with-smooth-lightning-creepers"
 },
 {
 "surface": "sarva+saṃpat+karam",
@@ -510,12 +498,8 @@
 "quick_gloss": "but"
 },
 {
-"surface": "uddhṛtya",
-"quick_gloss": "having-removed"
-},
-{
-"surface": "pāṃsum",
-"quick_gloss": "soil"
+"surface": "pāṃsum+uddhṛtya",
+"quick_gloss": "having-removed-dust"
 },
 {
 "surface": "pūrayet",
@@ -544,7 +528,7 @@
 },
 {
 "surface": "vāstu+yāgam",
-"quick_gloss": "vāstu-ritual"
+"quick_gloss": "vāstu-rite"
 },
 {
 "surface": "yajet",
@@ -565,7 +549,7 @@
 "tokens": [
 {
 "surface": "vāstu+yāgaḥ",
-"quick_gloss": "vāstu-ritual"
+"quick_gloss": "vāstu-rite"
 },
 {
 "surface": "smṛtaḥ",
@@ -631,7 +615,7 @@
 "tokens": [
 {
 "surface": "koṣṭayet",
-"quick_gloss": "one-should-level"
+"quick_gloss": "one-should-divide-into-plots"
 },
 {
 "surface": "su+dṛḍhām",
@@ -643,7 +627,7 @@
 },
 {
 "surface": "nimna+unnata+vivarjitām",
-"quick_gloss": "devoid-of-low-and-high"
+"quick_gloss": "free-from-depressions-and-elevations"
 }
 ]
 },
@@ -656,7 +640,7 @@
 "tokens": [
 {
 "surface": "samam",
-"quick_gloss": "even"
+"quick_gloss": "level"
 },
 {
 "surface": "sarvatra",
@@ -667,12 +651,12 @@
 "quick_gloss": "to-be-made"
 },
 {
-"surface": "bhūmi+bhāgam",
-"quick_gloss": "ground-portion"
-},
-{
 "surface": "idam",
 "quick_gloss": "this"
+},
+{
+"surface": "bhūmi+bhāgam",
+"quick_gloss": "ground-portion"
 },
 {
 "surface": "śubham",
@@ -688,8 +672,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "puruṣa+āyā",
-"quick_gloss": "for-human-use"
+"surface": "puruṣāya",
+"quick_gloss": "for-a-human"
 },
 {
 "surface": "na",
@@ -742,7 +726,7 @@
 },
 {
 "surface": "viṣṇu+bhūmi+parigraham",
-"quick_gloss": "taking-possession-of-viṣṇu-ground"
+"quick_gloss": "taking-possession-of-viṣṇu’s-ground"
 }
 ]
 },
@@ -771,11 +755,11 @@
 },
 {
 "surface": "juhuyāt",
-"quick_gloss": "one-should-offer"
+"quick_gloss": "one-should-offer-oblation"
 },
 {
 "surface": "aṣṭa+śatam",
-"quick_gloss": "eight-hundred"
+"quick_gloss": "one-hundred-and-eight-times"
 },
 {
 "surface": "kramāt",
@@ -791,19 +775,15 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "pīṭhaḥ",
-"quick_gloss": "seat"
-},
-{
-"surface": "oṅkāra+samāyuktam",
-"quick_gloss": "joined-with-oṃkāra"
+"surface": "pīṭha+oṅkāra+samāyuktam",
+"quick_gloss": "with-oṃ-syllable"
 },
 {
 "surface": "pūjayeta",
 "quick_gloss": "one-should-worship"
 },
 {
-"surface": "gaṇeśvaram",
+"surface": "gaṇa+īśvaram",
 "quick_gloss": "lord-of-gaṇas"
 }
 ]
