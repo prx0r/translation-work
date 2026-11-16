@@ -32,7 +32,7 @@
 },
 {
 "surface": "āha",
-"quick_gloss": "says"
+"quick_gloss": "he-says"
 }
 ]
 },
@@ -52,7 +52,7 @@
 "quick_gloss": "do-not"
 },
 {
-"surface": "su",
+"surface": "su+",
 "quick_gloss": "well"
 },
 {
@@ -74,7 +74,7 @@
 },
 {
 "surface": "upadiśati",
-"quick_gloss": "instructs"
+"quick_gloss": "he-instructs"
 }
 ]
 },
@@ -86,7 +86,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "vācam",
+"surface": "vācaṃ",
 "quick_gloss": "speech"
 },
 {
@@ -111,8 +111,8 @@
 "quick_gloss": "enjoyment+thought+giving"
 },
 {
-"surface": "avidyā+vatsa+saṃgaṃ",
-"quick_gloss": "ignorance+calf+association"
+"surface": "avidyā+vat+saṃgaṃ",
+"quick_gloss": "ignorance+association"
 },
 {
 "surface": "tyājaya",
@@ -120,7 +120,7 @@
 },
 {
 "surface": "āha",
-"quick_gloss": "says"
+"quick_gloss": "he-says"
 }
 ]
 },
@@ -136,8 +136,8 @@
 "quick_gloss": "not"
 },
 {
-"surface": "mala+vat",
-"quick_gloss": "impure+like"
+"surface": "malavat",
+"quick_gloss": "impure-like"
 },
 {
 "surface": "vāsaḥ",
@@ -145,7 +145,7 @@
 },
 {
 "surface": "adrākṣīḥ",
-"quick_gloss": "you-saw"
+"quick_gloss": "you-wore"
 }
 ]
 },
@@ -157,7 +157,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "eṣām",
+"surface": "eṣāṃ",
 "quick_gloss": "of-these"
 },
 {
@@ -166,7 +166,7 @@
 },
 {
 "surface": "mala+vāsasaḥ",
-"quick_gloss": "impure+garmented"
+"quick_gloss": "impure+garments"
 },
 {
 "surface": "na",
@@ -190,8 +190,8 @@
 "quick_gloss": "not"
 },
 {
-"surface": "sam",
-"quick_gloss": "with"
+"surface": "saṃ",
+"quick_gloss": "together"
 },
 {
 "surface": "bhāṣethāḥ",
@@ -207,8 +207,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "mala+vat+vāsasaḥ",
-"quick_gloss": "impure+garment+clad"
+"surface": "malavat+vāsasaḥ",
+"quick_gloss": "impure+garment-wearers"
 },
 {
 "surface": "bhavanti",
@@ -345,11 +345,11 @@
 },
 {
 "surface": "iti+āśaṃkya",
-"quick_gloss": "thus+suspecting"
+"quick_gloss": "thus+doubting"
 },
 {
 "surface": "āha",
-"quick_gloss": "says"
+"quick_gloss": "he-says"
 }
 ]
 },
@@ -362,7 +362,7 @@
 "tokens": [
 {
 "surface": "anātṛṇaṃ",
-"quick_gloss": "uncovered"
+"quick_gloss": "without-grass-cover"
 },
 {
 "surface": "śava+śarī",
@@ -395,7 +395,7 @@
 },
 {
 "surface": "ajñānāṃ",
-"quick_gloss": "the-ignorant"
+"quick_gloss": "ignorant-ones"
 },
 {
 "surface": "spṛśet",
@@ -419,12 +419,12 @@
 "quick_gloss": "having-eaten"
 },
 {
-"surface": "ālabhya",
-"quick_gloss": "having-obtained"
-},
-{
 "surface": "vā",
 "quick_gloss": "or"
+},
+{
+"surface": "ālabhya",
+"quick_gloss": "having-obtained"
 },
 {
 "surface": "śarīraṃ",
@@ -453,7 +453,7 @@
 "tokens": [
 {
 "surface": "rasika+bhogya+āveśaḥ",
-"quick_gloss": "tasteful+enjoyable+immersion"
+"quick_gloss": "tasteful+enjoyable+absorption"
 },
 {
 "surface": "mama",
@@ -465,7 +465,7 @@
 },
 {
 "surface": "kutaḥ",
-"quick_gloss": "from-where"
+"quick_gloss": "whence"
 },
 {
 "surface": "iti",
@@ -473,7 +473,7 @@
 },
 {
 "surface": "āha",
-"quick_gloss": "says"
+"quick_gloss": "he-says"
 }
 ]
 },
@@ -490,19 +490,19 @@
 },
 {
 "surface": "havir+dūṣaṇāni",
-"quick_gloss": "oblation+pollutions"
+"quick_gloss": "oblation+defilements"
 },
 {
 "surface": "tāni",
-"quick_gloss": "they"
+"quick_gloss": "those"
 },
 {
 "surface": "bhojana",
-"quick_gloss": "in-food"
+"quick_gloss": "food"
 },
 {
 "surface": "ḍū?",
-"quick_gloss": "pollution"
+"quick_gloss": "defilement"
 }
 ]
 },
@@ -515,7 +515,7 @@
 "tokens": [
 {
 "surface": "petuḥ",
-"quick_gloss": "fell"
+"quick_gloss": "they-fell"
 },
 {
 "surface": "ātmā+arpita",
@@ -523,11 +523,11 @@
 },
 {
 "surface": "sakala+vyavahāraḥ",
-"quick_gloss": "all+conduct"
+"quick_gloss": "all+activity"
 },
 {
-"surface": "bhuṃjeḥ",
-"quick_gloss": "one-should-eat"
+"surface": "bhuṃjet",
+"quick_gloss": "one-should-enjoy"
 },
 {
 "surface": "iti+arthaḥ",
@@ -615,11 +615,11 @@
 },
 {
 "surface": "iti+āśaṃkya",
-"quick_gloss": "thus+suspecting"
+"quick_gloss": "thus+doubting"
 },
 {
 "surface": "āha",
-"quick_gloss": "says"
+"quick_gloss": "he-says"
 }
 ]
 },
@@ -632,7 +632,7 @@
 "tokens": [
 {
 "surface": "kāmaṃ",
-"quick_gloss": "at-will"
+"quick_gloss": "willingly"
 },
 {
 "surface": "guru+ucchiṣṭam",

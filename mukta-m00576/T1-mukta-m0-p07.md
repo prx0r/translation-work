@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p07-v151
-[forward+attached](prasaktaṃ) [awakening+purpose](bhodhikyaṃ) [toward+prohibits](pratiṣedhayati)
+[being+attached](prasaktaṃ) [to+awakening](bhodhikyaṃ) [prohibition](pratiṣedhayati)
 
 ## mukta-m0-p07-v152
-[not](mā) [guru+should+eat](gurubhuṃjīthā)
+[not](mā) [by+teacher](guru) [one+should+eat](bhuṃjīthā)
 
 ## mukta-m0-p07-v153
-[from+statement](vacanāt)
+[from+speech](vacanāt)
 
 ## mukta-m0-p07-v154
-[illness+regarding](vyādhita+viṣaya+etat)
+[illness+subject](vyādhita+viṣaya+etat)
 
 ## mukta-m0-p07-v155
-[thus+in+expectation](iti+apekṣāyām+āha)
+[thus+in+expectation](iti+apekṣāyām) [says](āha)
 
 ## mukta-m0-p07-v156
-[ascends+indeed](ārohati+eva) [objects](viṣayān) [good+those](śeyān+tān+tu) [should+abandon](parityajet) [thus](iti)
+[one+ascends](ārohati) [indeed](eva) [objects](viṣayān) [good+ones](śeyān) [those](tān) [but](tu) [one+should+abandon](parityajet) || [thus](iti)
 
 ## mukta-m0-p07-v157
-[now+said](nanu+uktaṃ) [you+should+eat](bhuṃjethāḥ)
+[now](nanu) [said](uktam) [one+should+eat](bhuṃjethāḥ)
 
 ## mukta-m0-p07-v158
-[again+enjoyment+by+contemplation](punar+bhoga+bhāvanayā+iti) [is+sense](bhāvaḥ)
+[again](punar) [enjoyment+by+contemplation](bhoga+bhāvanayā) [thus](iti) [meaning](bhāvaḥ)
 
 ## mukta-m0-p07-v159
-[not](na) [clay+made+in](mṛṇmaye) [should+eat](bhuṃjīthāḥ)
+[not](na) [in+clay+made](mṛṇmaye) [one+should+eat](bhuṃjīthāḥ)
 
 ## mukta-m0-p07-v160
-[those](tān) [should+eat](bhuṃjīthāḥ) [object+abandonment](viṣaya+tyāgaṃ) [should+do](kuryāt+ity+arthaḥ)
+[those](tān) [one+should+eat](bhuṃjīthāḥ) [object+abandonment](viṣaya+tyāgam) [one+should+do](kuryāt) [thus+meaning](iti+arthaḥ)
 
 ## mukta-m0-p07-v161
-[not](na) [again+should+join](pratisaṃdadhyāḥ) [thus](iti) [some](eke)
+[not](na) [one+should+join+again](pratisaṃdadhyāḥ) [thus](iti) [some](eke)
 
 ## mukta-m0-p07-v162
 [say](āhuḥ)
 
 ## mukta-m0-p07-v163
-[place+seat](sthāna+āsanaṃ)
+[place+seat](sthāna+āsanam)
 
 ## mukta-m0-p07-v164
-[one+pointedness+should+be+applied](ekatānatā+vidheyā+ity+arthaḥ) [to+sit](āsaḥ) [in+sitting](upaveśane)
+[one+pointedness](ekatānatā) [to+be+enjoined](vidheyā) [thus+meaning](iti+arthaḥ) | [to+sit](āsa) [in+sitting](upaveśane)
 
 ## mukta-m0-p07-v165
-[former+intervals+in](pūrva+antareṣu) [upavāsaḥ](upavāsaḥ) [or](vā) [speech+restraint](vāg+yasanaṃ) [and](ca)
+[in+former+intervals](pūrva+antareṣu) [upavāsa](upavāsaḥ) [or](vā) [speech+restraint](vāg+yasanaṃ) [and](ca)
 
 ## mukta-m0-p07-v166
-[may+be](syuḥ) [relation+plurality+from](saṃbādhi+bahutvāt) [plural](bahu+vacanaṃ)
+[may+be](syuḥ) [relation+plurality](saṃbādhi+bahutvāt) [plural](bahu+vacanam)
 
 ## mukta-m0-p07-v167
-[somewhat](kiṃcit) [fire](agni) [effort](yataṃ) [having+seen](dṛṣṭvā) [by+breath+control](prāṇāyaiḥ+saḥ) [is+purified](śuddhyate)
+[something](kiṃcit) [fire](agni) [effort](yataṃ) [having+seen](dṛṣṭvā) [by+breath+controls](prāṇāyāmaiḥ) [with+purification](sa+śuddhyate)
 
 ## mukta-m0-p07-v168
-[consciousness+reflection+abundance+by](cit+vimarśa+bāhulyena+eva) [purification](śodhanam+iti) [thus](yāvat)
+[consciousness+reflection+abundance](cit+vimarśa+bāhulyena) [alone](eva) [purification](śodhanam) [thus](iti) [so+much](yāvat)
 
 ## mukta-m0-p07-v169
-[in+observation](saṃdarśane) [three](trayaḥ) [should+be+done](kāryāḥ)
+[in+seeing](saṃdarśane) [three](trayaḥ) [to+be+done](kāryāḥ)
 
 ## mukta-m0-p07-v170
-[purification+attainment+from](śuddhi+āpatteḥ)
+[purification+attainment](śuddhi+āpatteḥ)
 
 ## mukta-m0-p07-v171
-[with+vyāhṛti](saṃvyāhṛtyā+athaḥ) [seven](sapta)
+[with+vyāhṛti](saṃvyāhṛtyā) [then](atha) [seven](sapta)
 
 ## mukta-m0-p07-v172
-[again](punaḥ) [should+be+withdrawn](pratyāhartavyam)
+[again](punaḥ) [to+be+withdrawn](pratyāhartavyam)
 
 ## mukta-m0-p07-v173
-[in+summary](samāsāya) [but](tu) [twelve](dvādaśa)
+[for+concentration](samāsāya) [but](tu) [twelve](dvādaśa)
 
 ## mukta-m0-p07-v174
-[with+collected+mind](samāhitena) [should+be](bhāvyaṃ) [how](katham) [by+this](etena) [is+purified](śuddhati+ity+āśaṅkyā+āha)
+[with+collected+mind](samāhitena) [to+be](bhāvyaṃ) | [how](katham) [by+this](etena) [one+is+purified](śuddhatī) [thus+expecting](iti+āśaṃkyā) [says](āha)
 
 ## mukta-m0-p07-v175
-[everywhere](sarvatra) [light+seeing](jyotiḥ+darśanam) [water+touching](udaka+upasparśanam)
+[everywhere](sarvatra) [light+seeing](jyotiḥ+darśanam) [water+touching](udaka+upa+sparśanam)

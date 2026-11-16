@@ -8,15 +8,15 @@
 "tokens": [
 {
 "surface": "prasaktaṃ",
-"quick_gloss": "forward+attached"
+"quick_gloss": "being+attached"
 },
 {
 "surface": "bhodhikyaṃ",
-"quick_gloss": "awakening+purpose"
+"quick_gloss": "to+awakening"
 },
 {
 "surface": "pratiṣedhayati",
-"quick_gloss": "toward+prohibits"
+"quick_gloss": "prohibition"
 }
 ]
 },
@@ -32,8 +32,12 @@
 "quick_gloss": "not"
 },
 {
-"surface": "gurubhuṃjīthā",
-"quick_gloss": "guru+should+eat"
+"surface": "guru",
+"quick_gloss": "by+teacher"
+},
+{
+"surface": "bhuṃjīthā",
+"quick_gloss": "one+should+eat"
 }
 ]
 },
@@ -46,7 +50,7 @@
 "tokens": [
 {
 "surface": "vacanāt",
-"quick_gloss": "from+statement"
+"quick_gloss": "from+speech"
 }
 ]
 },
@@ -59,7 +63,7 @@
 "tokens": [
 {
 "surface": "vyādhita+viṣaya+etat",
-"quick_gloss": "illness+regarding"
+"quick_gloss": "illness+subject"
 }
 ]
 },
@@ -71,8 +75,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "iti+apekṣāyām+āha",
+"surface": "iti+apekṣāyām",
 "quick_gloss": "thus+in+expectation"
+},
+{
+"surface": "āha",
+"quick_gloss": "says"
 }
 ]
 },
@@ -84,20 +92,32 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "ārohati+eva",
-"quick_gloss": "ascends+indeed"
+"surface": "ārohati",
+"quick_gloss": "one+ascends"
+},
+{
+"surface": "eva",
+"quick_gloss": "indeed"
 },
 {
 "surface": "viṣayān",
 "quick_gloss": "objects"
 },
 {
-"surface": "śeyān+tān+tu",
-"quick_gloss": "good+those"
+"surface": "śeyān",
+"quick_gloss": "good+ones"
+},
+{
+"surface": "tān",
+"quick_gloss": "those"
+},
+{
+"surface": "tu",
+"quick_gloss": "but"
 },
 {
 "surface": "parityajet",
-"quick_gloss": "should+abandon"
+"quick_gloss": "one+should+abandon"
 },
 {
 "surface": "iti",
@@ -113,12 +133,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "nanu+uktaṃ",
-"quick_gloss": "now+said"
+"surface": "nanu",
+"quick_gloss": "now"
+},
+{
+"surface": "uktam",
+"quick_gloss": "said"
 },
 {
 "surface": "bhuṃjethāḥ",
-"quick_gloss": "you+should+eat"
+"quick_gloss": "one+should+eat"
 }
 ]
 },
@@ -130,12 +154,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "punar+bhoga+bhāvanayā+iti",
-"quick_gloss": "again+enjoyment+by+contemplation"
+"surface": "punar",
+"quick_gloss": "again"
+},
+{
+"surface": "bhoga+bhāvanayā",
+"quick_gloss": "enjoyment+by+contemplation"
+},
+{
+"surface": "iti",
+"quick_gloss": "thus"
 },
 {
 "surface": "bhāvaḥ",
-"quick_gloss": "is+sense"
+"quick_gloss": "meaning"
 }
 ]
 },
@@ -152,11 +184,11 @@
 },
 {
 "surface": "mṛṇmaye",
-"quick_gloss": "clay+made+in"
+"quick_gloss": "in+clay+made"
 },
 {
 "surface": "bhuṃjīthāḥ",
-"quick_gloss": "should+eat"
+"quick_gloss": "one+should+eat"
 }
 ]
 },
@@ -173,15 +205,19 @@
 },
 {
 "surface": "bhuṃjīthāḥ",
-"quick_gloss": "should+eat"
+"quick_gloss": "one+should+eat"
 },
 {
-"surface": "viṣaya+tyāgaṃ",
+"surface": "viṣaya+tyāgam",
 "quick_gloss": "object+abandonment"
 },
 {
-"surface": "kuryāt+ity+arthaḥ",
-"quick_gloss": "should+do"
+"surface": "kuryāt",
+"quick_gloss": "one+should+do"
+},
+{
+"surface": "iti+arthaḥ",
+"quick_gloss": "thus+meaning"
 }
 ]
 },
@@ -198,7 +234,7 @@
 },
 {
 "surface": "pratisaṃdadhyāḥ",
-"quick_gloss": "again+should+join"
+"quick_gloss": "one+should+join+again"
 },
 {
 "surface": "iti",
@@ -231,7 +267,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "sthāna+āsanaṃ",
+"surface": "sthāna+āsanam",
 "quick_gloss": "place+seat"
 }
 ]
@@ -244,11 +280,19 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "ekatānatā+vidheyā+ity+arthaḥ",
-"quick_gloss": "one+pointedness+should+be+applied"
+"surface": "ekatānatā",
+"quick_gloss": "one+pointedness"
 },
 {
-"surface": "āsaḥ",
+"surface": "vidheyā",
+"quick_gloss": "to+be+enjoined"
+},
+{
+"surface": "iti+arthaḥ",
+"quick_gloss": "thus+meaning"
+},
+{
+"surface": "āsa",
 "quick_gloss": "to+sit"
 },
 {
@@ -266,11 +310,11 @@
 "tokens": [
 {
 "surface": "pūrva+antareṣu",
-"quick_gloss": "former+intervals+in"
+"quick_gloss": "in+former+intervals"
 },
 {
 "surface": "upavāsaḥ",
-"quick_gloss": "upavāsaḥ"
+"quick_gloss": "upavāsa"
 },
 {
 "surface": "vā",
@@ -299,10 +343,10 @@
 },
 {
 "surface": "saṃbādhi+bahutvāt",
-"quick_gloss": "relation+plurality+from"
+"quick_gloss": "relation+plurality"
 },
 {
-"surface": "bahu+vacanaṃ",
+"surface": "bahu+vacanam",
 "quick_gloss": "plural"
 }
 ]
@@ -316,7 +360,7 @@
 "tokens": [
 {
 "surface": "kiṃcit",
-"quick_gloss": "somewhat"
+"quick_gloss": "something"
 },
 {
 "surface": "agni",
@@ -331,12 +375,12 @@
 "quick_gloss": "having+seen"
 },
 {
-"surface": "prāṇāyaiḥ+saḥ",
-"quick_gloss": "by+breath+control"
+"surface": "prāṇāyāmaiḥ",
+"quick_gloss": "by+breath+controls"
 },
 {
-"surface": "śuddhyate",
-"quick_gloss": "is+purified"
+"surface": "sa+śuddhyate",
+"quick_gloss": "with+purification"
 }
 ]
 },
@@ -348,16 +392,24 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "cit+vimarśa+bāhulyena+eva",
-"quick_gloss": "consciousness+reflection+abundance+by"
+"surface": "cit+vimarśa+bāhulyena",
+"quick_gloss": "consciousness+reflection+abundance"
 },
 {
-"surface": "śodhanam+iti",
+"surface": "eva",
+"quick_gloss": "alone"
+},
+{
+"surface": "śodhanam",
 "quick_gloss": "purification"
 },
 {
-"surface": "yāvat",
+"surface": "iti",
 "quick_gloss": "thus"
+},
+{
+"surface": "yāvat",
+"quick_gloss": "so+much"
 }
 ]
 },
@@ -370,7 +422,7 @@
 "tokens": [
 {
 "surface": "saṃdarśane",
-"quick_gloss": "in+observation"
+"quick_gloss": "in+seeing"
 },
 {
 "surface": "trayaḥ",
@@ -378,7 +430,7 @@
 },
 {
 "surface": "kāryāḥ",
-"quick_gloss": "should+be+done"
+"quick_gloss": "to+be+done"
 }
 ]
 },
@@ -391,7 +443,7 @@
 "tokens": [
 {
 "surface": "śuddhi+āpatteḥ",
-"quick_gloss": "purification+attainment+from"
+"quick_gloss": "purification+attainment"
 }
 ]
 },
@@ -403,8 +455,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "saṃvyāhṛtyā+athaḥ",
+"surface": "saṃvyāhṛtyā",
 "quick_gloss": "with+vyāhṛti"
+},
+{
+"surface": "atha",
+"quick_gloss": "then"
 },
 {
 "surface": "sapta",
@@ -425,7 +481,7 @@
 },
 {
 "surface": "pratyāhartavyam",
-"quick_gloss": "should+be+withdrawn"
+"quick_gloss": "to+be+withdrawn"
 }
 ]
 },
@@ -438,7 +494,7 @@
 "tokens": [
 {
 "surface": "samāsāya",
-"quick_gloss": "in+summary"
+"quick_gloss": "for+concentration"
 },
 {
 "surface": "tu",
@@ -463,7 +519,7 @@
 },
 {
 "surface": "bhāvyaṃ",
-"quick_gloss": "should+be"
+"quick_gloss": "to+be"
 },
 {
 "surface": "katham",
@@ -474,8 +530,16 @@
 "quick_gloss": "by+this"
 },
 {
-"surface": "śuddhati+ity+āśaṅkyā+āha",
-"quick_gloss": "is+purified"
+"surface": "śuddhatī",
+"quick_gloss": "one+is+purified"
+},
+{
+"surface": "iti+āśaṃkyā",
+"quick_gloss": "thus+expecting"
+},
+{
+"surface": "āha",
+"quick_gloss": "says"
 }
 ]
 },
@@ -495,7 +559,7 @@
 "quick_gloss": "light+seeing"
 },
 {
-"surface": "udaka+upasparśanam",
+"surface": "udaka+upa+sparśanam",
 "quick_gloss": "water+touching"
 }
 ]

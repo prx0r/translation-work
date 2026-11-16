@@ -5,46 +5,46 @@
 [on-rising](vyutthāne) [activity](vṛtti) [one-should-do](kuryā) [thus](iti) [meaning](bhāvaḥ)
 
 ## mukta-m0-p05-v102
-[oṃ-bhūr-bhuvas-svar](oṃ) [bhūr-bhuvas-svar](bhūrbhuvasvar) [thus-having-said](ityuktvā) [tat-savitur](tatsavitur) [thus](iti) [sāvitrī](sāvitrī) [you-should-recite](manubrūyāḥ)
+[oṃ-bhūr-bhuvas-svaḥ](oṃ bhūrbhuvasvar) [thus](iti) [having-said](uktvā) [tat-savitur](tatsavitur) [thus](iti) [sāvitrī](sāvitrī) [one-should-recite](manubrūyāḥ)
 
 ## mukta-m0-p05-v103
-[one-should-meditate](bhāvayet) [thus-said](ityuktaṃ) [it-becomes](bhavati)
+[one-should-meditate](bhāvayet) [thus](iti) [said](uktaṃ) [it-is](bhavati)
 
 ## mukta-m0-p05-v104
-[before-sunset](prāgastamayā) [having-gone-out](niṣkramya) [fuel-sticks](samidha) [bring](āhāre) [tawny](hariṇī) [brahmanic-lustre-desiring](brahmavarcasakāmaḥ)
+[before](prāk) [sunset](astamayā) [having-gone-out](niṣkramya) [fuel-sticks](samidha) [one-should-bring](āhāre) [tawny](hariṇī) [brahmanic-splendor](brahma+varcasa) [desiring](kāmaḥ)
 
 ## mukta-m0-p05-v105
 [it-is-heard](śrūyate)
 
 ## mukta-m0-p05-v106
-[evening](sāyaṃ) [morning](prātaḥ) [twilights](saṃdhyāni) [remembrance](smaraṇaṃ) [to-be-done](kartavyaṃ)
+[evening](sāyaṃ) [morning](prātaḥ) [twilight-rites](saṃdhyāni) [remembrance](smaraṇaṃ) [to-be-done](kartavyaṃ)
 
 ## mukta-m0-p05-v107
-[that](tat) [both-pervading](ubhaya+vyāpakaṃ) [and](ca) [supreme](paraṃ) [light](tejaḥ)
+[that](tat) [both](ubhaya) [pervading](vyāpakaṃ) [and](ca) [supreme](paraṃ) [light](tejaḥ)
 
 ## mukta-m0-p05-v108
-[alms-going](bhaikṣa+ācaraṇaṃ) [to-be-done](kartavyam)
+[alms](bhaikṣa) [going-about](ācaraṇaṃ) [to-be-done](kartavyam)
 
 ## mukta-m0-p05-v109
-[fire-kindling](agnīṃ+dhanaṃ) [to-be-done](kartavyam)
+[fire](agni) [kindling](īṃdhanaṃ) [to-be-done](kartavyam)
 
 ## mukta-m0-p05-v110
 [by-that](tena) [and](ca) [of-brahman-fire](brahma+agneḥ) [kindling](dīpanaṃ) [to-be-enjoined](vidheyaṃ)
 
 ## mukta-m0-p05-v111
-[in-evening](sāyam) [indeed](eva) [fire](agniḥ) [you-should-kindled](maṃdhīthāḥ)
+[in-the-evening](sāyam) [only](eva) [fire](agniḥ) [you-should-kindled](maṃdhīthāḥ)
 
 ## mukta-m0-p05-v112
-[of-alms](bhaikṣasya) [going-etc](ācaraṇa+ityādi)
+[of-alms](bhaikṣasya) [going-about](ācaraṇa) [and-so-forth](iti+ādi)
 
 ## mukta-m0-p05-v113
-[alms-going](bhaikṣa+ācaraṇa) [and-fire-kindling](agnīṃ+dhanī)
+[alms-going](bhaikṣa+ācaraṇa) [fire-kindling](agni+īṃdhanī)
 
 ## mukta-m0-p05-v114
-[seven-nights](sapta+rātram)
+[seven](sapta) [nights](rātram)
 
 ## mukta-m0-p05-v115
-[may-not-be](mā+bhūt) [thus-blesses](iti+āśāste) [teacher](guruḥ)
+[may-not-be](mā+bhūt) [thus](iti) [blesses](āśāste) [teacher](guruḥ)
 
 ## mukta-m0-p05-v116
 [hear](chṛṇu) [indeed](tu) [you](tvā) [speech](vāk)
@@ -56,22 +56,22 @@
 [which](yat) [veda-vow](veda+brataṃ) [that](tat) [here](atra) [vow](bratam)
 
 ## mukta-m0-p05-v119
-[it-is](bhavati) [necessarily](avaśyaṃ) [to-be-taken](gṛhītavyam) [thus-meaning](iti+arthaḥ)
+[it-is](bhavati) [necessarily](avaśyaṃ) [to-be-taken](gṛhītavyam) [thus](iti) [meaning](arthaḥ)
 
 ## mukta-m0-p05-v120
-[teacher](guruḥ) [said](āha)
+[teacher](guruḥ) [says](āha)
 
 ## mukta-m0-p05-v121
-[celibacy](brahmacārya) [you-are](asi) [thus](iti)
+[brahmacharya](brahma+cārya) [you-are](asi) [thus](iti)
 
 ## mukta-m0-p05-v122
-[five-modifications](paṃca+vikārān) [we-shall-enumerate](anukramiṣyāmaḥ)
+[five](paṃca) [modifications](vikārān) [we-shall-enumerate](anukramiruṣyāmaḥ)
 
 ## mukta-m0-p05-v123
-[not](na) [thus-unable-says](iti+aśakya+āha)
+[not](na) [thus](iti) [impossible](aśakya) [he-says](āha)
 
 ## mukta-m0-p05-v124
-[water-sipping](apaḥ+aśāna)
+[water](apaḥ) [sipping](aśāna)
 
 ## mukta-m0-p05-v125
-[brahman-knowledge](brahma+jñāna) [deliberation-firmness](vimarśa+dārḍhyaṃ) [may-be](bhavet) [there](tatra) [says](āha)
+[brahman-knowledge](brahma+jñāna) [reflection](vimarśa) [firmness](dārḍhyaṃ) [may-be](bhavet) [there](tatra) [he-says](āha)
