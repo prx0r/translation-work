@@ -7,8 +7,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "bhavasāgaratāriṇī",
-"quick_gloss": "bhava+sagara+tarini"
+"surface": "bhava",
+"quick_gloss": "existence"
+},
+{
+"surface": "sāgara",
+"quick_gloss": "+ocean"
+},
+{
+"surface": "tāriṇī",
+"quick_gloss": "+ferrying-across"
 }
 ]
 },
@@ -21,19 +29,27 @@
 "tokens": [
 {
 "surface": "bhava",
-"quick_gloss": "bhava"
+"quick_gloss": "existence"
 },
 {
-"surface": "sāgaratāriṇī",
-"quick_gloss": "sagara+tarini"
+"surface": "sā",
+"quick_gloss": "+ocean"
+},
+{
+"surface": "garatāriṇī",
+"quick_gloss": "ferrying-across"
 },
 {
 "surface": "bhava",
-"quick_gloss": "bhava"
+"quick_gloss": "be"
 },
 {
-"surface": "sāgaratāriṇī",
-"quick_gloss": "sagara+tarini"
+"surface": "sāgara",
+"quick_gloss": "ocean"
+},
+{
+"surface": "tāriṇī",
+"quick_gloss": "+ferrying-across"
 }
 ]
 },
@@ -46,11 +62,15 @@
 "tokens": [
 {
 "surface": "p.",
-"quick_gloss": "p-268"
+"quick_gloss": "page"
+},
+{
+"surface": "268",
+"quick_gloss": "268"
 },
 {
 "surface": "akrūrā",
-"quick_gloss": "akrura"
+"quick_gloss": "not-cruel"
 }
 ]
 },
@@ -62,24 +82,32 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "ghūrṇito",
-"quick_gloss": "ghurnita"
+"surface": "ghūrṇitaḥ",
+"quick_gloss": "whirling"
 },
 {
 "surface": "vā",
-"quick_gloss": "va"
+"quick_gloss": "or"
 },
 {
-"surface": "jahātyeṣā'krūrā",
-"quick_gloss": "jahati+esha+akrura"
+"surface": "jahāti",
+"quick_gloss": "abandons"
+},
+{
+"surface": "eṣā",
+"quick_gloss": "+this"
+},
+{
+"surface": "akrūrā",
+"quick_gloss": "+not-cruel"
 },
 {
 "surface": "manasi",
-"quick_gloss": "manasi"
+"quick_gloss": "in-mind"
 },
 {
 "surface": "rājatām",
-"quick_gloss": "rajatam"
+"quick_gloss": "radiance"
 }
 ]
 },
@@ -91,8 +119,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "grahavatī",
-"quick_gloss": "grahavati"
+"surface": "graha",
+"quick_gloss": "possessing-planets"
+},
+{
+"surface": "vatī",
+"quick_gloss": "+possessing"
 }
 ]
 },
@@ -104,20 +136,40 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "vyomevaikā",
-"quick_gloss": "vyoma+iva+eka"
+"surface": "vyoma",
+"quick_gloss": "in-sky"
 },
 {
-"surface": "jayatyeṣā",
-"quick_gloss": "jayati+esha"
+"surface": "iva",
+"quick_gloss": "+like"
 },
 {
-"surface": "grahavatyapi",
-"quick_gloss": "grahavati+api"
+"surface": "ekā",
+"quick_gloss": "+alone"
+},
+{
+"surface": "jayati",
+"quick_gloss": "triumphs"
+},
+{
+"surface": "eṣā",
+"quick_gloss": "+this"
+},
+{
+"surface": "graha",
+"quick_gloss": "possessing-planets"
+},
+{
+"surface": "vatī",
+"quick_gloss": "+possessing"
+},
+{
+"surface": "api",
+"quick_gloss": "+even"
 },
 {
 "surface": "nirgrahā",
-"quick_gloss": "nirgraha"
+"quick_gloss": "without-seizers"
 }
 ]
 },
@@ -129,8 +181,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "vigrahā",
-"quick_gloss": "vigraha"
+"surface": "vi",
+"quick_gloss": "without-body"
+},
+{
+"surface": "grahā",
+"quick_gloss": "+form"
 }
 ]
 },
@@ -142,32 +198,44 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "yajjanāḥ",
-"quick_gloss": "yat+jana"
+"surface": "yat",
+"quick_gloss": "whom"
 },
 {
-"surface": "kṛtaparigrahāḥ",
-"quick_gloss": "krita+parigraha"
+"surface": "janāḥ",
+"quick_gloss": "+people"
+},
+{
+"surface": "kṛta",
+"quick_gloss": "having-made-acceptance"
+},
+{
+"surface": "parigrahāḥ",
+"quick_gloss": "+acceptance"
 },
 {
 "surface": "śriyā",
-"quick_gloss": "shriya"
+"quick_gloss": "by-fortune"
 },
 {
 "surface": "vigrahā",
-"quick_gloss": "vigraha"
+"quick_gloss": "without-body"
 },
 {
 "surface": "jayati",
-"quick_gloss": "jayati"
+"quick_gloss": "triumphs"
 },
 {
 "surface": "sā",
-"quick_gloss": "sa"
+"quick_gloss": "she"
 },
 {
-"surface": "grahēśvarī",
-"quick_gloss": "graheshvari"
+"surface": "graha",
+"quick_gloss": "planet"
+},
+{
+"surface": "īśvarī",
+"quick_gloss": "+sovereign"
 }
 ]
 },
@@ -179,8 +247,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "grahavarjitā",
-"quick_gloss": "graha+varjita"
+"surface": "graha",
+"quick_gloss": "planet"
+},
+{
+"surface": "varjitā",
+"quick_gloss": "+devoid-of"
 }
 ]
 },
@@ -192,28 +264,44 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "tatkiṃ",
-"quick_gloss": "tat+kim"
+"surface": "tat",
+"quick_gloss": "then"
+},
+{
+"surface": "kiṃ",
+"quick_gloss": "+what"
 },
 {
 "surface": "citraṃ",
-"quick_gloss": "citra"
+"quick_gloss": "wonder"
 },
 {
 "surface": "svayaṃ",
-"quick_gloss": "svayam"
+"quick_gloss": "herself"
 },
 {
-"surface": "sāpi",
-"quick_gloss": "sa+api"
+"surface": "sā",
+"quick_gloss": "she"
 },
 {
-"surface": "yaddevī",
-"quick_gloss": "yat+devi"
+"surface": "api",
+"quick_gloss": "+also"
 },
 {
-"surface": "grahavarjitā",
-"quick_gloss": "graha+varjita"
+"surface": "yat",
+"quick_gloss": "because"
+},
+{
+"surface": "devī",
+"quick_gloss": "+goddess"
+},
+{
+"surface": "graha",
+"quick_gloss": "planet"
+},
+{
+"surface": "varjitā",
+"quick_gloss": "+devoid-of"
 }
 ]
 },
@@ -226,7 +314,7 @@
 "tokens": [
 {
 "surface": "rohiṇī",
-"quick_gloss": "rohini"
+"quick_gloss": "red-one"
 }
 ]
 },
@@ -238,24 +326,40 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "rohiṇītanayapūjitājitā",
-"quick_gloss": "rohini+tanaya+pūjita+ajita"
+"surface": "rohiṇī",
+"quick_gloss": "Rohiṇī"
+},
+{
+"surface": "tanaya",
+"quick_gloss": "+son"
+},
+{
+"surface": "pūjitā",
+"quick_gloss": "+worshipped"
+},
+{
+"surface": "ajitā",
+"quick_gloss": "+unconquered"
 },
 {
 "surface": "kevalā",
-"quick_gloss": "kevala"
+"quick_gloss": "alone"
 },
 {
 "surface": "jayati",
-"quick_gloss": "jayati"
+"quick_gloss": "triumphs"
 },
 {
-"surface": "saiva",
-"quick_gloss": "sa+eva"
+"surface": "sā",
+"quick_gloss": "she"
+},
+{
+"surface": "eva",
+"quick_gloss": "+indeed"
 },
 {
 "surface": "rohiṇī",
-"quick_gloss": "rohini"
+"quick_gloss": "red-one"
 }
 ]
 },
@@ -267,8 +371,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "bhūmigarbhā",
-"quick_gloss": "bhumi+garbha"
+"surface": "bhūmi",
+"quick_gloss": "earth"
+},
+{
+"surface": "garbhā",
+"quick_gloss": "+womb"
 }
 ]
 },
@@ -281,19 +389,23 @@
 "tokens": [
 {
 "surface": "sā",
-"quick_gloss": "sa"
+"quick_gloss": "she"
 },
 {
-"surface": "bhūmigarbhā",
-"quick_gloss": "bhumi+garbha"
+"surface": "bhūmi",
+"quick_gloss": "earth"
+},
+{
+"surface": "garbhā",
+"quick_gloss": "+womb"
 },
 {
 "surface": "jayati",
-"quick_gloss": "jayati"
+"quick_gloss": "triumphs"
 },
 {
 "surface": "pragalbhā",
-"quick_gloss": "pragalbha"
+"quick_gloss": "mighty"
 }
 ]
 },
@@ -306,11 +418,19 @@
 "tokens": [
 {
 "surface": "p.",
-"quick_gloss": "p-269"
+"quick_gloss": "page"
 },
 {
-"surface": "kālabhūḥ",
-"quick_gloss": "kala+bhu"
+"surface": "269",
+"quick_gloss": "269"
+},
+{
+"surface": "kāla",
+"quick_gloss": "time"
+},
+{
+"surface": "bhūḥ",
+"quick_gloss": "+ground"
 }
 ]
 },
@@ -323,15 +443,31 @@
 "tokens": [
 {
 "surface": "sā",
-"quick_gloss": "sa"
+"quick_gloss": "she"
 },
 {
-"surface": "kālabhūr",
-"quick_gloss": "kala+bhu"
+"surface": "kāla",
+"quick_gloss": "time"
 },
 {
-"surface": "bālyakalādilolā",
-"quick_gloss": "balya+kala+adi+lola"
+"surface": "bhūḥ",
+"quick_gloss": "+ground"
+},
+{
+"surface": "bālya",
+"quick_gloss": "childhood"
+},
+{
+"surface": "kalā",
+"quick_gloss": "+art"
+},
+{
+"surface": "ādi",
+"quick_gloss": "+and-so-forth"
+},
+{
+"surface": "lolā",
+"quick_gloss": "+playful"
 }
 ]
 },
@@ -343,8 +479,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "kālavartinī",
-"quick_gloss": "kala+vartini"
+"surface": "kāla",
+"quick_gloss": "time"
+},
+{
+"surface": "vartinī",
+"quick_gloss": "+abiding"
 }
 ]
 },
@@ -356,28 +496,48 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "yatkālavartinī",
-"quick_gloss": "yat+kala+vartini"
+"surface": "yat",
+"quick_gloss": "because"
 },
 {
-"surface": "sāpi",
-"quick_gloss": "sa+api"
+"surface": "kāla",
+"quick_gloss": "time"
 },
 {
-"surface": "tadvartī",
-"quick_gloss": "tat+varti"
+"surface": "vartinī",
+"quick_gloss": "+abiding"
 },
 {
-"surface": "tanna",
-"quick_gloss": "tat+na"
+"surface": "sā",
+"quick_gloss": "she"
 },
 {
-"surface": "ko",
-"quick_gloss": "ko"
+"surface": "api",
+"quick_gloss": "+also"
+},
+{
+"surface": "tat",
+"quick_gloss": "in-that"
+},
+{
+"surface": "vartī",
+"quick_gloss": "+abiding"
+},
+{
+"surface": "tat",
+"quick_gloss": "then"
+},
+{
+"surface": "na",
+"quick_gloss": "+not"
+},
+{
+"surface": "kaḥ",
+"quick_gloss": "who"
 },
 {
 "surface": "bhavet",
-"quick_gloss": "bhavet"
+"quick_gloss": "would-be"
 }
 ]
 },
@@ -389,12 +549,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "kalaṅkarahitā",
-"quick_gloss": "kalanka+rahita"
+"surface": "kalaṅka",
+"quick_gloss": "stain"
+},
+{
+"surface": "rahitā",
+"quick_gloss": "+devoid-of"
 },
 {
 "surface": "nārī",
-"quick_gloss": "nari"
+"quick_gloss": "woman"
 }
 ]
 },
@@ -406,24 +570,32 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "kalaṅkarahitā",
-"quick_gloss": "kalanka+rahita"
+"surface": "kalaṅka",
+"quick_gloss": "stain"
+},
+{
+"surface": "rahitā",
+"quick_gloss": "+devoid-of"
 },
 {
 "surface": "nārī",
-"quick_gloss": "nari"
+"quick_gloss": "woman"
 },
 {
-"surface": "yatheyaṃ",
-"quick_gloss": "yatha"
+"surface": "yathā",
+"quick_gloss": "as"
+},
+{
+"surface": "iyaṃ",
+"quick_gloss": "+this"
 },
 {
 "surface": "harate",
-"quick_gloss": "harate"
+"quick_gloss": "carries-away"
 },
 {
 "surface": "manaḥ",
-"quick_gloss": "manah"
+"quick_gloss": "mind"
 }
 ]
 },
@@ -435,8 +607,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "catuṣṣaṣṭyabhidhāvatī",
-"quick_gloss": "catuh+shashti+abhidhavati"
+"surface": "catuṣṣaṣṭi",
+"quick_gloss": "sixty-four"
+},
+{
+"surface": "abhidhā",
+"quick_gloss": "+name"
+},
+{
+"surface": "vatī",
+"quick_gloss": "+possessing"
 }
 ]
 },
@@ -448,12 +628,32 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "caturāśāprasiddheyaṃ",
-"quick_gloss": "catur+asha+prasiddha+iyaṃ"
+"surface": "catur",
+"quick_gloss": "four"
 },
 {
-"surface": "catuṣṣaṣṭyabhidhāvatī",
-"quick_gloss": "catuh+shashti+abhidhavati"
+"surface": "āśā",
+"quick_gloss": "+quarters"
+},
+{
+"surface": "prasiddhā",
+"quick_gloss": "+renowned"
+},
+{
+"surface": "iyaṃ",
+"quick_gloss": "+this"
+},
+{
+"surface": "catuṣṣaṣṭi",
+"quick_gloss": "sixty-four"
+},
+{
+"surface": "abhidhā",
+"quick_gloss": "+name"
+},
+{
+"surface": "vatī",
+"quick_gloss": "+possessing"
 }
 ]
 },
@@ -466,7 +666,7 @@
 "tokens": [
 {
 "surface": "jīrṇā",
-"quick_gloss": "jirna"
+"quick_gloss": "old"
 }
 ]
 },
@@ -479,15 +679,23 @@
 "tokens": [
 {
 "surface": "jīrṇā",
-"quick_gloss": "jirna"
+"quick_gloss": "old"
 },
 {
-"surface": "bhavājīrṇamiyaṃ",
-"quick_gloss": "bhava+ajirna"
+"surface": "bhava",
+"quick_gloss": "existence"
+},
+{
+"surface": "ājīrṇam",
+"quick_gloss": "+decay"
+},
+{
+"surface": "iyaṃ",
+"quick_gloss": "+this"
 },
 {
 "surface": "vyapohatām",
-"quick_gloss": "vyapohatam"
+"quick_gloss": "may-remove"
 }
 ]
 },
@@ -500,11 +708,19 @@
 "tokens": [
 {
 "surface": "p.",
-"quick_gloss": "p-270"
+"quick_gloss": "page"
 },
 {
-"surface": "jīrṇavastrā",
-"quick_gloss": "jirna+vastra"
+"surface": "270",
+"quick_gloss": "270"
+},
+{
+"surface": "jīrṇa",
+"quick_gloss": "worn"
+},
+{
+"surface": "vastrā",
+"quick_gloss": "+garment"
 }
 ]
 }

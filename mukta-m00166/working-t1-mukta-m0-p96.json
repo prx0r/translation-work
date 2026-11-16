@@ -8,11 +8,11 @@
 "tokens": [
 {
 "surface": "viśva",
-"quick_gloss": "world"
+"quick_gloss": "universe"
 },
 {
 "surface": "yoniḥ",
-"quick_gloss": "womb"
+"quick_gloss": "+source"
 }
 ]
 },
@@ -25,11 +25,11 @@
 "tokens": [
 {
 "surface": "viśva",
-"quick_gloss": "world"
+"quick_gloss": "universe"
 },
 {
 "surface": "yoniḥ",
-"quick_gloss": "womb"
+"quick_gloss": "+source"
 },
 {
 "surface": "iyam",
@@ -37,19 +37,15 @@
 },
 {
 "surface": "astu",
-"quick_gloss": "let-be"
+"quick_gloss": "be"
 },
 {
 "surface": "a",
-"quick_gloss": "not"
+"quick_gloss": "+source"
 },
 {
-"surface": "yoni",
-"quick_gloss": "womb"
-},
-{
-"surface": "kṛt",
-"quick_gloss": "maker"
+"surface": "yonikṛt",
+"quick_gloss": "+maker"
 }
 ]
 },
@@ -61,12 +57,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "stana",
+"surface": "stanaṃ",
 "quick_gloss": "breast"
 },
 {
-"surface": "ndhayī",
-"quick_gloss": "suckling"
+"surface": "dhayī",
+"quick_gloss": "+suckling"
 }
 ]
 },
@@ -83,7 +79,7 @@
 },
 {
 "surface": "saṃnihitā",
-"quick_gloss": "near"
+"quick_gloss": "present"
 },
 {
 "surface": "nityaṃ",
@@ -91,15 +87,19 @@
 },
 {
 "surface": "gehe",
-"quick_gloss": "house"
+"quick_gloss": "in-house"
 },
 {
 "surface": "devī",
 "quick_gloss": "goddess"
 },
 {
-"surface": "stanandhayī",
-"quick_gloss": "breast-suckling"
+"surface": "stanaṃ",
+"quick_gloss": "breast"
+},
+{
+"surface": "dhayī",
+"quick_gloss": "+suckling"
 }
 ]
 },
@@ -112,15 +112,15 @@
 "tokens": [
 {
 "surface": "śiśu",
-"quick_gloss": "infant"
+"quick_gloss": "child"
 },
 {
 "surface": "utsaṅga",
-"quick_gloss": "lap"
+"quick_gloss": "+lap"
 },
 {
 "surface": "dharā",
-"quick_gloss": "bearer"
+"quick_gloss": "+holding"
 }
 ]
 },
@@ -132,16 +132,32 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "śiśūtsaṅgadharā",
-"quick_gloss": "infant-lap-bearer"
+"surface": "śiśu",
+"quick_gloss": "child"
+},
+{
+"surface": "utsaṅga",
+"quick_gloss": "+lap"
+},
+{
+"surface": "dharā",
+"quick_gloss": "+holding"
 },
 {
 "surface": "jīyāt",
-"quick_gloss": "may-she-conquer"
+"quick_gloss": "may-prevail"
 },
 {
-"surface": "dharādharasutā",
-"quick_gloss": "mountain-daughter"
+"surface": "dhara",
+"quick_gloss": "mountain"
+},
+{
+"surface": "dhara",
+"quick_gloss": "+holder"
+},
+{
+"surface": "sutā",
+"quick_gloss": "+daughter"
 },
 {
 "surface": "śivā",
@@ -157,6 +173,14 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
+"surface": "p.",
+"quick_gloss": "page"
+},
+{
+"surface": "280",
+"quick_gloss": "280"
+},
+{
 "surface": "dolā",
 "quick_gloss": "swing"
 }
@@ -170,16 +194,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "duddadullādalāddolā",
-"quick_gloss": "mantra"
+"surface": "duddadullādalād",
+"quick_gloss": "mantra-syllables"
+},
+{
+"surface": "dolā",
+"quick_gloss": "swing"
 },
 {
 "surface": "dādadālaṃ",
-"quick_gloss": "mantra"
+"quick_gloss": "mantra-syllables"
 },
 {
 "surface": "lalādadā",
-"quick_gloss": "mantra"
+"quick_gloss": "mantra-syllables"
 }
 ]
 },
@@ -196,11 +224,11 @@
 },
 {
 "surface": "krīḍā",
-"quick_gloss": "play"
+"quick_gloss": "+play"
 },
 {
 "surface": "abhinandinī",
-"quick_gloss": "delighting"
+"quick_gloss": "+delighting-in"
 }
 ]
 },
@@ -212,16 +240,36 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "śailanandinī",
-"quick_gloss": "mountain-daughter"
+"surface": "yat",
+"quick_gloss": "who"
 },
 {
-"surface": "sāpi",
-"quick_gloss": "she-too"
+"surface": "śaila",
+"quick_gloss": "mountain"
 },
 {
-"surface": "dolākrīḍābhinandinī",
-"quick_gloss": "swing-play-delighting"
+"surface": "nandinī",
+"quick_gloss": "+daughter"
+},
+{
+"surface": "sā",
+"quick_gloss": "she"
+},
+{
+"surface": "api",
+"quick_gloss": "also"
+},
+{
+"surface": "dolā",
+"quick_gloss": "swing"
+},
+{
+"surface": "krīḍā",
+"quick_gloss": "+play"
+},
+{
+"surface": "abhinandinī",
+"quick_gloss": "+delighting-in"
 }
 ]
 },
@@ -247,11 +295,11 @@
 "tokens": [
 {
 "surface": "vihāya",
-"quick_gloss": "leaving"
+"quick_gloss": "having-left"
 },
 {
 "surface": "iva",
-"quick_gloss": "like"
+"quick_gloss": "as-if"
 },
 {
 "surface": "divaṃ",
@@ -275,7 +323,7 @@
 },
 {
 "surface": "śriye",
-"quick_gloss": "prosperity"
+"quick_gloss": "for-prosperity"
 }
 ]
 },
@@ -288,7 +336,7 @@
 "tokens": [
 {
 "surface": "kadalī",
-"quick_gloss": "banana"
+"quick_gloss": "plantain-tree"
 }
 ]
 },
@@ -300,8 +348,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "kimu",
+"surface": "kim",
 "quick_gloss": "whether"
+},
+{
+"surface": "u",
+"quick_gloss": "indeed"
 },
 {
 "surface": "sā",
@@ -309,7 +361,7 @@
 },
 {
 "surface": "kadalī",
-"quick_gloss": "banana"
+"quick_gloss": "plantain-tree"
 },
 {
 "surface": "bhūtā",
@@ -321,7 +373,7 @@
 },
 {
 "surface": "haratāṃ",
-"quick_gloss": "removing"
+"quick_gloss": "of-destroyers"
 },
 {
 "surface": "kaleḥ",
@@ -351,11 +403,11 @@
 "tokens": [
 {
 "surface": "kekākakakakāṅkokākekaikākākakīḥ",
-"quick_gloss": "mantra"
+"quick_gloss": "mantra-syllables"
 },
 {
 "surface": "kakam",
-"quick_gloss": "mantra"
+"quick_gloss": "mantra-syllables"
 }
 ]
 },
@@ -368,7 +420,7 @@
 "tokens": [
 {
 "surface": "viśikhā",
-"quick_gloss": "arrow"
+"quick_gloss": "crestless"
 }
 ]
 },
@@ -380,36 +432,32 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "punantyā",
-"quick_gloss": "purifying"
+"surface": "punantyāḥ",
+"quick_gloss": "of-purifying"
 },
 {
-"surface": "śikham",
-"quick_gloss": "crest"
+"surface": "āśikham",
+"quick_gloss": "up-to-the-hair"
 },
 {
-"surface": "īkṣābhir",
-"quick_gloss": "glances"
+"surface": "īkṣābhiḥ",
+"quick_gloss": "by-glances"
 },
 {
 "surface": "viśikhā",
-"quick_gloss": "arrow"
+"quick_gloss": "crestless"
 },
 {
-"surface": "sā",
-"quick_gloss": "she"
-},
-{
-"surface": "astu",
-"quick_gloss": "be"
+"surface": "sāstu",
+"quick_gloss": "may-be"
 },
 {
 "surface": "vaḥ",
-"quick_gloss": "to-you"
+"quick_gloss": "for-you"
 },
 {
 "surface": "śriye",
-"quick_gloss": "prosperity"
+"quick_gloss": "for-prosperity"
 }
 ]
 },
@@ -421,12 +469,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "śikhin",
+"surface": "p.",
+"quick_gloss": "page"
+},
+{
+"surface": "281",
+"quick_gloss": "281"
+},
+{
+"surface": "śikhi",
 "quick_gloss": "peacock"
 },
 {
 "surface": "nartinī",
-"quick_gloss": "dancer"
+"quick_gloss": "+dancer"
 }
 ]
 },
@@ -439,15 +495,15 @@
 "tokens": [
 {
 "surface": "pṛṣṭhe",
-"quick_gloss": "back"
+"quick_gloss": "on-back"
 },
 {
 "surface": "anena",
-"quick_gloss": "by-this"
+"quick_gloss": "by-him"
 },
 {
-"surface": "saha",
-"quick_gloss": "with"
+"surface": "sadā",
+"quick_gloss": "always"
 },
 {
 "surface": "iti",
@@ -455,15 +511,19 @@
 },
 {
 "surface": "eṣā",
-"quick_gloss": "this-one"
+"quick_gloss": "this"
 },
 {
 "surface": "santuṣṭā",
-"quick_gloss": "pleased"
+"quick_gloss": "satisfied"
 },
 {
-"surface": "śikhinartinī",
-"quick_gloss": "peacock-dancer"
+"surface": "śikhi",
+"quick_gloss": "peacock"
+},
+{
+"surface": "nartinī",
+"quick_gloss": "+dancer"
 }
 ]
 },
@@ -480,7 +540,7 @@
 },
 {
 "surface": "dhāriṇī",
-"quick_gloss": "bearer"
+"quick_gloss": "+bearing"
 }
 ]
 },
@@ -493,19 +553,23 @@
 "tokens": [
 {
 "surface": "khaṭvāṅginaḥ",
-"quick_gloss": "skull-staff-bearer's"
+"quick_gloss": "of-skull-staff-bearer"
 },
 {
 "surface": "asamākṣasya",
-"quick_gloss": "unequal-eyed's"
+"quick_gloss": "of-unequal-eyed"
 },
 {
 "surface": "prītyai",
 "quick_gloss": "for-delight"
 },
 {
-"surface": "khaṭvāṅgadhāriṇī",
-"quick_gloss": "skull-staff-bearer"
+"surface": "khaṭvāṅga",
+"quick_gloss": "skull-staff"
+},
+{
+"surface": "dhāriṇī",
+"quick_gloss": "+bearing"
 }
 ]
 },
@@ -518,7 +582,7 @@
 "tokens": [
 {
 "surface": "khaṭvā",
-"quick_gloss": "cot"
+"quick_gloss": "bedstead"
 }
 ]
 },
@@ -531,11 +595,11 @@
 "tokens": [
 {
 "surface": "bhikṣuḥ",
-"quick_gloss": "ascetic"
+"quick_gloss": "mendicant"
 },
 {
 "surface": "jayati",
-"quick_gloss": "conquers"
+"quick_gloss": "prevails"
 },
 {
 "surface": "sā",
@@ -547,7 +611,7 @@
 },
 {
 "surface": "khaṭvā",
-"quick_gloss": "cot"
+"quick_gloss": "bedstead"
 },
 {
 "surface": "nityam",
@@ -572,11 +636,11 @@
 },
 {
 "surface": "puṅkha",
-"quick_gloss": "feather"
+"quick_gloss": "+feather"
 },
 {
 "surface": "anuvartinī",
-"quick_gloss": "following"
+"quick_gloss": "+following"
 }
 ]
 }

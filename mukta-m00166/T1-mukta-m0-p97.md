@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p97-v2401
-[tripura](tripurā) [if](cet) [companion](sahāyā) [not](na) [arrow+feather+follower](bāṇapuṅkhānuvartinī)
+[tripurā](tripurā) [if](cet) [helper](sahāyā) [not](na) [arrow+feather+following](bāṇa+puṅkha+anuvartinī)
 
 ## mukta-m0-p97-v2402
-[target+attainment](lakṣyaprāptiḥ)
+[target+attainment](lakṣya+prāptiḥ)
 
 ## mukta-m0-p97-v2403
-[target+maker](lakṣyakṛtvo) [victorious](jayatyeṣā) [target+attainment](lakṣyaprāptiḥ) [good-marked](sulakṣaṇā)
+[target+making](lakṣya+kṛtvo) [conquers](jayati) [this](eṣā) [target+attainment](lakṣya+prāptiḥ) [well+marked](su+lakṣaṇā)
 
 ## mukta-m0-p97-v2404
-[art](kalā)
+[digit](kalā) [art](kalā) [part](kalā) [skill](kalā)
 
 ## mukta-m0-p97-v2405
-[time+crow+play+saliva](kālakākakilelālā) [in-time](kāle) [in-kali](kalau) [art+art](kalākalā)
+[kālakākakilelālā](kālakākakilelālā) [in-time](kāle) [in-kali-age](kalau) [art+art](kalā+kalā)
 
 ## mukta-m0-p97-v2406
-[unmarked](alakṣyā)
+[p.+282](p.+282)) [imperceptible](alakṣyā)
 
 ## mukta-m0-p97-v2407
-[target+mark+non-duality+marked+unmarked](lakṣyalakṣaṇatādvaitalakṣyālakṣyā) [victorious](jayatyasau)
+[target+mark+nature+non-duality](lakṣya+lakṣaṇatā+dvaita) [aimed-at+imperceptible](lakṣya+alakṣyā) [conquers](jayati) [that](asau) [she](asau)
 
 ## mukta-m0-p97-v2408
-[marked](lakṣyā)
+[aimed-at](lakṣyā) [perceptible](lakṣyā) [visible](lakṣyā) [target](lakṣyā)
 
 ## mukta-m0-p97-v2409
-[target+being](lakṣyabhūtāpi) [one](saikaiva) [marked](lakṣyā) [all-distinct](sarvavilakṣaṇā)
+[target+become](lakṣya+bhūtā) [even](api) [she+alone](sā+ekā) [indeed](eva) [aimed-at](lakṣyā) [all+distinct](sarva+vilakṣaṇā)
 
 ## mukta-m0-p97-v2410
-[auspicious-marked](śubhalakṣaṇā)
+[auspicious+marked](śubha+lakṣaṇā) [of-good-marks](śubha+lakṣaṇā) [fortunate](śubha+lakṣaṇā) [auspicious](śubha+lakṣaṇā)
 
 ## mukta-m0-p97-v2411
-[many+aeon+resolve](anekakalpasaṃkalpo) [fortunate](dhanyasyāsya) [moment](kṣaṇāyate)
+[many+aeon+resolve](aneka+kalpa+saṃkalpaḥ) [of-fortunate-one](dhanyasya) [of-this](asya) [moment+becomes](kṣaṇa+āyate)
 
 ## mukta-m0-p97-v2412
-[follower](vartinī)
+[abiding](vartinī) [dwelling](vartinī) [following](vartinī) [engaged](vartinī)
 
 ## mukta-m0-p97-v2413
-[follower](vartinī) [deity](devatā) [may-be](bhūyānnityaṃ) [heart-resident](hṛdayavartinī)
+[abiding](vartinī) [deity](devatā) [may-be](bhūyāt) [always](nityaṃ) [heart+dwelling](hṛdaya+vartinī)
 
 ## mukta-m0-p97-v2414
-[good-path-conduct](supathācārā)
+[good+path+conduct](su+patha+ācārā) [of-good-behavior](su+patha+ācārā) [virtuous](su+patha+ācārā) [righteous](su+patha+ācārā)
 
 ## mukta-m0-p97-v2415
-[that-path](tatpathaṃ) [how](na kathaṃ) [all](sarve) [go](gaccheyurnārthitā) [api](api)
+[that+path](tat+pathaṃ) [not](na) [how](kathaṃ) [all](sarve) [may-go](gaccheyuḥ) [not+requested](na+arthitāḥ) [even](api)
 
 ## mukta-m0-p97-v2416
-[moat](parikhā)
+[moat](parikhā) [ditch](parikhā) [trench](parikhā) [fosse](parikhā)
 
 ## mukta-m0-p97-v2417
-[who](yā) [stands](tiṣṭhati) [supreme](parā) [finality](niṣṭhā) [moat](parikhā) [remembered](sā smṛtā) [by-wise](budhaiḥ)
+[which](yā) [stands](tiṣṭhati) [supreme](parā) [conclusion](niṣṭhā) [moat](parikhā) [she](sā) [remembered](smṛtā) [by-wise](budhaiḥ)
 
 ## mukta-m0-p97-v2418
-[mine](khaniḥ)
+[mine](khaniḥ) [source](khaniḥ) [quarry](khaniḥ) [origin](khaniḥ)
 
 ## mukta-m0-p97-v2419
-[fortress+fortress-ness+cause](durgadurgatvahetuśca) [may-conquer](jīyāt) [mine](khaniriyaṃ) [always](sadā)
+[fortress+inaccessibility+cause](durga+durgatva+hetuḥ) [and](ca) [may-conquer](jīyāt) [mine](khaniḥ) [this](iyaṃ) [always](sadā)
 
 ## mukta-m0-p97-v2420
-[enclosure](vṛtiḥ)
+[p.+283](p.+283)) [enclosure](vṛtiḥ)
 
 ## mukta-m0-p97-v2421
-[cows](agāḥ) [nourished](puṣṭāḥ) [how](kathaṃ) [would-be](syuścenna) [would-be](syādrakṣākarī) [protector](vṛtiḥ)
+[cows](agāḥ) [nourished](puṣṭāḥ) [how](kathaṃ) [may-be](syuḥ) [if-not](cet) [not](na) [may-be](syāt) [protection+making](rakṣā+karī) [enclosure](vṛtiḥ)
 
 ## mukta-m0-p97-v2422
-[wall+circle](prākāravalayā)
+[rampart+encircled](prākāra+valayā) [goddess](devī) [you-shine](bhāsase) [by-compassion](dayayā) [yourself](svayā)
 
 ## mukta-m0-p97-v2423
-[wall+circle](prākāravalayā) [goddess](devī) [shine](bhāsase) [by-mercy](dayayā) [by-own](svayā)
+[rampart+encircled](prākāra+valayā) [goddess](devī) [you-shine](bhāsase) [by-compassion](dayayā) [yourself](svayā)
 
 ## mukta-m0-p97-v2424
-[shore](velā)
+[time](velā) [shore](velā) [boundary](velā) [occasion](velā)
 
 ## mukta-m0-p97-v2425
-[attached+attached+tar+attached+sal+branch+lazy](ratā ratātāratārasālatālalatālasā)
+[delighted](ratā) [ratātāratārasālatālalatālasā](ratātāratārasālatālalatālasā) [engaged](ratā) [pleased](ratā) [devoted](ratā)
