@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p46-v1126
-[with-koraṇṭa](sakoraṇṭaṃ) [palāśa](palāśa) [aśoka](āśoka) [mallikā](mallikāḥ)
+with-koraṇṭa(sakoraṇṭaṃ) palāśa+and-aśoka+and-mallikā(palāśāśokamallikāḥ)
 
 ## mukta-m0-p46-v1127
-[fragrant](sugandhīni) [flower](puṣpa) [leaf](patrāṇi) [sādhaka](sādhakaḥ)
+fragrant(sugandhīni) flower+and-leaves(puṣpapatrāṇi) practitioner(sādhakaḥ)
 
 ## mukta-m0-p46-v1128
-[earth-touched](bhūmisaṃspṛṣṭaṃ) [worm](kṛmi) [hair](keśa) [etc](ādi) [defiled](dūṣitam)
+ground+touched(bhūmisaṃspṛṣṭaṃ) worm+hair+etc(kṛmikeśādi) defiled(dūṣitam)
 
 ## mukta-m0-p46-v1129
-[head](mastakaṃ) [should-make](kuryāt) [flower](kusuma) [adorned](upahitaṃ) [always](sadā)
+head(mastakaṃ) should-make(kuryāt) flower+adorned(kusumopahitaṃ) always(sadā)
 
 ## mukta-m0-p46-v1130
-[in-worship](pūjāyāṃ) [flower](kusuma) [anjali](añjali) [five](pañcake)
+in-worship(pūjāyāṃ) flower+handful+five(kusumāñjalipañcake)
 
 ## mukta-m0-p46-v1131
-[should-give](dadyāt) [foot](pāda) [pair](dvandve) [ritual-knower](vidhānavit)
+should-give(dadyāt) at-foot+pair(pādadvandve) ritual+knower(vidhānavit)
 
 ## mukta-m0-p46-v1132
-[should-give](dadyāt) [attendants](parivārān) [then](atha) [worship](arcayet)
+should-give(dadyāt) to-retinue(parivārān) then(atha) should-worship(arcayet)
 
 ## mukta-m0-p46-v1133
-[by-six](ṣaḍbhir) [also](api) [thus](iti) [said](ukte) [on-head](mūrdhni) [should-be](syāt) [anjali](añjali) [pair](dvayam)
+with-six(ṣaḍbhiḥ) also(api) by-statement(iti+ukteḥ) on-head(mūrdhni) should-be(syāt) handful+pair(añjalidvayam)
 
 ## mukta-m0-p46-v1134
-[firstness](prathamatā) [of-them](teṣāṃ) [sometimes](kvacid) [eva](eva) [otherwise](anyathā) [becomes](bhavet)
+firstness(prathamatā) of-them(teṣāṃ) somewhere(kvacit) only(eva) otherwise(anyathā) may-be(bhavet)
 
 ## mukta-m0-p46-v1135
-[in-directions](dikṣu) [and](ca) [astra](astra) [anga-mantra](maṅgamantraiḥ) [namo-antaka](namo'ntakaiḥ)
+in-directions(dikṣu) and(ca) with-weapon+and-limb+mantras(astramaṅgamantraiḥ) ending-with-namas(namo'ntakaiḥ)
 
 ## mukta-m0-p46-v1136
-[in-worship](pūjane) [gārgya](gārgya) [saṃhitā](saṃhitā)
+in-worship(pūjane) Gārgya+compendium(gārgyasaṃhitā)
 
 ## mukta-m0-p46-v1137
-[crystal](sphaṭika) [dark-blue](śyāma) [blue](nīla) [black](kṛṣṇa) [reddish](aruṇa) [radiance](tviṣaḥ)
+crystal+dark-blue+blue+black+red+colored(sphaṭikaśyāmanīlakṛṣṇāruṇatviṣaḥ)
 
 ## mukta-m0-p46-v1138
-[by-wise](viduṣā) [by-this](anena) [by-order](krameṇa) [eva](eva) [anga](aṅga) [deities](devatāḥ)
+by-the-wise(viduṣā) by-this(anena) in-order(krameṇa) indeed(eva) limb+deities(aṅgadevatāḥ)
 
 ## mukta-m0-p46-v1139
-[from-separation](virahāt) [doubt](sandehaḥ) [here](atra) [arises](vijāyate)
+from-absence(virahāt) doubt(sandehaḥ) here(atra) arises(vijāyate)
 
 ## mukta-m0-p46-v1140
-[to-be-known](jñeyāḥ) [worship](pūjā) [homa](homa) [etc](ādi) [in-rite](karmaṇi)
+to-be-known(jñeyāḥ) in-worship+oblation+etc+rites(pūjāhomādikarmaṇi)
 
 ## mukta-m0-p46-v1141
-[should-be](syāt) [there](tatra) [thus](evam) [direction](dik) [arrangement](prakalpanā)
+should-be(syāt) there(tatra) thus(evaṃ) direction+arrangement(dikprakalpanā)
 
 ## mukta-m0-p46-v1142
-[mantrins](mantriṇaḥ) [say](prāhuḥ) [others](apare) [tu](tu) [all-around](samantataḥ)
+mantra-knowers(mantriṇaḥ) say(prāhuḥ) others(apare) but(tu) on-all-sides(samantataḥ)
 
 ## mukta-m0-p46-v1143
-[after](paścāt) [worship](abhyarcanāyāḥ) [should-be](syuḥ) [kalpa-stated](kalpoktā) [rites](vṛttayaḥ) [in-order](kramāt)
+afterwards(paścāt) of-worship(abhyarcanāyāḥ) should-be(syuḥ) ritual+prescribed(kalpoktā) procedures(vṛttayaḥ) in-order(kramāt)
 
 ## mukta-m0-p46-v1144
-[cause](heti) [birth](jāti) [lord](ādhipa) [possessed](upetān) [then](atha) [someone](kaścid) [desires](icchati)
+weapon+class+lord+endowed(hetijātyādhipopetān) not(n) otherwise(anthathā) someone(kaścit) wishes(icchati)
 
 ## mukta-m0-p46-v1145
-[vajra](vajra) [handed](hastāya) [to-lord-of-gods](surādhipataye) [place](padam)
+to-thunderbolt+handed(vajrahastāya) to-lord+of-gods(surādhipataye) word(padam)
 
 ## mukta-m0-p46-v1146
-[and](ca) [thus](evam) [of-others](anyeṣāṃ) [vehicle](vāhana) [etc](ādikam) [should-remove](uddharet)
+and(ca) thus(evam) of-others(anyeṣāṃ) vehicle+etc(vāhanādikam) one-should-extract(uddharet)
 
 ## mukta-m0-p46-v1147
-[yakṣa](yakṣaḥ) [varuṇa](varuṇaḥ) [wind](pavanaḥ) [moon](vidhuḥ)
+Yakṣa(yakṣo) Varuṇa(varuṇaḥ) Wind(pavano) Moon(vidhuḥ)
 
 ## mukta-m0-p46-v1148
-[red](raktaḥ) [black](asitaḥ) [smoky](dhūmraḥ) [white](śuklaḥ) [smoky](dhūmra) [white](sitau) [both](ubhau)
+red(raktaḥ) black(asitaḥ) smoky(dhūmraḥ) white(śuklaḥ) smoky+and-black(dhūmrasitau) both(ubhau)
 
 ## mukta-m0-p46-v1149
-[pale-red](gauraruṇaḥ) [in-order](kramāt) [these](ete) [by-color](varṇataḥ) [declared](parikīrttitāḥ)
+white(gauraḥ) reddish(uruṇaḥ) in-order(kramāt) these(ete) by-color(varṇataḥ) declared(parikīrttitāḥ)
 
 ## mukta-m0-p46-v1150
-[lotus](padmam) [of-them](eṣām) [weapons](āyudhāni) [in-order](kramāt) [know](viduḥ)
+lotus(padmam) of-these(eṣām) weapons(āyudhāni) in-order(kramāt) they-know(viduḥ)

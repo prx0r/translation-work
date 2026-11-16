@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p44-v1076
-[after](paścāt) [covering](avaguṇṭhana) [seal](mudrā) [by](yā)
+afterwards(paścāt) concealment(avaguṇṭhana) + seal(mudrayā)
 
 ## mukta-m0-p44-v1077
-[binding](baddhvā) [let-one-do](vidadhyāt) [supreme](parama) [making](īkṛtim)
+having-bound(baddhvā) one-should-perform(vidadhyāt) supreme(paramī) + making(kṛtim)
 
 ## mukta-m0-p44-v1078
-[binding](baddhvā) [ring-finger](anāmikā) [root](mūla) [joints](parvaṇoḥ)
+having-bound(baddhvā) ring-finger(anāmikā) + root(mūla) + joints(parvaṇoḥ)
 
 ## mukta-m0-p44-v1079
-[thus](tu) [this](iyaṃ) [if](cet) [syāt](syāt) [establishing](sthāpinī) [seal](mudrikā) [considered](matā)
+this(tu) this(iyam) if(cet) should-be(syāt) establishing(sthāpinī) seal(mudrikā) considered(matā)
 
 ## mukta-m0-p44-v1080
-[inserted](praveśitā) [thumb](aṅguṣṭhā) [that-same](saiva) [awakening](saṃbodhinī) [considered](matā)
+inserted(praveśita) + thumb(aṅguṣṭhā) that-very(sa) + that(eva) restraining(saṃbodhinī) considered(matā)
 
 ## mukta-m0-p44-v1081
-[six-limbs](ṣaḍaṅgānāṃ) [nyāsa](nyāsaḥ) [syāt](syāt) [consecration](sakalīkṛtiḥ)
+of-six-limbs(ṣaḍaṅgānāṃ) placement(nyāsaḥ) should-be(syāt) making-complete(sakalī) + making(kṛtiḥ)
 
 ## mukta-m0-p44-v1082
-[tied](grathitā) [thumb](aṅguṣṭhā) [extended](prasāritā) [other-fingers](parāṅguliḥ)
+interlaced(grathita) + thumbs(aṅguṣṭhā) extended(prasārita) other(parā) + fingers(aṅguliḥ)
 
 ## mukta-m0-p44-v1083
-[deity](devatā) [invocation](āhvāna) [action](karmaṇi)
+deity(devatā) + invocation(āhvāna) + in-action(karmaṇi)
 
 ## mukta-m0-p44-v1084
-[but](tu) [always](nityaṃ) [present](sannihitaḥ) [hari](hariḥ)
+but(tu) always(nityaṃ) present(sannihitaḥ) Hari(hariḥ)
 
 ## mukta-m0-p44-v1085
-[essence-form](tattvarūpasya) [radiance](tejasaḥ)
+of-principle(tattva) + form(rūpasya) of-splendor(tejasaḥ)
 
 ## mukta-m0-p44-v1086
-[according-to](anurodhataḥ) [statement](vacanasya) [siddhāntasārīya](siddhāntasārīya)
+of-Siddhāntasāra(siddhāntasārīya) + statement(vacanasya) + according-to(anurodhataḥ)
 
 ## mukta-m0-p44-v1087
-[of-śiva](śivasya) [invoked](āvāhitasya) [this](asya) [know](vidyāt) [in-body](dehe) [here](atra) [presence](sannidhim)
+of-Śiva(śivasya) invoked(āvāhitasya) of-this(asya) one-should-know(vidyāt) in-body(dehe) here(atra) presence(sannidhim)
 
 ## mukta-m0-p44-v1088
-[being-worshipped](prapūjyamānāṃ) [but](tu) [taking](gṛhītvā) [restraint](nigraha) [etc](ādikam)
+being-worshipped(prapūjyamānāṃ) but(tu) having-taken(gṛhītvā) restraint(nigraha) + etc.(ādikam)
 
 ## mukta-m0-p44-v1089
-[in-worship](pūjāyāṃ) [their](tān) [presence](nidhyaṃ) [indeed](hi) [of-śiva](śivasya) [which](yat)
+in-worship(pūjāyāṃ) that(tāt) presence(nidhyaṃ) indeed(hi) of-Śiva(śivasya) which(yat)
 
 ## mukta-m0-p44-v1090
-[pervaded](vyāptaṃ) [to-be-meditated](dhyeyaṃ) [syāt](syāt) [covering](avaguṇṭhanam)
+pervading(vyāptaṃ) to-be-meditated(dhyeyaṃ) should-be(syāt) concealment(avaguṇṭhanam)
 
 ## mukta-m0-p44-v1091
-[with](sārdham) [nectar-making](amṛtīkaraṇaṃ) [considered](matam)
+with(sārdham) immortality(amṛtī) + making(karaṇaṃ) considered(matam)
 
 ## mukta-m0-p44-v1092
-[of-āvāhana-etc-actions](āvāhanādikāryāṇām) [this](ayam) [meaning](arthaḥ) [revealed](prakāśitaḥ)
+of-invocation(āvāhana) + etc.(ādi) + functions(kāryāṇām) this(ayam) meaning(arthaḥ) revealed(prakāśitaḥ)
 
 ## mukta-m0-p44-v1093
-[filaments](kesarāḥ) [five-groups](pañcavargeṇa) [yaśanā](yaśanā) [lārṇādikaiḥ](lārṇādikaiḥ) [api](api)
+filaments(kesarāḥ) by-five(paṅca) + groups(vargeṇa) by-yaśanā(yaśanā) + (lā)rṇa(lārṇa) + etc.(ādikaiḥ) also(api)
 
 ## mukta-m0-p44-v1094
-[not](nā) [those](tān) [aṅgalina](aṅgalina) [to-be-known](ujñeyāt) [tadvat](tadvat) [of-kṣoṇīpura](kṣoṇīpurasya) [vai](vai)
+by-nose(nāsa) + finger(aṅgali) + nail(nau) to-be-known(jñeyāt) likewise(tadvat) of-earth(kṣoṇī) + city(purasya) indeed(vai)
 
 ## mukta-m0-p44-v1095
-[p.95](p.95) [mātṛkā-lotus](mātṛkāmbhoja) [called](mākhyātaṃ) [all-calamity-removal](sarvāpadvinivāraṇam)
+page(p.) 95)(95)) mātṛkā(mātṛkā) + lotus(ambhojam) declared(ākhyātaṃ) all(sarva) + calamity(āpad) + removing(vinivāraṇam)
 
 ## mukta-m0-p44-v1096
-[in-place](sthāne) [own](sve) [sve](sve) [mantra](mantri) [seat](upaveśayet)
+in-place(sthāne) own(sve) own(sve) with-mantra(mantri) one-should-place(upaveśayet)
 
 ## mukta-m0-p44-v1097
-[uttering-together](samuccārya) [seat](pīṭhaṃ) [to-her](tasyai) [offer](nivedayet)
+having-pronounced(samuccārya) pedestal(pīṭhaṃ) to-that(tasyai) one-should-offer(nivedayet)
 
 ## mukta-m0-p44-v1098
-[syāt](syāt) [kvaca](kvaca) [kvāci](kvāci) [tkovā](tkovā) [niyāmakaḥ](niyāmakaḥ)
+should-be(syāt) somewhere(kvaca) (kvāci)((kvāci)) or(tu) who(kovā) controller(niyāmakaḥ)
 
 ## mukta-m0-p44-v1099
-[to-be-given](deyaṃ) [how](kathaṃ) [syāt](syāt) [eṣa](eṣa) [determination](nirṇayaḥ)
+to-be-given(deyaṃ) how(kathaṃ) should-be(syāt) this(eṣa) determination(nirṇayaḥ)
 
 ## mukta-m0-p44-v1100
-[restrains](niyamayati) [one](ekā) [supreme](parā) [sākalyabodhikā](sākalyabodhikā)
+regulates(niyamayati) one(ekā) supreme(parā) all(sākalya) + knowing(bodhikā)

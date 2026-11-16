@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p37-v901
-[then](tato) [interval](antaram) [women](strīṇāṃ) [groups](gaṇān) [meditate](dhyāyet) [unperturbed](anākulaḥ)
+[then](tato') [interval+immortal+women-of](antara+amara+strīṇām) [groups](gaṇān) [should-meditate](dhyāyet) [unagitated](anākulaḥ)
 
 ## mukta-m0-p37-v902
-[his](tasya) [lotus](padmam) [eight-petaled](aṣṭadalam) [wise](budhaḥ)
+[of-that](tasya) [lotus](padmam) [eight-petaled](aṣṭa+dalam) [wise-one](budhaḥ)
 
 ## mukta-m0-p37-v903
-[on-seat](svāsanasthāṃ) [meditate](cintayitvā) [chosen-deity](iṣṭadevatām)
+[self-seat+situated](sva+āsana+sthām) [having-thought](cintayitvā) [worshipped-deity](iṣṭa+devatām)
 
 ## mukta-m0-p37-v904
-[elsewhere](anyatrāpi) [thus](evameva) [first-form](ādyadrūpāṃ) [chosen-deity](sveṣṭadevatām)
+[elsewhere-also](anyatra+api) [thus-indeed](evam+eva) [of-her](asyāḥ) [which-form](yad+rūpām) [own-worshipped-deity](sva+iṣṭa+devatām)
 
 ## mukta-m0-p37-v905
-[practitioner](sādhakaḥ) [swan-formed](haṃsarūpiṇam)
+[practitioner](sādhakaḥ) [swan-formed](haṃsa+rūpiṇam)
 
 ## mukta-m0-p37-v906
-[declared](proktā) [knowers-of-truth](tattvajñaiḥ) [best-of-mantrins](māntrikottamaiḥ)
+[said](proktā) [truth-knowers](tattva+jñaiḥ) [best-of-mantrikas](māntrika+uttamaiḥ)
 
 ## mukta-m0-p37-v907
-[best-practitioner](sādhakavaraḥ) [deity-worship](devatārādhanodyataḥ)
+[best-practitioner](sādhaka+varaḥ) [deity-worship-engaged](devatā+ārādhana+udyataḥ)
 
 ## mukta-m0-p37-v908
-[without-purification](bhūtaśuddhiṃ vinā) [of-doer](kartuḥ) [japa-homa-worship](japahomārcanakriyāḥ)
+[element-purification](bhūta+śuddhim) [without](vinā) [of-doer](kartuḥ) [japa-homa-arcana-acts](japa+homa+arcana+kriyāḥ)
 
 ## mukta-m0-p37-v909
-[by-life-installation](prāṇapratiṣṭhayā) [afterwards](paścāt) [life](jīvaṃ) [in-body](dehe) [place](nidhāpayet)
+[life-establishment](prāṇa+pratiṣṭhayā) [afterward](paścāt) [life](jīvam) [in-body](dehe) [should-place](nidhāpayet)
 
 ## mukta-m0-p37-v910
-[install](sthāpayet) [by-stated-mantra](uktamantreṇa) [properly](yathāvat) [mantrins](māntrikāḥ)
+[should-establish](sthāpayet) [said-by-mantra](ukta+mantreṇa) [properly](yathāvat) [thus](iti) [mantrikas](māntrikāḥ)
 
 ## mukta-m0-p37-v911
-[without-arrangement](vinyāsena vinā) [of-all-mantras](sarvamantrāṇāṃ) [write](lipeḥ)
+[of-all-mantras](sarva+mantrāṇām) [by-placement](vinyāsena) [without](vinā) [of-script](lipeḥ)
 
 ## mukta-m0-p37-v912
-[without-japa](japaṃ vinā) [say](prāhuḥ) [fruitless](niṣphalaṃ) [all-asura](sakalāsuram)
+[without](vinā) [japa](japam) [they-declare](prāhuḥ) [fruitless](niṣphalam) [entire](sakala)
 
 ## mukta-m0-p37-v913
-[declared](samākhyātā) [deity](devatā) [best-teachers](deśikottamaiḥ)
+[proclaimed](samākhyātā) [by-best-teachers](devatā+deśika+uttamaiḥ)
 
 ## mukta-m0-p37-v914
-[to-be-done](vidheyāni) [with-caste](jātiyuktāni) [by-teachers](deśikaiḥ)
+[to-be-done](vidheyāni) [with-caste-joined](jāti+yuktāni) [by-teachers](deśikaiḥ)
 
 ## mukta-m0-p37-v915
-[lips-teeth-top-limbs-mouth](oṣṭhadantottamāṅgāsye) [arms-legs-joints-fingers](doḥpatsaṃdhyagrakeṣu) [and](ca)
+[lips-teeth-top-of-head-mouth](oṣṭha+danta+uttamāṅga+āsye) [arms-feet-joints-tips](doḥ+pat+saṃdhi+agrakeṣu) [and](ca)
 
 ## mukta-m0-p37-v916
-[and](ca) [heart-first](hṛtpūrvaṃ) [hands-feet-pair](pāṇipādayuge) [then](tataḥ)
+[and](ca) [heart-first](hṛt+pūrvam) [hand-foot-pair](pāṇi+pāda+yuge) [then](tataḥ)
 
 ## mukta-m0-p37-v917
-[all](sarveṣu) [heart-firstness](hṛtpūrvatva) [connection](samanvayaḥ)
+[in-all](sarveṣu) [heart-firstness](hṛt+pūrvatva) [togetherness](samanvayaḥ)
 
 ## mukta-m0-p37-v918
-[of-mātrikā](mātrikāyāḥ) [in-arrangement](vinyāse) [also](api) [some](iti kecana)
+[of-matrika](mātrikāyāḥ) [in-placement-also](vinyāse+api) [thus](iti) [some](kecana)
 
 ## mukta-m0-p37-v919
-[not-this](naitat) [because-of-compound](samāsākrāntatvāt) [separate-connection](pṛthaganvayavaiśasāt)
+[not-this](na+etat) [by-compound-pervaded](samāsa+ākrāntatvāt) [separately-connection-harm](pṛthak+anvaya+vaiśasāt)
 
 ## mukta-m0-p37-v920
-[creation-bindu-near](sargarbindvantikāṃ) [place](nyaset) [ṭārṇādi](ṭārṇādyāṃ) [on-path-of-preservation](sthitivartmanā)
+[syllable-sarga-bindu-ending](sarga+bindu+antikām) [should-place](nyaset) [ṭa-syllable-beginning](ṭa+arṇādyām) [by-state-path](sthiti+vartmanā)
 
 ## mukta-m0-p37-v921
-[unable-to-do-all](sarvaṃkartumaśaktaścet) [creation-only](sṛṣṭimātraṃ) [script](lipiṃ) [place](nyaset)
+[all](sarvam) [to-do-unable](kartum+aśaktaḥ) [if](cet) [creation-only](sṛṣṭi+mātram) [script](lipim) [should-place](nyaset)
 
 ## mukta-m0-p37-v922
-[then](tato) [known](jñeyaḥ) [in-worship-etc](pūjanādiṣu) [by-mantrins](mantribhiḥ)
+[then](tataḥ) [to-be-known](jñeyaḥ) [in-worship-etc](pūjana+ādiṣu) [by-mantrikas](mantribhiḥ)
 
 ## mukta-m0-p37-v923
-[done](kāritā) [of-two](tayoḥ) [understood](gamyate)
+[caused](kāritā) [is-gone-to](gamyate) [of-them-two](tayoḥ)
 
 ## mukta-m0-p37-v924
-[for-each-of-both](pratyekādubhayor) [necessity](āvaśyakatvam) [thus](iti) [understood](gamyate)
+[of-each-and-of-both](pratyeka+āt+ubhayor) [necessity](āvaśyakatvam) [thus](iti) [is-understood](gamyate)
 
 ## mukta-m0-p37-v925
-[of-four](caturṇām) [also](api) [by-mention](kīrtanāt)
+[of-four-also](caturṇām+api) [by-declaration](kīrtanāt)
