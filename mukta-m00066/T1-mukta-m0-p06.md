@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p06-v126
-[by-this](ena) [body](gātreṇa) [they-revile](niṃdaṃti) [liṅga+bliss+great-lord](liṃgānaṃdamaheśvaram)
+[by-this](ena) [body](gātreṇa) [they-blame](niṃdaṃti) [linga-bliss-great-lord](liṃgānaṃdamaheśvaram)
 
 ## mukta-m0-p06-v127
-[from-sky+place](nabhaḥsthalāt) [falling](patatino) [not](no) [stands](tiṣṭhati) [from-nether-world](rasātalāt)
+[sky-place](nabhaḥsthalāt) [falling](patatino) [not](no) [stands](tiṣṭhati) [rasatala-from](rasātalāt)
 
 ## mukta-m0-p06-v128
-[therefore](tasmād) [of-bliss+form](ānaṃdarūpasya) [of-great+liṅga](mahāliṃgasya) [revilers](niṃdakāḥ)
+[therefore](tasmād) [bliss-form](ānaṃdarūpasya) [great-linga](mahāliṃgasya) [blamers](niṃdakāḥ)
 
 ## mukta-m0-p06-v129
-[from-bliss](ānaṃdāj) [is-born](jāyate) [indeed](hy) [beginning](ādā) [or](vā) [by-sound](nandena) [increases](vivaddhate)
+[bliss-from](ānaṃdāt) [arises](jāyate) [indeed](hi) [beginning](ādā) [or](vā) [nanda-increases](nandenavivaddhate)
 
 ## mukta-m0-p06-v130
-[by-bliss+lord+attainment](ānaṃdanāthalābhena) [in-sorrow](duḥkhe) [even](api) [body](aṃgaṃ) [not](na) [releases](muṃcati)
+[bliss-lord-gain](ānaṃdanāthalābhena) [in-sorrow](duḥkhe) [limb](aṃgaṃ) [not](na) [releases](muṃcati)
 
 ## mukta-m0-p06-v131
-[by-crookedness](kauṭilyena) [conceals](tirodhatte) [activity](pravṛttiṃ) [liṅga+devoted](liṃgatatparām)
+[crookedness](kauṭilyena) [conceals](tirodhatte) [activity](pravṛttiṃ) [linga-devoted](liṃgatatparām)
 
 ## mukta-m0-p06-v132
-[red+white+place+pair](raktaśuklapadadvaṃdvaṃ) [in-twelve+end+lotus](dvādaśāṃtasaroruhe)
+[red-white-foot-pair](raktaśuklapadadvaṃdvaṃ) [twelve-end-lotus](dvādaśāṃtasaroruhe)
 
 ## mukta-m0-p06-v133
-[its](tasya) [true-nature](svarūpaṃ) [O-goddess+lord](deveśi) [not](no) [know](jānaṃti) [evil-minded](durāśayāḥ)
+[its](tasya) [own-form](svarūpaṃ) [goddess](deveśi) [not-know](nojānaṃti) [evil-minded](durāśayāḥ)
 
 ## mukta-m0-p06-v134
-[of-those-two](tayoḥ) [equal+flavor](samarasī) [state](bhāvaḥ) [supreme+bliss+characterized](paramānaṃdalakṣaṇam)
+[of-them](tayoḥ) [equal-bliss-state](samarasī) [bhāvaḥ](bhāvaḥ) [supreme-bliss-mark](paramānaṃdalakṣaṇam)
 
 ## mukta-m0-p06-v135
-[of-all](sarveṣāṃ) [of-living-beings](prāṇināṃ) [birth](janma) [from-that](tata) [indeed](eva) [proceeds](pravartate)
+[of-all](sarveṣāṃ) [beings](prāṇināṃ) [birth](janma) [from-that](tata) [indeed](eva) [proceeds](pravartate)
 
 ## mukta-m0-p06-v136
-[that](taṃ) [without](vinā) [of-living-being+mere](prāṇimātrasya) [birth](janma) [anywhere](kvāpi) [not](na) [is-known](vidyate)
+[that](taṃ) [without](vinā) [of-living-being](prāṇimātrasya) [birth](janma) [anywhere](kvāpi) [not](na) [exists](vidyate)
 
 ## mukta-m0-p06-v137
-[in-red+white](raktaśukle) [in-place](pade) [in-abode](sthāne) [of-own+bliss](svānaṃdasya) [of-great-lord](maheśituḥ)
+[red-white](raktaśukle) [foot](pade) [place](sthāne) [own-bliss](svānaṃdasya) [great-lord](maheśituḥ)
 
 ## mukta-m0-p06-v138
-[by-foot+pair+form](caraṇadvaṃdvarūpeṇa) [sufficient](paryāṇaṃ) [of-wise-minded](sinmanīṣiṇām)
+[foot-pair-form](caraṇadvaṃdvarūpeṇa) [surrounding](paryāṇaṃsin) [wise](manīṣiṇām)
 
 ## mukta-m0-p06-v139
-[not-worshipping](apūjayan) [in-red](rakta) [in-white](śukle) [in-place](pade) [and-gods](devāṃśca) [worshipping](pūjayan)
+[not-worship](apūjayan) [red](rakta) [white](śukle) [foot](pade) [gods](devāṃśca) [worship](pūjayan)
 
 ## mukta-m0-p06-v140
-[in-red+white+place](raktaśuklapade) [first](pūrvaṃ) [in-two+six+end+made-abode](dviṣaṭkāṃtakṛtālaye)
+[red-white-foot-before](raktaśuklapadepūrvaṃ) [twelve-end-made-abode](dviṣaṭkāṃtakṛtālaye)
 
 ## mukta-m0-p06-v141
-[therefore](ataḥ) [in-venerable+guru+lord+foot](śrīgurunāthāṃghri) [by-pair+form](dvaṃdvarūpeṇa) [united](saṃmite)
+[therefore](ataḥ) [guru-lord-feet-pair-form](śrīgurunāthāṃghridvaṃdvarūpeṇasaṃmite)
 
 ## mukta-m0-p06-v142
-[by-unbeautiful](asuṃdaraiḥ) [by-unfortunate](asaubhāgyaiḥ) [due-to-non-existence](abhāvād) [of-this](asya) [reality](vastunaḥ)
+[not-beautiful](asuṃdarair) [inauspicious](asaubhāgyai) [absence](abhāvād) [of-this](asya) [thing](vastunaḥ)
 
 ## mukta-m0-p06-v143
-[therefore](ato) [of-this](asya) [great-lord](maheśvarasya) [of-liṅga+bliss+made+form](liṃgānaṃdakṛtākṛteḥ)
+[therefore](atomaheśvarasyāsya) [linga-bliss-made-form](liṃgānaṃdakṛtākṛteḥ)
 
 ## mukta-m0-p06-v144
-[from-sorrow](duḥkhād) [to-sorrow](duḥkhaṃ) [gone](gatās) [indeed](te) [they](tu) [like-moving+pillar](jaṅgamastaṃbhasannibhāḥ)
+[sorrow-from-sorrow](duḥkhādduḥkhaṃ) [gone](gatāstetu) [moving](jaṅgamastaṃbhasannibhāḥ)
 
 ## mukta-m0-p06-v145
-[from-bliss+lord+tradition](ānaṃdanāthasamayād) [then](atha) [far](dūraṃ) [expelled](bahiṣ.kṛtāḥ)
+[bliss-lord-agreement](ānaṃdanāthasamayād) [then](atha) [far](dūraṃ) [outside](bahiṣ.kṛtāḥ)
 
 ## mukta-m0-p06-v146
-[others](anye) [with-torn+hair](luṃcitakeśāśca) [with-dirty+limbs](malināṅgās) [likewise](tathā) [others](pare)
+[others](anyeluṃcitakeśāśca) [dirty-limbed](malināṅgāstathā) [then](pare)
 
 ## mukta-m0-p06-v147
-[these](ete) [ruined](vinaṣṭā) [fools](mūrkhāśca) [vainly+learned+thinking](vṛthāpaṇḍitamāninaḥ)
+[these](ete) [destroyed](vinaṣṭā) [fools](mūrkhāśca) [vainly](vṛthā) [pandit-proud](paṇḍitamāninaḥ)
 
 ## mukta-m0-p06-v148
-[of-those](teṣāṃ) [evil-souled](durātmanāṃ) [each+that+conduct+according-to](tattadācārānuguṇaṃ) [fruit](phalam)
+[of-them](teṣāṃ) [evil-souled](durātmanāṃ) [that-that](tattad) [conduct](ācārānuguṇaṃ) [fruit](phalam)
 
 ## mukta-m0-p06-v149
-[not](na) [indeed](hi) [from-kodrava+seeds](kodravabījebhyo) [sprout-forth](protpadyante) [barley+sprouts](yavāṃkurāḥ)
+[not](na) [indeed](hi) [kodrava-seeds](kodravabījebhyo) [arise](protpadyaṃte) [barley-sprouts](yavāṃkurāḥ)
 
 ## mukta-m0-p06-v150
-[as](yathā) [doer](kāras) [so](tathā) [conduct](vṛttaṃ) [as](yathā) [behavior](cāras) [so](tathā) [fruit](phalam)
+[as](yathā) [action](kāra) [so](tathā) [conduct](vṛttaṃ) [as](yathā) [conduct](cāra) [so](tathā) [fruit](phalam)

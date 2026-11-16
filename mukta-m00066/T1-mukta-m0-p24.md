@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p24-v576
-[bliss-god](ānaṃdadeva) [worship-for](pūjārthaṃ) [fitness](yogyatvaṃ) [attains](pratipadyate)
+[bliss-deva](ānaṃdadeva) [worship-for](pūjārthaṃ) [fitness](yogyatvaṃ) [attains](pratipadyate)
 
 ## mukta-m0-p24-v577
-[worship-sequence](ārādhanakramaṃ) [and](cāśu) [quickly](āśu) [liṅga-lord-of](liṃgeśasya) [I-tell](bravīmite)
+[worship-sequence](ārādhanakramaṃ) [and](ca) [quickly](āśu) [of-Linga-lord](liṃgeśasya) [speaks](bravīmite)
 
 ## mukta-m0-p24-v578
-[in-circle-situated](cakrasthāṃ) [lalitā](lalitā) [goddess](devīm) [in-self](ātmany) [one-should-invoke](udvāsayet) [dear-one](priye)
+[in-wheel](cakrasthāṃ) [Lalita](lalitā) [goddess](devīm) [in-self](ātmanyud) [dwell](vāsayet) [beloved](priye)
 
 ## mukta-m0-p24-v579
-[above-below-facing-lotus](uparyadhomukhāṃbhoja) [closed-together-made](saṃpuṭīkṛta) [in-pavilion](maṃṭape)
+[upper](uparyadhomukhāṃbhoja) [lotus](uparyadhomukhāṃbhoja) [joined](saṃpuṭīkṛta) [pavilion](maṃṭape)
 
 ## mukta-m0-p24-v580
-[supreme-nectar-streams-by](parāmṛtadhārābhir) [stream-device-charming](ddhārāyaṃtramanohare)
+[supreme-nectar-stream](parāmṛtadhārābhirddhārāyaṃtramanohare) [pleasing](parāmṛtadhārābhirddhārāyaṃtramanohare)
 
 ## mukta-m0-p24-v581
-[should-cause-to-enter](praveśayet) [own-house](nijagṛhaṃ) [intense-bliss-filled](prakṛṣṭānaṃdanirbharaḥ)
+[enter](praveśayennijagṛhaṃ) [own-house](praveśayennijagṛhaṃ) [excellent-bliss-filled](prakṛṣṭānaṃdanirbharaḥ)
 
 ## mukta-m0-p24-v582
-[of-her](tasyā) [indeed](eva) [bliss-portion](ānaṃda+kalām) [contemplating](anusaṃdadhat) [I-resort](āśraye)
+[of-her](tasyā) [bliss-art](evānaṃda+kalāmanusaṃdadhadāśraye) [support](evānaṃda+kalāmanusaṃdadhadāśraye)
 
 ## mukta-m0-p24-v583
-[made-mudrā-salutation](kṛtamudrā+namaskāro) [worship-king-house](yāgarājagṛhaṃ) [should-enter](viśet)
+[mudra-made](kṛtamudrā) [salutation](namaskāro) [worship-king-house](yāgarājagṛhaṃ) [enters](viśet)
 
 ## mukta-m0-p24-v584
-[wine-juice-lotus](kādaṃbarī+rasa+aṃbhoja) [made-mouth-lotus](karaṃbita+mukhāṃbujām)
+[Kadamba-rasa](kādaṃbarī+rasāṃbhoja) [lotus](kādaṃbarī+rasāṃbhoja) [face-lotus](karaṃbitamukhāṃbujām)
 
 ## mukta-m0-p24-v585
-[of-couch](śayyāyās) [in-four-directions](tu+caturdikṣu) [should-worship](yajet) [goddess-group-of-four](devī+catuṣṭayam)
+[on-bed](śayyāyāstu) [four-directions](caturdikṣu) [worship](yajeddevī) [goddess-quartet](catuṣṭayam)
 
 ## mukta-m0-p24-v586
-[first](prathamā) [yellow-colored](pītavarṇā) [should-be](syāt) [second](dvitīyā) [dark-complexioned](śyāmalākṛtiḥ)
+[first](prathamāpītavarṇā) [yellow-colored](prathamāpītavarṇā) [second](dvitīyā) [dark-formed](śyāmalākṛtiḥ)
 
 ## mukta-m0-p24-v587
-[bliss-lord-god-of](ānaṃdanāthadevasya) [four](catasraḥ) [attendants](paricārikāḥ)
+[of-bliss-lord](ānaṃdanāthadevasya) [four](catasraḥ) [attendants](paricārikāḥ)
 
 ## mukta-m0-p24-v588
-[of-them](tāsāṃ) [with-mantra](maṃtreṇa) [own](naijena) [worship](pūjanaṃ) [is-declared](samudīritam)
+[of-them](tāsāṃ) [by-mantra](maṃtreṇa) [own](naijena) [worship](pūjanaṃ) [declared](samudīritam)
 
 ## mukta-m0-p24-v589
-[sandals](pādukāṃ) [I-worship](pūjayāmi) [thus](iti) [with-seven-syllabled](saptākṣaryā) [most-precious](mahārhayā)
+[sandal](pādukāṃ) [worship-I](pūjayāmīti) [seven-syllabled](saptākṣaryā) [precious](mahārhayā)
 
 ## mukta-m0-p24-v590
-[with-these-mantras](etair+maṃtraiḥ) [delighted-minded](prahṛṣṭātmā) [with-fragrance-flower-unbroken-rice-etc.](gaṃdhapuṣpākṣatādibhiḥ)
+[by-these-mantras](etairmaṃtraiḥ) [gladdened-self](prahṛṣṭātmā) [sandal-flowers-rice-etc](gaṃdhapuṣpākṣatādibhiḥ)
 
 ## mukta-m0-p24-v591
-[adornment-platform-mantra](śṛṃgārapīṭhikāmaṃtro) [to-be-collected](samūhyaḥ) [as-before](pūrvavat) [dear-one](priye)
+[erotic-seat-mantra](śṛṃgārapīṭhikāmaṃtro) [to-be-combined](samūhyaḥ) [as-before](pūrvavatpriye)
 
 ## mukta-m0-p24-v592
-[seed](bījam) [at-beginning](ādau) [then](tato) [eight-syllable](aṣṭārṇaṃ) [in-middle](madhye) [name](nāma) [arrangement](prakalpanam)
+[seed](bījamādau) [then-eight-syllabled](tatoṣṭārṇaṃ) [middle](madhye) [name](nāma) [arrangement](prakalpanam)
 
 ## mukta-m0-p24-v593
-[in-all-circle-worships](sarvatracakrapūjāsu) [to-be-employed](viniyojyā) [indeed](hi) [for-prosperity](bhūtaye)
+[everywhere-wheel-worship](sarvatracakrapūjāsu) [to-be-used](viniyojyā) [indeed](hi) [for-welfare](bhūtaye)
 
 ## mukta-m0-p24-v594
-[five-desire-great-yantra](paṃcakāmamahāyaṃtraṃ) [having-visualized](bhāvayitvā) [should-worship](arccayet) [person](naraḥ)
+[five-desire-great-yantra](paṃcakāmamahāyaṃtraṃ) [having-meditated](bhāvayitvārccayennaraḥ) [worship-man](bhāvayitvārccayennaraḥ)
 
 ## mukta-m0-p24-v595
-[then](tataḥ) [six-cornered](ṣaṭkoṇam) [having-drawn](ālikhya) [bīja-group-of-six](bījaṣaṭkaṃ) [there](tatra) [should-write](saṃlikhet)
+[then](tataḥ) [six-cornered](ṣaṭkoṇamālikhya) [draw](blūṣaṭkaṃ) [there](tatra) [write](saṃlikhet)
 
 ## mukta-m0-p24-v596
-[thus](evaṃ) [having-contemplated](viciṃtya) [that-yantra](tadyaṃtraṃ) [unrestrained-happiness-abode](niryaṃtraṇa+sukhāspadam)
+[thus](evaṃ) [having-considered](viciṃtya) [that-yantra](tadyaṃtraṃ) [unrestrained](niryaṃtraṇa) [comfort-seat](sukhāspadam)
 
 ## mukta-m0-p24-v597
-[desire-yantra-above](kāmayaṃtropari) [should-sit](vased) [messenger-goddess](dūtikā) [if](yadi) [Pārvatī](pārvatī)
+[desire-yantra-upon](kāmayaṃtroparivased) [messenger](dūtikā) [if](yadi) [Parvati](pārvatī)
 
 ## mukta-m0-p24-v598
-[innumerable](asaṃkhyātā) [in-good-nāḍīs](sunāḍīṣu) [which](ye) [and](ca) [blisses](ānaṃdāḥ) [are-proclaimed](prakīrttitāḥ)
+[countless](asaṃkhyātā) [good-nadis](sunāḍīṣu) [who](ye) [blisses](cānaṃdāḥ) [declared](prakīrttitāḥ)
 
 ## mukta-m0-p24-v599
-[love-yantra-knowledge-by](kaṃdarpa+yaṃtra+vedena) [is-born](jāyate) [divine-enjoyer-female](divyabhoginī)
+[by-Kamadeva-yantra-veda](kaṃdarpa+yaṃtra+vedena) [arises](jāyate) [divine-enjoyer](divyabhoginī)
 
 ## mukta-m0-p24-v600
-[thus](itthaṃ) [by-her](tayā) [having-obtained](samāsādya) [body-union-festival](gātrasaṃgamahotsavam)
+[thus](iththaṃ) [by-her](tayā) [having-approached](samāsādya) [body-union-festival](gātrasaṃgamahotsavam)

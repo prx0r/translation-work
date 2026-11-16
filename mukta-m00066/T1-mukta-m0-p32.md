@@ -2,76 +2,52 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p32-v776
-[one-should-worship](arcayet) [liṅga](liṃgam) [lord](īśānam) [this](iyam) [first](ādyā) [by-me](mayā) [oblation](āhutiḥ)
-
+arcayet-liṅgam-īśānam-iyamādyā-mayā-āhutiḥ
 ## mukta-m0-p32-v777
-[moon](caṃdra) [womb](garbhā) [thus](iti) [some](kāpi) [exists](asti) [nāḍī](nāḍī) [lotus](nalina) [eyed-one](locane)
-
+caṃdragarbha-iti-kā-api-asti-nāḍī-nalina-locane
 ## mukta-m0-p32-v778
-[there-situated](tatratyam) [nectar](amṛtaṃ) [know](viddhi) [Kāmeśvarī](kāmeśvarī) [union](yukti) [prosperity](bhūti) [giving](dam)
-
+tatratya-amṛtam-viddhi-kāmeśvarī-ukti-bhūti-dam
 ## mukta-m0-p32-v779
-[slightly](īṣat) [pale-red](pāṭala) [colored](varṇaṃ) [and](ca) [yūthikā-flower](yūthikā) [equal](sama) [fragrance](saurabham)
-
+īṣat-pāṭala-varṇam-ca-yūthikā-sama-saurabham
 ## mukta-m0-p32-v780
-[with-being](sabhavatyaṃ) [entered](samāpanno) [cloud-state](jaladatvaṃ) [by-subjugation](vaśīkriyāt)
-
+sabhavatyam-samāpannaḥ-jalada-tvam-vaśīkriyāt
 ## mukta-m0-p32-v781
-[not](na) [lake](saro) [like](deva) [in-svāti-drops](svāteṣu) [slipped](skhalitaṃ) [going](gamanaṃ) [should-be](bhavet)
-
+na-sarod-deva-svāteṣu-skhalitam-gamanam-bhavet
 ## mukta-m0-p32-v782
-[moon](caṃda) [intoxicated](unmattā) [in-foot-place](padasthāne) [moon](caṃdra) [womb](garbhā) [is-proclaimed](prakīrttitā)
-
+caṃdonmattā-padasthāne-caṃdragarbhā-prakīrttitā
 ## mukta-m0-p32-v783
-[here](atra) [of-the-messenger-goddess](dūtyāḥ) [of-the-body](śarīrasya) [previously](pūrvatrāpi) [states](daśā) [I-spoke](abruve)
-
+atradūtyāḥ-śarīrasya-pūrvatrāpi-daśā-bruve
 ## mukta-m0-p32-v784
-[slightly](īṣat) [reddened](āraktatā) [eyes](netre) [somewhat](kiṃcid) [eyebrow](bhrū) [creeper](vallī) [dance](tāṃḍavaṃ)
-
+īṣad-āraktatā-netre-kiṃcid-bhū-valli-tāṃḍavam
 ## mukta-m0-p32-v785
-[O-Ānandanātha](ānaṃdanātha) [mansion](bhavana) [outer](bāhya) [chamber](kakṣyā) [entering](vigāhanam)
-
+ānaṃdanātha-bhavana-bāhyakakṣyā-vigāhanam
 ## mukta-m0-p32-v786
-[of-the-breasts](stanayoḥ) [horripilation](pulaka) [sprout](aṃkūraḥ) [of-the-cheeks](gaṃḍayoḥ) [and](ca) [reddening](anuraktatā)
-
+stanayoḥ-pulakāṃkūraḥ-gaṃḍayoḥ-ca-anuraktatā
 ## mukta-m0-p32-v787
-[thus](evaṃ) [of-this-kind](prakārā) [she](sā) [messenger-goddess](dūtī) [moon](caṃdra) [womb](garbhā) [nectar](amṛta) [streams](dravaiḥ)
-
+evaṃ-prakārā-sā-dūtī-caṃdragarbhā-amṛta-dravaiḥ
 ## mukta-m0-p32-v788
-[should-worship](yajet) [Ānandanātha](ānaṃdanāthaṃ) [she](sā) [like-a-hero](vīravat) [fruit](phalam) [enjoys](aśnute)
-
+yajet-ānaṃdanātham-sā-vīravat-phalam-aśnute
 ## mukta-m0-p32-v789
-[half](artha) [finger](aṃguli) [raised](samunnamra) [molten](tapta) [gold](kāṃcana) [resembling](sannibhā)
-
+arthāṃguli-samunnamra-taptakāṃcana-sannibhā
 ## mukta-m0-p32-v790
-[of-her](tasyāḥ) [of-Caṃdriṇikā](caṃdriṇikā) [nāḍī](nāyā) [again](bhūyaḥ) [in-liṅga](liṃge) [by-striking](īśatāḍavāt)
-
+tasyāḥ-caṃdriṇikā-nāyā-bhūyo-liṃgeśa-tāḍavāt
 ## mukta-m0-p32-v791
-[wine](kādaṃbarī) [juice](rasa) [fragrance](āmodī) [intoxicating](mānmadaṃ) [water](toyaṃ) [would-arise](udbhavet)
-
+kādaṃbarī-rasa-āmodī-mān-madaṃ-toya-mudbhavet
 ## mukta-m0-p32-v792
-[Godāvarī](godāvarī) [sacred-place](tīrtha) [consisting-of](mayī) [by-her](tayā) [one-should-sprinkle](siṃcet) [the-great-lord](maheśvaram)
-
+godāvarī-tīrthamayī-tayā-siṃcet-maheśvaram
 ## mukta-m0-p32-v793
-[Rudrahood](rudratva) [limit](sīmā) [devotee](bhaktasya) [fire](vahni) [element](tattva) [subjugation](vaśīkṛtim)
-
+rudratva-sīmā-bhaktasya-vahni-tattva-vaśīkṛtim
 ## mukta-m0-p32-v794
-[extends](tanoti) [lord](bhagavān) [this](eṣaḥ) [great](mahā) [bliss](ānaṃda) [great-lord](maheśvaraḥ)
-
+tanoti-bhagavān-eṣaḥ-mahānaṃda-maheśvaraḥ
 ## mukta-m0-p32-v795
-[heat](ume) [burning](dāhaṃ) [they-give](prayacchaṃti) [by-themselves](svayam) [fire](agni) [consisting-of](mayaḥ) [since](yataḥ)
-
+umedāham-prayacchanti-svayam-agni-mayo-yataḥ
 ## mukta-m0-p32-v796
-[of-this](asya) [mantra](maṃtraḥ) [but](tu) [O-fair-hipped-one](suśroṇī) [let-it-be-heard](śrūyatām) [is-being-told](abhidhīyate)
-
+asya-mantraḥ-tu-suśroṇī-śrūyatām-abhidhīyate
 ## mukta-m0-p32-v797
-[I-worship](arcayāmi) [your](bhavat) [body](gātraṃ) [from-that](ataḥ) [success](siddhiṃ) [grant](prayaccha) [to-me](me)
-
+arcayāmi-bhavad-gātra-mataḥ-siddhim-prayaccha-me
 ## mukta-m0-p32-v798
-[now](atha) [another](anya) [nāḍī](nāḍikā) [goddess](devī) [who](yā) [she](sā) [moon](caṃdra) [rising](maha) [udayā](udayā)
-
+athānya-nāḍikā-devī-yā-sā-caṃdramahodayā
 ## mukta-m0-p32-v799
-[within](aṃtaḥ) [somewhat](kiṃcit) [dark](śyāma) [colored](varṇā) [in-three](triṣu) [places](sthāneṣu) [curved](vakritā)
-
+antaḥ-kiṃcit-śyāma-varṇā-triṣu-sthāneṣu-vakritā
 ## mukta-m0-p32-v800
-[sportive](līlā) [nectar](amṛta) [fair](gaura) [limbed](aṃgī) [moving](valat) [eyebrow](bhrū) [creeper](valli) [shining](bhāsurā)
+līlā-amṛta-gaurāṃgī-valad-bhrū-valli-bhāsurā

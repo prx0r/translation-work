@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p09-v201
-[on-the-upper-part](uttaraṃge) [in-the-great-accomplishment](mahāsiddhau) [foam](phena) [+](+) [net](jāla) [+](+) [covered](samāvṛte)
+[upper-part](uttaraṃge) [great-siddhi](mahāsiddhau) [foam-net-covered](phenajālasamāvṛte)
 
 ## mukta-m0-p09-v202
-[repeatedly](muhuḥ) [+](+) [sounding](śabdāyamāne) [and](ca) [river](nadī) [+](+) [torrent](nada) [+](+) [filled-with](samākule)
+[repeatedly-sounding](muhuḥśabdāyamāne) [and](ca) [rivers-streams-crowded](nadīnadasamākule)
 
 ## mukta-m0-p09-v203
-[various](nānā) [+](+) [flower](puṣpa) [+](+) [multitude](gaṇa) [+](+) [fragrance](āmoda) [wandering](bhrāṃta) [+](+) [flower](puṣpaṃ) [+](+) [drinking](dhaya) [+](+) [swarm](brajam)
+[various-flower-group-fragrance](nānāpuṣpagaṇāmoda) [wandering-flower-drinking-herd](bhrāṃtapuṣpaṃdhayabrajam)
 
 ## mukta-m0-p09-v204
-[one-should-visualize](viciṃtayen) [o-great-goddess](maheśāni) [in-its-midst](tanmadhye) [golden](hema) [+](+) [mansion](maṃdiram)
+[should-contemplate](viciṃtayen) [O-great-lady](maheśāni) [in-its-middle](tanmadhye) [golden-temple](hemamaṃdiram)
 
 ## mukta-m0-p09-v205
-[four-aims](caturvarga) [+](+) [fruit](phala) [+](+) [attainment](prāpti) [+](+) [cause](kāraṇaṃ) [+](+) [sorrow](śoka) [+](+) [removing](vāraṇam)
+[four-purposes](caturvarga) [fruit-attainment](phalaprāpti) [cause-sorrow-removal](kāraṇaṃśokavāraṇam)
 
 ## mukta-m0-p09-v206
-[various](nānā) [+](+) [jewel](maṇi) [+](+) [adorned](vicitrāṇāṃ) [of-pillars](staṃbhānāṃ) [new](nava) [+](+) [splendor](śobhayā)
+[various-gems](nānāmaṇi) [of-various](vicitrāṇāṃ) [of-pillars](staṃbhānāṃ) [new-beauty](navaśobhayā)
 
 ## mukta-m0-p09-v207
-[with-moonbeams](caṃdrikābhiḥ) [surrounded](parivṛtaṃ) [young](bāla) [+](+) [sunlight](ātapa) [+](+) [reddened](vilohitam)
+[by-moonbeams](caṃdrikābhiḥ) [surrounded](parivṛtaṃ) [young-sun-reddened](bālātapavilohitam)
 
 ## mukta-m0-p09-v208
-[with-strung](sajja) [+](+) [bow](cāpena) [+](+) [by-kāma](kāmena) [being-guarded](rakṣyamāṇam) [on-all-sides](itastataḥ)
+[with-bow-armed-cupid](sajjacāpenakāmena) [protected-here-there](rakṣyamāṇamitastataḥ)
 
 ## mukta-m0-p09-v209
-[by-longing](utkaṇṭhā) [+](+) [goddess](devatā) [+](+) [given](datta) [yak-tail](vāla) [+](+) [fan](vyajana) [+](+) [fanning](vījanam)
+[longing](utkaṇṭhā) [god-given](devatādatta) [fan-fanning](vālavyajanavījanam)
 
 ## mukta-m0-p09-v210
-[enjoyment](bhoga) [+](+) [implements](upakaraṇaiḥ) [+](+) [endowed-with](yuktaṃ) [with-various](vividhaiḥ) [and](ca) [with-drinks](prapānakaiḥ)
+[enjoyment-implements](bhogopakaraṇaiḥ) [endowed](yuktaṃ) [various](vividhaiḥ) [and](ca) [drinks](prapānakaiḥ)
 
 ## mukta-m0-p09-v211
-[playful](narma) [+](+) [conversation](ālāpa) [+](+) [skilled-in](sābhijñaiḥ) [+](+) [with-maidservant](ceṭi) [+](+) [groups](vargaiḥ) [+](+) [charming](manoharam)
+[jest-conversation-experts](narmālāpakasābhijñaiḥ) [servant-groups](ceṭivargaiḥ) [charming](manoharam)
 
 ## mukta-m0-p09-v212
-[treasure](nidhi) [+](+) [deity](devatayā) [+](+) [endowed-with](yuktaṃ) [silk](paṭṭāṃśuka) [+](+) [adorned](pariṣkṛtam)
+[treasure-deity-endowed](nidhidevatayāyuktaṃ) [silk-cloth-adorned](paṭṭāṃśukapariṣkṛtam)
 
 ## mukta-m0-p09-v213
-[various](nānā) [+](+) [gem](ratna) [+](+) [strewn-with](samākīrṇaṃ) [four](catuḥ) [+](+) [pillar](staṃbha) [+](+) [beautified](upaśobhitām)
+[various-gems-filled](nānāratnasamākīrṇaṃ) [four-pillars-adorned](catustaṃbhopaśobhitām)
 
 ## mukta-m0-p09-v214
-[there](tatra) [+](+) [pillar](staṃbha) [+](+) [pair](dvaya) [+](+) [attached](āsakta) [crosswise](tiryak) [+](+) [wooden-beam](dāru) [+](+) [suspended](palaṃbite)
+[there-pillar-pair-attached](tatrastaṃbhadvayāsakta) [crosswise-wood-hanging](tiryagdārupalaṃbite)
 
 ## mukta-m0-p09-v215
-[couch](maṃcam) [+](+) [high-and-low](uccāvaca) [+](+) [jewel](maṇi) [+](+) [light](jyotiḥ) [+](+) [tawny](piṃjara) [+](+) [directions](diṅ) [+](+) [facing](mukham)
+[cot-high-low-gem-light](maṃcamuccāvacamaṇijyotiḥ) [cage-direction-facing](piṃjaradiṅmukham)
 
 ## mukta-m0-p09-v216
-[sadāśiva](sadāśiva) [+](+) [body](vapuḥ) [+](+) [placed](kṣipta) [well-made](sujāta) [+](+) [plank](phalaka) [+](+) [shining](ujvalam)
+[Sadashiva-form](sadāśivavapuḥ) [thrown](kṣipta) [well-born-plank-radiant](sujātaphalakojvalam)
 
 ## mukta-m0-p09-v217
-[extremely](atyaṃta) [+](+) [soft](mṛdulaṃ) [delightful](hṛdyaṃ) [milk](kṣīra) [+](+) [ocean](abdhi) [+](+) [white](dhavala) [+](+) [hue](cchaviḥ)
+[extremely](atyaṃta) [soft](mṛdulaṃ) [pleasing](hṛdyaṃ) [milk-ocean-white-splendor](kṣīrābdhidhavalacchaviḥ)
 
 ## mukta-m0-p09-v218
-[safflower-colored](kausuṃbha) [+](+) [garment](vasanaṃ) [new](navyaṃ) [young](bāla) [+](+) [sun](ārka) [+](+) [similar-to](sadṛśaṃ) [one-should-remember](smaret)
+[saffron-garment](kausuṃbhavasanaṃ) [new](navyaṃ) [young-sun](bālārka) [like](sadṛśaṃ) [should-remember](smaret)
 
 ## mukta-m0-p09-v219
-[tied-up](unnaddha) [+](+) [braided-hair](kabarī) [+](+) [mass](pāśaṃ) [musk](kastūrī) [+](+) [forehead-mark](tilaka) [+](+) [shining](ujvalam)
+[tied-braid-knot](unnaddhakabarīpāśaṃ) [musk-tilaka-radiant](kastūrītilakojvalam)
 
 ## mukta-m0-p09-v220
-[pearl](muktā) [+](+) [necklace](hāreṇa) [+](+) [with-charming](ramyeṇa) [adorned](vibhūṣita) [+](+) [neck](śirodharam)
+[pearl-necklace-charming](muktāhāreṇaramyeṇa) [adorned-neck](vibhūṣitaśirodharam)
 
 ## mukta-m0-p09-v221
-[always](satataṃ) [joined](yukta) [+](+) [restraint](yaṃtratvāt) [+](+) [unclothed](anaṃbara) [own](nija) [+](+) [form](ākṛtim)
+[always](satataṃ) [yoked-instrument-thus](yuktayaṃtratvādanaṃbara) [own-form](nijākṛtim)
 
 ## mukta-m0-p09-v222
-[nail](nakha) [+](+) [scratches](kṣataiḥ) [and](ca) [with-various](vividhaiḥ) [+](+) [with-kisses](cuṃbanaiḥ) [and](ca) [hundreds](paraḥśataiḥ)
+[nail-scratches](nakhakṣataiḥ) [and](ca) [various](vividhaiḥ) [kisses](cuṃbanaiḥ) [and](ca) [hundreds](paraḥśataiḥ)
 
 ## mukta-m0-p09-v223
-[with-acts](karaṇaiḥ) [+](+) [many](bahu) [+](+) [variations](vinyāsai) [with-embraces](rāśleṣaiḥ) [+](+) [many](bahu) [+](+) [kinds](bhedibhiḥ)
+[instruments](karaṇaiḥ) [many-arrangements](bahuvinyāsai) [embraces](rāśleṣaiḥ) [many-varieties](bahubhedibhiḥ)
 
 ## mukta-m0-p09-v224
-[that](tāṃ) [goddess](devīm) [+](+) [also](api) [+](+) [that](tat) [+](+) [meditation](dhyāna) [+](+) [in-sequence](krameṇa) [+](+) [the-wise-one](matimān) [should-remember](smaret)
+[that](tāṃ) [goddess](devīm) [without-that-meditation](apitaddhyāna) [in-order](krameṇa) [mindful](matimān) [should-remember](smaret)
 
 ## mukta-m0-p09-v225
-[himself](svayam) [+](+) [unagitated](avyākulaḥ) [+](+) [having-become](bhūtvā) [motionless](niścala) [+](+) [senses](indriya) [+](+) [mind](mānasaḥ)
+[self](svayam) [unagitated-becoming](avyākulobhūtvā) [steady-senses-mind](niścalendriyamānasaḥ)

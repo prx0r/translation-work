@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p94-v2326
-[street+half](vīthya) [with+half](ardhena) [endowed-with-upavīthī](upavīthyāḍhya) [with-one+two+three+courtyards](mekadvitripurānvitam)
+[street](vīthi) [half](ardhena) [side-street](upavīthi) [rich](āḍhya) [one-two-three](mekadvitri) [cities](purānvitam)
 
 ## mukta-m0-p94-v2327
-[one](ekaṃ) [southern](yāmyaṃ) [and](ca) [north-facing](saumyāsyaṃ) [two](dve) [if](cet) [west](paścāt) [east-facing](puromukham)
+[one](ekaṃ) [southern](yāmyaṃ) [and](ca) [northern-facing](saumyāsyaṃ) [two](dve) [if](cet) [behind](paścāt) [front-facing](puromukham)
 
 ## mukta-m0-p94-v2328
-[siddhārtha](siddhārtham) [in-water+south](ambuyāmye) [and](ca) [in-indra+west](indrāpye) [yama+sūryaka](yamasūryakam)
+[accomplished](siddhārtham) [water-southern](ambuyāmye) [and](ca) [indra-named](indrāpye) [yama-sun](yamasūryakam)
 
 ## mukta-m0-p94-v2329
-[in-west+indra](āpyendau) [house+cūlyā-named](gṛhacūlyākhyaṃ) [kācā-named](kācāhvaṃ) [in-south+north](yāmyasaumyayoḥ)
+[water-moon](āpyendau) [house-peak-named](gṛhacūlyākhyaṃ) [glass-named](kācāhvaṃ) [southern-northern](yāmyasaumyayoḥ)
 
 ## mukta-m0-p94-v2330
-[in-daṇḍā-named](daṇḍākhye) [from-king](rājato) [punishment](daṇḍo) [in-vāta-named](vātākhye) [quarrel](kalahaḥ) [always](sadā)
+[staff-named](daṇḍākhye) [from-king](rājato) [staff](daṇḍo) [wind-named](vātākhye) [quarrel](kalahaḥ) [always](sadā)
 
 ## mukta-m0-p94-v2331
-[that](tad) [outside](bahiḥ) [made](kṛtaḥ)
+[that-outside](tadbahiḥ) [done](kṛtaḥ)
 
 ## mukta-m0-p94-v2332
-[in-south](yāmye) [deficient](hīne) [becomes](bhavet) [cūlī](cūlī) [three-halled](triśālaṃ) [wealth+destroying](vittahṛt) [supremely](param)
+[southern](yāmye) [deficient](hīne) [becomes-peak](bhaveccūlī) [three-halled](triśālaṃ) [wealth-taking-param](vittahṛtparam)
 
 ## mukta-m0-p94-v2333
-[from-indra+beginning+in-order](indrādikramato) [I-say](vacmi) [dhvaja+beginning+eight](dhvajādyaṣṭau) [houses](gṛhāṇi) [I](aham)
+[indra-from-order](indrādikramato) [I-speak](vacmi) [banner-etc-eight](dhvajādyaṣṭau) [houses](gṛhāṇyaham)
 
 ## mukta-m0-p94-v2334
-[in-south](yāmye) [juice+action+bed](rasakriyāśayyā) [armor](varma) [weapons](śastrāṇi) [in-rakṣas](rakṣasi)
+[southern](yāmye) [rasa-action](rasakriyā) [bed](śayyā) [armor](varma) [weapons](śastrāṇi) [protection](rakṣasi)
 
 ## mukta-m0-p94-v2335
-[in-north](saumye) [wealth](dhanaṃ) [cattle](paśūn) [one-should-make](kuryāt) [in-īśa](īśe) [initiation+god+abode](dīkṣāsurālayam)
+[northern](saumye) [wealth](dhanaṃ) [cattle](paśūn) [would-do](kuryād) [lord](īśe) [initiation-god-house](dīkṣāsurālayam)
 
 ## mukta-m0-p94-v2336
-[double](dviguṇaṃ) [hand+joined](hastasaṃyuktaṃ) [having-made](kṛtvā) [by-eight-parts](aṣṭāṃśaiḥ) [divided](hṛtaṃ) [likewise](tathā)
+[twofold](dviguṇaṃ) [hand-joined](hastasaṃyuktaṃ) [having-made](kṛtvā) [eighth-parts](aṣṭāṃśair) [divided](hṛtaṃ) [thus](tathā)
 
 ## mukta-m0-p94-v2337
-[in-tapas+pakṣa+agni+veda](tapaḥ) [in-pakṣa](pakṣā) [in-agni](agni) [in-veda](vedeṣu) [from-rasa+beginning+to-sky](rasādyambarato) [should-be](bhavet)
+[austerity](tapaḥ) [fortnight-fire-veda](pakṣāgnivedeṣu) [rasa-etc-sky](rasādyambarato) [becomes](bhavet)
 
 ## mukta-m0-p94-v2338
-[from-that](tasmāt) [and](ca) [in-ninth](navame) [part](bhāge) [auspicious+making](śubhakṛt) [abode](nilayo) [considered](mataḥ)
+[therefore](tasmācca) [ninth](navame) [part](bhāge) [auspicious-doing](śubhakṛn) [dwelling](nilayo) [opinion](mataḥ)
 
 ## mukta-m0-p94-v2339
-[in-east+west](prāgāpye) [and](ca) [in-indra+south](induyāmye) [or](vā) [market](haṭṭa) [thus](evaṃ) [house+row](gṛhāvalī)
+[east-water](prāgāpye) [or-moon-southern](cenduyāmye) [or](vā) [market](haṭṭa) [thus](evaṃ) [house-row](gṛhāvalī)
 
 ## mukta-m0-p94-v2340
-[from-īśa+beginning+to-diti+end](īśādiditikāntāni) [results](phalāni) [of-these](eṣāṃ) [in-due-order](yathākramam)
+[lord-etc-direction-named](īśādiditikāntāni) [fruits](phalānyeṣāṃ) [in-order](yathākramam)
 
 ## mukta-m0-p94-v2341
-[in-six](ṣu) [eight](aṣṭakaṃ) [fixed](dhruvam)
+[six-eight](ṣvaṣṭakaṃ) [fixed](dhruvam)
 
 ## mukta-m0-p94-v2342
-[craftsmanship](śilpitvaṃ) [son](tanayaḥ) [should-be](syāt) [and](ca) [south+door+result+eight](yāmyadvāraphalāṣṭakam)
+[craftsmanship](śilpitvaṃ) [son](tanayaḥ) [and](syācca) [southern-gate-fruit-eight](yāmyadvāraphalāṣṭakam)
 
 ## mukta-m0-p94-v2343
-[measure](mānaḥ) [and](ca) [from-door](dvārataḥ) [declared](proktaṃ) [in-northern](uttarasyāṃ) [direction](diśi) [in-order](kramāt)
+[measure](mānaśca) [from-gate](dvārataḥ) [spoken](proktam) [northern](uttarasyāṃ) [direction](diśi) [in-order](kramāt)
 
 ## mukta-m0-p94-v2344
-[with-beautiful](cārvībhiḥ) [pillar+rows](stabhmamālābhiḥ) [with-panels](kapāṭaiḥ) [with-bolts](sārgalaiḥ) [endowed](yutam)
+[beautiful-pillars](cārvībhistabhmamālābhiḥ) [doors](kapāṭaiḥ) [with-bolts](sārgalairyutam)
 
 ## mukta-m0-p94-v2345
-[with-oblation](homena) [should-satisfy](tarpayet) [all](sarvān) [in-pavilion](maṇḍape) [in-front](purato) [teacher](guruḥ)
+[by-offering](homena) [satisfy-all](tarpayetsarvān) [pavilion](maṇḍape) [in-front](purato) [teacher](guruḥ)
 
 ## mukta-m0-p94-v2346
-[house+establishment](veśmasaṃsthāpane) [at-time](kāle) [teacher](guruṃ) [having-satisfied](santoṣya) [with-devotion](bhaktitaḥ)
+[house-establishment](veśmasaṃsthāpane) [time](kāle) [teacher](guruṃ) [pleasing](santoṣya) [with-devotion](bhaktitaḥ)
 
 ## mukta-m0-p94-v2347
-[house+equipment](gṛhopaskaraṇaṃ) [all](sarvaṃ) [having-given](dattvā) [bed+seat+beginning-with](śayyāsanādikam)
+[house-furnishing](gṛhopaskaraṇaṃ) [all](sarvaṃ) [having-given](dattvā) [bed-seat-etc](śayyāsanādikam)
 
 ## mukta-m0-p94-v2348
-[own+chosen+deity+temple](sveṣṭadevālayaṃ) [one-should-make](kuryāt) [its+characteristic](tallakṣaṇam) [now](atha) [is-told](ucyate)
+[own-chosen-god-house](sveṣṭadevālayaṃ) [would-do](kuryāt) [its-mark](tallakṣaṇam) [then](atha) [is-spoken](ucyate)
 
 ## mukta-m0-p94-v2349
-[on-platform](jagati) [one](ekaṃ) [broad](pṛthuḥ) [or](vā) [also](api) [some](kecit) [say](prāhuḥ) [god+abode](surālayam)
+[platform-one](jagatyekaṃ) [broad-or](pṛthurvāpi) [some](kecit) [say](prāhuḥ) [god-house](surālayam)
 
 ## mukta-m0-p94-v2350
-[of-them](teṣāṃ) [in-middle](madhye) [should-be](bhavet) [one](ekaḥ) [of-doer](kartuḥ) [wish+by-force](icchāvaśena) [indeed](tu)
+[their](teṣāṃ) [middle](madhye) [becomes-one](bhavedekaḥ) [of-maker](kartur) [by-wish](icchāvaśena) [but](tu)

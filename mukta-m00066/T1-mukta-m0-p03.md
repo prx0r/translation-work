@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p03-v51
-[self](ātmānaṃ) [constantly](satataṃ) [one-should-protect](rakṣet) [self](ātma) [all](sarva) [----](----) [people](janam)
+[self](ātmānaṃ) [always](satataṃ) [protect](rakṣed) [self](ātma) [all](sarva) [people](janam)
 
 ## mukta-m0-p03-v52
-[of-non-devotees](abhaktānāṃ) [indeed](tu) [of-bodies](vapuṣāṃ) [own-form](svarūpam) [here](iha) [is-described](kathyate)
+[of-non-devotees](abhaktānāṃ) [but](tu) [bodies](vapuṣāṃ) [own-form](svarūpam) [here](iha) [is-said](kathyate)
 
 ## mukta-m0-p03-v53
-[with-many](aneka) [mind](citta) [delusion](vibhrāṃti) [endowed](yuktaṃ) [of-sorrow](duḥkha) [alone](eka) [abode](maṃdiram)
+[many-mind-delusion](anekacittavibhrāṃti) [with](yuktaṃ) [sorrow-only](duḥkhaika) [abode](maṃdiram)
 
 ## mukta-m0-p03-v54
-[by-disgust](jugupsāyā) [afflicted](parikliṣṭaṃ) [by-sleep](nidrā) [laziness](ālasya) [etc.](ādi) [tainted](dūṣitam)
+[disgust](jugupsāyā) [afflicted](parikliṣṭaṃ) [sleep-laziness-etc](nidrālasyādi) [defiled](dūṣitam)
 
 ## mukta-m0-p03-v55
-[of-own-self](svātma) [knowledge](vijñāna) [devoid](rahitaṃ) [visible](pratyakṣa) [hell](naraka) [form](ākṛtim)
+[self-knowledge](svātmavijñāna) [without](rahitaṃ) [directly](pratyakṣa) [hell](narakā) [made](kṛtim)
 
 ## mukta-m0-p03-v56
-[of-beauty](śṛṃgāra) [mere](mātra) [devoid](rahitaṃ) [by-many](bahu) [haters](vidveṣi) [tainted](dūṣitam)
+[erotic-only](śṛṃgāramātra) [without](rahitaṃ) [many-hatred](bahuvidveṣi) [defiled](dūṣitam)
 
 ## mukta-m0-p03-v57
-[therefore](tasmāt) [of-devotee](bhakta) [body's](śarīrasya) [at-mark](liṃga) [root](mūle) [great-lord](maheśvaraḥ)
+[therefore](tasmād) [devotee-body](bhaktaśarīrasyā) [sign](liṃga) [root](mūle) [great-lord](maheśvaraḥ)
 
 ## mukta-m0-p03-v58
-[thus](iti) [in-Ānanda-tantra](ānaṃdataṃtre) [second](dvitīyaḥ) [chapter](paṭalaḥ)
+[thus](ityānaṃdataṃtre) [second](dvitīyaḥ) [chapter](paṭalaḥ)
 
 ## mukta-m0-p03-v59
-[in-Ānandanātha](ānaṃdanātha) [worship](pūjyayā) [alone](eva) [culminating](paryavasāyitām)
+[ānandanātha](ānaṃdanātha) [worshipful](pūjyayā) [indeed](meva) [concluded](paryavasāyitām)
 
 ## mukta-m0-p03-v60
-[scriptures](śāstrāṇi) [and](ca) [very-numerous](atisaṃkhyāni) [with-enumeration](saṃkhyāvatse) [spread](vitāni) [and](ca)
+[scriptures](śāstrāṇi) [and](ca) [very-numerous](atisaṃkhyāni) [counted](saṃkhyāvatse) [spread](vitāni) [and](ca)
 
 ## mukta-m0-p03-v61
-[door-by-door](dvāradvārikayā) [of-Veda](veda) [path](mārgasya) [alone](eva) [auxiliary](upakārikā)
+[door-by-door](dvāradvārikayā) [veda-path](vedamārgasya) [indeed](eva) [helpful](upakārikā)
 
 ## mukta-m0-p03-v62
-[for-Veda](veda) [explanation](nirvacana) [meaning](arthāya) [called-Nirukta](niruktākhyā) [will-go](gamiṣyati)
+[veda-explanation](vedanirvacanārthāya) [nirukta-named](niruktākhyā) [will-go](gamiṣyati)
 
 ## mukta-m0-p03-v63
-[of-Veda-situated](vedasthānāṃ) [of-accents](svarāṇāṃ) [indeed](tu) [of-phonetics](śikṣā) [scripture](śāstra) [examination](vivecanam)
+[veda-situated](vedasthānāṃ) [sounds](svarāṇāṃ) [tu](tu) [phonetics](śikṣāśāstra) [discernment](vivecanam)
 
 ## mukta-m0-p03-v64
-[by-astronomy](jyotiṣā) [solstice](ayanam) [new-moon](darśa) [full-moon](paurṇamāsa) [etc.](ādi) [knowledge](bodhakam)
+[astrology](jyotiṣā) [ayana](mayanaṃ) [darśa](darśa) [full-moon-etc](paurṇamāsādi) [knowing](bodhakam)
 
 ## mukta-m0-p03-v65
-[others](anyāni) [also](api) [and](ca) [external](bāhyāni) [Veda-limbs](vedāṃgāni) [are](bhavaṃti) [indeed](vai)
+[other](anyānyapi) [ca](ca) [external](bāhyāni) [veda-limbs](vedāṃgāni) [become](bhavaṃti) [indeed](vai)
 
 ## mukta-m0-p03-v66
-[by-logic](nyāyena) [reasoning](hetu) [inquiry](ciṃtā) [would-be](syāt) [by-Purāṇas](purāṇaiḥ) [truth](tatva) [determination](nirṇayaḥ)
+[logic](nyāyena) [cause](hetu) [thought](ciṃtā) [syāt](syāt) [purāṇas](purāṇaistatvanirṇayaḥ)
 
 ## mukta-m0-p03-v67
-[by-these](etaiḥ) [also](api) [and](ca) [external-limbs](bāhyāṃgaiḥ) [Veda-path](veda+mārgaḥ) [adorned](pariṣkṛtaḥ)
+[by-these](etairapi) [ca](ca) [external-limbs](bāhyāṃgairveda) [path](mārgaḥ) [refined](pariṣkṛtaḥ)
 
 ## mukta-m0-p03-v68
-[Sāma](sāma) [Ṛg](ṛg) [Yajus](yajuṣa) [Atharva](atharva) [by-division](bhedāt) [by-them](taiḥ) [sacrifice](yajña) [arrangement](kalpanam)
+[sāma-ṛg-yajuṣ-atharva](sāma-ṛgyajuṣātharva) [difference](bhedātairyajñakalpanam)
 
 ## mukta-m0-p03-v69
-[of-Agniṣṭoma](agniṣṭoma) [etc.](ādi) [of-sacrifices](yajñānāṃ) [fruit](phalaṃ) [heaven](svargaḥ) [O-great-goddess](maheśvari)
+[agniṣṭoma-etc](agniṣṭomādi) [sacrifices](yajñānāṃ) [fruit](phalaṃ) [heaven](svargo) [great-goddess](maheśvari)
 
 ## mukta-m0-p03-v70
-[heaven](svargaḥ) [indeed](tu) [twofold](dvividhaḥ) [declared](proktaḥ) [place](deśaḥ) [or](vā) [happiness](sukham) [alone](eva) [or](vā)
+[heaven](svargastu) [two-fold](dvividhaḥ) [said](prokto) [place](deśo) [or](vā) [happiness](sukhameva) [or](vā)
 
 ## mukta-m0-p03-v71
-[of-happiness](sukhasya) [means](sādhanaṃ) [heaven](svargaḥ) [place](deśaḥ) [of-that](tasya) [indeed](tu) [means](sādhanam)
+[happiness](sukhasya) [means](sādhanaṃ) [heaven](svargaḥ) [place](deśastasya) [tu](tu) [means](sādhanam)
 
 ## mukta-m0-p03-v72
-[happiness](sukham) [alone](mātraṃ) [if](yadi) [heaven](svargaḥ) [not](na) [place](deśa) [restriction](niyamaḥ) [here](atra) [indeed](vai)
+[happiness-only](sukhamātraṃ) [if](yadi) [heaven](svargo) [not](na) [place-rule](deśaniyamo) [here](atra) [indeed](vai)
 
 ## mukta-m0-p03-v73
-[in-prior-view](pūrva+pakṣe) [indeed](tu) [of-sacrifices](yajñānāṃ) [fruit](phala) [attainment](saṃpattiḥ) [is-stated](ucyate)
+[prior](pūrva) [pakṣe](pakṣe) [tu](tu) [sacrifices](yajñānāṃ) [fruit-attainment](phalasaṃpattirucyate)
 
 ## mukta-m0-p03-v74
-[unseen-potency](apūrvaṃ) [is-born](jāyate) [from-that](tasmāt) [and-that](tat) [with-self](ātma) [inherence](samavāyavat)
+[unseen](apūrvaṃ) [arises](jāyate) [therefore](tasmāt) [that](taccātmasamavāyavat)
 
 ## mukta-m0-p03-v75
-[in-self](ātma) [alone](eka) [abiding](vartinā) [until-enjoyment](bhoga+paryaṃtam) [also](api) [perishing](naśyatā)
+[self-only](ātmaikavartinā) [enjoyment](bhoga) [limit](paryaṃtamapi) [perishes](naśyatā)

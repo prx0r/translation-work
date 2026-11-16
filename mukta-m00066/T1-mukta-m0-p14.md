@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p14-v326
-[all](sarvāḥ) [women](striyaḥ) [by-me](mayā) [created](sṛṣṭāḥ) [in-liṅga+lord+worship](liṃgeśvara+samarcane)
+[all](sarvāḥ) [kh: all](sarvā) [women-by-me](striyomayā) [created](sṛṣṭāḥ) [linga-lord-worship-in](liṃgeśvarasamarcane)
 
 ## mukta-m0-p14-v327
-[of-eastern+limbs](prācyāṃgānām) [of-northern+ones](udīcyānām) [of-aṅgas](aṃgānām) [also](api) [middle](madhyamaḥ)
+[eastern-limbs](prācyāṃgānām) [northern-limbs](udīcyānām) [limbs](aṃgānām) [also](api) [middle](madhyamaḥ)
 
 ## mukta-m0-p14-v328
-[fragrance+flower](gaṃdha+puṣpaṃ) [and](ca) [betel](tāṃbūlam) [garland](ālepa) [pleasure](urati) [medicine](bheṣajam)
+[fragrance](gaṃdha) [flower](puṣpaṃ) [and](ca) [betel](tāṃbūla) [garland](māle) [anointing](uparati) [medicine](bheṣajam)
 
 ## mukta-m0-p14-v329
-[fifth](paṃcamāḥ) [and](ca) [others](apare) [five](paṃca) [ten](daśa) [these](ete) [sacrifice+means](yāga+sādhanam)
+[fifth](paṃcamāḥ) [and](ca) [others](apare) [kh: others](rī) [fifteen](paṃcadaśa) [these](ete) [sacrifice-means](yāgasādhanam)
 
 ## mukta-m0-p14-v330
-[there](tatra) [also](api) [chief](mukhyau) [two](dvau) [indeed](eva) [you](tvā) [first](ādimaḥ) [fifth](paṃcamaḥ) [dear-one](priye)
+[there](tatrāpi) [principal](mukhyau) [two](dvāveva) [tvādi](tvādimaḥ) [fifth](paṃcamaḥ) [beloved](priye)
 
 ## mukta-m0-p14-v331
-[first](ādimaṃ) [and](ca) [also](api) [last](aṃtimaṃ) [and](ca) [essence+consisting](sāra+bhūtaṃ) [janārdana](janārdanaḥ)
+[beginning](ādimaṃ) [and](ca) [ending](apyaṃtimaṃ) [ca](ca) [essence](sārabhūtaṃ) [janārdana](janārdanaḥ)
 
 ## mukta-m0-p14-v332
-[in-eighth](aṣṭamena) [incarnation](avatāreṇa) [baladeva](baladeva) [own-form](sva+rūpiṇā)
+[eighth](aṣṭamena) [incarnation](avatāreṇa) [baladeva](baladeva) [own-form](svarūpiṇā)
 
 ## mukta-m0-p14-v333
-[by-endless+form](anaṃta+mūrtinā) [by-whom](yena) [rohiṇī+womb+birth](rohiṇī+garbha+janmanā)
+[infinite-form](anaṃtamūrtinā) [by-whom](yena) [rohiṇī](rohiṇī) [womb-birth](garbhajanmanā)
 
 ## mukta-m0-p14-v334
-[of-him](tasya) [of-god](devasya) [of-great](mahato) [of-balabhadra](balabhadrasya) [of-wise](dhīmataḥ)
+[of-that](tasya) [god](devasya) [great](mahato) [balabhadrasya](balabhadrasya) [wise](dhīmataḥ)
 
 ## mukta-m0-p14-v335
-[revatī+face](revatī+vadanāṃ) [enjoyment](bhoja) [perfumed](vāsitaṃ) [sweet](madhuraṃ) [wine](madhu)
+[revatī](revatī) [face](vadanāṃ) [bhoja](bhoja) [dwelling](vāsitaṃ) [sweet](madhuraṃ) [honey](madhu)
 
 ## mukta-m0-p14-v336
-[by-kṛṣṇa+command](kṛṣṇa+ājñayā) [of-bala+lord](baleṃdrasya) [by-varuṇa](varuṇena) [brought](upaḍhaukitā)
+[kṛṣṇa-command](kṛṣṇājñayā) [balendra](baleṃdrasya) [varuṇa](varuṇena) [brought](upaḍhaukitā) [kh: seen](lokitā)
 
 ## mukta-m0-p14-v337
-[gomanta+mountain+vicinity](gomaṃta+parvata+upāṃta) [nīpa+hollow](nīpa+koṭarataḥ) [became](bhavat)
+[gomat-parvat](gomaṃtaparvata) [foot](upāṃta) [nipa](nīpa) [cavity](koṭarato) [becomes](bhavat) [kh: becomes](bhavet)
 
 ## mukta-m0-p14-v338
-[of-nanda+bliss+ocean](naṃda+ānaṃda+samudrasya) [well+swelling+splendor](samuttaṃbhasita+tviṣā)
+[nanda-nanda-ocean](naṃdānaṃdasamudrasya) [supported-radiance](samuttaṃbhasitatviṣā)
 
 ## mukta-m0-p14-v339
-[acceptance](upasaṃgrahaṇaṃ) [made](cakre) [lord](bhagavān) [lotus-eyed](abja+locanaḥ)
+[approach](upasaṃgrahaṇaṃ) [did](cakre) [bhagavān](bhagavān) [lotus-eyed](abjalocanaḥ)
 
 ## mukta-m0-p14-v340
-[for-kaṃsa+deception](kaṃsa+pratāraṇāya) [then](atha) [of-nanda](nandasya) [sonhood](ātmajatāṃ) [gone](gataḥ)
+[kaṃsa-deception](kaṃsapratāraṇāya) [then](atha) [nanda's-sonhood](naṃdasyātmajatāṃ) [went](gataḥ)
 
 ## mukta-m0-p14-v341
-[gopīs](gopīḥ) [naturally+sweet](nisarga+madhurāḥ) [by-nature](prakṛtyā) [divine+conduct](sura+ceṣṭitāḥ)
+[gopīs](gopīḥ) [kh: gopī](gopī) [naturally-sweet](nisargamadhurāḥ) [by-nature](prakṛtyā) [divine-deeds](suraceṣṭitāḥ)
 
 ## mukta-m0-p14-v342
-[not](na) [those](tāḥ) [gopīs](gopyo) [virtue+noble](guṇa+udārāḥ) [by-whom](yena) [enjoyed](bhuktā) [by-murāri](murāriṇā)
+[not](na) [those](tā) [gopīs](gopyo) [virtue-generous](guṇodārāḥ) [kh: generous](rā) [by-whom](yena) [enjoyed](bhuktā) [murāri](murāriṇā)
 
 ## mukta-m0-p14-v343
-[own+bliss+form+accomplishment](sva+ānaṃda+mūrti+sidhyartham) [these](etāsu) [demon+chastiser](mura+śāsanaḥ)
+[own-bliss-form](svānaṃdamūrti) [perfection-aim](sidhyartham) [these](etāsu) [murāśāsana](muraśāsanaḥ)
 
 ## mukta-m0-p14-v344
-[flute+playing+action](muralī+vāda+kṛtyena) [cowherd-women](vallavīḥ) [delighting](abhinaṃdayan)
+[flute-playing](muralīvādakṛtyena) [gopīs](vallavī) [delighting](rabhinaṃdayan)
 
 ## mukta-m0-p14-v345
-[white+sugarcane+bow+accompanied](puṇḍra+ikṣu+cāpa+sahita) [flower+arrow+adorned](puṣpa+āśuga+pariṣkṛtam)
+[sugarcane](puṇḍrekṣu) [bow](cāpa) [with](sahita) [flower](puṣpa) [arrow](aśuga) [adorned](pariṣkṛtam)
 
 ## mukta-m0-p14-v346
-[sported](cikrīḍa) [in-many-ways](bahudhā) [kṛṣṇa](kṛṣṇaḥ) [with-wondrous](citrābhiḥ) [with-family+powers](kula+śaktibhiḥ)
+[played](cikrīḍa) [many-ways](bahudhā) [kṛṣṇa](kṛṣṇaś) [with-various](citrābhiḥ) [clan-powers](kulaśaktibhiḥ) [kh: clan *?kti-](kula *?kti-)
 
 ## mukta-m0-p14-v347
-[by-naraka](narakeṇa) [confined](avaruddhānāṃ) [thousands](sahasrāṇi) [also](api) [sixteen](ṣoḍaśa)
+[by-naraka](narakeṇa) [restrained](avaruddhānāṃ) [thousands](sahasrāṇyapi) [sixteen](ṣoḍaśa)
 
 ## mukta-m0-p14-v348
-[therefore](ataḥ) [supreme](pradhānam) [bliss](ānaṃda) [in-god+worship+action](deva+pūjana+karmaṇi)
+[therefore](ataḥ) [principal](pradhānam) [bliss](ānaṃda) [god-worship](devapūjanakarmaṇi) [kh: -ṇī](-ṇī)
 
 ## mukta-m0-p14-v349
-[of-worship](pūjayā) [also](api) [of-all](sarvasyā) [rest](viśrāṃtiḥ) [there](tatra) [pārvatī](pārvatī)
+[by-worship](pūjayā) [kh: by-worship](pūjāyā) [also](api) [of-all](sarvasyā) [rest](viśrāṃtis) [there](tatra) [pārvatī](pārvatī)
 
 ## mukta-m0-p14-v350
-[manifest](āvirbhavaṃti) [where](yatra) [indeed](eva) [own+bliss+seizing+splendors](sva+ānaṃda+gradilāḥ+tviṣaḥ)
+[manifest](āvirbhavaṃti) [where](yatraiva) [own-bliss-rays](svānaṃdagradilāstviṣaḥ) [kh: -grahilāstviṣaḥ](-grahilāstviṣaḥ)

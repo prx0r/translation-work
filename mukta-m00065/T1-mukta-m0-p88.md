@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p88-v2176
-one-should-meditate(dhyāyet) thousand-sun+splendor(sūrya+sahasra+ābhaṃ) dissolution-cloud+sound(pralaya+ambuda+nisvanam)
+[meditate](dhyāyet) [sun-thousand-radiance](sūryasahasrābhaṃ) [dissolution-cloud-sound](pralayāmbudanisvanam)
 
 ## mukta-m0-p88-v2177
-three-eyed(tryakṣaṃ) lightning-flame+tongue(taḍit+lātā+jihvaṃ) blazing-brow+hair(dīpta+bhrūḥ+śru+mūrdhajam)
+[three-eyed](tryakṣaṃ) [lightning-tongue](taḍillātajihvaṃ) [blazing-brow-hair-crown](dīptabhrūśśrumūrdhajam)
 
 ## mukta-m0-p88-v2178
-of-the-banner(dhvajasya) raising(ārohaṇaṃ) should-perform(kuryāt) worship(upacāraṃ) and(ca) officiating-priest(daiśikaḥ)
+[flag-raising](dhvajasyārohaṇaṃ) [should-do](kuryāt) [worship](upacāraṃ) [and](ca) [teacher](daiśikaḥ)
 
 ## mukta-m0-p88-v2179
-on-banner-top(dhvaja+agre) but(tu) teacher(guruḥ) attached(lagnaḥ) desired-mantra(iṣṭa+mantraṃ) reciting(japan) then(tadā) [mū: should-recite(japet) then(tadā)]
+[flag-top](dhvajāgre) [but](tu) [guru](gurur) [attached](lagnaḥ) [desired-mantra](iṣṭamantraṃ) [chanting](japaṃs) [then](tadā)
 
 ## mukta-m0-p88-v2180
-sacrificer(yajamānaḥ) then(tataḥ) attached(lagnaḥ) with-wife-son-family(bhāryā+putra+kulaiḥ) together(saha)
+[sacrificer](yajamānaḥ) [then](tataḥ) [attached](lagnaḥ) [wife-son-family](bhāryāputrakulaiḥ) [with](saha)
 
 ## mukta-m0-p88-v2181
-as(yathā) is-shaken(vidhūyate) by-winds(vātaiḥ) banner(dhvajaḥ) on-temple-top(prāsāda+mastake)
+[as](yathā) [shaken](vidhūyate) [winds](vātaiḥ) [flag](dhvajaḥ) [temple-top](prāsādamastake)
 
 ## mukta-m0-p88-v2182
-in-the-kingdom(rāṣṭre) peace(śāntiḥ) victorious(jayī) king(rājā) happy(sukhinyaḥ) may-be(syuḥ) subjects(prajāḥ) likewise(tathā)
+[kingdom](rāṣṭre) [peace](śāntiḥ) [victorious](jayī) [king](rājā) [happy](sukhinyaḥ) [be](syuḥ) [subjects](prajāḥ) [so](tathā)
 
 ## mukta-m0-p88-v2183
-in-renovation(jīrṇa+uddhāre) done(kṛte) of-the-performer(kartuḥ) at-banner-end(dhvaja+ante) original(maulikaṃ) fruit(phalam)
+[old-renovation](jīrṇoddhāre) [done](kṛte) [doer](kartuḥ) [flag-end](dhvajānte) [root](maulikaṃ) [fruit](phalam)
 
 ## mukta-m0-p88-v2184
-twentieth(viṃśaḥ) rite(vidhiḥ)
+[twentieth-rite](viṃśovidhi)
 
 ## mukta-m0-p88-v2185
-resort(āśrayanti) here(iha) beings(satvāni) bhūtas-vetālas-rākṣasas(bhūta+vetāla+rākṣasāḥ)
+[dwell](āśrayanti) [here](iha) [beings](satvāni) [ghost-vampire-demon](bhūtavetālarākṣasāḥ)
 
 ## mukta-m0-p88-v2186
-they-cause(kurvanti) multitude-of-evils(doṣa+saṅghyātaṃ) where(yatra) in-kingdoms(rāṣṭreṣu) they(te) [g: in-city(pure)] situated(sthitāḥ)
+[do](kurvanti) [fault-accumulation](doṣasaṅghyātaṃ) [where](yatra) [kingdoms](rāṣṭreṣu) [they](te) [situated](sthitāḥ)
 
 ## mukta-m0-p88-v2187
-terrible-famine(durbhikṣaṃ) dreadful(dāruṇaṃ) disease(rogaṃ) destruction-of-subjects(prajā+nāśaṃ) poverty(daridratām)
+[famine](durbhikṣaṃ) [terrible](dāruṇaṃ) [disease](rogaṃ) [people-destruction](prajānāśaṃ) [poverty](daridratām)
 
 ## mukta-m0-p88-v2188
-affliction(pīḍā) of-cows-brāhmaṇas-etc(go+brāhmaṇa+ādīnāṃ) of-the-king(rājñaḥ) sorrow(duḥkhaṃ) bad-conduct(kuśīlatām)
+[affliction](pīḍā) [cow-brahmin-etc](gobrāhmaṇādīnāṃ) [king's](rājño) [sorrow](duḥkhaṃ) [bad-conduct](kuśīlatām)
 
 ## mukta-m0-p88-v2189
-enemy-calamity+affliction(śatru+vyasana+pīḍā) and(ca) anxiety(cintā) and(ca) great(mahatī) may-be(bhavet)
+[enemy-misfortune-affliction](śatruvyasanapīḍā) [and](ca) [anxiety](cintā) [and](ca) [great](mahatī) [become](bhavet)
 
 ## mukta-m0-p88-v2190
-therefore(tasmāt) removal(uddharaṇaṃ) to-be-done(kāryaṃ) according-to-rule(vidhinā) preceded-by-mantra(mantra+pūrvakam)
+[therefore](tasmāt) [removal](uddharaṇaṃ) [should-do](kāryaṃ) [by-rite](vidhinā) [mantra-preceded](mantrapūrvakam)
 
 ## mukta-m0-p88-v2191
-one-should-agitate(munmādayet) certainly(dhruvam)
+[munmādaye](munmādaye) [fixed](ddhruvam)
 
 ## mukta-m0-p88-v2192
-of-cows-brāhmaṇas-subjects(go+brāhmaṇa+prajānāṃ) and(ca) of-own-kingdom(sva+rāṣṭrasya) and(ca) for-increase(vṛddhaye)
+[cow-brahmin-people](gobrāhmaṇaprajānāṃ) [and](ca) [own-kingdom](svarāṣṭrasya) [and](ca) [growth](vṛddhaye)
 
 ## mukta-m0-p88-v2193
-in-auspicious-constellation(su+nakṣatre) on-day(dine) in-auspicious-yoga(yoge) on-good-weekday(sat+vāre) favorable-to-performer(kartṛ+śobhane)
+[good-asterism](sunakṣatre) [day](dine) [conjunction](yoge) [good-door](sadvāre) [doer-auspicious](kartṛśobhane)
 
 ## mukta-m0-p88-v2194
-concealed(pracchannaṃ) well-prepared(saṃskṛtaṃ) beautiful(ramyaṃ) having-one-water-outlet(jala+dvāra+eka) [kh: having-one-water-stream(jala+dhāra+eka)] gateway(toraṇam)
+[hidden](pracchannaṃ) [prepared](saṃskṛtaṃ) [pleasant](ramyaṃ) [water-gate-one](jaladvāraika) [arch](toraṇam)
 
 ## mukta-m0-p88-v2195
-as-before(pūrva+vat) beautiful-platform(vedikāṃ) lovely(ramyāṃ) protected-by-Śiva-pot-and-weapon(śiva+kumbha+astra+rakṣitām)
+[as-before](pūrvavad) [platform](vedikāṃ) [pleasant](ramyāṃ) [shiva-pot-weapon-protected](śivakumbhāstrarakṣitām)
 
 ## mukta-m0-p88-v2196
-on-sand-filled(bālukā+pūrite) pedestal(pīṭhe) on-ground-altar(sthaṇḍile) one-should-worship(pūjayet) Hara(haram)
+[sand-filled](bālukāpūrite) [seat](pīṭhe) [ground](sthaṇḍile) [worship](pūjayet) [holder](dharam)
 
 ## mukta-m0-p88-v2197
-five-bearers-of-Śiva-liṅga(śiva+liṅga+dharān) five(pañca) one-should-feed(bhojayet) with-ghee-rice-pudding(ghṛta+pāyasaiḥ)
+[shiva-linga-bearers](śivaliṅgadharān) [five](pañca) [feed](bhojayet) [ghee-pudding](ghṛtapāyasai)
 
 ## mukta-m0-p88-v2198
-fee(dakṣiṇāṃ) according-to-means(vittataḥ) one-should-give(dadyāt) they-should-say(brūyuḥ) blessing(śaṃ) for-kingdom-and-king(rāṣṭra+bhūpayoḥ)
+[gift](dakṣiṇāṃ) [according-wealth](vittato) [give](dadyāt) [say](brūyuḥ) [peace](śaṃ) [kingdom-king](rāṣṭrabhūpayoḥ)
 
 ## mukta-m0-p88-v2199
-in-fire-pit(kuṇḍe) but(tu) circular(vartule)
+[pit](kuṇḍe) [but](tu) [round](vartule)
 
 ## mukta-m0-p88-v2200
-to-the-image-bearers(mūrti+bhṛdbhyaḥ) then(tataḥ) gift(dānaṃ) offering-to-bhūtas-and-directional-deities(bhūta+dik+devatā+balim)
+[image-bearers](mūrtibhṛdbhyaḥ) [then](tataḥ) [gift](dānaṃ) [spirit-direction-deity-offering](bhūtadigdevatābalim)

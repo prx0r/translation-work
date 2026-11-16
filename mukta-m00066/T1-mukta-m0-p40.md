@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p40-v976
-[much](bahunā) [what](kim) [here](iha) [by-said](uktena) [directly](sākṣāt) [bliss](ānanda) [giver](dāyakaḥ)
+[bahunā](bahunā) [kim](kim) [iha](iha) [uktena](uktena) [sākṣāt](sākṣāt) [ānanda-dāyakaḥ](ānandadāyakaḥ)
 
 ## mukta-m0-p40-v977
-[thus](iti) [of-second](dvitīya) [section](pātasya) [mantra](mantra) [sat](sat) [name](nāma) [declared](īritam)
+[iti](iti) [dvitīya-pātasya](dvitīyapātasya) [maṃtra-sannāma](maṃtrasannāma) [īritam](īritam)
 
 ## mukta-m0-p40-v978
-[eight](aṣṭa) [enjoyment](bhoga) [possessing](vatī) [holds](dhatte) [great](mahā) [sovereignty](sāmrājya) [lordship](nāthatām)
+[aṣṭa-bhogavatī](aṣṭabhogavatī) [dhatte](dhatte) [mahā-sāmrājya](mahāsāmrājya) [nāthatām](nāthatām)
 
 ## mukta-m0-p40-v979
-[in-all](sarva) [forms](ākāreṇa) [consciousness](caitanya) [dissolution](layaḥ) [all](sarva) [limb](aṅga) [beautiful](suṃdarī)
+[sarva-ākāreṇa](sarvākāreṇa) [caitanya](caitanya) [layaḥ](layaḥ) [sarva-aṃga-suṃdarī](sarvāṃgasuṃdarī)
 
 ## mukta-m0-p40-v980
-[world](viśva) [decay](kṣati) [and](ca) [whatever](yatkiṃcit) [not](na) [and](ca) [goes-out](niryāti) [from-crookedness](vakrataḥ)
+[viśva-kṣati](viśvakṣati) [ca](ca) [yat-kiṃcit](yatkiṃcit) [na](na) [ca](ca) [niryāti](niryāti) [vakrataḥ](vakrataḥ)
 
 ## mukta-m0-p40-v981
-[not](na) [activity](ceṣṭā) [not](na) [and](ca) [agitation](saṃraṃbhaḥ) [not](na) [and](ca) [deluding](mohana) [cooing](kūjitam)
+[na](na) [ceṣṭā](ceṣṭā) [na](na) [ca](ca) [saṃraṃbhaḥ](saṃraṃbho) [na](na) [ca](ca) [mohana](mohana) [kūjitam](kūjitam)
 
 ## mukta-m0-p40-v982
-[not](na) [tooth](daṃta) [falling](pātana) [fist](muṣṭi) [by-striking](ghātena) [and](ca) [any](ka) [and](ca) [seizing](grahaḥ)
+[na](na) [daṃta](daṃta) [pātana](pātano) [muṣṭi-ghātena](muṣṭighātena) [ca](ca) [ka](ka) [ca](ca) [grahaḥ](grahaḥ)
 
 ## mukta-m0-p40-v983
-[not](na) [girdle](mekhalā) [soft](kala) [sound](kvāṇaḥ) [not](na) [sport](līlā) [union](saṃgama) [breaking](bhaṃgayaḥ)
+[na](na) [mekhalā](mekhalā) [kala-kvāṇaḥ](kalakvāṇo) [na](na) [līlā-saṃgama-aṃgayaḥ](līlāsaṃgamaṃgayaḥ)
 
 ## mukta-m0-p40-v984
-[heart](hṛdaya) [place](sthāna) [born](janitaḥ) [trembling](kaṃpaḥ) [to-supreme](paraparā) [goes](yate)
+[hṛdaya-sthāna](hṛdayasthāna) [janitaḥ](janitaḥ) [kaṃpaḥ](kaṃpaḥ) [para-parāyate](paraparāyate)
 
 ## mukta-m0-p40-v985
-[one](eka) [eight](aṣṭaka) [great](mahā) [sacrifice](yāga) [in-fortnight](pakṣe) [drop](biṃduṃ) [should-emit](samutsṛjet)
+[eka-aṣṭaka-mahā-yāga](ekāṣṭakamahāyāga) [pakṣe-biṃduṃ](pakṣebiṃduṃ) [sam-utsṛjet](samutsṛjet)
 
 ## mukta-m0-p40-v986
-[eight](aṣṭa) [eight](aṣṭaka) [great](mahā) [sacrifice](yāge) [messenger](dūtya) [eight](aṣṭakam) [then](ataḥ) [after](param)
+[aṣṭa-aṣṭaka-mahā-yāge](aṣṭāṣṭakamahāyāge) [dūtya-aṣṭakam](dūtyaṣṭakam) [ataḥ](ataḥ) [param](param)
 
 ## mukta-m0-p40-v987
-[this](iyam) [indeed](eva) [verily](hi) [of-śakti](śakteḥ) [and](ca) [of-śambhu](śambhoḥ) [by-oneness](ekatayā) [state](sthitiḥ)
+[iyam-eva](iyameva) [hi](hi) [śakteḥ-ca](śakteśca) [śaṃbhoḥ-ekatayā](śaṃbhorekatayā) [sthitiḥ](sthitiḥ)
 
 ## mukta-m0-p40-v988
-[thus](ittham) [bliss](ānaṃda) [sacrifice](yāgaḥ) [this](ayam) [told](kathitaḥ) [to-you](te) [O-great-goddess](maheśvari)
+[ittham-ānanda](itthamānaṃda) [yāgaḥ-ayam](yāgo'yaṃ) [kathitaḥ-te](kathitaste) [maheśvari](maheśvari)
 
 ## mukta-m0-p40-v989
-[from-your](bhavataḥ) [face](vadana) [lotus](aṃbhojāt) [well-heard](suśrutaḥ) [eight](aṣṭa) [oblation](āhuti) [sequence](kramaḥ)
+[bhavataḥ](bhavato) [vadana-aṃbhojāt](vadanāṃbhojāt) [su-śrutaḥ](suśruto) [aṣṭa-āhuti](aṣṭāhuti) [kramaḥ](kramaḥ)
 
 ## mukta-m0-p40-v990
-[to-hear](śrotuṃ) [I-desire](vāṃcchāmi) [O-lord-of-gods](deveśa) [sacrifice](yāga) [after](anantara) [born](jaṃ) [sequence](kramam)
+[śrotuṃ](śrotuṃ) [vāṃcchāmi](vāṃcchāmi) [deveśa](deveśa) [yāga-anaṃtara-jam](yāgānaṃtarajaṃ) [kramam](kramam)
 
 ## mukta-m0-p40-v991
-[hear](śṛṇu) [O-goddess](devi) [O-greatly-fortunate](mahābhāge) [what](yat) [me](māṃ) [you](tvaṃ) [ask](paripṛcchasi)
+[śṛṇu](śṛṇu) [devi](devi) [mahā-bhāge](mahābhāge) [yat-māṃ-tvaṃ](yanmāṃtvaṃ) [paripṛcchasi](paripṛcchasi)
 
 ## mukta-m0-p40-v992
-[hero](vīraḥ) [by-long](sucira) [dancing](nṛttena) [fatigued](śrāṃta) [linga](liṃga) [great-lord](maheśvaraḥ)
+[vīraḥ](vīraḥ) [sucira-nṛttena](suciranṛttena) [śrāṃta-liṃga-maheśvaraḥ](śrāṃtaliṃgamaheśvaraḥ)
 
 ## mukta-m0-p40-v993
-[then](atha) [in-polluted](pradūṣita) [vessel](pāte) [filled](pūrite) [with-holy](puṇya) [substances](vastubhiḥ)
+[atha](atha) [pradūṣita-pāte](pradūṣitapāte) [pūrite](pūrite) [puṇya-vastubhiḥ](puṇyavastubhiḥ)
 
 ## mukta-m0-p40-v994
-[of-ānandanātha](ānaṃdanāthasya) [mantra](manuṃ) [and](ca) [twenty-eight](aṣṭāviṃśati) [times](vārakam)
+[ānaṃda-nāthasya](ānaṃdanāthasya) [manuṃ](manuṃ) [ca](ca) [aṣṭā-viṃśati-vārakam](aṣṭāviṃśativārakam)
 
 ## mukta-m0-p40-v995
-[of-right](dakṣa) [hand](hastasya) [in-hollow](culuke) [having-held](dhārayitvā) [skilled-one](vicakṣaṇaḥ)
+[dakṣa-hastasya](dakṣahastasya) [culuke](culuke) [dhārayitvā](dhārayitvā) [vicakṣaṇaḥ](vicakṣaṇaḥ)
 
 ## mukta-m0-p40-v996
-[with-two-purifications](saśuddhibhyāṃ) [of-those-two](tayoḥ) [drop](biṃduṃ) [kārikās](kārikāḥ) [reciting](prapaṭhan) [should-scatter](kiret)
+[sa-śuddhi-bhyāṃ-tayoḥ](saśuddhibhyāṃtayor) [biṃduṃ](biṃduṃ) [kārikāḥ](kārikāḥ) [prapaṭhan](prapaṭhan) [kiret](kiret)
 
 ## mukta-m0-p40-v997
-[with-these](etaiḥ) [bliss](ānanda) [sacrifice](yāga) [end](aṃta) [white](śukla) [red](śoṇita) [drops](biṃdubhiḥ)
+[etaiḥ](etair) [ānaṃda-yāga-anta](ānaṃdayāgāṃta) [śukla-śoṇita-biṃdubhiḥ](śuklaśoṇitabiṃdubhiḥ)
 
 ## mukta-m0-p40-v998
-[with-these](etaiḥ) [bliss](ānanda) [sacrifice](yāga) [end](aṃta) [white](śukla) [red](śoṇita) [drops](biṃdubhiḥ)
+[etaiḥ](etair) [ānaṃda-yāga-anta](ānaṃdayāgāṃta) [śukla-śoṇita-biṃdubhiḥ](śuklaśoṇitabiṃdubhiḥ)
 
 ## mukta-m0-p40-v999
-[with-these](etaiḥ) [bliss](ānanda) [sacrifice](yāga) [end](aṃta) [white](śukla) [red](śoṇita) [drops](biṃdubhiḥ)
+[etaiḥ](etair) [ānaṃda-yāga-anta](ānaṃdayāgāṃta) [śukla-śoṇita-biṃdubhiḥ](śuklaśoṇitabiṃdubhiḥ)
 
 ## mukta-m0-p40-v1000
-[with-these](etaiḥ) [bliss](ānanda) [sacrifice](yāga) [end](aṃta) [white](śukla) [red](śoṇita) [drops](biṃdubhiḥ)
+[etaiḥ](etair) [ānaṃda-yāga-anta](ānaṃdayāgāṃta) [śukla-śoṇita-biṃdubhiḥ](śuklaśoṇitabiṃdubhiḥ)

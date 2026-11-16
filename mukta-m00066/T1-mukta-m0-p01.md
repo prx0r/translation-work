@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p01-v1
-[bliss](ānaṃda)+[deity](devatā)+[abode](āsthānam) [in-this](asmin) [liṅga](liṃge) [o-great-goddess](maheśvari)
+[bliss-deity-abode](ānaṃdadevatāsthānam) [in-this](asmin) [linga](liṃge) [O-Maheshvari](maheśvari)
 
 ## mukta-m0-p01-v2
-[when](yadā) [by-own](sva)+[power](śakti)+[descent](pātena) [awakened](prabuddhaḥ) [he](sa) [endowed-with-reflective-awareness](vimarśavān)
+[when](yadā) [by-own-power-descent](svaśaktipātena) [awakened](prabuddhaḥ) [he](sa) [reflective](vimarśavān)
 
 ## mukta-m0-p01-v3
-[then](tadā) [he](sa) [teacher](deśikaḥ) [by-śaiva](śaivyā) [by-gaze](dṛṣṭyā) [of-him](tasya) [of-ninefold-self](navātmanaḥ)
+[then](tadā) [he](sa) [teacher](deśikaḥ) [by-Shaiva](śaivyā) [view](dṛṣṭyā) [of-him](tasya) [new-self](navātmanaḥ)
 
 ## mukta-m0-p01-v4
-[other](anyat)+[indeed](eva) [again](punar)[may-become](bhūyāt) [of-the-kaula](kaulikasya) [of-the-great-souled](mahātmanaḥ)
+[another-indeed](anyadeva) [again-become](punarbhūyāt) [of-Kaulika](kaulikasya) [great-soul](mahātmanaḥ)
 
 ## mukta-m0-p01-v5
-[family](kulaṃ) [birth](jātiḥ)+[and](ca) [conduct](śīlaṃ) [and-also](ca)+[indeed](api)+[eight](aṣṭau) [bonds](pāśāḥ) [are-proclaimed](prakīrtitāḥ)
+[clan](kulaṃ) [birth-and](jātiśca) [conduct-and](śīlaṃ) [also-eight](cāpyaṣṭau) [bonds](pāśāḥ) [declared](prakīrtitāḥ)
 
 ## mukta-m0-p01-v6
-[of-him](tasya) [of-the-devotee](bhaktasya) [entire](sakalaṃ) [body](vapuḥ) [good](su)+[field](kṣetram)[is-called](ucyate)
+[of-him](tasya) [devotee](bhaktasya) [whole](sakalaṃ) [body](vapuḥ) [good-field-called](sukṣetramucyate)
 
 ## mukta-m0-p01-v7
-[śākta-initiation](śāktiḥ) [by-power](śakti)+[unfolding](unmīlanena) [māntrī-initiation](māṃtrī) [by-mantra](maṃtra)+[instruction](upadeśataḥ)
+[Shakti](śāktiḥ) [by-power-unfolding](śaktyunmīlanena) [mantric](māṃtrī) [by-mantra-instruction](maṃtropadeśataḥ)
 
 ## mukta-m0-p01-v8
-[by-these](etābhiḥ) [by-three](tisṛbhiḥ)+[and](ca)+[indeed](eva) [by-initiations](dīkṣābhiḥ)[initiated](dīkṣito) [person](naraḥ)
+[by-these](etābhiḥ) [three-and-indeed](tisṛbhiścaiva) [initiations](dīkṣābhiḥ) [initiated](dīkṣito) [man](naraḥ)
 
 ## mukta-m0-p01-v9
-[knowledge](bodha)+[liṅga](liṅga)+[nature](svarūpaḥ)[he](asau) [becomes](jāyate) [by-latent-impressions](vāsanā)+[destruction](kṣayāt)
+[consciousness-linga-form-he](bodhaliṃgasvarūpo'sau) [arises](jāyate) [from-impression-destruction](vāsanākṣayāt)
 
 ## mukta-m0-p01-v10
-[women](stri)+[hated](dviṣṭaṃ) [world](loka)+[hated](vidviṣṭam)[laziness](ālasyaṃ) [and](ca)+[indeed](eva) [fickleness](cāpalam)
+[women-hated](stridviṣṭaṃ) [world-hated](lokavidviṣṭam) [sloth](ālasyaṃ) [and-indeed](caiva) [fickleness](cāpalam)
 
 ## mukta-m0-p01-v11
-[another's-wife](para)+[dārā](dārā)+[touching](avamarśaṃ) [and](ca) [harm-to-others](para)+[drohasya](drohasya) [thinking](ciṃtanam)
+[adultery-touch](paradārāvamarśaṃ) [and](ca) [treachery-thought](paradrohasya ciṃtanam)
 
 ## mukta-m0-p01-v12
-[excessive](ati)+[harsh](niṣṭura)+[nature](śīlatvam)[excessive](ati)+[wretchedness](dainyam)[excessive](ati)+[grasping](grahaḥ)
+[excessive-harshness](atiniṣṭuraśīlatvam) [excessive-misery](atidainyam) [excessive-greed](atigrahaḥ)
 
 ## mukta-m0-p01-v13
-[thus](iti)+[beginning-with](ādayo) [great](mahā)+[faults](doṣāḥ) [of-the-teacher](deśikasya)+[indeed](eva) [by-seeing](vīkṣaṇāt)
+[such-etc](ityādayo) [great-faults](mahādoṣāḥ) [of-teacher-indeed](deśikasyaiva) [from-seeing](vīkṣaṇāt)
 
 ## mukta-m0-p01-v14
-[kalā](kalā) [vidyā](vidyā) [and](ca) [rāga](rāgaḥ)+[and](ca) [niyati](niyatiḥ) [time](kāla) [indeed](eva) [and](ca)
+[power](kalā) [knowledge](vidyā) [and](ca) [attachment](rāgaśca) [necessity](niyatiḥ) [time](kāla) [indeed](eva) [and](ca)
 
 ## mukta-m0-p01-v15
-[by-these](etābhiḥ)+[indeed](eva) [by-fierce](tīvrābhiḥ) [by-powers](śaktibhiḥ) [sheath](kañcuka)+[group](āṭamabhiḥ)
+[by-these-indeed](etābhireva) [intense](tīvrābhiḥ) [powers](śaktibhiḥ) [jackets](kañcukāṭamabhiḥ)
 
 ## mukta-m0-p01-v16
-[by-them](tābhiḥ)[individual-soul-state](jivatvam)[attained](āpannaḥ) [like-a-worldly-being](saṃsārī)+[as-if](iva) [acts](viceṣṭate)
+[by-them](tābhir) [jiva-hood](jivatvam) [obtained](āpannaḥ) [like-samsarin](saṃsārīva) [struggles](viceṣṭate)
 
 ## mukta-m0-p01-v17
-[hence](itas)+[and-thence](tato) [seized](hṛtaṃ) [soul](jīvaḥ) [by-himself](svayam)+[indeed](eva) [own-self](svam)[perceiving](āmṛśan)
+[from-here-there](itastato) [taken](hṛtaṃ) [jiva](jīvaḥ) [by-himself](svayameva) [his-own-reflecting](svamāmṛśan)
 
 ## mukta-m0-p01-v18
-[reflection](pratibimba) [not](na) [by-capability](sāmarthyān) [in-tarnished](maline) [mirror](darpaṇe) [as](yathā)
+[reflection](pratibimba) [not](na) [capacity](sāmarthyān) [in-dirty](maline) [mirror](darpaṇe) [as](yathā)
 
 ## mukta-m0-p01-v19
-[therefore](tasmāt)[by-impurity](mala)+[destruction](praṇāśena) [śiva-state](śivatā)+[attainment](āpatti)+[cause](kāraṇā)
+[therefore](tasmān) [by-impurity-destruction](malapraṇāśena) [Shiva-state-attainment-cause](śivatāpattikāraṇā)
 
 ## mukta-m0-p01-v20
-[by-beginningless](anādi)+[ignorance](avidyā)+[force](vaśato) [impurity](mala)+[mass](rāśiḥ)[great](mahān) [if](yadi)
+[beginningless-ignorance-subject](anādyavidyāvaśato) [impurity-mass-great](malarāśirmahān) [if](yadi)
 
 ## mukta-m0-p01-v21
-[time-fire](kālāgni)+[crore](koṭi)+[like](vat)[blazing](dīptāṃ) [burning](dahaṃtīṃ) [bond](pāśam)[bright](ujvalām)
+[time-fire-million-like-blazing](kālāgnikoṭivaddīptāṃ) [burning](dahaṃtīṃ) [bond](pāśam) [radiant](ujvalām)
 
 ## mukta-m0-p01-v22
-[own](nijāṃ) [power](śaktim)[mantra](anuṃ) [should-meditate](dhyāyed) [by-guru](guru)+[gaze](vīkṣaṇa)+[purified](nirmalām)
+[own](nijāṃ) [power-mantra](śaktimanuṃ) [meditate](dhyāyed) [guru-sight-pure](guruvīkṣaṇanirmalām)
 
 ## mukta-m0-p01-v23
-[so-long](tāvad) [meditation](dhyānam)[this](idaṃ) [to-be-done](kāryaṃ) [all](sarva)+[impurity](durmala)+[cutting](kartanam)
+[so-long](tāvad) [meditation-this](dhyānamidaṃ) [to-be-done](kāryaṃ) [all-bad-impurity-cutting](sarvadurmalakartanam)
 
 ## mukta-m0-p01-v24
-[by-itself](svayam)+[indeed](eva) [may-shine-forth](prakāśeta) [own-self](svātmā) [good-fortune](saubhāgya)+[receptacle](bhājanam)
+[by-itself](svayameva) [shines](prakāśeta) [own-self](svātmā) [fortune-vessel](saubhāgyabhājanam)
 
 ## mukta-m0-p01-v25
 [shines](bhāsate)
