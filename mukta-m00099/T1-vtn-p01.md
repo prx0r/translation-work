@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## vtn-p01-v1
-[tat+naumi](tannaumi) [sāhasa+varam](sāhasavaraṃ) [guru+vaktra+gamyam](guruvaktragamyam)
+[that](tat) [i-bow-to](naumi) [sāhasa+supreme](sāhasa+varaṃ) [guru+mouth+accessible](guru+vaktra+gamyam)
 
 ## vtn-p01-v2
-[kaḥ+api+anuttara+cid+vyoma+svabhāvaḥ](ko'pyanuttaracidvyomasvabhāvo) [jayatāt+ajaḥ](jayatādajaḥ)
+[some](kaḥ) [indeed](api) [unsurpassed+consciousness+space+nature](anuttara+cit+vyoma+svabhāvaḥ) [may-he-be-victorious](jayatāt) [unborn](ajaḥ)
 
 ## vtn-p01-v3
-[pūjya+pūjaka+pūjābhiḥ](pūjyapūjakapūjābhiḥ) [projjhitam](projjhitaṃ) [yat+namāmi](yannamāmi) [tat](tat)
+[worshipped+worshipper+worships](pūjya+pūjaka+pūjābhiḥ) [abandoned](projjhitaṃ) [which](yat) [i-bow-to](namāmi) [that](tat)
 
 ## vtn-p01-v4
-[mahā+vyoma+samāviṣṭaḥ](mahāvyomasamāviṣṭastisṭhāmyasminnirāvilaḥ) [tiṣṭhāmi](tiṣṭhāmi) [asmin](asmin) [nirāvilaḥ](nirāvilaḥ)
+[great+space+entered](mahā+vyoma+samāviṣṭaḥ) [i-stand](tiṣṭhāmi) [in-this](asmin) [untroubled](nirāvilaḥ)
 
 ## vtn-p01-v5
-[saṃvid+vikalpa+saṃkalpa+ghaṭṭanam](saṃvidvikalpasaṃkalpaghaṭṭanaṃ) [naumi](naumi) [anuttaram](anuttaram)
+[consciousness+thought+resolve+striking](saṃvid+vikalpa+saṃkalpa+ghaṭṭanaṃ) [i-bow-to](naumi) [unsurpassed](anuttaram)
 
 ## vtn-p01-v6
-[kena+api](kenāpi) [kriyate](kriyate) [samyak](samyak) [para+tattva+upabṛṃhitā](paratattvopabṛṃhitā)
+[by-someone](kenāpi) [is-done](kriyate) [properly](samyak) [supreme+reality+nourished](para+tattva+upabṛṃhitā)
 
 ## vtn-p01-v7
-[mahā+sāhasa+vṛttyā](mahāsāhasavṛttyā) [sva+rūpa+lābhaḥ](svarūpalābhaḥ)
+[great+sāhasa+mode](mahā+sāhasa+vṛttyā) [own-nature+attainment](svarūpa+lābhaḥ)
 
 ## vtn-p01-v8
-[vakṣyamāṇa+kathita+krameṇa](vakṣyamāṇakathitakrameṇā) [adhigantavyaḥ](dhigantavyaḥ)
+[to-be-stated+described+sequence](vakṣyamāṇa+kathita+krameṇa) [to-be-attained](adhigantavyaḥ)
 
 ## vtn-p01-v9
-[satatam+avasthitiḥ](satatamavasthitiḥ) [sthitā+iti+arthaḥ](sthitetyarthaḥ)
+[continually](satatam) [abiding](avasthitiḥ) [state](sthiti) [thus](iti) [meaning](arthaḥ)
 
 ## vtn-p01-v10
 [ḥ](ḥ)
 
 ## vtn-p01-v11
-[prāpta+mahā+upadeśa+nāma](prāptamahopadeśanāmā) [āvirbhavati+iti+arthaḥ](virbhavatītyar-thaḥ)
+[obtained+great+instruction](prāpta+mahā+upadeśa+nām) [manifestation](āvirbhavati) [thus](iti) [meaning](arthaḥ)
 
 ## vtn-p01-v12
-[yugma+grāsāt](yugmagrāsānniravakāśasaṃvinniṣṭhā) [niravakāśa+saṃvit+niṣṭhā](niravakāśasaṃvinniṣṭhā)
+[pair+devouring](yugma+grāsāt) [without-interval+consciousness+firmness](niravakāśa+saṃvit+niṣṭhā)
 
 ## vtn-p01-v13
-[nirupādhi+nirūpa+niḥsvarūpatā+dātmyam](nirupādhinīrūpaniḥsvarūpatādātmyaṃ) [bhavati+iti+arthaḥ](bhavatītyarthaḥ)
+[without-support+formless+no-own-nature+identity](nirupādhi+nīrūpa+niḥsvarūpatā+tādātmyaṃ) [becomes](bhavati) [thus](iti) [meaning](arthaḥ)
 
 ## vtn-p01-v14
-[siddha+yoginī+saṃghaṭṭāt](siddhayoginīsaṃghaṭṭānmahāmelāpodayaḥ) [mahā+melāpa+udayaḥ](mahāmelāpodayaḥ)
+[accomplished+yoginī+assembly](siddha+yoginī+saṃghaṭṭāt) [great+meeting+arising](mahā+melāpa+udayaḥ)
 
 ## vtn-p01-v15
-[parama+advaya+samāveśaḥ](paramādvayasamāveśaḥ) [sarvatra+avasthitaḥ](sarvatrāvasthita) [iti+uktam](ityuktaṃ) [bhavati](bhavati)
+[supreme+non-dual+absorption](parama+advaya+samāveśaḥ) [everywhere](sarvatra) [situated](avasthitaḥ) [thus](iti) [stated](uktaṃ) [becomes](bhavati)
 
 ## vtn-p01-v16
-[bhavati+iti](bhavatīti) [saṃbandhaḥ](saṃbandhaḥ)
+[becomes](bhavati) [thus](iti) [connection](saṃbandhaḥ)
 
 ## vtn-p01-v17
-[yathā+mukha+upadiṣṭa+nītyā](yathāmukhopadiṣṭanītyā) [svara+eva](svara eva) [prathate](prathate) [iti+uktam](ityuktaṃ) [bhavati](bhavati)
+[as+mouth+taught+method](yathā+mukha+upadiṣṭa+nītyā) [own-essence](svare) [indeed](eva) [shines-forth](prathate) [thus](iti) [stated](uktaṃ) [becomes](bhavati)
 
 ## vtn-p01-v18
-[vigata+bandham](vigatabandhaṃ) [param](paraṃ) [brahma](brahma)
+[freed-from-bondage](vigata+bandhaṃ) [supreme](paraṃ) [brahman](brahma)
 
 ## vtn-p01-v19
-[vibhāti+iti](vibhātīti) [rahasya+arthaḥ](rahasyārthaḥ)
+[shines](vibhāti) [thus](iti) [secret+meaning](rahasya+arthaḥ)
 
 ## vtn-p01-v20
-[sva+viśrānti+avasthitiḥ](svaviśrāntyavasthitiḥ)
+[own+repose+abiding](sva+viśrānti+avasthitiḥ)
 
 ## vtn-p01-v21
-[avasthitiḥ](vasthitiḥ) [pañcama+padāti+śāyinī](pañcamapadātiśāyinī) [niravakāśa+saṃvit+niṣṭhā](niravakāśasaṃvinniṣṭhā) [sthitā+iti+arthaḥ](sthitetyarthaḥ)
+[abiding](avasthitiḥ) [fifth+state+transcending](pañcama+pada+atiśāyinī) [without-interval+consciousness+firmness](niravakāśa+saṃvit+niṣṭhā) [state](sthiti) [thus](iti) [meaning](arthaḥ)
 
 ## vtn-p01-v22
-[dvādaśa+vāha+udayena](dvādaśavāhodayena) [mahā+marīci+vikāsaḥ](mahāmarīcivikāsaḥ)
+[twelve+rayed+arising](dvādaśa+vāha+udayena) [great+ray+expansion](mahā+marīci+vikāsaḥ)
 
 ## vtn-p01-v23
-[tayā](tayā) [sarvatra](sarvatra) [sarvataḥ](sarvataḥ) [sarvadā+eva](sarvadaiva) [sthitaḥ](sthita) [iti](iti) [mahā+vākya+arthaḥ](mahāvākyārthaḥ)
+[by-that](tayā) [everywhere](sarvatra) [in-all-ways](sarvataḥ) [always](sarvadā) [indeed](eva) [situated](sthitaḥ) [thus](iti) [great+statement+meaning](mahā+vākya+arthaḥ)
 
 ## vtn-p01-v24
-[caryā+pañcaka+udaye](caryāpañcakodaye) [nistaraṅga+samāveśaḥ](nistaraṅgasamāveśaḥ)
+[conduct+pentad+arising](caryā+pañcaka+udaye) [waveless+absorption](nistaraṅga+samāveśaḥ)
 
 ## vtn-p01-v25
-[caryā+pañcaka+udayaḥ](caryāpañcakodayaḥ)
+[conduct+pentad+arising](caryā+pañcaka+udayaḥ)

@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p09-v201
-[by-maya](māyayācchāditātmānaṃ) [in-that-middle](tanmadhye) [with-equal-nature](samabhāvataḥ)
+[by-illusion](māyayā) [covered+self](ācchādita+ātmānaṃ) [in-that+midst](tan+madhye) [equally-existing](samabhāvataḥ)
 
 ## mukta-m0-p09-v202
-[great-brahma](mahābrahmā) [that-same-self](sa evātmā) [name-only-difference](nāmamātravibhedakaḥ)
+[great+brahman](mahā+brahmā) [he](saḥ) [indeed](eva) [self](ātmā) [name+mere+differentiated](nāma+mātra+vibhedakaḥ)
 
 ## mukta-m0-p09-v203
-[various-nature-mind](nānābhāvamano) [whose](yasya) [liberation-not-exists](tasya muktirna vidyate)
+[manifold+state+mind](nānā+bhāva+manaḥ) [of-whom](yasya) [of-him](tasya) [liberation](muktiḥ) [not](na) [exists](vidyate)
 
 ## mukta-m0-p09-v204
-[there-brahma](tatra brahmā) [there-vishnu](tatra viṣṇustatra) [rudra-arranged](rudraḥ pravinyaset)
+[there](tatra) [brahmā](brahmā) [there](tatra) [viṣṇu](viṣṇuḥ) [there](tatra) [rudra](rudraḥ) [one-should-place](pravinyaset)
 
 ## mukta-m0-p09-v205
-[some-say](kecidvadanti) [rudra-that-one-god](rudraḥ sa eko devo) [stainless](nirañjanaḥ)
+[some](kecid) [say](vadanti) [rudra](rudraḥ) [he](saḥ) [one](ekaḥ) [god](devaḥ) [stainless](nirañjanaḥ)
 
 ## mukta-m0-p09-v206
-[there-only-exists](tatraiva vartate) [eternally](nityaścaṇakākārarūpakaḥ)
+[there+indeed](tatra+eva) [exists](vartate) [eternal](nityaḥ) [chickpea+form+shaped](caṇaka+ākāra+rūpakaḥ)
 
 ## mukta-m0-p09-v207
-[eternal-bliss-giving](nityānandakarā) [goddess](devi) [kalika-right-side](kālikā dakṣiṇe sthitā)
+[eternal+bliss+causing](nitya+ānanda+karā) [goddess](devi) [kālikā](kālikā) [in-south](dakṣiṇe) [situated](sthitā)
 
 ## mukta-m0-p09-v208
-[is-born](jāyate ca) [on-earth-tree](kṣitau vṛkṣo) [as-on-earth](yathā pṛthvyāṃ) [dissolves](pralīyate)
+[is-born](jāyate) [and](ca) [on-earth](kṣitau) [tree](vṛkṣaḥ) [as](yathā) [in-earth](pṛthvyāṃ) [dissolves](pralīyate)
 
 ## mukta-m0-p09-v209
-[in-cloud-lightning-birth](jalade taḍitutpattiryathā) [in-cloud](meghe) [dissolves](pralīyate)
+[in-cloud](jalade) [lightning+arising](taḍit+utpattiḥ) [as](yathā) [in-cloud](meghe) [dissolves](pralīyate)
 
 ## mukta-m0-p09-v210
-[thus-at-dissolution-time](tathā pralayakāletu) [again-in-that-dissolves](punaastasyāṃ pralīyate)
+[so](tathā) [at-dissolution+time](pralaya+kāle) [indeed](tu) [again](punaḥ) [in-her](tasyāṃ) [dissolves](pralīyate)
 
 ## mukta-m0-p09-v211
-[by-one-part-brahma](ekāṃśena bhavedbrahmā) [by-one-part-janardana](ekāṃśena janārdanaḥ)
+[by-one+part](eka+aṃśena) [would-be](bhavet) [brahmā](brahmā) [by-one+part](eka+aṃśena) [janārdana](janārdanaḥ)
 
 ## mukta-m0-p09-v212
-[other-great-kali](aparā sā mahākālī) [rivers-etc-ocean-like](nadyādīnāṃ samudravat)
+[other](aparā) [she](sā) [mahākālī](mahākālī) [of-rivers+and-others](nadī+ādīnāṃ) [like-ocean](samudravat)
 
 ## mukta-m0-p09-v213
-[in-cow-hoof](goṣpade) [what-know](kiṃ vijānīyāt) [ocean-water](samudrasya jalaṃ) [shive](śive)
+[in-cow+hoofprint](goṣpade) [how](kiṃ) [one-could-know](vijānīyāt) [of-ocean](samudrasya) [water](jalaṃ) [o-śiva](śive)
 
 ## mukta-m0-p09-v214
-[when-created-by-kali](sṛṣṭikartryā yadā kālyā) [protected-gods-etc](pālyante ca surādayaḥ)
+[by-creation+doer](sṛṣṭi+kartryā) [when](yadā) [by-kālī](kālyā) [are-protected](pālyante) [and](ca) [gods+and-others](sura+ādayaḥ)
 
 ## mukta-m0-p09-v215
-[therefore-liberation-giving-kali](ato nirvāṇadā kālī) [of-purusha-comfort-giving](puruṣasya ca śarmadā)
+[therefore](ataḥ) [liberation+giving](nirvāṇa+dā) [kālī](kālī) [of-man](puruṣasya) [and](ca) [happiness+giving](śarmadāa)
 
 ## mukta-m0-p09-v216
-[as-sun-world-shines](yathā sūryo jagadbhāti) [knowable-momentary](jñeyañca kṣaṇakaṃ tathā)
+[as](yathā) [sun](sūryaḥ) [world](jagat) [illuminates](bhāti) [to-be-known](jñeyañ) [and](ca) [for-a-moment](kṣaṇakaṃ) [so](tathā)
 
 ## mukta-m0-p09-v217
-[again-at-dissolution-time](punaḥ pralīna-kāle'pi) [two-one-hidden-in-man](dvidhaikaṃ puṃsagopitam)
+[again](punaḥ) [at-dissolution+time](pralīna+kāle) [also](api) [twofold+one](dvidhā+ekaṃ) [by-spirit+hidden](puṃsa+gopitam)
 
 ## mukta-m0-p09-v218
-[eternal-non-eternal-one-self](nityānityaṃ yadaikātmā) [that-one-brahma-form](tadaikaṃ brahmavigraham)
+[eternal+non-eternal](nitya+anityaṃ) [when](yadā) [one+self](eka+ātmā) [then](tadā) [one](ekaṃ) [brahman+form](brahma+vigraham)
 
 ## mukta-m0-p09-v219
-[sixth-ullasa](ṣaṣṭhollāsaḥ)
+[sixth+chapter](ṣaṣṭha+ullāsaḥ)
 
 ## mukta-m0-p09-v220
-[indicated](sūcitaṃ) [parameshani](parameśāni) [speak-compassionately](kathayasvānukampayā)
+[indicated](sūcitaṃ) [o-supreme+goddess](parama+īśāni) [tell](kathayasva) [with-compassion](anukampayā)
 
 ## mukta-m0-p09-v221
-[still-in-shakti-tantras](tathāpi śaktitantreṣu) [special-all-means](viśeṣaṃ sarvasādhanam)
+[nevertheless](tathāpi) [in-śakti+tantras](śakti+tantreṣu) [special](viśeṣaṃ) [all+accomplishment](sarva+sādhanam)
 
 ## mukta-m0-p09-v222
-[without-conduct](ācāreṇa vinā) [bhava-never-arises](bhāvaṃ kadācinnaiva jāyate)
+[by-conduct](ācāreṇa) [without](vinā) [disposition](bhāvaṃ) [ever](kadācit) [not+indeed](na+eva) [arises](jāyate)
 
 ## mukta-m0-p09-v223
-[bhava-possessor-fruit-receiver](bhāvavān phalabhāk) [or-by-what-conduct-possessor](kena vācāravān bhavet)
+[disposition+possessing](bhāva+vān) [fruit+partaker](phala+bhāk) [or](kimbā) [by-what](kena) [or](vā) [conduct+possessing](ācāra+vān) [would-be](bhavet)
 
 ## mukta-m0-p09-v224
-[some-bhava-to-be-spoken](kiñcid bhāvaṃ pravaktavyaṃ) [direction-measure-vision](diṅmātradarśanaṃ yathā)
+[something](kiñcid) [disposition](bhāvaṃ) [to-be-spoken](pravaktavyaṃ) [direction+mere+showing](dik+mātra+darśanaṃ) [as](yathā)
 
 ## mukta-m0-p09-v225
-[thus-bhava-great-deva](tathā bhāvaṃ mahādeva) [by-mind-contemplated](manasā paribhāvyate)
+[so](tathā) [disposition](bhāvaṃ) [o-great+god](mahā+deva) [by-mind](manasā) [is-conceived](paribhāvyate)
