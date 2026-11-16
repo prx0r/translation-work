@@ -5,46 +5,46 @@
 [on-rising](vyutthāne) [activity](vṛtti) [one-should-do](kuryā) [thus](iti) [meaning](bhāvaḥ)
 
 ## mukta-m0-p05-v102
-[oṃ-bhūr-bhuvas-svaḥ](oṃ bhūrbhuvasvar) [thus](iti) [having-said](uktvā) [tat-savitur](tatsavitur) [thus](iti) [sāvitrī](sāvitrī) [one-should-recite](manubrūyāḥ)
+[oṃ](oṃ) [bhūr-bhuvas-svar+iti+having-said](bhūrbhuvasvarityuktvā) [tat-savitur+iti](tatsavituriti) [sāvitrī](sāvitrī) [one-should-recite](manubrūyāḥ)
 
 ## mukta-m0-p05-v103
-[one-should-meditate](bhāvayet) [thus](iti) [said](uktaṃ) [it-is](bhavati)
+[one-should-contemplate](bhāvayerityuktaṃ) [thus+said](bhāvayerityuktaṃ) [it-becomes](bhavati)
 
 ## mukta-m0-p05-v104
-[before](prāk) [sunset](astamayā) [having-gone-out](niṣkramya) [fuel-sticks](samidha) [one-should-bring](āhāre) [tawny](hariṇī) [brahmanic-splendor](brahma+varcasa) [desiring](kāmaḥ)
+[before+sunset](prāgastamayā) [having-gone-out](niṣkramya) [fuel-sticks](samidha) [one-should-bring](āhāre) [tawny](hariṇī) [brahmanic-splendor+desiring](brahmavarcasakāmaḥ)
 
 ## mukta-m0-p05-v105
 [it-is-heard](śrūyate)
 
 ## mukta-m0-p05-v106
-[evening](sāyaṃ) [morning](prātaḥ) [twilight-rites](saṃdhyāni) [remembrance](smaraṇaṃ) [to-be-done](kartavyaṃ)
+[evening](sāyaṃ) [morning+twilight](prātassaṃdhyāni) [remembrance](smaraṇaṃ) [to-be-done](kartavyaṃ)
 
 ## mukta-m0-p05-v107
-[that](tat) [both](ubhaya) [pervading](vyāpakaṃ) [and](ca) [supreme](paraṃ) [light](tejaḥ)
+[that+both+pervading](tadubhayavyāpakaṃ) [and](ca) [supreme](paraṃ) [light](tejaḥ)
 
 ## mukta-m0-p05-v108
-[alms](bhaikṣa) [going-about](ācaraṇaṃ) [to-be-done](kartavyam)
+[alms+going-about](bhaikṣācaraṇaṃ) [to-be-done](kartavyam)
 
 ## mukta-m0-p05-v109
-[fire](agni) [kindling](īṃdhanaṃ) [to-be-done](kartavyam)
+[fire+kindling](agnīṃdhanaṃ) [to-be-done](kartavyam)
 
 ## mukta-m0-p05-v110
-[by-that](tena) [and](ca) [of-brahman-fire](brahma+agneḥ) [kindling](dīpanaṃ) [to-be-enjoined](vidheyaṃ)
+[by-that](tena) [and](ca) [brahman+fire+of](brahmāgnerdīpanaṃ) [kindling](brahmāgnerdīpanaṃ) [to-be-enjoined](vidheyaṃ)
 
 ## mukta-m0-p05-v111
-[in-the-evening](sāyam) [only](eva) [fire](agniḥ) [you-should-kindled](maṃdhīthāḥ)
+[in-the-evening](sāyamevāgnirmaṃdhīthāḥ) [indeed+fire](sāyamevāgnirmaṃdhīthāḥ) [you-should-kindle](sāyamevāgnirmaṃdhīthāḥ)
 
 ## mukta-m0-p05-v112
-[of-alms](bhaikṣasya) [going-about](ācaraṇa) [and-so-forth](iti+ādi)
+[of-alms](bhaikṣasyācaraṇetyādi) [going-about+iti+etc](bhaikṣasyācaraṇetyādi)
 
 ## mukta-m0-p05-v113
-[alms-going](bhaikṣa+ācaraṇa) [fire-kindling](agni+īṃdhanī)
+[alms+going-about](bhaikṣācaraṇāgnīṃdhanī) [fire+kindling](bhaikṣācaraṇāgnīṃdhanī)
 
 ## mukta-m0-p05-v114
-[seven](sapta) [nights](rātram)
+[seven+nights](saptarātram)
 
 ## mukta-m0-p05-v115
-[may-not-be](mā+bhūt) [thus](iti) [blesses](āśāste) [teacher](guruḥ)
+[not+may-it-be](mābhūdityāśāste) [thus](mābhūdityāśāste) [blesses](mābhūdityāśāste) [teacher](guruḥ)
 
 ## mukta-m0-p05-v116
 [hear](chṛṇu) [indeed](tu) [you](tvā) [speech](vāk)
@@ -53,25 +53,25 @@
 [having-bowed](sanamya) [holds](dhārayati)
 
 ## mukta-m0-p05-v118
-[which](yat) [veda-vow](veda+brataṃ) [that](tat) [here](atra) [vow](bratam)
+[which](yadvedabrataṃ) [veda+vow](yadvedabrataṃ) [that](tadatra) [here](tadatra) [vow](bratam)
 
 ## mukta-m0-p05-v119
-[it-is](bhavati) [necessarily](avaśyaṃ) [to-be-taken](gṛhītavyam) [thus](iti) [meaning](arthaḥ)
+[it-becomes](bhavati) [necessarily](avaśyaṃ) [to-be-taken](gṛhītavyamityarthaḥ) [thus+meaning](gṛhītavyamityarthaḥ)
 
 ## mukta-m0-p05-v120
-[teacher](guruḥ) [says](āha)
+[teacher](gururāha) [said](gururāha)
 
 ## mukta-m0-p05-v121
-[brahmacharya](brahma+cārya) [you-are](asi) [thus](iti)
+[celibacy](brahmacārya'sīti) [you-are+thus](brahmacārya'sīti)
 
 ## mukta-m0-p05-v122
-[five](paṃca) [modifications](vikārān) [we-shall-enumerate](anukramiruṣyāmaḥ)
+[five](paṃcavikārānanukramiruṣyāmaḥ) [modifications](paṃcavikārānanukramiruṣyāmaḥ) [we-shall-enumerate](paṃcavikārānanukramiruṣyāmaḥ)
 
 ## mukta-m0-p05-v123
-[not](na) [thus](iti) [impossible](aśakya) [he-says](āha)
+[not](navetyāśakyāha) [thus](navetyāśakyāha) [impossible+said](navetyāśakyāha)
 
 ## mukta-m0-p05-v124
-[water](apaḥ) [sipping](aśāna)
+[water+sipping](apośāna)
 
 ## mukta-m0-p05-v125
-[brahman-knowledge](brahma+jñāna) [reflection](vimarśa) [firmness](dārḍhyaṃ) [may-be](bhavet) [there](tatra) [he-says](āha)
+[brahman+knowledge](brahmajñānavimarśadārḍhyaṃ) [reflection](brahmajñānavimarśadārḍhyaṃ) [firmness](brahmajñānavimarśadārḍhyaṃ) [may-be](bhavet) [there](tatrāha) [said](tatrāha)

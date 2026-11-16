@@ -7,24 +7,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "aṣṭādaśa",
-"quick_gloss": "eighteen"
-},
-{
-"surface": "a\"ṅgulaṃ",
-"quick_gloss": "aṅgula"
+"surface": "aṣṭādaśā\"ṅgulaṃ",
+"quick_gloss": "eighteen-aṅgula"
 },
 {
 "surface": "vāpi",
 "quick_gloss": "or"
 },
 {
-"surface": "navadaśa",
-"quick_gloss": "nineteen"
-},
-{
-"surface": "a\"ṅgulaṃ",
-"quick_gloss": "aṅgula"
+"surface": "navadaśā\"ṅgulaṃ",
+"quick_gloss": "nineteen-aṅgula"
 },
 {
 "surface": "tu",
@@ -53,7 +45,7 @@
 },
 {
 "surface": "viprendra",
-"quick_gloss": "o-best-of-brahmins"
+"quick_gloss": "o-best-of-twice-born"
 },
 {
 "surface": "kārayet",
@@ -61,7 +53,7 @@
 },
 {
 "surface": "deśikottamaḥ",
-"quick_gloss": "best-teacher"
+"quick_gloss": "o-best-teacher"
 }
 ]
 },
@@ -77,7 +69,7 @@
 "quick_gloss": "height"
 },
 {
-"surface": "ca+aṣṭadhā",
+"surface": "cāṣṭadhā",
 "quick_gloss": "into-eight-parts"
 },
 {
@@ -89,8 +81,12 @@
 "quick_gloss": "one-part"
 },
 {
-"surface": "ca+eva",
+"surface": "ca",
 "quick_gloss": "and"
+},
+{
+"surface": "eva",
+"quick_gloss": "indeed"
 },
 {
 "surface": "vistaram",
@@ -139,19 +135,23 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "labdha+uccaṃ",
+"surface": "labdhauccaṃ",
 "quick_gloss": "obtained-height"
 },
 {
-"surface": "ca+eva",
+"surface": "ca",
 "quick_gloss": "and"
 },
 {
-"surface": "viprendra",
-"quick_gloss": "o-best-of-brahmins"
+"surface": "eva",
+"quick_gloss": "indeed"
 },
 {
-"surface": "māna+a\"ṅgulana",
+"surface": "viprendra",
+"quick_gloss": "o-best-of-twice-born"
+},
+{
+"surface": "mānā\"ṅgulena",
 "quick_gloss": "by-measure-aṅgula"
 },
 {
@@ -184,7 +184,7 @@
 "quick_gloss": "should-be-accepted"
 },
 {
-"surface": "āya+vyayam",
+"surface": "āyavyayam",
 "quick_gloss": "income-expenditure"
 },
 {
@@ -221,12 +221,16 @@
 "quick_gloss": "declared"
 },
 {
-"surface": "guṇena+eva",
+"surface": "guṇena",
 "quick_gloss": "by-multiplier"
 },
 {
+"surface": "eva",
+"quick_gloss": "indeed"
+},
+{
 "surface": "vivardhayet",
-"quick_gloss": "one-should-increase"
+"quick_gloss": "one-should-multiply"
 }
 ]
 },
@@ -239,7 +243,7 @@
 "tokens": [
 {
 "surface": "padaṃ",
-"quick_gloss": "step"
+"quick_gloss": "foot"
 },
 {
 "surface": "prati",
@@ -312,8 +316,8 @@
 "quick_gloss": "by-thirty"
 },
 {
-"surface": "hāsaya",
-"quick_gloss": "subtract"
+"surface": "hāsayet",
+"quick_gloss": "one-should-subtract"
 },
 {
 "surface": "uktāni",
@@ -361,12 +365,16 @@
 "quick_gloss": "declared"
 },
 {
-"surface": "āya+vyaya",
+"surface": "āyavyaya",
 "quick_gloss": "income-expenditure"
 },
 {
-"surface": "caya+iti",
+"surface": "caya",
 "quick_gloss": "and-loss"
+},
+{
+"surface": "iti",
+"quick_gloss": "thus"
 },
 {
 "surface": "ca",
@@ -382,7 +390,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "āya+adhikaṃ",
+"surface": "āyādhikaṃ",
 "quick_gloss": "income-greater"
 },
 {
@@ -394,7 +402,7 @@
 "quick_gloss": "less"
 },
 {
-"surface": "saṃpat+karam",
+"surface": "saṃpatkaram",
 "quick_gloss": "prosperity-causing"
 },
 {
@@ -419,11 +427,11 @@
 "quick_gloss": "therefore"
 },
 {
-"surface": "sarva+prayatnena",
+"surface": "sarvaprayatnena",
 "quick_gloss": "with-all-effort"
 },
 {
-"surface": "āya+hīnam",
+"surface": "āyahīnam",
 "quick_gloss": "income-deficient"
 },
 {
@@ -445,7 +453,7 @@
 "tokens": [
 {
 "surface": "dhūmraḥ",
-"quick_gloss": "smoky"
+"quick_gloss": "dhūmra"
 },
 {
 "surface": "ca",
@@ -498,7 +506,7 @@
 },
 {
 "surface": "pustakaṃ",
-"quick_gloss": "book"
+"quick_gloss": "manuscript"
 },
 {
 "surface": "param",
@@ -534,7 +542,7 @@
 "quick_gloss": "and"
 },
 {
-"surface": "a\"ṅgiraḥ",
+"surface": "āṅgiraḥ",
 "quick_gloss": "Aṅgiras"
 },
 {
@@ -551,7 +559,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "caturdaśa+a\"ṅgula+ādīni",
+"surface": "caturdaśā\"ṅgulādīni",
 "quick_gloss": "beginning-with-fourteen-aṅgulas"
 },
 {
@@ -577,19 +585,23 @@
 "tokens": [
 {
 "surface": "gati",
-"quick_gloss": "motion"
+"quick_gloss": "gati"
 },
 {
-"surface": "catvāri+daśa",
+"surface": "catvāridaśa",
 "quick_gloss": "fourteen"
 },
 {
-"surface": "ca+eva",
+"surface": "ca",
 "quick_gloss": "and"
 },
 {
+"surface": "eva",
+"quick_gloss": "indeed"
+},
+{
 "surface": "kati",
-"quick_gloss": "how-many"
+"quick_gloss": "kati"
 },
 {
 "surface": "catvāri",
@@ -658,15 +670,15 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "* * *",
-"quick_gloss": "lacuna"
+"surface": " * * * ",
+"quick_gloss": "* * *"
 },
 {
-"surface": "śāṃgula+ādīni",
+"surface": "śāṃgulādīni",
 "quick_gloss": "beginning-with-aṅgulas"
 },
 {
-"surface": "veda+nāmi",
+"surface": "vedanāmi",
 "quick_gloss": "by-names"
 },
 {
@@ -674,7 +686,7 @@
 "quick_gloss": "here"
 },
 {
-"surface": "ucyate",
+"surface": "cocyate",
 "quick_gloss": "is-stated"
 }
 ]
@@ -687,16 +699,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "ṣaṭ+patiḥ",
-"quick_gloss": "six-lines"
+"surface": "ṣaṭpatir",
+"quick_gloss": "with-six-lines"
 },
 {
-"surface": "vā+atha",
+"surface": "vā",
 "quick_gloss": "or"
 },
 {
+"surface": "atha",
+"quick_gloss": "then"
+},
+{
 "surface": "pañcaiḥ",
-"quick_gloss": "by-five"
+"quick_gloss": "with-five"
 },
 {
 "surface": "vā",
@@ -708,7 +724,7 @@
 },
 {
 "surface": "pustakaṃ",
-"quick_gloss": "book"
+"quick_gloss": "manuscript"
 },
 {
 "surface": "tataḥ",
@@ -724,7 +740,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "pa\"nktiḥ",
+"surface": "pa\"ṅktiḥ",
 "quick_gloss": "row"
 },
 {
@@ -736,7 +752,7 @@
 "quick_gloss": "is-designated"
 },
 {
-"surface": "tat+tat+nāmnā",
+"surface": "tattannāmnā",
 "quick_gloss": "by-their-respective-names"
 },
 {
@@ -757,7 +773,7 @@
 "quick_gloss": "of-sages"
 },
 {
-"surface": "bhuja+patre",
+"surface": "bhujapatre",
 "quick_gloss": "on-palm-leaf"
 },
 {
@@ -770,7 +786,7 @@
 },
 {
 "surface": "tu",
-"quick_gloss": "then"
+"quick_gloss": "indeed"
 },
 {
 "surface": "dvijottamaḥ",
@@ -795,18 +811,22 @@
 },
 {
 "surface": "kaḥ",
-"quick_gloss": "who"
+"quick_gloss": "kaḥ"
 },
 {
-"surface": "pa * * *",
-"quick_gloss": "lacuna"
+"surface": "pa",
+"quick_gloss": "pa"
 },
 {
-"surface": "pustaka+āyāma",
-"quick_gloss": "of-book-length"
+"surface": " * * * ",
+"quick_gloss": "* * *"
 },
 {
-"surface": "tat+samam",
+"surface": "pustakāyāma",
+"quick_gloss": "of-manuscript-length"
+},
+{
+"surface": "tatsamam",
 "quick_gloss": "equal-to-that"
 }
 ]
@@ -819,7 +839,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "śiva+agre",
+"surface": "śivāgre",
 "quick_gloss": "in-front-of-Śiva"
 },
 {

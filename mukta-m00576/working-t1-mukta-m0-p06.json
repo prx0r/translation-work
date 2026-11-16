@@ -11,28 +11,20 @@
 "quick_gloss": "by-action"
 },
 {
-"surface": "bhavet",
-"quick_gloss": "it-should-be"
-},
-{
-"surface": "iti+arthaḥ",
-"quick_gloss": "thus+meaning"
+"surface": "bhavet+iti+arthaḥ",
+"quick_gloss": "it-would-be+thus+meaning"
 },
 {
 "surface": "kiṃ",
 "quick_gloss": "what"
 },
 {
-"surface": "tat+karma",
-"quick_gloss": "that+action"
+"surface": "tat+karma+iti",
+"quick_gloss": "that+action+thus"
 },
 {
-"surface": "iti+apekṣāyām",
-"quick_gloss": "thus+in-expectation"
-},
-{
-"surface": "āha",
-"quick_gloss": "he-says"
+"surface": "apekṣāyām+āha",
+"quick_gloss": "in-expectation+says"
 }
 ]
 },
@@ -49,14 +41,14 @@
 },
 {
 "surface": "mā",
-"quick_gloss": "do-not"
+"quick_gloss": "not"
 },
 {
-"surface": "su+",
-"quick_gloss": "well"
+"surface": "a",
+"quick_gloss": "augment"
 },
 {
-"surface": "ṣvāpsīḥ",
+"surface": "suṣvāpsīḥ",
 "quick_gloss": "you-slept"
 }
 ]
@@ -70,11 +62,19 @@
 "tokens": [
 {
 "surface": "nivārayan",
-"quick_gloss": "restraining"
+"quick_gloss": "warding-off"
 },
 {
 "surface": "upadiśati",
-"quick_gloss": "he-instructs"
+"quick_gloss": "instructs"
+},
+{
+"surface": "iti",
+"quick_gloss": "thus"
+},
+{
+"surface": "upadeśaḥ",
+"quick_gloss": "teaching"
 }
 ]
 },
@@ -86,7 +86,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "vācaṃ",
+"surface": "vācam",
 "quick_gloss": "speech"
 },
 {
@@ -96,6 +96,10 @@
 {
 "surface": "yaḥ",
 "quick_gloss": "who"
+},
+{
+"surface": "yacchati",
+"quick_gloss": "restrains"
 }
 ]
 },
@@ -111,7 +115,7 @@
 "quick_gloss": "enjoyment+thought+giving"
 },
 {
-"surface": "avidyā+vat+saṃgaṃ",
+"surface": "avidyā+vatsaṃgam",
 "quick_gloss": "ignorance+association"
 },
 {
@@ -120,7 +124,7 @@
 },
 {
 "surface": "āha",
-"quick_gloss": "he-says"
+"quick_gloss": "says"
 }
 ]
 },
@@ -136,16 +140,16 @@
 "quick_gloss": "not"
 },
 {
-"surface": "malavat",
-"quick_gloss": "impure-like"
-},
-{
-"surface": "vāsaḥ",
-"quick_gloss": "garment"
+"surface": "mala+vat+vāsaḥ",
+"quick_gloss": "impure+like+garment"
 },
 {
 "surface": "adrākṣīḥ",
-"quick_gloss": "you-wore"
+"quick_gloss": "you-saw"
+},
+{
+"surface": "iti",
+"quick_gloss": "thus"
 }
 ]
 },
@@ -157,7 +161,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "eṣāṃ",
+"surface": "eṣām",
 "quick_gloss": "of-these"
 },
 {
@@ -190,12 +194,16 @@
 "quick_gloss": "not"
 },
 {
-"surface": "saṃ",
-"quick_gloss": "together"
+"surface": "sam",
+"quick_gloss": "with"
 },
 {
 "surface": "bhāṣethāḥ",
 "quick_gloss": "you-should-speak"
+},
+{
+"surface": "iti",
+"quick_gloss": "thus"
 }
 ]
 },
@@ -207,8 +215,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "malavat+vāsasaḥ",
-"quick_gloss": "impure+garment-wearers"
+"surface": "mala+vat+vāsasaḥ",
+"quick_gloss": "impure+like+garments"
 },
 {
 "surface": "bhavanti",
@@ -227,12 +235,8 @@
 "quick_gloss": "impure-ones"
 },
 {
-"surface": "aṃtyāvasāyinaḥ",
-"quick_gloss": "outcastes"
-},
-{
-"surface": "iti",
-"quick_gloss": "thus"
+"surface": "aṃtyāvasāyinaḥ+iti",
+"quick_gloss": "outcastes+thus"
 }
 ]
 },
@@ -244,20 +248,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "ajñāna+saṃgaṃ",
+"surface": "ajñāna+saṃgam",
 "quick_gloss": "ignorance+association"
 },
 {
-"surface": "tyajet",
-"quick_gloss": "one-should-abandon"
-},
-{
-"surface": "iti+arthaḥ",
-"quick_gloss": "thus+meaning"
+"surface": "tyajet+iti+arthaḥ",
+"quick_gloss": "one-should-abandon+thus+meaning"
 },
 {
 "surface": "bhāvaḥ",
 "quick_gloss": "purport"
+},
+{
+"surface": "hi",
+"quick_gloss": "indeed"
 }
 ]
 },
@@ -273,12 +277,16 @@
 "quick_gloss": "not"
 },
 {
-"surface": "śmaśānaṃ",
+"surface": "śmaśānam",
 "quick_gloss": "cremation-ground"
 },
 {
 "surface": "gacheḥ",
 "quick_gloss": "you-should-go"
+},
+{
+"surface": "iti",
+"quick_gloss": "thus"
 }
 ]
 },
@@ -290,20 +298,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "abhimānaṃ",
+"surface": "abhimānam",
 "quick_gloss": "egoism"
 },
 {
-"surface": "tyajet",
-"quick_gloss": "one-should-abandon"
-},
-{
-"surface": "iti",
-"quick_gloss": "thus"
+"surface": "tyajet+iti",
+"quick_gloss": "one-should-abandon+thus"
 },
 {
 "surface": "bhāvaḥ",
 "quick_gloss": "purport"
+},
+{
+"surface": "hi",
+"quick_gloss": "indeed"
 }
 ]
 },
@@ -325,6 +333,10 @@
 {
 "surface": "paśyeḥ",
 "quick_gloss": "you-should-see"
+},
+{
+"surface": "iti",
+"quick_gloss": "thus"
 }
 ]
 },
@@ -336,20 +348,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "kiṃ",
+"surface": "kim",
 "quick_gloss": "what"
 },
 {
-"surface": "vidheyam",
-"quick_gloss": "to-be-done"
+"surface": "vidheyam+iti",
+"quick_gloss": "to-be-done+thus"
 },
 {
-"surface": "iti+āśaṃkya",
-"quick_gloss": "thus+doubting"
+"surface": "āśaṃkya",
+"quick_gloss": "doubting"
 },
 {
 "surface": "āha",
-"quick_gloss": "he-says"
+"quick_gloss": "says"
 }
 ]
 },
@@ -361,8 +373,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "anātṛṇaṃ",
-"quick_gloss": "without-grass-cover"
+"surface": "anātṛṇam",
+"quick_gloss": "uncovered"
 },
 {
 "surface": "śava+śarī",
@@ -394,12 +406,16 @@
 "quick_gloss": "not"
 },
 {
-"surface": "ajñānāṃ",
-"quick_gloss": "ignorant-ones"
+"surface": "ajñānām",
+"quick_gloss": "of-the-ignorant"
 },
 {
 "surface": "spṛśet",
 "quick_gloss": "one-should-touch"
+},
+{
+"surface": "iti",
+"quick_gloss": "thus"
 }
 ]
 },
@@ -419,15 +435,11 @@
 "quick_gloss": "having-eaten"
 },
 {
-"surface": "vā",
-"quick_gloss": "or"
+"surface": "ālabhya+vā",
+"quick_gloss": "or-having-obtained"
 },
 {
-"surface": "ālabhya",
-"quick_gloss": "having-obtained"
-},
-{
-"surface": "śarīraṃ",
+"surface": "śarīram",
 "quick_gloss": "body"
 },
 {
@@ -453,7 +465,7 @@
 "tokens": [
 {
 "surface": "rasika+bhogya+āveśaḥ",
-"quick_gloss": "tasteful+enjoyable+absorption"
+"quick_gloss": "in-tasteful+enjoyable+absorption"
 },
 {
 "surface": "mama",
@@ -464,16 +476,12 @@
 "quick_gloss": "arises"
 },
 {
-"surface": "kutaḥ",
-"quick_gloss": "whence"
-},
-{
-"surface": "iti",
-"quick_gloss": "thus"
+"surface": "kutaḥ+iti",
+"quick_gloss": "whence+thus"
 },
 {
 "surface": "āha",
-"quick_gloss": "he-says"
+"quick_gloss": "says"
 }
 ]
 },
@@ -498,7 +506,7 @@
 },
 {
 "surface": "bhojana",
-"quick_gloss": "food"
+"quick_gloss": "in-food"
 },
 {
 "surface": "ḍū?",
@@ -519,19 +527,15 @@
 },
 {
 "surface": "ātmā+arpita",
-"quick_gloss": "to-self+offered"
+"quick_gloss": "to-the-self+offered"
 },
 {
 "surface": "sakala+vyavahāraḥ",
-"quick_gloss": "all+activity"
+"quick_gloss": "all+conduct"
 },
 {
-"surface": "bhuṃjet",
-"quick_gloss": "one-should-enjoy"
-},
-{
-"surface": "iti+arthaḥ",
-"quick_gloss": "thus+meaning"
+"surface": "bhuṃjet+iti+arthaḥ",
+"quick_gloss": "one-should-enjoy+thus+meaning"
 }
 ]
 },
@@ -553,6 +557,10 @@
 {
 "surface": "bhuṃjīthāḥ",
 "quick_gloss": "you-should-eat"
+},
+{
+"surface": "iti",
+"quick_gloss": "thus"
 }
 ]
 },
@@ -564,12 +572,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "pātyati",
-"quick_gloss": "causing-fall"
+"surface": "pātyati+karaṇam",
+"quick_gloss": "causing-fall+action"
 },
 {
-"surface": "karaṇaṃ",
-"quick_gloss": "action"
+"surface": "iti",
+"quick_gloss": "thus"
+},
+{
+"surface": "arthaḥ",
+"quick_gloss": "meaning"
+},
+{
+"surface": "hi",
+"quick_gloss": "indeed"
 }
 ]
 },
@@ -593,8 +609,12 @@
 "quick_gloss": "to-another"
 },
 {
-"surface": "dadhyaḥ",
+"surface": "dadhyāḥ",
 "quick_gloss": "you-should-give"
+},
+{
+"surface": "iti",
+"quick_gloss": "thus"
 }
 ]
 },
@@ -610,16 +630,16 @@
 "quick_gloss": "how"
 },
 {
-"surface": "anubhavanīyam",
-"quick_gloss": "to-be-experienced"
+"surface": "anubhavanīyam+iti",
+"quick_gloss": "to-be-experienced+thus"
 },
 {
-"surface": "iti+āśaṃkya",
-"quick_gloss": "thus+doubting"
+"surface": "āśaṃkya",
+"quick_gloss": "doubting"
 },
 {
 "surface": "āha",
-"quick_gloss": "he-says"
+"quick_gloss": "says"
 }
 ]
 },
@@ -631,8 +651,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "kāmaṃ",
-"quick_gloss": "willingly"
+"surface": "kāmam",
+"quick_gloss": "at-will"
 },
 {
 "surface": "guru+ucchiṣṭam",
