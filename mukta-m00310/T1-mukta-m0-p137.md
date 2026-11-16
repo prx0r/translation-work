@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p137-v3401
-[fair-one](gaurī) [lotus-possessing](padmāvatī) [stout](pīnā) [stout+breast+buds](pīnavakṣojakuṭmalā)
+fair-one(gaurī) lotus-possessing(padmāvatī) plump(pīnā) plump+breast+bud-having(pīna+vakṣoja+kuṭmalā)
 
 ## mukta-m0-p137-v3402
-[glittering+jewel+ray+covered](sphuradratnāṃśukhacitā) [jewel+circle+form](ratnamaṇḍalavigrahā)
+shining+jewel+ray+adorned(sphurat+ratna+aṃśu+khacitā) jewel+circle+bodied(ratna+maṇḍala+vigrahā)
 
 ## mukta-m0-p137-v3403
-[jewel+condensed+splendor](ratnasaṃmūrchitābhā) [and](ca) [blazing](dīptā) [blazing+flame](dīptaśikhā) [compassion](dayā)
+jewel+congealed+splendor(ratna+saṃmūrchita+ābhā) and(ca) radiant(dīptā) radiant+flame(dīpta+śikhā) compassion(dayā)
 
 ## mukta-m0-p137-v3404
-[terrible-one](bhairavī) [fearsome+sound](bhīmanādā) [and](ca) [terrifying+face](bhayānakamukhī) [venerable-one](bhagā)
+terrible-one(bhairavī) fierce+sound(bhīma+nādā) and(ca) fearsome+faced(bhayānaka+mukhī) venerable(bhagā)
 
 ## mukta-m0-p137-v3405
-[lord-of-fortune](bhageśvarī) [abiding-in-fortune](bhagasthā) [and](ca) [Kurukullā](kurukullā) [slender-waisted](kṛśodarī)
+fortune+mistress(bhaga+īśvarī) fortune+abiding(bhaga+sthā) and(ca) Kurukullā(kurukullā) slender+waisted(kṛśa+udarī)
 
 ## mukta-m0-p137-v3406
-[chaste-one](satī) [Sarasvatī](sarasvatī) [truthful](satyā) [truth+untruth+own-form](satyāsatyasvarūpiṇī)
+virtuous(satī) Sarasvatī(sarasvatī) true(satyā) truth+untruth+natured(satya+asatya+svarūpiṇī)
 
 ## mukta-m0-p137-v3407
-[lotus-possessing](padminī) [lotus+faced](padmavadanā) [lotus-goddess](padmā) [lotus+handed](padmakarā) [auspicious-one](śivā)
+lotus-possessing(padminī) lotus+faced(padma+vadanā) lotus(padmā) lotus+handed(padma+karā) auspicious(śivā)
 
 ## mukta-m0-p137-v3408
-[excellent+form](varākṛti) [stout+form](pīvarākṛtiḥ)
+plump+form(pīvara+ākṛtiḥ)
 
 ## mukta-m0-p137-v3409
-[lute+song+fond](vīṇāgītapriyā) [song](gāthā) [Garuḍī](gāruḍī) [Garuḍa+bannered](garuḍadhvajā)
+lute+song+fond(vīṇā+gīta+priyā) song(gāthā) Gāruḍī(gāruḍī) Garuda+bannered(garuḍa+dhvajā)
 
 ## mukta-m0-p137-v3410
-[Alakā](alakā) [heaven+middle+dwelling](nākamadhyasthā) [celestial-woman](nākinī) [by-celestials+worshipped](nākipūjitā)
+Alakā(alakā) heaven+mid+abiding(nāka+madhya+sthā) celestial-woman(nākinī) celestial+women+worshipped(nāki+pūjitā)
 
 ## mukta-m0-p137-v3411
-[endless](anantā) [endless+form](anantarūpā) [and](ca) [unknown](hyajñātā) [knowledge+increasing](jñānavardhinī)
+endless+infinite+form(ananta+ananta+rūpā) and(ca) indeed(hi) unknown(ajñātā) knowledge+increasing(jñāna+vardhinī)
 
 ## mukta-m0-p137-v3412
-[by-twelve+Ādityas+worshipped](dvādaśādityasaṃpūjyā) [Śamī-tree](śamī) [śyāmāka+seed-producing](śyāmākabījinī)
+twelve+sun+worshipped(dvādaśa+āditya+saṃpūjyā) Śamī-tree(śamī) śyāmāka+seed-producing(śyāmāka+bījinī)
 
 ## mukta-m0-p137-v3413
-[nectar+consisting](sudhāmayī) [nectar+form](sudhāmūrtiḥ) [nectar](sudhā) [to-all+dear+doing](sarvapriyaṅkarī)
+nectar+consisting(sudhā+mayī) nectar+formed(sudhā+mūrtiḥ) nectar(sudhā) all+dear+making(sarva+priyaṅkarī)
 
 ## mukta-m0-p137-v3414
-[Svāhā](svāhā) [Svāhā's-lord+eye](svāheśanetrā) [and](ca) [fire+mouthed](hyagnivakrā) [by-fire+satisfied](agnitarpitā)
+Svāhā(svāhā) Svāhā+lord+eye(svāhā+īśa+netrā) and(ca) indeed(hi) fire+mouthed(agni+vakrā) fire+satisfied(agni+tarpitā)
 
 ## mukta-m0-p137-v3415
-[earth](bhūmiḥ) [by-gods+and-Brahmins+worshipped](bhūdevapūjyā) [and](ca) [self-born](svayambhūḥ) [self+soul+worshipping](svātmapūjakā)
+earth(bhūmiḥ) god+brahmin+worshipped(bhū+deva+pūjyā) and(ca) self-born(svayambhūḥ) self+soul+worshipping(sva+ātma+pūjakā)
 
 ## mukta-m0-p137-v3416
-[bliss+sprout](ānandakandalī) [bulb](kandā) [Skanda+mother](skandamātā) [stone+abode](śilālayā)
+bliss+sprout(ānanda+kandalī) bulbous-root(kandā) Skanda+mother(skanda+mātā) stone+dwelling(śilā+ālayā)
 
 ## mukta-m0-p137-v3417
-[lord-of-obstacles](vighneśvarī) [queen-of-gaṇas](gaṇeśānī) [obstacle+destroying](vighnavidhvaṃsinī) [night](niśā)
+obstacle+mistress(vighna+īśvarī) Gaṇeśa+consort(gaṇa+īśānī) obstacle+destroying(vighna+vidhvaṃsinī) night(niśā)
 
 ## mukta-m0-p137-v3418
-[scripture+rule+knowing](śāstravidhānavijñā) [and](ca) [Veda+scripture+meaning+skilled](vedaśastrārthakovidā)
+scripture+rule+knowing(śāstra+vidhāna+vijñā) and(ca) Veda+scripture+meaning+skilled(veda+śastra+artha+kovidā)
 
 ## mukta-m0-p137-v3419
-[bride+form](vadhūrūpā) [by-brides+worshipped](vadhūpūjyā) [by-bride+drink+satisfied](vadhūpānapratarpitā)
+bride+form(vadhū+rūpā) bride+worshipped(vadhū+pūjyā) bride+drink+satisfied(vadhū+pāna+pratarpitā)
 
 ## mukta-m0-p137-v3420
-[left-one](vāmā) [lord-of-the-left](vāmeśvarī) [lovely-one](vāmyā) [kula+akula+moving](kulākulavicāriṇī)
+lovely(vāmā) lovely+lord+mistress(vāma+īśvarī) beautiful(vāmyā) kula+akula+moving(kula+akula+vicāriṇī)
 
 ## mukta-m0-p137-v3421
-[lord-of-sacrifice](yajñeśvarī) [sacrifice+faced](yajñamukhā) [sacrificer](yājakā) [sacrifice+vessel](yajñapātrakā)
+sacrifice+mistress(yajña+īśvarī) sacrifice+faced(yajña+mukhā) sacrificer(yājakā) sacrifice+vessel(yajña+pātrakā)
 
 ## mukta-m0-p137-v3422
-[Pilampilā](pilampilā) [foot+stationed](padasthānā) [foot+giving](padadā) [hell+destroyer](narakāntakā)
+Pilampilā(pilampilā) foot+abiding(pada+sthānā) foot+giving(pada+dā) hell+destroying(naraka+antakā)
 
 ## mukta-m0-p137-v3423
-[lord-of-desire](kāmeśvarī) [pleasure](ratiḥ) [oblation](hūtiḥ) [offering](āhutiḥ) [oblation+bearer](havyavāhanā)
+desire+mistress(kāma+īśvarī) pleasure(ratiḥ) oblation(hūtiḥ) offering(āhutiḥ) oblation+bearer(havya+vāhanā)
 
 ## mukta-m0-p137-v3424
-[Hapuṣā](hapuṣā) [heaven+going](svargatiḥ) [physician](vaidyā) [beautiful+faced](sumukhā) [and](ca) [great+medicine](mahauṣadhiḥ)
+Hapuṣā(hapuṣā) heaven+going(svarga+tiḥ) physician(vaidyā) beautiful+faced(su+mukhā) and(ca) great+medicine(mahā+auṣadhiḥ)
 
 ## mukta-m0-p137-v3425
-[in-honey+abiding](madhusthitā) [honey+consisting](madhumayī) [honey+giving+skilled](madhudānaviśāradā)
+honey+abiding(madhu+sthitā) honey+consisting(madhu+mayī) honey+giving+skilled(madhu+dāna+viśāradā)

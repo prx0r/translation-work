@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p136-v3376
-thus(iti) this(idam) armor(kavacam) O-goddess(devi) three-world+subjugation+cause(trailokya+vaśya+kāraṇam)
+[thus](iti) [this](idaṃ) [armor](kavacaṃ) [O-goddess](devi) [three-worlds+subjugation+cause](trailokya+vaśya+kāraṇam)
 
 ## mukta-m0-p136-v3377
-of-whom(yasya) of-anyone(kasya) not(na) to-be-given(dātavyam) without(vinā) disciple(śiṣyeṇa) O-Pārvatī(pārvati)
+[to-whom](yasya) [to-anyone](kasya) [not](na) [to-be-given](dātavyaṃ) [without](vinā) [disciple](śiṣyeṇa) [O-Pārvati](pārvati)
 
 ## mukta-m0-p136-v3378
-without(vinā) gift(dānam) not(na) should-one-receive(gṛhṇīyāt) not(na) should-one-give(dadyāt) fee(dakṣiṇām) without(vinā)
+[without](vinā) [gift](dānaṃ) [not](na) [one-should-receive](gṛhṇīyāt) [not](na) [one-should-give](dadyād) [fee](dakṣiṇāṃ) [without](vinā)
 
 ## mukta-m0-p136-v3379
-otherwise(anyathā) who(yah) indeed(tu) should-receive(gṛhṇīyāt) or(vā) should-give(dadyāt) armor-lord(kavaca+īśvaram)
+[otherwise](anyathā) [who](yaḥ) [indeed](tu) [should-receive](gṛhṇīyāt) [should-give](dadyād) [or](vā) [armor+lord](kavaca+īśvaram)
 
 ## mukta-m0-p136-v3380
-without-knowing(ajñātvā) armor(kavacam) O-goddess(devi) should-worship(pūjayet) sacred-stone(śrī+śilām) O-Śivā(śive)
+[without-knowing](ajñātvā) [armor](kavacaṃ) [O-goddess](devi) [one-should-worship](pūjayet) [auspicious+stone](śrī+śilāṃ) [O-Śivā](śive)
 
 ## mukta-m0-p136-v3381
-man(naraḥ)
+[man](naraḥ)
 
 ## mukta-m0-p136-v3382
-thus(iti) this(idam) armor(kavacam) O-goddess(devi) essence(sāram) all-wealth(sarva+svam) supreme(uttamam)
+[thus](iti) [this](idaṃ) [armor](kavacaṃ) [O-goddess](devi) [essence](sāraṃ) [all-wealth+supreme](sarvasvam+uttamam)
 
 ## mukta-m0-p136-v3383
-all-desire+granting(sarva+kāma+pradam) divine(divyam) three-world+enchanting+named(trailokya+mohana+abhidham)
+[all+desire+granting](sarva+kāma+pradaṃ) [divine](divyaṃ) [three-worlds+delusion+named](trailokya+mohana+abhidham)
 
 ## mukta-m0-p136-v3384
-Jālandhara-demon+slayer(jālandhara+rākṣasa+ghnī) on-Pradyumna-peak(pradyumna+śikhare) situated(sthitā)
+[Jālandhara+demon+slayer](jālandhara+rākṣasa+ghnī) [on-Pradyumna+peak](pradyumna+śikhare) [situated](sthitā)
 
 ## mukta-m0-p136-v3385
-I-tell(kathayāmi) supreme(parām) knowledge(vidyām) thousand-name+called(sahasra+ākhya+abhidhām) O-Śivā(śive)
+[I-tell](kathayāmi) [supreme](parāṃ) [knowledge](vidyāṃ) [thousand+name+called](sahasra+ākhyā+abhidhāṃ) [O-Śivā](śive)
 
 ## mukta-m0-p136-v3386
-without(vinā) daily-rite(nitya+kriyām) O-goddess(devi) without(vinā) ritual-assignment(nyāsam) without(vinā) worship(arcanam)
+[without](vinā) [daily+rite](nitya+kriyāṃ) [O-goddess](devi) [without](vinā) [ritual-placement](nyāsaṃ) [without+worship](vinā+arcanam)
 
 ## mukta-m0-p136-v3387
-without(vinā) cremation-ground+going(śmaśāna+gamanam) without(vinā) observance-worship(samaya+pūjanam)
+[without](vinā) [cremation-ground+going](śmaśāna+gamanam) [without](vinā) [observance+worship](samaya+pūjanam)
 
 ## mukta-m0-p136-v3388
-which(yā) goddess(devī) consciousness(cetanā) in-world(loke) stone-form(śilā+rūpā) is(asti) Śārikā(śārikā)
+[who](yā) [goddess](devī) [conscious](cetanā) [in-world](loke) [stone+form](śilā+rūpā) [is](asti) [Śārikā](śārikā)
 
 ## mukta-m0-p136-v3389
-she-alone(sā+eva) of-worldly-beings(saṃsāriṇām) O-goddess(devi) supreme-sovereignty+giver(parama+aiśvarya+dāyinī)
+[she+indeed](sā+eva) [of-worldly-beings](saṃsāriṇām) [O-goddess](devi) [supreme+sovereignty+giver](parama+aiśvarya+dāyinī)
 
 ## mukta-m0-p136-v3390
-of-her(tasyāḥ) name-thousand(nāma+sahasram) to-you(te) I-describe(varṇayāmi) secret(rahasyakam)
+[of-her](tasyāḥ) [name+thousand](nāma+sahasraṃ) [to-you](te) [I-describe](varṇayāmi) [secret](rahasyakam)
 
 ## mukta-m0-p136-v3391
-who(yah) may-recite(japet) supreme(parām) knowledge(vidyām) may-read(paṭhet) name-thousand(ākhyā+sahasrakam)
+[who](yaḥ) [should-recite](japet) [supreme](paramāṃ) [knowledge](vidyāṃ) [should-read](paṭhet) [name+thousand](ākhyā+sahasrakam)
 
 ## mukta-m0-p136-v3392
-what(kim) for-him(tasya) difficult-to-obtain(durlabham) in-world(loke) not(na) may-he-obtain(āpnuyāt) whatever(yat+yat) O-sovereign-goddess(īśvari)
+[what](kiṃ) [for-him](tasya) [hard-to-obtain](durlabhaṃ) [in-world](loke) [not+would-obtain](na+āpnuyāt) [whatever](yat+yat) [O-sovereign-goddess](īśvari)
 
 ## mukta-m0-p136-v3393
-meter(chandaḥ) anuṣṭubh(anuṣṭup) deity(devatā) and(ca) Śārikā(śārikā) declared(parikīrtitā)
+[meter](chandaḥ) [anuṣṭubh](anuṣṭup) [deity](devatā) [and](ca) [Śārikā](śārikā) [declared](parikīrtitā)
 
 ## mukta-m0-p136-v3394
-for-dharma-artha-kāma-mokṣa(dharma+artha+kāma+mokṣa+arthe) application(viniyogaḥ) declared(prakīrtitaḥ)
+[dharma+wealth+desire+liberation+purpose](dharma+artha+kāma+mokṣa+arthe) [application](viniyogaḥ) [declared](prakīrtitaḥ)
 
 ## mukta-m0-p136-v3395
-boon-disc-fearlessness-sword(vara+cakra+abhaya+asīn) and(ca) holding(dhārayantīm) smiling-faced(hasat+mukhīm)
+[boon+discus+fearlessness+noose](vara+cakra+abhaya+āsīn) [and](ca) [holding](dhārayantīm) [smiling+faced](hasat+mukhīm)
 
 ## mukta-m0-p136-v3396
-on-Vāmadeva's-lap+dwelling(vāmadeva+aṅka+nilayām) in-heart-lotus(hṛt+padme) Śārikā(śārikām) I-worship(bhaje)
+[Vāmadeva+lap+dwelling](vāmadeva+aṅka+nilayām) [in-heart+lotus](hṛt+padme) [Śārikā](śārikām) [I-worship](bhaje)
 
 ## mukta-m0-p136-v3397
-lion-mounted(siṃha+adhirūḍhām) on-Śiva-Vāmadeva's-body+reclining(śiva+vāmadeha+līnām) I-worship(bhaje) in-mind(cetasi) Śārikā-goddess(śārikā+īśīm)
+[lion+mounted](siṃha+adhirūḍhām) [Śiva+left+body+merged](śiva+vāma+deha+līnām) [I-worship](bhaje) [in-mind](cetasi) [Śārikā+goddess](śārikā+īśīm)
 
 ## mukta-m0-p136-v3398
-stone(śilā) arrow(śārī) parrot(śukī) peaceful(śāntā) peaceful-mind+perceptible(śānta+mānasa+gocarā)
+[stone](śilā) [Śārī](śārī) [parrot](śukī) [peaceful](śāntā) [peaceful+mind+perceived](śānta+mānasa+gocarā)
 
 ## mukta-m0-p136-v3399
-goddess(devī) moon-disk+splendor(śaśāṅka+bimba+ābhā) moon+made-crest(śaśāṅka+kṛta+śekharā)
+[goddess](devī) [moon+disk+splendor](śaśāṅka+bimba+ābhā) [moon+made+crest](śaśāṅka+kṛta+śekharā)
 
 ## mukta-m0-p136-v3400
-tiger-vehicle(śārdūla+vāhā) goddess-lord(deva+īśī) tiger-stance+supreme(śārdūla+sthitiḥ+uttamā)
+[tiger+vehicle](śārdūla+vāhā) [gods+queen](deva+īśī) [tiger+stance+supreme](śārdūla+sthitiḥ+uttamā)
