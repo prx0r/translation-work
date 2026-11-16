@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p58-v1426
-[by-ākṛṣṇa](ākṛṣṇena) [thus](iti) [from-ratnaka](ratnakāt) [mantra-phrase](ākṛṣṇeneti)
+[with-ākṛṣṇena-iti](ākṛṣṇeneti) [from-jewel-casket](ratnakāt)
 
 ## mukta-m0-p58-v1427
-[having-performed](ceṣṭvā) [between-jaladhūpa](jaladhūpāntaraṃ) [in-third-enclosure](tṛtīyāvaraṇe) [with-pots](ghaṭaiḥ)
+[water](jala) [incense](dhūpa) [interval](antaraṃ) [having-performed](ceṣṭvā) [in-third-enclosure](tṛtīyāvaraṇe) [with-pots](ghaṭaiḥ)
 
 ## mukta-m0-p58-v1428
-[with-sandal-etc](gandhādyaiḥ) [up-to-offerings](upahārāntam) [having-worshipped](iṣṭvā) [with-drum-sounds](tūryādinisvanaiḥ)
+[with-fragrance](gandha) [and-so-forth](ādyaiḥ) [up-to-offerings](upahārāntam) [having-worshipped](iṣṭvā) [with-drums](tūrya) [and-other-sounds](ādinisvanaiḥ)
 
 ## mukta-m0-p58-v1429
-[with-mūla-mantra](mūlena) [the-lord](deveśam) [let-one-consecrate](abhiṣecayet)
+[with-root-mantra](mūlena) [the-lord-of-gods](deveśam) [one-should-bathe](abhiṣecayet)
 
 ## mukta-m0-p58-v1430
-[with-pāvamānī-hymns](pāvamānībhiḥ) [in-middle](madhyena) [with-brahma-mantras](brahmabhiḥ) [again](punaḥ)
+[with-pavamānī-hymns](pāvamānībhiḥ) [with-middle](madhyena) [with-brahma-mantras](brahmabhiḥ) [again](punaḥ)
 
 ## mukta-m0-p58-v1431
-[with-pot-dwelling-śiva](kumbhasthaśivena) [and-with-śivā](śivayāpi) [ca](ca) [ritual](kumbhasthaśivena)
+[with-Śiva-in-pot](kumbhasthaśivena) [with-Śivā](śivayā) [also](api) [and](ca)
 
 ## mukta-m0-p58-v1432
-[having-sprinkled-piṇḍikā](piṇḍikāṃ+siktvā) [then](tataḥ) [with-śiva-pot](śivaghaṭena) [tu](tu)
+[the-pedestal](piṇḍikāṃ) [having-sprinkled](siktvā) [then](tataḥ) [with-Śiva-pot](śivaghaṭena) [indeed](tu)
 
 ## mukta-m0-p58-v1433
-[with-sandal](gandhena) [the-liṅga](liṅgaṃ) [and-recitation](pāṭhaṃ) [ca](ca) [let-one-anoint](lepayet)
+[with-fragrance](gandhena) [the-liṅga](liṅgaṃ) [and-the-base](pāṭhaṃ) [and](ca) [one-should-smear](lepayet)
 
 ## mukta-m0-p58-v1434
-[by-puruṣa-sūkta](puruṣeṇa) [tu](tu) [let-one-give](dāpayet) [offering](puruṣeṇa)
+[with-puruṣa-mantra](puruṣeṇa) [indeed](tu) [one-should-give](dāpayet)
 
 ## mukta-m0-p58-v1435
-[in-three-parts](trikhaṇḍeṣu) [each-respective](tattat) [remembering](saṃsmṛtya) [let-one-touch](saṃspṛśet)
+[in-three-sections](trikhaṇḍeṣu) [each-respectively](tattat) [having-remembered](saṃsmṛtya) [one-should-touch](saṃspṛśet)
 
 ## mukta-m0-p58-v1436
-[with-flour-lamps-etc](piṣṭadīpādyaiḥ) [auspicious-day](puṇyāhaṃ) [let-one-declare](vācayet) [then](tataḥ)
+[with-ground-lamps](piṣṭadīpa) [and-so-forth](ādyaiḥ) [benediction](puṇyāhaṃ) [one-should-cause-to-recite](vācayet) [then](tataḥ)
 
 ## mukta-m0-p58-v1437
-[by-brāhmaṇas](dvijair) [the-liṅga](liṅgam) [having-raised](utthāpya) [with-music-auspicious-sounds](ātodyamaṅgalaiḥ)
+[by-brāhmaṇas](dvijaiḥ) [the-liṅga](liṅgam) [having-lifted](utthāpya) [with-musical-instruments](ātodya) [and-auspicious-sounds](maṅgalaiḥ)
 
 ## mukta-m0-p58-v1438
-[door-sun-etc](dvāraditya) [having-descended](avatārya) [rgha-reading](rca) [yecchiam](yecchiam)
+[[kh:-dvāraditya]]([kh: dvāraditya]) [having-brought-down](datyādyādavatāryā) [(rgha?-rca)]((rgha? rca)) [one-should-worship](yecchiam)
 
 ## mukta-m0-p58-v1439
-[toothed-cot-or](dantakhaṭvāṃ+vā) [plank-or](phalakāṃ+vā) [firm](dṛḍhāṃ) [new](navām)
+[ivory-couch](dantakhaṭvāṃ) [or](vā) [plank](phalakāṃ) [or](vā) [firm](dṛḍhāṃ) [new](navām)
 
 ## mukta-m0-p58-v1440
-[let-one-arrange](viracayed) [beautiful](ramyāṃ) [with-pillow-and-cover](sopadhānottaracchadām)
+[one-should-prepare](viracayed) [delightful](ramyāṃ) [with-pillow](sopadhāna) [and-upper-cover](uttaracchadām)
 
 ## mukta-m0-p58-v1441
-[fans](cāmare) [fish-pair](matsyayugmaṃ) [ca](ca) [let-one-place-in-directions](nyased) [eight-auspicious](aṣṭamaṅgalam)
+[two-chowries](cāmare) [pair-of-fish](matsyayugmaṃ) [and](ca) [one-should-place](nyaset) [in-directions](dikṣu) [eight-auspicious-symbols](aṣṭamaṅgalam)
 
 ## mukta-m0-p58-v1442
-[let-one-lay](śāyayet) [head-on-couch](śirasā+talpe) [with-crest-as-pillow](śikhayā+asya+upadhānakam)
+[one-should-lay-down](śāyayet) [with-head](śirasā) [on-couch](talpe) [with-śikhā-mantra](śikhayā) [its-pillow](asya) [pillow](upadhānakam)
 
 ## mukta-m0-p58-v1443
-[household-utensils](gṛhopakaraṇaṃ) [all](sarvam) [having-brought](ānīya) [having-placed](vinidhāya) [tu](tu)
+[household-implements](gṛhopakaraṇaṃ) [all](sarvam) [having-brought](ānīya) [having-placed](vinidhāya) [indeed](tu)
 
 ## mukta-m0-p58-v1444
-[with-mṛtyuñjaya](mṛtyuñjayena) [with-heart](sahṛdā) [and-āpohiṣṭha](cāpohiṣṭheti) [ca](ca) [let-one-worship](arcayet)
+[with-mṛtyuñjaya-mantra](mṛtyuñjayena) [with-heart-mantra](sahṛdā) [and](ca) [with-āpohiṣṭhā-iti](āpohiṣṭheti) [and](ca) [one-should-worship](arcayet)
 
 ## mukta-m0-p58-v1445
-[śiva-pots-and-weapon-increasers](śivakumbhāstravardhanyau) [there-itself](tatraiva) [having-filled](āpūrya) [let-one-worship](pūjayet)
+[Śiva-pot](śivakumbha) [astra-pot](astra) [and-vardhanī-vessel](vardhanyau) [there-only](tatraiva) [having-filled](āpūrya) [one-should-worship](pūjayet)
 
 ## mukta-m0-p58-v1446
-[for-knowing-ātma-tattva](ātmāditattvavijñaptyai) [with-garlands](sragbhiḥ) [boundaries](sīmāḥ) [let-one-fix](prakalpayet)
+[for-knowledge-of-principles](ātmāditattva) [beginning-with-self](vijñaptyai) [with-garlands](sragbhiḥ) [boundaries](sīmāḥ) [one-should-arrange](prakalpayet)
 
 ## mukta-m0-p58-v1447
-[two-sharāva-bowls](śarāve+dve) [let-one-place](sthāpayet) [with-auspicious-sprouts](maṅgalāṅkuraiḥ)
+[two-plates](śarāve) [two](dve) [one-should-place](sthāpayet) [with-auspicious-sprouts](maṅgalāṅkuraiḥ)
 
 ## mukta-m0-p58-v1448
-[three-enclosures](prākāratritayaṃ) [having-made](kṛtvā) [in-them](teṣu) [world-lords](lokādhipān) [let-one-place](nyaset)
+[three-enclosures](prākāratritayaṃ) [having-made](kṛtvā) [in-them](teṣu) [guardians-of-directions](lokādhipān) [one-should-place](nyaset)
 
 ## mukta-m0-p58-v1449
-[kadrudra](kadrudraṃ) [bhāruṇḍa](bhāruṇḍaṃ) [camaka-hymns](camakāṃs) [tathā](tathā)
+[Kadrudra](kadrudraṃ) [Bhāruṇḍa](bhāruṇḍaṃ) [Camakas](camakāṃs) [likewise](tathā)
 
 ## mukta-m0-p58-v1450
-[having-sat-on-seat](upaviśyāsane) [behind](paścāt) [the-liṅga](liṅge) [three-parts](bhāgatrayaṃ) [let-one-remember](smaret)
+[having-sat](upaviśya) [on-seat](āsane) [afterwards](paścāt) [in-liṅga](liṅge) [three-parts](bhāgatrayaṃ) [one-should-contemplate](smaret)
