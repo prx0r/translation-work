@@ -2,37 +2,37 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p55-v1351
-[chanting](japan) [loosened-hair](muktakeśo) [naked](nagna) [he](so) [soon]('cirād) [lord-of-yogins](yogīśvara) [becomes](sampadyate)
+[chanting](japan) [released](mukta) [hair](keśo) [naked](nagna) [he](so) [soon](acirād) [yogi](yogī) [lord](īśvara) [becomes](sampadyate)
 
 ## mukta-m0-p55-v1352
-[mantra](mantram) [having-uttered](uccārya) [in-that](tasminn) [fire](agnau) [should-cast](nikṣipet) [he](sa) [free-moving](svairacara) [becomes](sampadyate)
+[mantra](mantram) [having-uttered](uccārya) [in-that](tasmin) [fire](agnau) [should-offer](nikṣipet) [he](sa) [self](svaira) [moving](cara) [becomes](sampadyate)
 
 ## mukta-m0-p55-v1353
-[having-offered-oblation](hutvā) [all-teacher](sarvācārya) [becomes](sampadyate)
+[having-offered](hutvā) [all](sarva) [teacher](ācārya) [becomes](sampadyate)
 
 ## mukta-m0-p55-v1354
-[thousand](sahasra) [mantra](manu) [recites](japatīha) [he](so) [unafflicted]('dīno) [at-end](nte) [to-Kālī's-abode](kālīdhāmagāmī) [becomes](sampadyate)
+[thousand](sahasra) [manu](manu) [chants](japatīha) [he](so) [not-poor](adīno) [at-end](ante) [kālī](kālī) [abode](dhāma) [going](gāmī) [becomes](sampadyate)
 
 ## mukta-m0-p55-v1355
-[who](yasyāstā) [Kālī](kālāṃ) [meditates](dhyāyati) [who](ya) [he](sa) [Śiva](śiva) [becomes](sampadyate)
+[who](yasyāstā) [kālā](kālāṃ) [meditates](dhyāyati) [who](ya) [he](sa) [śiva](śiva) [becomes](sampadyate)
 
 ## mukta-m0-p55-v1356
-[they-become-accomplished](saṃpadyante)
+[they-become](saṃpadyante)
 
 ## mukta-m0-p55-v1357
-[who](yo) [at-midnight](niśīthe) [thousand](sahasra) [recites](japati) [he](sa) [by-hundred-young-women](yuvatiśatavṛta) [surrounded](sampadyate)
+[who](yo) [at-midnight](niśīthe) [thousand](sahasra) [chants](japati) [he](sa) [young-woman](yuvati) [hundred](śata) [surrounded](vṛta) [becomes](sampadyate)
 
 ## mukta-m0-p55-v1358
-[by-this](etena) [of-the-lords](īśvarāṇām) [practices](anuṣṭhānāni) [are-explained](vyākhyātāni) [left-handed](vāmāni)
+[by-this](etena) [of-lords](īśvarāṇām) [practices](anuṣṭhānāni) [explained](vyākhyātāni) [left-hand](vāmāni)
 
 ## mukta-m0-p55-v1359
-[those](tāni) [belonging-to-Kālikā](kālikeyāni) [indeed](eva) [thus](iti) [some](eke)
+[those](tāni) [of-kālī](kālikeyāni) [indeed](eva) [thus](iti) [some](eke)
 
 ## mukta-m0-p55-v1360
-[except-drinking](pānavarjaṃ) [those](tāni) [right-handed](dakṣiṇāni) [of-her](tasyā) [thus](iti) [some](eke)
+[drink](pāna) [except](varjaṃ) [those](tāni) [right-hand](dakṣiṇāni) [of-her](tasyā) [thus](iti) [some](eke)
 
 ## mukta-m0-p55-v1361
-[of-deity's-grace](devatāprasāda) [cause](kāraṇa) [what](kim)
+[deity](devatā) [grace](prasāda) [cause](kāraṇa) [what](kim)
 
 ## mukta-m0-p55-v1362
 [time](kāla) [thus](iti) [some](eke)
@@ -41,7 +41,7 @@
 [place](pradeśa) [thus](iti) [others](apare)
 
 ## mukta-m0-p55-v1364
-[sacred-place](tīrtham) [thus](iti) [others](anye)
+[holy-place](tīrtham) [thus](iti) [others](anye)
 
 ## mukta-m0-p55-v1365
 [worship](arcanaṃ) [some](kecit)
@@ -50,28 +50,28 @@
 [self-study](svādhyāyaṃ) [some](kecit)
 
 ## mukta-m0-p55-v1367
-[which-state](yatpadam) [they-attain](ānantīti) [from-the-word](śabdācca) [by-his-will](tadicchayā) [thus](iti) [some](eke)
+[which](yat) [state](padam) [they-attain](ānantīti) [from-word](śabdāt) [and](ca) [by-his-will](tat+icchayā) [thus](iti) [some](eke)
 
 ## mukta-m0-p55-v1368
-[chooses](vṛṇute) [because](yasmād) [this](eṣaḥ) [independent](svatantraḥ) [as](yathā) [individual-soul](jīvātmānaṃ) [Lord](īśvaraḥ)
+[chooses](vṛṇute) [because](yasmād) [this](eṣaḥ) [independent](svatantraḥ) [as](yathā) [individual-soul](jīvātmānaṃ) [lord](īśvaraḥ)
 
 ## mukta-m0-p55-v1369
-[of-deity's-grace](devatāprasāda) [characteristics](lakṣaṇāni) [we-shall-declare](vakṣyāmaḥ)
+[deity](devatā) [grace](prasāda) [characteristics](lakṣaṇāni) [we-shall-declare](vakṣyāmaḥ)
 
 ## mukta-m0-p55-v1370
-[by-devotion](bhaktyā) [whom](yaṃ) [not](na) [knows](jānāti) [he](sa) [him](enaṃ) [knows](vijānātīti)
+[by-devotion](bhaktyā) [whom](yaṃ) [not](na) [knows](jānāti) [he](sa) [him](enaṃ) [knows](vijānāti) [thus](iti)
 
 ## mukta-m0-p55-v1371
 [those](tāni) [we-shall-illustrate](udāhariṣyāmaḥ)
 
 ## mukta-m0-p55-v1372
-[to-be-known](veditavyaṃ) [in-me](mayi) [he](sa) [Lord](īśaḥ) [initiated](dīkṣito) [became](abhavaditi)
+[to-be-known](veditavyaṃ) [in-me](mayi) [he](sa) [lord](īśaḥ) [initiated](dīkṣitaḥ) [became](abhavat) [thus](iti)
 
 ## mukta-m0-p55-v1373
-[concentration](samādhānam) [they-declare](āmananti) [Brahman-knowers](brahmavādinaḥ)
+[concentration](samādhānam) [they-declare](āmananti) [brahman](brahma) [speakers](vādinaḥ)
 
 ## mukta-m0-p55-v1374
-[now](atha) [of-Lord's-realization](īśvarasākṣātkāra) [sequence](kramaṃ) [we-shall-declare](vakṣyāmaḥ)
+[now](atha) [lord](īśvara) [realization](sākṣātkāra) [sequence](kramaṃ) [we-shall-declare](vakṣyāmaḥ)
 
 ## mukta-m0-p55-v1375
-[with-manifested-marks](udbhūtalakṣaṇo) [devotee](bhakta) [approaches](upatiṣṭhati) [facing-north](udaṅmukha)
+[arisen](udbhūta) [signs](lakṣaṇaḥ) [devotee](bhaktaḥ) [approaches](upatiṣṭhati) [north](udaṅ) [facing](mukha)

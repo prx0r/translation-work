@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p50-v1226
-[among-worships](arcaneṣu) [with-any-one](anyatamena) [constantly](nityam) [one-should-worship](arcayet)
+[among-worships]+[by-any-one] (arcaneṣu+anyatamena) [always] (nityam) [one-should-worship] (arcayet)
 
 ## mukta-m0-p50-v1227
-[of-all](sarveṣām) [some-say](eke) [of-special+worship](viśeṣārcanasya) [festival+time](parvakālo) [is-explained](vyākhyātaḥ)
+[of-all]+[some-say] (sarveṣām+eke) [of-special]+[worship] (viśeṣa+arcanasya) [festival]+[time] (parva+kālaḥ) [is-explained] (vyākhyātaḥ)
 
 ## mukta-m0-p50-v1228
-[special](viśeṣa) [+worship](arcanaṃ) [we-shall-explain](vakṣyāma) [now](iti)
+[special]+[worship] (viśeṣa+arcanam) [we-shall-expound] (vakṣyāma)
 
 ## mukta-m0-p50-v1229
-[that](tat) [+done+not-done](kṛtākṛtaṃ) [therefore](tasmāt) [that](tat) [+special+worship](viśeṣārcanam) [thus](iti) [some-say](kecit)
+[that]+[done]+[undone] (tat+kṛta+akṛtam) [therefore]+[that]+[special]+[worship]+[thus] (tasmāt+tat+viśeṣa+arcanam+iti) [some-say] (kecit)
 
 ## mukta-m0-p50-v1230
-[daily+worship](naityārcanā) [+not-different](abhinnaṃ) [special+worship](viśeṣārcanam) [thus](iti) [some-say](eke)
+[daily]+[worship]+[not-different] (naitya+arcanā+abhinnam) [special]+[worship]+[thus]+[some-say] (viśeṣa+arcanam+iti+eke)
 
 ## mukta-m0-p50-v1231
-[the-best](jyeṣṭho) [known+method](jñātavidhis) [+that](tad) [+following+anointing](anusraganulepanaḥ) [should-be](syāt) [thus](iti)
+[the-best] (jyeṣṭhaḥ) [known]+[procedure]+[that]+[following]+[anointing] (jñāta+vidhiḥ+tat+anusraga+anulepanaḥ) [should-be] (syāt)
 
 ## mukta-m0-p50-v1232
-[by-own+varna+āśrama](svavarṇāśramābhyām) [even](api) [superior](śreṣṭhaḥ) [should-be](syāt) [thus](iti) [some-say](eke)
+[by-own]+[class]+[and-stage-of-life]+[even] (sva+varṇa+āśramābhyām+api) [superior] (śreṣṭhaḥ) [should-be]+[thus]+[some-say] (syāt+iti+eke)
 
 ## mukta-m0-p50-v1233
-[with-praṇava+etc.](praṇavādyaiś) [+ending-in-fourth-case](caturthyantamadhyais) [with-those](tair) [+oblation+thousand](āhutisahasraṃ) [one-should-offer](juhuyāt)
+[with-praṇava]+[beginning]+[with-caturthī]+[ending]+[and-middle]+[with-those] (praṇava+ādyaiḥ+caturthī+anta+madhyaiḥ+taiḥ) [oblation]+[thousand] (āhuti+sahasram) [one-should-offer] (juhuyāt)
 
 ## mukta-m0-p50-v1234
-[some](kaṃcid) [lord](īśvaram) [+non-chief+initiates](amukhyasāmayikā) [with-special+worship](viśeṣārcanenā) [+wishing-to-worship](rcayiṣyanto) [they-should-worship](’rcayeyuḥ)
+[some] (kaṃcit) [lord]+[non-principal]+[sāmayikas] (īśvaram+amukhya+sāmayikāḥ) [with-special]+[worship]+[wishing-to-worship] (viśeṣa+arcanena+arcayiṣyantaḥ) [should-worship] (arcayeyuḥ)
 
 ## mukta-m0-p50-v1235
-[by-chief+initiate](mukhyasāmayikena) [indeed](eva) [thus](iti) [or](vā)
+[by-principal]+[sāmayika] (mukhya+sāmayikena)
 
 ## mukta-m0-p50-v1236
-[with-intoxicants](madyair) [with-sexual-unions](maithunaiś) [+and](ca) [thus](iti) [or](vā)
+[with-liquors]+[with-sexual-unions]+[and] (madyaiḥ+maithunaiḥ+ca)
 
 ## mukta-m0-p50-v1237
-[with-cold](śītena) [or](vā) [with-water](ariṇā) [with-lukewarm](kavoṣṇena) [with-hot](uṣṇena) [or](vā)
+[with-cold] (śītena) [with-water] (vāriṇā) [with-lukewarm]+[with-hot] (ka+uṣṇena+uṣṇena)
 
 ## mukta-m0-p50-v1238
-[him](tam) [thus](evaṃ) [with-flowers](puṣpair) [worship](arcanam) [with-unbroken-rice](akṣatair) [or](vā) [thus](iti) [some-say](eke)
+[him]+[thus] (tam+evam) [with-flowers]+[worship]+[with-unbroken-rice]+[or]+[thus]+[some-say] (puṣpaiḥ+arcanam+akṣataiḥ+vā+iti+eke)
 
 ## mukta-m0-p50-v1239
-[then](tato) [+another](’nyaṃ) [or](vā) [great-one](mahāntam) [if-one-desires](īheccet) [with-flowers](puṣpair) [having-worshipped](abhyarcya) [thus](evaṃ) [one-should-praise](stuvīta)
+[then]+[another] (tataḥ+anyam) [or] (vā) [great-one] (mahāntam) [one-should-seek]+[if] (īhet+cet) [with-flowers]+[having-worshipped]+[thus] (puṣpaiḥ+abhyarcya+evam) [one-should-praise] (stuvīta)
 
 ## mukta-m0-p50-v1240
-[one-should-take](gṛhṇīyāt) [thus](iti) [some-say](eke) [indeed](eva)
+[one-should-take]+[thus]+[some-say] (gṛhṇīyāt+iti+eke)
 
 ## mukta-m0-p50-v1241
-[to-Bhairava](bhairavāya) [a-dog](svānaṃ) [to-Brahmā](brahmaṇe) [a-swan](haṃsaṃ) [charming](manoharaṃ) [bird](pakṣiṇaṃ) [or](vā)
+[to-bhairava] (bhairavāya) [a-dog] (svānam) [to-brahmā] (brahmaṇe) [a-swan] (haṃsam) [mind]+[captivating] (manaḥ+haram) [bird] (pakṣiṇam) [or] (vā)
 
 ## mukta-m0-p50-v1242
-[a-woman](strī) [+also](api) [thus](iti) [indeed](eva)
+[woman]+[also]+[thus] (strī+api+iti)
 
 ## mukta-m0-p50-v1243
-[oblations](āhutīḥ) [with-all](sarvair) [having-offered](hutvā) [the-remainder](śeṣaṃ) [one-should-complete](samāpayīta)
+[oblations] (āhutīḥ) [with-all]+[having-offered] (sarvaiḥ+hutvā) [remainder] (śeṣam) [one-should-complete] (samāpayīta)
 
 ## mukta-m0-p50-v1244
-[thus](evaṃ) [animal+sacrifice](paśuyāgaṃ) [should-not-perform](nācared) [the-wise](vidvān) [supremely-blissful](pārānandaḥ)
+[thus] (evam) [animal]+[sacrifice] (paśu+yāgam) [not]+[should-perform]+[the-wise]+[pārānanda] (na+ācaret+vidvān+pārānandaḥ)
 
 ## mukta-m0-p50-v1245
-[once](ekadā) [only](eva) [one-should-perform](ācared) [thus](iti) [some-say](eke)
+[once]+[indeed]+[one-should-perform]+[thus]+[some-say] (ekadā+eva+ācaret+iti+eke)
 
 ## mukta-m0-p50-v1246
-[Kālī](kālīṃ) [worshipping](yajan) [living+liberation](jīvanmuktiṃ) [he-attained](jagāma) [therefore](tasmāt) [supremely-blissful](pārānando) [the-wise](vidvān) [there](tatra) [should-not-perform](na+ācaret)
+[kālī] (kālīm) [worshipping]+[living]+[liberation] (yajan+jīvan+muktim) [he-attained] (jagāma) [therefore]+[pārānanda] (tasmāt+pārānandaḥ) [the-wise]+[not]+[there]+[should-perform] (vidvān+na+tatra+ācaret)
 
 ## mukta-m0-p50-v1247
-[having-removed](uttārya) [one-should-hold](abhidhārayet) [if](yadi) [garment](vastraṃ) [that](taj) [+with-water](jalenā) [+having-washed](plāvya) [that+blood](tadraktaṃ) [water](jalaṃ) [or](vā)
+[having-removed]+[one-should-hold] (uttārya+abhidhārayet) [if] (yadi) [garment] (vastram) [that]+[with-water]+[having-washed] (tat+jalenā+āplāvya) [that]+[blood] (tat+raktam) [water] (jalam) [or] (vā)
 
 ## mukta-m0-p50-v1248
-[of-these-two](etayor) [one-of-the-two](anyatara) [northern](auttareyo) [rule](vidhiḥ)
+[of-these-two]+[either-one] (etayoḥ+anyataraḥ) [subsequent] (auttareyaḥ) [procedure] (vidhiḥ)
 
 ## mukta-m0-p50-v1249
-[by-mental-distress](ādhyā) [by-disease](vyādhyā) [by-trembling](vepad) [+unwell](asvastho) [daily+performance](nityanirvartanaṃ) [not](na) [one-should-perform](nirvartayet)
+[by-mental-distress] (ādhyā) [by-illness] (vyādhyā) [by-trembling]+[unwell] (vepada+svasthaḥ) [daily]+[performance] (nitya+nirvartanam) [not] (na) [one-should-perform] (nirvartayet)
 
 ## mukta-m0-p50-v1250
-[with-materials](saṃbhāraiś) [+and](ca) [with-worships](pūjābhiḥ) [one-should-worship](pūjayīta) [thus](iti)
+[with-materials]+[and] (saṃbhāraiḥ+ca) [with-worships] (pūjābhiḥ) [one-should-worship] (pūjayīta)

@@ -8,7 +8,7 @@
 "tokens": [
 {
 "surface": "kavaca+ādīnām",
-"quick_gloss": "armor+etc."
+"quick_gloss": "of-armor-etc"
 },
 {
 "surface": "eteṣām",
@@ -16,7 +16,7 @@
 },
 {
 "surface": "anadhyāya+mīmāṃsā",
-"quick_gloss": "non-study+consideration"
+"quick_gloss": "non-recitation-consideration"
 },
 {
 "surface": "pūrva+vat",
@@ -40,12 +40,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "pūrva",
+"surface": "pūrva+vat",
 "quick_gloss": "as-before"
-},
-{
-"surface": "vat",
-"quick_gloss": "like"
 },
 {
 "surface": "iti",
@@ -99,11 +95,11 @@
 },
 {
 "surface": "parānanda+mate",
-"quick_gloss": "in-Parānanda's+view"
+"quick_gloss": "in-the-view-of-Parānanda"
 },
 {
-"surface": "puṇya+phala+udaya",
-"quick_gloss": "merit+fruit+arising"
+"surface": "puṇya+phala+udayaḥ",
+"quick_gloss": "arising-of-merit-fruit"
 },
 {
 "surface": "iti",
@@ -123,8 +119,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "pārānandatva+bhāvanaṃ",
-"quick_gloss": "supreme-bliss-state+contemplation"
+"surface": "pārānandatva+bhāvanam",
+"quick_gloss": "contemplation-of-Parānanda-state"
 },
 {
 "surface": "ca",
@@ -132,7 +128,7 @@
 },
 {
 "surface": "pārānandānāṃ",
-"quick_gloss": "of-the-supremely-blissful"
+"quick_gloss": "of-the-Parānandas"
 },
 {
 "surface": "dīkṣitānāṃ",
@@ -161,22 +157,22 @@
 "tokens": [
 {
 "surface": "yāvat",
-"quick_gloss": "as-long-as"
+"quick_gloss": "as-much-as"
 },
 {
 "surface": "tāvat",
-"quick_gloss": "so-long"
+"quick_gloss": "so-much"
 },
 {
 "surface": "nirvartayet",
-"quick_gloss": "one-should-perform"
+"quick_gloss": "one-should-accomplish"
 },
 {
 "surface": "ekadā",
 "quick_gloss": "at-once"
 },
 {
-"surface": "sudhīḥ",
+"surface": "su+dhīḥ",
 "quick_gloss": "the-wise-one"
 },
 {
@@ -230,8 +226,8 @@
 "quick_gloss": "or"
 },
 {
-"surface": "abhyuttarayoḥ",
-"quick_gloss": "in-the-reply"
+"surface": "abhi+uttarayoḥ",
+"quick_gloss": "in-the-two-following"
 },
 {
 "surface": "iti",
@@ -252,15 +248,11 @@
 "tokens": [
 {
 "surface": "kavaca+sahasranāma+pāṭhau",
-"quick_gloss": "armor+thousand-name+recitations"
+"quick_gloss": "recitations-of-armor-and-thousand-names"
 },
 {
-"surface": "vā",
-"quick_gloss": "or"
-},
-{
-"surface": "evam",
-"quick_gloss": "thus"
+"surface": "vā+evam",
+"quick_gloss": "or-thus"
 },
 {
 "surface": "iti",
@@ -285,15 +277,11 @@
 },
 {
 "surface": "vidhinā",
-"quick_gloss": "by-rule"
+"quick_gloss": "injunction"
 },
 {
 "surface": "sarve",
 "quick_gloss": "all"
-},
-{
-"surface": "sarve",
-"quick_gloss": "should-act"
 }
 ]
 },
@@ -313,8 +301,8 @@
 "quick_gloss": "sees"
 },
 {
-"surface": "śrauta+tāntra+smārta+sva+upakḷpteṣu",
-"quick_gloss": "in-Vedic+Tantric+Smārta+prescribed"
+"surface": "śrauta+tāntra+smārta+su+upakḷpteṣu",
+"quick_gloss": "in-Vedic-Tantric-Smārta-arranged"
 },
 {
 "surface": "uttara+uttaraḥ",
@@ -338,24 +326,24 @@
 "quick_gloss": "in-whatever-manner"
 },
 {
-"surface": "naityaṃ",
+"surface": "naityam",
 "quick_gloss": "daily-rite"
 },
 {
 "surface": "nirvartayati",
-"quick_gloss": "performs"
+"quick_gloss": "accomplishes"
 },
 {
 "surface": "jīvaḥ",
-"quick_gloss": "the-living-being"
+"quick_gloss": "living-being"
 },
 {
 "surface": "tathā+tathā",
 "quick_gloss": "in-that-manner"
 },
 {
-"surface": "sāntaṃ",
-"quick_gloss": "with-remainder"
+"surface": "sa+antam",
+"quick_gloss": "with-end"
 },
 {
 "surface": "parigṛhṇāti",
@@ -401,15 +389,19 @@
 "tokens": [
 {
 "surface": "sarva+bhūta+ruta+jñāḥ",
-"quick_gloss": "all+being+sound+knowers"
+"quick_gloss": "knowers-of-cries-of-all-beings"
 },
 {
 "surface": "siddhāḥ",
-"quick_gloss": "accomplished-ones"
+"quick_gloss": "accomplished"
 },
 {
-"surface": "tat+anyathā",
-"quick_gloss": "than-them+otherwise"
+"surface": "tat",
+"quick_gloss": "than-them"
+},
+{
+"surface": "anyathā",
+"quick_gloss": "otherwise"
 },
 {
 "surface": "ye",
@@ -420,8 +412,12 @@
 "quick_gloss": "they"
 },
 {
-"surface": "tu+a+siddhaḥ",
-"quick_gloss": "indeed-unaccomplished"
+"surface": "tu",
+"quick_gloss": "but"
+},
+{
+"surface": "a+siddhaḥ",
+"quick_gloss": "unaccomplished"
 }
 ]
 },
@@ -434,11 +430,11 @@
 "tokens": [
 {
 "surface": "siddhaiḥ",
-"quick_gloss": "by-accomplished-ones"
+"quick_gloss": "by-the-accomplished"
 },
 {
 "surface": "pratiṣṭhāpitaṃ",
-"quick_gloss": "consecrated"
+"quick_gloss": "established"
 },
 {
 "surface": "divyaṃ",
@@ -449,8 +445,8 @@
 "quick_gloss": "by-others-than-them"
 },
 {
-"surface": "pratiṣṭhāpitaṃ",
-"quick_gloss": "consecrated"
+"surface": "pratiṣṭhāpitam",
+"quick_gloss": "established"
 },
 {
 "surface": "a+divyam",
@@ -466,16 +462,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "upa+la+kāṣṭheṣu",
-"quick_gloss": "in-stones+and-wood"
+"surface": "upala+kāṣṭheṣu",
+"quick_gloss": "in-stones-and-wood"
 },
 {
 "surface": "pārānandaḥ",
-"quick_gloss": "the-supremely-blissful"
+"quick_gloss": "a-Parānanda"
 },
 {
 "surface": "api",
-"quick_gloss": "also"
+"quick_gloss": "even"
 },
 {
 "surface": "devatā",
@@ -502,18 +498,6 @@
 "quick_english": "",
 "quick_english_source": "t1parse",
 "tokens": [
-{
-"surface": "kuryāt",
-"quick_gloss": "one-should-do"
-},
-{
-"surface": "kuryāt",
-"quick_gloss": "one-should-do"
-},
-{
-"surface": "kuryāt",
-"quick_gloss": "one-should-do"
-},
 {
 "surface": "kuryāt",
 "quick_gloss": "one-should-do"
@@ -573,7 +557,7 @@
 "quick_gloss": "indeed"
 },
 {
-"surface": "visarjito",
+"surface": "visarjitaḥ",
 "quick_gloss": "dismissed"
 },
 {
@@ -608,10 +592,6 @@
 {
 "surface": "bhavanti",
 "quick_gloss": "are"
-},
-{
-"surface": "bhavanti",
-"quick_gloss": "indeed"
 }
 ]
 },
@@ -629,14 +609,6 @@
 {
 "surface": "dvi+vidhaḥ",
 "quick_gloss": "twofold"
-},
-{
-"surface": "dvi+vidhaḥ",
-"quick_gloss": "is"
-},
-{
-"surface": "nivedakaḥ",
-"quick_gloss": "indeed"
 }
 ]
 },
@@ -658,10 +630,6 @@
 {
 "surface": "ca",
 "quick_gloss": "and"
-},
-{
-"surface": "sādhakaḥ",
-"quick_gloss": "twofold"
 }
 ]
 },
@@ -673,8 +641,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "devatā+upabhuktam+ucchiṣṭaṃ",
-"quick_gloss": "deity+enjoyed+remnant"
+"surface": "devatā+upabhuktam",
+"quick_gloss": "enjoyed-by-deity"
+},
+{
+"surface": "ucchiṣṭaṃ",
+"quick_gloss": "remnant"
 },
 {
 "surface": "bhuṅkte",
@@ -686,7 +658,7 @@
 },
 {
 "surface": "siddhaḥ",
-"quick_gloss": "accomplished-one"
+"quick_gloss": "accomplished"
 }
 ]
 },
@@ -722,8 +694,12 @@
 "quick_gloss": "practitioner"
 },
 {
-"surface": "a+cireṇa+eva",
+"surface": "acireṇa",
 "quick_gloss": "in-no-long-time"
+},
+{
+"surface": "eva",
+"quick_gloss": "indeed"
 },
 {
 "surface": "siddha",

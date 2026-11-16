@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p44-v1076
-[of-all](sarveṣāṃ) [of-substances](dravyāṇām) [substitute](anukalpaḥ) [water](jalam) [or](vā) [meaningful](arthavat) [contemplation](bhāvanam)
+[of-all](sarveṣāṃ) [of-substances](dravyāṇām)+[substitute](anukalpo) [water](jalam)+[meaningful](artha)+[contemplation](vadbhāvanaṃ) [or](vā)
 
 ## mukta-m0-p44-v1077
-[of-all](sarvasya) [constant](nitya) [cessation](nivartanasya) [substitute](anukalpaḥ) [in-one's-own](sva) [chosen-deity](iṣṭa) [and](īśa) [in-one's-own](sva) [chosen](iṣṭa) [mantra](mantra) [recitation](japaḥ)
+[of-all](sarvasya) [constant](nitya)+[cessation](nivartanasya)+[substitute](anukalpaḥ) [own](sva)+[desired](iṣṭa)+[lord](īśa)+[own](sva)+[desired](iṣṭa)+[mantra](mantra)+[recitation](japaḥ)
 
 ## mukta-m0-p44-v1078
-[of-the-four](catuṣṭaya) [categories](padārtha) [investigation](vicāraḥ)
+[category](padārtha)+[fourfold](catuṣṭaya)+[investigation](vicāraḥ)
 
 ## mukta-m0-p44-v1079
-[of-the-guru](guru) [salutation](abhivādanasya) [substitute](anukalpaḥ) [toward-the-guru](guru) [in-the-matter](arthe) [humility](namratā)
+[of-guru](guru)+[salutation](abhivādanasya)+[substitute](anukalpo) [for-guru](guru)+[sake](arthe) [humility](namratā)
 
 ## mukta-m0-p44-v1080
-[offering](bali) [removal](haraṇam) [to-beings](bhūtebhyaḥ) [to-living-beings](prāṇebhyaḥ) [of-flowers](puṣpāṇāṃ) [in-water](jale) [disposal](nirharaṇam) [thus](evam) [elsewhere](anyatra)
+[offering](bali)+[removal](haraṇa) [to-beings](bhūtebhya) [to-living-beings](prāṇebhya) [of-flowers](puṣpāṇāṃ) [in-water](jale) [casting](nirharaṇa) [thus](evam)+[elsewhere](anyatra)
 
 ## mukta-m0-p44-v1081
-[of-the-sky](ākāśa) [from-fire](agneḥ) [outside](bahiḥ) [in-the-sky](ākāśa) [in-fire](agnau) [having-offered](hutvā) [this](ayam) [worldly](laukikaḥ) [is-accomplished](sampadyate) [as](yathā) [then](to)
+[space](ākāśā)+[from-fire](gner)+[outside](bahir) [in-space](ākāśā)+[fire](gnau) [having-offered](hutvā)+[this]('ya) [worldly](laukika) [is-accomplished](sampadyate) [as](yathā) [indeed](to)
 
 ## mukta-m0-p44-v1082
-[remainder](śiṣṭam) [having-taken-as-portion](avadāya) [to-sviṣṭakṛt](sviṣṭakṛt) [in-this](asmin) [one-should-offer](juhuyāt) [thus](iti) [some](kecit)
+[remainder](śiṣṭam)+[having-taken](avadāya) [to-sviṣṭakṛt](sviṣṭakṛd)+[in-this](asmiñ)+[one-should-offer](juhuyād)+[thus](iti) [some](kecit)
 
 ## mukta-m0-p44-v1083
-[fee](dakṣiṇā) [in-daily-worship](nitya) [in-rite](arcane) [to-one's-own-deity](sva) [to-deity](devatāyai) [not](na) [one-should-give](prayacchet) [and](ca) [in-special-worship](viśeṣa) [in-rite](arcane) [thus](iti) [some](eke)
+[fee](dakṣiṇā) [in-daily](nitya)+[worship](arcane) [to-own](sva)+[deity](devatāyai) [not](na) [one-should-give](prayacched)+[in-special](viśeṣa)+[worship](arcane) [and](ca)+[thus](iti)+[some](eke)
 
 ## mukta-m0-p44-v1084
-[recitation](japaḥ) [of-that](tat) [or](vā) [of-the-root-mantra](tat) [root](mūla) [of-mantra](mantrasya)
+[recitation](japaḥ)+[of-that](tat)+[respective](tan)+[root](mūla)+[mantra](mantrasya) [or](vā)
 
 ## mukta-m0-p44-v1085
-[expiation](prāyaścittiḥ) [in-repetition](āvṛttau) [even](api) [of-offenses](aparādhānām) [thus](iti) [Surānanda](surānandaḥ)
+[expiation](prāyaścittir)+[in-repetition](āvṛttāv)+[also](apy)+[of-offenses](aparādhānām)+[thus](iti) [Surānanda](surānandaḥ)
 
 ## mukta-m0-p44-v1086
-[in-repetition-of-that](tat) [in-repetition](āvṛttau) [even](api) [thus](iti) [Surānanda](surānandaḥ)
+[in-repetition](tad)+[of-that](āvṛttāv)+[also](api)+[thus](iti) [Surānanda](surānandaḥ)
 
 ## mukta-m0-p44-v1087
-[in-repetition-of-sin](pāpa) [in-repetition](āvṛttau) [of-expiation](prāyaścitta) [repetition](āvṛttiḥ) [thus](iti) [Unmādānanda](unmādānandaḥ)
+[in-repetition](pāpā)+[of-sin](vṛttau) [expiation](prāyaścitta)+[repetition](āvṛttir)+[thus](ity)+[Unmādānanda](unmādānandaḥ)
 
 ## mukta-m0-p44-v1088
-[threefold](tri) [quality](guṇam) [four-times](caturvāram) [or](vā) [fourfold](catur) [quality](guṇam) [indeed](eva) [expiation](prāyaścittam) [thus](iti) [Muktānanda](muktānandaḥ)
+[threefold](triguṇa) [four](catur)+[times](vāra) [fourfold](catur)+[indeed](guṇam)+[only](eva) [expiation](prāyaścittam)+[thus](iti) [Muktānanda](muktānandaḥ)
 
 ## mukta-m0-p44-v1089
 [Jñānānanda](jñānānandaḥ)
 
 ## mukta-m0-p44-v1090
-[expiation](prāyaścittam) [thus](iti) [Amṛtānanda](amṛtānandaḥ)
+[expiation](prāyaścittam)+[thus](ity)+[Amṛtānanda](amṛtānandaḥ)
 
 ## mukta-m0-p44-v1091
-[fire-rite](agni) [act](kāryam) [that](tat) [done](kṛta) [or-not-done](akṛtam)
+[fire](agni)+[ritual](kāryaṃ) [that](tat)+[done](kṛta)+[or-not-done](akṛtam)
 
 ## mukta-m0-p44-v1092
-[at-will](prakāmam) [having-circumambulated](parītya) [to-the-north](uttarataḥ) [of-circumambulation](pradakṣiṇa) [and-prostration](praṇāmayoḥ) [one](anyataram) [or](vā)
+[at-will](prakāmaṃ) [having-circumambulated](parītya)+[to-the-north](uttarataḥ) [of-circumambulation](pradakṣiṇa)+[and-prostration](praṇāmayor)+[one](anyataraṃ) [or](vā)
 
 ## mukta-m0-p44-v1093
-[at-the-feet](pādayoḥ) [thus](iti) [Īśānanilaya](īśānanilayaḥ)
+[at-the-feet](pādayor)+[thus](iti)+[Īśānanilaya](īśānanilayaḥ)
 
 ## mukta-m0-p44-v1094
-[right-sided](dākṣiṇaḥ) [from-the-right](dakṣataḥ) [left-sided](vāmī) [from-the-left](vāmataḥ) [should-bow](praṇamet)
+[right-sided](dākṣiṇo) [from-the-right](dakṣato) [left-sided](vāmī) [from-the-left](vāmataḥ) [should-bow](praṇamet)
 
 ## mukta-m0-p44-v1095
-[on-meditation](dhyāna) [contemplation](anusandhānam) [my](mat) [offenses](aparādhān) [forgive](kṣamasva) [thus](iti) [begging-pardon](kṣamāpanam)
+[meditation](dhyāna)+[contemplation](anusandhānaṃ) [my](mad)+[offenses](aparādhān) [forgive](kṣamasv)+[thus](eti) [asking-for-forgiveness](kṣamāpanam)
 
 ## mukta-m0-p44-v1096
-[to-the-right-of-that](tat) [to-the-right](dakṣiṇataḥ) [on-the-ground](bhūmau)
+[to-the-right](tad)+[of-that](dakṣiṇato) [on-the-ground](bhūmau)
 
 ## mukta-m0-p44-v1097
-[servant](dāsaḥ) [I-am](asmi) [thus](iti) [self-dedication](nivedanam)
+[servant](dāso)+[I-am]('smi)+[thus](iti) [dedication](nivedanam)
 
 ## mukta-m0-p44-v1098
-[with-fragrance](gandha) [unbroken-rice](akṣata) [and-flowers](puṣpaiḥ) [or](vā) [with-any-one-of-them](tat) [other](anya) [with-one](tamena) [one-should-worship](abhyarcayet)
+[with-fragrance](gandha)+[rice](akṣata)+[flowers](puṣpais)+[with-any](tad)+[one-of-them](anyatamena) [or](vā)+[one-should-worship](abhyarcayet)
 
 ## mukta-m0-p44-v1099
-[handfuls-of-flowers](puṣpa) [handfuls](añjalīn) [three](trīn) [or](vā) [by-the-number-of-that](tat) [pair](dvayaḥ) [years](saṃvatsara) [by-number](saṃkhyayā) [one-should-offer](ninayet)
+[flower](puṣpā)+[handfuls](ñjalīṃs)+[three](trīṃs)+[by-that](tad)+[age](vayaḥ)+[year](saṃvatsara)+[number](saṃkhyayā) [or](vā) [one-should-offer](ninayet)
 
 ## mukta-m0-p44-v1100
-[one-should-apply](yojayet) [that](tat) [following](anukriyā) [word](padam) [and](ca)
+[one-should-apply](yojayet)+[that](tad)+[subsequent](anukriyā)+[word](padaṃ) [and](ca)
