@@ -8,7 +8,7 @@
 "tokens": [
 {
 "surface": "ājyāktābhiḥ",
-"quick_gloss": "ghee-smeared"
+"quick_gloss": "ghee+anointed"
 },
 {
 "surface": "ca",
@@ -28,7 +28,7 @@
 },
 {
 "surface": "āpnuyāt",
-"quick_gloss": "one-may-obtain"
+"quick_gloss": "one-obtains"
 }
 ]
 },
@@ -41,7 +41,7 @@
 "tokens": [
 {
 "surface": "vastrārthī",
-"quick_gloss": "garment-desiring"
+"quick_gloss": "garment+desiring"
 },
 {
 "surface": "śvetakumudaiḥ",
@@ -49,7 +49,7 @@
 },
 {
 "surface": "ājyāktaiḥ",
-"quick_gloss": "ghee-smeared"
+"quick_gloss": "ghee+anointed"
 },
 {
 "surface": "juhuyāt",
@@ -74,7 +74,7 @@
 },
 {
 "surface": "putralābhaḥ",
-"quick_gloss": "son-obtainment"
+"quick_gloss": "son+attainment"
 },
 {
 "surface": "bhavet",
@@ -95,11 +95,11 @@
 "tokens": [
 {
 "surface": "samidvaraiḥ",
-"quick_gloss": "with-excellent-fuel-sticks"
+"quick_gloss": "with-best-fuel-sticks"
 },
 {
 "surface": "mahārogamuktaye",
-"quick_gloss": "great-disease+release"
+"quick_gloss": "great-disease+liberation"
 },
 {
 "surface": "iyam",
@@ -165,19 +165,15 @@
 "tokens": [
 {
 "surface": "bhavet",
-"quick_gloss": "may-be"
+"quick_gloss": "becomes"
 },
 {
 "surface": "triṃśaddinaiḥ",
 "quick_gloss": "in-thirty+days"
 },
 {
-"surface": "ca",
-"quick_gloss": "and"
-},
-{
-"surface": "atha",
-"quick_gloss": "then"
+"surface": "ca+atha",
+"quick_gloss": "and-then"
 },
 {
 "surface": "prāpnoti",
@@ -214,7 +210,7 @@
 },
 {
 "surface": "tu",
-"quick_gloss": "indeed"
+"quick_gloss": "but"
 },
 {
 "surface": "tasya",
@@ -267,7 +263,7 @@
 },
 {
 "surface": "bhavet",
-"quick_gloss": "may-be"
+"quick_gloss": "would-be"
 }
 ]
 },
@@ -280,7 +276,7 @@
 "tokens": [
 {
 "surface": "sakāraṃ",
-"quick_gloss": "the-syllable-sa"
+"quick_gloss": "sa-syllable"
 },
 {
 "surface": "saṃsmaret",
@@ -296,7 +292,7 @@
 },
 {
 "surface": "jīvet",
-"quick_gloss": "may-live"
+"quick_gloss": "would-live"
 },
 {
 "surface": "śaradāṃ",
@@ -317,7 +313,7 @@
 "tokens": [
 {
 "surface": "karṇikāyāṃ",
-"quick_gloss": "in-the-pericarp"
+"quick_gloss": "in-pericarp"
 },
 {
 "surface": "tathā",
@@ -325,7 +321,7 @@
 },
 {
 "surface": "ṭhaṃ",
-"quick_gloss": "the-syllable-ṭha"
+"quick_gloss": "ṭha-syllable"
 },
 {
 "surface": "ca",
@@ -408,7 +404,7 @@
 },
 {
 "surface": "nyāsaḥ",
-"quick_gloss": "assignment"
+"quick_gloss": "installation"
 },
 {
 "surface": "ca",
@@ -419,8 +415,12 @@
 "quick_gloss": "in-worship"
 },
 {
-"surface": "sarva rakṣākaro",
-"quick_gloss": "all+protection+making"
+"surface": "sarva",
+"quick_gloss": "all"
+},
+{
+"surface": "rakṣākaraḥ",
+"quick_gloss": "protection+making"
 },
 {
 "surface": "manoḥ",
@@ -470,7 +470,7 @@
 "tokens": [
 {
 "surface": "anurūpajapadhyānāt",
-"quick_gloss": "according-to-proper+recitation+meditation"
+"quick_gloss": "according-to+recitation+meditation"
 },
 {
 "surface": "mantraḥ",
@@ -495,7 +495,7 @@
 "tokens": [
 {
 "surface": "ekaikaṃ",
-"quick_gloss": "each-one"
+"quick_gloss": "one-by-one"
 },
 {
 "surface": "sulikhet",
@@ -524,11 +524,11 @@
 "tokens": [
 {
 "surface": "unmādagrahabhūtādīn",
-"quick_gloss": "madness+seizers+ghosts+and-so-on"
+"quick_gloss": "madness+seizure+spirits+etc."
 },
 {
 "surface": "abhicārān",
-"quick_gloss": "malefic-rites"
+"quick_gloss": "sorceries"
 },
 {
 "surface": "ca",
@@ -536,7 +536,7 @@
 },
 {
 "surface": "nāśayet",
-"quick_gloss": "it-destroys"
+"quick_gloss": "would-destroy"
 }
 ]
 },
@@ -578,7 +578,7 @@
 "tokens": [
 {
 "surface": "dīptarūpaṃ",
-"quick_gloss": "blazing-form"
+"quick_gloss": "of-radiant-form"
 },
 {
 "surface": "sarvanātha",
@@ -611,10 +611,10 @@
 "tokens": [
 {
 "surface": "dhyānapūjādikaṃ",
-"quick_gloss": "meditation+worship+and-so-on"
+"quick_gloss": "meditation+worship+etc."
 },
 {
-"surface": "prāgvat",
+"surface": "prākvat",
 "quick_gloss": "as-before"
 },
 {
@@ -635,8 +635,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "oṃklīṃ sudarśanamahācakrarāja",
-"quick_gloss": "oṃ klīṃ sudarśana mahācakrarāja"
+"surface": "oṃklīṃ",
+"quick_gloss": "oṃ-klīṃ"
+},
+{
+"surface": "sudarśanamahācakrarāja",
+"quick_gloss": "sudarśana-great-disc-king"
 },
 {
 "surface": "oṃ klīṃ sudarśana mahācakrarāja dahadaha sarvaduṣṭabhayaṃ kurukuru chindhichindhi bhindibhindi vidārayavidāraya paramantrān grasagrasa bhakṣayabhakṣaya bhūtāni trāsayatrāsaya huṃphaṭ svāhā cakrāya namaḥ || iti mantraḥ ||",
@@ -665,7 +669,7 @@
 },
 {
 "surface": "paramantrān",
-"quick_gloss": "enemy-mantras"
+"quick_gloss": "other-mantras"
 },
 {
 "surface": "grasadvayam",
@@ -681,12 +685,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "huṃphaṭ svāheti",
+"surface": "huṃphaṭ",
 "quick_gloss": "huṃ-phaṭ-svāhā"
 },
 {
+"surface": "iti",
+"quick_gloss": "thus"
+},
+{
 "surface": "cakrāya",
-"quick_gloss": "to-the-discus"
+"quick_gloss": "to-the-disc"
 },
 {
 "surface": "namaḥ",
@@ -694,7 +702,7 @@
 },
 {
 "surface": "vedanugākṣaraḥ",
-"quick_gloss": "veda-following+syllable"
+"quick_gloss": "veda+following+syllable"
 }
 ]
 },
@@ -707,7 +715,7 @@
 "tokens": [
 {
 "surface": "dhyānapūjādikaṃ",
-"quick_gloss": "meditation+worship+and-so-on"
+"quick_gloss": "meditation+worship+etc."
 },
 {
 "surface": "sarvaṃ",
@@ -723,7 +731,7 @@
 },
 {
 "surface": "ṣaḍarṇavat",
-"quick_gloss": "six-syllable+like"
+"quick_gloss": "like-six-syllable"
 }
 ]
 },
@@ -740,11 +748,11 @@
 },
 {
 "surface": "ādau",
-"quick_gloss": "at-first"
+"quick_gloss": "first"
 },
 {
 "surface": "cāṣṭasāhasraṃ",
-"quick_gloss": "eight-thousand"
+"quick_gloss": "eight+thousand"
 },
 {
 "surface": "raṇe",
