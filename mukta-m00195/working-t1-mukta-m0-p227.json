@@ -16,7 +16,7 @@
 },
 {
 "surface": "tṛṣṇā",
-"quick_gloss": "craving"
+"quick_gloss": "thirst/craving"
 },
 {
 "surface": "tena",
@@ -45,15 +45,15 @@
 },
 {
 "surface": "karma",
-"quick_gloss": "ritual"
+"quick_gloss": "ritual-action"
 },
 {
 "surface": "vihīnaḥ",
-"quick_gloss": "devoid"
+"quick_gloss": "devoid-of"
 },
 {
 "surface": "tu",
-"quick_gloss": "indeed"
+"quick_gloss": "but"
 },
 {
 "surface": "vijñeyaḥ",
@@ -74,7 +74,7 @@
 "tokens": [
 {
 "surface": "vaśīkṛtya",
-"quick_gloss": "having-subjugated"
+"quick_gloss": "having-subdued"
 },
 {
 "surface": "su",
@@ -85,16 +85,16 @@
 "quick_gloss": "one-should-serve"
 },
 {
-"surface": "aniśam",
+"surface": "niśam",
 "quick_gloss": "night-and-day"
 },
 {
 "surface": "adhyāya",
-"quick_gloss": "meditation"
+"quick_gloss": "in-meditation"
 },
 {
 "surface": "tatparaḥ",
-"quick_gloss": "devoted"
+"quick_gloss": "intent-on"
 }
 ]
 },
@@ -111,7 +111,7 @@
 },
 {
 "surface": "mantraiḥ",
-"quick_gloss": "mantras"
+"quick_gloss": "with-mantras"
 },
 {
 "surface": "na",
@@ -123,7 +123,7 @@
 },
 {
 "surface": "tu",
-"quick_gloss": "indeed"
+"quick_gloss": "but"
 },
 {
 "surface": "kadācana",
@@ -148,7 +148,7 @@
 },
 {
 "surface": "karṇikā",
-"quick_gloss": "in-pericarp"
+"quick_gloss": "in-the-pericarp"
 },
 {
 "surface": "sthitam",
@@ -164,12 +164,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "tadagreṣu",
+"surface": "tat",
 "quick_gloss": "at-its-tips"
 },
 {
+"surface": "agreṣu",
+"quick_gloss": "at-tips"
+},
+{
 "surface": "gāyatrī",
-"quick_gloss": "gāyatrī"
+"quick_gloss": "of-gāyatrī"
 },
 {
 "surface": "arṇān",
@@ -198,11 +202,11 @@
 },
 {
 "surface": "tathā",
-"quick_gloss": "and"
+"quick_gloss": "likewise"
 },
 {
-"surface": "om",
-"quick_gloss": "om"
+"surface": "um",
+"quick_gloss": "oṃ"
 },
 {
 "surface": "āpaḥ",
@@ -218,7 +222,7 @@
 },
 {
 "surface": "amṛtaṃ",
-"quick_gloss": "immortality"
+"quick_gloss": "nectar"
 },
 {
 "surface": "brahma",
@@ -247,7 +251,7 @@
 },
 {
 "surface": "tu",
-"quick_gloss": "indeed"
+"quick_gloss": "but"
 },
 {
 "surface": "bandhayet",
@@ -268,11 +272,11 @@
 },
 {
 "surface": "mahā",
-"quick_gloss": "greatly"
+"quick_gloss": "great"
 },
 {
 "surface": "adbhutam",
-"quick_gloss": "wondrous"
+"quick_gloss": "wonder"
 }
 ]
 },
@@ -285,19 +289,23 @@
 "tokens": [
 {
 "surface": "madhye",
-"quick_gloss": "in-middle"
+"quick_gloss": "in-the-middle"
 },
 {
 "surface": "koṇaṣaṭke",
-"quick_gloss": "in-six-corners"
+"quick_gloss": "in-the-six-corners"
 },
 {
-"surface": "vāgbhavaṃ",
-"quick_gloss": "vāgbhava"
+"surface": "vāk",
+"quick_gloss": "speech"
+},
+{
+"surface": "bhavaṃ",
+"quick_gloss": "seed"
 },
 {
 "surface": "bījam",
-"quick_gloss": "seed"
+"quick_gloss": "seed-syllable"
 },
 {
 "surface": "ālikhet",
@@ -318,23 +326,23 @@
 },
 {
 "surface": "medhayā",
-"quick_gloss": "mantra"
+"quick_gloss": "with-wisdom"
 },
 {
 "surface": "spṛṇotu",
-"quick_gloss": "mantra"
+"quick_gloss": "may-satisfy"
 },
 {
 "surface": "amṛtasya",
-"quick_gloss": "mantra"
+"quick_gloss": "of-immortality"
 },
 {
 "surface": "devadhāraṇo",
-"quick_gloss": "mantra"
+"quick_gloss": "god-supporting"
 },
 {
 "surface": "bhūyāsam",
-"quick_gloss": "mantra"
+"quick_gloss": "may-I-become"
 }
 ]
 },
@@ -487,7 +495,7 @@
 },
 {
 "surface": "nirmite",
-"quick_gloss": "made"
+"quick_gloss": "made-of"
 }
 ]
 },
@@ -499,12 +507,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "śruti",
-"quick_gloss": "scripture"
-},
-{
-"surface": "dhārā",
-"quick_gloss": "retention"
+"surface": "śrutidhārā",
+"quick_gloss": "retention-of-hearing"
 },
 {
 "surface": "ca",
@@ -537,11 +541,11 @@
 },
 {
 "surface": "tu",
-"quick_gloss": "indeed"
+"quick_gloss": "you"
 },
 {
-"surface": "abhyāso",
-"quick_gloss": "practice"
+"surface": "abhyāsaḥ",
+"quick_gloss": "by-practice"
 },
 {
 "surface": "bhavati",
@@ -574,15 +578,15 @@
 },
 {
 "surface": "tāraṃ",
-"quick_gloss": "tāra"
+"quick_gloss": "oṃ-syllable"
 },
 {
-"surface": "tatkarṇikā",
+"surface": "tat",
 "quick_gloss": "in-its-pericarp"
 },
 {
-"surface": "antare",
-"quick_gloss": "inside"
+"surface": "karṇikāntare",
+"quick_gloss": "within-pericarp"
 }
 ]
 },
@@ -595,15 +599,15 @@
 "tokens": [
 {
 "surface": "keśareṣu",
-"quick_gloss": "in-petals"
+"quick_gloss": "in-the-filaments"
 },
 {
 "surface": "galeṣu",
-"quick_gloss": "in-necks"
+"quick_gloss": "in-the-necks"
 },
 {
 "surface": "tryambaka",
-"quick_gloss": "tryambaka"
+"quick_gloss": "of-tryambaka"
 },
 {
 "surface": "akṣarān",
@@ -624,11 +628,11 @@
 },
 {
 "surface": "āmṛcaṃ",
-"quick_gloss": "ṛc"
+"quick_gloss": "verse"
 },
 {
-"surface": "sādhyo",
-"quick_gloss": "with-practitioner"
+"surface": "sādhyaḥ",
+"quick_gloss": "practitioner"
 },
 {
 "surface": "nāma",
@@ -640,7 +644,7 @@
 },
 {
 "surface": "vibhūṣitām",
-"quick_gloss": "adorned"
+"quick_gloss": "adorned-with"
 }
 ]
 },
@@ -661,7 +665,7 @@
 },
 {
 "surface": "triṣṭup",
-"quick_gloss": "triṣṭup"
+"quick_gloss": "triṣṭubh"
 },
 {
 "surface": "chandaḥ",
@@ -673,7 +677,7 @@
 },
 {
 "surface": "tu",
-"quick_gloss": "indeed"
+"quick_gloss": "but"
 },
 {
 "surface": "devatā",
@@ -707,7 +711,7 @@
 },
 {
 "surface": "traiyambakaṃ",
-"quick_gloss": "tryambaka"
+"quick_gloss": "three-eyed"
 },
 {
 "surface": "yantraṃ",
@@ -715,7 +719,7 @@
 },
 {
 "surface": "gopanīyaṃ",
-"quick_gloss": "to-be-concealed"
+"quick_gloss": "to-be-kept-secret"
 },
 {
 "surface": "prayatnataḥ",
@@ -752,7 +756,7 @@
 },
 {
 "surface": "sukha",
-"quick_gloss": "pleasure"
+"quick_gloss": "happiness"
 },
 {
 "surface": "mokṣa",
