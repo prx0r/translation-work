@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p10-v226
-[hundred-thousand-measure](lakṣamātraṃ) [should-chant-mantra](japenmantraṃ) [then](tataḥ) [accomplished](siddho) [becomes-man](bhavennaraḥ)
+[hundred-thousand-measure](lakṣamātraṃ) [should-recite-mantra](japenmantraṃ) [then](tataḥ) [accomplished](siddho) [becomes](bhavet) [man](naraḥ)
 
 ## mukta-m0-p10-v227
-[that-tenth-part](taddaśāṃśaṃ) [and](ca) [musk](kastūrī) [camphor](karpūrābhyāṃ) [well-perfumed](suvāsitaiḥ)
+[its-tenth-part](taddaśāṃśaṃ) [and](ca) [with-musk](kastūrī) [with-camphor](karpūrābhyāṃ) [well-perfumed](suvāsitaiḥ)
 
 ## mukta-m0-p10-v228
-[that-tenth-part](taddaśāṃśaṃ) [great-goddess](mahādevi) [brahmins](brāhmaṇān) [feed](bhojayet) [dear](priye)
+[its-tenth-part](taddaśāṃśaṃ) [o-great-goddess](mahādevi) [brahmins](brāhmaṇān) [should-feed](bhojayet) [o-beloved](priye)
 
 ## mukta-m0-p10-v229
-[pleasing](hṛdyaiḥ) [milk-rice](pāyasa) [cakes-etc](pūpādyaiḥ) [and](ca) [juices](rasaiścaiva) [rejuvenatives](rasāyanaiḥ)
+[with-delightful](hṛdyaiḥ) [with-milk-rice](pāyasa) [with-cakes-and-others](pūpādyaiḥ) [with-juices](rasaiś) [and](ca) [indeed](eva) [with-elixirs](rasāyanaiḥ)
 
 ## mukta-m0-p10-v230
-[liquors](madyairmāṃsaiśca) [meats](māṃsaiśca) [fishes](matsyaiśca) [various-substances-increased](nānāvastūpabṛṃhitaiḥ)
+[with-liquors](madyaiḥ) [with-meats](māṃsaiś) [and](ca) [with-fishes](matsyaiś) [and](ca) [with-various-things](nānāvastūpabṛṃhitaiḥ)
 
 ## mukta-m0-p10-v231
-[should-worship](arcayed) [yoginis](yoginī) [heroes](vīrān) [tenth-part](daśāṃśaṃ) [mantra-practitioner](maṃtrasādhakaḥ)
+[should-worship](arcayed) [yoginīs](yoginī) [heroes](vīrān) [tenth-part](daśāṃśaṃ) [mantra-practitioner](maṃtrasādhakaḥ)
 
 ## mukta-m0-p10-v232
-[bliss-enjoyments](ānaṃdabhogān) [enjoying](bhugjānaḥ) [on-earth](kṣoṇyāṃ) [plays](khelati) [embodied](kāyavat)
+[bliss-enjoyments](ānaṃdabhogān) [enjoying](bhugjānaḥ) [on-earth](kṣoṇyāṃ) [sports](khelati) [like-body](kāyavat)
 
 ## mukta-m0-p10-v233
-[extreme-secrecy](atiguhyātva) [protected](yā) [rakṣyā](rakṣyā) [not-given](na) [to-anyone](deyā) [yasyakasyacit](yasyakasyacit)
+[because-of-extreme-secrecy](atiguhyātva) [which](yā) [to-be-protected](rakṣyā) [not](na) [to-be-given](deyā) [to-anyone-whatever](yasyakasyacit)
 
 ## mukta-m0-p10-v234
-[without-fallacious-reasoning](akutarka) [skilled](pravīṇāya) [truth-devoted](tattvaniṣṭhāyadhīmate)
+[to-one-not-skilled-in-false-reasoning](akutarka+pravīṇāya) [to-one-devoted-to-truth](tattvaniṣṭhāya) [to-the-wise](dhīmate)
 
 ## mukta-m0-p10-v235
-[this](eṣā) [vidya](vidyā) [to-be-given](pradātavyā) [truth](satyaṃ) [truth](satyaṃ) [I-speak](vadāmyaham)
+[this](eṣā) [knowledge](vidyā) [to-be-given](pradātavyā) [truth](satyaṃ) [truth](satyaṃ) [I-say](vadāmyaham)
 
 ## mukta-m0-p10-v236
-[this](etad) [vidya-equal](vidyāsamaṃ) [not](nāsti) [not](na) [was](bhūtaṃ) [not](na) [will-be](bhaviṣyati)
+[than-this](etad) [equal-to-knowledge](vidyāsamaṃ) [not](nāsti) [not](na) [has-been](bhūtaṃ) [not](na) [will-be](bhaviṣyati)
 
 ## mukta-m0-p10-v237
-[this](imāmabhyasyataḥ) [of-man](puṃso) [liberation-path](mokṣamārgaḥ) [in-hand](karasthitaḥ)
+[this](imām) [practicing](abhyasyataḥ) [of-man](puṃso) [path-of-liberation](mokṣamārgaḥ) [in-hand-situated](karasthitaḥ)
 
 ## mukta-m0-p10-v238
-[thus](ityānaṃdataṃtre) [fifth](paṃcamaḥ) [chapter](paṭalaḥ)
+[thus](iti) [in-ānandatantra](ānaṃdataṃtre) [fifth](paṃcamaḥ) [chapter](paṭalaḥ)
 
 ## mukta-m0-p10-v239
-[sacrifice-king-sequence](yāgarājakramaḥ) [all-purusharthas](sarvapuruṣārthaṃ) [great-fruit](mahāphalam)
+[worship-king-sequence](yāgarājakramaḥ) [all-human-goals](sarvapuruṣārthaṃ) [great-fruit](mahāphalam)
 
 ## mukta-m0-p10-v240
-[boon-fearless-endowed](varābhayayutaṃ) [peaceful](śāṃtaṃ) [shakti-embraced](śaktyāśliṣṭaṃ) [mind-charming](manoharam)
+[with-boon-and-fearlessness](varābhayayutaṃ) [peaceful](śāṃtaṃ) [embraced-by-śakti](śaktyāśliṣṭaṃ) [charming](manoharam)
 
 ## mukta-m0-p10-v241
-[bathed-body](āplāvita) [sannaṃtardhyāyen](sannaṃtardhyāyen) [great-goddess](maheśvarīm)
+[immersed](āplāvita) [body](śarīraḥ) [being](sann) [within](antardhyāyen) [great-goddess](maheśvarīm)
 
 ## mukta-m0-p10-v242
-[split-six-lotuses](vibhinna) [manifest](prakāśa) [own-form](nijavigrahām)
+[split](vibhinna) [six-lotuses-born](ṣaṭsarojanma) [radiance](prakāśa) [own-form](nijavigrahām)
 
 ## mukta-m0-p10-v243
-[tripurasundari](tripurasuṃdarīm)
+[tripurasundarī](tripurasuṃdarīm)
 
 ## mukta-m0-p10-v244
-[going-out](nirgamya) [outside-village](ca) [bahirgrāmānmuktamūtramalavyathaḥ](bahirgrāmānmuktamūtramalavyathaḥ)
+[having-gone-out](nirgamya) [and](ca) [outside-village](bahirgrāmāt) [freed-from-urine-feces-pain](muktamūtramalavyathaḥ)
 
 ## mukta-m0-p10-v245
-[fragrant-oil-anointed](sugaṃdhatailaliptasya) [paste-rubbed](piṣṭikodvarti) [his](tasya) [and](ca)
+[of-one-anointed-with-fragrant-oil](sugaṃdhatailaliptasya) [of-one-rubbed-with-paste](piṣṭikodvarti+tasya) [and](ca)
 
 ## mukta-m0-p10-v246
-[ever](kadāpi) [kaulika](kauliko) [from-delusion](mohānna) [rough-bath](rūkṣasnānamācaret)
+[ever](kadāpi) [kaulika](kauliko) [through-delusion](mohāt) [not](na) [dry-bath](rūkṣasnānam) [should-perform](ācaret)
 
 ## mukta-m0-p10-v247
-[head](mūrdhnitvā) [root-mantra](mūlamaṃtra) [jāpenāṃ](jāpenāṃ) [bhoṃjalitrayam](bhoṃjalitrayam)
+[on-head](mūrdhni) [indeed](tvā) [with-root-mantra](mūlamaṃtra) [with-recitation](jāpena) [water](aṃbho) [three-times](añjalitrayam)
 
 ## mukta-m0-p10-v248
-[with-kusha](sakuśe) [with-flowers](sahapuṣpe) [with-sandal](sagaṃdhe) [copper-vessel](tāmrabhājane)
+[with-kuśa-grass](sakuśe) [with-flowers](sahapuṣpe) [and](ca) [with-fragrance](sagaṃdhe) [in-copper-vessel](tāmrabhājane)
 
 ## mukta-m0-p10-v249
-[copper-silver-gold](tāmrarūpya) [made](racitaṃ) [that-praised](tatpraśasyate)
+[with-copper](tāmra) [silver](rūpya) [with-gold](suvarṇaiḥ) [and](tu) [made](racitaṃ) [that](tat) [is-praised](praśasyate)
 
 ## mukta-m0-p10-v250
-[according-to-ability](yathā) [satisfying](śakti) [ca](ca) [saṃtarpya](saṃtarpya) [should-enter](praviśedyāgamaṃdiram)
+[according-to-ability](yathā+śakti) [and](ca) [having-satisfied](saṃtarpya) [should-enter](praviśet) [worship-hall](yāgamaṃdiram)
