@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p101-v2501
-[thus](tathā) [on-head](mūrdhni) [on-navel](nābhau) [in-secret-place](guhye) [and](ca) [on-feet](pādayoḥ)
+[thus](tathā) [on-head](mūrdhni) [on-navel](nābhau) [on-private-part](guhye) [and](ca) [on-feet](pādayoḥ)
 
 ## mukta-m0-p101-v2502
-[with-mūrti+īśa+nidrā+kumbha+astra-mantras](mūrtīśanidrākumbhāstraiḥ) [having-bathed](snapayitva) [indeed](tu) [one-should-worship](pūjayet)
+[with-mūrti+lord+sleep+pitcher+weapons](mūrtīśanidrākumbhāstraiḥ) [having-bathed](snapayitvā) [then](tu) [one-should-worship](pūjayet)
 
 ## mukta-m0-p101-v2503
-[having-thrown](kṣiptvā) [having-entered](praviśya) [inside-threshold](antardehalyāṃ) [having-placed-that](tannidhāya) [and](ca)
+[having-thrown](kṣiptvā) [having-entered+inside+threshold](praviśyāntardehalyāṃ) [that+having-placed](tannidhāya) [and](ca)
 
 ## mukta-m0-p101-v2504
-[having-made-arghya](kṛtvārghyaṃ) [purifications](śuddhīḥ) [five](pañca) [having-performed](vidhāya) [indeed](tu)
+[having-made+arghya](kṛtvārghyaṃ) [purifications](śuddhīḥ) [five](pañca) [having-performed](vidhāya) [then](tu)
 
 ## mukta-m0-p101-v2505
-[ādhāra-śakti+ananta-named+mayūra-seat+body-born](ādhāraśaktyanantākhyamayūrāsanagātragān)
+[support+power+Ananta+named+peacock+seat+body+going](ādhāraśaktyanantākhyamayūrāsanagātragān) [of-the-mantra](vidyāyāḥ) [powers+in-middle](śaktīrmadhye) [and](ca) [one-should-worship](pūjayet)
 
 ## mukta-m0-p101-v2506
 [of-the-mantra](vidyāyāḥ) [powers](śaktīḥ) [in-middle](madhye) [and](ca) [one-should-worship](pūjayet)
 
 ## mukta-m0-p101-v2507
-[all-pervading](vyāpinī) [and](ca) [thus](iti) [in-order-beginning-with-east](pūrvādikramāt) [graceful-formed](lalitavigrahāḥ)
+[Vyāpinī](vyāpinī) [and](ca) [thus](iti) [east+etc.+in-order+with-graceful+forms](pūrvādikramāllalitavigrahāḥ)
 
 ## mukta-m0-p101-v2508
-[one-should-worship](yajed) [with-divine-garments-and-so-forth](divyāmbarādikaiḥ)
+[one-should-worship](yajed) [with-divine+garments+etc.](divyāmbarādikaiḥ) [with-image+limbs](mūrtyaṅgaiḥ) [with-powers](śaktibhiḥ)
 
 ## mukta-m0-p101-v2509
-[with-mūrti-limbs](mūrtyaṅgaiḥ) [with-powers](śaktibhiḥ) [made-complete](sakalīkṛtam)
+[with-image+limbs](mūrtyaṅgaiḥ) [with-powers](śaktibhiḥ) [made+complete](sakalīkṛtam) [with-own+limbs](svāṅgaiḥ)
 
 ## mukta-m0-p101-v2510
-[with-own-limbs](svāṅgaiḥ) [at-petal-tip](patrāgre) [with-mūrti+lords-of-mūrti](mūrtimūrtipaiḥ)
+[with-own+limbs](svāṅgaiḥ) [on-petal+tip](patrāgre) [kh:]( [kh:) [grairmū]](grairmū]) [with-image+image-lords](mūrtimūrtipaiḥ)
 
 ## mukta-m0-p101-v2511
-[with-door-guardians](dvāḥsthaiḥ) [fourth](caturthaṃ) [with-world-lords](lokeśaiḥ) [fifth](pañcamaṃ) [indeed](tu) [with-their-weapons](tadāyudhaiḥ)
+[with-door+standers+fourth](dvāḥsthaiścaturthaṃ) [with-world-lords](lokeśaiḥ) [fifth](pañcamaṃ) [then](tu) [with-their+weapons](tadāyudhaiḥ)
 
 ## mukta-m0-p101-v2512
-[with-sthira-and-other](sthirādibhiḥ) [with-seven-mantras](saptamantraiḥ) [having-offered-oblation](hutvā) [one-should-touch](spṛśed) [the-cavity](guham)
+[with-Sthira+etc.](sthirādibhiḥ) [with-seven+mantras+having-offered](saptamantrairhutvā) [one-should-touch](spṛśed) [the-cavity](guham)
 
 ## mukta-m0-p101-v2513
-[on-fourth-day](caturthadivase) [having-worshipped](abhyarcya) [Dhūrtasena](dhūrtasenaṃ) [indeed](tu) [image-going](beragam)
+[on-fourth+day+having-worshipped](caturthadivase'bhyarcya) [Dhūrtasena](dhūrtasenaṃ) [then](tu) [image+gone-to](beragam)
 
 ## mukta-m0-p101-v2514
-[red-colored](raktavarṇaṃ) [with-used-garlands](nirmālyaiḥ) [one-should-worship](abhipūjayet)
+[red+colored](raktavarṇaṃ) [with-remnants+one-should-worship](nirmālyairabhipūjayet) [with-Skanda+Gāyatrī](skandagāyatryā) [sesame+ghee](tilājye)
 
 ## mukta-m0-p101-v2515
-[with-Skanda-gāyatrī](skandagāyatryā) [in-sesame-and-ghee](tilājye) [one-should-offer-oblation](juhuyāt) [separately](pṛthak)
+[with-Skanda+Gāyatrī](skandagāyatryā) [in-sesame+ghee](tilājye) [one-should-offer](juhuyāt) [separately](pṛthak)
 
 ## mukta-m0-p101-v2516
-[sviṣṭakṛt-oblation](sviṣṭakṛtaṃ) [having-offered](hutvā) [fires](agnīn) [in-heart](hṛdi) [one-should-withdraw](saṃharet)
+[Sviṣṭakṛt](sviṣṭakṛtaṃ) [having-offered+fires](hutvāgnīn) [in-heart](hṛdi) [one-should-withdraw](saṃharet)
 
 ## mukta-m0-p101-v2517
-[one-should-bathe](snapayet) [with-mantras](mantraiḥ) [taught-in-Śaiva-scriptures](śaivoditaiḥ) [in-order](kramāt)
+[one-should-bathe+with-mantras](snapayenmantraiḥ) [with-Śaiva+declared](śaivoditaiḥ) [in-order](kramāt)
 
 ## mukta-m0-p101-v2518
-[gifts-to-be-given](pradeyāni) [having-given](dattvā) [according-to-ability](śaktyā) [indeed](tu) [as-before](pūrvavat)
+[gifts](pradeyāni) [having-given](dattvā) [according-to-ability](śaktyā) [then](tu) [as+before](pūrvavat)
 
 ## mukta-m0-p101-v2519
-[aforementioned](pūrvoktaṃ) [abundant](puṣkalaṃ) [obtains](labhate) [fruit](phalam)
+[previously+stated](pūrvoktaṃ) [abundant](puṣkalaṃ) [one-obtains](labhate) [fruit](phalam)
 
 ## mukta-m0-p101-v2520
-[Vighna-and-Viśveśvara](vighnaviśveśvarau) [and](ca) [then](atha) [Vīrasena-and-Suṣeṇa](vīrasenasuṣeṇakau)
+[Vighna+Viśveśvara](vighnaviśveśvarau) [and](ca) [then](atha) [Vīrasena+Suṣeṇaka](vīrasenasuṣeṇakau)
 
 ## mukta-m0-p101-v2521
-[ending-with-Skanda-attendants](skandapāriṣadāntāḥ) [should-be](syuḥ) [world-lords](lokeśāḥ) [situated-in-their-own-directions](svasvadiggatāḥ)
+[Skanda+retinue+ending-with](skandapāriṣadāntāḥ) [they-should-be](syuḥ) [world-lords](lokeśāḥ) [own+own+direction+gone](svasvadiggatāḥ)
 
 ## mukta-m0-p101-v2522
-[Dhūrtasena](dhūrtasenaṃ) [likewise](tathā) [in-northeast](aiśānyāṃ) [having-worshipped](saṃpūjya) [of-these](eṣāṃ) [offering](baliṃ) [one-should-remove](haret)
+[Dhūrtasena](dhūrtasenaṃ) [likewise](tathā) [in-northeast](aiśānyāṃ) [having-worshipped+of-them](saṃpūjyaiṣāṃ) [offering](baliṃ) [one-should-take](haret)
 
 ## mukta-m0-p101-v2523
-[indeed](tu) [in-front-of-offering-platform](balipīṭhāgrataḥ) [standing](sthitaḥ)
+[then](tu) [offering+platform+in-front](balipīṭhāgrataḥ) [standing](sthitaḥ) [one-should-take](haret)
 
 ## mukta-m0-p101-v2524
-[all](sarve) [may-they-receive](gṛhṇantu) [offering](balim) [excellent](uttamam)
+[all](sarve) [let-them-receive](gṛhṇantu) [offering+excellent](balimuttamam)
 
 ## mukta-m0-p101-v2525
-[for-outer-enclosure](bāhyahārāya) [Unmātha-and-others](unmāthādīn) [lords-of-gaṇas](gaṇeśvarān)
+[in-outer+enclosure](bāhyahārāyām) [Unmātha+etc.](unmāthādīn) [troop+lords](gaṇeśvarān) [one-should-worship](yajet)
