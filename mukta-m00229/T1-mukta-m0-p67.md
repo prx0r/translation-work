@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p67-v1651
-[of-khārīs](khārīṇāṃ) [three](tritayaṃ) [load](bhāra) [stated](uditaḥ) [from-scripture](śāstrataḥ) [in-order](kramāt)
+[of-khārīs](khārīṇāṃ) [triad](tritayaṃ) [bhāra](bhāra) [declared](uditaḥ) [from-scripture](śāstrataḥ) [in-order](kramāt)
 
 ## mukta-m0-p67-v1652
-[by-tenth-part](daśamāṃśena) [necklace](hāram) [desire](icchanti) [some](kecana)
+[by-tenth+part](daśamāṃśena) [hāra](hāram) [desire](icchanti) [some](kecana)
 
 ## mukta-m0-p67-v1653
-[eight-fists](aṣṭamuṣṭiḥ) [becomes](bhavet) [kuñca](kuñcaḥ) [of-kuñca-eight](kuñceraṣṭau) [but](tu) [puṣkala](puṣkalam)
+[eight+handfuls](aṣṭamuṣṭiḥ) [should-be](bhavet) [kuñca](kuñcaḥ) [eight](aṣṭau) [kuñcas](kuñcaḥ) [indeed](tu) [puṣkala](puṣkalam)
 
 ## mukta-m0-p67-v1654
-[puṣkalas](puṣkalāny) [thus](evaṃ) [full-vessel](pūrṇapātram) [then-they-said](athocire)
+[puṣkalas](puṣkalāni) [thus](evam) [full+vessel](pūrṇapātram) [then](atha) [they-declared](ūcire)
 
 ## mukta-m0-p67-v1655
-[twice-stated](dviṣṭaṃ) [prastha](prasthaṃ) [vessel](pātram) [in-sequence](anukramāt)
+[two+prasthas](dviṣṭaṃ) [prastha](prasthaṃ) [vessel](pātram) [in-order](anukramāt)
 
 ## mukta-m0-p67-v1656
-[becomes-māṣa](bhavenmāṣaḥ) [that-akṣa](te'kṣaḥ) [karṣa](karṣastu) [sixteen](ṣoḍaśa)
+[should-be](bhavet) [māṣa](māṣaḥ) [they](te) [akṣa](akṣaḥ) [karṣa](karṣaḥ) [but](tu) [sixteen](ṣoḍaśa)
 
 ## mukta-m0-p67-v1657
-[definition](paribhāṣā) [this](eṣā) [not-in-āgamas](nāgameṣūpayujyate)
+[definition](paribhāṣā) [this](eṣā) [in-āgamas](nāgameṣu) [is-employed](upayujyate)
 
 ## mukta-m0-p67-v1658
-[that-to-be-taken](tadupādeyam) [thus](iti) [and](ca) [āgama-knowers](āgamavedinaḥ)
+[that](tat) [to-be-adopted](upādeyam) [thus](iti) [and](ca) [āgama+knowers](āgamavedinaḥ)
 
 ## mukta-m0-p67-v1659
-[according-to-homa](homānusārataḥ) [that](tacca) [according-to-desire](kāmanāvaśatastathā)
+[according-to+oblation](homānusārataḥ) [and-that](tat) [and](ca) [according-to+desire](kāmanāvaśataḥ) [likewise](tathā)
 
 ## mukta-m0-p67-v1660
-[in-brief](saṃkṣepāt) [as-scripture](yathāśāstraṃ) [is-declared](prakāśyate)
+[in-brief](saṃkṣepāt) [as+per-scripture](yathāśāstraṃ) [is-explained](prakāśyate)
 
 ## mukta-m0-p67-v1661
-[desiring-that-fruit](tatphalākāṃkṣī) [auspicious-ends](śubhārthasiddhayaḥ) [in-order](kramāt)
+[that+fruit+desiring](tatphalākāṃkṣī) [for-auspicious+purpose+accomplishment](śubhārthasiddhayaḥ) [in-order](kramāt)
 
 ## mukta-m0-p67-v1662
-[in-brief](samāsena) [throat-navel-measurement](kaṇṭhanābhisameṣaṇam) [pit](khalam)
+[in-summary](samāsena) [neck+navel+equal+measurement](kaṇṭhanābhisameṣaṇam) [(khalam)](khalam)
 
 ## mukta-m0-p67-v1663
-[its](tasya) [stated](uktā) [many-faults](bhūridoṣā) [by-experts](viśāradaiḥ)
+[of-that](tasya) [stated](uktāḥ) [many+faults](bhūridoṣāḥ) [by-experts](viśāradaiḥ)
 
 ## mukta-m0-p67-v1664
-[becomes-sick](bhavedrogī) [in-deficient](hīne) [cow-wealth-loss](dhenudhanakṣayaḥ)
+[one-becomes](bhavet) [sick](rogī) [in-deficiency](hīne) [cow+wealth+loss](dhenudhanakṣayaḥ)
 
 ## mukta-m0-p67-v1665
-[grief](śokaḥ) [in-excess](atyadhike) [wealth-loss](vittasaṃkṣayaḥ)
+[sorrow](śokaḥ) [in-excess](atyadhike) [wealth+loss](vittasaṃkṣayaḥ)
 
 ## mukta-m0-p67-v1666
-[offspring-destruction](apatyadhvaṃsanaṃ) [stated](proktaṃ) [kuṇḍa](kuṇḍaṃ) [which-throat-lacking](yatkaṇṭhavarjitam)
+[offspring+destruction](apatyadhvaṃsanaṃ) [declared](proktaṃ) [pit](kuṇḍaṃ) [which](yat) [neck+devoid](kaṇṭhavarjitam)
 
 ## mukta-m0-p67-v1667
-[stated](proktāḥ) [kuṇḍa-faults](kuṇḍadoṣāḥ) [carefully](prayatnataḥ)
+[declared](proktāḥ) [pit+faults](kuṇḍadoṣāḥ) [with-effort](prayatnataḥ)
 
 ## mukta-m0-p67-v1668
-[throat-lacking](kaṇṭhahīne) [there-is-non-success](syādasiddhiḥ) [deficient-girdle](nyūnamekhale)
+[in-neck+absence](kaṇṭhahīne) [should-be](syāt) [non-accomplishment](asiddhiḥ) [in-deficient+girdle](nyūnamekhale)
 
 ## mukta-m0-p67-v1669
-[having-made-first](vidhāyādau) [digging-etc](khananādi) [according-to-rite](vidhānataḥ)
+[having-performed](vidhāya) [at-first](ādau) [digging+etc.](khananādi) [according-to-rule](vidhānataḥ)
 
 ## mukta-m0-p67-v1670
-[purified-stated](śuddhoktaḥ) [proper-making](sāmyakaraṇe) [method](prakāraḥ) [is-devised](kalpyate) [by-me](mayā)
+[pure+stated](śuddhoktaḥ) [in-leveling](sāmyakaraṇe) [method](prakāraḥ) [is-devised](kalpyate) [by-me](mayā)
 
 ## mukta-m0-p67-v1671
-[of-sticks](daṇḍayor) [tip-nearness](agranaikaṭye) [other-slant]('rnyastiryak) [middle-marked](madhyacihnitaḥ)
+[of-two-rods](daṇḍayoḥ) [at-tip+proximity](agranaikaṭye) [placed](arnyaḥ) [crosswise](tiryak) [middle+marked](madhyacihnitaḥ)
 
 ## mukta-m0-p67-v1672
-[its-thread](svasūtram) [not-touching](aspṛśad) [heavy](bhāravad) [guru](gurum)
+[own+thread](svasūtram) [not-touching](aspṛśat) [weight+like](bhāravat) [heavy](gurum)
 
 ## mukta-m0-p67-v1673
-[having-dug](khātvā) [then](tu) [thorn-removal](śalyoddhāraṃ) [then](tu) [should-do](kārayet)
+[one-should-dig](khanet) [that](tat) [should-fill](pūrayet) [other](anyat) [or](vā) [should-lower](nimnayet) [also](api) [with-method](yuktitaḥ)
 
 ## mukta-m0-p67-v1674
-[in-lap](aṅke) [as-far-as-thread-goes](yāvatsūtrameti) [earth-thus](bhūrevaṃ) [levelness](samatāṃ) [goes](vrajet)
+[in-mark](aṅke) [as-long-as](yāvat) [thread](sūtram) [comes](eti) [ground](bhūḥ) [thus](evam) [evenness](samatāṃ) [attains](vrajet)
 
 ## mukta-m0-p67-v1675
-[having-dug](khātvā) [then](tu) [thorn-removal](śalyoddhāraṃ) [then](tu) [should-do](kārayet)
+[having-dug](khātvā) [indeed](tu) [obstacle+removal](śalyoddhāraṃ) [indeed](tu) [one-should-cause](kārayet)

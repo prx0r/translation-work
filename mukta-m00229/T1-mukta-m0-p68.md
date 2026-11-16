@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p68-v1676
-[pot](kalaśaṃ) [filled-with-essential-water](sārāmbuparipūritam)
+[pot](kalaśaṃ) [essence+water+filled](sāra+ambu+paripūritam)
 
 ## mukta-m0-p68-v1677
-[form](saṃsthānaṃ) [as](yathā) [to-be-known](jñeyaṃ) [by-that-water](tadambhasā)
+[position](saṃsthānaṃ) [as](yathā) [to-be-known](jñeyaṃ) [by-that+water](tat+ambhasā)
 
 ## mukta-m0-p68-v1678
-[shelter](śaraṇaṃ) [straight-peg](śaṅkumṛjuṃ) [to-be-established](saṃsthāpyamadhyataḥ)
+[refuge](śaraṇaṃ) [peg](śaṅkum) [straight](ṛjuṃ) [to-be-placed+in-middle](saṃsthāpyam+adhyataḥ)
 
 ## mukta-m0-p68-v1679
-[whence](yatastadvaddadyāccihnaṃ) [mark](cihnaṃ) [of-both](dvayorapi)
+[from-where](yatas) [like-that](tadvat) [should-give](dadyāt) [mark](cihnaṃ) [of-both+also](dvayoḥ+api)
 
 ## mukta-m0-p68-v1680
-[pavilion-etc](maṇḍapādīni) [should-construct](racayedapyatandritaḥ)
+[pavilion+etc.](maṇḍapa+ādīni) [should-arrange](racayet) [not+lazy](api+atandritaḥ)
 
 ## mukta-m0-p68-v1681
-[in-auspicious-day](nakṣatravārarāśīnāmanukūle) [auspicious](śubhe) [day](dine)
+[constellation+weekday+zodiac-signs](nakṣatra+vāra+rāśīnām) [favorable](anukūle) [auspicious](śubhe) [day](dine)
 
 ## mukta-m0-p68-v1682
-[with-sandal-incense-flowers-etc](gandhapuṣpādyairbrāhmaṇān) [brahmins](brāhmaṇān) [well-being](svasti) [should-recite](vācayet)
+[fragrance+flower+etc.](gandha+puṣpa+ādyaiḥ) [brahmins](brāhmaṇān) [hail](svasti) [should-cause-to-recite](vācayet)
 
 ## mukta-m0-p68-v1683
-[thus](tathā) [for-vaishya](vaiśye) [well-being](svasti) [for-shudra](śūdre) [should-employ](prayojayet)
+[likewise](tathā) [for-vaiśya](vaiśye) [hail](svasti) [for-śūdra](śūdre) [should-employ](prayojayet)
 
 ## mukta-m0-p68-v1684
-[sixteen-pillars-joined](ṣoḍaśastambhasaṃyuktaṃ) [four](catvārasteṣu) [among-them-middle](madhyagāḥ)
+[sixteen+pillar+joined](ṣoḍaśa+stambha+saṃyuktaṃ) [four](catvāraḥ) [among-them](teṣu) [middle-situated](madhyagāḥ)
 
 ## mukta-m0-p68-v1685
-[five-cubits-measure](pañcahastapramāṇāste) [those](te) [perforated](vicchidrā) [straight](ṛjavaḥ) [auspicious](śubhāḥ)
+[five+cubit+measure](pañca+hasta+pramāṇāḥ) [they](te) [unbroken](vicchidrāḥ) [straight](ṛjavaḥ) [auspicious](śubhāḥ)
 
 ## mukta-m0-p68-v1686
-[with-coconut-leaves-and-bamboo](nārikeradalairvāṃśaiśchādayettaṃ) [should-cover](chādayettaṃ) [all-around](samantataḥ)
+[coconut+plantain](nārikela+dalaiḥ) [with-bamboos](vāṃśaiḥ) [should-cover](chādayet) [that](taṃ) [on-all-sides](samantataḥ)
 
 ## mukta-m0-p68-v1687
-[by-four-eight-fingers-excess](caturaṣṭāṅgulādhikyāt) [declared](proktaṃ) [of-middle-and-worshipful](madhyamapūjyayoḥ)
+[four+eight+finger+excess](catur+aṣṭa+aṅgula+ādhikyāt) [declared](proktaṃ) [of-middle+and-worshipable](madhyama+pūjyayoḥ)
 
 ## mukta-m0-p68-v1688
-[remembered](smṛtasteṣāṃ) [by-five-six-seven-hands](pañcaṣaṭsaptabhiḥ) [hands](karaiḥ)
+[remembered](smṛtāḥ) [of-them](teṣāṃ) [by-five+six+seven](pañca+ṣaṭ+saptabhiḥ) [cubits](karaiḥ)
 
 ## mukta-m0-p68-v1689
-[for-transverse-wood-placement](tiryakkāṣṭhaniveśārthaṃ) [crest-on-head](mūrdhnicūḍāṃ) [should-place](niveśayet)
+[crosswise+timber+insertion+for-the-sake](tiryak+kāṣṭha+niveśa+artham) [on-head](mūrdhni) [crest](cūḍāṃ) [should-insert](niveśayet)
 
 ## mukta-m0-p68-v1690
-[in-pavilion](maṇḍape) [at-door](dvāre) [pegs-thus](kīlānevaṃ) [should-arrange](prakalpayet)
+[in-pavilion](maṇḍape) [at-door](dvāre) [pegs](kīlān) [thus](evaṃ) [should-arrange](prakalpayet)
 
 ## mukta-m0-p68-v1691
-[by-eastward-order](prāgādikramayogena) [should-place](nyasetteṣāṃ) [good-wood-born](sudārujān)
+[east+etc.+order+connection](prāk+ādi+krama+yogena) [should-place](nyaset) [of-them](teṣāṃ) [good+wood-made](su+dāru+jān)
 
 ## mukta-m0-p68-v1692
-[length](dairghyaṃ) [by-fourth-part](turīyāṃśena) [breadth](vistṛtiḥ)
+[length](dairghyaṃ) [by-fourth+part](turīya+aṃśena) [width](vistṛtiḥ)
 
 ## mukta-m0-p68-v1693
-[and-thus-declared](caivaṃ) [two-fingers](dvyaṅgulaṃ) [should-raise](ropayettathā)
+[and+thus](ca+evaṃ) [declared](samākhyātaṃ) [two+finger](dvi+aṅgulaṃ) [should-plant](ropayet) [likewise](tathā)
 
 ## mukta-m0-p68-v1694
-[should-bind](nibadhnīyāllokapālasamaprabhāḥ) [world-guardian-equal-radiance](lokapālasamaprabhāḥ)
+[should-bind](nibadhnīyāt) [world+guardian+equal+splendor](loka+pāla+sama+prabhāḥ)
 
 ## mukta-m0-p68-v1695
-[fragrant-gem-garland-etc-joined](sugandharatnamālyādiyuktāḥ) [pots](kumbhāḥ) [declared](prakīrttitāḥ)
+[fragrant+jewel+garland+etc.+endowed](sugandha+ratna+mālya+ādi+yuktāḥ) [pots](kumbhāḥ) [proclaimed](prakīrttitāḥ)
 
 ## mukta-m0-p68-v1696
-[of-banner-this](dhvajasyeto) [double](dviguṇaṃ) [measure](mānamucyate)
+[of-banner](dhvajasya) [than-this](itaḥ) [twofold](dviguṇaṃ) [measure](mānam) [is-stated](ucyate)
 
 ## mukta-m0-p68-v1697
-[with-darbha-garland-etc](darbhamālyādyairalaṅkurvītamaṇḍapam) [should-decorate-pavilion](alaṅkurvītamaṇḍapam)
+[grass+garland+etc.](darbha+mālya+ādyaiḥ) [should-adorn](alaṅkurvīta) [pavilion](maṇḍapam)
 
 ## mukta-m0-p68-v1698
-[square](caturasrāṃ) [then](tato) [altar](vedīṃ) [for-mandala](maṇḍalāya) [should-arrange](prakalpayet)
+[square](caturasrāṃ) [then](tataḥ) [altar](vedīṃ) [for-maṇḍala](maṇḍalāya) [should-prepare](prakalpayet)
 
 ## mukta-m0-p68-v1699
-[in-middle-part](madhyāṃśe) [eastward-etc](pūrvādi) [should-arrange](parikalpayet)
+[in-middle+part](madhya+aṃśe) [east+etc.](pūrva+ādi) [should-arrange](parikalpayet)
 
 ## mukta-m0-p68-v1700
-[womb](yonimardhacandraṃ) [half-moon](ardhacandraṃ) [triangle](tryasraṃ) [well-rounded](suvartulam)
+[womb-shape](yonim) [half-moon](ardhacandraṃ) [triangle](tryasraṃ) [well-rounded](suvartulam)
