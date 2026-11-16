@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p349-v8701
-[binding](badhvā) [leading](ānayantīṃ) [with-left](vāmena) [in-right](dakṣe) [golden+staff-holder](kanaka+vetrikām)
+[binding+leading](badhvānayantīṃ) [with-left](vāmena) [in-right](dakṣe) [golden+staff-holder](kanakavetrikām)
 
 ## mukta-m0-p349-v8702
-[mothers](mātṝḥ) [indra-etc.+direction+outside](indra+ādi+dig+bāhye) [their+weapons](tat+astrāṇi) [then](tataḥ) [outside](bahiḥ)
+[mothers](mātṝr) [Indra+etc.+direction+outside](indrādidigbāhye) [their+weapons](tadastrāṇi) [then+outside](tato) [outside](bahiḥ)
 
 ## mukta-m0-p349-v8703
-[thus](itthaṃ) [having-meditated](dhyātvā) [indeed](eva) [whole](sakalaṃ) [universe](viśvaṃ) [subdues](vaśayate) [quickly](acirāt)
+[thus](itthaṃ) [having-meditated](dhyātva) [indeed](eva) [whole](sakalaṃ) [universe](viśvaṃ) [subdues](vaśayate) [quickly](acirāt)
 
 ## mukta-m0-p349-v8704
-[with-three-sweets+smeared](tri+madhu+aktaiḥ) [likewise](tathā) [with-salted-grains](lonaiḥ) [subduing](vaśyāḥ) [kings](bhūpāḥ) [should-offer](hunet) [indeed](tu) [who](yaḥ)
+[with-three-sweets+smeared](trimadhvaktais) [likewise](tathā) [with-salted-grains](lonair) [submissive](vaśyā) [kings](bhūpā) [should-offer](hunettu) [who](yaḥ)
 
 ## mukta-m0-p349-v8705
-[by-this](anayā) [by-vidyā](vidyayā) [ghee](sarppiḥ) [oblation](homaḥ) [gold-giving](kāñcana+daḥ) [considered](mataḥ)
+[by-this](anayā) [by-vidyā](vidyayā) [ghee](sarppir) [oblation](homaḥ) [gold-giving](kāñcanado) [considered](mataḥ)
 
 ## mukta-m0-p349-v8706
-[by-previously+mentioned](pūrva+uktena) [indeed](eva) [by-oblation](homena) [woman](nārīm) [one-should-attract](ākarṣayet) [certainly](dhruvam)
+[by-previously+mentioned](pūrvoktena) [indeed](eva) [by-oblation](homena) [woman](nārīm) [one-should-attract](ākarṣayet) [certainly](dhruvam)
 
 ## mukta-m0-p349-v8707
-[with-six+long](ṣaṭ+dīrgha) [with-māyā](māyayā) [indeed](eva) [its](asya) [six-limb+procedure](ṣaḍ+aṅga+vidhiḥ) [declared](īritaḥ)
+[with-six+long](ṣaḍdīrgha) [with-māyā](māyayā) [indeed](eva) [of-this](asya) [six-limb+procedure](ṣaḍaṅgavidhir) [declared](īritaḥ)
 
 ## mukta-m0-p349-v8708
-[with-two+earth+earth+three+arrow+pairs](dvi+bhū+bhū+trī+ṣu+yugmaiḥ) [and](ca) [six-limb+procedure](ṣaḍ+aṅga+vidhiḥ) [declared](īritaḥ)
+[with-dvi+bhū+bhū+tri+five+pairs](dvibhūbhūtrīṣuyugmaiś) [and](ca) [six-limb+procedure](ṣaḍaṅgavidhir) [declared](īritaḥ)
 
 ## mukta-m0-p349-v8709
-[indra-etc.+outer+enclosure](indra+ādi+bāhya+āvaraṇe) [declared](proktaḥ) [of-brāhmī-etc.](brāhmyāḥ) [procedure](vidhiḥ) [but](tu) [this](ayam)
+[Indra+etc.+outside+enclosure](indrādibāhyāvaraṇe) [declared](prokto) [of-Brāhmī+etc.](brāhmyā) [procedure](vidhis) [but](tu) [this](ayam)
 
 ## mukta-m0-p349-v8710
-[oṃ](oṃ) [hrīṃ](hrīṃ) [namaḥ](namo) [bhagavati](bhagavati) [māheśvaryi](māheśvaryyehi) [come](ehi) [one-should-address](saṃvadet)
+[oṃ](oṃ) [hrīṃ](hrīṃ) [namo](namo) [bhagavati](bhagavati) [māheśvaryyehi](māheśvaryyehi) [one-should-speak](saṃvadet)
 
 ## mukta-m0-p349-v8711
-[beginning-with-tāra](tāra+ādiḥ) [twenty-one+syllabled](eka+viṃśa+arṇaḥ) [horse-mounted](aśva+ārūḍhā) [another](avat) [supreme](paraṃ) [considered](matam)
+[beginning-with-tārā](tārādi) [twenty-one+syllabled](rekaviṃśārṇo) [horse-mounted+like](aśvārūḍhāvat) [another](paraṃ) [considered](matam)
 
 ## mukta-m0-p349-v8712
-[holding](dadhatīṃ) [trident+drum](śūla+ḍamaruṃ) [great+snake+braceleted](mahā+ahi+valayāṃ) [I-worship](bhaje)
+[holding](dadhatīṃ) [trident+drum](śūlaḍamaruṃ) [great+snake+braceleted](mahāhivalayāṃ) [I-worship](bhaje)
 
 ## mukta-m0-p349-v8713
-[one-should-offer](juhuyāt) [its+tenth-part](tat+daśāṃśena) [supreme+sovereignty+possessing](parama+aiśvaryya+vān) [becomes](bhavet)
+[one-should-offer](juhuyāt) [its+tenth-part](taddaśāṃśena) [supreme+sovereignty+possessing](paramaiśvaryyavān) [one-becomes](bhavet)
 
 ## mukta-m0-p349-v8714
-[first](ādau) [bālā](bālāṃ) [then](tathā) [śakti](śaktiṃ) [nityaklinnā](nitya+klinnā) [fire-dwelling](agni+vāsinīm)
+[at-first](ādau) [Bālā](bālāṃ) [then](tathā) [Śakti](śaktiṃ) [Nityaklinnā](nityaklinnā) [Agnivāsinī](agnivāsinīm)
 
 ## mukta-m0-p349-v8715
-[vajreśvarī](vajreśvarīṃ) [and](ca) [tvaritā](tvaritāṃ) [śivadūtī](śivadūtīṃ) [trikaṇṭikā](trikaṇṭikām)
+[Vajreśvarī](vajreśvarīṃ) [and](ca) [Tvaritā](tvaritāṃ) [Śivadūtī](śivadūtīṃ) [Trikaṇṭikā](trikaṇṭikām)
 
 ## mukta-m0-p349-v8716
-[then](tataḥ) [direction-guardians](dik+pān) [their+weapons](tat+astrāṇi) [and](ca) [thus](itthaṃ) [māheśvarī](māheśvarī) [considered](matā)
+[then](tato) [direction+guardians](dikpāṃs) [their+weapons](tadastrāṇi) [and](ca) [thus](itthaṃ) [Māheśvarī](māheśvarī) [considered](matā)
 
 ## mukta-m0-p349-v8717
-[speech+desire+sauḥ+three-seeds](vāk+kāma+sauḥ+tri+bījāni) [sauḥ](sauḥ) [klīṃ](klīṃ) [aiṃ](aiṃ) [and](ca) [again](punaḥ) [should-recite](paṭhet)
+[speech+desire+sau](vākkāmasaus) [tri+bījas](tribījāni) [sauḥ](sauḥ) [klīṃ](klīṃ) [aiṃ](aiṃ) [and](ca) [again](punaḥ) [one-should-recite](paṭhet)
 
 ## mukta-m0-p349-v8718
-[gāyatrī](gāyatrī) [metre](chandaḥ) [declared](uddiṣṭaṃ) [goddess](devī) [tripurabālikā](tripura+bālikā)
+[gāyatrī](gāyatrī) [meter](chanda) [stated](uddiṣṭaṃ) [deity](devī) [Tripurabālikā](tripurabālikā)
 
 ## mukta-m0-p349-v8719
-[red](raktā) [three-eyed](tri+akṣā) [moon+forehead](candra+bhālā) [to-be-meditated](dhyeyā) [bālā](bālā) [god+worshipped](sura+arcitā)
+[red](raktā) [three-eyed](tryakṣā) [moon+foreheaded](candrabhālā) [to-be-meditated](dhyeyā) [Bālā](bālā) [god+worshipped](surārcitā)
 
 ## mukta-m0-p349-v8720
-[should-repeat](japet) [hundred-thousand](lakṣaṃ) [by-tenth-part](daśāṃśena) [oblation](homaḥ) [with-flowers](puṣpaiḥ) [oleander+born](haya+ārijaiḥ)
+[one-should-recite](japet) [hundred-thousand](lakṣaṃ) [by-tenth-part](daśāṃśena) [oblation](homaḥ) [with-flowers](puṣpair) [enemy+born](hayārijaiḥ)
 
 ## mukta-m0-p349-v8721
-[with-prabhā-etc.](prabhā+ādibhiḥ) [with-direction-lords+weapons](dig+īśa+astraiḥ) [application](prayogaḥ) [as-before](pūrva+vat) [considered](mataḥ)
+[with-Prabhā+etc.](prabhādibhir) [direction-lord+weapons](digīśāstraiḥ) [application](prayogaḥ) [as-before](pūrvavat) [considered](mataḥ)
 
 ## mukta-m0-p349-v8722
-[meditation+worship+etc.](dhyāna+pūjā+ādikaṃ) [all](sarvaṃ) [previously+stated](pūrva+prokta) [six-syllable+like](ṣaḍ+arṇa+vat)
+[meditation+worship+etc.](dhyānapūjādikaṃ) [all](sarvaṃ) [previously+stated](pūrvaprokta) [six-syllabled+like](ṣaḍarṇavat)
 
 ## mukta-m0-p349-v8723
-[bālatripure](bālatripure) [svāhā](svāheti) [ten-syllabled](daśa+arṇaḥ) [another](anyaḥ) [and](ca) [as-before](pūrva+vat)
+[bāla-tripure](bālatripure) [svāhā+thus](svāheti) [ten-syllabled](daśārṇo) [other](anya) [and](c) [as-before](pūrvavat)
 
 ## mukta-m0-p349-v8724
-[then](tataḥ) [and](ca) [bāle](bāle) [tripure](tripure) [siddhi](siddhiṃ) [give](dehi) [salutation](namaḥ) [to-you](tu) [thus](iti)
+[then](tataś) [and](ca) [bāle](bāle) [tripure](tripure) [siddhiṃ](siddhiṃ) [dehi](dehi) [namas](namas) [to-you+thus](tviti)
 
 ## mukta-m0-p349-v8725
-[applications](prayogāḥ) [and](ca) [here](atra) [succeed](sidhyanti) [three-syllable+stated](tri+varṇa+uktāḥ) [likewise](tathā) [all](akhilāḥ)
+[applications](prayogāś) [and](ca) [here](atra) [succeed](sidhyanti) [by-three-syllable+stated](trivarṇoktās) [likewise](tathā) [all](akhilāḥ)
