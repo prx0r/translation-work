@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p109-v2701
-[of-god](deva) [+](+) [of-demon](rakṣaḥ) [+](+) [of-king](rāja) [+](+) [of-people](loka) [+](+) [of-serpent](sarpa) [+](+) [of-woman](strī) [+](+) [of-horse](haya) [+](+) [of-elephant](hastinām)
+[of-gods+protectors+kings+worlds+serpents+women+horses+elephants](devarakṣorājalokasarpastrīhayahastinām)
 
 ## mukta-m0-p109-v2702
-[having-fashioned](nirmāya) [to-be-controlled](vaśyam) [+](+) [east](pūrva) [+](+) [facing](mukhaḥ) [one-should-act](caret)
+[having-created](nirmāya) [subjugation](vaśyam) [facing-east](pūrvamukhaḥ) [should-practice](caret)
 
 ## mukta-m0-p109-v2703
-[of-those-two](tayoḥ) [svastika](svastika) [+](+) [seat](āsanam) [having-mounted](āruhya) [svāhā](svāhā) [+](+) [ending](antaṃ) [mantra](mantram) [one-should-utter](uccaret)
+[of-those-two](tayoḥ) [svastika-posture](svastikāsanam) [having-ascended](āruhya) [with-svāhā-ending](svāhāntam) [mantra](mantram) [should-recite](uccaret)
 
 ## mukta-m0-p109-v2704
-[paralysis](stambham) [I-shall-declare](pravakṣyāmi) [that](tat) [+](+) [effort](udyoga) [+](+) [prevention](nivāraṇam)
+[pillar](stambham) [I-will-declare](pravakṣyāmi) [that](tad) [effort-prevention](udyoganivāraṇam)
 
 ## mukta-m0-p109-v2705
-[and](ca) [of-army](sainyasya) [of-enraged](kruddhasya) [of-poison](viṣa) [+](+) [of-fanged-one](daṃṣṭriṇaḥ)
+[and](ca) [of-army](sainyasya) [angry](kruddhasya) [poison-fanged](viṣadaṃṣṭriṇaḥ)
 
 ## mukta-m0-p109-v2706
-[having-gone](gatvā) [of-paralysis](stambhanasya) [rite](kriyāṃ) [one-should-perform](caret)
+[having-gone](gatvā) [of-stambhana](stambhanasya) [rite](kriyām) [should-practice](caret)
 
 ## mukta-m0-p109-v2707
-[by-nose](nāsā) [+](+) [by-staff](daṇḍena) [joined](saṃlagno) [air](vāyuḥ) [if](ced) [earth](bhū) [+](+) [arising](udayo) [should-be](bhavet)
+[by-nose-stick](nāsādaṇḍena) [joined](saṃlagno) [if-wind](vāyuśced) [earth-etc](bhūdayo) [would-be](bhavet)
 
 ## mukta-m0-p109-v2708
-[in-yellow](pīte) [in-circle](maṇḍale) [her](tāṃ) [one-should-worship](samarcayet)
+[in-yellow](pīte) [circle](maṇḍale) [her](tām) [should-worship](samarcayet)
 
 ## mukta-m0-p109-v2709
-[in-middle](madhyame) [again](bhūyaḥ) [joined](saṃlagne) [well-extended](suprasārite) [one-should-display](pradarśayet)
+[in-middle](madhyame) [again](bhūyaḥ) [joined](saṃlagne) [well-spread](suprasārite) [should-show](pradarśayet)
 
 ## mukta-m0-p109-v2710
-[elephant](gaja) [+](+) [skin](carma) [+](+) [seat](āsanaṃ) [in-paralysis](stambhe) [mace](gadā) [+](+) [gesture](mudrā) [+](+) [in-offering](āhutau) [likewise](tathā)
+[elephant-skin-seat](gajacarmāsanaṃ) [pillar](stambhe) [mace-mudra](gadāmudrā) [offering](hutau) [and](tathā)
 
 ## mukta-m0-p109-v2711
-[Bharaṇī](bharaṇī) [Citrā](citrā) [Rohiṇī](rohiṇī) [and](ca) [northern](uttarā) [+](+) [triad](trayam)
+[bharani](bharaṇī) [citra](citrā) [rohini](rohiṇī) [and](ca) [uttara-triad](uttarātrayam)
 
 ## mukta-m0-p109-v2712
-[enmity](vidveṣaṇaṃ) [of-day](ghasra) [+](+) [its](asya) [+](+) [in-part](aṃśake) [but](tu) [in-second](dvitīyake)
+[hostility](vidveṣaṇaṃ) [in-ghasra-portion](ghasrasyāṃśake) [but](tu) [second](dvitīyake)
 
 ## mukta-m0-p109-v2713
-[of-hands](hastayoḥ) [+](+) [fist](muṣṭi) [+](+) [pair](yugalaṃ) [one-should-make](kuryāt) [that](sā) [obstacle](vighna) [+](+) [destroying](nāśinī) [should-be](bhavet)
+[of-hands](hastayoḥ) [pair-of-fists](muṣṭiyugalaṃ) [should-make](kuryāt) [that](sā) [obstacle-destroying](vighnanāśinī) [would-be](bhavet)
 
 ## mukta-m0-p109-v2714
 [or](vā)
 
 ## mukta-m0-p109-v2715
-[Ārdrā](ārdrā) [+](+) [quartet](catuṣṭayaṃ) [Mūla](mūlaṃ) [Jyeṣṭhā](jyeṣṭhā) [in-enmity](vidveṣaṇe) [considered](matā)
+[ārdrā-quartet](ārdrācatuṣṭayaṃ) [root](mūlaṃ) [jyeṣṭhā](jyeṣṭhā) [in-hostility](vidveṣaṇe) [considered](matā)
 
 ## mukta-m0-p109-v2716
-[recommended](śastā) [in-third](tṛtīyā) [+](+) [in-part](aṃśe) [of-day](dinasya) [that](tat)
+[auspicious](śastā) [third-portion](tṛtīyāśe) [of-day](dinasya) [that](tat)
 
 ## mukta-m0-p109-v2717
-[of-enemy](śatroḥ) [+](+) [eradication](uccāṭanaṃ) [one-should-do](kuryāt) [whom](yaṃ) [with-seed](bījena) [him](tam) [one-should-worship](arcayet)
+[of-enemy](śatror) [uccāṭana](uccāṭanaṃ) [should-do](kuryād) [which](yaṃ) [by-seed](bījena) [him](tam) [should-worship](arcayet)
 
 ## mukta-m0-p109-v2718
-[deer](mṛga) [+](+) [skin](carma) [+](+) [etcetera](ādikaṃ) [there](tatra) [of-wind](vāyavyasya) [and](ca) [in-rite](karmaṇi)
+[deer-skin-etc](mṛgacarmādikaṃ) [there](tatra) [of-vāyavya](vāyavyasya) [and](ca) [rite](karmaṇi)
 
 ## mukta-m0-p109-v2719
-[mantra](manuḥ)
+[manu](manuḥ)
 
 ## mukta-m0-p109-v2720
-[one-should-avoid](varjayet) [+](+) [brahmins](viprān) [+](+) [others](anyān) [+](+) [and](ca) [+](+) [also](api) [very-righteous](sudhārmikān)
+[should-avoid](varjayed) [brahmins](viprān) [others](anyāṃś) [and](cāpi) [very-righteous](sudhārmikān)
 
 ## mukta-m0-p109-v2721
-[protection](rakṣā) [+](+) [for-sake](arthaṃ) [but](tu) [then](tadā) [one-should-remove](haret)
+[for-protection](rakṣārthaṃ) [then](tu) [that](tadā) [should-take](haret)
 
 ## mukta-m0-p109-v2722
-[and](ca) [to-be-done](kartavyaṃ) [O-goddess](devi) [that](tat) [+](+) [fault](doṣa) [+](+) [for-pacification](śāntaye)
+[and](ca) [should-be-done](kartavyaṃ) [goddess](devi) [that](tad) [fault-appeasement](doṣaśāntaye)
 
 ## mukta-m0-p109-v2723
-[with-black](kṛṣṇa) [+](+) [with-sesame](tilaiḥ) [+](+) [or](vā) [with-ghee](ghṛta) [+](+) [mixed](saṃyutaiḥ)
+[with-black-sesame](kṛṣṇatilair) [or](vā) [with-ghee-mixed](ghṛtasaṃyutaiḥ)
 
 ## mukta-m0-p109-v2724
-[sixth](ṣaṣṭhaḥ) [+](+) [part](aṃśaḥ) [in-autumn](śaran) [+](+) [killing](māraṇa) [+](+) [in-rite](karmaṇi)
+[sixth-portion](ṣaṣṭhoṃśaḥ) [veti-remainder](veti śeṣaḥ) [in-autumn-killing-rite](śaranmāraṇakarmaṇi)
 
 ## mukta-m0-p109-v2725
-[south](dakṣiṇa) [+](+) [facing](abhimukhaḥ) [one-should-do](kuryāt) [+](+) [Bhadrakālī](bhadrakālīṃ) [one-should-worship](samarcayet)
+[facing-south](dakṣiṇābhimukhaḥ) [should-do](kuryāt) [bhadra-kali](bhadrakālīṃ) [should-worship](samarcayet)

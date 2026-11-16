@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p06-v126
-[honey-mixture](madhuparka) [sipping](ācamana) [bathing](snāna) [garment](vasana) [and-ornaments](ābharaṇāni) [and](ca)
+[madhu-parka](madhuparkā) [ācamana](camana) [snāna](snāna) [vasana](vasana) [ābharaṇāni](ābharaṇāni) [ca](ca)
 
 ## mukta-m0-p06-v127
-[one-should-employ](prayojayet) [in-its-worship](tadarcāyām) [services](upacārān) [indeed](tu) [sixteen](ṣoḍaśa)
+[prayojayet](prayojayet) [tad-arcāyām](tadarcāyām) [upacārān](upacārāṃs) [tu](tu) [ṣoḍaśa](ṣoḍaśa)
 
 ## mukta-m0-p06-v128
-[beginning-with-fragrance](gandha+ādikā) [ending-with-food-offering](naivedya+antā) [worship](pūjā) [consisting-of-five-services](pañca+upacārikā)
+[gandha-ādikā](gandhādikā) [naivedya-antā](naivedyāntā) [pūjā](pūjā) [pañca-upacārikā](pañcopacārikā)
 
 ## mukta-m0-p06-v129
-[mentally](manasā) [worshipped](ārādhitam) [having-meditated](dhyātvā) [through-left-nostril](vāma+nāsā+puṭena) [indeed](tu)
+[manasā-ārādhitaṃ](manasārādhitaṃ) [dhyātvā](dhyātvā) [vāma-nāsā-puṭena](vāmanāsāpuṭena) [tu](tu)
 
 ## mukta-m0-p06-v130
-[with-the-heart](hṛdayena) [then](atha) [with-mantra](mantreṇa) [having-imagined](kalpayitvā) [indeed](tu) [presence](sannidhim)
+[hṛdayena](hṛdayena) [atha](atha) [mantreṇa](mantreṇa) [kalpayitvā](kalpayitvā) [tu](tu) [sannidhim](sannidhim)
 
 ## mukta-m0-p06-v131
-[with-praṇava](praṇavena) [facing](ābhimukhyam) [and](ca) [having-made](kṛtvā) [placement](nyāsam) [having-performed](vidhāya) [and](ca)
+[praṇavena](praṇavena) [abhimukhyaṃ](abhimukhyaṃ) [ca](ca) [kṛtvā](kṛtvā) [nyāsaṃ](nyāsaṃ) [vidhāya](vidhāya) [ca](ca)
 
 ## mukta-m0-p06-v132
-[water-for-feet](pādyam) [and](ca) [on-the-feet](pādayoḥ) [one-should-give](dadyāt) [water-for-hands](arghyam) [on-the-head](śirasi) [is-given](dīyate)
+[pādyaṃ](pādyaṃ) [ca](ca) [pādayoḥ](pādayoḥ) [dadyāt](dadyāt) [arghyaṃ](arghyaṃ) [śirasi](śirasi) [dīyate](dīyate)
 
 ## mukta-m0-p06-v133
-[again](punaḥ) [sipping-water](ācamanam) [in-the-mouth](vaktre) [one-should-give](dadyāt) [skilled-in-mantras](mantra+viśāradaḥ)
+[punar-ācamanaṃ](punarācamanaṃ) [vaktre](vaktre) [dadyāt](dadyāt) [mantra-viśāradaḥ](mantraviśāradaḥ)
 
 ## mukta-m0-p06-v134
-[beginning-with-praṇava](praṇava+ādi) [ending-with-namas](namaḥ+antena) [with-mantra](mantreṇa) [with-this](anena) [joined](saṃyutaḥ)
+[praṇava-ādi-namo-antena](praṇavādinamo'ntena) [mantreṇa](mantreṇa) [anena](anena) [saṃyutaḥ](saṃyutaḥ)
 
 ## mukta-m0-p06-v135
-[water-for-feet](pādya) [water-for-hands](arghya) [and-sipping-water](ācamanīyāni) [one-should-give](dadyāt) [these](etāni) [teacher](deśikaḥ)
+[pādya-arghya-ācamanīyāni](pādyārghyācamanīyāni) [dadyāt](dadyāt) [etāni](etāni) [deśikaḥ](deśikaḥ)
 
 ## mukta-m0-p06-v136
-[in-the-maṇḍala-etc.](maṇḍala+ādau) [likewise](tathā) [having-sipped](ācamya) [in-order](kramataḥ) [of-that](tasya) [intended](vivakṣitaḥ)
+[maṇḍala-ādau](maṇḍalādau) [tathā](tathā) [ācamya](ācamya) [kramaḥ](kramaḥ) [tasya](tasya) [vivakṣitaḥ](vivakṣitaḥ)
 
 ## mukta-m0-p06-v137
-[on-the-sacrificial-ground](yāga+bhūmi+gate) [O-god](deva) [the-far-and-near-shores](pārāvārān) [indeed](tu) [one-should-remember](saṃsmaret)
+[yāga-bhūmi-gate](yāgabhūmigate) [deva](deva) [pāra-avārān](pārāvārāṃs) [tu](tu) [saṃsmaret](saṃsmaret)
 
 ## mukta-m0-p06-v138
-[granting-enjoyment-and-liberation](bhukti+mukti+pradam) [god](devam) [with-serene-face-and-eyes](prasanna+vadana+īkṣaṇam)
+[bhukti-mukti-pradaṃ](bhuktimuktipradaṃ) [devaṃ](devaṃ) [prasanna-vadana-īkṣaṇam](prasannavadanekṣaṇam)
 
 ## mukta-m0-p06-v139
-[dismissal](visarjanam) [when](yadā) [elsewhere](anyatra) [turning-away](vimukhya) [water-offering](arghyam) [then](tadā) [one-should-give](dadet)
+[visarjanaṃ](visarjanaṃ) [yadā](yadā) [anyatra](anyatra) [vimukhya-arghyaṃ](vimukhyārghyaṃ) [tadā](tadā) [dadet](dadet)
 
 ## mukta-m0-p06-v140
-[by-teachers](ācāryaiḥ) [indeed](tu) [then](tataḥ) [elsewhere](anyatra) [anywhere](kvacit) [not](na) [desired](iṣṭam) [dismissal](visarjanam)
+[ācāryaiḥ](ācāryaiḥ) [tu](tu) [tataḥ](tataḥ) [anyatra](anyatra) [kvacit](kvacit) [na](na) [iṣṭaṃ](iṣṭaṃ) [visarjanaṃ](visarjanam)
 
 ## mukta-m0-p06-v141
-[according-to-ability](yathā+śakti) [recitation](japam) [having-done](kṛtvā) [three-breath-controls](prāṇāyāma+trayam) [likewise](tathā)
+[yathā-śakti](yathāśakti) [japaṃ](japaṃ) [kṛtvā](kṛtvā) [prāṇāyāma-trayaṃ](prāṇāyāmatrayaṃ) [tathā](tathā)
 
 ## mukta-m0-p06-v142
-[at-time-of-recitation](japa+kāle) [when](yadā) [one-may-see](paśyet) [impure](aśuciḥ) [best-of-mantra-knowers](mantra+vit+tamaḥ)
+[japa-kāle](japakāle) [yadā](yadā) [paśyet](paśyet) [aśuciḥ](aśuciḥ) [mantra-vittamaḥ](mantravittamaḥ)
 
 ## mukta-m0-p06-v143
-[and-when](yadā) [and](ca) [indeed](eva) [may-recite](japet) [mantra-practitioner](mantrī) [himself](svayam) [of-him](asya) [pure](śuciḥ) [again](punaḥ)
+[yadā](yadā) [ca](ca) [eva](eva) [japet](japet) [mantrī](mantrī) [svayam](svayam) [asya](asya) [śuciḥ](śuciḥ) [punaḥ](punaḥ)
 
 ## mukta-m0-p06-v144
-[preliminary-practices](puraścaraṇakāni) [here](iha) [these](etāni) [I-shall-tell](kathayāmi) [now](ataḥ)
+[puraścaraṇa-kāni](puraścaraṇakāni) [iha](iha) [etāni](etāni) [kathayāmi](kathayāmi) [ataḥ](ataḥ)
 
 ## mukta-m0-p06-v145
-[by-day](divā) [and](ca) [indeed](eva) [recitation](japam) [one-should-do](kuryāt) [performing-preliminary-practice](puraścaraṇikaḥ) [twice-born](dvijaḥ)
+[divā](divā) [ca](ca) [eva](eva) [japaṃ](japaṃ) [kuryāt](kuryāt) [puraścaraṇikaḥ](puraścaraṇikaḥ) [dvijaḥ](dvijaḥ)
 
 ## mukta-m0-p06-v146
-[with-curd](dadhnā) [with-roots](mūlaiḥ) [or-with-fruits](phalaiḥ) [or](vā) [api](api) [one-should-make](kuryāt) [eating](aśanam) [daily](anvaham)
+[dadhnā](dadhnā) [mūlaiḥ](mūlaiḥ) [phalaiḥ](phalaiḥ) [vā](vā) [api](api) [kuryāt](kuryāt) [aśanaṃ](aśanaṃ) [anvaham](anvaham)
 
 ## mukta-m0-p06-v147
-[in-the-forenoon](pūrvāhne) [of-the-deity](devatāyāḥ) [and](ca) [worship](pūjām) [one-should-do](kuryāt) [especially](viśeṣataḥ)
+[pūrvāhne](pūrvāhne) [devatāyāḥ](devatāyāḥ) [ca](ca) [pūjāṃ](pūjāṃ) [kuryāt](kuryāt) [viśeṣataḥ](viśeṣataḥ)
 
 ## mukta-m0-p06-v148
-[earlier](pūrvam) [earlier](pūrvam) [commended](praśastam) [should-be](syāt) [eating](aśanam) [in-mantra-accomplishment](mantra+sādhane)
+[pūrvaṃ](pūrvaṃ) [pūrvaṃ](pūrvaṃ) [praśastaṃ](praśastaṃ) [syāt](syāt) [aśanaṃ](aśanaṃ) [mantra-sādhane](mantrasādhane)
 
 ## mukta-m0-p06-v149
-[with-undivided-mind](ananya+cetāḥ) [seated](āsīnaḥ) [restrained-in-speech](vāgyataḥ) [on-prescribed-seat](vihita+āsanaḥ)
+[ananya-cetāḥ](ananyacetāḥ) [āsīnaḥ](āsīnaḥ) [vāgyataḥ](vāgyataḥ) [vihita-āsanaḥ](vihitāsanaḥ)
 
 ## mukta-m0-p06-v150
-[sacred-field](kṣetram) [holy-place](tīrtham) [forest](vana) [garden](ārāma) [temple](deva+ālaya) [river](nadī) [and-lakes](hradāḥ)
+[kṣetraṃ](kṣetraṃ) [tīrthaṃ](tīrthaṃ) [vana-ārāma](vana-ārāma) [deva-ālaya](deva-ālaya) [nadī](nadī) [hradāḥ](hradāḥ)

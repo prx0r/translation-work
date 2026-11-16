@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p02-v26
-[which](yātat) [that](tat) [system](tantraṃ) [meru-named](meru+sañjñitam)
+[that-which-is-called](yātantattantraṃ) [meru-named](merusañjñitam)
 
 ## mukta-m0-p02-v27
-[own](nija) [doubt](sandeha) [removing](andūrīkurvantaḥ) [doubting-ones](śaṅkitāḥ)
+[own-doubts](nijasandehāndūrīkurvantaśaṅkitāḥ)
 
 ## mukta-m0-p02-v28
-[field](kṣatra) [wind](vāyuḥ) [that](taṃ) [drop-form](bindu+rūpaṃ) [makes](karoti) [and](ca)
+[warrior-wind](kṣatravāyustaṃ) [bindu-form](bindurūpaṃ) [makes](karoti) [and](ca)
 
 ## mukta-m0-p02-v29
-[split](sambhinnāḥ) [they](te) [god](devaḥ) [crore](koṭi) [splendor-being](śobhā+van)
+[scattered](sambhinnāste) [god](devaḥ) [million-beautiful](koṭiśobhavan)
 
 ## mukta-m0-p02-v30
-[likewise](tathaiva) [worship](upāsanā) [path](mārga) [qualities](guṇāḥ) [go](yānti) [and](ca) [to-deity](devatām)
+[thus-also](tathaivopāsanāmārgaguṇā) [go](yānti) [ca](ca) [deity](devatām)
 
 ## mukta-m0-p02-v31
-[far-bottomed](dūra+talaḥ) [may-be](syāt) [indeed](vai) [like-that](tadvat) [god](devaḥ) [also](api) [deluded](mohitaḥ)
+[from-far](dūratalaḥ) [may-be](syādvai) [thus](tadvaddevo'pi) [deluded](mohitaḥ)
 
 ## mukta-m0-p02-v32
-[placed](nyastaḥ) [again](punar) [rain](vṛṣṭiḥ) [again](punar) [water](jalam)
+[placed](nyastaḥ) [again-rain](punarvṛṣṭiḥ) [again-water](punarjalam)
 
 ## mukta-m0-p02-v33
-[from-good-path](sanmārgāt) [from-river](taṭinītaḥ) [to-great-river](mahā+nadīm)
+[from-good-path](sanmārgāttaṭinīto) [great-river](mahānadīm)
 
 ## mukta-m0-p02-v34
-[in-submarine-fire-belly](vāḍava+udara) [entrance](saṃveśāt) [like-that](tadvat) [soul](jīvaḥ) [also](api) [to-deity](devatām)
+[from-vadava-belly](vāḍavodarasaṃveśāttadvajjīvo'pi) [deity](devatām)
 
 ## mukta-m0-p02-v35
-[from-ocean](samudrāt) [brought-up](āhṛtaḥ) [someone](kaṃścit) [by-fate](daivāt) [abandoned](tyaktaḥ) [but](tu) [there](tatra) [indeed](tu)
+[from-ocean-taken](samudrādāhṛtaḥ) [some](kaṃściddaivāttyaktastu) [there](tatra) [tu](tu)
 
 ## mukta-m0-p02-v36
-[by-brahman-knowledge](brahma+jñānāt) [fully-liberated](vinirmuktāḥ) [having-abandoned](hitvā) [and](ca) [worship](upāsanā) [course](kramam)
+[from-brahma-knowledge](brahmajñānādvinirmuktā) [abandoning](hitvā) [ca](ca) [worship-order](upāsanākramam)
 
 ## mukta-m0-p02-v37
-[there](tatra) [there](tatra) [in-praise](praśaṃstikā)
+[there](tatra) [there](tatra) [praising](praśaṃstikā)
 
 ## mukta-m0-p02-v38
-[and](ca) [all](sarvāḥ) [indeed](asi) [best-of-the-best](uttama+uttamā)
+[ca](ca) [all-excellent](sarvāśyastūttamottamā)
 
 ## mukta-m0-p02-v39
-[arisen](samutpannā) [liquor](surā) [pitcher-holding](kalaśa+dhariṇī)
+[arisen](samutpannā) [surā](surā) [pitcher-bearing](kalaśadhariṇī)
 
 ## mukta-m0-p02-v40
-[goddess](devī) [of-three-worlds](trailokyasya) [also](api) [enchantress](mohinī)
+[goddess](devī) [of-three-worlds](trailokyasyāpi) [deluding](mohinī)
 
 ## mukta-m0-p02-v41
-[them](tān) [seized](jagṛhuḥ) [her](tasyāḥ) [from-pitcher](kalaśāt) [and](ca) [drank](papuḥ) [liquor](surām)
+[they-took](tāñjagṛhustasyāḥ) [from-pitcher](kalaśācca) [drank](papuḥ) [surā](surām)
 
 ## mukta-m0-p02-v42
-[enjoyment-and-liberation](bhukti+mukti) [sole-receptacle](eka+bhājanam)
+[enjoyment-liberation-single-vessel](bhuktimuktyekabhājanam)
 
 ## mukta-m0-p02-v43
-[Revā](revā) [liquor](surā) [indeed](eva) [supreme-abode](paramam+padam)
+[revā](revā) [surā-eva](suraiva) [supreme-abode](paramampadam)
 
 ## mukta-m0-p02-v44
-[being-praised](stūyamānāḥ) [those](tāḥ) [powers](śaktyaḥ) [they](te) [and](ca) [demons](dānavāḥ)
+[being-praised](stūyamānāstāśśaktyaste) [ca](ca) [demons](dānavāḥ)
 
 ## mukta-m0-p02-v45
-[Dhanvantari](dhandhantariḥ) [arrived](samāyātaḥ) [nectar-pitcher](sudhā+kalaśa) [hand-holding](hasta+vān)
+[dhandhantari-arrived](dhandhantarissamāyātassudhākalaśahastavān)
 
 ## mukta-m0-p02-v46
-[Viṣṇu](viṣṇuḥ) [pacifying](sāntvayan) [and](ca) [deceiving](pratārayan)
+[viṣṇu-consoling](viṣṇussāntvayaṃśca) [deceiving](pratārayan)
 
 ## mukta-m0-p02-v47
-[essenceless](nissāram) [by-men-taken](puruṣa+āhṛtam)
+[essenceless](nissārampuruṣāhṛtam)
 
 ## mukta-m0-p02-v48
-[Śukrācārya](śukrācāryaḥ) [knew](jñātavān) [that](tat) [entire](samagram)
+[śukra-ācārya](śukrācāryo) [knew](jñātavāṃstatsamagram)
 
 ## mukta-m0-p02-v49
-[fie-fie](dhik+dhik) [knowledge](jñānaṃ) [of-god-enemies](sura+arīṇām) [by-this](anayā) [by-liquor](surayā) [taken-away](hṛtam)
+[shame-shame](dhigdhigjñānaṃ) [of-demons](surārīṇāmanayā) [by-surā](surayā) [stolen](hṛtam)
 
 ## mukta-m0-p02-v50
-[terrible](ghoraṃ) [let-them-remain](tiṣṭhantu) [here](iha) [like-ghouls](piśāca+vat)
+[terrible](ghoraṃ) [let-stand](tiṣṭhantviha) [like-piśāca](piśācavat)

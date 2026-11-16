@@ -5,73 +5,73 @@
 [pleasing](rucikaraṃ) [fragrant](sāmodaṃ) [and](ca) [charming](manoharam)
 
 ## mukta-m0-p133-v3302
-[should-be-given](deyāḥ) [then](tataḥ) [one-should-worship](arcayet)
+[given](deyāḥ) [then](tataḥ) [worship](arcayet)
 
 ## mukta-m0-p133-v3303
-[of-vatsavṛkṣa-tree](vatsavṛkṣasya) [and](ca) [indeed](tu) [bark](valkalam)
+[of-the-calf-tree](vatsavṛkṣasya) [and](ca) [then](tu) [bark](valkalam)
 
 ## mukta-m0-p133-v3304
-[drop](binduḥ) [and](ca) [called-aṣṭagandha](aṣṭagandha+abhidhānaḥ) [dear-to-deities](devatā+priyaḥ)
+[drop](binduḥ) [and](ca) [eight-fragrances-named](aṣṭagandhābhidhānaḥ) [deity-pleasing](devatāpriyaḥ)
 
 ## mukta-m0-p133-v3305
-[one-should-do](kuryāt) [this](etat) [rite](karma) [not](na) [one-should-neglect](lopayet)
+[should-do](kuryāt) [this](etat) [act](karma) [not](na) [omit](lopayet)
 
 ## mukta-m0-p133-v3306
-[with-liquids](dravaiḥ) [or](vā) [in-absence](atha+abhāve) [libation](tarpaṇam) [one-should-perform](ācaret)
+[with-liquids](dravaiḥ) [or](vā) [in-absence](abhāve) [libation](tarpaṇam) [perform](ācaret)
 
 ## mukta-m0-p133-v3307
-[of-kaulikas-and-vāmas](kaulika+vāmānāṃ) [mantra-deities](mantra+devāḥ) [weary-with-effort](śrama+āturāḥ)
+[of-kaulika-left](kaulikavāmānām) [mantra-deities](mantradevāḥ) [fatigue-afflicted](śramāturāḥ)
 
 ## mukta-m0-p133-v3308
-[and](ca) [to-devotees](bhaktebhyaḥ) [mantras](mantrāḥ) [they-give](yacchanti) [that](taṃ) [without](vinā)
+[and](ca) [to-devotees](bhaktebhyaḥ) [mantras](mantrāḥ) [give](yacchanti) [him](tam) [without](vinā)
 
 ## mukta-m0-p133-v3309
-[in-vāma](vāme) [lowly](kṣudrāḥ) [even](api) [upon-consideration](vicārataḥ)
+[in-left](vāme) [small](kṣudrāḥ) [also](api) [by-inquiry](vicārataḥ)
 
 ## mukta-m0-p133-v3310
-[each-one](eka+ekaṃ) [for-libation](tarpaṇāya) [one-should-employ](prayojayet)
+[one-by-one](ekaikam) [for-libation](tarpaṇāya) [employ](prayojayet)
 
 ## mukta-m0-p133-v3311
-[with-fragrance-flowers-unbroken-rice](gandha+puṣpa+akṣataiḥ) [worship](pūjā) [and](ca) [otherwise](anyathā) [to-hell](narakaṃ) [one-would-go](vrajet)
+[with-sandal-flowers-rice](gandhapuṣpākṣataiḥ) [worship](pūjā) [and](ca) [otherwise](anyathā) [hell](narakaṃ) [go](vrajet)
 
 ## mukta-m0-p133-v3312
-[bound-soul-ness](paśo+tvaṃ) [indeed](hi) [not-Śiva-ness](na+aśivaḥ+tvaṃ) [Śiva](śivaḥ) [indeed](hi) [you-are](asi)
+[beasthood](paśutvam) [indeed](hi) [not-shiva-state](nāśivastvam) [shiva](śivaḥ) [indeed](hi) [you-are](asi)
 
 ## mukta-m0-p133-v3313
-[in-that-bliss](tat+ānande) [therefore](tasmāt) [to-be-practiced](sevyam) [this](idaṃ) [O-beloved](priye)
+[in-that-bliss](tadānande) [therefore](tasmāt) [to-be-served](sevyam) [this](idam) [beloved](priye)
 
 ## mukta-m0-p133-v3314
-[or](vā) [also](atha) [vaṭakas](vaṭakāḥ) [of-lentils](masūrāṇām) [likewise](tathā+eva) [and](ca)
+[or](vā) [then](atha) [cakes](vaṭakāḥ) [of-lentils](masūrāṇām) [likewise](tathaiva) [and](ca)
 
 ## mukta-m0-p133-v3315
-[one-should-do](kuryāt) [with-meat-and-fish](māṃsa+matsyābhyāṃ) [without](vinā) [with-substance](dravyeṇa) [worship](pūjanam)
+[should-do](kuryāt) [with-meat-fish](māṃsamatsyābhyām) [without](vinā) [substance](dravyeṇa) [worship](pūjanam)
 
 ## mukta-m0-p133-v3316
-[deity-contemplation](devatā+bhāvaḥ) [otherwise](anyathā) [corpse-contemplation](preta+vibhāvanam)
+[deity-state](devatābhāvaḥ) [otherwise](anyathā) [preta-conception](pretavibhāvanam)
 
 ## mukta-m0-p133-v3317
-[by-vaiśyas](vaiśyiḥ) [in-cow-slaughter](go+lambhane) [to-be-drunk](peyaṃ) [by-śūdras](śūdraiḥ) [in-woman-intercourse-act](strī+rati+karmaṇi)
+[vaiśya](vaiśyaḥ) [in-golambhana](golambhane) [drinkable](peyam) [by-śūdras](śūdraiḥ) [in-woman-pleasure-rite](strīratikarmaṇi)
 
 ## mukta-m0-p133-v3318
-[remembering](smaran) [one-should-drink](pibet) [wine](madyam) [one-should-eat](khādet) [meat](māṃsam) [not](na) [fault](doṣa) [partaker](bhāk)
+[remembering](smaran) [drink-wine](pibenmadyam) [eat-meat](khādenmāsam) [not](na) [sin](doṣa) [share](bhāk)
 
 ## mukta-m0-p133-v3319
-[wine-and-meats](madhu+māṃsāni) [for-satisfaction](tṛptaye) [if](cet) [he](saḥ) [sinner](pātakī)
+[honey-meats](madhumāṃsāni) [for-satisfaction](tṛptaye) [if](cet) [he](sa) [sinner](pātakī)
 
 ## mukta-m0-p133-v3320
-[without](vinā) [elsewhere](anyatra) [he](saḥ) [great-sinner](mahā+pātakī) [would-be](bhavet)
+[without](vinā) [elsewhere](anyatra) [he](sa) [great-sinner](mahāpātakī) [becomes](bhavet)
 
 ## mukta-m0-p133-v3321
-[of-kaulas](kaulānāṃ) [at-end-of-worship](pūjā+ante) [not](na) [censured](vigarhitam)
+[of-kaulas](kaulānām) [at-worship-end](pūjānte) [not](na) [blameworthy](vigarhitam)
 
 ## mukta-m0-p133-v3322
-[when-consumed](niṣavyante) [and](ca) [otherwise](anyathā) [fallen](patitaḥ) [one-would-be](bhavet)
+[are-consumed](niṣavyante) [and](ca) [otherwise](anyathā) [fallen](patitaḥ) [becomes](bhavet)
 
 ## mukta-m0-p133-v3323
-[from-drinking](pānāt) [curse-of-deity](devatā+śāpam) [one-would-obtain](āpnuyāt)
+[from-drinking](pānāt) [deity-curse](devatāśāpam) [obtains](āpnuyāt)
 
 ## mukta-m0-p133-v3324
-[on-his-shoulder](tat+skandhe) [funeral-pyre](citāṃ) [to-surround](veṣṭuṃ) [prepared](samudyataḥ)
+[his-shoulder](tatskandhe) [pyre](citām) [to-wrap](veṣṭum) [prepared](samudyataḥ)
 
 ## mukta-m0-p133-v3325
 [by-Indra](śakreṇa) [quickly](tūrṇam) [extinguished](nirvāpitaḥ) [with-waters](jalaiḥ)

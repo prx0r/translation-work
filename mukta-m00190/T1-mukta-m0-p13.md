@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p13-v301
-[dot](binduḥ) [moon](candraḥ) [and](ca) [pitcher](kuṇḍaḥ) [anusvāra](anusvāraḥ) [huṃ-sound](huṃkāraḥ) [is-called](ucyate)
+[dot](bindu) [moon](candra) [and](ca) [well](kuṇḍa) [anusvara](anusvāra) [hum-sound](huṃkāra) [is-called](ucyate)
 
 ## mukta-m0-p13-v302
-[temple+final](mandira+antyaḥ) [and](ca) [time+fire](kāla+agniḥ) [wrath](krodhaḥ) [tattva](tattva) [thus](iti) [kṣa](kṣaḥ) [is-remembered](smṛtaḥ)
+[temple](mandira) [end](antya) [and](ca) [time-fire](kālāgni) [wrath](krodha) [thus](tattva) [iti](iti) [kṣa](kṣa) [remembered](smṛta)
 
 ## mukta-m0-p13-v303
-[external](bāhyaṃ) [la-syllable](lakāraḥ) [e-syllable](ekāraḥ) [thus](iti) [and](ca) [others](anye) [declare](pracakṣate)
+[external](bāhya) [la-letter](lakāra) [e-letter](ekāra) [iti](iti) [ca](ca) [others](anye) [declare](pracakṣate)
 
 ## mukta-m0-p13-v304
-[thus](iti) [agitated+mind](ākula+manāḥ) [like-that](tadvat) [should-do](kuryāt) [brahmin+excluded](brāhmaṇa+varjitam)
+[thus](iti) [agitated-mind](ākulamanā) [like-that](tadvat) [should-do](kuryāt) [brāhmaṇa-except](brāhmaṇavarjitam)
 
 ## mukta-m0-p13-v305
-[if](yadi) [success](siddhiṃ) [not](na) [obtains](labhate) [twice+or-thrice](dvis+tris+vā) [again](punar) [should-perform](ācaret)
+[if](yadi) [success](siddhi) [not](na) [obtain](labhate) [twice-thrice](dvistrir) [or](vā) [again](punar) [perform](ācaret)
 
 ## mukta-m0-p13-v306
-[not](na) [fault](aparādhaḥ) [is](asti) [here](atra) [any](kiñcit) [one-would-obtain](prāpnuyāt) [ridicule](upahāsyatām)
+[no](na) [offense](aparādha) [is](asti) [here](atra) [anything](kiñcit) [obtain](prāpnuyāt) [ridicule](upahāsyatām)
 
 ## mukta-m0-p13-v307
-[there](tatra) [ritual+distinction](karma+viśeṣeṇa) [one-should-cause-to-do](kārayet) [thus](iti) [not](na) [otherwise](anyathā)
+[there](tatra) [by-special-action](karmaviśeṣeṇa) [should-cause](kārayet) [iti](iti) [not-otherwise](nānyathā)
 
 ## mukta-m0-p13-v308
-[of-worlds](jagatām) [benefit+for-the-sake-of](upakāra+artham) [Kṣapaṇaka+sole+teacher](kṣapaṇa+eka+guruḥ) [as](yathā)
+[for-world-benefit](jagatāmupakārārthaṃ) [renouncer-single-guru](kṣapaṇaikagurur) [like](yathā)
 
 ## mukta-m0-p13-v309
-[glory+prosperity+all+happiness+good-fortune+wealth+bestower](śrī+vibhava+sakala+sukha+saubhāgya+sampat+pradāyī)
+[śrī-vibhava-all-happiness-fortune-prosperity-giver](śrīvibhavasakalasukhasaubhāgyasampatpradāyī)
 
 ## mukta-m0-p13-v310
-[that](tat) [all](sarvaṃ) [deity+splendor](devatā+tejaḥ) [of-all](sarvasya) [power+augmented](śākti+bṛṃhitam)
+[that-all](tatsarvaṃ) [deity-radiance](devatātejaḥ) [of-all](sarvasya) [by-śakti-increased](śāktibṛṃhitam)
 
 ## mukta-m0-p13-v311
-[gold+net+made+crest](hema+jāla+maya+hīnaṃ) [many+jewel+shining+variegated+feather+supreme](bahu+maṇi+vilasat+vicitra+patra+param)
+[gold-net-like-devoid](hemajālamayahīnaṃ) [many-jewel-shining-various-leaf-excellent](bahumaṇivilasadvicitrapatraparam)
 
 ## mukta-m0-p13-v312
-[crest+adorned+face](cūḍā+śobhita+vaktraṃ) [rooster](kukkuṭam) [very+sharp+nail+foot](ati+tīkṣṇa+nakha+caraṇam)
+[crest-beautified-face](cūḍāśobhitavaktraṃ) [cock-very-sharp-nail-foot](kukkuṭamatitīkṣṇanakhacaraṇam)
 
 ## mukta-m0-p13-v313
-[attraction+etc.+quality](ākarṣa+ādi+guṇaṃ) [may-make](karotu) [he](saḥ) [indeed](tu) [for-us](naḥ) [all](sarvān) [this](asau) [rooster](kukkuṭaḥ)
+[let-do](karotu) [attraction-etc-quality](ākarṣādiguṇaṃ) [he](sa) [but](tu) [us](naḥ) [all](sarvān) [that](asau) [cock](kukkuṭaḥ)
 
 ## mukta-m0-p13-v314
-[may-protect](pāyāt) [us](naḥ) [copper+crested](tāmra+cūḍaḥ) [by-all+people+bowed-to](sakala+jana+nataḥ) [all+success+giver](sarva+siddhi+pradātā)
+[protect-us](pāyānnastāmracūḍaḥ) [copper-crested](tāmracūḍaḥ) [from-all-people](sakalajananataḥ) [all-success-giver](sarvasiddhipradātā)
 
 ## mukta-m0-p13-v315
-[knowledge+delightful](vedya+abhirāmaḥ) [all+ornaments+endowed](akhila+bhūṣaṇa+āḍhyaḥ) [subdues](vaśīkaroti) [quickly](āśu) [well+served](su+sevitaḥ) [by-gods](amaraiḥ)
+[pleasing-to-knowers](vedyābhirāmo) [all-ornament-rich](akhilabhūṣaṇāḍhyo) [quickly-subdues](vaśīkarotyāśu) [well-served-by-immortals](susevito'maraiḥ)
 
 ## mukta-m0-p13-v316
-[of-the-deity](devasya) [great](mahatīṃ) [worship](pūjāṃ) [having-done](kṛtvā) [seated](āsīnaḥ) [north+facing](udaṅ+mukhaḥ)
+[of-deity](devasya) [great](mahatīṃ) [worship](pūjāṃ) [having-done](kṛtvā) [seated](āsīna) [north-facing](udaṅmukhaḥ)
 
 ## mukta-m0-p13-v317
-[west+door+endowed](paścima+dvāra+saṃyukte) [should-perform](kuryāt) [mantra+consecration](mantra+puraskriyām)
+[west-door-joined](paścimadvārasaṃyukte) [should-do](kuryān) [mantra-preliminary](mantrapuraskriyām)
 
 ## mukta-m0-p13-v318
-[hand+purification](kara+śuddhiṃ) [body+purification](deha+śuddhiṃ) [clap+three](tāla+trayam) [then](atha) [should-perform](ācaret)
+[hand-purification](karaśuddhiṃ) [body-purification](dehaśuddhiṃ) [three-claps](tālatrayam) [then](atha) [perform](ācaret)
 
 ## mukta-m0-p13-v319
-[breath+control+three](prāṇāyāma+trayaṃ) [afterwards](paścāt) [with-praṇava](praṇavena) [should-perform](prakalpayet)
+[three-breath-control](prāṇāyāmatrayaṃ) [after](paścāt) [by-om](praṇavena) [arrange](prakalpayet)
 
 ## mukta-m0-p13-v320
-[bird+mantra+of](pakṣi+mantrasya) [first](prathamaṃ) [which](yaṃ) [mantra](mantraṃ) [that](taṃ) [should-specify](vinirdiśet)
+[of-bird-mantra](pakṣimantrasya) [first](prathamaṃ) [which](yaṃ) [mantra](mantraṃ) [that](taṃ) [indicate](vinirdiśet)
 
 ## mukta-m0-p13-v321
-[vīṃ](vīṃ) [on-the-crest](śikhāyām) [and](ca) [having-placed](vinyasya) [forest+bird+third](vana+pakṣi+tṛtīyakam)
+[vīṃ](vīṃ) [on-crest](śikhāyāñca) [placing](vinyasya) [forest-bird-third](vanapakṣitṛtīyakam)
 
 ## mukta-m0-p13-v322
-[beak+weapon](cañcu+astreṇa) [and](ca) [joined](saṃyuktam) [limb+six](aṅga+ṣaṭkaṃ) [is-prescribed](vidhīyate)
+[beak-weapon](cañcvāstreṇa) [and](ca) [joined](saṃyuktam) [six-limbs](aṅgaṣaṭkaṃ) [is-prescribed](vidhīyate)
 
 ## mukta-m0-p13-v323
-[pū](pū) [to-the-crest](śikhāyai) [vaṣaṭ](vaṣaṭ) [vīpsau](vīpsau) [tattvāṃ](tattvāṃ) [to-the-armor](kavacāya) [hu](hu)
+[pū](pū) [on-crest](śikhāyai) [vaṣaṭ](vaṣaṭ) [vīpsau](vīpsau) [tattvāṃ](tattvāṃ) [kavacāya](kavacāya) [hu](hu)
 
 ## mukta-m0-p13-v324
-[namaḥ](namaḥ) [svāhā](svāhā) [vaṣaṭ](vaṣaṭ) [hu](hu) [and](ca) [vauṣaṭ](vauṣaṭ) [and](ca) [in-order](kramāt) [should-place](nyaset)
+[namaḥ](namaḥ) [svāhā](svāhā) [vaṣaṭ](vaṣaṭ) [hu](hu) [ca](ca) [vauṣaṭ](vauṣaṭ) [ca](ca) [in-order](kramān) [place](nyaset)
 
 ## mukta-m0-p13-v325
-[forehead+dot+middle](lalāṭa+bindu+madhye) [and](ca) [in-eyes+and-ears](cakṣuḥ+śravaṇayoḥ) [also](api)
+[on-forehead-dot-middle](lalāṭabindumadhye) [and](ca) [eyes-ears](cakṣuḥśravaṇayorapi)

@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p08-v176
-[prosperity](samprad) [poverty](dāridrya) [steadfastnesses](dhairyāṇi) [kinsman](bandhu) [conflict](vigraha) [doubts](saṃśayau)
+[sampraddāridrya+dhairyāṇi](sampraddāridryadhairyāṇi) [bandhu](bandhu) [vigraha](vigraha) [saṃśayau](saṃśayau)
 
 ## mukta-m0-p08-v177
-[of-mantra](mantrasya) [accomplishment](siddhiḥ) [may-be](syāt) [for-that-purpose](etat+artham) [I](aham) [speak](bruve)
+[mantra](mantrasya) [siddhi](siddhissyādetadarthamahaṃ) [bruve](bruve)
 
 ## mukta-m0-p08-v178
-[I-shall-tell](vakṣye) [here](atra) [indeed](tu) [as](yathā) [to-be-written](lekhyāḥ) [numbers](aṅkāḥ) [eleven](ekādaśa) [vowels](svarāḥ)
+[vakṣye](vakṣye) [atra](atra) [tu](tu) [yathā](yathā) [lekhyā](lekhyā) [aṅkā](aṅkā) [ekādaśa](ekādaśa) [svarāḥ](svarāḥ)
 
 ## mukta-m0-p08-v179
-[below-that](tat+adhaḥ) [two](dvi) [earths](ku) [seven](sapta) [oceans](abdhi) [sky](kha) [three](tri) [seven](sapta) [arrows](iṣu) [oceans](sāgarāḥ)
+[tad](tad) [adhaḥ](adhodvikusaptābdhikhatrisapteṣusāgarāḥ)
 
 ## mukta-m0-p08-v180
-[vowel](svara) [consonant](vyañjana) [distinguished](bhinnānām) [of-mantra-syllables](mantra+arṇānām) [separately](pṛthak) [separately](pṛthak)
+[svara](svaravyañjanabhinnānāṃ) [mantra](mantrārṇānāṃ) [pṛthak](pṛthak) [pṛthak](pṛthak)
 
 ## mukta-m0-p08-v181
-[quotient](bhāga) [remainders](śeṣau) [both](ubhau) [to-be-placed](sthāpyau) [as-long-as](yāvat) [name-number-ness](nāma+aṅkatā) [of-mantra](manoḥ)
+[bhāga](bhāgaśeṣāvubhau) [sthāpyau](sthāpyau) [yāvat](yāvannāmāṅkatā) [manoḥ](manoḥ)
 
 ## mukta-m0-p08-v182
-[so-many](tāvat) [numbers](saṅkhyān) [sums](samāyogān) [unaccomplishable](asādhyān) [even](api) [one-should-accomplish](sādhayet)
+[tāvat](tāvatsaṅkhyānsamāyogānasādhyānapi) [sādhayet](sādhayet)
 
 ## mukta-m0-p08-v183
-[again](punaḥ) [one-should-do](kuryāt) [for-mantra-kindling](mantra+sandīptaye) [again](punaḥ)
+[punaḥ](punaḥ) [kuryāt](kuryānmantrasandīptaye) [punaḥ](punaḥ)
 
 ## mukta-m0-p08-v184
-[as-long-as](yāvat) [may-be](syāt) [greater](adhikaḥ) [so-many](tāvat) [number-digits](saṅkhyā+aṅkāni) [when](yadā) [one-should-perform](caret)
+[yāvat](yāvatsyādadhikastāvatsaṅkhyāṅkāni) [yadā](yadā) [caret](caret)
 
 ## mukta-m0-p08-v185
-[again](punaḥ) [having-done](kṛtvā) [then](tadā) [it-may-be](syāt) [purpose-accomplishing](kārya+sādhakaḥ)
+[punaḥ](punaḥ) [kṛtvā](kṛtvā) [tadā](tadā) [syāt](syātkāryasādhakaḥ)
 
 ## mukta-m0-p08-v186
-[in-all-tantras](sarva+tantreṣu) [kept-secret](gopitam)
+[sarvataṃtreṣu](sarvataṃtreṣu) [gopitam](gopitam)
 
 ## mukta-m0-p08-v187
-[of-that](tasyāḥ) [in-diagram](cakre) [indeed](tu) [one-should-arrange](racayet) [in-this-very-way](evam+eva) [indeed](hi)
+[tasyāś](tasyāścakre) [tu](tu) [racayet](racayedevameva) [hi](hi)
 
 ## mukta-m0-p08-v188
-[to-be-written](saṁllekhyāḥ) [below-that](tat+adhaḥ) [neuter](ṣaṇḍha) [devoid-of](varjitāḥ)
+[saṁllekhyāḥ](saṁllekhyāstadadhaḥ) [ṣaṇḍha](ṣaṇḍhavarjitāḥ)
 
 ## mukta-m0-p08-v189
-[beginning-with-ka-ca-ṭa](ka+ca+ṭa+ādyān) [one-should-write](likhet) [letters](varṇān) [ṅa-ña-ṇa-letters](ṅa+ña+ṇa+akṣara) [devoid-of](varjitān)
+[kacaṭādyān](kacaṭādyāṁllikhedvarṇān) [ṅañaṇa](ṅañaṇākṣaravarjitān)
 
 ## mukta-m0-p08-v190
-[of-the-two](dvayoḥ) [addition](yogaḥ) [to-be-done](kāryaḥ) [and](ca) [eight](aṣṭau) [remainder](avaśeṣitaḥ)
+[dvayoḥ](dvayoryogaḥ) [kāryaḥ](kāryaścāṣṭāvaśeṣitaḥ)
 
 ## mukta-m0-p08-v191
-[mantra](mantraṃ) [yantra](yantraṃ) [without](binā) [strife](kaliḥ)
+[mantraṃ](mantraṃ) [yantraṃ](yantraṃ) [binā](binā) [kaliḥ](kaliḥ)
 
 ## mukta-m0-p08-v192
-[six](ṣaḍ) [Vedas](veda) [three](tri) [arrows](iṣu) [seven](sapta) [oceans](abdhi) [mountains](naga) [two](dvi) [tastes](rasa) [earths](khaṃ+dharāḥ)
+[ṣaḍvedatrīṣusaptābdhinagadvirasakhaṃdharāḥ](ṣaḍvedatrīṣusaptābdhinagadvirasakhaṃdharāḥ)
 
 ## mukta-m0-p08-v193
-[loss](hāniḥ) [in-excess](ādhikye) [victory](jayaḥ) [secret](gopyam) [this](idam) [O-Bhara](bharāḥ)
+[hāniḥ](hānirādhikye) [jayo](jayo) [gopyam](gopyamidaṃ) [bharāḥ](bharāḥ)
 
 ## mukta-m0-p08-v194
-[class](varga) [eight](aṣṭaka) [numbers](aṅkāḥ) [fires](vahni) [arrows](iṣu) [six](ṣaḍ) [Vedas](veda) [numbers](aṅka) [moon](indu) [fires](vahnayaḥ)
+[vargāṣṭakāṅkā](vargāṣṭakāṅkā) [vahnīṣuṣaḍvedāṅkendu](vahnīṣuṣaḍvedāṅkendu) [vahnayaḥ](vahnayaḥ)
 
 ## mukta-m0-p08-v195
-[from-class-strength](varga+balāt) [from-class-unity](varga+aikya) [life-force](prāṇa) [vigor](vīryataḥ)
+[vargabala](vargabalādvargaikyaprāṇavīryataḥ)
 
 ## mukta-m0-p08-v196
-[fire](vahni) [moon](indu) [Veda](veda) [pair](yugma) [moon](indu) [numbers](aṅkāḥ) [five](pañca) [vowels](svarān) [one-should-write](likhet)
+[vahnīnduvedayugmenduraṅkāḥ](vahnīnduvedayugmenduraṅkāḥ) [pañca](pañca) [svarān](svarāṁllikhet)
 
 ## mukta-m0-p08-v197
-[divided-by-five](pañca+bhakte) [in-greater](adhike) [remainder](śeṣe) [victory](jayaḥ) [in-lesser](hīne) [defeat](parājayaḥ)
+[pañcabhakte](pañcabhakte) [adhike](adhike) [śeṣe](śeṣe) [jayo](jayo) [hīne](hīne) [parājayaḥ](parājayaḥ)
 
 ## mukta-m0-p08-v198
-[earth](bhū) [six](ṣaṭ) [five](pañca) [fires](agni) [Vedas](veda) [fires](agni) [two](dvi) [earths](bhū) [skies](kheṣu) [arrows](śarāḥ) [made](kṛtāḥ)
+[bhūṣaṭpañcāgnivedāgnidvibhūkheṣu](bhūṣaṭpañcāgnivedāgnidvibhūkheṣu) [śarāḥ](śarāḥ) [kṛtāḥ](kṛtāḥ)
 
 ## mukta-m0-p08-v199
-[name](nāma) [letter](varṇa) [numbers](aṅkān) [by-mātrā](mātrā) [distinction](bheda) [order](krama) [declared](uditān)
+[nāmavarṇāṅkān](nāmavarṇāṅkānmātrābhedakramoditān)
 
 ## mukta-m0-p08-v200
-[one-should-do](kuryāt) [from-life-force](prāṇāt) [and](ca) [by-class](vargataḥ)
+[kuryāt](kuryātprāṇācca) [vargataḥ](vargataḥ)

@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p128-v3176
-[whoever](ye) [some](kecit) [in-month](māse) [in-middle](madye) [devoted](ratā) [we](vayam)
+[who](ye) [some](kecin) [in-month](māse) [in-middle](madye) [devoted](ratā) [we](vayam)
 
 ## mukta-m0-p128-v3177
-[with-previously+mentioned+characteristics](pūrvokta+lakṣaṇaiḥ) [endowed](yuktāḥ) [they](te) [also](api) [disciples](śiṣyāḥ) [are-declared](prakīrtitaḥ)
+[previous-stated-marks](pūrvoktalakṣaṇaiḥ) [endowed](yuktāḥ) [those](te) [also](api) [disciples](śiṣyāḥ) [declared](prakīrtitaḥ)
 
 ## mukta-m0-p128-v3178
-[thus](tathā) [Viṣṇu](viṣṇuḥ) [of-him](tasya) [command+obedient](ājñā+vaśavartinaḥ)
+[thus](tathā) [vishnu](viṣṇuḥ) [his](tasya) [command-control-subject](ājñāvaśavartinaḥ)
 
 ## mukta-m0-p128-v3179
-[with-four+characteristics](catur+lakṣaṇa) [endowed](sampannaḥ) [brahmin](vipraḥ) [to-be-known](jñeyaḥ) [is](asti) [middling](madhyamaḥ)
+[four-marks-endowed](caturlakṣaṇasampannaḥ) [brahmin](vipro) [known](jñeyaḥ) [is](asti) [middle](madhyamaḥ)
 
 ## mukta-m0-p128-v3180
-[it-fructifies](phalati) [and](ca) [of-the-first](adyasya) [by-action](kriyayā) [and](ca) [of-the-other](aparasya) [indeed](tu)
+[bears-fruit](phalati) [and](ca) [first's](ādyasya) [by-action](kriyayā) [and](ca) [other's](aparasya) [but](tu)
 
 ## mukta-m0-p128-v3181
-[fruit-giving](phala+de) [two-are](staḥ) [not](na) [in-the-left-path](vāmake)
+[fruit-giver](phalade) [sto](sto) [not](na) [left](vāmake)
 
 ## mukta-m0-p128-v3182
-[they-may-be](syātām) [not](na) [ever](kadācana) [vedic](vaidikaḥ)
+[may-be](syātām) [not](na) [ever](kadācana) [vaidika](vaidikaḥ)
 
 ## mukta-m0-p128-v3183
-[from-śūdra+beginning](śūdra+ādi) [to-yavana+end](yavana+antānām) [success](siddhiḥ) [in-left+path](vāma+pathe) [situated](sthitā)
+[shudra-etc-yavana-end](śūdrādiyavanāntānām) [siddhi](siddhir) [left-path](vāmapathe) [situated](sthitā)
 
 ## mukta-m0-p128-v3184
-[one-may-touch](spṛśet) [vaiṣṇava](vaiṣṇavaṃ) [brahmin](vipraṃ) [one-should-not-bow](praṇamet) [not](na) [and](ca) [vedic](vaidikam)
+[touch](spṛśet) [vishnuite](vaiṣṇavam) [brahmin](vipram) [bow](praṇamet) [not](na) [and](ca) [vaidika](vaidikam)
 
 ## mukta-m0-p128-v3185
-[because-of-following-that-path](tat+vartmatvāt) [by-vows](vrataiḥ) [of-Viṣṇu](viṣṇoḥ) [purified](pūtāḥ) [sinless](niṣkilviṣāḥ) [likewise](tathā)
+[that-path-ness](tadvartmatvāt) [by-vows](vrataiḥ) [of-vishnu](viṣṇoḥ) [purified](pūtāḥ) [sinless](niṣkilviṣāḥ) [thus](tathā)
 
 ## mukta-m0-p128-v3186
-[good+company](sat+saṅgaḥ) [and](ca) [discernment](vivekaḥ) [and](ca) [steady](niścalaṃ) [pair+of-eyes](nayana+dvayam)
+[good-company](satsaṅgaḥ) [and](ca) [discrimination](vivekaḥ) [and](ca) [steady](niścalam) [two-eyes](nayanadvayam)
 
 ## mukta-m0-p128-v3187
-[in-worldly+pleasure](sāṃsārika+sukha) [attached](āsaktaṃ) [brahman+knower](brahma+jñaḥ) [I-am](asmi) [thus](iti) [speaker](vādinam)
+[worldly-pleasure-attached](sāṃsārikasukhāsaktam) [brahma-knower](brahmajñaḥ) [i-am](asmi) [thus](iti) [speaker](vādinam)
 
 ## mukta-m0-p128-v3188
-[meat](māṃsaṃ) [liquor+drinking](surā+pānaṃ) [fish](matsyaḥ) [woman](strī) [relatives](bāndhavāḥ) [likewise](tathā)
+[meat](māṃsam) [liquor-drinking](surāpānam) [fish](matsyaḥ) [woman](strī) [relatives](bāndhavāḥ) [thus](tathā)
 
 ## mukta-m0-p128-v3189
-[on-the-path](mārge) [secretly](guptaṃ) [eaten](bhuktaṃ) [meat+and-so-forth](pala+ādikam)
+[path](mārge) [secretly](guptam) [eaten](bhuktam) [fugitive-etc](palādikam)
 
 ## mukta-m0-p128-v3190
-[always](sadā) [to-be-practiced](sevyaḥ) [vedic](vaidikaḥ) [dharma+accumulation](dharma+sañcayaḥ)
+[always](sadā) [served](sevyaḥ) [vaidika](vaidikaḥ) [dharma-accumulation](dharmasañcayaḥ)
 
 ## mukta-m0-p128-v3191
-[without](vinā) [of-another](anyasya) [woman+going-to](strī+gaḥ) [or](vā) [also](api) [he](saḥ) [hell-dweller](nārakī)
+[without](vinā) [other's](anyasya) [woman-cow](strīgo) [or-even](vāpi) [he](sa) [hellish](nārakī)
 
 ## mukta-m0-p128-v3192
-[guru](guruḥ) [and](ca) [indeed](eva) [disciple](śiṣyaḥ) [and](ca) [of-yoginīs](yoginīnām) [may-become](bhavet) [beast](paśuḥ)
+[guru](guruḥ) [and](ca) [indeed](eva) [disciple](śiṣyaḥ) [and](ca) [of-yoginis](yoginīnām) [becomes](bhavet) [beast](paśuḥ)
 
 ## mukta-m0-p128-v3193
-[with-two-arms](bāhubhyāṃ) [to-cross](tartum) [desires](icchati)
+[by-arms](bāhubhyām) [cross](tartum) [desires](icchati)
 
 ## mukta-m0-p128-v3194
-[they](te) [of-enjoyment+and-liberation](bhukti+muktyoḥ) [and](ca) [vessel](bhājanam)
+[they](te) [enjoyment-liberation](bhuktimuktyoḥ) [and](ca) [vessel](bhājanam)
 
 ## mukta-m0-p128-v3195
-[having-seen](dṛṣṭvā) [kings](rājānaḥ) [let-them-punish](daṇḍayantu) [or](vā)
+[seeing](dṛṣṭvā) [kings](rājānaḥ) [punish](daṇḍayantu) [or](vā)
 
 ## mukta-m0-p128-v3196
-[fortune](lakṣmīḥ) [let-it-stay](tiṣṭhatu) [or](vā) [let-it-go](yātu) [not](na) [I-abandon](muñcāmi) [path](pathaḥ) [these](imān)
+[lakshmi](lakṣmīḥ) [stand](tiṣṭhatu) [or](vā) [go](yātu) [not](na) [release](muñcāmi) [path](pathaḥ) [but](tu) [these](imān)
 
 ## mukta-m0-p128-v3197
-[not](na) [for-wealth+greed](artha+lobhāt) [not](na) [and](ca) [from-anger](krodhāt) [not](na) [from-hatred](dveṣāt) [not](na) [and](ca) [from-envy](matsarāt)
+[not](na) [wealth-greed](arthālobhāt) [from](lobhāt) [not](na) [and](ca) [anger](krodhāt) [from](krodhāt) [not](na) [hatred](dveṣāt) [from](dveṣāt) [not](na) [and](ca) [envy](matsarāt) [from](matsarāt)
 
 ## mukta-m0-p128-v3198
-[one-should-not-worship](na+arcayet) [goddess](devīṃ) [in-this-path](mārge+asmin) [obstacle](vighnam) [one-may-obtain](āpnuyāt)
+[not](na) [worship](arcayet) [goddess](devīm) [path](mārge) [in-this](asmin) [obstacle](vighnam) [obtain](āpnuyāt)
 
 ## mukta-m0-p128-v3199
-[he](saḥ) [this](ayam) [kaula](kaulaḥ) [not](na) [other](cetaraḥ)
+[he](saḥ) [this](ayam) [kaula](kaulaḥ) [not](na) [and](ca) [other](itaraḥ)
 
 ## mukta-m0-p128-v3200
-[visible+fruit+giving](pratyakṣa+phala+danta) [deity+supreme+vision](deva+uttama+darśanam)
+[direct-fruit-tooth-god-excellent-vision](pratyakṣaphaladantadevottamadarśanam)

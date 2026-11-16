@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p118-v2926
-[that](tat) [power](śaktiḥ) [subtle](sūkṣmā) [subtle](sūkṣma) [meaning](artha) [accomplishing](sādhikā)
+[that-power](tacchaktiḥ) [subtle](sūkṣmā) [subtle-meaning-accomplishing](sūkṣmārthasādhikā)
 
 ## mukta-m0-p118-v2927
-[having-placed](sthāpayitvā) [face-down](adhomukham) [that](tat) [should-bend](nāmayet) [universe](viśva) [womb](yonikā)
+[placing](sthāpayitvā) [downward-facing](adhomo) [that](tad) [bending](nāmayet) [world-womb](viśvayonikā)
 
 ## mukta-m0-p118-v2928
-[should-display](darśayet) [power](śaktiḥ) [mace](gadā) [form](rūpā) [is-declared](prakīrtyate)
+[show](darśayet) [power](śaktiḥ) [mace-form](gadārūpā) [is-called](prakīrtyate)
 
 ## mukta-m0-p118-v2929
-[of-gods](davatāḥ) [of-him](tasya) [fruitless](viphalā) [indeed](tu) [done](kṛtam) [becomes](bhavet)
+[deity](devatā) [of-him](tasya) [fruitless](viphalam) [done](kṛtam) [becomes](bhavet)
 
 ## mukta-m0-p118-v2930
-[thus](tathā) [by-devotee](bhakta) [made](kṛtā) [gesture](mudrā) [having-seen](dṛṣṭvā) [rejoice](hṛṣyanti) [deities](devatāḥ)
+[thus](tathā) [by-devotee](bhakta) [made](kṛtā) [mudrā](mudrā) [seeing](dṛṣṭvā) [rejoice](hṛṣyanti) [deities](devatāḥ)
 
 ## mukta-m0-p118-v2931
-[category](padārthaḥ) [one](ekaḥ) [if](cet) [of-practitioner](sādhaka) [end](ante) [curse](śapanti) [and](ca)
+[meaning](padārtha) [one](ekaḥ) [if](cet) [adept](sādhaka) [curses](śapanti) [and](ca)
 
 ## mukta-m0-p118-v2932
-[of-four](catuṣṭayam) [desire](icchanti) [that](tam) [without](vinā) [curse](praśapanti) [and](ca)
+[fourfold](macatuṣṭayam) [desire](icchanti) [him](tam) [without](vinā) [curse](praśapanti) [and](ca)
 
 ## mukta-m0-p118-v2933
-[essential](āvaśyaka) [mantra](maṃtra) [five](pañca) [that](tam) [without](vinā) [curse](praśapanti) [and](ca)
+[necessary](āvaśyakam) [mantra](mantra) [five](pañca) [him](tam) [without](vinā) [curse](praśapanti) [and](ca)
 
 ## mukta-m0-p118-v2934
-[they](te) [also](api) [curse](praśapanti) [and](ca) [practitioner](sādhakam)
+[those](te) [also](api) [curse](praśapanti) [and](ca) [adept](sādhakam)
 
 ## mukta-m0-p118-v2935
-[liberation](mokṣam) [obtains](labhate) [gesture](mudrā) [knower](vit) [not](na) [here](atra) [doubt](saṃśayaḥ)
+[liberation](mokṣam) [obtains](labhate) [mudrā-knower](mudrāvin) [not](na) [here](atra) [doubt](saṃśayaḥ)
 
 ## mukta-m0-p118-v2936
-[truth](tattvam) [what](kim) [other](anyat) [to-hear](śrotum) [you-desire](icchasi)
+[truth](tattvam) [what](kim) [other](anyat) [to-hear](śrotum) [desire](icchasi)
 
 ## mukta-m0-p118-v2937
-[gesture](mudrā) [characteristic](lakṣaṇa) [exposition](prakāśaḥ) [eighth](aṣṭamaḥ)
+[mudrā-characteristics](mudrālakṣaṇa) [manifestation](prakāśaḥ) [eighth](aṣṭamaḥ)
 
 ## mukta-m0-p118-v2938
-[disciple](śiṣyaḥ) [wealth](dhana) [seeker](arthī) [teacher](guruḥ) [indeed](eva) [and](ca)
+[disciple](śiṣyaḥ) [wealth-seeker](dhanārthī) [guru](guruḥ) [indeed](eva) [and](ca)
 
 ## mukta-m0-p118-v2939
-[far](dūre) [from-this](asmāt) [bodily](daihikī) [success](siddhiḥ) [of-another](pārakīyā) [how](katham) [may-be](bhavet)
+[far](dūre) [from-this](asmāt) [bodily](daihikī) [accomplishment](siddhiḥ) [other-worldly](pārakīyā) [how](katham) [becomes](bhavet)
 
 ## mukta-m0-p118-v2940
-[success](siddhiḥ) [may-be](syāt) [without](vinā) [blame](nindām) [tell](vadasva) [that](tat)
+[accomplishment](siddhiḥ) [would-be](syāt) [without](vinā) [blame](nindām) [speak](vadasva) [that](tat)
 
 ## mukta-m0-p118-v2941
-[texts](granthāḥ) [called-āgama](āgamākhyāḥ) [spread](prasāritāḥ)
+[texts](granthāḥ) [āgama-named](āgamākhyāḥ) [spread](prasāritāḥ)
 
 ## mukta-m0-p118-v2942
-[all](sarva) [god](deva) [groups](gaṇaiḥ) [abandoned](tyaktam) [then](tadā) [indeed](tu) [earth](pṛthivī) [surface](talam)
+[all-deity-hosts](sarvadevagaṇaiḥ) [abandoned](tyaktam) [then](tadā) [earth-surface](pṛthivītalam)
 
 ## mukta-m0-p118-v2943
-[by-āgamas](āgamaiḥ) [spoken](bhāsite) [in-country](deśe) [that-also](saḥ) [also](api) [inaccessible](agamyaḥ) [will-be](bhaviṣyati)
+[in-āgama-declared](āgamairbhāsite) [region](deśe) [that](saḥ) [api](api) [unreachable](agamyaḥ) [will-be](bhaviṣyati)
 
 ## mukta-m0-p118-v2944
-[for-long-lived](cirajīvibhyaḥ) [earthen](pārthivam) [liṅga](liṅga) [worship](pūjanam)
+[long-lived](cirajīvibhyaḥ) [earthly](pārthivam) [liṅga-worship](liṅgapūjanam)
 
 ## mukta-m0-p118-v2945
-[in-the-other-world](paratra) [also](api) [success](siddhiḥ) [on-palm](karatale) [situated](sthitā)
+[in-other-world](paratrāpi) [accomplishment](siddhiḥ) [in-palm](karatale) [standing](sthitā)
 
 ## mukta-m0-p118-v2946
-[always](nityam) [having-performed](vidhāya) [first](ādau) [should-go](gacchet) [pure](śuddhām) [ground](bhuvam) [wise-one](sudhīḥ)
+[always](nityam) [having-done](vidhāya) [first](ādau) [go](gacchet) [pure](śuddhām) [earth](bhuvam) [wise](sudhīḥ)
 
 ## mukta-m0-p118-v2947
-[śamī](śamī) [containing](garbha) [aśvattha](aśvattha) [at-root](mūle) [river](nadī) [on-bank](kūle) [and](ca) [in-solitude](nirjane)
+[śamī](śamī) [garbha](garbha) [aśvattha-root](aśvatthamūle) [river-bank](nadīkūle) [and](ca) [solitary](nirjane)
 
 ## mukta-m0-p118-v2948
-[banyan](vaṭa) [under](adhastāt) [there](tatra) [ground](bhūmim) [should-consecrate](mantrayet) [should-pray](prārthayet) [thus](iti)
+[under-banyan](vaṭādhastāt) [there](tatra) [earth](bhūmim) [mantra](mantrayet) [pray](prārthayet) [iti](iti)
 
 ## mukta-m0-p118-v2949
-[having-worshipped](pūjayitvā) [indeed](tu) [earth](dharaṇīm) [should-pray](prārthayet) [thus](iti)
+[having-worshipped](pūjayitvā) [then](tu) [earth](dharaṇīm) [pray](prārthayet) [iti](iti)
 
 ## mukta-m0-p118-v2950
-[I-shall-take](grahīṣyāmi) [pleased](prasannā) [you](tvam) [for-liṅga](liṅga) [sake](artham) [be](bhava) [to-me](me) [always](sadā)
+[will-take](grahīṣyāmi) [pleased](prasannā) [you](tvam) [for-liṅga](liṅgārtham) [be](bhava) [to-me](me) [always](sadā)

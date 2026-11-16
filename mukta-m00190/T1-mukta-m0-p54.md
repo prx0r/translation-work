@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p54-v1326
-time-wish-fulfilling-tree(kāla+kalpataruṃ) having-bowed(natvā) bhūtinī-siddhi(bhūtinī+siddhiḥ) is-stated(ucyate)
+[time-wish-tree](kālakalpataruṃ) [having-bowed](natvā) [power-siddhi](bhūtinīsiddhiḥ) [is-said](ucyate)
 
 ## mukta-m0-p54-v1327
-tāriṇī(tāriṇī) siṃhinī(siṃhinī) and-also(ca+atho) haṃsinī(haṃsinī) and(ca) then(tataḥ) naṭī(naṭī)
+[saving-one](tāriṇī) [lioness](siṃhinī) [and-then](cātho) [swan-one](haṃsinī) [and](ca) [then](tato) [dancer](naṭī)
 
 ## mukta-m0-p54-v1328
-krodha-weapon-two-name-end(krodha+astra+dvaya+nāma+ante) bhūta-vīrya-three-kūrca(bhūta+vīrya+astra+tri+kūrcataḥ)
+[wrath-weapon-two-name-end](krodhāstradvayanāmānte) [spirit-power-trikūrca-from](bhūtavīryastrikūrcataḥ)
 
 ## mukta-m0-p54-v1329
-krodha-two(krodha+dvayaṃ) but(tu) mantra-this(mantraḥ+ayaṃ) of-vibhūṣiṇī(vibhūṣiṇyāḥ) declared(udāhṛtaḥ)
+[wrath-two](krodhadvayaṃ) [indeed](tu) [mantra-this](mantro'yaṃ) [adorned-one's](vibhūṣiṇyāḥ) [is-declared](udāhṛtaḥ)
 
 ## mukta-m0-p54-v1330
-whose(yasyāḥ) hair-mass-filled-entire-earth(keśa+kula+ākula+akhila+mahī) mountain-end(may)protect(śaila+antam+ārakṣatu)
+[whose](yasyāḥ) [hair-mass-tangled](keśakulākulā) [whole-earth](akhilamahī) [mountain-end](śailāntam) [may-protect](ārakṣatu)
 
 ## mukta-m0-p54-v1331
-one-should-chant(japet) eight-thousand(aṣṭa+sahasraṃ) but(tu) meditating(dhyāyan) one-pointed-mind(ekāgra+mānasaḥ)
+[should-recite](japed) [eight-thousand](aṣṭasahasraṃ) [indeed](tu) [meditating](dhyāyan) [one-pointed-mind](ekāgramānasaḥ)
 
 ## mukta-m0-p54-v1332
-one-should-chant(prajapet) at-midnight(ardha+rātre) but(tu) comes(samāyāti) vibhūṣiṇī(vibhūṣiṇī)
+[should-recite](prajaped) [midnight](ardharātre) [indeed](tu) [comes](samāyāti) [adorned-one](vibhūṣiṇī)
 
 ## mukta-m0-p54-v1333
-mother(mātā) or(vā) sister(bhaginī) wife(bhāryā) pleased(tuṣṭā) becomes(bhavati) desired(kāmitā)
+[mother](mātā) [or](vā) [sister](bhaginī) [wife](bhāryā) [pleased](tuṣṭā) [becomes](bhavati) [desired](kāmitā)
 
 ## mukta-m0-p54-v1334
-hundred-eight-retinue(śata+aṣṭa+parivārasya) gives(dadāti) collyrium-ornament(añjana+bhūṣaṇam)
+[hundred-eight-attendant's](śatāṣṭaparivārasya) [gives](dadāti) [collyrium-ornament](añjanabhūṣaṇam)
 
 ## mukta-m0-p54-v1335
-gives(dadāti) woman(striyam) having-brought(ānīya) divine(divyaṃ) mercury-elixir(rasa+rasāyanam)
+[gives](dadāti) [woman](striyam) [bringing](ānīya) [divine](divyaṃ) [mercury-elixir](rasarasāyanam)
 
 ## mukta-m0-p54-v1336
-of-dinars(dīnārāṇāṃ) thousand(sahasraṃ) but(tu) mercury(rasaṃ) and(ca) indeed(eva) elixir(rasāyanam)
+[dinars](dīnārāṇāṃ) [thousand](sahasraṃ) [indeed](tu) [mercury](rasaṃ) [and-indeed](caiva) [elixir](rasāyanam)
 
 ## mukta-m0-p54-v1337
-dhruva-māyā-weapon-two(dhruva+māyā+astra+dvayataḥ) declared(proktā) kuṇḍaladhāriṇī(kuṇḍaladhāriṇī)
+[certainly](dhruvam) [illusion-weapon-two-from](āyāstradvayataḥ) [declared](proktā) [earring-bearer](kuṇḍaladhāriṇī)
 
 ## mukta-m0-p54-v1338
-may-protect(pāyāt) kuṇḍaladhāriṇī(kuṇḍaladhāriṇī) of-three-worlds(tri+jagatām) bliss-mass-source(ānanda+sandoha+bhūḥ)
+[may-protect](pāyāt) [earring-bearer](kuṇḍaladhāriṇī) [three-worlds-joy-abundance-source](trijagatāmānandasandohabhūḥ)
 
 ## mukta-m0-p54-v1339
-comes(āyāti) with-blood(rudhireṇa) offering(arghyaḥ) to-be-given(deyaḥ) pleased(tuṣṭaḥ) gives(dadāti) also(api)
+[comes](āyāti) [with-blood](rudhireṇa) [arghya](arghyaḥ) [to-be-given](deyaḥ) [pleased](tuṣṭaḥ) [gives](dadāti) [also](api)
 
 ## mukta-m0-p54-v1340
-five-hundred-days(pañca+śata+vāsarāṇi) three-worlds(trailokyam) even(api) will-give(dāsyati)
+[five-hundred-days](pañcaśatavāsarāṇi) [three-worlds](trailokyam) [also](api) [will-give](dāsyati)
 
 ## mukta-m0-p54-v1341
-kūrca-three-weapon(kūrca+traya+astra) declared(saṃproktaḥ) sindūrahāriṇī-mantra(sindūrahāriṇī+manuḥ)
+[trikūrca-weapon-declared](kūrcatrayāstrasaṃproktaḥ) [vermilion-bearer-mantra](sindūrahāriṇīmanuḥ)
 
 ## mukta-m0-p54-v1342
-may-protect(pāyāt) beloved-root-rāhu-creeper(vallabha+mūla+rāhu+latikā) sindūrahāriṇī(sindūrahāriṇī) this(asau)
+[may-protect](pāyāt) [beloved-root-Rāhu-creeper](vallabhamūlarāhulatikā) [vermilion-bearer-this](sindūrahāriṇyasau)
 
 ## mukta-m0-p54-v1343
-quickly(śīghram) comes(āyāti) having-come(āgatā) she(sā) wife(bhāryā) becomes(bhavati) desired(kāmitā)
+[quickly-comes](śīghramāyātyāgatā) [she](sā) [wife](bhāryā) [becomes](bhavati) [desired](kāmitā)
 
 ## mukta-m0-p54-v1344
-protects(rakṣati) twelve-persons(dvādaśa+janān) goddess(devī) sindūrahāriṇī(sindūrahāriṇī)
+[protects](rakṣati) [twelve-people](dvādaśajanān) [goddess](devī) [vermilion-bearer](sindūrahāriṇī)
 
 ## mukta-m0-p54-v1345
-from-krodha-seed-three(krodha+bīja+trayāt) born(jātaḥ) proclaimed(kīrtitaḥ) siṃhinī-mantra(siṃhinī+manuḥ)
+[wrath-seed-three-from-born](krodhabījatrayājjātaḥ) [proclaimed](kīrtitaḥ) [lioness-mantra](siṃhinīmanuḥ)
 
 ## mukta-m0-p54-v1346
-she(sā+iyam) may-protect(pātu) all-head-mass-hanging-garland-filled(samasta+mastaka+kula+vyālambi+mālā+ākulā)
+[she-this](seyaṃ) [may-protect](pātu) [all-head-family-hanging-garland-tangled](samastamastakakulavyālambimālākulā)
 
 ## mukta-m0-p54-v1347
-then(tataḥ) pleased(hṛṣṭā) very-boon-giving(ati+varadā) siṃhinī(siṃhinī) comes(āyāti) worshipped(pūjitā)
+[then](tato) [delighted](hṛṣṭā) [very-boon-giving](ativaradā) [lioness-comes](siṃhinyāyāti) [worshipped](pūjitā)
 
 ## mukta-m0-p54-v1348
-dinar(dīnāraṃ) garment-pair(vastra+yugalaṃ) giving(dadhat) mercury-elixir(rasa+rasāyanam)
+[dinar](dīnāraṃ) [cloth-pair](vastrayugalaṃ) [giving](dadhad) [mercury-elixir](rasarasāyanam)
 
 ## mukta-m0-p54-v1349
-three-kūrca-weapon(tri+kūrca+astraṃ) and(ca) declared(kathitaḥ) haṃsinī-mantra-supreme(haṃsinī+manuḥ+uttamaḥ)
+[trikūrca-weapon](trikūrcāstraṃ) [and](ca) [declared](kathito) [swan-mantra-supreme](haṃsi(nī)manuruttamaḥ)
 
 ## mukta-m0-p54-v1350
-pearl-strung-swaying-garland-creeper(muktā+yukta+vilola+hāra+latikā) glorious-śrīhaṃsinī(śrī+haṃsinī) may-protect(pātu) you(vaḥ)
+[pearl-adorned-swinging-garland-creeper](muktāyuktavilolahāralatikā) [glorious-swan](śrīhaṃsinī) [may-protect](pātu) [you](vaḥ)

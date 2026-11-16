@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p01-v1
-[crying-loudly](rorūyamāṇāṃ) [by-hunger](kṣudhayā) + [fierce](ugra) + [kālī](kālīm)
+[roaring](rorūyamāṇāṃ) [hunger-fierce-kālī](kṣudhayograkālīm)
 
 ## mukta-m0-p01-v2
-[śiva](śiva) + [form](ākāraṃ) [by-mālinī](mālinyā) + [and-others](ādyam) + [asitāṅga](asitāṅga) + [and-others](ādi) + [yāmala](yāmalam)
+[śiva-form](śivākāraṃ) [mālinī-ādi-yama-asita-aṅga-ādi-yāmala](mālinyādyamasitāṅgādiyāmalam)
 
 ## mukta-m0-p01-v3
-[having-seen](dṛṣṭvā) [kṛtyā](kṛtyā) + [rite](vidhiṃ) [phetkāriṇī](phetkāriṇī) + [tantra](tantraṃ) [is-composed](viracyate)
+[seeing](dṛṣṭvā) [rite-of-kṛtyā](kṛtyāvidhiṃ) [phetkāriṇī-tantra](phetkāriṇītantraṃ) [is-composed](viracyate)
 
 ## mukta-m0-p01-v4
-[there](tatra) + [arisen](utpannā) [are-declared](nigadyante) [each-separately](pratyekaṃ) [from-śiva](śiva) + [and-śakti](śaktitaḥ)
+[there-born](tatrotpannā) [are-declared](nigadyante) [each](pratyekaṃ) [from-śiva-śakti](śivaśaktitaḥ)
 
 ## mukta-m0-p01-v5
-[from-them](tebhyaḥ) [indeed](eva) [arisen](samutpannāḥ) [syllables](varṇāḥ) [which](ye) [of-viṣṇu](viṣṇu) + [and-śūlin](śūlinoḥ)
+[from-them](tebhya) [indeed](eva) [born](samutpannā) [letters](varṇā) [of-viṣṇu-and-śūlin](viṣṇuśūlinoḥ)
 
 ## mukta-m0-p01-v6
-[first](prathamaṃ) [keśava](keśavaḥ) [declared](proktaḥ) + [then](tatas) [nārāyaṇa](nārāyaṇaḥ) [known](mataḥ)
+[first](prathamaṃ) [keśava](keśavaḥ) [is-declared](proktaḥ) [then](tato) [nārāyaṇa](nārāyaṇo) [is-held](mataḥ)
 
 ## mukta-m0-p01-v7
-[trivikrama](trivikramaḥ) + [likewise](tathā) [celebrated](khyātaḥ) [vāmana](vāmanaḥ) [śrīdhara](śrīdharaḥ) + [likewise](tathā)
+[trivikrama](trivikramaḥ) [thus](tathā) [renowned](khyātaḥ) [vāmana](vāmanaḥ) [śrīdhara](śrīdharaḥ) [thus](tathā)
 
 ## mukta-m0-p01-v8
-[vāsudeva](vāsudevaḥ) [saṃkarṣaṇa](saṃkarṣaṇaḥ) [pradyumna](pradyumnaḥ) + [and](ca) + [aniruddha](aniruddhakaḥ)
+[vāsudeva](vāsudevaḥ) [saṃkarṣaṇa](saṃkarṣaṇaḥ) [pradyumna](pradyumnaḥ) [aniruddha](cāniruddhakaḥ)
 
 ## mukta-m0-p01-v9
-[discus-holder](cakrī) [mace-holder](gadī) [likewise](tathā) [bow-holder](śārṅgī) [sword-holder](khaḍgī) [conch-holder](śaṅkhī) [plough-holder](halī) [likewise](tathā)
+[discus-bearer](cakrī) [mace-bearer](gadī) [thus](tathā) [śārṅga-bearer](śārṅgī) [sword-bearer](khaḍgī) [conch-bearer](śaṅkhī) [plough-bearer](halī) [thus](tathā)
 
 ## mukta-m0-p01-v10
-[mukunda](mukundaḥ) [nandana](nandanaḥ) [nandī](nandī) [nara](naraḥ) [naraka](naraka) + [conqueror](jit) + [hari](hariḥ)
+[mukunda](mukundo) [nandana](nandano) [nandī](nandī) [nara](naro) [narakajit](narakajiddhariḥ)
 
 ## mukta-m0-p01-v11
-[śūra](śūraḥ) [janārdana](janārdanaḥ) [celebrated](khyātaḥ) [earth-bearer](bhūdharaḥ) [universe](viśva) + [form](mūrtikaḥ)
+[hero](śūro) [janārdana](janārdanaḥ) [renowned](khyātaḥ) [earth-bearer](bhūdharo) [universal-form](viśvamūrtikaḥ)
 
 ## mukta-m0-p01-v12
-[bala](bala) + [elder-brother](agrajaḥ) + [likewise](tathā) [bāla](bālaḥ) [vṛṣa](vṛṣa) + [slayer](ghnaḥ) + [and](ca) [vṛṣa](vṛṣaḥ) + [also](api) [and](ca)
+[elder-of-bala](balāgrajaḥ) [thus](tathā) [child](bālo) [vṛṣa-slayer](vṛṣaghnaḥ) [and](ca) [vṛṣa](vṛṣaḥ) [also](api) [and](ca)
 
 ## mukta-m0-p01-v13
-[kīrti](kīrtiḥ) [kānti](kāntiḥ) + [likewise](tathā) [tuṣṭi](tuṣṭiḥ) [puṣṭi](puṣṭiḥ) + [dhṛti](dhṛtiḥ) + [also](api) [kṣamā](kṣamā)
+[fame](kīrtiḥ) [beauty](kāntiḥ) [thus](tathā) [satisfaction](tuṣṭiḥ) [nourishment](puṣṭiḥ) [steadiness](dhṛtiḥ) [also](api) [patience](kṣamā)
 
 ## mukta-m0-p01-v14
-[lajjā](lajjā) [lakṣmī](lakṣmīḥ) + [and-sarasvatī](sarasvatyau) [prīti](prītī) [rati](ratiḥ) + [these](imāḥ) [vowels](svarāḥ)
+[shame](lajjā) [lakṣmī](lakṣmī) [sarasvatī](sarasvatyau) [affection](prītī) [delight](ratirimāḥ) [tones](svarāḥ)
 
 ## mukta-m0-p01-v15
-[ramā](ramā) + [umā](umā) [kledinī](kledinī) [klinnā](klinnā) [vasudhā](vasudhā) [vasudā](vasudā) [supreme](parā)
+[rama-umā](ramomā) [moistening](kledinī) [wet](klinnā) [earth](vasudhā) [earth-giving](vasudā) [supreme](parā)
 
 ## mukta-m0-p01-v16
-[amoghā](amoghā) [vidyutā](vidyutā) [and](ca) + [indeed](eva) [śaktis](śaktayaḥ) [all](sarva) + [desire](kāma) + [granting](dāḥ)
+[unfailing](amoghā) [lightning](vidyutā) [and](ca) [indeed](eva) [powers](śaktayaḥ) [all-desire-giving](sarvakāmadāḥ)
 
 ## mukta-m0-p01-v17
-[keśava](keśava) + [and-others](ādyāḥ) [own](nija) + [limb](aṅga) + [situated](sthāḥ) [by-śakti](śaktyā) + [adorned](alaṅkṛta) + [bodies](vigrahāḥ)
+[keśava-etc](keśavādyāḥ) [in-own-limbs](nijāṅgasthāḥ) [by-power](śaktyā) [adorned-forms](alaṅkṛtavigrahāḥ)
 
 ## mukta-m0-p01-v18
-[kāntā](kāntā) [kṣāntā](kṣāntā) [and](ca) [kīrti](kīrti) + [and-others](ādyāḥ) [lotus](kamala) + [and-fearlessness](abhaya) + [handed](pāṇikāḥ)
+[beloved](kāntā) [patient](kṣāntā) [and](ca) [fame-etc](kīrtyādyāḥ) [lotus-fear-hand](kamalābhayapāṇikāḥ)
 
 ## mukta-m0-p01-v19
-[arghīśa](arghīśaḥ) [bhārabhūti](bhārabhūtiḥ) + [and](ca) [maulīśa](maulīśaḥ) [śālvakoṭara](śālvakoṭaraḥ)
+[argha-lord](arghīśo) [bhārabhūti](bhārabhūtiḥ) [ca](ca) [maulīśa](maulīśaḥ) [śālvakoṭara](śālvakoṭaraḥ)
 
 ## mukta-m0-p01-v20
-[akrūra](akrūraḥ) + [and](ca) [mahāsena](mahāsenaḥ) [own](sva) + [born](rajāḥ) [rudra](rudra) + [forms](mūrtayaḥ)
+[akrūra](akrūraḥ) [ca](ca) [mahāsena](mahāsenaḥ) [born-of-svara](svarajā) [rudra-forms](rudramūrtayaḥ)
 
 ## mukta-m0-p01-v21
-[now](atha) + [one](eka) + [rudra](rudra) + [action](karma) + [one](eka) + [eye](netra) + [upraised](ūrdhva) + [four](catur) + [faced](ānanāḥ)
+[then-one-rudra-action-one-eye-upward-four-faced](athaikarudrakarmaikanetrordhvacaturānanāḥ)
 
 ## mukta-m0-p01-v22
-[ardhanārīśvara](ardhanārīśvara) [śyāmā](śyāmā) [beloveds](kāntāḥ) + [and](ca) + [aṣāḍhi](aṣāḍhi) + [and-daṇḍin](daṇḍinau)
+[ardhanārīśvara](ardhanārīśvara) [śyāmā](śyāmā) [beloved](kāntā) [and](ca) [āṣāḍhi-staff-bearers](āṣāḍhidaṇḍinau)
 
 ## mukta-m0-p01-v23
-[chagalaṇḍa](chagalaṇḍa) + [and-dviraṇḍa](dviraṇḍa) + [lords](īśau) [mahākāla](mahākāla) + [and-kapālin](kapālinau)
+[chagalaṇḍa-dviraṇḍa-lords](chagalaṇḍadviraṇḍeśau) [mahākāla-kapālin](mahākālakapālinau)
 
 ## mukta-m0-p01-v24
-[śveta](śvetaḥ) [bhṛṅgīśa](bhṛṅgīśa) + [and-nakulin](nakulī) [śiva](śivaḥ) [saṃvartaka](saṃvartakaḥ) + [likewise](tathā)
+[white](śveto) [bhṛṅgīśa](bhṛṅgīśa) [nakulī](nakulī) [śiva](śivaḥ) [saṃvartaka](saṃvartakaḥ) [thus](tathā)
 
 ## mukta-m0-p01-v25
-[by-beloved](kāntā) + [embraced](āliṅgita) + [bodies](dehāḥ) + [and](ca) [skull](kapāla) + [and-trident](śūla) + [holders](pāṇayaḥ)
+[beloved-embraced-bodies](kāntāliṅgitadehāḥ) [ca](ca) [skull-trident-hands](kapālaśūlapāṇayaḥ)

@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p36-v876
-[water-natured](toyātmikā) [again+eternal](punar+nityā) [compassionate](dayāvatī) [remover](apahāriṇī)
+[water-souled](toyātmikā) [again-eternal](punarnityā) [compassionate-removing](dayāvatyapahāriṇī)
 
 ## mukta-m0-p36-v877
-[worthy-of-worship](samārādhyā) [delighting](nandanī) [and](ca) [supreme](parā) [universe+crushing](viśva+vimardinī)
+[well-worshipped](samārādhyā) [delighting](nandanī) [and](ca) [supreme](parā) [world-crushing](viśvavimardinī)
 
 ## mukta-m0-p36-v878
-[blameless](niravadyā) [wide+eyed](viśāla+akṣī) [breath+uplifting](śvāsa+udvāhā) [and](ca) [sounding](nādinī)
+[faultless](niravadyā) [wide-eyed](viśālākṣī) [breath-carrying](śvāsodvāhā) [and](ca) [sounding](nādinī)
 
 ## mukta-m0-p36-v879
-[leading](dhuryā) [hard-to-bear](durviṣahā) [afterwards+mountain-born](paścāt+adrijā) [pain+removing](tāpa+hāriṇī)
+[chief](dhuryā) [unbearable](durviṣahā) [born-after-mountain](paścādadrijā) [heat-removing](tāpahāriṇī)
 
 ## mukta-m0-p36-v880
-[world+guardians](loka+pālān) [then+should-worship](tathā+abhyarcet) [thunderbolt+etc+weapon+endowed](braja+ādi+āyudha+saṃyutān)
+[world-guardians](lokapālāṃstathā'bhyarcet) [thus](tathā) [should-worship](abhyarcet) [armed-with-braja-etc](brajādyāyudhasaṃyutān)
 
 ## mukta-m0-p36-v881
-[fire-weapon+authority](āgneyāstra+adhikarī) [should-be](syāt) [its+procedure](tat+vidhānam) [is-declared](udīryate)
+[fire-weapon-master](āgneyāstrādhikarī) [may-be](syāt) [that-rite](tadvidhānam) [is-declared](udīryate)
 
 ## mukta-m0-p36-v882
-[previously+stated](pūrva+uktāḥ) [indeed](eva) [sage+etc](ṛṣi+ādyāḥ) [of-the-mantra](mantrasya) [are-declared](parikīrtitāḥ)
+[previously-stated](pūrvoktā) [indeed](eva) [rishi-etc](ṛṣyādyā) [of-mantra](mantrasya) [declared](parikīrtitāḥ)
 
 ## mukta-m0-p36-v883
-[mantra+placement+syllable+placement](mantra+nyāsa+pada+nyāsau) [one-should-perform](vidadhyāt) [in-reverse-order](pratilomataḥ)
+[mantra-placement](mantranyāsapadanyāsau) [foot-placement-dual](padanyāsau) [should-perform](vidadhyāt) [in-reverse-order](pratilomataḥ)
 
 ## mukta-m0-p36-v884
-[as-before+recitation+procedure](pūrva+vat+japa+kḷptiḥ) [should-be](syāt) [one-should-offer-oblations](juhuyāt) [with-previous+number](pūrva+saṃkhyayā)
+[as-before](pūrvavajjapakḷptiḥ) [japa-arrangement](japakḷptiḥ) [may-be](syād) [should-offer](juhuyāt) [with-previous-number](pūrvasaṃkhyayā)
 
 ## mukta-m0-p36-v885
-[worship](arcanam) [as-before](pūrva+vat) [one-should-perform](kuryāt) [its](tat) [powers](śaktīḥ) [in-reverse-order](pratilomataḥ)
+[worship](arcanaṃ) [as-before](pūrvavat) [should-do](kuryāt) [that](tat) [powers](śaktīḥ) [in-reverse](pratilomataḥ)
 
 ## mukta-m0-p36-v886
-[cruel+acts](krūra+karmāṇi) [one-should-perform](kurvīta) [by-reverse+procedure](pratiloma+vidhānataḥ)
+[cruel-acts](krūrakarmāṇi) [should-do](kurvīta) [by-reverse-rite](pratilomavidhānataḥ)
 
 ## mukta-m0-p36-v887
-[application+time](prayoga+kāle) [one-should-recite](prajapet) [eight](aṣṭau) [quarters](pādān) [in-reverse-order](vilomataḥ)
+[at-time-of-application](prayogakāle) [should-recite](prajaped) [eight](aṣṭau) [feet-padas](pādān) [in-reverse](vilomataḥ)
 
 ## mukta-m0-p36-v888
-[śrī+beginning](śrī+ādiḥ) [five+syllabled](pañca+akṣaraḥ) [quarter](pādaḥ) [to-be-known](jñeyaḥ) [knowledge+sense+consisting-of](jñāna+indriya+ātmakaḥ)
+[beginning-with-shri](śryādiḥ) [five-syllabled](pañcākṣaraḥ) [pada](pādo) [to-be-known](jñeyo) [sense-organ-natured](jñānendriyātmakaḥ)
 
 ## mukta-m0-p36-v889
-[ca+beginning+third](ca+ādyaḥ+tṛtīyaḥ) [five+syllabled](pañca+arṇaḥ) [five+element+consisting-of](pañca+bhūta+mayaḥ) [is-remembered](smṛtaḥ)
+[beginning-with-ca](cādyastṛtīyaḥ) [third](tṛtīyaḥ) [five-lettered](pañcārṇaḥ) [five-element-made](pañcabhūtamayaḥ) [remembered](smṛtaḥ)
 
 ## mukta-m0-p36-v890
-[daḥ](daḥ) [preceding](pūrvaḥ) [fifth](pañcamaḥ) [quarter](pādaḥ) [wave+formed](ūrmi+rūpaḥ) [six+syllabled](ṣaṭ+akṣaraḥ)
+[beginning-with-da](daḥ pūrvaḥ) [fifth](pañcamaḥ) [pada](pāda) [wave-formed](ūrmirūpaḥ) [six-syllabled](ṣaḍakṣaraḥ)
 
 ## mukta-m0-p36-v891
-[sa+preceding](sa+upūrvaḥ) [five+syllabled](pañca+varṇaḥ) [other](anyaḥ) [sound+etc+consisting-of](śabda+ādi+mayaḥ) [is-declared](īritaḥ)
+[beginning-with-sa](sopūrvaḥ) [five-lettered](pañcavarṇo'nyaḥ) [other](anyaḥ) [sound-beginning-made](śabdādimaya) [declared](īritaḥ)
 
 ## mukta-m0-p36-v892
-[thus](evam) [principle+combination](tattva+samāyogāt) [quarter+arrangement](pāda+kḷptiḥ) [is-explained](udāhṛtā)
+[thus](evaṃ) [by-element-combination](tattvasamāyogāt) [pada-arrangement](pādakḷptiḥ) [described](udāhṛtā)
 
 ## mukta-m0-p36-v893
-[principal+form+images](pradhāna+mūrti+pratimāḥ) [own+own+color+marked+splendor](sva+sva+varṇa+uṃdita+prabhāḥ)
+[chief-form-images](pradhānamūrtipratimāḥ) [own-color-risen-radiance](svasvavarṇoṃditaprabhāḥ)
 
 ## mukta-m0-p36-v894
-[deities](devatāḥ) [sense+born](indriya+utpannāḥ) [upward+gazed](ūrdhva+dṛṣṭayaḥ) [are-declared](īritāḥ)
+[deities](devatā) [sense-born](indriyotpannā) [upward-looking](ūrdhvadṛṣṭaya) [declared](īritāḥ)
 
 ## mukta-m0-p36-v895
-[element+form+syllable+born](dhātu+rūpa+akṣara+utpannāḥ) [rising+fire+shining](udaya+anala+śobhitāḥ)
+[element-form-letter-born](dhāturūpākṣarotpannā) [rising-fire-beautified](udayānalaśobhitāḥ)
 
 ## mukta-m0-p36-v896
-[these](etāḥ) [all](sarvāḥ) [are-remembered](smṛtāḥ) [neuter](klībāḥ) [sense+object+born](indriya+artha+udbhavāḥ) [female](striyaḥ)
+[these](etāḥ) [all](sarvāḥ) [remembered](smṛtāḥ) [neuter](klībā) [sense-object-born](indriyārthodbhavāḥ) [women](striyaḥ)
 
 ## mukta-m0-p36-v897
-[self+facing](sva+abhimukhyaḥ) [are-remembered](smṛtāḥ) [in-gentle-rite](saumye) [facing-away](parāṅmukhyaḥ) [in-other+act](anya+karmaṇi)
+[self-facing](svābhimukhyaḥ) [remembered](smṛtāḥ) [in-gentle](saumye) [turned-away](parāṅmukhyo'nyakarmaṇi) [in-other-act](anyakarmaṇi)
 
 ## mukta-m0-p36-v898
-[by-whom](yābhiḥ) [mantrin](mantrī) [may-burn](dahet) [of-enemy](śatroḥ) [kingdom](rājyam) [with+mountain+forest](sa+giri+kānanam)
+[by-which](yābhirmantrī) [mantra-user](mantrī) [would-burn](dahet) [of-enemy](śatroḥ) [kingdom](rājyaṃ) [with-mountains-forests](sagirikānanam)
 
 ## mukta-m0-p36-v899
-[among-demons](āsureṣu) [one-should-employ](prayuñjīta) [among-deities](devatāsu) [and](ca) [one-should-withdraw](saṃharet)
+[among-demons](āsureṣu) [should-employ](prayuñjīta) [among-deities](devatāsu) [and](ca) [should-destroy](saṃharet)
 
 ## mukta-m0-p36-v900
-[these](imāni) [human](mānuṣāṇi) [they-call](āhuḥ) [constellations](nakṣatrāṇi) [the-wise](manīṣiṇaḥ)
+[these](imāni) [human](mānuṣāṇyāhurnakṣatrāṇi) [say](āhuḥ) [constellations](nakṣatrāṇi) [wise](manīṣiṇaḥ)

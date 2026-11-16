@@ -16,15 +16,15 @@
 },
 {
 "surface": "paṭhet",
-"quick_gloss": "should-recite"
+"quick_gloss": "read"
 },
 {
 "surface": "paścāt",
-"quick_gloss": "afterwards"
+"quick_gloss": "after"
 },
 {
 "surface": "tān",
-"quick_gloss": "to-them"
+"quick_gloss": "them"
 },
 {
 "surface": "bravīmi",
@@ -36,7 +36,7 @@
 },
 {
 "surface": "priye",
-"quick_gloss": "O-beloved"
+"quick_gloss": "dear"
 }
 ]
 },
@@ -52,12 +52,8 @@
 "quick_gloss": "place"
 },
 {
-"surface": "amṛta",
-"quick_gloss": "O-nectar"
-},
-{
-"surface": "rūpiṇi",
-"quick_gloss": "formed-one"
+"surface": "amṛtarūpiṇi",
+"quick_gloss": "immortal+form"
 }
 ]
 },
@@ -78,15 +74,11 @@
 },
 {
 "surface": "vastuni",
-"quick_gloss": "object"
+"quick_gloss": "thing"
 },
 {
-"surface": "klinna",
-"quick_gloss": "O-moistened"
-},
-{
-"surface": "rūpiṇi",
-"quick_gloss": "formed-one"
+"surface": "klinnarūpiṇi",
+"quick_gloss": "wet+form"
 }
 ]
 },
@@ -102,12 +94,8 @@
 "quick_gloss": "having-become"
 },
 {
-"surface": "amṛta",
-"quick_gloss": "nectar"
-},
-{
-"surface": "aparākāre",
-"quick_gloss": "supreme-form"
+"surface": "amṛtāparākāre",
+"quick_gloss": "immortal+other+form"
 },
 {
 "surface": "mayi",
@@ -119,7 +107,7 @@
 },
 {
 "surface": "kuru",
-"quick_gloss": "make"
+"quick_gloss": "do"
 }
 ]
 },
@@ -131,12 +119,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "amṛta",
-"quick_gloss": "nectar"
-},
-{
-"surface": "varṣiṇī",
-"quick_gloss": "showering"
+"surface": "amṛtavarṣiṇī",
+"quick_gloss": "immortal+raining"
 },
 {
 "surface": "iti",
@@ -148,7 +132,7 @@
 },
 {
 "surface": "vadet",
-"quick_gloss": "one-should-say"
+"quick_gloss": "say"
 }
 ]
 },
@@ -164,8 +148,8 @@
 "quick_gloss": "declared"
 },
 {
-"surface": "pañcatriṃśadbhiḥ",
-"quick_gloss": "with-thirty-five"
+"surface": "pañcatriṃśadbhir",
+"quick_gloss": "thirty-five"
 },
 {
 "surface": "akṣaraiḥ",
@@ -185,28 +169,16 @@
 "quick_gloss": "having-touched"
 },
 {
-"surface": "arccana",
+"surface": "arccanapātrantu",
+"quick_gloss": "worship+vessel"
+},
+{
+"surface": "pūjayed",
 "quick_gloss": "worship"
 },
 {
-"surface": "pātram",
-"quick_gloss": "vessel"
-},
-{
-"surface": "tu",
-"quick_gloss": "indeed"
-},
-{
-"surface": "pūjayet",
-"quick_gloss": "one-should-worship"
-},
-{
-"surface": "dhenu",
-"quick_gloss": "with-cow"
-},
-{
-"surface": "mudrayā",
-"quick_gloss": "gesture"
+"surface": "dhenumudrayā",
+"quick_gloss": "cow+mudra"
 }
 ]
 },
@@ -218,24 +190,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "mahā",
-"quick_gloss": "great"
-},
-{
-"surface": "madya",
-"quick_gloss": "liquor"
-},
-{
-"surface": "pīyūṣa",
-"quick_gloss": "nectar"
-},
-{
-"surface": "rasam",
-"quick_gloss": "essence"
-},
-{
-"surface": "āvaha",
-"quick_gloss": "bring"
+"surface": "mahāmadyapīyūṣarasamāvaha",
+"quick_gloss": "great+wine+nectar+essence+bring"
 }
 ]
 },
@@ -247,36 +203,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "nyāsa",
-"quick_gloss": "by-nyāsa"
-},
-{
-"surface": "ukta",
-"quick_gloss": "declared"
-},
-{
-"surface": "sarva",
-"quick_gloss": "all"
-},
-{
-"surface": "mantraiḥ",
-"quick_gloss": "mantras"
-},
-{
-"surface": "ca",
-"quick_gloss": "and"
+"surface": "nyāsoktasarvamantraiśca",
+"quick_gloss": "nyasa+spoken+all+mantras"
 },
 {
 "surface": "svātmānaṃ",
-"quick_gloss": "one's-own-self"
+"quick_gloss": "self"
 },
 {
-"surface": "plāvayet",
-"quick_gloss": "one-should-flood"
-},
-{
-"surface": "tathā",
-"quick_gloss": "thus"
+"surface": "plāvayettathā",
+"quick_gloss": "drench"
 }
 ]
 },
@@ -288,28 +224,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "tarpayet",
-"quick_gloss": "one-should-propitiate"
+"surface": "tarpayed",
+"quick_gloss": "satisfy"
 },
 {
 "surface": "ādau",
-"quick_gloss": "in-the-beginning"
+"quick_gloss": "first"
 },
 {
-"surface": "ādi",
-"quick_gloss": "primordial"
+"surface": "ādināthaḥ",
+"quick_gloss": "first+lord"
 },
 {
-"surface": "nāthaḥ",
-"quick_gloss": "lord"
-},
-{
-"surface": "sadā",
-"quick_gloss": "eternal"
-},
-{
-"surface": "śivaḥ",
-"quick_gloss": "auspicious-one"
+"surface": "sadāśivaḥ",
+"quick_gloss": "ever+auspicious"
 }
 ]
 },
@@ -329,20 +257,12 @@
 "quick_gloss": "then"
 },
 {
-"surface": "siddha",
-"quick_gloss": "siddha"
-},
-{
-"surface": "aughāḥ",
-"quick_gloss": "hosts"
-},
-{
-"surface": "tān",
-"quick_gloss": "them"
+"surface": "siddhaughāstān",
+"quick_gloss": "siddha+streams"
 },
 {
 "surface": "pratarpayet",
-"quick_gloss": "one-should-propitiate"
+"quick_gloss": "satisfy"
 }
 ]
 },
@@ -354,8 +274,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "vyāsaḥ",
-"quick_gloss": "Vyāsa"
+"surface": "vyāsaśca",
+"quick_gloss": "vyasa"
 },
 {
 "surface": "ca",
@@ -363,15 +283,15 @@
 },
 {
 "surface": "vāmadevaḥ",
-"quick_gloss": "Vāmadeva"
+"quick_gloss": "vamadeva"
 },
 {
-"surface": "śukaḥ",
-"quick_gloss": "Śuka"
+"surface": "śukastathā",
+"quick_gloss": "shuka"
 },
 {
 "surface": "tathā",
-"quick_gloss": "likewise"
+"quick_gloss": "thus"
 }
 ]
 },
@@ -384,15 +304,15 @@
 "tokens": [
 {
 "surface": "tarpayet",
-"quick_gloss": "one-should-propitiate"
+"quick_gloss": "satisfy"
 },
 {
-"surface": "ṣaṭ",
+"surface": "ṣaṇ",
 "quick_gloss": "six"
 },
 {
 "surface": "nṛsiṃhaṃ",
-"quick_gloss": "Nṛsiṃha"
+"quick_gloss": "narasimha"
 },
 {
 "surface": "ca",
@@ -400,15 +320,15 @@
 },
 {
 "surface": "maheśaṃ",
-"quick_gloss": "Maheśa"
+"quick_gloss": "great+lord"
 },
 {
 "surface": "bhāskaraṃ",
-"quick_gloss": "Bhāskara"
+"quick_gloss": "sun"
 },
 {
 "surface": "tathā",
-"quick_gloss": "likewise"
+"quick_gloss": "thus"
 }
 ]
 },
@@ -424,28 +344,16 @@
 "quick_gloss": "and"
 },
 {
-"surface": "siddha",
-"quick_gloss": "in-siddha"
+"surface": "siddhaughe",
+"quick_gloss": "siddha+stream"
 },
 {
-"surface": "aughe",
-"quick_gloss": "host"
+"surface": "mānavaughe",
+"quick_gloss": "human+stream"
 },
 {
-"surface": "mānava",
-"quick_gloss": "in-human"
-},
-{
-"surface": "aughe",
-"quick_gloss": "host"
-},
-{
-"surface": "sadā",
-"quick_gloss": "eternal"
-},
-{
-"surface": "śivam",
-"quick_gloss": "auspicious-one"
+"surface": "sadāśivam",
+"quick_gloss": "ever+auspicious"
 }
 ]
 },
@@ -457,8 +365,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "āvāhayet",
-"quick_gloss": "one-should-invoke"
+"surface": "āvāhayed",
+"quick_gloss": "invite"
 },
 {
 "surface": "devīṃ",
@@ -466,11 +374,11 @@
 },
 {
 "surface": "mantrābhyāṃ",
-"quick_gloss": "with-two-mantras"
+"quick_gloss": "by-mantras"
 },
 {
-"surface": "pūjayet",
-"quick_gloss": "one-should-worship"
+"surface": "pūjayettathā",
+"quick_gloss": "worship"
 },
 {
 "surface": "tathā",
@@ -486,20 +394,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "mātaḥ",
-"quick_gloss": "O-mother"
+"surface": "mātar",
+"quick_gloss": "mother"
 },
 {
-"surface": "adyaihi",
+"surface": "adya",
 "quick_gloss": "today"
 },
 {
-"surface": "parama",
-"quick_gloss": "O-supreme"
+"surface": "ehi",
+"quick_gloss": "come"
 },
 {
-"surface": "īśvari",
-"quick_gloss": "goddess"
+"surface": "parameśvari",
+"quick_gloss": "supreme+goddess"
 }
 ]
 },
@@ -511,7 +419,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "pūjayāmi",
+"surface": "pūjayāmīha",
 "quick_gloss": "I-worship"
 },
 {
@@ -527,8 +435,8 @@
 "quick_gloss": "you"
 },
 {
-"surface": "su",
-"quick_gloss": "well-established"
+"surface": "susthirā",
+"quick_gloss": "well+steady"
 },
 {
 "surface": "bhava",
@@ -545,7 +453,7 @@
 "tokens": [
 {
 "surface": "cinmayasya",
-"quick_gloss": "of-the-consciousness-made"
+"quick_gloss": "consciousness+full"
 },
 {
 "surface": "aprameyasya",
@@ -553,7 +461,7 @@
 },
 {
 "surface": "nirguṇasya",
-"quick_gloss": "without-qualities"
+"quick_gloss": "quality-less"
 },
 {
 "surface": "aśarīriṇaḥ",
@@ -569,32 +477,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "liṅga",
-"quick_gloss": "in-liṅga"
-},
-{
-"surface": "sthaṇḍila",
-"quick_gloss": "altar"
-},
-{
-"surface": "vahni",
-"quick_gloss": "fire"
-},
-{
-"surface": "apsu",
-"quick_gloss": "waters"
+"surface": "liṅgasthaṇḍilavahnyapsu",
+"quick_gloss": "linga+platform+fire+waters"
 },
 {
 "surface": "phalake",
-"quick_gloss": "on-slab"
+"quick_gloss": "plank"
 },
 {
 "surface": "mūrdhni",
-"quick_gloss": "on-head"
+"quick_gloss": "head"
 },
 {
 "surface": "maṇḍale",
-"quick_gloss": "in-circle"
+"quick_gloss": "circle"
 }
 ]
 },
@@ -606,24 +502,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
+"surface": "rūpiṇaṃ",
+"quick_gloss": "formed"
+},
+{
 "surface": "kṛtvā",
 "quick_gloss": "having-made"
 },
 {
-"surface": "rūpiṇaṃ",
-"quick_gloss": "form-possessing"
+"surface": "karmakāṇḍe",
+"quick_gloss": "ritual+section"
 },
 {
-"surface": "karma",
-"quick_gloss": "in-ritual"
-},
-{
-"surface": "kāṇḍe",
-"quick_gloss": "section"
-},
-{
-"surface": "ratāḥ",
-"quick_gloss": "devoted"
+"surface": "ratā",
+"quick_gloss": "attached"
 },
 {
 "surface": "janāḥ",
@@ -639,20 +531,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "sarva",
-"quick_gloss": "all-pervading"
+"surface": "sarvagato",
+"quick_gloss": "all+pervading"
 },
 {
 "surface": "devaḥ",
 "quick_gloss": "god"
 },
 {
-"surface": "pratimā",
-"quick_gloss": "in-image"
-},
-{
-"surface": "ādau",
-"quick_gloss": "etc."
+"surface": "pratimādau",
+"quick_gloss": "image+etc"
 },
 {
 "surface": "virājate",
@@ -669,7 +557,7 @@
 "tokens": [
 {
 "surface": "viśvāsāt",
-"quick_gloss": "through-faith"
+"quick_gloss": "by-faith"
 },
 {
 "surface": "sānnidhyaṃ",
@@ -681,7 +569,7 @@
 },
 {
 "surface": "labhet",
-"quick_gloss": "obtains"
+"quick_gloss": "obtain"
 }
 ]
 },
@@ -701,20 +589,12 @@
 "quick_gloss": "ghee"
 },
 {
-"surface": "punaḥ",
+"surface": "punastadapi",
 "quick_gloss": "again"
 },
 {
-"surface": "tat",
-"quick_gloss": "that"
-},
-{
-"surface": "api",
-"quick_gloss": "also"
-},
-{
 "surface": "poṣayet",
-"quick_gloss": "one-should-nourish"
+"quick_gloss": "nourish"
 }
 ]
 },
@@ -726,7 +606,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "devaḥ",
+"surface": "devo",
 "quick_gloss": "god"
 },
 {
@@ -755,16 +635,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "pratiṣṭhāpya",
+"surface": "pratiṣṭhāpyārcayeddevi",
 "quick_gloss": "having-installed"
 },
 {
-"surface": "arcayet",
-"quick_gloss": "one-should-worship"
+"surface": "arcayed",
+"quick_gloss": "worship"
 },
 {
 "surface": "devi",
-"quick_gloss": "O-goddess"
+"quick_gloss": "goddess"
 },
 {
 "surface": "anyathā",
@@ -776,7 +656,7 @@
 },
 {
 "surface": "matam",
-"quick_gloss": "considered"
+"quick_gloss": "thought"
 }
 ]
 }

@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p108-v2676
-[with-substances-etc](dravyādyaiḥ) [should-satisfy](toṣayet) [brahmins](viprān) [should-feed](bhojayet) [thus](iti) [that](tat) [procedure](vidhiḥ)
+[by-materials+etc](dravyādyaiḥ) [satisfy](toṣayet) [brahmins](viprān) [feed](bhojayet) [thus](iti) [that](tad) [rule](vidhiḥ)
 
 ## mukta-m0-p108-v2677
-[by-whom](yaiḥ) [but](tu) [not](na) [done](kṛtaṃ) [that](tat) [fruit](phalaṃ) [of-you](tava)
+[those](yaḥ) [but](tu) [not](na) [done](kṛtam) [that](tat) [fruit](phalam) [yours](tava)
 
 ## mukta-m0-p108-v2678
-[month](māsaḥ) [śrāvaṇa](śrāvaṇaḥ) [middle](madhyamaḥ) [should-be](bhavet)
+[month](māsaḥ) [śrāvaṇa](śrāvaṇaḥ) [middle](madhyamaḥ) [be](bhavet)
 
 ## mukta-m0-p108-v2679
-[and](ca) [on-fourth](caturthyāṃ) [and](ca) [on-fourteenth](caturdaśyāṃ) [sacred-thread](pavitrakam)
+[and](ca) [fourth](caturthyām) [and](ca) [fourteenth](caturdaśyām) [sacred-thread](pavitrakam)
 
 ## mukta-m0-p108-v2680
-[silver](rājataṃ) [copper](tāmraṃ) [in-kali-age](kalau) [cotton](kārpāsakaṃ) [auspicious](śubham)
+[silver](rājatam) [copper](tāmram) [in-kali](kalau) [cotton](kārpāsakam) [auspicious](śubham)
 
 ## mukta-m0-p108-v2681
-[lotus-born](padmajātaṃ) [of-buddhists](saugatānāṃ) [of-śūdras](śūdrāṇāṃ) [linen](kṣaumam) [is-desired](iṣyate)
+[lotus-born](padmajātam) [buddhists](saugatānām) [shudras](śūdrāṇām) [linen](kṣaumam) [desired](iṣyate)
 
 ## mukta-m0-p108-v2682
-[muñja-grass-born](muñjajātaṃ) [of-vow-observers](vratasthānām) [woolen](āvikaṃ) [of-battle-seekers](samaraiṣiṇām)
+[munja-born](muñjajātam) [vow-keepers](vratasthānām) [wool](āvikam) [war-seekers](samaraiṣiṇām)
 
 ## mukta-m0-p108-v2683
-[supreme](paramaṃ) [declared](proktaṃ) [its-half](tadardhaṃ) [middle](madhyamaṃ) [remembered](smṛtam)
+[supreme](paramam) [stated](proktam) [half](tadardham) [middle](madhyamam) [remembered](smṛtam)
 
 ## mukta-m0-p108-v2684
-[of-worship](pūjā) [enclosure](āvaraṇa) [deities](devānāṃ) [equal](tulyāni) [should-make](racayet) [wise-one](budhaḥ)
+[worship-enclosure-gods](pūjāvaraṇadevānām) [equal](tulyāni) [fashion](racayet) [wise](budhaḥ)
 
 ## mukta-m0-p108-v2685
-[twelve](dvādaśa) [indeed](eva) [in-inferior](kaniṣṭhe) [should-be](syuḥ) [now](atha) [another](anyat) [and](ca) [sacred-thread](pavitrakam)
+[twelve](dvādaśa) [indeed](eva) [smallest](kaniṣṭhe) [be](syuḥ) [then-other](athānyat) [and](ca) [sacred-thread](pavitrakam)
 
 ## mukta-m0-p108-v2686
-[of-disciples](śiṣyāṇāṃ) [sacred-thread](pavitraṃ) [that](tat) [declared](udāhṛtam)
+[disciples](śiṣyāṇām) [sacred-thread](pavitram) [that](tat) [called](udāhṛtam)
 
 ## mukta-m0-p108-v2687
-[in-worship-place](pūjāsthāne) [then](atha) [with-vermilion](sindūra) [saffron](kuṃkuma) [red-sandalwood](āraktacandanaiḥ)
+[worship-place](pūjāsthāne) [here](atha) [vermilion-saffron-red-sandal](sindūrakuṃkumāraktacandanaiḥ)
 
 ## mukta-m0-p108-v2688
-[at-knot-places](granthisthāneṣu) [having-placed](saṃsthāpya) [on-seat](pīṭhe) [on-that](tat) [nine-threads](navatantuṣu)
+[knot-places](granthisthāneṣu) [placing](saṃsthāpya) [seat](pīṭhe) [that-nine-threads](tannavatantuṣu)
 
 ## mukta-m0-p108-v2689
-[nāga](nāgaḥ) [guru](guruḥ) [sun](raviḥ) [and](ca) [also](api) [śiva](śivaḥ) [aśiva](aśivau)
+[serpent-guru](nāgaguruḥ) [sun](raviḥ) [and](ca) [api](api) [shiva-ashiva](śivāśivau)
 
 ## mukta-m0-p108-v2690
-[pauruṣī](pauruṣī) [vīrā](vīrā) [gāyatrī](gāyatrī) [and](ca) [aparājitā](aparājitā)
+[human](pauruṣī) [heroic](vīrā) [gayatri](gāyatrī) [and](ca) [unconquered](aparājitā)
 
 ## mukta-m0-p108-v2691
-[to-be-worshipped](pūjyaṃ) [with-root-mantras](mūlamantraiḥ) [with-six-limbs](ṣaḍaṅgakam)
+[worship](pūjyam) [root-mantras](mūlamantraiḥ) [six-limbed](ṣaḍaṅgakam)
 
 ## mukta-m0-p108-v2692
-[placement-etc](nyāsādikaṃ) [there](tatra) [as-before](prāgvat) [worship](pūjāṃ) [one-should-perform](prakalpayet)
+[nyasa+etc](nyāsādikam) [there](tatra) [as-before](prāgvat) [worship](pūjām) [arrange](prakalpayet)
 
 ## mukta-m0-p108-v2693
-[with-root-mantra](mūlamantreṇa) [of-sacred-thread](pavitrasya) [offering](samarpaṇam)
+[root-mantra](mūlamantreṇa) [sacred-thread](pavitrasya) [offering](samarpaṇam)
 
 ## mukta-m0-p108-v2694
-[abundant](bhūyasīṃ) [afterwards](paścāt) [self-born](svayambhūḥ) [should-eat](añjīta) [observing-silence](vāgyataḥ)
+[abundant](bhūyasīm) [afterwards](paścāt) [self-born](svayambhūm) [consume](aśnīta) [speech-controlled](vāgyataḥ)
 
 ## mukta-m0-p108-v2695
-[I-shall-tell](vakṣyāmi) [there](tatra) [first](ādau) [pacification](śāntiḥ) [is-stated](ucyate)
+[I-will-speak](vakṣyāmi) [there](tatra) [first](ādau) [peace](śāntiḥ) [said](ucyate)
 
 ## mukta-m0-p108-v2696
-[sixfold](ṣoḍhā) [day-and-night](ahorātraṃ) [in-fifth-part](pañcameṃśe) [but](tu) [pacification](śāntikam)
+[six-fold](ṣoḍhā) [day-night](ahorātram) [fifth](pañcame) [part](aṃśe) [but](tu) [peace-rite](śāntikam)
 
 ## mukta-m0-p108-v2697
-[but](tu) [water-element](apastattvaṃ) [in-that](tasmin) [pacification](śāntikam) [one-should-perform](ācaret)
+[your-water-principle](tvapastattvam) [in-that](tasmin) [peace-rite](śāntikam) [perform](ācaret)
 
 ## mukta-m0-p108-v2698
-[one-should-worship](pūjayet) [with-sandalwood-etc](candanādyaiḥ) [thus](evaṃ) [with-vaṃ-seed](vaṃbījena) [in-enemy-pacification](śatruśāntike)
+[worship](pūjayet) [sandal+etc](candanādyaiḥ) [with-bija](vaṃbījena) [enemy-peace](śatruśāntike)
 
 ## mukta-m0-p108-v2699
-[one-should-show](darśayet)
+[show](darśayet)
 
 ## mukta-m0-p108-v2700
-[in-three](triṣu) [uttarā-nakṣatras](uttarāsu) [on-festival-days](parvāsu) [pacification](śāntikaṃ) [should-be](syāt) [for-twice-born](dvijanmasu)
+[three](triṣu) [northern](uttarāsu) [festivals](parvasu) [peace-rite](śāntikam) [be](syāt) [twice-born](dvijanmasu)

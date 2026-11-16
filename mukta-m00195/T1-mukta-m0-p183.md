@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p183-v4551
-[childbirth-pain](sūtikā)+[affliction](pīḍāṃ) [fear](bhayaṃ) [not](na)+[alone](ekākino) [should-be](bhavet)
+[childbirth-pain](sūtikā+pīḍāṃ) [fear](bhayaṃ) [not](na) [of-one-alone](eka+ākinaḥ) [may-be](bhavet)
 
 ## mukta-m0-p183-v4552
-[(p.-270)](p. 270) [with-this](anena)+[ghee](ājyaṃ) [thousand](sahasran)+[indeed](tu) [having-offered](hutvā) [enemy](śatru)+[house](gṛhaṃ) [should-go](vrajet)
+[with-this](anena) [clarified-butter](ājyaṃ) [thousand](sahasram) [indeed](tu) [having-offered](hutvā) [enemy-house](śatru+gṛhaṃ) [should-go](vrajet)
 
 ## mukta-m0-p183-v4553
-[gold](suvarṇa)+[increase](vṛddhi)+[accomplishment](siddhy)+[for-the-sake-of](arthaṃ) [ghee](ghṛtā)+[smeared](ktāḥ) [fuel-sticks](samidho) [should-offer](hunet)
+[gold-increase-accomplishment-for](suvarṇa+vṛddhi+siddhi+arthaṃ) [ghee-smeared](ghṛta+āktāḥ) [fuel-sticks](samidhaḥ) [one-should-offer](hunet)
 
 ## mukta-m0-p183-v4554
-[boat](naukā)+[standing](stho) [in-water](jale) [as](yad)+[like](van)+[not](na) [sinks](majjati)
+[boat-situated](naukā+sthaḥ) [in-water](jale) [as](yadvat) [not](na) [sinks](majjati)
 
 ## mukta-m0-p183-v4555
-[hearing](śṛṇvan)+[with-helps](ūtibhiḥ) [sit](sīda) [in-the-seat](sādanam)
+[hearing](śṛṇvan) [with-helps](ūtibhiḥ) [sit](sīda) [in-seat](sādanam)
 
 ## mukta-m0-p183-v4556
-[fuel-sticks](samidha) [of-udumbara](audumbaryas)+[likewise](tathā)+[indeed](eva) [in-second-sense-nominative]( [dvitīyārthe prathamā |]) [and](ca)
+[fuel-sticks](samidhaḥ) [of-udumbara](audumbaryaḥ) [likewise](tathā) [indeed](eva) [and](ca)
 
 ## mukta-m0-p183-v4557
-[increases](vivardhate) [and](ca)+[then](atha) [oblation](homaṃ) [should-perform](kuryāc)+[at-crossroads](catuṣpathe)
+[increases](vivardhate) [and](ca) [then](atha) [oblation](homaṃ) [one-should-perform](kuryāt) [at-crossroads](catuṣ+pathe)
 
 ## mukta-m0-p183-v4558
-[with-clay](mṛdā) [liṅga](liṃgaṃ) [having-made](kṛtvā) [and](ca) [should-bathe](snāpayet)+[likewise](tathā)
+[with-clay](mṛdā) [liṅga](liṃgaṃ) [having-made](kṛtvā) [and](ca) [one-should-bathe](snāpayet) [likewise](tathā)
 
 ## mukta-m0-p183-v4559
-[with-own-bodies](sa)+[bodies](stanūbhir)+[may-we-attain](vyaśema) [god](deva)+[ordained](hitaṃ) [which](yad)+[life](āyuḥ)
+[with-own-bodies](sa+tanūbhiḥ) [may-we-attain](vyaśema) [god-given](deva+hitaṃ) [which](yat) [lifespan](āyuḥ)
 
 ## mukta-m0-p183-v4560
-[becomes](bhavati) [from-impotence](ṣaṇḍhatvāc)+[and](ca) [is-released](vimucyate)
+[becomes](bhavati) [from-impotence](ṣaṇḍhatvāt) [and](ca) [is-released](vimucyate)
 
 ## mukta-m0-p183-v4561
-[increased](vṛddhā)+[life](yum)+[increases](anuvṛddhayo) [pleasing](juṣṭā) [may-be](bhavantu) [pleasures](juṣṭayaḥ)
+[increased-lifespan](vṛddha+āyu) [increasing](anuvṛddhayaḥ) [pleasing](juṣṭāḥ) [may-be](bhavantu) [pleasures](juṣṭayaḥ)
 
 ## mukta-m0-p183-v4562
-[rain](vṛṣṭir)+[may-be](bhavet)+[time](kālaṃ) [without](vinā) [then](tadā)
+[rain](vṛṣṭiḥ) [may-be](bhavet) [time](kālaṃ) [without](vinā) [then](tadā)
 
 ## mukta-m0-p183-v4563
-[of-lights](jyotiṣāṃ) [light](jyotir)+[one](ekaṃ) [that](tan)+[my](me) [mind](manaḥ) [auspicious](śiva)+[resolve](saṃkalpam)+[may-be](astu)
+[of-lights](jyotiṣāṃ) [light](jyotiḥ) [one](ekam) [that](tat) [my](me) [mind](manaḥ) [śivasaṃkalpamastu](śiva+saṃkalpam+astu)
 
 ## mukta-m0-p183-v4564
-[auspicious](śiva)+[resolve](saṃkalpam)+[may-be](astu)
+[śivasaṃkalpamastu](śiva+saṃkalpam+astu)
 
 ## mukta-m0-p183-v4565
-[that](tan)+[my](me) [mind](manaḥ) [auspicious](śiva)+[resolve](saṃkalpam)+[may-be](astu)
+[that](tat) [my](me) [mind](manaḥ) [śivasaṃkalpamastu](śiva+saṃkalpam+astu)
 
 ## mukta-m0-p183-v4566
-[auspicious](śiva)+[resolve](saṃkalpam)+[may-be](astu)
+[śivasaṃkalpamastu](śiva+saṃkalpam+astu)
 
 ## mukta-m0-p183-v4567
-[earthen](pārthivaṃ) [liṅga](liṃgam)+[excellent](uttamam)
+[earthen](pārthivaṃ) [liṅga](liṅgam) [supreme](uttamam)
 
 ## mukta-m0-p183-v4568
-[having-gathered](kroḍī)+[having-made](kṛtyā)+[unbroken-rice](kṣatāś)+[and](ca)+[thus](evaṃ) [to-be-placed](sthāpyāḥ) [place](sthāna)+[in-four](catuṣṭaye)
+[having-gathered](kroḍī+kṛtya) [unbroken-rice](akṣatāḥ) [and](ca) [thus](evaṃ) [to-be-placed](sthāpyāḥ) [in-four-places](sthāna+catuṣṭaye)
 
 ## mukta-m0-p183-v4569
-[of-verses](ṛcāṃ) [recitation](pāṭham)+[one](ekaṃ) [having-done](kṛtvā)+[unbroken-rice](kṣatān)+[should-place](nyaset)
+[of-verses](ṛcāṃ) [recitation](pāṭham) [one](ekaṃ) [having-done](kṛtvā) [unbroken-rice](akṣatān) [one-should-place](nyaset)
 
 ## mukta-m0-p183-v4570
-[second](dvitīya)+[etc.](ādi)+[in-watch](praharake) [south](dakṣiṇā)+[etc.](ādyāsu) [should-place](vinyaset)
+[in-second-watch](dvitīya+praharake) [in-southern-etc.](dakṣiṇa+ādyāsu) [one-should-place](vinyaset)
 
 ## mukta-m0-p183-v4571
-[should-be](syād)+[until-evening](āsāyaṃ) [indeed](tu) [rite](kṛtyaṃ) [having-done](kṛtvā) [and](ca) [should-eat](bhakṣayet)
+[should-be](syāt) [until-evening](ā+sāyaṃ) [indeed](tu) [rite](kṛtyaṃ) [having-done](kṛtvā) [and](ca) [one-should-eat](bhakṣayet)
 
 ## mukta-m0-p183-v4572
-[eight](aṣṭa)+[times](vāra) [thousand](sahasran)+[indeed](tu) [to-be-chanted](jāpyā) [these](etā) [verses](ṛcaḥ) [auspicious](śubhāḥ)
+[eight-times](aṣṭa+vāram) [thousand](sahasram) [indeed](tu) [to-be-chanted](jāpyāḥ) [these](etāḥ) [verses](ṛcaḥ) [auspicious](śubhāḥ)
 
 ## mukta-m0-p183-v4573
-[present](vartamānaṃ) [or](vā) [future](bhaviṣyad)+[also](api) [is-seen](dṛśyate)
+[present](vartamānaṃ) [or](vā) [future](bhaviṣyat) [also](api) [is-seen](dṛśyate)
 
 ## mukta-m0-p183-v4574
-[poverty](dāridrya)+[for-destruction](nāśāya) [not](na)+[other](anya)+[anything](kiñcin)+[for-men](nṛṇāṃ) [likewise](tathā)
+[for-destruction-of-poverty](dāridrya+nāśāya) [not](na) [anything-else](anyat+kiñcit) [of-men](nṛṇāṃ) [likewise](tathā)
 
 ## mukta-m0-p183-v4575
-[golden](hiraṇmayīṃ) [Lakṣmī](lakṣmīṃ) [O-Jātavedas](jātavedo) [to-me](ma) [bring](āvaha)
+[golden](hiraṇmayīṃ) [Lakṣmī](lakṣmīṃ) [O-Jātavedas](jātavedaḥ) [to-me](me) [bring](ā+vaha)

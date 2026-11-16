@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p136-v3376
-[verses](ślokān) [these](etān) [should-recite](paṭhet) [afterwards](paścāt) [to-them](tān) [I-say](bravīmi) [listen](śṛṇu) [O-beloved](priye)
+[verses](ślokān) [these](etān) [read](paṭhet) [after](paścāt) [them](tān) [I-say](bravīmi) [listen](śṛṇu) [dear](priye)
 
 ## mukta-m0-p136-v3377
-[place](nidhehi) [O-nectar](amṛta) + [formed-one](rūpiṇi)
+[place](nidhehi) [immortal+form](amṛtarūpiṇi)
 
 ## mukta-m0-p136-v3378
-[place](nidhehi) [in-this](asmin) [object](vastuni) [O-moistened](klinna) + [formed-one](rūpiṇi)
+[place](nidhehi) [in-this](asmin) [thing](vastuni) [wet+form](klinnarūpiṇi)
 
 ## mukta-m0-p136-v3379
-[having-become](bhūtvā) [nectar](amṛta) + [supreme-form](aparākāre) [in-me](mayi) [manifestation](visphuraṇaṃ) [make](kuru)
+[having-become](bhūtvā) [immortal+other+form](amṛtāparākāre) [in-me](mayi) [manifestation](visphuraṇaṃ) [do](kuru)
 
 ## mukta-m0-p136-v3380
-[nectar](amṛta) + [showering](varṣiṇī) + [thus](iti) + [word](padaṃ) [one-should-say](vadet)
+[immortal+raining](amṛtavarṣiṇī) [thus](iti) [word](padaṃ) [say](vadet)
 
 ## mukta-m0-p136-v3381
-[declared](proktaḥ) [with-thirty-five](pañcatriṃśadbhiḥ) + [syllables](akṣaraiḥ)
+[declared](proktaḥ) [thirty-five](pañcatriṃśadbhir) [syllables](akṣaraiḥ)
 
 ## mukta-m0-p136-v3382
-[having-touched](saṃspṛśya) [worship](arccana) + [vessel](pātram) + [indeed](tu) [one-should-worship](pūjayet) [with-cow](dhenu) + [gesture](mudrayā)
+[having-touched](saṃspṛśya) [worship+vessel](arccanapātrantu) [worship](pūjayed) [cow+mudra](dhenumudrayā)
 
 ## mukta-m0-p136-v3383
-[great](mahā) + [liquor](madya) + [nectar](pīyūṣa) + [essence](rasam) [bring](āvaha)
+[great+wine+nectar+essence+bring](mahāmadyapīyūṣarasamāvaha)
 
 ## mukta-m0-p136-v3384
-[by-nyāsa](nyāsa) + [declared](ukta) + [all](sarva) + [mantras](mantraiḥ) + [and](ca) [one's-own-self](svātmānaṃ) [one-should-flood](plāvayet) + [thus](tathā)
+[nyasa+spoken+all+mantras](nyāsoktasarvamantraiśca) [self](svātmānaṃ) [drench](plāvayettathā)
 
 ## mukta-m0-p136-v3385
-[one-should-propitiate](tarpayet) [in-the-beginning](ādau) [primordial](ādi) + [lord](nāthaḥ) [eternal](sadā) + [auspicious-one](śivaḥ)
+[satisfy](tarpayed) [first](ādau) [first+lord](ādināthaḥ) [ever+auspicious](sadāśivaḥ)
 
 ## mukta-m0-p136-v3386
-[twelve](dvādaśa) [then](tataḥ) [siddha](siddha) + [hosts](aughāḥ) [them](tān) [one-should-propitiate](pratarpayet)
+[twelve](dvādaśa) [then](tataḥ) [siddha+streams](siddhaughāstān) [satisfy](pratarpayet)
 
 ## mukta-m0-p136-v3387
-[Vyāsa](vyāsaḥ) + [and](ca) [Vāmadeva](vāmadevaḥ) [Śuka](śukaḥ) + [likewise](tathā)
+[vyasa](vyāsaśca) [and](ca) [vamadeva](vāmadevaḥ) [shuka](śukastathā) [thus](tathā)
 
 ## mukta-m0-p136-v3388
-[one-should-propitiate](tarpayet) [six](ṣaṭ) [Nṛsiṃha](nṛsiṃhaṃ) + [and](ca) [Maheśa](maheśaṃ) [Bhāskara](bhāskaraṃ) + [likewise](tathā)
+[satisfy](tarpayet) [six](ṣaṇ) [narasimha](nṛsiṃhaṃ) [and](ca) [great+lord](maheśaṃ) [sun](bhāskaraṃ) [thus](tathā)
 
 ## mukta-m0-p136-v3389
-[and](ca) [in-siddha](siddha) + [host](aughe) [in-human](mānava) + [host](aughe) [eternal](sadā) + [auspicious-one](śivam)
+[and](ca) [siddha+stream](siddhaughe) [human+stream](mānavaughe) [ever+auspicious](sadāśivam)
 
 ## mukta-m0-p136-v3390
-[one-should-invoke](āvāhayet) [goddess](devīṃ) [with-two-mantras](mantrābhyāṃ) [one-should-worship](pūjayet) + [thus](tathā)
+[invite](āvāhayed) [goddess](devīṃ) [by-mantras](mantrābhyāṃ) [worship](pūjayettathā) [thus](tathā)
 
 ## mukta-m0-p136-v3391
-[O-mother](mātaḥ) [today](adyaihi) [O-supreme](parama) + [goddess](īśvari)
+[mother](mātar) [today](adya) [come](ehi) [supreme+goddess](parameśvari)
 
 ## mukta-m0-p136-v3392
-[I-worship](pūjayāmi) [here](iha) [so-long](tāvat) [you](tvaṃ) [well-established](su) + [sthirā] [be](bhava)
+[I-worship](pūjayāmīha) [here](iha) [so-long](tāvat) [you](tvaṃ) [well+steady](susthirā) [be](bhava)
 
 ## mukta-m0-p136-v3393
-[of-the-consciousness-made](cinmayasya) [immeasurable](aprameyasya) [without-qualities](nirguṇasya) [bodiless](aśarīriṇaḥ)
+[consciousness+full](cinmayasya) [immeasurable](aprameyasya) [quality-less](nirguṇasya) [bodiless](aśarīriṇaḥ)
 
 ## mukta-m0-p136-v3394
-[in-liṅga](liṅga) + [altar](sthaṇḍila) + [fire](vahni) + [waters](apsu) [on-slab](phalake) [on-head](mūrdhni) [in-circle](maṇḍale)
+[linga+platform+fire+waters](liṅgasthaṇḍilavahnyapsu) [plank](phalake) [head](mūrdhni) [circle](maṇḍale)
 
 ## mukta-m0-p136-v3395
-[having-made](kṛtvā) [form-possessing](rūpiṇaṃ) [in-ritual](karma) + [section](kāṇḍe) [devoted](ratāḥ) [people](janāḥ)
+[formed](rūpiṇaṃ) [having-made](kṛtvā) [ritual+section](karmakāṇḍe) [attached](ratā) [people](janāḥ)
 
 ## mukta-m0-p136-v3396
-[all-pervading](sarva) + [gataḥ] [god](devaḥ) [in-image](pratimā) + [etc.](ādau) [shines](virājate)
+[all+pervading](sarvagato) [god](devaḥ) [image+etc](pratimādau) [shines](virājate)
 
 ## mukta-m0-p136-v3397
-[through-faith](viśvāsāt) [presence](sānnidhyaṃ) [deity](devatā) [obtains](labhet)
+[by-faith](viśvāsāt) [presence](sānnidhyaṃ) [deity](devatā) [obtain](labhet)
 
 ## mukta-m0-p136-v3398
-[and](ca) [ghee](ājyaṃ) [again](punaḥ) [that](tat) + [also](api) [one-should-nourish](poṣayet)
+[and](ca) [ghee](ājyaṃ) [again](punastadapi) [nourish](poṣayet)
 
 ## mukta-m0-p136-v3399
-[god](devaḥ) [not](na) [gives](dadāti) [fruit](phalaṃ) [of-men](nṛṇām)
+[god](devo) [not](na) [gives](dadāti) [fruit](phalaṃ) [of-men](nṛṇām)
 
 ## mukta-m0-p136-v3400
-[having-installed](pratiṣṭhāpya) [one-should-worship](arcayet) [O-goddess](devi) [otherwise](anyathā) [fruitless](niṣphalaṃ) [considered](matam)
+[having-installed](pratiṣṭhāpyārcayeddevi) [worship](arcayed) [goddess](devi) [otherwise](anyathā) [fruitless](niṣphalaṃ) [thought](matam)

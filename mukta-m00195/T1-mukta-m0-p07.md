@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p07-v151
-[should-be](bhavet) [where](yatra) [beginning-with-a-etc](ādi+gaḥ) [letter](varṇaḥ) [result](phalam) [there](tatra) [should-be](bhavet) [this](idam)
+[bhaved](bhaved) [yatra](yatra) [ādi+go](ādigo) [varṇaḥ](varṇaḥ) [phalaṃ](phalaṃ) [tatra](tatra) [bhaved](bhaved) [idam](idam)
 
 ## mukta-m0-p07-v152
-[women+happiness+making](strī+saukhya+kṛt) [wind+causing](vāta+kārī) [fortune+giving](bhāgya+daḥ) [action+accomplishment+making](kārya+siddhi+kṛt)
+[strī](strī) [saukhya](saukhya) [kṛt](kṛt) [vāta](vāta) [kārī](kārī) [bhāgya](bhāgya) [daḥ](daḥ) [kārya](kārya) [siddhi](siddhi) [kṛt](kṛt)
 
 ## mukta-m0-p07-v153
-[women+śūdra+outcaste](strī+śūdra+pratilomānām) [name+mantras](nāma+mantraiḥ) [worship](upāsanā)
+[strī](strī) [śūdra](śūdra) [pratiloma](pratiloma) [nāma](nāma) [mantra](mantra) [upāsanā](upāsanā)
 
 ## mukta-m0-p07-v154
-[mantra](manuḥ) [to-be-taken](grāhyaḥ) [vedic](vaidikaḥ) [here](atra) [especially](viśeṣataḥ)
+[manu](manu) [grāhya](grāhya) [vaidika](vaidika) [atra](atra) [viśeṣataḥ](viśeṣataḥ)
 
 ## mukta-m0-p07-v155
-[wind+fire+earth+water+ether](vāyu+agni+bhū+jala+ākāśa) [five+elements](pañca+tattvāni) [one-should-place](vinyaset)
+[vāyu](vāyu) [agni](agni) [bhū](bhū) [jala](jala) [ākāśa](ākāśa) [pañca](pañca) [tattva](tattva) [vinyaset](vinyaset)
 
 ## mukta-m0-p07-v156
-[beginning-with-ka-etc](kādi+kāḥ) [and](ca) [also](api) [six+groups](ṣaṭ+vargāḥ) [śa-ṣa-sa](śa+ṣa+sāḥ) [ha](haḥ) [and](ca) [kṣa](kṣaḥ) [likewise](tathā)
+[kādi](kādi) [kāḥ](kāḥ) [ca](ca) [api](api) [ṣaḍ](ṣaḍ) [vargāḥ](vargāḥ) [śaṣasā](śaṣasā) [ha](ha) [ca](ca) [kṣa](kṣa) [tathā](tathā)
 
 ## mukta-m0-p07-v157
-[therefore](tasmāt) [again](punaḥ) [mantra](manuḥ) [to-be-written](lekhyaḥ) [simultaneously](yugapat) [should-be](syāt) [completion](samāpanam)
+[tasmāt](tasmāt) [punar](punar) [manu](manu) [lekhyo](lekhyo) [yugapat](yugapat) [syāt](syāt) [samāpanam](samāpanam)
 
 ## mukta-m0-p07-v158
-[suffering](kaṣṭam) [but](tu) [in-enemy](śatrau) [form](rūpam) [in-neutral](same) [half](dalam)
+[kaṣṭaṃ](kaṣṭaṃ) [tu](tu) [śatrau](śatrau) [rūpaṃ](rūpaṃ) [same](same) [dalam](dalam)
 
 ## mukta-m0-p07-v159
-[quarter](pādaḥ) [in-friend](mitre) [but](tu) [likewise](tadvat) [that](tat) [suffering](kaṣṭam) [should-be](syāt) [part+consisting](kalā+ātmakam)
+[pāda](pāda) [mitre](mitre) [tu](tu) [tadvat](tadvat) [tu](tu) [tat](tat) [kaṣṭaṃ](kaṣṭaṃ) [syāt](syāt) [kalā](kalā) [ātmakam](ātmakam)
 
 ## mukta-m0-p07-v160
-[bhūtas+vetālas](bhūta+vetālāḥ) [piśācas](piśācāḥ) [and](ca) [otherwise](anyathā) [mantra](manum)
+[bhūta](bhūta) [vetāla](vetāla) [piśāca](piśāca) [ca](ca) [anyathā](anyathā) [manum](manum)
 
 ## mukta-m0-p07-v161
-[in-water+in-wind](salila+anilayoḥ) [likewise](tathā)
+[salila](salila) [anila](anila) [yos](yos) [tathā](tathā)
 
 ## mukta-m0-p07-v162
-[siddha+etc+wheel](siddha+ādi+cakram) [I-shall-tell](vakṣye) [here](iha) [which](yat) [having-known](jñātvā) [name](nāma) [one-should-make](kārayet)
+[siddha](siddha) [ādi](ādi) [cakraṃ](cakraṃ) [vakṣye](vakṣye) [ahaṃ](ahaṃ) [yat](yat) [jñātvā](jñātvā) [nāma](nāma) [kārayet](kārayet)
 
 ## mukta-m0-p07-v163
-[likewise](tathā) [in-wheel](cakre) [kūṭa+ṣaṇḍha+devoid](kūṭa+ṣaṇḍha+vivarjitān)
+[tathā](tathā) [cakre](cakre) [kūṭa](kūṭa) [ṣaṇḍha](ṣaṇḍha) [vivarjitān](vivarjitān)
 
 ## mukta-m0-p07-v164
-[own+name+syllable](sva+nāma+akṣaram) [beginning-from](ārabhya) [to-be-known](jñeyaḥ) [mantra+syllable+limit](mantra+akṣara+avadhiḥ)
+[sva](sva) [nāma](nāma) [akṣara](akṣara) [ārabhya](ārabhya) [jñeyaḥ](jñeyaḥ) [mantra](mantra) [akṣara](akṣara) [avadhiḥ](avadhiḥ)
 
 ## mukta-m0-p07-v165
-[succeeds](sidhyati) [in-time](kālena) [sādhya](sādhyaḥ) [succeeds](siddhyati) [or](vā) [not](na) [or](vā)
+[sidhyati](sidhyati) [kālena](kālena) [sādhyaḥ](sādhyaḥ) [siddhyati](siddhyati) [vā](vā) [na](na) [vā](vā)
 
 ## mukta-m0-p07-v166
-[great+knowledge+accomplishment](mahā+vidyā+sādhane) [siddhi+mātṛkā](siddhi+mātṛkām)
+[mahā](mahā) [vidyā](vidyā) [sādhane](sādhane) [siddhim](siddhim) [ātṛkām](ātṛkām)
 
 ## mukta-m0-p07-v167
-[in-order](kramāt) [in-these](eteṣu) [in-cells](koṣṭheṣu) [mātṛkā+letters](mātṛkā+arṇān) [one-should-place-well](suvinyaset)
+[kramāt](kramāt) [eteṣu](eteṣu) [koṣṭheṣu](koṣṭheṣu) [mātṛkā](mātṛkā) [arṇān](arṇān) [su](su) [vinyaset](vinyaset)
 
 ## mukta-m0-p07-v168
-[five+limbs+tithis+worlds](pañca+aṅga+tithi+viśve) [and](ca) [cells](koṣṭhāḥ) [there](tatra) [declared](prakīrtitāḥ)
+[pañca](pañca) [aṅga](aṅga) [tithi](tithi) [viśve](viśve) [ca](ca) [koṣṭhāḥ](koṣṭhāḥ) [tatra](tatra) [prakīrtitāḥ](prakīrtitāḥ)
 
 ## mukta-m0-p07-v169
-[from-that+place+obtained+cell](tat+tat+sthāna+āpta+koṣṭhāt) [but](tu) [by-previous+finger](pūrva+aṅgulyā) [by-guru+statement](guru+uktitaḥ)
+[tat](tat) [tat](tat) [sthāna](sthāna) [āpta](āpta) [koṣṭhāt](koṣṭhāt) [tu](tu) [pūrva](pūrva) [aṅgulyā](aṅgulyā) [guru](guru) [uktitaḥ](uktitaḥ)
 
 ## mukta-m0-p07-v170
-[susiddha+attained](susiddha+samprāptaḥ) [siddha+enemy](siddha+ariḥ) [kills](hanti) [family+born](gotra+jān)
+[su](su) [siddha](siddha) [samprāptaḥ](samprāptaḥ) [siddha](siddha) [ariḥ](ariḥ) [hanti](hanti) [gotra](gotra) [jān](jān)
 
 ## mukta-m0-p07-v171
-[susiddha](susiddhaḥ) [by-worship](bhajanāt) [sādhya+enemy](sādhya+ariḥ) [own+refuge](sva+āśrayam) [takes-away](haret)
+[su](su) [siddhaḥ](siddhaḥ) [bhajanāt](bhajanāt) [sādhya](sādhya) [ariḥ](ariḥ) [sva](sva) [āśrayaṃ](āśrayaṃ) [haret](haret)
 
 ## mukta-m0-p07-v172
-[susiddha](susiddhaḥ) [susiddha+enemy](susiddha+ariḥ) [family+destroyer](kula+apahaḥ)
+[su](su) [siddhaḥ](siddhaḥ) [su](su) [siddha](siddha) [ariḥ](ariḥ) [kula](kula) [apahaḥ](apahaḥ)
 
 ## mukta-m0-p07-v173
-[wife+killer](patnī+ghnaḥ) [then](atha) [ari+enemy](ari+ariḥ) [practitioner+destroyer](sādhaka+apahaḥ)
+[patnī](patnī) [ghnaḥ](ghnaḥ) [atha](atha) [ari](ari) [ariḥ](ariḥ) [sādhaka](sādhaka) [apahaḥ](apahaḥ)
 
 ## mukta-m0-p07-v174
-[seed+natured](bīja+ātmakaḥ) [mantra](mantraḥ) [there](tatra) [six+petal+mātṛkās](ṣaṭ+dala+mātṛkāḥ)
+[bīja](bīja) [ātmakaḥ](ātmakaḥ) [mantraḥ](mantraḥ) [tatra](tatra) [ṣaḍ](ṣaḍ) [dala](dala) [mātṛkāḥ](mātṛkāḥ)
 
 ## mukta-m0-p07-v175
-[one-should-place](nyaset) [mātṛkā+letters](mātṛkā+arṇān) [kūṭa+ṣaṇḍha+devoid](kūṭa+ṣaṇḍha+vivarjitān)
+[nyasen](nyasen) [mātṛkā](mātṛkā) [arṇān](arṇān) [kūṭa](kūṭa) [ṣaṇḍha](ṣaṇḍha) [vivarjitān](vivarjitān)

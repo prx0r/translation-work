@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p138-v3426
-sky-walker+(fem.)-pleased(vyomacarīprītā) always(sadā) be(astu) to-me(me)
+[sky-dweller](vyomacarī) [pleased](prītā) [always](sadā) [be](astu) [for-me](me)
 
 ## mukta-m0-p138-v3427
-seventeen-syllabled(saptadaśākṣaraḥ)
+[seven](sapta) [ten](daśa) [syllable](akṣaraḥ) [mantra](mantra)
 
 ## mukta-m0-p138-v3428
-nether-world-surface-situated(pātāla+tala+saṃsthāḥ) and(ca) by-Śiva-yoga(śiva+yogena) contemplated(bhāvitāḥ)
+[underworld-base-dwelling](pātālatalasaṃsthāḥ) [ca](ca) [by-shiva-yoga](śivayogena) [made-aware](bhāvitāḥ)
 
 ## mukta-m0-p138-v3429
-be-satisfied(tṛpyantu) pleased-minded(prīta+manasaḥ) beings(bhūtāḥ) accept(gṛhṇantu) this(imam) offering(balim)
+[be-satisfied](tṛpyantu) [pleased-minded](prītamanasaḥ) [spirits](bhūtāḥ) [receive](gṛhṇantu) [this](imaṃ) [offering](balim)
 
 ## mukta-m0-p138-v3430
-with-all-offerings(sarva+upacāra+sahitam) this(imam) worship-offering(pūjā+balim) one-should-say(vadet)
+[with-all-offerings](sarvopacārasahitam) [this](imaṃ) [worship-offering](pūjābalim) [let-one-say](vadet)
 
 ## mukta-m0-p138-v3431
-of-Kṣetrapāla(kṣetrapālasya) declared(samproktaḥ) all-accomplishment-effecting(sarva+siddhi+vidhāyakaḥ)
+[of-field-protector](kṣetrapālasya) [declared](samproktaḥ) [all-accomplishment-giving](sarvasiddhividhāyakaḥ)
 
 ## mukta-m0-p138-v3432
-by-offering-gift(bali+dānena) all-protection(sarva+rakṣām) may-he-make(karotu) for-me(me)
+[by-offering](balidānena) [all-protection](sarvarakṣāṃ) [let-him-do](karotu) [for-me](me)
 
 ## mukta-m0-p138-v3433
-by-Bhairava-presided(bhairava+adhiṣṭhita) to-the-eye(āyākṣaḥ) one-should-say(vadet) thus(iti)
+[bhairava-presided](bhairavādhiṣṭhitāyā) [eye](akṣo) [let-one-say](vadediti)
 
 ## mukta-m0-p138-v3434
-to-great-Kṣetrapāla(mahākṣetrapālāya) vauṣaṭ(vauṣaḍ) hum(hum) thus(iti)
+[to-great-field-protector](mahākṣetrapālāya) [vauṣaḍ](vauṣaḍ) [hum](hum) [iti](iti)
 
 ## mukta-m0-p138-v3435
-of-Kṣetrapāla(kṣetrapālasya) great-delight-causing(mahā+prīti+karaḥ) supreme(paraḥ)
+[of-field-protector](kṣetrapālasya) [great-pleasing](mahāprītikaraḥ) [supreme](paraḥ)
 
 ## mukta-m0-p138-v3436
-this(imām) worship-offering(pūjā+balim) thereafter(ataḥ) supreme(param)
+[this](imāṃ) [worship-offering](pūjābalim) [thereafter](ataḥ) [further](param)
 
 ## mukta-m0-p138-v3437
-of-Rājarājeśvara-named(rājarājeśvara+ākhyasya) of-deity(daivatasya) in-worship(samarcane)
+[of-king-of-kings-lord-named-deity](rājarājeśvarākhyasya) [daivatasya](daivatasya) [in-worship](samarcane)
 
 ## mukta-m0-p138-v3438
-may-be-pleased(prasīdatu) always(sarvadā)
+[be-gracious](prasīdatu) [always](sarvadā)
 
 ## mukta-m0-p138-v3439
-one-should-give(dadyāt) to-Kṣetrapāla(kṣetrapālāya) on-the-right(dakṣiṇe)
+[let-one-give](dadyāt) [to-field-protector](kṣetrapālāya) [to-right](dakṣiṇe)
 
 ## mukta-m0-p138-v3440
-with-thumb-and-ring-finger(aṃguṣṭha+anāmikābhyām) but(tu) of-Baṭuka(baṭukasya) should-be(bhavet) offering(baliḥ)
+[by-thumb-and-ring-finger](aṃguṣṭhānāmikābhyām) [of-baṭuka](baṭukasya) [becomes-offering](bhavedbaliḥ)
 
 ## mukta-m0-p138-v3441
-with-fingers(aṃgulībhiḥ) and(ca) with-all(sarvābhiḥ) one-should-give(dadyāt) being-offering(bhūta+balim) twice-born(dvijaḥ)
+[by-fingers](aṃgulībhiḥ) [ca](ca) [all](sarvābhiḥ) [let-brahmin-give](dadyādbhūtabaliṃ) [dvijaḥ](dvijaḥ)
 
 ## mukta-m0-p138-v3442
-with-thumb-and-middle-finger(aṃguṣṭha+madhyamābhyām) but(tu) of-Rājarājeśvara(rājarājeśvarasya) and(ca)
+[by-thumb-and-middle-finger](aṃguṣṭhamadhyamābhyāṃ) [tu](tu) [of-king-of-kings-lord](rājarājeśvarasya) [ca](ca)
 
 ## mukta-m0-p138-v3443
-with-well-ground-paste(supiṣṭena) one-should-make(kuryāt) four-finger-high(veda+aṃgula+unnatān)
+[well-ground](supiṣṭena) [let-one-make](kuryād) [veda-finger-raised](vedāṃgulonnatān)
 
 ## mukta-m0-p138-v3444
-handful-ghee-holding(karṣa+ājya+grāhiṇaḥ) one-should-make(kuryāt) nine(nava) seven(sapta) or(atha) five(pañca) and(ca)
+[by-karṣa-ghee-receiving](karṣājyagrāhiṇaḥ) [let-one-make](kuryāt) [nine](nava) [seven](sapta) [then](atha) [five](pañca) [ca](ca)
 
 ## mukta-m0-p138-v3445
-family-lamp(kula+dīpam) one-should-offer(nivedayet)
+[family-lamp](kuladīpaṃ) [let-one-offer](nivedayet)
 
 ## mukta-m0-p138-v3446
-O-goddess(devi) accept(gṛhāṇa) for-my(mama) accomplishment(siddhaye)
+[goddess](devi) [receive](gṛhāṇa) [my](mama) [for-accomplishment](siddhaye)
 
 ## mukta-m0-p138-v3447
-guru-foot-dust-devoted(guru+pāda+rajaḥ+joṣī) with-faith-and-devotion(śraddhā+bhakti+samanvitaḥ)
+[guru-foot-dust-desiring](gurupādarajojoṣī) [with-faith-devotion](śraddhābhaktisamanvitaḥ)
 
 ## mukta-m0-p138-v3448
-one-should-drink(pibet) wine(madyam) and(ca) thus(iti) of-scripture(śāstrasya) conclusion(niścayaḥ)
+[let-one-drink-wine](pibenmadyaṃ) [ceti](ceti) [of-scripture](śāstrasya) [certainty](niścayaḥ)
 
 ## mukta-m0-p138-v3449
-fruitless(niṣphalam) of-him(tasya) deity(devatā) not(na) is-pleased(prasīdati)
+[fruitless](niṣphalaṃ) [of-him](tasya) [deity](devatā) [not](na) [be-gracious](prasīdati)
 
 ## mukta-m0-p138-v3450
-Khaṭakī(khaṭakī) and(ca) indeed(eva) Kaivartī(kaivartī) of-universal-womb(viśva+yonikā)
+[khaṭakī](khaṭakī) [ca](ca) [eva](eva) [kaivartī](kaivartī) [viśvayonikā](viśvayonikā)
