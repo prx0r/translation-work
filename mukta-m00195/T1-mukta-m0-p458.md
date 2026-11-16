@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p458-v11426
-[six-syllabled-this](ṣaḍakṣaroyaṃ) [sage-etc-rite-end](munyādiprayogāntaṃ) [and](ca) [as-before](pūrvavat)
+[six-syllabled](ṣaḍakṣaraḥ) [this](ayam) [sage-etc.-application-end](muni+ādi+prayoga+antaṃ) [and](ca) [as-before](pūrvavat)
 
 ## mukta-m0-p458-v11427
-[six-syllabled](ṣaḍakṣaro) [mantra-king](mantrarājo) [japa-meditation-etc](japadhyānādi) [as-before](pūrvavat)
+[six-syllabled](ṣaḍakṣaraḥ) [mantra-king](mantra+rājaḥ) [recitation-meditation-etc.](japa+dhyāna+ādi) [as-before](pūrvavat)
 
 ## mukta-m0-p458-v11428
-[to-Govinda-thus](govindāyeti) [seven-syllabled](saptārṇaḥ) [as-before-sage-etc](prāgvanmunyādikaṃ) [considered](matam)
+[to-Govinda](govindāya) [thus](iti) [seven-syllabled](saptārṇaḥ) [as-before](prāk+vat) [sage-etc.](muni+ādi+kaṃ) [considered](matam)
 
 ## mukta-m0-p458-v11429
-[to-Krishna](kṛṣṇāya) [love-seed](kāmabījaṃ) [and](ca) [as-before-seven-syllabled](prāgvatsaptākṣaro) [mantra](manuḥ)
+[to-Kṛṣṇa](kṛṣṇāya) [desire-seed](kāma+bījaṃ) [and](ca) [as-before](prāk+vat) [seven-syllabled](saptākṣaraḥ) [mantra](manuḥ)
 
 ## mukta-m0-p458-v11430
-[for-devouring](bhakṣaṇāya) [two-syllable-end-this](dviṭhāntoyamaṣṭavarṇaḥ) [eight-lettered](aṣṭavarṇaḥ) [proclaimed](prakīrttitaḥ)
+[for-eating](bhakṣaṇāya) [ending-in-ṭha](dviṭha+antaḥ) [this](ayam) [eight-syllabled](aṣṭavarṇaḥ) [proclaimed](prakīrttitaḥ)
 
 ## mukta-m0-p458-v11431
-[eight-lettered](aṣṭavarṇaḥ) [named](samākhyāto) [sage-etc](munyādyaṃ) [as-before-considered](pūrvavanmatam)
+[eight-syllabled](aṣṭavarṇaḥ) [declared](samākhyātaḥ) [sage-etc.](muni+ādyaṃ) [as-before](pūrva+vat) [considered](matam)
 
 ## mukta-m0-p458-v11432
-[to-Govinda](govindāya) [again](punaḥ) [love](kāmo) [nine-syllabled](navārṇaḥ) [proclaimed](parikīrttitaḥ)
+[to-Govinda](govindāya) [again](punaḥ) [desire-seed](kāmaḥ) [nine-syllabled](navārṇaḥ) [proclaimed](parikīrttitaḥ)
 
 ## mukta-m0-p458-v11433
-[ṅ-ending-and](ṅentaśca) [heart-ending-and](hṛdayāntaśca) [mantra](manuḥ) [said](prokto) [nine-syllabled](navākṣaraḥ)
+[ending-in-ṅ](ṅentaḥ) [and](ca) [ending-in-heart](hṛdaya+antaḥ) [and](ca) [mantra](manuḥ) [declared](proktaḥ) [nine-syllabled](navākṣaraḥ)
 
 ## mukta-m0-p458-v11434
-[to-dark-limbed](śyāmalāṅgāya) [heart](hṛdayaṃ) [ten-syllabled](daśārṇaḥ) [proclaimed](parikīrttitaḥ)
+[to-the-dark-limbed-one](śyāmalāṅgāya) [heart](hṛdayaṃ) [ten-syllabled](daśārṇaḥ) [proclaimed](parikīrttitaḥ)
 
 ## mukta-m0-p458-v11435
-[to-Krishna](kṛṣṇāya) [fire-born-ending](vahnijāyānto) [mantra](mantraḥ) [said](prokto) [ten-syllabled](daśākṣaraḥ)
+[to-Kṛṣṇa](kṛṣṇāya) [ending-in-fire-consort](vahni+jāyā+antaḥ) [mantra](mantraḥ) [declared](proktaḥ) [ten-syllabled](daśākṣaraḥ)
 
 ## mukta-m0-p458-v11436
-[Nanda-thus](nandeti) [child-body](bālavapuṣe) [svaha](svāhā) [fifteen-syllabled](paṃcadaśākṣaraḥ)
+[Nanda-etc.](nanda+iti) [to-the-child-bodied-one](bāla+vapuṣe) [svāhā](svāhā) [fifteen-syllabled](paṃcadaśākṣaraḥ)
 
 ## mukta-m0-p458-v11437
-[love-seed-two](kāmabījadvayaṃ) [Krishna-word](kṛṣṇapadaṃ) [Veda-syllable](vedārṇa) [called](ucyate)
+[desire-seed-pair](kāma+bīja+dvayaṃ) [Kṛṣṇa-word](kṛṣṇa+padaṃ) [four-syllabled](vedārṇaḥ) [is-called](ucyate)
 
 ## mukta-m0-p458-v11438
-[like-that-meditation](tadvaddhyānaṃ) [special-here](viśeṣotra) [wish-tree-under](kalpavṛkṣatale) [situated](sthitam)
+[like-that](tad+vat) [meditation](dhyānaṃ) [difference](viśeṣaḥ) [here](atra) [at-wish-fulfilling-tree-base](kalpa+vṛkṣa+tale) [situated](sthitam)
 
 ## mukta-m0-p458-v11439
-[great-lotus-and](mahāpadmaśca) [lotus-and](padmaśca) [conch](śaṅkho) [makara-turtle](makarakacchapau)
+[Mahāpadma](mahāpadmaḥ) [and](ca) [Padma](padmaḥ) [and](ca) [Śaṅkha](śaṅkhaḥ) [Makara-and-Kacchapa](makaraka+kacchapau)
 
 ## mukta-m0-p458-v11440
-[world-guardians-and](lokapālaiśca) [vajra-etc](vajrādyaiḥ) [behind-enclosure-two](paścādāvaraṇadvayam)
+[with-world-guardians](loka+pālaiḥ) [and](ca) [with-thunderbolt-etc.](vajra+ādyaiḥ) [afterwards](paścāt) [two-enclosures](āvaraṇa+dvayam)
 
 ## mukta-m0-p458-v11441
-[tenth-part](daśāṃśaṃ) [offer-fire](juhuyādagnau) [Sri-fruit-sweet-soaked](śrīphalairmadhuraplutaiḥ)
+[tenth-part](daśāṃśaṃ) [one-should-offer](juhuyāt) [in-fire](agnau) [with-bilva-fruits](śrī+phalaiḥ) [dipped-in-sweet-substances](madhura+plutaiḥ)
 
 ## mukta-m0-p458-v11442
-[sweet-three-true-intellect](madhuratrayasadbuddhyā) [pure-waters-day-arrival](śuddhatoyairdināgame)
+[with-three-sweets](madhura+traya) [with-pure-mind](sat+buddhyā) [with-pure-water](śuddha+toyaiḥ) [at-daybreak](dina+āgame)
 
 ## mukta-m0-p458-v11443
-[enjoyment-giver](bhuktiprado) [liberation-giver-and](muktidaśca) [all-desire-giver-thus](sarvakāmapradastviti)
+[enjoyment-giving](bhukti+pradaḥ) [and](ca) [liberation-giving](mukti+daḥ) [and](ca) [all-desires-granting](sarva+kāma+pradaḥ) [thus](tu) [indeed](iti)
 
 ## mukta-m0-p458-v11444
-[Krishna's-beginning](kṛṣṇasyādau) [two](dvayoḥ) [love-seeds](kāmabījayoraṃkayojanāt)
+[of-Kṛṣṇa](kṛṣṇasya) [at-beginning](ādau) [of-the-two](dvayoḥ) [of-desire-seeds](kāma+bījayoḥ) [by-joining-aṃ](aṃka+yojanāt)
 
 ## mukta-m0-p458-v11445
-[six-long-part](ṣaḍdīrghabhājā) [seed](bījena) [such](tādṛśenāṅgakalpanam)
+[endowed-with-six-long-vowels](ṣaḍ+dīrgha+bhājā) [with-seed](bījena) [with-such](tādṛśena) [limb-formation](aṅga+kalpanam)
 
 ## mukta-m0-p458-v11446
-[? waist](kiṃṅkiṇīsaṃvṛtakaṭiṃ) [blue-curled-hair](nīlakuñcitamūrddhajam)
+[with-waist-encircled-by-small-bells](kiṃṅkiṇī+saṃvṛta+kaṭiṃ) [with-dark-curly-hair](nīla+kuñcita+mūrddhajam)
 
 ## mukta-m0-p458-v11447
-[as-before-worship-etc](prāgvatpūjādikaṃ) [all](sarvaṃ) [preparatory-rite](puraścaryyā) [thus-said](tatheritā)
+[as-before](prāk+vat) [worship-etc.](pūjā+ādikaṃ) [all](sarvaṃ) [preliminary-rite](puraścaryyā) [likewise](tathā) [declared](īritā)
 
 ## mukta-m0-p458-v11448
-[libation-etc](tarppaṇādi) [then](tataḥ) [doing](kṛtvā) [guru](guruṃ) [effort](yatnena) [please](toṣayet)
+[libation-etc.](tarppaṇa+ādi) [then](tataḥ) [having-done](kṛtvā) [the-guru](guruṃ) [with-effort](yatnena) [one-should-please](toṣayet)
 
 ## mukta-m0-p458-v11449
-[from-mandala-all-grain-etc](maṇḍalātsarvasasyādi) [thing-born](vastujātaṃ) [then](tadā) [becomes](bhavet)
+[from-the-maṇḍala](maṇḍalāt) [all-crops-etc.](sarva+sasya+ādi) [collection-of-things](vastu+jātaṃ) [then](tadā) [will-be](bhavet)
 
 ## mukta-m0-p458-v11450
-[mantra](vāglajjāklīṃramāhrīṃgrīṃjrīṃtrīṃjayajayeti) [and](ca)
+[oṃ aiṃ hrīṃ śrīṃ klīṃ hrīṃ grīṃ jrīṃ trīṃ jayajaya kṛṣṇa kṛṣṇa nirantaraṃ krīṃ trīṃ nityapramuditaretasre nityakriyāya kṛṣṇāya klīṃ gopījanavallabhāya svāhā grīṃ hrīṃ ||](vāglajjāklīṃramāhrīṃgrīṃjrīṃtrīṃjayajayeti) [and](ca)

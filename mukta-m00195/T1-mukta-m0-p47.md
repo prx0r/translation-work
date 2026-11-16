@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p47-v1151
-[worship](arcayed) [fragrance-flowers-etc-by](gandhapuṣpādyair) [external-standing](bāhyasthaiḥ) [mental-by](mānasaistu) [or](vā)
+one-should-worship(arcayet) with-fragrance+flower+etc.(gandha+puṣpa+ādyaiḥ) with-external(bāhyaiḥ) or(vā) with-mental(mānasaiḥ) also(tu)
 
 ## mukta-m0-p47-v1152
-[heart-mantra-by](hṛnmanunā) [meditate](bhāvayet) [that-dissolution](tallayaṃ) [in-heart](hṛdi)
+with-heart-mantra(hṛt+manunā) one-should-contemplate(bhāvayet) its-dissolution(tat+layam) in-the-heart(hṛdi)
 
 ## mukta-m0-p47-v1153
-[suṣumṇā-end](suṣumṇāṃtaṃ) [thousand-rayed-like](sahasravisasannibham)
+up-to-suṣumṇā(suṣumṇā+antam) resembling-thousand-rayed(sahasra+visa+sannibham)
 
 ## mukta-m0-p47-v1154
-[contemplating](viciṃtyātha) [breath-control-here](prāṇāyāmatra) [which](yaṃ) [practice](caret)
+having-contemplated(vicintya) then(atha) breath-control(prāṇa+āyama) threefold(trayam) which(yam) one-should-perform(caret)
 
 ## mukta-m0-p47-v1155
-[placing](vidhāyā'tha) [in-heart](hṛdi) [deity](devaṃ) [meditate](vicintayet)
+having-placed(vidhāya) then(atha) in-the-heart(hṛdi) the-deity(devam) one-should-contemplate(vicintayet)
 
 ## mukta-m0-p47-v1156
-[earth](dharāṃ) [with-breath](śvāsayuktaṃ) [foot](pādaṃ) [place](nidhāpayet)
+on-the-earth(dharām) with-breath(śvāsa+yuktam) foot(pādam) one-should-place(nidhāpayet)
 
 ## mukta-m0-p47-v1157
-[foot-touch](pādasparśaṃ) [forgive-me](kṣamasvame)
+touching-of-foot(pāda+sparśam) forgive(kṣamasva) me(me)
 
 ## mukta-m0-p47-v1158
-[remember-weapon](smaredastrandūre) [phaṭ-mantra](phaṭ iti mantram) [go](yāyād) [brahmin-house](dvijālayāt)
+one-should-remember(smaret) weapon(astraṃ) far-away(dūre) [phaṭ iti mantram |] one-should-go(yāyāt) from-twice-born’s-abode(dvija+ālayāt)
 
 ## mukta-m0-p47-v1159
-[insect-urine-free](kīṭayoṣādirahitaṃ) [pure-place-this](śaucasthānamidampaṭhet)
+free-from-insects+moths+etc.(kīṭa+yoṣā+ādi+rahitam) purification-place(śauca+sthānam) this(idam) one-should-recite(paṭhet)
 
 ## mukta-m0-p47-v1160
-[around-abandon](paritastyajyatāṃ) [place](sthānaṃ) [for-feces-urine-release](viṇmūtrotsarjanāya) [me](me)
+all-around(paritaḥ) let-be-abandoned(tyajyatām) place(sthānam) for-discharge-of-feces+urine(viṭ+mūtra+utsarjanāya) for-me(me)
 
 ## mukta-m0-p47-v1161
-[there](tatra) [cloth](vāsasā) [water](kaṃ) [entering](praviśya) [and](ca)
+there(tatra) with-garment(vāsasā) water(kam) [jalam |] having-entered(praviśya) and(ca)
 
 ## mukta-m0-p47-v1162
-[linga](liṅge) [anus](gude) [seven](sapta) [ten](daśa) [left-hand](vāmakare) [thus](tathā)
+on-genitals(liṅge) on-anus(gude) seven(sapta) ten(daśa) on-left-hand(vāma+kare) likewise(tathā)
 
 ## mukta-m0-p47-v1163
-[hands-two](karadvaye) [and-one](caikā) [feet](pādayorathavā) [practice](caret)
+on-both-hands(kara+dvaye) and(ca) one(ekā) on-both-feet(pādayoḥ) or(atha) alternatively(vā) one-should-perform(caret)
 
 ## mukta-m0-p47-v1164
-[mouth-rinses](gaṇḍūṣānpūrīṣotsarjanāntare) [feces-release](viṣṭhātyage)
+mouthfuls(gaṇḍūṣān) at-end-of-feces-discharge(pūrīṣa+utsarjana+antare) [viṣṭhātyage |]
 
 ## mukta-m0-p47-v1165
-[tooth-cleaning-stick](dantadhāvanakāṣṭhaṃ) [indeed](tu) [said](proktaṃ) [tantra-knowers](tantravicakṣaṇaiḥ)
+tooth-cleaning-stick(danta+dhāvana+kāṣṭham) but(tu) declared(proktam) by-those-skilled-in-tantra(tantra+vicakṣaṇaiḥ)
 
 ## mukta-m0-p47-v1166
-[root-mantra](mūlānuno) [daily](nityaṃ) [observe](lakṣayetsiddhihetave)
+with-root-mantra(mūla+anunā) always(nityam) one-should-mark(lakṣayet) for-attainment-of-success(siddhi+hetave)
 
 ## mukta-m0-p47-v1167
-[go](yāyājjalaniketanam) [water-abode](jalaniketanam)
+one-should-go(yāyāt) to-water-abode(jala+niketanam)
 
 ## mukta-m0-p47-v1168
-[making](kṛtvā) [bank](taṭaṃ) [there](tatra) [and-one-part](caikabhāge) [wise](vicakṣaṇaḥ)
+having-made(kṛtvā) bank(taṭam) there(tatra) and(ca) in-one-part(eka+bhāge) the-skilled-one(vicakṣaṇaḥ)
 
 ## mukta-m0-p47-v1169
-[clay-cow-dung-by](mattikāgomayābhyāñca) [waist-until](kaṭyantaṃ) [bathing](snānamācaret)
+with-clay+and-cow-dung(mṛttikā+gomayābhyām) and(ca) up-to-waist(kaṭi+antam) bath(snānam) one-should-perform(ācaret)
 
 ## mukta-m0-p47-v1170
-[vedic-bath](vaidikasnānaṃ) [that-limb](tadaṅgaṃ) [offering](tarpaṇaṃ) [thus](tathā)
+vedic-bath(vaidika+snānam) its-limb(tat+aṅgam) libation(tarpaṇam) likewise(tathā)
 
 ## mukta-m0-p47-v1171
-[taking](samādāyāstramantreṇa) [weapon-mantra](astramantreṇa) [mantra-izing](mantrayitvā) [grass-etc](tṛṇādikam)
+having-taken(samādāya) with-weapon-mantra(astra+mantreṇa) having-consecrated(mantrayitvā) grass+etc.(tṛṇa+ādikam)
 
 ## mukta-m0-p47-v1172
-[head-to-foot](mūrddhādipādaparyantaṃ) [anointing](vilipya) [bow](praṇamejjalam)
+from-head-to-feet(mūrddha+ādi+pāda+paryantam) having-smeared(vilipya) one-should-bow-to(praṇamet) water(jalam)
 
 ## mukta-m0-p47-v1173
-[then](tato) [born](jātāstā) [waters](āpaḥ) [bow-I](praṇamāmyaham)
+then(tataḥ) born(jātāḥ) those(tāḥ) waters(āpaḥ) I-bow(praṇamāmi) I(aham)
 
 ## mukta-m0-p47-v1174
-[silent](tūṣṇīmutthāya) [navel-deep](nābhimātre) [water](jale) [man](naraḥ)
+silently(tūṣṇīm) having-risen(utthāya) in-navel-deep(nābhi+mātre) water(jale) a-man(naraḥ)
 
 ## mukta-m0-p47-v1175
-[root-mantra-by](mūlamantreṇa) [breath-control-three](prāṇāyāmatrayaṃ) [practice](caret)
+with-root-mantra(mūla+mantreṇa) breath-control(prāṇa+āyama) threefold(trayam) one-should-perform(caret)

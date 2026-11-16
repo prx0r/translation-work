@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p429-v10701
-[axe-bearer](paraśvadhadharo) [giver](dātā) [mother-killer](mātṛhā) [mother-life](mātṛjīvakaḥ)
+axe-holder(paraśvadha+dharaḥ) giver(dātā) mother-slayer(mātṛ+hā) mother-reviver(mātṛ+jīvakaḥ)
 
 ## mukta-m0-p429-v10702
-[clan-protector](gotrāṇakṛd) [cow-giver](gopradātā) [brahmin-kshatriya-deed-doer](viprakṣatriyakarmakṛt)
+lineage-maker(gotrāṇa+kṛt) cow-giver(go+pradātā) brahmin-kṣatriya-duty-performer(vipra+kṣatriya+karma+kṛt)
 
 ## mukta-m0-p429-v10703
-[no-untimely-death](nāpamṛtyuḥ) [no-poverty](na dāridryaṃ) [no-lineage-decay](naca vaṃśakṣayo) [may-be](bhavet)
+not(na) untimely-death(apamṛtyuḥ) not(na) poverty(dāridryaṃ) not(na) and(ca) lineage-destruction(vaṃśa+kṣayaḥ) may-be(bhavet)
 
 ## mukta-m0-p429-v10704
-[kingdom-maker](rājyakṛt) [kali-lords](kalibhūpānāṃ) [all-tantras](sarvatantreṣu) [hidden](gopitā)
+kingdom-maker(rājya+kṛt) of-kali-kings(kali+bhūpānāṃ) in-all-tantras(sarva+tantreṣu) hidden(gopitā)
 
 ## mukta-m0-p429-v10705
-[rama-mantras](rāmamantrān) [sa](sa) [bhagavan](bhagavan) [manvantara](pratimanvantare) [was](hyabhūta)
+Rāma-mantras(rāma+mantrān) he(saḥ) O-lord(bhagavan) in-each-Manvantara(prati+manvantare) indeed(hi) existed(abhūta)
 
 ## mukta-m0-p429-v10706
-[then](tato) [his](hyasya) [i-will-declare](pravakṣyāmi) [mantra-king](mantrarājaṃ) [six-syllabled](ṣaḍakṣaram)
+then(tataḥ) indeed(hi) of-this(asya) I-shall-declare(pravakṣyāmi) mantra-king(mantra+rājaṃ) six-syllabled(ṣaḍ+akṣaram)
 
 ## mukta-m0-p429-v10707
-[śrīṃ-tāra-initial](śrīṃtārādyaḥ) [ca](ca) [six-syllabled](ṣaḍvarṇaḥ) [mantra](mantraḥ) [this](ayaṃ) [sixfold](ṣaḍvidhaḥ) [considered](mataḥ)
+p.-629)(p. 629)) śrīṃ-and-tāra-beginning(śrīṃ+tāra+ādyaḥ) and(ca) six-lettered(ṣaḍ+varṇaḥ) mantra(mantreḥ) this(ayam) sixfold(ṣaḍ+vidhaḥ) considered(mataḥ)
 
 ## mukta-m0-p429-v10708
-[agastya](agastyaḥ) [śiva](śrīśivaḥ) [declared](proktā) [sages](munayaḥ) [in-order](anukramād) [first](ime)
+Agastya(agastyaḥ) Śrī-Śiva(śrī+śivaḥ) declared(proktāḥ) sages(munayaḥ) in-order(anukramāt) these(ime)
 
 ## mukta-m0-p429-v10709
-[fifty](pañcāśat) [mother-mantra](mātṛkāmantra) [syllable](varṇa) [each](pratyeka) [preceded](pūrvakaḥ)
+fifty(pañcāśat) mātṛkā-mantra-letter(mātṛkā+mantra+varṇa) each-prefixed(pratyeka+pūrvakaḥ)
 
 ## mukta-m0-p429-v10710
-[rama-chandra-mantra](rāmacandramanor) [divisions](bhedāḥ) [two-hundred](śatadvayam) [these](amī)
+of-Rāmacandra-mantra(rāmacandra+manoḥ) variations(bhedāḥ) two-hundred-measured(śata+dvaya+mitāḥ) these(amī)
 
 ## mukta-m0-p429-v10711
-[rama-seed-initial](ramābījādikānāṃ) [tu](tu) [viśvāmitra](viśvāmitraḥ) [sage](muniḥ) [considered](mataḥ)
+of-those-beginning-with-Ramā-seed(ramā+bīja+ādikānāṃ) but(tu) Viśvāmitra(viśvāmitraḥ) sage(muniḥ) considered(mataḥ)
 
 ## mukta-m0-p429-v10712
-[desire-seed-initial](kāmabījādipūrvāṇāṃ) [sage](muniḥ) [sammohana](sammohano) [considered](mataḥ)
+of-those-prefixed-by-Kāma-seed(kāma+bīja+ādi+pūrvāṇāṃ) sage(muniḥ) Sammohana(sammohanaḥ) considered(mataḥ)
 
 ## mukta-m0-p429-v10713
-[rama-bhadra](rāmabhadraḥ) [rama-chandra](rāmacandaḥ) [sixfold](ṣoḍhā) [six-syllabled](ṣaḍvarṇaḥ) [called](ucyate)
+Rāmabhadra(rāmabhadraḥ) Rāmacandra(rāmacandraḥ) sixfold(ṣoḍhā) six-syllabled(ṣaḍ+varṇaḥ) is-called(ucyate)
 
 ## mukta-m0-p429-v10714
-[sixfold](ṣoḍhā) [syāt](syāt) [fire-born-wife-end](vahnijāyāntaḥ) [sa](sa) [thus](evaṃ) [sixfold](ṣaḍvidhaḥ) [considered](mataḥ)
+sixfold(ṣoḍhā) may-be(syāt) fire-seed-ending(vahni+jāyā+antaḥ) that(saḥ) thus(evam) sixfold(ṣaḍ+vidhaḥ) considered(mataḥ)
 
 ## mukta-m0-p429-v10715
-[twenty-four](caturviṃśati) [number](saṃkhyākāḥ) [divisions](bhedāḥ) [by-him](tena) [determined](nirūpitāḥ)
+twenty-four-numbered(caturviṃśati+saṃkhyākāḥ) variations(bhedāḥ) by-that(tena) determined(nirūpitāḥ)
 
 ## mukta-m0-p429-v10716
-[seeds](bījaiḥ) [six-long-joined](ṣaḍdīrghasaṃyuktaiḥ) [six-limbs-rite](ṣaḍaṅgavidhiḥ) [declared](īritaḥ)
+with-seeds(bījaiḥ) six-long-vowel-joined(ṣaḍ+dīrgha+saṃyuktaiḥ) six-limb-procedure(ṣaḍ+aṅga+vidhiḥ) declared(īritaḥ)
 
 ## mukta-m0-p429-v10717
-[left-thigh-placed-hand](vāmorunyastataddhastaṃ) [sita-lakshmana-joined](sītālakṣmaṇasaṃyutam)
+on-left-thigh(vāma+uru) placed-that-hand(nyasta+tat+hastaṃ) with-Sītā-and-Lakṣmaṇa(sītā+lakṣmaṇa+saṃyutam)
 
 ## mukta-m0-p429-v10718
-[bilva-leaves](bilvapatraiḥ) [fruits](phalaiḥ) [flowers](puṣpaiḥ) [sesame](tilairvā) [lotuses](paṅkajair) [offer](hunet)
+with-bilva-leaves(bilva+patraiḥ) with-fruits(phalaiḥ) with-flowers(puṣpaiḥ) with-sesame-seeds(tilaiḥ) or(vā) with-lotuses(paṅkajaiḥ) one-should-offer(hunet)
 
 ## mukta-m0-p429-v10719
-[śrīṃ](śrīṃ) [sita](sītāyai) [dviṭha-end](dviṭhāntena) [left-side](vāmapārśvagatāṃ) [worship](yajet)
+śrīṃ(śrīṃ) to-Sītā(sītāyai) with-dviṭha-ending(dviṭha+antena) situated-on-left-side(vāma+pārśva+gatāṃ) one-should-worship(yajet)
 
 ## mukta-m0-p429-v10720
-[then](tataḥ) [triangle-shrine-tip](trikoṇakośāgre) [behind](pṛṣṭhato) [lakshmana](lakṣmaṇaṃ) [worship](yajet)
+then(tataḥ) at-tip-of-triangle-receptacle(trikoṇa+kośa+agre) behind(pṛṣṭhataḥ) Lakṣmaṇa(lakṣmaṇaṃ) one-should-worship(yajet)
 
 ## mukta-m0-p429-v10721
-[then](tataḥ) [six-petaled-center](ṣaḍdalamadhye) [tu](tu) [six-limbs](ṣaḍaṅgāni) [duly-worship](prapūjayet)
+then(tataḥ) in-middle-of-six-petals(ṣaḍ+dala+madhye) but(tu) six-limbs(ṣaḍ+aṅgāni) one-should-worship(prapūjayet)
 
 ## mukta-m0-p429-v10722
-[outer](tadbāhye) [desired-petal](iṣṭadalaṃ) [declared](proktaṃ) [worship](pūjayet) [desired-directions](iṣṭadikṣu) [ca](ca)
+outside-that(tat+bāhye) eight-petaled(aṣṭa+dalaṃ) declared(proktaṃ) one-should-worship(pūjayet) in-desired-directions(iṣṭa+dikṣu) and(ca)
 
 ## mukta-m0-p429-v10723
-[consecration](pratiṣṭhāṃ) [supreme-self](paramātmānaṃ) [then](tato) [vidya](vidyāṃ) [duly-worship](prapūjayet)
+Pratiṣṭhā(pratiṣṭhāṃ) Supreme-Self(paramātmānaṃ) then(tataḥ) Vidyā(vidyāṃ) one-should-worship(prapūjayet)
 
 ## mukta-m0-p429-v10724
-[various-self](nānātmānaṃ) [thus](tathā) [peace](śāntiṃ) [filaments](keśareṣu) [duly-worship](prapūjayet)
+Nānātmā(nānātmānaṃ) likewise(tathā) Śānti(śāntiṃ) in-filaments(keśareṣu) one-should-worship(prapūjayet)
 
 ## mukta-m0-p429-v10725
-[peace](śāntiṃ) [pradyumna](pradyumnam) [front](agre) [aniruddha](niruddhaṃ) [ca](ca) [rati](ratim) [worship](arcayet)
+Śānti(śāntiṃ) Pradyumna(pradyumnam) in-front(agre) Aniruddha(niruddhaṃ) and(ca) Rati(ratim) one-should-worship(arcayet)
