@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p108-v2676
-[there-indeed](tatraiva) [dwells](vasate) [durga](durgā) [nine+form+essence](navarūpātmikā) [supreme](parā)
+[there+indeed](tatraiva) [dwells](vasate) [durgā](durgā) [nine-form+consisting](navarūpa+ātmikā) [supreme](parā)
 
 ## mukta-m0-p108-v2677
-[who](yā) [durga+thus](durgeti) [remembered](smṛtā) [in+world](loke) [brahma+egg+belly+dwelling](brahmāṇḍodaravartinī)
+[who](yā) [durgā+thus](durgā+iti) [remembered](smṛtā) [in-the-world](loke) [brahmāṇḍa+womb+dwelling](brahmāṇḍa+udara+vartinī)
 
 ## mukta-m0-p108-v2678
-[mahiṣa](mahiṣasyāsurendrasya) [asura+indra+genitive](mahiṣasyāsurendrasya) [slaying](vadhārthāyāvatāritā) [purpose+descended](vadhārthāyāvatāritā)
+[of-mahiṣa](mahiṣasya) [demon-king](asura+indrasya) [for-slaying+purpose](vadha+arthāya) [descended](avatāritā)
 
 ## mukta-m0-p108-v2679
-[her+indeed](tāmevāharniśaṃ) [day+night](tāmevāharniśaṃ) [meditate](dhyāye) [śrīvidyā](śrīvidyāṃ) [supreme](paramāṃ) [chant](jape)
+[her+indeed](tām+eva) [day-and-night](ahar+niśaṃ) [i-meditate](dhyāye) [śrīvidyā](śrīvidyāṃ) [supreme](paramāṃ) [i-recite](jape)
 
 ## mukta-m0-p108-v2680
-[whom](yāṃ) [hearing](śrutvā) [that](sa) [śiva](śivo) [became](jātaḥ) [five+sound+essence](pañcanādātmakaḥ) [śiva](śivaḥ)
+[which](yāṃ) [having-heard](śrutvā) [he](sa) [śiva](śivo) [became](jātaḥ) [five-sound+consisting](pañca+nāda+ātmakaḥ) [śiva](śivaḥ)
 
 ## mukta-m0-p108-v2681
-[directly](sākṣād) [world+form](bhuvanarūpāpi) [also](bhuvanarūpāpi) [great+light+essence](mahājyotiḥsvarūpiṇī)
+[directly](sākṣāt) [universe-form+also](bhuvana+rūpā+api) [great-light+form](mahājyotiḥ+svarūpiṇī)
 
 ## mukta-m0-p108-v2682
-[śiva](śivaḥ) [from+radiance+circle](prabhāmaṇḍalato) [emerged](nirgato) [unconscious](acetano) [lord](vibhuḥ)
+[śiva](śivaḥ) [radiance-circle+from](prabhā+maṇḍalataḥ) [emerged](nirgataḥ) [unconscious](acetanaḥ) [all-pervading](vibhuḥ)
 
 ## mukta-m0-p108-v2683
-[created](sṛṣṭo) [first](agram) [leader](manunāyakaḥ)
+[created](sṛṣṭaḥ) [foremost+mantra-leader](agra+manu+nāyakaḥ)
 
 ## mukta-m0-p108-v2684
-[śiva](śivo) [chanted](jajāpa) [suddenly](sahasā) [seed](bījaṃ) [three+worlds](trijagatāṃ) [to+śivā](śive)
+[śiva](śivo) [recited](jajāpa) [suddenly](sahasā) [seed](bījaṃ) [of-three-worlds](tri+jagatāṃ) [o-śivā](śive)
 
 ## mukta-m0-p108-v2685
-[eternal+bliss+abode](sadānandālayaṃ) [supreme](param)
+[eternal-bliss+abode](sadā+ānanda+ālayaṃ) [supreme](param)
 
 ## mukta-m0-p108-v2686
-[then](tato) [sound](nādaṃ) [he](sa) [heard](śuśrāva) [bad+color+free](duṣṭavarṇavivarjitam)
+[then](tato) [sound](nādaṃ) [he](sa) [heard](śuśrāva) [evil-syllable+devoid](duṣṭa+varṇa+vivarjitam)
 
 ## mukta-m0-p108-v2687
-[then](tato) [having-chanted](japtvā) [supreme](parāṃ) [vidyā](vidyāmasṛjajjagadambike) [created](vidyāmasṛjajjagadambike) [world+mother](vidyāmasṛjajjagadambike)
+[then](tato) [having-recited](japtvā) [supreme](parāṃ) [knowledge](vidyām) [he-created](asṛjat) [o-mother-of-the-world](jagat+ambike)
 
 ## mukta-m0-p108-v2688
-[by-will+only](icchāmātraṃ) [o+śivā](śive) [universe](viśvaṃ) [universe+lord](viśveśvari) [moving+immoving](carācaram)
+[will+mere](icchā+mātraṃ) [o-śivā](śive) [universe](viśvaṃ) [o-lady-of-the-universe](viśva+īśvari) [moving-and-unmoving](cara+acaram)
 
 ## mukta-m0-p108-v2689
-[thus](itīmāṃ) [secret+vidyā](guptavidyāṃ) [indeed](tu) [having-obtained](labdhvā) [guru+foot+worship](gurupadārcanāt)
+[thus](iti) [this](imāṃ) [secret-knowledge](gupta+vidyāṃ) [indeed](tu) [having-obtained](labdhvā) [guru-feet+worship+from](guru+pada+arcanāt)
 
 ## mukta-m0-p108-v2690
-[cloth](vastraṃ) [fire](vahniṃ) [desire](ca) [wealth](dhanaṃ) [conduct](vṛttaṃ) [ca](ca) [practitioner](sādhakaḥ)
+[garment](vastraṃ) [fire](vahniṃ) [and](ca) [desire](kāmaṃ) [and](ca) [wealth](dhanaṃ) [conduct](vṛttaṃ) [and](ca) [practitioner](sādhakaḥ)
 
 ## mukta-m0-p108-v2691
-[śrīcakra](śrīcakramidamādhāraṃ) [this](śrīcakramidamādhāraṃ) [support](śrīcakramidamādhāraṃ) [of+goddess](devyā) [glory+cause](vibhavakāraṇam)
+[śrī-cakra](śrī+cakram) [this](idam) [support](ādhāraṃ) [of-the-goddess](devyā) [power+cause](vibhava+kāraṇam)
 
 ## mukta-m0-p108-v2692
-[cakra](cakraṃ) [should-draw](likhenmahādevi) [o+great+goddess](likhenmahādevi) [worshipable](pūjyamabjārkayordalaiḥ) [lotus+sun+petals](pūjyamabjārkayordalaiḥ)
+[cakra](cakraṃ) [one-should-draw](likhet) [o-great-goddess](mahā+devi) [to-be-worshipped](pūjyam) [lotus-and-sun+with-petals](abja+arkayoḥ+dalaiḥ)
 
 ## mukta-m0-p108-v2693
-[in+cakra](cakre) [should-worship](saṃpūjayedyastu) [whoever](saṃpūjayedyastu) [blue](nīlābhāṃ) [burning](dāhanīṃ) [radiance](dyutim)
+[in-cakra](cakre) [who](yaḥ) [should-worship](saṃpūjayet) [indeed](tu) [blue-hued](nīla+ābhāṃ) [burning](dāhanīṃ) [radiance](dyutim)
 
 ## mukta-m0-p108-v2694
-[shining+crown+radiant](lasanmukuṭarociṣṇuḥ) [he](sa) [becomes](bhavet) [practitioner+best](sādhakottamaḥ)
+[shining-crown+radiant](lasat+mukuṭa+rociṣṇuḥ) [he](sa) [would-become](bhavet) [practitioner+best](sādhaka+uttamaḥ)
 
 ## mukta-m0-p108-v2695
-[o+maheshvari](maheśvari)
+[o-great-goddess](mahā+īśvari)
 
 ## mukta-m0-p108-v2696
-[weapons](kheṭakāstasya) [his](kheṭakāstasya) [are-pleased](tuṣyanti) [practitioner+genitive](sādhakasyāṅgapūjanāt) [limb+worship](sādhakasyāṅgapūjanāt)
+[spirits](kheṭakāḥ) [his](tasya) [are-pleased](tuṣyanti) [of-practitioner](sādhakasya) [limb+worship+by](aṅga+pūjanāt)
 
 ## mukta-m0-p108-v2697
-[melted](vidrutāḥ)
+[fled](vidrutāḥ)
 
 ## mukta-m0-p108-v2698
-[durga](durgā) [gem-like](ratnavatī) [earth](bhūmistasya) [his](bhūmistasya) [seat](pīṭhaṃ) [charming](manoharam)
+[durgā](durgā) [jewel-possessing](ratna+vatī) [earth](bhūmiḥ) [his](tasya) [seat](pīṭhaṃ) [charming](manoharam)
 
 ## mukta-m0-p108-v2699
-[thus](evaṃ) [meditate](dhyāyenmahādevīṃ) [great+goddess](dhyāyenmahādevīṃ) [durga](durgāṃ) [misery+destroyer](durgatināśinīm)
+[thus](evaṃ) [one-should-meditate](dhyāyet) [on-great-goddess](mahā+devīṃ) [durgā](durgāṃ) [misfortune+destroyer](durgati+nāśinīm)
 
 ## mukta-m0-p108-v2700
-[not-to-be-spoken](avaktavyamadātavyaṃ) [not-to-be-given](avaktavyamadātavyaṃ) [to-be-concealed](gopanīyaṃ) [like+own+womb](svayonivat)
+[not-to-be-spoken](avaktavyam) [not-to-be-given](adātavyam) [to-be-concealed](gopanīyam) [own-womb+like](sva+yoni+vat)

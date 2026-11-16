@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p02-v26
-[those](tāni) [in-mirror](darpaṇe) [sees](paśyati)
+[those](tāni) [mirror](darpaṇ)+[in](e) [sees](paśyati)
 
 ## mukta-m0-p02-v27
-[sees](paśyati) [in-mirror](darpaṇa) [middle](madhye) [forms](rūpāṇi) [in-other-birth](bhavāṃtare)
+[sees](paśyati) [mirror](darpaṇa)+[in-middle](madhye) [forms](rūpāṇi) [in-another-existence](bhavāṃtare) [thus](ti)
 
 ## mukta-m0-p02-v28
-[goes](vrajati) [divine](divyaṃ) [person](puruṣaṃ) [not](na) [sees](paśyati)
+[goes](vrajati) [divine](divyaṃ) [person](puruṣaṃ) [not](na) [sees](paśyati)+[thus](iti)+[meaning](arthaḥ)
 
 ## mukta-m0-p02-v29
-[sees](paśyati) [person](puruṣaṃ) [divine](divyaṃ) [nature](prakṛtiṃ) [from-tagara-anjana](tagarāṃjanāt) [goes](vrajati)
+[sees](paśyati) [person](puruṣaṃ) [divine](divyaṃ) [nature](prakṛtiṃ) [tin](tagara)+[collyrium](āñjana)+[from](ād)+[goes](vrajati)
 
 ## mukta-m0-p02-v30
-[natural-state](svabhāvastham) [only](eva) [becomes](bhavati) [from-weeping](rodanāt) [turns-back](nivartate)
+[own-nature](svabhāva)+[abiding](stham)+[indeed](eva) [becomes](bhavati) [from-weeping](rodanāt)+[ceases](nivartate) [thus](iti)+[meaning](arthaḥ)
 
 ## mukta-m0-p02-v31
-[again](punarapi) [previously-done](purakṛtaṃ) [from-incense](dhūpāt) [all](sarvaṃ) [nature](prakṛtiṃ) [goes-quickly](vrajatyāśu)
+[again](punar)+[also](api) [previously-done](purakṛtaṃ) [from-incense](dhūpāt) [all](sarvaṃ) [nature](prakṛtiṃ) [goes](vrajati)+[quickly](āśu)
 
 ## mukta-m0-p02-v32
 [is-seen](dṛśyate)
 
 ## mukta-m0-p02-v33
-[nature-hood](prakṛtitvam) [attains](eti) [again](bhūyaḥ) [kaushika](kauśika) [by-incense](dhūpena) [incensed](dhūpitaṃ) [picture](citraṃ)
+[nature-state](prakṛti)+[hood](tvam)+[attains](eti) [again](bhūyaḥ) [O-Kauśika](kauśika) [with-incense](dhūpena) [fumigated](dhūpitaṃ) [picture](citraṃ)
 
 ## mukta-m0-p02-v34
-[from-hand-paste](hastalepāt) [wall](bhitti) [gone](gatāni) [various](nānā) [go](yāti) [paintings](ālekhyāni) [by-touch](sparśāt) [draws](karṣayati) [thrown](kṣiptameva)
+[hand](hasta)+[smearing](lepāt) [wall](bhitti)+[gone](gatāni) [variously](nānā)+[goes](yāti) [paintings](ālekhyāni) [from-touch](sparśāt)+[draws-away](ākarṣayati) [quickly](kṣiptam)+[indeed](eva)
 
 ## mukta-m0-p02-v35
-[by-that](tena) [from-hand-garbha-paste](karagarbhalepāt) [pictures](citrāṇi) [gathers-quickly](samākṣipatyāśu)
+[by-that](tena) [hand](kara)+[hollow](garbha)+[smearing](lepāt)+[pictures](citrāṇi) [completely](sam)+[draws-away](ākṣipati)+[quickly](āśu)
 
 ## mukta-m0-p02-v36
-[nature-making](prakṛtīkaraṇam)
+[nature](prakṛti)+[making](karaṇam)+[thus](iti)+[meaning](arthaḥ)
 
 ## mukta-m0-p02-v37
-[by-left](savyena) [picture-color-etc](citravarṇaprabhṛtī) [not](na) [from-left](savyato) [release](mokṣaḥ)
+[with-left](savyena) [picture](citra)+[color](varṇa)+[beginning-with](prabhṛtīn) [not](na) [from-left](savyato) [liberation](mokṣaḥ)
 
 ## mukta-m0-p02-v38
-[new-halinī-kesara](navahalinīkesara) [hides](jāgūhati) [pill](guṭikā) [three-metal-garbha](trilohagarbhasthā)
+[nine](nava)+[plough](halinī)+[hair](kesa)+[dust](raja)+[hides](gūhati) [pill](guṭikā) [three](tri)+[metal](loha)+[in-cavity](garbha)+[situated](sthā)
 
 ## mukta-m0-p02-v39
-[of-world](jagataḥ) [disappearance](antarddhānaṃ) [does](karoti)
+[of-world](jagataḥ)+[disappearance](antarddhānaṃ) [makes](karoti) [how-much-more](kimuta) [of-one](ekasya) [person](puruṣasya)+[thus](iti)+[meaning](arthaḥ)
 
 ## mukta-m0-p02-v40
-[three-metal-garbha-gone](lohatrayagarbhagataṃ) [hides](gūhati) [mouth](vaktra) [situated](sthitaṃ) [world-all](jagadaśeṣaṃ)
+[three](loha)+[metal](traya)+[cavity](garbha)+[gone](gataṃ) [hides](gūhati) [mouth](vaktra)+[situated](sthitaṃ) [world](jagat)+[entire](aśeṣaṃ)
 
 ## mukta-m0-p02-v41
-[sun-moon-fire-middle-gone](ravicandravahnimadhyagama) [being-seen](dṛśyamānane) [thrown](kṣiptaṃ)
+[sun](ravi)+[moon](candra)+[fire](vahni)+[middle](madhya)+[gone](gama) [visible](dṛśya)+[in-face](mānane) [thrown](kṣiptaṃ)
 
 ## mukta-m0-p02-v42
-[person](puruṣam) [unseen](adṛśye) [does](karoti) [kalpalalana](kalpalalanā) [named](nāmākhyā)
+[person](puruṣam)+[invisible](adṛśye) [makes](karoti) [kalpa](kalpa)+[lalana](lalanā)+[thus](iti) [name](nāma)+[called](ākhyā)
 
 ## mukta-m0-p02-v43
-[twice-born-leftover](dvijabhuktocchiṣṭa) [joined](yutā) [pill](guṭikeyaṃ) [kalpalalana-aksha](kalpalalanākṣā)
+[brahmin](dvija)+[eaten](bhukta)+[remnant](ucchiṣṭa)+[joined](yutā) [pill](guṭikā)+[this](iyaṃ) [kalpa](kalpa)+[lalana](lalanā)+[eye](akṣā)
 
 ## mukta-m0-p02-v44
-[by-that](tayā) [tilaka-made-person](kṛtatilakapuruṣo) [not](na) [seen](dṛśyate)
+[by-that](tayā) [made](kṛta)+[forehead-mark](tilaka)+[person](puruṣo) [not](na) [is-seen](dṛśyate) [thus](iti)+[meaning](arthaḥ)
 
 ## mukta-m0-p02-v45
-[three-worlds](tribhuvanam) [also](api) [hides](vinigūhati) [tilaka](tilaka) [act](kriyayā) [forehead-ridge](lalāṭataṭe)
+[three-worlds](tribhuvanam)+[even](api) [conceals](vinigūhati) [forehead-mark](tilaka)+[action](kriyayā) [forehead](lalāṭa)+[surface](taṭe)
 
 ## mukta-m0-p02-v46
-[siddha-anjana](siddhāṃjanaṃ) [hides](nigūhati) [black-cat](asitabiḍālāḥ) [ca](ca) [release-liberation](mokṣanirvāṇaṃ)
+[perfected](siddha)+[collyrium](āñjanaṃ) [conceals](nigūhati) [black](asita)+[cats](biḍālāḥ)+[and](ca) [liberation](mokṣa)+[extinction](nirvāṇaṃ)
 
 ## mukta-m0-p02-v47
-[hides](nigūhati) [how-much-more](kimutānya) [men](manuṣyebhyaḥ)
+[conceals](nigūhati) [how-much-more](kimuta)+[other](anya) [from-humans](manuṣyebhyaḥ)
 
 ## mukta-m0-p02-v48
-[how](kathameva) [place](sthānena) [becomes](bhavati)
+[how](katham)+[indeed](eva) [by-place](sthānena) [becomes](bhavati)
 
 ## mukta-m0-p02-v49
-[from-siddhas](siddhebhyaḥ) [also](api) [hides](nigūhati) [forehead-plate-tilaka-making](lalāṭapaṭṭatilakakaraṇena)
+[from-siddhas](siddhebhyaḥ)+[even](api) [conceals](nigūhati)+[forehead](lalāṭa)+[surface](paṭṭa)+[forehead-mark](tilaka)+[making](karaṇena)
 
 ## mukta-m0-p02-v50
-[essence-less](sārarahitāṃ) [hri](hri) [podbhava-tramku](podbhavatrāṃkuḥ) [does](prakaroti) [wonder](vismayaṃ) [in-world](loke)
+[essence](sāra)+[devoid](rahitāṃ) [shame](hrī)+[arisen](udbhava)+[trāṃkuḥ](trāṃkuḥ) [produces](prakaroti) [wonder](vismayaṃ) [in-world](loke)

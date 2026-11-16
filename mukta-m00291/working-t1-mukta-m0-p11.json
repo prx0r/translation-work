@@ -16,11 +16,15 @@
 },
 {
 "surface": "gaurī",
-"quick_gloss": "Gauri"
+"quick_gloss": "Gaurī"
 },
 {
-"surface": "brahmaṇāpi",
-"quick_gloss": "by-Brahma-too"
+"surface": "brahmaṇā",
+"quick_gloss": "by-Brahmā"
+},
+{
+"surface": "api",
+"quick_gloss": "also"
 },
 {
 "surface": "ca",
@@ -48,12 +52,20 @@
 "quick_gloss": "having-known"
 },
 {
-"surface": "punargaurī",
-"quick_gloss": "again-Gauri"
+"surface": "punar",
+"quick_gloss": "again"
 },
 {
-"surface": "paścācchrīgorakṣā",
-"quick_gloss": "afterwards-Sri-Goraksha"
+"surface": "gaurī",
+"quick_gloss": "Gaurī"
+},
+{
+"surface": "paścāt",
+"quick_gloss": "afterwards"
+},
+{
+"surface": "śrī+gorakṣā",
+"quick_gloss": "Śrī+Gorakṣa"
 },
 {
 "surface": "paṃca",
@@ -82,11 +94,11 @@
 },
 {
 "surface": "gorī",
-"quick_gloss": "Gauri"
+"quick_gloss": "Gaurī"
 },
 {
-"surface": "gorakṣanāmasahasrakam",
-"quick_gloss": "Goraksha-name-thousand"
+"surface": "gorakṣa+nāma+sahasrakam",
+"quick_gloss": "Gorakṣa+name+thousand"
 }
 ]
 },
@@ -98,16 +110,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "akārādi",
-"quick_gloss": "from-a"
+"surface": "akāra+ādi",
+"quick_gloss": "beginning-with-a"
 },
 {
-"surface": "akārāntaḥ",
-"quick_gloss": "to-a"
+"surface": "akāra+antaḥ",
+"quick_gloss": "ending-with-a"
 },
 {
-"surface": "paścānnāmāni",
-"quick_gloss": "afterwards-names"
+"surface": "paścāt",
+"quick_gloss": "afterwards"
+},
+{
+"surface": "nāmāni",
+"quick_gloss": "names"
 },
 {
 "surface": "pūritaḥ",
@@ -123,16 +139,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "kālokāla",
-"quick_gloss": "time-death"
+"surface": "kāla+ukāla",
+"quick_gloss": "time+of-time"
 },
 {
-"surface": "khaṇḍakalpāṇa",
-"quick_gloss": "fragment-era"
+"surface": "khaṇḍa+kalpāṇa",
+"quick_gloss": "fragment+kalpa"
 },
 {
-"surface": "kalpakeśvaraḥ",
-"quick_gloss": "era-lord"
+"surface": "kalpa+keśvaraḥ",
+"quick_gloss": "lord-of-kalpa"
 }
 ]
 },
@@ -144,16 +160,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "kriṃkāramaṃtrarūpaśca",
-"quick_gloss": "krim-mantra-form-and"
+"surface": "kriṃkāra+maṃtra+rūpaḥ",
+"quick_gloss": "krim-syllable+mantra+form"
 },
 {
-"surface": "krīṁkāra",
-"quick_gloss": "krim-mantra"
+"surface": "ca",
+"quick_gloss": "and"
 },
 {
-"surface": "maṃtrakārakaḥ",
-"quick_gloss": "mantra-maker"
+"surface": "krīṁkāra+maṃtra+kārakaḥ",
+"quick_gloss": "krīm-syllable+mantra+maker"
 }
 ]
 },
@@ -165,24 +181,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "karaparvata",
-"quick_gloss": "hand-mountain-dweller"
-},
-{
-"surface": "vāsī",
-"quick_gloss": "and"
+"surface": "kara+parvata+vāsī",
+"quick_gloss": "Kara-mountain+dweller"
 },
 {
 "surface": "ca",
-"quick_gloss": "ca"
+"quick_gloss": "and"
 },
 {
-"surface": "karaparvata",
-"quick_gloss": "hand-mountain-form"
-},
-{
-"surface": "rūpakaḥ",
-"quick_gloss": "rūpaka"
+"surface": "kara+parvata+rūpakaḥ",
+"quick_gloss": "Kara-mountain+form"
 }
 ]
 },
@@ -194,20 +202,24 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "kulācārya",
+"surface": "kula+ācārya",
 "quick_gloss": "family-teacher"
 },
 {
-"surface": "kulaṃdhara",
-"quick_gloss": "family-support"
+"surface": "kulaṃdhra",
+"quick_gloss": "family-supporter"
 },
 {
-"surface": "kulaṃdharayathā",
-"quick_gloss": "family-support-as"
+"surface": "kulaṃdhara",
+"quick_gloss": "family-supporter"
+},
+{
+"surface": "yathā",
+"quick_gloss": "as"
 },
 {
 "surface": "bhavān",
-"quick_gloss": "you"
+"quick_gloss": "you-are"
 }
 ]
 },
@@ -219,19 +231,19 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "kalānatha",
-"quick_gloss": "art-lord"
+"surface": "kalā+natha",
+"quick_gloss": "lord-of-arts"
 },
 {
-"surface": "kālanātha",
-"quick_gloss": "time-lord"
+"surface": "kāla+natha",
+"quick_gloss": "lord-of-time"
 },
 {
-"surface": "kulanātha",
-"quick_gloss": "family-lord"
+"surface": "kula+natha",
+"quick_gloss": "lord-of-family"
 },
 {
-"surface": "khaleśvaraḥ",
+"surface": "khala+īśvaraḥ",
 "quick_gloss": "lord-of-the-wicked"
 }
 ]
@@ -244,16 +256,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "khiṁ",
-"quick_gloss": "khim-khim-seed-form"
+"surface": "khiṁ+khiṁ+bīja",
+"quick_gloss": "khim-seed"
 },
 {
-"surface": "khriṁkāra",
-"quick_gloss": "khrim-seed-proclaimer"
+"surface": "svarūpā",
+"quick_gloss": "own-form"
 },
 {
-"surface": "bījavādinaḥ",
-"quick_gloss": "bījavādinaḥ"
+"surface": "ca",
+"quick_gloss": "and"
+},
+{
+"surface": "khriṁkāra+bīja+vādinaḥ",
+"quick_gloss": "khrim-syllable+seed+speaker"
 }
 ]
 },
@@ -265,20 +281,24 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "khekāra",
-"quick_gloss": "khe-sound"
+"surface": "khe+kāra",
+"quick_gloss": "khe-syllable"
 },
 {
-"surface": "khenivāsaśca",
-"quick_gloss": "khe-dweller"
+"surface": "khe+nivāsaḥ",
+"quick_gloss": "dwelling-in-sky"
 },
 {
-"surface": "khenātha",
-"quick_gloss": "khe-lord"
+"surface": "ca",
+"quick_gloss": "and"
 },
 {
-"surface": "khalapātakaḥ",
-"quick_gloss": "wicked-faller"
+"surface": "khe+nātha",
+"quick_gloss": "lord-of-sky"
+},
+{
+"surface": "khala+pātakaḥ",
+"quick_gloss": "destroyer-of-wicked"
 }
 ]
 },
@@ -290,24 +310,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "khasakāra",
-"quick_gloss": "kha-sound"
+"surface": "khasa+kāra",
+"quick_gloss": "kha-maker"
 },
 {
-"surface": "khasakeśa",
-"quick_gloss": "kha-haired"
+"surface": "khasa+keśa",
+"quick_gloss": "sky-haired"
 },
 {
-"surface": "khasanetra",
-"quick_gloss": "kha-eyed"
+"surface": "khasa+netra",
+"quick_gloss": "sky-eyed"
 },
 {
-"surface": "khaso",
-"quick_gloss": "kha-faced"
-},
-{
-"surface": "mukhaḥ",
-"quick_gloss": "mukha"
+"surface": "khaso+mukhaḥ",
+"quick_gloss": "sky-faced"
 }
 ]
 },
@@ -319,20 +335,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "khaṇḍanātha",
-"quick_gloss": "fragment-lord"
+"surface": "khaṇḍa+nātha",
+"quick_gloss": "lord-of-fragments"
 },
 {
-"surface": "khūranātha",
-"quick_gloss": "hoof-lord"
+"surface": "khūra+nātha",
+"quick_gloss": "lord-of-hooves"
 },
 {
-"surface": "khūreśvara",
-"quick_gloss": "hoof-lord"
+"surface": "khūra+īśvara",
+"quick_gloss": "lord-of-hooves"
 },
 {
-"surface": "khurādhipaḥ",
-"quick_gloss": "hoof-chief"
+"surface": "khura+ādhipaḥ",
+"quick_gloss": "ruler-of-hooves"
 }
 ]
 },
@@ -344,20 +360,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "go",
-"quick_gloss": "go-eye-host-lord"
+"surface": "go+netra+gaṇana+nātha",
+"quick_gloss": "cow+eye+group+lord"
 },
 {
-"surface": "netragaṇanātha",
-"quick_gloss": "netragaṇanātha"
+"surface": "dha+gaṇeṃdra",
+"quick_gloss": "dha-group+lord"
 },
 {
-"surface": "dhagaṇeṃdra",
-"quick_gloss": "dha-gaṇendra"
-},
-{
-"surface": "gaṇanāyaka",
-"quick_gloss": "gaṇa-leader"
+"surface": "gaṇa+nāyaka",
+"quick_gloss": "leader-of-hosts"
 }
 ]
 },
@@ -369,16 +381,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "gnīṁ",
-"quick_gloss": "gnim-gnim-seed-form"
+"surface": "gnīṁ+gnīṁ+bīja",
+"quick_gloss": "gnīm-seed"
 },
 {
-"surface": "gnīṁkāra",
-"quick_gloss": "gnim-mantra-seed-proclaimer"
+"surface": "svarūpaḥ",
+"quick_gloss": "own-form"
 },
 {
-"surface": "bījavādinaḥ",
-"quick_gloss": "bījavādinaḥ"
+"surface": "ca",
+"quick_gloss": "and"
+},
+{
+"surface": "gnīṁkāra+bīja+vādinaḥ",
+"quick_gloss": "gnīm-syllable+seed+speaker"
 }
 ]
 },
@@ -390,16 +406,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "gayāpiṇḍa",
-"quick_gloss": "Gayā-lump-form"
+"surface": "gayā+piṇḍa+svarūpaḥ",
+"quick_gloss": "Gayā+ball+form"
 },
 {
-"surface": "svarūpaśca",
-"quick_gloss": "svarūpa"
+"surface": "ca",
+"quick_gloss": "and"
 },
 {
-"surface": "gayāsuraprakāśakaḥ",
-"quick_gloss": "Gayāsura-manifest"
+"surface": "gayā+asura+prakāśakaḥ",
+"quick_gloss": "Gayāsura+revealer"
 }
 ]
 },
@@ -411,24 +427,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "gaṃdheśvara",
-"quick_gloss": "sandal-lord"
+"surface": "gaṃdha+īśvara",
+"quick_gloss": "lord-of-fragrance"
 },
 {
-"surface": "gaṃdhavāhā",
-"quick_gloss": "sandal-bearer"
+"surface": "gaṃdha+vāhā",
+"quick_gloss": "bearer-of-fragrance"
 },
 {
 "surface": "gaṃdhamādana",
-"quick_gloss": "sandal-Madana"
+"quick_gloss": "Gandhamādana"
 },
 {
-"surface": "go",
-"quick_gloss": "go-head"
-},
-{
-"surface": "śiraḥ",
-"quick_gloss": "śiraḥ"
+"surface": "go+śiraḥ",
+"quick_gloss": "cow-headed"
 }
 ]
 },
@@ -440,20 +452,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "gaṃgānātha",
-"quick_gloss": "Ganga-lord"
+"surface": "gaṃgā+nātha",
+"quick_gloss": "lord-of-Gaṅgā"
 },
 {
-"surface": "gaṃgarāja",
-"quick_gloss": "Ganga-king"
+"surface": "gaṃgā+rāja",
+"quick_gloss": "king-of-Gaṅgā"
 },
 {
-"surface": "gaṃgādha",
-"quick_gloss": "Ganga-holder"
+"surface": "gaṃgā+dha",
+"quick_gloss": "supporter-of-Gaṅgā"
 },
 {
-"surface": "gaṇāntakaḥ",
-"quick_gloss": "gaṇa-ender"
+"surface": "gaṇa+antakaḥ",
+"quick_gloss": "destroyer-of-hosts"
 }
 ]
 },
@@ -465,20 +477,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "ghaṃṭahasta",
-"quick_gloss": "bell-handed"
+"surface": "ghaṃṭa+hasta",
+"quick_gloss": "bell-in-hand"
 },
 {
-"surface": "ghaṃṭakarṇa",
+"surface": "ghaṃṭa+karṇa",
 "quick_gloss": "bell-eared"
 },
 {
-"surface": "ghaṃṭamūrti",
+"surface": "ghaṃṭa+mūrti",
 "quick_gloss": "bell-formed"
 },
 {
-"surface": "ghaṭeśvaraḥ",
-"quick_gloss": "pot-lord"
+"surface": "ghaṭa+īśvaraḥ",
+"quick_gloss": "lord-of-pots"
 }
 ]
 },
@@ -490,20 +502,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "ghanākṣara",
+"surface": "ghana+akṣara",
 "quick_gloss": "dense-syllable"
 },
 {
-"surface": "ghanācārya",
+"surface": "ghana+ācārya",
 "quick_gloss": "dense-teacher"
 },
 {
-"surface": "ghaṇeśvara",
-"quick_gloss": "Ghana-lord"
+"surface": "ghaṇa+īśvara",
+"quick_gloss": "lord-of-multitudes"
 },
 {
-"surface": "ghaṇāṃtakaḥ",
-"quick_gloss": "Ghana-ender"
+"surface": "ghaṇa+aṃtakaḥ",
+"quick_gloss": "destroyer-of-multitudes"
 }
 ]
 },
@@ -515,24 +527,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "ghaṭaparvata",
-"quick_gloss": "pot-mountain-dweller"
-},
-{
-"surface": "vāsī",
-"quick_gloss": "and"
+"surface": "ghaṭa+parvata+vāsī",
+"quick_gloss": "pot-mountain+dweller"
 },
 {
 "surface": "ca",
-"quick_gloss": "ca"
+"quick_gloss": "and"
 },
 {
-"surface": "ghaṭoghni",
-"quick_gloss": "pot-killer"
+"surface": "ghaṭa+oghni",
+"quick_gloss": "pot-destroyer"
 },
 {
-"surface": "gāvarasakaḥ",
-"quick_gloss": "Gāvara-saka"
+"surface": "gāva+rasakaḥ",
+"quick_gloss": "cow-essence"
 }
 ]
 },
@@ -544,28 +552,24 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "ghṛṇi",
-"quick_gloss": "compassion-knowledge"
-},
-{
-"surface": "vidyā",
-"quick_gloss": "vidyā"
+"surface": "ghṛṇi+vidyā",
+"quick_gloss": "ghṛṇi-knowledge"
 },
 {
 "surface": "ca",
-"quick_gloss": "ca"
+"quick_gloss": "and"
 },
 {
-"surface": "ghoṁkāra",
-"quick_gloss": "ghom-sound"
+"surface": "ghoṁ+kāra",
+"quick_gloss": "ghom-syllable"
 },
 {
-"surface": "ghṛṇi",
-"quick_gloss": "compassion-radiance-thus"
+"surface": "ghṛṇi+tejasam",
+"quick_gloss": "ghṛṇi-splendor"
 },
 {
-"surface": "tejasamastathā",
-"quick_gloss": "tejasamastathā"
+"surface": "tathā",
+"quick_gloss": "likewise"
 }
 ]
 },
@@ -578,27 +582,19 @@
 "tokens": [
 {
 "surface": "ṅe",
-"quick_gloss": "ṅe-rāṅa-pot-form"
+"quick_gloss": "ṅe-syllable"
 },
 {
 "surface": "rāṅa",
-"quick_gloss": "rāṅa"
+"quick_gloss": "rāṅa-syllable"
 },
 {
-"surface": "poṭaṅākāra",
-"quick_gloss": "poṭaṅākāra"
+"surface": "poṭaṅa+ākāra",
+"quick_gloss": "poṭaṅa-form"
 },
 {
-"surface": "ṅa",
-"quick_gloss": "ṅa-ṭa-mountain-maker"
-},
-{
-"surface": "ṭa",
-"quick_gloss": "ṭa"
-},
-{
-"surface": "parvatakārakaḥ",
-"quick_gloss": "parvatakārakaḥ"
+"surface": "ṅa+ṭa+parvata+kārakaḥ",
+"quick_gloss": "ṅa-ṭa-mountain+maker"
 }
 ]
 },
@@ -610,20 +606,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "ṅa",
-"quick_gloss": "ṅa-simā-ear-maker"
+"surface": "ṅa+simā+karṇa+kārakaḥ",
+"quick_gloss": "ṅa-boundary+ear+maker"
 },
 {
-"surface": "simākarṇakāraśca",
-"quick_gloss": "simākarṇakāraśca"
+"surface": "ca",
+"quick_gloss": "and"
 },
 {
-"surface": "karṇaphāṭaka",
-"quick_gloss": "ear-splitter-form"
-},
-{
-"surface": "mūrtinā",
-"quick_gloss": "mūrtinā"
+"surface": "karṇa+phāṭaka+mūrtinā",
+"quick_gloss": "ear-piercing+form"
 }
 ]
 },
@@ -639,20 +631,20 @@
 "quick_gloss": "Caṇḍikā"
 },
 {
-"surface": "caṇḍikā",
-"quick_gloss": "Caṇḍikā-lord"
+"surface": "caṇḍikā+nātha",
+"quick_gloss": "lord-of-Caṇḍikā"
 },
 {
-"surface": "nātha",
-"quick_gloss": "nātha"
-},
-{
-"surface": "caṇḍaścaṇḍa",
+"surface": "caṇḍaḥ",
 "quick_gloss": "fierce"
 },
 {
-"surface": "ghātakaḥ",
-"quick_gloss": "striker"
+"surface": "ca",
+"quick_gloss": "and"
+},
+{
+"surface": "caṇḍa+ghātakaḥ",
+"quick_gloss": "slayer-of-the-fierce"
 }
 ]
 }

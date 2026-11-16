@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p01-v1
-[that-which](yanna) [in-all](sarveṣu) [in-tantras](tantreṣu) [in-yamala-etc](yāmalādiṣu) [spoken](bhāṣitam)
+[which](yat) [not](na) [in-all](sarveṣu) [in-tantras](tantreṣu) [in-yāmala+etc](yāmala+ādiṣu) [spoken](bhāṣitam)
 
 ## mukta-m0-p01-v2
-[truth](tattvaṃ) [of-śrī-ṣoḍaśākṣarī](śrīṣoḍaśākṣaryāḥ) [whole-essence](sarvasvaṃ) [my](mama) [O-Pārvatī](pārvati)
+[truth](tattvaṃ) [of-śrī+sixteen+syllabled](śrī+ṣoḍaśa+akṣaryāḥ) [whole-essence](sarvasvaṃ) [my](mama) [o-pārvatī](pārvati)
 
 ## mukta-m0-p01-v3
-[giving-enjoyment-and-liberation](bhogāpavargadaṃ) [in-world](loke) [of-sādhakas](sādhakānāṃ) [bringing-happiness](sukhāvaham)
+[enjoyment+and+liberation+giving](bhoga+apavarga+daṃ) [in-world](loke) [of-practitioners](sādhakānāṃ) [happiness+bringing](sukha+āvaham) [k:auspicious+bringing]([k: śubhāvaham])
 
 ## mukta-m0-p01-v4
-[by-your-grace](tvatprasādānmayā) [known](jñātaṃ) [truth](tattvaṃ) [of-goddess](devyāḥ) [very-rare](sudurlabham)
+[by-your+grace](tvat+prasādāt) [by-me](mayā) [known](jñātaṃ) [truth](tattvaṃ) [of-goddess](devyāḥ) [very-difficult-to-obtain](su+durlabham)
 
 ## mukta-m0-p01-v5
-[named-secret-of-parādevī](parādevīrahasyākhyaṃ) [before-initiation](dīkṣāpūrvaṃ) [speak](vadasva) [to-me](me)
+[parādevī+secret+named](parādevī+rahasya+ākhyaṃ) [preceded-by-initiation](dīkṣā+pūrvaṃ) [tell](vadasva) [to-me](me)
 
 ## mukta-m0-p01-v6
-[by-which](yena) [by-mere-hearing](śravaṇamātreṇa) [fruit-of-ten-million-worships](koṭipūjāphalaṃ) [one-obtains](labhet)
+[by-which](yena) [by-mere-hearing](śravaṇa+mātreṇa) [ten-million+worship+fruit](koṭi+pūjā+phalaṃ) [one-obtains](labhet)
 
 ## mukta-m0-p01-v7
-[considering](vicārya) [wise-according-to-rite](vidhivaddhīmān) [initiation-rite](dīkṣākarma) [should-perform](samācaret)
+[having-considered](vicārya) [according-to-rule](vidhi+vat) [wise-one](dhīmān) [initiation+rite](dīkṣā+karma) [should-perform](samācaret)
 
 ## mukta-m0-p01-v8
-[by-parādevī](parādevyā) [by-paśu-nature](paśutvena) [deluded](mohitaṃ) [devoid-of-desire](vigataspṛham)
+[of-parādevī](parādevyā) [by-animal-state](paśutvena) [deluded](mohitaṃ) [devoid-of-desire](vigata+spṛham)
 
 ## mukta-m0-p01-v9
-[kaulika](kaulikaḥ) [by-paśu-nature](paśubhāvena) [liberated](mukto) [knowledge](jñānaṃ) [should-cultivate](bhajet) [then](tataḥ)
+[kaulika](kaulikaḥ) [by-animal+state](paśu+bhāvena) [liberated](mukto) [knowledge](jñānaṃ) [should-resort-to](bhajet) [then](tataḥ)
 
 ## mukta-m0-p01-v10
-[initiated](dīkṣitaḥ) [he](sa) [becomes-knower](bhavejjñānī) [without-initiation](dīkṣāhīno) [becomes](bhavet) [paśu](paśuḥ)
+[initiated](dīkṣitaḥ) [he](sa) [becomes](bhavet) [knower](jñānī) [devoid-of-initiation](dīkṣā+hīno) [becomes](bhavet) [animal](paśuḥ)
 
 ## mukta-m0-p01-v11
-[he](sa) [ever](jātu) [not-crosses](nottared) [O-goddess](devi) [from-hell-ocean](nirayāmbunidheḥ) [ever](kvacit)
+[he](sa) [ever](jātu) [not](na) [crosses-over](uttaret) [o-goddess](devi) [of-hell+ocean](niraya+ambunidheḥ) [anywhere](kvacit)
 
 ## mukta-m0-p01-v12
-[sin-flood](pāpaugho'ntikamāyāti) [comes-to-near](pāpaugho'ntikamāyāti) [merit](puṇyaṃ) [far](dūraṃ) [flees](palāyate)
+[sin+multitude](pāpa+ogho) [near](antikam) [comes](āyāti) [merit](puṇyaṃ) [far](dūraṃ) [flees](palāyate)
 
 ## mukta-m0-p01-v13
-[in-childhood](bālye) [or](vā) [in-youth](yauvane) [or-also](vāpi) [in-old-age](vārdhakye'pi) [even](api) [O-sureśvarī](sureśvari)
+[in-childhood](bālye) [or](vā) [in-youth](yauvane) [or](vāpi) [in-old-age+also](vārdhakye+api) [o-lady-of-gods](sureśvari)
 
 ## mukta-m0-p01-v14
-[therefore](ataḥ) [paśu](paśurmanuṣyaḥ) [human](manuṣyaḥ) [being](san) [animal-womb](paśuyoniṃ) [would-go](vrajecchive) [O-Śivā](śive)
+[therefore](ataḥ) [animal](paśuḥ) [human](manuṣyaḥ) [being](san) [animal+womb](paśu+yoniṃ) [may-go-to](vrajecchive)
 
 ## mukta-m0-p01-v15
-[guru](gurumanveṣayed) [should-seek](anveṣayed) [O-goddess](devi) [initiated-in-kaulika-practice](kaulikācāradīkṣitam)
+[guru](gurum) [should-seek](anveṣayet) [o-goddess](devi) [in-kaulika+conduct+initiated](kaulika+ācāra+dīkṣitam)
 
 ## mukta-m0-p01-v16
-[disease-free](nirāmayaṃ) [and](ca) [greedless](nirlobhaṃ) [versed-in-all-āgamas](niḥśeṣāgamapāragam)
+[free-from-disease](nirāmayaṃ) [and](ca) [free-from-greed](nirlobhaṃ) [in-all+āgamas+accomplished](niḥśeṣa+āgama+pāragam)
 
 ## mukta-m0-p01-v17
-[determined-by-siddhas-and-sādhyas](siddhasādhyārinirṇītāṃ) [initiation](dīkṣāṃ) [of-goddess](devyā) [according-to-rite](yathāvidhi)
+[by-siddha+and+sādhya+and+ari+ascertained](siddha+sādhya+ari+nirṇītāṃ) [initiation](dīkṣāṃ) [of-goddess](devyā) [according-to-rule](yathāvidhi)
 
 ## mukta-m0-p01-v18
-[guru](guruśca) [and](ca) [disciple](śiṣyaṃ) [beautiful-limbed](ramyāṅgaṃ) [of-good-family](kulīnaṃ) [initiated-in-womb](garbhadīkṣitam)
+[guru](guruḥ) [and](ca) [disciple](śiṣyaṃ) [lovely-limbed](ramya+aṅgaṃ) [of-good-family](kulīnaṃ) [initiated-in-womb](garbha+dīkṣitam)
 
 ## mukta-m0-p01-v19
-[devoted-to-devī-bhakti](devībhaktirataṃ) [devotee](bhaktaṃ) [fearful-of-sin](pāpabhītaṃ) [self-controlled](kṛtātmakam)
+[in-goddess+devotion+delighting](devī+bhakti+rataṃ) [devoted](bhaktaṃ) [afraid-of-sin](pāpa+bhītaṃ) [self-disciplined](kṛta+ātmakam)
 
 ## mukta-m0-p01-v20
-[whose](yasya) [in-mind](citte) [supreme](parā) [devotion](bhaktirgururnāsti) [no-such-guru](gururnāsti) [of-that-kind](tathāvidhaḥ)
+[whose](yasya) [in-mind](citte) [supreme](parā) [devotion](bhaktir) [guru](gurur) [not](na+asti) [of-such-kind](tathāvidhaḥ) [kh:thus+rule]([kh: tathā vidhiḥ])
 
 ## mukta-m0-p01-v21
-[by-devotion](bhaktyā) [supreme](paramayā) [endowed](yuktaḥ) [he](sa) [what](kiṃ) [O-deva](deva) [will-do](kariṣyati)
+[with-devotion](bhaktyā) [with-supreme](paramayā) [endowed](yuktaḥ) [he](sa) [what](kiṃ) [o-god](deva) [will-do](kariṣyati)
 
 ## mukta-m0-p01-v22
-[in-absence-of-guru](gurorabhāve) [O-deveśī](deveśi) [book](pustakaṃ) [guru](gurumācaret) [should-treat](ācaret)
+[in-absence-of-guru](guror+abhāve) [o-lord-of-gods](deveśi) [book](pustakaṃ) [as-guru](guru+m) [should-make](ācaret)
 
 ## mukta-m0-p01-v23
-[initiated](dīkṣitaḥ) [by-śiva-mantra](śivamantreṇa) [vaiṣṇava](vaiṣṇavaḥ) [auspicious-marked](śubhalakṣaṇaḥ)
+[initiated](dīkṣitaḥ) [by-śiva+mantra](śiva+mantreṇa) [vaiṣṇava](vaiṣṇavaḥ) [of-auspicious+marks](śubha+lakṣaṇaḥ)
 
 ## mukta-m0-p01-v24
-[book](pustakaṃ) [but](tu) [guru](guruṃ) [would-make](kuryāt) [he](sa) [becomes](bhavecchivaghātakaḥ) [śiva-killer](śivaghātakaḥ)
+[book](pustakaṃ) [indeed](tu) [guru](guruṃ) [should-make](kuryāt) [he](sa) [becomes](bhavec) [śiva+killer](śiva+ghātakaḥ)
 
 ## mukta-m0-p01-v25
-[foolish](mūrkhaṃ) [greedy](lobhātmakaṃ) [O-devi](devi) [of-good-family](kulīnaṃ) [and](ca) [should-abandon](parityajet)
+[foolish](mūrkhaṃ) [greedy+natured](lobha+ātmakaṃ) [o-goddess](devi) [of-good-family](kulīnaṃ) [and](ca) [should-abandon](parityajet)
