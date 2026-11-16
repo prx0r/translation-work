@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p153-v3801
-[thus-in-these](evameṣu) [shiva-palace](śivaharmyaṃ) [be](syāt) [bath-house-between-also](saunāśāntare'pi) [or](vā)
+[thus](evam) [in-these](eṣu) [śiva-temple](śiva+harmyaṃ) [should-be](syāt) [in-sauna-aśa-interval](sauna+aśa+antare) [also](api) [or](vā)
 
 ## mukta-m0-p153-v3802
-[in-varuna-portion](vāruṇāṃśe) [but](tu) [or](vā) [brahmin](vipra) [should-be-made](kartavyaṃ) [shiva-temple](śivamandiram)
+[in-vāruṇa-part](vāruṇa+aṃśe) [indeed](tu) [or](vā) [o-brāhmaṇa](vipra) [should-be-made](kartavyaṃ) [śiva-temple](śiva+mandiram)
 
 ## mukta-m0-p153-v3803
-[inward-facing](abhyantaramukho) [vishnu](viṣṇuḥ) [sun-west-faced](vivasvānpaścimānanam)
+[inward-facing](abhyantara+mukhaḥ) [viṣṇu](viṣṇuḥ) [sun](vivasvān) [west-facing](paścima+ānanam)
 
 ## mukta-m0-p153-v3804
-[in-thread](sūtre) [in-junction](saṃdhau) [in-fourfold](catuṣke) [also](ca) [trident-shaiva-eightfold](śūlaśaivāṣṭake'pi) [or](vā)
+[on-line](sūtre) [at-junction](saṃdhau) [in-four](catuṣke) [and](ca) [in-śūla-śaiva-octad](śūla+śaiva+aṣṭake) [also](api) [or](vā)
 
 ## mukta-m0-p153-v3805
-[well-cistern-pond-etc](vāpīkūpataṭākādi) [everywhere](sarvatra) [should-be-placed](parikalpayet)
+[well](vāpī) [pit](kūpa) [tank](taṭāka) [etc.](ādi) [everywhere](sarvatra) [one-should-arrange](parikalpayet)
 
 ## mukta-m0-p153-v3806
-[outside](bāhye) [indra-quarter](śakre) [of-potters](kulālānāṃ) [of-barbers](nāpitānāṃ) [but](tu) [in-shankara-quarter](śāṃkare)
+[outside](bāhye) [in-indra-direction](śakre) [of-potters](kulālānāṃ) [of-barbers](nāpitānāṃ) [indeed](tu) [in-śaṅkara-direction](śāṃkare)
 
 ## mukta-m0-p153-v3807
-[of-fish-livelihood](matsyopajīvanānāṃ) [but](tu) [west](paścime) [dwelling](vāsa) [is-said](ucyate)
+[of-those-living-by-fish](matsya+upajīvanānāṃ) [indeed](tu) [in-west](paścime) [dwelling](vāsaḥ) [is-stated](ucyate)
 
 ## mukta-m0-p153-v3808
-[ramp](vapra) [outside](bāhye) [or](vā) [non-outside](tvabāhye) [or](vā) [of-artisans-etc](karmakārādayonile)
+[outside-rampart](vapra+bāhye) [or-not-outside](tu+abāhye) [or](vā) [artisans-etc.](karmakāra+ādayaḥ) [in-vāyu-direction](anile)
 
 ## mukta-m0-p153-v3809
-[from-indra-to-fire-portion](mahendrādagnibhāgaṃ) [be](syāt) [food](bhakṣyaṃ) [eatable](bhojyaṃ) [and](ca) [sale](vikrayam)
+[from-mahendra-to-agni-part](mahendra+ādi+agni+bhāgaṃ) [should-be](syāt) [eatables](bhakṣyaṃ) [food](bhojyaṃ) [and](ca) [sale](vikrayam)
 
 ## mukta-m0-p153-v3810
-[north](uttare) [salt](lavaṇaṃ) [and](ca) [eva](eva) [oil](tailaṃ) [sandal-flowers](candanapuṣpakam)
+[in-north](uttare) [salt](lavaṇaṃ) [and](ca) [indeed](eva) [oil](tailaṃ) [sandal](candana) [flowers](puṣpakam)
 
 ## mukta-m0-p153-v3811
-[in-shankara](śāṃkare) [outside](paribāhye) [but](tu) [hundred-rods](śatadaṇḍe) [cremation-ground](śmaśānakam)
+[in-śaṅkara-direction](śāṃkare) [outside](paribāhye) [indeed](tu) [at-hundred-daṇḍas](śata+daṇḍe) [cremation-ground](śmaśānakam)
 
 ## mukta-m0-p153-v3812
-[market](apaṇaṃ) [measuring-cord](mānasūtraṃ) [but](tu) [outside](bāhye) [hall-interval](sālāntaraṃ) [be](bhavet)
+[market](apaṇaṃ) [measure-line](māna+sūtraṃ) [indeed](tu) [outside](bāhye) [between-halls](sālā+antaraṃ) [should-be](bhavet)
 
 ## mukta-m0-p153-v3813
-[village-etc](grāmādi) [characteristic](lakṣaṇaṃ) [declared](proktaṃ) [house-layout](gṛhavinyāsakaṃ) [hear](śṛṇu)
+[village-etc.](grāma+ādi) [characteristics](lakṣaṇaṃ) [declared](proktaṃ) [house-arrangement](gṛha+vinyāsakaṃ) [hear](śṛṇu)
 
 ## mukta-m0-p153-v3814
-[thus-portion](ityaṃśumānkāśyape) [village-etc-characteristic-chapter](grāmādilakṣaṇapaṭalaḥ) [ninety-fourth](caturnavatitamaḥ)
+[thus](iti) [in-aṃśumān-kāśyapa](aṃśumān+kāśyape) [chapter-on-village-etc.-characteristics](grāma+ādi+lakṣaṇa+paṭalaḥ) [ninety-fourth](caturnavatitamaḥ)
 
 ## mukta-m0-p153-v3815
-[of-wood](dāravānmṛṇmayaṃ) [best](śreṣṭhaṃ) [clay-than-stone](mṛṇmayācchailamuttamam)
+[made-of-wood](dāra+vān) [made-of-clay](mṛṇmayaṃ) [best](śreṣṭhaṃ) [than-clay](mṛṇmayāt) [stone](śailam) [superior](uttamam)
 
 ## mukta-m0-p153-v3816
-[of-copper](tāmrajaṃ) [or-by-stones](śilairvā) [should-make](kuryāt) [idol-length](berāyāmaṃ) [half-length](tadardhāyāmamuttamam)
+[made-of-copper](tāmrajaṃ) [with-stone](śilaiḥ) [or](vā) [one-should-make](kuryāt) [image-height](bera+āyāmaṃ) [half-of-that-height](tat+ardha+āyāmam) [best](uttamam)
 
 ## mukta-m0-p153-v3817
-[quality-portion-low](guṇāṃśamadhamaṃ) [thus](tathā)
+[lacuna](*) [lacuna](*) [lacuna](*) [lacuna](*) [lacuna](*) [lacuna](*) [lacuna](*) [lacuna](*) [by-parts](guṇa+aṃśam) [inferior](adhamaṃ) [likewise](tathā)
 
 ## mukta-m0-p153-v3818
-[type](prakāraṃ) [sin-destroying](pāpanāśaṃ) [be](syāt) [t-type](tikāraṃ) [peace-making](śāntikaṃ) [know](viduḥ)
+[the-syllable-pra](pra+kāraṃ) [sin-destruction](pāpa+nāśaṃ) [should-be](syāt) [the-syllable-ti](ti+kāraṃ) [pacifying](śāntikaṃ) [they-know](viduḥ)
 
 ## mukta-m0-p153-v3819
-[root-idol](mūlaberasya) [measure](mānaṃ) [but](tu) [by-shrine-portion](ālayāṃśena) [should-make](kārayet)
+[of-main-image](mūla+berasya) [measure](mānaṃ) [indeed](tu) [by-temple-part](ālaya+aṃśena) [one-should-make](kārayet)
 
 ## mukta-m0-p153-v3820
-[by-two-portions](dvyaṃśenaiva) [should-be-made](kartavyaṃ) [of-images](pratimānāṃ) [but](tu) [should-make](kārayet)
+[by-two-parts](dvi+aṃśena) [indeed](eva) [should-be-made](kartavyaṃ) [of-images](pratimānāṃ) [indeed](tu) [one-should-make](kārayet)
 
 ## mukta-m0-p153-v3821
-[half-portion-best](ardhāṃśenottamaṃ) [know](vidyāt) [third-portion](tṛtīyāṃśaṃtu) [middle](madhyamam)
+[by-half-part](ardha+aṃśena) [best](uttamaṃ) [one-should-know](vidyāt) [by-third-part](tṛtīya+aṃśaṃ) [indeed](tu) [middle](madhyamam)
 
 ## mukta-m0-p153-v3822
-[best](uttamaṃ) [middle](madhyamaṃ) [or](vāpya) [low](dhamaṃ) [or](vātha) [smallest](kanyasam)
+[best](uttamaṃ) [middle](madhyamaṃ) [or](vā) [or](api) [inferior](adhamaṃ) [or](vā) [or](atha) [lowest](kanyasam)
 
 ## mukta-m0-p153-v3823
-[fit-unfit](yuktāyuktaṃ) [considering](vicāryātha) [of-images](pratimānāṃ) [and](ca) [should-make](kārayet)
+[suitable-unsuitable](yukta+ayuktaṃ) [having-considered](vicārya) [then](atha) [of-images](pratimānāṃ) [and](ca) [one-should-make](kārayet)
 
 ## mukta-m0-p153-v3824
-[brahma](brahmāṇaṃ) [vajra-holder](vajrapāṇiṃ) [and](ca) [trident-holder](śūlapāṇiṃ) [and](ca) [vaishnava](vaiṣṇavam)
+[brahmā](brahmāṇaṃ) [thunderbolt-holder](vajra+pāṇiṃ) [and](ca) [trident-holder](śūla+pāṇiṃ) [and](ca) [vaiṣṇava](vaiṣṇavam)
 
 ## mukta-m0-p153-v3825
-[plastered](lepite) [what-wet](yatklinnaṃ) [be](syāt) [one-night-stayed](ekarātroṣite) [thus](tathā)
+[in-plastered](lepite) [what](yat) [moist](klinnaṃ) [should-be](syāt) [kept-one-night](eka+rātra+uṣite) [likewise](tathā)

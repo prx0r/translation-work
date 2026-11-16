@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p111-v2751
-auspicious-inauspicious-bliss-sorrow-lord śiva-to-us protect sacrifice obeisance-to-you
+[auspicious+inauspicious+joy+sorrow+lord](śubhāśubhānandaśucāmadhīśa) [to-Śiva](śivāya) [our](naḥ) [protect](pāhi) [sacrifice](makhaṃ) [salutation+to-you](namaste)
 
 ## mukta-m0-p111-v2752
-i-invoke sacrifice-in this worship me accept
+[I-invoke](āvāhayāmi) [in-sacrifice+this](yajñe'smin) [worship](pūjā) [by-me](me) [let-be-accepted](pratigṛhyatām)
 
 ## mukta-m0-p111-v2753
-my-sacrifice protect piśāca-to lord-world you god obeisance-to-you
+[my+sacrifice](mamādhvaraṃ) [protect](pāhi) [to-lord-of-goblins](piśācanāya) [lord-of-worlds+you](lokeśvarastvaṃ) [O-lord](bhagavan) [salutation+to-you](namaste)
 
 ## mukta-m0-p111-v2754
-blue rakṣas-hosts-joined blue-ornament-adorned
+[blue](nīlaṃ) [by-demon+hosts+attended](rakṣogaṇairjuṣṭaṃ) [with-blue+ornaments+adorned](nīlābharaṇabhūṣitam)
 
 ## mukta-m0-p111-v2755
-i-invoke sacrifice-in this worship me accept
+[I-invoke](āvāhayāmi) [in-sacrifice+this](yajñe'smin) [worship](pūjā) [by-me](me) [let-be-accepted](pratigṛhyatām)
 
 ## mukta-m0-p111-v2756
-bhāradvāja indeed brāhmaṇa-lord peace-recitation sacrifice-in do
+[Bhāradvāja+indeed](bhāradvājastu) [O-best-of-brahmins](viprendra) [peace+recitation](śāntipāṭhaṃ) [in-sacrifice](makhe) [perform](kuru)
 
 ## mukta-m0-p111-v2757
-vidyādhara-lord-gods-sung protect you-us god obeisance-to-you
+[by-Vidyādhara+lords+and-immortals+sung](vidyādharendrāmaragīyamāna) [protect](pāhi) [you+us](tvamasmān) [O-lord](bhagavan) [salutation+to-you](namaste)
 
 ## mukta-m0-p111-v2758
-i-invoke sacrifice-in this varuṇa-to obeisance-obeisance
+[I-invoke](āvāhayāmi) [in-sacrifice+this](yajñe'smin) [to-Varuṇa](varuṇāya) [salutation+salutation](namonamaḥ)
 
 ## mukta-m0-p111-v2759
-life-lord kālakaveḥ companion accept worship god obeisance-to-you
+[lord-of-breath](prāṇādhipaḥ) [of-Kālakavi+companion](kālakaveḥ) [helper](sahāya) [accept](gṛhāṇa) [worship](pūjāṃ) [O-lord](bhagavan) [salutation+to-you](namaste)
 
 ## mukta-m0-p111-v2760
-i-invoke sacrifice-in this worship-this accept
+[I-invoke](āvāhayāmi) [in-sacrifice+this](yajñe'smin) [worship+this](pūjeyaṃ) [let-be-accepted](pratigṛhyatām)
 
 ## mukta-m0-p111-v2761
-to-him worship-worthy world vāyu-to-i bow and
+[to-him](tasmai) [to-the-venerable](pūjyāya) [to-the-world](jagatī) [to-Vāyu+I](vāyave'haṃ) [bow](namāmi) [and](ca)
 
 ## mukta-m0-p111-v2762
-vaiśampāyana brāhmaṇa-lord peace-recitation sacrifice-in do
+[O-Vaiśampāyana](vaiśampāyana) [O-best-of-brahmins](viprendra) [peace+recitation](śāntipāṭhaṃ) [in-sacrifice](makhe) [perform](kuru)
 
 ## mukta-m0-p111-v2763
-all-herbs ancestors with-indeed accept worship god obeisance-to-you
+[with-all+herbs](sarvauṣadhībhiḥ) [with-ancestors](pitṛbhiḥ) [together+indeed](sahaiva) [accept](gṛhāṇa) [worship](pūjāṃ) [O-lord](bhagavan) [salutation+to-you](namaste)
 
 ## mukta-m0-p111-v2764
-to-him soma-to god-to nakṣatra-lord-to obeisance
+[to-him](tasmai) [to-Soma](somāya) [to-the-god](devāya) [to-lord-of-constellations](nakṣatrapataye) [salutation](namaḥ)
 
 ## mukta-m0-p111-v2765
-world-lord sacrifice-lord sacrifice-success accept worship god obeisance-to-you
+[O-lord-of-worlds](lokeśa) [O-lord-of-sacrifice](yajñeśvara) [for-success-of-sacrifice](yajñasiddhyai) [accept](gṛḥāṇa) [worship](pūjāṃ) [O-lord](bhagavan) [salutation+to-you](namaste)
 
 ## mukta-m0-p111-v2766
-i-invoke sacrifice-in this worship me accept
+[I-invoke](āvāhayāmi) [in-sacrifice+this](yajñe'smin) [worship](pūjā) [by-me](me) [let-be-accepted](pratigṛhyatām)
 
 ## mukta-m0-p111-v2767
-trident-holder three-eyed to-him always obeisance-obeisance
+[trident+handed+odd+eyed](śūlapāṇirvirūpākṣastasmai) [always](nityaṃ) [salutation+salutation](namonamaḥ)
 
 ## mukta-m0-p111-v2768
-yakṣa-serpent-lord-god-world-hosts endless protect sacrifice-our
+[by-Yakṣa+serpent+lord+immortal+world+hosts](yakṣoragendrāmaralokasaṅghairananta) [protect+sacrifice+our](rakṣādhvaramasmadīyam)
 
 ## mukta-m0-p111-v2769
-lotus-conch-holder-up-down-water-part-hand-pair
+[lotus+conch+holding+upper+lower+right+side+hand+pair](padmaśaṅkhadharordhvādhodakṣabhāgakaradvayam)
 
 ## mukta-m0-p111-v2770
-flower-like hold head to-him always obeisance-obeisance
+[like-flower+one-should-bear+on-head](puṣpavaddhārayenmūrdhni) [to-him](tasmai) [always](nityaṃ) [salutation+salutation](namonamaḥ)
 
 ## mukta-m0-p111-v2771
-all-of creator you boundless-splendor protect sacrifice-our always śiva-to
+[of-all](sarvasya) [creator+you-are+of-unlimited+power](dhātāsyamitaprabhāvo) [enter+sacrifice](viśādhvaraṃ) [for-us](naḥ) [always](satataṃ) [for-welfare](śivāya)
 
 ## mukta-m0-p111-v2772
-sacrifice-superintendent four-faced to-him always obeisance-obeisance
+[sacrifice+president+four+faced](yajñādhyakṣaścaturvaktrastasmai) [always](nityaṃ) [salutation+salutation](namonamaḥ)
 
 ## mukta-m0-p111-v2773
-brahmā viṣṇu śiva with protect those me
+[with-Brahmā+Viṣṇu+Śiva](brahmaviṣṇuśivaiḥ) [together](sārdhaṃ) [protection](rakṣāṃ) [let-them-make](kurvantu) [those](tāni) [for-me](me)
 
 ## mukta-m0-p111-v2774
-sages manus cows god-mothers indeed and
+[sages](ṛṣayo) [Manus+cows](manavogāvo) [divine+mothers](devamātara) [indeed](eva) [and](ca)
 
 ## mukta-m0-p111-v2775
-brahmā viṣṇu and rudra and field-protectors hosts with
+[Brahmā](brahmā) [Viṣṇu+and](viṣṇuśca) [Rudra+and](rudraśca) [field+guardians](kṣetrapālā) [with-hosts](gaṇaiḥ) [together](saha)

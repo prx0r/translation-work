@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p64-v1576
-[speech-lord](vākpatiḥ) [in-yoni-vessel](yonikuṇḍe) [but](tu) [in-vulva](bhage) [attraction](cākarṣaṇaṃ) [becomes](bhavet)
+[speech-lord](vākpatir)[vulva](yoni)[pit](kuṇḍe) [but](tu) [vulva](bhage) [and](ca)[attraction](ākarṣaṇaṃ) [should-be](bhavet)
 
 ## mukta-m0-p64-v1577
-[in-nine-triangle](navatrikoṇe) [great-sky-walker-siddhi-possessor](mahatīkhecarīsiddhivān) [becomes](bhavet)
+[nine](nava)[triangle](trikoṇe) [great](mahatī)[sky-goer](khecarī)[accomplishment](siddhi)[possessing](vān) [should-be](bhavet)
 
 ## mukta-m0-p64-v1578
-[pacifying](śāntikaṃ) [nourishing](pauṣṭikaṃ) [prosperity](lakṣmīḥ) [health](ārogyaṃ) [in-vasu-corner](vasukoṇake)
+[peace](śāntikaṃ) [nourishment](pauṣṭikaṃ) [prosperity](lakṣmīr)[health](ārogyaṃ) [eight](vasu)[corner](koṇake)
 
 ## mukta-m0-p64-v1579
-[with-jasmine-mālatī](mallikāmālatībhiḥ) [and](ca) [three-honey-anointed](trimadhvaktaiḥ) [speech-lord](vacaspatiḥ)
+[with-jasmine](mallikā)[with-mālati](mālatībhiś)[and](ca) [three](tri)[honey](madhv)[smeared](aktair)[speech-lord](vacaspatiḥ)
 
 ## mukta-m0-p64-v1580
-[woman-subjugation](yoṣidvaśyā) [then](tato) [goddess](devī) [camphor](karpūraṃ) [saffron](kuṃkumaṃ) [musk](madam)
+[women](yoṣid)[subjugation](vaśyā) [then](tato) [goddess](devī) [camphor](karpūraṃ) [saffron](kuṃkumaṃ) [intoxicant](madam)
 
 ## mukta-m0-p64-v1581
-[with-campaka](cāmpeyaiḥ) [with-pāṭala](pāṭalaiḥ) [pleasant](ramyaiḥ) [with-mango](āmraiḥ) [other](anyaiḥ) [fruits](phalaiḥ) [offers](hunet)
+[with-campaka](cāmpeyaiḥ) [with-pāṭala](pāṭalai) [with-delightful](ramyair)[with-mango](āmrair)[with-other](anyaiḥ) [with-fruits](phalair)[should-offer](hunet)
 
 ## mukta-m0-p64-v1582
-[sandal](śrīkhaṇḍaṃ) [also-agar](cāgaruṃ) [goddess](devi) [camphor](karpūraṃ) [guggulu](gugguluṃ) [offers](hunet)
+[sandalwood](śrīkhaṇḍaṃ) [and](cā)[aloewood](garuṃ) [goddess](devi) [camphor](karpūraṃ) [guggulu](gugguluṃ) [should-offer](hunet)
 
 ## mukta-m0-p64-v1583
-[having-offered](hutvā) [fruit](phalaṃ) [three-honey-anointed](trimadhvaktaṃ) [sky-walker-ness](khecaratvaṃ) [at-crossroads](catuṣpathe)
+[having-offered](hutvā) [fruit](phalaṃ) [three](tri)[honey](madhv)[smeared](aktaṃ) [sky-goer](khecara)[state](tvaṃ) [at-crossroads](catuṣpathe)
 
 ## mukta-m0-p64-v1584
-[or](athavā) [nine-lakhs](navalakṣa) [indeed](tu) [recites-vidyā](japedvidyāṃ) [concentrated](samāhitaḥ)
+[or](athavā) [nine](nava)[hundred-thousand](lakṣa) [indeed](tu) [should-recite](japed)[mantra](vidyāṃ) [concentrated](samāhitaḥ)
 
 ## mukta-m0-p64-v1585
-[accomplishes](sādhayet) [heaven-earth-world](svargabhūloka) [netherworld-dwellers](pātālatalavāsinaḥ)
+[should-accomplish](sādhayet) [heaven](svarga)[earth](bhū)[world](loka)[netherworld](pātāla)[surface](tala)[dwellers](vāsinaḥ)
 
 ## mukta-m0-p64-v1586
-[with-curd](dadhnā) [hundred-eight](śatāṣṭakaṃ) [offered](hutvā) [time-death](kālamṛtyuṃ) [destroys](vināśayet)
+[with-curd](dadhnā) [hundred](śatā)[eight](ṣṭakaṃ) [having-offered](hutvā) [time](kāla)[death](mṛtyuṃ) [should-destroy](vināśayet)
 
 ## mukta-m0-p64-v1587
-[with-honey-ghee-guggulu](madhvājyaguggulena) [indeed](eva) [king-lord](rājendraṃ) [subjection-brings](vaśamānayet)
+[with-honey](madhv)[with-ghee](ājya)[with-guggulu](guggulena)[indeed](eva) [king](rāj)[lord](endraṃ) [under-control](vaśam)[should-bring](ānayet)
 
 ## mukta-m0-p64-v1588
-[honey-ghee-anointed](madhvājyāktaiḥ) [red-colored](raktavarṇaiḥ) [oleander](karavīraiḥ) [with-guggulu](saguggulaiḥ)
+[with-honey](madhv)[with-ghee](ājyā)[smeared](ktai) [red](rakta)[colored](varṇaiḥ) [with-oleander](karavīraiḥ) [with](sa)[guggulu](guggulaiḥ)
 
 ## mukta-m0-p64-v1589
-[honey-anointed-oleander](madhvaktakaravīraiḥ) [indeed](tu) [with-limbs](sāṅgaṃ) [king](bhūpaṃ) [subjection-leads](vaśaṃ nayet)
+[with-honey](madhv)[smeared](akta)[with-oleander](karavīrais)[indeed](tu) [with](sā)[limbs](ṅgaṃ) [king](bhūpaṃ) [under-control](vaśaṃ) [should-bring](nayet)
 
 ## mukta-m0-p64-v1590
-[with-pāṭala](pāṭalaiḥ) [jasmine](yūthikā) [kunda](kundaiḥ) [hundred-petals](śatapatraiḥ) [and](ca) [jasmine](jātibhiḥ)
+[with-pāṭala](pāṭalair)[with-yūthikā](yūthikā)[with-kunda](kundaiḥ) [hundred](śata)[petaled](patraiś)[and](ca) [with-jasmine](jātibhiḥ)
 
 ## mukta-m0-p64-v1591
-[from-worship](pūjanāt) [from-offering](havanāt) [or](vā) [mixed](miśraiḥ) [or](vā) [unmixed](amiśritaiḥ) [also](api)
+[by-worship](pūjanād)[by-offering](dhavanād)[or](vā)[also](api) [with-mixed](miśrair)[or](vā)[with-unmixed](miśritair)[also](api)
 
 ## mukta-m0-p64-v1592
-[with-mucukunda](mucukundaiḥ) [bael-leaves](bilvapatraiḥ) [fruits](phalaiḥ) [dark-lotus](asitanīrajaiḥ)
+[with-mucukunda](mucukundair)[with-bilva](bilva)[with-leaves](patreḥ) [with-fruits](phalair)[with-dark](asita)[with-lotus](nīrajaiḥ)
 
 ## mukta-m0-p64-v1593
-[with-coconuts](nārikelaiḥ) [and](ca) [dates](kharjūraiḥ) [grapes](drākṣābhiḥ) [mango-good-fruits](cūtasatphalaiḥ)
+[with-coconuts](nārikelaiś)[and](ca) [with-dates](kharjūrair)[with-grapes](drākṣābhiś)[with-mango](cūta)[good](sat)[with-fruits](phalaiḥ)
 
 ## mukta-m0-p64-v1594
-[by-worship](pūjanena) [and](ca) [by-homa](homena) [śrī-vidyā](śrīvidyāṃ) [pleases](paritoṣayet)
+[by-worship](pūjanena) [and](ca) [by-offering](homena) [śrī](śrī)[mantra](vidyāṃ) [should-please](paritoṣayet)
 
 ## mukta-m0-p64-v1595
-[by-previously-said-offering](pūrvoktabalidānena) [guru](guruṃ) [satisfying](santoṣya) [and](ca) [in-order](kramāt)
+[previously](pūrva)[mentioned](ukta)[offering](bali)[by-giving](dānena) [guru](guruṃ) [having-pleased](santoṣya) [and](ca) [in-order](kramāt)
 
 ## mukta-m0-p64-v1596
-[whole](samagraṃ) [flower](kusumaṃ) [in-homa](home) [pumpkin](kuṣmāṇḍaṃ) [many-ways](bahudhā) [offers](hunet)
+[whole](samagraṃ) [flower](kusumaṃ) [in-offering](home) [pumpkin-gourd](kuṣmāṇḍaṃ) [in-many-parts](bahudhā) [should-offer](hunet)
 
 ## mukta-m0-p64-v1597
-[with-whole](samagreṇa) [indeed](eva) [mango](cūtasya) [fruit](phalena) [jujube](badaraṃ) [and](tathā)
+[with-whole](samagreṇa)[indeed](eva) [of-mango](cūtasya) [with-fruit](phalena) [jujube](badaraṃ) [likewise](tathā)
 
 ## mukta-m0-p64-v1598
-[rose-apple-fruit](jambūphalaṃ) [whole](samagraṃ) [becomes](syāt) [grape](drākṣāṃ) [and](ca) [indeed](eva) [and](tathā) [offers](hunet)
+[jambū](jambū)[fruit](phalaṃ) [whole](samagraṃ) [should-be](syād)[grape](drākṣāṃ) [and](ca)[indeed](eva) [likewise](tathā) [should-offer](hunet)
 
 ## mukta-m0-p64-v1599
-[fruit](phalaṃ) [light](laghu) [whole](samagraṃ) [becomes](syāt) [musk](kastūrī) [saffron](kuṃkumaṃ) [moon](śaśī)
+[fruit](phalaṃ) [small](laghu) [whole](samagraṃ) [should-be](syāt) [musk](kastūrī) [saffron](kuṃkumaṃ) [camphor](śaśī)
 
 ## mukta-m0-p64-v1600
-[and-salt](tathaiva lavaṇaṃ) [parched-rice](lājā) [fist-vessel](muṣṭipātraṃ) [offers](huned) [wise](budhaḥ)
+[likewise](tathaiva) [salt](lavaṇaṃ) [parched-grain](lājā) [handful](muṣṭi)[measure](pātraṃ) [should-offer](huned)[wise-one](budhaḥ)

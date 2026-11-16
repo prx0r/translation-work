@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p44-v1076
-[silver-vessel](raupyapātreṇa) [having-given](dattvā) [indeed](vai) [Viṣṇu-sacrifice-fruit](viṣṇuyāgaphalaṃ) [obtains](labhet)
+[silver](raupya)[vessel+by](pātreṇa) [having-given](dattvā) [indeed](vai) [viṣṇu+worship+fruit](viṣṇuyāgaphalaṃ) [one-may-obtain](labhet)
 
 ## mukta-m0-p44-v1077
-[having-given](dattvā) [golden-vessel](sauvarṇapātreṇa) [obtains](labhet) [much](bahuḥ) [gold](suvarṇakam)
+[having-given](dattvā) [golden+vessel+by](sauvarṇapātreṇa) [one-may-obtain](labhet)[much](bahuḥ) [gold](suvarṇakam)
 
 ## mukta-m0-p44-v1078
-[five-shrine-worship](pañcāyatanapūjāyāṃ) [ten](daśa) [vessels](pātrāṇi) [indeed](vai) [throws](kṣipet)
+[five+shrine+worship+in](pañcāyatanapūjāyāṃ) [ten](daśa) [vessels](pātrāṇi) [indeed](vai) [one-should-place](kṣipet)
 
 ## mukta-m0-p44-v1079
-[offering-vessels](balipātrāṇi) [five](pañca) [are](syuḥ) [of-blood-one-vessel](rudhirasyaikapātrakam)
+[offering+vessels](balipātrāṇi) [five](pañca) [should-be](syuḥ) [of-blood](rudhirasya)[one+vessel](ekapātrakam)
 
 ## mukta-m0-p44-v1080
-[one](ekaṃ) [cooked](pakvasya) [of-meat](māṃsasya)
+[one](ekaṃ) [of-cooked](pakvasya) [meat](māṃsasya)
 
 ## mukta-m0-p44-v1081
-[to-be-placed](sthāpanīyāni) [with-effort](yatnena) [if-desires](yadīcchet) [perfection](siddhim) [of-self](ātmanaḥ)
+[to-be-placed](sthāpanīyāni) [with-effort](yatnena) [if](yadi)[one-desires](icchet) [accomplishment](siddhim)[of-oneself](ātmanaḥ)
 
 ## mukta-m0-p44-v1082
-[of-yoginīs](yoginīnāṃ) [worship](samarcāyāṃ) [fifty](pañcāśan) [couple-worship](mithunārcane)
+[of-yoginīs](yoginīnāṃ) [in-worship](samarcāyāṃ) [fifty](pañcāśat)[couple+worship+in](mithunārcane)
 
 ## mukta-m0-p44-v1083
-[guru-maṇḍala-worship](gurumaṇḍalapūjāyāṃ) [of-suns](dineśānāṃ) [likewise](tathaiva) [and](ca)
+[guru+circle+worship+in](gurumaṇḍalapūjāyāṃ) [of-lords-of-day](dineśānāṃ) [likewise](tathaiva) [and](ca)
 
 ## mukta-m0-p44-v1084
-[akṣara-herb-worship](akṣarauṣadhipūjāyāṃ) [rosary-worship](japamālāprapūjane)
+[syllable+herb+worship+in](akṣarauṣadhipūjāyāṃ) [rosary+worship+in](japamālāprapūjane)
 
 ## mukta-m0-p44-v1085
-[offering-etc-five-vessels](arghyādipañcapātrāṇi) [to-be-prepared](sampādyāni) [separately](pṛthak) [separately](pṛthak)
+[arghya+etc.+five+vessels](arghyādipañcapātrāṇi) [to-be-prepared](sampādyāni) [separately](pṛthak) [separately](pṛthak)
 
 ## mukta-m0-p44-v1086
-[cooked-rice-pot-pair](carusthālīdvayaṃ) [and](ca) [indeed](eva) [consecrated](praṇītā) [sprinkling-water](prokṣaṇī) [thus](tathā)
+[cooked-rice+pot+pair](carusthālīdvayaṃ) [and](ca)[indeed](eva) [praṇītā-vessel](praṇītā) [sprinkling-vessel](prokṣaṇī) [likewise](tathā)
 
 ## mukta-m0-p44-v1087
-[principal](mukhyāni) [these](etāni) [vessels](pātrāṇi)
+[principal](mukhyāni)[these](etāni) [vessels](pātrāṇi)
 
 ## mukta-m0-p44-v1088
-[rounded](vṛttena) [wrapped](veṣṭitaṃ) [outside](bāhye) [square](caturasreṇa) [and](ca) [indeed](eva) [hi](hi)
+[with-circle](vṛttena) [surrounded](veṣṭitaṃ) [outside](bāhye) [with-square](caturasreṇa) [and](ca)[indeed](eva) [indeed](hi)
 
 ## mukta-m0-p44-v1089
-[sandal-anointed](gandhalipte) [own-left-front](svavāmāgre) [should-place](vidadhyāt) [fish-mudrā](matsyamudrayā)
+[perfume+smeared+on](gandhalipte) [own+left+front+in](svavāmāgre) [one-should-place](vidadhyāt)[fish+gesture+with](matsyamudrayā)
 
 ## mukta-m0-p44-v1090
-[limbs](aṅgāni) [of-square](caturasrasya) [in-corners](koṇeṣu) [in-front](purataḥ) [thus](tathā)
+[limbs](aṅgāni) [of-square](caturasrasya) [in-corners](koṇeṣu) [in-front](purataḥ)[likewise](tathā)
 
 ## mukta-m0-p44-v1091
-[by-root](mūlena) [washed](kṣālitaṃ) [conch-support](śaṅkhādhāraṃ) [I-establish](saṃsthāpayāmi)
+[with-root-mantra](mūlena) [washed](kṣālitaṃ) [conch+support](śaṅkhādhāraṃ) [I-establish](saṃsthāpayāmi)
 
 ## mukta-m0-p44-v1092
-[fire-end](vahnyante) [maṇḍala](maṇḍalāya) [iti](iti) [thus](tathā) [dharma-giver](dharmapradā) [iti](iti) [ca](ca)
+[vahnyante-maṇḍalāya](vahnyante) [maṇḍalāya](maṇḍalāya)[thus](iti) [and](tathā) [dharmapradā](dharmapradā)[thus](iti) [and](ca)
 
 ## mukta-m0-p44-v1093
-[of-fire-ten](vahnerdaśa) [kalās](kalāḥ) [there](tatra) [clockwise](prādakṣiṇyena) [worships](pūjayet)
+[of-fire](vahneḥ)[ten](daśa) [digits](kalāḥ)[there](tatra) [clockwise](prādakṣiṇyena) [one-should-worship](pūjayet)
 
 ## mukta-m0-p44-v1094
-[therefore](tasmāt) [according-to-rite](vidhivat) [support](ādhāraṃ) [should-arrange](kalpayet) [to-kula-goddess](kulanāyike)
+[therefore](tasmād) [according-to-rule](vidhivat)[support](ādhāraṃ) [one-should-arrange](kalpayet) [O-lady-of-kula](kulanāyike)
 
 ## mukta-m0-p44-v1095
-[or](athavā) [round-shaped](vartulākāraṃ) [should-make](kuryāt) [goddess](devi) [mind-charming](manoharam)
+[or](athavā) [circular+form](vartulākāraṃ) [one-should-make](kuryād) [O-goddess](devi) [charming](manoharam)
 
 ## mukta-m0-p44-v1096
-[auspicious-Śrī](suśrīḥ) [own-form](svarūpā) [tawny](kapilā) [oblation-offering](havyakavyavahe) [thus](tathā)
+[suśrīḥ](suśrīḥ) [svarūpā](svarūpā) [kapilā](kapilā) [havyakavyavahe](havyakavyavahe) [likewise](tathā)
 
 ## mukta-m0-p44-v1097
-[conch-measure](śaṅkhamānaṃ) [indeed](tu) [span](prādeśaṃ) [four-fingers](caturaṃgulam) [raised](ucchritam)
+[conch+measure](śaṅkhamānaṃ) [indeed](tu) [span-long](prādeśaṃ) [four+finger](caturaṃgulam)[raised](ucchritam)
 
 ## mukta-m0-p44-v1098
-[I-am-purpose-giver](ahamarthapradā) [iti](iti) [should-say](vadeta) [twelve](dvādaśa) [also](iti) [api](api)
+[ahamarthapradāya](ahamarthapradāya)[thus](iti) [one-should-say](vadeta) [twelve](dvādaśa)[thus](iti)[also](api)
 
 ## mukta-m0-p44-v1099
-[by-this](anena) [conch](śaṅkham) [having-worshipped](abhyarcya) [rays](kalāḥ) [of-sun](sūryasya) [worships](pūjayet)
+[by-this](anena) [conch](śaṅkham)[having-worshipped](abhyarcya) [digits](kalāḥ) [of-sun](sūryasya) [one-should-worship](pūjayet)
 
 ## mukta-m0-p44-v1100
-[suṣumnā](suṣumnā) [enjoyment-giver](bhogadā) [all](viśvā) [awakening](bodhinī) [supporting](dhāriṇī) [patience](kṣamā)
+[suṣumnā](suṣumnā) [bhogadā](bhogadā) [viśvā](viśvā) [bodhinī](bodhinī) [dhāriṇī](dhāriṇī) [kṣamā](kṣamā)
