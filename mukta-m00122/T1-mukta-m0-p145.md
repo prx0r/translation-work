@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p145-v3601
-[country+arrived+then](deśaprāptāntu) [that-month-full](tanmāsapūrṇāyāṃ) [worship](pūjayet) [Shiva](śive)
+[country](deśa) [obtained](prāptān) [but](tu) [that](tat) [month](māsa) [completion](pūrṇāyāṃ) [one-should-worship](pūjayet) [in-Śiva](śive)
 
 ## mukta-m0-p145-v3602
-[sometimes](kadācid) [also](api) [long-lived](dīrghāyuḥ) [disease-free](arogaḥ) [knower](jñānavān) [happy](sukhī)
+[sometime](kadācit) [even](api) [long-lived](dīrghāyuḥ) [disease-free](arogaḥ) [knowledgeable](jñānavān) [happy](sukhī)
 
 ## mukta-m0-p145-v3603
-[eternal+self](nityātmakau) [become](bhavataḥ) [thus](iti) [said](uktam) [iti](iti)
+[eternity](nitya) [natured](ātmakau) [you-two-become](bhavataḥ) [thus](iti) [said](uktam) [thus](iti)
 
 ## mukta-m0-p145-v3604
-[country+etc](deśādīnām)
+[of-countries](deśa) [and-so-on](ādīnām)
 
 ## mukta-m0-p145-v3605
-[honored](mānyate) [all-mantras](sarvamantrāḥ) [accomplished](siddhāḥ) [would-be](syuḥ) [there](tatra) [worship](pūjanāt)
+[is-regarded](mānyate) [all](sarva) [mantras](mantrāḥ) [and](ca) [accomplished](siddhāḥ) [they-become](syuḥ) [there](tatra) [by-worship](pūjanāt)
 
 ## mukta-m0-p145-v3606
-[vegetable](śākaḥ) [and](ca) [lotus](puṣkaraḥ) [ca](ca) [etc](iti) [seven-islands](saptadvīpeṣu) [trees](bhūruhāḥ)
+[śāka](śākaḥ) [and](ca) [puṣkara](puṣkaraḥ) [and](ca) [thus](iti) [in-seven](sapta) [islands](dvīpeṣu) [trees](bhūruhāḥ)
 
 ## mukta-m0-p145-v3607
-[that-that-name](tattannāmabhiḥ) [worship](abhyarcya) [that-island](taddvīpam) [there](tatra) [worship](pūjayet)
+[by-those](tat) [by-those](tat) [names](nāmabhiḥ) [having-worshipped](abhyarcya) [that](tat) [island](dvīpaṃ) [there](tatra) [one-should-worship](pūjayet)
 
 ## mukta-m0-p145-v3608
-[thus](evaṃ) [worshipper](pūjayituḥ) [world](loke) [not](na) [equal](samosti) [nor](na) [more](adhikaḥ)
+[thus](evaṃ) [of-the-worshipper](pūjayituḥ) [in-the-world](loke) [not](na) [equal](samaḥ) [is](asti) [not](na) [and](ca) [superior](adhikaḥ)
 
 ## mukta-m0-p145-v3609
-[great-void](mahāvyoma) [and](ca) [moonless](niḥsaumaṃ) [there](tatra) [this-two-situated](tatraitaddvayasaṃsthitiḥ)
+[great](mahā) [sky](vyoma) [and](ca) [without-moon](niḥsaumaṃ) [there](tatra) [of-this](etat) [pair](dvaya) [abiding](saṃsthitiḥ)
 
 ## mukta-m0-p145-v3610
-[opposite-tattva](pratipakṣatattat) [obtained-tithi](prāptatithīḥ) [ca](ca) [worship](pūjayan) [spoken-fruit](proktaphala) [share](siddhibhāg) [iti](iti)
+[each-fortnight](pratipakṣa) [that](tat) [that](tat) [obtained](prāpta) [lunar-days](tithīḥ) [and](ca) [worshipping](pūjayan) [declared](prokta) [fruit](phala) [accomplishment](siddhi) [sharer](bhāk) [thus](iti)
 
 ## mukta-m0-p145-v3611
-[spoken-form](proktarūpa) [power](prabhāvaḥ) [become](bhavet) [iti](iti)
+[declared](prokta) [form](rūpa) [power](prabhāvaḥ) [should-be](bhavet) [thus](iti)
 
 ## mukta-m0-p145-v3612
-[planets](grahāṇām) [there](tatra) [co-residence](saṃvāsa) [movement](pracāra) [fixed-self](niyatātmanām)
+[of-planets](grahāṇāṃ) [there](tatra) [dwelling](saṃvāsa) [movement](pracāra) [regulated](niyata) [natured](ātmanām)
 
 ## mukta-m0-p145-v3613
-[not](na) [but-other](tvanyat) [support](avalambāya) [of-them](tayoḥ) [anywhere](kutrāpi) [exists](vidyate)
+[not](na) [but](tu) [other](anyat) [for-support](avalambāya) [of-those-two](tayoḥ) [anywhere](kutrāpi) [exists](vidyate)
 
 ## mukta-m0-p145-v3614
-[previously-spoken-form](prāguktarūpām) [that-shore](tattīre) [kolavaktra](kolavaktrām) [fifth](pañcamīm)
+[previously](prāk) [described](ukta) [form](rūpāṃ) [on-that](tat) [shore](tīre) [boar](kola) [faced](vaktrām) [but](tu) [fifth](pañcamīṃ)
 
 ## mukta-m0-p145-v3615
-[that-middle](tanmadhye) [nine-gems](navaratnāni) [great-island](mahādvīpam) [five](pañca) [there](tatra) [vai](vai)
+[in-that](tat) [middle](madhye) [nine](nava) [jewels](ratnāni) [great](mahā) [island](dvīpam) [and](ca) [there](tatra) [indeed](vai)
 
 ## mukta-m0-p145-v3616
-[that-middle](tanmadhye) [countless-forms](asaṃkhyarūpābhiḥ) [surrounded](vṛtām) [music-power](saṅgītaśaktibhiḥ)
+[in-that](tat) [middle](madhye) [by-innumerable](asaṃkhya) [forms](rūpābhiḥ) [surrounded](vṛtāṃ) [by-music](saṅgīta) [powers](śaktibhiḥ)
 
 ## mukta-m0-p145-v3617
-[entertained](vinodyamānām) [shining](vilasant) [intoxicated-slow-gaze](madamantharavīkṣaṇām)
+[being-entertained](vinodyamānāṃ) [shining](vilasat) [love](mada) [languid](manthara) [glance](vīkṣaṇām)
 
 ## mukta-m0-p145-v3618
-[pure-smile](śucismitām) [power-group-song](śaktivṛndagīta) [attracted-joy](ākarṣaṇananditām)
+[pure](śuci) [smiling](smitāṃ) [by-śakti](śakti) [multitude](vṛnda) [song](gīta) [attraction](ākarṣaṇa) [delighted](nanditām)
 
 ## mukta-m0-p145-v3619
-[power](śakteḥ) [desire](icchā) [iti](iti)
+[of-śakti](śakteḥ) [desire](icchā) [thus](iti)
 
 ## mukta-m0-p145-v3620
-[compassion](dayā) [cruel-side-glance](madāruṇāpāṅga) [looked](vilokita) [accomplished](susādhakām)
+[compassion](dayā) [joy](mada) [fierce](aruṇa) [sidelong-glance](apāṅga) [beheld](vilokita) [fortunate-practitioner](susādhakām)
 
 ## mukta-m0-p145-v3621
-[shining](virājamānān) [tusk-gift](diradāna) [dogs](śvān) [api](api) [such](tathāvidhān)
+[shining](virājamānān) [elephants](diradān) [horses](aśvān) [also](api) [of-that-kind](tathāvidhān)
 
 ## mukta-m0-p145-v3622
-[own-equal](svasamānābhiḥ) [around](abhitaḥ) [eternal](nityābhiḥ) [served](sevitām) [tathā](tathā)
+[by-her](sva) [equal](samānābhiḥ) [on-all-sides](abhitaḥ) [by-eternal-ones](nityābhiḥ) [attended](sevitām) [thus](tathā)
 
 ## mukta-m0-p145-v3623
-[that-entertainment](tadvinodaḥ) [that-near-resident](tatsamīpanivāsī) [would-be](syāt) [certainly](suniścitam)
+[her](tat) [entertainment](vinodaḥ) [her](tat) [vicinity](samīpa) [dweller](nivāsī) [he-becomes](syāt) [certainly](suniścitam)
 
 ## mukta-m0-p145-v3624
-[nine-gem-island](navaratnamayaṃ) [dvīpa](dvīpaṃ) [that-measure-ocean](tanmānābdhibhiḥ) [surrounded](āvṛtam)
+[nine](nava) [jewel](ratna) [made](mayaṃ) [island](dvīpaṃ) [by-that](tat) [measure](māna) [oceans](abdibhiḥ) [surrounded](āvṛtam)
 
 ## mukta-m0-p145-v3625
-[gem-island](ratnadvīpasya) [middle-third](madhyasthatṛtīyāṃśe) [tu](tu) [pavilion](maṇḍape)
+[of-jewel](ratna) [island](dvīpasya) [in-the-middle](madhya) [situated](stha) [third](tṛtīya) [part](aṃśe) [but](tu) [in-the-pavilion](maṇḍape)

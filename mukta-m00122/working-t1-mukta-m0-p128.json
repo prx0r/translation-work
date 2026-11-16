@@ -7,20 +7,24 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "asyā",
+"surface": "asyāḥ",
 "quick_gloss": "of-this"
 },
 {
-"surface": "niphālanāccitte",
-"quick_gloss": "achievement-in-mind"
+"surface": "niphalanāt",
+"quick_gloss": "by-contemplation"
 },
 {
-"surface": "tattattvaṃ",
-"quick_gloss": "that-reality"
+"surface": "citte",
+"quick_gloss": "in-mind"
 },
 {
-"surface": "svātmasātkṛtam",
-"quick_gloss": "self-made-own"
+"surface": "tat-tattvam",
+"quick_gloss": "that-essence"
+},
+{
+"surface": "sva-ātma-sātkṛtam",
+"quick_gloss": "made-one's-own-self"
 }
 ]
 },
@@ -32,12 +36,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "paripūrṇaṃ",
+"surface": "paripūrṇam",
 "quick_gloss": "fully-complete"
 },
 {
 "surface": "parāmṛṣṭam",
-"quick_gloss": "supremely-touched"
+"quick_gloss": "thoroughly-grasped"
 }
 ]
 },
@@ -53,24 +57,20 @@
 "quick_gloss": "by-letters"
 },
 {
-"surface": "tajjanitaiḥ",
-"quick_gloss": "born-from-that"
-},
-{
-"surface": "mantraiḥ",
-"quick_gloss": "mantras"
+"surface": "tat-janitaiḥ-mantraiḥ",
+"quick_gloss": "by-mantras-born-from-them"
 },
 {
 "surface": "yantraiḥ",
-"quick_gloss": "yantras"
+"quick_gloss": "by-diagrams"
 },
 {
-"surface": "kālātmatāṃ",
-"quick_gloss": "time-nature"
+"surface": "kāla-ātmatām",
+"quick_gloss": "state-of-being-time"
 },
 {
 "surface": "kramāt",
-"quick_gloss": "gradually"
+"quick_gloss": "in-sequence"
 }
 ]
 },
@@ -82,8 +82,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "yajjñānopāstibhedābhyāṃ",
-"quick_gloss": "by-knowledge-and-worship-distinction"
+"surface": "yat",
+"quick_gloss": "which"
+},
+{
+"surface": "jñāna-upāsti-bhedābhyām",
+"quick_gloss": "by-difference-of-knowledge-and-worship"
 },
 {
 "surface": "mantrāḥ",
@@ -95,7 +99,7 @@
 },
 {
 "surface": "varṇinaḥ",
-"quick_gloss": "possessing-letters"
+"quick_gloss": "for-the-initiated"
 }
 ]
 },
@@ -115,12 +119,16 @@
 "quick_gloss": "principles"
 },
 {
-"surface": "ṣaḍviṃśadvargāḥ",
-"quick_gloss": "twenty-six-groups"
+"surface": "ṣaḍviṃśat",
+"quick_gloss": "twenty-six"
 },
 {
-"surface": "nāthanavātmikāḥ",
-"quick_gloss": "lord-nine-souled"
+"surface": "vargāḥ",
+"quick_gloss": "groups"
+},
+{
+"surface": "nātha-navātmikāḥ",
+"quick_gloss": "consisting-of-nine-lords"
 }
 ]
 },
@@ -132,11 +140,11 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "vāsanāpaṭalavakṣyamāṇāḥ",
-"quick_gloss": "latent-impression-layer-to-be-spoken"
+"surface": "vāsanā-paṭala-vakṣyamāṇāḥ",
+"quick_gloss": "to-be-stated-in-the-section-on-latencies"
 },
 {
-"surface": "sattvādivihīnāḥ",
+"surface": "sattva-ādi-vihīnāḥ",
 "quick_gloss": "devoid-of-sattva-etc"
 }
 ]
@@ -150,11 +158,11 @@
 "tokens": [
 {
 "surface": "mātṛkāyāḥ",
-"quick_gloss": "mother's"
+"quick_gloss": "of-the-mātṛkā"
 },
 {
 "surface": "navātmakāḥ",
-"quick_gloss": "nine-souled"
+"quick_gloss": "consisting-of-nine"
 },
 {
 "surface": "vargāḥ",
@@ -162,7 +170,7 @@
 },
 {
 "surface": "te",
-"quick_gloss": "those"
+"quick_gloss": "they"
 },
 {
 "surface": "eva",
@@ -170,7 +178,7 @@
 },
 {
 "surface": "navātmakāḥ",
-"quick_gloss": "nine-souled"
+"quick_gloss": "consisting-of-nine"
 },
 {
 "surface": "nāthāḥ",
@@ -178,7 +186,7 @@
 },
 {
 "surface": "syuḥ",
-"quick_gloss": "are"
+"quick_gloss": "should-be"
 },
 {
 "surface": "iti",
@@ -195,7 +203,7 @@
 "tokens": [
 {
 "surface": "mātṝṇām",
-"quick_gloss": "of-mothers"
+"quick_gloss": "of-the-mothers"
 },
 {
 "surface": "tu",
@@ -219,7 +227,7 @@
 },
 {
 "surface": "uttaram",
-"quick_gloss": "upward"
+"quick_gloss": "the-rest"
 }
 ]
 },
@@ -232,19 +240,23 @@
 "tokens": [
 {
 "surface": "ṣaṭsaptatyā",
-"quick_gloss": "sixty-seventy"
+"quick_gloss": "by-seventy-six"
 },
 {
-"surface": "pañcaśataṃ",
+"surface": "pañcaśatam",
 "quick_gloss": "five-hundred"
 },
 {
-"surface": "tatsaṃkhyābdaistu",
-"quick_gloss": "by-those-number-years"
+"surface": "tat-saṃkhyā-abdaiḥ",
+"quick_gloss": "by-years-of-that-number"
+},
+{
+"surface": "tu",
+"quick_gloss": "but"
 },
 {
 "surface": "pūrṇatā",
-"quick_gloss": "fullness"
+"quick_gloss": "completion"
 }
 ]
 },
@@ -256,12 +268,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "pūrṇakālasamāvṛttiḥ",
-"quick_gloss": "full-time-revolution"
+"surface": "pūrṇa-kāla-samāvṛttiḥ",
+"quick_gloss": "revolution-of-the-full-time"
 },
 {
-"surface": "yugakalpādināmabhāk",
-"quick_gloss": "devoid-of-yuga-kalpa-etc-names"
+"surface": "yuga-kalpa-ādi-nāmabhāk",
+"quick_gloss": "bearing-the-names-of-yuga-kalpa-etc"
 }
 ]
 },
@@ -274,15 +286,15 @@
 "tokens": [
 {
 "surface": "tasya",
-"quick_gloss": "of-it"
+"quick_gloss": "of-that"
 },
 {
-"surface": "turyyāṃśaturyyāṃśahānyā",
-"quick_gloss": "by-loss-of-quarter-of-quarter"
+"surface": "turya-aṃśa-turya-aṃśa-hānyā",
+"quick_gloss": "by-diminution-of-quarter-of-quarter"
 },
 {
-"surface": "tretādisambhavaḥ",
-"quick_gloss": "treta-etc-birth"
+"surface": "tretā-ādi-sambhavaḥ",
+"quick_gloss": "arising-of-tretā-etc"
 }
 ]
 },
@@ -294,12 +306,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "yugakalpādiamabhāk",
-"quick_gloss": "devoid-of-yuga-kalpa-etc"
+"surface": "yuga-kalpa-ādi-amabhāk",
+"quick_gloss": "bearing-the-names-of-yuga-kalpa-etc"
 },
 {
-"surface": "yugakalpādisaṃjñā",
-"quick_gloss": "yuga-kalpa-etc-name"
+"surface": "yuga-kalpa-ādi-saṃjñā",
+"quick_gloss": "becomes-the-designation-yuga-kalpa-etc"
 },
 {
 "surface": "bhavati",
@@ -316,19 +328,19 @@
 "tokens": [
 {
 "surface": "tān",
-"quick_gloss": "those"
+"quick_gloss": "them"
 },
 {
-"surface": "dinākṣarasaṃyuktān",
-"quick_gloss": "joined-with-day-letters"
+"surface": "dina-akṣara-saṃyuktān",
+"quick_gloss": "joined-with-day-syllables"
 },
 {
-"surface": "madhyayonau",
-"quick_gloss": "in-middle-womb"
+"surface": "madhya-yonau",
+"quick_gloss": "in-the-middle-womb"
 },
 {
 "surface": "samālikhet",
-"quick_gloss": "write-together"
+"quick_gloss": "one-should-write"
 }
 ]
 },
@@ -340,8 +352,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "vāmordhvadakṣapārśveṣu",
-"quick_gloss": "in-left-up-right-sides"
+"surface": "vāma-ūrdhva-dakṣa-pārśveṣu",
+"quick_gloss": "on-the-left-upper-and-right-sides"
 },
 {
 "surface": "pañca",
@@ -353,7 +365,7 @@
 },
 {
 "surface": "samīritāḥ",
-"quick_gloss": "declared"
+"quick_gloss": "are-declared"
 }
 ]
 },
@@ -366,27 +378,27 @@
 "tokens": [
 {
 "surface": "vyañjaneṣu",
-"quick_gloss": "in-consonants"
+"quick_gloss": "among-consonants"
 },
 {
 "surface": "tu",
 "quick_gloss": "but"
 },
 {
-"surface": "sarvvatra",
+"surface": "sarvatra",
 "quick_gloss": "everywhere"
 },
 {
 "surface": "suśliṣṭāḥ",
-"quick_gloss": "well-joined"
+"quick_gloss": "closely-attached"
 },
 {
 "surface": "svena",
-"quick_gloss": "with-own"
+"quick_gloss": "joined-with-their-own"
 },
 {
 "surface": "saṃyutāḥ",
-"quick_gloss": "joined"
+"quick_gloss": "united"
 }
 ]
 },
@@ -398,12 +410,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "ekaḥ",
-"quick_gloss": "one"
+"surface": "rekaḥ",
+"quick_gloss": "the-letter-ra"
 },
 {
-"surface": "caturyugaḥ",
-"quick_gloss": "four-yuga"
+"surface": "catur-yugaḥ",
+"quick_gloss": "becomes-the-four-yugas"
 },
 {
 "surface": "bhavati",
@@ -424,19 +436,19 @@
 "tokens": [
 {
 "surface": "nigrahe",
-"quick_gloss": "in-restraint"
+"quick_gloss": "in-subjugation"
 },
 {
-"surface": "vāstuvinyāse",
-"quick_gloss": "site-arrangement"
+"surface": "vāstu-vinyāse",
+"quick_gloss": "in-site-installation"
 },
 {
-"surface": "garbhanyāse",
-"quick_gloss": "embryo-arrangement"
+"surface": "garbha-nyāse",
+"quick_gloss": "in-womb-deposits"
 },
 {
-"surface": "iṣṭasiddhikṛt",
-"quick_gloss": "desired-accomplishment-maker"
+"surface": "iṣṭa-siddhi-kṛt",
+"quick_gloss": "effecting-accomplishment-of-desired-aims"
 }
 ]
 },
@@ -448,12 +460,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "ekaikaṃ",
-"quick_gloss": "one-by-one"
+"surface": "eka-ekam",
+"quick_gloss": "each-one"
 },
 {
-"surface": "mātṛkāvarṇapañcāśatparivṛttitaḥ",
-"quick_gloss": "mother-letter-fifty-rotation"
+"surface": "mātṛkā-varṇa-pañcāśat-parivṛttitaḥ",
+"quick_gloss": "by-repetition-of-the-fifty-mātṛkā-letters"
 }
 ]
 },
@@ -465,20 +477,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "savisarjanīyam",
+"surface": "sa-visarjanīyam",
 "quick_gloss": "with-visarga"
 },
 {
 "surface": "itareṣu",
-"quick_gloss": "in-others"
+"quick_gloss": "in-the-others"
 },
 {
-"surface": "savindukaṃ",
+"surface": "sa-vindukam",
 "quick_gloss": "with-bindu"
 },
 {
 "surface": "likhet",
-"quick_gloss": "write"
+"quick_gloss": "one-should-write"
 },
 {
 "surface": "iti",
@@ -494,20 +506,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "padacchedaḥ",
-"quick_gloss": "pada-cut"
+"surface": "pada-cchedaḥ",
+"quick_gloss": "word-division"
 },
 {
 "surface": "āgamānām",
-"quick_gloss": "of-agamas"
+"quick_gloss": "of-the-āgamas"
 },
 {
 "surface": "sandhiḥ",
-"quick_gloss": "sandhi"
+"quick_gloss": "junction"
 },
 {
 "surface": "divyatvāt",
-"quick_gloss": "due-to-divinity"
+"quick_gloss": "because-of-divinity"
 },
 {
 "surface": "asmābhiḥ",
@@ -531,20 +543,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "evaṃ",
+"surface": "evam",
 "quick_gloss": "thus"
 },
 {
-"surface": "yugādimārabhya",
-"quick_gloss": "from-yuga-beginning"
+"surface": "yuga-ādi-mārabhya",
+"quick_gloss": "beginning-with-yuga-etc"
 },
 {
-"surface": "kālātmārṇaiḥ",
-"quick_gloss": "time-soul-letters"
+"surface": "kāla-ātma-arṇaiḥ",
+"quick_gloss": "by-letters-consisting-of-time"
 },
 {
 "surface": "pravarttate",
-"quick_gloss": "proceeds"
+"quick_gloss": "it-proceeds"
 }
 ]
 },
@@ -557,19 +569,19 @@
 "tokens": [
 {
 "surface": "teṣu",
-"quick_gloss": "in-them"
-},
-{
-"surface": "paryyāyanityārṇavarṇān",
-"quick_gloss": "cyclic-eternal-letter-letters"
+"quick_gloss": "among-them"
 },
 {
 "surface": "ālikhya",
 "quick_gloss": "having-written"
 },
 {
+"surface": "paryāya-nityā-arṇa-varṇān",
+"quick_gloss": "the-letters-of-the-cyclical-nityās"
+},
+{
 "surface": "bāhyataḥ",
-"quick_gloss": "outside"
+"quick_gloss": "on-the-outside"
 }
 ]
 },
@@ -582,23 +594,23 @@
 "tokens": [
 {
 "surface": "nityāḥ",
-"quick_gloss": "eternal"
+"quick_gloss": "the-nityās"
 },
 {
-"surface": "ṣoḍhaśa",
+"surface": "ṣoḍaśa",
 "quick_gloss": "sixteen"
 },
 {
 "surface": "deveśi",
-"quick_gloss": "goddess"
+"quick_gloss": "O-goddess"
 },
 {
 "surface": "pūjayet",
-"quick_gloss": "worship"
+"quick_gloss": "one-should-worship"
 },
 {
-"surface": "nityamarccakaḥ",
-"quick_gloss": "eternal-worshipper"
+"surface": "nitya-arccakaḥ",
+"quick_gloss": "the-daily-worshipper"
 }
 ]
 },
@@ -610,12 +622,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "ṣaṭṣaḍāvṛttayaḥ",
-"quick_gloss": "six-six-rotations"
+"surface": "ṣaṭ-ṣaṭ-āvṛttayaḥ",
+"quick_gloss": "six-times-six-revolutions"
 },
 {
 "surface": "sambhavanti",
-"quick_gloss": "occur"
+"quick_gloss": "arise"
 },
 {
 "surface": "iti",
@@ -632,15 +644,15 @@
 "tokens": [
 {
 "surface": "adhamā",
-"quick_gloss": "lowest"
+"quick_gloss": "inferior"
 },
 {
-"surface": "māsamātreṇa",
-"quick_gloss": "month-measure"
+"surface": "māsa-mātreṇa",
+"quick_gloss": "in-the-measure-of-a-month"
 },
 {
-"surface": "māsādūrddhvam",
-"quick_gloss": "beyond-month"
+"surface": "māsāt-ūrddhvam",
+"quick_gloss": "beyond-a-month"
 },
 {
 "surface": "ayogyatā",

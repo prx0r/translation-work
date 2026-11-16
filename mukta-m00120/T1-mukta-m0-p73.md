@@ -2,55 +2,55 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p73-v1801
-[then](tadā) [liberation](muktim) [obtains](avāpno) [when](yadā) [brahman-realizes](brahmapravindati)
+[then](tadā) [liberation](muktim)+[obtains](avāpno) [when](yadā) [brahman](brahma)+[attains](pravindati)
 
 ## mukta-m0-p73-v1802
-[cause](prakāraṇam) [or](;) [illuminator](prakāśakam) [gh](gh) [variant](prakāśakam)
+[cause](prakāraṇam) [variant](gh:) [illuminator](prakāśakam) [text](])
 
 ## mukta-m0-p73-v1803
-[laughter-wonder-etc](hāsyakautūhalādikam)
+[laughter](hāsya)+[curiosity](kautūhala)+[etcetera](ādikam) [text](])
 
 ## mukta-m0-p73-v1804
-[playfully](līlayā) [of-brahman](brahmaṇaḥ) [all](sarvaṃ) [laughter](hāsya) [wonder-etc](kautūhalādikam)
+[by-play](līlayā) [of-brahman](brahmaṇaḥ) [all](sarvaṃ) [laughter](hāsya) [curiosity](kautūhala)+[etcetera](ādikam)
 
 ## mukta-m0-p73-v1805
-[divine](divye) [body](śarīre) [he-too](so'pyasti) [thus](tathā) [in-worms-etc](kīṭādikeṣu) [and](ca)
+[in-divine](divye) [body](śarīre) [he](saḥ)+[also](api)+[exists](asti) [likewise](tathā) [in-worm](kīṭa)+[etcetera](ādikeṣu) [and](ca)
 
 ## mukta-m0-p73-v1806
-[self](svayaṃ) [all-pervading](vibhuḥ)
+[himself](svayaṃ) [all-pervading](vibhuḥ)
 
 ## mukta-m0-p73-v1807
-[beings](bhūta) [nature](prakṛtim) [resorting](āśritya) [of-embodied](dehināṃ) [body-destroyer](dehanāśakṛt)
+[elemental](bhūta) [nature](prakṛtim)+[having-resorted-to](āśritya) [of-embodied-beings](dehināṃ) [body](deha)+[destruction](nāśa)+[making](kṛt)
 
 ## mukta-m0-p73-v1808
-[without-mine](nirmamo) [without-ego](nirahaṅkāraḥ) [always](sadā) [light-filled](jyotirmayaḥ) [remembered](smṛtaḥ)
+[without-mine-ness](nirmamaḥ) [without-ego](nirahaṅkāraḥ) [always](sadā) [light](jyotiḥ)+[consisting-of](mayaḥ) [remembered](smṛtaḥ)
 
 ## mukta-m0-p73-v1809
-[cupid](madanaṃ) [form](rūpam) [resorting](āśritya) [person](puruṣo) [becomes-agitated](vihvalāyate)
+[of-love](madanaṃ) [form](rūpam)+[having-assumed](āśritya) [person](puruṣaḥ) [becomes-agitated](vihvalāyate)
 
 ## mukta-m0-p73-v1810
-[by-self-will](ātmecchayā) [done](kṛtaṃ) [action](karma) [fault-nonfault](doṣādoṣaṃ) [not](na) [performs](cācaret)
+[by-own](ātma)+[will](icchayā) [done](kṛtaṃ) [action](karma) [fault](doṣa)+[and-non-fault](adoṣaṃ) [not](na) [and](ca)+[should-perform](ācaret)
 
 ## mukta-m0-p73-v1811
-[upper-void](ūrddhaśūnye) [movement](gatistasya) [middle-void](madhyaśūnye) [situated](vyavasthitaḥ)
+[in-upper](ūrddha)+[void](śūnye) [movement](gatiḥ)+[his](tasya) [in-middle](madhya)+[void](śūnye) [situated](vyavasthitaḥ)
 
 ## mukta-m0-p73-v1812
-[upper](ūrddha) [void](śūnye) [dream-state](svapna) [bhāvaṃ](bhāvaṃ) [brahma](brahma) [aperture](randhraṃ) [declared](prakīrtitam)
+[in-upper](ūrddha) [void](śūnye) [dream](svapna) [state](bhāvaṃ) [brahman](brahma) [aperture](randhraṃ) [is-declared](prakīrtitam)
 
 ## mukta-m0-p73-v1813
-[root-support](mūlādhāre) [below](adhaḥ) [void](śūnyaṃ) [there](tatra) [desire-etc](kāmādi) [thinking](cintanam)
+[in-root](mūla)+[support](ādhāre) [lower](adhaḥ) [void](śūnyaṃ) [there](tatra) [desire](kāma)+[etcetera](ādi) [thinking](cintanam)
 
 ## mukta-m0-p73-v1814
-[he](sa) [stands](tiṣṭhati) [supreme](paraṃ) [brahman](brahma) [by-own-will](svecchayā) [playfully](līlayāpi) [and](ca)
+[he](saḥ) [stands](tiṣṭhati) [supreme](paraṃ) [brahman](brahma) [by-own-will](sva)+[icchayā](icchayā) [by-play](līlayā)+[also](api) [and](ca)
 
 ## mukta-m0-p73-v1815
-[meditation](dhyāna) [worship-etc](pūjādikaṃ) [all](sarvaṃ) [his](tasya) [perfection](siddhirna) [not](na) [arises](jāyate)
+[meditation](dhyāna) [worship](pūjā)+[etcetera](ādikaṃ) [all](sarvaṃ) [his](tasya) [accomplishment](siddhiḥ)+[not](na) [arises](jāyate)
 
 ## mukta-m0-p73-v1816
-[therefore](ata) [indeed](eva) [great-lord](maheśāna) [in-kali](kalau) [perfection](siddhirna) [not](na) [arises](jāyate)
+[therefore](ataḥ) [indeed](eva) [o-great-lord](maheśāna) [in-kali-age](kalau) [accomplishment](siddhiḥ)+[not](na) [arises](jāyate)
 
 ## mukta-m0-p73-v1817
-[who](yo) [knows](vijānāti) [truly](tattvena) [at-body-end](dehānte) [brahman-part](brahmabhāg) [becomes](bhavet)
+[who](yaḥ) [knows](vijānāti) [in-principle](tattvena) [at-body's-end](deha)+[ante](ante) [brahman](brahma)+[partaker](bhāk) [may-become](bhavet)
 
 ## mukta-m0-p73-v1818
-[thus](iti) [śrī](śrī) [sarvānandanātha](sarvānandanātha) [composed](viracite) [sarvollāsa](sarvollāse) [sixty-third](triṣaṣṭyullāsaḥ)
+[thus](iti) [by-śrī-sarvānandanātha](śrī)+[sarvānandanātha](sarvānandanātha) [composed](viracite) [in-sarvollāsa](sarva)+[ullāse](ullāse) [sixty-third](triṣaṣṭi)+[chapter](ullāsaḥ)

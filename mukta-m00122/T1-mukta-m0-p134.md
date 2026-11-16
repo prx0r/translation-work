@@ -5,73 +5,73 @@
 [becomes](bhavati) [thus](iti)
 
 ## mukta-m0-p134-v3327
-[by-union](saṃyogena) [indeed](eva) [are-born](jāyante) [those-forms](tadrūpāṇi) [but](tu) [by-number](saṃkhyayā)
+[by-conjunction](saṃyogena) [indeed](eva) [are-born](jāyante) [of-that-form](tat+rūpāṇi) [but](tu) [by-number](saṃkhyayā)
 
 ## mukta-m0-p134-v3328
-[by-them](taiḥ) [sentences](vākyāni) [and](ca) [mantras](mantrāḥ) [ca](ca) [vedic-speech](vedabhāṣāḥ) [without-difference](anyabhedataḥ)
+[by-them](taiḥ) [sentences](vākyāni) [and](ca) [mantras](mantrāḥ) [and](ca) [Veda-languages](veda+bhāṣāni) [without-difference](abhedataḥ)
 
 ## mukta-m0-p134-v3329
-[of-word-grammar-etc](śabdavyākaraṇādīnāṃ) [rules-etc-endowed](niyamādiyutāḥ) [thus](tathā)
+[of-grammar](śabda+vyākaraṇādīnām) [by-rule](niyamāt) [and-so-forth](ādi) [endowed-with](yutāḥ) [likewise](tathā)
 
 ## mukta-m0-p134-v3330
-[of-three-etc-forms](tribhirityādirūpāṇāṃ) [number](saṃkhyā) [to-do](karttuṃ) [not](na) [possible](śakyate)
+[of-forms](rūpāṇām) [beginning-with-"three"](tribhiḥ+iti+ādi) [number](saṃkhyā) [to-do](karttum) [not](na) [is-possible](śakyate)
 
 ## mukta-m0-p134-v3331
-[thus](evaṃ) [of-word](śabdasya) [greatness](māhātmyaṃ) [to-speak](vaktuṃ) [of-anyone](kasyāpi) [not](nāsti) [indeed](hi)
+[thus](evam) [of-sound](śabdasya) [greatness](māhātmyam) [to-tell](vaktum) [of-anyone](kasyāpi) [not](na) [exists](asti) [indeed](hi)
 
 ## mukta-m0-p134-v3332
-[in-lalita-cakra-nine](lalitācakranavake) [each](pratyekaṃ) [powers](śaktayaḥ) [dear](priye)
+[in-the-nine-Lalitā-cakras](lalitā+cakra+navake) [in-each](pratyekam) [powers](śaktayaḥ) [O-beloved](priye)
 
 ## mukta-m0-p134-v3333
-[millions](koṭyaḥ) [are](syuḥ) [by-that-order](tatkramāt) [of-them](tāsāṃ) [vidyā](vidyā) [I-will-speak](vakṣyāmi) [them](tāḥ) [in-order](kramāt)
+[crores](koṭyaḥ) [may-be](syuḥ) [in-their-order](tat+kramāt) [of-them](tāsām) [vidyās](vidyāḥ) [I-shall-tell](vakṣyāmi) [them](tāḥ) [in-order](kramāt)
 
 ## mukta-m0-p134-v3334
-[power](śaktiḥ) [capacity](sāmarthyaṃ) [of-this](asya) [previous-verse-connection](pūrvaślokenānvayaḥ) [direction](diśā) [means](upāyena)
+[power](śaktiḥ) [capability](sāmarthyam) [of-this](asya) [connection-with-previous-verse](pūrva+ślokena+anvayaḥ) [by-direction](diśā) [by-means](upāyena)
 
 ## mukta-m0-p134-v3335
-[in-order](kramāt) [as](yathā) [order](kramam)
+[in-order](kramāt) [according-to-order](yathā+kramam)
 
 ## mukta-m0-p134-v3336
-[second](dvitīyāni) [and](ca) [those-same](tānyeva) [in-order](krameṇa) [would-be](syuḥ) [then-from-beginning](athāditaḥ)
+[second](dvitīyāni) [and](ca) [those](tāni) [indeed](eva) [in-sequence](krameṇa) [may-be](syuḥ) [then](atha) [from-the-beginning](āditaḥ)
 
 ## mukta-m0-p134-v3337
-[by-patient](kṣāntaiḥ) [thirty-six-letters](ṣaṭtriṃśadarṇaiḥ) [by-those](taiḥ) [equal](samāyaiḥ) [spoken-number](uktasaṃkhyakāḥ)
+[ending-with-kṣa](kṣāntaiḥ) [with-thirty-six-letters](ṣaṭtriṃśat+arṇaiḥ) [with-those](taiḥ) [with-equals](samāyaiḥ) [of-the-stated-number](ukta+saṃkhyakāḥ)
 
 ## mukta-m0-p134-v3338
-[by-them](tābhiḥ) [that-million-number](tatkoṭisaṃkhyākāḥ) [vidyās](vidyāḥ) [three-four-letter](tricaturarṇakāḥ)
+[by-them](tābhiḥ) [of-crore-number](tat+koṭi+saṃkhyākāḥ) [vidyās](vidyāḥ) [of-three-or-four-syllables](tri+catur+arṇakāḥ)
 
 ## mukta-m0-p134-v3339
-[puruṣārthas](puruṣārthāḥ) [indeed](tu) [are-accomplished](sidhyanti) [that-said](taduktaṃ) [mātṛkā-weapons](mātṛkāyudhaiḥ)
+[the-four-human-goals](puruṣa+arthāḥ) [but](tu) [are-accomplished](sidhyanti) [that](tat) [stated](uktam) [by-the-weapons-of-the-Mothers](mātṛkā+āyudhaiḥ)
 
 ## mukta-m0-p134-v3340
-[in-equality](samānatve) [api](api) [of-body-etc](dehāder) [in-activity](vyāpāre) [guru-disciple](guruśiṣyayoḥ)
+[even-in-equality](samānatve+api) [of-body-etc.](deha+ādeḥ) [in-activity](vyāpāre) [of-guru-and-disciple](guru+śiṣyayoḥ)
 
 ## mukta-m0-p134-v3341
-[directly](pratyakṣaṃ) [by-whom](yaistu) [examples](dṛṣṭāntaiḥ) [quickly](āśu) [them](te) [I-show](darśayāmyaham)
+[directly-perceived](pratyakṣam) [by-which](yaiḥ) [by-examples](dṛṣṭāntaiḥ) [quickly](āśu) [to-you](te) [I-shall-show](darśayāmi) [I](aham)
 
 ## mukta-m0-p134-v3342
-[ga-a-etc](ga aḥ ityādīni) [a-ā-kṣa-a-etc](a ā kṣa aḥ ityantāni) [become](bhavantīti)
+[ga aḥ](ga aḥ) [and-so-forth](iti+ādīni) [a ā kṣa aḥ](a ā kṣa aḥ) [ending-with](iti+antāni) [they-are](bhavanti) [thus](iti)
 
 ## mukta-m0-p134-v3343
-[previously-said](prāguktāni) [fruits](phalāni) [obtains](āpnotīti)
+[previously-stated](prāk+uktāni) [fruits](phalāni) [one-obtains](āpnoti) [thus](iti)
 
 ## mukta-m0-p134-v3344
-[she](sā) [by-old-age-disease-death-afflictions](jarārogamaraṇakleśaiḥ) [not](na) [touched](spṛśyate) [otherwise](anyathā)
+[she](sā) [by-old-age-disease-death-afflictions](jarā+roga+maraṇa+kleśaiḥ) [not](na) [is-touched](spṛśyate) [otherwise](anyathā)
 
 ## mukta-m0-p134-v3345
-[of-self](ātmanaḥ) [if-such-form](cedarūpasya) [purification](saṃskāraḥ) [not-indeed](naiva) [fit](yujyate)
+[of-the-self](ātmanaḥ) [if](cet) [of-the-formless](arūpasya) [refinement](saṃskāraḥ) [not](na) [indeed](eva) [is-fitting](yujyate)
 
 ## mukta-m0-p134-v3346
-[of-intellect](buddheḥ) [if](ced) [by-self](ātmanā) [equality](sāmyāt) [of-whom](kasya) [would-be](syāt) [guru-vision](guruvīkṣaṇam)
+[of-the-intellect](vuddheḥ) [if](cet) [by-identity-with-the-self](ātmanā+sāmyāt) [of-whom](kasya) [would-be](syāt) [the-guru's-gaze](guru+vīkṣaṇam)
 
 ## mukta-m0-p134-v3347
-[by-guru-vision-instruction](sekekṣaṇopadeśaiḥ) [tu](tu) [by-guru](guruṇā) [is-done](kriyate) [tu](tu) [yat](yat)
+[by-initiation-gaze-and-instruction](seka+īkṣaṇa+upadeśaiḥ) [but](tu) [by-the-guru](guruṇā) [is-done](kriyate) [indeed](tu) [which](yat)
 
 ## mukta-m0-p134-v3348
-[which-having-obtained](yadavāpya) [abandons](tyajati) [quickly](āśu) [doubt-named](saṃśayākhyaṃ) [great-impurity](mahāmalam)
+[having-obtained-which](yat+avāpya) [abandons](tyajati) [quickly](āśu) [the-great-impurity](mahā+malam) [called-doubt](saṃśaya+ākhyam)
 
 ## mukta-m0-p134-v3349
-[purification](saṃskāraḥ) [is-done](kriyate) [properly](samyag) [by-guru](guruṇā) [truth-knower](tattvavedinā)
+[refinement](saṃskāraḥ) [is-made](kriyate) [properly](samyak) [by-the-guru](guruṇā) [knower-of-truth](tattva+vedinā)
 
 ## mukta-m0-p134-v3350
-[by-vision](vīkṣaṇāt) [of-self](ātmanaḥ) [of-intellect](buddheḥ) [untrue-cutting](ayathārthanikṛntanam)
+[by-gaze](vīkṣaṇāt) [of-the-self](ātmanaḥ) [of-the-intellect](vuddheḥ) [cutting-off-of-error](ayathārtha+nikṛntanam)
