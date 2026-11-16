@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p84-v2076
-[others](anye) [only-foolishness](kevala+mugdhatvam) [bring](āvahanti) [always](sadaiva) [indeed](hi)
+[others](anye) [mere+stupidity](kevala+mugdhatvam) [bring-about](āvahanti) [always](sadaiva) [indeed](hi)
 
 ## mukta-m0-p84-v2077
-[foolishness](mugdhatvaṃ) [stupidity](mūḍhatvam)
+[stupidity](mugdhatvaṃ) [dullness](mūḍhatvam)
 
 ## mukta-m0-p84-v2078
-[these](ta) [knowers](ime+jñāninaḥ) [iti](iti) [famous](prathitāḥ) [by-many-lamenters](bhūri+śocanaiḥ)
+[they](te) [these](ime) [knowers](jñāninaḥ) [thus](iti) [renowned](prathitāḥ) [by-those-of-much-grief](bhūri+śocanaiḥ)
 
 ## mukta-m0-p84-v2079
-[blameworthy](vigarhyām) [contemptible](nindyām) [famous](prathitāḥ) [renowned](vikhyātāḥ)
+[despicable](vigarhyāṃ) [blameworthy](nindyām) [renowned](prathitāḥ) [celebrated](vikhyātāḥ)
 
 ## mukta-m0-p84-v2080
-[what](kim) [these](ete) [equal-knowers](sama+vijñānāḥ) [or](utā) [gradation](tāratamyam) [resorted](āśritāḥ)
+[are-these](kim+ete) [of-equal-knowledge](sama+vijñānāḥ) [or](uta) [having-gradation](tāratamyam) [resorted-to](āśritāḥ)
 
 ## mukta-m0-p84-v2081
-[disciple](śiṣye) [not-other-refuge](ananya+śaraṇye) [they](te) [natural-compassionate](nisarga+sadayaṃ) [mind](manaḥ)
+[in-the-disciple](śiṣye) [having-no-other-refuge](ananya+śaraṇye) [your](te) [naturally-compassionate](nisarga+sadayam) [mind](manaḥ)
 
 ## mukta-m0-p84-v2082
-[all](sarvaṃ) [question-born](praśna+jātam) [because](yato) [natural-compassionate](nisarga+sadayaṃ) [mind](manaḥ) [therefore](ato) [worthy](arhasi) [connection](sambandhaḥ)
+[all](sarvam) [collection-of-questions](praśna+jātam) [because](yataḥ) [naturally-compassionate](nisarga+sadayam) [mind](manaḥ) [therefore](ataḥ) [you-are-worthy](arhasi) [thus](iti) [connection](sambandhaḥ)
 
 ## mukta-m0-p84-v2083
-[thinking](matvā) [fit](yogyaṃ) [question-born](praśna+jātaṃ) [to-speak](pravaktum) [began](upacakrame)
+[having-considered](matvā) [fit](yogyam) [collection-of-questions](praśna+jātam) [to-speak](pravaktum) [began](upacakrame)
 
 ## mukta-m0-p84-v2084
-[with-reflection](savi+marśa) [devoted](paraḥ) [you](yastvam) [therefore](ato) [to-know](jñātuṃ) [enabled](prabhāvitaḥ)
+[devoted-to-reflection](savimarśa+paraḥ) [who](yaḥ) [you](tvam) [therefore](ataḥ) [to-know](jñātum) [empowered](prabhāvitaḥ)
 
 ## mukta-m0-p84-v2085
-[true-reasoning-devoted](sat+tarka+paraḥ) [not](nāsti) [enabled](prabhāvitaḥ) [capable](samarthaḥ)
+[in-k-and-kh](k, kh:) [devoted-to-right-reasoning](sattarka+paraḥ) [not-present](nāsti) [empowered](prabhāvitaḥ) [capable](samarthaḥ)
 
 ## mukta-m0-p84-v2086
-[by-divine-grace](bhagavat+śakti+pātena) [without](vinā) [who](kaḥ) [welfare](śreyaḥ) [obtains](āpnuyāt)
+[without-the-descent-of-the-Lord's-grace](bhagavat+śakti+pātena vinā) [who](kaḥ) [highest-good](śreyaḥ) [could-obtain](āpnuyāt)
 
 ## mukta-m0-p84-v2087
-[that](yat) [true-reflection](sat+vimarśanaṃ) [always](nityaṃ) [would-increase](vardhayet) [well-pleasedness](suprasāditā)
+[because](yat) [true-reflection](sat+vimarśanam) [always](nityam) [may-increase](vardhayet) [well-propitiated](suprasāditā)
 
 ## mukta-m0-p84-v2088
-[pleased-lord](prasanna+īśvarasya) [good-reasoning-production](su+tarka+utpādana) [indeed](eva) [duty](kṛtyam) [iti](iti) [said](āha) [duty](kṛtyam) [iti](iti)
+[of-the-propitiated-Lord](prasanna+īśvarasya) [production-of-right-reasoning-alone](sutarka+utpādanam+eva) [duty](kṛtyam) [thus](iti) [says](āha) [duty](kṛtyam) [thus](iti)
 
 ## mukta-m0-p84-v2089
-[but](kintu) [that](tat) [such](tādṛśam) [api](api) [by-you](tvayā) [said](uktaṃ) [not-transcendent-body](apara+cid+vapuḥ)
+[but](kintu) [that](tat) [such](tādṛśam) [even](api) [by-you](tvayā) [spoken](uktam) [not-consciousness-embodied](apracit+vapuḥ)
 
 ## mukta-m0-p84-v2090
-[transcendent-body](para+cid+vapuḥ) [not](na) [well-known](suviditam) [iti](iti) [connection](sambandhaḥ)
+[not-well-known-as-supreme-consciousness-embodied](para+cit+vapuḥ+na suviditam) [thus](iti) [connection](sambandhaḥ)
 
 ## mukta-m0-p84-v2091
-[neutrality](taṭasthena) [but](tu) [who](yo) [as-much](yāvat) [knows](veda) [so-much](tāvat) [not](na) [knows](veda) [indeed](vai)
+[by-standing-aside](tāṭasthyena) [but](tu) [who](yaḥ) [as-much-as](yāvat) [knows](veda) [so-much](tāvat) [not](na) [knows](veda) [indeed](vai)
 
 ## mukta-m0-p84-v2092
-[not](na) [knows](veda) [iti](iti) [knowledge-main-fruit-absence](vedana+mukhya+phala+abhāvāt) [not](na) [knows](veda) [meaning](arthaḥ)
+[not-knows](na veda) [thus](iti) [due-to-absence-of-the-chief-fruit-of-knowledge](vedana+mukhya+phala+abhāvāt) [not-knows](na veda) [thus](iti) [meaning](arthaḥ)
 
 ## mukta-m0-p84-v2093
-[neutral-knowledge](taṭastha+saṃvedanaṃ) [but](tu) [dream-knowledge](svapna+saṃvedana) [like](upamam)
+[detached-cognition](taṭastha+saṃvedanam) [but](tu) [like-dream-cognition](svapna+saṃvedana+upamam)
 
 ## mukta-m0-p84-v2094
-[indirect-knowledge](parokṣa+jñānaṃ) [knowledge](jñānaṃ) [illusion-form](bhrama+rūpam) [eva](eva) [iti](iti) [said](āha) [dream](svapna) [iti](iti)
+[indirect-knowledge](parokṣa+jñānam) [knowledge](jñānam) [like-error-alone](bhrama+rūpam+eva) [thus](iti) [says](āha) [in-dream](svapne) [thus](iti)
 
 ## mukta-m0-p84-v2095
-[thus](tathā) [neutral-knowledge](taṭastha+vijñānam) [non-main-fruit-giving](amukhya+phala+daṃ) [becomes](bhavet)
+[thus](tathā) [detached-knowledge](taṭastha+vijñānam) [giver-of-non-chief-fruit](amukhya+phala+dam) [would-be](bhavet)
 
 ## mukta-m0-p84-v2096
-[not](na) [becomes](bhavati) [eva](eva) [thus](evam) [here](atra) [api](api) [iti](iti) [meaning](arthaḥ)
+[not](na) [is](bhavati) [thus](evam) [here](atra) [also](api) [thus](iti) [meaning](arthaḥ)
 
 ## mukta-m0-p84-v2097
-[formerly](purā) [in-disembodied-ones](videheṣu) [someone](kaścit) [was](āsīt) [king](rājā) [righteous](sudhārmikaḥ)
+[formerly](purā) [in-Videha](videheṣu) [someone](kaścit) [was](āsīt) [king](rājā) [very-righteous](su+dhārmikaḥ)
 
 ## mukta-m0-p84-v2098
-[here](atra) [neutral-knowledge](taṭastha+vijñānasya) [non-main-fruit-ness](amukhya+phalatve)
+[here](atra) [in-the-non-chief-fruitfulness-of-detached-knowledge](taṭastha+vijñānasya+amukhya+phalatve)
 
 ## mukta-m0-p84-v2099
-[he](sa) [once](kadācit) [own-goddess](sva+ātma+devīm) [worshipped](īje) [sacrifices](kratubhiḥ) [excellent](uttamaiḥ)
+[he](saḥ) [once](kadācit) [his-own-soul-goddess](sva+ātma+devīm) [worshipped](īje) [with-excellent-sacrifices](kratubhiḥ+uttamaiḥ)
 
 ## mukta-m0-p84-v2100
-[arts-knowers](kalā+abhijñāḥ) [vedic](vaidikāḥ) [ca](ca) [sacrificers](yajvānaḥ) [ca](ca) [api](api) [soma-pressers](satriṇaḥ)
+[knowers-of-arts](kalā+abhijñāḥ) [vedic](vaidikāḥ) [and](ca) [sacrificers](yajvānaḥ) [and](ca) [also](api) [session-performers](satriṇaḥ)

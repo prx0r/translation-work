@@ -11,12 +11,12 @@
 "quick_gloss": "by-him"
 },
 {
-"surface": "upahūtāḥ",
+"surface": "upahūtā",
 "quick_gloss": "invited"
 },
 {
-"surface": "vipra+ādyāḥ",
-"quick_gloss": "brahmins-and-others"
+"surface": "vipra+ādyā",
+"quick_gloss": "brahmins+and-others"
 },
 {
 "surface": "na",
@@ -32,7 +32,7 @@
 },
 {
 "surface": "bhūriśaḥ",
-"quick_gloss": "many"
+"quick_gloss": "in-great-numbers"
 }
 ]
 },
@@ -49,7 +49,11 @@
 },
 {
 "surface": "varuṇa+yāge",
-"quick_gloss": "varuna-sacrifice"
+"quick_gloss": "in-Varuna's+sacrifice"
+},
+{
+"surface": "bhūriśaḥ",
+"quick_gloss": "in-great-numbers"
 },
 {
 "surface": "bahavaḥ",
@@ -74,11 +78,11 @@
 },
 {
 "surface": "varuṇa+dāyādaḥ",
-"quick_gloss": "varuna-descendant"
+"quick_gloss": "Varuna's+son"
 },
 {
 "surface": "bauddha+sampadā",
-"quick_gloss": "buddhist-wealth"
+"quick_gloss": "with-Buddhist+learning"
 }
 ]
 },
@@ -91,7 +95,7 @@
 "tokens": [
 {
 "surface": "tarka+kuśalaḥ",
-"quick_gloss": "logic-skilled"
+"quick_gloss": "skilled-in+logic"
 },
 {
 "surface": "iti",
@@ -99,7 +103,7 @@
 },
 {
 "surface": "tātparyam",
-"quick_gloss": "meaning"
+"quick_gloss": "the-import"
 }
 ]
 },
@@ -112,22 +116,26 @@
 "tokens": [
 {
 "surface": "āsādya",
-"quick_gloss": "reaching"
+"quick_gloss": "having-reached"
 },
 {
 "surface": "yajña+sadanam",
-"quick_gloss": "sacrifice-hall"
+"quick_gloss": "sacrifice+hall"
 },
 {
 "surface": "nṛpam",
-"quick_gloss": "king"
+"quick_gloss": "the-king"
 },
 {
 "surface": "saṃyojya",
-"quick_gloss": "joining"
+"quick_gloss": "having-joined"
 },
 {
-"surface": "ca+āśiṣā",
+"surface": "ca",
+"quick_gloss": "and"
+},
+{
+"surface": "āśiṣā",
 "quick_gloss": "with-blessing"
 }
 ]
@@ -149,11 +157,11 @@
 },
 {
 "surface": "kūṭa+vartmanā",
-"quick_gloss": "by-crooked-path"
+"quick_gloss": "by-crooked+path"
 },
 {
 "surface": "kapaṭa+mārgeṇa",
-"quick_gloss": "by-deceitful-way"
+"quick_gloss": "by-deceitful+way"
 }
 ]
 },
@@ -166,15 +174,15 @@
 "tokens": [
 {
 "surface": "rājan",
-"quick_gloss": "king"
+"quick_gloss": "O-king"
 },
 {
 "surface": "te",
-"quick_gloss": "this"
+"quick_gloss": "your"
 },
 {
 "surface": "yajña+sadanam",
-"quick_gloss": "sacrifice-hall"
+"quick_gloss": "sacrifice+hall"
 },
 {
 "surface": "atyantam",
@@ -203,18 +211,18 @@
 "tokens": [
 {
 "surface": "sabhā",
-"quick_gloss": "assembly"
+"quick_gloss": "an-assembly"
 },
 {
 "surface": "vidvat+samudayaiḥ",
-"quick_gloss": "with-scholars"
+"quick_gloss": "by-learned-men+multitudes"
 },
 {
 "surface": "śobhinī",
 "quick_gloss": "shining"
 },
 {
-"surface": "śobhatetarām",
+"surface": "śobhate+itarām",
 "quick_gloss": "shines-more"
 }
 ]
@@ -260,12 +268,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "tatra",
-"quick_gloss": "there"
+"surface": "tat",
+"quick_gloss": "therefore"
+},
+{
+"surface": "atra",
+"quick_gloss": "here"
 },
 {
 "surface": "vidyā+viśadam",
-"quick_gloss": "knowledge-clear"
+"quick_gloss": "in-learning+bright"
 },
 {
 "surface": "na",
@@ -273,19 +285,15 @@
 },
 {
 "surface": "paśyāmi",
-"quick_gloss": "see"
+"quick_gloss": "I-see"
 },
 {
-"surface": "ekam",
-"quick_gloss": "one"
-},
-{
-"surface": "api",
-"quick_gloss": "even"
+"surface": "ekam+api",
+"quick_gloss": "even-one"
 },
 {
 "surface": "alam",
-"quick_gloss": "enough"
+"quick_gloss": "fit"
 }
 ]
 },
@@ -323,11 +331,11 @@
 },
 {
 "surface": "mūrkha+pracurām",
-"quick_gloss": "fool-filled"
+"quick_gloss": "with-fools+abounding"
 },
 {
 "surface": "saṃviśāmi",
-"quick_gloss": "enter"
+"quick_gloss": "shall-enter"
 },
 {
 "surface": "aham",
@@ -344,15 +352,15 @@
 "tokens": [
 {
 "surface": "kim",
-"quick_gloss": "why"
+"quick_gloss": "what"
 },
 {
 "surface": "are",
-"quick_gloss": "O-brahmin-born"
+"quick_gloss": "O-you"
 },
 {
 "surface": "dvija+bandho",
-"quick_gloss": "dvija-born"
+"quick_gloss": "O-brahmin-in-name-only"
 },
 {
 "surface": "tvam",
@@ -360,11 +368,11 @@
 },
 {
 "surface": "adhikṣipasi",
-"quick_gloss": "insult"
+"quick_gloss": "revile"
 },
 {
 "surface": "sarvataḥ",
-"quick_gloss": "everywhere"
+"quick_gloss": "all"
 }
 ]
 },
@@ -377,19 +385,15 @@
 "tokens": [
 {
 "surface": "kruddhānām",
-"quick_gloss": "angry-ones"
+"quick_gloss": "of-the-angry"
 },
 {
 "surface": "vacanam",
 "quick_gloss": "speech"
 },
 {
-"surface": "kim",
-"quick_gloss": "why"
-},
-{
-"surface": "are",
-"quick_gloss": "O"
+"surface": "kim+are",
+"quick_gloss": "what+O-you"
 },
 {
 "surface": "iti",
@@ -397,11 +401,11 @@
 },
 {
 "surface": "sarvataḥ",
-"quick_gloss": "everywhere"
+"quick_gloss": "all"
 },
 {
 "surface": "sarvān",
-"quick_gloss": "all"
+"quick_gloss": "everyone"
 }
 ]
 },
@@ -414,15 +418,15 @@
 "tokens": [
 {
 "surface": "vṛthā",
-"quick_gloss": "vainly"
+"quick_gloss": "in-vain"
 },
 {
 "surface": "katthasi",
-"quick_gloss": "boast"
+"quick_gloss": "you-boast"
 },
 {
-"surface": "durbuddhe",
-"quick_gloss": "fool"
+"surface": "dur+buddhe",
+"quick_gloss": "O-dull-witted-one"
 },
 {
 "surface": "jitvā",
@@ -455,7 +459,7 @@
 },
 {
 "surface": "bhavāmaḥ",
-"quick_gloss": "we-are"
+"quick_gloss": "we-become"
 },
 {
 "surface": "iti",
@@ -463,7 +467,7 @@
 },
 {
 "surface": "śeṣaḥ",
-"quick_gloss": "remainder"
+"quick_gloss": "ellipsis"
 }
 ]
 },
@@ -483,12 +487,12 @@
 "quick_gloss": "you"
 },
 {
-"surface": "bhūloka",
+"surface": "bhū+lokam",
 "quick_gloss": "earth-world"
 },
 {
 "surface": "eva",
-"quick_gloss": "only"
+"quick_gloss": "alone"
 },
 {
 "surface": "adya",
@@ -503,8 +507,8 @@
 "quick_gloss": "wish"
 },
 {
-"surface": "durmate",
-"quick_gloss": "fool"
+"surface": "dur+mate",
+"quick_gloss": "O-evil-minded-one"
 }
 ]
 },
@@ -516,12 +520,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "bhūloka+saṃsthānāḥ",
-"quick_gloss": "earth-world-dwellers"
+"surface": "bhū+loka+saṃsthānāḥ",
+"quick_gloss": "earth-world+situated"
 },
 {
-"surface": "bhūloka+sthāḥ",
-"quick_gloss": "earth-world-residents"
+"surface": "bhū+loka+sthāḥ",
+"quick_gloss": "earth-dwellers"
 },
 {
 "surface": "atra",
@@ -537,7 +541,7 @@
 },
 {
 "surface": "vartante",
-"quick_gloss": "exist"
+"quick_gloss": "are-present"
 },
 {
 "surface": "iti",
@@ -545,7 +549,7 @@
 },
 {
 "surface": "śeṣaḥ",
-"quick_gloss": "remainder"
+"quick_gloss": "ellipsis"
 }
 ]
 },
@@ -557,16 +561,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "ityuktavatsu",
+"surface": "iti",
 "quick_gloss": "thus"
 },
 {
+"surface": "uktavatsu",
+"quick_gloss": "having-spoken"
+},
+{
 "surface": "sabhyeṣu",
-"quick_gloss": "in-assembly"
+"quick_gloss": "when-the-assembly-members"
 },
 {
 "surface": "vāruṇiḥ",
-"quick_gloss": "varuni"
+"quick_gloss": "son-of-Varuna"
 },
 {
 "surface": "punar",
@@ -595,7 +603,7 @@
 },
 {
 "surface": "jitaḥ",
-"quick_gloss": "conquered"
+"quick_gloss": "defeated"
 },
 {
 "surface": "bhavadbhiḥ",
@@ -603,15 +611,15 @@
 },
 {
 "surface": "tu",
-"quick_gloss": "tu"
+"quick_gloss": "then"
 },
 {
 "surface": "samudre",
-"quick_gloss": "in-ocean"
+"quick_gloss": "in-the-ocean"
 },
 {
 "surface": "syām",
-"quick_gloss": "would-be"
+"quick_gloss": "shall-be"
 },
 {
 "surface": "nikajjitaḥ",
@@ -632,11 +640,11 @@
 },
 {
 "surface": "pratijñayā",
-"quick_gloss": "by-promise"
+"quick_gloss": "by-vow"
 },
 {
 "surface": "samayam",
-"quick_gloss": "agreement"
+"quick_gloss": "the-agreement"
 },
 {
 "surface": "eva",
@@ -644,7 +652,7 @@
 },
 {
 "surface": "āha",
-"quick_gloss": "says"
+"quick_gloss": "states"
 },
 {
 "surface": "aham",
@@ -665,15 +673,15 @@
 "tokens": [
 {
 "surface": "upetya",
-"quick_gloss": "approaching"
+"quick_gloss": "having-accepted"
 },
 {
-"surface": "evam",
-"quick_gloss": "thus"
+"surface": "eva",
+"quick_gloss": "indeed"
 },
 {
 "surface": "tu",
-"quick_gloss": "tu"
+"quick_gloss": "thus"
 },
 {
 "surface": "samayam",
@@ -681,7 +689,7 @@
 },
 {
 "surface": "vivadantu",
-"quick_gloss": "dispute"
+"quick_gloss": "let-them-debate"
 },
 {
 "surface": "mayā",
@@ -689,7 +697,7 @@
 },
 {
 "surface": "saha",
-"quick_gloss": "with"
+"quick_gloss": "together"
 }
 ]
 },
@@ -702,11 +710,11 @@
 "tokens": [
 {
 "surface": "upetya",
-"quick_gloss": "approaching"
+"quick_gloss": "having-accepted"
 },
 {
 "surface": "aṅgīkṛtya",
-"quick_gloss": "accepting"
+"quick_gloss": "having-consented"
 }
 ]
 },
@@ -719,7 +727,7 @@
 "tokens": [
 {
 "surface": "vivādam",
-"quick_gloss": "dispute"
+"quick_gloss": "debate"
 },
 {
 "surface": "cakruḥ",
@@ -731,15 +739,15 @@
 },
 {
 "surface": "tena",
-"quick_gloss": "by-that"
+"quick_gloss": "with-him"
 },
 {
 "surface": "vāruṇinā",
-"quick_gloss": "varuni"
+"quick_gloss": "son-of-Varuna"
 },
 {
 "surface": "dvijāḥ",
-"quick_gloss": "brahmins"
+"quick_gloss": "the-brahmins"
 }
 ]
 },
@@ -752,11 +760,11 @@
 "tokens": [
 {
 "surface": "sammatim",
-"quick_gloss": "consent"
+"quick_gloss": "assent"
 },
 {
 "surface": "pratijñā+aṅgīkāram",
-"quick_gloss": "promise-acceptance"
+"quick_gloss": "vow+acceptance"
 }
 ]
 }

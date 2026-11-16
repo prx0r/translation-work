@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p90-v2226
-[this](etat) [to-you](te) [spoken](abhihitam) [all](sarvam) [son-of-sage](muniputra) [salutation](namah) [be](astu) [to-you](te)
+[this](etat) [+to-you](te) [+said](abhihitaṃ) [all](sarvaṃ) [sage](muni) [+son](putra) [salutation](namaḥ) [+be](astu) [to-you](te)
 
 ## mukta-m0-p90-v2227
-[immortal](amṛtām) [state](sthitim) [liberation-condition](mokṣadaśām) [concludes](upasaṃharati) [this](etad) [thus](iti)
+[immortal](amṛtāṃ) [state](sthitiṃ) [liberation](mokṣa) [+condition](daśām) [concludes](upasaṃharati) [this](etat) [+thus](iti)
 
 ## mukta-m0-p90-v2228
-[will-instruct](bodhayiṣyati) [you](tvām) [this](eṣa) [king](rājā) [of-wise](buddhimatām) [best](varaḥ)
+[will-instruct](bodhayiṣyati) [you](tvām) [+this](eṣa) [king](rājā) [intelligent](buddhi) [+ones](matāṃ) [best](varaḥ)
 
 ## mukta-m0-p90-v2229
-[once](sakṛt) [from-hearing](śruteḥ) [briefly](saṃkṣepeṇa) [once](eka) [time](vāram) [from-listening](śravaṇāt)
+[once](sakṛt) [+from-hearing](chruteḥ) [in-brief](saṃkṣepeṇa) [+one](eka) [+time](vāraṃ) [from-hearing](śravaṇāt)
 
 ## mukta-m0-p90-v2230
-[thus](iti) [having-spoken](uktvā) [honored](pūjitā) [by-king](rājñā) [bowed](praṇatā) [and](ca) [by-assembly-members](sabhāsadaiḥ)
+[thus](iti) [+having-said](uktvā) [honored](pūjitā) [by-king](rājñā) [bowed](praṇatā) [and](ca) [assembly](sabhā) [+members](sadaiḥ)
 
 ## mukta-m0-p90-v2231
-[here](atra) [which](yaḥ) [doubt](saṃśayaḥ) [your](te) [may-be](syāt) [that](tam) [ask](pṛccha) [by-assembly-members](sabhāsadaiḥ) [by-assembly-members](sabhāsadbhiḥ)
+[here](atra) [which](yaḥ) [doubt](saṃśayaḥ) [+to-you](te) [may-be](syāt) [that](taṃ) [ask](pṛccha) [assembly](sabhā) [+members](sadaiḥ) [assembly](sabhā) [+members](sadbhiḥ)
 
 ## mukta-m0-p90-v2232
-[this](etat) [to-you](te) [spoken](abhihitam) [Rama](rāma) [of-nature-of-experience](vedana+prakriyā+ātmanaḥ)
+[this](etat) [to-you](te) [+said](abhihitaṃ) [Rama](rāma) [knowledge](vedana) [+process](prakriyā) [+nature](ātmanaḥ)
 
 ## mukta-m0-p90-v2233
-[mode-of-experience](vedana+prakāraḥ) [spoken](uktaḥ) [thus](iti) [concluded](upasaṃhṛtam) [by-guru](guruṇā) [thus](iti) [to-be-known](jñeyam)
+[knowledge](vedana) [+method](prakāraḥ) [stated](uktaḥ) [thus](iti) [+concluded](upasaṃhṛtaṃ) [by-teacher](guruṇā) [+thus](iti) [should-be-known](jñeyam)
 
 ## mukta-m0-p90-v2234
-[again](bhūyaḥ) [asked](papraccha) [son-of-Atri](atri+sūnum) [unsatisfied](avitṛptaḥ) [from-hearing-story](kathā+śruteḥ)
+[again](bhūyaḥ) [asked](papraccha) [+Atri](atri) [+son](sūnum) [+unsatisfied](avitṛptaḥ) [story](kathā) [+hearing](śruteḥ)
 
 ## mukta-m0-p90-v2235
-[from-story-hearing](kathā+śruteḥ) [from-story-listening](kathā+śravaṇāt)
+[story](kathā) [+hearing](śruteḥ) [story](kathā) [+from-hearing](śravaṇāt)
 
 ## mukta-m0-p90-v2236
-[again](bhūyaḥ) [asked](papraccha) [king](rājānam) [Ashtavakra](aṣṭāvakraḥ) [great-sage](mahā+muniḥ)
+[again](bhūyaḥ) [asked](papraccha) [king](rājānam) [+Ashtavakra](aṣṭāvakro) [great](mahā) [+sage](muniḥ)
 
 ## mukta-m0-p90-v2237
-[which](yat) [asked](papraccha) [thus](iti) [connection](anvayaḥ)
+[what](yat) [asked](papraccha) [+thus](iti) [+connection](anvayaḥ)
 
 ## mukta-m0-p90-v2238
-[oh](aho) [wonderful](adbhutam) [narration](samākhyānam) [not](na) [anywhere](kvacit) [and](ca) [by-me](mayā) [heard](śrutam)
+[oh](aho) [+wonderful](adbhutaṃ) [narrative](samākhyānaṃ) [not](na) [anywhere](kvacit) [+and](ca) [by-me](mayā) [heard](śrutam)
 
 ## mukta-m0-p90-v2239
-[thus](iti) [indeed](eva) [questioned](anuyuktaḥ) [then](atha) [Dattatreya](dattātreyaḥ) [great-sage](mahā+muniḥ)
+[thus](iti) [+indeed](eva) [+questioned](anuyuktaḥ) [+then](atha) [Dattatreya](dattātreyo) [great](mahā) [+sage](muniḥ)
 
 ## mukta-m0-p90-v2240
-[narration-in-form-of-dialogue](janaka+aṣṭāvakra+saṃvāda+rūpam+ākhyānam) [questioned](anuyuktaḥ) [asked](pṛṣṭaḥ)
+[Janaka](janaka) [+Ashtavakra](aṣṭāvakra) [+dialogue](saṃvāda) [+form](rūpam) [+narrative](ākhyānam) [questioned](anuyuktaḥ) [asked](pṛṣṭaḥ)
 
 ## mukta-m0-p90-v2241
-[listen](śṛṇu) [Bhargava](bhārgava) [which](yat) [spoken](proktam) [by-Janaka](janakena) [by-great-soul](mahātmanā)
+[listen](śṛṇu) [Bhargava](bhārgava) [what](yat) [said](proktaṃ) [by-Janaka](janakena) [great](mahā) [+souled](ātmanā)
 
 ## mukta-m0-p90-v2242
-[surrounded](saṃvṛtaḥ) [by-many](bahubhiḥ) [by-brahmins](vipraiḥ) [having-assembled](sametya) [best-of-kings](nṛpa+puṅgavam)
+[surrounded](saṃvṛto) [by-many](bahubhiḥ) [+brahmins](vipraiḥ) [having-approached](sametya) [king](nṛpa) [+best](puṅgavam)
 
 ## mukta-m0-p90-v2243
-[best-of-kings](nṛpa+puṅgavam) [Janaka](janakam)
+[king](nṛpa) [+best](puṅgavam) [Janaka](janakam)
 
 ## mukta-m0-p90-v2244
-[that](tat) [being-spoken](ucyamānam) [but](tu) [by-me](mayā) [properly](samyak) [listen](śṛṇu) [attentive](samāhitaḥ)
+[that](tad) [+being-said](ucyamānaṃ) [but](tu) [by-me](mayā) [properly](samyak) [listen](śṛṇu) [attentive](samāhitaḥ)
 
 ## mukta-m0-p90-v2245
-[great-misfortune](mahā+anarthaḥ) [called-liberation](mokṣa+ākhyaḥ) [because](yasmāt) [such](evaṃvidham) [spoken-by-ascetic](tāpasī+uktaḥ)
+[great](mahān) [+goal](arthaḥ) [liberation](mokṣa) [+named](ākhyo) [from-which](yasmāt) [such](evaṃ) [+kind](vidhaṃ) [by-ascetic](tāpasi) [+said](uktam)
 
 ## mukta-m0-p90-v2246
-[that](tat) [I](aham) [did-not-know](na+avidaṃ) [properly](samyak) [due-to-brief-statement](saṃkṣepa+uktatva+hetutaḥ)
+[that](tad) [+I](ahaṃ) [not](na) [+knew](avidaṃ) [properly](samyak) [brevity](saṃkṣepa) [+spoken](ukta) [+ness](tva) [+due-to-reason](hetutaḥ)
 
 ## mukta-m0-p90-v2247
-[thus](evam) [Janaka](janakaḥ) [asked](āpṛṣṭaḥ) [said](prāha) [to-him](tam) [wondering](vismayan) [as-if](iva)
+[thus](evaṃ) [Janaka](janaka) [questioned](āpṛṣṭaḥ) [said](prāha) [to-him](taṃ) [wondering](vismayan) [+as-if](iva)
 
 ## mukta-m0-p90-v2248
-[not](na) [unknowable](avedyam) [in-every-way](sarvathā) [that](tat) [indeed](hi) [knowable](vedyam) [and](ca) [also](api) [not](na) [in-every-way](sarvathā)
+[not](na) [+to-be-taught](avedyaṃ) [in-all-ways](sarvathā) [that](tat) [+indeed](hi) [to-be-known](vedyaṃ) [and](ca) [+also](api) [not](na) [in-all-ways](sarvathā)
 
 ## mukta-m0-p90-v2249
-[that](tat) [pure-consciousness-self-principle](śuddha+cid+ātma+tattvam)
+[that](tat) [pure](śuddha) [+consciousness](cit) [+self](ātma) [+truth](tattvam)
 
 ## mukta-m0-p90-v2250
-[teacher](guruḥ) [should-teach](āvedayet) [truth](tattvam) [therefore](ataḥ) [first](ādau) [teacher](gurum) [should-resort](śrayet)
+[teacher](guruḥ) [+should-reveal](āvedayet) [truth](tattvam) [+therefore](ataḥ) [first](ādau) [teacher](guruṃ) [should-approach](śrayet)

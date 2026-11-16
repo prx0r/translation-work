@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p79-v1951
-[this-form](etadrūpādṛte) [something](kiñcid) [if](yadi) [they-say](brūyustadalpakam)
+[this+form+from+except](etad+rūpa+āt+ṛte) [anything](kiñcid) [if](yadi) [they-say+that+little](brūyuḥ+tad+alpakam)
 
 ## mukta-m0-p79-v1952
-[therefore](tasmāt) [by-names-like-tripura](tripurādināmnāpyetadeva) [principal](mukhyamiti) [to-be-said](vaktavyamiti) [sense](bhāvaḥ)
+[therefore](tasmāt) [tripura+ādi+by-name+also+this+only](tripura+ādi+nāmnā+api+etat+eva) [chief+thus](mukhyam+iti) [to-be-said+thus](vaktavyam+iti) [meaning](bhāvaḥ)
 
 ## mukta-m0-p79-v1953
-[of-it](tasya) [commentator](bhāsyakṛtaṃ) [illumination](bhāsakatvaṃ) [ca](ca) [not](na) [by-itself](svataḥ) [established](sthitam)
+[of-that](tasya) [illumined+made](bhāsya+kṛtam) [illumining+ness](bhāsaka+tvaṃ) [and](ca) [not](na) [by-self](svataḥ) [established](sthitam)
 
 ## mukta-m0-p79-v1954
-[crystal-like](sphaṭikasthajapākusumalauhityavat) [that-too](tadapi) [reflection-nature](pratibimbātmakameveti) [sense](bhāvaḥ)
+[crystal+placed+japā+flower+redness+like](sphaṭika+stha+japā+kusuma+lauhitya+vat) [that+also](tad+api) [reflection+essence+only+thus](pratibimba+ātmaka+m+eva+iti) [meaning](bhāvaḥ)
 
 ## mukta-m0-p79-v1955
-[in-mirror](darpaṇe) [city](nagaraṃ) [as](yadvad) [from-mirror](darpaṇānnātiricyate)
+[in-mirror](darpaṇe) [city](nagaram) [as-which](yadvat) [from-mirror+not+exceeded](darpaṇāt+na+atiricyate)
 
 ## mukta-m0-p79-v1956
-[of-manifestation](prapañcasya) [consciousness-non-difference](cidavyatiriktatvamityāha) [mirror](darpaṇa) [thus](iti)
+[of-expansion](prapañcasya) [consciousness+non-difference+thus](cit+avyatiriktatvam+iti) [says](āha) [mirror+thus](darpaṇa+iti)
 
 ## mukta-m0-p79-v1957
-[in-mirror-self](darpaṇātmani) [complete](sampūrṇe) [dense](nibiḍe) [ca](ca) [one-formed](ekarūpiṇi)
+[mirror+in-self](darpaṇa+ātmani) [complete](sampūrṇe) [dense](nibiḍe) [and+one+formed](ca+eka+rūpiṇi)
 
 ## mukta-m0-p79-v1958
-[by-such-non-difference](tvanaivaṃvidhatvāddarpa'nadibhinnasya) [there](tatra) [appearance](bhānaṃ) [not-possible](nopapadyata) [sense](iti) [bhāvaḥ)
+[not+thus+of-such-nature+from](na+evaṃvidhatvāt) [mirror+not+ādi+different](darpaṇa+na+ādi+bhinnasya) [there](tatra) [appearance](bhānam) [not+is-possible](na+upapadyate) [thus](iti) [meaning](bhāvaḥ)
 
 ## mukta-m0-p79-v1959
-[so](tathā) [full](pūrṇe) [dense](sunibiḍe) [one-formed](caikarūpe) [consciousness-self](cidātmani)
+[thus](tathā) [in-full](pūrṇe) [well+dense](su+nibiḍe) [and+one+form](ca+eka+rūpe) [consciousness+self](cit+ātmani)
 
 ## mukta-m0-p79-v1960
-[even](api) [graced](anugṛhītā) [you-would-be](bhaveranni) [to-be-contemplated](yuri) [iti](iti) [dhyeyam](dhyeyam)
+[also](api) [favored](anugṛhītāḥ) [they-may-be](bhaveyuḥ) [thus](iti) [to-be-thought](dhyeyam)
 
 ## mukta-m0-p79-v1961
-[space](ākāśastvavakāśātmā) [emptiness-nature](śūnyarūpatvahetutaḥ)
+[space+indeed](ākāśaḥ+tu) [space+essence](avakāśa+ātmā) [emptiness+form+because](śūnya+rūpatva+hetutaḥ)
 
 ## mukta-m0-p79-v1962
-[thus](iti) [purport](tātparyam)
+[thus](iti) [intent](tātparyam)
 
 ## mukta-m0-p79-v1963
-[existing](satī) [consciousness](citiraśūnyātmarūpiṇyekarasā) [how](katham)
+[being](satī) [consciousness](citiḥ) [not-empty+self+form](a+śūnya+ātma+rūpiṇī) [one+essence](eka+rasā) [how](katham)
 
 ## mukta-m0-p79-v1964
-[by-existence-form](sadrūpatvādevāśūnyātmarūpatvam) [one-taste](ekarasatvaṃ) [dense-own-form](nibiḍasvarūpatā)
+[existence+form+from+indeed](sat+rūpatvāt+eva) [not-empty+self+state](a+śūnya+ātma+rūpatvam) [one+essence](eka+rasatvaṃ) [dense+self-nature](nibiḍa+svarūpatā)
 
 ## mukta-m0-p79-v1965
-[therefore](tasmādādarśavat) [consciousness](saṃvit) [by-freedom-abundance-glory](svātantryabharavaibhavāt)
+[therefore](tasmāt) [mirror+like](ādarśa+vat) [consciousness](saṃvit) [self-power+abundance+majesty+from](svātantrya+bhara+vaibhavāt)
 
 ## mukta-m0-p79-v1966
-[by-freedom-abundance-glory](svātantryabharavaibhavādātmanyadvitīye'vabhāsayediti) [connection](sambandhaḥ)
+[self-power+abundance+majesty+from](svātantrya+bhara+vaibhavāt) [in-self](ātmani) [not-two+second](a+dvitīye) [may-illumine](avabhāsayet) [thus](iti) [connection](sambandhaḥ)
 
 ## mukta-m0-p79-v1967
-[without-cause-material](nimittopādānahīnaṃ) [second](dvitīyamaticitritam)
+[cause+material-cause+without](nimitta+upādāna+hīnam) [second](dvitīyam) [much+variegated](ati+citritam)
 
 ## mukta-m0-p79-v1968
-[highly-variegated](aticitritaṃ) [mutually-distinct](parasparavilakṣaṇaṃ) [would-illuminate](bhāsayet)
+[much+variegated](ati+citritam) [mutual+distinct](paraspara+vilakṣaṇam) [may-illumine](bhāsayet)
 
 ## mukta-m0-p79-v1969
-[oneness](ekatvaṃ) [appears](bhāsate) [clear](spaṣṭamaviśeṣādadūṣitam)
+[oneness](ekatvam) [shines](bhāsate) [clear](spaṣṭam) [without-difference+from](aviśeṣāt) [not-flawed](a+dūṣitam)
 
 ## mukta-m0-p79-v1970
-[from-mirror-generality](darpaṇasāmānyarūpāt) [undamaged](adūṣitamabādhitam)
+[mirror+generality+form+from](darpaṇa+sāmānya+rūpāt) [not-flawed](a+dūṣitam) [unobstructed](abādhitam)
 
 ## mukta-m0-p79-v1971
-[by-inquiry-accomplished](anusandhānasaṃsiddhamekaṃ) [faultless](doṣavivarjjitam)
+[reflection+accomplished](anusandhāna+saṃsiddham) [one](ekam) [fault+without](doṣa+vivarjitam)
 
 ## mukta-m0-p79-v1972
-[own-form](svarūpam)
+[self-form](svarūpam)
 
 ## mukta-m0-p79-v1973
-[manifold-variegated-body](anekavaicitryavapurapi) [consciousness-only](caitanyamātrakam)
+[many+variety+body](aneka+vaicitrya+vapuḥ) [also](api) [consciousness+only](caitanya+mātrakam)
 
 ## mukta-m0-p79-v1974
-[even-clay-lump-facing](mṛtpiṇḍasāmmukhye'pi) [in-mirror](darpaṇe) [pot-reflection-occurrence](ghaṭapratibimbāpatteḥ)
+[clay+lump+presence+in](mṛt+piṇḍa+sāmmukhye+api) [in-mirror](darpaṇe) [pot+reflection+attaining](ghaṭa+pratibimba+āpatteḥ)
 
 ## mukta-m0-p79-v1975
-[of-reflection](pratibimbasya) [in-being](bhāve) [or](vāpyabhāve) [veva](veva) [mirror](darpaṇaḥ)
+[of-reflection](pratibimbasya) [in-being](bhāve) [or](vā) [in-non-being](api+abhāve) [or](iva) [mirror](darpaṇaḥ)

@@ -12,27 +12,31 @@
 },
 {
 "surface": "te",
-"quick_gloss": "to-you"
+"quick_gloss": "+to-you"
 },
 {
-"surface": "abhihitam",
-"quick_gloss": "spoken"
+"surface": "abhihitaṃ",
+"quick_gloss": "+said"
 },
 {
-"surface": "sarvam",
+"surface": "sarvaṃ",
 "quick_gloss": "all"
 },
 {
-"surface": "muniputra",
-"quick_gloss": "son-of-sage"
+"surface": "muni",
+"quick_gloss": "sage"
 },
 {
-"surface": "namah",
+"surface": "putra",
+"quick_gloss": "+son"
+},
+{
+"surface": "namaḥ",
 "quick_gloss": "salutation"
 },
 {
 "surface": "astu",
-"quick_gloss": "be"
+"quick_gloss": "+be"
 },
 {
 "surface": "te",
@@ -48,28 +52,32 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "amṛtām",
+"surface": "amṛtāṃ",
 "quick_gloss": "immortal"
 },
 {
-"surface": "sthitim",
+"surface": "sthitiṃ",
 "quick_gloss": "state"
 },
 {
-"surface": "mokṣadaśām",
-"quick_gloss": "liberation-condition"
+"surface": "mokṣa",
+"quick_gloss": "liberation"
+},
+{
+"surface": "daśām",
+"quick_gloss": "+condition"
 },
 {
 "surface": "upasaṃharati",
 "quick_gloss": "concludes"
 },
 {
-"surface": "etad",
+"surface": "etat",
 "quick_gloss": "this"
 },
 {
 "surface": "iti",
-"quick_gloss": "thus"
+"quick_gloss": "+thus"
 }
 ]
 },
@@ -90,15 +98,19 @@
 },
 {
 "surface": "eṣa",
-"quick_gloss": "this"
+"quick_gloss": "+this"
 },
 {
 "surface": "rājā",
 "quick_gloss": "king"
 },
 {
-"surface": "buddhimatām",
-"quick_gloss": "of-wise"
+"surface": "buddhi",
+"quick_gloss": "intelligent"
+},
+{
+"surface": "matāṃ",
+"quick_gloss": "+ones"
 },
 {
 "surface": "varaḥ",
@@ -118,24 +130,24 @@
 "quick_gloss": "once"
 },
 {
-"surface": "śruteḥ",
-"quick_gloss": "from-hearing"
+"surface": "chruteḥ",
+"quick_gloss": "+from-hearing"
 },
 {
 "surface": "saṃkṣepeṇa",
-"quick_gloss": "briefly"
+"quick_gloss": "in-brief"
 },
 {
 "surface": "eka",
-"quick_gloss": "once"
+"quick_gloss": "+one"
 },
 {
-"surface": "vāram",
-"quick_gloss": "time"
+"surface": "vāraṃ",
+"quick_gloss": "+time"
 },
 {
 "surface": "śravaṇāt",
-"quick_gloss": "from-listening"
+"quick_gloss": "from-hearing"
 }
 ]
 },
@@ -152,7 +164,7 @@
 },
 {
 "surface": "uktvā",
-"quick_gloss": "having-spoken"
+"quick_gloss": "+having-said"
 },
 {
 "surface": "pūjitā",
@@ -171,8 +183,12 @@
 "quick_gloss": "and"
 },
 {
-"surface": "sabhāsadaiḥ",
-"quick_gloss": "by-assembly-members"
+"surface": "sabhā",
+"quick_gloss": "assembly"
+},
+{
+"surface": "sadaiḥ",
+"quick_gloss": "+members"
 }
 ]
 },
@@ -197,14 +213,14 @@
 },
 {
 "surface": "te",
-"quick_gloss": "your"
+"quick_gloss": "+to-you"
 },
 {
 "surface": "syāt",
 "quick_gloss": "may-be"
 },
 {
-"surface": "tam",
+"surface": "taṃ",
 "quick_gloss": "that"
 },
 {
@@ -212,12 +228,20 @@
 "quick_gloss": "ask"
 },
 {
-"surface": "sabhāsadaiḥ",
-"quick_gloss": "by-assembly-members"
+"surface": "sabhā",
+"quick_gloss": "assembly"
 },
 {
-"surface": "sabhāsadbhiḥ",
-"quick_gloss": "by-assembly-members"
+"surface": "sadaiḥ",
+"quick_gloss": "+members"
+},
+{
+"surface": "sabhā",
+"quick_gloss": "assembly"
+},
+{
+"surface": "sadbhiḥ",
+"quick_gloss": "+members"
 }
 ]
 },
@@ -237,16 +261,24 @@
 "quick_gloss": "to-you"
 },
 {
-"surface": "abhihitam",
-"quick_gloss": "spoken"
+"surface": "abhihitaṃ",
+"quick_gloss": "+said"
 },
 {
 "surface": "rāma",
 "quick_gloss": "Rama"
 },
 {
-"surface": "vedana+prakriyā+ātmanaḥ",
-"quick_gloss": "of-nature-of-experience"
+"surface": "vedana",
+"quick_gloss": "knowledge"
+},
+{
+"surface": "prakriyā",
+"quick_gloss": "+process"
+},
+{
+"surface": "ātmanaḥ",
+"quick_gloss": "+nature"
 }
 ]
 },
@@ -258,32 +290,36 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "vedana+prakāraḥ",
-"quick_gloss": "mode-of-experience"
+"surface": "vedana",
+"quick_gloss": "knowledge"
+},
+{
+"surface": "prakāraḥ",
+"quick_gloss": "+method"
 },
 {
 "surface": "uktaḥ",
-"quick_gloss": "spoken"
+"quick_gloss": "stated"
 },
 {
 "surface": "iti",
 "quick_gloss": "thus"
 },
 {
-"surface": "upasaṃhṛtam",
-"quick_gloss": "concluded"
+"surface": "upasaṃhṛtaṃ",
+"quick_gloss": "+concluded"
 },
 {
 "surface": "guruṇā",
-"quick_gloss": "by-guru"
+"quick_gloss": "by-teacher"
 },
 {
 "surface": "iti",
-"quick_gloss": "thus"
+"quick_gloss": "+thus"
 },
 {
 "surface": "jñeyam",
-"quick_gloss": "to-be-known"
+"quick_gloss": "should-be-known"
 }
 ]
 },
@@ -303,16 +339,24 @@
 "quick_gloss": "asked"
 },
 {
-"surface": "atri+sūnum",
-"quick_gloss": "son-of-Atri"
+"surface": "atri",
+"quick_gloss": "+Atri"
+},
+{
+"surface": "sūnum",
+"quick_gloss": "+son"
 },
 {
 "surface": "avitṛptaḥ",
-"quick_gloss": "unsatisfied"
+"quick_gloss": "+unsatisfied"
 },
 {
-"surface": "kathā+śruteḥ",
-"quick_gloss": "from-hearing-story"
+"surface": "kathā",
+"quick_gloss": "story"
+},
+{
+"surface": "śruteḥ",
+"quick_gloss": "+hearing"
 }
 ]
 },
@@ -324,12 +368,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "kathā+śruteḥ",
-"quick_gloss": "from-story-hearing"
+"surface": "kathā",
+"quick_gloss": "story"
 },
 {
-"surface": "kathā+śravaṇāt",
-"quick_gloss": "from-story-listening"
+"surface": "śruteḥ",
+"quick_gloss": "+hearing"
+},
+{
+"surface": "kathā",
+"quick_gloss": "story"
+},
+{
+"surface": "śravaṇāt",
+"quick_gloss": "+from-hearing"
 }
 ]
 },
@@ -353,12 +405,16 @@
 "quick_gloss": "king"
 },
 {
-"surface": "aṣṭāvakraḥ",
-"quick_gloss": "Ashtavakra"
+"surface": "aṣṭāvakro",
+"quick_gloss": "+Ashtavakra"
 },
 {
-"surface": "mahā+muniḥ",
-"quick_gloss": "great-sage"
+"surface": "mahā",
+"quick_gloss": "great"
+},
+{
+"surface": "muniḥ",
+"quick_gloss": "+sage"
 }
 ]
 },
@@ -371,7 +427,7 @@
 "tokens": [
 {
 "surface": "yat",
-"quick_gloss": "which"
+"quick_gloss": "what"
 },
 {
 "surface": "papraccha",
@@ -379,11 +435,11 @@
 },
 {
 "surface": "iti",
-"quick_gloss": "thus"
+"quick_gloss": "+thus"
 },
 {
 "surface": "anvayaḥ",
-"quick_gloss": "connection"
+"quick_gloss": "+connection"
 }
 ]
 },
@@ -399,12 +455,12 @@
 "quick_gloss": "oh"
 },
 {
-"surface": "adbhutam",
-"quick_gloss": "wonderful"
+"surface": "adbhutaṃ",
+"quick_gloss": "+wonderful"
 },
 {
-"surface": "samākhyānam",
-"quick_gloss": "narration"
+"surface": "samākhyānaṃ",
+"quick_gloss": "narrative"
 },
 {
 "surface": "na",
@@ -416,7 +472,7 @@
 },
 {
 "surface": "ca",
-"quick_gloss": "and"
+"quick_gloss": "+and"
 },
 {
 "surface": "mayā",
@@ -441,23 +497,27 @@
 },
 {
 "surface": "eva",
-"quick_gloss": "indeed"
+"quick_gloss": "+indeed"
 },
 {
 "surface": "anuyuktaḥ",
-"quick_gloss": "questioned"
+"quick_gloss": "+questioned"
 },
 {
 "surface": "atha",
-"quick_gloss": "then"
+"quick_gloss": "+then"
 },
 {
-"surface": "dattātreyaḥ",
+"surface": "dattātreyo",
 "quick_gloss": "Dattatreya"
 },
 {
-"surface": "mahā+muniḥ",
-"quick_gloss": "great-sage"
+"surface": "mahā",
+"quick_gloss": "great"
+},
+{
+"surface": "muniḥ",
+"quick_gloss": "+sage"
 }
 ]
 },
@@ -469,8 +529,24 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "janaka+aṣṭāvakra+saṃvāda+rūpam+ākhyānam",
-"quick_gloss": "narration-in-form-of-dialogue"
+"surface": "janaka",
+"quick_gloss": "Janaka"
+},
+{
+"surface": "aṣṭāvakra",
+"quick_gloss": "+Ashtavakra"
+},
+{
+"surface": "saṃvāda",
+"quick_gloss": "+dialogue"
+},
+{
+"surface": "rūpam",
+"quick_gloss": "+form"
+},
+{
+"surface": "ākhyānam",
+"quick_gloss": "+narrative"
 },
 {
 "surface": "anuyuktaḥ",
@@ -499,19 +575,23 @@
 },
 {
 "surface": "yat",
-"quick_gloss": "which"
+"quick_gloss": "what"
 },
 {
-"surface": "proktam",
-"quick_gloss": "spoken"
+"surface": "proktaṃ",
+"quick_gloss": "said"
 },
 {
 "surface": "janakena",
 "quick_gloss": "by-Janaka"
 },
 {
-"surface": "mahātmanā",
-"quick_gloss": "by-great-soul"
+"surface": "mahā",
+"quick_gloss": "great"
+},
+{
+"surface": "ātmanā",
+"quick_gloss": "+souled"
 }
 ]
 },
@@ -523,7 +603,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "saṃvṛtaḥ",
+"surface": "saṃvṛto",
 "quick_gloss": "surrounded"
 },
 {
@@ -532,15 +612,19 @@
 },
 {
 "surface": "vipraiḥ",
-"quick_gloss": "by-brahmins"
+"quick_gloss": "+brahmins"
 },
 {
 "surface": "sametya",
-"quick_gloss": "having-assembled"
+"quick_gloss": "having-approached"
 },
 {
-"surface": "nṛpa+puṅgavam",
-"quick_gloss": "best-of-kings"
+"surface": "nṛpa",
+"quick_gloss": "king"
+},
+{
+"surface": "puṅgavam",
+"quick_gloss": "+best"
 }
 ]
 },
@@ -552,8 +636,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "nṛpa+puṅgavam",
-"quick_gloss": "best-of-kings"
+"surface": "nṛpa",
+"quick_gloss": "king"
+},
+{
+"surface": "puṅgavam",
+"quick_gloss": "+best"
 },
 {
 "surface": "janakam",
@@ -569,12 +657,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "tat",
+"surface": "tad",
 "quick_gloss": "that"
 },
 {
-"surface": "ucyamānam",
-"quick_gloss": "being-spoken"
+"surface": "ucyamānaṃ",
+"quick_gloss": "+being-said"
 },
 {
 "surface": "tu",
@@ -606,24 +694,40 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "mahā+anarthaḥ",
-"quick_gloss": "great-misfortune"
+"surface": "mahān",
+"quick_gloss": "great"
 },
 {
-"surface": "mokṣa+ākhyaḥ",
-"quick_gloss": "called-liberation"
+"surface": "arthaḥ",
+"quick_gloss": "+goal"
+},
+{
+"surface": "mokṣa",
+"quick_gloss": "liberation"
+},
+{
+"surface": "ākhyo",
+"quick_gloss": "+named"
 },
 {
 "surface": "yasmāt",
-"quick_gloss": "because"
+"quick_gloss": "from-which"
 },
 {
-"surface": "evaṃvidham",
+"surface": "evaṃ",
 "quick_gloss": "such"
 },
 {
-"surface": "tāpasī+uktaḥ",
-"quick_gloss": "spoken-by-ascetic"
+"surface": "vidhaṃ",
+"quick_gloss": "+kind"
+},
+{
+"surface": "tāpasi",
+"quick_gloss": "by-ascetic"
+},
+{
+"surface": "uktam",
+"quick_gloss": "+said"
 }
 ]
 },
@@ -635,24 +739,40 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "tat",
+"surface": "tad",
 "quick_gloss": "that"
 },
 {
-"surface": "aham",
-"quick_gloss": "I"
+"surface": "ahaṃ",
+"quick_gloss": "+I"
 },
 {
-"surface": "na+avidaṃ",
-"quick_gloss": "did-not-know"
+"surface": "na",
+"quick_gloss": "not"
+},
+{
+"surface": "avidaṃ",
+"quick_gloss": "+knew"
 },
 {
 "surface": "samyak",
 "quick_gloss": "properly"
 },
 {
-"surface": "saṃkṣepa+uktatva+hetutaḥ",
-"quick_gloss": "due-to-brief-statement"
+"surface": "saṃkṣepa",
+"quick_gloss": "brevity"
+},
+{
+"surface": "ukta",
+"quick_gloss": "+spoken"
+},
+{
+"surface": "tva",
+"quick_gloss": "+ness"
+},
+{
+"surface": "hetutaḥ",
+"quick_gloss": "+due-to-reason"
 }
 ]
 },
@@ -664,23 +784,23 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "evam",
+"surface": "evaṃ",
 "quick_gloss": "thus"
 },
 {
-"surface": "janakaḥ",
+"surface": "janaka",
 "quick_gloss": "Janaka"
 },
 {
 "surface": "āpṛṣṭaḥ",
-"quick_gloss": "asked"
+"quick_gloss": "questioned"
 },
 {
 "surface": "prāha",
 "quick_gloss": "said"
 },
 {
-"surface": "tam",
+"surface": "taṃ",
 "quick_gloss": "to-him"
 },
 {
@@ -689,7 +809,7 @@
 },
 {
 "surface": "iva",
-"quick_gloss": "as-if"
+"quick_gloss": "+as-if"
 }
 ]
 },
@@ -705,12 +825,12 @@
 "quick_gloss": "not"
 },
 {
-"surface": "avedyam",
-"quick_gloss": "unknowable"
+"surface": "avedyaṃ",
+"quick_gloss": "+to-be-taught"
 },
 {
 "surface": "sarvathā",
-"quick_gloss": "in-every-way"
+"quick_gloss": "in-all-ways"
 },
 {
 "surface": "tat",
@@ -718,11 +838,11 @@
 },
 {
 "surface": "hi",
-"quick_gloss": "indeed"
+"quick_gloss": "+indeed"
 },
 {
-"surface": "vedyam",
-"quick_gloss": "knowable"
+"surface": "vedyaṃ",
+"quick_gloss": "to-be-known"
 },
 {
 "surface": "ca",
@@ -730,7 +850,7 @@
 },
 {
 "surface": "api",
-"quick_gloss": "also"
+"quick_gloss": "+also"
 },
 {
 "surface": "na",
@@ -738,7 +858,7 @@
 },
 {
 "surface": "sarvathā",
-"quick_gloss": "in-every-way"
+"quick_gloss": "in-all-ways"
 }
 ]
 },
@@ -754,8 +874,20 @@
 "quick_gloss": "that"
 },
 {
-"surface": "śuddha+cid+ātma+tattvam",
-"quick_gloss": "pure-consciousness-self-principle"
+"surface": "śuddha",
+"quick_gloss": "pure"
+},
+{
+"surface": "cit",
+"quick_gloss": "+consciousness"
+},
+{
+"surface": "ātma",
+"quick_gloss": "+self"
+},
+{
+"surface": "tattvam",
+"quick_gloss": "+truth"
 }
 ]
 },
@@ -772,7 +904,7 @@
 },
 {
 "surface": "āvedayet",
-"quick_gloss": "should-teach"
+"quick_gloss": "+should-reveal"
 },
 {
 "surface": "tattvam",
@@ -780,19 +912,19 @@
 },
 {
 "surface": "ataḥ",
-"quick_gloss": "therefore"
+"quick_gloss": "+therefore"
 },
 {
 "surface": "ādau",
 "quick_gloss": "first"
 },
 {
-"surface": "gurum",
+"surface": "guruṃ",
 "quick_gloss": "teacher"
 },
 {
 "surface": "śrayet",
-"quick_gloss": "should-resort"
+"quick_gloss": "should-approach"
 }
 ]
 }
