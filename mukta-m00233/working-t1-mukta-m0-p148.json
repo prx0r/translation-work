@@ -24,7 +24,7 @@
 },
 {
 "surface": "ārjavam",
-"quick_gloss": "straightforwardness"
+"quick_gloss": "uprightness"
 }
 ]
 },
@@ -62,7 +62,7 @@
 "tokens": [
 {
 "surface": "āsanāni",
-"quick_gloss": "seats"
+"quick_gloss": "postures"
 },
 {
 "surface": "api",
@@ -74,15 +74,19 @@
 },
 {
 "surface": "uktāni",
-"quick_gloss": "stated"
+"quick_gloss": "mentioned"
 },
 {
 "surface": "bahudhā",
 "quick_gloss": "in-many-ways"
 },
 {
-"surface": "pūrvapaddhatau",
-"quick_gloss": "in-previous-tradition"
+"surface": "pūrva",
+"quick_gloss": "in-previous"
+},
+{
+"surface": "paddhatau",
+"quick_gloss": "tradition"
 }
 ]
 },
@@ -115,7 +119,7 @@
 },
 {
 "surface": "āsanaṃ",
-"quick_gloss": "seat"
+"quick_gloss": "posture"
 },
 {
 "surface": "tathā",
@@ -135,16 +139,20 @@
 "quick_gloss": "seated"
 },
 {
-"surface": "iti",
+"surface": "ca",
+"quick_gloss": "and"
+},
+{
+"surface": "anyāni",
+"quick_gloss": "others"
+},
+{
+"surface": "api",
+"quick_gloss": "also"
+},
+{
+"surface": "tathā",
 "quick_gloss": "thus"
-},
-{
-"surface": "uktam",
-"quick_gloss": "stated"
-},
-{
-"surface": "atra",
-"quick_gloss": "here"
 }
 ]
 },
@@ -168,8 +176,8 @@
 "quick_gloss": "thus"
 },
 {
-"surface": "etat",
-"quick_gloss": "regarding-this"
+"surface": "budhāḥ",
+"quick_gloss": "the-wise"
 }
 ]
 },
@@ -193,12 +201,8 @@
 "quick_gloss": "in-body"
 },
 {
-"surface": "prāṇa",
-"quick_gloss": "breath"
-},
-{
-"surface": "āyāmaḥ",
-"quick_gloss": "control"
+"surface": "prāṇāyāma",
+"quick_gloss": "breath-control"
 },
 {
 "surface": "iti",
@@ -271,12 +275,8 @@
 "quick_gloss": "endowed"
 },
 {
-"surface": "tri",
-"quick_gloss": "three"
-},
-{
-"surface": "aṃgaḥ",
-"quick_gloss": "limbed"
+"surface": "tryaṃga",
+"quick_gloss": "three-limbed"
 },
 {
 "surface": "syāt",
@@ -305,7 +305,7 @@
 },
 {
 "surface": "udghāta",
-"quick_gloss": "impulse"
+"quick_gloss": "beat"
 },
 {
 "surface": "mātrābhiḥ",
@@ -316,7 +316,7 @@
 "quick_gloss": "to-be-known"
 },
 {
-"surface": "saḥ",
+"surface": "sa",
 "quick_gloss": "that"
 },
 {
@@ -338,7 +338,7 @@
 "tokens": [
 {
 "surface": "tiṣṭhet",
-"quick_gloss": "should-remain"
+"quick_gloss": "remains"
 },
 {
 "surface": "yadā",
@@ -411,8 +411,8 @@
 "quick_gloss": "five"
 },
 {
-"surface": "udghātaḥ",
-"quick_gloss": "impulses"
+"surface": "uddhātaḥ",
+"quick_gloss": "beats"
 },
 {
 "surface": "tu",
@@ -448,7 +448,7 @@
 "quick_gloss": "middle"
 },
 {
-"surface": "asmāt",
+"surface": "asmād",
 "quick_gloss": "than-this"
 },
 {
@@ -477,12 +477,8 @@
 "quick_gloss": "and"
 },
 {
-"surface": "prāṇa",
-"quick_gloss": "breath"
-},
-{
-"surface": "āyāmāḥ",
-"quick_gloss": "controls"
+"surface": "prāṇāyāmāḥ",
+"quick_gloss": "breath-controls"
 },
 {
 "surface": "tu",
@@ -567,12 +563,8 @@
 "quick_gloss": "own"
 },
 {
-"surface": "sva",
-"quick_gloss": "own"
-},
-{
-"surface": "mantraṃ",
-"quick_gloss": "mantra"
+"surface": "svamantraṃ",
+"quick_gloss": "own-mantra"
 },
 {
 "surface": "dhiyā",
@@ -580,7 +572,7 @@
 },
 {
 "surface": "japet",
-"quick_gloss": "one-should-repeat"
+"quick_gloss": "one-should-recite"
 }
 ]
 },
@@ -592,12 +584,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "sva",
-"quick_gloss": "own"
-},
-{
-"surface": "mantraḥ",
-"quick_gloss": "mantra"
+"surface": "svamantraḥ",
+"quick_gloss": "own-mantra"
 },
 {
 "surface": "cet",
@@ -634,19 +622,15 @@
 },
 {
 "surface": "āyata",
-"quick_gloss": "prolonged"
+"quick_gloss": "with-extended"
 },
 {
 "surface": "prāṇaḥ",
 "quick_gloss": "breath"
 },
 {
-"surface": "prāṇa",
-"quick_gloss": "breath"
-},
-{
-"surface": "āyāmaṃ",
-"quick_gloss": "control"
+"surface": "prāṇāyāmaṃ",
+"quick_gloss": "breath-control"
 },
 {
 "surface": "samācaret",
@@ -670,12 +654,8 @@
 "quick_gloss": "by-that"
 },
 {
-"surface": "tat",
-"quick_gloss": "that"
-},
-{
-"surface": "dhyāna",
-"quick_gloss": "meditation"
+"surface": "taddhyāna",
+"quick_gloss": "by-that-meditation"
 },
 {
 "surface": "upabṛṃhitāḥ",
@@ -692,7 +672,7 @@
 "tokens": [
 {
 "surface": "śarīrāt",
-"quick_gloss": "from-body"
+"quick_gloss": "than-body"
 },
 {
 "surface": "adhikaṃ",
@@ -724,7 +704,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "saḥ",
+"surface": "sa",
 "quick_gloss": "that"
 },
 {
@@ -770,7 +750,7 @@
 },
 {
 "surface": "kroḍa",
-"quick_gloss": "in-breast"
+"quick_gloss": "in-belly"
 },
 {
 "surface": "madhye",
@@ -815,7 +795,7 @@
 },
 {
 "surface": "asu",
-"quick_gloss": "breath"
+"quick_gloss": "of-breath"
 },
 {
 "surface": "sthitiḥ",
