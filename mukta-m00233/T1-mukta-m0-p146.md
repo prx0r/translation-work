@@ -2,7 +2,7 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p146-v3626
-[merit+doer](puṇyakṛt) [indeed](eva) [may-be](syāt) [in-heaven](svarge) [god+etc.+body+possessing](devādi+deha+vān)
+[merit-doer](puṇyakṛt) [indeed](eva) [may-be](syāt) [in-heaven](svarge) [god+etc.+body-possessing](devādi+deha+vān)
 
 ## mukta-m0-p146-v3627
 [small](alpaṃ) [prosperity](śriyaṃ) [shining](dīptām) [of-others](anyeṣām) [than-oneself](ātmanaḥ) [greater](adhikām)
@@ -11,16 +11,16 @@
 [of-those-whose-merit-is-exhausted](kṣīṇa+puṇyānāṃ) [falling+etc.](patana+ādi) [having-seen](avalokya) [but](tu)
 
 ## mukta-m0-p146-v3629
-[in-kingdom+etc.](rājya+ādiṣu) [happiness](sukhaṃ) [may-be](syāt) [if](cet) [with-twilight+etc.+sufferings](sandhyā+ādi+duḥkhinaḥ)
+[in-kingdom+etc.](rājya+ādiṣu) [happiness](sukhaṃ) [may-be](syāt) [if](cet) [with-twilight+etc.+suffering](sandhyā+ādi+duḥkhinaḥ)
 
 ## mukta-m0-p146-v3630
 [by-renunciation](tyāgena) [alone](eva) [immortality](amṛtatvaṃ) [indeed](hi) [to-obtain](prāptuṃ) [possible](śakyaṃ) [by-the-wise](manīṣibhiḥ)
 
 ## mukta-m0-p146-v3631
-[of-the-three-aims](trivargāṇāṃ) [by-difficulty-of-accomplishment](dussaṃpāda+tayā) [also](api) [and](ca)
+[of-the-three-aims](trivargāṇāṃ) [because-of-difficulty-of-attainment](dussaṃpādatayā) [also](api) [and](ca)
 
 ## mukta-m0-p146-v3632
-[supreme](paraḥ) [yoga](yogaḥ) [with-limbs](sa+aṅgaḥ) [to-be-practiced](sādhyaḥ) [by-the-wise](vipaścitā)
+[supreme](paraḥ) [yoga](yogaḥ) [with-limbs](sāṅgaḥ) [to-be-accomplished](sādhyaḥ) [by-the-wise](vipaścitā)
 
 ## mukta-m0-p146-v3633
 [not](na) [from-shaving](muṇḍanāt) [may-be](syāt) [from-staff+etc.](daṇḍa+ādeḥ) [from-taking](grahaṇāt) [also](api)
@@ -41,31 +41,31 @@
 [of-those-endowed-with-own-varṇa-and-āśrama](sva+varṇa+āśrama+yuktānāṃ) [likewise](tathā) [of-own-tradition](sva+samayasya) [and](tu)
 
 ## mukta-m0-p146-v3639
-[with-the-notion-of-offering-to-the-Lord](īśvara+arpaṇa+buddhyā) [but](tu) [performance](karaṇaṃ) [relinquishment](nyāsaḥ) [is-regarded](iṣyate)
+[with-the-thought-of-offering-to-the-Lord](īśvara+arpaṇa+buddhyā) [but](tu) [performance](karaṇaṃ) [relinquishment](nyāsaḥ) [is-desired](iṣyate)
 
 ## mukta-m0-p146-v3640
 [constant-renouncer](nitya+sannyāsī) [who](yaḥ) [not](na) [hates](dveṣṭi) [not](na) [desires](kāṅkṣati)
 
 ## mukta-m0-p146-v3641
-[with-matted-hair](jaṭī) [or](vā) [also](api) [with-two-staffs](dvi+daṇḍaḥ) [or](vā) [or](atha) [shaven](muṇḍitaḥ)
+[with-matted-hair](jaṭī) [or](vā) [also](api) [with-two-staffs](dvidaṇḍaḥ) [or](vā) [or](atha) [shaven](muṇḍitaḥ)
 
 ## mukta-m0-p146-v3642
-[having-performed](kṛtvā) [yoga-with-limbs](sa+aṅga+yogaṃ) [resorted-to](samāśritaḥ)
+[having-performed](kṛtvā) [yoga-with-limbs](sāṅga+yogaṃ) [resorted-to](samāśritaḥ)
 
 ## mukta-m0-p146-v3643
 [yoga](yogam) [declares](āha) [Patañjali](patañjaliḥ)
 
 ## mukta-m0-p146-v3644
-[declared](samuddiṣṭaḥ) [likewise](tathā) [speaks](āha) [the-great-sage](mahā+muniḥ)
+[declared](samuddiṣṭaḥ) [likewise](tathā) [speaks](āha) [great-sage](mahā+muniḥ)
 
 ## mukta-m0-p146-v3645
 [mind](manaḥ) [having-made](kṛtvā) [own-self](sva+ātmānaṃ) [in-the-supreme-self](parama+ātmani)
 
 ## mukta-m0-p146-v3646
-[of-the-manifestation-of-the-state-of-Śiva-hood](śivatva+vyakta+bhāvasya) [isolation](kaivalyaṃ) [yoga](yogaḥ) [is-regarded](iṣyate)
+[of-the-manifestation-of-Śiva-nature](śivatva+vyakta+bhāvasya) [liberation](kaivalyaṃ) [yoga](yogaḥ) [is-regarded](iṣyate)
 
 ## mukta-m0-p146-v3647
-[passion+etc.](rāga+ādyāḥ) [of-the-limbs-of-yoga](yoga+aṅgānāṃ) [from-practice](niṣevaṇāt)
+[passion+etc.](rāga+ādyāḥ) [of-the-limbs-of-yoga](yoga+aṅgānāṃ) [by-practice](niṣevaṇāt)
 
 ## mukta-m0-p146-v3648
 [restraints](yamāḥ) [and](ca) [observances](niyamāḥ) [likewise](tadvat) [posture](āsanaṃ) [breath-controls](prāṇa+saṃyamāḥ)
