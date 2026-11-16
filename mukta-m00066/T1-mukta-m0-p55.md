@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p55-v1351
-[to-be-discerned](vivecanīye) [having-arrived](saṃprāpte) [debate](vādaḥ) [indeed](eva) [proceeds](pravarttate)
+[discernible](vivecanīye) [arrived](saṃprāpte) [debate](vāda) [indeed](eva) [proceeds](pravarttate)
 
 ## mukta-m0-p55-v1352
-[of-debate](vādasya) [but](tu) [concluded](samāptaḥ) [indeed](hi) [futile-rejoinder+defeat+accomplishment+giving](jāti+nigraha+siddhi+dā)
+[debate](vādasya) [but](tu) [completed](samāpto) [indeed](hi) [caste-refutation-achievement-giver](jātinigrahasiddhidā)
 
 ## mukta-m0-p55-v1353
-[mutual+dependence](anyonya+āśraya) [by-fault](doṣeṇa) [by-that](tena) [by-debate](vādena) [view](darśanam)
+[mutual-dependence](anyonyāśraya) [fault](doṣeṇa) [therefore](tena) [debate](vādena) [view](darśanam)
 
 ## mukta-m0-p55-v1354
-[mutually+contradictory](paraspara+vyāhatāni) [not](na) [wonder+causing](camatkāra+kāṇi) [naḥ](naḥ)
+[mutually-contradictory](parasparavyāhatāni) [not](na) [wonder-makers](camatkārakāṇinaḥ)
 
 ## mukta-m0-p55-v1355
-[mutual+non-authoritativeness](anyonya+apramāṇatva) [notoriety](khyāti) [disagreements](vipramapattayaḥ)
+[mutual](anyonyam) [invalidity](apramāṇatva) [manifestation](khyāti) [disagreements](vipramapattayaḥ)
 
 ## mukta-m0-p55-v1356
-[known](pramitāni) [another](aparaḥ) [there](tatra) [authoritativeness](pramāṇyam) [not](na) [is-understood](avabudhyate)
+[proved-others](pramitānya) [there](parastatra) [validity](pramāṇyaṃ) [not](na) [understood](avabudhyate)
 
 ## mukta-m0-p55-v1357
-[proximate+object](sannikṛṣṭa+artha) [form-ness](rūpatvam) [there](tatra) [impartial](madhyastha) [vision+light](dṛk+prabhā)
+[near-object-form](sannikṛṣṭārtha) [form](rūpatvaṃ) [there](tatra) [neutral](madhyastha) [sight-power](dṛkprabhā)
 
 ## mukta-m0-p55-v1358
-[that+proponent](tat+vādi) [opponent+stated](prativādi+ukta) [reasoning+skill](yukti+pāṇḍitya) [truth+knower](tatva+vit)
+[that-debater](tadvādi) [opponent-spoken](prativādyukta) [reasoning-scholarship](yuktipāṇḍitya) [truth-knower](tatvavit)
 
 ## mukta-m0-p55-v1359
-[arrived](āyāta) [debaters](vādinaḥ) [all](sarve) [of-them](teṣām) [and](ca) [opponents](prativādinaḥ)
+[arrived](āyāta) [debaters](vādinaḥ) [all](sarve) [their](teṣāṃ) [and](ca) [opponents](prativādinaḥ)
 
 ## mukta-m0-p55-v1360
-[fault](doṣaḥ) [and-quality](guṇaḥ) [and-indeed](ca+eva) [equal](samaḥ) [ardhaṃ](ardhaṃ) [and-also](ca+api) [equal](samam) [remembered](smṛtam)
+[fault](doṣo) [quality](guṇaścaiva) [equal](samo) [radhra](radhraṃ) [and](cāpi) [equal](samaṃ) [remembered](smṛtam)
 
 ## mukta-m0-p55-v1361
-[not-one](na+ekaḥ) [to-be-questioned](paryanuyoktavyaḥ) [such+matter+investigation](tādṛk+artha+vicāraṇe)
+[not-one](naikaḥ) [to-be-cross-examined](paryanuyoktavyaḥ) [such](tādṛg) [matter-inquiry](arthavicāraṇe)
 
 ## mukta-m0-p55-v1362
-[therefore](ataḥ) [equality+predominant](sāmya+pradhānānām) [not](na) [hatred](dveṣaḥ) [elsewhere](anyatra) [is-fitting](yujyate)
+[therefore](ataḥ) [equality](sāmya) [principal](pradhānānāṃ) [not](na) [hatred](dveṣo) [elsewhere](nyatra) [fitting](yujyate)
 
 ## mukta-m0-p55-v1363
-[whatever](yat) [something](kiṃcit) [by-action](karmayā) [some](kācid) [deity](devatā) [and-whatever](yat+ca+kiṃcana)
+[whatever](yat) [kiṃcit](kiṃcit) [action](karmayā) [some](kācid) [deity](devatā) [whatever](yaccakiṃcana)
 
 ## mukta-m0-p55-v1364
-[whatever](yaḥ) [any](ka+api) [liberation](mokṣaḥ) [everywhere](sarvatra) [in-scripture](śāstre) [similar](sadṛśaḥ) [declared](īritaḥ)
+[whoever](yaḥ) [kopi](kopi) [liberation](mokṣaḥ) [everywhere](sarvatra) [scripture](śāstre) [similar](sadṛśa) [declared](īritaḥ)
 
 ## mukta-m0-p55-v1365
-[this](etat) [manner+attainment](prakāra+tā) [in-attainment](pattau) [of-you-two](bhavatoḥ) [but](tu) [placed](vyadhāt) [strife](kaliḥ)
+[this](etat) [mode](prakāratā) [attainment](pattau) [to-you](bhavatastu) [discord](vyadhātkaliḥ)
 
 ## mukta-m0-p55-v1366
-[in-all](sarveṣu) [even](api) [and](ca) [in-scriptures](śāstreṣu) [knowledge+bliss](jñāna+ānanda) [characteristic](lakṣaṇam)
+[all](sarveṣvapi) [and](ca) [scriptures](śāstreṣu) [knowledge-measure-sign](jñānamānaṃdalakṣaṇam)
 
 ## mukta-m0-p55-v1367
-[being-examined](vicāryamāṇena) [exists-indeed](asti+eva) [all+activity](sarva+vyavahṛtā) [limit](avadhi)
+[being-inquired](vicāryamāṇenāstaiva) [all-convention](sarvavyavahṛtā) [limit](vadhi)
 
 ## mukta-m0-p55-v1368
-[knowledge+bliss+form](jñāna+ānanda+rūpam) [that](tat) [all-pervading](sarvagam) [of-all-kinds](sarva+jātikam)
+[knowledge-measure-form](jñānamānaṃdarūpaṃ) [that](tat) [all-pervading](sarvagaṃ) [all-born](sarvajātikam)
 
 ## mukta-m0-p55-v1369
-[thus](iti) [impartial+form](madhyastha+rūpasya) [own+self+bliss+great-lord](sva+ātmā+ānanda+maheśi) [tuḥ](tuḥ)
+[thus](iti) [neutral-form](madhyastarūpasya) [self-bliss-great-lord](svātmānaṃdamaheśi) [tuḥ](tuḥ)
 
 ## mukta-m0-p55-v1370
-[so](tathā) [thus](iti) [they-acknowledge](pratipadyante) [with-scriptures](śāstraiḥ) [with-own](saha+nijaiḥ) [new](navaiḥ)
+[so](tatheti) [they-accept](pratipadyaṃte) [scriptures](śāstraiḥ) [with-own-new](sahanijairnnavaiḥ)
 
 ## mukta-m0-p55-v1371
-[limb-ness](aṃgatām) [indeed](kila) [gone-to](yātāni) [scriptures](śāstrāṇi) [various](vividhāni) [even](api)
+[limb-status](aṃgatāṃ) [indeed](kilayātāni) [scriptures](śāstrāṇi) [various](vividhānyapi)
 
 ## mukta-m0-p55-v1372
-[entry](praveśaḥ) [gradually](kramataḥ) [and-venerable](pūjyāḥ) [Cārvāka+etc.](cārvāka+ādi) [own+traditions](nija+āgamāḥ)
+[entry](praveśaḥ) [gradually](kramataḥ) [worshipful](pūjyāścārvākādinijāgamāḥ)
 
 ## mukta-m0-p55-v1373
-[which](yāni) [which](yāni) [inner-situated](antara+sthāni) [those](tāni) [those](tā) [strong](udbalāni) [indeed](vai)
+[whatever](yāni) [yānyantarasthāni](yānyantarasthāni) [those](tānitā) [strong](vudbalāni) [indeed](vai)
 
 ## mukta-m0-p55-v1374
-[retinue+and-protectors](parivāra+rakṣakāḥ) [and](ca) [for-protection](gupti+ardāḥ) [scripture+collections](śāstra+saṃcayāḥ)
+[attendants-protectors](parivārārakṣakāśca) [treasury](guptyardāḥ) [scripture](śāstra) [collections](saṃcayāḥ)
 
 ## mukta-m0-p55-v1375
-[scripture+path](śāstra+mārga) [becoming](bhavanti) [indeed](eva) [hero+path](vīra+mārgasya) [and](ca) [limb-ness](aṅgatām)
+[scripture-path](śāstramārgabhavantyeva) [hero-path](vīramārgasya) [and](ca) [limb-status](aṅgatām)
