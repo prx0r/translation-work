@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p482-v12026
-[in-earth-city](bhūpure) [world-guardians+and](lokapālāṃś+ca) [their-weapons](tadastrāṇi) [then](tato) [one-should-worship](yajet)
+[in-earth-city](bhūpure) [world-guardians](lokapālāṃśca) [their-weapons](tadastrāṇi) [then](tato) [should-worship](yajet)
 
 ## mukta-m0-p482-v12027
-[one-should-offer-oblations](homayet) [libation+etc.+ending](tarppaṇā+ādi+antaṃ) [having-done](kṛtvā) [accomplished](siddho) [should-become](bhavet) [mantra](manuḥ)
+[should-offer-oblations](homayet) [libation+etc+ending](tarppaṇādyantaṃ) [having-done](kṛtvā) [accomplished](siddho) [becomes](bhavet) [mantra](manuḥ)
 
 ## mukta-m0-p482-v12028
-[prosperity-desiring](śrīkāmo) [one-should-offer](juhuyāt) [daily](nityaṃ) [with-kunda-flowers](kundais) [three-sweets+soaked](trimadhura+plutaiḥ)
+[prosperity-desiring](śrīkāmo) [should-offer-oblations](juhuyāt) [daily](nityaṃ) [with-kunda-flowers](kundais) [three-sweets+soaked](trimadhuraplutaiḥ)
 
 ## mukta-m0-p482-v12029
-[served](sevitaṃ) [according-to-rule](vidhinā) [in-morning](prātar) [desire+intellect+producing](ati+buddhi+karaṃ) [indeed](tu) [this](idam)
+[served](sevitaṃ) [according-to-rule](vidhinā) [in-morning](prātar) [desire+intellect+producing](atibuddhikaraṃ) [indeed](tu) [this](idam)
 
 ## mukta-m0-p482-v12030
-[one-should-consume](bhakṣayet) [all+scriptures](sarva+śāstrāṇāṃ) [expounder](vyākhyātā) [becomes](bhavati) [certainly](dhruvam)
+[should-eat](bhakṣayet) [all+scriptures](sarvaśāstrāṇāṃ) [expounder](vyākhyātā) [becomes](bhavati) [certainly](dhruvam)
 
 ## mukta-m0-p482-v12031
-[ṛg+yajus+sāman+form](ṛg+yajus+sāma+rūpāya) [veda+ornament+action](veda+ābharaṇa+karmmaṇe)
+[to-ṛg+yajus+sāman+form](ṛgyajussāmarūpāya) [veda+ornament+action](vedābharaṇakarmmaṇe)
 
 ## mukta-m0-p482-v12032
-[page-700](p. 700) [now](atha) [mantra+another](mantra+antaraṃ) [I-shall-declare](vakṣye) [sharp+intellect+making](tīkṣṇa+buddhi+karaṃ) [supreme](param)
+[p. 700](p. 700) [now](atha) [mantra+another](mantrāntaraṃ) [shall-declare](vakṣye) [sharp+intellect+making](tīkṣṇabuddhikaraṃ) [supreme](param)
 
 ## mukta-m0-p482-v12033
-[bilva+transcended](bilva+uttīrṇa) [own+self+form](sva+ātma+rūpa) [consciousness+bliss+form](cinmaya+ānanda+rūpiṇe)
+[bilva+transcended](bilvottīrṇa) [own+self+form](svātmarūpa) [consciousness+bliss+form](cinmayānandarūpiṇe)
 
 ## mukta-m0-p482-v12034
-[svāhā](svāhā) [sohaṃ](sohaṃ) [and](ca) [haṃsa+beginning](haṃsa+ādiḥ) [thirty-eight+syllabled](aṣṭatriṃśa+akṣaro) [mantra](manuḥ)
+[svāhā](svāhā) [so'ham](sohaṃ) [ca](ca) [haṃsa+beginning](haṃsādir) [thirty-eight+syllabled](aṣṭatriṃśākṣaro) [mantra](manuḥ)
 
 ## mukta-m0-p482-v12035
-[preliminary-rite](puraścaryyā) [indeed](tu) [thirty-six](ṣaṭtriṃśat) [lakhs](lakṣam) [other+and](anyat+ca) [as-before](pūrva+vat)
+[preliminary-rite](puraścaryyā) [indeed](tu) [thirty-six](ṣaṭtriṃśal) [lakhs](lakṣam) [other](anyac) [ca](ca) [as-before](pūrvavat)
 
 ## mukta-m0-p482-v12036
-[own+seed](sva+bījaṃ) [to-horse-headed](hayaśirase) [obeisance+and](namaḥ+ca) [eight+syllabled](aṣṭa+akṣaro) [mantra](manuḥ)
+[own+seed](svabījaṃ) [to-horse-headed](hayaśirase) [salutation](namaś) [ca](cā) [eight-syllabled](ṣṭākṣaro) [mantra](manuḥ)
 
 ## mukta-m0-p482-v12037
-[with-hands](hastair) [holding](dadhānaṃ) [rosary+and](mālāṃ+ca) [book](pustakaṃ) [boon+lotus](vara+paṅkajam)
+[with-hands](hastair) [holding](dadhānaṃ) [rosary](mālāṃ) [ca](ca) [book](pustakaṃ) [boon+lotus](varapaṅkajam)
 
 ## mukta-m0-p482-v12038
-[thus](evaṃ) [having-meditated](dhyātvā) [all](akhilaṃ) [should-do](karyyāt) [by-one-eared+taught+path](ekakarṇa+ukta+vartmanā)
+[thus](evaṃ) [having-meditated](dhyātvā) [all](akhilaṃ) [should-do](karyyād) [one+ear+taught+path](ekakarṇoktavartmanā)
 
 ## mukta-m0-p482-v12039
-[bhava+syllabled](bhava+akṣaro) [mantra](manuḥ) [declared](prokto) [existence+disease+sole+remedy](bhava+roga+eka+bheṣajam)
+[bhava+syllabled](bhavākṣaro) [mantra](manuḥ) [declared](prokto) [existence+disease+sole+remedy](bhavarogaikabheṣajam)
 
 ## mukta-m0-p482-v12040
-[six+limb+procedure](ṣaḍ+aṅga+vidhiḥ) [declared](uktaḥ) [of-this](asya) [with-doubled](dviruktair) [mantra](manu) [names](nāmabhiḥ)
+[six+limb+procedure](ṣaḍaṅgavidhir) [stated](uktosya) [with-doubled](dviruktair) [mantra](manu) [names](nāmabhiḥ)
 
 ## mukta-m0-p482-v12041
-[all+weapons](sarva+āyudhaiḥ) [endowed+and](upetaṃ+ca) [on-Garuḍa](garuḍa+upari) [well-seated](saṃsthitam)
+[all+weapons](sarvāyudhair) [endowed](upetaṃ) [ca](ca) [on-garuḍa](garuḍo) [above+seated](parisaṃsthitam)
 
 ## mukta-m0-p482-v12042
-[Śrī+Bhūmi](śrī+bhūmi) [accompanied-by](sahitaṃ) [deity](devam) [rising+sun+resembling](udyat+āditya+sannibham)
+[śrī+bhūmi](śrībhūmi) [accompanied](sahitaṃ) [deity](devam) [rising+sun+resembling](udyadādityasannibham)
 
 ## mukta-m0-p482-v12043
-[of-all+world](sarva+lokasya) [for-protection](rakṣā+artham) [Ananta](anantaṃ) [eternally](nityam) [indeed](eva) [certainly](hi)
+[all+world](sarvalokasya) [for-protection](rakṣārtham) [endless](anantaṃ) [eternally](nityam) [indeed](eva) [hi](hi)
 
 ## mukta-m0-p482-v12044
-[Govinda+mantra](govinda+manu) [declared](avaloktam) [five+enclosure+endowed](pañca+āvaraṇa+saṃyutam)
+[govinda+mantra](govindamanuvaloktam) [five+enclosure+endowed](pañcāvaraṇasaṃyutam)
 
 ## mukta-m0-p482-v12045
-[libation+etc.](tarppaṇa+ādi) [then](tataḥ) [one-should-do](kuryāt) [disease+destruction](roga+nāśaḥ) [arises](prajāyate)
+[libation+etc](tarppaṇādi) [then](tataḥ) [should-do](kuryād) [disease+destruction](roganāśaḥ) [arises](prajāyate)
 
 ## mukta-m0-p482-v12046
-[garment+desiring](vastra+arthī) [flower+offering](puṣpa+homam) [and](ca) [health+desiring](nairujya+arthī) [with-sesame](tilaiḥ) [should-offer](hunet)
+[garment+desiring](vastrārthī) [flower+oblation](puṣpahomaṃ) [ca](ca) [health+desiring](nairujyārthī) [with-sesame](tilair) [should-offer](hunet)
 
 ## mukta-m0-p482-v12047
-[eight+above+hundred+thousand](aṣṭa+uttara+sahasram) [indeed](tu) [fever+destruction](jvara+nāśo) [will-be](bhaviṣyati)
+[eight+above+hundred+thousand](aṣṭottarasahasrantu) [fever+destruction](jvaranāśo) [will-be](bhaviṣyati)
 
 ## mukta-m0-p482-v12048
-[one-should-meditate](dhyāyet) [one-may-obtain](labhet) [auspicious](śubhāṃ) [maiden](kanyāṃ) [of-good-family+and](kulīnāṃ+ca) [householder-wife](kuṭumbinīm)
+[should-meditate](dhyāyel) [may-obtain](labhecchubhāṃ) [auspicious](śubhāṃ) [maiden](kanyāṃ) [of-good-family](kulīnāṃ) [ca](ca) [housewife](kuṭumbinīm)
 
 ## mukta-m0-p482-v12049
-[anantāya namaḥ](anantāya namaḥ) [thus](iti) [six+syllabled](ṣaḍ+varṇaḥ) [this](ayam) [declared](udāhṛtaḥ)
+[to-ananta](anantāya) [salutation](namaś) [ca](ceti) [six-syllabled](ṣaḍvarṇoyam) [declared](udāhṛtaḥ)
 
 ## mukta-m0-p482-v12050
-[application](niyogo) [disease+destruction+for](roga+nāśa+artham) [other](anyat) [like-Govinda](govinda+vat) [should-be](bhavet)
+[application](niyogo) [disease+destruction+for](roganāśārtham) [other](anyad) [like-govinda](govindavad) [should-be](bhavet)
