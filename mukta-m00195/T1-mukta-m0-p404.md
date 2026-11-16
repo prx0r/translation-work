@@ -2,76 +2,85 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p404-v10076
-[veda-vyāsaḥ](vedavyāso) [sage](muniḥ) [meter](chandaḥ) [composition](kṛtiḥ) [gaṅgā](gaṅgā) [and](ca) [deity](devatā)
+[veda+vyāsaḥ](vedavyāso) [muniḥ](muniś)[chandaḥ](chandaḥ) [kṛtiḥ](kṛtir)[gaṅgā](gaṅgā) [ca](ca) [devatā](devatā)
 
 ## mukta-m0-p404-v10077
-[all](nikhilaṃ) [as-before](pūrvavat) [one-should-do](kuryāt) [all+desired+giving](nikhilābhīṣṭado) [mantra](manuḥ)
+[nikhilam](nikhilaṃ) [pūrva+vat](pūrvavat)[kuryāt](kuryān)[nikhila+abhīṣṭa+daḥ](nikhilābhīṣṭado) [manuḥ](manuḥ)
 
 ## mukta-m0-p404-v10078
-[oṃ-hrīṃ-śrīṃ-hṛd-bhagavati-gaṅge-ca-dayite-namaḥ](oṃ) [oṃ-hrīṃ-śrīṃ-hṛd-bhagavati-gaṅge-ca-dayite-namaḥ](hrīṃ) [oṃ-hrīṃ-śrīṃ-hṛd-bhagavati-gaṅge-ca-dayite-namaḥ](śrīṃ) [oṃ-hrīṃ-śrīṃ-hṛd-bhagavati-gaṅge-ca-dayite-namaḥ](hṛdbhagavati) [oṃ-hrīṃ-śrīṃ-hṛd-bhagavati-gaṅge-ca-dayite-namaḥ](gaṅge) [oṃ-hrīṃ-śrīṃ-hṛd-bhagavati-gaṅge-ca-dayite-namaḥ](ca) [oṃ-hrīṃ-śrīṃ-hṛd-bhagavati-gaṅge-ca-dayite-namaḥ](dayite) [oṃ-hrīṃ-śrīṃ-hṛd-bhagavati-gaṅge-ca-dayite-namaḥ](namaḥ)
+[oṃ hrīṃ śrīṃ hṛdbhagavati gaṅge ca dayite namaḥ](oṃ hrīṃ śrīṃ hṛdbhagavati gaṅge ca dayite namaḥ)
 
 ## mukta-m0-p404-v10079
-[three+two+four+five+two+two+syllables](tridvyabdhīṣudvidvivarṇaiḥ) [six+limb+procedure](ṣaḍaṅgavidhir) [is-declared](īritaḥ)
+[tri+dvi+abdhi+iṣu+dvi+dvi+varṇaiḥ](tridvyabdhīṣudvidvivarṇaiḥ) [ṣaṭ+aṅga+vidhiḥ](ṣaḍaṅgavidhir)[īritaḥ](īritaḥ)
 
 ## mukta-m0-p404-v10080
-[syllable+hundred-thousand](varṇalakṣaṃ) [one-should-chant](japet) [oblation](dhomaḥ) [as-before](prāgvat) [wish+fulfilling](sammatkaras) [this](tu) [this](ayam)
+[varṇa+lakṣam](varṇalakṣaṃ) [japet](japed)[homaḥ](dhomaḥ) [prāk+vat](prāgvatsammatkaras)[sammata+karaḥ](tv)[tu](ayam) [ayam]( )
+
+## mukta-m0-p404-v10080
+[varṇa+lakṣam](varṇalakṣaṃ) [japet](japed)[homaḥ](dhomaḥ) [prāk+vat](prāgvat)[sammata+karaḥ](sammatkaras)[tu](tu)[ayam](ayam)
 
 ## mukta-m0-p404-v10081
-[hili+pair](hilidvandvaṃ) [mili+pair](milidvandvaṃ) [gaṅge](gaṅge) [devi](devi) [salutation](namas) [thus](tathā)
+[hili+dvandvam](hilidvandvaṃ) [mili+dvandvam](milidvandvaṃ) [gaṅge](gaṅge) [devi](devi) [namaḥ](namas)[tathā](tathā)
 
 ## mukta-m0-p404-v10082
-[three+two+two+syllable+pair+two+syllables](tridvidvyakṣiyugadvyarṇaiḥ) [six+limb+procedure](ṣaḍaṅgavidhir) [is-declared](īritaḥ)
+[tri+dvi+dvi+akṣi+yuga+dvi+arṇaiḥ](tridvidvyakṣiyugadvyarṇaiḥ) [ṣaṭ+aṅga+vidhiḥ](ṣaḍaṅgavidhir)[īritaḥ](īritaḥ)
 
 ## mukta-m0-p404-v10083
-[to-narmadā](narmadāyai) [salutation](nama) [thus](iti) [six+syllabled](ṣaḍarṇaḥ) [is-declared](parikīrtitaḥ)
+[narmadāyai](narmadāyai) [namaḥ](nama) [iti](iti) [ṣaṭ+arṇaḥ](ṣaḍarṇaḥ) [parikīrtitaḥ](parikīrtitaḥ)
 
 ## mukta-m0-p404-v10084
-[p.-595](p.) [p.-595](595)) [shining+hands](lasaddhastāṃ) [golden+complexion](svarṇakāntiṃ) [with+ornaments](sālaṅkārāṃ) [I-worship](bhajāmyaham)
+[lasat+hastām](lasaddhastāṃ) [svarṇa+kāntim](svarṇakāntiṃ) [sa+alaṅkārām](sālaṅkārāṃ) [bhajāmi](bhajāmy)[aham](aham)
 
 ## mukta-m0-p404-v10085
-[six+limbs](ṣaḍaṅgāni) [ekaikākṣarairhṛdayādinyāsāḥ-yathā-nahṛdayāya-namaḥ-rmaśirase-svāhā-dā-śikhāyai-vaṣaṭ-ityādi-||](ca) [with-mantra+syllables](mantrārṇaiḥ) [one-should-chant](prajapet) [by-syllable+number](varṇasaṅkhyayā)
+[ṣaṭ+aṅgāni](ṣaḍaṅgāni) [ca](ca) [mantra+arṇaiḥ](mantrārṇaiḥ) [prajapet](prajaped)[varṇa+saṅkhyayā](varṇasaṅkhyayā)
 
 ## mukta-m0-p404-v10086
-[here](iha) [happiness](saukhyaṃ) [in-the-other-world](paratrāpi) [in-śiva+world](śivaloke) [one-is-honored](mahīyate)
+[iha](iha) [saukhyam](saukhyaṃ) [paratra](paratrā)[api](pi) [śiva+loke](śivaloke) [mahīyate](mahīyate)
 
 ## mukta-m0-p404-v10087
-[on-sarasvatī+bank](sarasvatītaṭe) [chanted](japtās) [quickly](tvaritaṃ) [success+giving](siddhidāyakāḥ)
+[sarasvatī+taṭe](sarasvatītaṭe) [japtāḥ](japtās)[tvaritam](tvaritaṃ) [siddhi+dāyakāḥ](siddhidāyakāḥ)
 
 ## mukta-m0-p404-v10088
-[of-gaṅgā+word](gaṅgāśabdasya) [before](pūrve) [they](te) [of-godā](godāyā) [mantras](manavaḥ) [are-remembered](smṛtāḥ)
+[gaṅgā+śabdasya](gaṅgāśabdasya) [pūrve](pūrve) [te](te) [godāyāḥ](godāyā) [manavaḥ](manavaḥ) [smṛtāḥ](smṛtāḥ)
 
 ## mukta-m0-p404-v10089
-[o-śrī-kṛṣṇa+sporting+river](śrīkṛṣṇakheladyunadi) [protect](trāhi) [me](māṃ) [you](tvaṃ) [from-existence+ocean](bhavārṇavāt)
+[śrī+kṛṣṇa+khela+dyu+nadi](śrīkṛṣṇakheladyunadi) [trāhi](trāhi) [mām](māṃ) [tvam](tvaṃ) [bhava+arṇavāt](bhavārṇavāt)
 
 ## mukta-m0-p404-v10090
-[meter](chandas) [anuṣṭup](anuṣṭup) [six+limbs](ṣaḍaṅgāni) [by-quarter+half+half+sequence](pādārdhārdhakrameṇa) [and](ca)
+[chandaḥ](chandonuṣṭup)[anuṣṭup]( ) [ṣaṭ+aṅgāni](ṣaḍaṅgāni) [pāda+ardha+ardha+krameṇa](pādārdhārdhakrameṇa) [ca](ca)
+
+## mukta-m0-p404-v10090
+[chandaḥ](chando)[anuṣṭup](nuṣṭup)[ṣaṭ+aṅgāni](ṣaḍaṅgāni) [pāda+ardha+ardha+krameṇa](pādārdhārdhakrameṇa) [ca](ca)
 
 ## mukta-m0-p404-v10091
-[with-sesame+ghee](tilājyābhyāṃ) [should-offer-oblation](hunet) [practitioner](mantrī) [sun](bhāskariṃ) [not](na) [indeed](eva) [sees](vīkṣate)
+[tila+ājyābhyām](tilājyābhyāṃ) [hunet](hunen)[mantrī](mantrī) [bhāskarim](bhāskariṃ) [na](na)[eva](iva) [vīkṣate](vīkṣate)
 
 ## mukta-m0-p404-v10092
-[such-and-such+island+covering+such-and-such+substance+ocean](amukadvīpāvarakāmukadravyodadhe) [one-should-say](vadet)
+[amuka+dvīpa+āvaraka+amuka+dravya+udadhe](amukadvīpāvarakāmukadravyodadhe) [vadet](vadet)
 
 ## mukta-m0-p404-v10093
-[ocean+mantra](samudramantra) [is-declared](uddiṣṭaḥ) [sindhu-dvīpa](sindhudvīpo) [sage](munir) [is-considered](mataḥ)
+[samudra+mantraḥ](samudramantra) [uddiṣṭaḥ](uddiṣṭaḥ) [sindhu+dvīpaḥ](sindhudvīpo) [muniḥ](munir)[mataḥ](mataḥ)
 
 ## mukta-m0-p404-v10094
-[with-words](padair) [of-mantra](manoḥ) [six+limbs](ṣaḍaṅgāni) [that+form](tattadrūpaṃ) [one-should-meditate](vicintayet)
+[padaiḥ](padair)[manoḥ](manoḥ) [ṣaṭ+aṅgāni](ṣaḍaṅgāni) [tat+tat+rūpam](tattadrūpaṃ) [vicintayet](vicintayet)
 
 ## mukta-m0-p404-v10095
-[that+contained](tattadantargataṃ) [thing](vastu) [obtains](labhate) [practitioner](sādhako) [certainly](dhruvam)
+[tat+tat+antargatam](tattadantargataṃ) [vastu](vastu) [labhate](labhate) [sādhakaḥ](sādhako) [dhruvam](dhruvam)
 
 ## mukta-m0-p404-v10096
-[praṇava](tāraṃ) [oṃ-yaṃ-vāyave-prāṇādhipataye-kṛṣṇavarṇāyāṃkuśahastāya-mṛgavāhanāya-namaḥ-||](yaṃ) [oṃ-yaṃ-vāyave-prāṇādhipataye-kṛṣṇavarṇāyāṃkuśahastāya-mṛgavāhanāya-namaḥ-||](vāyave) [oṃ-yaṃ-vāyave-prāṇādhipataye-kṛṣṇavarṇāyāṃkuśahastāya-mṛgavāhanāya-namaḥ-||](prāṇādhipataye) [word](padaṃ) [one-should-say](vadet)
+[tāram](tāraṃ) [yam](yaṃ) [vāyave](vāyave) [prāṇa+adhipataye](prāṇādhipataye) [padam](padaṃ) [vadet](vadet)
 
 ## mukta-m0-p404-v10097
-[ya](ya) [salutation](namo) [go+two+syllabled](godvivarṇo) [this](ayaṃ) [vāyu+mantra](vāyumantra) [is-declared](udīritaḥ)
+[ya](ya) [namaḥ](namo) [go+dvi+varṇaḥ](godvivarṇoyaṃ) [vāyu+mantraḥ](vāyumantra) [udīritaḥ](udīritaḥ)
 
 ## mukta-m0-p404-v10098
-[five+limbs](pañcāṅgāni) [of-mantra](manorasya) [oṃ](oṃ) [yaṃ](yaṃ) [with-seed+etc.+words](bījādikaiḥ) [with-words](padaiḥ)
+[pañca+aṅgāni](pañcāṅgāni) [manoḥ](manor)[asya](asya) [oṃ](oṃ) [yam](yaṃ) [bīja+ādikaiḥ](bījādikaiḥ) [padaiḥ](padaiḥ)
 
 ## mukta-m0-p404-v10099
-[noose+goad+hand](pāśāṃkuśakaram) [corpse+magic+retinue+endowed](pretakṛtyāparisarānvitam)
+[pāśa+aṅkuśa+karam](pāśāṃkuśakarampretakṛtyāparisarānvitam) [preta+kṛtyā+parisara+anvitam]( )
+
+## mukta-m0-p404-v10099
+[pāśa+aṅkuśa+karam](pāśāṃkuśakaram)[preta+kṛtyā+parisara+anvitam](pretakṛtyāparisarānvitam)
 
 ## mukta-m0-p404-v10100
-[accomplished+mantra](siddhamantras) [but](tu) [at-that+time](tatkālam) [becomes](bhavet) [on-earth](bhūmau) [strength+superior](balādhikaḥ)
+[siddha+mantraḥ](siddhamantras)[tu](tu) [tat+kālam](tatkālam)[bhavet](bhaved)[bhūmau](bhūmau) [bala+adhikaḥ](balādhikaḥ)
