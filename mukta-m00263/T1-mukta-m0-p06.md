@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p06-v126
-from-ignorance(ajñānāt) by-karma-bonds(karmapāśaiḥ)+tu(tu) by-nature(prakṛtaiḥ)+is-bound(badhyate) again(punaḥ)
+[from-ignorance](ajñānāt) [by-karma+nooses](karmapāśaiḥ) [indeed](tu) [by-natural-ones](prakṛtaiḥ) [is-bound](badhyate) [again](punaḥ)
 
 ## mukta-m0-p06-v127
-all(sarvaṃ) world(jagat) own-body(svadehaṃ) or(vā) by-supreme-bliss(parānandena) filled(pūritam)
+[all](sarvaṃ) [world](jagat) [own-body](svadehaṃ) [or](vā) [by-supreme-bliss](parānandena) [filled](pūritam)
 
 ## mukta-m0-p06-v128
-not(na) time(kālaḥ) not(na) yama(yamaḥ) any(kaścid) these(etā) childish(bāla) terrors(vibhīṣakāḥ)
+[not](na) [time](kālo) [not](na) [Yama](yamaḥ) [anyone](kaścit) [these](etā) [child](bāla) [terrors](vibhīṣakāḥ)
 
 ## mukta-m0-p06-v129
-from-where(kutaḥ) time(kālaḥ) from-where(kutaḥ) death(mṛtyuḥ) in-hell(narake) punishments(śāsanāḥ) how(katham)
+[whence](kutaḥ) [time](kālaḥ) [whence](kuto) [death](mṛtyuḥ) [in-hell](narake) [punishments](śāsanāḥ) [how](katham)
 
 ## mukta-m0-p06-v130
-body(kāyaṃ) void-like(śūnyamayaṃ) having-made(kṛtvā) not(na) anything(kiñcid)+api(api) should-practice(carcayet)
+[body](kāyaṃ) [emptiness-made](śūnyamayaṃ) [having-made](kṛtvā) [not](na) [anything](kiñcid) [even](api) [one-should-reflect-on](carcayet)
 
 ## mukta-m0-p06-v131
-by-guna-bonds(guṇapāśaiḥ)+are-bound(nibadhyante) fools(mūḍhāḥ) sin-inclined(pāparatāḥ) again(punaḥ)
+[by-quality+nooses](guṇapāśaiḥ) [are-bound](nibadhyante) [fools](mūḍhāḥ) [in-sin+delighting](pāparatāḥ) [again](punaḥ)
 
 ## mukta-m0-p06-v132
-there(tatra) there(tatra) ignorance(ajñā) state(bhāvatvaṃ) of-animals(paśūnāṃ) may-be(syāt) always(sadā)+incense(udūpa)
+[there](tatra) [there](tatra) [ignorance](ajñā) [state-of-being](bhāvatvaṃ) [of-beasts](paśūnāṃ) [may-be](syāt) [always](sadā) [O-Ūpa](udūpa)
 
 ## mukta-m0-p06-v133
-if(yadi) jiva(jīvaḥ) indeed(hi) liberated(muktaḥ)+ca(ca) formless(nīrūpaḥ) space-natured(khasvarūpakaḥ)
+[if](yadi) [soul](jīvo) [indeed](hi) [liberated](muktaḥ) [and](ca) [formless](nīrūpaḥ) [sky+natured](khasvarūpakaḥ)
 
 ## mukta-m0-p06-v134
-this(etat) I-desire(icchāmi) I(ahaṃ) to-hear(śrotuṃ) your(tvat) negligence(pramādāt) skull-bearer(kapāla-bhṛt)
+[this](etat) [desire](icchāmi) [I](ahaṃ) [to-hear](śrotuṃ) [from-your](tvat) [grace](pramādāt) [skull+bearing](kapāla) [O-bearer](bhṛt)
 
 ## mukta-m0-p06-v135
-nature(prakṛtiḥ)+guna-filled(guṇasaṃpūrṇā) dies(mriyate) is-born(jāyate) thus(tathā)
+[nature](prakṛtiḥ) [with-qualities+filled](guṇasaṃpūrṇā) [dies](mriyate) [is-born](jāyate) [likewise](tathā)
 
 ## mukta-m0-p06-v136
-not(na) jiva(jīvaḥ) enjoys(bhuñjate) karma(karma) not(na) and(ca) that(asau) nature(prakṛtiḥ) by-gunas(guṇaiḥ)
+[not](na) [soul](jīvo) [experiences](bhuñjate) [action](karma) [not](na) [and](ca) [this-one](asau) [by-nature+qualities](prakṛtirguṇaiḥ)
 
 ## mukta-m0-p06-v137
-all-knowing(sarvajñaḥ) all-pervading-overseer(sarvagodhyakṣaḥ) space-formed(kharūpī) space-minded(khamanaḥ) space-goer(khagaḥ)
+[all-knowing](sarvajñaḥ) [all+overseer](sarvagodhyakṣaḥ) [sky-formed](kharūpī) [sky-minded](khamanaḥ) [sky-going](khagaḥ)
 
 ## mukta-m0-p06-v138
-they(te) also(pi) delusion(pramoham)+having-obtained(āpannā) jiva(jīvaṃ) in-knowledge-rite(jñānavidhau) always(sadā)
+[they](te) [also](pi) [to-delusion+fallen](pra?mohamāpannā) [soul](jīvaṃ) [in-knowledge+method](jñānavidhau) [always](sadā)
 
 ## mukta-m0-p06-v139
-for-activity(pravṛtyartham) tu(tu) of-beings(bhūtānāṃ) nature-purpose(prakṛtārtham)+not-established(asaṃsthitaḥ)
+[for-activity+purpose](pravṛtyarthaṃ) [indeed](tu) [of-beings](bhūtānāṃ) [in-natural+purpose](prakṛtārtham) [not-established](asaṃsthitaḥ)
 
 ## mukta-m0-p06-v140
-support-earth(ādhāradharaṇī) power(śaktiḥ) headless(śirā) I(ahaṃ) that(sa) formed(rūpiṇī)
+[support+earth](ādhāradharaṇī) [power](śaktiḥ) [without-head](aśirā) [I](ahaṃ) [that](sa) [having-form](rūpiṇī)
 
 ## mukta-m0-p06-v141
-as(yathā) into-house(veśmāntara) gone(gataṃ) sky(nabhaḥ) all-pervading(sarvagataṃ) situated(sthitam)
+[as](yathā) [within-house+gone](veśmāntara) [gone](gataṃ) [sky](nabhaḥ) [all-pervading](sarvagataṃ) [situated](sthitam)
 
 ## mukta-m0-p06-v142
-like-that(tadvat) all-pervading(sarvagataṃ) brahman(brahma) everywhere(sarvatra)+eva(eva) well-situated(susaṃsthitam)
+[so](tad) [like](vat) [all-pervading](sarvagataṃ) [Brahman](brahma) [everywhere](sarvatra) [indeed](eva) [well-established](susaṃsthitam)
 
 ## mukta-m0-p06-v143
-Tarakendra(tārakendra) abandon(tyaja) delusion(bhrāntiṃ) what(kim) else(anyat) say(kathaya) to-me(āmite)
+[O-Tārakendra](tārakendra) [abandon+delusion](tyajabhrāntiṃ) [what](kim) [other](anyat) [I-tell](kathayāmi) [to-you](te)
 
 ## mukta-m0-p06-v144
-by-your-grace(tvat-prasādāt) by-me(mayā) known(jñātaṃ) jiva-characteristic(jīvalakṣaṇam) supreme(uttamam)
+[by-your](tvat) [grace](prasādāt) [by-me](mayā) [known](ājñātaṃ) [soul+characteristic](jīvalakṣaṇam) [supreme](uttamam)
 
 ## mukta-m0-p06-v145
-today(adya) born(jātaḥ)+asmi(asmi) I(ahaṃ) god(deva) by-this-knowledge(jñānena+anena) Bhairava(bhairava)
+[today](adya) [born](jātaḥ) [am](asmi) [I](ahaṃ) [O-god](deva) [by-knowledge](jñānena) [by-this](anena) [O-Bhairava](bhairava)
 
 ## mukta-m0-p06-v146
-pleased(toṣitaḥ) indeed(vai) Mahadeva(mahādevaḥ) by-moon(candreṇa) and(ca) as(yathā) made(kṛtaḥ)
+[satisfied](toṣito) [indeed](vai) [great-god](mahādevaḥ) [by-Candra](candreṇa) [and](ca) [as](yathā) [done](kṛtaḥ)
 
 ## mukta-m0-p06-v147
-knowledge-enjoyer(jñānabhogī) and(ca) from-my-words(madvākyāt) previously-said(pūrvoktam) yā(yā) death-born(mṛtodbhava)
+[knowledge+enjoyer](jñānabhogī) [and](ca) [from-my+word](madvākyāt) [previously-stated](pūrvoktamyā) [from-death+arisen](mṛtodbhava)
 
 ## mukta-m0-p06-v148
-thus-speaking(evamuktvā) when(yadā) god(devaḥ) ceased(virarāma) Maheshvara(maheśvaraḥ)
+[thus](evam) [having-spoken](uktvā) [when](yadā) [god](devo) [ceased](virarāma) [great-lord](maheśvaraḥ)
 
 ## mukta-m0-p06-v149
-to-devotee(bhaktāya) this(idaṃ) to-be-given(pradātavyaṃ) for-faith-giving(śraddhādānāya) to-wise(dhīmate)
+[to-devotee](bhaktāya) [this](idaṃ) [to-be-given](pradātavyaṃ) [to-faith+giving](śraddhādānāya) [to-wise-one](dhīmate)
 
 ## mukta-m0-p06-v150
-he(sa) fool(mūḍhaḥ) always(sarvadā) may-stand(tiṣṭet) with-self-knowledge(ātmajñānena)+united(saṃyutaḥ)
+[that](sa) [fool](mūḍhaḥ) [always](sarvadā) [remains](tiṣṭhet) [with-self+knowledge](ātmajñānena) [not-endowed](asaṃyutaḥ)

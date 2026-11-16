@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p04-v76
-[truth-meaning](tatvārtha) [meditation](manana) [etc](ādyādi) [world](jagat) [protection](trāṇa) [weapon](astram) [is-called](ucyate)
+[principle+meaning](tatvārtham) [without+beginning+etc](ananādyādi) [world+protection+weapon](jagattrāṇāstram) [is-called](ucyate)
 
 ## mukta-m0-p04-v77
-[spoken](vācya) [speaker-ness](vācakatā) [devoid](hīnaṃ) [mind-speech-body](manovākkāya) [accessible](gocaram)
+[expressed+expressive-nature](vācyavācakatā) [devoid-of](hīnaṃ) [mind+speech+body+scope](manovākkāyagocaram)
 
 ## mukta-m0-p04-v78
-[partless](niṣkalaṃ) [supreme](paramaṃ) [truth](tatvam) [endless](anantam) [immovable](acalaṃ) [fixed](dhruvam)
+[partless](niṣkalaṃ) [supreme](paramaṃ) [principle](tatvam) [endless](anantam) [immovable](acalaṃ) [firm](dhruvam)
 
 ## mukta-m0-p04-v79
-[supportless](anādhāraṃ) [self-known](svasaṃvedyam) [abode](adhiṣṭhānaṃ) [supreme-beyond](parātparam)
+[without+support](anādhāraṃ) [self+cognizable](svasaṃvedyam) [foundation](adhiṣṭhānaṃ) [higher-than+the-highest](parātparam)
 
 ## mukta-m0-p04-v80
-[Shiva-truth-this](śivatatvamidaṃ) [declared](proktaṃ) [of-truths](tatvānāṃ) [abiding-destruction](sthityamapatti)
+[śiva+principle](śivatatvam) [this](idaṃ) [declared](proktaṃ) [of-principles](tatvānāṃ) [sthityamapatti](sthityamapatti)
 
 ## mukta-m0-p04-v81
-[for-Shakti-cause](śānimittāyā) [by-own-will](svecchayā) [is-taken](gṛhyate) [body](tanum)
+[*](* ) [*](* ) [*](* ) [without-cause](śānimittāyā) [by-own-will](svecchayā) [is-assumed](gṛhyate) [body](tanum)
 
 ## mukta-m0-p04-v82
-[middle-one](madhyamaikaṃ) [all-one](samastaikam) [thus](ityevaṃ) [twofold](dvividhaṃ) [considered](matam)
+[middle+one](madhyamaikaṃ) [with-all+one](samastaikam) [thus](ityevaṃ) [twofold](dvividhaṃ) [view](matam)
 
 ## mukta-m0-p04-v83
-[rainbow](indrāyudha) [similar-form](samākāraṃ) [supreme-shakti-one-form](parāṃśaktyaikamūrtimāt)
+[rainbow+like-in-form](indrāyudhasamākāraṃ) [supreme+śakti+one+embodied](parāṃśaktyaikamūrtimāt)
 
 ## mukta-m0-p04-v84
-[own-thumb-Brahma](svāṃguṣṭhabrahmaṇā) [equal](tulyaṃ) [above-that](tadūrdhvaṃ) [Shiva-protecting](śivarakṣakam)
+[own+thumb+brahman](svāṃguṣṭhabrahmaṇā) [equal-to](tulyaṃ) [above+that](tadūrdhvaṃ) [śiva+protector](śivarakṣakam)
 
 ## mukta-m0-p04-v85
-[for-accomplishment](siddhyarthaṃ) [of-practitioners](sādhakānāṃ) [indeed](tu) [subtle-form-this](sūkṣmarūpamidaṃ) [supreme](param)
+[for-accomplishment](siddhyarthaṃ) [of-practitioners](sādhakānāṃ) [indeed](tu) [subtle+form](sūkṣmarūpam) [this](idaṃ) [supreme](param)
 
 ## mukta-m0-p04-v86
-[upward-hair](ūrdhvakeśaṃ) [and](ca) [tawny-eyed](piṃgākṣaṃ) [world-protection-maker](viśvarakṣākaraṃ) [supreme](param)
+[upward+hair](ūrdhvakeśaṃ) [and](ca) [tawny+eyed](piṃgākṣaṃ) [universe+protection+making](viśvarakṣākaraṃ) [supreme](param)
 
 ## mukta-m0-p04-v87
-[guru-form-this](gururūpamidaṃ) [to-be-known](jñeyaṃ) [of-Shaivas](śaivānāṃ) [Shiva-form](śivarūpakam)
+[guru+form](gururūpam) [this](idaṃ) [to-be-known](jñeyaṃ) [of-śaivas](śaivānāṃ) [śiva+form](śivarūpakam)
 
 ## mukta-m0-p04-v88
-[guru-body-this](gurudehamidaṃ) [declared](proktaṃ) [creation-body-here-called](sṛṣṭidehamihocyate)
+[guru+body](gurudeham) [this](idaṃ) [declared](proktaṃ) [creation+body](sṛṣṭideham) [here](iha) [is-spoken](ucyate)
 
 ## mukta-m0-p04-v89
-[body-one](tanurekā) [four-faced](caturvaktraṃ) [with-twelve-eyes](netrairdvādaśiryutam)
+[body](tanur) [one](ekā) [four+faced](caturvaktraṃ) [with-eyes](netraiḥ) [twelve](dvādaśibhiḥ) [endowed](yutam)
 
 ## mukta-m0-p04-v90
-[eight-arms](bhujāṣṭaka) [endowed](samopetaṃ) [eight-boons](varaṇāṣṭakasaṃyutam)
+[arms+eight](bhujāṣṭaka) [endowed-with](samopetaṃ) [colors+eight](varaṇāṣṭaka) [joined-with](saṃyutam)
 
 ## mukta-m0-p04-v91
-[axe-trident-endowed](ṭaṃkaśūlayutaṃ) [east](pūrvaṃ) [sword](khaḍgaṃ) [snake](nāgaṃ) [but](tu) [south](dakṣiṇe)
+[hatchet+spear](ṭaṃka+śūla) [endowed](yutaṃ) [in-front](pūrvaṃ) [sword](khaḍgaṃ) [serpent](nāgaṃ) [indeed](tu) [on-right](dakṣiṇe)
 
 ## mukta-m0-p04-v92
-[sky-clad](digambaraṃ) [equal](samaṃ) [god](devaṃ) [four-faced-endowed](caturvaktrasamāyutam)
+[sky+clad](digambaraṃ) [even](samaṃ) [god](devaṃ) [four+face](caturvaktra) [united-with](samāyutam)
 
 ## mukta-m0-p04-v93
-[divine-scent-anointed-limb](divyagandhānuliptāṃgam) [seat](āsanaṃ) [all-around](sarvato) [face](mukham)
+[divine+fragrance](divyagandha) [anointed+limbs](anuliptāṃgam) [seat](āsanaṃ) [all+directions+faced](sarvatomukham)
 
 ## mukta-m0-p04-v94
-[twilight-named](sandhyākhyaṃ) [south](dakṣiṇaṃ) [declared](proktaṃ) [Pinaka](pinākaṃ) [west](paścimaṃ) [becomes](bhavet)
+[sandhyā+named](sandhyākhyaṃ) [southern](dakṣiṇaṃ) [declared](proktaṃ) [bow](pinākaṃ) [western](paścimaṃ) [shall-be](bhavet)
 
 ## mukta-m0-p04-v95
-[will-knowledge-action-shakti](icchājñānakriyāśakti) [Sadasiva-named](sanmesādākhya) [arises](saṃbhavet)
+[will+knowledge+action+power](icchājñānakriyāśakti) [sanmesādākhya](sanmesādākhya) [arises](saṃbhavet)
 
 ## mukta-m0-p04-v96
-[peace](śaṃ) [chowrie-endowed](cāmarānvitam)
+[*](* ) [*](* ) [*](* ) [*](* ) [*](* ) [*](* ) [*](* ) [*](* ) [*](* ) [*](* ) [śaṃ](śaṃ) [with-chowries](cāmarānvitam)
 
 ## mukta-m0-p04-v97
-[will-knowledge-action](icchājñānakriyā) [shakti](śaktiḥ) [same](same) [Sadasiva](sādākhya) [arises](saṃbhavet)
+[will+knowledge+action](icchājñānakriyā) [power](śaktiḥ) [in-same](same) [sādākhya](sādākhya) [arises](saṃbhavet)
 
 ## mukta-m0-p04-v98
-[matted-hair-crown-adorned](jaṭāmakuṭamaṇḍitam)
+[*](* ) [*](* ) [*](* ) [*](* ) [*](* ) [*](* ) [ra](ra) [matted-hair+crown](jaṭāmakuṭa) [adorned](maṇḍitam)
 
 ## mukta-m0-p04-v99
-[will-knowledge-action-shakti](icchājñānakriyāśaktiḥ) [same](same) [Sadasiva](sādākhya) [arising](saṃbhavam)
+[will+knowledge+action+power](icchājñānakriyāśaktiḥ) [in-same](same) [sādākhya](sādākhya) [arising](saṃbhavam)
 
 ## mukta-m0-p04-v100
-[all-ornament](sarvābharaṇa) [joined](saṃyuktaṃ) [all-garlands](sarvamālā) [endowed](samanvitam)
+[all+ornament](sarvābharaṇa) [endowed-with](saṃyuktaṃ) [all+garlands](sarvamālā) [accompanied-by](samanvitam)

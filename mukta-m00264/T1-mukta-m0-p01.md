@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p01-v1
-again-indeed hear-desire-I essence-from-more-essential supreme
+[again](punar) [indeed](hi) [to-hear](śrotum) [I-wish](icchāmi) [from-essence](sārāt) [more-essential](sārataraṃ) [supreme](param)
 
 ## mukta-m0-p01-v2
-speak-to-me thing true-nature favor do trident-bearer
+[speak](vada) [to-me](me) [reality](vastu) [true-nature](sadbhāvaṃ) [grace](prasādaṃ) [do](kuru) [trident-bearer](śūla+bhṛt)
 
 ## mukta-m0-p01-v3
-for-that-purpose I-will-explain your-affection O-great-lady
+[for-that-purpose](tadarthaṃ) [I-shall-declare](saṃpravakṣyāmi) [by-your-affection](tava+snehāt) [O-great-goddess](maheśvari)
 
 ## mukta-m0-p01-v4
-who that peaceful indeed-unborn god power-support indeed-formless
+[who](yo) [that](asau) [peaceful](śānto) [unborn](hi+ajo) [god](devaḥ) [power-support](śaktyādhāro) [without-form](hi+avigrahaḥ)
 
 ## mukta-m0-p01-v5
-and and-this supreme-swan he indeed god eternal
+[and](ca) [and](ca+eṣa) [supreme-swan](paramohaṃsaḥ) [he](sa) [indeed](vai) [god](devaḥ) [eternal](sanātanaḥ)
 
 ## mukta-m0-p01-v6
-Sadashiva supreme-abode liberator Brahman indeed and
+[Sadāśiva](sadāśivaḥ) [supreme-abode](paraṃdhāma) [savior](tārakaṃ) [Brahman](brahma) [indeed](eva) [and](ca)
 
 ## mukta-m0-p01-v7
-ignorance and-indeed that-field of-knowers without-vow situated
+[ignorance](ajñānaṃ) [and](ca+eva) [that-field](tat+kṣetraṃ) [of-the-knowers](jñāninām) [without-vow](avrataḥ) [situated](sthitam)
 
 ## mukta-m0-p01-v8
-teacher-state going he indeed seen not but indicated
+[guru-state](gurvavasthā) [going](gamaḥ) [he](so) [indeed](hi) [is-seen](dṛśyate) [not](na) [but](tu) [is-characterized](lakṣyate)
 
 ## mukta-m0-p01-v9
-he external-internal-situated indeed pulsates of-all-embodied
+[he](sa) [outside-inside-situated](bāhyābhyantarastho) [indeed](hi) [vibrates](spandate) [of-all-embodied-beings](sarvadehinām)
 
 ## mukta-m0-p01-v10
-unmanifest manifest-form and ungraspable and moving-immovable
+[unmanifest](avyakto) [manifest-form](vyaktarūpaśca) [and](ca) [ungraspable](agrāhyaśca) [moving-and-unmoving](calācalaḥ)
 
 ## mukta-m0-p01-v11
-radiance-formed indeed lord in-heart-space indeed situated supreme
+[light-form](tejorūpī) [indeed](hi) [lord](bhagavān) [in-heart-sky](hṛdvyomne) [situated](avasthitaḥ) [supreme](paraḥ)
 
 ## mukta-m0-p01-v12
-pure crystal-like split in-space but space-like
+[pure-crystal-resembling](śuddha+sphaṭikasaṅkāśaṃ) [divided](bhinnaṃ) [in-sky](vyomni) [but](tu) [like-sky](vyomavat)
 
 ## mukta-m0-p01-v13
-by-bee resembling ha-syllable headless-struck
+[by-bee](bhramareṇa) [resembling](pratīkāśaṃ) [ha-syllable](hakāram) [head-struck](aśirāhatam)
 
 ## mukta-m0-p01-v14
-perfected-thus certainly that in-that and like flowers sees
+[it-succeeds](siddhoti) [indeed](nūnaṃ) [that](tat) [in-that](tasmiñ) [Śiva](civa) [flowers](puṣpāṇi) [one-sees](paśyati)
 
 ## mukta-m0-p01-v15
-various-forms by-division seen supreme-lord
+[by-various-form-division](nānākāra+vibhāgena) [is-seen](dṛśyate) [supreme-lord](parameśvaraḥ)
 
 ## mukta-m0-p01-v16
-true-space-light-form that one roars he repeatedly
+[true-sky-light-form](sadvyoma+jyotirūposau) [resounds](nadate) [he](sa) [again-and-again](muhur+muhuḥ)
 
 ## mukta-m0-p01-v17
-sin-destroyer to-you goddess not anywhere womb-born
+[sin-destroying](aghaṃśamaya) [to-you](te) [O-goddess](devi) [not](na) [anywhere](kvacid) [womb-born](yoni+sambhavaḥ)
 
 ## mukta-m0-p01-v18
-his and last birth swan visible O-beautiful-faced
+[of-him](tasya) [and](ca) [western-birth](apaścimaṃ+janma) [swan](haṃso) [visible](dṛśyo) [O-fair-faced-one](varānane)
 
 ## mukta-m0-p01-v19
-destroyed and his actions in-that seen beyond-near
+[are-destroyed](kṣīyante) [and](ca+asya) [karmas](karmāṇi) [in-that](tasmin) [seen](dṛṣṭe) [higher-and-lower](parāpare)
 
 ## mukta-m0-p01-v20
-on-earth not-is that substance which giving wandering ? vet
+[on-earth](pṛthivyāṃ) [not](nāsti) [that](tad) [substance](dravyaṃ) [which](yad) [having-given](datvā) [wandering](cāriṇī) [*](*) [?](?) [may-know](vet)
 
 ## mukta-m0-p01-v21
-time-mark-knowledge not in-downward-paths of-yogis
+[time-sign-knowledge](kāla+cihna+parijñānaṃ) [not](na) [to-lower-destinations](adhogatiṣu) [of-yogins](yoginām)
 
 ## mukta-m0-p01-v22
-him seen even long goddess rebirth not exists
+[him](taṃ) [having-seen](dṛṣṭvā) [even](api) [for-long](ciraṃ) [O-goddess](devi) [again-birth](punar+janma) [not](na) [exists](vidyate)
 
 ## mukta-m0-p01-v23
-red when body know yellow and of-meaning origin
+[red](rakto) [when](yadā) [body](tanur) [one-should-know](vidyāt) [in-yellow](pīte) [and](ca) [of-wealth](arthasya) [arising](sambhavaḥ)
 
 ## mukta-m0-p01-v24
-abundance and in-movement and scarcity in-beak bondage
+[abundance](subhikṣaṃ) [and](ca) [in-movement](pracāre) [and](ca) [famine](durbhikṣaṃ) [in-beak-contraction](cañcu+bandhane)
 
 ## mukta-m0-p01-v25
-palms water-filled meditate wise
+[cupped-hands](añjaliṃ) [with-water-filled](vāripūrṇāyāṃ) [one-should-visualize](bhāvayeta) [the-wise-one](vicakṣaṇaḥ)
