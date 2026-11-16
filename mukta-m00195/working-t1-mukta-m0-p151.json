@@ -12,7 +12,7 @@
 },
 {
 "surface": "agurubhiḥ",
-"quick_gloss": "with+non-gurus"
+"quick_gloss": "with-non-gurus"
 },
 {
 "surface": "sārddhaṃ",
@@ -27,8 +27,8 @@
 "quick_gloss": "should-marry"
 },
 {
-"surface": "tatkulodbhavām",
-"quick_gloss": "of-that+family+born"
+"surface": "tat+kula+udbhavām",
+"quick_gloss": "born-in-that-family"
 }
 ]
 },
@@ -40,12 +40,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "ubhaya",
-"quick_gloss": "from-both"
-},
-{
-"surface": "cyuta",
-"quick_gloss": "fallen"
+"surface": "ubhaya+cyutaḥ",
+"quick_gloss": "fallen-from-both"
 },
 {
 "surface": "eva",
@@ -82,11 +78,11 @@
 },
 {
 "surface": "eva",
-"quick_gloss": "indeed"
+"quick_gloss": "alone"
 },
 {
 "surface": "hi",
-"quick_gloss": "for"
+"quick_gloss": "indeed"
 },
 {
 "surface": "kāraṇam",
@@ -106,16 +102,12 @@
 "quick_gloss": "should-be"
 },
 {
-"surface": "anubhūya",
-"quick_gloss": "having-experienced"
+"surface": "anubhūyāt",
+"quick_gloss": "should-experience"
 },
 {
-"surface": "tat",
-"quick_gloss": "by-that"
-},
-{
-"surface": "ājñayā",
-"quick_gloss": "by-command"
+"surface": "tat+ājñayā",
+"quick_gloss": "by-his-command"
 }
 ]
 },
@@ -136,7 +128,7 @@
 },
 {
 "surface": "kravyādaiḥ",
-"quick_gloss": "by-flesh-eaters"
+"quick_gloss": "by-carnivores"
 },
 {
 "surface": "sa",
@@ -156,28 +148,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "guru",
-"quick_gloss": "guru"
-},
-{
-"surface": "mitra",
-"quick_gloss": "friend"
-},
-{
-"surface": "suhṛt",
-"quick_gloss": "well-wisher"
-},
-{
-"surface": "dāsa",
-"quick_gloss": "servant"
-},
-{
-"surface": "dāsyā",
-"quick_gloss": "maidservant"
-},
-{
-"surface": "ādīn",
-"quick_gloss": "and-others"
+"surface": "guru+mitra+suhṛt+dāsa+dāsyā+ādīn",
+"quick_gloss": "guru-friend-wellwisher-servant-maidservant-etc"
 },
 {
 "surface": "na",
@@ -205,8 +177,8 @@
 "quick_gloss": "not"
 },
 {
-"surface": "anābhogāya",
-"quick_gloss": "for-various+enjoyments"
+"surface": "nānā+bhogāya",
+"quick_gloss": "for-various-enjoyments"
 },
 {
 "surface": "kāmayet",
@@ -244,18 +216,18 @@
 "tokens": [
 {
 "surface": "svayaṃ",
-"quick_gloss": "himself"
+"quick_gloss": "oneself"
 },
 {
-"surface": "śakto",
-"quick_gloss": "able"
+"surface": "śaktaḥ",
+"quick_gloss": "capable"
 },
 {
 "surface": "na",
 "quick_gloss": "not"
 },
 {
-"surface": "aparaṃ",
+"surface": "aparam",
 "quick_gloss": "another"
 },
 {
@@ -264,7 +236,7 @@
 },
 {
 "surface": "kvacit",
-"quick_gloss": "anywhere"
+"quick_gloss": "ever"
 }
 ]
 },
@@ -296,10 +268,6 @@
 "quick_gloss": "drinking"
 },
 {
-"surface": "ca",
-"quick_gloss": "and"
-},
-{
 "surface": "cintayet",
 "quick_gloss": "should-think-of"
 },
@@ -322,7 +290,7 @@
 },
 {
 "surface": "vidyā",
-"quick_gloss": "by-learning"
+"quick_gloss": "by-knowledge"
 },
 {
 "surface": "dhana",
@@ -342,16 +310,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "go",
-"quick_gloss": "cow"
-},
-{
-"surface": "brāhmaṇa",
-"quick_gloss": "brahmin"
-},
-{
-"surface": "vadhaṃ",
-"quick_gloss": "killing"
+"surface": "go+brāhmaṇa+vadhaṃ",
+"quick_gloss": "cow-brahmin-killing"
 },
 {
 "surface": "kṛtvā",
@@ -371,7 +331,7 @@
 },
 {
 "surface": "avāpnuyāt",
-"quick_gloss": "one-obtains"
+"quick_gloss": "would-obtain"
 }
 ]
 },
@@ -383,8 +343,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "vidyā",
-"quick_gloss": "knowledge"
+"surface": "vidhyā",
+"quick_gloss": "for-instruction"
 },
 {
 "surface": "āsanaṃ",
@@ -399,12 +359,8 @@
 "quick_gloss": "of-others"
 },
 {
-"surface": "sama",
-"quick_gloss": "same"
-},
-{
-"surface": "āsanam",
-"quick_gloss": "seat"
+"surface": "sama+āsanam",
+"quick_gloss": "same-seat"
 }
 ]
 },
@@ -416,12 +372,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "daṇḍa",
-"quick_gloss": "staff"
-},
-{
-"surface": "praṇāmaṃ",
-"quick_gloss": "prostration"
+"surface": "daṇḍa+praṇāmaṃ",
+"quick_gloss": "prostrate-obeisance"
 },
 {
 "surface": "kṛtvā",
@@ -490,12 +442,8 @@
 "quick_gloss": "of-others"
 },
 {
-"surface": "bāhya",
-"quick_gloss": "external"
-},
-{
-"surface": "vandanam",
-"quick_gloss": "salutation"
+"surface": "bāhya+vandanam",
+"quick_gloss": "external-salutation"
 }
 ]
 },
@@ -507,24 +455,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "vidyā",
-"quick_gloss": "knowledge"
+"surface": "vidyā+adhikān",
+"quick_gloss": "superior-in-learning"
 },
 {
-"surface": "adhikān",
-"quick_gloss": "superior"
-},
-{
-"surface": "sva",
-"quick_gloss": "own"
-},
-{
-"surface": "karma",
-"quick_gloss": "duty"
-},
-{
-"surface": "sthān",
-"quick_gloss": "established"
+"surface": "sva+karma+sthān",
+"quick_gloss": "established-in-own-duty"
 },
 {
 "surface": "śrotriyān",
@@ -532,7 +468,7 @@
 },
 {
 "surface": "praṇamet",
-"quick_gloss": "should-bow-to"
+"quick_gloss": "should-bow"
 },
 {
 "surface": "sadā",
@@ -561,11 +497,11 @@
 },
 {
 "surface": "anāśramasthaṃ",
-"quick_gloss": "not-in-any-stage-of-life"
+"quick_gloss": "not-established-in-stage-of-life"
 },
 {
 "surface": "namet",
-"quick_gloss": "should-bow"
+"quick_gloss": "should-not-bow"
 },
 {
 "surface": "na",
@@ -618,16 +554,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "krośa",
-"quick_gloss": "krośa"
-},
-{
-"surface": "mātra",
-"quick_gloss": "measure"
-},
-{
-"surface": "sthitaḥ",
-"quick_gloss": "situated"
+"surface": "krośa+mātra+sthitaḥ",
+"quick_gloss": "at-distance-of-a-krośa"
 },
 {
 "surface": "bhaktyā",
@@ -639,7 +567,7 @@
 },
 {
 "surface": "pratidinaṃ",
-"quick_gloss": "daily"
+"quick_gloss": "every-day"
 },
 {
 "surface": "namet",
@@ -655,16 +583,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "yojana",
-"quick_gloss": "yojana"
-},
-{
-"surface": "dvādaśa",
-"quick_gloss": "twelve"
-},
-{
-"surface": "avadhi",
-"quick_gloss": "up-to"
+"surface": "yojana+dvādaśa+avadhi",
+"quick_gloss": "up-to-twelve-yojanas"
 }
 ]
 },
@@ -676,28 +596,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "tat",
-"quick_gloss": "each"
+"surface": "tat+tat+yojana+saṃkhyākam",
+"quick_gloss": "according-to-that-number-of-yojanas"
 },
 {
-"surface": "tat",
-"quick_gloss": "each"
-},
-{
-"surface": "yojana",
-"quick_gloss": "yojana"
-},
-{
-"surface": "saṃkhyākam",
-"quick_gloss": "number"
-},
-{
-"surface": "māseṣu",
+"surface": "āseṣu",
 "quick_gloss": "in-months"
 },
 {
 "surface": "praṇamet",
-"quick_gloss": "should-bow-to"
+"quick_gloss": "should-bow"
 },
 {
 "surface": "gurum",
@@ -755,11 +663,11 @@
 },
 {
 "surface": "brahmarākṣasatāṃ",
-"quick_gloss": "brahma-rākṣasa-hood"
+"quick_gloss": "state-of-brahmarākṣasa"
 },
 {
 "surface": "vrajet",
-"quick_gloss": "would-go-to"
+"quick_gloss": "would-go"
 }
 ]
 },
@@ -776,7 +684,7 @@
 },
 {
 "surface": "putravat",
-"quick_gloss": "like-son"
+"quick_gloss": "like-a-son"
 },
 {
 "surface": "paripālakaḥ",
