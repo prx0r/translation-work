@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p57-v1401
-[punarvasu-anurādhā](punarvasvanurādhā) [and](ca) [citrā](citrā) [jyeṣṭhā](jyeṣṭhā) [king](mahībhuji)
+[punarvasu+anurādhā](punarvasvanurādhā) [ca](ca) [citrā](citrā) [jyeṣṭhā](jyeṣṭhā) [mahī+bhuji](mahībhuji)
 
 ## mukta-m0-p57-v1402
-[aśvinī](aśvinī) [revatī](revatī) [śūdra](śūdre) [svātī-phalgunī-pair](svātīphalgunikādvayam)
+[aśvinī](aśvinī) [revatī](revatī) [śūdre](śūdre) [svātī+phalgunikā+dvayam](svātīphalgunikādvayam)
 
 ## mukta-m0-p57-v1403
-[these](ete) [skilled](pravīṇa[mū, a, gh: pravaṇi]) [people's](lokānāṃ) [four-only](catvāryevāntyaje) [and](tathā)
+[ete](ete) [pravīṇa+lokānām](pravīṇa[mū, a, gh: pravaṇi]lokānāṃ) [catvāri](catvāry) [eva](eva) [antyaje](antyaje) [tathā](tathā)
 
 ## mukta-m0-p57-v1404
-[hastā](hastā) [success-giving](siddhipradā) [liṅga](liṅge) [life-giving-aśāḍha-pair](āyurdāṣāḍhayugmakam)
+[hastā](hastā) [siddhi+pradā](siddhipradā) [liṅge](liṅge) [āyus+dā](āyurdā) [āṣāḍhā+yugmakam](āṣāḍhayugmakam)
 
 ## mukta-m0-p57-v1405
-[citrā](citrātvarthasukhaṃ) [quick-wealth-happiness](citrātvarthasukhaṃ) [always](nityaṃ) [jyeṣṭhā](jyeṣṭhā) [disease-destruction-maker](rogavināśakṛt)
+[citrāt](citrāt) [tu](tu) [artha+sukham](artha+sukhaṃ) [nityam](nityaṃ) [jyeṣṭhā](jyeṣṭhā) [roga+vināśa+kṛt](rogavināśakṛt)
 
 ## mukta-m0-p57-v1406
-[pair-bhadra-giving](yugmabhādrapradā) [growth](vṛddhiṃ) [many-friends](bahumitrāṇi) [and-aśvinī](cāśvinī)
+[yugma+bhādra+pradā](yugmabhādrapradā) [vṛddhim](vṛddhiṃ) [bahu+mitrāṇi](bahumitrāṇi) [ca](ca) [aśvinī](aśvinī)
 
 ## mukta-m0-p57-v1407
-[phalgunī-pair](phalgunīdvitayaṃ) [growth](vṛddhiṃ) [bharanī](bharaṇī) [enemy-splitting-giving](ripubhedadā)
+[phalgunī+dvitayam](phalgunīdvitayaṃ) [vṛddhim](vṛddhiṃ) [bharaṇī](bharaṇī) [ripu+bheda+dā](ripubhedadā) [k, kh, gh: ripubhedam](ripubhedadā)
 
 ## mukta-m0-p57-v1408
-[mṛga](mṛga) [peace-giving](śāntiprado) [always](nityaṃ) [fortunate](dhanyā) [śatabhiṣak-outcaste](śatabhiṣāntyaje)
+[mṛga](mṛga) [śānti+pradaḥ](śāntiprado) [nityam](nityaṃ) [dhanyā](dhanyā) [śatabhiṣā](śatabhiṣā) [antyaje](antyaje)
 
 ## mukta-m0-p57-v1409
-[auspicious](śasto) [jīva](jīvo) [in-nine-growth](navarddhīṣu) [in-seven-places](saptasthāneṣu) [always](sarvadā)
+[śastaḥ](śasto) [jīvaḥ](jīvo) [nava+ṛddhiṣu](navarddhīṣu) [sapta+sthāneṣu](saptasthāneṣu) [sarvadā](sarvadā)
 
 ## mukta-m0-p57-v1410
-[in-seven-seasons-three-etc-placed](saptartutriśādisthaḥ) [moon](śaśāṅko) [strength-giving](baladastathā) [and](baladastathā)
+[sapta+ṛtu+triśa+ādi+sthaḥ](saptartutriśādisthaḥ) [śaśāṅkaḥ](śaśāṅko) [bala+daḥ](baladastathā) [tathā](baladastathā)
 
 ## mukta-m0-p57-v1411
-[in-six-three-places-gone](ṣaṭtristhānagataḥ) [auspicious](śastā[mū, a, k, g, ṅ: śreṣṭhā]) [saturn-mars-comets](mandāṅgārakaketavaḥ)
+[ṣaṭ+tri+sthāna+gataḥ](ṣaṭtristhānagataḥ) [śastā](śastā[mū, a, k, g, ṅ: śreṣṭhā]) [manda+aṅgāraka+ketavaḥ](mandāṅgārakaketavaḥ)
 
 ## mukta-m0-p57-v1412
-[of-these](eṣāṃ) [sight](dṛṣṭirmunauṃ) [full](pūrṇā) [half](tvārddhikī) [planetary-beings](grahabhūtayoḥ)
+[eṣām](eṣāṃ) [dṛṣṭiḥ](dṛṣṭirmunauṃ) [munau](dṛṣṭirmunauṃ) [pūrṇā](pūrṇā) [tu](tu) [ārdhikī](ārdhikī) [graha+bhūtayoḥ](grahabhūtayoḥ)
 
 ## mukta-m0-p57-v1413
-[second](dvitīyā) [prosperity-named](saṃpadākhyā) [and](tu) [fourth](caturthī) [welfare-named](kṣemasaṃjñitā)
+[dvitīyā](dvitīyā) [sampad+ākhyā](saṃpadākhyā) [tu](tu) [caturthī](caturthī) [kṣema+saṃjñitā](kṣemasaṃjñitā) [gh: saṃjñikā](kṣemasaṃjñitā)
 
 ## mukta-m0-p57-v1414
-[ninth](navamī) [and-very-friendly](cātimitrā) [may-be](syādetāḥ) [these](etāḥ) [five](pañca) [strength-giving](balapradāḥ)
+[navamī](navamī) [ca](ca) [ati+mitrā](atimitrā) [syāt](syādetāḥ) [etāḥ](syādetāḥ) [pañca](pañca) [bala+pradāḥ](balapradāḥ)
 
 ## mukta-m0-p57-v1415
-[growth](vṛddhiḥ) [success](siddhirdhravaḥ) [fixed](sādhyo) [achievable](varīyāñchi[mū, a, g: ñchubha]) [vaśulka](vaśulkakau)
+[vṛddhiḥ](vṛddhiḥ) [siddhiḥ](siddhirdhravaḥ) [dhruvaḥ](siddhirdhravaḥ) [sādhyaḥ](sādhyo) [varīyān](varīyāñchi[mū, a, g: ñchubha]) [śiva](varīyāñchi[mū, a, g: ñchubha]) [śulka+kau](śulkakau)
 
 ## mukta-m0-p57-v1416
-[cava](cava) [and](ca) [bālava](bālavaṃ) [cava](cava) [kaulava](kaulavaṃ) [taitila](taitilaṃ) [and](tathā)
+[cava](cava) [ca](ca) [bālavaṃ](bālavaṃ) [cava](cava) [kaulavaṃ](kaulavaṃ) [taitilaṃ](taitilaṃ) [tathā](tathā)
 
 ## mukta-m0-p57-v1417
-[nāga](nāgaṃ) [kiṃstughna](kiṃstughnamarthāya) [for-wealth](arthāya) [viṣṭi-free](viṣṭihīnaṃ) [and](tu) [fortnights](pakṣayoḥ)
+[nāgaṃ](nāgaṃ) [kiṃstughnam](kiṃstughnam) [arthāya](arthāya) [viṣṭi+hīnaṃ](viṣṭihīnaṃ) [tu](tu) [pakṣayoḥ](pakṣayoḥ)
 
 ## mukta-m0-p57-v1418
-[taurus-aquarius](vṛṣakumbhau) [and](tu) [enjoy](bhuñjāte) [four](catasraḥ) [feet-excluding](pādavarjitāḥ)
+[vṛṣa+kumbhau](vṛṣakumbhau) [tu](tu) [bhuñjāte](bhuñjāte) [catasraḥ](catasraḥ) [pāda+varjitāḥ](pādavarjitāḥ)
 
 ## mukta-m0-p57-v1419
-[quarter-less](pādonāḥ) [six](ṣaṭ) [libra-virgo](tulākanye) [ghaṭikās](ghaṭikāḥ) [with-half-five](sārdhapañca) [and](tu)
+[pāda+ūnāḥ](pādonāḥ) [ṣaṭ](ṣaṭ) [tulā+kanye](tulākanye) [ghaṭikāḥ](ghaṭikāḥ) [sārdha+pañca](sārdhapañca) [tu](tu)
 
 ## mukta-m0-p57-v1420
-[movable](caraṃ) [sagittarius-libra-aries](dhanustulāmeṣāḥ) [prior-pair](prāgyugmaṃ) [pisces-virgo](mīnakanyake)
+[caram](caraṃ) [dhanuḥ+tulā+meṣāḥ](dhanustulāmeṣāḥ) [prāk+yugmam](prāgyugmaṃ) [mīna+kanyake](mīnakanyake)
 
 ## mukta-m0-p57-v1421
-[fixed](sthiraḥ) [auspicious-planets-seen](śubhagrahairdṛṣṭaḥ) [auspicious](śasto) [ascendant](lagnaḥ) [auspicious-supported](śubhāśritaḥ)
+[sthiraḥ](sthiraḥ) [śubha+grahaiḥ](śubhagrahair) [dṛṣṭaḥ](dṛṣṭaḥ) [śastaḥ](śasto) [lagnaḥ](lagnaḥ) [śubha+āśritaḥ](śubhāśritaḥ)
 
 ## mukta-m0-p57-v1422
-[kingdom](rājya) [happiness](saukhya) [wealth](dhanaṃ) [sons](putrān) [fame](yaśā) [dharma-etc](dharmādikaṃ) [much](bahu)
+[rājyam](rājya) [saukhyam](saukhya) [dhanam](dhanaṃ) [kh, gh: balam](dhanaṃ) [putrān](putrān) [yaśaḥ](yaśā) [dharma+ādikam](dharmādikaṃ) [bahu](bahu)
 
 ## mukta-m0-p57-v1423
-[jupiter-venus-mercury](guruśukrabudhāstatra) [there](tatra) [all-success-giving](sarvasiddhipradāyakāḥ)
+[guru+śukra+budhāḥ](guruśukrabudhāḥ) [tatra](tatra) [sarva+siddhi+pradāyakāḥ](sarvasiddhipradāyakāḥ)
 
 ## mukta-m0-p57-v1424
-[therefore](ato'nye'niṣṭakāryārthe) [others](ato'nye'niṣṭakāryārthe) [inauspicious-work-purpose](ato'nye'niṣṭakāryārthe) [to-be-used](yojyāstithyādayo) [tithi-etc](tithyādayo) [by-wise](budhaiḥ)
+[ataḥ](ato'nye'niṣṭakāryārthe) [anye](ato'nye'niṣṭakāryārthe) [aniṣṭa+kārya+arthe](ato'nye'niṣṭakāryārthe) [mū, a, g, gh: ato'niṣṭakakarmārthe](ato'nye'niṣṭakāryārthe) [yojyāḥ](yojyāstithyādayo) [tithi+ādayaḥ](yojyāstithyādayo) [budhaiḥ](budhaiḥ)
 
 ## mukta-m0-p57-v1425
-[good-ascendant](sulagne) [and](ca) [great-enjoyment](mahābhogo) [equinox](viṣuve) [desired](cepsitaṃ) [fruit](phalam)
+[su+lagne](sulagne) [ca](ca) [mahā+bhogaḥ](mahābhogo) [viṣuve](viṣuve) [ca](ca) [īpsitam](īpsitaṃ) [phalam](phalam)

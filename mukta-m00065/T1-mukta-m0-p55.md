@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p55-v1351
-[one](eka) [and](ca) [broad](pravistārā) [plate](paṭṭikā) [square](caturasrikā)
+[by-one](ekena) [high](uccā) [broad](pravistārā) [strip](paṭṭikā) [four-cornered](caturasrikā)
 
 ## mukta-m0-p55-v1352
-[of-wheel](cakrasya) [seat](āsanam) [thus](evaṃ) [tu](tu) [rays](raśmayaḥ) [around](paritas) [there](tataḥ)
+[of-the-disc](cakrasya) [seat](āsanam) [thus](evaṃ) [indeed](tu) [spokes](raśmayaḥ) [all-around](paritaḥ) [then](tataḥ)
 
 ## mukta-m0-p55-v1353
-[from-whirling](bhramāt) [lotus-bud-like](abjakalī) [wheel](cakram) [middle](madhye) [placed](vyavasthitā)
+[from-rotation](bhramāt) [lotus](abja) [bud](kalī) [resembling](prakhyā) [in-the-middle](cakramadhye) [situated](vyavasthitā)
 
 ## mukta-m0-p55-v1354
-[eight](aṣṭau) [numbers](saṃkhyāḥ) [to-be-made](prakartavyāḥ) [side](pārśve) [and](ca) [eva](eva) [other](apare) [thus](tathā)
+[eight](aṣṭau) [in-number](saṃkhyāḥ) [should-be-made](prakartavyāḥ) [on-the-side](pārśve) [and](ca) [indeed](eva) [others](apare) [likewise](tathā)
 
 ## mukta-m0-p55-v1355
-[between](antaraḥ) [sword-and-noose](kṛpāṇa+pāśa) [sudarśana](sudarśanaṃ) [of-hari](harer) [let-draw](likhet)
+[of-sword](kṛpāṇa) [and-noose](pāśayoḥ) [within](antaḥ) [the-Sudarśana](sudarśanaṃ) [of-Hari](hareḥ) [one-should-draw](likhet)
 
 ## mukta-m0-p55-v1356
-[east-facing](prāk+śiraska) [mace-staffs](gadā+daṇḍau) [own-parts](sva+bhāgaiḥ) [portion-accomplishment](aṃśa+sādhanam)
+[east](prāk) [facing](śiraskau) [mace](gadā) [and-staff](daṇḍau) [by-own-parts](svabhāgaiḥ) [portion](aṃśa) [accomplishment](sādhanam)
 
 ## mukta-m0-p55-v1357
-[to-be-known](jñeyaṃ) [trident-etc-wheel-ended](śūla+ādi+cakra+antaṃ) [that-direction-power-self](tad+dik+kānti+bala+ātmakam)
+[to-be-known](jñeyaṃ) [beginning-with-trident](śūlādi) [ending-with-disc](cakrāntaṃ) [that](tat) [direction](dik) [extending](kānta) [strength](bala) [consisting-of](ātmakam)
 
 ## mukta-m0-p55-v1358
-[spoken](uktāni) [weapons](astrāṇi) [arrow-named](bāṇa+ākhyā) [bell-etc](ghaṇṭa+ādi) [as](yathā) [will-say](vakṣyate)
+[mentioned](uktāni) [weapons](astrāṇi) [called-arrow](bāṇākhyā) [bell](ghaṇṭā) [elephant](ibha) [and-so-forth](ādi) [as](yathā) [will-be-told](vakṣyate)
 
 ## mukta-m0-p55-v1359
-[half-part](bhāga+ardhena) [petal](dalaṃ) [make](kuryāt) [round-square](vṛtta+asraṃ) [broad-plate](bṛtta+paṭṭike)
+[by-half-a-part](bhāgārdhena) [petal](dalaṃ) [one-should-make](kuryāt) [circular](vṛttāsraṃ) [on-the-circular-strip](bṛttapaṭṭike)
 
 ## mukta-m0-p55-v1360
-[from-neck](grīvāt) [or](vā) [half-breadth](vistarārdhāt) [vā](vā) [shoulder-half-portion-exit](skandhārdha+aṃśa+vinirgamau)
+[from-the-neck](grīvāt) [or](vā) [from-half-the-width](vistarārdhāt) [or](vā) [from-half-the-shoulder](skandhārdha) [portion](aṃśa) [projections](vinirgamau)
 
 ## mukta-m0-p55-v1361
-[quarter-breadth](catur+bhāga+pravistārau) [half-part-wing-with](bhāga+ardha+pakṣayoḥ+yutaḥ)
+[four](catur) [parts](bhāga) [wide](pravistārau) [with-half-a-part](bhāgārdha) [wings](pakṣayoḥ) [joined](yutaḥ)
 
 ## mukta-m0-p55-v1362
-[height-half](ucchrāya+ardhaṃ) [tu](tu) [breadth](vistārā) [three-plates](paṭṭikā+tritayānvitā)
+[half-the-height](ucchrāyārdhaṃ) [indeed](tu) [in-width](vistārā) [with-three-strips](paṭṭikātritayānvitā)
 
 ## mukta-m0-p55-v1363
-[from-lotus-shoulder](padma+skandhāt) [by-two-parts](dvibhāgena) [to-be-made](kartavyā) [with-marks](lakṣaṇa+anvitā)
+[from-the-lotus-stalk](padmaskandhāt) [by-two-parts](dvibhāgena) [to-be-made](kartavyā) [endowed-with-characteristics](lakṣaṇānvitā)
 
 ## mukta-m0-p55-v1364
-[well-sounding](susvarā) [bronze-born](kāṃsya+jā) [best](śreṣṭhā) [own-god-weapon-gem](sva+deva+āyudha+maratakā)
+[sweet-sounding](susvarā) [made-of-bell-metal](kāṃsyajā) [best](śreṣṭhā) [own-deity](svadeva) [weapon](āyudha) [delighting](maratakā)
 
 ## mukta-m0-p55-v1365
-[elephant-horse-mule-camel-parts](gaja+aśva+aśvatara+uṣṭra+aṃśa) [and](ca) [their-riders](tad+ārohān) [by-third](tryaṃśataḥ)
+[elephant](gaja) [horse](aśvaḥ) [mule](aśvatara) [and-camels](uṣṭrān) [and](ca) [their-riders](tadārohān) [indeed](tu) [in-three-parts](tryaṃśataḥ)
 
 ## mukta-m0-p55-v1366
-[should-be](bhaveyuḥ) [animals](paśavaḥ) [others](anye) [deer-donkey-rhinoceros](mṛga+gardabha+gaṇḍaka)
+[should-be](bhaveyuḥ) [animals](paśavaḥ) [also](api) [others](anye) [deer](mṛga) [donkey](gardabha) [and-rhinoceros](gaṇḍakāḥ)
 
 ## mukta-m0-p55-v1367
-[net](jāla) [tiger-monkey-camel](vyāghra+kapī+uṣṭra) [lakṣa-earning](lakṣa+ādārjana) [thus](tathā)
+[water-diminished](jalonā) [tiger](vyāghra) [monkey](kapi) [and-camel](uṣṭrā) [and](tathā) [producing-marks](lakṣādārjanakaḥ)
 
 ## mukta-m0-p55-v1368
-[six-less](ṣaḍ+ūnāt) [crocodile-lizard](grāha+godhā) [should-be](syāt) [fish-tortoise-end](nakra+matsya+avadhau) [always](sadā)
+[less-by-six](ṣaḍūnāt) [crocodile](grāha) [and-lizard](godhā) [should-be](syāt) [shark](nakra) [and-fish](matsya) [in-killing](avadhau) [always](sadā)
 
 ## mukta-m0-p55-v1369
-[thus](iti) [mark-collection](lakṣaṇa+samuccaye) [vehicle-weapon-conduct](vāhana+āyudha+vartanaṃ) [named](nāma) [ninth](navamaḥ) [rite](vidhiḥ)
+[thus](iti) [in-the-compendium-of-characteristics](lakṣaṇasamuccaye) [vehicles](vāhana) [and-weapons](āyudha) [description](vartanaṃ) [named](nāma) [ninth](navamo) [chapter](vidhiḥ)
 
 ## mukta-m0-p55-v1370
-[two-truṭis](dvitruṭibhyāṃ) [lava](lavaḥ) [spoken](proktaḥ) [remainder](niṣeṣaḥ) [two-lava-made](dvilava+ātmakaḥ)
+[from-two-truṭis](dvitruṭibhyāṃ) [lava](lavaḥ) [is-declared](proktaḥ) [niṣeṣa](niṣeṣo) [consisting-of-two-lavas](dvilavātmakaḥ)
 
 ## mukta-m0-p55-v1371
-[thirty-kaṣṭhās](triṃśat+kāṣṭhāḥ) [time](kālaṃ) [know](vidyāt) [moment](kṣaṇaṃ) [thirty-kalās](triṃśat+kalāṃ) [wise](budhaḥ)
+[thirty-kāṣṭhās](triṃśatkāṣṭhāḥ) [kāla](kālaṃ) [one-should-know](vidyāt) [kṣaṇa](kṣaṇaṃ) [thirty-kalās](triṃśatkalāṃ) [the-wise](budhaḥ)
 
 ## mukta-m0-p55-v1372
-[by-them](tābhyāṃ) [nāḍī](nāḍī) [atha](atha) [by-nāḍīs](nāḍībhyāṃ) [diminished](kṣīṇābhyāṃ) [sixteen-parts](ṣoḍaśa+aṃśakaiḥ)
+[from-those-two](tābhyāṃ) [nāḍī](nāḍī) [then](atha) [from-two-nāḍīs](nāḍībhyāṃ) [diminished](kṣīṇābhyāṃ) [by-sixteen-parts](ṣoḍaśāṃśakaiḥ)
 
 ## mukta-m0-p55-v1373
-[by-them-eight](taiḥ+aṣṭabhiḥ) [day-night](ahorātraṃ) [fortnight](pakṣaḥ) [by-them-fifteen](taiḥ+daśa+pañcabhiḥ)
+[by-eight-of-those](tairaṣṭabhiḥ) [day-and-night](ahorātraṃ) [fortnight](pakṣaḥ) [by-fifteen-of-those](tairdaśapañcabhiḥ)
 
 ## mukta-m0-p55-v1374
-[by-them](tābhyāṃ) [year](saṃvatsaraḥ) [spoken](proktaḥ) [by-them-hundreds](taiḥ+śataiḥ) [human-lifespan](puruṣa+āyuṣaḥ)
+[from-those-two](tābhyāṃ) [year](saṃvatsaraḥ) [is-declared](proktaḥ) [by-hundreds-of-those](taiḥśataiḥ) [human-lifespan](puruṣāyuṣaḥ)
 
 ## mukta-m0-p55-v1375
-[of-liberated](mumukṣoḥ) [placement](sthāpanaṃ) [auspicious](śastaṃ) [of-ascetic](yateḥ) [desire-wealth](kāma+artha) [I-say](bruve)
+[for-one-desiring-liberation](mumukṣoḥ) [installation](sthāpanaṃ) [is-prescribed](śastaṃ) [for-an-ascetic](yateḥ) [for-one-desiring-pleasure-and-wealth](kāmārthino) [I-declare](bruve)
