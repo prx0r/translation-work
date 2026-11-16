@@ -45,11 +45,11 @@
 },
 {
 "surface": "pūjānte",
-"quick_gloss": "worship+at-end"
+"quick_gloss": "at-worship+end"
 },
 {
-"surface": "maṅgala",
-"quick_gloss": "Maṅgalā"
+"surface": "maṅgalā",
+"quick_gloss": "maṅgalā"
 },
 {
 "surface": "evaṃ",
@@ -57,7 +57,7 @@
 },
 {
 "surface": "prasīdati",
-"quick_gloss": "is-pleased"
+"quick_gloss": "becomes-pleased"
 }
 ]
 },
@@ -70,7 +70,7 @@
 "tokens": [
 {
 "surface": "duryoginyanukūlārthaṃ",
-"quick_gloss": "evil-yoginī+for-favor"
+"quick_gloss": "evil-yoginī+for-propitiation"
 },
 {
 "surface": "japet",
@@ -78,7 +78,7 @@
 },
 {
 "surface": "tatsaṅkhyakāyutam",
-"quick_gloss": "of-that+number+ten-thousand"
+"quick_gloss": "that+number+ten-thousand"
 }
 ]
 },
@@ -107,7 +107,7 @@
 },
 {
 "surface": "tu",
-"quick_gloss": "but"
+"quick_gloss": "indeed"
 },
 {
 "surface": "manuṃ",
@@ -128,11 +128,11 @@
 "tokens": [
 {
 "surface": "tuṣṭāyā",
-"quick_gloss": "of-pleased-one"
+"quick_gloss": "of-satisfied-one"
 },
 {
 "surface": "varṇaśatakai",
-"quick_gloss": "with-syllable+hundreds"
+"quick_gloss": "with-hundred+syllables"
 },
 {
 "surface": "rogiṇaṃ",
@@ -156,11 +156,11 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "tasyāḥ",
-"quick_gloss": "of-her"
+"surface": "tasya",
+"quick_gloss": "of-him"
 },
 {
-"surface": "pīḍāni vṛttiḥ",
+"surface": "pīḍānivṛttiḥ",
 "quick_gloss": "affliction+cessation"
 },
 {
@@ -169,7 +169,7 @@
 },
 {
 "surface": "varṇābhyantargatairjapaiḥ",
-"quick_gloss": "syllable+within-contained+with-chants"
+"quick_gloss": "with-syllable+contained+chants"
 }
 ]
 },
@@ -186,7 +186,7 @@
 },
 {
 "surface": "tulyaphaladā",
-"quick_gloss": "equal+fruit-giving"
+"quick_gloss": "equal+fruit+giving"
 },
 {
 "surface": "vāme",
@@ -215,7 +215,7 @@
 "tokens": [
 {
 "surface": "bhrāmaya",
-"quick_gloss": "bhrāmaya"
+"quick_gloss": "bhrāmaya klīṃ"
 },
 {
 "surface": "klīṃ",
@@ -284,7 +284,7 @@
 "quick_gloss": "toll-collectors"
 },
 {
-"surface": "duṣṭabhūpāś",
+"surface": "duṣṭabhūpāḥ",
 "quick_gloss": "wicked+kings"
 },
 {
@@ -296,12 +296,16 @@
 "quick_gloss": "daily"
 },
 {
-"surface": "evaṃ",
+"surface": "eva",
 "quick_gloss": "indeed"
 },
 {
+"surface": "evaṃ",
+"quick_gloss": "thus"
+},
+{
 "surface": "samācaret",
-"quick_gloss": "should-practice"
+"quick_gloss": "should-act"
 }
 ]
 },
@@ -314,7 +318,7 @@
 "tokens": [
 {
 "surface": "yojanaikaṃ",
-"quick_gloss": "yojana+one"
+"quick_gloss": "one-yojana"
 },
 {
 "surface": "japanmantraṃ",
@@ -351,11 +355,15 @@
 },
 {
 "surface": "bījaṃ",
-"quick_gloss": "seed"
+"quick_gloss": "seed-syllable"
 },
 {
-"surface": "toyabhṛyogājjātam",
-"quick_gloss": "water+borne+union+born"
+"surface": "toyabhṛyogāt",
+"quick_gloss": "water+borne+union"
+},
+{
+"surface": "jātam",
+"quick_gloss": "born"
 },
 {
 "surface": "ādau",
@@ -375,7 +383,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "punaś",
+"surface": "punaḥ",
 "quick_gloss": "again"
 },
 {
@@ -384,7 +392,7 @@
 },
 {
 "surface": "parabhadrāṇi",
-"quick_gloss": "para+bhadrāṇi"
+"quick_gloss": "other+obstacles"
 },
 {
 "surface": "nāśayadvitayaṃ",
@@ -405,15 +413,19 @@
 "tokens": [
 {
 "surface": "ṣaḍdīrghayuktabījena",
-"quick_gloss": "six+long+joined+with-seed"
+"quick_gloss": "six+long-vowel+joined+seed-syllable"
+},
+{
+"surface": " [blāṃ, blīṃ, blūṃ, blaiṃ, blauṃ, blaḥ, ebhiḥ ṣaḍakṣaraiḥ ṣaḍaṃganyāsaṃ caret | yathā blāṃ hṛdayāya namaḥ, blīṃ śirase svāhā ityādi || ]",
+"quick_gloss": "blāṃ, blīṃ, blūṃ, blaiṃ, blauṃ, blaḥ, ebhiḥ ṣaḍakṣaraiḥ ṣaḍaṃganyāsaṃ caret | yathā blāṃ hṛdayāya namaḥ, blīṃ śirase svāhā ityādi ||"
 },
 {
 "surface": "ṣaḍaṅgavidhir",
-"quick_gloss": "six+limb+procedure"
+"quick_gloss": "six-limb+procedure"
 },
 {
 "surface": "īritaḥ",
-"quick_gloss": "declared"
+"quick_gloss": "is-declared"
 }
 ]
 },
@@ -426,7 +438,7 @@
 "tokens": [
 {
 "surface": "piṅgalāvat",
-"quick_gloss": "like-Piṅgalā"
+"quick_gloss": "like-piṅgalā"
 },
 {
 "surface": "samuddiṣṭaṃ",
@@ -454,8 +466,12 @@
 "quick_gloss": "śrīṃ"
 },
 {
+"surface": " [śrīṃ dhanade dhānye svāhā iti mantraḥ || ]",
+"quick_gloss": "śrīṃ dhanade dhānye svāhā iti mantraḥ ||"
+},
+{
 "surface": "dhanade",
-"quick_gloss": "Dhanade"
+"quick_gloss": "to-dhanadā"
 },
 {
 "surface": "samuccāryya",
@@ -463,11 +479,15 @@
 },
 {
 "surface": "dhānye",
-"quick_gloss": "Dhānye"
+"quick_gloss": "to-grain"
 },
 {
-"surface": "svāhāṣṭavarṇakaḥ",
-"quick_gloss": "svāhā+eight-syllabled"
+"surface": "svāhā",
+"quick_gloss": "svāhā"
+},
+{
+"surface": "aṣṭavarṇakaḥ",
+"quick_gloss": "eight+syllabled"
 }
 ]
 },
@@ -513,11 +533,11 @@
 "tokens": [
 {
 "surface": "dahet",
-"quick_gloss": "burns"
+"quick_gloss": "one-should-burn"
 },
 {
 "surface": "tu",
-"quick_gloss": "but"
+"quick_gloss": "indeed"
 },
 {
 "surface": "dhānyā",
@@ -582,8 +602,12 @@
 "quick_gloss": "hrīṃ"
 },
 {
+"surface": " [hrīṃ siddhide sarvaṃ mama sādhayasādhaya namaḥ || ]",
+"quick_gloss": "hrīṃ siddhide sarvaṃ mama sādhayasādhaya namaḥ ||"
+},
+{
 "surface": "siddhide",
-"quick_gloss": "siddhide"
+"quick_gloss": "to-siddhidā"
 },
 {
 "surface": "sarvaṃ",
@@ -599,7 +623,7 @@
 },
 {
 "surface": "sādhayadvayam",
-"quick_gloss": "sādhaya+pair"
+"quick_gloss": "accomplish+twice"
 }
 ]
 },
@@ -616,7 +640,7 @@
 },
 {
 "surface": "siddhopāsakānāṃ",
-"quick_gloss": "siddhi+worshippers+of"
+"quick_gloss": "siddhi+worshippers"
 },
 {
 "surface": "karmmāsiddhis",
@@ -641,11 +665,11 @@
 "tokens": [
 {
 "surface": "sidhyet",
-"quick_gloss": "succeeds"
+"quick_gloss": "should-succeed"
 },
 {
 "surface": "ṣaṭkarmma",
-"quick_gloss": "six+action"
+"quick_gloss": "six+rites"
 },
 {
 "surface": "martyasya",
@@ -653,7 +677,7 @@
 },
 {
 "surface": "manorārādhanaṃ",
-"quick_gloss": "mantra+worship"
+"quick_gloss": "of-mantra+worship"
 },
 {
 "surface": "vinā",
@@ -677,11 +701,11 @@
 "quick_gloss": "declared"
 },
 {
-"surface": "prajapto",
+"surface": "prajaptaḥ",
 "quick_gloss": "chanted"
 },
 {
-"surface": "ayaṃ",
+"surface": "ayam",
 "quick_gloss": "this"
 },
 {
@@ -715,7 +739,7 @@
 },
 {
 "surface": "saṃprapadyate",
-"quick_gloss": "is-accomplished"
+"quick_gloss": "is-obtained"
 }
 ]
 },
@@ -728,11 +752,11 @@
 "tokens": [
 {
 "surface": "śītalāyā",
-"quick_gloss": "of-Śītalā"
+"quick_gloss": "of-śītalā"
 },
 {
 "surface": "mahāmāryā",
-"quick_gloss": "of-Mahāmārī"
+"quick_gloss": "of-mahāmārī"
 },
 {
 "surface": "mahiṣaṃ",
@@ -740,7 +764,7 @@
 },
 {
 "surface": "lakṣaṇānvitam",
-"quick_gloss": "with-marks+endowed"
+"quick_gloss": "with-marks"
 }
 ]
 }
