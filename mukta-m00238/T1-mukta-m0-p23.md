@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p23-v551
-[mleccha-cutter](mlecchacchedakaraḥ) [kalki-two-armed](kalkīdvibhujaḥ) [proclaimed](parikīrtitaḥ) [white-color](śvetavarṇaḥ)
+mleccha-cchheda-karaḥ(mlecchacchedakaraḥ) kalkī(kalkī) dvi-bhujaḥ(dvibhujaḥ) parikīrtitaḥ(parikīrtitaḥ) śveta-varṇaḥ(śvetavarṇaḥ)
 
 ## mukta-m0-p23-v552
-[conch-disc-holder](śaṃkhacakradharaḥ) [dark-two-armed](śyāmodvibhujaḥ) [named-krishna](kṛṣṇasaṃjñakaḥ) [dark-color](śyāmavarṇaḥ)
+śaṅkha-cakra-dharaḥ(śaṃkhacakradharaḥ) śyāmaḥ(śyāmaḥ) dvi-bhujaḥ(dvibhujaḥ) kṛṣṇa-saṃjñakaḥ(kṛṣṇasaṃjñakaḥ) śyāma-varṇaḥ(śyāmavarṇaḥ)
 
 ## mukta-m0-p23-v553
-[varaha-dark-like](varāhaśśyāmalanibhodhvalākṛtireva) [or](vā)
+varāhaḥ(varāhaḥ) śyāmala-nibhaḥ(śyāmalanibhaḥ) dhvala-ākṛtiḥ(dhvalākṛtiḥ) eva(eva) vā(vā)
 
 ## mukta-m0-p23-v554
-[vamana-dark-like](vāmanaśśyāmalanibhokālavarṇo) [great-strength](mahābalaḥ)
+vāmanaḥ(vāmanaḥ) śyāmala-nibhaḥ(śyāmalanibhaḥ) kāla-varṇaḥ(kālavarṇaḥ) mahā-balaḥ(mahābalaḥ)
 
 ## mukta-m0-p23-v555
-[bharata-dark](bharataśśyāmalaḥ) [said](proktaḥ) [lakshmana-golden-radiance](lakṣmaṇaḥ) [kanakaprabhaḥ]
+bharataḥ(bharataḥ) śyāmalaḥ(śyāmalaḥ) proktaḥ(proktaḥ) lakṣmaṇaḥ(lakṣmaṇaḥ) kanaka-prabhaḥ(kanakaprabhaḥ)
 
 ## mukta-m0-p23-v556
-[mandavi-red-color](māṃḍavīraktavarṇābhācormilāśyāmalākṛtiḥ)
+māṇḍavī(māṃḍavī) rakta-varṇa-ābhā(raktavarṇābhā) ca(ca) ūrmilā(ūrmilā) śyāmala-ākṛtiḥ(śyāmalākṛtiḥ)
 
 ## mukta-m0-p23-v557
-[shrutakirti-white-limbed](śrutakīrtissitāṃgī) [hanuman-golden-radiance](hanūmānkanakaprabhaḥ) [angada-red-color](aṃgadoraktavarṇābhassugrīvohemapiṃgalaḥ)
+śrutakīrtiḥ(śrutakīrtiḥ) sita-aṅgī(sitāṃgī) syāt(syāt) hanūmān(dhanūmān) kanaka-prabhaḥ(kanakaprabhaḥ) aṅgadaḥ(aṃgadaḥ) rakta-varṇa-ābhaḥ(raktavarṇābhaḥ) sugrīvaḥ(sugrīvaḥ) hema-piṅgalaḥ(hemapiṃgalaḥ)
 
 ## mukta-m0-p23-v558
-[guha-tawny-color](guhastuti) [lavarṇa](lavarṇābhaḥ) [dark-color-vibhishana](kālavarṇovibhīṣaṇaḥ)
+guhaḥ(guhaḥ) tu(tu) lava-varṇa-ābhaḥ(lavarṇābhaḥ) kāla-varṇaḥ(kālavarṇaḥ) vibhīṣaṇaḥ(vibhīṣaṇaḥ)
 
 ## mukta-m0-p23-v559
-[cloud-dark](meghaśyāmobhavet) [krishna](kṛṣṇorukmiṇī) [golden-radiance](kanakaprabhā)
+megha-śyāmaḥ(meghaśyāmaḥ) bhavet(bhavet) kṛṣṇaḥ(kṛṣṇaḥ) rukmiṇī(rukmiṇī) kanaka-prabhā(kanakaprabhā)
 
 ## mukta-m0-p23-v560
-[right-side](dakṣiṇe) [tu](tu) [mace-lotus](gadāpadmī) [blue-cloud-like](nīlajīmūtasannibhaḥ)
+dakṣiṇe(dakṣiṇe) tu(tu) gadā-padmī(gadāpadmī) nīla-jīmūta-sannibhaḥ(nīlajīmūtasannibhaḥ)
 
 ## mukta-m0-p23-v561
-[left](vāme) [shri-vallaki](śrīrvallakī) [hands](hastāpuṣṭāpadmakarāpare) [dark-color](śyāmavarṇaḥ)
+vāme(vāme) śrīḥ(śrīḥ) vallakī-hastā(vallakī hastā) puṣṭā(puṣṭā) padma-karā(padmakarā) apare(apare) śyāma-varṇaḥ(śyāmavarṇaḥ)
 
 ## mukta-m0-p23-v562
-[meditate-always](dhyeyassadā) [sun-orb-middle](savitṛmaṃḍalamadhyavartī) [narayana-lotus-seat](nārāyaṇassarasijāsanasanniviṣṭaḥ) [armlets-earrings-crown-garland](keyūravānmakarakuṃḍalavānkirīṭīhārī) [golden-body](hiraṇmayavapuḥ) [holding-conch-disc](dhṛtaśaṃkhacakraḥ) [one](1) [golden-color](svarṇavarṇaḥ)
+dhyeyaḥ(dhyeyaḥ) sadā(sadā) savitṛ-maṇḍala-madhya-vartī(savitṛmaṃḍalamadhyavartī) nārāyaṇaḥ(nārāyaṇaḥ) sarasija-āsana-sanniviṣṭaḥ(sarasijāsanasanniviṣṭaḥ) keyūra-vān(keyūravān) makara-kuṇḍala-vān(makarakuṃḍalavān) kirīṭī(kirīṭī) hārī(hārī) hiraṇmaya-vapuḥ(hiraṇmayavapuḥ) dhṛta-śaṅkha-cakraḥ(dhṛtaśaṃkhacakraḥ) svarṇa-varṇaḥ(svarṇavarṇaḥ)
 
 ## mukta-m0-p23-v563
-[salute](vaṃdehaṃ) [fierce-great-ganda-berunda](krūraghoraprabalataramahāgaṃḍabheruṃḍa) [lion-tiger-boar-branch-deer-bird-bear-eight-faced](siṃhavyāghrāścakroḍaśākhāmṛgavarakhagarāṅbhallukādyaṣṭavaktram) [thirty-two-crore-arms-halamusala-mace-conch-disc-weapons](dvātriṃśatkotibāhuṃhalamusalagadā) [holding](śaṃkhacakrādihetīrvibhrāṇaṃ) [fierce-tusked](bhīmadaṣṭraṃśarabhakhagagajānbhakṣayaṃtaṃ) [narasimha](nṛsiṃham)
+vande(vande) aham(ahaṃ) krūra-ghora-prabala-tara-mahā-gaṇḍabheruṇḍa-siṃha-vyāghra-ṛkṣa-kroḍa-śākhā-mṛga-vara-khaga-rāṅ-bhalluka-ādi-aṣṭa-vaktram(krūraghoraprabalataramahāgaṃḍabheruṃḍa siṃhavyāghrāścakroḍaśākhāmṛgavarakhagarāṅbhallukādyaṣṭavaktram) dvātriṃśat-koṭi-bāhum(dvātriṃśatkotibāhuṃ) hala-musala-gadā-śaṅkha-cakra-ādi-hetīn(halamusalagadā śaṃkhacakrādihetīn) vibhrāṇam(vibhrāṇaṃ) bhīma-daṃṣṭram(bhīmadaṣṭraṃ) śarabha-khaga-gajān(śarabhakhagagajān) bhakṣayantam(bhakṣayaṃtaṃ) nṛsiṃham(nṛsiṃham)
 
 ## mukta-m0-p23-v564
-[body-red-color](śarīre) [raktavarṇaḥ] [faces-respective-colors](mukheṣu) [tattadvarṇāḥ]
+śarīre(śarīre) rakta-varṇaḥ(raktavarṇaḥ) mukheṣu(mukheṣu) tat-tat-varṇāḥ(tattadvarṇāḥ)
 
 ## mukta-m0-p23-v565
-[vajra-like-beak-nails-fangs-double-tongue-face](vajrasamānatuṃḍanakharaṃdaṃṣṭridvijihvānanam)
+vajra-samāna-tuṇḍa-nakharaṃ(vajrasamānatuṃḍanakharaṃ) daṃṣṭri-dvi-jihva-ānanam(daṃṣṭridvijihvānanam)
 
 ## mukta-m0-p23-v566
-[heart-belly-eight-kali-eight-durga](hṛdayajaṭharagāhyaṣṭakālyaṣṭadurgā) [thighs-two-rudra-kala-bird-deer-man-lion-ganda-berunda](ūrūdvaurudrakālaukhagamṛganṛharirgaṃḍabherūpaḥpāyādasmān) [he-conch-disc-hari-here-sharabha-ugra-enemies](sa) [cakroharirihaśarabhādyugraśatrūnpravidhyan]
+hṛdaya-jaṭhara-gāhi(hṛdayajaṭharagāhi) aṣṭa-kāli(aṣṭakāli) aṣṭa-durgā(aṣṭadurgā) ūru-dvau(ūrūdva) rudra-kālau(rudrakālau) khaga-mṛga-nṛhariḥ(khagamṛganṛhariḥ) gaṇḍabheruṇḍaḥ(gaṃḍabherūpaḥ) pāyāt(pāyāt) asmān(asmān) saḥ(sa) cakraḥ(cakraḥ) hariḥ(hariḥ) iha(iha) śarabha-ādi-ugra-śatrūn(śarabhādyugraśatrūn) pravidhyan(pravidhyan)
 
 ## mukta-m0-p23-v567
-[arms-two-opposing-demons](bāhudvaṃdvoparuddhāsuraka) [and](ca) [foot](caraṇaṃdoryugodyannakhāgrapracchannārāti) [body](dehaṃraviśaśidahanatrīkṣaṇaṃvajrapakṣam)
+bāhu-dvandva-uparuddha-asura-kaca-caraṇam(bāhudvaṃdvoparuddhāsuraka ca caraṇaṃ) dor-yuga-udyat-nakha-agra-pracchanna-arāti-deham(doryugodyannakhāgrapracchannārāti dehaṃ) ravi-śaśi-dahana-tri-īkṣaṇam(raviśaśidahanatrīkṣaṇaṃ) vajra-pakṣam(vajrapakṣam)
 
 ## mukta-m0-p23-v568
-[golden-intestine-trident](hairaṇyāṃtraṃtriśūlaṃ) [shield](phalakamapi) [great-noose-head-pinaka](mahāpāśaśīrṣaṃpinākaṃ) [vajra-kaumodaki](vajraṃkaumodakīṃ) [also](cāpyatibalamasalaṃsaṃdadhānaṃ) [hand-tips](karāgraiḥ)
+hairaṇya-antram(hairaṇyāṃtraṃ) tri-śūlam(triśūlaṃ) phalakam(phalakam) api(api) mahā-pāśa-śīrṣam(mahāpāśaśīrṣaṃ) pinākam(pinākaṃ) vajram(vajraṃ) kaumodakīm(kaumodakīṃ) ca(ca) api(api) ati-balam(atibalam) asalam(asalaṃ) saṃdadhānam(saṃdadhānaṃ) kara-agraiḥ(karāgraiḥ)
 
 ## mukta-m0-p23-v569
-[body-red-color](śarīreraktavarṇaḥ) [faces-respective-colors](mukheṣu) [tattadvarṇāḥ]
+śarīre(śarīre) rakta-varṇaḥ(raktavarṇaḥ) mukheṣu(mukheṣu) tat-tat-varṇāḥ(tattadvarṇāḥ)
 
 ## mukta-m0-p23-v570
-[skull-garland-wearer](muṃḍamālādharaṃraudraṃkaṃṭhahāreṇaśobhitam)
+muṇḍa-mālā-dharam(muṃḍamālādharaṃ) raudram(raudraṃ) kaṇṭha-hāreṇa(kaṃṭhahāreṇa) śobhitam(śobhitam)
 
 ## mukta-m0-p23-v571
-[moon-crested](caṃdramauliṃnilakṃṭhaṃ) [prativaktra-three-eyed](prativaktraṃtrilocanam)
+candra-maulim(caṃdramauliṃ) nīla-kaṇṭham(nilakṃṭhaṃ) prati-vaktram(prativaktraṃ) tri-locanam(trilocanam)
 
 ## mukta-m0-p23-v572
-[rosary-mace-lotus-conch](akṣasūtraṃgadāṃpadmaṃśaṃkhaṃgokṣīrasannibham)
+akṣa-sūtram(akṣasūtraṃ) gadām(gadāṃ) padmam(padmaṃ) śaṅkham(śaṃkhaṃ) go-kṣīra-sannibham(gokṣīrasannibham)
 
 ## mukta-m0-p23-v573
-[sword-and-trident-noose](khaḍgaṃ) [ca](ca) [śūlapāśau](śūlapāśau) [ca](ca) [narasimha-rudra-form](nṛsiṃhaṃrudrarūpiṇam)
+khaḍgam(khaḍgaṃ) ca(ca) śūla-pāśau(śūlapāśau) ca(ca) nṛsiṃham(nṛsiṃhaṃ) rudra-rūpiṇam(rudrarūpiṇam)
 
 ## mukta-m0-p23-v574
-[indragopa-blue](iṃdragopakanīlābhaṃ) [moon-like](caṃdrābhaṃ) [gold-like](svarṇasannibham) [east-to-north-faces-upward-face-all-colors](pūrvādimottarāṃtāsyamūdhrvāsyaṃ) [sarvavarṇakam]
+indragopaka-nīla-ābham(iṃdragopakanīlābhaṃ) candra-ābham(caṃdrābhaṃ) svarṇa-sannibham(svarṇasannibham) pūrva-ādi-uttara-antāsyam(pūrvādimottarāṃtāsyam) ūrdhva-āsyam(ūdhrvāsyaṃ) sarva-varṇakam(sarvavarṇakam)
 
 ## mukta-m0-p23-v575
-[holding-all-worlds-support](bibhrāṇaṃ) [sarvajagatāmādhāraṃ] [girikanyake](girikanyake) [body-red-color](śarīreraktavarṇaḥ) [faces-colors-five](mukheṣuvarṇānāṃ) [paṃcakam]
+bibhrāṇam(bibhrāṇaṃ) sarva-jagatām(sarvajagatām) ādhāram(ādhāraṃ) giri-kanyake(girikanyake) śarīre(śarīre) rakta-varṇaḥ(raktavarṇaḥ) mukheṣu(mukheṣu) varṇānām(varṇānām) pañcakam(paṃcakam)
