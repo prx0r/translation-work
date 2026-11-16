@@ -110,7 +110,7 @@
 },
 {
 "surface": "bhujaṅgakā",
-"quick_gloss": "serpent"
+"quick_gloss": "serpent-like"
 }
 ]
 },
@@ -143,7 +143,7 @@
 },
 {
 "surface": "aṃśuka",
-"quick_gloss": "cloth"
+"quick_gloss": "garment"
 },
 {
 "surface": "su",
@@ -151,7 +151,7 @@
 },
 {
 "surface": "nīvikā",
-"quick_gloss": "garment-knot"
+"quick_gloss": "lower-garment"
 }
 ]
 },
@@ -176,7 +176,7 @@
 },
 {
 "surface": "āsakta",
-"quick_gloss": "clinging"
+"quick_gloss": "attached"
 },
 {
 "surface": "lasat",
@@ -220,16 +220,12 @@
 "quick_gloss": "pair"
 },
 {
-"surface": "sudhā",
-"quick_gloss": "nectar"
-},
-{
-"surface": "mā",
-"quick_gloss": "consisting-of"
+"surface": "sudhāmā",
+"quick_gloss": "nectar-abode"
 },
 {
 "surface": "amṛta",
-"quick_gloss": "immortality"
+"quick_gloss": "nectar"
 },
 {
 "surface": "sāriṇī",
@@ -246,7 +242,7 @@
 "tokens": [
 {
 "surface": "sādhu",
-"quick_gloss": "virtuous"
+"quick_gloss": "saints"
 },
 {
 "surface": "siddhā",
@@ -254,11 +250,15 @@
 },
 {
 "surface": "su",
-"quick_gloss": "well"
+"quick_gloss": "very"
 },
 {
 "surface": "buddhā",
 "quick_gloss": "wise"
+},
+{
+"surface": "ca",
+"quick_gloss": "and"
 },
 {
 "surface": "budhā",
@@ -270,7 +270,7 @@
 },
 {
 "surface": "udayā",
-"quick_gloss": "arising"
+"quick_gloss": "source"
 }
 ]
 },
@@ -302,12 +302,8 @@
 "quick_gloss": "essence"
 },
 {
-"surface": "sāra",
-"quick_gloss": "essence"
-},
-{
-"surface": "sā",
-"quick_gloss": "swan-like"
+"surface": "sārasā",
+"quick_gloss": "sārasā"
 }
 ]
 },
@@ -319,12 +315,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "naṭa",
-"quick_gloss": "dance"
-},
-{
-"surface": "rāja",
-"quick_gloss": "king"
+"surface": "naṭarāja",
+"quick_gloss": "Naṭarāja"
 },
 {
 "surface": "priyā",
@@ -340,11 +332,11 @@
 },
 {
 "surface": "nartaka",
-"quick_gloss": "dancer"
+"quick_gloss": "dancer-male"
 },
 {
 "surface": "nartakī",
-"quick_gloss": "female-dancer"
+"quick_gloss": "dancer-female"
 }
 ]
 },
@@ -356,20 +348,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "kūṭa",
-"quick_gloss": "peak"
-},
-{
-"surface": "ara",
-"quick_gloss": "summit"
+"surface": "kūṭāra",
+"quick_gloss": "axe"
 },
 {
 "surface": "kūṭā",
 "quick_gloss": "peak"
 },
 {
-"surface": "kūṭasthā",
-"quick_gloss": "abiding-in-the-peak"
+"surface": "kūṭa",
+"quick_gloss": "peak"
+},
+{
+"surface": "sthā",
+"quick_gloss": "abiding"
 },
 {
 "surface": "pañca",
@@ -378,6 +370,10 @@
 {
 "surface": "kūṭā",
 "quick_gloss": "peaks"
+},
+{
+"surface": "ca",
+"quick_gloss": "and"
 },
 {
 "surface": "pañcamī",
@@ -440,6 +436,10 @@
 {
 "surface": "varṇā",
 "quick_gloss": "syllables"
+},
+{
+"surface": "ca",
+"quick_gloss": "and"
 },
 {
 "surface": "bindu",
@@ -516,12 +516,20 @@
 "quick_gloss": "deep-sleep"
 },
 {
+"surface": "ca",
+"quick_gloss": "and"
+},
+{
 "surface": "tandrā",
 "quick_gloss": "drowsiness"
 },
 {
 "surface": "muktā",
 "quick_gloss": "free"
+},
+{
+"surface": "ca",
+"quick_gloss": "and"
 },
 {
 "surface": "mādhavī",
@@ -538,15 +546,11 @@
 "tokens": [
 {
 "surface": "śākambharī",
-"quick_gloss": "nourisher-with-herbs"
+"quick_gloss": "Śākambharī"
 },
 {
-"surface": "nandi",
-"quick_gloss": "Nandi"
-},
-{
-"surface": "vidyā",
-"quick_gloss": "knowledge"
+"surface": "nandividyā",
+"quick_gloss": "Nandividyā"
 },
 {
 "surface": "bhāsvat",
@@ -583,7 +587,7 @@
 },
 {
 "surface": "sādhvī",
-"quick_gloss": "virtuous-woman"
+"quick_gloss": "virtuous"
 },
 {
 "surface": "sulabhā",
@@ -591,7 +595,7 @@
 },
 {
 "surface": "siddhi",
-"quick_gloss": "accomplishment"
+"quick_gloss": "siddhi"
 },
 {
 "surface": "kandarā",
@@ -649,7 +653,7 @@
 },
 {
 "surface": "sīmantinī",
-"quick_gloss": "married-women"
+"quick_gloss": "women"
 },
 {
 "surface": "mokṣā",
@@ -920,7 +924,7 @@
 },
 {
 "surface": "tripurā",
-"quick_gloss": "Tripurā"
+"quick_gloss": "Tripura"
 },
 {
 "surface": "su",
