@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p120-v2976
-[deep-to+salutation](gabhīrāyanamaḥ) [profound+strength+vehicle+to+salutation](gambhīrabalavāhanāyanamaḥ)
+[to-the-profound](gabhīrāya)[obeisance](namaḥ) [to-him-whose-army-is-of-deep-strength](gambhīra+bala+vāhanāya)[obeisance](namaḥ)
 
 ## mukta-m0-p120-v2977
-[nyagrodha-form+to+salutation](nyagrodharūpāyanamaḥ) [nyagrodha+to+salutation](nyagrodhāyanamaḥ)
+[to-him-whose-form-is-the-banyan](nyagrodha+rūpāya)[obeisance](namaḥ) [to-the-banyan](nyagrodhāya)[obeisance](namaḥ)
 
 ## mukta-m0-p120-v2978
-[vṛkṣa-ear-standing+to+salutation](vṛkṣakarṇasthitayenamaḥ) [splendor+to+salutation](vibhavenamaḥ)
+[to-him-standing-at-the-tree's-ear](vṛkṣa+karṇa+sthitaye)[obeisance](namaḥ) [to-the-mighty-lord](vibhave)[obeisance](namaḥ)
 
 ## mukta-m0-p120-v2979
-[very-sharp-tooth+to+salutation](sutīkṣṇadaśanāyanamaḥ) [great-body+to+salutation](mahākāyāyanamaḥ)
+[to-him-of-very-sharp-teeth](su+tīkṣṇa+daśanāya)[obeisance](namaḥ) [to-the-great-bodied](mahā+kāyāya)[obeisance](namaḥ)
 
 ## mukta-m0-p120-v2980
-[great-face+to+salutation](mahānanāyanamaḥ) [viṣvaksena+to+salutation](viṣvaksenāyanamaḥ) [hari+to+salutation](harayenamaḥ)
+[to-the-great-faced](mahā+ānanāya)[obeisance](namaḥ) [to-viṣvaksena](viṣvaksenāya)[obeisance](namaḥ) [to-hari](haraye)[obeisance](namaḥ)
 
 ## mukta-m0-p120-v2981
-[sacrifice+to+salutation](yajñāyanamaḥ) [sa/yyuga-pīḍa-vehicle+to+salutation](sa/yyugāpīḍavāhanāyanamaḥ)
+[to-the-sacrifice](yajñāya)[obeisance](namaḥ) [to-him-whose-vehicle-is-adorned-for-battle](sa/yyugā+pīḍa+vāhanāya)[obeisance](namaḥ)
 
 ## mukta-m0-p120-v2982
-[sharp-heat+to+salutation](tīkṣṇatāpāyanamaḥ) [hari-horse+to+salutation](haryaśvāyanamaḥ)
+[to-him-of-fierce-heat](tīkṣṇa+tāpāya)[obeisance](namaḥ) [to-him-of-tawny-horses](harya+śvāya)[obeisance](namaḥ)
 
 ## mukta-m0-p120-v2983
-[companion+to+salutation](sahāyāyanamaḥ) [karma-time-knower+to+salutation](karmakālavidenamaḥ)
+[page](p.) [461)](461)) [to-the-companion](sahāyāya)[obeisance](namaḥ) [to-the-knower-of-the-time-of-action](karma+kāla+vide)[obeisance](namaḥ)
 
 ## mukta-m0-p120-v2984
-[viṣṇu-propitiated+to+salutation](viṣṇuprasāditāyanamaḥ) [sacrifice+to+salutation](yajñāyanamaḥ) [ocean+to+salutation](samudrāyanamaḥ)
+[to-him-propitiated-by-viṣṇu](viṣṇu+prasāditāya)[obeisance](namaḥ) [to-the-sacrifice](yajñāya)[obeisance](namaḥ) [to-the-ocean](samudrāya)[obeisance](namaḥ)
 
 ## mukta-m0-p120-v2985
-[vaḍavā-mouth+to+salutation](vaḍavāmukhāyanamaḥ) [fire-companion+to+salutation](hutāśanasahāyāyanamaḥ)
+[to-the-mare-faced-one](vaḍavā+mukhāya)[obeisance](namaḥ) [to-him-whose-companion-is-fire](hutāśana+sahāyāya)[obeisance](namaḥ)
 
 ## mukta-m0-p120-v2986
-[tranquil-soul+to+salutation](praśāntātmanenamaḥ) [fire+to+salutation](hutāśanāyanamaḥ) [fierce-radiance+to+salutation](ugratejasenamaḥ)
+[to-the-tranquil-souled](praśānta+ātmane)[obeisance](namaḥ) [to-the-fire](hutāśanāya)[obeisance](namaḥ) [to-him-of-fierce-splendor](ugra+tejasenamaḥ)
 
 ## mukta-m0-p120-v2987
-[great-radiance+to+salutation](mahātejasenamaḥ) [born+to+salutation](janyāyanamaḥ) [victory-time-knower+to+salutation](vijayakālavidenamaḥ)
+[to-him-of-great-splendor](mahā+tejasenamaḥ) [to-the-progenitor](janyāya)[obeisance](namaḥ) [to-the-knower-of-the-time-of-victory](vijaya+kāla+vide)[obeisance](namaḥ)
 
 ## mukta-m0-p120-v2988
-[astrologer+to+salutation](jyotiṣāmayanāyanamaḥ) [accomplished+to+salutation](siddhayenamaḥ)
+[to-the-course-of-the-luminaries](jyotiṣām+ayanāya)[obeisance](namaḥ) [to-the-accomplished-one](siddhaye)[obeisance](namaḥ)
 
 ## mukta-m0-p120-v2989
-[all-form+to+salutation](sarvavigrahāyanamaḥ) [crest+to+salutation](śikhinenamaḥ) [shaven+to+salutation](muṇḍinenamaḥ)
+[to-him-of-all-forms](sarva+vigrahāya)[obeisance](namaḥ) [to-the-flame-crested](śikhine)[obeisance](namaḥ) [to-the-shaven-one](muṇḍine)[obeisance](namaḥ)
 
 ## mukta-m0-p120-v2990
-[matted-hair+to+salutation](jaṭinenamaḥ) [flaming+to+salutation](jvālinenamaḥ) [embodied+to+salutation](mūrttijāyanamaḥ)
+[to-the-matted-haired](jaṭine)[obeisance](namaḥ) [to-the-blazing-one](jvāline)[obeisance](namaḥ) [to-him-born-of-form](mūrtti+jāya)[obeisance](namaḥ)
 
 ## mukta-m0-p120-v2991
-[upward-going+to+salutation](mūrddhvagāyanamaḥ) [strength+to+salutation](balinenamaḥ) [bamboo+to+salutation](veṇavinenamaḥ)
+[to-him-going-upward](mūrddhva+gāya)[obeisance](namaḥ) [to-the-powerful](baline)[obeisance](namaḥ) [to-the-flute-player](veṇavine)[obeisance](namaḥ)
 
 ## mukta-m0-p120-v2992
-[drum+to+salutation](paṇavinenamaḥ) [cymbal+to+salutation](tālinenamaḥ) [wicked+to+salutation](khalinenamaḥ)
+[to-the-drum-player](paṇavine)[obeisance](namaḥ) [to-the-cymbal-player](tāline)[obeisance](namaḥ) [to-the-thresher](khaline)[obeisance](namaḥ)
 
 ## mukta-m0-p120-v2993
-[kālakaṭaṅkaṭa+to+salutation](kālakaṭaṅkaṭāyanamaḥ) [nakṣatra-form-mind+to+salutation](nakṣatravigrahamatayenamaḥ)
+[to-him-of-time-and-clatter](kāla+kaṭaṅkaṭāya)[obeisance](namaḥ) [to-him-whose-mind-is-on-the-constellation-forms](nakṣatra+vigraha+mataye)[obeisance](namaḥ)
 
 ## mukta-m0-p120-v2994
-[quality-intellect+to+salutation](guṇabuddhayenamaḥ) [dissolution+to+salutation](layāyanamaḥ) [tradition+to+salutation](āgamāyanamaḥ)
+[to-him-of-qualified-intellect](guṇa+buddhaye)[obeisance](namaḥ) [to-dissolution](layāya)[obeisance](namaḥ) [to-the-tradition](āgamāya)[obeisance](namaḥ)
 
 ## mukta-m0-p120-v2995
-[all-going+to+salutation](sarvagāyanamaḥ) [faceless+to+salutation](amukhāyanamaḥ) [liberator+to+salutation](vimocanāyanamaḥ)
+[to-the-all-going](sarvagāya)[obeisance](namaḥ) [to-the-faceless](amukhāya)[obeisance](namaḥ) [to-the-liberator](vimocanāya)[obeisance](namaḥ)
 
 ## mukta-m0-p120-v2996
-[good-path+to+salutation](susaraṇāyanamaḥ) [golden-armor-born+to+salutation](hiraṇyakavacodbhavāyanamaḥ)
+[to-him-of-good-refuge](su+saraṇāya)[obeisance](namaḥ) [to-him-born-of-a-golden-armor](hiraṇya+kavaca+udbhavāya)[obeisance](namaḥ)
 
 ## mukta-m0-p120-v2997
-[heard+to+salutation](srutāyanamaḥ) [all-instrument-sound+to+salutation](sarvatūryaninādinenamaḥ)
+[to-the-flowing](srutāya)[obeisance](namaḥ) [to-him-resounding-with-all-musical-instruments](sarva+tūrya+ninādine)[obeisance](namaḥ)
 
 ## mukta-m0-p120-v2998
-[all-drum-embrace+to+salutation](sarvatodyaparigrahāyanamaḥ) [serpent-form+to+salutation](vyālarūpāyanamaḥ)
+[to-him-possessing-all-percussion-instruments](sarva+todya+parigrahāya)[obeisance](namaḥ) [to-him-of-serpent-form](vyāla+rūpāya)[obeisance](namaḥ)
 
 ## mukta-m0-p120-v2999
-[cave-dweller+to+salutation](guhāvāsinenamaḥ) [cave+to+salutation](guhāyanamaḥ) [garlanded+to+salutation](mālinenamaḥ)
+[to-the-cave-dweller](guhā+vāsine)[obeisance](namaḥ) [to-the-cave](guhāya)[obeisance](namaḥ) [to-the-garlanded](māline)[obeisance](namaḥ)
 
 ## mukta-m0-p120-v3000
-[wave-knower+to+salutation](taraṅgavidenamaḥ) [three-gods+to+salutation](tridaśāyanamaḥ) [three-times-bold+to+salutation](trikāladhṛṣenamaḥ)
+[to-the-knower-of-waves](taraṅga+vide)[obeisance](namaḥ) [to-the-thirty-gods](tridaśāya)[obeisance](namaḥ) [to-him-bold-in-the-three-times](tri+kāla+dhṛṣe)[obeisance](namaḥ)

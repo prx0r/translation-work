@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p119-v2951
-[beautiful-form-salutation](surūpāyanamaḥ) [radiance-salutation](tejasenamaḥ) [treasure-of-radiance-salutation](tejaskaranidhayenamaḥ)
+[beautiful-form](surūpāya)[+][obeisance](namaḥ) [to-radiance](tejase)[+][obeisance](namaḥ) [radiance-making](tejaskara)[+][to-treasure](nidhaye)[+][obeisance](namaḥ)
 
 ## mukta-m0-p119-v2952
-[turbaned-salutation](uṣṇīṣiṇenamaḥ) [beautiful-mouth-salutation](suvaktrāyanamaḥ) [exalted-salutation](udagrāyanamaḥ)
+[to-turbaned-one](uṣṇīṣiṇe)[+][obeisance](namaḥ) [to-beautiful-faced](suvaktrāya)[+][obeisance](namaḥ) [to-exalted](udagrāya)[+][obeisance](namaḥ)
 
 ## mukta-m0-p119-v2953
-[bowing-salutation](vinatāyanamaḥ) [long-salutation](dīrgghāyanamaḥ) [tawny-haired-salutation](harikeśāyanamaḥ)
+[to-humble](vinatāya)[+][obeisance](namaḥ) [to-long](dīrgghāya)[+][obeisance](namaḥ) [to-tawny-haired](harikeśāya)[+][obeisance](namaḥ)
 
 ## mukta-m0-p119-v2954
-[accomplished-aim-salutation](siddhārtthāyanamaḥ) [shaven-salutation](muṇḍāyanamaḥ)
+[to-one-of-accomplished-aims](siddhārtthāya)[+][obeisance](namaḥ) [to-shaven-headed](muṇḍāya)[+][obeisance](namaḥ)
 
 ## mukta-m0-p119-v2955
-[all-auspicious-maker-salutation](sarvaśubhaṃkarāyanamaḥ) [unborn-salutation](ajāyanamaḥ) [many-formed-salutation](bahurūpāyanamaḥ)
+[to-all-auspicious-maker](sarvaśubhaṃkarāya)[+][obeisance](namaḥ) [to-unborn](ajāya)[+][obeisance](namaḥ) [to-many-formed](bahurūpāya)[+][obeisance](namaḥ)
 
 ## mukta-m0-p119-v2956
-[fragrance-bearer-salutation](gandhadhāriṇenamaḥ) [matted-hair-salutation](kaparddinenamaḥ)
+[to-fragrance-bearer](gandhadhāriṇe)[+][obeisance](namaḥ) [to-matted-haired](kaparddine)[+][obeisance](namaḥ)
 
 ## mukta-m0-p119-v2957
-[upward-semen-salutation](urddhvaretasenamaḥ) [upward-phallus-salutation](urddhvaliṅgāyanamaḥ)
+[to-upward-semen](urddhvaretase)[+][obeisance](namaḥ) [to-upward-mark](urddhvaliṅgāya)[+][obeisance](namaḥ)
 
 ## mukta-m0-p119-v2958
-[upward-lying-salutation](urddhvaśāyinenamaḥ) [sky-place-salutation](nabhasthalāyanamaḥ) [three-braids-salutation](trijaṭāyanamaḥ)
+[to-upward-lying](urddhvaśāyine)[+][obeisance](namaḥ) [to-sky-abiding](nabhasthalāya)[+][obeisance](namaḥ) [to-three-braided](trijaṭāya)[+][obeisance](namaḥ)
 
 ## mukta-m0-p119-v2959
-[splendor-salutation](vibhavenamaḥ) [day-wandering-salutation](ahaścarāyanamaḥ) [night-wandering-salutation](naktañcarāyanamaḥ)
+[to-mighty](vibhave)[+][obeisance](namaḥ) [to-day-wanderer](ahaścarāya)[+][obeisance](namaḥ) [to-night-wanderer](naktañcarāya)[+][obeisance](namaḥ)
 
 ## mukta-m0-p119-v2960
-[sharp-anger-salutation](tigmamanyavenamaḥ) [good-radiance-salutation](suvarccasāyanamaḥ) [elephant-slayer-salutation](gajaghnenamaḥ)
+[to-fierce-spirited](tigmamanyave)[+][obeisance](namaḥ) [to-brilliant](suvarccasāya)[+][obeisance](namaḥ) [to-elephant-slayer](gajaghne)[+][obeisance](namaḥ)
 
 ## mukta-m0-p119-v2961
-[demon-slayer-salutation](daityaghnenamaḥ) [time-salutation](kālāyanamaḥ) [world-supporter-salutation](lokadhātrenamaḥ)
+[to-demon-slayer](daityaghne)[+][obeisance](namaḥ) [to-time](kālāya)[+][obeisance](namaḥ) [to-world-supporter](lokadhātre)[+][obeisance](namaḥ)
 
 ## mukta-m0-p119-v2962
-[quality-treasury-salutation](guṇākarāyanamaḥ)
+[to-quality-mine](guṇākarāya)[+][obeisance](namaḥ)
 
 ## mukta-m0-p119-v2963
-[lion-tiger-form-salutation](siṃhaśārddūlarūpāyanamaḥ)
+[to-lion](siṃha)[+][tiger](śārddūla)[+][form](rūpāya)[+][obeisance](namaḥ)
 
 ## mukta-m0-p119-v2964
-[wet-skin-garment-covered-salutation](ārddracarmāmbarāvṛtāyanamaḥ) [time-yogin-salutation](kālayoginenamaḥ)
+[to-wet](ārddra)[+][skin](carma)[+][garment](āmbara)[+][covered](āvṛtāya)[+][obeisance](namaḥ) [to-time-yogin](kālayogine)[+][obeisance](namaḥ)
 
 ## mukta-m0-p119-v2965
-[night-wandering-salutation](niśācarāyanamaḥ) [preta-moving-salutation](pretacāriṇenamaḥ)
+[to-night-wanderer](niśācarāya)[+][obeisance](namaḥ) [to-ghost-wanderer](pretacāriṇe)[+][obeisance](namaḥ)
 
 ## mukta-m0-p119-v2966
-[gone-salutation](gatayenamaḥ) [dance-loving-salutation](nṛtyapriyāyanamaḥ) [eternal-dancer-salutation](nityanarttāyanamaḥ)
+[to-course](gataye)[+][obeisance](namaḥ) [to-dance-lover](nṛtyapriyāya)[+][obeisance](namaḥ) [to-eternal-dancer](nityanarttāya)[+][obeisance](namaḥ)
 
 ## mukta-m0-p119-v2967
-[dancer-salutation](narttakāyanamaḥ) [all-desired-salutation](sarvalālasāyanamaḥ) [terrible-salutation](ghorāyanamaḥ)
+[to-dancer](narttakāya)[+][obeisance](namaḥ) [to-all-sportive](sarvalālasāya)[+][obeisance](namaḥ) [to-terrible](ghorāya)[+][obeisance](namaḥ)
 
 ## mukta-m0-p119-v2968
-[great-ascetic-salutation](mahātapasenamaḥ) [noose-salutation](pāśāyanamaḥ) [eternal-salutation](nityāyanamaḥ)
+[to-great-austerity](mahātapase)[+][obeisance](namaḥ) [to-noose](pāśāya)[+][obeisance](namaḥ) [to-eternal](nityāya)[+][obeisance](namaḥ)
 
 ## mukta-m0-p119-v2969
-[mountain-dwelling-salutation](giriruhāyanamaḥ) [sky-salutation](nabhasenamaḥ) [thousand-handed-salutation](sahasrahastāyanamaḥ)
+[to-mountain-dwelling](giriruhāya)[+][obeisance](namaḥ) [to-sky](nabhasen)[+][obeisance](namaḥ) [to-thousand-handed](sahasrahastāya)[+][obeisance](namaḥ)
 
 ## mukta-m0-p119-v2970
-[victorious-salutation](vijayāyanamaḥ) [resolve-salutation](vyavasāyanamaḥ) [untiring-salutation](atandritāyanamaḥ)
+[to-victory](vijayāya)[+][obeisance](namaḥ) [to-resolve](vyavasāyāya)[+][obeisance](namaḥ) [to-unwearied](atandritāya)[+][obeisance](namaḥ)
 
 ## mukta-m0-p119-v2971
-[unassailable-salutation](adharṣaṇāyanamaḥ) [assailable-self-salutation](dharṣaṇātmanenamaḥ) [sacrifice-slayer-salutation](yajñaghnenamaḥ)
+[to-unassailable](adharṣaṇāya)[+][obeisance](namaḥ) [to-assailing-self](dharṣaṇātmane)[+][obeisance](namaḥ) [to-sacrifice-slayer](yajñaghne)[+][obeisance](namaḥ)
 
 ## mukta-m0-p119-v2972
-[desire-destroyer-salutation](kāmanāśakāyanamaḥ) [daksha-sacrifice-remover-salutation](dakṣayāgāpahāriṇenamaḥ)
+[to-desire-destroyer](kāmanāśakāya)[+][obeisance](namaḥ) [to-Dakṣa-sacrifice-remover](dakṣayāgāpahāriṇe)[+][obeisance](namaḥ)
 
 ## mukta-m0-p119-v2973
-[good-endurance-salutation](susahāyanamaḥ) [middle-salutation](madhyamāyanamaḥ) [radiance-remover-salutation](tejopahāriṇenamaḥ)
+[to-very-patient](susahāya)[+][obeisance](namaḥ) [to-middle](madhyamāya)[+][obeisance](namaḥ) [to-radiance-remover](tejopahāriṇe)[+][obeisance](namaḥ)
 
 ## mukta-m0-p119-v2974
-[strength-slayer-salutation](balaghnenamaḥ) [joyful-salutation](muditāyanamaḥ) [wealth-salutation](artthāyanamaḥ)
+[to-strength-slayer](balaghne)[+][obeisance](namaḥ) [to-delighted](muditāya)[+][obeisance](namaḥ) [to-meaning](artthāya)[+][obeisance](namaḥ)
 
 ## mukta-m0-p119-v2975
-[unconquered-salutation](ajitāyanamaḥ) [inferior-salutation](avarāyanamaḥ) [deep-salutation](gambhīrāyanamaḥ)
+[to-unconquered](ajitāya)[+][obeisance](namaḥ) [to-inferior](avarāya)[+][obeisance](namaḥ) [to-profound](gambhīrāya)[+][obeisance](namaḥ)
