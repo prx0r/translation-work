@@ -11,12 +11,40 @@
 "quick_gloss": "not"
 },
 {
-"surface": "dehī",
+"surface": "deha",
 "quick_gloss": "body"
 },
 {
 "surface": "iti",
 "quick_gloss": "thus"
+},
+{
+"surface": "deha",
+"quick_gloss": "body"
+},
+{
+"surface": "tat",
+"quick_gloss": "and-that"
+},
+{
+"surface": "vyāpārayoḥ",
+"quick_gloss": "activities"
+},
+{
+"surface": "tyakta",
+"quick_gloss": "abandoned"
+},
+{
+"surface": "abhimānaḥ",
+"quick_gloss": "ego-sense"
+},
+{
+"surface": "iti",
+"quick_gloss": "thus"
+},
+{
+"surface": "tātparyam",
+"quick_gloss": "purport"
 }
 ]
 },
@@ -32,12 +60,16 @@
 "quick_gloss": "as"
 },
 {
-"surface": "strīveṣito",
-"quick_gloss": "woman-dress"
+"surface": "strī",
+"quick_gloss": "woman"
+},
+{
+"surface": "veṣitaḥ",
+"quick_gloss": "disguised"
 },
 {
 "surface": "nāṭye",
-"quick_gloss": "in"
+"quick_gloss": "in-drama"
 },
 {
 "surface": "dvairūpyam",
@@ -45,7 +77,7 @@
 },
 {
 "surface": "upasaṅgataḥ",
-"quick_gloss": "approached"
+"quick_gloss": "having-attained"
 }
 ]
 },
@@ -58,11 +90,15 @@
 "tokens": [
 {
 "surface": "asau",
-"quick_gloss": "he"
+"quick_gloss": "this"
 },
 {
-"surface": "uttamajñānī",
-"quick_gloss": "supreme-knower"
+"surface": "uttama",
+"quick_gloss": "supreme"
+},
+{
+"surface": "jñānī",
+"quick_gloss": "knower"
 },
 {
 "surface": "atra",
@@ -73,12 +109,20 @@
 "quick_gloss": "example"
 },
 {
-"surface": "yatheti",
+"surface": "yathā",
 "quick_gloss": "as"
 },
 {
-"surface": "strīveṣitaḥ",
-"quick_gloss": "woman-dressed"
+"surface": "iti",
+"quick_gloss": "thus"
+},
+{
+"surface": "strī",
+"quick_gloss": "woman"
+},
+{
+"surface": "veṣitaḥ",
+"quick_gloss": "disguised"
 },
 {
 "surface": "puruṣaḥ",
@@ -94,20 +138,32 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "evameṣa",
+"surface": "evam",
 "quick_gloss": "thus"
 },
 {
-"surface": "jagatkrīḍā",
-"quick_gloss": "world-play"
+"surface": "eṣaḥ",
+"quick_gloss": "this"
 },
 {
-"surface": "tatparo",
-"quick_gloss": "devoted"
+"surface": "jagat",
+"quick_gloss": "world"
 },
 {
-"surface": "nirmalāśayaḥ",
-"quick_gloss": "pure-minded"
+"surface": "krīḍā",
+"quick_gloss": "play"
+},
+{
+"surface": "tatparaḥ",
+"quick_gloss": "intent-on"
+},
+{
+"surface": "nirmala",
+"quick_gloss": "pure"
+},
+{
+"surface": "āśayaḥ",
+"quick_gloss": "minded"
 }
 ]
 },
@@ -119,16 +175,24 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "acalasthitiretasya",
-"quick_gloss": "unmoving-state"
+"surface": "acala",
+"quick_gloss": "unmoving"
+},
+{
+"surface": "sthitiḥ",
+"quick_gloss": "state"
+},
+{
+"surface": "etasya",
+"quick_gloss": "of-this"
 },
 {
 "surface": "vicārasya",
-"quick_gloss": "inquiry"
+"quick_gloss": "of-inquiry"
 },
 {
 "surface": "prakarṣataḥ",
-"quick_gloss": "excellence"
+"quick_gloss": "by-excellence"
 }
 ]
 },
@@ -140,8 +204,24 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "niṣprakampaniścayarūpaphalaparyavasāyitā",
-"quick_gloss": "unshakable-certainty"
+"surface": "niṣprakampa",
+"quick_gloss": "unshaken"
+},
+{
+"surface": "niścaya",
+"quick_gloss": "certainty"
+},
+{
+"surface": "rūpa",
+"quick_gloss": "form"
+},
+{
+"surface": "phala",
+"quick_gloss": "result"
+},
+{
+"surface": "paryavasāyitā",
+"quick_gloss": "culmination"
 }
 ]
 },
@@ -162,19 +242,23 @@
 },
 {
 "surface": "śṛṇu",
-"quick_gloss": "hear"
+"quick_gloss": "listen"
 },
 {
 "surface": "vakṣyāmi",
-"quick_gloss": "i-will-speak"
+"quick_gloss": "I-shall-tell"
 },
 {
-"surface": "saṃvādaṃ",
+"surface": "saṃvādam",
 "quick_gloss": "dialogue"
 },
 {
-"surface": "jñāninormithaḥ",
-"quick_gloss": "of-knowers"
+"surface": "jñāninoḥ",
+"quick_gloss": "of-two-knowers"
+},
+{
+"surface": "mithaḥ",
+"quick_gloss": "mutual"
 }
 ]
 },
@@ -186,12 +270,28 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "vijñānaprakriyāprasaṅge",
-"quick_gloss": "knowledge-process"
+"surface": "vijñāna",
+"quick_gloss": "knowledge"
 },
 {
-"surface": "sarvasandehanāśanaṃ",
-"quick_gloss": "all-doubt-destruction"
+"surface": "prakriyā",
+"quick_gloss": "method"
+},
+{
+"surface": "prasaṅge",
+"quick_gloss": "in-context"
+},
+{
+"surface": "sarva",
+"quick_gloss": "all"
+},
+{
+"surface": "sandeha",
+"quick_gloss": "doubt"
+},
+{
+"surface": "nāśanam",
+"quick_gloss": "destroying"
 },
 {
 "surface": "saṃvādam",
@@ -207,16 +307,32 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "sa",
+"surface": "saḥ",
 "quick_gloss": "he"
 },
 {
-"surface": "vipāśāmanu",
-"quick_gloss": "vipāśā"
+"surface": "vipāśām",
+"quick_gloss": "Vipāśā"
 },
 {
-"surface": "purīmadhyāsīdamṛtābhidhām",
+"surface": "anu",
+"quick_gloss": "along"
+},
+{
+"surface": "purīm",
 "quick_gloss": "city"
+},
+{
+"surface": "adhyāsīt",
+"quick_gloss": "dwelt-in"
+},
+{
+"surface": "amṛtā",
+"quick_gloss": "Amṛtā"
+},
+{
+"surface": "abhidhām",
+"quick_gloss": "named"
 }
 ]
 },
@@ -228,15 +344,27 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "vipāśāmanu",
-"quick_gloss": "vipāśā"
+"surface": "vipāśām",
+"quick_gloss": "Vipāśā"
 },
 {
-"surface": "vipāśānadītīre",
-"quick_gloss": "vipāśā-river-bank"
+"surface": "anu",
+"quick_gloss": "along"
 },
 {
-"surface": "sthitāṃ",
+"surface": "vipāśā",
+"quick_gloss": "Vipāśā"
+},
+{
+"surface": "nadī",
+"quick_gloss": "river"
+},
+{
+"surface": "tīre",
+"quick_gloss": "bank"
+},
+{
+"surface": "sthitām",
 "quick_gloss": "situated"
 },
 {
@@ -253,12 +381,24 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "rukmāṅgadahemāṅgadau",
-"quick_gloss": "rukmāṅgada-hemāṅgada"
+"surface": "rukmāṅgada",
+"quick_gloss": "Rukmāṅgada"
 },
 {
-"surface": "janakasyātivallabhau",
-"quick_gloss": "janaka's"
+"surface": "hemāṅgadau",
+"quick_gloss": "and-Hemāṅgada"
+},
+{
+"surface": "janakasya",
+"quick_gloss": "of-Janaka"
+},
+{
+"surface": "ati",
+"quick_gloss": "very"
+},
+{
+"surface": "vallabhau",
+"quick_gloss": "beloved"
 }
 ]
 },
@@ -274,8 +414,12 @@
 "quick_gloss": "wise"
 },
 {
-"surface": "nirmalaprajñau",
-"quick_gloss": "pure-intellect"
+"surface": "nirmala",
+"quick_gloss": "pure"
+},
+{
+"surface": "prajñau",
+"quick_gloss": "intellect"
 },
 {
 "surface": "vallabhau",
@@ -295,12 +439,28 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "hemāṅgado'tivijñāno",
-"quick_gloss": "hemāṅgada"
+"surface": "hemāṅgadaḥ",
+"quick_gloss": "Hemāṅgada"
 },
 {
-"surface": "jñānināmuttamo'bhavat",
-"quick_gloss": "supreme-knower"
+"surface": "ati",
+"quick_gloss": "very"
+},
+{
+"surface": "vijñānaḥ",
+"quick_gloss": "learned"
+},
+{
+"surface": "jñāninām",
+"quick_gloss": "of-knowers"
+},
+{
+"surface": "uttamaḥ",
+"quick_gloss": "supreme"
+},
+{
+"surface": "abhavat",
+"quick_gloss": "became"
 }
 ]
 },
@@ -312,20 +472,28 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "mṛgayārthaṃ",
-"quick_gloss": "hunting"
+"surface": "mṛgayā",
+"quick_gloss": "for-hunting"
+},
+{
+"surface": "artham",
+"quick_gloss": "purpose"
 },
 {
 "surface": "vasanteṣu",
 "quick_gloss": "in-springs"
 },
 {
-"surface": "yayaturgahanaṃ",
+"surface": "yayatuḥ",
 "quick_gloss": "went"
 },
 {
-"surface": "vanaṃ",
+"surface": "gahanam",
 "quick_gloss": "dense"
+},
+{
+"surface": "vanam",
+"quick_gloss": "forest"
 }
 ]
 },
@@ -337,23 +505,35 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "vasanteṣviti",
+"surface": "vasanteṣu",
 "quick_gloss": "in-springs"
 },
 {
-"surface": "bahuvacanaṃ",
+"surface": "iti",
+"quick_gloss": "thus"
+},
+{
+"surface": "bahuvacanam",
 "quick_gloss": "plural"
 },
 {
-"surface": "bahudinabodhakam",
-"quick_gloss": "many-days"
+"surface": "bahu",
+"quick_gloss": "many"
 },
 {
-"surface": "gahanaṃ",
+"surface": "dina",
+"quick_gloss": "day"
+},
+{
+"surface": "bodhakam",
+"quick_gloss": "indicating"
+},
+{
+"surface": "gahanam",
 "quick_gloss": "dense"
 },
 {
-"surface": "vanaṃ",
+"surface": "vanam",
 "quick_gloss": "forest"
 },
 {
@@ -370,12 +550,28 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "hatvā'tyantapariśrāntāvāsādya",
+"surface": "hatvā",
 "quick_gloss": "having-killed"
 },
 {
-"surface": "hradamāsthitau",
-"quick_gloss": "pool"
+"surface": "atyanta",
+"quick_gloss": "very"
+},
+{
+"surface": "pariśrāntau",
+"quick_gloss": "exhausted"
+},
+{
+"surface": "āsādya",
+"quick_gloss": "having-reached"
+},
+{
+"surface": "hradam",
+"quick_gloss": "pond"
+},
+{
+"surface": "āsthitau",
+"quick_gloss": "remained"
 }
 ]
 },
@@ -388,11 +584,11 @@
 "tokens": [
 {
 "surface": "kañcana",
-"quick_gloss": "some"
+"quick_gloss": "a-certain"
 },
 {
 "surface": "hradam",
-"quick_gloss": "pool"
+"quick_gloss": "pond"
 }
 ]
 },
@@ -404,12 +600,32 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "samastaśāstrasārajño",
-"quick_gloss": "all-script-essence-knower"
+"surface": "samasta",
+"quick_gloss": "all"
 },
 {
-"surface": "vidvadbhirvivadatyalam",
+"surface": "śāstra",
+"quick_gloss": "scripture"
+},
+{
+"surface": "sāra",
+"quick_gloss": "essence"
+},
+{
+"surface": "jñaḥ",
+"quick_gloss": "knower"
+},
+{
+"surface": "vidvadbhiḥ",
 "quick_gloss": "with-scholars"
+},
+{
+"surface": "vivadati",
+"quick_gloss": "debates"
+},
+{
+"surface": "alam",
+"quick_gloss": "greatly"
 }
 ]
 },
@@ -422,15 +638,19 @@
 "tokens": [
 {
 "surface": "nyagrodhe",
-"quick_gloss": "nyagrodha"
+"quick_gloss": "in-banyan-tree"
 },
 {
-"surface": "vaṭavṛkṣe",
-"quick_gloss": "banyan-tree"
+"surface": "vaṭa",
+"quick_gloss": "banyan"
 },
 {
-"surface": "sthita",
-"quick_gloss": "stood"
+"surface": "vṛkṣe",
+"quick_gloss": "tree"
+},
+{
+"surface": "sthitaḥ",
+"quick_gloss": "situated"
 },
 {
 "surface": "iti",
@@ -438,15 +658,15 @@
 },
 {
 "surface": "śeṣaḥ",
-"quick_gloss": "remainder"
+"quick_gloss": "supplied"
 },
 {
 "surface": "alam",
-"quick_gloss": "enough"
+"quick_gloss": "greatly"
 },
 {
 "surface": "atyantam",
-"quick_gloss": "excessive"
+"quick_gloss": "exceedingly"
 }
 ]
 },
@@ -458,16 +678,32 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "rukmāṅgadaścāramukhād",
-"quick_gloss": "rukmāṅgada"
+"surface": "rukmāṅgadaḥ",
+"quick_gloss": "Rukmāṅgada"
+},
+{
+"surface": "ca",
+"quick_gloss": "and"
+},
+{
+"surface": "cara",
+"quick_gloss": "from-spy"
+},
+{
+"surface": "mukhāt",
+"quick_gloss": "mouth"
 },
 {
 "surface": "niśamya",
-"quick_gloss": "hearing"
+"quick_gloss": "having-heard"
 },
 {
-"surface": "vādakautukī",
-"quick_gloss": "debate-curious"
+"surface": "vāda",
+"quick_gloss": "debate"
+},
+{
+"surface": "kautukī",
+"quick_gloss": "eager"
 }
 ]
 },
@@ -479,20 +715,24 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "nirjitastena",
+"surface": "nirjitaḥ",
 "quick_gloss": "defeated"
+},
+{
+"surface": "tena",
+"quick_gloss": "by-him"
 },
 {
 "surface": "vādeṣu",
 "quick_gloss": "in-debates"
 },
 {
-"surface": "gṛhīto",
+"surface": "gṛhītaḥ",
 "quick_gloss": "seized"
 },
 {
 "surface": "brahmarakṣasā",
-"quick_gloss": "brahma-rākṣasa"
+"quick_gloss": "by-brahma-demon"
 }
 ]
 },
@@ -508,8 +748,12 @@
 "quick_gloss": "there"
 },
 {
-"surface": "nyagrodhapradeśe",
-"quick_gloss": "nyagrodha-region"
+"surface": "nyagrodha",
+"quick_gloss": "banyan-tree"
+},
+{
+"surface": "pradeśe",
+"quick_gloss": "region"
 },
 {
 "surface": "tena",
@@ -517,7 +761,7 @@
 },
 {
 "surface": "brahmarākṣasena",
-"quick_gloss": "brahma-rākṣasa"
+"quick_gloss": "by-brahma-demon"
 }
 ]
 },
@@ -530,14 +774,18 @@
 "tokens": [
 {
 "surface": "bho",
-"quick_gloss": "o"
+"quick_gloss": "O"
 },
 {
-"surface": "brahmarākṣasainaṃ",
-"quick_gloss": "brahma-rākṣasa"
+"surface": "brahmarākṣasa",
+"quick_gloss": "brahma-demon"
 },
 {
-"surface": "tvaṃ",
+"surface": "enam",
+"quick_gloss": "this-one"
+},
+{
+"surface": "tvam",
 "quick_gloss": "you"
 },
 {
@@ -545,8 +793,12 @@
 "quick_gloss": "not"
 },
 {
-"surface": "bhakṣayitumarhasi",
-"quick_gloss": "devour"
+"surface": "bhakṣayitum",
+"quick_gloss": "to-devour"
+},
+{
+"surface": "arhasi",
+"quick_gloss": "ought"
 }
 ]
 },
@@ -558,24 +810,24 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "rukmāṅgado",
-"quick_gloss": "rukmāṅgada"
+"surface": "rukmāṅgadaḥ",
+"quick_gloss": "Rukmāṅgada"
 },
 {
 "surface": "gṛhītaḥ",
 "quick_gloss": "seized"
 },
 {
-"surface": "taṃ",
-"quick_gloss": "him"
+"surface": "tam",
+"quick_gloss": "that"
 },
 {
 "surface": "brahmarākṣasam",
-"quick_gloss": "brahma-rākṣasa"
+"quick_gloss": "brahma-demon"
 },
 {
-"surface": "enaṃ",
-"quick_gloss": "this"
+"surface": "enam",
+"quick_gloss": "this-one"
 },
 {
 "surface": "madbhrātaram",
@@ -591,12 +843,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "hemāṅgadavacaḥ",
-"quick_gloss": "hemāṅgada's-word"
+"surface": "hemāṅgada",
+"quick_gloss": "Hemāṅgada"
+},
+{
+"surface": "vacaḥ",
+"quick_gloss": "speech"
 },
 {
 "surface": "śrutvā",
-"quick_gloss": "hearing"
+"quick_gloss": "having-heard"
 },
 {
 "surface": "provāca",
@@ -604,7 +860,7 @@
 },
 {
 "surface": "brahmarākṣasaḥ",
-"quick_gloss": "brahma-rākṣasa"
+"quick_gloss": "brahma-demon"
 }
 ]
 }

@@ -7,24 +7,48 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "tāneva",
-"quick_gloss": "those-questions"
+"surface": "tān",
+"quick_gloss": "those"
 },
 {
-"surface": "praśnānāha",
-"quick_gloss": "he-says"
+"surface": "eva",
+"quick_gloss": "+indeed"
 },
 {
-"surface": "ākāśādityādi",
-"quick_gloss": "from-space-etc"
+"surface": "praśnān",
+"quick_gloss": "questions"
+},
+{
+"surface": "āha",
+"quick_gloss": "+speaks"
+},
+{
+"surface": "ākāśa",
+"quick_gloss": "space"
+},
+{
+"surface": "ādi",
+"quick_gloss": "+etc."
+},
+{
+"surface": "iti",
+"quick_gloss": "+thus"
+},
+{
+"surface": "ādi",
+"quick_gloss": "+and-so-on"
 },
 {
 "surface": "sā",
-"quick_gloss": "she-question-form"
+"quick_gloss": "that"
 },
 {
-"surface": "pṛṣṭarūpā",
-"quick_gloss": "pṛṣṭa-form"
+"surface": "pṛṣṭa",
+"quick_gloss": "questioned"
+},
+{
+"surface": "rūpā",
+"quick_gloss": "+form"
 }
 ]
 },
@@ -36,24 +60,40 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "sphuradrūpā",
-"quick_gloss": "shining-form"
+"surface": "sphurat",
+"quick_gloss": "shining"
 },
 {
-"surface": "svātmasaṃsthā",
-"quick_gloss": "abiding-in-self"
+"surface": "rūpā",
+"quick_gloss": "+form"
+},
+{
+"surface": "sva",
+"quick_gloss": "own"
+},
+{
+"surface": "ātma",
+"quick_gloss": "+self"
+},
+{
+"surface": "saṃsthā",
+"quick_gloss": "+abiding"
 },
 {
 "surface": "śṛṇu",
-"quick_gloss": "hear"
+"quick_gloss": "listen"
 },
 {
-"surface": "tvaṃ",
+"surface": "tvam",
 "quick_gloss": "you"
 },
 {
-"surface": "brahmarākṣasa",
-"quick_gloss": "brahma-rākṣasa"
+"surface": "brahma",
+"quick_gloss": "brahma"
+},
+{
+"surface": "rākṣasa",
+"quick_gloss": "+demon"
 }
 ]
 },
@@ -65,28 +105,44 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "sarvāntaratvāt",
-"quick_gloss": "all-inner-ness"
+"surface": "sarva",
+"quick_gloss": "all"
+},
+{
+"surface": "antaratvāt",
+"quick_gloss": "+innerness"
 },
 {
 "surface": "ca",
-"quick_gloss": "and"
+"quick_gloss": "+and"
 },
 {
 "surface": "agocaratvāt",
-"quick_gloss": "non-perceptibility"
+"quick_gloss": "non-objectness"
+},
+{
+"surface": "ca",
+"quick_gloss": "+and"
 },
 {
 "surface": "sūkṣmatvam",
 "quick_gloss": "subtlety"
 },
 {
-"surface": "svātmasaṃsthā",
-"quick_gloss": "abiding-in-self"
+"surface": "sva",
+"quick_gloss": "own"
+},
+{
+"surface": "ātma",
+"quick_gloss": "+self"
+},
+{
+"surface": "saṃsthā",
+"quick_gloss": "+abiding"
 },
 {
 "surface": "svarūpa",
-"quick_gloss": "own-form"
+"quick_gloss": "own-nature"
 },
 {
 "surface": "eva",
@@ -94,7 +150,7 @@
 },
 {
 "surface": "sthitā",
-"quick_gloss": "established"
+"quick_gloss": "situated"
 }
 ]
 },
@@ -107,27 +163,39 @@
 "tokens": [
 {
 "surface": "sphurattvaṃ",
-"quick_gloss": "shining-ness"
+"quick_gloss": "shiningness"
 },
 {
-"surface": "kiṃ",
+"surface": "kim",
 "quick_gloss": "what"
 },
 {
-"surface": "kimātmā",
-"quick_gloss": "what-self"
+"surface": "kim",
+"quick_gloss": "what"
+},
+{
+"surface": "ātmā",
+"quick_gloss": "+nature"
 },
 {
 "surface": "ca",
 "quick_gloss": "and"
 },
 {
-"surface": "vadaitat",
+"surface": "vada",
 "quick_gloss": "tell"
 },
 {
-"surface": "nṛpanandana",
-"quick_gloss": "prince's-son"
+"surface": "etat",
+"quick_gloss": "+this"
+},
+{
+"surface": "nṛpa",
+"quick_gloss": "king"
+},
+{
+"surface": "nandana",
+"quick_gloss": "+son"
 }
 ]
 },
@@ -140,7 +208,7 @@
 "tokens": [
 {
 "surface": "vitatā",
-"quick_gloss": "spread"
+"quick_gloss": "extended"
 },
 {
 "surface": "sūkṣmā",
@@ -148,7 +216,7 @@
 },
 {
 "surface": "api",
-"quick_gloss": "also"
+"quick_gloss": "+though"
 },
 {
 "surface": "ekā",
@@ -159,12 +227,12 @@
 "quick_gloss": "and"
 },
 {
-"surface": "kathaṃ",
+"surface": "katham",
 "quick_gloss": "how"
 },
 {
 "surface": "bhavet",
-"quick_gloss": "become"
+"quick_gloss": "may-be"
 }
 ]
 },
@@ -177,11 +245,11 @@
 "tokens": [
 {
 "surface": "sphurattvam",
-"quick_gloss": "shining-ness"
+"quick_gloss": "shiningness"
 },
 {
 "surface": "ātmā",
-"quick_gloss": "self"
+"quick_gloss": "+self"
 },
 {
 "surface": "ca",
@@ -193,15 +261,19 @@
 },
 {
 "surface": "śṛṇu",
-"quick_gloss": "hear"
+"quick_gloss": "listen"
 },
 {
-"surface": "tvaṃ",
+"surface": "tvam",
 "quick_gloss": "you"
 },
 {
-"surface": "brahmarākṣasa",
-"quick_gloss": "brahma-rākṣasa"
+"surface": "brahma",
+"quick_gloss": "brahma"
+},
+{
+"surface": "rākṣasa",
+"quick_gloss": "+demon"
 }
 ]
 },
@@ -213,12 +285,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "cinmātram",
-"quick_gloss": "consciousness-only"
+"surface": "cit",
+"quick_gloss": "consciousness"
+},
+{
+"surface": "mātram",
+"quick_gloss": "+mere"
 },
 {
 "surface": "eva",
-"quick_gloss": "eva"
+"quick_gloss": "+indeed"
 },
 {
 "surface": "na",
@@ -230,11 +306,11 @@
 },
 {
 "surface": "adhikam",
-"quick_gloss": "more"
+"quick_gloss": "+more"
 },
 {
 "surface": "iti",
-"quick_gloss": "iti"
+"quick_gloss": "+thus"
 },
 {
 "surface": "tātparyam",
@@ -251,14 +327,14 @@
 "tokens": [
 {
 "surface": "upalabdhyā",
-"quick_gloss": "by-perception"
+"quick_gloss": "by-apprehension"
 },
 {
 "surface": "ca",
 "quick_gloss": "and"
 },
 {
-"surface": "kiṃ",
+"surface": "kim",
 "quick_gloss": "what"
 },
 {
@@ -266,16 +342,24 @@
 "quick_gloss": "or"
 },
 {
-"surface": "syād",
-"quick_gloss": "be"
+"surface": "syāt",
+"quick_gloss": "may-be"
 },
 {
-"surface": "vadaitat",
+"surface": "vada",
 "quick_gloss": "tell"
 },
 {
-"surface": "nṛpanandana",
-"quick_gloss": "prince's-son"
+"surface": "etat",
+"quick_gloss": "+this"
+},
+{
+"surface": "nṛpa",
+"quick_gloss": "king"
+},
+{
+"surface": "nandana",
+"quick_gloss": "+son"
 }
 ]
 },
@@ -288,31 +372,35 @@
 "tokens": [
 {
 "surface": "upalabdhyā",
-"quick_gloss": "by-perception"
+"quick_gloss": "by-apprehension"
 },
 {
-"surface": "janir",
+"surface": "janiḥ",
 "quick_gloss": "birth"
 },
 {
 "surface": "na",
-"quick_gloss": "na"
+"quick_gloss": "not"
 },
 {
 "surface": "syāt",
-"quick_gloss": "be"
+"quick_gloss": "may-be"
 },
 {
 "surface": "śṛṇu",
-"quick_gloss": "hear"
+"quick_gloss": "listen"
 },
 {
-"surface": "tvaṃ",
+"surface": "tvam",
 "quick_gloss": "you"
 },
 {
-"surface": "brahmarākṣasa",
-"quick_gloss": "brahma-rākṣasa"
+"surface": "brahma",
+"quick_gloss": "brahma"
+},
+{
+"surface": "rākṣasa",
+"quick_gloss": "+demon"
 }
 ]
 },
@@ -324,20 +412,40 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "svātmacinmātrākāratāsampattiḥ",
-"quick_gloss": "self-consciousness-only-form-attainment"
+"surface": "sva",
+"quick_gloss": "own"
+},
+{
+"surface": "ātma",
+"quick_gloss": "+self"
+},
+{
+"surface": "cinmātra",
+"quick_gloss": "consciousness"
+},
+{
+"surface": "ākāratā",
+"quick_gloss": "+form"
+},
+{
+"surface": "sampattiḥ",
+"quick_gloss": "+attainment"
 },
 {
 "surface": "etena",
 "quick_gloss": "by-this"
 },
 {
-"surface": "mūḍhasamādhiḥ",
-"quick_gloss": "deluded-samādhi"
+"surface": "mūḍha",
+"quick_gloss": "deluded"
+},
+{
+"surface": "samādhiḥ",
+"quick_gloss": "+samadhi"
 },
 {
 "surface": "vyāvṛttaḥ",
-"quick_gloss": "removed"
+"quick_gloss": "excluded"
 }
 ]
 },
@@ -349,7 +457,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "janir",
+"surface": "janiḥ",
 "quick_gloss": "birth"
 },
 {
@@ -358,11 +466,11 @@
 },
 {
 "surface": "api",
-"quick_gloss": "api"
+"quick_gloss": "+also"
 },
 {
 "surface": "bhavet",
-"quick_gloss": "become"
+"quick_gloss": "may-be"
 },
 {
 "surface": "kā",
@@ -373,12 +481,20 @@
 "quick_gloss": "that"
 },
 {
-"surface": "vadaitat",
+"surface": "vada",
 "quick_gloss": "tell"
 },
 {
-"surface": "nṛpanandana",
-"quick_gloss": "prince's-son"
+"surface": "etat",
+"quick_gloss": "+this"
+},
+{
+"surface": "nṛpa",
+"quick_gloss": "king"
+},
+{
+"surface": "nandana",
+"quick_gloss": "+son"
 }
 ]
 },
@@ -390,24 +506,36 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "janir",
+"surface": "janiḥ",
 "quick_gloss": "birth"
 },
 {
-"surface": "dehātmatābuddhiḥ",
-"quick_gloss": "body-self-ness-buddhi"
+"surface": "deha",
+"quick_gloss": "body"
+},
+{
+"surface": "ātmatā",
+"quick_gloss": "+selfness"
+},
+{
+"surface": "buddhiḥ",
+"quick_gloss": "+notion"
 },
 {
 "surface": "śṛṇu",
-"quick_gloss": "hear"
+"quick_gloss": "listen"
 },
 {
-"surface": "tvaṃ",
+"surface": "tvam",
 "quick_gloss": "you"
 },
 {
-"surface": "brahmarākṣasa",
-"quick_gloss": "brahma-rākṣasa"
+"surface": "brahma",
+"quick_gloss": "brahma"
+},
+{
+"surface": "rākṣasa",
+"quick_gloss": "+demon"
 }
 ]
 },
@@ -419,8 +547,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "dṛśyānunmukhatvam",
-"quick_gloss": "object-facing-ness"
+"surface": "dṛśya",
+"quick_gloss": "toward-the-seen"
+},
+{
+"surface": "anunmukhatvam",
+"quick_gloss": "+non-turningness"
 }
 ]
 },
@@ -436,7 +568,7 @@
 "quick_gloss": "birth"
 },
 {
-"surface": "kathaṃ",
+"surface": "katham",
 "quick_gloss": "how"
 },
 {
@@ -448,12 +580,20 @@
 "quick_gloss": "obtained"
 },
 {
-"surface": "vadaitat",
+"surface": "vada",
 "quick_gloss": "tell"
 },
 {
-"surface": "nṛpanandana",
-"quick_gloss": "prince's-son"
+"surface": "etat",
+"quick_gloss": "+this"
+},
+{
+"surface": "nṛpa",
+"quick_gloss": "king"
+},
+{
+"surface": "nandana",
+"quick_gloss": "+son"
 }
 ]
 },
@@ -465,16 +605,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "kasmānnimittāt",
-"quick_gloss": "from-what-cause"
+"surface": "kasmāt",
+"quick_gloss": "from-what"
 },
 {
-"surface": "kena+karaṇena",
-"quick_gloss": "by-what-instrument"
+"surface": "nimittāt",
+"quick_gloss": "+cause"
 },
 {
-"surface": "kāra",
-"quick_gloss": "kāra"
+"surface": "kena",
+"quick_gloss": "by-what"
+},
+{
+"surface": "karaṇena",
+"quick_gloss": "instrument"
 }
 ]
 },
@@ -490,20 +634,28 @@
 "quick_gloss": "birth"
 },
 {
-"surface": "kartṛtvābhimānāt",
-"quick_gloss": "doership-identification"
+"surface": "kartṛtva",
+"quick_gloss": "doership"
+},
+{
+"surface": "abhimānāt",
+"quick_gloss": "+identification"
 },
 {
 "surface": "śṛṇu",
-"quick_gloss": "hear"
+"quick_gloss": "listen"
 },
 {
-"surface": "tvaṃ",
+"surface": "tvam",
 "quick_gloss": "you"
 },
 {
-"surface": "brahmarākṣasa",
-"quick_gloss": "brahma-rākṣasa"
+"surface": "brahma",
+"quick_gloss": "brahma"
+},
+{
+"surface": "rākṣasa",
+"quick_gloss": "+demon"
 }
 ]
 },
@@ -524,19 +676,27 @@
 },
 {
 "surface": "eva",
-"quick_gloss": "eva"
+"quick_gloss": "+indeed"
 },
 {
-"surface": "karaṇāntaranairapekṣyeṇa",
-"quick_gloss": "instrument-independence"
+"surface": "karaṇa",
+"quick_gloss": "other"
 },
 {
-"surface": "eti",
-"quick_gloss": "iti"
+"surface": "antara",
+"quick_gloss": "+instrument"
+},
+{
+"surface": "nairapekṣyeṇa",
+"quick_gloss": "+independence"
+},
+{
+"surface": "iti",
+"quick_gloss": "+thus"
 },
 {
 "surface": "yāvat",
-"quick_gloss": "yāvat"
+"quick_gloss": "as-far-as"
 }
 ]
 },
@@ -548,24 +708,36 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "ko",
-"quick_gloss": "who"
+"surface": "kaḥ",
+"quick_gloss": "what"
 },
 {
 "surface": "vā",
 "quick_gloss": "or"
 },
 {
-"surface": "kartṛtvābhimāno",
-"quick_gloss": "doership-identification"
+"surface": "kartṛtva",
+"quick_gloss": "doership"
 },
 {
-"surface": "vadaitat",
+"surface": "abhimānaḥ",
+"quick_gloss": "+identification"
+},
+{
+"surface": "vada",
 "quick_gloss": "tell"
 },
 {
-"surface": "nṛpanandana",
-"quick_gloss": "prince's-son"
+"surface": "etat",
+"quick_gloss": "+this"
+},
+{
+"surface": "nṛpa",
+"quick_gloss": "king"
+},
+{
+"surface": "nandana",
+"quick_gloss": "+son"
 }
 ]
 },
@@ -577,24 +749,36 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "tadvāsanābhimānaḥ",
-"quick_gloss": "that-vasanā-identification"
+"surface": "tat",
+"quick_gloss": "that"
+},
+{
+"surface": "vāsanā",
+"quick_gloss": "+latent-impression"
+},
+{
+"surface": "abhimānaḥ",
+"quick_gloss": "+identification"
 },
 {
 "surface": "syāt",
-"quick_gloss": "be"
+"quick_gloss": "may-be"
 },
 {
 "surface": "śṛṇu",
-"quick_gloss": "hear"
+"quick_gloss": "listen"
 },
 {
-"surface": "tvaṃ",
+"surface": "tvam",
 "quick_gloss": "you"
 },
 {
-"surface": "brahmarākṣasa",
-"quick_gloss": "brahma-rākṣasa"
+"surface": "brahma",
+"quick_gloss": "brahma"
+},
+{
+"surface": "rākṣasa",
+"quick_gloss": "+demon"
 }
 ]
 },
@@ -607,7 +791,7 @@
 "tokens": [
 {
 "surface": "saṃskāraḥ",
-"quick_gloss": "saṃskāra"
+"quick_gloss": "latent-impression"
 }
 ]
 },
@@ -624,10 +808,10 @@
 },
 {
 "surface": "api",
-"quick_gloss": "api"
+"quick_gloss": "+also"
 },
 {
-"surface": "kiṃ",
+"surface": "kim",
 "quick_gloss": "what"
 },
 {
@@ -635,16 +819,24 @@
 "quick_gloss": "cause"
 },
 {
-"surface": "syād",
-"quick_gloss": "be"
+"surface": "syāt",
+"quick_gloss": "may-be"
 },
 {
-"surface": "vadaitat",
+"surface": "vada",
 "quick_gloss": "tell"
 },
 {
-"surface": "nṛpanandana",
-"quick_gloss": "prince's-son"
+"surface": "etat",
+"quick_gloss": "+this"
+},
+{
+"surface": "nṛpa",
+"quick_gloss": "king"
+},
+{
+"surface": "nandana",
+"quick_gloss": "+son"
 }
 ]
 },
@@ -660,20 +852,32 @@
 "quick_gloss": "of-that"
 },
 {
-"surface": "avivekanāśakasya",
-"quick_gloss": "non-discrimination-destroyer"
+"surface": "aviveka",
+"quick_gloss": "non-discrimination"
 },
 {
-"surface": "tasyāpi",
+"surface": "nāśakasya",
+"quick_gloss": "+destroyer"
+},
+{
+"surface": "tasyā",
 "quick_gloss": "of-that"
 },
 {
-"surface": "tatkāraṇasya",
-"quick_gloss": "that-cause"
+"surface": "api",
+"quick_gloss": "+also"
+},
+{
+"surface": "tat",
+"quick_gloss": "of-that"
+},
+{
+"surface": "kāraṇasya",
+"quick_gloss": "+cause"
 },
 {
 "surface": "api",
-"quick_gloss": "api"
+"quick_gloss": "+also"
 }
 ]
 },
@@ -685,24 +889,36 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "tatkāraṇaṃ",
-"quick_gloss": "that-cause"
+"surface": "tat",
+"quick_gloss": "that"
 },
 {
-"surface": "doṣadṛṣṭiḥ",
-"quick_gloss": "fault-view"
+"surface": "kāraṇaṃ",
+"quick_gloss": "+cause"
+},
+{
+"surface": "doṣa",
+"quick_gloss": "fault"
+},
+{
+"surface": "dṛṣṭiḥ",
+"quick_gloss": "+vision"
 },
 {
 "surface": "śṛṇu",
-"quick_gloss": "hear"
+"quick_gloss": "listen"
 },
 {
-"surface": "tvaṃ",
+"surface": "tvam",
 "quick_gloss": "you"
 },
 {
-"surface": "brahmarākṣasa",
-"quick_gloss": "brahma-rākṣasa"
+"surface": "brahma",
+"quick_gloss": "brahma"
+},
+{
+"surface": "rākṣasa",
+"quick_gloss": "+demon"
 }
 ]
 },
@@ -714,8 +930,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "viṣayadoṣadṛṣṭiḥ",
-"quick_gloss": "object-fault-view"
+"surface": "viṣaya",
+"quick_gloss": "object"
+},
+{
+"surface": "doṣa",
+"quick_gloss": "+fault"
+},
+{
+"surface": "dṛṣṭiḥ",
+"quick_gloss": "+vision"
 }
 ]
 },
@@ -727,12 +951,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "doṣadṛṣṭiḥ",
-"quick_gloss": "fault-view"
+"surface": "doṣa",
+"quick_gloss": "fault"
+},
+{
+"surface": "dṛṣṭiḥ",
+"quick_gloss": "+vision"
 },
 {
 "surface": "ca",
-"quick_gloss": "ca"
+"quick_gloss": "and"
 },
 {
 "surface": "kā",
@@ -740,15 +968,23 @@
 },
 {
 "surface": "proktā",
-"quick_gloss": "proclaimed"
+"quick_gloss": "declared"
 },
 {
-"surface": "vadaitat",
+"surface": "vada",
 "quick_gloss": "tell"
 },
 {
-"surface": "nṛpanandana",
-"quick_gloss": "prince's-son"
+"surface": "etat",
+"quick_gloss": "+this"
+},
+{
+"surface": "nṛpa",
+"quick_gloss": "king"
+},
+{
+"surface": "nandana",
+"quick_gloss": "+son"
 }
 ]
 }

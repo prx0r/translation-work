@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p137-v3401
-[saṃsāra](saṃsāreti) [taraṇi](taraṇirnaukā) [naukā](naukā) [sūrya](sūryo) [vā](vā)
+[causes-to-wander](saṃsāreti) [sun](taraṇiḥ) [boat](naukā) [sun](sūryaḥ) [or](vā)
 
 ## mukta-m0-p137-v3402
-[avidyā](avidyājālavibhrāntermuktaprāyo) [jāla](jāla) [vibhrānti](vibhrānti) [mukta](muktaprāyo) [prāya](prāya) [babhūva](babhūva) [ha](ha)
+[ignorance+net+delusion](avidyā+jāla+vibhrānteḥ) [almost+liberated](mukta+prāyaḥ) [became](babhūva) [indeed](ha)
 
 ## mukta-m0-p137-v3403
-[vidyamānatva](vidyamānatvādāha) [āha](āha) [muktaprāya](muktaprāya) [iti](iti)
+[being-present](vidyamānatvāt) [says](āha) [almost+liberated](mukta+prāyaḥ) [thus](iti)
 
 ## mukta-m0-p137-v3404
-[bhagavan](bhagavan) [brūhi](brūhi) [vijñānasādhana](vijñānasādhanaṃ) [suviniścita](suviniścitam)
+[o-lord](bhagavan) [tell](brūhi) [knowledge+means](vijñāna+sādhanam) [well+ascertained](suviniścitam)
 
 ## mukta-m0-p137-v3405
-[kiñcit](kiñcit) [papraccha](papraccha)
+[some+thing](kiñ+cit) [asked](papraccha) [he-questioned](papraccha) [thus](iti)
 
 ## mukta-m0-p137-v3406
-[jñānin](jñānināṃ) [lakṣaṇa](lakṣaṇaṃ) [ca](cāpi) [api](api) [yena](yena) [jñāsyāmi](jñāsyāmi) [tān](tān) [drutam](drutam)
+[of-knowers](jñānināṃ) [characteristic](lakṣaṇam) [and](ca) [also](api) [by-which](yena) [I-shall-know](jñāsyāmi) [them](tān) [quickly](drutam)
 
 ## mukta-m0-p137-v3407
-[vyavahāra](vyavahāraṃ) [kurvatām](kurvatāṃ) [ca](cāpyanāsaktaṃ) [api](api) [anāsakta](anāsaktaṃ) [manaḥ](manaḥ) [katham](katham)
+[conducting+behavior](vyavahāram+kurvatām) [and](ca) [also](api) [unattached](anāsaktam) [mind](manaḥ) [how](katham)
 
 ## mukta-m0-p137-v3408
-[anāsakta](anāsaktaṃ) [vāsanārahitam](vāsanārahitam)
+[unattached](anāsaktam) [devoid-of-impressions](vāsanā+rahitam) [mind](manaḥ) [thus](iti)
 
 ## mukta-m0-p137-v3409
-[evam](evamatrisutaḥ) [atri-suta](atrisutaḥ) [pṛṣṭa](pṛṣṭo) [jamadagni-suta](jamadagnisutena) [vai](vai)
+[thus](evam) [atri+son](atri+sutaḥ) [asked](pṛṣṭaḥ) [jamadagni+son](jamadagni+sutena) [indeed](vai)
 
 ## mukta-m0-p137-v3410
-[etat](etatsarvaṃ) [sarva](sarvaṃ) [sādhanādi](sādhanādikam)
+[this](etat) [all](sarvam) [means+and-so-forth](sādhana+ādikam) [thus](iti)
 
 ## mukta-m0-p137-v3411
-[śṛṇu](śṛṇu) [rāma](rāma) [pravakṣyāmi](pravakṣyāmi) [rahasya](rahasyaṃ) [jñānasādhana](jñānasādhanam)
+[listen](śṛṇu) [o-rāma](rāma) [I-shall-declare](pravakṣyāmi) [secret](rahasyam) [knowledge+means](jñāna+sādhanam)
 
 ## mukta-m0-p137-v3412
-[samyakpraśna](samyakpraśnena) [bhaktiyukta](bhaktiyuktena) [santuṣṭa](santuṣṭaḥ) [rahasya](rahasyaṃ) [śāstreṣu](śāstreṣvaprasiddham) [aprasiddha](aprasiddham)
+[by-proper+question](samyak+praśnena) [endowed-with-devotion](bhakti+yuktena) [satisfied](santuṣṭaḥ) [secret](rahasyam) [in-scriptures+not-renowned](śāstreṣu+aprasiddham)
 
 ## mukta-m0-p137-v3413
-[yaḥ](yaḥ) [sarvabhāvataḥ](sarvabhāvataḥ) [svātmadevatā](svātmadevatāmupasaṅgataḥ) [upasaṅgata](upasaṅgataḥ)
+[who](yaḥ) [with-all+being](sarva+bhāvataḥ) [own-self+deity](sva+ātma+devatām) [approached](upasaṅgataḥ)
 
 ## mukta-m0-p137-v3414
-[svātmadevatā](svātmadevatāṃ) [svāntaryāmitā](svāntaryāmitayā) [sthita](sthitām)
+[own-self+deity](sva+ātma+devatām) [as-inner-controller](sva+antaryāmitayā) [situated](sthitām) [thus](iti)
 
 ## mukta-m0-p137-v3415
-[etat](etat) [sarvottama](sarvottamaṃ) [rāma](rāma) [prokta](proktaṃ) [jñāna](jñānasya) [sādhana](sādhanam)
+[this](etat) [most-excellent+of-all](sarva+uttamam) [o-rāma](rāma) [declared](proktam) [of-knowledge](jñānasya) [means](sādhanam)
 
 ## mukta-m0-p137-v3416
-[tasya](tasya) [proktadevatātatpara](proktadevatātatparasya) [etat](etat) [devatātatparatva](devatātatparatvam) [rahasyaśāstreṣu](rahasyaśāstreṣu) [prokta](proktam)
+[of-him](tasya) [devoted-to-declared-deity](prokta+devatā+tatparasya) [this](etat) [devotion-to-deity](devatā+tatparatvam) [in-secret-scriptures](rahasya+śāstreṣu) [declared](proktam)
 
 ## mukta-m0-p137-v3417
-[etad](etadvihāyānyadatra) [vihāya](vihāya) [anya](anyadatra) [atra](atra) [na](na) [samyak](samyak) [phalada](phaladaṃ) [bhavet](bhavet)
+[this](etat) [having-abandoned](vihāya) [other](anyat) [here](atra) [not](na) [properly](samyak) [fruit-giving](phala+dam) [would-be](bhavet)
 
 ## mukta-m0-p137-v3418
-[jñāna](jñānaṃ) [na](na) [bhavet](bhavediti) [bhāva](bhāvaḥ)
+[knowledge](jñānam) [not](na) [would-arise](bhavet) [thus](iti) [meaning](bhāvaḥ)
 
 ## mukta-m0-p137-v3419
-[vijñāna](vijñānaṃ) [kevalaciti](kevalacitiryā) [yā](yā) [sarvasya](sarvasyāvabhāsikā) [avabhāsikā](avabhāsikā)
+[direct-knowledge](vijñānam) [pure-consciousness](kevala+citiḥ) [which](yā) [of-all](sarvasya) [illuminating](avabhāsikā)
 
 ## mukta-m0-p137-v3420
-[phalabhūta](phalabhūtaṃ) [vijñāna](vijñānam) [sarvāvabhāsikā](sarvāvabhāsikā) [kevalā](kevalā) [sāmānyā](sāmānyā) [citi](citiḥ)
+[consisting-of-fruit](phala+bhūtam) [direct-knowledge](vijñānam) [illuminating-all](sarva+avabhāsikā) [pure](kevalā) [universal](sāmānyā) [consciousness](citiḥ)
 
 ## mukta-m0-p137-v3421
-[vicāra](vicārāt) [tadapoha](tadapohena) [tatsvarūpa](tatsvarūpopalakṣaṇam) [upalakṣaṇa](upalakṣaṇam)
+[by-inquiry](vicārāt) [by-removal-of-that](tat+apohena) [of-that-nature](tat+svarūpa) [indication](upalakṣaṇam)
 
 ## mukta-m0-p137-v3422
-[svarūpa](svarūpasyopalakṣaṇaṃ) [upalakṣaṇa](upalakṣaṇaṃ) [so'ham](so'hamiti) [pratyabhijñāna](pratyabhijñānaṃ) [syāt](syāt)
+[of-own-nature](svarūpasya) [indication](upalakṣaṇam) [I-am-that](saḥ+aham) [thus](iti) [recognition](pratyabhijñānam) [would-be](syāt)
 
 ## mukta-m0-p137-v3423
-[bhaktānām](bhaktānāmanyaparatāhānena) [anyaparatā](anyaparatā) [hāna](hānena) [tatparatva](tatparatvataḥ)
+[of-devotees](bhaktānām) [by-abandoning-devotion-to-other](anya+paratā+hānena) [by-devotion-to-that](tat+paratvataḥ) [thus](iti)
 
 ## mukta-m0-p137-v3424
-[devatāpara](devatāparāṇāṃ) [katham](kathaṃ) [sulabha](sulabhamiti) [ced](ced) [āha](āha) [bhaktānām](bhaktānāmiti)
+[devoted-to-deity](devatā+parāṇām) [how](katham) [easily-attainable](sulabham) [thus](iti) [if](cet) [says](āha) [of-devotees](bhaktānām) [thus](iti)
 
 ## mukta-m0-p137-v3425
-[devatātatpara](devatātatparastvevaṃ) [bhūtvā](bhūtvā) [svalpānya](svalpānyasādhanaḥ) [sādhana](sādhanaḥ)
+[devoted-to-deity](devatā+tatparaḥ) [thus](evam) [having-become](bhūtvā) [having-little-other-means](svalpa+anya+sādhanaḥ) [thus](iti)
