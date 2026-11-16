@@ -8,7 +8,7 @@
 [messenger-woman](dūtikā) [life-lord](jīva+nāthaḥ) [also](api) [consecration](saṃskāraṃ) [supremely](param) [deserves](arhati)
 
 ## mukta-m0-p17-v403
-[because](yat) [in-unattached](asaṃge) [also](api) [called-life](jīva+ākhye) [in-Śiva](śive) [she-sports](khelati) [fearlessly](nirbhayā)
+[because](yat) [in-non-contact](asaṃge) [also](api) [called-life](jīva+ākhye) [in-Śiva](śive) [she-sports](khelati) [fearlessly](nirbhayā)
 
 ## mukta-m0-p17-v404
 [of-own-life-called](sva+jīva+ākhya) [of-great-lord](maheśasya) [external](bādya) [by-knowledge](vidyā) [obscured](avakuṃṭhitaḥ)
@@ -32,7 +32,7 @@
 [by-nature-deluded-minds](prakṛtyā+mugdha+manasaḥ) [women](striyaḥ) [truth](tatvaṃ) [not](na) [know](jānate)
 
 ## mukta-m0-p17-v411
-[lying](śayāḥ)]
+[lying](śayāḥ) [fragment](])
 
 ## mukta-m0-p17-v412
 [by-breast-swelling](stana+uttaṃbhana) [seen](dṛṣṭena) [by-youth](yauvanena) [pride-elated](mada+uddhatāḥ)
@@ -53,13 +53,13 @@
 [our-body](asmat+vapuḥ) [this](idaṃ) [insignificant](tucchaṃ) [for-worship-means](pūjā+sādhanituṃ) [by-the-wise](budhaiḥ)
 
 ## mukta-m0-p17-v418
-[with-Śāla-bheda](sāla+bheda) [highest-worlds](uttamān+lokān) [by-practitioner](sādhakena) [by-great-souled](mahā+ātmanā)
+[with-Śāla-tree-breaking](sāla+bheda) [highest-worlds](uttamān+lokān) [by-practitioner](sādhakena) [by-great-souled](mahātmanā)
 
 ## mukta-m0-p17-v419
 [in-Viṣṇu-world](viṣṇu+loke) [in-Rudra-world](rudra+loke) [they-sport](krīḍaṃti) [with-many-delights](bahu+vibhramāḥ)
 
 ## mukta-m0-p17-v420
-[by-such-and-others](iti+ādibhiḥ) [reason-endowed](yūkti+yuktaiḥ) [with-words](vacanaiḥ) [scripture-approved](śāstra+sammitaiḥ)
+[by-such-and-other](iti+ādibhiḥ) [reason-endowed](yūkti+yuktaiḥ) [with-words](vacanaiḥ) [scripture-approved](śāstra+sammitaiḥ)
 
 ## mukta-m0-p17-v421
 [Ānandabhairavī](ānaṃdabhairavīṃ) [and](ca) [also](api) [with-mantra](maṃtreṇa) [having-invoked](ābāhya) [practitioner](sādhakaḥ)
