@@ -7,6 +7,18 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
+"surface": "a",
+"quick_gloss": "not"
+},
+{
+"surface": "gā",
+"quick_gloss": "fathomable"
+},
+{
+"surface": "dhā",
+"quick_gloss": "deep"
+},
+{
 "surface": "agādhā",
 "quick_gloss": "unfathomable"
 }
@@ -29,11 +41,15 @@
 },
 {
 "surface": "bhavānī",
-"quick_gloss": "Bhavānī"
+"quick_gloss": "O-Bhavanī"
 },
 {
-"surface": "nahi",
+"surface": "na",
 "quick_gloss": "not"
+},
+{
+"surface": "hi",
+"quick_gloss": "indeed"
 },
 {
 "surface": "sā",
@@ -57,8 +73,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "nāga+kuṇḍalā",
-"quick_gloss": "serpent+earringed"
+"surface": "nāga",
+"quick_gloss": "serpent"
+},
+{
+"surface": "kuṇḍalā",
+"quick_gloss": "earringed"
+},
+{
+"surface": "nāgakuṇḍalā",
+"quick_gloss": "she-with-serpent-earrings"
 }
 ]
 },
@@ -70,12 +94,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "suvarṇa+kuṇḍalā",
-"quick_gloss": "golden+earringed"
+"surface": "suvarṇa",
+"quick_gloss": "gold"
 },
 {
-"surface": "nāga+kuṇḍalā",
-"quick_gloss": "serpent+earring"
+"surface": "kuṇḍalā",
+"quick_gloss": "earringed"
+},
+{
+"surface": "nāga",
+"quick_gloss": "serpent"
+},
+{
+"surface": "kuṇḍalā",
+"quick_gloss": "earringed"
 },
 {
 "surface": "iva",
@@ -95,8 +127,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "su+cakrā",
-"quick_gloss": "having-good-disc"
+"surface": "sucakrā",
+"quick_gloss": "with-beautiful-disc"
+},
+{
+"surface": "su",
+"quick_gloss": "well"
+},
+{
+"surface": "cakrā",
+"quick_gloss": "wheeled"
 }
 ]
 },
@@ -108,20 +148,28 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "su+śūnya+cakre",
-"quick_gloss": "in-good-empty-circle"
+"surface": "su",
+"quick_gloss": "in-beautiful"
+},
+{
+"surface": "śūnya",
+"quick_gloss": "empty"
+},
+{
+"surface": "cakre",
+"quick_gloss": "circle"
 },
 {
 "surface": "paripūjyate",
-"quick_gloss": "is-worshipped"
+"quick_gloss": "worshipped"
 },
 {
 "surface": "yā",
 "quick_gloss": "who"
 },
 {
-"surface": "cakra+īśvaraiḥ",
-"quick_gloss": "by-circle-lords"
+"surface": "cakreśvaraiḥ",
+"quick_gloss": "by-lords-of-circles"
 },
 {
 "surface": "sā",
@@ -136,8 +184,8 @@
 "quick_gloss": "on-all-sides"
 },
 {
-"surface": "su+cakrā",
-"quick_gloss": "having-good-disc"
+"surface": "sucakrā",
+"quick_gloss": "with-beautiful-disc"
 }
 ]
 },
@@ -149,8 +197,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "cakra+madhya+sthā",
-"quick_gloss": "circle+middle+dwelling"
+"surface": "cakra",
+"quick_gloss": "circle"
+},
+{
+"surface": "madhya",
+"quick_gloss": "middle"
+},
+{
+"surface": "sthā",
+"quick_gloss": "dwelling"
+},
+{
+"surface": "cakramadhyasthā",
+"quick_gloss": "in-the-center-of-the-circle"
 }
 ]
 },
@@ -162,16 +222,28 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "cakra+hastā",
-"quick_gloss": "disc+handed"
+"surface": "cakra",
+"quick_gloss": "disc"
+},
+{
+"surface": "hastā",
+"quick_gloss": "holding"
 },
 {
 "surface": "śivā",
 "quick_gloss": "auspicious-one"
 },
 {
-"surface": "cakra+madhya+sthā",
-"quick_gloss": "in-circle+middle+dwelling"
+"surface": "cakra",
+"quick_gloss": "circle"
+},
+{
+"surface": "madhya",
+"quick_gloss": "middle"
+},
+{
+"surface": "sthā",
+"quick_gloss": "dwelling"
 },
 {
 "surface": "eva",
@@ -179,11 +251,11 @@
 },
 {
 "surface": "jayati",
-"quick_gloss": "triumphs"
+"quick_gloss": "triumphant"
 },
 {
 "surface": "asau",
-"quick_gloss": "this-one"
+"quick_gloss": "she"
 }
 ]
 },
@@ -195,8 +267,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "cakra+koṇa+nivāsinī",
-"quick_gloss": "circle+corner+dwelling"
+"surface": "cakra",
+"quick_gloss": "circle"
+},
+{
+"surface": "koṇa",
+"quick_gloss": "corner"
+},
+{
+"surface": "nivāsinī",
+"quick_gloss": "dwelling"
+},
+{
+"surface": "cakrakoṇanivāsinī",
+"quick_gloss": "dweller-in-the-corners-of-the-circle"
 }
 ]
 },
@@ -209,11 +293,11 @@
 "tokens": [
 {
 "surface": "vitataṃ",
-"quick_gloss": "extensive"
+"quick_gloss": "expanded"
 },
 {
 "surface": "sa",
-"quick_gloss": "he"
+"quick_gloss": "that"
 },
 {
 "surface": "kathaṃ",
@@ -228,8 +312,12 @@
 "quick_gloss": "indeed"
 },
 {
-"surface": "cakra+vartitvam",
-"quick_gloss": "universal-sovereignty"
+"surface": "cakra",
+"quick_gloss": "circle"
+},
+{
+"surface": "vartitvam",
+"quick_gloss": "ruler-ship"
 },
 {
 "surface": "āpnuyāt",
@@ -245,8 +333,24 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "sarva+mantra+mayī",
-"quick_gloss": "all+mantra+consisting-of"
+"surface": "sarva",
+"quick_gloss": "all"
+},
+{
+"surface": "mantra",
+"quick_gloss": "mantra"
+},
+{
+"surface": "mayī",
+"quick_gloss": "consisting-of"
+},
+{
+"surface": "vidyā",
+"quick_gloss": "knowledge"
+},
+{
+"surface": "sarvamantramayī",
+"quick_gloss": "knowledge-consisting-of-all-mantras"
 },
 {
 "surface": "vidyā",
@@ -262,8 +366,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "sarva+mantra+mayī",
-"quick_gloss": "all+mantra+consisting-of"
+"surface": "sarva",
+"quick_gloss": "all"
+},
+{
+"surface": "mantra",
+"quick_gloss": "mantra"
+},
+{
+"surface": "mayī",
+"quick_gloss": "consisting-of"
 },
 {
 "surface": "vidyā",
@@ -271,7 +383,7 @@
 },
 {
 "surface": "hṛdi",
-"quick_gloss": "in-heart"
+"quick_gloss": "in-the-heart"
 },
 {
 "surface": "adya",
@@ -299,8 +411,24 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "sarva+mantra+akṣara+āvaliḥ",
-"quick_gloss": "all+mantra+syllable+series"
+"surface": "sarva",
+"quick_gloss": "all"
+},
+{
+"surface": "mantra",
+"quick_gloss": "mantra"
+},
+{
+"surface": "akṣara",
+"quick_gloss": "syllable"
+},
+{
+"surface": "āvaliḥ",
+"quick_gloss": "series"
+},
+{
+"surface": "sarvamantrākṣarāvaliḥ",
+"quick_gloss": "the-series-of-all-mantra-syllables"
 }
 ]
 },
@@ -332,8 +460,20 @@
 "quick_gloss": "everywhere"
 },
 {
-"surface": "sarva+mantra+akṣara+āvaliḥ",
-"quick_gloss": "all+mantra+syllable+series"
+"surface": "sarva",
+"quick_gloss": "all"
+},
+{
+"surface": "mantra",
+"quick_gloss": "mantra"
+},
+{
+"surface": "akṣara",
+"quick_gloss": "syllable"
+},
+{
+"surface": "āvaliḥ",
+"quick_gloss": "series"
 }
 ]
 },
@@ -345,8 +485,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "madhu+sravā",
-"quick_gloss": "honey+flowing"
+"surface": "madhu",
+"quick_gloss": "honey"
+},
+{
+"surface": "sravā",
+"quick_gloss": "flowing"
+},
+{
+"surface": "madhusravā",
+"quick_gloss": "flowing-with-honey"
 }
 ]
 },
@@ -358,20 +506,28 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "madhu+sravā",
-"quick_gloss": "honey+flowing"
+"surface": "madhu",
+"quick_gloss": "honey"
+},
+{
+"surface": "sravā",
+"quick_gloss": "flowing"
 },
 {
 "surface": "iyam",
-"quick_gloss": "this-one"
+"quick_gloss": "this"
 },
 {
-"surface": "madhu+mat",
-"quick_gloss": "honey+eating"
+"surface": "madhu",
+"quick_gloss": "honey"
+},
+{
+"surface": "mat",
+"quick_gloss": "eating"
 },
 {
 "surface": "niṣevyā",
-"quick_gloss": "to-be-resorted-to"
+"quick_gloss": "to-be-served"
 },
 {
 "surface": "dadātu",
@@ -382,8 +538,12 @@
 "quick_gloss": "accomplishment"
 },
 {
-"surface": "madhu+matī",
-"quick_gloss": "honey+possessing"
+"surface": "madhu",
+"quick_gloss": "honey"
+},
+{
+"surface": "matī",
+"quick_gloss": "possessing"
 },
 {
 "surface": "anūdyām",
@@ -400,7 +560,11 @@
 "tokens": [
 {
 "surface": "sravantī",
-"quick_gloss": "flowing-one"
+"quick_gloss": "flowing"
+},
+{
+"surface": "sravantī",
+"quick_gloss": "the-flowing-one"
 }
 ]
 },
@@ -417,7 +581,7 @@
 },
 {
 "surface": "tanoti",
-"quick_gloss": "extends"
+"quick_gloss": "spreads"
 },
 {
 "surface": "eva",
@@ -425,7 +589,7 @@
 },
 {
 "surface": "kaḥ",
-"quick_gloss": "some"
+"quick_gloss": "what"
 },
 {
 "surface": "api",
@@ -436,8 +600,12 @@
 "quick_gloss": "this"
 },
 {
-"surface": "sravantī+sannidheḥ",
-"quick_gloss": "flowing-one+presence"
+"surface": "sravantī",
+"quick_gloss": "flowing-stream"
+},
+{
+"surface": "sannidheḥ",
+"quick_gloss": "proximity"
 },
 {
 "surface": "vidhiḥ",
@@ -455,6 +623,10 @@
 {
 "surface": "bhrāmarī",
 "quick_gloss": "bee-goddess"
+},
+{
+"surface": "bhrāmarī",
+"quick_gloss": "she-who-is-like-a-bee"
 }
 ]
 },
@@ -475,11 +647,15 @@
 },
 {
 "surface": "bhrāmaya",
-"quick_gloss": "remove"
+"quick_gloss": "make-wander"
 },
 {
-"surface": "dur+bhramaṃ",
-"quick_gloss": "bad+delusion"
+"surface": "dur",
+"quick_gloss": "bad"
+},
+{
+"surface": "bhramaṃ",
+"quick_gloss": "delusion"
 },
 {
 "surface": "naḥ",
@@ -495,8 +671,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "bhramara+alakā",
-"quick_gloss": "bee+locks"
+"surface": "bhramara",
+"quick_gloss": "bee"
+},
+{
+"surface": "alakā",
+"quick_gloss": "locks"
+},
+{
+"surface": "bhramarālakā",
+"quick_gloss": "she-with-bee-like-locks"
 }
 ]
 },
@@ -521,7 +705,7 @@
 },
 {
 "surface": "dṛṣṭaṃ",
-"quick_gloss": "to-see"
+"quick_gloss": "seen"
 },
 {
 "surface": "bālā",
@@ -532,8 +716,12 @@
 "quick_gloss": "she"
 },
 {
-"surface": "bhramara+alakā",
-"quick_gloss": "bee+locks"
+"surface": "bhramara",
+"quick_gloss": "bee"
+},
+{
+"surface": "alakā",
+"quick_gloss": "locks"
 }
 ]
 },
@@ -545,8 +733,24 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "mātṛ+maṇḍala+madhya+sthā",
-"quick_gloss": "mother+circle+middle+dwelling"
+"surface": "mātṛ",
+"quick_gloss": "mother"
+},
+{
+"surface": "maṇḍala",
+"quick_gloss": "circle"
+},
+{
+"surface": "madhya",
+"quick_gloss": "middle"
+},
+{
+"surface": "sthā",
+"quick_gloss": "standing"
+},
+{
+"surface": "mātṛmaṇḍalamadhyasthā",
+"quick_gloss": "standing-in-the-midst-of-the-circle-of-mothers"
 }
 ]
 },
@@ -558,16 +762,36 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "mātṛ+maṇḍala+madhya+sthā",
-"quick_gloss": "mother+circle+middle+dwelling"
+"surface": "mātṛ",
+"quick_gloss": "mother"
 },
 {
-"surface": "maṇḍala+indra+tva+dā",
-"quick_gloss": "circle+lordship+giving"
+"surface": "maṇḍala",
+"quick_gloss": "circle"
+},
+{
+"surface": "madhya",
+"quick_gloss": "middle"
+},
+{
+"surface": "sthā",
+"quick_gloss": "standing"
+},
+{
+"surface": "maṇḍala",
+"quick_gloss": "circle"
+},
+{
+"surface": "indratva",
+"quick_gloss": "sovereignty"
+},
+{
+"surface": "dā",
+"quick_gloss": "giving"
 },
 {
 "surface": "astu",
-"quick_gloss": "be"
+"quick_gloss": "may-be"
 },
 {
 "surface": "naḥ",
@@ -583,8 +807,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "mātṛ+maṇḍala+vāsinī",
-"quick_gloss": "mother+circle+dwelling"
+"surface": "mātṛ",
+"quick_gloss": "mother"
+},
+{
+"surface": "maṇḍala",
+"quick_gloss": "circle"
+},
+{
+"surface": "vāsinī",
+"quick_gloss": "dwelling"
+},
+{
+"surface": "mātṛmaṇḍalavāsinī",
+"quick_gloss": "dweller-in-the-circle-of-mothers"
 }
 ]
 }
