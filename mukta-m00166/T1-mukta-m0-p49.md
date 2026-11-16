@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p49-v1201
-[antarvatnī](antarvatnī)
+[pregnant-within](antarvatnī) [pregnant-within](antarvatnī) [pregnant-within](antarvatnī) [pregnant-within](antarvatnī)
 
 ## mukta-m0-p49-v1202
-[vimarśanena](vimarśanenātmani) [ātmani](vimarśanenātmani) [cinmaye](cinmaye'ntarvatnī) [antarvatnī](cinmaye'ntarvatnī) [śive](śiveyaṃ) [iyam](śiveyaṃ) [matimadbhiḥ](matimadbhirīḍyā) [īḍyā](matimadbhirīḍyā)
+[by-reflection](vimarśanena) [in-the-self](ātmani) [consciousness-made](cinmaye) [pregnant-within](antarvatnī) [auspicious-she](śivā) [this](iyam) [by-the-wise](matimadbhiḥ) [praiseworthy](īḍyā)
 
 ## mukta-m0-p49-v1203
-[vedaśaktiḥ](vedaśaktiḥ)
+[veda-power](vedaśaktiḥ) [veda-power](vedaśaktiḥ) [veda-power](vedaśaktiḥ) [veda-power](vedaśaktiḥ)
 
 ## mukta-m0-p49-v1204
-[vedyā](vedyā) [na](na) [vā](vā) [sā](sāvatu) [avatu](sāvatu) [vedaśaktiḥ](vedaśaktiḥ)
+[to-be-known](vedyā) [not](na) [or](vā) [she](sā) [may-protect](avatu) [veda-power](vedaśaktiḥ)
 
 ## mukta-m0-p49-v1205
-[varadā](varadā)
+[boon-giver](varadā) [boon-giver](varadā) [boon-giver](varadā) [boon-giver](varadā)
 
 ## mukta-m0-p49-v1206
-[varadā](varadā) [tu](tviyameva) [iyam](tviyameva) [eva](tviyameva) [sadā](sadā) [prathitā](prathitā) [caraṇau](caraṇau) [śaraṇau](śaraṇau) [śrayatām](śrayatāṃ) [dayayā](dayayā)
+[boon-giver](varadā) [indeed](tu) [this](iyam) [alone](eva) [always](sadā) [renowned](prathitā) [two-feet](caraṇau) [as-refuge](śaraṇau) [let-resort](śrayatām) [with-compassion](dayayā)
 
 ## mukta-m0-p49-v1207
-[varadhāriṇī](varadhāriṇī)
+[boon-holder](varadhāriṇī) [boon-holder](varadhāriṇī) [boon-holder](varadhāriṇī) [boon-holder](varadhāriṇī)
 
 ## mukta-m0-p49-v1208
-[saṃkīrtyase](saṃkīrtyase) [tvam](tvaṃ) [varadhāriṇī](varadhāriṇī) [iti](iti)
+[you-are-praised](saṃkīrtyase) [you](tvam) [boon-holder](vara+dhāriṇī) [thus](iti)
 
 ## mukta-m0-p49-v1209
-[śītalā](śītalā)
+[cool-one](śītalā) [cool-one](śītalā) [cool-one](śītalā) [cool-one](śītalā)
 
 ## mukta-m0-p49-v1210
-[krodha](krodhoṣmahantrī) [uṣma](krodhoṣmahantrī) [hantrī](krodhoṣmahantrī) [nija](nijabodhakartrī) [bodha](nijabodhakartrī) [kartrī](nijabodhakartrī)
+[anger-heat-destroyer](krodha+uṣma+hantrī) [own-knowledge-creator](nija+bodha+kartrī) [anger-heat-destroyer](krodha+uṣma+hantrī) [own-knowledge-creator](nija+bodha+kartrī)
 
 ## mukta-m0-p49-v1211
-[suśīlā](suśīlā)
+[good-natured](suśīlā) [good-natured](suśīlā) [good-natured](suśīlā) [good-natured](suśīlā)
 
 ## mukta-m0-p49-v1212
-[sā](sāvyāt) [avyāt](sāvyāt) [suśīlā](suśīlā) [nija](nijalīlayainam) [līlayā](nijalīlayainam) [enam](nijalīlayainam)
+[may-protect](sāvyāt) [good-natured](suśīlā) [by-own-play](nija+līlayā) [this-one](enam)
 
 ## mukta-m0-p49-v1213
-[bālagraha](bālagrahavināśinī) [vināśinī](bālagrahavināśinī)
+[child-demon-destroyer](bāla+graha+vināśinī) [child-demon-destroyer](bāla+graha+vināśinī) [child-demon-destroyer](bāla+graha+vināśinī) [child-demon-destroyer](bāla+graha+vināśinī)
 
 ## mukta-m0-p49-v1214
-[yoginaḥ](yogino'pi) [api](yogino'pi) [tataḥ](tato) [jāne](jāne) [labdhum](labdhuṃ) [vāñchanti](vāñchanti) [śaiśavam](śaiśavam)
+[yogins](yoginaḥ) [even](api) [therefore](tataḥ) [I-know](jāne) [to-obtain](labdhum) [they-desire](vāñchanti) [childhood](śaiśavam)
 
 ## mukta-m0-p49-v1215
-[kumārī](kumārī)
+[maiden](kumārī) [maiden](kumārī) [maiden](kumārī) [maiden](kumārī)
 
 ## mukta-m0-p49-v1216
-[devī](devī) [gītā](gītā) [sā](sā) [kumārī](kumārī) [purāṇā](purāṇā)
+[goddess](devī) [sung](gītā) [she](sā) [maiden](kumārī) [ancient](purāṇā)
 
 ## mukta-m0-p49-v1217
-[suparvā](suparvā)
+[of-good-festivals](suparvā) [of-good-festivals](suparvā) [of-good-festivals](suparvā) [of-good-festivals](suparvā)
 
 ## mukta-m0-p49-v1218
-[dāna](dānādikṛtyeṣu) [ādi](dānādikṛtyeṣu) [kṛtyeṣu](dānādikṛtyeṣu) [supuṇya](supuṇyarūpā) [rūpā](supuṇyarūpā) [khyātā](khyātā) [suparvā](suparvā) [astu](astu) [sukhāya](sukhāya) [sārvā](sārvā)
+[in-giving-etc-acts](dāna+ādi+kṛtyeṣu) [of-very-auspicious-form](su+puṇya+rūpā) [renowned](khyātā) [of-good-festivals](suparvā) [may-be](astu) [for-happiness](sukhāya) [complete](sārvā)
 
 ## mukta-m0-p49-v1219
-[kāmākhyā](kāmākhyā)
+[named-Kāmākhyā](kāmākhyā) [named-Kāmākhyā](kāmākhyā) [named-Kāmākhyā](kāmākhyā) [named-Kāmākhyā](kāmākhyā)
 
 ## mukta-m0-p49-v1220
-[kāmākhyā](kāmākhyeyaṃ) [iyam](kāmākhyeyaṃ) [kāpi](kāpi) [niṣkāma](niṣkāmakarmajñeyā) [karma](niṣkāmakarmajñeyā) [jñeyā](niṣkāmakarmajñeyā) [pāyāt](pāyāddevatā) [devatā](pāyāddevatā) [mām](māmapāyāt) [apāyāt](māmapāyāt)
+[named-Kāmākhyā](kāmākhyā) [this](iyam) [some](kāpi) [desireless-action](niṣkāma+karma) [to-be-known](jñeyā) [may-protect](pāyāt) [goddess](devatā) [me](mām) [may-protect](apāyāt)
 
 ## mukta-m0-p49-v1221
-[kāmavanditā](kāmavanditā)
+[worshipped-by-Kāma](kāmavanditā) [worshipped-by-Kāma](kāmavanditā) [worshipped-by-Kāma](kāmavanditā) [worshipped-by-Kāma](kāmavanditā)
 
 ## mukta-m0-p49-v1222
-[viti](viti) [matvā](matvā) [kila](kila) [kāmavanditā](kāmavanditā) [tvam](tvam)
+[knowing](viti) [having-thought](matvā) [indeed](kila) [worshipped-by-Kāma](kāma+vanditā) [you](tvam)
 
 ## mukta-m0-p49-v1223
-[jālandharadharā](jālandharadharā)
+[Jālandhara-supporter](jālandhara+dharā) [Jālandhara-supporter](jālandhara+dharā) [Jālandhara-supporter](jālandhara+dharā) [Jālandhara-supporter](jālandhara+dharā)
 
 ## mukta-m0-p49-v1224
-[jālandharadharā](jālandharadharā) [sā](saiva) [eva](saiva) [kevalā](kevalā) [devadevatā](devadevatā)
+[Jālandhara-supporter](jālandhara+dharā) [she](sā) [alone](eva) [only](kevalā) [god-of-gods](deva+devatā)
 
 ## mukta-m0-p49-v1225
-[anantā](anantā)
+[endless](anantā) [endless](anantā) [endless](anantā) [endless](anantā)

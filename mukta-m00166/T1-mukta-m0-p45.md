@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p45-v1101
-[beautiful-haired](sukeśī)
+[beautiful](su) [haired](keśī) [beautiful](su) [haired-one](keśī)
 
 ## mukta-m0-p45-v1102
-[beautiful-haired](sukeśī)+[great-goddess](maheśī)+[hair](kaca)+[excellent](sat)+[hair-lord](kaceśāḥ)
+[beautiful-haired](sukeśī) [great-goddess](maheśī) [shining](kacat) [true](sat) [hair-lord](kaceśāḥ)
 
 ## mukta-m0-p45-v1103
-[good-lingam](suliṅgā)
+[good](su) [mark](liṅgā) [good](su) [mark-one](liṅgā)
 
 ## mukta-m0-p45-v1104
-[hidden](guptā)+[helper](sahāyī)+[may-become](bhavatāt)+[good-lingam](suliṅgā)
+[hidden](guptā) [helper](sahāyī) [may-she-become](bhavatāt) [good-marked-one](suliṅgā)
 
 ## mukta-m0-p45-v1105
-[bhaga-formed](bhagarūpiṇī)
+[vulva](bhaga) [form](rūpiṇī) [vulva](bhaga) [form-one](rūpiṇī)
 
 ## mukta-m0-p45-v1106
-[steady-ones](dhīraiḥ)+[to-be-served](niṣevyā)+[bhaga-formed](bhagarūpiṇī)+[she](sā)
+[by-the-firm](rdhīraiḥ) [to-be-worshipped](niṣevyā) [vulva-formed](bhagarūpiṇī) [she](sā)
 
 ## mukta-m0-p45-v1107
-[yoni-seal](yonimudrā)
+[womb](yoni) [seal](mudrā) [womb](yoni) [seal](mudrā)
 
 ## mukta-m0-p45-v1108
-[she](sā)+[yoni-seal](yonimudrā)+[may-be](astu)+[for-joy](mude)+[good-bodied](sudehā)
+[she](sā) [womb-seal](yonimudrā) [may-be](astu) [for-joy](mude) [beautiful-bodied](sudehā)
 
 ## mukta-m0-p45-v1109
-[great-seal](mahāmudrā)
+[great](mahā) [seal](mudrā) [great](mahā) [seal](mudrā)
 
 ## mukta-m0-p45-v1110
-[unity-cause](aikyahetuḥ)+[of-two](dvayoḥ)+[sung](gītā)+[great-seal](mahāmudrā)+[by-great-lords](maheśvaraiḥ)
+[unity](aikya) [cause](hetuḥ) [of-the-two](dvayoḥ) [sung](gītā) [great-seal](mahāmudrā) [by-the-great-lords](maheśvaraiḥ)
 
 ## mukta-m0-p45-v1111
-[sky-going](khecarī)
+[sky](khe) [moving](carī) [sky](khe) [moving-one](carī)
 
 ## mukta-m0-p45-v1112
-[movement](sañcāraṃ)+[sky-going](khecarīyaṃ)+[may-grant](vitaratu)+[beautiful](ruciraṃ)+[sky-moving](khe'ciraṃ)+[consciousness-filled](cinmaye)+[to-us](naḥ)
+[movement](sañcāraṃ) [sky-moving](khecarī) [this](iyaṃ) [may-bestow](vitaratu) [beautiful](ruciraṃ) [in-sky](khe) [long](aciraṃ) [in-consciousness-filled](cinmaye) [to-us](naḥ)
 
 ## mukta-m0-p45-v1113
-[sky-going](khagagāminī)
+[sky](khaga) [going](gāminī) [sky](khaga) [going-one](gāminī)
 
 ## mukta-m0-p45-v1114
-[bird](khagaḥ)+[always](nityam)+[unresting](aviśrāntaḥ)+[sun](bhānuḥ)+[she](sā)+[sky-going](khagagāminī)
+[sky-goer](khagaḥ) [always](nityam) [unresting](aviśrāntaḥ) [sun](bhānuḥ) [she](sā) [sky-going](khagagāminī)
 
 ## mukta-m0-p45-v1115
-[honey-glory](madhuśrīḥ)
+[honey](madhu) [splendor](śrīḥ) [honey](madhu) [splendor](śrīḥ)
 
 ## mukta-m0-p45-v1116
-[always](sadā)+[may-be](bhavatu)+[deity](devatā)+[my](mama)+[thought](matā)+[honey-glory](madhuśrīḥ)+[for-glory](śriye)
+[always](sadā) [may-be](bhavatu) [goddess](devatā) [my](mama) [cherished](matā) [honey-splendor](madhuśrīḥ) [for-prosperity](śriye)
 
 ## mukta-m0-p45-v1117
-[mādhavī-creeper](mādhavīvallī)
+[spring](mādhavī) [creeper](vallī) [spring](mādhavī) [creeper](vallī)
 
 ## mukta-m0-p45-v1118
-[may-do](karotu)+[mādhavī-creeper](mādhavīvallī)+[without-confusion](nirbhramaṃ)+[my](mama)+[mind](mānasam)
+[may-make](karotu) [spring-creeper](mādhavīvallī) [free-from-delusion](nirbhramaṃ) [my](mama) [mind](mānasam)
 
 ## mukta-m0-p45-v1119
-[honey-intoxicated](madhumattā)
+[honey](madhu) [intoxicated](mattā) [honey](madhu) [intoxicated-one](mattā)
 
 ## mukta-m0-p45-v1120
-[full-vision](pūrṇavilokana)+[speech](bhāṣaṇa)+[vehicle](yānaṃ)+[arranges](saṃracayati)+[spoken](uditā)+[honey-intoxicated](madhumattā)
+[full](pūrṇa) [seeing](vilokana) [speaking](bhāṣaṇa) [going](yānaṃ) [accomplishes](saṃracayati) [arisen](uditā) [honey-intoxicated](madhumattā)
 
 ## mukta-m0-p45-v1121
-[wine-proud](madoddhatā)
+[intoxication](mada) [exalted](uddhatā) [intoxication](mada) [exalted-one](uddhatā)
 
 ## mukta-m0-p45-v1122
-[wine-proud](madoddhataḥ)+[ever](jātu)+[not](na)+[which](yat)+[devotee](subhaktaḥ)+[wine-proud](madoddhatā)+[wonder](citram)+[this](iyam)+[for-glory](śriye)+[may-stand](stāt)
+[intoxication-exalted](madoddhataḥ) [ever](jātu) [not](na) [whose](yat) [good-devotee](subhaktaḥ) [intoxication-exalted](madoddhatā) [wonder](citram) [this](iyaṃ) [for-prosperity](śriye) [may-be](stāt)
 
 ## mukta-m0-p45-v1123
-[mātaṅgī](mātaṅgī)
+[elephant-goddess](mātaṅgī) [elephant](mātaṅga) [goddess](ī) [Mātaṅgī](mātaṅgī)
 
 ## mukta-m0-p45-v1124
-[fear](ātaṅkaṃ)+[or](vā)+[without-doubt](aśaṅka)+[self-lamp](ātmapradīpe)+[mātaṅgī](mātaṅgīyaṃ)+[intoxicated-elephant-vehicle](mattamātaṅgayānā)
+[fear](ātaṅkaṃ) [or](vā) [doubt](aśaṅkam) [in-self-lamp](ātmapradīpe) [this-Mātaṅgī](mātaṅgī) [this](iyaṃ) [with-intoxicated-elephant](matta) [vehicle](mātaṅgayānā)
 
 ## mukta-m0-p45-v1125
-[parrot-handed](śukahastā)
+[parrot](śuka) [hand](hastā) [parrot](śuka) [handed-one](hastā)

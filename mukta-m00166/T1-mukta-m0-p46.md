@@ -2,52 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p46-v1126
-[samanāmahitatvakṛnnu](samanāmahitatvakṛnnu) [bhūtā](bhūtā) [śukahastā](śukahastā) [sukhakṛnna](sukhakṛnna) [vāśu](vāśu) [kasya](kasya)
+equal(samanā) + respect(mahita) + truth-doer(tva-kṛt) + indeed(nu) become(bhūtā) parrot-hand(śuka-hastā) happiness-maker(sukha-kṛt) + not(na) quickly(vāśu) of-whom(kasya)
+
 ## mukta-m0-p46-v1127
-[puṣpabāṇā](puṣpabāṇā)
+flower-arrowed(puṣpa-bāṇā)
+
 ## mukta-m0-p46-v1128
-[bāṇakṣepaṃ](bāṇakṣepaṃ) [vinaivāśu](vinaivāśu) [dṛṣṭyā](dṛṣṭyā) [rudraṃ](rudraṃ) [śriye'stu](śriye'stu) [sā](sā)
+arrow-cast(bāṇa-kṣepam) without(vinā) + indeed(eva) + quickly(āśu) by-glance(dṛṣṭyā) Rudra(rudram) for-prosperity(śriye) + let-be(astu) she(sā)
+
 ## mukta-m0-p46-v1129
-[ikṣucāpinī](ikṣucāpinī)
+sugarcane-bowed(ikṣu-cāpinī)
+
 ## mukta-m0-p46-v1130
-[dikṣu](dikṣu) [dikṣu](dikṣu) [sadā](sadā) [rakṣākāriṇī](rakṣākāriṇī) [no](no) [vihāriṇī](vihāriṇī)
+in-directions(dikṣu) in-directions(dikṣu) always(sadā) protection-doing(rakṣā-kāriṇī) of-us(naḥ) roaming(vihāriṇī)
+
 ## mukta-m0-p46-v1131
-[raktāmbaradharā](raktāmbaradharā)
+red-garment-wearing(rakta-ambara-dharā)
+
 ## mukta-m0-p46-v1132
-[jānanti](jānanti) [sarvataḥ](sarvataḥ) [saṃdhyāmiva](saṃdhyāmiva) [daivatapūjitām](daivatapūjitām)
+they-know(jānanti) everywhere(sarvataḥ) twilight-like(saṃdhyām+iva) by-gods-worshipped(daivata-pūjitām)
+
 ## mukta-m0-p46-v1133
-[kṣīvā](kṣīvā)
+intoxicated(kṣīvā)
+
 ## mukta-m0-p46-v1134
-[kṣīvā](kṣīvā) [tveṣā](tveṣā) [svātmanā](svātmanā) [sarvadāho](sarvadāho) [jīvaṃ](jīvaṃ) [kṣīvaṃ](kṣīvaṃ) [cetyalubdhaṃ](cetyalubdhaṃ) [karoti](karoti)
+intoxicated(kṣīvā) indeed(tu) + this(eṣā) by-own-self(sva-ātmanā) always-burning(sarva-dāhaḥ) living-being(jīvam) intoxicated(kṣīvam) and(ca) + thus(iti) + free-from-greed(a-lubdham) makes(karoti)
+
 ## mukta-m0-p46-v1135
-[raktapuṣpāvataṃsinī](raktapuṣpāvataṃsinī)
+red-flower-garlanded(rakta-puṣpa-avataṃsinī)
+
 ## mukta-m0-p46-v1136
-[harasya](harasya) [jāne](jāne) [sā](sā) [bhūtā](bhūtā) [raktapuṣpāvataṃsinī](raktapuṣpāvataṃsinī)
+of-Śiva(harasya) I-know(jāne) she(sā) become(bhūtā) red-flower-garlanded(rakta-puṣpa-avataṃsinī)
+
 ## mukta-m0-p46-v1137
-[śubhrāmbaradharā](śubhrāmbaradharā)
+white-garment-wearing(śubhra-ambara-dharā)
+
 ## mukta-m0-p46-v1138
-[śubhrāmbaradharā](śubhrāmbaradharā) [seyaṃ](seyaṃ) [śubhraṃ](śubhraṃ) [vitaratādyaśaḥ](vitaratādyaśaḥ)
+white-garment-wearing(śubhra-ambara-dharā) she(sā) + this(iyam) white(śubhram) may-bestow(vitaratāt) + today(adya) + fame(yaśaḥ)
+
 ## mukta-m0-p46-v1139
-[dhīrā](dhīrā)
+steadfast(dhīrā)
+
 ## mukta-m0-p46-v1140
-[sadāṅgayātāpi](sadāṅgayātāpi) [harasya](harasya) [pūrṇānandaiva](pūrṇānandaiva) [dhīrāstu](dhīrāstu) [nijārthakartrī](nijārthakartrī)
+always(sadā) + to-limbs(aṅga) + gone(yātā) + even(api) of-Śiva(harasya) full-bliss(pūrṇa-ānandā) + indeed(eva) steadfast(dhīrā) + let-be(astu) own-purpose-accomplishing(nija-artha-kartrī)
+
 ## mukta-m0-p46-v1141
-[mahāśvetā](mahāśvetā)
+great-white(mahā-śvetā)
+
 ## mukta-m0-p46-v1142
-[vatānmātā](vatānmātā) [bhātā'sitamitahitāt](bhātā'sitamitahitāt) [saṃsṛtikṛtāt](saṃsṛtikṛtāt)
+protect(vata) + from-that(āt) + mother(mātā) shining(bhātā) + from-unbound(a-sita) + not-beneficial(a-mita-hita) + from-that(āt) transmigration-causing(saṃsṛti-kṛtāt)
+
 ## mukta-m0-p46-v1143
-[vasupriyā](vasupriyā)
+wealth-dear(vasu-priyā)
+
 ## mukta-m0-p46-v1144
-[bhagavatyapi](bhagavatyapi) [no](no) [jāne](jāne) [kathaṃ](kathaṃ) [devī](devī) [vasupriyā](vasupriyā)
+even-in-the-blessed-one(bhagavaty+api) of-us(naḥ) I-know(jāne) how(katham) goddess(devī) wealth-dear(vasu-priyā)
+
 ## mukta-m0-p46-v1145
-[suveṇiḥ](suveṇiḥ)
+beautiful-braided(su-veṇiḥ)
+
 ## mukta-m0-p46-v1146
-[veṇyeva](veṇyeva) [veṇīviṣayaṃ](veṇīviṣayaṃ) [prayātā](prayātā) [suveṇireṣāstu](suveṇireṣāstu) [sadā](sadā) [hitāya](hitāya)
+braid-like(veṇyā+iva) to-braid-state(veṇī-viṣayam) gone(prayātā) beautiful-braided(su-veṇiḥ) + this(eṣā) + let-be(astu) always(sadā) for-benefit(hitāya)
+
 ## mukta-m0-p46-v1147
-[padmahastā](padmahastā)
+lotus-handed(padma-hastā)
+
 ## mukta-m0-p46-v1148
-[datto](datto) [varaḥ](varaḥ) [kardamajāya](kardamajāya) [padmahastetināmnaiva](padmahastetināmnaiva) [tayā](tayā) [dhṛtena](dhṛtena)
+given(dattaḥ) boon(varaḥ) to-Kardama's-daughter(kardama-jāya) lotus-handed(padma-hastā) + thus(iti) + by-name(nāmnā) + indeed(eva) by-her(tayā) held(dhṛtena)
+
 ## mukta-m0-p46-v1149
-[muktāhāravibhūṣaṇā](muktāhāravibhūṣaṇā)
+pearl-necklace-adorned(muktā-hāra-vibhūṣaṇā)
+
 ## mukta-m0-p46-v1150
-[utphenā](utphenā) [cāsti](cāsti) [sā](sā) [devī](devī) [muktāhāravibhūṣaṇā](muktāhāravibhūṣaṇā)
+with-foam(utphenā) and(ca) + is(asti) she(sā) goddess(devī) pearl-necklace-adorned(muktā-hāra-vibhūṣaṇā)
