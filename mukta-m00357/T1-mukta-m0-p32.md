@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p32-v776
-if-both everywhere equality mutual-embrace
+[if](yadi) [of-both](ubhayo) [in-all-respects](sarvata) [equality](samatve) [mutual](parasparam) [embracing](āliṅganam)
 
 ## mukta-m0-p32-v777
-all saluters by-all blessings joined
+[all](sarve) [saluters](abhivādakā) [by-all](sarvaiḥ) [with-blessing](āśiṣā) [to-be-endowed](yojyā)
 
 ## mukta-m0-p32-v778
-after-initiated varna-ashrama-elders saluted thus brahma
+[afterwards](paścāt) [by-initiated](dīkṣitaiḥ) [class](varṇa) [stage-of-life](āśrama) [elders](jyeṣṭhaḥ) [to-be-saluted](abhivādyā) [thus](iti) [Brahmā](brahmā)
 
 ## mukta-m0-p32-v779
-of-lords by-men mutual-salutation thus some
+[of-lords](aiśvarāṇā) [of-men](pusā) [mutual](parasparam) [salutation](abhivādanam) [thus](iti) [some](eke)
 
 ## mukta-m0-p32-v780
-of-lords by-men mutual-embrace thus vishnu
+[of-lords](aiśvarāṇāṃ) [of-men](pusā) [mutual](parasparam) [embracing](āliṅganam) [thus](iti) [Viṣṇu](viṣṇuḥ)
 
 ## mukta-m0-p32-v781
-lords salutation-embrace-blessing-as-desired do thus unmatta-bhairava
+[lords](aiśvarā) [salutation](abhivāda) [embracing](āliṅgana) [blessing](āśīrvāda) [according-to-wish](yatheccha) [should-do](kuryuḥ) [thus](iti) [Unmattabhairava](unmattabhairavaḥ)
 
 ## mukta-m0-p32-v782
-touch this salutation-order
+[touches](spṛśet) [this](eṣaḥ) [salutation](abhivādana) [procedure](kramaḥ)
 
 ## mukta-m0-p32-v783
-own-knowledge own-austerity not-utter thus sun
+[own-knowledge](sva+vidyā) [own-austerity](sva+tapaḥ) [not](na) [should-utter](uccaret) [thus](iti) [Sūrya](sūryaḥ)
 
 ## mukta-m0-p32-v784
-pronouncing likewise shaking-off saluting
+[having-pronounced](samuccārya) [in-that-manner](tathaiva) [having-proclaimed](uddhuṣya) [one-should-salute](abhivādayet)
 
 ## mukta-m0-p32-v785
-likewise shaking-off saluting
+[in-that-manner](tathaiva) [having-proclaimed](uddhuṣya) [one-should-salute](abhivādayet)
 
 ## mukta-m0-p32-v786
-pronouncing likewise shaking-off honoring
+[having-pronounced](samuccārya) [in-that-manner](tathaiva) [having-proclaimed](uddhuṣya) [one-should-cause-to-fall-at-feet](abhipādayet)
 
 ## mukta-m0-p32-v787
-of-saluted blessings suitable saluters
+[of-those-to-be-saluted](abhivādyānām) [with-blessing](āśipā) [worthy](yogyā) [saluters](abhivādakā)
 
 ## mukta-m0-p32-v788
-blessing joined
+[with-blessing](āśiṣā) [to-be-endowed](yojya)
 
 ## mukta-m0-p32-v789
-boon-gesture shudra blessing joined
+[with-vara-mudrā](vara+mudrayā) [śūdra](śūdra) [with-blessing](āśiṣā) [to-be-endowed](yojya)
 
 ## mukta-m0-p32-v790
-armor-end kshatra protected-end vaishya servant-end shudra thus some
+[ending-with-varman](varma+anta) [kṣatriya](kṣatra) [ending-with-pālita](pālita+anta) [vaiśya](vaiśyaḥ) [ending-with-dāsa](dāsa+anta) [śūdra](śūdra) [thus](iti) [some](eke)
 
 ## mukta-m0-p32-v791
-if-both everywhere equal be then mutual-embrace do
+[if](yadi) [both](ubho) [in-all-respects](sarvata) [equal](samo) [should-be](syātā) [then](tadā) [mutual](parasparam) [embrace](āliṅgana) [they-two-should-do](kuryātām)
 
 ## mukta-m0-p32-v792
-hold twice indeed this embrace-order
+[one-should-hold](dhārayet) [twice](dviḥ) [indeed](eva) [he](saḥ) [this](eṣa) [embracing](āliṅgana) [procedure](kramaḥ)
 
 ## mukta-m0-p32-v793
-with-affection you I-unite thus loudly shaking-off embrace equally
+[with-affection](sa+hārdena) [you](tvā) [I-unite](samanajmi) [thus](iti) [aloud](uccaiḥ) [having-proclaimed](uddhuṣya) [one-should-embrace](āliṅgayet) [equal](samam)
 
 ## mukta-m0-p32-v794
-silently thus some
+[silently](tṛṣṇīm) [thus](iti) [some](kecit)
 
 ## mukta-m0-p32-v795
-joined by-men
+[to-be-endowed](yojyā) [by-man](pusā)
 
 ## mukta-m0-p32-v796
-women enjoyable enjoyable-by-enjoyer great-foot-blessing joined women equal
+[women](striyaḥ) [to-be-enjoyed](bhogyā) [than-enjoyed](bhogyāt) [of-enjoyer](bhoktuḥ) [great](mahat) [foot](pāda) [with-blessing](āśipā) [to-be-endowed](yojyā) [women](striya) [equal](samā)
 
 ## mukta-m0-p32-v797
-in-salutability causes
+[in-being-saluted](abhivādyatve) [reasons](hetava)
 
 ## mukta-m0-p32-v798
-then-wealth saluter's as be so saluted in-him behave
+[now](atha) [prosperity](āḍhyatā) [of-saluter](abhivādakasya) [as](yathā) [may-be](syāt) [so](tathā) [one-to-be-saluted](abhivādyaḥ) [toward-him](tasmin) [should-behave](varteta)
 
 ## mukta-m0-p32-v799
-own-name-conduct-order what-be that pronouncing initiated likewise honoring
+[own-name](sva+nāma) [conduct](ācāra) [according-to-procedure](krameṇa) [what](yat) [may-be](syāt) [that](tat) [having-pronounced](samuccārya) [initiated](dīkṣitaḥ) [in-that-manner](tathaiva) [should-cause-to-fall-at-feet](abhipādayet)
 
 ## mukta-m0-p32-v800
-womb-elderhood intending saluting thus some
+[birth](yoni) [seniority](jyeṣṭhatvam) [having-intended](abhisandhāya) [one-should-salute](abhivādayet) [thus](iti) [some](kecit)

@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p29-v701
-[vaivaṃ+viharannāsta](vaivaṃviharannāsta) [ayam](ayam) [viharannāsta](viharannāsta) [ayam](ayam)
+[or](vā) [thus](evaṃ) [dwelling](viharan) [not](na) [remains](āste) [this-one](ayam)
 
 ## mukta-m0-p29-v702
-[paramānandam+eti](paramānandameti) [paramānandam](paramānandam) [eti](eti) [paramānanda](paramānanda)
+[to]( ) [supreme](parama) [bliss](ānandam) [he-goes](eti)
 
 ## mukta-m0-p29-v703
-[na](na) [sa](sa) [punarāvartate](punarāvartate) [punar+āvartate](punarāvartate)
+[not](na) [he](sa) [again](punar) [returns](āvartate)
 
 ## mukta-m0-p29-v704
-[eṣā](eṣā) [parā](parā) [kaivalya+muktiḥ](kaivalyamuktiḥ) [kaivalyamuktiḥ](kaivalyamuktiḥ)
+[this](eṣā) [is]( ) [supreme](parā) [isolation](kaivalya) [liberation](muktiḥ)
 
 ## mukta-m0-p29-v705
-[parā+jīvanmuktyānandāt](parājīvanmuktyānandātparākaivalyamuktyānando) [parā+kaivalya+muktyānandaḥ](parākaivalyamuktyānando) [viśiṣyate](viśiṣyate) [viśiṣyate](viśiṣyate)
+[from-supreme](parā) [living](jīvan) [liberation](mukti) [bliss](ānandāt) [supreme](parā) [isolation](kaivalya) [liberation](mukti) [bliss](ānandaḥ) [is-superior](viśiṣyate)
 
 ## mukta-m0-p29-v706
-[aviśiṣyata](aviśiṣyata) [iti](iti) [kecit](kecit) [kecit](kecit)
+[not](a) [superior](viśiṣyate) [thus](iti) [some](ke) [say](citi)
 
 ## mukta-m0-p29-v707
-[tāvat+eva+ayam](tāvadevāyaṃ) [karma+vivaśaḥ](karmavivaśaḥ) [yāvat+na](yāvanna) [muktaḥ](mukto) [bhavati](bhavati)
+[so-long](tāvat) [indeed](eva) [this-one](ayam) [by-karma](karma) [compelled](vivaśaḥ) [as-long-as](yāvat) [not](na) [liberated](muktaḥ) [he-becomes](bhavati)
 
 ## mukta-m0-p29-v708
-[muktasya+asya](muktasyāsya) [karmāṇi](karmāṇi) [parāṅmukhāni](parāṅmukhāni) [bhavanti](bhavanti)
+[of-the-liberated](muktasya) [of-this-one](asya) [karmas](karmāṇi) [turned-away](parāṅmukhāni) [become](bhavanti)
 
 ## mukta-m0-p29-v709
-[yathā](yathā) [saṃspṛṣṭa+agner+bījāt](saṃspṛṣṭāgnerbījādaṅkurapraroho) [aṅkura+prarohaḥ](aṅkurapraroho) [nivartate](nivartate)
+[as](yathā) [touched](saṃspṛṣṭa) [by-fire](agneḥ) [from-seed](bījāt) [sprout](aṅkura) [growth](prarohaḥ) [ceases](nivartate)
 
 ## mukta-m0-p29-v710
-[bhavet+tadā+eva+ayam](bhavettadaivāyaṃ) [sva+muktyai](svamuktyai) [yateta](yateta) [caturbhiḥ+caturṇām+ekena+vā](caturbhiścaturṇāmekena vā)
+[should-be](bhavet) [then](tadā) [indeed](eva) [this-one](ayam) [for-own](sva) [liberation](muktyai) [should-strive](yateta) [with-four](caturbhiḥ) [of-four](caturṇām) [with-one](ekena) [or](vā)
 
 ## mukta-m0-p29-v711
-[ekasmin+ekena+aṅgena](ekasinnekenāṅgena) [yateta+iti](yatetetyunmattabhairavaḥ) [unmatta+bhairavaḥ](unmattabhairavaḥ) [unmatta+bhairavaḥ](unmattabhairavaḥ)
+[in-one](ekasmin) [with-one](ekena) [limb](aṅgena) [one-should-strive](yateta) [thus](iti) [Unmatta-Bhairava](unmatta) [Bhairava](bhairavaḥ)
 
 ## mukta-m0-p29-v712
-[praṇava+vācya](praṇavavācya) [paraṃbrahma+devatā+cit+cetyaitaiḥ+nāmabhiḥ](paraṃbrahmadevatāciccetyaitairnāmabhiḥ) [stutyaḥ](stutyaḥ) [stutyaḥ](stutyaḥ)
+[by-praṇava](praṇava) [denoted](vācya) [supreme](paraṃ) [brahman](brahma) [deity](devatā) [consciousness](cit) [and-so-on](iti) [by-these](etaiḥ) [names](nāmabhiḥ) [to-be-praised](stutyaḥ)
 
 ## mukta-m0-p29-v713
-[viśeṣataḥ](viśeṣato) [nāmāni+uktāni](nāmānyuktāni) [parātmanaḥ](parātmanaḥ) [parātmanaḥ](parātmanaḥ)
+[especially](viśeṣataḥ) [names](nāmāni) [are-stated](uktāni) [of-the-supreme-self](para) [of-the-self](ātmanaḥ)
 
 ## mukta-m0-p29-v714
-[sarvaiḥ](sarvaiḥ) [śabdaiḥ+vācyaḥ](śabdairvācyaḥ) [parātmā](parātmā) [parātmā](parātmā)
+[by-all](sarvaiḥ) [words](śabdaiḥ) [to-be-denoted](vācyaḥ) [supreme](para) [self](ātmā)
 
 ## mukta-m0-p29-v715
-[īśvarāḥ](īśvarāḥ) [īśvarāḥ](īśvarāḥ) [īśvara](īśvarāḥ) [īśvara](īśvarāḥ)
+[lords](īśvarāḥ) [are]( ) [supreme-beings]( ) [gods]( )
 
 ## mukta-m0-p29-v716
-[viśeṣataḥ](viśeṣato) [nāmāni+uktāni+īśvarāṇām](nāmānyuktānīśvarāṇām) [īśvarāṇām](īśvarāṇām) [īśvarāṇām](īśvarāṇām)
+[especially](viśeṣataḥ) [names](nāmāni) [are-stated](uktāni) [of-the-lords](īśvarāṇām)
 
 ## mukta-m0-p29-v717
-[sarvaiḥ](sarvaiḥ) [śabdaiḥ+vācyāḥ](śabdairvācyā) [īśvarāḥ](īśvarāḥ) [īśvarāḥ](īśvarāḥ)
+[by-all](sarvaiḥ) [words](śabdaiḥ) [to-be-denoted](vācyāḥ) [lords](īśvarāḥ)
 
 ## mukta-m0-p29-v718
-[devatāḥ](devatāḥ) [mānuṣa+devatāḥ](mānupadevatāḥ) [devatāḥ](devatāḥ) [devatāḥ](devatāḥ)
+[deities](devatāḥ) [human](mānu) [deities](padevatāḥ)
 
 ## mukta-m0-p29-v719
-[viśeṣataḥ](viśeṣato) [nāmāni+uktāni](nāmānyuktāni) [devānām](devānām) [devānām](devānām)
+[especially](viśeṣataḥ) [names](nāmāni) [are-stated](uktāni) [of-the-gods](devānām)
 
 ## mukta-m0-p29-v720
-[sarvaiḥ](sarvaiḥ) [śabdaiḥ+vācyāḥ](śabdairvācyā) [devāḥ](devāḥ) [devāḥ](devāḥ)
+[by-all](sarvaiḥ) [words](śabdaiḥ) [to-be-denoted](vācyāḥ) [gods](devāḥ)
 
 ## mukta-m0-p29-v721
-[jīvāḥ](jīvāḥ) [mānuṣāḥ](mānuṣāḥ) [varṇinaḥ](varṇinaḥ) [āśramiṇaḥ](āśramiṇaḥ) [manujāḥ](manujāḥ) [puruṣāḥ](puruṣāḥ) [naraḥ](naraḥ) [vastūni](vastūni)
+[living-beings](jīvāḥ) [humans](mānuṣāḥ) [class-members](varṇinaḥ) [stage-members](āśramiṇaḥ) [men](manujāḥ) [persons](puruṣāḥ) [men](naraḥ) [things](vastūni)
 
 ## mukta-m0-p29-v722
-[viśeṣataḥ](viśeṣato) [nāmāni+uktāni](nāmānyuktāni) [mānuṣāṇām](mānuṣāṇām) [mānuṣāṇām](mānuṣāṇām)
+[especially](viśeṣataḥ) [names](nāmāni) [are-stated](uktāni) [of-humans](mānuṣāṇām)
 
 ## mukta-m0-p29-v723
-[ātmānaḥ](ātmānaḥ) [īśvarāḥ](īśvarāḥ) [ātmānaḥ](ātmānaḥ) [īśvarāḥ](īśvarāḥ)
+[selves](ātmānaḥ) [lords](īśvarāḥ)
 
 ## mukta-m0-p29-v724
-[punar+viśeṣataḥ](punarviśeṣato) [nāmāni+uktāni](nāmānyuktāni) [manuṣāṇām](manuṣāṇām) [manuṣāṇām](manuṣāṇām)
+[again](punar) [especially](viśeṣataḥ) [names](nāmāni) [are-stated](uktāni) [of-humans](manuṣāṇām)
 
 ## mukta-m0-p29-v725
-[sarvaiḥ](sarvaiḥ) [śabdaiḥ+vācyāḥ](śabdairvācyā) [mānuṣāḥ](mānuṣāḥ) [mānuṣāḥ](mānuṣāḥ)
+[by-all](sarvaiḥ) [words](śabdaiḥ) [to-be-denoted](vācyāḥ) [humans](mānuṣāḥ)

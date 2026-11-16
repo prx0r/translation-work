@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p28-v676
-sometimes(kadācit) kṣatriya-family-born(kṣatriyakulopannaḥ) that-suitable(tadanukulā) livelihood(vṛttiṃ) doing(kuryan) not-remaining(nāste)
+[sometimes](kadācit) [kṣatriya+family+born](kṣatriya-kula-upannaḥ) [that+suitable](tat-anukūlāṃ) [conduct](vṛttiṃ) [performing](kurvan) [he-remains](āste)
 
 ## mukta-m0-p28-v677
-sometimes(kadācit) brahma-family-born(brahmakulotpannaḥ) that-suitable(tadanukūlāṃ) livelihood(vṛttiṃ) doing(kurvannāste)
+[sometimes](kadācit) [brahmin+family+born](brahma-kula-utpannaḥ) [that+suitable](tat-anukūlāṃ) [conduct](vṛttiṃ) [performing](kurvan) [he-remains](āste)
 
 ## mukta-m0-p28-v678
-sometimes(kadācit) four-āśrama-duties(cāturāśramyadharmān) performing(kurvannāste)
+[sometimes](kadācit) [four+stages+duties](cātur-āśramya-dharmān) [performing](kurvan) [he-remains](āste) [thus](āste)
 
 ## mukta-m0-p28-v679
-for-alms(bhikṣārthaṃ) wandering(paryaṭannāste)
+[alms+for-the-sake-of](bhikṣā-artham) [wandering-about](paryaṭan) [he-remains](āste) [thus](āste)
 
 ## mukta-m0-p28-v680
-dwelling(vasannāste)
+[dwelling](va) [abiding](san) [he](ā) [remains](ste)
 
 ## mukta-m0-p28-v681
-or(vā) doctrines-establishing(matāni+saṃsthāpayan) dharmas-establishing(dharmāśca+saṃsthāpayannāste)
+[or](vā) [doctrines](matāni) [establishing](saṃsthāpayan) [duties](dharmāḥ) [and](ca) [establishing](saṃsthāpayan) [he-remains](āste)
 
 ## mukta-m0-p28-v682
-blood-smeared-limbed(rudhiradigdhāṅgaḥ) remaining(āste)
+[blood+smeared+limbed](rudhira-digdha-aṅgaḥ) [he-remains](āste) [thus](āste) [abiding](āste)
 
 ## mukta-m0-p28-v683
-or(vā) gifts-giving(dānāni+dadannāste)
+[or](vā) [gifts](dānāni) [giving](dadan) [he-remains](āste) [thus](āste)
 
 ## mukta-m0-p28-v684
-or(vā) all-beings(all+bhūtajātaṃ) staff-like-bowing(daṇḍavat+praṇamannāste)
+[or](vā) [all](sarva) [being+multitude](bhūta-jātam) [like-a-stick](daṇḍavat) [prostrating](praṇaman) [he-remains](āste)
 
 ## mukta-m0-p28-v685
-eating-and-drinking(bhuñjan+pibannāste)
+[eating](bhuñjan) [drinking](piban) [he-remains](āste) [thus](āste)
 
 ## mukta-m0-p28-v686
-or(vā) with-dharma-wives(dharmapatnībhiḥ) homa-etc-and-final-rites(homādīn+uttarakratvantān) performing(kurvannāste)
+[or](vā) [lawful+wives+with](dharma-patnībhiḥ) [fire-offering+etc.](homa-ādīn) [subsequent+rites+ending-with](uttara-kratv-antān) [performing](kurvan) [he-remains](āste)
 
 ## mukta-m0-p28-v687
-or(vā) jīvanmukta-marks(jīvanmuktalakṣaṇāni) bearing(dhārayannāste)
+[or](vā) [living+liberated+characteristics](jīvan-mukta-lakṣaṇāni) [bearing](dhārayan) [he-remains](āste) [thus](āste)
 
 ## mukta-m0-p28-v688
-or(vā) five-ness-obtained(pañcatvaṃ+prāpya) other-body-entered(paraśarīrāviṣṭaḥ) remaining(āste)
+[or](vā) [death](pañcatvam) [having-attained](prāpya) [another+body+entered](para-śarīra-āviṣṭaḥ) [he-remains](āste)
 
 ## mukta-m0-p28-v689
-or(vā) with-aṇimā-etc(yuktaḥ) remaining(āste)
+[or](vā) [minuteness+etc.+with](aṇimā-ādibhiḥ) [endowed](yuktaḥ) [he-remains](āste) [thus](āste)
 
 ## mukta-m0-p28-v690
-or(vā) yoga-siddhi-showing(yogasiddhi+darśayannāste)
+[or](vā) [yoga+powers](yoga-siddhiḥ) [displaying](darśayan) [he-remains](āste) [thus](āste)
 
 ## mukta-m0-p28-v691
-or(vā) leprous-sick-with-diseases(kuṣṭhī+vyādhitaḥ+yakṣmādibhī+rogairgṛhītaḥ) remaining(āste)
+[or](vā) [leprous](kuṣṭhī) [diseased](vyādhitaḥ) [consumption+etc.+by](yakṣma-ādibhiḥ) [diseases](rogaiḥ) [seized](gṛhītaḥ) [he-remains](āste)
 
 ## mukta-m0-p28-v692
-or(vā) five-ness-obtained(pañcatvaṃ+prāpya) in-hells-falling(narakeṣu+patannāste)
+[or](vā) [death](pañcatvam) [having-attained](prāpya) [in-hells](narakeṣu) [falling](patan) [he-remains](āste)
 
 ## mukta-m0-p28-v693
-or(vā) in-heavens-delighting(svargeṣu+ramannāste)
+[or](vā) [in-heavens](svargeṣu) [delighting](raman) [he-remains](āste) [thus](āste)
 
 ## mukta-m0-p28-v694
-sufferings-not-touching(duḥkhāny+aparāmṛśannevāste)
+[sufferings](duḥkhāni) [not-touching](aparāmṛśan) [indeed](eva) [he-remains](āste)
 
 ## mukta-m0-p28-v695
-karma-fruits-enjoying(karmaphalāni+bhuñjan) or-enjoying(vā+bhuñjan) truth-resolved( satyasaṃkalpaḥ) under-īśvara(īśvarādhīnaḥ) remaining(āste)
+[action+fruits](karma-phalāni) [enjoying](bhuñjan) [or](vā) [not-enjoying](abhuñjan) [true+resolve](satya-saṃkalpaḥ) [lord+dependent](īśvara-adhīnaḥ) [he-remains](āste)
 
 ## mukta-m0-p28-v696
-by-own-lord-command(sveśvarājñayā) like-īśvara(īśvaravat)
+[own+lord+by-command](sva-īśvara-ājñayā) [like-the-lord](īśvaravat) [acting](sva-īśvara-ājñayā) [abiding](īśvaravat)
 
 ## mukta-m0-p28-v697
-to-own-world-goes(sveśalokam+eti) then-returns(tataḥ+punarāvartate) lowly(nīcaiḥ)
+[own+lord+world](sva-īśa-lokam) [he-goes](eti) [thence](tataḥ) [again](punar) [returns](āvartate) [downward](nīcaiḥ)
 
 ## mukta-m0-p28-v698
-this-is-kaivalya-liberation(eṣā+kaivalyamuktiḥ)
+[this](eṣā) [absolute+liberation](kaivalya-muktiḥ) [is](eṣā) [thus](kaivalya-muktiḥ)
 
 ## mukta-m0-p28-v699
-difference-between-jīvanmukti-and-kaivalyamukti(jīvanmuktikaivalyamuktyor+viśeṣaḥ)
+[living+liberation](jīvan-mukti) [absolute+liberation+of](kaivalya-muktyoḥ) [distinction](viśeṣaḥ) [is](viśeṣaḥ)
 
 ## mukta-m0-p28-v700
-supreme-jīvanmukta( parājīvanmuktaḥ) īśvara-like-bliss(īśvarasadṛśāhlādaḥ)
+[supreme](parā) [living+liberated](jīvan-muktaḥ) [lord+similar+bliss](īśvara-sadṛśa-āhlādaḥ) [possessing](īśvara-sadṛśa-āhlādaḥ)
