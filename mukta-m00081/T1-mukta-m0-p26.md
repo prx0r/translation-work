@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p26-v626
-[non-existent](avastu) [or](vā) [not](na) [indeed](hi) [unreal](asatyaṃ) [of-true-nature](satya+rūpasya) [means](sādhanam)
+[non-entity](avastu) [or](vā) [not-truth](nahyasatyaṃ) [truth-form's](satyarūpasya) [proof](sādhanam)
 
 ## mukta-m0-p26-v627
-[likewise](tathā) [in-world-origination](jagat+samutpattau) [of-another-instrumental-cause](nimitta+antara+kalpanā)
+[thus](tathā) [world's-origination](jagatsamutpattau) [other-cause](nimittāntara) [supposition](kalpanā)
 
 ## mukta-m0-p26-v628
-[in-alternative](pakṣe) [second](dvitīye) [that-nature](tādrūpyaṃ) [insentience-etc](jaḍatva+ādi) [here](iha) [of-that](tasya) [what](kaḥ)
+[in-alternative](pakṣe) [second](dvitīye) [such-form](tādrūpyaṃ) [inertness-etc](jaḍatvādiha) [of-it](tasya) [who](kaḥ)
 
 ## mukta-m0-p26-v629
-[of-Jains](ārhatāḥ) [however](tu) [conqueror](jinaḥ) [god](devaḥ) [souls](jīvāḥ) [exist](santi) [separately](pṛthak) [separately](pṛthak)
+[jains](ārhatāstu) [jina](jino) [god](devo) [souls](jīvāḥ) [are](santi) [separate](pṛthak) [separate](pṛthak)
 
 ## mukta-m0-p26-v630
-[thus](iti) [in-this-way](evam) [they-say](āhuḥ) [of-them](teṣām) [also](api) [of-ignorance-connection](avidyā+yoga+kalpanam)
+[thus](ityevam) [they-say](āhusteṣām) [also](api) [ignorance-union](avidyāyoga) [supposition](kalpanam)
 
 ## mukta-m0-p26-v631
-[of-whom](yeṣāṃ) [god](devaḥ) [formless](nirākāraḥ) [void](śūnyaḥ) [indeed](eva) [what](kim) [is-said](ucyate)
+[whose](yeṣāṃ) [god](devo) [formless](nirākāraḥ) [void](śūnya) [indeed](eva) [what-is-said](kimucyate)
 
 ## mukta-m0-p26-v632
-[there](tatra) [also](api) [exists](asti) [called-non-discrimination](aviveka+ākhyaḥ) [impurity](malaḥ) [bondage-and-liberation-state](bandha+vimokṣatā)
+[there](tatrāpy) [is](asti) [non-discrimination](aviveka) [named](ākhyo) [impurity](malo) [bondage-liberation](bandhavimokṣatā)
 
 ## mukta-m0-p26-v633
-[of-Nyāya-Vaiśeṣikas](nyāya+vaiśeṣikāṇāṃ) [however](tu) [bondage-and-liberation](bandha+mokṣau) [separately-situated](pṛthak+sthitī)
+[nyāya-vaiśeṣika](nyāyavaiśeṣikāṇāṃ) [tu](tu) [bondage-liberation](bandhamokṣau) [separate-states](pṛthaksthitī)
 
 ## mukta-m0-p26-v634
-[of-consciousness-devoid-Brahmanhood-assertors](saṃvitti+śūnya+brahmatva+vādināṃ) [insentience](jaḍatā) [indeed](eva) [that](sā)
+[consciousness-void-brahman](saṃvittiśūnyabrahmatvavādināṃ) [inertness](jaḍataiva) [that](sā)
 
 ## mukta-m0-p26-v635
-[of-those-holding-time-as-cause](kāla+kāraṇikānāṃ) [however](tu) [mere-name](nāmatā) [insentience](jaḍatā) [or](athavā)
+[time-causers](kālakāraṇikānāṃ) [tu](tu) [namehood](nāmatā) [inertness](jaḍatā) [or](athavā)
 
 ## mukta-m0-p26-v636
-[there](tatra) [if](cet) [bias-toward-consciousness](cit+pakṣapātaḥ) [would-obtain](prāpnuyāt) [constant](satataṃ) [grasping](grahaḥ)
+[there](tatra) [if-consciousness-side](citpakṣapātaścet) [would-obtain](prāpnuyāt) [always](satataṃ) [grasping](grahaḥ)
 
 ## mukta-m0-p26-v637
-[who](ye) [externalist](bāhya+vādinaḥ) [Buddhists](bauddhāḥ) [they](te) [difference](bhedaṃ) [have-resorted-to](samupāśritāḥ)
+[externalists](ye) [buddhists](bāhyavādino) [buddhists](bauddhāste) [difference](bhedaṃ) [resort](samupāśritāḥ)
 
 ## mukta-m0-p26-v638
-[external](bahiḥ) [how](kathaṃ) [not](na) [indeed](hi) [unreal](asatyaṃ) [from-real](satyāt) [to-arise](bhavitum) [is-fit](arhati)
+[external](bahiḥ) [how](kathaṃ) [not-truth](nahyasatyaṃ) [truth-from](satyādbhavitumarhati)
 
 ## mukta-m0-p26-v639
-[of-cognition](jñānasya) [as-instrument](karaṇatvena) [dependence-on-agent](kartṛ+apekṣā) [ensues](prasajyate)
+[knowledge's](jñānasya) [instrumentality](karaṇatvena) [agent-dependence](kartrapekṣā) [ensues](prasajyate)
 
 ## mukta-m0-p26-v640
-[in-twofold-nature](dvirūpatve) [transition-to-contradictoriness](viruddhatva+saṃkramatvaṃ) [occurs](pravartate)
+[two-form](dvirūpatve) [contradiction](viruddhatva) [transmigration](saṃkramatvaṃ) [proceeds](pravartate)
 
 ## mukta-m0-p26-v641
-[and-not](na) [also](ca) [api](api) [in-momentariness](kṣaṇa+bhaṃgitve) [fitting](yuktā) [nihilistic](vaināśikī) [position](sthitiḥ)
+[not-also](nacāpi) [momentary-destruction](kṣaṇabhaṃgitve) [fit](yuktā) [destructionist](vaināśikī) [state](sthitiḥ)
 
 ## mukta-m0-p26-v642
-[of-cognition](jñānasya) [in-one-moment](eka+kṣaṇe) [fitting](yuktā) [by-its-duality](tat+dvitvena) [destruction-of-moment](kṣaṇa+kṣayaḥ)
+[knowledge's](jñānasya) [one-moment](ekakṣaṇe) [fit](yuktā) [its-two-ness](taddvitvena) [moment-decay](kṣaṇakṣayaḥ)
 
 ## mukta-m0-p26-v643
-[because-of-destruction](vinaṣṭatvāt) [fruit](phalaṃ) [of-whom](kasya) [since](yataḥ) [in-sequence](kramāt) [in-action-and-fruit](karma+phale)
+[destroyed](vinaṣṭatvāt) [fruit](phalaṃ) [whose](kasya) [gradually](kramāt) [action-fruit](karmaphale) [since](yataḥ)
 
 ## mukta-m0-p26-v644
-[of-grasped-grasper-cognition](grāhya+grāhaka+saṃvitteḥ) [possessing-difference](bhedavān) [as-if](iva) [appears](lakṣyate)
+[grasper-grasped-consciousness](grāhyagrāhakasaṃvitter) [differentiated](bhedavāniva) [is-marked](lakṣyate)
 
 ## mukta-m0-p26-v645
-[in-form-of-latent-impression](vāsanā+rūpayā) [in-pure](śuddhe) [not-impure](na) [aśuddhā](aśuddhā) [latent-impression](vāsanā) [would-be](bhavet)
+[latent-impression-form](vāsanārūpayā) [pure](śuddhe) [not-impure](nāśuddhā) [latent-impression](vāsanā) [becomes](bhavet)
 
 ## mukta-m0-p26-v646
-[arises](jāyate) [first](prathamā) [indeed](eva) [desire](icchā) [of-unborn](na+ama) [of-unborn](ajātasya) [such-as](yādṛśī)
+[arises](jāyate) [first](prathamaivecchā) [name-unborn](nāmājātasya) [such](yādṛśī)
 
 ## mukta-m0-p26-v647
-[not](na) [pot](ghaṭaḥ) [without-particularity](nirviśeṣaḥ) [exists](asti) [in-grasping](grahe) [since](yat) [purity-of-knower](jñātṛ+śuddhatā)
+[not](na) [pot](ghaṭo) [without-distinction](nirviśeṣo'sti) [grasping](grahe) [knower-purity](yajjñātṛśuddhatā)
 
 ## mukta-m0-p26-v648
-[because-of-variety-of-appearance](pratibhāsasya) [vaicitryāt](vaicitryāt) [simultaneous-grasping](yugapad+grahaṇaṃ) [how](katham)
+[appearance's](pratibhāsasya) [variety](vaicitryād) [simultaneous-grasping](yugapadgrahaṇaṃ) [how](katham)
 
 ## mukta-m0-p26-v649
-[having-seen](dṛṣṭvā) [that](tāṃ) [in-determination](saṃparicchede) [duality-of-moment](kṣaṇa+dvaidham) [then](atha) [is-stated](ucyate)
+[seeing](dṛṣṭvā) [that](tāṃ) [delimitation](saṃparicchede) [moment-duality](kṣaṇadvaidham) [then](athocyate)
 
 ## mukta-m0-p26-v650
-[and-not](na) [ca](ca) [in-class-of-objects](artha+jāte) [unreality](avastutvaṃ) [nor](na) [regard-for-grasping-unreal](avastu+grahaṇa+ādaraḥ)
+[not](nacārthajāte) [non-entity](avastutvaṃ) [not](nāvastugrahaṇādaraḥ)

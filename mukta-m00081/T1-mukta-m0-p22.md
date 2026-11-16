@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p22-v526
-[which](ye) [mental-constructions](vikalpāḥ) [located-in-power](śakti+gatāḥ) [they](te) [also](api) [come](āyānti) [mind](manaḥ) [towards](prati)
+[those](ye) [alternatives](vikalpāḥ) [power-gone](śaktigatāḥ) [they-also-come](te'pyāyānti) [mind](manaḥ) [towards](prati)
 
 ## mukta-m0-p22-v527
-[of-entities](bhāvānāṃ) [due-to-being-reflections](pratibimbatvāt) [of-the-self](ātmanaḥ) [also](api) [not](na) [fitness](yuktatā)
+[reflections](bhāvānāṃ) [of-beings](pratibimbatva) [of-self](ātmano) [also](api) [not](na) [fitness](yuktatā)
 
 ## mukta-m0-p22-v528
-[therefore](tasmāt) [pot](ghaṭaḥ) [own-self](sva+mātmānam) [apprehending](avagacchan) [remains](avasthitaḥ)
+[therefore](tasmāt) [pot](ghaṭaḥ) [own](svam) [self](ātmānam) [knowing](avagacchan) [stands](avasthitaḥ)
 
 ## mukta-m0-p22-v529
-[likewise](tathā) [of-Śiva](śivasya) [from-creation-or](sarga+ādvā) [of-the-process](prakriyāyāḥ) [likewise](tathā) [of-the-self](ātmanaḥ)
+[thus](tathā) [of-śiva](śivasya) [from-creation](sargāt) [vā](vā) [process](prakriyāyāḥ) [thus](tathā) [of-self](ātmanaḥ)
 
 ## mukta-m0-p22-v530
-[of-Śiva-hood](śivatvasya) [likewise](tathā) [of-manifestation](vyakteḥ) [of-the-pot](ghaṭasya) [desire](icchā) [likewise](tathā) [is](asti) [or](vā)
+[of-śiva-ness](śivatvasya) [thus](tathā) [of-manifestation](vyakteḥ) [of-pot](ghaṭasya) [wish](icchā) [thus](tathā) [is](asti) [or](vā)
 
 ## mukta-m0-p22-v531
-[not-desiring](anicchan) [not](na) [does](karoti) [indeed](eva) [from-this](ataḥ) [indeed](eva) [is](asti) [cessation](nirvṛtiḥ)
+[not-wishing](anicchuḥ) [not](na) [does](karoti) [thus](evam) [therefore](ataḥ) [eva](eva) [is](asti) [liberation](nirvṛtiḥ)
 
 ## mukta-m0-p22-v532
-[because-of-arising-from-karma](karma+prabhavanatvāt) [its-lordship](tat+prabhutvam) [is-ascertained](avadhāryate)
+[from-action-born-ness](karmaprabhavanatvāt) [that](tat) [lordship](prabhutvam) [is-determined](avadhāryate)
 
 ## mukta-m0-p22-v533
-[all](sarve) [in-the-form-of-objects](padārtha+rūpeṇa) [generally](sāmānyena) [by-being-meaningful](artha+vattayā)
+[all](sarve) [objects](padārtha) [forms](rūpeṇa) [generally](sāmānyena) [meaningfulness](arthavattayā)
 
 ## mukta-m0-p22-v534
-[if](yadi) [they](te) [not](na) [self-apprehensible](svayaṃ+grāhyāḥ) [are-grasped](gṛhyante) [not](na) [indeed](eva) [by-the-eye](cakṣuṣā)
+[if](yadi) [they](te) [not](na) [self-grasped](svayaṃgrāhyāḥ) [are-grasped](gṛhyante) [not](na) [eva](eva) [by-eye](cakṣuṣā)
 
 ## mukta-m0-p22-v535
-[cloth](paṭaḥ) [grasped](gṛhītaḥ) [whole](sakalaḥ) [thus](iti) [not](na) [would-be](syāt) [valid-cognition](pramā) [anywhere](kvacit)
+[cloth](paṭaḥ) [grasped](gṛhītaḥ) [whole](sakalaḥ) [thus](iti) [not](na) [would-be](syāt) [valid-cognition](pramā) [ever](kvacit)
 
 ## mukta-m0-p22-v536
-[not](na) [and](ca) [by-being-another-part](anya+avayavatvena) [in-others-than-that](tat+anyeṣu) [inferability](anumānatā)
+[not](na) [ca](ca) [other-part-ness](anyāvayavatvena) [that](tat) [others](anyeṣu) [inference](anumānatā)
 
 ## mukta-m0-p22-v537
-[therefore](tasmāt) [not](na) [by-another](anyena) [are-grasped](gṛhyante) [by-perception](pratyakṣeṇa) [ever](kadācana)
+[therefore](tasmāt) [not](na) [by-other](anyena) [are-grasped](gṛhyante) [by-direct-perception](pratyakṣeṇa) [ever](kadācana)
 
 ## mukta-m0-p22-v538
-[not](na) [and](ca) [also](api) [is](asti) [by-inference](anumānena) [of-others](pareṣām) [apprehension](grahaṇam) [anywhere](kvacit)
+[not](na) [ca](ca) [api](api) [is](asti) [by-inference](anumānena) [of-others](pareṣāṃ) [grasping](grahaṇaṃ) [ever](kvacit)
 
 ## mukta-m0-p22-v539
-[because-of-unapprehensibility](agrāhyatvāt) [of-that](tasya) [then](tadā) [in-particular](viśeṣe) [remoteness](dūratā) [indeed](eva) [to-you](te)
+[ungraspability](agrāhyatvāt) [of-that](tasya) [then](tadā) [in-distinction](viśeṣe) [far](dūrataḥ) [eva](eva) [they](te)
 
 ## mukta-m0-p22-v540
-[not](na) [and](ca) [also](api) [in-low](nimne) [in-short](hrasve) [or](vā) [certainty](niścayaḥ) [here](atra) [is-understood](avagamyate)
+[not](na) [ca](ca) [api](api) [in-low](nimne) [in-short](hrasve) [vā](vā) [certainty](niścayaḥ) [here](atra) [is-understood](avagamyate)
 
 ## mukta-m0-p22-v541
-[where](yatra) [where](yatra) [may-be](bhavet) [smoke](dhūmaḥ) [there](tatra) [fire](agniḥ) [thus](iti) [because-of-uncertainty](aniścayāt)
+[where](yatra) [where](yatra) [would-be](bhavet) [smoke](dhūmaḥ) [there](tatrā) [fire](agniḥ) [iti](iti) [uncertainty](aniścayāt)
 
 ## mukta-m0-p22-v542
-[by-smoke](dhūmena) [pervaded](vyāpitaḥ) [place](deśaḥ) [would-be](bhavet) [consisting-of-fire](agni+mayaḥ) [entire](akhilaḥ)
+[by-smoke](dhūmena) [pervaded](vyāpitaḥ) [region](deśaḥ) [would-be](bhavet) [fire-made](agnimayaḥ) [whole](akhilaḥ)
 
 ## mukta-m0-p22-v543
-[base](budhnaḥ) [by-them](taiḥ) [not](na) [and](ca) [connected](sambaddhaḥ) [ever](kadācit) [of-the-eye](cakṣuṣaḥ) [would-be](bhavet)
+[base](budhnaḥ) [by-them](taiḥ) [not](na) [ca](ca) [connected](sambaddhaḥ) [ever](kadācit) [of-eye](cakṣuṣaḥ) [would-be](bhavet)
 
 ## mukta-m0-p22-v544
-[of-fire](vahneḥ) [by-being-situated-farther-away](dūra+tara+sthityā) [in-things-connected-with-fire](vahni+śliṣṭeṣu) [non-perception](alakṣyatā)
+[of-fire](vahneḥ) [farther](dūratarasthityā) [fire-clung](vahniśliṣṭeṣu) [unseen-ness](alakṣyatā)
 
 ## mukta-m0-p22-v545
-[therefore](ataḥ) [indeed](eva) [where](yatra) [fire](vahniḥ) [luminous](bhāsvān) [not](na) [smokiness](dhūmitā) [here](atra) [but](tu)
+[therefore](ataḥ) [eva](eva) [where](yatra) [fire](vahniḥ) [shining](bhāsvān) [no](no) [smoke-ness](dhūmitā) [here](atra) [tu](tu)
 
 ## mukta-m0-p22-v546
-[by-smoke](dhūmena) [is-produced](janyate) [knowledge](jñānam) [fire](vahniḥ) [here](atra) [thus](iti) [to-you](te) [if](yadi)
+[by-smoke](dhūmena) [is-produced](janyate) [knowledge](jñānaṃ) [fire](vahniḥ) [here](atra) [iti](iti) [te](te) [yadi](yadi)
 
 ## mukta-m0-p22-v547
-[here](atra) [thus](iti) [subjecthood](dharmitā) [of-what](kasya) [in-mountain-etc.](parvata+ādau) [in-the-whole](samastake)
+[here](atra) [iti](iti) [property-ness](dharmitā) [of-whom](kasya) [on-mountain-etc](parvatādau) [whole](samastake)
 
 ## mukta-m0-p22-v548
-[seen](dṛṣṭaḥ) [if](cet) [like-all-pots](sarva+ghaṭa+vat) [of-that-part](tat+aṅgasya) [seeing-of-fire](agni+darśanam)
+[seen](dṛṣṭaḥ) [cet](cet) [all-pot-like](sarvaghaṭavat) [that-part](tadaṅgasya) [fire-seeing](agnidarśanam)
 
 ## mukta-m0-p22-v549
-[fire](agniḥ) [this](eṣaḥ) [here](atra) [smoke](dhūmaḥ) [or](vā) [would-show](darśayet) [not](na) [indeed](hi) [in-non-seeing](adarśane)
+[fire](agniḥ) [eṣaḥ](eṣaḥ) [atra](atra) [smoke](dhūmaḥ) [vā](vā) [shows](darśayet) [na](na) [hi](hi) [in-unseen](adarśane)
 
 ## mukta-m0-p22-v550
-[in-being-an-instrument](karaṇatve) [dependence-on-agent](kartṛ+apekṣā) [in-being-an-agent](kartṛtve) [dependence-on-that](tat+apekṣatā)
+[in-instrumentality](karaṇatve) [agent-expectation](kartrapekṣā) [in-agency](kartṛtve) [that-expectation](tadapekṣatā)

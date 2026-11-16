@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p11-v251
-[liberation](mokṣaṃ) [contemplate](bhāvanti) [excellent](uttamāḥ) [and](ca) [state+transcended](bhāva+atītāḥ) [then](tad) [most-excellent](uttamāḥ)
+liberation [mokṣaṃ] they-cause [bhāvanty] excellent [uttamāḥ] and [ca] beyond-states [bhāvātītāḥ] those-excellent [taduttamāḥ]
 
 ## mukta-m0-p11-v252
-[excellent](uttamāḥ) [liberation+giving+conduct](mokṣa+dā+ācārāḥ) [own-will+conduct](sva+icchā+ācārāḥ) [then](tad) [most-excellent](uttamāḥ)
+excellent [uttamāḥ] liberation-giving-practices [mokṣadācārāḥ] self-will-practices [svecchācārāḥ] those-excellent [taduttamāḥ]
 
 ## mukta-m0-p11-v253
-[liberation](mokṣaṃ) [see](paśyanti) [excellent](uttamāḥ) [and](ca) [not](na) [see](apaśyanti) [most-excellent](uttama+uttamāḥ)
+liberation [mokṣaṃ] see [paśyanti] excellent [uttamāḥ] and [ca] not-see [na+apaśyanti] most-excellent [uttamottamāḥ]
 
 ## mukta-m0-p11-v254
-[excellent](uttamāḥ) [liberation+afraid](mokṣa+bhītāḥ) [and](ca) [fear](bhītaḥ) [not](na) [exists](asti) [most-excellent](uttama+uttamāḥ)
+excellent [uttamāḥ] liberation-fearing [mokṣabhītāḥ] and [ca] fearing [bhītaḥ] not-is [na+asti] most-excellent [uttamottamāḥ]
 
 ## mukta-m0-p11-v255
-[knower](jñānī) [birth+excellent](janma+uttamaḥ) [liberated](moktaḥ) [birth](janma) [not](na) [exists](asti) [most-excellent](uttama+uttamaḥ)
+knower [jñānī] birth-excellent [janmottamaḥ] liberated [muktaḥ] birth [janma] not-is [na+asti] most-excellent [uttamottamaḥ]
 
 ## mukta-m0-p11-v256
-[excellent](uttamaḥ) [and](ca) [one+birth](eka+janmā) [even](api) [birth](janma) [not](na) [exists](asti) [most-excellent](uttama+uttamaḥ)
+excellent [uttamaḥ] and [ca] one-birth-even [ekajanmā+api] birth [janma] not-is [na+asti] most-excellent [uttamottamaḥ]
 
 ## mukta-m0-p11-v257
-[excellent](uttamaṃ) [womb+instrument](yoni+yantraḥ) [and](ca) [all+instruments+most-excellent](sarva+yantra+uttama+uttamam)
+excellent [uttamam] womb-instrument [yoniyantraḥ] and [ca] all-instruments-most-excellent [sarvayantottamottamam]
 
 ## mukta-m0-p11-v258
-[seventh+chapter](saptama+ullāsaḥ)
+seventh-chapter [saptamollāsaḥ]
 
 ## mukta-m0-p11-v259
-[conduct](ācāraḥ) [threefold](trividhaḥ) [O-goddess](devi) [in-sequence](krameṇa) [declared](udāhṛtaḥ) [by-me](mayā)
+conduct [ācāraḥ] threefold [trividhaḥ] goddess [devi] in-order [krameṇa] declared [udāhṛtaḥ] by-me [mayā]
 
 ## mukta-m0-p11-v260
-[one+state](eka+bhāvaḥ) [supreme](paraṃ) [brahman](brahma) [all+obstacles+destroying](sarva+vighna+praṇāśakam)
+one-state [ekabhāvaḥ] supreme [param] brahman [brahma] all-obstacles-destroying [sarvavighnapraṇāśakam]
 
 ## mukta-m0-p11-v261
-[one+state](eka+bhāvaḥ) [how](kathaṃ) [O-god](deva) [my](mama) [in-presence](sthāne) [reveal](prakāśaya)
+one-state [ekabhāvaḥ] how [katham] god [deva] my [mama] place [sthāne] reveal [prakāśaya]
 
 ## mukta-m0-p11-v262
-[virgin](kumārī) [there](tatra) [renowned](vikhyātā) [yantra+mantra+fruit+giving](yantra+tantra+phala+pradā)
+maiden [kumārī] there [tatra] renowned [vikhyātā] yantra-tantra-fruit-giving [yantra+tantra+phalapradā]
 
 ## mukta-m0-p11-v263
-[there](tatra) [state](bhāvaḥ) [manifestation](prakāśaḥ) [which](yaḥ) [that](saḥ) [state](bhāvaḥ) [supreme](paramaḥ) [considered](mataḥ)
+there [tatra] state [bhāvaḥ] manifestation [prakāśaḥ] which [yaḥ] that [sa] state [bhāvaḥ] supreme [paramaḥ] considered [mataḥ]
 
 ## mukta-m0-p11-v264
-[so-long](tāvat) [young-woman](yuvatī) [renowned](vikhyātā) [in-her](tasyāṃ) [worship](pūjā) [great+fruit](mahā+phalā)
+so-long [tāvat] young-woman [yuvatī] renowned [vikhyātā] in-her [tasyām] worship [pūjā] great-fruit [mahāphalā]
 
 ## mukta-m0-p11-v265
-[after-that](tad+ante) [sixteenth+year](ṣoḍaśa+abde) [and](ca) [digit](kalā) [to-be-accomplished+digit](sādhya+kalā) [O-Śiva](śive)
+after-that [tadante] sixteenth-year [ṣoḍaśābde] and [ca] art [kalā] accomplished-art [sādhyakalā] O-Śiva [śive]
 
 ## mukta-m0-p11-v266
-[digit](kalā) [what](kā) [O-supreme-lord](parama+īśāna) [my](mama) [in-presence](sthāne) [reveal](prakāśaya)
+art [kalā] which [kā] supreme-lord [parameśāna] my [mama] place [sthāne] reveal [prakāśaya]
 
 ## mukta-m0-p11-v267
-[desire+wind+abandoned](kāma+vāyu+ujjhitāyāḥ) [in-worship](pūjane) [not](na) [exists](asti) [fitness](yogyatā)
+desire-wind-abandoned [kāmavāyumujjhitāyāḥ] in-worship [pūjane] not-is [nāsti] fitness [yogyatā]
 
 ## mukta-m0-p11-v268
-[virgin](kumārīṃ) [one-should-worship](pūjayet) [O-goddess](devi) [desire+state](kāma+bhāvena) [one-should-worship](pūjayet)
+maiden [kumārīm] worship [pūjayet] goddess [devi] desire-state [kāmabhāvena] [gh: hero-state [vīrabhāvena]] worship [pūjayet]
 
 ## mukta-m0-p11-v269
-[eighth+chapter](aṣṭama+ullāsaḥ)
+eighth-chapter [aṣṭamollāsaḥ]
 
 ## mukta-m0-p11-v270
-[doctrine](siddhāntaṃ) [or](vā) [O-great-goddess](mahā+īśāni) [kaula+state](kaula+bhāvaṃ) [resorted-to](samāśritam)
+doctrine [siddhāntam] or [vā] great-goddess [maheśāni] kaula-state [kaulabhāvam] resorted [samāśritam]
 
 ## mukta-m0-p11-v271
-[divine](divyaḥ) [doctrine](siddhantaḥ) [kaula](kaulaḥ) [and](ca) [sixfold](ṣaṭ+prakāraḥ) [how](kathaṃ) [tell](vada)
+divine [divyaḥ] doctrine [siddhantaḥ] kaula [kaulaḥ] and [ca] sixfold [ṣaṭprakāraḥ] how [katham] speak [vada]
 
 ## mukta-m0-p11-v272
-[fourfold](caturdhā) [divine](divyaḥ) [kaula](kaulaḥ) [and](ca) [of-śakti](śakteḥ) [and](ca) [of-puruṣa](puruṣasya) [and](ca)
+fourfold [caturdhā] divine [divyaḥ] kaula [kaulaḥ] and [ca] of-śakti [śakteḥ] and [ca] of-man [puruṣasya] and [ca]
 
 ## mukta-m0-p11-v273
-[six+conducts](ṣaṭ+ācāraṃ) [four+states](catur+bhāvaṃ) [kaula+knowledge](kaula+jñānaṃ) [and](ca) [what](kiṃ) [tell](vada)
+six-conduct [ṣaḍācāram] four-state [caturbhāvam] kaula-knowledge [kaulajñānam] and [ca] what [kim] speak [vada]
 
 ## mukta-m0-p11-v274
-[fourfold+state+endowed-with](caturdhā+bhāva+saṃyutāt)
+fourfold-state-endowed [caturdhābhāvasaṃyutāt]
 
 ## mukta-m0-p11-v275
-[hero](vīraḥ) [and](ca) [twofold](dvividhaḥ) [O-goddess](devi) [without-state](vibhāvaḥ) [and](ca) [with-state](sabhāvakaḥ)
+hero [vīraḥ] and [ca] twofold [dvividhaḥ] goddess [devi] differentiated-state [vibhāvaḥ] and [ca] with-state [sabhāvakaḥ]
