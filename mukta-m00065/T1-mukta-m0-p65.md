@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p65-v1601
-[sahasra-ashavritah](sahasrāśāvṛto) [bhanuh](bhānustasmāddaśaśatāvṛtaḥ)
+[thousand-rayed+surrounded](sahasrāśāvṛto) [sun](bhānus) [from-that+ten-hundred+surrounded](tasmāddaśaśatāvṛtaḥ)
 
 ## mukta-m0-p65-v1602
-[kapala-adyaih](kapālādyairyutairbhinne) [punya-krit](puṇyakṛtsa) [maha-gha-hrit](mahāghahṛt)
+[skull+etc.+with+joined](kapālādyairyutair) [when-divided](bhinne) [merit-doer](puṇyakṛt) [he](sa) [great-sin+remover](mahāghahṛt)
 
 ## mukta-m0-p65-v1603
-[tattva-bhagah](tattvabhāgo'rdhavaṃpātādbhavelliṅgaṃ) [shata-adhikam](śatādhikam)
+[element+portion+half+falling+from](tattvabhāgo'rdhavaṃpātād) [may-be](bhavet) [liṅga](liṅgaṃ) [hundred+more-than](śatādhikam)
 
 ## mukta-m0-p65-v1604
-[rekham](rekhāmutkirayelliṅge) [uttame](uttame) [ca](ca) [yava-astakam](yavāṣṭakam)
+[line](rekhām) [should-raise](utkirayet) [on-liṅga](liṅge) [in-best](uttame) [and](ca) [barley-grain+eight](yavāṣṭakam)
 
 ## mukta-m0-p65-v1605
-[vastra-hinake](vastrahīnake)
+[cloth+without](vastrahīnake)
 
 ## mukta-m0-p65-v1606
-[samam](samaṃ) [samatalam](samatalaṃ) [tat](tacca) [manojnam](manojñaṃ) [lakshana-anvitam](lakṣaṇānvitam)
+[even](samaṃ) [even+surfaced](samatalaṃ) [and-that](tacca) [pleasing-to-mind](manojñaṃ) [characteristics+endowed](lakṣaṇānvitam)
 
 ## mukta-m0-p65-v1607
-[madhya-sutram](madhyasūtraṃ) [samam](samaṃ) [krtva](kṛtvā) [lalata-ad](lalāṭādavatārayet)
+[middle+thread](madhyasūtraṃ) [even](samaṃ) [having-made](kṛtvā) [from-forehead](lalāṭād) [should-bring-down](avatārayet)
 
 ## mukta-m0-p65-v1608
-[sarva-lakshana-nashaya](sarvālakṣaṇanāśāya) [rekha-lakshanam](rekhālakṣaṇamucyate)
+[all+characteristics+destruction+for](sarvālakṣaṇanāśāya) [line+characteristic](rekhālakṣaṇam) [is-stated](ucyate)
 
 ## mukta-m0-p65-v1609
-[canda](caṇḍā) [lakshmi](lakṣmī) [sumedha](sumedhā) [ca](ca) [manirekha](maṇirekhā) [dasha-uditah](daśoditāḥ)
+[caṇḍā](caṇḍā) [lakṣmī](lakṣmī) [sumedhā](sumedhā) [and](ca) [jewel+line](maṇirekhā) [ten+stated](daśoditāḥ)
 
 ## mukta-m0-p65-v1610
-[c-antaram](cāntaram)
+[and+interval](cāntaram)
 
 ## mukta-m0-p65-v1611
-[tiryak-madhya-sthitat](tiryaṅmadhyasthitātsūtrātpakṣasūtrāvatāraṇam)
+[obliquely+middle+situated+from-thread](tiryaṅmadhyasthitātsūtrāt) [side+thread+bringing-down](pakṣasūtrāvatāraṇam)
 
 ## mukta-m0-p65-v1612
-[karayet](kārayet)
+[should-make](kārayet)
 
 ## mukta-m0-p65-v1613
-[randhra](randhraḥ) [shad-asrake](ṣaḍasrake)
+[with-hole](randhraḥ) [six+cornered](ṣaḍasrake)
 
 ## mukta-m0-p65-v1614
-[dipra-akhya](dīprākhyā) [lakshya](lakṣya) [rekha](rekhā) [ca](ca) [gadita](gaditā) [bhoga-moksha-da](bhogamokṣadā)
+[shining+named](dīprākhyā) [mark](lakṣya) [line](rekhā) [and](ca) [declared](gaditā) [enjoyment+liberation+giving](bhogamokṣadā)
 
 ## mukta-m0-p65-v1615
-[nava-amshah](navāṃśo'rdhaparityakte) [shashte](ṣaṣṭhe) [bhage](bhāge) [tridha](tridhā) [krite](kṛte)
+[nine+part+half+having-abandoned](navāṃśo'rdhaparityakte) [sixth](ṣaṣṭhe) [part](bhāge) [threefold](tridhā) [having-made](kṛte)
 
 ## mukta-m0-p65-v1616
-[yava-akarebha-netrabha](yavākārebhanetrābhā) [paksha-sutram](pakṣasūtraṃ) [vina](vinā) [bhavet](bhavet)
+[barley-grain+shaped+reed+like](yavākārebhanetrābhā) [side+thread](pakṣasūtraṃ) [without](vinā) [should-be](bhavet)
 
 ## mukta-m0-p65-v1617
-[tyaktva-adho](tyakttvādho) [dvy-eka-bhagam](dvyekabhāgaṃ) [tu](tu) [dvau](dvau) [ca-eva-adho-ashta-dha](caivādho'ṣṭadhā) [punah](punaḥ)
+[having-abandoned+below](tyakttvādho) [two+one+part](dvyekabhāgaṃ) [indeed](tu) [two](dvau) [and+indeed+below+eightfold](caivādho'ṣṭadhā) [again](punaḥ)
 
 ## mukta-m0-p65-v1618
-[tyaktva-ekam](tyaktvaikaṃ) [bhramayet-sutram](bhrāmayetsūtraṃ) [yavat-prishtanta-mashrite](yāvatpṛṣṭhāntamāśrite)
+[having-abandoned+one](tyaktvaikaṃ) [should-rotate+thread](bhrāmayetsūtraṃ) [until+back+end+reached](yāvatpṛṣṭhāntamāśrite)
 
 ## mukta-m0-p65-v1619
-[adho-bhaga-dvayam](adho bhāgadvayaṃ) [muktva](muktvā) [sangamah](saṅgamaḥ) [prishtatah-tayoh](pṛṣṭhatastayoḥ)
+[below](adho) [part+two](bhāgadvayaṃ) [having-released](muktvā) [junction](saṅgamaḥ) [at-back](pṛṣṭhatas) [of-those-two](tayoḥ)
 
 ## mukta-m0-p65-v1620
-[agre](agre) [muni-parityakte](muniparityakte) [lakshanam](lakṣaṇaṃ) [syat-phanisthite](syātphaṇisthite)
+[at-front](agre) [sage+abandoned](muniparityakte) [characteristic](lakṣaṇaṃ) [should-be](syāt) [on-serpent+situated](phaṇisthite)
 
 ## mukta-m0-p65-v1621
-[shad-amshad-urdhvatah-tyaktva](ṣaḍaṃśādūrdhvatastyakttvā) [kakud-bhage](kakudbhāge) [ca](ca) [lakshanam](lakṣaṇam)
+[six+part+from-above](ṣaḍaṃśādūrdhvatas) [having-abandoned](tyakttvā) [on-hump+part](kakudbhāge) [and](ca) [characteristic](lakṣaṇam)
 
 ## mukta-m0-p65-v1622
-[agho](āgho) [vihaya](vihāya) [bhagau](bhāgau) [dvau](dvau) [melakam](melakaṃ) [syat-tayoh](syāttayoḥ) [sada](sadā)
+[?](āgho) [having-left](vihāya) [parts](bhāgau) [two](dvau) [meeting](melakaṃ) [should-be](syāt) [of-those-two](tayoḥ) [always](sadā)
 
 ## mukta-m0-p65-v1623
-[puja-bhage](pūjābhāge) [vikara-amse](vikārāṃśe) [rekha-adhah](rekhādhaḥ) [sapta-varjite](saptavarjite)
+[worship+part](pūjābhāge) [section+part](vikārāṃśe) [line+below](rekhādhaḥ) [seven+abandoned](saptavarjite)
 
 ## mukta-m0-p65-v1624
-[yasya-uttare](yasyottare) [abjika-akara](abjikākārā) [sangati](saṅgati) [prishta-madhyatah](pṛṣṭhamadhyataḥ)
+[of-which+in-upper](yasyottare) [lotus+shaped]('bjikākārā) [junction](saṅgati) [back+middle+at](pṛṣṭhamadhyataḥ)
 
 ## mukta-m0-p65-v1625
-[paksha-sutre](pakṣasūtre) [param](paraṃ) [karyam](kāryaṃ) [tad-adho](tadadho) [lambanam](lambanaṃ) [haret](haret)
+[side+thread+on](pakṣasūtre) [further](paraṃ) [to-be-done](kāryaṃ) [that+below](tadadho) [hanging](lambanaṃ) [should-remove](haret)
