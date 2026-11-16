@@ -5,73 +5,73 @@
 [splendor](tejaḥ) [and-of-caṇḍa](caṇḍasya) [and-worship](yāgaḥ) [and](ca) [all](sarvaḥ) [should-be](syāt) [as-before](pūrvavat) [procedure](vidhiḥ)
 
 ## mukta-m0-p82-v2027
-[his](tat) [remains](nirmālyaṃ) [should-throw](kṣipet) [in-waters](apsu) [in-womb](garbhe) [and](ca) [in-fire](agnau) [dismissal](visarjanam)
+[its-remains](tat+nirmālyaṃ) [should-throw](kṣipet) [in-waters](apsu) [in-womb](garbhe) [and](ca) [in-fire](agnau) [dismissal](visarjanam)
 
 ## mukta-m0-p82-v2028
-[for-kingdom](rāṣṭra) [calamity](upadrava) [accomplishment](siddhi) [purpose](arthaṃ) [that](tat) [to-be-established](sthāpyaṃ) [in-secret-place](guhya+deśataḥ)
+[for-accomplishment](siddhi+artham) [of-kingdom-calamity](rāṣṭra+upadrava) [that](tat) [to-be-established](sthāpyam) [in-secret-place](guhya+deśataḥ)
 
 ## mukta-m0-p82-v2029
-[fruit](phala) [giving](dāyakam)
+[fruit-giving](phala+dāyakam)
 
 ## mukta-m0-p82-v2030
-[own-purpose](sva+artha) [mantra](mantra) [abiding](sthitiḥ) [by-that](tena) [caṇḍeśa](caṇḍeśaḥ) [not](na) [in-immovable-images](sthireṣu) [also](api)
+[for-own-purpose](sva+artha) [mantra-abiding](mantra+sthitiḥ) [by-that](tena) [caṇḍeśa](caṇḍeśaḥ) [not](na) [in-immovable-ones](sthireṣu) [also](api)
 
 ## mukta-m0-p82-v2031
-[one-should-worship](yajet) [in-lotus](abje) [oblation](homa) [gift](dāna) [etc.](ādi) [as-before](pūrvavat)
+[one-should-worship](yajet) [in-lotus](abje) [with-oblations-gifts-etc.](homa+dāna+ādi) [as-before](pūrvavat)
 
 ## mukta-m0-p82-v2032
-[of-gaṇa-group](gaṇa+varga) [and-of-ambikā](ambikānāṃ) [and](ca) [not](na) [remains](nirmālyaṃ) [in-śiva](śive) [as](yathā)
+[of-gaṇa-group-and-ambikā](gaṇa+varga+ambikānām) [and](ca) [not-remains](na+nirmālyaṃ) [for-śiva](śive) [as](yathā)
 
 ## mukta-m0-p82-v2033
-[city](purī) [ocean](sāgara) [demon](daitya) [etc.](ādyāḥ) [sage](ṛṣi) [direction](dig) [deity](devatā) [planets](grahāḥ)
+[city](purī) [ocean-demon-etc.](sāgara+daitya+ādyāḥ) [sages-directions-gods-planets](ṛṣi+dik+devatā+grahāḥ)
 
 ## mukta-m0-p82-v2034
-[duality](dvaita) [non-duality](advaitāni) [those](tāni) [here](atra) [common](sāmānyani) [and](ca) [for-accomplishment](siddhaye)
+[duality-and-non-duality](dvaita+advaitāni) [those](tāni) [here](atra) [common](sāmānyani) [and](ca) [for-accomplishment](siddhaye)
 
 ## mukta-m0-p82-v2035
-[mārtaṇḍa](mārtaṇḍaḥ) [and](ca) [thus](iti) [then](atha) [in-duality](advaite) [remains](nirmālyaṃ) [and](ca) [devoid-of-caṇḍa](caṇḍa+varjitam)
+[mārtaṇḍa](mārtaṇḍaḥ) [and](ca) [thus](iti) [then](atha) [in-non-duality](advaite) [remains](nirmālyaṃ) [except-caṇḍa](caṇḍa+varjitam)
 
 ## mukta-m0-p82-v2036
-[own-chosen-deity](sva+iṣṭaṃ) [not](na) [should-show](darśayet) [in-world](loke) [in-non-duality](advaite) [by-rule](vidhi) [prescribed](kalpitam)
+[one's-own-desired](sva+iṣṭam) [not](na) [should-show](darśayet) [in-world](loke) [in-non-duality](advaite) [prescribed-by-rite](vidhi+kalpitam)
 
 ## mukta-m0-p82-v2037
-[divine-water](divya+toya) [etc.](ādikaṃ) [of-them](teṣāṃ) [in-bathing](snāne) [in-offering](arghe) [in-libation](tarpaṇe) [beneficial](hitam)
+[divine-water-etc.](divya+toya+ādikam) [of-them](teṣām) [in-bathing](snāne) [in-arghya](arghe) [in-libation](tarpaṇe) [beneficial](hitam)
 
 ## mukta-m0-p82-v2038
-[food-offering](naivedyaṃ) [of-brothers](bhrātṛ) [and-sons](putrāṇāṃ) [and-of-sisters](bhaginīnāṃ) [and](ca) [one-should-give](dāpayet)
+[food-offering](naivedyam) [of-brothers-and-sons](bhrātṛ+putrāṇām) [and](ca) [of-sisters](bhaginīnām) [one-should-give](dāpayet)
 
 ## mukta-m0-p82-v2039
-[accomplishment](siddhiḥ) [one-may-obtain](labheta) [not](no) [wonder](citraṃ) [liṅga](liṅga) [near](sannihitaṃ) [when](yadā)
+[accomplishment](siddhiḥ) [one-may-obtain](labheta) [not](no) [wonder](citram) [near-liṅga](liṅga+sannihitam) [when](yadā)
 
 ## mukta-m0-p82-v2040
-[jayadratha](jayadratha) [etc.](ādayaḥ) [also](api) [others](anye) [thus](iti) [said](āha) [lord](bhagavān) [śiva](śivaḥ)
+[jayadratha-and-others](jayadratha+ādayaḥ) [also](api) [others](anye) [thus](iti) [said](āha) [lord](bhagavān) [śiva](śivaḥ)
 
 ## mukta-m0-p82-v2041
-[thus](iti) [in-lakṣaṇasamuccaya](lakṣaṇa+samuccaye) [of-caṇḍeśvara](caṇḍeśvara) [installation](sthāpanaṃ) [named](nāma) [seventeenth](saptadaśaḥ) [procedure](vidhiḥ)
+[thus](iti) [in-lakṣaṇasamuccaya](lakṣaṇa+samuccaye) [installation-of-caṇḍeśvara](caṇḍeśvara+sthāpanam) [named](nāma) [seventeenth](saptadaśaḥ) [procedure](vidhiḥ)
 
 ## mukta-m0-p82-v2042
-[eye](nayana) [opening](unmīlana) [etc.](ādi) [of-these](eṣāṃ) [as-before](pūrvavat) [all](sakalaṃ) [should-be](bhavet)
+[eye-opening-etc.](nayana+unmīlana+ādi) [of-these](eṣām) [as-before](pūrvavat) [all](sakalam) [should-be](bhavet)
 
 ## mukta-m0-p82-v2043
 [and](ca) [from-dismissal](āha+varjanāt)
 
 ## mukta-m0-p82-v2044
-[bathing](snāna) [etc.](ādi) [mental](mānasaṃ) [to-be-done](kāryaṃ) [likewise](tathā) [jewel](ratna) [stone](śilā) [etc.](ādikam)
+[bathing-etc.](snāna+ādi) [mental](mānasam) [to-be-done](kāryam) [likewise](tathā) [jewel-stone-etc.](ratna+śilā+ādikam)
 
 ## mukta-m0-p82-v2045
-[with-immersed](nimrabu) [flowers](kusumaiḥ) [worship](pūjā) [by-which](yayā) [wonder](citraṃ) [not](na) [perishes](naśyati)
+[with-unfading-flowers](nimrabu+kusumaiḥ) [worship](pūjā) [by-which](yayā) [wonder](citram) [not](na) [perishes](naśyati)
 
 ## mukta-m0-p82-v2046
-[jewel](ratna) [etc.](ādini) [having-placed](niveśya) [and](ca)
+[jewels-etc.](ratna+ādini) [having-placed](niveśya) [and](ca)
 
 ## mukta-m0-p82-v2047
-[one-should-place](nyaset) [of-directions](diśāṃ) [likewise](tadvat) [in-udumbara](udumbare)
+[one-should-place](nyaset) [of-directions](diśām) [likewise](tadvat) [in-udumbara](udumbare)
 
 ## mukta-m0-p82-v2048
-[on-trident](śule) [also](api) [lower-part](avaṃ) [they-worship](yajanti) [limb](aṅgaṃ) [joined](yuktā) [on-staff](daṇḍe) [and](ca) [kindling](dīpanī)
+[on-trident](śule) [also](api) [lower-part](avam) [they-worship](yajanti) [limb](aṅgam) [joined](yuktā) [on-staff](daṇḍe) [and](ca) [kindling](dīpanī)
 
 ## mukta-m0-p82-v2049
-[one](eka) [two](dvi) [three](tri) [hand-measure](kare) [to-be-worshipped](pūjyaḥ) [like-śiva](śiva+vat) [lord](bhagavān) [guru](guruḥ)
+[with-one-two-three-hands](eka+dvi+tri+kare) [to-be-worshipped](pūjyaḥ) [like-śiva](śiva+vat) [lord](bhagavān) [guru](guruḥ)
 
 ## mukta-m0-p82-v2050
-[aghora](aghoraṃ) [western-face](paścima+āsyaṃ) [or](vā) [to-be-offered](hotavyaṃ) [by-mantra](japa) [count](saṃṅkhyayā)
+[aghora](aghoram) [or-western-face](paścima+āsyam) [or](vā) [to-be-offered](hotavyam) [by-number-of-recitation](japa+saṃṅkhyayā)
