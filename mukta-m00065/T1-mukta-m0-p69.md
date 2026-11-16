@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p69-v1701
-[with-śālmali](saśālmalena) [and](ca) [fiery](āgneyaṃ) [with-hṛd-mantras](hṛd+mantraiḥ) [bath](snānam) [excellent](uttamam)
+[with-śālmali](saśālmalena) [and](ca) [fire-related](āgneyaṃ) [with-heart-mantras](hṛt+mantrai) [bath](snānam) [excellent](uttaman)
 
 ## mukta-m0-p69-v1702
-[with-aśoka](sāśokena) [but](tu) [demon-related](rakṣojam) [with-śikhā-mantra](śikhā+mantra) [endowed](anvitaṃ) [excellent](varam)
+[with-aśoka](sāśokena) [indeed](tu) [demon-related](rakṣojaṃ) [with-śikhā-mantra-accompanied](śikhā+mantra+anvitaṃ) [excellent](varam)
 
 ## mukta-m0-p69-v1703
-[with-mango-leaf](cūta+āsyena) [but](tu) [wind-related](vāyavyam) [bath](snānam) [with-armor-mantra](varma+samanvitam)
+[with-mango-mouth](cūta+āsyena) [indeed](tu) [wind-related](vāyavyaṃ) [bath](snānaṃ) [with-armor-mantra-accompanied](varma+samanvitam)
 
 ## mukta-m0-p69-v1704
-[with-ashes](sa+bhasma) [bilva-leaf](bilva+patra) [mouth](āsya) [bath](snānam) [śaiva](aiśam) [with-head-mantra](śiraḥ+anvitam)
+[with-ashes-bilva-leaf-mouth-bath](sa+bhasma+bilva+patra+āsya+snānam) [Īśa-related](aiśaṃ) [with-head-mantra-accompanied](śiraḥ+anvitan)
 
 ## mukta-m0-p69-v1705
-[with-brahma-leaf](brahma+patravatā) [brahma-related](brāhmam) [with-kuśa-grass](sa+kuśena) [endowed](samanvitam)
+[with-brahma-leaf-possessing](brahma+patravatā) [Brahma-related](brāhmaṃ) [with-kuśa-grass-accompanied](sa+kuśena) [endowed](samanvitam)
 
 ## mukta-m0-p69-v1706
-[by-excellent-women](vara+strī) [auspicious-songs](maṅgala+udgītaiḥ) [should-bathe](snāpayet) [bull-bannered-one](vṛṣabha+dhvajam)
+[with-excellent-women-auspicious-songs](vara+strī+maṅgala+udgītaiḥ) [one-should-bathe](snāpayet) [bull-bannered-one](vṛṣabha+dhvajam)
 
 ## mukta-m0-p69-v1707
-[offering](argham) [having-given](dattvā) [then](tu) [with-face-mantra](vaktreṇa) [with-armor-mantra](vastreṇa) [should-draw](ākarṣayet) [water](jalam)
+[offering](arghaṃ) [having-given](dattvā) [indeed](tu) [with-vaktra-mantra](vaktreṇa) [with-cloth](vastreṇa) [one-should-draw](ākarṣayet) [water](jalam)
 
 ## mukta-m0-p69-v1708
-[bath-etc.](snāna+ādi) [with-own-respective-mantras](svaiḥ+svakaiḥ+mantraiḥ) [four-clay-baths](catur+mṛt+snāsu) [here](iha) [more](adhikāḥ)
+[bath-etc.](snāna+ādi) [with-each-their-own-mantras](svaiḥ+svakaiḥ+mantraiḥ) [four-clay-baths](catur+mṛt+snāḥ) [here](iha) [additional](adhikāḥ)
 
 ## mukta-m0-p69-v1709
-[not](na) [indeed](ane) [previously-mentioned-clay-bath](pūrvokta+mṛt+snā) [and](ca) [commended](śastā) [with-twelve-viṣṇus](dvādaśa+viṣṇubhiḥ)
+[or](nāne) [previously-mentioned-clay-bath](pūrva+ukta+mṛt+snā) [and](ca) [commended](śastā) [with-twelve-Viṣṇu-names](dvādaśa+viṣṇubhiḥ)
 
 ## mukta-m0-p69-v1710
-[in-movable-images](calārcāsu) [with-effort](prayatnena) [in-immovable](sthāvare) [twofold](dviguṇam) [in-order](kramāt)
+[in-movable-images](cala+arcāsu) [with-effort](prayatnena) [in-immovable](sthāvare) [twofold](dviguṇaṃ) [in-order](kramāt)
 
 ## mukta-m0-p69-v1711
-[having-given](dattvā) [then](tu) [by-artisan](śilpinā) [image](arcām) [having-consecrated](abhimantrya) [then](tataḥ) [should-worship](arcayet)
+[having-given](dattvā) [indeed](tu) [to-the-artisan](śilpinām) [image](arcā) [having-consecrated](abhimantrya) [then](tataḥ) [one-should-worship](arcayet)
 
 ## mukta-m0-p69-v1712
-[of-painted](citrādi) [plastered](lepya) [and-modeled-images](pustānām) [mirror-bath](darpaṇa+snānam) [is-desired](iṣyate)
+[of-paintings-etc.-plastered-images](citra+ādi+lepya) [of-modeled-images](pustānāṃ) [mirror-bath](darpaṇa+snānam) [is-desired](iṣyate)
 
 ## mukta-m0-p69-v1713
-[from-sound](śabdāt) [from-touch](sparśāt) [and](ca) [from-form](rūpāt) [and](ca) [from-taste](rasāt) [from-smell](gandhāt) [and](ca) [indeed](vai) [in-order](kramāt)
+[from-sound](śabdāt) [and](ca) [from-touch](sparśāt) [and](ca) [from-form](rūpāt) [and](ca) [from-taste](rasāt) [and](ca) [from-smell](gandhāt) [indeed](vai) [in-order](kramāt)
 
 ## mukta-m0-p69-v1714
-[having-purified](viśodhya) [ether-etc.](kha+ādi) [elements](bhūtāni) [then](tataḥ) [image](mūrtim) [then](tu) [should-make](kārayet)
+[having-purified](viśodhya) [the-elements-beginning-with-space](kha+ādi+bhūtāni) [then](tataḥ) [the-image](mūrtiṃ) [indeed](tu) [one-should-make](kārayet)
 
 ## mukta-m0-p69-v1715
-[five-brahmas](pañca+brahma) [then](tataḥ) [limbs](aṅgāni) [arts](kalāḥ) [all](sarvāḥ) [of-śiva](śivasya) [and](ca)
+[the-five-brahmans](pañca+brahma) [then](tataḥ) [the-limbs](aṅgāni) [the-parts](kalāḥ) [all](sarvāḥ) [of-Śiva](śivasya) [and](ca)
 
 ## mukta-m0-p69-v1716
-[food-offering](naivedyam) [as-before](pūrva+vat) [should-give](dadyāt) [yellow-pigment](rocanām) [consecrated-with-head-mantra](mūrdha+mantritām)
+[food-offering](naivedyaṃ) [as-before](pūrva+vat) [one-should-give](dadyāt) [yellow-pigment](rocanāṃ) [consecrated-with-head-mantra](mūrdha+mantritām)
 
 ## mukta-m0-p69-v1717
-[parasol](chatram) [with-īśāna-mantra](īśāna+devena) [chowrie](cāmaram) [with-nara-mantra](nara+mantrataḥ)
+[umbrella](chatram) [with-Īśāna-mantra](īśāna+devena) [chowrie](cāmaraṃ) [with-Nara-mantra](nara+mantrataḥ)
 
 ## mukta-m0-p69-v1718
-[sand](bālukāḥ) [should-scatter](vikiret) [on-pedestal](pīṭhe) [devoid-of-grass-and-hair-etc.](tṛṇa+keśa+ādi+varjitāḥ)
+[sand](bālukā) [one-should-scatter](vikiret) [on-the-pedestal](pīṭhe) [devoid-of-grass-and-hair-etc.](tṛṇa+keśa+ādi+varjitāḥ)
 
 ## mukta-m0-p69-v1719
-[east-pointed](prāk+agrān) [should-spread](stṛṇuyāt) [kuśa-grass](darbhān) [with-ajāta-mantra](ajātena) [north-pointed](uttara+agrakān)
+[east-pointed](prāk+agrān) [one-should-spread](stṛṇuyāt) [darbha-grass](darbhān) [with-Ajāta-mantra](ajātena) [north-pointed](uttara+agrakān)
 
 ## mukta-m0-p69-v1720
-[dharma-etc.](dharma+ādi) [feet](caraṇān) [of-śambhu](śambhoḥ) [likewise](tathā) [adharma-etc.](adharma+ādi) [limbs](gātrakān)
+[the-feet-beginning-with-Dharma](dharma+ādi+caraṇān) [of-Śambhu](śambhoḥ) [likewise](tathā) [the-limbs-beginning-with-Adharma](adharma+ādi+gātrakān)
 
 ## mukta-m0-p69-v1721
-[vidyeśvara-petals](vidyeśvara+dalam) [there](tatra) [circle](maṇḍalam) [with-three-pericarps](traya+karṇikam)
+[the-petal-of-Vidyeśvaras](vidyeśvara+dalam) [there](tatra) [the-circle](maṇḍala) [with-three-pericarps](traya+karṇikam)
 
 ## mukta-m0-p69-v1722
-[with-good-omens](su+nimittaiḥ) [auspicious](śubhaiḥ) [with-musical-instruments](vādyaiḥ) [auspicious](maṅgalaiḥ) [with-hymn-reciters](stuti+vācakaiḥ)
+[with-good-omens](su+nimittaiḥ) [auspicious](śubhaiḥ) [with-musical-instruments](vādyaiḥ) [auspicious](maṅgalaiḥ) [with-reciters-of-praise](stuti+vācakaiḥ)
 
 ## mukta-m0-p69-v1723
-[in-front](agre) [streams-from-water-vessels](bhṛṅgāra+dhārāḥ) [and](ca) [by-releasing](mucchadbhiḥ) [by-gurus](gurubhiḥ) [likewise](tathā)
+[in-front](agre) [streams-from-water-vessels](bhṛṅgāra+dhārāḥ) [and](ca) [by-gurus-pouring-forth](mucchadbhiḥ+gurubhiḥ) [likewise](tathā)
 
 ## mukta-m0-p69-v1724
-[on-couch](talpe) [with-head-toward-east](prāk+śirasam) [sleep-jar](nidrā+kumbham) [at-its-head](tat+śīrṣake) [should-place](nyaset)
+[on-the-couch](talpe) [with-head-toward-east](prāk+śirasaṃ) [sleep-pot](nidrā+kumbhaṃ) [at-its-head](tat+śīrṣake) [one-should-place](nyaset)
 
 ## mukta-m0-p69-v1725
-[sthāṇu](sthāṇuḥ) [and](ca) [nīlakaṇṭha](nīlakaṇṭhaḥ) [and](ca) [mahādeva](mahādevaḥ) [śiva](śivaḥ) [likewise](tathā)
+[Sthāṇu](thāṇuḥ) [and](ca) [Nīlakaṇṭha](nīlakaṇṭhaḥ) [and](ca) [Mahādeva](mahādevaḥ) [Śiva](śivaḥ) [likewise](tathā)
