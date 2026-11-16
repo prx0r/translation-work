@@ -14,64 +14,64 @@
 [hips](kaṭiṃ) [destroyer-of-time](kālāntakaḥ) [may-protect](pāyāt) [thighs](ūrū) [my](me) [slayer-of-Andhaka](andhakaghātakaḥ)
 
 ## mukta-m0-p89-v2205
-[ankles](gulphau) [may-protect](pāyāt) [matted-hair-bearer](jaṭādhārī) [feet](pādau) [conqueror-of-death](mṛtyuñjayaḥ) [may-protect](avatu)
+[ankles](gulphau) [wearer-of-matted-hair](pāyāt) [may-protect](jaṭādhārī) [feet](pādau) [conqueror-of-death](mṛtyuñjayaḥ) [may-protect](avatu)
 
 ## mukta-m0-p89-v2206
-[from-head](śirasaḥ) [up-to-feet](pāda+paryantaṃ) [Sadyojāta](sadyojātaḥ) [my](mama) [may-protect](avatu)
+[from-head](śirasaḥ) [up-to-feet](pādaparyantaṃ) [Sadyojāta](sadyojātaḥ) [my](mama) [may-protect](avatu)
 
 ## mukta-m0-p89-v2207
-[in-east](pūrve) [Balavikaraṇa](balavikaraṇaḥ) [in-south](dakṣiṇe) [Kālaśāsana](kālaśāsanaḥ)
+[in-the-east](pūrve) [Balavikaraṇa](balavikaraṇaḥ) [in-the-south](dakṣiṇe) [Kālaśāsana](kālaśāsanaḥ)
 
 ## mukta-m0-p89-v2208
-[in-northeast](aiśānyām) [Īśvara](īśvaraḥ) [may-protect](pāyāt) [in-southeast](āgneyyām) [fire-eyed](agni+locanaḥ)
+[in-the-northeast](aiśānyām) [Īśvara](īśvaraḥ) [may-protect](pāyāt) [in-the-southeast](āgneyyām) [fire-eyed](agnilocanaḥ)
 
 ## mukta-m0-p89-v2209
-[above](ūrdhve) [Balapramathana](balapramathanaḥ) [in-netherworld](pātāle) [supreme-lord](parameśvaraḥ)
+[above](ūrdhve) [Balapramathana](balapramathanaḥ) [in-the-netherworld](pātāle) [supreme-lord](parameśvaraḥ)
 
 ## mukta-m0-p89-v2210
-[in-battle](raṇe) [in-royal-court](rāja+kule) [in-gambling](dyūte) [in-danger](viṣame) [in-life-peril](prāṇa+saṃśaye)
+[in-battle](raṇe) [in-royal-court](rājakule) [in-gambling](dyūte) [in-danger](viṣame) [in-life-threatening-situation](prāṇasaṃśaye)
 
 ## mukta-m0-p89-v2211
-[at-dawn](prabhāte) [may-protect](pātu) [me](māṃ) [Brahmā](brahmā) [at-midday](madhyāhne) [Bhairava](bhairavaḥ) [may-protect](avatu)
+[in-the-morning](prabhāte) [may-protect](pātu) [me](māṃ) [Brahmā](brahmā) [at-midday](madhyāhne) [Bhairava](bhairavaḥ) [may-protect](avatu)
 
 ## mukta-m0-p89-v2212
-[at-midnight](ardharātre) [Mahādeva](mahādevaḥ) [at-end-of-night](niśānte) [me](māṃ) [consisting-of-great-light](mahā+umayaḥ)
+[at-midnight](ardharātre) [Mahādeva](mahādevaḥ) [at-dawn](niśānte) [me](māṃ) [consisting-of-great-light](mahomayaḥ)
 
 ## mukta-m0-p89-v2213
-[thus](iti) [this](idam) [armor](kavacam) [sacred](puṇyam) [in-three](triṣu) [worlds](lokeṣu) [hard-to-obtain](durlabham)
+[thus](iti) [this](idaṃ) [armor](kavacaṃ) [sacred](puṇyaṃ) [in-three](triṣu) [worlds](lokeṣu) [hard-to-obtain](durlabham)
 
 ## mukta-m0-p89-v2214
-[sacred](puṇyam) [merit-giving](puṇya+pradam) [divine](divyam) [god-of-gods](deva+deva) [supreme-deity](adhi+daivatam)
+[sacred](puṇyaṃ) [merit-giving](puṇyapradaṃ) [divine](divyaṃ) [deity-of-the-god-of-gods](devadevādhidaivatam)
 
 ## mukta-m0-p89-v2215
 [of-him](tasya) [in-hand](haste) [O-great-goddess](mahādevi) [of-Tryambaka](tryambakasya) [eight](aṣṭa) [siddhis](siddhayaḥ)
 
 ## mukta-m0-p89-v2216
-[victory](jayam) [having-made](kṛtvā) [home](gṛham) [O-goddess](devi) [will-attain](saṃprāpsyati) [happy](sukhī) [again](punaḥ)
+[victory](jayaṃ) [having-made](kṛtvā) [home](gṛhaṃ) [O-goddess](devi) [will-attain](saṃprāpsyati) [happy](sukhī) [again](punaḥ)
 
 ## mukta-m0-p89-v2217
-[in-famine](durbhikṣe) [in-destruction-of-enemies](śatru+saṃhāre) [one-should-recite](paṭhet) [armor](kavacam) [with-reverence](ādarāt)
+[in-famine](durbhikṣe) [in-destruction-of-enemies](śatrusaṃhāre) [one-should-recite](paṭhet) [armor](kavacam) [with-reverence](ādarāt)
 
 ## mukta-m0-p89-v2218
-[wealth](dhanam) [sons](putrān) [happiness](sukham) [prosperity](lakṣmīm) [health](ārogyam) [all-prosperities](sarva+saṃpadaḥ)
+[wealth](dhanaṃ) [sons](putrān) [happiness](sukhaṃ) [prosperity](lakṣmīm) [health](ārogyaṃ) [all-prosperities](sarvasaṃpadaḥ)
 
 ## mukta-m0-p89-v2219
-[to-be-kept-secret](gopyam) [siddhi-giving](siddhi+pradam) [secret](guhyam) [to-be-concealed](gopanīyam) [like-one's-own-womb](sva+yoni+vat)
+[to-be-kept-secret](gopyaṃ) [siddhi-giving](siddhipradaṃ) [secret](guhyaṃ) [to-be-concealed](gopanīyaṃ) [like-one's-own-womb](svayonivat)
 
 ## mukta-m0-p89-v2220
-[forty-third](trayaḥ+catvāriṃśaḥ) [chapter](paṭalaḥ)
+[forty-third](trayaścatvāriṃśaḥ) [chapter](paṭalaḥ)
 
 ## mukta-m0-p89-v2221
-[of-this-Mahāmṛtyuñjaya](mahāmṛtyuñjayasya) [of-this](asya) [from-essence](sārāt) [best-of-the-best-essence](sāra+uttama+uttamam)
+[of-this](asya) [Mahāmṛtyuñjaya](mahāmṛtyuñjayasya) [from-the-essence](sārāt) [the-best-of-the-best-essence](sārottamottamam)
 
 ## mukta-m0-p89-v2222
-[proud](mānī) [charming-limbed](manorama+aṅgaḥ) [and](ca) [wise](manasvī) [increaser-of-honor](māna+vardhanaḥ)
+[proud](mānī) [charming-limbed](manoramāṅgaḥ) [and](ca) [wise](manasvī) [increaser-of-honor](mānavardhanaḥ)
 
 ## mukta-m0-p89-v2223
-[great-lord](mahā+īśvaraḥ) [highly-honorable](mahā+mānyaḥ) [counselor](mantrī) [dear-to-mantra-people](mantri+jana+priyaḥ)
+[great-lord](maheśvaraḥ) [highly-honorable](mahāmānyaḥ) [counselor](mantrī) [dear-to-mantra-people](mantrijanapriyaḥ)
 
 ## mukta-m0-p89-v2224
-[Mātaṅgaka](mātaṅgakaḥ) [intoxicated-minded](matta+cittaḥ) [intoxicated-consciousness](matta+cit) [contemplator-of-intoxication](matta+bhāvanaḥ)
+[elephant-like](mātaṅgakaḥ) [intoxicated-minded](mattacittaḥ) [contemplator-of-intoxicated-consciousness](mattacinmattabhāvanaḥ)
 
 ## mukta-m0-p89-v2225
-[conqueror-of-senses](jita+indriyaḥ)
+[conqueror-of-senses](jitendriyaḥ)
