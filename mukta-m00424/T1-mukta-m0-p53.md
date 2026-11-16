@@ -2,52 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p53-v1301
-pot-feature(endowed-with) [kumbhalakṣaṇa] saṃyuktaṃ(sakūrcaṃ) vastraveṣṭitam(cloth-wrapped)
+[pot+characteristic+endowed](kumbhalakṣaṇa+saṃyuktaṃ) [with+tuft-of-grass](sa+kūrcaṃ) [cloth+wrapped](vastra+veṣṭitam)
+
 ## mukta-m0-p53-v1302
-four-armed [caturbhujaṃ] three-eyed [triṇetraṃ] trident-handed [śūlapāṇiṃ] matted-haired [jaṭādharam]
+[four+armed](catur+bhujaṃ) [three+eyed](tri+ṇetraṃ) [and](ca) [trident+handed](śūla+pāṇiṃ) [matted-hair+bearing](jaṭā+dharam)
+
 ## mukta-m0-p53-v1303
-golden-sacrificial-cord [hemayajñopavītaṃ] nine-gem-ring [navaratnāṅgulīyakam]
+[golden+sacred-thread](hema+yajñopavītaṃ) [and](ca) [nine+gem+ring](nava+ratnāṅgulīyakam)
+
 ## mukta-m0-p53-v1304
-growth-vessel+brush endowed [vardhanīṃ] kūrcaṃ(saṃyuktāṃ) left-side established [vāmapārśve] pratiṣṭhitam
+[sprinkling-vessel](vardhanīṃ) [tuft-of-grass+joined](kūrcaṃ+saṃyuktāṃ) [left+side](vāma+pārśve) [placed](pratiṣṭhitam)
+
 ## mukta-m0-p53-v1305
-fearlessness [abhayaṃ] knowledge-mudra [jñānamudrāṃ] holding [dadhānaṃ] lotus+goad [padmamaṅkuśam]
+[fearlessness](abhayaṃ) [knowledge+gesture](jñāna+mudrāṃ) [and](ca) [holding](dadhānaṃ) [lotus](padmam) [goad](aṅkuśam)
+
 ## mukta-m0-p53-v1306
-foot-wash [pādyam] mouth-rinse [ācamanaṃ] arghya [cārghyaṃ] gem-water [ratnodakam] thereafter [ataḥ] param
+[foot-water](pādyam) [sipping-water](ācamanaṃ) [and](ca) [honorific-offering](arghyaṃ) [jewel+water](ratna+udakam) [thereafter](ataḥ) [then](param)
+
 ## mukta-m0-p53-v1307
-from-Indra-to-Ishana [indrādīśānaparyantaṃ] eight-pots [kumbhānaṣṭau] arrange [ca] vinyaset
+[Indra+beginning](indra+ādi) [Īśāna+ending](īśāna+paryantaṃ) [pots](kumbhān) [eight](aṣṭau) [and](ca) [one-should-place](vinyaset)
+
 ## mukta-m0-p53-v1308
-iron [lohena] wood [dāruṇā] or [vāpi] ten-weapons [daśāyudhāni] prepare [kalpayet]
+[with-metal](lohena) [with-wood](dāruṇā) [or](vā) [also](api) [ten+weapons](daśa+āyudhāni) [one-should-fashion](kalpayet)
+
 ## mukta-m0-p53-v1309
-worship [arcayet] all [tāni] sarvāṇi(kalaśānāṃ) outside [bahiḥ] in-order [kramāt]
+[one-should-worship](arcayet) [them](tāni) [all](sarvāṇi) [of-pots](kalaśānāṃ) [outside](bahiḥ) [in-order](kramāt)
+
 ## mukta-m0-p53-v1310
-north [uttare] wheel-deity [cakradevaṃ] tu [tu] south [dakṣiṇe] lotus-deity [padmadaivatam]
+[in-north](uttare) [discus+deity](cakra+devaṃ) [but](tu) [in-south](dakṣiṇe) [lotus+deity](padma+daivatam)
+
 ## mukta-m0-p53-v1311
-trident [triśūlaṃ] wind-direction [vāyudigbhāge] three-sandhyas [trisandhyāṃ] worship [pūjayet] auspicious [śubham]
+[trident](triśūlaṃ) [wind+direction+in](vāyu+dig+bhāge) [at-three-junctures](trisandhyāṃ) [one-should-worship](pūjayet) [auspicious](śubham)
+
 ## mukta-m0-p53-v1312
-three-eyed [triyakṣaṃ] four-armed [caturbhujaṃ] god [devaṃ] half-moon-crested [candrārdhakṛtaśekharam]
+[three+eyed](tri+akṣaṃ) [four+armed](catur+bhujaṃ) [god](devaṃ) [moon+crescent+made+crest](candrārdha+kṛta+śekharam)
+
 ## mukta-m0-p53-v1313
-heart-mantra [hṛnmantreṇa] fuel-bundle [samitsaṅghaṃ] ghee [ghṛtaṃ] purusha-mantra [pūruṣamantrataḥ]
+[with-heart+mantra](hṛn+mantreṇa) [fuel+collection](samit+saṅghaṃ) [ghee](ghṛtaṃ) [with-Puruṣa+mantra](pūruṣa+mantrataḥ)
+
 ## mukta-m0-p53-v1314
-roasted-grain [saktuṃ] left-mantra [vāmena] mantreṇa [mantreṇa] milk [kṣīraṃ] vai [vai] sadya-mantra [sadyamantrataḥ]
+[groats](saktuṃ) [with-Vāma+mantra](vāmena+mantreṇa) [milk](kṣīraṃ) [indeed](vai) [with-Sadya+mantra](sadya+mantrataḥ)
+
 ## mukta-m0-p53-v1315
-Shiva-gayatri [śivagāyatrimantreṇa] jaggery [gulaṃ] offering [hutvā] Maheshvara [maheśvara]
+[with-Śiva-gāyatrī+mantra](śivagāyatri+mantreṇa) [molasses](gulaṃ) [having-offered](hutvā) [O-Maheśvara](maheśvara)
+
 ## mukta-m0-p53-v1316
-after-materials [dravyānte] vyahriti [vyāhṛtiṃ] offer [juhuyāt] Rudras [rudrāṇāṃ] name-yaksha [nāmayakṣyate]
+[at-substance+end](dravya+ante) [Vyāhṛti](vyāhṛtiṃ) [one-should-offer](juhuyāt) [of-Rudras](rudrāṇāṃ) [names](nāma) [I-shall-declare](yakṣyate)
+
 ## mukta-m0-p53-v1317
-incense [dhūmayānaṃ] ca [ca] being [bhūtaṃ] ca [ca] earth [vasudhā] ca [ca] tree [taruḥ] arts [kalāḥ]
+[smoking](dhūmayānaṃ) [and](ca) [being](bhūtaṃ) [and](ca) [earth](vasudhā) [and](ca) [tree](taruḥ) [arts](kalāḥ)
+
 ## mukta-m0-p53-v1318
-knowledge-flowers [jñānapuṣpādi] songs [gītyādi] seven-Rudras [saptarudrāḥ] fourteen [caturdaśa]
+[knowledge+flower+etc.](jñāna+puṣpa+ādi) [song+etc.](gīti+ādi) [seven+Rudras](sapta+rudrāḥ) [fourteen](caturdaśa)
+
 ## mukta-m0-p53-v1319
-Kala-Rudra [kālarudra] Maha-Rudra [mahārudra] Shiva [śivaṃ] three-day festival [tridinamutsavakaṃ] auspicious [śubham]
+[Kālarudra](kālarudra) [Mahārudra](mahārudra) [Śiva](śivaṃ) [three+day+festival](tri+dina+utsavakaṃ) [auspicious](śubham)
+
 ## mukta-m0-p53-v1320
-pure-rice [śuddhānnaṃ] curd-mixed [dadhimiśraṃ] laddu+cake endowed [laḍḍukāpūpasaṃyutam]
+[pure+rice](śuddha+annaṃ) [curd+mixed](dadhi+miśraṃ) [sweet-balls+cakes+joined](laḍḍuka+apūpa+saṃyutam)
+
 ## mukta-m0-p53-v1321
-fruit [phalaṃ] ca [ca] night-powder [rajanīcūrṇaṃ] turmeric-rice [haridrānnaṃ] sa [sa] saktu [saktukam]
+[fruit](phalaṃ) [and](ca) [turmeric+powder](rajanī+cūrṇaṃ) [turmeric+rice](haridrā+annaṃ) [with](sa) [groats](saktukam)
+
 ## mukta-m0-p53-v1322
-bilva-leaves [bilvapatra] kusha-tips [kuśāgraiśca] shali-rice [śālyannaṃ] saham-mixed [sahamiśritam]
+[bilva+leaf](bilva+patra) [kuśa+tips](kuśa+agraiḥ) [and](ca) [rice+grain](śāli+annaṃ) [sesame+mixed](saha+miśritam)
+
 ## mukta-m0-p53-v1323
-indravalli [indravallī] turmeric [haridrāśca] priyangu+ghee endowed [priyaṅgughṛtasaṃyutam]
+[Indravallī](indravallī) [turmeric](haridrāḥ) [and](ca) [priyaṅgu+ghee+joined](priyaṅgu+ghṛta+saṃyutam)
+
 ## mukta-m0-p53-v1324
-lotus-flower [padmapuṣpaṃ] ca [ca] night [rajanī] lāja-yukta [lājayuktaṃ] ca [ca] rice-pudding [pāyasam]
+[lotus+flower](padma+puṣpaṃ) [and](ca) [turmeric](rajanī) [parched-rice+joined](lāja+yuktaṃ) [and](ca) [rice-pudding](pāyasam)
+
 ## mukta-m0-p53-v1325
-jaggery-rice [gulodanaṃ] ghee-endowed [ghṛtopetaṃ] bṛhatī-fruit-endowed [bṛhatīphalasaṃyutam]
+[molasses+rice](gula+udanaṃ) [ghee+endowed](ghṛta+upetaṃ) [bṛhatī+fruit+joined](bṛhatī+phala+saṃyutam)

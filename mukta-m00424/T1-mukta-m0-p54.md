@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p54-v1326
-[with-ghee](sājyaṃ) [indeed](tu) [rice-with-pulses](kṛsarānnaṃ) [indeed](vai) [coconut-fruit-accompanied](nālikeraphalairyutam)
+with-ghee(sājyaṃ) but(tu) rice-with-sesame-and-grains(kṛsara+annaṃ) indeed(vai) with-coconut-fruits(nālikera+phalaiḥ+yutam)
 
 ## mukta-m0-p54-v1327
-[milk-rice](kṣīrānnaṃ) [yogurt-accompanied](dadhisaṃyuktaṃ) [banana-fruit-accompanied](kadalīphalasaṃyutam)
+milk-rice(kṣīra+annaṃ) mixed-with-curd(dadhi+saṃyuktaṃ) mixed-with-banana-fruits(kadalī+phala+saṃyutam)
 
 ## mukta-m0-p54-v1328
-[five-rices-cake-accompanied](paṃcānnāpūpasaṃyuktaṃ) [ghee-filled](ajyenaparipūritam)
+mixed-with-five-rice-cakes(paṃca+anna+apūpa+saṃyuktaṃ) filled-with-ghee(ajyena+paripūritam)
 
 ## mukta-m0-p54-v1329
-[jaggery-rice](gulānnaṃ) [milk-rice](pāyasānnaṃ) [and](ca) [pure-rice](śuddhānnaṃ) [ghee-filled](ghṛtapūritam)
+jaggery-rice(gula+annaṃ) milk-rice(pāyasa+annaṃ) and(ca) pure-rice(śuddha+annaṃ) filled-with-ghee(ghṛta+pūritam)
 
 ## mukta-m0-p54-v1330
-[pure-rice](śuddhānnaṃ) [jaggery-mixed](gulasaṃmiśraṃ) [milk-indeed](kṣīreṇaiva) [indeed](tu) [filled](pūritam)
+pure-rice(śuddha+annaṃ) mixed-with-jaggery(gula+saṃmiśraṃ) filled-with-milk(kṣīreṇa+eva) indeed(tu) filled(pūritam)
 
 ## mukta-m0-p54-v1331
-[twelfth-day](dvādaśe'hani) [to-be-given](dātavyaṃ) [Shiva-pleasing](śivaprītikaraṃ) [auspicious](śubham)
+on-twelfth-day(dvādaśe+ahani) to-be-given(dātavyaṃ) causing-delight-to-Śiva(śiva+prīti+karaṃ) auspicious(śubham)
 
 ## mukta-m0-p54-v1332
-[of-all](sarveṣāmeva) [of-gods](devānāṃ) [great-pleasing](mahāprītikaraṃ) [auspicious](śubham)
+of-all(sarveṣām+eva) indeed(eva) of-gods(devānāṃ) causing-great-delight(mahā+prīti+karaṃ) auspicious(śubham)
 
 ## mukta-m0-p54-v1333
-[droṇa](droṇaṃ) [or-half](vāpi) [or](vā) [half](tadardhaṃ) [or](vā) [quarter](tadardhakam)
+a-droṇa(droṇaṃ) or(vā+api) its-half(tad+ardhaṃ) or(vā) its-half(tad+ardhaṃ) or(vā) its-quarter(tad+ardhakam)
 
 ## mukta-m0-p54-v1334
-[decorate](alaṅkuryādviśeṣeṇa) [village](grāmaṃ) [city](nagarameva) [and](ca)
+one-should-decorate(alaṅkuryāt) especially(viśeṣeṇa) village(grāmaṃ) city(nagaram+eva) and(ca)
 
 ## mukta-m0-p54-v1335
-[done-sweeping](kṛta) [pure](śuddhāḥ) [sprinkled-water-drops](sevitājalabindubhiḥ)
+with-sweeping-done(kṛta+saṃmārjanāḥ) clean(śuddhāḥ) sprinkled-with-water-drops(sevita+jala+bindubhiḥ)
 
 ## mukta-m0-p54-v1336
-[with-banners](patākābhiranekābhi) [and-sky-standards](tathākāśadhvajairapi)
+with-many-flags(patākābhiḥ+anekābhi) and(tathā) with-sky-banners(ākāśa+dhvajaiḥ+api)
 
 ## mukta-m0-p54-v1337
-[with-full-pots](pūrṇakumbhairanekaiśca) [colorful-cloth-etc-adorned](citravastrādibhūṣitaiḥ)
+with-many-full-pots(pūrṇa+kumbhaiḥ+anekaiḥ) and(ca) adorned-with-colored-cloths(citra+vastra+ādi+bhūṣitaiḥ)
 
 ## mukta-m0-p54-v1338
-[then](tato'ṅkurārpaṇaṃ) [sprout-offering](kuryāt) [festival-purpose](utsavārthaṃ) [as-before](yathā) [purā](purā)
+then(tataḥ) sprout-offering(aṅkura+arpaṇaṃ) one-should-do(kuryāt) for-festival(utsava+arthaṃ) as(yathā) before(purā)
 
 ## mukta-m0-p54-v1339
-[flag-tuft-accompanied](dhvapiñcha) [stotra-mantra-reciters](stotramaṅgakavācakaiḥ)
+with-flag-feathers(dhva+piñcha+samāyuktaiḥ) with-chanters-of-hymns-and-auspicious-songs(stotra+maṅgaka+vācakaiḥ)
 
 ## mukta-m0-p54-v1340
-[grains](dhāni) [around](paritaḥ) [place](sthāpayet) [golden-shrine](kāñcanālayam)
+***(?)dhāni all-around(paritaḥ) one-should-place(sthāpayet) golden-abode(kāñcana+ālayam)
 
 ## mukta-m0-p54-v1341
-[all-ornaments-accompanied](sarvālaṅkārasaṃyuktaḥ) [with-turban](soṣṇīṣaḥ) [with-upper-garment](sottarīyakaḥ)
+endowed-with-all-ornaments(sarva+alaṅkāra+saṃyuktaḥ) with-turban(sa+uṣṇīṣaḥ) with-upper-garment(sa+uttarīyakaḥ)
 
 ## mukta-m0-p54-v1342
-[from-Brahma-to-Ishana](brahmādīśānaparyantaṃ) [offering](baliṃ) [give](dadyādviśeṣataḥ)
+from-Brahmā-to-Īśāna(brahma+ādi+īśāna+paryantaṃ) offering(baliṃ) one-should-give(dadyāt) especially(viśeṣataḥ)
 
 ## mukta-m0-p54-v1343
-[with-parts](sakalaṃ) [without-parts](niṣkalaṃ) [and-indeed](caiva) [nyasa-worship](nyāsamārādhanaṃ) [in-order](kramāt)
+with-parts(sakalaṃ) without-parts(niṣkalaṃ) and(ca) indeed(eva) placement-and-worship(nyāsa+ārādhanaṃ) in-order(kramāt)
 
 ## mukta-m0-p54-v1344
-[with-incense-flowers](gandhapuṣpairathāhyarcya) [Rudra-form](rudrarūpaṃ) [indeed](tu) [hold](dhārayet)
+with-fragrances-and-flowers(gandha+puṣpaiḥ) then(atha) having-worshipped(āhyarcya) Rudra-form(rudra+rūpaṃ) indeed(tu) one-should-assume(dhārayet)
 
 ## mukta-m0-p54-v1345
-[go](vrajedutsavamante) [festival-end](tu) [all-ornaments-accompanied](sarvālaṅkārasaṃyutam)
+one-should-proceed(vrajet) at-festival-end(utsava+ante) indeed(tu) endowed-with-all-ornaments(sarva+alaṅkāra+saṃyutam)
 
 ## mukta-m0-p54-v1346
-[then](tadante) [elephant-mounted](gajamārūḍhāḥ) [then](tadante) [horse-riders](vājivāhanā)
+after-that(tad+ante) mounted-on-elephants(gaja+ārūḍhāḥ) after-that(tad+ante) with-horse-vehicles(vāji+vāhanā)
 
 ## mukta-m0-p54-v1347
-[horse-chariots](aśvayantrāḥ) [then](tadante) [indeed](tu) [then](tadante) [elephant-chariots](gajayantritāḥ)
+horse-mechanisms(aśva+yantrāḥ) after-that(tad+ante) indeed(tu) after-that(tad+ante) elephant-mechanisms(gaja+yantritāḥ)
 
 ## mukta-m0-p54-v1348
-[chariot-temples](yantradevālayā) [middle](madhye) [dance-song-accompanied](nṛttageyasamanvitāḥ)
+mechanical-temples(yantra+deva+ālayā) in-middle(madhye) accompanied-by-dance-and-song(nṛtta+geya+samanvitāḥ)
 
 ## mukta-m0-p54-v1349
-[third](tṛtīyastripuraghnaṃ) [indeed](tu) [fourth](caturthaścandraśekharaḥ)
+third(tṛtīyaḥ) slayer-of-Tripura(tripura+ghnaṃ) indeed(tu) fourth(caturthaḥ) moon-crested(candra+śekharaḥ)
 
 ## mukta-m0-p54-v1350
-[seventh](saptamobhaikṣamūrti) [be](syāt) [eighth](aṣṭamaḥ) [Kalanashana](kālanāśanaḥ)
+seventh(saptamaḥ) alms-form(bhaikṣa+mūrti) may-be(syāt) eighth(aṣṭamaḥ) destroyer-of-Time(kāla+nāśanaḥ)

@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p69-v1701
-[ant-hill](valmīke) [bull-horn-tip](vṛṣaśṛṅgāgre) [river](nadyāṃ) [or](vāpi) [herd](vrajena) [and](ca)
+[on-anthill](valmīke) [bull+horn+tip](vṛṣa+śṛṅgāgre) [in-river](nadyāṃ) [or+also](vā+api) [in-cow-pen](vrajena) [and](ca)
 
 ## mukta-m0-p69-v1702
-[each](pratyekaṃ) [in-pots-indeed](kalaśeṣveva) [with-count-up-to-seven](āsaptatriparisaṅkhyayā)
+[separately](pratyekaṃ) [in-pots+indeed](kalaśeṣu+eva) [up-to+seven+three+in-number](ā+sapta+tri+parisaṅkhyayā)
 
 ## mukta-m0-p69-v1703
-[forty](catvāriṃśat) [joined](samāyuktaṃ) [one-hundred](śatamekaṃ) [declared](prakīrtitam)
+[forty](catvāriṃśat) [combined-with](samāyuktaṃ) [hundred+one](śatam+ekam) [is-declared](prakīrtitam)
 
 ## mukta-m0-p69-v1704
-[mango](cūto) [banyan](vaṭaṃ) [and](ca) [jackfruit](panasaṃ) [nyagrodha-udumbara-and](nyagrodhodumbarastathā)
+[mango](cūto) [banyan](vaṭaṃ) [and](ca) [jackfruit](panasaṃ) [nyagrodha+udumbara+likewise](nyagrodha+udumbaraḥ+tathā)
 
 ## mukta-m0-p69-v1705
-[of-eight-trees](aṣṭavṛkṣasya) [powder](cūrṇaṃ) [indeed](tu) [place-with-water](vinyasedvāriṇā) [with](saha)
+[eight+trees-of](aṣṭa+vṛkṣasya) [powder](cūrṇam) [indeed](tu) [one-should-place+with-water](vinyaset+vāriṇā) [together](saha)
 
 ## mukta-m0-p69-v1706
-[as-many-count](yāvatsaṅkhyā) [those-become](bhavettāni) [bath](snānaṃ) [indeed](vai) [and-best-offering](cottamodakam)
+[as-much-as+number](yāvat+saṅkhyā) [may-be+those](bhavet+tāni) [bathing](snānaṃ) [indeed](vai) [supreme+water](ca+uttama+udakam)
 
 ## mukta-m0-p69-v1707
-[worship](arcayet) [previous-gems](pūrvaratnāni) [with-scent-flowers-etc](gandhapuṣpādibhiḥ) [in-order](kramāt)
+[one-should-worship](arcayet) [previous+jewels](pūrva+ratnāni) [with-fragrance+flowers+etc.](gandha+puṣpa+ādibhiḥ) [in-order](kramāt)
 
 ## mukta-m0-p69-v1708
-[arka-lotus-bilva](arkapaṅkajabilvaṃ) [and](ca) [nandyavarta](nandyāvartaṃ) [and](ca) [patali](pāṭalī)
+[arka](arka) [lotus](paṅkaja) [bilva](bilvaṃ) [and](ca) [nandyāvarta](nandyāvartaṃ) [and](ca) [pāṭalī](pāṭalī)
 
 ## mukta-m0-p69-v1709
-[in-pots](kalaśeṣu) [placing](vinikṣipya) [eight-plus](aṣṭottaraṃ) [from-seventy](saptataḥ)
+[in-pots](kalaśeṣu) [having-placed](vinikṣipya) [eight-more+hundred](aṣṭa+uttaraṃ) [seventy](saptataḥ)
 
 ## mukta-m0-p69-v1710
-[as-long](yāvat) [count](saṅkhyā) [those-become](bhavettāni) [attendance](upasthānaṃ) [perform](samācaret)
+[as-much-as](yāvat) [number](saṅkhyā) [may-be+those](bhavet+tāni) [approach-rite](upasthānaṃ) [one-should-perform](samācaret)
 
 ## mukta-m0-p69-v1711
-[one-by-one](ekaikaṃ) [pots](kalaśān) [all](sarvān) [with-new-cloth](navavastreṇa) [wrap](veṣṭayet)
+[each+one](eka+ekaṃ) [pots](kalaśān) [all](sarvān) [with-new+cloth](nava+vastreṇa) [one-should-wrap](veṣṭayet)
 
 ## mukta-m0-p69-v1712
-[ninefold](navavidhaṃ) [establish](saṃsthāpayet) [there](tatra) [seal](mudrāṃ) [arrange](prakalpayet)
+[nine-fold](nava+vidhaṃ) [one-should-establish](saṃsthāpayet) [there](tatra) [seal](mudrāṃ) [one-should-form](prakalpayet)
 
 ## mukta-m0-p69-v1713
-[thus](evaṃ) [ninefold](navavidhaṃ) [knowledge](jñānaṃ) [anointing](abhiṣekaṃ) [perform](samācaret)
+[thus](evaṃ) [nine-fold](nava+vidhaṃ) [knowledge](jñānaṃ) [consecration](abhiṣekaṃ) [one-should-perform](samācaret)
 
 ## mukta-m0-p69-v1714
-[in-pot](kumbhasthe) [southeast](dakṣiṇeśānaṃ) [place](sthāpayet) [indeed](tu) [threefold](tridhā) [become](bhavet)
+[in-pot-situated](kumbha+sthe) [south+īśāna](dakṣiṇa+īśānaṃ) [one-should-place](sthāpayet) [indeed](tu) [threefold](tridhā) [it-should-be](bhavet)
 
 ## mukta-m0-p69-v1715
-[then](punastatohiṃ) [womb-front](garbhāgre) [facing-north-standing](uttarābhimukhasthitaḥ)
+[again+from-that+indeed](punaḥ+tataḥ+hi) [in-front-of-womb-chamber](garbha+agre) [facing-north+situated](uttara+abhimukha+sthitaḥ)
 
 ## mukta-m0-p69-v1716
-[to-ganesha-mother-thus](gaṇāmbikāyeti) [by-mantra](mantreṇa) [growth](vardhanīṃ) [place-on-seat](pīṭhakenyaset)
+[with-gaṇāmbikā-mantra](gaṇāmbikā+iti+mantreṇa) [vardhanī-pot](vardhanīṃ) [on-pedestal+one-should-place](pīṭhake+nyaset)
 
 ## mukta-m0-p69-v1717
-[with-own-materials-according-to-rule-attendance](svāpyadravyairyathānyāyamupasthānaṃ) [likewise](tathaiva) [and](ca)
+[with-sleeping-substances+as+properly](svāpya+dravyaiḥ+yathā+nyāyam) [approach-rite](upasthānaṃ) [likewise+indeed](tathā+eva) [and](ca)
 
 ## mukta-m0-p69-v1718
-[pot](kalaśaṃ) [with-left-hand](vāmahastena) [substance](dravyaṃ) [indeed](tu) [right](dakṣiṇe) [hand](kare)
+[pot](kalaśaṃ) [with-left+hand](vāma+hastena) [substance](dravyaṃ) [indeed](tu) [in-right](dakṣiṇe) [hand](kare)
 
 ## mukta-m0-p69-v1719
-[from-pot-anointing](kalaśādabhiṣekaṃ) [and](ca) [separate](pṛthak) [flower](puṣpaṃ) [give](pradāpayet)
+[from-pot+consecration](kalaśāt+abhiṣekaṃ) [and](ca) [separately](pṛthak) [flower](puṣpaṃ) [one-should-offer](pradāpayet)
 
 ## mukta-m0-p69-v1720
-[as-before-worship-god](pūrvavaccārcayeddevaṃ) [pure-water-anointing](śuddhatoyābhiṣecanam)
+[as-before+and+one-should-worship+deity](pūrva+vat+ca+arcayet+devaṃ) [with-pure+water+sprinkling](śuddha+toya+abhiṣecanam)
 
 ## mukta-m0-p69-v1721
-[of-seeds](bījānāṃ) [if-obtainable](labhyalābhe) [indeed](tu) [collection-of-yavani](yavanīvārasaṅgraham)
+[of-seeds](bījānāṃ) [in-obtaining+non-obtaining](labhya+alābhe) [indeed](tu) [barley+wild-rice+collection](yava+nīvāra+saṅgraham)
 
 ## mukta-m0-p69-v1722
-[if-gems-unobtainable](ratnānāmapyalābhe) [indeed](tu) [pearl](mauktikaṃ) [should-take-indeed](grāhyameva) [and](ca)
+[of-jewels+also+in-non-obtaining](ratnānām+api+alābhe) [indeed](tu) [pearl](mauktikaṃ) [to-be-taken+indeed](grāhyam+eva) [and](ca)
 
 ## mukta-m0-p69-v1723
-[if-three-unobtainable](triṇānāmapyalābhe) [indeed](tu) [darbha-root](darbhamūlaṃ) [take](parigrahet)
+[of-grasses+also](tṛṇānām+api) [in-non-obtaining](alābhe) [indeed](tu) [darbha+root](darbha+mūlaṃ) [one-should-take](parigrahet)
 
 ## mukta-m0-p69-v1724
-[if-flowers-unobtainable](puṣpāṇāmapyalābhe) [indeed](tu) [mountain-flower](giripuṣpaṃ) [indeed](tu) [collect](saṅgrahet)
+[of-flowers+also+in-non-obtaining](puṣpāṇām+api+alābhe) [indeed](tu) [mountain+flower](giri+puṣpaṃ) [indeed](tu) [one-should-collect](saṅgrahet)
 
 ## mukta-m0-p69-v1725
-[he-proceeds](sa) [always](nityaṃ) [in-shiva-world](śivaloke) [is-honored](mahīyate)
+[he](sa) [śiva+krama+by](ṣiva+krama+te) [always](nityaṃ) [in-śiva+world](śiva+loke) [is-honored](mahīyate)

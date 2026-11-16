@@ -2,52 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p50-v1226
-seven-part then having-made ... should-arrange
+seven-part(saptabhāgaṃ) then(tataḥ) having-made(kṛtvā) * * * * *(*) one-should-arrange(kalpayet)
+
 ## mukta-m0-p50-v1227
-middle hand-span and lower six-hand-span
+middle(madhyamaṃ) seven-cubit(sapta+hastaṃ) and(ca) half(tvadhaṃ) six-cubit(ṣaḍ+ahastakam)
+
 ## mukta-m0-p50-v1228
-five-measure excellent ...
+five-palm-measure-best(pañca+tāla+uttama) * * * * * * * * * *(*)
+
 ## mukta-m0-p50-v1229
-triangular elongated having-made tail-two-equal
+triangle-shape(trikoṇa+m) elongated(āyataṃ) having-made(kṛtvā) equal-to-two-tails(puccha+dvaya+sama**(?))
+
 ## mukta-m0-p50-v1230
-tail and width-half or two-tail or three-tail
+tail(pucchaṃ) and(ca) half-of-width(vistāra+ardhaṃ) or(vā) two-tailed(dvi+pucchaṃ) or(vā) three-tailed(tri+pucchakam)
+
 ## mukta-m0-p50-v1231
-bull's north part cow-dung-smeared auspicious
+of-bull(vṛṣabhasya) in-northern(uttare) part(bhāge) smeared-with-cow-dung(gomaya+ālepite) auspicious(śubhe)
+
 ## mukta-m0-p50-v1232
-on-it foot-placing should-draw bull-etc
+upon-that(tasya+upari) having-placed-foot(pada+nyasya) one-should-draw(vilikhet) bull-etc.(vṛṣabha+ādikam)
+
 ## mukta-m0-p50-v1233
-umbrella two-lamps and indeed sides fly-whisks thus
+parasol(chatraṃ) pair-of-lamps(dīpa+dvayaṃ) and(ca+eva) on-both-sides(pārśvayoḥ) chowries(cāmare) likewise(tathā)
+
 ## mukta-m0-p50-v1234
-white bull-form indeed horns red proclaimed
+white(śvetaṃ) bull-form(vṛṣabha+rūpaṃ) but(tu) on-horns(śṛṅge) red(rakte) is-declared(prakīrtitam)
+
 ## mukta-m0-p50-v1235
-black or perfumed or auspicious should-draw bull
+black(asitaṃ) or(vā) dark(asitaṃ) or(vā+api) auspicious(śubham) one-should-draw(ālekhayet) bull(vṛṣam)
+
 ## mukta-m0-p50-v1236
-nine-banner endowed Indra-peak elephant-form
+endowed-with-nine-flags(nava+dhvaja+samāyuktaṃ) having-form-of-Indra's-peak-elephant(aindra+kūṭa+gaja+ākṛtiḥ)
+
 ## mukta-m0-p50-v1237
-lion southwest-region indeed crocodile water-region thus
+lion(siṃhaṃ) in-southwest-direction(naiṛta+deśe) but(tu) crocodile(makaraṃ) in-west(vāruṇe) likewise(tathā)
+
 ## mukta-m0-p50-v1238
-northeast bull and indeed this right-side
+in-northeast(aiśānyāṃ) bull(vṛṣabhaṃ) and(ca+eva) this(etat) on-southern-side(dakṣiṇa+pārśvake)
+
 ## mukta-m0-p50-v1239
-especially five-cow-products root-deity-worship auspicious
+especially(viśeṣāt) with-five-products-of-cow(pañca+gavyena) worship-of-root-deity(mūla+deva+arcanaṃ) auspicious(śubham)
+
 ## mukta-m0-p50-v1240
-according-to-means-extent should-worship teacher-best
+according-to-extent-of-resources(yathā+vibhava+vistāraṃ) should-worship(arcayet) best-teacher(deśika+uttamaḥ)
+
 ## mukta-m0-p50-v1241
-two-hand's indeed width rice-grains four-finger
+of-two-cubits(dvi+hastasya) but(tu) width(vistāraṃ) with-rice-grains(śālibhiḥ) four-fingers(catur+aṅgulam)
+
 ## mukta-m0-p50-v1242
-with-adaka sesame after square-etc should-draw
+with-unhusked-grain(adakena) with-sesame(tilaiḥ) then(paścāt) square-etc.(catuṣkoṇa+ādi) one-should-draw(lekhayet)
+
 ## mukta-m0-p50-v1243
-on-kusha should-place pot color silver copper
+upon-kuśa-grass(kūrca+upari) one-should-place(nyaset) pot(kumbhaṃ) colored(varṇaṃ) silver(rājata) copper(tāmrakam)
+
 ## mukta-m0-p50-v1244
-golden or silver cotton prescribed or
+with-gold(sauvarṇena) or(atha) with-silver(raupyeṇa) or(vā) made-of-cotton(kārpāsa+vihitena)
+
 ## mukta-m0-p50-v1245
-scented-water filled five-gems accompanied
+filled-with-fragrant-water(gandha+udakena+saṃpūrṇaṃ) endowed-with-five-gems(pañca+ratna+samanvitam)
+
 ## mukta-m0-p50-v1246
-these five-gems bull-pot should-insert
+these(etāni) five-gems(pañca+ratnāni) in-bull-pot(vṛṣa+kumbhe) one-should-place(vinikṣipet)
+
 ## mukta-m0-p50-v1247
-with-cloth having-wrapped and scent flower should-offer
+with-cloth(vastreṇa) having-wrapped(veṣṭayitvā) and(ca) fragrance(gandhaṃ) flower(puṣpaṃ) one-should-offer(pradāpayet)
+
 ## mukta-m0-p50-v1248
-banner right placing banner-staff thus north
+flag(dhvajaṃ) to-the-south(dakṣiṇataḥ) having-placed(nyasya) flag-staff(dhvaja+yaṣṭi) likewise(tathā) to-the-north(uttaram)
+
 ## mukta-m0-p50-v1249
-slowly clockwise having-made temple indeed should-resort
+slowly(śanaiḥ) having-circumambulated(pradakṣiṇaṃ+kṛtvā) temple(ālayaṃ) but(tu) one-should-approach(samāśrayet)
+
 ## mukta-m0-p50-v1250
-banner-place-order will-speak listen-thus O-Maheshvara
+procedure-of-flag-place(dhvaja+sthāna+kramaṃ) I-shall-tell(vakṣye) listen(śṛṇuṣva) thus(evaṃ) O-Maheśvara(maheśvara)
