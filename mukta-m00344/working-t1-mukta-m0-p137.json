@@ -8,14 +8,18 @@
 "tokens": [
 {
 "surface": "saṃsāreti",
-"quick_gloss": "ferries-across"
+"quick_gloss": "causes-to-wander"
 },
 {
-"surface": "taraṇiḥ+naukā",
-"quick_gloss": "sun-as-boat"
+"surface": "taraṇir",
+"quick_gloss": "sun"
 },
 {
-"surface": "sūryaḥ",
+"surface": "naukā",
+"quick_gloss": "boat"
+},
+{
+"surface": "sūryo",
 "quick_gloss": "sun"
 },
 {
@@ -32,11 +36,19 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "avidyā+jāla+vibhrānteḥ",
-"quick_gloss": "from-delusion-of-net-of-ignorance"
+"surface": "avidyā",
+"quick_gloss": "ignorance"
 },
 {
-"surface": "mukta+prāyaḥ",
+"surface": "jāla",
+"quick_gloss": "net"
+},
+{
+"surface": "vibhrānter",
+"quick_gloss": "from-delusion"
+},
+{
+"surface": "muktaprāyo",
 "quick_gloss": "almost-liberated"
 },
 {
@@ -57,15 +69,15 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "vidyamānatvāt",
-"quick_gloss": "because-of-existing"
+"surface": "vidyamānatvād",
+"quick_gloss": "because-of-being-present"
 },
 {
 "surface": "āha",
 "quick_gloss": "says"
 },
 {
-"surface": "mukta+prāyaḥ",
+"surface": "muktaprāya",
 "quick_gloss": "almost-liberated"
 },
 {
@@ -83,15 +95,27 @@
 "tokens": [
 {
 "surface": "bhagavan",
-"quick_gloss": "o-lord"
+"quick_gloss": "O-lord"
 },
 {
 "surface": "brūhi",
 "quick_gloss": "tell"
 },
 {
-"surface": "vijñāna+sādhanam",
-"quick_gloss": "means-of-knowledge"
+"surface": "vijñāna",
+"quick_gloss": "knowledge"
+},
+{
+"surface": "sādhanaṃ",
+"quick_gloss": "means"
+},
+{
+"surface": " [kh:",
+"quick_gloss": "kh:"
+},
+{
+"surface": "vijñānaṃ] ",
+"quick_gloss": "vijñānaṃ"
 },
 {
 "surface": "suviniścitam",
@@ -115,11 +139,11 @@
 "quick_gloss": "asked"
 },
 {
-"surface": "—",
+"surface": "saḥ",
 "quick_gloss": "he"
 },
 {
-"surface": "—",
+"surface": "tadā",
 "quick_gloss": "then"
 }
 ]
@@ -132,11 +156,11 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "jñāninām",
+"surface": "jñānināṃ",
 "quick_gloss": "of-the-knowers"
 },
 {
-"surface": "lakṣaṇam",
+"surface": "lakṣaṇaṃ",
 "quick_gloss": "characteristic"
 },
 {
@@ -173,12 +197,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "vyavahāram",
-"quick_gloss": "conducting-worldly-affairs"
+"surface": "kurvatāṃ",
+"quick_gloss": "conducting"
 },
 {
-"surface": "kurvatām",
-"quick_gloss": "while-doing"
+"surface": "vyavahāraṃ",
+"quick_gloss": "worldly-activity"
 },
 {
 "surface": "ca",
@@ -189,7 +213,7 @@
 "quick_gloss": "also"
 },
 {
-"surface": "anāsaktam",
+"surface": "anāsaktaṃ",
 "quick_gloss": "unattached"
 },
 {
@@ -210,20 +234,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "anāsaktam",
+"surface": "anāsaktaṃ",
 "quick_gloss": "unattached"
 },
 {
-"surface": "vāsanā+rahitam",
-"quick_gloss": "devoid-of-latent-impressions"
+"surface": "rahitam",
+"quick_gloss": "devoid-of"
 },
 {
-"surface": "—",
-"quick_gloss": "thus"
-},
-{
-"surface": "—",
-"quick_gloss": "explained"
+"surface": "vāsanā",
+"quick_gloss": "latent-impressions"
 }
 ]
 },
@@ -239,16 +259,16 @@
 "quick_gloss": "thus"
 },
 {
-"surface": "atri+sutaḥ",
-"quick_gloss": "son-of-atri"
+"surface": "atrisutaḥ",
+"quick_gloss": "son-of-Atri"
 },
 {
-"surface": "pṛṣṭaḥ",
+"surface": "pṛṣṭo",
 "quick_gloss": "asked"
 },
 {
-"surface": "jamadagni+sutena",
-"quick_gloss": "by-son-of-jamadagni"
+"surface": "jamadagnisutena",
+"quick_gloss": "by-son-of-Jamadagni"
 },
 {
 "surface": "vai",
@@ -268,16 +288,16 @@
 "quick_gloss": "this"
 },
 {
-"surface": "sarvam",
+"surface": "sarvaṃ",
 "quick_gloss": "all"
 },
 {
-"surface": "sādhana+ādikam",
-"quick_gloss": "means-and-so-forth"
+"surface": "sādhana",
+"quick_gloss": "means"
 },
 {
-"surface": "—",
-"quick_gloss": "thus"
+"surface": "ādikam",
+"quick_gloss": "and-so-forth"
 }
 ]
 },
@@ -294,19 +314,23 @@
 },
 {
 "surface": "rāma",
-"quick_gloss": "o-rama"
+"quick_gloss": "O-Rama"
 },
 {
 "surface": "pravakṣyāmi",
 "quick_gloss": "I-shall-declare"
 },
 {
-"surface": "rahasyam",
+"surface": "rahasyaṃ",
 "quick_gloss": "secret"
 },
 {
-"surface": "jñāna+sādhanam",
-"quick_gloss": "means-of-knowledge"
+"surface": "jñāna",
+"quick_gloss": "knowledge"
+},
+{
+"surface": "sādhanam",
+"quick_gloss": "means"
 }
 ]
 },
@@ -318,11 +342,15 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "samyak+praśnena",
-"quick_gloss": "by-proper-question"
+"surface": "samyak",
+"quick_gloss": "by-proper"
 },
 {
-"surface": "bhakti+yuktena",
+"surface": "praśnena",
+"quick_gloss": "question"
+},
+{
+"surface": "bhaktiyuktena",
 "quick_gloss": "endowed-with-devotion"
 },
 {
@@ -330,12 +358,16 @@
 "quick_gloss": "satisfied"
 },
 {
-"surface": "rahasyam",
+"surface": "rahasyaṃ",
 "quick_gloss": "secret"
 },
 {
-"surface": "śāstreṣu+aprasiddham",
-"quick_gloss": "not-renowned-in-scriptures"
+"surface": "śāstreṣu",
+"quick_gloss": "in-scriptures"
+},
+{
+"surface": "aprasiddham",
+"quick_gloss": "not-well-known"
 }
 ]
 },
@@ -351,16 +383,24 @@
 "quick_gloss": "who"
 },
 {
-"surface": "sarva+bhāvataḥ",
-"quick_gloss": "with-whole-being"
+"surface": "sarva",
+"quick_gloss": "with-all"
 },
 {
-"surface": "sva+ātma+devatām",
-"quick_gloss": "deity-of-own-self"
+"surface": "bhāvataḥ",
+"quick_gloss": "disposition"
+},
+{
+"surface": "svātma",
+"quick_gloss": "own-self"
+},
+{
+"surface": "devatām",
+"quick_gloss": "deity"
 },
 {
 "surface": "upasaṅgataḥ",
-"quick_gloss": "has-approached"
+"quick_gloss": "approached"
 }
 ]
 },
@@ -372,20 +412,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "sva+ātma+devatām",
-"quick_gloss": "deity-of-own-self"
+"surface": "svātma",
+"quick_gloss": "own-self"
 },
 {
-"surface": "sva+antaryāmitayā",
+"surface": "devatāṃ",
+"quick_gloss": "deity"
+},
+{
+"surface": "svāntaryāmitayā",
 "quick_gloss": "as-inner-controller"
 },
 {
 "surface": "sthitām",
 "quick_gloss": "situated"
-},
-{
-"surface": "—",
-"quick_gloss": "thus"
 }
 ]
 },
@@ -401,24 +441,24 @@
 "quick_gloss": "this"
 },
 {
-"surface": "sarva+uttamam",
+"surface": "sarvottamaṃ",
 "quick_gloss": "supreme-of-all"
 },
 {
 "surface": "rāma",
-"quick_gloss": "o-rama"
+"quick_gloss": "O-Rama"
 },
 {
-"surface": "proktam",
+"surface": "proktaṃ",
 "quick_gloss": "declared"
-},
-{
-"surface": "sādhanam",
-"quick_gloss": "means"
 },
 {
 "surface": "jñānasya",
 "quick_gloss": "of-knowledge"
+},
+{
+"surface": "sādhanam",
+"quick_gloss": "means"
 }
 ]
 },
@@ -434,24 +474,24 @@
 "quick_gloss": "of-him"
 },
 {
-"surface": "prokta+devatā+tatparasya",
-"quick_gloss": "devoted-to-stated-deity"
+"surface": "proktadevatātatparasya",
+"quick_gloss": "intent-on-the-declared-deity"
 },
 {
 "surface": "etat",
 "quick_gloss": "this"
 },
 {
-"surface": "devatā+tatparatvam",
-"quick_gloss": "devotion-to-deity"
+"surface": "devatātatparatvam",
+"quick_gloss": "intentness-on-deity"
 },
 {
-"surface": "rahasya+śāstreṣu",
-"quick_gloss": "declared-in-secret-scriptures"
+"surface": "rahasyaśāstreṣu",
+"quick_gloss": "in-secret-scriptures"
 },
 {
 "surface": "proktam",
-"quick_gloss": "proclaimed"
+"quick_gloss": "declared"
 }
 ]
 },
@@ -463,11 +503,15 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "etat+vihāya",
-"quick_gloss": "abandoning-this"
+"surface": "etat",
+"quick_gloss": "this"
 },
 {
-"surface": "anyat",
+"surface": "vihāya",
+"quick_gloss": "having-abandoned"
+},
+{
+"surface": "anyad",
 "quick_gloss": "other"
 },
 {
@@ -483,8 +527,12 @@
 "quick_gloss": "properly"
 },
 {
-"surface": "phala+dam",
-"quick_gloss": "fruit-giving"
+"surface": "phala",
+"quick_gloss": "fruit"
+},
+{
+"surface": "daṃ",
+"quick_gloss": "giving"
 },
 {
 "surface": "bhavet",
@@ -500,7 +548,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "jñānam",
+"surface": "jñānaṃ",
 "quick_gloss": "knowledge"
 },
 {
@@ -529,12 +577,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "vijñānam",
-"quick_gloss": "knowledge"
+"surface": "vijñānaṃ",
+"quick_gloss": "direct-knowledge"
 },
 {
-"surface": "kevalā+citiḥ",
-"quick_gloss": "pure-consciousness"
+"surface": "kevala",
+"quick_gloss": "pure"
+},
+{
+"surface": "citir",
+"quick_gloss": "consciousness"
 },
 {
 "surface": "yā",
@@ -545,7 +597,7 @@
 "quick_gloss": "of-all"
 },
 {
-"surface": "avabhāsikā",
+"surface": "āvabhāsikā",
 "quick_gloss": "illuminating"
 }
 ]
@@ -558,15 +610,15 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "phala+bhūtam",
-"quick_gloss": "resulting-knowledge"
+"surface": "phalabhūtaṃ",
+"quick_gloss": "being-the-fruit"
 },
 {
 "surface": "vijñānam",
-"quick_gloss": "knowledge"
+"quick_gloss": "direct-knowledge"
 },
 {
-"surface": "sarva+avabhāsikā",
+"surface": "sarvāvabhāsikā",
 "quick_gloss": "illuminating-all"
 },
 {
@@ -595,12 +647,16 @@
 "quick_gloss": "by-inquiry"
 },
 {
-"surface": "tat+apohena",
-"quick_gloss": "by-negation-of-that"
+"surface": "tadapohena",
+"quick_gloss": "by-removal-of-that"
 },
 {
-"surface": "tat+svarūpa+upalakṣaṇam",
-"quick_gloss": "recognition-of-its-own-nature"
+"surface": "tatsvarūpa",
+"quick_gloss": "of-its-own-nature"
+},
+{
+"surface": "upalakṣaṇam",
+"quick_gloss": "indication"
 }
 ]
 },
@@ -616,11 +672,11 @@
 "quick_gloss": "of-own-nature"
 },
 {
-"surface": "upalakṣaṇam",
-"quick_gloss": "recognition"
+"surface": "upalakṣaṇaṃ",
+"quick_gloss": "indication"
 },
 {
-"surface": "saḥ+aham",
+"surface": "so'ham",
 "quick_gloss": "I-am-that"
 },
 {
@@ -628,7 +684,7 @@
 "quick_gloss": "thus"
 },
 {
-"surface": "pratyabhijñānam",
+"surface": "pratyabhijñānaṃ",
 "quick_gloss": "recognition"
 },
 {
@@ -649,12 +705,16 @@
 "quick_gloss": "of-devotees"
 },
 {
-"surface": "anya+paratā+hānena",
-"quick_gloss": "by-abandoning-devotion-to-others"
+"surface": "anyaparatā",
+"quick_gloss": "devotion-to-other"
 },
 {
-"surface": "tat+paratvataḥ",
-"quick_gloss": "by-devotion-to-that"
+"surface": "hānena",
+"quick_gloss": "by-abandonment"
+},
+{
+"surface": "tatparatvataḥ",
+"quick_gloss": "by-intentness-on-that"
 }
 ]
 },
@@ -666,11 +726,11 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "devatā+parāṇām",
-"quick_gloss": "for-those-devoted-to-deity"
+"surface": "devatāparāṇāṃ",
+"quick_gloss": "intent-on-deity"
 },
 {
-"surface": "katham",
+"surface": "kathaṃ",
 "quick_gloss": "how"
 },
 {
@@ -682,7 +742,7 @@
 "quick_gloss": "thus"
 },
 {
-"surface": "cet",
+"surface": "ced",
 "quick_gloss": "if"
 },
 {
@@ -707,11 +767,11 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "devatā+tatparaḥ",
-"quick_gloss": "devoted-to-deity"
+"surface": "devatātatparas",
+"quick_gloss": "intent-on-deity"
 },
 {
-"surface": "evam",
+"surface": "tvevaṃ",
 "quick_gloss": "thus"
 },
 {
@@ -719,8 +779,16 @@
 "quick_gloss": "having-become"
 },
 {
-"surface": "svalpa+anya+sādhanaḥ",
-"quick_gloss": "with-very-few-other-means"
+"surface": "svalpa",
+"quick_gloss": "having-little"
+},
+{
+"surface": "anya",
+"quick_gloss": "other"
+},
+{
+"surface": "sādhanaḥ",
+"quick_gloss": "means"
 }
 ]
 }
