@@ -2,52 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p13-v301
-[of-beasts](paśūnāṃ) [and-indeed](caiva) [of-all](sarveṣām) [first-creator](ādikartā) [prajāpati](prajāpatiḥ)
+[of-animals](paśūnāṃ) [and-indeed](ca+eva) [of-all](sarveṣām) [first-maker](ādi+kartā) [prajāpati](prajāpatiḥ)
+
 ## mukta-m0-p13-v302
-[in-vedic-sacrifices](vedayajñeṣu) [beasts](paśavo) [harm](hiṃsanti) [best-brahmins](brāhmaṇottamāḥ)
+[in-veda-sacrifices](veda+yajñeṣu) [animals](paśavo) [they-kill](hiṃsanti) [best-of-brahmins](brāhmaṇa+uttamāḥ)
+
 ## mukta-m0-p13-v303
-[subtle-eightfold-city](sūkṣmapuryaṣṭakaṃ) [and-which](yacca) [of-beings](bhūtānāṃ) [in-heart](hṛdi) [situated](saṃsthitam)
+[subtle-body-of-eight](sūkṣma+puryaṣṭakaṃ) [and-which](yat+ca) [of-beings](bhūtānāṃ) [in-heart](hṛdi) [situated](saṃsthitam)
+
 ## mukta-m0-p13-v304
-[in-prāṇa-apāna-rising](prāṇāpānodaye) [in-that](tasmin) [bindu-nāda](bindunāda) [dissolution](layaṃ) [gone](gatāḥ)
+[in-prāṇa-apāna-rising](prāṇa+apāna+udaye) [in-that](tasmin) [bindu-nāda](bindu+nāda) [dissolution-gone](layaṃ+gatāḥ)
+
 ## mukta-m0-p13-v305
-[path-this](gatireṣā) [indeed](hi) [and-of-these](caiteṣāṃ) [then-self](tadātmetaṃ) [attain](labhanti) [indeed](hi)
+[going-this](gatiḥ+eṣā) [indeed](hi) [and-of-these](ca+eteṣāṃ) [that-self](tad+ātma+itam) [they-attain](labhanti) [indeed](hi)
+
 ## mukta-m0-p13-v306
-[by-prāṇa-apāna-flow](prāṇāpānapravāhena) [not](na) [knowing](viditvā) [drink](pibanti) [indeed](hi)
+[by-prāṇa-apāna-flow](prāṇa+apāna+pravāhena) [not](na) [having-known](viditvā) [they-drink](pibanti) [indeed](hi)
+
 ## mukta-m0-p13-v307
-* * * * * * * * * * [edible-things](bhakṣyāni) [which](kāni) [but](tu)
+[unknown](*) [unknown](*) [unknown](*) [unknown](*) [unknown](*) [unknown](*) [unknown](*) [unknown](*) [unknown](*) [unknown](*) [to-be-eaten](bhakṣyāni) [what](kāni) [but](tu)
+
 ## mukta-m0-p13-v308
-[by-bhairava-spoken](bhairavoktena) [by-rite](vidhinā) [properly](samyag) [yoga](yoga) [by-strength](balena) [but](tu)
+[by-bhairava-taught](bhairava+uktena) [by-rule](vidhinā) [rightly](samyak) [yoga-by-power](yoga+balena) [but](tu)
+
 ## mukta-m0-p13-v309
-[he](sa) [perfected](siddhaḥ) [practitioner](sādhakaḥ) [so-indeed](sohi) [rest](śeṣā) [indeed](vai) [middle](madhyamāḥ) [remembered](smṛtāḥ)
+[he](sa) [siddha](siddhaḥ) [sādhaka](sādhakaḥ) [he-indeed](saḥ+hi) [rest](śeṣā) [indeed](vai) [middling](madhyamāḥ) [remembered](smṛtāḥ)
+
 ## mukta-m0-p13-v310
-[milk](kṣīraṃ) [but](tu) [makes](kurute) [middle](madhyaṃ) [in-doubt](saṃśaye) [arisen](samupasthite)
+[milk](kṣīraṃ) [but](tu) [makes](kurute) [middle](madhyaṃ) [doubt](saṃśaye) [having-arisen](samupasthite)
+
 ## mukta-m0-p13-v311
-[between-prāṇa-apāna](prāṇāpānāntara) [moving](caro) [nāḍī](nāḍi) [threefold](tritaya) [going](yāyinaḥ)
+[prāṇa-apāna-between-moving](prāṇa+apāna+antara+caraḥ) [in-nāḍi-triple](nāḍi+tritaya) [going](yāyinaḥ)
+
 ## mukta-m0-p13-v312
-[solar-path](sauraṃmārgaṃ) [abandoning](parityajya) [lunar](cāndraṃ) [path](mārgaṃ) [likewise](tathaiva) [and](ca)
+[solar-path](sauraṃ+mārgaṃ) [having-abandoned](parityajya) [lunar-path](cāndraṃ+mārgaṃ) [thus-indeed](tathā+eva) [and](ca)
+
 ## mukta-m0-p13-v313
-[by-which](yena) [known](vijñāta) [merely](mātreṇa) [delusion](bhrānti) [knowledge](jñānaṃ) [ceases](nivartate)
+[by-which](yena) [by-knowing-just](vijñāta+mātreṇa) [delusion-knowledge](bhrānti+jñānaṃ) [ceases](nivartate)
+
 ## mukta-m0-p13-v314
-[what](yat) [by-you](tvayā) [asked](coditaṃ) [question](praśnaṃ) [doubtless](nissandigdhaṃ) [I-speak](vadāmyaham)
+[which](yat) [by-you](tvayā) [asked](coditaṃ) [question](praśnaṃ) [without-doubt](nissandigdhaṃ) [I-say](vadāmi) [I](aham)
+
 ## mukta-m0-p13-v315
-[situated](saṃsthitā) [in-all-beings](sarvabhūteṣu) [world-support](jagadurddhraṃ) [by-whom](yayā) [all](akhilam)
+[situated](saṃsthitā) [in-all-beings](sarva+bhūteṣu) [jagadurddhraṃ?](jagadurddhraṃ?) [by-which](yayā) [all](akhilam)
+
 ## mukta-m0-p13-v316
-[swallows](grasate) [creates](sṛjate) [power](śaktiḥ) [śiva's-command](śivājñā) [made-known](jñāpitā) [guha](guha)
+[swallows](grasate) [creates](sṛjate) [śakti](śaktiḥ) [śiva-command](śiva+ājñā) [made-known](jñāpitā) [O-Guha](guha)
+
 ## mukta-m0-p13-v317
-[we](vayaṃ) [grandfather](pitāmahaṃ) [viṣṇu](viṣṇuṃ) [not](na) [bindu-fire](bīndvanalam) [indeed](eva) [and](ca)
+[we](vayam) [prajāpati](pitāmahaṃ) [viṣṇu](viṣṇuṃ) [not](na) [bindu-fire-indeed](bīndu+anala+m+eva) [and](ca)
+
 ## mukta-m0-p13-v318
-[again](bhūyo) [again](bhūyo) [indeed](hi) [are-born](jāyante) [again](bhūyo) [again](bhūyo) [die](mriyanti) [and](ca)
+[again-again](bhūyaḥ+bhūyaḥ) [indeed](hi) [they-are-born](jāyante) [again-again](bhūyaḥ+bhūyaḥ) [they-die](mriyanti) [and](ca)
+
 ## mukta-m0-p13-v319
-[power](śaktiḥ) [not](na) [destroyed](lupyate) [she](sā) [indeed](vai) [supreme-nondual](paramādvaita) [abiding](vartinī)
+[śakti](śaktiḥ) [not](na) [is-lost](lupyate) [she](sā) [indeed](vai) [supreme-nonduality](parama+advaita) [abiding](vartinī)
+
 ## mukta-m0-p13-v320
-[by-whom](yayā) [pervaded](vyāptam) [this](idaṃ) [universe](viśvaṃ) [beings-creation](bhūtasargaṃ) [moving-nonmoving](carācaram)
+[by-which](yayā) [pervaded](avyāptam) [this](idam) [universe](viśvaṃ) [being-creation](bhūta+sargaṃ) [moving-immoving](cara+acaram)
+
 ## mukta-m0-p13-v321
-[one-by-one](ekaikaṃ) [gem](maṇim) [resorting](āśritya) [as](yathā) [pierce](viddhyanti) [piercers](vedhakāḥ)
+[one-by-one](eka+ekam) [gem](maṇim) [having-taken-support](āśritya) [as](yathā) [pierce](viddhyanti) [piercers](vedhakāḥ)
+
 ## mukta-m0-p13-v322
-[thread](sūtraṃ) [of-them](tāsāṃ) [śiva](śivaṃ) [directly](sākṣāt) [by-that](tena) [they](te) [strung](grathitā) [guha](guha)
+[thread](sūtraṃ) [of-them](tāsāṃ) [śiva](śivam) [directly](sākṣāt) [by-that](tena) [they](te) [strung](grathitā) [O-Guha](guha)
+
 ## mukta-m0-p13-v323
-[great-elements](mahābhūtāni) [all](sarvāṇi) [all](sarve) [consciousness-power](cicchakti) [born](sambhavāḥ)
+[great-elements](mahā+bhūtāni) [all](sarvāṇi) [all](sarve) [consciousness-śakti](cit+śakti) [origin](sambhavāḥ)
+
 ## mukta-m0-p13-v324
-[not](na) [indeed](hi) [know](jānanti) [her](tāṃ) [fools](mūḍhā) [great-māyā](mahāmāyā) [deluded](vimohitāḥ)
+[not](na) [indeed](hi) [they-know](jānanti) [her](tām) [fools](mūḍhāḥ) [by-great-māyā](mahā+māyā) [deluded](vimohitāḥ)
+
 ## mukta-m0-p13-v325
-[situated](sthitā) [she](sā) [fire](agni) [in-form](rūpeṇa) [everywhere](sarvatra) [wind-supported](vāyunāśritā)
+[situated](sthitā) [she](sā) [fire-form](agni+rūpeṇa) [everywhere](sarvatra) [by-wind-supported](vāyunā+āśritā)
