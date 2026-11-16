@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p72-v1776
-[earth](kṣitirjalaṃ) [water](jalaṃ) [and](tathā) [fire](tejo) [air](vāyurākāśa) [space](ākāśa) [indeed](eva) [and](ca)
+[earth](kṣitiḥ) [water](jalaṃ) [likewise](tathā) [fire](tejaḥ) [wind](vāyuḥ) [space](ākāśaḥ) [indeed](eva) [and](ca)
 
 ## mukta-m0-p72-v1777
-[hearing](śravaṇaṃ) [seeing](darśanaṃ) [smelling](ghrāṇaṃ) [touching](sparśanaṃ) [tasting](rasa) [knowing](bodhanam)
+[hearing](śravaṇaṃ) [seeing](darśanaṃ) [smelling](ghrāṇaṃ) [touching](sparśanaṃ) [taste](rasa) [cognition](bodhanam)
 
 ## mukta-m0-p72-v1778
-[twenty-four](caturviṃśati) [principles](tattvāni) [power](śaktiratra) [separate](pṛthak) [separate](pṛthak)
+[twenty-four](caturviṃśati) [principles](tattvāni) [power](śaktiḥ) [here](atra) [separately](pṛthak) [separately](pṛthak)
 
 ## mukta-m0-p72-v1779
-[now](adhunā) [to-hear](śrotumicchāmi) [i-desire](icchāmi) [that-that](tattat) [power-description](śaktyanukīrttanam)
+[now](adhunā) [to-hear](śrotum) [I-desire](icchāmi) [of-each-of-those](tat+tat) [power+description](śakti+anukīrttanam)
 
 ## mukta-m0-p72-v1780
-[to-speak](gadituṃ) [not](naiva) [able](śaknomi) [i](aham) [even-at-end-of-universe](brahmāṇḍānte) [o-parvati](pārvati)
+[to-tell](gadituṃ) [not](na) [indeed](eva) [I-am-able](śaknomi) [even-at-the-end-of-the-universe](brahmāṇḍa+ante) [even](api) [O-Pārvatī](pārvati)
 
 ## mukta-m0-p72-v1781
-[among-them](tāsāṃ) [best](śreṣṭha) [form](rūpā) [fourteen](caturddaśa) [supreme](parātmikā)
+[of-them](tāsāṃ) [in-the-midst](madhye) [supreme](śreṣṭha) [form](rūpā) [fourteen](caturddaśa) [of-supreme-nature](parātmikā)
 
 ## mukta-m0-p72-v1782
-[power](śaktiruktā) [spoken](uktā) [o-great-lady](maheśvari)
+[power](śaktiḥ) [declared](uktā) [O-great-goddess](maheśvari)
 
 ## mukta-m0-p72-v1783
-[threefold](tridhaikoktā) [one-self](ekātmā) [action-natured](kriyātmikā)
+[threefold+one](tridhā+eka) [declared](uktā) [of-the-nature-of-action](kriyātmikā)
 
 ## mukta-m0-p72-v1784
-[without-ego-alone](vināhaṅkāramātreṇa) [a-little](kiñcinmātraṃ) [not](na) [is-born](jāyate)
+[without](vinā) [mere-ego-sense](ahaṅkāra+mātreṇa) [anything](kiñcin+mātraṃ) [not](na) [is-born](jāyate)
 
 ## mukta-m0-p72-v1785
-[ego](ahaṅkārasya) [stainlessness](nirlepādahaṃ) [i](aham) [brahman](brahma) [thus](iti) [is-spoken](bhāṣyate)
+[of-ego-sense](ahaṅkārasya) [from-the-unstained-state](nirlepāt) [I](ahaṃ) [Brahman](brahma) [thus](iti) [it-is-said](bhāṣyate)
 
 ## mukta-m0-p72-v1786
-[as](yathā)
+[just-as](yathā)
 
 ## mukta-m0-p72-v1787
-[thus](tathā) [body](deho) [o-great-goddess](maheśāni) [in-body-middle](dehimadhye) [manifested](prakāśitaḥ)
+[so](tathā) [body](dehaḥ) [O-great-goddess](maheśāni) [within-the-embodied-one](dehi+madhye) [manifested](prakāśitaḥ)
 
 ## mukta-m0-p72-v1788
-[wave](taraṅga) [bubble](budbudau) [destruction](nāśe) [water-only](toyamātraṃ) [no-doubt](na) [saṃśayaḥ](saṃśayaḥ)
+[wave](taraṅga) [and-bubble](budbudau) [upon-destruction](nāśe) [water-alone](toya+mātraṃ) [no](na) [doubt](saṃśayaḥ)
 
 ## mukta-m0-p72-v1789
-[body-destruction](dehanāśe) [thus](tathā) [body](deho) [alone-i](kevalo'haṃ) [stainless](nirañjanaḥ)
+[upon-destruction-of-body](deha+nāśe) [likewise](tathā) [body](dehaḥ) [I-alone](kevalaḥ+ahaṃ) [stainless](nirañjanaḥ)
 
 ## mukta-m0-p72-v1790
-[awakening](prabodhe) [then](tu) [supreme-principle](pare) [tattve](tattve) [alone-i](kevalo'haṃ) [stainless](nirañjanaḥ)
+[in-awakening](prabodhe) [indeed](tu) [in-supreme](pare) [principle](tattve) [I-alone](kevalaḥ+ahaṃ) [stainless](nirañjanaḥ)
 
 ## mukta-m0-p72-v1791
 [established](saṃsthitam)
 
 ## mukta-m0-p72-v1792
-[dissolved](pralīnaṃ) [indeed](hi) [again](punaḥ) [in-that](tasmin) [earth](kṣitau) [tree-like](vṛkṣeva) [o-parvati](pārvati)
+[dissolved](pralīnaṃ) [indeed](hi) [again](punaḥ) [in-that](tasmin) [in-the-earth](kṣitau) [like-a-tree](vṛkṣa+iva) [O-Pārvatī](pārvati)
 
 ## mukta-m0-p72-v1793
-[created](sṛjyate) [and](ca) [again](punaḥ) [from-that](tasmāt) [by-own-will](svecchayā) [own](nija) [by-maya](māyayā)
+[it-is-created](sṛjyate) [and](ca) [again](punaḥ) [from-that](tasmāt) [by-own-will](sva+icchayā) [by-own](nija) [māyā](māyayā)
 
 ## mukta-m0-p72-v1794
-[all](sarvaṃ) [indeed](hi) [truly](khalu) [this](idaṃ) [brahman](brahma) [other-than-that](tadanyannāsti) [nothing](kiñcana)
+[all](sarvaṃ) [indeed](hi) [verily](khalu) [this](idaṃ) [Brahman](brahma) [other-than-that](tat+anyat) [not](na) [exists](asti) [anything](kiñcana)
 
 ## mukta-m0-p72-v1795
-[immovable](sthāvaraṃ) [movable](jaṅgamaṃ) [pervaded](vyāptaṃ) [i-bow](praṇamāmi) [world-formed](jaganmayam)
+[immovable](sthāvaraṃ) [movable](jaṅgamaṃ) [pervaded](vyāptaṃ) [I-bow](praṇamāmi) [consisting-of-the-world](jagat+mayam)
 
 ## mukta-m0-p72-v1796
-[beyond-action](kriyātītaṃ) [with-action](kriyāyuktaṃ) [all](sarvaṃ) [pervading](vyāpyaika) [one-established](saṃsthitam)
+[beyond-action](kriyā+atītaṃ) [endowed-with-action](kriyā+yuktaṃ) [all](sarvaṃ) [having-pervaded](vyāpya) [as-one](eka) [established](saṃsthitam)
 
 ## mukta-m0-p72-v1797
-[changeless](nirvikāraṃ) [affected-by-change](vikārāktaṃ) [all](sarvaṃ) [pervading](vyāpyaika) [one-established](saṃsthitam)
+[unchanging](nirvikāraṃ) [tinged-with-change](vikāra+āktaṃ) [all](sarvaṃ) [having-pervaded](vyāpya) [as-one](eka) [established](saṃsthitam)
 
 ## mukta-m0-p72-v1798
-[than-knowledge](jñānānnāparaṃ) [no-other](nāparaṃ) [knowledge](jñānaṃ) [that-brahman](tadbrahme) [thus](tyavadhārayet)
+[from-knowledge-of-which](yat+jñānāt) [not](na) [higher](aparaṃ) [knowledge](jñānaṃ) [that](tat) [Brahman](brahma) [thus](iti) [one-should-ascertain](avadhārayet)
 
 ## mukta-m0-p72-v1799
-[sun](ravirvilīyate) [dissolves](vilīyate) [into-air](vāyau) [air](vāyurvilīyate) [dissolves](vilīyate) [into-space](ca) [khe](khe)
+[sun](raviḥ) [dissolves](vilīyate) [in-wind](vāyau) [wind](vāyuḥ) [dissolves](vilīyate) [and](ca) [in-space](khe)
 
 ## mukta-m0-p72-v1800
-[shiva](śivo) [dissolves](vilīyate) [into-power](śaktau) [then](tato) [brahman](brahma) [determination](nirūpaṇam)
+[Śiva](śivaḥ) [dissolves](vilīyate) [in-Śakti](śaktau) [then](tataḥ) [Brahman](brahma) [ascertainment](nirūpaṇam)
