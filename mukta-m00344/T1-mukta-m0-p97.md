@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p97-v2401
-[brahma](brahmarūpiṇītyarthaḥ) [rūpiṇī](brahmarūpiṇītyarthaḥ) [iti](brahmarūpiṇītyarthaḥ) [arthaḥ](brahmarūpiṇītyarthaḥ)
+[brahman](brahma) [+form](rūpiṇī) [thus](ity) [+meaning](arthaḥ)
 
 ## mukta-m0-p97-v2402
-[sarvathā](sarvathā) [asti](asti) [mayaḥ](mayaḥ) [devī](devī) [suṣuptiḥ](suṣuptiḥ) [sā](sā) [kathaṃ](kathaṃ) [bhavet](bhavet)
+[in-every-way](sarvathā) [existence](asti) [+consisting-of](mayo) [goddess](devī) [deep-sleep](suṣuptiḥ) [that](sā) [how](kathaṃ) [can-be](bhavet)
 
 ## mukta-m0-p97-v2403
-[bhavet](bhavedityarthaḥ) [iti](bhavedityarthaḥ) [arthaḥ](bhavedityarthaḥ) [bhaved](bhavedityarthaḥ)
+[can-be](bhavet) [thus](ity) [+meaning](arthaḥ) [is](iti)
 
 ## mukta-m0-p97-v2404
-[bodhayāmāsa](bodhayāmāsa) [janaka](janaka) [iti](ityaṣṭāvakramuktibhiḥ) [aṣṭāvakra](aṣṭāvakramuktibhiḥ) [muktibhiḥ](aṣṭāvakramuktibhiḥ)
+[awakened](bodhayāmāsa) [janaka](janaka) [thus](iti) [aṣṭāvakra](aṣṭāvakra) [+teachings](muktibhiḥ)
 
 ## mukta-m0-p97-v2405
-[iti](iti) [bodhayāmāsa](bodhayāmāsetyanvayaḥ) [iti](bodhayāmāsetyanvayaḥ) [anvayaḥ](bodhayāmāsetyanvayaḥ)
+[thus](iti) [awakened](bodhayāmāsa) [thus](iti) [+connection](anvayaḥ)
 
 ## mukta-m0-p97-v2406
-[evaṃ](evaṃ) [jāgrati](jāgrati) [kṣaṇika](kṣaṇikasamādhayaḥ) [samādhayaḥ](kṣaṇikasamādhayaḥ) [santi](santi) [iti](iti)
+[thus](evaṃ) [in-waking-state](jāgrati) [momentary](kṣaṇika) [+absorptions](samādhayaḥ) [exist](santi) [thus](iti)
 
 ## mukta-m0-p97-v2407
-[tat](tat) [kṣaṇika](kṣaṇikasamādhisthānam) [samādhi](kṣaṇikasamādhisthānam) [sthānam](kṣaṇikasamādhisthānam)
+[that](tat) [momentary](kṣaṇika) [+absorption](samādhi) [+state](sthānam)
 
 ## mukta-m0-p97-v2408
-[evaṃ](evaṃ) [tena](tenānuyukto'tha) [anuyuktaḥ](tenānuyukto'tha) [atha](tenānuyukto'tha) [prāha](prāha) [rājā](rājā) [mahāśayaḥ](mahāśayaḥ)
+[thus](evaṃ) [by-him](tena) [+questioned](anuyuktaḥ) [then](atha) [spoke](prāha) [king](rājā) [great](mahā) [+minded](āśayaḥ)
 
 ## mukta-m0-p97-v2409
-[āśayaḥ](āśayaścittaṃ) [cittaṃ](āśayaścittaṃ) [yasya](yasya) [aparicchinna](aparicchinnacidākāramānasaḥ) [cit](aparicchinnacidākāramānasaḥ) [ākāra](aparicchinnacidākāramānasaḥ) [mānasaḥ](aparicchinnacidākāramānasaḥ) [nitya](nityasamāhita) [samāhitaḥ](nityasamāhita) [iti](iti) [yāvat](yāvat)
+[mind](āśayaḥ) [+and](ca) [mind](cittaṃ) [whose](yasya) [unlimited](aparicchinna) [+consciousness](cit) [+form](ākāra) [+mind](mānasaḥ) [ever](nitya) [+absorbed](samāhitaḥ) [thus](iti) [indeed](yāvat)
 
 ## mukta-m0-p97-v2410
-[priyayā](priyayā) [sampariṣvaktaḥ](sampariṣvakto) [navyayā](navyayā) [prathamaṃ](prathamaṃ) [yadā](yadā)
+[by-beloved](priyayā) [fully-embraced](sampariṣvakto) [by-young](navyayā) [first](prathamaṃ) [when](yadā)
 
 ## mukta-m0-p97-v2411
-[sampariṣvaktaḥ](saṃpariṣvaktaḥ) [samyak](samyagāliṅgitaḥ) [āliṅgitaḥ](samyagāliṅgitaḥ)
+[embraced](saṃpariṣvaktaḥ) [well](samyak) [+embraced](āliṅgitaḥ) [is](iti)
 
 ## mukta-m0-p97-v2412
-[tiṣṭhet](tiṣṭhenna) [na](tiṣṭhenna) [nidrayā](nidrayākrāntaḥ) [ākrāntaḥ](nidrayākrāntaḥ) [saḥ](sa) [samādhiḥ](samādhirudīritaḥ) [udīritaḥ](samādhirudīritaḥ)
+[may-remain](tiṣṭhet) [not](na) [by-sleep](nidrayā) [+overcome](ākrāntaḥ) [that](saḥ) [absorption](samādhiḥ) [is-declared](udīritaḥ)
 
 ## mukta-m0-p97-v2413
-[yaḥ](yastiṣṭhet) [tiṣṭhet](yastiṣṭhet) [saḥ](so'yaṃ) [ayaṃ](so'yaṃ) [vyavahāra](vyavahāradaśāyāṃ) [daśāyāṃ](vyavahāradaśāyāṃ) [kṣaṇa](kṣaṇasamādhiḥ) [samādhiḥ](kṣaṇasamādhiḥ)
+[who](yaḥ) [may-remain](tiṣṭhet) [he](saḥ) [this](ayam) [in-daily-activity](vyavahāra) [+state](daśāyāṃ) [momentary](kṣaṇa) [+absorption](samādhiḥ)
 
 ## mukta-m0-p97-v2414
-[akasmāt](akasmāttasya) [tasya](akasmāttasya) [saṃprāptiḥ](saṃprāptiryadā) [yadā](saṃprāptiryadā) [bhavati](bhavati) [vai](vai) [mune](mune)
+[suddenly](akasmāt) [of-that](tasya) [attainment](saṃprāptiḥ) [when](yadā) [becomes](bhavati) [indeed](vai) [o-sage](mune)
 
 ## mukta-m0-p97-v2415
-[yat](yatkiñcid) [kiñcit](yatkiñcid) [vastu](vastu) [cirakālāt](cirakālādvāñchitam) [vāñchitam](cirakālādvāñchitam) [akasmāt](akasmāt) [asambhāvita](asambhāvitaprāptikāla) [prāpti](asambhāvitaprāptikāla) [kāla](asambhāvitaprāptikāla)
+[whatever](yatkiñcid) [thing](vastu) [for-long-time](cira) [+from](kālāt) [+desired](vāñchitam) [suddenly](akasmāt) [unanticipated](asambhāvita) [+attainment](prāpti) [+time](kāla)
 
 ## mukta-m0-p97-v2416
-[tiṣṭhet](tiṣṭhenna) [na](tiṣṭhenna) [nidrayā](nidrayākrāntaḥ) [ākrāntaḥ](nidrayākrāntaḥ) [saḥ](sa) [samādhiḥ](samādhirudīritaḥ) [udīritaḥ](samādhirudīritaḥ)
+[may-remain](tiṣṭhet) [not](na) [by-sleep](nidrayā) [+overcome](ākrāntaḥ) [that](saḥ) [absorption](samādhiḥ) [is-declared](udīritaḥ)
 
 ## mukta-m0-p97-v2417
-[tadā](tadā) [na](na) [veda](vedetyādi) [iti](vedetyādi) [ādi](vedetyādi) [kṛtārtham](kṛtārtham)
+[then](tadā) [not](na) [knows](veda) [and-so-on](ityādi) [fulfilled](kṛta) [+purpose](artham)
 
 ## mukta-m0-p97-v2418
-[akasmāt](akasmādyadi) [yadi](akasmādyadi) [sampaśyet](sampaśyed) [vyāghra](vyāghrādi) [ādi](vyāghrādi) [mṛtyu](mṛtyusammitam) [sammitam](mṛtyusammitam)
+[suddenly](akasmāt) [if](yadi) [one-sees](sampaśyed) [tiger](vyāghra) [+etc.](ādi) [death](mṛtyu) [+equal-to](sammitam)
 
 ## mukta-m0-p97-v2419
-[mṛtyu](mṛtyutulyam) [tulyam](mṛtyutulyam)
+[death](mṛtyu) [+equal](tulyam) [is](iti)
 
 ## mukta-m0-p97-v2420
-[tiṣṭhet](tiṣṭhenna) [na](tiṣṭhenna) [nidrayā](nidrayākrāntaḥ) [ākrāntaḥ](nidrayākrāntaḥ) [saḥ](sa) [samādhiḥ](samādhirudīritaḥ) [udīritaḥ](samādhirudīritaḥ)
+[may-remain](tiṣṭhet) [not](na) [by-sleep](nidrayā) [+overcome](ākrāntaḥ) [that](saḥ) [absorption](samādhiḥ) [is-declared](udīritaḥ)
 
 ## mukta-m0-p97-v2421
-[arogiṇam](arogiṇaṃ) [yadā](yadā) [akasmāt](akasmāt) [saṃśṛṇoti](saṃśṛṇoti) [mṛtam](mṛtaṃ) [kila](kila)
+[healthy-person](arogiṇaṃ) [when](yadā) [suddenly](akasmāt) [one-hears](saṃśṛṇoti) [dead](mṛtaṃ) [indeed](kila)
 
 ## mukta-m0-p97-v2422
-[gṛha](gṛhakarmaṇi) [karmaṇi](gṛhakarmaṇi) [vibhum](vibhuṃ) [samartham](samartham)
+[in-household](gṛha) [+work](karmaṇi) [capable](vibhuṃ) [competent](samartham) [one](iti)
 
 ## mukta-m0-p97-v2423
-[tiṣṭhet](tiṣthenna) [na](tiṣthenna) [nidrayā](nidrayākrāntaḥ) [ākrāntaḥ](nidrayākrāntaḥ) [saḥ](sa) [samādhiḥ](samādhirudīritaḥ) [udīritaḥ](samādhirudīritaḥ)
+[may-remain](tiṣṭhen) [not](na) [by-sleep](nidrayā) [+overcome](ākrāntaḥ) [that](saḥ) [absorption](samādhiḥ) [is-declared](udīritaḥ)
 
 ## mukta-m0-p97-v2424
-[jāgrat](jāgratsvapnasuṣuptīnāṃ) [svapna](jāgratsvapnasuṣuptīnāṃ) [suṣuptīnāṃ](jāgratsvapnasuṣuptīnāṃ) [madhye](madhye) [santi](santi) [samādhayaḥ](samādhayaḥ)
+[of-waking](jāgrat) [+dream](svapna) [+deep-sleep](suṣuptīnāṃ) [in-middle](madhye) [exist](santi) [absorptions](samādhayaḥ)
 
 ## mukta-m0-p97-v2425
-[manaḥ](mano) [dīrgha](dīrghātmatāṃ) [ātmatāṃ](dīrghātmatāṃ) [yāti](yāti) [jalūkā](jalūkeva) [iva](jalūkeva) [tṛṇa](tṛṇāliṣu) [āliṣu](tṛṇāliṣu)
+[mind](manaḥ) [long](dīrgha) [+state](ātmatāṃ) [goes](yāti) [leech](jalūkā) [+like](iva) [in-grass-stalks](tṛṇāliṣu)

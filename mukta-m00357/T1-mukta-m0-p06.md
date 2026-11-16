@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p06-v126
-[from-upanayana](upanayanataḥ) [before-prior-initiation](prāṅmagradīkṣāyāḥ) [by-father-commanded](pitrājñāpyo) [becomes](bhavati)
+[from-initiation](upanayanataḥ) [before+first-initiation](prāk+magradīkṣāyāḥ) [by-father](pitrā) [to-be-commanded](ājñāpyaḥ) [he-becomes](bhavati)
 
 ## mukta-m0-p06-v127
-[from-mantra-initiation](mantradīkṣātaḥ) [before-deity-vision](prāgdevatāsākṣātkārād) [by-guru-commanded](gurvanujñāpyo) [becomes](bhavati)
+[from-mantra-initiation](mantradīkṣātaḥ) [before+deity-realization](prāk+devatāsākṣātkārāt) [by-guru](guru) [to-be-permitted](anujñāpyaḥ) [he-becomes](bhavati)
 
 ## mukta-m0-p06-v128
-[from-deity-vision](devatāsākṣātkārataḥ) [by-deity-commanded](devatānujñāpyaḥ) [before-final-liberation](prākparāmukteḥ) [becomes](bhavati)
+[from-deity-realization](devatāsākṣātkārataḥ) [by-deity](devatā) [to-be-permitted](anujñāpyaḥ) [before+supreme-liberation](prāk+parāmukteḥ) [he-becomes](bhavati)
 
 ## mukta-m0-p06-v129
-[therefore](tasmād) [by-guru-commanded](gurvanujñātaḥ) [may-wander](viharet)
+[therefore](tasmāt) [by-guru](guru) [permitted](anujñātaḥ) [one-should-wander](viharet)
 
 ## mukta-m0-p06-v130
-[supreme-self](paramātma) [thus](iti) [should-meditate](bhāvayet)
+[supreme-self](paramātmā) [thus](iti) [one-should-contemplate](bhāvayet) [this](etat)
 
 ## mukta-m0-p06-v131
-[mantra-meaning](mantrārthaṃ) [guru-refuge](gururāśritaḥ) [deity-meaning](devatārtha) [mantra-refuge](mantra+āśritaḥ) [thus](iti) [should-meditate](bhāvayet)
+[mantra+meaning](mantra+arthaṃ) [guru](guruḥ) [resorted-to](āśritaḥ) [deity+meaning](devatā+arthaḥ) [mantra](mantraḥ) [resorted-to](āśritaḥ) [thus](iti) [one-should-contemplate](bhāvayet)
 
 ## mukta-m0-p06-v132
-[of-guru](guroḥ) [manifestation](prakāśaḥ) [of-deity](devatāyāḥ) [and](ca) [manifestation](prakāśaḥ) [should-be-done](kāryaḥ)
+[of-guru](guroḥ) [illumination](prakāśaḥ) [of-deity](devatāyāḥ) [and](ca) [illumination](prakāśaḥ) [to-be-effected](kāryaḥ)
 
 ## mukta-m0-p06-v133
-[then](tataḥ) [mantra](mantraḥ) [from-throat-pit](kaṇṭhakūpāt) [upward](ūrdhvam) [brought](ānītaḥ) [accomplishment](siddhim) [should-do](kuryāt)
+[then](tataḥ) [mantra](mantraḥ) [from-throat-pit](kaṇṭhakūpāt) [upward](ūrdhvam) [brought](ānītaḥ) [success](siddhiṃ) [should-effect](kuryāt)
 
 ## mukta-m0-p06-v134
-[from-lip-cavity](oṣṭhapuṭāt) [outside](bahiḥ) [expelled](niṣkāsitaḥ) [accomplishment](siddhim) [would-destroy](hanyāt)
+[from-lip+fold](oṣṭhapuṭāt) [outside](bahiḥ) [drawn-out](niṣkāsitaḥ) [success](siddhiṃ) [destroys](hanyāt)
 
 ## mukta-m0-p06-v135
-[own-chosen-lord](sveṣṭeśvaraḥ) [own-chosen-mantra](sveṣṭamantraḥ)
+[one's-own-chosen-deity](sveṣṭeśvaraḥ) [one's-own-chosen-mantra](sveṣṭamantraḥ) [is](asti) [thus](iti)
 
 ## mukta-m0-p06-v136
-[therefore](tasmāt) [in-every-way](sarvathā) [secret](gopyaḥ)
+[therefore](tasmāt) [in-every-way](sarvathā) [to-be-kept-secret](gopyaḥ) [it-is](asti)
 
 ## mukta-m0-p06-v137
-[except-disciple](śiṣyādanyatra)
+[from-disciple](śiṣyāt) [other-than](anyatra) [not](na) [to-be-revealed](prakāśyaḥ)
 
 ## mukta-m0-p06-v138
-[worthy](yogyaḥ) [disciple](śiṣyaḥ) [to-instruct](śāsitum)
+[to-be-instructed](śāsituṃ) [fit](yogyaḥ) [disciple](śiṣyaḥ) [is](asti)
 
 ## mukta-m0-p06-v139
-[all](sarvāṇi) [scriptures](śāstrāṇi) [having-seen](dṛṣṭvā) [in-own-scripture](svaśāstre) [is-instructed](śiṣyate) [whose](yasya) [mind](matiḥ) [that](saḥ) [disciple](śiṣyaḥ)
+[all](sarvāṇi) [scriptures](śāstrāṇi) [having-seen](dṛṣṭvā) [in-one's-own-scripture](svaśāstre) [remains](śiṣyate) [whose](yasya) [mind](matiḥ) [he](saḥ) [disciple](śiṣyaḥ)
 
 ## mukta-m0-p06-v140
-[to-disciplined-ones](śiṣṭebhyaḥ) [by-own-conduct](svācāreṇa) [joy](mudā) [with-excellence](prakarṣeṇa) [gives](yacchati) [that](saḥ) [disciple](śiṣyaḥ)
+[to-the-virtuous](śiṣṭebhyaḥ) [by-one's-own-conduct](svācāreṇa) [joy](mudaṃ) [with-excellence](prakarṣeṇa) [who-gives](yacchati) [he](saḥ) [disciple](śiṣyaḥ)
 
 ## mukta-m0-p06-v141
-[of-merit-and-sin](puṇyapāpayoḥ) [looseness](śaithilyam) [occurs](yāti) [that](saḥ) [disciple](śiṣyaḥ)
+[of-merit-and-sin](puṇyapāpayoḥ) [loosening](śaithilyaṃ) [goes](yāti) [he](saḥ) [disciple](śiṣyaḥ)
 
 ## mukta-m0-p06-v142
-[quickly](śaighryeṇa) [lord's](īśvara) [dharma](dharmam) [strives](yatati) [that](saḥ) [disciple](śiṣyaḥ)
+[quickly](śaighryeṇa) [lord's+dharma](īśvara+dharmam) [strives-for](yatati) [he](saḥ) [disciple](śiṣyaḥ)
 
 ## mukta-m0-p06-v143
-[of-guru](guroḥ) [manifestation](prakāśanam) [of-mantra-lord](mantreśvarayoḥ) [concealment](gopanam) [desire](icchanti)
+[of-guru](guroḥ) [illumination](prakāśanam) [of-mantra-and-lord](mantreśvarayoḥ) [concealment](gopanam) [they-desire](icchanti)
 
 ## mukta-m0-p06-v144
-[of-guru-and-mantra-lords](gurumantreśvarāṇām) [concealment](gopanam) [we-desire](icchāmaḥ)
+[of-guru-mantra-lords](gurumantreśvarāṇām) [concealment](gopanam) [we-desire](icchāmaḥ)
 
 ## mukta-m0-p06-v145
-[he](saḥ) [if](yadi) [dead](pretaḥ) [would-be](syāt) [then](ced) [northern](uttarasyāḥ) [direction](diśi) [him](tam) [having-visualized](vibhāvya) [should-salute](namaskuryāt)
+[he](saḥ) [if](yadi) [deceased](pretaḥ) [should-be](syāt) [then](cet) [of-northern](uttarasyāḥ) [direction](diśi) [him](tam) [having-visualized](vibhāvya) [one-should-bow](namaskuryāt)
 
 ## mukta-m0-p06-v146
-[he](saḥ) [self-willed](svacchandaḥ) [if](yadi) [gone](gataḥ) [or](vā)
+[he](saḥ) [by-own-will](svacchandam) [if](yadi) [gone](gataḥ) [should-be](syāt) [or](vā)
 
 ## mukta-m0-p06-v147
-[for-accomplishment](sidhyartham) [with-devotion](bhaktisayutaiḥ) [by-disciples](śiṣyaiḥ) [guru](guruḥ) [should-be-served](sevyaḥ)
+[for-success](sidhyartham) [with-devotion+endowed](bhakti+sayutaiḥ) [by-disciples](śiṣyaiḥ) [guru](guruḥ) [to-be-served](sevyaḥ)
 
 ## mukta-m0-p06-v148
-[guru](guruḥ) [path-shower](mārgapradarśakaḥ) [therefore](tasmāt) [in-every-way](sarvathā) [honorable](mānyaḥ) [worshipful](pūjyaḥ) [to-be-pleased](toṣyaḥ)
+[guru](guruḥ) [path+shower](mārga+pradarśakaḥ) [therefore](tasmāt) [in-every-way](sarvathā) [to-be-honored](mānyaḥ) [to-be-worshipped](pūjyaḥ) [to-be-pleased](toṣyaḥ)
 
 ## mukta-m0-p06-v149
-[for-trust](viśvāsāya) [salutation](namaḥ)
+[to-faith](viśvāsāya) [obeisance](namaḥ)
 
 ## mukta-m0-p06-v150
-[they-do](kurvanti) [in-this](asmin) [grace](anugraham)
+[they-do](kurvanti) [in-this](asmin) [and](ca) [grace](anugraham)

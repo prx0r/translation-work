@@ -12,11 +12,11 @@
 },
 {
 "surface": "karma",
-"quick_gloss": "action"
+"quick_gloss": "by-action"
 },
 {
 "surface": "yogena",
-"quick_gloss": "yoga+by"
+"quick_gloss": "yoga"
 }
 ]
 },
@@ -33,11 +33,11 @@
 },
 {
 "surface": "dhyāna",
-"quick_gloss": "meditation"
+"quick_gloss": "by-meditation"
 },
 {
 "surface": "yogena",
-"quick_gloss": "yoga+by"
+"quick_gloss": "yoga"
 }
 ]
 },
@@ -57,6 +57,10 @@
 "quick_gloss": "yogas"
 },
 {
+"surface": "ca",
+"quick_gloss": "and"
+},
+{
 "surface": "caturvidhāḥ",
 "quick_gloss": "fourfold"
 }
@@ -70,16 +74,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "bhaktiyogaḥ",
-"quick_gloss": "devotion-yoga"
+"surface": "bhakti",
+"quick_gloss": "devotion"
+},
+{
+"surface": "yogaḥ",
+"quick_gloss": "yoga"
 },
 {
 "surface": "sarvebhyaḥ",
-"quick_gloss": "of-all"
+"quick_gloss": "than-all"
 },
 {
 "surface": "garīyān",
-"quick_gloss": "greater"
+"quick_gloss": "superior"
 }
 ]
 },
@@ -95,8 +103,12 @@
 "quick_gloss": "inconceivable"
 },
 {
-"surface": "tatsāmarthyam",
-"quick_gloss": "that-power"
+"surface": "tat",
+"quick_gloss": "that"
+},
+{
+"surface": "sāmarthyam",
+"quick_gloss": "power"
 }
 ]
 },
@@ -109,7 +121,7 @@
 "tokens": [
 {
 "surface": "tasya",
-"quick_gloss": "that"
+"quick_gloss": "of-that"
 },
 {
 "surface": "kaḥ",
@@ -128,12 +140,16 @@
 "quick_gloss": "thus"
 },
 {
+"surface": "atra",
+"quick_gloss": "here"
+},
+{
 "surface": "munayaḥ",
 "quick_gloss": "sages"
 },
 {
 "surface": "api",
-"quick_gloss": "also"
+"quick_gloss": "even"
 },
 {
 "surface": "mohaṃ",
@@ -153,16 +169,24 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "svaprāṇatyāgaṃ",
-"quick_gloss": "self-life-abandonment"
+"surface": "sva",
+"quick_gloss": "own"
+},
+{
+"surface": "prāṇa",
+"quick_gloss": "life"
+},
+{
+"surface": "tyāgaṃ",
+"quick_gloss": "abandonment"
 },
 {
 "surface": "vihitaṃ",
-"quick_gloss": "prescribed"
+"quick_gloss": "enjoined"
 },
 {
 "surface": "kurvanti",
-"quick_gloss": "do"
+"quick_gloss": "they-perform"
 }
 ]
 },
@@ -175,7 +199,7 @@
 "tokens": [
 {
 "surface": "kṛte",
-"quick_gloss": "in-rite"
+"quick_gloss": "when-done"
 },
 {
 "surface": "mahān",
@@ -199,16 +223,20 @@
 "quick_gloss": "thus"
 },
 {
-"surface": "pārānandasūtre",
-"quick_gloss": "pārānanda-sūtra"
+"surface": "pārānanda",
+"quick_gloss": "in-pārānanda"
 },
 {
-"surface": "tṛtīyam",
+"surface": "sūtre",
+"quick_gloss": "sūtra"
+},
+{
+"surface": "tṛtīya",
 "quick_gloss": "third"
 },
 {
-"surface": "āhnikam",
-"quick_gloss": "chapter"
+"surface": "māhnikam",
+"quick_gloss": "section"
 }
 ]
 },
@@ -228,24 +256,36 @@
 "quick_gloss": "of-vighneśa"
 },
 {
-"surface": "tribhirācāraiḥ",
-"quick_gloss": "by-three-practices"
+"surface": "tribhiḥ",
+"quick_gloss": "by-three"
 },
 {
-"surface": "caturbhirāśramaiḥ",
-"quick_gloss": "by-four-stages"
-},
-{
-"surface": "varṇaiḥ",
-"quick_gloss": "by-varṇas"
+"surface": "ācāraiḥ",
+"quick_gloss": "conducts"
 },
 {
 "surface": "ca",
-"quick_gloss": "ca"
+"quick_gloss": "and"
+},
+{
+"surface": "caturbhiḥ",
+"quick_gloss": "by-four"
+},
+{
+"surface": "āśramaiḥ",
+"quick_gloss": "by-stages-of-life"
+},
+{
+"surface": "varṇaiḥ",
+"quick_gloss": "by-classes"
+},
+{
+"surface": "ca",
+"quick_gloss": "and"
 },
 {
 "surface": "sevyatvam",
-"quick_gloss": "worship-worthiness"
+"quick_gloss": "worthiness-of-service"
 }
 ]
 },
@@ -257,12 +297,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "evameva",
-"quick_gloss": "thus-indeed"
+"surface": "evam",
+"quick_gloss": "thus"
+},
+{
+"surface": "eva",
+"quick_gloss": "indeed"
 },
 {
 "surface": "trayāṇām",
-"quick_gloss": "of-three"
+"quick_gloss": "of-the-three"
 }
 ]
 },
@@ -274,16 +318,24 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "dvitīyācāra",
-"quick_gloss": "second-practice"
+"surface": "dvitīya",
+"quick_gloss": "of-second"
+},
+{
+"surface": "ācāra",
+"quick_gloss": "conduct"
 },
 {
 "surface": "sevyatvaṃ",
-"quick_gloss": "worship-worthiness"
+"quick_gloss": "worthiness-of-service"
 },
 {
-"surface": "nāsti",
+"surface": "na",
 "quick_gloss": "not"
+},
+{
+"surface": "asti",
+"quick_gloss": "exists"
 },
 {
 "surface": "iti",
@@ -303,24 +355,36 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "kauśikyākhyasya",
-"quick_gloss": "of-kauśikī-named"
+"surface": "kauśikyā",
+"quick_gloss": "of-kauśikī"
+},
+{
+"surface": "ākhyasya",
+"quick_gloss": "named"
 },
 {
 "surface": "rūpasya",
-"quick_gloss": "form"
+"quick_gloss": "of-form"
 },
 {
-"surface": "ādyācāra",
-"quick_gloss": "first-practice"
+"surface": "ādya",
+"quick_gloss": "of-first"
 },
 {
-"surface": "ādyāśrama",
-"quick_gloss": "first-stage"
+"surface": "ācāra",
+"quick_gloss": "conduct"
+},
+{
+"surface": "ādya",
+"quick_gloss": "and-first"
+},
+{
+"surface": "āśrama",
+"quick_gloss": "stage-of-life"
 },
 {
 "surface": "sevyatvam",
-"quick_gloss": "worship-worthiness"
+"quick_gloss": "worthiness-of-service"
 }
 ]
 },
@@ -333,7 +397,7 @@
 "tokens": [
 {
 "surface": "samāvṛttaḥ",
-"quick_gloss": "returned"
+"quick_gloss": "one-who-has-completed-studies"
 },
 {
 "surface": "na",
@@ -341,11 +405,15 @@
 },
 {
 "surface": "seveta",
-"quick_gloss": "worship"
+"quick_gloss": "should-serve"
 },
 {
-"surface": "kauśikyākhyaṃ",
-"quick_gloss": "kauśikī-named"
+"surface": "kauśikyā",
+"quick_gloss": "kauśikī"
+},
+{
+"surface": "ākhyaṃ",
+"quick_gloss": "named"
 },
 {
 "surface": "rūpam",
@@ -361,12 +429,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "vīryadhāraṇa",
-"quick_gloss": "semen-retention"
+"surface": "vīrya",
+"quick_gloss": "of-semen"
+},
+{
+"surface": "dhāraṇa",
+"quick_gloss": "retention"
 },
 {
 "surface": "sāmarthyāt",
-"quick_gloss": "power"
+"quick_gloss": "by-capability"
 },
 {
 "surface": "dvijaḥ",
@@ -374,11 +446,11 @@
 },
 {
 "surface": "sevitum",
-"quick_gloss": "to-worship"
+"quick_gloss": "to-serve"
 },
 {
 "surface": "arhati",
-"quick_gloss": "worthy"
+"quick_gloss": "is-fit"
 }
 ]
 },
@@ -394,8 +466,12 @@
 "quick_gloss": "except"
 },
 {
-"surface": "svapnarogābhyāṃ",
-"quick_gloss": "dream-disease"
+"surface": "svapna",
+"quick_gloss": "dream"
+},
+{
+"surface": "rogābhyāṃ",
+"quick_gloss": "disease"
 },
 {
 "surface": "vīryaṃ",
@@ -403,7 +479,7 @@
 },
 {
 "surface": "skhalan",
-"quick_gloss": "slipping"
+"quick_gloss": "flowing"
 },
 {
 "surface": "patitaḥ",
@@ -411,7 +487,7 @@
 },
 {
 "surface": "bhavet",
-"quick_gloss": "becomes"
+"quick_gloss": "would-be"
 }
 ]
 },
@@ -427,8 +503,16 @@
 "quick_gloss": "of-women"
 },
 {
-"surface": "kāmāvirbhāvaka",
-"quick_gloss": "desire-manifesting"
+"surface": "kāma",
+"quick_gloss": "desire"
+},
+{
+"surface": "āvirbhāva",
+"quick_gloss": "arousing"
+},
+{
+"surface": "karaṃ",
+"quick_gloss": "causing"
 },
 {
 "surface": "rūpaṃ",
@@ -440,7 +524,7 @@
 },
 {
 "surface": "paśyet",
-"quick_gloss": "see"
+"quick_gloss": "should-see"
 }
 ]
 },
@@ -452,20 +536,32 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "kāmāvirbhāvaka",
-"quick_gloss": "desire-manifesting"
+"surface": "kāma",
+"quick_gloss": "desire"
 },
 {
-"surface": "devālayagamanam",
-"quick_gloss": "temple-going"
+"surface": "āvirbhāva",
+"quick_gloss": "arousing"
+},
+{
+"surface": "karaṃ",
+"quick_gloss": "causing"
+},
+{
+"surface": "devālaya",
+"quick_gloss": "to-temple"
+},
+{
+"surface": "gamanam",
+"quick_gloss": "going"
 },
 {
 "surface": "api",
-"quick_gloss": "also"
+"quick_gloss": "even"
 },
 {
 "surface": "tyajet",
-"quick_gloss": "abandon"
+"quick_gloss": "should-abandon"
 }
 ]
 },
@@ -486,23 +582,23 @@
 },
 {
 "surface": "iva",
-"quick_gloss": "iva"
+"quick_gloss": "as"
 },
 {
 "surface": "strībhyaḥ",
 "quick_gloss": "from-women"
 },
 {
-"surface": "bibheti",
+"surface": "bimeti",
 "quick_gloss": "fears"
 },
 {
 "surface": "straiṇebhyaḥ",
-"quick_gloss": "from-women-folk"
+"quick_gloss": "from-women-related-things"
 },
 {
 "surface": "ca",
-"quick_gloss": "ca"
+"quick_gloss": "and"
 },
 {
 "surface": "saḥ",
@@ -510,7 +606,7 @@
 },
 {
 "surface": "eva",
-"quick_gloss": "eva"
+"quick_gloss": "alone"
 },
 {
 "surface": "upāste",
@@ -527,15 +623,23 @@
 "tokens": [
 {
 "surface": "sevyā",
-"quick_gloss": "worship"
+"quick_gloss": "to-be-served"
 },
 {
-"surface": "amaraṇāt",
+"surface": "āmaraṇāt",
 "quick_gloss": "until-death"
 },
 {
-"surface": "ādevatāsākṣātkārataḥ",
-"quick_gloss": "until-deity-vision"
+"surface": "ā",
+"quick_gloss": "or"
+},
+{
+"surface": "devatā",
+"quick_gloss": "until-deity"
+},
+{
+"surface": "sākṣātkārataḥ",
+"quick_gloss": "realization"
 }
 ]
 },
@@ -547,8 +651,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "kauśikīdīkṣitaḥ",
-"quick_gloss": "kauśikī-initiated"
+"surface": "kauśikī",
+"quick_gloss": "in-kauśikī"
+},
+{
+"surface": "dīkṣitaḥ",
+"quick_gloss": "initiated"
 },
 {
 "surface": "na",
@@ -556,11 +664,11 @@
 },
 {
 "surface": "samāvṛttaḥ",
-"quick_gloss": "returned"
+"quick_gloss": "one-who-has-completed-studies"
 },
 {
 "surface": "bhavet",
-"quick_gloss": "becomes"
+"quick_gloss": "should-be"
 }
 ]
 },
@@ -576,8 +684,16 @@
 "quick_gloss": "fallen"
 },
 {
-"surface": "kālyādirūpa",
-"quick_gloss": "kālī-etc-form"
+"surface": "kālyā",
+"quick_gloss": "in-kālī"
+},
+{
+"surface": "ādi",
+"quick_gloss": "and-other"
+},
+{
+"surface": "rūpa",
+"quick_gloss": "form"
 },
 {
 "surface": "dīkṣitaḥ",
@@ -585,11 +701,11 @@
 },
 {
 "surface": "samāvṛttaḥ",
-"quick_gloss": "returned"
+"quick_gloss": "one-who-has-completed-studies"
 },
 {
 "surface": "bhavet",
-"quick_gloss": "becomes"
+"quick_gloss": "would-be"
 }
 ]
 },
@@ -602,7 +718,7 @@
 "tokens": [
 {
 "surface": "vivāhitā",
-"quick_gloss": "married"
+"quick_gloss": "married-woman"
 },
 {
 "surface": "na",
@@ -610,11 +726,15 @@
 },
 {
 "surface": "seveta",
-"quick_gloss": "worship"
+"quick_gloss": "should-serve"
 },
 {
-"surface": "kauśikyākhyaṃ",
-"quick_gloss": "kauśikī-named"
+"surface": "kauśikyā",
+"quick_gloss": "kauśikī"
+},
+{
+"surface": "ākhyaṃ",
+"quick_gloss": "named"
 },
 {
 "surface": "rūpam",
@@ -630,24 +750,32 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "vīryadhāraṇa",
-"quick_gloss": "semen-retention"
+"surface": "vīrya",
+"quick_gloss": "of-semen"
+},
+{
+"surface": "dhāraṇa",
+"quick_gloss": "retention"
 },
 {
 "surface": "sāmarthyāt",
-"quick_gloss": "power"
+"quick_gloss": "by-capability"
 },
 {
-"surface": "dvijajā",
-"quick_gloss": "twice-born-woman"
+"surface": "dvija",
+"quick_gloss": "twice-born"
+},
+{
+"surface": "jā",
+"quick_gloss": "born-woman"
 },
 {
 "surface": "sevitum",
-"quick_gloss": "to-worship"
+"quick_gloss": "to-serve"
 },
 {
 "surface": "arhati",
-"quick_gloss": "worthy"
+"quick_gloss": "is-fit"
 }
 ]
 },
@@ -663,8 +791,12 @@
 "quick_gloss": "except"
 },
 {
-"surface": "svapnarogābhyāṃ",
-"quick_gloss": "dream-disease"
+"surface": "svapna",
+"quick_gloss": "dream"
+},
+{
+"surface": "rogābhyāṃ",
+"quick_gloss": "disease"
 },
 {
 "surface": "vīryaṃ",
@@ -672,7 +804,7 @@
 },
 {
 "surface": "skhalan",
-"quick_gloss": "slipping"
+"quick_gloss": "flowing"
 },
 {
 "surface": "patitā",
@@ -680,7 +812,7 @@
 },
 {
 "surface": "bhavet",
-"quick_gloss": "becomes"
+"quick_gloss": "would-be"
 }
 ]
 }
