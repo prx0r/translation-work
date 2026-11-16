@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p49-v1201
-as(yathā) by-dharma(dharmeṇa) stand(tiṣṭhaṃti) kṛta-etc(kṛtādi) in-time(samaye) men(narāḥ)
+[as](yathā) [by-dharma](dharmeṇa) [stand](tiṣṭhaṃti) [in-kṛta+etc.](kṛtādi) [time](samaye) [men](narāḥ)
 
 ## mukta-m0-p49-v1202
-not(navā) impotence(klabyaṃ) not-poverty(navādainyaṃ) not(na) courage(dhairyaṃ) not(na) and(ca) envy(matsaraḥ)
+[not](na) [new](navā) [impotence](klabyaṃ) [not](na) [new](navā) [despondency](dainyaṃ) [not](na) [courage](dhairyaṃ) [not](na) [and](ca) [envy](matsaraḥ)
 
 ## mukta-m0-p49-v1203
-these(etepi) faults(doṣā) not(na) in-kṛta(kṛte) merit-pile(puṇyarāśiḥ) increases(pravarddhate)
+[these](ete) [also](api) [faults](doṣā) [not](na) [in-kṛta-age](kṛte) [merit+heap](puṇyarāśiḥ) [increases](pravarddhate)
 
 ## mukta-m0-p49-v1204
-there(tatrakevalamadhyātma) for-contemplation(ciṃtārthaṃ) in-own-powers(svasvaśaktiṣu)
+[there](tatra) [only](kevala) [spiritual](adhyātma) [thought+purpose](ciṃtārthaṃ) [in-own+own](svasva) [powers](śaktiṣu)
 
 ## mukta-m0-p49-v1205
-then(tadā) of-animals(paśūnāṃ) removal(vyāvṛttirūhāpohavivarjjitā)
+[then](tadā) [of-beings](paśūnāṃ) [activity](vyāvṛttiḥ) [conception+rejection](ūhāpohavivarjjitā)
 
 ## mukta-m0-p49-v1206
-in-that-kṛta-time(tasminkṛtādisamaye) what-in-own-mind(yannije) in-mind(cetase) stood(sthitam)
+[in-that](tasmin) [kṛta+etc.](kṛtādi) [time](samaye) [which](yat) [in-own](nije) [mind](cetase) [stood](sthitam)
 
 ## mukta-m0-p49-v1207
-therefore(ata) indeed(eva) conduct(samācārastisṝṇāmapi) of-three(pārvati)
+[therefore](ata) [indeed](eva) [conduct](samācāraḥ) [of-three](tisṝṇām) [also](api) [O-Pārvatī](pārvati)
 
 ## mukta-m0-p49-v1208
-uncovered(anāvṛtāḥ) women(striyaḥ) all(sarvāḥ) then(tadāsan) free-conduct(svairavṛttayaḥ)
+[uncovered](anāvṛtāḥ) [women](striyaḥ) [all](sarvāḥ) [then](tadā) [were](āsan) [free+conduct](svairavṛttayaḥ)
 
 ## mukta-m0-p49-v1209
-when(yadā) sometime(kadācit) for-merit(puṇyārthamapatyārthaṃ) proceeds(pravarttate)
+[when](yadā) [ever](kadācit) [for-merit](puṇyārtham) [for-offspring](apatyārthaṃ) [proceeds](pravarttate)
 
 ## mukta-m0-p49-v1210
-there(tatrāpatyaṃ) offspring(samutpādya) own-desire(nijavāṃchāṃ) fulfilling(prapūrayan)
+[there](tatra) [offspring](apatyaṃ) [having-produced](samutpādya) [own+desire](nijavāṃchāṃ) [fulfilling](prapūrayan)
 
 ## mukta-m0-p49-v1211
-enjoyed(upabhuktāmaye) whom(yaṃ) woman(stritya) pride(abhimāno) not(na) anyone(kaścana)
+[enjoyed](upabhuktām) [indeed](aye) [which](yaṃ) [woman](stri) [pride](abhimāno) [not](na) [any](kaścana)
 
 ## mukta-m0-p49-v1212
-all-castes(samastajāti) equality(sāmyena) then(tadā) all(sarve) stood(sthitānarāḥ)
+[all+class](samastajāti) [with-equality](sāmyena) [then](tadā) [all](sarve) [stood](sthitāḥ) [men](narāḥ)
 
 ## mukta-m0-p49-v1213
-in-forest(araṇyorvyāmivoddīptau) desire-aversion(rāgadveṣa) fire(hutāśanau)
+[in-two-sticks](araṇyoḥ) [as](iva) [kindled](uddīptau) [passion+hate](rāgadveṣa) [two-fires](hutāśanau)
 
 ## mukta-m0-p49-v1214
-what(yat) in-all-mortals(samasteṣu) by-nature(svabhāvādupajāyate)
+[which](yat) [in-all](samasteṣu) [mortals](martyeṣu) [by-nature](svabhāvāt) [arises](upajāyate)
 
 ## mukta-m0-p49-v1215
-desire-aversion(rāgadveṣa) great-forest-fire(mahādāvadahyamāna) hither-thither(itastataḥ)
+[by-passion+hate](rāgadveṣa) [great+forest-fire](mahādāva) [burning](dahyamāna) [here+there](itastataḥ)
 
 ## mukta-m0-p49-v1216
-in-dvāpara-times(dvāparādyeṣu) desire-aversion(rāgadveṣa) intensified(vimūrchitaḥ)
+[in-dvāpara+etc.](dvāparādyeṣu) [times](kāleṣu) [by-passion+hate](rāgadveṣa) [deluded](vimūrchitaḥ)
 
 ## mukta-m0-p49-v1217
-mine-only(mamaivasakalābhūmi) as-object(viṣayatvena) stands(tiṣṭhatu)
+[of-me](mama) [alone](eva) [entire+earth](sakalābhūmi) [as-object](viṣayatvena) [let-stand](tiṣṭhatu)
 
 ## mukta-m0-p49-v1218
-mine-only(mamaiva) all-women(sakalānārīrati) in-act(karmaṇi) stands(tiṣṭhatu)
+[of-me](mama) [alone](eva) [all+women](sakalānārīḥ) [in-love+act](ratikarmaṇi) [let-stand](tiṣṭhatu)
 
 ## mukta-m0-p49-v1219
-therefore(ato'sya) rule(śāsanaṃ) to-be-done(kāryameṣaduṣṭo) destroyed(nihanyatām)
+[therefore](ato) [of-him](asya) [punishment](śāsanaṃ) [to-be-done](kāryam) [this](eṣa) [wicked](duṣṭo) [let-be-killed](nihanyatām)
 
 ## mukta-m0-p49-v1220
-this(imaṃ) weak(durbalaṃ) having-killed(hatvā) enjoyments(bhogān) enjoy(bhuṃje) charming(manoharān)
+[this](imaṃ) [but](tu) [weak](durbalaṃ) [having-killed](hatvā) [enjoyments](bhogān) [I-enjoy](bhuṃje) [mind+pleasing](manoharān)
 
 ## mukta-m0-p49-v1221
-mutual-quarrel(anyonyakalahaṃ) having-made(kṛtvā) mutual-crushing(paraspara) by-strikings(vimardanaiḥ)
+[mutual+quarrel](anyonyakalahaṃ) [having-made](kṛtvā) [by-mutual](paraspara) [crushings](vimardanaiḥ)
 
 ## mukta-m0-p49-v1222
-restrainer(nivārakonako'pyasti) all(sarvepyuddāna) intent(buddhayaḥ)
+[preventer](nivārakaḥ) [not](na) [anyone](kaḥ) [also](api) [is](asti) [all](sarve) [also](api) [arrogant+minded](uddānabuddhayaḥ)
 
 ## mukta-m0-p49-v1223
-not-head-pain(na) body-pain(mūrdhnodeha) or(vā) self-horn-breaking(nātmaśṛṃgasya) moṭanam
+[not](na) [of-head](mūrdhnaḥ) [of-body](deha) [pain](pīḍāṃ) [not](na) [of-own+horn](ātmaśṛṃgasya) [breaking](moṭanam)
 
 ## mukta-m0-p49-v1224
-vain-hatred(vṛthādveṣeṇa) for-what(kinnāśaṃ) expense(vyayaṃyāma) thus(priye)
+[in-vain](vṛthā) [by-hatred](dveṣeṇa) [why](kim) [destruction](nāśaṃ) [expense](vyayaṃ) [we-go](yāma) [thus](iti) [O-beloved](priye)
 
 ## mukta-m0-p49-v1225
-therefore(ato'nyonyasya) mutual-killing(hananamanyonyasya) and(ca) mutual-slaying(māraṇam)
+[therefore](ataḥ) [of-each-other](anyonyasya) [striking](hananam) [of-each-other](anyonyasya) [and](ca) [killing](māraṇam)

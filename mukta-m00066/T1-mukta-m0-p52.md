@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p52-v1276
-[sudarśana+prakāraiḥ](sudarśanaprakāraiḥ) [ca](ca) [jihvā+śravaṇa+karttanaiḥ](jihvāśravaṇakarttanaiḥ)
+[sudarśana+methods](sudarśanaprakāraiś) [and](ca) [tongue+ear+cutting](jihvāśravaṇakarttanaiḥ)
 
 ## mukta-m0-p52-v1277
-[todanaiḥ](todanaiḥ) [pīḍanaiḥ](pīḍanaiḥ) [ca](ca) [eva](eva) [tadā](tadā) [āsye](āsye) [dhūli+pūraṇaiḥ](dhūlipūraṇaiḥ)
+[with-piercings](todanaiḥ) [with-torments](pīḍanaiś) [and+indeed](ca+eva) [in-his+mouth](tad+āsye) [with-dust+fillings](dhūlipūraṇaiḥ)
 
 ## mukta-m0-p52-v1278
-[anayā](anayā) [daṇḍitāḥ](daṇḍitāḥ) [sarve](sarve) [sadūram](sadūram) [adhamādhamāḥ](adhamādhamāḥ)
+[by-this-policy](anayā) [punished](daṇḍitāḥ) [all](sarve) [always+far](sadūram) [lowest+of-the-low](adhamādhamāḥ)
 
 ## mukta-m0-p52-v1279
-[anyasya](anyasya) [striyam](striyam) [ālokya](ālokya) [kasya](kasya) [nu](nu) [vikṛtam](vikṛtam) [manaḥ](manaḥ)
+[of-another](anyasya) [woman](striyam) [having-seen](ālokya) [of-whom+not](kasyano) [agitated+mind](vikṛtam+manaḥ)
 
 ## mukta-m0-p52-v1280
-[vicārayati](vicārayati) [daṇḍena](daṇḍena) [vimṛśati](vimṛśati) [ātmanā](ātmanā) [ulayam](ulayam)
+[he-reflects](vicārayati) [with-punishment](daṇḍena) [he-considers](vimṛśati) [of-self+dissolution](ātmano+layam)
 
 ## mukta-m0-p52-v1281
-[evam](evam) [catvāraḥ](catvāra) [uktāḥ](uktāye) [ye](ye) [tad](tad) [upāyān](upāyāmanīṣiṇaḥ) [anīṣiṇaḥ](anīṣiṇaḥ)
+[thus](evaṃ) [four](catvāra) [are-said](uktā) [they](ye) [their+means](tad+upāyā) [by-the-wise](manīṣiṇaḥ)
 
 ## mukta-m0-p52-v1282
-[manu+ādi](manvādikṭamaryādālaṃghanaṃ) [maryādā](maryādā) [laṃghanam](laṃghanaṃ) [na](na) [vitanvate](vitanvate)
+[Manu+etc.+prescribed+boundaries](manvādi+kṛta+maryādā) [transgression](laṃghanaṃ) [not](na) [they-practice](vitanvate)
 
 ## mukta-m0-p52-v1283
-[ānandanātha](ānaṃdanātha) [pūjā](pūjā) [tu](tu) [sarva+jāti+samā](sarvajātisamā) [priye](priye)
+[O-Ānandanātha](ānaṃdanātha) [worship](pūjā) [indeed](tu) [all+classes+equal](sarvajāti+samā) [dear-one](priye)
 
 ## mukta-m0-p52-v1284
-[sarva+sādhāraṇaḥ](sarvasādhāraṇaścāpi) [ca](ca) [api](api) [mahā+yogaḥ](mahāyogomaheśvarī) [maheśvarī](maheśvarī)
+[common+to-all](sarvasādhāraṇaś) [and+also](ca+api) [great+yoga](mahāyogo) [O-great-goddess](maheśvarī)
 
 ## mukta-m0-p52-v1285
-[tiraścām](tiraścāṃ) [tu](tu) [mahā+yāge](mahāyāge) [tṛṇa+bhakṣa+ādi+vat](tṛṇabhakṣādivat) [param](param)
+[of-animals](tiraścāṃ) [indeed](tu) [in-great-sacrifice](mahāyāge) [grass+eating+etc.](tṛṇabhakṣādi) [like](vat) [supreme](param)
 
 ## mukta-m0-p52-v1286
-[tatra](tatrāpi) [api](api) [ye](ye) [narāḥ](narāduṣṭāḥ) [duṣṭāḥ](duṣṭāḥ) [paśu+vat](paśuvanmūrkhavṛttayaḥ) [mūrkha+vṛttayaḥ](mūrkhavṛttayaḥ)
+[there+also](tatrāpi) [who](ye) [men+not-wicked](narā+aduṣṭāḥ) [like-animals](paśuvat) [foolish+conduct](mūrkhavṛttayaḥ)
 
 ## mukta-m0-p52-v1287
-[ye](ye) [vīrāḥ](vīrāgurumaṃtaśca) [guru+mantrāḥ](gurumaṃtaśca) [ca](ca) [niḥsaṃdehāḥ](niḥsaṃdehā) [dṛḍha+vṛtāḥ](dṛḍhavṛtāḥ)
+[who](ye) [heroes](vīrā) [guru+devoted](guru+maṃtaś) [and](ca) [doubtless](niḥsaṃdehā) [firm+in-vow](dṛḍhavṛtāḥ)
 
 ## mukta-m0-p52-v1288
-[yaiḥ](yaiḥ) [eva](eva) [patanam](patanaṃ) [loke](loke) [vīraḥ](vīrastaireva) [taiḥ](taiḥ) [eva](eva) [siddhyati](siddhyati)
+[by-which+indeed](yair+eva) [fall](patanaṃ) [in-the-world](loke) [hero](vīras) [by-those+indeed](tair+eva) [succeeds](siddhyati)
 
 ## mukta-m0-p52-v1289
-[pāna+ādi+vastu](pānādivastu) [jātānām](jātānāṃ) [rūpam](rūpaṃ) [na](na) [niyatam](niyataṃ) [kvacit](kvacit)
+[drinking+etc.+substance](pānādi+vastu) [of-those-born](jātānāṃ) [form](rūpaṃ) [not](na) [fixed](niyataṃ) [anywhere](kvacit)
 
 ## mukta-m0-p52-v1290
-[ayaḥ](ayastu) [tu](tu) [paṇḍitam](paṇḍitaṃloke) [loke](loke) [jale](jalekṣiptaṃ) [kṣiptam](kṣiptaṃ) [nimajjati](nimajjati)
+[this](ayas) [indeed](tu) [learned-man](paṇḍitaṃ) [in-the-world](loke) [in-water+thrown](jale+kṣiptaṃ) [sinks](nimajjati)
 
 ## mukta-m0-p52-v1291
-[tasmāt](tasmānnavastuto) [na](na) [vastutaḥ](vastutaḥ) [vastu](vastu) [yat](yat) [kiṃcit](kiṃcinniyataṃ) [niyatam](niyataṃ) [kvacit](kvacit)
+[therefore](tasmān) [not](na) [from-substance](vastuto) [substance](vastu) [whatever](yat+kiṃcin) [fixed](niyataṃ) [anywhere](kvacit)
 
 ## mukta-m0-p52-v1292
-[iti](iti) [tvat+pṛṣṭham](tvatpṛṣṭhamākhyātaṃ) [ākhyātam](ākhyātaṃ) [sarvam](sarvam) [sarva+aṅga+sundari](sarvāṃgasundari)
+[thus](iti) [your+asked](tvad+pṛṣṭham) [declared](ākhyātaṃ) [all](sarvaṃ) [O-all-limbed+beautiful-one](sarvāṃgasundari)
 
 ## mukta-m0-p52-v1293
-[pipṛcchiṣā](pipṛcchiṣā) [punar](punastvanyākācidastimamāśaye) [tu](tu) [anyā](anyā) [kācit](kācit) [asti](asti) [mama](mama) [āśaye](āśaye)
+[to-ask](pipṛcchiṣā) [again](punas) [you](tva) [another](anyā) [some](kācid) [is](asti) [in-my+mind](mama+āśaye)
 
 ## mukta-m0-p52-v1294
-[tat](tadyeka) [ekaḥ](ekaḥ) [eva](eva) [sarvasya](sarvasya) [śāstra+vastu+niyāmakaḥ](śāstravastuniyāmakaḥ)
+[therefore](tad) [one](eka) [alone](eva) [of-all](sarvasya) [scripture+subject+regulator](śāstravastu+niyāmakaḥ)
 
 ## mukta-m0-p52-v1295
-[kim](kimidaṃ) [idam](idam) [śāstra+bhedena](śāstrabhedena) [buddhi+vibhrama+vaiśasam](buddhivibhramavaiśasam)
+[what](kim) [this](idaṃ) [by-scripture+difference](śāstrabhedena) [intellect+confusion+poison](buddhivibhrama+vaiśasam)
 
 ## mukta-m0-p52-v1296
-[adhruvatvam](adhruvatvamathovakti) [atha](atha) [uvakti](uvakti) [satyatvam](satyatvaṃ) [jagataḥ](jagatoparaḥ) [paraḥ](paraḥ)
+[impermanence](adhruvatvam) [or](atha) [declares](uvakti) [reality](satyatvaṃ) [of-the-world](jagato) [another](aparaḥ)
 
 ## mukta-m0-p52-v1297
-[paramāṇu](paramāṇu) [svarūpatvam](svarūpatvamanyovadati) [anyaḥ](anyaḥ) [vadati](vadati) [śaṃkara](śaṃkara)
+[atom+nature](paramāṇu+svarūpatvam) [another](anyo) [declares](vadati) [O-Śaṅkara](śaṃkara)
 
 ## mukta-m0-p52-v1298
-[kasya](kasyavāśaṃ) [vā](vā) [śaṃ](śaṃ) [karamate](karamate) [tātvikatvam](tātvikatvamahaṃstuve) [aham](aham) [stuve](stuve)
+[of-whom](kasya) [or](vā) [authority](śaṃ) [in-mind](karamate) [principle-ness](tātvikatvam) [I](ahaṃ) [praise](stuve)
 
 ## mukta-m0-p52-v1299
-[sarvatra](sarvatra) [bhinnāḥ](bhinnamokṣāśca) [mokṣāḥ](mokṣāḥ) [ca](ca) [bhinnāḥ](bhinnāḥ) [sarvatra](sarvatra) [ca](ca) [kriyāḥ](kriyāḥ)
+[everywhere](sarvatra) [different+liberations](bhinna+mokṣāś) [and](ca) [different](bhinnāḥ) [everywhere](sarvatra) [and](ca) [practices](kriyāḥ)
 
 ## mukta-m0-p52-v1300
-[kasiṃśca](kasiṃśca) [darśane](darśane) [deva](deva) [yat](yat) [puṇyatvena](puṇyatvena) [kīrttitam](kīrttitam)
+[in-which](kasiṃśca) [in-view](darśane) [O-god](deva) [what](yat) [as-merit](puṇyatvena) [is-celebrated](kīrttitam)
