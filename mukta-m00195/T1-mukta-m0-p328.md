@@ -2,7 +2,7 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p328-v8176
-[should-be-practiced](kartavyo) [left-hand+path](vāma+mārgaḥ) [destruction+bringing](kṣaya+āvahaḥ)
+[should-be-done](kartavyo) [left-hand+path](vāma+mārgaḥ) [destruction+bringing](kṣaya+āvahaḥ)
 
 ## mukta-m0-p328-v8177
 [vulva](bhagaḥ) [power](śaktiḥ) [ganges](gāṃgaṃ) [water](vāri) [water](jalaṃ) [considered](matam)
@@ -14,7 +14,7 @@
 [sin+destruction+for-the-sake-of](pāpa+kṣaya+arthaṃ) [going+for](gamanāya) [and](ca)
 
 ## mukta-m0-p328-v8180
-[kill](hana) [I-kill](hanāmi) [I](aham)
+[strike](hana) [I-strike](hanāmi) [I](aham)
 
 ## mukta-m0-p328-v8181
 [previous+birth](pūrva+janmani) [by-whom](yaiḥ) [left-hand-practitioners](vāmibhiḥ) [done](kṛtaṃ) [which](yat) [worship](upāsanam)
@@ -23,25 +23,25 @@
 [having-abandoned](tyaktvā) [vital-breaths](prāṇān) [they-go](yāṃti) [gods+abode](sura+ālayam)
 
 ## mukta-m0-p328-v8183
-[harsh](kaṭhoraṃ) [or](vā) [unpleasant](apriyaṃ) [not](na) [indeed](eva) [one-should-speak-well](su+saṃvadet)
+[harsh](kaṭhoraṃ) [or](vā) [unpleasant](apriyaṃ) [not](na) [indeed](eva) [one-should-speak-well](susaṃvadet)
 
 ## mukta-m0-p328-v8184
-[they](tāḥ) [and](ca) [to-be-enjoyed](bhoktavyāḥ) [this](eṣaḥ) [dharma](dharmaḥ) [eternal](sanātanaḥ)
+[they](tāḥ) [and](ca) [to-be-enjoyed](bhoktavyāḥ) [this](eṣaḥ) [duty](dharmaḥ) [eternal](sanātanaḥ)
 
 ## mukta-m0-p328-v8185
-[of-caṇḍāla-women](cāṇḍālīnām) [even](api) [of-women](strīṇāṃ) [touch+fault](sparśa+doṣaṃ) [not](na) [one-should-regard](mānayet)
+[of-cāṇḍāla-women](cāṇḍālīnām) [even](api) [of-women](strīṇāṃ) [touch+fault](sparśa+doṣaṃ) [not](na) [one-should-regard](mānayet)
 
 ## mukta-m0-p328-v8186
 [with-liquor](surayā) [oblation](homaḥ) [that](tat) [visibly](pratyakṣaṃ) [one-should-perform](samācaret)
 
 ## mukta-m0-p328-v8187
-[take](gṛhāṇa) [thus](iti) [mind+desired](manaḥ+abhīṣṭam) [which](yat) [one-should-worship](arcayet)
+[take](gṛhāṇa) [thus](iti) [mind+desired](manaḥ+abhīṣṭam) [to-whom](tu) [one-should-offer](yorcayet)
 
 ## mukta-m0-p328-v8188
 [they-stand](tiṣṭhanti) [deities](devatāḥ)
 
 ## mukta-m0-p328-v8189
-[pilgrimage+journey](tīrtha+yātrāṃ) [not](na) [one-should-make](kurvīta) [Ganges+bath](gaṅgā+snānaṃ) [not](na) [and](ca) [one-should-perform](ācaret)
+[pilgrimage+journey](tīrtha+yātrāṃ) [not](na) [one-should-do](kurvīta) [ganges+bathing](gaṅgā+snānaṃ) [not](na) [and](ca) [one-should-perform](ācaret)
 
 ## mukta-m0-p328-v8190
 [having-done](kṛtvā) [muttering](japan) [success](siddhim) [one-may-obtain](avāpnuyāt)
@@ -59,7 +59,7 @@
 [of-the-deity](devatāyāḥ) [one-should-perform](samācaret)
 
 ## mukta-m0-p328-v8195
-[one-should-make](kuryāt) [and](ca) [castor+oil](airaṇḍa+tailena) [in-absence](abhāve) [with-cow-ghee](kāpila+havyakaiḥ)
+[one-should-make](kuryāt) [and](ca) [castor+oil](airaṇḍa+tailena) [in-absence](abhāve) [with-cow-ghee+oblations](kāpila+havyakaiḥ)
 
 ## mukta-m0-p328-v8196
 [one-should-make](kuryāt) [eight+hundred+threads](aṣṭa+śata+sūtrāṇāṃ) [wick](vartikā) [considered](matā)
@@ -68,7 +68,7 @@
 [having-seen](dṛṣṭvā) [one-should-mutter](japet) [mantra](mantraṃ) [not](na) [elsewhere](anyataḥ) [but](tu) [one-should-look](vilokayet)
 
 ## mukta-m0-p328-v8198
-[different+sounds](bhinna+śabdāḥ) [practitioner](sādhakaṃ) [they-frighten](bhīṣayanti) [they](te)
+[various+sounds](bhinna+śabdāḥ) [practitioner](sādhakaṃ) [they-frighten](bhīṣayanti) [they](te)
 
 ## mukta-m0-p328-v8199
 [not](na) [other+gaze](anya+dṛṣṭiḥ) [one-should-see](prapaśyet) [lamp](dīpam) [alone](eva) [indeed](hi)
