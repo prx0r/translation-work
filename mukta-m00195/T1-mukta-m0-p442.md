@@ -5,16 +5,16 @@
 [thus](evaṃ) [by-a-few+months](katipayaiḥ+māsaiḥ) [barren+even](vandhyā+api) [obtains](labhate) [son](sutam)
 
 ## mukta-m0-p442-v11027
-[silence](maunaṃ) [having-done](kṛtvā) [should-drink](pibet) [woman](nārī) [before-rains](prāk+varṣāt) [obtains](labhate) [son](sutam)
+[silence](maunaṃ) [having-made](kṛtvā) [should-drink](pibet) [woman](nārī) [before-rains](prāk+varṣāt) [obtains](labhate) [son](sutam)
 
 ## mukta-m0-p442-v11028
-[having-conquered](parājitya) [by-self+disc](ātma+cakreṇa) [Kāśī](kāśīṃ) [by-its-born+fire](tat+bhava+vahninā)
+[having-conquered](parājitya) [by-one's-own+disc](ātma+cakreṇa) [Kāśī](kāśīṃ) [by-its-born+fire](tat+bhava+vahninā)
 
 ## mukta-m0-p442-v11029
-[one-should-offer](juhuyāt) [at-night](niśi) [with-white-mustard-seeds](siddhārthaiḥ) [with-one's-own+oil+mixed](svīya+taila+vilolitaiḥ)
+[one-should-offer](juhuyāt) [at-night](niśi) [with-white-mustard-seeds](siddhārthaiḥ) [with-one's-own+oil+smeared](svīya+taila+vilolitaiḥ)
 
 ## mukta-m0-p442-v11030
-[magical-rite](kṛtyā) [again](bhūyaḥ) [that-very](tam+eva) [quickly](āśu) [one-should-destroy](kṣapayet) [not](na) [here](atra) [doubt](saṃśayaḥ)
+[the-magical-rite](kṛtyā) [again](bhūyaḥ) [that-very](tam+eva) [quickly](āśu) [one-should-destroy](kṣapayet) [not](na) [here](atra) [doubt](saṃśayaḥ)
 
 ## mukta-m0-p442-v11031
 [Ghaṇṭākarṇa](ghaṇṭākarṇaṃ) [and](ca) [with-both-hands](hastābhyāṃ) [touching](spṛśantaṃ) [one-should-remember](saṃsmaret) [Hari](harim)
@@ -23,10 +23,10 @@
 [for-all+sin+destruction](aśeṣa+pāpa+nāśa+arthaṃ) [for-nourishment](puṣṭi+arthaṃ) [and](ca) [one-should-mutter](japet) [likewise](tathā)
 
 ## mukta-m0-p442-v11033
-[running](dhāvamānaṃ) [enemy+host](ripu+gaṇam) [pursuing](anudhāvantam) [swift-going](āśugam)
+[running](dhāvamānaṃ) [enemy+host](ripu+gaṇam) [pursuing](anudhāvantam) [swift-going](āśu+gam)
 
 ## mukta-m0-p442-v11034
-[after-seven-days](saptāhāt) [of-enemies](vairiṇāṃ) [again](bhūyaḥ) [indeed](hi) [expulsion](uccāṭaḥ) [from-country](deśataḥ) [should-be](bhavet)
+[after-a-week](saptāhāt) [of-enemies](vairiṇāṃ) [again](bhūyaḥ) [indeed](hi) [expulsion](uccāṭaḥ) [from-country](deśataḥ) [would-be](bhavet)
 
 ## mukta-m0-p442-v11035
 [Kṛṣṇa](kṛṣṇaṃ) [having-meditated](dhyātvā) [ten-thousand-times](ayutaṃ) [muttered](japtaḥ) [mantra](manuḥ) [causing-expulsion](uccāṭa+kṛt) [of-enemy](ripoḥ)
@@ -38,10 +38,10 @@
 [enemy](śatruḥ) [death](nidhanam) [obtains](āpnoti) [nectar+eater+even](sudhā+bhakṣaḥ+api) [not](na) [otherwise](anyathā)
 
 ## mukta-m0-p442-v11038
-[at-night](yāminyām) [ten-thousand-times](ayutaṃ) [being-well](svasthaḥ) [enemy](ripuḥ) [to-Yama's+city](yama+puram) [should-go](vrajet)
+[in-the-night](yāminyām) [ten-thousand-times](ayutaṃ) [healthy](svasthaḥ) [enemy](ripuḥ) [to-Yama's+city](yama+puraṃ) [would-go](vrajet)
 
 ## mukta-m0-p442-v11039
-[thus](evaṃ) [oil+indeed](tailam+tu) [one-should-offer](juhuyāt) [in-cremation-ground](śmaśāne) [at-night](niśi) [in-killing-rite](māraṇe)
+[thus](evaṃ) [oil](tailam) [indeed](tu) [one-should-offer](juhuyāt) [in-cremation-ground](śmaśāne) [at-night](niśi) [in-killing-rite](māraṇe)
 
 ## mukta-m0-p442-v11040
 [and-one-should-offer](hunet+ca) [so-much](tāvat) [with-oblation](haviṣā) [for-that+sin+removal](tat+pātaka+nivṛttaye)
@@ -50,16 +50,16 @@
 [Kṛṣṇa](kṛṣṇaṃ) [meditating](dhyāyan) [muttering](japan) [a-hundred-thousand](lakṣaṃ) [from-all-sides](sarvataḥ) [victory](jayam) [one-obtains](āpnuyāt)
 
 ## mukta-m0-p442-v11042
-[having-meditated](dhyātvā) [of-dharma](dharmasya) [increase](vṛddhiḥ) [should-be](syāt) [and-yoga+accomplishment](yoga+siddhiḥ+ca) [is-born](jāyate)
+[having-meditated](dhyātvā) [of-dharma](dharmasya) [increase](vṛddhiḥ) [would-be](syāt) [and](ca) [yoga+accomplishment](yoga+siddhiḥ) [is-born](jāyate)
 
 ## mukta-m0-p442-v11043
 [with-three-sweets+joined](tri+svādu+yuktaiḥ) [a-hundred-thousand](lakṣaṃ) [who](yaḥ) [with-thorn+products](kaṇṭaka+prasavaiḥ) [offers](hunet)
 
 ## mukta-m0-p442-v11044
-[great-poet](mahā+kaviḥ) [he](saḥ) [lord-of-speech](vāg+īśaḥ) [Veda+Vedāṅga+versed](veda+vedāṅga+pāragaḥ)
+[great+poet](mahā+kaviḥ) [he](saḥ) [lord-of-speech](vāg+īśaḥ) [Veda+Vedāṅga+versed](veda+vedāṅga+pāragaḥ)
 
 ## mukta-m0-p442-v11045
-[body+house+city+village+dwelling+protection](deha+geha+pura+grāma+vāstu+rakṣā) [should-be](bhavet) [certainly](dhruvam)
+[body+house+city+village+dwelling+protection](deha+geha+pura+grāma+vāstu+rakṣā) [would-be](bhavet) [certainly](dhruvam)
 
 ## mukta-m0-p442-v11046
 [with-forest+wild](āraṇyaka+aruṇaiḥ) [with-flowers](puṣpaiḥ) [at-midday](madhyāhne) [according-to-rule](vidhinā) [one-should-worship](arcayet)
@@ -74,4 +74,4 @@
 [here](atra) [one-should-meditate](dhyāyet) [and](ca) [singing](gāyantaṃ) [Śrī+Kṛṣṇa](śrī+kṛṣṇaṃ) [people+enchanting](jana+mohanam)
 
 ## mukta-m0-p442-v11050
-[daily](anvahaṃ) [seven+hundred](sapta+śatakaṃ) [having-offered](hutvā) [that+ashes](tat+bhasma) [one-should-wear](dhārayet)
+[daily](anvahaṃ) [seven+hundred](sapta+śatakaṃ) [having-offered](hutvā) [its+ashes](tat+bhasma) [one-should-wear](dhārayet)
