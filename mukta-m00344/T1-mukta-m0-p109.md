@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p109-v2701
-[thus](evaṃ) [by-consciousness](citā) [illuminated](bhāsitaṃ) [indeed](tu) [object-of-cognition](cetyam) + [let-it-be](astu) [of-various-kinds](pṛthagvidham)
+[thus](evaṃ) [by-consciousness](citā) [illuminated](bhāsitaṃ) [indeed](tu) [the-object+let-it-be](cetyam+astu) [of-various-kinds](pṛthagvidham)
 
 ## mukta-m0-p109-v2702
-[by-light](āloka) + [illuminated](bhātam) [from-light](ālokāt) + [etc.](ādi) [as](yathā) [different](bhinnam) [thus](evaṃ) [from-consciousness](citaḥ) [different](bhinnaṃ) [object-of-cognition](cetyam) + [let-it-be](astu) + [thus](iti) + [meaning](arthaḥ)
+[light+appearing+light+etc.](āloka+bhātam+āloka+ādi) [as](yathā) [different](bhinnam) [thus](evaṃ) [from-consciousness](citaḥ) [different](bhinnam) [the-object+let-it-be+thus+meaning](cetyam+astu+iti+arthaḥ)
 
 ## mukta-m0-p109-v2703
-[now](atha) [and](ca) [previously](prāk) + [stated](abhihitaṃ) [by-Janaka](janakena) [by-the-great-souled](mahātmanā)
+[now](atha) [and](ca) [previously+stated](prāk+abhihitam) [by-Janaka](janakena) [by-the-great-souled](mahā+ātmanā)
 
 ## mukta-m0-p109-v2704
-[what](yat) + [was-stated](abhihitaṃ) [that](tat) [how](katham) + [thus](iti) [with-the-intervening](vyavahitena) [connection](sambandhaḥ)
+[what+was-stated](yat+abhihitam) [that](tat) [how+thus](katham+iti) [with-the-intervening](vyavahitena) [connection](sambandhaḥ)
 
 ## mukta-m0-p109-v2705
-[that](tat) + [indeed](eva) [non-conceptual](nirvikalpaṃ) [would-be](syāt) + [knowledge](jñānaṃ) [world](saṃsāra) + [destroying](nāśanam)
+[that+indeed](tat+eva) [without-conceptualization](nir+vikalpam) [may-be+knowledge](syāt+jñānam) [world+destruction](saṃsāra+nāśanam)
 
 ## mukta-m0-p109-v2706
-[world](saṃsāra) + [destroying](nāśanam) [through-recognition](pratyabhijñāna) + [by-means-of](dvārā) [world](saṃsāra) + [removing](nivartakam) + [thus](iti) + [meaning](arthaḥ)
+[world+destruction](saṃsāra+nāśanam) [through-recognition](pratyabhijñāna+dvārā) [world+removing+thus+meaning](saṃsāra+nivartakam+iti+arthaḥ)
 
 ## mukta-m0-p109-v2707
-[of-the-self](ātmanaḥ) [indeed](hi) [mind](manaḥ) [declared](proktaṃ) [instrument](karaṇaṃ) [in-knowledge](jñāna) + [and-action](karmaṇi)
+[of-the-self](ātmanaḥ) [indeed](hi) [mind](manaḥ) [declared](proktam) [instrument](karaṇam) [in-knowledge+and-action](jñāna+karmaṇi)
 
 ## mukta-m0-p109-v2708
-[in-knowledge](jñāna) + [and-activity](kriyāyām)
+[in-knowledge+activity](jñāna+kriyāyām)
 
 ## mukta-m0-p109-v2709
-[mind](manaḥ) [from-the-inert](jaḍāt) + [different](viśeṣaḥ) [would-be](syāt) + [of-the-self](ātmanaḥ) [O-lord](bhagavan) + [is-it-not](nanu)
+[mind](manaḥ) [from-the-inert+difference](jaḍāt+viśeṣaḥ) [may-be+of-the-self](syāt+ātmanaḥ) [O-lord+is-it-not](bhagavan+nanu)
 
 ## mukta-m0-p109-v2710
-[inertness](jaḍatva) + [occurrence](prasaktiḥ) + [thus](iti) + [he-says](āha) [-](-) [mind](mana) [thus](iti)
+[inertness+occurrence+thus+says](jaḍatva+prasaktiḥ+iti+āha) [-](-) [mind](manaḥ) [thus](iti)
 
 ## mukta-m0-p109-v2711
-[mind](mano) [liberation](mokṣa) [thus](iti) [and](ca) + [is-said](ucyata) [thus](iti) [meaning](bhāvaḥ) + [](]) [liberation](mokṣaḥ) [would-be](syāt) + [non-conceptual](nirvikalpakam)
+[mind](manaḥ) [liberation](mokṣaḥ) [thus](iti) [and+is-said](ca+ucyate) [thus](iti) [sense](bhāvaḥ) [end-bracket](]) [liberation](mokṣaḥ) [may-be+without-conceptualization](syāt+nir+vikalpakam)
 
 ## mukta-m0-p109-v2712
-[mind](mano) [liberation](mokṣa) [thus](iti) [and](ca) + [is-said](ucyata) [thus](iti) [meaning](bhāvaḥ) + [](]) [bondage](bandho) [liberation](mokṣa) [thus](iti)
+[mind](manaḥ) [liberation](mokṣaḥ) [thus](iti) [and+is-said](ca+ucyate) [thus](iti) [sense](bhāvaḥ) [end-bracket](]) [bondage](bandhaḥ) [liberation](mokṣaḥ) [thus](iti)
 
 ## mukta-m0-p109-v2713
-[of-the-non-conceptual](nirvikalpasya) [in-accomplishment](saṃsiddhau) + [even](api) [duality](dvaitaṃ) [indeed](tu) [remains](śiṣyate)
+[of-the-non-conceptual+even-on-accomplishment](nir+vikalpasya+saṃsiddhau+api) [duality](dvaitam) [indeed](tu) [remains](śiṣyate)
 
 ## mukta-m0-p109-v2714
-[not](na) + [indeed](hi) [error](bhrāntiḥ) + [unreal](asatyā) [would-be](syāt) + [that](tat) + [non-duality](advaitaṃ) [how](kathaṃ) [could-be](bhavet)
+[not+indeed](na+hi) [error+unreal](bhrāntiḥ+asatyā) [may-be+that+non-duality](syāt+tat+advaitam) [how](katham) [could-be](bhavet)
 
 ## mukta-m0-p109-v2715
-[all](sarvaṃ) [indeed](hi) [worldly](jāgataṃ) [thing](vastu) [stable](sthiram) + [effective-action](artha) + [producing](kriyākaram)
+[all](sarvam) [indeed](hi) [worldly](jāgatam) [thing](vastu) [stable+object+action+producing](sthiram+artha+kriyā+karam)
 
 ## mukta-m0-p109-v2716
-[all](sarvaṃ) [and](ca) [erroneous](bhrānti) + [cognition](vijñānaṃ) [error](bhrānti) + [and-non-error](abhrānti) + [distinction](bhidā) [how](katham)
+[all](sarvam) [and](ca) [error+cognition](bhrānti+vijñānam) [error+non-error+distinction](bhrānti+abhrānti+bhidā) [how](katham)
 
 ## mukta-m0-p109-v2717
-[knowledge](jñāna) + [difference](bheda) + [usage](vyavahāraḥ) [how](katham) + [thus](iti) + [he-says](āha) [-](-) [all](sarvam) + [thus](iti)
+[knowledge+difference+usage](jñāna+bheda+vyavahāraḥ) [how+thus+says](katham+iti+āha) [-](-) [all+thus](sarvam+iti)
 
 ## mukta-m0-p109-v2718
-[doubt](sandeha) [this](eṣa) [for-long](cirataḥ) [[]( [k,](k,) [kh:](kh:) [ceased](virato) []](]) [in-heart](hṛdi) [my](me) [revolves](parivartate)
+[doubt](sandehaḥ) [this](eṣaḥ) [for-long](cirataḥ) [variant-reading](k,kh:virato) [in-heart](hṛdi) [of-me](me) [revolves](parivartate)
 
 ## mukta-m0-p109-v2719
-[of-all](sarveṣām) + [of-one-form](ekarūpā) [error](bhrāntiḥ) + [or](vā) [how](kathaṃ) [would-be](syāt) + [thus](iti) + [he-says](āha) [-](-) [error](bhrāntiḥ) + [thus](iti)
+[of-all+one+form](sarveṣām+eka+rūpā) [error+or](bhrāntiḥ+vā) [how](katham) [may-be+thus+says](syāt+iti+āha) [-](-) [error+thus](bhrāntiḥ+iti)
 
 ## mukta-m0-p109-v2720
-[good](sādhu) + [question](praśna) + [delighted](prahṛṣṭa) + [souled](ātmā) [to-speak](pravaktum) + [began](upacakrame)
+[good+question+delighted+soul](sādhu+praśna+prahṛṣṭa+ātmā) [to-speak+began](pravaktum+upacakrame)
 
 ## mukta-m0-p109-v2721
-[all](samasta) + [knowing](vit) [all-knowing](sarvajñaḥ)
+[all+knowing](samasta+vit) [all+knowing](sarva+jñaḥ)
 
 ## mukta-m0-p109-v2722
-[as-long-as](yāvat) + [not](na) [of-mind](manasaḥ) + [satisfaction](toṣaḥ) + [so-long](tāvat) [again](bhūyo) [one-should-clarify](viśodhayet)
+[as-long-as+not](yāvat+na) [of-mind+satisfaction+so-long](manasaḥ+toṣaḥ+tāvat) [again](bhūyaḥ) [one-should-clarify](viśodhayet)
 
 ## mukta-m0-p109-v2723
-[-](-) [as-long-as](yāvat) + [thus](iti) [|](|) [by-doubt](saṃśaya) + [cessation](nivṛttyā) [satisfaction](toṣaḥ) [|](|) [one-should-clarify](viśodhayet) [one-should-investigate](vicārayet)
+[-](-) [as-long-as+thus](yāvat+iti) [|](|) [by-doubt+cessation](saṃśaya+nivṛttyā) [satisfaction](toṣaḥ) [|](|) [one-should-clarify](viśodhayet) [one-should-examine](vicārayet)
 
 ## mukta-m0-p109-v2724
-[of-living-beings](prāṇināṃ) [indeed](hi) [by-difference](bhedāt) + [of-intellect](buddhi) + [reasoning](tarkaḥ) [separately](pṛthak) + [situated](avasthitaḥ)
+[of-beings](prāṇinām) [indeed](hi) [by-intellect+difference+reasoning](buddhi+bhedāt+tarkaḥ) [separately+established](pṛthak+avasthitaḥ)
 
 ## mukta-m0-p109-v2725
-[to-be-known](jñātum) + [impossible](aśakyatvena) [by-single](sakṛt) + [instruction](upadeśena) [doubt](śaṅkā) + [non-cessation](anivṛtteḥ) + [thus](iti) [meaning](bhāvaḥ)
+[to-know+by-impossibility](jñātum+aśakyatvena) [by-single+instruction](sakṛt+upadeśena) [doubt+non-cessation+thus](śaṅkā+anivṛtteḥ+iti) [sense](bhāvaḥ)
