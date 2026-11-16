@@ -17,13 +17,13 @@
 [to-be-smelled](āghreyaḥ) [of-all-beings](sarva+bhūtānāṃ) [incense](dhūpaḥ) [for-the-nose](ghrāṇāya) [to-you](te) [is-offered](arpyate)
 
 ## mukta-m0-p138-v3431
-[with-outer-and-inner-light](sa+bāhya+abhyantara+jyotiḥ) [lamp](dīpaḥ) [this](ayaṃ) [let-it-be-accepted](pratigṛhyatām)
+[with-external-and-internal-light](sa+bāhya+abhyantara+jyotiḥ) [lamp](dīpaḥ) [this](ayaṃ) [let-it-be-accepted](pratigṛhyatām)
 
 ## mukta-m0-p138-v3432
-[I-offer](nivedayāmi) [with-devotion](bhaktyā) [this](idam) [enjoy](juṣāṇa) [o-supreme-lord](parama+īśvara)
+[I-offer](nivedayāmi) [with-devotion](bhaktyā) [this](idam) [accept](juṣāṇa) [o-supreme-lord](parama+īśvara)
 
 ## mukta-m0-p138-v3433
-[causing-all-satisfaction](sarva+tṛpti+karaṃ) [pure](svaccham) [I-offer](arpayāmi) [obeisance](namaḥ) [be](astu) [to-you](te)
+[causing-all-satisfaction](sarva+tṛpti+karaṃ) [pure](svaccham) [I-offer](arpayāmi) [obeisance](namaḥ) [let-it-be](astu) [to-you](te)
 
 ## mukta-m0-p138-v3434
 [betel](tāmbūlaṃ) [again](punaḥ) [sipping-water](ācamyaṃ) [having-given](dattvā) [salutation](vandanam) [one-should-perform](ācaret)
@@ -44,13 +44,13 @@
 [beginning-with-naivedyam](naivedyam+ityādinā) [to-god](devāya) [food-offering](naivedyaṃ) [one-should-give](dadyāt)
 
 ## mukta-m0-p138-v3440
-[or](vā) [one-should-give](dadyāt) [separately](pṛthak) [support](ādhāraṃ) [that-each-name](tat+tat+nāma) [uttering](samuccaran)
+[or](vā) [one-should-give](dadyāt) [separately](pṛthak) [support](ādhāraṃ) [uttering](samuccaran) [each-name](tat+tat+nāma)
 
 ## mukta-m0-p138-v3441
-[with-covering](sa+ācchādanaṃ) [house](gṛhaṃ) [having-sprinkled](prokṣya) [one-should-recite](paṭhet) [this](enaṃ) [with-folded-hands](kṛta+añjaliḥ)
+[with-covering](sa+ācchādanaṃ) [house](gṛhaṃ) [having-sprinkled](prokṣya) [one-should-recite](paṭhet) [this](enam) [with-folded-hands](kṛta+añjaliḥ)
 
 ## mukta-m0-p138-v3442
-[in-giving-abode](sthiti+dāneṣu) [to-deities](devatā) [like-mount-meru](sumeru+sadṛśaḥ) [become](bhava)
+[in-giving-support](devatā+sthiti+dāneṣu) [to-deities](devatā) [like-mount-meru](sumeru+sadṛśaḥ) [become](bhava)
 
 ## mukta-m0-p138-v3443
 [because](yat) [by-you](tvayā) [is-supported](vidhṛtaḥ) [god](devaḥ) [therefore](tasmāt) [you](tvaṃ) [honored-by-gods](sura+vanditaḥ)
@@ -59,16 +59,16 @@
 [of-him-whose-body-is-held-by-māyā](māyā+vidhṛta+dehasya) [of-that](tasya) [of-the-form](mūrteḥ) [because-of-supporting](vidhāraṇāt)
 
 ## mukta-m0-p138-v3445
-[granting-all-desires](sarva+kāma+pradaḥ) [having-become](bhūtvā) [peace](śāntiṃ) [to-me](me) [make](kuru) [to-you](te) [obeisance](namaḥ)
+[becoming-granter-of-all-desires](sarva+kāma+pradaḥ) [having-become](bhūtvā) [peace](śāntiṃ) [to-me](me) [make](kuru) [to-you](te) [obeisance](namaḥ)
 
 ## mukta-m0-p138-v3446
-[of-oneself](ātmanaḥ) [desire](kāmam) [having-in-mind](uddiśya) [should-give](dadyāt) [to-god](devāya) [the-practitioner](sādhakaḥ)
+[of-oneself](ātmanaḥ) [desire](kāmam) [having-intended](uddiśya) [should-give](dadyāt) [to-god](devāya) [practitioner](sādhakaḥ)
 
 ## mukta-m0-p138-v3447
-[this](enaṃ) [which](kaṃ) [one-should-recite](paṭhet) [thus](iti) [in-expectation-of-inquiry](ākāṅkṣāyām) [he-says](āha) [beginning-with-geha-tvam](geha+tvam+ityādi)
+[this](enam) [which](kaṃ) [one-should-recite](paṭhet) [thus](iti) [in-expectation-of-inquiry](ākāṅkṣāyām) [he-says](āha) [beginning-with-geha-tvam](geha+tvam+ityādi)
 
 ## mukta-m0-p138-v3448
-[in-the-belly](kukṣau) [in-the-abdomen](udare)
+[in-the-belly](kukṣau) [in-the-stomach](udare)
 
 ## mukta-m0-p138-v3449
 [one-should-give](dadyāt)
