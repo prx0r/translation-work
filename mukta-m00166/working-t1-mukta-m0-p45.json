@@ -12,15 +12,23 @@
 },
 {
 "surface": "keśī",
-"quick_gloss": "haired"
+"quick_gloss": "haired-one"
+},
+{
+"surface": "sukeśī",
+"quick_gloss": "goddess"
 },
 {
 "surface": "su",
-"quick_gloss": "beautiful"
+"quick_gloss": "fair"
 },
 {
 "surface": "keśī",
-"quick_gloss": "haired-one"
+"quick_gloss": "tressed"
+},
+{
+"surface": "sukeśī",
+"quick_gloss": "deity"
 }
 ]
 },
@@ -50,6 +58,26 @@
 {
 "surface": "kaceśāḥ",
 "quick_gloss": "hair-lord"
+},
+{
+"surface": "sukeśī",
+"quick_gloss": "sukeśī"
+},
+{
+"surface": "maheśī",
+"quick_gloss": "maheśī"
+},
+{
+"surface": "kacat",
+"quick_gloss": "radiant"
+},
+{
+"surface": "sat",
+"quick_gloss": "excellent"
+},
+{
+"surface": "kaceśāḥ",
+"quick_gloss": "hair-ruler"
 }
 ]
 },
@@ -62,11 +90,15 @@
 "tokens": [
 {
 "surface": "su",
-"quick_gloss": "good"
+"quick_gloss": "well"
 },
 {
 "surface": "liṅgā",
-"quick_gloss": "mark"
+"quick_gloss": "marked"
+},
+{
+"surface": "suliṅgā",
+"quick_gloss": "auspicious-sign"
 },
 {
 "surface": "su",
@@ -74,7 +106,11 @@
 },
 {
 "surface": "liṅgā",
-"quick_gloss": "mark-one"
+"quick_gloss": "emblem"
+},
+{
+"surface": "suliṅgā",
+"quick_gloss": "goddess"
 }
 ]
 },
@@ -95,11 +131,19 @@
 },
 {
 "surface": "bhavatāt",
-"quick_gloss": "may-she-become"
+"quick_gloss": "may-she-be"
+},
+{
+"surface": "su",
+"quick_gloss": "well"
+},
+{
+"surface": "liṅgā",
+"quick_gloss": "marked"
 },
 {
 "surface": "suliṅgā",
-"quick_gloss": "good-marked-one"
+"quick_gloss": "auspicious-one"
 }
 ]
 },
@@ -119,12 +163,20 @@
 "quick_gloss": "form"
 },
 {
+"surface": "bhagarūpiṇī",
+"quick_gloss": "goddess"
+},
+{
 "surface": "bhaga",
-"quick_gloss": "vulva"
+"quick_gloss": "womb"
 },
 {
 "surface": "rūpiṇī",
-"quick_gloss": "form-one"
+"quick_gloss": "embodied"
+},
+{
+"surface": "bhagarūpiṇī",
+"quick_gloss": "deity"
 }
 ]
 },
@@ -137,19 +189,27 @@
 "tokens": [
 {
 "surface": "rdhīraiḥ",
-"quick_gloss": "by-the-firm"
+"quick_gloss": "by-the-wise"
 },
 {
 "surface": "niṣevyā",
 "quick_gloss": "to-be-worshipped"
 },
 {
-"surface": "bhagarūpiṇī",
-"quick_gloss": "vulva-formed"
+"surface": "bhaga",
+"quick_gloss": "vulva"
+},
+{
+"surface": "rūpiṇī",
+"quick_gloss": "formed"
 },
 {
 "surface": "sā",
 "quick_gloss": "she"
+},
+{
+"surface": "bhagarūpiṇī",
+"quick_gloss": "adorable-goddess"
 }
 ]
 },
@@ -169,12 +229,20 @@
 "quick_gloss": "seal"
 },
 {
+"surface": "yonimudrā",
+"quick_gloss": "sacred-gesture"
+},
+{
 "surface": "yoni",
-"quick_gloss": "womb"
+"quick_gloss": "source"
 },
 {
 "surface": "mudrā",
-"quick_gloss": "seal"
+"quick_gloss": "sign"
+},
+{
+"surface": "yonimudrā",
+"quick_gloss": "goddess"
 }
 ]
 },
@@ -190,8 +258,12 @@
 "quick_gloss": "she"
 },
 {
-"surface": "yonimudrā",
-"quick_gloss": "womb-seal"
+"surface": "yoni",
+"quick_gloss": "womb"
+},
+{
+"surface": "mudrā",
+"quick_gloss": "seal"
 },
 {
 "surface": "astu",
@@ -202,8 +274,12 @@
 "quick_gloss": "for-joy"
 },
 {
-"surface": "sudehā",
-"quick_gloss": "beautiful-bodied"
+"surface": "su",
+"quick_gloss": "beautiful"
+},
+{
+"surface": "dehā",
+"quick_gloss": "bodied"
 }
 ]
 },
@@ -223,12 +299,20 @@
 "quick_gloss": "seal"
 },
 {
+"surface": "mahāmudrā",
+"quick_gloss": "supreme-gesture"
+},
+{
 "surface": "mahā",
-"quick_gloss": "great"
+"quick_gloss": "mighty"
 },
 {
 "surface": "mudrā",
-"quick_gloss": "seal"
+"quick_gloss": "sign"
+},
+{
+"surface": "mahāmudrā",
+"quick_gloss": "goddess"
 }
 ]
 },
@@ -244,11 +328,11 @@
 "quick_gloss": "unity"
 },
 {
-"surface": "hetuḥ",
+"surface": "hetur",
 "quick_gloss": "cause"
 },
 {
-"surface": "dvayoḥ",
+"surface": "dvayor",
 "quick_gloss": "of-the-two"
 },
 {
@@ -256,12 +340,20 @@
 "quick_gloss": "sung"
 },
 {
-"surface": "mahāmudrā",
-"quick_gloss": "great-seal"
+"surface": "mahā",
+"quick_gloss": "great"
+},
+{
+"surface": "mudrā",
+"quick_gloss": "seal"
 },
 {
 "surface": "maheśvaraiḥ",
 "quick_gloss": "by-the-great-lords"
+},
+{
+"surface": "gītā",
+"quick_gloss": "proclaimed"
 }
 ]
 },
@@ -281,12 +373,20 @@
 "quick_gloss": "moving"
 },
 {
+"surface": "khecarī",
+"quick_gloss": "sky-wanderer"
+},
+{
 "surface": "khe",
-"quick_gloss": "sky"
+"quick_gloss": "ether"
 },
 {
 "surface": "carī",
-"quick_gloss": "moving-one"
+"quick_gloss": "roaming"
+},
+{
+"surface": "khecarī",
+"quick_gloss": "goddess"
 }
 ]
 },
@@ -302,8 +402,12 @@
 "quick_gloss": "movement"
 },
 {
-"surface": "khecarī",
-"quick_gloss": "sky-moving"
+"surface": "khe",
+"quick_gloss": "sky"
+},
+{
+"surface": "carī",
+"quick_gloss": "moving"
 },
 {
 "surface": "iyaṃ",
@@ -318,16 +422,16 @@
 "quick_gloss": "beautiful"
 },
 {
-"surface": "khe",
+"surface": "khe'",
 "quick_gloss": "in-sky"
 },
 {
-"surface": "aciraṃ",
+"surface": "ciraṃ",
 "quick_gloss": "long"
 },
 {
 "surface": "cinmaye",
-"quick_gloss": "in-consciousness-filled"
+"quick_gloss": "in-consciousness"
 },
 {
 "surface": "naḥ",
@@ -351,12 +455,20 @@
 "quick_gloss": "going"
 },
 {
+"surface": "khagagāminī",
+"quick_gloss": "sky-traveler"
+},
+{
 "surface": "khaga",
-"quick_gloss": "sky"
+"quick_gloss": "bird"
 },
 {
 "surface": "gāminī",
-"quick_gloss": "going-one"
+"quick_gloss": "moving"
+},
+{
+"surface": "khagagāminī",
+"quick_gloss": "goddess"
 }
 ]
 },
@@ -368,7 +480,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "khagaḥ",
+"surface": "khago",
 "quick_gloss": "sky-goer"
 },
 {
@@ -376,7 +488,7 @@
 "quick_gloss": "always"
 },
 {
-"surface": "aviśrāntaḥ",
+"surface": "aviśrānto",
 "quick_gloss": "unresting"
 },
 {
@@ -388,8 +500,12 @@
 "quick_gloss": "she"
 },
 {
-"surface": "khagagāminī",
-"quick_gloss": "sky-going"
+"surface": "khaga",
+"quick_gloss": "sky"
+},
+{
+"surface": "gāminī",
+"quick_gloss": "going"
 }
 ]
 },
@@ -409,12 +525,20 @@
 "quick_gloss": "splendor"
 },
 {
+"surface": "madhuśrīḥ",
+"quick_gloss": "sweet-glory"
+},
+{
 "surface": "madhu",
-"quick_gloss": "honey"
+"quick_gloss": "nectar"
 },
 {
 "surface": "śrīḥ",
-"quick_gloss": "splendor"
+"quick_gloss": "beauty"
+},
+{
+"surface": "madhuśrīḥ",
+"quick_gloss": "goddess"
 }
 ]
 },
@@ -446,8 +570,12 @@
 "quick_gloss": "cherished"
 },
 {
-"surface": "madhuśrīḥ",
-"quick_gloss": "honey-splendor"
+"surface": "madhu",
+"quick_gloss": "honey"
+},
+{
+"surface": "śrīḥ",
+"quick_gloss": "splendor"
 },
 {
 "surface": "śriye",
@@ -471,12 +599,20 @@
 "quick_gloss": "creeper"
 },
 {
+"surface": "mādhavīvallī",
+"quick_gloss": "mādhavī-vine"
+},
+{
 "surface": "mādhavī",
-"quick_gloss": "spring"
+"quick_gloss": "vernal"
 },
 {
 "surface": "vallī",
-"quick_gloss": "creeper"
+"quick_gloss": "plant"
+},
+{
+"surface": "mādhavīvallī",
+"quick_gloss": "goddess"
 }
 ]
 },
@@ -492,12 +628,16 @@
 "quick_gloss": "may-make"
 },
 {
-"surface": "mādhavīvallī",
-"quick_gloss": "spring-creeper"
+"surface": "mādhavī",
+"quick_gloss": "spring"
+},
+{
+"surface": "vallī",
+"quick_gloss": "creeper"
 },
 {
 "surface": "nirbhramaṃ",
-"quick_gloss": "free-from-delusion"
+"quick_gloss": "without-confusion"
 },
 {
 "surface": "mama",
@@ -525,12 +665,20 @@
 "quick_gloss": "intoxicated"
 },
 {
+"surface": "madhumattā",
+"quick_gloss": "sweetly-mad"
+},
+{
 "surface": "madhu",
-"quick_gloss": "honey"
+"quick_gloss": "nectar"
 },
 {
 "surface": "mattā",
-"quick_gloss": "intoxicated-one"
+"quick_gloss": "delirious"
+},
+{
+"surface": "madhumattā",
+"quick_gloss": "goddess"
 }
 ]
 },
@@ -547,7 +695,7 @@
 },
 {
 "surface": "vilokana",
-"quick_gloss": "seeing"
+"quick_gloss": "looking"
 },
 {
 "surface": "bhāṣaṇa",
@@ -555,7 +703,7 @@
 },
 {
 "surface": "yānaṃ",
-"quick_gloss": "going"
+"quick_gloss": "moving"
 },
 {
 "surface": "saṃracayati",
@@ -566,8 +714,16 @@
 "quick_gloss": "arisen"
 },
 {
+"surface": "madhu",
+"quick_gloss": "honey"
+},
+{
+"surface": "mattā",
+"quick_gloss": "intoxicated"
+},
+{
 "surface": "madhumattā",
-"quick_gloss": "honey-intoxicated"
+"quick_gloss": "she"
 }
 ]
 },
@@ -587,12 +743,20 @@
 "quick_gloss": "exalted"
 },
 {
+"surface": "madoddhatā",
+"quick_gloss": "proudly-intoxicated"
+},
+{
 "surface": "mada",
-"quick_gloss": "intoxication"
+"quick_gloss": "passion"
 },
 {
 "surface": "uddhatā",
-"quick_gloss": "exalted-one"
+"quick_gloss": "uplifted"
+},
+{
+"surface": "madoddhatā",
+"quick_gloss": "goddess"
 }
 ]
 },
@@ -604,8 +768,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "madoddhataḥ",
-"quick_gloss": "intoxication-exalted"
+"surface": "mada",
+"quick_gloss": "intoxication"
+},
+{
+"surface": "uddhato",
+"quick_gloss": "exalted"
 },
 {
 "surface": "jātu",
@@ -620,16 +788,20 @@
 "quick_gloss": "whose"
 },
 {
-"surface": "subhaktaḥ",
+"surface": "subhakto",
 "quick_gloss": "good-devotee"
 },
 {
-"surface": "madoddhatā",
-"quick_gloss": "intoxication-exalted"
+"surface": "mada",
+"quick_gloss": "intoxication"
+},
+{
+"surface": "uddhatā",
+"quick_gloss": "exalted"
 },
 {
 "surface": "citram",
-"quick_gloss": "wonder"
+"quick_gloss": "wonderful"
 },
 {
 "surface": "iyaṃ",
@@ -657,16 +829,16 @@
 "quick_gloss": "elephant-goddess"
 },
 {
-"surface": "mātaṅga",
-"quick_gloss": "elephant"
-},
-{
-"surface": "ī",
-"quick_gloss": "goddess"
+"surface": "mātaṅgī",
+"quick_gloss": "mātaṅgī"
 },
 {
 "surface": "mātaṅgī",
-"quick_gloss": "Mātaṅgī"
+"quick_gloss": "outcaste-goddess"
+},
+{
+"surface": "mātaṅgī",
+"quick_gloss": "deity"
 }
 ]
 },
@@ -679,7 +851,7 @@
 "tokens": [
 {
 "surface": "ātaṅkaṃ",
-"quick_gloss": "fear"
+"quick_gloss": "terror"
 },
 {
 "surface": "vā",
@@ -687,7 +859,7 @@
 },
 {
 "surface": "aśaṅkam",
-"quick_gloss": "doubt"
+"quick_gloss": "fear"
 },
 {
 "surface": "ātmapradīpe",
@@ -695,7 +867,7 @@
 },
 {
 "surface": "mātaṅgī",
-"quick_gloss": "this-Mātaṅgī"
+"quick_gloss": "mātaṅgī"
 },
 {
 "surface": "iyaṃ",
@@ -703,11 +875,15 @@
 },
 {
 "surface": "matta",
-"quick_gloss": "with-intoxicated-elephant"
+"quick_gloss": "intoxicated"
 },
 {
-"surface": "mātaṅgayānā",
-"quick_gloss": "vehicle"
+"surface": "mātaṅga",
+"quick_gloss": "elephant"
+},
+{
+"surface": "yānā",
+"quick_gloss": "riding"
 }
 ]
 },
@@ -724,15 +900,23 @@
 },
 {
 "surface": "hastā",
-"quick_gloss": "hand"
+"quick_gloss": "in-hand"
+},
+{
+"surface": "śukahastā",
+"quick_gloss": "parrot-handed"
 },
 {
 "surface": "śuka",
-"quick_gloss": "parrot"
+"quick_gloss": "bird"
 },
 {
 "surface": "hastā",
-"quick_gloss": "handed-one"
+"quick_gloss": "holding"
+},
+{
+"surface": "śukahastā",
+"quick_gloss": "goddess"
 }
 ]
 }

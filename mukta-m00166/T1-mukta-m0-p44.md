@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p44-v1076
-[beautiful-ear](sukarṇa) [+tongue](rasanā) [having-become](bhūtā) [goddess](devī) [she](sā) [+also](api) [stainless](nirañjanā)
+[beautiful-ear+tongue](sukarṇarasanā) [become](bhūtā) [goddess](devī) [she](sā) [also](api) [stainless](nirañjanā)
 
 ## mukta-m0-p44-v1077
-[nose](nāsā) [olfactory-organ](nāsā) [sense-organ](nāsā) [nostril](nāsā)
+[nose](nāsā)
 
 ## mukta-m0-p44-v1078
-[fragrance](āmoda) [+multitude](saṃghaṃ) [of-all](sakalasya) [who](yā) [+also](api) [destroys](nāseti) [she](sā) [some](kāpi) [+is-inferred](anumīyate) [+here](atra)
+[fragrance+multitude](āmodasaṃghaṃ) [of-all](sakalasya) [who](yā) [also](api) [destroys](nāseti) [she](sā) [some](kāpi) [is-inferred](anumīyate) [here](atra)
 
 ## mukta-m0-p44-v1079
-[eye](cakṣuḥ) [visual-organ](cakṣuḥ) [sight](cakṣuḥ) [sense](cakṣuḥ)
+[eye](cakṣuḥ)
 
 ## mukta-m0-p44-v1080
-[of-joy](prīteḥ) [+sole](eka) [+cause](nidānaṃ) [she](sā) [eye](cakṣuḥ) [+thus](iti) [+is-called](abhidhīyate)
+[of-joy](prīteḥ) [one+cause](ekanidānaṃ) [she](sā) [eye](cakṣuḥ) [thus](iti) [is-called](abhidhīyate)
 
 ## mukta-m0-p44-v1081
-[touch-possessing](sparśavatī) [tangible](sparśavatī) [having-touch](sparśavatī) [she](sparśavatī)
+[touch-possessing](sparśavatī)
 
 ## mukta-m0-p44-v1082
-[māyā](māyā) [somewhere](kvāpi) [at-any-time](kadāpi) [+this](eṣā) [being](satī) [touch-possessing](sparśavatī) [is-considered](matā)
+[māyā](māyā) [somewhere](kvāpi) [ever](kadāpi) [this](eṣā) [being](satī) [touch-possessing](sparśavatī) [considered](matā)
 
 ## mukta-m0-p44-v1083
-[taste](rasā) [flavor](rasā) [essence](rasā) [sap](rasā)
+[p.-149](p.) [149](149)) [taste](rasā)
 
 ## mukta-m0-p44-v1084
-[full](pūrṇaṃ) [essence](rasaṃ) [she](sā) [may-make-taste](rasayet) [+taste](rasā) [people](janam)
+[full](pūrṇaṃ) [essence](rasaṃ) [she](sā) [may-make-taste](rasayet) [taste](rasā) [people](janam)
 
 ## mukta-m0-p44-v1085
-[fragrance-loving](gandhapriyā) [scent-fond](gandhapriyā) [perfume-loving](gandhapriyā) [she](gandhapriyā)
+[fragrance-loving](gandhapriyā)
 
 ## mukta-m0-p44-v1086
-[by-whose](yat) [+grace](prasattyā) [good-fragrance](sugandhaṃ) [she](sā) [may-give](deyād) [fragrance-loving](gandhapriyā) [fame](yaśaḥ)
+[by-whose+grace](yatprasattyā) [good-fragrance](sugandhaṃ) [she](sā) [may-give](deyād) [fragrance-loving](gandhapriyā) [fame](yaśaḥ)
 
 ## mukta-m0-p44-v1087
-[well-fragrant](sugandhā) [sweet-scented](sugandhā) [fragrant-one](sugandhā) [she](sugandhā)
+[well-fragrant](sugandhā)
 
 ## mukta-m0-p44-v1088
-[well-fragrant](sugandhā) [+indeed](astu) [in-world](bhava) [+arisen](udbhūte) [māyā](māyā) [+bad-smell](durgandha) [+remover](hārikā)
+[well-fragrant](sugandhā) [indeed](astu) [in-world+arisen](bhavodbhūte) [māyā+bad-smell+remover](māyādurgandhahārikā)
 
 ## mukta-m0-p44-v1089
-[pleasant-to-touch](susparśā) [soft-touch](susparśā) [good-contact](susparśā) [she](susparśā)
+[good-touch](susparśā)
 
 ## mukta-m0-p44-v1090
-[by-whose](yat) [+foot](pāda) [+dust](reṇu) [+contact](saṃsparśāt) [pleasant-to-touch](susparśā) [+may-be](astu) [for-welfare](śivāya) [of-you](vaḥ)
+[by-whose+foot+dust+touch](yatpādareṇusaṃsparśāt) [good-touch](susparśā) [may-be](astu) [for-welfare](śivāya) [of-you](vaḥ)
 
 ## mukta-m0-p44-v1091
-[mind-going](manogatiḥ) [thought-moving](manogatiḥ) [mental-course](manogatiḥ) [she](manogatiḥ)
+[mind-going](manogatiḥ)
 
 ## mukta-m0-p44-v1092
-[thus-called](tyākhyā) [goddess](devī) [always](sadā) [in-my](me) [in-mind](manasi) [may-dwell](nivasatād) [day](vāsara) [+splendor](śrīḥ) [+like](iva) [+in-sun](arke)
+[thus-called](tyākhyā) [goddess](devī) [always](sadā) [in-my](me) [in-mind](manasi) [may-dwell](nivasatād) [day-splendor](vāsaraśrīḥ) [as](iva) [in-sun](arke)
 
 ## mukta-m0-p44-v1093
-[musk](mṛganābhiḥ) [deer-navel](mṛganābhiḥ) [fragrance](mṛganābhiḥ) [substance](mṛganābhiḥ)
+[p.-150](p.) [150](150)) [musk](mṛganābhiḥ)
 
 ## mukta-m0-p44-v1094
-[nose](ghrāṇa) [+sole](eka) [+path](mārgaṃ) [creates](vidadhāti) [mind](cetaḥ) [is-proclaimed](prakīrtyate) [she](sā) [musk](mṛganābhiḥ) [+by-the-noble](āryaiḥ)
+[nose+only+path](ghrāṇaikamārgaṃ) [creates](vidadhāti) [mind](cetaḥ) [is-proclaimed](prakīrtyate) [she](sā) [musk](mṛganābhiḥ) [by-the-noble](āryaiḥ)
 
 ## mukta-m0-p44-v1095
-[deer-eyed](mṛgākṣī) [fawn-eyed](mṛgākṣī) [doe-eyed](mṛgākṣī) [she](mṛgākṣī)
+[deer-eyed](mṛgākṣī)
 
 ## mukta-m0-p44-v1096
-[this](sā) [+indeed](iyaṃ) [some](kāpi) [deer-eyed](mṛgākṣī) [for-us](no) [may-be](bhūyāt) [+before-eyes](akṣyagra) [+going](gā) [always](sadā)
+[this](sā) [this](iyaṃ) [some](kāpi) [deer-eyed](mṛgākṣī) [for-us](no) [may-be](bhūyāt) [before-eyes+going](akṣyagragā) [always](sadā)
 
 ## mukta-m0-p44-v1097
-[camphor](karpūra) [+fragrance](āmoda) [+bearing](dhāriṇī) [camphor-scented](karpūrāmodadhāriṇī) [she](karpūrāmodadhāriṇī) [holder](karpūrāmodadhāriṇī)
+[camphor+fragrance+bearing](karpūrāmodadhāriṇī)
 
 ## mukta-m0-p44-v1098
-[may-perish](vinaśyati) [for-welfare](śivāya) [+may-be](astu) [camphor](karpūra) [+fragrance](āmoda) [+bearing](dhāriṇī)
+[may-it-perish](vinaśyati) [for-welfare](śivāya) [may-be](astu) [camphor+fragrance+bearing](karpūrāmodadhāriṇī)
 
 ## mukta-m0-p44-v1099
-[lotus-born](padmayoniḥ) [lotus-source](padmayoniḥ) [lotus-womb](padmayoniḥ) [she](padmayoniḥ)
+[lotus-born](padmayoniḥ)
 
 ## mukta-m0-p44-v1100
-[womb](yoni) [+entry](praveśa) [+bad-state](durveśa) [+face](mukhaṃ) [suffering](duḥkhaṃ) [may-remove](vyapohatām)
+[womb+entry+bad-state+face](yonipraveśadurveśamukhaṃ) [suffering](duḥkhaṃ) [may-remove](vyapohatām)

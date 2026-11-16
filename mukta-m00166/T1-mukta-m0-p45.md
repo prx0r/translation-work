@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p45-v1101
-[beautiful](su) [haired](keśī) [beautiful](su) [haired-one](keśī)
+[beautiful](su)+[haired-one](keśī) [goddess](sukeśī) [fair](su)+[tressed](keśī) [deity](sukeśī)
 
 ## mukta-m0-p45-v1102
-[beautiful-haired](sukeśī) [great-goddess](maheśī) [shining](kacat) [true](sat) [hair-lord](kaceśāḥ)
+[beautiful-haired](sukeśī)+[great-goddess](maheśī)+[shining](kacat)+[true](sat)+[hair-lord](kaceśāḥ) [sukeśī](sukeśī)+[maheśī](maheśī) [radiant](kacat)+[excellent](sat) [hair-ruler](kaceśāḥ)
 
 ## mukta-m0-p45-v1103
-[good](su) [mark](liṅgā) [good](su) [mark-one](liṅgā)
+[well](su)+[marked](liṅgā) [auspicious-sign](suliṅgā) [good](su)+[emblem](liṅgā) [goddess](suliṅgā)
 
 ## mukta-m0-p45-v1104
-[hidden](guptā) [helper](sahāyī) [may-she-become](bhavatāt) [good-marked-one](suliṅgā)
+[hidden](guptā) [helper](sahāyī)+[may-she-be](bhavatāt) [well](su)+[marked](liṅgā) [auspicious-one](suliṅgā)
 
 ## mukta-m0-p45-v1105
-[vulva](bhaga) [form](rūpiṇī) [vulva](bhaga) [form-one](rūpiṇī)
+[vulva](bhaga)+[form](rūpiṇī) [goddess](bhagarūpiṇī) [womb](bhaga)+[embodied](rūpiṇī) [deity](bhagarūpiṇī)
 
 ## mukta-m0-p45-v1106
-[by-the-firm](rdhīraiḥ) [to-be-worshipped](niṣevyā) [vulva-formed](bhagarūpiṇī) [she](sā)
+[by-the-wise](rdhīraiḥ)+[to-be-worshipped](niṣevyā) [vulva](bhaga)+[formed](rūpiṇī) [she](sā) [adorable-goddess](bhagarūpiṇī)
 
 ## mukta-m0-p45-v1107
-[womb](yoni) [seal](mudrā) [womb](yoni) [seal](mudrā)
+[womb](yoni)+[seal](mudrā) [sacred-gesture](yonimudrā) [source](yoni)+[sign](mudrā) [goddess](yonimudrā)
 
 ## mukta-m0-p45-v1108
-[she](sā) [womb-seal](yonimudrā) [may-be](astu) [for-joy](mude) [beautiful-bodied](sudehā)
+[she](sā) [womb](yoni)+[seal](mudrā)+[may-be](astu) [for-joy](mude) [beautiful](su)+[bodied](dehā)
 
 ## mukta-m0-p45-v1109
-[great](mahā) [seal](mudrā) [great](mahā) [seal](mudrā)
+[great](mahā)+[seal](mudrā) [supreme-gesture](mahāmudrā) [mighty](mahā)+[sign](mudrā) [goddess](mahāmudrā)
 
 ## mukta-m0-p45-v1110
-[unity](aikya) [cause](hetuḥ) [of-the-two](dvayoḥ) [sung](gītā) [great-seal](mahāmudrā) [by-the-great-lords](maheśvaraiḥ)
+[unity](aikya)+[cause](hetur)+[of-the-two](dvayor)+[sung](gītā) [great](mahā)+[seal](mudrā) [by-the-great-lords](maheśvaraiḥ) [proclaimed](gītā)
 
 ## mukta-m0-p45-v1111
-[sky](khe) [moving](carī) [sky](khe) [moving-one](carī)
+[sky](khe)+[moving](carī) [sky-wanderer](khecarī) [ether](khe)+[roaming](carī) [goddess](khecarī)
 
 ## mukta-m0-p45-v1112
-[movement](sañcāraṃ) [sky-moving](khecarī) [this](iyaṃ) [may-bestow](vitaratu) [beautiful](ruciraṃ) [in-sky](khe) [long](aciraṃ) [in-consciousness-filled](cinmaye) [to-us](naḥ)
+[movement](sañcāraṃ) [sky](khe)+[moving](carī)+[this](iyaṃ) [may-bestow](vitaratu) [beautiful](ruciraṃ) [in-sky](khe')+[long](ciraṃ) [in-consciousness](cinmaye) [to-us](naḥ)
 
 ## mukta-m0-p45-v1113
-[sky](khaga) [going](gāminī) [sky](khaga) [going-one](gāminī)
+[sky](khaga)+[going](gāminī) [sky-traveler](khagagāminī) [bird](khaga)+[moving](gāminī) [goddess](khagagāminī)
 
 ## mukta-m0-p45-v1114
-[sky-goer](khagaḥ) [always](nityam) [unresting](aviśrāntaḥ) [sun](bhānuḥ) [she](sā) [sky-going](khagagāminī)
+[sky-goer](khago) [always](nityam)+[unresting](aviśrānto) [sun](bhānuḥ) [she](sā) [sky](khaga)+[going](gāminī)
 
 ## mukta-m0-p45-v1115
-[honey](madhu) [splendor](śrīḥ) [honey](madhu) [splendor](śrīḥ)
+[honey](madhu)+[splendor](śrīḥ) [sweet-glory](madhuśrīḥ) [nectar](madhu)+[beauty](śrīḥ) [goddess](madhuśrīḥ)
 
 ## mukta-m0-p45-v1116
-[always](sadā) [may-be](bhavatu) [goddess](devatā) [my](mama) [cherished](matā) [honey-splendor](madhuśrīḥ) [for-prosperity](śriye)
+[always](sadā) [may-be](bhavatu) [goddess](devatā) [my](mama) [cherished](matā) [honey](madhu)+[splendor](śrīḥ) [for-prosperity](śriye)
 
 ## mukta-m0-p45-v1117
-[spring](mādhavī) [creeper](vallī) [spring](mādhavī) [creeper](vallī)
+[spring](mādhavī)+[creeper](vallī) [mādhavī-vine](mādhavīvallī) [vernal](mādhavī)+[plant](vallī) [goddess](mādhavīvallī)
 
 ## mukta-m0-p45-v1118
-[may-make](karotu) [spring-creeper](mādhavīvallī) [free-from-delusion](nirbhramaṃ) [my](mama) [mind](mānasam)
+[may-make](karotu) [spring](mādhavī)+[creeper](vallī) [without-confusion](nirbhramaṃ) [my](mama) [mind](mānasam)
 
 ## mukta-m0-p45-v1119
-[honey](madhu) [intoxicated](mattā) [honey](madhu) [intoxicated-one](mattā)
+[honey](madhu)+[intoxicated](mattā) [sweetly-mad](madhumattā) [nectar](madhu)+[delirious](mattā) [goddess](madhumattā)
 
 ## mukta-m0-p45-v1120
-[full](pūrṇa) [seeing](vilokana) [speaking](bhāṣaṇa) [going](yānaṃ) [accomplishes](saṃracayati) [arisen](uditā) [honey-intoxicated](madhumattā)
+[full](pūrṇa)+[looking](vilokana)+[speaking](bhāṣaṇa)+[moving](yānaṃ) [accomplishes](saṃracayati)+[arisen](uditā) [honey](madhu)+[intoxicated](mattā) [she](madhumattā)
 
 ## mukta-m0-p45-v1121
-[intoxication](mada) [exalted](uddhatā) [intoxication](mada) [exalted-one](uddhatā)
+[intoxication](mada)+[exalted](uddhatā) [proudly-intoxicated](madoddhatā) [passion](mada)+[uplifted](uddhatā) [goddess](madoddhatā)
 
 ## mukta-m0-p45-v1122
-[intoxication-exalted](madoddhataḥ) [ever](jātu) [not](na) [whose](yat) [good-devotee](subhaktaḥ) [intoxication-exalted](madoddhatā) [wonder](citram) [this](iyaṃ) [for-prosperity](śriye) [may-be](stāt)
+[intoxication](mada)+[exalted](uddhato) [ever](jātu) [not](na) [whose](yat)+[good-devotee](subhakto) [intoxication](mada)+[exalted](uddhatā) [wonderful](citram)+[this](iyaṃ) [for-prosperity](śriye) [may-be](stāt)
 
 ## mukta-m0-p45-v1123
-[elephant-goddess](mātaṅgī) [elephant](mātaṅga) [goddess](ī) [Mātaṅgī](mātaṅgī)
+[elephant-goddess](mātaṅgī) [mātaṅgī](mātaṅgī) [outcaste-goddess](mātaṅgī) [deity](mātaṅgī)
 
 ## mukta-m0-p45-v1124
-[fear](ātaṅkaṃ) [or](vā) [doubt](aśaṅkam) [in-self-lamp](ātmapradīpe) [this-Mātaṅgī](mātaṅgī) [this](iyaṃ) [with-intoxicated-elephant](matta) [vehicle](mātaṅgayānā)
+[terror](ātaṅkaṃ) [or](vā)+[fear](aśaṅkam)+[in-self-lamp](ātmapradīpe) [mātaṅgī](mātaṅgī)+[this](iyaṃ) [intoxicated](matta)+[elephant](mātaṅga)+[riding](yānā)
 
 ## mukta-m0-p45-v1125
-[parrot](śuka) [hand](hastā) [parrot](śuka) [handed-one](hastā)
+[parrot](śuka)+[in-hand](hastā) [parrot-handed](śukahastā) [bird](śuka)+[holding](hastā) [goddess](śukahastā)
