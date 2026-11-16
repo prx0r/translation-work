@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p219-v5451
-[four-armed](caturbhujaḥ) [three-eyed](triṇetraḥ) [and](ca) [with-matted-hair-crown](kapardamakuṭānvitaḥ)
+[four-armed](caturbhujas) [three-eyed](triṇetraś) [and](ca) [with-matted-hair+diadem+endowed](kapardamakuṭānvitaḥ)
 
 ## mukta-m0-p219-v5452
-[then](tataḥ) [raised](uddhṛta) [with-sharp-teeth](tīkṣṇadaṃṣṭraḥ) [sharp-nosed](ugranāsikaḥ)
+[then](tat) [raised](oddhṛta) [with-true+eye+foot](sadakṣāṃghris) [sharp+fanged](tīkṣṇadaṃṣṭro) [fierce+nosed](granāsikaḥ)
 
 ## mukta-m0-p219-v5453
-[in-right-hand](dakṣahasta) [axe](paraśuḥ) [and](atha) [noose](nāgapāśaḥ) [in-left](vāmagaḥ)
+[right+hand+placed](dakṣahastastha) [axe](paraśur) [serpent+noose](nāgapāśo) [then](atha) [left+going](vāmagaḥ)
 
 ## mukta-m0-p219-v5454
-[trident](śūlaṃ) [downward-facing](adhomukhaṃ) [said](proktaṃ) [in-kālakuṇḍa](kālakuṇḍastha) [or](vā)
+[trident](śūlaṃ) [indeed](hy) [downward-facing](adhomukhaṃ) [declared](proktaṃ) [in-death+pit+placed](kālakuṇḍasthameva) [or](vā)
 
 ## mukta-m0-p219-v5455
-[from-wrist](taddhastamaṇibandha) [side-middle](pārśvamadhya) [finger](kalāṃgula)
+[from-that+hand+wrist](taddhastamaṇibandhāc) [and](ca) [side+middle](pārśvamadhyaṃ) [sixteen+fingers](kalāṃgulam)
 
 ## mukta-m0-p219-v5456
-[ear-tip](karṇāgra) [that-measure](tadvitāla) [equal](syāt) [other-hand](parahastaka)
+[ear+tip](karṇāgraṃ) [that+two-palms](tadvitālaṃ) [should-be](syāt) [arm+equal](dossamaṃ) [other+hand](parahastakam)
 
 ## mukta-m0-p219-v5457
-[head](mūrdhna) [right-hand](dakṣakari) [always](nityaṃ) [left-nostril](vāmanāsāpuṭa) [etc](ādayaḥ)
+[from-head](mūrdhno) [right+hand+always](dakṣakarīnityaṃ) [left+nostril+beginning](vāmanāsāpuṭādayaḥ)
 
 ## mukta-m0-p219-v5458
-[that-thread](tat+sūtra) [from-genital-root](medramūla) [left-part](vāmabhāga) [inside](antara) [opinion](mataḥ)
+[from-that](tat) [thread](sūtrān) [of-penis+root](medramūlasya) [left+side+interval](vāmabhāgontaro) [considered](mataḥ)
 
 ## mukta-m0-p219-v5459
-[raised-foot](adhoddhṛtāṃghri) [knee-high](jānūcca) [waist-tip](kaṭyagra) [equal](samameva) [indeed](hi)
+[of-raised+foot](adhoddhṛtāṃghri) [knee+height](jānūccaṃ) [hip+tip](kaṭyagra) [equal+indeed](samameva) [certainly](hi)
 
 ## mukta-m0-p219-v5460
-[right-foot](dakṣapāda) [heel-tip](pārṣṇāgra) [tithi](tithiḥ) [syāt](syāt) [thread-right](sūtradakṣiṇe)
+[of-right+foot](dakṣapādasya) [heel+tip](pārṣṇāgraṃ) [fifteen](tithis) [should-be](syāt) [from-thread+to-south](sūtradakṣiṇe)
 
 ## mukta-m0-p219-v5461
-[that-thread-right](tat+sūtrandakṣiṇena) [navel](abhi) [vidyeśvara](vidyeśvara) [yava](yavaṃ) [becomes](bhavet)
+[from-that](tat) [thread+to-south](sūtrandakṣiṇe) [navel](nābhi) [of-Vidyeśvara](vidyeśvara) [barley-corn](yavaṃ) [should-be](bhavet)
 
 ## mukta-m0-p219-v5462
-[raised-sole-tip](uddhṛtasya+talasyāgra) [calf](jaṃghā) [measure](mātrakam)
+[of-raised](uddhṛtasya) [of-sole+tip](talasyāgra) [of-shank](jaṃghāyās) [traditional](smṛti) [measure](mātrakam)
 
 ## mukta-m0-p219-v5463
-[spitting-blood-garment](udgiradraktavastra) [and](ca) [red-haired](tathā+lohitamūrdhaja)
+[emitting+blood+garment](udgiradraktavastraṃ) [and](ca) [likewise+red+haired](tathālohitamūrdhajam)
 
 ## mukta-m0-p219-v5464
-[fanged-face](daṃṣṭrākarālavadana) [red-brow](raktabhrū) [red-eyed](raktalocana)
+[with-fangs+terrible+faced](daṃṣṭrākarālavadanaṃ) [red+browed](raktabhrūr) [red+eyed](aktalocanam)
 
 ## mukta-m0-p219-v5465
-[joined-palms](kṛtāñjalipuṭa) [or](vāpi) [make](kārayet) [kāla](kāla) [reverently](ādarāt)
+[with-made+joined-palms+hollow](kṛtāñjalipuṭaṃ) [or](vā) [also](api) [one-should-make](kārayet) [Death](kālam) [with-reverence](ādarāt)
 
 ## mukta-m0-p219-v5466
-[kālānta-liṅga](kālāntaliṃga) [measure-first](mānādyaṃ) [liṅga-born](liṃgodbhūta) [as-said](uktavat) [lead](nayet)
+[death+end+liṅga+measure+beginning](kālāntaliṃgamānādyaṃ) [as-in-liṅga+emergence+stated](liṃgodbhūtoktavan) [one-should-lead](nayet)
 
 ## mukta-m0-p219-v5467
-[bound-flower-palms](baddhapuṣpāñjali) [side](pārśve) [mārkaṇḍeya](mārkaṇḍeya) [standing](sthita) [excellent](varaḥ)
+[with-bound+flower+joined-palms](baddhapuṣpāñjaliḥ) [at-side](pārśve) [Mārkaṇḍeya](mārkaṇḍeyas) [standing](thito) [excellent](varaḥ)
 
 ## mukta-m0-p219-v5468
-[mārkaṇḍeya](mārkaṇḍeya) [inference](anumāna) [joined](yukta) [or](vā) [excluded](varjita) [thus](tuvā)
+[Mārkaṇḍeya](mārkaṇḍeyo) [by-inference](numānena) [endowed](yukto) [or](vā) [devoid](varjitas) [but](tu) [or](vā)
 
 ## mukta-m0-p219-v5469
-[kālāgni](kālāgni) [thus-called](evamākhyāta) [manmatha-ender](manmathāntaka) [called](ucyate)
+[Kālāgni](kālāgnir) [thus](evam) [described](ākhyāto) [Manmatha+slayer](manmathāntaka) [is-spoken](ucyate)
 
 ## mukta-m0-p219-v5470
-[make](kuryāt) [fallen](patitaṃ) [by-glance](dṛṣṭipātāt) [eva](eva) [ca](ca) [that-moment](tatkṣaṇāt)
+[one-should-make](kuryāt) [but](tu) [fallen](patitaṃ) [by-glance+fall](dṛṣṭipātād) [indeed](eva) [and](ca) [at-that+moment](tatkṣaṇāt)
 
 ## mukta-m0-p219-v5471
-[manmatha-height](manmathotsedha) [described](uddiṣṭaṃ) [he](sa) [tu](tu) [gold](hema) [adorned](vibhūṣitaḥ)
+[of-Manmatha+height](manmathotsedham) [declared](uddiṣṭaṃ) [he](sa) [but](tu) [with-gold](hema) [adorned](vibhūṣitaḥ)
 
 ## mukta-m0-p219-v5472
-[fish-banner](mīnaketu) [thus](tathā) [sugarcane](ikṣu) [bow](kārmuka) [made](kṛti) [joined](saṃyutaḥ)
+[fish+bannered](mīnaketus) [likewise](tathaiv) [sugarcane](ekṣu) [bow+form+endowed](kārmukākṛtisaṃyutaḥ)
 
 ## mukta-m0-p219-v5473
-[lambhinī](laṃbhinī) [tāpinī](tāpinī) [and](caiva) [vedinī](vedinī) [drāviṇī](drāviṇī) [thus](tathā)
+[Laṃbhinī](laṃbhinī) [Tāpinī](tāpinī) [and](ca) [indeed](eva) [Vedinī](vedinī) [Drāviṇī](drāviṇī) [likewise](tathā)
 
 ## mukta-m0-p219-v5474
-[manmatha](manmathaḥ) [friend-joined](mitrayukta) [or](vā) [ayuta](ayuta) [one](eka) [arrow](śareṇa) [tu](tu)
+[Manmatha](manmatho) [with-friend+endowed](mitrayukto) [or](vā) [without](yuto) [or](vā) [with-one](eka) [arrow](śareṇa) [but](tu)
 
 ## mukta-m0-p219-v5475
-[vārādya](vārādyaṃ) [sprout](aṃkuraṃ) [yāga-pavilion](yāgamaṇṭapaṃ) [as-before](pūrvavat) [lead](nayet)
+[beginning-with-day](vārādyaṃ) [sprout](aṃkuraṃ) [sacrifice+pavilion](yāgamaṇṭapaṃ) [as-before](pūrvavan) [one-should-lead](nayet)
