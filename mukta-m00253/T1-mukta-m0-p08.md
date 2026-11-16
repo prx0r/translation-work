@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p08-v176
-flax-flower-resembling + lotus-flower-equal + becomes
+[flax-flower+resembling](atasīpuṣpasaṃkāśaṃ) [lotus+flower+equal](padmapuṣpasamaṃ) [should-be](bhavet)
 
 ## mukta-m0-p08-v177
-red-lotus-joined + collyrium-equal-radiance
+[red+lotus+joined-with](raktapaṃkajasaṃyuktaṃ) [split+collyrium+equal+in-splendor](bhinnāñjanasamaprabham)
 
 ## mukta-m0-p08-v178
-syllable-beginning-joined + bindu + and-indeed + together
+[syllable+of+beginning+joined-with](akṣarasyādisaṃyuktaṃ) [dot](binduṃ) [and](ca) [indeed](eva) [united-with](samāyutam)
 
 ## mukta-m0-p08-v179
-shiva-vishnu-mounted + first + and-in-octad
+[Śiva+Viṣṇu+mounted-on](śivaviṣṇusamārūḍhaṃ) [first](prathamaṃ) [and](ca) [in-eighth+group](aṣṭavargake)
 
 ## mukta-m0-p08-v180
-first's-aka-taking + shiva-vishnu-joined
+[of-first+eleventh+taking](prathamasyākādasaṃgṛhya) [Śiva+Viṣṇu+united-with](śivaviṣṇusamāyutam)
 
 ## mukta-m0-p08-v181
-fifth's-first + may-be + second-of-seventh + and
+[of-fifth](paṃcamasya) [first](prathamaṃ) [should-be](syāt) [second](dvitīyaṃ) [of-seventh](saptamasya) [and](ca)
 
 ## mukta-m0-p08-v182
-eighth's-beginning-joined + maya-anala-endowed
+[of-eighth+beginning](aṣṭamasyādi) [united-with](samāyuktaṃ) [māyā+fire+endowed-with](māyānalasamanvitam)
 
 ## mukta-m0-p08-v183
-first's-second + indeed + bindu-nada-endowed
+[of-first](prathamasya) [second](dvitīyaṃ) [indeed](tu) [bindu+nāda+endowed-with](bindunādasamanvitam)
 
 ## mukta-m0-p08-v184
-gana-ambika + and + chandesh + nandish + and + so-indeed + and
+[Gaṇā](gaṇā) [Ambikā](ambikā) [and](ca) [Caṇḍeśa](caṇḍeśaḥ) [Nandīśa](nandīśaḥ) [and](ca) [likewise](tathaiva) [and](ca)
 
 ## mukta-m0-p08-v185
-bhiringish + and + mahasena + own-name-first-syllables-endowed
+[Bhṛṅgīśa](bhṛṃgīśaḥ) [and](ca) [Mahāsena](mahāsenaḥ) [own+name+initial+syllables+joined-with](svanāmādyakṣarairyutam)
 
 ## mukta-m0-p08-v186
-vayu + soma + then + ishana + brahma + vishnu + and + joined
+[Vāyu](vāyuḥ) [Soma](somaḥ) [and-likewise](tathā) [Īśāna](īśānaḥ) [Brahmā](brahmā) [Viṣṇu](viṣṇuḥ) [and](ca) [joined-with](saṃyutam)
 
 ## mukta-m0-p08-v187
-vajra + shakti + and + danda + and + khadga + pasha + so + ankusha
+[thunderbolt](vajraṃ) [spear](śaktiṃ) [and](ca) [staff](daṇḍaṃ) [and](ca) [sword](khaḍgaṃ) [noose](pāśaṃ) [and-likewise](tathā) [goad](aṃkuśam)
 
 ## mukta-m0-p08-v188
-own-name-first + seed + bindu-nada-endowed
+[own+name+initial+by-seed-syllable](svanāmādyena) [by-seed-syllable](bījena) [bindu+nāda+endowed-with](bindunādasamanvitam)
 
 ## mukta-m0-p08-v189
-srivatsa + svastika + shankha + lamp + deva-eight-auspicious
+[Śrīvatsa](śrīvatsaṃ) [svastika](svastikaṃ) [conch](śaṃkhaṃ) [lamp](dīpaḥ) [gods+eight+auspicious-marks](devāṣṭamaṃgalam)
 
 ## mukta-m0-p08-v190
-sixth-class-from-second + indeed + fourth-beginning-joined
+[from-sixth+group+second](ṣaṣṭhavargāddvitīyaṃ) [indeed](tu) [by-fourth+beginning](caturthādyena) [joined-with](saṃyutam)
 
 ## mukta-m0-p08-v191
-visarga-joined + pashupata-weapon-called
+[with-visarga](visargeṇa) [united-with](samāyuktaṃ) [Pāśupata+weapon](pāśupatāstram) [is-called](ucyate)
 
 ## mukta-m0-p08-v192
-bindu-nada-joined + acharya + seed-called
+[bindu+nāda+united-with](bindunādasamāyuktam) [teacher’s](ācāryaṃ) [seed-syllable](bījam) [is-called](ucyate)
 
 ## mukta-m0-p08-v193
-mothers + rakshasas + and + * + * + * + gana-indeed + and
+[of-mothers](mātrāṇāṃ) [of-demons](rākṣasānāṃ) [and](ca) [*](*) [*](*) [*](*) [group](gaṇam) [indeed](eva) [and](ca)
 
 ## mukta-m0-p08-v194
-images + and + disciples + so-so + in-order + indeed
+[of-image-guardians](mūrtipānāṃ) [and](ca) [of-disciples](śiṣyāṇām) [thus](evam) [indeed](eva) [in-order](krameṇa) [indeed](tu)
 
 ## mukta-m0-p08-v195
-ya-kara-beginning-pair + class + four-syllable-called
+[ya-syllable+beginning+pair](yakārādidvayaṃ) [group](vargaṃ) [four+syllabled](caturakṣaram) [is-called](ucyate)
 
 ## mukta-m0-p08-v196
-ananta-seat + that + vipra-lord + yoga-seat + so-indeed + and
+[Ananta+seat](anantāsanaṃ) [that](tat) [O-best-of-twice-born](viprendra) [Yoga+seat](yogāsanaṃ) [likewise](tathaiva) [and](ca)
 
 ## mukta-m0-p08-v197
-vimala-seat + indeed + vipra-lord + own-name-first-syllables-endowed
+[Vimala+seat](vimalāsanaṃ) [indeed](tu) [O-best-of-twice-born](viprendra) [own+name+initial+syllables+joined-with](svanāmādyakṣarairyutam)
 
 ## mukta-m0-p08-v198
-agni-mandala + and-indeed + place + indeed + especially
+[fire+circle](āgneyamaṇḍalaṃ) [and](ca) [indeed](eva) [one-should-place](vinyaset) [indeed](tu) [especially](viśeṣataḥ)
 
 ## mukta-m0-p08-v199
-tattva-mandala-indeed-said + own-name-first-syllables-endowed
+[principle+circle](tatvāmaṇḍalam) [indeed](eva) [declared](uktam) [own+name+initial+syllables+joined-with](svanāmādyakṣarairyutam)
 
 ## mukta-m0-p08-v200
-sky-pervading + great-mantra + ninety-six-syllables-endowed
+[Vyomavyāpin](vyomavyāpi) [great+mantra](mahāmantraṃ) [ninety-six+syllables+joined-with](ṣaṇṇavatyakṣarairyutam)

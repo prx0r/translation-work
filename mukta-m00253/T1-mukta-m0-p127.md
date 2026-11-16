@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p127-v3151
-fourteen-vowel-joined bindu-nada-endowed
+[fourteen](caturdaśa) [vowel](svara) [joined-with](saṃyuktaṃ) [with-bindu](bindu) [nāda](nāda) [endowed-with](samanvitam)
 
 ## mukta-m0-p127-v3152
-principal-pot-in not-indeed * * * * * should-place
+[in-main](pradhāna) [pot](kalaśe) [not](na) [indeed](eva) [*](*) [*](*) [*](*) [*](*) [should-place](vinyaset)
 
 ## mukta-m0-p127-v3153
-east but Vishnu-pot-face Dakshinamurti-right
+[in-east](pūrve) [indeed](tu) [viṣṇu-pot](viṣṇu) [kumbhāsyu](kumbhāsyu) [of-dakṣiṇāmūrti](dakṣiṇāmūrti) [in-south](dakṣiṇe)
 
 ## mukta-m0-p127-v3154
-east-etc-in four-directions-in Shiva-Vidyeshvara-of but
+[in-east-etc](pūrvādiṣu) [in-four](catur) [directions](dikṣu) [of-śiva](śiva) [of-vidyeśvara](vidyeśvarasya) [indeed](tu)
 
 ## mukta-m0-p127-v3155
-north and-indeed in-Durga should-place but especially
+[in-north](uttare) [and](ca) [indeed](eva) [for-durgā](durgāyāṃ) [should-place](vinyaset) [indeed](tu) [especially](viśeṣataḥ)
 
 ## mukta-m0-p127-v3156
-offering-should-offer after betel should-give then
+[food-offering](havir) [should-offer](nivedayet) [afterwards](paścāt) [betel](tāmbūlaṃ) [should-give](dāpayet) [then](tataḥ)
 
 ## mukta-m0-p127-v3157
-fuel-ghee oblation parched-rice mustard-and barley-sesame
+[fuel-stick](samid) [ghee](ājya) [cooked-rice](caruṃ) [parched-grain](lājān) [mustard-seeds](sarṣapān) [and](ca) [barley](yavān) [sesame](tilān)
 
 ## mukta-m0-p127-v3158
-Ishana-etc Sadya-end with-heart three joined
+[from-īśāna-etc](īśānyādīni) [up-to-sadya](sadyāntaṃ) [with-hṛdaya](hṛdayena) [three](trayaṃ) [joined](yutam)
 
 ## mukta-m0-p127-v3159
-vimana-seed in-all having-offered and-indeed hundred-offering
+[vimāna-seed](vimāna) [bījaṃ](bījaṃ) [in-all](sarveṣu) [having-offered](hutvā) [and](ca) [indeed](eva) [hundred-oblations](śata) [āhutiḥ](āhutiḥ)
 
 ## mukta-m0-p127-v3160
-mantra-nyasa-said-path-by nyasa having-done especially
+[mantra-installation](mantra) [stated-path](nyāsoktamārgeṇa) [installation](nyāsaṃ) [having-done](kṛtvā) [especially](viśeṣataḥ)
 
 ## mukta-m0-p127-v3161
-then vasana-homa and should-do teacher-best
+[then](tato) [vāsana](vāsana) [homa](homaṃ) [and](ca) [should-be-done](kartavyaṃ) [best-of-teachers](deśikottamaḥ)
 
 ## mukta-m0-p127-v3162
-vimana-seed-joined twenty-five is-said
+[with-vimāna-seed](vimāna) [bīja](bīja) [joined](saṃyuktaṃ) [twenty-five](paṃcaviṃśatiḥ) [is-said](ucyate)
 
 ## mukta-m0-p127-v3163
-well-offered-fire-thus by-mantra should-offer after-that
+[sviṣṭamagneti](sviṣṭamagneti) [with-mantra](mantreṇa) [should-offer](juhuyāt) [thereafter](tadanantare)
 
 ## mukta-m0-p127-v3164
-having-offered-end but what-his-thus full-offering then-should-do
+[at-end-of-offering](hutvānte) [indeed](tu) [yadasyeti](yadasyeti) [full-oblation](pūrṇa) [āhutim](āhutim) [then](atha) [should-perform](ācaret)
 
 ## mukta-m0-p127-v3165
-head-above brahmin-lord pot should-lift then
+[on-head](śiras) [upon](upari) [o-best-of-brahmins](viprendra) [pot](kumbham) [should-lift](udvāhayet) [then](tataḥ)
 
 ## mukta-m0-p127-v3166
-vimana-root-joined sky-pervading reciting
+[with-vimāna-root](vimāna) [mūla](mūla) [joined](saṃyuktaṃ) [vyomavyāpi](vyomavyāpi) [uttering](samuccaran)
 
 ## mukta-m0-p127-v3167
-east-etc-Ishana-until should-bathe own-own-mantra-by
+[from-east](pūrvādi) [up-to-īśāna](īśāna) [paryantaṃ](paryantaṃ) [should-bathe](snāpayet) [with-own-mantras](svasva) [mantrataḥ](mantrataḥ)
 
 ## mukta-m0-p127-v3168
-scent-flower-etc-by having-worshipped offering-should-give especially
+[with-fragrance](gandha) [flower-etc](puṣpādinā) [having-worshipped](abhyarcya) [food-offering](havir) [should-give](dadyāt) [especially](viśeṣataḥ)
 
 ## mukta-m0-p127-v3169
-seven-maidens and brahmin-lord cloth-etc and should-give
+[seven](sapta) [maidens](kanyāḥ) [and](ca) [o-best-of-brahmins](viprendra) [garment-etc](vastrādīni) [and](ca) [should-give](dāpayet)
 
 ## mukta-m0-p127-v3170
-vimana-installation said human-installation hear
+[vimāna-installation](vimāna) [sthāpanaṃ](sthāpanaṃ) [declared](proktaṃ) [human-installation](mānuṣa) [sthāpanaṃ](sthāpanaṃ) [listen](śṛṇu)
 
 ## mukta-m0-p127-v3171
-thus Vira-Tantra-in vimana-installation-rite sixty-eighth chapter
+[thus](iti) [in-vīratantra](vīratantre) [vimāna-installation](vimāna) [sthāpana](sthāpana) [procedure](vidhiḥ) [sixty-eighth](aṣṭaṣaṣṭitamaḥ) [chapter](paṭalaḥ)
 
 ## mukta-m0-p127-v3172
-human-installation who or Shiva-knowledge-filled
+[human-installation](mānuṣa) [sthāpanaṃ](sthāpanaṃ) [what](ko) [or](vā) [with-śiva-knowledge](śiva) [jñāna](jñāna) [filled](abhipūritān)
 
 ## mukta-m0-p127-v3173
-that-all-entire I-will-speak hear four-faced
+[that](tat) [all](sarvam) [entirely](akhilaṃ) [I-shall-tell](vakṣye) [listen](śṛṇuṣva) [o-four-faced-one](caturānana)
 
 ## mukta-m0-p127-v3174
-Shiva-grace accomplished-and image-etc should-make
+[by-śiva's-grace](śiva) [prasāda](prasāda) [accomplished](siddhān) [and](ca) [image-etc](pratimādīni) [should-make](kārayet)
 
 ## mukta-m0-p127-v3175
-stone-born wood-born or-also clay-made picture-indeed and
+[made-of-stone](śailajaṃ) [made-of-wood](dārujaṃ) [or](vā) [also](api) [made-of-clay](mṛṇmayaṃ) [painting](citram) [indeed](eva) [and](ca)
