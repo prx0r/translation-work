@@ -5,73 +5,73 @@
 [herb](oṣadhiḥ)
 
 ## mukta-m0-p55-v1352
-[disease](rogaṃ) [wasting](śoṣaṃ) [may-remove](nayatu) [in-time](samaye) [with-medicine](sauṣadhiḥ) [from-meditation-only](dhyānamātrāt)
+[disease](rogaṃ) [wasting](śoṣaṃ) [may-lead](nayatu) [in-time](samaye) [she]+[medicine](sauṣadhiḥ) [by-meditation]+[alone](dhyānamātrāt)
 
 ## mukta-m0-p55-v1353
-[mother-of-physicians](vaidyamātā)
+[physician]+[mother](vaidyamātā)
 
 ## mukta-m0-p55-v1354
-[she](sā) [mother-of-physicians](vaidyamātā) [thus](iti) [of-good](satāṃ) [you-are-considered](matāsi)
+[she](sā) [physician]+[mother](vaidyamātā) [thus](iti) [of-the-good](satāṃ) [regarded](matā) [you-are](asi)
 
 ## mukta-m0-p55-v1355
-[drug-power](dravyaśaktiḥ)
+[substance]+[power](dravyaśaktiḥ)
 
 ## mukta-m0-p55-v1356
-[she](sā) [drug-power](dravyaśaktiḥ) [removes-weakness](haratādaśaktim)
+[she](sā) [substance]+[power](dravyaśaktiḥ) [may-remove](haratāt) [powerlessness](aśaktim)
 
 ## mukta-m0-p55-v1357
-[powerful](prabhāvinī)
+[efficacious-one](prabhāvinī)
 
 ## mukta-m0-p55-v1358
-[powerful](prabhāvinī) [may-adorn](bhūṣayatu) [with-own-natures](svabhābhiḥ)
+[efficacious-one](prabhāvinī) [may-adorn](bhūṣayatu) [with-own]+[splendors](svabhābhiḥ)
 
 ## mukta-m0-p55-v1359
 [physician](vaidyā)
 
 ## mukta-m0-p55-v1360
-[of-patients](rogiṇaḥ) [grief-givers](śokadāste) [may-be](syur) [world-diseases](bhavarogā) [also](api) [themselves](svayam)
+[of-the-sick](rogiṇaḥ) [sorrow]+[giving](śokadāḥ) [they](te) [may-be](syuḥ) [worldly]+[diseases](bhavarogāḥ) [even](api) [themselves](svayam)
 
 ## mukta-m0-p55-v1361
-[medical-treatment](vaidyācikitsā)
+[physician]+[treatment](vaidyācikitsā)
 
 ## mukta-m0-p55-v1362
-[goes](eti) [medical-treatment](vaidyacikitseyaṃ) [doubt-fever](vicikitsājvaraṃ) [remove](hara)
+[goes](eti) [physician]+[treatment](vaidyacikitsā) [this](iyaṃ) [doubt]+[fever](vicikitsājvaraṃ) [remove](hara)
 
 ## mukta-m0-p55-v1363
-[wholesome](supathyā)
+[wholesome-diet](supathyā)
 
 ## mukta-m0-p55-v1364
-[in-mind](ścitte) [situated](sthitā) [whose](yasya) [always](sadā) [wholesome](supathyā)
+[in-mind](ścitte) [situated](sthitā) [of-whom](yasya) [always](sadā) [wholesome-diet](supathyā)
 
 ## mukta-m0-p55-v1365
-[disease-destroyer](roganāśinī)
+[p.-178](p.) [)]()) [disease]+[destroyer](roganāśinī)
 
 ## mukta-m0-p55-v1366
-[without-effort](ayatnād) [is-sung](gīyate) [therefore](tasmād) [goddess](īśānī) [disease-destroyer](roganāśinī)
+[without-effort](ayatnāt) [is-sung](gīyate) [therefore](tasmāt) [Īśānī](īśānī) [disease]+[destroyer](roganāśinī)
 
 ## mukta-m0-p55-v1367
-[hunting](mṛgayā)
+[hunt](mṛgayā)
 
 ## mukta-m0-p55-v1368
-[proclaimed](saṃkīrtitā) [she](sā) [hunting](mṛgayā) [by-knowers-of-hunting-tradition](mṛgayāgamajñaiḥ)
+[proclaimed](saṃkīrtitā) [she](sā) [hunt](mṛgayā) [by-scripture]+[knowers](āgamajñaiḥ)
 
 ## mukta-m0-p55-v1369
-[deer-flesh-giver](mṛgamāṃsādā)
+[deer]+[flesh]+[eater](mṛgamāṃsādā)
 
 ## mukta-m0-p55-v1370
-[beings](bhūtā) [which](yan) [deer-flesh-giver](mṛgamāṃsādā) [with-own-vehicle-hari-joined](svavāhaharisaṅgataḥ)
+[became](bhūtā) [because](yat) [deer]+[flesh]+[eater](mṛgamāṃsādā) [with-own]+[mount]+[lion](svavāhaharisaṅgataḥ)
 
 ## mukta-m0-p55-v1371
-[deer-skin](mṛgatvak)
+[deer]+[skin](mṛgatvak)
 
 ## mukta-m0-p55-v1372
-[deer-skin](mṛgatvageṣā) [this](eṣā) [said](kathitā) [by-knowers-of-stories](kathājñaiḥ)
+[deer]+[skin](mṛgatvak) [she](eṣā) [declared](kathitā) [by-story]+[knowers](kathājñaiḥ)
 
 ## mukta-m0-p55-v1373
-[deer-eyed](mṛgalocanā)
+[deer]+[eyed](mṛgalocanā)
 
 ## mukta-m0-p55-v1374
-[came](āgād) [bondage](bandhanam) [of-īśāna](īśānam) [deer](mṛgaḥ) [she](sā) [deer-eyed](mṛgalocanā)
+[went](āgāt) [to-bondage](bandhanam) [Īśāna]+[deer](īśānamṛgaḥ) [she](sā) [deer]+[eyed](mṛgalocanā)
 
 ## mukta-m0-p55-v1375
-[snare](vāgurā)
+[net](vāgurā)
