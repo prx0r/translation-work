@@ -2,67 +2,67 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p13-v301
-[dāra-kriyā-arthaṃ](dārakriyārthaṃ) [tasmai](tasmai) [tāṃ](tāṃ) [hema-lekhāṃ](hemalekhāṃ) [dadau](dadau) [muniḥ](muniḥ)
+[dāra-kriyā-artham](dārakriyārthaṃ) [tasmai](tasmai) [tām](tāṃ) [hema-lekhām](hemalekhāṃ) [dadau](dadau) [muniḥ](muniḥ)
 
 ## mukta-m0-p13-v302
-[sarvaṃ](sarvaṃ) [tayoḥ-abhiprāyam](tayorabhiprāyam) [tat](tat) [tasmai](tasmai) [kanyā-dānam](kanyādānam)
+[sarvam](sarvaṃ) [tayāḥ](tayāḥ) [abhiprāyam](abhiprāyam) [tat](tat) [tasmai](tasmai) [kanyā-dānam](kanyādānam)
 
 ## mukta-m0-p13-v303
-[muktā-cūḍaḥ](muktācūḍo'tisantuṣṭo) [ati-santuṣṭaḥ](muktācūḍo'tisantuṣṭo) [mahā-utsava-vidhānataḥ](mahotsavavidhānataḥ) [utsava-vidhi-taḥ](mahotsavavidhānataḥ)
+[muktā-cūḍaḥ](muktācūḍaḥ) [ati-santuṣṭaḥ](atisantuṣṭaḥ) [mahā-utsava-vidhānataḥ](mahotsavavidhānataḥ)
 
 ## mukta-m0-p13-v304
-[atha](atha) [rāja-kumāraḥ-api](rājakumāro'pi) [tayā](tayā) [krīḍā-paraḥ](krīḍāparaḥ) [sadā](sadā)
+[atha](atha) [rāja-kumāraḥ](rājakumāraḥ) [api](api) [tayā](tayā) [krīḍā-paraḥ](krīḍāparaḥ) [sadā](sadā)
 
 ## mukta-m0-p13-v305
-[hema-lekhāṃ](hemalekhāṃ) [rāja-putraḥ](rājaputro) [bhogeṣu](bhogeṣvanatikāminīm) [an-ati-kāminīm](bhogeṣvanatikāminīm)
+[hema-lekhām](hemalekhāṃ) [rāja-putraḥ](rājaputraḥ) [bhogeṣu](bhogeṣu) [an-ati-kāminīm](anatikāminīm)
 
 ## mukta-m0-p13-v306
-[kim](kiṃ) [priye](priye) [na-anuraktā-asi](nānuraktāsi) [priye](priye) [mayi-anurāgiṇi](mayyanurāgiṇi)
+[kim](kiṃ) [priye](priye) [na](na) [anuraktā](anuraktā) [asi](asi) [priye](priye) [mayi](mayi) [anurāgiṇi](anurāgiṇi)
 
 ## mukta-m0-p13-v307
-[kim](kiṃ) [bhogāḥ-te](bhogāste) [manaḥ-yogyāḥ](manoyogyā) [na](na) [santi-atra](santyatra) [kutaḥ-tu-idam](kutastvidam)
+[kim](kiṃ) [bhogāḥ](bhogāḥ) [te](te) [manaḥ-yogyāḥ](manoyogyāḥ) [na](na) [santi](santi) [atra](atra) [kutas-tu](kutastu) [idam](idam)
 
 ## mukta-m0-p13-v308
-[kutaḥ](kutaḥ) [kasmāt-hetoḥ](kasmāddhetoḥ) [bhogāḥ](bhogāḥ) [bhoga-sādhanāni](bhogasādhanāni) [kutaḥ](kuta) [idam-audāsīnyam](idamaudāsīnyam)
+[kutaḥ](kutaḥ) [kasmāt](kasmāt) [hetoḥ](hetoḥ) [bhogāḥ](bhogāḥ) [bhoga-sādhanāni](bhogasādhanāni) [kutaḥ](kutaḥ) [idam](idam) [audāsīnyam](audāsīnyam)
 
 ## mukta-m0-p13-v309
-[tvayi-āsakti-vihīnāyāṃ](tvayyāsaktivihīnāyāṃ) [katham](kathaṃ) [me](me) [sukha-dā](sukhadā) [ratiḥ](ratiḥ)
+[tvayi](tvayi) [āsakti-vihīnāyām](āsaktivihīnāyāṃ) [katham](kathaṃ) [me](me) [sukha-dā](sukhadā) [ratiḥ](ratiḥ)
 
 ## mukta-m0-p13-v310
-[paraspara-āsakti-atiśayena-eva](parasparāsaktyatiśayenaiva) [ratiḥ](ratiḥ) [sukha-dā-iti-āśayaḥ](sukhadetyāśayaḥ)
+[paraspara-āsakti-atiśayena](parasparāsaktyatiśayena) [eva](eva) [ratiḥ](ratiḥ) [sukha-dā](sukhadā) [iti](iti) [āśayaḥ](āśayaḥ)
 
 ## mukta-m0-p13-v311
-[bhāṣitā-api](bhāṣitāpi) [mayā](mayā) [bhūyaḥ](bhūyo) [na](na) [śṛṇoṣi-eva](śṛṇoṣyeva) [kiñcana](kiñcana)
+[bhaṣitā](bhāṣitā) [api](api) [mayā](mayā) [bhūyaḥ](bhūyaḥ) [na](na) [śṛṇoṣi](śṛṇoṣi) [eva](eva) [kiñcana](kiñcana)
 
 ## mukta-m0-p13-v312
-[anya-gata-mānasatvaṃ](anyagatamānasatvaṃ) [vā](vā) [katham](kathaṃ) [tvayā-avagatam-iti](tvayā'vagatamiti) [ca-ida-āha](cedāha) [bhāṣitā-iti](bhāṣiteti)
+[anya-gata-mānasatvam](anyagatamānasatvaṃ) [vā](vā) [katham](katham) [tvayā](tvayā) [avagatam](avagatam) [iti](iti) [cet](cet) [āha](āha) [bhāṣitā](bhāṣitā) [iti](iti)
 
 ## mukta-m0-p13-v313
-[kadā](kadā) [nātha-āgatam](nāthāgataṃ) [ca-iti](ceti) [pṛcchasi-aviditā](pṛcchasyaviditā) [yathā](yathā)
+[kadā](kadā) [nātha](nātha) [āgataḥ](āgataṃ) [ca](ca) [iti](iti) [pṛcchasi](pṛcchasi) [a-viditā](aviditā) [yathā](yathā)
 
 ## mukta-m0-p13-v314
-[cirāt](cirāt) [kaṇṭha-saṃlagnam-api](kaṇṭhasaṃlagnamapi) [kadā](kadā) [āgatam-iti](āgatamiti) [pṛcchasi](pṛcchasi)
+[cirāt](cirāt) [kaṇṭha-saṃlagnam](kaṇṭhasaṃlagnam) [api](api) [kadā](kadā) [āgatam](āgatam) [iti](iti) [pṛcchasi](pṛcchasi)
 
 ## mukta-m0-p13-v315
-[manaḥ](mana) [āsajjate](āsajjate) [kasmāt-na](kasmānna) [kiñcit-anumodasi](kiñcidanumodasi)
+[manaḥ](mana) [āsajjate](āsajjate) [kasmāt](kasmān) [na](na) [kiñcit](kiñcid) [anumodasi](anumodasi)
 
 ## mukta-m0-p13-v316
-[na-anumodasi](nā(a)numodasi)
+[na](na) [anumodasi](anumodasi)
 
 ## mukta-m0-p13-v317
-[yadā-yadā](yadā) [upagacchāmi](yadopagacchāmi) [paśyāmi](paśyāmi) [ca](ca) [tadā-tadā](tadā) [tadā](tadā)
+[yadā](yadā) [yadā](yadā) [upagacchāmi](upagacchāmi) [paśyāmi](paśyāmi) [ca](ca) [tadā](tadā) [tadā](tadā)
 
 ## mukta-m0-p13-v318
-[katham](kathaṃ) [bhavet-dāru-yoṣā-saṅgatasya-iva](bhaveddāruyoṣāsaṅgatasyeva) [tat-vat](tadvada)
+[katham](katham) [bhavet](bhaveddāru) [yoṣā-saṅgatasya](yoṣāsaṅgatasyeva) [iva](iva) [tat](tat) [vada](vada)
 
 ## mukta-m0-p13-v319
-[sarvathā](sarvathā) [tvām-anugataḥ](tvāmanugato) [jyotsnāṃ](jyotsnāṃ) [kumudavat](kumudavat) [kila](kila)
+[sarvathā](sarvathā) [tvām](tvā) [anugataḥ](anugato) [jyotsnām](jyotsnāṃ) [kumudavat](kumudavat) [kila](kila)
 
 ## mukta-m0-p13-v320
-[na](na) [ca](ca) [tvām-ananugataḥ-asmi-iti-āha](tvāmananugato'smītyāha) [na](na) [tava-iti](na) [tava-iti](taveti)
+[na](na) [ca](ca) [tvām](tvā) [an-anugataḥ](ananugato) [asmi](asmi) [iti](iti) [āha](āha) [na](na) [tava](tava) [iti](iti)
 
 ## mukta-m0-p13-v321
-[yena](yena) [śuddhyet-tu](śuddhyettu) [mat-cittam](maccittaṃ) [śāpitā-asi](śāpitāsi) [mayā](mayā) [priye](priye)
+[yena](yena) [śuddhyet](śuddhyettu) [mat-cittam](maccittaṃ) [śāpitā](śāpitā) [asi](asi) [mayā](mayā) [priye](priye)
 
 ## mukta-m0-p13-v322
 [evam](evaṃ) [viṣaya-vimukham](viṣayavimukham)
@@ -71,7 +71,7 @@
 [īṣat-smita-ānanā](īṣatsmitānanā) [prāha](prāha) [rāja-putram](rājaputram) [aninditā](aninditā)
 
 ## mukta-m0-p13-v324
-[aninditā-iti](aninditeti) [na](na) [tasyāḥ](tasyā) [vidita-vedyāyāḥ](viditavedyāyā) [viṣaya-vaimukhyam](viṣayavaimukhyaṃ) [mauḍhyāt-iti-na](mauḍhyādineti) [bhāvaḥ](bhāvaḥ)
+[aninditā](aninditeti) [na](na) [tasyāḥ](tasyā) [vidita-vedyāyāḥ](viditavedyāyā) [viṣaya-vaimukhyam](viṣayavaimukhyaṃ) [mauḍhyāt](mauḍhyād) [na](na) [iti](iti) [bhāvaḥ](bhāvaḥ)
 
 ## mukta-m0-p13-v325
-[rāja-putra](rājaputra) [śṛṇu](śṛṇu) [vacaḥ](vaco) [na-ahaṃ](nāhaṃ) [tvayi](tvayi) [virāgiṇī](virāgiṇī)
+[rāja-putra](rājaputra) [śṛṇu](śṛṇu) [vacaḥ](vaco) [na](na) [aham](ahaṃ) [tvayi](tvayi) [virāgiṇī](virāgiṇī)
