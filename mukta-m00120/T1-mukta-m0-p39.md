@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p39-v951
-[of-both](ubhayoḥ) [and](ca) [equal](samāṃ) [having-given](datvā) [sugar](sitāṃ) [in-that](tat) [should-mix](miśrayet) [firmly](dṛḍham)
+[of-both-and](ubhayośca) [equal](samāṃ) [having-given](datvā) [white](sitāṃ) [mix-with-that](tanmiśrayed) [firmly](dṛḍham)
 
 ## mukta-m0-p39-v952
-[again](punaḥ) [on-stone+surface](śilā+tale) [having-ground](piṣṭvā) [three+fragrances](tri+sugandhiṃ) [and](ca) [should-mix](miśrayet)
+[again](punaḥ) [on-stone-surface](śilātale) [having-ground](piṣṭvā) [three-fragrances-and](trisugandhiñca) [mix](miśrayet)
 
 ## mukta-m0-p39-v953
-[with-four](caturbhiḥ) [with-mantras](mantrabhiḥ) [of-them](tāsāṃ) [purification](śodhanaṃ) [should-perform](samupācaret)
+[with-four-mantras](caturbhirmantrabhiḥ) [their](tāsāṃ) [purification](śodhanaṃ) [perform](samupācaret)
 
 ## mukta-m0-p39-v954
-[mantra+accomplishment](mantra+siddhiḥ) [likewise](tathā) [worship+japa+accomplishment](pūjā+japa+siddhiḥ) [O-fair-faced-one](varānane)
+[mantra-success](mantrasiddhiḥ) [likewise](tathā) [worship-japa-success](pūjājapasiddhiḥ) [O-best-faced](varānane)
 
 ## mukta-m0-p39-v955
-[truth](satyaṃ) [truth](satyuṃ) [O-great-goddess](maheśāni) [truth](satyam) [indeed](eva) [not](na) [doubt](saṃśayaḥ)
+[truth](satyaṃ) [truth](satyuṃ) [O-great-goddess](maheśāni) [truth-indeed](satyameva) [no](na) [doubt](saṃśayaḥ)
 
 ## mukta-m0-p39-v956
-[by-one+utterance+mere](eka+uccāraṇa+mātreṇa) [then](tāvat) [and](ca) [hundred-thousand+ten-millions](lakṣa+koṭayaḥ)
+[by-single-utterance-only](ekoccāraṇamātreṇa) [so-much-and](tāvacca) [gh: would-be](bhavecca) [lakhs-crores](lakṣakoṭayaḥ)
 
 ## mukta-m0-p39-v957
-[to-whomever](yasmai) [to-anyone](kasmai) [not](na) [to-be-given](dātavyaṃ) [thus](iti) [truth](satyaṃ) [make](kuru) [O-beloved](priye)
+[to-whom](yasmai) [to-whom](kasmai) [not](na) [to-be-given](dātavyaṃ) [thus](iti) [truth](satyaṃ) [do](kuru) [dear](priye)
 
 ## mukta-m0-p39-v958
-[thus](iti) [of-śrī+sarvānandanātha](śrī+sarvānandanātha) [composed](viracite) [in-sarvollāsa](sarvollāse) [thirtieth+chapter](triṃśat+ullāsaḥ)
+[thus](iti) [in-composed-by-sri-sarvanandanatha](śrīsarvānandanāthaviracite) [in-sarvollasa](sarvollāse) [thirty-ullasa](triṃśadullāsaḥ)
 
 ## mukta-m0-p39-v959
-[on-support](ādhāre) [should-place](sthāpayet) [vessel](pātraṃ) [on-earth+situated](mṛt+sthitaṃ) [death+giving](mṛtyu+dāyakam)
+[in-support](ādhāre) [place](sthāpayet) [vessel](pātraṃ) [clay-situated](mṛtsthitaṃ) [death-giving](mṛtyudāyakam)
 
 ## mukta-m0-p39-v960
-[or](athavā) [circular+shaped](vartula+ākāraṃ) [triangular](trikoṇaṃ) [with-three+feet+endowed](tri+pada+anvitam)
+[or](athavā) [round-shaped](vartulākāraṃ) [triangular](trikoṇaṃ) [three-footed](tripadānvitam)
 
 ## mukta-m0-p39-v961
-[made-of-viśvāmitra-wood](viśvāmitra+mayaṃ) [and](ca) [desire+giving](kāma+dam) [this](idam) [golden](haimaṃ) [likewise](tathā) [crystal](sphāṭikam)
+[vishvamitra-made-and](viśvāmitramayañca) [desire-giving](kāmadam) [this](idaṃ) [golden](haimaṃ) [likewise](tathā) [crystal](sphāṭikam)
 
 ## mukta-m0-p39-v962
-[support](ādhāraṃ) [should-place](sthāpayet) [there](tatra) [vessel](pātraṃ) [on-top-of-that](tasya+upari) [should-place](nyaset)
+[support](ādhāraṃ) [place](sthāpayet) [there](tatra) [vessel](pātraṃ) [on-it](tasyopari) [place](nyaset)
 
 ## mukta-m0-p39-v963
-[brass](pittalaṃ) [from-bell-metal+produced](kāṃsya+sambhūtaṃ) [fish-shaped](matsyam) [and](ca) [indeed](eva) [and](ca) [O-pārvatī](pārvati)
+[brass](pittalaṃ) [bronze-born](kāṃsyasambhūtaṃ) [fish-and-indeed](matsyañcaiva) [and](ca) [O-Parvati](pārvati)
 
 ## mukta-m0-p39-v964
-[silver](rājatam) [and](ca) [O-fair-hipped-one](varārohe) [all+disease+destroying](sarva+roga+vināśanam)
+[silver-and](rājatañca) [O-best-ascended](varārohe) [all-disease-destroying](sarvarogavināśanam)
 
 ## mukta-m0-p39-v965
-[son+increase+causing](putra+vṛddhi+karaṃ) [declared](proktaṃ) [pearl](mauktikaṃ) [O-supreme-goddess](parameśvari)
+[son-growth-causing](putravṛddhikaraṃ) [said](proktaṃ) [pearl](mauktikaṃ) [O-supreme-goddess](parameśvari)
 
 ## mukta-m0-p39-v966
-[brass](pittalaṃ) [all+defect+destroying](sarva+doṣa+ghnaṃ) [copper+born](tāmra+jam) [fame+increasing](kīrti+varddhanam)
+[brass](pittalaṃ) [all-fault-destroying](sarvadoṣaghnaṃ) [copper-born](tāmrajaṃ) [fame-increasing](kīrtivarddhanam)
 
 ## mukta-m0-p39-v967
-[human+skull](nṛ+kapālaṃ) [great+protector](mahā+pālaṃ) [in-all+works](sarva+kārye) [commended](praśastakam)
+[human-skull](nṛkapālaṃ) [great-vessel](mahāpālaṃ) [all-works](sarvakārye) [auspicious](praśastakam)
 
 ## mukta-m0-p39-v968
-[in-pacification](śāntike) [stone](prastaraṃ) [vessel](pātraṃ) [in-immobilization](stambhane) [made-of-clay](mṛn+mayaṃ) [O-śivā](śive)
+[for-pacification](śāntike) [stone](prastaraṃ) [vessel](pātraṃ) [for-stupefaction](stambhane) [clay-made](mṛnmayaṃ) [O-Shiva](śive)
 
 ## mukta-m0-p39-v969
-[viśvāmitra-wood](viśvāmitraṃ) [great+vessel](mahā+pātraṃ) [in-all+works](sarva+kāryeṣu) [rare](durlabham)
+[vishvamitra](viśvāmitraṃ) [great-vessel](mahāpātraṃ) [all-works-in](sarvakāryeṣu) [rare](durlabham)
 
 ## mukta-m0-p39-v970
-[fish-shaped](matsyam) [and](ca) [O-supreme-goddess](parameśvari)
+[fish-and](matsyañca) [O-supreme-goddess](parameśvari)
 
 ## mukta-m0-p39-v971
-[according-to-work+difference](kārya+bhede) [vessel+difference](pātra+bhedaṃ) [should-make](kuryāt) [practitioner](sādhakaḥ) [O-goddess](īśvari)
+[work-difference](kāryabhede) [vessel-difference](pātrabhedaṃ) [do](kuryāt) [practitioner](sādhaka) [O-goddess](īśvari)
 
 ## mukta-m0-p39-v972
-[from-human+skull+arisen](nṛ+kapāla+samudbhūtaṃ) [vessel](pātraṃ) [pure](śuddhaṃ) [declared](prakīrtitam)
+[human](nṛ) [skull-born](kapālasamudbhūtaṃ) [vessel](pātraṃ) [pure](śuddhaṃ) [proclaimed](prakīrtitam)
 
 ## mukta-m0-p39-v973
-[from-that+skull+made](tat+kapāla+kṛtaṃ) [vessel](pātraṃ) [all](sarvaṃ) [of-him](tasya) [in-vain](vṛthā) [would-be](bhavet)
+[that-skull-made](tatkapālakṛtaṃ) [vessel](pātraṃ) [all](sarvaṃ) [its](tasya) [vain](vṛthā) [becomes](bhavet)
 
 ## mukta-m0-p39-v974
-[his](tasya) [head](muṇḍaṃ) [by-oneself](svayaṃ) [having-cut](chedya) [great+vessel](mahā+pātraṃ) [should-fashion](prakalpayet)
+[its](tasya) [head](muṇḍaṃ) [oneself](svayaṃ) [cut](chedya) [great-vessel](mahāpātraṃ) [arrange](prakalpayet)
 
 ## mukta-m0-p39-v975
-[from-his+head+arisen](tasya+muṇḍa+udbhavaṃ) [vessel](pātraṃ) [great+vessel](mahā+pātraṃ) [declared](prakīrtitam)
+[its](tasya) [head-born](muṇḍodbhavaṃ) [vessel](pātraṃ) [great-vessel](mahāpātraṃ) [proclaimed](prakīrtitam)

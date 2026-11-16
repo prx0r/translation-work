@@ -12,15 +12,15 @@
 },
 {
 "surface": "nirmañjya",
-"quick_gloss": "having-cleansed"
+"quick_gloss": "cleansing"
 },
 {
 "surface": "yonideśe",
-"quick_gloss": "in-yoni-place"
+"quick_gloss": "in-vulva-place"
 },
 {
 "surface": "niyojayet",
-"quick_gloss": "one-should-place"
+"quick_gloss": "should-place"
 }
 ]
 },
@@ -57,7 +57,7 @@
 },
 {
 "surface": "japet",
-"quick_gloss": "one-should-recite"
+"quick_gloss": "should-chant"
 }
 ]
 },
@@ -85,12 +85,8 @@
 "quick_gloss": "then"
 },
 {
-"surface": "ramaṇam",
-"quick_gloss": "sexual-union"
-},
-{
-"surface": "ācaret",
-"quick_gloss": "one-should-perform"
+"surface": "ramaṇamācaret",
+"quick_gloss": "should-enjoy"
 }
 ]
 },
@@ -103,27 +99,23 @@
 "tokens": [
 {
 "surface": "tenaiva",
-"quick_gloss": "by-that-very"
+"quick_gloss": "by-that-same"
 },
 {
 "surface": "manunā",
-"quick_gloss": "by-mantra"
+"quick_gloss": "mantra"
 },
 {
 "surface": "devi",
-"quick_gloss": "O-goddess"
+"quick_gloss": "goddess"
 },
 {
 "surface": "ṣaḍaṅge",
-"quick_gloss": "on-six-limbs"
+"quick_gloss": "six-limbed"
 },
 {
-"surface": "nyāsam",
-"quick_gloss": "placement"
-},
-{
-"surface": "ācaret",
-"quick_gloss": "one-should-perform"
+"surface": "nyāsamācaret",
+"quick_gloss": "should-perform-nyāsa"
 }
 ]
 },
@@ -135,20 +127,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "saptatiḥ",
+"surface": "saptatirmantritaṃ",
 "quick_gloss": "seventy-times"
 },
 {
-"surface": "mantritaṃ",
-"quick_gloss": "consecrated"
-},
-{
 "surface": "kṛtvā",
-"quick_gloss": "having-made"
+"quick_gloss": "having-done"
 },
 {
 "surface": "pūtaṃ",
-"quick_gloss": "pure"
+"quick_gloss": "purified"
 },
 {
 "surface": "sarvaṃ",
@@ -160,7 +148,7 @@
 },
 {
 "surface": "dhruvam",
-"quick_gloss": "certainly"
+"quick_gloss": "certain"
 }
 ]
 },
@@ -173,19 +161,19 @@
 "tokens": [
 {
 "surface": "juhuyāt",
-"quick_gloss": "one-should-offer"
+"quick_gloss": "should-offer"
 },
 {
-"surface": "kuṇḍalī+vaktre",
-"quick_gloss": "in-kuṇḍalinī-mouth"
+"surface": "kuṇḍalīvaktre",
+"quick_gloss": "in-kundali-mouth"
 },
 {
-"surface": "mūla+mantreṇa",
+"surface": "mūlamantreṇa",
 "quick_gloss": "with-root-mantra"
 },
 {
 "surface": "sundari",
-"quick_gloss": "O-beautiful-one"
+"quick_gloss": "beautiful-one"
 }
 ]
 },
@@ -197,20 +185,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "bhoga+kāle",
+"surface": "bhogakāle",
 "quick_gloss": "at-enjoyment-time"
 },
 {
-"surface": "mahā+īśāni",
-"quick_gloss": "O-great-goddess"
+"surface": "maheśāni",
+"quick_gloss": "great-goddess"
 },
 {
-"surface": "ā+jihvā+antaṃ",
-"quick_gloss": "up-to-tongue-tip"
+"surface": "ājihvāntaṃ",
+"quick_gloss": "up-to-tongue"
 },
 {
 "surface": "vibhāvayet",
-"quick_gloss": "one-should-visualize"
+"quick_gloss": "should-visualize"
 }
 ]
 },
@@ -222,7 +210,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "mūla+mantraṃ",
+"surface": "mūlamantraṃ",
 "quick_gloss": "root-mantra"
 },
 {
@@ -231,11 +219,11 @@
 },
 {
 "surface": "juhuyāt",
-"quick_gloss": "one-should-offer"
+"quick_gloss": "should-offer"
 },
 {
-"surface": "kuṇḍalī+mukhe",
-"quick_gloss": "in-kuṇḍalinī-mouth"
+"surface": "kuṇḍalīmukhe",
+"quick_gloss": "in-kundali-mouth"
 }
 ]
 },
@@ -247,23 +235,19 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "bhojana+icchā",
-"quick_gloss": "eating-desire"
+"surface": "bhojanecchā",
+"quick_gloss": "desire-to-eat"
 },
 {
-"surface": "bhavet",
-"quick_gloss": "may-be"
+"surface": "bhavettasyā",
+"quick_gloss": "arises"
 },
 {
-"surface": "tasyāḥ",
-"quick_gloss": "of-her"
+"surface": "nirlipto",
+"quick_gloss": "detached"
 },
 {
-"surface": "nirliptaḥ",
-"quick_gloss": "unstained"
-},
-{
-"surface": "jīva+saṃjñakaḥ",
+"surface": "jīvasaṃjñakaḥ",
 "quick_gloss": "called-living-being"
 }
 ]
@@ -288,7 +272,7 @@
 "quick_gloss": "terrible"
 },
 {
-"surface": "eka+viṃśa+kulaiḥ",
+"surface": "ekaviṃśakulaiḥ",
 "quick_gloss": "with-twenty-one-families"
 },
 {
@@ -313,8 +297,8 @@
 "quick_gloss": "remembering"
 },
 {
-"surface": "pibet+madyam",
-"quick_gloss": "one-may-drink-wine"
+"surface": "pivenmadyaṃ",
+"quick_gloss": "should-drink-wine"
 },
 {
 "surface": "khādan",
@@ -329,8 +313,8 @@
 "quick_gloss": "not"
 },
 {
-"surface": "doṣa+bhāk",
-"quick_gloss": "partaker-of-fault"
+"surface": "doṣabhāk",
+"quick_gloss": "fault-bearer"
 }
 ]
 },
@@ -346,15 +330,15 @@
 "quick_gloss": "thus"
 },
 {
-"surface": "śrī+sarvānanda+nātha+viracite",
-"quick_gloss": "in-composed-by-Śrī-Sarvānandanātha"
+"surface": "śrīsarvānandanāthaviracite",
+"quick_gloss": "in-composed-by-śrī-sarvānandanātha"
 },
 {
-"surface": "sarva+ullāse",
-"quick_gloss": "in-Sarvollāsa"
+"surface": "sarvollāse",
+"quick_gloss": "in-sarvollāsa"
 },
 {
-"surface": "ūna+triṃśat+ullāsaḥ",
+"surface": "ūnatriṃśadullāsaḥ",
 "quick_gloss": "twenty-ninth-chapter"
 }
 ]
@@ -379,16 +363,12 @@
 "quick_gloss": "indeed"
 },
 {
-"surface": "sambit",
+"surface": "sambideti",
 "quick_gloss": "consciousness"
 },
 {
-"surface": "iti",
-"quick_gloss": "thus"
-},
-{
 "surface": "prakalpitam",
-"quick_gloss": "conceived"
+"quick_gloss": "is-imagined"
 }
 ]
 },
@@ -416,8 +396,8 @@
 "quick_gloss": "indeed"
 },
 {
-"surface": "sambit+ānanda+bhāk",
-"quick_gloss": "partaker-of-consciousness-bliss"
+"surface": "sambidānandabhāk",
+"quick_gloss": "consciousness-bliss-partaker"
 },
 {
 "surface": "naraḥ",
@@ -433,16 +413,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "bhāva+āktaṃ",
-"quick_gloss": "tinged-with-emotion"
+"surface": "bhāvāktaṃ",
+"quick_gloss": "emotion-tinged"
 },
 {
-"surface": "sambit+ānandaṃ",
+"surface": "sambidānandaṃ",
 "quick_gloss": "consciousness-bliss"
 },
 {
-"surface": "madya+ānandam+abhedakam",
-"quick_gloss": "non-different-from-wine-bliss"
+"surface": "madyānandam",
+"quick_gloss": "wine-bliss"
+},
+{
+"surface": "abhedakam",
+"quick_gloss": "non-different"
 }
 ]
 },
@@ -454,20 +438,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "bhāva+ānandeṣu",
-"quick_gloss": "in-emotional-blisses"
+"surface": "bhāvānandeṣu",
+"quick_gloss": "in-emotion-blisses"
 },
 {
-"surface": "deva+īśi",
-"quick_gloss": "O-lord-of-gods"
+"surface": "deveśi",
+"quick_gloss": "goddess"
 },
 {
-"surface": "mukti+bhāk",
-"quick_gloss": "sharer-of-liberation"
+"surface": "muktibhāg",
+"quick_gloss": "liberation-share"
 },
 {
 "surface": "jāyate",
-"quick_gloss": "becomes"
+"quick_gloss": "is-born"
 },
 {
 "surface": "naraḥ",
@@ -487,12 +471,12 @@
 "quick_gloss": "then"
 },
 {
-"surface": "kaivalya+muktiḥ",
+"surface": "kaivalyamuktiḥ",
 "quick_gloss": "absolute-liberation"
 },
 {
 "surface": "syāt",
-"quick_gloss": "may-be"
+"quick_gloss": "would-be"
 },
 {
 "surface": "satyaṃ",
@@ -504,7 +488,7 @@
 },
 {
 "surface": "na",
-"quick_gloss": "no"
+"quick_gloss": "not"
 },
 {
 "surface": "saṃśayaḥ",
@@ -528,15 +512,15 @@
 "quick_gloss": "knowledge"
 },
 {
-"surface": "sambit+udthaṃ",
+"surface": "sambidotthaṃ",
 "quick_gloss": "arisen-from-consciousness"
 },
 {
-"surface": "mukti+artham",
+"surface": "muktyartham",
 "quick_gloss": "for-liberation"
 },
 {
-"surface": "ubhaya+anvitam",
+"surface": "ubhayānvitam",
 "quick_gloss": "endowed-with-both"
 }
 ]
@@ -549,8 +533,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "sadā+ānanda+pradāyakam",
-"quick_gloss": "bestower-of-eternal-bliss"
+"surface": "sadānanda",
+"quick_gloss": "always-bliss"
+},
+{
+"surface": "pradāyakam",
+"quick_gloss": "giving"
 }
 ]
 },
@@ -562,7 +550,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "ataḥ",
+"surface": "ata",
 "quick_gloss": "therefore"
 },
 {
@@ -570,16 +558,12 @@
 "quick_gloss": "indeed"
 },
 {
-"surface": "mahā+deva",
-"quick_gloss": "O-great-god"
+"surface": "mahādeva",
+"quick_gloss": "great-god"
 },
 {
-"surface": "sambidā+grahaṇam",
-"quick_gloss": "grasping-of-consciousness"
-},
-{
-"surface": "caret",
-"quick_gloss": "one-should-practice"
+"surface": "sambidāgrahaṇañcaret",
+"quick_gloss": "should-practice-consciousness-grasping"
 }
 ]
 },
@@ -595,12 +579,12 @@
 "quick_gloss": "always"
 },
 {
-"surface": "parama+īśāna",
-"quick_gloss": "O-supreme-lord"
+"surface": "parameśāna",
+"quick_gloss": "supreme-lord"
 },
 {
-"surface": "siddhi+ānandaṃ",
-"quick_gloss": "bliss-of-accomplishment"
+"surface": "siddhyānandaṃ",
+"quick_gloss": "accomplishment-bliss"
 },
 {
 "surface": "kvacit",
@@ -620,24 +604,24 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "madya+ānandaṃ",
-"quick_gloss": "bliss-of-wine"
+"surface": "madyānandaṃ",
+"quick_gloss": "wine-bliss"
 },
 {
-"surface": "kvacit",
+"surface": "kvacid",
 "quick_gloss": "sometimes"
 },
 {
 "surface": "deva",
-"quick_gloss": "O-god"
+"quick_gloss": "god"
 },
 {
 "surface": "parvaṇi",
-"quick_gloss": "on-festival-day"
+"quick_gloss": "at-festival"
 },
 {
-"surface": "madhu+pāna+yuk",
-"quick_gloss": "engaged-in-drinking-honey-wine"
+"surface": "madhupānayuk",
+"quick_gloss": "with-honey-drinking"
 }
 ]
 },
@@ -657,11 +641,11 @@
 "quick_gloss": "if"
 },
 {
-"surface": "pibet+madyam",
-"quick_gloss": "one-drinks-wine"
+"surface": "pivenmadyaṃ",
+"quick_gloss": "drinks-wine"
 },
 {
-"surface": "ādi+ante",
+"surface": "ādyante",
 "quick_gloss": "at-beginning-and-end"
 },
 {
@@ -669,8 +653,8 @@
 "quick_gloss": "consciousness"
 },
 {
-"surface": "pibet",
-"quick_gloss": "one-should-drink"
+"surface": "pivet",
+"quick_gloss": "should-drink"
 }
 ]
 },
@@ -683,19 +667,15 @@
 "tokens": [
 {
 "surface": "śukle",
-"quick_gloss": "in-bright-fortnight"
+"quick_gloss": "in-bright"
 },
 {
-"surface": "ca",
-"quick_gloss": "and"
-},
-{
-"surface": "ādyaṃ",
-"quick_gloss": "first"
+"surface": "cādyaṃ",
+"quick_gloss": "and-at-beginning"
 },
 {
 "surface": "pivet",
-"quick_gloss": "one-should-drink"
+"quick_gloss": "should-drink"
 },
 {
 "surface": "siddhiṃ",
@@ -703,23 +683,15 @@
 },
 {
 "surface": "kṛṣṇe",
-"quick_gloss": "in-dark-fortnight"
+"quick_gloss": "in-dark"
 },
 {
-"surface": "ca",
-"quick_gloss": "and"
+"surface": "cādyaṃ",
+"quick_gloss": "and-at-beginning"
 },
 {
-"surface": "ādyaṃ",
-"quick_gloss": "first"
-},
-{
-"surface": "pivet",
-"quick_gloss": "one-should-drink"
-},
-{
-"surface": "madhu",
-"quick_gloss": "honey-wine"
+"surface": "pivenmadhu",
+"quick_gloss": "should-drink-honey"
 }
 ]
 },
@@ -732,11 +704,11 @@
 "tokens": [
 {
 "surface": "tvaritāyāḥ",
-"quick_gloss": "of-Tvaritā"
+"quick_gloss": "of-quick-one"
 },
 {
-"surface": "tamaḥ+udbhūtam",
-"quick_gloss": "arisen-from-darkness"
+"surface": "udbhūtam",
+"quick_gloss": "arisen"
 },
 {
 "surface": "iti",

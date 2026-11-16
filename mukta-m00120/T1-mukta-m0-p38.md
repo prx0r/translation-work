@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p38-v926
-[of-knowers](jñānināṃ) [by-knowledge+difference](jñānabhedena) [of-various+forms](nānārūpā) [and](ca) [by-consciousness](samvidā)
+[of-knowers](jñānināṃ) [by-knowledge-difference](jñānabhedena) [various-formed](nānārūpā) [and](ca) [consciousness](samvidā)
 
 ## mukta-m0-p38-v927
-[fault](dūṣaṇaṃ) [indeed](hi) [of-fruit+marked](phalāktasya) [quality](guṇaṃ) [to-be-known](jñeyaṃ) [indeed](hi) [of-that](tasya) [but](tu)
+[fault](dūṣaṇaṃ) [indeed](hi) [of-fruit-smeared](phalāktasya) [quality](guṇaṃ) [to-be-known](jñeyaṃ) [indeed](hi) [of-that](tasya) [but](tu)
 
 ## mukta-m0-p38-v928
-[characteristic](lakṣaṇaṃ) [indeed](hi) [likewise](tathā) [praise](stotraṃ) [my](mama) [in-place](sthāne) [reveal](prakāśaya)
+[characteristic](lakṣaṇaṃ) [indeed](hi) [thus](tathā) [hymn](stotraṃ) [my](mama) [place](sthāne) [reveal](prakāśaya)
 
 ## mukta-m0-p38-v929
-[otherwise](anyathā) [of-consciousnesses](samvidāṃ) [knowledge](vidyāṃ) [drink](pived) [bliss+cause](ānandahetave)
+[otherwise](anyathā) [of-consciousnesses](samvidāṃ) [knowledge](vidyāṃ) [drink](piveda) [for-bliss-cause](ānandahetave)
 
 ## mukta-m0-p38-v930
-[by-flower+difference](puṣpabhedena) [O-goddess+lord](deveśi) [species+difference](jātibhedaṃ) [one-should-consider](vicintayet)
+[by-flower-difference](puṣpabhedena) [goddess](deveśi) [birth-difference](jātibhedaṃ) [consider](vicintayet)
 
 ## mukta-m0-p38-v931
-[in-action+destroyed](karmanaṣṭe) [in-birth+destroyed](jātinaṣṭe) [even](api) [liberation+sharer](muktibhāk)
+[by-action-lost](karmanaṣṭe) [by-birth-lost](jātinaṣṭe) [even](api) [liberation-possessor](muktibhāk)
 
 ## mukta-m0-p38-v932
-[with-sugar](sitayā) [or](atha) [with-jaggery](guḍena) [also](api) [with-ripe](pakvaiḥ) [with-bananas](kadalikair) [also](api)
+[with-sugar](sitayā) [then](atha) [with-jaggery](guḍenāpi) [with-ripe](pakvaiḥ) [with-bananas](kadalikairapi)
 
 ## mukta-m0-p38-v933
-[by-that](tena) [all](sarveṇa) [vijayā](vijayāṃ) [one-should-take](svīkuryāt) [practitioner+best](sādhakottamaḥ)
+[by-that](tena) [all](sarveṇa) [vijayā](vijayāṃ) [accept](svīkuryāt) [best-practitioner](sādhakottamaḥ)
 
 ## mukta-m0-p38-v934
-[great+splendor+making](mahātejaskarī) [eye+defect+etc.+destroying](cakṣurdoṣādikavināśinī)
+[great-radiance-causing](mahātejaskarī) [eye-disorder-etc-destroying](cakṣurdoṣādikavināśinī)
 
 ## mukta-m0-p38-v935
-[with-ghee](ghṛtena) [with-honey](madhunā) [holds](dhatte) [speech+goddess+subduing](vāgdevīvaśakāriṇī)
+[with-ghee](ghṛtena) [with-honey](madhunā) [holds](dhatte) [speech-goddess-subduing](vāgdevīvaśakāriṇī)
 
 ## mukta-m0-p38-v936
-[bile+defects](pittadoṣān) [phlegm+defects](śleṣmadoṣān) [with-honey](madhunā) [together](saha) [destroys](nāśayet)
+[bile-disorders](pittadoṣān) [phlegm-disorders](śleṣmadoṣān) [with-honey](madhunā) [together](saha) [destroy](nāśayet)
 
 ## mukta-m0-p38-v937
-[with-sugar](sitayā) [or](atha) [with-jaggery](guḍena) [indeed](eva) [colic+destroying](śūlaghnī) [bile+destroying](pittanāśinī)
+[with-sugar](sitayā) [then](atha) [with-jaggery-indeed](guḍenaiva) [colic-destroying](śūlaghnī) [bile-destroying](pittanāśinī)
 
 ## mukta-m0-p38-v938
-[rheumatism+arisen](āmavātasamudbhūta) [sprue+removing](grahaṇīvinivāriṇī)
+[from-raw-wind-born](āmavātasamudbhūta) [intestine-disorder-removing](grahaṇīvinivāriṇī)
 
 ## mukta-m0-p38-v939
-[strength+nourishment+giving](valapuṣṭipradā) [and](ca) [indeed](eva) [sweet+voice+giving](madhurasvaradāyinī)
+[strength-nourishment-giving](valapuṣṭipradā) [and-indeed](caiva) [sweet-voice-giving](madhurasvaradāyinī)
 
 ## mukta-m0-p38-v940
-[revealed](prakāśitaṃ) [to-you](tava) [out-of-affection](snehāt) [in-all+āgamas](sarvāgameṣu) [concealed](gopitam)
+[revealed](prakāśitaṃ) [your](tava) [from-affection](snehāt) [in-all-scriptures](sarvāgameṣu) [hidden](gopitam)
 
 ## mukta-m0-p38-v941
-[guru+mantra](gurumantraṃ) [having-uttered](samuccārya) [dative+ending](caturthyantaṃ) [one-should-offer](nivedayet)
+[guru-mantra](gurumantraṃ) [uttering](samuccārya) [ending-in-dative](caturthyantaṃ) [offer](nivedayet)
 
 ## mukta-m0-p38-v942
-[chosen+deity](iṣṭadevasya) [its+mantra](tanmantraṃ) [muttering](prajapan) [should-move](viharet) [accomplished-one](kṛtī)
+[of-chosen-deity](iṣṭadevasya) [that-mantra](tanmantraṃ) [repeating](prajapan) [wander](viharet) [accomplished](kṛtī)
 
 ## mukta-m0-p38-v943
-[splendid](tejasvī) [strong](valavān) [eloquent](vāgmī) [intelligent](medhāvī) [pleasant+to-see](priyadarśanaḥ)
+[radiant](tejasvī) [strong](valavān) [eloquent](vāgmī) [intelligent](medhāvī) [pleasant-looking](priyadarśanaḥ)
 
 ## mukta-m0-p38-v944
-[will-be](bhaviṣyati) [not](na) [doubt](sandeho) [of-substance](dravyasya) [of-this](asya) [by-use](niṣevaṇāt)
+[will-be](bhaviṣyati) [not](na) [doubt](sandeho) [from-use-of-this-substance](dravyasyāsya+niṣevaṇāt)
 
 ## mukta-m0-p38-v945
-[consciousness](samvit) [application](prayogas) [by-that](tena) [indeed](eva) [to-be-done](kartavyaḥ) [practitioner+best](sādhakottamaḥ)
+[consciousness](samvit) [application](prayogaḥ) [by-that-indeed](tenaiva) [to-be-done](kartavyaḥ) [best-practitioner](sādhakottamaḥ)
 
 ## mukta-m0-p38-v946
-[one+tola](tolakambā) [two+tolas](dvitolambā) [three+tolas](tolakatrayam) [indeed](eva) [or](vā)
+[one-tola](tolakambā) [two-tola](dvitolambā) [three-tola-indeed](tolakatrayameva) [or](vā)
 
 ## mukta-m0-p38-v947
-[therefore](tasmāt) [measure+quantity](pramāṇamātrā) [indeed](hi) [to-be-done](kartavyā) [success+desiring](siddhimicchatā)
+[therefore](tasmāt) [measure-amount](pramāṇamātrā) [indeed](hi) [to-be-done](kartavyā) [desiring-success](siddhimicchatā)
 
 ## mukta-m0-p38-v948
-[by-grace](prasādāt) [without-delay](acirāt) [of-her](asyāḥ) [success](siddhir) [becomes](bhavati) [desired](vāñchitā)
+[from-grace](prasādāt) [quickly](acirāt) [of-her](asyāḥ) [success](siddhir) [becomes](bhavati) [desired](vāñchitā)
 
 ## mukta-m0-p38-v949
-[O-goddess](devi) [by-you](tvayā) [also](api) [by-method](vidhinā) [should-be-performed](pravidhīyatāṃ) [that](tat)
+[goddess](devi) [by-you-too](tvayāpi) [by-rite](vidhinā) [let-be-performed](pravidhīyatāṃ) [that](tat)
 
 ## mukta-m0-p38-v950
-[these](etāni) [equal+parts](samabhāgāni) [in-sun](raudre) [dried](śuṣkāṇi) [one-should-pulverize](cūrṇayet)
+[these](etāni) [equal-parts](samabhāgāni) [in-fierce](raudre) [dry](śuṣkāṇi) [powder](cūrṇayet)

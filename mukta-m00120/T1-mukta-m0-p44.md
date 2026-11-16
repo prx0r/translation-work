@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p44-v1076
-[by-his-command](tadājñayā) [one-should-enjoy](ramet) [the-śakti](śaktiṃ) [mother-state](mātṛbhāvaṃ) [one-should-abandon](parityajet)
+[by-that-command](tadājñayā) [should-enjoy](ramet) [śakti](śaktiṃ) [motherhood](mātṛbhāvaṃ) [should-abandon](parityajet)
 
 ## mukta-m0-p44-v1077
-[śrī-guru's](śrīguroś) [feet](caraṇaṃ) [meditating-on](dhyāyan) [on-one's-own-head](svamūrdhni) [guru's-sandals](gurupādukām)
+[śrī-guru's-feet](śrīguroścaraṇaṃ) [meditating](dhyāyan) [on-own-head](svamūrdhni) [guru's-sandals](gurupādukām)
 
 ## mukta-m0-p44-v1078
-[ānanda-bhairava](ānandabhairavaṃ) [the-god](devaṃ) [one's-own-chosen-vidyā](sveṣṭavidyāṃ) [indeed](hi) [one-should-satisfy](tarpayet)
+[ānanda-bhairava](ānandabhairavaṃ) [god](devaṃ) [own-desired-vidyā](sveṣṭavidyāṃ) [indeed](hi) [should-satisfy](tarpayet)
 
 ## mukta-m0-p44-v1079
-[in-the-sahasrāra](sahasrāre) [with-one's-own-chosen-vidyā](sveṣṭavidyā) [accompanied](sahitaṃ) [one-should-satisfy](tarpayed) [the-guru](gurum)
+[in-sahasrāra](sahasrāre) [with-own-desired-vidyā](sveṣṭavidyāsahitaṃ) [should-satisfy](tarpayed) [guru](gurum)
 
 ## mukta-m0-p44-v1080
-[in-non-difference](abhede) [one-should-satisfy](tarpayed) [O-fair-one](bhadre) [in-the-sahasrāra](sahasrāre) [in-the-great-city](mahāpure)
+[in-nondifference](abhede) [should-satisfy](tarpayed) [O-blessed](bhadre) [in-sahasrāra](sahasrāre) [in-great-city](mahāpure)
 
 ## mukta-m0-p44-v1081
-[and-therefore](ataśca) [one-should-satisfy](tarpayed) [the-gods](devān) [in-tāntric](tāntrike) [and](ca) [in-vedic-rites](vaidikeṣu)
+[and-thus](ataśca) [should-satisfy-gods](tarpayeddevān) [in-tantric](tāntrike) [in-vedic](vaidikeṣu) [and](ca)
 
 ## mukta-m0-p44-v1082
-[śrī-sandals](śrīpādukāṃ) [I-satisfy](tarpayāmi) [I-worship](pūjayāmi) [thus](iti) [or](vā) [O-beloved](priye)
+[śrī-sandals](śrīpādukāṃ) [I-satisfy](tarpayāmi) [I-worship-thus](pūjayāmīti) [or](vā) [O-beloved](priye)
 
 ## mukta-m0-p44-v1083
-[the-supreme-guru](parameṣṭhiguruṃ) [O-goddess](devi) [one-should-satisfy](tarpayet) [three-times-three](tritrivārakam)
+[supreme-guru](parameṣṭhiguruṃ) [O-goddess](devi) [should-satisfy](tarpayet) [three-times](tritrivārakam)
 
 ## mukta-m0-p44-v1084
-[the-higher-lower-guru](parāparaguruḥ) [who](ko) [or](vā) [and](ca) [the-supreme-guru](parameṣṭhiguruś) [who](kaḥ)
+[transcendent-immanent-guru](parāparaguruḥ) [who](ko) [or](vā) [and-supreme-guru](parameṣṭhiguruśca) [who](kaḥ)
 
 ## mukta-m0-p44-v1085
-[of-various-forms](nānārūpaṃ) [gross-only](sthūlamātraṃ) [just-as](yathā) [fire](agniḥ) [with-wood](kāṣṭha) [joined](saṃyutaḥ)
+[many-formed](nānārūpaṃ) [gross-only](sthūlamātraṃ) [as-fire](yathāgniḥ) [joined-with-wood](kāṣṭhasaṃyutaḥ)
 
 ## mukta-m0-p44-v1086
-[unity](aikyaṃ) [having-made](kṛtvā) [gross-and-subtle](sthūla+sūkṣmaṃ) [all](sarvam) [this](etat) [is-revealed](prakāśitam)
+[unity](aikyaṃ) [having-made](kṛtvā) [gross-subtle](sthūlasūkṣmaṃ) [all-this](sarvametat) [manifested](prakāśitam)
 
 ## mukta-m0-p44-v1087
-[the-higher-lower-guru](parāparagurus) [you](tvaṃ) [indeed](hi) [the-supreme-guru](parameṣṭhigurur) [I](aham) [indeed](hi)
+[you-are-transcendent-immanent-guru](parāparagurustvaṃ) [indeed](hi) [I-am-supreme-guru](parameṣṭhigururhyaham)
 
 ## mukta-m0-p44-v1088
-[with-her-vehicle](savāhanāṃ) [one's-own-chosen-goddess](sveṣṭadevīṃ) [I-satisfy](tarpayāmi) [in-two-ways](dvidhā) [ending](antakaḥ)
+[with-vehicle](savāhanāṃ) [own-desired-goddess](sveṣṭadevīṃ) [I-satisfy](tarpayāmi) [ending-in-two-ways](dvidhāantakaḥ)
 
 ## mukta-m0-p44-v1089
-[one-should-satisfy](tarpayec) [if](cet) [from-attachment-to-ritual](kriyāsaṅgād) [with-the-guru](guruṇā) [together](saha) [the-future-one](bhāvinīm)
+[if-should-satisfy](tarpayeccet) [due-to-attachment-to-action](kriyāsaṅgād) [with-guru](guruṇā) [together](saha) [future-one](bhāvinīm)
 
 ## mukta-m0-p44-v1090
-[white-colored](śvetavarṇā) [two-armed](dvibhujā) [described](uktā) [two-eyed](dvinetrā) [with-him](tat) [united](samāyutam)
+[white-colored](śvetavarṇā) [two-armed](dvibhujāktā) [two-eyed](dvinetrā) [endowed-with-that](tatsamāyutam)
 
 ## mukta-m0-p44-v1091
-[with-him](tat) [united](saṃyuktaṃ) [the-guru](guruṃ) [one-should-meditate-on](dhyāyet) [satisfaction-and-so-forth](tarpaṇādikam) [one-should-perform](ācaret)
+[joined-with-that](tatsaṃyuktaṃ) [guru](guruṃ) [should-meditate](dhyāyet) [should-perform-tarpaṇa-etc](tarpaṇādikamācaret)
 
 ## mukta-m0-p44-v1092
-[from-thumb-and-forefinger](aṃguṣṭha+tarjanī) [union](yogād) [on-the-right](dakṣiṇe) [falling-of-flower](puṣpa+pātanam)
+[from-thumb-index-union](aṃguṣṭhatarjanīyogād) [on-right](dakṣiṇe) [flower-falling](puṣpapātanam)
 
 ## mukta-m0-p44-v1093
-[of-these-two](anayor) [by-mere-union](yogamātreṇa) [substance](dravyaṃ) [flower](puṣpaṃ) [delightful-to-the-mind](manoharam)
+[by-union-of-these-only](anayoryogamātreṇa) [substance](dravyaṃ) [flower](puṣpaṃ) [charming](manoharam)
 
 ## mukta-m0-p44-v1094
-[from-union-with-thumb](aṃguṣṭhayogāt) [she](sā) [goddess](devī) [blossomed](puṣpitā) [overwhelmed-by-desire](kāmavihvalā)
+[from-thumb-union](aṃguṣṭhayogāt) [she](sā) [goddess](devī) [flowered](puṣpitā) [overwhelmed-by-desire](kāmavihvalā)
 
 ## mukta-m0-p44-v1095
-[one-should-satisfy](tarpayed) [in-the-middle-of-the-yoni](yonimadhye) [but](tu) [the-yoni](yoniṃ) [having-grasped](saṃgṛhya) [that-supreme](tatparam)
+[should-satisfy](tarpayed) [in-yoni-middle](yonimadhye) [but](tu) [yoni](yoniṃ) [having-grasped](saṃgṛhya) [intent-on-that](tatparam)
 
 ## mukta-m0-p44-v1096
-[by-a-mere-drop](bindumātreṇa) [of-substance](dravyeṇa) [satisfied](tuṣṭā) [becomes](bhavati) [the-desirous-one](kāminī)
+[by-drop-only](bindumātreṇa) [by-substance](dravyeṇa) [satisfied](tuṣṭā) [becomes](bhavati) [desirous-woman](kāminī)
 
 ## mukta-m0-p44-v1097
-[satisfaction-and-so-forth](tarpaṇādi) [should-be-performed](prakartavyaṃ) [consisting-of-water](jalamāyā) [eternal](sanātanī)
+[tarpaṇa-etc](tarpaṇādi) [to-be-done](prakartavyaṃ) [water-māyā](jalamāyā) [eternal](sanātanī)
 
 ## mukta-m0-p44-v1098
-[likewise](tathā) [water](toyaṃ) [worshipful-to-all](sarvapūjyaṃ) [to-all](sarvasya) [giving-bondage-and-liberation](bandha+muktidam)
+[thus](tathā) [water](toyaṃ) [worshipable-by-all](sarvapūjyaṃ) [of-all](sarvasya) [giving-bondage-liberation](bandhamuktidam)
 
 ## mukta-m0-p44-v1099
-[one-should-satisfy](tarpayed) [the-knower](jñānavān) [O-goddess](devi) [on-one's-own-head](svamūrdhni) [or](vā) [in-the-heart](hṛdaye) [and](ca)
+[should-satisfy](tarpayed) [knower](jñānavān) [O-goddess](devi) [on-own-head](svamūrdhni) [in-heart](hṛdaye) [and](ca) [or](vā)
 
 ## mukta-m0-p44-v1100
-[of-the-three-guṇas](guṇatrayasya) [and](ca) [in-oneness](aikatve) [satisfaction](tarpaṇaṃ) [and](ca) [once](ekavārakam)
+[of-three-guṇas](guṇatrayasya) [in-unity](caikatve) [tarpaṇa](tarpaṇaṃ) [one-time](caikavārakam)
