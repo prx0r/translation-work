@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p11-v251
-[first](pūrvaṃ) [offering](bali) [to-be-given](pradātavyaṃ) [by-own-mantras-specifically](svaisvairmantrarviśeṣataḥ)
+first(pūrvaṃ) offering(bali) to-be-given(pradātavyaṃ) with-one's-own+respective+mantras(svaisvairmantrar) specifically(viśeṣataḥ)
 
 ## mukta-m0-p11-v252
-[parasol](chatra) [and](pa) [banner-etc](dhvajādyaiśca) [with-praise-auspicious-words](stotramaṅgalavācakaiḥ)
+with-parasol+*[+flag+etc.](chatra+pa+*+dhvajādyaiśca) with-hymn+auspicious+reciters(stotramaṅgalavācakaiḥ)
 
 ## mukta-m0-p11-v253
-[with-attendants](paricārakasaṃyuktaṃ) [surrounded-by-all-devotees](sarvabhaktajanāvṛtam)
+attendant+accompanied(paricārakasaṃyuktaṃ) all+devotee+people+surrounded(sarvabhaktajanāvṛtam)
 
 ## mukta-m0-p11-v254
-[scented](gandhaliptassupuṣpāḍhyastvācāryassakalīkṛtaḥ)
+sandal-paste+anointed(gandhaliptaḥ) well+flower+endowed(supuṣpāḍhyaḥ) and+teacher(tvācāryaḥ) made-complete(sakalīkṛtaḥ)
 
 ## mukta-m0-p11-v255
-[teacher-or-disciple](ācāryaśśiṣyo) [or](vā) [may-give](dadyādanujñātastu) [by-him-indeed](tena) [vai](vai)
+teacher(ācāryaḥ) or(vā) disciple(śiṣyo) should-give(dadyāt) permitted(anujñātaḥ) indeed(vai) by-him(tena)
 
 ## mukta-m0-p11-v256
-[from-brahma-etc](brahmādyaiśāntamindrādyabrahmāntaṃ) [or](vā) [offering](baliṃ) [may-cast](kṣipet)
+beginning-with-Brahmā+ending-with-Īśa(brahmādyaiśāntam) or(vā) beginning-with-Indra+ending-with-Brahmā(indrādyabrahmāntaṃ) offering(baliṃ) should-cast(kṣipet)
 
 ## mukta-m0-p11-v257
-[in-western-gate-palace](paścimadvāraharmye) [tu](tu) [in-daily-etc-triad](nityāditritayeṣvapi)
+in-western+door+shrine(paścimadvāraharmye) indeed(tu) also(api) in-the-three+beginning-with-Nityā(nityāditritayeṣu)
 
 ## mukta-m0-p11-v258
-[in-nine-places](navasthāneṣu) [having-worshipped](saṃpūjya) [on-yantra-seat](yantrapīṭhe) [day-lords](dinādhipān)
+in-nine+places(navasthāneṣu) having-worshipped(saṃpūjya) on-the-yantra+pedestal(yantrapīṭhe) the-lords-of-days(dinādhipān)
 
 ## mukta-m0-p11-v259
-[nine-days-fifteen-offerings](navāheṣṭādaśa) [balissaptāhe](balissaptāhe) [tu](tu) [fourteen](caturdaśa)
+in-nine-day-rite(navāhe) eighteen(aṣṭādaśa) offering(baliḥ) but(tu) in-seven-day-rite(saptāhe) fourteen(caturdaśa)
 
 ## mukta-m0-p11-v260
-[vighneśa-bhūta-gandharvāḥ](vighneśabhūta) [gandharvā](gandharvā) [sureśa-muni-mādhavāḥ](sureśamuni) [mādhavāḥ](mādhavāḥ)
+Vighneśa+Bhoota+Gandharvas(vighneśabhūta+gandharvā) Sureśa+Muni+Mādhavas(sureśamuni+mādhavāḥ)
 
 ## mukta-m0-p11-v261
-[bhūtendra-viṣṇu-pūrvāḥ](bhūtendra) [viṣṇupūrvāssyuḥ](viṣṇupūrvāssyuḥ) [sura-ṣaṭ-brāhma-mūrtikam](sura) [ṣaṭ](ṣaṭ) [brāhmamūrtikam](brāhmamūrtikam)
+beginning-with-Bhūtendra+Viṣṇu(bhūtendra+viṣṇupūrvāḥ) should-be(syuḥ) six-gods(sura+ṣaṭ) of-Brahmā-form(brāhmamūrtikam)
 
 ## mukta-m0-p11-v262
-[nandyāvarti](nandyāvartiṃ) [ca](ca) [pure-rice](śuddhānnaṃ) [laḍḍuka-modaka-ghee](laḍḍukāmodakaṃ) [ghṛtam](ghṛtam)
+nandyāvarta-flower(nandyāvartiṃ) and(ca) pure-rice(śuddhānnaṃ) laddu+modaka(laḍḍukāmodakaṃ) ghee(ghṛtam)
 
 ## mukta-m0-p11-v263
-[plantain-fruit-gulā-ghee](rambhāphalagulājyāni) [of-offering](balissyāt) [brāhmaṇa-dear](brāhmaṇaḥ) [priyaḥ](priyaḥ)
+plantain-fruit+molasses+ghee(rambhāphalagulājyāni) offering(baliḥ) should-be(syāt) dear-to-Brahmins(brāhmaṇaḥ+priyaḥ)
 
 ## mukta-m0-p11-v264
-[of-beings](bhūtānāṃ) [tu](tu) [offering](baliḥ) [proktaṃ](proktaṃ) [kusumairyutam](kusumairyutam)
+but(tu) for-the-bhūtas(bhūtānāṃ) offering(baliḥ) declared(proktaṃ) *+*+*+endowed-with-flowers(*+*+*+kusumairyutam)
 
 ## mukta-m0-p11-v265
-[jāti-flower](jātipuṣpaṃ) [gulā-rice](gulānnaṃ) [ca](ca) [jackfruit-mango-fruit](panasāmraphalaṃ) [smṛtam](smṛtam)
+jasmine-flower(jātipuṣpaṃ) and(ca) molasses-rice(gulānnaṃ) jackfruit+mango-fruit(panasāmraphalaṃ) remembered(smṛtam)
 
 ## mukta-m0-p11-v266
-[ve-nnaṃ](ve) [curd-mixed](dadhisamyuktaṃ) [mudga-māṣa-ghee-included](mudgamāṣaghṛtānvitam)
+ve+*+rice(ve+*+nnaṃ) curd+mixed(dadhisaṃyuktaṃ) mung-bean+black-gram+ghee+endowed(mudgamāṣaghṛtānvitam)
 
 ## mukta-m0-p11-v267
-[tulasī](tulasī) [ca](ca) [gulā-rice](gulānnaṃ) [ca](ca) [ghee](ghṛtaṃ) [ca](ca) [bṛhatī-fruit](bṛhatīphalam)
+tulsi(tulasī) and(ca) molasses-rice(gulānnaṃ) and(ca) ghee(ghṛtaṃ) and(ca) bṛhatī-fruit(bṛhatīphalam)
 
 ## mukta-m0-p11-v268
-[kṛsara](kṛsaraṃ) [caiva](caiva) [jālā](jālā) [cā](cā) [cake](pūpaṃ) [coconut](nālikerakam)
+kṛsara-dish(kṛsaraṃ) and(ca) indeed(caiva) jālā(cā) cake(pūpaṃ) coconut(nālikerakam)
 
 ## mukta-m0-p11-v269
-[āragvadha](āragvadhaṃ) [ca](ca) [pure-rice](śuddhānnaṃ) [niṣpāpaṃ](niṣpāpaṃ) [jackfruit-ghee](panasājyakam)
+āragvadha-flower(āragvadhaṃ) and(ca) pure-rice(śuddhānnaṃ) sinless-offering(niṣpāpaṃ) jackfruit+ghee(panasājyakam)
 
 ## mukta-m0-p11-v270
-[if-flowers-lacking](puṣpālābhe) [as-available](yathālābhaṃ) [flower](puṣpaṃ) [grāhya](grāhya) [offering](baliṃ) [dadet](dadet)
+in-absence-of-flowers(puṣpālābhe) as-available(yathālābhaṃ) flower(puṣpaṃ) having-taken(grāhya) offering(baliṃ) one-should-give(dadet)
 
 ## mukta-m0-p11-v271
-[droṇa-half](droṇamardhaṃ) [that-half](tadardhaṃ) [or](vā) [offering-half](balyardhaṃ) [rice](taṇḍulaṃ) [bhavet](bhavet)
+a-droṇa(droṇam) half(ardhaṃ) or(vā) half-of-that(tadardhaṃ) half-of-offering(balyardhaṃ) rice-grains(taṇḍulaṃ) should-be(bhavet)
 
 ## mukta-m0-p11-v272
-[on-seat](pīṭhe) [proktaṃ](proktaṃ) [tat](tat) [balilakṣaṇam](balilakṣaṇam)
+*+*+*+*+*+*+on-the-pedestal(*+*+*+*+*+*+pīṭhe) declared(proktaṃ) that(tat) offering+characteristic(balilakṣaṇam)
 
 ## mukta-m0-p11-v273
-[foot-washing](pādaprakṣālanaṃ) [having-done](kṛtvā) [entering-inside](praviśyābhyantaraṃ) [wise](budhā)
+foot+washing(pādaprakṣālanaṃ) having-done(kṛtvā) having-entered(praviśya) inside(abhyantaraṃ) the-wise(budhā)
 
 ## mukta-m0-p11-v274
-[pūṣā](pūṣā) [stale-flower](paryuṣitaṃ) [puṣpaṃ](puṣpaṃ) [caṇḍeśāya](caṇḍeśāya) [nivedayet](nivedayet)
+to-Pūṣan(pūṣā) stale+flower(paryuṣitaṃ+puṣpaṃ) to-Caṇḍeśa(caṇḍeśāya) one-should-offer(nivedayet)
 
 ## mukta-m0-p11-v275
-[of-offering-following](baleranugato) [pradakṣiṇam](pradakṣiṇam)
+following-the-offering(baleranugato) *+*+*+*+nto(*+*+*+*+nto) or(vā) circumambulation(pradakṣiṇam)

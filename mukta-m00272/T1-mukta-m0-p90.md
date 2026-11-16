@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p90-v2226
-[tarpaṇaṃ](tarpaṇaṃ) [libation](pūjanaṃ) [worship](ca) [and](api) [also](pūrvavat) [as-before](vidhinā) [by-rite](bhavet) [should-be](tarpaṇaṃ)
+[libation](tarpaṇaṃ) [worship](pūjanaṃ) [and](ca) [also](api) [as-before](pūrvavat) [by-rule](vidhinā) [should-be](bhavet)
 
 ## mukta-m0-p90-v2227
-[puṣpa-tāḍana-pūjā-ādi](puṣpatāḍanapūjādi) [flower-striking-worship-etc](pūrvavat) [as-before](kuryāt) [should-do](tataḥ) [then](puṣpatāḍanapūjādi)
+[flower+striking+worship+etc](puṣpatāḍanapūjādi) [as-before](pūrvavat) [one-should-do](kuryāt) [then](tataḥ)
 
 ## mukta-m0-p90-v2228
-[namo-antaṃ](namontaṃ) [ending-in-namo](mantram) [mantra](uccārya) [having-uttered](pūrvavat) [as-before](pūjayet) [should-worship](guruḥ) [teacher](namontaṃ)
+[ending-with-namaḥ](namontaṃ) [mantra](mantram) [having-uttered](uccārya) [as-before](pūrvavat) [should-worship](pūjayet) [guru](guruḥ)
 
 ## mukta-m0-p90-v2229
-[mantrāṇām](mantrāṇāṃ) [of-mantras](tṛptaye) [for-satisfaction](ca) [and](eva) [indeed](juhuyāt) [should-offer](āhuti-trayam) [three-oblations](mantrāṇāṃ)
+[of-mantras](mantrāṇāṃ) [for-satisfaction](tṛptaye) [and](ca) [indeed](eva) [one-should-offer](juhuyāt) [oblation+triad](āhutitrayam)
 
 ## mukta-m0-p90-v2230
-[anāhata-ājñayoḥ](anāhatājñayormadhye) [of-anahata-and-ajna](madhye) [in-middle](sūtram) [thread](kāśmīra-vāriṇā) [with-kashmir-water](anāhatājñayormadhye)
+[of-anāhata+and-ājñā](anāhatājñayor) [in-middle](madhye) [thread](sūtraṃ) [with-saffron+water](kāśmīravāriṇā)
 
 ## mukta-m0-p90-v2231
-[śiva-tattvāya](śivatatvāya) [for-shiva-principle](huṃphaḍ) [hum-phat](dīpanam) [kindling](bhavet) [should-be](śivatatvāya)
+[to-śiva-principle](śivatatvāya) [huṃphaḍ](huṃphaḍ) [illumination](dīpanaṃ) [should-be](bhavet)
 
 ## mukta-m0-p90-v2232
-[hṛt-saṃpuṭita-bījena](hṛtsaṃpuṭitabījena) [with-heart-enclosed-seed](teṣām) [of-them](grahaṇa-bandhanam) [grasping-binding](hṛtsaṃpuṭitabījena)
+[with-heart+enclosed+seed](hṛtsaṃpuṭitabījena) [of-them](teṣāṃ) [seizing+and-binding](grahaṇabandhanam)
 
 ## mukta-m0-p90-v2233
-[ṣaḍ-aṅgena](ṣaḍaṃgena) [with-six-limbs](hunet) [should-offer](paścāt) [afterwards](pūrṇām) [full](mūlena) [with-root](kārayet) [should-make](ṣaḍaṃgena)
+[with-six-limbs](ṣaḍaṃgena) [one-should-offer](hunet) [afterwards](paścāt) [full-oblation](pūrṇāṃ) [with-root-mantra](mūlena) [one-should-perform](kārayet)
 
 ## mukta-m0-p90-v2234
-[śiva-kumbha-samīpe](śivakumbhasamīpe) [near-shiva-pot](ca) [and](rakṣā-artham) [for-protection](viniveṣṭayet) [should-wrap](śivakumbhasamīpe)
+[near-śiva+pot](śivakumbhasamīpe) [and](ca) [for-protection](rakṣārthaṃ) [one-should-place](viniveṣṭayet)
 
 ## mukta-m0-p90-v2235
-[balim](baliṃ) [offering](ca) [and](danta-kāṣṭham) [tooth-stick](ca) [and](pūrvavat) [as-before](sthāpayet) [should-place](niśi) [at-night](baliṃ)
+[offering](baliṃ) [and](ca) [tooth+stick](dantakāṣṭhaṃ) [and](ca) [as-before](pūrvavat) [one-should-place](sthāpayet) [at-night](niśi)
 
 ## mukta-m0-p90-v2236
-[adhivāsanam](adhivāsanam) [consecration](iti) [thus](āhuḥ) [they-say](dīkṣā-karma) [initiation-rite](api) [also](anusmaret) [should-remember](adhivāsanam)
+[consecration](adhivāsanam) [thus](iti) [they-say](āhuḥ) [initiation+rite](dīkṣākarmāpi) [one-should-remember](anusmaret)
 
 ## mukta-m0-p90-v2237
-[śiṣyam](śiṣyaṃ) [disciple](praveśya) [having-entered](kuṇḍasya) [of-pit](pārśve) [at-side](ca) [and](eva) [indeed](kramāt) [in-order](tadā) [then](śiṣyaṃ)
+[disciple](śiṣyaṃ) [having-led-in](praveśya) [of-fire-pit](kuṇḍasya) [at-side](pārśve) [and](ca) [indeed](eva) [in-order](kramāt) [then](tadā)
 
 ## mukta-m0-p90-v2238
-[śikhāyām](śikhāyāṃ) [in-tuft](mastaka-ālambi) [hanging-from-head](badhnīyāt) [should-bind](śiṣyake) [to-disciple](tadā) [then](śikhāyāṃ)
+[in-tuft](śikhāyāṃ) [hanging-from-head](mastakālambi) [one-should-bind](badhnīyāt) [on-disciple](śiṣyake) [then](tadā)
 
 ## mukta-m0-p90-v2239
-[ṣaḍ-adhva](ṣaḍadhva) [six-paths](parivṛttam) [revolved](ca) [and](vyāpakena) [by-pervader](avalokayet) [should-observe](ṣaḍadhva)
+[six+paths](ṣaḍadhva) [encompassed](parivṛttaṃ) [and](ca) [with-pervading](vyāpakena) [one-should-behold](avalokayet)
 
 ## mukta-m0-p90-v2240
-[gṛhītvā](gṛhītvā) [having-taken](śiṣya-caitanyam) [disciple-consciousness](vahni-madhye) [in-fire](vinikṣipet) [should-cast](gṛhītvā)
+[having-taken](gṛhītvā) [disciple+consciousness](śiṣyacaitanyaṃ) [in-fire+middle](vahnimadhye) [one-should-place](vinikṣipet)
 
 ## mukta-m0-p90-v2241
-[paścāt](paścād) [afterwards](brahmāṇam) [Brahma](āvāhya) [having-invoked](pūjayet) [should-worship](śrāvayet) [should-recite](iti) [thus](paścād)
+[afterwards](paścāt) [Brahmā](brahmāṇam) [having-invoked](āvāhya) [one-should-worship](pūjayet) [one-should-cause-to-hear](śrāvayet) [thus](iti)
 
 ## mukta-m0-p90-v2242
-[tadā](tadā) [then](ātmani) [in-self](praveśam) [entry](ca) [and](kuryāt) [should-do](san-mārga-vāyukaḥ) [wind-of-good-path](tadā)
+[then](tadā) [in-self](ātmani) [entrance](praveśaṃ) [and](ca) [one-should-make](kuryāt) [good-path+wind](sanmārgavāyukaḥ)
 
 ## mukta-m0-p90-v2243
-[guru-maṇḍala-paryantam](gurumaṇḍalaparyantam) [up-to-guru-circle](ādāya) [having-taken](udbhava-mudrayā) [with-origin-seal](gurumaṇḍalaparyantam)
+[up-to-guru+maṇḍala](gurumaṇḍalaparyantam) [having-taken](ādāya) [with-udbhava+mudrā](udbhavamudrayā)
 
 ## mukta-m0-p90-v2244
-[pūjanam](pūjanaṃ) [worship](tarpaṇam) [libation](kṛtvā) [having-done](saṃskāra-vidhi-pūrvakam) [preceded-by-purification-rite](pūjanaṃ)
+[worship](pūjanaṃ) [libation](tarpaṇaṃ) [having-done](kṛtvā) [preceded-by-consecration+rite](saṃskāravidhipūrvakam)
 
 ## mukta-m0-p90-v2245
-[mantra-māyā-ādi](maṃtramāyādi) [mantra-maya-etc](niṣkṛtyai) [for-removal](śivam) [Shiva](sāṅgam) [with-limbs](ca) [and](pūjayet) [should-worship](maṃtramāyādi)
+[mantra+māyā+etc](maṃtramāyādi) [for-removal](niṣkṛtyai) [Śiva](śivaṃ) [with-limbs](sāṃgaṃ) [and](ca) [one-should-worship](pūjayet)
 
 ## mukta-m0-p90-v2246
-[astreṇa](astreṇa) [with-weapon](homayet) [should-offer](paścāt) [afterwards](tataḥ) [then](saptāstra) [seven-weapons](japtayā) [by-recitation](astreṇa)
+[with-weapon-mantra](astreṇa) [one-should-offer](homayet) [afterwards](paścāt) [then](tataḥ) [seven+times+weapon](saptāstra) [with-muttered](japtayā)
 
 ## mukta-m0-p90-v2247
-[vimṛśya](vimṛśya) [having-considered](vartulī-kṛtya) [having-made-round](sṛg-agre) [at-tip-of-spear](dhārayet) [should-hold](kramāt) [in-order](vimṛśya)
+[having-considered](vimṛśya) [having-made-round](vartulīkṛtya) [at-ladle+tip](sṛgagre) [one-should-hold](dhārayet) [in-order](kramāt)
 
 ## mukta-m0-p90-v2248
-[śatam](śatamaṣṭottaraṃ) [hundred-plus-eight](hutvā) [having-offered](prāyaścittam) [expiation](anantaram) [afterwards](śatamaṣṭottaraṃ)
+[hundred](śatam) [plus-eight](aṣṭottaraṃ) [having-offered](hutvā) [expiation](prāyaścittam) [afterwards](anantaram)
 
 ## mukta-m0-p90-v2249
-[oṃ](oṃ) [om](hāṃ) [ham](brahman) [Brahman](gandha-rasa) [smell-taste](rūpa-sparśa) [form-touch](śabda-tvāt) [from-sound](oṃ)
+[oṃ hāṃ brahman](oṃ hāṃ brahman) [smell+taste](gandharasa) [form+touch](rūpasparśa) [from-sound-nature](śabdatvāt)
 
 ## mukta-m0-p90-v2250
-[pūrvavat](pūrvavacchiṣya) [as-before](śiṣya-caitanyam) [disciple-consciousness](svasmin) [in-self](ādāya) [having-taken](deśikaḥ) [teacher](pūrvavacchiṣya)
+[as-before](pūrvavat) [disciple+consciousness](śiṣya caitanyaṃ) [in-oneself](svasmin) [having-taken](ādāya) [teacher](deśikaḥ)

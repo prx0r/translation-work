@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p22-v526
-dvārasya (of-door) vāma-pārśve (left-side) tu (and) kālām (Kala) ca (and) yamunām (Yamuna) yajet (worship)
+[door](dvārasya) [left+side](vāma+pārśve) [indeed](tu) [Kālā](kālāṃ) [and](ca) [Yamunā](yamunāṃ) [one-should-worship](yajet)
 
 ## mukta-m0-p22-v527
-dakṣiṇe (right-side) bhṛṅgarājam (Bhṛṅgarāja) ca (and) saptamātṛ-gaṇaiḥ (seven-mothers-group) yutam (accompanied)
+[right-side](dakṣiṇe) [Bhṛṅgarāja](bhṛṅgarājaṃ) [and](ca) [seven+mothers+group](sapta+mātṛ+gaṇaiḥ) [accompanied-by](yutam)
 
 ## mukta-m0-p22-v528
-nair-ṛtyām (southwest) vināyakam (Vināyaka) ca (and) eva (indeed) vāruṇyām (Varuṇa-direction) saṇmukham (six-faced) tathā (likewise)
+[in-southwest](nair-ṛtyāṃ) [Vināyaka](vināyakaṃ) [and](ca) [indeed](eva) [in-west](vāruṇyāṃ) [Ṣaṇmukha](saṇmukhaṃ) [then](tahā)
 
 ## mukta-m0-p22-v529
-aiśānyām (northeast) bhānum (sun) evam (thus) syāt (be) bhūtanātheśam (Bhūtanātha-lord) agrake (in-front)
+[in-northeast](aiśyānyāṃ) [Bhānu](bhānum) [thus](evaṃ) [should-be](syāt) [Bhūtanātha+lord](bhūtanātha+īśam) [in-front](agrake)
 
 ## mukta-m0-p22-v530
-gopuram (gateway) vādya-niśśabda-śaṅkha-ghoṣa-samanvitam (music-sound-conch-blast-accompanied)
+[tower-gate](gopuraṃ) [instrument+unbroken+sound](vādya+niśśabda) [conch+sound](śaṅkha+ghoṣa) [endowed-with](samanvitam)
 
 ## mukta-m0-p22-v531
-indram (Indra) ca (and) eva (indeed) tathā (and) agnim (Agni) ca (and) yamaḥ (Yama) ca (and) nirṛtiḥ (Nirṛti) tathā (likewise)
+[Indra](indraṃ) [and](ca) [indeed](eva) [likewise](tathā) [Agni](agniṃ) [and](ca) [Yama](yamaḥ) [and](ca) [Nirṛti](ni-ṛtiḥ) [likewise](tathā)
 
 ## mukta-m0-p22-v532
-nirṛtim (Nirṛti) dakṣiṇe (south) viṣṇum (Viṣṇu) brahmāṇam (Brahmā) tu (and) īśa-vāmake (Īśa-left)
+[Nirṛti](ni-ṛtiṃ) [on-south](dakṣiṇe) [Viṣṇu](viṣṇuṃ) [Brahmā](brahmāṇaṃ) [indeed](tu) [Īśa+left](īśa+vāmake)
 
 ## mukta-m0-p22-v533
-kṣetreśasya (of-field-lord) ba (ba) * (*) * (*) * (*) * (*) * (*) nakam (nakam)
+[of-Kṣetreśa](kṣetreśasya) [ba](ba) [*](*) [*](*) [*](*) [*](*) [*](*) [*](*) [*](*) [*](*) [nakam](nakam)
 
 ## mukta-m0-p22-v534
-ananteśaḥ (Ananteśa) tathā (and) sūkṣmaḥ (subtle) śiva-uktaḥ (Shiva-spoken) ca (and) eka-netrakaḥ (one-eyed)
+[Ananteśa](ananteśaḥ) [likewise](tathā) [Sūkṣma](sūkṣmaḥ) [Śivokta](śiva+uktaḥ) [and](ca) [Ekanetraka](eka+netrakaḥ)
 
 ## mukta-m0-p22-v535
-tṛtīya-āvaraṇam (third-enclosure) proktam (said) caturtham (fourth) varaṇam (enclosure) śṛṇu (hear)
+[third+enclosure](tṛtīya+āvaraṇaṃ) [declared](proktaṃ) [fourth](caturthaṃ) [enclosure](varaṇaṃ) [hear](śṛṇu)
 
 ## mukta-m0-p22-v536
-īśānam (Īśāna) ca (and) mahādevaḥ (Mahādeva) bhīmaḥ (Bhīma) ca (and) iti (thus) aṣṭamaḥ (eighth) tathā (and)
+[Īśāna](īśānaṃ) [and](ca) [Mahādeva](mahādevaḥ) [Bhīma](bhīmaḥ) [and](ca) [thus](iti) [eighth](aṣṭamaḥ) [likewise](tathā)
 
 ## mukta-m0-p22-v537
-vajram (thunderbolt) śaktim (śakti) ca (and) daṇḍam (staff) ca (and) khaḍgam (sword) pāśa-aṅkuśam (noose-goad) tathā (and)
+[thunderbolt](vajraṃ) [spear](śaktiṃ) [and](ca) [staff](daṇḍaṃ) [and](ca) [sword](khaḍgaṃ) [noose+goad](pāśa+aṅkuśaṃ) [likewise](tathā)
 
 ## mukta-m0-p22-v538
-evam (thus) āvaraṇam (enclosure) ca (and) eva (indeed) mahā-pīṭham (great-seat) pṛthak (separately) pṛthak (separately)
+[thus](evam) [enclosure](āvaraṇaṃ) [and](ca) [indeed](eva) [great+pedestal](mahā+pīṭhaṃ) [separately](pṛthak) [separately](pṛthak)
 
 ## mukta-m0-p22-v539
-pṛthak-deśe (separate-place) balim (offering) dattvā (given) ca (and) eva (indeed) mā-āvaraṇam (enclosure) trayam (three)
+[in-separate+place](pṛthak+deśe) [offering](baliṃ) [having-given](dattvā) [and](ca) [indeed](eva) [enclosure](māvaraṇaṃ) [three](trayam)
 
 ## mukta-m0-p22-v540
-dvitīye (second) ca (and) mahā-pīṭhe (great-seat) balim (offering) dattvā (given) aṣṭa-mūrtaye (to-eight-forms)
+[in-second](dvitīye) [and](ca) [great+pedestal](mahā+pīṭhe) [offering](baliṃ) [having-given](dattvā) [to-eight+forms](aṣṭa+mūrtaye)
 
 ## mukta-m0-p22-v541
-pratimā-āvaraṇam (image-enclosure) pīṭham (seat) mahā-pīṭham (great-seat) * (*) * (*) * (*) * (*)
+[each+enclosure](prati+māvaraṇaṃ) [pedestal](pīṭhaṃ) [great+pedestal](mahā+pīṭhaṃ) [*](*) [*](*) [*](*) [*](*)
 
 ## mukta-m0-p22-v542
-dvitīya-āvaraṇam (second-enclosure) nyūnam (deficient) prathame (first) bhūta-pīṭhake (bhūta-seat)
+[second+enclosure](dvitīya+āvaraṇaṃ) [less](nyūnaṃ) [in-first](prathame) [spirit+pedestal](bhūta+pīṭhake)
 
 ## mukta-m0-p22-v543
-bali-devam (offering-deity) iti (thus) proktam (said) bali-dravyam (offering-material) atha (now) śṛṇu (hear)
+[offering+deity](bali+devam) [thus](iti) [declared](proktaṃ) [offering+substance](bali+dravyam) [now](atha) [hear](śṛṇu)
 
 ## mukta-m0-p22-v544
-pauṣṭikam (nourishing) ca (and) anna-liṅgam (food-linga) ca (and) śāntikam (pacifying) ca (and) arghyam (arghya) eva (indeed) ca (and)
+[nourishing](pauṣṭikaṃ) [and](ca) [rice+liṅga](anna+liṅgaṃ) [and](ca) [pacifying](śāntikaṃ) [and](ca) [arghya](arghyam) [indeed](eva) [and](ca)
 
 ## mukta-m0-p22-v545
-athavā (or) deśikam (teacher) ca (and) eva (indeed) bali-dānam (offering-giving) * (*) * (*) * (*)
+[or](athavā) [teacher](deśikaṃ) [and](ca) [indeed](eva) [offering+giving](bali+dānaṃ) [*](*) [*](*) [*](*) [*](*)
 
 ## mukta-m0-p22-v546
-gandham (sandal) ṣaṭ (six) dvādaśāṃśam (twelfth-part) tu (and) puṣpam (flower) patram (leaf) ca (and) droṇakam (droṇaka)
+[fragrance](gandhaṃ) [six](ṣaṭ) [twelve+parts](dvādaśa+aṃśaṃ) [indeed](tu) [flower](puṣpaṃ) [leaf](patraṃ) [and](ca) [droṇa-measure](droṇakam)
 
 ## mukta-m0-p22-v547
-prātar-madhyāhna-sāyāhne (morning-noon-evening) tri-sandhyām (three-junctures) balim (offering) ācaret (perform)
+[morning](prātaḥ) [midday](madhyāhna) [evening](sāyāhne) [three+junctures](tri+sandhyāṃ) [offering](balim) [one-should-perform](ācaret)
 
 ## mukta-m0-p22-v548
-snānam (bathing) tu (and) vidhinā (by-rite) kṛtvā (done) tripuṇḍrī (tripuṇḍra) śukla-vastrakaḥ (white-garmented)
+[bath](snānaṃ) [indeed](tu) [according-to-rule](vidhinā) [having-done](kṛtvā) [wearing-triple-mark](tri+puṇḍrī) [white+garment](śukla+vastrakaḥ)
 
 ## mukta-m0-p22-v549
-arghya-pātraka (arghya-vessel) * (*) * (*) * (*) sapavitra-karaḥ (with-pavitra-hand) guruḥ (teacher)
+[arghya+vessel](arghya+pātraka) [*](*) [*](*) [*](*) [with-pavitra+in-hand](sa+pavitra+karaḥ) [teacher](guruḥ)
 
 ## mukta-m0-p22-v550
-yāne (vehicle) vā (or) raṅgake (stage) vā (or) api (indeed) candra-śekhara-mūrtinam (Chandra-śekhara-form)
+[in-vehicle](yāne) [or](vā) [in-stage](raṅgake) [or](vā) [also](api) [Candraśekhara+form](candraśekhara+mūrtinam)

@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p13-v301
-[that](tā) [unknown](*) [bound-moon-festival](baddhyakaukacandra) [festival-end](utsavāntaṃ) [should-lead-wise](nayedbudhaḥ)
+[tā](tā) [baddhya](baddhya) [kauka](kauka) [candra](candra) [utsava](utsava) [antam](antam) [nayet](nayet) [budhaḥ](budhaḥ)
 
 ## mukta-m0-p13-v302
-[unknown](*) [unknown](*) [unknown](*) [tha](tha) [with-songs](geyaiśca) [with-instruments](vādyasaṃyuktaṃ) [at-end](tadantake)
+[tha](tha) [geyaiḥ](geyaiḥ) [ca](ca) [vādya](vādya) [saṃyuktam](saṃyuktam) [tad](tad) [antake](antake)
 
 ## mukta-m0-p13-v303
-[great-shaiva](mahāśaivo) [should-go-food](vrajedanne) [of-brahma](brahmaṇastadanu) [should-go](vrajet)
+[mahā](mahā) [śaivaḥ](śaivaḥ) [vrajet](vrajet) [anne](anne) [brahmaṇaḥ](brahmaṇaḥ) [tad](tad) [anu](anu) [vrajet](vrajet)
 
 ## mukta-m0-p13-v304
-[lord](īśvaraśśaktisahitassarvālaṃkārasaṃyutaḥ)
+[īśvaraḥ](īśvaraḥ) [śakti](śakti) [sahitaḥ](sahitaḥ) [sarva](sarva) [alaṃkāra](alaṃkāra) [saṃyutaḥ](saṃyutaḥ)
 
 ## mukta-m0-p13-v305
-[with-various-umbrellas-banners](nānāchatradhvajaiḥ) [with-peacock-feathers](piñchairnānācāmarabhūṣitaḥ)
+[nānā](nānā) [chatra](chatra) [dhvajaiḥ](dhvajaiḥ) [piñchaiḥ](piñchaiḥ) [nānā](nānā) [cāmara](cāmara) [bhūṣitaḥ](bhūṣitaḥ)
 
 ## mukta-m0-p13-v306
-[with-banners-canopies](patākābhirvitānaiśca) [with-drums-instruments](bheryairvādyaissamāyutam)
+[patākābhiḥ](patākābhiḥ) [vitānaiḥ](vitānaiḥ) [ca](ca) [bheryaiḥ](bheryaiḥ) [vādyaḥ](vādyaḥ) [samāyutam](samāyutam)
 
 ## mukta-m0-p13-v307
-[with-all-instruments](sarvātodyaistadante) [then](tu) [should-proclaim](ghoṣayettu) [especially](viśeṣataḥ)
+[sarva](sarva) [ātodyaiḥ](ātodyaiḥ) [tad](tad) [ante](ante) [tu](tu) [ghoṣayettu](ghoṣayettu) [viśeṣataḥ](viśeṣataḥ)
 
 ## mukta-m0-p13-v308
-[shudra](śūdro) [should-go-then](gacchettadante) [tu](tu) [all-varnas-then](sarve) [varṇāstadantake]
+[śūdraḥ](śūdraḥ) [gacchet](gacchet) [tad](tad) [ante](ante) [tu](tu) [sarve](sarve) [varṇāḥ](varṇāḥ) [tad](tad) [antake](antake)
 
 ## mukta-m0-p13-v309
-[those](ye) [tu](tu) [go](gacchanti) [lord-gods](deveśadhātāstadbhṛta) [minded](mānasāḥ)
+[ye](ye) [tu](tu) [gacchanti](gacchanti) [deva](deva) [īśa](īśa) [dhātā](dhātā) [tad](tad) [bhṛta](bhṛta) [mānasāḥ](mānasāḥ)
 
 ## mukta-m0-p13-v310
-[of-one-verse](padyaikasyaśvamedhasya) [obtain](prāpnuvanti) [great-fruit](mahat) [phalam](phalam)
+[padya](padya) [ekasya](ekasya) [aśvamedhasya](aśvamedhasya) [prāpnuvanti](prāpnuvanti) [mahat](mahat) [phalam](phalam)
 
 ## mukta-m0-p13-v311
-[water-shed](prapāṃ) [having-made](kṛtvā) [having-established](samāsthāya) [in-pavilion](maṇṭape) [well-decorated](samalaṃkṛte)
+[prapām](prapām) [kṛtvā](kṛtvā) [samāsthāya](samāsthāya) [maṇṭape](maṇṭape) [samalaṃkṛte](samalaṃkṛte)
 
 ## mukta-m0-p13-v312
-[in-other-seats](anyesvāsanabhedeṣu) [desired](vāñchiteṣu) [hara](haraṃ) [should-lead](nayet)
+[anyeṣu](anyeṣu) [āsana](āsana) [bhedeṣu](bhedeṣu) [vāñchiteṣu](vāñchiteṣu) [haram](haram) [nayet](nayet)
 
 ## mukta-m0-p13-v313
-[dancer](nartako) [drummer](mardakassarve) [to-left](vāmato) [flute-players](vaṃśagāyakau)
+[nartakaḥ](nartakaḥ) [mardakaḥ](mardakaḥ) [sarve](sarve) [vāmataḥ](vāmataḥ) [vaṃśa](vaṃśa) [gāyakau](gāyakau)
 
 ## mukta-m0-p13-v314
-[at-sides](pārśvayordevagaṇikā) [know](vidyannṛttasageyakam)
+[pārśvayoḥ](pārśvayoḥ) [deva](deva) [gaṇikā](gaṇikā) [vidyann](vidyann) [nṛtta](nṛtta) [sa](sa) [geyakam](geyakam)
 
 ## mukta-m0-p13-v315
-[by-women](nārībhiḥ) [at-sides](pārśvayorvijya) [with-fans](cāmaravyajanādibhiḥ)
+[nārībhiḥ](nārībhiḥ) [pārśvayoḥ](pārśvayoḥ) [vijya](vijya) [cāmara](cāmara) [vyajana](vyajana) [ādibhiḥ](ādibhiḥ)
 
 ## mukta-m0-p13-v316
-[water](pādyamācamanaṃ) [arghya](cārghyaṃ) [having-given](dattvā) [having-worshipped](saṃpūjya) [with-devotion](bhaktitaḥ)
+[pādyam](pādyam) [ācamanaṃ](ācamanaṃ) [ca](ca) [arghyam](arghyam) [dattvā](dattvā) [saṃpūjya](saṃpūjya) [bhaktitaḥ](bhaktitaḥ)
 
 ## mukta-m0-p13-v317
-[as-thus](yadvaivaṃ) [should-do](kārayet) [afterwards](paścāt) [evening](sāye) [lamp](nīrāñjanaṃ) [wise](budhaḥ)
+[yad](yad) [vā](vā) [evaṃ](evaṃ) [kārayet](kārayet) [paścāt](paścāt) [sāye](sāye) [nīrāñjanam](nīrāñjanam) [budhaḥ](budhaḥ)
 
 ## mukta-m0-p13-v318
-[before](pūrvamācamanaṃ) [having-given](dattvā) [on-head](mūrdhni) [flower](puṣpaṃ) [tu](tu) [should-place](nikṣipet)
+[pūrvam](pūrvam) [ācamanaṃ](ācamanaṃ) [dattvā](dattvā) [mūrdhni](mūrdhni) [puṣpam](puṣpam) [tu](tu) [nikṣipet](nikṣipet)
 
 ## mukta-m0-p13-v319
-[incense](dhūpaṃ) [lamp](dīpaṃ) [should-be-given](pradātavyaḥ) [with-flour-lamp](piṣṭadīpena) [teacher](deśikaḥ)
+[dhūpam](dhūpam) [dīpam](dīpam) [pradātavyaḥ](pradātavyaḥ) [piṣṭa](piṣṭa) [dīpena](dīpena) [deśikaḥ](deśikaḥ)
 
 ## mukta-m0-p13-v320
-[with-victory-words](jayaśabdādisaṃyuktaṃ) [snotrama](snotrama) [unknown](*) [with-songs](la) [gītibhiḥ]
+[jaya](jaya) [śabda](śabda) [ādi](ādi) [saṃyuktam](saṃyuktam) [snotram](snotram) [la](la) [gītibhiḥ](gītibhiḥ)
 
 ## mukta-m0-p13-v321
-[niranjana](nīrāñjanamiti) [is-called](proktamārārttyādi) [ca](ca) [is-said](gadyate)
+[nīrāñjanam](nīrāñjanam) [iti](iti) [proktam](proktam) [ārārtty](ārārtty) [ādi](ādi) [ca](ca) [gadyate](gadyate)
 
 ## mukta-m0-p13-v322
-[with-conch-horn](śaṅkhakāhalapūrvaṃ) [ca](ca) [great-sound](mahāśabdaṃ) [should-proclaim](praghoṣayet)
+[śaṅkha](śaṅkha) [kāhala](kāhala) [pūrvam](pūrvam) [ca](ca) [mahā](mahā) [śabdam](śabdam) [praghoṣayet](praghoṣayet)
 
 ## mukta-m0-p13-v323
-[of-king](rājñaśca) [of-worlds](jagatāṃ) [protection](rakṣyā) [done](kṛte) [tvevaṃ](tvevaṃ) [happiness-giving](sukhāvaham)
+[rājñaḥ](rājñaḥ) [ca](ca) [jagatām](jagatām) [rakṣyā](rakṣyā) [kṛte](kṛte) [tu](tu) [evaṃ](evaṃ) [sukhāvaham](sukhāvaham)
 
 ## mukta-m0-p13-v324
-[turban](uṣṇīṣamuttarīyaṃ) [ca](ca) [golden](haimaṃ) [should-give](dadyādgurostadā)
+[uṣṇīṣam](uṣṇīṣam) [uttarīyam](uttarīyam) [ca](ca) [haimam](haimam) [dadyāt](dadyāt) [guroḥ](guroḥ) [tadā](tadā)
 
 ## mukta-m0-p13-v325
-[of-devotees](bhaktānāṃ) [of-dancers-etc](narttakādīnāṃ) [clothes-etc](vastrādīni) [should-give](pradāpayet)
+[bhaktānām](bhaktānām) [narttaka](narttaka) [ādīnām](ādīnām) [vastra](vastra) [ādīni](ādīni) [pradāpayet](pradāpayet)
