@@ -2,31 +2,31 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p106-v2626
-[that](tat) [mind](manaḥ) [object-freed](vedya+nirmuktā) [consciousness](vittiḥ) [thus](iti) [is-called](abhidhīyate)
+[that](tat) [mind](manaḥ) [knowable+freed](vedya+nirmuktā) [consciousness](vittiḥ) [thus](iti) [is-called](abhidhīyate)
 
 ## mukta-m0-p106-v2627
-[that](tat) [mind](manaḥ) [thus](iti) [object-freed](vedya+nirmuktam) [mind](manaḥ) [indeed](eva) [pure](śuddham) [self-nature](ātma+tattvam) [thus](iti) [meaning](bhāvaḥ)
+[that](tat) [mind](manaḥ) [thus](iti) [knowable+freed](vedya+nirmuktam) [mind](manaḥ) [indeed](eva) [pure+self+reality](śuddha+ātma+tattvam) [thus](iti) [meaning](bhāvaḥ)
 
 ## mukta-m0-p106-v2628
-[other](anya) [perception](upalabdhi) [dependence](apekṣāyām) [blindness](āndhyam) [would-be](syāt) [due-to-infinite-regress](anavasthiteḥ)
+[other+perception+dependence](anya+upalabdhi+apekṣāyām) [blindness](āndhyam) [would-be](syāt) [due-to-infinite-regress](anavasthiteḥ)
 
 ## mukta-m0-p106-v2629
-[and](ca) [by-another-consciousness](vitti+antareṇa) [thus](iti) [in-infinite-regress](anavasthāyām) [not](na) [anything](kiñcit) [would-shine](prakāśeta) [thus](iti) [meaning](bhāvaḥ)
+[and](ca) [by-another+cognition](vitti+antareṇa) [thus](iti) [in-infinite-regress](anavasthāyām) [not](na) [anything](kiñcit) [would-shine](prakāśeta) [thus](iti) [meaning](bhāvaḥ)
 
 ## mukta-m0-p106-v2630
-[not](na) [you-shine](bhāsi) [if](cet) [not](na) [you](tvam) [are](asi) [then](tataḥ) [question](praśnaḥ) [indeed](tu) [for-you](te) [how](katham)
+[not](na) [you-shine](bhāsi) [if](cet) [not](na) [you](tvam) [are](asi) [then](tataḥ) [question](praśnaḥ) [but](tu) [for-you](te) [how](katham)
 
 ## mukta-m0-p106-v2631
-[impossibility-of-question](praśna+anupapattim) [states](āha) [then](tataḥ) [thus](iti)
+[question+impropriety](praśna+anupapattim) [states](āha) [then](tataḥ) [thus](iti)
 
 ## mukta-m0-p106-v2632
-[how](katham) [your](tava) [self](ātmānam) [I](aham) [establish](sādhayāmi) [consider](vibhāvaya)
+[how](katham) [your+self](tava+ātmānam) [I](aham) [establish](sādhayāmi) [consider](vibhāvaya)
 
 ## mukta-m0-p106-v2633
-[of-the-deluded](mūḍhasya) [self-establishment](ātma+sādhanam) [by-another](anyena) [to-do](kartum) [impossible](aśakyam) [thus](iti) [meaning](bhāvaḥ)
+[of-the-deluded](mūḍhasya) [self+establishment](ātma+sādhanam) [by-another](anyena) [to-do](kartum) [impossible](aśakyam) [thus](iti) [meaning](bhāvaḥ)
 
 ## mukta-m0-p106-v2634
-[thus](iti) [if](cet) [O-Rama](rāma) [universal](sāmānyam) [indeed](eva) [your](te) [form](rūpam) [imperishable](avyayam)
+[thus](iti) [if](cet) [O-Rama](rāma) [general](sāmānyam) [indeed](eva) [your](te) [form](rūpam) [imperishable](avyayam)
 
 ## mukta-m0-p106-v2635
 [meaning](bhāvaḥ)
@@ -35,13 +35,13 @@
 [ah](aho) [knowing](jānan) [even](api) [again](punar) [enough](alam) [you-are-deluded](muhyasi) [indeed](vai) [in-vain](vṛthā)
 
 ## mukta-m0-p106-v2637
-[therefore](ataḥ) [of-universal-form](sāmānya+rūpaḥ) [you](tvam) [shine](vibhāsi) [by-yourself](svataḥ) [indeed](eva) [certainly](hi)
+[therefore](ataḥ) [general+form](sāmānya+rūpaḥ) [you](tvam) [shine](vibhāsi) [by-yourself](svataḥ) [indeed](eva) [surely](hi)
 
 ## mukta-m0-p106-v2638
-[without-universal-and-particular](niḥ+sāmānya+viśeṣa) [form](vapuṣā) [it-shines](bhāsate) [thus](iti) [meaning](bhāvaḥ)
+[without-general+particular+form](niḥ+sāmānya+viśeṣa+vapuṣā) [it-shines](bhāsate) [thus](iti) [meaning](bhāvaḥ)
 
 ## mukta-m0-p106-v2639
-[as-body-self](śarīra+ātmatayā) [you-shine](bhāsi) [by-conception](saṅkalpena) [alone](eva) [not](na) [otherwise](anyathā)
+[body+selfness](śarīra+ātmatayā) [you-shine](bhāsi) [by-conception](saṅkalpena) [alone](eva) [not](na) [otherwise](anyathā)
 
 ## mukta-m0-p106-v2640
 [you-shine](bhāsi) [not](na) [by-yourself](svataḥ) [thus](iti) [meaning](arthaḥ)
@@ -50,28 +50,28 @@
 [shines](bhāti) [what](kim) [your](tava) [bodyhood](dehatvam) [body](dehaḥ) [and-that](tat) [also](ca) [api](api) [your](te) [would-be](bhavet)
 
 ## mukta-m0-p106-v2642
-[due-to-particular-relation](sambandha+aviśeṣāt) [and-that](tat) [also](ca) [api](api) [your](tava) [body](dehaḥ) [would-be](bhavet) [thus](iti) [states](āha) [body](dehaḥ) [thus](iti)
+[due-to-particular+relation](sambandha+aviśeṣāt) [and-that](tat) [also](ca) [api](api) [your](tava) [body](dehaḥ) [would-be](bhavet) [thus](iti) [states](āha) [body](dehaḥ) [thus](iti)
 
 ## mukta-m0-p106-v2643
-[by-that](tena) [consisting-of-all](sarva+mayaḥ) [you](tvam) [would-be](syāḥ) [how](katham) [mere-body-self](deha+ātma+mātrakaḥ)
+[by-that](tena) [all+consisting](sarva+mayaḥ) [you](tvam) [would-be](syāḥ) [how](katham) [body+self+mere](deha+ātma+mātrakaḥ)
 
 ## mukta-m0-p106-v2644
-[therefore](tasmāt) [of-mere-seeing-nature](dṛk+mātra+rūpaḥ) [you-are](asi) [not](na) [seer](dṛk) [seen-things](dṛśyāḥ) [ever](kadācana)
+[therefore](tasmāt) [seeing+mere+form](dṛk+mātra+rūpaḥ) [you-are](asi) [not](na) [seer](dṛk) [seen-things](dṛśyāḥ) [ever](kadācana)
 
 ## mukta-m0-p106-v2645
-[are](bhavati) [thus](iti) [states](āha) [not](na) [seer](dṛk) [thus](iti)
+[is](bhavati) [thus](iti) [states](āha) [not](na) [seer](dṛk) [thus](iti)
 
 ## mukta-m0-p106-v2646
-[body](deha) [place](deśa) [time](kāla) [difference](bheda) [manifold](citra) [variety](vaicitrya) [variegated](citritā)
+[body+place+time+difference](deha+deśa+kāla+bheda) [variegated+diversity](citra+vaicitrya) [variegated](citritā)
 
 ## mukta-m0-p106-v2647
 [meaning](bhāvaḥ)
 
 ## mukta-m0-p106-v2648
-[remainder](śeṣam) [of-pure-consciousness](śuddha+citeḥ) [form](rūpam) [own-self](sva+ātmānam) [perceive](upalakṣaya)
+[remainder](śeṣam) [pure+consciousness](śuddha+citeḥ) [form](rūpam) [own+self](sva+ātmānam) [perceive](upalakṣaya)
 
 ## mukta-m0-p106-v2649
-[self-manifesting](svataḥ+abhivyajyamānam) [remainder](śeṣam) [ending-in-abandonment-of-conception](saṅkalpa+tyāga+avadhi+bhūtam)
+[by-itself+manifested](svataḥ+abhivyajyamānam) [remainder](śeṣam) [conception+abandonment+limit+become](saṅkalpa+tyāga+avadhi+bhūtam)
 
 ## mukta-m0-p106-v2650
-[ignorance](ajñānam) [of-all-samsara](sarva+saṃsāra) [cause](kāraṇam) [that](tat) [dissolves](vilīyate)
+[ignorance](ajñānam) [all+worldly-existence+cause](sarva+saṃsāra+kāraṇam) [that](tat) [dissolves](vilīyate)
