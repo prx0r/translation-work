@@ -12,7 +12,7 @@
 },
 {
 "surface": "sakala+dharmāṇāṃ",
-"quick_gloss": "of-all+duties"
+"quick_gloss": "of-all+dharmas"
 },
 {
 "surface": "hetuṃ",
@@ -32,12 +32,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "na+arcayaṃti",
-"quick_gloss": "not+worship"
+"surface": "na",
+"quick_gloss": "not"
 },
 {
-"surface": "vimūḍhāḥ+te",
-"quick_gloss": "deluded+they"
+"surface": "arcayaṃti",
+"quick_gloss": "worship"
+},
+{
+"surface": "vimūḍhāḥ",
+"quick_gloss": "deluded"
+},
+{
+"surface": "te",
+"quick_gloss": "they"
 },
 {
 "surface": "pratimāsu",
@@ -49,7 +57,7 @@
 },
 {
 "surface": "tathā",
-"quick_gloss": "likewise"
+"quick_gloss": "so"
 }
 ]
 },
@@ -73,8 +81,12 @@
 "quick_gloss": "lord"
 },
 {
-"surface": "sākṣāt+nārāyaṇaḥ",
-"quick_gloss": "directly+nārāyaṇa"
+"surface": "sākṣāt",
+"quick_gloss": "directly"
+},
+{
+"surface": "nārāyaṇaḥ",
+"quick_gloss": "nārāyaṇa"
 },
 {
 "surface": "vibhuḥ",
@@ -90,12 +102,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "narākṛtiḥ",
+"surface": "nara+ākṛtiḥ",
 "quick_gloss": "in-human+form"
 },
 {
 "surface": "asau",
-"quick_gloss": "he"
+"quick_gloss": "that"
 },
 {
 "surface": "sākṣāt",
@@ -119,7 +131,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "saṃsārasāgaraṃ",
+"surface": "saṃsāra+sāgaraṃ",
 "quick_gloss": "ocean+of-saṃsāra"
 },
 {
@@ -127,12 +139,12 @@
 "quick_gloss": "having-crossed"
 },
 {
-"surface": "yāti",
+"surface": "ayāti",
 "quick_gloss": "goes"
 },
 {
 "surface": "brahma+padaṃ",
-"quick_gloss": "to-brahman+abode"
+"quick_gloss": "abode+of-brahman"
 },
 {
 "surface": "mahat",
@@ -148,8 +160,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "mahādānā+ayutaiḥ",
-"quick_gloss": "by-great+gifts+tens-of-thousands"
+"surface": "mahā+dānaiḥ",
+"quick_gloss": "by-great+gifts"
+},
+{
+"surface": "ayutaiḥ",
+"quick_gloss": "by-ten-thousands"
 },
 {
 "surface": "vā",
@@ -157,11 +173,11 @@
 },
 {
 "surface": "vājimedha+ayutaiḥ",
-"quick_gloss": "by-horse+sacrifices+tens-of-thousands"
+"quick_gloss": "by-horse+sacrifices"
 },
 {
 "surface": "api",
-"quick_gloss": "also"
+"quick_gloss": "by-ten-thousands"
 }
 ]
 },
@@ -181,12 +197,16 @@
 "quick_gloss": "or"
 },
 {
-"surface": "huṃ+kṛtya",
+"surface": "huṃ",
 "quick_gloss": "having-scorned"
 },
 {
+"surface": "kṛtya",
+"quick_gloss": "having-done"
+},
+{
 "surface": "niṃdāṃ",
-"quick_gloss": "blame"
+"quick_gloss": "insult"
 },
 {
 "surface": "kṛtvā",
@@ -198,7 +218,7 @@
 },
 {
 "surface": "sakṛt",
-"quick_gloss": "if-done"
+"quick_gloss": "done"
 }
 ]
 },
@@ -214,28 +234,28 @@
 "quick_gloss": "they-sink"
 },
 {
-"surface": "narake",
+"surface": "narakau",
 "quick_gloss": "in-hell"
 },
 {
-"surface": "adya",
-"quick_gloss": "in-this-world"
+"surface": "dyeṣu",
+"quick_gloss": "in-those"
 },
 {
-"surface": "yeṣāṃ",
-"quick_gloss": "those-whose"
+"surface": "tyaktvā",
+"quick_gloss": "having-abandoned"
 },
 {
-"surface": "kāya",
+"surface": "deham",
 "quick_gloss": "body"
 },
 {
-"surface": "mataḥ",
-"quick_gloss": "mind"
+"surface": "ataḥ",
+"quick_gloss": "therefore"
 },
 {
 "surface": "paraṃ",
-"quick_gloss": "thereafter"
+"quick_gloss": "after"
 }
 ]
 },
@@ -268,7 +288,7 @@
 },
 {
 "surface": "api",
-"quick_gloss": "also"
+"quick_gloss": "even"
 },
 {
 "surface": "raurave",
@@ -292,12 +312,16 @@
 "quick_gloss": "indeed"
 },
 {
-"surface": "stotavyaḥ",
+"surface": "stottavyaḥ",
 "quick_gloss": "to-be-praised"
 },
 {
-"surface": "rāja+vidvat+sabhāsu",
-"quick_gloss": "in-royal+and-learned+assemblies"
+"surface": "rāja",
+"quick_gloss": "in-royal"
+},
+{
+"surface": "vidvat+sabhāsu",
+"quick_gloss": "and-scholarly+assemblies"
 },
 {
 "surface": "ca",
@@ -321,7 +345,7 @@
 "quick_gloss": "indeed"
 },
 {
-"surface": "ayam",
+"surface": "ayaṃ",
 "quick_gloss": "he"
 },
 {
@@ -329,8 +353,20 @@
 "quick_gloss": "indeed"
 },
 {
-"surface": "dhana+vāsaḥ+anna+bhūṣaṇaiḥ",
-"quick_gloss": "with-wealth+clothing+and-ornaments"
+"surface": "dhana",
+"quick_gloss": "with-wealth"
+},
+{
+"surface": "vāsaḥ",
+"quick_gloss": "garments"
+},
+{
+"surface": "anna",
+"quick_gloss": "and-food"
+},
+{
+"surface": "bhūṣaṇaiḥ",
+"quick_gloss": "and-ornaments"
 }
 ]
 },
@@ -388,7 +424,7 @@
 },
 {
 "surface": "sarvasvam",
-"quick_gloss": "all+one's-possessions"
+"quick_gloss": "all+one's-wealth"
 },
 {
 "surface": "ādarāt",
@@ -413,7 +449,7 @@
 },
 {
 "surface": "kurvan",
-"quick_gloss": "performing"
+"quick_gloss": "doing"
 },
 {
 "surface": "api",
@@ -446,7 +482,7 @@
 },
 {
 "surface": "varṣa+trayaṃ",
-"quick_gloss": "year+three"
+"quick_gloss": "year+triad"
 },
 {
 "surface": "bhuvi",
@@ -463,7 +499,7 @@
 "tokens": [
 {
 "surface": "kurvan",
-"quick_gloss": "performing"
+"quick_gloss": "doing"
 },
 {
 "surface": "ācārya+suśrūṣāṃ",
@@ -487,15 +523,15 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "ittham",
+"surface": "itthām",
 "quick_gloss": "thus"
 },
 {
-"surface": "ācārya+śuśrūṣāṃ",
+"surface": "ācārya+śuśrūdhā",
 "quick_gloss": "service+to-teacher"
 },
 {
-"surface": "kurvan",
+"surface": "kuryan",
 "quick_gloss": "doing"
 },
 {
@@ -517,11 +553,11 @@
 "tokens": [
 {
 "surface": "brahmavidyā+anusaṃdhātā",
-"quick_gloss": "contemplator+of-brahman+knowledge"
+"quick_gloss": "contemplator+of-brahman-knowledge"
 },
 {
 "surface": "raśmimālā+anuciṃtakaḥ",
-"quick_gloss": "meditator+on-garland+of-rays"
+"quick_gloss": "meditator+on-garland-of-rays"
 }
 ]
 },
@@ -549,8 +585,12 @@
 "quick_gloss": "indeed"
 },
 {
-"surface": "śriyaḥ+pateḥ",
-"quick_gloss": "of-śrī's+lord"
+"surface": "śriyaḥ",
+"quick_gloss": "of-śrī"
+},
+{
+"surface": "yateḥ",
+"quick_gloss": "of-the-lord"
 }
 ]
 },
@@ -563,11 +603,11 @@
 "tokens": [
 {
 "surface": "vidhi+arthavāda+maṃtra+ātmarūpiṇī",
-"quick_gloss": "of-injunction+explanation+mantra+nature"
+"quick_gloss": "of-injunction+and-explanation+and-mantra+nature"
 },
 {
 "surface": "sarva+siddhidā",
-"quick_gloss": "giver+of-all+accomplishments"
+"quick_gloss": "giver+of-all+attainments"
 }
 ]
 },
@@ -587,7 +627,7 @@
 "quick_gloss": "divine"
 },
 {
-"surface": "kṛtavantaḥ",
+"surface": "kṛtavaṃtaḥ",
 "quick_gloss": "made"
 },
 {
@@ -613,7 +653,11 @@
 },
 {
 "surface": "darśanāni",
-"quick_gloss": "philosophical-systems"
+"quick_gloss": "systems+of-philosophy"
+},
+{
+"surface": "ṣaḍ",
+"quick_gloss": "six"
 },
 {
 "surface": "ete",
@@ -621,7 +665,7 @@
 },
 {
 "surface": "parama+ṛṣayaḥ",
-"quick_gloss": "supreme+sages"
+"quick_gloss": "great+sages"
 }
 ]
 },
@@ -633,16 +677,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "yaḥ",
-"quick_gloss": "who"
-},
-{
 "surface": "upanīya",
 "quick_gloss": "having-initiated"
 },
 {
+"surface": "tu",
+"quick_gloss": "who"
+},
+{
+"surface": "yaḥ",
+"quick_gloss": "who"
+},
+{
 "surface": "śiṣyaṃ",
-"quick_gloss": "student"
+"quick_gloss": "disciple"
 },
 {
 "surface": "vedam",
@@ -650,7 +698,7 @@
 },
 {
 "surface": "adhyāpayet",
-"quick_gloss": "would-teach"
+"quick_gloss": "should-teach"
 },
 {
 "surface": "dvijaḥ",
@@ -682,7 +730,7 @@
 "quick_gloss": "teacher"
 },
 {
-"surface": "pathyate",
+"surface": "paṭhyate",
 "quick_gloss": "is-called"
 }
 ]
@@ -695,12 +743,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "nyāsa+yaṃtra+rahasya+ādi",
-"quick_gloss": "with-initiation+diagram+secrets+and-so-forth"
-},
-{
-"surface": "sahitām",
-"quick_gloss": "accompanied"
+"surface": "nyāsa+yaṃtra+rahasya+ādi+sahitām",
+"quick_gloss": "with-initiation+diagram+secret+etc."
 },
 {
 "surface": "iṃdirā+pateḥ",

@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p112-v2776
-[in+rohiṇī](hohirāyāṃ) [situated](saṃsthito) [jupiter](jīve) [aries+zodiac+going+sun](meṣa+rāśi+gate+ravau)
+[in-rohiṇī](hohirāyāṃ) [situated](saṃsthito) [jupiter](jīve) [in-aries-sign-gone-sun](meṣarāśigateravau)
 
 ## mukta-m0-p112-v2777
-[this+yoga](yogaḥ+ayaṃ) [six+by](ṣaḍbhiḥ) [years](varṣaiḥ) [is+obtained](labhyate) [not+otherwise](na+anyathā) [o+king](nṛpa)
+[this-yoga](yogoyaṃ) [by-six](ṣaḍ) [by-years](vibhirvaṣair) [is-obtained](llabhyate) [not-otherwise](nānyathā) [o-king](nṛpa)
 
 ## mukta-m0-p112-v2778
-[of+ancestors](pitṝṇām) [also](api) [of+all](sarveṣām) [imperishable+joy+causing](akṣaya+ānanda+kārakam)
+[of-fathers-also](pitṛṇāmapi) [of-all](sarveṣām) [imperishable-bliss](akṣanaṃ) [making](dakārakaṃ)
 
 ## mukta-m0-p112-v2779
-[there+only](tatra+eva) [friday](bhṛgu+vāreṇa) [aptahita?](aptahita) [on+auspicious+day](deva+se+śubhe)
+[there-only](tatraiva) [on-friday](bhṛguvāreṇa) [aptahita](aptahita) [on-auspicious-day](devaseśubhe)
 
 ## mukta-m0-p112-v2780
-[in+this+only+day](asmin+eva+dine) [again](bhūyaḥ) [in+rohiṇī](rohiṇyāṃ) [lord](bhagavān) [all+pervading](vibhuḥ)
+[on-this-very-day](asminnevadine) [again](bhūya) [in-rohiṇī](rohiṇyāṃ) [lord](bhagavān) [all-pervading](vibhuḥ)
 
 ## mukta-m0-p112-v2781
-[and+indeed](kiṃ+ca) [of+dharma](dharmasya) [by+austerity](tapasā) [satisfied](toṣitaḥ) [became+earth](vasudhāyate)
+[and-also](kiṃ+ca) [of-dharma](dharmasya) [by-austerity](tayasā) [pleased](toṣitova) [becomes-earth](sudhāyate)
 
 ## mukta-m0-p112-v2782
-[prajāpati+constellation+joined](prājāpatya+ṛkṣa+sahite) [friday+joined](bhṛgu+vāsara+saṃyute)
+[with-prajāpati-nakṣatra](prājāpatyarkṣasahite) [joined-with-friday](bhṛguvāsarasaṃyute)
 
 ## mukta-m0-p112-v2783
-[in+vaiśākha+bright+fortnight](vaiśākhe+śukla+pakṣe) [on+this+day](ha+mutyano+smin+dine) [o+king](nṛpa)
+[in-vaiśākha](vaiśākhe) [in-bright-fortnight](śuklapakṣe) [i-born](hamutyanosmin) [on-this-day](dine) [o-king](nṛpa)
 
 ## mukta-m0-p112-v2784
-[of+dharma](dharmasya) [by+austerity](tapasā) [satisfied](tuṣṭaḥ) [daughter+of+dakṣa](dākṣāyaṇyām) [i](aham) [o+king](nṛpa)
+[of-dharma](dharmasya) [by-austerity-pleased](tapasātuṣṭo) [in-dākṣāyaṇī](dākṣāyaṇyāmahaṃ) [o-king](nṛpa)
 
 ## mukta-m0-p112-v2785
-[in+this+only+day](asmin+eva+dine) [formerly](pūrva) [in+rohiṇī](rīhiṇyāṃ) [on+friday](bhṛgu+vāsare)
+[on-this-very-day](asminnevadine) [in-previous-rohiṇī](pūrvarīhiṇyāṃ) [on-friday](bhṛguvāsare)
 
 ## mukta-m0-p112-v2786
-[and+indeed+in+this+only+day](kiṃ+ca+asmin+eva+divase) [in+rohiṇī](rohiṇayāṃ) [moon+crested](śaśi+śekharaḥ)
+[and-also](kiṃ+ca) [on-this-very-day](asminnevadivase) [in-rohiṇī](rohiṇayāṃ) [moon-crested](śaśiśekharaḥ)
 
 ## mukta-m0-p112-v2787
-[therefore](tasmāt) [imperishable+named](akṣaya+nāmnī) [this+third](iyaṃ+tṛtīyā) [all+accomplishment+giving](sarva+siddhi+dā)
+[therefore](tasmād) [imperishable-named](akṣayanāmnīyaṃ) [third](tṛtīyā) [all-success-giving](sarvasiddhidā)
 
 ## mukta-m0-p112-v2788
-[by+these](etaiḥ) [endowed](samanvitaḥ) [yoga](yogauḥ) [not+seen](alakṣyaḥ) [yoga](yogaḥ) [thus+said](īti+rataḥ)
+[by-these](etai) [endowed](samanvito) [yoga](yogau) [uralakṣya](ralakṣyo) [yoga](yoga) [ītirataḥ](ītirataḥ)
 
 ## mukta-m0-p112-v2789
-[rohiṇī](rohiṇī) [friday+movement+with](bhṛgu+cāreṇa+sahitā) [here](atra) [may+be](bhavet) [if](yadi)
+[rohiṇī](rohiṇī) [with-friday-movement](bhṛgucāreṇa) [joined](sahitā) [here](atra) [may-be](bhaved) [if](yadi)
 
 ## mukta-m0-p112-v2790
-[rohiṇī+situated+jupiter](rīhiṇī+saṃsthiti+jīve) [in+aries+zodiac+going+sun](me+surāśi+gate+ravau)
+[in-rohiṇī-situated](rīhiṇīsasthiti) [jupiter](jīve) [in-aries-sign-gone-sun](mesurāśigateravau)
 
 ## mukta-m0-p112-v2791
-[imperishable+named](akṣaya+ākhya) [third](tṛtīyaṃ) [which](yam) [great+festival](mahat+parvam) [said](āmerirta)
+[imperishable-named](akṣayākhya) [third](tṛtīyaṃ) [which-great-festival](yaṃmahatparvam) [amerirta](amerirta)
 
 ## mukta-m0-p112-v2792
-[sages](ṛṣayaḥ) [siddha+hosts+and](siddha+saṃghāḥ+ca) [daily](pratyaham) [worship](pūjayanti) [this](imām)
+[sages-and-siddha-groups](ṛṣayassiddhasaṃghāśca) [daily](pratyahaṃ) [worship](pūjayaṃtimāṃ)
 
 ## mukta-m0-p112-v2793
-[from+me+imperishable+fruit](mato+akṣaya+alam) [having+obtained](prāpya) [go](gacchanti) [to+heaven](tridivam) [gods](surāḥ)
+[from-me-imperishable](matokṣayalaṃ) [having-obtained](prāpya) [go](gacchaṃti) [to-heaven](tridivaṃ) [gods](surāḥ)
 
 ## mukta-m0-p112-v2794
-[from+me+essence](mat+masāt) [becomes](bhavati) [indeed](eva) [day](dinam) [there](e+tat+rathā) [thus+imperishable](atha+akṣayam)
+[from-me](matmasād) [becomes-indeed](bhavatyeva) [day](diname) [there-thus](tatrathāthā) [imperishable](kṣayaṃ)
 
 ## mukta-m0-p112-v2795
-[nārāyaṇa+hermitage+named](nārāyaṇa+āśramaḥ+nāmnā) [in+my+mind+placed](tan+manasthā) [not](na) [is+freed](mucyate)
+[nārāyaṇa-āśrama-named](nārāyaṇāśramonāmnātan) [mind-placed](manasthā) [not](na) [is-released](mucyate)
 
 ## mukta-m0-p112-v2796
-[daughter+of+dakṣa+son](dākṣāyaṇī+sutam) [nāṣāra+named](nāṣāra+vyātam) [nārāyaṇa](nārāyaṇam) [sage](munim)
+[dakṣāyaṇī-son](dākṣāyaṇīsutaṃ) [nāṣā-ravyāta](nāṣāravyātaṃ) [nārāyaṇa](nārāyaṇāṃ) [sage](muniṃ)
 
 ## mukta-m0-p112-v2797
-[crores+of+births+accumulated](koṭi+janma+ārjitaiḥ) [by+sins](pāya+saṃghaiḥ) [also](api) [very+terrible](su+dāruṇaiḥ)
+[by-koti-births-earned](koṭijanmārjītaiḥ) [by-sin-groups](pāyasaṃghairapi) [also](api) [very-terrible](sudāruṇaiḥ)
 
 ## mukta-m0-p112-v2798
-[on+imperishable+this+day](akṣaye+asmin+dine) [therefore](tasmāt) [said+yoga](ukta+yogaḥ) [may+be](bhavet) [indeed](ya+hi)
+[in-imperishable](akṣaye) [on-this-day](asmin+dine) [therefore](tasmād) [said-yoga](uktayogo) [may-be](bhaved) [who-indeed](ya+hi)
 
 ## mukta-m0-p112-v2799
-[not+obtainable+yoga](alabhya+yoge) [having+attained](saṃprāptaḥ) [on+day+imperishable+named](divase+akṣaya+saṃjñite)
+[in-hard-to-get-yoga](alabhyayoge) [obtained](saṃprāpto) [on-day](divase) [imperishable-named](kṣayasaṃjñite)
 
 ## mukta-m0-p112-v2800
-[daily](naisakam) [action+having+done](karma+kṛtvā) [then](atha) [that+permission+having+placed+before](tat+anujñā+purassaram)
+[naisaka](naisakaṃ) [action](karma) [having-done](kṛtvā) [then](atha) [that-permission-having-in-front](tadanujñāpurassaraṃ)
