@@ -44,8 +44,8 @@
 "quick_gloss": "now"
 },
 {
-"surface": "vyuha+kramaṃ",
-"quick_gloss": "array+sequence"
+"surface": "vyuha+kramam",
+"quick_gloss": "arrangement+sequence"
 },
 {
 "surface": "vakṣye",
@@ -53,7 +53,7 @@
 },
 {
 "surface": "vidyā+vyūha",
-"quick_gloss": "knowledge+array"
+"quick_gloss": "knowledge+arrangement"
 },
 {
 "surface": "ādi",
@@ -61,7 +61,7 @@
 },
 {
 "surface": "vyūhakam",
-"quick_gloss": "array"
+"quick_gloss": "arrangement"
 }
 ]
 },
@@ -74,7 +74,7 @@
 "tokens": [
 {
 "surface": "vana+parva+sthitaḥ",
-"quick_gloss": "forest-book+situated"
+"quick_gloss": "forest+book+situated"
 },
 {
 "surface": "ca",
@@ -82,7 +82,7 @@
 },
 {
 "surface": "asau",
-"quick_gloss": "he"
+"quick_gloss": "that-one"
 },
 {
 "surface": "smṛti+mārgaḥ",
@@ -115,7 +115,7 @@
 },
 {
 "surface": "vigraha+īśvara+vyūhakam",
-"quick_gloss": "body+lord+array"
+"quick_gloss": "body+lord+arrangement"
 }
 ]
 },
@@ -132,7 +132,7 @@
 },
 {
 "surface": "śarva+sarvebhyaḥ",
-"quick_gloss": "to-śarva+all"
+"quick_gloss": "to-śarva+to-all"
 },
 {
 "surface": "umā+rūpe",
@@ -160,7 +160,7 @@
 "quick_gloss": "ambikā"
 },
 {
-"surface": "brahma+vetālī",
+"surface": "brahmavetālī",
 "quick_gloss": "brahma-vetālī"
 },
 {
@@ -197,7 +197,7 @@
 "quick_gloss": "gaurī"
 },
 {
-"surface": "śakti+aghorā",
+"surface": "śaktyaghorā",
 "quick_gloss": "śakti-aghorā"
 },
 {
@@ -219,7 +219,7 @@
 "tokens": [
 {
 "surface": "rudra+vyūhau",
-"quick_gloss": "in-rudra+array"
+"quick_gloss": "in-rudra+arrangement"
 },
 {
 "surface": "bhavet",
@@ -227,7 +227,7 @@
 },
 {
 "surface": "raudrau",
-"quick_gloss": "two-raudras"
+"quick_gloss": "raudra"
 },
 {
 "surface": "vṛtaḥ",
@@ -238,7 +238,7 @@
 "quick_gloss": "and"
 },
 {
-"surface": "bali+śālinaḥ",
+"surface": "baliśālinaḥ",
 "quick_gloss": "by-mighty-ones"
 }
 ]
@@ -321,20 +321,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "umā+ādi",
+"surface": "umayā+ādi",
 "quick_gloss": "umā+beginning-with"
 },
 {
-"surface": "gaṇeśānaṃ",
-"quick_gloss": "gaṇeśa"
+"surface": "gaṇeśānam",
+"quick_gloss": "gaṇeśāna"
 },
 {
-"surface": "vyūhaṃ",
-"quick_gloss": "array"
+"surface": "vyūham",
+"quick_gloss": "arrangement"
 },
 {
-"surface": "vyūha+kramāt",
-"quick_gloss": "in-array+sequence"
+"surface": "vyūha+krama+ādi",
+"quick_gloss": "arrangement+sequence+beginning-with"
 },
 {
 "surface": "yajet",
@@ -363,7 +363,7 @@
 },
 {
 "surface": "nadau",
-"quick_gloss": "two-rivers"
+"quick_gloss": "nāda"
 },
 {
 "surface": "binduḥ",
@@ -391,7 +391,7 @@
 "quick_gloss": "and"
 },
 {
-"surface": "ūrdhva+gā",
+"surface": "ūrdhvagā",
 "quick_gloss": "upward-going"
 },
 {
@@ -420,7 +420,7 @@
 "quick_gloss": "mantra+womb"
 },
 {
-"surface": "mahā+māyā",
+"surface": "mahāmāyā",
 "quick_gloss": "mahāmāyā"
 },
 {
@@ -450,10 +450,10 @@
 "tokens": [
 {
 "surface": "cit+rūpaḥ",
-"quick_gloss": "consciousness+formed"
+"quick_gloss": "consciousness+form"
 },
 {
-"surface": "ayaṃ",
+"surface": "ayam",
 "quick_gloss": "this"
 },
 {
@@ -478,20 +478,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "aṅga+aṅgi+bhāva",
-"quick_gloss": "limb+limbed+state"
-},
-{
-"surface": "vihitaḥ",
-"quick_gloss": "ordained"
+"surface": "aṅga+aṅgi+bhāva+vihitaḥ",
+"quick_gloss": "limb+limbed+state+ordained"
 },
 {
 "surface": "viśeṣam",
 "quick_gloss": "distinction"
 },
 {
-"surface": "akṣama+āditaḥ",
-"quick_gloss": "beginning-with-akṣa"
+"surface": "akṣama+ādi+taḥ",
+"quick_gloss": "syllable+beginning-with"
 }
 ]
 },
@@ -516,7 +512,7 @@
 },
 {
 "surface": "brahma+nāmā",
-"quick_gloss": "by-brahman-name"
+"quick_gloss": "by-brahman+name"
 },
 {
 "surface": "kathyate",
@@ -532,11 +528,11 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "utkramaṃ",
+"surface": "utkramam",
 "quick_gloss": "upward-course"
 },
 {
-"surface": "rudra+daivatyaṃ",
+"surface": "rudra+daivatyam",
 "quick_gloss": "rudra+deity"
 },
 {
@@ -636,7 +632,7 @@
 },
 {
 "surface": "karma+dāsām",
-"quick_gloss": "servants+slaves"
+"quick_gloss": "work+servants"
 },
 {
 "surface": "ca",
@@ -697,7 +693,7 @@
 "quick_gloss": "and"
 },
 {
-"surface": "sūrya+devān",
+"surface": "sūrya+devām",
 "quick_gloss": "sun+gods"
 },
 {
@@ -746,8 +742,12 @@
 "quick_gloss": "heart+mantra-possessing"
 },
 {
-"surface": "liṅgaṃ",
+"surface": "liṅgam",
 "quick_gloss": "liṅga"
+},
+{
+"surface": "ca",
+"quick_gloss": "and"
 },
 {
 "surface": "pīṭham",
@@ -771,16 +771,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "nandyāvartaṃ",
+"surface": "nandyāvartam",
 "quick_gloss": "nandyāvarta"
 },
 {
-"surface": "śriyāvartaṃ",
+"surface": "śriyāvartam",
 "quick_gloss": "śriyāvarta"
 },
 {
 "surface": "nīla+utpalam",
-"quick_gloss": "blue-lotus"
+"quick_gloss": "blue+lotus"
 },
 {
 "surface": "ca",
