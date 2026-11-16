@@ -20,7 +20,7 @@
 },
 {
 "surface": "mallikāḥ",
-"quick_gloss": "mallikāḥ"
+"quick_gloss": "and-mallikā"
 }
 ]
 },
@@ -41,7 +41,7 @@
 },
 {
 "surface": "patrāṇi",
-"quick_gloss": "leaves"
+"quick_gloss": "and-leaves"
 },
 {
 "surface": "sādhakaḥ",
@@ -95,15 +95,15 @@
 },
 {
 "surface": "kuryāt",
-"quick_gloss": "one-should-make"
+"quick_gloss": "should-make"
 },
 {
 "surface": "kusuma",
-"quick_gloss": "flower"
+"quick_gloss": "with-flowers"
 },
 {
 "surface": "upahitaṃ",
-"quick_gloss": "covered"
+"quick_gloss": "adorned"
 },
 {
 "surface": "sadā",
@@ -132,7 +132,7 @@
 },
 {
 "surface": "pañcake",
-"quick_gloss": "in-the-five"
+"quick_gloss": "in-five"
 }
 ]
 },
@@ -145,11 +145,15 @@
 "tokens": [
 {
 "surface": "dadyāt",
-"quick_gloss": "one-should-give"
+"quick_gloss": "should-give"
 },
 {
-"surface": "pādadvandve",
-"quick_gloss": "at-the-two-feet"
+"surface": "pāda",
+"quick_gloss": "at-foot"
+},
+{
+"surface": "dvandve",
+"quick_gloss": "pair"
 },
 {
 "surface": "vidhāna",
@@ -170,11 +174,11 @@
 "tokens": [
 {
 "surface": "dadyāt",
-"quick_gloss": "one-should-give"
+"quick_gloss": "should-give"
 },
 {
 "surface": "parivārān",
-"quick_gloss": "to-the-retinue"
+"quick_gloss": "to-retinue"
 },
 {
 "surface": "atha",
@@ -182,7 +186,7 @@
 },
 {
 "surface": "arcayet",
-"quick_gloss": "one-should-worship"
+"quick_gloss": "should-worship"
 }
 ]
 },
@@ -202,16 +206,12 @@
 "quick_gloss": "also"
 },
 {
-"surface": "iti",
-"quick_gloss": "thus"
-},
-{
-"surface": "ukteḥ",
-"quick_gloss": "by-the-statement"
+"surface": "iti+ukteḥ",
+"quick_gloss": "by-statement"
 },
 {
 "surface": "mūrdhni",
-"quick_gloss": "on-the-head"
+"quick_gloss": "on-head"
 },
 {
 "surface": "syāt",
@@ -269,7 +269,7 @@
 "tokens": [
 {
 "surface": "dikṣu",
-"quick_gloss": "in-the-directions"
+"quick_gloss": "in-directions"
 },
 {
 "surface": "ca",
@@ -277,19 +277,19 @@
 },
 {
 "surface": "astra",
-"quick_gloss": "with-weapon"
+"quick_gloss": "with-astra"
 },
 {
 "surface": "aṅga",
-"quick_gloss": "and-limb"
+"quick_gloss": "and-aṅga"
 },
 {
 "surface": "mantraiḥ",
 "quick_gloss": "mantras"
 },
 {
-"surface": "namo'ntakaiḥ",
-"quick_gloss": "ending-with-namaḥ"
+"surface": "namaḥ+antakaiḥ",
+"quick_gloss": "ending-with-namas"
 }
 ]
 },
@@ -352,7 +352,7 @@
 "tokens": [
 {
 "surface": "viduṣā",
-"quick_gloss": "by-the-wise-one"
+"quick_gloss": "by-the-wise"
 },
 {
 "surface": "anena",
@@ -534,19 +534,19 @@
 "tokens": [
 {
 "surface": "heti",
-"quick_gloss": "weapon"
+"quick_gloss": "with-weapons"
 },
 {
 "surface": "jāti",
-"quick_gloss": "class"
+"quick_gloss": "with-classes"
 },
 {
 "surface": "ādhipa",
-"quick_gloss": "lord"
+"quick_gloss": "with-lords"
 },
 {
 "surface": "upetān",
-"quick_gloss": "endowed-with"
+"quick_gloss": "endowed"
 },
 {
 "surface": "an",
@@ -554,7 +554,7 @@
 },
 {
 "surface": "athā",
-"quick_gloss": "otherwise"
+"quick_gloss": "thus"
 },
 {
 "surface": "kaścit",
@@ -575,15 +575,15 @@
 "tokens": [
 {
 "surface": "vajra",
-"quick_gloss": "to-the-thunderbolt"
+"quick_gloss": "to-thunderbolt"
 },
 {
 "surface": "hastāya",
 "quick_gloss": "handed"
 },
 {
-"surface": "surādhipataye",
-"quick_gloss": "to-the-lord-of-gods"
+"surface": "sura+ādhipataye",
+"quick_gloss": "to-lord-of-gods"
 },
 {
 "surface": "padam",
@@ -632,7 +632,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "yakṣo",
+"surface": "yakṣaḥ",
 "quick_gloss": "Yakṣa"
 },
 {
@@ -640,7 +640,7 @@
 "quick_gloss": "Varuṇa"
 },
 {
-"surface": "pavano",
+"surface": "pavanaḥ",
 "quick_gloss": "Vāyu"
 },
 {
@@ -677,8 +677,8 @@
 "quick_gloss": "smoky"
 },
 {
-"surface": "sitau",
-"quick_gloss": "dark"
+"surface": "asitau",
+"quick_gloss": "and-black"
 },
 {
 "surface": "ubhau",
