@@ -7,8 +7,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "aṅgulyagrantu",
-"quick_gloss": "finger-tip"
+"surface": "aṅgulyagran",
+"quick_gloss": "finger+tip"
+},
+{
+"surface": "tu",
+"quick_gloss": "but"
 },
 {
 "surface": "saṃyuktaṃ",
@@ -16,11 +20,11 @@
 },
 {
 "surface": "mudrā",
-"quick_gloss": "mudra"
+"quick_gloss": "gesture"
 },
 {
-"surface": "vārāhasaṃjñikā",
-"quick_gloss": "boar-named"
+"surface": "vārāha+saṃjñikā",
+"quick_gloss": "boar+named"
 }
 ]
 },
@@ -33,19 +37,27 @@
 "tokens": [
 {
 "surface": "saṃropya",
-"quick_gloss": "placing"
+"quick_gloss": "having-raised"
 },
 {
 "surface": "madhyamānāme",
-"quick_gloss": "middle-fingers"
+"quick_gloss": "middle-finger"
 },
 {
-"surface": "mukhasyādho",
-"quick_gloss": "below-mouth"
+"surface": "mukhasya",
+"quick_gloss": "of-face"
+},
+{
+"surface": "adho",
+"quick_gloss": "below"
 },
 {
 "surface": "vikuñcayet",
-"quick_gloss": "bend"
+"quick_gloss": "one-should-bend"
+},
+{
+"surface": "[madhyamā tasāmunnamyā'dha iti kvacit]",
+"quick_gloss": "madhyamā tasāmunnamyā'dha iti kvacit"
 }
 ]
 },
@@ -57,28 +69,28 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "4",
-"quick_gloss": "four"
-},
-{
 "surface": "vāmasya",
 "quick_gloss": "of-left"
 },
 {
-"surface": "madhyamāgratu",
-"quick_gloss": "middle-tip"
-},
-{
-"surface": "tarjanyagre",
-"quick_gloss": "index-tip"
+"surface": "madhyamāgra",
+"quick_gloss": "middle-finger+tip"
 },
 {
 "surface": "tu",
-"quick_gloss": "and"
+"quick_gloss": "but"
+},
+{
+"surface": "tarjanyagre",
+"quick_gloss": "forefinger+tip"
+},
+{
+"surface": "tu",
+"quick_gloss": "but"
 },
 {
 "surface": "yojayet",
-"quick_gloss": "join"
+"quick_gloss": "one-should-join"
 }
 ]
 },
@@ -90,16 +102,28 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "sparśayedvāmake",
-"quick_gloss": "touch-left"
+"surface": "sparśayed",
+"quick_gloss": "one-should-touch"
+},
+{
+"surface": "vāmake",
+"quick_gloss": "on-left"
 },
 {
 "surface": "skandhe",
 "quick_gloss": "shoulder"
 },
 {
-"surface": "dhanurmudreyamīritā",
-"quick_gloss": "bow-mudra-declared"
+"surface": "dhanur+mudrā",
+"quick_gloss": "bow+gesture"
+},
+{
+"surface": "iyam",
+"quick_gloss": "this"
+},
+{
+"surface": "īritā",
+"quick_gloss": "declared"
 }
 ]
 },
@@ -111,27 +135,35 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "8",
-"quick_gloss": "eight"
-},
-{
 "surface": "tale",
 "quick_gloss": "palm"
 },
 {
-"surface": "talantu",
+"surface": "talaṃ",
 "quick_gloss": "palm"
 },
 {
-"surface": "karayostiryak",
-"quick_gloss": "hands-crosswise"
+"surface": "tu",
+"quick_gloss": "but"
+},
+{
+"surface": "karayos",
+"quick_gloss": "of-two-hands"
+},
+{
+"surface": "tiryak",
+"quick_gloss": "crosswise"
 },
 {
 "surface": "saṃyojya",
-"quick_gloss": "joining"
+"quick_gloss": "having-joined"
 },
 {
-"surface": "cāṅgulīḥ",
+"surface": "ca",
+"quick_gloss": "and"
+},
+{
+"surface": "aṅgulīḥ",
 "quick_gloss": "fingers"
 }
 ]
@@ -144,8 +176,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "ūrddhasthāṅguṣṭhamuṣṭī",
-"quick_gloss": "upright-thumb-fists"
+"surface": "ūrddhastha+aṅguṣṭha+muṣṭī",
+"quick_gloss": "upward+placed+thumb+fists"
 },
 {
 "surface": "dve",
@@ -153,11 +185,11 @@
 },
 {
 "surface": "mudrā",
-"quick_gloss": "mudra"
+"quick_gloss": "gesture"
 },
 {
-"surface": "trailokyamohinī",
-"quick_gloss": "world-deluding"
+"surface": "trailokya+mohinī",
+"quick_gloss": "three-worlds+enchanting"
 }
 ]
 },
@@ -169,24 +201,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "12",
-"quick_gloss": "twelve"
-},
-{
 "surface": "tarjanyau",
-"quick_gloss": "index-fingers"
+"quick_gloss": "two-forefingers"
 },
 {
-"surface": "madhyamāpṛṣṭhe",
-"quick_gloss": "on-middle-backs"
+"surface": "madhyamā+pṛṣṭhe",
+"quick_gloss": "on-middle-finger+back"
 },
 {
 "surface": "aṅguṣṭhau",
-"quick_gloss": "thumbs"
+"quick_gloss": "two-thumbs"
 },
 {
-"surface": "madhyamāśritau",
-"quick_gloss": "resting-on-middle"
+"surface": "madhyamā+āśritau",
+"quick_gloss": "resting-on-middle-finger"
 }
 ]
 },
@@ -198,8 +226,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "sadāśivapriyāṇāñca",
-"quick_gloss": "and-of-sadashiva-dear"
+"surface": "sadāśiva+priyāṇāṃ",
+"quick_gloss": "of-those-dear-to-sadāśiva"
+},
+{
+"surface": "ca",
+"quick_gloss": "and"
 },
 {
 "surface": "kathyante",
@@ -223,16 +255,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "16",
-"quick_gloss": "sixteen"
+"surface": "vāma+aṅgulīr",
+"quick_gloss": "left+fingers"
 },
 {
-"surface": "vāmāṅgulīrdakṣiṇābhiraṅgulībhiśca",
-"quick_gloss": "left-fingers-with-right-fingers"
+"surface": "dakṣiṇābhir+aṅgulībhiś",
+"quick_gloss": "with-right+fingers"
+},
+{
+"surface": "ca",
+"quick_gloss": "and"
 },
 {
 "surface": "bandhayet",
-"quick_gloss": "bind"
+"quick_gloss": "one-should-bind"
 }
 ]
 },
@@ -249,15 +285,19 @@
 },
 {
 "surface": "kaniṣṭhike",
-"quick_gloss": "little-fingers"
+"quick_gloss": "two-little-fingers"
 },
 {
 "surface": "baddhvā",
 "quick_gloss": "having-bound"
 },
 {
-"surface": "tarjanībhyāmanāmike",
-"quick_gloss": "index-and-ring"
+"surface": "tarjanībhyām",
+"quick_gloss": "with-two-forefingers"
+},
+{
+"surface": "anāmike",
+"quick_gloss": "two-ring-fingers"
 }
 ]
 },
@@ -269,12 +309,24 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "aṅguṣṭhāgradvayaṃ",
-"quick_gloss": "two-thumb-tips"
+"surface": "aṅguṣṭha+agra+dvayaṃ",
+"quick_gloss": "thumb+tip+pair"
 },
 {
-"surface": "nyasyedyonimudreyamīritā",
-"quick_gloss": "placing-yoni-mudra-declared"
+"surface": "nyasyed",
+"quick_gloss": "one-should-place"
+},
+{
+"surface": "yoni+mudrā",
+"quick_gloss": "yoni+gesture"
+},
+{
+"surface": "iyam",
+"quick_gloss": "this"
+},
+{
+"surface": "īritā",
+"quick_gloss": "declared"
 }
 ]
 },
@@ -286,20 +338,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "4",
-"quick_gloss": "four"
-},
-{
 "surface": "prasārayet",
-"quick_gloss": "extend"
+"quick_gloss": "one-should-extend"
 },
 {
-"surface": "triśūlākhyā",
-"quick_gloss": "trident-named"
+"surface": "triśūla+ākhyā",
+"quick_gloss": "trident+named"
 },
 {
-"surface": "mudraiṣā",
-"quick_gloss": "this-mudra"
+"surface": "mudrā",
+"quick_gloss": "gesture"
+},
+{
+"surface": "eṣā",
+"quick_gloss": "this"
 },
 {
 "surface": "parikīrtitā",
@@ -315,8 +367,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "prasārayedakṣamālā-mudreyaṃ",
-"quick_gloss": "extend-rosary-mudra"
+"surface": "prasārayed",
+"quick_gloss": "one-should-extend"
+},
+{
+"surface": "akṣamālā+mudrā",
+"quick_gloss": "rosary+gesture"
+},
+{
+"surface": "iyaṃ",
+"quick_gloss": "this"
 },
 {
 "surface": "parikīrtitā",
@@ -332,20 +392,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "8",
-"quick_gloss": "eight"
-},
-{
 "surface": "ūrddhīkṛto",
-"quick_gloss": "raised"
+"quick_gloss": "raised-upward"
 },
 {
-"surface": "vāmahastaḥ",
-"quick_gloss": "left-hand"
+"surface": "vāma+hastaḥ",
+"quick_gloss": "left+hand"
 },
 {
-"surface": "prasṛto'bhayamudrikā",
-"quick_gloss": "extended-abhaya-mudra"
+"surface": "prasṛto",
+"quick_gloss": "extended"
+},
+{
+"surface": "abhaya+mudrikā",
+"quick_gloss": "fearlessness+gesture"
 }
 ]
 },
@@ -357,12 +417,24 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "śiṣṭāṅgulyucchrite",
-"quick_gloss": "remaining-fingers-raised"
+"surface": "śiṣṭa+aṅguly+ucchrite",
+"quick_gloss": "remaining+fingers+raised"
 },
 {
-"surface": "kuryānmṛgamudreyamīritā",
-"quick_gloss": "make-deer-mudra-declared"
+"surface": "kuryān",
+"quick_gloss": "one-should-make"
+},
+{
+"surface": "mṛga+mudrā",
+"quick_gloss": "deer+gesture"
+},
+{
+"surface": "iyam",
+"quick_gloss": "this"
+},
+{
+"surface": "īritā",
+"quick_gloss": "declared"
 }
 ]
 },
@@ -374,20 +446,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "12",
-"quick_gloss": "twelve"
-},
-{
-"surface": "khaṭvāṅgamudrā",
-"quick_gloss": "khatvanga-mudra"
+"surface": "khaṭvāṅga+mudrā",
+"quick_gloss": "skull-staff+gesture"
 },
 {
 "surface": "vikhyātā",
-"quick_gloss": "famous"
+"quick_gloss": "renowned"
 },
 {
-"surface": "śivasyātipriyā",
-"quick_gloss": "very-dear-to-shiva"
+"surface": "śivasya",
+"quick_gloss": "of-śiva"
+},
+{
+"surface": "ati+priyā",
+"quick_gloss": "very+dear"
 },
 {
 "surface": "matā",
@@ -403,16 +475,24 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "nidhāyocchritavat",
-"quick_gloss": "placing-raised"
+"surface": "nidhāya",
+"quick_gloss": "having-placed"
 },
 {
-"surface": "kuryānmudrā",
-"quick_gloss": "make-mudra"
+"surface": "ucchritavat",
+"quick_gloss": "raised-like"
+},
+{
+"surface": "kuryān",
+"quick_gloss": "one-should-make"
+},
+{
+"surface": "mudrā",
+"quick_gloss": "gesture"
 },
 {
 "surface": "kāpālakī",
-"quick_gloss": "kapalika"
+"quick_gloss": "skull-bearing"
 },
 {
 "surface": "matā",
@@ -428,20 +508,24 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "16",
-"quick_gloss": "sixteen"
+"surface": "dakṣiṇām",
+"quick_gloss": "right"
 },
 {
-"surface": "dakṣiṇāmūrddhauttolya",
-"quick_gloss": "raising-right-head"
+"surface": "ūrddhau",
+"quick_gloss": "upward"
 },
 {
-"surface": "karṇadeśe",
-"quick_gloss": "ear-region"
+"surface": "uttolya",
+"quick_gloss": "having-lifted"
+},
+{
+"surface": "karṇa+deśe",
+"quick_gloss": "ear+region"
 },
 {
 "surface": "pracālayet",
-"quick_gloss": "move"
+"quick_gloss": "one-should-move"
 }
 ]
 },
@@ -457,8 +541,12 @@
 "quick_gloss": "then"
 },
 {
-"surface": "gaṇeśamudrāṇāmucyante",
-"quick_gloss": "of-ganesha-mudras-are-told"
+"surface": "gaṇeśa+mudrāṇām",
+"quick_gloss": "of-gaṇeśa+gestures"
+},
+{
+"surface": "ucyante",
+"quick_gloss": "are-told"
 },
 {
 "surface": "lakṣaṇāni",
@@ -478,20 +566,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "20",
-"quick_gloss": "twenty"
-},
-{
-"surface": "dantamudrā",
-"quick_gloss": "tooth-mudra"
+"surface": "danta+mudrā",
+"quick_gloss": "tusk+gesture"
 },
 {
 "surface": "samākhyātā",
-"quick_gloss": "well-known"
+"quick_gloss": "declared"
 },
 {
-"surface": "sarvāgamaviśāradaiḥ",
-"quick_gloss": "by-all-agama-experts"
+"surface": "sarva+āgama+viśāradaiḥ",
+"quick_gloss": "by-those-skilled-in-all-āgamas"
 }
 ]
 },
@@ -503,12 +587,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "saṃyojyā'ṅguṣṭhakāgrābhyāṃ",
-"quick_gloss": "joining-thumb-tips"
+"surface": "saṃyojyā",
+"quick_gloss": "having-joined"
+},
+{
+"surface": "aṅguṣṭhaka+agrābhyāṃ",
+"quick_gloss": "with-thumb+tips"
 },
 {
 "surface": "tarjanyagre",
-"quick_gloss": "index-tip"
+"quick_gloss": "forefinger+tips"
 },
 {
 "surface": "svake",
@@ -516,7 +604,7 @@
 },
 {
 "surface": "kṣipet",
-"quick_gloss": "throw"
+"quick_gloss": "one-should-place"
 }
 ]
 },
@@ -528,12 +616,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "ṛjvīñca",
+"surface": "ṛjvīṃ",
 "quick_gloss": "straight"
 },
 {
+"surface": "ca",
+"quick_gloss": "and"
+},
+{
 "surface": "madhyamāṃ",
-"quick_gloss": "middle"
+"quick_gloss": "middle-finger"
 },
 {
 "surface": "kṛtvā",
@@ -541,11 +633,11 @@
 },
 {
 "surface": "tarjanīṃ",
-"quick_gloss": "index"
+"quick_gloss": "forefinger"
 },
 {
-"surface": "madhyaparvaṇi",
-"quick_gloss": "at-middle-joint"
+"surface": "madhya+parvaṇi",
+"quick_gloss": "at-middle+joint"
 }
 ]
 },
@@ -557,8 +649,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "tarjanīmadhyamāsandhiniḥsṛtāṅguṣṭhamuṣṭikā",
-"quick_gloss": "index-middle-joint-thumb-fist"
+"surface": "tarjanī+madhyamā+sandhi+niḥsṛta+aṅguṣṭha+muṣṭikā",
+"quick_gloss": "forefinger+middle-finger+junction+emerged+thumb+fist"
+},
+{
+"surface": "[tarjanīmadhyamānāmākaniṣṭhāṅguṣṭhamuṣṭhikā iti kvacid dṛśyate |]",
+"quick_gloss": "tarjanīmadhyamānāmākaniṣṭhāṅguṣṭhamuṣṭhikā iti kvacid dṛśyate |"
 }
 ]
 },
@@ -570,20 +666,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "parśumudrā",
-"quick_gloss": "rib-mudra"
+"surface": "parśu+mudrā",
+"quick_gloss": "axe+gesture"
 },
 {
 "surface": "nigaditā",
-"quick_gloss": "stated"
+"quick_gloss": "declared"
 },
 {
 "surface": "prasiddhā",
-"quick_gloss": "famous"
+"quick_gloss": "well-known"
 },
 {
-"surface": "laḍḍumudrikā",
-"quick_gloss": "laddu-mudra"
+"surface": "laḍḍu+mudrikā",
+"quick_gloss": "sweet-ball+gesture"
 }
 ]
 },
@@ -595,16 +691,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "8",
-"quick_gloss": "eight"
+"surface": "śākteyānāṃ",
+"quick_gloss": "of-śākta"
 },
 {
-"surface": "śākteyānāñca",
-"quick_gloss": "and-of-shakti"
+"surface": "ca",
+"quick_gloss": "and"
 },
 {
 "surface": "mudrāṇāṃ",
-"quick_gloss": "of-mudras"
+"quick_gloss": "gestures"
 },
 {
 "surface": "kathyante",
