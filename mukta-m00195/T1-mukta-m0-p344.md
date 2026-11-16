@@ -5,73 +5,73 @@
 [gesture](mudrā) [skull](kapāla) [knowledge](vidyā) [rosary](akṣamālā) [shining](rājan) [great-armed](mahābhujām)
 
 ## mukta-m0-p344-v8577
-[poetry](kavitā) [of-him](tasya) [is-born](jāyate) [with-various](nānā) [meter](vṛtta) [and-meaning](artha) [adorned](śobhitā)
+[poetry](kavitā) [of-him](tasya) [is-born](jāyate) [by-various](nānā) [meter](vṛtta) [meaning](artha) [adorned](śobhitā)
 
 ## mukta-m0-p344-v8578
 [sickle](sṛṇi) [noose](pāśa) [skull](kapāla) [arrow](iṣu) [citron](mātuluṃga) [bow](dhanuṣ) [holding-in-hand](karām)
 
 ## mukta-m0-p344-v8579
-[by-sport](helā) [and-playfulness](vilāsa) [distinguished](sambhinnāṃ) [with-new](nava) [youth](yauvana) [beautiful](sundarīm)
+[by-sport](helā) [play](vilāsa) [distinguished](sambhinnāṃ) [new](nava) [youth](yauvana) [beautiful](sundarīm)
 
 ## mukta-m0-p344-v8580
-[the-three-worlds](trailokyaṃ) [one-should-agitate](kṣobhayet) [quickly](āśu) [as-before](pūrvavat) [attaining-siddhis](siddhibhāg) [he-becomes](asau)
+[three-worlds](trailokyaṃ) [one-should-agitate](kṣobhayet) [quickly](āśu) [as-before](pūrvavat) [attainment](siddhi) [sharer](bhāg) [he](asau)
 
 ## mukta-m0-p344-v8581
-[like-fresh](nava) [jasmine](kunda) [and-moon](indu) [resembling](saṃkāśāṃ) [shining](rājan) [with-pearl](mauktika) [ornaments](bhūṣaṇām)
+[new](nava) [jasmine](kunda) [moon](indu) [resembling](saṃkāśāṃ) [shining](rājan) [pearl](mauktika) [adorned](bhūṣaṇām)
 
 ## mukta-m0-p344-v8582
-[who](yaḥ) [should-recite](japet) [mostly](prāyaḥ) [of-this](etasya) [poetry](kavitā) [on-earth](bhuvi) [esteemed](sammatā)
+[who](yaḥ) [should-recite](japet) [mostly](prāyaḥ) [of-him](etasya) [poetry](kavitā) [on-earth](bhuvi) [esteemed](sammatā)
 
 ## mukta-m0-p344-v8583
-[then](tātaḥ) [oṃ śrīṃ hrīṃ shrauṃ huṃ phaṭ nīlasarasvatyai svāhā | iti caturdaśākṣaro mantraḥ ||]( [oṃ śrīṃ hrīṃ shrauṃ huṃ phaṭ nīlasarasvatyai svāhā | iti caturdaśākṣaro mantraḥ || ]) [Lakṣmī](lakṣmīḥ) [and](ca) [Hṛllekhā](hṛllekhā) [with-Hasau](hasau) [joined-with-Oṃkāra](oṃṅkāra+saṃyutau)
+[then](tātaḥ) [oṃ śrīṃ hrīṃ shrauṃ huṃ phaṭ nīlasarasvatyai svāhā | iti caturdaśākṣaro mantraḥ ||]( [oṃ śrīṃ hrīṃ shrauṃ huṃ phaṭ nīlasarasvatyai svāhā | iti caturdaśākṣaro mantraḥ || ]) [Lakṣmī](lakṣmīḥ) [and](ca) [Hṛllekhā](hṛllekhā) [with-hasa](hasau) [with-oṃkāra](oṃṅkāra) [joined](saṃyutau)
 
 ## mukta-m0-p344-v8584
-[seers-and-so-forth](ṛṣi+ādyāḥ) [Brahmā-and-Gāyatrī](brahma+gāyatryau) [and-likewise](tathā) [Nīlasarasvatī](nīlasarasvatī)
+[seers-etc.](ṛṣi) [beginning-with](ādyāḥ) [Brahmā](brahma) [Gāyatrī](gāyatryau) [and-also](tathā) [Nīlasarasvatī](nīlasarasvatī)
 
 ## mukta-m0-p344-v8585
-[by-those-arisen-from-mantra](mantra+utthitaiḥ) [then](athaḥ) [one-should-meditate](dhyāyet) [on-the-goddess](devīṃ) [giver-of-all-desired-siddhis](sarva+iṣṭa+siddhi+dām)
+[from-mantra](mantra) [arisen](utthitaiḥ) [then](atha) [one-should-meditate](dhyāyet) [on-goddess](devīṃ) [all](sarva) [desired](iṣṭa) [attainment](siddhi) [giving](dām)
 
 ## mukta-m0-p344-v8586
-[crushing](pothayantīṃ) [under-the-foot](pāda+tale) [the-victim](paśuṃ) [bearing-a-crescent-moon](candra+kalā+dharām)
+[crushing](pothayantīṃ) [at-foot](pāda) [sole](tale) [victim](paśuṃ) [moon](candra) [digit](kalā) [bearing](dharām)
 
 ## mukta-m0-p344-v8587
-[especially](viśeṣāt) [victory-giving](jaya+dā) [in-debate](vāde) [this-knowledge](vidyā+iyam) [accomplished](sādhitā) [by-men](nṛbhiḥ)
+[especially](viśeṣāt) [victory](jaya) [giving](dā) [in-debate](vāde) [this-knowledge](vidyā) [accomplished](sādhitā) [by-men](nṛbhiḥ)
 
 ## mukta-m0-p344-v8588
-[O-revered](śrīmat) [Ekajaṭā](ekajaṭe) [Nīlasarasvatī](nīla+sarasvati) [the-word](padaṃ) [one-should-say](vadet)
+[glorious](śrīmat) [Ekajaṭā](ekajaṭe) [Nīlasarasvatī](nīlasarasvati) [word](padaṃ) [one-should-say](vadet)
 
 ## mukta-m0-p344-v8589
-[ghosts](bhūta) [piśācas](piśāca) [and-rākṣasas](rākṣasān) [devour](grasa) [twice](yugmaṃ) [mine](mama) [thus](iti) [and](ca)
+[ghost](bhūta) [piśāca](piśāca) [rākṣasa](rākṣasān) [devour](grasa) [pair](yugmaṃ) [mine](mama) [thus](iti) [and](ca)
 
 ## mukta-m0-p344-v8590
-[of-fifty-two](dvi+pañcāśat) [syllables](lipiḥ) [and](ca) [this](ayam) [with-meditation](dhyāna) [worship](pūjā) [and-so-forth](ādi) [as-before](pūrva+vat)
+[fifty-two](dvipaṃcāśat) [syllables](lipiḥ) [and](ca) [this](ayam) [meditation](dhyāna) [worship](pūjā) [etc.](ādi) [as-before](pūrvavat)
 
 ## mukta-m0-p344-v8591
-[hrīṃ-śrīṃ-huṃ](hrīṃ+śrīṃ+hum) [thus](iti) [with-seer-and-so-forth](muni+ādyam) [as](yathā) [Tripurabhairavī](tripurabhairavī) [tripurabhairavīmantrasye tyarthaḥ ||]( [tripurabhairavīmantrasye tyarthaḥ || ])
+[hrīṃ-śrīṃ-huṃ](hrīṃśrīṃhum) [thus](iti) [seers-etc.](muni) [beginning-with](ādyaṃ) [as](yathā) [Tripurabhairavī](tripurabhairavī) [tripurabhairavīmantrasye tyarthaḥ ||]( [tripurabhairavīmantrasye tyarthaḥ || ])
 
 ## mukta-m0-p344-v8592
-[trīṃ-huṃ-phaṭ](trīṃ+huṃ+phaṭ) [and](ca) [of-nine-syllables](nava+arṇaḥ) [this](ayam) [with-meditation](dhyāna) [worship](pūjā) [and-so-forth](ādi) [as-before](pūrva+vat)
+[trīṃ-huṃ-phaṭ](trīṃhuṃphaṭ) [and](ca) [nine](nava) [syllabled](arṇaḥ) [this](ayam) [meditation](dhyāna) [worship](pūjā) [etc.](ādi) [as-before](pūrvavat)
 
 ## mukta-m0-p344-v8593
-[the-letters-ha-sa-kha-pha-ra](ha+sa+kha+pha+ra+varṇāḥ) [and](ca) [haṃsphreṃ hsrauṃ hauṃsphrauṃ aiṃ hrīṃ śrīṃ drāṃ hrīṃ klīṃ blūṃ saḥ ghīṃ ghaṭasarasvati ghaṭe vadavada tura tura rudrājñayā mamābhilāṣaṃ kuru kuru svāhā ayaṃ vahnivedārṇaḥ ||]( [haṃsphreṃ hsrauṃ hauṃsphrauṃ aiṃ hrīṃ śrīṃ drāṃ hrīṃ klīṃ blūṃ saḥ ghīṃ ghaṭasarasvati ghaṭe vadavada tura tura rudrājñayā mamābhilāṣaṃ kuru kuru svāhā ayaṃ vahnivedārṇaḥ || ]) [with-aiṃkāra](aiṃkāreṇa) [joined](samanvitāḥ)
+[ha-sa-kha-pha-ra](hasakhaphara) [letters](varṇāḥ) [and](ca) [haṃsphreṃ hsrauṃ hauṃsphrauṃ aiṃ hrīṃ śrīṃ drāṃ hrīṃ klīṃ blūṃ saḥ ghīṃ ghaṭasarasvati ghaṭe vadavada tura tura rudrājñayā mamābhilāṣaṃ kuru kuru svāhā ayaṃ vahnivedārṇaḥ ||]( [haṃsphreṃ hsrauṃ hauṃsphrauṃ aiṃ hrīṃ śrīṃ drāṃ hrīṃ klīṃ blūṃ saḥ ghīṃ ghaṭasarasvati ghaṭe vadavada tura tura rudrājñayā mamābhilāṣaṃ kuru kuru svāhā ayaṃ vahnivedārṇaḥ || ]) [with-aiṃ](aiṃkāreṇa) [joined](samanvitāḥ)
 
 ## mukta-m0-p344-v8594
-[ending-in-visarga](visarga+antāḥ) [the-second](dvitīyam) [should-be](syāt) [ha-and-sa](ha+sau) [pha](phaḥ) [and](ca) [ra](raphaḥ) [indeed](eva)
+[visarga](visarga) [ending](antāḥ) [second](dvitīyaṃ) [should-be](syāt) [ha-sa](hasau) [pha](phaḥ) [ra-pha](raphaḥ) [indeed](eva) [and](ca)
 
 ## mukta-m0-p344-v8595
-[speech](vācam) [illusion](māyāṃ) [fortune](ramāṃ) [drāṃ](drāṃ) [hrīṃ](hrīṃ) [desire](kāmaṃ) [blūṃ](blūṃ) [saṃ](saṃ) [likewise](tathā) [and](eva) [also](ca)
+[speech](vācaṃ) [illusion](māyāṃ) [fortune](ramāṃ) [drāṃ](drāṃ) [hrīṃ](hrīṃ) [desire](kāmaṃ) [blūṃ](blūṃ) [saḥ](saṃ) [likewise](tathaiva) [and](ca)
 
 ## mukta-m0-p344-v8596
-[in-the-pot](ghaṭe) [the-pair-vada](vada+dvayam) [afterwards](paścāt) [the-pair-tvara](tvara+yugmaṃ) [one-should-say](vadet) [then](tataḥ)
+[in-pot](ghaṭe) [speak](vada) [pair](dvayam) [afterwards](paścāt) [hasten](tvara) [pair](yugmaṃ) [one-should-say](vadet) [then](tataḥ)
 
 ## mukta-m0-p344-v8597
-[ending-with-svāhā](svāhā+antaḥ) [of-fire-numbered-syllables](agni+kṛta+arṇaḥ) [this](ayam) [as-before](prāk+vat) [worship-and-so-forth](pūjā+ādikam) [should-be](bhavet)
+[svāhā](svāhā) [ending](antaḥ) [fire](agni) [made](kṛta) [syllabled](arṇaḥ) [this](ayam) [as-before](prākvat) [worship](pūjā) [etc.](ādikaṃ) [should-be](bhavet)
 
 ## mukta-m0-p344-v8598
-[by-the-left-hand-practice](vāma+ācāreṇa) [fruit-giving](phala+dām) [the-speech-seed](vāk+bījam) [haiṃ](haiṃ) [one-should-utter](samuccaret)
+[by-left-hand-practice](vāmācāreṇa) [fruit](phala) [giving](dāṃ) [speech](vāk) [seed](bījaṃ) [haiṃ](haiṃ) [one-should-utter](samuccaret)
 
 ## mukta-m0-p344-v8599
-[as-in-the-Cāmuṇḍā-mantra](cāmuṇḍā+mantra+vat) [all](sarvam) [recitation](japa) [installation](nyāsa) [and-so-forth](ādikam) [should-be](bhavet)
+[like-Cāmuṇḍā](cāmuṇḍā) [mantra](mantra) [as](vat) [all](sarvaṃ) [recitation](japa) [installation](nyāsa) [etc.](ādikaṃ) [should-be](bhavet)
 
 ## mukta-m0-p344-v8600
-[speech](vācam) [illusion](māyām) [space](antarikṣa) [Sarasvatī](sarasvatī) [fire](agni) [consort](gehinī)
+[speech](vācaṃ) [illusion](māyām) [space](antarikṣa) [Sarasvatī](sarasvatī) [fire](agni) [wife](gehinī)
