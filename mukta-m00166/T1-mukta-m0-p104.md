@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p104-v2576
-[so](tathā) [so](tathā) [gives](dadāti) [this](iyaṃ) [fruit](phalaṃ) [service-loving](sevā+priyā) [auspicious-one](śivā)
+[thus](tathā) [thus](tathā) [gives+this](dadātīyaṃ) [fruit](phalaṃ) [service+dear](sevāpriyā) [auspicious](śivā)
 
 ## mukta-m0-p104-v2577
-[to-be-served](sevyā)
+[worshipful](sevyā)
 
 ## mukta-m0-p104-v2578
-[she](sā) [to-be-served](sevyā) [with-whole-being](sarva+bhāvena) [how](kathaṃ) [not](na) [indeed](iva) [here](iha) [anyone](kācana)
+[she](sā) [worshipful](sevyā) [with+all+bhāva](sarvabhāvena) [how](kathaṃ) [not+indeed+here](naiveha) [anyone](kācana)
 
 ## mukta-m0-p104-v2579
-[service-fruit-increasing](sevā+phala+vivardhinī)
+[service+fruit+increasing](sevāphalavivardhinī)
 
 ## mukta-m0-p104-v2580
-[they-serve](sevante) [her-foot-lotus](tat+pada+ambhojaṃ) [how](kathaṃ) [not](na) [indeed](eva) [best-of-men](nara+uttamāḥ)
+[they+worship](sevante) [that+foot+lotus](tatpadāmbhojaṃ) [how](kathaṃ) [not+indeed](naiva) [best+of+men](narottamāḥ)
 
 ## mukta-m0-p104-v2581
-[in-kali-age](kalau) [dear-to-kalki](kalki+priyā) [Kālī](kālī)
+[in+kali](kalau) [kalki+dear](kalkipriyā) [kālī](kālī)
 
 ## mukta-m0-p104-v2582
-[in-kali-age](kalau) [dear-to-kalki](kalki+priyā) [Kālī](kālī) [therefore](tena) [not](na) [is-worshipped](ārādhyate) [when](yadā)
+[in+kali](kalau) [kalki+dear](kalkipriyā) [kālī](kālī) [therefore](tena) [not+worshipped](nārādhyate) [when](yadā)
 
 ## mukta-m0-p104-v2583
-[wicked-barbarian-destroying](duṣṭa+mleccha+vināśinī)
+[page+297](p.) [wicked+mleccha+destroying](duṣṭamlecchavināśinī)
 
 ## mukta-m0-p104-v2584
-[again](punaḥ) [in-Kālī-form](kālī+svarūpeṇa) [wicked-barbarian-destroying](duṣṭa+mleccha+vināśinī)
+[again](punaḥ) [kālī+form](kālīsvarūpeṇa) [wicked+mleccha+destroying](duṣṭamlecchavināśinī)
 
 ## mukta-m0-p104-v2585
-[bowstring](pratyañcā)
+[contrary](pratyañcā)
 
 ## mukta-m0-p104-v2586
-[target-attainment](lakṣya+prāptiṃ) [makes](karoti) [indeed](eva) [bowstring](pratyañcā) [satisfied](paritoṣitā)
+[aim+attainment](lakṣyaprāptiṃ) [does+indeed](karotyeva) [contrary](pratyañcā) [pleased](paritoṣitā)
 
 ## mukta-m0-p104-v2587
-[bow-staff](dhanus+yaṣṭiḥ)
+[bow+stick](dhanuryaṣṭiḥ)
 
 ## mukta-m0-p104-v2588
-[those](te) [those](te) [heroes](śūrā) [enemies](ripūn) [having-killed](hatvā) [by-which](yayā) [earth-rulers](bhūmi+bhujaḥ) [became](abhavan)
+[those](te) [those](te) [heroes](śūrā) [enemies](ripūn) [having+slain](hatvā) [by+whom](yayā) [earth+lords+became](bhūmibhujo'bhavan)
 
 ## mukta-m0-p104-v2589
-[sword-edge](khaḍga+dhārā)
+[sword+edge](khaḍgadhārā)
 
 ## mukta-m0-p104-v2590
-[gives](dadāti) [she](sā) [indeed](eva) [of-all](sarveṣāṃ) [sword-edge-benefit-doer](khaḍga+dhārā+upakāra+kṛt)
+[gives](dadāti) [she+indeed](saiva) [of+all](sarveṣāṃ) [sword+edge+benefit+doing](khaḍgadhāropakārakṛt)
 
 ## mukta-m0-p104-v2591
-[difficult-to-bow-to](dur+ānatiḥ)
+[difficult+bowing](durānatiḥ)
 
 ## mukta-m0-p104-v2592
-[difficult-to-bow](dur+ānamā) [they-bow](namanti) [to-him](enam) [and](ca) [venerable](namasyāḥ) [best-of-gods](sura+uttamāḥ)
+[difficult+bowing](durānamā) [they+bow+to+him](namantyenaṃ) [worshipful+and](namasyāśca) [best+of+gods](surottamāḥ)
 
 ## mukta-m0-p104-v2593
-[horse-leap](aśva+plutiḥ)
+[horse+leap](aśvaplutiḥ)
 
 ## mukta-m0-p104-v2594
-[amazes](camatkaroti) [she](sā) [may-be](bhūyāt) [horse-leap](aśva+plutiḥ) [sufficient](alaṃ) [for-prosperity](śriye)
+[astonishes](camatkaroti) [she](sā) [may+be](bhūyādaśvaplutiralaṃ) [glory](śriye)
 
 ## mukta-m0-p104-v2595
-[rein](valgā)
+[gallop](valgā)
 
 ## mukta-m0-p104-v2596
-[are-impelled](preryante) [in-circle](maṇḍale) [in-motion](yāne) [in-leap](plutau) [rein](valgā) [thus](iti) [she](sā) [considered](matā)
+[are+driven](preryante) [in+circle](maṇḍale) [in+going](yāne) [in+leap](plutau) [gallops+thus](valgeti) [she+is+considered](sā+matā)
 
 ## mukta-m0-p104-v2597
-[goad](sṛṇiḥ)
+[page+298](p.) [goad](sṛṇiḥ)
 
 ## mukta-m0-p104-v2598
-[leads](nayati) [by-touch](sparśataḥ) [she](sā) [this](eṣā) [goad](sṛṇiḥ) [may-be](astu) [compassion-removing](ghṛṇā+apahā)
+[leads](nayati) [by+touch](sparśataḥ) [she+this](saiṣā) [goad](sṛṇirastu) [cruelty+removing](ghṛṇāpahā)
 
 ## mukta-m0-p104-v2599
-[raging-elephant-restraining](sanmatta+vāraṇā)
+[good+intoxicated+elephant](sanmattavāraṇā)
 
 ## mukta-m0-p104-v2600
-[that](sā) [army](senā) [not](na) [how](kathaṃ) [immediately](sadyaḥ) [should-shine](roceta) [enemy-restraining](ripu+vāraṇā)
+[she](sā) [army](senā) [not](na) [how](kathaṃ) [suddenly](sadyo) [pleases](roceta) [enemy+elephant](ripuvāraṇā)

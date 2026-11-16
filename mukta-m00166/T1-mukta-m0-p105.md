@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p105-v2601
-[hero](vīra) [+land](bhūḥ)
+[vīrabhūḥ](vīrabhūḥ)
 
 ## mukta-m0-p105-v2602
-[of-rest](viśrānteḥ) [supreme](paramā) [ground](bhūmiḥ) [+hero-land](vīrabhūḥ) [+on-earth](bhuvi) [honored](pūjitā)
+[viśrānteḥ](viśrānteḥ) [paramā](paramā) [bhūmiḥ](bhūmiḥ) [vīra+bhūḥ](vīrabhūḥ) [bhuvi](bhuvi) [pūjitā](pūjitā)
 
 ## mukta-m0-p105-v2603
-[hero](vīra) [+mother](mātā)
+[vīra+mātā](vīramātā)
 
 ## mukta-m0-p105-v2604
-[heroes](vīrān) [who](yā) [protects](pāti) [unfallen](niṣpātān) [+without-cause](nirhetu) [+love](prema) [+filled](nirbhṛtā)
+[vīrān](vīrān) [yā](yā) [pāti](pāti) [niṣpātān](niṣpātān) [nir+hetu+prema+nir+bhṛtā](nirhetupremanirbhṛtā)
 
 ## mukta-m0-p105-v2605
-[hero](vīra) [+mother](sūḥ)
+[vīra+sūḥ](vīrasūḥ)
 
 ## mukta-m0-p105-v2606
-[heroes](vīrān) [bears](sūte) [of-people](janānāṃ) [she](sā) [+hero-mother](vīrasūḥ) [some](kāpi) [is-sung](gīyate)
+[vīrān](vīrān) [sūte](sūte) [janānāṃ](janānāṃ) [sā](sā) [vīra+sūḥ](vīrasūḥ) [kāpi](kāpi) [gīyate](gīyate)
 
 ## mukta-m0-p105-v2607
-[hero](vīra) [+delighter](nandinī)
+[vīra+nandinī](vīranandinī)
 
 ## mukta-m0-p105-v2608
-[whose](yad) [+devotees](bhaktāḥ) [+abandoned](tyakta) [+mortality](pañcatva) [+fear](bhayāḥ) [she](sā) [+hero-delighter](vīranandinī)
+[yat+bhaktāḥ](yadbhaktāḥ) [tyakta+pañcatva+bhayāḥ](tyaktapañcatvabhayāḥ) [sā](sā) [vīra+nandinī](vīranandinī)
 
 ## mukta-m0-p105-v2609
-[victory](jaya) [+glory](śrīḥ)
+[jaya+śrīḥ](jayaśrīḥ)
 
 ## mukta-m0-p105-v2610
-[victory-glory](jayaśrīḥ) [she-alone](saiva) [for-us](naḥ) [may-be](bhūyāt) [in-presence](saṃnidhau) [everywhere](sarvataḥ) [always](sadā)
+[jaya+śrīḥ](jayaśrīḥ) [sā+eva](saiva) [naḥ](no) [bhūyāt](bhūyāt) [saṃnidhau](saṃnidhau) [sarvataḥ](sarvataḥ) [sadā](sadā)
 
 ## mukta-m0-p105-v2611
-[victory](jaya) [+initiation](dīkṣā)
+[jaya+dīkṣā](jayadīkṣā)
 
 ## mukta-m0-p105-v2612
-[by-whom](yad) [+initiated](dīkṣitāḥ) [people](janāḥ) [shine](bhānti) [+victory-initiation](jayadīkṣā) [+thus](iti) [she](sā) [auspicious-one](śivā)
+[yat+dīkṣitāḥ](yaddīkṣitāḥ) [janāḥ](janāḥ) [bhānti](bhānti) [jaya+dīkṣā](jayadīkṣā) [iti](iti) [sā](sā) [śivā](śivā)
 
 ## mukta-m0-p105-v2613
-[victory](jaya) [+giver](dā)
+[jaya+dā](jayadā)
 
 ## mukta-m0-p105-v2614
-[so-that](yathā) [+Dhanañjaya-hood](dhanaṃjayatvaṃ) [for-us](naḥ) [may-appear](āvirbhūyāt) [+unartificial](akṛtrimam)
+[yathā](yathā) [dhanaṃjaya+tvaṃ](dhanaṃjayatvaṃ) [na](na) [āvir+bhūyāt](āvirbhūyāt) [akṛtrimam](akṛtrimam)
 
 ## mukta-m0-p105-v2615
-[victory](jaya) [+increaser](vardhinī)
+[jaya+vardhinī](jayavardhinī)
 
 ## mukta-m0-p105-v2616
-[if](yadi) [may-be](syāt) [always](sarvadā) [truly](satyaṃ) [companion](sahāyā) [+victory-increaser](jayavardhinī)
+[yadi](yadi) [syāt](syāt) [sarvadā](sarvadā) [satyaṃ](satyaṃ) [sahāyā](sahāyā) [jaya+vardhinī](jayavardhinī)
 
 ## mukta-m0-p105-v2617
-[good-fortune](saubhāgya) [+auspicious](subhaga) [+form](ākārā)
+[saubhāgya+subhaga+ākārā](saubhāgyasubhagākārā)
 
 ## mukta-m0-p105-v2618
-[in-the-syllable-ka](kāre) [+within](vā) [+entered](antargataṃ) [mind](cittaṃ) [motionless](niścalaṃ) [makes](vidadhāti) [who](yā)
+[kāreva+antargataṃ](kārevāntargataṃ) [cittaṃ](cittaṃ) [niścalaṃ](niścalaṃ) [vidadhāti](vidadhāti) [yā](yā)
 
 ## mukta-m0-p105-v2619
-[all](sarva) [+good-fortune](saubhāgya) [+increaser](vardhinī)
+[sarva+saubhāgya+vardhinī](sarvasaubhāgyavardhinī)
 
 ## mukta-m0-p105-v2620
-[companion](sahāyā) [always](sarvadā) [may-she-be](sāstu) [+all-good-fortune-increaser](sarvasaubhāgyavardhinī)
+[sahāyā](sahāyā) [sarvadā](sarvadā) [sā+astu](sāstu) [sarva+saubhāgya+vardhinī](sarvasaubhāgyavardhinī)
 
 ## mukta-m0-p105-v2621
-[welfare](kṣemaṅ) [+maker](karī)
+[kṣemaṃ+karī](kṣemaṅkarī)
 
 ## mukta-m0-p105-v2622
-[today](adya) [+I-am](asmi) [+happiness-partaker](sukhabhāk) [immediately](sadyaḥ) [seen](dṛṣṭā) [+welfare-maker](kṣemaṅkarī) [when](yadā)
+[adya+asmi](adyāsmi) [sukha+bhāk](sukhabhāk) [sadyaḥ](sadyo) [dṛṣṭā](dṛṣṭā) [kṣemaṃ+karī](kṣemaṅkarī) [yadā](yadā)
 
 ## mukta-m0-p105-v2623
-[accomplishment](siddhi) [+form](rūpā)
+[siddhi+rūpā](siddhirūpā)
 
 ## mukta-m0-p105-v2624
-[otherwise](anyathā) [+all-accomplishments](akhilasiddhī) [+lord](īśaḥ) [how](kathaṃ) [may-I-be](syāṃ) [+by-self-accomplishment](svātmasiddhitaḥ)
+[anyathā](anyathā) [akhila+siddhi+īśaḥ](akhilasiddhīśaḥ) [kathaṃ](kathaṃ) [syāṃ](syāṃ) [sva+ātma+siddhitaḥ](svātmasiddhitaḥ)
 
 ## mukta-m0-p105-v2625
-[true](sat) [+fame](kīrtiḥ)
+[sat+kīrtiḥ](satkīrtiḥ)

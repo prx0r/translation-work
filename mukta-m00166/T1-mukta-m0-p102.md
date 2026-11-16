@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p102-v2526
-for-a-moment(kṣaṇam) may-be(bhavet) how(katham) not(na) indeed(eva) he(saḥ) of-teachers(gurūṇām) teacher(guruḥ) for-long(ciram)
+[kṣaṇaṃ](kṣaṇaṃ) [bhavet](bhavet) [kathaṃ](kathaṃ) [naiva](naiva) [sa](sa) [gurūṇāṃ](gurūṇāṃ) [guruḥ](guruḥ) [ciram](ciram)
 
 ## mukta-m0-p102-v2527
-p.-293(p.) 293(293)) stationary(sthāvarā)
+[sthāvarā](sthāvarā)
 
 ## mukta-m0-p102-v2528
-even(api) she(sā) stationary(sthāvarā) having-become(bhūtā) may-make(kriyāt) our(naḥ) stationary(sthāvaram) mind(manaḥ)
+[api](api) [sā](sā) [sthāvarā](sthāvarā) [bhūtā](bhūtā) [kriyā](kriyā) [naḥ](naḥ) [sthāvaraṃ](sthāvaraṃ) [manaḥ](manaḥ)
 
 ## mukta-m0-p102-v2529
-moving(jaṅgamā)
+[jaṅgamā](jaṅgamā)
 
 ## mukta-m0-p102-v2530
-great(mahat) wonder(citram) than-you(tvat)+other(anyat) what(kim) by-whose-meditation(yat+dhyānāt) you-are(asi) moving(jaṅgamā)
+[mahat](mahat) [citraṃ](citraṃ) [tvad](tvad) [anyat](anyat) [kiṃ](kiṃ) [yat](yat) [dhyānāt](dhyānāt) [asi](asi) [jaṅgamā](jaṅgamā)
 
 ## mukta-m0-p102-v2531
-goddess(devī)
+[devī](devī)
 
 ## mukta-m0-p102-v2532
-in-going(gatau) even(api) supreme(parā) goddess(devī) alone-only(kevalā+eva) shines-forth(virājate)
+[gatāv](gatāv) [api](api) [parā](parā) [devī](devī) [kevalā](kevalā) [eva](eva) [virājate](virājate)
 
 ## mukta-m0-p102-v2533
-done(kṛta)+action(karma)+fruit(phala)+giver(pradā)
+[kṛta](kṛta) [karma](karma) [phala](phala) [pradā](pradā)
 
 ## mukta-m0-p102-v2534
-wonder(citram) of-the-actionless(niṣkarmiṇām) that(yat) and(ca) done(kṛta)+action(karma)+fruit(phala)+giver(pradā)
+[citraṃ](citraṃ) [niṣkarmiṇāṃ](niṣkarmiṇāṃ) [yat](yat) [ca](ca) [kṛta](kṛta) [karma](karma) [phala](phala) [pradā](pradā)
 
 ## mukta-m0-p102-v2535
-objects(viṣaya)+overcome(ākrānta)+body(dehā)
+[viṣaya](viṣaya) [ākrānta](ākrānta) [dehā](dehā)
 
 ## mukta-m0-p102-v2536
-Hara(haram) skull-bearer(kapālinam) and(ca) one(ekam) mountain-lord(girīśam) how(katham) may-I-resort-to(āśrayeḥ)
+[haraṃ](haraṃ) [kapālinaṃ](kapālinaṃ) [ca](ca) [ekaṃ](ekaṃ) [girīsaṃ](girīsaṃ) [kathaṃ](kathaṃ) [āśrayeḥ](āśrayeḥ)
 
 ## mukta-m0-p102-v2537
-without-distinction(nirviśeṣā)
+[nirviśeṣā](nirviśeṣā)
 
 ## mukta-m0-p102-v2538
-without-distinction(nirviśeṣā) auspicious(śivā) all(sarva)+distinctions(viśeṣā) triumphs(jayati) by-herself(svataḥ)
+[nirviśeṣā](nirviśeṣā) [śivā](śivā) [sarva](sarva) [viśeṣā](viśeṣā) [jayati](jayati) [svataḥ](svataḥ)
 
 ## mukta-m0-p102-v2539
-senses-conquered(jita+indriyā)
+[jitendriyā](jitendriyā)
 
 ## mukta-m0-p102-v2540
-for-austerity(tapase) supreme-lord(parama+īśāna)+fruit(phala)+for(āya) therefore(atas) senses-conquered(jita+indriyā)
+[tapase](tapase) [parameśāna](parameśāna) [phalāya](phalāya) [āto](āto) [jitendriyā](jitendriyā)
 
 ## mukta-m0-p102-v2541
-p.-294(p.) 294(294)) all-formed(viśva+rūpā)
+[viśvarūpā](viśvarūpā)
 
 ## mukta-m0-p102-v2542
-all-formed(viśva+rūpā) supreme(parā) some(kācit) consciousness(cit)+formed(svarūpā) triumphs(jayati) she(asau)
+[viśvarūpā](viśvarūpā) [parā](parā) [kācit](kācit) [cit](cit) [svarūpā](svarūpā) [jayati](jayati) [asau](asau)
 
 ## mukta-m0-p102-v2543
-consciousness(cit)+bliss(ānandā)
+[cidānandā](cidānandā)
 
 ## mukta-m0-p102-v2544
-Indra's-wife(purandara+indirā) even(api) of-him(asya) barren(vandhyā) indeed(eva) in-heart(sva+anta)+caressing(lālane)
+[purandara](purandara) [indirā](indirā) [api](api) [asya](asya) [vandhyā](vandhyā) [eva](eva) [svānta](svānta) [lālane](lālane)
 
 ## mukta-m0-p102-v2545
-supreme(parabrahma)+awakener(prabodhinī)
+[parabrahma](parabrahma) [prabodhinī](prabodhinī)
 
 ## mukta-m0-p102-v2546
-obstructing(rodhinī) of-all-desires(sarva+kāmānām) supreme(parabrahma)+awakener(prabodhinī)
+[rodhinī](rodhinī) [sarva](sarva) [kāmānāṃ](kāmānāṃ) [parabrahma](parabrahma) [prabodhinī](prabodhinī)
 
 ## mukta-m0-p102-v2547
-unchanging(nirvikārā)
+[nirvikārā](nirvikārā)
 
 ## mukta-m0-p102-v2548
-there(tatra) self(svam) having-placed(viniveśya) one(ekā) unchanging(nirvikārā) indeed(eva) some(kācana)
+[tatra](tatra) [svaṃ](svaṃ) [viniveśya](viniveśya) [ekā](ekā) [nirvikārā](nirvikārā) [eva](eva) [kācana](kācana)
 
 ## mukta-m0-p102-v2549
-without-enmity(nirvairā)
+[nirvairā](nirvairā)
 
 ## mukta-m0-p102-v2550
-even(api) of-husband(patyuḥ) on-head(śiraḥ) by-abiding(sthityā) without-enmity(nirvairā) triumphs(jayati) goddess(īśvarī)
+[api](api) [patyuḥ](patyuḥ) [śiraḥ](śiraḥ) [sthityā](sthityā) [nirvairā](nirvairā) [jayati](jayati) [īśvarī](īśvarī)

@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p09-v201
-[thus-etc.](ityādi) [in-many-ways](bahudhā) [conducts](ācārāḥ) [somewhere](kvacid) [we-speak](brūmaḥ) [of-the-paśu](paśoḥ) [opinion](mataḥ)
+[thus-etc](ityādi) [many-ways](bahudhā) [practices](ācārāḥ) [sometimes](kvacid) [we-say](brūmaḥ) [of-paśu](paśoḥ) [opinion](mataḥ)
 
 ## mukta-m0-p09-v202
-[if](yadi) [in-walking](caṃkramaṇe) [capable](śaktaḥ) [sword-holder](khaṅga+dhāre) [always](sadā) [man](naraḥ)
+[if](yadi) [in-wandering](caṃkramaṇe) [able](śaktaḥ) [sword-edge](khaṅgadhāre) [always](sadā) [man](naraḥ)
 
 ## mukta-m0-p09-v203
-[in-Jambūdvīpa](jambūdvīpe) [in-Kali-age](kalau) [O-goddess](devi) [brāhmaṇa](brāhmaṇaḥ) [indeed](hi) [ever](kadācana)
+[in-jambūdvīpa](jambūdvīpe) [kalua](kalua) [goddess](devi) [brāhmaṇa](brāhmaṇo) [indeed](hi) [sometimes](kadācana)
 
 ## mukta-m0-p09-v204
-[in-Satya-age](satye) [one-should-proceed](kramet) [with-four-aims](catur+vargaiḥ) [with-milk-ghee-honey-cakes](kṣīra+ājya+madhu+piṣṭakaiḥ)
+[in-satya](satye) [in-order](krame) [with-four-aims](caturvargaiḥ) [with-milk-ghee-honey-cakes](kṣīrājyamadhupiṣṭakaiḥ)
 
 ## mukta-m0-p09-v205
-[with-honeys](madhubhiḥ) [by-all-classes](sarva+varṇaiḥ) [and](ca) [worshipped](pūjitā) [in-Dvāpara-age](dvāpare) [age](yuge)
+[with-honeys](madhubhiḥ) [with-all-varṇas](sarvavarṇaiśca) [worshipped](pūjitā) [in-dvāpara](dvāpare) [age](yuge)
 
 ## mukta-m0-p09-v206
-[not](na) [substitute](anukalpaḥ) [in-Kali-age](kalau) [O-Durgā](durge) [not](na) [substitute](anukalpaḥ) [in-Kali-age](kalau) [age](yuge)
+[not-analogous](nānukalpaḥ) [in-kali](kalau) [in-durga](durge) [not-analogous](nānukalpaḥ) [in-kali](kalau) [age](yuge)
 
 ## mukta-m0-p09-v207
-[no](na) [doubt](sandehaḥ) [no](na) [doubt](sandehaḥ) [no](na) [doubt](sandehaḥ) [in-Kali-age](kalau) [age](yuge)
+[no-doubt](na+sandeho) [no-doubt](na+sandeho) [no-doubt](na+sandehaḥ) [in-kali](kalau) [age](yuge)
 
 ## mukta-m0-p09-v208
-[of-the-true-guru](sat+guroḥ) [refuge](śaraṇaṃ) [having-taken](nītvā) [Kula-conduct](kula+ācāraṃ) [should-practice](bhajet) [man](naraḥ)
+[of-true-guru](sadguroḥ) [refuge](śaraṇaṃ) [having-taken](nītvā) [kula-practice](kulācāraṃ) [should-worship](bhajet) [man](naraḥ)
 
 ## mukta-m0-p09-v209
-[unachievable](asādhyaṃ) [may-accomplish](sādhayet) [divine-one](divyaḥ) [even](api) [without-effort](an+āyāsena) [what](yad) [on-earth](bhuvi)
+[impossible](asādhyaṃ) [makes-possible](sādhayed) [divine](divyo) [even](api) [without-effort](anāyāsena) [on-earth](yad+bhuvi)
 
 ## mukta-m0-p09-v210
-[paśu](paśuḥ) [by-hundreds-of-kalpas](kalpa+śataiḥ) [even](vā+api) [to-accomplish](sādhituṃ) [not](na) [and](ca) [that-capable](tat+kṣamaḥ)
+[paśu](paśuḥ) [even-with-hundreds-of-kalpas](kalpaśatairvāpi) [to-accomplish](sādhituṃ) [not](na) [able](ca+tatkṣamaḥ)
 
 ## mukta-m0-p09-v211
-[to-be-concealed](gopanīyaṃ) [to-be-concealed](gopanīyaṃ) [to-be-concealed](gopanīyaṃ) [always](sadā) [O-sinless-one](anaghe)
+[to-be-concealed](gopanīyaṃ) [to-be-concealed](gopanīyaṃ) [to-be-concealed](gopanīyaṃ) [always](sadā) [sinless-one](anaghe)
 
 ## mukta-m0-p09-v212
-[thus](iti) [in-the-Śrī-Kāmākhyā-Tantra](śrī+kāmākhyā+tantre) [in-the-dialogue-of-Devī-and-Īśvara](devī+īśvara+saṃvāde) [fourth](caturthaḥ) [chapter](paṭalaḥ)
+[thus](iti) [śrī-kāmākhyā-tantra](śrīkāmākhyātantre) [goddess-lord-dialogue](devīśvarasaṃvāde) [fourth](caturthaḥ) [chapter](paṭalaḥ)
 
 ## mukta-m0-p09-v213
-[not](na) [having-performed](kṛtvā) [with-the-five-elements](pañca+tattvaiḥ) [and](ca) [worship](pūjanaṃ) [O-Supreme-Lord](parama+īśvara)
+[not](na) [having-done](kṛtvā) [with-five-tattvas](pañcatattvaiśca) [worship](pūjanaṃ) [supreme-lord](parameśvara)
 
 ## mukta-m0-p09-v214
-[of-those-devoid-of-five-elements](pañca+tattva+vihīnānāṃ) [censure](nindanaṃ) [O-Supreme-Goddess](parama+īśvari)
+[without-five-tattvas](pañcatattvavihīnānāṃ) [blame](nindanaṃ) [supreme-goddess](parameśvari)
 
 ## mukta-m0-p09-v215
-[wine](madhyaṃ) [without](vinā) [practice](sādhanaṃ) [and](ca) [for-great-ridicule](mahā+hāsyāya) [becomes-fit](kalpate)
+[without-middle](madhyaṃ+vinā) [practice](sādhanaṃ) [ca](ca) [great-laughingstock](mahāhāsyāya) [becomes](kalpate)
 
 ## mukta-m0-p09-v216
-[likewise](tathā) [of-these-two](anayoḥ) [of-practitioners](sādhakānāṃ) [to-be-known](jñeyaṃ) [element](tattvaṃ) [without](vinā) [always](sadā)
+[thus-of-two](tathānayoḥ) [of-practitioners](sādhakānāṃ) [to-be-known](jñeyaṃ) [tattva](tattvaṃ) [without](vinā) [always](sadā)
 
 ## mukta-m0-p09-v217
-[by-lack-of-rain](an+āvṛṣṭyā) [on-earth](kṣitau) [O-goddess](devi) [ploughing](karṣaṇaṃ) [and](ca) [as](yathā) [not](na) [indeed](hi)
+[without-rain](anāvṛṣṭyā) [on-earth](kṣitau) [goddess](devi) [ploughing](karṣaṇaṃ) [ca](ca) [as](yathā) [not](na) [indeed](hi)
 
 ## mukta-m0-p09-v218
-[going](gamanaṃ) [and](ca) [without](vinā) [anywhere](kvāpi) [reaching-village](grāma+prāptiḥ) [as](yathā) [not](na) [and](ca)
+[going](gamanaṃ) [ca](ca) [without](vinā) [anywhere](kvāpi) [village-arrival](grāmaprāptiḥ) [as](yathā) [not](na) [ca](ca)
 
 ## mukta-m0-p09-v219
-[with-the-five-elements](pañca+tattvaiḥ) [best-of-practitioners](sādhaka+indra) [should-worship](arcayet) [according-to-rule](vidhinā) [with-joy](mudā)
+[with-five-tattvas](pañcatattvaiḥ) [practitioner-lords](sādhakendrāḥ) [should-worship](arcayed) [by-rite](vidhinā) [with-joy](mudā)
 
 ## mukta-m0-p09-v220
-[with-women](strībhiḥ) [together](sārddhaṃ) [always](sadā) [good-practitioner](sādhuḥ) [should-worship](arcayet) [Mother-of-the-world](jagat+ambikām)
+[with-women](strībhiḥ) [together](sārddhaṃ) [always](sadā) [sādhu](sādhur) [should-worship](arcayet) [world-mother](jagadambikām)
 
 ## mukta-m0-p09-v221
-[by-body](kāyena) [by-mind](manasā) [by-speech](vācā) [therefore](tasmāt) [devoted-to-the-elements](tattva+paraḥ) [one-should-become](bhavet)
+[by-body](kāyena) [by-mind](manasā) [by-speech](vācā) [therefore](tasmāt) [tattva-devoted](tattvaparo) [become](bhavet)
 
 ## mukta-m0-p09-v222
-[non-brāhmaṇa](a+brāhmaṇaḥ) [he](saḥ) [indeed](eva) [called](uktaḥ) [he](saḥ) [indeed](eva) [elephant-fool](hasti+mūrkhakaḥ)
+[non-brāhmaṇa](abrāhmaṇaḥ) [he](sa) [indeed](eva) [said](uktaḥ) [he](sa) [indeed](eva) [elephant-fool](hastimūrkhakaḥ)
 
 ## mukta-m0-p09-v223
-[therefore](ataḥ) [not](na) [should-satisfy](tarpayet) [he](saḥ) [even](api) [if](yadi) [desires](icchet) [of-oneself](ātmanaḥ) [welfare](hitam)
+[therefore](ato) [not](na) [should-satisfy](tarpayet) [he](so) [api](api) [if](yadi) [would-wish](icched) [of-self](ātmano) [benefit](hitam)
 
 ## mukta-m0-p09-v224
-[śūdra-hood](śūdra+tvaṃ) [in-that-body](tat+śarīre) [indeed](tu) [obtained](prāptaṃ) [by-him](tena) [not](na) [and](ca) [otherwise](anyathā)
+[śūdra-hood](śūdratvaṃ) [that-body](taccharīre) [tu](tu) [obtained](prāptaṃ) [by-him](tena) [not](na) [otherwise](cānyathā)
 
 ## mukta-m0-p09-v225
-[śūdra](śūdraḥ) [indeed](hi) [pig-hood](śūkara+tvaṃ) [and](ca) [goes](yāti) [goes](yāti) [not](na) [doubt](saṃśayaḥ)
+[śūdra](śūdro) [indeed](hi) [pig-hood](śūkaratvaṃ) [ca](ca) [goes](yāti) [goes](yāti) [not](na) [doubt](saṃśayaḥ)

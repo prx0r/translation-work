@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p97-v2401
-[from-fire](agneḥ) [having-drawn-out](uddhṛtya) [at-oblation-end](homa+ante) [one-should-unite](yojayet) [this](imam) [in-stainless-state](amale) [in-state](pade)
+[from-fire](agneruddhṛtya) [at-homa-end](homānte) [join-in-pure](yojayedamale) [place](pade)
 
 ## mukta-m0-p97-v2402
-[having-done](kṛta) [entire](niśeṣa) [remaining-bond](śeṣa+pāśa) [end](antam) [having-worshipped](iṣṭvā) [lord](īśam) [and](ca) [one-should-dismiss](vivarjayet)
+[having-done](kṛtaniśeśeṣapāśāntamiṣṭveśaṃ) [and](ca) [avoid](vivarjayet)
 
 ## mukta-m0-p97-v2403
-[on-altar-ground](sthaṇḍile) [Īśāna](īśānam) [also](api) [thus](evam) [having-withdrawn](saṃhṛtya) [in-own-state](sva+pade) [teacher](guruḥ)
+[on-altar](sthaṇḍileśānamapyevaṃ) [having-gathered](saṃhṛtya) [in-own-place](svapade) [guru](guruḥ)
 
 ## mukta-m0-p97-v2404
-[south-head](yāmya+śīrṣam) [north-foot](udak+pādam) [of-the-liberated](muktānām) [with-ladle-and-spoon](sruk+sruva+anvitam)
+[south-headed](yāmyaśīrṣamudakpādaṃ) [of-liberated-ones](muktānāṃ) [ladle-spoon-equipped](struksruvānvitam)
 
 ## mukta-m0-p97-v2405
-[with-frankincense](turuṣka) [aloeswood](aguru) [camphor](karpūra) [sandalwood](candana) [and-northern-wood](uttara+dārubhiḥ)
+[with-turushka-agarwood-camphor-sandal-northern-wood](turuṣkāgarukarpūracandanottaradārubhiḥ)
 
 ## mukta-m0-p97-v2406
-[honey](madhu) [clarified-butter](satta) [oil](taila) [and-ghee](sarpīṣi) [having-thrown](prakṣipya) [in-blazing-fire](ujjvalite) [in-fire](anale)
+[honey-ghee-oil-ghee](madhusattailasarpīṣi) [having-thrown](prakṣipyojjvalite'nale)
 
 ## mukta-m0-p97-v2407
-[teacher](guruḥ) [having-stood](sthitvā) [at-head-region](śiraḥ+deśe) [north-direction](saumya+āśā) [facing-face](abhimukha+ānanaḥ)
+[guru](guruḥ) [standing](sthitvā) [head-place](śirodeśe) [moonward-facing](saumyāśābhimukhānanaḥ)
 
 ## mukta-m0-p97-v2408
-[you](tvam) [O-fire](agne) [southern](dakṣiṇaḥ) [time](kālaḥ) [by-time](kālena) [indeed](eva) [brought-forth](upapāditām)
+[you-fire](tvamamagne) [right](dakṣiṇaḥ) [time](kālaḥ) [by-time-accomplished](kālenaivopapāditām)
 
 ## mukta-m0-p97-v2409
-[having-thrown](prakṣipya) [downward-facing](avāṅ+mukhau) [there](tatra) [ladle-and-spoon](sruk+sruvau) [also](api) [thereafter](anantaram)
+[having-thrown](prakṣipyāvāṅmukhau) [there](tatra) [ladle-spoon](sruksruvāvapyanantaram)
 
 ## mukta-m0-p97-v2410
-[counterclockwise](apradakṣiṇam) [having-taken](ādāya) [having-grasped](gṛhītvā) [sword-sheath](khaṅga+vardhanīm)
+[not-clockwise](apradakṣiṇamādāya) [having-taken](gṛhītvā) [sword-enhancer](khaṅgavardhanīm)
 
 ## mukta-m0-p97-v2411
-[stream](dhārām) [having-released](vimucya) [accompanied](saṃyuktaḥ) [with-those-abiding-in-own-duty](sva+dharma+sthaiḥ) [clockwise](pradakṣiṇam)
+[stream](dhārāṃ) [having-released](vimucya) [joined](saṃyuktaḥ) [with-dharma-standing](svadharmasthaiḥ) [clockwise](pradakṣiṇam)
 
 ## mukta-m0-p97-v2412
-[one-should-cast](kṣipet) [there](tatra) [from-which](yataḥ) [place](deśāt) [drawn-out](uddhṛtā) [that](sā) [sword-sheath](astra+vardhanī)
+[throw](kṣipet) [there](tatra) [from-place](yato) [region](deśāduddhṛtā) [sword-enhancer](sāstravardhanī)
 
 ## mukta-m0-p97-v2413
-[after-that](tat+ūrdhvam) [with-leftward-movement](apasavyena) [praṇava](praṇavam) [heart-mantra](hṛdayam) [first](purā)
+[then-upward](tadūrdhvamapasavyena) [om](praṇavaṃ) [heart](hṛdayaṃ) [before](purā)
 
 ## mukta-m0-p97-v2414
-[beginning-with-Skanda](skanda+pūrvam) [ending-with-Gaṇeśa](gaṇeśa+antam) [name](nāma) [or](vā) [ending-with-Bhava](bhava+paścimam)
+[skanda-first](skandapūrvaṃ) [ganesha-last](gaṇeśāntaṃ) [name](nāma) [or](vā) [bhava-last](bhavapaścimam)
 
 ## mukta-m0-p97-v2415
-[again](bhūyaḥ) [having-bathed](snātvā) [north-facing](saumya+āsyāḥ) [Śiva-collection](śiva+saṃhitām)
+[again](bhūyaḥ) [having-bathed](snātvā) [moon-faced](saumyāsyāśśivasaṃhitām)
 
 ## mukta-m0-p97-v2416
-[twofold](dviguṇam) [shoulder-givers](skandha+dātāraḥ) [likewise](tathā) [its-burners](tat+dāhakāḥ) [also](api)
+[twofold](dviguṇaṃ) [skanda-givers](skandhadātārastathā) [that-burners](taddāhakā) [also](api)
 
 ## mukta-m0-p97-v2417
-[having-bitten](vidaṃśya) [neem-leaves](nimba+patrāṇi) [restrained](niyatāḥ) [at-door](dvāri) [of-house](veśmanaḥ)
+[having-bitten](vidaṃśya) [neem-leaves](nimbapatrāṇi) [restrained](niyatā) [at-door](dvāri) [of-house](veśmanaḥ)
 
 ## mukta-m0-p97-v2418
-[they-should-enter](praviśeyuḥ) [having-touched](samālabhya) [having-placed](kṛtvā) [on-stone](aśmani) [foot](padam) [slowly](śanaiḥ)
+[enter](praviśeyussamālabhya) [having-made](kṛtvāśmani) [foot](padaṃ) [slowly](śanaiḥ)
 
 ## mukta-m0-p97-v2419
-[liberation-initiation](nirvāṇa+dīkṣā) [to-be-performed](kartavyā) [by-me](mama) [thus](iti) [with-mind-fixed](āhita+cetasaḥ)
+[nirvana-initiation](nirvāṇadīkṣā) [to-be-done](kartavyā) [mine](mametyāhitacetasaḥ)
 
 ## mukta-m0-p97-v2420
-[by-water](jalena) [or-by-fire](vā) [by-fire](agninā) [by-weapons](śastraiḥ) [especially](viśeṣeṇa) [struck-in-water](ibha+siṃhataḥ)
+[by-water](jalena) [or-fire](vāgninā) [weapons](śastrairviśeṣeṇebhasiṃhataḥ)
 
 ## mukta-m0-p97-v2421
-[by-own-hand-striking](sva+hasta+tāḍana) [cutting](uccheda) [rope-binding](rajju+bandhana) [and-falling](pātanaiḥ)
+[self-hand-beating](svahastatāḍanocchedarajjubandhanapātanaiḥ)
 
 ## mukta-m0-p97-v2422
-[of-those-without-body](avidyamāna+dehānām) [likewise](tathā) [of-those-with-impaired-body](vikala+dehinām)
+[of-bodyless](avidyamānadehānāṃ) [thus](tathā) [of-defective-bodied](vikaladehinām)
 
 ## mukta-m0-p97-v2423
-[in-body](dehe) [made-of-kuśa-etc.](kuśa+ādi+nirmite) [rites](kriyāḥ) [all](sarvāḥ) [one-should-perform](samācaret)
+[in-kusha-made-body](kuśādinirmite) [dehe](dehe) [rites-all](kriyāssarvāssamācaret)
 
 ## mukta-m0-p97-v2424
-[one-may-burn](dahet) [or](vā) [in-fire-alone](kevale) [in-fire](vāgnau) [without-mantra](amantram) [or](vā) [one-may-bury](nikhanet) [or](tu)
+[burn](dahedvā) [or](vā) [in-pure-fire](kevale) [vāgnāvamantraṃ) [bury](nikhanettu) [or](vā)
 
 ## mukta-m0-p97-v2425
-[is-desired](iṣyate) [if](yadi) [for-merit](puṇya+artham) [having-known](jñātvā) [thus](evam) [action](karma) [that](tat) [one-should-conduct](nayet)
+[desired](iṣyate) [if](yadi) [for-merit](puṇyārthaṃ) [having-known](jñātvaivaṃ) [karma](karma) [that-lead](tannayet)

@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p103-v2551
-[dispassion](viratiḥ)
+[cessation](viratiḥ) [cessation](viratiḥ) [cessation](viratiḥ) [cessation](viratiḥ)
 
 ## mukta-m0-p103-v2552
-[when](yadā) [entered](āviṣṭo) [delight](ratiṃ) [not](na) [in-the-end](ante) [obtains](labhate) [dispassion](viratiḥ) [indeed](hi) [she](sā)
+[when+absorbed](yadāviṣṭo) [pleasure](ratiṃ) [not+end](nānte) [obtains](labhate) [cessation+indeed](viratirhi) [that](sā)
 
 ## mukta-m0-p103-v2553
-[truth-increasing](satya+vardhinī)
+[truth-increasing](satyavardhinī) [truth-increasing](satyavardhinī) [truth-increasing](satyavardhinī) [truth-increasing](satyavardhinī)
 
 ## mukta-m0-p103-v2554
-[may-be](bhūyāt) [she](sā) [O-supreme-goddess](parama+īśāni) [of-people](janānāṃ) [truth-increasing](satya+vardhinī)
+[may+she+be](bhūyāt) [she](sā) [supreme+goddess](parameśāni) [of+people](janānāṃ) [truth-increasing](satyavardhinī)
 
 ## mukta-m0-p103-v2555
-[p.-295](p. 295)) [command-of-man](puruṣa+ājñā)
+[page](p.) [295](295) [man's+knowledge](puruṣājñā) [man's+knowledge](puruṣājñā) [man's+knowledge](puruṣājñā)
 
 ## mukta-m0-p103-v2556
-[in-destruction-of-ignorance](ajñāna+khaṇḍane) [in-adornment-of-knowledge](jñāna+maṇḍane) [indeed](api) [may-be](astu) [for-us](naḥ) [firm](sthirā)
+[ignorance+shattering](ajñānakhaṇḍane) [knowledge+adorning](jñānamaṇḍane) [may+be](pyastu) [to+us](naḥ) [firm](sthirā)
 
 ## mukta-m0-p103-v2557
-[divided](bhinnā)
+[divided](bhinnā) [divided](bhinnā) [divided](bhinnā) [divided](bhinnā)
 
 ## mukta-m0-p103-v2558
-[by-nature-of-reality](tattva+ātmanā) [even](api) [not-divided](abhinna) [indeed](eva) [victorious](jayati) [this](iyaṃ) [turned-toward-existence](bhava+unmukhī)
+[by+truth+self](tattvātmanā) [even+undivided](pyabhinnaiva) [conquers](jayatīyaṃ) [world-facing](bhavonmukhī)
 
 ## mukta-m0-p103-v2559
-[forbearance](kṣāntiḥ) [liberation-giving](kaivalya+dāyinī)
+[patience](kṣāntiḥ) [liberation-giving](kaivalyadāyinī) [patience](kṣāntiḥ) [liberation-giving](kaivalyadāyinī)
 
 ## mukta-m0-p103-v2560
-[as-long-as](yāvat) [not](na) [this](eṣā) [resorted-to](śritā) [with-devotion](bhaktyā) [forbearance](kṣāntiḥ) [liberation-giving](kaivalya+dāyinī)
+[until+not](yāvannaiṣā) [resorted](śritā) [with+devotion](bhaktyā) [patience](kṣāntiḥ) [liberation-giving](kaivalyadāyinī)
 
 ## mukta-m0-p103-v2561
-[seclusion-resorting](vivikta+sevinī)
+[solitary-serving](viviktasevinī) [solitary-serving](viviktasevinī) [solitary-serving](viviktasevinī) [solitary-serving](viviktasevinī)
 
 ## mukta-m0-p103-v2562
-[by-which](yena) [gone-everywhere](viśva+gataḥ) [even](api) [this](eṣa) [ever](jātu) [the-universe](viśvaṃ) [not](na) [should-conceive](bhāvaye)
+[by+whom](yena) [world-gone](viśvagato) [even+this](pyeṣa) [ever](jātu) [world](viśvaṃ) [not](na) [may+contemplate](bhāvaye)
 
 ## mukta-m0-p103-v2563
-[wisdom-producing](prajñā+janayitrī)
+[wisdom-generating](prajñājanayitrī) [wisdom-generating](prajñājanayitrī) [wisdom-generating](prajñājanayitrī) [wisdom-generating](prajñājanayitrī)
 
 ## mukta-m0-p103-v2564
-[higher](parā) [and-lower](aparā) [always](sadā) [wisdom-producing](prajñā+janayitrī) [great-goddess](mahā+īśvarī)
+[higher+lower](parā'parā) [always](sadā) [wisdom-generating](prajñājanayitrī) [great+goddess](maheśvarī)
 
 ## mukta-m0-p103-v2565
-[much-learned](bahu+śrutiḥ)
+[much-heard](bahuśrutiḥ) [much-heard](bahuśrutiḥ) [much-heard](bahuśrutiḥ) [much-heard](bahuśrutiḥ)
 
 ## mukta-m0-p103-v2566
-[on-one-hand](ekataḥ) [not-one-colored](na+eka+varṇā) [who](yā) [on-the-other-hand](na+ekataḥ) [also](api) [one-colored-sharing](eka+varṇa+bhāk)
+[from+one](ekato) [not+one-colored](naikavarṇā) [who](yā) [not+from+one](naikato) [even+one-colored+possessing](pyekavarṇabhāk)
 
 ## mukta-m0-p103-v2567
-[desireless](nir+īhā)
+[desireless](nirīhā) [desireless](nirīhā) [desireless](nirīhā) [desireless](nirīhā)
 
 ## mukta-m0-p103-v2568
-[by-whom](yayā) [everything](sarvaṃ) [having-done](vidhāya) [even](api) [not](na) [anything](kiṃcit) [indeed](ca) [is-done](vidhīyate)
+[by+whom](yayā) [all](sarvaṃ) [having+arranged](vidhāyāpi) [not](na) [anything](kiṃcicca) [is+arranged](vidhīyate)
 
 ## mukta-m0-p103-v2569
-[p.-296](p. 296)) [one-with-all](samasta+ekā)
+[page](p.) [296](296) [all+one](samastaikā) [all+one](samastaikā) [all+one](samastaikā)
 
 ## mukta-m0-p103-v2570
-[of-the-knowers-of-that](tat+vidāṃ) [and](ca) [by-own-nature](sva+rūpeṇa) [one-with-all](samasta+ekā) [victorious](jayati) [she](asau)
+[of+knowers](tadvidāṃ) [and](ca) [by+own+form](svarūpeṇa) [all+one](samastaikā) [conquers+that](jayatyasau)
 
 ## mukta-m0-p103-v2571
-[served-by-all-worlds-as-one](sarva+loka+eka+sevitā)
+[all+worlds+one+worshipped](sarvalokaikasevitā) [all+worlds+one+worshipped](sarvalokaikasevitā) [all+worlds+one+worshipped](sarvalokaikasevitā) [all+worlds+one+worshipped](sarvalokaikasevitā)
 
 ## mukta-m0-p103-v2572
-[by-oneness-of-mind](eka+cittatayā) [may-be-victorious](jīyāt) [served-by-all-worlds-as-one](sarva+loka+eka+sevitā)
+[with+one+mind](ekacittatayā) [may+conquer](jīyāt) [all+worlds+one+worshipped](sarvalokaikasevitā)
 
 ## mukta-m0-p103-v2573
-[service](sevā)
+[service](sevā) [service](sevā) [service](sevā) [service](sevā)
 
 ## mukta-m0-p103-v2574
-[service](sevā) [higher-and-higher](uttara+uttaraṃ) [to-be-done](kāryā) [art](kalā) [indeed](eva) [one](ekā) [fruit-giving](phala+pradā)
+[service+increasingly](sevottarottaraṃ) [should+be+done](kāryā) [art+one](kalāvekā) [fruit-giving](phalapradā)
 
 ## mukta-m0-p103-v2575
-[service-loving](sevā+priyā)
+[service-loving](sevāpriyā) [service-loving](sevāpriyā) [service-loving](sevāpriyā) [service-loving](sevāpriyā)
