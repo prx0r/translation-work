@@ -8,23 +8,23 @@
 "tokens": [
 {
 "surface": "ityukvā",
-"quick_gloss": "thus-saying"
+"quick_gloss": "thus-having-said"
 },
 {
 "surface": "parśvataḥ",
-"quick_gloss": "from-side"
+"quick_gloss": "at-side"
 },
 {
 "surface": "praikṣat",
 "quick_gloss": "looked"
 },
 {
-"surface": "kuṭilākṣaṃ",
-"quick_gloss": "crooked-eyed"
+"surface": "kuṭila+ākṣaṃ",
+"quick_gloss": "squint+eyed"
 },
 {
-"surface": "camūpatim",
-"quick_gloss": "army-commander"
+"surface": "camū+patim",
+"quick_gloss": "army+chief"
 }
 ]
 },
@@ -37,11 +37,11 @@
 "tokens": [
 {
 "surface": "yuvarāja",
-"quick_gloss": "young-prince"
+"quick_gloss": "O-prince"
 },
 {
-"surface": "kimevaṃ",
-"quick_gloss": "why-thus"
+"surface": "kim+evaṃ",
+"quick_gloss": "why+thus"
 },
 {
 "surface": "tvaṃ",
@@ -49,11 +49,11 @@
 },
 {
 "surface": "bravīṣi",
-"quick_gloss": "speak"
+"quick_gloss": "say"
 },
 {
 "surface": "mayi",
-"quick_gloss": "in-me"
+"quick_gloss": "while-I"
 },
 {
 "surface": "jīvati",
@@ -69,8 +69,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "senāsenādhipaiḥ",
-"quick_gloss": "with-army-commanders"
+"surface": "senā+senādhipaiḥ",
+"quick_gloss": "with-army+commanders"
 },
 {
 "surface": "sākaṃ",
@@ -78,7 +78,7 @@
 },
 {
 "surface": "gatvā",
-"quick_gloss": "going"
+"quick_gloss": "having-gone"
 },
 {
 "surface": "ahaṃ",
@@ -86,7 +86,7 @@
 },
 {
 "surface": "sādhayāmi",
-"quick_gloss": "accomplish"
+"quick_gloss": "will-accomplish"
 },
 {
 "surface": "tām",
@@ -103,19 +103,27 @@
 "tokens": [
 {
 "surface": "ityuktvā",
-"quick_gloss": "thus-saying"
+"quick_gloss": "thus-having-said"
 },
 {
-"surface": "praṇipatyaitān",
-"quick_gloss": "bowing"
+"surface": "praṇipatya",
+"quick_gloss": "having-bowed"
+},
+{
+"surface": "etān",
+"quick_gloss": "to-these"
 },
 {
 "surface": "niryayau",
 "quick_gloss": "went-out"
 },
 {
-"surface": "nagarādbahiḥ",
+"surface": "nagarāt",
 "quick_gloss": "from-city"
+},
+{
+"surface": "bahiḥ",
+"quick_gloss": "outside"
 }
 ]
 },
@@ -127,20 +135,24 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "athāgatya",
+"surface": "atha",
 "quick_gloss": "then"
 },
 {
-"surface": "durmadākhyo",
-"quick_gloss": "named-durmada"
+"surface": "āgatya",
+"quick_gloss": "having-come"
 },
 {
-"surface": "vāhinīṣo",
-"quick_gloss": "army-chief"
+"surface": "durmadā+ākhya",
+"quick_gloss": "named-Durmadā"
 },
 {
-"surface": "mahābalaḥ",
-"quick_gloss": "great-powerful"
+"surface": "vāhinī+īṣaḥ",
+"quick_gloss": "army+lord"
+},
+{
+"surface": "mahā+balaḥ",
+"quick_gloss": "great+mighty"
 }
 ]
 },
@@ -152,12 +164,24 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "prāhāhaṅkāraśailasthaḥ",
-"quick_gloss": "said"
+"surface": "prāha",
+"quick_gloss": "spoke"
 },
 {
-"surface": "praṇamyātmacamūpatim",
-"quick_gloss": "bowing"
+"surface": "ahaṃ",
+"quick_gloss": "I"
+},
+{
+"surface": "ahaṅkāra+śaila+sthaḥ",
+"quick_gloss": "standing-on-pride+mountain"
+},
+{
+"surface": "praṇamya",
+"quick_gloss": "having-bowed"
+},
+{
+"surface": "ātma+camū+patim",
+"quick_gloss": "to-own+army+chief"
 }
 ]
 },
@@ -169,20 +193,24 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "avalāvijayenaiva",
-"quick_gloss": "by-avalā-vijaya"
+"surface": "avalā+vijayena",
+"quick_gloss": "by-Avalā+conquest"
+},
+{
+"surface": "eva",
+"quick_gloss": "alone"
 },
 {
 "surface": "prayāṇaṃ",
-"quick_gloss": "departure"
+"quick_gloss": "march"
 },
 {
 "surface": "vaḥ",
-"quick_gloss": "your"
+"quick_gloss": "of-you"
 },
 {
-"surface": "susammatam",
-"quick_gloss": "well-approved"
+"surface": "su+sammatam",
+"quick_gloss": "well+approved"
 }
 ]
 },
@@ -194,20 +222,32 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "muhūrtamātrādyadi",
-"quick_gloss": "for-a-moment"
+"surface": "muhūrta+mātrāt",
+"quick_gloss": "in-a-moment+measure"
+},
+{
+"surface": "yadi",
+"quick_gloss": "if"
 },
 {
 "surface": "tāṃ",
 "quick_gloss": "her"
 },
 {
-"surface": "nāneṣyāmi",
-"quick_gloss": "not-bring"
+"surface": "na",
+"quick_gloss": "not"
 },
 {
-"surface": "tatastvayā",
+"surface": "āneṣyāmi",
+"quick_gloss": "I-shall-bring"
+},
+{
+"surface": "tatas",
 "quick_gloss": "then"
+},
+{
+"surface": "tvayā",
+"quick_gloss": "by-you"
 }
 ]
 },
@@ -223,12 +263,16 @@
 "quick_gloss": "sounding"
 },
 {
-"surface": "jaitrayātrāṅgavāditrāṇi",
-"quick_gloss": "victory-march"
+"surface": "jaitra+yātrā+aṅga",
+"quick_gloss": "victory+march+limb"
 },
 {
-"surface": "muhurmuhaḥ",
-"quick_gloss": "again-and-again"
+"surface": "vāditrāṇi",
+"quick_gloss": "musical-instruments"
+},
+{
+"surface": "muhur+muhuḥ",
+"quick_gloss": "again+and-again"
 }
 ]
 },
@@ -240,8 +284,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "daityasenāsamārabhmakolāhalamaharavam",
-"quick_gloss": "demon-army"
+"surface": "daitya+senā",
+"quick_gloss": "of-demon+army"
+},
+{
+"surface": "samārambha",
+"quick_gloss": "tumult"
+},
+{
+"surface": "kolāhala+mahā+ravam",
+"quick_gloss": "uproar+great+sound"
 }
 ]
 },
@@ -254,23 +306,27 @@
 "tokens": [
 {
 "surface": "gatvā",
-"quick_gloss": "going"
+"quick_gloss": "having-gone"
 },
 {
-"surface": "śrīmātaraṃ",
-"quick_gloss": "auspicious-mother"
+"surface": "śrī+mātaraṃ",
+"quick_gloss": "glorious+Mother"
 },
 {
 "surface": "natvā",
-"quick_gloss": "bowing"
+"quick_gloss": "having-bowed"
 },
 {
 "surface": "mantriṇī",
-"quick_gloss": "minister"
+"quick_gloss": "ministeress"
 },
 {
-"surface": "daṇḍinīmapi",
-"quick_gloss": "commander"
+"surface": "daṇḍinīm",
+"quick_gloss": "Daṇḍinī"
+},
+{
+"surface": "api",
+"quick_gloss": "also"
 }
 ]
 },
@@ -283,15 +339,19 @@
 "tokens": [
 {
 "surface": "yayatuḥ",
-"quick_gloss": "went"
+"quick_gloss": "they-two-went"
 },
 {
-"surface": "śaktisenābhirasaṅkhyābhiḥ",
-"quick_gloss": "with-shakti-armies"
+"surface": "śakti+senābhiḥ",
+"quick_gloss": "with-Śakti+armies"
+},
+{
+"surface": "asaṅkhyābhiḥ",
+"quick_gloss": "innumerable"
 },
 {
 "surface": "samāyute",
-"quick_gloss": "equipped"
+"quick_gloss": "accompanied"
 }
 ]
 },
@@ -303,12 +363,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "raṇakolāhalākhyānaṃ",
-"quick_gloss": "battle-tumult"
+"surface": "raṇa+kolāhala+ākhyānaṃ",
+"quick_gloss": "battle+uproar+account"
 },
 {
-"surface": "prāleyādririvonnatam",
-"quick_gloss": "snow-mountain"
+"surface": "prāleya+adriḥ",
+"quick_gloss": "like-snowy+mountain"
+},
+{
+"surface": "iva",
+"quick_gloss": "as-if"
+},
+{
+"surface": "unnatam",
+"quick_gloss": "lofty"
 }
 ]
 },
@@ -320,12 +388,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "tāruṇyāmbhodhilaharī",
-"quick_gloss": "youth-ocean-wave"
+"surface": "tāruṇya+ambhodhi+laharī",
+"quick_gloss": "of-youth+ocean+wave"
 },
 {
-"surface": "lāvaṇyaughasamudrikā",
-"quick_gloss": "beauty-flood-ocean"
+"surface": "lāvaṇya+augha+samudrikā",
+"quick_gloss": "of-beauty+flood+ocean"
 }
 ]
 },
@@ -337,20 +405,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "śoṣaṇāya",
-"quick_gloss": "for-drying"
+"surface": "daitya+ambudheḥ",
+"quick_gloss": "of-demon+ocean"
 },
 {
-"surface": "daityāmbudheḥ",
-"quick_gloss": "demon-ocean"
+"surface": "śoṣaṇāya",
+"quick_gloss": "for-drying-up"
 },
 {
 "surface": "śarān",
 "quick_gloss": "arrows"
 },
 {
-"surface": "bhānukaropamān",
-"quick_gloss": "sun-ray-like"
+"surface": "bhānu+kara+upamān",
+"quick_gloss": "like-sun+rays"
 }
 ]
 },
@@ -363,15 +431,23 @@
 "tokens": [
 {
 "surface": "asaṅkhyā",
-"quick_gloss": "countless"
+"quick_gloss": "innumerable"
 },
 {
-"surface": "vāraṇāruḍhā",
-"quick_gloss": "elephant-mounted"
+"surface": "vāraṇa+āruḍhā",
+"quick_gloss": "elephant+mounted"
 },
 {
-"surface": "śaktyaścāpi",
-"quick_gloss": "shaktis"
+"surface": "śaktyaḥ",
+"quick_gloss": "Śaktis"
+},
+{
+"surface": "ca",
+"quick_gloss": "and"
+},
+{
+"surface": "api",
+"quick_gloss": "also"
 },
 {
 "surface": "tādṛśāḥ",
@@ -395,12 +471,16 @@
 "quick_gloss": "such"
 },
 {
-"surface": "śaktirgarjane",
-"quick_gloss": "shakti"
+"surface": "śaktiḥ",
+"quick_gloss": "Śakti"
 },
 {
-"surface": "tryaṅkuśagrahā",
-"quick_gloss": "three-goad"
+"surface": "garjane",
+"quick_gloss": "in-roaring"
+},
+{
+"surface": "tri+aṅkuśa+grahā",
+"quick_gloss": "three+hook+grasping"
 }
 ]
 },
@@ -412,16 +492,32 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "kasmiṃścidekā",
-"quick_gloss": "somewhere"
+"surface": "kasmiṃścit",
+"quick_gloss": "in-some"
 },
 {
-"surface": "saṃruḍhānekāścānyeṣu",
+"surface": "ekā",
 "quick_gloss": "one"
 },
 {
+"surface": "saṃruḍhā",
+"quick_gloss": "mounted"
+},
+{
+"surface": "anekāḥ",
+"quick_gloss": "many"
+},
+{
+"surface": "ca",
+"quick_gloss": "and"
+},
+{
+"surface": "anyeṣu",
+"quick_gloss": "in-others"
+},
+{
 "surface": "saṃsthitāḥ",
-"quick_gloss": "stood"
+"quick_gloss": "situated"
 }
 ]
 },
@@ -433,20 +529,28 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "grasantīva",
+"surface": "grasantī",
 "quick_gloss": "devouring"
 },
 {
-"surface": "daityasenāṃ",
-"quick_gloss": "demon-army"
+"surface": "iva",
+"quick_gloss": "as-if"
+},
+{
+"surface": "daitya+senāṃ",
+"quick_gloss": "demon+army"
 },
 {
 "surface": "vyāpya",
-"quick_gloss": "pervading"
+"quick_gloss": "having-pervaded"
 },
 {
-"surface": "bhūmimuṣāyayau",
+"surface": "bhūmim",
 "quick_gloss": "earth"
+},
+{
+"surface": "uṣā+āyayau",
+"quick_gloss": "dawn+came"
 }
 ]
 },
@@ -458,16 +562,24 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "daityasenāṃ",
-"quick_gloss": "demon-army"
+"surface": "daitya+senāṃ",
+"quick_gloss": "demon+army"
 },
 {
-"surface": "samāseduste",
+"surface": "samāseduḥ",
 "quick_gloss": "approached"
 },
 {
-"surface": "yuddheṣvanivartinaḥ",
+"surface": "te",
+"quick_gloss": "they"
+},
+{
+"surface": "yuddheṣu",
 "quick_gloss": "in-battles"
+},
+{
+"surface": "a+nivartinaḥ",
+"quick_gloss": "not+retreating"
 }
 ]
 },
@@ -483,12 +595,16 @@
 "quick_gloss": "began"
 },
 {
-"surface": "śastrapāto'pi",
-"quick_gloss": "weapon-fall"
+"surface": "śastra+pātaḥ",
+"quick_gloss": "weapon+fall"
 },
 {
-"surface": "prāṇacoramahāravaḥ",
-"quick_gloss": "life-thief-great-roar"
+"surface": "api",
+"quick_gloss": "also"
+},
+{
+"surface": "prāṇa+cora+mahā+ravaḥ",
+"quick_gloss": "life+stealing+great+sound"
 }
 ]
 },
@@ -500,8 +616,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "gṛghrakākakaṅkaghūkabhāsakekyadhisaṃśrayāḥ",
-"quick_gloss": "vulture-crow-kite-owl-hawk"
+"surface": "gṛghra+kāka+kaṅka+ghūka",
+"quick_gloss": "vulture+crow+heron+owl"
+},
+{
+"surface": "bhāsa+kekī",
+"quick_gloss": "vulture+peacock"
+},
+{
+"surface": "adhi+saṃśrayāḥ",
+"quick_gloss": "resorted-to-by"
 }
 ]
 },
@@ -513,8 +637,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "caṇḍaśūlakhaḍgacakrabhindipāladharāḥ",
-"quick_gloss": "fierce-trident-sword-discus"
+"surface": "caṇḍa+śūla+khaḍga+cakra",
+"quick_gloss": "fierce+spear+sword+discus"
+},
+{
+"surface": "bhindipāla+dharāḥ",
+"quick_gloss": "javelin+holders"
 },
 {
 "surface": "pare",
@@ -530,16 +658,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "evaṃvidhairdaityagaṇaiḥ",
-"quick_gloss": "thus"
+"surface": "evaṃvidhaiḥ",
+"quick_gloss": "of-such-kind"
+},
+{
+"surface": "daitya+gaṇaiḥ",
+"quick_gloss": "demon+troops"
 },
 {
 "surface": "sametā",
-"quick_gloss": "assembled"
+"quick_gloss": "accompanied"
 },
 {
-"surface": "śaktivāhinī",
-"quick_gloss": "shakti-army"
+"surface": "śakti+vāhinī",
+"quick_gloss": "Śakti+army"
 }
 ]
 },
@@ -555,16 +687,20 @@
 "quick_gloss": "each-other"
 },
 {
-"surface": "kṣipantaste",
-"quick_gloss": "throwing"
+"surface": "kṣipantaḥ",
+"quick_gloss": "hurling"
+},
+{
+"surface": "te",
+"quick_gloss": "they"
 },
 {
 "surface": "vākyaiḥ",
-"quick_gloss": "words"
+"quick_gloss": "with-words"
 },
 {
-"surface": "kaṭurasodayaiḥ",
-"quick_gloss": "harsh-rising"
+"surface": "kaṭu+rasa+udayaiḥ",
+"quick_gloss": "bitter+juice+producing"
 }
 ]
 }

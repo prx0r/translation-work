@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p38-v926
-[citra-vīryābhiḥ](citravīryābhiḥ) [abhitaḥ](abhitaḥ) [saṃvṛtā](saṃvṛtā) [mantriṇī](mantriṇī) [sthitā](sthitā)
+[surrounded-by-citravīryā-and-others](citravīryābhirabhitaḥ) [standing](sthitā) [encircled-by-ministers](saṃvṛtāmantriṇī) [she](sthitā)
 
 ## mukta-m0-p38-v927
-[śaktibhiḥ](śaktibhiḥ) [baṭuka-ādyaiḥ](baṭukādyaśca) [ca](ca) [saṃyutā](saṃyutā) [ati-ruṣā-anvitā](atiruṣānvitā)
+[with-śaktis](śaktibhir) [baṭuka-and-others](baṭukādyaśca) [accompanied](saṃyutā) [filled-with-great-anger](atiruṣānvitā)
 
 ## mukta-m0-p38-v928
-[yatra](yatra) [te](te) [vadha-vṛttānta-saṅgatiḥ](vadhavṛttāntasaṅgatirna) [na](na) [hi](hi) [saṃstutā](saṃstutā)
+[where](yatra) [your](te) [connection-with-account-of-slaying](vadhavṛttāntasaṅgatir) [not](na) [indeed](hi) [approved](saṃstutā)
 
 ## mukta-m0-p38-v929
-[nāśayet](nāśayediti) [iti](iti) [me](me) [buddhiḥ](buddhirvyavasāyaṃ) [vyavasāyaṃ](vyavasāyaṃ) [samāsthitā](samāsthitā)
+[she-will-destroy](nāśayed) [thus](iti) [my](me) [intellect](buddhir) [resolved](vyavasāyaṃ) [has-taken-stand](samāsthitā)
 
 ## mukta-m0-p38-v930
-[senā](senā) [evaṃ](evaṃ) [śakti-nicitā](śaktinicitā) [daitya-rāja](daityarāja) [vadāmi](vadāmi) [te](te)
+[army](sena) [thus](ivaṃ) [filled-with-śaktis](śaktinicitā) [O-daitya-king](daityarāja) [I-say](vadāmi) [to-you](te)
 
 ## mukta-m0-p38-v931
-[sarvān](sarvān) [daitya-gaṇān](daityagaṇānasmānatitiṣṭhati) [asmān](asmān) [atitiṣṭhati](atitiṣṭhati) [sarvathā](sarvathā)
+[all](sarvān) [daitya-hosts](daityagaṇān) [us](asmān) [surpasses](atitiṣṭhati) [in-every-way](sarvathā)
 
 ## mukta-m0-p38-v932
-[vidyunmālī](vidyunmālī) [samabhavat](samabhavattūṣṇī) [tūṣṇī](tūṣṇī) [daitya-sabhā-gataḥ](daityasabhāgataḥ)
+[Vidyunmālī](vidyunmālī) [became](samabhavat) [silent](tūṣṇī) [gone-to-daitya-assembly](daityasabhāgataḥ)
 
 ## mukta-m0-p38-v933
-[bhaṇḍāsura-aṅghryoḥ](bhaṇḍāsurāṅghyrorapatad) [apatat](apatad) [bhaya-vihvalita-antaram](bhayavihvalitāntaram)
+[at-Bhaṇḍāsura's-feet](bhaṇḍāsurā'ṅghyror) [fell](apatad) [with-heart-agitated-by-fear](bhayavihvalitāntaram)
 
 ## mukta-m0-p38-v934
-[mahā-rāja](mahārāja) [tvad-ājñaptaḥ](tvadājñapto) [gataḥ](gataḥ) [śakti-mahā-camūm](śaktimahācamūm)
+[O-great-king](mahārāja) [commanded-by-you](tvadājñapto) [I-went](gataḥ) [to-great-army-of-śaktis](śaktimahācamūm)
 
 ## mukta-m0-p38-v935
-[na](na) [me](me) [vīryaṃ](vīryaṃ) [balaṃ](balaṃ) [vā](vā) [api](api) [babhau](babhau) [śakti-agrataḥ](śaktyagrataḥ) [kvacit](kvacit)
+[not](na) [my](me) [valor](vīryaṃ) [strength](balaṃ) [or](vāpi) [shone](babhau) [before-the-śaktis](śaktyagrataḥ) [anywhere](kvacit)
 
 ## mukta-m0-p38-v936
-[kṣaṇena](kṣanena) [tāsāṃ](tāsāṃ) [grahaṇāt](grahaṇādvisaṃjño'bhavamañjasā) [visaṃjñaḥ](visaṃjñaḥ) [abhavam](abhavam) [añjasā](añjasā)
+[in-a-moment](kṣanena) [by-their-seizure](tāsāṃ+grahaṇād) [unconscious](visaṃjño) [I-became](abhavam) [quickly](añjasā)
 
 ## mukta-m0-p38-v937
-[sā](sā) [kula-adriḥ](kulādririvonnamrā) [iva](iva) [unnamed](unnamed) [kroḍāsyā](kroḍāsyā) [kāñcana-prabhā](kāñcanaprabhā)
+[she](sā) [like-a-great-mountain](kulādrir+iva) [lofty](unnamrā) [boar-faced](kroḍāsyā) [golden-hued](kāñcanaprabhā)
 
 ## mukta-m0-p38-v938
-[tādṛgvidhaṃ](tādṛgvidhaṃ) [śakti-gaṇaṃ](śaktigaṇaṃ) [tasyāḥ](tasyāḥ) [krodha-pradīpitam](krodhapradīpitam)
+[of-such-kind](tādṛgvidhaṃ) [host-of-śaktis](śaktigaṇaṃ) [her](tasyāḥ) [inflamed-by-anger](krodhapradīpitam)
 
 ## mukta-m0-p38-v939
-[tasyāḥ](tasyāḥ) [niyogāt](niyogānnito'haṃ) [nitaḥ](nitaḥ) [ahaṃ](ahaṃ) [śaktibhiḥ](śaktibhirmantriṇīpuraḥ) [mantriṇī-puraḥ](mantriṇīpuraḥ)
+[by-her-command](tasyā+niyogān) [led](nito) [I](ahaṃ) [by-śaktis](śaktibhir) [before-the-minister](mantriṇīpuraḥ)
 
 ## mukta-m0-p38-v940
-[saundarya-kula-sāraṅgī](saundaryakulasāraṅgī) [pūrṇa-tāruṇya-garvitā](pūrṇatāruṇyagarvitā)
+[deer-of-the-family-of-beauty](saundaryakulasāraṅgī) [proud-of-full-youth](pūrṇatāruṇyagarvitā)
 
 ## mukta-m0-p38-v941
-[gīta-hāsya-parā](gītahāsyaparā) [nityaṃ](nityaṃ) [viṇā-vādana-niṣṭhitā](viṇāvādananiṣṭhitā)
+[devoted-to-song-and-laughter](gītahāsyaparā) [always](nityaṃ) [engaged-in-playing-the-vīṇā](viṇāvādananiṣṭhitā)
 
 ## mukta-m0-p38-v942
-[anvavekṣam](anvavekṣamahaṃ) [ahaṃ](ahaṃ) [sarva-saubhāgya-eka-samāśrayām](sarvasaubhāgyaikasamāśrayām)
+[I-beheld](anvavekṣam) [I](ahaṃ) [sole-abode-of-all-good-fortune](sarvasaubhāgyaikasamāśrayām)
 
 ## mukta-m0-p38-v943
-[tayā](tayā) [nītaḥ](nīto) [mahā-rājñyāḥ](mahārājñyāḥ) [samakṣam](samakṣam) [ahaṃ](ahaṃ) [āśvatha](āśvatha)
+[by-her](tayā) [led](nīto) [into-the-presence-of-the-great-queen](mahārājñyāḥ+samakṣam) [I](aham) [quickly](āśvatha)
 
 ## mukta-m0-p38-v944
-[sandeśaṃ](sandeśaṃ) [vācayan](vācayanmahyaṃ) [mahyaṃ](mahyaṃ) [yat](yat) [tat](tat) [te](te) [mantriṇī-mukhāt](mantriṇīmukhāt)
+[message](sandeśaṃ) [reciting](vācayan) [to-me](mahyaṃ) [which](yat) [that](tat) [to-you](te) [from-the-minister's-mouth](mantriṇīmukhāt)
 
 ## mukta-m0-p38-v945
-[brūyāḥ](brūyāstaṃ) [taṃ](taṃ) [bhaṇḍa-daityeśaṃ](bhaṇḍadaityeśaṃ) [jīvane](jīvane) [yadi](yadi) [te](te) [matiḥ](matiḥ)
+[you-should-say](brūyās) [that](taṃ) [to-Bhaṇḍa-lord-of-daityas](bhaṇḍadaityeśaṃ) [in-life](jīvane) [if](yadi) [your](te) [intention](matiḥ)
 
 ## mukta-m0-p38-v946
-[nivasa](nivasa) [tvaṃ](tvaṃ) [parīvāra-yutaḥ](parīvārayutaḥ) [pātāla-sadmani](pātālasadmani)
+[dwell](nivasa) [you](tvaṃ) [with-retinue](parīvārayutaḥ) [in-the-netherworld-abode](pātālasadmani)
 
 ## mukta-m0-p38-v947
-[akṛtvā](akṛtvaivaṃ) [evaṃ](evaṃ) [na](na) [te](te) [mokṣaḥ](mokṣo) [loka-antara-gatasya](lokāntaragatasya) [ca](ca)
+[not-doing](akṛtvā) [thus](evaṃ) [not](na) [your](te) [release](mokṣo) [even-gone-to-another-world](lokā'ntaragatasya) [and](ca)
 
 ## mukta-m0-p38-v948
-[iti](iti) [tvayā](tvayā) [tatra](tatra) [gatvā](gatvā) [vaktvyaḥ](vaktvyo) [bhaṇḍa-dānavaḥ](bhaṇdadānavaḥ)
+[thus](iti) [by-you](tvayā) [there](tatra) [having-gone](gatvā) [to-be-told](vaktvyo) [Bhaṇḍa-dānava](bhaṇḍadānavaḥ)
 
 ## mukta-m0-p38-v949
-[karāla-karavāla-udyat-karā](karālakaravālodyatkarā) [tatra](tatra) [samāyayau](samāyayau)
+[with-hand-raised-holding-terrible-sword](karālakaravālodyatkarā) [there](tatra) [came](samāyayau)
 
 ## mukta-m0-p38-v950
-[mantranātāñca](mantranātāñca) [vṛtāntaṃ](vṛtāntaṃ) [babhāṣe](babhāṣe) [sā](sā) [anuyojitā](anuyojitā)
+[to-the-minister](mantranātāñ) [and](ca) [account](vṛtāntaṃ) [spoke](babhāṣe) [she](sā) [questioned](anuyojitā)

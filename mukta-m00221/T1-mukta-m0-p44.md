@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p44-v1076
-[food](āhārya) [valor](vīryaṃ) [anger-and](krodhañca) [turn-back](nivartadhvaṃ) [all-around](samantataḥ)
+[having-mustered](āhārya) [valor](vīryaṃ) [and-anger](krodhañca) [turn-back](nivartadhvaṃ) [on-all-sides](samantataḥ)
 
 ## mukta-m0-p44-v1077
-[what](kiṃ) [will-say](vakṣyatha) [home](gṛhe) [by-women](stribhiḥ) [asked](pṛṣṭā) [from-battle-turning](yudhānnivartane)
+[what](kiṃ) [will-you-say](vakṣyatha) [at-home](gṛhe) [by-women](stribhiḥ) [asked](pṛṣṭā) [at-turning-back](nivartane) [from-battle](yudhāt)
 
 ## mukta-m0-p44-v1078
-[hearing](śrutvā) [viśukra-speech](viśukravacanaṃ) [turned-back](parāvṛttastatastu) [then](te)
+[Viśukra's-word](viśukra+vacanaṃ) [having-heard](śrutvā) [turned-back](parāvṛttas) [then](tatas) [indeed](tu) [they](te)
 
 ## mukta-m0-p44-v1079
-[demon-army](daityasenābhirākrāntāḥ) [that](sā) [girl](bālā) [chariot-seated](rathasaṃsthitā)
+[by-demon-army](daitya+senābhiḥ) [attacked](ākrāntāḥ) [she](sā) [young-girl](bālā) [chariot-situated](ratha+saṃsthitā)
 
 ## mukta-m0-p44-v1080
-[then](atha) [her](tāṃ) [chariot-leader](rathanetrīṃ) [she](sā) [friend](sakhī) [said](prāha) [priyaṃvadā](priyaṃvadā)
+[then](atha) [to-her](tāṃ) [chariot-driver](ratha+netrīṃ) [she](sā) [friend](sakhī) [spoke](prāha) [sweet-speaking](priyaṃvadā)
 
 ## mukta-m0-p44-v1081
-[not](na) [your](te) [rear-guard](pārṣṇigrahā) [any](kāciścakragoptryadhividyate)
+[not](na) [your](te) [rear-guard](pārṣṇigrahā) [any](kācit) [wheel-protector](cakra+goptrī) [is-present](adhividyate)
 
 ## mukta-m0-p44-v1082
-[chariot](rathaṃ) [turn-back](nivartayāmyeṣā) [army-joined](senāyuktā) [again](punardrutam)
+[chariot](rathaṃ) [I-shall-turn-back](nivartayāmi) [this](eṣā) [with-army](senā+yuktā) [again](punar) [quickly](drutam)
 
 ## mukta-m0-p44-v1083
-[hearing](srutvā) [friend-speech](sakhīvacaḥ) [said](prāha) [laughing](prahasya) [soft-speaking](mṛdubhāṣiṇī)
+[having-heard](srutvā) [friend's-word](sakhī+vacaḥ) [spoke](prāha) [having-smiled](prahasya) [soft-speaking-one](mṛdu+bhāṣiṇī)
 
 ## mukta-m0-p44-v1084
-[sufficient](paryāptā) [my](me) [demon-army](daityasenā) [fighting](yudhyantyā) [in-battle](yudhi) [my](me) [dvacit](dvacit)
+[sufficient](paryāptā) [for-me](me) [demon-army](daitya+senā) [while-fighting](yudhyantyā) [in-battle](yudhi) [for-me](me) [indeed](dvacit)
 
 ## mukta-m0-p44-v1085
-[think](manyase) [if](cedimaṃ) [see](paśya) [moment](kṣaṇaṃ) [demon-world-less](nirdaityalokakam)
+[if-you-think](manyase) [if](cet) [this](imaṃ) [see](paśya) [for-a-moment](kṣaṇaṃ) [devoid-of-demon-world](nir+daitya+lokakam)
 
 ## mukta-m0-p44-v1086
-[goddess](devi) [not](nāstyeva) [my](me) [fear](bhītiḥ) [in-army](sainye'pītaḥ) [śatottare](śatottare)
+[O-goddess](devi) [not](na) [exists](asti) [indeed](eva) [my](me) [fear](bhītiḥ) [in-army](sainye) [even](api) [than-this](itaḥ) [more-than-a-hundred](śata+uttare)
 
 ## mukta-m0-p44-v1087
-[doubt](śaṅke) [śrīlitādevyā](śrīlitādevyā) [when](yadājñāmantarā) [by-you](tvayā)
+[I-fear](śaṅke) [of-Śrī-Lalitā-devī](śrī+litā+devyā) [because](yat) [without-command](ājñām+antarā) [by-you](tvayā)
 
 ## mukta-m0-p44-v1088
-[speak](brūhi) [quickly](śīghraṃ) [chariot](rathamahaṃ) [where-drive](kvanayāmi) [battle-ground](raṇā'vanau)
+[tell](brūhi) [quickly](śīghraṃ) [chariot](ratham) [I](ahaṃ) [where](kva) [shall-lead](nayāmi) [on-battle-ground](raṇā'vanau)
 
 ## mukta-m0-p44-v1089
-[chapter-sixty-third](triṣaṣṭitamo'dhyāyaḥ)
+[sixty-third](triṣaṣṭitamaḥ) [chapter](adhyāyaḥ)
 
 ## mukta-m0-p44-v1090
-[said](prāha) [quickly](śighraṃ) [drive](naya) [chariot](rathaṃ) [where](yatrā'sau) [elephant-refuge](gajasaṃśrayaḥ)
+[she-spoke](prāha) [quickly](śighraṃ) [lead](naya) [chariot](rathaṃ) [where](yatra) [that-one](asau) [elephant-mounted](gaja+saṃśrayaḥ)
 
 ## mukta-m0-p44-v1091
-[thus-commanded](ityājñptā) [instantly](kṣaṇādeva) [drove](nināya) [best-chariot](syandanottamam)
+[thus-commanded](iti+ājñptā) [in-a-moment](kṣaṇāt) [indeed](eva) [she-led](nināya) [excellent-chariot](syandana+uttamam)
 
 ## mukta-m0-p44-v1092
-[arrow-streams](śarasantatidhārābhiścakre'tiśithilāṃ) [then](tadā)
+[with-streams](dhārābhiḥ) [of-continuous-arrows](śara+santati) [she-made](cakre) [very-slackened](ati+śithilāṃ) [then](tadā)
 
 ## mukta-m0-p44-v1093
-[slain](hatāstatra) [great-demons](mahādaityāḥ) [thunderbolt-weapon](kuliśā'streṇa) [everywhere](sarvataḥ)
+[were-slain](hatās) [there](tatra) [great-demons](mahā+daityāḥ) [by-thunderbolt-weapon](kuliśā'streṇa) [on-all-sides](sarvataḥ)
 
 ## mukta-m0-p44-v1094
-[one-arm-eye-foot-side](ekabāhvakṣicaraṇapārśsvībhūtāstathā) [others](pare)
+[with-one-arm-eye-foot-side](eka+bāhu+akṣi+caraṇa+pārśvī) [become](bhūtās) [thus](tathā) [others](pare)
 
 ## mukta-m0-p44-v1095
-[seeing](niśāmya) [sent](prāhiṇonnāgamairāvatakulodbhavam)
+[having-seen](niśāmya) [he-sent-forth](prāhiṇot) [elephant](nāgam) [born-of-Airāvata's-lineage](airāvata+kula+udbhavam)
 
 ## mukta-m0-p44-v1096
-[rained](vavarṣa) [arrow-streams](śaradhārābhiścakre'tiśithilāṃ) [gem-horned](maṇiśṛṅgamivā'mbudaḥ)
+[he-showered](vavarṣa) [with-streams-of-arrows](śara+dhārābhiḥ) [like-a-cloud](ambu+daḥ) [on-a-jewel-peaked-mountain](maṇi+śṛṅgam+iva)
 
 ## mukta-m0-p44-v1097
-[arrow-rain](śaravarsaṃ) [two](dvayaṃ) [that](tattu) [darkened](tamobhūtaṃ) [battle-ground](raṇā'vanau)
+[arrow-shower](śara+varsaṃ) [two](dvayaṃ) [that](tat) [indeed](tu) [became-darkness](tamaḥ+bhūtaṃ) [on-battle-ground](raṇā'vanau)
 
 ## mukta-m0-p44-v1098
-[struck](jaghānā'karṇapūrṇena) [hand](haste) [her](tāṃ) [chariot-horses](rathavāhinīm)
+[he-struck](jaghāna) [with-arrow-drawn-to-ear](ākarṇa+pūrṇena) [in-hand](haste) [that](tāṃ) [chariot-driver](ratha+vāhinīm)
 
 ## mukta-m0-p44-v1099
-[seeing](tdadṛṣṭvā) [anger-red-eyed](roṣatāmrākṣī) [roaring](garjantaṃ) [demon-chief](daityapuṅgavam)
+[having-seen-that](tat+adṛṣṭvā) [with-eyes-red-from-anger](roṣa+tāmra+akṣī) [roaring](garjantaṃ) [foremost-of-demons](daitya+puṅgavam)
 
 ## mukta-m0-p44-v1100
-[arrow-struck](bhallārdito) [deep-swoon](gāḍhamūrcchāṃ) [viśukra](viśukraḥ) [fell](prāpatadgataḥ)
+[struck-by-bhallā-arrow](bhalla+ārditaḥ) [deep-faint](gāḍha+mūrcchāṃ) [Viśukra](viśukraḥ) [fell](prāpatat) [gone](gataḥ)
