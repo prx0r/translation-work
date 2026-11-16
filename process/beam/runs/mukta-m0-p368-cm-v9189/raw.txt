@@ -1,0 +1,36 @@
+{
+  "song": "Merutantra",
+  "verse": 1,
+  "rows": [
+    {
+      "lemma": "ḍākinī",
+      "morph": "f.nom.sg",
+      "grounds": "ḍākinī = ḍākinī"
+    },
+    {
+      "lemma": "oṃ aiṃ ḍākinyai namaḥ || oṃ aiṃ varṇinyai namaḥ iti mantraḥ",
+      "morph": "indecl. (mantra)",
+      "grounds": "oṃ aiṃ ḍākinyai namaḥ || oṃ aiṃ varṇinyai namaḥ iti mantraḥ = mantra formula (bījas/mantras kept byte-exact)"
+    },
+    {
+      "lemma": "varṇinī",
+      "morph": "f.nom.sg",
+      "grounds": "varṇinī = varṇinī"
+    },
+    {
+      "lemma": "tārā+vāc",
+      "morph": "f.ins.du + f.ins.du (dvandva compound)",
+      "grounds": "tāra+vāgbhyāṃ = with-tāra-and-vāc"
+    },
+    {
+      "lemma": "tad+pārśva",
+      "morph": "pron.base + n.loc.du (tatpuruṣa compound)",
+      "grounds": "tat+pārśvayoḥ = at-their-two-sides"
+    },
+    {
+      "lemma": "yaj",
+      "morph": "3sg.opt.act √yaj",
+      "grounds": "yajet = one-should-worship"
+    }
+  ]
+}

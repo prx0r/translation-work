@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p363-v9051
-previous-karma+bound(prākkarmmapratibaddhā) even(api) by-fear-of-Vaiṣṇavī(vaiṣṇavītrāsataḥ) but(tu) she(sā)
+[previous+karma+bound+even](prākkarmmapratibaddhāpi) [vaiṣṇavī+fear+but](vaiṣṇavītrāsatastu) [she](sā)
 
 ## mukta-m0-p363-v9052
-worshipped(upāsitā) then(tadā) muttered(japtā) Lalitā(lalitā) charming(lalitā) [became-thus-is-supplied(abhūditi śeṣaḥ)] and(ca) she(sā)
+[worshipped](upāsitā) [then](tadā) [chanted](japtā) [lalitā](lalitā) [charming](lalitā) [and](ca) [she](sā) [thus+ellipsis](abhūditi) [remainder](śeṣaḥ)
 
 ## mukta-m0-p363-v9053
-by-force(balātkāreṇa) of-Kāma(kāmasya) having-subdued(vaśīkṛtya) by-whom(yayā) again(punaḥ)
+[by-force](balātkāreṇa) [of-kāma](kāmasya) [having-subjugated](vaśīkṛtya) [by-whom](yayā) [again](punaḥ)
 
 ## mukta-m0-p363-v9054
-with-this-mantra(mantreṇa) this(anena) one-should-offer(juhuyāt) that-respective-rite(tattatkarmma) succeeds(prasiddhyati)
+[by-mantra+by-this](mantreṇānena) [one-should-offer-oblation](juhuyāt) [that+that+rite](tattatkarmma) [succeeds](prasiddhyati)
 
 ## mukta-m0-p363-v9055
-in-killing(māraṇa) and-uprooting(uccāṭane) and(ca) also(api) not(na) to-be-employed(prayojyā) ever(kadācana)
+[in-killing+in-uprooting](māraṇoccāṭane) [and](ca) [also](api) [not](na) [to-be-employed](prayojyā) [ever](kadācana)
 
 ## mukta-m0-p363-v9056
-aiṃ-lauṃ-ṭhaṃ-ṭhaṃ-ṭham-thus(aiṃlauṃṭhaṃṭhaṃṭhamiti) ending-with-huṃ-svāhā(huṃsvāhāntaḥ) eight-syllabled(aṣṭākṣaraḥ) mantra(manuḥ)
+[aiṃlauṃṭhaṃṭhaṃṭhamiti](aiṃlauṃṭhaṃṭhaṃṭhamiti) [huṃ+svāhā+ending](huṃsvāhāntoṣṭākṣaro) [mantra](manuḥ)
 
 ## mukta-m0-p363-v9057
-of-Vārāhī(vārāhyā) here(atra) six-limbs(ṣaḍaṅgāni) in-order(kramāt) with-two-two-bindu-earth?(vidvīndubhū?kabhiḥ)
+[of-vārāhī+here](vārāhyatra) [six+limbs](ṣaḍaṅgāni) [in-order](kramād) [by-two+two+bindu+earth+?+syllables](vidvīndubhū?kabhiḥ)
 
 ## mukta-m0-p363-v9058
-holding(dadhānā) goad(aṃkuśaṃ) noose(pāśaṃ) hammer(mudgaraṃ) spear(śaktim) indeed(eva) and(ca)
+[bearing](dadhānāmaṃkuśaṃ) [goad](aṃkuśaṃ) [noose](pāśaṃ) [hammer](mudgaraṃ) [spear](śaktimeva) [indeed](ca)
 
 ## mukta-m0-p363-v9059
-six-limbs(aṅgaṣaṭka) guardians-of-directions(diśādhīśa) weapons(āyudhāni) thus(iti) three-envelopes(āvṛtitrayam)
+[limb+six+direction+lords+weapons](aṅgaṣaṭkadiśādhīśāyudhānītyāvṛtitrayam) [thus](iti) [envelope+triad](āvṛtitrayam)
 
 ## mukta-m0-p363-v9060
-with-myrobalan-fruits(dhātrīphalaiḥ) with-bhṛṅgarāja(bhṛṅgarājaiḥ) with-kaśa-grass(kaśaiḥ) and(ca) also(api) ten-hundred(daśāśataḥ)
+[with-dhātrī+fruits](dhātrīphalair) [with-bhṛṅgarāja](bhṛṅgarājaiḥ) [with-kuśa-grass](kaśaiścāpi) [and+also](ca+api) [ten+hundred-times](daśāśataḥ)
 
 ## mukta-m0-p363-v9061
-thus(evaṃ) accomplished-mantra(siddhamanuḥ) practitioner(mantrī) rites(prayogān) to-perform(karttum) is-fit(arhati)
+[thus](evaṃ) [accomplished+mantra](siddhamanur) [mantrin](mantrī) [applications](prayogān) [to-perform](karttumarhati) [is-fit](arhati)
 
 ## mukta-m0-p363-v9062
-with-hammer(mudgareṇa) striking(ghnatīṃ) on-head(mūrdhni) her(tāṃ) remembering(smaran) ten-thousand(ayutaṃ) one-should-mutter(japet)
+[with-hammer](mudgareṇa) [striking](ghnatīṃ) [on-head](mūrdhni) [her](tāṃ) [remembering](smarann) [ten-thousand](ayutaṃ) [one-should-chant](japet)
 
 ## mukta-m0-p363-v9063
-in-well(vāpī) pond(kapa) tank(taḍāga) etc.(ādau) of-that-water(tatpānīyasya) from-drinking(pānataḥ)
+[in-well+pond+tank+etc.](vāpīkapataḍāgādau) [of-that+water](tatpānīyasya) [by-drinking](pānataḥ)
 
 ## mukta-m0-p363-v9064
-place(sthānaṃ) having-abandoned(tyaktvā) and(ca) they-go(gacchanti) not(na) here(atra) to-be-made(kāryyā) consideration(vicāraṇā)
+[place](sthānaṃ) [having-abandoned](tyaktvā) [and](ca) [they-go](gacchanti) [not+here](nātra) [to-be-done](kāryyā) [consideration](vicāraṇā)
 
 ## mukta-m0-p363-v9065
-oṃ(oṃ) aiṃ(aiṃ) glauṃ(glauṃ) aiṃ(aiṃ) namaḥ(namaḥ) and(ca) having-said(uktvā) then(tataḥ) bhagavatī(bhagavatī) thus(iti) and(ca)
+[oṃ](oṃ) [aiṃ](aiṃ) [glauṃ](glauṃ) [aiṃ](aiṃ) [namaḥ+having-said](namaścoktvā) [then](tato) [bhagavati+thus](bhagavatīti) [and](ca)
 
 ## mukta-m0-p363-v9066
-glauṃ(glauṃ) aiṃ(aiṃ) andhe(andhe) andhini(andhini) thus(iti) namaḥ(namaḥ) rundhe(rundhe) and(ca) rundhini(rundhini)
+[glauṃ](glauṃ) [aiṃ](aiṃ) [andhe](andhe) [andhini+thus](andhinīti) [namaḥ](namo) [rundhe](rundhe) [and](ca) [rundhini](rundhini)
 
 ## mukta-m0-p363-v9067
-namaḥ(namaḥ) stambhe(stambhe) stambhini(stambhini) thus(iti) namaḥ(namaḥ) aiṃ-glauṃ(aiṃglauṃ) and(ca) seed-of-speech(vāgbhavam)
+[namaḥ](namaḥ) [stambhe](stambhe) [stambhini+thus](stambhinīti) [namaḥ](nama) [aiṃglauṃ](aiṃglauṃ) [and](ca) [speech-seed](vāgbhavam)
 
 ## mukta-m0-p363-v9068
-mind(citta) eye(cakṣuḥ) mouth(mukha) throat(gala) tongue(jihvā) paralysis(stambhaṃ) make(kuru) twice(dvayam)
+[mind+eye+mouth+throat+tongue+paralysis](cittacakṣurmukhagalajihvāstambhaṃ) [do+twice](kurudvayam)
 
 ## mukta-m0-p363-v9069
-huṃ-phaṭ-svāhā-thus(huṃphaṭsvāheti) mantra(mantre) this(ayaṃ) of-four-eleven-syllables(vedarudrākṣaraḥ) is-known(smṛtaḥ)
+[huṃphaṭsvāhā+thus](huṃphaṭsvāheti) [mantra+this](mantroyaṃ) [veda+rudra+syllabled](vedarudrākṣaraḥ) [is-remembered](smṛtaḥ)
 
 ## mukta-m0-p363-v9070
-of-Vārāhī(vārāhyasya) six-limbs(ṣaḍaṅgāni) Vārttālī(vārttālī) heart(hṛdayaṃ) is-known(smṛtam)
+[of-vārāhī](vārāhyasya) [six+limbs](ṣaḍaṅgāni) [vārttālī](vārttālī) [heart](hṛdayaṃ) [is-remembered](smṛtam)
 
 ## mukta-m0-p363-v9071
-andhe(andhe) andhini(andhini) armour(varmma) said(uktam) rundhe(rundhe) rundhini(rundhini) eyes(netrakam)
+[andhe](andhe) [andhini](andhini) [armor+said](varmmoktaṃ) [rundhe](rundhe) [rundhini](rundhini) [eye](netrakam)
 
 ## mukta-m0-p363-v9072
-on-pericarp-of-red-lotus(raktābjakarṇikāyām) but(tu) seated-on-corpse-seat(śavāsanasamāsthitām)
+[red+lotus+pericarp+on](raktābjakarṇikāyāntu) [corpse+seat+seated](śavāsanasamāsthitām)
 
 ## mukta-m0-p363-v9073
-fearlessness(abhayaṃ) club(musalam) and(ca) also(api) fruit(phalam) and(ca) also(api) boon(varam) likewise(tathā)
+[fearlessness](abhayaṃ) [club](musalañcāpi) [fruit](phalañcāpi) [and](ca) [boon](varantathā) [likewise](tathā)
 
 ## mukta-m0-p363-v9074
-one-should-mutter(japet) mantra(mantraṃ) thousands(sahasrāṇi) with-bandhūka-flowers(bandhūkakusumaiḥ) with-sesame(tilaiḥ)
+[one-should-chant+mantra](japenmantraṃ) [thousands](sahasrāṇi) [with-bandhūka+flowers](bandhūkakusumaistilaiḥ) [with-sesame](tilaiḥ)
 
 ## mukta-m0-p363-v9075
-on-seat(pīṭhe) made-of-gold(svarṇamaye) of-silver(raupye) of-copper(tāmre) of-birch-bark(bhūrjje) or(atha) of-water(vāruṇe)
+[on-seat](pīṭhe) [golden+made](svarṇamaye) [silver](raupye) [copper](tāmre) [birch-bark](bhūrjjetha) [or+watery](vāruṇe)
