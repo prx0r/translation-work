@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p176-v4376
-then-i (athāhaṃ) your (tava) goddess (deveśi) letters (varṇānāṃ) i-speak (vacmi) indeed (vai) mantras (manūn)
+[now](atha) [I](ahaṃ) [your](tava) [O-goddess](deveśi) [of-syllables](varṇānāṃ) [speak](vacmi) [indeed](vai) [mantras](manūn)
 
 ## mukta-m0-p176-v4377
-by-which (yena) knowledge-only (vijñānamātreṇa) mantra-practitioner (māntrikaḥ) adept (sādhako) becomes (bhavet)
+[by-which](yena) [knowledge+mere](vijñāna+mātreṇa) [mantrin](māntrikaḥ) [practitioner](sādhakaḥ) [may-become](bhavet)
 
 ## mukta-m0-p176-v4378
-nine-planet-mantra-extraction-treasury-named (navagrahamantroddhārakośākhyānaṃ) fourth (caturthaḥ) kalpa (kalpaḥ)
+[nine-planet+mantra+extraction+treasury+narration](navagraha+mantra+uddhāra+kośa+ākhyānaṃ) [fourth](caturthaḥ) [chapter](kalpaḥ)
 
 ## mukta-m0-p176-v4379
-pleased (prasanno) you-are (’si) great-fortunate (mahābhāgin) in-us (asmāsu) by-compassion (kṛpayā) lord (prabho)
+[pleased](prasanno) [you-are](asi) [O-fortunate-one](mahābhāginn) [toward-us](asmāsu) [with-compassion](kṛpayā) [O-lord](prabho)
 
 ## mukta-m0-p176-v4380
-letters (varṇānāṃ) to-hear (śrotum) we-desire (icchāmo) mantra-treasuries (mantrakośāni) and (ca) we (vayam)
+[of-syllables](varṇānāṃ) [to-hear](śrotum) [we-wish](icchāmo) [mantra+treasuries](mantra+kośāni) [and](ca) [we](vayam)
 
 ## mukta-m0-p176-v4381
-letters (varṇānāṃ) mantra-treasury (mantrakośaṃ) and (ca) issued (niḥsṛtaṃ) from-tripura's-mouth (tripurāmukhāt)
+[of-syllables](varṇānāṃ) [mantra+treasury](mantra+kośaṃ) [and](ca) [issued-forth](niḥsṛtaṃ) [from-Tripurā+mouth](tripurā+mukhāt)
 
 ## mukta-m0-p176-v4382
-sages (munīnāṃ) indicated (sūcitaṃ) which (yat) and (ca) by-dakṣiṇāmūrti (dakṣiṇāmūrtinā) formerly (purā)
+[of-sages](munīnāṃ) [indicated](sūcitaṃ) [and-which](yat) [and](ca) [by-Dakṣiṇāmūrti](dakṣiṇā+mūrtinā) [formerly](purā)
 
 ## mukta-m0-p176-v4383
-mental (mānasaṃ) and (ca) mind-seed (manobījaṃ) of-pitāmaha (paitāmaham) thus (iti) remembered (smṛtam)
+[mental](mānasaṃ) [and](ca) [mind+seed](mano+bījaṃ) [of-Brahmā](paitāmaham) [thus](iti) [remembered](smṛtam)
 
 ## mukta-m0-p176-v4384
-void (śūnyaṃ) sky (kham) space (ambaraṃ) ether (vyoma) vaiṣṇava (vaiṣṇavaṃ) and-thus (ceti) spoken (bhāṣitam)
+[void](śūnyaṃ) [ether](kham) [sky](ambaraṃ) [space](vyoma) [of-Viṣṇu](vaiṣṇavaṃ) [and](ca) [thus](iti) [spoken](bhāṣitam)
 
 ## mukta-m0-p176-v4385
-indra-seed (indrabījaṃ) and (tathā) jiṣṇu (jiṣṇur) marutvān (marutvān) maghamā (maghamā) hari (hariḥ)
+[Indra+seed](indra+bījaṃ) [likewise](tathā) [conqueror](jiṣṇur) [possessing-Maruts](marutvān) [Maghavān](maghamā) [Hari](hariḥ)
 
 ## mukta-m0-p176-v4386
-by-me (mayā) spoken (proktaṃ) goddess (sureśāni) in-treatise (granthe) bhairava-tantra (bhairavatantrake)
+[by-me](mayā) [declared](proktaṃ) [O-goddess-of-gods](sureśāni) [in-text](granthe) [in-Bhairava-tantra](bhairava+tantrake)
 
 ## mukta-m0-p176-v4387
-aindra (aindraṃ) likewise (tathaiva) to-be-known (vijñeyam) of-ī (īkārasya) falsehood (anṛtaṃ) supreme (param)
+[of-Indra](aindraṃ) [likewise](tathaiva) [to-be-known](vijñeyam) [of-ī-syllable](īkārasya) [untrue](anṛtaṃ) [supreme](param)
 
 ## mukta-m0-p176-v4388
-root-seed (rutibījaṃ) and (tathā) nandā (nandā) vāmana (vāmanaṃ) vītu-seed (vītubījakam)
+[ruti+seed](ruti+bījaṃ) [likewise](tathā) [Nandā](nandā) [Vāmana](vāmanaṃ) [vītu+seed](vītubījakam)
 
 ## mukta-m0-p176-v4389
-by-me-told (mayākhyātāni) in-all (sarvasve) of-kubjikā (kubjikāyāḥ) goddess (sureśvari)
+[by-me](mayā) [declared](ākhyātāni) [in-all](sarvasve) [of-Kubjikā](kubjikāyāḥ) [O-goddess-of-gods](sureśvari)
 
 ## mukta-m0-p176-v4390
-aindava-falsehood-another (aindavamanṛtamanyad) of-ū (ūkārasya) goddess (sureśvari)
+[lunar](aindavam) [untrue](anṛtam) [other](anyad) [of-ū-syllable](ūkārasya) [O-goddess-of-gods](sureśvari)
 
 ## mukta-m0-p176-v4391
-of-ṛ (ṛkārasya) in-this-secret (rahasye'smin) of-kālī (kālyāḥ) spoken (proktaṃ) by-me (mayā) śive (śive)
+[of-ṛ-syllable](ṛkārasya) [in-this+secret](rahasye+smin) [of-Kālī](kālyāḥ) [declared](proktaṃ) [by-me](mayā) [O-Śivā](śive)
 
 ## mukta-m0-p176-v4392
-of-ṝ (ṝkārasya) falsehood-another (anṛtamanyad) spoken (bhāṣitaṃ) in-viṣṇuyāmala (viṣṇuyāmale)
+[of-ṝ-syllable](ṝkārasya) [untrue](anṛtam) [other](anyad) [spoken](bhāṣitaṃ) [in-Viṣṇu-yāmala](viṣṇu+yāmale)
 
 ## mukta-m0-p176-v4393
-manifest-seed (vyaktabījaṃ) world-seed (jagadbījaṃ) gaurva (gaurvaṃ) spoken (proktaṃ) by-me (mayā) śive (śive)
+[manifest+seed](vyakta+bījaṃ) [world+seed](jagad+bījaṃ) [gaurva](gaurvaṃ) [declared](proktaṃ) [by-me](mayā) [O-Śivā](śive)
 
 ## mukta-m0-p176-v4394
-gaṅgā-seed (gaṅgābījaṃ) celestial-river (surnadī) and (ca) heaven-pool (nākavāpī) and (ca) svardhunī (svardhunī)
+[Gaṅgā+seed](gaṅgā+bījaṃ) [celestial-river](surnadī) [and](ca) [heaven+well](nāka+vāpī) [and](ca) [flowing-from-heaven](svardhunī)
 
 ## mukta-m0-p176-v4395
-in-treatise (granthe) and (ca) self-composed (svakṛtau) goddess (devi) mantra-sāgara-tantra (mantrasāgaratantrake)
+[in-text](granthe) [and](ca) [self+composed](sva+kṛtau) [O-goddess](devi) [in-Mantrasāgara-tantra](mantra+sāgara+tantrake)
 
 ## mukta-m0-p176-v4396
-creeper-seed (vallībījaṃ) and (ca) vārākī (vārākī) and (ca) another-falsehood (anyadanṛtam) one-should-speak (āvadet)
+[creeper+seed](vallī+bījaṃ) [and](ca) [Vārākī](vārākī) [and](ca) [other](anyad) [untrue](anṛtam) [one-should-state](āvadet)
 
 ## mukta-m0-p176-v4397
-in-kulacūḍāmaṇi (kulacūḍāmaṇau) treatise (granthe) composed (racite) by-best-mantra-practitioners (māntrikottamaiḥ)
+[in-Kulacūḍāmaṇi](kula+cūḍāmaṇau) [in-text](granthe) [composed](racite) [by-mantrin+best](māntrika+uttamaiḥ)
 
 ## mukta-m0-p176-v4398
-caṇḍa (caṇḍo) also (’pi) skin (carma) garment (vasanaṃ) inclination (vāsanā) and (ca) likewise (tathaiva) and (ca)
+[Caṇḍa](caṇḍo) [also](api) [skin](carma) [garment](vasanaṃ) [impression](vāsanā) [and](ca) [likewise](tathaiva) [and](ca)
 
 ## mukta-m0-p176-v4399
-rāhu (rāhu) known (khyātaṃ) by-me (mayā) goddess (devi) of-ai (aikārasya) falsehood (anṛtaṃ) supreme (param)
+[Rāhu](rāhu) [known](khyātaṃ) [by-me](mayā) [O-goddess](devi) [of-ai-syllable](aikārasya) [untrue](anṛtaṃ) [supreme](param)
 
 ## mukta-m0-p176-v4400
-praṇava (praṇavaṃ) and (ca) then-tāra (tatastāraṃ) three-eyed (tryakṣaṃ) tom-also (tomāpi) tryambaka (tryambakaḥ)
+[praṇava](praṇavaṃ) [and](ca) [then](tatas) [tāra](tāraṃ) [three-eyed](tryakṣaṃ) [tomā](tomā) [also](api) [three-eyed-one](tryambakaḥ)

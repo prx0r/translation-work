@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p168-v4176
-[root](mūlaṃ) [and](ca) [instructed](śikṣito) [of-goddess](devyāḥ) [pure-nectar-form](śuddhamamṛtarūpaṇam)
+[root](mūlaṃ) [and](ca) [own-trident](svaśūlaṃ) [taught](śikṣito) [by-the-goddess](devyāḥ) [pure](śuddha) [immortal-form](amṛta+rūpaṇam)
 
 ## mukta-m0-p168-v4177
-[then](tadā) [from](prabhṛti) [that-mantra](tanmantraṃ) [meditating](dhyāyan) [hymn](stotraṃ) [chanting](japan) [in-heart](hṛdi)
+[then](tadā) [beginning-from](prabhṛti) [that-mantra](tat+mantraṃ) [meditating](dhyāyan) [hymn](stotraṃ) [reciting](japan) [in-the-heart](hṛdi)
 
 ## mukta-m0-p168-v4178
-[by-that-grace-alone](tadanugrahamātreṇa) [he](sa) [sage-lord-worshipped](munīśvarapūjitaḥ)
+[by-her-grace-alone](tat+anugraha+mātreṇa) [he](sa) [honored-by-lord-of-sages](munīśvara+pūjitaḥ)
 
 ## mukta-m0-p168-v4179
-[other](anyān) [various](nānāvidhān) [texts](granthān) [seeing](prekṣya) [world-three-worshipped](trailokyapūjite)
+[other](anyān) [of-various-kinds](nānā+vidhān) [texts](granthān) [having-examined](prekṣya) [O-one-worshipped-in-three-worlds](trailokya+pūjite)
 
 ## mukta-m0-p168-v4180
-[text-extraction-treasury-named](granthamuddhārakośākhyaṃ) [all-agamas-determined](sarvāgamaviniścitam)
+[text](granthaṃ) [called-extraction-treasury](uddhārakośa+ākhyaṃ) [ascertained-by-all-āgamas](sarva+āgama+viniścitam)
 
 ## mukta-m0-p168-v4181
-[to-hear](śrotum) [extraction-treasury-named](uddhārakośākhyaṃ) [various-agamas-determined](nānāgamaviniścitam)
+[to-hear](śrotum) [called-extraction-treasury](uddhārakośa+ākhyaṃ) [ascertained-by-various-āgamas](nānā+āgama+viniścitam)
 
 ## mukta-m0-p168-v4182
-[of-goddesses](devīnāṃ) [ten-vidyas](daśavidyānāṃ) [mantra-extraction](mantroddhāram) [unsurpassed](anuttamam)
+[of-the-goddesses](devīnāṃ) [of-the-ten-vidyās](daśa+vidyānāṃ) [extraction-of-mantras](mantra+uddhāram) [unsurpassed](anuttamam)
 
 ## mukta-m0-p168-v4183
-[all-texts-first-worshipped](sarvagranthādyapūjyaṃ) [ca](ca) [that-hear](tacchṛṇuṣva) [i-speak](bravīmyaham)
+[worshipped-by-all-texts-etc.](sarva+grantha+ādya+pūjyaṃ) [and](ca) [that](tat) [hear](śṛṇuṣva) [I-speak](bravīmi+aham)
 
 ## mukta-m0-p168-v4184
-[said](abravīd) [dakshinamurti](dakṣiṇāmūrtiḥ) [disciple-named-akshobhya](śiṣyamakṣobhyanāmakam)
+[spoke](abravīd) [Dakṣiṇāmūrti](dakṣiṇāmūrtiḥ) [to-the-disciple](śiṣyam) [named-Akṣobhya](akṣobhya+nāmakam) [variant:](kh:) [pupil](chātraṃ)
 
 ## mukta-m0-p168-v4185
-[secret](rahasyaṃ) [of-all-worlds](sarvalokānāṃ) [of-gods](devānām) [also](api) [rare](durlabham)
+[secret](rahasyaṃ) [of-all-worlds](sarva+lokānāṃ) [even-for-gods](devānām+api) [hard-to-obtain](durlabham)
 
 ## mukta-m0-p168-v4186
-[sage-lord](munīndro) [dakshinamurti](dakṣiṇāmūrtir) [spoke](abravīd) [text-supreme](granthamuttamam)
+[lord-of-sages](munīndro) [Dakṣiṇāmūrti](dakṣiṇāmūrtiḥ) [spoke](abravīd) [the-supreme-text](grantham+uttamam)
 
 ## mukta-m0-p168-v4187
-[of-gods](devānāṃ) [of-deities](devatānāṃ) [ca](ca) [that-hear](tacchṛṇuṣva) [i-speak](bravīmyaham)
+[of-gods](devānāṃ) [and-of-deities](devatānāṃ) [and](ca) [that](tat) [hear](śṛṇuṣva) [I-speak](bravīmi+aham)
 
 ## mukta-m0-p168-v4188
-[full](pūrṇaḥ)
+[complete](pūrṇaḥ)
 
 ## mukta-m0-p168-v4189
-[power](śaktiḥ) [pranava-lajje](praṇavalajje) [tu](tu) [lakshmi](lakṣmīḥ) [shakti-etc](śaktyādikaṃ) [then](tataḥ)
+[śakti](śaktiḥ) [praṇava-and-lajjā](praṇava+lajje) [indeed](tu) [Lakṣmī](lakṣmīḥ) [beginning-with-śakti](śakti+ādikaṃ) [then](tataḥ)
 
 ## mukta-m0-p168-v4190
-[trikuta](trikūṭā) [whole](sakalā) [bhadre](bhadre) [vidya-this](vidyeyaṃ) [sixteen-syllabled](ṣoḍaśākṣarī)
+[(three-peaked](trikūṭā) [complete](sakalā) [O-fair-one](bhadre) [this-vidyā](vidyā+iyam) [of-sixteen-syllables)](ṣoḍaśa+akṣarī)
 
 ## mukta-m0-p168-v4191
-[sharat](śarat) [three-eyed](tryakṣaṃ) [thus](tathā) [kshama](kṣāmā) [lakshmi](lakṣmīḥ) [shakti-etc](śaktyādikaṃ) [thus](tathā)
+[autumn](śarat) [three-eyed](tryakṣaṃ) [likewise](tathā) [earth](kṣāmā) [Lakṣmī](lakṣmīḥ) [beginning-with-śakti](śakti+ādikaṃ) [likewise](tathā) [variant:](kh:) [then](tataḥ)
 
 ## mukta-m0-p168-v4192
-[of-lakshmi-seeds](lakṣmībījāni) [seven-indeed](saptaiva) [artificial](kṛtrimāṇi) [others](aparāṇi) [tu](tu)
+[seeds-of-Lakṣmī](lakṣmī+bījāni) [seven-only](sapta+eva) [artificial](kṛtrimāṇi) [and-others](aparāṇi) [indeed](tu)
 
 ## mukta-m0-p168-v4193
-[of-shri-seeds](śriyo) [bījāni](bījāni) [five-indeed](pañcaiva) [untrue](anṛtāni) [others](aparāṇi) [tu](tu)
+[seeds-of-Śrī](śriyaḥ) [bījāni](bījāni) [five-only](pañca+eva) [thus](amṛtāni) [and-others](aparāṇi) [indeed](tu)
 
 ## mukta-m0-p168-v4194
-[all](samastā) [api](api) [thus](tathā) [kshama](kṣāmā) [goddess-pranava-vira](devīpraṇavavīrakau)
+[all](samastā) [also](api) [likewise](tathā) [earth](kṣāmā) [goddess-praṇava-and-vīra](devī+praṇava+vīrakau)
 
 ## mukta-m0-p168-v4195
-[shiva-seed](śivabījaṃ) [maheshani](maheśāni) [shame-seed](lajjābījam) [called](udāhṛtam)
+[seed-of-Śiva](śiva+bījaṃ) [O-great-goddess](maheśāni) [seed-of-lajjā](lajjā+bījam) [is-declared](udāhṛtam)
 
 ## mukta-m0-p168-v4196
-[mara](māraḥ) [pradyumna-kandarpa](pradyumnakandarpāv) [untrue](anṛtāni) [others](aparāṇi) [tu](tu)
+[Māra](māraḥ) [Pradyumna-and-Kandarpa](pradyumna+kandarpa) [immortal](avanṛtāni) [and-others](aparāṇi) [indeed](tu)
 
 ## mukta-m0-p168-v4197
-[moon](candro) [api](api) [leather-garment](carmavasanaṃ) [vasana](vāsanā) [api](api) [thus](tathaiva) [ca](ca)
+[moon](candraḥ) [also](api) [skin-garment](carma+vasanaṃ) [variant:](kh:) [fierce](caṇḍaḥ) [also](api) [armor](varma) [desire](vāsanā) [also](api) [likewise](tathā+eva) [and](ca)
 
 ## mukta-m0-p168-v4198
-[of-power-seeds](śaktibījāni) [four](catvāri) [artificial](kṛtrimāṇi) [others](aparāṇi) [tu](tu)
+[seeds-of-śakti](śakti+bījāni) [four](catvāri) [artificial](kṛtrimāṇi) [and-others](aparāṇi) [indeed](tu)
 
 ## mukta-m0-p168-v4199
-[fear](trāsaḥ) [tāraka](tārakaḥ) [these](etāni) [seeds](bījāni) [of-pranava](praṇavasya) [ca](ca)
+[trāsa](trāsaḥ) [tāraka](tāraka) [these](etāni) [seeds](bījāni) [of-praṇava](praṇavasya) [and](ca)
 
 ## mukta-m0-p168-v4200
-[reversed](viparītatayā) [spoken](proktā) [vidya](vidyā) [shri-sixteen-syllabled](śrīṣoḍaśākṣarī)
+[in-reverse-order](viparīta+tayā) [declared](proktā) [vidyā](vidyā) [śrī-ṣoḍaśākṣarī](śrī+ṣoḍaśa+akṣarī)
