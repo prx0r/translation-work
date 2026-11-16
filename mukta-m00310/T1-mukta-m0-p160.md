@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p160-v3976
-[satisfaction-limit](santoṣasīmā) [wealth](saṃpattiḥ) [golden](śātakaumbhī) [thus](tathā) [radiance](dyutiḥ)
+[contentment+limit](santoṣa+sīmā) [prosperity](saṃpattiḥ) [golden](śātakaumbhī) [and](tathā) [radiance](dyutiḥ)
 
 ## mukta-m0-p160-v3977
-[universal-king-glory](sārvabhaumanṛpaśrīḥ) [and](ca) [imperial-course](sāmrājyagatiḥ) [ambikā](ambikā)
+[universal-king+king+fortune+and](sārvabhauma+nṛpa+śrīś+ca) [sovereignty+state](sāmrājya+gatiḥ) [ambikā](ambikā)
 
 ## mukta-m0-p160-v3978
-[stage-flowing](raṅgasravantī) [tasteful](rasikā) [principal](pradhānā) [essence-formed](rasarūpiṇī)
+[stage+stream](raṅga+sravantī) [connoisseur](rasikā) [(100)]((100)) [chief](pradhānā) [rasa+formed](rasa+rūpiṇī)
 
 ## mukta-m0-p160-v3979
-[unceasingly-virtue-attached](nirantaraguṇāsaktā) [power](śaktiḥ) [nidhuvana-natured](nidhuvanātmikā)
+[unbroken+quality+attached](nirantara+guṇa+āsaktā) [power](śaktiḥ) [embrace+essenced](nidhuvana+ātmikā)
 
 ## mukta-m0-p160-v3980
-[fortunate](subhagā) [enjoyer](bhoginī) [enjoyable](bhogyā) [fortune-giving](bhāgyadā) [fortunate](subhagā) [bhaga](bhagā)
+[fortunate](subhagā) [enjoyer](bhoginī) [enjoyable](bhogyā) [fortune+giver](bhāgya+dā) [fortunate](subhagā) [fortune](bhagā)
 
 ## mukta-m0-p160-v3981
-[bhaga-formed](bhagarūpā) [bhaga-filled](bhagamayī) [bhaga-instrument](bhagayantrā) [bhaga-supreme](bhagottamā)
+[fortune+formed](bhaga+rūpā) [fortune+full](bhaga+mayī) [fortune+instrument](bhaga+yantrā) [fortune+best](bhaga+uttamā)
 
 ## mukta-m0-p160-v3982
-[kula-kundalaya](kulakuṇḍālayā) [subtle](sūkṣmā) [jiva-atman](jīvātmā) [linga-formed](liṅgarūpiṇī)
+[clan+coil+abiding](kulakuṇḍālayā) [subtle](sūkṣmā) [life+self](jīvātmā) [variant]([g: jīvatsuliṅga]) [mark+formed](liṅga+rūpiṇī)
 
 ## mukta-m0-p160-v3983
-[desirous](sotsukā) [kamala-delight](kamalānandā) [consciousness-being](cidbhāvā) [atman-course](ātmagatiḥ) [auspicious](śivā)
+[eager](sotsukā) [lotus+bliss](kamala+ānandā) [consciousness+state+self+movement](cid+bhāvā''tma+gatiḥ) [auspicious](śivā)
 
 ## mukta-m0-p160-v3984
-[bell-million-sound](ghaṇṭākoṭiravā) [sound](rāvā) [sun-disk-risen](ravibimbotthitā) [wonderful](adbhutā)
+[bell+peak+sound](ghaṇṭā+koṭi+ravā) [roar](rāvā) [sun+disk+risen](ravi+bimba+utthitā) [wonderful](adbhutā) [variant]([g: drutā])
 
 ## mukta-m0-p160-v3985
-[bee-sound](bhṛṅgārāvā) [bamboo-course](vaṃśagatiḥ) [instrument](vāditrā) [drum-sound](murajadhvaniḥ)
+[bee+roar](bhṛṅgā+rāvā) [bamboo+movement](vaṃśa+gatiḥ) [instrument](vāditrā) [drum+sound](muraja+dhvaniḥ)
 
 ## mukta-m0-p160-v3986
-[root-play-delighting](mūlakelīratā) [svadhisthana](svādhiṣṭhānā) [fourth-residing](turyanivāsinī)
+[root+sport+delighted](mūla+kelī+ratā) [variant]([k: muktakeśī]) [svādhiṣṭhāna](svādhiṣṭhānā) [fourth+dwelling](turya+nivāsinī)
 
 ## mukta-m0-p160-v3987
-[ajna-lotus-seated](ājñācakrābjasaṃsthā) [and](ca) [shining](sphurantī) [skillful](nipuṇā) [threefold](trivṛt)
+[command+wheel+lotus+seated](ājñā+cakra+abja+saṃsthā) [and](ca) [throbbing](sphurantī) [skilled](nipuṇā) [threefold](trivṛt) [variant]([kh: trayī])
 
 ## mukta-m0-p160-v3988
-[ruby-red-hue](padmarāgāruṇacchāyā) [eternal](nityā) [delight-filled](āhlādamayī) [radiance](prabhā)
+[padmarāga+red+color](padma+rāga+aruṇa+chāyā) [eternal+bliss+full](nityā''hlāda+mayī) [radiance](prabhā)
 
 ## mukta-m0-p160-v3989
-[beloved-limb-contact-joyful](kāntāṅgasaṅgamuditā) [nectar-sweetness-gathered](sudhāmādhuryasaṃbhṛtā)
+[beloved+limb+union+joyed](kānta+aṅga+saṅga+mudita) [nectar+sweetness+filled](sudhā+mādhurya+saṃbhṛtā)
 
 ## mukta-m0-p160-v3990
-[flowing-nectar-drenched](sravatpīyūṣasaṃsiktā) [red-ocean-increasing](raktārṇavavivardhinī)
+[flowing+nectar+sprinkled](sravat+pīyūṣa+saṃsiktā) [red+ocean+increasing](rakta+arṇava+vivardhinī)
 
 ## mukta-m0-p160-v3991
-[welfare-hearing](śreyaḥśrutiḥ) [and](ca) [each-one-hair-tip-fruit-row](pratyekānavakeśiphalāvalī)
+[good+hearing](śreyaḥ+śrutiḥ) [and](ca) [each+unbroken-hair+fruit+row](pratyeka+anavakeśi+phala+āvalī)
 
 ## mukta-m0-p160-v3992
-[self-born](svayaṃbhūḥ) [own-beloved](svapriyā) [own](svīyā) [own](svakīyā) [people-mother](janamātṛkā)
+[self-born](svayaṃbhūḥ) [own+beloved](sva+priyā) [own](svīyā) [one’s-own](svakīyā) [people+mother](jana+mātṛkā)
 
 ## mukta-m0-p160-v3993
-[auspicious-victorious](maṅgalojjayinī) [honorable](mānyā) [all-auspicious-accompanying](sarvamaṅgalasaṅginī)
+[auspicious+victorious](maṅgala+ujjayinī) [honored](mānyā) [all+auspicious+accompanied](sarva+maṅgala+saṅginī)
 
 ## mukta-m0-p160-v3994
-[auspicious-creeper](kalyāṇalatikā) [desirable](kāmyā) [bad-deed](kukarmā) [bad-mind](kumatir) [manu](manuḥ)
+[auspicious+creeper](kalyāṇa+latikā) [variant]([kh: lalitā]) [desirable](kāmyā) [bad+action](ku+karma) [bad+mind](ku+matiḥ) [manu](manuḥ)
 
 ## mukta-m0-p160-v3995
-[varuni-drink-joyful](vāruṇīpānamuditā) [wine-anointed-shelter](madirarācitāśrayā)
+[vāruṇī+drink+joyed](vāruṇī+pāna+mudita) [wine+made+abode](madirā+racita+āśrayā) [variant]([k: mandirā])
 
 ## mukta-m0-p160-v3996
-[joyful](muditā) [joyful-glance](muditāpāṅgā) [long-eyed-trembling](daradolitadīrghadṛk)
+[joyed](muditā) [joyed+side-glance](mudita+apāṅgā) [slightly+shaken+long+eye](dara+dolita+dīrgha+dṛk)
 
 ## mukta-m0-p160-v3997
-[good-dwelling](suvāsinī) [plump-limbed](pīnagātrī) [plump-row-breasts](pīnaśreṇipayodharā)
+[well+dressed](su+vāsinī) [full+limbed](pīna+gātrī) [full+row+breasted](pīna+śreṇi+payodharā)
 
 ## mukta-m0-p160-v3998
-[bimba-lipped](bimbādharā) [radiant-faced](dyutimukhā) [coral-excellent-radiance](pravālottamadīdhitiḥ)
+[mirror+lip](bimba+adharā) [radiance+faced](dyuti+mukhā) [coral+best+ray](pravāla+uttama+dīdhitiḥ)
 
 ## mukta-m0-p160-v3999
-[spotless-moon-faced](niṣkalaṅkenduvadanā) [young-moon-crown-shining](bālendumukuṭojjvalā)
+[spotless+moon+faced](niṣkalaṅka+indu+vadanā) [young+moon+crown+bright](bāla+indu+mukuṭa+ujjvalā)
 
 ## mukta-m0-p160-v4000
-[young-moon-umbrella-half](bālacandrātapatrārdhā) [jewel-sun-crowned](maṇisūryakirīṭinī)
+[young+moon+parasol+half](bāla+candra+ātapatra+ardhā) [jewel+sun+crowned](maṇi+sūrya+kirīṭinī)
