@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p12-v276
-[bhaga](bhaga) [upward](ūrdhvaṃ) [upper-lip](ūrdvhoṣṭhaḥ) [desire-form](kāmarūpa) [e-syllable-and](ekāraśca) [triangle](trikoṇakaḥ)
+[vulva](bhaga) [upper](ūrdhvaṃ) [desire-form](kāmarūpa) [e-sound](ekāraḥ) [and](ca) [triangle](trikoṇakaḥ)
 
 ## mukta-m0-p12-v277
-[eight](8) [speech-lord](vāgīśo) [dharma](va(dha)rma) [fear-giving](bhayada) [varmebharada](varmebharada) [ai-syllable](ai-kāraḥ) [tripura-and](tripurastathā)
+[lord-of-speech](vāgīśo) [armor](va(dha)rma) [fear-giver](bhayada) [ai-sound](ai-kāraḥ) [tripura](tripuraḥ) [likewise](tathā)
 
 ## mukta-m0-p12-v278
-[nourishing](āpyāyanī) [mantra-lord](mantranātha) [o-syllable](o-kāro) [naga-named](na(nā)gasaṃjñakaḥ)
+[nourishing](āpyāyanī) [lord-of-mantras](mantranātha) [o-sound](o-kāro) [serpent-named](na(nā)gasaṃjñakaḥ)
 
 ## mukta-m0-p12-v279
-[twelve](12) [below-tooth-gone](adhodantagato) [maya](māyī) [nrisimha-limb-and](nṛsiṃhāṅgaṃ) [au-syllable](tathau-svaraḥ)
+[lower-tooth-gone](adhodantagato) [illusory](māyī) [man-lion-limb](nṛsiṃhāṅgaṃ) [likewise](tathā) [au-sound](au-svaraḥ)
 
 ## mukta-m0-p12-v280
-[anusvara-and](anusvārastathā) [bindu](bindu) [am-kara-and](aṃkāraśca) [head-gone](śirogataḥ)
+[anusvāra](anusvāraḥ) [likewise](tathā) [dot](binduḥ) [aṃ-sound](aṃkāraḥ) [and](ca) [head-gone](śirogataḥ)
 
 ## mukta-m0-p12-v281
-[sixteen](16) [maiden-breast-like](kanyāstananibhaḥ) [creation](sarga) [visarga-and](visargaścāntimasvaraḥ)
+[maiden-breast-like](kanyāstananibhaḥ) [emission](sargo) [visarga](visargaḥ) [and](ca) [final-vowel](antimasvaraḥ)
 
 ## mukta-m0-p12-v282
-[beginning-of-class](vargādirmāyā) [lord-of-gods](deveśaḥ) [mo-yadave](mo yādave) [ka-syllable](ka-kāraḥ) [desire-going](kāmagaḥ) [remembered](smṛtaḥ)
+[class-beginning](vargādiḥ) [illusion](māyā) [lord-of-gods](deveśaḥ) [ka-sound](ka-kāraḥ) [desire-born](kāmagaḥ) [remembered](smṛtaḥ)
 
 ## mukta-m0-p12-v283
-[kaithabha-and](kaiṭabhaścaiva) [bharisca](bhāriśca) [matanga](mātaṅgaḥ) [destruction](saṃhāraḥ) [kha-syllable](khārṇakaḥ) [remembered](smṛtaḥ)
+[Kaiṭabha](kaiṭabhaḥ) [and](ca) [indeed](eva) [Mātaṅga](mātaṅgaḥ) [destruction](saṃhāraḥ) [kha-sound](khārṇakaḥ) [remembered](smṛtaḥ)
 
 ## mukta-m0-p12-v284
-[cow-mouth](gomukho) [elephant-trunk-and](gajakumbhaśca) [ga-syllable](ga-kāraḥ) [lion-named](siṃhasaṃjñakaḥ)
+[cow-faced](gomukho) [elephant-frontal-globe](gajakumbhaḥ) [and](ca) [ga-sound](ga-kāraḥ) [lion-named](siṃhasaṃjñakaḥ)
 
 ## mukta-m0-p12-v285
-[four](4) [dense](ghano) [dense-syllable-and](ghanasvaraścaiva) [gha-syllable](gha-kāro) [nga-beginning](ṅādimaḥ) [remembered](smṛtaḥ)
+[cloud](ghano) [deep-sound](ghanasvaraḥ) [and](ca) [indeed](eva) [gha-sound](gha-kāro) [ṅ-beginning](ṅādimaḥ) [remembered](smṛtaḥ)
 
 ## mukta-m0-p12-v286
-[eunuch-face-and](klībavaktrañca) [bhadresha](bhā(bha)dreśo) [nga-syllable-and](ṅa-kāraścānunāsikaḥ)
+[impotent-face](klībavaktrañ) [and](ca) [lord-of-Bhadra](bhā(bha)dreśo) [ṅ-sound](ṅa-kāraḥ) [and](ca) [nasal](anunāsikaḥ)
 
 ## mukta-m0-p12-v287
-[eight](8) [cittatra-vārī](ci(ttācā)tra-vārī) [flickering-and](cañcalaśca) [ca-syllable](ca-kāraḥ) [remembered-by-wise](saṃsmṛto budhaiḥ)
+[consciousness](ci(ttācā)tra-vārī) [and](ca) [restless](cañcalaḥ) [and](ca) [ca-sound](ca-kāraḥ) [remembered](saṃsmṛto) [by-the-wise](budhaiḥ)
 
 ## mukta-m0-p12-v288
-[three-bindu-and](tribindukastathācārī) [cha-syllable](cha-kāraḥ) [phlegm-named](prekṣa(śleṣma)kābhidhaḥ)
+[three-dot](tribindukaḥ) [likewise](tathā) [wanderer](ācārī) [cha-sound](cha-kāraḥ) [phlegm-named](prekṣa(śleṣma)kābhidhaḥ)
 
 ## mukta-m0-p12-v289
-[twelve](12) [wrist-gone](maṇibandhagato) [left](vāmo) [ja-syllable](ja-kāro) [japana-considered](japa(na)ko mataḥ)
+[wrist-gone](maṇibandhagato) [left](vāmo) [ja-sound](ja-kāro) [muttering](japa(na)ko) [considered](mataḥ)
 
 ## mukta-m0-p12-v290
-[swastika](svasthikaḥ) [fragment-named-and](khaṇḍasaṃjñaśca) [jha-syllable](jha-kāro) [janta-named](jāntasaṃjñakaḥ)
+[svastika](svasthikaḥ) [fragment-named](khaṇḍasaṃjñaḥ) [and](ca) [jha-sound](jha-kāro) [ja-end-named](jāntasaṃjñakaḥ)
 
 ## mukta-m0-p12-v291
-[sixteen](16) [jna-priyo](jñapriyo(ptigo)) [hy-anunasah](hyanunāsaśca) [ña-syllable-and](ña-kāraśca) [stainless](nirañjanaḥ)
+[knowledge-dear](jñapriyo(ptigo)) [and](hi) [nasal](anunāsaḥ) [and](ca) [ña-sound](ña-kāraḥ) [and](ca) [stainless](nirañjanaḥ)
 
 ## mukta-m0-p12-v292
-[elephant-goad-and](gajāṅkuśaśca) [young-moon](bālendu) [amrita-etc-eight-maker](amṛtādyaṣṭakārakaḥ)
+[elephant-goad](gajāṅkuśaḥ) [and](ca) [young-moon](bālenduḥ) [nectar-first](amṛtādyaḥ) [ṭa-sound-maker](ṭakārakaḥ)
 
 ## mukta-m0-p12-v293
-[twenty](20) [daksha-knee-gone](dakṣajānura(ga)taḥ) [steadfast](sthāyī) [ṭha-syllable](ṭha-kāraḥ) [elder](sthaviraḥ) [remembered](smṛtaḥ)
+[right-knee-gone](dakṣajānura(ga)taḥ) [steady](sthāyī) [ṭha-sound](ṭha-kāraḥ) [ancient](sthaviraḥ) [remembered](smṛtaḥ)
 
 ## mukta-m0-p12-v294
-[tiger-foot](vyāghrapādaḥ) [auspicious-foot-and](śubhāṅghriśca) [ḍa-syllable](ḍa-kāro) [bhauaja](bhauajaḥ) [remembered](smṛtaḥ)
+[tiger-foot](vyāghrapādaḥ) [auspicious-foot](śubhāṅghriḥ) [and](ca) [ḍa-sound](ḍa-kāro) [earth-born](bhauajaḥ) [remembered](smṛtaḥ)
 
 ## mukta-m0-p12-v295
-[gift-heir](dāyādo) [finger-root-and](aṅgulimūlañca) [ḍha-and](ḍha-śca) [contraction-maker](saṅkocakārakaḥ)
+[heir](dāyādaḥ) [finger-root](aṅgulimūlañ) [and](ca) [ḍha-sound](ḍha-śca) [contraction-maker](saṅkocakārakaḥ)
 
 ## mukta-m0-p12-v296
-[four](4) [nirvana](nirvāṇa) [three-guna-form](striguṇākāraḥ) [three-line](trirekho) [ṇa](ṇaḥ) [spoken](samīritaḥ)
+[liberation](nirvāṇaḥ) [three-quality-form](triguṇākāraḥ) [three-lined](trirekho) [ṇa-sound](ṇaḥ) [declared](samīritaḥ)
 
 ## mukta-m0-p12-v297
-[sharp-and](tīvraśca) [flickering](taralo) [blue](nīlaḥ) [ta-syllable](ta-kāraḥ) [praised-by-wise](kīrtito budhaiḥ)
+[fierce](tīvraḥ) [and](ca) [trembling](taralo) [blue](nīlaḥ) [ta-sound](ta-kāraḥ) [proclaimed](kīrtito) [by-the-wise](budhaiḥ)
 
 ## mukta-m0-p12-v298
-[eight](8) [sauri-and](sauriścāpi) [wide-eyed](viśālākṣī) [tha-syllable](tha-kāraḥ) [proclaimed](parikīrtitaḥ)
+[Sauri](sauriḥ) [and](ca) [also](api) [wide-eyed](viśālākṣī) [tha-sound](tha-kāraḥ) [proclaimed](parikīrtitaḥ)
 
 ## mukta-m0-p12-v299
-[trident](śūlaḥ) [kubera](kuvero) [giver-and](dātā ca) [da-syllable](da-kāro) [dha-beginning](dhādimaḥ) [remembered](smṛtaḥ)
+[trident](śūlaḥ) [Kubera](kuvero) [giver](dātā) [and](ca) [da-sound](da-kāro) [dha-beginning](dhādimaḥ) [remembered](smṛtaḥ)
 
 ## mukta-m0-p12-v300
-[twelve](12) [dharmesha](dharme(ne)śo) [earth-lord-and](dharaṇīśaśca) [dha-syllable](dha-kāro) [dantima](dāntimo) [considered](mataḥ)
+[lord-of-dharma](dharme(ne)śo) [lord-of-earth](dharaṇīśaḥ) [and](ca) [dha-sound](dha-kāro) [da-end](dāntimo) [considered](mataḥ)
