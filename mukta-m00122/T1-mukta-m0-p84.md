@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p84-v2076
-[in-outer-ones](bāhyeṣu) [also](api) [and](ca) [those](tāḥ) [as-before](prāgvat) [spoken-colors](proktavarṇāḥ) [should-worship](samarcayet)
+[outside](bāhyeṣu) [also](api) [and](ca) [them](tāḥ) [as-before](prāgvat) [stated+letters](prokta+varṇāḥ) [one-should-worship](samarcayet)
 
 ## mukta-m0-p84-v2077
-[thirty-six](ṣaṭtriṃśat) [those](tāḥ) [equal](samā) [goddesses](devyāḥ) [all](sarva) [forms](rūpa) [weapons](āyudha) [etc-by](ādibhiḥ)
+[thirty-six](ṣaṭtriṃśat) [them](tāḥ) [together-with+goddess](samā+devyāḥ) [with-all+forms+weapons+etc](sarva+rūpa+āyudha+ādibhiḥ)
 
 ## mukta-m0-p84-v2078
-[in-others](pareṣu) [barley-lakṣa-syllable-free](yavalakṣārṇarahitā) [with-those-thus-worship](staistathā'rcayet)
+[in-others](pareṣu) [ya+va+la+syllables+devoid](ya+va+la+kṣa+arṇa+rahitāḥ) [with-those](taiḥ) [thus](tathā) [one-should-worship](arcayet)
 
 ## mukta-m0-p84-v2079
-[and](ca) [should-do](kuryāt) [thus](iti)
+[and](ca) [one-should-do](kuryāt) [thus](iti)
 
 ## mukta-m0-p84-v2080
-[there](tatra) [middle](madhye) [brahma-thread](brahmasūtraṃ) [having-made](kṛtvā) [its](tasya) [half-measure](arddhāmānataḥ)
+[there](tatra) [in-middle](madhye) [brahma+thread](brahma+sūtraṃ) [having-made](kṛtvā) [of-that](tasya) [by-half+measure](arddha+mānataḥ)
 
 ## mukta-m0-p84-v2081
-[having-placed](vidhāya) [mark-pair](cihnayugalaṃ) [from-mark](cihnāt) [mark](cihnaṃ) [of-both](dvayorapi)
+[having-made](vidhāya) [mark+pair](cihna+yugalaṃ) [from-mark](cihnāt) [to-mark](cihnaṃ) [of-both](dvayoḥ) [also](api)
 
 ## mukta-m0-p84-v2082
-[brahma-thread-stationed-prior-end-limit](brahmasūtrasthapūrvāgrāvadhi) [thread-pair](sūtradvayaṃ) [becomes](bhavet)
+[on-brahma-thread+situated+east+tip+up-to](brahma+sūtra+stha+pūrva+agra+avadhi) [thread+pair](sūtra+dvayaṃ) [should-be](bhavet)
 
 ## mukta-m0-p84-v2083
-[western-brahma-thread-end-thus](paścimabrahmasūtrāntamitthaṃ) [six-cornered](ṣaṭkoṇakaṃ) [becomes](bhavet)
+[west+brahma-thread+end](paścima+brahma+sūtra+antaṃ) [thus](itthaṃ) [six+cornered-figure](ṣaṭ+koṇakaṃ) [should-be](bhavet)
 
 ## mukta-m0-p84-v2084
-[thus-īśānī-direction-etc](tatheśāni)taddigādi) [protect-end](rakṣontaṃ) [brahma-thread-pair](brahmasūtradvayaṃ) [becomes](bhavet)
+[(thus-in-northeast)]((tatheśāni)) [from-that+direction+beginning](tat+dik+ādi) [and](ca) [up-to-demon-direction](rakṣa+antaṃ) [brahma-thread+pair](brahma+sūtra+dvayaṃ) [should-be](bhavet)
 
 ## mukta-m0-p84-v2085
-[having-made](kṛtvā) [around](abhitaḥ) [circles](vṛttāni) [that-that-half-part-from-rotation](tattadarddhāṃśatobhramāt)
+[having-made](kṛtvā) [on-both-sides](abhitaḥ) [then](atha) [circles](vṛttāni) [by-that+respective+half+portion](tat+tat+arddha+aṃśataḥ) [by-rotation](bhramāt)
 
 ## mukta-m0-p84-v2086
-[having-made](kṛtvā) [that-tenth-parts](taddaśamāṃśeṣu) [six-threads](ṣaṭsūtrāṇi) [let-fall](nipātayet)
+[having-made](kṛtvā) [in-their+tenth+parts](tat+daśama+aṃśeṣu) [six+threads](ṣaṭ+sūtrāṇi) [one-should-cast](nipātayet)
 
 ## mukta-m0-p84-v2087
-[circle-touching-thread-pair-beginning](vṛttaspṛksūtrayugmāraṃ) [middle](madhye) [middle](madhye) [let-fall](nipātayet)
+[touching-circle+thread+pair+spoke](vṛtta+spṛk+sūtra+yugma+araṃ) [in-middle](madhye) [in-middle](madhye) [one-should-cast](nipātayet)
 
 ## mukta-m0-p84-v2088
-[having-made](kṛtvā) [thrice](trir) [brahma-threads](brahmasūtrāṇi) [let-wipe](mārjaye) [wheel-best](cakramuttamam)
+[having-made](kṛtvā) [thrice](triḥ) [brahma+threads](brahma+sūtrāṇi) [one-should-erase](mārjayet) [diagram+supreme](cakram+uttamam)
 
 ## mukta-m0-p84-v2089
-[worship](pūjā) [restraint-named](nigrahasaṃjñā) [is](syāt) [that](sā) [of-enemies](śatrūṇāṃ) [for-ruin](vipattaye)
+[worship](pūjā) [subjugation+named](nigraha+saṃjñā) [should-be](syāt) [that](sā) [of-enemies](śatrūṇāṃ) [for-destruction](vipattaye)
 
 ## mukta-m0-p84-v2090
-[skull-water-filled](kkāthatoyābhisampūrṇān) [black-garment-accompanied](kṛṣṇāmbarasamanvitān)
+[with-alkali+water+filled](kṣāra+toya+abhisampūrṇān) [with-black+garment+endowed](kṛṣṇa+ambara+samanvitān)
 
 ## mukta-m0-p84-v2091
-[quickly](kṣipraṃ) [skin-etc-by](tvagādibhiḥ) [they](te) [become](syuḥ) [full](pūrṇāḥ) [of-enemy](śatroḥ) [bodies](kalevarāḥ)
+[quickly](kṣipraṃ) [with-skin+etc](tvac+ādibhiḥ) [by-those](te) [should-be](syuḥ) [filled](pūrṇāḥ) [of-enemy](śatroḥ) [bodies](kalevarāḥ)
 
 ## mukta-m0-p84-v2092
-[homa](homaṃ) [and](ca) [should-do](kuryāt) [by-that](tenaiva) [serpent-head-sruc-with](phaṇiśīrṣasrucā) [anger](ruṣā)
+[oblation](homaṃ) [and](ca) [one-should-do](kuryāt) [with-that-very](tena+eva) [serpent+head+ladle](phaṇi+śīrṣa+srucā) [with-anger](ruṣā)
 
 ## mukta-m0-p84-v2093
-[striking](praharantīḥ) [to-piśācas](piśācebhyo) [scattering](vikirantīśca) [that-that-body](tattanum)
+[striking](praharantīḥ) [to-demons](piśācebhyaḥ) [and-scattering](vikirantīḥ) [and](ca) [his+body](tat+tanum)
 
 ## mukta-m0-p84-v2094
-[having-meditated](dhyātvaivaṃ) [restraint](nigrahaṃ) [should-do](kuryād) [of-enemies](ripūṇāṃ) [for-killing](māraṇāya) [indeed](vai)
+[having-meditated](dhyātvā) [thus](evaṃ) [subjugation](nigrahaṃ) [one-should-perform](kuryāt) [of-enemies](ripūṇāṃ) [for-killing](māraṇāya) [indeed](vai)
 
 ## mukta-m0-p84-v2095
-[smoke-sindūra-blue-rising-sun-gold-moon](dhūmrasindūranīlodyadbhānuhemendu) [rays](bhāṃsi) [and](ca)
+[smoky+vermilion+blue+rising+sun+gold+moon](dhūmra+sindūra+nīla+udyat+bhānu+hema+indu) [(lustres)]((bhāṃsi)) [lustres](bhāni) [and](ca)
 
 ## mukta-m0-p84-v2096
-[rising-sun-disk-like](udyadaryamabimbābhe) [eternal-non-eternal](nityānityāṃ) [and](ca) [middle](madhyame)
+[rising+sun+orb+resembling](udyat+aryama+bimba+ābhe) [Nityanitya](nityānityāṃ) [and](ca) [in-middle](madhyame)
 
 ## mukta-m0-p84-v2097
-[in-restraint-favor-rite](nigrahānugrahavidhau) [striving](yatamāno) [perishes](vinaśyati)
+[in-subjugation+favor+rite](nigraha+anugraha+vidhau) [striving](yatamānaḥ) [perishes](vinaśyati)
 
 ## mukta-m0-p84-v2098
-[thus](tathā) [desired-attainment](manīṣitaprāptau) [success](siddhir) [his](asya) [from-worship](arcanaādbhavet)
+[likewise](tathā) [in-desired+attainment](manīṣita+prāptau) [success](siddhiḥ) [of-her](asya) [by-worship](arcanāt) [should-be](bhavet)
 
 ## mukta-m0-p84-v2099
-[hereafter](ataḥ) [paraṃ](paraṃ) [to-be-explained](vyākhyeyāni)
+[----------------------------](----------------------------) [from-here](ataḥ) [further](paraṃ) [to-be-explained](vyākhyeyāni)
 
 ## mukta-m0-p84-v2100
-[in-bronze](kāṃsye) [in-lead](sīsepi) [or](vā) [having-made](kṛtvā) [should-place](sthāpayet) [in-enemy-lands](vairibhūmiṣu)
+[in-bell-metal](kāṃsye) [in-lead](sīse) [also](api) [or](vā) [having-made](kṛtvā) [one-should-place](sthāpayet) [in-enemy+lands](vairi+bhūmiṣu)

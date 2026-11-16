@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p83-v2051
-[dhārmikāḥ](dhārmikāś) [ca](ca) [eva](eva) [rājānaḥ](rājānaḥ) [pūrṇa](pūrṇa) [saptāṅga](saptāṅga) [saṃyutāḥ](saṃyutāḥ)
+[righteous-and](dhārmikāḥ) [indeed](ca) [also](eva) [kings](rājānaḥ) [complete+seven+limb+endowed](pūrṇasaptāṅgasaṃyutāḥ)
 
 ## mukta-m0-p83-v2052
-[vāñchitaṃ](vāñchitaṃ) [samavāpnoti](samavāpnoti) [maṇḍalāt](maṇḍalāt) [māsataḥ](māsataḥ) [api](api) [vā](vā)
+[desired](vāñchitaṃ) [completely](sam) [obtains](avāpnoti) [from-circle](maṇḍalāt) [in-a-month](māsataḥ) [even](api) [or](vā)
 
 ## mukta-m0-p83-v2053
-[prāgukta](prāgukta) [rakṣa-vāyu-śakra-vahni-īśa-varuṇa-dikṣu](rakṣovāyuśakravahnīśavaruṇadikṣu) [sthāpanāt](sthāpanāt) [iti](iti) [arthaḥ](arthaḥ)
+[east+north+rakṣas+wind+indra+fire+īśa+varuṇa+directions](prāguktarakṣovāyuśakravahnīśavaruṇadikṣu) [from-placement](sthāpanāt) [thus](iti) [meaning](arthaḥ)
 
 ## mukta-m0-p83-v2054
-[mūrti-saptakaṃ](mūrtisaptakaṃ) [ḍā-rākinyādīnāṃ](ḍārākinyādīnāṃ) [ṣaṇāṃ](ṣaṇāṃ) [devyāḥ](devyāḥ) [ca](ca) [iti](iti) [śeṣaḥ](śeṣaḥ)
+[form+group-of-seven](mūrtisaptakaṃ) [of-ḍākinī+and-others](ḍākinyādīnāṃ) [of-six](ṣaṇāṃ) [of-goddess](devyāḥ) [and](ca) [thus](iti) [remainder](śeṣaḥ)
 
 ## mukta-m0-p83-v2055
-[kleśāḥ](kleśāḥ) [vidyā-yantra](vidyāyantra) [anubhāvataḥ](anubhāvataḥ) [ubhayoḥ](ubhayoḥ) [sāmarthyāt](sāmarthyāt)
+[afflictions](kleśāḥ) [by-knowledge+yantra+power](vidyāyantrānubhāvataḥ) [of-both](ubhayoḥ) [by-capability](sāmarthyāt)
 
 ## mukta-m0-p83-v2056
-[suṣumnā-madhya](suṣumnāmadhya) [saṃstheṣu](saṃstheṣu) [ṣaḍ-ādhāra](ṣaḍādhāra) [ambujeṣu](ambujeṣu) [tāḥ](tāḥ)
+[in-suṣumnā+middle+situated](suṣumnāmadhyasaṃstheṣu) [in-six+support+lotuses](ṣaḍādhārāmbujeṣu) [they](tāḥ)
 
 ## mukta-m0-p83-v2057
-[bahiś](bahiś) [ca](ca) [maṇḍale](maṇḍale) [pūjā](pūjā) [anugraha](anugraha) [anigraha](anigraha) [ātmikā](ātmikā)
+[outside](bahiḥ) [and](ca) [in-circle](maṇḍale) [worship+grace+subjugation+natured](pūjānugrahānigrahātmikām)
 
 ## mukta-m0-p83-v2058
-[dhūmra-varṇa](dhūmravarṇa) [ambuje](ambuje) [devīṃ](devīṃ) [ḍākinīṃ](ḍākinīṃ) [tat-samākṛtim](tatsamākṛtim)
+[in-smoke+colored+lotus](dhūmravarṇāmbuje) [goddess](devīṃ) [ḍākinī](ḍākinīṃ) [of-that+same+form](tatsamākṛtim)
 
 ## mukta-m0-p83-v2059
-[tayā](tayā) [sarvajñatā-siddhiḥ](sarvajñatāsiddhiḥ) [bhavati](bhavati) [eva](eva) [na](na) [saṃśayaḥ](saṃśayaḥ)
+[by-her](tayā) [omniscience+accomplishment](sarvajñatāsiddhiḥ) [becomes](bhavati) [indeed](eva) [no](na) [doubt](saṃśayaḥ)
 
 ## mukta-m0-p83-v2060
-[prāpnoti](prāpnoti)
+[obtains](prāpnoti)
 
 ## mukta-m0-p83-v2061
-[deheṣu](deheṣu) [sthitim](sthitim) [tāḥ](tāḥ) [devyaḥ](devyaḥ) [iti](iti) [atra](atra) [anvayaḥ](anvayaḥ) [dākinyādayaḥ](dākinyādayaḥ) [iti](iti) [śeṣaḥ](śeṣaḥ)
+[in-bodies](deheṣu) [abiding](sthitim) [they](tāḥ) [goddesses](devyaḥ) [thus](iti) [here](atra) [connection](anvayaḥ) [ḍākinī+and-others](dākinyādayaḥ) [thus](iti) [remainder](śeṣaḥ)
 
 ## mukta-m0-p83-v2062
-[mūla-devatā](mūladevatā) [samānaḥ](samānaḥ)
+[root+deity+equal](mūladevatāsamānaḥ)
 
 ## mukta-m0-p83-v2063
-[rākinīṃ](rākinīṃ) [dvādaśa-dale](dvādaśadale) [kādi-ḍhānta-akṣara-ātmabhiḥ](kādiḍhāntākṣarātmabhiḥ)
+[rākinī](rākinīṃ) [in-twelve+petaled](dvādaśadale) [by-ka+to-ḍha+syllable+natured](kādiḍhāntākṣarātmabhiḥ)
 
 ## mukta-m0-p83-v2064
-[maṇipūraka-saṃjñe](maṇipūrakasaṃjñe) [ca](ca) [nābhi-sthe](nābhisthe) [daśa-patrake](daśapatrake)
+[in-maṇipūraka+named](maṇipūrakasaṃjñe) [and](ca) [in-navel+situated](nābhisthe) [in-ten+petaled](daśapatrake)
 
 ## mukta-m0-p83-v2065
-[lākinīṃ](lākinīṃ) [pūjayet](pūjayet) [vairi-vijaya](vairivijaya) [śrī-samṛddhaye](śrīsamṛddhaye)
+[lākinī](lākinīṃ) [one-should-worship](pūjayet) [for-enemy+victory+prosperity+abundance](vairivijayaśrīsamṛddhaye)
 
 ## mukta-m0-p83-v2066
-[vādi-ṣaḍ-varṇa-śaktībhiḥ](vādiṣaḍvarṇaśaktībhiḥ) [āvṛtāṃ](āvṛtāṃ) [ḍākinīṃ](ḍākinīṃ) [yajet](yajet)
+[by-va+to-six+letter+powers](vādiṣaḍvarṇaśaktībhiḥ) [surrounded](āvṛtāṃ) [ḍākinī](ḍākinīṃ) [one-should-worship](yajet)
 
 ## mukta-m0-p83-v2067
-[ādhāra-ākhye](ādhārākhye) [catuṣ-patre](catuṣpatre) [suvarṇa-ābhe](suvarṇābhe) [saroruhe](saroruhe)
+[in-ādhāra+named](ādhārākhye) [in-four+petaled](catuṣpatre) [in-gold+colored](suvarṇābhe) [in-lotus](saroruhe)
 
 ## mukta-m0-p83-v2068
-[pāyu-dhvaja-antarā](pāyudhvajāntarā) [tryasra-madhye](tryasramadhye) [tejaḥ](tejaḥ) [samanvitām](samanvitām)
+[anus+penis+between](pāyudhvajāntarā) [in-triangle+middle](tryasramadhye) [with-splendor](tejaḥ) [endowed](samanvitām)
 
 ## mukta-m0-p83-v2069
-[sevitāṃ](sevitāṃ) [hakṣa-śaktibhyāṃ](hakṣaśaktibhyāṃ) [hākinīṃ](hākinīṃ) [pūjayet](pūjayet) [tathā](tathā)
+[attended](sevitāṃ) [by-ha+and-kṣa+powers](hakṣaśaktibhyāṃ) [hākinī](hākinīṃ) [one-should-worship](pūjayet) [likewise](tathā)
 
 ## mukta-m0-p83-v2070
-[viśva-sṛṣṭi-sthiti-dhvaṃsa-śakti-dāma](viśvasṛṣṭisthitidhvaṃsaśaktidāma) [apyayatnataḥ](apyayatnataḥ)
+[universe+creation+maintenance+destruction+power+giving](viśvasṛṣṭisthitidhvaṃsaśaktidām) [even](api) [effortlessly](ayatnataḥ)
 
 ## mukta-m0-p83-v2071
-[pūjanaṃ](pūjanaṃ) [sarva-duḥkha-ārti-nāśanaṃ](sarvaduḥkhārtināśanaṃ) [sampadām](sampadām) [padam](padam)
+[worship](pūjanaṃ) [all+sorrow+pain+destruction](sarvaduḥkhārtināśanaṃ) [prosperity+abode](sampadāspadam)
 
 ## mukta-m0-p83-v2072
-[tayā](tayā) [pūjayā](pūjayā) [dhvaja-mūle](dhvajamūle) [mehana-mūle](mehanamūle)
+[by-that](tayā) [by-worship](pūjayā) [at-penis+root](dhvajamūle) [at-genital+root](mehanamūle)
 
 ## mukta-m0-p83-v2073
-[samanvitāṃ](samanvitāṃ) [kuṇḍalinī-tejaḥ-rūpām](kuṇḍalinītejorūpām) [tathā](tathā) [samuccaye](samuccaye)
+[endowed](samanvitāṃ) [kuṇḍalinī+splendor+formed](kuṇḍalinītejorūpām) [likewise](tathā) [in-summary](samuccaye)
 
 ## mukta-m0-p83-v2074
-[bhūta-bhaviṣya-vartamāna-kārya-jñāna-sāmarthya-pradāyinīm](bhūtabhaviṣyavartamānakāryajñānasāmarthyapradāyinīm) [iti](iti) [arthaḥ](arthaḥ)
+[past+future+present+action+knowledge+ability+bestowing](bhūtabhaviṣyavartamānakāryajñānasāmarthyapradāyinīm) [thus](iti) [meaning](arthaḥ)
 
 ## mukta-m0-p83-v2075
-[madhye](madhye) [ca](ca) [tatra](tatra) [tāṃ](tāṃ) [nitya-anityā](nityānityā) [gandha-ādinā](gandhādinā) [arcayet](arcayet)
+[in-middle](madhye) [and](ca) [there](tatra) [her](tāṃ) [nityā+nityā](nityānityā) [with-fragrance+and-others](gandhādinā) [one-should-worship](arcayet)
