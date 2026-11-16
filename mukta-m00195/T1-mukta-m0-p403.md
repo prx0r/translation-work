@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p403-v10051
-[one-should-recite](japed) [thousand-syllables](varṇasahasraṃ) [indeed](tu) [homa](homaḥ) [with-lotus-eyed-ones](padmākṣakaiḥ) [remembered](smṛtaḥ)
+[should-recite](japet)+[syllable](varṇa)+[thousand](sahasraṃ) [indeed](tu) [oblation](homaḥ) [with-lotus](padma)+[seeds](akṣakaiḥ) [is-prescribed](smṛtaḥ)
 
 ## mukta-m0-p403-v10052
-[godāvarī](godāvarīṃ) [and](ca) [yamunā](kālindīṃ) [oceans](samudrāḥ) [then](tadanantaram)
+[Godāvarī](godāvarīṃ) [and](ca) [Kālindī](kālindīṃ) [oceans](samudrān)+[then](tad)+[thereafter](anantaram)
 
 ## mukta-m0-p403-v10053
-[great-lotus](mahāpadmaḥ) [śaṅkhapāla](śaṅkhapālaḥ) [kulika](kulikoṣṭadale) [then](tataḥ)
+[Mahāpadma](mahāpadmaḥ) [Śaṅkhapāla](śaṅkhapālaḥ) [Kulika](kulika)+[and-oṣṭa](uṣṭa)+[on-petals](dale) [then](tataḥ)
 
 ## mukta-m0-p403-v10054
-[rites](prayogāḥ) [and](ca) [here](atra) [succeed](siddhyanti) [divine-mantra-declared](devamantroditāḥ) [others](pare)
+[applications](prayogāḥ)+[and](ca)+[here](atra) [succeed](siddhyanti) [by-deity](deva)+[mantra](mantra)+[uttered](uditāḥ) [others](pare)
 
 ## mukta-m0-p403-v10055
-[whose](yasya) [worship](upāsanato) [subjugation](vaśyaṃ) [death](mṛtyuḥ) [in-kāśī](kāśyāṃ) [is-born](prajāyate)
+[by-whose](yasya)+[worship](upāsanataḥ) [controllable](vaśyaṃ) [death](mṛtyuḥ) [in-Kāśī](kāśyāṃ) [arises](prajāyate)
 
 ## mukta-m0-p403-v10056
-[salutation](namaḥ) [oṃ](oṃ) [tithi-syllable](tithivarṇoyaṃ) [enjoyment-liberation-fruit-giving](bhuktimuktiphalapradaḥ)
+[salutation](nama) [oṃ](oṃ) [lunar-day](tithi)+[syllable](varṇaḥ)+[this](ayam) [enjoyment](bhukti)+[liberation](mukti)+[fruit](phala)+[giving](pradaḥ)
 
 ## mukta-m0-p403-v10057
-[by-mantra-syllables](mantrārṇaiḥ) [six-limbs](ṣaḍaṅgāni) [meditate](dhyāyettāṃ) [west-facing](paścimāmukhīm)
+[with-mantra](mantra)+[syllables](arṇaiḥ) [should-be](syāt)+[six-limbs](ṣaḍaṅgāni) [one-should-meditate](dhyāyet)+[her](tāṃ) [west](paścima)+[facing](āmukhīm)
 
 ## mukta-m0-p403-v10058
-[white-garment-covered](śvetavastrāvṛtāṃ) [three-eyed](tryakṣāṃ) [meditate](dhyāyedbaddhāñjaliḥ) [supreme](parām)
+[white](śveta)+[garment](vastra)+[covered](āvṛtāṃ) [three](tri)+[eyed](akṣāṃ) [one-should-meditate](dhyāyet)+[with-joined](baddha)+[palms](añjaliḥ) [supreme](parām)
 
 ## mukta-m0-p403-v10059
-[draw](likhedaṣṭadalaṃ) [eight-petaled-lotus](padmaṃ) [in-pericarp](karṇikāyāṃ) [six-petaled](tu) [ṣaḍdalam](ṣaḍdalam)
+[one-should-draw](likhet)+[eight](aṣṭa)+[petaled](dalaṃ) [lotus](padmaṃ) [in-pericarp](karṇikāyāṃ) [indeed](tu) [six](ṣaṭ)+[petaled](dalam)
 
 ## mukta-m0-p403-v10060
-[rite](vidhiṃ) [sun](sūryaṃ) [mountain-lord](parvateśaṃ) [menā](menāṃ) [and](cāpi) [bhagīratha](bhagīratham)
+[Vidhi](vidhiṃ) [Sūrya](sūryaṃ) [lord-of-mountain](parvata)+[īśaṃ](īśaṃ) [Menā](menāṃ) [and](ca)+[also](api) [Bhagīratha](bhagīratham)
 
 ## mukta-m0-p403-v10061
-[crocodiles](makarāṃścāpi) [swans](haṃsāṃśca) [and](tathā) [waterfowl](kāraṇḍavānapi)
+[crocodiles](makarān)+[and](ca)+[also](api) [swans](haṃsān)+[and](ca) [likewise](tathā) [kāraṇḍava-ducks](kāraṇḍavān)+[also](api)
 
 ## mukta-m0-p403-v10062
-[indra-and-others](indrādīṃścāpi) [vajra-and-others](vajrādīnmantroyaṃ) [right-path-practitioners](dakṣamārgiṇām)
+[Indra](indra)+[and-others](ādīn)+[and](ca)+[also](api) [thunderbolt](vajra)+[and-others](ādīn)+[this](ayam)+[mantra](mantraḥ) [of-right-hand](dakṣa)+[path-followers](mārgiṇām)
 
 ## mukta-m0-p403-v10063
-[mantra](mantroyaṃ) [at-death-time](mṛtyukāle) [in-kāśī](tu) [liberation-giving](muktiprado) [certainly](dhruvam)
+[mantra](mantraḥ)+[this](ayam) [at-death](mṛtyu)+[time](kāle) [indeed](tu) [in-Kāśī](kāśyāṃ) [liberation](mukti)+[giving](pradaḥ) [certainly](dhruvam)
 
 ## mukta-m0-p403-v10064
-[by-whose](bhavedyasya) [grace](prasādena) [tāra](tāraṃ) [maṃ](maṃ) [maṇikarṇikā](maṇikarṇike)
+[may-be](bhavet)+[of-whom](yasya) [by-grace](prasādena) [tāra](tāraṃ) [maṃ](maṃ) [Maṇikarṇike](maṇikarṇike)
 
 ## mukta-m0-p403-v10065
-[worship-meditation-pūjā](upāsanādhyānapūjāḥ) [by-own-tradition](svīyāmnāyena) [should-arrange](kalpayet)
+[worship](upāsana)+[meditation](dhyāna)+[pūjās](pūjāḥ) [by-own](svīya)+[tradition](āmnāyena) [one-should-arrange](kalpayet)
 
 ## mukta-m0-p403-v10066
-[preliminary-rites](puraścaryāprayogādi) [same-as-previous-mantra](pūrvamantrasamaṃ) [considered](matam)
+[preliminary-rites](puraścaryā)+[application](prayoga)+[etc.](ādi) [as-previous](pūrva)+[mantra](mantra)+[same](samaṃ) [is-considered](matam)
 
 ## mukta-m0-p403-v10067
-[five-traditions](pañcāmnāyaistatkrameṇa) [thus](ca) [worship](upāsyaṃ) [accomplishment-causing](siddhikārakam)
+[by-five](pañca)+[traditions](āmnāyaiḥ)+[in-their](tat)+[order](krameṇa) [and](ca)+[to-be-worshipped](upāsyaṃ) [success](siddhi)+[causing](kārakam)
 
 ## mukta-m0-p403-v10068
-[mili-pair](miliyugmaṃ) [and](ca) [gaṅgā](gaṅge) [māṃ](māṃ) [purify](pāvayadvitayaṃ) [dviṭha](dviṭhaḥ)
+[mili](mili)+[pair](yugmaṃ) [and](ca) [O-Gaṅgā](gaṅge) [me](māṃ) [purify](pāvaya)+[twice](dvitayaṃ) [in-two-ways](dviṭhaḥ)
 
 ## mukta-m0-p403-v10069
-[three-vedāṅga-fire-eye](trivedāṅgāgniṣaṇnetrairmantrārṇairaṅgakalpanam)
+[three](tri)+[Veda](veda)+[limb](aṅga)+[fire](agni)+[six](ṣaṇ)+[eyes](netraiḥ)+[with-mantra](mantra)+[syllables](arṇaiḥ)+[limb](aṅga)+[arrangement](kalpanam)
 
 ## mukta-m0-p403-v10070
-[fearlessness](abhayaṃ) [pot](kalaśaṃ) [in-left-hands](vāmakarayormakarasthitām)
+[fearlessness](abhayaṃ) [water-pot](kalaśaṃ) [in-left](vāma)+[hands](karayoḥ)+[on-crocodile](makara)+[seated](sthitām)
 
 ## mukta-m0-p403-v10071
-[various-ornaments-beautiful](nānālaṅkāraśobhāḍhyāṃ) [pleased-faced](prasannavadanāṃ) [I-worship](bhaje)
+[various](nānā)+[ornament](alaṅkāra)+[splendor](śobhā)+[endowed](āḍhyāṃ) [pleased](prasanna)+[faced](vadanāṃ) [I-worship](bhaje)
 
 ## mukta-m0-p403-v10072
-[sesame-ghee](tilājyābhyāṃ) [homa](bhaveddhomo) [mantra](mantroyaṃ) [enjoyment-liberation-giving](bhuktimuktidaḥ)
+[with-sesame](tila)+[and-ghee](ājyābhyāṃ) [should-be](bhavet)+[oblation](homaḥ) [mantra](mantraḥ)+[this](ayam) [enjoyment](bhukti)+[liberation](mukti)+[giving](daḥ)
 
 ## mukta-m0-p403-v10073
-[upper-tradition](ūrdhvāmnāyena) [accomplished](sādhyaḥ) [six-limbs](syātṣaḍaṅgāni) [by-arrows](śaraiḥ) [made](kṛtaiḥ)
+[by-upper](ūrdhva)+[tradition](āmnāyena) [to-be-accomplished](sādhyaḥ) [should-be](syāt)+[six-limbs](ṣaḍaṅgāni) [with-five](śaraiḥ) [made](kṛtaiḥ)
 
 ## mukta-m0-p403-v10074
-[all-sins-destroying](sarvapāpakṣayakaro) [enjoyment-liberation-giving](bhuktimuktipradāyakaḥ)
+[all](sarva)+[sin](pāpa)+[destruction](kṣaya)+[causing](karaḥ) [enjoyment](bhukti)+[liberation](mukti)+[bestowing](pradāyakaḥ)
 
 ## mukta-m0-p403-v10075
-[tāra](tāro) [salutation](namaḥ) [to-śivā](śivāyai) [and](ca) [to-nārāyaṇī](nārāyaṇyai) [word](padaṃ) [say](vadet)
+[tāra](tāraḥ) [namaḥ](namaḥ) [śivāyai](śivāyai) [and](ca) [nārāyaṇyai](nārāyaṇyai) [word](padaṃ) [one-should-say](vadet)

@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p394-v9826
-great-three-world-pleasing-and then he king-best himself
+[greatly](mahā) [three-world](triloka) [delightful](ramyaḥ) [and](ca) [then](tataḥ) [he](sa) [king](nṛvaraḥ) [himself](svayam)
 
 ## mukta-m0-p394-v9827
-king enemies conquers-anointed-and according-to-rite
+[king](rājā) [enemies](śatrūn) [conquers](vijayate) [consecrated](abhiṣiktaḥ) [and](ca) [according-to-rule](yathāvidhi)
 
 ## mukta-m0-p394-v9828
-great-intellect and obtains not-here work deliberation
+[great](mahā) [intellect](matiṃ) [and](ca) [obtains](labhate) [not](na) [here](atra) [to-be-done](kāryyā) [consideration](vicāraṇā)
 
 ## mukta-m0-p394-v9829
-ritual-hostility-etc-fault and perform-anointment
+[witchcraft](kṛtyā) [treachery](droha) [etc.](ādi) [fault](doṣe) [and](ca) [should-perform](prakuryyāt) [consecration](abhiṣecanam)
 
 ## mukta-m0-p394-v9830
-all-calamity-prevention and-indeed all-comforts certain
+[all](sarva) [calamity](āpad) [averting](vāraṇaṃ) [and](ca) [indeed](eva) [all](sarva) [happinesses](saukhyāni) [certain](niścitam)
 
 ## mukta-m0-p394-v9831
-tāra [oṃ śrīṃ hrīṃ śrīṃ kamale kamalālaye prasīda prasīda śrīṃ hrīṃ śrīṃ mahālakṣmi namaḥ || ] ramā power lakshmi in-lotus lotus-abode
+[seed-syllable](tāro) [oṃ śrīṃ hrīṃ śrīṃ kamale kamalālaye prasīda prasīda śrīṃ hrīṃ śrīṃ mahālakṣmi namaḥ ||](oṃ śrīṃ hrīṃ śrīṃ kamale kamalālaye prasīda prasīda śrīṃ hrīṃ śrīṃ mahālakṣmi namaḥ ||) [Ramā](ramā) [Śakti](śakti) [Lakṣmī](lakṣmi) [O-lotus](kamale) [O-lotus-abode](kamalālaye)
 
 ## mukta-m0-p394-v9832
-gayatri-meter indicated sage-daksha prajapati
+[gāyatrī](gāyatrī) [metre](chanda) [declared](uddiṣṭaṃ) [sage](muniḥ) [Dakṣa](dakṣaḥ) [Prajāpati](prajāpatiḥ)
 
 ## mukta-m0-p394-v9833
-syllables-three-five-rama-fire-rama meditation then in-dhruva
+[with-syllables](varṇaiḥ) [three](tri) [five](pañca) [Rāmā](rāmā) [fire](agni) [Rāma](rāmaiḥ) [meditation](dhyānam) [then](athaḥ) [certainly](dhruve)
 
 ## mukta-m0-p394-v9834
-argha-vessel and holding good-faith-crown-endowed
+[offering](argha) [vessel](pātraṃ) [and](ca) [holding](dadhatīṃ) [with-beautiful](sat) [stream](dhāra) [crown](mukuṭa) [adorned](anvitām)
 
 ## mukta-m0-p394-v9835
-beauty-ground I-salute beautiful-armlet-armed
+[beauty](lāvaṇya) [ground](bhūmikāṃ) [I-praise](vande) [beautiful](sundara) [limb](aṅga) [arm](bāhukām)
 
 ## mukta-m0-p394-v9836
-front-limbs worship-afterwards sridhara-etc then supreme
+[preliminary-deities](puroṅgāni) [one-should-worship](yajet) [afterwards](paścāt) [Śrīdhara](śrīdhara) [and-others](ādīn) [then](tataḥ) [further](param)
 
 ## mukta-m0-p394-v9837
-vasudeva sankarshana-and pradyumna-aniruddha-two
+[Vāsudeva](vāsudevaḥ) [Saṅkarṣaṇa](saṅkarṣaṇaḥ) [and](ca) [Pradyumna](pradyumna) [Aniruddha](aniruddhakau)
 
 ## mukta-m0-p394-v9838
-brahmi sati in-directions these agneya-etc-intermediate-directions but
+[Brāhmī](brāhmī) [Satī](satī) [in-directions](dikṣu) [and](ca) [these](etā) [in-southeast-etc.](āgneyādi) [intermediate-directions](vidikṣu) [indeed](tu)
 
 ## mukta-m0-p394-v9839
-four-but elephants these third-desired-petal worship
+[four](catvāraḥ) [indeed](tu) [elephants](gajā) [these](ete) [in-third](tṛtīye) [eight](aṣṭa) [petal](dale) [one-should-worship](arcayet)
 
 ## mukta-m0-p394-v9840
-joy strength-and radiant worship world-lords outside
+[Harṣa](harṣo) [Bala](balaḥ) [and](ca) [Tejasvī](tejasvī) [one-should-worship](yajet) [world-guardians](lokeśvarān) [outside](bahiḥ)
 
 ## mukta-m0-p394-v9841
-thus worship-lakshmi who mortal he wealthy becomes
+[thus](evaṃ) [should-worship](sampūjayet) [Lakṣmī](lakṣmīṃ) [who](yaḥ) [mortal](martyaḥ) [he](sa) [wealthy](dhanī) [becomes](bhavet)
 
 ## mukta-m0-p394-v9842
-ten-days consecrated fire previously-described-indeed path
+[ten](daśa) [days](ahaṃ) [in-consecrated](saṃskṛte) [fire](vahnau) [by-previously](prāk) [stated](proktena) [indeed](eva) [method](vartmanā)
 
 ## mukta-m0-p394-v9843
-sandal-anointed lotuses hundred-thousand offer wise
+[with-sandalwood](candana) [smeared](āktaiḥ) [with-lotuses](sarasijaiḥ) [hundred-thousand](lakṣaṃ) [should-offer](prajuhuyāt) [wise-one](sudhīḥ)
 
 ## mukta-m0-p394-v9844
-thus own obtained always not-here work deliberation
+[thus](tathā) [own](svaṃ) [is-obtained](prāpyate) [always](nityaṃ) [not](na) [here](atra) [to-be-done](kāryyā) [consideration](vicāraṇā)
 
 ## mukta-m0-p394-v9845
-auspicious honey-bee-indra-creeper shalmali-musali
+[Bhadrā](bhadrāṃ) [Madhuvratā](madhuvratāṃ) [Śakravallī](śakravallīṃ) [Śālmalī](śālmali) [Mūsalī](mūsalī)
 
 ## mukta-m0-p394-v9846
-kushtha-kankola-kashmiri turmeric-shikhari equal
+[Kuṣṭha](kuṣṭha) [Kaṅkola](kaṅkola) [Kāśmīra](kāśmīraṃ) [Haridrā](haridrā) [Śikharī](śikharī) [equal](same)
 
 ## mukta-m0-p394-v9847
-previously-said-and-here succeed rites desired-object-giving
+[previously](pūrva) [mentioned](uktāḥ) [and](ca) [here](atra) [succeed](siddhyanti) [applications](prayogā) [desired](vāñchita) [object](artha) [giving](dāḥ)
 
 ## mukta-m0-p394-v9848
-fourteen-syllable mantra lakshmi-heart-named
+[fourteen](caturdaśa) [syllabled](akṣaraḥ) [mantra](mantro) [Lakṣmī-hṛdaya](lakṣmī+hṛdaya) [named](nāmakaḥ)
 
 ## mukta-m0-p394-v9849
-japa three-lakhs of-this lotuses homa tenth-part
+[recitation](japaḥ) [three](tri) [hundred-thousand](lakṣam) [of-this](etasya) [with-lotuses](padmaiḥ) [oblation](homaḥ) [tenth](daśa) [part](aṃśataḥ)
 
 ## mukta-m0-p394-v9850
-of-this-worshippers but not lineage be poverty
+[of-this](etasya) [worshippers](upāsakānāṃ) [indeed](tu) [not](na) [in-lineage](vaṃśe) [may-be](syāt) [poverty](daridratā)
