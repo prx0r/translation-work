@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p109-v2701
-[mantra-knowledge+description](mantravidyānirūpaṇam) [fifty-first](ekapañcāśattamaḥ) [chapter](paṭalaḥ)
+[mantra+vidyā+nirūpaṇam](mantravidyānirūpaṇam) [eka+pañcāśattamaḥ](ekapañcāśattamaḥ) [paṭalaḥ](paṭalaḥ)
 
 ## mukta-m0-p109-v2702
-[by-which](yena) [practice+mere](sādhanamātreṇa) [mantra](mantraḥ) [success](siddhim) [will-attain](upaiṣyati)
+[yena](yena) [sādhana+mātreṇa](sādhanamātreṇa) [mantraḥ](mantraḥ) [siddhim](siddhim) [upaiṣyati](upaiṣyati)
 
 ## mukta-m0-p109-v2703
-[without](vinā) [revivification](sañjīvanena) [even](api) [without](vinā) [encapsulation](saṃpuṭena) [O-Śiva](śive)
+[vinā](vinā) [sañjīvanena](sañjīvanenāpi) [api](api) [saṃpuṭena](saṃpuṭena) [vinā](vinā) [śive](śive)
 
 ## mukta-m0-p109-v2704
-[mantra](manuḥ) [called-utkīlana](utkīlanākhyaḥ) [this](ayaṃ) [all-success+giving](sarvasiddhipradaḥ) [[kh: mayaḥ]]([kh: mayaḥ]) [O-Śiva](śive)
+[manuḥ](manur) [utkīlana+ākhyaḥ](utkīlanākhyo') [ayam](ayaṃ) [sarva+siddhi+pradaḥ](sarvasiddhipradaḥ) [śive](śive)
 
 ## mukta-m0-p109-v2705
-[before-that](tadagre) [name](nāma) [having-placed](vinyasya) [tāra-and-māyā](tāramāye) [before-that](tadagrataḥ)
+[tat+agre](tadagre) [nāma](nāma) [vinyasya](vinyasya) [tāram](tāram) [āye](āye) [tat+agrataḥ](tadagrataḥ)
 
 ## mukta-m0-p109-v2706
-[then](tataḥ) [accomplished+mantra](siddhamanuṃ) [O-goddess](devi) [should-recite](japet) [best-of-mantra-practitioners](māntrikasattamaḥ)
+[tataḥ](tataḥ) [siddha+manum](siddhamanuṃ) [devi](devi) [japet](japen) [māntrika+sattamaḥ](māntrikasattamaḥ)
 
 ## mukta-m0-p109-v2707
-[tāra](tāraṃ) [parā](parāṃ) [cakra-seed](cakribījaṃ) [viśva](viśvam) [at-end](ante) [name](abhidhaṃ) [should-place](nyaset)
+[tāram](tāraṃ) [parām](parāṃ) [cakri+bījam](cakribījaṃ) [viśvam](viśvam) [ante](ante') [abhidhām](abhidhaṃ) [nyaset](nyaset)
 
 ## mukta-m0-p109-v2708
-[thus](evaṃ) [consecrated](saṃskṛtam) [O-īśānī](īśāni) [mantra](manuṃ) [of-the-goddess](devyā) [should-recite](japet) [always](sadā)
+[evam](evaṃ) [saṃskṛtam](saṃskṛtam) [īśāni](īśāni) [manum](manuṃ) [devyāḥ](devyā) [japet](japet) [sadā](sadā)
 
 ## mukta-m0-p109-v2709
-[secret+very-secret+hidden](guhyātiguhyaguptaṃ) [and](ca) [to-be-guarded](goptavyaṃ) [by-best-practitioners](sādhakottamaiḥ)
+[guhya+ati+guhya+guptam](guhyātiguhyaguptaṃ) [ca](ca) [goptavyam](goptavyaṃ) [sādhaka+uttamaiḥ](sādhakottamaiḥ)
 
 ## mukta-m0-p109-v2710
-[fifty-second](dvipañcāśattamaḥ) [chapter](paṭalaḥ)
+[dvi+pañcāśattamaḥ](dvipañcāśattamaḥ) [paṭalaḥ](paṭalaḥ)
 
 ## mukta-m0-p109-v2711
-[all-knowledge+consisting](sarvavidyāmayīṃ) [[kh: sarvasiddhi]]([kh: sarvasiddhi]) [to-be-accomplished](sādhyāṃ) [in-all-tantras](sarvatantreṣu) [hidden](gopitām)
+[sarva+vidyā+mayīm](sarvavidyāmayīṃ) [sādhyām](sādhyāṃ) [sarva+tantreṣu](sarvatantreṣu) [gopitām](gopitām)
 
 ## mukta-m0-p109-v2712
-[in-birth+crores](janmakoṭiṣu) [recited](japtaḥ) [even](api) [not](naṃ) [mantra](manuḥ) [success+partaker](siddhibhāk) [would-become](bhavet) [[kh: siddhido]]([kh: siddhido])
+[janma+koṭiṣu](janmakoṭiṣu) [japtaḥ](japto') [api](api) [na](naṃ) [manuḥ](manuḥ) [siddhi+bhāk](siddhibhāg) [bhavet](bhavet)
 
 ## mukta-m0-p109-v2713
-[by-that](tena) [knowledge](vidyā) [O-great-goddess](mahādevi) [in-kali-age](kalau) [succeeds](siddhyati) [quickly](satvaram)
+[tena](tena) [vidyā](vidyā) [mahā+devi](mahādevi) [kalau](kalau) [siddhyati](siddhyati) [satvaram](satvaram)
 
 ## mukta-m0-p109-v2714
-[kāmeśvara](kāmeśvaraḥ) [of-trikūṭā](trikūṭāyāḥ) [śiva](śivaḥ) [thus](iti) [indeed](evam) [O-īśvarī](īśvari)
+[kāmeśvaraḥ](kāmeśvaras) [tri+kūṭāyāḥ](trikūṭāyāḥ) [śivaḥ](śiva) [iti](iti) [evam](evam) [īśvari](īśvari)
 
 ## mukta-m0-p109-v2715
-[śrī-bhairava](śrībhairavaḥ) [of-kālarātrī](kālarātryāḥ) [śiva](śivaḥ) [thus](iti) [indeed](evam) [O-īśvarī](īśvari)
+[śrī+bhairavaḥ](śrībhairavaḥ) [kāla+rātryāḥ](kālarātryāḥ) [śivaḥ](śiva) [iti](iti) [evam](evam) [īśvari](īśvari)
 
 ## mukta-m0-p109-v2716
-[īśvara](īśvaraḥ) [of-bhuvaneśvarī](bhuvaneśvaryyāḥ) [śiva](śivaḥ) [thus](iti) [indeed](evam) [O-īśvarī](īśvari)
+[īśvaraḥ](īśvaro) [bhuvaneśvaryāḥ](bhuvaneśvaryyāḥ) [śivaḥ](śiva) [iti](iti) [evam](evam) [īśvari](īśvari)
 
 ## mukta-m0-p109-v2717
-[of-bhīḍā](bhīḍāyāḥ) [but](tu) [virūpākṣa](virūpākṣaḥ) [śiva](śivaḥ) [thus](iti) [indeed](evam) [O-īśvarī](īśvari)
+[bhīḍāyāḥ](bhīḍāyās) [tu](tu) [virūpākṣaḥ](virūpākṣaḥ) [śivaḥ](śiva) [iti](iti) [evam](evam) [īśvari](īśvari)
 
 ## mukta-m0-p109-v2718
-[of-śilā](śilāyā) [vāmadeva](vāmadevaḥ) [but](tu) [śiva](śivaḥ) [declared](proktaḥ) [O-goddess-of-gods](sureśvari)
+[śilāyāḥ](śilāyā) [vāma+devaḥ](vāmadevas) [tu](tu) [śivaḥ](śivaḥ) [proktaḥ](proktaḥ) [sura+īśvari](sureśvari)
 
 ## mukta-m0-p109-v2719
-[now](adya) [of-durgā-śiva](durgāśivasya) [at-beginning](ādau) [I-shall-tell](vakṣye) [root+mantra](mūlamanuṃ) [supreme](param)
+[adya](adya) [durgā+śivasya](durgāśivasyādau) [ādau](ādau) [vakṣye](vakṣye) [mūla+manum](mūlamanuṃ) [param](param)
 
 ## mukta-m0-p109-v2720
-[of-śrī-nīlakaṇṭha+mantra](śrīnīlakaṇṭhamantrasya) [dakṣiṇāmūrti](dakṣiṇāmūrtiḥ) [lord](īśvaraḥ)
+[śrī+nīlakaṇṭha+mantrasya](śrīnīlakaṇṭhamantrasya) [dakṣiṇā+mūrtiḥ](dakṣiṇāmūrtir) [īśvaraḥ](īśvaraḥ)
 
 ## mukta-m0-p109-v2721
-[durgeśvara](durgeśvaraḥ) [nīlakaṇṭha](nīlakaṇṭhaḥ) [deity](devatā) [declared](kathitaḥ) [by-me](mayā)
+[durgā+īśvaraḥ](durgeśvaro) [nīla+kaṇṭhaḥ](nīlakaṇṭho) [devatā](devatā) [kathitaḥ](kathito) [mayā](mayā)
 
 ## mukta-m0-p109-v2722
-[peg](kīlakaṃ) [viśva](viśvam) [declared](ākhyātaṃ) [application](niyogaḥ) [for-mantra+success](manusiddhaye)
+[kīlakam](kīlakaṃ) [viśvam](viśvam) [ākhyātam](ākhyātaṃ) [niyogaḥ](niyogo) [manu+siddhaye](manusiddhaye)
 
 ## mukta-m0-p109-v2723
-[meditation](dhyānam) [of-this](asya) [of-śiva](śivasya) [now](adya) [having-heard](śrutvā) [most-secret](guptatamaṃ) [make](kuru)
+[dhyānam](dhyānam) [asya](asya) [śivasya](śivasyādya) [adya](adya) [śrutvā](śrutvā) [gupta+tamam](guptatamaṃ) [kuru](kuru)
 
 ## mukta-m0-p109-v2724
-[resorted-to](śritam) [I-take-refuge](āśrayāmi)
+[śritam](śritam) [āśrayāmi](āśrayāmi)
 
 ## mukta-m0-p109-v2725
-[durgā-secret+essence](durgārahasyabhūtaṃ) [and](ca) [hear](śṛṇu) [O-pārvatī](pārvati) [quickly](satvaram)
+[durgā+rahasya+bhūtam](durgārahasyabhūtaṃ) [ca](ca) [śṛṇu](śṛṇu) [pārvati](pārvati) [satvaram](satvaram)
