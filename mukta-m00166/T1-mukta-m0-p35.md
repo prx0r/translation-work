@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p35-v851
-[she](sā) [śāradā](śāradā) [foot](pāda) [+surface](tale) [dwelling](nivāsam)
+[sā](sā) [śāradā](śāradā) [pādatale](pādatale) [nivāsam](nivāsam)
 
 ## mukta-m0-p35-v852
-[swan](haṃsa) [+vehicle](vāhanā) [having](dhārā) [goddess](devī)
+[haṃsa+vāhanā](haṃsavāhanā)
 
 ## mukta-m0-p35-v853
-[elephant](gaja) [+king](rāja) [+moving](cara) [+etc.](ādi) [+gods](devatānāṃ) [your](bhavatīyaṃ) [on-path](pathi) [swan](haṃsa) [+vehicle](vāhanā) [may-protect](avyāt)
+[gajarāja+carādi+devatānām](gajarājacarādidevatānāṃ) [bhavatī+iyam](bhavatīyaṃ) [pathi](pathi) [haṃsa+vāhanā](haṃsavāhanā) [vyāt](vyāt)
 
 ## mukta-m0-p35-v854
-[kingdom](rājya) [+fortune](lakṣmīḥ)
+[rājya+lakṣmīḥ](rājyalakṣmīḥ)
 
 ## mukta-m0-p35-v855
-[they-desire](lubhyanti) [helpless](vivaśāḥ) [she](sā) [may-be](astu) [kingdom](rājya) [+fortune](lakṣmīḥ) [good-rule](surājya) [+giver](dā)
+[lubhyanti](lubhyanti) [vivaśāḥ](vivaśāḥ) [sā](sā) [astu](astu) [rājya+lakṣmīḥ](rājyalakṣmīḥ) [surājya+dā](surājyadā)
 
 ## mukta-m0-p35-v856
-[vaṣaṭ](vaṣaṭ) [+utterance](kārā)
+[vaṣaṭkārā](vaṣaṭkārā)
 
 ## mukta-m0-p35-v857
-[they-obtain](prāpnuvanti) [always](sadā) [+support](ādhāro) [vaṣaṭ](vaṣaṭ) [+utterance](kārā) [to-me](mama) [may-be](astu) [she](sā)
+[prāpnuvanti](prāpnuvanti) [sadā+ādhāraḥ](sadādhāro) [vaṣaṭkārā](vaṣaṭkārā) [mama](mama) [astu](astu) [sā](sā)
 
 ## mukta-m0-p35-v858
-[page](p.) [127)](127)) [nectar](sudhā) [+form](ākārā)
+[sudhā+kārā](sudhākārā)
 
 ## mukta-m0-p35-v859
-[immortality](amaratvaṃ) [in-a-moment](kṣaṇāt) [that](tat) [may-be](syāt) [nectar](sudhā) [+form](ākāra) [+contemplation](anucintanāt)
+[amaratvam](amaratvaṃ) [kṣaṇāt](kṣaṇāt) [tat](tat) [syāt](syāt) [sudhā+kāra+anucintanāt](sudhākārānucintanāt)
 
 ## mukta-m0-p35-v860
-[nectar](sudhā) [+natured](ātmikā)
+[sudhā+ātmikā](sudhātmikā)
 
 ## mukta-m0-p35-v861
-[nectar](sudhā) [+natured](ātmikā) [triumphs](jayati) [this](eṣā) [everywhere](viśvato) [universe](viśva) [+supporter](dhārikā)
+[sudhā+ātmikā](sudhātmikā) [jayati](jayatyeṣā) [eṣā](eṣā) [viśvataḥ](viśvato) [viśva+dhārikā](viśvadhārikā)
 
 ## mukta-m0-p35-v862
-[royal](rāja) [+policy](nītiḥ)
+[rājani+itiḥ](rājanītiḥ)
 
 ## mukta-m0-p35-v863
-[then](tadā) [when](yadā) [not](na) [pleased](tuṣṭā) [you](tvaṃ) [royal](rāja) [+policy](nītiḥ) [may-be](bhaveḥ) [o-śiva](śive)
+[tadā](tadā) [yadā](yadā) [na](na) [tuṣṭā](tuṣṭā) [tvam](tvaṃ) [rājani+itiḥ](rājanītiḥ) [bhavaḥ](bhaveḥ) [śive](śive)
 
 ## mukta-m0-p35-v864
-[triple-veda](trayī)
+[trayī](trayī)
 
 ## mukta-m0-p35-v865
-[destruction](nāśaḥ) [even](api) [may-be](syāt) [may-remove](haratu) [sin](duritaṃ) [speech](vāk) [+triple](trayī) [+mistress](śī) [this-triple-veda](trayīyam)
+[nāśaḥ](nāśo'pi) [api](api) [syāt](syāt) [haratu](haratu) [duritam](duritaṃ) [vāk+trayī+śī](vāktrayīśī) [trayī](trayī) [iyam](iyam)
 
 ## mukta-m0-p35-v866
-[livelihood](vārtā)
+[vārtā](vārtā)
 
 ## mukta-m0-p35-v867
-[which](yā) [+alone](eka) [+situated](sthā) [even](api) [great-distance](sudūratvaṃ) [livelihood](vārtā) [with-distress](sārtiṃ) [may-remove](haratu) [this](iyam)
+[yaikasthā](yaikasthāpi) [api](api) [sudūratvam](sudūratvaṃ) [vārtā](vārtā) [sārtim](sārtiṃ) [haratu](haratviyam) [iyam](iyam)
 
 ## mukta-m0-p35-v868
-[punishment](daṇḍa) [+policy](nītiḥ)
+[daṇḍanītiḥ](daṇḍanītiḥ)
 
 ## mukta-m0-p35-v869
-[auspicious](śivā) [punishment](daṇḍa) [+policy](nītiḥ) [fear](bhayaṃ) [punishing](daṇḍayantī)
+[śivā](śivā) [daṇḍanītiḥ](daṇḍanītiḥ) [bhayam](bhayaṃ) [daṇḍayantī](daṇḍayantī)
 
 ## mukta-m0-p35-v870
-[action](kriyā) [+possessing](vatī)
+[kriyāvatī](kriyāvatī)
 
 ## mukta-m0-p35-v871
-[action](kriyā) [+possessing](vatī) [to-us](naḥ) [dear](priyam) [may-extend](ātanotu)
+[kriyāvatī](kriyāvatī) [naḥ](naḥ) [priyam](priyam) [ātanotu](ātanotu)
 
 ## mukta-m0-p35-v872
-[true](sat) [+prosperity](bhūtiḥ)
+[sadbhūtiḥ](sadbhūtiḥ)
 
 ## mukta-m0-p35-v873
-[causing](bhāvayantī) [own-nature](svabhāva) [+purpose](artha) [+making](karī) [true](sat) [+prosperity](bhūtiḥ) [may-be](astu) [to-you](vaḥ)
+[bhāvayantī](bhāvayantī) [svabhāva+arthakarī](svabhāvārthakarī) [sadbhūtiḥ](sadbhūtiḥ) [astu](astu) [vaḥ](vaḥ)
 
 ## mukta-m0-p35-v874
-[savior](tāriṇī)
+[tāriṇī](tāriṇī)
 
 ## mukta-m0-p35-v875
-[wretched](dīnaḥ) [then](tad) [if](yadi) [not](na) [you](tvam) [own](ātma) [+compassion](kṛpayā) [savior](saṃtāriṇī) [savior](tāriṇī)
+[dīnaḥ](dīnastadyadi) [tad](tad) [yadi](yadi) [na](na) [tvam](tvam) [ātma+kṛpayā](ātmakṛpayā) [saṃtāriṇī](saṃtāriṇī) [tāriṇī](tāriṇī)

@@ -2,19 +2,19 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p37-v901
-[river-name](sarayūḥ) [mind-born](mānasa-udbhūtā) [mind-born](mānasa-udbhūta) [change](vikriyām)
+[sarayu](sarayū) [mind](mānasa) [born](udbhūtā) [mind](mānasa) [born](udbhūta) [transformation](vikriyām)
 
 ## mukta-m0-p37-v902
-[moon-part](candrabhāgā)
+[chandrabhaga](candrabhāgā)
 
 ## mukta-m0-p37-v903
-[to-you](yuṣmān) [by-great-fortune](mahā-bhāgatayā) [may-join](yunaktu)
+[you](yuṣmān) [great-fortune](mahābhāgatayā) [unite](yunaktu)
 
 ## mukta-m0-p37-v904
-[kausiki](kauśikī)
+[kaushiki](kauśikī)
 
 ## mukta-m0-p37-v905
-[may-give](vitaratu) [boon-treasure](vara-kośam) [kausiki](kauśikī) [well-shining](su-prakāśā)
+[give](vitaratu) [excellent-treasury](varakośaṃ) [kaushiki](kauśikī) [well-shining](suprakāśā)
 
 ## mukta-m0-p37-v906
 [gandaki](gaṇḍakī)
@@ -23,55 +23,55 @@
 [pure](śuciḥ)
 
 ## mukta-m0-p37-v908
-[bright](rucirā) [from-impure](asucirāt) [may-be](astu) [pure](śuciḥ) [own-cause-purpose-doer](sva-ākāraṇa-artha-kṛt)
+[beautiful](rucirā) [impure](asucirāt) [be](astu) [pure](śuciḥ) [self-caused-purpose](svākāraṇārthakṛt)
 
 ## mukta-m0-p37-v909
 [narmada](narmadā)
 
 ## mukta-m0-p37-v910
-[she](sā) [narmada](narmadā) [in-pleasures](narmasu) [southwardness](dakṣiṇatvam)
+[she](sā) [narmada](narmadā) [in-joys](narmasu) [southernness](dakṣiṇatvam)
 
 ## mukta-m0-p37-v911
-[action-destruction](karmanāśā)
+[karmanasha](karmanāśā)
 
 ## mukta-m0-p37-v912
-[actionlessness](naiṣkarmyam) [this](eṣā) [indeed](kila) [action-destruction](karmanāśā)
+[non-action](naiṣkarmyam) [this](eṣā) [indeed](kila) [karmanasha](karmanāśā)
 
 ## mukta-m0-p37-v913
-[carmanvati](carmaṇvatī)
+[charmanvati](carmaṇvatī)
 
 ## mukta-m0-p37-v914
-[carmanvati](carmaṇvatī) [always](sadā) [may-be](bhūyāt) [skin-sight-remover](carma-dṛṣṭi-harā) [to-you](tava)
+[charmanvati](carmaṇvatī) [always](sadā) [be](bhūyāt) [skin-sight-removing](carmadṛṣṭiharā) [your](tava)
 
 ## mukta-m0-p37-v915
 [devika](devikā)
 
 ## mukta-m0-p37-v916
-[brahma-etc-higher](brahma-ādikā-adhikā) [goddess](devī) [devika](devikā) [god-renowned](deva-viśrutā)
+[brahma-etc-superior](brahmādikādhikā) [goddess](devī) [devika](devikā) [god-famous](devaviśrutā)
 
 ## mukta-m0-p37-v917
 [vetravati](vetravatī)
 
 ## mukta-m0-p37-v918
-[by-three-staff-bearers](tri-vetra-dhāribhiḥ) [sung](gītā) [may-be](bhavet) [vetravati](vetravatī) [auspicious](śivā)
+[three-staff-bearers](trivetradhāribhir) [sung](gītā) [be](bhaved) [vetravati](vetravatī) [auspicious](śivā)
 
 ## mukta-m0-p37-v919
 [vitasta](vitastā)
 
 ## mukta-m0-p37-v920
-[they-revive](saṃjīvayanti) [wonderful-life-of](adbhuta-jīvanasya) [by-meditation](dhyānāt) [even](api) [this](iyam) [joy-giving](sukhadā) [vitasta](vitastā)
+[reviving](saṃjīvayanty) [wonderful-life](adbhutajīvanasya) [by-meditation](dhyānāt) [this](iyam) [pleasant-giving](sukhadā) [vitasta](vitastā)
 
 ## mukta-m0-p37-v921
-[boon-giver](varadā)
+[varada](varadā)
 
 ## mukta-m0-p37-v922
-[boon-giver](varadā) [thus](iti) [how](katham) [sung](gītā) [by-boon-minded](vara-dhībhiḥ) [boon-goddess](vara-īśvarī)
+[varada](varadā) [how](kathaṃ) [sung](gītā) [boon-givers](varadhībhir) [boon-lady](vareśvarī)
 
 ## mukta-m0-p37-v923
 [naravahana](naravāhanā)
 
 ## mukta-m0-p37-v924
-[by-nara-vahana-praised](nara-vāhana-saṃślāghyā) [for-fortune](śriye) [may-be](astu) [naravahana](naravāhanā)
+[naravahana-praised](naravāhanasaṃślāghyā) [prosperity](śriye) [be](astu) [naravahana](naravāhanā)
 
 ## mukta-m0-p37-v925
-[faithful](satī)
+[sati](satī)

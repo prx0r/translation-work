@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p36-v876
-[faith](śraddhā) [faith](śraddhā) [faith](śraddhā) [faith](śraddhā)
+[faith](śraddhā)
 
 ## mukta-m0-p36-v877
-[that+abode](tat+dhāma) [to-awaken](saṃbodhayitum) [capable](samarthā) [faith](śraddhā) [always](sadā) [she](sā) [joy-giving](mama+dā) [to-me](mama) [may-be](astu)
+[that-glory](taddhāma) [to-awaken](saṃbodhayituṃ) [able](samarthā) [faith](śraddhā) [always](sadā) [she](sā) [intoxication](mamadā) [may-be](mamāstu)
 
 ## mukta-m0-p36-v878
-[page](p.) [129](129)) [good+path](sat+gatiḥ) [good+path](sat+gatiḥ)
+[good-path](sadgatiḥ)
 
 ## mukta-m0-p36-v879
-[good-ones](santaḥ) [worshipping](bhajantaḥ) [you](bhavatīm) [virtuous](satīm) [because](yat) [are-praised](saṃkīrtyase) [good+path](sat+gatiḥ) [thus](iti) [therefore](atas) [you](tvam)
+[saints](santo) [worshipping](bhajanto) [you](bhavatīṃ) [true](satīṃ) [because](yat) [are-praised](saṃkīrtyase) [good-path](sadgatiḥ) [therefore](ityataḥ) [you](tvam)
 
 ## mukta-m0-p36-v880
-[devoted-to-the-good](sat+parāyaṇā) [devoted-to-the-good](sat+parāyaṇā) [devoted-to-the-good](sat+parāyaṇā) [devoted-to-the-good](sat+parāyaṇā)
+[supreme-refuge](satparāyaṇā)
 
 ## mukta-m0-p36-v881
-[not](na) [indeed](tu) [ever](jātu) [always+your+nature](sadā+tvat+ātmakā) [because](yat) [sung](parigītā) [indeed](hi) [you-are](asi) [devoted-to-the-good](sat+parāyaṇā) [therefore](ataḥ)
+[not](natu) [ever](jātu) [always-your-self-natured](sadātvadātmakā) [because](yat) [sung](parigītā) [indeed](hyasi) [supreme-refuge](satparāyaṇā) [from](taḥ)
 
 ## mukta-m0-p36-v882
-[river](sindhuḥ) [river](sindhuḥ) [river](sindhuḥ) [river](sindhuḥ)
+[ocean](sindhuḥ)
 
 ## mukta-m0-p36-v883
-[river](sindhuḥ) [root-destroyer](kanduḥ) [of-evil-deed+fuel](duṣkṛta+edhas+su) [may-be](bhūyāt)
+[ocean](sindhuḥ) [bank](kanduḥ) [sins](duṣkṛta) [fuel](aidhas) [su](su) [may-be](bhūyāt)
 
 ## mukta-m0-p36-v884
-[celestial-river](mandākinī) [celestial-river](mandākinī) [celestial-river](mandākinī) [celestial-river](mandākinī)
+[mandakini](mandākinī)
 
 ## mukta-m0-p36-v885
-[she](sā) [by-gods+adored](vṛndāraka+vanditā) [may-remove](haratu) [of-us](naḥ) [Mandakini](mandākinī) [dullness](mandatām)
+[she](sā) [gods-honored](vṛndāraka+vanditā) [remove](haratu) [us](no) [mandakini](mandākinī) [slowness](mandatām)
 
 ## mukta-m0-p36-v886
-[Ganga](gaṅgā) [Ganga](gaṅgā) [Ganga](gaṅgā) [Ganga](gaṅgā)
+[ganga](gaṅgā)
 
 ## mukta-m0-p36-v887
-[she](sā) [Ganga](gaṅgā) [also](api) [makes](karoti) [wonder](citram) [pure](amalam) [above-all+standing](sarva+uparistham) [person](janam)
+[she](sā) [ganga-even](gaṅgā+api) [does](karoti) [wonder](citram) [pure](amalaṃ) [all-above](sarva+uparisthaṃ) [people](janam)
 
 ## mukta-m0-p36-v888
-[Yamuna](yamunā) [Yamuna](yamunā) [Yamuna](yamunā) [Yamuna](yamunā)
+[yamuna](yamunā)
 
 ## mukta-m0-p36-v889
-[pride+subduing](maya+damanī) [Yamuna](yamunā) [deathlessness+giving](yama+tva+dā) [may-be](astu)
+[yama-tamer](mayadamanī) [yamuna](yamunā) [yama-your](yamatvadā) [may-be](stu)
 
 ## mukta-m0-p36-v890
-[Sarasvati](sarasvatī) [Sarasvati](sarasvatī) [Sarasvati](sarasvatī) [Sarasvati](sarasvatī)
+[sarasvati](sarasvatī)
 
 ## mukta-m0-p36-v891
-[waterless](nīra+bhūḥ) [even](api) [she](sā) [enjoyment+essence+giving](bhoga+rasa+dā) [may-be](astu) [Sarasvati](sarasvatī)
+[water-born-even](nīra+bhūr+api) [she](sā) [enjoyment-essence](bhoga+rasa) [may-be](dāstu) [sarasvati](sarasvatī)
 
 ## mukta-m0-p36-v892
-[Godavari](godāvarī) [Godavari](godāvarī) [Godavari](godāvarī) [Godavari](godāvarī)
+[godavari](godāvarī)
 
 ## mukta-m0-p36-v893
-[Godavari](godāvarī) [dullness](jaḍatvam) [of-us](naḥ) [by-knowledge+rays](bodha+gobhiḥ) [may-remove](vyapohatām)
+[godavari](godāvarī) [dullness](jaḍatvaṃ) [us](no) [knowledge-rays](bodha+gobhiḥ) [remove](vyapohatām)
 
 ## mukta-m0-p36-v894
-[Vipasha](vipāśā) [Vipasha](vipāśā) [Vipasha](vipāśā) [Vipasha](vipāśā)
+[vipasa](vipāśā)
 
 ## mukta-m0-p36-v895
-[because](yatas) [therefore](tatas) [thence+flowing](tataḥ+udaughā) [Vipasha](vipāśā) [thus](iti) [celebrated](prakīrtitā)
+[whence](yataḥ) [thence](tataḥ) [then-flood](tataḥ+ogha) [vipasa](vipāśā) [thus](iti) [proclaimed](prakīrtitā)
 
 ## mukta-m0-p36-v896
-[Kaveri](kāverī) [Kaveri](kāverī) [Kaveri](kāverī) [Kaveri](kāverī)
+[kaveri](kāverī)
 
 ## mukta-m0-p36-v897
-[Kaveri](kāverī) [of-rivers](nimnayānām) [moment+destruction+power](kṣaṇa+hati+vibhavāt) [low+joy+attainment](nimna+harṣa+upayānāt)
+[kaveri](kāverī) [down-going](nimna+yānā) [moment-destroying-glory](kṣaṇa+hati+vibhavān) [down-joy-approach](nimna+harṣa+upayānāt)
 
 ## mukta-m0-p36-v898
-[Shatadruka](śatadrukā) [Shatadruka](śatadrukā) [Shatadruka](śatadrukā) [Shatadruka](śatadrukā)
+[shatadru](śatadrukā)
 
 ## mukta-m0-p36-v899
-[by-hundred+good-ones](śata+sadbhiḥ) [how](katham) [sung](gītā) [she](sā) [goddess](devī) [here](iha) [Shatadruka](śatadrukā)
+[hundred-saints](śata+sadbhiḥ) [how](kathaṃ) [sung](gītā) [she](sā) [goddess-here](devī+ha) [shatadru](śatadrukā)
 
 ## mukta-m0-p36-v900
-[Sarayu](sarayūḥ) [Sarayu](sarayūḥ) [Sarayu](sarayūḥ) [Sarayu](sarayūḥ)
+[sarayu](sarayūḥ)

@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p108-v2676
-[by-which](yābhiḥ) [struck](hataḥ) [those](tāḥ) [calamities](vipadaḥ) [how](kathaṃ) [may-be](syuḥ)
+[by-whom-destroyed-those](yābhirhatastā) [calamities](vipadaḥ) [how](kathaṃ) [would-be](syuḥ)
 
 ## mukta-m0-p108-v2677
-[always](sadā) [auspicious](śubhā) [indeed](eva) [his](asya) [may-be](bhavet) [intellect](manīṣā)
+[always](sadā) [auspicious-indeed-his](śubhaivāsya) [would-become-thought](bhavenmanīṣā)
 
 ## mukta-m0-p108-v2678
-[may-obtain](labheta) [properly](samyak) [family+leadership](kula+dhuryatāṃ) [he](saḥ)
+[would-obtain](labheta) [properly](samyak) [lineage-preeminence](kuladhuryatāṃ) [he](saḥ)
 
 ## mukta-m0-p108-v2679
-[demons](rakṣāṃsi) [him](taṃ) [to-see](draṣṭum) [even](api) [not-capable](kṣamāṇi)
+[demons](rakṣāṃsi) [him](taṃ) [to-see](draṣṭumapi) [able](kṣamāṇi)
 
 ## mukta-m0-p108-v2680
-[ghosts](bhūtāḥ) [goblins](piśācāḥ) [even](api) [him](taṃ) [may-worship](bhajeyuḥ)
+[beings](bhūtāḥ) [fiends](piśācā) [also](api) [him](taṃ) [would-serve](bhajeyuḥ)
 
 ## mukta-m0-p108-v2681
-[lion](pañcānanaṃ) [having-seen](vīkṣya) [as](yathā) [they-may-flee](draveyuḥ)
+[five-faced-one](pañcānanaṃ) [seeing](vīkṣya) [as](yathā) [would-melt](draveyuḥ)
 
 ## mukta-m0-p108-v2682
-[by-grace](anugrahāt) [his](asya) [not](na) [they](te) [how](kathaṃ) [may-be](syuḥ)
+[from-grace-his](anugrahādasya) [not](na) [they](te) [how](kathaṃ) [would-be](syuḥ)
 
 ## mukta-m0-p108-v2683
-[how](kim) [not](na) [he](eṣaḥ) [his+pleasure+deed+renowned](tat+prīti+kṛti+prasiddhaḥ)
+[what](kiṃ) [not](naiṣa) [that-pleasure-causing](tatprītikṛti) [famous](prasiddhaḥ)
 
 ## mukta-m0-p108-v2684
-[how](kathaṃ) [not](na) [may-be-liberated](mucyeta) [as](yathā) [here](iha) [liberated](muktaḥ)
+[how](kathaṃ) [not](na) [would-be-liberated](mucyeta) [as-here](yatheha) [liberated](muktaḥ)
 
 ## mukta-m0-p108-v2685
-[may-see](paśyet) [separation](viyogaṃ) [and](ca) [he](saḥ) [living-a-kalpa](kalpa+jīvī)
+[would-see](paśyed) [separation](viyogaṃ) [and](ca) [he](sa) [kalpa-lived](kalpajīvī)
 
 ## mukta-m0-p108-v2686
-[mute](mūkaḥ) [even](api) [lord-of-speech+state](vāgīśatāyā) [like](iva) [parrot](kīraḥ)
+[mute-even](nmūko'pi) [speech-lordship-like](vāgīśatayeva) [parrot](kīraḥ)
 
 ## mukta-m0-p108-v2687
-[happiness+source](sukha+prasūtiḥ) [and](ca) [not](na) [hard-to-obtain](durlabhā) [indeed](eva)
+[happy-birth](sukhaprasūtiśca) [not](na) [difficult-indeed](durlabhaiva)
 
 ## mukta-m0-p108-v2688
-[how](kathaṃ) [may-be](bhavet) [his](asya) [not](na) [delighting](modamānaḥ)
+[how](kathaṃ) [would-be-his](bhavedasya) [not](na) [rejoicing](modamānaḥ)
 
 ## mukta-m0-p108-v2689
-[attainment+renowned](prāpti+prasiddhaḥ) [Vasudeva+like](vasudeva+vat) [may-be](syāt)
+[attainment-famous](prāptiprasiddho) [like-Vasudeva](vasudevavat) [would-be](syāt)
 
 ## mukta-m0-p108-v2690
-[liquid+lord](drasa+īśvaraṃ) [having-consumed](prāśya) [as](yathā) [liberated](vimuktaḥ)
+[poison-lord](draseśvaraṃ) [having-drunk](prāśya) [as](yathā) [liberated](vimuktaḥ)
 
 ## mukta-m0-p108-v2691
-[boy](bālaḥ) [even](api) [elders](vṛddhān) [may-conquer](vijayeta) [by-poems](kāvyaiḥ)
+[child-even](rbālo'pi) [elders](vṛddhān) [would-conquer](vijayeta) [with-poems](kāvyaiḥ)
 
 ## mukta-m0-p108-v2692
-[not](na) [final](antyaṃ) [may-obtain](labheta) [first](ādimam) [indeed](eva) [enjoyment](bhogam)
+[not](nāntyaṃ) [would-obtain](labhetādimameva) [first](ādimameva) [enjoyment](bhogam)
 
 ## mukta-m0-p108-v2693
-[solitude+state](ekāki+bhāvaṃ) [by-mind](manasā) [even](api) [gone](yātaḥ)
+[solitude-state](ekākibhāvaṃ) [by-mind](manasāpi) [having-gone](yātaḥ)
 
 ## mukta-m0-p108-v2694
-[to-bestow](viśrāṇituṃ) [she](sā) [fortunate](subhagā) [Bhavānī](bhavānī)
+[to-bestow](viśrāṇituṃ) [that](sā) [auspicious](subhagā) [Bhavani](bhavānī)
 
 ## mukta-m0-p108-v2695
-[accomplished](siddhā) [may-be](bhavet) [most-desired](iṣṭatamā) [and](ca) [by-recitation](pāṭhāt)
+[accomplished](siddhā) [would-be](bhavediṣṭatamā) [most-desired](iṣṭatamā) [and](ca) [from-recitation](pāṭhāt)
 
 ## mukta-m0-p108-v2696
-[in-dream](svapne) [boon-granting](vara+sthāṃ) [he](saḥ) [and](ca) [sees](paśyati) [goddess](īśīm)
+[in-dream](svapne) [stationed](varasthāṃ) [he](sa) [ca](ca) [would-see](paśyatīśīm)
 
 ## mukta-m0-p108-v2697
-[punishment+and+favor](nigraha+anugrahayoḥ) [capable](kṣamāḥ) [may-be](syuḥ)
+[from-restraint](ānigrahānugrahayoḥ) [grace](anugrahayoḥ) [capable](kṣamāḥ) [would-be](syuḥ)
 
 ## mukta-m0-p108-v2698
-[beauty+delight](śobhā+ratī) [manifested](pronmiṣite) [bearing](dadhānāḥ)
+[splendor-rati](śobhāratī) [blossomed](pronmiṣite) [bearing](dadhānāḥ)
 
 ## mukta-m0-p108-v2699
-[they-worship](upāsate) [Śambhu](śambhum) [like](iva) [goddess+hosts](amarā+oghāḥ)
+[worship](upāsate) [Shambhu](śambhumivāmaraughāḥ) [like-gods-host](ivāmaraughāḥ)
 
 ## mukta-m0-p108-v2700
-[having-satisfied](santarpya) [various+nectar+food+chief](nānā+amṛta+bhojya+mukhyaiḥ)
+[having-satisfied](santarpya) [various](nānā) [nectar-foods-principal](mṛtabhojyamukhyaiḥ)

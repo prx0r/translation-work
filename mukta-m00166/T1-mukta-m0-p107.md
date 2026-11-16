@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p107-v2651
-[good-fortune](saubhāgyam) [this](etat) [whether](kimu) [fortunate-one](bhāgi) [not](na) [may-be](syāt)
+[good-fortune](saubhāgyam) [this](etat) [whether](kimu) [fortunate](bhāgi) [not](na) [would-be](syāt)
 
 ## mukta-m0-p107-v2652
-[world+lord+worshippability](lokeśvara+arcyatvam) [also](api) [lost](prahīnam)
+[world-lord-worship-state](llokeśvarārcyatvam) [also](api) [abandoned](prahīnam)
 
 ## mukta-m0-p107-v2653
-[Daṅga+Aṅga+Gaṅga](daṅga+aṅga+gāṅgaṃ) [not](na) [as](yathā) [true-to-meaning](yathārthā)
+[limb-body-ganges](daṅgāṅgagāṅgaṃ) [not](na) [as](yathā) [as-meaning](yathārthā)
 
 ## mukta-m0-p107-v2654
-[those](te) [those](te) [qualities](guṇāḥ) [whether](kiṃ) [attained-position](pada+gā) [may-be](bhaveyuḥ)
+[those](te) [those](te) [qualities](guṇāḥ) [whether](kiṃ) [foot-going](padagā) [would-become](bhaveyuḥ)
 
 ## mukta-m0-p107-v2655
-[splendor](prabhā) [also](api) [that](sā) [shines](bhāsayate) [how](kathaṃ) [not](na)
+[splendor](prabhā) [also](api) [that](sā) [illuminates](bhāsayate) [how](kathaṃ) [not](na)
 
 ## mukta-m0-p107-v2656
-[heroism](vīryaṃ) [not](na) [hero+lordship+accomplishment](vīra+īśvaratā+prasiddhyai)
+[heroism](vīryaṃ) [not](na) [hero-lordship-establishment](vīreśvaratāprasiddhyai)
 
 ## mukta-m0-p107-v2657
-[become](bhavanti) [again](bhūyaḥ) [increasing-factors](prativardhakāni)
+[become](bhavanti) [again](bhūyaḥ) [increasing](prativardhakāni)
 
 ## mukta-m0-p107-v2658
-[may-serve](seveta) [that](sā) [fortune](śrīḥ) [by-herself](svayam) [indeed](eva) [devoted](raktā)
+[should-serve](seveta) [that](sā) [splendor](śrīḥ) [herself](svayameva) [attached](raktā)
 
 ## mukta-m0-p107-v2659
-[in-sleep](svāpe) [even](api) [sins](pāpāni) [not+obtaining+state](an+avāpya+bhāvam)
+[in-sleep](svāpe) [also](api) [sins](pāpāni) [unattainable-state](anavāpyabhāvam)
 
 ## mukta-m0-p107-v2660
-[greed+and-others](lobha+ādayaḥ) [those](te) [also](api) [other](apare) [others](pare) [may-be](syuḥ)
+[greed-etc](lobhādayaḥ) [those](te) [also](api) [others](apare) [supreme](pare) [would-be](syuḥ)
 
 ## mukta-m0-p107-v2661
-[whether](kiṃ) [relatives](bandhavaḥ) [not](na) [inner+bondage](antara+bandhanāya)
+[whether](kiṃ) [relatives](bandhavo) [not](nā) [inner-bondage](antarabandhanāya)
 
 ## mukta-m0-p107-v2662
-[uplifting](uddharayantyaḥ) [not](na) [for-happiness](sukhāya) [whether](kiṃ) [may-be](syuḥ)
+[removing](muddharayantyo) [not](na) [for-happiness](sukhāya) [whether](kiṃ) [would-be](syuḥ)
 
 ## mukta-m0-p107-v2663
-[wives](dārāḥ) [noble](udārāḥ) [love+and-youth](smara+yauvanābhyām)
+[wives](dārā) [noble](udārāḥ) [by-love-youth](smarayauvanābhyām)
 
 ## mukta-m0-p107-v2664
-[those](te) [ornament](alaṅkriyāṃ) [may-make](kuryuḥ) [sufficiently](alaṃ) [good-sons](su+putrāḥ)
+[they](ste) [adornment](alaṅkriyāṃ) [would-do](kuryur) [enough](alaṃ) [good-sons](suputrāḥ)
 
 ## mukta-m0-p107-v2665
-[grandsons](pautrāḥ) [pure](pavitraṃ) [may-extend](tanuyuḥ) [conduct](caritram)
+[grandsons](pautrāḥ) [pure](pavitraṃ) [would-perform](tanuyuḥ) [conduct](caritram)
 
 ## mukta-m0-p107-v2666
-[dwelling](nivāsam) [with-these](etaiḥ) [constantly](satataṃ) [may-shine](vibhāyāt)
+[dwelling](nivāsam) [with-these](etaiḥ) [constantly](satataṃ) [would-shine](vibhāyāt)
 
 ## mukta-m0-p107-v2667
-[free-from-doubt](aśaṅkāḥ) [good-servants](su+bhṛtyāḥ) [also](api) [him](taṃ) [may-serve](bhajeyuḥ)
+[doubts](śaṅkāḥ) [good-servants](subhṛtyā) [also](api) [him](taṃ) [would-worship](bhajeyuḥ)
 
 ## mukta-m0-p107-v2668
-[class+and-others](varṇa+ādyāḥ) [beginning+end+rule](ādi+anta+vidheḥ) [rule](vidhiḥ) [may-be](syāt)
+[color-etc](varṇādya) [beginning-end-rite](ādyantavidhi) [rite](vidhiḥ) [would-be](syāt)
 
 ## mukta-m0-p107-v2669
-[battle](raṇaṃ) [entering](viśan) [may-be](syāt) [victorious](vijayī) [how](kathaṃ) [not](na)
+[battle](raṇaṃ) [entering](viśan) [would-be](syād) [victorious](vijayī) [how](kathaṃ) [not](na)
 
 ## mukta-m0-p107-v2670
-[obtained+wealth](pralābha+vittaḥ) [may-be](astu) [how](kathaṃ) [indeed](nu) [merchant](vaiśyaḥ)
+[profit-wealth](pralābhavitto) [let-be](astu) [how](kathaṃ) [indeed](nu) [vaishya](vaiśyaḥ)
 
 ## mukta-m0-p107-v2671
-[what](kiṃ) [what](kiṃ) [not](na) [that](tat) [attains](yāti) [removed+effort](nirasta+yatnaḥ)
+[what](kiṃ) [what](kiṃ) [not](na) [that](tad) [goes](yāti) [effortless](nirastayatnaḥ)
 
 ## mukta-m0-p107-v2672
-[desirer](kāmī) [at-will](prakāmaṃ) [he](sa) [he](sa) [not](na) [of-him](asya) [far](dūre)
+[desirous](kāmī) [fully](prakāmaṃ) [he](sa) [he](sa) [not](nā) [his](asya) [far](dūre)
 
 ## mukta-m0-p107-v2673
-[in-front](agre) [may-be](bhavet) [whether](kiṃ) [not](na) [he](sa) [dharma](dharmaḥ) [indeed](eva)
+[foremost](ragre) [would-be](bhavet) [whether](kiṃ) [not](na) [he](sa) [dharma](dharma) [indeed](eva)
 
 ## mukta-m0-p107-v2674
-[daughter](kanyā) [also](api) [daughter+status](putrī+padam) [indeed](eva) [there](tatra)
+[daughter](kanyā) [also](api) [daughter-status](putrīpadam) [indeed](eva) [there](tatra)
 
 ## mukta-m0-p107-v2675
-[rivers](nadyaḥ) [as](yathā) [wish-granting](kāma+dughāḥ) [pot+milked](ghaṭa+udhnyaḥ)
+[rivers](nadyo) [as](yathā) [wish-cow](kāmadughā) [pot-bottom](ghaṭodhnyaḥ)

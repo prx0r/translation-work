@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p17-v401
-[by-the-two-attentive](prahibhyāṃ) [by-the-two-ears](śrotrābhyāṃ) [light+lord+ray+seized](ruci+pati+kara+ākrāntam) [here](iha) [what](kim)
+[from-the-two-ears](prahibhyāṃ) [by-the-two-ears](śrotrābhyāṃ) [touched-by-the-lord-of-taste](rucipatikarākrāntamiha) [what](kim)
 
 ## mukta-m0-p17-v402
-[in-essence+satisfied](rasaṃ+tuṣṭau) [by-abiding](sthityā) [in-eye+range](nayana+viṣaye) [sun+moon](sūrya+śaśinau)
+[contentment-in-taste](rasaṃtuṣṭau) [by-stability](sthityā) [in-the-visual-field](nayanaviṣaye) [sun-and-moon](sūryaśaśinau)
 
 ## mukta-m0-p17-v403
-[cheeks](kapolau) [ruby+surface+domain](māṇikya+sthalaka+viṣayāṃ) [or](vā) [splendor](śriyam) [thus](itaḥ)
+[cheeks](kapolau) [jewel-place](māṇikyasthalakaviṣayāṃ) [or](vā) [splendor-here](śriyamitaḥ)
 
 ## mukta-m0-p17-v404
-[made](kṛtaṃ) [star+abode](tārā+sthānaṃ) [of-eye+light+lords](nayana+ruci+patyoḥ) [by-the-daughter-of-the-mountain](giri+jayā)
+[made](kṛtaṃ) [star-place](tārāsthānaṃ) [of-the-two-eyes-and-lord-of-taste](nayanarucipatyorgirijayā)
 
 ## mukta-m0-p17-v405
-[golden+limbed](hiraṇya+aṅkau) [cheek+curve+essence+grasping+endowed-with-quality](gaṇḍa+avalaka+vara+saṃgrāha+guṇinau)
+[golden-marked](hiraṇyāṅkau) [cheeks-with-fragrance-quality](gaṇḍāvalakavarasaṃgrāhaguṇinau)
 
 ## mukta-m0-p17-v406
-[born](prajātau) [swans](haṃsau) [two](dvau) [with-twice-born+jewel+endowed](dvija+maṇi+yutau) [earring-formed](kuṇḍala+mayau)
+[born](prajātau) [two-swans](haṃsau) [dvau](dvau) [with-jewel](dvijamaṇiyutau) [earring-made](kuṇḍalamayau)
 
 ## mukta-m0-p17-v407
-[because](yat) [from-these](asmād) [from-the-two-lights](dhāmabhyām) [also](api) [he](saḥ) [obstructed](uparuddhaḥ) [and-not](na+ca) [mutually](mithaḥ)
+[since-from-this](yadasmād) [from-the-two-abodes](dhāmabhyāmapi) [he](sa) [restrained](uparuddho) [not](naca) [mutually](mithaḥ)
 
 ## mukta-m0-p17-v408
-[victorious](jayī) [Māra](māraḥ) [also](api) [having-obtained](āptvā) [in-me](mayi) [arisen](samuditaṃ) [own](svaṃ) [family+multitude](kula+kulam)
+[victorious](jayī) [cupid](māro'pyāptvā) [in-me](mayi) [arisen](samuditaṃ) [own-lineage](svaṃ) [kulakulam](kulakulam)
 
 ## mukta-m0-p17-v409
-[to-enter](praveṣṭuṃ) [that+two-openings](tat+randhra+dvayam) [as-if](iva) [moving](calantī) [encircled](valayitā)
+[to-enter](praveṣṭuṃ) [that-hole-pair](tadrandhradvayamiva) [moving](calantī) [encircled](valayitā)
 
 ## mukta-m0-p17-v410
-[Śivā-obtained](śivā+āptaḥ) [by-other+lords](anyaiḥ+īśaiḥ) [desired+play](abhilaṣita+khelaḥ) [on-all-sides](abhitaḥ) [thus](iti)
+[shiva-obtained](śivāpto'nyairīśairabhilaṣitakhelo'bhita) [iti](iti)
 
 ## mukta-m0-p17-v411
-[because](yataḥ) [issuing-forth](niryāntyau) [turning-back](āvartakaḥ) [here](iha) [cheeks](kapolau) [resorts-to](śrayati) [and](ca)
+[since](yato) [going-out](niryāntyāvartaka) [here](iha) [cheeks](kapolau) [resides](śrayati) [ca](ca)
 
 ## mukta-m0-p17-v412
-[own+skill](sva+cāturyaṃ) [that+essence](tat+tāva) [in-interior+gone+separation+clear](udara+gata+viccheda+viśadau)
+[own-skill](svacāturyaṃ) [that-pair](tattāvudaragatavicchedaviśadau)
 
 ## mukta-m0-p17-v413
-[departed](prayātaḥ) [to-me](me) [holds](dhatto) [essence](rasam) [here](iha) [how](kathaṃ) [or](vā) [higher](uttarataram)
+[gone](prayāto) [to-me](me) [given](dhatto) [taste-here](rasamiha) [how](kathaṃ) [or](vā) [higher](uttarataram)
 
 ## mukta-m0-p17-v414
-[rushing](rhasantī) [two-lips](oṣṭhau) [to-transfer](saṅkrāmayitum) [as-if](iva) [full](pūrṇaṃ) [own+quality](nija+guṇam)
+[laughing-lips](rhasantyoṣṭhau) [to-transfer](saṅkrāmayitumiva) [full](pūrṇaṃ) [own-quality](nijaguṇam)
 
 ## mukta-m0-p17-v415
-[not](na) [speech](vāṇī) [by-Vāṇī](vāṇyā) [also](api) [to-manifest](prathayitum) [by-misfortune](alakṣmyā) [fit](samucitā)
+[not](na) [speech](vāṇī) [by-speech](vāṇyāpi) [to-proclaim](prathayitumalakṣmyā) [fitting](samucitā)
 
 ## mukta-m0-p17-v416
-[own](nijaṃ) [named-Bhāratī](bhāratī+ākhyāṃ) [person](janam) [may-lead](upanayet) [born-from-vision](darśana+bhavām)
+[own](nijaṃ) [bharati-named](bhāratyākhyāṃ) [people](janamupanayed) [vision-born](darśanabhavām)
 
 ## mukta-m0-p17-v417
-[may-they-strike](nahantāṃ) [may-they-sweat](sedantāṃ) [manifests](prathayati) [with-wonder+graceful](camattā+abhilalitā)
+[not](nahantāṃ) [sedantāṃ](sedantāṃ) [proclaims](prathayati) [intoxicated-desired](camattābhilalitā)
 
 ## mukta-m0-p17-v418
-[gone](gatā) [to-self-nature](svaṅgatvaṃ) [or](vā) [consisting-of-three-parts](tri+avayava+mayī) [light+majesty](dhāma+vibhutā)
+[gone](gatā) [own-state](svaṅgatvaṃ) [vā](vā) [three-limbed](tryavayavamayī) [abode-might](dhāmavibhutā)
 
 ## mukta-m0-p17-v419
-[to-be-applied](prayogyaḥ) [inward+resonating+sound](antar+mūrcchat+dhvaniḥ) [also](api) [of-speech](giraḥ) [born-from-light](dhāma+janitaḥ)
+[usable](prayogyo'ntarmūrcchaddhvanirapi) [speech](giro) [abode-born](dhāmajanitaḥ)
 
 ## mukta-m0-p17-v420
-[state](sthitiḥ) [mostly](prāyaḥ) [with-expiation+manifestation](citta+prakaṭana+yutā) [which](yat) [in-word](pade) [here](iha)
+[stability](sthitiḥ) [atonement-manifest](prāyaścittaprakaṭanayutā) [yatpada](yatpada) [iha](iha)
 
 ## mukta-m0-p17-v421
-[splendor](śriyaṃ) [obtained-by-six-states](ṣaḍ+bhāva+āptām) [here](iha) [whether](kimu) [in-special+meaning+expression](viśeṣa+artha+vadane)
+[splendor](śriyaṃ) [six-bhava-obtained](ṣaḍbhāvāptāmiha) [what](kimu) [special-meaning](viśeṣārthavadane)
 
 ## mukta-m0-p17-v422
-[examination+self](samīkṣā+ātmā) [enumeration](saṃkhyā) [therefore](tat) [here](iha) [not](na+hi) [attained-sufficiency](paryāptim+agamat)
+[examination-self](samīkṣātmā) [number](saṃkhyā) [tadiha](tadiha) [not](nahi) [sufficient](paryāptimagamat)
 
 ## mukta-m0-p17-v423
-[restrained+ego](niruddha+ahaṅkāraḥ) [perceives](kalayati) [mind](manaḥ) [with-full+digit](pūrṇa+kalayā)
+[restrained-ego](niruddhāhaṅkāraḥ) [considers](kalayati) [mind](manaḥ) [full-portion](pūrṇakalayā)
 
 ## mukta-m0-p17-v424
-[with-those](taiḥ) [joined](yutaiḥ) [with-mixed](miśrābhiḥ) [resorted-to](śritam) [also](api) [not](na) [thus-gone+state](tāthāgata+gatam)
+[with-those-mixed](yutaistairmiśrābhiḥ) [resorted](śritamapi) [not](na) [tathagata-gone](tāthāgatagatam)
 
 ## mukta-m0-p17-v425
-[body](śarīraṃ) [own](svaṃ) [all](sarvā) [course](gatiḥ) [here](iha) [extended](tatā) [producing-vision](darśana+kṛtā)
+[body](śarīraṃ) [own](svaṃ) [all](sarvā) [movement-here](gatiriha) [tatā](tatā) [vision-made](darśanakṛtā)
