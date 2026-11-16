@@ -17,28 +17,28 @@
 [fish](matsyāḥ) [to-them](tān) [to-these](ebhyaḥ) [to-give](dātum) [prepared](udyatāḥ)
 
 ## mukta-m0-p256-v6381
-[by-you](tvayā) [O-god](deva) [by-Viṣṇu](viṣṇunā) [in-heart](hṛdaye) [made](kṛtā)
+[by-you](tvayā) [o-god](deva) [by-viṣṇu](viṣṇunā) [in-heart](hṛdaye) [made](kṛtā)
 
 ## mukta-m0-p256-v6382
-[compassionate](kāruṇikāḥ) [O-dear](tāta) [indeed](hi) [to-these](etebhyaḥ) [to-give](dātum) [prepared](udyatāḥ)
+[compassionate](kāruṇikāḥ) [o-dear](tāta) [indeed](hi) [to-these](etebhyaḥ) [to-give](dātum) [prepared](udyatāḥ)
 
 ## mukta-m0-p256-v6383
 [six-fragrances](ṣaṭ+su+gandhāḥ) [six-tastes](ṣaḍ+rasāḥ) [and](ca) [seals](mudrāḥ) [to-give](dātum) [prepared](samudyatāḥ)
 
 ## mukta-m0-p256-v6384
-[in-golden-vessel-placed](svarṇa+pātra+stha) [supreme](paramam) [food](annam) [having-abandoned](hitvā) [grass-eaters](tṛṇa+aśinaḥ)
+[in-gold-vessel](svarṇa+pātra+stha) [supreme](paramam) [food](annam) [having-abandoned](hitvā) [grass-eaters](tṛṇa+aśinaḥ)
 
 ## mukta-m0-p256-v6385
-[my-word](mat+vacaḥ) [O-heroes](vīrāḥ) [with-compassion-for-all-beings](sarva+prāṇi+kṛpā+yutam)
+[my-word](mat+vacaḥ) [o-heroes](vīrāḥ) [with-compassion-for-all-beings](sarva+prāṇi+kṛpā+yutam)
 
 ## mukta-m0-p256-v6386
-[from-very-low-wombs](ati+kṣudra+ādi+yonīnām) [out-of-ten](daśasu) [one](ekaḥ) [is-born](prajāyate)
+[from-very-low-wombs](ati+kṣudra+ādi+yonīnām) [one-in-ten](daśasva+ekaḥ) [is-born](prajāyate)
 
 ## mukta-m0-p256-v6387
-[of-insects-and-others](condura+ādīnām) [cat-and-others](viḍāla+ādiḥ) [is-born](prajāyate)
+[of-condura-and-others](condura+ādīnām) [cat-and-others](viḍāla+ādiḥ) [is-born](prajāyate)
 
 ## mukta-m0-p256-v6388
-[someone](kaścit) [among-animal-species](mṛga+jātiṣu) [is-born](jāyate)
+[someone](kaścit) [among-deer-species](mṛga+jātiṣu) [is-born](jāyate)
 
 ## mukta-m0-p256-v6389
 [someone](kaścit) [donkey](kharaḥ) [or](vā) [camel](karabhaḥ) [may-be](bhavet)
@@ -56,7 +56,7 @@
 [someone](kaścit) [may-obtain](prāpnuyāt) [twice-born-status](dvijatām) [man](naraḥ)
 
 ## mukta-m0-p256-v6394
-[someone](kaścit) [devoted-to-duty](karma+niṣṭhaḥ) [is-born](prajāyate)
+[someone](kaścit) [devoted-to-ritual-action](karma+niṣṭhaḥ) [is-born](prajāyate)
 
 ## mukta-m0-p256-v6395
 [someone](kaścit) [yogin](yogī) [becomes](bhavati) [child](bālakaḥ)
@@ -65,7 +65,7 @@
 [someone](kaścit) [liberated](muktaḥ) [becomes](bhavati) [or](vā) [not](na) [or](vā)
 
 ## mukta-m0-p256-v6397
-[destruction-of-Brahma's-creation](brahma+sṛṣṭi+vināśaḥ) [and](ca) [very-quickly](tūrṇam+eva) [will-be](bhaviṣyati)
+[destruction-of-brahma's-creation](brahma+sṛṣṭi+vināśaḥ) [and](ca) [very-quickly](tūrṇam+eva) [will-be](bhaviṣyati)
 
 ## mukta-m0-p256-v6398
 [each-other](anyonyañ) [they-struck](jaghnuḥ) [with-might](ojasā)

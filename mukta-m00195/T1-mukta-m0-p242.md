@@ -2,10 +2,10 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p242-v6026
-[of-deity](devatāyāḥ) [and-thus](tathā) [former](pūrvaḥ) [similarity-of-form](sārūpyaṃ) [obtains](labhate) [other](paraḥ)
+[of-deity](devatāyāḥ) [likewise](tathā) [former](pūrvaḥ) [similarity](sārūpyaṃ) [obtains](labhate) [other](paraḥ)
 
 ## mukta-m0-p242-v6027
-[greed+abandonment](lobha+tyāgaḥ) [and](ca) [helping-others](upakāraḥ) [indeed](hi) [in-lower+path](adhaḥ+mārge) [even](api) [future-result+making](udarka+kṛt)
+[greed+abandonment](lobha+tyāgaḥ) [and](ca) [help](upakāraḥ) [indeed](hi) [in-lower+path](adhaḥ+mārge) [even](api) [future+fruit+making](udarka+kṛt)
 
 ## mukta-m0-p242-v6028
 [as+stated+practice](yathā+ukta+ācaraṇāt) [of-him](tasya) [success](siddhiḥ) [of-disciple](śiṣyasya) [arises](jāyate)
@@ -20,19 +20,19 @@
 [obstacle+mantra](vighna+mantraṃ) [purification+giving](śuddhi+dam)
 
 ## mukta-m0-p242-v6032
-[dot+endowed](bindu+yuktaḥ) [two+dots](dvi+binduḥ) [of-former+path-followers](pūrva+mārgiṇām)
+[dot+endowed](bindu+yuktaḥ) [two+dots](dvi+binduḥ) [of-former+path+followers](pūrva+mārgiṇām)
 
 ## mukta-m0-p242-v6033
 [and](ca) [netherworld+tradition](pātāla+āmnāyaḥ) [declared](īritaḥ)
 
 ## mukta-m0-p242-v6034
-[svāhā](svāhā) [hṛt](hṛt) [kama](kama) [ekadaṃṣṭrāya](ekadaṃṣṭrāya) [śiraḥ]([śiraḥ]) [huṃphaṭ](huṃphaṭ)
+[svāhā](svāhā) [hṛt](hṛt) [kama](kama) [ekadaṃṣṭrāya](ekadaṃṣṭrāya) [śiraḥ](śiraḥ) [huṃphaṭ](huṃphaṭ)
 
 ## mukta-m0-p242-v6035
-[namaḥ](namaḥ) [thus](tathā) [eye](netram) [is-pronounced](udīryate)
+[namaḥ](namaḥ) [likewise](tathā) [eye](netram) [is-pronounced](udīryate)
 
 ## mukta-m0-p242-v6036
-[six+long-vowels+joined+seed-syllable](ṣaṭ+dīrgha+yukta+bījena) [tantric-practitioner](tāntrikaḥ) [nyāsa](nyāsam) [should-perform](ācaret)
+[with-six+long+joined+seed-syllable](ṣaṭ+dīrgha+yukta+bījena) [tantric-practitioner](tāntrikaḥ) [installation](nyāsam) [should-perform](ācaret)
 
 ## mukta-m0-p242-v6037
 [red+colored](rakta+varṇaṃ) [red+fragrance+anointed](rakta+gandha+anulepanam)
@@ -47,31 +47,31 @@
 [diagram](yantram) [this](etat) [wise-one](budhaḥ) [should-make](kuryāt) [square+triad](caturasra+trayaṃ) [auspicious](śubham)
 
 ## mukta-m0-p242-v6041
-[previously+stated+method](pūrva+ukta+vidhinā) [pavilion+etc.](maṇḍapa+ādi) [one-should-arrange](prakalpayet)
+[by-previously+stated+method](pūrva+ukta+vidhinā) [pavilion+etc.](maṇḍapa+ādi) [one-should-arrange](prakalpayet)
 
 ## mukta-m0-p242-v6042
-[supreme](paraṃ) [one-should-worship](tvarcet) [desired+petal+consisting](iṣṭa+dala+ātmake)
+[supreme](paraṃ) [one-should-worship](tvarcet) [in-desired+petal+consisting](iṣṭa+dala+ātmake)
 
 ## mukta-m0-p242-v6043
 [jvālinī](jvālinī) [nandā](nandā) [bhogadā](bhogadā) [kāmarūpiṇī](kāmarūpiṇī)
 
 ## mukta-m0-p242-v6044
-[and](ca) [inward-minded](antaḥ+manāḥ) [seat+mantra](pīṭha+manuṃ) [hear](śṛṇu)
+[and](ca) [inward+mind](antaḥ+manāḥ) [pedestal+mantra](pīṭha+manuṃ) [hear](śṛṇu)
 
 ## mukta-m0-p242-v6045
-[one-should-worship](yajet) [seat](pīṭhaṃ) [lord+of-gaṇas](gaṇa+adhipam)
+[one-should-worship](yajet) [pedestal](pīṭhaṃ) [troop+lord](gaṇa+adhipam)
 
 ## mukta-m0-p242-v6046
-[blue+colored](nīla+varṇaṃ) [in-pericarp](keśareṣu) [then](tataḥ) [one-should-worship](yajet)
+[blue+colored](nīla+varṇaṃ) [in-pericarps](keśareṣu) [then](tataḥ) [one-should-worship](yajet)
 
 ## mukta-m0-p242-v6047
 [six+limbs](ṣaṭ+aṅgāni) [to-be-meditated](dhyātavyāḥ) [they](tāḥ) [and](ca) [deities](devatāḥ)
 
 ## mukta-m0-p242-v6048
-[boon+fearlessness+holding](vara+da+abhaya+dhāriṇyaḥ) [principal+bodies](pradhāna+tanavaḥ) [females](striyaḥ)
+[boon+fearlessness+holding](vara+abhaya+dhāriṇyaḥ) [principal+bodies](pradhāna+tanavaḥ) [women](striyaḥ)
 
 ## mukta-m0-p242-v6049
-[lambodara+named+vikaṭa](lambodara+ākhya+vikaṭau) [vighnarāj+dhūmravarṇa](vighna+rāṭ+dhūmra+varṇakau)
+[lambodara+named+vikaṭa](lambodara+ākhya+vikaṭau) [obstacle+king+smoke+colored](vighna+rāṭ+dhūmra+varṇakau)
 
 ## mukta-m0-p242-v6050
-[of-them](tāsāṃ) [I-shall-declare](pravakṣyāmi) [declared](proktaṃ) [in-left+order](savya+krameṇa) [indeed](tu)
+[of-them](tāsāṃ) [I-shall-declare](pravakṣyāmi) [stated](proktaṃ) [in-left+order](savya+krameṇa) [indeed](tu)

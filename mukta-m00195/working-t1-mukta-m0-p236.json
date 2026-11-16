@@ -15,7 +15,7 @@
 "quick_gloss": "diagram"
 },
 {
-"surface": "sarva+artha+siddhidam",
+"surface": "sarvārthasiddhidam",
 "quick_gloss": "all+purpose+accomplishing"
 }
 ]
@@ -29,7 +29,7 @@
 "tokens": [
 {
 "surface": "praṇavaṃ",
-"quick_gloss": "om-syllable"
+"quick_gloss": "sacred-syllable-oṃ"
 },
 {
 "surface": "lekhyaṃ",
@@ -40,8 +40,12 @@
 "quick_gloss": "in-that"
 },
 {
-"surface": "huṃ+bījam",
-"quick_gloss": "hūṃ-seed-syllable"
+"surface": "huṃ",
+"quick_gloss": "hūṃ+seed"
+},
+{
+"surface": "bījam",
+"quick_gloss": "seed"
 },
 {
 "surface": "ālikhet",
@@ -57,7 +61,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "cakra+mantrasya",
+"surface": "cakramantrasya",
 "quick_gloss": "of-wheel+mantra"
 },
 {
@@ -67,10 +71,6 @@
 {
 "surface": "akṣaram",
 "quick_gloss": "syllable"
-},
-{
-"surface": "atra",
-"quick_gloss": "there"
 }
 ]
 },
@@ -90,7 +90,7 @@
 "quick_gloss": "one-should-write"
 },
 {
-"surface": "aṣṭa+dale",
+"surface": "aṣṭadale",
 "quick_gloss": "on-eight+petal"
 },
 {
@@ -107,7 +107,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "trayatriṃśat+varṇakaḥ",
+"surface": "trayatriṃśadvarṇakaḥ",
 "quick_gloss": "thirty-three+syllabled"
 },
 {
@@ -124,7 +124,7 @@
 },
 {
 "surface": "smṛtaḥ",
-"quick_gloss": "is-remembered"
+"quick_gloss": "remembered"
 }
 ]
 },
@@ -149,11 +149,11 @@
 },
 {
 "surface": "vakṣyāmi",
-"quick_gloss": "I-will-tell"
+"quick_gloss": "I-shall-tell"
 },
 {
-"surface": "sa+avadhānatayā",
-"quick_gloss": "with+attentiveness"
+"surface": "sāvadhānatayā",
+"quick_gloss": "with-attentiveness"
 },
 {
 "surface": "śṛṇu",
@@ -170,15 +170,15 @@
 "tokens": [
 {
 "surface": "yoṣayitnavā",
-"quick_gloss": "mantra"
+"quick_gloss": "yoṣayitnavā"
 },
 {
 "surface": "sano",
-"quick_gloss": "mantra"
+"quick_gloss": "sanaḥ"
 },
 {
 "surface": "mūlatīdṛśe",
-"quick_gloss": "mantra"
+"quick_gloss": "mūlatīdṛśe"
 }
 ]
 },
@@ -198,7 +198,7 @@
 "quick_gloss": "lord"
 },
 {
-"surface": "madhu+mān",
+"surface": "madhumān",
 "quick_gloss": "honey-rich"
 },
 {
@@ -210,16 +210,16 @@
 "quick_gloss": "be"
 },
 {
-"surface": "ripyam",
+"surface": "ripyaṃ",
 "quick_gloss": "harm"
 },
 {
 "surface": "attvenaṃ",
-"quick_gloss": "eating"
+"quick_gloss": "having-eaten"
 },
 {
 "surface": "carema",
-"quick_gloss": "may-we-avoid"
+"quick_gloss": "may-we-wander"
 }
 ]
 },
@@ -231,7 +231,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "varatrāḥ",
+"surface": "varatrā",
 "quick_gloss": "with-ropes"
 },
 {
@@ -240,15 +240,15 @@
 },
 {
 "surface": "śunam",
-"quick_gloss": "dog"
+"quick_gloss": "śunam"
 },
 {
 "surface": "aṣṭrām",
-"quick_gloss": "goad"
+"quick_gloss": "aṣṭrām"
 },
 {
 "surface": "udiṅgayā",
-"quick_gloss": "with-point"
+"quick_gloss": "udiṅgayā"
 }
 ]
 },
@@ -260,12 +260,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "yaḥ",
+"surface": "yamaḥ",
 "quick_gloss": "which"
 },
 {
 "surface": "te",
-"quick_gloss": "your"
+"quick_gloss": "to-you"
 },
 {
 "surface": "na",
@@ -277,7 +277,7 @@
 },
 {
 "surface": "upasiñcatam",
-"quick_gloss": "sprinkle-upon"
+"quick_gloss": "upasiñcatam"
 }
 ]
 },
@@ -297,8 +297,8 @@
 "quick_gloss": "not"
 },
 {
-"surface": "su+phalā",
-"quick_gloss": "fruitless"
+"surface": "suphalā",
+"quick_gloss": "fruitful"
 },
 {
 "surface": "asi",
@@ -314,7 +314,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "duhāma",
+"surface": "duhām",
 "quick_gloss": "may-we-milk"
 },
 {
@@ -336,7 +336,7 @@
 "tokens": [
 {
 "surface": "śunam",
-"quick_gloss": "dog"
+"quick_gloss": "prosperity"
 },
 {
 "surface": "asmāsu",
@@ -356,8 +356,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "pulastya+ṛṣiḥ",
-"quick_gloss": "pulastya-seer"
+"surface": "pulastyarṣiḥ",
+"quick_gloss": "pulastya+seer"
 },
 {
 "surface": "anuṣṭup",
@@ -368,7 +368,7 @@
 "quick_gloss": "and"
 },
 {
-"surface": "triṣṭup+chandaḥ",
+"surface": "triṣṭupchandaḥ",
 "quick_gloss": "triṣṭubh+meter"
 },
 {
@@ -389,11 +389,11 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "glauṃ+bījena",
-"quick_gloss": "with-glauṃ-seed"
+"surface": "glauṃbījena",
+"quick_gloss": "with-glauṃ+seed"
 },
 {
-"surface": "ādya+vīthyāṃ",
+"surface": "ādyavīthyāṃ",
 "quick_gloss": "in-first+enclosure"
 },
 {
@@ -402,10 +402,10 @@
 },
 {
 "surface": "veṣṭayet",
-"quick_gloss": "one-should-enclose"
+"quick_gloss": "one-should-surround"
 },
 {
-"surface": "mātṛkā+arṇakaiḥ",
+"surface": "mātṛkārṇakaiḥ",
 "quick_gloss": "with-mātṛkā+letters"
 }
 ]
@@ -418,8 +418,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "huṃ+bījam",
-"quick_gloss": "hūṃ-seed"
+"surface": "huṃbījaṃ",
+"quick_gloss": "hūṃ+seed"
 },
 {
 "surface": "yantram",
@@ -430,8 +430,12 @@
 "quick_gloss": "this"
 },
 {
-"surface": "śubhe+dine",
+"surface": "śubhe",
 "quick_gloss": "on-auspicious+day"
+},
+{
+"surface": "dine",
+"quick_gloss": "day"
 }
 ]
 },
@@ -464,7 +468,7 @@
 },
 {
 "surface": "api",
-"quick_gloss": "also"
+"quick_gloss": "even"
 },
 {
 "surface": "vā",
@@ -480,7 +484,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "gaja+aśva+dhenu+mahiṣa+vṛṣa+uṣṭra+aśvatara+ādibhiḥ",
+"surface": "gajāśvadhenumahiṣavṛṣoṣṭrāśvatarādibhiḥ",
 "quick_gloss": "with-elephants+horses+cows+buffaloes+bulls+camels+mules+and-others"
 }
 ]
@@ -506,11 +510,11 @@
 },
 {
 "surface": "syāt",
-"quick_gloss": "will-be"
+"quick_gloss": "may-be"
 },
 {
 "surface": "samāgamaḥ",
-"quick_gloss": "assembly"
+"quick_gloss": "coming-together"
 }
 ]
 },
@@ -522,15 +526,15 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "su+likhet",
+"surface": "sulikhet",
 "quick_gloss": "one-should-write-well"
 },
 {
-"surface": "kāma+bījam",
-"quick_gloss": "desire-seed"
+"surface": "kāmabījaṃ",
+"quick_gloss": "desire+seed"
 },
 {
-"surface": "sādhya+samanvitam",
+"surface": "sādhyasamanvitam",
 "quick_gloss": "with-target+accompanied"
 }
 ]
@@ -559,7 +563,7 @@
 "quick_gloss": "lotus"
 },
 {
-"surface": "catur+dalam",
+"surface": "caturdalam",
 "quick_gloss": "four+petalled"
 }
 ]
@@ -572,7 +576,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "vāsudeva+manaḥ+varṇāḥ",
+"surface": "vāsudevamanovarṇāḥ",
 "quick_gloss": "of-vāsudeva+mantra+syllables"
 },
 {
@@ -581,10 +585,10 @@
 },
 {
 "surface": "lekhyāḥ",
-"quick_gloss": "should-be-written"
+"quick_gloss": "to-be-written"
 },
 {
-"surface": "trayaḥ+trayaḥ",
+"surface": "trayastrayaḥ",
 "quick_gloss": "three+three"
 }
 ]
@@ -597,7 +601,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "gopī+jana+vallabhāya",
+"surface": "gopījanavallabhāya",
 "quick_gloss": "to-gopī+people+beloved"
 },
 {
@@ -609,7 +613,7 @@
 "quick_gloss": "mantra"
 },
 {
-"surface": "daśa+akṣaram",
+"surface": "daśākṣaram",
 "quick_gloss": "ten+syllabled"
 }
 ]
@@ -638,8 +642,8 @@
 "quick_gloss": "then"
 },
 {
-"surface": "viṣa+dharāya",
-"quick_gloss": "to-serpent-holder"
+"surface": "viṣadharāya",
+"quick_gloss": "to-serpent+holder"
 },
 {
 "surface": "ca",
@@ -655,7 +659,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "ṣoḍaśa+dalam",
+"surface": "ṣoḍaśadalaṃ",
 "quick_gloss": "sixteen+petalled"
 },
 {
