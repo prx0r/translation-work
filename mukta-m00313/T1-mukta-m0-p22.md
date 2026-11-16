@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p22-v526
-[consecrated](praṇītāṃ) [vajra-tuṇḍā](vajratuṇḍāñca) [seals](mudrān) [there](tatra) [one-should-employ](niyojayet)
+[consecrated](praṇītāṃ) [vajra+beak](vajratuṇḍāñca) [seals](mudrān) [there](tatra) [one-should-employ](niyojayet)
 
 ## mukta-m0-p22-v527
-[in-vessel](pātre) [and](ca) [with-poison-blood](viṣaraktena) [employed](niyuktā) [in-vajra-maṇḍala](vajramaṇḍale)
+[in-vessel](pātre) [and](ca) [with-poison+blood](viṣaraktena) [placed](niyuktā) [in-vajra+circle](vajramaṇḍale)
 
 ## mukta-m0-p22-v528
-[pure](śuddhopi) [is-burned](dahyate) [by-that](tena) [himself](svayaṃ) [if](yadi) [lord-of-waters](jalādhipaḥ)
+[pure](śuddhopi) [is-burned](dahyate) [by-that](tena) [himself](svayaṃ) [if](yadi) [water+lord](jalādhipaḥ)
 
 ## mukta-m0-p22-v529
-[of-water](vāruṇaṃ) [maṇḍala](maṇḍalaṃ) [on-birch-bark](bhūrje) [with-gorocanā](gorocana) [which](yā) [one-should-draw](samālikhet)
+[of-water](vāruṇaṃ) [circle](maṇḍalaṃ) [on-birch-bark](bhūrje) [with-cow-yellow-pigment](gorocana) [which](yā) [one-should-draw](samālikhet)
 
 ## mukta-m0-p22-v530
-[one-should-place](nikṣipet) [in-middle-of-pot](kumbhamadhye) [indeed](tu) [divine-paralysis](divyastambho) [will-be](bhaveddhruvam)
+[one-should-place](nikṣipet) [in-pot+middle](kumbhamadhye) [indeed](tu) [divine+paralysis](divyastambho) [will-be](bhaveddhruvam)
 
 ## mukta-m0-p22-v531
-[on-birch-bark](bhūrje) [with-gorocanā](rocanayā) [having-drawn](likhya) [vajra-maṇḍala](vajramaṇḍalamaṃ) [meditated-upon](dhyataḥ)
+[on-birch-bark](bhūrje) [with-yellow-pigment](rocanayā) [having-drawn](likhya) [vajra+circle](vajramaṇḍalamaṃ) [mentally](dhyataḥ)
 
 ## mukta-m0-p22-v532
 [having-stepped-on](ākrāmyadhārayettaṃ) [that](tu) [in-dice](dyūtejayati) [person](mānavaḥ)
 
 ## mukta-m0-p22-v533
-[having-resorted-to](āśritya) [opening-of-cavity](vivaradvāram) [with-bhedinī-seal](bhedinī) [with-seal](mudrayā) [one-should-recite](japet)
+[hole+door](vivaradvāramāśritya) [with-bhedinī+seal](bhedinī) [mudrayā](mudrayā) [one-should-recite](japet)
 
 ## mukta-m0-p22-v534
-[terrified](santrastā) [in-exit](nirgame) [quickly](kṣipraṃ) [maiden](kanyā) [dwelling-in-netherworld](pātālavāsinī)
+[terrified](santrastā) [in-exit](nirgame) [quickly](kṣipraṃ) [maiden](kanyā) [netherworld+dwelling](pātālavāsinī)
 
 ## mukta-m0-p22-v535
-[in-divine-resort](divyāśraye) [should-recite](japenmantrī) [practitioner](siddhyate) [not](nātra) [doubt](saṃśayaḥ)
+[in-divine+resort](divyāśraye) [should-recite](japenmantrī) [is-accomplished](siddhyate) [not](nātra) [doubt](saṃśayaḥ)
 
 ## mukta-m0-p22-v536
-[practitioner](sādhakaḥ) [with-steady-mind](sthiracittastu) [upon-uninjured-limbed-corpse](akṣatāṅgaśavopari)
+[practitioner](sādhakaḥ) [steady+minded](sthiracittastu) [uninjured+limbed](akṣatāṅgaśavopari) [corpse+upon](śavopari)
 
 ## mukta-m0-p22-v537
-[in-an-instant](kṣaṇānniṣkamate) [tongue](jihvā) [sword](khaḍgaścā) [or](guṭikātha) [pill](vā)
+[in-a-moment](kṣaṇānniṣkamate) [comes-out](niṣkamate) [tongue](jihvā) [sword](khaḍgaścā) [and](ca) [pill](guṭikātha) [or](vā)
 
 ## mukta-m0-p22-v538
-[invisible](antardhānī) [becomes](bhavet) [that](sahijavairbheda) [is-seen](sa) [seen](dṛśyate)
+[invisibility](antardhānī) [becomes](bhavet) [with-that](sahijavairbheda) [by-piercing](bheda) [that](sa) [is-seen](dṛśyate)
 
 ## mukta-m0-p22-v539
-[with-that-eye-ointment](taccakṣurañjaneryuktaṃ) [application](grahaṇaṃ) [accomplished-ointment](siddhamañjanam)
+[that](taccakṣurañjaneryuktaṃ) [eye+ointment](cakṣurañjaneryuktaṃ) [with-application](yuktaṃ) [grasping](grahaṇaṃ) [accomplished+ointment](siddhamañjanam)
 
 ## mukta-m0-p22-v540
-[bhedinī](bhedinīṃ) [should-bind](vandhayen) [practitioner](mantrī) [should-recite](japedaṣṭaśataṃ) [then](tadā)
+[bhedinī](bhedinīṃ) [should-bind](vandhayen) [practitioner](mantrī) [should-recite](japedaṣṭaśataṃ) [eight+hundred](aṣṭaśataṃ) [then](tadā)
 
 ## mukta-m0-p22-v541
-[blocked-in-fire-channel](agnināḍīniruddhā) [indeed](tu) [abiding-in-body](koṣṭhagā) [endowed-with-seed](vījasaṃyutā)
+[fire+channel](agnināḍīniruddhā) [obstructed](niruddhā) [indeed](tu) [in-abdomen+dwelling](koṣṭhagā) [seed+endowed](vījasaṃyutā)
 
 ## mukta-m0-p22-v542
-[removal-of-seed](nirvījīkaraṇaṃ) [indeed](hyetad) [tree](vṛkṣaṃ) [dries-up](śoṣayate) [in-an-instant](kṣaṇāt)
+[seedless+making](nirvījīkaraṇaṃ) [indeed](hyetad) [tree](vṛkṣaṃ) [dries-up](śoṣayate) [in-a-moment](kṣaṇāt)
 
 ## mukta-m0-p22-v543
-[standing-in-sky](vyomasthaṃ) [indeed](tu) [should-recite-meditate-this](japeddhyetajjapāṣṭa) [by-count-of-eight-hundred](śatasaṃkhyayā)
+[in-sky+standing](vyomasthaṃ) [indeed](tu) [should-recite](japeddhyetajjapāṣṭa) [this](etad) [recitation+eight+hundred+number](japāṣṭa+śatasaṃkhyayā)
 
 ## mukta-m0-p22-v544
-[nectar](amṛtaṃ) [sky-going](vyomagaṃ) [having-made](kṛtvā) [at-that-moment](tatkṣaṇā'pyāyanaṃ) [nourishment](bhavet)
+[nectar](amṛtaṃ) [sky+going](vyomagaṃ) [having-made](kṛtvā) [at-that-moment](tatkṣaṇā'pyāyanaṃ) [nourishment](āpyāyanaṃ) [will-be](bhavet)
 
 ## mukta-m0-p22-v545
-[blocked](niruddho) [movement-of-breath](marutaḥ) [flow](saṃcāraḥ) [toward-enemy-kingdom](pararāṣṭrasya) [facing](sanmukham)
+[obstructed](niruddho) [wind+movement](marutaḥ+saṃcāraḥ) [of-other+kingdom](pararāṣṭrasya) [facing](sanmukham)
 
 ## mukta-m0-p22-v546
-[one-should-fix](kīlayet) [one-should-paralyze](stambhayet) [all](sarvaṃ) [motionless](niśceṣṭaṃ) [deprived-of-strength](balavarjitam)
+[one-should-fix](kīlayet) [one-should-paralyze](stambhayet) [all](sarvaṃ) [motionless](niśceṣṭaṃ) [strength+deprived](balavarjitam)
 
 ## mukta-m0-p22-v547
-[by-one](ekayā) [exit](nirgamo) [practitioner](mantrī) [vajra-tuṇḍā](vajratuṇḍā) [indeed](tu) [should-bind](bandhayet)
+[by-one](ekayā) [exit](nirgamo) [practitioner](mantrī) [vajra+beak](vajratuṇḍā) [indeed](tu) [should-bind](bandhayet)
 
 ## mukta-m0-p22-v548
-[of-bhūtas-pretas](bhūtapreta) [of-piśācas](piśācānāṃ) [and](ca) [of-fanged-beings](daṃṣṭriṇāṃ) [in-subjugation](nigrahe)
+[of-ghosts](bhūtapreta) [of-spirits](piśācānāṃ) [of-fanged-beings](daṃṣṭriṇāṃ) [and](ca) [in-subduing](nigrahe)
 
 ## mukta-m0-p22-v549
-[īśa](īśaḥ) [śakti](śaktiḥ) [khaga](khago) [viṣṇu](viṣṇuḥ) [and](śivaścaiva) [śiva](sadāśivaḥ)
+[Īśa](īśaḥ) [Śakti](śaktiḥ) [Khaga](khago) [Viṣṇu](viṣṇuḥ) [Śiva](śivaścaiva) [and](ca) [indeed](eva) [Sadāśiva](sadāśivaḥ)
 
 ## mukta-m0-p22-v550
-[nāgas-and-grahas](nāgāgrahāṃstathā) [clouds](meghānānayeṣṭa) [by-eight-hundred](śatena) [indeed](tu)
+[serpents+planets](nāgāgrahāṃstathā) [and-likewise](tathā) [clouds](meghānānayeṣṭa) [in-bringing](ānayeṣṭa) [eight+hundred](śatena) [indeed](tu)

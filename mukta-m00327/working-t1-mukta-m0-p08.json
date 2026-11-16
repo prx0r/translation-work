@@ -23,8 +23,8 @@
 "quick_gloss": "to-be-known"
 },
 {
-"surface": "jāty+antaraṃ",
-"quick_gloss": "another-birth"
+"surface": "jāti+antaraṃ",
+"quick_gloss": "birth+other"
 },
 {
 "surface": "hi",
@@ -36,7 +36,7 @@
 },
 {
 "surface": "aneka+rūpam",
-"quick_gloss": "many-formed"
+"quick_gloss": "many+form"
 }
 ]
 },
@@ -48,11 +48,11 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "tad+ātmaka",
-"quick_gloss": "of-that-nature"
+"surface": "tat+ātmaka",
+"quick_gloss": "that+nature"
 },
 {
-"surface": "smṛtā",
+"surface": "smṛtāḥ",
 "quick_gloss": "remembered"
 },
 {
@@ -60,12 +60,16 @@
 "quick_gloss": "indeed"
 },
 {
-"surface": "aṅgā",
+"surface": "aṅgāḥ",
 "quick_gloss": "limbs"
 },
 {
-"surface": "bahir+āhita+dvi+bhāgahāḥ",
-"quick_gloss": "placed-outside-twofold"
+"surface": "bahis+āhita",
+"quick_gloss": "outside+placed"
+},
+{
+"surface": "dvi+bhāga+hāḥ",
+"quick_gloss": "two+part+holding"
 }
 ]
 },
@@ -78,7 +82,7 @@
 "tokens": [
 {
 "surface": "tādṛśaḥ",
-"quick_gloss": "of-such-kind"
+"quick_gloss": "of-that-kind"
 },
 {
 "surface": "api",
@@ -86,7 +90,7 @@
 },
 {
 "surface": "upacāraḥ",
-"quick_gloss": "figurative-application"
+"quick_gloss": "figurative-usage"
 },
 {
 "surface": "tu",
@@ -94,7 +98,7 @@
 },
 {
 "surface": "mantra+deva+anurūpataḥ",
-"quick_gloss": "according-to-mantra-and-deity"
+"quick_gloss": "mantra+deity+according-to"
 }
 ]
 },
@@ -107,7 +111,7 @@
 "tokens": [
 {
 "surface": "tathā+rūpaḥ",
-"quick_gloss": "of-such-form"
+"quick_gloss": "of-that+form"
 },
 {
 "surface": "bhavet",
@@ -123,11 +127,11 @@
 },
 {
 "surface": "karma",
-"quick_gloss": "ritual-action"
+"quick_gloss": "action"
 },
 {
 "surface": "prasādhayet",
-"quick_gloss": "should-accomplish"
+"quick_gloss": "may-accomplish"
 }
 ]
 },
@@ -140,23 +144,27 @@
 "tokens": [
 {
 "surface": "sarva+upāśraya+sampannaṃ",
-"quick_gloss": "endowed-with-all-supports"
-},
-{
-"surface": "yathā",
-"quick_gloss": "like"
+"quick_gloss": "all+support+endowed"
 },
 {
 "surface": "sphaṭikaḥ",
 "quick_gloss": "crystal"
 },
 {
-"surface": "ca",
-"quick_gloss": "and"
+"surface": "ka",
+"quick_gloss": "or"
 },
 {
-"surface": "upalavat",
+"surface": "upala",
 "quick_gloss": "stone"
+},
+{
+"surface": "vat",
+"quick_gloss": "like"
+},
+{
+"surface": "yathā",
+"quick_gloss": "as"
 }
 ]
 },
@@ -168,11 +176,11 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "sarva+jñaḥ",
+"surface": "sarvajñaḥ",
 "quick_gloss": "all-knowing"
 },
 {
-"surface": "sarva+gaḥ",
+"surface": "sarvagaḥ",
 "quick_gloss": "all-going"
 },
 {
@@ -185,7 +193,7 @@
 },
 {
 "surface": "sarva+rūpa+mayaḥ",
-"quick_gloss": "consisting-of-all-forms"
+"quick_gloss": "all+form+consisting"
 },
 {
 "surface": "hi",
@@ -205,16 +213,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "nir+āmayaṃ",
-"quick_gloss": "free-from-disease"
+"surface": "nirāmayaṃ",
+"quick_gloss": "without-disease"
 },
 {
-"surface": "nir+ādhāraṃ",
+"surface": "nirādhāraṃ",
 "quick_gloss": "without-support"
 },
 {
 "surface": "varṇa+rūpa+vivarjitam",
-"quick_gloss": "devoid-of-color-and-form"
+"quick_gloss": "color+form+devoid"
 }
 ]
 },
@@ -230,11 +238,11 @@
 "quick_gloss": "beyond-senses"
 },
 {
-"surface": "nir+ālambaḥ",
+"surface": "nirālambaḥ",
 "quick_gloss": "without-support"
 },
 {
-"surface": "su+sūkṣmaḥ",
+"surface": "susūkṣmaḥ",
 "quick_gloss": "very-subtle"
 },
 {
@@ -242,7 +250,7 @@
 "quick_gloss": "eternal"
 },
 {
-"surface": "vyathaḥ",
+"surface": "avyathaḥ",
 "quick_gloss": "unmoving"
 }
 ]
@@ -272,7 +280,7 @@
 },
 {
 "surface": "para+ātmā",
-"quick_gloss": "supreme-self"
+"quick_gloss": "supreme+self"
 },
 {
 "surface": "prakīrtitaḥ",
@@ -304,8 +312,12 @@
 "quick_gloss": "indeed"
 },
 {
-"surface": "tathā+eva",
-"quick_gloss": "and-thus"
+"surface": "tathā",
+"quick_gloss": "and"
+},
+{
+"surface": "eva",
+"quick_gloss": "indeed"
 },
 {
 "surface": "pratipadyate",
@@ -322,7 +334,7 @@
 "tokens": [
 {
 "surface": "sarva+kāma+pradaḥ",
-"quick_gloss": "granting-all-desires"
+"quick_gloss": "all+desire+giver"
 },
 {
 "surface": "hi",
@@ -338,7 +350,7 @@
 },
 {
 "surface": "ṣaḍ+bheda+vistaraḥ",
-"quick_gloss": "sixfold-division-expanse"
+"quick_gloss": "six+division+expanse"
 }
 ]
 },
@@ -351,23 +363,31 @@
 "tokens": [
 {
 "surface": "mantra+ātmā",
-"quick_gloss": "of-mantra-nature"
+"quick_gloss": "mantra+self"
 },
 {
 "surface": "parama+ākhyāḥ",
-"quick_gloss": "and-called-supreme"
+"quick_gloss": "supreme+called"
 },
 {
 "surface": "ca",
 "quick_gloss": "and"
 },
 {
-"surface": "ekaḥ+api",
-"quick_gloss": "though-one"
+"surface": "ekaḥ",
+"quick_gloss": "one"
 },
 {
-"surface": "bahudhā+sthitaḥ",
-"quick_gloss": "existing-in-many-ways"
+"surface": "api",
+"quick_gloss": "also"
+},
+{
+"surface": "bahudhā",
+"quick_gloss": "in-many-ways"
+},
+{
+"surface": "sthitaḥ",
+"quick_gloss": "situated"
 }
 ]
 },
@@ -380,7 +400,7 @@
 "tokens": [
 {
 "surface": "mantra+ātmā",
-"quick_gloss": "of-mantra-nature"
+"quick_gloss": "mantra+self"
 },
 {
 "surface": "mantraṃ",
@@ -399,12 +419,12 @@
 "quick_gloss": "indeed"
 },
 {
-"surface": "antar+ātmā",
-"quick_gloss": "inner-self"
+"surface": "antara+ātmā",
+"quick_gloss": "inner+self"
 },
 {
 "surface": "girā+anvitaḥ",
-"quick_gloss": "endowed-with-speech"
+"quick_gloss": "by-speech+endowed"
 }
 ]
 },
@@ -421,7 +441,7 @@
 },
 {
 "surface": "sva+bhuvanaṃ",
-"quick_gloss": "own-world"
+"quick_gloss": "own+world"
 },
 {
 "surface": "teṣām",
@@ -453,8 +473,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "prāptaḥ+api",
-"quick_gloss": "even-when-attained"
+"surface": "prāptaḥ",
+"quick_gloss": "attained"
+},
+{
+"surface": "api",
+"quick_gloss": "also"
 },
 {
 "surface": "saḥ",
@@ -470,7 +494,7 @@
 },
 {
 "surface": "punar+bhāvam",
-"quick_gloss": "again-becoming"
+"quick_gloss": "again+becoming"
 },
 {
 "surface": "avāpnuyāt",
@@ -486,8 +510,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "tatva+viśleṣa+kāle",
-"quick_gloss": "at-time-of-separation-of-principles"
+"surface": "tatva+viśleṣa",
+"quick_gloss": "principle+separation"
+},
+{
+"surface": "kāle",
+"quick_gloss": "time"
 },
 {
 "surface": "ca",
@@ -516,11 +544,11 @@
 },
 {
 "surface": "bahu+nāmāni",
-"quick_gloss": "many-names"
+"quick_gloss": "many+names"
 },
 {
-"surface": "pṛthag+bhūtāni",
-"quick_gloss": "separately-existing"
+"surface": "pṛthak+bhūtāni",
+"quick_gloss": "separately+become"
 },
 {
 "surface": "koṭibhiḥ",
@@ -565,8 +593,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "aham+eva",
-"quick_gloss": "I-alone"
+"surface": "aham",
+"quick_gloss": "I"
+},
+{
+"surface": "eva",
+"quick_gloss": "alone"
 },
 {
 "surface": "paraḥ",
@@ -607,7 +639,7 @@
 },
 {
 "surface": "vināśaka+bhāvāḥ",
-"quick_gloss": "destructive-states"
+"quick_gloss": "destruction+states"
 },
 {
 "surface": "manaḥ",
@@ -618,8 +650,8 @@
 "quick_gloss": "alone"
 },
 {
-"surface": "pṛthag+vidhāḥ",
-"quick_gloss": "of-various-kinds"
+"surface": "pṛthagvidhāḥ",
+"quick_gloss": "variously"
 }
 ]
 },
@@ -632,7 +664,7 @@
 "tokens": [
 {
 "surface": "yoga+saṃnyasta+karmā",
-"quick_gloss": "one-who-has-renounced-action-through-yoga"
+"quick_gloss": "yoga+renounced+action"
 },
 {
 "surface": "yaḥ",
@@ -640,7 +672,7 @@
 },
 {
 "surface": "jñāna+saṃbhinna+saṃśayaḥ",
-"quick_gloss": "with-doubt-cleft-by-knowledge"
+"quick_gloss": "knowledge+split+doubt"
 }
 ]
 },
@@ -653,11 +685,11 @@
 "tokens": [
 {
 "surface": "padārtha+aneka+sampūrṇa",
-"quick_gloss": "filled-with-many-objects"
+"quick_gloss": "category+many+filled"
 },
 {
 "surface": "sarva+vāṅmaya+sādhanam",
-"quick_gloss": "means-of-all-speech"
+"quick_gloss": "all+speech+means"
 }
 ]
 },
@@ -682,7 +714,7 @@
 },
 {
 "surface": "grāhyaḥ",
-"quick_gloss": "to-be-grasped"
+"quick_gloss": "graspable"
 },
 {
 "surface": "tatva+atītaḥ",
@@ -715,11 +747,11 @@
 },
 {
 "surface": "nāda+rūpaṃ",
-"quick_gloss": "of-sound-form"
+"quick_gloss": "sound+form"
 },
 {
-"surface": "nir+āmayam",
-"quick_gloss": "free-from-disease"
+"surface": "nirāmayam",
+"quick_gloss": "without-disease"
 }
 ]
 },
@@ -732,7 +764,7 @@
 "tokens": [
 {
 "surface": "parama+īkaraṇaṃ",
-"quick_gloss": "supreme-unification"
+"quick_gloss": "supreme+making"
 },
 {
 "surface": "ca",

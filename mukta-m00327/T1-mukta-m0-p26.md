@@ -5,13 +5,13 @@
 [there+indeed](tatraiva) [situated](saṃsthitā) [rudras](rudrā) [eight](aṣṭau) [and](ca) [śiva+equal+going](śivatulyagāḥ)
 
 ## mukta-m0-p26-v627
-[vāmadeva](vāmadevo) [bhava+and+indeed+udbhava+and](bhavaścaivodbhavaśca) [likewise](tathā) [again](punaḥ)
+[vāmadeva](vāmadevo) [bhava+and+indeed](bhavaścaivodbhavaśca) [udbhava+and](tathā) [likewise](punaḥ)
 
 ## mukta-m0-p26-v628
-[thumb+measure+accompanied](aṃguṣṭhamātrasahitā) [great+god+octad+śivas](mahādevāṣṭakāśśivāḥ)
+[thumb+measure+accompanied](aṃguṣṭhamātrasahitā) [great-god+octad+auspicious](mahādevāṣṭakāśśivāḥ)
 
 ## mukta-m0-p26-v629
-[from-that+above](atastradhvaṃ) [may-be](bhavedanyad) [knowledge+covering+named](vidyāvaraṇasaṃjñakaḥ)
+[from-there+above](atastradhvaṃ) [would-be+other](bhavedanyad) [knowledge+covering+named](vidyāvaraṇasaṃjñakaḥ)
 
 ## mukta-m0-p26-v630
 [of-that](tasya) [in-middle](maddhya) [situated](sthitā) [knowledge](vidyā) [all-pervading](vyāpinī) [universe+formed](viśvarūpiṇī)
@@ -20,58 +20,58 @@
 [circle+support+variegated+limbed](maṇḍalādhāracitrāṃgī) [meditation+eager+long+eyed](dhyānalolāyatekṣaṇā)
 
 ## mukta-m0-p26-v632
-[being+non-being+sport+and-others](bhāvābhāvāvilāsādhyairnityaṃ) [delighted+senses](pramuditendriyaiḥ)
+[being+non-being+sport+and-others](bhāvābhāvāvilāsādhyairnityaṃ) [always](pramuditendriyaiḥ) [delighted+senses](pramuditendriyaiḥ)
 
 ## mukta-m0-p26-v633
-[utka](utka) [*](*) [*](*) [*](*) [with-sighs](niśvāsaiḥ) [milk](payo) [milk](payo) [hara+sluggish](harālasaiḥ)
+[eager](utka) [*](*) [*](*) [*](*) [sighs](niśvāsaiḥ) [milk](payo) [milk](payo) [snake+lazy](harālasaiḥ)
 
 ## mukta-m0-p26-v634
-[there+indeed](tatraiva) [situated](saṃsthitā) [rudras+thirteen](rudrāstrayodaśa) [*](*) [*](*) [*](*) [*](*)
+[there+indeed](tatraiva) [situated](saṃsthitā) [rudras](rudrāstrayodaśa) [thirteen](rudrāstrayodaśa) [*](*) [*](*) [*](*) [*](*)
 
 ## mukta-m0-p26-v635
 [vāmadeva+and](vāmadevaśca) [bhīma+and](bhīmaśca) [ugra+and+indeed](ugraścaiva) [bhava+likewise](bhavastathā)
 
 ## mukta-m0-p26-v636
-[īśvara+then](īśvarotha) [umā+lord+but](umākāntastvajeśonanta) [aja+lord+ananta](ajeśonanta) [indeed](eva) [and](ca)
+[īśvara+then](īśvarotha) [umā+lord](umākāntastvajeśonanta) [aja+lord](umākāntastvajeśonanta) [ananta+indeed](umākāntastvajeśonanta) [and](eva) [ca](ca)
 
 ## mukta-m0-p26-v637
-[from-that+above](atordhvaṃ) [but](tu) [may-be](bhavedanyat) [kalā+covering+named](kalāvaraṇasaṃjñakam)
+[from-there+above](atordhvaṃ) [indeed](tu) [would-be+other](bhavedanyat) [kalā+covering+named](kalāvaraṇasaṃjñakam)
 
 ## mukta-m0-p26-v638
 [of-that](tasya) [in-middle](madhye) [kalā+to-be-known](kalājñeyā) [variegated+color+anointed](citravarṇānulepinī)
 
 ## mukta-m0-p26-v639
-[knowledge+scripture+endowed](vijñānagamasaṃpannai) [beauty+youth+proud](rūpayauvanagarvitaiḥ)
+[knowledge+attainment+endowed](vijñānagamasaṃpannai) [form+youth+proud](rūpayauvanagarvitaiḥ)
 
 ## mukta-m0-p26-v640
-[mind+captivating](manohāri) [very-delightful+limbed](suramyāṅgai) [passion+eager+yawning](madalālasajṛṃbhitaiḥ)
+[mind+captivating](manohāri) [very+lovely+limbed](suramyāṅgai) [intoxication+lazy+yawning](madalālasajṛṃbhitaiḥ)
 
 ## mukta-m0-p26-v641
-[there](tatra) [rudra](rudro) [all-pervading+pervading](vibhurvyāpī) [all+knowing](sarvajño) [knowledge+illuminating](jñānabhāsakaḥ)
+[there](tatra) [rudra](rudro) [all-pervading](vibhurvyāpī) [all-knowing](sarvajño) [knowledge+illuminating](jñānabhāsakaḥ)
 
 ## mukta-m0-p26-v642
-[kalā+brahman+limb+born](kalābrahmāṅgasaṃbhūtairmantravigrahadhāribhiḥ) [mantra+body+bearing](mantravigrahadhāribhiḥ)
+[kalā+brahmā+limb+born](kalābrahmāṅgasaṃbhūtairmantravigrahadhāribhiḥ) [mantra+body+bearers](kalābrahmāṅgasaṃbhūtairmantravigrahadhāribhiḥ)
 
 ## mukta-m0-p26-v643
-[yāmya+jyeṣṭha+and](yāmyajyeṣṭhaśca) [rudra+and](rudraśca) [kāla+kāla+cause](kālakālavikāraṇaḥ)
+[yāmya+jyeṣṭha+and](yāmyajyeṣṭhaśca) [rudra+and](rudraśca) [kāla+kāla+transformer](kālakālavikāraṇaḥ)
 
 ## mukta-m0-p26-v644
-[subduer](damanaḥ) [of-all+beings](sarvabhūtānāṃ) [mind+unmana](manonmana) [indeed](eva) [and](ca)
+[subduer](damanaḥ) [of-all+beings](sarvabhūtānāṃ) [manonmana+indeed](manonmana) [and](eva) [ca](ca)
 
 ## mukta-m0-p26-v645
-[from-that](ata) [above](ūrdhvaṃ) [may-be](bhavedanyat) [of-time+covering+o-cave](kālasyāvaraṇaṃguha)
+[from-there](ata) [above](ūrdhvaṃ) [would-be+other](bhavedanyat) [of-time+covering](kālasyāvaraṇaṃguha) [secret](kālasyāvaraṇaṃguha)
 
 ## mukta-m0-p26-v646
-[of-that](tasya) [in-middle](madhye) [situated](sthitaḥ) [time](kālo) [terrible](raudra) [all+people+destroying](sarvāṃjanāntakṛt)
+[of-that](tasya) [in-middle](madhye) [situated](sthitaḥ) [time](kālo) [fierce](raudra) [all+people+destroyer](sarvāṃjanāntakṛt)
 
 ## mukta-m0-p26-v647
-[flax+flower+resembling](atasīpuṣpasaṃkāśaiḥ) [radiant+dear+showing](kāntimatpriyadarśibhiḥ)
+[atasī+flower+resembling](atasī) [puṣpa+saṃkāśaiḥ](puṣpasaṃkāśaiḥ) [radiant+dear+seeing](kāntimatpriyadarśibhiḥ)
 
 ## mukta-m0-p26-v648
-[exceedingly+beauty+endowed](atyartharūpasampadbhiḥ) [coral+charm+shining](pravālālaśobhibhiḥ)
+[exceedingly+form+endowed](atyartharūpasampadbhiḥ) [coral+grace+shining](pravālālaśobhibhiḥ)
 
 ## mukta-m0-p26-v649
-[uccuṣmā+śāpara+śaṃḍā](uccuṣmāśśāparaśśaṃḍā) [mātaṅgas](mātaṅgā) [terrible+formed](ghorarūpiṇaḥ)
+[uccuṣmāḥ](uccuṣmāśśāparaśśaṃḍā) [śāparaḥ](uccuṣmāśśāparaśśaṃḍā) [śaṃḍa](uccuṣmāśśāparaśśaṃḍā) [mātaṅgāḥ](mātaṅgā) [terrible+formed](ghorarūpiṇaḥ)
 
 ## mukta-m0-p26-v650
-[from-that+trident+groups](tatassūlagaṇāni) [*](*) [*](*) [*](*) [six+rāḥ+likewise](ṣadrāstathā) [others](pare)
+[then](tatassūlagaṇāni) [trident+troops](tatassūlagaṇāni) [*](*) [*](*) [*](*) [six+others](ṣadrāstathā) [likewise](ṣadrāstathā) [others](pare)

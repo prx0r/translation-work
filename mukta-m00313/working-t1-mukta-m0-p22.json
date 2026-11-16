@@ -12,7 +12,7 @@
 },
 {
 "surface": "vajratuṇḍāñca",
-"quick_gloss": "vajra-tuṇḍā"
+"quick_gloss": "vajra+beak"
 },
 {
 "surface": "mudrān",
@@ -45,15 +45,15 @@
 },
 {
 "surface": "viṣaraktena",
-"quick_gloss": "with-poison-blood"
+"quick_gloss": "with-poison+blood"
 },
 {
 "surface": "niyuktā",
-"quick_gloss": "employed"
+"quick_gloss": "placed"
 },
 {
 "surface": "vajramaṇḍale",
-"quick_gloss": "in-vajra-maṇḍala"
+"quick_gloss": "in-vajra+circle"
 }
 ]
 },
@@ -86,7 +86,7 @@
 },
 {
 "surface": "jalādhipaḥ",
-"quick_gloss": "lord-of-waters"
+"quick_gloss": "water+lord"
 }
 ]
 },
@@ -103,7 +103,7 @@
 },
 {
 "surface": "maṇḍalaṃ",
-"quick_gloss": "maṇḍala"
+"quick_gloss": "circle"
 },
 {
 "surface": "bhūrje",
@@ -111,7 +111,7 @@
 },
 {
 "surface": "gorocana",
-"quick_gloss": "with-gorocanā"
+"quick_gloss": "with-cow-yellow-pigment"
 },
 {
 "surface": "yā",
@@ -136,7 +136,7 @@
 },
 {
 "surface": "kumbhamadhye",
-"quick_gloss": "in-middle-of-pot"
+"quick_gloss": "in-pot+middle"
 },
 {
 "surface": "tu",
@@ -144,7 +144,7 @@
 },
 {
 "surface": "divyastambho",
-"quick_gloss": "divine-paralysis"
+"quick_gloss": "divine+paralysis"
 },
 {
 "surface": "bhaveddhruvam",
@@ -165,7 +165,7 @@
 },
 {
 "surface": "rocanayā",
-"quick_gloss": "with-gorocanā"
+"quick_gloss": "with-yellow-pigment"
 },
 {
 "surface": "likhya",
@@ -173,11 +173,11 @@
 },
 {
 "surface": "vajramaṇḍalamaṃ",
-"quick_gloss": "vajra-maṇḍala"
+"quick_gloss": "vajra+circle"
 },
 {
 "surface": "dhyataḥ",
-"quick_gloss": "meditated-upon"
+"quick_gloss": "mentally"
 }
 ]
 },
@@ -214,20 +214,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "āśritya",
-"quick_gloss": "having-resorted-to"
-},
-{
-"surface": "vivaradvāram",
-"quick_gloss": "opening-of-cavity"
+"surface": "vivaradvāramāśritya",
+"quick_gloss": "hole+door"
 },
 {
 "surface": "bhedinī",
-"quick_gloss": "with-bhedinī-seal"
+"quick_gloss": "with-bhedinī+seal"
 },
 {
 "surface": "mudrayā",
-"quick_gloss": "with-seal"
+"quick_gloss": "mudrayā"
 },
 {
 "surface": "japet",
@@ -260,7 +256,7 @@
 },
 {
 "surface": "pātālavāsinī",
-"quick_gloss": "dwelling-in-netherworld"
+"quick_gloss": "netherworld+dwelling"
 }
 ]
 },
@@ -273,7 +269,7 @@
 "tokens": [
 {
 "surface": "divyāśraye",
-"quick_gloss": "in-divine-resort"
+"quick_gloss": "in-divine+resort"
 },
 {
 "surface": "japenmantrī",
@@ -281,7 +277,7 @@
 },
 {
 "surface": "siddhyate",
-"quick_gloss": "practitioner"
+"quick_gloss": "is-accomplished"
 },
 {
 "surface": "nātra",
@@ -306,11 +302,15 @@
 },
 {
 "surface": "sthiracittastu",
-"quick_gloss": "with-steady-mind"
+"quick_gloss": "steady+minded"
 },
 {
 "surface": "akṣatāṅgaśavopari",
-"quick_gloss": "upon-uninjured-limbed-corpse"
+"quick_gloss": "uninjured+limbed"
+},
+{
+"surface": "śavopari",
+"quick_gloss": "corpse+upon"
 }
 ]
 },
@@ -323,7 +323,11 @@
 "tokens": [
 {
 "surface": "kṣaṇānniṣkamate",
-"quick_gloss": "in-an-instant"
+"quick_gloss": "in-a-moment"
+},
+{
+"surface": "niṣkamate",
+"quick_gloss": "comes-out"
 },
 {
 "surface": "jihvā",
@@ -334,12 +338,16 @@
 "quick_gloss": "sword"
 },
 {
+"surface": "ca",
+"quick_gloss": "and"
+},
+{
 "surface": "guṭikātha",
-"quick_gloss": "or"
+"quick_gloss": "pill"
 },
 {
 "surface": "vā",
-"quick_gloss": "pill"
+"quick_gloss": "or"
 }
 ]
 },
@@ -352,7 +360,7 @@
 "tokens": [
 {
 "surface": "antardhānī",
-"quick_gloss": "invisible"
+"quick_gloss": "invisibility"
 },
 {
 "surface": "bhavet",
@@ -360,15 +368,19 @@
 },
 {
 "surface": "sahijavairbheda",
-"quick_gloss": "that"
+"quick_gloss": "with-that"
+},
+{
+"surface": "bheda",
+"quick_gloss": "by-piercing"
 },
 {
 "surface": "sa",
-"quick_gloss": "is-seen"
+"quick_gloss": "that"
 },
 {
 "surface": "dṛśyate",
-"quick_gloss": "seen"
+"quick_gloss": "is-seen"
 }
 ]
 },
@@ -381,15 +393,23 @@
 "tokens": [
 {
 "surface": "taccakṣurañjaneryuktaṃ",
-"quick_gloss": "with-that-eye-ointment"
+"quick_gloss": "that"
+},
+{
+"surface": "cakṣurañjaneryuktaṃ",
+"quick_gloss": "eye+ointment"
+},
+{
+"surface": "yuktaṃ",
+"quick_gloss": "with-application"
 },
 {
 "surface": "grahaṇaṃ",
-"quick_gloss": "application"
+"quick_gloss": "grasping"
 },
 {
 "surface": "siddhamañjanam",
-"quick_gloss": "accomplished-ointment"
+"quick_gloss": "accomplished+ointment"
 }
 ]
 },
@@ -417,6 +437,10 @@
 "quick_gloss": "should-recite"
 },
 {
+"surface": "aṣṭaśataṃ",
+"quick_gloss": "eight+hundred"
+},
+{
 "surface": "tadā",
 "quick_gloss": "then"
 }
@@ -431,7 +455,11 @@
 "tokens": [
 {
 "surface": "agnināḍīniruddhā",
-"quick_gloss": "blocked-in-fire-channel"
+"quick_gloss": "fire+channel"
+},
+{
+"surface": "niruddhā",
+"quick_gloss": "obstructed"
 },
 {
 "surface": "tu",
@@ -439,11 +467,11 @@
 },
 {
 "surface": "koṣṭhagā",
-"quick_gloss": "abiding-in-body"
+"quick_gloss": "in-abdomen+dwelling"
 },
 {
 "surface": "vījasaṃyutā",
-"quick_gloss": "endowed-with-seed"
+"quick_gloss": "seed+endowed"
 }
 ]
 },
@@ -456,7 +484,7 @@
 "tokens": [
 {
 "surface": "nirvījīkaraṇaṃ",
-"quick_gloss": "removal-of-seed"
+"quick_gloss": "seedless+making"
 },
 {
 "surface": "hyetad",
@@ -472,7 +500,7 @@
 },
 {
 "surface": "kṣaṇāt",
-"quick_gloss": "in-an-instant"
+"quick_gloss": "in-a-moment"
 }
 ]
 },
@@ -485,7 +513,7 @@
 "tokens": [
 {
 "surface": "vyomasthaṃ",
-"quick_gloss": "standing-in-sky"
+"quick_gloss": "in-sky+standing"
 },
 {
 "surface": "tu",
@@ -493,11 +521,15 @@
 },
 {
 "surface": "japeddhyetajjapāṣṭa",
-"quick_gloss": "should-recite-meditate-this"
+"quick_gloss": "should-recite"
 },
 {
-"surface": "śatasaṃkhyayā",
-"quick_gloss": "by-count-of-eight-hundred"
+"surface": "etad",
+"quick_gloss": "this"
+},
+{
+"surface": "japāṣṭa+śatasaṃkhyayā",
+"quick_gloss": "recitation+eight+hundred+number"
 }
 ]
 },
@@ -514,7 +546,7 @@
 },
 {
 "surface": "vyomagaṃ",
-"quick_gloss": "sky-going"
+"quick_gloss": "sky+going"
 },
 {
 "surface": "kṛtvā",
@@ -525,8 +557,12 @@
 "quick_gloss": "at-that-moment"
 },
 {
-"surface": "bhavet",
+"surface": "āpyāyanaṃ",
 "quick_gloss": "nourishment"
+},
+{
+"surface": "bhavet",
+"quick_gloss": "will-be"
 }
 ]
 },
@@ -539,19 +575,15 @@
 "tokens": [
 {
 "surface": "niruddho",
-"quick_gloss": "blocked"
+"quick_gloss": "obstructed"
 },
 {
-"surface": "marutaḥ",
-"quick_gloss": "movement-of-breath"
-},
-{
-"surface": "saṃcāraḥ",
-"quick_gloss": "flow"
+"surface": "marutaḥ+saṃcāraḥ",
+"quick_gloss": "wind+movement"
 },
 {
 "surface": "pararāṣṭrasya",
-"quick_gloss": "toward-enemy-kingdom"
+"quick_gloss": "of-other+kingdom"
 },
 {
 "surface": "sanmukham",
@@ -584,7 +616,7 @@
 },
 {
 "surface": "balavarjitam",
-"quick_gloss": "deprived-of-strength"
+"quick_gloss": "strength+deprived"
 }
 ]
 },
@@ -609,7 +641,7 @@
 },
 {
 "surface": "vajratuṇḍā",
-"quick_gloss": "vajra-tuṇḍā"
+"quick_gloss": "vajra+beak"
 },
 {
 "surface": "tu",
@@ -630,23 +662,23 @@
 "tokens": [
 {
 "surface": "bhūtapreta",
-"quick_gloss": "of-bhūtas-pretas"
+"quick_gloss": "of-ghosts"
 },
 {
 "surface": "piśācānāṃ",
-"quick_gloss": "of-piśācas"
-},
-{
-"surface": "ca",
-"quick_gloss": "and"
+"quick_gloss": "of-spirits"
 },
 {
 "surface": "daṃṣṭriṇāṃ",
 "quick_gloss": "of-fanged-beings"
 },
 {
+"surface": "ca",
+"quick_gloss": "and"
+},
+{
 "surface": "nigrahe",
-"quick_gloss": "in-subjugation"
+"quick_gloss": "in-subduing"
 }
 ]
 },
@@ -659,27 +691,35 @@
 "tokens": [
 {
 "surface": "īśaḥ",
-"quick_gloss": "īśa"
+"quick_gloss": "Īśa"
 },
 {
 "surface": "śaktiḥ",
-"quick_gloss": "śakti"
+"quick_gloss": "Śakti"
 },
 {
 "surface": "khago",
-"quick_gloss": "khaga"
+"quick_gloss": "Khaga"
 },
 {
 "surface": "viṣṇuḥ",
-"quick_gloss": "viṣṇu"
+"quick_gloss": "Viṣṇu"
 },
 {
 "surface": "śivaścaiva",
+"quick_gloss": "Śiva"
+},
+{
+"surface": "ca",
 "quick_gloss": "and"
 },
 {
+"surface": "eva",
+"quick_gloss": "indeed"
+},
+{
 "surface": "sadāśivaḥ",
-"quick_gloss": "śiva"
+"quick_gloss": "Sadāśiva"
 }
 ]
 },
@@ -692,15 +732,23 @@
 "tokens": [
 {
 "surface": "nāgāgrahāṃstathā",
-"quick_gloss": "nāgas-and-grahas"
+"quick_gloss": "serpents+planets"
+},
+{
+"surface": "tathā",
+"quick_gloss": "and-likewise"
 },
 {
 "surface": "meghānānayeṣṭa",
 "quick_gloss": "clouds"
 },
 {
+"surface": "ānayeṣṭa",
+"quick_gloss": "in-bringing"
+},
+{
 "surface": "śatena",
-"quick_gloss": "by-eight-hundred"
+"quick_gloss": "eight+hundred"
 },
 {
 "surface": "tu",
