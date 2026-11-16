@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p43-v1051
-[two-large](bṛhatīdvayaṃ) [and](ca) [kuṣmāṇḍa](kuṣmāṇḍaṃ) [large-mudga](bṛhanmudgaṃ) [and](cālābunī)
+[eggplant+pair](bṛhatīdvayaṃ) [and](ca) [pumpkin](kuṣmāṇḍaṃ) [large+mung-bean](bṛhanmudgaṃ) [and+bottle-gourd](cālābunī)
 
 ## mukta-m0-p43-v1052
-[śiśuka](śiśukaṃ) [large-kanda](bṛhatkandaṃ) [of-sāraṇa](sāraṇasya) [but](tu) [kanda](kandakam)
+[cucumber](śiśukaṃ) [large+tuber](bṛhatkandaṃ) [of-sāraṇa](sāraṇasya) [but](tu) [bulb](kandakam)
 
 ## mukta-m0-p43-v1053
-[rājamāṣa](rājamāṣāḍhakī) [and-indeed](caiva) [mudga-śimba](mudgaśimbaṃ) [kulasthaka](kulasthakam)
+[black-gram+pigeon-pea](rājamāṣāḍhakī) [and+indeed](caiva) [mung-bean+pod](mudgaśimbaṃ) [horse-gram](kulasthakam)
 
 ## mukta-m0-p43-v1054
-[these](ete) [vakṣa-upadaṃśa](vakṣopadaṃśā) [she](sā) [kāravallī](kāravallī) [and-so](tathaiva) [ca](ca)
+[these](ete) [chest+side-dishes](vakṣopadaṃśā) [that](sā) [bitter-gourd](kāravallī) [likewise+indeed](tathaiva) [and](ca)
 
 ## mukta-m0-p43-v1055
-[thus](evameva) [order](kramaṃ) [should-do](kuryād) [as](yathā) [in-obtaining](lābhe) [and](ca) [should-make](kārayet)
+[thus+indeed](evameva) [procedure](kramaṃ) [one-should-do](kuryādyathā) [in-availability](lābhe) [and](ca) [one-should-cause](kārayet)
 
 ## mukta-m0-p43-v1056
-[taṇḍulas](taṇḍulāścaiva) [thirty-two](dvitriṃśad) [upadaṃśa](upadaṃśam) [here](iha) [is-said](ucyate)
+[rice-grains+and+indeed](taṇḍulāścaiva) [thirty-two](dvitriṃśadupadaṃśamihocyate) [side-dish+here+is-called](dvitriṃśadupadaṃśamihocyate)
 
 ## mukta-m0-p43-v1057
-[sūpa](sūpaṃ) [having-made](kṛtvā) [especially](viśeṣeṇa) [flour](piṣṭa) [joined](saṃyutam)
+[soup](sūpaṃ) [having-made](kṛtvā) [specially](viśeṣeṇa) [*](*) [*](*) [*](*) [flour+mixed](piṣṭa) [+](saṃyutam)
 
 ## mukta-m0-p43-v1058
-[with-jackfruit](panasena) [joined](samāyuktaṃ) [sūpa](sūpam) [with-ghee](ājyaṃ) [should-offer](nivedayet)
+[with-jackfruit](panasena) [joined](samāyuktaṃ) [soup+ghee](sūpamājyaṃ) [one-should-offer](nivedayet)
 
 ## mukta-m0-p43-v1059
-[two-betel-nuts](pūgīphaladvayaṃ) [and-indeed](caiva) [eight-leaves](aṣṭapatrasamāyutam)
+[betel-nut+pair](pūgīphaladvayaṃ) [and+indeed](caiva) [eight+leaf+endowed](aṣṭapatrasamāyutam)
 
 ## mukta-m0-p43-v1060
-[mātuluṅga](mātuluṃga) [fruit-etc](phalādyāsu) [ripe-etc](pakvādīni) [should-offer](nivedayet)
+[in-citron+fruit+etc.](mātuluṃga) [+](phalādyāsu) [cooked+etc.](pakvādīni) [one-should-offer](nivedayet)
 
 ## mukta-m0-p43-v1061
-[in-one-place](ekasthāne) [but](tu) [o-best-of-brāhmaṇas](viprendra) [having-placed](nidhāya) [all](sakalaṃ) [then](tataḥ)
+[in-one+place](ekasthāne) [indeed](tu) [o-best-of-brahmins](viprendra) [having-placed](nidhāya) [all](sakalaṃ) [then](tataḥ)
 
 ## mukta-m0-p43-v1062
-[with-scents](gandhaiḥ) [with-flowers](puṣpaiśca) [with-incense](dhūpaiśca) [with-lamps](dīpaiścaiva) [well-worship](supūjayet)
+[with-fragrances](gandhaiḥ) [with-flowers+and](puṣpaiśca) [with-incense+and](dhūpaiśca) [with-lamps+and+indeed](dīpaiścaiva) [one-should-worship-well](supūjayet)
 
 ## mukta-m0-p43-v1063
-[sthalikā](sthalikā) [and-indeed](caiva) [golden](sauvarṇaṃ) [silver](rajataṃ) [bronze](kāṃsyameva) [ca](ca)
+[vessel](sthalikā) [and+indeed](caiva) [golden](sauvarṇaṃ) [silver](rajataṃ) [bronze+indeed](kāṃsyameva) [and](ca)
 
 ## mukta-m0-p43-v1064
-[or](athavā) [banana-leaf](kadalīpatraṃ) [cloth-upon](vastropari) [should-place-then](nyasettataḥ)
+[or](athavā) [plantain+leaf](kadalīpatraṃ) [on-cloth+upon](vastropari) [one-should-place+then](nyasettataḥ)
 
 ## mukta-m0-p43-v1065
-[by-vāmadeva-mantra](vāmadevena) [in-vessel](pātre) [food](annaṃ) [should-put-then](kṣipettataḥ)
+[with-vāmadeva](vāmadevena) [with-mantra](mantreṇa) [in-vessel](pātre) [and+food](cānnaṃ) [one-should-place+then](kṣipettataḥ)
 
 ## mukta-m0-p43-v1066
-[of-cāru](caruṇāṃ) [but](tu) [fourth-part](caturbhāgaṃ) [two-part](dvibhāgaṃ) [ca](ca) [should-offer](nivedayet)
+[of-oblations](caruṇāṃ) [indeed](tu) [four+part](caturbhāgaṃ) [two+part](dvibhāgaṃ) [and](ca) [one-should-offer](nivedayet)
 
 ## mukta-m0-p43-v1067
-[by-hṛdaya-mantra](hṛdayena) [but](tu) [mantra](mantreṇa) [should-give](dadyāt) [water](pānīyameva) [ca](ca)
+[with-hṛdaya](hṛdayena) [indeed](tu) [with-mantra](mantreṇa) [one-should-give+water+indeed](dadyātpānīyameva) [and](ca)
 
 ## mukta-m0-p43-v1068
-[should-sprinkle](prokṣayed) [with-water](ambhasā) [ca](ca) [eva](eva) [betel](tāmbūlaṃ) [should-give-then](dāpayettataḥ)
+[one-should-sprinkle+with-water](prokṣayedambhasā) [and+indeed](caiva) [betel](tāmbūlaṃ) [one-should-give+then](dāpayettataḥ)
 
 ## mukta-m0-p43-v1069
-[fire-rite](agnikāryaṃ) [then](tataḥ) [should-do](kuryāc) [by-scriptural-seen](śāstradṛṣṭena) [action](karmaṇā)
+[fire+rite](agnikāryaṃ) [then](tataḥ) [one-should-do+by-scripture+seen](kuryācchāstradṛṣṭena) [by-procedure](karmaṇā)
 
 ## mukta-m0-p43-v1070
-[of-pāyasa](pāyasānnakramaṃ) [order](kramaṃ) [will-say](vakṣye) [mudga](mudgaṃ) [vai](vai) [half-rice](taṇḍulārdhakam)
+[milk-rice+food+procedure](pāyasānnakramaṃ) [I-shall-tell](vakṣye) [mung-bean](mudgaṃ) [indeed](vai) [rice-grain+half](taṇḍulārdhakam)
 
 ## mukta-m0-p43-v1071
-[gulānna](gulānnaṃ) [will-say](vakṣyate) [o-brāhmaṇa](vipra) [milk](kṣīraṃ) [vai](vai) [half-rice](taṇḍulārdhakam)
+[jaggery+food](gulānnaṃ) [will-be-told](vakṣyate) [o-brahmin](vipra) [milk](kṣīraṃ) [indeed](vai) [rice-grain+half](taṇḍulārdhakam)
 
 ## mukta-m0-p43-v1072
-[gulānna](gulānnam) [iti](iti) [to-be-known](vijñeyaṃ) [kṛsarānna](kṛsarānnaṃ) [then](tataḥ) [hear](śṛṇu)
+[jaggery+food+thus](gulānnamiti) [to-be-known](vijñeyaṃ) [sesame-rice+food](kṛsarānnaṃ) [then](tataḥ) [listen](śṛṇu)
 
 ## mukta-m0-p43-v1073
-[half-sesame](tilārdhaṃ) [should-add](prakṣiped) [ghee](ājyaṃ) [kṛsarānna](kṛsarānnam) [here](iha) [is-said](ucyate)
+[sesame+half](tilārdhaṃ) [one-should-add+ghee](prakṣipedājyaṃ) [sesame-rice+food+here+is-called](kṛsarānnamihocyate)
 
 ## mukta-m0-p43-v1074
-[with-coconut-fruits](nālikeraphalairyuktaṃ) [mudgānna](mudgānnaṃ) [is-proclaimed](saṃprakīrtitam)
+[with-coconut+fruits+joined](nālikeraphalairyuktaṃ) [mung-bean+food](mudgānnaṃ) [is-declared](saṃprakīrtitam)
 
 ## mukta-m0-p43-v1075
-[having-stirred](āloḍhya) [cooked](pācitaṃ) [indeed](hyetatkadalī) [two-large](bṛhatīdvayam)
+[having-stirred](āloḍhya) [cooked](pācitaṃ) [indeed+this](hyetatkadalī) [plantain](hyetatkadalī) [eggplant+pair](bṛhatīdvayam)

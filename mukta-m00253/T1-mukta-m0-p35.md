@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p35-v851
-[four](catasra) [fuel-sticks](samidhā) [and](ca) [indeed](eva) [as-before](pūrvavat) [incense](dhūpayet) [then](tataḥ)
+[four](catasra) [fuel-sticks](samidhā) [and](ca) [indeed](eva) [as-before](pūrvavat) [should-fumigate](dhūpayet) [then](tataḥ)
 
 ## mukta-m0-p35-v852
-[palāśa](palāśa) [root](mūle) [staff](daṇḍaṃ) [and](ca) [antelope-skin](ajinaṃ) [mauñjī](mauñjī) [gem](maṇi) [or](vā) [friend](sakhā)
+[at-pālāśa+root](palāśamūle) [staff](daṇḍaṃ) [and](ca) [antelope-skin](ajinaṃ) [muñja-grass+girdle](mauñjīm) [or](vā) [friend](sakhā)
 
 ## mukta-m0-p35-v853
-[water](apa) [sipping](ācamya) [brahmin-lord](viprendra) [jayādi](jayādiṃ) [offered](hūyate) [then](tataḥ)
+[water](apa) [having-sipped](ācamya) [o-best-of-brahmins](viprendra) [jaya+etc.](jayādiṃ) [is-offered](hūyate) [then](tataḥ)
 
 ## mukta-m0-p35-v854
-[brahmins](brāhmaṇān) [feed](bhojayet) [there](tatra) [śiva-initiation](śivadīkṣā) [endowed](samanvitān)
+[brahmins](brāhmaṇān) [one-should-feed](bhojayet) [there](tatra) [śiva+initiation+endowed-with](śivadīkṣāsamanvitān)
 
 ## mukta-m0-p35-v855
-[thus](iti) [vīra-tantra](vīratantre) [upanayana-rite](upanayanavidhiḥ) [twenty-first](ekaviṃśatiḥ) [chapter](paṭalaḥ)
+[thus](iti) [in-vīra+tantra](vīratantre) [upanayana+rite](upanayanavidhiḥ) [twenty-first](ekaviṃśatiḥ) [chapter](paṭalaḥ)
 
 ## mukta-m0-p35-v856
-[river-bank](nadītaṭāke) [going](gatvā) [indeed](tu) [nine-ṛṣis](navarṣīn) [satisfy](tarpayet) [then](tataḥ)
+[to-river+bank](nadītaṭāke) [having-gone](gatvā) [indeed](tu) [nine+ṛṣis](navarṣīṃs) [one-should-offer-libations](tarpayet) [then](tataḥ)
 
 ## mukta-m0-p35-v857
-[fire-mouth](agnimukhaṃ) [and](ca) [intending](saṃkalpya) [ṛṣis](ṛṣīṇāṃ) [and](ca) [offered](hūyate)
+[fire+face](agnimukhaṃ) [and](ca) [having-resolved](saṃkalpya) [of-ṛṣis](ṛṣīṇāṃ) [and](ca) [is-offered](hūyate)
 
 ## mukta-m0-p35-v858
-[again](punaḥ) [circumambulation-pouring](pariṣecanaṃ) [doing](kṛtvā) [as](yathā) [rite](vidhi) [and](ca) [offered](hūyate)
+[again](punaḥ) [sprinkling-around](pariṣecanaṃ) [having-done](kṛtvā) [according-to+rule](yathā) [and](ca) [rule](vidhi) [is-offered](hūyate)
 
 ## mukta-m0-p35-v859
-[thousand](sahasra) [fuel-sticks](samidhāṃ) [and](ca) [offered](hūyate) [gradually](kramaśas) [then](tataḥ)
+[thousand+fuel-sticks](sahasrasamidhāṃ) [and](ca) [is-offered](hūyate) [in-order](kramaśas) [then](tataḥ)
 
 ## mukta-m0-p35-v860
-[thus](iti) [vīra-tantra](vīratantre) [upākarma-rite](upākarmavidhiḥ) [twenty-second](dvāviṃśati) [chapter](paṭalaḥ)
+[thus](iti) [in-vīra+tantra](vīratantre) [upākarma+rite](upākarmavidhiḥ) [twenty-second](dvāviṃśati) [chapter](paṭalaḥ)
 
 ## mukta-m0-p35-v861
-[bathing](snātvā) [indeed](tu) [pure-garmented](śucivāsāśca) [offering](hutvā) [indeed](vai) [śukriya-vow](śukriyāvṛtaḥ)
+[having-bathed](snātvā) [indeed](tu) [pure+garments](śucivāsāś) [and](ca) [having-offered](hutvā) [indeed](vai) [śukriya+covered](śukriyāvṛtaḥ)
 
 ## mukta-m0-p35-v862
-[limb](gātraṃ) [and](ca) [covering](veṣṭhakaṃ) [should-do](kuryān) [nine-garments](navavastreṇa) [teacher](deśikaḥ)
+[body](gātraṃ) [and](ca) [covering](veṣṭhakaṃ) [should-make](kuryāt) [with-new+garment](navavastreṇa) [teacher](deśikaḥ)
 
 ## mukta-m0-p35-v863
-[brahmins](brāhmaṇān) [feed](bhojayet) [there](tatra) [śiva-devotion](śivabhakti) [endowed](samanvitān)
+[brahmins](brāhmaṇān) [one-should-feed](bhojayet) [there](tatra) [śiva+devotion+endowed-with](śivabhaktisamanvitān)
 
 ## mukta-m0-p35-v864
-[thus](iti) [vīra-tantra](vīratantre) [śukriya-vow-rite](śukriyavratavidhiḥ) [twenty-third](trayoviṃśatiḥ) [chapter](paṭalaḥ)
+[thus](iti) [in-vīra+tantra](vīratantre) [śukriya+vow+rite](śukriyavratavidhis) [twenty-third](trayoviṃśatiḥ) [chapter](paṭalaḥ)
 
 ## mukta-m0-p35-v865
-[svāti](svātī) [mūla](mūlā) [anurādhā](anurādhā) [stars](nakṣatra) [and](ca) [so](tathā)
+[svātī+mūla+anurādhā](svātīmūlānurādhā) [*](*) [*](*) [*](*) [*](*) [*](*) [*](*) [likewise](stathā)
 
 ## mukta-m0-p35-v866
-[those](te) [constellations](nakṣa(trā)ṇi) [best-of-gods](suraśreṣṭha) [seventh](saptame) [planet-excluding](grahavarjitam)
+[those](te) [constellations](nakṣa(trā)ṇi) [o-best-of-gods](suraśreṣṭha) [in-seventh](saptame) [planet+devoid-of](grahavarjitam)
 
 ## mukta-m0-p35-v867
-[mauñjī](mauñjyā) [brahmacārin-hand](brahmacārikare) [give](dadet)
+[with-muñja-girdle](mauñjyā) [*](*) [*](*) [*](*) [*](*) [*](*) [*](*) [in-brahmacārin+hand](brahmacārikare) [should-give](dadet)
 
 ## mukta-m0-p35-v868
-[black-hair](kṛṣṇakeśā) [body-hair](roma) [so](tathaiva) [and](ca)
+[black+hair](kṛṣṇakeśā) [*](*) [*](*) [*](*) [*](*) [*](*) [*](*) [body-hair](roma) [likewise](tathaiva) [and](ca)
 
 ## mukta-m0-p35-v869
-[snātaka](snātakasya) [vow](vrataṃ) [and](ca) [indeed](eva) [offering](hutvā) [and](ca) [indeed](eva) [especially](viśeṣataḥ)
+[of-graduate](snātakasya) [vow](vrataṃ) [and](ca) [indeed](eva) [having-offered](hutvā) [and](ca) [indeed](eva) [especially](viśeṣataḥ)
 
 ## mukta-m0-p35-v870
-[ghee-offering](ājyāhutiṃ) [mayāma](mayāmaṃ) [indeed](tu) [all](sarvān) [indeed](eva) [offer](hunet) [then](tataḥ)
+[ghee+oblation](ājyāhutiṃ) [*](mayāmaṃ) [indeed](tu) [all](sarvān) [indeed](eva) [should-offer](hunet) [then](tataḥ)
 
 ## mukta-m0-p35-v871
-[thus](evaṃ) [mantra](mantra) [remembering](anusmṛtya) [bilva](bilvaṃ) [and](ca) [indeed](eva) [then](tu) [place](nikṣipet)
+[thus](evaṃ) [mantra](mantram) [having-remembered](anusmṛtya) [bilva](bilvaṃ) [and](ca) [indeed](eva) [indeed](tu) [should-place](nikṣipet)
 
 ## mukta-m0-p35-v872
-[neighboring-deities](prativeśānimantreṇa) [belly](udaraṃ) [and](ca) [consecrate](abhimantrayet)
+[with-prativeśāni+mantra](prativeśānimantreṇa) [belly](udaraṃ) [and](ca) [should-consecrate](abhimantrayet)
 
 ## mukta-m0-p35-v873
-[eastern](pūrvasyāṃ) [direction](diśi) [scripture](śāstreṇa) [bow](vandayet)
+[in-eastern](pūrvasyāṃ) [direction](diśi) [with-śāstra](śāstreṇa) [*](diva) [*](taṃ) [and](ca) [should-honor](vandayet)
 
 ## mukta-m0-p35-v874
-[samāvartana](samāvartana) [growth-etc](vṛddhyādi) [vyāhṛti](vyāhṛtyā) [ghee](ājyena) [offered](hūyate)
+[samāvartana+increase+etc.](samāvartana) [*](vṛddhyādi) [with-vyāhṛti+ghee](vyāhṛtyājyena) [is-offered](hūyate)
 
 ## mukta-m0-p35-v875
-[hand-grasping](pāṇigrahaṇa) [measure](tulāḥ) [rice](vrīhi) [or](vā) [indeed](ca) [and](ca) [indeed](eva)
+[hand+taking](pāṇigrahaṇa) [*](pra) [*](*) [*](*) [having-crossed](tīryā) [and](ca) [or](vā) [rice](vrīhis) [measures](tulāḥ)
