@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p04-v76
-[breath-control](prāṇāyāmo) [becomes](bhavatyevaṃ) [inhalation](pūrako) [body-filling](dehapūrakaḥ)
+[breath-control](prāṇāyāmaḥ) [becomes](bhavati) [thus](evaṃ) [inhalation](pūrakaḥ) [body+filling](deha+pūrakaḥ)
 
 ## mukta-m0-p04-v77
-[full-pot-like](pūrṇakumbhavattiṣṭhettu) [breath-control](prāṇāyāmaḥ) [that](sa) [retention](kumbhakaḥ)
+[full+pot+like](pūrṇa+kumbha+vat) [one-should-remain](tiṣṭhet) [but](tu) [breath-control](prāṇāyāmaḥ) [that](saḥ) [retention](kumbhakaḥ)
 
 ## mukta-m0-p04-v78
-[exhalation-yoga](niśvāsayogamuktastaṃ) [air](vāyuṃ) [externally](bāhyena) [expel](recayet)
+[exhalation+union+released](niśvāsa+yoga+muktaḥ) [that](taṃ) [air](vāyuṃ) [outside](bāhyena) [one-should-expel](recayet)
 
 ## mukta-m0-p04-v79
-[knees](jānū) [circumambulating](pradakṣiṇīkṛtya) [not](na) [quickly](drutaṃ) [not](na) [slowly](bilambitam)
+[knees](jānū) [having-circumambulated](pradakṣiṇīkṛtya) [not](na) [quickly](drutaṃ) [not](na) [slowly](bilambitam)
 
 ## mukta-m0-p04-v80
-[then](tato) [twelve-measures](dvādaśamātrābhiḥ) [inhalation](pūrakaḥ) [done](kriyate) [indeed](tu) [indeed](vai)
+[then](tataḥ) [with-twelve+measures](dvādaśa+mātrābhiḥ) [inhalation](pūrakaḥ) [is-done](kriyate) [indeed](tu) [verily](vai)
 
 ## mukta-m0-p04-v81
-[three-breath-controls](prāṇāyāmatrayaṃ) [and](caiva) [each](ekaikaṃ) [threefold-natured](tritayātmakam)
+[breath-control+triad](prāṇāyāma+trayaṃ) [and](ca) [indeed](eva) [each-one](ekaikaṃ) [threefold+natured](tritaya+ātmakam)
 
 ## mukta-m0-p04-v82
-[by-om](praṇavena) [expelling](viniḥsārya) [brahman-aperture](brahmarandhrād) [from](bahirbudhaiḥ)
+[with-praṇava](praṇavena) [having-expelled](viniḥsārya) [from-brahma+aperture](brahma+randhrāt) [outside](bahiḥ) [by-the-wise](budhaiḥ)
 
 ## mukta-m0-p04-v83
-[consciousness-less](caitanyarahitaṃ) [body](dehaṃ) [external-and-internal](vāhyaṃcābhyantaraṃ) [thus](tathā)
+[consciousness+devoid](caitanya+rahitaṃ) [body](dehaṃ) [external](vāhyaṃ) [and](ca) [internal](abhyantaraṃ) [likewise](tathā)
 
 ## mukta-m0-p04-v84
-[which](yaṃ) [color](varṇaṃ) [smoke-colored](dhūmravarṇantu) [meditating](dhyātvā) [by-that](tena) [purify](viśodhayet)
+[which](yaṃ) [color](varṇaṃ) [smoke+colored](dhūmra+varṇam) [indeed](tu) [having-meditated](dhyātvā) [by-that](tena) [one-should-purify](viśodhayet)
 
 ## mukta-m0-p04-v85
-[burn](nirdahedatha) [then](atha) [that](taṃ) [ash-heap](bhasmarāśiṃ) [body-shaped](dehākṛtiṃ) [become](bhavet)
+[one-should-burn](nirdahet) [then](atha) [that](taṃ) [ash+heap](bhasma+rāśiṃ) [body+form](deha+ākṛtiṃ) [it-should-become](bhavet)
 
 ## mukta-m0-p04-v86
-[half-moon-shaped](ardhacandrākṛtiṃ) [white](śvetaṃ) [lotus-pair-footed](padmadvayapadānvitam)
+[half-moon+shaped](ardha+candra+ākṛtiṃ) [white](śvetaṃ) [two+lotuses+endowed-with](padma+dvaya+pada+anvitam)
 
 ## mukta-m0-p04-v87
-[seed](bījantu) [earth](pārthivaṃ) [placing](nyasya) [meditate](cintayed) [sky-circle](vyomamaṇḍalam)
+[seed](bījam) [indeed](tu) [earthly](pārthivaṃ) [having-placed](nyasya) [one-should-visualize](cintayet) [space+sphere](vyoma+maṇḍalam)
 
 ## mukta-m0-p04-v88
-[self](ātmānaṃ) [meditate](cintayenmantrī) [mantra-user](mantrī) [deity-formed](devatārūpiṇaṃ) [then](tataḥ)
+[self](ātmānaṃ) [one-should-visualize](cintayet) [the-practitioner](mantrī) [deity+formed](devatā+rūpiṇaṃ) [then](tataḥ)
 
 ## mukta-m0-p04-v89
-[limb-nyasa](aṅganyāsakaranyāsau) [hand-nyasa](karanyāsau) [body-nyasa](dehanyāsa) [thus](iti) [threefold](tridhā)
+[limb+placement](aṅga+nyāsa) [and](ca) [hand+placement](kara+nyāsau) [body+placement](deha+nyāsaḥ) [thus](iti) [threefold](tridhā)
 
 ## mukta-m0-p04-v90
-[first](prathamaṃ) [be](syāt) [hand-nyasa](karanyāso) [body-nyasa](dehanyāsastu) [indeed](tu) [middle](madhyamaḥ)
+[first](prathamaṃ) [should-be](syāt) [hand+placement](kara+nyāsaḥ) [body+placement](deha+nyāsaḥ) [but](tu) [middle](madhyamaḥ)
 
 ## mukta-m0-p04-v91
-[om](oṃkāraṃ) [making-enclosure](sampuṭīkṛtya) [by-mantra](manunā) [pervasive](vyāpakaṃ) [place](nyaset)
+[oṃkāra](oṃkāraṃ) [having-enclosed](sampuṭīkṛtya) [with-mantra](manunā) [pervading](vyāpakaṃ) [one-should-place](nyaset)
 
 ## mukta-m0-p04-v92
-[all-limbs](sarvāṅgeṣu) [and](ca) [placing](vinyasya) [in-order](krameṇaivotkrameṇa) [reverse-order](utkrameṇa) [indeed](tu)
+[in-all+limbs](sarva+aṅgeṣu) [and](ca) [having-placed](vinyasya) [in-order](krameṇa) [and](ca) [in-reverse-order](utkrameṇa) [indeed](tu)
 
 ## mukta-m0-p04-v93
-[originative](autpattiko'sti) [is](asti) [of-mantras](mantrāṇāṃ) [dissolution-named](saṃhārākhyo) [reversal](viparyayaḥ)
+[original](autpattikaḥ) [is](asti) [of-mantras](mantrāṇāṃ) [dissolution+named](saṃhāra+ākhyaḥ) [reverse](viparyayaḥ)
 
 ## mukta-m0-p04-v94
-[little-finger-end](kaniṣṭhāntaṃ) [becomes](bhavennyāsaḥ) [nyasa](nyāsaḥ) [stability](sthitirnāma) [named](nāma) [great-rise](mahodayaḥ)
+[up-to-little-finger](kaniṣṭhā+antaṃ) [should-be](bhavet) [placement](nyāsaḥ) [maintenance](sthitiḥ) [named](nāma) [great-rising](mahā+udayaḥ)
 
 ## mukta-m0-p04-v95
-[foot-beginning](pādādikaḥ) [head-end](śiro'ntastu) [indeed](tu) [that](so'pi) [also](api) [dissolution](saṃharaṇo) [become](bhavet)
+[beginning-with-feet](pāda+ādikaḥ) [ending-with-head](śiraḥ+antaḥ) [but](tu) [that](saḥ) [also](api) [dissolution](saṃharaṇaḥ) [should-be](bhavet)
 
 ## mukta-m0-p04-v96
-[mantra-syllables](mantrākṣarāṇāṃ) [in-placing](vinyāse'pyayameva) [also](api) [this](ayameva) [indeed](eva) [order-best](kramottamaḥ)
+[of-mantra+syllables](mantra+akṣarāṇāṃ) [in-placement](vinyāse) [also](api) [this](ayam) [indeed](eva) [order+best](krama+uttamaḥ)
 
 ## mukta-m0-p04-v97
-[eyes](netrayoraṅgamantrāṇāṃ) [limb-mantras](aṅgamantrāṇāṃ) [of-six](ṣaṇṇāṃ) [nyasa-order](nyāsakramo) [become](bhavet)
+[in-the-two-eyes](netrayoḥ) [of-limb+mantras](aṅga+mantrāṇāṃ) [of-six](ṣaṇṇāṃ) [placement+order](nyāsa+kramaḥ) [should-be](bhavet)
 
 ## mukta-m0-p04-v98
-[eye-end](netrāntāni) [thus](tathoktāni) [said](uktāni) [in-Vaishnava](vaiṣṇave) [nyasa-worship](nyāsapūjayoḥ)
+[ending-with-eyes](netra+antāni) [thus](tathā) [stated](uktāni) [in-vaiṣṇava](vaiṣṇave) [in-placement+and-worship](nyāsa+pūjayoḥ)
 
 ## mukta-m0-p04-v99
-[vashat](vaṣaṭ) [crest](śikhāyāṃ) [said](kathitaṃ) [armor](kavace) [hum](humiti) [thus](iti) [remembered](smṛtam)
+[vaṣaṭ](vaṣaṭ) [on-the-head](śikhāyāṃ) [declared](kathitaṃ) [in-armor](kavace) [hum](hum) [thus](iti) [remembered](smṛtam)
 
 ## mukta-m0-p04-v100
-[those](te'ṅguṣṭhavarjamaṅgulyaścatasro) [thumb-except](aṅguṣṭhavarjam) [fingers](aṅgulyaścatasro) [four](catasro) [heart](hṛdi) [head](mūrdhani)
+[they](te) [except-thumb](aṅguṣṭha+varjam) [fingers](aṅgulyaḥ) [four](catasraḥ) [on-heart](hṛdi) [on-head](mūrdhani)
