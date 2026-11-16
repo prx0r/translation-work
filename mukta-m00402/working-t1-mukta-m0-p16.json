@@ -37,7 +37,7 @@
 },
 {
 "surface": "kulatithau",
-"quick_gloss": "at-kula-guest-time"
+"quick_gloss": "on-kula-festival"
 },
 {
 "surface": "durgā",
@@ -99,7 +99,7 @@
 },
 {
 "surface": "saha",
-"quick_gloss": "together"
+"quick_gloss": "with"
 }
 ]
 },
@@ -181,12 +181,8 @@
 "quick_gloss": "who"
 },
 {
-"surface": "na",
-"quick_gloss": "not"
-},
-{
-"surface": "arcayati",
-"quick_gloss": "worships"
+"surface": "nārcayati",
+"quick_gloss": "not-worships"
 },
 {
 "surface": "nirjane",
@@ -203,7 +199,7 @@
 "tokens": [
 {
 "surface": "japapūjāvidhānāni",
-"quick_gloss": "mantra-recitation-and-worship-rites"
+"quick_gloss": "mantra-recitation+worship+rites"
 },
 {
 "surface": "yatkiṃcit",
@@ -248,7 +244,7 @@
 },
 {
 "surface": "bhairava",
-"quick_gloss": "O-Bhairava"
+"quick_gloss": "Bhairava"
 }
 ]
 },
@@ -319,7 +315,7 @@
 "tokens": [
 {
 "surface": "śubhāśubhāni",
-"quick_gloss": "auspicious-and-inauspicious"
+"quick_gloss": "auspicious+inauspicious"
 },
 {
 "surface": "karmāṇi",
@@ -348,7 +344,7 @@
 "tokens": [
 {
 "surface": "śubhāśubhaphalaṃ",
-"quick_gloss": "auspicious-and-inauspicious-result"
+"quick_gloss": "auspicious+inauspicious-result"
 },
 {
 "surface": "vyaktaṃ",
@@ -400,12 +396,8 @@
 "quick_gloss": "then"
 },
 {
-"surface": "na",
-"quick_gloss": "not"
-},
-{
-"surface": "eva",
-"quick_gloss": "indeed"
+"surface": "naiva",
+"quick_gloss": "not-indeed"
 },
 {
 "surface": "śubhaṃ",
@@ -438,7 +430,7 @@
 },
 {
 "surface": "śāntisvastyayanaṃ",
-"quick_gloss": "peace-and-blessing-rite"
+"quick_gloss": "peace+benediction"
 },
 {
 "surface": "caret",
@@ -466,12 +458,8 @@
 "quick_gloss": "should-be-told"
 },
 {
-"surface": "yadi",
-"quick_gloss": "if"
-},
-{
-"surface": "icchet",
-"quick_gloss": "one-desires"
+"surface": "yadīcchet",
+"quick_gloss": "if-one-desires"
 },
 {
 "surface": "śāśvataṃ",
@@ -495,12 +483,8 @@
 "quick_gloss": "not"
 },
 {
-"surface": "pituḥ",
-"quick_gloss": "in-father's"
-},
-{
-"surface": "saṃnidhāne",
-"quick_gloss": "presence"
+"surface": "pituḥ+saṃnidhāne",
+"quick_gloss": "in-father's-presence"
 },
 {
 "surface": "vā",
@@ -511,12 +495,8 @@
 "quick_gloss": "not"
 },
 {
-"surface": "mātuḥ",
-"quick_gloss": "in-mother's"
-},
-{
-"surface": "saṃnidhau",
-"quick_gloss": "presence"
+"surface": "mātuḥ+saṃnidhau",
+"quick_gloss": "in-mother's-presence"
 },
 {
 "surface": "tathā",
@@ -578,7 +558,7 @@
 },
 {
 "surface": "japam",
-"quick_gloss": "mantra-recitation"
+"quick_gloss": "recitation"
 }
 ]
 },
@@ -607,7 +587,7 @@
 },
 {
 "surface": "prakāśayet",
-"quick_gloss": "one-should-reveal"
+"quick_gloss": "should-reveal"
 }
 ]
 },
@@ -631,12 +611,8 @@
 "quick_gloss": "would-be"
 },
 {
-"surface": "prakāśāt",
-"quick_gloss": "from-revelation"
-},
-{
-"surface": "eva",
-"quick_gloss": "indeed"
+"surface": "prakāśāt+eva",
+"quick_gloss": "from-revelation-indeed"
 },
 {
 "surface": "hiṃsanam",
@@ -668,7 +644,7 @@
 "quick_gloss": "if"
 },
 {
-"surface": "ko'pi",
+"surface": "kaḥ+api",
 "quick_gloss": "anyone"
 },
 {
@@ -705,8 +681,8 @@
 "quick_gloss": "would-be"
 },
 {
-"surface": "tatprakāśāt",
-"quick_gloss": "from-that-revelation"
+"surface": "tat+prakāśāt",
+"quick_gloss": "then-from-that-revelation"
 },
 {
 "surface": "na",
@@ -747,7 +723,7 @@
 },
 {
 "surface": "vyaktiḥ",
-"quick_gloss": "exposure"
+"quick_gloss": "manifestation"
 },
 {
 "surface": "kadācana",
@@ -763,12 +739,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "etat",
-"quick_gloss": "this"
-},
-{
-"surface": "tantraṃ",
-"quick_gloss": "tantra"
+"surface": "etat+tantraṃ",
+"quick_gloss": "this-tantra"
 },
 {
 "surface": "gṛhe",
@@ -779,8 +751,8 @@
 "quick_gloss": "of-whom"
 },
 {
-"surface": "kulākṣarasamanvitam",
-"quick_gloss": "endowed-with-kula-syllables"
+"surface": "kulākṣara+samanvitam",
+"quick_gloss": "with-kula-syllables-endowed"
 }
 ]
 }

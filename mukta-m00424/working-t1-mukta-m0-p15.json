@@ -93,8 +93,12 @@
 "quick_gloss": "kalās"
 },
 {
-"surface": "pañcakramāt",
-"quick_gloss": "in-fivefold-order"
+"surface": "pañca",
+"quick_gloss": "five"
+},
+{
+"surface": "kramāt",
+"quick_gloss": "in-order"
 },
 {
 "surface": "etāḥ",
@@ -123,14 +127,14 @@
 },
 {
 "surface": "mūrdhva",
-"quick_gloss": "mūrdhva"
+"quick_gloss": "head"
 },
 {
 "surface": "sī",
-"quick_gloss": "sī"
+"quick_gloss": "and"
 },
 {
-"surface": "īśānaṃ",
+"surface": "śānaṃ",
 "quick_gloss": "īśāna"
 },
 {
@@ -139,7 +143,7 @@
 },
 {
 "surface": "pañcasu",
-"quick_gloss": "in-the-five"
+"quick_gloss": "in-five"
 },
 {
 "surface": "vinyaset",
@@ -171,8 +175,12 @@
 "quick_gloss": "and"
 },
 {
-"surface": "caturvaktreṣu",
-"quick_gloss": "in-the-four-faces"
+"surface": "catur",
+"quick_gloss": "in-four"
+},
+{
+"surface": "vaktreṣu",
+"quick_gloss": "faces"
 },
 {
 "surface": "vinyaset",
@@ -200,7 +208,7 @@
 "quick_gloss": "kṣayā"
 },
 {
-"surface": "aniṣṭhā",
+"surface": "niṣṭhā",
 "quick_gloss": "aniṣṭhā"
 },
 {
@@ -230,7 +238,7 @@
 "tokens": [
 {
 "surface": "hṛdaye",
-"quick_gloss": "in-the-heart"
+"quick_gloss": "in-heart"
 },
 {
 "surface": "ca",
@@ -242,15 +250,19 @@
 },
 {
 "surface": "kaṇṭhe",
-"quick_gloss": "in-the-throat"
+"quick_gloss": "in-throat"
 },
 {
 "surface": "ca",
 "quick_gloss": "and"
 },
 {
-"surface": "skandhayugme",
-"quick_gloss": "on-the-two-shoulders"
+"surface": "skandha",
+"quick_gloss": "on-shoulder"
+},
+{
+"surface": "yugme",
+"quick_gloss": "pair"
 },
 {
 "surface": "tathā",
@@ -275,15 +287,19 @@
 "tokens": [
 {
 "surface": "urasi",
-"quick_gloss": "on-the-chest"
+"quick_gloss": "on-chest"
 },
 {
 "surface": "iti",
 "quick_gloss": "thus"
 },
 {
-"surface": "aṣṭabhisthānaiḥ",
-"quick_gloss": "with-eight-places"
+"surface": "aṣṭabhiḥ",
+"quick_gloss": "with-eight"
+},
+{
+"surface": "sthānaiḥ",
+"quick_gloss": "places"
 },
 {
 "surface": "vakṣyate",
@@ -294,8 +310,12 @@
 "quick_gloss": "and"
 },
 {
-"surface": "yathākramam",
-"quick_gloss": "in-due-order"
+"surface": "yathā",
+"quick_gloss": "in-order"
+},
+{
+"surface": "kramam",
+"quick_gloss": "sequence"
 }
 ]
 },
@@ -349,11 +369,11 @@
 "tokens": [
 {
 "surface": "meḍhre",
-"quick_gloss": "in-the-genitals"
+"quick_gloss": "in-genitals"
 },
 {
 "surface": "gude",
-"quick_gloss": "in-the-anus"
+"quick_gloss": "in-anus"
 },
 {
 "surface": "ca",
@@ -361,7 +381,7 @@
 },
 {
 "surface": "ūrvoḥ",
-"quick_gloss": "in-the-two-thighs"
+"quick_gloss": "in-thighs"
 },
 {
 "surface": "ca",
@@ -369,7 +389,7 @@
 },
 {
 "surface": "jānunoḥ",
-"quick_gloss": "in-the-two-knees"
+"quick_gloss": "in-knees"
 },
 {
 "surface": "ca",
@@ -381,7 +401,7 @@
 },
 {
 "surface": "jaṅghayoḥ",
-"quick_gloss": "in-the-two-shanks"
+"quick_gloss": "in-shanks"
 }
 ]
 },
@@ -397,7 +417,7 @@
 "quick_gloss": "siddhi"
 },
 {
-"surface": "ṛddhiḥ",
+"surface": "ṛddhi",
 "quick_gloss": "ṛddhi"
 },
 {
@@ -443,11 +463,11 @@
 "tokens": [
 {
 "surface": "pādayoḥ",
-"quick_gloss": "in-the-two-feet"
+"quick_gloss": "in-feet"
 },
 {
 "surface": "karayoḥ",
-"quick_gloss": "in-the-two-hands"
+"quick_gloss": "in-hands"
 },
 {
 "surface": "ca",
@@ -459,11 +479,11 @@
 },
 {
 "surface": "hastayoḥ",
-"quick_gloss": "in-the-two-hands"
+"quick_gloss": "in-palms"
 },
 {
 "surface": "kakṣayo",
-"quick_gloss": "in-the-two-armpits"
+"quick_gloss": "in-armpits"
 },
 {
 "surface": "nyaset",
@@ -479,8 +499,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "tadante",
-"quick_gloss": "after-that"
+"surface": "tat",
+"quick_gloss": "at-that"
+},
+{
+"surface": "ante",
+"quick_gloss": "end"
 },
 {
 "surface": "piṇḍa",
@@ -491,8 +515,16 @@
 "quick_gloss": "mantras"
 },
 {
-"surface": "tattatsthāneṣu",
-"quick_gloss": "in-their-respective-places"
+"surface": "tat",
+"quick_gloss": "in-those"
+},
+{
+"surface": "tat",
+"quick_gloss": "respective"
+},
+{
+"surface": "sthāneṣu",
+"quick_gloss": "places"
 },
 {
 "surface": "vinyaset",
@@ -512,12 +544,16 @@
 "quick_gloss": "aghora"
 },
 {
-"surface": "hṛdayenyasya",
-"quick_gloss": "placing-in-the-heart"
+"surface": "hṛdaye",
+"quick_gloss": "in-heart"
+},
+{
+"surface": "nyasya",
+"quick_gloss": "having-placed"
 },
 {
 "surface": "guhye",
-"quick_gloss": "in-the-private-part"
+"quick_gloss": "in-secret-place"
 },
 {
 "surface": "vāmaṃ",
@@ -541,8 +577,12 @@
 "quick_gloss": "hṛdaya"
 },
 {
-"surface": "hṛdayenyasya",
-"quick_gloss": "placing-in-the-heart"
+"surface": "hṛdaye",
+"quick_gloss": "in-heart"
+},
+{
+"surface": "nyasya",
+"quick_gloss": "having-placed"
 },
 {
 "surface": "śikhāḥ",
@@ -550,7 +590,7 @@
 },
 {
 "surface": "śirasi",
-"quick_gloss": "on-the-head"
+"quick_gloss": "on-head"
 },
 {
 "surface": "vinyaset",
@@ -567,19 +607,31 @@
 "tokens": [
 {
 "surface": "netreṣu",
-"quick_gloss": "in-the-eyes"
+"quick_gloss": "in-eyes"
 },
 {
-"surface": "netramantreṇa",
-"quick_gloss": "with-the-netra-mantra"
+"surface": "netra",
+"quick_gloss": "with-netra"
 },
 {
-"surface": "daśadigbandhanaṃ",
-"quick_gloss": "ten-direction-binding"
+"surface": "mantreṇa",
+"quick_gloss": "mantra"
+},
+{
+"surface": "daśa",
+"quick_gloss": "ten"
+},
+{
+"surface": "dig",
+"quick_gloss": "direction"
+},
+{
+"surface": "bandhanaṃ",
+"quick_gloss": "binding"
 },
 {
 "surface": "smṛtam",
-"quick_gloss": "is-prescribed"
+"quick_gloss": "is-remembered"
 }
 ]
 },
@@ -592,11 +644,11 @@
 "tokens": [
 {
 "surface": "ākāśa",
-"quick_gloss": "in-the-ākāśa"
+"quick_gloss": "in-ākāśa"
 },
 {
 "surface": "bīja",
-"quick_gloss": "bīja"
+"quick_gloss": "seed"
 },
 {
 "surface": "varge",
@@ -611,12 +663,12 @@
 "quick_gloss": "six"
 },
 {
-"surface": "akṣara",
+"surface": "ākṣara",
 "quick_gloss": "syllable"
 },
 {
 "surface": "vivarjite",
-"quick_gloss": "when-excluded"
+"quick_gloss": "being-excluded"
 }
 ]
 },
@@ -637,14 +689,14 @@
 },
 {
 "surface": "proktaṃ",
-"quick_gloss": "is-declared"
+"quick_gloss": "declared"
 },
 {
-"surface": "naraṃ",
+"surface": "nara",
 "quick_gloss": "nara"
 },
 {
-"surface": "ekādaśaṃ",
+"surface": "mekādaśaṃ",
 "quick_gloss": "eleventh"
 },
 {
@@ -670,7 +722,7 @@
 },
 {
 "surface": "proktaṃ",
-"quick_gloss": "is-declared"
+"quick_gloss": "declared"
 },
 {
 "surface": "caturthaṃ",
@@ -707,7 +759,7 @@
 },
 {
 "surface": "proktaṃ",
-"quick_gloss": "is-declared"
+"quick_gloss": "declared"
 },
 {
 "surface": "astraṃ",
@@ -739,12 +791,24 @@
 "quick_gloss": "also"
 },
 {
-"surface": "aṅgarakṣārthaṃ",
-"quick_gloss": "for-limb-protection"
+"surface": "aṅga",
+"quick_gloss": "for-limb"
+},
+{
+"surface": "rakṣā",
+"quick_gloss": "protection"
+},
+{
+"surface": "arthaṃ",
+"quick_gloss": "purpose"
 },
 {
 "surface": "vinyase**(?",
 "quick_gloss": "one-should-place"
+},
+{
+"surface": "ṣaṃgakam",
+"quick_gloss": "limb-mantra"
 }
 ]
 },
@@ -781,7 +845,7 @@
 },
 {
 "surface": "vidyut",
-"quick_gloss": "lightning-colored"
+"quick_gloss": "lightning"
 },
 {
 "surface": "ca",
@@ -789,7 +853,7 @@
 },
 {
 "surface": "kuṅkumam",
-"quick_gloss": "saffron-colored"
+"quick_gloss": "saffron"
 }
 ]
 },
@@ -810,15 +874,19 @@
 },
 {
 "surface": "varadaṃ",
-"quick_gloss": "boon-giving-gesture"
+"quick_gloss": "boon-giving"
 },
 {
 "surface": "paraśuṃ",
 "quick_gloss": "axe"
 },
 {
-"surface": "pāṇibhirghṛtam",
-"quick_gloss": "held-in-the-hands"
+"surface": "pāṇibhiḥ",
+"quick_gloss": "with-hands"
+},
+{
+"surface": "ghṛtam",
+"quick_gloss": "held"
 }
 ]
 },
@@ -850,8 +918,12 @@
 "quick_gloss": "and"
 },
 {
-"surface": "varṇamantreṇa",
-"quick_gloss": "with-the-varṇa-mantra"
+"surface": "varṇa",
+"quick_gloss": "with-varṇa"
+},
+{
+"surface": "mantreṇa",
+"quick_gloss": "mantra"
 },
 {
 "surface": "dāpayet",
@@ -884,11 +956,11 @@
 },
 {
 "surface": "bījānāṃ",
-"quick_gloss": "of-the-bījas"
+"quick_gloss": "of-seeds"
 },
 {
 "surface": "kāraṇaṃ",
-"quick_gloss": "the-cause"
+"quick_gloss": "cause"
 },
 {
 "surface": "śṛṇu",
