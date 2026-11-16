@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p132-v3276
-[not-born](assaṃbhava) [field-protector](kṣetrepāla) [by-name](senasaṃjña) [and](ca) [middle](madhyamaḥ)
+[impossible](assaṃbhava) [field+guardian](kṣetrepāla) [army+named](senasaṃjñaḥ) [and](ca) [middle](madhyamaḥ)
 
 ## mukta-m0-p132-v3277
-[sārameya-marked](sārameyāṅkaṃ) [banner](dhvajam) [raising](ucchritya) [worship](pūjayet)
+[dog+marked](sārameyāṅkaṃ) [banner](dhvajam) [having-raised](ucchritya) [one-should-worship](pūjayet)
 
 ## mukta-m0-p132-v3278
-[field-protector's](kṣetrapālasya) [which-beings](yebhūtā) [indeed](vai) [front-seated](purassadaḥ)
+[field+guardian’s](kṣetrapālasya) [which](ye) [beings](bhūtā) [indeed](vai) [attendants](purassadaḥ)
 
 ## mukta-m0-p132-v3279
-[then](tataḥ) [third-necklace](tṛtīyahārāyāṃ) [heruka-etc](herukādyāḥ) [outside-circle](vṛterbahiḥ)
+[then](tatas) [in-third+enclosure](tṛtīyahārāyāṃ) [Heruka+and-others](herukādyā) [from-circle](vṛteḥ) [outside](bahiḥ)
 
 ## mukta-m0-p132-v3280
-[donkey](kharaḥ) [scent-loving](gandhapriyaḥ) [bell-sound](ghaṇṭāravaḥ) [and-so](tathā)
+[donkey](kharaḥ) [fragrance+fond](gandhapriyaḥ) [bell+sound](ghaṇṭāravaḥ) [likewise](tathā)
 
 ## mukta-m0-p132-v3281
-[jingling-voiced](jhaṅkāramukharaḥ) [ñoṅgaṣṭaṅkārī](ñoṅgaṣṭaṅkārī) [ṭhamaya](ṭhamayaḥ) [and-so](tathā)
+[jingling+mouthed](jhaṅkāramukharaḥ) [Ñoṅga](ñoṅgaḥ) [Ṭaṅkārin](ṭaṅkārī) [Ṭhamaya](ṭhamayaḥ) [likewise](tathā)
 
 ## mukta-m0-p132-v3282
-[form](mūrtiḥ) [toothed](danturaḥ) [and](ca) [eva](eva) [wealth-protector](dhanapālaḥ) [and](ca) [nandaka](nandakaḥ)
+[Mūrti](mūrtiḥ) [tusked](danturaḥ) [and](ca) [indeed](eva) [Dhanapāla](dhanapālaḥ) [and](ca) [Nandaka](nandakaḥ)
 
 ## mukta-m0-p132-v3283
-[yaksha-lord](yakṣeśaḥ) [rakshasa](rākṣasaḥ) [hanging](lambanaḥ) [and-so](tathā)
+[Yakṣa+lord](yakṣeśaḥ) [Rākṣasa](rākṣasaḥ) [Lambana](lambanaḥ) [likewise](tathā)
 
 ## mukta-m0-p132-v3284
-[offering](balim) [throwing](kṣiptvā) [then](atha) [upward](ūrdhvāyām) [direction](diśi) [below-and-so](adhastathā)
+[offering](baliṃ) [having-thrown](kṣiptvā) [then](atha) [in-upward](ūrdhvāyāṃ) [direction](diśi) [below](adhaḥ) [likewise](tathā)
 
 ## mukta-m0-p132-v3285
-[[kh: vikārā]]([kh: vikārā]) [tāra-etc](tārādyaiḥ) [fourth-ending](caturthyantaiḥ) [own-names](svanāmabhiḥ)
+[with-Tārā+and-others](tārādyaiḥ) [with-dative+ending](caturthyantaiḥ) [with-own+names](svanāmabhiḥ)
 
 ## mukta-m0-p132-v3286
-[all](sarve) [field-lords](kṣetreśāḥ) [field-protector-like](kṣetrapopamāḥ)
+[all](sarve) [field+lords](kṣetreśāḥ) [field+guardian+like](kṣetrapopamāḥ)
 
 ## mukta-m0-p132-v3287
-[outer-directions](bahirdikṣu) [as-before](yathāpūrvam) [in-order](anukramāt)
+[outside](bahiḥ) [in-directions](dikṣu) [as+before](yathāpūrvam) [in-sequence](anukramāt)
 
 ## mukta-m0-p132-v3288
-[thus-etc](ityādibhiḥ) [as-before](yathāpūrvam) [mantras](mantraiḥ) [indeed](tu) [scatter](vikiret) [offering](balim)
+[with-thus+and-others](ityādibhiḥ) [as+before](yathāpūrvaṃ) [with-mantras](mantraiḥ) [indeed](tu) [one-should-scatter](vikiret) [offering](balim)
 
 ## mukta-m0-p132-v3289
-[completing](samāpya) [then](atha) [bathing](snapayitvā) [from-occurrence](upapattitaḥ)
+[having-completed](samāpya) [then](atha) [having-bathed](snapayitvā) [according-to-ability](upapattitaḥ)
 
 ## mukta-m0-p132-v3290
-[gifts](dakṣiṇāṃḥ) [and](ca) [to-be-given](pradeyāni) [giving](dattvā) [food](annādyam) [and](ca) [abundant](puṣkalam)
+[fees](dakṣiṇāḥ) [and](ca) [to-be-given](pradeyāni) [having-given](dattvā) [food+and-others](annādyaṃ) [and](ca) [abundant](puṣkalam)
 
 ## mukta-m0-p132-v3291
-[phalguna](phālgune) [month](māse) [new-offering](navanaivedyam) [is-desired](iṣyate)
+[in-Phālguna](phālgune) [month](māse) [new+food-offering](navanaivedyam) [is-desired](iṣyate)
 
 ## mukta-m0-p132-v3292
-[favorable-star-ascendant-etc](anukūlarkṣalagnādau) [sprout-offering-prior](aṅkurārpaṇapūrvakam)
+[in-favorable+constellation+ascendant+etc.](anukūlarkṣalagnādau) [sprout+offering+preceded-by](aṅkurārpaṇapūrvakam)
 
 ## mukta-m0-p132-v3293
-[music-song-etc-sound](tūryagītādinirghoṣaiḥ) [bathed](snātaiḥ) [workers](karmakaraiḥ) [guru](guruḥ)
+[with-drum+song+etc.+sounds](tūryagītādinirghoṣaiḥ) [by-bathed](snātaiḥ) [by-ritual+workers](karmakaraiḥ) [teacher](guruḥ)
 
 ## mukta-m0-p132-v3294
-[circumambulating](pradakṣiṇīkṛtya) [curd-rice](dadhyannena) [offering](balim) [throw](kṣipet)
+[having-circumambulated](pradakṣiṇīkṛtya) [with-curd+rice](dadhyannena) [offering](baliṃ) [should-throw](kṣipet)
 
 ## mukta-m0-p132-v3295
-[weapon](śastreṇa) [east-facing](prāṅmukhaḥ) [or-also-north-facing](vāpyudaṅmukhaḥ)
+[with-weapon](śastreṇa) [east+facing](prāṅmukhaḥ) [or](vā) [also](api) [north+facing](udaṅmukhaḥ)
 
 ## mukta-m0-p132-v3296
-[mung-bean-black-gram-etc](mudgamāṣādikam) [and](ca) [indeed](eva) [fist-grasped](muṣṭigrāhyam) [gather](samāharet)
+[mung-bean+black-gram+etc.](mudgamāṣādikaṃ) [and](ca) [indeed](eva) [handful+to-be-taken](muṣṭigrāhyaṃ) [one-should-collect](samāharet)
 
 ## mukta-m0-p132-v3297
-[and](ca) [others](anyāni) [carry](vaheyuḥ) [workers](karmacāriṇaḥ)
+[and](ca) [other-things](anyāni) [should-carry](vaheyuḥ) [ritual+attendants](karmacāriṇaḥ)
 
 ## mukta-m0-p132-v3298
-[taking-inside](nītvāntaḥ) [recite](paṭhanti) [svasti](svasti) [hymn](sūktakam)
+[having-brought](nītvā) [inside](antaḥ) [they-recite](paṭhanti) [svasti](svasti) [hymn](sūktakam)
 
 ## mukta-m0-p132-v3299
-[flour](piṣṭaiḥ) [in-pavilion](maṇḍape) [svastika-lotus](svastikāmbuje)
+[with-ground-rice](piṣṭaiḥ) [in-pavilion](maṇḍape) [svastika+lotus](svastikāmbuje)
 
 ## mukta-m0-p132-v3300
-[waters](jalaiḥ) [worshipful](pūjyaḥ) [soma](somaḥ) [there](tatra) [herb-lord](auṣadhīśvaraḥ)
+[with-waters](jalaiḥ) [to-be-worshipped](pūjyaḥ) [Soma](somaḥ) [there](tatra) [herb+lord](auṣadhīśvaraḥ)
