@@ -8,22 +8,22 @@
 [night-seed](rātri+bījaṃ) [darkness-seed](tamī+bījaṃ) [darkness-seed](tāmasī+bījam) [indeed](eva) [and](ca)
 
 ## mukta-m0-p178-v4428
-[in-Kubjikāsarvasva](kubjikā+sarvasve) [in-text](granthe) [that-seed](taṃ+bījaṃ) [and](ca) [by-me](mayā) [remembered](smṛtam)
+[in-Kubjikāsarvasva](kubjikā+sarvasve) [in-text](granthe) [taṃ-seed](taṃ+bījaṃ) [and](ca) [by-me](mayā) [remembered](smṛtam)
 
 ## mukta-m0-p178-v4429
-[of-thakāra](thakārasya) [by-me](mayā) [declared](khyātaṃ) [in-tantra](tantre) [indeed](vai) [in-Kulikārṇava](kulikārṇave)
+[of-thakāra](thakārasya) [by-me](mayā) [declared](khyātaṃ) [in-tantra](tantre) [indeed](vai) [in-Kulikārṇava](kulikā+arṇave)
 
 ## mukta-m0-p178-v4430
 [serpent-seed](bhogi+bījaṃ) [serpent](bhujaṅgaṃ) [and](ca) [serpent](bhujaṅgamam) [thus](iti) [remembered](smṛtam)
 
 ## mukta-m0-p178-v4431
-[in-Svatantra](svatantre) [O-goddess-of-gods](deva+deva+īśi) [by-Dakṣiṇāmūrti](dakṣiṇāmūrtinā) [composed](kṛte)
+[in-Svatantra](svatantre) [O-goddess-of-gods](deva+deva+īśi) [by-Dakṣiṇāmūrti](dakṣiṇā+mūrtinā) [composed](kṛte)
 
 ## mukta-m0-p178-v4432
 [of-dhakāra](dhakārasya) [untrue](anṛtam) [other](anyat) [in-Tripurātilaka](tripurā+tilake) [remembered](smṛtam)
 
 ## mukta-m0-p178-v4433
-[boar](vārāham) [untrue](anṛtam) [other](anyat) [by-me](mayā) [declared](khyātaṃ) [O-lady-of-gods](sureśvari)
+[boar](vārāham) [untrue](anṛtam) [other](anyat) [by-me](mayā) [declared](khyātaṃ) [O-lady-of-gods](sura+īśvari)
 
 ## mukta-m0-p178-v4434
 [in-tortoise-fish-word-range](kūrma+mīna+pada+vyāptau) [seed-syllable](bīja+arṇaṃ) [similar](sadṛśaṃ) [O-beloved](priye)
@@ -38,13 +38,13 @@
 [tortoise](kacchapam) [untrue](anṛtam) [other](anyat) [by-me](mayā) [declared](ākhyātaṃ) [and](ca) [O-lovely-one](bhāmini)
 
 ## mukta-m0-p178-v4438
-[wave](ūrmiḥ) [wave](vīciḥ) [likewise](tathā) [and](ca) [indeed](evaṃ) [wave](taraṅgaḥ) [triad](tritayaṃ) [remembered](smṛtam)
+[wave](ūrmiḥ) [wave](vīciḥ) [likewise](tathā) [and](ca) [indeed](evaṃ) [billow](taraṅgaḥ) [triad](tritayaṃ) [remembered](smṛtam)
 
 ## mukta-m0-p178-v4439
 [in-Kālikākulasarvasva](kālikā+kula+sarvasve) [by-Brahmā](brahmaṇā) [indeed](eva) [revealed](prakāśite)
 
 ## mukta-m0-p178-v4440
-[in-tantra](tantre) [indeed](vai) [in-Muṇḍamālā](muṇḍamālāyāṃ) [by-me](mayā) [declared](ākhyātaṃ) [O-lady-of-gods](sureśvari)
+[in-tantra](tantre) [indeed](vai) [in-Muṇḍamālā](muṇḍa+mālāyāṃ) [by-me](mayā) [declared](ākhyātaṃ) [O-lady-of-gods](sura+īśvari)
 
 ## mukta-m0-p178-v4441
 [frog-seed](bhekī+bījaṃ) [by-me](mayā) [declared](ākhyātam) [untrue](asatyam) [other](aparaṃ) [remembered](smṛtam)
@@ -53,22 +53,22 @@
 [wind-seed](vāyu+bījaṃ) [likewise](tathā) [O-eloquent-one](vāgmi) [talkative](vācālaṃ) [subjugation-seed](vaśya+bījakam)
 
 ## mukta-m0-p178-v4443
-[fire](agnī) [repha](rephaḥ) [and](ca) [fire](vahniḥ) [and](ca) [oblation-eater](hutabhuk) [oblation-bearer](havyavāhanaḥ)
+[fire](agnī) [repha](rephaḥ) [and](ca) [fire](vahniḥ) [and](ca) [oblation-eater](hutabhuk) [oblation-bearer](havya+vāhanaḥ)
 
 ## mukta-m0-p178-v4444
-[darkness-seed](tamaḥ+bījaṃ) [likewise](tathā) [darkness](dhvāntaṃ) [delusion](mohaṃ) [gloom](timiram) [indeed](eva) [and](ca)
+[darkness-seed](tamaḥ+bījaṃ) [likewise](tathā) [darkness](dhvāntaṃ) [delusion](mohaṃ) [darkness](timiram) [indeed](eva) [and](ca)
 
 ## mukta-m0-p178-v4445
 [earth-seed](bhū+bījaṃ) [earth-seed](dharaṇī+bījaṃ) [lakāra](lakāraṃ) [spoken](bhāṣitaṃ) [by-me](mayā)
 
 ## mukta-m0-p178-v4446
-[of-vakāra](vakārasya) [by-me](mayā) [declared](ākhyātaṃ) [in-tantra](tantre) [indeed](vai) [in-Vāmakeśvara](vāmakeśvare)
+[of-vakāra](vakārasya) [by-me](mayā) [declared](ākhyātaṃ) [in-tantra](tantre) [indeed](vai) [in-Vāmakeśvara](vāma+keśvare)
 
 ## mukta-m0-p178-v4447
 [of-śakāra](śakārasya) [by-me](mayā) [declared](ākhyātaṃ) [in-text](granthe) [in-Bhairavatantra](bhairava+tantrake)
 
 ## mukta-m0-p178-v4448
-[thunder-seed](hrādinī+bījakam) [and](ca) [indeed](eva) [untrue](asatyam) [other](aparaṃ) [remembered](smṛtam)
+[hrādinī-seed](hrādinī+bījakam) [and](ca) [indeed](eva) [untrue](asatyam) [other](aparaṃ) [remembered](smṛtam)
 
 ## mukta-m0-p178-v4449
 [power](śaktiḥ) [bliss](śarmā) [also](api) [to-be-known](vijñeye) [in-śaracchaṅka](śarat+śaṅke) [likewise](tathā) [indeed](eva) [and](ca)
