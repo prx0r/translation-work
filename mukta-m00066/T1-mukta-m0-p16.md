@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p16-v376
-[untroubledness](akliṣṭatā) [nourishment](puṣṭatā) [and](ca) [wheel-rim-evenness](rathanemisamānatā)
+[untroubledness](akliṣṭatā) [nourishment](puṣṭatā) [and](ca) [chariot-wheel+rim+equality](rathanemisamānatā)
 
 ## mukta-m0-p16-v377
-[hooded-serpent-head-evenness](phaṇiśīrṣasamānatvaṃ) [clarity-fluidity](prasannadravatā) [thus](tathā)
+[serpent+head+equality](phaṇiśīrṣasamānatvaṃ) [clear+fluidity](prasannadravatā) [likewise](tathā)
 
 ## mukta-m0-p16-v378
-[all-marks-possession](sarvalakṣaṇa) [yuktatvaṃ](yuktatvaṃ) [family-mark-absence](kulakṣaṇavihīnatā)
+[all+marks+endowedness](sarvalakṣaṇa) [endowedness](yuktatvaṃ) [family+defects+absence](kulakṣaṇavihīnatā)
 
 ## mukta-m0-p16-v379
-[refinement-glory](saṃskārasya) [mahimneva](mahimneva) [shine](bhāsaṃte) [those](te) [qualities](guṇāḥ) [beloved](priye)
+[of-consecration](saṃskārasya) [by-greatness](mahimneva) [shine](bhāsante) [those](te) [qualities](guṇāḥ) [O-beloved](priye)
 
 ## mukta-m0-p16-v380
-[refinement-too](saṃskāropi) [all](samastāni) [things](vastūninyāvasetpriye)
+[consecration](saṃskāropi) [also](api) [all](samastāni) [things](vastūninyāvasetpriye) [O-beloved](priye)
 
 ## mukta-m0-p16-v381
-[all-auspiciousness-causing](sarvasaubhāgyajanakaṃ) [all-accomplishment-great-step](sarvasiddhimahāpadaṃ)
+[all+good-fortune+producing](sarvasaubhāgyajanakaṃ) [all+accomplishments+great+abode](sarvasiddhimahāpadaṃ)
 
 ## mukta-m0-p16-v382
-[bliss-bhairava-worship-means](ānaṃda) [bhairavasyārcāsādhanaṃ](bhairavasyārcāsādhanaṃ) [world-enchanting](viśvamohanam)
+[bliss+Bhairava+of+worship](ānaṃda) [Bhairava](bhairavasyārcāsādhanaṃ) [means-of-worship](sādhanaṃ) [universe+enchanting](viśvamohanam)
 
 ## mukta-m0-p16-v383
-[beautiful-step-grasping](suśobhadakramagrāsī) [all-affliction-cutting](samastāpannikṛṃtanam)
+[very+splendid+sequence+devouring](suśobhadakramagrāsī) [all+calamities+destroying](samastāpannikṛṃtanam)
 
 ## mukta-m0-p16-v384
-[house-moon-calas](veśmacaṃdrakalānāṃ) [ca](ca) [abode-auspiciousness-prosperity](sadmasaubhāgyasaṃpadām)
+[of-abode+moon+digit](veśmacaṃdrakalānāṃ) [and](ca) [of-abode+good-fortune+wealth](sadmasaubhāgyasaṃpadām)
 
 ## mukta-m0-p16-v385
-[all-disease-causing](samastarogajanakaṃ) [misfortune-promoting](daurbhāgyasyapravartakam)
+[all+disease+producing](samastarogajanakaṃ) [of-misfortune+promoting](daurbhāgyasyapravartakam)
 
 ## mukta-m0-p16-v386
-[people-reproach-causing](lokopakrośajanakaṃ) [world-contempt-giving](lokadhikkāradāyakam)
+[people+reproach+producing](lokopakrośajanakaṃ) [people+contempt+bestowing](lokadhikkāradāyakam)
 
 ## mukta-m0-p16-v387
-[foamy](phelinaṃ) [lost](naṣṭam) [leftover](ucchiṣṭam) [inferior](apakṛṣṭaṃ) [rubbed](vicarcitam)
+[frothy](phelinaṃ) [spoiled](naṣṭamucchiṣṭamapakṛṣṭaṃ) [leftover](ucchiṣṭam) [debased](apakṛṣṭaṃ) [disregarded](vicarcitam)
 
 ## mukta-m0-p16-v388
-[inside-rough-skin-rich](aṃtaḥ) [karkkaśacarmāḍhyamaṃtargojihvayānvitam](karkkaśacarmāḍhyamaṃtargojihvayānvitam)
+[within](aṃtaḥ) [hard+skin+endowed](karkkaśacarmāḍhyamaṃtargojihvayānvitam) [within](aṃtar) [cow-tongue+possessed](gojihvayānvitam)
 
 ## mukta-m0-p16-v389
-[itch-scabies-abundant](pāmakaṇḍūpracuritaṃ) [most-sinful](pāpiṣṭaṃ) [called](kathitaṃ) [fluid](dravam)
+[scabies+itch+abounding](pāmakaṇḍūpracuritaṃ) [most-sinful](pāpiṣṭaṃ) [declared](kathitaṃ) [fluid](dravam)
 
 ## mukta-m0-p16-v390
-[own](svakīya) [body](vapure) [vai](vai) [tat](tat) [worship-means](pūjāsādhanamiṣyate)
+[own](svakīya) [body](vapure) [indeed](vai) [that](tat) [worship+means](pūjāsādhanamiṣyate) [is-desired](iṣyate)
 
 ## mukta-m0-p16-v391
-[approaches](sannidhatte) [supreme-direct](paraḥsākṣādānaṃdādvaita) [form-bearing](rūpadhṛt)
+[is-present](sannidhatte) [supreme](paraḥsākṣādānaṃdādvaita) [directly](sākṣād) [bliss+non-dual+form-bearing](rūpadhṛt)
 
 ## mukta-m0-p16-v392
-[messenger-mouth](dūtī) [mukhasya](mukhasya) [refinement](saṃskāraḥ) [is-said](kathyate) [listen-beautiful](śṛṇusaṃdari)
+[of-messenger-woman](dūtī) [of-mouth](mukhasya) [consecration](saṃskāraḥ) [is-told](kathyate) [listen](śṛṇusaṃdari) [O-beautiful-one](saṃdari)
 
 ## mukta-m0-p16-v393
-[stimulation](uttejanaṃ) [ca](ca) [by-weapon](śastreṇa) [purification](nirmalīkaraṇaṃ) [again](punaḥ)
+[stimulation](uttejanaṃ) [and](ca) [with-instrument](śastreṇa) [purification](nirmalīkaraṇaṃ) [again](punaḥ)
 
 ## mukta-m0-p16-v394
-[oil-gargling](tailagaṇḍuṣaṇāt) [radiance](kāṃtirdaṃtānāmupajāyate)
+[oil+gargling](tailagaṇḍuṣaṇāt) [radiance](kāṃtirdaṃtānāmupajāyate) [of-teeth](daṃtānām) [arises](upajāyate)
 
 ## mukta-m0-p16-v395
-[three-peppers](trikaṭu) [three-fruits](triphalāmāṃsi) [molasses-bark-leaves-saffron](guḍatvakpatrakesaraiḥ)
+[three-pungents](trikaṭu) [three-fruits](triphalāmāṃsi) [meat](māṃsi) [jaggery+bark+leaf+filaments](guḍatvakpatrakesaraiḥ)
 
 ## mukta-m0-p16-v396
-[making](kṛtvākṣa) [sadṛśān](sadṛśān) [piṇḍān](piṇḍān) [taṃ](taṃ) [pūrvaṃ](pūrvaṃ) [dūtikāgilet](dūtikāgilet)
+[having-made](kṛtvākṣa) [Terminalia-bellerica+like](sadṛśān) [balls](piṇḍān) [that](taṃ) [previously](pūrvaṃ) [messenger-woman+should-swallow](dūtikāgilet)
 
 ## mukta-m0-p16-v397
-[by-impurity-created](malenaivāpa) [sṛṣṭānāṃ](sṛṣṭānāṃ) [all](sarveṣāṃ) [pacification](śamanaṃ) [becomes](bhavet)
+[by-impurity](malenaivāpa) [indeed](eva) [of-those-produced](sṛṣṭānāṃ) [of-all](sarveṣāṃ) [pacification](śamanaṃ) [should-be](bhavet)
 
 ## mukta-m0-p16-v398
-[rubbing](mardaniyaṃ) [carefully](prayatnena) [pill-make](guṭikākārayedbudhaḥ)
+[should-be-rubbed](mardaniyaṃ) [with-effort](prayatnena) [pill](guṭikākārayedbudhaḥ) [should-make](kārayed) [the-wise](budhaḥ)
 
 ## mukta-m0-p16-v399
-[messenger-fragrance](pūtikāmati) [saliva-mouth](saurabhya) [śālivaktraṃ](śālivaktraṃ) [prepare](prakalpayet)
+[foul-smelling](pūtikāmati) [fragrance](saurabhya) [rice+mouth](śālivaktraṃ) [should-make](prakalpayet)
 
 ## mukta-m0-p16-v400
-[thus](itthaṃ) [body-refinement](śarīrasaṃskāro) [external-internal](bāhyābhyaṃtara) [declared](īritaḥ)
+[thus](itthaṃ) [body+consecration](śarīrasaṃskāro) [external+internal](bāhyābhyaṃtara) [declared](īritaḥ)
