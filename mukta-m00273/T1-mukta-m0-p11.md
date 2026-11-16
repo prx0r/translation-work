@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p11-v251
-first(pūrvaṃ) offering(bali) to-be-given(pradātavyaṃ) with-one's-own+respective+mantras(svaisvairmantrar) specifically(viśeṣataḥ)
+first(pūrvaṃ) offering(bali) to-be-given(pradātavyaṃ) with-one's-own+respective+mantras(svais+vaiḥ+mantraiḥ) specifically(viśeṣataḥ)
 
 ## mukta-m0-p11-v252
-with-parasol+*[+flag+etc.](chatra+pa+*+dhvajādyaiśca) with-hymn+auspicious+reciters(stotramaṅgalavācakaiḥ)
+with-parasol(chatra) * pa * with-banner+etc.(dhvaja+ādyaiḥ) and(ca) with-hymn+auspicious+reciters(stotra+maṅgala+vācakaiḥ)
 
 ## mukta-m0-p11-v253
-attendant+accompanied(paricārakasaṃyuktaṃ) all+devotee+people+surrounded(sarvabhaktajanāvṛtam)
+accompanied-by-attendants(paricāraka+saṃyuktaṃ) surrounded-by-all+devotee+people(sarva+bhakta+jana+āvṛtam)
 
 ## mukta-m0-p11-v254
-sandal-paste+anointed(gandhaliptaḥ) well+flower+endowed(supuṣpāḍhyaḥ) and+teacher(tvācāryaḥ) made-complete(sakalīkṛtaḥ)
+smeared-with-unguents(gandha+liptaḥ) rich-with-fine-flowers(su+puṣpa+āḍhyaḥ) and(tu) teacher(ācāryaḥ) made-complete(sakalīkṛtaḥ)
 
 ## mukta-m0-p11-v255
-teacher(ācāryaḥ) or(vā) disciple(śiṣyo) should-give(dadyāt) permitted(anujñātaḥ) indeed(vai) by-him(tena)
+teacher(ācāryaḥ) or(śiṣyaḥ) or(vā) should-give(dadyāt) authorized(anujñātaḥ) indeed(tu) by-him(tena) verily(vai)
 
 ## mukta-m0-p11-v256
-beginning-with-Brahmā+ending-with-Īśa(brahmādyaiśāntam) or(vā) beginning-with-Indra+ending-with-Brahmā(indrādyabrahmāntaṃ) offering(baliṃ) should-cast(kṣipet)
+beginning-with-Brahmā(brahma+ādyaiḥ) ending-with-Īśā(īśa+antam) or(vā) beginning-with-Indra(indra+ādya) ending-with-Brahmā(brahma+antaṃ) offering(baliṃ) should-cast(kṣipet)
 
 ## mukta-m0-p11-v257
-in-western+door+shrine(paścimadvāraharmye) indeed(tu) also(api) in-the-three+beginning-with-Nityā(nityāditritayeṣu)
+in-western+door+pavilion(paścima+dvāra+harmye) indeed(tu) in-the-three+beginning-with-Nityā(nityā+ādi+tritayeṣu) also(api)
 
 ## mukta-m0-p11-v258
-in-nine+places(navasthāneṣu) having-worshipped(saṃpūjya) on-the-yantra+pedestal(yantrapīṭhe) the-lords-of-days(dinādhipān)
+in-nine+places(nava+sthāneṣu) having-worshipped(saṃpūjya) on-the-yantra+pedestal(yantra+pīṭhe) the-lords-of-days(dina+adhipān)
 
 ## mukta-m0-p11-v259
-in-nine-day-rite(navāhe) eighteen(aṣṭādaśa) offering(baliḥ) but(tu) in-seven-day-rite(saptāhe) fourteen(caturdaśa)
+in-nine-day-rite(nava+ahe) eighteen(aṣṭādaśa) offering(baliḥ) in-seven-day-rite(sapta+ahe) indeed(tu) fourteen(caturdaśa)
 
 ## mukta-m0-p11-v260
-Vighneśa+Bhoota+Gandharvas(vighneśabhūta+gandharvā) Sureśa+Muni+Mādhavas(sureśamuni+mādhavāḥ)
+Vighneśa(vighneśa) Bhūta(bhūta) Gandharvas(gandharvāḥ) Sureśa(sura+īśa) Muni(muni) Mādhavas(mādhavāḥ)
 
 ## mukta-m0-p11-v261
-beginning-with-Bhūtendra+Viṣṇu(bhūtendra+viṣṇupūrvāḥ) should-be(syuḥ) six-gods(sura+ṣaṭ) of-Brahmā-form(brāhmamūrtikam)
+beginning-with-Bhūtendra(bhūta+indra) beginning-with-Viṣṇu(viṣṇu+pūrvāḥ) they-should-be(syuḥ) six-gods(sura+ṣaṭ) of-Brahmā-form(brāhma+mūrtikam)
 
 ## mukta-m0-p11-v262
-nandyāvarta-flower(nandyāvartiṃ) and(ca) pure-rice(śuddhānnaṃ) laddu+modaka(laḍḍukāmodakaṃ) ghee(ghṛtam)
+nandyāvarti-flower(nandyāvartiṃ) and(ca) pure-rice(śuddha+annaṃ) laḍḍuka(lāḍḍuka) sweetmeat(āmodakaṃ) ghee(ghṛtam)
 
 ## mukta-m0-p11-v263
-plantain-fruit+molasses+ghee(rambhāphalagulājyāni) offering(baliḥ) should-be(syāt) dear-to-Brahmins(brāhmaṇaḥ+priyaḥ)
+plantain-fruit(rambhā+phala) molasses(gula) and-ghee(ājyāni) offering(baliḥ) should-be(syāt) dear-to-Brahmins(brāhmaṇaḥ+priyaḥ)
 
 ## mukta-m0-p11-v264
-but(tu) for-the-bhūtas(bhūtānāṃ) offering(baliḥ) declared(proktaṃ) *+*+*+endowed-with-flowers(*+*+*+kusumairyutam)
+for-the-bhūtas(bhūtānāṃ) indeed(tu) offering(baliḥ) declared(proktaṃ) * * * accompanied-by-flowers(kusumaiḥ+yutam)
 
 ## mukta-m0-p11-v265
-jasmine-flower(jātipuṣpaṃ) and(ca) molasses-rice(gulānnaṃ) jackfruit+mango-fruit(panasāmraphalaṃ) remembered(smṛtam)
+jasmine-flower(jāti+puṣpaṃ) and(ca) molasses-rice(gula+annaṃ) and(ca) jackfruit(panasa) mango-fruit(āmra+phalaṃ) remembered(smṛtam)
 
 ## mukta-m0-p11-v266
-ve+*+rice(ve+*+nnaṃ) curd+mixed(dadhisaṃyuktaṃ) mung-bean+black-gram+ghee+endowed(mudgamāṣaghṛtānvitam)
+ve * rice(nnaṃ) mixed-with-curd(dadhi+saṃyuktaṃ) endowed-with-mudga+māṣa+ghee(mudga+māṣa+ghṛta+anvitam)
 
 ## mukta-m0-p11-v267
-tulsi(tulasī) and(ca) molasses-rice(gulānnaṃ) and(ca) ghee(ghṛtaṃ) and(ca) bṛhatī-fruit(bṛhatīphalam)
+tulasī(tulasī) and(ca) molasses-rice(gula+annaṃ) and(ca) ghee(ghṛtaṃ) and(ca) bṛhatī-fruit(bṛhatī+phalam)
 
 ## mukta-m0-p11-v268
-kṛsara-dish(kṛsaraṃ) and(ca) indeed(caiva) jālā(cā) cake(pūpaṃ) coconut(nālikerakam)
+kṛsara-dish(kṛsaraṃ) and(ca) indeed(eva) jālā(jālā) and(cā) cake(pūpaṃ) coconut(nālikerakam)
 
 ## mukta-m0-p11-v269
-āragvadha-flower(āragvadhaṃ) and(ca) pure-rice(śuddhānnaṃ) sinless-offering(niṣpāpaṃ) jackfruit+ghee(panasājyakam)
+āragvadha(āragvadhaṃ) and(ca) pure-rice(śuddha+annaṃ) niṣpāpa(niṣpāpaṃ) jackfruit(panasa) and-ghee(ājyakam)
 
 ## mukta-m0-p11-v270
-in-absence-of-flowers(puṣpālābhe) as-available(yathālābhaṃ) flower(puṣpaṃ) having-taken(grāhya) offering(baliṃ) one-should-give(dadet)
+in-absence-of-flowers(puṣpa+alābhe) as-available(yathā+lābhaṃ) flower(puṣpaṃ) having-taken(grāhya) offering(baliṃ) should-give(dadet)
 
 ## mukta-m0-p11-v271
-a-droṇa(droṇam) half(ardhaṃ) or(vā) half-of-that(tadardhaṃ) half-of-offering(balyardhaṃ) rice-grains(taṇḍulaṃ) should-be(bhavet)
+a-droṇa(droṇam) half(ardhaṃ) or(vā) half-of-that(tat+ardhaṃ) for-offering(bali+artham) rice-grains(taṇḍulaṃ) should-be(bhavet)
 
 ## mukta-m0-p11-v272
-*+*+*+*+*+*+on-the-pedestal(*+*+*+*+*+*+pīṭhe) declared(proktaṃ) that(tat) offering+characteristic(balilakṣaṇam)
+* * * * * * on-the-pedestal(pīṭhe) declared(proktaṃ) that(tat) characteristic-of-offering(bali+lakṣaṇam)
 
 ## mukta-m0-p11-v273
-foot+washing(pādaprakṣālanaṃ) having-done(kṛtvā) having-entered(praviśya) inside(abhyantaraṃ) the-wise(budhā)
+washing-of-feet(pāda+prakṣālanaṃ) having-done(kṛtvā) having-entered(praviśya) inside(abhyantaraṃ) the-wise(budhāḥ)
 
 ## mukta-m0-p11-v274
-to-Pūṣan(pūṣā) stale+flower(paryuṣitaṃ+puṣpaṃ) to-Caṇḍeśa(caṇḍeśāya) one-should-offer(nivedayet)
+by-Pūṣan(pūṣā) stale(paryuṣitaṃ) flower(puṣpaṃ) to-Caṇḍeśa(caṇḍeśāya) should-offer(nivedayet)
 
 ## mukta-m0-p11-v275
-following-the-offering(baleranugato) *+*+*+*+nto(*+*+*+*+nto) or(vā) circumambulation(pradakṣiṇam)
+following-the-offering(baleḥ+anugataḥ) * * * * nto or(vā) circumambulation(pradakṣiṇam)

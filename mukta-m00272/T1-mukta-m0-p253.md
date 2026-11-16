@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p253-v6301
-[tat+naḥ](tanno) [hero](vīraḥ) [may-impel](pracodayāt) [*](* )[*](* )[*](* )[*](* )[*](* )[*](* )[*](* )
+[may-he-us](tanno) [hero](vīraḥ) [may-impel](pracodayāt)
 
 ## mukta-m0-p253-v6302
-[tat+naḥ](tanno) [brāhmī](brāhmī) [may-impel](pracodayāt) [*](* )[*](* )[*](* )[*](* )[*](* )[*](* )[*](* )
+[may-he-us](tanno) [brāhmī](brāhmī) [may-impel](pracodayāt)
 
 ## mukta-m0-p253-v6303
-[tat+naḥ](tannaśśaṃkari) [śaṃkarī](śaṃkari) [may-impel](pracodayāt) [*](* )[*](* )[*](* )[*](* )[*](* )[*](* )[*](* )
+[may-he-us](tannaśśaṃkari) [śaṃkarī](śaṃkari) [may-impel](pracodayāt)
 
 ## mukta-m0-p253-v6304
-[tat+naḥ](tannaḥ) [kaumārī](kaumārī) [may-impel](pracodayāt) [*](* )[*](* )[*](* )[*](* )[*](* )[*](* )[*](* )
+[may-he-us](tannaḥ) [kaumārī](kaumārī) [may-impel](pracodayāt)
 
 ## mukta-m0-p253-v6305
-[tat+naḥ](tanno) [vaiṣṇavī](vaiṣṇavī) [may-impel](pracodayāt) [*](* )[*](* )[*](* )[*](* )[*](* )[*](* )[*](* )
+[may-he-us](tanno) [vaiṣṇavī](vaiṣṇavī) [may-impel](pracodayāt)
 
 ## mukta-m0-p253-v6306
-[tat+naḥ](tanno) [vārāhī](vārāhī) [may-impel](pracodayāt) [*](* )[*](* )[*](* )[*](* )[*](* )[*](* )[*](* )
+[may-he-us](tanno) [vārāhī](vārāhī) [may-impel](pracodayāt)
 
 ## mukta-m0-p253-v6307
-[tat+naḥ](tanno) [indrāṇī](indrāṇī) [may-impel](pracodayāt) [*](* )[*](* )[*](* )[*](* )[*](* )[*](* )[*](* )
+[may-he-us](tanno) [indrāṇī](indrāṇī) [may-impel](pracodayāt)
 
 ## mukta-m0-p253-v6308
-[tat+naḥ](tannaścāmuṇḍī) [cāmuṇḍī](cāmuṇḍī) [may-impel](pracodayet) [*](* )[*](* )[*](* )[*](* )[*](* )[*](* )[*](* )
+[may-he-us](tannaścāmuṇḍī) [cāmuṇḍī](cāmuṇḍī) [may-impel](pracodayet)
 
 ## mukta-m0-p253-v6309
-[tat+naḥ](tanno) [bhairava](bhairavaḥ) [may-impel](pracodayāt) [*](* )[*](* )[*](* )[*](* )[*](* )[*](* )[*](* )
+[may-he-us](tanno) [bhairava](bhairavaḥ) [may-impel](pracodayāt)
 
 ## mukta-m0-p253-v6310
-[tat+naḥ](tanno) [mayūra](mayūraḥ) [may-impel](pracodayāt) [*](* )[*](* )[*](* )[*](* )[*](* )[*](* )[*](* )
+[may-he-us](tanno) [mayūra](mayūraḥ) [may-impel](pracodayāt)
 
 ## mukta-m0-p253-v6311
-[tat+naḥ](tannaḥ) [skanda](skandaḥ) [may-impel](pracodayāt) [*](* )[*](* )[*](* )[*](* )[*](* )[*](* )[*](* )
+[may-he-us](tannaḥ) [skanda](skandaḥ) [may-impel](pracodayāt)
 
 ## mukta-m0-p253-v6312
-[tat+naḥ](tanno) [gajendra](gajendraḥ) [may-impel](pracodayāt) [*](* )[*](* )[*](* )[*](* )[*](* )[*](* )[*](* )
+[may-he-us](tanno) [gaja-indra](gajendraḥ) [may-impel](pracodayāt)
 
 ## mukta-m0-p253-v6313
-[tat+naḥ](tanno) [nandī](nandī) [may-impel](pracodayāt) [*](* )[*](* )[*](* )[*](* )[*](* )[*](* )[*](* )
+[may-he-us](tanno) [nandī](nandī) [may-impel](pracodayāt)
 
 ## mukta-m0-p253-v6314
-[tat+naḥ](tannaścaṇḍaḥ) [caṇḍa](caṇḍaḥ) [may-impel](pracodayāt) [*](* )[*](* )[*](* )[*](* )[*](* )[*](* )[*](* )
+[may-he-us](tannaścaṇḍaḥ) [caṇḍa](caṇḍaḥ) [may-impel](pracodayāt)
 
 ## mukta-m0-p253-v6315
-[tat+naḥ](tannaścaṇḍī) [caṇḍī](caṇḍī) [may-impel](pracodayāt) [*](* )[*](* )[*](* )[*](* )[*](* )[*](* )[*](* )
+[may-he-us](tannaścaṇḍī) [caṇḍī](caṇḍī) [may-impel](pracodayāt)
 
 ## mukta-m0-p253-v6316
-[tat+naḥ](tanno) [haṃsa](haṃsaḥ) [may-impel](pracodayāt) [*](* )[*](* )[*](* )[*](* )[*](* )[*](* )[*](* )
+[may-he-us](tanno) [haṃsa](haṃsaḥ) [may-impel](pracodayāt)
 
 ## mukta-m0-p253-v6317
-[tat+naḥ](tanno) [ananta](anantaḥ) [may-impel](pracodayāt) [*](* )[*](* )[*](* )[*](* )[*](* )[*](* )[*](* )
+[may-he-us](tanno'nantaḥ) [ananta](anantaḥ) [may-impel](pracodayāt)
 
 ## mukta-m0-p253-v6318
-[tat+naḥ](tanno) [rudra](rudraḥ) [may-impel](pracodayāt) [*](* )[*](* )[*](* )[*](* )[*](* )[*](* )[*](* )
+[may-he-us](tanno) [rudra](rudraḥ) [may-impel](pracodayāt)
 
 ## mukta-m0-p253-v6319
-[tat+naḥ](tannaḥ) [śiva](śivaḥ) [may-impel](pracodayāt) [*](* )[*](* )[*](* )[*](* )[*](* )[*](* )[*](* )
+[may-he-us](tannaḥ) [śiva](śivaḥ) [may-impel](pracodayāt)
 
 ## mukta-m0-p253-v6320
-[*](* )[*](* )[*](* )[*](* )[*](* )[*](* )[*](* )[*](* ) [iti](iti) [pāśupata+astra](pāśupatāstram)
+[filler](*) [filler](*) [filler](*) [filler](*) [filler](*) [filler](*) [filler](*) [filler](*) [filler](*) [thus](iti) [pāśupata-weapon](pāśupatāstram)
 
 ## mukta-m0-p253-v6321
-oṃ prasphura prasphura ghoraghorataratanurūpa caṭacaṭa
+[om](oṃ) [flare-forth](prasphura) [flare-forth](prasphura) [fierce-fiercer](ghoraghoratara) [body-form](tanurūpa) [crackle](caṭacaṭa)
 
 ## mukta-m0-p253-v6322
-ghātaya ghātaya | ityaghorāstram
+[strike](ghātaya) [strike](ghātaya) [thus-aghora-weapon](ityaghorāstram)
 
 ## mukta-m0-p253-v6323
-iti pāśupatāstram [*](* )[*](* )[*](* )[*](* )[*](* )[*](* )[*](* )[*](* )
+[thus](iti) [pāśupata-weapon](pāśupatāstram) [filler](*) [filler](*) [filler](*) [filler](*) [filler](*) [filler](*) [filler](*) [filler](*) [filler](*)
 
 ## mukta-m0-p253-v6324
-kaṭirudravacanavidhāri rakṣamāṃ pratyaṃgiredhāma
+[kaṭirudra-speech-ordinance](kaṭirudravacanavidhāri) [protect-me](rakṣamāṃ) [toward-limb](pratyaṃgi) [redha](redhāma) [svāhā](svāhā)
 
 ## mukta-m0-p253-v6325
-svāhā | iti pratyaṃgirāstram [*](* )[*](* )[*](* )[*](* )[*](* )
+[thus-pratyaṅgirā-weapon](itipratyaṃgirāstram) [filler](*) [filler](*) [filler](*) [filler](*) [filler](*)
