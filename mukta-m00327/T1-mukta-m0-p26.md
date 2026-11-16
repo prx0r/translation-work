@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p26-v626
-[there-indeed](tatraiva) [situated](saṃsthitā) [rudras](rudrā) [eight](aṣṭau) [and](ca) [shiva+equal+gait](śivatulyagāḥ)
+[there+indeed](tatraiva) [situated](saṃsthitā) [rudras](rudrā) [eight](aṣṭau) [and](ca) [śiva+equal+going](śivatulyagāḥ)
 
 ## mukta-m0-p26-v627
-[vāmadeva](vāmadevo) [bhava](bhavaḥ) [and](ca) [indeed](eva) [udbhava](udbhavaḥ) [and](ca) [so](tathā) [again](punaḥ)
+[vāmadeva](vāmadevo) [bhava+and+indeed+udbhava+and](bhavaścaivodbhavaśca) [likewise](tathā) [again](punaḥ)
 
 ## mukta-m0-p26-v628
-[thumb+measure+accompanied](aṃguṣṭhamātrasahitā) [great+deva+octad](mahādevāṣṭakāḥ) [shivas](śivāḥ)
+[thumb+measure+accompanied](aṃguṣṭhamātrasahitā) [great+god+octad+śivas](mahādevāṣṭakāśśivāḥ)
 
 ## mukta-m0-p26-v629
-[then](ataḥ) [becomes](bhaved) [other](anyad) [vidyā+veil+named](vidyāvaraṇasaṃjñakaḥ)
+[from-that+above](atastradhvaṃ) [may-be](bhavedanyad) [knowledge+covering+named](vidyāvaraṇasaṃjñakaḥ)
 
 ## mukta-m0-p26-v630
-[its](tasya) [middle](maddhya) [situated](sthitā) [vidyā](vidyā) [pervading](vyāpinī) [universe+formed](viśvarūpiṇī)
+[of-that](tasya) [in-middle](maddhya) [situated](sthitā) [knowledge](vidyā) [all-pervading](vyāpinī) [universe+formed](viśvarūpiṇī)
 
 ## mukta-m0-p26-v631
-[mandala+support+variegated+limbed](maṇḍalādhāracitrāṃgī) [meditation+unsteady+eye](dhyānalolāyatekṣaṇā)
+[circle+support+variegated+limbed](maṇḍalādhāracitrāṃgī) [meditation+eager+long+eyed](dhyānalolāyatekṣaṇā)
 
 ## mukta-m0-p26-v632
-[being+nonbeing+play+adept](bhāvābhāvāvilāsādhyaiḥ) [always](nityaṃ) [delighted+senses](pramuditendriyaiḥ)
+[being+non-being+sport+and-others](bhāvābhāvāvilāsādhyairnityaṃ) [delighted+senses](pramuditendriyaiḥ)
 
 ## mukta-m0-p26-v633
-[exhaled](niśvāsaiḥ) [milk](payo) [milk](payo) [harālasa](harālasaiḥ)
+[utka](utka) [*](*) [*](*) [*](*) [with-sighs](niśvāsaiḥ) [milk](payo) [milk](payo) [hara+sluggish](harālasaiḥ)
 
 ## mukta-m0-p26-v634
-[there-indeed](tatraiva) [situated](saṃsthitā) [rudras](rudrāḥ) [thirteen](trayodaśa)
+[there+indeed](tatraiva) [situated](saṃsthitā) [rudras+thirteen](rudrāstrayodaśa) [*](*) [*](*) [*](*) [*](*)
 
 ## mukta-m0-p26-v635
-[vāmadeva](vāmadevaḥ) [and](ca) [bhīma](bhīmaḥ) [and](ca) [ugra](ugraḥ) [and-indeed](caiva) [bhava](bhavaḥ) [so](tathā)
+[vāmadeva+and](vāmadevaśca) [bhīma+and](bhīmaśca) [ugra+and+indeed](ugraścaiva) [bhava+likewise](bhavastathā)
 
 ## mukta-m0-p26-v636
-[īśvara](īśvaraḥ) [then](atha) [umā+lover](umākāntaḥ) [tvajeśa](tvajeśaḥ) [ananta](anantaḥ) [indeed](eva) [and](ca)
+[īśvara+then](īśvarotha) [umā+lord+but](umākāntastvajeśonanta) [aja+lord+ananta](ajeśonanta) [indeed](eva) [and](ca)
 
 ## mukta-m0-p26-v637
-[above](ūrdhvaṃ) [then](tu) [becomes](bhaved) [other](anyat) [kalā+veil+named](kalāvaraṇasaṃjñakam)
+[from-that+above](atordhvaṃ) [but](tu) [may-be](bhavedanyat) [kalā+covering+named](kalāvaraṇasaṃjñakam)
 
 ## mukta-m0-p26-v638
-[its](tasya) [middle](madhye) [kalā](kalā) [known](jñeyā) [variegated+color+anointed](citravarṇānulepinī)
+[of-that](tasya) [in-middle](madhye) [kalā+to-be-known](kalājñeyā) [variegated+color+anointed](citravarṇānulepinī)
 
 ## mukta-m0-p26-v639
-[knowledge+going+accomplished](vijñānagamasaṃpannaiḥ) [form+youth+proud](rūpayauvanagarvitaiḥ)
+[knowledge+scripture+endowed](vijñānagamasaṃpannai) [beauty+youth+proud](rūpayauvanagarvitaiḥ)
 
 ## mukta-m0-p26-v640
-[mind+stealing](manohāri) [beautiful+limbed](suramyāṅgaiḥ) [intoxicated+languid+yawning](madalālasajṛṃbhitaiḥ)
+[mind+captivating](manohāri) [very-delightful+limbed](suramyāṅgai) [passion+eager+yawning](madalālasajṛṃbhitaiḥ)
 
 ## mukta-m0-p26-v641
-[there](tatra) [rudra](rudraḥ) [lord](vibhuḥ) [pervading](vyāpī) [all-knowing](sarvajñaḥ) [knowledge+illuminator](jñānabhāsakaḥ)
+[there](tatra) [rudra](rudro) [all-pervading+pervading](vibhurvyāpī) [all+knowing](sarvajño) [knowledge+illuminating](jñānabhāsakaḥ)
 
 ## mukta-m0-p26-v642
-[kalā+brahma+limb+born](kalābrahmāṅgasaṃbhūtaiḥ) [mantra+body+bearing](mantravigrahadhāribhiḥ)
+[kalā+brahman+limb+born](kalābrahmāṅgasaṃbhūtairmantravigrahadhāribhiḥ) [mantra+body+bearing](mantravigrahadhāribhiḥ)
 
 ## mukta-m0-p26-v643
-[yāmya](yāmyaḥ) [jyeṣṭha](jyeṣṭhaḥ) [and](ca) [rudra](rudraḥ) [and](ca) [kāla+kāla+cause](kālakālavikāraṇaḥ)
+[yāmya+jyeṣṭha+and](yāmyajyeṣṭhaśca) [rudra+and](rudraśca) [kāla+kāla+cause](kālakālavikāraṇaḥ)
 
 ## mukta-m0-p26-v644
-[subduer](damanaḥ) [all+beings](sarvabhūtānāṃ) [mind+transcending](manonmanaḥ) [indeed](eva) [and](ca)
+[subduer](damanaḥ) [of-all+beings](sarvabhūtānāṃ) [mind+unmana](manonmana) [indeed](eva) [and](ca)
 
 ## mukta-m0-p26-v645
-[then](ataḥ) [above](ūrdhvaṃ) [becomes](bhaved) [other](anyat) [time's+veil+cave](kālasyāvaraṇaṃguha)
+[from-that](ata) [above](ūrdhvaṃ) [may-be](bhavedanyat) [of-time+covering+o-cave](kālasyāvaraṇaṃguha)
 
 ## mukta-m0-p26-v646
-[its](tasya) [middle](madhye) [situated](sthitaḥ) [time](kālaḥ) [fierce](raudraḥ) [all+people+end+maker](sarvāṃjanāntakṛt)
+[of-that](tasya) [in-middle](madhye) [situated](sthitaḥ) [time](kālo) [terrible](raudra) [all+people+destroying](sarvāṃjanāntakṛt)
 
 ## mukta-m0-p26-v647
-[flax+flower+resembling](atasīpuṣpasaṃkāśaiḥ) [beloved+pleasant+seeing](kāntimatpriyadarśibhiḥ)
+[flax+flower+resembling](atasīpuṣpasaṃkāśaiḥ) [radiant+dear+showing](kāntimatpriyadarśibhiḥ)
 
 ## mukta-m0-p26-v648
-[excessive+form+wealth](atyartharūpasampadbhiḥ) [coral+red+shining](pravālālaśobhibhiḥ)
+[exceedingly+beauty+endowed](atyartharūpasampadbhiḥ) [coral+charm+shining](pravālālaśobhibhiḥ)
 
 ## mukta-m0-p26-v649
-[uccuṣma](uccuṣmāḥ) [śāpara](śāparaḥ) [śaṃḍa](śaṃḍāḥ) [mātaṅga](mātaṅgāḥ) [fierce+formed](ghorarūpiṇaḥ)
+[uccuṣmā+śāpara+śaṃḍā](uccuṣmāśśāparaśśaṃḍā) [mātaṅgas](mātaṅgā) [terrible+formed](ghorarūpiṇaḥ)
 
 ## mukta-m0-p26-v650
-[then](tataḥ) [spear+troops](sūlagaṇāni) [ṣadra](ṣadrāḥ) [and](ca) [others](pare)
+[from-that+trident+groups](tatassūlagaṇāni) [*](*) [*](*) [*](*) [six+rāḥ+likewise](ṣadrāstathā) [others](pare)

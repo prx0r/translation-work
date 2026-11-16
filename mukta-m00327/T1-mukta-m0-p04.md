@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p04-v76
-known-eternal-pure-he(vijñāta+śāśvata+śuddhaḥ+sa) shiva(śivaḥ) no-here(na+atra) doubt(saṃśayaḥ)
+[known](vijñāta) [eternal](śāśvataḥ) [pure](śuddhaḥ) [he](saḥ) [śiva](śivaḥ) [not](na) [here](atra) [doubt](saṃśayaḥ)
 
 ## mukta-m0-p04-v77
-higher-lower-distinction(parā+apara+vibhāgena) gross-subtle-distinction(sthūla+sūkṣma+vibhāgaśaḥ)
+[by-higher+lower-division](parāpara+vibhāgena) [by-gross+subtle-division](sthūla+sūkṣma+vibhāgaśaḥ)
 
 ## mukta-m0-p04-v78
-gross(sthūlaḥ) mantra-composed(mantra+mayaḥ) declared(proktaḥ) subtle(sūkṣmaḥ) meditation-only(dhyāna+eka) established(saṃsthitaḥ)
+[gross](sthūlaḥ) [mantra-made](mantra+mayaḥ) [declared](proktaḥ) [subtle](sūkṣmaḥ) [in-meditation-alone-established](dhyāna+eka+saṃsthitaḥ)
 
 ## mukta-m0-p04-v79
-speech-variation(vāg+vikalpa+viśeṣeṇa) mind-deluding(manaḥ+saṃmohakāriṇī)
+[by-speech-fancy-distinction](vāg+vikalpa+viśeṣeṇa) [mind-deluding-causing](manaḥ+saṃmoha+kāriṇī)
 
 ## mukta-m0-p04-v80
-that-that-becomes(tat+tat+bhavati) without-doubt(asaṃdehāt) always-that-state(sadā+tat+bhāva+bhāvataḥ)
+[that-that](tat+tat) [becomes](bhavati) [without-doubt](asaṃdehāt) [always](sadā) [by-that-state-contemplation](tat+bhāva+bhāvataḥ)
 
 ## mukta-m0-p04-v81
-knowing-thus(jñātvā+eva) self-composed-all(ātma+mayaṃ+sarvam) self(ātmānam) worship-around(paryupāsate)
+[having-known](jñātvā) [indeed](eva) [self-made](ātma+mayaṃ) [all](sarvam) [the-self](ātmānaṃ) [they-worship](paryupāsate)
 
 ## mukta-m0-p04-v82
-self-knowledge(ātma+vijñānam) relying(āśritya) pure(vimalam) all-around-face(sarvataḥ+mukham)
+[self-knowledge](ātma+vijñānam) [having-resorted-to](āśritya) [stainless](vimalaṃ) [facing-all-directions](sarvataḥ+mukham)
 
 ## mukta-m0-p04-v83
-no-other(na+anyaḥ) refuge-giver(śaraṇa+daḥ) anyone(kaścit) without-self-knowledge(ātma+jñānāt+ṛte) ever(kvicit)
+[not](na) [other](anyaḥ) [refuge-giver](śaraṇa+daḥ) [anyone](kaścit) [than-self-knowledge](ātma+jñānāt) [without](ṛteḥ) [anywhere](kvacit)
 
 ## mukta-m0-p04-v84
-he-liberated(saḥ+mucyate) effortlessly(tvayatnena) all-states(sarva+avasthām) having-gone(gataḥ+api+san)
+[he](saḥ) [is-liberated](mucyate) [without-effort](tu+ayatnena) [all-states](sarva+avasthāṃ) [gone](gataḥ) [even](api) [being](san)
 
 ## mukta-m0-p04-v85
-thus(tathā) self-worship(ātmānam+upāsīta) whoever(yaḥ) this-self(yaḥ+ayam) other(ātmā+paraḥ) that(tu+saḥ)
+[thus](tathā) [the-self](ātmānam) [one-should-worship](upāsīta) [who](yaḥ) [this](ayam) [self](ātmā) [higher](paraḥ) [but](tu) [he](saḥ)
 
 ## mukta-m0-p04-v86
-all-knowing(sarvajñam) indeed(tu) that-self(tam+ātmānam) full(paripūrṇam) always(sadā) remember(smaret)
+[all-knowing](sarva+jñaṃ) [indeed](tu) [that](tam) [self](ātmānaṃ) [all-pervading](paripūrṇaṃ) [always](sadā) [one-should-remember](smaret)
 
 ## mukta-m0-p04-v87
-he(niṣkale) in-supreme-place(pare+sthāne) there(tatra) mind(cittam) place(niveśayet)
+[he](saḥ) [in-partless](niṣkale) [supreme](pare) [place](sthāne) [there](tatra) [mind](cittaṃ) [should-fix](niveśayet)
 
 ## mukta-m0-p04-v88
-all-void(sarva+śūnyam) that-radiance(tam+ābhāsa) same-self(sam+ātmānam) meditate(bhāvayet+tha)
+[all-empty](sarva+śūnyaṃ) [that-appearance](tam+ābhāsa) [equal-to-self](sama+ātmānaṃ) [one-should-contemplate](bhāvayet) [thus](tha)
 
 ## mukta-m0-p04-v89
-bias-free(pakṣa+pāta+vinirmuktam) self(ātmānam) worship-around(paryupāsayet)
+[partiality-freed](pakṣapāta+vinirmuktam) [self](ātmānaṃ) [one-should-worship](paryupāsayet)
 
 ## mukta-m0-p04-v90
-stainless(nirañjanam) beyond-qualities(guṇa+atītam) self(ātmānam) worship-around(paryupāsayet)
+[stainless](nirañjanaṃ) [quality-transcending](guṇa+atītam) [self](ātmānaṃ) [one-should-worship](paryupāsayet)
 
 ## mukta-m0-p04-v91
-own-nature-pure(svabhāva+vimalam) eternal(nityam) self(ātmānam) worship-around(paryupāsayet)
+[by-nature-pure](svabhāva+vimalaṃ) [eternal](nityam) [self](ātmānaṃ) [one-should-worship](paryupāsayet)
 
 ## mukta-m0-p04-v92
-meditate-self-by-self(bhāvayet+ātmanā+ātmānam) in-self-only(mātmani+eva+ātmani) established(sthitam)
+[one-should-contemplate](bhāvayet) [by-self](ātmanā) [self](ātmānaṃ) [in-self](mātmany) [indeed](eva) [in-self](ātmani) [situated](sthitam)
 
 ## mukta-m0-p04-v93
-these-states(bhāvān+etān) abandoning(parityajya) own-form(svarūpam) meditate(bhāvayet) wise(budhaḥ)
+[conceptions](bhāvān) [these](etān) [having-abandoned](parityajya) [own-nature](sva+rūpaṃ) [should-contemplate](bhāvayet) [the-wise](budhaḥ)
 
 ## mukta-m0-p04-v94
-all-states(sarva+bhāvān) abandoning(parityajya) self-state(ātma+bhāvam) indeed(tu) meditate(bhāvayet)
+[all-conceptions](sarva+bhāvān) [having-abandoned](parityajya) [self-nature](ātma+abhāvaṃ) [indeed](tu) [one-should-contemplate](bhāvayet)
 
 ## mukta-m0-p04-v95
-mind-in-self(ātma+saṃstham+manaḥ) making(kṛtvā) nothing(na+kiñcit+api) think(cintayet)
+[in-self-established](ātma+saṃsthaṃ) [mind](manaḥ) [having-made](kṛtvā) [not](na) [anything](kiñcit) [even](api) [one-should-think](cintayet)
 
 ## mukta-m0-p04-v96
-bias-free(pakṣa+pāta+vinirmuktam) self(ātmānam) worship-around(paryupāsayet)
+[partiality-freed](pakṣapāta+vinirmuktam) [self](ātmānaṃ) [one-should-worship](paryupāsayet)
 
 ## mukta-m0-p04-v97
-in-reality-less(nistatve) partless(niṣkalī) become(bhūte) finds(vindati) in-self(ātmani) what-joy(yat+sukham)
+[in-essenceless](nistatve) [partless-become](niṣkalī+bhūte) [finds](vindati) [in-self](ātmani) [which](yat) [bliss](sukham)
 
 ## mukta-m0-p04-v98
-that-joy(tat+sukham) supreme(paramam) declared(proktam) ultimate(ātyantikam) incomparable(anaupamam)
+[that](tat) [bliss](sukhaṃ) [supreme](paramaṃ) [declared](proktam) [ultimate](ātyantikam) [incomparable](anaupamam)
 
 ## mukta-m0-p04-v99
-when(yadā) goes(yāti) beyond-mind(unmanī) state(bhāvam) then(tadā) that-supreme(tat+paramam) joy(sukham)
+[when](yadā) [goes](yāti) [to-unmanī-state](unmanī+bhāvaṃ) [then](tadā) [that](tat) [supreme](paramaṃ) [bliss](sukham)
 
 ## mukta-m0-p04-v100
-all-varnas-ashramas(sarva+varṇa+āśramāṇām) and(ca) knowledge-difference(jñāna+bhedaḥ) not(na) exists(vidyate)
+[of-all-varṇas+āśramas](sarva+varṇa+āśramāṇāṃ) [and](ca) [in-knowledge-difference](jñāna+bhedaḥ) [not](na) [exists](vidyate)
