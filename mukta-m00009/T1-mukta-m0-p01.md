@@ -2,46 +2,46 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p01-v1
-[to-guru](gurave) [and](ca) [to-gaṇeśa](gaṇeśāya) [to-kārtikeya](kārtikeyāya) [to-wise](dhīmate)
+[teacher](gurave) [and](ca) [to-Gaṇeśa](gaṇeśāya) [to-Kārtikeya](kārtikeyāya) [wise](dhīmate)
 
 ## mukta-m0-p01-v2
-[kārtikeya](kārtikeyam) [of-this+indeed](asya+eva) [obstacle-free+completion+for-sake](avighna+parisamāpti+artham) [salutes](abhivandate)
+[to-Kārtikeya](kārtikeyam) [of-this](asya) [indeed](eva) [obstacle+non+completion+for-the-sake-of](avighna+parisamāpti+artham) [salutes](abhivandate)
 
 ## mukta-m0-p01-v3
-[having-drawn-up](samuddhṛtya) [of-good-people](satāṃ) [to-hold](dhartuṃ) [in-heart+throat+ear](hṛt+kaṇṭha+śravaṇe) [always](sadā)
+[having-lifted-up](samuddhṛtya) [of-the-good](satāṃ) [to-hold](dhartuṃ) [in-heart+throat+ear](hṛt+kaṇṭha+śravaṇe) [always](sadā)
 
 ## mukta-m0-p01-v4
-[to-hold](dhartuṃ) [bindu+etc.](bindu+ādīni) [jewels](ratnāni) [from-siddhānta+ocean](siddhānta+samudrāt) [having-drawn-up](uddhṛtya)
+[to-hold](dhartuṃ) [bindu+and-others](bindu+ādīni) [jewels](ratnāni) [from-the-ocean-of-Siddhānta](siddhānta+samudrāt) [having-lifted-up](uddhṛtya)
 
 ## mukta-m0-p01-v5
-[to-forbear](kṣantum) [should](arhanti) [therefore+good-people](tat+santaḥ) [not+envy](na+asūyā) [toward-attendant](paricārake)
+[to-forbear](kṣantum) [should-deign](arhanti) [therefore](tat) [the-good](santaḥ) [not](na) [envy](asūyā) [toward-the-attendant](paricārake)
 
 ## mukta-m0-p01-v6
-[jewels](ratnāni) [with-threads](sūtraiḥ) [are-strung](baddhyante) [therefore](tasmāt) [in-always+worship+engaged](sadā+ārādhana+pravṛtte) [in-me](mayi) [envy](asūyā) [not](na) [to-be-done](kartavyā) [thus](iti)
+[jewels](ratnāni) [with-threads](sūtraiḥ) [are-strung](baddhyante) [therefore](tasmāt) [in-constant+worship+engaged](sadā+ārādhana+pravṛtte) [in-me](mayi) [envy](asūyā) [not](na) [should-be-done](kartavyā) [thus](iti)
 
 ## mukta-m0-p01-v7
-[of-lords](īśvarāṇāṃ) [of-śivas](śivānāṃ) [and](ca) [by-being-worn](dhāraṇīyatayā) [by-mind](dhiyā)
+[of-the-lords](īśvarāṇāṃ) [of-the-auspicious-ones](śivānāṃ) [and](ca) [by-being-worthy-of-holding](dhāraṇīyatayā) [by-the-mind](dhiyā)
 
 ## mukta-m0-p01-v8
-[jewels](ratnāni) [desired+accomplishment+and](iṣṭa+vidhānāt) [and](ca) [bindu+etc.](bindu+ādyāḥ) [in-śiva+scripture](śiva+śāsane)
+[jewels](ratnāni) [desired+arrangement](iṣṭa+vidhānāt) [and](ca) [bindu+and-others](bindu+ādyāḥ) [in-the-teaching-of-Śiva](śiva+śāsane)
 
 ## mukta-m0-p01-v9
-[path+its+attainment+for](adhvā+tat+prāptaye) [sixfold](ṣoḍhā) [is-described](karṇyate) [by-supreme-lord](parameṣṭhinā)
+[path+that+attainment](adhvā+etat+prāptaye) [in-sixfold-manner](ṣoḍhā) [is-described](karṇyate) [by-the-Supreme-Lord](parameṣṭhinā)
 
 ## mukta-m0-p01-v10
-[its+attainment+for](tat+prāptaye) [and](ca) [kalā+etc.+sixfold+kind](kalā+ādi+ṣaṭ+prakāraḥ) [path](adhvā) [by-śiva](śivena) [in-scriptures](śāstreṣu) [is-described](varṇyate)
+[that+attainment](tat+prāptaye) [and](ca) [kalā+and-others+sixfold+kind](kalā+ādi+ṣaṭ+prakāraḥ) [path](adhvā) [by-Śiva](śivena) [in-the-scriptures](śāstreṣu) [is-described](varṇyate)
 
 ## mukta-m0-p01-v11
 [yogas](yogāḥ) [and](ca) [various](vividhāḥ) [ritual-action](karma) [daily+occasional](nitya+naimittikaṃ) [as](yathā)
 
 ## mukta-m0-p01-v12
-[this+indeed](etat+eva) [supreme](parā) [limit](kāṣṭhā) [liberation+named](mokṣa+ākhyā) [of-atomic-soul](aṇoḥ) [from-investigation](vicārataḥ)
+[this](etat) [indeed](eva) [supreme](parā) [limit](kāṣṭhā) [called-liberation](mokṣa+ākhyā) [of-the-individual-soul](aṇoḥ) [upon-inquiry](vicārataḥ)
 
 ## mukta-m0-p01-v13
-[to-be-meditated](dhyeyaṃ) [and](ca) [by-yoga+path](yoga+mārgeṇa) [by-grace-of-power+awakened+souls](śakti+pāta+udita+ātmabhiḥ)
+[to-be-meditated-upon](dhyeyaṃ) [and](ca) [by-the-path-of-yoga](yoga+mārgeṇa) [by-those-whose-selves-are-roused-by-descent-of-power](śaktipāta+udita+ātmabhiḥ)
 
 ## mukta-m0-p01-v14
-[and](ca) [of-these](eṣām) [scripture+inference+yogi+perception+establishedness](āgama+anumāna+yogi+pratyakṣa+siddhatvaṃ) [indicates](sūcayati)
+[and](ca) [of-these](eṣām) [scripture+inference+yogin+perception+established-state](āgama+anumāna+yogi+pratyakṣa+siddhatvaṃ) [indicates](sūcayati)
 
 ## mukta-m0-p01-v15
 [not](na) [than-those-two](tābhyāṃ) [equal](sadṛśaḥ) [anyone](kaścit) [highest-good](śreyaḥ) [attainment+effecting](āpti+vidhāyakaḥ)
@@ -50,28 +50,28 @@
 [thus](evam) [to-be-ascertained](avadhāryam)
 
 ## mukta-m0-p01-v17
-[attained](āptaḥ) [but](tu) [śiva](śivaḥ) [alone](eva) [one](ekaḥ) [other-than-śiva](śiva+anye) [but](tu) [non-śiva](aśivāḥ) [are-considered](matāḥ)
+[attained](āptaḥ) [but](tu) [Śiva](śivaḥ) [indeed](eva) [one](ekaḥ) [other-than-Śiva](śiva+anye) [but](tu) [inauspicious](aśivāḥ) [are-considered](matāḥ)
 
 ## mukta-m0-p01-v18
-[śiva-ness](śivatvaṃ) [and](ca) [here](atra) [omniscience+omnipotence](sarvajñatva+sarvakartṛtvam) [is-intended](abhipretam)
+[Śiva-hood](śivatvaṃ) [and](ca) [here](atra) [omniscience+omnipotence](sarvajñatva+sarvakartṛtvam) [is-intended](abhipretam)
 
 ## mukta-m0-p01-v19
-[by-acting-at-will](kāmakāritayā) [by-others](anyaiḥ) [but](tu) [is-censured](nindyate) [like-beast+scripture](paśu+śāstravat)
+[by-acting-according-to-desire](kāmakāritayā) [by-others](anyaiḥ) [but](tu) [is-censured](nindyate) [like-the-scriptures-of-bound-souls](paśu+śāstra+vat)
 
 ## mukta-m0-p01-v20
-[by-guru](guruṇā) [initiated](dīkṣitaḥ) [when](yadā) [omniscient](sarvajñaḥ) [he](saḥ) [śiva](śivaḥ) [just-as](yadvat) [(vi0 1|21)]((vi0 1|21)) [thus](iti)
+[by-the-teacher](guruṇā) [initiated](dīkṣitaḥ) [when](yadā) [omniscient](sarvajñaḥ) [he](saḥ) [Śiva](śivaḥ) [just-as](yadvat) [(vi0 1|21)]((vi0 1|21)) [thus](iti)
 
 ## mukta-m0-p01-v21
-[by-reasons](hetubhiḥ) [is-established](sādhyate) [but](kintu) [by-fortunate](dhanyaiḥ) [is-inhaled](āghrāyate) [always](sadā)
+[by-reasons](hetubhiḥ) [is-established](sādhyate) [but](kintu) [by-the-fortunate](dhanyaiḥ) [is-inhaled](āghrāyate) [always](sadā)
 
 ## mukta-m0-p01-v22
-[of-those-deceived-by-bliss](ānanda+vipralabdhānām) [with-bliss+endowed](ānanda+upahitā) [consciousness](citiḥ)
+[of-those-deceived-by-bliss](ānanda+vipralabdhānām) [endowed-with-bliss](ānanda+upahitā) [consciousness](citiḥ)
 
 ## mukta-m0-p01-v23
-[having-plunged-into](avagāhya) [supreme-bliss+wave](parānanda+laharī) [if](yadi) [not](na) [lifts-up](utkṣipet)
+[having-plunged-into](avagāhya) [wave-of-supreme-bliss](parānanda+laharīm) [if](yadi) [not](na) [lifts-up](utkṣipet)
 
 ## mukta-m0-p01-v24
-[by-his-statement](tat+vacanāt) [this](etat) [not](na) [is-possible](saṃbhavati) [thus+meaning](iti+arthaḥ)
+[from-his-statement](tat+vacanāt) [this](etat) [not](na) [is-possible](saṃbhavati) [thus](iti) [meaning](arthaḥ)
 
 ## mukta-m0-p01-v25
-[by-upward-gaze](udakṣeṇa) [by-upward-face](ūrdhva+vaktreṇa) [then](tatas) [that](tat) [one-should-ascertain](avadhārayet)
+[by-the-upward-gazing](udakṣeṇa) [by-the-upward-face](ūrdhva+vaktreṇa) [then](tatas) [that](tat) [one-should-ascertain](avadhārayet)
