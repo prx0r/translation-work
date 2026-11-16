@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p04-v76
-false-imagination-born (mithyāvikalpajanitaṃ) existence-liberation-net (bhavamokṣajālam)
+[false+conceptual-construction+produced](mithyāvikalpajanitaṃ) [existence+liberation+net](bhavamokṣajālam)
 
 ## mukta-m0-p04-v77
-thus (iti) śrī-great-way-light (śrīmahānayaprakāśe) seat-nature-determination (pīṭhasvarūpanirūpaṇaṃ) named (nāma) second-illumination (dvitīyollāsaḥ)
+[thus](iti) [in-the-illuminator+of-the-great+method](śrīmahānayaprakāśe) [determination+of-the-nature+of-the-seat](pīṭhasvarūpanirūpaṇaṃ) [named](nāma) [second+chapter](dvitīyollāsaḥ)
 
 ## mukta-m0-p04-v78
-contraction-expansion-dependence (ākuñcanaprasāraṇavaśato) where-is (yatrāsti) that-state (tatpadaṃ) bowing (natvā)
+[by-the-power+of-contraction+and-expansion](ākuñcanaprasāraṇavaśato) [where](yatra) [exists](asti) [that+state](tatpadaṃ) [having-bowed](natvā)
 
 ## mukta-m0-p04-v79
-apparent-nature (prātītikasvarūpaṃ) we-speak (brūmo) sky-goddess-wheel (vyomeśvarīcakram)
+[of-apparent+nature](prātītikasvarūpaṃ) [we-shall-describe](brūmo) [of-the-lord-of-space+circle](vyomeśvarīcakram)
 
 ## mukta-m0-p04-v80
-from-root (ā mūlāt) its (tasya) arrangement (saṃsthānaṃ) is-told (kathyate) consciousness-self (saṃvidātmanā)
+[from+the-root](ā) [from-the-root](mūlāt) [of-that](tasya) [location](saṃsthānaṃ) [is-described](kathyate) [by-the-nature+of-consciousness](saṃvidātmanā)
 
 ## mukta-m0-p04-v81
-not (na) possible (śakyaṃ) that-deny (tadapahnotuṃ) self-consciousness-proof (svasaṃvedanasiddhitaḥ)
+[not](na) [possible](śakyaṃ) [that+to-deny](tadapahnotuṃ) [by-the-establishment+of-own-awareness](svasaṃvedanasiddhitaḥ)
 
 ## mukta-m0-p04-v82
-knowledge-selfhood (jñānātmatāṃ) without (vinā) because (yasmād) externality-even (bāhyatāpi) not (na) succeeds (sidhyati)
+[of-the-nature+of-knowledge](jñānātmatāṃ) [without](vinā) [because](yasmād) [externality+also](bāhyatāpi) [not](na) [is-established](sidhyati)
 
 ## mukta-m0-p04-v83
-consciousness (saṃvedanaṃ) separate (pṛthak) its (* *) even-omniscient (sarvajñenāpi) difficult (duṣkaram)
+[awareness](saṃvedanaṃ) [separate](pṛthak) [of-that](tasya) [by-the-omniscient+even](sarvajñenāpi) [difficult](duṣkaram)
 
 ## mukta-m0-p04-v84
-knowledge-superiority (jñānādhikatvāt) from-proof-but (siddhestu) not (na) māyā (māyā) nor (nāpi) latent-impression (vāsanā)
+[because-of-superiority+of-knowledge](jñānādhikatvāt) [of-establishment+however](siddhestu) [not](na) [māyā](māyā) [nor+also](nāpi) [latent-impression](vāsanā)
 
 ## mukta-m0-p04-v85
-imagined-world-selfhood-even (kalpyaviśvātmakatve'pi) by-transcendence (taduttīrṇatayā) situated (sthitam)
+[even-in-the-state+of-being-of-the-nature+of-the-imagined-universe](kalpyaviśvātmakatve'pi) [by-being-transcendent+of-that](taduttīrṇatayā) [it-remains](sthitam)
 
 ## mukta-m0-p04-v86
-transcendent-nature-her (taduttīrṇasvarūpāyāḥ) its (tasyāḥ) no-experience (nānubhavaḥ) then (tadā)
+[of-the-nature+transcendent-of-that](taduttīrṇasvarūpāyāḥ) [of-that](tasyā) [not](na) [experience](anubhavastadā) [then](tadā)
 
 ## mukta-m0-p04-v87
-unveiled-nature (nirāvaraṇarūpāyāḥ) consciousness (citaḥ) world-selfhood (viśvātmatā) whence (kutaḥ)
+[of-the-nature+without-covering](nirāvaraṇarūpāyāḥ) [of-consciousness](citaḥ) [of-the-nature+of-the-universe](viśvātmatā) [whence](kutaḥ)
 
 ## mukta-m0-p04-v88
-blue-mode (nīlaprakāraḥ) not-indeed (naiva) would-be (syāt) self-consciousness-appearance-strength (ātmasaṃvitprathābalāt)
+[blue+form](nīlaprakāro) [not+indeed](naiva) [would-be](syād) [by-the-force+of-the-manifestation+of-self-awareness](ātmasaṃvitprathābalāt)
 
 ## mukta-m0-p04-v89
-blue-non-different-appearance-proved (nīlābhinnaprathāsiddhā) blueness-even (nīlatāpi) is-experienced (anubhūyate)
+[established+as-manifestation+non-different-from-blue](nīlābhinnaprathāsiddhā) [blueness+also](nīlatāpy) [is-experienced](anubhūyate)
 
 ## mukta-m0-p04-v90
-appearance-externality-even (prathābahiṣṭve'pi) this-very (eṣaiva) logic-said (nyāyoktiḥ) because (yadataḥ) separate (pṛthak)
+[even-in-being+outside-manifestation](prathābahiṣṭve'pi) [this+indeed](eṣaiva) [reasoning+stated](nyāyoktir) [because-from-that](yadataḥ) [separate](pṛthak)
 
 ## mukta-m0-p04-v91
-not-but (natu) pure-nature (śuddhasvarūpāyāḥ) appearance (prathāyāḥ) indeed (eva) expansion (jṛmbhaṇāt)
+[not+indeed](natu) [of-the-nature+pure](śuddhasvarūpāyāḥ) [of-manifestation+indeed](prathāyā) [indeed](eva) [from-the-expansion](jṛmbhaṇāt)
 
 ## mukta-m0-p04-v92
-light (prakāśaḥ) indeed (eva) world (viśvaṃ) but (tu) all-experience-perfumed (sarvānubhavavāsitam)
+[light](prakāśa) [indeed](eva) [universe](viśvaṃ) [but](tu) [dwelling+in-the-experience+of-all](sarvānubhavavāsitam)
 
 ## mukta-m0-p04-v93
-because (yadataḥ) self-appearance-even (svaprathaḥ) this (eṣa) proved (siddhaḥ) world-governed (viśvaniyantritaḥ)
+[because-from-that](yadataḥ) [own+manifestation+also](svapratho'pi) [this](eṣa) [established](siddho) [regulated+by-the-universe](viśvaniyantritaḥ)
 
 ## mukta-m0-p04-v94
-is-perceived (sañcetyate) entering (samāviśya) world-experience-ground (viśvānubhavabhūmikām)
+[is-cognized](sañcetyate) [having-entered](samāviśya) [the-level+of-universal-experience](viśvānubhavabhūmikām)
 
 ## mukta-m0-p04-v95
-nirvikalpa-supreme-I-ness-nature (nirvikalpaparāhantāsvarūpā) appears (prathate) appearance (prathā)
+[of-the-nature+of-supreme-I-ness+free-from-conceptualization](nirvikalpaparāhantāsvarūpā) [manifests](prathate) [manifestation](prathā)
 
 ## mukta-m0-p04-v96
-particular-experience (viśeṣānubhavaḥ) not-is (nāsti) dispute (vivādaḥ) inner-outer (antarbahiṣṭhayā)
+[of-particular+experience](viśeṣānubhavo) [not](na) [exists](asti) [dispute](vivādo) [by-the-internal+and-external](antarbahiṣṭhayā)
 
 ## mukta-m0-p04-v97
-inward-facing-light (antarmukhaprakāśaḥ) which (yaḥ) supreme-I-ness-nature (parāhantātmakaḥ) situated (sthitaḥ)
+[inward-facing+light](antarmukhaprakāśo) [which](yaḥ) [of-the-nature+of-supreme-I-ness](parāhantātmakaḥ) [remains](sthitaḥ)
 
 ## mukta-m0-p04-v98
-otherwise (anyathā) blue-consciousness-even (nīlasaṃvittiḥ) not-indeed (naiva) succeeds (prasidhyati)
+[otherwise](anyathā) [cognition+of-blue+also](nīlasaṃvittirapi) [not+indeed](naiva) [would-be-established](prasidhyati)
 
 ## mukta-m0-p04-v99
-reflection-even (ābhāsaḥ) how (kathaṃ) would-succeed (sidhyet) indeed (kila) consciousness (saṃvedanaṃ) without (vinā)
+[manifestation+also](ābhāso'pi) [how](kathaṃ) [would-be-established](sidhyet) [indeed](kila) [without+awareness](saṃvedanaṃ) [without](vinā)
 
 ## mukta-m0-p04-v100
-reflection-independent (ābhāsanirapekṣā) here (atra) to-be-seen (draṣṭavyā) consciousness (saṃvidaḥ) situated (sthitaḥ)
+[independent+of-manifestation](ābhāsanirapekṣātra) [to-be-seen](draṣṭavyā) [of-consciousness](saṃvidaḥ) [state](sthitaḥ)
