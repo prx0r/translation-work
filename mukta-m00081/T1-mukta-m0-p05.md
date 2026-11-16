@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p05-v101
-[siddhayoḥ=siddhis] [api=even] [tataḥ=then] [tatra=there] [api=also] [prasaṅgaḥ=occasion]
+[perfections](siddhayaḥ) [also](api) [then](tatas) [there](tatra) [also](api) [consequence](prasaṅgaḥ)
 
 ## mukta-m0-p05-v102
-[tasmāt=therefore] [hiraṇyagarbha=golden-womb] [ādi=etc] [yoga=yoga] [sāṃkhya=sāṃkhya] [itihāsa=history] [tām=that]
+[therefore](tasmāt) [hiraṇyagarbha](hiraṇyagarbha) [etc.](ādi) [yoga](yoga) [sāṃkhya](sāṃkhya) [traditions](itihāsatām)
 
 ## mukta-m0-p05-v103
-[pāṇi=hands] [ādi=etc] [indriya=senses] [vat=like] [na=not] [etat=this] [brahma=brahman] [vāgindriya=speech-sense] [bhavet=would-be]
+[hand](pāṇi) [etc.](ādi) [sense-organ](indriyavat) [not](na) [this](etat) [brahman](brahma) [speech-organ](vāgindriyaṃ) [would-be](bhavet)
 
 ## mukta-m0-p05-v104
-[viracyate=created] [apitu=but] [tad=that] [anusāreṇa=accordingly] [eva=only] [tathā=so] [vāgapi=speech-also]
+[is-fashioned](viracyate[6 ]) [but](apitu) [according-to-that](tat+anusāreṇa) [alone](eva) [likewise](tathā) [speech](vāk) [also](api[7 ])
 
 ## mukta-m0-p05-v105
-[tattva=truth] [unmeṣa=unfolding] [prasaraṇe=expansion] [bhavet=becomes] [saṃbandha=relation] [bhāginī=partaker]
+[principle](tattva) [flashing-forth](unmeṣa) [expansion](prasaraṇe) [would-be](bhavet) [relation](saṃbandha) [partaking](bhāginī)
 
 ## mukta-m0-p05-v106
-[lakṣyate=perceived] [bodha=knowledge] [rūpeṇa=form] [na=not] [tathā=so] [caraṇa=feet] [ādikam=etc]
+[is-perceived](lakṣyate) [by-consciousness-form](bodha+rūpeṇa) [not](na) [likewise](tathā) [foot](caraṇa) [etc.](ādikam)
 
 ## mukta-m0-p05-v107
-[bhavati=becomes] [paśyantī=seeing] [tvena=as] [yuktā=fit] [eva=indeed] [ityarthaḥ=thus-meaning]
+[becomes](bhavati) [as-paśyantī](paśyantī+tvena) [endowed](yuktā) [indeed](eva) [thus](iti) [meaning](arthaḥ)
 
 ## mukta-m0-p05-v108
-[vartamāna=present] [samārūḍhā=mounted] [kriyā=action] [paśyantī=seeing] [udāhṛtā=cited]
+[in-present](vartamāna) [mounted](samārūḍhā) [action](kriyā) [paśyantī](paśyantī) [declared](udāhṛtā)
 
 ## mukta-m0-p05-v109
-[dṛśyam=visible] [atra=here] [karma=action] [nirūpaṇīyam=to-be-determined]
+[visible](dṛśyam) [here](atra) [object](karma) [to-be-ascertained](nirūpaṇīyam)
 
 ## mukta-m0-p05-v110
-[yadi=if] [ābhāsān=reflections] [bahir=outside] [bhūtān=beings] [tatas=then] [asataḥ=unreal] [api=even] [vā=or]
+[if](yadi) [appearances](ābhāsān) [external](bahir[4 ]bhūtān) [then](tat) [from-real](sataḥ) [or](api) [from-unreal](asataḥ) [or](api) [or](vā)
 
 ## mukta-m0-p05-v111
-[na=not] [asatyārtha=unreal-meaning] [darśitve=seeing] [paśyantyāḥ=of-seeing] [satyatā=truth] [yogaḥ=union]
+[not](na) [in-seeing-unreal-objects](asatya+artha+darśitve) [of-paśyantī](paśyantyāḥ) [reality-connection](satyatā+yogaḥ)
 
 ## mukta-m0-p05-v112
-[gṛhṇāti=grasps] [athāvidyayā=by-ignorance] [vā=or] [sā=that] [api=also] [asyāḥ=her] [katham=how] [āsthitā=situated]
+[grasps](gṛhṇāti) [then](atha) [by-ignorance](avidyayā) [or](vā) [that-also](sā+api) [of-it](asyāḥ) [how](katham) [situated](āsthitā)
 
 ## mukta-m0-p05-v113
-[asatyayā=unreal] [api=even] [satyasya=real] [saṃbandhaḥ=relation] [atīva=very] [durghaṭaḥ=difficult]
+[by-unreal](asatyayā) [also](api) [of-real](satyasya) [connection](saṃbandhaḥ) [very](atīva) [difficult](durghaṭaḥ)
 
 ## mukta-m0-p05-v114
-[rūpa=form] [śleṣa=union] [maya=made-of] [yuktaḥ=fit]
+[form](rūpa) [contact](śleṣa) [consisting-of](mayaḥ) [fitting](yuktaḥ)
 
 ## mukta-m0-p05-v115
-[bahirbhāvān=external-states] [visṛjya=abandoning] [ādau=first] [paścāt=after] [paśyati=sees] [sā=that] [atha=then] [kim=what]
+[external-states](bahir+bhāvān) [having-emitted](visṛjya) [first](ādau) [afterwards](paścāt[1 ]) [sees](paśyati) [she](sā) [then](atha) [what](kim)
 
 ## mukta-m0-p05-v116
-[asatya=unreal] [sarge=creation] [api=even] [asamañjasa=improper] [kāritvena=by-causation] [mālinya=impurity] [prasaṅgāt=from-occasion]
+[in-unreal-creation](asatya+sarge) [also](api) [by-being-incongruous](asamañjasa+kāritvena) [taint](mālinya) [consequence](prasaṅgāt)
 
 ## mukta-m0-p05-v117
-[jñātān=known] [sṛjati=creates] [asau=that] [tān=them] [vā=or] [neti=not-so] [jñāteṣu=among-known] [adarśanam=non-seeing]
+[known-things](jñātān) [creates](sṛjati) [she](asau) [them](tān) [or](vā) [not](na) [thus](iti) [in-known-things](jñāteṣu) [non-seeing](adarśanam)
 
 ## mukta-m0-p05-v118
-[neṣṭam=not-desired]
+[not](na) [desired](iṣṭam)
 
 ## mukta-m0-p05-v119
-[tāni=those] [dṛṣṭvā=seeing] [nusṛjati=creates-after] [sṛṣṭvā=creating] [vā=or] [anuprapaśyati=looks-after]
+[those](tāni) [having-seen](dṛṣṭvā[1 ]) [creates-after](anusṛjati) [or](vā) [having-created](sṛṣṭvā) [sees-after](anuprapaśyati)
 
 ## mukta-m0-p05-v120
-[asatye=unreal] [satya=real] [dṛṣṭyā=by-seeing] [eva=only] [paśyantyām=in-seeing] [malinātmatā=impure-selfhood]
+[in-unreal](asatye) [by-seeing-as-real](satya+dṛṣṭyā) [alone](eva) [in-paśyantī](paśyantyām) [tainted-nature](malina+ātmatā)
 
 ## mukta-m0-p05-v121
-[krīḍā=play] [ādi=etc] [abhāve=absence] [api=even] [kena=by-what] [prayojana=purpose] [prakāreṇa=way] [sṛjati=creates] [iti=thus] [vimṛśyatām=reflect]
+[play](krīḍā) [etc.](ādi) [absence](abhāve) [also](api) [by-what](kena) [purpose](prayojana) [manner](prakāreṇa) [creates](sṛjati) [thus](iti) [let-it-be-considered](vimṛśyatām)
 
 ## mukta-m0-p05-v122
-[avidyā=ignorance] [asyāḥ=her] [svadharmaḥ=own-nature] [kiṃ=whether] [paradharmaḥ=other-nature] [athavā=or] [bhavet=becomes]
+[of-ignorance](avidyāsyāḥ) [own-nature](sva+dharmaḥ[3 ]) [what](kiṃ) [other's-nature](para+dharmaḥ) [or](atha) [or](vā) [would-be](bhavet)
 
 ## mukta-m0-p05-v123
-[parasya=other's] [śāstrā=scriptures] [niṣṭasya=devoted] [svatantrā=independent] [vā=or] [tathāpi=even-so] [sā=that]
+[of-another](parasya) [scripture](śāstrā[6 ]) [dependent](niṣṭasya) [independent](svatantrā) [or](vā) [even-so](tathā+api) [she](sā)
 
 ## mukta-m0-p05-v124
-[tannivṛtti=cessation] [kāraṇa=cause] [abhāva=absence] [mukha=face] [prekṣi=looking] [pravṛttika=activity] [tvena=as] [asvātantrya=non-independence] [āpatteḥ=from-occurrence]
+[its-cessation](tat+nivṛtti) [cause](kāraṇa) [absence](abhāva) [expecting](mukha+prekṣi) [activity](pravṛttikatvena) [by-non-independence](asvātantrya) [occurrence](āpatteḥ)
 
 ## mukta-m0-p05-v125
-[tattva=truth] [anyatvaiḥ=differences] [avācyā=ineffable] [vā=or] [yadi=if] [avidyā=ignorance] [abhidhīyate=called]
+[that](tatvā[2 ]) [otherness](anyatvaiḥ) [ineffable](avā[3 ]cyā) [or](vā) [if](yadi) [ignorance](avidyā) [is-called](abhidhīyate)
