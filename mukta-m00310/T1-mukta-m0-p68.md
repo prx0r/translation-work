@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p68-v1676
-moon-nectar-giver+china-silk-wearer much-accessible
+[deer-marked+nectar-giver](eṇāṅka+amṛtadaḥ) [china-cloth+wearer](cīna+paṭṭa+bhṛd) [having-many+ranges](bahu+gocaraḥ)
 
 ## mukta-m0-p68-v1677
-eka-seed-lover e-i-o-lip-nectar-source
+[ekāra-seed+delighter](ekāra+bīja+ramaṇaḥ) [e-ai-o-lip+nectar-mine](e+ai+o+oṣṭha+amṛta+ākaraḥ)
 
 ## mukta-m0-p68-v1678
-without-o-audantali praised lord-of-great-ones
+[o-au-end+bee-devoid](o+au+anta+ali+rahitaḥ) [honored](mahitaḥ) [of-the-great+lord](mahatāṃ+patiḥ)
 
 ## mukta-m0-p68-v1679
-a-form sound-filled all-sound-supreme-self
+[aḥ-form](aḥ+svarūpaḥ) [vowel-consisting](svara+mayaḥ) [all-vowels+supreme-self](sarva+svara+para+ātmakaḥ)
 
 ## mukta-m0-p68-v1680
-single-karma-boon-giver karma-witness sin-destroyer
+[action-alone+boon-giver](karma+eka+varadaḥ) [action+witness](karma+sākṣī) [sin+destroyer](kalmaṣa+nāśanaḥ)
 
 ## mukta-m0-p68-v1681
-lion-killer
+[mane-lion+slayer](keśāri+sūdanaḥ)
 
 ## mukta-m0-p68-v1682
-skull-liberator kasha kashmir-essence-bearer
+[skull+liberator](kapāla+mocakaḥ) [shining](kāśaḥ) [Kashmir+saffron-camphor+bearer](kāśmīra+ghana+sāra+bhṛt)
 
 ## mukta-m0-p68-v1683
-bad-garment-wearer clan-lord ka-decoration
+[dwelling-in-bad-places](ku+vāsī) [kula-kaula+lord](kula+kaula+īśaḥ) [ka-syllable+adorned](kakāra+akṣara+maṇḍanaḥ)
 
 ## mukta-m0-p68-v1684
-bird-lord sky-goer sky-goer-served
+[bird+lord](khaga+īśvaraḥ) [and](ca) [sky-mover](kha+caraḥ) [sky-moving-goddess+group+served-by](khecarī+gaṇa+sevitaḥ)
 
 ## mukta-m0-p68-v1685
-goer song-lover singable gaya-dweller troop-refuge
+[goer](gantā) [song+fond-of](gīta+priyaḥ) [to-be-sung](geyaḥ) [Gayā+dweller](gayā+vāsī) [troops+refuge](gaṇa+āśrayaḥ)
 
 ## mukta-m0-p68-v1686
-wise-one
+[wise](sudhīḥ)
 
 ## mukta-m0-p68-v1687
-pot-maker
+[pot+maker](ghaṭa+ākaraḥ)
 
 ## mukta-m0-p68-v1688
-nga-ending nga-lord nga-limb moon-saffron-perfumed
+[ṅa-ending](ṅa+antaḥ) [ṅa-lord](ṅa+īśaḥ) [ṅa-syllable+bodied](ṅakāra+aṅgaḥ) [and](ca) [moon-saffron+smeared-with](candra+kuṅkuma+vāsitaḥ)
 
 ## mukta-m0-p68-v1689
-gold-radiance fierce-sun fierce-lord-beloved
+[gold+splendor](cāmīkara+prabhaḥ) [fierce+sun](caṇḍa+bhānuḥ) [Caṇḍeśa+beloved](caṇḍeśa+vallabhaḥ)
 
 ## mukta-m0-p68-v1690
-fluttering-banner fierce-mountain one-robe-wearer non-moving
+[moving+banner](calat+patākaḥ) [fierce+mountain](caṇḍa+adriḥ) [bark-garment+sole+wearer](cīvara+eka+dharaḥ) [unmoving](a+caraḥ)
 
 ## mukta-m0-p68-v1691
-knife-cut-form
+[knife+cut+body](churikā+cchinna+vigrahaḥ)
 
 ## mukta-m0-p68-v1692
-jambu-foe matted-haired forest-dweller world-darkness-remover
+[Jambāri](jambāriḥ) [wandering-ascetic](jaṅgiṭaḥ) [wanderer](jaṅgī) [Janaloka+darkness+remover](jana+loka+tamaḥ+apahaḥ)
 
 ## mukta-m0-p68-v1693
-world-savior world-sustainer world-meditated world-treasure
+[world+protector](jagat+trātā) [world+supporter](jagat+dhātā) [world+to-be-meditated-on](jagat+dhyeyaḥ) [world+treasure](jagat+nidhiḥ)
 
 ## mukta-m0-p68-v1694
-ja-crown jhanjha-covered-form jhata
+[ja-syllable+form+crown](jakāra+ākāra+mukuṭaḥ) [jhañjā-sound+covered+form](jhañjā+channa+ākṛtiḥ) [matted-hair](jhaṭaḥ)
 
 ## mukta-m0-p68-v1695
-jha-syllable-adorned-stamped-bird-seat-established
+[jha-syllable+marked+hatchet](jhañ+akṣara+añcita+ṣṭaṅkaḥ) [ṭiṭṭibha-bird+seated-on](ṭiṭṭibha+āsana+saṃsthitaḥ)
 
 ## mukta-m0-p68-v1696
-dambara damaru-dindi damari-lord dala-form
+[deceit-bearer](ḍambha+raḥ) [ḍāmara](ḍāmaruḥ) [drum](ḍiṇḍī) [ḍāmarī+lord](ḍāmarī+īśaḥ) [ḍa-shape](ḍa+la+ākṛtiḥ)
 
 ## mukta-m0-p68-v1697
-na-lord-beloved na-syllable-lord na-foot-lotus
+[ṇa-lord+dear](ṇa+īśa+priyaḥ) [ṇa-letter+lord](ṇa+varṇa+īśaḥ) [ṇa-syllable+foot+lotus](ṇakāra+pada+paṅkajaḥ)
 
 ## mukta-m0-p68-v1698
-tripura-lord three-eye-lord three-veda-bodied adhokshaja
+[Tripura+lord](tripura+īśaḥ) [three-eye+lord](tri+netra+īśaḥ) [three-Vedas+body](trayī+tanuḥ) [Adhokṣaja](adhokṣajaḥ)
 
 ## mukta-m0-p68-v1699
-drowsiness-remover darkness-formed tapas-fruit-giver
+[drowsiness+remover](tandrā+hartā) [darkness+form](tamaḥ+rūpaḥ) [of-austerities+fruit+giver](tapasāṃ+phala+dāyakaḥ)
 
 ## mukta-m0-p68-v1700
-cutting-rising-return
+[cutting+effort](chedana+udyanī)

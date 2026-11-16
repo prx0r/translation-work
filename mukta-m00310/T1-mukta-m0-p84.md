@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p84-v2076
-[indra](śakraḥ) [enemy+destruction+maker](śatrukṣayakaraḥ) [enemy+time+maker](śatrukālakaraḥ) [auspicious](śivaḥ)
+[mighty](śakraḥ) [enemy+destruction+maker](śatrukṣayakaraḥ) [enemy+time+maker](śatrukālakaraḥ) [auspicious](śivaḥ)
 
 ## mukta-m0-p84-v2077
-[sixteen](ṣoḍaśa)+[vowel](svara)+[form](rūpaḥ)+[and](ca) [sixteen](ṣoḍaśa)+[ocean](arṇava)+[ornament](vibhūṣaṇaḥ)
+[sixteen+vowel+form](ṣoḍaśasvararūpaḥ) [and](ca) [sixteen+syllable+adorned](ṣoḍaśārṇavibhūṣaṇaḥ)
 
 ## mukta-m0-p84-v2078
-[lakshmi](lakṣmī)+[six](ṣaḍ)+[limb](aṅga)+[bearer](dhārī)+[and](ca) [lakshmi](lakṣmī)+[sixteen](ṣoḍaśa)+[letter](varṇa)+[bearer](bhṛt)
+[Lakṣmī+six+limb+bearer](lakṣmīṣaḍaṅgadhārī) [and](ca) [Lakṣmī+sixteen+syllable+bearer](lakṣmīṣoḍaśavarṇabhṛt)
 
 ## mukta-m0-p84-v2079
-[seven](sapta)+[horse](saptiḥ) [good](sadā)+[conduct](ācāraḥ) [good](sādhuḥ) [good+person+dear](sādhujanapriyaḥ)
+[seven+horsed](saptasaptiḥ) [ever+virtuous](sadācāraḥ) [saintly](sādhuḥ) [good+people+beloved](sādhujanapriyaḥ)
 
 ## mukta-m0-p84-v2080
-[seven](sapta)+[island](dvīpa)+[lord](vatīnāthaḥ) [seven](sapta)+[ocean](sāgara)+[leader](nāyakaḥ)
+[seven+island+earth+lord](saptadvīpavatīnāthaḥ) [seven+ocean+master](saptasāgaranāyakaḥ)
 
 ## mukta-m0-p84-v2081
-[sattvic](sāttvikaḥ) [endowed-with-sattva](sattvasaṃpannaḥ) [all](samasta)+[sin](durita)+[remover](apahaḥ)
+[endowed-with-sattva](sāttvikaḥ) [goodness+endowed](sattvasaṃpannaḥ) [all+sin+remover](samastaduritāpahaḥ)
 
 ## mukta-m0-p84-v2082
-[all](samasta)+[sin](pātaka)+[destroyer](dhvaṃsī) [all](samasta)+[god](sura)+[worshipped](vanditaḥ)
+[all+transgression+destroyer](samastapātakadhvaṃsī) [all+gods+adored](samastasuravanditaḥ)
 
 ## mukta-m0-p84-v2083
-[hari](harir)+[hara](haro)+[harihara](hariharo)+[golden-lord](hāṭakeśo)+[obstacle-remover](haṭāpahaḥ)
+[Hari](harir) [Hara](haro) [Hari](hari) [Hara](haro) [golden-lord](hāṭakeśo) [obstinacy+remover](haṭāpahaḥ)
 
 ## mukta-m0-p84-v2084
-[lakshmi-hari](lakṣmīharir)+[hṛṣīkeśa](hṛṣīkeśo)+[lakshmi-garland-bearer](lakṣmīhāradharo)+[sinless](anaghaḥ)
+[Lakṣmī+Hari](lakṣmīharir) [lord-of-senses](hṛṣīkeśo) [Lakṣmī+garland+wearer](lakṣmīhāradharo) [sinless](anaghaḥ)
 
 ## mukta-m0-p84-v2085
-[moment-maker](kṣaṇakṛt)+[moment-giver-lord](kṣaṇadānāthaḥ)+[patient](kṣamāvān)+[agitated-asura](kṣubhitāsuraḥ)
+[moment+maker](kṣaṇakṛt) [night+lord](kṣaṇadānāthaḥ) [forbearing](kṣamāvān) [agitated+demons](kṣubhitāsuraḥ)
 
 ## mukta-m0-p84-v2086
-[endless](ananto)+[endlessly-worshipped](anantapūjyaśca)+[primordial](ādi)+[sun-like](rādityasaṃnnibhaḥ)
+[endless](ananto) [endless+worshipped](anantapūjyaḥ) [and](ca) [also](api) [primeval](ādir) [sun+resembling](ādityasaṃnnibhaḥ)
 
 ## mukta-m0-p84-v2087
-[heat-glowing](ūṣmojjvalo)+[debt-destroyer](ṛṇahā)+[ṛ-letter-glowing-mother](ṝkārojjvalamātṛkaḥ)
+[heat+radiant](ūṣmojjvalo) [also](api) [debt+remover](ṛṇahā) [ṛ-syllable+radiant+mātṛkā](ṝkārojjvalamātṛkaḥ)
 
 ## mukta-m0-p84-v2088
-[with-prosperity](aiśvaryasahitaśca)+[lip](oṣṭhaḥ)+[thus](tathā)+[mad-sound-worshipped](unmattasvarārcitaḥ)
+[sovereignty+endowed](aiśvaryasahitaḥ) [and](ca) [oṣṭha-syllable](oṣṭhas) [likewise](tathā) [aumatta-vowel+worshipped](aunmattasvarārcitaḥ)
 
 ## mukta-m0-p84-v2089
-[om-hrim-hsauh](oṃhrīṃhasauḥ)+[hrim-shrim-deity](hrīṃśrīṃdevo)+[lakshmi-narayana](lakṣmīnārāyaṇaḥ)+[shiva](śivaḥ)
+[oṃ-hrīṃ-ha-sauḥ-hrīṃ-śrīṃ](oṃhrīṃhasauḥ) [hrīṃ-śrīṃ-god](hrīṃśrīṃdevo) [Lakṣmī+Nārāyaṇa](lakṣmīnārāyaṇaḥ) [auspicious](śivaḥ)
 
 ## mukta-m0-p84-v2090
-[from-a-to-ksha](akārādikṣakārānta)+[knowledge-abode](vidyānilayam)+[goddess](īśvari)
+[a-syllable+beginning](akārādi) [kṣa-syllable+ending](kṣakārānta) [knowledge+abode](vidyānilayam) [O-Īśvarī](īśvari)
 
 ## mukta-m0-p84-v2091
-[horse-sacrifice-thousands](aśvamedhasahasrāṇi)+[soma-sacrifice-millions](vājipeyasya)+[koṭayaḥ](koṭayaḥ)
+[aśvamedha+sacrifices+thousands](aśvamedhasahasrāṇi) [of-vājapeya](vājipeyasya) [ten-millions](koṭayaḥ)
 
 ## mukta-m0-p84-v2092
-[mantra-name-thousand](mantranāmasahasrasya)+[sixteenth-part](kalāṃ)+[not-worth](nārghanti)+[sixteenth](ṣoḍaśīm)
+[mantra+name+thousand](mantranāmasahasrasya) [a-fraction](kalāṃ) [not](na) [are-worth](arghanti) [sixteenth](ṣoḍaśīm)
 
 ## mukta-m0-p84-v2093
-[in-dream](svapne)+[lakshmi-dear](lakṣmīpriyaṃ)+[deity](devaṃ)+[boon-giver](varadaṃ)+[he](so)+[api](api)+[sees](paśyati)
+[in-dream](svapne) [Lakṣmī+beloved](lakṣmīpriyaṃ) [god](devaṃ) [boon+giver](varadaṃ) [he](so) [also](api) [sees](paśyati)
 
 ## mukta-m0-p84-v2094
-[hundred-years-thousands](śatavarṣasahasrāṇi)+[of-worship](pūjāyāḥ)+[fruit](phalam)+[obtains](āpnuyāt)
+[hundred+year+thousands](śatavarṣasahasrāṇi) [of-worship](pūjāyāḥ) [fruit](phalam) [obtains](āpnuyāt)
 
 ## mukta-m0-p84-v2095
-[he](sa)+[becomes](bhavet)+[accomplished](sādhakaḥ)+[glorious](śrīmān)+[beyond](paratra)+[heaven](tridivaṃ)+[goes](vrajet)
+[he](sa) [becomes](bhavet) [practitioner](sādhakaḥ) [glorious](śrīmān) [hereafter](paratra) [heaven](tridivaṃ) [goes](vrajet)
 
 ## mukta-m0-p84-v2096
-[of-yogis](yogināṃ)+[yoga-giver](yogadaṃ)+[worshipful](pūjyaṃ)+[of-enjoyers](bhogināṃ)+[enjoyment-increaser](bhogavardhanam)
+[of-yogins](yogināṃ) [yoga+giver](yogadaṃ) [worshipful](pūjyaṃ) [of-enjoyers](bhogināṃ) [enjoyment+increaser](bhogavardhanam)
 
 ## mukta-m0-p84-v2097
-[of-vaishnavas](vaiṣṇavānāṃ)+[dearer](priyataraṃ)+[of-liberated](muktānāṃ)+[supreme-goal-giver](paramārthadam)
+[of-Vaiṣṇavas](vaiṣṇavānāṃ) [most-dear](priyataraṃ) [of-liberated](muktānāṃ) [supreme+goal+giver](paramārthadam)
 
 ## mukta-m0-p84-v2098
-[without](vinā)+[gift](dānaṃ)+[not](na)+[accept](gṛhṇīyāt)+[not](na)+[give](dadyāt)+[fee](dakṣiṇāṃ)+[without](vinā)
+[without](vinā) [gift](dānaṃ) [not](na) [should-accept](gṛhṇīyān) [not](na) [should-give](dadyād) [fee](dakṣiṇāṃ) [without](vinā)
 
 ## mukta-m0-p84-v2099
-[your](tava)+[devotion](bhaktyā)+[by-me](mayā)+[spoken](ākhyātaṃ)+[secret](gopanīyaṃ)+[like-own-origin](svayonivat)
+[of-you](tava) [by-devotion](bhaktyā) [by-me](mayā) [declared](ākhyātaṃ) [to-be-concealed](gopanīyaṃ) [own+womb+like](svayonivat)
 
 ## mukta-m0-p84-v2100
-[lakshmi-narayana-thousand-names](lakṣmīnārāyaṇasahasranāma)+[description](nirūpaṇam)+[forty-first](ekonacatvāriṃśaḥ)+[chapter](paṭalaḥ)
+[Lakṣmī+Nārāyaṇa+thousand+name+exposition](lakṣmīnārāyaṇasahasranāmanirūpaṇam) [thirty+ninth](ekonacatvāriṃśaḥ) [chapter](paṭalaḥ)

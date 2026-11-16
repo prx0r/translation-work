@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p77-v1901
-for-attainment-of-enjoyment-and-liberation viniyoga thus remembered
+[enjoyment+liberation+accomplishment+for-the-sake-of](bhogāpavargasiddhyarthaṃ) [application](viniyoga) [thus](iti) [is-remembered](smṛtaḥ)
 
 ## mukta-m0-p77-v1902
-sheltered-by-lakshmi four-armed lakshmi-narayana I-worship
+[by-Lakṣmī](lakṣmyā) [resorted-to](śritaṃ) [four-armed](caturbāhuṃ) [Lakṣmī-Nārāyaṇa](lakṣmīnārāyaṇaṃ) [I-worship](bhaje)
 
 ## mukta-m0-p77-v1903
-hrim-forehead always protect lakshmi-vishnu from-all-sides
+[hrīṃ](hrīṃ) [forehead](lalāṭaṃ) [always](sadā) [may-protect](pātu) [Lakṣmī-Viṣṇu](lakṣmīviṣṇuḥ) [on-all-sides](samantataḥ)
 
 ## mukta-m0-p77-v1904
-hrim nose always protect lakshmi-damodara lord
+[hrīṃ](hrīṃ) [nose](nāsāṃ) [always](sarvadā) [may-protect](pātu) [Lakṣmī-Dāmodara](lakṣmīdāmodaraḥ) [lord](prabhuḥ)
 
 ## mukta-m0-p77-v1905
-lakshmi throat always protect goddess lakshmi-janardana
+[Lakṣmī](lakṣmī) [throat](kaṇṭhaṃ) [always](sadā) [may-protect](pātu) [goddess](devī) [Lakṣmī-Janārdana](lakṣmījanārdanaḥ)
 
 ## mukta-m0-p77-v1906
-salutation sides always protect lakshmi-nanda-eka-nandana
+[namaḥ](namaḥ) [two-sides](pārśvau) [always](sadā) [may-protect](pātu) [Lakṣmī-delight+sole+joy](lakṣmīnandaikanandanaḥ)
 
 ## mukta-m0-p77-v1907
-um-um-rim-rim protect belly hrim lakshmi-garuda-banner
+[uṃūṃṛṃṝṃ](uṃūṃṛṃṝṃ) [may-protect](pātu) [belly](kukṣiṃ) [hrīṃ](hrīṃ) [Lakṣmī-Garuḍa-bannered](lakṣmīgaruḍadhvajaḥ)
 
 ## mukta-m0-p77-v1908
-om-aum-am-ah protect navel hrim lakshmi-wide-eared
+[oṃauṃaṃaḥ](oṃauṃaṃaḥ) [may-protect](pātu) [navel](nābhiṃ) [hrīṃ](hrīṃ) [Lakṣmī-Viṣṭaraśravas](lakṣmīviṣṭaraśravaḥ)
 
 ## mukta-m0-p77-v1909
-cam-cham-jam-jham protect genitals lakshmi lakshmi-ishvara lord
+[caṃchaṃjaṃjhaṃ](caṃchaṃjaṃjhaṃ) [may-protect](pātu) [genitals](śiśnaṃ) [Lakṣmī](lakṣmī) [Lakṣmī-lord](lakṣmīśvaraḥ) [lord](prabhuḥ)
 
 ## mukta-m0-p77-v1910
-tam-tham-dam-dham protect thighs salutation lakshmi-world-lord
+[taṃthaṃdaṃdhaṃ](taṃthaṃdaṃdhaṃ) [may-protect](pātu) [thighs](corū) [namaḥ](namo) [Lakṣmī-world-lord](lakṣmījagatpatiḥ)
 
 ## mukta-m0-p77-v1911
-yam-ram-lam-vam protect shanks hasauh lakshmi-gada-dhara
+[yaṃraṃlaṃvaṃ](yaṃraṃlaṃvaṃ) [may-protect](pātu) [shanks](jaṅghe) [hasauḥ](hasauḥ) [Lakṣmī-mace-bearer](lakṣmīgadādharaḥ)
 
 ## mukta-m0-p77-v1912
-lam-kshah feet always protect root lakshmi-thousand-footed
+[laṃkṣaḥ](laṃkṣaḥ) [feet](pādau) [always](sadā) [may-protect](pātu) [mūlaṃ](mūlaṃ) [Lakṣmī-thousand-footed](lakṣmīsahasrapāt)
 
 ## mukta-m0-p77-v1913
-indra me east protect fire in-fire always-protect
+[Indra](indro) [me](māṃ) [in-the-east](pūrvataḥ) [may-protect](pātu) [fire-god](vahnir) [in-the-southeast](vahnau) [always](sadā) [may-protect](avatu)
 
 ## mukta-m0-p77-v1914
-varuna west protect-me wind-quarter protect me wind
+[Varuṇa](varuṇaḥ) [in-the-west](paścime) [may-protect](avyān) [me](māṃ) [in-the-northwest](vāyavye) [may-protect](avatu) [me](māṃ) [wind-god](marut)
 
 ## mukta-m0-p77-v1915
-thunderbolt-shakti-staff-sword noose-staff-banner-marked
+[thunderbolt+spear+staff+sword](vajraśaktidaṇḍakhaḍga) [noose+club+banner+marked](pāśayaṣṭidhvajāṅkitāḥ)
 
 ## mukta-m0-p77-v1916
-ananta protect-below always above brahma-avatara and me
+[Ananta](anantaḥ) [may-protect](pātu) [below](adho) [always](nityam) [above](ūrdhve) [Brahmā](brahmā) [may-protect](avatāt) [and](ca) [me](mām)
 
 ## mukta-m0-p77-v1917
-morning protect me vishnu midday vasudeva
+[in-the-morning](prabhāte) [may-protect](pātu) [me](māṃ) [Viṣṇu](viṣṇur) [at-midday](madhyāhne) [Vāsudeva](vāsudevakaḥ)
 
 ## mukta-m0-p77-v1918
-sankarshana midnight protect morning protect trivikrama
+[Saṅkarṣaṇa](saṅkarṣaṇo) [at-midnight](ardharātre) [may-protect](avyāt) [at-dawn](prabhāte) [may-protect](avyāt) [Trivikrama](trivikramaḥ)
 
 ## mukta-m0-p77-v1919
-om-hrim-hasauh hrim-shrim-root lakshmi-narayana protect
+[oṃhrīṃhasauḥ](oṃhrīṃhasauḥ) [hrīṃśrīṃmūlaṃ](hrīṃśrīṃmūlaṃ) [Lakṣmī-Nārāyaṇa](lakṣmīnārāyaṇo) [may-protect](avatu)
 
 ## mukta-m0-p77-v1920
-shrim-shrim-shrim-shasha-shala-lam daily lakshmi-husband protect me
+[śrīṃśrīṃśrīṃśaśaśālalaṃ](śrīṃśrīṃśrīṃśaśaśālalaṃ) [every-day](pratidinaṃ) [Lakṣmī-husband](lakṣmīdhavaḥ) [may-protect](pātu) [me](mām)
 
 ## mukta-m0-p77-v1921
-lakshmi-narayana desired four-purusharthas-fruit-giving
+[of-Lakṣmī-Nārāyaṇa](lakṣmīnārāyaṇasya) [this-desired](iṣṭaṃ) [four-goals+fruit+granting](caturvargaphalapradam)
 
 ## mukta-m0-p77-v1922
-lakshmi-samvana truth supreme-meaning-elixir
+[Lakṣmī-enchantment](lakṣmīsaṃvananaṃ) [essence](tattvaṃ) [supreme-truth+elixir](paramārtharasāyanam)
 
 ## mukta-m0-p77-v1923
-ten-times read night after-intercourse vaishnava-best
+[ten-times](daśavāraṃ) [one-should-recite](paṭhed) [at-night](rātrau) [at-end-of-love-making](ratānte) [best-of-Vaiṣṇavas](vaiṣṇavottamaḥ)
 
 ## mukta-m0-p77-v1924
-three-sandhyas who reads daily armor my-mouth-uttered
+[at-three-junctures](trisaṇdhyaṃ) [who](yaḥ) [recites](paṭhen) [daily](nityaṃ) [armor](kavacaṃ) [from-my-mouth+uttered](manmukhoditam)
 
 ## mukta-m0-p77-v1925
-great-china-place-dweller even who reads self-contemplative
+[in-great-China+place+standing](mahācīnapadastho) [even](api) [who](yaḥ) [recites](paṭhed) [self-contemplating](ātmacintakaḥ)

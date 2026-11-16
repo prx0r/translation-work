@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p67-v1651
-[lazy](alasaḥ) [tulasi-served](tulasīsevyaḥ) [pleased](tuṣṭaḥ) [disease-remover](roganivarhaṇaḥ)
+[effortless](alasaḥ) [tulasī+served](tulasī-sevyaḥ) [satisfied](tuṣṭā) [disease+destroyer](roga-nivarhaṇaḥ)
 
 ## mukta-m0-p67-v1652
-[detachment-giving](vairāgyadaḥ) [vimana-dwelling](vimānasthaḥ) [jewel-pot-armed](ratnakumbhadharāyudhaḥ)
+[dispassion+giver](vairāgya-daḥ) [chariot+seated](vimāna-sthaḥ) [jewel+pot+holder](ratna-kumbha-dhara) [weaponed](āyudhaḥ)
 
 ## mukta-m0-p67-v1653
-[rg-yajus-sama-form](ṛgyajuḥsāmarūpaḥ) [ca](ca) [tvashta](tvaṣṭā) [atharva-branch-complete](atharvaśākhilaḥ)
+[ṛg+yajus+sāman+form](ṛg-yajuḥ-sāma-rūpaḥ) [and](ca) [Tvaṣṭṛ](tvaṣṭā) [Atharvan+branch+all](atharvaṇa-śākhilaḥ)
 
 ## mukta-m0-p67-v1654
-[wish-tree](kalpavṛkṣaḥ) [ca](ca) [mandara](mandāraḥ) [mandara-mountain-beautiful](mandārācalaśobhanaḥ)
+[wish-fulfilling+tree](kalpa-vṛkṣaḥ) [and](ca) [mandāra-tree](mandāraḥ) [Mandāra+mountain+splendor](mandāra-acala-śobhanaḥ)
 
 ## mukta-m0-p67-v1655
-[santana-flower-covered](santānakusumacchannaḥ) [santana-fruit-giving](santānaphaladaḥ) [virat](virāṭ)
+[santāna+flower+covered](santāna-kusuma-cchannaḥ) [progeny+fruit+giver](santāna-phala-daḥ) [cosmic-form](virāṭ)
 
 ## mukta-m0-p67-v1656
-[rainy-season](varṣākālaḥ) [rain-lord](varṣapatiḥ) [autumn-lotus-beloved](śaradambhojavallabhaḥ)
+[rainy+season](varṣā-kālaḥ) [rain+lord](varṣa-patiḥ) [autumn+lotus+beloved](śarad-ambhoja-vallabhaḥ)
 
 ## mukta-m0-p67-v1657
-[good-mind](sumatiḥ) [good-gait](sugatiḥ) [saint](sādhuḥ) [vishnu](viṣṇuḥ) [samba-ambika-son](sāmbo'mbikāsutaḥ)
+[good-minded](sumatiḥ) [good-path](sugatiḥ) [virtuous](sādhuḥ) [all-pervading](viṣṇuḥ) [with-Amba](sāmbaḥ) [Ambikā+son](ambikā-sutaḥ)
 
 ## mukta-m0-p67-v1658
-[sumeru-peak-dwelling](sumeruśikharāvāsī) [seven-patala-ranging](saptapātālagocaraḥ)
+[Sumeru+peak+dweller](sumeru-śikhara-āvāsī) [seven+netherworlds+goer](sapta-pātāla-gocaraḥ)
 
 ## mukta-m0-p67-v1659
-[good-chariot](surathaḥ) [good-gone](sugataḥ) [praised](stutyaḥ) [flute-playing-devoted](veṇuvādanatatparaḥ)
+[good-chariot](surathaḥ) [well-gone](sugataḥ) [praised](stutyaḥ) [flute+playing+devoted](veṇu-vādana-tatparaḥ)
 
 ## mukta-m0-p67-v1660
-[to-be-declared](āvedanīyaḥ) [veda-eyed](vedākṣaḥ) [great-divine-bodied](mahādivyavapuḥ) [god-king](surāṭ)
+[to-be-known](āvedanīyaḥ) [Veda+eye](veda-akṣaḥ) [great+divine+body](mahā-divya-vapuḥ) [good-king](surāṭ)
 
 ## mukta-m0-p67-v1661
-[vasu-revolver](vasurāvartanaḥ) [eternal](nityaḥ) [all-agama-lord](sarvāmnāyaprabhuḥ) [good-intellect](sudhīḥ)
+[wealth+returning](vasu-āvartanaḥ) [eternal](nityaḥ) [all+scriptures+lord](sarva-āmnāya-prabhuḥ) [wise](sudhīḥ)
 
 ## mukta-m0-p67-v1662
-[triangle-abode](trikoṇanilayaḥ) [ca](ca) [itya](ityaḥ) [bindu-mandala-middle](bindumaṇḍalamadhyagaḥ)
+[triangle+abode](trikoṇa-nilayaḥ) [to-be-contemplated](cetyaḥ) [bindu+circle+middle+gone](bindu-maṇḍala-madhya-gaḥ)
 
 ## mukta-m0-p67-v1663
-[japa-flower-colored](japākusumasaṅkāśaḥ) [japa-worship-fruit-giving](japapūjāphalapradaḥ)
+[hibiscus+flower+resembling](japā-kusuma-saṅkāśaḥ) [japa+worship+fruit+giver](japa-pūjā-phala-pradaḥ)
 
 ## mukta-m0-p67-v1664
-[all-principle-refuge](sarvatattvāśrayaḥ) [bradhna](bradhnaḥ) [hero-venerable](vīravandyaḥ) [vibhavasu](vibhāvasuḥ)
+[all+principles+support](sarva-tattva-āśrayaḥ) [sun](bradhnaḥ) [hero+worshipped](vīra-vandyaḥ) [light-bearer](vibhāvasuḥ)
 
 ## mukta-m0-p67-v1665
-[beginning-sun-world-lord](ādirādityalokeśaḥ) [all-going](sarvagāmī) [kalas-refuge](kalāśrayaḥ)
+[primeval](ādiḥ) [sun+world+lord](āditya-loka-īśaḥ) [all-going](sarva-gāmī) [arts+support](kalā-āśrayaḥ)
 
 ## mukta-m0-p67-v1666
-[vidyadhara-lord](vidyādhareśaḥ) [vidya-lord](vidyeśaḥ) [yaksha-lord](yakṣeśaḥ) [protector](rakṣaṇaḥ) [guru](guruḥ)
+[Vidyādhara+lord](vidyādhara-īśaḥ) [knowledge+lord](vidyā-īśaḥ) [Yakṣa+lord](yakṣa-īśaḥ) [protector](rakṣaṇaḥ) [teacher](guruḥ)
 
 ## mukta-m0-p67-v1667
-[apsara-venerated](apsarovanditaḥ) [unconquerable](ajayyaḥ) [victor](jetā) [daitya-remover](daityanivarhaṇaḥ)
+[apsaras+worshipped](apsaraḥ-vanditaḥ) [unconquerable](ajayyaḥ) [conqueror](jetā) [demon+destroyer](daitya-nivarhaṇaḥ)
 
 ## mukta-m0-p67-v1668
-[siddha-served](siddhasevyaḥ) [samamnaya](samāmnāyaḥ) [saint-served](sādhusevyaḥ) [river-lord](saritpatiḥ)
+[Siddha+served](siddha-sevyaḥ) [tradition](samāmnāyaḥ) [virtuous+served](sādhu-sevyaḥ) [river+lord](sarit-patiḥ)
 
 ## mukta-m0-p67-v1669
-[arka](arkaḥ) [arka-ray-jewel-lord](arkakāntaratneśaḥ) [endless-armed](anantabāhuḥ) [alopaka](alopakaḥ)
+[sun](arkaḥ) [sunstone+jewel+lord](arka-kānta-ratna-īśaḥ) [infinite+armed](ananta-bāhuḥ) [unfailing](alopakaḥ)
 
 ## mukta-m0-p67-v1670
-[a-matrika-lord](akāramātṛkānāthaḥ) [gods-beginning-form](devānāmādirākṛtiḥ)
+[a-kāra+mātṛkā+lord](akāra-mātṛkā-nāthaḥ) [gods+of](devānām) [primeval](ādiḥ) [form](ākṛtiḥ)
 
 ## mukta-m0-p67-v1671
-[light-maker](ālokakṛt) [tatha-aditya](tathādityaḥ) [hero-aditya](vīrādityaḥ) [creature-lord](prajādhipaḥ)
+[light+maker](āloka-kṛt) [likewise](tathā) [sun](ādityaḥ) [hero+sun](vīra-ādityaḥ) [creatures+lord](prajā-adhipaḥ)
 
 ## mukta-m0-p67-v1672
-[indira-worshipped](indirāpūjitaḥ) [ca](ca) [moon](induḥ) [indra-world-refuge](indralokāśrayaḥ) [tvina](tvinaḥ)
+[Indirā+worshipped](indirā-pūjitaḥ) [and](ca) [moon](induḥ) [Indra+world+support](indra-loka-āśrayaḥ) [tvin](tvinaḥ)
 
 ## mukta-m0-p67-v1673
-[raised-face](unnatāsyaḥ) [api](api) [great-bodied](uruvapuḥ) [raised-mountain-goer](unnatādricaraḥ) [guru](guruḥ)
+[lofty+faced](unnata-āsyaḥ) [also](api) [vast+bodied](uru-vapuḥ) [high+mountain+roamer](unnata-adri-caraḥ) [heavy](guruḥ)
 
 ## mukta-m0-p67-v1674
-[u-kara-a-kara-happy](ukārākārasukhitaḥ) [tathoshma](tathoṣmā) [treasure-rushana](nidhirūṣaṇaḥ)
+[u-kāra+a-kāra+delighted](ukāra-akāra-sukhitaḥ) [likewise](tathā) [sibilant](ūṣmā) [treasure](nidhiḥ) [burning](ūṣaṇaḥ)
 
 ## mukta-m0-p67-v1675
-[debt-remover](ṛṇahartā) [rli-handed](ṝlihastaḥ) [r-bhushana-ornamented](ṝṛbhūṣaṇabhūṣitaḥ)
+[debt+remover](ṛṇa-hartā) [ṝ+handed](ṝli-hastaḥ) [ṝ+ṝ+ornament+adorned](ṝ-ṛ-bhūṣaṇa-bhūṣitaḥ)
