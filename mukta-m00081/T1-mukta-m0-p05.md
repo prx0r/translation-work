@@ -2,28 +2,28 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p05-v101
-[perfections](siddhayaḥ) [also](api) [then](tatas) [there](tatra) [also](api) [consequence](prasaṅgaḥ)
+[attainment](siddhayaḥ) [also](api) [then](tatas) [there](tatra) [also](api) [unwarranted-extension](prasaṅgaḥ)
 
 ## mukta-m0-p05-v102
-[therefore](tasmāt) [hiraṇyagarbha](hiraṇyagarbha) [etc.](ādi) [yoga](yoga) [sāṃkhya](sāṃkhya) [traditions](itihāsatām)
+[therefore](tasmāt) [hiraṇyagarbha+etc.](hiraṇyagarbha+ādi) [yoga+sāṃkhya+itihāsa](yoga+sāṃkhya+itihāsa) [state](tām)
 
 ## mukta-m0-p05-v103
-[hand](pāṇi) [etc.](ādi) [sense-organ](indriyavat) [not](na) [this](etat) [brahman](brahma) [speech-organ](vāgindriyaṃ) [would-be](bhavet)
+[hand+etc.](pāṇi+ādi) [sense-organ](indriya) [like](vat) [not](na) [this](etat) [brahman](brahma) [speech+organ](vāk+indriyaṃ) [would-be](bhavet)
 
 ## mukta-m0-p05-v104
 [is-fashioned](viracyate[6 ]) [but](apitu) [according-to-that](tat+anusāreṇa) [alone](eva) [likewise](tathā) [speech](vāk) [also](api[7 ])
 
 ## mukta-m0-p05-v105
-[principle](tattva) [flashing-forth](unmeṣa) [expansion](prasaraṇe) [would-be](bhavet) [relation](saṃbandha) [partaking](bhāginī)
+[principle+flashing-forth](tattva+unmeṣa) [spreading](prasaraṇe) [would-be](bhavet) [connection](saṃbandha) [partaking](bhāginī)
 
 ## mukta-m0-p05-v106
-[is-perceived](lakṣyate) [by-consciousness-form](bodha+rūpeṇa) [not](na) [likewise](tathā) [foot](caraṇa) [etc.](ādikam)
+[is-perceived](lakṣyate) [consciousness+form](bodha+rūpeṇa) [not](na) [likewise](tathā) [foot+etc.](caraṇa+ādikam)
 
 ## mukta-m0-p05-v107
-[becomes](bhavati) [as-paśyantī](paśyantī+tvena) [endowed](yuktā) [indeed](eva) [thus](iti) [meaning](arthaḥ)
+[becomes](bhavati) [paśyantī+state](paśyantī+tvena) [endowed](yuktā) [indeed](eva) [thus](iti) [meaning](arthaḥ)
 
 ## mukta-m0-p05-v108
-[in-present](vartamāna) [mounted](samārūḍhā) [action](kriyā) [paśyantī](paśyantī) [declared](udāhṛtā)
+[present](vartamāna) [mounted-on](samārūḍhā) [action](kriyā) [paśyantī](paśyantī) [declared](udāhṛtā)
 
 ## mukta-m0-p05-v109
 [visible](dṛśyam) [here](atra) [object](karma) [to-be-ascertained](nirūpaṇīyam)
@@ -32,22 +32,22 @@
 [if](yadi) [appearances](ābhāsān) [external](bahir[4 ]bhūtān) [then](tat) [from-real](sataḥ) [or](api) [from-unreal](asataḥ) [or](api) [or](vā)
 
 ## mukta-m0-p05-v111
-[not](na) [in-seeing-unreal-objects](asatya+artha+darśitve) [of-paśyantī](paśyantyāḥ) [reality-connection](satyatā+yogaḥ)
+[not](na) [unreal+object](asatya+artha) [seeing](darśitve) [of-paśyantī](paśyantyāḥ) [reality](satyatā) [connection](yogaḥ)
 
 ## mukta-m0-p05-v112
-[grasps](gṛhṇāti) [then](atha) [by-ignorance](avidyayā) [or](vā) [that-also](sā+api) [of-it](asyāḥ) [how](katham) [situated](āsthitā)
+[grasps](gṛhṇāti) [or](atha) [by-ignorance](avidyayā) [or](vā) [that](sā) [also](api) [of-it](asyāḥ) [how](katham) [situated](āsthitā)
 
 ## mukta-m0-p05-v113
 [by-unreal](asatyayā) [also](api) [of-real](satyasya) [connection](saṃbandhaḥ) [very](atīva) [difficult](durghaṭaḥ)
 
 ## mukta-m0-p05-v114
-[form](rūpa) [contact](śleṣa) [consisting-of](mayaḥ) [fitting](yuktaḥ)
+[form+contact](rūpa+śleṣa) [consisting-of](mayaḥ) [fitting](yuktaḥ)
 
 ## mukta-m0-p05-v115
-[external-states](bahir+bhāvān) [having-emitted](visṛjya) [first](ādau) [afterwards](paścāt[1 ]) [sees](paśyati) [she](sā) [then](atha) [what](kim)
+[external+states](bahir+bhāvān) [having-released](visṛjya) [first](ādau) [afterwards](paścāt[1 ]) [sees](paśyati) [she](sā) [then](atha) [what](kim)
 
 ## mukta-m0-p05-v116
-[in-unreal-creation](asatya+sarge) [also](api) [by-being-incongruous](asamañjasa+kāritvena) [taint](mālinya) [consequence](prasaṅgāt)
+[in-unreal](asatye) [creation](sarge) [also](api) [incongruity+causing](asamañjasa+kāritvena) [impurity](mālinya) [consequence](prasaṅgāt)
 
 ## mukta-m0-p05-v117
 [known-things](jñātān) [creates](sṛjati) [she](asau) [them](tān) [or](vā) [not](na) [thus](iti) [in-known-things](jñāteṣu) [non-seeing](adarśanam)
@@ -59,19 +59,19 @@
 [those](tāni) [having-seen](dṛṣṭvā[1 ]) [creates-after](anusṛjati) [or](vā) [having-created](sṛṣṭvā) [sees-after](anuprapaśyati)
 
 ## mukta-m0-p05-v120
-[in-unreal](asatye) [by-seeing-as-real](satya+dṛṣṭyā) [alone](eva) [in-paśyantī](paśyantyām) [tainted-nature](malina+ātmatā)
+[in-unreal](asatye) [by-real+vision](satya+dṛṣṭyā) [alone](eva) [in-paśyantī](paśyantyām) [impure+nature](malina+ātmatā)
 
 ## mukta-m0-p05-v121
-[play](krīḍā) [etc.](ādi) [absence](abhāve) [also](api) [by-what](kena) [purpose](prayojana) [manner](prakāreṇa) [creates](sṛjati) [thus](iti) [let-it-be-considered](vimṛśyatām)
+[play+etc.](krīḍā+ādi) [absence](abhāve) [also](api) [by-what](kena) [purpose+manner](prayojana+prakāreṇa) [creates](sṛjati) [thus](iti) [should-be-considered](vimṛśyatām)
 
 ## mukta-m0-p05-v122
-[of-ignorance](avidyāsyāḥ) [own-nature](sva+dharmaḥ[3 ]) [what](kiṃ) [other's-nature](para+dharmaḥ) [or](atha) [or](vā) [would-be](bhavet)
+[of-ignorance](avidyā) [its-own+nature](sva+dharmaḥ[3 ]) [what](kiṃ) [other+nature](para+dharmaḥ) [or](atha) [or](vā) [would-be](bhavet)
 
 ## mukta-m0-p05-v123
-[of-another](parasya) [scripture](śāstrā[6 ]) [dependent](niṣṭasya) [independent](svatantrā) [or](vā) [even-so](tathā+api) [she](sā)
+[of-another](parasya) [scripture](śāstrā[6 ]) [dependent](niṣṭasya) [independent](svatantrā) [or](vā) [even-so](tathā) [also](api) [she](sā)
 
 ## mukta-m0-p05-v124
-[its-cessation](tat+nivṛtti) [cause](kāraṇa) [absence](abhāva) [expecting](mukha+prekṣi) [activity](pravṛttikatvena) [by-non-independence](asvātantrya) [occurrence](āpatteḥ)
+[its-cessation+cause](tat+nivṛtti+kāraṇa) [absence](abhāva) [expecting](mukha+prekṣi) [activity](pravṛttikatvena) [non-independence](asvātantrya) [occurrence](āpatteḥ)
 
 ## mukta-m0-p05-v125
-[that](tatvā[2 ]) [otherness](anyatvaiḥ) [ineffable](avā[3 ]cyā) [or](vā) [if](yadi) [ignorance](avidyā) [is-called](abhidhīyate)
+[that](tatvā[2 ]) [otherness](anyatvaiḥ) [or](vā) [ineffable](avā[3 ]cyā) [or](vā) [if](yadi) [ignorance](avidyā) [is-called](abhidhīyate)
