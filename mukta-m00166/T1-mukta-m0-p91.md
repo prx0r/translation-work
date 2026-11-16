@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p91-v2251
-[existence](bhava) [+ocean](sāgara) [+crosser](tāriṇī) [she](sā)
+[bhava+sagara+tarini](bhavasāgaratāriṇī)
 
 ## mukta-m0-p91-v2252
-[existence](bhava) [+ocean](sā) [+crosser](garatāriṇī) [existence](bhava) [+ocean](sāgara) [+crosser](tāriṇī)
+[bhava](bhava) [sagara+tarini](sāgaratāriṇī) [bhava](bhava) [sagara+tarini](sāgaratāriṇī)
 
 ## mukta-m0-p91-v2253
-[page](p.) [268](268)) [not-cruel](akrūrā) [she](sā)
+[p-268](p.) [akrura](akrūrā)
 
 ## mukta-m0-p91-v2254
-[whirling](ghūrṇitaḥ) [or](vā) [abandons](jahāti) [+this](eṣā) [+not-cruel](akrūrā) [in-mind](manasi) [brilliance](rājatām)
+[ghurnita](ghūrṇito) [va](vā) [jahati+esha+akrura](jahātyeṣā'krūrā) [manasi](manasi) [rajatam](rājatām)
 
 ## mukta-m0-p91-v2255
-[planet-possessing](graha) [+possessing](vatī) [she](sā) [goddess](devī)
+[grahavati](grahavatī)
 
 ## mukta-m0-p91-v2256
-[in-sky](vyoma) [+like](iva) [+one](ekā) [triumphs](jayati) [+this](eṣā) [planet](graha) [+possessing](vatī) [+even](api) [without-planets](nirgrahā)
+[vyoma+iva+eka](vyomevaikā) [jayati+esha](jayatyeṣā) [grahavati+api](grahavatyapi) [nirgraha](nirgrahā)
 
 ## mukta-m0-p91-v2257
-[body](vi) [+form](grahā) [she](sā) [form](rūpā)
+[vigraha](vigrahā)
 
 ## mukta-m0-p91-v2258
-[whom](yat) [+people](janāḥ) [having-made](kṛta) [+acceptance](parigrahāḥ) [by-fortune](śriyā) [bodies](vigrahā) [triumphs](jayati) [she](sā) [planet](graha) [+lordess](īśvarī)
+[yat+jana](yajjanāḥ) [krita+parigraha](kṛtaparigrahāḥ) [shriya](śriyā) [vigraha](vigrahā) [jayati](jayati) [sa](sā) [graheshvari](grahēśvarī)
 
 ## mukta-m0-p91-v2259
-[planet](graha) [+devoid](varjitā) [she](sā) [free](muktā)
+[graha+varjita](grahavarjitā)
 
 ## mukta-m0-p91-v2260
-[then](tat) [+what](kiṃ) [wonder](citraṃ) [herself](svayaṃ) [she](sā) [+even](api) [because](yat) [+goddess](devī) [planet](graha) [+devoid](varjitā)
+[tat+kim](tatkiṃ) [citra](citraṃ) [svayam](svayaṃ) [sa+api](sāpi) [yat+devi](yaddevī) [graha+varjita](grahavarjitā)
 
 ## mukta-m0-p91-v2261
-[red-one](rohiṇī) [star](nakṣatrā) [she](sā) [goddess](devī)
+[rohini](rohiṇī)
 
 ## mukta-m0-p91-v2262
-[Rohiṇī](rohiṇī) [+son](tanaya) [+worshipped](pūjitā) [+unconquered](ajitā) [alone](kevalā) [triumphs](jayati) [she](sā) [+indeed](eva) [Rohiṇī](rohiṇī)
+[rohini+tanaya+pūjita+ajita](rohiṇītanayapūjitājitā) [kevala](kevalā) [jayati](jayati) [sa+eva](saiva) [rohini](rohiṇī)
 
 ## mukta-m0-p91-v2263
-[earth](bhūmi) [+womb](garbhā) [she](sā) [goddess](devī)
+[bhumi+garbha](bhūmigarbhā)
 
 ## mukta-m0-p91-v2264
-[she](sā) [earth](bhūmi) [+womb](garbhā) [triumphs](jayati) [mighty](pragalbhā)
+[sa](sā) [bhumi+garbha](bhūmigarbhā) [jayati](jayati) [pragalbha](pragalbhā)
 
 ## mukta-m0-p91-v2265
-[page](p.) [269](269)) [time](kāla) [+earth](bhūḥ) [she](sā)
+[p-269](p.) [kala+bhu](kālabhūḥ)
 
 ## mukta-m0-p91-v2266
-[she](sā) [time](kāla) [+earth](bhūḥ) [+childhood](bālya) [+art](kalā) [+and-so-forth](ādi) [+playful](lolā)
+[sa](sā) [kala+bhu](kālabhūr) [balya+kala+adi+lola](bālyakalādilolā)
 
 ## mukta-m0-p91-v2267
-[time](kāla) [+abiding](vartinī) [she](sā) [goddess](devī)
+[kala+vartini](kālavartinī)
 
 ## mukta-m0-p91-v2268
-[because](yat) [+time](kāla) [+abiding](vartinī) [she](sā) [+even](api) [in-that](tat) [+abiding](vartī) [then](tat) [+not](na) [who](kaḥ) [would-be](bhavet)
+[yat+kala+vartini](yatkālavartinī) [sa+api](sāpi) [tat+varti](tadvartī) [tat+na](tanna) [ko](ko) [bhavet](bhavet)
 
 ## mukta-m0-p91-v2269
-[stain](kalaṅka) [+devoid](rahitā) [woman](nārī) [she](sā)
+[kalanka+rahita](kalaṅkarahitā) [nari](nārī)
 
 ## mukta-m0-p91-v2270
-[stain](kalaṅka) [+devoid](rahitā) [woman](nārī) [as](yathā) [+this](iyaṃ) [carries-away](harate) [mind](manaḥ)
+[kalanka+rahita](kalaṅkarahitā) [nari](nārī) [yatha](yatheyaṃ) [harate](harate) [manah](manaḥ)
 
 ## mukta-m0-p91-v2271
-[sixty-four](catuṣṣaṣṭi) [+name](abhidhā) [+possessing](vatī) [she](sā)
+[catuh+shashti+abhidhavati](catuṣṣaṣṭyabhidhāvatī)
 
 ## mukta-m0-p91-v2272
-[four](catur) [+quarters](āśā) [+renowned](prasiddhā) [+this](iyaṃ) [sixty-four](catuṣṣaṣṭi) [+name](abhidhā) [+possessing](vatī)
+[catur+asha+prasiddha+iyaṃ](caturāśāprasiddheyaṃ) [catuh+shashti+abhidhavati](catuṣṣaṣṭyabhidhāvatī)
 
 ## mukta-m0-p91-v2273
-[old](jīrṇā) [worn](jarjarā) [she](sā) [goddess](devī)
+[jirna](jīrṇā)
 
 ## mukta-m0-p91-v2274
-[old](jīrṇā) [existence](bhava) [+decay](ājīrṇam) [+this](iyaṃ) [may-remove](vyapohatām)
+[jirna](jīrṇā) [bhava+ajirna](bhavājīrṇamiyaṃ) [vyapohatam](vyapohatām)
 
 ## mukta-m0-p91-v2275
-[page](p.) [270](270)) [old](jīrṇa) [+garment](vastrā) [she](sā)
+[p-270](p.) [jirna+vastra](jīrṇavastrā)

@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p13-v301
-[with-quarter](sapādaṃ) [three-part](tryaṃśakā) [platform](vedir) [by-part](bhāgena) [seat+box](āsana+peṭakam)
+[with-foot](sapādaṃ) [three-part](tryaṃśakā) [altar+by-portion+seat-box](vedirbhāgenāsanapeṭakam)
 
 ## mukta-m0-p13-v302
-[with-half+five-parts](sārddha+pañcāṃśakaiḥ) [pillar](staṃbhaḥ) [less-by-quarter](pādonaṃ) [entablature](bharaṇaṃ) [should-be](bhavet)
+[with-half-five-parts](sārddhapañcāṃśakaiḥ) [pillar](staṃbhaḥ) [foot-less](pādonaṃ) [burden](bharaṇaṃ) [becomes](bhavet)
 
 ## mukta-m0-p13-v303
-[quarter](pādo) [two-parts](dvibhāgas) [of-that](tasya) [above](ūrdhe) [to-be-made](kartavyaḥ) [covering+height](chādyaka+udayaḥ)
+[foot](pādo) [two-part](dvibhāgastasyorddhe) [to-be-made](kartavyaśchādyakodayaḥ)
 
 ## mukta-m0-p13-v304
-[half-part](ardhāṃśa) [above](ūrddhā) [cornice+moulding](kapota+āliḥ) [in-two-parts](dvibhāge) [band+width](paṭṭa+vistare)
+[half-part-up](ardhāṃśorddhā) [pigeon-ledge](kapotālirdvibhāge) [band-width](paṭṭavistare)
 
 ## mukta-m0-p13-v305
-[by-twenty-eight](aṣṭaraviviṃśatyā) [at-corner](karṇe) [circular](vṛttas) [but](tu) [fivefold](pañcadhā)
+[?](va**dāṣṭaraviviṃśatyā) [ear](karṇe) [round](vṛttastu) [fivefold](pañcadhā)
 
 ## mukta-m0-p13-v306
-[by-two-and-two+pillar+increase](dvidvi+staṃbha+vivṛddhyā) [and](ca) [sixteenfold](ṣoḍaśaḥ) [this](ayaṃ) [is-declared](prakīrtitaḥ)
+[two-two-pillar-increase](dvidvistaṃbhavivṛddhyā) [ca](ca) [sixteenth](ṣoḍaśo'yaṃ) [declared](prakīrtitaḥ)
 
 ## mukta-m0-p13-v307
-[square](caturasra) [auspicious](śubhas) [of-that](tasya) [likewise](tathā) [with-offsets](pratiratha+anvitaḥ)
+[four-cornered-auspicious](caturasraśubhastasya) [so](tathā) [with-counter-chariot](pratirathānvitaḥ)
 
 ## mukta-m0-p13-v308
-[by-corner+water-space+interval](karṇa+udaka+antareṇa) [then](atha) [with-projection+water-space+adorned](bhadra+udaka+vibhūṣitaḥ)
+[by-ear-water-interval](karṇodakāntareṇātha) [with-auspicious-water-ornamented](bhadrodakavibhūṣitaḥ)
 
 ## mukta-m0-p13-v309
-[projection+half](bhadra+ardhaṃ) [front-projection](mukha+bhadraṃ) [and](ca) [remainder](śeṣaṃ) [divided-into-six-and-eight](ṣaṭ+vasu+bhājite)
+[half-auspicious](bhadrārdhaṃ) [face-auspicious](mukhabhadraṃ) [ca](ca) [remainder](śeṣaṃ) [six-vasu-divided](ṣaṭvasubhājite)
 
 ## mukta-m0-p13-v310
-[like-root-temple](mūla+prāsāda+vat) [in-brahma-part](brāhme) [base+wall+etc.+moulding](pīṭha+jaṅghā+ādi+mekhalā)
+[root-shrine-like](mūlaprāsādavad) [in-brahma](brāhme) [pedestal-leg-girdle](pīṭhajaṅghādimekhalā)
 
 ## mukta-m0-p13-v311
-[cell](guhaḥ) [and](ca) [or-corner-cell](karṇa+guhe) [or](vā) [in-projection](bhadre) [moon-viewing-window](candrā+avalokanam)
+[cave](guhaśca) [ear-cave](karṇaguhe) [or](vā) [auspicious](bhadre) [moon-viewing](candrāvalokanam)
 
 ## mukta-m0-p13-v312
-[in-cell](guhe) [open](prakāśake) [enlarged](vṛddham) [half-height+spire](ardha+udaya+karoṭakam)
+[cave](guhe) [manifest](prakāśake) [grown](vṛddhamardhodayakaroṭakam)
 
 ## mukta-m0-p13-v313
-[half-projection](ardha+bhādraṃ) [by-division](vibhāgena) [on-sides](pārśvayoḥ) [in-front](agratas) [likewise](tathā)
+[half-auspicious](ardhabhādraṃ) [by-portion](vibhāgena) [at-sides-front](pārśvayoragratastathā)
 
 ## mukta-m0-p13-v314
-[in-free-corner](mukta+koṇe) [in-four](catuṣke) [two](dve) [thus](iti) [twelve-pavilions](dvādaśa+maṇḍapāḥ)
+[free-corner](muktakoṇe) [in-four](catuṣke) [two](dve) [thus](iti) [twelve-pavilions](dvādaśamaṇḍapāḥ)
 
 ## mukta-m0-p13-v315
-[by-square-etc.+distinction](caturasra+ādi+bhedena) [with-canopies](vitānaiḥ) [with-many](bahubhiḥ) [endowed](yutā)
+[four-cornered-etc-distinction](caturasrādibhedena) [with-canopies-many](vitānairbahubhiryutā)
 
 ## mukta-m0-p13-v316
-[twenty-seven](saptaviṃśatiḥ) [declared](uktā) [which](ye) [pavilions](maṇḍapā) [by-viśvakarman](viśvakarmaṇā)
+[twenty-seven](saptaviṃśatiruktā) [ye](ye) [pavilions](maṇḍapā) [by-vishvakarma](viśvakarmaṇā)
 
 ## mukta-m0-p13-v317
-[first](prathamaḥ) [twelve-pillared](dvādaśa+staṃbhaḥ) [by-two-and-two+pillar+increase](dvidvi+staṃbha+vivardhanāt)
+[first](prathamo) [twelve-pillar](dvādaśastaṃbho) [two-two-pillar-increase](dvidvistaṃbhavivardhanāt)
 
 ## mukta-m0-p13-v318
-[of-area+half](kṣetra+ardhasya) [less-by-sixth-part](ṣaḍaṃśa+ūnā) [and](ca) [one-cornered+eight-cornered](eka+asra+aṣṭa+asram) [is-called](ucyate)
+[field-half](kṣetrārdhasya) [six-part-less](ṣaḍaṃśonā) [ca](ca) [one-corner-eight-cornered](caikāsrāṣṭāsramucyate)
 
 ## mukta-m0-p13-v319
-[in-octagon](aṣṭāsre) [in-hexadecagon](ṣoḍaśāsre) [and](ca) [circle](vṛttaṃ) [one-should-make](kuryāt) [above-that](tad+ūrdhvataḥ)
+[eight-cornered](aṣṭāsre) [sixteen-cornered](ṣoḍaśāsre) [ca](ca) [round](vṛttaṃ) [to-be-made-above](kuryāttadūrdhvataḥ)
 
 ## mukta-m0-p13-v320
-[corner+pediment](karṇa+dardarikā) [by-seven-parts](sapta+bhāgena) [projection](nirgamaḥ) [smallness](tucchatā)
+[ear-dardarika](karṇadardarikā) [seven-part](saptabhāgena) [exit](nirgamo) [emptiness](tucchatā)
 
 ## mukta-m0-p13-v321
-[with-vidyādharas](vidyādharaiḥ) [endowed](samāyuktaṃ) [with-sixteen+eight+suns](ṣoḍaśa+aṣṭa+divākaraiḥ)
+[with-vidyadharas](vidyādharaiḥ) [joined](samāyuktaṃ) [sixteen-eight-suns](ṣoḍaśāṣṭadivākaraiḥ)
 
 ## mukta-m0-p13-v322
-[vidyādhara](vidyādharaḥ) [in-breadth](pṛthutvena) [seven-parts](sapta+aṃśaḥ) [projection+height](nirgama+udayaḥ)
+[vidyadhara](vidyādharaḥ) [by-breadth](pṛthutvena) [seven-part](saptāṃśo) [exit-rise](nirgamodayaḥ)
 
 ## mukta-m0-p13-v323
-[gajatāla](gaja+tālas) [but](tu) [six-and-half](ṣaṭ+sārddhā) [first](prathamā) [second](dvitīyā) [but](tu) [six](ṣaṭ)
+[gaja-tala](gajatālastu) [six-half](ṣaṭsārddhā) [first](prathamā) [second](dvitīyā) [tu](tu) [six](ṣaṭ)
 
 ## mukta-m0-p13-v324
-[in-middle](madhye) [canopy](vitānaṃ) [to-be-made](kartavyaṃ) [with-variegated-color+shining](citra+varṇa+virājitam)
+[middle](madhye) [canopy](vitānaṃ) [to-be-made](kartavyaṃ) [with-variegated-color](citravarṇavirājitam)
 
 ## mukta-m0-p13-v325
-[eleven+hundreds](ekādaśa+śatāni) [indeed](eva) [of-canopies](vitānānāṃ) [thirteen](trayodaśa)
+[eleven-hundred](ekādaśaśatānyeva) [canopies](vitānānāṃ) [thirteen](trayodaśa)

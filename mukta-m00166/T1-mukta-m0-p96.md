@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p96-v2376
-[universe](viśva) [+source](yoniḥ)
+[world](viśva) [womb](yoniḥ)
 
 ## mukta-m0-p96-v2377
-[universe](viśva) [+source](yoniḥ) [this](iyam) [be](astu) [+non](a) [+source](yoni) [+making](kṛt)
+[world](viśva) [womb](yoniḥ) [this](iyam) [let-be](astu) [not](a) [womb](yoni) [maker](kṛt)
 
 ## mukta-m0-p96-v2378
-[breast](stanaṃ) [+sucking](dhayī)
+[breast](stana) [suckling](ndhayī)
 
 ## mukta-m0-p96-v2379
-[whose](yasya) [present](saṃnihitā) [always](nityaṃ) [in-house](gehe) [goddess](devī) [breast](stanaṃ) [+sucking](dhayī)
+[whose](yasya) [near](saṃnihitā) [always](nityaṃ) [house](gehe) [goddess](devī) [breast-suckling](stanandhayī)
 
 ## mukta-m0-p96-v2380
-[child](śiśu) [+lap](utsaṅga) [+holding](dharā)
+[infant](śiśu) [lap](utsaṅga) [bearer](dharā)
 
 ## mukta-m0-p96-v2381
-[child](śiśu) [+lap](utsaṅga) [+holding](dharā) [be-victorious](jīyāt) [mountain](dhara) [+holder](dhara) [+daughter](sutā) [auspicious](śivā)
+[infant-lap-bearer](śiśūtsaṅgadharā) [may-she-conquer](jīyāt) [mountain-daughter](dharādharasutā) [auspicious](śivā)
 
 ## mukta-m0-p96-v2382
-[page](p.) [280)](280)) [swing](dolā)
+[swing](dolā)
 
 ## mukta-m0-p96-v2383
-[duddadullādalāt](duddadullādalāt) [+swing](dolā) [dādadālam](dādadālaṃ) [lalādadā](lalādadā)
+[mantra](duddadullādalāddolā) [mantra](dādadālaṃ) [mantra](lalādadā)
 
 ## mukta-m0-p96-v2384
-[swing](dolā) [+play](krīḍā) [+delighting](abhinandinī)
+[swing](dolā) [play](krīḍā) [delighting](abhinandinī)
 
 ## mukta-m0-p96-v2385
-[which](yat) [+mountain](śaila) [+daughter](nandinī) [she](sā) [also](api) [swing](dolā) [+play](krīḍā) [+delighting](abhinandinī)
+[mountain-daughter](śailanandinī) [she-too](sāpi) [swing-play-delighting](dolākrīḍābhinandinī)
 
 ## mukta-m0-p96-v2386
 [Urvaśī](urvaśī)
 
 ## mukta-m0-p96-v2387
-[having-left](vihāya) [as-if](iva) [heaven](divaṃ) [goes](yāti) [she](sā) [be](bhūyāt) [Urvaśī](urvaśī) [for-prosperity](śriye)
+[leaving](vihāya) [like](iva) [heaven](divaṃ) [goes](yāti) [she](sā) [may-be](bhūyāt) [Urvaśī](urvaśī) [prosperity](śriye)
 
 ## mukta-m0-p96-v2388
-[plantain](kadalī)
+[banana](kadalī)
 
 ## mukta-m0-p96-v2389
-[whether](kimu) [she](sā) [plantain](kadalī) [become](bhūtā) [destruction](kadanaṃ) [of-removers](haratāṃ) [of-strife](kaleḥ)
+[whether](kimu) [she](sā) [banana](kadalī) [become](bhūtā) [destruction](kadanaṃ) [removing](haratāṃ) [of-Kali](kaleḥ)
 
 ## mukta-m0-p96-v2390
 [peacock-cry](kekā)
 
 ## mukta-m0-p96-v2391
-[kekākakakakāṅkokākekaikākākakīḥ](kekākakakakakāṅkokākekaikākākakīḥ) [kakam](kakam)
+[mantra](kekākakakakāṅkokākekaikākākakīḥ) [mantra](kakam)
 
 ## mukta-m0-p96-v2392
-[flameless](viśikhā)
+[arrow](viśikhā)
 
 ## mukta-m0-p96-v2393
-[purifying](punantyāḥ) [+up-to-hair](āśikham) [by-glances](īkṣābhiḥ) [flameless](viśikhā) [be](sā) [for-you](astu) [for-prosperity](vaḥ) [for-prosperity](śriye)
+[purifying](punantyā) [crest](śikham) [glances](īkṣābhir) [arrow](viśikhā) [she](sā) [be](astu) [to-you](vaḥ) [prosperity](śriye)
 
 ## mukta-m0-p96-v2394
-[page](p.) [281)](281)) [peacock](śikhi) [+dancer](nartinī)
+[peacock](śikhin) [dancer](nartinī)
 
 ## mukta-m0-p96-v2395
-[on-back](pṛṣṭhe) [by-him](anena) [always](sadā) [thus](iti) [she](eṣā) [satisfied](santuṣṭā) [peacock](śikhi) [+dancer](nartinī)
+[back](pṛṣṭhe) [by-this](anena) [with](saha) [thus](iti) [this-one](eṣā) [pleased](santuṣṭā) [peacock-dancer](śikhinartinī)
 
 ## mukta-m0-p96-v2396
-[skull-staff](khaṭvāṅga) [+bearing](dhāriṇī)
+[skull-staff](khaṭvāṅga) [bearer](dhāriṇī)
 
 ## mukta-m0-p96-v2397
-[of-skull-staff-bearer](khaṭvāṅginaḥ) [+of-odd-eyed](asamākṣasya) [for-pleasure](prītyai) [skull-staff](khaṭvāṅga) [+bearing](dhāriṇī)
+[skull-staff-bearer's](khaṭvāṅginaḥ) [unequal-eyed's](asamākṣasya) [for-delight](prītyai) [skull-staff-bearer](khaṭvāṅgadhāriṇī)
 
 ## mukta-m0-p96-v2398
-[bedstead](khaṭvā)
+[cot](khaṭvā)
 
 ## mukta-m0-p96-v2399
-[mendicant](bhikṣuḥ) [is-victorious](jayati) [she](sā) [some](kācit) [bedstead](khaṭvā) [always](nityam) [unbroken](akhaṇḍitā)
+[ascetic](bhikṣuḥ) [conquers](jayati) [she](sā) [some](kācit) [cot](khaṭvā) [always](nityam) [unbroken](akhaṇḍitā)
 
 ## mukta-m0-p96-v2400
-[arrow](bāṇa) [+feather](puṅkha) [+following](anuvartinī)
+[arrow](bāṇa) [feather](puṅkha) [following](anuvartinī)

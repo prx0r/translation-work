@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p07-v151
-[corner-bracket](koṇikā) [pillar+middle](stambha+madhye) [indeed](tu) [ornament+purpose](bhūṣaṇa+arthā) [indeed](hi) [on-sides](pārśvataḥ)
+[corner](koṇikā) [pillar-middle](stambhamadhye) [but](tu) [ornament-purpose](bhūṣaṇārthā) [indeed](hi) [from-side](pārśvataḥ)
 
 ## mukta-m0-p07-v152
-[pillar](stambhaṃ) [branch+etcetera](śākhā+ādikaṃ) [in-remainder](śeṣe) [three-branched+like](triśākhā+vat) [one-should-divide](vibhājayet)
+[pillar](stambhaṃ) [branch-etc](śākhādikaṃ) [remainder](śeṣe) [three-branched-like](triśākhāvadvibhājayet)
 
 ## mukta-m0-p07-v153
-[fourth](caturthī) [small+branch](svalpa+śākhā) [and](ca) [lion+branch](siṃha+śākhā) [and](ca) [fifth](pañcamī)
+[fourth](caturthī) [small-branch](svalpaśākhā) [and](ca) [lion-branch](siṃhaśākhā) [and](ca) [fifth](pañcamī)
 
 ## mukta-m0-p07-v154
-[fourth](caturthī) [pillar+branch](stambha+śākhā) [and](ca) [figure+branch](rūpa+śākhā) [and](ca) [fifth](pañcamī)
+[fourth](caturthī) [pillar-branch](stambhaśākhā) [and](ca) [form-branch](rūpaśākhā) [and](ca) [fifth](pañcamī)
 
 ## mukta-m0-p07-v155
-[pillar+branch](stambha+śākhā) [should-be](bhavet) [in-middle](madhye) [figure+branch+tip+line](rūpa+śākhā+agra+sūtrataḥ)
+[pillar-branch](stambhaśākhā) [becomes-middle](bhavenmadhye) [form-branch-thread](rūpaśākhāgrasūtrataḥ)
 
 ## mukta-m0-p07-v156
-[fourth](caturthī) [śalya+branch](śalya+śākhā) [and](ca) [gandharva](gandharvā) [indeed+then](tu+atha) [fifth](pañcamī)
+[fourth](caturthī) [thorn-branch](śalyaśākhā) [and](ca) [gandharva](gandharvā) [then](tvatha) [fifth](pañcamī)
 
 ## mukta-m0-p07-v157
-[śalya+branch](śalya+śākhā) [and](ca) [lion+named](siṃha+ākhyā) [root+corner](mūla+karṇena) [measured](saṃmitā)
+[thorn-branch](śalyaśākhā) [and](ca) [lion-named](siṃhākhyā) [root-ear](mūlakarṇena) [measured](saṃmitā)
 
 ## mukta-m0-p07-v158
-[page-16](pṛ0 16)) [of-branch](śākhāyāñ) [and](ca) [surrounding-figures](parīvāro) [Gaṇeśa](gaṇeśaḥ) [and](ca) [on-upper-beam](uttarāṅgake)
+[page-16](pṛ0) [16](16) [branch-and](śākhāyāñca) [retinue](parīvāro) [ganesha-and](gaṇeśaścottarāṅgake)
 
 ## mukta-m0-p07-v159
-[thus](iti) [in-Prāsādamaṇḍana](prāsāda+maṇḍane) [in-architecture+treatise](vāstu+śāstre) [base+platform+upper+sanctum](pīṭha+maṇḍa+uvara+garbha+gṛha) [door-frame+measurement](udumbara+pramāṇaṃ) [third+chapter](tṛtīyaḥ+adhyāyaḥ)
+[thus](iti) [temple-ornament](prāsādamaṇḍane) [vastu-science](vāstuśāstre) [pedestal-mandapa](pīṭhamaṇḍovaragarbhagṛha) [udumbara-measure](udumbarapramāṇaṃ) [third-chapter](tṛtīyo'dhyāyaḥ)
 
 ## mukta-m0-p07-v160
-[in-remainder](śeṣe) [three+part](tri+aṃśe) [two+part+image](dvi+bhāga+arccā) [three+part+less](tri+aṃśa+ūnā) [from-door](dvārataḥ) [or](athavā)
+[remainder](śeṣe) [three-part](tryaṃśe) [two-part-worship](dvibhāgārccā) [three-part-less](tryaṃśonā) [door-from-or](dvārato'thavā)
 
 ## mukta-m0-p07-v161
-[upper+image](ūrdhva+arcā) [seated](āsana+sthā) [and](ca) [fourteen+twelve+part](manu+viśva+arka+bhāgataḥ)
+[upper-worship](ūrdhvārcā) [seat-seated](āsanasthā) [ca](ca) [manu-vishva-sun-part](manuviśvārkabhāgataḥ)
 
 ## mukta-m0-p07-v162
-[wall](bhittiḥ) [two+part](dvi+bhāgā) [to-be-made](kartavyā) [six+part](ṣaṭ+bhāgaṃ) [sanctum+chamber](garbha+mandiram)
+[wall-two-part](bhittirdvibhāgā) [to-be-made](kartavyā) [six-part](ṣaṭbhāgaṃ) [sanctum](garbhamandiram)
 
 ## mukta-m0-p07-v163
-[middle](madhyamā) [own+ten+part+less](sva+daśa+aṃśa+ūnā) [five+part+less](pañca+aṃśa+ūnā) [smallest](kanīyasī)
+[middle](madhyamā) [own-ten-part-less](svadaśāṃśonā) [five-part-less](pañcāṃśonā) [smaller](kanīyasī)
 
 ## mukta-m0-p07-v164
-[in-seventh](saptame) [in-seventh](saptame) [sight](dṛṣṭiḥ) [in-bull](vṛṣe) [in-lion](siṃhe) [in-banner](dhvaje) [auspicious](śubhā)
+[seventh](saptame) [seventh](saptame) [sight](dṛṣṭirvṛṣe) [bull](siṃhe) [lion](dhvaje) [flag](śubhā)
 
 ## mukta-m0-p07-v165
-[reclining+image+Īśa+liṅga](śayana+arcā+īśa+liṅgāni) [door+half](dvāra+ardhaṃ) [not](na) [should-transgress](vyatikramet)
+[sleeping-worship](śayanārceśaliṅgāni) [door-half](dvārārdhaṃ) [not](na) [exceed](vyatikramet)
 
 ## mukta-m0-p07-v166
-[that+in-front](tat+agre) [Vaiṣṇava](vaiṣṇavaṃ) [Brāhma](brāhmaṃ) [in-middle](madhye) [liṅga](liṅga) [of-Śiva](śivasya) [and](ca)
+[that-front](tadagre) [vaishnava](vaiṣṇavaṃ) [brahma](brāhmaṃ) [middle](madhye) [linga](liṅga) [shiva-and](śivasya) [ca](ca)
 
 ## mukta-m0-p07-v167
-[temple+spire+on-spires](prāsāda+śṛṅga+śṛṅgeṣu) [below+part](adhaḥ+bhāge) [indeed](tu) [covering](chādyakam)
+[temple-peak-peaks](prāsādaśṛṅgaśṛṅgeṣu) [lower-part](adhobhāge) [tu](tu) [covering](chādyakam)
 
 ## mukta-m0-p07-v168
-[muṇḍalīka](muṇḍalīkaṃ) [part+one](bhāgam+ekaṃ) [by-part](bhāgena) [tilaka](tilakaḥ) [likewise](tathā)
+[round-ornament](muṇḍalīkaṃ) [part-one](bhāgamekaṃ) [part-by](bhāgena) [tilaka-thus](tilakastathā)
 
 ## mukta-m0-p07-v169
-[without-support](nirādhāre) [root+wall](mūla+bhittau) [with-support](sādhāre) [encircling+walls](bhrama+bhittiṣu)
+[without-support](nirādhāre) [root-wall](mūlabhittau) [with-support](sādhāre) [revolving-walls](bhramabhittiṣu)
 
 ## mukta-m0-p07-v170
-[thirteen+above](trayodaśa+ūrdhe) [seven+half](sapta+ardhe) [omitted-parts](luptāni) [with-great+spires](ca+uru+śṛṅgakaiḥ)
+[thirteen-above](trayodaśorddhe) [seven-half](saptārddhe) [lost](luptāni) [coru-peaks](coruśṛṅgakaiḥ)
 
 ## mukta-m0-p07-v171
-[six+outside](ṣaṭ+bāhye) [fault+giving](doṣa+daṃ) [declared](proktaṃ) [five+middle](pañca+madhye) [not](na) [auspicious](śobhanam)
+[six-outer](ṣaḍbāhye) [fault-giving](doṣadaṃ) [proclaimed](proktaṃ) [five-middle](pañcamadhye) [not](na) [beautiful](śobhanam)
 
 ## mukta-m0-p07-v172
-[with-quarter+corners](sa+pāda+karṇayoḥ) [in-middle](madhye) [in-height](udaye) [twenty-five](pañca+viṃśatiḥ)
+[one-and-quarter-corners-middle](sapādakarṇayormadhye) [rise](udaye) [twenty-five](pañcaviṃśatiḥ)
 
 ## mukta-m0-p07-v173
-[five+beginning+nine+pair+end](pañca+ādi+nava+yugma+antaṃ) [divisions](khaṇḍāni) [in-them](teṣu) [in-order](anukramāt)
+[five-to-nine-pairs-end](pañcādinavayugmāntaṃ) [segments](khaṇḍāni) [those-in-order](teṣvanukramāt)
 
 ## mukta-m0-p07-v174
-[eight+beginning+sixty-eight+end](aṣṭa+ādau+aṣṭa+ṣaṣṭhi+antaṃ) [four+increase](catur+vṛddhyā) [indeed](tu) [sixteen](ṣoḍaśa)
+[eight-to-eight-sixty-end](aṣṭādavaṣṭaṣaṣṭhyantaṃ) [four-increase](caturvṛddhyā) [tu](tu) [sixteen](ṣoḍaśa)
 
 ## mukta-m0-p07-v175
-[upward](ūrdhvā) [eighteen+parts](aṣṭadaśa+aṃśāḥ) [should-be](syuḥ) [crosswise](tiryak) [sixteen](ṣoḍaśa) [indeed](eva) [and](ca)
+[upper](ūrdhvā) [eighteen-parts](aṣṭadaśāṃśāḥ) [syuḥ](syustiryakṣoḍaśa) [eva](eva) [ca](ca)

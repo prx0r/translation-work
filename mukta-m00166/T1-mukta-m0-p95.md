@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p95-v2351
-[mother](mātā) [slain](hata) [hundred](aśatva) [making](karī) [always](sadā) [may-be](astu)
+[mother-killed-hundred-elephant-doer](mātāhatāśatvakarī) [always-be](sadāstu)
 
 ## mukta-m0-p95-v2352
-[maternal-grandmother](mātāmahī)
+[mother's-mother](mātāmahī)
 
 ## mukta-m0-p95-v2353
-[mother](jananī) [mother](jananī) [maternal-grandmother](mātāmahī) [may-be-victorious](jīyāt) [great-goddess](maheśvarī)
+[mother-mother](jananījananī) [mother's-mother](mātāmahī) [conquer](jīyānmaheśvarī)
 
 ## mukta-m0-p95-v2354
 [satisfaction](tṛptiḥ)
 
 ## mukta-m0-p95-v2355
-[in-the-end](antataḥ) [whom](yām) [resorts-to](upāste) [she](sā) [satisfaction](tṛptiḥ) [limb](aṅga) [sleep](prasupti) [removing](hṛt)
+[finally](antato) [whom-worships](yāmupāste) [she](sā) [satisfaction-limb-sleep-stealing](tṛptiraṅgaprasuptihṛt)
 
 ## mukta-m0-p95-v2356
-[father](pitṛ) [mother](mātā)
+[father-mother](pitṛmātā)
 
 ## mukta-m0-p95-v2357
-[father](pitṛ) [named](ākhyam) [bodiless](nirvapuḥ) [abode](dhāma) [father-mother](pitṛmātā) [thus](iti) [she](sā) [considered](matā)
+[father-named](pitrākhyaṃ) [pouring-abode](nirvapurdhāma) [father-mother-thus](pitṛmāteti) [she-thought](sāmatā)
 
 ## mukta-m0-p95-v2358
-[paternal-grandmother](pitāmahī)
+[father's-mother](pitāmahī)
 
 ## mukta-m0-p95-v2359
-[become](bhūtaḥ) [he](saḥ) [source](prabhavaḥ) [of-whom](yasyāḥ) [great](mahatī) [this](iyam) [paternal-grandmother](pitāmahī)
+[being](bhūtaḥ) [he](sa) [origin](prabhavo) [whose](yasyā) [great-this](mahatīyaṃ) [father's-mother](pitāmahī)
 
 ## mukta-m0-p95-v2360
 [daughter-in-law](snuṣā)
 
 ## mukta-m0-p95-v2361
-[wide](viśāla) [eyed](akṣī) [victorious](jayati) [this](eṣā) [daughter-in-law](snuṣā) [slender](akṛśa) [great](mahā) [prosperity](udayā)
+[wide-eyed](viśālākṣī) [conquers-this](jayatyeṣā) [daughter-in-law-thin-great-rise](snuṣākṛśamahodayā)
 
 ## mukta-m0-p95-v2362
 [daughter's-daughter](dauhitriṇī)
 
 ## mukta-m0-p95-v2363
-[daughter](duhitā) [by-whose](yat) [grace](prasādena) [goddess](devī) [daughter's-daughter](dauhitriṇī) [thus](iti) [she](sā)
+[daughter](duhitā) [whose-grace](yatprasādena) [goddess](devī) [daughter's-daughter-thus](dauhitriṇīti) [she](sā)
 
 ## mukta-m0-p95-v2364
 [daughter](putrī)
 
 ## mukta-m0-p95-v2365
-[because](yat) [this](eṣā) [in-his-house](tadgṛhe) [daughter](putrī) [become](bhūtā) [some](kāpi) [world](jagat) [mother](prasūḥ)
+[since-this](yadeṣā) [that-house](tadgṛhe) [daughter](putrī) [become](bhūtā) [some](kāpi) [world-mother](jagatprasūḥ)
 
 ## mukta-m0-p95-v2366
 [granddaughter](pautrī)
 
 ## mukta-m0-p95-v2367
-[granddaughter](pautrī) [this](iyam) [supreme-goddess](parameśānī) [may-purify](pavitrīkurutām) [family](kulam)
+[granddaughter-this](pautrīyaṃ) [supreme-goddess](parameśānī) [purify](pavitrīkurutāṃ) [family](kulam)
 
 ## mukta-m0-p95-v2368
 [granddaughter](naptrī)
 
 ## mukta-m0-p95-v2369
-[granddaughter](naptrī) [thus](iti) [renowned](prathitā) [goddess](devī) [may-be](bhūyāt) [for-prosperity](bhūtyai) [and](ca) [for-satisfaction](tuṣṭaye)
+[granddaughter-thus](naptrīti) [famous](prathitā) [goddess](devī) [be](bhūyād) [prosperity-for](bhūtyai) [and](ca) [satisfaction-for](tuṣṭaye)
 
 ## mukta-m0-p95-v2370
-[child](śiśu) [loving](priyā)
+[child-dear](śiśupriyā)
 
 ## mukta-m0-p95-v2371
-[child](śiśu) [loving](priyā) [victorious](jayati) [this](eṣā) [unemaciated](akṛśā) [hope](āśā) [under](vaśa) [abiding](vartinī)
+[child-dear](śiśupriyā) [conquers-this-thin-hope-servant](jayatyeṣākṛśāśāvaśavartinī)
 
 ## mukta-m0-p95-v2372
-[breast](stana) [giving](dā)
+[breast-giver](stanadā)
 
 ## mukta-m0-p95-v2373
-[by-fortunate-one](dhanyena) [worshipped](pūjitā) [not](na) [may-be](syāt) [she](sā) [by-another](anyena) [equalled](tulita) [face](ānanaḥ)
+[fortunate-by](dhanyena) [worshipped](pūjitā) [not](na) [be](syāt) [he-other-by](so'nyena) [balanced-face](tulitānanaḥ)
 
 ## mukta-m0-p95-v2374
-[breast](stana) [stream](dhārā)
+[breast-stream](stanadhārā)
 
 ## mukta-m0-p95-v2375
-[there](tatra) [this](iyam) [victorious](jayatī) [goddess](īśānī) [breast](stana) [stream](dhārā) [indeed](eva) [only](kevalā)
+[there-this](tatreyaṃ) [conquers-goddess](jayatīśānī) [breast-stream-only](stanadhāraiva) [alone](kevalā)

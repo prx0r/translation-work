@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p03-v51
-twenty-eight(aṣṭāviṃśati) + thirty-six(ṣaṭtriṃśat) + angles(koṇaiḥ) should-be(syuḥ) five(pañca) projections(phālanāḥ)
+[twenty-eight-thirty-six-angles](aṣṭāviṃśatiṣaṭtriṃśatkoṇaiḥ) [should-be](syuḥ) [five](pañca) [phalas](phālanāḥ)
 
 ## mukta-m0-p03-v52
-thirty-two(dvātriṃśatī) fourth-part(caturthāṃśo) element-part(bhūta) + portion(aṃśa) + height(uccā) half-hundred(śatārddhaka)
+[thirty-two](dvātriṃśatī) [quarter](caturthāṃśo) [element-part-high](bhūtāṃśoccā) [half-hundred](śatārddhaka)
 
 ## mukta-m0-p03-v53
-sun(sūrya) + jaina(jaina) + half-hundred(śatārddha) + up-to(antaṃ) in-order(kramāt) two(dvi) + three(tri) + age(yuga) + parts(aṃśakaiḥ)
+[sun-jina-half-hundred-end](sūryajainaśatārddhāntaṃ) [in-order](kramāt) [two-three-yuga-parts](dvitriyugāṃśakaiḥ)
 
 ## mukta-m0-p03-v54
-three-part(tripado) jāḍya-kumbha(jāḍyakumbhaḥ) and(ca) two-part(dvipadaṃ) kaṇaka(kaṇakaṃ) likewise(tathā)
+[three-footed](tripado) [dull-pot-and](jāḍyakumbhaśca) [two-footed](dvipadaṃ) [kaṇaka-and](kaṇakaṃ) [thus](tathā)
 
 ## mukta-m0-p03-v55
-two-part(dvipadaṃ) khuraka(khurakaṃ) one-should-make(kuryāt) seven-part(saptabhāgaṃ) and(ca) kumbhaka(kumbhakam)
+[two-footed](dvipadaṃ) [khuraka](khurakaṃ) [should-make](kuryāt) [seven-part-and](saptabhāgaṃ) [pot](kumbhakam)
 
 ## mukta-m0-p03-v56
-kapota-āli(kapotāliḥ) in-three-parts(tribhāge) and(ca) puṣpa-kaṇṭha(puṣpakaṇṭho) with-age-parts(yugāṃśakaiḥ)
+[pigeon-list-third-part-and](kapotālistribhāge) [ca](ca) [flower-thorn](puṣpakaṇṭho) [yuga-parts](yugāṃśakaiḥ)
 
 ## mukta-m0-p03-v57
-in-corners(karṇeṣu) and(ca) guardians-of-directions(diśāṃpālāḥ) in-east-etc(prācyādiṣu) clockwise(pradakṣiṇāḥ)
+[in-ears-and](karṇeṣu) [ca](ca) [direction-guardians](diśāṃpālāḥ) [eastward-etc](prācyādiṣu) [clockwise](pradakṣiṇāḥ)
 
 ## mukta-m0-p03-v58
-with-enclosures(prākāraiḥ) with-water-outlets(jalaniṣkāsaiḥ) with-stairways(sopānaiḥ) with-gateways-etc(toraṇādibhiḥ)
+[with-walls](prākārair) [water-outlets](jalaniṣkāsaiḥ) [with-stairs](sopānaiḥ) [gateways-etc](toraṇādibhiḥ)
 
 ## mukta-m0-p03-v59
-gateway(toraṇaṃ) one-should-make(kārayet) of-that(tasya) slab(paṭṭaṃ) according-to-slab(paṭṭānusārataḥ)
+[gateway](toraṇaṃ) [should-cause](kārayet) [its](tasya) [plaque](paṭṭaṃ) [according-to-plaque](paṭṭānusārataḥ)
 
 ## mukta-m0-p03-v60
-by-wall(bhitti) + interior(garbha) + measure(pramāṇena) of-those-two(tayoḥ) in-middle(madhye) or(athavā) it-may-be(bhavet)
+[wall-cavity-measure](bhittigarbhapramāṇena) [of-those-two-middle-or](tayormadhye'thavā) [should-be](bhavet)
 
 ## mukta-m0-p03-v61
-ornate(vicitraṃ) gateway(toraṇaṃ) one-should-make(kuryāt) swing(dolā) of-deity(devasya) there(tatra) and(ca)
+[variegated](vicitraṃ) [gateway](toraṇaṃ) [should-make](kuryād) [swing](dolā) [of-deity](devasya) [there-and](tatra) [ca](ca)
 
 ## mukta-m0-p03-v62
-one(eka) + two(dvi) + three(tri) + four(catuḥ) + five(pañca) + six(rasa) + seven(sapta) + step(pada) + interval(antare)
+[one-two-three-four-five-six-seven-foot-interval](ekadvitricatuṣpañcarasasaptapadāntare)
 
 ## mukta-m0-p03-v63
-secret-part(guhya) + navel(nābhi) + breast(stana) + up-to(antaṃ) or(vā) threefold(trividho) vehicle(vāhana) + height(udayaḥ)
+[secret-navel-breast-end-or](guhyanābhistanāntaṃ) [vā](vā) [threefold](trividho) [vehicle-rise](vāhanodayaḥ)
 
 ## mukta-m0-p03-v64
-of-bull(vṛṣasya) at-end-of-Viṣṇu-part(viṣṇubhāgānte) in-sun(sūrye) up-to-sky-breast(vyomastanāntakam)
+[of-bull](vṛṣasya) [viṣṇu-part-end](viṣṇubhāgānte) [in-sun](sūrye) [sky-breast-end](vyomastanāntakam)
 
 ## mukta-m0-p03-v65
-of-hidden(gūḍhasya) in-front(agre) fourfold(catuṣkā) should-be(syāt) in-front-of-that(tadagre) dance-hall(nṛtyamaṇḍapam)
+[of-hidden-front](gūḍhasyāgre) [fourfold](catuṣkā) [should-be](syāt) [that-front](tadagre) [dance-pavilion](nṛtyamaṇḍapam)
 
 ## mukta-m0-p03-v66
-in-Jina-temple(jinālaye) in-four-directions(caturdikṣu) together-with(sahitaṃ) Jina-temple(jinamandiram)
+[in-jina-shrine](jinālaye) [in-four-directions](caturdikṣu) [together](sahitaṃ) [jina-shrine](jinamandiram)
 
 ## mukta-m0-p03-v67
-eight-square(aṣṭāpadaṃ) should-be-made(prakartavyaṃ) three-halled(triśālā) or(vā) enclosure(varāṇakam)
+[eight-footed](aṣṭāpadaṃ) [should-be-made](prakartavyaṃ) [three-halled-or](triśālā) [vā](vā) [varāṇaka](varāṇakam)
 
 ## mukta-m0-p03-v68
-in-north(uttare) chariot-opening(ratharandhraṃ) and(ca) declared(proktaṃ) by-Śrī-Viśvakarman(śrīviśvakarmaṇā)
+[in-north](uttare) [chariot-hole-and](ratharandhraṃ) [ca](ca) [declared](proktaṃ) [by-śrī-viśvakarman](śrīviśvakarmaṇā)
 
 ## mukta-m0-p03-v69
-of-different-metre(bhinnacchandā) not(na) to-be-made(kartavyā) temple(prāsāda) + seat(āsana) + situated(saṃsthistā)
+[different-meter](bhinnacchandā) [na](na) [should-be-made](kartavyā) [temple-seat-situated](prāsādāsanasaṃsthistā)
 
 ## mukta-m0-p03-v70
-temple(prāsādaṃ) one-should-make(kārayed) inside(antar) navel(nābhi) + piercing(vedha) + devoid-of(vivarjitam)
+[temple](prāsādaṃ) [should-cause](kārayet) [inner-navel-piercing-excluded](antarnābhivedhavivarjitam)
 
 ## mukta-m0-p03-v71
-radiance(prabhā) destroyed(naṣṭā) not(na) for-enjoyment(bhogāya) as(yathā) star(tārā) in-sun(divākare)
+[splendor](prabhā) [lost](naṣṭā) [na](na) [for-enjoyment](bhogāya) [as](yathā) [star](tārā) [in-sun](divākare)
 
 ## mukta-m0-p03-v72
-in-front-of-Viṣṇu(viṣṇoḥ) + in-front(agre) should-be(bhavet) Viṣṇu(viṣṇuḥ) Jina(jinaḥ) in-Jaina(jaine) sun(raviḥ) in-sun(ravau)
+[of-viṣṇu-front](viṣṇoragre) [should-be-viṣṇu](bhavedviṣṇur) [jina](jino) [in-jaina](jaine) [sun](ravau) [sun](raviḥ)
 
 ## mukta-m0-p03-v73
-of-Śiva(śivasya) in-front(agre) of-another-deity(anyadevasya) in-visual-piercing(dṛṣṭivedhe) great(mahat) danger(bhayam)
+[of-śiva-front](śivasyāgre) [of-another-deity]('nyadevasya) [sight-piercing](dṛṣṭivedhe) [great-fear](mahadbhayam)
 
 ## mukta-m0-p03-v74
-one-may-place(sthāpayet) other-deities(anyadevāṃśca) there(tatra) fault(doṣo) not(na) exists(vidyate)
+[should-place](sthāpayed) [other-deities-and](anyadevāṃśca) [there](tatra) [fault](doṣo) [na](na) [is-known](vidyate)
 
 ## mukta-m0-p03-v75
-seen(dṛṣṭaṃ) not(na) one-should-transgress(laṅghayet) there(tatra) it-destroys(hanti) merit(puṇyaṃ) formerly-done(purākṛtam)
+[page-8](pṛ0) [8](8) [seen](dṛṣṭaṃ) [na](na) [should-transgress](laṅghayet) [there](tatra) [destroys](hanti) [merit](puṇyaṃ) [formerly-done](purākṛtam)
