@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p154-v3826
-[kṣatriyaḥ](kṣatriyaḥ) [vakraśikhaḥ](vakraśikhaḥ) [baddhāṃjaliḥ](baddhāṃjaliḥ) [dakṣiṇakakṣe+adhomukhakhaḍgaḥ](dakṣiṇakakṣe'dhomukhakhaḍgaḥ)
+[kṣatriya](kṣatriyaḥ) [crooked+crest](vakraśikhaḥ) [joined+palms](baddhāṃjaliḥ) [right+armpit+downward+facing+sword](dakṣiṇakakṣe'dhomukhakhaḍgaḥ)
 
 ## mukta-m0-p154-v3827
-[vyādhaḥ](vyādhaḥ) [sāṃjalibandhaḥ](sāṃjalibandhaḥ) [vāme+adhanurbāṇau](vāmedhanurbāṇau) [vakraśikhaḥ](vakraśikhaḥ) [padoḥ+pādvau](padoḥpādvau)
+[hunter](vyādhaḥ) [with+joined+palms](sāṃjalibandhaḥ) [left+bow+and+arrow](vāmedhanurbāṇau) [crooked+crest](vakraśikhaḥ) [on+feet+sandals](padoḥpādvau)
 
 ## mukta-m0-p154-v3828
-[brāhmaṇaḥ](brāhmaṇaḥ) [sāṃjalibandhaḥ](sāṃjalibandhaḥ) [vāme+gadā](vāmegadā)
+[brāhmaṇa](brāhmaṇaḥ) [with+joined+palms](sāṃjalibandhaḥ) [left+mace](vāmegadā)
 
 ## mukta-m0-p154-v3829
-[kṣatriyaḥ](kṣatriyaḥ) [sāṃjalibandhaḥ](sāṃjalibandhaḥ)
+[kṣatriya](kṣatriyaḥ) [with+joined+palms](sāṃjalibandhaḥ)
 
 ## mukta-m0-p154-v3830
-[gopaḥ](gopaḥ) [viṇuvādakanibhaḥ](viṇuvādakanibhaḥ)
+[cowherd](gopaḥ) [like+flute+player](viṇuvādakanibhaḥ)
 
 ## mukta-m0-p154-v3831
-[śūdraḥ](śūdraḥ) [dskṣakare+kṣurikā](dskṣakare kṣurikā)
+[śūdra](śūdraḥ) [right+hand+razor](dskṣakare) [razor](kṣurikā)
 
 ## mukta-m0-p154-v3832
-[vaiśyaḥ](vaiśyaḥ) [sāṃjalibandhaḥ](sāṃjalibandhaḥ)
+[vaiśya](vaiśyaḥ) [with+joined+palms](sāṃjalibandhaḥ)
 
 ## mukta-m0-p154-v3833
-[brāhmaṇaḥ](brāhmaṇaḥ) [sāṃjalibandhaḥ](sāṃjalibandhaḥ)
+[brāhmaṇa](brāhmaṇaḥ) [with+joined+palms](sāṃjalibandhaḥ)
 
 ## mukta-m0-p154-v3834
-[brāhmaṇaḥ](brāhmaṇaḥ) [dvayoḥ+karayoḥ+puṣpamālā](dvayoḥkarayoḥ puṣpamālā)
+[brāhmaṇa](brāhmaṇaḥ) [in+two+hands+flower+garland](dvayoḥkarayoḥ) [flower+garland](puṣpamālā)
 
 ## mukta-m0-p154-v3835
-[paṃcamaḥ](paṃcamaḥ) [sāṃjalibandhaḥ](sāṃjalibandhaḥ)
+[pañcama](paṃcamaḥ) [with+joined+palms](sāṃjalibandhaḥ)
 
 ## mukta-m0-p154-v3836
-[kṣatriyaḥ](kṣatriyaḥ) [sāṃjalibandhaḥ](sāṃjalibandhaḥ) [dvayoḥ+kakṣayoḥ+dhautavastrāsanajapamālādigranthiḥ](dvayoḥ kakṣayoḥ dhautavastrāsanajapamālādigranthiḥ)
+[kṣatriya](kṣatriyaḥ) [with+joined+palms](sāṃjalibandhaḥ) [in+both+armpits+washed+cloth+seat+rosary+etc.+bundle](dvayoḥ) [armpits](kakṣayoḥ) [washed+cloth+seat+rosary+etc.+bundle](dhautavastrāsanajapamālādigranthiḥ)
 
 ## mukta-m0-p154-v3837
-[brāhmaṇaḥ](brāhmaṇaḥ) [sāṃjalibandhaḥ](sāṃjalibandhaḥ) [kirīṭī](kirīṭī) [dakṣiṇakakṣe+paraśuḥ](dakṣiṇakakṣe paraśuḥ)
+[brāhmaṇa](brāhmaṇaḥ) [with+joined+palms](sāṃjalibandhaḥ) [wearing+crown](kirīṭī) [right+armpit+axe](dakṣiṇakakṣe) [axe](paraśuḥ)
 
 ## mukta-m0-p154-v3838
-[śūdraḥ](śūdraḥ) [sāṃjalibaṃdhaḥ](sāṃjalibaṃdhaḥ) [vāme+vastragranthiḥ](vāme vastragranthiḥ)
+[śūdra](śūdraḥ) [with+joined+palms](sāṃjalibaṃdhaḥ) [left+cloth+bundle](vāme) [cloth+bundle](vastragranthiḥ)
 
 ## mukta-m0-p154-v3839
-[vaiśyakanyā](vaiśyakanyā) [sāṃjalibaṃdhā](sāṃjalibaṃdhā)
+[vaiśya+girl](vaiśyakanyā) [with+joined+palms](sāṃjalibaṃdhā)
 
 ## mukta-m0-p154-v3840
-[brāhmaṇaḥ](brāhmaṇaḥ) [sāṃjalibaṃdhaḥ](sāṃjalibaṃdhaḥ)
+[brāhmaṇa](brāhmaṇaḥ) [with+joined+palms](sāṃjalibaṃdhaḥ)
 
 ## mukta-m0-p154-v3841
-[brāhmaṇaḥ](brāhmaṇaḥ) [sāṃjalibaṃdhaḥ](sāṃjalibaṃdhaḥ)
+[brāhmaṇa](brāhmaṇaḥ) [with+joined+palms](sāṃjalibaṃdhaḥ)
 
 ## mukta-m0-p154-v3842
-[brāhmaṇaḥ](brāhmaṇaḥ) [sāṃjalibaṃdhaḥ](sāṃjalibaṃdhaḥ)
+[brāhmaṇa](brāhmaṇaḥ) [with+joined+palms](sāṃjalibaṃdhaḥ)
 
 ## mukta-m0-p154-v3843
-[paṃcamaḥ](paṃcamaḥ) [kirīṭī](kirīṭī) [sāṃjalibaṃdhaḥ](sāṃjalibaṃdhaḥ) [vāme+khaḍgaḥ](vāmekhaḍgaḥ)
+[pañcama](paṃcamaḥ) [wearing+crown](kirīṭī) [with+joined+palms](sāṃjalibaṃdhaḥ) [left+sword](vāmekhaḍgaḥ)
 
 ## mukta-m0-p154-v3844
-[buruḍaḥ](buruḍaḥ) [vastrakambalādinirmitavastuviśeṣeṇāvṛtakarṇāntamastakaḥ](vastrakambalādinirmitavastuviśeṣeṇāvṛtakarṇāntamastakaḥ) [vāmakakṣe+vāśikā](vāmakakṣe vāśikā) [sāṃjalibaṃdhaḥ](sāṃjalibaṃdhaḥ)
+[buruḍa](buruḍaḥ) [head+covered+up+to+ears+with+object+made+of+cloth+blanket+etc.](vastrakambalādinirmitavastuviśeṣeṇāvṛtakarṇāntamastakaḥ) [left+armpit+bag](vāmakakṣe) [bag](vāśikā) [with+joined+palms](sāṃjalibaṃdhaḥ)
 
 ## mukta-m0-p154-v3845
-[brāhmaṇaḥ](brāhmaṇaḥ) [sāṃjalibaṃdhaḥ](sāṃjalibaṃdhaḥ) [jaṭāmakuṭadhārī](jaṭāmakuṭadhārī)
+[brāhmaṇa](brāhmaṇaḥ) [with+joined+palms](sāṃjalibaṃdhaḥ) [wearing+matted+hair+crown](jaṭāmakuṭadhārī)
 
 ## mukta-m0-p154-v3846
-[śūdraḥ](śūdraḥ) [sāṃjalibaṃdhaḥ](sāṃjalibaṃdhaḥ)
+[śūdra](śūdraḥ) [with+joined+palms](sāṃjalibaṃdhaḥ)
 
 ## mukta-m0-p154-v3847
-[kṣatriyaḥ](kṣatriyaḥ) [vakraśikhaḥ](vakraśikhaḥ) [vāmakare+śilāputrakavān](vāmakare śilāputrakavān) [prasṛtapadbhyām+upaviṣṭaḥ](prasṛtapadbhyāmupaviṣṭaḥ)
+[kṣatriya](kṣatriyaḥ) [crooked+crest](vakraśikhaḥ) [left+hand+holding+stone+child](vāmakare) [holding+stone+child](śilāputrakavān) [seated+with+outstretched+feet](prasṛtapadbhyāmupaviṣṭaḥ)
 
 ## mukta-m0-p154-v3848
-[vyādhaḥ](vyādhaḥ) [dakṣakare+hrasvaṃ+kāṣṭhādicchedakaṃ+khaḍgasadṛśamāyudhaṃdadhānaḥ](dakṣakare hrasvaṃ kāṣṭhādicchedakaṃ khaḍgasadṛśamāyudhaṃdadhānaḥ)
+[hunter](vyādhaḥ) [right+hand+holding+short+wood+etc.+cutting+sword-like+weapon](dakṣakare) [holding+short+wood+etc.+cutting+sword-like+weapon](hrasvaṃ) [wood+etc.+cutting+sword-like+weapon](kāṣṭhādicchedakaṃ) [sword-like+weapon](khaḍgasadṛśamāyudhaṃdadhānaḥ)
 
 ## mukta-m0-p154-v3849
-[brāhmaṇaḥ](brāhmaṇaḥ) [sāṃjalibaṃdhaḥ](sāṃjalibaṃdhaḥ)
+[brāhmaṇa](brāhmaṇaḥ) [with+joined+palms](sāṃjalibaṃdhaḥ)
 
 ## mukta-m0-p154-v3850
-[brāhmaṇaḥ](brāhmaṇaḥ) [sāṃjalibaṃdhaḥ](sāṃjalibaṃdhaḥ)
+[brāhmaṇa](brāhmaṇaḥ) [with+joined+palms](sāṃjalibaṃdhaḥ)

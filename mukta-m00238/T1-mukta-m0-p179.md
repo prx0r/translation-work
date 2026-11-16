@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p179-v4451
-[vikramāśvinaśuklasya](vikramāśvinaśuklasya) [trayodaśyāṃ](trayodaśyāṃ) [bhṛgordine](bhṛgordine)
+[vikrama-era](vikramā) [aśvina-month](aśvina) [bright-fortnight](śuklasya) [on-thirteenth-day](trayodaśyāṃ) [on-friday](bhṛgu) [on-day](dine)
 
 ## mukta-m0-p179-v4452
-[muṣṭipraśnottaravidhirevaṃ](muṣṭipraśnottaravidhirevaṃ) [rūpeṇa](rūpeṇa) [varṇitaḥ](varṇitaḥ)
+[fist](muṣṭi) [question](praśna) [answer](uttara) [method](vidhiḥ) [thus](evaṃ) [in-form](rūpeṇa) [described](varṇitaḥ)
 
 ## mukta-m0-p179-v4453
-[kaṃdaṃjīvaśca](kaṃdaṃjīvaśca) [śuṣkaṃ](śuṣkaṃ) [ca](ca) [tṛṇaṃ](tṛṇaṃ) [gomayameva](gomayameva) [ca](ca)
+[bulb](kaṃdaṃ) [living-thing](jīvaḥ) [and](ca) [dry-thing](śuṣkaṃ) [and](ca) [grass](tṛṇaṃ) [cow-dung](gomayam) [indeed](eva) [and](ca)
 
 ## mukta-m0-p179-v4454
-[śilādhānyaṃ](śilādhānyaṃ) [pravālaśca](pravālaśca) [maṇimatsyau](maṇimatsyau) [tathaiva](tathaiva) [ca](ca)
+[stone](śilā) [grain](dhānyaṃ) [coral](pravālaḥ) [and](ca) [gem](maṇi) [fish](matsyau) [likewise](tathaiva) [and](ca)
 
 ## mukta-m0-p179-v4455
-[bhasmaromāsthikarpūra](bhasmaromāsthikarpūra) [tvagbhedādgaṇita](tvagbhedādgaṇita) [kramaḥ](kramaḥ)
+[ash](bhasma) [hair](roma) [bone](asthi) [camphor](karpūra) [skin](tvag) [by-difference](bhedāt) [counted](gaṇita) [order](kramaḥ)
 
 ## mukta-m0-p179-v4456
-[tṛtīyaṃsyā](tṛtīyaṃsyā) [tu](tu) [kārpāsaṃ](kārpāsaṃ) [caturthe](caturthe) [karmakathyate](karmakathyate)
+[third](tṛtīyaṃ) [indeed](syā) [but](tu) [cotton](kārpāsaṃ) [in-fourth](caturthe) [action](karma) [is-stated](kathyate)
 
 ## mukta-m0-p179-v4457
-[saptamaṃparṇamatrasyādaṣṭamaṃ](saptamaṃparṇamatrasyādaṣṭamaṃ) [gomayaṃ](gomayaṃ) [tathā](tathā)
+[seventh](saptamaṃ) [leaf](parṇam) [here](atra) [should-be](syāt) [eighth](aṣṭamaṃ) [cow-dung](gomayaṃ) [likewise](tathā)
 
 ## mukta-m0-p179-v4458
-[ekādaśaṃ](ekādaśaṃ) [śaṣkamatradvādaśaṃ](śaṣkamatradvādaśaṃ) [lavaṇaṃ](lavaṇaṃ) [bhavet](bhavet)
+[eleventh](ekādaśaṃ) [hare](śaṣkam) [here](atra) [twelfth](dvādaśaṃ) [salt](lavaṇaṃ) [should-be](bhavet)
 
 ## mukta-m0-p179-v4459
-[rasaḥ](rasaḥ) [paṃcadaśojñeyaḥ](paṃcadaśojñeyaḥ) [śrūyatāmaṃbike](śrūyatāmaṃbike) [śive](śive)
+[mercury-essence](rasaḥ) [fifteenth](paṃcadaśaḥ) [to-be-known](jñeyaḥ) [listen](śrūyatām) [O-Ambika](aṃbike) [O-Shiva](śive)
 
 ## mukta-m0-p179-v4460
-[(ṭīku)]((ṭīku)) [-]( -) [padyadalli](padyadalli) [baṃda](baṃda) [lekkhavannu](lekkhavannu) [noḍikkoṃḍu](noḍikkoṃḍu) [iṃthā](iṃthā) [padārthaveṃdu](padārthaveṃdu) [gaṇitavannu](gaṇitavannu) [suṇisikkoṃḍu](suṇisikkoṃḍu) [heluva](heluva) [ślokagala](ślokagala) [yaraḍuprakāragalannu](yaraḍuprakāragalannu) [īgaṇitakke](īgaṇitakke) [yaraḍu](yaraḍu) [prakāra](prakāra) [sūtragalannu](sūtragalannu) [saha](saha) [baradu](baradu) [ive](ive) [||](||) [ivannu](ivannu) [buddhivantaru](buddhivantaru) [noḍi](noḍi) [tilidu](tilidu) [kkolatakkadducinnavu](kkolatakkadducinnavu) [nīru](nīru) [verpabala](verpabala) [śippe](śippe) [śilā](śilā) [guḍa](guḍa) [carma](carma) [bhasmagalu](bhasmagalu) [|](|) [maṇṇele](maṇṇele) [velaliyu](velaliyu) [nakhavu](nakhavu) [gomaya](gomaya) [nīrasa](nīrasa) [tāmravādiyol](tāmravādiyol) [||](||) [1](1) [||](||) [annavu](annavu) [hatti](hatti) [togalu](togalu) [gurpavalaṃpū](gurpavalaṃpū) [tṛṇa](tṛṇa) [kappura](kappura) [cannele](cannele) [|](|) [belli](belli) [berdavasa](berdavasa) [gomaya](gomaya) [lohavu](lohavu) [bhasmavādiyol](bhasmavādiyol) [||](||) [2](2) [||](||) [kappura](kappura) [veru](veru) [nīraḍike](nīraḍike) [kāyi](kāyi) [kurul](kurul) [maṇi](maṇi) [belli](belli) [hatti](hatti) [|](|) [maṇsophele](maṇsophele) [śippe](śippe) [tāmra](tāmra) [togaluppugalīpa](togaluppugalīpa) [dinārujātiyol](dinārujātiyol) [||](||) [3](3) [||](||) [tuppavu](tuppavu) [bella](bella) [hullaḍike](hullaḍike) [kappura](kappura) [lohavu](lohavu) [tāmra](tāmra) [bhasmavu](bhasmavu) [meluppu](meluppu) [sajīva](sajīva) [keśa](keśa) [yallu](yallu) [śippeyu](śippeyu) [gomaya](gomaya) [śupkacarmagalu](śupkacarmagalu) [||](||) [4](4) [||](||) [belliyu](belliyu) [kappura](kappura) [pavala](pavala) [ratnavu](ratnavu) [hattiyu](hattiyu) [śippe](śippe) [tuppamu](tuppamu) [|](|) [bellavu](bellavu) [kālu](kālu) [maṇṇeluvu](maṇṇeluvu) [kalkuruluppu](kalkuruluppu) [puṣpabhūtigalu](puṣpabhūtigalu) [||](||) [5](5) [||](||) [yallapadārthabhedagala](yallapadārthabhedagala) [kelidabellava](kelidabellava) [|](|) [pelveniṃdirāvallabhasodarī](pelveniṃdirāvallabhasodarī) [karuṇadiṃdalikautukamāda](karuṇadiṃdalikautukamāda) [rītiyim](rītiyim)
+[commentary](ṭīku) [in-verse](padyadalli) [come](baṃda) [number](lekkhavannu) [having-seen](noḍikkoṃḍu) [such](iṃthā) [substance](padārthaveṃdu) [calculation](gaṇitavannu) [having-heard](suṇisikkoṃḍu) [telling](heluva) [verses](ślokagala) [two-types](yaraḍuprakāragalannu) [now](ī) [calculation](gaṇitakke) [two-types](yaraḍu) [formulas](prakāra) [rules](sūtragalannu) [also](saha) [written](baradu) [are](ive) [these](ivannu) [wise-ones](buddhivantaru) [seeing](noḍi) [knowing](tilidu) [to-be-understood](kkolatakkaddu) [gold](cinnavu) [water](nīru) [root](verpa) [strength](bala) [shell](śippe) [stone](śilā) [jaggery](guḍa) [skin](carma) [ashes](bhasmagalu) [earth](maṇṇele) [creeper](velaliyu) [nail](nakhavu) [cow-dung](gomaya) [water-essence](nīrasa) [copper](tāmravādiyol) [grain](annavu) [cotton](hatti) [bark](togalu) [coral](gurpavalaṃpū) [grass](tṛṇa) [camphor](kappura) [sandal](cannele) [silver](belli) [root](berda) [cloth](vasa) [cow-dung](gomaya) [metal](lohavu) [ash](bhasmavādiyol) [camphor](kappura) [root](veru) [areca-nut](nīraḍike) [fruit](kāyi) [short](kurul) [gem](maṇi) [silver](belli) [cotton](hatti) [earth](maṇ) [bark](sophele) [shell](śippe) [copper](tāmra) [bark](togal) [salt](uppugalīpa) [gold-type](dinārujātiyol) [ghee](tuppavu) [jaggery](bella) [grass](hull) [areca-nut](aḍike) [camphor](kappura) [metal](lohavu) [copper](tāmra) [ash](bhasmavu) [salt](meluppu) [living](sajīva) [hair](keśa) [sesame](yallu) [shell](śippeyu) [cow-dung](gomaya) [dry-skin](śupkacarmagalu) [silver](belliyu) [camphor](kappura) [coral](pavala) [gem](ratnavu) [cotton](hattiyu) [shell](śippe) [ghee](tuppamu) [jaggery](bellavu) [milk](kālu) [earth](maṇṇeluvu) [stone](kal) [short](kurul) [salt](uppu) [flower](puṣpa) [ash](bhūtigalu) [all](yalla) [substance](padārtha) [differences](bhedagala) [having-heard](kelida) [all](bellava) [I-tell](pelveniṃ) [Indira's-beloved](dirāvallabha) [sister](sodarī) [with-compassion](karuṇadiṃdal) [this](ika) [wonder](autuka) [made](māda) [manner](rītiyim)
 
 ## mukta-m0-p179-v4461
-[(ṭīku)]((ṭīku)) [-]( -) [yale](yale) [hatti](hatti) [dhānya](dhānya) [loha](loha) [yalegal](yalegal) [jīvanu](jīvanu) [beru](beru) [śuṣka](śuṣka) [rasa](rasa) [modalāgi](modalāgi) [||](||) [1](1) [||](||) [phala](phala) [hatti](hatti) [śileya](śileya) [rasadol](rasadol) [yaleyaṃ](yaleyaṃ) [śuṣka](śuṣka) [maṇṇugalivarol](maṇṇugalivarol) [||](||) [2](2) [||](||) [phala](phala) [carma](carma) [dhānya](dhānya) [jīvaru](jīvaru) [yale](yale) [śile](śile) [rasa](rasa) [uppu](uppu) [modalādavagal](modalādavagal) [||](||) [3](3) [||](||) [yalu](yalu) [śuṣka](śuṣka) [sagaṇi](sagaṇi) [uppugalaśile](uppugalaśile) [beruṃ](beruṃ) [rasa](rasa) [jīvarīparitorum](jīvarīparitorum)
+[commentary](ṭīku) [sesame](yale) [cotton](hatti) [grain](dhānya) [metal](loha) [sesame-leaves](yalegal) [living-thing](jīvanu) [root](beru) [dry-thing](śuṣka) [essence](rasa) [beginning-with](modalāgi) [fruit](phala) [cotton](hatti) [stone](śileya) [in-essence](rasadol) [sesame](yaleyaṃ) [dry](śuṣka) [earths](maṇṇugalivarol) [fruit](phala) [skin](carma) [grain](dhānya) [living-things](jīvaru) [sesame](yale) [stone](śile) [essence](rasa) [salt](uppu) [beginning-with-these](modalādavagal) [sesame](yalu) [dry](śuṣka) [cow-dung](sagaṇi) [salts](uppugala) [stone](śile) [root](beruṃ) [essence](rasa) [living-things](jīvarī) [in-this-manner](paritorum)
 
 ## mukta-m0-p179-v4462
-[vedāste](vedāste) [bahavastatopi](bahavastatopi) [bahavaśśāstrādayo](bahavaśśāstrādayo) [bhārataṃ](bhārataṃ) [kāvyaṃ](kāvyaṃ) [cādyamapīkṣītuṃsapadinonaivāsti](cādyamapīkṣītuṃsapadinonaivāsti) [buddhiḥ](buddhiḥ) [kalau](kalau)
+[vedas](vedāḥ) [they](te) [many](bahavaḥ) [than-that](tataḥ) [also](api) [many](bahavaḥ) [scriptures](śāstrā) [and-others](ādayaḥ) [Mahabharata](bhārataṃ) [poem](kāvyaṃ) [and](ca) [first](ādyam) [also](api) [to-see](īkṣītuṃ) [at-once](sapadi) [not](na) [indeed](eva) [is](asti) [intellect](buddhiḥ) [in-Kali-age](kalau)
 
 ## mukta-m0-p179-v4463
-[itthaṃbodhita](itthaṃbodhita) [eṣa](eṣa) [kṛṣṇadharaṇī](kṛṣṇadharaṇī) [pālojaganmātṛkā](pālojaganmātṛkā) [devīsarvasurādhike](devīsarvasurādhike) [tyupaviśatyuddāmavāgvaibhavaḥ](tyupaviśatyuddāmavāgvaibhavaḥ)
+[thus](itthaṃ) [instructed](bodhitaḥ) [this](eṣaḥ) [Krishna](kṛṣṇa) [earth](dharaṇī) [protector](pālaḥ) [world](jagat) [mother](mātṛkā) [goddess](devī) [all](sarva) [gods](sura) [supreme](adhike) [thus](iti) [sits-near](upaviśati) [abundant](uddāma) [speech](vāg) [majesty](vaibhavaḥ)
 
 ## mukta-m0-p179-v4464
-[saṃkrīḍanaṃsaṃracitaṃ](saṃkrīḍanaṃsaṃracitaṃ) [suramyaṃ](suramyaṃ) [jīyādbhacandrāvadhibhūtalesmin](jīyādbhacandrāvadhibhūtalesmin) [||](||) [3](3) [-]( -) [||](||)
+[sport](saṃkrīḍanaṃ) [well-arranged](saṃracitaṃ) [very-delightful](suramyaṃ) [may-it-triumph](jīyāt) [moon](bha) [moon](candra) [limit](avadhi) [on-earth](bhūtalesmin)
 
 ## mukta-m0-p179-v4465
-[eteṣāṃ](eteṣāṃ) [kāraṇībhūta](kāraṇībhūta) [sadanāni](sadanāni) [tathaiva](tathaiva) [hi](hi)
+[of-these](eteṣāṃ) [being-cause](kāraṇībhūta) [abodes](sadanāni) [likewise](tathaiva) [indeed](hi)
 
 ## mukta-m0-p179-v4466
-[etanmilitvāṣaṭtriṃśaduttaradviśataṃpadam](etanmilitvāṣaṭtriṃśaduttaradviśataṃpadam)
+[this](etat) [having-combined](militvā) [thirty-six](ṣaṭtriṃśat) [plus](uttara) [two-hundred](dviśataṃ) [places](padam)
 
 ## mukta-m0-p179-v4467
-[śūlanārakamārabhyasakāraṇagṛhāṇi](śūlanārakamārabhyasakāraṇagṛhāṇi) [vai](vai)
+[from-Shula-hell](śūla-nārakam) [beginning-with](ārabhya) [with-cause](sakāraṇa) [abodes](gṛhāṇi) [indeed](vai)
 
 ## mukta-m0-p179-v4468
-[anṛtaṃ](anṛtaṃ) [yastu](yastu) [vadati](vadati) [(narakakrimi)]((narakakrimi)) [revasaḥ](revasaḥ)
+[untruth](anṛtaṃ) [who](yaḥ) [indeed](tu) [speaks](vadati) [hell-worm](naraka-krimi) [becomes](revasaḥ)
 
 ## mukta-m0-p179-v4469
-[svāmidro](svāmidro) [hī](hī) [bhavati](bhavati) [yo](yo) [(mahāraurava)]((mahāraurava)) [maśnute](maśnute)
+[master](svāmi) [betrayer](drohī) [indeed](hi) [becomes](bhavati) [who](yaḥ) [Maharaurava-hell](mahāraurava) [experiences](maśnute)
 
 ## mukta-m0-p179-v4470
-[mitradrohī](mitradrohī) [bhavati](bhavati) [yaḥ](yaḥ) [(tapanaṃ)]((tapanaṃ)) [narakaṃ](narakaṃ) [vrajet](vrajet)
+[friend](mitra) [betrayer](drohī) [becomes](bhavati) [who](yaḥ) [Tapana-hell](tapanaṃ) [hell](narakaṃ) [goes-to](vrajet)
 
 ## mukta-m0-p179-v4471
-[atyapekṣī](atyapekṣī) [bhavati](bhavati) [yassa](yassa) [(piśāco)]((piśāco)) [bhavennaraḥ](bhavennaraḥ)
+[excessively-greedy](atyapekṣī) [becomes](bhavati) [who](yaḥ) [he](saḥ) [ghost](piśācaḥ) [becomes](bhavet) [man](naraḥ)
 
 ## mukta-m0-p179-v4472
-[rājahelanamātanvan](rājahelanamātanvan) [(kumbhīpākaṃ)]((kumbhīpākaṃ)) [vrajet](vrajet) [pumān](pumān)
+[king](rāja) [disrespect](helanam) [committing](ātanvan) [Kumbhipaka-hell](kumbhīpākaṃ) [goes-to](vrajet) [man](pumān)
 
 ## mukta-m0-p179-v4473
-[(asīpatrā)]((asīpatrā)) [khyanarake](khyanarake) [jāyate](jāyate) [rājadūṣakaḥ](rājadūṣakaḥ)
+[Asipatra-named](asīpatrā-ākhya) [in-hell](narake) [is-born](jāyate) [king](rāja) [reviler](dūṣakaḥ)
 
 ## mukta-m0-p179-v4474
-[rājadārānkāmayāno]('ndhatemā) [narakaṃ](narakaṃ) [vrajet](vrajet)
+[king's](rāja) [wives](dārān) [desiring](kāmayānaḥ) [Andhatama-hell](andhatemā) [hell](narakaṃ) [goes-to](vrajet)
 
 ## mukta-m0-p179-v4475
-[dayāvihinobhūteṣu](dayāvihinobhūteṣu) [(gaṇḍaśailo)]((gaṇḍaśailo)) [bhaveddhruvam](bhaveddhruvam)
+[compassion](dayā) [devoid](vihinaḥ) [toward-beings](bhūteṣu) [Gandashaila-hell](gaṇḍaśailaḥ) [becomes](bhavet) [surely](dhruvam)
