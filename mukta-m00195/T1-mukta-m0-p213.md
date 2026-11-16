@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p213-v5301
-[of-lower-ones](adharāṇām)+[supreme-glory](abhiśriyam) [we-praise](stumaḥ) [that](tam) [lord](devam)
+of-lower-ones(adharāṇām) + splendor(abhiśriyam)
 
 ## mukta-m0-p213-v5302
-[sacrifice](kratu)+[protector](paḥ) [mighty](ugraḥ) [he](saḥ) [is](asti)
+sacrifice-protecting(kratupaḥ)
 
 ## mukta-m0-p213-v5303
-[banner](ketum)+[we-approach](īmahe) [radiant](bhāsvaram) [him](tam) [for-aid](ūtaye)
+banner(ketum) + we-approach(īmahe)
 
 ## mukta-m0-p213-v5304
-[strength](sahaḥ)+[maker](kṛtaḥ) [powerful](śaktimān) [he](saḥ) [is](asti)
+made-strong(sahaṣkṛtaḥ)
 
 ## mukta-m0-p213-v5305
-[for-growth](vṛdhe) [for-prosperity](puṣṭaye) [for-us](naḥ) [be](bhava)
+for-growth(vṛdhe)
 
 ## mukta-m0-p213-v5306
-[away](apāk)+[seeds](ūṃretāgūṃsi) [he-quickens](jinvati) [the-foes](arīn) [driving](nudan)
+away(apā) + waters(gūṃ) + beings(retāgūṃsi) + he-quickens(jinvati)
 
 ## mukta-m0-p213-v5307
-[lights](jyotīgūṃṣi)+[flames](arcayaḥ) [shining](dīpyamānāḥ) [rise](udyan) [forth](pra)
+lights(jyotīgūṃṣi) + flames(arcayaḥ)
 
 ## mukta-m0-p213-v5308
-[in-shelter](śarmaṇi) [in-protection](varaṇe) [in-refuge](gṛhe) [yours](tava)
+in-shelter(śarmaṇi)
 
 ## mukta-m0-p213-v5309
-[songs](giraḥ) [praises](stutīḥ) [voices](vācaḥ) [we-offer](dadhmahe)
+songs(giraḥ)
 
 ## mukta-m0-p213-v5310
-[we-hold](dhṛṇīmahe) [firmly](dṛḍham) [in-mind](manasi) [you](tvām)
+we-hold(dhṛṇīmahe)
 
 ## mukta-m0-p213-v5311
-[to](ā)+[invoked](hutaḥ) [called](āhūtaḥ) [come](ehi) [here](atra)
+invoked(āhutaḥ)
 
 ## mukta-m0-p213-v5312
-[awaken](bodhi)+[us](naḥ) [enlighten](prabodhaya) [now](idānīm) [lord](prabho)
+awakener(bodhinaḥ)
 
 ## mukta-m0-p213-v5313
-[here](iha)+[blessings](āśiṣaḥ) [prayers](prārthanāḥ) [grant](dehi) [us](naḥ)
+here(iha) + blessings(āśiṣaḥ)
 
 ## mukta-m0-p213-v5314
-[with-hymns](manmabhiḥ) [with-thoughts](dhībhiḥ) [with-praises](stomaiḥ) [we-worship](yajāmahe)
+with-prayers(manmabhiḥ)
 
 ## mukta-m0-p213-v5315
-[with-fruit-bearing](phalinī)+[bakula-trees](bakulaiḥ)+[endowed](yuktaṃ) [bath](snānam)+[of-Mars](bhaumasya) [for-satisfaction](tuṣṭaye)
+end(||]) + end(||) + with-fruit-bearing(phalinī) + and-bakul-trees(bakulaiḥ) + joined(yuktaṃ) + bath(snānam) + of-Mars(bhaumasya) + for-satisfaction(tuṣṭaye)
 
 ## mukta-m0-p213-v5316
-[very](su)+[red](rakta)+[garment](vastram)+[of-the-creator](asṛjaḥ)+[for-satisfaction](tuṣṭaye) [and](ca)+[horse](aśva)+[enemy](ari)+[flower](puṣpakam)
+very-red(surakta) + garment(vastram) + not-blood-colored(asṛjas) + for-satisfaction(tuṣṭyai) + and(ca) + horse-enemy(aśvāri) + flower(puṣpakam)
 
 ## mukta-m0-p213-v5317
-[on-Wednesday](budha)+[vāre](vāre) [indeed](tu) [born](jātaḥ)+[there](tatra) [great](mahā)+[festival](utsavaḥ)
+on-Wednesday(budhavāre) + indeed(tu) + born(jātaḥ) + there(tatra) + great-festival(mahotsavaḥ)
 
 ## mukta-m0-p213-v5318
-[deity](devatā)+[his](asya) [Mercury](buddhaḥ) [intellect](buddhi)+[giver](pradaḥ) [considered](mataḥ)
+deity(devatā) + his(asya) + Mercury(buddhaḥ) + intellect-giver(buddhipradaḥ) + considered(mataḥ)
 
 ## mukta-m0-p213-v5319
-[yellow](pīta)+[color](varṇam)+[yellow](pīta)+[fragrance](gandha)+[unguent](anulepanam) [bearing](dadhānam) [form](rūpam)
+yellow(pīta) + colored(varṇam) + yellow(pīta) + fragrance(gandha) + anointed(anulepanam)
 
 ## mukta-m0-p213-v5320
-[bearing](dadhataṃ) [with-hands](hastaiḥ)+[Atri](atri)+[lineage](gotra)+[born](samudbhavam) [him](tam) [I-contemplate](dhyāye)
+bearing(dadhataṃ) + with-hands(hastaiḥ) + Atri-gotra(atri-gotra) + born(samudbhavam)
 
 ## mukta-m0-p213-v5321
-[Bṛhatī](bṛhatī)+[meter](chandasā)+[yellow](pīta)+[umbrella](chatra)+[banner](dhvaja)+[flag](patākinam) [adorned](alaṅkṛtam) [deity](devam)
+Bṛhatī-meter(bṛhatī) + chandas(chandasa) + with-yellow(pīta) + umbrella(chatra) + banner(dhvaja) + and-flags(patākinam)
 
 ## mukta-m0-p213-v5322
-[endowed](yuktaṃ) [wise-one](jñaṃ) [I-contemplate](cintayāmi)+[I](aham) [with-devotion](bhaktyā) [always](sadā)
+endowed(yuktaṃ) + wise-one(jñaṃ) + I-contemplate(cintayāmi) + I(aham)
 
 ## mukta-m0-p213-v5323
-[wise-one](jñaṃ) [Mercury](budham) [properly](samyak)+[having-invoked](āvāhya) [one-should-worship](pūjayet) [with-rites](vidhinā)
+wise-one(jñaṃ) + [Mercury(budham) + end(||]) + properly(samyak) + having-invoked(āvāhya) + one-should-worship(pūjayet)
 
 ## mukta-m0-p213-v5324
-[with-apāmārga](apāmārga)+[fuel-sticks](samidbhiḥ)+[and](ca) [oblations](tarpaṇāni) [then](tataḥ)+[one-should-perform](caret) [duly](yathāvat)
+with-apāmārga(apāmārga) + fuel-sticks(samidbhiḥ) + and(ca) + libations(tarpaṇāni) + then(tataḥ) + one-should-perform(caret)
 
 ## mukta-m0-p213-v5325
-[Medhātithi](medhātithiḥ)+[sage](muniḥ)+[its](tasya) [Gāyatra](gāyatraṃ) [meter](chandaḥ) [declared](īritam) [thus](iti)
+Medhātithi(medhātithiḥ) + sage(muniḥ) + its(tasya) + Gāyatrī(gāyatraṃ) + meter(chandaḥ) + declared(īritam)
