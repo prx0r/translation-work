@@ -5,73 +5,73 @@
 [with-bright](śubhrair) [horses](vājair) [went-out](niragāt) [him](tam)
 
 ## mukta-m0-p204-v5077
-[eight-hundred](aṣṭa+uttara) [thousand](sahasram) [indeed](tu) [for-six-months](ṣaṇ+māsaṃ) [truth-speaking](satya+vāk) [one-should-be](bhavet)
+[eight+above+thousand](aṣṭottara+sahasran) [indeed](tu) [six-months](ṣaṇmāsaṃ) [truth-speaking](satya+vāg) [one-should-be](bhavet)
 
 ## mukta-m0-p204-v5078
-[light](jyotiḥ) [and](ca) [for-me](me) [heaven](svaḥ) [and](ca) [for-me](me) [by-sacrifice](yajñena) [let-them-be-procured](kalpantām)
+[light](jyotiś) [and](ca) [me](me) [heaven](svaś) [and](ca) [me](me) [by-sacrifice](yajñena) [may-they-be-arranged](kalpantām)
 
 ## mukta-m0-p204-v5079
-[skill](dakṣaḥ) [and](ca) [for-me](me) [strength](balaṃ) [and](ca) [for-me](me) [by-sacrifice](yajñena) [let-them-be-procured](kapantām)
+[skill](dakṣaś) [and](ca) [me](me) [strength](balaṃ) [and](ca) [me](me) [by-sacrifice](yajñena) [may-they-be-arranged](kapantām)
 
 ## mukta-m0-p204-v5080
-[life](āyuḥ) [and](ca) [for-me](me) [old-age](jarā) [and](ca) [for-me](me) [by-sacrifice](yajñena) [let-them-be-procured](kalpantām)
+[life](āyuś) [and](ca) [me](me) [old-age](jarā) [and](ca) [me](me) [by-sacrifice](yajñena) [may-they-be-arranged](kalpantām)
 
 ## mukta-m0-p204-v5081
-[by-sacrifice](yajñena) [for-me](me) [let-them-be-procured](kalpantām) [let-them-be-procured](kalpantām)
+[by-sacrifice](yajñena) [for-me](me) [may-they-be-arranged](kalpantām) [may-they-be-arranged](kalpantām)
 
 ## mukta-m0-p204-v5082
-[for-me](me) [good-hymn](sūktam) [and](ca) [for-me](me) [good-deed](sukṛtaṃ) [and](ca) [for-me](me) [by-sacrifice](yajñena) [let-them-be-procured](kalpantām)
+[for-me](me) [good-hymn](sūktañ) [and](ca) [me](me) [good-deed](sukṛtaṃ) [and](ca) [me](me) [by-sacrifice](yajñena) [may-they-be-arranged](kalpantām)
 
 ## mukta-m0-p204-v5083
-[bed](śayanam) [and](ca) [for-me](me) [dawn](sūṣaḥ) [and](ca) [for-me](me) [by-sacrifice](yajñena) [let-them-be-procured](kalpantām)
+[bed](śayanañ) [and](ca) [me](me) [dawn](sūṣaś) [and](ca) [me](me) [by-sacrifice](yajñena) [may-they-be-arranged](kalpantām)
 
 ## mukta-m0-p204-v5084
-[plough](sīram) [and](ca) [for-me](me) [rest](layaḥ) [and](ca) [for-me](me) [by-sacrifice](yajñena) [let-them-be-procured](kalpantām)
+[plough](sīrañ) [and](ca) [me](me) [dissolution](layaś) [and](ca) [me](me) [by-sacrifice](yajñena) [may-they-be-arranged](kalpantām)
 
 ## mukta-m0-p204-v5085
-[for-me](me) [better](vasīyaḥ) [and](ca) [for-me](me) [fame](yaśaḥ) [and](ca) [for-me](me) [by-sacrifice](yajñena) [let-them-be-procured](kalpantām)
+[for-me](me) [better](vasīyaś) [and](ca) [me](me) [fame](yaśaś) [and](ca) [me](me) [by-sacrifice](yajñena) [may-they-be-arranged](kalpantām)
 
 ## mukta-m0-p204-v5086
-[victorious](jaitram) [and](ca) [for-me](me) [plant-produced](audbhidyaṃ) [and](ca) [for-me](me) [by-sacrifice](yajñena) [let-them-be-procured](kalpantām)
+[victorious](jaitraṃ) [and](ca) [me](me) [plant-born](audbhidyaṃś) [and](ca) [me](me) [by-sacrifice](yajñena) [may-they-be-arranged](kalpantām)
 
 ## mukta-m0-p204-v5087
-[dwelling](kṣitam) [and](ca) [for-me](me) [food](annam) [and](ca) [for-me](me) [hunger](kṣut) [and](ca) [for-me](me) [by-sacrifice](yajñena) [let-them-be-procured](kalpantām)
+[dwelling](kṣitaṃ) [and](ca) [me](me) [food](nnañ) [and](ca) [me](me) [hunger](kṣu) [and](ca) [me](me) [by-sacrifice](yajñena) [may-they-be-arranged](kalpantām)
 
 ## mukta-m0-p204-v5088
-[for-me](me) [thought](matiḥ) [and](ca) [for-me](me) [good-thought](su+matiḥ) [and](ca) [for-me](me) [by-sacrifice](yajñena) [let-them-be-procured](kalpantām)
+[for-me](me) [thought](matiś) [and](ca) [me](me) [good-thought](su+matiś) [and](ca) [me](me) [by-sacrifice](yajñena) [may-they-be-arranged](kalpantām)
 
 ## mukta-m0-p204-v5089
-[for-me](me) [lead](sīsam) [and](ca) [for-me](me) [tin](trapu) [and](ca) [for-me](me) [by-sacrifice](yajñena) [let-them-be-procured](kalpantām)
+[for-me](me) [lead](sīsaṃ) [and](ca) [me](me) [tin](trapu) [and](ca) [me](me) [by-sacrifice](yajñena) [may-they-be-arranged](kalpantām)
 
 ## mukta-m0-p204-v5090
-[prosperity](bhūtiḥ) [and](ca) [for-me](me) [by-sacrifice](yajñena) [let-it-be-procured](kalpantām)
+[prosperity](bhūtiś) [and](ca) [me](me) [by-sacrifice](yajñena) [may-they-be-arranged](kalpantām)
 
 ## mukta-m0-p204-v5091
-[going](gatiḥ) [and](ca) [for-me](me) [by-sacrifice](yajñena) [let-it-be-procured](kalpantām)
+[movement](gatiś) [and](ca) [me](me) [by-sacrifice](yajñena) [may-they-be-arranged](kalpantām)
 
 ## mukta-m0-p204-v5092
-[Bṛhaspati](bṛhaspatiḥ) [and](ca) [for-me](ma) [Indra](indraḥ) [and](ca) [for-me](me) [by-sacrifice](yajñena) [let-them-be-procured](kalpantām)
+[Bṛhaspati](bṛhaspatiś) [and](ca) [me](ma) [Indra](indraś) [and](ca) [me](me) [by-sacrifice](yajñena) [may-they-be-arranged](kalpantām)
 
 ## mukta-m0-p204-v5093
-[all](viśve) [and](ca) [for-me](me) [gods](devā) [Indra](indraḥ) [and](ca) [for-me](me) [by-sacrifice](yajñena) [let-it-be-procured](kalpatām)
+[all](viśve) [and](ca) [me](me) [gods](devā) [Indra](indraś) [and](ca) [me](me) [by-sacrifice](yajñena) [may-it-be-arranged](kalpatām)
 
 ## mukta-m0-p204-v5094
-[directions](diśaḥ) [and](ca) [for-me](ma) [Indra](indraḥ) [and](ca) [for-me](me) [by-sacrifice](yajñena) [let-them-be-procured](kalpantām)
+[directions](diśaś) [and](ca) [me](ma) [Indra](indraś) [and](ca) [me](me) [by-sacrifice](yajñena) [may-they-be-arranged](kalpantām)
 
 ## mukta-m0-p204-v5095
-[for-me](me) [Manthin-cup](manthī) [and](ca) [for-me](me) [by-sacrifice](yajñena) [let-it-be-procured](kalpantām)
+[for-me](me) [stirred-drink](manthī) [and](ca) [me](me) [by-sacrifice](yajñena) [may-they-be-arranged](kalpantām)
 
 ## mukta-m0-p204-v5096
-[for-me](me) [Pālkīvata](pālkīvataḥ) [and](ca) [for-me](me) [Hāriyojana](hāriyojanaḥ) [and](ca) [for-me](me) [by-sacrifice](yajñena) [let-them-be-procured](kalpantām)
+[for-me](me) [Āśvina-cup](pālkīvataś) [and](ca) [me](me) [Hāriyojana-cup](hāriyojanaś) [and](ca) [me](me) [by-sacrifice](yajñena) [may-they-be-arranged](kalpantām)
 
 ## mukta-m0-p204-v5097
-[by-sacrifice](yajñena) [for-me](me) [let-them-be-procured](kalpantām) [let-them-be-procured](kalpantām)
+[by-sacrifice](yajñena) [for-me](me) [may-they-be-arranged](kalpantām) [may-they-be-arranged](kalpantām)
 
 ## mukta-m0-p204-v5098
-[for-me](me) [fingers](aṅgulayaḥ) [mighty-verses](śakvarayo) [directions](diśaḥ) [and](ca) [for-me](me) [by-sacrifice](yajñena) [let-them-be-procured](kalpantām)
+[for-me](me) [fingers](ṅgulayaḥ) [mighty-verses](śakvarayo) [directions](diśaś) [and](ca) [me](me) [by-sacrifice](yajñena) [may-they-be-arranged](kalpantām)
 
 ## mukta-m0-p204-v5099
-[Bṛhat-and-Rathantara](bṛhat+rathantare) [and](ca) [for-me](me) [by-sacrifice](yajñena) [let-them-be-procured](kalpantām)
+[Bṛhat-and-Rathantara](bṛhad+rathantare) [and](ca) [me](me) [by-sacrifice](yajñena) [may-they-be-arranged](kalpantām)
 
 ## mukta-m0-p204-v5100
-[by-sacrifice](yajñena) [for-me](me) [let-them-be-procured](kalpantām) [let-them-be-procured](kalpantām)
+[by-sacrifice](yajñena) [for-me](me) [may-they-be-arranged](kalpantām) [may-they-be-arranged](kalpantām)
