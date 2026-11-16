@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p474-v11826
-[fire+circle+principle](agnimaṇḍalatattvāya) [ṅe-ending](ṅento) [nārāyaṇa](nārāyaṇo) [considered](mataḥ)
+[fire+circle+principle-for](agnimaṇḍalatattvāya) [ṅe-ending](ṅento) [nārāyaṇa](nārāyaṇo) [is-considered](mataḥ)
 
 ## mukta-m0-p474-v11827
-[saṃkarṣaṇa+named+principle](saṃkarṣaṇākhyatattvāya) [in-liṅga](liṅge) [should-be](syād) [to-viṣṇu](viṣṇave) [obeisance](namaḥ)
+[to-saṃkarṣaṇa-named-principle](saṃkarṣaṇākhyatattvāya) [in-liṅga](liṅge) [should-be+to-viṣṇu](syādviṣṇave) [obeisance](namaḥ)
 
 ## mukta-m0-p474-v11828
-[right+foot](dakṣapāde) [and](ca) [on-left](vāme) [niruddha+principle+self](niruddhatattvātmane) [one-should-place](nyaset)
+[on-right+foot](dakṣapāde) [and](ca) [on-left+to-niruddha-principle-self](vāmeniruddhatattvātmane) [one-should-place](nyaset)
 
 ## mukta-m0-p474-v11829
-[mūrti+pañjara+named](mūrttipañjaranāmānaṃ) [keśava+beginning-with](keśavādikam) [one-should-perform](ācaret)
+[mūrti-cage-named](mūrttipañjaranāmānaṃ) [beginning-with-keśava](keśavādikam) [one-should-perform](ācaret)
 
 ## mukta-m0-p474-v11830
-[milk+ocean](dugdhāmbhodhau) [white+island](sitadvīpe) [divine+women+resplendent](divyayoṣāvirājite)
+[in-milk+ocean](dugdhāmbhodhau) [on-white+island](sitadvīpe) [by-divine+women+shining](divyayoṣāvirājite)
 
 ## mukta-m0-p474-v11831
-[there](tatra) [wish-fulfilling-tree+beneath](kalpadrumādhastād) [jewel+throne](ratnamaṃce) [indeed](tu) [lotus](paṅkajam)
+[there](tatra) [under-wish+tree](kalpadrumādhastād) [on-jewel+couch](ratnamaṃce) [indeed](tu) [lotus](paṅkajam)
 
 ## mukta-m0-p474-v11832
-[moon+radiance](candrakāntiṃ) [conch+discus+mace+lotus+shining+hand](śaṃkhacakragadāpadmalasatkaram)
+[moon+splendor](candrakāntiṃ) [conch+discus+mace+lotus+shining+handed](śaṃkhacakragadāpadmalasatkaram)
 
 ## mukta-m0-p474-v11833
-[with-kaustubha](sakaustubhaṃ) [yellow+garment](pītavastraṃ) [wearing+necklace](dhṛtagraiveyakaṃ) [shining](kaṇam)
+[with-kaustubha](sakaustubhaṃ) [yellow+garmented](pītavastraṃ) [wearing+necklace](dhṛtagraiveyakaṃ) [kaṇa](kaṇam)
 
 ## mukta-m0-p474-v11834
-[one-should-worship](yajet) [in-nārāyaṇa+seat](nārāyaṇe) [on-pedestal](pīṭhe) [form](mūrttiṃ) [with-root-mantra](mūlena) [one-should-visualize](kalpayet)
+[one-should-worship+in-nārāyaṇa](yajennārāyaṇe) [on-pedestal](pīṭhe) [image](mūrttiṃ) [with-root-mantra](mūlena) [one-should-visualize](kalpayet)
 
 ## mukta-m0-p474-v11835
-[its+thousand](tatsahasraṃ) [and](ca) [with-lotuses](kamalair) [one-should-offer](juhuyān) [with-sweet-substances+soaked](madhuraplutaiḥ)
+[that+thousand](tatsahasraṃ) [and](ca) [with-lotuses+one-should-offer](kamalairjuhuyān) [with-sweet-substances+soaked](madhuraplutaiḥ)
 
 ## mukta-m0-p474-v11836
-[milk+tree+firewood](kṣīravṛkṣasamidbhiś) [and](ca) [oblation](homaḥ) [should-be](syāt) [for-sin+release](pāpamuktaye)
+[with-milk+tree+firewood](kṣīravṛkṣasamidbhiś) [and](ca) [oblation](homaḥ) [should-be+for-sin+release](syātpāpamuktaye)
 
 ## mukta-m0-p474-v11837
-[by-nārāyaṇa+spoken](nārāyaṇoktān) [all](nikhilān) [rituals](prayogān) [one-should-perform](ācaret) [then](tataḥ)
+[by-nārāyaṇa+declared](nārāyaṇoktān) [all](nikhilān) [rituals](prayogān) [one-should-perform+then](ācarettataḥ)
 
 ## mukta-m0-p474-v11838
 [praṇava](tāraṃ) [māyā+pair](māyādvayaṃ) [lakṣmī+pair](lakṣmīdvayaṃ) [lakṣmī+word](lakṣmīpadaṃ) [one-should-say](vadet)
 
 ## mukta-m0-p474-v11839
-[seer](ṛṣiḥ) [prajāpati](prajāpatiś) [meter](chando) [gāyatrī](gāyatrī) [seed-syllable](bījakaṃ) [praṇava](dhruvaḥ)
+[seer](ṛṣiḥ) [prajāpati](prajāpatiś) [meter](chando) [gāyatrī](gāyatrī) [seed](bījakaṃ) [praṇava](dhruvaḥ)
 
 ## mukta-m0-p474-v11840
-[two+two+five+two](dvidvidvīṣudvibhir) [with-syllables](varṇes) [beginning-with-praṇava](tārādyair) [limb+assignment](aṅgakalpanam)
+[with-two+two+five+two+syllables](dvidvidvīṣudvibhir) [beginning-with-praṇava](varṇestārādyair) [limb+assignment](aṅgakalpanam)
 
 ## mukta-m0-p474-v11841
 [by-lakṣmī+embrace](lakṣmyāliṅganataś) [and](ca) [become-one](ekībhūtaṃ) [and](ca) [on-lap+seated](aṅkagatāṃ) [indeed](hi) [her](tām)
 
 ## mukta-m0-p474-v11842
-[holding](dadhatīṃ) [conch+discus+lotus+mace+hand](śaṃkhacakrābjagadāhastaṃ) [mace+bearer](gadādharam)
+[holding](dadhatīṃ) [conch+discus+lotus+mace+handed](śaṃkhacakrābjagadāhastaṃ) [mace+bearer](gadādharam)
 
 ## mukta-m0-p474-v11843
-[tenth-part](daśāṃśaṃ) [with-lotuses](paṅkajair) [oblation](homo) [sweet+triad+joined](madhuratrayasaṃyutaiḥ)
+[tenth+part](daśāṃśaṃ) [with-lotuses](paṅkajair) [oblation](homo) [with-sweet+triad+joined](madhuratrayasaṃyutaiḥ)
 
 ## mukta-m0-p474-v11844
-[with-sweet-substances+smeared](madhurāktais) [with-sesame](tilair) [having-offered](hutvā) [all+tasks](sarvakāryāṇi) [one-should-accomplish](sādhayet)
+[with-sweet-substances+smeared](madhurāktais) [with-sesame-seeds](tilair) [having-offered](hutvā) [all+purposes](sarvakāryāṇi) [one-should-accomplish](sādhayet)
 
 ## mukta-m0-p474-v11845
-[klīṃ](klīṃ) [to-pradyumna](pradyumnāya) [heart](hṛdayaṃ) [mantra](manuḥ) [seven+syllabled](saptākṣaro) [considered](mataḥ)
+[klīṃ](klīṃ) [to-pradyumna](pradyumnāya) [heart](hṛdayaṃ) [mantra](manuḥ) [seven+syllabled](saptākṣaro) [is-considered](mataḥ)
 
 ## mukta-m0-p474-v11846
 [application](niyogaḥ) [in-battle](samare) [to-conquer](jetuṃ) [in-love+battle](kāmayuddhe) [likewise](tathā) [of-woman](striyāḥ)
 
 ## mukta-m0-p474-v11847
-[embraced](āliṅgitaṃ) [by-prabhāvatī](prabhāvatyā) [various+forms](nānārūpaṃ) [well+adorned](subhūṣitam)
+[embraced](āliṅgitaṃ) [by-prabhāvatī](prabhāvatyā) [of-various+forms](nānārūpaṃ) [well+adorned](subhūṣitam)
 
 ## mukta-m0-p474-v11848
 [by-gandharvas](gandharvair) [on-all-sides](abhito) [sung](gītaṃ) [pleased+face+lotus](prasannamukhapaṃkajam)
 
 ## mukta-m0-p474-v11849
-[in-autumn+season](śaratkāle) [in-spring](vasante) [or](vā) [of-days](dinānām) [twenty-one](ekaviṃśatim)
+[in-autumn+season](śaratkāle) [in-spring](vasante) [or](vā) [of-days](dinānām) [one+twenty](ekaviṃśatim)
 
 ## mukta-m0-p474-v11850
-[thus](evaṃ) [is-accomplished](sidhyati) [mantra](mantro) [this](yaṃ) [all+desires+giver](sarvābhīṣṭapradāyakaḥ)
+[thus](evaṃ) [succeeds](sidhyati) [mantra+this](mantroyaṃ) [all+desired+granting](sarvābhīṣṭapradāyakaḥ)
