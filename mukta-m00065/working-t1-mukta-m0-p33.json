@@ -20,7 +20,7 @@
 },
 {
 "surface": "arcā",
-"quick_gloss": "image"
+"quick_gloss": "worship-image"
 },
 {
 "surface": "sthāne",
@@ -45,15 +45,15 @@
 "tokens": [
 {
 "surface": "bhrukuṭī",
-"quick_gloss": "with-frowning-brow"
+"quick_gloss": "with-frowning-brows"
 },
 {
 "surface": "bhīṣaṇaṃ",
-"quick_gloss": "terrible"
+"quick_gloss": "terrifying"
 },
 {
 "surface": "kṛṣṇaṃ",
-"quick_gloss": "black"
+"quick_gloss": "dark"
 },
 {
 "surface": "lelihānaṃ",
@@ -65,7 +65,7 @@
 },
 {
 "surface": "draṃṣṭriṇam",
-"quick_gloss": "having-tusks"
+"quick_gloss": "with-fangs"
 }
 ]
 },
@@ -98,8 +98,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "caturdaśa+kara+eka+āsyam",
-"quick_gloss": "having-fourteen-hands-and-one-face"
+"surface": "caturdaśa+kara",
+"quick_gloss": "fourteen-armed"
+},
+{
+"surface": "eka+āsyaṃ",
+"quick_gloss": "one-faced"
 },
 {
 "surface": "saumyaṃ",
@@ -107,7 +111,7 @@
 },
 {
 "surface": "vyāghra+ajina+ambaram",
-"quick_gloss": "clad-in-tiger-skin"
+"quick_gloss": "wearing-tiger-skin-garment"
 }
 ]
 },
@@ -131,8 +135,16 @@
 "quick_gloss": "noose"
 },
 {
-"surface": "cāpa+abhaya+kapālakam",
-"quick_gloss": "bow-fearlessness-and-skull-cup"
+"surface": "cāpa",
+"quick_gloss": "bow"
+},
+{
+"surface": "abhaya",
+"quick_gloss": "fearlessness"
+},
+{
+"surface": "kapālakam",
+"quick_gloss": "skull-cup"
 }
 ]
 },
@@ -144,8 +156,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "mātṛ+bhūta+anvitam",
-"quick_gloss": "accompanied-by-the-Mothers"
+"surface": "mātṛ+bhūta+anvitaṃ",
+"quick_gloss": "accompanied-by-Mothers"
 },
 {
 "surface": "kuryāt",
@@ -157,7 +169,7 @@
 },
 {
 "surface": "śānti+kārakam",
-"quick_gloss": "peace-bestowing"
+"quick_gloss": "peace-causing"
 }
 ]
 },
@@ -178,7 +190,7 @@
 },
 {
 "surface": "dvi+raṣṭa+bhuja+maṇḍitam",
-"quick_gloss": "adorned-with-sixteen-arms"
+"quick_gloss": "adorned-with-twice-eight-arms"
 }
 ]
 },
@@ -199,11 +211,11 @@
 },
 {
 "surface": "kṛṣṇaṃ",
-"quick_gloss": "black"
+"quick_gloss": "dark"
 },
 {
 "surface": "sarva+kāma+pradāyakam",
-"quick_gloss": "granting-all-desires"
+"quick_gloss": "giver-of-all-desires"
 }
 ]
 },
@@ -215,16 +227,28 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
+"surface": "p. 95",
+"quick_gloss": "p. 95)"
+},
+{
 "surface": "aṣṭādaśa+bhujaṃ",
-"quick_gloss": "having-eighteen-arms"
+"quick_gloss": "eighteen-armed"
 },
 {
 "surface": "kuryāt",
 "quick_gloss": "one-should-make"
 },
 {
-"surface": "varada+abhaya+varjitam",
-"quick_gloss": "devoid-of-boon-and-fearlessness"
+"surface": "varada",
+"quick_gloss": "boon-giving"
+},
+{
+"surface": "abhaya",
+"quick_gloss": "fearlessness"
+},
+{
+"surface": "varjitam",
+"quick_gloss": "devoid-of"
 }
 ]
 },
@@ -274,7 +298,7 @@
 "tokens": [
 {
 "surface": "sarva+śatru+haraṃ",
-"quick_gloss": "destroying-all-enemies"
+"quick_gloss": "destroyer-of-all-enemies"
 },
 {
 "surface": "nityaṃ",
@@ -282,7 +306,7 @@
 },
 {
 "surface": "mātṛbhiḥ",
-"quick_gloss": "by-the-Mothers"
+"quick_gloss": "surrounded-by-Mothers"
 },
 {
 "surface": "parivāritam",
@@ -298,8 +322,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "vyāghra+ajina+aṃśukaṃ",
-"quick_gloss": "clad-in-tiger-skin-garment"
+"surface": "vyāghra+ajina+aṃśuka",
+"quick_gloss": "wearing-tiger-skin-garment"
 },
 {
 "surface": "saumyaṃ",
@@ -320,11 +344,11 @@
 "tokens": [
 {
 "surface": "yāmye",
-"quick_gloss": "in-the-right"
+"quick_gloss": "in-right"
 },
 {
 "surface": "saumye",
-"quick_gloss": "and-in-the-left"
+"quick_gloss": "in-left"
 },
 {
 "surface": "ca",
@@ -339,7 +363,7 @@
 "quick_gloss": "with-two-hands"
 },
 {
-"surface": "vyākhyānakam",
+"surface": "vyākhyānakaṃ",
 "quick_gloss": "teaching-gesture"
 },
 {
@@ -361,7 +385,7 @@
 },
 {
 "surface": "sita+ambaraṃ",
-"quick_gloss": "clad-in-white-garments"
+"quick_gloss": "wearing-white-garment"
 },
 {
 "surface": "śāntaṃ",
@@ -381,8 +405,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "amṛta+āgama+hastam",
-"quick_gloss": "having-a-hand-bestowing-nectar"
+"surface": "amṛta+āgama",
+"quick_gloss": "nectar-scripture"
+},
+{
+"surface": "hastaṃ",
+"quick_gloss": "in-hand"
 },
 {
 "surface": "ca",
@@ -411,11 +439,11 @@
 "tokens": [
 {
 "surface": "ardha+candra+āsana+āsīnaṃ",
-"quick_gloss": "seated-on-a-half-moon-seat"
+"quick_gloss": "seated-on-half-moon-seat"
 },
 {
-"surface": "śveta+rājīva+madhyagam",
-"quick_gloss": "situated-in-the-middle-of-a-white-lotus"
+"surface": "śveta+rājīva+madhya+gam",
+"quick_gloss": "situated-in-white-lotus"
 }
 ]
 },
@@ -427,8 +455,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
+"surface": "p. 96",
+"quick_gloss": "p. 96)"
+},
+{
 "surface": "divya+siṃha+āsana+āsīnaṃ",
-"quick_gloss": "seated-on-a-divine-throne"
+"quick_gloss": "seated-on-divine-throne"
 },
 {
 "surface": "brahma+ādyaiḥ",
@@ -449,7 +481,7 @@
 "tokens": [
 {
 "surface": "kapāla+mālinaṃ",
-"quick_gloss": "wearing-a-garland-of-skulls"
+"quick_gloss": "wearing-garland-of-skulls"
 },
 {
 "surface": "śvetaṃ",
@@ -457,11 +489,11 @@
 },
 {
 "surface": "yoga+āsanaṃ",
-"quick_gloss": "seated-in-yoga-posture"
+"quick_gloss": "in-yoga-posture"
 },
 {
 "surface": "kaja+sthitam",
-"quick_gloss": "seated-on-a-lotus"
+"quick_gloss": "seated-on-lotus"
 }
 ]
 },
@@ -494,7 +526,7 @@
 },
 {
 "surface": "dakṣiṇe",
-"quick_gloss": "in-the-right"
+"quick_gloss": "in-right"
 },
 {
 "surface": "kare",
@@ -514,12 +546,12 @@
 "quick_gloss": "one-should-make"
 },
 {
-"surface": "mṛtyuñjayam",
+"surface": "mṛtyuñjayaṃ",
 "quick_gloss": "Mṛtyuñjaya"
 },
 {
 "surface": "devaṃ",
-"quick_gloss": "the-god"
+"quick_gloss": "god"
 },
 {
 "surface": "mṛtyu+roga+vināśakam",
@@ -536,11 +568,11 @@
 "tokens": [
 {
 "surface": "vāma+aṅge",
-"quick_gloss": "on-the-left-side"
+"quick_gloss": "on-left-side"
 },
 {
 "surface": "lalanā",
-"quick_gloss": "a-woman"
+"quick_gloss": "woman"
 },
 {
 "surface": "kāryā",
@@ -561,7 +593,7 @@
 "tokens": [
 {
 "surface": "īśe",
-"quick_gloss": "in-the-upper-hand"
+"quick_gloss": "in-Īśa-hand"
 },
 {
 "surface": "śūlaṃ",
@@ -569,7 +601,7 @@
 },
 {
 "surface": "kapālaṃ",
-"quick_gloss": "and-skull-cup"
+"quick_gloss": "skull-cup"
 },
 {
 "surface": "ca",
@@ -577,7 +609,7 @@
 },
 {
 "surface": "vāme",
-"quick_gloss": "in-the-left"
+"quick_gloss": "in-left"
 },
 {
 "surface": "jāpyam",
@@ -605,16 +637,16 @@
 "quick_gloss": "adorned-with-earrings"
 },
 {
-"surface": "saumyaḥ",
+"surface": "saumyo",
 "quick_gloss": "gentle"
 },
 {
-"surface": "dvi+bhujaḥ",
+"surface": "dvi+bhujo",
 "quick_gloss": "two-armed"
 },
 {
 "surface": "dvi+pi+carma+bhṛt",
-"quick_gloss": "wearing-the-skin-of-two-elephants"
+"quick_gloss": "wearing-elephant-hide"
 }
 ]
 },
@@ -626,12 +658,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "mithaḥ+saṃvīkṣyamāṇa+āsyaḥ",
-"quick_gloss": "with-faces-gazing-at-each-other"
+"surface": "mithaḥ",
+"quick_gloss": "mutually"
+},
+{
+"surface": "saṃvīkṣyamāṇa+āsyo",
+"quick_gloss": "gazing-at-each-other’s-faces"
 },
 {
 "surface": "yāmya+hasta+sthita+utpalaḥ",
-"quick_gloss": "holding-a-blue-lotus-in-the-right-hand"
+"quick_gloss": "holding-lotus-in-right-hand"
 }
 ]
 },
@@ -643,16 +679,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
+"surface": "p. 97",
+"quick_gloss": "p. 97)"
+},
+{
 "surface": "vidheyaḥ",
 "quick_gloss": "should-be-depicted"
 },
 {
-"surface": "śāstra+vit+vadbhiḥ",
+"surface": "śāstra+vidvadbhiḥ",
 "quick_gloss": "by-those-skilled-in-scriptures"
 },
 {
-"surface": "ūrdhva+liṅgaḥ",
-"quick_gloss": "with-upright-liṅga"
+"surface": "ūrdhva+liṅga",
+"quick_gloss": "with-upward-phallus"
 },
 {
 "surface": "umeśvaraḥ",
