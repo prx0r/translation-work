@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p238-v5926
-all(samasta) diseases(rogāṇāṃ) destruction(nāśanaṃ) sun+beloved(sūrya+vallabham)
+[of-all+diseases](samastarogāṇāṃ) [destruction](nāśanaṃ) [dear-to-the-sun](sūryavallabham)
 
 ## mukta-m0-p238-v5927
-outside(bahis) of-that(tasya) triangle(trikoṇaṃ) indeed(tu) mantra+limb(mantra+āgāra) thus(iti) should-write(saṃlikhet)
+[outside](bahis) [of-that](tasya) [triangle](trikoṇaṃ) [indeed](tu) [mantra+limb](mantrāgāra) [thus](iti) [one-should-write](saṃlikhet)
 
 ## mukta-m0-p238-v5928
-there(tatra) should-write(likhet) five+syllables(pañca+akṣarāṇi) indeed(tu)
+[there](tatra) [one-should-write](likhet) [five+syllables](pañcākṣarāṇi) [indeed](tu)
 
 ## mukta-m0-p238-v5929
-huṃ-phaṭ(huṃphaḍ) thus(iti) in-eight-cornered(ṣṭakoṇe) then(tatas) should-write(likhet)
+[huṃphaḍ](huṃphaḍ) [thus](iti) [in-the-eight-cornered-figure](aṣṭakoṇe) [then](tato) [one-should-write](likhet)
 
 ## mukta-m0-p238-v5930
-should-write(likhet) śrī-hrīṃ(śrīhrīṃ) thus(iti) seed+pair(bīja+dvayaṃ) again(punaḥ)
+[one-should-write](likhet) [śrī+hrīṃ](śrīhrīṃ) [thus](iti) [seed+pair](bījadvayaṃ) [again](punaḥ)
 
 ## mukta-m0-p238-v5931
-son+birth(putra+jananaṃ) of-women(strīṇāṃ) good-fortune+giving(saubhāgya+dāyakam)
+[son+birth](putrajananaṃ) [of-women](strīṇāṃ) [good-fortune+giving](saubhāgyadāyakam)
 
 ## mukta-m0-p238-v5932
-by-rule(vidhinā) held(dhṛte) in-hand(haste) fruit+giving(phala+pradam)
+[according-to-rule](vidhinā) [when-held](dhṛte) [in-the-hand](haste) [fruit+giving](phalapradam)
 
 ## mukta-m0-p238-v5933
-by-me(mayā) declared(proktaṃ) essence(sāram) of-atharvaṇa(ātharvaṇasya) and(ca)
+[by-me](mayā) [declared](proktaṃ) [essence](sāram) [of-the-atharvaṇa](ātharvaṇasya) [and](ca)
 
 ## mukta-m0-p238-v5934
-will-be(bhaviṣyanti) all(sarve) desire+wealth+accomplishers(kāma+artha+sādhakāḥ)
+[they-will-be](bhaviṣyanti) [all](sarve) [desire+wealth+accomplishers](kāmārthasādhakāḥ)
 
 ## mukta-m0-p238-v5935
-ritual-conduct+deviated(samayācāra+vibhraṣṭāḥ) distracted(vikṣiptās) they(te) and(ca) destitute(nirdhanāḥ)
+[from-observance+conduct+fallen](samayācāravibhraṣṭā) [distracted](vikṣiptās) [they](te) [and](ca) [destitute](nirdhanāḥ)
 
 ## mukta-m0-p238-v5936
-divine+diagram(deva+yantraṃ) indeed(tu) revealed(prakaṭīkṛtam)
+[divine+diagram](devāyantraṃ) [indeed](tu) [revealed](prakaṭīkṛtam)
 
 ## mukta-m0-p238-v5937
-nose+beginning(ghrāṇa+ādikaṃ) by-four(caturbhiḥ) and(ca) by-senses(indriyaiḥ) of-that(tasya) middle(madhyagam)
+[nose+beginning-with](ghrāṇādikaṃ) [by-four](caturbhiś) [and](ca) [by-senses](indriyas) [its](tasya) [middle-going](madhyagam)
 
 ## mukta-m0-p238-v5938
-should-be-made(kartavyam) at-tips(agrayoḥ) trident+pair(śūla+dvayam)
+[to-be-done](kartavyam) [at-the-tips](agrayoḥ) [trident+pair](śūlakadvayam)
 
 ## mukta-m0-p238-v5939
-hand+named(hasta+abhidhaḥ) declared(proktaḥ) middle(madhyaṃ) should-make(kuryāt) and(ca) trident+like(śūla+vat)
+[hand+named](hastābhidhaḥ) [declared](prokto) [middle](madhyaṃ) [one-should-make](kuryāt) [and](ca) [like-a-trident](śūlavat)
 
 ## mukta-m0-p238-v5940
-pedestal+endowed(pīṭhikā+yuktau) of-feet(pādayoḥ) in-that-place(tat+sthale) should-place(nyaset)
+[with-pedestals+endowed](pīṭhikāyuktau) [of-the-two-feet](pādayos) [in-that-place](tatsthale) [one-should-place](nyaset)
 
 ## mukta-m0-p238-v5941
-on-right-arm(dakṣa+bāhau) above(ūrdhvam) eight+petaled(aṣṭa+dalaṃ) should-write(likhet)
+[on-the-right+arm](dakṣabāhau) [above](ūrdhvam) [eight+petaled](aṣṭadalaṃ) [one-should-write](likhet)
 
 ## mukta-m0-p238-v5942
-on-left-arm(vāma+bāhu) above(upariṣṭāt) and(ca) homo(homo) thus(iti) syllable+pair(akṣara+dvayam)
+[on-the-left+arm+above](vāmabāhūpariṣṭāt) [and](ca) [homo](homo) [thus](iti) [syllable+pair](akṣaradvayam)
 
 ## mukta-m0-p238-v5943
-to-be-made(kāryā) heart+place(hṛda+sthānaṃ) horizontally(tiryak) upward(ūrdhvaṃ) indeed(tu) saṃ(saṃ) always(sadā)
+[to-be-made](kāryā) [heart+place](hṛdasthānaṃ) [horizontally+upward](tiryagūrdhvaṃ) [indeed](tu) [saṃ](saṃ) [always](sadā)
 
 ## mukta-m0-p238-v5944
-in-divisions(vibhāgeṣu) alīyaṃ(alīyaṃ) first(prathamā) should-be(bhavet)
+[in-the-divisions](vibhāgeṣu) [alīyaṃ](alīyaṃ) [first](prathamā) [should-be](bhavet)
 
 ## mukta-m0-p238-v5945
-fourth(caturtham) indeed(tu) vihakaḥ(vihakaḥ) that(tat) indeed(tu) fifth(pañcakam)
+[fourth](caturtham) [indeed](tu) [vihakaḥ](vihakas) [that](tat) [indeed](tu) [group-of-five](pañcakam)
 
 ## mukta-m0-p238-v5946
-thus(iti) eighth(aṣṭamam) and(ca) nastaraṃ(nastaraṃ) not(na) likewise(tathā) last(antimam)
+[thus](iti) [eighth](aṣṭamam) [and](ca) [nastaraṃ](nastaraṃ) [not](na) [likewise+last](tathāntimam)
 
 ## mukta-m0-p238-v5947
-in-upper-line(ūrdhva+paṃktau) in-order(kramāt) should-be-written(lekhyaṃ) six+three+pair(ṣaṭka+tra+dvitayaṃ) likewise(tathā)
+[in-the-upper+row](ūrdhvapaṃktau) [in-order](kramāt) [to-be-written](lekhyaṃ) [six+three+pair](ṣaṭkatrādvitayaṃ) [likewise](tathā)
 
 ## mukta-m0-p238-v5948
-outside-flesh(peśyā+bahis) my(mama) below-heart-flesh(hṛda+peśyā+adhastāt) indeed(tu) on-right(dakṣiṇe)
+[outside-the-flesh](peśyābahir) [my](mama) [below-the-heart+flesh](hṛdapeśyadhastāt) [indeed](tu) [on-the-right](dakṣiṇe)
 
 ## mukta-m0-p238-v5949
-should-be-written(lekhyaṃ) masyā(masyā) on-that-blue-cloth(tat+nīla+karpaṭe)
+[to-be-written](lekhyaṃ) [masyā](masyā) [on-that+blue+cloth](tannīlakarpaṭe)
 
 ## mukta-m0-p238-v5950
-on-sunday(āditya+vāsare) in-evening(sāyaṃ) with-cow-dung(gomayena) should-smear(upalepayet)
+[on-sunday](ādityavāsare) [in-the-evening](sāyaṃ) [with-cow-dung](gomayena) [one-should-smear](upalepayet)
