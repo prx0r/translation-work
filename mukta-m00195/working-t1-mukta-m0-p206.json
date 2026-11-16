@@ -12,14 +12,14 @@
 },
 {
 "surface": "||",
-"quick_gloss": "end"
+"quick_gloss": "||"
 },
 {
 "surface": "mayā",
 "quick_gloss": "by-me"
 },
 {
-"surface": "bhuvaḥ",
+"surface": "bhuvo",
 "quick_gloss": "of-earth"
 },
 {
@@ -38,14 +38,6 @@
 {
 "surface": "dakṣiṇena",
 "quick_gloss": "by-right"
-},
-{
-"surface": "dakṣiṇa",
-"quick_gloss": "by-right"
-},
-{
-"surface": "ena",
-"quick_gloss": "+instrumental"
 }
 ]
 },
@@ -57,8 +49,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "tuvi+mātram",
-"quick_gloss": "much-measure"
+"surface": "tuvimātra",
+"quick_gloss": "with-mighty"
 },
 {
 "surface": "avobhiḥ",
@@ -75,11 +67,7 @@
 "tokens": [
 {
 "surface": "naḥ",
-"quick_gloss": "of-us"
-},
-{
-"surface": "naḥ",
-"quick_gloss": "us"
+"quick_gloss": "to-us"
 }
 ]
 },
@@ -91,11 +79,11 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "naḥ",
-"quick_gloss": "of-us"
+"surface": "no",
+"quick_gloss": "to-us"
 },
 {
-"surface": "vasoḥ",
+"surface": "vasor",
 "quick_gloss": "of-wealth"
 },
 {
@@ -117,7 +105,7 @@
 },
 {
 "surface": "jarantam",
-"quick_gloss": "aging"
+"quick_gloss": "praising"
 }
 ]
 },
@@ -175,11 +163,11 @@
 "tokens": [
 {
 "surface": "tvā",
-"quick_gloss": "thus"
+"quick_gloss": "with-tvā"
 },
 {
 "surface": "iti",
-"quick_gloss": "+iti"
+"quick_gloss": "thus"
 },
 {
 "surface": "bahiḥ",
@@ -187,11 +175,11 @@
 },
 {
 "surface": "ca",
-"quick_gloss": "+and"
+"quick_gloss": "and"
 },
 {
 "surface": "hṛdaya+ādi",
-"quick_gloss": "heart-etc."
+"quick_gloss": "heart+etc."
 },
 {
 "surface": "ṣaḍ+aṅgakam",
@@ -212,11 +200,11 @@
 },
 {
 "surface": "ṛgbhiḥ",
-"quick_gloss": "+verses"
+"quick_gloss": "verses"
 },
 {
 "surface": "tu",
-"quick_gloss": "+indeed"
+"quick_gloss": "indeed"
 },
 {
 "surface": "nyāsam",
@@ -249,7 +237,7 @@
 },
 {
 "surface": "nābhi+madhyataḥ",
-"quick_gloss": "navel-middle"
+"quick_gloss": "navel+middle"
 }
 ]
 },
@@ -261,23 +249,27 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "mantra+rāja+akṣaraiḥ",
-"quick_gloss": "with-mantra-king-syllables"
+"surface": "mantra+rāja",
+"quick_gloss": "with-mantra-king"
+},
+{
+"surface": "akṣaraiḥ",
+"quick_gloss": "syllables"
 },
 {
 "surface": "ca",
-"quick_gloss": "+and"
+"quick_gloss": "and"
 },
 {
 "surface": "eva",
-"quick_gloss": "+indeed"
+"quick_gloss": "indeed"
 },
 {
-"surface": "tṛtīyaḥ",
+"surface": "tṛtīyo",
 "quick_gloss": "third"
 },
 {
-"surface": "nyāsaḥ",
+"surface": "nyāsa",
 "quick_gloss": "placement"
 },
 {
@@ -298,8 +290,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "dig+bandhaṃ",
-"quick_gloss": "direction-binding"
+"surface": "dṛg+bandhaṃ",
+"quick_gloss": "sight-binding"
 },
 {
 "surface": "pāde",
@@ -361,7 +353,7 @@
 },
 {
 "surface": "modakaiḥ",
-"quick_gloss": "with-sweetmeats"
+"quick_gloss": "with-sweets"
 },
 {
 "surface": "siddha+laḍḍukaiḥ",
@@ -420,15 +412,15 @@
 "tokens": [
 {
 "surface": "japet",
-"quick_gloss": "one-should-repeat"
+"quick_gloss": "one-should-chant"
 },
 {
-"surface": "mantra+rājam",
+"surface": "mantra+rājaṃ",
 "quick_gloss": "mantra-king"
 },
 {
-"surface": "vāra+dvādaśakam",
-"quick_gloss": "time-twelve"
+"surface": "vāra+dvādaśakaṃ",
+"quick_gloss": "time+twelve"
 },
 {
 "surface": "budhaḥ",
@@ -456,7 +448,7 @@
 "quick_gloss": "indeed"
 },
 {
-"surface": "mantra+rājam",
+"surface": "mantra+rājaṃ",
 "quick_gloss": "mantra-king"
 },
 {
@@ -465,7 +457,7 @@
 },
 {
 "surface": "japet",
-"quick_gloss": "one-should-repeat"
+"quick_gloss": "one-should-chant"
 }
 ]
 },
@@ -478,7 +470,7 @@
 "tokens": [
 {
 "surface": "japaḥ",
-"quick_gloss": "repetition"
+"quick_gloss": "chanting"
 },
 {
 "surface": "saṃsiddhi+kārakaḥ",
@@ -498,8 +490,8 @@
 "quick_gloss": "of-Vakratuṇḍa"
 },
 {
-"surface": "japaḥ",
-"quick_gloss": "repetition"
+"surface": "japa",
+"quick_gloss": "chanting"
 },
 {
 "surface": "ādau",
@@ -527,10 +519,6 @@
 "quick_gloss": "mantra"
 },
 {
-"surface": "|]",
-"quick_gloss": "end"
-},
-{
 "surface": "ṣaḍ+akṣaraḥ",
 "quick_gloss": "six-syllabled"
 }
@@ -548,7 +536,7 @@
 "quick_gloss": "thus"
 },
 {
-"surface": "aṣṭa+uttara+śatam",
+"surface": "aṣṭa+uttara+śataṃ",
 "quick_gloss": "hundred-and-eight"
 },
 {
@@ -556,12 +544,12 @@
 "quick_gloss": "having-done"
 },
 {
-"surface": "sūktam",
+"surface": "sūktaṃ",
 "quick_gloss": "hymn"
 },
 {
-"surface": "japam",
-"quick_gloss": "repetition"
+"surface": "japaṃ",
+"quick_gloss": "chanting"
 },
 {
 "surface": "hare",
@@ -578,10 +566,10 @@
 "tokens": [
 {
 "surface": "japāt",
-"quick_gloss": "from-repetition"
+"quick_gloss": "from-chanting"
 },
 {
-"surface": "daśāṃśaḥ",
+"surface": "daśāṃśa",
 "quick_gloss": "tenth-part"
 },
 {
@@ -590,7 +578,7 @@
 },
 {
 "surface": "tu",
-"quick_gloss": "+indeed"
+"quick_gloss": "indeed"
 },
 {
 "surface": "pāyasena",
@@ -639,7 +627,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "sarva+dravyāṇām",
+"surface": "sarva+dravyāṇāṃ",
 "quick_gloss": "of-all-substances"
 },
 {
