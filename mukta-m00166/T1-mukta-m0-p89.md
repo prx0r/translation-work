@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p89-v2201
-[bottomless](agādhā)
+[unfathomable](agādhā)
 
 ## mukta-m0-p89-v2202
-[not](na) [or](vā) [bhavānī](bhavānī) [not](nahi) [she-is](sāsti) [bottomless](agādhā)
+[not](na) [or](vā) [Bhavānī](bhavānī) [not](nahi) [she](sā) [is](asti) [unfathomable](agādhā)
 
 ## mukta-m0-p89-v2203
-[snake+earring](nāgakuṇḍalā)
+[serpent+earringed](nāga+kuṇḍalā)
 
 ## mukta-m0-p89-v2204
-[gold+earring](suvarṇakuṇḍalā) [snake+earring+like](nāgakuṇḍaleva) [shines](virājate)
+[golden+earringed](suvarṇa+kuṇḍalā) [serpent+earring](nāga+kuṇḍalā) [like](iva) [shines](virājate)
 
 ## mukta-m0-p89-v2205
-[good+wheel](sucakrā)
+[having-good-disc](su+cakrā)
 
 ## mukta-m0-p89-v2206
-[good+empty+wheel](suśūnyacakre) [worshipped](paripūjyate) [who](yā) [wheel+lord+by](cakreśvaraiḥ) [she-is](sāsti) [around](abhitaḥ) [good+wheel](sucakrā)
+[in-good-empty-circle](su+śūnya+cakre) [is-worshipped](paripūjyate) [who](yā) [by-circle-lords](cakra+īśvaraiḥ) [she](sā) [be](astu) [on-all-sides](abhitaḥ) [having-good-disc](su+cakrā)
 
 ## mukta-m0-p89-v2207
-[wheel+middle+standing](cakramadhyasthā)
+[circle+middle+dwelling](cakra+madhya+sthā)
 
 ## mukta-m0-p89-v2208
-[wheel+hand](cakrahastā) [auspicious](śivā) [wheel+middle+standing+indeed](cakramadhyasthaiva) [conquers](jayatyasau)
+[disc+handed](cakra+hastā) [auspicious-one](śivā) [in-circle+middle+dwelling](cakra+madhya+sthā) [indeed](eva) [triumphs](jayati) [this-one](asau)
 
 ## mukta-m0-p89-v2209
-[wheel+corner+dwelling](cakrakoṇanivāsinī)
+[circle+corner+dwelling](cakra+koṇa+nivāsinī)
 
 ## mukta-m0-p89-v2210
-[spread](vitataṃ) [he](sa) [how](kathaṃ) [not](naiva) [wheel+sovereignty](cakravartitvam) [obtains](āpnuyāt)
+[extensive](vitataṃ) [he](sa) [how](kathaṃ) [not](na) [indeed](eva) [universal-sovereignty](cakra+vartitvam) [may-obtain](āpnuyāt)
 
 ## mukta-m0-p89-v2211
-[all+mantra+full](sarvamantramayī) [vidyā](vidyā)
+[all+mantra+consisting-of](sarva+mantra+mayī) [knowledge](vidyā)
 
 ## mukta-m0-p89-v2212
-[all+mantra+full](sarvamantramayī) [vidyā](vidyā) [heart+from](hṛdyādyaivātra) [siddhi](siddhyatu)
+[all+mantra+consisting-of](sarva+mantra+mayī) [knowledge](vidyā) [in-heart](hṛdi) [today](adya) [indeed](eva) [here](atra) [may-be-accomplished](siddhyatu)
 
 ## mukta-m0-p89-v2213
-[all+mantra+syllable+series](sarvamantrākṣarāvaliḥ)
+[all+mantra+syllable+series](sarva+mantra+akṣara+āvaliḥ)
 
 ## mukta-m0-p89-v2214
-[all](sarvā) [she-is](saivāsti) [everywhere](sarvatra) [all+mantra+syllable+series](sarvamantrākṣarāvaliḥ)
+[all](sarvā) [she](sā) [indeed](eva) [is](asti) [everywhere](sarvatra) [all+mantra+syllable+series](sarva+mantra+akṣara+āvaliḥ)
 
 ## mukta-m0-p89-v2215
-[honey+flowing](madhusravā)
+[honey+flowing](madhu+sravā)
 
 ## mukta-m0-p89-v2216
-[honey+flowing+this](madhusraveyaṃ) [honey+possessing](madhumanniṣevyā) [gives](dadātu) [siddhi](siddhiṃ) [honey+possessing+recited](madhumatyanūdyām)
+[honey+flowing](madhu+sravā) [this-one](iyam) [honey+eating](madhu+mat) [to-be-resorted-to](niṣevyā) [may-give](dadātu) [accomplishment](siddhiṃ) [honey+possessing](madhu+matī) [unsurpassed](anūdyām)
 
 ## mukta-m0-p89-v2217
-[flowing](sravantī)
+[flowing-one](sravantī)
 
 ## mukta-m0-p89-v2218
-[that](yattanotyeva) [who](ko'pyeṣa) [flowing+nearness+rule](sravantīsannidhervidhiḥ)
+[which](yat) [extends](tanoti) [indeed](eva) [some](kaḥ) [indeed](api) [this](eṣa) [flowing-one+presence](sravantī+sannidheḥ) [rite](vidhiḥ)
 
 ## mukta-m0-p89-v2219
-[bee-like](bhrāmarī)
+[bee-goddess](bhrāmarī)
 
 ## mukta-m0-p89-v2220
-[she](sā) [bee-like](bhrāmarī) [make-revolve](bhrāmaya) [bad+revolution](durbhramaṃ) [us](naḥ)
+[she](sā) [bee-goddess](bhrāmarī) [remove](bhrāmaya) [bad+delusion](dur+bhramaṃ) [of-us](naḥ)
 
 ## mukta-m0-p89-v2221
-[bee+curl](bhramarālakā)
+[bee+locks](bhramara+alakā)
 
 ## mukta-m0-p89-v2222
-[enough](alaṃ) [kill](hantumalaṃ) [seen](dṛṣṭaṃ) [girl](bālā) [she](sā) [bee+curl](bhramarālakā)
+[enough](alaṃ) [to-kill](hantum) [enough](alaṃ) [to-see](dṛṣṭaṃ) [young-girl](bālā) [she](sā) [bee+locks](bhramara+alakā)
 
 ## mukta-m0-p89-v2223
-[mother+circle+middle+standing](mātṛmaṇḍalamadhyasthā)
+[mother+circle+middle+dwelling](mātṛ+maṇḍala+madhya+sthā)
 
 ## mukta-m0-p89-v2224
-[mother+circle+middle+standing](mātṛmaṇḍalamadhyasthā) [circle+lordship+give](maṇḍalendratvadāstu) [us](naḥ)
+[mother+circle+middle+dwelling](mātṛ+maṇḍala+madhya+sthā) [circle+lordship+giving](maṇḍala+indra+tva+dā) [be](astu) [to-us](naḥ)
 
 ## mukta-m0-p89-v2225
-[mother+circle+dwelling](mātṛmaṇḍalavāsinī)
+[mother+circle+dwelling](mātṛ+maṇḍala+vāsinī)

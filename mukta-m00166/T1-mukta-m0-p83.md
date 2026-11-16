@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p83-v2051
-[totula](totulā) [totula](totulā) [totula](totulā) [totula](totulā)
+[totulā](totulā) [iti](iti) [nāma](nāma) [devyāḥ](devyāḥ)
 
 ## mukta-m0-p83-v2052
-[totula-tula-kala](totulātulakalā) [kala](kalāstu) [sa](sā) [totula-tula-kala](totulātulakalā)
+[totulā](totulā) [+](+) [tulā](tulā) [+](+) [kalā](kalā) [kalā](kalā) [astu](astu) [sā](sā)
 
 ## mukta-m0-p83-v2053
-[tula-koti](tulākoṭiḥ) [tula-koti](tulākoṭiḥ) [tula-koti](tulākoṭiḥ) [tula-koti](tulākoṭiḥ)
+[tulā](tulā) [+](+) [koṭiḥ](koṭiḥ) [iti](iti) [nāma](nāma)
 
 ## mukta-m0-p83-v2054
-[deya](deyāt) [tula-koti](tulākoṭiriyaṃ) [tula](tulāṃ) [nija](nijām)
+[deyāt](deyāt) [tulā](tulā) [+](+) [koṭiḥ](koṭiḥ) [iyam](iyam) [tulām](tulām) [nijām](nijām)
 
 ## mukta-m0-p83-v2055
-[kuta-stha](kūṭasthā) [kuta-stha](kūṭasthā) [kuta-stha](kūṭasthā) [kuta-stha](kūṭasthā)
+[kūṭa](kūṭa) [+](+) [sthā](sthā) [iti](iti) [nāma](nāma)
 
 ## mukta-m0-p83-v2056
-[lipyate](lipyate) [jatucit](jātucit) [kacit](kācit) [kuta-stha](kūṭasthā)
+[lipyate](lipyate) [jātucit](jātucit) [kācit](kācit) [kūṭa](kūṭa) [+](+) [sthā](sthā) [cit](cit) [+](+) [mayī](mayī) [iha](iha) [sā](sā)
 
 ## mukta-m0-p83-v2057
-[kotara-asraya](koṭarāśrayā) [kotara-asraya](koṭarāśrayā) [kotara-asraya](koṭarāśrayā) [kotara-asraya](koṭarāśrayā)
+[koṭara](koṭara) [+](+) [āśrayā](āśrayā) [iti](iti) [nāma](nāma)
 
 ## mukta-m0-p83-v2058
-[sraya](śrayā) [sriya](śriyā) [nitya-nija-asana-eddhaya](nityanijāsaneddhayā) [sraya](śrayā)
+[śrayā](śrayā) [śriyā](śriyā) [nitya](nitya) [+](+) [nija](nija) [+](+) [āsana](āsana) [+](+) [ṛddhayā](eddhayā)
 
 ## mukta-m0-p83-v2059
-[svayambhu](svayambhūḥ) [svayambhu](svayambhūḥ) [svayambhu](svayambhūḥ) [svayambhu](svayambhūḥ)
+[svayam](svayam) [+](+) [bhūḥ](bhūḥ) [iti](iti) [nāma](nāma)
 
 ## mukta-m0-p83-v2060
-[katham](kathaṃ) [sa](sā) [svayambhu](svayambhūrjaḍairnyāyyabhāvyā) [svayambhu](svayambhūrjaḍairnyāyyabhāvyā)
+[katham](katham) [sā](sā) [svayam](svayam) [+](+) [bhūḥ](bhūḥ) [jaḍaiḥ](jaḍaiḥ) [nyāyya](nyāyya) [+](+) [bhāvyā](bhāvyā)
 
 ## mukta-m0-p83-v2061
-[surupa](surūpā) [surupa](surūpā) [surupa](surūpā) [surupa](surūpā)
+[su](su) [+](+) [rūpā](rūpā) [iti](iti) [nāma](nāma)
 
 ## mukta-m0-p83-v2062
-[janasya](janasya) [harate](harate) [sa-eva](saiva) [surupa-iti](surūpeti)
+[janasya](janasya) [harate](harate) [sā](sā) [eva](eva) [su](su) [+](+) [rūpā](rūpā) [iti](iti) [nirūpitā](nirūpitā)
 
 ## mukta-m0-p83-v2063
-[svarupa](svarūpā) [svarupa](svarūpā) [svarupa](svarūpā) [svarupa](svarūpā)
+[sva](sva) [+](+) [rūpā](rūpā) [iti](iti) [nāma](nāma)
 
 ## mukta-m0-p83-v2064
-[ccalatyatah](ccalatyataḥ) [sa](sā) [hi](hi) [sada](sadā)
+[calati](ccalati) [ataḥ](ataḥ) [sā](sā) [hi](hi) [sadā](sadā) [sva](sva) [+](+) [rūpā](rūpā)
 
 ## mukta-m0-p83-v2065
-[rupa-varddhini](rūpavarddhinī) [rupa-varddhini](rūpavarddhinī) [rupa-varddhini](rūpavarddhinī) [rupa-varddhini](rūpavarddhinī)
+[rūpa](rūpa) [+](+) [varddhinī](varddhinī) [iti](iti) [nāma](nāma)
 
 ## mukta-m0-p83-v2066
-[yavan-neyam](yāvanneyaṃ) [prasanna](prasannā) [syat](syānnīrūpā) [rupa-varddhini](rūpavarddhinī)
+[yāvat](yāvat) [na](na) [iyam](iyam) [prasannā](prasannā) [syāt](syāt) [nī](nī) [+](+) [rūpā](rūpā) [rūpa](rūpa) [+](+) [varddhinī](varddhinī)
 
 ## mukta-m0-p83-v2067
-[tejasvini](tejasvinī) [tejasvini](tejasvinī) [tejasvini](tejasvinī) [tejasvini](tejasvinī)
+[tejasvinī](tejasvinī) [iti](iti) [nāma](nāma)
 
 ## mukta-m0-p83-v2068
-[ttejasvini](ttejasvinī) [yasya](yasya) [sada](sadā) [prasanna](prasannā)
+[tejasvinī](ttejasvinī) [yasya](yasya) [sadā](sadā) [prasannā](prasannā)
 
 ## mukta-m0-p83-v2069
-[subhiksa](subhikṣā) [subhiksa](subhikṣā) [subhiksa](subhikṣā) [subhiksa](subhikṣā)
+[su](su) [+](+) [bhikṣā](bhikṣā) [iti](iti) [nāma](nāma)
 
 ## mukta-m0-p83-v2070
-[kah](kaḥ) [syat-tada](syāttadā) [datr-kala-bala-jna](dātṛkalābalajñaḥ) [datr-kala-bala-jna](dātṛkalābalajñaḥ)
+[kaḥ](kaḥ) [syāt](syāt) [tadā](tadā) [dātṛ](dātṛ) [+](+) [kalā](kalā) [+](+) [bala](bala) [+](+) [jñaḥ](jñaḥ)
 
 ## mukta-m0-p83-v2071
-[bala-da](baladā) [bala-da](baladā) [bala-da](baladā) [bala-da](baladā)
+[bala](bala) [+](+) [dā](dā) [iti](iti) [nāma](nāma)
 
 ## mukta-m0-p83-v2072
-[sarvatra](sarvatra) [bala-da](baladā) [sa-astu](sāstu) [svatantrya-bala-da](svātantryabaladā)
+[sarvatra](sarvatra) [bala](bala) [+](+) [dā](dā) [sā](sā) [astu](astu) [svātantrya](svātantrya) [+](+) [bala](bala) [+](+) [dā](dā) [sadā](sadā)
 
 ## mukta-m0-p83-v2073
-[bala-dayini](baladāyinī) [bala-dayini](baladāyinī) [bala-dayini](baladāyinī) [bala-dayini](baladāyinī)
+[bala](bala) [+](+) [dāyinī](dāyinī) [iti](iti) [nāma](nāma)
 
 ## mukta-m0-p83-v2074
-[bhavatu](bhavatu) [sada](sadā) [bala-dayini](baladāyinī) [vinetri](vinetrī)
+[bhavatu](bhavatu) [sadā](sadā) [bala](bala) [+](+) [dāyinī](dāyinī) [vinetrī](vinetrī)
 
 ## mukta-m0-p83-v2075
-[maha-kosi](mahākośī) [maha-kosi](mahākośī) [maha-kosi](mahākośī) [maha-kosi](mahākośī)
+[mahā](mahā) [+](+) [kośī](kośī) [iti](iti) [nāma](nāma)

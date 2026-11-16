@@ -5,73 +5,73 @@
 [initiation](dīkṣā)
 
 ## mukta-m0-p87-v2152
-[initiation](dīkṣā) [vision](prekṣāṃ) [strengthen](draḍhaya) [in-real-unreal-thing](sadasadvastuni) [you](tvaṃ) [compassionate](dayāluḥ)
+[initiation](dīkṣā) [insight](prekṣāṃ) [strengthen](draḍhaya) [in-real+and-unreal+thing](sat+asat+vastuni) [you](tvaṃ) [o-compassionate-one](dayāluḥ)
 
 ## mukta-m0-p87-v2153
-[skillful](dakṣā)
+[page](p.) [258](258)) [skilled](dakṣā)
 
 ## mukta-m0-p87-v2154
-[without-color-provision-death](nirvarṇasambhāramaraṃ) [by-merely-seeing](yadakṣivilokamātreṇa) [from-that](tato'sti) [skillful](dakṣā)
+[without-description+multitude+immortal](nirvarṇa+sambhāra+maraṃ) [which](yat) [by-eye+glance+mere](akṣi+viloka+mātreṇa) [therefore](tato') [is](asti) [skilled](dakṣā)
 
 ## mukta-m0-p87-v2155
-[initiated-worshipped](dīkṣitapūjitā)
+[by-initiated+worshipped](dīkṣita+pūjitā)
 
 ## mukta-m0-p87-v2156
-[worship-etc-difference-destroyer](pūjādibheditābhettrī) [let-it-be](bhavatvasyābhavatvadā)
+[by-worship+and-so-forth+differentiated+non-differentiating](pūjā+ādi+bhedita+abhettrī) [be](bhavatu) [of-him](asya) [non-being+giving](abhavatva+dā)
 
 ## mukta-m0-p87-v2157
-[snake-creeper](nāgavallī)
+[betel-vine](nāgavallī)
 
 ## mukta-m0-p87-v2158
-[that](tan) [snake-creeper](nāgavallī) [thus](ti) [say](vadanti) [saints](santaḥ)
+[therefore](tat) [betel-vine](nāgavallī) [thus](iti) [say](vadanti) [the-good](santaḥ)
 
 ## mukta-m0-p87-v2159
-[snake-maiden](nāgakanyā)
+[nāga+maiden](nāga+kanyā)
 
 ## mukta-m0-p87-v2160
-[of-her](tasyā) [like](iva) [by-herself](svayaṃ) [born](bhūtā) [snake-maiden](nāgakanyā) [also](pi) [beautiful](sundarī)
+[of-her](tasyā) [like](iva) [herself](svayaṃ) [become](bhūtā) [nāga+maiden](nāga+kanyā) [also](api) [beautiful](sundarī)
 
 ## mukta-m0-p87-v2161
-[enjoyer](bhoginī)
+[enjoying-one](bhoginī)
 
 ## mukta-m0-p87-v2162
-[enjoyer](bhoginī) [thus](ti) [said](gaditā) [separated](viyoginī)
+[enjoying-one](bhoginī) [thus](iti) [called](gaditā) [separation+devoid](viyoginī)
 
 ## mukta-m0-p87-v2163
-[enjoyment-beloved](bhogavallabhā)
+[page](p.) [259](259)) [enjoyment+beloved](bhoga+vallabhā)
 
 ## mukta-m0-p87-v2164
-[from-that](tata) [indeed](eva) [by-herself](svayaṃ) [I-know](jāne) [always](sarvadā) [enjoyment-beloved](bhogavallabhā)
+[therefore](tata) [indeed](eva) [myself](svayaṃ) [I-know](jāne) [always](sarvadā) [enjoyment+beloved](bhoga+vallabhā)
 
 ## mukta-m0-p87-v2165
-[all-script-possessing](sarvaśāstravatī) [knowledge](vidyā)
+[all+scripture+possessing](sarva+śāstra+vatī) [knowledge](vidyā)
 
 ## mukta-m0-p87-v2166
-[all-script-possessing](sarvaśāstravatī) [knowledge](vidyā) [blameless](navadyā) [in-heart](hṛdi) [always](sarvadā)
+[all+scripture+possessing](sarva+śāstra+vatī) [knowledge](vidyā) [blameless](anavadyā) [in-heart](hṛdi) [always](sarvadā)
 
 ## mukta-m0-p87-v2167
 [good-memory](susmṛtiḥ)
 
 ## mukta-m0-p87-v2168
-[one-pointed-mind](ekāgramanasā) [all](sarve) [not](na) [remember](smareyuḥ) [supreme](paraṃ) [how](katham)
+[with-one-pointed+mind](ekāgra+manasā) [all](sarve) [not](na) [should-remember](smareyuḥ) [other](paraṃ) [how](katham)
 
 ## mukta-m0-p87-v2169
-[righteous-speaker](dharmavādinī)
+[dharma+speaking](dharma+vādinī)
 
 ## mukta-m0-p87-v2170
-[not-one-duty](naikadharmāt) [stumbling](skhalantī) [that](yattadeṣā) [righteous-speaker](dharmavādinī)
+[not-from-one+dharma](na+eka+dharmāt) [slipping](skhalantī) [because](yat) [therefore](tat) [this-one](eṣā) [dharma+speaking](dharma+vādinī)
 
 ## mukta-m0-p87-v2171
-[hearing](śrutiḥ)
+[sacred-text](śrutiḥ)
 
 ## mukta-m0-p87-v2172
-[goes](yāti) [hearing](śrutiriyaṃ) [some](kācid) [like-brahman](brahmeva) [world-mother](jagadambikā)
+[goes](yāti) [sacred-text](śrutiḥ) [this](iyaṃ) [some](kācid) [Brahman](brahma) [indeed](eva) [world+mother](jagat+ambikā)
 
 ## mukta-m0-p87-v2173
-[hearing-holder](śrutidharā)
+[sacred-text+bearing](śruti+dharā)
 
 ## mukta-m0-p87-v2174
-[hearing](śrutiṃ) [world-progression](jagatpravṛttyai) [she](sā) [by-herself](svataḥ) [hearing-holder](śrutidharā) [supreme](parā)
+[sacred-text](śrutiṃ) [for-world+activity](jagat+pravṛttyai) [she](sā) [by-herself](svataḥ) [sacred-text+bearing](śruti+dharā) [supreme](parā)
 
 ## mukta-m0-p87-v2175
 [eldest](jyeṣṭhā)
