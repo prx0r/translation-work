@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p190-v4726
-[with-folded-hands](baddhāñjali+karaḥ) [composed](svasthaḥ) [with-eyes-closed-in-yoga](yoga+sammīlita+īkṣaṇaḥ)
+[with-folded-hands](baddhāñjalikaraḥ) [composed](svastho) [yoga+closed+eyes](yogasammīlitekṣaṇaḥ)
 
 ## mukta-m0-p190-v4727
-[one-should-concentrate](samādadhyāt) [senses](iṃdriyāṇi) [mind](manaḥ) [likewise](tathā)
+[should-concentrate](samādadhyāt) [senses](iṃdriyāṇi) [mind](manas) [likewise](tathā)
 
 ## mukta-m0-p190-v4728
-[having-restrained](āyamya) [and](ca) [breaths](prāṇān) [seated](āsīnaḥ) [unperturbed](anudvignaḥ) [should-meditate](ciṃtayet) [then](tataḥ)
+[breaths](prāṇān) [having-restrained](āyamya) [and](ca) [seated](āsīnaḥ) [unagitated](anudvignaḥ) [should-meditate](ciṃtayet) [then](tataḥ)
 
 ## mukta-m0-p190-v4729
-[and](ca) [one-should-exhale](ucchaset) [thus](evam) [repeatedly](asakṛt) [with-mind-fixed-on-that](tat+manāḥ) [should-practice](unnayet) [yoga](yogam)
+[should-exhale](ucchaset) [and](ca) [thus](evam) [repeatedly](asakṛt) [with-mind-fixed-on-that](tanmanā) [yoga](yogam) [should-practice](unnayet)
 
 ## mukta-m0-p190-v4730
-[from-the-heart](hṛdayāt) [upward](ūrddham) [indeed](eva) [but](tu)
+[from-heart](hṛdayāt) [upward](ūrddham) [indeed](eva) [but](tu)
 
 ## mukta-m0-p190-v4731
-[supreme](paraṃ) [place](sthānaṃ) [there](tatra) [the-path-to-its-door](tat+dvāra+paddhatiḥ)
+[supreme](paraṃ) [place](sthānaṃ) [there](tatra) [its+door+path](taddvārapaddhatiḥ)
 
 ## mukta-m0-p190-v4732
-[at-the-proper-time](yathā+kālaṃ) [from-the-navel](nābhitaḥ) [and](ca) [one-should-inhale](ucchvaset) [again](punaḥ)
+[at-proper-time](yathākālaṃ) [from-navel](nābhitaḥ) [and](ca) [should-inhale](ucchvaset) [again](punaḥ)
 
 ## mukta-m0-p190-v4733
-[the-great-soul](mahā+ātmānam) [the-self](ātmānaṃ) [attains](pratipadyate)
+[great-souled](mahātmānam) [self](ātmānaṃ) [attains](pratipadyate)
 
 ## mukta-m0-p190-v4734
-[Brahman](brahma) [the-goal](gatiṃ) [having-known](jñātvā) [one-becomes](bhavet) [pure](śuciḥ)
+[brahman](brahma) [goal](gatiṃ) [having-known](jñātvā) [one-should-become](bhavet) [pure](śuciḥ)
 
 ## mukta-m0-p190-v4735
-[to-the-deity](devaṃ) [he](saḥ) [should-go](gacchet) [to-the-supreme-state](paramām+gatim)
+[god](devaṃ) [he](sa) [should-reach](gacchet) [supreme+goal](paramāṅgatim)
 
 ## mukta-m0-p190-v4736
 [or](vā) [delights](ramate) [mind](manaḥ)
 
 ## mukta-m0-p190-v4737
-[one-should-know](jānīyāt) [in-dissolution](pradhvaṃse) [consisting-of-concentration](dhāraṇā+ātmake)
+[one-should-know](jānīyāt) [in-dissolution](pradhvaṃse) [consisting-of-concentration](dhāraṇātmake)
 
 ## mukta-m0-p190-v4738
-[one-should-attain](praviṃdeta) [by-the-power-of-such-recitation](īdṛk+japasya) [by-the-power](prabhāvataḥ)
+[should-attain](praviṃdet) [of-such+recitation](īdṛgjapasya) [by-power](prabhāvataḥ)
 
 ## mukta-m0-p190-v4739
-[the-lord-of-yogis](yogī+īśvaraṃ) [having-attained](prāpya) [free-from-dualities](nirdvandvaṃ) [higher-than-the-highest](paramāt+param)
+[lord-of-yogis](yogīśvaraṃ) [having-attained](prāpya) [free-from-dualities](nirdvandvaṃ) [higher-than-the-highest](paramātparam)
 
 ## mukta-m0-p190-v4740
-[with-svaras](svarān) [bathed](snātaḥ) [this](idam) [pure](pavitram) [supreme](uttamam)
+[with-syllables](svarān) [bathed](snātaḥ) [pure](pavitram) [this](idam) [supreme](uttamam)
 
 ## mukta-m0-p190-v4741
-[doer-of-good-deeds](su+kṛtī) [one-becomes](bhavet)
+[doer-of-good-deeds](sukṛtī) [one-should-become](bhavet)
 
 ## mukta-m0-p190-v4742
 [should-be](syāt) [of-the-faithful](śraddadhānasya) [performing](kurvataḥ)
 
 ## mukta-m0-p190-v4743
-[its-accomplishment](tat+siddhiḥ) [arises](upajāyate)
+[its+accomplishment](tatsiddhiḥ) [arises](upajāyate)
 
 ## mukta-m0-p190-v4744
-[statement](vākyam) [with-extreme-effort](atyanta+yatnena) [attains](abhyeti) [the-eternal-Brahman](brahma) [eternal](sanātanam)
+[speech](vākyam) [with-extreme+effort](atyantayatnena) [brahman](brahma) [attains](abhyeti) [eternal](sanātanam)
 
 ## mukta-m0-p190-v4745
-[by-a-body-containing-the-Vedas](veda+garbha+śarīreṇa) [he](saḥ) [indeed](vai) [as-Nārāyaṇa](nārāyaṇaḥ) [is-remembered](smṛtaḥ)
+[with-veda+womb+body](vedagarbhaśarīreṇa) [he](sa) [indeed](vai) [nārāyaṇa](nārāyaṇaḥ) [is-remembered](smṛtaḥ)
 
 ## mukta-m0-p190-v4746
-[after-death](pretya) [to-be-seen](draṣṭavyaṃ) [the-world](jagat) [consisting-of-stationary-and-moving](sthāvara+jaṅgamam)
+[after-death](pretya) [to-be-seen](draṣṭavyaṃ) [world](jagat) [stationary+moving](sthāvarajaṅgamam)
 
 ## mukta-m0-p190-v4747
-[the-blessed-lord](bhagavān) [and](ca) [is-heard](śruyate) [as-the-supreme-person](puruṣa+uttamaḥ)
+[blessed-lord](bhagavān) [and](ca) [is-heard](śruyate) [supreme-person](puruṣottamaḥ)
 
 ## mukta-m0-p190-v4748
-[according-to-the-forest-rite](āraṇyaka+vidhānena) [one-should-offer](nirvapet) [daily](pratyahaṃ) [oblation](carum)
+[by-forest+rite+method](āraṇyakavidhānena) [one-should-offer](nirvapet) [daily](pratyahaṃ) [oblation](carum)
 
 ## mukta-m0-p190-v4749
-[divine-eye](cakṣuḥ+divyaṃ) [to-the-priest](hotuḥ) [gives](dadāti) [he](saḥ)
+[eye](cakṣuḥ) [divine](divyaṃ) [to-the-priest](hotuḥ) [gives](dadāti) [he](saḥ)
 
 ## mukta-m0-p190-v4750
-[devoted-to-devotees](bhakta+vatsalaḥ)
+[devoted-to-devotees](bhaktavatsalaḥ)
