@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p28-v676
-[sometimes](kadācit) [kṣatriya+family+born](kṣatriya-kula-upannaḥ) [that+suitable](tat-anukūlāṃ) [conduct](vṛttiṃ) [performing](kurvan) [he-remains](āste)
+[sometimes](kadācit) [kṣatriya+family+born](kṣatriyakulopannas) [that+suitable](tadanukulā) [conduct](vṛttiṃ) [performing](kuryan) [remains](nāste)
 
 ## mukta-m0-p28-v677
-[sometimes](kadācit) [brahmin+family+born](brahma-kula-utpannaḥ) [that+suitable](tat-anukūlāṃ) [conduct](vṛttiṃ) [performing](kurvan) [he-remains](āste)
+[sometimes](kadācit) [brahmin+family+born](brahmakulotpannas) [that+suitable](tadanukūlāṃ) [conduct](vṛttiṃ) [performing](kurvan) [remains](nāste)
 
 ## mukta-m0-p28-v678
-[sometimes](kadācit) [four+stages+duties](cātur-āśramya-dharmān) [performing](kurvan) [he-remains](āste) [thus](āste)
+[sometimes](kadācit) [four+stages+duties](cāturāśramyadharmān) [performing](kurvan) [remains](nāste)
 
 ## mukta-m0-p28-v679
-[alms+for-the-sake-of](bhikṣā-artham) [wandering-about](paryaṭan) [he-remains](āste) [thus](āste)
+[alms+for-the-sake-of](bhikṣārthaṃ) [wandering-about](paryaṭan) [remains](nāste)
 
 ## mukta-m0-p28-v680
-[dwelling](va) [abiding](san) [he](ā) [remains](ste)
+[dwelling](vasan) [remains](nāste)
 
 ## mukta-m0-p28-v681
-[or](vā) [doctrines](matāni) [establishing](saṃsthāpayan) [duties](dharmāḥ) [and](ca) [establishing](saṃsthāpayan) [he-remains](āste)
+[or](vā) [doctrines](matāni) [establishing](saṃsthāpayan) [duties](dharmāś) [and](ca) [establishing](saṃsthāpayan) [remains](nāste)
 
 ## mukta-m0-p28-v682
-[blood+smeared+limbed](rudhira-digdha-aṅgaḥ) [he-remains](āste) [thus](āste) [abiding](āste)
+[blood+smeared+limbed](rudhiradigdhāṅga) [remains](āste)
 
 ## mukta-m0-p28-v683
-[or](vā) [gifts](dānāni) [giving](dadan) [he-remains](āste) [thus](āste)
+[or](vā) [gifts](dānāni) [giving](dadan) [remains](nāste)
 
 ## mukta-m0-p28-v684
-[or](vā) [all](sarva) [being+multitude](bhūta-jātam) [like-a-stick](daṇḍavat) [prostrating](praṇaman) [he-remains](āste)
+[or](vā) [all](sarva) [being+multitude](bhūtajātaṃ) [like-a-stick](daṇḍavat) [prostrating](praṇaman) [remains](nāste)
 
 ## mukta-m0-p28-v685
-[eating](bhuñjan) [drinking](piban) [he-remains](āste) [thus](āste)
+[eating](bhuñjan) [drinking](piban) [remains](nāste)
 
 ## mukta-m0-p28-v686
-[or](vā) [lawful+wives+with](dharma-patnībhiḥ) [fire-offering+etc.](homa-ādīn) [subsequent+rites+ending-with](uttara-kratv-antān) [performing](kurvan) [he-remains](āste)
+[or](vā) [with-lawful-wives](dharmapatnībhiḥ) [oblation+and-others](homādīn) [ending-with-final-sacrifices](uttarakratvantān) [performing](kurvan) [remains](nāste)
 
 ## mukta-m0-p28-v687
-[or](vā) [living+liberated+characteristics](jīvan-mukta-lakṣaṇāni) [bearing](dhārayan) [he-remains](āste) [thus](āste)
+[or](vā) [living+liberated+characteristics](jīvanmuktalakṣaṇāni) [bearing](dhārayan) [remains](nāste)
 
 ## mukta-m0-p28-v688
-[or](vā) [death](pañcatvam) [having-attained](prāpya) [another+body+entered](para-śarīra-āviṣṭaḥ) [he-remains](āste)
+[or](vā) [death](pañcatvaṃ) [having-attained](prāpya) [another+body+entered](paraśarīrāviṣṭa) [remains](āste)
 
 ## mukta-m0-p28-v689
-[or](vā) [minuteness+etc.+with](aṇimā-ādibhiḥ) [endowed](yuktaḥ) [he-remains](āste) [thus](āste)
+[or](vā) [minuteness+and-others](aṇimādibhiḥ) [endowed](yukta) [remains](āste)
 
 ## mukta-m0-p28-v690
-[or](vā) [yoga+powers](yoga-siddhiḥ) [displaying](darśayan) [he-remains](āste) [thus](āste)
+[or](vā) [yoga+powers](yogasiddhiḥ) [displaying](darśayan) [remains](nāste)
 
 ## mukta-m0-p28-v691
-[or](vā) [leprous](kuṣṭhī) [diseased](vyādhitaḥ) [consumption+etc.+by](yakṣma-ādibhiḥ) [diseases](rogaiḥ) [seized](gṛhītaḥ) [he-remains](āste)
+[or](vā) [leprous](kuṣṭhī) [diseased](vyādhito) [consumption+and-others](yakṣmādibhī) [by-diseases](rogaiḥ) [seized](gṛhīta) [remains](āste)
 
 ## mukta-m0-p28-v692
-[or](vā) [death](pañcatvam) [having-attained](prāpya) [in-hells](narakeṣu) [falling](patan) [he-remains](āste)
+[or](vā) [death](pañcatvaṃ) [having-attained](prāpya) [in-hells](narakeṣu) [falling](patan) [remains](nāste)
 
 ## mukta-m0-p28-v693
-[or](vā) [in-heavens](svargeṣu) [delighting](raman) [he-remains](āste) [thus](āste)
+[or](vā) [in-heavens](svargeṣu) [delighting](raman) [remains](nāste)
 
 ## mukta-m0-p28-v694
-[sufferings](duḥkhāni) [not-touching](aparāmṛśan) [indeed](eva) [he-remains](āste)
+[sufferings](duḥkhāni) [not-touching](aparāmṛśan) [indeed](eva) [remains](āste)
 
 ## mukta-m0-p28-v695
-[action+fruits](karma-phalāni) [enjoying](bhuñjan) [or](vā) [not-enjoying](abhuñjan) [true+resolve](satya-saṃkalpaḥ) [lord+dependent](īśvara-adhīnaḥ) [he-remains](āste)
+[action+fruits](karmaphalāni) [experiencing](bhuñjan) [or](vā) [not-experiencing](abhuñjan) [true+will](satyasaṃkalpa) [lord+dependent](īśvarādhīna) [remains](āste)
 
 ## mukta-m0-p28-v696
-[own+lord+by-command](sva-īśvara-ājñayā) [like-the-lord](īśvaravat) [acting](sva-īśvara-ājñayā) [abiding](īśvaravat)
+[own+lord+by-command](sveśvarājñayā) [like-the-lord](īśvaravat)
 
 ## mukta-m0-p28-v697
-[own+lord+world](sva-īśa-lokam) [he-goes](eti) [thence](tataḥ) [again](punar) [returns](āvartate) [downward](nīcaiḥ)
+[own+lord+world](sveśalokam) [goes](eti) [thence](tataḥ) [again](punar) [returns](āvartate) [downward](nīcaiḥ)
 
 ## mukta-m0-p28-v698
-[this](eṣā) [absolute+liberation](kaivalya-muktiḥ) [is](eṣā) [thus](kaivalya-muktiḥ)
+[this](eṣā) [absolute+liberation](kaivalyamuktiḥ)
 
 ## mukta-m0-p28-v699
-[living+liberation](jīvan-mukti) [absolute+liberation+of](kaivalya-muktyoḥ) [distinction](viśeṣaḥ) [is](viśeṣaḥ)
+[living+liberation+absolute+liberation+of-the-two](jīvanmuktikaivalyamuktyoḥ) [distinction](viśeṣaḥ)
 
 ## mukta-m0-p28-v700
-[supreme](parā) [living+liberated](jīvan-muktaḥ) [lord+similar+bliss](īśvara-sadṛśa-āhlādaḥ) [possessing](īśvara-sadṛśa-āhlādaḥ)
+[supreme+living+liberated](parājīvanmukta) [lord+similar+bliss](īśvarasadṛśāhlādaḥ)

@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p19-v451
-[thus](iti) [supreme-bliss](pārānanda)+[in-sūtra](sūtre) [fifth](pañcama)+[daily-section](m+āhnikam) [ends](samāptam)
+[thus](iti) [in-pārānanda-sūtra](pārānanda+sūtre) [fifth](pañcama) [chapter](māhnikam)
 
 ## mukta-m0-p19-v452
-[sacred-syllable](oṃ) [now](atha)+[therefore](ataḥ) [supreme-bliss](paramānanda)+[doctrine](mataṃ) [we-shall-expound](vakṣyāmaḥ)
+[oṃ](oṃ) [now](atha) [therefore](ataḥ) [supreme-bliss-doctrine](paramānanda+mataṃ) [we-shall-expound](vakṣyāmaḥ)
 
 ## mukta-m0-p19-v453
-[supreme](parama)+[self](ātmā) [is](asti) [the](saḥ) [reality](tattvam)
+[supreme](parama) [self](ātmā) [supreme-self](paramātmā) [is](paramātmā)
 
 ## mukta-m0-p19-v454
-[lords](īśvarāḥ) [separate](pṛthak) [separate](pṛthak) [each](pratyekam)
+[lords](īśvarāḥ) [separately](pṛthak) [separately](pṛthak) [distinct](pṛthak)
 
 ## mukta-m0-p19-v455
-[individual-souls](jīvāḥ) [separate](pṛthak) [separate](pṛthak) [each](pratyekam)
+[individual-souls](jīvāḥ) [separately](pṛthak) [separately](pṛthak) [distinct](pṛthak)
 
 ## mukta-m0-p19-v456
-[eternal-bliss](nityānandaḥ) [being](sat)+[consciousness](cit)+[bliss](ānanda)+[consisting-of](maya)+[form](mūrtiḥ) [is](asti)
+[eternal-bliss](nitya+ānandaḥ) [being-consciousness-bliss](sat+cit+ānanda) [consisting-of](maya) [form](mūrtiḥ)
 
 ## mukta-m0-p19-v457
-[in-all-respects](sarvataḥ) [beautiful](su)+[form](rūpaḥ) [is](asti) [he](saḥ)
+[everywhere](sarvataḥ) [good](su) [form](rūpaḥ) [beautiful-everywhere](surūpaḥ)
 
 ## mukta-m0-p19-v458
-[in-all-respects](sarvataḥ) [all](sarva)+[knowing](jñaḥ) [is](asti) [he](saḥ)
+[everywhere](sarvataḥ) [all](sarva) [knowing](jñaḥ) [omniscient-everywhere](sarvajñaḥ)
 
 ## mukta-m0-p19-v459
-[in-all-respects](sarvataḥ) [all](sarva)+[lord](īśvaraḥ) [is](asti) [he](saḥ)
+[everywhere](sarvataḥ) [all](sarva) [lord](īśvaraḥ) [all-lord-everywhere](sarveśvaraḥ)
 
 ## mukta-m0-p19-v460
-[veda](veda)+[speech](vāk) [is](asti) [he](saḥ) [indeed](eva)
+[veda](veda) [speech](vāk) [voice-of-veda](veda+vāk) [revealed-word](vedavāk)
 
 ## mukta-m0-p19-v461
-[own](sva)+[non-different](abhinna)+[ornament](alaṅkāraḥ) [own](sva)+[non-different](abhinna)+[weapon](āyudhaḥ) [own](sva)+[non-different](abhinna)+[vehicle](vāhana) [thus](iti) [Kālaśambhu](kālaśambhuḥ)
+[own-non-different-ornament](sva+abhinna+alaṅkāraḥ) [own-non-different-weapon](sva+abhinna+āyudhaḥ) [own-non-different-vehicle](sva+abhinna+vāhana) [thus](iti) [kālaśambhu](kālaśambhuḥ)
 
 ## mukta-m0-p19-v462
-[from-that](tad)+[different](bhinna)+[beginningless](anādi)+[endless](ananta)+[ornament](alaṅkāra)+[weapon](āyudha)+[vehicles](vāhanāni) [thus](iti) [Unmattabhairava](unmattabhairavaḥ) [is](asti)
+[from-that-different-beginningless-endless-ornament-weapon-vehicles](tat+bhinna+anādi+ananta+alaṅkāra+āyudha+vāhanāni) [thus](iti) [unmatta-bhairava](unmatta+bhairavaḥ) [named](unmatta+bhairavaḥ)
 
 ## mukta-m0-p19-v463
-[inconceivable](acintya)+[sovereignty](aiśvaryaḥ) [in-all-respects](sarvataḥ) [is](asti) [he](saḥ)
+[inconceivable](acintya) [sovereignty](aiśvaryaḥ) [everywhere](sarvataḥ) [all-pervading](sarvataḥ)
 
 ## mukta-m0-p19-v464
-[unknowable](avedyaḥ)+[inconceivable](acintyaḥ)+[invisible](adṛśyaḥ) [is](asti) [he](saḥ) [indeed](eva)
+[unknowable](avedyaḥ) [inconceivable](acintyaḥ) [invisible](adṛśyaḥ) [beyond-perception](avedyaḥ)
 
 ## mukta-m0-p19-v465
-[well-knowable](susaṃvedyaḥ) [well-conceivable](susaṃcintyaḥ) [well-visible](susaṃdṛśyaḥ) [is](asti)
+[well-knowable](su+saṃvedyaḥ) [well-conceivable](su+saṃcintyaḥ) [well-visible](su+saṃdṛśyaḥ) [accessible](su+saṃdṛśyaḥ)
 
 ## mukta-m0-p19-v466
-[yoga](yoga)+[fruit](phala)+[assigner](nirdeṣṭā) [in-all-respects](sarvataḥ) [is](asti) [he](saḥ)
+[yoga-fruit](yoga+phala) [assigner](nirdeṣṭā) [everywhere](sarvataḥ) [dispenser](nirdeṣṭā)
 
 ## mukta-m0-p19-v467
-[in-all-respects](sarvataḥ) [yoga](yoga)+[fruit](phala)+[giver](daḥ) [is](asti) [he](saḥ)
+[everywhere](sarvataḥ) [yoga-fruit](yoga+phala) [giver](daḥ) [bestower](yogaphaladaḥ)
 
 ## mukta-m0-p19-v468
-[by-lords](īśvaraiḥ)+[worshipped](upāsyaḥ) [in-all-respects](sarvataḥ) [is](asti) [he](saḥ)
+[by-lords](īśvaraiḥ) [worshipped](upāsyaḥ) [everywhere](sarvataḥ) [adored](upāsyaḥ)
 
 ## mukta-m0-p19-v469
-[by-Īśvara](īśvara)+[worshipped](upāsyaḥ) [in-all-respects](sarvataḥ) [is](asti) [he](saḥ)
+[by-lord](īśvara) [worshipped](upāsyaḥ) [everywhere](sarvataḥ) [adored](upāsyaḥ)
 
 ## mukta-m0-p19-v470
-[of-lords](īśvarāṇāṃ) [of-own-devotees](sva)+[bhaktānāṃ] [punishment](nigraha)+[and-grace](anugraha)+[capable](kṣamaḥ) [is](asti)
+[of-lords](īśvarāṇāṃ) [of-own-devotees](sva+bhaktānāṃ) [restraint-and-grace](nigraha+anugraha) [capable](kṣamaḥ)
 
 ## mukta-m0-p19-v471
-[by-all](sarva)+[accessible](gamyaḥ) [is](asti) [he](saḥ) [indeed](eva)
+[by-all](sarva) [accessible](gamyaḥ) [everywhere-attainable](sarvagamyaḥ) [reachable](sarvagamyaḥ)
 
 ## mukta-m0-p19-v472
-[affliction](kleśa)+[action](karma)+[ripening](vipākā)+[untouched](aparāmṛṣṭaḥ) [in-all-respects](sarvataḥ) [is](asti) [he](saḥ)
+[affliction-action-fruition](kleśa+karma+vipāka) [untouched](aparāmṛṣṭaḥ) [everywhere](sarvataḥ) [unaffected](aparāmṛṣṭaḥ)
 
 ## mukta-m0-p19-v473
-[by-all](sarva)+[accessible](gamyaḥ) [is](asti) [he](saḥ) [indeed](eva)
+[by-all](sarva) [accessible](gamyaḥ) [everywhere-attainable](sarvagamyaḥ) [reachable](sarvagamyaḥ)
 
 ## mukta-m0-p19-v474
-[of-all](sarva)+[origination](utpatti)+[maker](kṛt) [is](asti) [he](saḥ) [indeed](eva)
+[all](sarva) [origination](utpatti) [maker](kṛt) [creator-of-all](sarvotpattikṛt)
 
 ## mukta-m0-p19-v475
-[of-all](sarva)+[maintenance](sthiti)+[maker](kṛt) [is](asti) [he](saḥ) [indeed](eva)
+[all](sarva) [maintenance](sthiti) [maker](kṛt) [sustainer-of-all](sarvasthitikṛt)
