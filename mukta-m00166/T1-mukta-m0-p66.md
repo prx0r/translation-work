@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p66-v1626
-[poison-eating](viṣāśanena) [become](saṃvṛttā) [poison-enemy](viṣāriḥ) [she](sā) [also](api) [world-mother](viśvasūḥ)
+[poison](viṣa)+[by-eating](āśanena) [become](saṃvṛttā) [poison](viṣa)+[enemy](ariḥ) [she](sā)+[also](api) [universe](viśva)+[mother](sūḥ)
 
 ## mukta-m0-p66-v1627
-[serpent-subduer](nāgadamanī)
+[serpent](nāga)+[subduing](damanī) [serpent](nāga)+[tamer](damanī) [divine](nāgadamanī) [goddess](nāgadamanī)
 
 ## mukta-m0-p66-v1628
-[with-shame](salajjeva) [is](asti) [she](sā) [serpent-subduer](nāgadamanī) [divine-power](śaktiraiśvarī)
+[with](sa)+[modesty](lajjeva)+[is](asti) [she](sā) [serpent](nāga)+[subduing](damanī) [power](śaktiḥ)+[supreme](aiśvarī)
 
 ## mukta-m0-p66-v1629
-[brotherhood](bhrātṛtvena) [united](samāgate) [here](atra) [tenth](daśamī) [devotion](bhaktiḥ) [cessation](virāmaṃ) [gone](gatā)
+[brotherhood](bhrātṛtvena) [having-come](samāgate)+[here](atra) [tenth](daśamī) [devotion](bhaktiḥ)+[cessation](virāmaṃ) [gone](gatā)
 
 ## mukta-m0-p66-v1630
-[great-poem](mahākāvye) [tenth](daśamī) [devotion](bhaktiḥ)
+[great](mahā)+[poem](kāvye) [tenth](daśamī) [devotion](bhaktiḥ) [chapter](bhaktiḥ)
 
 ## mukta-m0-p66-v1631
-[kurukullā](kurukullā)
+[kurukullā](kurukullā) [goddess](kurukullā) [deity](kurukullā) [kurukullā](kurukullā)
 
 ## mukta-m0-p66-v1632
-[kula-akula-knowledge-grace-famed-rise](kulākulaparijñānadākṣiṇyaprathitodayam)
+[family](kula)+[non-family](akula)+[knowledge](parijñāna)+[skill](dākṣiṇya)+[renowned](prathita)+[arising](udayam)
 
 ## mukta-m0-p66-v1633
-[nectar-born](amṛtodbhavā)
+[nectar](amṛta)+[born](udbhavā) [nectar](amṛta)+[originated](udbhavā) [goddess](amṛtodbhavā) [she](amṛtodbhavā)
 
 ## mukta-m0-p66-v1634
-[compassion](dayayā) [devotee-best](bhaktavaryo) [this](ayaṃ) [she](sā) [may-live](jīyād) [nectar-born](amṛtodbhavā)
+[by-compassion](dayayā) [devotee](bhakta)+[best](varyaḥ)+[this](ayaṃ) [she](sā) [may-be-victorious](jīyāt)+[nectar](amṛta)+[born](udbhavā)
 
 ## mukta-m0-p66-v1635
-[spirit-fear-removing](bhūtabhītiharā) [protection](rakṣā)
+[being](bhūta)+[fear](bhīti)+[removing](harā) [protection](rakṣā) [guardian](rakṣā) [savior](bhūtabhītiharā)
 
 ## mukta-m0-p66-v1636
-[spirit-fear-removing](bhūtabhītiharā) [protection](rakṣā) [herself](svayaṃ) [she](sā) [supreme-lady](parameśvarī)
+[being](bhūta)+[fear](bhīti)+[removing](harā) [protection](rakṣā) [herself](svayaṃ) [she](sā) [supreme](parama)+[goddess](īśvarī)
 
 ## mukta-m0-p66-v1637
-[spirit-possession-destroying](bhūtāveśavināśinī)
+[being](bhūta)+[possession](āveśa)+[destroying](vināśinī) [destroyer](vināśinī) [goddess](bhūtāveśavināśinī) [she](bhūtāveśavināśinī)
 
 ## mukta-m0-p66-v1638
-[may-be](bhūyād) [prosperity-giving](bhūtipradā) [goddess](devī) [spirit-slayer-restrainer](bhūtāhantānivāriṇī)
+[may-be](bhūyād) [welfare](bhūti)+[giving](pradā) [goddess](devī) [beings](bhūta)+[slayer](hantā)+[remover](nivāriṇī)
 
 ## mukta-m0-p66-v1639
-[demon-slaying](rakṣoghnī)
+[demon](rakṣaḥ)+[slaying](ghnī) [demon](rakṣaḥ)+[destroyer](ghnī) [goddess](rakṣoghnī) [she](rakṣoghnī)
 
 ## mukta-m0-p66-v1640
-[demon-slaying](rakṣoghnī) [she](sā) [whose](kasya) [honorable](mānyā) [not](na) [mother](mātā)
+[demon](rakṣaḥ)+[slaying](ghnī) [she](sā) [of-whom](kasya) [honorable](mānyā) [not](na) [mother](mātā)
 
 ## mukta-m0-p66-v1641
-[demoness](rākṣasī)
+[demoness](rākṣasī) [she](rākṣasī) [goddess](rākṣasī) [form](rākṣasī)
 
 ## mukta-m0-p66-v1642
-[she](sā) [demoness](rākṣasī) [remove](haratu) [demon-born](rākṣasajaṃ) [fear](bhayaṃ) [our](naḥ)
+[she](sā) [demoness](rākṣasī) [may-remove](haratu) [demon](rākṣasa)+[born](jaṃ) [fear](bhayaṃ) [of-us](naḥ)
 
 ## mukta-m0-p66-v1643
-[night](rātriḥ)
+[night](rātriḥ) [night](rātriḥ) [goddess](rātriḥ) [time](rātriḥ)
 
 ## mukta-m0-p66-v1644
-[dream-come](svapnāgataiḥ) [beloveds](priyatamaiḥ) [happiness-giving](sukhadā) [may-be](astu) [night](rātriḥ)
+[dream](svapna)+[arrived](āgataiḥ) [beloveds](priyatamaiḥ) [happiness](sukha)+[giving](dā)+[may-be](astu) [night](rātriḥ)
 
 ## mukta-m0-p66-v1645
-[long-sleep](dīrghanidrā)
+[long](dīrgha)+[sleep](nidrā) [long](dīrgha)+[slumber](nidrā) [goddess](dīrghanidrā) [state](dīrghanidrā)
 
 ## mukta-m0-p66-v1646
-[auspicious](śivā) [long-sleep](dīrghanidrā) [supreme-bliss-giving](parānandadā) [may-be](astu)
+[auspicious](śivā) [long](dīrgha)+[sleep](nidrā) [supreme](para)+[bliss](ānanda)+[giving](dā)+[may-be](astu)
 
 ## mukta-m0-p66-v1647
-[day-going](divāgatiḥ)
+[day](divā)+[going](gatiḥ) [daytime](divā)+[course](gatiḥ) [goddess](divāgatiḥ) [path](divāgatiḥ)
 
 ## mukta-m0-p66-v1648
-[day-going](divāgatiḥ) [she](sā) [may-be](astu) [auspicious](śivā) [going](gatiḥ) [our](naḥ)
+[day](divā)+[going](gatiḥ) [may-be](sāstu) [auspicious](śivā) [path](gatiḥ)+[of-us](naḥ)
 
 ## mukta-m0-p66-v1649
-[moonlight](candrikā)
+[moonlight](candrikā) [moonlight](candrikā) [radiance](candrikā) [light](candrikā)
 
 ## mukta-m0-p66-v1650
-[moonlight-refuge-born](ścandrikāśrayabhavo) [quality](guṇo) [indeed](hyayam)
+[moonlight](candrikā)+[resort](āśraya)+[born](bhavaḥ) [quality](guṇaḥ) [indeed](hi)+[this](ayam)

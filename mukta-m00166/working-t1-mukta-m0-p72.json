@@ -8,11 +8,11 @@
 "tokens": [
 {
 "surface": "yogapaṭṭadharā",
-"quick_gloss": "yoga-band-possessor"
+"quick_gloss": "yoga-belt+wearing"
 },
 {
 "surface": "bhūtā",
-"quick_gloss": "being"
+"quick_gloss": "become"
 },
 {
 "surface": "citraṃ",
@@ -20,7 +20,7 @@
 },
 {
 "surface": "yogeśvarīśvarī",
-"quick_gloss": "yoga-goddess+lord"
+"quick_gloss": "yoga-lords+sovereign"
 }
 ]
 },
@@ -33,7 +33,19 @@
 "tokens": [
 {
 "surface": "muktā",
-"quick_gloss": "liberated-one"
+"quick_gloss": "pearl"
+},
+{
+"surface": "muktā",
+"quick_gloss": "liberated"
+},
+{
+"surface": "muktā",
+"quick_gloss": "released"
+},
+{
+"surface": "muktā",
+"quick_gloss": "free"
 }
 ]
 },
@@ -46,19 +58,23 @@
 "tokens": [
 {
 "surface": "padmapatraṃ",
-"quick_gloss": "lotus-leaf"
+"quick_gloss": "lotus+leaf"
 },
 {
-"surface": "jayatyeṣā",
-"quick_gloss": "conquers"
+"surface": "jayaty",
+"quick_gloss": "triumphs"
+},
+{
+"surface": "eṣā",
+"quick_gloss": "this"
 },
 {
 "surface": "muktā",
-"quick_gloss": "liberated-one"
+"quick_gloss": "pearl"
 },
 {
 "surface": "niḥspṛhasaṃspṛhā",
-"quick_gloss": "desireless-desiring"
+"quick_gloss": "desireless+desire"
 }
 ]
 },
@@ -71,7 +87,7 @@
 "tokens": [
 {
 "surface": "muktānāṃ",
-"quick_gloss": "of-liberated-ones"
+"quick_gloss": "of-the-liberated"
 },
 {
 "surface": "paramā",
@@ -80,6 +96,10 @@
 {
 "surface": "gatiḥ",
 "quick_gloss": "goal"
+},
+{
+"surface": "gatiḥ",
+"quick_gloss": "state"
 }
 ]
 },
@@ -91,20 +111,28 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "yāmagatvaiva",
-"quick_gloss": "by-yama-going"
+"surface": "yām",
+"quick_gloss": "which"
+},
+{
+"surface": "agatva",
+"quick_gloss": "having-gone"
+},
+{
+"surface": "eva",
+"quick_gloss": "indeed"
 },
 {
 "surface": "kutrāpi",
-"quick_gloss": "somewhere"
+"quick_gloss": "anywhere"
 },
 {
 "surface": "prāpnuvanti",
-"quick_gloss": "attain"
+"quick_gloss": "obtain"
 },
 {
 "surface": "vicakṣaṇāḥ",
-"quick_gloss": "discerning-ones"
+"quick_gloss": "the-wise"
 }
 ]
 },
@@ -118,6 +146,18 @@
 {
 "surface": "nārasiṃhī",
 "quick_gloss": "narasimhi"
+},
+{
+"surface": "nārasiṃhī",
+"quick_gloss": "goddess"
+},
+{
+"surface": "nārasiṃhī",
+"quick_gloss": "lion-woman"
+},
+{
+"surface": "nārasiṃhī",
+"quick_gloss": "deity"
 }
 ]
 },
@@ -130,23 +170,27 @@
 "tokens": [
 {
 "surface": "virodhyārādhinau",
-"quick_gloss": "opposing"
+"quick_gloss": "opponent+and-worshipper"
 },
 {
 "surface": "bhaktau",
 "quick_gloss": "devotees"
 },
 {
-"surface": "nārasiṃhīti",
+"surface": "nārasiṃhī",
 "quick_gloss": "narasimhi"
 },
 {
+"surface": "iti",
+"quick_gloss": "thus"
+},
+{
 "surface": "sā",
-"quick_gloss": "that"
+"quick_gloss": "she"
 },
 {
 "surface": "śivā",
-"quick_gloss": "auspicious"
+"quick_gloss": "auspicious-one"
 }
 ]
 },
@@ -159,7 +203,19 @@
 "tokens": [
 {
 "surface": "sujanmā",
-"quick_gloss": "good-born"
+"quick_gloss": "good-birth"
+},
+{
+"surface": "sujanmā",
+"quick_gloss": "noble-born"
+},
+{
+"surface": "sujanmā",
+"quick_gloss": "well-born"
+},
+{
+"surface": "sujanmā",
+"quick_gloss": "auspicious-birth"
 }
 ]
 },
@@ -184,11 +240,11 @@
 },
 {
 "surface": "prathitā",
-"quick_gloss": "famous"
+"quick_gloss": "renowned"
 },
 {
 "surface": "sujanmā",
-"quick_gloss": "good-born"
+"quick_gloss": "good-birth"
 }
 ]
 },
@@ -201,7 +257,19 @@
 "tokens": [
 {
 "surface": "trivargaphaladāyinī",
-"quick_gloss": "three-aims-fruit-giving"
+"quick_gloss": "three-aims+fruit+giver"
+},
+{
+"surface": "trivargaphaladāyinī",
+"quick_gloss": "bestower"
+},
+{
+"surface": "trivargaphaladāyinī",
+"quick_gloss": "granting"
+},
+{
+"surface": "trivargaphaladāyinī",
+"quick_gloss": "provider"
 }
 ]
 },
@@ -214,7 +282,7 @@
 "tokens": [
 {
 "surface": "yat",
-"quick_gloss": "that"
+"quick_gloss": "because"
 },
 {
 "surface": "tvaṃ",
@@ -229,16 +297,28 @@
 "quick_gloss": "great"
 },
 {
-"surface": "tattu",
-"quick_gloss": "that-indeed"
+"surface": "tat",
+"quick_gloss": "that"
 },
 {
-"surface": "muktānāmapi",
-"quick_gloss": "of-liberated-ones"
+"surface": "tu",
+"quick_gloss": "indeed"
 },
 {
-"surface": "yattathā",
-"quick_gloss": "as"
+"surface": "muktānām",
+"quick_gloss": "of-the-liberated"
+},
+{
+"surface": "api",
+"quick_gloss": "also"
+},
+{
+"surface": "yat",
+"quick_gloss": "which"
+},
+{
+"surface": "tathā",
+"quick_gloss": "likewise"
 }
 ]
 },
@@ -251,7 +331,19 @@
 "tokens": [
 {
 "surface": "dharmadā",
-"quick_gloss": "righteousness-giving"
+"quick_gloss": "dharma-giver"
+},
+{
+"surface": "dharmadā",
+"quick_gloss": "righteousness-bestower"
+},
+{
+"surface": "dharmadā",
+"quick_gloss": "duty-giver"
+},
+{
+"surface": "dharmadā",
+"quick_gloss": "virtue-giver"
 }
 ]
 },
@@ -275,8 +367,12 @@
 "quick_gloss": "indeed"
 },
 {
-"surface": "dharmadāsi",
-"quick_gloss": "righteousness-giving"
+"surface": "dharmadā",
+"quick_gloss": "dharma-giver"
+},
+{
+"surface": "asi",
+"quick_gloss": "you-are"
 }
 ]
 },
@@ -289,7 +385,19 @@
 "tokens": [
 {
 "surface": "dhanadā",
-"quick_gloss": "wealth-giving"
+"quick_gloss": "wealth-giver"
+},
+{
+"surface": "dhanadā",
+"quick_gloss": "riches-bestower"
+},
+{
+"surface": "dhanadā",
+"quick_gloss": "treasure-giver"
+},
+{
+"surface": "dhanadā",
+"quick_gloss": "prosperity-giver"
 }
 ]
 },
@@ -302,19 +410,19 @@
 "tokens": [
 {
 "surface": "nnaca",
-"quick_gloss": "not"
+"quick_gloss": "and-not"
 },
 {
 "surface": "sargādiṣu",
-"quick_gloss": "creation-etc"
+"quick_gloss": "in-creation+etc."
 },
 {
 "surface": "yat",
-"quick_gloss": "what"
+"quick_gloss": "which"
 },
 {
 "surface": "sukaṣṭarūpam",
-"quick_gloss": "very-difficult-form"
+"quick_gloss": "very-difficult+form"
 }
 ]
 },
@@ -327,7 +435,19 @@
 "tokens": [
 {
 "surface": "kāmadā",
-"quick_gloss": "desire-giving"
+"quick_gloss": "desire-giver"
+},
+{
+"surface": "kāmadā",
+"quick_gloss": "wish-bestower"
+},
+{
+"surface": "kāmadā",
+"quick_gloss": "love-giver"
+},
+{
+"surface": "kāmadā",
+"quick_gloss": "pleasure-giver"
 }
 ]
 },
@@ -339,8 +459,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "ardhāṅgaśambhuryat",
-"quick_gloss": "half-bodied-shambhu"
+"surface": "ardhāṅgaśambhur",
+"quick_gloss": "half-body+shambhu"
+},
+{
+"surface": "yat",
+"quick_gloss": "because"
 },
 {
 "surface": "tvaṃ",
@@ -348,7 +472,7 @@
 },
 {
 "surface": "ca",
-"quick_gloss": "ca"
+"quick_gloss": "and"
 },
 {
 "surface": "dvidhā",
@@ -356,11 +480,11 @@
 },
 {
 "surface": "jayasi",
-"quick_gloss": "conquer"
+"quick_gloss": "triumph"
 },
 {
 "surface": "kāmadā",
-"quick_gloss": "desire-giving"
+"quick_gloss": "desire-giver"
 }
 ]
 },
@@ -373,7 +497,19 @@
 "tokens": [
 {
 "surface": "mokṣadā",
-"quick_gloss": "liberation-giving"
+"quick_gloss": "liberation-giver"
+},
+{
+"surface": "mokṣadā",
+"quick_gloss": "release-bestower"
+},
+{
+"surface": "mokṣadā",
+"quick_gloss": "emancipation-giver"
+},
+{
+"surface": "mokṣadā",
+"quick_gloss": "salvation-giver"
 }
 ]
 },
@@ -393,16 +529,16 @@
 "quick_gloss": "where"
 },
 {
-"surface": "so",
-"quick_gloss": "so"
+"surface": "saḥ",
+"quick_gloss": "he"
 },
 {
 "surface": "asmi",
-"quick_gloss": "I"
+"quick_gloss": "am-I"
 },
 {
 "surface": "satatādhikāravān",
-"quick_gloss": "constant-authority-possessing"
+"quick_gloss": "constant+authority+possessing"
 }
 ]
 },
@@ -415,7 +551,19 @@
 "tokens": [
 {
 "surface": "dyutiḥ",
+"quick_gloss": "radiance"
+},
+{
+"surface": "dyutiḥ",
+"quick_gloss": "light"
+},
+{
+"surface": "dyutiḥ",
 "quick_gloss": "splendor"
+},
+{
+"surface": "dyutiḥ",
+"quick_gloss": "brilliance"
 }
 ]
 },
@@ -440,11 +588,11 @@
 },
 {
 "surface": "dayākarī",
-"quick_gloss": "compassionate"
+"quick_gloss": "compassion+making"
 },
 {
 "surface": "dyutiḥ",
-"quick_gloss": "splendor"
+"quick_gloss": "radiance"
 }
 ]
 },
@@ -458,6 +606,18 @@
 {
 "surface": "sākṣiṇī",
 "quick_gloss": "witness"
+},
+{
+"surface": "sākṣiṇī",
+"quick_gloss": "observer"
+},
+{
+"surface": "sākṣiṇī",
+"quick_gloss": "seer"
+},
+{
+"surface": "sākṣiṇī",
+"quick_gloss": "testifier"
 }
 ]
 },
@@ -469,8 +629,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "sākṣānnirākhyā",
+"surface": "sākṣāt",
 "quick_gloss": "directly"
+},
+{
+"surface": "nirākhyā",
+"quick_gloss": "indescribable"
 },
 {
 "surface": "kila",
@@ -482,7 +646,7 @@
 },
 {
 "surface": "sā",
-"quick_gloss": "that"
+"quick_gloss": "she"
 }
 ]
 },
@@ -495,7 +659,19 @@
 "tokens": [
 {
 "surface": "kṣaṇadā",
-"quick_gloss": "moment-giving"
+"quick_gloss": "night-giver"
+},
+{
+"surface": "kṣaṇadā",
+"quick_gloss": "moment-giver"
+},
+{
+"surface": "kṣaṇadā",
+"quick_gloss": "time-giver"
+},
+{
+"surface": "kṣaṇadā",
+"quick_gloss": "night"
 }
 ]
 },
@@ -508,7 +684,7 @@
 "tokens": [
 {
 "surface": "kṛpākarī",
-"quick_gloss": "compassionate"
+"quick_gloss": "compassion+making"
 },
 {
 "surface": "na",
@@ -516,15 +692,15 @@
 },
 {
 "surface": "kṣaṇadā",
-"quick_gloss": "moment-giving"
+"quick_gloss": "night-giver"
 },
 {
 "surface": "śivā",
-"quick_gloss": "auspicious"
+"quick_gloss": "auspicious-one"
 },
 {
 "surface": "syāḥ",
-"quick_gloss": "you-would-be"
+"quick_gloss": "may-you-be"
 }
 ]
 }

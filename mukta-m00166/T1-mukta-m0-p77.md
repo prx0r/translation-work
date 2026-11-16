@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p77-v1901
-[ninth-day](navamī)
+[ninth](navamī)
 
 ## mukta-m0-p77-v1902
-[new](navaṃ) [new](navaṃ) [she](sā) [ninth-day](navamī) [let-make](karotu)
+[new](navaṃ) [new](navaṃ) [she](sā) [ninth](navamī) [may-make](karotu)
 
 ## mukta-m0-p77-v1903
-[fourteenth-day](caturdaśī)
+[fourteenth](caturdaśī)
 
 ## mukta-m0-p77-v1904
-[fourteenth-fold](caturdaśatayīṃ) [knowledge](vidyāṃ) [she](sā) [let-give](dadātu) [fourteenth-day](caturdaśī)
+[fourteen-fold](caturdaśa+tayīṃ) [knowledge](vidyāṃ) [she](sā) [may-give](dadātu) [fourteenth](caturdaśī)
 
 ## mukta-m0-p77-v1905
-[no-moon-day](amā)
+[Amā](amā)
 
 ## mukta-m0-p77-v1906
-[goes](prayāti) [in-which](yasyāṃ) [supreme-goddess](paradevatā) [this](iyam) [no-moon](amā) [peace-giving](śamārāmakarī) [to-me](mamāstu)
+[goes](prayāti) [in-whom](yasyāṃ) [supreme-goddess](para+devatā) [this](iyam) [Amā](amā) [peace-joy-making](śama+ārāma+karī) [of-me](mama) [may-be](astu)
 
 ## mukta-m0-p77-v1907
-[pot-in-hand](kalaśahastā)
+[jar-in-hand](kalaśa+hastā)
 
 ## mukta-m0-p77-v1908
-[in-distress](kṛcchre) [pot-in-hand](kalaśahastā) [this](iyam) [let-give](deyāt) [hand-support](hastāvalambanam)
+[in-difficulty](kṛcchre) [jar-in-hand](kalaśa+hastā) [this-one](iyaṃ) [may-give](deyāt) [hand-support](hasta+avalambanam)
 
 ## mukta-m0-p77-v1909
-[full-pot-bearing](pūrṇakumbhadharā)
+[full-pot-bearing](pūrṇa+kumbha+dharā)
 
 ## mukta-m0-p77-v1910
-[by-whose-libation](yatsekadānāt) [always](satataṃ) [full-pot-bearing](pūrṇakumbhadharā) [thus](iti) [she](sā)
+[by-whose-watering](yat+seka+dānāt) [always](satataṃ) [full-pot-bearing](pūrṇa+kumbha+dharā) [thus](iti) [she](sā)
 
 ## mukta-m0-p77-v1911
-[earth](dharā)
+[p.-234](p. 234)) [bearing](dharā)
 
 ## mukta-m0-p77-v1912
-[shines](vibhāti) [this](seyam) [called](kathitā) [earth](dhareti)
+[shines](vibhāti) [she-this](sā+iyaṃ) [called](kathitā) [Dharā](dharā) [thus](iti)
 
 ## mukta-m0-p77-v1913
 [fearless](abhīruḥ)
 
 ## mukta-m0-p77-v1914
-[she-fearless](sābhīruḥ) [his](asya) [let-remove](haratāṃ) [indeed](vata) [fear-state](bhīrubhāvam)
+[she-fearless](sā+abhīruḥ) [of-him](asya) [may-remove](haratāṃ) [indeed](vata) [fearful-state](bhīru+bhāvam)
 
 ## mukta-m0-p77-v1915
-[terrific-goddess](bhairavī)
+[Bhairavī](bhairavī)
 
 ## mukta-m0-p77-v1916
-[loud-laugh-four-faced-toothed](aṭṭahāsacaturāsyadanturā) [terrific-goddess](bhairavī) [let-remove](haratu) [enemy-born](vairijaṃ) [fear](daram)
+[loud-laugh-skilled-mouth-terrible](aṭṭa+hāsa+catura+āsya+danturā) [Bhairavī](bhairavī) [may-remove](haratu) [enemy-born](vairi+jaṃ) [fear](daram)
 
 ## mukta-m0-p77-v1917
 [terrible](bhīmā)
 
 ## mukta-m0-p77-v1918
-[terrible-let-be](bhīmāstu) [terrible-beloved](bhīmadayitā) [to-me](mayi) [gentle-gaze](saumyadṛṣṭiḥ)
+[terrible](bhīmā) [may-be](astu) [Bhīma's-beloved](bhīma+dayitā) [on-me](mayi) [gentle-gazed](saumya+dṛṣṭiḥ)
 
 ## mukta-m0-p77-v1919
-[fearful-one](bhīrā)
+[timid](bhīrā)
 
 ## mukta-m0-p77-v1920
-[fearful-one-is](bhīrāsti) [she](sā) [herself-indeed](svayamaho) [holding-spear-weapon](dhṛtasīraśastrā)
+[timid](bhīrā) [is](asti) [she](sā) [herself](svayam) [oh](aho) [holding-plough-weapon](dhṛta+sīra+śastrā)
 
 ## mukta-m0-p77-v1921
-[tripura-terrific-goddess](tripurabhairavī)
+[Tripurabhairavī](tripura+bhairavī)
 
 ## mukta-m0-p77-v1922
-[shining-chain-garland](saṃnidhāvalakaśṛṅkhalojjvalā) [deity](devatā) [tripura-terrific-goddess](tripurabhairavī) [here](ha) [to-us](naḥ)
+[in-presence-hair-chain-resplendent](saṃnidhau+alaka+śṛṅkhala+ujjvalā) [goddess](devatā) [Tripurabhairavī](tripura+bhairavī) [here](iha) [for-us](naḥ)
 
 ## mukta-m0-p77-v1923
-[great-skull-goddess](mahāruṇḍā)
+[Mahāruṇḍā](mahā+ruṇḍā)
 
 ## mukta-m0-p77-v1924
-[dancing](nṛtyantī) [and](ca) [herself](svayaṃ) [some](kācit) [great-skull-goddess](mahāruṇḍā) [conquers](jayatyasau)
+[dancing](nṛtyantī) [and](ca) [herself](svayaṃ) [a-certain](kācit) [Mahāruṇḍā](mahā+ruṇḍā) [victorious-is](jayati) [she](asau)
 
 ## mukta-m0-p77-v1925
-[fierce](raudrī)
+[Raudrī](raudrī)

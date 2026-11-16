@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p62-v1526
-[sandhyā-iti](sandhyeti) [kācana](kācana) [parā](parā) [gadita-eka-sandhaiḥ](gaditaikasandhaiḥ)
+[twilight](sandhyā) [thus](iti) [some](kācana) [supreme](parā) [proclaimed](gaditā) [by-those-devoted-to-one-juncture](eka+sandhaiḥ)
 
 ## mukta-m0-p62-v1527
 [sāvitrī](sāvitrī)
 
 ## mukta-m0-p62-v1528
-[sāvitrī](sāvitrī) [sā](sā) [kīrtitā](kīrtitā) [sāra-vidbhiḥ](sāravidbhiḥ)
+[sāvitrī](sāvitrī) [she](sā) [celebrated](kīrtitā) [by-knowers-of-essence](sāra+vidbhiḥ)
 
 ## mukta-m0-p62-v1529
-[tri-padā-āśrayā](tripadāśrayā)
+[having-three-feet-as-support](tri+pada+āśrayā)
 
 ## mukta-m0-p62-v1530
-[yena](yeneyaṃ) [iyam](iyam) [niścitam](niścitaṃ) [jñātā](jñātā) [nirbhayā](nirbhayā) [tri-padā-āśrayā](tripadāśrayā)
+[by-whom](yena) [this](iyam) [with-certainty](niścitam) [known](jñātā) [fearless](nirbhayā) [having-three-feet-as-support](tri+pada+āśrayā)
 
 ## mukta-m0-p62-v1531
-[tri-sandhyā](trisandhyā)
+[three-junctures](tri+sandhyā)
 
 ## mukta-m0-p62-v1532
-[tri-sandhyā-iti](trisandhyeti) [gītā](gītā) [hitāyāḥ-tu](hitāyāstu) [mātā](mātā)
+[three-junctures](tri+sandhyā) [thus](iti) [sung](gītā) [for-welfare](hitāya) [may-be](astu) [mother](mātā)
 
 ## mukta-m0-p62-v1533
-[tri-padī](tripadī)
+[having-three-feet](tri+padī)
 
 ## mukta-m0-p62-v1534
-[devī](devī) [jayati-atitarām](jayatyatitarāṃ) [tri-padī](tripadī) [maheśī](maheśī)
+[goddess](devī) [triumphs](jayati) [exceedingly](atitarām) [having-three-feet](tri+padī) [great-goddess](mahā+īśī)
 
 ## mukta-m0-p62-v1535
-[dhātrī](dhātrī)
+[supporter](dhātrī)
 
 ## mukta-m0-p62-v1536
-[sandhātrī](sandhātrī) [bodha-dugdhasya](bodhadugdhasya) [dhātrī](dhātrī) [naḥ](naḥ) [kṛpayā-avatāt](kṛpayāvatāt)
+[uniter](sandhātrī) [of-the-milk-of-knowledge](bodha+dugdhasya) [nurse](dhātrī) [us](naḥ) [by-compassion](kṛpayā) [may-protect](avatāt)
 
 ## mukta-m0-p62-v1537
-[su-parvā](suparvā)
+[having-fine-joints](su+parvā)
 
 ## mukta-m0-p62-v1538
-[kāmanīyā](kāmanīyā) [jayati-eṣā](jayatyeṣā) [su-parvā](suparvā) [akharva-garva-bhūḥ](akharvagarvabhūḥ)
+[lovely](kāmanīyā) [triumphs](jayati) [this](eṣā) [having-fine-joints](su+parvā) [ground-of-unlimited-pride](akharva+garva+bhūḥ)
 
 ## mukta-m0-p62-v1539
-[sāma-gāyanī](sāmagāyanī)
+[singer-of-sāman](sāma+gāyanī)
 
 ## mukta-m0-p62-v1540
-[svara-saṃgha-masaṅga-bhaṅguram](svarasaṃghamasaṅgabhaṅguraṃ) [yā](yā) [hṛdaya-sthā](hṛdayasthā) [mama](mama) [sāma-gāyanī](sāmagāyanī) [sā](sā)
+[fragile-by-contact-with-mass-of-notes](svara+saṅgha+masaṅga+bhaṅguram) [who](yā) [dwelling-in-heart](hṛdaya+sthā) [my](mama) [singer-of-sāman](sāma+gāyanī) [she](sā)
 
 ## mukta-m0-p62-v1541
 [pāñcālī](pāñcālī)
 
 ## mukta-m0-p62-v1542
-[prītaye](prītaye) [nayatu](nayatu) [sthairyam](sthairyaṃ) [pāñcālī](pāñcālī) [cañcalam](cañcalaṃ) [manaḥ](manaḥ)
+[for-delight](prītaye) [may-lead](nayatu) [to-steadiness](sthairyam) [pāñcālī](pāñcālī) [fickle](cañcalam) [mind](manaḥ)
 
 ## mukta-m0-p62-v1543
-[bālikā](bālikā)
+[young-girl](bālikā)
 
 ## mukta-m0-p62-v1544
-[khelati](khelati) [svayam-idam-tvam-āgatā](svayamidantvamāgatā) [yā](yā) [balam](balaṃ) [mama](mama) [karotu](karotu) [bālikā](bālikā)
+[plays](khelati) [herself](svayam) [having-come-to-this-state](idantvam+āgatā) [who](yā) [strength](balam) [my](mama) [may-make](karotu) [young-girl](bālikā)
 
 ## mukta-m0-p62-v1545
-[bālā](bālā)
+[young-girl](bālā)
 
 ## mukta-m0-p62-v1546
-[bālā](bālā) [balābala-nidhiḥ](balābalanidhiḥ) [pariśarma-dāstu](pariśarmadāstu)
+[young-girl](bālā) [treasure-of-strength-and-weakness](bala+abala+nidhiḥ) [giver-of-comfort](pariśarma+dā) [may-be](astu)
 
 ## mukta-m0-p62-v1547
-[bāla-krīḍā](bālakrīḍā)
+[child’s-play](bāla+krīḍā)
 
 ## mukta-m0-p62-v1548
-[niṣkalaṅkam](niṣkalaṅkaṃ) [prasiddha-iha](prasiddheha) [bāla-krīḍā](bālakrīḍā) [jayati-asau](jayatyasau)
+[stainless](niṣkalaṅkam) [renowned](prasiddhā) [here](iha) [child’s-play](bāla+krīḍā) [triumphs](jayati) [this](asau)
 
 ## mukta-m0-p62-v1549
-[sanātanī](sanātanī)
+[eternal](sanātanī)
 
 ## mukta-m0-p62-v1550
-[brahmā-ādīnām](brahmādīnāṃ) [svayam](svayaṃ) [tattā-varjitā](tattāvarjitā) [sā](sā) [sanātanī](sanātanī)
+[of-brahmā-and-others](brahma+ādīnām) [herself](svayam) [by-truth](tattā) [chosen](varjitā) [she](sā) [eternal](sanātanī)
