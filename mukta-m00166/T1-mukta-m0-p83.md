@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p83-v2051
-[totulā](totulā) [iti](iti) [nāma](nāma) [devyāḥ](devyāḥ)
+[excellent-balance](to) [balance](tulā)
 
 ## mukta-m0-p83-v2052
-[totulā](totulā) [+](+) [tulā](tulā) [+](+) [kalā](kalā) [kalā](kalā) [astu](astu) [sā](sā)
+[excellent-balance](totulā) [balance](tulā) [art](kalā) [art](kalā) [be](astu) [she](sā)
 
 ## mukta-m0-p83-v2053
-[tulā](tulā) [+](+) [koṭiḥ](koṭiḥ) [iti](iti) [nāma](nāma)
+[balance](tulā) [tip](koṭiḥ)
 
 ## mukta-m0-p83-v2054
-[deyāt](deyāt) [tulā](tulā) [+](+) [koṭiḥ](koṭiḥ) [iyam](iyam) [tulām](tulām) [nijām](nijām)
+[may-give](deyāt) [balance](tulā) [tip](koṭiḥ) [this](iyam) [balance](tulāṃ) [own](nijām)
 
 ## mukta-m0-p83-v2055
-[kūṭa](kūṭa) [+](+) [sthā](sthā) [iti](iti) [nāma](nāma)
+[unchanging](kūṭa) [abiding](sthā)
 
 ## mukta-m0-p83-v2056
-[lipyate](lipyate) [jātucit](jātucit) [kācit](kācit) [kūṭa](kūṭa) [+](+) [sthā](sthā) [cit](cit) [+](+) [mayī](mayī) [iha](iha) [sā](sā)
+[is-tainted](lipyate) [ever](jātucit) [any](kācit) [unchanging](kūṭa) [abiding](sthā) [consciousness-made](cinmayī) [here](iha) [she](sā)
 
 ## mukta-m0-p83-v2057
-[koṭara](koṭara) [+](+) [āśrayā](āśrayā) [iti](iti) [nāma](nāma)
+[hollow](koṭara) [dwelling](āśrayā)
 
 ## mukta-m0-p83-v2058
-[śrayā](śrayā) [śriyā](śriyā) [nitya](nitya) [+](+) [nija](nija) [+](+) [āsana](āsana) [+](+) [ṛddhayā](eddhayā)
+[with-refuge](śrayā) [with-glory](śriyā) [eternal](nitya) [own](nija) [seat](āsana) [prosperity](ṛddhayā)
 
 ## mukta-m0-p83-v2059
-[svayam](svayam) [+](+) [bhūḥ](bhūḥ) [iti](iti) [nāma](nāma)
+[self](svayam) [born](bhūḥ)
 
 ## mukta-m0-p83-v2060
-[katham](katham) [sā](sā) [svayam](svayam) [+](+) [bhūḥ](bhūḥ) [jaḍaiḥ](jaḍaiḥ) [nyāyya](nyāyya) [+](+) [bhāvyā](bhāvyā)
+[how](kathaṃ) [she](sā) [self](svayam) [born](bhūḥ) [by-dull](jaḍaiḥ) [by-logic](nyāyya) [to-be-conceived](bhāvyā)
 
 ## mukta-m0-p83-v2061
-[su](su) [+](+) [rūpā](rūpā) [iti](iti) [nāma](nāma)
+[good](su) [form](rūpā)
 
 ## mukta-m0-p83-v2062
-[janasya](janasya) [harate](harate) [sā](sā) [eva](eva) [su](su) [+](+) [rūpā](rūpā) [iti](iti) [nirūpitā](nirūpitā)
+[of-person](janasya) [takes-away](harate) [she](sā) [indeed](eva) [good](su) [form](rūpā) [thus](iti) [ascertained](nirūpitā)
 
 ## mukta-m0-p83-v2063
-[sva](sva) [+](+) [rūpā](rūpā) [iti](iti) [nāma](nāma)
+[own](sva) [form](rūpā)
 
 ## mukta-m0-p83-v2064
-[calati](ccalati) [ataḥ](ataḥ) [sā](sā) [hi](hi) [sadā](sadā) [sva](sva) [+](+) [rūpā](rūpā)
+[moves](ccalati) [therefore](ataḥ) [she](sā) [indeed](hi) [always](sadā) [own](sva) [form](rūpā)
 
 ## mukta-m0-p83-v2065
-[rūpa](rūpa) [+](+) [varddhinī](varddhinī) [iti](iti) [nāma](nāma)
+[form](rūpa) [increasing](varddhinī)
 
 ## mukta-m0-p83-v2066
-[yāvat](yāvat) [na](na) [iyam](iyam) [prasannā](prasannā) [syāt](syāt) [nī](nī) [+](+) [rūpā](rūpā) [rūpa](rūpa) [+](+) [varddhinī](varddhinī)
+[as-long-as](yāvat) [not](na) [this](iyam) [pleased](prasannā) [may-be](syāt) [formless](nīrūpā) [form](rūpa) [increasing](varddhinī)
 
 ## mukta-m0-p83-v2067
-[tejasvinī](tejasvinī) [iti](iti) [nāma](nāma)
+[splendor](tejas) [possessing](vinī)
 
 ## mukta-m0-p83-v2068
-[tejasvinī](ttejasvinī) [yasya](yasya) [sadā](sadā) [prasannā](prasannā)
+[splendor](tejas) [possessing](vinī) [of-whom](yasya) [always](sadā) [pleased](prasannā)
 
 ## mukta-m0-p83-v2069
-[su](su) [+](+) [bhikṣā](bhikṣā) [iti](iti) [nāma](nāma)
+[good](su) [abundance](bhikṣā)
 
 ## mukta-m0-p83-v2070
-[kaḥ](kaḥ) [syāt](syāt) [tadā](tadā) [dātṛ](dātṛ) [+](+) [kalā](kalā) [+](+) [bala](bala) [+](+) [jñaḥ](jñaḥ)
+[who](kaḥ) [may-be](syāt) [then](tadā) [giver](dātṛ) [art](kalā) [strength](bala) [knower](jñaḥ)
 
 ## mukta-m0-p83-v2071
-[bala](bala) [+](+) [dā](dā) [iti](iti) [nāma](nāma)
+[strength](bala) [giving](dā)
 
 ## mukta-m0-p83-v2072
-[sarvatra](sarvatra) [bala](bala) [+](+) [dā](dā) [sā](sā) [astu](astu) [svātantrya](svātantrya) [+](+) [bala](bala) [+](+) [dā](dā) [sadā](sadā)
+[everywhere](sarvatra) [strength](bala) [giving](dā) [she](sā) [be](astu) [independence](svātantrya) [strength](bala) [giving](dā) [always](sadā)
 
 ## mukta-m0-p83-v2073
-[bala](bala) [+](+) [dāyinī](dāyinī) [iti](iti) [nāma](nāma)
+[strength](bala) [giving](dāyinī)
 
 ## mukta-m0-p83-v2074
-[bhavatu](bhavatu) [sadā](sadā) [bala](bala) [+](+) [dāyinī](dāyinī) [vinetrī](vinetrī)
+[may-be](bhavatu) [always](sadā) [strength](bala) [giving](dāyinī) [leading](vinetrī)
 
 ## mukta-m0-p83-v2075
-[mahā](mahā) [+](+) [kośī](kośī) [iti](iti) [nāma](nāma)
+[great](mahā) [treasury](kośī)

@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p79-v1951
-[cloth](paṭa)+[hope](āsā) [name](paṭāsā) [goddess](devī) [invoked](āhūtā)
+[name](paṭāsā)
 
 ## mukta-m0-p79-v1952
-[well](san)+[honor](māna)+[made](sa+kṛta)+[abode](āvāsā) [cloth](paṭa)+[hope](āsā) [she](sā) [may-burn](dahatu)+[evil](agham)
+[good-honor-made-dwelling](sanmāna-sakṛta-āvāsā) [cloth-banner](paṭāsā) [she](sā) [may-burn](dahatv) [sin](agham)
 
 ## mukta-m0-p79-v1953
-[page](p.) [238](238) [kāśmīrī](kāśmīrī) [name](nāma) [goddess](devī)
+[page](p.) [238](238)) [kashmiri](kāśmīrī)
 
 ## mukta-m0-p79-v1954
-[kāśmīrī](kāśmīrī) [me](mām) [may-please](sukhayatu) [full](su-pūrṇa)+[one](eka)+[abode](vāsa)+[experience](anubhūtyā)
+[kashmiri](kāśmīrī) [me](mām) [may-please](sukhayatu) [full-one-dwelling-experience](supūrṇa-eka-vāsa-anubhūtyā)
 
 ## mukta-m0-p79-v1955
-[saffron](kuṅkuma)+[beloved](priyā) [name](kuṅkumapriyā) [goddess](devī) [invoked](āhūtā)
+[saffron-beloved](kuṅkuma-priyā)
 
 ## mukta-m0-p79-v1956
-[wounded](kṣata)+[blood](raktaṃ) [whether](kimu) [saffron](kuṅkuma)+[beloved](priyā) [she](sā)
+[wounded-blood](kṣata-raktam) [indeed](kimu) [saffron-beloved](kuṅkuma-priyā) [she](sā)
 
 ## mukta-m0-p79-v1957
-[patience](kṣāntiḥ) [name](kṣāntiḥ) [virtue](guṇa) [goddess](devī)
+[patience](kṣāntiḥ)
 
 ## mukta-m0-p79-v1958
-[patience](kṣāntiḥ) [by-wounded](kṣata)+[delusion](bhrāntibhiḥ)+[to-be-praised](īḍanīyā) [she](sā) [goddess](devī)
+[patience](kṣāntiḥ) [wound-delusion](kṣata-bhrāntibhiḥ) [to-be-praised](īḍanīyā)
 
 ## mukta-m0-p79-v1959
-[much](bahu)+[gold](suvarṇā) [name](bahusuvarṇā) [goddess](devī) [invoked](āhūtā)
+[much-gold](bahu-suvarṇā)
 
 ## mukta-m0-p79-v1960
-[all](sarva)+[auspicious](maṅgala)+[conduct](śīlasya) [of-monk](bhikṣoḥ) [truly](sat)+[all](sarva)+[auspicious](maṅgalā)
+[of-all-auspicious-nature](sarva-maṅgala-śīlasya) [of-monk](bhikṣoḥ) [good-all-auspicious](sat-sarva-maṅgalā)
 
 ## mukta-m0-p79-v1961
-[desire](ratiḥ) [name](ratiḥ) [goddess](devī) [consort](patnī)
+[desire](ratiḥ)
 
 ## mukta-m0-p79-v1962
-[subordinate](adhīnaḥ) [that](saḥ)+[indeed](api) [lord-of-beings](bhūteśaḥ) [of-whom](yasyāḥ) [she](sā) [indeed](hi) [in-desire](rate) [desire](ratiḥ)
+[subordinate](adhīnaḥ) [he-also](saḥ-api) [lord-of-beings](bhūteśaḥ) [of-whom](yasyāḥ) [she](sā) [indeed](hi) [in-desire](rate) [desire](ratiḥ)
 
 ## mukta-m0-p79-v1963
-[page](p.) [239](239) [much](bahu)+[gold](suvarṇa)+[giving](dā) [name](bahusuvarṇadā) [goddess](devī)
+[page](p.) [239](239)) [much-gold-giver](bahu-suvarṇa-dā)
 
 ## mukta-m0-p79-v1964
-[aparṇā](aparṇā)+[also](api) [then](tataḥ) [truly](satyaṃ) [become](bhūtā) [here](iha)+[herself](svayam)+[goddess](īśvarī)
+[aparṇa-also](aparṇā-api) [then](tataḥ) [truly](satyam) [become](bhūtā) [here](iha) [goddess](īśvarī)
 
 ## mukta-m0-p79-v1965
-[elephant-woman](mātaṅginī) [name](mātaṅginī) [goddess](devī) [invoked](āhūtā)
+[elephant-woman](mātaṅginī)
 
 ## mukta-m0-p79-v1966
-[elephant-woman](mātaṅginī) [breaking](bhaṅga)+[remover](harī) [may-be](bhavet)+[for-you](astu)
+[elephant-woman](mātaṅginī) [breaking-remover](bhaṅga-harī) [may-be](bhavet) [hail](astu)
 
 ## mukta-m0-p79-v1967
-[beautiful-hipped](varā)+[hipped](rohā) [name](varārohā) [goddess](devī) [invoked](āhūtā)
+[beautiful-hipped](varārohā)
 
 ## mukta-m0-p79-v1968
-[beautiful-hipped](varā)+[hipped](rohā)+[service](sevā)+[hundred](śata)+[hundred](śata)+[arts](kalāṃ) [not](na)+[deserves](arhati) [a-part](kalām)
+[beautiful-hipped](varārohā) [service-hundred-hundred-arts](sevā-śata-śata-kalām) [not-deserves](na-arhati) [a-part](kalām)
 
 ## mukta-m0-p79-v1969
-[intoxicated](matta)+[elephant](mātaṅga)+[going](gāminī) [name](mattamātaṅgagāminī) [goddess](devī)
+[intoxicated-elephant-going](matta-mātaṅga-gāminī)
 
 ## mukta-m0-p79-v1970
-[not](na) [of-him](tasya) [mind](citta)+[activity](vṛttiḥ) [may-be](syāt)+[other](anya)+[state](bhāva)+[going](abhigāminī)
+[not](na) [of-him](tasya) [mind-state](citta-vṛttiḥ) [would-be](syāt) [other-state-going](anya-bhāva-abhigāminī)
 
 ## mukta-m0-p79-v1971
-[violence](hiṃsā) [name](hiṃsā) [goddess](devī) [invoked](āhūtā)
+[violence](hiṃsā)
 
 ## mukta-m0-p79-v1972
-[victory](jayā)+[imperishable](avyaye) [may-be](sā)+[astu](astu) [for-welfare](hitāya) [violence](hiṃsā)
+[victory-immutable](jayāvyaye) [she](sā) [may-be](astu) [for-welfare](hitāya) [violence](hiṃsā)
 
 ## mukta-m0-p79-v1973
-[page](p.) [240](240) [swan](haṃsa)+[gait](gatiḥ) [name](haṃsagatiḥ) [goddess](devī)
+[page](p.) [240](240)) [swan-gait](haṃsa-gatiḥ)
 
 ## mukta-m0-p79-v1974
-[may-be](bhavet)+[swan](haṃsa)+[gait](gatiḥ) [rightly](samyak) [always](sadā) [very-steady](sthiratarā) [supreme](parā)
+[may-be](bhavet) [swan-gait](haṃsa-gatiḥ) [rightly](samyak) [always](sadā) [very-steady](sthiratarā) [supreme](parā)
 
 ## mukta-m0-p79-v1975
-[swan](haṃsī) [name](haṃsī) [goddess](devī) [invoked](āhūtā)
+[swan-female](haṃsī)
