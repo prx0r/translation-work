@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p140-v3476
-[jumper](jhampā) [lady-of-jhiṃjha](jhiṃjheśvarī) [blazing](jhāntā) [mother-of-syllable-jha](jhakāra+akṣara+mātṛkā)
+leaping(jhampā) jhiṃjha-lady(jhiṃjheśvarī) blazing(jhāntā) jha-syllable-mother(jhakāra+akṣara+mātṛkā)
 
 ## mukta-m0-p140-v3477
-[adorned-with-seed-of-ña-class](ñavarga+bīja+bhūṣā+āḍhyā) [mother-of-syllable-ña](ñakāra+akṣara+mātṛkā)
+ña-class-seed-adorned(ñavarga+bīja+bhūṣāḍhyā) ña-syllable-mother(ñakāra+akṣara+mātṛkā)
 
 ## mukta-m0-p140-v3478
-[having-chisel-as-weapon](ṭaṅka+āyudhā) [having-form-of-ṭalī](ṭalī+rūpā) [mother-of-syllable-ṭa](ṭakāra+akṣara+mātṛkā)
+chisel-weaponed(ṭaṅka+āyudhā) ṭalī-form(ṭalī+rūpā) ṭa-syllable-mother(ṭakāra+akṣara+mātṛkā)
 
 ## mukta-m0-p140-v3479
-[whose-nature-is-ṭhaḥ](ṭhaḥ+svarūpā) [endowed-with-letter-ṭha](ṭha+varṇa+āḍhyā) [mother-of-syllable-ṭha](ṭhakāra+akṣara+mātṛkā)
+ṭhaḥ-nature(ṭhaḥ+svarūpā) ṭha-letter-endowed(ṭha+varṇa+āḍhyā) ṭha-syllable-mother(ṭhakāra+akṣara+mātṛkā)
 
 ## mukta-m0-p140-v3480
-[resounding](ḍhiṇī) [body-of-ḍha](ḍhehā) [having-ḍhilla-in-hand](ḍhilla+hastā) [mother-of-syllable-ḍha](ḍhakāra+akṣara+mātṛkā)
+resounding(ḍhiṇī) ḍhehā(ḍhehā) ḍhilla-in-hand(ḍhilla+hastā) ḍha-syllable-mother(ḍhakāra+akṣara+mātṛkā)
 
 ## mukta-m0-p140-v3481
-[fourth-state](turī) [transcendent](turyā) [having-form-of-balance](tulā+rūpā) [tripurā](tripurā) [fond-of-tamas](tāmasa+priyā)
+fourth(turī) transcendent(turyā) balance-form(tulā+rūpā) tripurā(tripurā) darkness-loving(tāmasa+priyā)
 
 ## mukta-m0-p140-v3482
-[tripurā](tripurā) [having-three-guṇas](tri+guṇā) [to-be-meditated-upon](dhyeyā) [lady-of-tryambaka](tryambakeśī) [supporter-of-three-worlds](tri+loka+dhṛt)
+tripurā(tripurā) three-guṇas(tri+guṇā) to-be-meditated(dhyeyā) tryambakeśī(tryambakeśī) three-worlds-supporter(tri+loka+dhṛt)
 
 ## mukta-m0-p140-v3483
-[mother-of-three-worlds](tri+loka+jananī) [protector](trātā) [worshipped-by-lord-of-tripura](tripura+īśvara+pūjitā)
+three-worlds-mother(tri+loka+jananī) protectress(trātā) tripureśvara-worshipped(tripureśvara+pūjitā)
 
 ## mukta-m0-p140-v3484
-[pleased-by-worship-in-triangle](tri+koṇa+pūjana+tuṣṭā) [resorting-to-worship-in-triangle](tri+koṇa+pūjana+śritā)
+triangle-worship-pleased(tri+koṇa+pūjana+tuṣṭā) triangle-worship-resorted(tri+koṇa+pūjana+śritā)
 
 ## mukta-m0-p140-v3485
-[goddess-abiding-in-eight-cornered-figure](vasu+koṇa+sthitā+devī) [expounder-of-meaning-of-eight-cornered-figure](vasu+koṇa+artha+vādinī)
+eight-corner-situated-goddess(vasu+koṇa+sthitā+devī) eight-corner-meaning-speaker(vasu+koṇa+artha+vādinī)
 
 ## mukta-m0-p140-v3486
-[abiding-in-serpent-petals](nāga+patra+sthitā) [arrow](śārī) [giver-of-fruit-of-worship-in-three-circles](tri+vṛtta+pūjana+artha+dā)
+serpent-petal-situated(nāga+patra+sthitā) śārī(śārī) three-circle-worship-boon-giver(tri+vṛtta+pūjana+artha+dā)
 
 ## mukta-m0-p140-v3487
-[tāmasic](tāmasī) [resembling-a-hatchet](tomara+prakhyā) [sounding-with-voice-of-tumburu](tumburu+svana+nādinī)
+tāmasic(tāmasī) javelin-resembling(tomara+prakhyā) tumburu-sound-resounding(tumburu+svana+nādinī)
 
-## mukta-m0-p140-v3488
-[having-trembling-eyes](tarala+akṣī) [remover-of-darkness](tamas+hartrī) [slayer-of-tāraka-demon](tāraka+asura+ghātinī)
+## mukta-m0-p148-v3488
+trembling-eyed(tarala+akṣī) darkness-remover(tamas+hartrī) tāraka-demon-slayer(tāraka+asura+ghātinī)
 
 ## mukta-m0-p140-v3489
-[abiding-in-place](sthalī) [having-form-of-ancient-one](sthavira+rūpā) [and](ca) [large](sthūlā) [vessel](sthālī) [lotus-of-place](sthala+abjinī)
+abiding(sthalī) ancient-form(sthavira+rūpā) and(ca) vast(sthūlā) vessel(sthālī) land-lotus(sthala+abjinī)
 
 ## mukta-m0-p140-v3490
-[female-messenger](dūtikā) [messenger-of-śiva](śiva+dūtī) [and](ca) [holder-of-staff-as-weapon](daṇḍa+āyudha+dharā) [radiance](dyutiḥ)
+messenger(dūtikā) śiva-messenger(śiva+dūtī) and(ca) staff-weapon-holder(daṇḍa+āyudha+dharā) radiance(dyutiḥ)
 
 ## mukta-m0-p140-v3491
-[wandering-through-countries](deśa+anucāriṇī) [decans](drekkā) [lady-of-draviḍa](drāviḍa+īśī) [most-distant](davīyasī)
+regions-wandering(deśa+anucāriṇī) drekkā(drekkā) drāviḍa-lady(drāviḍa+īśī) most-distant(davīyasī)
 
 ## mukta-m0-p140-v3492
-[born-from-curd](dadhi+jā) [hard-to-attain](durlabhā) [goddess](devī) [deity](devatā) [supreme-syllable](parama+akṣarā)
+curd-born(dadhi+jā) difficult-to-attain(durlabhā) goddess(devī) deity(devatā) supreme-syllable(parama+akṣarā)
 
 ## mukta-m0-p140-v3493
-[daughter-of-danu](danu+putrī) [destruction](vināśā) [and](ca) [worshipped-by-lineage-of-danu’s-sons](danu+putra+kula+arcitā)
+danu-daughter(danu+putrī) destruction(vināśā) and(ca) danu-sons-lineage-worshipped(danu+putra+kula+arcitā)
 
 ## mukta-m0-p140-v3494
-[having-form-of-ten-cows](daśa+dhenu+surūpā) [and](ca) [mother-of-syllable-da](dakāra+akṣara+mātṛkā)
+ten-cows-form(daśa+dhenu+surūpā) and(ca) da-syllable-mother(dakāra+akṣara+mātṛkā)
 
 ## mukta-m0-p140-v3495
-[steadfastness](dhṛtiḥ) [cunning](dhūrtā) [bride-of-the-fortunate](dhanya+vadhūḥ) [mother-of-syllable-dha](dhakāra+akṣara+mātṛkā)
+steadfastness(dhṛtiḥ) cunning(dhūrtā) blessed-wife(dhanya+vadhūḥ) dha-syllable-mother(dhakāra+akṣara+mātṛkā)
 
 ## mukta-m0-p140-v3496
-[abiding-in-middle-of-kadamba-grove](nīpa+upavana+madhya+sthā) [lady-of-the-city](nāgara+īśī) [best-among-humans](nara+uttamā)
+kadamba-grove-middle-dwelling(nīpa+upavana+madhya+sthā) nāgara-lady(nāgara+īśī) supreme-among-men(nara+uttamā)
 
 ## mukta-m0-p140-v3497
-[served-by-kings](nṛpa+sevyā) [saluted-by-kings](nṛpa+vandyā) [mother-of-nara-and-nārāyaṇa](nara+nārāyaṇa+prasūḥ)
+kings-served(nṛpa+sevyā) kings-adored(nṛpa+vandyā) nara-nārāyaṇa-mother(nara+nārāyaṇa+prasūḥ)
 
 ## mukta-m0-p140-v3498
-[lady-of-lotus](padma+īśvarī) [lotus-faced](padma+mukhī) [having-leaf-as-vehicle](patra+yānā) [higher-and-lower](para+aparā)
+lotus-lady(padma+īśvarī) lotus-faced(padma+mukhī) leaf-vehicle(patra+yānā) higher-and-lower(parā+aparā)
 
 ## mukta-m0-p140-v3499
-[city](pūḥ) [bride-of-destroyer-of-cities](purāri+vadhūḥ) [pampā](pampā) [wife](patnī) [having-bird-lord-as-vehicle](patrīśa+vāhanā)
+city(pūḥ) demon-slayer-wife(purāri+vadhūḥ) pampā(pampā) wife(patnī) leaf-lord-vehicle(patrīśa+vāhanā)
 
 ## mukta-m0-p140-v3500
-[seat](pīṭhā) [abiding-in-seat](pīṭha+sthitā) [seat](apīṭhā) [adorned-with-yellow-ornaments](pīta+alaṅkāra+bhūṣaṇā)
+seat(pīṭhā) seat-situated(pīṭha+sthitā) seat(pīṭhā) yellow-ornament-adorned(pīta+alaṅkāra+bhūṣaṇā)
