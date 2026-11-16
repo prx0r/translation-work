@@ -7,12 +7,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "śīta",
+"surface": "śīta+sparśāni",
 "quick_gloss": "cold-touch"
-},
-{
-"surface": "sparśāni",
-"quick_gloss": "having"
 },
 {
 "surface": "vastūni",
@@ -23,12 +19,8 @@
 "quick_gloss": "and-likewise"
 },
 {
-"surface": "uṣṇa",
+"surface": "uṣṇa+sparśakāni",
 "quick_gloss": "hot-touch"
-},
-{
-"surface": "sparśakāni",
-"quick_gloss": "having"
 },
 {
 "surface": "ca",
@@ -65,7 +57,7 @@
 },
 {
 "surface": "ahitān",
-"quick_gloss": "non-beneficial"
+"quick_gloss": "harmful"
 },
 {
 "surface": "api",
@@ -85,24 +77,16 @@
 "quick_gloss": "he-saw"
 },
 {
-"surface": "rucira",
-"quick_gloss": "pleasing-form"
-},
-{
-"surface": "ākārān",
-"quick_gloss": "shaped"
+"surface": "rucira+ākārān",
+"quick_gloss": "of-charming-form"
 },
 {
 "surface": "bhāvān",
-"quick_gloss": "entities"
+"quick_gloss": "things"
 },
 {
-"surface": "vividha",
-"quick_gloss": "various-colored"
-},
-{
-"surface": "varṇakān",
-"quick_gloss": "colored"
+"surface": "vividha+varṇakān",
+"quick_gloss": "of-various-colors"
 }
 ]
 },
@@ -116,10 +100,6 @@
 {
 "surface": "tṛtīyaḥ",
 "quick_gloss": "third"
-},
-{
-"surface": "ca",
-"quick_gloss": "and"
 },
 {
 "surface": "cakṣuḥ",
@@ -144,7 +124,7 @@
 },
 {
 "surface": "kapiśān",
-"quick_gloss": "brownish"
+"quick_gloss": "brown"
 },
 {
 "surface": "mecakān",
@@ -168,20 +148,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "arddha",
+"surface": "arddha+vṛttān",
 "quick_gloss": "half-round"
 },
 {
-"surface": "vṛttān",
-"quick_gloss": "round"
-},
-{
-"surface": "dīrgha",
+"surface": "dīrgha+vṛttān",
 "quick_gloss": "long-round"
-},
-{
-"surface": "vṛttān",
-"quick_gloss": "round"
 },
 {
 "surface": "sundarān",
@@ -213,28 +185,16 @@
 "quick_gloss": "forms"
 },
 {
-"surface": "aparimāṇa",
-"quick_gloss": "immeasurable"
-},
-{
-"surface": "ādi",
-"quick_gloss": "etc."
-},
-{
-"surface": "viṣayatvāt",
-"quick_gloss": "objecthood"
+"surface": "aparimāṇa+ādi+viṣayatvāt",
+"quick_gloss": "because-of-being-objects-of-measure-etc."
 },
 {
 "surface": "āha",
 "quick_gloss": "he-says"
 },
 {
-"surface": "sthūlān",
-"quick_gloss": "gross"
-},
-{
-"surface": "ityādi",
-"quick_gloss": "etc."
+"surface": "sthūlān+iti+ādi",
+"quick_gloss": "gross-etc."
 }
 ]
 },
@@ -250,12 +210,12 @@
 "quick_gloss": "somewhere"
 },
 {
-"surface": "hitaṃ",
+"surface": "hitam",
 "quick_gloss": "beneficial"
 },
 {
 "surface": "tataḥ",
-"quick_gloss": "from-that"
+"quick_gloss": "then"
 },
 {
 "surface": "anyat",
@@ -266,11 +226,11 @@
 "quick_gloss": "and"
 },
 {
-"surface": "paśyantaṃ",
+"surface": "paśyantam",
 "quick_gloss": "seeing"
 },
 {
-"surface": "pitaraṃ",
+"surface": "pitaram",
 "quick_gloss": "father"
 },
 {
@@ -287,7 +247,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "anālokān",
+"surface": "an+ālokān",
 "quick_gloss": "without-light"
 },
 {
@@ -299,12 +259,8 @@
 "quick_gloss": "of-what-kind"
 },
 {
-"surface": "dṛk",
+"surface": "dṛk+muṣaḥ",
 "quick_gloss": "eye-stealing"
-},
-{
-"surface": "muṣaḥ",
-"quick_gloss": "stealing"
 }
 ]
 },
@@ -333,15 +289,15 @@
 "quick_gloss": "fourth"
 },
 {
-"surface": "rāsanaṃ",
+"surface": "rāsanam",
 "quick_gloss": "tongue"
 },
 {
-"surface": "rasa",
-"quick_gloss": "taste-inferred"
+"surface": "rasa+anumitam",
+"quick_gloss": "inferred-by-taste"
 },
 {
-"surface": "puṣpa",
+"surface": "puṣpa+ādi",
 "quick_gloss": "flower-etc."
 },
 {
@@ -358,12 +314,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "sudhā",
+"surface": "sudhā+āsvādūni",
 "quick_gloss": "nectar-tasting"
-},
-{
-"surface": "svādūni",
-"quick_gloss": "tasting"
 },
 {
 "surface": "madhurāṇi",
@@ -374,12 +326,8 @@
 "quick_gloss": "others"
 },
 {
-"surface": "amla",
+"surface": "amla+rasāni",
 "quick_gloss": "sour-tasting"
-},
-{
-"surface": "rasāni",
-"quick_gloss": "tasting"
 },
 {
 "surface": "ca",
@@ -399,24 +347,12 @@
 "quick_gloss": "salty"
 },
 {
-"surface": "madhura",
+"surface": "madhura+amlāni",
 "quick_gloss": "sweet-sour"
 },
 {
-"surface": "amlāni",
-"quick_gloss": "sour"
-},
-{
-"surface": "kaṭu",
+"surface": "kaṭu+amla+lavaṇāni",
 "quick_gloss": "pungent-sour-salty"
-},
-{
-"surface": "amla",
-"quick_gloss": "sour"
-},
-{
-"surface": "lavaṇāni",
-"quick_gloss": "salty"
 },
 {
 "surface": "ca",
@@ -432,24 +368,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "madhura",
-"quick_gloss": "sweet-sour"
+"surface": "madhura+amlāni+iti+ādi",
+"quick_gloss": "sweet-sour-etc."
 },
 {
-"surface": "amlāni",
-"quick_gloss": "sour"
-},
-{
-"surface": "ityādi",
-"quick_gloss": "etc."
-},
-{
-"surface": "miśra",
+"surface": "miśra+rasaḥ",
 "quick_gloss": "mixed-taste"
-},
-{
-"surface": "rasaḥ",
-"quick_gloss": "taste"
 }
 ]
 },
@@ -465,12 +389,8 @@
 "quick_gloss": "tasting"
 },
 {
-"surface": "ātma",
-"quick_gloss": "with-own-son"
-},
-{
-"surface": "jena",
-"quick_gloss": "son"
+"surface": "ātmajena",
+"quick_gloss": "with-his-own-son"
 },
 {
 "surface": "sametaḥ",
@@ -519,16 +439,12 @@
 "quick_gloss": "there"
 },
 {
-"surface": "upalabhata",
+"surface": "upālabhata",
 "quick_gloss": "he-perceived"
 },
 {
-"surface": "aneka",
-"quick_gloss": "many"
-},
-{
-"surface": "puṣpāṇi",
-"quick_gloss": "flowers"
+"surface": "aneka+puṣpāṇi",
+"quick_gloss": "many-flowers"
 },
 {
 "surface": "ca",
@@ -552,40 +468,24 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "su",
+"surface": "su+gandhān",
 "quick_gloss": "fragrant"
 },
 {
-"surface": "gandhān",
-"quick_gloss": "smelling"
-},
-{
-"surface": "pūti",
+"surface": "pūti+gandhān",
 "quick_gloss": "foul-smelling"
-},
-{
-"surface": "gandhān",
-"quick_gloss": "smelling"
 },
 {
 "surface": "ca",
 "quick_gloss": "and"
 },
 {
-"surface": "mṛdu",
+"surface": "mṛdu+gandha",
 "quick_gloss": "soft-smelling"
 },
 {
-"surface": "gandha",
-"quick_gloss": "smelling"
-},
-{
-"surface": "ugra",
+"surface": "ugra+gandhakān",
 "quick_gloss": "strong-smelling"
-},
-{
-"surface": "gandhakān",
-"quick_gloss": "smelling"
 }
 ]
 },
@@ -598,7 +498,7 @@
 "tokens": [
 {
 "surface": "bhāvān",
-"quick_gloss": "entities"
+"quick_gloss": "things"
 },
 {
 "surface": "arthān",
@@ -617,16 +517,8 @@
 "quick_gloss": "he-says"
 },
 {
-"surface": "su",
-"quick_gloss": "fragrant"
-},
-{
-"surface": "gandhān",
-"quick_gloss": "smelling"
-},
-{
-"surface": "ityādi",
-"quick_gloss": "etc."
+"surface": "su+gandhān+iti+ādi",
+"quick_gloss": "fragrant-etc."
 }
 ]
 },
@@ -638,7 +530,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "putrāṇāṃ",
+"surface": "putrāṇām",
 "quick_gloss": "of-the-sons"
 },
 {
@@ -650,7 +542,7 @@
 "quick_gloss": "and"
 },
 {
-"surface": "evaṃ",
+"surface": "evam",
 "quick_gloss": "thus"
 },
 {
@@ -659,7 +551,7 @@
 },
 {
 "surface": "niviśan",
-"quick_gloss": "dwelling"
+"quick_gloss": "and-settling"
 },
 {
 "surface": "api",
@@ -675,20 +567,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "moha",
+"surface": "moha+janakaḥ",
 "quick_gloss": "delusion-producing"
 },
 {
-"surface": "janakaḥ",
-"quick_gloss": "producing"
-},
-{
-"surface": "moha",
-"quick_gloss": "delusion-smell"
-},
-{
-"surface": "gandhaḥ",
-"quick_gloss": "smell"
+"surface": "moha+gandhaḥ",
+"quick_gloss": "deluding-smell"
 },
 {
 "surface": "evam",
@@ -696,7 +580,7 @@
 },
 {
 "surface": "agre",
-"quick_gloss": "further"
+"quick_gloss": "further-on"
 },
 {
 "surface": "api",
@@ -716,15 +600,11 @@
 "quick_gloss": "always"
 },
 {
-"surface": "gamāgama",
-"quick_gloss": "coming-and-going"
+"surface": "gamāgama+paraḥ",
+"quick_gloss": "intent-on-going-and-coming"
 },
 {
-"surface": "paraḥ",
-"quick_gloss": "intent"
-},
-{
-"surface": "putrāṇāṃ",
+"surface": "putrāṇām",
 "quick_gloss": "of-the-sons"
 },
 {
@@ -733,7 +613,7 @@
 },
 {
 "surface": "babhau",
-"quick_gloss": "shone"
+"quick_gloss": "he-shone"
 }
 ]
 },
@@ -750,14 +630,14 @@
 },
 {
 "surface": "viṣayān",
-"quick_gloss": "objects"
+"quick_gloss": "various-objects"
 },
 {
 "surface": "citrān",
-"quick_gloss": "various"
+"quick_gloss": "wonderful"
 },
 {
-"surface": "svalpaṃ",
+"surface": "svalpam",
 "quick_gloss": "little"
 },
 {
@@ -783,7 +663,7 @@
 "tokens": [
 {
 "surface": "bhāvaḥ",
-"quick_gloss": "entity"
+"quick_gloss": "thing"
 }
 ]
 },
@@ -800,7 +680,7 @@
 },
 {
 "surface": "anyān",
-"quick_gloss": "others"
+"quick_gloss": "other"
 },
 {
 "surface": "ca",
@@ -816,15 +696,15 @@
 },
 {
 "surface": "nayati",
-"quick_gloss": "leads"
+"quick_gloss": "he-leads"
 },
 {
-"surface": "svaṃ",
-"quick_gloss": "own"
+"surface": "svam",
+"quick_gloss": "to-own-place"
 },
 {
 "surface": "padam",
-"quick_gloss": "place"
+"quick_gloss": "abode"
 }
 ]
 }

@@ -19,12 +19,8 @@
 "quick_gloss": "as"
 },
 {
-"surface": "naśyati",
-"quick_gloss": "perishes"
-},
-{
-"surface": "iti",
-"quick_gloss": "thus"
+"surface": "naśyati+iti",
+"quick_gloss": "perishes+thus"
 },
 {
 "surface": "bhāvaḥ",
@@ -53,15 +49,15 @@
 },
 {
 "surface": "sūtradhāraḥ",
-"quick_gloss": "stage-manager"
+"quick_gloss": "thread-holder"
 },
 {
 "surface": "hi",
 "quick_gloss": "indeed"
 },
 {
-"surface": "tatpure",
-"quick_gloss": "in-that-city"
+"surface": "tat+pure",
+"quick_gloss": "in-that+city"
 }
 ]
 },
@@ -73,8 +69,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "manaḥprabhṛti",
-"quick_gloss": "mind-etc."
+"surface": "manaḥ",
+"quick_gloss": "mind"
+},
+{
+"surface": "prabhṛti",
+"quick_gloss": "beginning-with"
 },
 {
 "surface": "vyāpāra",
@@ -107,7 +107,7 @@
 },
 {
 "surface": "purāṇām",
-"quick_gloss": "of-the-city"
+"quick_gloss": "of-cities"
 },
 {
 "surface": "adhipaḥ",
@@ -135,12 +135,8 @@
 "quick_gloss": "breath"
 },
 {
-"surface": "nayati",
-"quick_gloss": "leads"
-},
-{
-"surface": "iti",
-"quick_gloss": "thus"
+"surface": "nayati+iti",
+"quick_gloss": "leads+thus"
 },
 {
 "surface": "bhāvaḥ",
@@ -152,7 +148,7 @@
 },
 {
 "surface": "asthirābhidhaṃ",
-"quick_gloss": "called-unsteady"
+"quick_gloss": "unstable-named"
 },
 {
 "surface": "manaḥ",
@@ -173,7 +169,7 @@
 "tokens": [
 {
 "surface": "satī",
-"quick_gloss": "of-Satī"
+"quick_gloss": "of-satī"
 },
 {
 "surface": "putraḥ",
@@ -185,7 +181,7 @@
 },
 {
 "surface": "asthiraḥ",
-"quick_gloss": "unsteady"
+"quick_gloss": "unstable"
 },
 {
 "surface": "sa",
@@ -193,11 +189,11 @@
 },
 {
 "surface": "saṃśritaḥ",
-"quick_gloss": "having-resorted-to"
+"quick_gloss": "resorted-to"
 },
 {
 "surface": "api",
-"quick_gloss": "even"
+"quick_gloss": "also"
 },
 {
 "surface": "mahābalam",
@@ -217,12 +213,8 @@
 "quick_gloss": "of-many"
 },
 {
-"surface": "purāṇām",
-"quick_gloss": "of-cities"
-},
-{
-"surface": "iti",
-"quick_gloss": "thus"
+"surface": "purāṇām+iti",
+"quick_gloss": "of-cities+thus"
 },
 {
 "surface": "pūrveṇa",
@@ -250,12 +242,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "patnyādi",
-"quick_gloss": "with-wife-etc."
+"surface": "patnī",
+"quick_gloss": "with-wife"
+},
+{
+"surface": "ādi",
+"quick_gloss": "etc."
 },
 {
 "surface": "asat",
-"quick_gloss": "unreal"
+"quick_gloss": "with-unreal"
 },
 {
 "surface": "samāgamāt",
@@ -270,8 +266,8 @@
 "quick_gloss": "says"
 },
 {
-"surface": "capaletyādi",
-"quick_gloss": "fickle-etc."
+"surface": "capala+ityādi",
+"quick_gloss": "fickle+etc."
 }
 ]
 },
@@ -316,24 +312,28 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "krodhalobhodayaḥ",
-"quick_gloss": "anger-greed-etc."
+"surface": "krodha",
+"quick_gloss": "anger"
+},
+{
+"surface": "lobha",
+"quick_gloss": "greed"
+},
+{
+"surface": "udayaḥ",
+"quick_gloss": "etc."
 },
 {
 "surface": "tena",
-"quick_gloss": "by-that"
+"quick_gloss": "therefore"
 },
 {
-"surface": "duḥkhabhāg",
-"quick_gloss": "sharer-of-suffering"
+"surface": "duḥkhabhāk",
+"quick_gloss": "suffering-share"
 },
 {
-"surface": "abhūt",
-"quick_gloss": "became"
-},
-{
-"surface": "iti",
-"quick_gloss": "thus"
+"surface": "abhūt+iti",
+"quick_gloss": "became+thus"
 },
 {
 "surface": "āśayaḥ",
@@ -383,7 +383,7 @@
 "tokens": [
 {
 "surface": "mahākleśa",
-"quick_gloss": "great-affliction"
+"quick_gloss": "great-suffering"
 },
 {
 "surface": "prāpti",
@@ -398,12 +398,8 @@
 "quick_gloss": "says"
 },
 {
-"surface": "ita",
-"quick_gloss": "here-etc."
-},
-{
-"surface": "ityādi",
-"quick_gloss": "etc."
+"surface": "ita+ityādi",
+"quick_gloss": "here+etc."
 }
 ]
 },
@@ -419,8 +415,12 @@
 "quick_gloss": "somewhere"
 },
 {
-"surface": "mahāśanāhetoḥ",
-"quick_gloss": "for-great-hunger"
+"surface": "mahāśanā",
+"quick_gloss": "great-hunger"
+},
+{
+"surface": "hetoḥ",
+"quick_gloss": "for-the-sake-of"
 },
 {
 "surface": "aśanārthaṃ",
@@ -428,7 +428,7 @@
 },
 {
 "surface": "pradhāvati",
-"quick_gloss": "runs"
+"quick_gloss": "runs-forth"
 }
 ]
 },
@@ -441,7 +441,7 @@
 "tokens": [
 {
 "surface": "khedam",
-"quick_gloss": "weariness"
+"quick_gloss": "distress"
 },
 {
 "surface": "īyivān",
@@ -477,11 +477,11 @@
 "quick_gloss": "and"
 },
 {
-"surface": "avidaṃḥ",
+"surface": "avidan",
 "quick_gloss": "not-knowing"
 },
 {
-"surface": "tatpratikriyām",
+"surface": "tat+pratikriyām",
 "quick_gloss": "its-remedy"
 }
 ]
@@ -494,11 +494,11 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "tatpratikriyāṃ",
+"surface": "tat+pratikriyāṃ",
 "quick_gloss": "its-remedy"
 },
 {
-"surface": "krodhapratikriyāṃ",
+"surface": "krodha+pratikriyāṃ",
 "quick_gloss": "anger-remedy"
 },
 {
@@ -516,10 +516,10 @@
 "tokens": [
 {
 "surface": "mṛtatulyaṃ",
-"quick_gloss": "like-dead"
+"quick_gloss": "death-like"
 },
 {
-"surface": "svamātmānaṃ",
+"surface": "svam+ātmānaṃ",
 "quick_gloss": "own-self"
 },
 {
@@ -527,8 +527,12 @@
 "quick_gloss": "considers"
 },
 {
-"surface": "śokasantataḥ",
-"quick_gloss": "continuous-in-sorrow"
+"surface": "śoka",
+"quick_gloss": "by-grief"
+},
+{
+"surface": "santataḥ",
+"quick_gloss": "afflicted"
 }
 ]
 },
@@ -540,8 +544,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "patnīputraiḥ",
-"quick_gloss": "by-wife-and-sons"
+"surface": "patnī",
+"quick_gloss": "by-wife"
+},
+{
+"surface": "putraiḥ",
+"quick_gloss": "and-sons"
 },
 {
 "surface": "samākrāntaḥ",
@@ -574,11 +582,11 @@
 "tokens": [
 {
 "surface": "mūḍhaputratvāt",
-"quick_gloss": "because-of-foolish-sonhood"
+"quick_gloss": "due-to-foolish-son-ness"
 },
 {
 "surface": "duṣkulodbhavatvam",
-"quick_gloss": "birth-in-bad-family"
+"quick_gloss": "low-family-born-ness"
 }
 ]
 },
@@ -594,12 +602,24 @@
 "quick_gloss": "somewhere"
 },
 {
-"surface": "kāntārakīrṇeṣu",
-"quick_gloss": "in-wilderness-strewn"
+"surface": "kāntāra",
+"quick_gloss": "in-wilderness"
 },
 {
-"surface": "kravyādakulabhūmiṣu",
-"quick_gloss": "in-carnivore-crowded-lands"
+"surface": "kīrṇeṣu",
+"quick_gloss": "strewn"
+},
+{
+"surface": "kravyāda",
+"quick_gloss": "by-carnivores"
+},
+{
+"surface": "kula",
+"quick_gloss": "crowd"
+},
+{
+"surface": "bhūmiṣu",
+"quick_gloss": "in-lands"
 }
 ]
 },
@@ -611,12 +631,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "mahāraṇyasthaṃ",
-"quick_gloss": "situated-in-great-forest"
+"surface": "mahāraṇya",
+"quick_gloss": "in-great-forest"
 },
 {
-"surface": "kākādi",
-"quick_gloss": "by-crows-etc."
+"surface": "sthaṃ",
+"quick_gloss": "situated"
+},
+{
+"surface": "kāka",
+"quick_gloss": "by-crows"
+},
+{
+"surface": "ādi",
+"quick_gloss": "etc."
 },
 {
 "surface": "vyāptaṃ",
@@ -627,16 +655,12 @@
 "quick_gloss": "and"
 },
 {
-"surface": "svadehaṃ",
+"surface": "sva+dehaṃ",
 "quick_gloss": "own-body"
 },
 {
-"surface": "paśyati",
-"quick_gloss": "sees"
-},
-{
-"surface": "iti",
-"quick_gloss": "thus"
+"surface": "paśyati+iti",
+"quick_gloss": "sees+thus"
 },
 {
 "surface": "tātparyam",
@@ -656,8 +680,12 @@
 "quick_gloss": "somewhere"
 },
 {
-"surface": "pūtivahāstheṣu",
-"quick_gloss": "in-foul-smelling-places"
+"surface": "pūtivaha",
+"quick_gloss": "in-stench-bearing"
+},
+{
+"surface": "āstheṣu",
+"quick_gloss": "situated"
 },
 {
 "surface": "kvacit",
@@ -665,7 +693,7 @@
 },
 {
 "surface": "gāḍhatamaḥsu",
-"quick_gloss": "in-deep-darkness"
+"quick_gloss": "in-thick-darkness"
 },
 {
 "surface": "ca",
@@ -681,16 +709,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "uvāsa",
-"quick_gloss": "dwelt"
-},
-{
-"surface": "iti",
-"quick_gloss": "thus"
+"surface": "uvāsa+iti",
+"quick_gloss": "dwelt+thus"
 },
 {
 "surface": "anvayaḥ",
-"quick_gloss": "construction"
+"quick_gloss": "connection"
 }
 ]
 },
@@ -715,7 +739,7 @@
 },
 {
 "surface": "duḥkhamūḍhā",
-"quick_gloss": "deluded-by-sorrow"
+"quick_gloss": "sorrow-deluded"
 },
 {
 "surface": "abhavat",
@@ -739,12 +763,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "mūḍhā",
-"quick_gloss": "as-if-deluded"
-},
-{
-"surface": "iva",
-"quick_gloss": "like"
+"surface": "mūḍhā+iva",
+"quick_gloss": "deluded-like"
 },
 {
 "surface": "atyantam",
@@ -752,11 +772,15 @@
 },
 {
 "surface": "abhavaṃ",
-"quick_gloss": "became"
+"quick_gloss": "I-became"
 },
 {
-"surface": "tatkuṭumbaparāyaṇā",
-"quick_gloss": "devoted-to-that-family"
+"surface": "tat+kuṭumba",
+"quick_gloss": "to-that-family"
+},
+{
+"surface": "parāyaṇā",
+"quick_gloss": "devoted"
 }
 ]
 }
