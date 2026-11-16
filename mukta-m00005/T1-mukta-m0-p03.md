@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p03-v51
-[mind](manaḥ) [of-which](yasya) + [due-to-non-simultaneity](aśubhāvāt) + [and](ca) [of-agent](kartuḥ) + [not](na) [simultaneously](yugapat) + [cognition](matiḥ)
+[mind](manaḥ) [of-which](yasya) [inauspicious-nature](aśubha+bhāvāt) [and](ca) [of-agent](kartuḥ) [not](na) [simultaneously](yugapat) [cognition](matiḥ)
 
 ## mukta-m0-p03-v52
-[therefore](ataḥ) + [indeed](eva) [this](etat) + [quickly](āśu) [moving](saṃcārī) + [thus](iti) + [said](uktam)
+[therefore](ataḥ) [indeed](eva) [this](etat) [quickly](āśu) [moving](saṃcārī) [thus](iti) [said](uktam)
 
 ## mukta-m0-p03-v53
-[other](anyaḥ) + [object-cognition](arthapratyayaḥ) + [another](aparaḥ)
+[other](anyaḥ) [object-cognition](artha+pratyayaḥ) [another](aparaḥ)
 
 ## mukta-m0-p03-v54
-[ego-sense-modification-natured](ahaṅkāravṛttyātmakapratyayaḥ) + [from-object-cognition](arthapratyayāt) + [other](anyaḥ) [thus](iti) + [meaning](arthaḥ)
+[ego-sense-modification](ahaṅkāra+vṛtti) [consisting-of-cognition](ātmaka+pratyayaḥ) [from-object-cognition](artha+pratyayāt) [other](anyaḥ) [thus](iti) [meaning](arthaḥ)
 
 ## mukta-m0-p03-v55
-[because](yataḥ) + [in-absence-of-any-one](anyatamavaikalye) [arises](jāyate) [when-ego-exists](satyahaṅkṛtiḥ)
+[because](yataḥ) [of-any-one](anyatama) [in-absence](vaikalye) [arises](jāyate) [when-there-is](sati) [ego-making](ahaṅkṛtiḥ)
 
 ## mukta-m0-p03-v56
-[arising](jāyamānaḥ) + [this](ayam) [agitation](saṃrambhaḥ) + [or-I-cognition](ahaṃpratyayaḥ) [of-ego-sense-alone](ahaṅkārasya) + [indeed](eva) [effect](kāryaḥ) [thus](iti) + [meaning](arthaḥ)
+[arising](jāyamānaḥ) [this](ayam) [agitation](saṃrambhaḥ) [I-cognition](aham+pratyayaḥ) [or](vā) [of-ego-sense](ahaṅkārasya) [indeed](eva) [effect](kāryam) [thus](iti) [meaning](arthaḥ)
 
 ## mukta-m0-p03-v57
-[taijasa-etc-named](taijasādikanāmānaḥ) [in-order](kramaśaḥ) [sattvic-etc](sāttvikādayaḥ)
+[taijasa-etc.](taijasa+ādi) [named](ka+nāmānaḥ) [respectively](kramaśaḥ) [sāttvika-etc.](sāttvika+ādayaḥ)
 
 ## mukta-m0-p03-v58
-[due-to-predominance-of-sattva-etc-qualities](sattvādiguṇabāhulyāt)
+[sattva-etc.](sattva+ādi) [quality](guṇa) [predominance](bāhulyāt)
 
 ## mukta-m0-p03-v59
-[therefore](tasmāt) [that](saḥ) [from-sattvic](sāttvikāt) + [born](jātaḥ) [from-its-own-corresponding](svānurūpāt) + [ego-sense](ahaṅkṛtaḥ)
+[therefore](tasmāt) [that](saḥ) [from-sāttvika](sāttvikāt) [born](jātaḥ) [from-own-corresponding](sva+anurūpāt) [ego-making](ahaṅkṛtaḥ)
 
 ## mukta-m0-p03-v60
-[of-objects](viṣayāṇāṃ) [but](tu) [by-restriction](niyamāt) + [from-unestablished-etc](asiddhādeva) [from-cause](hetutaḥ)
+[of-objects](viṣayāṇām) [but](tu) [by-restriction](niyamāt) [from-unaccomplished](asiddhāt) [indeed](eva) [from-cause](hetutaḥ)
 
 ## mukta-m0-p03-v61
 [are-grasped](gṛhyante)
 
 ## mukta-m0-p03-v62
-[objects](dravyāṇi) + [not-restrictedly](aniyataṃ) [and](ca) + [indeed](eva) [grasps](gṛhṇāti) [with-air](marutā) [together](samam)
+[objects](dravyāṇi) [not-restricted](aniyatam) [and](ca) [indeed](eva) [grasps](gṛhṇāti) [with-wind](marutā) [together](samam)
 
 ## mukta-m0-p03-v63
-[and-located-in-that](tadgatāṃś) + [and](ca) [touches](sparśān) [grasps](gṛhṇāti)
+[located-in-that](tat+gatān) [and](ca) [touches](sparśān) [grasps](gṛhṇāti)
 
 ## mukta-m0-p03-v64
-[therefore](ataḥ) [not](na) [restriction](niyamaḥ) + [of-sense-organs](akṣāṇāṃ) [of-objects](viṣayāṇāṃ) [and](ca) [is-postulated](kalpyate)
+[therefore](ataḥ) [not](na) [restriction](niyamaḥ) [of-sense-organs](akṣāṇām) [of-objects](viṣayāṇām) [and](ca) [is-postulated](kalpyate)
 
 ## mukta-m0-p03-v65
-[from-deities](devebhyaḥ) [cognitions](buddhayaḥ) [not](na) [would-be](syuḥ) [in-conjunction](samavāye) [and](ca) [of-embodied-beings](dehinām)
+[for-gods](devebhyaḥ) [cognitions](buddhayaḥ) [not](na) [would-be](syuḥ) [in-conjunction](samavāye) [and](ca) [of-embodied-beings](dehinām)
 
 ## mukta-m0-p03-v66
-[of-objects](padārthānāṃ) [cognitions](buddhayaḥ) + [from-them](tebhyaḥ) [arising](jāyamānāḥ) [not](na) [would-be](bhaveyuḥ)
+[of-objects](padārthānām) [cognitions](buddhayaḥ) [from-them](tebhyaḥ) [arising](jāyamānāḥ) [not](na) [would-be](bhaveyuḥ)
 
 ## mukta-m0-p03-v67
-[human-goal-giving](pumarthadātṛ) [which](yat) + [action](karma) [cause](kāraṇaṃ) [that](tat) [should-be-stated](bhavet) + [declared](iritam)
+[human-purpose-giving](pum+artha+dātṛ) [which](yat) [action](karma) [cause](kāraṇam) [that](tat) [should-be-stated](bhavet) [declared](īritam)
 
 ## mukta-m0-p03-v68
-[thus](iti) + [meaning](arthaḥ)
+[thus](iti) [meaning](arthaḥ)
 
 ## mukta-m0-p03-v69
-[of-sound-experience](śabdabhogasya) [in-restriction](niyame) [that-giving](tatpradaṃ) [action](karma) [is-stated](bhāṣitam)
+[of-sound-experience](śabda+bhogasya) [in-restriction](niyame) [that-giving](tat+pradam) [action](karma) [is-stated](bhāṣitam)
 
 ## mukta-m0-p03-v70
-[action](karma) + [alone](eva) [cause](kāraṇaṃ) [by-you](bhavatā) + [also](api) + [is-accepted](iṣyate) [thus](iti) + [connection](anvayaḥ)
+[action](karma) [indeed](eva) [cause](kāraṇam) [by-you](bhavatā) [also](api) [is-accepted](iṣyate) [thus](iti) [connection](anvayaḥ)
 
 ## mukta-m0-p03-v71
-[born](jātaḥ) [of-effect](kāryasya) [by-which](yena) + [here](iha) [conformity-to-cause](kāraṇānuvidhāyitā)
+[born](jātaḥ) [of-effect](kāryasya) [by-which](yena) [here](iha) [cause-conformity](kāraṇa+anuvidhāyitā)
 
 ## mukta-m0-p03-v72
-[of-action-organs](karmendriyavargaḥ) [born](jātaḥ) [because](yasmāt) [conformity-to-cause](kāraṇānuvidhāyitvaṃ) [in-effect](kārye) [is-seen](dṛśyate)
+[of-action-organs](karmendriya) [group](vargaḥ) [born](jātaḥ) [because](yasmāt) [cause-conformity](kāraṇa+anuvidhāyitvam) [in-effect](kārye) [is-seen](dṛśyate)
 
 ## mukta-m0-p03-v73
-[from-sattvic](sāttvikāt) [in-arising](saṃbhave) [being-established](kḷpte) [of-sattvic-and-rajasic-groups](sāttvarājasavargayoḥ)
+[from-sāttvika](sāttvikāt) [in-arising](saṃbhave) [being-established](kḷpte) [of-sāttvika-rājasa](sāttva+rājasa) [groups](vargayoḥ)
 
 ## mukta-m0-p03-v74
-[to-be-illuminated](prakāśyaḥ) + [of-tamasic](tāmasaḥ) [therefore](tasmāt) + [born](jātaḥ) [from-bhūtādi-named](bhūtādisaṃjñakāt)
+[to-be-illuminated](prakāśyaḥ) [of-tāmasa](tāmasaḥ) [therefore](tasmāt) [born](jātaḥ) [from-bhūtādi-named](bhūtādi+saṃjñakāt)
 
 ## mukta-m0-p03-v75
-[due-to-being-ground-of-manifestation-of-soul-cognition](puṃbodhavyaktibhūmitvāt) [cognition](bodhaḥ) [modification](vṛttiḥ) + [of-intellect](mateḥ) + [is-considered](matā)
+[for-manifestation-of-human-cognition](pum+bodha+vyakti+bhūmitvāt) [cognition](bodhaḥ) [modification](vṛttiḥ) [of-intellect](mateḥ) [is-considered](matā)

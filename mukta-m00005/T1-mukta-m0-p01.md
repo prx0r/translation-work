@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p01-v1
-[all](sarva) [time](kāla) [sequence](krama) [meaning](artha) [knower](jñaṃ) [having-bowed](praṇamya) [unborn](ajaṃ) [śiva](śivaṃ) [eternal](dhruvam)
+[all+time+sequence+meaning+knower](sarvakālakramārthajñaṃ) [having-bowed](praṇamya) [unborn](ajaṃ) [Śiva](śivaṃ) [eternal](dhruvam)
 
 ## mukta-m0-p01-v2
 [with-what-is-to-be-stated](vakṣyamāṇena) [connection](saṃbandhaḥ)
 
 ## mukta-m0-p01-v3
-[I-speak](vacmi) [for-the-instruction-of-practitioners](sādhaka+bodhāya) [briefly](leśataḥ) [in-reasoning](yukti) [refined](saṃskṛtau)
+[I-speak](vacmi) [for-the-understanding+of-practitioners](sādhakabodhāya) [briefly](leśato) [in-reasoning+composition](yuktisaṃskṛtau)
 
 ## mukta-m0-p01-v4
-[following-the-raurava](raurava+anusāreṇa) [indeed](eva) [concisely](saṃkṣepād) [I-speak](vadāmi)
+[according-to+Raurava](rauravānusāreṇa) [indeed](eva) [concisely](saṃkṣepād) [I-say](vadāmi)
 
 ## mukta-m0-p01-v5
-[according-to-karmic-residue](karma+āśaya+anurūpeṇa) [of-conscious-beings](cidvatāṃ) [in-the-sphere-of-becoming](bhava+maṇḍale)
+[according-to+karmic+residue](karmāśayānurūpeṇa) [of-conscious-beings](cidvatāṃ) [in-the-sphere+of-becoming](bhavamaṇḍale)
 
 ## mukta-m0-p01-v6
-[in-the-revered-svāyaṃbhuva](śrīmat+svāyaṃbhuve) [if](yadi) [impurity](aśuddhiḥ) [not](na) [of-the-soul](puṃsaḥ) [exists](asti) [attachment](saktiḥ) [in-enjoyments](bhogeṣu) [why](kiṃ) [made](kṛtā) [thus](iti)
+[in-the-revered+Svāyaṃbhuva](śrīmatsvāyaṃbhuve-) [if](yadi) [impurity](aśuddhiḥ) [not](na) [of-the-soul](puṃsaḥ) [exists](asti) [attachment](saktiḥ) [in-enjoyments](bhogeṣu) [why](kiṃ) [made](kṛtā) [thus](iti)
 
 ## mukta-m0-p01-v7
-[by-means](sādhanaiḥ) [is-accomplished](sādhyate) [enjoyment](bhogaḥ) [by-coloring-of-intellect’s-operations](buddhi+vṛtti+anurañjanaḥ)
+[by-means](sādhanaiḥ) [is-accomplished](sādhyate) [enjoyment](bhogo) [by-intellect+function+coloring](buddhivṛttyanurañjanaḥ)
 
 ## mukta-m0-p01-v8
-[experience](vedanā) [of-the-soul](pusaḥ) [characterized-by-pleasure-and-pain-etc.](sukha+duḥkha+ādi+lakṣaṇā) [thus](iti)
+[experience](vedanā) [of-the-soul](pusaḥ) [pleasure+pain+etc.+characterized](sukhaduḥkhādilakṣaṇā) [thus](iti)
 
 ## mukta-m0-p01-v9
-[of-those-nourished-by-filling-their-own-measure](sva+mātrā+āpūra+puṣṭānāṃ) [they-cause-to-attain](gamayanti) [the-state-of-being-its-part](tad+aṅgatām)
+[of-those-filled+by-their-own+measure](svamātrāpūrapuṣṭānāṃ) [they-cause-to-attain](gamayanti) [the-state-of-being-its-part](tadaṅgatām)
 
 ## mukta-m0-p01-v10
 [because](yataḥ)
 
 ## mukta-m0-p01-v11
-[arrangement](vyūhaḥ) [giving-of-space](avakāśa+dānaṃ) [and](ca) [functions](vṛttayaḥ) [in-earth-etc.](vasudhā+ādiṣu)
+[arrangement](vyūhaḥ) [giving+of-space](avakāśadānaṃ) [and](ca) [functions](vṛttayo) [in-earth+etc.](vasudhādiṣu)
 
 ## mukta-m0-p01-v12
-[cooking](pākaḥ) [of-fire](agneḥ) [arrangement](vyūhaḥ) [composition-of-parts](avayava+ghaṭanaṃ) [of-wind](vāyoḥ) [of-space](avakāśasya) [of-place](āspadasya) [giving](dānam) [of-ether](ākāśasya)
+[cooking](pāko) [of-fire](agneḥ) [arrangement](vyūhaḥ) [component+combination](avayavaghaṭanaṃ) [of-wind](vāyoḥ) [of-space](avakāśasya) [of-place](āspadasya) [giving](dānam) [of-ether](ākāśasya)
 
 ## mukta-m0-p01-v13
-[from-womb](yonery) [to-another-womb](yoni+antaraṃ) [and](ca) [also](api) [it-goes](yāti) [for-the-accomplishment-of-soul’s-enjoyment](pum+bhoga+siddhaye)
+[from-womb](yonery) [to-another+womb](onyantaraṃ) [and](ca) [also](api) [goes](yāti) [for-the-accomplishment+of-soul's+enjoyment](puṃbhogasiddhaye)
 
 ## mukta-m0-p01-v14
-[time](kāla) [end](antaḥ) [this](ayam) [by-force-of-karma](karma+vaśataḥ) [in-worlds](bhuvana) [inert-matter](jaḍa) [and-bodies](deheṣu) [this](ayam) [and](ca) [in-all](sarveṣu) [thus](iti) [verse](ślo0) [24-25](24-25) [thus](iti)
+[time+limited](kālāntaḥ) [this](ayam) [by-force+of-karma](karmavaśato) [in-worlds+inert+bodies](bhuvanajadeheṣu) [this](ayaṃ) [and](ca) [in-all](sarveṣu) [thus](iti) [verse+24-25](ślo0 24-25) [thus](iti)
 
 ## mukta-m0-p01-v15
-[support-of-the-senses](akṣa+ādhāraḥ) [perceptible-by-the-senses](akṣa+gamyaḥ) [this](ayam) [for-those-without-lordship](an+īśānāṃ) [like-a-ghost](piśācavat)
+[sense+support](akṣādhāraḥ) [sense+perceptible](akṣagamyaḥ) [this](ayam) [of-the-powerless](anīśānāṃ) [like+a-ghost](piśācavat)
 
 ## mukta-m0-p01-v16
-[white-etc.](śukla+ādi) [white](śuklaṃ) [and-shining](bhāsvat) [and](ca) [form](rūpaṃ) [in-the-three](triṣu) [beginning-with-earth](kṣiti+ādiṣu)
+[white+etc.](śuklādi) [white](śuklaṃ) [and-shining](bhāsvat) [and](ca) [form](rūpaṃ) [in-earth+etc.](kṣityādiṣu) [in-three](triṣu)
 
 ## mukta-m0-p01-v17
-[in-water](jale) [cold](śītaḥ) [in-fire](śikhini) [hot](uṣṇaḥ) [touch](sparśaḥ) [this](ayaṃ) [is-established](saṃvyavasthitaḥ)
+[in-water](jale) [cold](śītaḥ) [in-fire](śikhini) [hot](uṣṇaḥ) [touch](sparśaḥ) [this](ayaṃ) [arranged](saṃvyavasthitaḥ)
 
 ## mukta-m0-p01-v18
-[collection-of-echoes](pratiśabdaka+saṃghātaḥ) [in-ether](nabhasy) [indeed](eva) [declared](uditaḥ) [by-the-wise](budhaiḥ)
+[echo+mass](pratiśabdakasaṃghāto) [in-ether](nabhasy) [indeed](eva) [declared](udito) [by-the-wise](budhaiḥ)
 
 ## mukta-m0-p01-v19
-[the-subtle-elements](mātrāḥ) [by-them](taiḥ) [by-inference](anumānataḥ)
+[the-measures](mātrāḥ) [by-them](taiḥ) [by-inference](anumānataḥ)
 
 ## mukta-m0-p01-v20
-[manifested-sequentially](krama+vyaṅgyā) [just-as](yathā) [picture](citraṃ) [on-cloth](paṭe) [form](rūpaṃ) [but](tu) [when-covered](veṣṭite)
+[gradually+manifested](kramavyaṅgyā) [just-as](yathā) [picture](citraṃ) [on-cloth](paṭe) [form](rūpaṃ) [but](tu) [when-covered](veṣṭite)
 
 ## mukta-m0-p01-v21
-[because-of-being-manifested-sequentially](krama+vyaṅgyatvataḥ) [by-reason](hetoḥ) [the-state-of-being-an-object](gocaratvaṃ) [go-to](vrajanti) [these](amī)
+[because-of-being+gradually+manifested](kramavyaṅgyatvato) [by-reason](hetor) [object-status](gocaratvaṃ) [go-to](vrajanti) [these](amī)
 
 ## mukta-m0-p01-v22
-[objecthood](viṣayatāṃ) [they-obtain](prāpnuvanti)
+[objecthood](viṣayatāṃ) [obtain](prāpnuvanti)
 
 ## mukta-m0-p01-v23
-[in-earth](dharitryāṃ) [indeed](hi) [of-water-etc.](jala+ādīnām) [even-without-apprehension](agrahe+api) [it-arises](prajāyate)
+[on-earth](dharitryāṃ) [indeed](hi) [of-water+etc.](jalādīnām) [even-in-non-apprehension](agrahe'pi) [arises](prajāyate)
 
 ## mukta-m0-p01-v24
-[in-water-etc.](jala+ādiṣu) [in-the-same-way](evam+eva) [this](ayaṃ) [to-be-applied](yojyaḥ) [reason](hetuḥ) [by-the-wise](manīṣibhiḥ)
+[in-water+etc.](jalādiṣu) [in-this-way](evam) [indeed](eva) [this](ayaṃ) [to-be-applied](yojyo) [reason](hetur) [by-the-wise](manīṣibhiḥ)
 
 ## mukta-m0-p01-v25
-[therefore](tasmāt) [unestablishedness](asiddhatā) [not](na) [exists](asti) [of-the-reason](hetoḥ) [in-the-adorned-jewel](upahite) [in-the-jewel](maṇau)
+[therefore](tasmād) [unestablishedness](asiddhatā) [not](nāsti) [of-the-reason](hetor) [in-the-placed+jewel](upahite maṇau)

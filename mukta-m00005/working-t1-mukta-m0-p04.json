@@ -15,12 +15,8 @@
 "quick_gloss": "manifestation"
 },
 {
-"surface": "bhūmi",
-"quick_gloss": "ground"
-},
-{
-"surface": "tayā",
-"quick_gloss": "state"
+"surface": "bhūmitayā",
+"quick_gloss": "ground-state-by"
 },
 {
 "surface": "paśoḥ",
@@ -61,7 +57,7 @@
 },
 {
 "surface": "antaḥkaraṇa",
-"quick_gloss": "inner-organ"
+"quick_gloss": "internal-organ"
 },
 {
 "surface": "tridhā",
@@ -81,12 +77,20 @@
 "quick_gloss": "functions"
 },
 {
-"surface": "bhinna+arthatvād",
-"quick_gloss": "due-to-different-objects"
+"surface": "bhinna",
+"quick_gloss": "different"
 },
 {
-"surface": "bhinna+kāraṇāḥ",
-"quick_gloss": "having-different-causes"
+"surface": "arthatvād",
+"quick_gloss": "object-ness-because-of"
+},
+{
+"surface": "bhinna",
+"quick_gloss": "different"
+},
+{
+"surface": "kāraṇāḥ",
+"quick_gloss": "causes"
 },
 {
 "surface": "iti",
@@ -131,7 +135,7 @@
 },
 {
 "surface": "tārkikatā",
-"quick_gloss": "logician-hood"
+"quick_gloss": "logician-ness"
 },
 {
 "surface": "tava",
@@ -156,7 +160,7 @@
 },
 {
 "surface": "hetutvāt",
-"quick_gloss": "causality"
+"quick_gloss": "cause-ness-because-of"
 },
 {
 "surface": "siddham",
@@ -200,7 +204,11 @@
 "quick_gloss": "exists"
 },
 {
-"surface": "iti+ataḥ",
+"surface": "iti",
+"quick_gloss": "thus"
+},
+{
+"surface": "ataḥ",
 "quick_gloss": "therefore"
 },
 {
@@ -221,8 +229,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "sukha+ādi",
-"quick_gloss": "pleasure-etc."
+"surface": "sukha",
+"quick_gloss": "pleasure"
+},
+{
+"surface": "ādi",
+"quick_gloss": "etc."
 },
 {
 "surface": "adhyavasāyasya",
@@ -254,12 +266,24 @@
 "quick_gloss": "employs"
 },
 {
-"surface": "mahat+ādīni",
-"quick_gloss": "the-great-principle-etc."
+"surface": "mahat",
+"quick_gloss": "great-principle"
 },
 {
-"surface": "bodha+ādi+artham",
-"quick_gloss": "for-cognition-etc."
+"surface": "ādīni",
+"quick_gloss": "etc."
+},
+{
+"surface": "bodha",
+"quick_gloss": "cognition"
+},
+{
+"surface": "ādi",
+"quick_gloss": "etc."
+},
+{
+"surface": "artham",
+"quick_gloss": "purpose-for"
 },
 {
 "surface": "aṇuḥ",
@@ -279,20 +303,28 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "buddhi+ādi",
-"quick_gloss": "in-intellect-etc."
+"surface": "buddhi",
+"quick_gloss": "intellect"
+},
+{
+"surface": "ādi",
+"quick_gloss": "etc."
 },
 {
 "surface": "saṃsthe",
-"quick_gloss": "situated"
+"quick_gloss": "situated-in"
 },
 {
-"surface": "bodha+ādau",
-"quick_gloss": "in-cognition-etc."
+"surface": "bodha",
+"quick_gloss": "cognition"
+},
+{
+"surface": "ādau",
+"quick_gloss": "etc."
 },
 {
 "surface": "puṃsaḥ",
-"quick_gloss": "of-the-self"
+"quick_gloss": "of-the-soul"
 },
 {
 "surface": "kartṛtvam",
@@ -324,12 +356,20 @@
 "quick_gloss": "desired"
 },
 {
-"surface": "tathā+eva",
+"surface": "tathā",
 "quick_gloss": "likewise"
 },
 {
-"surface": "mahat+ādayaḥ",
-"quick_gloss": "the-great-principle-etc."
+"surface": "eva",
+"quick_gloss": "indeed"
+},
+{
+"surface": "mahat",
+"quick_gloss": "great-principle"
+},
+{
+"surface": "ādayaḥ",
+"quick_gloss": "etc."
 }
 ]
 },
@@ -345,20 +385,28 @@
 "quick_gloss": "therefore"
 },
 {
-"surface": "bodha+ādi",
-"quick_gloss": "of-cognition-etc."
+"surface": "bodha",
+"quick_gloss": "cognition"
+},
+{
+"surface": "ādi",
+"quick_gloss": "etc."
 },
 {
 "surface": "vṛttīnāṃ",
-"quick_gloss": "functions"
+"quick_gloss": "of-functions"
 },
 {
 "surface": "sādhanam",
 "quick_gloss": "instrument"
 },
 {
-"surface": "mahat+ādayaḥ",
-"quick_gloss": "the-great-principle-etc."
+"surface": "mahat",
+"quick_gloss": "great-principle"
+},
+{
+"surface": "ādayaḥ",
+"quick_gloss": "etc."
 }
 ]
 },
@@ -386,16 +434,20 @@
 "quick_gloss": "enjoyable"
 },
 {
-"surface": "māyā+ādi",
-"quick_gloss": "māyā-etc."
+"surface": "māyā",
+"quick_gloss": "māyā"
+},
+{
+"surface": "ādi",
+"quick_gloss": "etc."
 },
 {
 "surface": "ca",
 "quick_gloss": "and"
 },
 {
-"surface": "tat+arthataḥ",
-"quick_gloss": "for-its-sake"
+"surface": "tadarthataḥ",
+"quick_gloss": "for-that-purpose"
 }
 ]
 },
@@ -408,11 +460,11 @@
 "tokens": [
 {
 "surface": "tvāt",
-"quick_gloss": "by-that-state"
+"quick_gloss": "by-that-ness"
 },
 {
 "surface": "paramparayā",
-"quick_gloss": "indirectly"
+"quick_gloss": "by-succession"
 },
 {
 "surface": "bhogyam",
@@ -452,8 +504,12 @@
 "quick_gloss": "form"
 },
 {
-"surface": "tat+karma+jaṃ",
-"quick_gloss": "born-of-its-karma"
+"surface": "tat",
+"quick_gloss": "that"
+},
+{
+"surface": "karmajaṃ",
+"quick_gloss": "action-born"
 },
 {
 "surface": "matau",
@@ -469,16 +525,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "paṭa+ādi",
-"quick_gloss": "cloth-etc."
+"surface": "paṭa",
+"quick_gloss": "cloth"
+},
+{
+"surface": "ādi",
+"quick_gloss": "etc."
 },
 {
 "surface": "bodha",
 "quick_gloss": "cognition"
 },
 {
-"surface": "avaitatyāt",
-"quick_gloss": "non-deviation"
+"surface": "āvaitatyād",
+"quick_gloss": "non-pervasion-because-of"
 },
 {
 "surface": "ātmanaḥ",
@@ -522,12 +582,16 @@
 "quick_gloss": "manifest"
 },
 {
-"surface": "svapna+ādi",
-"quick_gloss": "like-dream-etc."
+"surface": "svapna",
+"quick_gloss": "dream"
 },
 {
-"surface": "bodha+vat",
-"quick_gloss": "cognition"
+"surface": "ādi",
+"quick_gloss": "etc."
+},
+{
+"surface": "bodhavat",
+"quick_gloss": "cognition-like"
 },
 {
 "surface": "iti",
@@ -551,8 +615,12 @@
 "quick_gloss": "liberation"
 },
 {
-"surface": "prakṛti+bhāvaḥ",
-"quick_gloss": "absorption-in-nature"
+"surface": "prakṛti",
+"quick_gloss": "nature"
+},
+{
+"surface": "bhāvaḥ",
+"quick_gloss": "absorption"
 },
 {
 "surface": "vighātaḥ",
@@ -584,16 +652,28 @@
 "quick_gloss": "control"
 },
 {
-"surface": "ūrdhva+sthitiḥ",
+"surface": "ūrdhvasthitiḥ",
 "quick_gloss": "higher-state"
 },
 {
-"surface": "sat+dṛṣṭi+bhṛttvaṃ",
-"quick_gloss": "possession-of-right-view"
+"surface": "sat",
+"quick_gloss": "true"
 },
 {
-"surface": "bhoga+aspṛhā",
-"quick_gloss": "non-desire-for-enjoyment"
+"surface": "dṛṣṭi",
+"quick_gloss": "vision"
+},
+{
+"surface": "bhṛttvaṃ",
+"quick_gloss": "possession"
+},
+{
+"surface": "bhoga",
+"quick_gloss": "enjoyment"
+},
+{
+"surface": "aspṛhā",
+"quick_gloss": "non-desire"
 },
 {
 "surface": "phalam",
@@ -610,23 +690,27 @@
 "tokens": [
 {
 "surface": "vinaya",
-"quick_gloss": "in-discipline"
+"quick_gloss": "discipline"
 },
 {
 "surface": "prākṛte",
-"quick_gloss": "and-material-form"
+"quick_gloss": "material"
 },
 {
 "surface": "rūpe",
-"quick_gloss": "form"
+"quick_gloss": "in-form"
 },
 {
-"surface": "pūrva+ukta",
+"surface": "pūrvokta",
 "quick_gloss": "previously-stated"
 },
 {
-"surface": "phala+saṃgrahaḥ",
-"quick_gloss": "collection-of-results"
+"surface": "phala",
+"quick_gloss": "result"
+},
+{
+"surface": "saṃgrahaḥ",
+"quick_gloss": "collection"
 }
 ]
 },
@@ -638,20 +722,32 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "rāga+mātra",
-"quick_gloss": "by-passion-alone"
+"surface": "rāga",
+"quick_gloss": "passion"
 },
 {
-"surface": "anulipta+aṅgāt",
-"quick_gloss": "smeared-limbed"
+"surface": "mātra",
+"quick_gloss": "mere"
 },
 {
-"surface": "dharma+ādi",
-"quick_gloss": "from-dharma-etc."
+"surface": "anulipta",
+"quick_gloss": "smeared"
+},
+{
+"surface": "aṅgād",
+"quick_gloss": "limb-from"
+},
+{
+"surface": "dharma",
+"quick_gloss": "merit"
+},
+{
+"surface": "ādi",
+"quick_gloss": "etc."
 },
 {
 "surface": "samudāyataḥ",
-"quick_gloss": "aggregate"
+"quick_gloss": "aggregate-from"
 }
 ]
 },
@@ -667,20 +763,28 @@
 "quick_gloss": "contentment"
 },
 {
-"surface": "kṛtārtha+vijñānam",
-"quick_gloss": "knowledge-of-accomplishment"
+"surface": "kṛtārtha",
+"quick_gloss": "accomplished-aim"
+},
+{
+"surface": "vijñānam",
+"quick_gloss": "knowledge"
 },
 {
 "surface": "anayā",
 "quick_gloss": "by-this"
 },
 {
-"surface": "ātma+grahe",
-"quick_gloss": "self-grasping"
+"surface": "ātma",
+"quick_gloss": "self"
+},
+{
+"surface": "grahe",
+"quick_gloss": "grasping-in"
 },
 {
 "surface": "sati",
-"quick_gloss": "when-present"
+"quick_gloss": "being-present"
 }
 ]
 },
@@ -693,7 +797,7 @@
 "tokens": [
 {
 "surface": "kṛtārthaḥ",
-"quick_gloss": "accomplished"
+"quick_gloss": "accomplished-aim"
 },
 {
 "surface": "asmi",
@@ -709,7 +813,7 @@
 },
 {
 "surface": "matiḥ",
-"quick_gloss": "cognition"
+"quick_gloss": "thought"
 },
 {
 "surface": "iti",
@@ -729,16 +833,24 @@
 "quick_gloss": "incapacity"
 },
 {
-"surface": "deva+vaikalyāt",
-"quick_gloss": "due-to-defect-of-organs"
+"surface": "deva",
+"quick_gloss": "divine"
+},
+{
+"surface": "vaikalyād",
+"quick_gloss": "deficiency-because-of"
 },
 {
 "surface": "asāmarthyaṃ",
 "quick_gloss": "inability"
 },
 {
-"surface": "śubha+ādiṣu",
-"quick_gloss": "in-auspicious-etc."
+"surface": "śubha",
+"quick_gloss": "auspicious"
+},
+{
+"surface": "ādiṣu",
+"quick_gloss": "etc."
 }
 ]
 },
@@ -770,8 +882,12 @@
 "quick_gloss": "in-effect"
 },
 {
-"surface": "kāraṇa+saṃśrayaḥ",
-"quick_gloss": "dependence-on-cause"
+"surface": "kāraṇa",
+"quick_gloss": "cause"
+},
+{
+"surface": "saṃśrayaḥ",
+"quick_gloss": "dependence"
 },
 {
 "surface": "iti",
@@ -791,12 +907,16 @@
 "quick_gloss": "slightly"
 },
 {
-"surface": "dharma+ādi",
-"quick_gloss": "with-dharma-etc."
+"surface": "dharma",
+"quick_gloss": "merit"
 },
 {
-"surface": "saṃpṛktāt",
-"quick_gloss": "mixed"
+"surface": "ādi",
+"quick_gloss": "etc."
+},
+{
+"surface": "saṃpṛktād",
+"quick_gloss": "mixed-from"
 },
 {
 "surface": "abhivyaktaḥ",
