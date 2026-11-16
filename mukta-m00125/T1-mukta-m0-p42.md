@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p42-v1026
-[two-measure](dvimātrāt) [foot+increase+by](pāda+vṛddhyā+tu) [six-finger+equal+limit](ṣaḍ+aṅgula+samā+avadhi)
+[from-two-measures](dvimātrāt) [by-foot-growth](pādavṛddhyātu) [six-angula](ṣaḍaṃgula)+[limit](samāvadhi)
 
 ## mukta-m0-p42-v1027
-[pole+prescribed](daṇḍa+proktāḥ) [should-be](bhaveyuḥ) [or](vā) [attached](lagnāḥ) [or](vā) [peg+posts](kīla+pādapāḥ)
+[staff-proclaimed](daṇḍaproktā) [may-become](bhaveyurvā) [attached](lagnā) [vā](vā) [peg-footed](kīlapādapāḥ)
 
 ## mukta-m0-p42-v1028
-[twenty-seven+pegs+up-to](saptaviṃśati+kīla+antaṃ) [in-one+direction](diśi+ekasyāṃ) [one-should-place](niyojayet)
+[twenty-seven-pegs](saptaviṃśatikīlāntaṃ) [in-one-direction](diśyekasyāṃ) [one-should-place](niyojayet)
 
 ## mukta-m0-p42-v1029
-[three-pegs](tri+kīlaṃ) [or](vā) [four-pegs](catuḥ+kīlam) [desired+measure+endowed-with](iṣṭa+māna+samanvitam)
+[three-pegged](trikīlaṃ) [vā](vā) [four-pegged](catuṣkīlam) [desired-mind-endowed](iṣṭamānasamanvitam)
 
 ## mukta-m0-p42-v1030
-[wood+arisen](dāru+udbhavāni) [wheels](cakrāṇi) [at-each+peg](prati+kīlam) [indeed](tu) [one-should-attach](yojayet)
+[wood-born](dārūdbhavāni) [wheels](cakrāṇi) [per-peg](pratikīlantu) [one-should-join](yojayet)
 
 ## mukta-m0-p42-v1031
-[one-should-attach](yojayet) [or](vā) [outside](bahiḥ) [with-dry](śuṣkaiḥ) [coconut+leaves+etc](nālikera+dala+ādibhiḥ)
+[one-should-join](yojayet)+[vā](vā) [outside](bahiś)+[dry](śuṣkaiḥ) [coconut-leaf-etc](nālikeradalādibhiḥ)
 
 ## mukta-m0-p42-v1032
-[one-cubit+wide](eka+hasta+viśālam) [indeed](tu) [double+length+endowed-with](dviguṇa+āyata+saṃyutam)
+[one-hand-wide](ekahastaviśālantu) [double-length-joined](dviguṇāyatasaṃyutam)
 
 ## mukta-m0-p42-v1033
-[arrangement](kalpam) [this](etat) [is-called](samākhyātam) [secondary-arrangement](anukalpam) [now](atha) [is-stated](ucyate)
+[this-rite](kalpametatsamākhyātamanukalpamathocyate)
 
 ## mukta-m0-p42-v1034
-[one-should-employ](yojayet) [substitute-arrangement](upakalpaṃ) [it-should-be](syāt) [fire+heap+devoid-of](homa+kūṭa+vivarjitam)
+[one-should-join](yojayet)+[upakalpa](upakalpaṃ) [syāt](syāt)+[homakūṭa-without](homakūṭavivarjitam)
 
 ## mukta-m0-p42-v1035
-[from-lamp+heap](dīpa+kūṭāt) [one-should-lead](nayet) [in-directions](dikṣu) [in-intermediate-directions](vidikṣu) [also](api) [in-their-interval](tat+antare)
+[lamp-peak](dīpakūṭān)+[lead](nayed)+[directions](dikṣu) [intermediate-directions](vidikṣvapi) [there-between](tadantare)
 
 ## mukta-m0-p42-v1036
-[one-should-place](sthāpayet) [lamp+posts](dīpa+daṇḍān) [and](ca) [in-garland+form](mālā+ākāreṇa) [or](vā) [many](bahūn)
+[place](sthāpayet) [lamp-staffs](dīpadaṇḍāṃśca) [mālā-maker](mālākāreṇa) [vā](vā) [many](bahūn)
 
 ## mukta-m0-p42-v1037
-[radiance+shaped](prabhā+ākārān) [and](ca) [or](vā) [having-made](kṛtvā) [there](tatra) [lamps](dīpān) [and](ca) [one-should-place](yojayet)
+[brightness-makers](prabhākārāṃśca) [vā](vā) [having-made](kṛtvā) [there](tatra) [lamps](dīpāṃśca) [one-should-join](yojayet)
 
 ## mukta-m0-p42-v1038
-[in-pavilion](maṇṭape) [at-offering+platform+etc](bali+pīṭha+ādau) [in-well](kūpe) [or](vā) [also](atha) [in-house](gṛhe) [also](api) [or](vā)
+[in-pavilion](maṇṭape) [bali-altar-etc](balipīṭhādau) [in-well](kūpe) [vā](vā)+[atha](atha) [in-house](gṛhepi) [vā](vā)
 
 ## mukta-m0-p42-v1039
-[outside](bahiḥ) [or](vā) [one-should-arrange](kalpayet) [lamps](dīpān) [in-village+etc](grāma+ādiṣu) [also](api) [everywhere](sarvataḥ)
+[outside](bahirvā) [one-should-arrange](kalpayeddīpān) [in-villages-etc](grāmādiṣvapi) [everywhere](sarvataḥ)
 
 ## mukta-m0-p42-v1040
-[with-weapon-mantra](astreṇa) [one-should-purify](śodhayet) [post](daṇḍaṃ) [with-praṇava](praṇavena) [indeed](tu) [one-should-worship](pūjayet)
+[by-weapon](astreṇa) [purify](śodhayeddaṇḍaṃ) [by-oṃ](praṇavena) [tu](tu) [worship](pūjayet)
 
 ## mukta-m0-p42-v1041
-[having-placed](sthāpayitvā) [indeed](tu) [on-previous-day](pūrve+dyuḥ) [at-its+base](tat+mūle) [platform](vedikāṃ) [one-should-make](nayet)
+[having-placed](sthāpayitvā) [tu](tu) [previous-day](pūrvedyuḥ) [that-root](stanmūle) [altar](vedikāṃ) [lead](nayet)
 
 ## mukta-m0-p42-v1042
-[craftsman](śilpinaṃ) [having-released](mocayitvā) [at-end](ante) [auspicious-day-declaration](puṇyāhaṃ) [one-should-cause-to-recite](vācayet) [then](tataḥ)
+[artisan](śilpinaṃ) [having-released](mocayitvānte) [auspicious-day](puṇyāhaṃ) [vā](vā)+[recite](vācayettataḥ)
 
 ## mukta-m0-p42-v1043
-[having-tied](badhvā) [protective-thread](pratisaram) [and](ca) [inside](antaḥ) [having-entered](praviśya) [this](idam) [one-should-perform](samācaret)
+[having-bound](badhvā) [amulet](pratisarañcāntaḥ) [having-entered](praviśyedaṃ) [one-should-perform](samācaret)
 
 ## mukta-m0-p42-v1044
-[in-delightful](manorame) [in-auspicious](śubhe) [where](yatra) [with-cow-dung](gomayena) [smeared](upalepite)
+[delightful](manorame) [auspicious](śubhenyatra) [cow-dung](gomayenopalepite)
 
 ## mukta-m0-p42-v1045
-[nine](nava) [or](vā) [five+vessels](pañca+pātrāṇi) [or](vā) [one](ekam) [or](vā) [there](tatra) [one-should-place](vinyaset)
+[nine-or](navavā) [five-vessels](pañcapātrāṇi) [or-one](vaikaṃ) [vā](vā) [there](tatra) [one-should-place](vinyaset)
 
 ## mukta-m0-p42-v1046
-[in-vessel](pātre) [praṇava](praṇavaḥ) [thus](iti) [declared](uktaḥ) [with-sandalwood+etc](candana+ādyaiḥ) [one-should-worship](samarcayet)
+[in-vessel](pātre) [oṃ](praṇava) [iti](ityuktaścandanādyaissamarcayet)
 
 ## mukta-m0-p42-v1047
-[śiva+fire](śiva+agnim) [there](tatra) [having-established](saṃpādya) [śiva](śivam) [with-limbs](sa+aṅgam) [and](ca) [one-should-satisfy](tarpayet)
+[śiva-fire](śivāgniṃ) [there](tatra) [having-prepared](saṃpādya) [śiva](śivaṃ) [with-limbs](sāṃgañca) [satisfy](tarpayet)
 
 ## mukta-m0-p42-v1048
-[with-milk](kṣīreṇa) [hundred](śatam) [half](ardham) [or](vā) [its+half](tat+ardham) [or](vā) [one-should-perform](samācaret)
+[by-milk](kṣīreṇa) [hundred](śatamardhaṃ) [vā](vā) [half](tadardhaṃ) [vā](vā) [one-should-perform](samācaret)
 
 ## mukta-m0-p42-v1049
-[hundred](śatam) [eight+more](aṣṭa+uttaram) [having-offered](hutvā) [full-offering](pūrṇām) [at-end](ante) [having-performed](vidhāya) [and](ca)
+[hundred-eight](śatamaṣṭottaraṃ) [having-offered](hutvā) [pūrṇā](pūrṇāmante) [having-made](vidhāya) [ca](ca)
 
 ## mukta-m0-p42-v1050
-[with-oil+ghee](taila+ājyena) [or](vā) [having-filled](āpūrya) [vessel](pātram) [all+consisting-of](sarva+ātmakam) [remembering](smaran)
+[by-oil-ghee](tailājyenavāpūrya) [vessel](pātraṃ) [all-self](sarvātmakaṃ) [remembering](smaran)

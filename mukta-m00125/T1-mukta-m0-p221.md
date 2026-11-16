@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p221-v5501
-navel-middle-from(nābhimadhyāt) indeed(tu) on-left(vāme) and(ca) on-right(dakṣiṇe) outside(bahiḥ) indeed(eva) and(ca)
+[from-navel-middle-but](nābhimadhyāttu) [left](vāme) [and](ca) [right](dakṣiṇe) [outside-only](bahireva) [and](ca)
 
 ## mukta-m0-p221-v5502
-boon-hand-of(varahastasya) back-height(pṛṣṭha+uccam) that(tat) navel(nāha) of-two-wrists(maṇibandhayoḥ)
+[boar-hand's](varahastasya) [back-high](pṛṣṭhoccaṃ) [that](tat) [not](nāha) [wrist-joints](maṇibandhayoḥ)
 
 ## mukta-m0-p221-v5503
-side-end(pārśva+antam) six(rasa) measure(mātram) should-be(syāt) interval(antaram) o-best-of-sages(muni+puṃgavāḥ)
+[side-end](pārśvāntaṃ) [rasa](rasa) [measure](mātraṃ) [be](syāt) [sage-best](munipuṃgavāḥ)
 
 ## mukta-m0-p221-v5504
-from-navel(nābheḥ) that(tam) to-wrist-end(maṇibandha+antam) traditionally(smṛtya) aṅgula-measure(aṅgula+miti) declared(īritam)
+[from-navel](nābhestaṃ) [wrist-end](maṇibandhāntaṃ) [remembered](smṛtyaṃ) [finger-measure](gulamitīritam)
 
 ## mukta-m0-p221-v5505
-of-two-foot-thumbs(pāda+aṅguṣṭha+dvayoḥ) middle(madhyam) of-face-and-two-heels(mukha+pārṣṇi+dvaya+antaram)
+[between-two-great-toes](pādāṃguṣṭhadvayormadhyaṃ) [face-heel-two-end](mukhapārṣṇidvayāntaram)
 
 ## mukta-m0-p221-v5506
-half-moon(ardha+indu) and-other(maliḥ+ca+anya) of-two-hands(hastayoḥ) interval(antaram) considered(matam)
+[half-moon-bee-like](ardhendumalivaścānya) [hands-between](hastayerantaraṃ) [opinion](matam)
 
 ## mukta-m0-p221-v5507
-goddess-eye-face-chin(devī+dṛk+āsya+cibuka) armpit-breast-measure(kakṣa+cūcuka+mānatā)
+[goddess-eye-chin](devīdṛgāsya) [armpit-nipple-measure](cibuka) [kakṣa] [cūcukamānatā]
 
 ## mukta-m0-p221-v5508
-joined(yuktā) with-goddess-hip-back(devī+kaṭi+spṛṣṭa) with-hands(karābhyām) also(api) united(saṃyutā)
+[fit-goddess-hip-touch](yuktādevīkaṭispṛṣṭa) [hands-with-also](karābhyāmapi) [joined](saṃyutā)
 
 ## mukta-m0-p221-v5509
-of-two-foot-thumbs(pāda+aṅguṣṭha+dvayoḥ) middle(madhyam) should-be(bhavet) eighteen-aṅgulas(aṣṭadaśa+aṅgulam)
+[between-two-great-toes](pādāṃguṣṭhadvayormadhyaṃ) [be-eighteen-fingers](bhavedaṣṭadaśāṃgulam)
 
 ## mukta-m0-p221-v5510
-deity-height(daiva+ucca) ten-part-one(daśa+bhāga+eka) part(bhāgāt) up-to-eleven(ekādaśa+avadhi)
+[god-high-ten-part-one](devoccadaśabhāgaika) [part-from-eleven-limit](bhāgādekādaśāvadhi)
 
 ## mukta-m0-p221-v5511
-holding-conch-disc(gṛhīta+śaṃkha+cakraḥ) and(ca) by-hands(hastābhyām) held(dhṛtayā) also(api) and(ca)
+[taken-conch-discus](gṛhīta+śaṃkha+cakraśca) [hands-with](hastābhyāṃ) [held-also](dhṛtayāpi) [and](ca)
 
 ## mukta-m0-p221-v5512
-from-nose-tip(nāsā+agrāt) of-standing-foot(sthita+pādyasya) to-thumb-end(ca+aṅguṣṭha+antam) should-hang(vilaṃbayet)
+[from-nose-tip](nāsāgrāt) [standing-foot's](sthitapādyasya) [great-toe-end](cāṃguṣṭhāntaṃ) [hang](vilaṃbayet)
 
 ## mukta-m0-p221-v5513
-water-pot-height-width(kuṇḍikā+utsedha+vistārau) palm-measure-and-thread-aṅgula(tāla+sūtra+aṅgulau) considered(matau)
+[pitcher-height-width](kuṇḍikotsedhavistāro) [tala-sutra-finger](tālasūtrāṃgulau) [opinion](matau)
 
 ## mukta-m0-p221-v5514
-face(āsyam) five-aṅgulas(pañca+aṅgulam) declared(proktam) nose-height(nāsikā+uccam) but(tu) boar-measure(kolakam)
+[mouth-five-fingers](āsyaṃpañcāṃgulaṃ) [declared](proktaṃ) [nose-high](nāsikoccantu) [kolaka](kolakam)
 
 ## mukta-m0-p221-v5515
-one-aṅgula(eka+aṅgulam) that(tat) foot-height(pada+uccam) with-its-root-tip-extent(tat+mūla+agra+tatiḥ) by-three(tribhiḥ)
+[one-finger](ekāṃgulaṃ) [that-foot-high](tat+padoccaṃ) [that-root-tip-three](tanmūlāgratatistribhiḥ)
 
 ## mukta-m0-p221-v5516
-above-that(tat+ūrdhve) right-hand(dakṣiṇam+hastam) for-water-flow(dhārā+pātāya) should-arrange(kalpayet)
+[above-that](tadūrdhve) [right-hand](dakṣiṇaṃhastandhārāpātāya) [for-pouring](kalpayet)
 
 ## mukta-m0-p221-v5517
-from-navel(nābheḥ) indeed(tu) to-wrist-end(maṇibandha+antam) seven-measures(dhātu+mātram) thus(iti) remembered(smṛtam)
+[from-navel](nābhestumaṇibandhāntaṃ) [dhātu-measure](dhātumātramitismṛtam)
 
 ## mukta-m0-p221-v5518
-boon-giving(varadaḥ) kaṭaka-hands(kaṭakau) should-be(syātām) left-and-right(vāma+itara) both-hands(karau+ubhau)
+[boon-giver](varadaḥ) [bracelets](kaṭakau) [be](syātāṃ) [left-other](vāmetara) [hands-both](karāvubhau)
 
 ## mukta-m0-p221-v5519
-four-faced(catur+mukhaḥ) four-armed(catur+bāhuḥ) adorned-with-matted-hair-crown(jaṭā+makuṭa+maṇḍitam)
+[four-faced](caturmukhaścaturbāhuḥ) [matted-crown-ornamented](jaṭāmakuṭamaṇḍitam)
 
 ## mukta-m0-p221-v5520
-endowed-with-muñja-girdle(mauñjī+mekhalayā+upetam) with-sacred-thread-and-upper-garment(sa+upavīta+uttarīyakam)
+[grass-girdle](mauñjīmekhalayopetaṃ) [sacred-thread-upper-garment](sopavītottarīyakam)
 
 ## mukta-m0-p221-v5521
-boon-and-fearlessness-hands(vara+abhaya+karau) front(pūrvau) should-be(syātām) those(tau) right-and-left(dakṣiṇa+itarau)
+[boon-fear-hands](varābhayakarau) [east](pūrvausyātāntau) [right-other](dakṣiṇetarau)
 
 ## mukta-m0-p221-v5522
-thread(sūtram) at-forehead-nose-tip-middle(lalāṭa+nāsā+agra+madhyame) at-navel-and-ankles(nābhi+gulphayoḥ)
+[thread-forehead-nose-tip](sūtraṃlalaṭanāsāgra) [middle](madhyame) [navel-ankles](nābhigulphayoḥ)
 
 ## mukta-m0-p221-v5523
-from-that-foot-thumb-root(tat+pāda+aṅguṣṭha+mūlāt) to-navel-end(nābheḥ) eight-and-ten-aṅgulas(vasu+daśa+aṅgulam)
+[that-foot-great-toe-root-end](tatpādāṃguṣṭha+mūlāntānnābhervasudaśāṃgulam)
 
 ## mukta-m0-p221-v5524
-in-that-middle(tat+madhye) thirteen-measures(viśva+mātrā) should-be(syāt) arm-to-side-end(bāhu+pārśva+antakam) by-six(rasaiḥ)
+[there-middle](tanmadhye) [universe-measure](viśvamātrasyāt) [arm-side-end](bāhupārśvāntakaṃ) [rasas](rasaiḥ)
 
 ## mukta-m0-p221-v5525
-known-as-brahma-form(brahma+rūpam+iti+khyātam) likewise(tathā) seated-in-lotus-posture(padmāsana+sthitam)
+[brahma-form](brahmarūpamitikhyāta) [thus](ntathāpadmāsanasthitam)

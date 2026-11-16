@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p257-v6401
-[up-to](yāvat) [eight+six](aṣṭa+savaṃ) [foot+length](pāda+dairghyam) [fire+finger+etc](agni+aṅgula+ādikam)
+[as-long-as](yāvadaṣṭasavaṃ) [foot+length](pādadairghyam) [fire+finger+etc](agnyaṅgulādikam)
 
 ## mukta-m0-p257-v6402
-[foot](pāda) [width](vistāra) [declared](ākhāto) [abode](dhāma) [foot+making](pāda+kṛtir) [as](yathā)
+[foot](pāda) [width](vistāra) [measured](ākhāto) [abode](dhāma) [foot](pādā) [work](kṛtiryathā)
 
 ## mukta-m0-p257-v6403
-[with-many+strong](bahu+nīvra) [joined](samāyuktāḥ) [in-planks](phalakāsu) [inserted](niveśitāḥ)
+[many](bahunīvra) [joined](samāyuktāḥ) [planks](phalakāsu) [placed](niveśitāḥ)
 
 ## mukta-m0-p257-v6404
-[likewise](tathaiva) [with-iron+rods](ayas+nālaiḥ) [and](ca) [stream](dhāraḥ) [very-firm](su+dṛdhaṃ) [as](yathā)
+[thus](tathaivāyasanālaiśca) [streams](dhārassudṛdhaṃ) [firmly](yathā)
 
 ## mukta-m0-p257-v6405
-[spire+making+method](śikhā+karaṇa+mārgeṇa) [plaster+ascending](lupā+ārohaṇa) [action+endowed](kriyā+anvitā)
+[crest-making](śikhākaraṇamārgeṇa) [ascent](lupārohaṇa) [with-action](kriyānvitā)
 
 ## mukta-m0-p257-v6406
-[one-should-cover](chādayet) [other+place](anya+deśañ) [and](ca) [strength+finial](ojas+tūpi) [endowed-with](samanvitam)
+[cover](chādayedanya) [region](deśañca) [vigor](ojastūpi) [endowed](samanvitam)
 
 ## mukta-m0-p257-v6407
-[it-is-told](kathyate) [by-Sacaleśa](sacaleśena) [from-width](vistārāt) [from-length](āyātat) [or](api) [or](vā)
+[told](kathyate) [by-sacaleśa](sacaleśena) [width](vistārādāyatopivā)
 
 ## mukta-m0-p257-v6408
-[one-should-increase](vardhayet) [by-two+three+four](dvi+tri+vedaiḥ) [and](ca) [multiplied](guṇite) [in-order](kramaśaḥ) [divided](hṛte)
+[increase](vardhayet) [two-three-four](dvitrivedaiśca) [multiplied](guṇitekramaśohṛte)
 
 ## mukta-m0-p257-v6409
-[lunar-day](tithiḥ) [should-be](syāt) [three-times](triguṇaṃ) [thirty](triṃśat) [divided](hṛta) [this](etat) [opinion](matam) [here](iha)
+[tithi](tithissyāt) [threefold](triguṇaṃ) [thirty](triṃśaddhstametadrathematam)
 
 ## mukta-m0-p257-v6410
-[of-chariot](rathasya) [installation](sthāpanaṃ) [which](yaḥ) [and](ca) [is-told](kathyate) [O-best-of-brahmins](vipra+puṅgavāḥ)
+[chariot](rathasya) [placement](sthāpanaṃ) [which](yaśca) [told](kathyate) [best-brahmins](viprapuṅgavāḥ)
 
 ## mukta-m0-p257-v6411
-[with-cow-urine](go+mūtra) [with-cow-dung+waters](go+maya+ambhobhiḥ) [with-kuśa-waters](kuśa+udaiḥ) [with-those-waters](tat+jalaiḥ) [also](api)
+[cow-urine](gomūtra) [cow-dung](gomayāṃbhobhiḥ) [kuśa-water](kuśodaistajjalairapi)
 
 ## mukta-m0-p257-v6412
-[with-weapon-water](astra+udena) [also](api) [sprinkle](saṃprokṣaya) [with-fragrance+flowers+etc](gandha+puṣpa+ādibhiḥ) [worship](yajet)
+[with-weapon](astrodenāpi) [sprinkle](saṃprokṣaya) [scent+flowers+etc](gandha puṣpādibhiḥ) [worship](yajet)
 
 ## mukta-m0-p257-v6413
-[with-cloth](vastreṇa) [having-covered](ācchādya) [according-to-abode-statement](dhāma+uktyā) [with-tattva+tattva-lords](tatva+tatva+īśvara+anvitam)
+[with-cloth](vastreṇācchādya) [abode](dhāmoktyā) [truth+truth+lord](tatvatatveśvarānvitam)
 
 ## mukta-m0-p257-v6414
-[in-south+north](dakṣiṇa+uttara) [situated-places](saṃstheṣu) [in-order](kramaśaḥ) [one-should-arrange](parikalpayet)
+[south-north](dakṣiṇottara) [placed](saṃstheṣu) [in-order](kramaśaḥ) [arrange](parikalpayet)
 
 ## mukta-m0-p257-v6415
-[on-pedestal](upapīṭhe) [bull](vṛṣaṃ) [having-worshipped](yaṣṭvā) [on-stream](dhāre) [Ananta](anantaṃ) [one-should-worship](prapūjayet)
+[on-pedestal](upapīṭhe) [bull](vṛṣaṃ) [having-sacrificed](yaṣṭvā) [support](dhāre'nantaṃ) [worship](prapūjayet)
 
 ## mukta-m0-p257-v6416
-[below](adhaḥ) [and-above](ca+ūrdhva) [on-cover](chade) [the-knower](vidvān) [in-order](krameṇa) [should-place](viniveśayet)
+[below+above](adhaścordhvacchadevidvān) [in-order](krameṇa) [place](viniveśayet)
 
 ## mukta-m0-p257-v6417
-[from-pericarp](karṇikāt) [nine+śaktis](nava+śaktīṃḥ) [and](ca) [Śiva-seat](śiva+āsanaṃ) [one-should-contemplate](anusmaret)
+[filaments](karṇikānnavaśaktīṃśca) [śiva-seat](śivāsanaṃ) [remember](anusmaret)
 
 ## mukta-m0-p257-v6418
-[on-spire](śikhare) [and](ca) [Sadāśiva+Īśāna](sadā+īśānaḥ) [of-Śiva](śivasya) [should-be](syāt) [finial+lord](stūpi+nāyakaḥ)
+[on-peak](śikhareca) [with-region](sadeśānaśśivasyāt) [stūpa-lord](stūpināyakaḥ)
 
 ## mukta-m0-p257-v6419
-[on-its-top](tat+agre) [platform](sthaṃḍilaṃ) [having-made](kṛtvā) [on-that](tasmin) [with-thread+garments](sūtra+ambara+anvitān)
+[there-before](tadagre) [altar](sthaṃḍilaṃ) [having-made](kṛtvā) [therein](tasmin) [thread+cloth](sūtrāṃbarānvitān)
 
 ## mukta-m0-p257-v6420
-[there](tatra) [in-middle](madhye) [Śiva](śivaṃ) [in-east](pūrve) [sun](bhānuṃ) [moon](induṃ) [likewise](tathā) [in-southeast](anale)
+[there](tatra) [middle](madhye) [śiva](śivaṃ) [east](pūrvebhānuṃ) [moon](induṃ) [thus+fire](tathānale)
 
 ## mukta-m0-p257-v6421
-[in-west](vāruṇe) [bull](vṛṣabhaṃ) [in-northwest](vāyau) [Ananta](anantaṃ) [one-should-place](viniveśayet)
+[water](vāruṇe) [bull](vṛṣabhaṃ) [wind](vāyāvanantaṃ) [place](viniveśayet)
 
 ## mukta-m0-p257-v6422
-[with-fragrance+etc](gandha+ādyaiḥ) [having-worshipped](arcayitvā) [then](tu) [fire-ritual](homa+karma) [one-should-perform](samācaret)
+[with-scent+etc](gandhādyairarcayitvātu) [homa-rite](homakarma) [perform](samācaret)
 
 ## mukta-m0-p257-v6423
-[nine](nava) [or](vā) [five+pits](pañca+kuṇḍāni) [one](ekaṃ) [or](vā) [in-east+situated](pūrva+taḥ+sthitam)
+[nine-or](navavā) [five-altars](pañcakuṇḍāni) [one](ekaṃ) [or](vā) [east-placed](pūrvatasthitam)
 
 ## mukta-m0-p257-v6424
-[Śiva](śivaṃ) [with-limbs](sa+aṅgaṃ) [in-main](pradhāne) [then](tu) [one-should-satisfy](tarpayet) [hundred+number](śata+saṃkhyayā)
+[śiva](śivaṃ) [with-limbs](sāṅgaṃ) [principal](pradhānetu) [satisfy](tarpayecchata) [number](saṃkhyayā)
 
 ## mukta-m0-p257-v6425
-[in-one](eka) [procedure](kalpe) [teacher](guruḥ) [in-this](asmin) [in-pit](kuṇḍe) [all](sarvañ) [and](ca) [should-satisfy](tarpayet)
+[one](eka) [kalpa](kalpe) [guru-self](gurusvasmin) [altar](kuṇḍe) [all](sarvañca) [satisfy](tarpayet)

@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p34-v826
-having-caused-to-enter(praveśya) house(bhavanaṃ) afterwards(paścāt) one-should-place(sthāpayet) by-former-route(pūrva+vartmanā)
+[having-entered](praveśya) [house](bhavanaṃ) [afterwards](paścāt) [should-place](sthāpayet) [by-previous](pūrva)+[path](vartmanā)
 
 ## mukta-m0-p34-v827
-at-its-end(tat+ante) image-procession-and-so-on(bera+yātrā+ādi) or(vā) before-that(tat+pūrve) is-declared(prakīrtitam)
+[after-that](tadante) [idol-procession-etc](bera+yātrā+ādi) [before-that](tatpūrve) [or](vā) [declared](prakīrtitam)
 
 ## mukta-m0-p34-v828
-by-former-vehicle-sequence(pūrva+yāna+krameṇa) indeed(eva) of-village-and-others(grāma+ādīnāṃ) circumambulation(pradakṣiṇam)
+[by-previous-vehicle-order](pūrva+yāna+krameṇa+eva) [of-villages-etc](grāma+ādīnām) [village-circumambulation](grāma+pradakṣiṇam)
 
 ## mukta-m0-p34-v829
-in-other(anyeṣu) also(api) and(ca) images(bereṣu) procedure(vidhānaṃ) similar(sadṛśaṃ) is-considered(matam)
+[in-others-also](anyeṣu+api) [and](ca) [in-idols](bereṣu) [procedure](vidhānaṃ) [similar](sadṛśaṃ) [considered](matam)
 
 ## mukta-m0-p34-v830
-endowed-with-battle-commencement-rite(yuddha+ārambha+kriyā+upetaṃ) ending-with-hunting-procession(mṛgā+yātrā+avasānakam)
+[war-beginning-rite-accompanied](yuddha+ārambha+kriyā+upetam) [hunt-procession-ending](mṛga+yātrā+avasānakam)
 
 ## mukta-m0-p34-v831
-especially(viśeṣeṇa) of-that-ending-with-bathing(snapana+antasya) should-be-performed(vidheyaṃ) by-former-route(pūrva+vartmanā)
+[especially](viśeṣeṇa) [of-bathing](snapana+antasya) [procedure](vidheyaṃ) [by-previous](pūrva)+[path](vartmanā)
 
 ## mukta-m0-p34-v832
-for-sacred-bath(tīrtha+arthaṃ) one-should-accomplish(sādhayet) at-night(rātrau) by-number-of-pots-and-food(kalaśa+anna+saṃkhyayā)
+[for-tīrtha](tīrtha+artham) [should-accomplish](sādhayed) [at-night](rātrau) [pots-nine-number](kalaśān+nava+saṃkhyayā)
 
 ## mukta-m0-p34-v833
-with-garments-or(savastrān+vā) without-garments-or(vivastrān+vā) or(vā) in-the-principal(pradhāne) garment-only(vastram+eva)
+[with-clothes-or](sa+vastrān+vā) [without-clothes-or](vi+vastrān+vā) [in-main](pradhāne) [cloth-only](vastram+eva) [or](vā)
 
 ## mukta-m0-p34-v834
-in-the-morning(prātaḥ) before-sunrise(prāk+udayāt) previously(pūrvam) sacred-bath-rite(tīrtha+kāryaṃ) one-should-perform(samācaret)
+[morning](prātaḥ) [before-sunrise](prāg+udayāt) [previous-tīrtha-work](pūrvaṃ+tīrtha+kāryaṃ) [should-perform](samācaret)
 
 ## mukta-m0-p34-v835
-pair-of-platforms(sthaṇḍila+dvitayaṃ) one-should-make(kuryāt) for-the-trident(śūla+arthaṃ) for-the-pot(kalaśa+arthakam)
+[two-altars](sthaṇḍila+dvitayaṃ) [should-make](kuryāt) [for-trident](śūla+artham) [for-pot](kalaśa+arthakam)
 
 ## mukta-m0-p34-v836
-having-caused-puṇyāha-to-be-recited(puṇyāhaṃ+vācayitvā) then(tu) preceded-by-invoking-the-deities(devān+āhūya+pūrvakam)
+[auspicious-day](puṇyāhaṃ) [having-recited](vācayitvā) [but](tu) [having-invoked-gods](devān+āhūya) [prior](pūrvakam)
 
 ## mukta-m0-p34-v837
-in-the-middle(madhye) joined-with-Manonmanī(manonmanī+yuktaṃ) with-fragrances-flowers-and-so-on(gandha+puṣpa+ādibhiḥ) one-should-worship(yajet)
+[in-middle](madhye) [manonmanī-endowed](manonmanī+yuktam) [with-sandal-flowers-etc](gandha+puṣpa+ādibhiḥ) [should-worship](yajet)
 
 ## mukta-m0-p34-v838
-collection-of-sacred-water(tīrtha+saṃgrahaṇaṃ) one-should-do(kuryāt) with-invocation-of-Gaṅgā-and-others(gaṃgā+ādi+āvāhanena) and(ca)
+[tīrtha-collection](tīrtha+saṃgrahaṇaṃ) [should-do](kuryāt) [by-Gaṅgā-etc-invocation](gaṃgā+ādi+āvāhanena) [and](ca)
 
 ## mukta-m0-p34-v839
-O-Sindhu(sindho) and(ca) you-are-Godāvarī(gotāvari+tvaṃ) in-this-water-reservoir(kāveri+atra+jalāśaye)
+[Sindhu](sindho) [Godāvarī-ness](gotāvari+tvam) [and](ca) [Kāverī](kāverī) [in-water-reservoir](atra+jalāśaye)
 
 ## mukta-m0-p34-v840
-until-sunset(khe+rastamanaṃ) as-far-as(yāvat) for-purification-of-sins-of-sacred-waters(tīrthānāṃ+pāpa+śuddhaye)
+[until-sunset](kha+? ) [tīrthas](tīrthānāṃ) [for-sin-purification](pāpa+śuddhaye)
 
 ## mukta-m0-p34-v841
-the-trident(triśūlaṃ) one-should-bathe(snāpayet) in-the-waters(apsu) remembering-the-Śiva-mantra(śiva+mantram+anusmaran)
+[trident](triśūlaṃ) [should-bathe](snāpayet) [in-waters](apsu) [Śiva-mantra](śiva+mantram) [remembering](anusmaran)
 
 ## mukta-m0-p34-v842
-having-done-collection-of-sacred-water(tīrtha+saṃgrahaṇaṃ+kṛtvā) the-sacred-water(tīrthaṃ) or(vā) in-the-temple(deva+ālaye) also(api)
+[tīrtha-collection](tīrtha+saṃgrahaṇaṃ) [having-done](kṛtvā) [tīrtha](tīrthaṃ) [in-temple](devālaye) [or](vā)
 
 ## mukta-m0-p34-v843
-endowed-with-all-ornaments(sarva+alaṃkāra+saṃyuktaṃ) one-should-enter(praviśet) towards-the-temple(ālayaṃ+prati)
+[all-ornaments-endowed](sarva+alaṃkāra+saṃyuktam) [should-enter](praviśet) [temple](ālayaṃ) [toward](prati)
 
 ## mukta-m0-p34-v844
-powder-festival(cūrṇa+utsavaṃ) then(tataḥ) one-should-perform(kuryāt) in-the-assembly-hall-of-the-deity(devasya+āsthāna+maṇṭape)
+[powder-festival](cūrṇa+utsavaṃ) [then](tataḥ) [should-do](kuryāt) [of-deity](devasya) [in-audience-pavilion](āsthāna+maṇṭape)
 
 ## mukta-m0-p34-v845
-the-trident(triśūlaṃ) in-the-west(paścime) here(atra) mortar(ulūkhalaṃ) one-should-place(viniveśayet)
+[trident](triśūlaṃ) [in-west](paścime) [where](yatra) [mortar](ulūkhalaṃ) [should-place](viniveśayet)
 
 ## mukta-m0-p34-v846
-having-wrapped-with-cloths(vastrāṇā+āveṣṭya) in-its-middle(tat+madhye) or(vā) night-powder(rātri+cūrṇam) indeed(tu) one-should-cast(kṣipet)
+[cloths](vastrāṇi) [having-wrapped](āveṣṭya) [in-middle](tan+madhye) [night-powder](rātri+cūrṇam) [or](vā) [should-throw](kṣipet)
 
 ## mukta-m0-p34-v847
-having-conceived(saṃklpya) in-the-mortar(ulūkhale) the-śakti(śaktim) named-Ādhārā(ādhārā+ākhyāṃ) one-should-establish(prakalpayet)
+[having-resolved](saṃkalpya) [mortar-power](ulūkhala+śaktim) [support-named](ādhāra+ākhyam) [should-arrange](prakalpayet)
 
 ## mukta-m0-p34-v848
-with-rice-grains-and-others(vrīhi+taṇḍulaka+ādibhiḥ) endowed-with-dūrvā-and-flowers(dūrvā+puṣpa+samopetaiḥ)
+[dūrvā](dūrvā) [with-flowers-accompanied](puṣpa+samopetaiḥ) [with-rice-paddy-etc](vrīhi+taṇḍula+kā+ādibhiḥ)
 
 ## mukta-m0-p34-v849
-likewise(tadvat) the-pestle(musalam) is-prescribed(uddiṣṭaṃ) similarly(tathaiva) the-mortar(ulūkhanaṃ) should-be(bhavet)
+[similarly](tadvat) [pestle](musalam) [declared](uddiṣṭaṃ) [likewise](tathā+eva) [mortar](ulūkhanaṃ) [should-be](bhavet)
 
 ## mukta-m0-p34-v850
-the-pestle(musalaṃ) first(pūrvam) having-worshipped(abhyarcya) the-mortar(ulūkhanaṃ) after-that(tat+anantaram)
+[pestle](musalaṃ) [first](pūrvam) [having-worshipped](abhyarcya) [mortar](ulūkhanaṃ) [after-that](tadanantaram)

@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p26-v626
-[village+circumambulation](grāma+pradakṣiṇa) [having-done](kṛtvā) [deity+invocation+endowed-with](devatā+vāhana+anvitam)
+[village-circumambulation](grāmapradakṣiṇa) [having-done](kṛtvā) [deity](devatā) [invocation](āvāhana) [accompanied](anvitam)
 
 ## mukta-m0-p26-v627
-[of-flag](dhvajasya) [hoisting](ārohaṇaṃ) [should-do](kuryāt) [by-previously-stated+method](prāg+ukta+vidhinā) [teacher](guruḥ)
+[flag](dhvajasya) [ascent](ārohaṇaṃ) [should-do](kuryāt) [previously-stated](prāgukta) [rite](vidhinā) [teacher](guruḥ)
 
 ## mukta-m0-p26-v628
-[of-flag](dhvajasya) [carrying-around](bhramaṇaṃ) [and-day](ca+ahniṃ) [should-do](kuryāt) [or](vā) [of-consecrated](saṃskṛtasya) [and](ca)
+[flag](dhvajasya) [rotation](bhramaṇaṃ) [ca](ca) [day](ahni) [should-do](kuryāt) [or](vā) [consecrated](saṃskṛtasya) [ca](ca)
 
 ## mukta-m0-p26-v629
-[then](tataḥ) [sprout+offering](aṃkura+arpaṇaṃ) [at-night](rātrau) [on-ritual+beginning+day](yāga+ārambha+dine) [approved](matam)
+[then](tataḥ) [sprout-offering](aṃkurārpaṇaṃ) [night](rātrau) [sacrifice-beginning](yāgārambha) [day](dine) [opinion](matam)
 
 ## mukta-m0-p26-v630
-[village+circumambulation](grāma+pradakṣiṇam) [sacred-water](tīrtha) [sprout](aṃkurasya) [necessity](āvaśyakam) [approved](matam)
+[village-circumambulation](grāmapradakṣiṇaṃ) [tīrtha](tīrtha) [sprout](aṃkura) [necessary](avaśyakaṃ) [opinion](matam)
 
 ## mukta-m0-p26-v631
-[sprout+offering](aṃkura+arpaṇa) [before](pūrve) [but](tu) [evening+time](sāyāhna+samaye) [clay](mṛdam)
+[sprout-offering](aṃkurārpaṇa) [before](pūrve) [tu](tu) [evening-time](sāyāhna) [samaya](samaye) [clay](mṛdam)
 
 ## mukta-m0-p26-v632
-[on-that-day](taddine) [and-this](ca+etat) [desired](iṣṭaṃ) [should-be](syāt) [drum+beating+preceded-by](bherī+tāḍana+pūrvakam)
+[that-day](taddine) [ca](ca) [this](etad) [desired](iṣṭaṃ) [syāt](syāt) [drum-beating](bherītāḍana) [preceded](pūrvakam)
 
 ## mukta-m0-p26-v633
-[on-that-night](tadrātrau) [indeed](eva) [to-be-done](kartavyaḥ) [ritual+beginning](yāga+ārambhaḥ) [of-Śiva](śivasya) [but](tu)
+[that-night](tadrātrau) [eva](eva) [to-be-done](kartavyaḥ) [sacrifice-beginning](yāgārambhaḥ) [śiva](śivasya) [tu](tu)
 
 ## mukta-m0-p26-v634
-[flag+sprout](ketu+aṃkuraḥ) [in-nine-day-festival](navāhe) [should-be](syāt) [in-seven-day-festival](saptāhe) [and](ca) [festival+sprout](utsava+aṃkuram)
+[flag-sprout](ketvaṃkuraḥ) [nine-days](navāhe) [syāt](syāt) [seven-days](saptāhe) [ca](ca) [festival-sprout](utsavāṃkuraṃ)
 
 ## mukta-m0-p26-v635
-[ritual-hall+inside](yāga+śālā+antaḥ) [should-make](kuryāt) [in-front](agre) [or](vā) [but](tu) [at-front+sides](agra+pārśvayoḥ)
+[sacrifice-hall](yāgaśālā) [end](antataḥ) [should-do](kuryāt) [front](agre) [vā](vā) [tvagrapārśvayoḥ](tvagrapārśvayoḥ)
 
 ## mukta-m0-p26-v636
-[in-middle+chamber](madhya+āgāre) [especially](viśeṣeṇa) [five+cubit+measure](pañca+hasta+pramāṇataḥ)
+[middle-hall](madhyāgāre) [especially](viśeṣeṇa) [five-hasta](pañcahasta) [measure](pramāṇataḥ)
 
 ## mukta-m0-p26-v637
-[row+triad+endowed-with](paṅkti+traya+samāyuktaṃ) [five+rows+endowed-with](pañca+paṅkti+samanvitam)
+[row-triple](paṅktitraya) [endowed](samāyuktaṃ) [five-row](pañcapaṅkti) [endowed](samanvitam)
 
 ## mukta-m0-p26-v638
-[nine+finger+limit+measure](nava+aṅgula+anta+mānena) [but](tu) [additional](adhikāḥ) [five+rows](pañca+paṅktayaḥ)
+[nine-angula](navāṃgula) [limit](antamānena) [tvadhikāḥ](tvadhikāḥ) [five-rows](pañcapaṅktayaḥ)
 
 ## mukta-m0-p26-v639
-[one+door+endowed-with](eka+dvāra+yutāṃ) [or](vā) [also](api) [pavilion+form+situated](maṇḍapa+ākāra+saṃsthitām)
+[one-door](ekadvāra) [endowed](yutāṃ) [vā](vā) [api](api) [pavilion-form](maṇḍapākāra) [situated](saṃsthitām)
 
 ## mukta-m0-p26-v640
-[one+fire+endowed-with](eka+agni+sahitāṃ) [or](vā) [also](api) [canopy+banner+endowed-with](vitāna+dhvaja+saṃyutām)
+[one-fire](ekāgni) [accompanied](sahitāṃ) [vā](vā) [api](api) [canopy-flag](vitānadhvaja) [joined](saṃyutām)
 
 ## mukta-m0-p26-v641
-[coconut+fruit+endowed-with](nālikera+phala+upetāṃ) [all+decoration+adorned](sarva+maṇḍana+maṇḍitām)
+[coconut-fruit](nālikeraphala) [endowed](upetāṃ) [all-ornament](sarvamaṇḍana) [adorned](maṇḍitām)
 
 ## mukta-m0-p26-v642
-[one+finger+increase](eka+aṅgula+vivṛddhayā) [twenty-eight+finger+limit](aṣṭāviṃśati+aṅgula+avadhi)
+[one-angula](ekāṃgula) [increase](vivṛddhayā) [twenty-eight](aṣṭāviṃśati) [angula](aṃgula) [limit](avadhi)
 
 ## mukta-m0-p26-v643
-[or](athavā) [row+measure](paṅkti+mānena) [and](ca) [subsidiary+goddess](upa+devī) [endowed-with](samanvitam)
+[or](athavā) [row-measure](paṅktimānena) [ca](ca) [upa-devī](upadevī) [accompanied](samanvitam)
 
 ## mukta-m0-p26-v644
-[square](yugāśraṃ) [circular](vartulaṃ) [or](vā) [also](api) [three+rim+endowed-with](tri+mekhala+samanvitam)
+[yuga-corner](yugāśraṃ) [round](vartulaṃ) [vā](vā) [api](api) [three-girdle](trimekhala) [endowed](samanvitam)
 
 ## mukta-m0-p26-v645
-[thus](evaṃ) [all](sarvam) [and](ca) [having-prepared](saṃpādya) [craftsman+release](śilpi+mocanam) [should-perform](ācaret)
+[thus](evaṃ) [all](sarvaṃ) [ca](ca) [accomplished](saṃpādya) [artisan-release](śilpimocana) [should-do](ācaret)
 
 ## mukta-m0-p26-v646
-[ground+taking](bhū+parigrahakaṃ) [or](vā) [also](api) [all+rite+head+endowed-with](sarva+adhvara+śiraḥ+yutam)
+[earth-grasping](bhūparigrahakaṃ) [vā](vā) [api](api) [all-sacrifice](sarvādhvara) [head](śiras) [endowed](yutam)
 
 ## mukta-m0-p26-v647
-[from-one-droṇa](droṇāt) [by-droṇa+increase](droṇa+vivṛddhayā) [but](tu) [up-to-nine-droṇa+ending](nava+droṇa+avasānakam)
+[droṇa](droṇāt) [droṇa-increase](droṇavivṛddhayā) [tu](tu) [nine-droṇa](navadroṇa) [end](avasānakam)
 
 ## mukta-m0-p26-v648
-[with-that](tadvat) [parched-rice+equal+endowed-with](lāja+sama+upetaṃ) [its-half+sesame+endowed-with](tad+ardha+tila+saṃyutam)
+[tadvallāja](tadvallāja) [samopetaṃ](samopetaṃ) [tadardha](tadardha) [tila](tila) [saṃyutam](saṃyutam)
 
 ## mukta-m0-p26-v649
-[sesame+parched-rice+etc.+line+abounding](tila+lāja+ādi+rekhā+āḍhyam) [kuśa-grass+wrapping+endowed-with](darbha+veṣṭana+saṃyutam)
+[tila-lāja](tilalāja) [etc](ādi) [line](rekhā) [rich](āḍhyaṃ) [darbha](darbha) [enclosure](veṣṭana) [joined](saṃyutam)
 
 ## mukta-m0-p26-v650
-[in-its-middle](tat+madhye) [should-place](sthāpayet) [pot](kumbhaṃ) [Śiva+named](śiva+ākhyaṃ) [with-vardhanī-vessel](vardhanī+yutam)
+[that-middle](tanmadhye) [should-place](sthāpayet) [pot](kumbhaṃ) [śiva-named](śivākhyaṃ) [vardhanī](vardhanī) [endowed](yutam)

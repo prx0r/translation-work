@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p219-v5451
-[four-armed](caturbhujaḥ) [three-eyed](triṇetraḥ) [and](ca) [with-matted-hair-crown-adorned](kaparda+makuṭa+anvitaḥ)
+[four-armed](caturbhujaḥ) [three-eyed](triṇetraḥ) [and](ca) [with-matted-hair-crown](kapardamakuṭānvitaḥ)
 
 ## mukta-m0-p219-v5452
-[then](tadā) [raised](uddhṛta) [own-right-foot](sa+dakṣa+aṃghriḥ) [sharp-fangs](tīkṣṇa+daṃṣṭraḥ) [prominent-nose](ugra+nāsikaḥ)
+[then](tataḥ) [raised](uddhṛta) [with-sharp-teeth](tīkṣṇadaṃṣṭraḥ) [sharp-nosed](ugranāsikaḥ)
 
 ## mukta-m0-p219-v5453
-[right-hand-situated](dakṣa+hasta+stha) [axe](paraśuḥ) [serpent-noose](nāga+pāśaḥ) [then](atha) [left-situated](vāma+gaḥ)
+[in-right-hand](dakṣahasta) [axe](paraśuḥ) [and](atha) [noose](nāgapāśaḥ) [in-left](vāmagaḥ)
 
 ## mukta-m0-p219-v5454
-[trident](śūlaṃ) [indeed](hi) [downward-facing](adhomukhaṃ) [declared](proktaṃ) [or](vā) [situated-on-death-pot](kāla+kuṇḍa+stham) [indeed](eva)
+[trident](śūlaṃ) [downward-facing](adhomukhaṃ) [said](proktaṃ) [in-kālakuṇḍa](kālakuṇḍastha) [or](vā)
 
 ## mukta-m0-p219-v5455
-[from-that-hand-wrist](tat+hasta+maṇibandhāt) [and](ca) [side-middle](pārśva+madhyaṃ) [one-kalā-aṅgula](kalā+aṃgulam)
+[from-wrist](taddhastamaṇibandha) [side-middle](pārśvamadhya) [finger](kalāṃgula)
 
 ## mukta-m0-p219-v5456
-[ear-tip](karṇa+agraṃ) [that-two-tālas](tat+vitālaṃ) [should-be](syāt) [equal-to-arm](dos+samaṃ) [other-hand](para+hastakam)
+[ear-tip](karṇāgra) [that-measure](tadvitāla) [equal](syāt) [other-hand](parahastaka)
 
 ## mukta-m0-p219-v5457
-[from-head](mūrdhnaḥ) [right-hand](dakṣa+karī) [always](nityaṃ) [left-nostril-etc](vāma+nāsā+puṭa+ādayaḥ)
+[head](mūrdhna) [right-hand](dakṣakari) [always](nityaṃ) [left-nostril](vāmanāsāpuṭa) [etc](ādayaḥ)
 
 ## mukta-m0-p219-v5458
-[from-that-thread](tat) [sūtrāt](sūtrāt) [of-genital-root](medhra+mūlasya) [on-left-side](vāma+bhāga) [within-interval](antaraḥ) [mataḥ](mataḥ)
+[that-thread](tat+sūtra) [from-genital-root](medramūla) [left-part](vāmabhāga) [inside](antara) [opinion](mataḥ)
 
 ## mukta-m0-p219-v5459
-[raised-foot-knee-height](adhoddhṛta+aṃghri+jānu+uccaṃ) [equal-to-hip-tip](kaṭi+agra+samam) [indeed](eva) [hi](hi)
+[raised-foot](adhoddhṛtāṃghri) [knee-high](jānūcca) [waist-tip](kaṭyagra) [equal](samameva) [indeed](hi)
 
 ## mukta-m0-p219-v5460
-[of-right-foot](dakṣa+pādasya) [heel-tip](pārṣṇi+agraṃ) [fifteen-units](tithiḥ) [should-be](syāt) [to-the-right-of-thread](sūtra+dakṣiṇe)
+[right-foot](dakṣapāda) [heel-tip](pārṣṇāgra) [tithi](tithiḥ) [syāt](syāt) [thread-right](sūtradakṣiṇe)
 
 ## mukta-m0-p219-v5461
-[to-the-right-of-that-thread](tat+sūtra+dakṣiṇena) [navel](nābhi) [of-Vidyeśvara](vidyeśvara) [one-yava](yavaṃ) [should-be](bhavet)
+[that-thread-right](tat+sūtrandakṣiṇena) [navel](abhi) [vidyeśvara](vidyeśvara) [yava](yavaṃ) [becomes](bhavet)
 
 ## mukta-m0-p219-v5462
-[of-raised-foot](uddhṛtasya) [sole-tip](tala+asya+agra) [to-calf](jaṃghāyāḥ) [smṛti-measure](smṛti+mātrakam)
+[raised-sole-tip](uddhṛtasya+talasyāgra) [calf](jaṃghā) [measure](mātrakam)
 
 ## mukta-m0-p219-v5463
-[vomiting-blood-garment](udgirat+rakta+vastraṃ) [and](ca) [likewise-red-haired](tathā+lohita+mūrdhajam)
+[spitting-blood-garment](udgiradraktavastra) [and](ca) [red-haired](tathā+lohitamūrdhaja)
 
 ## mukta-m0-p219-v5464
-[fang-gaping-face](daṃṣṭrā+karāla+vadanaṃ) [red-browed](rakta+bhrūḥ) [red-eyed](rakta+locanam)
+[fanged-face](daṃṣṭrākarālavadana) [red-brow](raktabhrū) [red-eyed](raktalocana)
 
 ## mukta-m0-p219-v5465
-[with-folded-hands](kṛta+añjali+puṭaṃ) [or](vā) [api](api) [one-should-make](kārayet) [Kāla](kālam) [with-reverence](ādarāt)
+[joined-palms](kṛtāñjalipuṭa) [or](vāpi) [make](kārayet) [kāla](kāla) [reverently](ādarāt)
 
 ## mukta-m0-p219-v5466
-[according-to-Kālānta-liṅga-measure-etc](kālānta+liṅga+māna+ādyaṃ) [as-stated-in-Liṅgodbhava](liṅgodbhava+ukta+vat) [one-should-depict](nayet)
+[kālānta-liṅga](kālāntaliṃga) [measure-first](mānādyaṃ) [liṅga-born](liṃgodbhūta) [as-said](uktavat) [lead](nayet)
 
 ## mukta-m0-p219-v5467
-[with-bound-flower-offering](baddha+puṣpa+añjaliḥ) [at-side](pārśve) [Mārkaṇḍeya-standing](mārkaṇḍeya+sthitaḥ) [excellent](varaḥ)
+[bound-flower-palms](baddhapuṣpāñjali) [side](pārśve) [mārkaṇḍeya](mārkaṇḍeya) [standing](sthita) [excellent](varaḥ)
 
 ## mukta-m0-p219-v5468
-[Mārkaṇḍeya](mārkaṇḍeyaḥ) [by-inference](anumānena) [endowed](yuktaḥ) [or](vā) [or-devoid](varjitaḥ) [tu](tu) [vā](vā)
+[mārkaṇḍeya](mārkaṇḍeya) [inference](anumāna) [joined](yukta) [or](vā) [excluded](varjita) [thus](tuvā)
 
 ## mukta-m0-p219-v5469
-[Kālāgni](kālāgniḥ) [thus](evam) [described](ākhyātaḥ) [Manmathāntaka](manmatha+antakaḥ) [is-spoken-of](ucyate)
+[kālāgni](kālāgni) [thus-called](evamākhyāta) [manmatha-ender](manmathāntaka) [called](ucyate)
 
 ## mukta-m0-p219-v5470
-[one-should-make](kuryāt) [but](tu) [fallen](patitaṃ) [by-mere-glance](dṛṣṭi+pātāt) [indeed](eva) [and](ca) [at-that-moment](tat+kṣaṇāt)
+[make](kuryāt) [fallen](patitaṃ) [by-glance](dṛṣṭipātāt) [eva](eva) [ca](ca) [that-moment](tatkṣaṇāt)
 
 ## mukta-m0-p219-v5471
-[Manmatha’s-height](manmatha+utsedham) [prescribed](uddiṣṭaṃ) [he](saḥ) [but](tu) [adorned-with-gold](hema+vibhūṣitaḥ)
+[manmatha-height](manmathotsedha) [described](uddiṣṭaṃ) [he](sa) [tu](tu) [gold](hema) [adorned](vibhūṣitaḥ)
 
 ## mukta-m0-p219-v5472
-[fish-bannered](mīna+ketuḥ) [likewise](tathā) [indeed](eva) [sugarcane-bow-made-equipped](ikṣu+kārmuka+ākṛti+saṃyutaḥ)
+[fish-banner](mīnaketu) [thus](tathā) [sugarcane](ikṣu) [bow](kārmuka) [made](kṛti) [joined](saṃyutaḥ)
 
 ## mukta-m0-p219-v5473
-[Laṃbhinī](laṃbhinī) [Tāpinī](tāpinī) [and](ca) [indeed](eva) [Vedinī](vedinī) [Drāviṇī](drāviṇī) [likewise](tathā)
+[lambhinī](laṃbhinī) [tāpinī](tāpinī) [and](caiva) [vedinī](vedinī) [drāviṇī](drāviṇī) [thus](tathā)
 
 ## mukta-m0-p219-v5474
-[Manmatha](manmathaḥ) [accompanied-by-friend](mitra+yuktaḥ) [or](vā) [without](ayutaḥ) [or](vā) [with-one-arrow](eka+śareṇa) [tu](tu)
+[manmatha](manmathaḥ) [friend-joined](mitrayukta) [or](vā) [ayuta](ayuta) [one](eka) [arrow](śareṇa) [tu](tu)
 
 ## mukta-m0-p219-v5475
-[beginning-with-vāra](vāra+ādyaṃ) [sprout](aṃkuraṃ) [sacrificial-pavilion](yāga+maṇṭapaṃ) [as-before](pūrva+vat) [one-should-depict](nayet)
+[vārādya](vārādyaṃ) [sprout](aṃkuraṃ) [yāga-pavilion](yāgamaṇṭapaṃ) [as-before](pūrvavat) [lead](nayet)
