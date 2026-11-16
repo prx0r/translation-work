@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p17-v401
-[which](yāṃ) [without+even](vinā+api) [of-method+of-this](nayasya+asya) [distinctiveness](vailakṣaṇyaṃ) [not](na) [arises](jāyate)
+[yām](yāṃ) [vinā](vinā) [api](api) [nayasya](nayasya) [asya](asya) [vailakṣaṇyam](vailakṣaṇyaṃ) [na](na) [jāyate](jāyate)
 
 ## mukta-m0-p17-v402
-[in-writing](lipau) [to-cause-to-fall](pātayituṃ) [by-power](śaktyā) [not](na) [properly+speaks](samyak+vadate) [even-a-little](manāk)
+[lipau](lipau) [pātayitum](pātayituṃ) [śaktyā](śaktyā) [na](na) [samyak](samyag) [vadate](vadate) [manāk](manāk)
 
 ## mukta-m0-p17-v403
-[from-direct+experience](pratyakṣa+anubhavāt) [of-this](asyā) [difference+devouring](bheda+grāsaḥ) [indeed](hi) [by-effort](yatnataḥ)
+[pratyakṣa](pratyakṣa) [anubhavāt](anubhavād) [asyāḥ](asyā) [bheda](bheda) [grāsaḥ](grāso) [hi](hi) [yatnataḥ](yatnataḥ)
 
 ## mukta-m0-p17-v404
-[from-unstruck+sound+indication](apaṭa+āṭaṅka+saṅketāt) [from-body+condition](kāya+saṃsthānataḥ) [situated](sthitā)
+[apaṭa](apaṭa) [āṭaṅka](āṭaṅka) [saṅketāt](saṅketāt) [kāya](kāya) [saṃsthānataḥ](saṃsthānataḥ) [sthitā](sthitā)
 
 ## mukta-m0-p17-v405
-[from-skeleton+experience+nature](karaṅka+anubhava+ātmatvāt) [first](prathamaṃ) [with-skeleton](sākaraṃkiṇī)
+[karaṅka](karaṅka) [anubhava](anubhava) [ātmatvāt](ātmatvāt) [prathamam](prathamaṃ) [sākaraṃkiṇī](sākaraṃkiṇī)
 
 ## mukta-m0-p17-v406
-[from-impetuosity](saṃrabhāt) [wrathful+form](krodhinī+rūpam) [she](asau) [having-assumed](āśritya) [abides](vartate)
+[saṃrabhāt](saṃrabhāt) [krodhinī](krodhinī) [rūpam](rūpam) [asau](asau) [āśritya](āśritya) [vartate](vartate)
 
 ## mukta-m0-p17-v407
-[gradually](yathāyathaṃ) [from-sustaining](sambharaṇād) [as-Bhairavī](bhairavī+iti) [is-proclaimed](prakīrtitā)
+[yathāyatham](yathāyathaṃ) [sambharaṇāt](sambharaṇād) [bhairavī](bhairavī) [iti](iti) [prakīrtitā](prakīrtitā)
 
 ## mukta-m0-p17-v408
-[from-great+dissolution+nature](mahā+vilaya+rūpatvāt) [as-Lelihānā](lelihānā+iti) [is-called](kathyate)
+[mahā](mahā) [vilaya](vilaya) [rūpatvāt](rūpatvāt) [lelihānā](lelihānā) [iti](iti) [kathyate](kathyate)
 
 ## mukta-m0-p17-v409
-[from-uncovered+nature](nirāvaraṇa+rūpatvāt) [sky-moving+form](khecarī+rūpam) [having-assumed](āsthitā)
+[nirāvaraṇa](nirāvaraṇa) [rūpatvāt](rūpatvāt) [khecarī](khecarī) [rūpam](rūpam) [āsthitā](āsthitā)
 
 ## mukta-m0-p17-v410
-[having-satisfied](tarpayitvā) [world+entire](jagat+kṛtsnaṃ) [in-own+state](nija+saṃsthānataḥ) [situated](sthitā)
+[tarpayitvā](tarpayitvā) [jagat](jagat) [kṛtsnam](kṛtsnaṃ) [nija](nija) [saṃsthānataḥ](saṃsthānataḥ) [sthitā](sthitā)
 
 ## mukta-m0-p17-v411
-[of-expressor+nature+own-form+within](vācaka+ātma+svarūpa+antar) [superimposed](adhyastaṃ) [in-mantra+form](mantra+rūpataḥ)
+[vācaka](vācaka) [ātma](ātma) [svarūpa](svarūpa) [antara](antara) [adhyastam](adhyastaṃ) [mantra](mantra) [rūpataḥ](rūpataḥ)
 
 ## mukta-m0-p17-v412
-[non-phonemic+speech](avarṇamaya+vāk) [imagined](kalpa) [*](*) [*](*) [by-making-nature](kāratayā) [situated](sthitaḥ)
+[avarṇa](avarṇa) [maya](maya) [vāk](vāk) [kalpa](kalpa) [kāratayā](kāratayā) [sthitaḥ](sthitaḥ)
 
 ## mukta-m0-p17-v413
-[own+nature+stamp+marked+five-seal+consisting-of](nija+svarūpa+ṭaṅka+ānta+pañca+mudrā+ātmakaṃ) [world](jagat)
+[nija](nija) [svarūpa](svarūpa) [ṭaṅka](ṭaṅka) [anta](anta) [pañca](pañca) [mudrā](mudrā) [ātmakam](ātmakaṃ) [jagat](jagat)
 
 ## mukta-m0-p17-v414
-[difference+manifold+cessation](bheda+prapañca+upaśamaḥ) [supreme-cognition+end+point+reaching](parāmarśa+anta+koṭi+gaḥ)
+[bheda](bheda) [prapañca](prapañca) [upaśamaḥ](upaśamaḥ) [parāmarśa](parāmarśa) [anta](anta) [koṭigaḥ](koṭigaḥ)
 
 ## mukta-m0-p17-v415
-[in-effortless+form](nirīha+rūpe) [rest](viśrāntiḥ) [in-supreme+rest+characterized](para+viśrānti+lakṣaṇe)
+[nirīha](nirīha) [rūpe](rūpe) [viśrāntiḥ](viśrāntiḥ) [para](para) [viśrānti](viśrānti) [lakṣaṇe](lakṣaṇe)
 
 ## mukta-m0-p17-v416
-[uncoveredness](nirāvaraṇatā) [because](yasmāt) [situated](sthitā) [there+also](tatra+api) [in-reality](vastutaḥ)
+[nirāvaraṇatā](nirāvaraṇatā) [yasmāt](yasmāt) [sthitā](sthitā) [tatra](tatra) [api](api) [vastutaḥ](vastutaḥ)
 
 ## mukta-m0-p17-v417
-[and+not+also](na+ca+api) [not](na) [in-state](sthitau) [because](yasmāt) [in-cognition+path](pratīti+pathi) [exists](vartate)
+[na](na) [ca](ca) [api](api) [na](na) [sthitau](sthitau) [yasmāt](yasmāt) [pratīti](pratīti) [pathi](pathi) [vartate](vartate)
 
 ## mukta-m0-p17-v418
-[own+awareness+accomplished](sva+saṃvedana+saṃsiddhaṃ) [that+indeed](tadvat+eva) [of-these-two](anayoḥ) [not](na) [what](kim)
+[sva](sva) [saṃvedana](saṃvedana) [saṃsiddham](saṃsiddhaṃ) [tadvat](tadvat) [eva](eva) [anayoḥ](anayoḥ) [na](na) [kim](kim)
 
 ## mukta-m0-p17-v419
-[hair+ball+appearance+equal](keśa+uṇḍuka+ābhāsa+samaṃ) [that](tat) [uncovered](nirāvaraṇaṃ) [again](punaḥ)
+[keśa](keśa) [oṇḍuka](oṇḍuka) [ābhāsa](ābhāsa) [samam](samam) [tat](tat) [nirāvaraṇam](nirāvaraṇaṃ) [punaḥ](punaḥ)
 
 ## mukta-m0-p17-v420
-[supreme-cognition](parāmarśaḥ) [again](punaḥ) [goddess](devī) [supreme+grace+level](para+anugraha+bhūmikā)
+[parāmarśaḥ](parāmarśaḥ) [punar](punar) [devī](devī) [parānugraha](parānugraha) [bhūmikā](bhūmikā)
 
 ## mukta-m0-p17-v421
-[of-these-two](anayoḥ) [equality](samatā) [comes](eti) [of-yogin](yoginaḥ) [towards](prati) [in-reality](vastutaḥ)
+[anayoḥ](anayoḥ) [samatām](samatām) [eti](eti) [yoginaḥ](yoginaḥ) [prati](prati) [vastutaḥ](vastutaḥ)
 
 ## mukta-m0-p17-v422
-[effortless+nature](nirīha+ātmā) [consciousness+alone](saṃvit+eva) [spreads-forth](prathate) [for-non-practitioner](anupayoginaḥ)
+[nirīha](nirīha) [ātmā](ātmā) [saṃvid](saṃvid) [eva](eva) [prathate](prathate) [anupayoginaḥ](anupayoginaḥ)
 
 ## mukta-m0-p17-v423
-[unity](aikadhyam) [by-this](anayā) [manner](bhaṅgyā) [in-each-manifestation](prati+bhāvaṃ) [established](vyavasthitam)
+[aikadhyam](aikadhyam) [anayā](anayā) [bhaṅgyā](bhaṅgyā) [pratibhāvam](pratibhāvaṃ) [vyavasthitam](vyavasthitam)
 
 ## mukta-m0-p17-v424
-[transition](saṃkrāmaḥ) [and](ca) [effortless+nature](nirīha+ātmā) [triad](trayam) [by-oneness+also+this](ekatayā+api+adaḥ)
+[saṃkrāmaḥ](saṃkrāmaḥ) [ca](ca) [nirīha](nirīha) [ātmā](ātmā) [trayam](trayam) [ekatayā](ekatayā) [api](api) [adaḥ](adaḥ)
 
 ## mukta-m0-p17-v425
-[consciousness+state](saṃvit+saṃsthānam) [having-resorted-to](āśritya) [phoneme+nature+unborn](varṇa+ātmā+ajaḥ) [shines-forth](virājate)
+[saṃvit](saṃvit) [saṃsthānam](saṃsthānam) [āśritya](āśrityā) [varṇa](varṇa) [ātmajaḥ](ātmājo) [virājate](virājate)

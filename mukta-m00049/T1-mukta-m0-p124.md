@@ -5,73 +5,73 @@
 [may-be](syātām)
 
 ## mukta-m0-p124-v3077
-[its+price](tanmūlyaṃ) [by-king](nṛpeṇa) [not](na) [to-be-caused-to-give](dāpayitavyam) [thus](iti) [indicated](sūcayāmāsa)
+[that-price](tanmūlyaṃ) [by-king](nṛpeṇa) [not](na) [to-be-paid](dāpayitavyam) [thus](iti) [indicated](sūcayāmāsa)
 
 ## mukta-m0-p124-v3078
-[dhārti](dhārti) [thus](iti) [here](atra) [of-ārdhadhātuka](ārdhadhātukasya) [iṭ](iṭ) [beginning-with-ū](ūlādeḥ) [thus](iti) [not](na) [iṭ-augment](iḍāgamaḥ)
+[dhārti](dhārti) [here](atra) [of-ardhadhātuka](ardhadhātukasya) [of-iḍ-ādi](iḍūlāder) [not](iti) [iḍ-āgama](neḍāgamaḥ)
 
 ## mukta-m0-p124-v3079
-[having-died](mṛte) [father](pitari) [of-all](sarveṣām) [of-sharers](aṃśināṃ) [consent](sammatiṃ) [without](vinā)
+[dead](mṛte) [father](pitari) [of-all](sarveṣām) [of-sharers](aṃśināṃ) [consent](sammatiṃ) [without](vinā)
 
 ## mukta-m0-p124-v3080
-[king](nṛpaḥ) [that](tat) [otherwise](anyathā) [to-do](kartuṃ) [capable](kṣamaḥ) [becomes](bhavati) [O-Pārvatī](pārvati)
+[king](nṛpaḥ) [otherwise](tadanyathā) [to-do](kartuṃ) [able](kṣamaḥ) [becomes](bhavati) [o-parvati](pārvati)
 
 ## mukta-m0-p124-v3081
-[gift](dānaṃ) [likewise](tathaiva) [of-daughter](kanyāyāḥ) [brāhma+marriage](brāhmaḥ+udvāhaḥ) [once](sakṛt) [once](sakṛt)
+[gift](dānaṃ) [so-too](tathaiva) [of-girl](kanyāyāḥ) [brahma-marriage](brāhmohvāhaḥ) [once](sakṛt) [once](sakṛt)
 
 ## mukta-m0-p124-v3082
-[fruit](phalam) [thus](iti) [Amara](amaraḥ)
+[fruit](phalam) [thus](ity) [amara](amaraḥ)
 
 ## mukta-m0-p124-v3083
-[for-fruit](phala+arthaṃ) [not](na) [indeed](eva) [should-employ](yojayet)
+[for-fruit](phalārthaṃ) [not-indeed](naiva) [should-use](yojayet)
 
 ## mukta-m0-p124-v3084
-[its+sale](tat+vikrayaṇam) [otherwise](anyathā) [to-do](kartuṃ) [king](nṛpaḥ) [lord-of-men](nara+adhipaḥ) [capable](kṣamaḥ) [becomes](bhavati)
+[that-sale](tadvikrayaṇam) [otherwise](anyathā) [to-do](kartuṃ) [king](nṛpaḥ) [lord-of-men](narādhipaḥ) [able](kṣamaḥ) [becomes](bhavati)
 
 ## mukta-m0-p124-v3085
-[by-Śaiva+rites](śaiva+vidhibhiḥ) [but](tu) [again+marriage](punaḥ+udvāhaḥ) [occurs](bhavati) [indeed](eva) [thus](iti) [indicated](sūcayām+babhūve)
+[by-shaiva-rites](śaivavidhibhiḥ) [but](tu) [again](punar) [remarriage](udvāhaḥ) [becomes-indeed](bhavatyeva) [thus](iti) [indicated](sūcayāmbabhūve)
 
 ## mukta-m0-p124-v3086
-[not+one-daughter](na+eka+kanyaḥ) [daughter](sutāṃ) [in-Śaiva+marriage](śaiva+udvāhe) [father+benefiting](pitṛ+hitaḥ) [man](pumān)
+[not-one-wife](naikakanyaḥ) [daughter](sutāṃ) [in-shaiva-marriage](śaivodvāhe) [father-benefiting](pitṛhitaḥ) [man](pumān)
 
 ## mukta-m0-p124-v3087
-[what](yat) [should-perform](vidadhyāt) [representative](pratinidhiḥ) [that](tat) [of-the-appointer](niyantuḥ) [act](kṛtiḥ) [would-be](bhavet)
+[what-he-may-do](yadvidadhyāt) [substitute](pratinidhiḥ) [of-regulator](niyantuḥ) [act](kṛtiḥ) [becomes](bhavet)
 
 ## mukta-m0-p124-v3088
-[by-appointer+committed+fault](niyoktṛ+kṛta+doṣeṇa) [rule](vidhiḥ) [this](eṣaḥ) [eternal](sanātanaḥ)
+[of-appointer](niyoktṛ) [of-fault](kṛtadoṣeṇa) [rule](vidhiḥ) [this](eṣa) [eternal](sanātanaḥ)
 
 ## mukta-m0-p124-v3089
-[whatever](yat+yat) [accepted](aṅgīkṛtam) [by-people](lokaiḥ) [that](tat) [to-be-done](kāryam) [dharma+approved](dharma+sammatam)
+[whatever](yadyad) [accepted](aṅgīkṛtaṃ) [by-people](lokaiḥ) [that](tad) [to-be-done](kāryaṃ) [dharma-approved](dharmasammatam)
 
 ## mukta-m0-p124-v3090
-[because](yataḥ) [to-fathers](pitṛbhyaḥ) [beneficial](hitaḥ) [therefore](ataḥ) [not](na) [should-give](dadyāt) [thus](iti) [meaning](arthaḥ)
+[because](yataḥ) [to-ancestors](pitṛbhyaḥ) [beneficial](hitaḥ) [therefore](ataḥ) [not](na) [should-give](dadyāt) [thus-meaning](ityarthaḥ)
 
 ## mukta-m0-p124-v3091
-[rule](vidhiḥ) [injunction](vidhānam)
+[rule](vidhiḥ) [ordinance](vidhānam)
 
 ## mukta-m0-p124-v3092
-[their+protectors](tat+pātṝn) [protects](pāti) [lord-of-all](viśva+īśaḥ) [therefore](tasmāt) [world+beneficial](loka+hitaḥ) [should-be](bhavet)
+[those-fathers](tatpātṝn) [protects](pāti) [all-lord](viśveśaḥ) [therefore](tasmāt) [world-benefiting](lokahitaḥ) [becomes](bhavet)
 
 ## mukta-m0-p124-v3093
-[accepted](svīkṛtam) [in-every-way](sarvathā) [of-people](lokānām) [not-to-be-done](akaraṇīyam) [thus](iti) [indicated](dhvanitam)
+[accepted](svīkṛtaṃ) [in-every-way](sarvathā) [of-people](lokānām) [not-to-be-left-undone](akaraṇīyam) [thus](iti) [implied](dhvanitam)
 
 ## mukta-m0-p124-v3094
-[three-world+people+mother](tribhuvana+jana+mātā) [Pārvatī](pārvatī) [gave](prādat) [with-devotion](bhaktyā)
+[three-world-mother](tribhuvanajanamātā) [parvati](pārvatī) [spoke](prādda) [with-devotion](bhaktyā)
 
 ## mukta-m0-p124-v3095
-[of-subtle+most-subtle+being](sūkṣma+atisūkṣma+bhūtāyāḥ) [how](katham) [form+determination](rūpa+nirūpaṇam)
+[of-subtle-most-subtle-being](sūkṣmātisūkṣmabhūtāyāḥ) [how](kathaṃ) [form-determination](rūpanirūpaṇam)
 
 ## mukta-m0-p124-v3096
-[this](etat) [to-me](me) [doubt](saṃśayam) [O-god](deva) [especially](viśeṣāt) [to-remove](chettum) [you-should](arhasi)
+[this](etat) [my](me) [doubt](saṃśayaṃ) [o-god](deva) [especially](viśeṣāt) [to-cut](chettum) [you-should](arhasi)
 
 ## mukta-m0-p124-v3097
-[firm+minded](dṛḍha+mānasā)
+[firm-minded](dṛḍhamānasā)
 
 ## mukta-m0-p124-v3098
-[she](sā) [Mahākālī](mahākālī) [this](etat) [this](etam)
+[she](sā) [great-kali](mahākālī) [this](etat) [this](etam)
 
 ## mukta-m0-p124-v3099
-[according-to-quality+action](guṇa+kriyā+anusāreṇa) [form](rūpam) [of-goddess](devyāḥ) [fashioned](prakalpitam)
+[according-to-qualities-actions](guṇakriyānusāreṇa) [form](rūpaṃ) [of-goddess](devyāḥ) [is-fashioned](prakalpitam)
 
 ## mukta-m0-p124-v3100
-[enter](praviśanti) [likewise](tathā) [into-Kālī](kālyām) [all+beings](sarva+bhūtāni) [O-daughter-of-mountain](śailaje)
+[enter](praviśanti) [so](tathā) [into-kali](kālyāṃ) [all-beings](sarvabhūtāni) [o-daughter-of-mountain](śailaje)

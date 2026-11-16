@@ -8,19 +8,19 @@
 "tokens": [
 {
 "surface": "mantreṇa",
-"quick_gloss": "with-mantra"
+"quick_gloss": "by-mantra"
 },
 {
 "surface": "devāya",
-"quick_gloss": "to-god"
+"quick_gloss": "to-deity"
 },
 {
 "surface": "vastre",
-"quick_gloss": "two-garments"
+"quick_gloss": "cloth"
 },
 {
 "surface": "dadyāt",
-"quick_gloss": "one-should-give"
+"quick_gloss": "should-give"
 }
 ]
 },
@@ -32,24 +32,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "mantram",
-"quick_gloss": "mantra"
-},
-{
-"surface": "āha",
-"quick_gloss": "says"
+"surface": "mantramāha",
+"quick_gloss": "mantra-says"
 },
 {
 "surface": "viśvābharaṇa",
-"quick_gloss": "O-all-adorned"
+"quick_gloss": "world-ornament"
 },
 {
-"surface": "bhūtāya",
+"surface": "bhūtāyeti",
 "quick_gloss": "to-being"
-},
-{
-"surface": "iti",
-"quick_gloss": "thus"
 }
 ]
 },
@@ -62,11 +54,11 @@
 "tokens": [
 {
 "surface": "tasmai",
-"quick_gloss": "to-that"
+"quick_gloss": "to-him"
 },
 {
-"surface": "para+ātmane",
-"quick_gloss": "supreme+self"
+"surface": "parātmane",
+"quick_gloss": "supreme-self"
 },
 {
 "surface": "tubhyaṃ",
@@ -77,12 +69,8 @@
 "quick_gloss": "supreme"
 },
 {
-"surface": "gandham",
+"surface": "gandhamarpaye",
 "quick_gloss": "fragrance"
-},
-{
-"surface": "arpaye",
-"quick_gloss": "I-offer"
 }
 ]
 },
@@ -106,16 +94,12 @@
 "quick_gloss": "with-devotion"
 },
 {
-"surface": "puṣpam",
-"quick_gloss": "flower"
-},
-{
-"surface": "etat",
-"quick_gloss": "this"
+"surface": "puṣpametat",
+"quick_gloss": "flower-this"
 },
 {
 "surface": "pragṛhyatām",
-"quick_gloss": "may-be-accepted"
+"quick_gloss": "be-accepted"
 }
 ]
 },
@@ -128,14 +112,14 @@
 "tokens": [
 {
 "surface": "āghreyaḥ",
-"quick_gloss": "to-be-smelled"
+"quick_gloss": "worthy-of-smelling"
 },
 {
-"surface": "sarva+bhūtānāṃ",
-"quick_gloss": "of-all+beings"
+"surface": "sarvabhūtānāṃ",
+"quick_gloss": "of-all-beings"
 },
 {
-"surface": "dhūpaḥ",
+"surface": "dhūpo",
 "quick_gloss": "incense"
 },
 {
@@ -143,12 +127,8 @@
 "quick_gloss": "for-nose"
 },
 {
-"surface": "te",
-"quick_gloss": "to-you"
-},
-{
-"surface": "arpyate",
-"quick_gloss": "is-offered"
+"surface": "te'rpyate",
+"quick_gloss": "to-you-offered"
 }
 ]
 },
@@ -160,20 +140,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "sa+bāhya+abhyantara+jyotiḥ",
-"quick_gloss": "with-external+internal+light"
-},
-{
-"surface": "dīpaḥ",
-"quick_gloss": "lamp"
-},
-{
-"surface": "ayaṃ",
-"quick_gloss": "this"
+"surface": "sabāhyābhyantarajyotirdīpo'yaṃ",
+"quick_gloss": "with-external-internal-light"
 },
 {
 "surface": "pratigṛhyatām",
-"quick_gloss": "may-be-accepted"
+"quick_gloss": "be-accepted"
 }
 ]
 },
@@ -189,20 +161,16 @@
 "quick_gloss": "I-offer"
 },
 {
-"surface": "bhaktyā",
-"quick_gloss": "with-devotion"
-},
-{
-"surface": "idam",
-"quick_gloss": "this"
+"surface": "bhaktyedaṃ",
+"quick_gloss": "with-devotion-this"
 },
 {
 "surface": "juṣāṇa",
-"quick_gloss": "enjoy"
+"quick_gloss": "accept"
 },
 {
-"surface": "parama+īśvara",
-"quick_gloss": "O-supreme+lord"
+"surface": "parameśvara",
+"quick_gloss": "supreme-lord"
 }
 ]
 },
@@ -214,28 +182,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "sarva+tṛpti+karaṃ",
-"quick_gloss": "all+satisfaction+making"
+"surface": "sarvatṛptikaraṃ",
+"quick_gloss": "all-satisfaction-causing"
 },
 {
-"surface": "svaccham",
+"surface": "svacchamarpayāmi",
 "quick_gloss": "pure"
 },
 {
-"surface": "arpayāmi",
-"quick_gloss": "I-offer"
-},
-{
-"surface": "namaḥ",
-"quick_gloss": "obeisance"
-},
-{
-"surface": "astu",
-"quick_gloss": "be"
-},
-{
-"surface": "te",
-"quick_gloss": "to-you"
+"surface": "namo'stu te",
+"quick_gloss": "salutation-be-to-you"
 }
 ]
 },
@@ -251,24 +207,16 @@
 "quick_gloss": "betel"
 },
 {
-"surface": "punaḥ",
-"quick_gloss": "again"
-},
-{
-"surface": "ācamyaṃ",
-"quick_gloss": "sipping-water"
+"surface": "punarācamyaṃ",
+"quick_gloss": "again-acamana"
 },
 {
 "surface": "dattvā",
 "quick_gloss": "having-given"
 },
 {
-"surface": "vandanam",
-"quick_gloss": "salutation"
-},
-{
-"surface": "ācaret",
-"quick_gloss": "one-should-perform"
+"surface": "vandanamācaret",
+"quick_gloss": "salutation-should-do"
 }
 ]
 },
@@ -285,7 +233,7 @@
 },
 {
 "surface": "dadyāt",
-"quick_gloss": "one-should-give"
+"quick_gloss": "should-give"
 }
 ]
 },
@@ -297,16 +245,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "puṣpam+ityādinā",
-"quick_gloss": "with-puṣpam+etc"
+"surface": "puṣpamityādinā",
+"quick_gloss": "flower-etc"
 },
 {
 "surface": "mantreṇa",
-"quick_gloss": "mantra"
+"quick_gloss": "by-mantra"
 },
 {
 "surface": "devāya",
-"quick_gloss": "to-god"
+"quick_gloss": "to-deity"
 },
 {
 "surface": "puṣpaṃ",
@@ -314,7 +262,7 @@
 },
 {
 "surface": "dadyāt",
-"quick_gloss": "one-should-give"
+"quick_gloss": "should-give"
 }
 ]
 },
@@ -327,11 +275,11 @@
 "tokens": [
 {
 "surface": "mantreṇa",
-"quick_gloss": "with-mantra"
+"quick_gloss": "by-mantra"
 },
 {
 "surface": "devāya",
-"quick_gloss": "to-god"
+"quick_gloss": "to-deity"
 },
 {
 "surface": "dhūpaṃ",
@@ -339,7 +287,7 @@
 },
 {
 "surface": "dadyāt",
-"quick_gloss": "one-should-give"
+"quick_gloss": "should-give"
 }
 ]
 },
@@ -351,12 +299,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "suprakāśa+ityādi+mantreṇa",
-"quick_gloss": "with-suprakāśa+etc+mantra"
+"surface": "suprakāśa ityādimantreṇa",
+"quick_gloss": "well-shining-etc"
 },
 {
 "surface": "devāya",
-"quick_gloss": "to-god"
+"quick_gloss": "to-deity"
 },
 {
 "surface": "dīpaṃ",
@@ -364,7 +312,7 @@
 },
 {
 "surface": "dadyāt",
-"quick_gloss": "one-should-give"
+"quick_gloss": "should-give"
 }
 ]
 },
@@ -376,20 +324,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "naivedyam+ityādinā",
-"quick_gloss": "with-naivedyam+etc"
+"surface": "naivedyamityādinā",
+"quick_gloss": "naivedya-etc"
 },
 {
 "surface": "devāya",
-"quick_gloss": "to-god"
+"quick_gloss": "to-deity"
 },
 {
 "surface": "naivedyaṃ",
-"quick_gloss": "food-offering"
+"quick_gloss": "naivedya"
 },
 {
 "surface": "dadyāt",
-"quick_gloss": "one-should-give"
+"quick_gloss": "should-give"
 }
 ]
 },
@@ -401,28 +349,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "dadyāt",
-"quick_gloss": "one-should-give"
+"surface": "dadyādvā",
+"quick_gloss": "should-give-or"
 },
 {
-"surface": "vā",
-"quick_gloss": "or"
+"surface": "pṛthagādhāraṃ",
+"quick_gloss": "separate-vessel"
 },
 {
-"surface": "pṛthak",
-"quick_gloss": "separately"
-},
-{
-"surface": "ādhāraṃ",
-"quick_gloss": "base"
-},
-{
-"surface": "tat+tat+nāma",
-"quick_gloss": "that+that+name"
+"surface": "tattannāma",
+"quick_gloss": "each-name"
 },
 {
 "surface": "samuccaran",
-"quick_gloss": "uttering"
+"quick_gloss": "reciting"
 }
 ]
 },
@@ -434,8 +374,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "sa+ācchādanaṃ",
-"quick_gloss": "with-cover"
+"surface": "sācchādanaṃ",
+"quick_gloss": "covered"
 },
 {
 "surface": "gṛhaṃ",
@@ -446,15 +386,11 @@
 "quick_gloss": "having-sprinkled"
 },
 {
-"surface": "paṭhet",
-"quick_gloss": "one-should-recite"
+"surface": "paṭhedenaṃ",
+"quick_gloss": "should-recite-this"
 },
 {
-"surface": "enaṃ",
-"quick_gloss": "this"
-},
-{
-"surface": "kṛta+añjaliḥ",
+"surface": "kṛtāñjaliḥ",
 "quick_gloss": "with-folded-hands"
 }
 ]
@@ -467,12 +403,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "devatā+sthiti+dāneṣu",
-"quick_gloss": "in-deity+abode+givings"
+"surface": "devatāsthitidāneṣu",
+"quick_gloss": "in-deity-installation-gifts"
 },
 {
-"surface": "sumeru+sadṛśaḥ",
-"quick_gloss": "like-Mount-Meru"
+"surface": "sumerusadṛśo",
+"quick_gloss": "like-sumeru"
 },
 {
 "surface": "bhava",
@@ -489,31 +425,27 @@
 "tokens": [
 {
 "surface": "yat",
-"quick_gloss": "because"
+"quick_gloss": "that"
 },
 {
 "surface": "tvayā",
 "quick_gloss": "by-you"
 },
 {
-"surface": "vidhṛtaḥ",
-"quick_gloss": "supported"
+"surface": "vidhṛto",
+"quick_gloss": "held"
 },
 {
-"surface": "devaḥ",
-"quick_gloss": "god"
-},
-{
-"surface": "tasmāt",
-"quick_gloss": "therefore"
+"surface": "devastasmāt",
+"quick_gloss": "deity"
 },
 {
 "surface": "tvaṃ",
 "quick_gloss": "you"
 },
 {
-"surface": "sura+vanditaḥ",
-"quick_gloss": "by-gods+honored"
+"surface": "suravanditaḥ",
+"quick_gloss": "god-worshipped"
 }
 ]
 },
@@ -525,20 +457,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "māyā+vidhṛta+dehasya",
-"quick_gloss": "of-māyā+supported+body"
+"surface": "māyavidhṛtadehasya",
+"quick_gloss": "of-maya-held-body"
 },
 {
 "surface": "tasya",
 "quick_gloss": "of-that"
 },
 {
-"surface": "mūrteḥ",
-"quick_gloss": "of-form"
-},
-{
-"surface": "vidhāraṇāt",
-"quick_gloss": "by-supporting"
+"surface": "mūrtervidhāraṇāt",
+"quick_gloss": "image"
 }
 ]
 },
@@ -550,8 +478,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "sarva+kāma+pradaḥ",
-"quick_gloss": "all+desire+granting"
+"surface": "sarvakāmaprado",
+"quick_gloss": "all-desires-giving"
 },
 {
 "surface": "bhūtvā",
@@ -567,15 +495,11 @@
 },
 {
 "surface": "kuru",
-"quick_gloss": "make"
+"quick_gloss": "do"
 },
 {
-"surface": "te",
-"quick_gloss": "to-you"
-},
-{
-"surface": "namaḥ",
-"quick_gloss": "obeisance"
+"surface": "te namaḥ",
+"quick_gloss": "salutation-to-you"
 }
 ]
 },
@@ -587,24 +511,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "ātmanaḥ",
-"quick_gloss": "of-self"
+"surface": "ātmanaḥ kāmamuddiśya",
+"quick_gloss": "for-self-desire"
 },
 {
-"surface": "kāmam",
-"quick_gloss": "desire"
-},
-{
-"surface": "uddiśya",
-"quick_gloss": "having-intended"
-},
-{
-"surface": "dadyāt",
-"quick_gloss": "should-give"
-},
-{
-"surface": "devāya",
-"quick_gloss": "to-god"
+"surface": "dadyāddevāya",
+"quick_gloss": "should-give-to-deity"
 },
 {
 "surface": "sādhakaḥ",
@@ -625,27 +537,19 @@
 },
 {
 "surface": "kaṃ",
-"quick_gloss": "which"
+"quick_gloss": "whom"
 },
 {
-"surface": "paṭhet",
-"quick_gloss": "one-should-recite"
+"surface": "paṭedityākāṅkṣāyāmāha",
+"quick_gloss": "should-recite"
 },
 {
-"surface": "iti",
-"quick_gloss": "thus"
+"surface": "geha",
+"quick_gloss": "house"
 },
 {
-"surface": "ākāṅkṣāyām",
-"quick_gloss": "in-expectation-of-inquiry"
-},
-{
-"surface": "āha",
-"quick_gloss": "says"
-},
-{
-"surface": "geha+tvam+ityādi",
-"quick_gloss": "geha+tvam+etc"
+"surface": "tvamityādi",
+"quick_gloss": "you"
 }
 ]
 },
@@ -662,7 +566,7 @@
 },
 {
 "surface": "udare",
-"quick_gloss": "in-abdomen"
+"quick_gloss": "in-stomach"
 }
 ]
 },
@@ -675,7 +579,7 @@
 "tokens": [
 {
 "surface": "dadyāt",
-"quick_gloss": "one-should-give"
+"quick_gloss": "should-give"
 }
 ]
 },
@@ -691,12 +595,12 @@
 "quick_gloss": "accept"
 },
 {
-"surface": "mahā+īśāna",
-"quick_gloss": "O-great+lord"
+"surface": "maheśāna",
+"quick_gloss": "great-lord"
 },
 {
 "surface": "kṛpayā",
-"quick_gloss": "by-compassion"
+"quick_gloss": "by-grace"
 },
 {
 "surface": "sannidhīyatām",

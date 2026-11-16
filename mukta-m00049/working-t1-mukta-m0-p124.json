@@ -21,7 +21,7 @@
 "tokens": [
 {
 "surface": "tanmūlyaṃ",
-"quick_gloss": "its+price"
+"quick_gloss": "that-price"
 },
 {
 "surface": "nṛpeṇa",
@@ -33,7 +33,7 @@
 },
 {
 "surface": "dāpayitavyam",
-"quick_gloss": "to-be-caused-to-give"
+"quick_gloss": "to-be-paid"
 },
 {
 "surface": "iti",
@@ -57,36 +57,24 @@
 "quick_gloss": "dhārti"
 },
 {
-"surface": "iti",
-"quick_gloss": "thus"
-},
-{
 "surface": "atra",
 "quick_gloss": "here"
 },
 {
-"surface": "ārdhadhātukasya",
-"quick_gloss": "of-ārdhadhātuka"
+"surface": "ardhadhātukasya",
+"quick_gloss": "of-ardhadhātuka"
 },
 {
-"surface": "iṭ",
-"quick_gloss": "iṭ"
-},
-{
-"surface": "ūlādeḥ",
-"quick_gloss": "beginning-with-ū"
+"surface": "iḍūlāder",
+"quick_gloss": "of-iḍ-ādi"
 },
 {
 "surface": "iti",
-"quick_gloss": "thus"
-},
-{
-"surface": "na",
 "quick_gloss": "not"
 },
 {
-"surface": "iḍāgamaḥ",
-"quick_gloss": "iṭ-augment"
+"surface": "neḍāgamaḥ",
+"quick_gloss": "iḍ-āgama"
 }
 ]
 },
@@ -99,7 +87,7 @@
 "tokens": [
 {
 "surface": "mṛte",
-"quick_gloss": "having-died"
+"quick_gloss": "dead"
 },
 {
 "surface": "pitari",
@@ -135,11 +123,7 @@
 "quick_gloss": "king"
 },
 {
-"surface": "tat",
-"quick_gloss": "that"
-},
-{
-"surface": "anyathā",
+"surface": "tadanyathā",
 "quick_gloss": "otherwise"
 },
 {
@@ -148,7 +132,7 @@
 },
 {
 "surface": "kṣamaḥ",
-"quick_gloss": "capable"
+"quick_gloss": "able"
 },
 {
 "surface": "bhavati",
@@ -156,7 +140,7 @@
 },
 {
 "surface": "pārvati",
-"quick_gloss": "O-Pārvatī"
+"quick_gloss": "o-parvati"
 }
 ]
 },
@@ -173,15 +157,15 @@
 },
 {
 "surface": "tathaiva",
-"quick_gloss": "likewise"
+"quick_gloss": "so-too"
 },
 {
 "surface": "kanyāyāḥ",
-"quick_gloss": "of-daughter"
+"quick_gloss": "of-girl"
 },
 {
-"surface": "brāhmaḥ+udvāhaḥ",
-"quick_gloss": "brāhma+marriage"
+"surface": "brāhmohvāhaḥ",
+"quick_gloss": "brahma-marriage"
 },
 {
 "surface": "sakṛt",
@@ -205,12 +189,12 @@
 "quick_gloss": "fruit"
 },
 {
-"surface": "iti",
+"surface": "ity",
 "quick_gloss": "thus"
 },
 {
 "surface": "amaraḥ",
-"quick_gloss": "Amara"
+"quick_gloss": "amara"
 }
 ]
 },
@@ -222,20 +206,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "phala+arthaṃ",
+"surface": "phalārthaṃ",
 "quick_gloss": "for-fruit"
 },
 {
-"surface": "na",
-"quick_gloss": "not"
-},
-{
-"surface": "eva",
-"quick_gloss": "indeed"
+"surface": "naiva",
+"quick_gloss": "not-indeed"
 },
 {
 "surface": "yojayet",
-"quick_gloss": "should-employ"
+"quick_gloss": "should-use"
 }
 ]
 },
@@ -247,8 +227,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "tat+vikrayaṇam",
-"quick_gloss": "its+sale"
+"surface": "tadvikrayaṇam",
+"quick_gloss": "that-sale"
 },
 {
 "surface": "anyathā",
@@ -263,12 +243,12 @@
 "quick_gloss": "king"
 },
 {
-"surface": "nara+adhipaḥ",
+"surface": "narādhipaḥ",
 "quick_gloss": "lord-of-men"
 },
 {
 "surface": "kṣamaḥ",
-"quick_gloss": "capable"
+"quick_gloss": "able"
 },
 {
 "surface": "bhavati",
@@ -284,31 +264,31 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "śaiva+vidhibhiḥ",
-"quick_gloss": "by-Śaiva+rites"
+"surface": "śaivavidhibhiḥ",
+"quick_gloss": "by-shaiva-rites"
 },
 {
 "surface": "tu",
 "quick_gloss": "but"
 },
 {
-"surface": "punaḥ+udvāhaḥ",
-"quick_gloss": "again+marriage"
+"surface": "punar",
+"quick_gloss": "again"
 },
 {
-"surface": "bhavati",
-"quick_gloss": "occurs"
+"surface": "udvāhaḥ",
+"quick_gloss": "remarriage"
 },
 {
-"surface": "eva",
-"quick_gloss": "indeed"
+"surface": "bhavatyeva",
+"quick_gloss": "becomes-indeed"
 },
 {
 "surface": "iti",
 "quick_gloss": "thus"
 },
 {
-"surface": "sūcayām+babhūve",
+"surface": "sūcayāmbabhūve",
 "quick_gloss": "indicated"
 }
 ]
@@ -321,20 +301,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "na+eka+kanyaḥ",
-"quick_gloss": "not+one-daughter"
+"surface": "naikakanyaḥ",
+"quick_gloss": "not-one-wife"
 },
 {
 "surface": "sutāṃ",
 "quick_gloss": "daughter"
 },
 {
-"surface": "śaiva+udvāhe",
-"quick_gloss": "in-Śaiva+marriage"
+"surface": "śaivodvāhe",
+"quick_gloss": "in-shaiva-marriage"
 },
 {
-"surface": "pitṛ+hitaḥ",
-"quick_gloss": "father+benefiting"
+"surface": "pitṛhitaḥ",
+"quick_gloss": "father-benefiting"
 },
 {
 "surface": "pumān",
@@ -350,24 +330,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "yat",
-"quick_gloss": "what"
-},
-{
-"surface": "vidadhyāt",
-"quick_gloss": "should-perform"
+"surface": "yadvidadhyāt",
+"quick_gloss": "what-he-may-do"
 },
 {
 "surface": "pratinidhiḥ",
-"quick_gloss": "representative"
-},
-{
-"surface": "tat",
-"quick_gloss": "that"
+"quick_gloss": "substitute"
 },
 {
 "surface": "niyantuḥ",
-"quick_gloss": "of-the-appointer"
+"quick_gloss": "of-regulator"
 },
 {
 "surface": "kṛtiḥ",
@@ -375,7 +347,7 @@
 },
 {
 "surface": "bhavet",
-"quick_gloss": "would-be"
+"quick_gloss": "becomes"
 }
 ]
 },
@@ -387,15 +359,19 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "niyoktṛ+kṛta+doṣeṇa",
-"quick_gloss": "by-appointer+committed+fault"
+"surface": "niyoktṛ",
+"quick_gloss": "of-appointer"
+},
+{
+"surface": "kṛtadoṣeṇa",
+"quick_gloss": "of-fault"
 },
 {
 "surface": "vidhiḥ",
 "quick_gloss": "rule"
 },
 {
-"surface": "eṣaḥ",
+"surface": "eṣa",
 "quick_gloss": "this"
 },
 {
@@ -412,11 +388,11 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "yat+yat",
+"surface": "yadyad",
 "quick_gloss": "whatever"
 },
 {
-"surface": "aṅgīkṛtam",
+"surface": "aṅgīkṛtaṃ",
 "quick_gloss": "accepted"
 },
 {
@@ -424,16 +400,16 @@
 "quick_gloss": "by-people"
 },
 {
-"surface": "tat",
+"surface": "tad",
 "quick_gloss": "that"
 },
 {
-"surface": "kāryam",
+"surface": "kāryaṃ",
 "quick_gloss": "to-be-done"
 },
 {
-"surface": "dharma+sammatam",
-"quick_gloss": "dharma+approved"
+"surface": "dharmasammatam",
+"quick_gloss": "dharma-approved"
 }
 ]
 },
@@ -450,7 +426,7 @@
 },
 {
 "surface": "pitṛbhyaḥ",
-"quick_gloss": "to-fathers"
+"quick_gloss": "to-ancestors"
 },
 {
 "surface": "hitaḥ",
@@ -469,12 +445,8 @@
 "quick_gloss": "should-give"
 },
 {
-"surface": "iti",
-"quick_gloss": "thus"
-},
-{
-"surface": "arthaḥ",
-"quick_gloss": "meaning"
+"surface": "ityarthaḥ",
+"quick_gloss": "thus-meaning"
 }
 ]
 },
@@ -491,7 +463,7 @@
 },
 {
 "surface": "vidhānam",
-"quick_gloss": "injunction"
+"quick_gloss": "ordinance"
 }
 ]
 },
@@ -503,28 +475,28 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "tat+pātṝn",
-"quick_gloss": "their+protectors"
+"surface": "tatpātṝn",
+"quick_gloss": "those-fathers"
 },
 {
 "surface": "pāti",
 "quick_gloss": "protects"
 },
 {
-"surface": "viśva+īśaḥ",
-"quick_gloss": "lord-of-all"
+"surface": "viśveśaḥ",
+"quick_gloss": "all-lord"
 },
 {
 "surface": "tasmāt",
 "quick_gloss": "therefore"
 },
 {
-"surface": "loka+hitaḥ",
-"quick_gloss": "world+beneficial"
+"surface": "lokahitaḥ",
+"quick_gloss": "world-benefiting"
 },
 {
 "surface": "bhavet",
-"quick_gloss": "should-be"
+"quick_gloss": "becomes"
 }
 ]
 },
@@ -536,7 +508,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "svīkṛtam",
+"surface": "svīkṛtaṃ",
 "quick_gloss": "accepted"
 },
 {
@@ -549,7 +521,7 @@
 },
 {
 "surface": "akaraṇīyam",
-"quick_gloss": "not-to-be-done"
+"quick_gloss": "not-to-be-left-undone"
 },
 {
 "surface": "iti",
@@ -557,7 +529,7 @@
 },
 {
 "surface": "dhvanitam",
-"quick_gloss": "indicated"
+"quick_gloss": "implied"
 }
 ]
 },
@@ -569,16 +541,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "tribhuvana+jana+mātā",
-"quick_gloss": "three-world+people+mother"
+"surface": "tribhuvanajanamātā",
+"quick_gloss": "three-world-mother"
 },
 {
 "surface": "pārvatī",
-"quick_gloss": "Pārvatī"
+"quick_gloss": "parvati"
 },
 {
-"surface": "prādat",
-"quick_gloss": "gave"
+"surface": "prādda",
+"quick_gloss": "spoke"
 },
 {
 "surface": "bhaktyā",
@@ -594,16 +566,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "sūkṣma+atisūkṣma+bhūtāyāḥ",
-"quick_gloss": "of-subtle+most-subtle+being"
+"surface": "sūkṣmātisūkṣmabhūtāyāḥ",
+"quick_gloss": "of-subtle-most-subtle-being"
 },
 {
-"surface": "katham",
+"surface": "kathaṃ",
 "quick_gloss": "how"
 },
 {
-"surface": "rūpa+nirūpaṇam",
-"quick_gloss": "form+determination"
+"surface": "rūpanirūpaṇam",
+"quick_gloss": "form-determination"
 }
 ]
 },
@@ -620,15 +592,15 @@
 },
 {
 "surface": "me",
-"quick_gloss": "to-me"
+"quick_gloss": "my"
 },
 {
-"surface": "saṃśayam",
+"surface": "saṃśayaṃ",
 "quick_gloss": "doubt"
 },
 {
 "surface": "deva",
-"quick_gloss": "O-god"
+"quick_gloss": "o-god"
 },
 {
 "surface": "viśeṣāt",
@@ -636,7 +608,7 @@
 },
 {
 "surface": "chettum",
-"quick_gloss": "to-remove"
+"quick_gloss": "to-cut"
 },
 {
 "surface": "arhasi",
@@ -652,8 +624,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "dṛḍha+mānasā",
-"quick_gloss": "firm+minded"
+"surface": "dṛḍhamānasā",
+"quick_gloss": "firm-minded"
 }
 ]
 },
@@ -670,7 +642,7 @@
 },
 {
 "surface": "mahākālī",
-"quick_gloss": "Mahākālī"
+"quick_gloss": "great-kali"
 },
 {
 "surface": "etat",
@@ -690,11 +662,11 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "guṇa+kriyā+anusāreṇa",
-"quick_gloss": "according-to-quality+action"
+"surface": "guṇakriyānusāreṇa",
+"quick_gloss": "according-to-qualities-actions"
 },
 {
-"surface": "rūpam",
+"surface": "rūpaṃ",
 "quick_gloss": "form"
 },
 {
@@ -703,7 +675,7 @@
 },
 {
 "surface": "prakalpitam",
-"quick_gloss": "fashioned"
+"quick_gloss": "is-fashioned"
 }
 ]
 },
@@ -720,19 +692,19 @@
 },
 {
 "surface": "tathā",
-"quick_gloss": "likewise"
+"quick_gloss": "so"
 },
 {
-"surface": "kālyām",
-"quick_gloss": "into-Kālī"
+"surface": "kālyāṃ",
+"quick_gloss": "into-kali"
 },
 {
-"surface": "sarva+bhūtāni",
-"quick_gloss": "all+beings"
+"surface": "sarvabhūtāni",
+"quick_gloss": "all-beings"
 },
 {
 "surface": "śailaje",
-"quick_gloss": "O-daughter-of-mountain"
+"quick_gloss": "o-daughter-of-mountain"
 }
 ]
 }

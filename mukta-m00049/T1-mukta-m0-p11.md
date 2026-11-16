@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p11-v251
-[by-letter-a](akāreṇa) [world-protector](jagat+pātā) [destroyer](saṃhartā) [will-be](syāt) [by-letter-u](ukārataḥ)
+[by-a](akāreṇa) [world-protector](jagatpātā) [destroyer](saṃhartā) [becomes+from-u](syādukārataḥ)
 
 ## mukta-m0-p11-v252
-[by-word-sat](sat+śabdena) [always](sadā) [abiding](sthāyi) [consciousness-awareness](cit+caitanyaṃ) [is-proclaimed](prakīrtitam)
+[sacred-word](sacchabdena) [always](sadā) [abiding](sthāyi) [consciousness](ciccaitanyaṃ) [proclaimed](prakīrtitam)
 
 ## mukta-m0-p11-v253
-[mantra-meaning](mantra+arthaḥ) [declared](kathito) [O-goddess](devi) [practitioner-desired-accomplishment-giving](sādhaka+abhīṣṭa+siddhi+daḥ)
+[mantra-meaning](mantrārthaḥ) [told](kathito) [goddess](devi) [accomplishing-desired](sādhakābhīṣṭasiddhidaḥ)
 
 ## mukta-m0-p11-v254
-[verse-29](||) [29](29) [||](||) [he](sa) [indeed](tu) [established-in-brahman](brahma+niṣṭhaḥ) [indeed](tu)
+[verse-29](|| 29 ||) [he](sa) [but](tu) [brahma-devoted](brahmaniṣṭhaḥ) [indeed](tu)
 
 ## mukta-m0-p11-v255
-[firstly](prathamataḥ) [praṇava-meaning](praṇava+arthaṃ) [explains](nirūpayati) [by-akāreṇa-etc](akāreṇa+ityādinā) [verse-31](||) [31](31)
+[first](prathamataḥ) [praṇava-meaning](praṇavārthaṃ) [explains](nirūpayati) [by-a-etc](akāreṇetyādinā) [31](|| 31)
 
 ## mukta-m0-p11-v256
-[now](atha) [sat-cit-etc-word-meaning](sat+cit+ādi+pada+artham) [states](āha) [by-sacchabdena-etc](sat+śabdena+ityādinā) [verse-33](||) [33](33)
+[then](atha) [sac-cit-etc-meaning](saccidādipadārtham) [says](āha) [by-sac-word-etc](sacchabdenetyādinā) [33](|| 33)
 
 ## mukta-m0-p11-v257
-[that-knowledge](tat+jñānaṃ) [O-supreme-goddess](parama+īśāni) [of-devotees](bhaktānāṃ) [accomplishment-giving](siddhi+dāyakam)
+[that-knowledge](tajjñānaṃ) [supreme-goddess](parameśāni) [of-devotees](bhaktānāṃ) [giving-success](siddhidāyakam)
 
 ## mukta-m0-p11-v258
-[inconceivable](avitarkyaṃ) [fearless](nirātaṅkaṃ) [beyond-speech](vācā+atītaṃ) [stainless](nirañjanam)
+[unthinkable](avitarkyaṃ) [fearless](nirātaṅkaṃ) [beyond-speech](vācātītaṃ) [stainless](nirañjanam)
 
 ## mukta-m0-p11-v259
-[is-given](dīyate) [manifold](vividhā) [knowledge](vidyā) [illusion](māyā) [prosperity](śrīḥ) [facing-all-directions](sarvataḥ+mukhī)
+[given](dīyate) [various](vividhā) [knowledge](vidyā) [māyā](māyā) [śrī](śrīḥ) [all-facing](sarvatomukhī)
 
 ## mukta-m0-p11-v260
-[by-pair-and-pair-sequence](yugma+yugma+krameṇa) [also](api) [mantra](mantraḥ) [this](ayaṃ) [manifold](vividhaḥ) [may-be](bhavet)
+[by-pair-pair-order-even](yugmayugmakrameṇā'pi) [this-mantra](mantro'yaṃ) [various](vividho) [becomes](bhavet)
 
 ## mukta-m0-p11-v261
-[of-devotees](bhaktānāṃ) [accomplishment-giving](siddhi+dāyakaṃ) [may-be](bhavet)
+[of-devotees](bhaktānāṃ) [success-giving](siddhidāyakaṃ) [becomes](bhavet)
 
 ## mukta-m0-p11-v262
-[of-mantra](mantrasya) [presiding-deity](adhiṣṭhātṛ) [may-be](bhavet)
+[of-mantra](mantrasya) [presiding-deity](adhiṣṭhātṛ) [becomes](bhavet)
 
 ## mukta-m0-p11-v263
-[sat-cit-one-brahman](sat+cit+ekaṃ) [brahma](brahma) [by-this-statement](iti+anena) [but](tu) [śrī-thus](śrī+iti)
+[sac-cit-one](saccidekaṃ) [brahma](brahma) [thus](iti) [by-this](anena) [but](tu) [śrī](śrīḥ) [thus](iti)
 
 ## mukta-m0-p11-v264
-[deity](devatā) [supreme](paramaṃ) [brahman](brahma) [inner-controller-of-all](sarva+antaryāmi) [without-qualities](nirguṇam)
+[deity](devatā) [supreme](paramaṃ) [brahma](brahma) [all-inner-controller](sarvāntaryāmi) [qualityless](nirguṇam)
 
 ## mukta-m0-p11-v265
-[limb-nyāsa-and-hand-nyāsa](aṅga+nyāsa+kara+nyāsau) [I-tell](kathayāmi) [listen](śṛṇu) [O-beloved](priye)
+[anga-nyasa-kara-nyasa](aṅganyāsakaranyāsau) [I-tell](kathayāmi) [listen](śṛṇu) [dear](priye)
 
 ## mukta-m0-p11-v266
-[on-thumb-index-middle-ring-fingers](aṅguṣṭha+tarjanī+madhya+anāmikāsu) [O-great-goddess](mahā+īśvari)
+[thumb-index-middle-ring](aṅguṣṭhatarjanīmadhyānāmikāsu) [great-goddess](maheśvari)
 
 ## mukta-m0-p11-v267
-[with-namaḥ-svāhā-vaṣaṭ-hūṃ-vauṣaṭ-phaṭ-endings](namaḥ) [svāhā](svāhā) [vaṣaṭ](vaṣaṭ) [hūṃ](hū/) [vauṣaṭ](vauṣaṭ) [phaṭ-ending](phaḍ+antaiḥ) [in-due-order](yathā+kramam)
+[obeisance](namaḥ) [svāhā](svāhā) [vaṣaṭ](vaṣaṭ) [hūṃ](hū/) [vauṣaṭ](vauṣaṭ) [phaṭ-ending](phaḍantaiḥ) [in-order](yathākramam)
 
 ## mukta-m0-p11-v268
-[consciousness-brahman](cit+brahma) [|](|) [one-brahman](ekaṃ) [brahma](brahma) [|](|) [sat-cit](sat+cit) [|](|) [consciousness-one-thus](cit+ekam+iti)
+[consciousness-brahma](cidbrahma) [|](|) [one](ekaṃ) [brahma](brahma) [|](|) [sac-cit](saccit) [|](|) [consciousness-one-thus](cidekamiti)
 
 ## mukta-m0-p11-v269
-[limb-nyāsa-etc](aṅga+nyāsa+ityādi) [verse-39](||) [39](39)
+[anga-nyasa-etc](aṅganyāsetyādi) [39](|| 39)
 
 ## mukta-m0-p11-v270
-[up-to-heart-etc-and-hand](hṛt+ādi+kara+paryantam) [thus](evam) [indeed](eva) [is-prescribed](vidhīyate)
+[heart-to-hand-end](hṛdādikaraparyantam) [thus-thus](evameva) [is-prescribed](vidhīyate)
 
 ## mukta-m0-p11-v271
-[with-middle-and-ring-fingers](madhyamā+anāmikābhyām) [and](ca) [of-right-hand](dakṣa+hastasya) [O-Pārvatī](pārvati)
+[middle-and-ring](madhyamānāmikābhyāñca) [right-hand](dakṣahastasya) [pārvatī](pārvati)
 
 ## mukta-m0-p11-v272
-[should-fill](pūayet) [breath](pavanaṃ) [practitioner](mantrī) [root-mantra-eight-times](mūlam+aṣṭa+mitam) [reciting](japan)
+[purify](pūayet) [air](pavanaṃ) [mantra-practitioner](mantrī) [root-eightfold](mūlamaṣṭamitaṃ) [reciting](japan)
 
 ## mukta-m0-p11-v273
-[should-recite](japet) [with-thirty-two-repetitions](dvātriṃśatā+āvṛttyā) [then](tataḥ) [through-right-nostril](dakṣiṇa+nāsayā)
+[recite-thirty-two-times](japeddvātriṃśatā'vṛttyā) [then](tato) [right-nostril](dakṣiṇanāsayā)
 
 ## mukta-m0-p11-v274
-[in-left-nostril](vāma+nāsā+puṭe) [also](api) [thus](evaṃ) [inhalation-retention-exhalation](pūraka+kumbhaka+recakam)
+[left-nostril](vāmanāsāpuṭe'pyevaṃ) [inhale-hold-exhale](pūrakumbhakarecakam)
 
 ## mukta-m0-p11-v275
-[breath-control-method](prāṇa+āyāma+vidhiḥ) [declared](proktaḥ) [of-brahma-mantra](brahma+mantrasya) [in-practice](sādhane)
+[pranayama-rite](prāṇāyāmavidhiḥ) [declared](prokto) [of-brahma-mantra](brahmamantrasya) [in-practice](sādhane)

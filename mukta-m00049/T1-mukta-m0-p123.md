@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p123-v3051
-[suitable](yogye) [buyer](kretari) [to-sell](vikretuṃ) [not](na) [able](śaktaḥ) [immovable-property+lord](sthāvara+adhipaḥ)
+[fit](yogye) [buyer](kretari) [to-sell](vikretuṃ) [not](na) [able](śaktaḥ) [immovable+lord](sthāvara+adhipaḥ)
 
 ## mukta-m0-p123-v3052
-[of-those-two+in-absence](tayoḥ+abhāve) [kinsmen](suhṛdo) [seller+wish](vikretṛ+icchā) [weightier](garīyasī)
+[their+absence](tayoḥ+abhāve) [friends](suhṛdaḥ) [seller's+wish](vikretri+icchā) [greater](garīyasī)
 
 ## mukta-m0-p123-v3053
-[obtained+wealth+even](prāpta+dhanasya+api) [to-the-lord](pataye) [by-the-obtainer](prāptrā) [by-a-man](puṃsā) [should-cause-to-give](dāpayen)
+[obtained+wealth](prāpta+dhana) [even](api) [to-owner](pataye) [obtained](prāpta) [man](puṃsā) [should-cause-give](dāpayet)
 
 ## mukta-m0-p123-v3054
-[done+thus](kṛti+iti) [in-action](karmaṇi) [genitive-case](ṣaṣṭhī)
+[done](kṛti) [thus](iti) [in-action](karmaṇi) [sixth-case](ṣaṣṭhī)
 
 ## mukta-m0-p123-v3055
-[ṣyañ-suffix](ṣyañ)
+[ṣyañ](ṣyañ)
 
 ## mukta-m0-p123-v3056
-[that+price](tat+mūlyaṃ) [if](cet) [near+standing](samīpa+sthaḥ) [gives](rāti) [buyer](kretā) [not](na) [and+other](ca+aparaḥ)
+[that+price](tan+mūlyaṃ) [if](cet) [nearby](samīpa+sthaḥ) [gives](rāti) [buyer](kretā) [not](na) [other](cāparaḥ)
 
 ## mukta-m0-p123-v3057
-[presence+standing+then+to-another](sannidhi+sthaḥ+tadā+anyasmai) [taker](gṛhī) [able+in-over-sale](śaktaḥ+ati+vikraye)
+[nearby+standing](sannidhi+sthaḥ) [then](tadā) [to-other](anyasmai) [house](gṛha) [able](śaktaḥ) [in-over-sale](ativikraye)
 
 ## mukta-m0-p123-v3058
-[from-hearing+indeed](śravaṇāt+eva) [that+price](tat+mūlyaṃ) [having-given+he](dattvā+asau) [to-obtain+is-fit](prāptum+arhati)
+[by-hearing](śravaṇāt+eva) [that+price](tan+mūlyaṃ) [having-given](dattvā) [he](asau) [to-obtain](prāptum) [worthy](arhati)
 
 ## mukta-m0-p123-v3059
-[to-sell+wishes+to-him](vikretum+icchet+tasmai) [indeed](eva) [should-sell+thus](vikīṇīta+iti) [meaning](bhāvaḥ)
+[to-sell](vikretum) [wishes](icchet) [to-him](tasmai) [even](eva) [let-sell](vikīṇīta) [thus](iti) [meaning](bhāvaḥ)
 
 ## mukta-m0-p123-v3060
-[should-be](bhavet) [but](kintu) [near+standing](samīpa+sthaḥ) [indeed](eva) [price](mūlyaṃ) [having-given](dattvā) [should-buy+thus+meaning](krīṇīyāt+iti+arthaḥ)
+[would-be](bhavet) [but](kintu) [nearby+standing](samīpa+sthaḥ) [even](eva) [price](mūlyaṃ) [having-given](dattvā) [should-buy](krīṇīyāt) [meaning](ityarthaḥ)
 
 ## mukta-m0-p123-v3061
-[price](mūlyaṃ) [having-given+even](dattvā+api) [not+obtains](na+āpnoti) [immovable-property](sthāvaraṃ) [presence+situated](sannidhi+sthitaḥ)
+[price](mūlyaṃ) [having-given](dattvā) [also](api) [not-obtains](nāpnoti) [immovable](sthāvaraṃ) [nearby+standing](sannidhi+sthitaḥ)
 
 ## mukta-m0-p123-v3062
-[not+instructed+even](an+ādiṣṭaḥ+api) [that](tāṃ) [land](bhūmiṃ) [fertile](sampannāṃ) [to-make+is-fit](kartum+arhati)
+[not-designated](anādiṣṭaḥ) [also](api) [that](tāṃ) [land](bhūmiṃ) [prosperous](sampannāṃ) [to-make](kartum) [worthy](arhati)
 
 ## mukta-m0-p123-v3063
-[having-given](dattvā) [tenth+part](daśa+aṃśaṃ) [should-enjoy](bhuñjīyāt) [land+owner](bhūmi+svāmī) [because](yataḥ) [king](nṛpaḥ)
+[having-given](dattvā) [tenth-part](daśāṃśaṃ) [enjoy](bhuñjīyāt) [land-owner](bhūmi+svāmī) [because](yataḥ) [king](nṛpaḥ)
 
 ## mukta-m0-p123-v3064
-[not+is-fit+thus](na+arhati+iti) [indicated](sūcitam)
+[not-worthy](nārhati) [thus](iti) [indicated](sūcitam)
 
 ## mukta-m0-p123-v3065
-[having-given+even](dattvā+api) [immovable+wealth](sthāvara+dhanam) [not+obtains](na+āpnoti) [not](na) [receives](labhate)
+[having-given](dattvā) [also](api) [immovable+wealth](sthāvara+dhanaṃ) [not-obtains](nāpnoti) [not-receives](na+labhate)
 
 ## mukta-m0-p123-v3066
-[forest-born](āraṇyāḥ) [from-forest+ṇa-suffix](araṇyāt+ṇaḥ) [thus](iti) [ṇa-suffix](ṇaḥ)
+[āraṇyā](āraṇyā) [from-forest](araṇyāt) [ṇa](ṇa) [thus](iti) [ṇaḥ](ṇaḥ)
 
 ## mukta-m0-p123-v3067
-[another+harm+doing](para+aniṣṭa+kare) [in-place](deśe) [not](na) [house](gṛhaṃ) [to-make+is-fit](kartum+arhati)
+[in-inauspicious](parāniṣṭa+kare) [region](deśe) [not](na) [house](gṛhaṃ) [to-make](kartum) [worthy](arhati)
 
 ## mukta-m0-p123-v3068
-[water+authorities](pāna+adhikāriṇaḥ) [all](sarve) [in-watering+near+dwellers](secane+antika+vāsinaḥ)
+[drink+officials](pāna+adhikāriṇaḥ) [all](sarve) [in-sprinkling](secane) [near-residents](antika+vāsinaḥ)
 
 ## mukta-m0-p123-v3069
-[not](na) [should-sprinkle+water](siñceyuḥ+jalaṃ) [from-that+even](tasmāt+api) [presence+dwellers](sannidhi+vartinaḥ)
+[not-sprinkle](na+siñceyuḥ) [water](jalaṃ) [therefore](tasmāt) [also](api) [nearby+standing](sannidhi+vartinaḥ)
 
 ## mukta-m0-p123-v3070
-[likewise+not+ascertained+wealth+in-failure](tathā+a+nirṇīta+vittānām+a+siddhau) [deposit+sale](nyāsa+vikrayau)
+[thus](tathā) [undetermined+wealth](anirṇīta+vittānām) [in-failure](asiddhau) [deposit](nyāsa) [sale](vikrayau)
 
 ## mukta-m0-p123-v3071
-[should-enjoy](bhuñjīta)
+[enjoy](bhuñcīta)
 
 ## mukta-m0-p123-v3072
-[far+dwelling+but](dūra+vartinā+tu) [what](kā) [talk](vārtā)
+[of-distant](dūra+vartinām) [but](tu) [what](kā) [news](vārtā)
 
 ## mukta-m0-p123-v3073
-[that+price](tat+mūlyaṃ) [should-cause-to-give+by-him](dāpayet+tena) [to-the-owner](svāmine) [all+purpose](sarva+arthā) [king](nṛpaḥ)
+[that+price](tan+mūlyaṃ) [cause-give](dāpayet) [by-him](tena) [to-owner](svāmine) [for-all](sarvarthā) [king](nṛpaḥ)
 
 ## mukta-m0-p123-v3074
-[in-transaction](vyavahāre) [done](kṛte) [there](tatra) [holder](dhārtā) [should-maintain](sampoṣayet) [cattle](paśūn)
+[in-dispute](vyavahāre) [done](kṛte) [there](tatra) [holder](dhārtā) [nourish](sampoṣayet) [cattle](paśūn)
 
 ## mukta-m0-p123-v3075
-[by-rule](niyamena) [without](vinā) [time+gain+otherwise](kāla+lābhayoḥ+anyathā) [should-be](bhavet)
+[by-rule](niyamena) [without](vinā) [time](kāla) [profit](lābha) [of-two](yoh) [otherwise](anyathā) [becomes](bhavet)
