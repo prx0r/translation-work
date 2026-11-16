@@ -5,10 +5,10 @@
 [varṇa+āśrama+jñāna+tapas+dharmāṇām](varṇāśramajñānatapodharmāṇāṃ) [and](ca) [illuminator](prakāśakaḥ)
 
 ## mukta-m0-p152-v3777
-[kaula+ācāryaḥ](kaulikācāryaḥ) [but](tu) [other](anyaḥ) [kula+mockery-maker](kulaviḍambakaḥ)
+[kaula+ācāryaḥ](kaulikācāryaḥ) [but](tu) [other](anyaḥ) [kula+mockery](kulaviḍambakaḥ)
 
 ## mukta-m0-p152-v3778
-[properly](samyak) [knows](vijānāti) [he](sa) [guru](guruḥ) [and](ca) [should-uplift](uddharet) [the-supreme](param)
+[properly](samyak) [knows](vijānāti) [he](sa) [guru](guruḥ) [and](ca) [should-uplift](uddharet) [supreme](param)
 
 ## mukta-m0-p152-v3779
 [who](yaḥ) [knows](vijānāti) [he](sa) [guru](guruḥ) [declared](kathitaḥ) [O-beloved](priye)
@@ -17,61 +17,61 @@
 [O-fair-hipped-one](varārohe) [he](sa) [guru](guruḥ) [proclaimed](parikīrtitaḥ)
 
 ## mukta-m0-p152-v3781
-[good-conduct](śīlaṃ) [likewise](tathā) [power](śaktiḥ) [eight](aṣṭau) [bonds](pāśāḥ) [declared](prakīrtitāḥ)
+[conduct](śīlaṃ) [likewise](tathā) [power](śaktiḥ) [eight](aṣṭau) [bonds](pāśāḥ) [declared](prakīrtitāḥ)
 
 ## mukta-m0-p152-v3782
-[therefore](tasmāt) [bond-remover](pāśaharaḥ) [who](yaḥ) [here](atra) [he](sa) [guru](guruḥ) [not](na) [other](anyaḥ) [is-called](ucyate)
+[therefore](tasmāt) [bond+remover](pāśaharaḥ) [who](yaḥ) [here](atra) [he](sa) [guru](guruḥ) [not](na) [other](anyaḥ) [is-called](ucyate)
 
 ## mukta-m0-p152-v3783
 [living+moving+fruit](jīvacālaphalaṃ) [knows](vetti) [he](sa) [guru](guruḥ) [not](na) [other](aparaḥ) [O-beloved](priye)
 
 ## mukta-m0-p152-v3784
-[by-vows+fasts+observances](vratopavāsaniyamaiḥ) [of-fear](bhiyaḥ) [destroyer](hantā) [guru](guruḥ) [is-considered](mataḥ)
+[vow+fasting+disciplines](vratopavāsaniyamaiḥ) [of-fear](bhiyaḥ) [destroyer](hantā) [guru](guruḥ) [is-considered](mataḥ)
 
 ## mukta-m0-p152-v3785
-[beginning-less](ādirahitaṃ) [he](sa) [guru](guruḥ) [hard-to-find](durlabhaḥ) [in-Kali-age](kalau)
+[beginning+devoid](ādirahitaṃ) [he](sa) [guru](guruḥ) [hard-to-find](durlabhaḥ) [in-Kali-age](kalau)
 
 ## mukta-m0-p152-v3786
-[should-choose](vṛṇuyāt) [not](na) [another](aparaṃ) [wise](matimān) [man](naraḥ)
+[should-choose](vṛṇuyāt) [not](na) [other](aparaṃ) [wise](matimān) [man](naraḥ)
 
 ## mukta-m0-p152-v3787
 [eaten](bhakṣitā) [by-whom](yena) [he](sa) [guru](guruḥ) [hard-to-find](durlabhaḥ) [on-earth](kṣitau)
 
 ## mukta-m0-p152-v3788
-[knowledge-desirous](jñānalubdhaḥ) [likewise](tathā) [disciple](śiṣyaḥ) [from-guru](guroḥ) [to-another-guru](gurvantaraṃ) [should-go](vrajet)
+[knowledge+desirous](jñānalubdhaḥ) [likewise](tathā) [disciple](śiṣyaḥ) [from-guru](guroḥ) [to-another-guru](gurvantaraṃ) [should-go](vrajet)
 
 ## mukta-m0-p152-v3789
 [having-waited](pratīkṣya) [indeed](eva) [afterwards](paścāt) [to-disciple](śiṣye) [should-bestow](samarpayet)
 
 ## mukta-m0-p152-v3790
-[lineage](sampradāyaḥ) [exists](asti) [so-long](tāvat) [may-be](syāt) [yoginī-state](yoginīpadam)
+[lineage](sampradāyaḥ) [exists](asti) [so-long](tāvat) [may-be](syāt) [yoginī+state](yoginīpadam)
 
 ## mukta-m0-p152-v3791
 [giving](dadat) [receiving](gṛhṇan) [they-two-may-obtain](prāpnuyātāṃ) [ghosthood](piśācatām)
 
 ## mukta-m0-p152-v3792
-[his-mantra](tanmantraḥ) [on-sand](saikate) [like-rice-seed](śālibījavat)
+[his+mantra](tanmantraḥ) [on-sand](saikate) [like-rice-seed](śālibījavat)
 
 ## mukta-m0-p152-v3793
-[deity-curse](devatāśāpam) [obtains](āpnoti) [done](kṛtaṃ) [and](ca) [fruitless](viphalaṃ) [may-become](bhavet)
+[deity+curse](devatāśāpam) [obtains](āpnoti) [done](kṛtaṃ) [and](ca) [fruitless](viphalaṃ) [may-become](bhavet)
 
 ## mukta-m0-p152-v3794
-[should-show](darśayet) [properly](samyak) [initiation](dīkṣā) [this](eṣā) [kaula](kaulikī) [is-considered](matā)
+[should-show](darśayet) [properly](samyak) [initiation](dīkṣā) [this](eṣā) [kaula](kaulikī) [considered](matā)
 
 ## mukta-m0-p152-v3795
-[should-consecrate](abhiṣiñcet) [dear](priyaṃ) [disciple](śiṣyaṃ) [mouthful-named](gaṇḍuṣākhyā) [this](iyam) [is-declared](īritā)
+[should-sprinkle](abhiṣiñcet) [dear](priyaṃ) [disciple](śiṣyaṃ) [mouthful+named](gaṇḍuṣākhyā) [this](iyam) [declared](īritā)
 
 ## mukta-m0-p152-v3796
-[with-well-filled-conch](susampūrṇaśaṅkhena) [with-vessel](kalaśena) [or](vā)
+[well+filled+conch](susampūrṇaśaṅkhena) [with-vessel](kalaśena) [or](vā)
 
 ## mukta-m0-p152-v3797
-[full-consecration](pūrṇābhiṣekaḥ) [here](atra) [in-kula-path](kulamārge) [is-proclaimed](prakīrtitaḥ)
+[full+consecration](pūrṇābhiṣekaḥ) [here](atra) [in-kula+path](kulamārge) [proclaimed](prakīrtitaḥ)
 
 ## mukta-m0-p152-v3798
 [ghosthood](piśācatvaṃ) [until](yāvat) [dissolution-of-beings](ābhūtasamplavam)
 
 ## mukta-m0-p152-v3799
-[initiation](dīkṣā) [this](iyaṃ) [by-rule](vidhinā) [by-guru](guruṇā) [done](kṛtā)
+[initiation](dīkṣā) [this](iyam) [by-rule](vidhinā) [by-guru](guruṇā) [performed](kṛtā)
 
 ## mukta-m0-p152-v3800
-[initiation-pierced](dīkṣāviddhaḥ) [likewise](tathā) [indeed](hi) [self](ātmā) [Śiva-hood](śivatvaṃ) [attains](labhate) [quickly](drutam)
+[initiation+pierced](dīkṣāviddhaḥ) [likewise](tathā) [indeed](hi) [self](ātmā) [Śiva-hood](śivatvaṃ) [attains](labhate) [quickly](drutam)
