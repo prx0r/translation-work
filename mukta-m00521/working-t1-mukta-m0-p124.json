@@ -16,7 +16,7 @@
 },
 {
 "surface": "nikṣipya",
-"quick_gloss": "placing"
+"quick_gloss": "having-placed"
 },
 {
 "surface": "kāṃ+api",
@@ -36,10 +36,6 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "viṣṇeḥ",
-"quick_gloss": "of-vishnu"
-},
-{
 "surface": "dvādaśabhiḥ",
 "quick_gloss": "with-twelve"
 },
@@ -52,12 +48,16 @@
 "quick_gloss": "or"
 },
 {
-"surface": "vasu+niṣkaiḥ",
-"quick_gloss": "with-eight-niṣkas"
+"surface": "vasu",
+"quick_gloss": "with-eight"
+},
+{
+"surface": "niṣkaiḥ",
+"quick_gloss": "niṣkas"
 },
 {
 "surface": "atha+api",
-"quick_gloss": "or"
+"quick_gloss": "also"
 },
 {
 "surface": "vā",
@@ -82,19 +82,23 @@
 },
 {
 "surface": "bhagavān",
-"quick_gloss": "lord"
+"quick_gloss": "the-lord"
 },
 {
 "surface": "sākṣāt",
 "quick_gloss": "directly"
 },
 {
-"surface": "śrīrāma+ātmā",
-"quick_gloss": "sri-rama-self"
+"surface": "śrīrāmaḥ",
+"quick_gloss": "śrī-rāma"
+},
+{
+"surface": "ātmā",
+"quick_gloss": "self"
 },
 {
 "surface": "śriyaḥ+patiḥ",
-"quick_gloss": "husband-of-lakshmi"
+"quick_gloss": "husband-of-śrī"
 }
 ]
 },
@@ -106,8 +110,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "śrīmat+aṣṭākṣarī+vidyā",
-"quick_gloss": "of-the-revered-eight-syllable-mantra"
+"surface": "śrīmat+aṣṭākṣarī",
+"quick_gloss": "of-the-glorious-eight-syllable"
+},
+{
+"surface": "vidyā",
+"quick_gloss": "mantra"
 },
 {
 "surface": "mahatīm",
@@ -136,19 +144,19 @@
 },
 {
 "surface": "tat+dvayena",
-"quick_gloss": "with-that-pair"
+"quick_gloss": "with-the-two-mantras"
 },
 {
 "surface": "atha",
 "quick_gloss": "then"
 },
 {
-"surface": "sālagrāmaśilāṃ",
-"quick_gloss": "salagrama-stone"
+"surface": "śubhāṃ",
+"quick_gloss": "the-auspicious"
 },
 {
-"surface": "śubhāṃ",
-"quick_gloss": "auspicious"
+"surface": "sālagrāmaśilām",
+"quick_gloss": "salagrama-stone"
 }
 ]
 },
@@ -161,15 +169,19 @@
 "tokens": [
 {
 "surface": "sūkṣma+vāsaḥ+yugaṃ",
-"quick_gloss": "pair-of-fine-garments"
+"quick_gloss": "a-pair-of-fine-garments"
 },
 {
 "surface": "datvā",
 "quick_gloss": "having-given"
 },
 {
-"surface": "hari+candanam+uttamaṃ",
-"quick_gloss": "excellent-sandalwood"
+"surface": "uttamaṃ",
+"quick_gloss": "excellent"
+},
+{
+"surface": "haricandanam",
+"quick_gloss": "yellow-sandalwood"
 }
 ]
 },
@@ -185,16 +197,20 @@
 "quick_gloss": "then"
 },
 {
-"surface": "ācārya+latrasyā",
-"quick_gloss": "of-the-preceptor's-wife"
+"surface": "ācāryasya",
+"quick_gloss": "to-the-teacher"
 },
 {
 "surface": "karṇe",
-"quick_gloss": "on-the-ear"
+"quick_gloss": "in-the-ear"
 },
 {
-"surface": "alaṃkaraṇa+ādikaṃ",
-"quick_gloss": "ornament-etc"
+"surface": "laṃkaraṇa",
+"quick_gloss": "ornament"
+},
+{
+"surface": "ādikaṃ",
+"quick_gloss": "etcetera"
 }
 ]
 },
@@ -206,12 +222,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "nava+bhojyāḥ",
-"quick_gloss": "nine-food-offerings"
+"surface": "nava",
+"quick_gloss": "nine"
 },
 {
-"surface": "sa+vāsinyaḥ",
-"quick_gloss": "married-women"
+"surface": "bhojyāḥ",
+"quick_gloss": "food-offerings"
+},
+{
+"surface": "savāsinyaḥ",
+"quick_gloss": "to-married-women"
 },
 {
 "surface": "vāsobhiḥ",
@@ -219,7 +239,7 @@
 },
 {
 "surface": "dikṣiṇā+ādibhiḥ",
-"quick_gloss": "with-gifts-etc"
+"quick_gloss": "with-gifts"
 }
 ]
 },
@@ -235,20 +255,20 @@
 "quick_gloss": "in-spring"
 },
 {
-"surface": "nava+rātre",
-"quick_gloss": "in-nava-ratri"
+"surface": "navarātre",
+"quick_gloss": "during-navaratra"
 },
 {
 "surface": "api",
 "quick_gloss": "also"
 },
 {
-"surface": "vrataṃ",
-"quick_gloss": "vow"
-},
-{
 "surface": "kṛtvā",
 "quick_gloss": "having-performed"
+},
+{
+"surface": "vrataṃ",
+"quick_gloss": "vow"
 },
 {
 "surface": "ittham",
@@ -269,11 +289,15 @@
 "tokens": [
 {
 "surface": "śrīrāma+janma+divase",
-"quick_gloss": "on-sri-rama-birth-day"
+"quick_gloss": "on-śrī-rāma's-birth-day"
 },
 {
-"surface": "śrīmat+aṣṭārṇa+vidyā",
-"quick_gloss": "revered-eight-syllable-mantra"
+"surface": "śrīmat+aṣṭārṇa",
+"quick_gloss": "the-glorious-eight-syllable"
+},
+{
+"surface": "vidyā",
+"quick_gloss": "mantra"
 }
 ]
 },
@@ -286,15 +310,15 @@
 "tokens": [
 {
 "surface": "śrīrāma+janma+divise",
-"quick_gloss": "on-sri-rama-birth-day"
+"quick_gloss": "on-śrī-rāma's-birth-day"
+},
+{
+"surface": "śubhāṃ",
+"quick_gloss": "the-auspicious"
 },
 {
 "surface": "sālagrāmaśilāṃ",
 "quick_gloss": "salagrama-stone"
-},
-{
-"surface": "śubhāṃ",
-"quick_gloss": "auspicious"
 }
 ]
 },
@@ -307,7 +331,7 @@
 "tokens": [
 {
 "surface": "brahmāṇḍa+koṭi+dānasya",
-"quick_gloss": "of-gift-of-crores-of-universes"
+"quick_gloss": "of-the-gift-of-ten-million-universes"
 },
 {
 "surface": "phalam",
@@ -318,7 +342,7 @@
 "quick_gloss": "exceedingly-great"
 },
 {
-"surface": "aśrutaṃ",
+"surface": "aśrutam",
 "quick_gloss": "is-heard"
 }
 ]
@@ -332,11 +356,11 @@
 "tokens": [
 {
 "surface": "puraścaryā+śata+phalaṃ",
-"quick_gloss": "fruit-of-hundred-preliminary-rites"
+"quick_gloss": "the-fruit-of-a-hundred-preliminary-rites"
 },
 {
 "surface": "prāpnoti",
-"quick_gloss": "obtains"
+"quick_gloss": "one-obtains"
 },
 {
 "surface": "atra",
@@ -385,7 +409,7 @@
 },
 {
 "surface": "sādhakaḥ",
-"quick_gloss": "practitioner"
+"quick_gloss": "the-practitioner"
 }
 ]
 },
@@ -409,24 +433,20 @@
 "quick_gloss": "prosperity"
 },
 {
-"surface": "vā",
-"quick_gloss": "or"
-},
-{
-"surface": "vāk+dviṃ",
-"quick_gloss": "pair-of-speech"
+"surface": "vākyadviṃ",
+"quick_gloss": "speech"
 },
 {
 "surface": "vā",
 "quick_gloss": "or"
-},
-{
-"surface": "tulāṃ",
-"quick_gloss": "auspicious-balance"
 },
 {
 "surface": "śubhāṃ",
 "quick_gloss": "auspicious"
+},
+{
+"surface": "tulāṃ",
+"quick_gloss": "balance"
 }
 ]
 },
@@ -438,12 +458,24 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "saṃ+prathak+kula+sāhasra+sahitaḥ",
-"quick_gloss": "accompanied-by-thousands-of-own-lineage"
+"surface": "sahitaḥ",
+"quick_gloss": "accompanied-by"
+},
+{
+"surface": "sva",
+"quick_gloss": "his-own"
+},
+{
+"surface": "sāhasra",
+"quick_gloss": "thousand"
+},
+{
+"surface": "kula",
+"quick_gloss": "families"
 },
 {
 "surface": "bhagavat+pade",
-"quick_gloss": "in-the-abode-of-the-lord"
+"quick_gloss": "at-the-lord's-feet"
 }
 ]
 },
@@ -472,7 +504,7 @@
 },
 {
 "surface": "parva+siddhi+daṃ",
-"quick_gloss": "festival-accomplishment-giving"
+"quick_gloss": "giving-accomplishment-on-festivals"
 }
 ]
 },
@@ -484,24 +516,28 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "amā+arka+vāsara+yutā",
-"quick_gloss": "joined-with-new-moon-and-sunday"
+"surface": "amā",
+"quick_gloss": "new-moon"
+},
+{
+"surface": "arka+vāsa+ra+yutā",
+"quick_gloss": "joined-with-sunday"
 },
 {
 "surface": "vā",
 "quick_gloss": "or"
 },
 {
-"surface": "somena+sahitā",
+"surface": "somena",
 "quick_gloss": "joined-with-monday"
+},
+{
+"surface": "sahitā",
+"quick_gloss": "sahitā"
 },
 {
 "surface": "api",
 "quick_gloss": "also"
-},
-{
-"surface": "vā",
-"quick_gloss": "or"
 }
 ]
 },
@@ -521,7 +557,11 @@
 "quick_gloss": "or"
 },
 {
-"surface": "ayam",
+"surface": "āmnāyaḥ",
+"quick_gloss": "leftward"
+},
+{
+"surface": "ayaṃ",
 "quick_gloss": "this"
 },
 {
@@ -562,20 +602,16 @@
 "quick_gloss": "also"
 },
 {
-"surface": "eva",
+"surface": "koṭiśaḥ",
+"quick_gloss": "ten-million"
+},
+{
+"surface": "japtam",
+"quick_gloss": "recitation"
+},
+{
+"surface": "eva+hi",
 "quick_gloss": "indeed"
-},
-{
-"surface": "koṭiśaḥ+japtam",
-"quick_gloss": "ten-million-recitation"
-},
-{
-"surface": "eva",
-"quick_gloss": "indeed"
-},
-{
-"surface": "hi",
-"quick_gloss": "hi"
 }
 ]
 },
@@ -591,8 +627,12 @@
 "quick_gloss": "here"
 },
 {
-"surface": "eka+niṣka+svarṇe",
-"quick_gloss": "with-one-niṣka-of-gold"
+"surface": "eka",
+"quick_gloss": "one"
+},
+{
+"surface": "niṣka+svarṇe",
+"quick_gloss": "niṣka-of-gold"
 },
 {
 "surface": "vā",
@@ -604,11 +644,11 @@
 },
 {
 "surface": "ācārya",
-"quick_gloss": "to-the-preceptor"
+"quick_gloss": "to-the-teacher"
 },
 {
-"surface": "yat+pāda+ambuja",
-"quick_gloss": "lotus-feet"
+"surface": "yat+aṃvuja",
+"quick_gloss": "lotus"
 }
 ]
 },
@@ -621,15 +661,19 @@
 "tokens": [
 {
 "surface": "ravi+parvaṇi",
-"quick_gloss": "on-solar-festival"
+"quick_gloss": "at-solar-festival"
 },
 {
 "surface": "saṃprāpte",
 "quick_gloss": "having-arrived"
 },
 {
-"surface": "tat+pūrva+divasa+trayaṃ",
-"quick_gloss": "three-days-before-that"
+"surface": "tri+ahaṃ",
+"quick_gloss": "three-days"
+},
+{
+"surface": "tat+pūrva+divasa",
+"quick_gloss": "before-that"
 }
 ]
 },
@@ -642,7 +686,7 @@
 "tokens": [
 {
 "surface": "bhāskara+grahaṇe",
-"quick_gloss": "in-solar-eclipse"
+"quick_gloss": "at-solar-eclipse"
 },
 {
 "surface": "sparśa+kāle",
@@ -674,20 +718,20 @@
 "quick_gloss": "having-praised"
 },
 {
-"surface": "stuti+pāṭha+ādyaiḥ",
-"quick_gloss": "with-hymns-etc"
+"surface": "stupā+udyaiḥ",
+"quick_gloss": "with-hymns"
 },
 {
 "surface": "vimuktaḥ",
 "quick_gloss": "liberated"
 },
 {
-"surface": "sadyaḥ",
+"surface": "sadyas",
 "quick_gloss": "immediately"
 },
 {
-"surface": "rāva+hi",
-"quick_gloss": "from-sin"
+"surface": "rāvahi",
+"quick_gloss": "from-sun"
 }
 ]
 },
@@ -700,7 +744,7 @@
 "tokens": [
 {
 "surface": "ācārya+sannidhau",
-"quick_gloss": "in-presence-of-preceptor"
+"quick_gloss": "in-the-teacher's-presence"
 },
 {
 "surface": "agniṃ",

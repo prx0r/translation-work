@@ -8,7 +8,7 @@
 "tokens": [
 {
 "surface": "tam",
-"quick_gloss": "that"
+"quick_gloss": "that-very"
 },
 {
 "surface": "eva",
@@ -16,7 +16,7 @@
 },
 {
 "surface": "bhagavat+rūpaṃ",
-"quick_gloss": "blessed-lord+form"
+"quick_gloss": "bhagavat+form"
 },
 {
 "surface": "prāhuḥ",
@@ -49,7 +49,7 @@
 },
 {
 "surface": "bhagavān",
-"quick_gloss": "blessed-lord"
+"quick_gloss": "bhagavān"
 },
 {
 "surface": "iṃdirā+patiḥ",
@@ -65,15 +65,15 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "śrīrāma",
-"quick_gloss": "śrī-rāma"
+"surface": "śrī+rāma",
+"quick_gloss": "śrī+rāma"
 },
 {
 "surface": "iti",
 "quick_gloss": "thus"
 },
 {
-"surface": "lokesmin",
+"surface": "loke+smin",
 "quick_gloss": "in-this-world"
 },
 {
@@ -86,7 +86,7 @@
 },
 {
 "surface": "vibhuḥ",
-"quick_gloss": "all-pervading-lord"
+"quick_gloss": "lord"
 }
 ]
 },
@@ -103,11 +103,11 @@
 },
 {
 "surface": "rākṣasa+korībhiḥ",
-"quick_gloss": "demon+hordes"
+"quick_gloss": "by-demon+hordes"
 },
 {
 "surface": "bhinnāṃjana+caya+upamaṃ",
-"quick_gloss": "resembling+split+collyrium+mass"
+"quick_gloss": "resembling-broken-collyrium+mass"
 }
 ]
 },
@@ -119,8 +119,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "vaśiṣṭha+ādi+maharṣī+sammitaṃ",
-"quick_gloss": "vaśiṣṭha+etc+great-sages+honored"
+"surface": "vaśiṣṭha+ādi+maharṣī",
+"quick_gloss": "by-vaśiṣṭha+and-other+great-sages"
+},
+{
+"surface": "sammitaṃ",
+"quick_gloss": "honored"
 },
 {
 "surface": "******",
@@ -149,7 +153,7 @@
 },
 {
 "surface": "muni+puṃgavāḥ",
-"quick_gloss": "sage+best-ones"
+"quick_gloss": "o-best-of-sages"
 }
 ]
 },
@@ -166,7 +170,7 @@
 },
 {
 "surface": "bhūtam",
-"quick_gloss": "become"
+"quick_gloss": "this-being"
 },
 {
 "surface": "idaṃ",
@@ -187,11 +191,15 @@
 "tokens": [
 {
 "surface": "patra+eva",
-"quick_gloss": "here+indeed"
+"quick_gloss": "in-this-very-letter"
 },
 {
-"surface": "brahmaṇaḥ+tatva+rahasyaṃ",
-"quick_gloss": "of-brahman+truth+secret"
+"surface": "brahmaṇaḥ",
+"quick_gloss": "of-brahman"
+},
+{
+"surface": "tatva+rahasyaṃ",
+"quick_gloss": "truth+secret"
 },
 {
 "surface": "śruti+saṃgrahaṃ",
@@ -220,10 +228,10 @@
 },
 {
 "surface": "uktaṃ",
-"quick_gloss": "spoken"
+"quick_gloss": "declared"
 },
 {
-"surface": "bhoga+svarga+aparvarga+daṃ",
+"surface": "bhoga+svarga+aparvargadaṃ",
 "quick_gloss": "enjoyment+heaven+liberation+giving"
 }
 ]
@@ -237,7 +245,7 @@
 "tokens": [
 {
 "surface": "bhagavat+vadana+aṃbhojāt",
-"quick_gloss": "blessed-lord+face+lotus"
+"quick_gloss": "from-bhagavat+face+lotus"
 },
 {
 "surface": "āvirbhūtam",
@@ -262,7 +270,7 @@
 "tokens": [
 {
 "surface": "ācārya+vadana+aṃbhojāt",
-"quick_gloss": "teacher+face+lotus"
+"quick_gloss": "from-teacher+face+lotus"
 },
 {
 "surface": "vijñeyaṃ",
@@ -270,7 +278,7 @@
 },
 {
 "surface": "na+anyathā",
-"quick_gloss": "not+otherwise"
+"quick_gloss": "not-otherwise"
 },
 {
 "surface": "dvijāḥ",
@@ -294,12 +302,8 @@
 "quick_gloss": "one"
 },
 {
-"surface": "atha",
-"quick_gloss": "then"
-},
-{
-"surface": "atra",
-"quick_gloss": "here"
+"surface": "atha+atra",
+"quick_gloss": "then-here"
 },
 {
 "surface": "api",
@@ -332,15 +336,15 @@
 },
 {
 "surface": "caturmukhaḥ",
-"quick_gloss": "four-faced-brahmā"
+"quick_gloss": "four-faced"
 },
 {
 "surface": "paścāt",
 "quick_gloss": "afterwards"
 },
 {
-"surface": "sanakā+ādibh",
-"quick_gloss": "to-sanakā+etc"
+"surface": "sanakā+ādibhiḥ",
+"quick_gloss": "to-sanakā-and-others"
 },
 {
 "surface": "paṭhaktavān",
@@ -361,23 +365,19 @@
 },
 {
 "surface": "vibhāṃ",
-"quick_gloss": "vibhāṇḍaka"
+"quick_gloss": "to-vibhāṇḍaka"
 },
 {
-"surface": "ukāya",
-"quick_gloss": "to-ṛka"
-},
-{
-"surface": "atha",
+"surface": "ukāya+atha",
 "quick_gloss": "then"
 },
 {
 "surface": "sva+suttāya",
-"quick_gloss": "to-own-son"
+"quick_gloss": "to-his-own-son"
 },
 {
 "surface": "uktavān",
-"quick_gloss": "told"
+"quick_gloss": "said"
 },
 {
 "surface": "idaṃ",
@@ -418,12 +418,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "brahma+darśana+sidhy+arthaṃ",
-"quick_gloss": "brahman+vision+accomplishment+for-the-sake-of"
+"surface": "brahma+darśana+sidhyarthaṃ",
+"quick_gloss": "for-brahman+vision+accomplishment"
 },
 {
 "surface": "mokṣa+lakṣmī+samṛddhaye",
-"quick_gloss": "liberation+prosperity+abundance+for-the-sake-of"
+"quick_gloss": "for-liberation+fortune+prosperity"
 }
 ]
 },
@@ -440,7 +440,7 @@
 },
 {
 "surface": "dāśarathīya+ākhyaṃ",
-"quick_gloss": "dāśarathīya+named"
+"quick_gloss": "called-dāśarathīya"
 },
 {
 "surface": "taṃtraṃ",
@@ -469,7 +469,7 @@
 },
 {
 "surface": "bhagavān",
-"quick_gloss": "blessed-lord"
+"quick_gloss": "bhagavān"
 },
 {
 "surface": "dattāteyaḥ",
@@ -489,7 +489,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "bhārgavaḥ",
+"surface": "bhārgavo",
 "quick_gloss": "bhārgava"
 },
 {
@@ -510,7 +510,7 @@
 },
 {
 "surface": "bhagavat+aṃśataḥ",
-"quick_gloss": "blessed-lord+portion"
+"quick_gloss": "of-bhagavat+portion"
 }
 ]
 },
@@ -538,8 +538,8 @@
 "quick_gloss": "and"
 },
 {
-"surface": "krur",
-"quick_gloss": "did"
+"surface": "kruḥ",
+"quick_gloss": "made"
 },
 {
 "surface": "veda+vedāṃta+saṃmmitāḥ",
@@ -556,7 +556,7 @@
 "tokens": [
 {
 "surface": "tat+tat+ācārya+vadanāt",
-"quick_gloss": "that+that+teacher+mouth"
+"quick_gloss": "from-that+that+teacher+mouth"
 },
 {
 "surface": "jñātavyaṃ",
@@ -585,11 +585,11 @@
 },
 {
 "surface": "bhagavataḥ",
-"quick_gloss": "of-blessed-lord"
+"quick_gloss": "of-bhagavat"
 },
 {
 "surface": "sākṣāt+kārasya+siddhaye",
-"quick_gloss": "direct+perception+accomplishment+for-the-sake-of"
+"quick_gloss": "direct+vision+accomplishment"
 }
 ]
 },
@@ -610,7 +610,7 @@
 },
 {
 "surface": "asya",
-"quick_gloss": "of-him"
+"quick_gloss": "his"
 },
 {
 "surface": "karmāṇi",
@@ -639,11 +639,11 @@
 "tokens": [
 {
 "surface": "jarā+maraṇa+saṃyuktaṃ",
-"quick_gloss": "old-age+death+joined"
+"quick_gloss": "endowed-with-old-age+death"
 },
 {
 "surface": "mala+mūtra+augha+saṃkulaṃ",
-"quick_gloss": "urine+feces+flood+filled"
+"quick_gloss": "filled-with-urine+feces+mass"
 }
 ]
 },
