@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p45-v1101
-[slowly](mandaṃ) [more-slowly](mandataraṃ) [and-indeed](caiva) [intense](tīvraṃ) [more-intense](tīvrataraṃ) [becomes](bhavet)
+[slow](mandaṃ) [slower](mandataraṃ) [and](ca) [indeed](eva) [intense](tīvraṃ) [more-intense](tīvrataraṃ) [may-be](bhavet)
 
 ## mukta-m0-p45-v1102
-[ripe-unripe](pakvāpakvaṃ) [fourfold-division](caturbhedaṃ) [knowing](jñātvā) [by-division](bhedena) [wise](buddhimān)
+[mature](pakva) + [immature](apakvaṃ) [four](catur) + [kinds](bhedaṃ) [having-known](jñātvā) [by-distinction](bhedena) [wise-one](buddhimān)
 
 ## mukta-m0-p45-v1103
-[conduct-section](caryāpādaḥ) [action-section](kriyāpādaḥ) [servant](dāso) [*](*) [*](*) [is-liberated](vamucyate)
+[conduct](caryā) + [section](pādaḥ) [ritual](kriyā) + [section](pādaḥ) [servant](dāso) * * [is-called](vamucyate)
 
 ## mukta-m0-p45-v1104
-[thus](evaṃ) [in-Shaiva-scripture](śaivāgame) [principal](mukhyaṃ) [from-bond](pāśāt) [by-Pashupati-order](paśupatikramāt)
+[thus](evaṃ) [śaiva](śaiva) + [in-scripture](āgame) [chief](mukhyaṃ) [from-bond](pāśāt) [Paśupati](paśupati) + [by-process](kramāt)
 
 ## mukta-m0-p45-v1105
-[external-state](bāhyabhāvaṃ) [mental-state](manobhāvaṃ) [internal-state](antarbhāvamiti) [thus](iti) [remembered](smṛtam)
+[external](bāhya) + [state](bhāvaṃ) [mind](mano) + [state](bhāvaṃ) [internal](antar) + [state](bhāvam) [thus](iti) [is-remembered](smṛtam)
 
 ## mukta-m0-p45-v1106
-[internal-state-instruction](antarbhāvopadeśaṃ) [and](ca) [bond](pāśaḥ) [Pashupati-becomes](paśupatirbhavet)
+[internal](antar) + [state](bhāva) + [instruction](upadeśaṃ) [and](ca) [bond](pāśaḥ) [Paśupati](paśupatiḥ) [may-be](bhavet)
 
 ## mukta-m0-p45-v1107
-[dissolution-unchanging-enjoyment](layāvikārabhogaṃ) [and](ca) [jewel-mantra-medicine](maṇimantrauṣadhaṃ) [becomes](bhavet)
+[dissolution](laya) + [unchanging](avikāra) + [enjoyment](bhogaṃ) [and](ca) [gem](maṇi) + [mantra](mantra) + [medicine](auṣadhaṃ) [may-be](bhavet)
 
 ## mukta-m0-p45-v1108
-[its-essence](tatsāraṃ) [I-will-declare](saṃpravakṣyāmi) [listen-with-one-pointed-mind](śṛṇuṣvekāgramānasaḥ)
+[that](tat) + [essence](sāraṃ) [I-shall-declare](saṃpravakṣyāmi) [listen](śṛṇuṣva) [one](eka) + [pointed](agra) + [mind](mānasaḥ)
 
 ## mukta-m0-p45-v1109
-[beyond-tattva](tattvātītaṃ) [and](ca) [what](yat) [declared](proktaṃ) [self-knowledge-measure](ātmajñānamitirbhavet)
+[principle](tattva) + [beyond](atītaṃ) [and](ca) [which](yat) [declared](proktaṃ) [self](ātma) + [knowledge](jñānam) [thus](iti) [is](bhavet)
 
 ## mukta-m0-p45-v1110
-[thus](ityevaṃ) [threefold](trividhaṃ) [knowing](jñātvā) [union](sāyujyaṃ) [becomes](bhavati) [certain](dhruvam)
+[thus](iti) [thus](evaṃ) [three](tri) + [fold](vidhaṃ) [having-known](jñātvā) [union](sāyujyaṃ) [becomes](bhavati) [certainly](dhruvam)
 
 ## mukta-m0-p45-v1111
-[seven-dhatu-made](saptadhātumayaṃ) [body](deho) [indeed-impermanent](hyanityaśca) [as](yathā) [know](viduḥ)
+[seven](sapta) + [element](dhātu) + [consisting-of](mayaṃ) [body](deho) [indeed](hi) [impermanent](anityaḥ) [and](ca) [as](yathā) [they-know](viduḥ)
 
 ## mukta-m0-p45-v1112
-[*](* ) [*](* ) [*](* ) [*](* ) [*](* ) [those-thus](tānītyā) [sound-etc](śabdādīnāṃ) [indeed](tu) [activity](ceṣṭitam)
+* * * * * [thus](tānītyā) [of-sound-etc](śabdādīnāṃ) [but](tu) [activity](ceṣṭitam)
 
 ## mukta-m0-p45-v1113
-[three-gunas](guṇatrayaṃ) [then](tato) [distinct](bhinnaṃ) [pure-knowledge](śuddhavidyā) [Sada-Shiva](sadāśivam)
+[quality](guṇa) + [triad](trayaṃ) [then](tato) [distinct](bhinnaṃ) [pure](śuddha) + [knowledge](vidyā) [Sadāśiva](sadāśivam)
 
 ## mukta-m0-p45-v1114
-[body-knowledge-sense](dehajñānendriya) [*](*) [*](*) [*](*) [*](*) [*](*) [guna-air](guṇavāyu) [that](tam)
+[body](deha) + [knowledge](jñāna) + [sense-organ](indriya) * * * * * [quality](guṇa) + [wind](vāyu) [that](tam)
 
 ## mukta-m0-p45-v1115
-[from-tattva-to-shakti-end](tattvādiśaktiparyantaṃ) [tattvas](tattvāni) [together](saha) [meditate](bhāvayet)
+[principle](tattva) + [beginning-with](ādi) + [power](śakti) + [up-to](paryantaṃ) [principles](tattvāni) [together](saha) [one-should-contemplate](bhāvayet)
 
 ## mukta-m0-p45-v1116
-[thus](evaṃ) [thirty-six-tattvas](ṣaṭtriṃśatattvāni) [perish](naśyante) [vision](darśanaṃ) [and](ca) [what](yat)
+[thus](evaṃ) [six](ṣaṭ) + [thirty](triṃśat) + [principles](tattvāni) [perish](naśyante) [vision](darśanaṃ) [and](ca) [which](yat)
 
 ## mukta-m0-p45-v1117
-[beyond-tattva](tattvātītaṃ) [what](yat) [knowledge](jñānaṃ) [that-knowledge](tatjñānaṃ) [supreme-awakening-born](parajāgrajam)
+[principle](tattva) + [beyond](atītaṃ) [which](yat) [knowledge](jñānaṃ) [that](tat) + [knowledge](jñānaṃ) [supreme](para) + [waking-born](jāgrajam)
 
 ## mukta-m0-p45-v1118
-[that-knowledge](tatjñānaṃ) [Veda-peace](vedaśāntiṃ) [and](ca) [deep-sleep](suṣuptiḥ) [supreme-indeed](parameva) [and](ca)
+[that](tat) + [knowledge](jñānaṃ) [veda](veda) + [peace](śāntiṃ) [and](ca) [deep-sleep](suṣuptiḥ) [supreme](param) [indeed](eva) [and](ca)
 
 ## mukta-m0-p45-v1119
-[lord-knowledge](patijñānamiti) [thus](iti) [declared](proktaṃ) [union](sāyujyaṃ) [and](ca) [then-listen](tataśśṛṇu)
+[lord](pati) + [knowledge](jñānam) [thus](iti) [declared](proktaṃ) [union](sāyujyaṃ) [and](ca) [then](tataḥ) [hear](śṛṇu)
 
 ## mukta-m0-p45-v1120
-[sword-word](asiśabdaṃ) [and](ca) [union](sāyujyaṃ) [tattva-knowledge](tattvajñānamiti) [thus](iti) [remembered](smṛtam)
+[asi-word](asiśabdaṃ) [and](ca) [union](sāyujyaṃ) [principle](tattva) + [knowledge](jñānam) [thus](iti) [remembered](smṛtam)
 
 ## mukta-m0-p45-v1121
-[equal-taste](samaṃrasī) [state](bhāvamevoktaṃ) [indeed-said](evoktaṃ) [mother-state](mātṛbhāvamathocyate) [then-said](athocyate)
+[same-essence](samaṃrasī) [state](bhāvam) [indeed](eva) [said](uktam) [mother](mātṛ) + [state](bhāvam) [now](atha) [is-said](ucyate)
 
 ## mukta-m0-p45-v1122
-[free-from-all-thought](sarvacintāvinirmuktaḥ) [by-one-indeed](ekenaiva) [devoid](vivarjitam)
+[all](sarva) + [thought](cintā) + [completely-freed](vinirmuktaḥ) [by-one](ekena) [indeed](eva) [abandoned](vivarjitam)
 
 ## mukta-m0-p45-v1123
-[form](ākāraṃ) [and](ca) [formless](nirākāraṃ) [devoid-of-signifier-signified](vācyavācakavarjitam)
+[form](ākāraṃ) [and](ca) [formless](nirākāraṃ) [expressible](vācya) + [expressing](vācaka) + [devoid-of](varjitam)
 
 ## mukta-m0-p45-v1124
-[ear](śrotraṃ) [not-is](nāsti) [hearing](śrutistatra) [there](tatra) [eye](cakṣurnāsti) [not-is](nāsti) [he](sa) [sees](paśyati)
+[ear](śrotraṃ) [is-not](nāsti) [hearing](śrutiḥ) [there](tatra) [eye](cakṣuḥ) [is-not](nāsti) [he](sa) [sees](paśyati)
 
 ## mukta-m0-p45-v1125
-[tongue](jihvā) [not-is](nāsti) [taste](rasaṃ) [grasping](gṛhya) [skin-without](tvakvinā) [touch](sparśanaṃ) [know](viduḥ)
+[tongue](jihvā) [is-not](nāsti) [taste](rasaṃ) [grasping](gṛhya) [skin](tvak) + [without](vinā) [touch](sparśanaṃ) [they-know](viduḥ)

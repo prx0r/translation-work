@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p43-v1051
-[ego-principle](ahaṃkāre) [vaikharī-speech](vaikharīyuḥ) [action-sense](karma) [origin](indriyasamudbhavaḥ)
+[in-ego](ahaṃkāre) [vaikharī-speech](vaikharīyuḥ) [action-organ](karmendriya) [origin](samudbhavaḥ)
 
 ## mukta-m0-p43-v1052
-[sound](śabde) [space](ākāśam) [arisen](utpannaṃ) [touch](sparśe) [air](vāyuḥ) [thus](tathā) [risen](uditaḥ)
+[in-sound](śabde) [ether](ākāśa) [arisen](utpannaṃ) [in-touch](sparśe) [wind](vāyuḥ) [thus](tathā) [declared](uditaḥ)
 
 ## mukta-m0-p43-v1053
-[smell](gandhe) [earth](mahī) [arisen](samudbhūta) [element-effect](tattvakārye) [not](na) [acted](ceṣṭitam)
+[in-smell](gandhe) [earth](mahī) [arisen](samudbhūta) [in-principle](tattva) [function](kārye) [not](na) [activity](ceṣṭitam)
 
 ## mukta-m0-p43-v1054
-[water](salilaṃ) [taste-bond](rasabandheṣu) [by-form](rūpeṇa) [fire](agniṃ) [join](suyojet)
+[water](salilaṃ) [in-taste](rasa) [bonds](bandheṣu) [by-form](rūpeṇa) [fire](agniṃ) [well](su) [one-should-join](yojayet)
 
 ## mukta-m0-p43-v1055
-[sound-etc](śabdādi) [five-subtle-elements](pañcatanmātraṃ) [in-form](rūpe) [ego-principle](ahaṃkāra) [bind](bandhayet)
+[sound-etc.](śabda+ādi) [five-subtle-elements](pañca+tanmātraṃ) [in-form](rūpe) [ego](ahaṃkāra) [one-should-bind](bandhayet)
 
 ## mukta-m0-p43-v1056
-[knowledge-senses](jñānendriyaṃ) [and](ca) [five-these](pañcaite) [ego-principle](ahaṃkāraḥ) [taijasa](taijase) [gone](gate)
+[knowledge-organ](jñānendriyaṃ) [and](ca) [five](pañca) [these](ete) [ego](ahaṃkāraḥ) [in-taijasa](taijase) [gone](gate)
 
 ## mukta-m0-p43-v1057
-[mind-field-knower](cittakṣetrajña) [joined](yukteṣu) [twenty-five](pañcaviṃśati) [attachment](rāgake)
+[mind](citta) [field-knower](kṣetrajña) [in-united](yukteṣu) [twenty-five](pañcaviṃśatiḥ) [in-attachment](rāgake)
 
 ## mukta-m0-p43-v1058
-[scripture-net](śāstrajālaṃ) [and](ca) [mantras](mantrāṇi) [in-mantra](mantre) [letters](varṇeṣu) [join](yojayet)
+[scripture](śāstra) [net](jālaṃ) [and](ca) [mantras](mantrāṇi) [in-mantra](mantre) [in-syllables](varṇeṣu) [one-should-join](yojayet)
 
 ## mukta-m0-p43-v1059
-[middle](madhyamā) [and](ca) [indeed](eva) [see](paśyanti) [seeing](paśyantī) [subtle](sūkṣma) [join](yojayet)
+[madhyamā](madhyamā) [and](ca) [indeed](eva) [paśyantī](paśyanti) [paśyantī](paśyantī) [in-subtle](sūkṣma) [one-should-join](yojayet)
 
 ## mukta-m0-p43-v1060
-[pure-knowledge](śuddhavidyā) [śiva-end](śivāntāni) [in-kundalini](kuṭile) [join](yojayet) [then](tataḥ)
+[pure-knowledge](śuddha+vidyā) [ending-in-śiva](śiva+antāni) [in-kuṭilā](kuṭile) [one-should-join](yojayet) [then](tataḥ)
 
 ## mukta-m0-p43-v1061
-[creation-dissolution](sṛṣṭisaṃhāra) [indeed](eva) [said](uktaṃ) [maintenance-order](sthitikramam) [then](atha) [spoken](ucyate)
+[creation](sṛṣṭi) [dissolution](saṃhāram) [thus](eva) [stated](uktam) [maintenance](sthiti) [sequence](kramam) [now](atha) [is-spoken](ucyate)
 
 ## mukta-m0-p43-v1062
-[prior-action](pūrvakarma) [fire-wheel](agni) [like-rotation](cakravadbhramāt)
+[previous-action](pūrva+karma) [*](*) [*](*) [*](*) [*](*) [*](*) [fire](ṣṭhāgni) [like-wheel](cakra+vat) [from-revolving](bhramāt)
 
 ## mukta-m0-p43-v1063
-[sound-etc](śabdādi) [five-subtle-elements](pañcatanmātraṃ) [abides](vartate) [in-presence](dhāmasannidhau)
+[sound-etc.](śabda+ādi) [five-subtle-elements](pañca+tanmātraṃ) [exists](vartate) [in-abode](dhāma) [proximity](sannidhau)
 
 ## mukta-m0-p43-v1064
-[mind](mano) [intellect](buddhiḥ) [ego](ahaṃkāraṃ) [mind-stuff](cittaṃ) [and](ca) [fourth](caturthakam)
+[mind](manaḥ) [intellect](buddhiḥ) [ego](ahaṃkāraṃ) [mind-stuff](cittaṃ) [and](ca) [indeed](eva) [fourth](caturthakam)
 
 ## mukta-m0-p43-v1065
-[self-principle](ātmatattvam) [thus](iti) [called](khyātaṃ) [vision](darśanaṃ) [and](ca) [then](tataḥ) [hear](śṛṇu)
+[self-principle](ātma+tattvam) [thus](iti) [known](khyātaṃ) [view](darśanaṃ) [and](ca) [then](tataḥ) [hear](śṛṇu)
 
 ## mukta-m0-p43-v1066
-[knowledge](vidyā) [wisdom-etc](jñānādikaṃ) [and](ca) [indeed](eva)
+[knowledge](vidyā) [knowledge-etc.](jñāna+ādikaṃ) [and](ca) [indeed](eva) [attachment](rā) [*](*) [*](*) [*](*) [*](*) [*](*) [*](*) [*](*)
 
 ## mukta-m0-p43-v1067
-[illusion](māyā) [mind](cittaṃ) [delusion](bhramaṃ) [make](kuryāt)
+[māyā](māyā) [mind-stuff](cittaṃ) [delusion](bhramaṃ) [may-cause](kuryāt) [*](*) [section](ga) [division](kāṇḍam) [thus](iti) [remembered](smṛtam)
 
 ## mukta-m0-p43-v1068
-[knowledge-subtle](jñānasūkṣmaṃ) [action-excess](kriyādhikyam) [īśa-principle](īśatattvam) [thus](iti) [called](smṛtam)
+[knowledge](jñāna) [subtle](sūkṣmaṃ) [action](kriyā) [predominance](ādhikyam) [lord-principle](īśa+tattvam) [thus](iti) [remembered](smṛtam)
 
 ## mukta-m0-p43-v1069
-[power-principle](śaktitattvaṃ) [action-born](kriyotpannaṃ) [śiva-principle](śivatattvaṃ) [then](tato) [higher](adhikam)
+[power-principle](śakti+tattvaṃ) [from-action](kriyā) [arisen](utpannaṃ) [śiva-principle](śiva+tattvaṃ) [than-that](tataḥ) [higher](adhikam)
 
 ## mukta-m0-p43-v1070
-[gross](sthūlaṃ) [subtle](sūkṣmaṃ) [supreme](paraṃ) [and](ca) [indeed](eva) [thirty-six](ṣaṭtriṃśat) [principles-vision](tattvadarśanam)
+[gross](sthūlaṃ) [subtle](sūkṣmaṃ) [supreme](paraṃ) [and](ca) [indeed](eva) [thirty-six](ṣaṭtriṃśat) [principle](tattva) [vision](darśanam)
 
 ## mukta-m0-p43-v1071
-[śiva-principle](śivatattvaṃ) [supreme](paraṃ) [and](ca) [indeed](eva) [guru-mouth](guruvaktre) [show](pradarśayet)
+[śiva-principle](śiva+tattvaṃ) [supreme](paraṃ) [and](ca) [indeed](eva) [in-guru](guru) [mouth](vaktre) [one-should-reveal](pradarśayet)
 
 ## mukta-m0-p43-v1072
-[rest](viśrāmyaṃ) [and](ca) [that-self](tadātmā) [ca](ca) [five-states](pañcāvasthā) [action-born](kriyodbhavāḥ)
+[resting](viśrāmyaṃ) [and](ca) [that-self](tat+ātmā) [and](ca) [five-states](pañca+avasthā) [action](kriyā) [born](udbhavāḥ)
 
 ## mukta-m0-p43-v1073
-[forehead](lalāṭe) [throat-heart](kaṇṭhahṛdaye) [navel-linga](nābhiliṅga) [end](avasānakam)
+[at-forehead](lalāṭe) [throat](kaṇṭha) [heart](hṛdaye) [navel](nābhi) [ending-at-genitals](liṅga+avasānakam)
 
 ## mukta-m0-p43-v1074
-[ear-etc-five](śrotrādipañcakaṃ) [and](ca) [indeed](eva) [sound-etc-five](śabdādi) [pañcakaṃ](pañcakaṃ) [becomes](bhavet)
+[ear-etc.](śrotra+ādi) [group-of-five](pañcakaṃ) [and](ca) [indeed](eva) [sound-etc.](śabda+ādi) [group-of-five](pañcakaṃ) [should-be](bhavet)
 
 ## mukta-m0-p43-v1075
-[prāṇa-etc](prāṇādi) [ten-winds](daśavāyuḥ) [ca](ca) [mind-etc](manādi) [purusha-five](puruṣapañcayuk)
+[prāṇa-etc.](prāṇa+ādi) [ten-winds](daśa+vāyuḥ) [and](ca) [mind-etc.](mana+ādi) [with-five-persons](puruṣa+pañca+yuk)

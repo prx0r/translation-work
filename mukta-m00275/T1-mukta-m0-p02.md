@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p02-v26
-[read-or](paṭhedvā) [hold](dhārayet) [best](śreṣṭai) [yantra-stotra](yantrastotrai) [according-to-rite](vidhānataḥ)
+[should-recite-or](paṭhedvā) [should-hold](dhārayet) [by-the-best](śreṣṭai) [yantra+with-hymns](yantrastotrai) [according-to-rule](vidhānataḥ)
 
 ## mukta-m0-p02-v27
-[again](punaḥ) [armor-glory](kavacamāhātmyaṃ) [from-detail-hear](vistarācchṛṇu) [shankara](śaṃkaraḥ)
+[again](punaḥ) [armor+greatness](kavacamāhātmyaṃ) [in-detail](vistarāt) [hear](śṛṇu) [O-Śaṃkara](śaṃkaraḥ)
 
 ## mukta-m0-p02-v28
-[great-goad](mahāṃkuśī) [great-flesh](mahāmāsāṃ) [boon-fear](varadābhaya) [joined](saṃyutām)
+[great-hooked-one](mahāṃkuśī) [great-mother](mahāmāsāṃ) [boon+fearlessness](varadābhaya) [endowed-with](saṃyutām)
 
 ## mukta-m0-p02-v29
-[brahma-rishi-tiger](brahmarṣimuniśārdūla) [there-king](tatrarājo) [rishi-lord](ṛṣeśvaraḥ)
+[Brahman-seer+sage+tiger](brahmarṣi+muni+śārdūla) [there+king](tatra+rājaḥ) [O-sage-lord](ṛṣeśvaraḥ)
 
 ## mukta-m0-p02-v30
-[shameless](nirlajjo) [supreme-bliss](paramānanda) [terrible-form](ghorarūpo) [fear-causing](bhayaṃkaraḥ)
+[shameless](nirlajjaḥ) [supreme-bliss](paramānandaḥ) [terrible+form](ghora+rūpaḥ) [fearsome](bhayaṃkaraḥ)
 
 ## mukta-m0-p02-v31
-[hear-wish](śrotumicchāmi) [o-lord](he) [nātha](nātha) [that-five-limb-fruit](tatpacāṃgaṃ) [years](phalaṃ) [samāḥ](samāḥ)
+[to-hear](śrotum) [I-wish](icchāmi) [O](he) [lord](nātha) [that+five-limbed](tat+pacāṃgaṃ) [fruit](phalaṃ) [always](samāḥ)
 
 ## mukta-m0-p02-v32
-[where](yatra) [mantra-etc](mantrādi) [tantras](tantrāṇāṃ) [what-what](kiṃ) [kiṃ](kiṃ) [time](kāle) [enter](praviśyatām)
+[where](yatra) [mantra+etc.](mantra+ādi) [of-tantras](tantrāṇāṃ) [what](kiṃ) [what](kiṃ) [at-time](kāle) [should-be-entered](praviśyatām)
 
 ## mukta-m0-p02-v33
-[thus](iti) [having-spoken](vaditvā) [world-lord](lokeśaḥ) [standing-before](sthitvāgre) [guru-presence](gurusannidhau)
+[thus](iti) [having-spoken](vaditvā) [lord-of-the-world](loka+īśaḥ) [having-stood](sthitvā) [in-front](agre) [in-guru+presence](guru+sannidhau)
 
 ## mukta-m0-p02-v34
-[by-world-three-worlds-teacher](jagaccailokyaguruṇā) [pleased](prasannaṃ) [becomes](bhavati) [instant](kṣaṇāt)
+[by-world+three-worlds+teacher](jagat+trailokya+guruṇā) [pleased](prasannaṃ) [becomes](bhavati) [in-an-instant](kṣaṇāt)
 
 ## mukta-m0-p02-v35
-[devotion-satisfaction-speech](bhaktisaṃtoṣikāvākyaṃ) [blessed](dhanyo) [me](māṃ) [shiva-servant](bhavaśevakāḥ)
+[devotion+satisfying+speech](bhakti+saṃtoṣikā+vākyaṃ) [blessed](dhanyaḥ) [me](māṃ) [O-Bhava+servants](bhava+śevakāḥ)
 
 ## mukta-m0-p02-v36
-[names](nāmāni) [twelve](dvādaśākhyāni) [first](ādau) [hear](śṛṇu) [maheshvara](maheśvaraḥ)
+[names](nāmāni) [twelve+named](dvādaśa+ākhyāni) [first](ādau) [hear](śṛṇu) [O-great-lord](mahā+īśvaraḥ)
 
 ## mukta-m0-p02-v37
-[third](tṛtīyaṃ) [terrible-form](bhīmarūpā) [ca](ca) [fourth](caturthaṃ) [yogini-lord](yoginīpatiḥ)
+[third](tṛtīyaṃ) [terrible+form](bhīma+rūpā) [and](ca) [fourth](caturthaṃ) [lord-of-yoginīs](yoginī+patiḥ)
 
 ## mukta-m0-p02-v38
-[seventh](saptamaṃ) [supreme-bliss](paramānandamaṣṭamamaṣṭabhairavāḥ)
+[seventh](saptamaṃ) [supreme-bliss](parama+ānandam) [eighth](aṣṭamam) [eight-bhairavas](aṣṭa+bhairavāḥ)
 
 ## mukta-m0-p02-v39
-[terrible](ghora) [eleventh](ekādaśaṃ) [name](nāma) [twelfth](dvādaśā) [sattvic](sātvikī) [equal](samā)
+[terrible](ghoraḥ) [eleventh](ekādaśaṃ) [name](nāma) [twelfth](dvādaśā) [pure](sātvikī) [equal](samā)
 
 ## mukta-m0-p02-v40
-[heart](hṛdayaṃ) [that-declare](tatpravakṣyāmi) [hear](śṛṇu) [disciple](śiṣya) [maheshvara](maheśvaraḥ)
+[heart](hṛdayaṃ) [that](tat) [I-shall-declare](pravakṣyāmi) [hear](śṛṇu) [O-disciple](śiṣya) [O-great-lord](mahā+īśvaraḥ)
 
 ## mukta-m0-p02-v41
-[guru-rudra-dialogue](gururudrasaṃvāde) [shri-unmatta-bhairava-stotra](śrī-unmattabhairavastotraṃ) [auspicious](śubham)
+[in-guru+Rudra+dialogue](guru+rudra+saṃvāde) [auspicious](śubham) [Śrī-Unmatta-Bhairava+hymn](śrī-unmatta+bhairava+stotraṃ)
 
 ## mukta-m0-p02-v42
-[speak](vaktuṃ) [secret](rahasyaṃ) [lord-of-gods](deveśa) [tell](kathayāmi) [hara](hara) [to-you](tvayā)
+[to-tell](vaktuṃ) [secret](rahasyaṃ) [O-lord-of-gods](deva+īśa) [I-tell](kathayāmi) [O-Hara](hara) [to-you](tvayā)
 
 ## mukta-m0-p02-v43
-[its](tasya) [shakti-opposite-limbed](śaktirviruddhāṅgī) [world](loke) [progeny-destroying](santānanāśinī)
+[his](tasya) [power](śaktiḥ) [hostile-bodied](viruddha+aṅgī) [in-the-world](loke) [offspring+destroying](saṃtāna+nāśinī)
 
 ## mukta-m0-p02-v44
-[names](nāmnā) [separate](pṛthak) [pṛthak](pṛthak) [rudra](rudra) [three-worlds-infant-destroying](trailokyaśiśunāśakāḥ)
+[by-name](nāmnā) [separately](pṛthak) [separately](pṛthak) [O-Rudra](rudra) [three-worlds+child+destroyers](trailokya+śiśu+nāśakāḥ)
 
 ## mukta-m0-p02-v45
-[dakini](ḍaṃkinyā) [eldest-son](jyeṣṭhaputrasya) [name](nāmnā) [became](bhūddhūmralocanaḥ) [smoke-eyed](bhūddhūmralocanaḥ)
+[of-Ḍākinī](ḍaṃkinyāḥ) [of-eldest-son](jyeṣṭha+putrasya) [by-name](nāmnā) [became](bhūt) [smoke-eyed](dhūmra+locanaḥ)
 
 ## mukta-m0-p02-v46
-[smoky](dhūmrinī) [that-sister](tadbhaginyā) [vai](vai) [vaka-bandhaka-younger](vakabandhakaniṣṭakaḥ)
+[Dhūmriṇī](dhūmrinī) [his-sister](tat+bhaginyāḥ) [indeed](vai) [Vakabandha+youngest](vakabandha+kaniṣṭakaḥ)
 
 ## mukta-m0-p02-v47
-[with-mothers](mātṛbhyāṃ) [sahito](sahito) [seven-worlds](saptalokenāsaṃti) [progeny](santatim)
+[with-mothers](mātṛbhyāṃ) [accompanied](sahitaḥ) [in-seven-worlds](sapta+lokena) [they-destroy](āsaṃti) [offspring](santatim)
 
 ## mukta-m0-p02-v48
-[therefore](tasmātkāruṇya) [o-rudra](he) [rudra](rudra) [you](bhavānunmattarūpadhṛk)
+[therefore](tasmāt) [compassion](kāruṇya) [O](he) [Rudra](rudra) [being](bhavān) [frenzied+form+bearer](unmatta+rūpa+dhṛk)
 
 ## mukta-m0-p02-v49
-[not](na) [know](jānāmi) [manner](prakāreṇa) [hear](śṛṇo) [atman-me](ātmamāṃ) [pure](pure)
+[not](na) [I-know](jānāmi) [by-method](prakāreṇa) [hear](śṛṇo) [self](ātmamāṃ) [in-city](pure)
 
 ## mukta-m0-p02-v50
-[hear](śṛṇu) [disciple](śiṣya) [your-play](bhavallīlā) [great-soul](mahātmo) [matta-bhairava](mattabhairavaḥ)
+[hear](śṛṇu) [O-disciple](śiṣya) [your+play](bhavat+līlā) [great-souled](mahā+ātmā) [frenzied-Bhairava](matta+bhairavaḥ)
