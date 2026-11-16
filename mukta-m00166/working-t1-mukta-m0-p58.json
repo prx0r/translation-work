@@ -15,12 +15,8 @@
 "quick_gloss": "184"
 },
 {
-"surface": "su",
-"quick_gloss": "good"
-},
-{
-"surface": "vṛṣṭiḥ",
-"quick_gloss": "rain"
+"surface": "suvṛṣṭiḥ",
+"quick_gloss": "good-rain"
 }
 ]
 },
@@ -44,16 +40,12 @@
 "quick_gloss": "cause"
 },
 {
-"surface": "su",
-"quick_gloss": "well"
-},
-{
-"surface": "vikāsi",
-"quick_gloss": "blooming"
+"surface": "su+vikāsi",
+"quick_gloss": "of-well-expanded"
 },
 {
 "surface": "dṛṣṭeḥ",
-"quick_gloss": "of-sight"
+"quick_gloss": "sight"
 }
 ]
 },
@@ -66,7 +58,7 @@
 "tokens": [
 {
 "surface": "hetoḥ",
-"quick_gloss": "from-cause"
+"quick_gloss": "because-of-cause"
 },
 {
 "surface": "durga",
@@ -78,11 +70,11 @@
 },
 {
 "surface": "api",
-"quick_gloss": "also"
+"quick_gloss": "even"
 },
 {
 "surface": "pravitatā",
-"quick_gloss": "spread"
+"quick_gloss": "spread-out"
 },
 {
 "surface": "bhaktiḥ",
@@ -143,12 +135,12 @@
 "quick_gloss": "increasing"
 },
 {
-"surface": "sā",
-"quick_gloss": "she"
-},
-{
 "surface": "asti",
 "quick_gloss": "is"
+},
+{
+"surface": "sā",
+"quick_gloss": "she"
 }
 ]
 },
@@ -169,7 +161,7 @@
 },
 {
 "surface": "dayā",
-"quick_gloss": "compassion"
+"quick_gloss": "by-compassion"
 },
 {
 "surface": "baddhaṃ",
@@ -201,20 +193,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "a",
-"quick_gloss": "letter-a"
+"surface": "akārā",
+"quick_gloss": "of-the-letter-a"
 },
 {
-"surface": "kārā",
+"surface": "rūpā",
 "quick_gloss": "form"
-},
-{
-"surface": "sā",
-"quick_gloss": "she"
 },
 {
 "surface": "asti",
 "quick_gloss": "is"
+},
+{
+"surface": "sā",
+"quick_gloss": "she"
 }
 ]
 },
@@ -235,7 +227,7 @@
 },
 {
 "surface": "sarva",
-"quick_gloss": "all"
+"quick_gloss": "of-all"
 },
 {
 "surface": "varṇa",
@@ -254,8 +246,8 @@
 "quick_gloss": "she"
 },
 {
-"surface": "ākārā",
-"quick_gloss": "of-a-form"
+"surface": "akārā",
+"quick_gloss": "as-a"
 },
 {
 "surface": "iyaṃ",
@@ -266,12 +258,12 @@
 "quick_gloss": "is-sung"
 },
 {
-"surface": "yogi",
-"quick_gloss": "by-yoga"
+"surface": "nāthaiḥ",
+"quick_gloss": "by-lords"
 },
 {
-"surface": "nāthaiḥ",
-"quick_gloss": "lords"
+"surface": "yogi",
+"quick_gloss": "of-yogins"
 }
 ]
 },
@@ -283,20 +275,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "i",
-"quick_gloss": "letter-i"
+"surface": "ikārā",
+"quick_gloss": "of-the-letter-i"
 },
 {
-"surface": "kārā",
+"surface": "rūpā",
 "quick_gloss": "form"
-},
-{
-"surface": "sā",
-"quick_gloss": "she"
 },
 {
 "surface": "asti",
 "quick_gloss": "is"
+},
+{
+"surface": "sā",
+"quick_gloss": "she"
 }
 ]
 },
@@ -312,24 +304,20 @@
 "quick_gloss": "delightful"
 },
 {
-"surface": "i+kārā",
-"quick_gloss": "of-i-form"
+"surface": "ikārā",
+"quick_gloss": "of-the-letter-i"
 },
 {
 "surface": "sā",
 "quick_gloss": "she"
 },
 {
-"surface": "iyam",
+"surface": "iyaṃ",
 "quick_gloss": "this"
 },
 {
-"surface": "ā",
-"quick_gloss": "ā"
-},
-{
-"surface": "kāra",
-"quick_gloss": "form"
+"surface": "ākāra",
+"quick_gloss": "by-a"
 },
 {
 "surface": "hīnā",
@@ -345,20 +333,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "u",
-"quick_gloss": "letter-u"
+"surface": "ukārā",
+"quick_gloss": "of-the-letter-u"
 },
 {
-"surface": "kārā",
+"surface": "rūpā",
 "quick_gloss": "form"
-},
-{
-"surface": "sā",
-"quick_gloss": "she"
 },
 {
 "surface": "asti",
 "quick_gloss": "is"
+},
+{
+"surface": "sā",
+"quick_gloss": "she"
 }
 ]
 },
@@ -370,8 +358,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "sa+u+kārā",
-"quick_gloss": "with-u-form"
+"surface": "sa",
+"quick_gloss": "with-u"
+},
+{
+"surface": "ukārā",
+"quick_gloss": "of-the-letter-u"
 },
 {
 "surface": "iyaṃ",
@@ -382,12 +374,12 @@
 "quick_gloss": "proclaimed"
 },
 {
-"surface": "mūrti",
-"quick_gloss": "by-form"
+"surface": "vidbhiḥ",
+"quick_gloss": "by-knowers"
 },
 {
-"surface": "vidbhiḥ",
-"quick_gloss": "knowers"
+"surface": "mūrti",
+"quick_gloss": "of-form"
 }
 ]
 },
@@ -399,16 +391,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "ai",
-"quick_gloss": "letter-ai"
-},
-{
-"surface": "kāra",
-"quick_gloss": "form"
+"surface": "ai+kāra",
+"quick_gloss": "of-the-letter-ai"
 },
 {
 "surface": "rūpiṇī",
-"quick_gloss": "embodied"
+"quick_gloss": "form"
+},
+{
+"surface": "asti",
+"quick_gloss": "is"
 },
 {
 "surface": "sā",
@@ -433,7 +425,7 @@
 },
 {
 "surface": "su+bhavyānāṃ",
-"quick_gloss": "of-the-fortunate"
+"quick_gloss": "of-the-very-auspicious"
 },
 {
 "surface": "devatā",
@@ -441,11 +433,11 @@
 },
 {
 "surface": "ai+kāra",
-"quick_gloss": "letter-ai"
+"quick_gloss": "of-the-letter-ai"
 },
 {
 "surface": "rūpiṇī",
-"quick_gloss": "embodied"
+"quick_gloss": "form"
 }
 ]
 },
@@ -457,20 +449,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "hrīṃ",
-"quick_gloss": "hrīṃ"
+"surface": "hrīṃ+kārī",
+"quick_gloss": "of-the-syllable-hrīṃ"
 },
 {
-"surface": "kārī",
-"quick_gloss": "syllable"
+"surface": "asti",
+"quick_gloss": "is"
 },
 {
 "surface": "sā",
 "quick_gloss": "she"
 },
 {
-"surface": "asti",
-"quick_gloss": "is"
+"surface": "iti",
+"quick_gloss": "thus"
 }
 ]
 },
@@ -482,28 +474,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "hrīṃ",
-"quick_gloss": "hrīṃ"
-},
-{
-"surface": "kārī",
-"quick_gloss": "syllable"
+"surface": "hrīṃ+kārī",
+"quick_gloss": "of-the-syllable-hrīṃ"
 },
 {
 "surface": "iyaṃ",
 "quick_gloss": "this"
 },
 {
-"surface": "hṛd",
-"quick_gloss": "heart"
-},
-{
-"surface": "gatā",
-"quick_gloss": "gone"
+"surface": "hṛd+gatā",
+"quick_gloss": "gone-to-heart"
 },
 {
 "surface": "naḥ",
-"quick_gloss": "to-us"
+"quick_gloss": "for-us"
 },
 {
 "surface": "sadā",
@@ -511,7 +495,7 @@
 },
 {
 "surface": "astu",
-"quick_gloss": "be"
+"quick_gloss": "may-be"
 }
 ]
 },
@@ -531,12 +515,12 @@
 "quick_gloss": "form"
 },
 {
-"surface": "sā",
-"quick_gloss": "she"
-},
-{
 "surface": "asti",
 "quick_gloss": "is"
+},
+{
+"surface": "sā",
+"quick_gloss": "she"
 }
 ]
 },
@@ -560,12 +544,12 @@
 "quick_gloss": "form"
 },
 {
-"surface": "nigama",
-"quick_gloss": "of-scripture"
+"surface": "drumasya",
+"quick_gloss": "of-the-tree"
 },
 {
-"surface": "drumasya",
-"quick_gloss": "tree"
+"surface": "nigama",
+"quick_gloss": "of-scripture"
 }
 ]
 },
@@ -577,20 +561,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "klīṃ",
-"quick_gloss": "klīṃ"
+"surface": "klīṃ+kārā",
+"quick_gloss": "of-the-syllable-klīṃ"
 },
 {
-"surface": "kārā",
-"quick_gloss": "syllable"
+"surface": "asti",
+"quick_gloss": "is"
 },
 {
 "surface": "sā",
 "quick_gloss": "she"
 },
 {
-"surface": "asti",
-"quick_gloss": "is"
+"surface": "iti",
+"quick_gloss": "thus"
 }
 ]
 },
@@ -759,16 +743,16 @@
 "quick_gloss": "imperishable"
 },
 {
-"surface": "akṣarā",
-"quick_gloss": "syllable"
+"surface": "asti",
+"quick_gloss": "is"
 },
 {
 "surface": "sā",
 "quick_gloss": "she"
 },
 {
-"surface": "asti",
-"quick_gloss": "is"
+"surface": "iti",
+"quick_gloss": "thus"
 }
 ]
 }

@@ -2,61 +2,61 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p58-v1426
-[page](p.) [184](184)) [good](su) [rain](vṛṣṭiḥ)
+[page](p.) [184](184)) [good-rain](suvṛṣṭiḥ)
 
 ## mukta-m0-p58-v1427
-[nourishment](puṣṭi) [one](eka) [cause](hetuḥ) [well](su) [blooming](vikāsi) [of-sight](dṛṣṭeḥ)
+[nourishment](puṣṭi) [one](eka) [cause](hetuḥ) [of-well-expanded](su+vikāsi) [sight](dṛṣṭeḥ)
 
 ## mukta-m0-p58-v1428
-[from-cause](hetoḥ) [in-difficult](durga) [time](kalau) [also](api) [spread](pravitatā) [devotion](bhaktiḥ) [nine](nava) [limbed](aṅkā) [went](agamat)
+[because-of-cause](hetoḥ) [in-difficult](durga) [time](kalau) [even](api) [spread-out](pravitatā) [devotion](bhaktiḥ) [nine](nava) [limbed](aṅkā) [went](agamat)
 
 ## mukta-m0-p58-v1429
 [ninth](navamī) [devotion](bhaktiḥ) [is](asti) [thus](iti)
 
 ## mukta-m0-p58-v1430
-[crop](sasya) [increasing](varddhinī) [she](sā) [is](asti)
+[crop](sasya) [increasing](varddhinī) [is](asti) [she](sā)
 
 ## mukta-m0-p58-v1431
-[seed-ness](bīja+tvaṃ) [which](yat) [compassion](dayā) [bound](baddhaṃ) [she](sā) [goddess](devī) [crop](sasya) [increasing](varddhinī)
+[seed-ness](bīja+tvaṃ) [which](yat) [by-compassion](dayā) [bound](baddhaṃ) [she](sā) [goddess](devī) [crop](sasya) [increasing](varddhinī)
 
 ## mukta-m0-p58-v1432
-[letter-a](a) [form](kārā) [she](sā) [is](asti)
+[of-the-letter-a](akārā) [form](rūpā) [is](asti) [she](sā)
 
 ## mukta-m0-p58-v1433
-[pride](garvaḥ) [not-little](akharvaḥ) [all](sarva) [letters](varṇa) [one](eka) [first](pūrvā) [she](sā) [of-a-form](ākārā) [this](iyaṃ) [is-sung](gīyate) [by-yoga](yogi) [lords](nāthaiḥ)
+[pride](garvaḥ) [not-little](akharvaḥ) [of-all](sarva) [letters](varṇa) [one](eka) [first](pūrvā) [she](sā) [as-a](akārā) [this](iyaṃ) [is-sung](gīyate) [by-lords](nāthaiḥ) [of-yogins](yogi)
 
 ## mukta-m0-p58-v1434
-[letter-i](i) [form](kārā) [she](sā) [is](asti)
+[of-the-letter-i](ikārā) [form](rūpā) [is](asti) [she](sā)
 
 ## mukta-m0-p58-v1435
-[delightful](ramyā) [of-i-form](i+kārā) [she](sā) [this](iyam) [ā](ā) [form](kāra) [devoid](hīnā)
+[delightful](ramyā) [of-the-letter-i](ikārā) [she](sā) [this](iyaṃ) [by-a](ākāra) [devoid](hīnā)
 
 ## mukta-m0-p58-v1436
-[letter-u](u) [form](kārā) [she](sā) [is](asti)
+[of-the-letter-u](ukārā) [form](rūpā) [is](asti) [she](sā)
 
 ## mukta-m0-p58-v1437
-[with-u-form](sa+u+kārā) [this](iyaṃ) [proclaimed](kīrtitā) [by-form](mūrti) [knowers](vidbhiḥ)
+[with-u](sa) [of-the-letter-u](ukārā) [this](iyaṃ) [proclaimed](kīrtitā) [by-knowers](vidbhiḥ) [of-form](mūrti)
 
 ## mukta-m0-p58-v1438
-[letter-ai](ai) [form](kāra) [embodied](rūpiṇī) [she](sā)
+[of-the-letter-ai](ai+kāra) [form](rūpiṇī) [is](asti) [she](sā)
 
 ## mukta-m0-p58-v1439
-[ever](navaṃ) [new](navaṃ) [of-the-fortunate](su+bhavyānāṃ) [goddess](devatā) [letter-ai](ai+kāra) [embodied](rūpiṇī)
+[ever](navaṃ) [new](navaṃ) [of-the-very-auspicious](su+bhavyānāṃ) [goddess](devatā) [of-the-letter-ai](ai+kāra) [form](rūpiṇī)
 
 ## mukta-m0-p58-v1440
-[hrīṃ](hrīṃ) [syllable](kārī) [she](sā) [is](asti)
+[of-the-syllable-hrīṃ](hrīṃ+kārī) [is](asti) [she](sā) [thus](iti)
 
 ## mukta-m0-p58-v1441
-[hrīṃ](hrīṃ) [syllable](kārī) [this](iyaṃ) [heart](hṛd) [gone](gatā) [to-us](naḥ) [always](sadā) [be](astu)
+[of-the-syllable-hrīṃ](hrīṃ+kārī) [this](iyaṃ) [gone-to-heart](hṛd+gatā) [for-us](naḥ) [always](sadā) [may-be](astu)
 
 ## mukta-m0-p58-v1442
-[seed](bīja) [form](rūpā) [she](sā) [is](asti)
+[seed](bīja) [form](rūpā) [is](asti) [she](sā)
 
 ## mukta-m0-p58-v1443
-[she](sā) [seed](bīja) [form](rūpā) [of-scripture](nigama) [tree](drumasya)
+[she](sā) [seed](bīja) [form](rūpā) [of-the-tree](drumasya) [of-scripture](nigama)
 
 ## mukta-m0-p58-v1444
-[klīṃ](klīṃ) [syllable](kārā) [she](sā) [is](asti)
+[of-the-syllable-klīṃ](klīṃ+kārā) [is](asti) [she](sā) [thus](iti)
 
 ## mukta-m0-p58-v1445
 [always](nityaṃ) [from-desire](kāmāt) [him](taṃ) [how](kathaṃ) [not](na) [they-remember](smaranti)
@@ -74,4 +74,4 @@
 [all](sarva) [syllable](akṣara) [consisting-of](mayī) [power](śaktiḥ) [may-shine](sphuratāt) [in-heart](hṛdaye) [my](mama)
 
 ## mukta-m0-p58-v1450
-[imperishable](akṣarā) [syllable](akṣarā) [she](sā) [is](asti)
+[imperishable](akṣarā) [is](asti) [she](sā) [thus](iti)
