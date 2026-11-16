@@ -2,13 +2,13 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p71-v1751
-[thus](iti) [having-heard](ākarṇya) [sage-son+speech](muni+suta+vākyam) [he](saḥ) [and](ca) [earth-lord](mahī+patiḥ)
+[thus](iti) [having-heard](ākarṇya) [sage-son+speech](muni+suta+vākyam) [he](saḥ) [and](ca) [great+king](mahī+patiḥ)
 
 ## mukta-m0-p71-v1752
 [therefore](tasmāt) [transformation+other+attainment](pariṇāma+antara+prāpteḥ) [such](īdṛśaḥ) [like-unprecedented](apūrva+vat)
 
 ## mukta-m0-p71-v1753
-[sage-son+consoled](muni+putra+samāśvastaḥ) [wisdom](prajñām) [having-attained](āsādya) [earth-lord](bhū+patiḥ)
+[sage-son+consoled](muni+putra+samāśvastaḥ) [wisdom](prajñām) [having-attained](āsādya) [king](bhū+patiḥ)
 
 ## mukta-m0-p71-v1754
 [brother](bhrātaram) [brother+sons](bhrātṛ+putrān) [and](ca) [wives](dārān) [of-own-self](sva+ātmanaḥ) [indeed](eva) [and](ca)
@@ -35,28 +35,28 @@
 [that](tat) [therefore](tasmāt)
 
 ## mukta-m0-p71-v1762
-[why](kutas) [you](tvam) [ask](pṛcchasi) [again](punaḥ) [all+destruction](sarva+nāśe) [indeed](hi) [being-present](upasthite)
+[why](kutaḥ) [you](tvam) [ask](pṛcchasi) [again](punaḥ) [total-destruction](sarva+nāśe) [when-present](hy+upasthite)
 
 ## mukta-m0-p71-v1763
-[O-king](rājan) [say](brūhi) [what](kim) [this](etat) [of-you](te) [family+duty](kula+dharmaḥ) [eternal](sanātanaḥ)
+[O-king](rājan) [tell](brūhi) [what](kim) [this](etat) [of-you](te) [family-duty](kula+dharmaḥ) [eternal](sanātanaḥ)
 
 ## mukta-m0-p71-v1764
-[this](etat) [own-person+being-destroyed](sva+jane) [naṣṭe](naṣṭe) [to-be-grieved](śocitavyam) [thus](iti) [eternal](sanātanaḥ) [tradition+come](paramparā+āgataḥ)
+[this](etat) [own-people](sva+jane) [being-destroyed](naṣṭe) [to-be-grieved](śocitavyam) [thus](iti) [eternal](sanātanaḥ) [traditionally-handed-down](paramparā+āgataḥ)
 
 ## mukta-m0-p71-v1765
-[or](athavā) [in-grieving](śocite) [lost](naṣṭam) [is-obtained](prāpyate) [again](bhūyaḥ) [indeed](eva) [that](tat)
+[or](athavā) [when-grieved](śocite) [lost](naṣṭam) [is-obtained](prāpyate) [again](bhūyaḥ) [indeed](eva) [that](tat)
 
 ## mukta-m0-p71-v1766
-[in-destroyed](naṣṭeṣu) [relatives](bandhuṣu) [if](yadi) [to-be-grieved](śocitavyam) [then](tadā) [listen](śṛṇu)
+[when-destroyed](naṣṭeṣu) [relatives](bandhuṣu) [if](yadi) [to-be-grieved](śocitavyam) [then](tadā) [listen](śṛṇu)
 
 ## mukta-m0-p71-v1767
 [that](tat) [always](sarvadā) [to-be-grieved](śocitavyam) [why](kutaḥ) [before](pūrvam) [not](na) [grieved](śocitam)
 
 ## mukta-m0-p71-v1768
-[it-may-be](bhavet) [thus](iti) [purport](tātparyam)
+[it-would-be](bhavet) [thus](iti) [purport](tātparyam)
 
 ## mukta-m0-p71-v1769
-[of-mother+father](mātā+pitroḥ) [of-self](svasya) [or](vā) [also](api) [excrement+worms](purīṣa+kṛmayaḥ) [indeed](hi) [which](ye)
+[of-mother-father](mātā+pitroḥ) [of-self](svasya) [or](vā) [also](api) [feces+worms](purīṣa+kṛmayaḥ) [indeed](hi) [which](ye)
 
 ## mukta-m0-p71-v1770
 [brother+other+kinship](bhrātr+ādi+bandhutvam) [of-me](mama) [thus](iti) [if](cet) [says](āha) [mother](mātā) [thus](iti)
@@ -71,7 +71,7 @@
 [body](dehaḥ) [indeed](eva) [I](aham) [thus](iti) [if](cet) [says](āha) [body](dehaḥ) [aggregate+form](saṃghāta+rūpakaḥ) [thus](iti)
 
 ## mukta-m0-p71-v1774
-[every-moment](prati+kṣaṇam) [indeed](tu) [one-part+destruction](eka+deśa+nāśaḥ) [of-body](dehasya) [established](bhāvitaḥ)
+[every-moment](prati+kṣaṇam) [indeed](tu) [one-part+destruction](eka+deśa+nāśaḥ) [of-body](dehasya) [ascertained](bhāvitaḥ)
 
 ## mukta-m0-p71-v1775
 [every-moment](prati+kṣaṇam) [thus](iti)
