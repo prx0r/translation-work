@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p99-v2451
-[by-causes](kāraṇaiḥ) [with-purity](śuddhisahitaiḥ) [having-worshipped](abhyarcya) [choose](vṛṇuyād) [teacher](gurum)
+[with-ingredients](kāraṇaiḥ) [purification+accompanied](śuddhisahitaiḥ) [having-worshipped](abhyarcya) [should-choose](vṛṇuyāt) [guru](gurum)
 
 ## mukta-m0-p99-v2452
-[with-variegated-banners-flags](citradhvajapatākābhiḥ) [with-fruits-sprouts-beauty](phalapallavaśobhite)
+[variegated+flags](citradhvaja) [with-banners](patākābhiḥ) [fruit](phala) [sprout](pallava) [adorned](śobhite)
 
 ## mukta-m0-p99-v2453
-[with-ghee-lamp-rows](ghṛtapradīpāvalibhiḥ) [darkness-free](tamoleśavivarjite)
+[ghee](ghṛta) [lamp](pradīpa) [with-rows](āvalibhiḥ) [darkness](tamaḥ) [trace](leśa) [devoid](vivarjite)
 
 ## mukta-m0-p99-v2454
-[with-fans-chamaras-peacock-tails-mirrors-etc](vyajanaiścāmarairbarhairdarpaṇādyairalaṅkṛte)
+[with-fans](vyajanaiḥ) [with-yak-tail-whisks](cāmaraiḥ) [with-peacock-feathers](barhaiḥ) [mirror](darpaṇa) [and-others](ādyaiḥ) [decorated](alaṅkṛte)
 
 ## mukta-m0-p99-v2455
-[make](racayen) [earthen](mṛṇmayīṃ) [there](tatra) [with-powders-unbroken-rice-born](cūrṇairakṣatasambhavaiḥ)
+[should-make](racayet) [made-of-clay](mṛṇmayīṃ) [there](tatra) [with-powders](cūrṇaiḥ) [unbroken-rice](akṣata) [produced-from](sambhavaiḥ)
 
 ## mukta-m0-p99-v2456
-[i-will-do](kariṣye) [thus](iti) [resolve](saṅkalpam) [perform](ācaret) [do](kuryāt)
+[I-shall-perform](kariṣye) [thus](iti) [resolve](saṅkalpam) [should-perform](ācaret) [should-do](kuryāt)
 
 ## mukta-m0-p99-v2457
-[with-cloths-etc](vastrādibhiḥ) [choose](vṛṇuyāt)
+[with-garments](vastra) [and-others](ādibhiḥ) [should-choose](vṛṇuyāt)
 
 ## mukta-m0-p99-v2458
-[with-variegated-banners-flags](citradhvajapatākābhiḥ) [and](ca) [beautified](śobhite)
+[variegated+flags](citradhvaja) [with-banners](patākābhiḥ) [and](ca) [adorned](śobhite)
 
 ## mukta-m0-p99-v2459
-[mandala](maṇḍalaṃ) [all-auspicious](sarvatobhadraṃ) [make](vidadyāt) [holy-teacher](śrīguruḥ) [then](tataḥ)
+[diagram](maṇḍalaṃ) [sarvatobhadra](sarvatobhadraṃ) [should-give](vidadyāt) [venerable+guru](śrīguruḥ) [then](tataḥ)
 
 ## mukta-m0-p99-v2460
-[having-done](kṛtvā) [previously-spoken-mantra](pūrvoktamantreṇa) [five-elements](pañcatattvāni) [purify](śodhayet)
+[having-done](kṛtvā) [previously+stated](pūrvokta) [with-mantra](mantreṇa) [five+elements](pañcatattvāni) [should-purify](śodhayet)
 
 ## mukta-m0-p99-v2461
-[golden](svārṇaṃ) [or](vā) [silver](rājataṃ) [copper](tāmraṃ) [earthen](mṛṇmayaṃ) [pot-indeed](ghaṭameva) [or](vā)
+[made-of-gold](svārṇaṃ) [or](vā) [made-of-silver](rājataṃ) [copper](tāmraṃ) [made-of-clay](mṛṇmayaṃ) [pot](ghaṭam) [indeed](eva) [or](vā)
 
 ## mukta-m0-p99-v2462
-[place](sthāpayet) [brahma-seed](brahmabījena) [with-vermilion](sindūreṇa) [mark](aṅkayet) [with-prosperity](śriyā)
+[should-place](sthāpayet) [with-brahma-seed](brahmabījena) [with-vermilion](sindūreṇa) [should-mark](aṅkayet) [with-śrī](śriyā)
 
 ## mukta-m0-p99-v2463
-[root-mantra-three-recitations](mūlamantratrijāpena) [fill](pūrayet) [by-cause](kāraṇena) [that](tam)
+[root+mantra](mūlamantra) [threefold+recitation](trijāpena) [should-fill](pūrayet) [with-ingredient](kāraṇena) [that](tam)
 
 ## mukta-m0-p99-v2464
-[nine-gems](navaratnaṃ) [gold](suvarṇaṃ) [or](vā) [into-pot](ghaṭamadhye) [cast](viniḥkṣipet)
+[nine+gems](navaratnaṃ) [gold](suvarṇaṃ) [or](vā) [pot](ghaṭa) [in-middle](madhye) [should-place](viniḥkṣipet)
 
 ## mukta-m0-p99-v2465
-[dark-green](śyāmalairharidvarṇaiḥ)
+[with-dark-green](śyāmalaiḥ) [yellow+colored](haridvarṇaiḥ)
 
 ## mukta-m0-p99-v2466
-[previously-spoken-mantra](pūrvoktamantreṇa) [wine-etc](madyādīni) [five-elements](pañcatattvāni) [purify](śodhayet)
+[previously+stated](pūrvokta) [with-mantra](mantreṇa) [wine](madya) [and-others](ādīni) [five+elements](pañcatattvāni) [should-purify](śodhayet)
 
 ## mukta-m0-p99-v2467
-[with-vermilion](sindūreṇa) [mark](aṅkayet) [ca](ca)
+[with-vermilion](sindūreṇa) [should-mark](aṅkayet) [and](ca)
 
 ## mukta-m0-p99-v2468
-[sprout](pallavaṃ) [its-mouth](tanmukhe) [give](dadyāt) [by-speech-born](vāgbhavena) [compassion-treasury](kṛpānidhiḥ)
+[sprout](pallavaṃ) [on-its-mouth](tanmukhe) [should-place](dadyāt) [with-vāgbhava](vāgbhavena) [compassion+treasure](kṛpānidhiḥ)
 
 ## mukta-m0-p99-v2469
-[rama](rāmāṃ) [maya](māyāṃ) [having-uttered](samuccārya) [place](sthāpayet) [on-sprout](pallavopari)
+[rāmā](rāmāṃ) [māyā](māyāṃ) [having-uttered](samuccārya) [should-place](sthāpayet) [on-sprout](pallavopari)
 
 ## mukta-m0-p99-v2470
-[shakti](śaktau) [red](raktaṃ) [shiva](śive) [vishnu](viṣṇau) [white-garment](śvetavāsaḥ) [declared](prakīrtitam)
+[for-śakti](śaktau) [red](raktaṃ) [for-śiva](śive) [for-viṣṇu](viṣṇau) [white+garment](śvetavāsaḥ) [is-declared](prakīrtitam)
 
 ## mukta-m0-p99-v2471
-[having-cast](niḥkṣipya) [five-elements](pañcatattvāni) [nine-vessels](navapātrāṇi) [arrange](vinyaset)
+[having-placed](niḥkṣipya) [five+elements](pañcatattvāni) [nine+vessels](navapātrāṇi) [should-arrange](vinyaset)
 
 ## mukta-m0-p99-v2472
-[holy-vessel](śrīpātraṃ) [great-conch](mahāśaṅkhaṃ) [copper-ones](tāmrāṇyanyāni) [prepare](kalpayet)
+[venerable+vessel](śrīpātram) [indeed](tu) [great+conch](mahāśaṅkhaṃ) [copper-made](tāmrāṇi) [others](anyāni) [should-arrange](kalpayet)
 
 ## mukta-m0-p99-v2473
-[into-pot](ghaṭamadhye) [nine-gems](navaratnaṃ) [gold](suvarṇaṃ) [or](vā) [cast](viniḥkṣipet)
+[pot](ghaṭa) [in-middle](madhye) [nine+gems](navaratnaṃ) [gold](suvarṇaṃ) [or](vā) [should-place](viniḥkṣipet)
 
 ## mukta-m0-p99-v2474
-[its-mouth](tanmukhe) [pot-mouth](ghaṭamukhe) [by-speech-born](vāgbhavena) [aim-iti-mantra](aimiti) [mantra](mantreṇa)
+[on-its-mouth](tanmukhe) [on-pot-mouth](ghaṭamukhe) [with-vāgbhava](vāgbhavena) [aiṃ+thus](aimiti) [with-mantra](mantreṇa)
 
 ## mukta-m0-p99-v2475
-[place](sthāpayet)
+[should-place](sthāpayet)
