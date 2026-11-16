@@ -8,11 +8,11 @@
 "tokens": [
 {
 "surface": "draḍhayati",
-"quick_gloss": "confirms"
+"quick_gloss": "strengthens"
 },
 {
 "surface": "nūnam",
-"quick_gloss": "indeed"
+"quick_gloss": "certainly"
 },
 {
 "surface": "iti",
@@ -48,7 +48,7 @@
 "quick_gloss": "body"
 },
 {
-"surface": "rāja+kumārakaḥ",
+"surface": "rājakumārakaḥ",
 "quick_gloss": "prince"
 }
 ]
@@ -85,12 +85,8 @@
 "quick_gloss": "indeed"
 },
 {
-"surface": "deham",
-"quick_gloss": "body"
-},
-{
-"surface": "ātmatvena",
-"quick_gloss": "as-self"
+"surface": "deham+ātmatvena",
+"quick_gloss": "as-body-self"
 },
 {
 "surface": "dadhyau",
@@ -98,7 +94,7 @@
 },
 {
 "surface": "cintayāmāsa",
-"quick_gloss": "thought"
+"quick_gloss": "reflected"
 }
 ]
 },
@@ -144,7 +140,7 @@
 "tokens": [
 {
 "surface": "hemalekhā+uktam",
-"quick_gloss": "Hemalekha-spoken"
+"quick_gloss": "Hemalekha's-statement"
 },
 {
 "surface": "smṛtvā",
@@ -185,7 +181,7 @@
 },
 {
 "surface": "nūnam",
-"quick_gloss": "indeed"
+"quick_gloss": "certainly"
 },
 {
 "surface": "chinnam",
@@ -197,7 +193,7 @@
 },
 {
 "surface": "tu",
-"quick_gloss": "but"
+"quick_gloss": "indeed"
 },
 {
 "surface": "lakṣyate",
@@ -278,8 +274,8 @@
 "quick_gloss": "indeed"
 },
 {
-"surface": "syām",
-"quick_gloss": "would-be"
+"surface": "syāṃ",
+"quick_gloss": "I-may-be"
 },
 {
 "surface": "prāṇaḥ",
@@ -295,7 +291,7 @@
 },
 {
 "surface": "tathāvidhaḥ",
-"quick_gloss": "of-such-nature"
+"quick_gloss": "of-that-kind"
 }
 ]
 },
@@ -315,7 +311,7 @@
 "quick_gloss": "deep-sleep"
 },
 {
-"surface": "janma+antaram",
+"surface": "janma+antaraṃ",
 "quick_gloss": "another-birth"
 },
 {
@@ -324,11 +320,11 @@
 },
 {
 "surface": "tathāvidhaḥ",
-"quick_gloss": "of-such-nature"
+"quick_gloss": "of-that-kind"
 },
 {
 "surface": "mamatva+ādi+āśrayaḥ",
-"quick_gloss": "abode-of-mineness-etc"
+"quick_gloss": "abode-of-mineness-etc."
 }
 ]
 },
@@ -345,7 +341,7 @@
 },
 {
 "surface": "deha+ādi+buddhi+antāt",
-"quick_gloss": "from-body-etc-up-to-intellect"
+"quick_gloss": "from-body-etc.-ending-with-intellect"
 },
 {
 "surface": "anyaḥ",
@@ -374,7 +370,7 @@
 "tokens": [
 {
 "surface": "mama",
-"quick_gloss": "of-mine"
+"quick_gloss": "as-mine"
 },
 {
 "surface": "īritam",
@@ -386,7 +382,7 @@
 },
 {
 "surface": "uktam",
-"quick_gloss": "spoken"
+"quick_gloss": "stated"
 },
 {
 "surface": "ataḥ",
@@ -394,7 +390,7 @@
 },
 {
 "surface": "deha+ādeḥ+mamatva+āśrayatvāt",
-"quick_gloss": "because-of-being-abode-of-mineness-of-body-etc"
+"quick_gloss": "because-of-being-abode-of-mineness-of-body-etc."
 }
 ]
 },
@@ -488,8 +484,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "kasmāt+nimittāt",
+"surface": "kasmāt",
 "quick_gloss": "for-what-reason"
+},
+{
+"surface": "nimittāt",
+"quick_gloss": "nimittāt"
 },
 {
 "surface": "na",
@@ -513,11 +513,7 @@
 "quick_gloss": "vital-breath"
 },
 {
-"surface": "tu",
-"quick_gloss": "but"
-},
-{
-"surface": "acā",
+"surface": "tvacā",
 "quick_gloss": "by-skin"
 },
 {
@@ -591,8 +587,16 @@
 "quick_gloss": "of-these"
 },
 {
-"surface": "bhāsanāt+eva",
+"surface": "bhāsanāt",
 "quick_gloss": "by-shining-alone"
+},
+{
+"surface": "eva",
+"quick_gloss": "indeed"
+},
+{
+"surface": "na",
+"quick_gloss": "not"
 },
 {
 "surface": "ātmā",
@@ -716,8 +720,12 @@
 "quick_gloss": "mental"
 },
 {
-"surface": "manaḥ+vikāra+ātmaka+tamaḥ",
+"surface": "manaḥ+vikāra+ātmaka",
 "quick_gloss": "darkness-consisting-of-mental-modification"
+},
+{
+"surface": "tamaḥ",
+"quick_gloss": "darkness"
 },
 {
 "surface": "yena",
@@ -734,7 +742,7 @@
 "tokens": [
 {
 "surface": "nūnam",
-"quick_gloss": "indeed"
+"quick_gloss": "certainly"
 },
 {
 "surface": "punaḥ",
@@ -791,7 +799,7 @@
 },
 {
 "surface": "bhrama+janitam",
-"quick_gloss": "born-of-delusion"
+"quick_gloss": "produced-by-delusion"
 }
 ]
 },
@@ -808,7 +816,7 @@
 },
 {
 "surface": "an+ādi+antam",
-"quick_gloss": "without-beginning-and-end"
+"quick_gloss": "without-beginning-or-end"
 },
 {
 "surface": "bhāsvaram",

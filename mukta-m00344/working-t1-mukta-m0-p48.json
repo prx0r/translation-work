@@ -7,24 +7,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "prāṇāyāma",
-"quick_gloss": "breath-control"
-},
-{
-"surface": "nirodha+ādi",
-"quick_gloss": "restraint+etc."
-},
-{
-"surface": "abhyāsena",
-"quick_gloss": "by-practice"
+"surface": "prāṇāyāma-nirodha-ādi-abhyāsena",
+"quick_gloss": "breath-control+restraint+etc+practice-by"
 },
 {
 "surface": "bhāsvaraṃ",
 "quick_gloss": "luminous"
 },
 {
-"surface": "prakāśa+eka+nibiḍam",
-"quick_gloss": "light+only+dense"
+"surface": "prakāśa-eka-nibiḍam",
+"quick_gloss": "light+sole+dense"
 }
 ]
 },
@@ -45,7 +37,7 @@
 },
 {
 "surface": "vividhaṃ",
-"quick_gloss": "various"
+"quick_gloss": "manifold"
 },
 {
 "surface": "kim",
@@ -107,7 +99,7 @@
 },
 {
 "surface": "cirataraṃ",
-"quick_gloss": "for-a-long-time"
+"quick_gloss": "for-long-time"
 },
 {
 "surface": "dṛḍham",
@@ -123,8 +115,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "nidrā+hetunā",
-"quick_gloss": "sleep+cause"
+"surface": "nidrā-hetunā",
+"quick_gloss": "sleep+cause-by"
 },
 {
 "surface": "cittaṃ",
@@ -186,11 +178,15 @@
 },
 {
 "surface": "tejaḥ",
-"quick_gloss": "and-light"
+"quick_gloss": "light"
 },
 {
-"surface": "ca+api",
-"quick_gloss": "and-also"
+"surface": "ca",
+"quick_gloss": "and"
+},
+{
+"surface": "api",
+"quick_gloss": "also"
 },
 {
 "surface": "dṛṣṭam",
@@ -201,12 +197,12 @@
 "quick_gloss": "oh"
 },
 {
-"surface": "svapna+ātmakaṃ",
-"quick_gloss": "dream+natured"
+"surface": "svapna-ātmakaṃ",
+"quick_gloss": "dream+nature"
 },
 {
 "surface": "bhavet",
-"quick_gloss": "may-be"
+"quick_gloss": "might-be"
 }
 ]
 },
@@ -227,15 +223,19 @@
 },
 {
 "surface": "paśyāmi",
-"quick_gloss": "I-shall-see"
+"quick_gloss": "I-see"
 },
 {
-"surface": "iti+evam",
+"surface": "iti",
+"quick_gloss": "thus"
+},
+{
+"surface": "evaṃ",
 "quick_gloss": "thus"
 },
 {
 "surface": "niścitya",
-"quick_gloss": "having-determined"
+"quick_gloss": "having-resolved"
 },
 {
 "surface": "vai",
@@ -259,7 +259,7 @@
 "quick_gloss": "he-thinks"
 },
 {
-"surface": "svapna",
+"surface": "svapnaḥ",
 "quick_gloss": "dream"
 },
 {
@@ -288,7 +288,7 @@
 "quick_gloss": "then"
 },
 {
-"surface": "ānanda+samudra+antar",
+"surface": "ānanda-samudra-antaḥ",
 "quick_gloss": "bliss+ocean+within"
 },
 {
@@ -329,8 +329,8 @@
 "quick_gloss": "then"
 },
 {
-"surface": "niruddha+citta+daśāyām",
-"quick_gloss": "restrained+mind+state"
+"surface": "niruddha-citta-daśāyām",
+"quick_gloss": "restrained+mind+state-in"
 }
 ]
 },
@@ -370,7 +370,7 @@
 "quick_gloss": "or-else"
 },
 {
-"surface": "citta+vibhramaḥ",
+"surface": "citta-vibhramaḥ",
 "quick_gloss": "mind+delusion"
 }
 ]
@@ -413,11 +413,15 @@
 },
 {
 "surface": "anvabhūvaṃ",
-"quick_gloss": "I-experienced"
+"quick_gloss": "experienced"
 },
 {
-"surface": "kiñcid+api",
+"surface": "kiñcid",
 "quick_gloss": "anything"
+},
+{
+"surface": "api",
+"quick_gloss": "even"
 },
 {
 "surface": "sukham",
@@ -445,11 +449,11 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "nirodha+kāle",
-"quick_gloss": "restraint+time"
+"surface": "nirodha-kāle",
+"quick_gloss": "restraint+time-in"
 },
 {
-"surface": "sukha+anubhavaḥ",
+"surface": "sukha-anubhavaḥ",
 "quick_gloss": "happiness+experience"
 },
 {
@@ -466,7 +470,7 @@
 },
 {
 "surface": "anvabhūvam",
-"quick_gloss": "I-experienced"
+"quick_gloss": "experienced"
 },
 {
 "surface": "iti",
@@ -486,7 +490,7 @@
 "quick_gloss": "I"
 },
 {
-"surface": "suṣupta+vat",
+"surface": "suṣupta-vat",
 "quick_gloss": "deep-sleep+like"
 },
 {
@@ -527,7 +531,7 @@
 "quick_gloss": "this"
 },
 {
-"surface": "sukha+anubhavaḥ",
+"surface": "sukha-anubhavaḥ",
 "quick_gloss": "happiness+experience"
 }
 ]
@@ -540,8 +544,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "ātma+avagamana+āya",
-"quick_gloss": "self+realization+for"
+"surface": "ātma-avagamanāya",
+"quick_gloss": "self+understanding+for"
 },
 {
 "surface": "ahaṃ",
@@ -565,7 +569,7 @@
 },
 {
 "surface": "avidam",
-"quick_gloss": "I-knew"
+"quick_gloss": "knew"
 }
 ]
 },
@@ -581,8 +585,8 @@
 "quick_gloss": "here"
 },
 {
-"surface": "sukha+upalabdhau",
-"quick_gloss": "happiness+perception"
+"surface": "sukha-upalabdhau",
+"quick_gloss": "happiness+perception-in"
 },
 {
 "surface": "tat",
@@ -606,7 +610,7 @@
 },
 {
 "surface": "bhavet",
-"quick_gloss": "may-be"
+"quick_gloss": "might-be"
 }
 ]
 },
@@ -646,8 +650,12 @@
 "quick_gloss": "other"
 },
 {
-"surface": "atha+api",
+"surface": "atha",
 "quick_gloss": "or-else"
+},
+{
+"surface": "api",
+"quick_gloss": "also"
 },
 {
 "surface": "vā",
@@ -664,11 +672,11 @@
 "tokens": [
 {
 "surface": "atha",
-"quick_gloss": "then"
+"quick_gloss": "or"
 },
 {
-"surface": "prakāśa+ādibhyaḥ",
-"quick_gloss": "light+etc."
+"surface": "prakāśa-ādibhyaḥ",
+"quick_gloss": "light+etc+from"
 },
 {
 "surface": "anyat",
@@ -704,8 +712,12 @@
 "quick_gloss": "not"
 },
 {
-"surface": "antam+emi",
+"surface": "antam",
 "quick_gloss": "I-reach-end"
+},
+{
+"surface": "emi",
+"quick_gloss": "I-go"
 },
 {
 "surface": "atra",
@@ -725,7 +737,7 @@
 },
 {
 "surface": "viduṣīṃ",
-"quick_gloss": "wise"
+"quick_gloss": "learned"
 },
 {
 "surface": "priyām",
@@ -742,7 +754,7 @@
 "tokens": [
 {
 "surface": "bhavet",
-"quick_gloss": "may-be"
+"quick_gloss": "might-be"
 },
 {
 "surface": "atra",
@@ -762,7 +774,7 @@
 },
 {
 "surface": "emi",
-"quick_gloss": "I-reach"
+"quick_gloss": "I-go"
 },
 {
 "surface": "na",
@@ -782,19 +794,15 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "sva+sannidhānam",
-"quick_gloss": "own+presence"
-},
-{
-"surface": "ānetuṃ",
-"quick_gloss": "to-bring"
+"surface": "sva-sannidhānam-ānetuṃ",
+"quick_gloss": "own+presence+to-bring"
 },
 {
 "surface": "hemalekhāṃ",
 "quick_gloss": "Hemalekha"
 },
 {
-"surface": "nṛpa+ātmajaḥ",
+"surface": "nṛpa-ātmajaḥ",
 "quick_gloss": "king+son"
 }
 ]
@@ -811,7 +819,7 @@
 "quick_gloss": "ascended"
 },
 {
-"surface": "mahā+saudhaṃ",
+"surface": "mahā-saudhaṃ",
 "quick_gloss": "great+palace"
 },
 {
@@ -819,12 +827,12 @@
 "quick_gloss": "Meru"
 },
 {
-"surface": "indu+prabhā",
-"quick_gloss": "moon+splendor"
+"surface": "indu-prabhā",
+"quick_gloss": "moon+splendor-like"
 },
 {
 "surface": "iva",
-"quick_gloss": "like"
+"quick_gloss": "as"
 },
 {
 "surface": "sā",

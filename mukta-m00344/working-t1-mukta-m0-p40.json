@@ -61,12 +61,8 @@
 "quick_gloss": "by-inner-rulership"
 },
 {
-"surface": "akhila+hṛdaya",
-"quick_gloss": "in-all-hearts"
-},
-{
-"surface": "sthitatvāt",
-"quick_gloss": "due-to-abiding"
+"surface": "akhila+hṛdaya+sthitatvāt",
+"quick_gloss": "in-all-hearts+due-to-abiding"
 },
 {
 "surface": "hṛdayeśaḥ",
@@ -94,7 +90,7 @@
 "quick_gloss": "god"
 },
 {
-"surface": "tadarthena",
+"surface": "tat+arthena",
 "quick_gloss": "for-that-purpose"
 },
 {
@@ -111,12 +107,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "tadarthena",
+"surface": "tat+arthena",
 "quick_gloss": "for-that-purpose"
 },
 {
 "surface": "kāmita+arthena",
-"quick_gloss": "by-desired-object"
+"quick_gloss": "with-desired-object"
 }
 ]
 },
@@ -129,15 +125,11 @@
 "tokens": [
 {
 "surface": "nirhetuka+upāsakam",
-"quick_gloss": "the-causeless-worshipper"
+"quick_gloss": "motiveless-worshipper"
 },
 {
-"surface": "svam",
-"quick_gloss": "own"
-},
-{
-"surface": "ananya+śaraṇam",
-"quick_gloss": "having-no-other-refuge"
+"surface": "svam+ananya+śaraṇam",
+"quick_gloss": "own+self+having-no-other-refuge"
 },
 {
 "surface": "vibhuḥ",
@@ -153,12 +145,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "evaṃvidha",
-"quick_gloss": "of-such-kind"
-},
-{
-"surface": "karma+pākam",
-"quick_gloss": "karma-fruition"
+"surface": "evaṃvidha+karma+pākam",
+"quick_gloss": "of-such-kind+action+result"
 },
 {
 "surface": "pratīkṣya",
@@ -166,10 +154,10 @@
 },
 {
 "surface": "iti+arthaḥ",
-"quick_gloss": "thus-the-meaning"
+"quick_gloss": "thus+meaning"
 },
 {
-"surface": "svaṃ",
+"surface": "svam",
 "quick_gloss": "own"
 },
 {
@@ -178,7 +166,7 @@
 },
 {
 "surface": "iti+arthaḥ",
-"quick_gloss": "thus-the-meaning"
+"quick_gloss": "thus+meaning"
 }
 ]
 },
@@ -202,12 +190,8 @@
 "quick_gloss": "great-lordship"
 },
 {
-"surface": "svātantryam",
-"quick_gloss": "independence"
-},
-{
-"surface": "mahatam",
-"quick_gloss": "supreme"
+"surface": "svātantryam+ahatam",
+"quick_gloss": "independence+supreme"
 },
 {
 "surface": "tu",
@@ -228,7 +212,7 @@
 "tokens": [
 {
 "surface": "niyatyādeḥ",
-"quick_gloss": "of-destiny-etc."
+"quick_gloss": "of-destiny+and-so-on"
 },
 {
 "surface": "ullaṅghanam",
@@ -240,7 +224,7 @@
 },
 {
 "surface": "iti+arthaḥ",
-"quick_gloss": "thus-the-meaning"
+"quick_gloss": "thus+meaning"
 }
 ]
 },
@@ -253,15 +237,15 @@
 "tokens": [
 {
 "surface": "sṛṣṭi+khaṇḍe",
-"quick_gloss": "in-the-creation-section"
+"quick_gloss": "in-creation-section"
 },
 {
 "surface": "trayastriṃśe",
-"quick_gloss": "in-the-thirty-third"
+"quick_gloss": "in-thirty-third"
 },
 {
 "surface": "adhyāye",
-"quick_gloss": "chapter"
+"quick_gloss": "in-chapter"
 },
 {
 "surface": "draṣṭavyā",
@@ -286,7 +270,7 @@
 },
 {
 "surface": "āgama+eka+siddham",
-"quick_gloss": "established-by-scripture-alone"
+"quick_gloss": "by-scripture+alone+established"
 },
 {
 "surface": "kintu",
@@ -294,19 +278,27 @@
 },
 {
 "surface": "aitihya+siddham",
-"quick_gloss": "established-by-tradition-also"
+"quick_gloss": "by-tradition+established"
 },
 {
 "surface": "api",
+"quick_gloss": "also"
+},
+{
+"surface": "iti",
 "quick_gloss": "thus"
 },
 {
-"surface": "iti+āha",
-"quick_gloss": "thus-he-says"
+"surface": "āha",
+"quick_gloss": "says"
 },
 {
-"surface": "etat+iti",
-"quick_gloss": "thus-this"
+"surface": "etat",
+"quick_gloss": "this"
+},
+{
+"surface": "iti",
+"quick_gloss": "thus"
 }
 ]
 },
@@ -339,7 +331,7 @@
 },
 {
 "surface": "prāṇa+priya+īritām",
-"quick_gloss": "spoken-by-the-dear-to-life"
+"quick_gloss": "by-beloved+uttered"
 }
 ]
 },
@@ -368,12 +360,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "tathā+api",
+"surface": "tathāpi",
 "quick_gloss": "even-so"
 },
 {
 "surface": "apauruṣāṇām",
-"quick_gloss": "of-the-non-personal"
+"quick_gloss": "of-those-without-human-effort"
 },
 {
 "surface": "tat",
@@ -398,7 +390,7 @@
 "tokens": [
 {
 "surface": "apauruṣāṇām",
-"quick_gloss": "of-the-non-personal"
+"quick_gloss": "of-those-without-human-effort"
 },
 {
 "surface": "puruṣa+yatna+rahitānām",
@@ -427,7 +419,7 @@
 },
 {
 "surface": "duḥkheṣu",
-"quick_gloss": "sufferings"
+"quick_gloss": "in-sufferings"
 },
 {
 "surface": "prārabdham",
@@ -435,7 +427,7 @@
 },
 {
 "surface": "yojayati",
-"quick_gloss": "connects"
+"quick_gloss": "engages"
 },
 {
 "surface": "alam",
@@ -475,8 +467,12 @@
 "quick_gloss": "by-perception"
 },
 {
-"surface": "iti+āha",
-"quick_gloss": "thus-he-says"
+"surface": "iti",
+"quick_gloss": "thus"
+},
+{
+"surface": "āha",
+"quick_gloss": "says"
 },
 {
 "surface": "na",
@@ -505,15 +501,11 @@
 },
 {
 "surface": "niyati+saṃkḷptam",
-"quick_gloss": "determined-by-destiny"
+"quick_gloss": "by-destiny+ordained"
 },
 {
-"surface": "tathā",
-"quick_gloss": "so"
-},
-{
-"surface": "eva",
-"quick_gloss": "indeed"
+"surface": "tathaiva",
+"quick_gloss": "just-so"
 },
 {
 "surface": "anubhavāt",
@@ -521,7 +513,7 @@
 },
 {
 "surface": "nanu",
-"quick_gloss": "is-it-not"
+"quick_gloss": "indeed"
 }
 ]
 },
@@ -546,7 +538,7 @@
 },
 {
 "surface": "bhāvaḥ",
-"quick_gloss": "the-sense"
+"quick_gloss": "meaning"
 }
 ]
 },
@@ -559,15 +551,15 @@
 "tokens": [
 {
 "surface": "satya+saṅkalpaḥ",
-"quick_gloss": "of-true-resolve"
+"quick_gloss": "true-resolve"
 },
 {
 "surface": "eva",
-"quick_gloss": "indeed"
+"quick_gloss": "alone"
 },
 {
 "surface": "īśaḥ",
-"quick_gloss": "the-lord"
+"quick_gloss": "lord"
 },
 {
 "surface": "anullaṅghyā",
@@ -575,7 +567,7 @@
 },
 {
 "surface": "hi",
-"quick_gloss": "for"
+"quick_gloss": "indeed"
 },
 {
 "surface": "ataḥ",
@@ -583,7 +575,7 @@
 },
 {
 "surface": "eva",
-"quick_gloss": "indeed"
+"quick_gloss": "alone"
 },
 {
 "surface": "sā",
@@ -604,15 +596,15 @@
 },
 {
 "surface": "eva",
-"quick_gloss": "indeed"
+"quick_gloss": "alone"
 },
 {
 "surface": "satya+saṅkalpatvāt",
-"quick_gloss": "due-to-being-of-true-resolve"
+"quick_gloss": "due-to-true-resolve"
 },
 {
 "surface": "eva",
-"quick_gloss": "indeed"
+"quick_gloss": "alone"
 }
 ]
 },
@@ -649,7 +641,7 @@
 },
 {
 "surface": "bhavet",
-"quick_gloss": "would-be"
+"quick_gloss": "may-be"
 }
 ]
 },
@@ -670,7 +662,7 @@
 },
 {
 "surface": "eva",
-"quick_gloss": "indeed"
+"quick_gloss": "alone"
 },
 {
 "surface": "iti",

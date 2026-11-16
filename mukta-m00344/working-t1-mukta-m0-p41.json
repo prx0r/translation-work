@@ -57,7 +57,7 @@
 },
 {
 "surface": "ahetukatvena",
-"quick_gloss": "as-causeless"
+"quick_gloss": "by-causelessness"
 },
 {
 "surface": "upāsanam",
@@ -122,8 +122,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "sarva+kartā",
-"quick_gloss": "all-doer"
+"surface": "sarva",
+"quick_gloss": "all"
+},
+{
+"surface": "kartā",
+"quick_gloss": "doer"
 },
 {
 "surface": "svatantra",
@@ -167,8 +171,12 @@
 "quick_gloss": "sun"
 },
 {
-"surface": "nṛsiṃha+ādīn",
-"quick_gloss": "Nṛsiṃha-and-others"
+"surface": "nṛsiṃha",
+"quick_gloss": "Nṛsiṃha"
+},
+{
+"surface": "ādīn",
+"quick_gloss": "and-others"
 },
 {
 "surface": "buddham",
@@ -196,7 +204,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "buddhaṃ",
+"surface": "buddham",
 "quick_gloss": "Buddha"
 },
 {
@@ -212,8 +220,8 @@
 "quick_gloss": "Buddhist"
 },
 {
-"surface": "eka+deśinaḥ",
-"quick_gloss": "sectarians"
+"surface": "ekadeśinaḥ",
+"quick_gloss": "one-sided-adherents"
 }
 ]
 },
@@ -237,8 +245,12 @@
 "quick_gloss": "atoms"
 },
 {
-"surface": "iti+ādi",
-"quick_gloss": "thus-and-so-forth"
+"surface": "iti",
+"quick_gloss": "thus"
+},
+{
+"surface": "ādi",
+"quick_gloss": "and-so-forth"
 },
 {
 "surface": "bahudhā",
@@ -246,7 +258,7 @@
 },
 {
 "surface": "jaguḥ",
-"quick_gloss": "they-spoke"
+"quick_gloss": "declared"
 }
 ]
 },
@@ -267,7 +279,7 @@
 },
 {
 "surface": "īśvara",
-"quick_gloss": "in-Īśvara"
+"quick_gloss": "in-Lord"
 },
 {
 "surface": "buddhiḥ",
@@ -304,7 +316,7 @@
 },
 {
 "surface": "āha",
-"quick_gloss": "he-says"
+"quick_gloss": "says"
 },
 {
 "surface": "tatra",
@@ -340,8 +352,8 @@
 "quick_gloss": "Vyāghrapāda"
 },
 {
-"surface": "dṛṣṭa+para+avaraḥ",
-"quick_gloss": "who-has-seen-higher-and-lower"
+"surface": "dṛṣṭa+parāvaraḥ",
+"quick_gloss": "seer-of-higher-and-lower"
 }
 ]
 },
@@ -400,7 +412,7 @@
 },
 {
 "surface": "tat+sambandhāt",
-"quick_gloss": "from-connection-with-that"
+"quick_gloss": "by-connection-with-that"
 }
 ]
 },
@@ -429,7 +441,7 @@
 },
 {
 "surface": "īśvara",
-"quick_gloss": "Īśvara"
+"quick_gloss": "Lord"
 },
 {
 "surface": "vinirṇayam",
@@ -575,8 +587,12 @@
 "quick_gloss": "Śiva"
 },
 {
-"surface": "iti+ādi",
-"quick_gloss": "thus-and-so-forth"
+"surface": "iti",
+"quick_gloss": "thus"
+},
+{
+"surface": "ādi",
+"quick_gloss": "and-so-forth"
 }
 ]
 },
@@ -597,19 +613,27 @@
 },
 {
 "surface": "āhuḥ",
-"quick_gloss": "they-call"
+"quick_gloss": "they-say"
 },
 {
 "surface": "te",
 "quick_gloss": "they"
 },
 {
-"surface": "pañca+vaktram",
-"quick_gloss": "five-faced"
+"surface": "pañca",
+"quick_gloss": "five"
 },
 {
-"surface": "tri+locanam",
-"quick_gloss": "three-eyed"
+"surface": "vaktram",
+"quick_gloss": "faced"
+},
+{
+"surface": "tri",
+"quick_gloss": "three"
+},
+{
+"surface": "locanam",
+"quick_gloss": "eyed"
 }
 ]
 },
@@ -703,8 +727,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "kulāla+ādiḥ",
-"quick_gloss": "potter-and-others"
+"surface": "kulāla",
+"quick_gloss": "potter"
+},
+{
+"surface": "ādiḥ",
+"quick_gloss": "and-so-forth"
 }
 ]
 },
@@ -753,12 +781,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "śarīra+cetanayoḥ",
-"quick_gloss": "of-body-and-consciousness"
+"surface": "śarīra",
+"quick_gloss": "of-body"
+},
+{
+"surface": "cetanayoḥ",
+"quick_gloss": "and-consciousness"
 },
 {
 "surface": "madhye",
-"quick_gloss": "in-the-midst"
+"quick_gloss": "in-the-middle"
 }
 ]
 },
@@ -770,12 +802,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "caitanya+maya",
-"quick_gloss": "with-consciousness-made"
+"surface": "caitanya",
+"quick_gloss": "with-consciousness"
 },
 {
-"surface": "dehena",
-"quick_gloss": "body"
+"surface": "maya+dehena",
+"quick_gloss": "consisting-of-body"
 },
 {
 "surface": "sarvān",
@@ -787,7 +819,7 @@
 },
 {
 "surface": "sṛjet",
-"quick_gloss": "he-may-create"
+"quick_gloss": "he-would-create"
 }
 ]
 },
@@ -820,11 +852,11 @@
 },
 {
 "surface": "āha",
-"quick_gloss": "he-says"
+"quick_gloss": "says"
 },
 {
 "surface": "caitanya",
-"quick_gloss": "consciousness"
+"quick_gloss": "with-consciousness"
 },
 {
 "surface": "iti",
