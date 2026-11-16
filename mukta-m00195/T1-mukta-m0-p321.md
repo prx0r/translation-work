@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p321-v8001
-[glorious](śrī)+[mātaṅgī](mātaṅgi) [and-also](tathā) [supreme](īś)+[goddess](vari)
+[venerable](śrī)[mātaṅgī](mātaṅgi) [and](tathā)[goddess](īśvari)
 
 ## mukta-m0-p321-v8002
-[sage](muniḥ)+[of-this](asya) [as](ukta) [anuṣṭup](anuṣṭup)+[meter](chandaḥ) [and](ca) [deity](devatā)
+[sage](muniḥ)[of-it](asya)[declared](uktaḥ)[anuṣṭup](anuṣṭup)[meter](chandaḥ)[and](ca) [deity](devatā)
 
 ## mukta-m0-p321-v8003
-[with-six](ṣaḍ)+[and-eight](aṣṭa)+[arms](bāhubhiḥ) [thus](ca) [and](iti) [one-should-meditate](dhyāyet) [on-the-dark-one](śyāmāṃ) [with-beautiful-eyes](su)+[locanām](locanām)
+[with-six](ṣaḍ)[and-eight](aṣṭa)[arms](bāhubhiḥ)[and](ca)[thus](iti) [one-should-meditate-on](dhyāyet)[dark-one](śyāmāṃ) [beautiful](su)[eyed](locanām)
 
 ## mukta-m0-p321-v8004
-[playing](vādayantīṃ) [her](tāṃ) [mātaṅgī](mātaṅgīṃ) [in-the-heart](hṛdi) [one-should-contemplate](bhāvayet)
+[playing](vādayantīṃ) [that](tāṃ) [mātaṅgī](mātaṅgīṃ) [in-heart](hṛdi) [one-should-contemplate](bhāvayet)
 
 ## mukta-m0-p321-v8005
-[one-should-worship](yajet) [on-the-seat](pīṭhe) [according-to-the-method](vidhānataḥ) [to-be-stated](vakṣyamāṇa)
+[one-should-worship](yajet)[on-pedestal](pīṭhe) [according-to-method](vidhānataḥ)[to-be-stated](vakṣyamāṇa)
 
 ## mukta-m0-p321-v8006
-[one-should-worship](yajet) [in-that](tasmin) [seat](pīṭha)+[powers](śaktīḥ) [nine](nava) [in-the-eight-directions](iṣṭa)+[dāḥ](dāḥ)
+[one-should-worship](yajet)[in-that](tasmin)[pedestal](pīṭha)[powers](śaktīḥ)[nine](nava)[desired](iṣṭa)[giving](dāḥ)
 
 ## mukta-m0-p321-v8007
-[tāra](tāra)+[māyā](māyā)+[vāg](vāk)+[bīja](bīja)+[beginning-with](ādyaḥ) [seat](pīṭha)+[mantra](mantraḥ) [of-sixteen-syllables](kalā)+[arṇakaḥ](arṇakaḥ)
+[tāra](tāra)[māyā](māyā)[vāk](vāk)[rama](rama)[beginning-with](ādyaḥ) [pedestal](pīṭha)[mantra](mantraḥ) [syllable](kalā)[counted](arṇakaḥ)
 
 ## mukta-m0-p321-v8008
-[at-the-end-of-seat-worship](pīṭha)+[pūjā](pūjā)+[ante](ante) [one-should-perform](kuryāt) [enclosure](āvaraṇa)+[worship](arcanam)
+[pedestal](pīṭha)[worship](pūjā)[at-end](ante) [one-should-perform](kuryāt)[enclosure](āvaraṇa)[worship](arcanam)
 
 ## mukta-m0-p321-v8009
-[six](ṣaḍ)+[limbs](aṃgāni) [mothers](mātṝḥ) [and](ca) [situated-in-the-petal-center](dala)+[madhya](madhya)+[gāḥ](gāḥ)
+[six](ṣaḍ)[limbs](aṃgāni) [mothers](mātṝḥ)[and](ca) [petal](dala)[middle](madhya)[situated](gāḥ)
 
 ## mukta-m0-p321-v8010
-[vāmā](vāmā)+[named](ākhyā) [jyeṣṭhā](jyeṣṭhā) [raudrī](raudrī) [praśāntikā](praśāntikā)
+[vāmā](vāmā)[named](ākhyā) [jyeṣṭhā](jyeṣṭhā) [raudrī](raudrī) [praśāntikā](praśāntikā)
 
 ## mukta-m0-p321-v8011
-[sṛṣṭi](sṛṣṭi)+[mohinī](mohinyau) [and](au) [first](prathama)+[conductress](ācāriṇī) [likewise](tathā)
+[sṛṣṭi](sṛṣṭi)[mohinī](mohinyau) [first](prathama)[ācāriṇī](ācāriṇī) [likewise](tathā)
 
 ## mukta-m0-p321-v8012
 [ṣoḍaśī](ṣoḍaśī) [indeed](tu) [to-be-worshipped](pūjanīyāḥ) [with-effort](prayatnataḥ)
 
 ## mukta-m0-p321-v8013
-[mahālakṣmī](mahālakṣmīḥ) [again](punar) [from-the-fire-corner](vahni)+[ādi](ādi)+[koṇataḥ](koṇataḥ)
+[mahā](mahā)[lakṣmī](lakṣmīḥ) [again](punaḥ)[fire](vahni)[etc.](ādi)[from-corners](koṇataḥ)
 
 ## mukta-m0-p321-v8014
-[of-all](sarva)+[enclosure](āvaraṇa)+[powers](śaktīnāṃ) [ending-in-ṅe](ṅe)+[antaṃ](antaṃ) [name](nāma) [ending-with-hṛd](hṛd)+[aṃtakam](aṃtakam)
+[all](sarva)[enclosure](āvaraṇa)[powers](śaktīnām) [ṅe](ṅe)[ending](antaṃ) [name](nāma) [hṛd](hṛd)[ending](antakam)
 
 ## mukta-m0-p321-v8015
-[to-be-worshipped](pūjanīyāḥ) [they-should-be](syuḥ) [thus](itthaṃ) [success](siddhiḥ) [of-the-mantra](manoḥ) [would-be](bhavet)
+[to-be-worshipped](pūjanīyāḥ)[they-should-be](syuḥ)[thus](ittham) [success](siddhiḥ)[of-mantra](manoḥ)[would-be](bhavet)
 
 ## mukta-m0-p321-v8016
-[with-fruits](phalaiḥ) [or](vā) [submissive](vaśyā) [would-be](syāt) [people](janatā) [born-of-brahma-tree](brahma)+[vṛkṣa](vṛkṣa)+[jaiḥ](jaiḥ)
+[with-fruits](phalaiḥ)[or](vā) [submissive](vaśyā) [would-be](syāt)[people](janatā) [brahma](brahma)[tree](vṛkṣa)[born](jaiḥ)
 
 ## mukta-m0-p321-v8017
-[with-salts](lavaṇaiḥ) [one-should-know](vidyāt) [with-tagara](tagaraiḥ) [with-vetasa](vetasaiḥ) [water](jalam)
+[with-salts](lavaṇaiḥ)[one-should-know](vidyāt)[with-tagaras](tagaraiḥ)[with-vetasas](vetasaiḥ)[water](jalam)
 
 ## mukta-m0-p321-v8018
-[mixed-with-night-powder](niśā)+[cūrṇa](cūrṇa)+[yutaiḥ] [with-kāśa-grasses](kāśaiḥ) [by-oblations](homāt) [would-be](syāt) [paralysis](stambhanaṃ) [of-enemies](dviṣām)
+[turmeric](niśā)[powder](cūrṇa)[mixed](yutaiḥ) [with-kāśa-grasses](kāśaiḥ)[from-oblation](homāt)[would-be](syāt)[paralysis](stambhanaṃ) [of-enemies](dviṣām)
 
 ## mukta-m0-p321-v8019
-[eight](aṣṭa)+[fragrances](gandha)+[group](kam) [is-declared](udīritam)
+[fragrance](gandha)[eightfold](aṣṭakam)[declared](udīritam)
 
 ## mukta-m0-p321-v8020
-[having-ground-this](etat)+[piṣṭvā] [having-chanted-ten-thousand-times](ayutaṃ)+[japtvā] [by-tilaka](tilakena) [dear-to-the-world](jagat)+[priyaḥ](priyaḥ)
+[this](etat)[having-ground](piṣṭvā)[ten-thousand](ayutaṃ) [having-chanted](japtvā) [with-tilaka](tilakena) [world](jagat)[beloved](priyaḥ)
 
 ## mukta-m0-p321-v8021
-[mātaṅgī](mātaṅgī) [worshipped](pūjitā) [desire](kāma)+[giving](dā) [to-men](nṛṇām)
+[mātaṅgī](mātaṅgī) [worshipped](pūjitā) [desire](kāma)[giving](dā) [of-men](nṛṇām)
 
 ## mukta-m0-p321-v8022
-[one-should-offer](hūyāt) [one-hundred-and-eight-times](aṣṭa)+[uttara](uttara)+[śataṃ](śataṃ) [in-khādira-fire](khādira)+[agnau](agnau) [a-man](naraḥ) [at-night](niśi)
+[one-should-offer](hūyāt)[eight](aṣṭa)[over](uttara)[hundred](śataṃ) [in-khādira](khādira)[fire](agnau) [man](naraḥ) [at-night](niśi)
 
 ## mukta-m0-p321-v8023
-[on-a-dark-fourteenth-night](kṛṣṇa)+[bhūta](bhūta)+[niśi](niśi) [in-a-crow’s-belly](dhvāṃkṣa)+[udare](udare) [having-placed](kṣiptvā) [of-auspicious-luster](śubha)+[prabhām](prabhām)
+[on-dark](kṛṣṇa)[bhūta](bhūta)[night](niśi) [crow](dhvāṃkṣa)[belly](udare) [having-thrown](kṣiptvā) [auspicious](śubha)[radiance](prabhām)
 
 ## mukta-m0-p321-v8024
-[that](tat)+[fire](vahniṃ) [to-whomever](yasmai) [one-gives](dadyāt) [he](saḥ) [like-a-servant](dāsa)+[vat](vat)
+[that](tat)[fire](vahniṃ) [to-whom](yasmai) [one-gives](dadyāt)[he](saḥ) [like-servant](dāsa)[like](vat)
 
 ## mukta-m0-p321-v8025
-[of-those-served-by-sages-and-goddesses](muni)+[devī](devī)+[ādi](ādi)+[sevyānāṃ](sevyānāṃ) [in-kāśī](kāśyāṃ) [number](saṅkhyā) [not](na) [is-known](vidyate)
+[by-sages](muni)[goddesses](devya)[and-others](ādi)[worshipped](sevyānāṃ) [in-kāśī](kāśyāṃ) [number](saṅkhyā) [not](na) [exists](vidyate)

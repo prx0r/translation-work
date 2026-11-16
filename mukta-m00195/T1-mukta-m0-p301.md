@@ -2,37 +2,37 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p301-v7501
-[all](samasta)+[scripture](āgama)+[of-mantras](mantrāṇāṃ) [giver](dātā) [not](na) [is](asti) [here](atra) [doubt](saṃśayaḥ)
+[all+āgama+mantras](samastāgamamantrāṇāṃ) [giver](dātā) [not](na) [is](asti) [here](atra) [doubt](saṃśayaḥ)
 
 ## mukta-m0-p301-v7502
 [goddess](devīṃ) [by-whom](yayā) [all](sarvam) [this](idam) [spread-out](tatam)
 
 ## mukta-m0-p301-v7503
-[seeds](bījāni) [vowels](acaḥ) [declared](proktāḥ) [powers](śaktayaḥ) [peg](kīlakaṃ) [should-be](bhavet)
+[seed-syllables](bījāni) [vowels](acaḥ) [declared](proktāḥ) [powers](śaktayaḥ) [peg](kīlakam) [should-be](bhavet)
 
 ## mukta-m0-p301-v7504
-[previously](prāk)+[stated](uktam)+[mātṛkā](ātṛkā) [installations](nyāsāḥ) [all](sarve) [primary](mukhyāḥ) [become](bhavanti) [and](ca)
+[previously+stated](prāguktam) [mātṛkā+installations](ātṛkā+nyāsāḥ) [all](sarve) [primary](mukhyāḥ) [become](bhavanti) [and](ca)
 
 ## mukta-m0-p301-v7505
-[fifty](pañcāśat)+[letter](arṇa)+[pervaded](vyāpta)+[limbed](aṅgīm) [crescent-moon](candrārdha)+[marked](āṃkita)+[crested](śekharām)
+[fifty+syllable+pervaded+limbed](pañcāśadarṇa+vyāptāṃgīṃ) [crescent-moon+marked+crested](candrārdhāṃkita+śekharām)
 
 ## mukta-m0-p301-v7506
-[pearl](muktā)+[encircled](āvṛta)+[shining](sphurat)+[adorned](bhūṣāṃ) [I-worship](bhaje) [mother](mātṛ)+[sarasvatī](sarasvatīm)
+[pearl+encircled+shining+ornaments](muktāvṛta+sphuradbhūṣāṃ) [I-worship](bhaje) [mother+sarasvatī](mātṛ+sarasvatīm)
 
 ## mukta-m0-p301-v7507
-[auspicious](śubhaṃ) [lotus](padmaṃ) [ground-enclosure](bhūpura)+[threefold](tritaya)+[surrounded](āvṛtam)
+[auspicious](śubhaṃ) [lotus](padmaṃ) [earth+enclosure+triple+surrounded](bhūpura+tritayāvṛtam)
 
 ## mukta-m0-p301-v7508
-[ka](ka)+[ca](ca)+[ḍha](ḍha)+[etc.](ādi)+[ka](ka)+[groups](vargān) [and](ca) [one-should-write](likhet) [eight](aṣṭa)+[on-petals](daleṣu) [and](ca)
+[ka+ca+ḍha+etc.+ka+groups](kacaḍhādi+kavargāṃśca) [should-write](likhet) [eight+petals](aṣṭadaleṣu) [and](ca)
 
 ## mukta-m0-p301-v7509
-[worship](pūjā)+[seat](pīṭham) [this](idam) [declared](proktam) [in-the-beginning](ādau) [limbs](aṅgāni) [one-should-worship](saṃyajet)
+[worship+seat](pūjāpīṭham) [this](idam) [declared](proktam) [in-the-beginning](ādau) [limbs](aṃgāni) [one-should-worship](saṃyajet)
 
 ## mukta-m0-p301-v7510
-[vowel](svara)+[pair](dvandvaṃ) [then](tataḥ) [groups](vargān) [on-filaments](keśareṣu) [one-should-worship](yajet) [these](imāḥ)
+[vowel+pairs](svaradvandvaṃ) [then](tato) [groups](vargān) [on-filaments](keśareṣu) [one-should-worship](yajet) [these](imāḥ)
 
 ## mukta-m0-p301-v7511
-[vidyeśvarī](vidyeśvarī) [middle](madhyama)+[at-end](ante) [to-be-worshipped](pūjyāḥ) [on-seat](pīṭhe) [then](tataḥ) [after](param)
+[vidyeśvarī](vidyeśvarī) [middle+end](madhyamāṃte) [to-be-worshipped](pūjyāḥ) [on-seat](pīṭhe) [then](tataḥ) [after](param)
 
 ## mukta-m0-p301-v7512
 [kleśinī](kleśinī) [and](ca) [also](api) [dhāriṇī](dhāriṇī) [mālinī](mālinī) [likewise](tathā)
@@ -41,37 +41,37 @@
 [world-lords](lokeśvarān) [in-front](agre) [in-enclosure](vīthyām) [weapons](astrāṇi) [one-should-worship](pūjayet)
 
 ## mukta-m0-p301-v7514
-[with-pure-offerings](śuddhaiḥ) [libation](tarpaṇa)+[etc.](ādi) [having-done](kṛtvā) [accomplished](siddhaḥ) [should-become](bhavet) [mantra](manuḥ)
+[with-pure-offerings](śuddhaiḥ) [libation+etc.](tarpaṇādi) [having-done](kṛtvā) [accomplished](siddhaḥ) [should-become](bhaven) [mantra](manuḥ)
 
 ## mukta-m0-p301-v7515
 [in-battle](saṃgare) [may-be](syāt) [for-victory](jayāya)
 
 ## mukta-m0-p301-v7516
-[properly](samyak) [he](saḥ) [fool](mūrkhaḥ) [even](api) [poetry](kavitva)+[possessing](bhāk)
+[properly](samyak) [he](sa) [fool](mūrkhaḥ) [even](api) [poetic-skill+possessing](kavitva+bhāk)
 
 ## mukta-m0-p301-v7517
-[eaten](bhakṣitaṃ) [poetry](kavitā)+[giving](pradam)
+[eaten](bhakṣitaṃ) [poetry+giving](kavitā+pradam)
 
 ## mukta-m0-p301-v7518
-[son](suta)+[best](agryam)
+[son+best](sutāgryam)
 
 ## mukta-m0-p301-v7519
-[destruction](kṣayaḥ) [of-her](asyāḥ) [abode]([nivāsaḥ])
+[destruction](kṣayaḥ) [of-her](asyāḥ) [dwelling](nivāsaḥ)
 
 ## mukta-m0-p301-v7520
-[my](mama) [desire](iṣṭam) [give](dehi) [durbhugnī](durbhugnī) [peacock](śikhi)+[beloved](vallabhā)
+[to-me](mama) [desired](iṣṭaṃ) [give](dehi) [durbhugnī](durbhugnī) [peacock+beloved](śikhi+vallabhā)
 
 ## mukta-m0-p301-v7521
-[one-should-perform](kuryāt) [in-morning](prātaḥ) [indeed](tu) [waving-light](nīrāj) [conquers](jayati) [happiness](sukha)+[causing](karān) [practitioner](sādhaka)+[chief](indraḥ) [gone](gataḥ) [he](asau)
+[one-should-perform](kuryāt) [in-morning](prātaḥ) [indeed](tu) [waves-light](nīrājjayati) [happiness+causing](sukha+karān) [practitioner+chief](sādhaka+indraḥ) [gone](gataḥ) [he](asau)
 
 ## mukta-m0-p301-v7522
-[gives](dadāti) [she](sā) [goddess](devī) [good](su)+[wife](strī)+[wealth](vitta)+[garment](ambara)+[etc.](ādikam)
+[gives](dadāti) [she](sā) [goddess](devī) [good+wife+wealth+garments+etc.](su+strī+vittāmbarādikam)
 
 ## mukta-m0-p301-v7523
-[vakratuṇḍa](vakratuṇḍa)+[etc.](ādyāḥ) [and](ca) [attendant](iṭī)+[power](śakti)+[accompanied](samanvitāḥ)
+[vakratuṇḍa+etc.](vakratuṇḍādyāḥ) [and](ca) [attendant+power+accompanied](iṭī+śakti+samanvitāḥ)
 
 ## mukta-m0-p301-v7524
-[vakratuṇḍa](vakratuṇḍa)+[rite](vidhiḥ) [previously](pūrvam) [stated](uktaḥ) [of-eight](aṣṭānām) [that](saḥ) [indeed](eva) [for](hi)
+[vakratuṇḍa+rite](vakratuṇḍa+vidhiḥ) [previously](pūrvam) [stated](uktaḥ) [of-eight](aṣṭānāṃ) [that](saḥ) [indeed](eva) [certainly](hi)
 
 ## mukta-m0-p301-v7525
 [yoginī](yoginī) [thus](iti) [give](dehi) [give](dehi) [one-should-say](vadet) [then](tataḥ)
