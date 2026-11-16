@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p02-v26
-middle-radiance
+[middle](madhyā) [*?state-]( *?bhā-])
 
 ## mukta-m0-p02-v27
-present-outside+many-radiant-qualities
+[being-present](vartamāno) [outside](bahir) [may-become](bhūyād) [with-many](bahur) [+](+) [risen](ullasitair) [qualities](guṇaiḥ)
 
 ## mukta-m0-p02-v28
-qualities-manifestation+by-which-inferred-Shiva
+[qualities](guṇāḥ) [to-manifestation](prakāśatāṃ) [go](yāṃti) [Śiva](śivo) [by-which](yair) [is-inferred](anumīyate)
 
 ## mukta-m0-p02-v29
-even-treacherous-minds-instant-tremble
+[even](api) [of-wrongdoers](drohakṛtāṃ) [mind](cittaṃ) [in-a-moment](kṣaṇād) [indeed](eva) [trembles](prakaṃpate)
 
 ## mukta-m0-p02-v30
-in-abundance-even-age-youth-obtains
+[in-abundance](bahulatve) [even](api) [of-age](vayasas) [youthfulness](tāruṇyaṃ) [attains](pratipadyate)
 
 ## mukta-m0-p02-v31
-everywhere-unfailing-senses-health
+[everywhere](sarvatra) [unfaltering](askhalitaṃ) [movement](yānam) [of-the-senses](iṃdriyāṇām) [health](arogatā)
 
 ## mukta-m0-p02-v32
-devotee-abode-body-good-field-called
+[dwelling-place](nivāsabhūtaṃ) [of-the-devotee](bhaktasya) [body](gātraṃ) [good-field](sukṣetram) [is-called](ucyate)
 
 ## mukta-m0-p02-v33
-those-subtle-subtle-forms-in-devotee-body-established
+[they](tāḥ) [in-very-subtle](sūkṣma) [subtle](sūkṣma) [form](ākāreṇa) [in-devotee's-body](bhaktadehe) [are-situated](vyavasthitāḥ)
 
 ## mukta-m0-p02-v34
-sutala-knee-placed-talatala-calf
+[Sutala](sutalaṃ) [knee](jānu) [limit](sīma) [situated](sthaṃ) [in-the-shank](jaṃghāyāṃ) [but](tu) [Talātala](talātalam)
 
 ## mukta-m0-p02-v35
-feet-below-proclaimed-mahapatala-named
+[of-the-feet](pādayos) [but](tu) [on-the-sole](tale) [declared](proktā) [Mahāpātāla](mahāpātāla) [named](saṃjñikaḥ)
 
 ## mukta-m0-p02-v36
-manipura-svarloka-maharloka-anahata
+[in-Maṇipūra](maṇipūre) [heavenly-world](suvarlokaḥ) [Maharloka](maharlokas) [but](tu) [in-Anāhata](anāhate)
 
 ## mukta-m0-p02-v37
-ida-nadi-Ganga-Yamuna-pingala-thus
+[Iḍā](iḍā) [channel](nāḍī) [would-be](bhaved) [Gaṅgā](gaṃgā) [Yamunā](yamunā) [Piṅgalā](piṅgalā) [likewise](tathā)
 
 ## mukta-m0-p02-v38
-all-pilgrimage-places-matrika-locations-indeed
+[all](sarvāṇi) [even](api) [and](ca) [sacred-places](tīrthāni) [in-Mātṛkā](mātṛkā) [place](sthāna) [gone](gāṇi) [indeed](tu)
 
 ## mukta-m0-p02-v39
-badari-ashrama-hot-water-cold-water-mountain-forest
+[$$$]($$$) [Badarikāśrama](badaryāśramam) [hot-water](uṣṇāṃbu) [cold-water](śītāṃbu) [mountain-forest](girikāvanam)
 
 ## mukta-m0-p02-v40
-fields-all-and-pithas-various
+[sacred-fields](kṣetrāṇi) [all](sarvāṇi) [even](api) [and](ca) [sacred-seats](piṭhāni) [various](vividhāni) [and](ca)
 
 ## mukta-m0-p02-v41
-devotee-matrika-places-impurities-enter
+[of-the-devotee](bhaktasya) [Mātṛkā](mātṛkā) [abodes](sthānāni) [without-impurity](amalāni) [enter](viśerate)
 
 ## mukta-m0-p02-v42
-there-fifteen-worlds-bliss-form
+[is](asti) [fifteen](paṃcadaśa) [world](āloka) [bliss](ānaṃdamaya) [form](vigrahaḥ)
 
 ## mukta-m0-p02-v43
-always-ornamented-always-enjoyment-devoted
+[always](sadā) [with-love](śṛṃgāra) [endowed](saṃpannaḥ) [always](sadā) [to-enjoyment](bhoga) [devoted](parāyaṇaḥ)
 
 ## mukta-m0-p02-v44
-there-bliss-great-world-supreme-nectar-form-bearing
+[there](tatra) [in-bliss](ānaṃda) [great-world](mahāloke) [supreme](parama) [nectar](amṛta) [form](rūpa) [bearing](dhṛk)
 
 ## mukta-m0-p02-v45
-ripples-waves-movement-pervading-directions
+[flowing](riṃkhat) [wave](taraṃga) [movement](saṃcāra) [pervaded](samākrāṃta) [space](dik) [interior](aṃtaraḥ)
 
 ## mukta-m0-p02-v46
-extremely-pure-white-bliss-form-bliss-giving
+[extremely](atyaṃta) [pure](nirmala) [white](sitaḥ) [bliss](sukha) [form](rūpaḥ) [happiness](sukha) [giver](pradaḥ)
 
 ## mukta-m0-p02-v47
-bliss-Bhairava-god-world-bliss-giving
+[bliss](ānaṃda) [Bhairava](bhairavo) [god](devo) [to-the-world](jagad) [bliss](ānaṃda) [giver](dāyakaḥ)
 
 ## mukta-m0-p02-v48
-bliss-form-obtained-linga-form-Maheshvara
+[bliss](ānaṃda) [nature](rūpatāṃ) [attained](prāpto) [liṅga](liṃga) [form](rūpī) [Maheśvara](maheśvaraḥ)
 
 ## mukta-m0-p02-v49
-therefore-devotee-body-not-blameworthy-by-inert-souls
+[therefore](tasmād) [devotee's](bhakta) [body](vapur) [not](na) [indeed](eva) [to-be-censured](nindanīyaṃ) [by-dull-souled](jaḍātmabhiḥ)
 
 ## mukta-m0-p02-v50
-who-blames-Shiva-place-with-Veda-foot-foot
+[who](yo) [censures](niṃdati) [Śiva's-abode](śivasthānaṃ) [he](sa) [knows](ha) [Veda](vedā) [of-words](padāṃ) [the-word](padam)
