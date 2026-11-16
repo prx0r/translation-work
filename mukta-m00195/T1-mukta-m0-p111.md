@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p111-v2751
-[vāyu-ratha-indra-agnī](vāyurathendrāgnī) [mitraḥ](mitraś) [ca](ca) [eva](eva) [sureśvaraḥ](sureśvaraḥ)
+[wind](vāyuḥ) [and](atha) [indra-and-agni](indrāgnī) [mitra](mitraḥ) [and](ca) [indeed](eva) [lord-of-gods](sureśvaraḥ)
 
 ## mukta-m0-p111-v2752
-[varuṇaḥ](varuṇo) [aja-eka-pād](ajaikapād) [ahi-budhnya](ahirbudhnya) [pūṣa](pūṣa) [kau](kau)
+[varuṇa](varuṇaḥ) [aja-ekapād](ajaikapāt) [ahirbudhnya](ahirbudhnya) [and-pūṣan](pūṣakau)
 
 ## mukta-m0-p111-v2753
-[ityādi](ityādi) [namasā](namasā) [ca](ca) [samanvitāḥ](samanvitāḥ)
+[thus-etcetera](ityādi) [with-obeisance](namasā) [and](ca) [endowed-with](samanvitāḥ)
 
 ## mukta-m0-p111-v2754
-[eteṣām](eteṣāṃ) [nāma-mantrāḥ](nāmamantrāḥ) [tu](tu) [grāhyāḥ](grāhyāḥ) [pūjā-ādi-sādhane](pūjādisādhane)
+[of-these](eteṣāṃ) [name-mantras](nāma+mantrāḥ) [indeed](tu) [to-be-taken](grāhyāḥ) [in-worship-etc-accomplishment](pūjā+ādi+sādhane)
 
 ## mukta-m0-p111-v2755
-[viparītāni](viparītāni) [kṛtvā](kṛtvā) [nirayam](nirayam) [āpnuyāt](āpnuyāt)
+[reversed-things](viparītāni) [having-done](kṛtvā) [hell](nirayam) [one-would-obtain](āpnuyāt)
 
 ## mukta-m0-p111-v2756
-[parasya](parasyāpi) [api](parasyāpi) [kāmya-karmāṇi](kāmyakarmāṇi) [ca](ca) [ācaret](ācaret)
+[for-another](parasya) [also](api) [desire-motivated-rites](kāmya+karmāṇi) [one-should-perform](ca+ācaret)
 
 ## mukta-m0-p111-v2757
-[kurvīta](kurvīta) [na](nānyeṣāntu) [anyeṣām](nānyeṣāntu) [tu](nānyeṣāntu) [kadācana](kadācana)
+[one-should-do](kurvīta) [not](na) [of-others](anyeṣām) [but](tu) [ever](kadācana)
 
 ## mukta-m0-p111-v2758
-[bhaktasya](bhaktasya) [nyāya-ārjita-dhanasya](nyāyārjitadhanasya) [ca](ca)
+[of-a-devotee](bhaktasya) [of-one-with-rightly-earned-wealth](nyāya+ārjita+dhanasya) [and](ca)
 
 ## mukta-m0-p111-v2759
-[kāryam](kāryaṃ) [kuryāt](kuryācca) [ca](kuryācca) [deśikaḥ](deśikaḥ)
+[work](kāryaṃ) [one-should-do](kuryāt) [and](ca) [the-teacher](deśikaḥ)
 
 ## mukta-m0-p111-v2760
-[vṛṇuyāt](vṛṇuyātkarmakartāraṃ) [karma-kartāram](vṛṇuyātkarmakartāraṃ) [dīkṣā-uktavidhinā](dīkṣoktavidhinā) [tataḥ](tataḥ)
+[one-should-choose](vṛṇuyāt) [rite-performer](karma+kartāraṃ) [by-initiation-prescribed-method](dīkṣā+ukta+vidhinā) [then](tataḥ)
 
 ## mukta-m0-p111-v2761
-[jitendriyaḥ](jitendriyo) [jita-krodhaḥ](jitakrodho) [māna-kṣobha-vivarjitaḥ](mānakṣobhavivarjitaḥ)
+[sense-controlled](jita+indriyaḥ) [anger-conquered](jita+krodhaḥ) [pride-agitation-devoid](māna+kṣobha+vivarjitaḥ)
 
 ## mukta-m0-p111-v2762
-[yathā-uktam](yathoktantu) [tu](yathoktantu) [kṛtvā](kṛtvābhyaṅgaṃ) [abhyaṅgam](kṛtvābhyaṅgaṃ) [samācaret](samācaret)
+[as-prescribed](yathā+uktam) [indeed](tu) [having-done-anointing](kṛtvā+abhyaṅgaṃ) [one-should-perform](samācaret)
 
 ## mukta-m0-p111-v2763
-[aṣṭottara-sahasram](aṣṭottarasahasrañca) [ca](aṣṭottarasahasrañca) [rakṣā-artham](rakṣārthaṃ) [prajapet](prajapenmanum) [manum](prajapenmanum)
+[eight-more-hundred-thousand](aṣṭa+uttara+sahasram) [and](ca) [for-protection](rakṣā+arthaṃ) [one-should-mutter-mantra](prajapet+manum)
 
 ## mukta-m0-p111-v2764
-[suhṛdbhiḥ](suhṛdbhiḥ) [su-snigdhaiḥ](susnigdhairātmarakṣāntu) [ātma-rakṣām](susnigdhairātmarakṣāntu) [tu](susnigdhairātmarakṣāntu) [kārayet](kārayet)
+[with-friends](suhṛdbhiḥ) [very-affectionate](su+snigdhaiḥ) [self-protection](ātma+rakṣām) [indeed](tu) [one-should-cause](kārayet)
 
 ## mukta-m0-p111-v2765
-[japa-homa-arcana-ādyaiḥ](japahomārcanādyaiśca) [ca](japahomārcanādyaiśca) [brāhmaṇa-ārādhana-ādibhiḥ](brāhmaṇārādhanādibhiḥ)
+[with-muttering-oblation-worship-etc](japa+homa+arcana+ādyaiḥ) [and](ca) [with-brahmin-honoring-etc](brāhmaṇa+ārādhana+ādibhiḥ)
 
 ## mukta-m0-p111-v2766
-[prayogān](prayogānkurvīta) [kurvīta](prayogānkurvīta) [hi](hyanyathā) [anyathā](hyanyathā) [duḥkham](duḥkhamāpnuyāt) [āpnuyāt](duḥkhamāpnuyāt)
+[rites](prayogān) [one-should-perform](kurvīta) [for](hi) [otherwise](anyathā) [suffering](duḥkham) [one-would-obtain](āpnuyāt)
 
 ## mukta-m0-p111-v2767
-[muhuḥ](muhuścāpi) [ca](muhuścāpi) [api](muhuścāpi) [yathā](yathā) [syāt](syāttuṣṭimāstathā) [tuṣṭim](syāttuṣṭimāstathā) [ās](syāttuṣṭimāstathā) [tathā](syāttuṣṭimāstathā)
+[repeatedly](muhuḥ) [and](ca) [also](api) [as](yathā) [may-be-satisfaction](syāt+tuṣṭim) [so](ā+ tathā)
 
 ## mukta-m0-p111-v2768
-[siddhyanti](siddhyantyasiddhasya) [asiddhasya](siddhyantyasiddhasya) [devatā-śāpam](devatāśāpamāpnuyāt) [āpnuyāt](devatāśāpamāpnuyāt)
+[they-succeed](siddhyanti) [of-the-unsuccessful](asiddhasya) [deity-curse](devatā+śāpam) [one-would-obtain](āpnuyāt)
 
 ## mukta-m0-p111-v2769
-[prayoga-siddhiḥ](prayogasiddhirevaiṣāṃ) [eva](prayogasiddhirevaiṣāṃ) [eṣām](prayogasiddhirevaiṣāṃ) [phalam](phalamanyanna) [anyat](phalamanyanna) [na](phalamanyanna) [vidyate](vidyate)
+[rite-success](prayoga+siddhiḥ) [indeed](eva) [of-these](eṣāṃ) [fruit](phalam) [other](anyat) [not](na) [exists](vidyate)
 
 ## mukta-m0-p111-v2770
-[parasya](parasyāpi) [api](parasyāpi) [ṣaṭ](ṣaṭ) [karmāṇi](karmāṇi) [su-sādhayet](susādhayet)
+[for-another](parasya) [also](api) [six-rites](ṣaṭ+karmāṇi) [one-should-accomplish-well](su+sādhayet)
 
 ## mukta-m0-p111-v2771
-[prayoga-doṣa-śānty-artham](prayogadoṣaśāntyarthamātmarakṣārthameva) [ātma-rakṣā-artham](prayogadoṣaśāntyarthamātmarakṣārthameva) [eva](prayogadoṣaśāntyarthamātmarakṣārthameva) [ca](ca)
+[for-rite-fault-pacification](prayoga+doṣa+śānti+artham) [for-self-protection](ātma+rakṣā+artham) [indeed](eva) [and](ca)
 
 ## mukta-m0-p111-v2772
-[sarvam](sarvaṃ) [kathayeta](kathayeta) [śubha-aśubham](śubhāśubham)
+[all](sarvaṃ) [one-should-tell](kathayeta) [auspicious-and-inauspicious](śubha+aśubham)
 
 ## mukta-m0-p111-v2773
-[kāryā](kāryā) [karma-kāle](karmakāle) [viśeṣataḥ](viśeṣataḥ)
+[to-be-done](kāryā) [at-rite-time](karma+kāle) [especially](viśeṣataḥ)
 
 ## mukta-m0-p111-v2774
-[kṣudrāṇām](kṣudrāṇāṃ) [vāma-mārgiṇām](vāmamārgiṇām)
+[of-the-lowly](kṣudrāṇāṃ) [of-left-hand-path-followers](vāma+mārgiṇām)
 
 ## mukta-m0-p111-v2775
-[para-niṣṭhā-parāṇām](paraniṣṭhāparāṇāntu) [tu](paraniṣṭhāparāṇāntu) [vāminām](vāmināṃ) [paramā](paramā) [gatiḥ](gatiḥ)
+[of-those-devoted-to-another-goal](para+niṣṭhā+parāṇām) [but](tu) [of-left-hand-practitioners](vāmināṃ) [supreme](paramā) [goal](gatiḥ)

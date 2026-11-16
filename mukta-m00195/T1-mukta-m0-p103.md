@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p103-v2551
-[hundred-eight](aṣṭottaraśataṃ) [and-indeed](caiva) [mantra-reception](mantragrahaṇam) [is-said](ucyate)
+[eight-more-than-hundred](aṣṭottaraśataṃ) [and](ca) [indeed](eva) [mantra-reception](mantragrahaṇam) [is-called](ucyate)
 
 ## mukta-m0-p103-v2552
-[from-dakshinamurti](dakṣiṇāmūrtitaḥ) [manu](manuḥ)
+[from-dakṣiṇāmūrti](dakṣiṇāmūrtito) [mantra](manuḥ)
 
 ## mukta-m0-p103-v2553
-[penance-destroying](tapaḥkṣayakarāḥ) [and-indeed](caiva) [are-born](jāyante) [not-one](na) [siddhis](siddhayaḥ)
+[austerity-destruction-causing](tapaḥkṣayakarāḥ) [and](ca) [indeed](eva) [are-born](jāyante) [not-one-siddhis](naikasiddhayaḥ)
 
 ## mukta-m0-p103-v2554
-[if-immersed](magnaḥ) [in-aṇimādi](aṇimādiṣu) [mokṣa-news](mokṣavārtā) [very-difficult](atidurlabhā)
+[in-aṇimā-etc.](aṇimādiṣu) [absorbed](magnaḥ) [if](cet) [liberation-talk](mokṣavārtā) [very-difficult-to-obtain](atidurlabhā)
 
 ## mukta-m0-p103-v2555
-[door-of-siddhi](siddhidvāram) [this](idaṃ) [of-him](tasya) [by-me](mayā) [mark](lakṣaṇam) [is-said](ucyate)
+[siddhi-door](siddhidvāram) [this](idam) [of-that](tasya) [by-me](mayā) [characteristic](lakṣaṇam) [is-stated](ucyate)
 
 ## mukta-m0-p103-v2556
-[is-born](jāyeta) [not](na) [to-be-declared](khyātavyaṃ) [without-guru](guruṃ vinā)
+[should-arise](jāyeta) [not](na) [to-be-proclaimed](khyātavyaṃ) [guru](guruṃ) [without](vinā)
 
 ## mukta-m0-p103-v2557
 [they-go](yānti) [far-away](dūrataḥ)
 
 ## mukta-m0-p103-v2558
-[little-sleep](svalpanidrā) [always](sadā) [mind-clarity](cittaprasannatā)
+[little-sleep](svalpanidrā) [always](sadā) [mind-serenity](cittaprasannatā)
 
 ## mukta-m0-p103-v2559
-[of-worship-capable](rādhanaśaktasya) [first](prathamaṃ) [three-years](vatsaratrayam)
+[of-one-capable-of-worship](rādhanaśaktasya) [first](prathamaṃ) [year-triad](vatsaratrayam)
 
 ## mukta-m0-p103-v2560
 [by-action](karmaṇā) [by-mind](manasā) [if](yadi)
 
 ## mukta-m0-p103-v2561
-[they-request](prārthayante) [with-obstruction](nurodhena) [proud](garvitāḥ) [also](api) [honored](māninaḥ)
+[requesting](prārthayanta) [by-insistence](anurodhena) [proud](garvitā) [even](api) [conceited](māninaḥ)
 
 ## mukta-m0-p103-v2562
-[they-see](prapaśyanti) [by-radiance](tejasā) [by-glory](vibhavena) [and](ca)
+[they-behold](prapaśyanti) [by-splendor](tejasā) [by-majesty](vibhavena) [and](ca)
 
 ## mukta-m0-p103-v2563
-[after-ninth-year](navamādvatsarādūrdhvaṃ) [by-itself](svayaṃ) [succeeds](siddhyati) [mantra-king](mantrarāṭ)
+[from-ninth-year](navamādvatsarād) [upward](ūrdhvaṃ) [by-itself](svayaṃ) [is-accomplished](siddhyati) [mantra-king](mantrarāṭ)
 
 ## mukta-m0-p103-v2564
-[of-poor](daridrasya) [mantra-success](mantrasiddhiḥ) [how](yathā) [becomes](bhavet)
+[of-a-poor-man](daridrasya) [mantra-accomplishment](mantrasiddhiḥ) [as](yathā) [may-be](bhavet)
 
 ## mukta-m0-p103-v2565
-[of-letters](varṇānāṃ) [three-guṇa-etc](triguṇādiḥ) [is-prescribed](vidhīyate)
+[of-letters](varṇānāṃ) [threefold-etc.](triguṇādir) [is-prescribed](vidhīyate)
 
 ## mukta-m0-p103-v2566
-[is-said](proktaḥ) [by-tarpaṇa](tarpaṇāt) [double](dviguṇaḥ) [japa](japaḥ)
+[declared](proktaḥ) [than-libation](tarpaṇād) [double](dviguṇo) [recitation](japaḥ)
 
 ## mukta-m0-p103-v2567
-[feed-brahmins](bhojayedviprān) [for-accomplishment](kṛtasāṅgatvasiddhaye)
+[one-should-feed](bhojayed) [brahmins](viprān) [for-accomplishment-of-completeness](kṛtasāṅgatvasiddhaye)
 
 ## mukta-m0-p103-v2568
-[ṣaragāni](ṣaragāni) [and](ca)
+[six-limbs](ṣaḍaṅgāni) [and](ca)
 
 ## mukta-m0-p103-v2569
-[content](santuṣṭaḥ) [mantra](mantraḥ) [succeeds](siddhyati) [of-mantrin](mantriṇaḥ)
+[satisfied](santuṣṭo) [mantra](mantraḥ) [is-accomplished](siddhyati) [of-the-practitioner](mantriṇaḥ)
 
 ## mukta-m0-p103-v2570
-[verse-or](gāthāvā) [that-japa](tajjapaḥ) [not-indeed](naiva) [fruitful](cārthakṛt)
+[verse-recitation](gāthāvā) [or](tad) [its-recitation](japo) [not](na) [indeed](eva) [and](ca) [purpose-fulfilling](arthakṛt)
 
 ## mukta-m0-p103-v2571
 [of-them](teṣāṃ) [sin](pātakaṃ) [is-declared](parikīrtitam)
 
 ## mukta-m0-p103-v2572
-[from-guru-mouth](gurumukhāt) [obtained](prāptaḥ) [one](ekaḥ) [is](syāt) [all-siddhi-giving](sarvasiddhidaḥ)
+[from-guru's-mouth](gurumukhāt) [obtained](prāpta) [one](ekaḥ) [may-be](syāt) [all-siddhi-giving](sarvasiddhidaḥ)
 
 ## mukta-m0-p103-v2573
-[siddhi-mark-complete](siddhilakṣaṇasampūrṇaḥ) [of-living-being](prāṇimātrasya) [who](yaḥ) [equal](samaḥ)
+[siddhi-characteristic-complete](siddhilakṣaṇasampūrṇaḥ) [to-every-living-being](prāṇimātrasya) [who](yaḥ) [equal](samaḥ)
 
 ## mukta-m0-p103-v2574
-[is-to-be-done](kāryaḥ) [not-other](nānyaḥ) [to-left](vāme) [ever](kadācana)
+[to-be-done](kāryo) [not](na) [another](anyo) [or](vā) [by-me](me) [ever](kadācana)
 
 ## mukta-m0-p103-v2575
-[but](tu) [sin-destroying](pāpahāniḥ) [is-born](prajāyate)
+[but](tu) [sin-destruction](pāpahāniḥ) [is-produced](prajāyate)
