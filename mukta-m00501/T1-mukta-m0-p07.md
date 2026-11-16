@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p07-v151
-[royal-tooth-pair](rājadaṃtadvayaṃ) [there](tatra) [by-tongue](jihvayā) [taken](āttaṃ) [fear](bhayet) [thus](iti)
+[king+teeth+pair](rājadaṃtadvayaṃ) [there](tatra) [by-tongue+held](jihvayāttaṃ) [may-be](bhayediti)
 
 ## mukta-m0-p07-v152
-[death-noose](kālapāśa) [great-bond](mahāvaṃdho) [release](vimocana) [skillful](vicakṣaṇaḥ)
+[kāla+noose](kālapāśa) [great+bond](mahāvaṃdho) [liberation](vimocana) [skilled](vicakṣaṇaḥ)
 
 ## mukta-m0-p07-v153
-[three-braid](triveṇī) [confluence](saṃgamaṃ) [holds](dhatte) [kedāra](kedāraṃ) [should-reach+mind](prāpayenmanāḥ)
+[triple-braid](triveṇī) [confluence](saṃgamaṃ) [holds](dhatte) [to-kedāra](kedāraṃ) [mind+may-lead](prāpayenmanāḥ)
 
 ## mukta-m0-p07-v154
-[great-seal](mahāmudrā) [great-bond](mahāvaṃdhau) [fruitless](niḥphalau) [without-rite](vidhivarjitau)
+[great+seal](mahāmudrā) [great+bond](mahāvaṃdhau) [fruitless](niḥphalau) [rule+devoid](vidhivarjitau)
 
 ## mukta-m0-p07-v155
-[of-winds](vāyūnāṃ) [movement](gati) [covering](māvṛtya) [throat-seal](kaṇṭhamudrayā) [shining](nibhaṃtaṃ)
+[winds+movement](vāyūnāṃgati) [having-closed](māvṛtya) [pressing](nibhaṃtaṃ) [throat+seal](kaṇṭhamudrayā)
 
 ## mukta-m0-p07-v156
-[both-calves](jaṃghā+dvayaṃ) [drawing-together](samākṛṣya) [wind](vāyuḥ) [trembles](sphurati) [quickly](satvaraṃ)
+[thighs](jaṃghā) [pair](dvayaṃ) [having-drawn-together](samākṛṣya) [wind](vāyuḥ) [throbs](sphurati) [quickly](satvaraṃ)
 
 ## mukta-m0-p07-v157
-[death-state](mṛtāvasthā) [arisen](samutpannā) [then](tato) [wind](vāyuṃ) [expel](virecayet)
+[death+state](mṛtāvasthā) [arisen](samutpannā) [then](tato) [wind](vāyuṃ) [should-expel](virecayet)
 
 ## mukta-m0-p07-v158
-[wrinkle-grey-hair](valīpalita) [piercing-destroyer](vedhaghnaḥ) [called](kathyate) [by-best-practitioners](sādhakottamaiḥ)
+[wrinkles+gray-hair](valīpalita) [piercing+destroyer](vedhaghnaḥ) [is-called](kathyate) [by-best-practitioners](sādhakottamaiḥ)
 
 ## mukta-m0-p07-v159
-[fire](vahni) [growth-causing](vṛddhikaraṃ) [thought](ciṃta) [atom-etc-giving](daṇimādiśunapradaṃ)
+[fire](vahni) [increase+causing](vṛddhikaraṃ) [thought+aṇimā+etc+giving](ciṃtadaṇimādiśunapradaṃ)
 
 ## mukta-m0-p07-v160
-[merit-accumulation](puṇyasaṃbhāra) [produced](saṃbhāvi) [sin-flood](pāpaugha) [breaking](bhiduraṃ) [thus](tathā)
+[merit+accumulation+productive](puṇyasaṃbhārasaṃbhāvi) [sin+multitude+breaking](pāpaughabhiduraṃ) [thus](tathā)
 
 ## mukta-m0-p07-v161
-[fire-woman-path](vahnistrīpatha) [service](sevānāṃ) [first](mādau) [avoidance](varjana) [practice](mācaret)
+[fire+woman+path](vahnistrīpatha) [service](sevānāṃmādau) [avoidance](varjana) [should-do](mācāret)
 
 ## mukta-m0-p07-v162
-[so-long](tāvadyāvat) [brow-middle](bhrūmadhyaṃ) [tongue](rasanā) [touches](spṛśati) [sky-goer](khecarī)
+[so-long-as](tāvadyāvat) [between-eyebrows](bhrūmadhyaṃ) [tongue+touches](rasanāspṛśati) [in-sky](khecarī)
 
 ## mukta-m0-p07-v163
-[of-brows](bhruvoḥ) [inside](aṃtargatā) [gaze](dṛṣṭiḥ) [seal](mudrā) [becomes](bhavati) [sky-goer](khecarī)
+[between-eyebrows](bhruvoraṃtargatā) [gaze](dṛṣṭirmudrā) [becomes](bhavati) [sky-going](khecarī)
 
 ## mukta-m0-p07-v164
-[instant](kṣaṇena) [released](mucyate) [disease](vyādhi) [old-age-death](jarāmṛtyu) [burdens](bharādikaiḥ)
+[in-a-moment](kṣaṇena) [is-freed](mucyate) [disease](vyādhi) [old-age+death](jarāmṛtyu) [burden+etc](bharādikaiḥ)
 
 ## mukta-m0-p07-v165
-[not](na) [fainting](mūrchā) [becomes](bhavet) [his](tasya) [who](yo) [seal](mudrā) [knows](vetti) [sky-goer](khecarī)
+[not](na) [and](ca) [fainting](mūrchā) [becomes](bhavet) [his](tasya) [who](yaḥ) [knows](vetti) [sky-going+seal](khecarī)
 
 ## mukta-m0-p07-v166
-[by-time](sakālena) [whose](yasya) [seal](mudrā) [is](asti) [sky-goer](khecarī) [vādhyatena](vādhyatena)
+[protected](vādhyatena) [by-time](sakālena) [whose](yasya) [is](asti) [sky-going+seal](khecarī)
 
 ## mukta-m0-p07-v167
-[by-him](tena) [this](eṣā) [sky-goer](khecarī) [named](nāma) [seal](mudrā) [by-siddhas](siddhair) [saluted](namaskṛtā)
+[by-him](tenaiṣā) [sky-going](khecarī) [named](nāma) [seal](mudrā) [by-siddhas+revered](siddhairnamaskṛtā)
 
 ## mukta-m0-p07-v168
-[not](na) [his](tasya) [drop](kṣarate) [viṃduḥ](viṃduḥ) [of-desired-woman](kāminyā) [embraced](śleṣitasya) [and](ca)
+[not](na) [his](tasya) [flows](kṣarate) [drop](viṃduḥ) [with-woman](kāminyā) [embraced](śleṣitasya) [ca]
 
 ## mukta-m0-p07-v169
-[leads](nayed) [upward](ūrdhvaṃ) [by-force](haṭhāt) [by-power](śaktyā) [bound](nivaddhe) [yoni](yoni) [seal](mudrayā)
+[should-lead](nayedūrdhvaṃ) [forcibly](haṭhācchaktyā) [bound](nivaddhe) [yoni+seal](yoni+mudrayā)
 
 ## mukta-m0-p07-v170
-[in-half-month](māsārdheṇa) [no](na) [doubt](saṃdeho) [death](mṛtyuṃ) [conquers](jayati) [yoga-knower](yogavit)
+[in-half-a-month](māsārdheṇa) [not](na) [doubt](saṃdeho) [death](mṛtyuṃ) [conquers](jayati) [yoga-knower](yogavit)
 
 ## mukta-m0-p07-v171
-[by-takṣaka](takṣakenāpi) [bitten](daṣṭasya) [poison](viṣaṃ) [his](tasya) [not](na) [spreads](sarpati)
+[by-takṣaka+even](takṣakenāpi) [bitten](daṣṭasya) [poison](viṣaṃ) [his](tasya) [not](na) [spreads](sarpati)
 
 ## mukta-m0-p07-v172
-[thus](tathā) [moon-digit-full](somakalāpūrṇaṃ) [embodied](dehī) [body](dehaṃ) [not](na) [leaves](muṃcati)
+[thus](tathā) [moon+digit+full](somakalāpūrṇaṃ) [embodied-one](dehī) [body](dehaṃ) [not](na) [releases](muṃcati)
 
 ## mukta-m0-p07-v173
-[noble](kulīnaṃ) [him](tamaṃ) [I-consider](ahaṃmanye) [others](tvitare) [family-destroyers](kulaghātakaḥ)
+[noble](kulīnaṃ) [him](tamahaṃmanye) [other](tvitare) [family+destroyer](kulaghātakaḥ)
 
 ## mukta-m0-p07-v174
-[cow-flesh](gomāṃsa) [eating](bhakṣaṇaṃ) [that](tattu) [great-sin](mahāpātaka) [destroying](nāśanaṃ)
+[beef](gomāṃsa) [eating](bhakṣaṇaṃ) [that](tattu) [great-sin+destruction](mahāpātaka+nāśanaṃ)
 
 ## mukta-m0-p07-v175
-[moon](caṃdrāt) [flows](dravati) [whose](yaḥ) [essence](sāraḥ) [from-that](sasyāt) [immortal-liquor](amaravāruṇī)
+[moon+flows](caṃdrādravati) [that](yaḥ) [essence](sāraḥ) [grain+eater](sasyādamaravāruṇī)

@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p18-v426
-[worshipped](pūjitaṃ) [worn+and+indeed](dhāritam+ca+eva) [all+calamities+destroying](sarva+upadrava+nāśanam)
+[worshipped](pūjitaṃ) [worn](dhāritañ)+[and](ca)+[indeed](eva) [all](sarva)+[calamity](upadrava)+[destroying](nāśanam)
 
 ## mukta-m0-p18-v427
-[with-gorocanā](gorocanābhiḥ) [having-written](saṃlikhya) [one-should-wear](dhārayet) [O-supreme-goddess](parameśvari)
+[with-gorocanā](gorocanābhiḥ) [having-written](saṃlikhya) [one-should-wear](dhārayet)+[o-supreme](parama)+[goddess](īśvari)
 
 ## mukta-m0-p18-v428
-[on-each-leaf](pratipatreṣu) [which+seed-syllable](yam+bījam) [one-should-write+then](likhet+atha) [separately+separately](pṛthak+pṛthak)
+[on-each-petal](pratipatreṣu) [which](yaṃ)+[seed-syllable](bījaṃ) [one-should-write](likhet)+[then](atha) [separately](pṛthak)+[separately](pṛthak)
 
 ## mukta-m0-p18-v429
-[of-crow-barren](kākavandhyā) [woman+even](janasya+api) [many+sons+making](bahu+putra+karam) [supreme](param)
+[of-kākavandhyā](kākavandhyā)+[woman](janasyāpi) [many](bahu)+[son](putra)+[making](karaṃ) [supreme](param)
 
 ## mukta-m0-p18-v430
-[in-the-six-corners](ṣaṭkoṇeṣu) [and](ca) [six](ṣaṭ) [long-vowels](dīrghān) [one-should-write](vilikhet) [O-supreme-goddess](parameśvari)
+[in-six-corners](ṣaṭkoṇeṣu) [and](ca) [six](ṣaṭ) [long-vowels](dīrghān) [one-should-write](vilikhet)+[o-supreme](parama)+[goddess](īśvari)
 
 ## mukta-m0-p18-v431
-[in-the-entire+middle](sarva+madhye) [one-should-write](likhet) [O-goddess](devi) [then](tataḥ) [listen](śṛṇu) [O-great-goddess](maheśvari)
+[in-all](sarva)+[middle](madhye) [one-should-write](likhed)+[o-goddess](devi) [then](tataḥ) [listen](śṛṇu) [o-great](mahā)+[goddess](īśvari)
 
 ## mukta-m0-p18-v432
-[good-son](suputram) [and](ca) [having-written](samālikhya) [produce](utpādaya) [word+then](padam+tataḥ)
+[good-son](suputrañ)+[and](ca) [having-written](samālikhya) [produce](utpādaya) [word](padan)+[then](tataḥ)
 
 ## mukta-m0-p18-v433
-[from-wearing](dhāraṇāt) [all+prosperity](sarva+sampattiḥ) [will-be](bhavet) [O-goddess](devi) [not](na) [doubt](saṃśayaḥ)
+[from-wearing](dhāraṇāt)+[all](sarva)+[prosperity](sampattir)+[will-be](bhaved)+[o-goddess](devi) [no](na) [doubt](saṃśayaḥ)
 
 ## mukta-m0-p18-v434
-[of-which](yasya) [by-wearing+merely](dhāraṇamātreṇa) [one-should-subjugate](vaśīkuryāt) [again](punaḥ) [O-beloved](priye)
+[of-which](yasya) [by-mere](dhāraṇa)+[wearing](mātreṇa) [one-should-subjugate](vaśīkuryāt) [again](punaḥ) [o-beloved](priye)
 
 ## mukta-m0-p18-v435
-[oṃ-enemy-face-bind-thus](oṃ śatrumukhaṃ bandhayeti) [on-each+lotus+petal](pratipadma+dalaṃ) [one-should-write](likhet)
+[oṃ-śatrumukhaṃ-bandhayeti](oṃ śatrumukhaṃ bandhayeti) [on-each](prati)+[lotus](padma)+[petal](dalaṃ) [one-should-write](likhet)
 
 ## mukta-m0-p18-v436
-[as-before](pūrvavat) [one-should-worship+goddess](pūjayet+devīm) [one-should-recite+a-hundred-thousand](japet+lakṣaṃ) [according-to-rule](vidhānataḥ)
+[as-before](pūrvavat)+[one-should-worship](pūjayed)+[goddess](devīṃ) [one-should-recite](japel)+[hundred-thousand](lakṣaṃ) [according-to-rule](vidhānataḥ)
 
 ## mukta-m0-p18-v437
-[having-offered-oblation](hutvā) [and+indeed](ca+eva) [according-to-rule](vidhānena) [he](sa) [subjugated](vaśī) [becomes](bhavati) [certainly](dhruvam)
+[having-offered-oblation](hutvā) [and](ca)+[indeed](eva) [according-to-rule](vidhānena) [he](sa) [subjugated](vaśī) [becomes](bhavati) [certainly](dhruvam)
 
 ## mukta-m0-p18-v438
-[outside](bahiḥ) [earth+pair](bubhū+dvayam) [having-written](likhya) [in-the-four+directions](caturdikṣu) [and](ca) [hrīṃ](hrīṃ) [one-should-write](likhet)
+[outside](bahir)+[bhū](bhu)+[bhū](bhū)+[pair](dvayaṃ) [having-written](likhya) [in-four](catur)+[directions](dikṣu) [and](ca) [hrīṃ](hrīṃ) [one-should-write](likhet)
 
 ## mukta-m0-p18-v439
-[on-the-neck](grīvāyām) [or-in-the-throat+region](kaṇṭha+deśe) [or](vā) [on-the-crown-of-head](śikhāyām) [or+even](vā+api) [from-wearing](dhāraṇāt)
+[on-neck](grīvāyāṃ) [on-throat](kaṇṭha)+[region](deśe) [or](vā) [on-tuft](śikhāyāṃ) [or](vā)+[also](api) [from-wearing](dhāraṇāt)
 
 ## mukta-m0-p18-v440
-[by-the-previously-stated+method](pūrvokta+vidhinā) [a-hundred-thousand](lakṣaṃ) [Durgā+mantra](durgā+mantram) [should-recite+wise-one](japet+budhaḥ)
+[by-previously](pūrva)+[stated](ukta)+[method](vidhinā) [hundred-thousand](lakṣaṃ) [durgā](durgā)+[mantra](mantraṃ) [one-should-recite](japed)+[wise-one](budhaḥ)
 
 ## mukta-m0-p18-v441
-[two+squares](catuṣkoṇa+dvayam) [outside](bāhye) [having-written](likhitvā) [one-should-wear+if](dhārayet+yadi)
+[four-cornered](catuṣkoṇa)+[pair](dvayaṃ) [outside](bāhye) [having-written](likhitvā) [one-should-wear](dhārayed)+[if](yadi)
 
 ## mukta-m0-p18-v442
-[one-should-wear](dhārayet) [supreme](paramaṃ) [yantra](yantram) [having-living+offspring](jīva+vatsā) [then](tataḥ) [she-becomes](bhavet)
+[one-should-wear](dhārayet) [supreme](paramaṃ) [yantra](yantraṃ) [having-living](jīva)+[calves](vatsā) [then](tato) [she-becomes](bhavet)
 
 ## mukta-m0-p18-v443
-[oṃ-hrīṃ-Devadatta-hrīṃ](oṃ hrīṃ devadatta hrīṃ) [in-the-middle+of-the-line](rekhā+madhye) [one-should-write](likhet) [O-auspicious-one](śive)
+[oṃ-hrīṃ-devadatta-hrīṃ](oṃ hrīṃ devadatta hrīṃ) [in-line](rekhā)+[middle](madhye) [one-should-write](likhecchive)
 
 ## mukta-m0-p18-v444
-[with-gorocanā+and-saffron](gorocanā+kuṃkumena) [or+likewise](tathā+eva) [with-lac](alaktakena) [or](vā)
+[with-gorocanā](gorocanā)+[and-kuṅkuma](kuṃkumena) [or](tathaivā)+[with-lac](laktakena) [or](vā)
 
 ## mukta-m0-p18-v445
-[in-the-five+nectars](pañca+amṛteṣu) [O-lord-of-gods](deveśi) [having-living+offspring](jīva+vatsā) [she-becomes+indeed](bhavet+hi) [she](sā)
+[in-five](pañca)+[nectars](amṛteṣu) [o-lord](deva)+[of-gods](īśi) [having-living](jīva)+[calves](vatsā) [she-becomes](bhaved)+[indeed](dhi) [she](sā)
 
 ## mukta-m0-p18-v446
-[in-the-stated+form](ukta+rūpe) [likewise](tathā) [worship](pūjām) [a-hundred-thousand+mantra](lakṣa+mantram) [one-should-recite](japet) [O-auspicious-one](śive)
+[in-stated](ukta)+[form](rūpe) [likewise](tathā) [worship](pūjāṃ) [hundred-thousand](lakṣa)+[mantra](mantraṃ) [one-should-recite](japecchive)
 
 ## mukta-m0-p18-v447
-[thus](iti) [in-the-Kriyoḍḍīśa](kriyoḍḍīśe) [in-the-great+tantra+king](mahā+tantra+rāje) [in-the-goddess+lord+dialogue](devī+īśvara+saṃvāde) [twentieth](viṃśatitamaḥ) [chapter](paṭalaḥ)
+[thus](iti) [in-kriyoḍḍīśa](kriyoḍḍīśe) [in-great](mahā)+[tantra](tantra)+[king](rāje) [in-goddess](devī)+[and-lord](īśvara)+[dialogue](saṃvāde) [twentieth](viṃśatitamaḥ) [chapter](paṭalaḥ)
 
 ## mukta-m0-p18-v448
-[of-agitated+water+strength+causing](kṣubdha+udaka+bala+kāritvāt) [and-eye+defect+removing](cakṣuḥ+doṣa+apahāriṇī)
+[of-agitated](kṣubdha)+[milk-ocean](udhodha)+[strength](bala)+[causing](kāritvāc)+[eye](cakṣur)+[defect](doṣa)+[removing](apahāriṇī)
 
 ## mukta-m0-p18-v449
-[with-ghee](ghṛtena) [intelligence+producing](medhā+jananī) [speech+goddess](vāk+devī) [subjugation+causing](vaśa+kāriṇī)
+[with-ghee](ghṛtena) [intelligence](medhā)+[producing](jananī) [speech](vāg)+[goddess](devī) [subjugation](vaśa)+[causing](kāriṇī)
 
 ## mukta-m0-p18-v450
-[with-rock-salt](saindhavena) [joined](yutā) [she](sā) [indeed](hi) [belly+fire](jaṭhara+agnim) [increases](vivarddhayet)
+[with-rock-salt](saindhavena) [joined](yutā) [she](sā) [indeed](hi) [digestive](jaṭhara)+[fire](āgniṃ) [increases](vivarddhayet)
