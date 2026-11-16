@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p46-v1126
-[by-the-hero](vīreṇa) [in-them](tāsu) [to-be-done](karttavyo) [reason](hetur) + [delighting](aṃjana) + [causes](hetavaḥ)
+[by-a-hero](vīreṇa) [in-them](tāsu) [should-be-done](karttavyo) [cause](hetur) [for-the-sake-of-delighting](aṃjana+hetavaḥ)
 
 ## mukta-m0-p46-v1127
-[being-instructed](ācāryamāṇair) + [by-which](yas) + [of-women](trīṇāṃ) [no-other](ananya) + [refuge](śaraṇaṃ) [mind](manaḥ)
+[by-those-being-instructed](ācāryamāṇair) [of-women](yas+trīṇāṃ) [having-no-other-refuge](ananya+śaraṇaṃ) [mind](manaḥ)
 
 ## mukta-m0-p46-v1128
-[in-stumblings](skhalaneṣu) [forbearance](titikṣā) [and](ca) [of-fault](doṣasya) [re-examination](punarīkṣaṇam)
+[in-stumblings](skhalaneṣu) [forbearance](titikṣā) [and](ca) [of-fault](doṣasya) [reconsideration](punar+īkṣaṇam)
 
 ## mukta-m0-p46-v1129
-[punishment](daṇḍa) + [policy](nītir) + [not](nna) [but](tu) [toward-women](strīṣu) [to-cause-to-fall](prapātayitu) [is-fit](marhati)
+[punishment-policy](daṇḍa+nītir) [not](nna) [but](tu) [toward-women](strīṣu) [to-cause-to-fall](prapātayitu) [is-fit](marhati)
 
 ## mukta-m0-p46-v1130
-[see](paśya) + [boldness](sāhasam) + [this](etāsāṃ) [having-gone-to-heaven](svargate) [own](nija) + [husband](bharttari)
+[see](paśya) [boldness](sāhasam) [of-these](etāsāṃ) [having-gone-to-heaven](svargate) [own-husband](nija+bharttari)
 
 ## mukta-m0-p46-v1131
-[by-grief](kheda) + [beating](tāḍana) + [harshness](pāruṣyair) [they-abandon](muṃcanty) + [indeed](eva) [own](sva) + [life](jīvitam)
+[by-grief](kheda) [beating](tāḍana) [and-harshness](pāruṣyair) [they-abandon](muṃcanty) [indeed](eva) [own-life](sva+jīvitam)
 
 ## mukta-m0-p46-v1132
-[therefore](ataś) + [and](ca) + [gentleness](mārdavaṃ) + [in-them](tāsu) [first](prathamaṃ) [mind](citta) + [delighting](raṃjanam)
+[therefore](ataś) [and](ca) [gentleness](mārdavaṃ) [in-them](tāsu) [first](prathamaṃ) [delighting-of-the-mind](citta+raṃjanam)
 
 ## mukta-m0-p46-v1133
-[exceedingly](atyaṃtam) + [growth](abhivṛddhiṃ) [and](ca) [should-lead](nayat) + [mind](cetta) + [in-them](āsu) + [practitioner](sādhakaḥ)
+[extremely](atyaṃtam) [growth](abhivṛddhiṃ) [and](ca) [should-lead](nayat) [mind](cetta) [in-them](āsu) [the-practitioner](sādhakaḥ)
 
 ## mukta-m0-p46-v1134
-[by-middle](madhyamena) [method](prakāreṇa) [sight](darśanaṃ) [should-indicate](pradiśid) + [wise-one](budhaḥ)
+[by-moderate](madhyamena) [method](prakāreṇa) [sight](darśanaṃ) [should-indicate](pradiśid) [the-wise-one](budhaḥ)
 
 ## mukta-m0-p46-v1135
-[attached](raktaḥ) [to-defeat-by-another](parebhavaṃ) [goes](yāti) [disrespected](paribhūtaḥ) [how](kathaṃ) [O-beloved](priye)
+[attached](raktaḥ) [to-defeat-by-another](pare+bhavaṃ) [goes](yāti) [disregarded](paribhūtaḥ) [how](kathaṃ) [O-beloved](priye)
 
 ## mukta-m0-p46-v1136
-[when-desiring-intercourse](vṛṣasyaṃtīṣu) [in-those](tāsv) + [O-mother](aṃba) [not](na) [indeed](vai) [principal-thing](mukhyaṃ) [and](ca) [should-practice](cārayet)
+[when-they-are-desirous](vṛṣasyaṃtīṣu) [in-those](tāsv) [O-mother](aṃba) [not](na) [indeed](vai) [the-chief-thing](mukhyaṃ) [and](ca) [one-should-practice](cārayet)
 
 ## mukta-m0-p46-v1137
-[morsels](grāsān) + [also](api) [and](ca) [garments](vāsāṃsi) [according-to](yathā) [ability](śakti) [should-offer](nivedayet)
+[morsels](grāsān) [also](api) [and](ca) [garments](vāsāṃsi) [according-to](yathā) [ability](śakti) [one-should-offer](nivedayet)
 
 ## mukta-m0-p46-v1138
-[therefore](tasmād) [hero](vīra) + [people](jana) + [dependent](adhīnā) [female-messenger](dūtikā) [by-nature](prakṛti) [O-Śivā](śive)
+[therefore](tasmād) [dependent-on-heroic-men](vīra+jana+adhīnā) [female-messenger](dūtikā) [by-nature](prakṛti) [O-Śivā](śive)
 
 ## mukta-m0-p46-v1139
-[of-couple](daṃpatyor) + [union](ghaṭanaṃ) [should-speak](brūyat) [human-goal](puruṣa) + [artha] + [sole](eka) + [cause](kāraṇam)
+[of-the-couple](daṃpatyor) [union](ghaṭanaṃ) [she-should-speak](brūyat) [sole-cause-of-human-goals](puruṣa+artha+eka+kāraṇam)
 
 ## mukta-m0-p46-v1140
-[mutual](anyonyam) + [by-affection](anurāgeṇa) [great](mahat) + [happiness](saukhyaṃ) [is-born](prajāyate)
+[by-mutual](anyonyam) [affection](anurāgeṇa) [great-happiness](mahat+saukhyaṃ) [is-produced](prajāyate)
 
 ## mukta-m0-p46-v1141
-[therefore](tasmāt) [for-favoring-that](tadānukūlyāya) [own-favor](svānukūlyaṃ) [should-reveal](prakāśayet)
+[therefore](tasmāt) [for-conformity-to-that](tad+ānukūlyāya) [own-conformity](sva+ānukūlyaṃ) [one-should-reveal](prakāśayet)
 
 ## mukta-m0-p46-v1142
-[embrace](āliṃgana) + [pretext](chalena) + [indeed](eva) [pleasant](sukhaṃ) [massage](saṃvāhanaṃ) [should-perform](caret)
+[under-pretext-of-embracing](āliṃgana+chalena) [indeed](eva) [pleasant](sukhaṃ) [massage](saṃvāhanaṃ) [one-should-perform](caret)
 
 ## mukta-m0-p46-v1143
-[having-taken](ādāya) + [should-anoint](limpet) + [feet](caraṇe) [of-female-messenger](dūtyāḥ) [she](sā) [not](na) + [going-to-another](anyagā) + [would-be](bhavet)
+[having-taken](ādāya) [one-should-anoint](limpet) [on-the-feet](caraṇe) [of-the-messenger](dūtyāḥ) [she](sā) [not-going-to-another](na+anya+gā) [would-become](bhavet)
 
 ## mukta-m0-p46-v1144
-[disgusted](jugupsamāno) [not](na) [should-be](bhaved) + [aversion](vairāgyaṃ) [by-that](tena) [arises](jāyate)
+[disgusted](jugupsamāno) [not](na) [one-should-be](bhaved) [aversion](vairāgyaṃ) [by-that](tena) [arises](jāyate)
 
 ## mukta-m0-p46-v1145
-[with-good](sati) + [among-people](lokeṣu) [wandering](saṃcāram) + [festival](utsavaṃ) [and](ca) [at-every](pade) [step](pade)
+[with-bowing](sati+lokeṣu) [movement](saṃcāram) [and-festival](utsavaṃ) [and](ca) [at-every-step](pade+pade)
 
 ## mukta-m0-p46-v1146
 [with-various](vividaiḥ) [juicy](sarasaiḥ) [ripe](pakvaiḥ) [fruits](phalaiḥ) [flowers](puṣpaiḥ) [fragrant](sugaṃdhibhiḥ)
 
 ## mukta-m0-p46-v1147
-[with-unguents](udvarttanaiś) + [and](ca) + [betel](tāṃbūlair) + [with-ointments](aṃjanair) + [with-mouth-perfumes](mukhavāsitaiḥ)
+[with-unguents](udvarttanaiś) [and](ca) [betel](tāṃbūlair) [with-cosmetics](aṃjanair) [with-mouth-perfumes](mukha+vāsitaiḥ)
 
 ## mukta-m0-p46-v1148
-[should-delight](raṃjayed) + [beloved-woman](ramaṇīṃ) [wise-one](dhīmān) + [with-enjoyments](bhogair) + [and](ca) + [with-brilliant-things](dīptaiś) [O-Pārvatī](pārvati)
+[one-should-delight](raṃjayed) [the-beloved-woman](ramaṇīṃ) [the-wise-man](dhīmān) [with-enjoyments](bhogair) [and-with-brilliant](dīptaiś) [and](ca) [O-Pārvatī](pārvati)
 
 ## mukta-m0-p46-v1149
-[so-long](tāvad) + [delighting](dhiramanā) [indeed](eva) [enjoyment](bhoga) + [varieties](bhedā) [but](tu) [should-practice](pācaret)
+[so-long](tāvad) [delighting](dhiramanā) [indeed](eva) [varieties-of-enjoyment](bhoga+bhedā) [but](tu) [one-should-practice](pācaret)
 
 ## mukta-m0-p46-v1150
-[by-praise](ślāghayā) + [arises](jāyate) [that](tat) + [and](ca) [with-pride](sadarpā) + [fruitless](viphalās) + [women](triyaḥ)
+[by-praise](ślāghayā) [arises](jāyate) [that](tat) [and](ca) [proud](sa+darpā) [fruitless](vi+phalās) [women](triyaḥ)
