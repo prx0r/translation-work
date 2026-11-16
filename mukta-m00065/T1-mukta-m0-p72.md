@@ -2,76 +2,52 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p72-v1776
-with-lumps(piṇḍaiḥ) or(vā) with-own-parts-endowed(svakalā+anvitaiḥ)
-
+[with-lumps](piṇḍair) [or](vā) [with-own-parts](svakalānvitaiḥ)
 ## mukta-m0-p72-v1777
-blazing-fire-like(jvalat+agni+samākāram) flashing(visphurantam) on-all-sides(samantataḥ)
-
+[blazing-fire-like](jvaladagnisamākāraṃ) [flashing](visphurantaṃ) [all-around](samantataḥ)
 ## mukta-m0-p72-v1778
-all(sarvam) is-purified(śuddhyati) by-that-alone(tena+eva) world(jagat) stationary-and-moving(sthāvara+jaṅgamam)
-
+[all](sarvaṃ) [becomes-pure](śuddhyati) [by-that-alone](tenaiva) [world-stationary-mobile](jagasthāvarajaṅgamam)
 ## mukta-m0-p72-v1779
-Avīci(avicī) and-Raurava(rauravaḥ+ca+eva) and-Mahāraurava(mahārauravaḥ) indeed(eva) and(ca)
-
+[avicī](avicī) [raurava-and-indeed](rauravaścaiva) [mahāraurava](mahāraurava) [eva](eva) [ca](ca)
 ## mukta-m0-p72-v1780
-called-Nitala(nitala+āhvam) and-called-Vara(vara+āhvam) and(ca) and-called-Ābhāsa(ābhāsa+ākhyam) and(ca) seventh(saptamam)
-
+[named-nitala](nitalāhvaṃ) [named-vara](varāhvaṃ) [and](ca) [named-ābhāsa](ābhāsākhyaṃ) [and](ca) [seventh](saptamam)
 ## mukta-m0-p72-v1781
-Hara(haraḥ)
-
+[hara](haraḥ)
 ## mukta-m0-p72-v1782
-earth-principle(urvi+tattvam) is-declared(samākhyātam) from-water-etc(jala+ādi) doubled(dvi+guṇam) in-order(kramāt)
-
+[earth-principle](urvitattvaṃ) [declared](samākhyātaṃ) [doubled-from-water-etc](jalādidviguṇaṃ) [in-order](kramāt)
 ## mukta-m0-p72-v1783
-touch(sparśaḥ) and-sound(śabdaḥ+ca) and(ca) five(pañca) indeed(eva) subtle-elements(tanmātrāṇi) in-due-order(yathā+kramam)
-
+[touch-sound-and](sparśaḥśabdaśca) [five-indeed](pañcaiva) [subtle-elements](tanmātrāṇi) [in-order](yathākramam)
 ## mukta-m0-p72-v1784
-Puruṣa(pumān) and-Rāga(rāgaḥ+ca) and-Vidyā(vidyā) and(ca) and-Niyati(niyatiḥ+ca) Kulāntaka(kulāntakaḥ)
-
+[puruṣa](pumān) [attachment](rāgaḥ) [and](ca) [knowledge](vidyā) [and](ca) [limitation](niyatiḥ) [and](ca) [ender-of-family](kulāntakaḥ)
 ## mukta-m0-p72-v1785
-and-Śakti(śaktiḥ+ca) from-these(ebhyaḥ) beyond(parastāt) and(ca) called-Śiva(śiva+ākhyaḥ) supreme(paramaḥ) imperishable(avyayaḥ)
-
+[power](śaktiḥ) [ca](ca) [from-these](ebhyaḥ) [beyond](parastāt) [ca](ca) [named-śiva](śivākhyaḥ) [supreme](paramaḥ) [imperishable](avyayaḥ)
 ## mukta-m0-p72-v1786
-five-elements(pañca+bhūtam) and(ca) subtle-elements(tanmātram) intellect(buddhiḥ) and-organs-of-action(karma+indriyāṇi) and(ca)
-
+[five-elements](pañcabhūtaṃ) [and](ca) [subtle-element](tanmātraṃ) [intellect](buddhiḥ) [action-organs](karmendriyaṇi) [and](ca)
 ## mukta-m0-p72-v1787
-twenty-four(catur+viṃśati) principles(tattvāni) Prakṛti(prakṛtiḥ) gone-to-left-ear(vāma+karṇa+gāḥ)
-
+[twenty-four-principles](caturviṃśatitattvāni) [prakṛti](prakṛtiḥ) [left-ear-going](vāmakarṇagāḥ)
 ## mukta-m0-p72-v1788
-is-declared(samākhyātā) Niyati(niyatiḥ) in-heart(hṛdaye) situated(sthitā)
-
+[declared](samākhyātā) [niyati](niyatiḥ) [in-heart](hṛdaye) [situated](sthitā)
 ## mukta-m0-p72-v1789
-and-twenty-five(pañca+viṃśat+ca) principles(tattvāni) in-body-of-piṇḍikā(piṇḍikā+kāyām) situated(sthitāni) indeed(tu)
-
+[twenty-five](pañcaviṃśat) [and](ca) [principles](tattvāni) [in-body](piṇḍīkāyāṃ) [situated](sthitāni) [indeed](tu)
 ## mukta-m0-p72-v1790
-consisting-of-mantra(mantra+bhūtam) Śiva(śivam) there(tatra) one-should-place(vinyaset) for-attainment-and-liberation(siddhi+muktaye)
-
+[mantra-formed](mantrabhūtaṃ) [śiva](śivaṃ) [there](tatra) [should-place](vinyaset) [for-siddhi-liberation](siddhimuktaye)
 ## mukta-m0-p72-v1791
-having-placed(nyasya) indeed(tu) one-should-meditate(bhāvayet) pervasion(vyāptim) and-Śiva-form(śiva+rūpam) and(ca) which(yat) supreme(param)
-
+[having-placed](nyasya) [indeed](tu) [should-meditate](bhāvayet) [pervasion](vyāptiṃ) [śiva-form](śivarūpaṃ) [and](ca) [supreme](yatparam)
 ## mukta-m0-p72-v1792
-from-Īśvara-to-Śiva(īśvara+ādi+śiva+antam) and(ca) triad(tritayam) one-should-offer(kvacit) somewhere(homayet)
-
+[from-īśvara-to-śiva-end](īśvarādiśivāntaṃ) [and](ca) [triad](tritayaṃ) [should-offer](homayet) [sometimes](kvacit)
 ## mukta-m0-p72-v1793
-with-water-of-Śiva-pot(śiva+kumbha+ambunā) likewise(tadvat) and-above-that(tat+ūrdhve) and(ca) one-should-remove(haret) body(tanum)
-
+[with-śiva-pot-water](śivakumbhāmbunā) [likewise](tadvat) [above-that](tadūrdhve) [and](ca) [hari's-body](harestanum)
 ## mukta-m0-p72-v1794
-Varṇa-Rudras-etc(varṇa+rudra+ādi) Vidyeśas(vidyeśān) world-lords(lokeśān) leaders-of-gaṇas(gaṇa+nāyakān)
-
+[varṇa-rudra-etc-vidyeśas](varṇarudrādividyeśān) [lokeśas](lokeśān) [troop-leaders](gaṇanāyakān)
 ## mukta-m0-p72-v1795
-not(nā+api) burned(dagdham) and(ca) by-Śaiva-mantras(śaivaiḥ+mantraiḥ) consecrated(prasādhitam)
-
+[not-even](nāpi) [burnt](dagdhaṃ) [and](ca) [by-śaiva-mantras](śaivairmantraiḥ) [propitiated](prasādhitam)
 ## mukta-m0-p72-v1796
-final-oblation(pūrṇa+āhutim) with-Śiva(śivena) therefore(atas) for-completion-of-rite(yāgasya+paripūrtaye)
-
+[full-offering](pūrṇāhutiṃ) [by-śiva](śivena) [therefore](āto) [of-sacrifice](yāgasya) [for-completion](paripūrtaye)
 ## mukta-m0-p72-v1797
-at-that-time(tasmin+kāle) to-guru(gurau) gift(dānam) one-should-give(dadyāt) according-to-means(vitta+anusārataḥ)
-
+[at-that-time](tasminkāle) [to-guru](gurau) [gift](dānaṃ) [should-give](dadyāt) [according-to-wealth](vittānusārataḥ)
 ## mukta-m0-p72-v1798
-with-right-half(dakṣiṇa+ardhena) hand(hastena) again(punar) oblation(homam) one-should-cause-to-offer(pradāpayet)
-
+[with-right-half](dakṣiṇārdhena) [hand](hastena) [again-offering](punarhomaṃ) [should-cause](pradāpayet)
 ## mukta-m0-p72-v1799
-in-expiation(prāyaścitte) likewise(tathā) in-obstacle(vighne) great-weapon(mantra)(mahā+astram) one-should-offer(homayet) then(tataḥ)
-
+[for-expiation](prāyaścitte) [and](tathā) [obstacle](vighne) [great-weapon](mahāstraṃ) [should-offer](homayet) [then](tataḥ)
 ## mukta-m0-p72-v1800
-at-night(rātrau) great-festival(mahā+utsavaḥ) should-be-performed(kāryaḥ) with-sounds-of-conch-drums-etc(śaṅkha+bherī+ādi+nisvanaiḥ)
+[at-night](rātrau) [great-festival](mahotsavaḥ) [should-be-done](kāryaḥ) [with-conch-drum-etc-sounds](śaṅkhabheryādinisvanaiḥ)

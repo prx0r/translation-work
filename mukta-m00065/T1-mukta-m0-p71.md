@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p71-v1751
-[ghee+filled](ājyapūrṇaṃ) [likewise](tathā) [vessel](pātram) [of-each-one](aikaikasya) [should-give](pradāpayet)
+[ghee-filled](ājyapūrṇaṃ) [and](tathā) [vessel](pātram) [for-each-one](ekaikasya) [should-give](pradāpayet)
 
 ## mukta-m0-p71-v1752
-[fragrance+flower+offerings](gandhapuṣpopahārāṃśva) [ladle](sruk) [and-spoon](sruvau) [endowed-with-marks](lakṣaṇānvitau)
+[incense-flower-offerings-and](gandhapuṣpopahārāṃśva) [ladle-and-spoon](sruksruvau) [possessing-marks](lakṣaṇānvitau)
 
 ## mukta-m0-p71-v1753
-[white+garment+wearing](sitāmbaradharāḥ) [all](sarve) [white+sandal+anointed](sitacandanacarcitāḥ)
+[white-garment-wearing](sitāmbaradharāḥ) [all](sarve) [white-sandal-anointed](sitacandanacarcitāḥ)
 
 ## mukta-m0-p71-v1754
-[those](tāni) [having-worshipped](iṣṭvā) [with-gold+garments+etc.](svarṇavastrādyaḥ) [then](tatas) [them](tāṃs) [indeed](tu) [should-instruct](samādiśet)
+[having-sacrificed-those](tāniṣṭvā) [with-gold-garments-etc](svarṇavastrādyaiḥ) [then](tatas) [those](tān) [tu](tu) [should-appoint](samādiśet)
 
 ## mukta-m0-p71-v1755
-[sword](khādakaṃ) [in-the-west](paścime) [and](ca) [indeed](eva) [dagger](khuri) [weapon](kāstraṃ) [likewise](tathā) [in-the-north](uttare)
+[eater](khādakam) [in-west](paścime) [and-indeed](caiva) [donkey](khari) [weapon](kāstram) [and-in-north](tathottare)
 
 ## mukta-m0-p71-v1756
-[scripture+true+meaning+action+knowers](śāstrasadbhāvakarmajñāḥ) [fire-pit+consecration+preceded-by](kuṇḍasaṃskārapūrvakam)
+[scripture-true-nature-action-knowers](śāstrasadbhāvakarmajñāḥ) [kuṇḍa-purification-preceded](kuṇḍasaṃskārapūrvakam)
 
 ## mukta-m0-p71-v1757
-[thus](evaṃ) [indeed](tu) [image-guardians](mūrtipāḥ) [all](sarve) [having-done](kṛtvā) [ground-altar+libation](sthaṇḍilatarpaṇam)
+[thus](evaṃ) [tu](tu) [image-protectors](mūrtipāḥ) [all](sarve) [having-done](kṛtvā) [altar-libation](sthaṇḍilatarpaṇam)
 
 ## mukta-m0-p71-v1758
-[and-installer](sthāpakaḥ) [and](ca) [at-head-region](śirodeśe) [previous+materials+provided-with](pūrvasambhārasaṃbhṛtaḥ)
+[establisher](sthāpakaḥ) [and](ca) [head-place](śirodeśe) [previous-materials-gathered](pūrvasambhārasaṃbhṛtaḥ)
 
 ## mukta-m0-p71-v1759
-[one-pointed-mind](ekacittaḥ) [conquered-anger](jitakrodhaḥ) [full-of-faith](śraddadhāno) [conquered-senses](jitendriyaḥ)
+[one-minded](ekacittaḥ) [anger-conquered](jitakrodhaḥ) [faithful](śraddadhānaḥ) [senses-conquered](jitendriyaḥ)
 
 ## mukta-m0-p71-v1760
-[when-produced](janite) [when-satisfied](tarpite) [fire](vahnau) [should-offer](dadyāt) [full-oblation](pūrṇāhutiṃ) [then](tataḥ)
+[kindled](janite) [satisfied](tarpite) [fire](vahnau) [should-give-full-offering](dadyātpūrṇāhutim) [then](tataḥ)
 
 ## mukta-m0-p71-v1761
-[with-sideways+upward+going](tiryagūrdhvāgamotthaiḥ) [or](vā) [by-previously-stated+method+mantras](prāguktavidhimantrataḥ)
+[horizontal-vertical-going-risen-or](tiryagūrdhvāgamotthairvā) [previously-stated-rite-mantra](prāguktavidhimantrataḥ)
 
 ## mukta-m0-p71-v1762
-[of-root](dhātuḥ) [sound+prohibition+for-the-sake](śabdaniṣedhārthaṃ) [should-be](syāt) [in-threefold-secret+speech](matriguptabhāṣaṇe)
+[of-metal](dhātuḥ) [sound-prohibition-purpose](śabdaniṣedhārthaṃ) [may-be](syāt) [mantra-secret-speech](mantriguptabhāṣaṇe)
 
 ## mukta-m0-p71-v1763
-[in-placement](nyāsane) [in-oblation+rite](homakārye) [indeed](tu) [inaudible+etc.](upāṃśvādi) [and](ca) [preceptor](daiśikaḥ)
+[in-placement](nyāsane) [homa-work](homakārye) [tu](tu) [upāṃśu-etc](upāṃścādi) [and](ca) [teacher](daiśikaḥ)
 
 ## mukta-m0-p71-v1764
-[with-obstacles](savighno) [arises](jāyate) [sacrifice](yāgas) [therefore](tasmāt) [image-guardians](mūrtidharān) [should-worship](yajet)
+[with-obstacle](savighnaḥ) [arises](jāyate) [sacrifice](yāgaḥ) [therefore](tasmāt) [image-bearer](mūrtidharam) [should-worship](yajet)
 
 ## mukta-m0-p71-v1765
-[harsh+sound+prohibition+for-the-sake](krūraśabdaniṣedhārthaṃ) [for-auspiciousness](maṅgalārthaṃ) [always](sadaiva) [indeed](tu)
+[cruel-sound-prohibition-purpose](krūraśabdaniṣedhārthaṃ) [auspicious-purpose](maṅgalārthaṃ) [always](sadaiva) [tu](tu)
 
 ## mukta-m0-p71-v1766
-[own+scripture+characteristics+endowed-with](svaśāstralakṣaṇopetān) [brahmins](brāhmaṇān) [well-composed](susamāhitān)
+[own-scripture-mark-possessing](svaśāstralakṣaṇopetān) [brahmins](brāhmaṇān) [well-composed](susamāhitān)
 
 ## mukta-m0-p71-v1767
-[in-four+directions](caturdikṣu) [outside](bahiḥ) [afterwards](paścāt) [preceptor](ācāryas) [them](tān) [should-place](niveśayet)
+[four-directions-outside](caturdikṣubahiḥ) [afterwards](paścāt) [teacher](ācāryaḥ) [them](tān) [should-place](niveśayet)
 
 ## mukta-m0-p71-v1768
-[in-the-west](paścime) [followers-of-vājasaneyi](vājasaneyān) [followers-of-chandoga](chandogān) [in-the-north](uttareṇa) [indeed](tu)
+[in-west](paścime) [Vājasaneyins](vājasaneyān) [Sāmavedins](chandogān) [in-north](uttareṇa) [tu](tu)
 
 ## mukta-m0-p71-v1769
-[having-instructed](samādiśya) [then](tatas) [brahmins](viprān) [not-engaged](nadyuktān) [or](dvā) [by-indication](pradarśanāt)
+[having-appointed](samādiśya) [then](tato) [brahmins](viprān) [river-engaged](nadyuktān) [two](dvā) [by-showing](pradarśanāt)
 
 ## mukta-m0-p71-v1770
-[vṛṣākapi](vṛṣākapiṃ) [and](ca) [maitra](maitraṃ) [and](ca) [followers-of-ṛgveda](bahvṛcaḥ) [in-the-west](paścime) [should-recite](japet)
+[Vṛṣākapi](vṛṣākapim) [and](ca) [Maitra](maitram) [and](ca) [Bahvṛcas](bahvṛcaḥ) [in-west](paścime) [should-chant](japet)
 
 ## mukta-m0-p71-v1771
-[bhāruṇḍa-hymns](bhāruṇḍāni) [and](ca) [sāman-hymns](sāmāni) [vāmadeva](vāmadevaṃ) [likewise](tathaiva) [and](ca)
+[Bhāruṇḍa](bhāruṇḍāni) [and](ca) [Sāmans](sāmāni) [Vāmadeva](vāmadevam) [likewise](tathaiva) [and](ca)
 
 ## mukta-m0-p71-v1772
-[rudra](rudraṃ) [puruṣa-sūkta](puruṣasūktaṃ) [and](ca) [śloka-chapter](ślokādhyāyaṃ) [and](ca) [śukriya](śukriyam)
+[Rudra](rudram) [Puruṣasūkta](puruṣasūktam) [and](ca) [Ślokādhyāya](ślokādhyāyam) [and](ca) [Śukriya](śukriyam)
 
 ## mukta-m0-p71-v1773
-[hymn](sūktaṃ) [likewise](tathaiva) [and](ca)
+[hymn](sūktam) [likewise](tathaiva) [and](ca)
 
 ## mukta-m0-p71-v1774
-[another-view+subject-matter](matāntaraviṣayakam) [thus](iti)
+[other-opinion-subject](matāntaraviṣayakam) [iti](iti)
 
 ## mukta-m0-p71-v1775
-[hymn+mantra+knowers](stotramantravidaḥ) [and](ca) [others](anye) [should-recite](japeyuḥ) [in-the-south](dakṣiṇe) [always](sadā)
+[stotra-mantra-knowers](stotramantravidaḥ) [and](ca) [others](anye) [should-chant-read](japeyupaṭheyuḥ) [in-south](dakṣiṇe) [always](sadā)
