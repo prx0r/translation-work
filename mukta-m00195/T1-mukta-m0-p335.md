@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p335-v8351
-[three-thousand](trisahasraṃ) [by-that](tena) [obtains](labhate) [kingdom+sovereignty](rājyaiśvaryyam) [destitute-one](akiñcanaḥ)
+[three+thousand](trisahasraṃ) [by-that](tena) [obtains](labhate) [kingdom+sovereignty](rājyaiśvaryam) [the-destitute](akiñcanaḥ)
 
 ## mukta-m0-p335-v8352
-[earth+gone](dharāgataṃ) [treasure](nidhānaṃ) [he](sa) [certainly](dhruvaṃ) [obtains](prāpnoti) [at-that-moment](tatkṣaṇāt)
+[earth+gone](dharāgataṃ) [treasure](nidhānaṃ) [he](sa) [certainly](dhruvaṃ) [obtains](prāpnoti) [that+moment](tatkṣaṇāt)
 
 ## mukta-m0-p335-v8353
-[ten-thousand](ayutaṃ) [should-mutter](prajapen) [mantra](mantraṃ) [which](yat) [peace](śāṃtiḥ) [without-delay](acirāt) [may-be](bhavet)
+[ten-thousand](ayutaṃ) [one-should-mutter](prajapen) [mantra](mantraṃ) [which](yat) [peace](śāṃtiḥ) [without-delay](acirāt) [may-be](bhavet)
 
 ## mukta-m0-p335-v8354
-[good-fortune+health+prosperity](saubhāgyārogya+sampatti) [receptacle](bhājanaṃ) [man](manujo) [may-become](bhavet)
+[good-fortune+health+prosperity+recipient](saubhāgyārogyasampattibhājanaṃ) [man+born](manujo) [may-become](bhavet)
 
 ## mukta-m0-p335-v8355
-[smeared](lipte) [ground-circle](bhūmaṇḍale) [having-made](kṛtvā) [should-sit](niṣīdet) [in-the-west](paścime) [then](tataḥ)
+[smeared](lipte) [ground+circle](bhūmaṇḍale) [having-made](kṛtvā) [one-should-sit](niṣīdet) [in-the-west](paścime) [then](tataḥ)
 
 ## mukta-m0-p335-v8356
-[in-front-situated+circle](agrastha+maṇḍale) [with-lotus+endowed](padma+saṃyute) [as-before](pūrvavat) [should-worship](yajet)
+[front+situated+circle](agrasthamaṇḍale) [lotus+endowed](padmasaṃyute) [as-before](pūrvavat) [one-should-worship](yajet)
 
 ## mukta-m0-p335-v8357
-[with-pure+cow-milk](śuddha+gopayasā) [practitioner](mantrī) [touching](spṛśan) [vessel](pātraṃ) [mantra](manuṃ) [should-mutter](japet)
+[pure+cow+milk](śuddhagopayasā) [the-practitioner](mantrī) [touching](spṛśan) [vessel](pātraṃ) [mantra](manuṃ) [should-mutter](japet)
 
 ## mukta-m0-p335-v8358
-[beauty](kāntiṃ) [as-desired](yathepsitāṃ) [maiden](kanyāṃ) [good-fame](satkīrtiṃ) [obtains](labhate) [certainly](dhruvas)
+[beauty](kāntiṃ) [as+desired](yathepsitāṃ) [maiden](kanyāṃ) [good+fame](satkīrtiṃ) [obtains](labhate) [certainly](dhruvaḥ)
 
 ## mukta-m0-p335-v8359
-[mukhi](mukhi) [head+end](śiraḥ+antaḥ) [beginning-with-tāra](tārādyo) [knowledge+mantra](vidyā+manuḥ) [this](ayaṃ) [remembered](smṛtaḥ)
+[mukhi](mukhi) [head+end+tāra+beginning-with](śirontastārādyo) [knowledge+mantra](vidyāmanuḥ) [this](ayaṃ) [is-remembered](smṛtaḥ)
 
 ## mukta-m0-p335-v8360
-[soma](somaḥ) [śrī](śrīḥ) [metre](chanda) [declared](uddiṣṭam) [one-principle](eka+tattvo) [sage](muniḥ) [considered](mataḥ)
+[soma](somaḥ) [śrī](śrīḥ) [meter](chanda) [declared](uddiṣṭam) [one+principle](ekatattvo) [sage](muniḥ) [considered](mataḥ)
 
 ## mukta-m0-p335-v8361
-[by-seed-syllable+alone](bījena+eva) [six-limbs](ṣaḍaṅgāni) [meditation+worship+etc.](dhyāna+pūjādi) [as-before](pūrvavat)
+[with-seed](bījena) [indeed](eva) [six+limbs](ṣaḍaṅgāni) [meditation+worship+etc+as-before](dhyānapūjādipūrvavat)
 
 ## mukta-m0-p335-v8362
 [nectar](amṛtaṃ) [flowed-out](nissṛtaṃ) [by-that](tena) [flooded](plāvitaṃ) [entire](sakalaṃ) [body](vapuḥ)
 
 ## mukta-m0-p335-v8363
-[all+poison+disease+etc.](samasta+viṣa+rogādi) [untimely-death](akāla+mṛtyu) [destruction](vināśanam)
+[all+poison+disease+etc+untimely+death+destruction](samastaviṣarogādyakālamṛtyuvināśanam)
 
 ## mukta-m0-p335-v8364
-[sin+destruction](pāpa+kṣaya) [life+increase](āyuḥ+vṛddhī) [and](ca) [wrinkle+grey-hair](valī+palita) [destruction](nāśanam)
+[sin+destruction+life+increase](pāpakṣayāyurvṛddhī) [and](ca) [wrinkle+grey-hair+destruction](valīpalitanāśanam)
 
 ## mukta-m0-p335-v8365
-[ten-syllabled](daśākṣaraḥ) [moon+mantra](candra+mantraḥ) [to-be-muttered](japyaḥ) [and](ca) [first](agre) [by-compassionate-ones](dayāyutaiḥ)
+[ten+syllabled](daśākṣaraḥ) [moon+mantra](candramantraḥ) [to-be-muttered](japyaḥ) [and](ca) [first](agre) [by-compassion+endowed](dayāyutaiḥ)
 
 ## mukta-m0-p335-v8366
-[these](ete) [declared](proktāḥ) [moon+mantras](candra+mantrāḥ) [all+auspiciousness](sarva+kalyāṇa) [givers](dāyakāḥ)
+[these](ete) [declared](proktāḥ) [moon+mantras](candramantrāḥ) [all+auspiciousness+giving](sarvakalyāṇadāyakāḥ)
 
 ## mukta-m0-p335-v8367
-[aṃ](aṃ) [and](ca) [aṅgāraka](aṅgārako) [ending-in-ṅa](ṅentaḥ) [ending-in-hṛt](hṛdantaḥ) [and](ca) [eight-syllabled](aṣṭavarṇakaḥ)
+[aṃ](aṃ) [and](ca) [aṅgāraka](aṅgārako) [ṅa+ending](ṅento) [hṛt+ending](hṛdantaḥ) [and](ca) [eight+syllabled](aṣṭavarṇakaḥ)
 
 ## mukta-m0-p335-v8368
-[limb+six-part](aṅga+ṣaṭka) [of-this](asya) [of-mantra](manoḥ) [beginning](ādi) [by-seed-syllable](bījena) [approved](sammatam)
+[limb+six+state](aṅgaṣaṭka) [of-this](tvasya) [of-mantra](manoḥ) [beginning](ādi) [with-seed](bījena) [approved](sammatam)
 
 ## mukta-m0-p335-v8369
-[knee+placed+left-hand](jānu+stha+vāma+hasta) [supported](āḍhyaṃ) [vessel+other-hand](bhājana+itara+pāṇikam)
+[knee+placed+left+hand+endowed](jānusthavāmahastāḍhyaṃ) [vessel+other+handed](bhājanetarapāṇikam)
 
 ## mukta-m0-p335-v8370
-[eight-hundred-thousand](lakṣāṣṭako) [muttering](japaḥ) [declared](proktaḥ) [with-khādira](khādiraiḥ) [with-fuel-sticks](indhanaiḥ) [should-offer](hunet)
+[lakh+eight](lakṣāṣṭako) [muttering](japaḥ) [declared](proktaḥ) [with-khādira](khādiraiḥ) [with-fuel-sticks](indhanaiḥ) [one-should-offer](hunet)
 
 ## mukta-m0-p335-v8371
-[by-grace](anugrahāt) [of-him](tasya) [world](lokaḥ) [and](tu) [debt-free](anṛṇī) [disease+freed](vyādhi+vicyutaḥ)
+[by-grace](anugrahāt) [of-him](tasya) [world](lokaḥ) [indeed](tu) [debt-free](anṛṇī) [disease+freed](vyādhivicyutaḥ)
 
 ## mukta-m0-p335-v8372
-[ten-syllabled](daśākṣaro) [mantra](manuḥ) [declared](proktaḥ) [Virūpākṣa](virūpākṣo) [sage](muniḥ) [considered](mataḥ)
+[ten+syllabled](daśākṣaro) [mantra](manuḥ) [declared](proktaḥ) [virūpākṣa](virūpākṣo) [sage](muniḥ) [considered](mataḥ)
 
 ## mukta-m0-p335-v8373
-[hrīṃ-seed](hrīṃ+bījaṃ) [śrī](śrīḥ) [and](ca) [power](śaktiḥ) [may-be](syāt) [peg](kīlakaṃ) [klīṃ](klīṃ) [proclaimed](prakīrttitam)
+[hrīṃ+seed](hrīṃbījaṃ) [śrī](śrīḥ) [and](ca) [power](śaktiḥ) [may-be](syāt) [peg](kīlakaṃ) [klīṃ](klīṃ) [proclaimed](prakīrttitam)
 
 ## mukta-m0-p335-v8374
-[with-six-long+joined+seed-syllable](ṣaḍ+dīrgha+yukta+bījena) [finger+etc.](aṅguli+ādi) [six-limb](ṣaḍaṅgakam)
+[six+long+joined+seed](ṣaḍdīrghayuktabījena) [finger+etc+six+limb](aṃgulyādiṣaḍaṅgakam)
 
 ## mukta-m0-p335-v8375
-[in-phallus](liṃge) [in-anus](gude) [and](ca) [of-mantra](mantrasya) [ten-syllables](daśavarṇān) [in-order](kramāt) [should-place](nyaset)
+[in-linga](liṃge) [in-anus](gude) [and](ca) [of-mantra](mantrasya) [ten+syllables](daśavarṇān) [in-order](kramāt) [one-should-place](nyaset)
