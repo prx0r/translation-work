@@ -17,13 +17,13 @@
 [at-night+time](niśā+bhāge) [on-fourteenth-day](caturdaśyām) [on-new-moon](amāyāṃ) [o-beloved-of-hara](hara+vallabhe)
 
 ## mukta-m0-p11-v256
-[he](saḥ) [yogi+lord](yogī+indraḥ) [he](saḥ) [emotion+knower](bhāva+jñaḥ) [he](saḥ) [wise](dhīraḥ) [in-all+actions](sarva+karmasu)
+[he](saḥ) [lord-of-yogins](yogī+indraḥ) [he](saḥ) [knower-of-states](bhāva+jñaḥ) [he](saḥ) [wise](dhīraḥ) [in-all+actions](sarva+karmasu)
 
 ## mukta-m0-p11-v257
 [in-morning](prabhāte) [at-aśvattha+root](aśvattha+mūle) [indeed](tu) [having-gone](gatvā) [supremely-skilled](parama+kobidaḥ)
 
 ## mukta-m0-p11-v258
-[with-bola-flowers](bolvaiḥ) [with-bilva+leaves](bilva+dalaiḥ) [or](vā) [bilva+flower](bilva+puṣpaṃ) [o-beautiful-faced-one](vara+ānane)
+[with-bola-flowers](bolvaiḥ) [with-bilva+leaves](bilva+dalaiḥ) [or](vā) [or](api) [bilva+flower](bilva+puṣpaṃ) [o-beautiful-faced-one](vara+ānane)
 
 ## mukta-m0-p11-v259
 [with-fifth](pañcamena) [should-worship](yajet) [goddess](devīṃ) [at-bilva+root](bilva+mūle) [day+and-night](divā+niśam)
@@ -41,37 +41,37 @@
 [where](yatra) [one-should-resort-to](āśrayet) [supreme](paraṃ) [brahma+seat](brahma+āsanaṃ) [supremely+adorned](parama+bhūṣitam)
 
 ## mukta-m0-p11-v264
-[with-betel+chewing+and-others](tāmbūla+carvaṇa+ādyaiḥ) [and](ca) [one-should-worship](pūjayet) [world+dwelling-goddess](bhava+gehinīm)
+[with-betel+chewing+and-others](tāmbūla+carvaṇa+ādyaiḥ) [and](ca) [one-should-worship](pūjayet) [dweller-in-world](bhava+gehinīm)
 
 ## mukta-m0-p11-v265
 [having-praised](stutvā) [liberation](mokṣam) [obtains](avāpnoti) [from-that+moment](tat+kṣaṇāt) [indeed](eva) [o-śāṅkarī](śāṅkari)
 
 ## mukta-m0-p11-v266
-[o-terrible+faced](karāla+vadane) [o-fierce-one](ghore) [o-beloved-of-moon+crested-one](candra+śekhara+vallabhe)
+[o-terrible+faced](karāla+vadane) [o-fierce-one](ghore) [o-beloved-of-moon-crested](candra+śekhara+vallabhe)
 
 ## mukta-m0-p11-v267
-[o-desire+wish-fulfilling-creeper+form](kāma+kalpa+latā+rūpe) [o-kāmeśvarī](kāmeśvari) [o-knower-of-arts](kalā+mate)
+[o-form-of-desire+wish-fulfilling+creeper](kāma+kalpa+latā+rūpe) [o-kāmeśvarī](kāmeśvari) [o-knower-of-arts](kalā+mate)
 
 ## mukta-m0-p11-v268
-[having-taken](gṛhītvā) [corpse+caṇḍāla](śava+cāṇḍālaṃ) [having-placed](dhṛtvā) [forehead](bhālaṃ) [face](mukhaṃ) [head](śiraḥ)
+[having-taken](gṛhītvā) [corpse+caṇḍāla](śava+cāṇḍālaṃ) [having-held](dhṛtvā) [forehead](bhālaṃ) [face](mukhaṃ) [head](śiraḥ)
 
 ## mukta-m0-p11-v269
-[arms](bāhū) [back](pṛṣṭhaṃ) [and](ca) [belly](jaṭharaṃ) [having-placed](dhṛtvā) [having-placed](dhṛtvā) [again+and-again](muhuḥ+muhuḥ)
+[arms](bāhū) [back](pṛṣṭhaṃ) [and](ca) [belly](jaṭharaṃ) [having-held](dhṛtvā) [having-held](dhṛtvā) [again+and-again](muhuḥ+muhuḥ)
 
 ## mukta-m0-p11-v270
-[wife+seed](vadhū+bījaṃ) [likewise](tathā) [lajjā](lajjā) [on-all+limbs](sarva+aṅge) [one-should-place](nikṣipet) [mantra](manum)
+[vadhū+bīja](vadhū+bījaṃ) [then](tathā) [lajjā](lajjā) [on-all+limbs](sarva+aṅge) [should-place](nikṣipet) [mantra](manum)
 
 ## mukta-m0-p11-v271
-[again](punar) [with-vihāra+seed](vihāra+bījena) [with-blue+substance](nīla+dravyeṇa) [with-eye](cakṣuṣā)
+[again](punar) [with-vihāra+bīja](vihāra+bījena) [with-blue+substance](nīla+dravyeṇa) [with-eye](cakṣuṣā)
 
 ## mukta-m0-p11-v272
 [in-empty+house](śūnya+āgāre) [o-great-goddess](mahā+īśāni) [one-becomes](bhavet) [facing-kubera+direction](dhanada+dik+mukhaḥ)
 
 ## mukta-m0-p11-v273
-[made-of-gold](cāmīkara+mayī) [garland](mālā) [composed-of-coral](pravāla+ghaṭitā) [or](athavā)
+[made-of-gold](cāmīkara+mayī) [garland](mālā) [composed-of-coral](pravāla+ghaṭitā) [or](atha+vā)
 
 ## mukta-m0-p11-v274
 [then](tadā) [mantra](mantraṃ) [should-repeat](japet) [practitioner](mantrī) [great-lord](mahā+īśaḥ) [not](na) [here](atra) [doubt](saṃśayaḥ)
 
 ## mukta-m0-p11-v275
-[of-good-family](kulīnaḥ) [and](ca) [family+knower](kula+jñaḥ) [and](ca) [who](yaḥ) [should-repeat](japet) [tāriṇī+mantra](tāriṇī+manum)
+[of-good-family](kulīnaḥ) [and](ca) [knower-of-family](kula+jñaḥ) [and](ca) [who](yaḥ) [should-repeat](japet) [tāriṇī+mantra](tāriṇī+manum)

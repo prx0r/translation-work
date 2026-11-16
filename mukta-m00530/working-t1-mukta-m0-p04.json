@@ -20,7 +20,7 @@
 },
 {
 "surface": "taṃ",
-"quick_gloss": "that"
+"quick_gloss": "him"
 },
 {
 "surface": "yathāvidhi",
@@ -70,7 +70,7 @@
 "tokens": [
 {
 "surface": "hṛt+mantreṇa",
-"quick_gloss": "with-heart+mantra"
+"quick_gloss": "with-heart-mantra"
 },
 {
 "surface": "abhisampūjya",
@@ -78,7 +78,7 @@
 },
 {
 "surface": "hastābhyāṃ",
-"quick_gloss": "with-both-hands"
+"quick_gloss": "with-two-hands"
 },
 {
 "surface": "chādayet",
@@ -99,7 +99,7 @@
 "tokens": [
 {
 "surface": "astra+mantreṇa",
-"quick_gloss": "with-weapon+mantra"
+"quick_gloss": "with-weapon-mantra"
 },
 {
 "surface": "saṃrakṣya",
@@ -107,7 +107,7 @@
 },
 {
 "surface": "kavacena",
-"quick_gloss": "with-armor-mantra"
+"quick_gloss": "with-armor"
 },
 {
 "surface": "avaguṇṭhya",
@@ -165,10 +165,10 @@
 "tokens": [
 {
 "surface": "tīrtha+āvāhana+mantraḥ",
-"quick_gloss": "sacred-waters+invocation+mantra"
+"quick_gloss": "sacred-water+invocation+mantra"
 },
 {
-"surface": "ayaṃ",
+"surface": "ayam",
 "quick_gloss": "this"
 },
 {
@@ -189,8 +189,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "kiñcit+arghya+ambu",
-"quick_gloss": "a-little+arghya+water"
+"surface": "kiñcit",
+"quick_gloss": "a-little"
+},
+{
+"surface": "arghya+ambu",
+"quick_gloss": "arghya+water"
 },
 {
 "surface": "saṅgṛhya",
@@ -198,7 +202,7 @@
 },
 {
 "surface": "prokṣaṇī+ambhasi",
-"quick_gloss": "in-sprinkling-vessel+water"
+"quick_gloss": "in-sprinkling+water"
 },
 {
 "surface": "yojayet",
@@ -219,19 +223,19 @@
 },
 {
 "surface": "yāga+vastūni",
-"quick_gloss": "worship+objects"
+"quick_gloss": "sacrificial+objects"
 },
 {
 "surface": "sarvatra",
 "quick_gloss": "everywhere"
 },
 {
-"surface": "prokṣayed",
-"quick_gloss": "one-should-sprinkle"
+"surface": "prokṣayet",
+"quick_gloss": "should-sprinkle"
 },
 {
 "surface": "guruḥ",
-"quick_gloss": "the-teacher"
+"quick_gloss": "teacher"
 }
 ]
 },
@@ -256,7 +260,7 @@
 },
 {
 "surface": "keśaveṣu",
-"quick_gloss": "in-the-bodies"
+"quick_gloss": "in-Keśavas"
 },
 {
 "surface": "aṅga+devatāḥ",
@@ -273,11 +277,11 @@
 "tokens": [
 {
 "surface": "pāśa+ādi+tri+akṣarasya",
-"quick_gloss": "of-pāśa+etc+three-syllables"
+"quick_gloss": "of-pāśa+etc+three-syllable"
 },
 {
 "surface": "ante",
-"quick_gloss": "at-the-end"
+"quick_gloss": "at-end"
 },
 {
 "surface": "haṃsaḥ",
@@ -310,15 +314,19 @@
 },
 {
 "surface": "sarva+indriyāṇi",
-"quick_gloss": "all+sense-organs"
+"quick_gloss": "all+senses"
 },
 {
 "surface": "bhūyaḥ",
 "quick_gloss": "again"
 },
 {
-"surface": "amuṣya+padaṃ",
-"quick_gloss": "of-him+word"
+"surface": "amuṣya",
+"quick_gloss": "of-him"
+},
+{
+"surface": "padaṃ",
+"quick_gloss": "word"
 },
 {
 "surface": "vadet",
@@ -351,11 +359,11 @@
 },
 {
 "surface": "ciraṃ",
-"quick_gloss": "for-long"
+"quick_gloss": "long"
 },
 {
 "surface": "tiṣṭhantu",
-"quick_gloss": "remain"
+"quick_gloss": "let-them-stay"
 },
 {
 "surface": "ṭha+dvayam",
@@ -376,11 +384,11 @@
 },
 {
 "surface": "kuśala+praśnaṃ",
-"quick_gloss": "welfare+inquiry"
+"quick_gloss": "welfare+question"
 },
 {
 "surface": "nigadet",
-"quick_gloss": "one-should-utter"
+"quick_gloss": "should-utter"
 },
 {
 "surface": "agrataḥ",
@@ -388,7 +396,7 @@
 },
 {
 "surface": "guruḥ",
-"quick_gloss": "the-teacher"
+"quick_gloss": "teacher"
 }
 ]
 },
@@ -422,15 +430,15 @@
 "tokens": [
 {
 "surface": "jātī+lavaṅga+kakkolaiḥ",
-"quick_gloss": "with-jasmine+clove+kakkola"
+"quick_gloss": "with-jātī+clove+kakkola"
 },
 {
 "surface": "tat",
 "quick_gloss": "that"
 },
 {
-"surface": "uktam",
-"quick_gloss": "declared"
+"surface": "uktaṃ",
+"quick_gloss": "stated"
 },
 {
 "surface": "tantra+vedibhiḥ",
@@ -447,7 +455,7 @@
 "tokens": [
 {
 "surface": "gandha+puṣpa+akṣata+yava+kuśa+ambu+tila+sarṣapaiḥ",
-"quick_gloss": "with-fragrance+flower+unbroken-rice+barley+kuśa-grass+water+sesame+mustard"
+"quick_gloss": "with-fragrance+flower+unbroken-rice+barley+kuśa+water+sesame+mustard"
 }
 ]
 },
@@ -460,7 +468,7 @@
 "tokens": [
 {
 "surface": "sva+dhātmanā",
-"quick_gloss": "with-one's-own+nature"
+"quick_gloss": "with-own-self"
 },
 {
 "surface": "tataḥ",
@@ -489,7 +497,7 @@
 "tokens": [
 {
 "surface": "sva+dhātmanā",
-"quick_gloss": "with-one's-own+nature"
+"quick_gloss": "with-own-self"
 },
 {
 "surface": "tataḥ",
@@ -501,11 +509,11 @@
 },
 {
 "surface": "adbhiḥ",
-"quick_gloss": "with-water"
+"quick_gloss": "with-waters"
 },
 {
 "surface": "ācamanīyakam",
-"quick_gloss": "water-for-sipping"
+"quick_gloss": "sipping-water"
 }
 ]
 },
@@ -547,7 +555,7 @@
 "tokens": [
 {
 "surface": "gandha+candana+karpūra+kāla+agurubhiḥ",
-"quick_gloss": "with-fragrance+sandalwood+camphor+black-agallochum"
+"quick_gloss": "with-fragrance+sandal+camphor+black-agalloch"
 },
 {
 "surface": "īritam",
@@ -621,7 +629,7 @@
 },
 {
 "surface": "patrataḥ",
-"quick_gloss": "on-the-petals"
+"quick_gloss": "on-petals"
 }
 ]
 },
@@ -667,7 +675,7 @@
 "tokens": [
 {
 "surface": "sva+bījena",
-"quick_gloss": "with-own+seed-mantra"
+"quick_gloss": "with-own-seed-mantra"
 },
 {
 "surface": "tataḥ",
@@ -675,7 +683,7 @@
 },
 {
 "surface": "devaṃ",
-"quick_gloss": "the-god"
+"quick_gloss": "god"
 },
 {
 "surface": "gandha+puṣpa+ādibhiḥ",
@@ -683,7 +691,7 @@
 },
 {
 "surface": "kramāt",
-"quick_gloss": "in-sequence"
+"quick_gloss": "in-order"
 }
 ]
 },
@@ -704,7 +712,7 @@
 },
 {
 "surface": "devaṃ",
-"quick_gloss": "the-god"
+"quick_gloss": "god"
 },
 {
 "surface": "hṛdaya+ādīn",
