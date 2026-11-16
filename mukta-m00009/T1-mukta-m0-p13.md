@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p13-v301
-[direct-perception](pratyakṣa) [indeed](eva) [in-that](tā)+[meaning](arthe) [even](api) [concept](vikalpa)+[object](viṣayau)
+[perception](pratyakṣa) [indeed](eva) [in-that](tāvat) [in-object](arthe) [of-alternative-object](vikalpa-viṣaya) [also](api)
 
 ## mukta-m0-p13-v302
-[difference](bheda)+[appearance](pratibhāsaḥ)
+[difference](bheda) [appearance](pratibhāsaḥ)
 
 ## mukta-m0-p13-v303
-[is-released](mucyate) [from-them](tebhya) [indeed](eva) [this](ayam) [bondage](bandha)+[liberation](mokṣau) [not](na) [in-reality](vastutaḥ)
+[is-released](mucyate) [from-them](tebhyaḥ) [indeed](eva) [this](ayam) [bondage-and-liberation](bandha-mokṣau) [not](na) [in-reality](vastutaḥ)
 
 ## mukta-m0-p13-v304
-[by-teachers](gurubhiḥ) [are-taught](pratibodhyante) [doctrine](siddhānta)+[scripture](āgama)+[givers](dāyibhiḥ)
+[by-teachers](gurubhiḥ) [are-instructed](pratibodhyante) [doctrine-and-scripture-givers](siddhānta-āgama-dāyibhiḥ)
 
 ## mukta-m0-p13-v305
-[may-be-established](sādhyeta) [by-them](taibhya) [indeed](eva) [firmly](dṛḍham) [of-her](tasyāḥ) [may-be](syāt) [with-second](sa)+[dvaita](dvitīyatā)
+[may-be-established](sādhyeta) [by-them](taiḥ) [indeed](eva) [firmly](dṛḍham) [of-her](tasyāḥ) [would-be](syāt) [with-second](sadvitīyatā)
 
 ## mukta-m0-p13-v306
 [being](bhāvaḥ)
 
 ## mukta-m0-p13-v307
-[of-not-established](a)+[prasiddhasya](prasiddhasya) [of-property](dharmasya) [for-establishment](siddhyai) [pervasion](vyāpti)+[strengthened](upabṛṃhitāḥ)
+[of-not-established](aprasiddhasya) [of-property](dharmasya) [for-establishment](siddhyai) [pervasion-supported](vyāptyupabṛṃhitāḥ)
 
 ## mukta-m0-p13-v308
-[then](tataḥ) [separately](pṛthak) [indeed](eva) [by-difference](bhedena) [property-possessor](dharmī)+[beginning](ādayaḥ) [established](siddhāḥ) [are-to-be-assumed](abhyupagantavyāḥ)
+[then](tataḥ) [separately](pṛthak) [indeed](eva) [by-difference](bhedena) [substrate-etc](dharmyādayaḥ) [established](siddhāḥ) [must-be-assumed](abhyupagantavyāḥ)
 
 ## mukta-m0-p13-v309
-[establishment](siddhi)+[non-establishment](asiddhī) [and](ca) [together](saṃbhūya) [not](na) [in-one](ekatra) [to-remain](sthātum) [ought](arhataḥ)
+[establishment-and-nonestablishment](siddhyasiddhī) [and](ca) [together](saṃbhūya) [not](na) [in-one](ekatra) [to-remain](sthātum) [ought](arhataḥ)
 
 ## mukta-m0-p13-v310
-[of-sadhya](sādhya)+[establishment](siddhiḥ)
+[of-probandum-establishment](sādhyasiddhiḥ)
 
 ## mukta-m0-p13-v311
-[by-that](tad)+[non-existence](abhāvataḥ)
+[by-that-nonexistence](tadabhāvataḥ)
 
 ## mukta-m0-p13-v312
-[employed](prayuktaḥ) [difference](bhedam) [declares](ākhyāti) [inference](prayogaḥ) [for-own-limb](sva)+[aṅga](aṅga)+[establishment](siddhaye)
+[employed](prayuktaḥ) [difference](bhedam) [declares](ākhyāti) [inference](prayogaḥ) [for-own-limb-establishment](svāṅgasiddhaye)
 
 ## mukta-m0-p13-v313
-[of-own-limb](sva)+[aṅgasya](aṅgasya) [of-hetu](hetu)+[beginning](ādeḥ) [for-establishment](siddhi)+[artham](artham) [thus-meaning](iti)+[arthaḥ](arthaḥ)
+[of-own-limb](svāṅgasya) [of-hetu-etc](hetvādeḥ) [for-establishment](siddhyartham) [thus-meaning](ityarthaḥ)
 
 ## mukta-m0-p13-v314
-[duality](dvaita)+[state](bhāvaḥ) [then](tataḥ) [elsewhere](anyatra) [may-be-established](siddhyet) [in-establishment](siddhau) [also](api) [certainly](dhruvam)
+[duality-being](dvaitabhāvaḥ) [then](tataḥ) [elsewhere](anyatra) [would-be-established](siddhyet) [in-establishment](siddhāvapi) [also](api) [certainly](dhruvam)
 
 ## mukta-m0-p13-v315
-[scripture](āgamaḥ) [also](api) [then](tadā) [by-these](taiḥ) [by-these](taiḥ) [reminded](smārita)+[meaning](artha)+[particular](viśeṣataḥ)
+[scripture](āgamaḥ) [also](api) [then](tadā) [by-these](taiḥ) [by-these](taiḥ) [reminded-meaning-particulars](smāritārthaviśeṣataḥ)
 
 ## mukta-m0-p13-v316
-[if](yadi) [non-duality](advaya)+[this](iyam) [cognition](saṃvittiḥ) [by-itself](svena) [would-be](syāt) [to-be-intended](abhidhitsitā)
+[if](yadi) [nonduality](advayā) [this](iyaṃ) [cognition](saṃvittiḥ) [by-itself](svena) [would-be](syāt) [to-be-intended](abhidhitsitā)
 
 ## mukta-m0-p13-v317
-[being-prevented](nivāryamāṇam) [by-limbs](aṅgaiḥ) [by-own](svaiḥ) [non-duality](advaita)+[destruction](kṣapaṇa)+[capable](kṣamaiḥ)
+[being-prevented](nivāryamāṇam) [by-limbs](aṅgaiḥ) [by-own](svaiḥ) [nonduality-destroying-capable](advaitakṣapaṇakṣamaiḥ)
 
 ## mukta-m0-p13-v318
-[being](vartamānāḥ) [indeed](hi) [are-seen](dṛśyante) [in-secondary](gauṇe) [meaning](arthe) [in-world](loka)+[vedayoḥ](vedayoḥ)
+[being](vartamānā) [indeed](hi) [are-seen](dṛśyante) [in-secondary-sense](gauṇe) [in-meaning](arthe) [in-world-and-veda](lokavedayoḥ)
 
 ## mukta-m0-p13-v319
-[not](na) [thus](evam) [hetu](hetuḥ) [not-faulty](a)+[duṣṭāyām](duṣṭāyām) [in-pervasion](vyāptau) [sadhya](sādhyam) [not](na) [would-establish](sādhayet)
+[not](na) [thus](evaṃ) [hetu](hetur) [not-faulty](aduṣṭāyāṃ) [in-pervasion](vyāptau) [probandum](sādhyaṃ) [not](na) [would-establish](sādhayet)
 
 ## mukta-m0-p13-v320
-[primary](mukhyam) [also](api) [having-abandoned](apahāya) [meaning](artham) [praise](nutim) [do](kurvanti) [cognitions](saṃvidaḥ)
+[primary](mukhyam) [also](api) [having-abandoned](apahāya) [meaning](arthaṃ) [praise](nutiṃ) [do](kurvanti) [cognitions](saṃvidaḥ)
 
 ## mukta-m0-p13-v321
-[difference](bhedam) [from-others](parebhyaḥ) [exclusion](vyāvṛtti)+[form](rūpam) [by-which](yena) [is-produced](upajāyate)
+[difference](bhedaṃ) [from-others](parebhyo) [exclusion-form](vyāvṛttirūpaṃ) [by-which](yena) [is-produced](upajāyate)
 
 ## mukta-m0-p13-v322
-[with-concept](sa)+[vikalpam](vikalpam) [without-doubt](a)+[sandigdham](sandigdham) [without-deviation](vyabhicāra)+[varjitam](varjitam)
+[with-determination](savikalpam) [without-doubt](asandigdhaṃ) [invariable-concomitance-lacking](vyabhicāravivarjitam)
 
 ## mukta-m0-p13-v323
-[not-grasped](a)+[gṛhīta](gṛhīta)+[object](artha)+[difference](bhedasya) [that](tat)+[name](nāma)+[ādi](ādi)+[particular](viśeṣavat)
+[not-grasped-object-difference](agṛhītārthabhedasya) [that-name-etc-particulars](tannāmādiviśeṣavat)
 
 ## mukta-m0-p13-v324
-[fire](pāvakam) [leads](anudhāvet) [thus](iti) [all](sarvam) [not-proper](a)+[sañjasam](mañjasam)
+[fire](pāvakam) [leads-to](anudhāvet) [thus](iti) [all](sarvam) [improper](asañjasam)
 
 ## mukta-m0-p13-v325
-[in-general](sāmānye) [established](siddha)+[sādhana](sādhana)+[āt](āt)
+[in-general](sāmānye) [established-probandum](siddhasādhanāt)
