@@ -8,11 +8,11 @@
 "tokens": [
 {
 "surface": "haṃsajapyamayī",
-"quick_gloss": "swan-born"
+"quick_gloss": "swan-mantra+consisting-of"
 },
 {
 "surface": "haṃsī",
-"quick_gloss": "swan"
+"quick_gloss": "swan-goddess"
 },
 {
 "surface": "haṃsabhāvaṃ",
@@ -37,7 +37,7 @@
 "tokens": [
 {
 "surface": "haṃsojjvalaśiroruhā",
-"quick_gloss": "swan-radiant-crest"
+"quick_gloss": "swan+bright+hair"
 }
 ]
 },
@@ -50,11 +50,11 @@
 "tokens": [
 {
 "surface": "mānase",
-"quick_gloss": "in-mind"
+"quick_gloss": "in-the-mind"
 },
 {
 "surface": "bhātu",
-"quick_gloss": "shine"
+"quick_gloss": "may-shine"
 },
 {
 "surface": "bhaktānāṃ",
@@ -62,7 +62,7 @@
 },
 {
 "surface": "haṃsojjvalaśiroruhā",
-"quick_gloss": "swan-radiant-crest"
+"quick_gloss": "swan+bright+hair"
 }
 ]
 },
@@ -75,7 +75,7 @@
 "tokens": [
 {
 "surface": "pūrṇacandramukhī",
-"quick_gloss": "full-moon-faced"
+"quick_gloss": "full-moon+faced"
 }
 ]
 },
@@ -87,28 +87,36 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "yadāsyaminduḥ",
-"quick_gloss": "when-her-face-moon"
+"surface": "yadāsyam",
+"quick_gloss": "whose+face"
+},
+{
+"surface": "induḥ",
+"quick_gloss": "moon"
 },
 {
 "surface": "kimu",
-"quick_gloss": "what-more"
+"quick_gloss": "is-it"
 },
 {
 "surface": "pūrṇacandramukhī",
-"quick_gloss": "full-moon-faced"
+"quick_gloss": "full-moon+faced"
 },
 {
 "surface": "puro",
-"quick_gloss": "before"
+"quick_gloss": "in-front"
 },
 {
 "surface": "harṣakarī",
-"quick_gloss": "joy-causing"
+"quick_gloss": "joy-giving"
 },
 {
-"surface": "sadāstu",
-"quick_gloss": "always-be"
+"surface": "sadā",
+"quick_gloss": "always"
+},
+{
+"surface": "astu",
+"quick_gloss": "may-be"
 }
 ]
 },
@@ -121,7 +129,7 @@
 "tokens": [
 {
 "surface": "śyāmā",
-"quick_gloss": "dark"
+"quick_gloss": "dark-one"
 }
 ]
 },
@@ -133,16 +141,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "śyāmeha",
-"quick_gloss": "dark-here"
+"surface": "śyāma",
+"quick_gloss": "dark-one"
+},
+{
+"surface": "iha",
+"quick_gloss": "here"
 },
 {
 "surface": "netrāndhyam",
-"quick_gloss": "blindness-of-eyes"
+"quick_gloss": "eye+blindness"
 },
 {
 "surface": "ananyagatvāt",
-"quick_gloss": "non-other-going"
+"quick_gloss": "due-to-having-no-other-resort"
 }
 ]
 },
@@ -155,7 +167,7 @@
 "tokens": [
 {
 "surface": "smitāsyā",
-"quick_gloss": "smiling-faced"
+"quick_gloss": "smiling+faced"
 }
 ]
 },
@@ -171,16 +183,20 @@
 "quick_gloss": "smile"
 },
 {
-"surface": "vidhatte'stu",
-"quick_gloss": "let-her-give"
+"surface": "vidhatte",
+"quick_gloss": "makes"
+},
+{
+"surface": "astu",
+"quick_gloss": "may-be"
 },
 {
 "surface": "hitā",
-"quick_gloss": "benefit"
+"quick_gloss": "beneficial"
 },
 {
 "surface": "smitāsyā",
-"quick_gloss": "smiling-faced"
+"quick_gloss": "smiling+faced"
 }
 ]
 },
@@ -193,7 +209,7 @@
 "tokens": [
 {
 "surface": "śyāmakuṇḍalā",
-"quick_gloss": "dark-earring"
+"quick_gloss": "dark+earrings"
 }
 ]
 },
@@ -205,8 +221,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "sabhṛṅgadvayabhūmyabjamiva",
-"quick_gloss": "with-two-bees-ground-lotus-like"
+"surface": "sabhṛṅgadvayabhūmyabjam",
+"quick_gloss": "with-two-bees+ground+lotus"
+},
+{
+"surface": "iva",
+"quick_gloss": "like"
 },
 {
 "surface": "sā",
@@ -214,7 +234,7 @@
 },
 {
 "surface": "śyāmakuṇḍalā",
-"quick_gloss": "dark-earring"
+"quick_gloss": "dark+earrings"
 }
 ]
 },
@@ -240,7 +260,7 @@
 "tokens": [
 {
 "surface": "stadāpi",
-"quick_gloss": "then-also"
+"quick_gloss": "even-then"
 },
 {
 "surface": "tvadīyā",
@@ -252,7 +272,7 @@
 },
 {
 "surface": "pārahīnāḥ",
-"quick_gloss": "beyond-shore"
+"quick_gloss": "beyond-limit"
 }
 ]
 },
@@ -265,7 +285,7 @@
 "tokens": [
 {
 "surface": "lekhinī",
-"quick_gloss": "pen"
+"quick_gloss": "writing-reed"
 }
 ]
 },
@@ -285,12 +305,16 @@
 "quick_gloss": "and"
 },
 {
-"surface": "sukhadāstu",
+"surface": "sukhadā",
 "quick_gloss": "happiness-giving"
 },
 {
+"surface": "astu",
+"quick_gloss": "may-be"
+},
+{
 "surface": "lekhinī",
-"quick_gloss": "pen"
+"quick_gloss": "writing-reed"
 }
 ]
 },
@@ -303,7 +327,7 @@
 "tokens": [
 {
 "surface": "lekhyā",
-"quick_gloss": "writable"
+"quick_gloss": "to-be-written"
 }
 ]
 },
@@ -332,7 +356,7 @@
 },
 {
 "surface": "nānāśāsanapaṭṭake",
-"quick_gloss": "various-decree-tablets"
+"quick_gloss": "various+command+tablet"
 }
 ]
 },
@@ -345,7 +369,7 @@
 "tokens": [
 {
 "surface": "sulekhā",
-"quick_gloss": "good-writing"
+"quick_gloss": "well-written"
 }
 ]
 },
@@ -357,8 +381,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "mayyastu",
-"quick_gloss": "to-me"
+"surface": "mayi",
+"quick_gloss": "for-me"
+},
+{
+"surface": "astu",
+"quick_gloss": "may-be"
 },
 {
 "surface": "sā",
@@ -366,11 +394,11 @@
 },
 {
 "surface": "svārthakarī",
-"quick_gloss": "self-beneficial"
+"quick_gloss": "own-purpose+accomplishing"
 },
 {
 "surface": "sulekhā",
-"quick_gloss": "good-writing"
+"quick_gloss": "well-written"
 }
 ]
 },
@@ -383,7 +411,7 @@
 "tokens": [
 {
 "surface": "lekhakapriyā",
-"quick_gloss": "writer-beloved"
+"quick_gloss": "scribe+beloved"
 }
 ]
 },
@@ -395,8 +423,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "bhavantīha",
-"quick_gloss": "becoming-here"
+"surface": "bhavanti",
+"quick_gloss": "become"
+},
+{
+"surface": "iha",
+"quick_gloss": "here"
 },
 {
 "surface": "janā",
@@ -404,7 +436,7 @@
 },
 {
 "surface": "yasya",
-"quick_gloss": "whose"
+"quick_gloss": "of-whom"
 },
 {
 "surface": "prasannā",
@@ -412,7 +444,7 @@
 },
 {
 "surface": "lekhakapriyā",
-"quick_gloss": "writer-beloved"
+"quick_gloss": "scribe+beloved"
 }
 ]
 },
@@ -425,7 +457,7 @@
 "tokens": [
 {
 "surface": "śaṅkhinī",
-"quick_gloss": "conch-bearing"
+"quick_gloss": "conch-holder"
 }
 ]
 },
@@ -438,7 +470,7 @@
 "tokens": [
 {
 "surface": "saṃsevyate",
-"quick_gloss": "served"
+"quick_gloss": "is-served"
 },
 {
 "surface": "tena",
@@ -450,7 +482,7 @@
 },
 {
 "surface": "śaṅkhinī",
-"quick_gloss": "conch-bearing"
+"quick_gloss": "conch-holder"
 },
 {
 "surface": "sā",
@@ -467,7 +499,7 @@
 "tokens": [
 {
 "surface": "śaṅkhahastā",
-"quick_gloss": "conch-in-hand"
+"quick_gloss": "conch+handed"
 }
 ]
 },
@@ -484,7 +516,7 @@
 },
 {
 "surface": "śaṅkhahastā",
-"quick_gloss": "conch-in-hand"
+"quick_gloss": "conch+handed"
 },
 {
 "surface": "kuru",
@@ -492,7 +524,7 @@
 },
 {
 "surface": "hastalambam",
-"quick_gloss": "hand-support"
+"quick_gloss": "hand+support"
 }
 ]
 }

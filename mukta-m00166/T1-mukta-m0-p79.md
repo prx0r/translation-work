@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p79-v1951
-[paṭa-cloth](paṭāsā)
+[cloth](paṭa)+[hope](āsā) [name](paṭāsā) [goddess](devī) [invoked](āhūtā)
 
 ## mukta-m0-p79-v1952
-[sanmānasa-well-minded](sanmānasakṛtāvāsā) [paṭa-cloth](paṭāsā) [sā-she](sā) [dahatu-burn](dahatvagham)
+[well](san)+[honor](māna)+[made](sa+kṛta)+[abode](āvāsā) [cloth](paṭa)+[hope](āsā) [she](sā) [may-burn](dahatu)+[evil](agham)
 
 ## mukta-m0-p79-v1953
-[kāśmīrī-kashmiri](kāśmīrī)
+[page](p.) [238](238) [kāśmīrī](kāśmīrī) [name](nāma) [goddess](devī)
 
 ## mukta-m0-p79-v1954
-[kāśmīrī-kashmiri](kāśmīrī) [māṃ-me](māṃ) [sukhayatu-delight](sukhayatu) [supūrṇaikavāsānubhūtyā-by-complete-single-abode-experience](supūrṇaikavāsānubhūtyā)
+[kāśmīrī](kāśmīrī) [me](mām) [may-please](sukhayatu) [full](su-pūrṇa)+[one](eka)+[abode](vāsa)+[experience](anubhūtyā)
 
 ## mukta-m0-p79-v1955
-[kuṅkumapriyā-saffron-loving](kuṅkumapriyā)
+[saffron](kuṅkuma)+[beloved](priyā) [name](kuṅkumapriyā) [goddess](devī) [invoked](āhūtā)
 
 ## mukta-m0-p79-v1956
-[kṣataraktaṃ-wounded-blood](kṣataraktaṃ) [kimu-whether](kimu) [kuṅkumapriyā-saffron-loving](kuṅkumapriyā) [sā-she](sā)
+[wounded](kṣata)+[blood](raktaṃ) [whether](kimu) [saffron](kuṅkuma)+[beloved](priyā) [she](sā)
 
 ## mukta-m0-p79-v1957
-[kṣāntiḥ-patience](kṣāntiḥ)
+[patience](kṣāntiḥ) [name](kṣāntiḥ) [virtue](guṇa) [goddess](devī)
 
 ## mukta-m0-p79-v1958
-[kṣāntiḥ-patience](kṣāntiḥ) [kṣatabhrāntibhiḥ-by-wound-delusions](kṣatabhrāntibhirīḍanīyā)
+[patience](kṣāntiḥ) [by-wounded](kṣata)+[delusion](bhrāntibhiḥ)+[to-be-praised](īḍanīyā) [she](sā) [goddess](devī)
 
 ## mukta-m0-p79-v1959
-[bahusuvarṇā-much-gold](bahusuvarṇā)
+[much](bahu)+[gold](suvarṇā) [name](bahusuvarṇā) [goddess](devī) [invoked](āhūtā)
 
 ## mukta-m0-p79-v1960
-[sarvāmaṅgalaśīlasya-of-all-auspicious-nature](sarvāmaṅgalaśīlasya) [bhikṣoḥ-of-ascetic](bhikṣoḥ) [satsarvamaṅgalā-true-all-auspicious](satsarvamaṅgalā)
+[all](sarva)+[auspicious](maṅgala)+[conduct](śīlasya) [of-monk](bhikṣoḥ) [truly](sat)+[all](sarva)+[auspicious](maṅgalā)
 
 ## mukta-m0-p79-v1961
-[ratiḥ-delight](ratiḥ)
+[desire](ratiḥ) [name](ratiḥ) [goddess](devī) [consort](patnī)
 
 ## mukta-m0-p79-v1962
-[adhīnaḥ-dependent](adhīnaḥ) [so'pi-he-too](so'pi) [bhūteśo-lord-of-beings](bhūteśo) [yasyāḥ-whose](yasyāḥ) [sā-she](sā) [hi-indeed](hi) [rate-in-delight](rate) [ratiḥ-delight](ratiḥ)
+[subordinate](adhīnaḥ) [that](saḥ)+[indeed](api) [lord-of-beings](bhūteśaḥ) [of-whom](yasyāḥ) [she](sā) [indeed](hi) [in-desire](rate) [desire](ratiḥ)
 
 ## mukta-m0-p79-v1963
-[bahusuvarṇadā-gold-giving](bahusuvarṇadā)
+[page](p.) [239](239) [much](bahu)+[gold](suvarṇa)+[giving](dā) [name](bahusuvarṇadā) [goddess](devī)
 
 ## mukta-m0-p79-v1964
-[aparṇāpi-even-aparnā](aparṇāpi) [tataḥ-then](tataḥ) [satyaṃ-truly](satyaṃ) [bhūtā-become](bhūtā) [svayamiheśvarī-self-lady-here](svayamiheśvarī)
+[aparṇā](aparṇā)+[also](api) [then](tataḥ) [truly](satyaṃ) [become](bhūtā) [here](iha)+[herself](svayam)+[goddess](īśvarī)
 
 ## mukta-m0-p79-v1965
-[mātaṅginī-elephant-goddess](mātaṅginī)
+[elephant-woman](mātaṅginī) [name](mātaṅginī) [goddess](devī) [invoked](āhūtā)
 
 ## mukta-m0-p79-v1966
-[mātaṅginī-elephant-goddess](mātaṅginī) [bhaṅgaharī-breaking-remover](bhaṅgaharī) [bhave'stu-may-it-be](bhave'stu)
+[elephant-woman](mātaṅginī) [breaking](bhaṅga)+[remover](harī) [may-be](bhavet)+[for-you](astu)
 
 ## mukta-m0-p79-v1967
-[varārohā-excellent-ascent](varārohā)
+[beautiful-hipped](varā)+[hipped](rohā) [name](varārohā) [goddess](devī) [invoked](āhūtā)
 
 ## mukta-m0-p79-v1968
-[varārohāsevāśataśatakalāṃ-excellent-ascent-service-hundred-hundred-parts](varārohāsevāśataśatakalāṃ) [nārhati-does-not-deserve](nārhati) [kalām-part](kalām)
+[beautiful-hipped](varā)+[hipped](rohā)+[service](sevā)+[hundred](śata)+[hundred](śata)+[arts](kalāṃ) [not](na)+[deserves](arhati) [a-part](kalām)
 
 ## mukta-m0-p79-v1969
-[mattamātaṅgagāminī-intoxicated-elephant-going](mattamātaṅgagāminī)
+[intoxicated](matta)+[elephant](mātaṅga)+[going](gāminī) [name](mattamātaṅgagāminī) [goddess](devī)
 
 ## mukta-m0-p79-v1970
-[na-not](na) [tasya-his](tasya) [cittavṛttiḥ-mind-fluctuation](cittavṛttiḥ) [syād-may-be](syādanyabhāvābhigāminī)
+[not](na) [of-him](tasya) [mind](citta)+[activity](vṛttiḥ) [may-be](syāt)+[other](anya)+[state](bhāva)+[going](abhigāminī)
 
 ## mukta-m0-p79-v1971
-[hiṃsā-harm](hiṃsā)
+[violence](hiṃsā) [name](hiṃsā) [goddess](devī) [invoked](āhūtā)
 
 ## mukta-m0-p79-v1972
-[jayāvyaye-in-victory-and-loss](jayāvyaye) [sāstu-may-she-be](sāstu) [hitāya-for-welfare](hitāya) [hiṃsā-harm](hiṃsā)
+[victory](jayā)+[imperishable](avyaye) [may-be](sā)+[astu](astu) [for-welfare](hitāya) [violence](hiṃsā)
 
 ## mukta-m0-p79-v1973
-[haṃsagatiḥ-swan-gait](haṃsagatiḥ)
+[page](p.) [240](240) [swan](haṃsa)+[gait](gatiḥ) [name](haṃsagatiḥ) [goddess](devī)
 
 ## mukta-m0-p79-v1974
-[bhaveddhaṃsagatiḥ-may-swan-gait-be](bhaveddhaṃsagatiḥ) [samyak-properly](samyak) [sadā-always](sadā) [sthiratarā-more-steady](sthiratarā) [parā-supreme](parā)
+[may-be](bhavet)+[swan](haṃsa)+[gait](gatiḥ) [rightly](samyak) [always](sadā) [very-steady](sthiratarā) [supreme](parā)
 
 ## mukta-m0-p79-v1975
-[haṃsī-swan](haṃsī)
+[swan](haṃsī) [name](haṃsī) [goddess](devī) [invoked](āhūtā)
