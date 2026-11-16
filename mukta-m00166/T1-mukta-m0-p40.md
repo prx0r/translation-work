@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p40-v976
-[of-becoming](bhaveḥ) [in-śiva](śive) [of-all-time-lord-desire](sarvakaleśvarīcchā)
+[may-you-be](bhaveḥ) [O-auspicious-one](śive) [all](sarva)+[arts-lordess](kaleśvarī)+[wish](icchā) [fulfilled](siddhā)
 
 ## mukta-m0-p40-v977
-[goddess](bhagavatī)
+[fortune](bha)+[bestowing](ga)+[possessing](va)+[feminine](tī)
 
 ## mukta-m0-p40-v978
-[lord-of-beggars](bhikṣunātho) [not](na) [if-goddess](ceddevī) [would-be](bhaved) [goddess](bhagavatī) [in-house](gṛhe)
+[monks](bhikṣu)+[lord](nātho) [not](na) [if](cet)+[goddess](devī) [may-be](bhaved) [venerable-goddess](bhagavatī) [in-house](gṛhe)
 
 ## mukta-m0-p40-v979
-[power](śaktiḥ)
+[power](śak)+[feminine](ti)+[noun-suffix](ḥ)
 
 ## mukta-m0-p40-v980
-[power](śaktiḥ) [attachment](saktiṃ) [in-saṃsāra](saṃsṛtau) [withdraw](saṃharasva)
+[O-power](śaktiḥ) [power](śaktiṃ) [in-transmigration](saṃsṛtau) [withdraw](saṃharasva)
 
 ## mukta-m0-p40-v981
-[wish-fulfilling-cow](kāmadhenuḥ)
+[wish](kāma)+[cow](dhenu)+[noun-suffix](ḥ)
 
 ## mukta-m0-p40-v982
-[may-she-give](dadyā) [because](yataḥ) [all-desired-success](sarvasukāmasiddhiḥ)
+[may-she-give](dadyā) [because](yataḥ) [all](sarva)+[desire](sukāma)+[fulfillment](siddhiḥ)
 
 ## mukta-m0-p40-v983
-[compassionate-one](kṛpāvatī)
+[compassion](kṛpā)+[possessing](va)+[feminine](tī)
 
 ## mukta-m0-p40-v984
-[compassion](kṛpāṃ) [bestows](vidhatte) [she](sā) [some](kāpi) [praised-this](kīrtitaiṣā) [compassionate-one](kṛpāvatī)
+[compassion](kṛpāṃ) [bestows](vidhatte) [she](sā) [some](kāpi) [praised](kīrtitā)+[this](eṣā) [compassionate-one](kṛpāvatī)
 
 ## mukta-m0-p40-v985
-[vajra-weaponed](vajrāyudhā)
+[thunderbolt](vajra)+[weapon](āyudhā)
 
 ## mukta-m0-p40-v986
-[went](agacchat) [famous](prathitāmastu) [this](seyaṃ) [vajra-weaponed](vajrāyudhā) [for-glory](śriye)
+[may-come](agacchat) [renowned](prathitām)+[may-be](astu) [she](sā)+[this](iyaṃ) [thunderbolt-weaponed](vajrāyudhā) [for-prosperity](śriye)
 
 ## mukta-m0-p40-v987
-[vajra-handed](vajrahastā)
+[thunderbolt](vajra)+[hand](hastā)
 
 ## mukta-m0-p40-v988
-[of-non-devotees](abhaktānāṃ) [supreme](paraṃ) [whose](yasyā) [vajra-handed](vajrahastā) [conquers](jayatyasau)
+[of-non-devotees](abhaktānāṃ) [supreme](paraṃ) [whose](yasyā) [thunderbolt-handed](vajrahastā) [victorious-is](jayati)+[she](asau)
 
 ## mukta-m0-p40-v989
-[fierce-one](caṇḍī)
+[fierce](caṇ)+[feminine](ḍī)
 
 ## mukta-m0-p40-v990
-[fierce-one-thus](caṇḍīti) [sung](gītā) [auspicious](subhagā) [bhavānī](bhavānī)
+[as-Caṇḍī](caṇḍī)+[thus](iti) [sung](gītā) [auspicious](subhagā) [Bhavānī](bhavānī)
 
 ## mukta-m0-p40-v991
-[fierce-in-valor](caṇḍaparākramā)
+[fierce](caṇḍa)+[valor](parākramā)
 
 ## mukta-m0-p40-v992
-[for-own-purpose](svārthā) [fierce-in-valor](caṇḍaparākramā) [conquers](jayati) [she](sā) [without-effort](yatnaṃ) [vinā](vinā) [deity](devatā)
+[self-purposeful](svārthā) [of-fierce-valor](caṇḍa)+[valor](parākramā) [triumphs](jayati) [she](sā) [effort](yatnaṃ) [without](vinā) [goddess](devatā)
 
 ## mukta-m0-p40-v993
-[gaurī](gaurī)
+[bright](gau)+[feminine](rī)
 
 ## mukta-m0-p40-v994
-[may-she-be](bhūyād) [gaurī](gaurī) [for-greatness-attainment](gurutvāptyai) [by-herself](svataḥ) [famous-glory](prathitagauravā)
+[may-be](bhūyād) [Gaurī](gaurī) [for-greatness-attainment](gurutva)+[attainment](āptyai) [by-herself](svataḥ) [renowned](prathita)+[majesty](gauravā)
 
 ## mukta-m0-p40-v995
-[golden-colored](suvarṇavarṇā)
+[golden](suvarṇa)+[color](varṇā)
 
 ## mukta-m0-p40-v996
-[unutterable-colored](avarṇyavarṇāpi) [golden-colored-thus](suvarṇavarṇetyāhvānagītā) [made-form-color](kṛtarūpavarṇam)
+[indescribable](avarṇya)+[color](varṇā)+[though](api) [as-golden-colored](suvarṇa)+[colored](varṇā)+[thus](iti)+[invocation](āhvāna)+[sung](gītā) [made](kṛta)+[form](rūpa)+[description](varṇam)
 
 ## mukta-m0-p40-v997
-[maintainer-and-destroyer](sthitisaṃhārakāriṇī)
+[preservation](sthiti)+[destruction](saṃhāra)+[causing](kāriṇī)
 
 ## mukta-m0-p40-v998
-[simultaneously](yugapat) [tu](tu) [self-dependent-this](svatantreyaṃ) [maintainer-and-destroyer](sthitisaṃhārakāriṇī)
+[simultaneously](yugapat) [indeed](tu) [independent](svatantrā)+[this](iyaṃ) [preservation](sthiti)+[destruction](saṃhāra)+[causing](kāriṇī)
 
 ## mukta-m0-p40-v999
-[one](ekā)
+[one](e)+[feminine](kā)
 
 ## mukta-m0-p40-v1000
-[by-herself](svayaṃ) [how](kathaṃ) [would-be](syāt) [describable](parivarṇanīyā)
+[by-herself](svayaṃ) [how](kathaṃ) [may-be](syāt) [to-be-described](parivarṇanīyā)
