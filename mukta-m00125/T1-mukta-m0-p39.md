@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p39-v951
-[eternal-festival+endowed+place](nityotsava+yuta+sthāne) [and+festival+elsewhere+or+also](ca+utsavena+anyatra+vā+api) [or](vā)
+[eternal-festival](nitya) [festival](utsava) [endowed](yuta) [place](sthāne) [and](ca) [festival](utsavena) [elsewhere](anyatra) [or](vā) [also](api) [or](vā)
 
 ## mukta-m0-p39-v952
-[circumambulation+order+or+also](pradakṣiṇa+kramāt+vā+api) [should-do+one-fire+arrangement](kuryāt+eka+agni+kalpane)
+[circumambulation](pradakṣiṇa) [sequence](kramāt) [or](vā) [also](api) [should-do](kuryāt) [one](eka) [fire](agni) [arrangement](kalpane)
 
 ## mukta-m0-p39-v953
-[oneself+and+Caṇḍa+like](ātmānam+caṇḍavat) [having-meditated](dhyātvā) [should-cut+or+flag+pole](chindyāt+vā+dhvaja+daṇḍakam)
+[oneself](ātmānam) [and](ca) [Caṇḍa](caṇḍa) [like](vat) [having-meditated](dhyātvā) [should-cut](chindyāt) [or](vā) [flag](dhvaja) [staff](daṇḍakam)
 
 ## mukta-m0-p39-v954
-[flag+sprout+new+vehicle](ketu+aṅkuram+nava+āhe) [should-be](syāt) [in-seven-days+and+festival+sprout](saptāhe+ca+utsava+aṅkuram)
+[flag](ketu) [sprout](aṅkuram) [nine](nava) [week](āhe) [should-be](syāt) [seven](sapta) [week](āhe) [and](ca) [festival](utsava) [sprout](aṅkuram)
 
 ## mukta-m0-p39-v955
-[at-midday](madhyāhne) [flag+worship](dhvaja+pūjām) [or](vā) [in-Soma-pot](soma+kumbhe) [of-water+and](jalasya+ca)
+[midday](madhyāhne) [flag](dhvaja) [worship](pūjām) [or](vā) [Soma](soma) [pot](kumbhe) [of-water](jalasya) [and](ca)
 
 ## mukta-m0-p39-v956
-[done-protective-rite+processional-image+of](kṛta+kautuka+berasya) [from-that-village+departure+or+also](tat+grāmāt+nirgamaḥ+api) [or](vā)
+[done](kṛta) [preliminary-rite](kautuka) [image](berasya) [that](tat) [village](grāmāt) [departure](nirgamaḥ) [also](api) [or](vā)
 
 ## mukta-m0-p39-v957
-[solar+and+lunar](sauraḥ+ca+āndraḥ) [twofold](dvidhā) [declared](proktāḥ) [year](vatsaraḥ) [in-Kāmikāgama](kāmikā+āgame)
+[solar](sauraḥ) [and](ca) [lunar](āndraḥ) [twofold](dvidhā) [declared](proktāḥ) [year](vatsaraḥ) [in-Kāmikāgama](kāmikāgame)
 
 ## mukta-m0-p39-v958
-[civil-year+but+inferior](sāvanaḥ+tu+adhamaḥ) [declared](proktaḥ) [by-that](tena) [work+but](kāryam+tu) [not+desired](na+iṣyate)
+[civil](sāvanaḥ) [but](tu) [inferior](adhamaḥ) [declared](proktaḥ) [by-that](tena) [work](kāryam) [but](tu) [not](na) [desired](iṣyate)
 
 ## mukta-m0-p39-v959
-[having-performed](vidhāya) [pacification+fire-ritual](śānti+homam+tu) [installation+etc.+but](pratiṣṭhā+ādi+tu) [or](vā) [should-conduct](nayet)
+[having-performed](vidhāya) [pacification](śānti) [oblation](homam) [but](tu) [installation](pratiṣṭhā) [beginning-with](ādi) [but](tu) [or](vā) [should-conduct](nayet)
 
 ## mukta-m0-p39-v960
-[flag+one](dhvajam+ekam) [having-raised](samāropya) [flag-hoisting+preceded-by](dhvaja+ārohaṇa+pūrvakam)
+[flag](dhvajam) [one](ekam) [having-raised](samāropya) [flag](dhvaja) [hoisting](ārohaṇa) [preceded-by](pūrvakam)
 
 ## mukta-m0-p39-v961
-[should-announce](śrāvayet) [sacred-bath+day](tīrtha+divasam) [by-elephant+etc.+mounted-one+and](gaja+ādi+ārohitena+ca)
+[should-announce](śrāvayet) [sacred-bath](tīrtha) [day](divasam) [elephant](gaja) [beginning-with](ādi) [mounted](ārohitena) [and](ca)
 
 ## mukta-m0-p39-v962
-[in-that-night+indeed](tat+rātrau+eva) [should-be-done](kartavyam) [drum-beating+preceded-by](bherī+tāḍana+pūrvakam)
+[that](tat) [night](rātrau) [indeed](eva) [should-be-done](kartavyam) [drum](bherī) [beating](tāḍana) [preceded-by](pūrvakam)
 
 ## mukta-m0-p39-v963
-[having-announced](āśrāvya) [sacred-bath+day](tīrtha+divasam) [from-village+offering+devoid](grāmāt+bali+varjitam)
+[having-announced](āśrāvya) [sacred-bath](tīrtha) [day](divasam) [village](grāmāt) [outside](bali) [devoid-of](varjitam)
 
 ## mukta-m0-p39-v964
-[altar-platform+pair](sthaṇḍila+dvitayam) [having-made](kṛtvā) [at-water-bank](jala+tīre) [O-best-teachers](guru+uttamāḥ)
+[altar](sthaṇḍila) [pair](dvitayam) [having-made](kṛtvā) [water](jala) [shore](tīre) [teachers](guru) [best](uttamāḥ)
 
 ## mukta-m0-p39-v965
-[with-new-pots](navakaiḥ) [should-bathe+trident](snāpayet+śūlam) [that+trident](tat+śūlam) [should-immerse](avagāhayet)
+[with-nine](navakaiḥ) [should-bathe](snāpayet) [trident](śūlam) [that](tat) [trident](śūlam) [should-immerse](avagāhayet)
 
 ## mukta-m0-p39-v966
-[ritual-beginning](yāga+ārambham) [again](punaḥ) [should-do](kuryāt) [sprout-offering+preceded-by](aṅkura+arpaṇa+pūrvakam)
+[ritual](yāga) [beginning](ārambham) [again](punaḥ) [should-do](kuryāt) [sprout](aṅkura) [offering](arpaṇa) [preceded-by](pūrvakam)
 
 ## mukta-m0-p39-v967
-[image-procession+endowed-with](bera+yātrā+samāyuktam) [day](divasam) [every-day+night](prati+ahar+niśam)
+[image](bera) [procession](yātrā) [joined-with](samāyuktam) [day](divasam) [every](prati) [day](ahar) [night](niśam)
 
 ## mukta-m0-p39-v968
-[should-sprinkle](vikiret) [abode](sadanam) [all](sarvam) [inside+outside](antaḥ+bāhya) [arranged](vikalpitam)
+[should-sprinkle](vikiret) [abode](sadanam) [all](sarvam) [inside](antar) [outside](bāhya) [arranged](vikalpitam)
 
 ## mukta-m0-p39-v969
-[for-sacred-bath](tīrtha+artham) [in-that-night+but](tat+niśāyām+tu) [of-sanctuary](dhāmnaḥ) [in-eighth+etc.+directions+also](aṣṭa+ādi+diśāsu+api)
+[sacred-bath](tīrtha) [for-the-sake-of](artham) [that](tat) [night](niśāyām) [but](tu) [of-temple](dhāmnaḥ) [east](aṣṭa) [beginning-with](ādi) [directions](diśāsu) [also](api)
 
 ## mukta-m0-p39-v970
-[with-that-weapon-portions](tat+astra+akān) [or+with-bull-limbs](vṛṣa+aṅgān+vā) [with-image-priests+and](mūrti+paiḥ+ca) [together-with](samanvitaḥ)
+[that](tat) [weapon](astra) [bodies](ākān) [bull](vṛṣa) [limbed](aṅgān) [or](vā) [image](mūrti) [attendants](paiḥ) [and](ca) [together-with](samanvitaḥ)
 
 ## mukta-m0-p39-v971
-[at-end-of-that](tat+ante) [offering+giving](bali+dānam) [should-be](syāt) [image-procession+endowed-with](bera+yātrā+samanvitam)
+[that](tat) [end](ante) [offering](bali) [giving](dānam) [should-be](syāt) [image](bera) [procession](yātrā) [together-with](samanvitam)
 
 ## mukta-m0-p39-v972
-[of-flags](dhvajānām) [of-eight+number](aṣṭa+saṃkhyānām) [in-that-night](tat+rātrau) [lowering](avarohaṇam)
+[of-flags](dhvajānām) [eight](aṣṭa) [number](saṃkhyānām) [that](tat) [night](rātrau) [lowering](avarohaṇam)
 
 ## mukta-m0-p39-v973
-[various+songs+endowed-with](nānā+gāna+samāyuktam) [various+dances+endowed-with](nānā+nṛtta+samanvitam)
+[various](nānā) [songs](gāna) [joined-with](samāyuktam) [various](nānā) [dances](nṛtta) [together-with](samanvitam)
 
 ## mukta-m0-p39-v974
-[for-seven-days](saptāham) [thus](evam) [having-done+at-end](kṛtvā+ante) [from-there](tasmāt) [having-gone](gatvā) [to-water-reservoir](jala+āśayam)
+[seven](sapta) [week](āham) [thus](evam) [having-done](kṛtvā) [at-end](ante) [from-there](tasmāt) [having-gone](gatvā) [water](jala) [reservoir](āśayam)
 
 ## mukta-m0-p39-v975
-[in-one-place](ekatra) [should-place+trident](sthāpayet+śūlam) [in-another-place](anyatra) [pots](kalaśān) [should-place](nyaset)
+[in-one-place](ekatra) [should-place](sthāpayet) [trident](śūlam) [in-another-place](anyatra) [pots](kalaśān) [should-place](nyaset)
