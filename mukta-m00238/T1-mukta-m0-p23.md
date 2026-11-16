@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p23-v551
-[mleccha-cutter](mleccha+cchedakaraḥ) [kalki](kalkī) [two-armed](dvi+bhujaḥ) [is-declared](parikīrtitaḥ) [white-colored](śveta+varṇaḥ)
+[mleccha+cutting+maker](mlecchacchedakaraḥ) [kalkī](kalkī) [two+armed](dvibhujaḥ) [proclaimed](parikīrtitaḥ)
 
 ## mukta-m0-p23-v552
-[conch-disc-holder](śaṃkha+cakra+dharaḥ) [dark](śyāmaḥ) [two-armed](dvi+bhujaḥ) [named-kṛṣṇa](kṛṣṇa+saṃjñakaḥ) [dark-colored](śyāma+varṇaḥ)
+[white+colored](śvetavarṇaḥ) [conch+discus+holder](śaṃkhacakradharaḥ) [dark](śyāmaḥ) [two+armed](dvibhujaḥ) [kṛṣṇa+named](kṛṣṇasaṃjñakaḥ) [dark+colored](śyāmavarṇaḥ)
 
 ## mukta-m0-p23-v553
-[varāha](varāhaḥ) [dark-hued](śyāmala+nibhaḥ) [or](vā) [white-form](dhvala+ākṛtiḥ) [indeed](eva)
+[varāha](varāhaḥ) [dark+complexioned](śyāmalanibhaḥ) [or](vā) [white+form](dhvalākṛtiḥ) [indeed](eva)
 
 ## mukta-m0-p23-v554
-[vāmana](vāmanaḥ) [dark-hued](śyāmala+nibhaḥ) [or](vā) [black-colored](kāla+varṇaḥ) [greatly-powerful](mahā+balaḥ)
+[vāmana](vāmanaḥ) [dark+complexioned](śyāmalanibhaḥ) [black+colored](kālavarṇaḥ) [great+strong](mahābalaḥ)
 
 ## mukta-m0-p23-v555
-[bharata](bharataḥ) [dark](śyāmalaḥ) [is-declared](proktaḥ) [lakṣmaṇa](lakṣmaṇaḥ) [golden-lustrous](kanaka+prabhaḥ)
+[bharata](bharataḥ) [dark](śyāmalaḥ) [declared](proktaḥ) [lakṣmaṇa](lakṣmaṇaḥ) [golden+splendor](kanakaprabhaḥ)
 
 ## mukta-m0-p23-v556
-[māṇḍavī](māṃḍavī) [red-colored](rakta+varṇa+ābhā) [and](ca) [ūrmilā](ūrmilā) [dark-formed](śyāmala+ākṛtiḥ)
+[māṇḍavī](māṃḍavī) [red+colored+resembling](raktavarṇābhā) [ūrmilā](ūrmilā) [dark+formed](śyāmalākṛtiḥ)
 
 ## mukta-m0-p23-v557
-[śrutakīrti](śrutakīrtiḥ) [white-limbed](sita+aṃgī) [should-be](syāt) [hanūmān](dhanūmān) [golden-lustrous](kanaka+prabhaḥ) [aṅgada](aṃgadaḥ) [red-colored](rakta+varṇa+ābhaḥ) [sugrīva](sugrīvaḥ) [golden-tawny](hema+piṃgalaḥ)
+[śrutakīrti](śrutakīrtiḥ) [white+limbed](sitāṃgī) [should-be](syāt) [hanūmān](dhanūmān) [golden+splendor](kanakaprabhaḥ) [aṅgada](aṃgadaḥ) [red+colored+resembling](raktavarṇābhaḥ) [sugrīva](sugrīvaḥ) [gold+tawny](hemapiṃgalaḥ)
 
 ## mukta-m0-p23-v558
-[guha](guhaḥ) [indeed](tu) [copper-colored](tāmra+varṇa+ābhaḥ) [black-colored](kāla+varṇaḥ) [vibhīṣaṇa](vibhīṣaṇaḥ)
+[guha](guhaḥ) [parrot+colored+resembling](tulavarṇābhaḥ) [black+colored](kālavarṇaḥ) [vibhīṣaṇa](vibhīṣaṇaḥ)
 
 ## mukta-m0-p23-v559
-[cloud-dark](megha+śyāmaḥ) [should-be](bhavet) [kṛṣṇa](kṛṣṇaḥ) [rukmiṇī](rukmiṇī) [golden-lustrous](kanaka+prabhā)
+[cloud+dark](meghaśyāmaḥ) [should-be](bhavet) [kṛṣṇa](kṛṣṇaḥ) [rukmiṇī](rukmiṇī) [golden+splendor](kanakaprabhā)
 
 ## mukta-m0-p23-v560
-[on-the-right](dakṣiṇe) [indeed](tu) [holding-mace-and-lotus](gadā+padmī) [resembling-blue-cloud](nīla+jīmūta+sannibhaḥ)
+[on+right](dakṣiṇe) [indeed](tu) [mace+lotus+holder](gadāpadmī) [blue+cloud+like](nīlajīmūtasannibhaḥ)
 
 ## mukta-m0-p23-v561
-[on-the-left](vāme) [śrī](śrīḥ) [lute-in-hand](vallakī+hastā) [nourishing](puṣṭā) [lotus-in-other-hand](padma+karā) [another](apare) [dark-colored](śyāma+varṇaḥ)
+[on+left](vāme) [śrī](śrīḥ) [lute+in+hand](vallakī+hastā) [nourishing](puṣṭā) [lotus+in+hand](padmakarā) [other](apare) [dark+colored](śyāmavarṇaḥ)
 
 ## mukta-m0-p23-v562
-[to-be-meditated](dhyeyaḥ) [always](sadā) [in-the-sun-disk-center-abiding](savitṛ+maṃḍala+madhya+vartī) [nārāyaṇa](nārāyaṇaḥ) [seated-on-lotus-seat](sarasija+āsana+sanniviṣṭaḥ) [wearing-armlets](keyūravān) [wearing-makara-earrings](makara+kuṃḍalavān) [wearing-crown](kirīṭī) [wearing-garland](hārī) [golden-bodied](hiraṇmaya+vapuḥ) [holding-conch-and-disc](dhṛta+śaṃkha+cakraḥ)
+[to-be-meditated](dhyeyaḥ) [always](sadā) [sun+orb+middle+dwelling](savitṛmaṃḍalamadhyavartī) [nārāyaṇa](nārāyaṇaḥ) [lotus+seat+seated](sarasijāsanasanniviṣṭaḥ) [armlet+possessing](keyūravān) [crocodile+earring+possessing](makarakuṃḍalavān) [crowned](kirīṭī) [garlanded](hārī) [golden+bodied](hiraṇmayavapuḥ) [holding+conch+discus](dhṛtaśaṃkhacakraḥ)
 
 ## mukta-m0-p23-v563
-[I-bow](vaṃde) [I](ahaṃ) [fierce-terrible-mighty-great-cheeked-bheruṇḍa](krūra+ghora+prabala+tara+mahā+gaṃḍa+bheruṃḍa) [lion-tiger-boar-monkey-bird-bear-etc-eight-faced](siṃha+vyāghra+śca+kroḍa+śākhā+mṛga+vara+khaga+rāṅ+bhalluka+ādi+aṣṭa+vaktram) [thirty-two-crore-armed](dvātriṃśat+koṭi+bāhuṃ) [bearing-plough-pestle-mace-conch-disc-etc-weapons](hala+musala+gadā+śaṃkha+cakra+ādi+hetīn+vibhrāṇaṃ) [terrible-tusked](bhīma+daṣṭraṃ) [devouring-śarabha-birds-elephants](śarabha+khaga+gajān+bhakṣayaṃtaṃ) [nṛsiṃha](nṛsiṃham)
+[I+salute](vaṃde+aham) [fierce+terrible+very+powerful+great+cheeked+bheruṇḍa](krūraghoraprabalataramahāgaṃḍabheruṃḍa) [lion+tiger+boar+monkey+best+bird+bear+etc.+eight+faced](siṃhavyāghrāścakroḍaśākhāmṛgavarakhagarāṅbhallukādyaṣṭavaktram) [thirty-two+crore+armed](dvātriṃśatkotibāhuṃ) [plough+pestle+mace+conch+discus+etc.+weapons](halamusalagadā+śaṃkhacakrādihetīn) [bearing](vibhrāṇaṃ) [terrible+tusked](bhīmadaṣṭraṃ) [śarabha+bird+elephants](śarabhakhagagajān) [devouring](bhakṣayaṃtaṃ) [nṛsiṃha](nṛsiṃham)
 
 ## mukta-m0-p23-v564
-[in-the-body](śarīre) [red-colored](rakta+varṇaḥ) [in-the-faces](mukheṣu) [of-respective-colors](tat+tat+varṇāḥ)
+[in+body](śarīre) [red+colored](raktavarṇaḥ) [in+faces](mukheṣu) [of-those+respective+colors](tattadvarṇāḥ)
 
 ## mukta-m0-p23-v565
-[thunderbolt-like-beak-and-claws](vajra+samāna+tuṃḍa+nakharaṃ) [three-tusked-two-tongued-face](daṃṣṭri+dvi+jihvā+ānanam)
+[thunderbolt+like+beak+nails](vajrasamānatuṃḍanakharaṃ) [fangs+two+tongued+faced](daṃṣṭridvijihvānanam)
 
 ## mukta-m0-p23-v566
-[heart-belly-pervading-eight-kālas-eight-durgās](hṛdaya+jaṭhara+gāhya+aṣṭa+kālya+aṣṭa+durgā) [thighs-two-rudra-kālas](ūrū+dvau+rudra+kālau) [bird-animal-man-lion-gaṇḍabheruṇḍa-form](khaga+mṛga+nṛ+hariḥ+gaṃḍabherūpaḥ) [may-protect](pāyāt) [us](asmān) [he](saḥ) [with-disc](cakraḥ) [hari](hariḥ) [here](iha) [piercing-fierce-enemies-śarabha-etc](śarabha+ādi+ugra+śatrūn+pravidhyan)
+[heart+belly+entering+eight+kālas+eight+durgās](hṛdayajaṭharagāhyaṣṭakālyaṣṭadurgā) [thigh+two+rudra+kālas](ūrūdvaurudrakālau) [bird+beast+man-lion+gaṇḍabheruṇḍa+form](khagamṛganṛharirgaṃḍabherūpaḥ) [may-protect](pāyāt) [us](asmān) [he](saḥ) [with-discus](cakraḥ) [hari](hariḥ) [here](iha) [śarabha+etc.+fierce+enemies](śarabhādyugraśatrūn) [piercing](pravidhyan)
 
 ## mukta-m0-p23-v567
-[by-two-arms-restrained-demon-hair-and-feet](bāhu+dvaṃdva+uparuddha+asura+ka+ca+caraṇaṃ) [by-raised-pair-of-arms-and-nail-tips](doryuga+udyat+nakhā+agra) [covered-enemy-body](pracchanna+arāti+dehaṃ) [sun-moon-fire-three-eyed](ravi+śaśi+dahana+tri+īkṣaṇaṃ) [thunderbolt-winged](vajra+pakṣam)
+[arm+pair+restrained+demon+hair+feet](bāhudvaṃdvoparuddhāsuraka+ca+caraṇaṃ) [arm+pair+raised+nail+tips](doryugodyannakhāgra) [covered+enemy+body](pracchannārāti+dehaṃ) [sun+moon+fire+three+eyed](raviśaśidahanatrīkṣaṇaṃ) [thunderbolt+winged](vajrapakṣam)
 
 ## mukta-m0-p23-v568
-[golden-intestined](hairaṇya+aṃtraṃ) [trident](triśūlaṃ) [shield](phalakam) [also](api) [great-noose-headed](mahā+pāśa+śīrṣaṃ) [bow-pināka](pinākaṃ) [thunderbolt](vajraṃ) [mace-kaumodakī](kaumodakīṃ) [and](ca) [also](api) [very-strong](ati+balam) [pestle](musalaṃ) [holding](saṃdadhānaṃ) [in-hand-tips](kara+agraiḥ)
+[golden+entrails](hairaṇyāṃtraṃ) [trident](triśūlaṃ) [shield](phalakam) [also](api) [great+noose+headed](mahāpāśaśīrṣaṃ) [pināka-bow](pinākaṃ) [thunderbolt](vajraṃ) [kaumodakī-mace](kaumodakīṃ) [and](ca) [also](api) [very+strong+pestle](atibalamasalaṃ) [holding](saṃdadhānaṃ) [with+hand+tips](karāgraiḥ)
 
 ## mukta-m0-p23-v569
-[in-the-body](śarīre) [red-colored](rakta+varṇaḥ) [in-the-faces](mukheṣu) [of-respective-colors](tat+tat+varṇāḥ)
+[in+body](śarīre) [red+colored](raktavarṇaḥ) [in+faces](mukheṣu) [of-those+respective+colors](tattadvarṇāḥ)
 
 ## mukta-m0-p23-v570
-[wearing-skull-garland](muṃḍa+mālā+dharaṃ) [terrible](raudraṃ) [adorned-with-necklace](kaṃṭha+hāreṇa+śobhitam)
+[skull+garland+wearer](muṃḍamālādharaṃ) [terrible](raudraṃ) [with+neck+garland](kaṃṭhahāreṇa) [adorned](śobhitam)
 
 ## mukta-m0-p23-v571
-[moon-crested](caṃdra+mauliṃ) [blue-throated](nila+kaṃṭhaṃ) [in-each-face](prati+vaktraṃ) [three-eyed](tri+locanam)
+[moon+crested](caṃdramauliṃ) [blue+throated](nilakṃṭhaṃ) [in+each+face](prativaktraṃ) [three+eyed](trilocanam)
 
 ## mukta-m0-p23-v572
-[rosary](akṣa+sūtraṃ) [mace](gadāṃ) [lotus](padmaṃ) [conch](śaṃkhaṃ) [resembling-cow’s-milk](go+kṣīra+sannibham)
+[rosary](akṣasūtraṃ) [mace](gadāṃ) [lotus](padmaṃ) [conch](śaṃkhaṃ) [cow+milk+like](gokṣīrasannibham)
 
 ## mukta-m0-p23-v573
-[sword](khaḍgaṃ) [and](ca) [trident-and-noose](śūla+pāśau) [and](ca) [nṛsiṃha](nṛsiṃhaṃ) [in-rudra-form](rudra+rūpiṇam)
+[sword](khaḍgaṃ) [and](ca) [trident+noose](śūlapāśau) [and](ca) [nṛsiṃha](nṛsiṃhaṃ) [rudra+formed](rudrarūpiṇam)
 
 ## mukta-m0-p23-v574
-[resembling-indragopa-red](iṃdragopaka+nīla+ābhaṃ) [moon-bright](caṃdra+ābhaṃ) [resembling-gold](svarṇa+sannibham) [faces-from-east-to-north](pūrvā+ādi+uttara+aṃta+āsyam) [upper-face](ūrdhva+āsyam) [of-all-colors](sarva+varṇakam)
+[indragopa-insect+blue+hued](iṃdragopakanīlābhaṃ) [moon+hued](caṃdrābhaṃ) [gold+like](svarṇasannibham) [east+etc.+to+north+end+faces](pūrvādimottarāṃtāsyam) [upper+face](ūdhrvāsyaṃ) [all+colored](sarvavarṇakam)
 
 ## mukta-m0-p23-v575
-[bearing](bibhrāṇaṃ) [of-all-worlds](sarva+jagatām) [support](ādhāraṃ) [O-daughter-of-mountain](giri+kanyake) [in-the-body](śarīre) [red-colored](rakta+varṇaḥ) [in-the-faces](mukheṣu) [group-of-five-colors](varṇānāṃ+paṃcakam)
+[bearing](bibhrāṇaṃ) [of+all+worlds](sarvajagatām) [support](ādhāraṃ) [O+daughter+of+mountain](girikanyake) [in+body](śarīre) [red+colored](raktavarṇaḥ) [in+faces](mukheṣu) [of+colors](varṇānāṃ) [group+of+five](paṃcakam)
