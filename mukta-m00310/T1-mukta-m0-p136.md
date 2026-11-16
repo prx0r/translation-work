@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p136-v3376
-[thus](iti) [this](idam) [armor](kavacam) [goddess](devi) [three-worlds-subjugation-cause](trailokyavaśyakāraṇam)
+thus(iti) this(idam) armor(kavacam) O-goddess(devi) three-world+subjugation+cause(trailokya+vaśya+kāraṇam)
 
 ## mukta-m0-p136-v3377
-[to-whom](yasya) [to-whom](kasya) [not](na) [to-be-given](dātavyaṃ) [without](vinā) [by-disciple](śiṣyeṇa) [parvati](pārvati)
+of-whom(yasya) of-anyone(kasya) not(na) to-be-given(dātavyam) without(vinā) disciple(śiṣyeṇa) O-Pārvatī(pārvati)
 
 ## mukta-m0-p136-v3378
-[without](vinā) [gift](dānaṃ) [not](na) [should-take](gṛhṇīyāt) [not](na) [should-give](dadyāt) [fee](dakṣiṇāṃ) [without](vinā)
+without(vinā) gift(dānam) not(na) should-one-receive(gṛhṇīyāt) not(na) should-one-give(dadyāt) fee(dakṣiṇām) without(vinā)
 
 ## mukta-m0-p136-v3379
-[otherwise](anyathā) [whoever](yaḥ) [tu](tu) [takes](gṛhṇīyāt) [gives](dadyāt) [or](vā) [armor-lord](kavaceśvaram)
+otherwise(anyathā) who(yah) indeed(tu) should-receive(gṛhṇīyāt) or(vā) should-give(dadyāt) armor-lord(kavaca+īśvaram)
 
 ## mukta-m0-p136-v3380
-[not-knowing](ajñātvā) [armor](kavacaṃ) [goddess](devi) [should-worship](pūjayet) [shri-stone](śrīśilāṃ) [shive](śive)
+without-knowing(ajñātvā) armor(kavacam) O-goddess(devi) should-worship(pūjayet) sacred-stone(śrī+śilām) O-Śivā(śive)
 
 ## mukta-m0-p136-v3381
-[man](naraḥ)
+man(naraḥ)
 
 ## mukta-m0-p136-v3382
-[thus](iti) [this](idam) [armor](kavacaṃ) [goddess](devi) [essence](sāraṃ) [best-of-all](sarvasvamuttamam)
+thus(iti) this(idam) armor(kavacam) O-goddess(devi) essence(sāram) all-wealth(sarva+svam) supreme(uttamam)
 
 ## mukta-m0-p136-v3383
-[all-desires-giving](sarvakāmapradaṃ) [divine](divyaṃ) [three-worlds-bewitching-named](trailokyamohanābhidham)
+all-desire+granting(sarva+kāma+pradam) divine(divyam) three-world+enchanting+named(trailokya+mohana+abhidham)
 
 ## mukta-m0-p136-v3384
-[jalandhara-rakshasa-slaying](jālandhararākṣasaghnī) [pradyumna-peak](pradyumnaśikhare) [situated](sthitā)
+Jālandhara-demon+slayer(jālandhara+rākṣasa+ghnī) on-Pradyumna-peak(pradyumna+śikhare) situated(sthitā)
 
 ## mukta-m0-p136-v3385
-[I-tell](kathayāmi) [supreme](parāṃ) [knowledge](vidyāṃ) [thousand-named](sahasrākhyābhidhāṃ) [shive](śive)
+I-tell(kathayāmi) supreme(parām) knowledge(vidyām) thousand-name+called(sahasra+ākhya+abhidhām) O-Śivā(śive)
 
 ## mukta-m0-p136-v3386
-[without](vinā) [daily-rite](nityakriyāṃ) [goddess](devi) [without](vinā) [nyasa](nyāsaṃ) [without](vinā) [worship](arcanam)
+without(vinā) daily-rite(nitya+kriyām) O-goddess(devi) without(vinā) ritual-assignment(nyāsam) without(vinā) worship(arcanam)
 
 ## mukta-m0-p136-v3387
-[without](vinā) [cremation-ground-going](śmaśānagamanaṃ) [without](vinā) [vow-worship](samayapūjanam)
+without(vinā) cremation-ground+going(śmaśāna+gamanam) without(vinā) observance-worship(samaya+pūjanam)
 
 ## mukta-m0-p136-v3388
-[who](yā) [goddess](devī) [consciousness](cetanā) [in-world](loke) [stone-form](śilārūpā) [is](asti) [sharika](śārikā)
+which(yā) goddess(devī) consciousness(cetanā) in-world(loke) stone-form(śilā+rūpā) is(asti) Śārikā(śārikā)
 
 ## mukta-m0-p136-v3389
-[she-indeed](saiva) [of-samsarins](saṃsāriṇāṃ) [goddess](devi) [supreme-power-giving](paramaiśvaryadāyinī)
+she-alone(sā+eva) of-worldly-beings(saṃsāriṇām) O-goddess(devi) supreme-sovereignty+giver(parama+aiśvarya+dāyinī)
 
 ## mukta-m0-p136-v3390
-[her](tasyāḥ) [thousand-names](nāmasahasraṃ) [to-you](te) [I-describe](varṇayāmi) [secret](rahasyakam)
+of-her(tasyāḥ) name-thousand(nāma+sahasram) to-you(te) I-describe(varṇayāmi) secret(rahasyakam)
 
 ## mukta-m0-p136-v3391
-[who](yaḥ) [chants](japet) [supreme](paramāṃ) [vidya](vidyāṃ) [reads](paṭhet) [thousand-names](ākhyāsahasrakam)
+who(yah) may-recite(japet) supreme(parām) knowledge(vidyām) may-read(paṭhet) name-thousand(ākhyā+sahasrakam)
 
 ## mukta-m0-p136-v3392
-[what](kiṃ) [for-him](tasya) [difficult](durlabhaṃ) [in-world](loke) [not-obtain](nāpnuyāt) [whatever](yadyad) [goddess](īśvari)
+what(kim) for-him(tasya) difficult-to-obtain(durlabham) in-world(loke) not(na) may-he-obtain(āpnuyāt) whatever(yat+yat) O-sovereign-goddess(īśvari)
 
 ## mukta-m0-p136-v3393
-[meter](chandaḥ) [anustubh](anuṣṭub) [deity](devatā) [and](ca) [sharika](śārikā) [declared](parikīrtitā)
+meter(chandaḥ) anuṣṭubh(anuṣṭup) deity(devatā) and(ca) Śārikā(śārikā) declared(parikīrtitā)
 
 ## mukta-m0-p136-v3394
-[for-dharma-artha-kama-moksha](dharmārthakāmamokṣārthe) [viniyoga](viniyogaḥ) [declared](prakīrtitaḥ)
+for-dharma-artha-kāma-mokṣa(dharma+artha+kāma+mokṣa+arthe) application(viniyogaḥ) declared(prakīrtitaḥ)
 
 ## mukta-m0-p136-v3395
-[boon-wheel-fear-abhaya-holding](varacakrābhayāsīṃśca) [holding](dhārayantīṃ) [smiling-faced](hasanmukhīm)
+boon-disc-fearlessness-sword(vara+cakra+abhaya+asīn) and(ca) holding(dhārayantīm) smiling-faced(hasat+mukhīm)
 
 ## mukta-m0-p136-v3396
-[vamadeva-lap-situated](vāmadevāṅkanilayāṃ) [heart-lotus](hṛtpadme) [sharika](śārikāṃ) [I-worship](bhaje)
+on-Vāmadeva's-lap+dwelling(vāmadeva+aṅka+nilayām) in-heart-lotus(hṛt+padme) Śārikā(śārikām) I-worship(bhaje)
 
 ## mukta-m0-p136-v3397
-[lion-mounted](siṃhādhirūḍhāṃ) [shiva-vamadeha-inherent](śivavāmadehalīnāṃ) [I-worship](bhaje) [in-mind](cetasi) [shari-kesi](śārikeśīm)
+lion-mounted(siṃha+adhirūḍhām) on-Śiva-Vāmadeva's-body+reclining(śiva+vāmadeha+līnām) I-worship(bhaje) in-mind(cetasi) Śārikā-goddess(śārikā+īśīm)
 
 ## mukta-m0-p136-v3398
-[stone](śilā) [shari](śārī) [parrot](śukī) [peaceful](śāntā) [peaceful-mind-object](śāntamānasagocarā)
+stone(śilā) arrow(śārī) parrot(śukī) peaceful(śāntā) peaceful-mind+perceptible(śānta+mānasa+gocarā)
 
 ## mukta-m0-p136-v3399
-[goddess](devī) [moon-disc-like](śaśāṅkabimbābhā) [moon-made-crest](śaśāṅkakṛtaśekharā)
+goddess(devī) moon-disk+splendor(śaśāṅka+bimba+ābhā) moon+made-crest(śaśāṅka+kṛta+śekharā)
 
 ## mukta-m0-p136-v3400
-[tiger-vehicle](śārdūlavāhā) [goddess](deveśī) [tiger-position-supreme](śārdūlasthitiruttamā)
+tiger-vehicle(śārdūla+vāhā) goddess-lord(deva+īśī) tiger-stance+supreme(śārdūla+sthitiḥ+uttamā)
