@@ -7,12 +7,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "sarvajñatva",
-"quick_gloss": "omniscience"
-},
-{
-"surface": "siddhiḥ",
-"quick_gloss": "establishment"
+"surface": "sarvajñatva+siddhiḥ",
+"quick_gloss": "omniscience+establishment"
 },
 {
 "surface": "iti",
@@ -24,7 +20,7 @@
 },
 {
 "surface": "prāk",
-"quick_gloss": "before"
+"quick_gloss": "previously"
 }
 ]
 },
@@ -107,10 +103,10 @@
 },
 {
 "surface": "sarva+artha+kāritvāt",
-"quick_gloss": "due-to-accomplishing-all-purposes"
+"quick_gloss": "due-to-being-cause-of-all-objects"
 },
 {
-"surface": "dvirūpā",
+"surface": "dvi+rūpā",
 "quick_gloss": "twofold"
 },
 {
@@ -139,7 +135,7 @@
 "quick_gloss": "endowed"
 },
 {
-"surface": "maheśānaḥ",
+"surface": "mahā+īśānaḥ",
 "quick_gloss": "the-great-lord"
 },
 {
@@ -201,7 +197,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "paśuvat",
+"surface": "paśu+vat",
 "quick_gloss": "like-the-bound-soul"
 },
 {
@@ -226,7 +222,7 @@
 },
 {
 "surface": "prāk",
-"quick_gloss": "before"
+"quick_gloss": "previously"
 }
 ]
 },
@@ -308,7 +304,7 @@
 "quick_gloss": "expects"
 },
 {
-"surface": "susaṃsthite",
+"surface": "su+saṃsthite",
 "quick_gloss": "in-the-well-established"
 }
 ]
@@ -359,7 +355,7 @@
 },
 {
 "surface": "paśuḥ",
-"quick_gloss": "bound-soul"
+"quick_gloss": "a-bound-soul"
 }
 ]
 },
@@ -372,10 +368,10 @@
 "tokens": [
 {
 "surface": "kalā+ādi+yogāt",
-"quick_gloss": "due-to-connection-with-kalā"
+"quick_gloss": "from-connection-with-kalā-etc."
 },
 {
-"surface": "devadatta+ādivat",
+"surface": "devadatta+ādi+vat",
 "quick_gloss": "like-Devadatta-etc."
 },
 {
@@ -384,7 +380,7 @@
 },
 {
 "surface": "paśuḥ",
-"quick_gloss": "bound-soul"
+"quick_gloss": "a-bound-soul"
 },
 {
 "surface": "prasajyate",
@@ -417,7 +413,7 @@
 },
 {
 "surface": "kārya+kṛt",
-"quick_gloss": "performer-of-action"
+"quick_gloss": "performing-action"
 },
 {
 "surface": "yadi",
@@ -487,8 +483,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "sadaiva",
+"surface": "sadā",
 "quick_gloss": "always"
+},
+{
+"surface": "eva",
+"quick_gloss": "alone"
 },
 {
 "surface": "ārādhyaḥ",
@@ -533,7 +533,7 @@
 },
 {
 "surface": "sarva+jñāna+kriyā+udbhavaḥ",
-"quick_gloss": "arising-of-omniscience-and-omnipotence"
+"quick_gloss": "arising-from-omniscience-and-omnipotence"
 }
 ]
 },
@@ -545,12 +545,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "paścāt",
-"quick_gloss": "afterwards"
+"surface": "paśu",
+"quick_gloss": "the-bound-soul"
 },
 {
 "surface": "ātmā",
-"quick_gloss": "the-self"
+"quick_gloss": "self"
 },
 {
 "surface": "mocyamānatvāt",
@@ -558,7 +558,7 @@
 },
 {
 "surface": "karma+kārakam",
-"quick_gloss": "object-of-action"
+"quick_gloss": "as-object-of-action"
 },
 {
 "surface": "iṣyate",
@@ -575,15 +575,11 @@
 "tokens": [
 {
 "surface": "astu",
-"quick_gloss": "let-there-be"
+"quick_gloss": "let-it-be"
 },
 {
-"surface": "ātmani",
-"quick_gloss": "for-the-self"
-},
-{
-"surface": "inaḥ",
-"quick_gloss": "indeed"
+"surface": "ātmanīnaḥ",
+"quick_gloss": "of-the-self"
 },
 {
 "surface": "mokṣaḥ",
@@ -591,10 +587,10 @@
 },
 {
 "surface": "hi",
-"quick_gloss": "for"
+"quick_gloss": "indeed"
 },
 {
-"surface": "bhogavat",
+"surface": "bhoga+vat",
 "quick_gloss": "like-enjoyment"
 },
 {
@@ -616,7 +612,7 @@
 "tokens": [
 {
 "surface": "sarvajñatā+ādi+rūpa+avāptitaḥ",
-"quick_gloss": "due-to-attainment-of-omniscience-etc."
+"quick_gloss": "due-to-attainment-of-omniscience-etc.-nature"
 },
 {
 "surface": "sva+ātma+kartṛkaḥ",
@@ -648,8 +644,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "aviveka+avasāya+uttham+ajñānam",
-"quick_gloss": "ignorance-arisen-from-non-discriminative-determination"
+"surface": "aviveka+avasāya+uttham",
+"quick_gloss": "arising-from-non-discriminative-determination"
+},
+{
+"surface": "ajñānam",
+"quick_gloss": "ignorance"
 },
 {
 "surface": "vinivartate",
@@ -703,15 +703,15 @@
 },
 {
 "surface": "ātma+dharmaḥ",
-"quick_gloss": "property-of-the-self"
+"quick_gloss": "a-property-of-the-self"
 },
 {
 "surface": "bhāvaḥ",
-"quick_gloss": "a-state"
+"quick_gloss": "a-positive-entity"
 },
 {
 "surface": "syāt",
-"quick_gloss": "if"
+"quick_gloss": "if-it-were"
 },
 {
 "surface": "tucchatve",
@@ -747,8 +747,12 @@
 "quick_gloss": "that"
 },
 {
-"surface": "anādi+nirodhakam",
-"quick_gloss": "beginningless-obstruction"
+"surface": "an+ādi",
+"quick_gloss": "beginningless"
+},
+{
+"surface": "nirodhakam",
+"quick_gloss": "obstructing"
 }
 ]
 }
