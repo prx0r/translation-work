@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p38-v926
-[by-the-next-two](anantarābhyāṃ) [by-burying](khananāt) [of-quarrel-and-agitation](kalaha+udvegayoḥ) [of-the-two](dvayoḥ)
+[immediately-after](anantarābhyāṃ) [from-digging](khananāt) [of-two-quarrels-and-agitations](kalahodvegayordvayoḥ)
 
 ## mukta-m0-p38-v927
-[of-countries](deśānām) [also](api) [and](ca) [from-mutual-quarrel](anyonya+kalahāt) [affliction](pīḍanaṃ) [may-be](bhavet)
+[of-countries-also](deśānāmapi) [and](ca) [from-mutual-quarrel](anyonyakalahāt) [pain](pīḍanaṃ) [occurs](bhavet)
 
 ## mukta-m0-p38-v928
-[at-the-border-land](rāṣṭra+sandhi+tale) [of-that](tasya) [by-burying](khananena) [in-a-short-time](alpa+kālataḥ)
+[on-junction-ground-of-kingdom](rāṣṭrasandhitale) [of-it](tasya) [by-digging](khananena) [in-short-time](alpakālataḥ)
 
 ## mukta-m0-p38-v929
-[by-the-twenty-second](dvāviṃśena) [of-cows](gavāṃ) [disease](rogaḥ) [by-the-twenty-third](trayoviṃśena) [of-elephants](dantinām)
+[by-twenty-two](dvāviṃśena) [of-cows](gavāṃ) [disease](rogaḥ) [by-twenty-three](trayoviṃśena) [of-elephants](dantinām)
 
 ## mukta-m0-p38-v930
-[by-the-twenty-sixth](ṣaḍviṃśena) [of-chiefs](pradhānānāṃ) [attainment-of-disease](roga+avāptiḥ) [firmly](dṛḍhaṃ) [may-be](bhavet)
+[by-twenty-six](ṣaḍviṃśena) [of-principals](pradhānānāṃ) [firm-disease-attainment](rogāvāptirdṛḍhaṃ) [occurs](bhavet)
 
 ## mukta-m0-p38-v931
-[by-the-twenty-eighth](aṣṭāviṃśena) [by-the-yantra](yantreṇa) [the-magical-rite](kṛtyā) [turns-back](pratinivartate)
+[by-twenty-eight](aṣṭāviṃśena) [by-mechanism](yantreṇa) [witchcraft-does-not-return](kṛtyāpratinivartate)
 
 ## mukta-m0-p38-v932
-[in-tanks-wells-and-ponds-etc.](taḍāga+kūpa+vāpī+ādiṣu) [by-offering-etc.](arpaṇa+ādyā) [goes](āti) [she](sā) [certainly](dhruvam)
+[in-ponds-wells-tanks-etc](taḍāgakūpavāpyādiṣu) [offering-etc-goes](arpaṇādyāti) [that](sā) [certainly](dhruvam)
 
 ## mukta-m0-p38-v933
-[then](tataḥ) [by-the-higher](ūrdhvena) [by-the-yantra](yantreṇa) [paralysis-of-enemy's-speech](vairi+vāk+stambhanam) [may-be](bhavet)
+[then](tata) [upward](ūrdhvena) [by-mechanism](yantreṇa) [enemy-speech-stopping](vairivākstambhanam) [occurs](bhavet)
 
 ## mukta-m0-p38-v934
-[protection](rakṣā) [becomes](bhavati) [in-those-lands](tad+bhūṣu) [by-burying](khananāt) [and-by-wearing](dhāraṇāt) [also](api)
+[protection](rakṣā) [occurs](bhavati) [in-those-lands](tadbhūṣu) [from-digging-and-holding](khananāḍdhāraṇādapi)
 
 ## mukta-m0-p38-v935
-[here-and-there](tatra+tatra) [of-elephants-etc.](gaja+ādīnām) [in-tethering-places](ālāna+sthāneṣu) [from-the-diagram](maṇḍalāt) [as-before](prāgvat) [||79||](||) [||80||](80)
+[there-there](tatratatra) [of-elephants-etc](gajādīnām) [at-tethering-places](ālānasthāneṣu) [from-circle](maṇḍalāt) [as-before](prāgvat) [79](||79||) [80](||80||)
 
 ## mukta-m0-p38-v936
-[destruction-of-affliction](kleśa+nāśanam) [||83||](||) [||84||](83) [||85||](||) [||86||](86)
+[destruction-of-affliction](kleśanāśanam) [83](||83||) [84](||84||) [85](||85||) [86](||86||)
 
 ## mukta-m0-p38-v937
-[to-the-far-shore](pāraṃ) [they-go](prayānti) [and](ca) [without-affliction](a'kleśāt) [various](vicitrāḥ) [powers-of-yantras](yantra+śaktayaḥ)
+[to-far-shore](pāraṃ) [go](prayānti) [and](ca) [without-affliction](akleśāt) [various](vicitrā) [mechanism-powers](yantraśaktayaḥ)
 
 ## mukta-m0-p38-v938
-[on-that-respective-lunar-day](tat+tat+tithau) [its-worship](tad+bhajanaṃ) [by-recitation-oblation-and-worship-etc.](japa+homa+arcana+ādinā)
+[on-that-that-tithi](tattattithau) [its-worship](tadbhajanaṃ) [by-japa-homa-worship-etc](japahomārcanādinā)
 
 ## mukta-m0-p38-v939
 [honey](kṣaudraṃ) [jaggery](guḍaṃ) [coconut](nālikeraṃ) [fruit](phalaṃ) [parched-rice](lājāṃ) [sesame](tilaṃ) [curd](dadhi)
 
 ## mukta-m0-p38-v940
-[beginning-with-the-first-lunar-day](pratipat+tithim+ārabhya) [in-order](kramāt) [in-all-fifteen](pañcadaśasu) [also](api)
+[from-first-tithi](pratipattithimārabhya) [in-order](kramāt) [in-fifteen-also](pañcadaśasvapi)
 
 ## mukta-m0-p38-v941
-[of-the-first](ādyāyāḥ) [of-Lalitā](lalitāyāḥ) [indeed](tu) [all-these](sarvāṇi+etāni) [always](sarvadā)
+[of-first](ādyāyāḥ) [of-lalitā](lalitāyāḥ) [tu](tu) [all-these](sarvāṇyetāni) [always](sarvadā)
 
 ## mukta-m0-p38-v942
-[of-those-possessing-mantra-power](vidyā+śakti+matāṃ) [always](nityam) [for-the-attainment-of-desired-objects](abhīṣṭa+avāptaye) [unceasingly](aniśam)
+[of-vidyā-power-holders](vidyāśaktimatāṃ) [always](nityam) [for-desired-attainment](abhīṣṭāvāptaye) [unceasingly](aniśam)
 
 ## mukta-m0-p38-v943
-[having-ground](saṃpiṣya) [having-made-a-pill](guṭikāṃ) [kṛtvā](kṛtvā) [with-those](tābhiḥ) [everywhere](sarvatra) [one-should-accomplish](sādhayet)
+[having-ground](saṃpiṣya) [pill](guṭikāṃ) [having-made](kṛtvā) [with-them](tābhiḥ) [everywhere](sarvatra) [accomplish](sādhayet)
 
 ## mukta-m0-p38-v944
-[fruit-giving](phala+pradāni) [thus-the-meaning](iti+arthaḥ) [||88||](||) [||89||](88) [||90||](||)
+[fruit-giving-thus-meaning](phalapradānītyarthaḥ) [88](||88||) [89](||89||) [90](||90||)
 
 ## mukta-m0-p38-v945
-[oblations](tarpaṇāḥ) [and-ablutions](abhiṣekāḥ) [are-stated](ucyante)
+[libations-and-ablutions](tarpaṇābhiṣekāḥ) [are-called](ucyante)
 
 ## mukta-m0-p38-v946
-[because-of-consisting-of-the-fifteen-nityās](pañcadaśa+nityā+mayatvāt) [||93||](||) [||94||](93) [||95||](||)
+[because-of-fifteen-eternal-not-being](pañcadaśanityāmayatvāt) [93](||93||) [94](||94||) [95](||95||)
 
 ## mukta-m0-p38-v947
-[mixed-with-sandal-paste](paṭīra+saṃyutaṃ) [on-the-forehead](bhāle) [wearing](dhāraṇaṃ) [accomplishing-all-success](sarva+siddhi+kṛt)
+[with-paṭīra](paṭīrasaṃyutaṃ) [on-forehead](bhāle) [wearing](dhāraṇaṃ) [all-accomplishment-making](sarvasiddhikṛt)
 
 ## mukta-m0-p38-v948
-[in-bathing](snāne) [in-drinking](pāne) [and-in-wearing](dhāraṇe) [and](ca) [by-application-of-the-pill](gulikā+yojanena) [indeed](vai)
+[in-bathing](snāne) [in-drinking](pāne) [in-wearing](dhāraṇe) [and](ca) [by-pill-application](gulikāyojanena) [indeed](vai)
 
 ## mukta-m0-p38-v949
-[not](na) [they-trouble](bādhante) [therefore](tataḥ) [always](nityam) [one-should-worship](arcayet) [in-one's-own-house](sva+gṛhe) [somewhere](kvacit)
+[not-harm](na bādhante) [then](tato) [always](nityam) [worship](arcayet) [in-own-house](svagṛhe) [somewhere](kvacit)
 
 ## mukta-m0-p38-v950
-[by-its-contemplation](asyāḥ) [niṣphālanāt](niṣphālanāt) [in-the-mind](citte) [that-respective-principle](tat+tat+tvaṃ) [made-one's-own-self](sva+ātma+sātkṛtam)
+[of-this](asyāḥ) [by-non-fructification](niṣphālanāt) [in-mind](citte) [that-principle](tattattvaṃ) [made-one's-own-self](svātmasātkṛtam)

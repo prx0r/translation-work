@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p90-v2226
-[hawk-faced](śyenāsyaḥ) [heron+faced](kaṅka+vadanaḥ) [crow+faced](kāka+āsyaḥ) [horse+faced](haya+vaktrakaḥ)
+[hawk-mouthed](śyenāsyaḥ) [heron-faced](kaṅkavadanaḥ) [crow-mouthed](kākāsyo) [horse-faced](hayavaktrakaḥ)
 
 ## mukta-m0-p90-v2227
-[tradition+meaning](sampradāya+arthaḥ)
+[tradition-meaning](sampradāyārthaḥ)
 
 ## mukta-m0-p90-v2228
-[of-you](tava) [thus+meaning](iti+arthaḥ) [and](ca) [those](te) [attendants](ceṭakāḥ)
+[that-meaning](tavetyarthaḥ) [those-servants](te+ceṭakāḥ)
 
 ## mukta-m0-p90-v2229
-[with-vibhrama](vibhrama) [etc.](iti+ādinā) [by-verse](ślokena) [eleven](ekādaśa) [names](nāmāni) [teaches](upadiśati)
+[by-verse](vibhrametyādinā+ślokena) [eleven](ekādaśa) [names](nāmānyupadiśati)
 
 ## mukta-m0-p90-v2230
-[with-mātaṅga](mātaṅga) [etc.](iti+ādinā) [by-verse](ślokena) [eight](aṣṭa) [names](nāmāni) [teaches](upadiśati)
+[by-verse](mātaṅga+ityādinā+ślokena) [eight](aṣṭa) [names](nāmānyupadiśati)
 
 ## mukta-m0-p90-v2231
-[fickle](capalaḥ) [rooster+faced](kukkuṭa+āsyaḥ) [and](ca) [illusory](māyāvī) [love+sluggish](madana+ālasaḥ)
+[restless](capalaḥ) [cock-faced](kukkuṭāsyaśca) [magician](māyāvī) [love-languid](madanālasaḥ)
 
 ## mukta-m0-p90-v2232
-[beautiful+faced](su+mukhaḥ) [tormented](pīḍitaḥ) [angry](kruddhaḥ) [boar+faced](varāha+āsyaḥ) [mane+faced](saṭā+mukhaḥ)
+[good-faced](sumukhaḥ) [afflicted](pīḍitaḥ) [angry](kruddho) [boar-faced](varāhāsyaḥ) [maned-faced](saṭāmukhaḥ)
 
 ## mukta-m0-p90-v2233
-[devourer](bhakṣakaḥ) [fear+giver](bhaya+daḥ) [accomplished](siddhaḥ) [all+going](sarva+gaḥ) [and](ca) [thus](iti) [are-celebrated](kīrtitāḥ)
+[devourer](bhakṣako) [both-giving](bhayadaḥ) [accomplished](siddhaḥ) [all-pervading](sarvagaśceti) [declared](kīrtitāḥ)
 
 ## mukta-m0-p90-v2234
-[with-those-names](nāmabhiḥ) [with-those](taiḥ) [accusative+ending](dvitīyā+antaiḥ) [with-dehi](dehi) [thus](iti) [word+joined](pada+saṃyutaiḥ)
+[by-names](nāmabhistairdvitīyāntairdehītipadasaṃyutaiḥ)
 
 ## mukta-m0-p90-v2235
-[of-them](teṣāṃ) [number](saṅkhyām) [also](api) [thus](tathā) [hear](śṛṇu) [I-shall-tell](vakṣye) [according-to-rule](yathā+vidhi)
+[their](teṣāṃ) [number](saṅkhyāmapi) [thus](tathā) [hear](śṛṇu) [I-will-speak](vakṣye) [duly](yathāvidhi)
 
 ## mukta-m0-p90-v2236
-[thus](tathā) [fifteen+syllabled](pañcadaśa+arṇāḥ) [should-be](syuḥ) [twenty-six](ṣaḍviṃśatiḥ) [thus](iti) [declared](īritāḥ)
+[thus](tathā) [fifteen-syllabled](pañcadaśārṇāḥ) [would-be](syuḥ) [twenty-six](ṣaḍviṃśatiritīritāḥ)
 
 ## mukta-m0-p90-v2237
-[with-mahodara](mahodara) [etc.](iti+ādinā) [by-verse](ślokena) [eight](aṣṭa) [names](nāmāni) [teaches](upadiśati)
+[by-verse](mahodaretyādinā+ślokena) [eight](aṣṭa) [names](nāmānyupadiśati)
 
 ## mukta-m0-p90-v2238
-[with-manohara](manohara) [etc.](iti+ādinā) [by-verse](ślokena) [nine](nava) [names](nāmāni) [teaches](upadiśati)
+[by-verse](manoharetyādinā+ślokena) [nine](nava) [names](nāmānyupadiśati)
 
 ## mukta-m0-p90-v2239
-[word+division](pada+cchedaḥ) [other](anyat) [easy-to-understand](su+gamam)
+[pada-splitting](padacchedaḥ) [other-easy](anyatsugamam)
 
 ## mukta-m0-p90-v2240
-[thus](tathā) [seventeen+syllabled](saptadaśa+arṇāḥ) [and](ca) [four](catvāraḥ) [without-confusion+order](avyākula+kramāt)
+[thus](tathā) [seventeen-syllabled](saptadaśārṇāśca) [four](catvārovyākulakramāt)
 
 ## mukta-m0-p90-v2241
-[with-vowels](sa+svaraiḥ) [with-those](taiḥ) [should-be](bhavet) [number](saṅkhyā) [twenty-four](caturviṃśat) [hundred+two](śata+dvayam)
+[with-accents](sasvaraistairbhavetsaṅkhyā) [two-hundred-twenty-four](caturviṃśacchatadvayam)
 
 ## mukta-m0-p90-v2242
-[deities](devatāḥ) [in-seven+days](sapta+vāreṣu) [beginning-with-sun](bhāskara+ādiṣu) [with-devotion](bhaktitaḥ)
+[deities](devatāḥ) [seven-times](saptavāreṣu) [sun-etc](bhāskarādiṣu) [devotionally](bhaktitaḥ)
 
 ## mukta-m0-p90-v2243
-[own-form+difference+distinguished](svarūpa+bheda+sambhinnāḥ) [properly](samīcīnaṃ) [shown](darśitāḥ)
+[own-form-difference](svarūpabhedasambhinnāḥ) [properly](samīcīnaṃ) [shown](darśitāḥ)
 
 ## mukta-m0-p90-v2244
-[of-diagram](yantrasya) [in-middle](madhye) [māyā+seated](māyā+sthaṃ) [there](tatra) [siddhis](siddhīḥ) [and](ca) [one-should-worship](pūjayet)
+[in-yantra-middle](yantrasya+madhye) [māyā-situated](māyāsthaṃ) [there](tatra) [accomplishments](siddhīśca) [worship](pūjayet)
 
 ## mukta-m0-p90-v2245
-[outside](bahiḥ) [digit+lotus+earth+lotus+pair](kalā+abja+bhū+padma+yugaṃ) [one-should-make](kuryāt) [according-to-rule](yathā+vidhi)
+[outside](bahiḥ) [petal-lotus-foot-lotus-pair](kalābjabhūpadmayugaṃ) [do-duly](kuryādyathāvidhi)
 
 ## mukta-m0-p90-v2246
-[in-petals](daleṣu) [in-corners](koṇeṣu) [thus](tathā) [circle+middle+triad](vṛtta+madhya+traye) [again](punaḥ)
+[in-petals](daleṣu) [in-corners](koṇeṣu) [thus](tathā) [in-middle-circle-triad](vṛttamadhyatraye) [again](punaḥ)
 
 ## mukta-m0-p90-v2247
-[of-that](tasya) [in-corner+intervals](koṇa+antarāleṣu) [ha-la-kṣa+syllables](halakṣa+arṇān) [in-order](kramāt) [one-should-write](likhet)
+[of-that](tasya) [in-corner-intervals](koṇāntarāleṣu) [ha-letter-syllables](halakṣārṇān) [in-order](kramāllikhet)
 
 ## mukta-m0-p90-v2248
-[of-siddhis](siddhīnāṃ) [of-yakṣiṇīs](yakṣiṇīnāṃ) [and](ca) [of-attendants](ceṭakānāṃ) [thus](tathā) [one-by-one](ekaśaḥ)
+[of-accomplishments](siddhīnāṃ) [of-yakshinis](yakṣiṇīnāṃ) [and](ca) [of-servants](ceṭakānāṃ) [thus](tathā) [one-each](ekaśaḥ)
 
 ## mukta-m0-p90-v2249
-[of-them](teṣām) [by-stated+order](ukta+krameṇa) [indeed](eva) [sādhanas](sādhanāni) [fruits](phalāni) [indeed](vai)
+[of-them](teṣāmuktakrameṇaiva) [rites](sādhanāni) [fruits](phalāni) [indeed](vai)
 
 ## mukta-m0-p90-v2250
-[in-corner+intervals](koṇa+antarāleṣu) [in-four](caturṣu) [stated](uktam) [syllable+triad](akṣara+trayaṃ) [one-should-write](vilikhet) [thus+meaning](iti+arthaḥ)
+[in-corner-intervals](koṇāntarāleṣu) [in-four](caturṣu) [said](uktamakṣaratrayaṃ) [write](vilikhedityarthaḥ)

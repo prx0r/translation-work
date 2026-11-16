@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p192-v4776
-[so-long](tāvat) [here](atra) [by-you](tvayā) [goddess](devī) [should-stay](sthātavyam) [here](iha) [in-temple](mandire)
+[so-long](tāvad) [here](atra) [by-you](tvayā) [goddess](devī) [to-be-stood](sthātavyam) [here](iha) [in-temple](mandire)
 
 ## mukta-m0-p192-v4777
-[highest-etc.](uttama+ādi) [distinguished](vibhinnāṃ) [but](tu) [liṅga-installation](liṅga+sthāpana) [enjoined](coditām)
+[excellent-etc](uttamādi) [different](vibhinnām) [but](tu) [linga-installation](liṅgasthāpana) [commanded](coditām)
 
 ## mukta-m0-p192-v4778
-[of-goddess](devyāḥ) [herself](svayaṃ) [principal](pradhānāyāḥ) [and-of-inherent](saha+jāyāḥ) [and](ca) [one-should-avoid](varjayet)
+[of-goddess](devyāḥ) [oneself](svayam) [principal](pradhānāyāḥ) [natural-born](sahajāyāḥ) [and](ca) [should-avoid](varjayet)
 
 ## mukta-m0-p192-v4779
-[thus](itthaṃ) [who](yaḥ) [does](kurute) [mortal](martyaḥ) [he](sa) [meritorious](puṇyāṃ) [state](gatim) [obtains](āpnuyāt)
+[thus](itthaṃ) [who](yaḥ) [does](kurute) [mortal](martyaḥ) [he](sa) [meritorious](puṇyām) [state](gatim) [obtains](āpnuyāt)
 
 ## mukta-m0-p192-v4780
-[having-enjoyed](bhuktvā) [here](iha) [enjoyments](bhogān) [his-own-desired](svasya+iṣṭān) [he](saḥ) [in-end](ante) [may-go](yāyāt) [to-Śiva's-abode](śivaṃ+padam)
+[having-enjoyed-here](bhaktveha) [enjoyments](bhogān) [own-desired](svasyeṣṭān) [he](so) [at-end](ante) [goes](yāyāc) [shiva-state](śivaṃpadam)
 
 ## mukta-m0-p192-v4781
-[listen](śṛṇu) [you-all](dhvam) [now](atha) [O-best-of-brahmins](vipra+indrāḥ) [of-goddess](devyāḥ) [daily-worship-etc.](nitya+arcana+ādikam)
+[hear](śṛṇu) [all](dhvam) [then](atha) [best-of-brahmins](viprendrāḥ) [of-goddess](devyāḥ) [daily-worship-etc](nityārcanādikam)
 
 ## mukta-m0-p192-v4782
-[by-previously-stated](prāk+ukta) [method](vidhinā) [having-done](kṛtvā) [should-enter](praviśet) [towards-temple](ālayaṃ) [towards](prati)
+[previously-stated](prāgukta) [rite](vidhinā) [having-done](kṛtvā) [enter](praviśet) [toward-shrine](ālayaṃ) [prati](prati)
 
 ## mukta-m0-p192-v4783
-[with-body-made-whole](sakalī+kṛta+dehaḥ) [then](tu) [general-arghya](sāmānya+arghyaṃ) [having-prepared](prakalpya) [and](ca)
+[made-complete-body](sakalīkṛtadehaḥ) [tu](tu) [common-arghya](samānyarghyaṃ) [having-prepared](prakalpya) [ca](ca)
 
 ## mukta-m0-p192-v4784
-[of-door](dvārasya) [on-both-sides](pārśvayoḥ) [and](ca) [indeed](eva) [Śaṅkha-and-Padma-treasures](śaṃkha+padma+nidhī) [likewise](tathā)
+[of-door](dvārasya) [sides](pārśvayoḥ) [ca](ca) [eva](eva) [conch](śaṃkha) [lotus-treasure](padmanidhī) [thus](tathā)
 
 ## mukta-m0-p192-v4785
-[endowed-with-crests-and-crowns](cūḍā+makuṭa+saṃyuktau) [jewel-dark](ratna+śyāmau) [terrifying](vibhīṣaṇau)
+[crown-diadem-joined](cūḍāmakuṭasaṃyuktau) [gem-dark](ratnaśyāmau) [terrifying-ones](vibhīṣaṇau)
 
 ## mukta-m0-p192-v4786
-[standing-in-middle-of-upper-lintel](ūrdhva+udumbara+madhya+stha) [Vāṇī](vāṇīm) [having-worshipped](abhyarcya) [on-door-leaves](śākhayoḥ)
+[above-udumbara-middle](ūrdhvodumbaramadhyastha) [speech](vāṇī) [having-worshipped](mabhyarcya) [branches](śākhayoḥ)
 
 ## mukta-m0-p192-v4787
-[otherwise](anyathā) [or](vā) [wide-eyed](viśāla+akṣīṃ) [matted-haired](jaṭilām) [going-upward](ūrdhva+gāṃ) [one-should-worship](yajet)
+[otherwise](anyathā) [vā](vā) [wide-eyed](viśālākṣīṃ) [matted-haired](jaṭilā) [upward-going](mūrdhvagāṃ) [should-worship](yajet)
 
 ## mukta-m0-p192-v4788
-[Sarasvatī](sarasvatīṃ) [and](ca) [Gaṅgā](gaṅgāṃ) [and](ca) [white-color-resembling](śukla+varṇa+nibhe) [considered](mate)
+[sarasvati](sarasvatīṃ) [ca](ca) [ganga](gaṅgāṃ) [ca](ca) [white](śukla) [color](varṇa) [similar](nibhe) [in-opinion](mate)
 
 ## mukta-m0-p192-v4789
-[sword-and-shield-holding](khaḍga+kheṭaka+dhāriṇyaḥ) [two-armed](dvibhujāḥ) [or](vā) [four-armed](caturbhujāḥ)
+[sword-shield-bearing](khaḍgakheṭaka) [dhāriṇyo](dhāriṇyo) [two-armed](dvibhujā) [vā](vā) [four-armed](caturbhujāḥ)
 
 ## mukta-m0-p192-v4790
-[on-two-door-panels](kavāṭayoḥ) [having-worshipped](samabhyarcya) [should-enter](praviśet) [on-right-and-left](dakṣa+vāmayoḥ)
+[of-doors](kavāṭayoḥ) [having-worshipped](samabhyarcya) [enter](praviśet) [right-left](dakṣavāmayoḥ)
 
 ## mukta-m0-p192-v4791
-[one's-self](svaṃ) [united-with-śakti](śakti+sthaṃ) [having-joined](samāyojya) [elemental-purification](bhūta+śuddhiṃ) [and](ca) [as-before](pūrva+vat)
+[power-placed](śaktisthaṃ) [own](svaṃ) [having-joined](samāyojya) [element-purification](bhūtaśuddhiṃ) [ca](ca) [as-before](pūrvavat)
 
 ## mukta-m0-p192-v4792
-[hand-nyāsa](kara+nyāsaṃ) [and](ca) [with-those-mantras](taiḥ+mantraiḥ) [body-nyāsa](deha+nyāsaṃ) [and](ca) [one-should-perform](kārayet)
+[hand-nyasa](karanyāsaṃ) [ca](ca) [with-those-mantras](tairmantrair) [body-nyasa](dehanyāsaṃ) [ca](ca) [should-do](kārayet)
 
 ## mukta-m0-p192-v4793
-[of-goddess-with-five-heads-and-faces](pañca+mūrdha+āsya+yuk+devyāḥ) [in-worship](pūjāyāṃ) [one-should-arrange](saṃprakalpayet)
+[five-headed-pair-goddess](pañcamūrdhāsyayugdevyāḥ) [in-worship](pūjāyāṃ) [should-arrange](saṃprakalpayet)
 
 ## mukta-m0-p192-v4794
-[beginning-with-śaśinī](śaśinī+ādayaḥ) [indeed](eva) [stated](uktāḥ) [but-only](kevalāḥ) [tu](tu) [kalās](kalāḥ) [thus](iti)
+[moon-rays-etc](śaśinyādaya) [eva](eva) [spoken](uktāḥ) [only](kevalāḥ) [tu](tu) [digits](kalā) [iti](iti)
 
 ## mukta-m0-p192-v4795
-[goddess](devī) [Skanda](skanda) [Gaṇeśa-etc.](gaṇeśa+ādīn) [all](sarvān) [one-should-worship](saṃpūjayet) [then](tu) [or](vā)
+[goddess](devī) [skanda](skanda) [ganesha-etc](gaṇeśādīn) [all](sarvān) [should-worship](saṃpūjayet) [tu](tu) [vā](vā)
 
 ## mukta-m0-p192-v4796
-[in-heart](hṛdaye) [worship-procedure](arcā+vidhānaṃ) [but](tu) [not](na) [in-navel](nābhau) [oblation](homaṃ) [one-should-perform](prakalpayet)
+[in-heart](hṛdaye) [worship-rite](arcāvidhānaṃ) [tu](tu) [nā](nā) [bha](bhau) [homa](homaṃ) [should-arrange](prakalpayet)
 
 ## mukta-m0-p192-v4797
-[place-purification](sthāna+śuddhiṃ) [then](tataḥ) [having-done](kṛtvā) [special-arghya](viśeṣa+arghyaṃ) [and](ca) [one-should-perform](kārayet)
+[place-purification](sthānaśuddhiṃ) [then](tataḥ) [having-done](kṛtvā) [special-arghya](viśeṣārghyaṃ) [ca](ca) [should-do](kārayet)
 
 ## mukta-m0-p192-v4798
-[having-purified-oneself](saṃśodhya+ātmānam) [having-worshipped](abhyarcya) [mantra-purification](mantra+śuddhiṃ) [one-should-perform](samācaret)
+[having-purified-self](saṃśodhyātmānam) [having-worshipped](abhyarcya) [mantra-purification](mantraśuddhiṃ) [should-perform](samācaret)
 
 ## mukta-m0-p192-v4799
-[gaṇāmvikāyai vidmahe mahātapāyai dhīmahi](gaṇāmvikāyai vidmahe mahātapāyai dhīmahi)
+[gaṇāmvikāyai](gaṇāmvikāyai) [vidmahe](vidmahe) [mahātapāyai](mahātapāyai) [dhīmahi](dhīmahi)
 
 ## mukta-m0-p192-v4800
-[thus](iti) [mantra](mantraṃ) [having-uttered](samuccārya) [having-worshipped](samabhyarcya) [one-should-offer](nivedayet)
+[iti](iti) [mantraṃ](mantraṃ) [samuccārya](samuccārya) [having-worshipped](samabhyarcya) [should-offer](nivedayet)

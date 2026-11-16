@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p08-v176
-[not](na) [if](cet) [that+power+transmission](tat+śakti+saṅkrāntiḥ) [how](katham) [of-him](asya) [will-be](bhaviṣyati)
+[not](na) [if](cet) [that+power+transmission](tacchaktisaṅkrāntiḥ) [how](katham) [his](asya) [will-be](bhaviṣyati)
 
 ## mukta-m0-p08-v177
-[gold](suvarṇaṃ) [ornament](bhūṣaṇaṃ) [garment](vāso) [dwelling](bhavanaṃ) [or](vā) [other+desired](anyat+īpsitam)
+[gold](suvarṇaṃ) [ornament](bhūṣaṇaṃ) [garment](vāso) [dwelling](bhavanaṃ) [or](vā) [other](anyad) [desired](īpsitam)
 
 ## mukta-m0-p08-v178
-[own+activity](sva+vyāpāram) [that+approved](tat+anumatam) [only](eva) [should-do](kuryāt) [thus+meaning](iti+arthaḥ)
+[by+own+activity](svavyāpāra) [end](anta) [that+consent](tadanumata) [only](eva) [would-do](kuryād) [thus+meaning](ityarthaḥ)
 
 ## mukta-m0-p08-v179
-[always](sarvadā) [he](asau) [then+dependent](tadā+āyattaḥ) [by-that](tena) [success](siddhiḥ) [will-be](bhaviṣyati)
+[always](sarvadā) [he](asau) [that+dependent](tadāyatta) [by+that](tena) [success](siddhiḥ) [will-be](bhaviṣyati)
 
 ## mukta-m0-p08-v180
-[by-five+six+syllable+vidyās](pañca+ṣaṭ+kūṭa+vidyābhyāṃ) [purified](śodhitaṃ) [for-many+days](bahu+vāsaraiḥ)
+[five-six-kūṭa-vidyā](pañcaṣaṭkūṭavidyābhyāṃ) [purified](śodhitaṃ) [many+days](bahuvāsaraiḥ)
 
 ## mukta-m0-p08-v181
-[in-base](ādhāre) [in-heart](hṛdaye) [on-head](mūrdhni) [wheel](cakraṃ) [having-contemplated](sañcintya) [in-middle](madhyataḥ)
+[in+support](ādhāre) [heart](hṛdaye) [crown](mūrdhni) [wheel](cakraṃ) [contemplating](sañcintya) [middle](madhyataḥ)
 
 ## mukta-m0-p08-v182
-[thirtieth](triṃśo) [vidyā](vidyāṃ) [should-speak](vadet) [in-ear](karṇe) [goddess+self](devī+ātmā) [full+minded](pūrṇa+mānasaḥ)
+[thirtieth](triṃśo) [vidyā](vidyāṃ) [would-speak](vadet) [ear](karṇe) [goddess-self](devyātmā) [full-minded](pūrṇamānasaḥ)
 
 ## mukta-m0-p08-v183
-[hundred](śataṃ) [should-recite](japet) [that+in-front+standing](tat+agra+sthaḥ) [near](nikaṭe) [three+days](tri+dinaṃ) [should-dwell](vaset)
+[hundred](śataṃ) [would-chant](japet) [that+front](tadagra) [stood](stho) [near](nikaṭe) [three+days](tridinaṃ) [would-dwell](vaset)
 
 ## mukta-m0-p08-v184
-[from-that](tasmāt) [in-his-presence](tat+antike) [of-him](tasya) [worship+instruction+etc.+doer](pūjā+deśa+ādi+kṛt) [should-be](bhavet)
+[therefore](tasmāt) [that+near](tadantike) [taqya](taqya) [worship+etc+doer](pūjādeśādikṛdbhavet)
 
 ## mukta-m0-p08-v185
-[then](tataḥ) [then](tadā) [having-begun](samārabhya) [on-him+dependent+wealth+etc.](tat+āyatta+dhana+ādibhiḥ)
+[then](tataḥ) [that+then](tadā) [beginning](samārabhya) [that+dependent+wealth+etc](tadāyattodhanādibhiḥ)
 
 ## mukta-m0-p08-v186
-[favor+etc.](anugraha+ādi) [should-perform](kurvīta) [for-success](siddhaye) [not](na) [otherwise](anyathā) [would-be](bhavet)
+[favor+etc](anugrahādi) [would-do](kurvīta) [for+success](siddhaye) [not+otherwise](nānyathā) [will-be](bhavet)
 
 ## mukta-m0-p08-v187
-[with-decoction+waters](kvātha+udakaiḥ) [having-filled](samāpuryā) [having-sprinkled](abhiṣicya) [with-these](ābhiḥ) [should-utter](vadet) [mantra](manum)
+[decoction-waters](kvāthodakaiḥ) [filling](samāpurya) [sprinkling](abhiṣicya) [would-speak](vaden) [mantra](manum)
 
 ## mukta-m0-p08-v188
-[second](dvitīyam) [sprinkling](abhiṣekam) [indeed](tu) [should-perform](kuryāt) [for-goddess+self+attainment](devī+ātma+siddhaye)
+[second](dvitīyam) [sprinkling](abhiṣekantu) [would-do](kuryād) [goddess-self+success](devyātmasiddhaye)
 
 ## mukta-m0-p08-v189
-[triangles](trikoṇāni) [having-made](vidhāya) [here](atra) [in-middle](madhye) [pot](kumbhaṃ) [indeed](tu) [should-place](vinyaset)
+[triangles](trikoṇāni) [having-made](vidhāyātra) [middle](madhye) [pot](kumbhaṃ) [would-place](tu vinyaset)
 
 ## mukta-m0-p08-v190
-[by-wealth+etc.](dhana+ādibhiḥ) [thus](iti) [here](atra) [by-etc.+word](ādi+śabdena) [house+field+etc.](gṛha+kṣetra+ādīni) [are-stated](ucyante)
+[wealth+etc](dhanādibhir) [here+etc](ityatrādi) [word](śabdena) [house+field+etc](gṛhakṣetrādīnyucyante)
 
 ## mukta-m0-p08-v191
-[filled](pūritaṃ) [with-khārī+water](khārī+toyena) [boiled](kvathitena) [with-akṣara+herbs](akṣara+auṣadhaiḥ)
+[filled](pūritaṃ) [khāri-water](khāritoyena) [boiled](kvathitena) [syllable+herbs](akṣarauṣadhaiḥ)
 
 ## mukta-m0-p08-v192
-[gold-pieces](hiraṇyāni) [with-copper](sa+tāmrāṇi) [with-two-cloths](vāsobhyām) [should-wrap](abhiveṣṭayet)
+[golds](hiraṇyāni) [with+copper](satāmrāṇi) [with+garments](vāsobhyām) [would-wrap](abhiveṣṭayet)
 
 ## mukta-m0-p08-v193
-[with-śatakratu+creeper+tied](śatakratu+latā+baddhaiḥ) [with-citron+fruits+endowed](mātuluṅga+phala+anvitaiḥ)
+[hundred-sacrifice-creeper-bound](śatakratulatābaddhaiḥ) [citron-fruits](mātuluṅgaphalānvitaiḥ)
 
 ## mukta-m0-p08-v194
-[with-half](sārddhaṃ) [thousand](sahasraṃ) [thirty-six](ṣaṭ+triṃśat) [five+numbers](pañca+saṃkhyāḥ) [in-order+stated](krama+uditāḥ)
+[with](sārddhaṃ) [thousand](sahasraṃ) [thirty-six](ṣaṭtriṃśat) [five-number](pañcasaṃkhyāḥ) [in-order-spoken](kramoditāḥ)
 
 ## mukta-m0-p08-v195
-[kālātmā+nityā+mantras](kālātma+nityā+mantrān) [and](ca) [having-recited](japitvā) [on-previous+day](pūrva+vāsare)
+[time-self-eternal-mantras](kālātmanityāmantrāṃśca) [having-chanted](japitvā) [previous+day](pūrvavāsare)
 
 ## mukta-m0-p08-v196
-[thousand](sahasraṃ) [should-recite](prajapet) [afterwards](paścāt) [oblation](homam) [having-done](kṛtvā) [all-around](samantataḥ)
+[thousand](sahasraṃ) [would-chant](prajapet) [afterwards](paścād) [oblation](homaṃ) [having-done](kṛtvā) [all-around](samantataḥ)
 
 ## mukta-m0-p08-v197
-[by-delighted](muditaiḥ) [yoginī+groups](yoginī+vṛndaiḥ) [one-by-one](eka+ekam) [by-deity+self-identified](devatā+ātmabhiḥ)
+[delighted](muditaiḥ) [yoginī-troops](yoginīvṛndaiḥ) [one-by-one](ekaikaṃ) [deity-self](devatātmabhiḥ)
 
 ## mukta-m0-p08-v198
-[own+method](sva+kramam) [to-him](tasya) [should-tell](kathayet) [from-that-time](tadā+prabhṛti) [he](saḥ) [also](api) [that](tam)
+[own+order](svakramaṃ) [his](tasya) [would-tell](kathayet) [then](tadā) [from](prabhṛti) [he+also](so'pi) [him](tam)
 
 ## mukta-m0-p08-v199
-[thousand](sahasraṃ) [should-recite](prajapet) [vidyā](vidyām) [with-sprinkling+accompanied](abhiṣeka+samanvitam)
+[thousand](sahasraṃ) [would-chant](prajaped) [vidyā](vidyām) [sprinkling-accompanied](abhiṣekasamanvitam)
 
 ## mukta-m0-p08-v200
-[in-them](teṣu) [powers](śaktīḥ) [having-invoked](samāvāhya) [having-worshipped](sampūjya) [thus](eva) [should-sprinkle](abhiṣecayet)
+[in+them](teṣu) [powers](śaktīḥ) [having-invoked](samāvāhya) [having-worshipped](sampūjya) [would-sprinkle](evābhiṣecayet)

@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p114-v2826
-[thus](evaṃ) [five-fold](pañcavidhaṃ) [declared](proktaṃ) [three-hall](tri+śālā) [chief](maulikaṃ) [indeed](tu) [that](tat)
+[thus](evaṃ) [five-fold](pañcavidhaṃ) [declared](proktaṃ) [tri-hall-rooted](triśālāmaulikaṃ) [but](tu) [that](tat)
 
 ## mukta-m0-p114-v2827
-[eight-part](aṣṭāṃśa) [width](vyāsa) [endowed-with](saṃyuktaṃ) [ten-part](daśāṃśa) [length](āyāma) [endowed-with](saṃyutam)
+[eight-part-width-joined](aṣṭāṃśavyāsasaṃyuktaṃ) [ten-part-length-joined](daśāṃśāyāmasaṃyutam)
 
 ## mukta-m0-p114-v2828
-[inside](antaḥ) [hall](śālā) [two-part](dvi+bhāgena) [with-central-courtyard](madhya+aṅkaṇa+samanvitā)
+[inside](antaḥ) [hall-division-by](śālādvibhāgena) [middle-courtyard-accompanied](madhyāṅkaṇasamanvitā)
 
 ## mukta-m0-p114-v2829
-[hall-shaped](śālā+ākāraṃ) [assembly-shaped](sabhā+ākāraṃ) [pavilion](maṇṭapaṃ) [or](vā) [courtyard](aṅkaṇaṃ) [should-be](bhavet)
+[hall-shaped](śālākāraṃ) [assembly-shaped](sabhākāraṃ) [pavilion](maṇṭapaṃ) [or](vā) [courtyard](aṅkaṇaṃ) [be](bhavet)
 
 ## mukta-m0-p114-v2830
-[on-both-sides](pāśvayoḥ) [with-projections](bhadra+saṃyuktam) [of-courtyard](aṅkaṇasya) [as-stated-form](ukta+rūpavat)
+[sides-bhadra-joined](pāśvayorbhadrasaṃyuktam) [courtyard's-stated-form-like](aṅkaṇasyoktarūpavat)
 
 ## mukta-m0-p114-v2831
-[windows](netrāṇi) [and](ca) [half-domes](ardha+kūṭāni) [attached-to-corners](karṇa+āśliṣṭāni) [and](ca) [eight](aṣṭa) [and](ca)
+[windows](netrāṇi) [and](ca) [half-peaked](ardhakūṭāni) [ears-attached](karṇāśliṣṭāni) [and](ca) [eight](aṣṭa) [and](ca)
 
 ## mukta-m0-p114-v2832
-[pavilion-front](maṇṭapa+agraja) [hall](śālā) [should-be](syāt) [side-hall](pakṣa+śālā) [indeed](tu) [in-enclosure-area](vāḥ+sthale)
+[pavilion-front-hall](maṇṭapāgrajaśālā) [be](syāt) [side-hall](pakṣaśālā) [but](tu) [in-court-place](vārsthale)
 
 ## mukta-m0-p114-v2833
-[in-middle](madhye) [hall](śālā) [or](vā) [assembly](sabhā) [should-be](syāt) [in-middle](madhye) [enclosure](vāraṇam) [is-desired](iṣyate)
+[middle](madhye) [hall](śālā) [assembly](sabhā) [or](vā) [be](syāt) [middle](madhye) [elephant-desired](vāraṇamiṣyate)
 
 ## mukta-m0-p114-v2834
-[hall-front-back-sides](śālā+agra+pṛṣṭha+pārśveṣu) [by-two-parts](dvi+bhāgena) [by-one-part](eka+bhāgataḥ)
+[hall-front-back-sides](śālāgrapṛṣṭhapārśveṣu) [two-parts](dvibhāgena) [one-part-from](ekabhāgataḥ)
 
 ## mukta-m0-p114-v2835
-[with-gallery-elements](hāra+aṅga) [adorned](alaṃkṛtaṃ) [one-should-make](kuryāt) [Śrīvardhana](śrīvardhanam) [this](idam) [considered](matam)
+[garland-ornamented](hārāṅkālaṃkṛtaṃ) [make](kuryāt) [shri-vardhana](śrīvardhanam) [this](idaṃ) [considered](matam)
 
 ## mukta-m0-p114-v2836
-[dome](śikharaṃ) [indeed](tu) [assembly-shaped](sabhā+ākāraṃ) [in-front](mukhe) [hall-face](śālā+āsyam) [only](eva) [and](ca)
+[spire](śikharaṃ) [but](tu) [assembly-shaped](sabhākāraṃ) [at-mouth](mukhe) [hall-face-only](śālāsyameva) [and](ca)
 
 ## mukta-m0-p114-v2837
-[in-width](vistāre) [ten-parts](daśa+bhāgāḥ) [should-be](syuḥ) [in-length](āyāme) [twelve-parts](dvādaśa+aṃśakāḥ)
+[in-width](vistāre) [ten-parts](daśabhāgāḥ) [be](syuḥ) [in-length](āyāme) [twelve-parts](dvādaśāṃśakāḥ)
 
 ## mukta-m0-p114-v2838
-[inner-enclosure](antaḥ+vāraṃ) [outer-enclosure](bahiḥ+vāraṃ) [of-hall](śālāyāḥ) [indeed](tu) [by-one-part](eka+bhāgataḥ)
+[inner-court](antarvāraṃ) [outer-court](bahirvāraṃ) [hall's](śālāyāḥ) [but](tu) [one-part-from](ekabhāgataḥ)
 
 ## mukta-m0-p114-v2839
-[four](catasraḥ) [half-assemblies](ardha+sabhāyāḥ) [those](tāḥ) [in-attached-enclosure](sakta+āvāra) [specifically](viśeṣataḥ)
+[four](catasraḥ) [half-assembly's](ardhasabhāyāḥ) [those](tāḥ) [attached](saktāḥ) [court-special](vāraviśeṣataḥ)
 
 ## mukta-m0-p114-v2840
-[in-hall-face](śālā+āsye) [or](vā) [in-assembly-face](sabhā+āsye) [or](vā) [in-projection](bhadre) [in-enclosure-interval](vāra+antare) [situated](sthire)
+[hall-mouth](śālāsye) [or](vā) [assembly-mouth](sabhāsye) [or](vā) [bhadra](bhadre) [court-between](vārāntare) [firm](sthire)
 
 ## mukta-m0-p114-v2841
-[middle](madhyaṃ) [in-enclosure](vāraṇake) [should-be-planned](kalpyaṃ) [with-enclosure](sa+vāre) [or](vā) [outside-assembly](sabhā+bāhyataḥ)
+[middle](madhyaṃ) [elephant-place](vāraṇake) [arranged](kalpyaṃ) [with-court](savāre) [or](vā) [without-outside](asabāhyataḥ)
 
 ## mukta-m0-p114-v2842
-[remainder](śeṣaṃ) [mansion-ground](harmya+sthalaṃ) [should-be-made](kāryam) [courtyard](aṅkaṇaṃ) [indeed](tu) [specifically](viśeṣataḥ)
+[remainder](śeṣaṃ) [mansion-ground](harmyasthalaṃ) [work](kāryam) [courtyard](aṅkaṇaṃ) [but](tu) [specially](viśeṣataḥ)
 
 ## mukta-m0-p114-v2843
-[this-same](etat+eva) [assembly-shaped](sabhā+ākāraṃ) [head](śiraḥ) [if](cet) [main-residence](mukhya+vāsakam)
+[this-only](etadeva) [assembly-shaped](sabhākāraṃ) [if-head](śiraścet) [chief-residence](mukhyavāsakam)
 
 ## mukta-m0-p114-v2844
-[in-width](vistāre) [twelve-parts](dvādaśa+aṃśaḥ) [should-be](syāt) [in-length](āyāme) [nine-parts](nava+bhāgakam)
+[in-width](vistāre) [twelve-part](dvādaśāṃśaḥ) [be](syāt) [in-length](āyāme) [nine-part](navabhāgakam)
 
 ## mukta-m0-p114-v2845
-[courtyard](aṅkaṇaṃ) [outside](bāhyataḥ) [enclosure](vāram) [by-one-hall](eka+śālāt) [by-two-parts](dvi+bhāgataḥ)
+[courtyard](aṅkaṇaṃ) [outside](bāhyataḥ) [court](vāram) [one-hall-two-parts-from](ekaśālādvibhāgataḥ)
 
 ## mukta-m0-p114-v2846
-[front-hall](agra+śālā) [and](ca) [likewise](tadvat) [should-be](syāt) [remainder](śeṣaṃ) [all](sarvaṃ) [indeed](tu) [enclosure-area](vāḥ+sthalam)
+[front-hall](agraśālā) [and](ca) [likewise](tadvat) [be](syāt) [remainder](śeṣaṃ) [all](sarvaṃ) [but](tu) [court-ground](vārsthalam)
 
 ## mukta-m0-p114-v2847
-[with-gallery-elements](hāra+aṅga) [adorned](śobhitaṃ) [and](ca) [that](tat) [pavilion](maṇṭapaṃ) [is-prescribed](pravidhīyate)
+[garland-limb-adorned](hārāṅgaśobhitaṃ) [that](tat) [and](ca) [pavilion](maṇṭapaṃ) [prescribed](pravidhīyate)
 
 ## mukta-m0-p114-v2848
-[with-karkarī-bond](karkarī+bandha+yuktāḥ) [indeed](tu) [attached-to-residences](vāsa+āśliṣṭāḥ) [indeed](tu) [these](ime) [considered](matāḥ)
+[karkari-bandha-joined](karkarībandhayuktāḥ) [tu](tu) [residences-attached](vāsāśliṣṭāḥ) [these](ime) [considered](matāḥ)
 
 ## mukta-m0-p114-v2849
-[according-to-multiple-halls](bahu+śālā+anusāreṇa) [assembly-hall-faces](sabhā+śālā+ānane) [considered](mate)
+[many-hall-according](bahuśālānusāreṇa) [assembly-hall-face](sabhāśālānane) [in-opinion](mate)
 
 ## mukta-m0-p114-v2850
-[outside-that](tat+bāhye) [and](ca) [in-four-directions](catur+dikṣu) [by-five-part-projection](pañca+bhāga+vinirgamāt)
+[that-outside](tadbāhye) [and](ca) [four-directions](caturdikṣu) [five-part-exit-from](pañcabhāgavinirgamāt)

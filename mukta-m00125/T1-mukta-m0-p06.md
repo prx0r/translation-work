@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p06-v126
-[channels](nāḍyaḥ) [or](atha) [or](vā) [may-be](asyuḥ)
+[nāḍī](nāḍyo) [vā](athavā) [asyuḥ](asyuḥ)
 
 ## mukta-m0-p06-v127
-[in-the-middle](madhyame) [ten](daśa) [channels](nāḍyaḥ) [should-be](syāt) [by-one](yāma) [measure](mātreṇa) [of-the-smallest](kanyasaḥ)
+[madhyame](madhyame) [daśa-nāḍyaḥ](daśanāḍyassyādyāma) [mātreṇa](mātreṇa) [kanyasaḥ](kanyasaḥ)
 
 ## mukta-m0-p06-v128
-[from-ploughing](karṣaṇa) [etc.](ādi) [ending-with-consecration](pratiṣṭhā+antaṃ) [ritual](karma) [annual](saṃvatsara) [festival](utsavam)
+[karṣaṇa-ādi](karṣaṇādi) [pratiṣṭhā-antaṃ](pratiṣṭhāntaṃ) [karma](karma) [saṃvatsara-utsavam](saṃvatsarotsavam)
 
 ## mukta-m0-p06-v129
-[daily-worship](nitya+arcana) [etc.](ādikaṃ) [all](sarvaṃ) [in-this](tantre) [in-this](asmin) [taught](pratipāditam)
+[nitya-arcana-ādikaṃ](nityārcanādikaṃ) [sarvaṃ](sarvaṃ) [tantre](tantresmin) [pratipāditam](pratipāditam)
 
 ## mukta-m0-p06-v130
-[by-this](anena) [indeed](eva) [manner](prakāreṇa) [by-rule](nyāyena) [having-examined](anvīkṣya) [the-teacher](deśikaḥ)
+[anena-eva](anenaiva) [prakāreṇa](prakāreṇa) [nyāyena](nyāyenānvīkṣya) [deśikaḥ](deśikaḥ)
 
 ## mukta-m0-p06-v131
-[the-interval](antarālaṃ) [but](tu) [in-the-eastern](pūrvasyāṃ) [direction](diśi) [when-manifest](vyakte) [is-distinguished](viśiṣyate)
+[antarālaṃ](antarālaṃ) [tu](tu) [pūrvasyāṃ](pūrvasyāṃ) [diśi](diśi) [vyakte](vyakte) [viśiṣyate](viśiṣyate)
 
 ## mukta-m0-p06-v132
-[of-that](tasya) [deity](devasya) [that](sā) [east](prācī) [ascertained](niścitā) [O-best-of-twice-born](dvija+sattamāḥ)
+[tasya](tasya) [devasya](devasya) [sā](sā) [prācī](prācī) [niścitā](niścitā) [dvija-sattamāḥ](dvijasattamāḥ)
 
 ## mukta-m0-p06-v133
-[by-that](tat) [power](vaśāt) [other](aparāḥ) [should-be-conceived](kalpyāḥ) [directions](diśaḥ) [by-knowers-of-directions](dik+vedibhiḥ) [always](sadā)
+[tad-vaśāt](tadvaśādaparā) [aparā](aparā) [kalpyā](kalpyā) [diśaḥ](diśo) [dig-vedibhiḥ](digvedibhissadā) [sadā](sadā)
 
 ## mukta-m0-p06-v134
-[purification](śaucam) [sipping-water](ācamanam) [bathing](snānaṃ) [twilight-worship](sandhyā+vandana) [libation](tarpaṇam)
+[śaucam](śaucamācamanaṃ) [ācamanaṃ](ācamanaṃ) [snānaṃ](snānaṃ) [sandhyā-vandana-tarpaṇam](sandhyāvandanatarpaṇam)
 
 ## mukta-m0-p06-v135
-[properly](samyak) [having-sipped](ācabhya) [having-taken](saṃgṛhya) [sacred-ash](bhasitaṃ) [with-water](vāriṇā) [together](saha)
+[samyak](samyagācabhya) [ācabhya](ācabhya) [saṃgṛhya](saṃgṛhya) [bhasitaṃ](bhasitaṃ) [vāriṇā](vāriṇā) [saha](saha)
 
 ## mukta-m0-p06-v136
-[with-that](tat) [hand](kareṇa) [and](ca) [having-united](saṃyojya) [in-Śiva](śive) [indeed](hi) [the-self](ātmānam) [with-reverence](ādarāt)
+[tat-kareṇa](tatkareṇa) [ca](ca) [saṃyojya](saṃyojya) [śive](śive) [hi](hyātmānamādarāt) [ātmānam](ātmānam) [ādarāt](ādarāt)
 
 ## mukta-m0-p06-v137
-[hand-placement](kara+nyāsaṃ) [and](ca) [placement](vinyāsaṃ) [of-the-Brahmans](brahmaṇām) [beginning-with-Īśa](īśa+pūrvakam)
+[kara-nyāsaṃ](karanyāsaṃ) [ca](ca) [vinyāsaṃ](vinyāsaṃ) [brahmaṇām](brahmaṇāmīśa) [īśa](īśa) [pūrvakam](pūrvakam)
 
 ## mukta-m0-p06-v138
-[Puruṣa](puruṣaṃ) [on-the-face](vadane) [all](sarvaṃ) [impurity](mala) [mantra](mantram) [remembering](anusmaran)
+[puruṣaṃ](puruṣaṃ) [vadane](vadane) [sarvaṃ](sarvaṃ) [mala-mantram](malāmantramanusmaran) [anusmaran](anusmaran)
 
 ## mukta-m0-p06-v139
-[internal-worship](antar+yāgam) [then](ataḥ) [having-performed](kṛtvā) [place](sthāna) [purification](śuddhim) [then](tataḥ) [should-conduct](nayet)
+[antaryāgam](antaryāgamataḥ) [ataḥ](ataḥ) [kṛtvā](kṛtvā) [sthāna-śuddhim](sthānaśudhdintato) [tataḥ](tataḥ) [nayet](nayet)
 
 ## mukta-m0-p06-v140
-[having-made](kṛtvā) [oneself](ātmānam) [having-worshipped](samabhyarcya) [mantra](mantra) [purification](śuddhiṃ) [should-perform](samācaret)
+[kṛtvā](kṛtvātmānaṃ) [ātmānaṃ](ātmānaṃ) [samabhyarcya](samabhyarcya) [mantra-śuddhiṃ](mantraśuddhiṃ) [samācaret](samācaret)
 
 ## mukta-m0-p06-v141
-[at-the-door](dvāra) [sides](pārśva) [on-both](ubhayaṃ) [or](vā) [also](api) [Gaṇapa](gaṇa+pa) [the-five](pañca) [Sarasvatī](sarasvatīṃ)
+[dvāra-pārśva-ubhayaṃ](dvārapārśvobhayaṃvāpi) [vā](vāpi) [api](api) [gaṇa-pañca-sarasvatīṃ](gaṇapañcasarasvatīṃ)
 
 ## mukta-m0-p06-v142
-[having-worshipped](saṃpūjya) [on-the-threshold](udumbare) [the-weapon](śastraṃ) [having-entered](praviśya) [inside](antaḥ) [the-sanctum](puraṃ) [again](punaḥ)
+[saṃpūjya](saṃpūjyodumbare) [udumbare](udumbare) [śastraṃ](śastraṃ) [praviśya](praviśyāntaḥ) [antaḥ](antaḥ) [puraṃ](puraṃ) [punaḥ](punaḥ)
 
 ## mukta-m0-p06-v143
-[of-Śiva](śivasya) [with-Īśāna-mantra](īśāna+mantreṇa) [garland](mālā) [etc.](ādyam) [having-removed](apanīya) [and](ca)
+[śivasya](śivasyeśānamantreṇa) [īśāna-mantreṇa](īśānamantreṇa) [mālā-ādyam](mālādyamapanīya) [apanīya](apanīya) [ca](ca)
 
 ## mukta-m0-p06-v144
-[the-support](ādhāra) [Āravyam](āravyam) [and-Ananta](anantaṃ) [and](ca) [dharma-adharma](dharma+adharma) [etc.](ādyam) [indeed](eva) [and](ca)
+[ādhāra-āravyam](ādhārāravyamanantañca) [anantaṃ](anantañca) [ca](ca) [dharma-adharma-ādyam](dharmādharmādyameva) [eva](eva) [ca](ca)
 
 ## mukta-m0-p06-v145
-[beginning-with-Vāmā](vāma+ādyaṃ) [endowed-with-heart](hṛdaya+upetaṃ) [Śiva-seat](śiva+āsanam) [remembering](anusmaran)
+[vāma-ādyaṃ](vāmādyaṃ) [hṛdaya-upetaṃ](hṛdayopetaṃ) [śiva-āsanam](śivāsanamanusmaran) [anusmaran](anusmaran)
 
 ## mukta-m0-p06-v146
-[Sadāśiva](sadāśivaḥ) [and-Maheśa](maheśaḥ) [and](ca) [and-Rudra](rudraḥ) [and](ca) [thus](iti) [threefold](tridhā) [opinion](mataḥ)
+[sadāśivaḥ](sadāśivo) [maheśaḥ](maheśaśca) [ca](ca) [rudraḥ](rudraśceci) [ca](ca) [eci](eci) [tridhāmataḥ](tridhāmataḥ)
 
 ## mukta-m0-p06-v147
-[which](yā) [of-him](tasya) [pure](vimalā) [power](śaktiḥ) [of-Śiva](śivasya) [inherent](samavāyinī)
+[yā](yā) [tasya](tasya) [vimalā-śaktiḥ](vimalāśaktiśśivasya) [śivasya](śivasya) [samavāyinī](samavāyinī)
 
 ## mukta-m0-p06-v148
-[with-heart-cavity](hṛt+saṃpuṭena) [having-united](saṃyojya) [in-her](tasyāṃ) [the-Brahmans](brahmāṇi) [one-should-place](vinyaset)
+[hṛt-saṃpuṭena](hṛtsaṃpuṭena) [saṃyojya](saṃyojya) [tasyāṃ](tasyāṃ) [brahmāṇi](brahmāṇi) [vinyaset](vinyaset)
 
 ## mukta-m0-p06-v149
-[in-that-place](sadeśe) [for-body](deha) [accomplishment](siddhy+artham) [thirty-eight](aṣṭa+triṃśat) [kalās](kalāḥ) [taught](matāḥ)
+[sadeśe](sadeśe) [deha](deha) [siddhi-artham](siddhyarthamaṣṭatriṃśatkalā) [aṣṭatriṃśat-kalā](aṣṭatriṃśatkalā) [matā](matā)
 
 ## mukta-m0-p06-v150
-[thirty-eight](aṣṭa+triṃśat) [kalā-placement](kalā+nyāsaṃ) [previously](prāk) [indeed](eva) [taught](pratipāditam)
+[aṣṭatriṃśat-kalā-nyāsaṃ](aṣṭatriṃśatkalānyāsaṃ) [prāk](prāgeva) [eva](eva) [pratipāditam](pratipāditam)

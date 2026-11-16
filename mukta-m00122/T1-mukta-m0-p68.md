@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p68-v1676
-[then](tataḥ) [in-the-indicated-doll](nirdiṣṭa+puttalyāṃ) [there-there](tatra+tatra) [the-stated-should-perform](uktam+ācaret)
+[then-indicated-puppet](tatonirdiṣṭaputtalyāṃ) [there-there-spoken](tatra tatroktam) [should-practice](ācaret)
 
 ## mukta-m0-p68-v1677
-[of-the-stated](uktānāṃ) [but](tu) [not](na) [of-trees](varkṣāṇāṃ) [likewise](tathaiva) [the-eight-division](aṣṭaka+vargakam)
+[of-spoken](uktānāṃ) [but](tu) [not](na) [trees](varkṣāṇāṃ) [thus-even](tathaivāṣṭakavargakam)
 
 ## mukta-m0-p68-v1678
-[having-established](saṃsthāpya) [of-the-target-life-etc](sādhya+jīva+ādi) [the-bringing](ānayanam) [one-should-do](kuryāt) [thus](iti)
+[having-established](saṃsthāpya) [accomplishable-life-etc](sādhyajīvādyān) [bringing](ayanaṃ) [should-do](kuryāditi)
 
 ## mukta-m0-p68-v1679
-[of-constellation](nakṣatraṇām) [thus-ellipsis](iti+śeṣaḥ) [and-that](sa+ca) [connected-with-zodiac-sign](rāśi+anvayaḥ) [in-the-fire-offering](homake) [in-the-fire-offering-chapter](homa+paṭale)
+[of-nakshatras](nakṣatraṇām) [remainder](itiśeṣaḥ) [with-rashi-connection](saca rāśyanvayaḥ) [in-homa](homake) [in-homa-panel](homapaṭale)
 
 ## mukta-m0-p68-v1680
 [remainder](śeṣaḥ)
 
 ## mukta-m0-p68-v1681
-[without-considering](anavekṣya) [done](kṛtam) [action](karma) [oneself](svātmānam) [kills](hanti) [that-very-moment](tat+kṣaṇāt)
+[without-considering](anavekṣya) [done](kṛtaṃ) [action](karma) [self](svātmānaṃ) [kills](hanti) [at-that-moment](tatkṣaṇāt)
 
 ## mukta-m0-p68-v1682
-[generous](vadānyam) [compassionate](sadayam) [always](nityam) [in-malevolent-rite](abhicāre) [not](na) [one-should-employ](yojayet)
+[generous](vadānyaṃ) [compassionate](sadayaṃ) [always](nityam) [in-abhicara](abhicāre) [not](na) [should-employ](yojayet)
 
 ## mukta-m0-p68-v1683
-[of-malevolent-rite](abhicārasya) [the-objects](viṣayān) [listen](ākarṇaya) [I-tell](vadāmi) [to-you](te)
+[of-abhicara](abhicārasya) [objects](viṣayān) [listen](ākarṇaya) [i-speak](vadāmi) [to-you](te)
 
 ## mukta-m0-p68-v1684
-[of-people](prajānām) [killers](ghātakān) [in-all-harmful-acts](sarva+kleśa+karmasu) [engaged](saṃsthitān)
+[of-beings](prajānāṃ) [killers](ghātakān) [all](sarva) [in-affliction-actions](kleśakarmasu) [situated](saṃsthitān)
 
 ## mukta-m0-p68-v1685
-[reviler](nindakam) [of-conventions](samayānām) [and](ca) [slanderer](piśunam) [king-killer](rāja+ghātakam)
+[reviler](nindakaṃ) [of-conventions](samayānāṃ) [ca](ca) [slanderer](piśunaṃ) [king-killer](rājaghātakam)
 
 ## mukta-m0-p68-v1686
-[one-should-employ](niyojayet) [in-killing-rites](māraṇeṣu) [in-these-acts](karmasu) [by-these](etaiḥ) [not](na) [sinner](pātakī)
+[should-employ](niyojayen) [in-killings](māraṇeṣu) [in-actions](karmasu) [with-these](etairna) [not](na) [sinner](pātakī)
 
 ## mukta-m0-p68-v1687
-[from-the-feet](pādataḥ) [or](vā) [guru](gurum) [brahmins](viprān) [having-worshipped](ārādhya) [with-one's-own](svena) [daily-rite](nityayā)
+[from-foot](pādatovā) [guru](guruṃ) [brahmins](viprān) [having-worshipped](ārādhya) [by-own](svena) [constantly](nityayā)
 
 ## mukta-m0-p68-v1688
-[in-three-births](janma+traye) [even](api) [for-a-year](abda+mātram) [consecration](abhiṣekam) [one-should-perform](samācaret)
+[in-three-births](janmatraye) [pyabdamātram](pyabdamātram) [abhisheka](abhiṣekaṃ) [should-perform](samācaret)
 
 ## mukta-m0-p68-v1689
-[not](na) [elsewhere](anyatra)
+[not-elsewhere](nānyatra)
 
 ## mukta-m0-p68-v1690
-[specification](viśeṣaṇam) [in-malevolent-rite](abhicāre) [in-killing](māraṇe) [other](anyat) [easy](sugamam)
+[qualifier](viśeṣaṇam) [in-abhicara-killing](a`hicāre māraṇe) [other](anyat) [easy](sugamam)
 
 ## mukta-m0-p68-v1691
-[thus-ellipsis](iti+śeṣaḥ) [95](|| 95 ||) [96](96) [97](|| 97 ||)
+[thus-remainder](itiśeṣaḥ) [95](|| 95 ||) [96](96) [97](97)
 
 ## mukta-m0-p68-v1692
-[this](etat) [to-you](te) [told](kathitam) [all](sarvam) [messenger-goddess-daily-rite-procedure](dūtī+nityā+vidhānakam)
+[this](etat) [to-you](te) [spoken](kathitaṃ) [all](sarvaṃ) [duti-nitya-vidhana](dūtīnityāvidhānakam)
 
 ## mukta-m0-p68-v1693
-[of-this](asyāḥ) [by-fruition](niṣphālanāt) [in-the-mind](citte) [that-truth](tat+tattvam) [made-one's-own](svātma+sātkṛtam)
+[of-this](asyā) [non-fruition](niṣphālanāt) [in-mind](citte) [that-tattva](tattattvaṃ) [self-realized](svātmasātkṛtam)
 
 ## mukta-m0-p68-v1694
-[eating-sacrificial-food](haviṣya+bhuk) [sacrificial-food](haviṣyam) [namely](nāma) [saltless-cooked-rice-grain-food](nirlavaṇa+pakva+vrīhi+taṇḍula+annam) [99](|| 99 ||)
+[havis-eater](haviṣyabhuk) [havis](haviṣyaṃ) [name](nāma) [saltless-cooked-rice-grain-food](nirlavaṇapakvavrīhitaṇḍulānnam)
 
 ## mukta-m0-p68-v1695
-[by-those-sins](tat+pāpaiḥ) [by-sins-of-performing-malevolent-rites](abhicāra+karaṇa+pāpaiḥ) [this](eṣaḥ) [practitioner](sādhakaḥ) [101](| 101 ||)
+[by-those-sins](tatpāpaiḥ) [abhicara-performance-sins](abhicārakaraṇapāpaiḥ) [this](eṣa) [sadhaka](sādhakaḥ)
 
 ## mukta-m0-p68-v1696
-[thirteenth-chapter](trayodaśa+paṭalam) [completed](paripūrṇam) [revised](parāmṛṣṭam)
+[thirteenth-chapter](trayodaśapaṭalaṃ) [completed](paripūrṇaṃ) [reviewed](parāmṛṣṭam)
 
 ## mukta-m0-p68-v1697
-[with-half-seventeen](sārddha+saptadaśa) [indeed](eva) [should-be](syuḥ) [in-chapter](paṭale) [in-this](asmin) [thirteenth](trayodaśe)
+[with-half-seventeen](sārddhasaptadaśaiva) [syuḥ](syuḥ) [in-chapter-thirteenth](paṭale'smi/strayodaśe)
 
 ## mukta-m0-p68-v1698
-[declared](proktā) [indeed](eva) [Tvaritā](tvaritā) [vidyā](vidyā) [previously](prāk) [indeed](eva) [twelve-syllabled](dvādaśa+akṣarā)
+[spoken](proktaiva) [tvarita](tvaritā) [vidya](vidyā) [before](prāgeva) [twelve-syllabled](dvādaśākṣarā)
 
 ## mukta-m0-p68-v1699
-[by-which](yena) [mantrin](mantrī) [like-Cupid](manmatha+ābhaḥ) [agitates](vikṣobhayati) [the-earth](bhūtalam)
+[by-which](yena) [mantri](mantrī) [manmatha](manmathābho) [shakes](vikṣobhayati) [earth](bhūtalam)
 
 ## mukta-m0-p68-v1700
-[one-should-make](kuryāt) [limbs](aṅgāni) [with-paired-syllables](yugma+arṇaiḥ) [in-sixfold-sequence](ṣaṭ+krameṇa) [on-hands-and-limbs](kara+aṅgayoḥ)
+[should-do](kuryādaṅgāni) [limbs](aṅgāni) [in-pairs](yugmārṇaiḥ) [in-six-order](ṣaṭkrameṇa) [of-hands-feet](karāṅgayoḥ)

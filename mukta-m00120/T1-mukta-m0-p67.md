@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p67-v1651
-[firm](dṛḍhaḥ) [vow](vrataḥ) [is](asti) [indeed](hi)
+[firm](dṛḍhaḥ) [vow](vrataḥ)
 
 ## mukta-m0-p67-v1652
-[others](anye) [and](ca) [many](bahavo) [gods](devāḥ) [power](śakti) [rooted](mūlāḥ) [are-proclaimed](prakīrtitāḥ)
+[other](anye) [and](ca) [many](bahavo) [gods](devāḥ) [power](śakti) [rooted](mūlāḥ) [declared](prakīrtitāḥ)
 
 ## mukta-m0-p67-v1653
-[therefore](ataḥ) [than-them](tebhyaḥ) [supreme](pradhānaṃ) [indeed](hi) [power](śaktiṃ) [know](viddhi) [o-great-minded-one](mahāmate)
+[therefore](atastebhyaḥ) [principal](pradhānaṃ) [indeed](hi) [power](śaktiṃ) [know](viddhi) [wise-one](mahāmate)
 
 ## mukta-m0-p67-v1654
-[and](ca) [liberation](muktiṃ) [desires](kāṃkṣati) [one](saḥ)
+[liberation](muktiñca) [desires](kāṃkṣati)
 
 ## mukta-m0-p67-v1655
-[not](na) [they](te) [see](paśyanti) [that](taṃ) [god](devaṃ) [in-vain](vṛthā) [their](teṣāṃ) [effort](pariśramaḥ)
+[not](na) [they](te) [see](paśyanti) [that](taṃ) [god](devaṃ) [vain](vṛthā) [their](teṣāṃ) [effort](pariśramaḥ)
 
 ## mukta-m0-p67-v1656
-[self](ātmānaṃ) [one-should-contemplate](cintayet) [goddess](devīṃ) [supreme](parama) [self](ātma) [form](svarūpiṇīm)
+[self](ātmānaṃ) [meditate](cintayeddevīṃ) [supreme-self](paramātma) [nature](svarūpiṇīm)
 
 ## mukta-m0-p67-v1657
-[unity](aikyaṃ) [one-should-conceive](saṃbhāvayet) [always](nityaṃ) [own](sva) [guru](gurūṃ) [deity](devatā) [natured](ātmakam)
+[unity](aikyaṃ) [cultivate](saṃbhāvayennityaṃ) [own-teacher](svagurūṃ) [deity-natured](devatātmakam)
 
 ## mukta-m0-p67-v1658
-[man](naraḥ) [thus](evam) [should-contemplate](cintayet) [always](sadā)
+[man](naraḥ)
 
 ## mukta-m0-p67-v1659
-[I](ahaṃ) [god](devo) [not](na) [and](ca) [other](anyo) [am](asmi) [liberated](mukto) [I](aham) [thus](iti) [one-should-conceive](bhāvayet)
+[I](ahaṃ) [god](devo) [not](na) [other](cānyo'smi) [liberated](mukto'hamiti) [meditate](bhāvayet)
 
 ## mukta-m0-p67-v1660
-[of-durgā](durgāyāḥ) [from-contemplation](cintanād) [durgā](durgā) [becomes](bhavati) [indeed](eva) [not](na) [doubt](saṃśayaḥ)
+[of-durgā](durgāyāścintanād) [durgā](durgā) [becomes](bhavatyeva) [no](na) [doubt](saṃśayaḥ)
 
 ## mukta-m0-p67-v1661
-[old-age](jarā) [death](maraṇa) [suffering](kuḥkha) [and-others](ādyaiḥ) [is-freed](mucyate) [existence](bhava) [bondage](bandhanāt)
+[old-age](jarā) [death](maraṇa) [suffering](kuḥkhādyairmucyate) [world](bhava) [bondage](bandhanāt)
 
 ## mukta-m0-p67-v1662
-[now](adhunā) [haṃsa](haṃsa) [seed](bījasya) [greatness](māhātmyaṃ) [tell](kathaya) [beloved](priya)
+[now](adhunā) [haṃsa](haṃsa) [seed](bījasya) [greatness](māhātmyaṃ) [tell](kathaya) [dear](priya)
 
 ## mukta-m0-p67-v1663
-[your](tava) [by-affection](snehena) [bound](baddho) [I](ahaṃ) [some](kiñcid) [truth](bhāvaṃ) [revealed](prakāśitam)
+[your](tava) [affection](snehena) [bound](baddho'haṃ) [something](kiñcidbhāvaṃ) [revealed](prakāśitam)
 
 ## mukta-m0-p67-v1664
-[haṃsa](haṃsa) [seed](bījaṃ) [having-resorted-to](samāśritya) [embodied-one](dehī) [in-body](dehe) [always](sadā) [situated](sthitaḥ)
+[haṃsa](haṃsa) [seed](bījaṃ) [resorting](samāśritya) [embodied-one](dehī) [in-body](dehe) [always](sadā) [situated](sthitaḥ)
 
 ## mukta-m0-p67-v1665
-[śiva](śiva) [śakti](śaktya) [natured](ātmakaṃ) [mantra](mantram) [ajapā](ajapā) [thus](iti) [is-proclaimed](prakīrtitam)
+[śiva-śakti](śiva+śaktyātmakaṃ) [mantra](mantramajapeti) [declared](prakīrtitam)
 
 ## mukta-m0-p67-v1666
-[ajapā](ajapā) [named](nāma) [gāyatrī](gāyatrīṃ) [living-being](jīvo) [repeats](japati) [always](sarvadā)
+[ajapā](ajapā) [named](nāma) [gāyatrī](gāyatrīṃ) [living-being](jīvo) [chants](japati) [always](sarvadā)
 
 ## mukta-m0-p67-v1667
-[should-repeat](prajapet) [by-what](kena) [root](mūlaṃ) [and](ca) [so'ham](so'haṃ) [by-what](kena) [should-contemplate](vicintayet)
+[should-chant](prajapet) [by-whom](kena) [root](mūlañca) [so-ham](so'haṃ) [by-whom](kena) [contemplate](vicintayet)
 
 ## mukta-m0-p67-v1668
-[individual](jīva) [self](ātmānaṃ) [sound](nāda) [form](rūpaṃ) [and](ca) [point](binduṃ) [supreme](parama) [self](ātmakam)
+[individual-self](jīvātmānaṃ) [sound-form](nādarūpaṃ) [bindu](binduñca) [supreme-self](paramātmakam)
 
 ## mukta-m0-p67-v1669
-[point](vindu) [pair](dvayaṃ) [visarga](visargaḥ) [should-be](syāt) [creation](sṛṣṭiḥ) [maintenance](sthitiḥ) [o-great-goddess](maheśvari)
+[bindu](vindu) [two](dvayaṃ) [visarga](visargaḥ) [creation](sṛṣṭiḥ) [sustenance](sthitirmaheśvari)
 
 ## mukta-m0-p67-v1670
-[three](tri) [point](binduṃ) [maintenance](sthiti) [form](rūpaṃ) [and](ca) [point](bindum) [one](ekaṃ) [in-dissolution](laye) [again](punaḥ)
+[three-bindu](trivinduṃ) [sustenance-form](sthiti+rūpañca) [bindu](bindumekaṃ) [dissolution](laye) [again](punaḥ)
 
 ## mukta-m0-p67-v1671
-[supreme](parama) [self](ātmā) [point](bindu) [form](rūpaṃ) [haṃsa](haṃsa) [by-seed](bījena) [is-described](bhāṣitam)
+[supreme-self](paramātmā) [bindu-form](bindurūpaṃ) [haṃsa](haṃsa) [seed](bījena) [spoken](bhāṣitam)
 
 ## mukta-m0-p67-v1672
-[not](na) [I](ahaṃ) [in-knowledge](jñāne) [dissolution](layaṃ) [o-goddess](devi) [being](bhāva) [non-being](abhāva) [awakener](prabodhakam)
+[not](nāhaṃ) [knowledge](jñāne) [dissolution](layaṃ) [devi](devi) [mood](bhāvā) [mood](bhāva) [awakening](prabodhakam)
 
 ## mukta-m0-p67-v1673
-[so'ham](so'haṃ) [by-conception](bhāvena) [in-supreme](parame) [also](api) [one](eka) [body](dehaṃ) [one-should-contemplate](vicintayet)
+[so-ham](so'haṃ) [mood](bhāvena) [supreme](parame'pyekadehaṃ) [contemplate](vicintayet)
 
 ## mukta-m0-p67-v1674
-[worship](pūjanaṃ) [always](sarvadā) [one-should-do](kuryāt) [left](vāma) [right](dakṣa) [by-distinction](vibhedataḥ)
+[worship](pūjanaṃ) [always](sarvadā) [do](kuryāt) [left](vāma) [right](dakṣa) [distinction](vibhedataḥ)
 
 ## mukta-m0-p67-v1675
-[male](puṃ) [body](dehaṃ) [śiva](śiva) [form](rūpakam) [one-should-contemplate](cintayet)
+[male-body](puṃdehaṃ) [śiva-form](śiva+rūpakam)

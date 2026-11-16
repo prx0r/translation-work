@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p147-v3651
-[as](yathā) [by-king](rājñā) [appointed](niyuktaiḥ) [and](tu) [feudatory-chiefs](sāmanta-pramukhaiḥ) [also](api)
+[as](yathā) [by-king](rājñā) [appointed](niyuktaistu) [feudatory](sāmanta) [leaders-also](pramukhairapi)
 
 ## mukta-m0-p147-v3652
-[otherwise](anyathā) [being](sati) [to-be-done](kartavye) [pacification](śānti) [there](tatra) [one-should-perform](samācaret)
+[otherwise](anyathā) [being](sati) [duty](kartavye) [peace](śānti) [there](tatra) [perform](samācaret)
 
 ## mukta-m0-p147-v3653
-[rite](kriyā) [which](yā) [prevails](vartate) [formerly](pūrvaṃ) [scripture-established](śāstra-siddhā) [again-and-again](punaḥ) [again](punaḥ)
+[rite](kriyā) [which](yā) [occurs](vartate) [formerly](pūrvaṃ) [scripture-established](śāstrasiddhā) [again](punaḥ) [again](punaḥ)
 
 ## mukta-m0-p147-v3654
-[otherwise](anyathā) [being](sati) [to-be-done](kartavye) [of-king](rājñaḥ) [destruction](dhvaṃsaḥ) [is-declared](udāhṛtaḥ)
+[otherwise](anyathā) [being](sati) [duty](kartavye) [king's](rājño) [ruin](dhvaṃsa) [declared](udāhṛtaḥ)
 
 ## mukta-m0-p147-v3655
-[scripture-established](śāstra-siddhā) [indeed](eva) [former](pūrvā) [also](api) [then](tataḥ) [then](tataḥ) [increase](vṛddhiḥ) [happiness-giving](sukha-pradā)
+[scripture-established-indeed](śāstrasiddhaiva) [former-also](pūrvāpi) [thence](tato) [thence](tato) [growth-happiness-giving](vṛddhissukhapradā)
 
 ## mukta-m0-p147-v3656
-[therefore](tasmāt) [with-all-effort](sarva-prayatnena) [former](pūrvam) [also](api) [more](adhikaṃ) [one-should-perform](caret)
+[therefore-all-effort](tasmātsarvaprayatnena) [formerly-even](pūrvamapyadhikaṃ) [more](adhikaṃ) [perform](caret)
 
 ## mukta-m0-p147-v3657
-[at-night](rajanyāṃ) [sight](darśanaṃ) [of-sun](bhānoḥ) [from-other-king](para-rāja) [danger](bhayaṃ) [may-be](bhavet)
+[at-night](rajanyāṃ) [sight](darśanaṃ) [sun](bhānoḥ) [enemy-king](pararāja) [fear](bhayaṃ) [be](bhavet)
 
 ## mukta-m0-p147-v3658
-[on-new-moon](darśe) [and](ca) [risen](abhyudite) [moon](candre) [another](paraḥ) [king](rājā) [will-be](bhaviṣyati)
+[new-moon](darśe) [and](cābhyudite) [risen](abhyudite) [moon](candre) [enemy](paro) [king](rājā) [will-be](bhaviṣyati)
 
 ## mukta-m0-p147-v3659
-[when-occurring](saṃbhave) [earth](bhūmi) [may-quake](kaṃpetu) [of-king](nṛpa) [downfall](bhaṅgaḥ) [will-be](bhavet) [certainly](dhruvam)
+[occurrence](saṃbhave) [earth](bhūmi) [tremble](kaṃpetu) [king](nṛpa) [defeat](bhaṅgo) [be](bhaved) [certain](dhruvam)
 
 ## mukta-m0-p147-v3660
-[its-half](tat-ardhe) [or](vā) [its-half](tat-ardhe) [or](vā) [with-hundred-measures](śata-prasthaiḥ) [by-its-half](tat-ardhataḥ)
+[half-or](tadardhe) [or](vā) [half-or](tadardhe) [or](vā) [hundred-measures](śataprasthaiḥ) [half-from](tadardhataḥ)
 
 ## mukta-m0-p147-v3661
-[seven-days](saptāhaṃ) [or](vā) [with-held-honey](dhṛta-kṣaudraiḥ) [by-best](śreṣṭha) [method](mārgeṇa) [one-should-cause-to-do](kārayet)
+[seven-days](saptāhaṃ) [or](vā) [honey-held](dhṛtakṣaudraiḥ) [best](śreṣṭha) [path](mārgeṇa) [cause](kārayet)
 
 ## mukta-m0-p147-v3662
-[river-tank-well](nadī-taṭāka-kūpa) [and-so-forth](ādi) [in-agitation](kṣobhe) [famine](durbhikṣatā) [will-be](bhavet)
+[river](nadī) [pond](taṭāka) [well-etc](kūpādi) [disturbance](kṣobhe) [famine](durbhikṣatā) [be](bhavet)
 
 ## mukta-m0-p147-v3663
-[with-Amba](sāṃbaṃ) [in-pot](kuṃbhe) [and](ca) [in-vardhanī-vessel](vardhanyāṃ) [around](paritaḥ) [in-lip-pots](uṣṭha-ghaṭeṣu) [and](ca)
+[samba](sāṃbaṃ) [pot](kuṃbhe) [and](ca) [growth-vessel](vardhanyāṃ) [satisfaction](paritoṣṭha) [pots](ghaṭeṣu) [and](ca)
 
 ## mukta-m0-p147-v3664
-[one-should-worship](pūjayet) [with-fragrance-flowers](gandha-puṣpa) [and-so-forth](ādyaiḥ) [directional-offering](diśā-homaṃ) [one-should-perform](samācaret)
+[worship](pūjayet) [incense-flowers-etc](gandhapuṣpādyaiḥ) [direction-homa](diśāhomaṃ) [perform](samācaret)
 
 ## mukta-m0-p147-v3665
-[in-image-weeping-sweating](pratimā-rodane-svede) [of-king](nṛpasya) [death](mṛtim) [it-indicates](ācaret)
+[image-weeping-sweat](pratimārodanesvede) [king's](nṛpasya) [death](mṛtimācaret)
 
 ## mukta-m0-p147-v3666
-[having-done](kṛtvā) [then](tu) [image-purification](pratimā-śuddhiṃ) [best](śreṣṭhāṃ) [pacification](śāntiṃ) [one-should-perform](samācaret)
+[having-done](kṛtvātu) [image](pratimā) [purification](śuddhiṃ) [best](śreṣṭhāṃ) [peace](śāntiṃ) [perform](samācaret)
 
 ## mukta-m0-p147-v3667
-[at-its-end](tat-ante) [and](ca) [festival](utsavaṃ) [one-should-perform](kuryāt) [according-to](yathā) [wealth](vittaṃ) [O-great-sages](munīśvarāḥ)
+[then](tadante) [festival](cotsavaṃ) [do](kuryāt) [according](yathā) [wealth](vittaṃ) [sage-lords](munīśvarāḥ)
 
 ## mukta-m0-p147-v3668
-[temple-pavilion](prāsāda-maṇḍapa) [and-so-forth](ādīni) [with-blood-smeared](rudhira-aktāni) [one-should-cleanse](śodhayet)
+[temple](prāsāda) [pavilion-etc](maṇḍapādīni) [blood-stained](rudhirāktāni) [purify](śodhayet)
 
 ## mukta-m0-p147-v3669
-[benediction](puṇyāhaṃ) [having-caused-to-recite](vācayitvā) [then](tu) [with-honey](madhva) [and-so-forth](ādyaiḥ) [bathing](snapanaṃ) [one-should-conduct](nayet)
+[auspicious-day](puṇyāhaṃ) [recite](vācayitvātu) [honey-etc](madhvādyaiḥ) [bathing](snapanaṃ) [lead](nayet)
 
 ## mukta-m0-p147-v3670
-[seven-days](sapta-aham) [thus](evaṃ) [one-should-do](kuryāt) [or](vā) [two-three-seven-days](dvi-tri-saptāham) [indeed](eva) [or](vā)
+[seven-days](saptāhamevaṃ) [thus](evaṃ) [do-or](kuryādvā) [two-three](dvitri) [seven-days](saptāha) [indeed](meva) [or](vā)
 
 ## mukta-m0-p147-v3671
-[with-earth-oil-stone-blood](mṛt-taila-aśma-asṛk) [and-so-forth](ādyaiḥ) [or](vā) [rain](varṣaḥ) [if](cet) [that-indeed](tat) [thus](eva) [indeed](hi)
+[clay-oil-stone-blood-etc](mṛttailāśmāsṛgādyairvā) [or](vā) [rain-if](varṣaścettadvadevahi) [likewise-indeed](tadvadevahi)
 
 ## mukta-m0-p147-v3672
-[especially](viśeṣāt) [Śiva](śivam) [having-worshipped](abhyarcya) [with-abundant-offerings](bhūri-naivedya-saṃyutam)
+[especially](viśeṣācchivamabhyarcya) [Shiva](śivamabhyarcya) [worship](abhyarcya) [abundant](bhūri) [offering](naivedya) [joined](saṃyutam)
 
 ## mukta-m0-p147-v3673
-[in-world](loke) [earth](mṛt) [and-so-forth](ādi) [rain](vṛṣṭiḥ) [if](cet) [with-milk-bathing](kṣīra-snapana-saṃyutam)
+[world](loke) [clay-etc](mṛdādi) [rain-if](vṛṣṭiścet) [milk](kṣīra) [bathing](snapana) [joined](samyutam)
 
 ## mukta-m0-p147-v3674
-[having-worshipped](saṃpūjya) [with-fragrance](gandha) [and-so-forth](pramukhaiḥ) [with-pair-of-garments](vastra-yugmena) [one-should-wrap](veṣṭayet)
+[worship](saṃpūjya) [incense](gandha) [leaders](pramukhaiḥ) [cloth-pair](vastrayugmena) [wrap](veṣṭayet)
 
 ## mukta-m0-p147-v3675
-[from-enemy-army](para-cakrāt) [danger](bhayaṃ) [to-be-known](jñeyaṃ) [for-removal-of-that-fear](tat-bhīteḥ-vinivṛttaye)
+[enemy](para) [circle-from](cakrādbhayaṃ) [fear](bhayaṃ) [known](jñeyaṃ) [that-fear-removal](tadbhītervinivṛttaye)

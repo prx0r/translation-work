@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p61-v1501
-[on-seventh-day](saptamyāṃ) [banana+oblation](kadalī+homāt) [good-fortune](saubhāgyaṃ) [obtains](labhate) [chosen-one](vṛtaḥ)
+[on-seventh-day](saptamyāṃ) [banana-homa](kadalīhomāt) [good-fortune](saubhāgyaṃ) [obtains](labhate) [chosen-one](vṛtaḥ)
 
 ## mukta-m0-p61-v1502
-[various+kinds+fruit+attainment](nānāvidha+phala+avāptim) [instructs](upadiśati) [there](tatra) [diagrams](maṇḍalān) [as-before](prāgvat)
+[various-fruit-attainment](nānāvidhaphalāvāptim) [teaches](upadiśati) [there](tatra) [circles](maṇḍalān) [as-before](prāgvat)
 
 ## mukta-m0-p61-v1503
-[one-should-offer](juhuyāt) [day+night+fierce](dina+śa+ghore) [combined+fever](sannipāta+jvare) [disease](gade)
+[should-offer](juhuyāt) [in-terrible-disease](dinaśoghore) [sannipāta-fever](sannipātajvare) [disease](gade)
 
 ## mukta-m0-p61-v1504
-[with-three](tribhir) [or](vā) [daily+night+oblation](nitya+śa+homam) [one-should-do](kuryāt) [three+sweets+combined](tri+svādu+saṃyutaiḥ)
+[or-three](tribhirvā) [daily-homa](nityaśohomaṃ) [should-do](kuryāt) [with-three-sweets](trisvādusaṃyutaiḥ)
 
 ## mukta-m0-p61-v1505
-[on-those-days](tat+dineṣu) [one-should-recite](japet) [mantra](vidyāṃ) [constantly](nityaśaḥ) [water](salilaṃ) [touching](spṛśat)
+[on-those-days](taddineṣu) [should-recite-mantra](japedvidyāṃ) [daily](nityaśaḥ) [water](salilaṃ) [touching](spṛśat)
 
 ## mukta-m0-p61-v1506
-[cooking+etc](pāka+ādyam) [also](api) [with-those-alone](taiḥ+eva) [one-should-do](kuryāt) [disease+liberation](roga+vimuktaye)
+[cooking-etc](pākādyam) [also](api) [by-those](taireva) [should-do](kuryāt) [for-disease-release](rogavimuktaye)
 
 ## mukta-m0-p61-v1507
-[flour](piṣṭaṃ) [and](ca) [target+foot+born](sādhya+pāda+uttha) [dust](rajasā) [and](ca) [combined](samanvitam)
+[paste](piṣṭaṃ) [and](ca) [from-target's-foot-dust](sādhyapādottha) [with-dust](rajasā) [and](ca) [combined](samanvitam)
 
 ## mukta-m0-p61-v1508
-[as-before](prāgvat) [having-cut](chittvā) [with-iron](ayasiḥ) [sharp](tīkṣṇaiḥ) [weapons](śastraiḥ) [effigy](puttalikāṃ) [one-should-offer](hunet)
+[as-before](prāgvat) [cutting](chittvā) [with-sharp-iron](ayasaistīkṣṇaiḥ) [weapons](śastraiḥ) [effigy](puttalikāṃ) [should-offer](hunet)
 
 ## mukta-m0-p61-v1509
-[target](sādhyaḥ) [submissive](vaśaḥ) [becomes](bhavet) [quickly](śīghram) [even](api) [far+situated](dūra+sthitaḥ) [firmly](dṛḍhaḥ)
+[target](sādhyaḥ) [subdued](vaśaḥ) [becomes](bhavet) [quickly](śīghram) [even](api) [far-standing](dūrasthitaḥ) [firm](dṛḍhaḥ)
 
 ## mukta-m0-p61-v1510
-[above](upari) [fire](agni) [having-placed](nidhāya) [here](atra) [with-mantra](vidyayā) [daily](dinaśaḥ) [one-should-offer](hunet)
+[above-fire](uparyagni) [placing](nidhāya) [here](atra) [with-mantra](vidyayā) [daily](dinaśaḥ) [should-offer](hunet)
 
 ## mukta-m0-p61-v1511
-[at-fortnight-end](pakṣa+antare) [in-three](triṣu) [births](janmasu) [thus-remainder](iti+śeṣaḥ) [in-order](kramāt) [respectively](yathākramam)
+[in-fortnight-interval](pakṣāntare) [in-three-births](triṣu janmasu) [thus-remainder](itiśeṣaḥ) [in-order](kramāt) [as-order](yathākramam)
 
 ## mukta-m0-p61-v1512
-[hundred+yojana+distance](śata+yojana+dūrāt) [even](api) [one-may-bring](ānayet) [woman](vanitāṃ) [by-force](balāt)
+[from-hundred-yojanas](śatayojanadūrāt) [even](api) [should-bring](ānayet) [woman](vanitāṃ) [by-force](balāt)
 
 ## mukta-m0-p61-v1513
-[done+life+establishment](kṛta+prāṇa+pratiṣṭhāṃ) [and](ca) [in-cremation-ground](śmaśāne) [one-should-bury](nikhanet) [at-night](niśi)
+[life-installed](kṛtaprāṇapratiṣṭāṃ) [and](ca) [in-cremation-ground](śmaśāne) [should-bury](nikhanet) [at-night](niśi)
 
 ## mukta-m0-p61-v1514
-[done+consecration](kṛta+abhiṣekaḥ) [that](tāṃ) [mantra](vidyāṃ) [one-should-recite](prajapet) [and](ca) [hundred+three](śata+trayam)
+[having-bathed](kṛtābhiṣekaḥ) [that](tāṃ) [mantra](vidyāṃ) [should-recite](prajapet) [and](ca) [three-hundred](śatatrayam)
 
 ## mukta-m0-p61-v1515
-[by-diseases](rogaiḥ) [spirit+etc+afflictions](bhūta+ādi+saṃkleśaiḥ) [destruction-goes](nāśam+eti) [certainly](suniścitam)
+[by-diseases](rogaiḥ) [by-bhūta-etc-afflictions](bhūtādisaṃkleśaiḥ) [destruction](nāśam) [goes](eti) [certain](suniścitam)
 
 ## mukta-m0-p61-v1516
-[by-afflictions](kleśaiḥ) [those](taiḥ) [he](saḥ) [freed](vinirmuktaḥ) [happy](sukhī) [lives](jīvati) [on-earth](bhūtale)
+[by-those-afflictions](kleśaiḥ taiḥ) [he](saḥ) [freed](vinirmuktaḥ) [happy](sukhī) [lives](jīvati) [on-earth](bhūtale)
 
 ## mukta-m0-p61-v1517
-[in-water+middle](toya+madhye) [having-placed](nidhāya) [this](etat) [one-should-boil](kvāthayet) [on-said-days](ukta+vāsaraiḥ)
+[in-water](toyamadhye) [placing](nidhāya) [this](etat) [should-boil](kvāthayet) [with-stated-days](uktavāsaraiḥ)
 
 ## mukta-m0-p61-v1518
-[that](tām) [indeed](eva) [in-Caṇḍikā+house](caṇḍikā+gehe) [likewise](tathā) [with-offering](bali+yutaṃ) [one-should-bury](khanet)
+[that](tām) [indeed](eva) [in-Caṇḍikā-temple](caṇḍikāgehe) [thus](tathā) [with-offering](baliyutaṃ) [should-dig](khanet)
 
 ## mukta-m0-p61-v1519
-[by-that+procedure](tat+vidhānena) [accompanied](sahitaṃ) [enemy](śatruḥ) [madness+possessed](unmāda+vān) [becomes](bhavet)
+[by-that-rite](tadvidhānena) [accompanied](sahitaṃ) [enemy](śatruḥ) [mad](unmādavān) [becomes](bhavet)
 
 ## mukta-m0-p61-v1520
-[target+constellation+tree+powder+etc](sādhya+ṛkṣa+vṛkṣa+cūrṇa+ādibhiḥ) [with-collected](samuditaiḥ)
+[target's-constellation-tree-powder-etc](sādhyarkṣavṛkṣacūrṇādibhiḥ) [combined](samuditaiḥ)
 
 ## mukta-m0-p61-v1521
-[likewise](tathā) [with-offering](bali+yutaṃ) [target+womb+offering+with](sādhya+yoni+bali+yutam)
+[thus](tathā) [with-offering](baliyutaṃ) [target's-yoni-offering](sādhyayonibaliyutam)
 
 ## mukta-m0-p61-v1522
-[practices](prayogān) [also](api) [I-shall-tell](vakṣyāmi) [with-composed+mind](samāhita+dhiyā) [listen](śṛṇu)
+[rites](prayogān) [also](api) [I-will-speak](vakṣyāmi) [with-focused-mind](samāhitadhiyā) [listen](śṛṇu)
 
 ## mukta-m0-p61-v1523
-[by-that](tena) [cells](koṣṭhāni) [are-produced](jāyante) [with-sixty-one](tu+ekaṣaṣṭyā) [hundred+three](śata+trayam)
+[by-that](tena) [compartments](koṣṭhāni) [arise](jāyante) [and](tu) [sixty-one](ekaṣaṣṭyā) [three-hundred](śatatrayam)
 
 ## mukta-m0-p61-v1524
-[forty](catvāriṃśat) [there](tatra) [remainder](śeṣaṃ) [thunderbolt+shape](vajra+ākāraṃ) [as](yathā) [may-be](bhavet)
+[forty](catvāriṃśat) [there](tatra) [remainder](śeṣaṃ) [diamond-shaped](vajrākāraṃ) [as](yathā) [becomes](bhavet)
 
 ## mukta-m0-p61-v1525
-[one-should-make](kuryāt) [remaining](śeṣāṇi) [cells](koṣṭhāni) [with-sixty-five](pañcaṣaṣṭyā) [hundred](śataṃ) [may-be](bhavet)
+[should-do](kuryāt) [remainders](śeṣāṇi) [compartments](koṣṭhāni) [sixty-five](pañcaṣaṣṭyā) [hundred](śataṃ) [becomes](bhavet)

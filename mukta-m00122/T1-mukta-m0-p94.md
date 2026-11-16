@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p94-v2326
-[with-fuel-sticks](samidbhiḥ) [one-should-offer-oblation](juhuyāt) [properly](samyak) [lord-of-weekday+worship+preceded-by](vāreśa+arcana+pūrvakam)
+[samidbhiḥ](samidbhir) [juhuyāt](juhuyāt) [samyak](samyag) [vāra-īśa-arcana-pūrvakam](vāreśārcanapūrvakam)
 
 ## mukta-m0-p94-v2327
-[with-living+without-living+forms](sa+jīva+nirjīva+rūpe) [everywhere](sarvatra) [in-others](anyeṣu) [in-disputes+also](vivādeṣu+api)
+[sa-jīva-nirjīva-rūpe](sajīvanirjīvarūpe)
 
 ## mukta-m0-p94-v2328
-[from-oblation](homāt) [declared+fruit+accomplishment](prokta+phala+siddhiḥ) [thus](iti)
+[homāt](homāt) [prokta-phala-siddhiḥ](proktaphalasiddhiriti) [iti](iti)
 
 ## mukta-m0-p94-v2329
-[by-that](tena) [of-him](asya) [victory](vijayaḥ) [may-be](bhūyāt) [by-death+even](nidhanena+api) [or](vā) [again](punaḥ)
+[tena](tenāsya) [asya](asya) [vijayaḥ](vijayobhūyāt) [bhūyāt](bhūyāt) [nidhanena](nidhanenāpi) [api](api) [vā](vā) [punaḥ](punaḥ)
 
 ## mukta-m0-p94-v2330
-[with-leaves](patraiḥ) [with-flowers](puṣpaiḥ) [with-fruits](phalaiḥ) [with-stems](kāṇḍaiḥ) [with-roots+and+also](mūlaiḥ+ca+api) [one-should-offer-oblation](hunet) [in-order](kramāt)
+[patraiḥ](patraiḥ) [puṣpaiḥ](puṣpaiḥ) [phalaiḥ](phalaiḥ) [kāṇḍaiḥ](kāṇḍaiḥ) [mūlaiḥ](mūlaiścāpi) [ca](ca) [api](api) [hunet](hunet) [kramāt](kramāt)
 
 ## mukta-m0-p94-v2331
-[enemy+direction+facing](arāti+diṅ+mukhaḥ) [having-become](bhūtvā) [in-fire-pit](kuṇḍe) [in-triangular](tryasre) [according-to-rule](vidhānataḥ)
+[arāti-diṅ-mukhaḥ](arātidiṅmukhobhūtvā) [bhūtvā](bhūtvā) [kuṇḍe](kuṇḍe) [tryasre](tryasre) [vidhānataḥ](vidhānataḥ)
 
 ## mukta-m0-p94-v2332
-[enemy](vairī) [strength+equal+even-if](bala+samaḥ+agraḥ+api) [valor+pride+endowed-with+even-if](śaurya+māna+anvitaḥ+api) [and](ca)
+[vairī](vairī) [bala-samagraḥ](balasamagropi) [api](api) [śaurya-māna-anvitaḥ](śauryamānānvito'pi) [api](api) [ca](ca)
 
 ## mukta-m0-p94-v2333
-[by-oblation](homena) [on-Monday](soma+vāre) [and](ca) [may-be](bhavet) [as-before](prāk+vat) [no](na) [doubt](saṃśayaḥ)
+[homena](homēna) [soma-vāre](somavāre) [ca](ca) [bhavet](bhavet) [prāk](prāgvanna) [na](na) [saṃśayaḥ](saṃśayaḥ)
 
 ## mukta-m0-p94-v2334
-[on-day](vāre) [of-Mars](bhaumasya) [from-oblation](havanāt) [then](tadā) [obtains](āpnoti) [very-certainly](suniścitam)
+[vāre](vāre) [bhaumasya](bhaumasya) [havanāt](havanāttadāpnoti) [tat](tat) [āpnoti](āpnoti) [su-niścitam](suniścitam)
 
 ## mukta-m0-p94-v2335
-[on-Wednesdays](budha+vāreṣu) [of-white-cow](śubhrāyāḥ) [with-calf](sa+vatsāyāḥ) [ghee+accompanied](ghṛta+anvitam)
+[budha-vāreṣu](budhavāreṣu) [śubhrāyāḥ](śubhrāyāḥ) [sa-vatsāyāḥ](savatsāyā) [ghṛta-anvitam](ghṛtānvitam)
 
 ## mukta-m0-p94-v2336
-[with-constellation+tree+fuel-sticks](nakṣatra+vṛkṣa+samidbhiḥ) [they](te) [enemies](śatravaḥ) [with-fuel-sticks](samidbhiḥ) [of-death+thus+remainder](mṛtyoḥ+iti+śeṣaḥ)
+[nakṣatra-vṛkṣa-samidbhiḥ](nakṣatravṛkṣasamidbhiḥ) [te](te) [śatravaḥ](śatravaḥ) [samidbhiḥ](samidbhiḥ) [mṛtoḥ](mṛtyoritiśeṣaḥ) [iti](iti) [śeṣaḥ](śeṣaḥ)
 
 ## mukta-m0-p94-v2337
-[by-prescribed+orders](uddiṣṭa+kramaiḥ) [with-leaf+etc.](patra+ādyaiḥ) [ending-with-root](mūla+antaiḥ) [with-five](pañcabhiḥ) [with-parts](aṅgaiḥ) [thus+meaning](iti+arthaḥ)
+[uddiṣṭa-kramaiḥ](uddiṣṭakramaiḥ) [patra-ādyaiḥ](patrādyairmūlāntaiḥ) [mūla-antaiḥ](mūlāntaiḥ) [pañcabhiḥ](pañcabhiraṅgairityarthaḥ) [aṅgaiḥ](aṅgaiḥ) [iti](iti) [arthaḥ](arthaḥ)
 
 ## mukta-m0-p94-v2338
-[by-forty-nine](ekona+pañcāśat) [by-days](dinaiḥ) [thus+meaning](iti+arthaḥ) [in-triangular](tryasre) [in-triangle+fire-pit](trikoṇa+kuṇḍe) [thus+meaning](iti+arthaḥ)
+[ekona-pañcāśat-dinaiḥ](ekonapañcāśaddinairityarthaḥ) [iti](iti) [arthaḥ](arthaḥ) [tryasre](ttyasre) [tri-koṇa-kuṇḍe](trikoṇakuṇḍe) [iti](iti) [arthaḥ](arthaḥ)
 
 ## mukta-m0-p94-v2339
-[on-Thursdays](takṣa+vāreṣu) [that](te) [birth](janma) [previously](pūrvam) [indeed](eva) [certainly](hi) [that+action](tat+kriyā)
+[takṣa-vāreṣu](takṣavāreṣu) [te](te) [janma](janma) [pūrvam](pūrvameva) [eva](eva) [hi](hi) [tat](tat) [kriyā](kriyā)
 
 ## mukta-m0-p94-v2340
-[that+that+daily-worship](tat+tat+nitya+arcanam) [that+that+lord-of-weekday+pair+worship](tat+tat+dvāreśa+dvaya+pūjanam)
+[tat-tat-nitya-arcanaṃ](tattannityārcanaṃ) [tat-tat-dvāreśa-dvaya-pūjanam](tattaddvāreśadvayapūjanam)
 
 ## mukta-m0-p94-v2341
-[quickly](śīghram) [that+fruit+accomplishment](tat+phala+saṃsiddhyai) [becomes](bhavati) [indeed](eva) [otherwise](anyathā) [otherwise](anyathā)
+[śīghraṃ](śīghraṃ) [tat-phala-saṃsiddhyai](tatphalasaṃsiddhyaibhavatyevānyathā'nyathā) [bhavati](bhavati) [eva](eva) [anyathā](anyathā) [anyathā](anyathā)
 
 ## mukta-m0-p94-v2342
-[one-should-offer-oblation](hunet) [thus](tathā) [that+fruit+attainment](tat+phala+āptiḥ) [by-those+days](tat+dinaiḥ) [may-be](syāt) [without-doubt](asaṃśayam)
+[hunet](hunettathā) [tathā](tathā) [tat-phala-āptiḥ](tatphalāptistaddinaiḥ) [tat-dinaiḥ](taddinaiḥ) [syāt](syādasaṃśayam) [a-saṃśayam](asaṃśayam)
 
 ## mukta-m0-p94-v2343
-[by-that+sprinkled](tat+siktaiḥ) [one-should-perform](vidadhīta) [thus](ittham) [by-those+days](tat+dinaiḥ) [and-that](tat+ca) [is-accomplished](siddhyati)
+[tat-siktaiḥ](tatsiktairvidadhītetthaṃ) [vidadhīta](vidadhīta) [ittham](ittham) [tat-dinaiḥ](taddinaiḥ) [tat](tat) [ca](ca) [siddhyati](siddhyati)
 
 ## mukta-m0-p94-v2344
-[from-that+day](tat+dināt) [those+fruits](tat+phalāni) [may-be](syuḥ) [thus](iti) [on-weekdays](vāreṣu) [seven](saptasu)
+[tat-dināt](taddināttatphalāni) [tat-phalāni](tatphalāni) [syuḥ](syuriti) [iti](iti) [vāreṣu](vāreṣu) [saptasu](saptasu)
 
 ## mukta-m0-p94-v2345
-[procedure](viyayam) [hear](śṛṇu) [O-goddess](deveśi) [I-tell](kathayāmi) [in-order](krameṇa) [to-you](te)
+[viyayaṃ](viyayaṃ) [śṛṇu](śṛṇu) [deveśi](deveśi) [kathayāmi](kathayāmi) [krameṇa](krameṇa) [te](te)
 
 ## mukta-m0-p94-v2346
-[that+lord-of-weekday+pair](tat+vāreśa+dvayam) [and](ca) [having-worshipped](pūjayitvā) [afterwards](paścāt) [rituals](prayogān) [one-should-perform](kuryāt) [thus](iti)
+[tat-vāreśa-dvayaṃ](tadvāreśadvayaṃ) [ca](ca) [pūjayitvā](pūjayitvā) [paścāt](paścāt) [prayogān](prayogān) [kuryāt](kuryāditi) [iti](iti)
 
 ## mukta-m0-p94-v2347
-[with-rice](śāli) [with-chickpea](caṇaka) [with-mung-bean](mudgaiḥ) [and](ca) [with-barley](yava) [with-black-gram](māṣaiḥ) [and](ca) [from-oblation](homataḥ)
+[śāli-caṇaka-mudgaiḥ](śālīcaṇakamudgaiśca) [ca](ca) [yava-māṣaiḥ](yavamāṣaiśca) [ca](ca) [homataḥ](homataḥ)
 
 ## mukta-m0-p94-v2348
-[sixth+etc.](ṣaṣṭhī+ādi) [and](ca) [ending-with-tenth](daśamī+antam) [with-goat+milk+ghee](aja+bhava+ghṛtaiḥ) [likewise](tathā)
+[ṣaṣṭhyādi](ṣaṣṭhyādi) [ca](ca) [daśamy-antam](daśamyantamajābhavaghṛtaistathā) [ajā-bhava-ghṛtaiḥ](ajābhavaghṛtaiḥ) [tathā](tathā)
 
 ## mukta-m0-p94-v2349
-[beyond-that](tat+ūrdhvam) [ending-with-fifteenth](pañcadaśī+ante) [with-all](samastaiḥ) [and](ca) [with-sesame+pair](tila+dvayaiḥ)
+[tat-ūrdhvaṃ](tadūrdhvaṃ) [pañcadaśy-ante](pañcadaśyante) [samastaiḥ](samastaiśca) [ca](ca) [tila-dvayaiḥ](tiladvayaiḥ)
 
 ## mukta-m0-p94-v2350
-[from-oblation](havanāt) [then](tadā) [obtains](avāpnoti) [which](yat) [that](asau) [fruit](phalam) [declared](īritam)
+[havanāt](havanāttadavāpnoti) [tat](tat) [avāpnoti](avāpnoti) [yat](yadāsau) [āsau](āsau) [phalam](phalam) [īritam](īritam)

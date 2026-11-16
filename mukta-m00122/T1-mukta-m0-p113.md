@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p113-v2801
-[then](tatas) [by-his-command](tadājñayā) [on-the-mound](rohe) [Bhrāmiṇī](bhrāmiṇīṃ) [Drāviṇī](drāviṇīṃ) [one-should-worship](yajet)
+[then](tataḥ) [by-that-command](tadājñayā) [rohe](rohe) [wandering](bhrāmiṇīṃ) [drāviṇīṃ](drāviṇīṃ) [should-worship](yajet)
 
 ## mukta-m0-p113-v2802
-[sun+moon](sūryyasomaṃ) [lunar-day+weekday](tithivāraṃ) [yoga+lunar-mansion+karaṇa](yogarkṣakaraṇāni) [also](api)
+[sun-moon](sūryyasomaṃ) [tithi-weekday](tithivāraṃ) [yoga-nakshatra-karana](yogarkṣakaraṇānyapi)
 
 ## mukta-m0-p113-v2803
 [tradition](sampradāyaḥ)
 
 ## mukta-m0-p113-v2804
-[space+air+fire+water+earth](vyomavāyvagnitoyakṣmā) [form-possessing](rūpiṇī) [with-śakti](śaktisaṃyutam)
+[sky-air-fire-water-earth-form](vyomavāyvagnitoyakṣmārūpiṇī) [shakti-endowed](śaktisaṃyutam)
 
 ## mukta-m0-p113-v2805
-[nose](ghrāṇān) [intellect](buddhiṃ) [and](tathā) [śakti](śaktim) [in-the-eight-petals](aṣṭapatreṣu) [one-should-worship](pūjayet)
+[nose](ghrāṇān) [intellect](buddhiṃ) [thus-shakti](tathāśaktim) [in-eight-petals](aṣṭapatreṣu) [should-worship](pūjayet)
 
 ## mukta-m0-p113-v2806
-[then](tato) [arrows](vāṇān) [bow](dhanuḥ) [noose](pāśam) [and-goad](aṅkuśañca) [on-all-sides](abhito) [one-should-worship](yajet)
+[then](tato) [arrows](vāṇān) [bow-noose](dhanuḥpāśam) [goad-and](aṅkuśañca) [around](abhitaḥ) [should-worship](yajet)
 
 ## mukta-m0-p113-v2807
-[eight-śaktis](śaktīryaṣṭvā) [then](atha) [in-their-middle](tanmadhye) [consciousness-seat](sambidāsanam) [one-should-worship](arccayet)
+[shaktis](śaktīḥ) [having-worshipped](yaṣṭvā) [then](atha) [in-their-middle](tanmadhye) [sambid-seat](sambidāsanam) [should-worship](arccayet)
 
 ## mukta-m0-p113-v2808
-[then](tatas) [by-his-command](tadājñayā) [surrounded-by-boat](potaparītaṃ) [island](dvīpam) [having-arrived](āgataḥ)
+[then](tataḥ) [by-that-command](tadājñayā) [boat-surrounded](potaparītaṃ) [island-arrived](dvīpamāgataḥ)
 
 ## mukta-m0-p113-v2809
-[while-circumambulating](parīyamāṇe) [in-the-directions](dikṣu) [these](etān) [one-should-worship](arccayet) [there](tatra) [there](tatra) [indeed](vai)
+[being-circumambulated](parīyamāṇe) [in-directions](dikṣu) [those](etān) [should-worship](arccayet) [there](tatra) [there-indeed](tatra vai)
 
 ## mukta-m0-p113-v2810
-[with-namaḥ-ending](namo'ntaiḥ) [with-names](nāmabhiḥ) [first](pūrbbaṃ) [one-should-worship](pūjayet) [with-fragrance+flowers](gandhapuṣpakaiḥ)
+[namo-ending](namo'ntair) [names](nāmabhiḥ) [first](pūrbbaṃ) [should-worship](pūjayet) [sandal-flowers](gandhapuṣpakaiḥ)
 
 ## mukta-m0-p113-v2811
-[by-the-third](tṛtīyena) [thus](iti) [meaning](arthaḥ)
+[third-thus-meaning](tṛtīyenetyarthaḥ)
 
 ## mukta-m0-p113-v2812
-[thus](evaṃ) [well-worshipped](samarccitaṃ) [of-the-goddess](devyā) [of-Lalitā](lalitāyāḥ) [dear-doing](priyaṅkaram)
+[thus](evaṃ) [well-worshipped](samarccitaṃ) [of-goddess](devyāḥ) [lalita's](lalitāyāḥ) [beloved](priyaṅkaram)
 
 ## mukta-m0-p113-v2813
-[she-is-pleased](prasīdati) [because](yatas) [therefore](tasmāt) [one-should-worship](pūjayet) [thus](evam) [O-Īśvarī](īśvari)
+[is-pleased](prasīdati) [because](yataḥ) [therefore](tasmāt) [should-worship](pūjayet) [thus](evam) [goddess](īśvari)
 
 ## mukta-m0-p113-v2814
-[with-twenty-five-syllable-root](pañcaviṃśārṇamūlena) [at-the-end-of-worship](pūjānte) [O-supreme-goddess](parameśvari)
+[with-twenty-five-syllable-root](pañcaviṃśārṇamūlena) [at-end-of-worship](pūjānte) [supreme-goddess](parameśvari)
 
 ## mukta-m0-p113-v2815
-[that](tāṃ) [hear](śṛṇu) [you](tvaṃ) [O-beloved](priye) [I-speak](vacmi) [Tārā-vidyā](tārāvidyāṃ) [ten-syllabled](daśākṣarīm)
+[her](tāṃ) [hear](śṛṇu) [you](tvaṃ) [dear](priye) [I-speak](vacmi) [tara-vidya](tārāvidyāṃ) [ten-syllabled](daśākṣarīm)
 
 ## mukta-m0-p113-v2816
-[ra+ya](rayo) [with-dharā](dharānvitaḥ) [afterwards](paścāt) [pair-of-ra+ya](rayayugmaṃ) [with-marut](marudyutam)
+[raya](rayo) [earth-endowed](dharānvitaḥ) [afterwards](paścāt) [raya-pair](rayayugmaṃ) [wind-light](marudyutam)
 
 ## mukta-m0-p113-v2817
-[sixth](ṣaṣṭhaṃ) [then-eighth](tadaṣṭamaṃ) [one-should-know](vidyāt) [with-hṛt+ambu+marut](hṛdambumarudanvitam)
+[sixth](ṣaṣṭhaṃ) [that-eighth](tadaṣṭamaṃ) [know](vidyāt) [heart-water-wind-endowed](hṛdambumarudanvitam)
 
 ## mukta-m0-p113-v2818
-[their-mantras](tanmantrā) [as](yathā) [hrīḥ śrīḥ ikṣusāgarāya namaḥ](hrīḥ śrīḥ ikṣusāgarāya namaḥ) [and-so-forth](ityādayaḥ)
+[those-mantras](tanmantrāḥ) [as](yathā) [hrīḥ śrīḥ ikṣusāgarāya namaḥ](hrīḥ śrīḥ ikṣusāgarāya namaḥ) [etc](ityādayaḥ)
 
 ## mukta-m0-p113-v2819
-[goddess](devī) [thus](iti) [ellipsis](śeṣaḥ) [O-Īśvarī](īśvarīti) [vocative-of-goddess](devīsambuddhiḥ)
+[goddess](devī) [thus-remainder](iti śeṣaḥ) [goddess-vocative](īśvarīti devīsambuddhiḥ)
 
 ## mukta-m0-p113-v2820
 [independent-worship-procedure](svatantrapūjākramam) [teaches](upadiśati)
 
 ## mukta-m0-p113-v2821
-[with-this](anayā) [to-her](asyā) [offering](valiṃ) [one-should-give](dadyāt) [with-vidyā](vidyayā) [O-supreme-goddess](parameśvari)
+[by-this](anayā) [her](asyāḥ) [offering](baliṃ) [should-give](dadyāt) [with-vidya](vidyayā) [supreme-goddess](parameśvari)
 
 ## mukta-m0-p113-v2822
-[of-her](asyās) [in-waters](toyeṣu) [everywhere](sarbbatra) [obstacle](bādho) [not](na) [will-be](bhavit) [of-remembrance](smṛteḥ)
+[her](asyāḥ) [in-waters](toyēṣu) [everywhere](sarbbatra) [obstacle](bādhaḥ) [not](na) [will-be](bhavit) [remembered](smṛteḥ)
 
 ## mukta-m0-p113-v2823
-[bearing](dadhānāṃ) [with-many-colors](bahuvarṇābhiḥ) [with-many-forms](vvahurūpābhiḥ) [surrounded](āvṛtām)
+[bearing](dadhānāṃ) [many-colored](bahuvarṇābhiḥ) [many-forms](bahu-rūpābhiḥ) [surrounded](āvṛtām)
 
 ## mukta-m0-p113-v2824
-[in-jewel-sandals](ratnapādukayoḥ) [placed-lotus-feet-pair](nyastapadāmbujayugāṃ) [one-should-meditate](smaret)
+[jeweled-footstools](ratnapādukayoḥ) [placed](nyasta) [lotus-feet-pair](padāmbujayugāṃ) [should-remember](smaret)
 
 ## mukta-m0-p113-v2825
-[with-fragrant](sugandhibhiḥ) [with-white](sitaiḥ) [with-flowers](puṣpaiḥ) [with-food+ghee](annājyābhyāṃ) [with-ghee](ghṛtena) [or](vā)
+[fragrant](sugandhibhiḥ) [white](sitaiḥ) [flowers](puṣpaiḥ) [food-ghee](annājyābhyāṃ) [or](vā) [with-ghee](ghṛtena vā)

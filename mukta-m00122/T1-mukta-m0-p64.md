@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p64-v1576
-[heroic](vīrā) [obstacle-removing](vighnaharā) [knowledge](vidyā) [thus-called](iti+uktā) [yantra's-eight-powers](yantra+aṣṭa+śaktayaḥ)
+[heroes](vīrā) [obstacle-removing](vighnaharā) [vidyā-thus-called](vidyetyuktā) [yantra-eight-powers](yantrāṣṭaśaktayaḥ)
 
 ## mukta-m0-p64-v1577
-[vow](samayā) [all-pervading](sarvagā) [accomplishment](siddhi) [thus-called](iti+uktā) [eight-triangle-powers](aṣṭāsra+śaktayaḥ)
+[convention](samayā) [all-pervading](sarvagā) [accomplishment-thus-called](siddhetyuktā) [eight-corner-powers](aṣṭāsraśaktayaḥ)
 
 ## mukta-m0-p64-v1578
-[root-goddess](mūla+devī) [same-form](sama+ākāra) [color](varṇa) [weapons](āyudha) [endowed-with](samanvitāḥ)
+[root-goddess-form-color-weapon-endowed](mūladevīsamākāravarṇāyudhasamanvitāḥ)
 
 ## mukta-m0-p64-v1579
-[sound-goddess](nādāṃ) [mind-made-goddess](manomayīṃ) [in-six](ṣaṭsu) [petals](patreṣu) [all-around](paritaḥ) [one-should-worship](arcayet)
+[sound](nādāṃ) [mind-born](manomayīṃ) [in-six](ṣaṭsu) [petals](patreṣu) [around-worship](parito'rcayet)
 
 ## mukta-m0-p64-v1580
-[in-middle](madhye) [goddess](devīṃ) [surrounded-by-weapons](heti+vṛttāṃ) [one-should-worship](pūjayet) [eighth](aṣṭamīṃ) [auspicious](śivām)
+[middle](madhye) [goddess](devīṃ) [weapon-circled](hetivṛttāṃ) [worship-eighth](pūjayedaṣṭamīṃ) [auspicious](śivām)
 
 ## mukta-m0-p64-v1581
-[even-so](tathā+api) [devotee-protection](bhakta+santrāṇa) [for-the-sake-of](hetoḥ) [fashioned](kḷptāṃ) [supreme](parāṃ) [body](tanum)
+[thus-also](tathāpi) [devotion-protection-cause](bhaktasantrāṇahetoḥ) [fashioned](kḷptāṃ) [supreme](parāṃ) [body](tanum)
 
 ## mukta-m0-p64-v1582
-[beginning-with-second-syllable](dvitīya+akṣara+ādi) [name-powers](nāma+śaktayaḥ) [indeed-having-that-form](tya+eva+vigrahavatī) [indeed-that-form](tya+eva+vigraha) [thus-the-meaning](iti+arthaḥ)
+[second-syllable-etc-named-powers](dvitīyākṣarādināmaśaktayaḥ) [thus-form-possessing](tyaivigrahavatī) [thus-form-meaning](tyaivigrahetyarthaḥ)
 
 ## mukta-m0-p64-v1583
-[in-clockwise-direction](prādakṣiṇyena)
+[clockwise](prādakṣiṇyena)
 
 ## mukta-m0-p64-v1584
-[having-crown-of-nine-gems](nava+ratna+kirīṭāṃ) [and](ca) [three-eyed](trī+kṣaṇām) [red-garmented](aruṇa+ambarām)
+[nine-gem-crown](navaratnakirīṭāṃ) [and](ca) [three-eyed](trīkṣaṇām) [red-garmented](aruṇāmbarām)
 
 ## mukta-m0-p64-v1585
-[with-pure-smile](śuci+smitām) [eight-armed](aṣṭa+bhujāṃ) [being-praised](stūyamānāṃ) [by-great-sages](mahā+ṛṣibhiḥ)
+[pure-smiling](śucismitām) [eight-armed](aṣṭabhujāṃ) [praised](stūyamānāṃ) [great-sages](maharṣibhiḥ)
 
 ## mukta-m0-p64-v1586
-[with-right-hands](dakṣiṇaiḥ) [goad](aṅkuśaṃ) [sword](khaḍgaṃ) [axe](kuṭhāraṃ) [lotus](kamalaṃ) [likewise](tathā)
+[right-goad](dakṣiṇairaṅkuṣaṃ) [sword](khaḍgaṃ) [axe](kuṭhāraṃ) [lotus](kamalaṃ) [thus](tathā)
 
 ## mukta-m0-p64-v1587
-[having-meditated-thus](dhyātvā+evam) [one-should-worship](pūjayet) [goddess](devīṃ) [messenger-goddess](dūtīṃ) [destroyer-of-misconduct](durnīti+nāśinīm)
+[meditating-thus](dhyātvaivaṃ) [worship-goddess](pūjayeddevīṃ) [messenger](dūtīṃ) [bad-conduct-destroying](durnītināśinīm)
 
 ## mukta-m0-p64-v1588
-[likewise](tathā) [six-cornered](ṣaḍ+asram) [eight-triangle](aṣṭa+asraṃ) [like-that](tadvat) [eight-petaled-lotus](aṣṭa+dala+ambujam)
+[thus](tathā) [six-corner-eight-corner](ṣaḍasramaṣṭāsraṃ) [likewise](tadvad) [eight-petaled-lotus](aṣṭadalāmbujam)
 
 ## mukta-m0-p64-v1589
-[having-invoked](āvāhya) [having-worshipped](abhyarcya) [those](tāḥ) [powers](śaktīḥ) [by-previously-stated-method](prāk+ukta+vidhinā) [situated](sthitāḥ)
+[invoking-worship](āvāhyābhyarcya) [those](tāḥ) [powers](śaktīḥ) [previously-stated-rite](prāguktavidhinā) [established](sthitāḥ)
 
 ## mukta-m0-p64-v1590
-[practice](sādhanaṃ) [and](ca) [by-stated-method](ukta+mārgeṇa) [one-should-perform](kuryāt) [one-hundred-thousand](lakṣam) [unwearied](atandritaḥ)
+[practice](sādhanaṃ) [and](ca) [said](uktam) [path](ārgeṇa) [do](kuryāt) [hundred-thousand](lakṣam) [unwearied](atandritaḥ)
 
 ## mukta-m0-p64-v1591
-[by-which](yena) [he](asau) [desired-object](vāñchitaṃ) [quickly](kṣipram) [obtains](avāpnoti) [well-ascertained](su+niścitam)
+[by-whom](yenāsau) [desired](vāñchitaṃ) [quickly](kṣipram) [obtains](avāpnoti) [certainly](suniścitam)
 
 ## mukta-m0-p64-v1592
-[destroyer-of-misconduct](durnīti+nāśinīṃ) [properly](samyak) [by-giving-discernment](viveka+pradānāt)
+[bad-conduct-destroying](durnītināśinīṃ) [properly](samyak) [discrimination-giving](vivekapradānāt)
 
 ## mukta-m0-p64-v1593
-[with-coconut-fruits](nālikera+phala+upetaiḥ) [with-jaggery](guḍaiḥ) [prosperity](lakṣmīm) [one-may-obtain](avāpnuyāt)
+[coconut-fruit-with](nālikeraphalopetair) [jaggery](guḍair) [Lakshmi-obtains](lakṣmīmavāpnuyāt)
 
 ## mukta-m0-p64-v1594
-[smeared-with-three-sweets](tri+madhu+aktaiḥ) [with-champaka-flowers](campakaiḥ) [and](ca) [with-flowers](prasūnaiḥ) [born-of-bakula](bakula+udbhavaiḥ)
+[three-honey-anointed](trimadhvaktaiś) [campaka](campakaiś) [and](ca) [flowers](prasūnair) [bakula-born](bakulodbhavaiḥ)
 
 ## mukta-m0-p64-v1595
-[born-of-punnaga](punnāga+jaiḥ) [with-offered-oblations](hutaiḥ) [garments](vastrāṇi) [with-goat-offerings](ājaiḥ) [desired-object](iṣṭam) [one-obtains](atāpnuyāt)
+[punnaga-born](punnāgajair) [offered](hutair) [clothes](vastrāṇy) [goat-born](ājair) [desired-obtains](iṣṭamatāpnuyāt)
 
 ## mukta-m0-p64-v1596
-[obtains](avāpnoti) [with-offered-oblations](hutaiḥ) [with-ghee](sājyaiḥ) [with-jewels](ratnaiḥ) [jewel](ratnaṃ) [and](ca) [practitioner](sādhakaḥ)
+[obtains](avāpnoti) [offered](hutaiḥ) [with-ghee](sājyai) [gems](ratnai) [gem](ratnaṃ) [and](ca) [practitioner](sādhakaḥ)
 
 ## mukta-m0-p64-v1597
-[in-heart-region](hṛd+deśa) [placed-name-syllables](nyasta+nāma+arṇāṃ) [one-should-cook](pacet) [in-oil-and-ghee](taila+ājyayoḥ) [at-night](niśi)
+[heart-place-deposited-name-seed](hṛddeśanyastanāmārṇāṃ) [cook](pacet) [oil-ghee](tailājyayor) [night](niśi)
 
 ## mukta-m0-p64-v1598
-[by-seven-night-practice](sapta+rātra+prayogena) [man](naraḥ) [woman](nārī) [king](nṛpaḥ) [or](atha) [or](vā)
+[seven-night-practice](saptarātraprayogena) [man](naro) [woman](nārī) [king](nṛpo) [or](atha) [or](vā)
 
 ## mukta-m0-p64-v1599
-[with-red-flowers](aruṇaiḥ) [with-hayāri-flowers](hayāri+puṣpaiḥ) [or](vā) [with-white](sitaiḥ) [one-should-offer-oblations](juhuyāt) [likewise](tathā)
+[horse-enemy-flowers](hayāripuṣpair) [red](aruṇaiḥ) [white](sitair) [or](vā) [offer](juhuyāt) [thus](tathā)
 
 ## mukta-m0-p64-v1600
-[goat-meat](chāga+māṃsaṃ) [smeared-with-three-sweets](tri+madhu+aktaiḥ) [from-oblation](homāt) [gold](svarṇam) [one-obtains](avāpnuyāt)
+[goat-meat](chāgamāṃsaṃ) [three-honey-anointed](trimadhvaktair) [offering](homāt) [gold-obtains](svarṇamavāpnuyāt)

@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p104-v2576
-at-another-time(anyadā) or(vā) also(api) to-be-done(kartavyaṃ) on-occurrence(saṃbhave) of-wealth+and-worthy-recipient(vasu+pātrayoḥ)
+[at-other-time](anyadā) [or-even](vāpi) [to-be-done](kartavyaṃ) [in-occurrence](saṃbhave) [of-two-wealth-vessels](vasupātrayoḥ)
 
 ## mukta-m0-p104-v2577
-at-night(rātrau) also(api) and(ca) to-be-done(kartavyaṃ) if(yadi) should-be(syāt) sight-of-Rāhu(rāhu+darśanam)
+[at-night](rātrāvapi) [also](ca) [to-be-done](kartavyaṃ) [if](yadi) [be](syād) [rahu-sight](rāhudarśanam)
 
 ## mukta-m0-p104-v2578
-in-Maghā(maghāsu) of-one-performing(kurvataḥ) śrāddha(śrāddhaṃ) eldest-son(jyeṣṭha+putraḥ) perishes(vinaśyati)
+[in-maghā](maghāsu) [performing](kurvataḥ) [śrāddha](śrāddhaṃ) [eldest-son](jyeṣṭhaputro) [perishes](vinaśyati)
 
 ## mukta-m0-p104-v2579
-if(yadi) one-should-perform(kuryāt) new-śrāddha(nava+śrāddham) family-destruction-causing(kula+kṣaya+karaṃ) it-would-be(bhavet)
+[if](yadi) [perform](kuryāt) [nava-śrāddha](navaśrāddham) [family-destruction](kulakṣayakaraṃ) [becomes](bhavet)
 
 ## mukta-m0-p104-v2580
-in-these(eteṣu) of-one-performing(kurvataḥ) śrāddha(śrāddhaṃ) of-the-performer(kartuḥ) death(maraṇam) one-should-declare(ādiśet)
+[in-these](eteṣu) [performing](kurvataḥ) [śrāddha](śrāddhaṃ) [of-performer](kartuḥ) [death](maraṇam) [declared](ādiśet)
 
 ## mukta-m0-p104-v2581
-of-oneself(ātmanaḥ) and(ca) for-three-births(tri+janmāni) in-twenty-fourth-lunar-mansion(caturviṃśati+bhaṃ) likewise(tathā)
+[of-self](ātmanaśca) [three-births](trijanmāni) [twenty-fourth-star](caturviṃśatibhaṃ) [also](tathā)
 
 ## mukta-m0-p104-v2582
-condemned(garhitaḥ) by-pitṛs+and-gods(pitṛ+devebhyaḥ) in-all-rites(sarva+karmasu) one-should-abandon(saṃtyajet)
+[despised](garhitaḥ) [to-pitṛ-devas](pitṛdevebhyaḥ) [in-all-rites](sarvakarmasu) [abandon](saṃtyajet)
 
 ## mukta-m0-p104-v2583
-in-Vaiśākha(vaiśākhe) of-the-bright-fortnight(śukla+pakṣasya) third(tṛtīyā) in-bright-Kārtika(śukla+kārtike)
+[in-vaiśākha](vaiśākhe) [bright-fortnight](śuklapakṣasya) [third](tṛtīyā) [bright-kārtika](śuklakārtike)
 
 ## mukta-m0-p104-v2584
-lunar-day(tithiḥ) thirteenth(trayodaśī) in-Māgha(māghe) likewise(tathā) fifteenth(pañcadaśī) is-considered(matā)
+[tithi](tithiḥ) [thirteenth](trayodaśī) [in-māgha](māghe) [also](tathā) [fifteenth](pañcadaśī) [held](matā)
 
 ## mukta-m0-p104-v2585
-at-these-times(kāleṣu) in-these(eteṣu) or(vā) one-should-give(dadyāt) water(udakaṃ) mixed-with-sesame(tila+saṃyutam)
+[in-these-times](kāleṣveteṣu) [or](vā) [give](dadyād) [water](udakaṃ) [with-sesame](tilasaṃyutam)
 
 ## mukta-m0-p104-v2586
-to-Virgo(kanyāṃ) having-gone(gate) when-the-sun(savitari) the-pitṛs(pitaraḥ) go(yānti) indeed(vai) to-the-sons(sutān)
+[daughter](kanyāṃ) [gone](gate) [sun](savitari) [pitṛs](pitaro) [go](yānti) [indeed](vai) [sons](sutān)
 
 ## mukta-m0-p104-v2587
-then(tataḥ) to-their-own-abode(sva+bhajanaṃ) they-go(yānti) curse(śāpaṃ) having-given(datvā) very-terrible(su+dāruṇam)
+[then](tataḥ) [own-worship](svabhajanaṃ) [go](yānti) [curse](śāpaṃ) [giving](datvā) [very-terrible](sudāruṇam)
 
 ## mukta-m0-p104-v2588
-when-received(upātteṣu) good-offspring(su+saṃtānaṃ) like-birds(śakunāḥ) as(iva) on-a-pippala-tree(pippale)
+[seized](upātteṣu) [well-progeny](susaṃtānaṃ) [birds](śakunā) [like](iva) [pippala](pippale)
 
 ## mukta-m0-p104-v2589
-this-one(eṣaḥ) to-us(naḥ) will-give(dāsyati) śrāddha(śrāddhaṃ) in-the-rains(varṣāsu) and(ca) in-Maghā(maghāsu) also(api)
+[this](eṣa) [us](no) [will-give](dāsyati) [śrāddha](śrāddhaṃ) [in-rains](varṣāsu) [and](ca) [in-maghās](maghāsvapi)
 
 ## mukta-m0-p104-v2590
-ekoddiṣṭa-śrāddha(ekoddiṣṭaṃ) but(tu) at-midday(madhyāhṇe) in-the-morning(prātaḥ) prosperity-occasioned(vṛddhi+nimittakam)
+[single-directed](ekoddiṣṭaṃ) [but](tu) [midday](madhyāhṛṇe) [morning](prātar) [growth](vṛddhi) [cause](nimittakam)
 
 ## mukta-m0-p104-v2591
-raw-food-śrāddha(āma+śrāddhaṃ) should-be-performed(prakartavyaṃ) in-the-forenoon(pūrvāhṇe) O-best-of-twice-born(dvija+sattamāḥ)
+[raw-śrāddha](āmaśrāddhaṃ) [to-be-performed](prakartavyaṃ) [forenoon](pūrvāhṛṇe) [best-twice-born](dvijasattamāḥ)
 
 ## mukta-m0-p104-v2592
-raw-food-śrāddha(āma+śrāddham) in-case-of-inability(aśaktau) may-be(syāt) by-śūdras-and-others(śūdra+ādyaiḥ) but(tu) always(sadā) indeed(eva) hi(hi)
+[raw-śrāddha](āmaśrāddham) [in-inability](aśaktau) [be](syāt) [by-śūdras-etc](śūdrādyaistu) [always](sadaiva) [indeed](hi)
 
 ## mukta-m0-p104-v2593
-from-those-superior-to-one's-own-caste(sva+jāti+utkarṣataḥ) to-be-accepted(grāhyāḥ) or(vā) those-born-of-one's-own-caste(sva+sva+jāti+udbhavāḥ) and(ca)
+[of-own-caste-superior](svajātyurkarṣato) [to-be-taken](grāhyāḥ) [of-own-caste-born](svasvajātyudbhavāśca) [or](vā)
 
 ## mukta-m0-p104-v2594
-not(na) a-brāhmaṇa(brāhmaṇaṃ) one-should-examine(parīkṣate) in-a-rite-for-gods(daiva+karmaṇi) the-knower-of-dharma(dharma+vit)
+[not](na) [brāhmaṇa](brāhmaṇaṃ) [examine](parīkṣate) [divine](daiva) [rite](karmaṇi) [dharma-knower](dharmavit)
 
 ## mukta-m0-p104-v2595
-to-one-devoid-of-help(upakāra+viyuktāya) given(dattaṃ) what(yat) that(tat) indeed(hi) is-sāttvika(sātvikam)
+[benefit](upakāra) [devoid](viyuktāya) [given](dattaṃ) [that](yat) [indeed](taddhi) [sātvika](sātvikam)
 
 ## mukta-m0-p104-v2596
-to-a-poor-person(dāridrāya) given(pradattaṃ) what(yat) is-sāttvika(sātvikaṃ) with-a-joyful-mind(hṛṣṭa+cetasā)
+[to-poor](dāridrāya) [given](pradattaṃ) [that](yat) [sātvika](sātvikaṃ) [glad](hṛṣṭa) [minded](cetasā)
 
 ## mukta-m0-p104-v2597
-to-a-prosperous-person(samṛddhāya) and(ca) what(yat) is-given(dattaṃ) that(tat) all(sarvaṃ) is-considered-rājasa(rājasaṃ) matam(matam)
+[to-prosperous](samṛddhāya) [and](ca) [given](yaddattaṃ) [that-all](tatsarvaṃ) [rājasa](rājasaṃ) [held](matam)
 
 ## mukta-m0-p104-v2598
-by-those-seeking-fruit(phala+arthibhiḥ) and(ca) at-night(rātrau) and(ca) that(tat) gift(dānaṃ) is-considered-rājasa(rājasaṃ) matam(matam)
+[for-fruit-seekers](phalārthibhiśca) [and](ca) [at-night](rātrau) [that-gift](taddānaṃ) [rājasa](rājasaṃ) [held](matam)
 
 ## mukta-m0-p104-v2599
-is-given(dīyate) to-a-thief(taskarāya) even(api) that(tat) gift(dānaṃ) is-remembered-as-tāmasa(tāmasaṃ) smṛtam(smṛtam)
+[given](dīyate) [to-thief](taskarāyāpi) [that-gift](taddānaṃ) [tāmasa](tāmasaṃ) [remembered](smṛtam)
 
 ## mukta-m0-p104-v2600
-to-a-servant(sevakāya) and(ca) what(yat) is-given(dattaṃ) that(tat) gift(dānaṃ) is-remembered-as-tāmasa(tāmasaṃ) smṛtam(smṛtam)
+[to-servant](sevakāya) [and](ca) [given](yaddattaṃ) [that-gift](taddānaṃ) [tāmasa](tāmasaṃ) [remembered](smṛtam)

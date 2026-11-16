@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p02-v26
-[of-somāskanda](somāskandasya) [crescent+crested](candrārdha+mauleḥ) [of-the-enemy+of-tripura](tripura+vairiṇaḥ)
+[of-somāskanda](somāskandasya) [of-crescent-crown-tripura-foe](candrārdhamaulestripuravairiṇaḥ)
 
 ## mukta-m0-p02-v27
-[of-the-beggar](bhikṣāṭanasya) [of-the-skeleton+formed](kaṅkāla+mūrteḥ) [of-the-pāśupata](pāśupatasya) [and](ca)
+[of-begging-form](bhikṣāṭanasya) [of-skull-form](kaṅkālamūrteḥ) [of-pāśupata](pāśupatasya) [and](ca)
 
 ## mukta-m0-p02-v28
-[of-the-weapons+of-śiva's-devotees](śiva+bhakta+āyudhānāṃ) [and](ca) [of-the-throne+rule](siṃhāsana+vidhiḥ) [likewise](tathā)
+[of-śiva-devotee-weapons](śivabhaktāyudhānāṃ) [and](ca) [throne-rite-thus](siṃhāsanavidhistathā)
 
 ## mukta-m0-p02-v29
-[disease+destruction](vyādhi+nāśaḥ) [king+protection](rāja+rakṣā) [of-durgā+worship+rule](durgā+pūjā+vidhiḥ) [likewise](tathā)
+[disease-destruction](vyādhināśo) [king-protection](rājarakṣā) [durgā-worship-rite-thus](durgāpūjāvidhistathā)
 
 ## mukta-m0-p02-v30
-[tying](bandhaḥ) [of-the-protective-thread](pratisarasya) [also](api) [balance+weight+procedure](tulā+bhāra+vidhānakam)
+[binding](bandhaḥ) [of-amulet-too](pratisarasyāpi) [scale-weighing-rite](tulābhāravidhānakam)
 
 ## mukta-m0-p02-v31
-[gold+land+gift](suvarṇa+bhūmi+dānaṃ) [and](ca) [wish-fulfilling-tree+gift](kalpavṛkṣa+pradānakam)
+[gold-land-gift](suvarṇabhūmidānaṃ) [and](ca) [wish-tree-gift](kalpavṛkṣapradānakam)
 
 ## mukta-m0-p02-v32
-[sesame+cow+thousand](tila+dhenu+sahasraṃ) [and](ca) [of-cows+gift+thousand](gavāṃ+dāna+sahasrakam)
+[thousand-cow-gift](tiladhenusahasraṃ) [and](ca) [thousand-cow-gift](gavāṃ) [dānasahasrakam] [gold-horse-gift?](hemāśvadānakam?)
 
 ## mukta-m0-p02-v33
-[world-guardians+group-of-eight](lokapāla+aṣṭakaṃ) [and](ca) [indeed](eva) [of-all-gifts+best](sarva+dāna+uttamaṃ) [likewise](tathā)
+[eight-world-guardians](lokapālāṣṭakaṃ) [and-indeed](caiva) [best-of-all-gifts-thus](sarvadānottamaṃ) [tathā](tathā)
 
 ## mukta-m0-p02-v34
-[grown+banyan-tree+arisen+shade+covered](pravṛddha+vaṭa+vṛkṣa+uttha+chāyā+cchanne) [very+extensive](ati+vistṛte)
+[under-great-banyan-shade-spread](pravṛddhavaṭavṛkṣotthacchāyācchanne'tivistṛte)
 
 ## mukta-m0-p02-v35
-[by-gods+dānavas+gandharvas+siddhas+vidyādharas+and-others](deva+dānava+gandharva+siddha+vidyādhara+ādibhiḥ)
+[by-gods-demons-gandharvas-siddhas-vidyādharas-etc](devadānavagandharvasiddhavidyādharādibhiḥ)
 
 ## mukta-m0-p02-v36
-[kauśika](kauśikaḥ) [kāśyapa](kāśyapaḥ) [agastya](agastyaḥ) [gautama](gautamo) [nārada](nāradaḥ) [likewise](tathā)
+[kaushika](kauśikaḥ) [kāśyapa](kāśyapo) [agastya](agastyo) [gautama](gautamo) [nārada-thus](nāradastathā)
 
 ## mukta-m0-p02-v37
-[bhṛgu](bhṛguḥ) [and](ca) [atri+bharadvāja+vasiṣṭha+and-others](atri+bharadvāja+vasiṣṭha+ādyāḥ) [great-sages](mahā+ṛṣayaḥ)
+[bhṛgu-and-atri-bharadvāja-vasiṣṭha-etc-great-sages](bhṛguścātribharadvājavasiṣṭhādyā) [maharṣis](maharṣayaḥ)
 
 ## mukta-m0-p02-v38
-[having-bowed](praṇamya) [the-two-feet](caraṇau) [of-him](tasya) [spoke](prāhuḥ) [to-the-lord](īśam) [husband+of-umā](umā+patim)
+[having-bowed](praṇamya) [feet](caraṇau) [his](tasya) [addressed-īśa-umāpati](prāhurīśamumāpatim)
 
 ## mukta-m0-p02-v39
-[creation+maintenance+concealment+dissolution+grace+maker](sṛṣṭi+sthiti+tirobhāva+laya+anugraha+kāraka)
+[creator-preserver-dissolver-grace-maker](sṛṣṭisthititirobhāvalayānugrahakāraka)
 
 ## mukta-m0-p02-v40
-[innate+bliss+mass+own+consciousness+characterized+self](sahaja+ānanda+sandoha+sva+saṃvit+lakṣaṇa+ātmaka)
+[natural-bliss-abundance-self-knowledge-distinctive-nature](sahajānandasandohasvasaṃvillakṣaṇātmaka)
 
 ## mukta-m0-p02-v41
-[direction+place+time+free-from](dik+deśa+kāla+nirmukta) [world+delight+cause](jagat+āhlāda+kāraṇa)
+[free-from-direction-place-time](digdeśakālanirmukta) [world-delight-cause](jagadāhlādakāraṇa)
 
 ## mukta-m0-p02-v42
-[for-that-purpose](tat+arthaṃ) [essential+nature](sāra+bhūtaṃ) [indeed](tu) [scripture](śāstraṃ) [from-śiva's-mouth+born](śiva+mukha+udbhavam)
+[for-that](tadarthaṃ) [essence](sārabhūtaṃ) [indeed](tu) [scripture](śāstraṃ) [from-śiva-mouth-born](śivamukhodbhavam)
 
 ## mukta-m0-p02-v43
-[thus](iti) [in-this-way](evam) [by-the-sages](ṛṣibhiḥ) [asked](pṛṣṭaḥ) [the-blessed-lord](bhagavān) [bull-bannered](vṛṣabha+dhvajaḥ)
+[thus](ityevaṃ) [by-sages](ṛṣibhiḥ) [asked](pṛṣṭo) [lord](bhagavān) [bull-bannered](vṛṣabhadhvajaḥ)
 
 ## mukta-m0-p02-v44
-[well](sādhu) [asked](pṛṣṭaṃ) [indeed](hi) [by-you](yuṣmābhiḥ) [listen](śṛṇudhvaṃ) [of-firm+vows](saṃśita+vratāḥ)
+[well](sādhu) [asked](pṛṣṭaṃ) [indeed](hi) [by-you](yuṣmābhiḥ) [listen](śṛṇudhvaṃ) [vow-observers](saṃśitavratāḥ)
 
 ## mukta-m0-p02-v45
-[descended](avatīrṇam) [this](idaṃ) [on-meru](merau) [by-praṇava+and-other+descents](praṇava+ādi+avatārakaiḥ)
+[descended](avatīrṇam) [this](idaṃ) [on-meru](merau) [by-praṇava-etc-incarnations](praṇavādyavatārakaiḥ)
 
 ## mukta-m0-p02-v46
-[thus](iti) [spoken](evam+uktāḥ) [the-sages](ṛṣayaḥ) [bowed](praṇemuḥ) [like-a-staff](daṇḍa+vat) [on-the-ground](kṣitau)
+[thus-spoken](ityevamuktā) [sages](ṛṣayaḥ) [bowed-staff-like](praṇemurdaṇḍavatkṣitau)
 
 ## mukta-m0-p02-v47
-[in-the-beginning](ādau) [was](abhūt) [twofold](dvidhā) [knowledge](jñānam) [by-qualification+difference](adhikāri+vibhedataḥ)
+[initially](ādau) [became](abhūd) [twofold](dvidhā) [knowledge](jñānam) [by-adhikāri-division](adhikārivibhedataḥ)
 
 ## mukta-m0-p02-v48
-[śiva+revealing](śiva+prakāśakaṃ) [knowledge](jñānaṃ) [śiva+knowledge](śiva+jñānaṃ) [supreme](paraṃ) [remembered](smṛtam)
+[śiva-revealing](śivaprakāśakaṃ) [knowledge](jñānaṃ) [śiva-knowledge](śivajñānaṃ) [supreme](paraṃ) [remembered](smṛtam)
 
 ## mukta-m0-p02-v49
-[just-as](yathā) [distinct](vilakṣaṇaṃ) [eye](cakṣuḥ) [in-the-night](kṣapāyāṃ) [of-man+and-owl](nṛ+biḍālayoḥ)
+[as](yathā) [distinct](vilakṣaṇaṃ) [eye](cakṣuḥ) [in-night](kṣapāyāṃ) [in-dense-dwelling](nṛbiḍālayoḥ)
 
 ## mukta-m0-p02-v50
-[worldly](laukikaṃ) [vedic](vaidikaṃ) [and](ca) [indeed](eva) [likewise](tathā) [spiritual](ādhyātmikam) [indeed](eva) [and](ca)
+[worldly](laukikaṃ) [vedic](vaidikaṃ) [and-indeed](caiva) [thus-spiritual-indeed](tathādhyātmikameva) [ca](ca)
