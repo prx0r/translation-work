@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p65-v1601
-[thousand-rays-covered](sahasrāśāvṛto) [sun](bhānuḥ) [therefore-ten-hundred-covered](tasmāddaśaśatāvṛtaḥ)
+sahasra-āśā-āvṛtaḥ bhānuḥ tasmāt daśa-śata-āvṛtaḥ
 
 ## mukta-m0-p65-v1602
-[skull-etc-with-joined](kapālādyairyutair) [broken](bhinne) [merit-doer](puṇyakṛt) [great-evil-remover](mahāghahṛt)
+kapāla-ādyaiḥ yutaiḥ bhinne puṇya-kṛt sa mahā-gha-hṛt
 
 ## mukta-m0-p65-v1603
-[truth-part](tattvabhāgaḥ) [half-fall-from](ardhavaṃpātāt) [becomes-linga](bhavelliṅgaṃ) [hundred-excess](śatādhikam)
+tattva-bhāgaḥ ardha-vaṃpātāt bhavet liṅgaṃ śata-adhikam
 
 ## mukta-m0-p65-v1604
-[line](rekhām) [scratch-on-linga](utkirayelliṅge) [excellent](uttame) [and](ca) [eight-barley](yavāṣṭakam)
+rekhām utkirayet liṅge uttame ca yava-aṣṭakam
 
 ## mukta-m0-p65-v1605
-[without-cloth](vastrahīnake)
+vastra-hīnake
 
 ## mukta-m0-p65-v1606
-[equal](samaṃ) [level](samatalaṃ) [that](tacca) [pleasing](manojñaṃ) [with-marks](lakṣaṇānvitam)
+samaṃ sama-talaṃ tat ca manojñaṃ lakṣaṇa-anvitam
 
 ## mukta-m0-p65-v1607
-[middle-thread](madhyasūtraṃ) [equal](samaṃ) [having-made](kṛtvā) [from-forehead](lalāṭād) [let-descend](avatārayet)
+madhya-sūtraṃ samaṃ kṛtvā lalāṭāt avatārayet
 
 ## mukta-m0-p65-v1608
-[for-destruction-of-all-bad-marks](sarvālakṣaṇanāśāya) [line-mark](rekhālakṣaṇam) [is-declared](ucyate)
+sarva-alakṣaṇa-nāśāya rekhā-lakṣaṇam ucyate
 
 ## mukta-m0-p65-v1609
-[fierce](caṇḍā) [wealth](lakṣmī) [good-intellect](sumedhā) [ca](ca) [jewel-line](maṇirekhā) [ten-declared](daśoditāḥ)
+caṇḍā lakṣmī sumedhā ca maṇi-rekhā daśa-uditāḥ
 
 ## mukta-m0-p65-v1610
-[and-interval](cāntaram)
+ca-antaram
 
 ## mukta-m0-p65-v1611
-[transverse-middle-stood-thread-from](tiryaṅmadhyasthitātsūtrāt) [side-thread-descent](pakṣasūtrāvatāraṇam)
+tiryak-madhya-sthitāt sūtrāt pakṣa-sūtra-avatāraṇam
 
 ## mukta-m0-p65-v1612
-[let-do](kārayet)
+kārayet
 
 ## mukta-m0-p65-v1613
-[hole](randhraḥ) [six-cornered](ṣaḍasrake)
+randhraḥ ṣaḍ-asrake
 
 ## mukta-m0-p65-v1614
-[bright-named](dīprākhyā) [mark](lakṣya) [line](rekhā) [ca](ca) [declared](gaditā) [enjoyment-liberation-giving](bhogamokṣadā)
+dīpra-ākhyā lakṣya rekhā ca gaditā bhoga-mokṣa-dā
 
 ## mukta-m0-p65-v1615
-[ninth-part](navāṃśaḥ) [half-abandoned](ardhaparityakte) [sixth-part](ṣaṣṭhe) [bhāge](bhāge) [threefold](tridhā) [made](kṛte)
+nava-aṃśaḥ ardha-parityakte ṣaṣṭhe bhāge tridhā kṛte
 
 ## mukta-m0-p65-v1616
-[barley-shaped-eye-bright](yavākārebhanetrābhā) [side-thread](pakṣasūtraṃ) [without](vinā) [becomes](bhavet)
+yava-ākāra-ibha-netra-ābhā pakṣa-sūtraṃ vinā bhavet
 
 ## mukta-m0-p65-v1617
-[abandoning-below-two-one-part](tyakttvādho) [dvyekabhāgaṃ](dvyekabhāgaṃ) [tu](tu) [two](dvau) [ca](ca) [eva](eva) [below-eightfold](adho'ṣṭadhā) [again](punaḥ)
+tyaktvā adhaḥ dvi-eka-bhāgaṃ tu dvau ca eva adhaḥ aṣṭadhā punaḥ
 
 ## mukta-m0-p65-v1618
-[abandoning-one](tyaktvaikaṃ) [rotate-thread](bhrāmayetsūtraṃ) [until-back-end-reached](yāvatpṛṣṭhāntamāśrite)
+tyaktvā ekam bhrāmayet sūtraṃ yāvat pṛṣṭha-antam āśrite
 
 ## mukta-m0-p65-v1619
-[below-two-parts](adho) [bhāgadvayaṃ](bhāgadvayaṃ) [releasing](muktvā) [union](saṅgamaḥ) [from-behind-those](pṛṣṭhatastayoḥ)
+adhaḥ bhāga-dvayaṃ muktvā saṅgamaḥ pṛṣṭhataḥ tayoḥ
 
 ## mukta-m0-p65-v1620
-[front-sage-abandoned](agre) [muniparityakte](muniparityakte) [mark](lakṣaṇaṃ) [syāt](syāt) [phaṇi-situated](phaṇisthite)
+agre muni-parityakte lakṣaṇaṃ syāt phaṇi-sthite
 
 ## mukta-m0-p65-v1621
-[six-part-above-abandoning](ṣaḍaṃśādūrdhvatastyakttvā) [hump-part](kakudbhāge) [ca](ca) [mark](lakṣaṇam)
+ṣaḍ-aṃśāt ūrdhvataḥ tyaktvā kakud-bhāge ca lakṣaṇam
 
 ## mukta-m0-p65-v1622
-[āgho](āgho) [having-left](vihāya) [two-parts](bhāgau) [dvau](dvau) [meeting](melakaṃ) [syāt](syāt) [those](tayoḥ) [always](sadā)
+āgho vihāya bhāgau dvau melakaṃ syāt tayoḥ sadā
 
 ## mukta-m0-p65-v1623
-[worship-part](pūjābhāge) [distortion-part](vikārāṃśe) [line-below](rekhādhaḥ) [seven-excluded](saptavarjite)
+pūjā-bhāge vikāra-aṃśe rekhā-adhaḥ sapta-varjite
 
 ## mukta-m0-p65-v1624
-[whose-north](yasyottare) [lotus-shaped](abjikākārā) [union](saṅgati) [back-middle](pṛṣṭhamadhyataḥ)
+yasya uttare abjikā-ākārā saṅgati pṛṣṭha-madhyataḥ
 
 ## mukta-m0-p65-v1625
-[side-thread](pakṣasūtre) [param](paraṃ) [kāryaṃ](kāryaṃ) [tad-below](tadadho) [hanging](lambanaṃ) [haret](haret)
+pakṣa-sūtre paraṃ kāryaṃ tat adhaḥ lambanaṃ haret

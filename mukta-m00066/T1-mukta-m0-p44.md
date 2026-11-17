@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p44-v1076
-[not](na) [is-obtained](prāpyate) [by-people](janaiḥ) [all](sarvaiḥ) [without-doing](akṛtvā) [evil-deed](duṣkṛtaṃ) [austerity](tapaḥ)
+[not](na) [obtained](prāpyate) [by-people](janaiḥ) [all](sarvaiḥ) [without-doing](akṛtvā) [evil](duṣkṛtaṃ) [austerity](tapaḥ)
 
 ## mukta-m0-p44-v1077
-[their](tāsāṃ) [not](na) [should-tell](kīrttayed) [faults](doṣāḥ) [not](na) [should-act](saṃcaret) [pleasant](priyaṃ) [towards-them](tāsu)
+[of-those](tāsāṃ) [not](na) [should-mention](kīrttayed) [faults](doṣā) [not](na) [in-beloved-ones](priyaṃtāsu) [should-act](saṃcaret)
 
 ## mukta-m0-p44-v1078
-[whomsoever](yāṃ) [any](kāñcid) [api](api) [having-seen](dṛṣṭvā) [tu](tu) [deity](devatām) [eva](eva) [should-regard](bhāvayet)
+[whichever](yāṃ) [any](kāñcidapi) [having-seen](dṛṣṭvā) [indeed](tu) [deity](devatām) [only](eva) [should-regard](bhāvayet)
 
 ## mukta-m0-p44-v1079
-[otherwise](anyatra) [free-will](kāmacāraḥ) [would-be](syāt) [towards-them](tāsu) [gentleness](mārdavam) [should-practice](ācaret)
+[otherwise](anyatra) [free-will](kāmacāraḥ) [may-be](syāt) [in-them](tāsu) [gentleness](mārdavam) [should-practice](ācaret)
 
 ## mukta-m0-p44-v1080
-[old-food](jīrṇabhojana) [mātreya](mātreyaḥ) [kapila](kapilaḥ) [of-living-beings](prāṇināṃ) [compassion](dayām)
+[by-old-food](jīrṇabhojena) [Maitreya](mātreyaḥ) [Kapila](kapilaḥ) [of-beings](prāṇināṃ) [compassion](dayām)
 
 ## mukta-m0-p44-v1081
-[at-sacrifice-time](yāgakāla) [even-in-separation](viyoge) [api](api) [near](nikaṭe) [them](tāṃ) [should-place](niveśayet)
+[in-sacrifice-time](yāgakāla) [even-in-separation](viyoge) [near](nikaṭe) [her](tāṃ) [should-place](niveśayet)
 
 ## mukta-m0-p44-v1082
-[without-her](tayā+vinā) [if](yadi) [should-chant](japed) [an-aṅga](anaṅgam) [adalolayā](adalolayā)
+[by-her](tayā) [without](vinā) [if](yadi) [recites](japed) [ananga](anaṃgam) [unsteady](adalolayā)
 
 ## mukta-m0-p44-v1083
-[therefore](tasmāt) [this](idaṃ) [great-sacrifice](mahāyāga) [greatness](māhātmyaṃ) [is-declared](samudīritam)
+[therefore](tasmāt) [this](idaṃ) [great-sacrifice](mahāyāga) [greatness](māhātmyaṃ) [declared](samudīritam)
 
 ## mukta-m0-p44-v1084
-[greatness](māhātmyaṃ) [ca](ca) [by-you](tvayā) [spoken](proktaṃ) [heard](śrutaṃ) [ear-nectar](śrotṛ+rasāyanam)
+[greatness](māhātmyaṃ) [and](ca) [by-you](tvayā) [spoken](proktaṃ) [heard](śrutaṃ) [ear-nectar](śrotṛrasāyanam)
 
 ## mukta-m0-p44-v1085
-[ka-upāya](ka+upāyaḥ) [maheśāna](maheśāna) [red](raktāḥ) [they](tāḥ) [indeed](khalu) [accomplished](siddhitāḥ)
+[what-means](ka-upāyaḥ) [O-Maheśāna](maheśāna) [attached](raktāḥ) [they](stāḥ) [indeed](khalu) [perfected](siddhitāḥ)
 
 ## mukta-m0-p44-v1086
-[with-devoted-ones](anuraktābhiḥ) [with-these](etābhiḥ) [work](kāryaṃ) [in-action](karmaṇi) [is-known](vidyate)
+[by-devoted-ones](anuraktābhiḥ) [these](etābhiḥ) [work](kāryaṃ) [in-action](karmaṇi) [is-known](vidyate)
 
 ## mukta-m0-p44-v1087
-[many-faults](bahudoṣa) [graha-grasped](grahagrastāḥ) [crookedness](kauṭilya) [afflicted-mind](upahatāśayāḥ)
+[seized-by-many-faults](bahudoṣagrahagrastāḥ) [minds-corrupted-by-crookedness](kauṭilyopahatāśayāḥ)
 
 ## mukta-m0-p44-v1088
-[here](atra) [means](upāyaṃ) [speak](vada) [īśāna](īśāna) [heard](śuśrūṣitam) [this](idaṃ) [mine](mama)
+[here](atra) [means](upāyaṃ) [speak](vadeśāna) [O-Īśāna](śāna) [heard](śuśrūṣitam) [this](idaṃ) [my](mama)
 
 ## mukta-m0-p44-v1089
-[women](striyaḥ) [nature](svabhāva) [fickle](capalāḥ) [many-faults](bahudoṣa) [possessing](parigrahāḥ)
+[women](striyaḥ) [nature](svabhāva) [fickle](capalāḥ) [possessors-of-many-faults](bahudoṣaparigrahāḥ)
 
 ## mukta-m0-p44-v1090
-[something](kiṃcit) [in-mind](citte) [in-mouth](mukhe) [something](kiṃcit) [something](kiṃcit) [eye](locana) [veiled](veṣṭite)
+[something](kiṃcit) [in-mind](citte) [in-mouth](mukhe) [something](kiṃcit) [something](kiṃcit) [eye](locana) [covered](veṣṭite)
 
 ## mukta-m0-p44-v1091
-[much-māyā](bahumāyā) [artful](kalāvatyaḥ) [much](bahu) [nāyaka](nāyaka) [attached](laṃpaṭāḥ)
+[skilled-in-much-illusion](bahumāyākalāvatyo) [attached-to-many-lords](bahunāyakalaṃpaṭāḥ)
 
 ## mukta-m0-p44-v1092
-[various](nānāvidhena) [mood](bhāvena) [tu](tu) [low](tucchānāṃ) [tu](tu) [doe-eyed](mṛgīdṛśām)
+[various](nānāvidhena) [mood](bhāvena) [of-lowly](tucchānāṃ) [indeed](tu) [deer-eyed](mṛgīdṛśām)
 
 ## mukta-m0-p44-v1093
-[of-man](puruṣasya) [one-mood](ekabhāvasya) [pure-crystal](śuddhasphaṭika) [resembling](sannibhaḥ)
+[of-man](puruṣasya) [single-mood](ekabhāvasya) [like-pure-crystal](śuddhasphaṭikasannibhaḥ)
 
 ## mukta-m0-p44-v1094
-[red](raktāḥ) [iva](iva) [dispassionate](viraktāḥ) [would-be](syuḥ) [dispassionate](viraktāḥ) [iva](iva) [ca](ca) [eager](utsukāḥ)
+[attached](raktāḥ) [like](iva) [detached](viraktāḥ) [may-be](syuḥ) [detached](viraktāḥ) [like](iva) [eager](cotsukāḥ)
 
 ## mukta-m0-p44-v1095
-[weapon-handed](śastrapāṇinām)
+[of-weapon-handed](śastrapāṇinām)
 
 ## mukta-m0-p44-v1096
-[not](na) [by-many-ways](bahuvidhaiḥ) [by-husband](patyā) [filled](pūritāḥ) [api](api) [anukṣaṇam](anukṣaṇam)
+[by-bent](nataiḥ) [many](bahuvidhaiḥ) [by-husband](patyā) [by-love](prītyā) [filled](pūritā) [yet-every-moment](apyanukṣaṇam)
 
 ## mukta-m0-p44-v1097
-[not](na) [by-enjoyment](bhogena) [not](na) [by-wealth](vittena) [not](na) [by-non-opposition](avirodha) [declaration](nivedanāt)
+[not](na) [by-enjoyment](bhogena) [not](na) [by-wealth](vittena) [not](na) [by-non-opposition-offering](avirodhanivedanāt)
 
 ## mukta-m0-p44-v1098
-[by-sorrow](sveduḥkhena) [are-oppressed](nipīḍyante) [happiness](sukhaṃ) [their](teṣāṃ) [constant](niraṃtaram)
+[by-sweat-sorrow](sveduḥkhena) [oppressed](nipīḍyaṃte) [happiness](sukhaṃ) [their](teṣāṃ) [endless](niraṃtaram)
 
 ## mukta-m0-p44-v1099
-[without-men](nirmānuṣe) [api](api) [forest](vipine) [placed](sthāpitāḥ) [hundred](śatam) [autumns](śaradāṃ)
+[in-uninhabited](nirmānuṣe) [forest](vipine) [placed](sthāpitāḥ) [hundred-autumns](śaradāṃśatam)
 
 ## mukta-m0-p44-v1100
-[of-women](nārīṇām) [iva](iva) [of-knowledges](vidyānāṃ) [face](mukhaṃ) [by-whom](kaiḥ) [na](na) [is-kissed](abhicuṃbitam)
+[of-women](nārīṇām) [like](iva) [of-knowledges](vidyānām) [face](mukhaṃ) [kissed-by-whom](kairnābhicuṃbitam)

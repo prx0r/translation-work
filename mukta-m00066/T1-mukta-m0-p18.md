@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p18-v426
-[anaṃgaśakti](anaṃgaśaktayoṣṭau) [tu](tu) [pūjanīya](pūjanīyāmanīṣibhiḥ)
+limbless-powers-eight indeed worship-worthy by-wise-ones
 
 ## mukta-m0-p18-v427
-[anaṃga](anaṃgamadanānaṃga) [madana](madanāturayā) [saha](saha)
+limbless-love-limbless love-afflicted with
 
 ## mukta-m0-p18-v428
-[anaṃgamālinī](anaṃgamālinī) [ca](cāṣṭau) [pūjanīya](pūjanīyā) [vidhānataḥ](vidhānataḥ)
+limbless-garlanded and-eight worship-worthy by-rite
 
 ## mukta-m0-p18-v429
-[ānaṃdacakram](ānaṃdacakramānaṃda) [kolāhala](kolāhalavivarddhanam)
+bliss-wheel-bliss uproar-increasing
 
 ## mukta-m0-p18-v430
-[taṭitprabhā](taṭitprabhā) [samullāsa](samullāsapiṃjaraiḥ) [kāmaraśmi](kāmaraśmibhiḥ)
+lightning-radiance shining-cage with-desire-rays
 
 ## mukta-m0-p18-v431
-[anaṃgaśakti](anaṃgaśakti) [saṃkṣobha](saṃkṣobhāṃ) [nāḍī](nāḍībhyogalitaṃ) [navam](navam)
+limbless-power agitation channels-from-flowing new
 
 ## mukta-m0-p18-v432
-[śṛṃgāravāhinī](śṛṃgāravāhinīpūra) [pūrṇarāgā](pūrṇarāgāṃ) [kurāruṇam](kurāruṇam)
+erotic-flow-full full-passion red-dawn
 
 ## mukta-m0-p18-v433
-[manmathadrava](manmathadrava) [saṃdoha](saṃdoha) [juṣṭa](juṣṭamarthaprabhedanaiḥ)
+love-liquid abundance enjoyed meaning-differentiation
 
 ## mukta-m0-p18-v434
-[keyaṃ](keyaṃ) [caṃdrakalā](caṃdrakalānāma) [kutra](kutra) [tiṣṭhati](tiṣṭhati) [śaṃkara](śaṃkara)
+who-this moon-digit-named where resides shankara
 
 ## mukta-m0-p18-v435
-[śṛṇu](śṛṇukāmakalānāma) [nāḍībhogāṃbuvāhinī](nāḍībhogāṃbuvāhinī)
+listen desire-digit-named channel-enjoyment-water-flowing
 
 ## mukta-m0-p18-v436
-[nāḍīcakraṃ](nāḍīcakraṃ) [samastaṃ](samastaṃ) [ca](ca) [tayā](tayā) [vyāptaṃ](vyāptaṃ) [varānane](varānane)
+channel-wheel all and by-her pervaded beautiful-faced
 
 ## mukta-m0-p18-v437
-[kāścid](kāścidānaṃdavāhinya) [eka](ekaivamalavāhinī)
+some bliss-flowing one-only impurity-flowing
 
 ## mukta-m0-p18-v438
-[aṣṭau](aṣṭaubhogāṃbuvāhinyaḥ) [tāsu](tāsu) [caṃdrakalā](caṃdrakalā) [parā](parā)
+eight enjoyment-water-flowing in-them moon-digit supreme
 
 ## mukta-m0-p18-v439
-[caṃdrarekhā](caṃdrarekhā) [caṃdravatī](caṃdravatī) [tathā](tathā) [caṃdramahodayā](caṃdramahodayā)
+moon-line moon-possessing likewise moon-great-rising
 
 ## mukta-m0-p18-v440
-[etābhogāṃbuvāhinya](etābhogāṃbuvāhinya) [svāṃśaiścaṃdrakalāśritāḥ](svāṃśaiścaṃdrakalāśritāḥ)
+these enjoyment-water-flowing by-own-parts moon-digit-supported
 
 ## mukta-m0-p18-v441
-[pradhānabhūtā](pradhānabhūtā) [vilasadvidyuddāma](vilasadvidyuddāma) [samaprabhā](samaprabhā)
+principal-being shining-lightning-garland equal-radiance
 
 ## mukta-m0-p18-v442
-[sarvanāḍīmūlabhūtaṃ](sarvanāḍīmūlabhūtaṃ) [nābhicakraṃ](nābhicakraṃ) [samāśritā](samāśritā)
+all-channels-root-being navel-wheel supported
 
 ## mukta-m0-p18-v443
-[tanmukhot](tanmukhot) [ghāṭanaṃ](ghāṭanaṃ) [loke](loke) [durlabhaṃ](durlabhaṃ) [parameśvari](parameśvari)
+that-mouth opening in-world rare supreme-goddess
 
 ## mukta-m0-p18-v444
-[dvitrāṇāmeva](dvitrāṇāmeva) [jāyeta](jāyeta) [sahasreṣvathakauliṣu](sahasreṣvathakauliṣu)
+two-three only born among-thousands then-kaulis
 
 ## mukta-m0-p18-v445
-[yasya](yasya) [liṃgesvarāseka](liṃgesvarāseka) [sakṛdvāpīhajanmani](sakṛdvāpīhajanmani)
+whose linga-lord-union once-indeed birth
 
 ## mukta-m0-p18-v446
-[anirvācyasya](anirvācyasya) [nirvāṇa](nirvāṇa) [padavīnadaviyasī](padavīnadaviyasī)
+inexpressible liberation path-incomparable
 
 ## mukta-m0-p18-v447
-[samayasya](samayasya) [parijñānādupacārasya](parijñānādupacārasya) [kalpanāt](kalpanāt)
+convention from-knowledge ritual from-imagination
 
 ## mukta-m0-p18-v448
-[kadācit](kadācit) [kvacidunmeṣaṃ](kvacidunmeṣaṃ) [mukhodghāṭanalakṣaṇam](mukhodghāṭanalakṣaṇam)
+sometimes somewhere opening mouth-opening-mark
 
 ## mukta-m0-p18-v449
-[tadarthānyevaśāstrāṇi](tadarthānyevaśāstrāṇi) [tadarthāśca](tadarthāśca) [pravṛttayaḥ](pravṛttayaḥ)
+that-purpose indeed-scriptures that-purpose and activities
 
 ## mukta-m0-p18-v450
-[tasmāccaṃdrakalānāḍyāṃ](tasmāccaṃdrakalānāḍyāṃ) [bhogāmṛtamahodadhim](bhogāmṛtamahodadhim)
+therefore moon-digit-channel enjoyment-nectar-great-ocean

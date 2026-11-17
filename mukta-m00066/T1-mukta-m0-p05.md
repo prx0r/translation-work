@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p05-v101
-[gandharva-related](gāṃdharvaḥ) [but-indeed](tu) [great](mahān) [veda-knowledge](vedaḥ) [by-Bharata-and-others](bharatādyaiḥ) [spread-out](pravistṛtaḥ)
+gāṃdharvaḥ(gandharva-veda) tu(but) mahān(great) vedo(veda) bharatādyaiḥ(by-bharata-and-others) pravistṛtaḥ(expanded)
 
 ## mukta-m0-p05-v102
-[who](yaḥ) [indeed](tu) [by-both-kinds](ubhayaprakāreṇa) [pleases](saṃtoṣayati) [good-people](sajjanāt)
+yaḥ(who) tu(but) ubhayaprakāreṇa(by-both-ways) saṃtoṣayati(pleases) sajjanāt(good-people)
 
 ## mukta-m0-p05-v103
-[mostly](prāyaḥ) [essence-of-music](saṃgītasārāṇi) [sounds](nādakāni) [are-called](pracakṣate)
+prāyaḥ(mostly) saṃgīta-sārāṇi(essence-of-music) nādakāni(sounds) pracakṣate(are-called)
 
 ## mukta-m0-p05-v104
-[from-abundance](bāhulyāt) [to-be-established](pratipādya) [may-be](syāt) [erotic-rasa](śṛṃgārorasaḥ) [bright](ujvalaḥ)
+bāhulyāt(due-to-abundance) pratipādya(to-be-explained) syāt(may-be) śṛṃgāra-rasa(eros-rasa) ujvalaḥ(bright)
 
 ## mukta-m0-p05-v105
-[by-that](tena) [from-being-colored](uparaṃjitatvāt) [or](vā) [their](teṣāṃ) [rasa](rasaḥ) [thus](iti) [tradition](smṛtiḥ)
+tena(by-that) uparaṃjitatvāt(due-to-coloring) vā(or) teṣāṃ(their) rasa(rasa) iti(thus) smṛtiḥ(tradition)
 
 ## mukta-m0-p05-v106
-[giving-favorable](sacānukūladā) [consisting-of-sight-and-touch-of-pair](catyordarśanasparśanātmakaḥ)
+sacānukūladā(with-favorable) catyor(of-two) darśana-sparśana-ātmakaḥ(consisting-of-seeing-and-touching)
 
 ## mukta-m0-p05-v107
-[that](tat) [and](ca) [kind](vidhā) [polity-science](nītiśāstram) [of-Brihaspati](bārhaspatyam) [and](ca) [of-Bhargava](bhārgavam)
+tac(that) ca(and) vidhā(twofold) nītiśāstraṃ(polity) bārhaspatyaṃ(of-brihaspati) ca(and) bhārgavam(of-bhargava)
 
 ## mukta-m0-p05-v108
-[by-six](ṣaḍbhiḥ) [qualities](guṇaiḥ) [powers](śaktibhiḥ) [and](ca) [by-three](tisṛbhiḥ) [and](ca) [also](api) [perfections](siddhibhiḥ)
+ṣaḍbhiḥ(by-six) guṇaiḥ(qualities) śaktibhiḥ(powers) catisṛbhiḥ(by-three) ca(and) api(also) siddhibhiḥ(accomplishments)
 
 ## mukta-m0-p05-v109
-[polity-science](nītiśāstram) [this](idam) [all](sarvam) [giving-wealth-prosperity-abundance](vittasaṃpatsamṛddhidam)
+nītiśāstram(polity) idaṃ(this) sarvaṃ(all) vitta-saṃpat-samṛddhi-dam(giving-wealth-prosperity-abundance)
 
 ## mukta-m0-p05-v110
-[third](tṛtīya) [human-goal](puruṣārthaḥ) [this](ayam) [own-bliss](svacānaṃda) [nature](svarūpakaḥ)
+tṛtīya-puruṣārthaḥ(third-purushartha) ayaṃ(this) svacānaṃda(own-bliss) svarūpakaḥ(nature)
 
 ## mukta-m0-p05-v111
-[thus](iti) [of-eighteen-sciences](aṣṭādaśavidyānām) [purport](tātparyam) [properly](samyak) [stated](īritam)
+itya(thus) aṣṭādaśa-vidyānāṃ(of-eighteen-sciences) tātparyaṃ(purport) samyag(rightly) īritam(stated)
 
 ## mukta-m0-p05-v112
-[everywhere](sarvatra) [in-science](śāstre) [liberation](mokṣaḥ) [is](asti) [its](tasya) [form](rūpam) [separately](pṛthak) [separately](pṛthak)
+sarvatra(everywhere) śāstre(in-shastra) mokṣaḥ(liberation) asti(is) tasya(its) rūpaṃ(form) pṛthak-pṛthak(separately)
 
 ## mukta-m0-p05-v113
-[if-not](nocet) [activity](pravṛttiḥ) [by-whom](kena) [would-be](syāt) [that-that](tattat) [conclusion](siddhānta) [of-those-following](vartinām)
+nocet(otherwise) pravṛttiḥ(activity) kena(by-whom) syāt(would-be) tattat(various) siddhānta(doctrine) vartinām(followers)
 
 ## mukta-m0-p05-v114
-[without-bliss](anānanda) [from-nature](svarūpatvāt) [stone-state](śilāvasthām) [mocking](viḍaṃbhayan)
+anānanda(without-bliss) svarūpatvāt(due-to-nature) śilā-vasthām(stone-state) viḍaṃbhayan(mocking)
 
 ## mukta-m0-p05-v115
-[that](tat) [from-fault](doṣāt) [own-wife](nijayoṣā) [even](api) [stone-nature](dṛṣadbhāvam) [indeed](kila) [attained](āgamat)
+tad(that) doṣāt(due-to-fault) nijayoṣā(own-wife) api(even) dṛṣad-bhāvaṃ(stonehood) kila(indeed) agamat(attained)
 
 ## mukta-m0-p05-v116
-[that](saḥ) [indeed](eva) [liberation](mokṣaḥ) [no-other](nānyaḥ) [is](asti) [suffering-form](duḥkhākāra) [devoid](vivarjitaḥ)
+sa(that) eva(indeed) mokṣaḥ(liberation) na-anyaḥ(no-other) asti(is) duḥkha-ākāra-vivarjitaḥ(devoid-of-suffering-form)
 
 ## mukta-m0-p05-v117
-[bliss-lord](ānaṃdanātha) [in-linga](liṃgastham) [having-established](adhikṛtya) [proceeds](pravartate)
+ānandanātha(anandanatha) liṃga-stham(situated-in-linga) adhikṛtya(having-made-subject) pravartate(proceeds)
 
 ## mukta-m0-p05-v118
-[thus](iti) [in-Ananda-tantra](ānaṃdatantre) [third](tṛtīyaḥ) [chapter](paṭalaḥ)
+itya(thus) ānanda-tantre(in-ananda-tantra) tṛtīyaḥ(third) paṭalaḥ(chapter)
 
 ## mukta-m0-p05-v119
-[linga-bliss-filled](liṃgānaṃdamayaḥ) [who](yaḥ) [this](ayam) [lord](īśvaraḥ) [established](pratipāditaḥ)
+liṃga-ānanda-mayaḥ(full-of-linga-bliss) yaḥ(who) ayam(this) īśvaraḥ(lord) pratipāditaḥ(described)
 
 ## mukta-m0-p05-v120
-[some](kecit) [them](tān) [worship](pūjayanti) [indeed](eva) [mere-enjoyment](bhogamātra) [averse](parāṅmukhān)
+kecit(some) tān(them) pūjayaṃti(worship) eva(indeed) bhoga-mātra(only-enjoyment) parāṅmukhān(averse)
 
 ## mukta-m0-p05-v121
-[others](anyāni) [also](api) [attached-to-pleasure](sukhāsaktān) [bowing](ānati) [join](saṃdadhate) [in-welfare](hite)
+anyānyapi(others-too) sukha-āsaktān(attached-to-pleasure) āti? saṃdadhate(join) hite(in-welfare)
 
 ## mukta-m0-p05-v122
-[foolish-actions](mūrkhapravṛttayaḥ) [some](kecit) [good-and-bad](hitāhita) [averse](parāṅmukhāḥ)
+mūrkha-pravṛttayaḥ(foolish-tendencies) kecit(some) hita-ahita(good-and-bad) parāṅmukhāḥ(indifferent)
 
 ## mukta-m0-p05-v123
-[destruction](vināśam) [indeed](eva) [go](gacchanti) [blaming](niṃdataḥ) [lord](īśvaram)
+vināśam(destruction) eva(indeed) gacchaṃti(go) niṃdato-laiṃgam-īśvaram(blaming-linga-lord)
 
 ## mukta-m0-p05-v124
-[not](na) [by-stone](aśmanā) [made](nirmitam) [goddess](devī) [not](na) [by-iron](ayasā) [not](na) [and](ca) [by-wood](dārubhiḥ)
+na(not) aśmanā(by-stone) nirmitaṃ(made) devī(goddess) na(not) ayasā(by-iron) na(not) ca(and) dārubhiḥ(by-wood)
 
 ## mukta-m0-p05-v125
-[of-elements](dhātūnām) [and](ca) [nature](svarūpam) [that](tat) [transformation](pariṇāmaḥ) [indeed](hi) [of-semen](retasaḥ)
+dhātūnāṃ(of-elements) ca(and) svarūpaṃ(nature) tat(that) pariṇāmaḥ(transformation) hi(indeed) retasaḥ(of-semen)

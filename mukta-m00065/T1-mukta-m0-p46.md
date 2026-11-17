@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p46-v1126
-[scissors](kartari) [fearless](abhaya) [bearing](bhṛd) [right](yāmye) [left](vāme) [thorn-skull-bearing](kaṇṭākapālinī)
+[kartari-abhaya-bhṛt](kartaryabhayabhṛd) [yāmye](yāmye) [vāme](vāme) [kaṇṭākapālinī](kaṇṭākapālinī)
 
 ## mukta-m0-p46-v1127
-[pestle](musalaṃ) [bearing](bibhratī) [right](yāmye) [left](somye) [fruit+sprout](phalapallavau)
+[musalaṃ](musalaṃ) [bibhratī](bibhratī) [yāmye](yāmye) [somye](somye) [ca](ca) [phala-pallavau](phalapallavau)
 
 ## mukta-m0-p46-v1128
-[fish-half](samatsya) [bearing](kārdhabhṛd) [left](vāme) [fish](matsyam) [elsewhere](anyatra) [perfumed](vāsitā)
+[samatsya](samatsya) [kārdha-bhṛd](kārdhabhṛd) [vāme](vāme) [matsyam](matsyam) [anyatra](anyatra) [vāsitā](vāsitā)
 
 ## mukta-m0-p46-v1129
-[haha-sound](hāhāravā) [white](sitā) [cruel](krūrā) [donkey-faced](rāsabhāsyā) [donkey-seated](kharāsanā)
+[hāhā-ravā](hāhāravā) [sitā](sitā) [krūrā](krūrā) [rāsabhāsyā](rāsabhāsyā) [kharānanā](kharānanā)
 
 ## mukta-m0-p46-v1130
-[left](vāme) [ink-pot](masīghaṭīṃ) [noose](pāśaṃ) [pen-staff](lekhanīdaṇḍabhṛt) [then](tataḥ)
+[vāme](vāme) [masī-ghaṭīṃ](masīghaṭīṃ) [pāśaṃ](pāśaṃ) [lekhanī-daṇḍa-bhṛt](lekhanīdaṇḍabhṛt) [tataḥ](tataḥ)
 
 ## mukta-m0-p46-v1131
-[left](vāme) [wine-vessel](samadiraṃ) [cup](pātraṃ) [bearing](bibhratī) [jackal](jambuke) [standing](sthitā)
+[vāme](vāme) [samadiraṃ](samadiraṃ) [pātraṃ](pātraṃ) [bibhratī](bibhratī) [jambuke](jambuke) [sthitā](sthitā)
 
 ## mukta-m0-p46-v1132
-[right](yāmye) [her](asyāḥ) [bell](khiṅkhirīṃ) [trident](śūlaṃ) [skull-bowl](kharparaṃ) [licking](lelihānyataḥ)
+[yāmye](yāmye) [asyāḥ](asyāḥ) [khiṅkhirīṃ](khiṅkhirīṃ) [śūlaṃ](śūlaṃ) [kharparaṃ](kharparaṃ) [lelihā](lelihā) [anyataḥ](anyataḥ)
 
 ## mukta-m0-p46-v1133
-[bearing](bibhrāṇa) [two](dvābhyāṃ) [all-knowing](sarvajñā) [preta-riding](pretagāsitā)
+[bibhrāṇa](bibhrāṇa) [ibha-arjinaṃ](ibhaarjinam) [dvābhyāṃ](dvābhyāṃ) [sarvajñā](sarvajñā) [preta-gāsitā](pretagāsitā)
 
 ## mukta-m0-p46-v1134
-[trident](śalaḍamaru) [hand](hastā) [ca](ca) [lizard-riding](godhāgā) [trembling](taralā) [dark](sitā)
+[śalaḍamaru-hastā](śalaḍamaruhastā) [ca](ca) [godhā-gā](godhāgā) [taralā-sitā](taralāsitā)
 
 ## mukta-m0-p46-v1135
-[corpse-half](śavārdhaṃ) [bearing](bibhratī) [left](saumye) [trident](śūlaṃ) [club](mugdaram) [elsewhere](anyataḥ)
+[śavārdhaṃ](śavārdhaṃ) [bibhratī](bibhratī) [saumye](saumye) [śūlaṃ](śūlaṃ) [mugdaraṃ](mugdaram) [anyataḥ](anyataḥ)
 
 ## mukta-m0-p46-v1136
-[right](dakṣiṇo) [rosary](jāpyayāmālāṃ) [ca](ca) [left](vāme) [book](pusta) [water-pot](kamaṇḍalum)
+[dakṣiṇo](dakṣiṇo) [jāpya-yāmālāṃ](jāpyayāmālāṃ) [ca](ca) [vāme](vāme) [pusta](pusta) [kamaṇḍalum](kamaṇḍalum)
 
 ## mukta-m0-p46-v1137
-[winnowing-fan](śūrpa) [skull-hand](muṇḍakarā) [right](yāmye) [elsewhere](anyatra) [night-jasmine](śephālikā) [bearing](kabhṛt)
+[śūrpa-muṇḍa-karā](śūrpamuṇḍakarā) [yāmye](yāmye) [anyatra](anyatra) [śephālikāka-bhṛt](śephālikākabhṛt)
 
 ## mukta-m0-p46-v1138
-[skull-staff](khadvāṅgaṃ) [deer](rurukaṃ) [left](saumye) [trident-torch](śūlolke) [bearing](bibhratī) [then](tataḥ)
+[khadvāṅgaṃ](khadvāṅgaṃ) [rurukaṃ](rurukaṃ) [saumye](saumye) [śūla-ulke](śūlolke) [bibhratī](bibhratī) [tataḥ](tataḥ)
 
 ## mukta-m0-p46-v1139
-[trident-darkness-skull-bearing](kaśūlāndhakakaṅkālabhṛd) [two](advayo) [cremation-ground-dwelling](ścamavāsinī)
+[kaśūla-andhaka-kaṅkāla-bhṛd](kaśūlāndhakakaṅkālabhṛd) [advayo](advayo) [ścamavāsinī](ścamavāsinī)
 
 ## mukta-m0-p46-v1140
-[left](vāme) [hand-noose](karoghadhāpāśaṃ) [bell](ghaṇṭe) [trident](śūlka) [bearing](dharānyathaḥ)
+[vāme](vāme) [karogha-dhā-pāśaṃ](karoghadhāpāśaṃ) [ghaṇṭe-śūlka-dharā](ghaṇṭeśūlkadharā) [anyathaḥ](anyathaḥ)
 
 ## mukta-m0-p46-v1141
-[conch-shield-hand-fierce](śaṅkhakheṭakahastogrā) [right](yāmye) [swastika-sword-bearing](svastikakhaḍgabhṛt)
+[śaṅkha-kheṭaka-hastā](śaṅkhakheṭakahastā) [ugrā](ugrā) [yāmye](yāmye) [svastika-khaḍga-bhṛt](svastikakhaḍgabhṛt)
 
 ## mukta-m0-p46-v1142
-[mace-banner-bearing](gadādhvajadharā) [right](yāmye) [left](vāme) [noose-skull-bearing](pāśakapālabhṛt)
+[gadā-dhvaja-dharā](gadādhvajadharā) [yāmye](yāmye) [vāme](vāme) [pāśa-kapāla-bhṛt](pāśakapālabhṛt)
 
 ## mukta-m0-p46-v1143
-[wheel-standing](cakrasthā) [wheel-dagger-bearing](cakrakaṭṭārīdhārīṇī) [right](dakṣiṇe) [hand](kare)
+[cakra-sthā](cakrasthā) [cakra-kaṭṭārī-dhārīṇī](cakra kaṭṭārīdhārīṇī) [dakṣiṇe](dakṣiṇe) [kare](kare)
 
 ## mukta-m0-p46-v1144
-[pot-noose-bearing](kumbhapāśadharā) [white](śvetā) [boar-son](kroḍaputrā) [skull-bowl](karaṅkiṇī)
+[kumbha-pāśa-dharā](kumbhapāśadharā) [śvetā](śvetā) [kroḍa-putrā](kroḍaputrā) [karaṅkiṇī](karaṅkiṇī)
 
 ## mukta-m0-p46-v1145
-[water-surrounded](jalairvṛtā) [cloud-mounted](ghanārūḍhā) [lightning-circle-ornamented](taḍinmaṇḍalamaṇḍitā)
+[jalair-vṛtā](jalairvṛtā) [ghanā-rūḍhā](ghanārūḍhā) [taḍin-maṇḍala-maṇḍitā](taḍinmaṇḍalamaṇḍitā)
 
 ## mukta-m0-p46-v1146
-[skull](kapālaṃ) [head](muṇḍam) [elsewhere](anyatra) [enemy-slayer](śatrughnāḥ) [crystal-splendor](sphaṭikatviṣaḥ)
+[kapālaṃ](kapālaṃ) [muṇḍam](muṇḍam) [anyatra](anyatra) [śatrughnāḥ](śatrughnāḥ) [sphaṭika-tviṣaḥ](sphaṭikatviṣaḥ)
 
 ## mukta-m0-p46-v1147
-[time-ear](kālakarṇī) [world-famous](jagatkhyātā) [ear](karṇe) [time-ornament](kālavibhūṣaṇā)
+[kāla-karṇī](kālakarṇī) [jagat-khyātā](jagatkhyātā) [karṇe](karṇe) [kāla-vibhūṣaṇā](kālavibhūṣaṇā)
 
 ## mukta-m0-p46-v1148
-[scissors](kartari) [fearless](abhayabhrad) [right](yāmye) [trident](śūla) [noose-bearing](pāśadharānyataḥ)
+[kartari-abhaya-bhrad](kartaryabhayabhrad) [yāmye](yāmye) [śūla](śūla) [pāśa-dharā](pāśadharā) [anyataḥ](anyataḥ)
 
 ## mukta-m0-p46-v1149
-[water-pot-kuśa-busy](kamaṇḍalukuśavyagrā) [thread-spoon-equipped](cātrasūtrasruvānvitā)
+[kamaṇḍalu-kuśa-vyagrā](kamaṇḍalukuśavyagrā) [ca](ca) [atra-sūtra-sruva-anvitā](atrasūtrasruvānvitā)
 
 ## mukta-m0-p46-v1150
-[moon-creeper](candrāvalī) [ca](ca) [golden](hemābhā) [black-deer-seat](kṛṣṇasāramṛgāsanā)
+[candrāvalī](candrāvalī) [ca](ca) [hemābhā](hemābhā) [kṛṣṇa-sāra-mṛga-āsanā](kṛṣṇasāramṛgāsanā)
