@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p54-v1326
-[time](kāla) + [wish-fulfilling-tree](kalpataruṃ) [having-bowed](natvā) [vibhūtinī](bhūtinī) + [attainment](siddhiḥ) [is-spoken](ucyate)
+[time+wish-fulfilling-tree](kāla+kalpataruṃ) [having-bowed](natvā) [Bhūtinī+accomplishment](bhūtinī+siddhiḥ) [is-declared](ucyate)
 
 ## mukta-m0-p54-v1327
-[tāriṇī](tāriṇī) [siṃhinī](siṃhinī) [and](ca) + [then](atho) [haṃsinī](haṃsinī) [and](ca) [then](tato) [naṭī](naṭī)
+[Tāriṇī](tāriṇī) [Siṃhinī](siṃhinī) [and+then](ca+atho) [Haṃsinī](haṃsinī) [and](ca) [then](tato) [Naṭī](naṭī)
 
 ## mukta-m0-p54-v1328
-[anger](krodha) + [weapon](astra) + [two](dvaya) + [name](nāma) + [at-end](ante) [bhūta](bhūta) + [vīrya](vīrya) + [three](tri) + [kūrca](kūrcataḥ)
+[anger+weapon+pair+name+at-end](krodhāstra+dvaya+nāmānte) [Bhūtavīrya+weapon+three-kūrcas+from](bhūtavīrya+astri+kūrcataḥ) [mantra-elements](mantra+aṅgāni) [are-formed](bhavanti)
 
 ## mukta-m0-p54-v1329
-[anger](krodha) + [two](dvayaṃ) [indeed](tu) [mantra](mantraḥ) + [this](ayaṃ) [of-vibhūṣiṇī](vibhūṣiṇyā) [is-declared](udāhṛtaḥ)
+[anger+pair](krodha+dvayaṃ) [indeed](tu) [mantra](mantraḥ) [this](ayam) [of-Vibhūṣiṇī](vibhūṣiṇyāḥ) [is-declared](udāhṛtaḥ)
 
 ## mukta-m0-p54-v1330
-[of-whom](yasyāḥ) [hair](keśa) + [mass](kula) + [filled](ākula) + [entire](akhila) + [earth](mahī) [mountain](śaila) + [up-to](antam) + [may-protect](ārakṣatu)
+[whose](yasyāḥ) [hair+masses+filled+entire+earth](keśa+kula+ākula+akhila+mahī) [mountain+end+may-protect](śaila+anta+mā+rakṣatu) [Vibhūṣiṇī](vibhūṣiṇī) [us](naḥ)
 
 ## mukta-m0-p54-v1331
-[should-recite](japet) + [eight-thousand](aṣṭasahasraṃ) [indeed](tu) [meditating](dhyāyan) + [one-pointed](ekāgra) + [mind](mānasaḥ)
+[should-recite](japet) [eight+thousand](aṣṭa+sahasraṃ) [indeed](tu) [meditating](dhyāyan) [one-pointed+mind](eka+agra+mānasaḥ)
 
 ## mukta-m0-p54-v1332
-[should-recite](prajapet) + [at-midnight](ardharātre) [indeed](tu) [comes](samāyāti) [vibhūṣiṇī](vibhūṣiṇī)
+[should-recite](prajapet) [at-midnight](ardha+rātre) [indeed](tu) [comes](samāyāti) [Vibhūṣiṇī](vibhūṣiṇī)
 
 ## mukta-m0-p54-v1333
 [mother](mātā) [or](vā) [sister](bhaginī) [wife](bhāryā) [satisfied](tuṣṭā) [becomes](bhavati) [desired](kāmitā)
 
 ## mukta-m0-p54-v1334
-[hundred](śata) + [eight](aṣṭa) + [retinue](parivārasya) [gives](dadāti) + [collyrium](añjana) + [ornament](bhūṣaṇam)
+[hundred+eight+retinue+to](śata+aṣṭa+parivārasya) [gives](dadāti) [collyrium+ornament](añjana+bhūṣaṇam)
 
 ## mukta-m0-p54-v1335
-[gives](dadāti) [woman](striyam) + [having-brought](ānīya) [divine](divyaṃ) [mercury](rasa) + [elixir](rasāyanam)
+[gives](dadāti) [woman](striyam) [having-brought](ānīya) [divine](divyaṃ) [mercury+elixir](rasa+rasāyanam)
 
 ## mukta-m0-p54-v1336
-[of-dīnāras](dīnārāṇāṃ) [thousand](sahasraṃ) [indeed](tu) [mercury](rasaṃ) [and](ca) + [indeed](eva) [elixir](rasāyanam)
+[of-dīnāras](dīnārāṇāṃ) [thousand](sahasraṃ) [indeed](tu) [mercury](rasaṃ) [and](ca) [also](eva) [elixir](rasāyanam)
 
 ## mukta-m0-p54-v1337
-[dhruva](dhruvam) + [māyā](āyā) + [weapon](astra) + [two](dvayataḥ) [declared](proktā) [kuṇḍaladhāriṇī](kuṇḍaladhāriṇī)
+[dhruva+māyā+weapon+pair+from](dhruva+māyā+astra+dvayataḥ) [declared](proktā) [Kuṇḍaladhāriṇī](kuṇḍaladhāriṇī)
 
 ## mukta-m0-p54-v1338
-[may-protect](pāyāt) + [kuṇḍaladhāriṇī](kuṇḍaladhāriṇī) [of-three-worlds](trijagatām) + [bliss](ānanda) + [abundance](sandoha) + [source](bhūḥ)
+[may-protect](pāyāt) [Kuṇḍaladhāriṇī](kuṇḍaladhāriṇī) [of-three-worlds](tri+jagatām) [bliss+abundance+source](ānanda+sandoha+bhūḥ)
 
 ## mukta-m0-p54-v1339
-[comes](āyāti) [with-blood](rudhireṇa) + [offering](arghyaḥ) [to-be-given](deyaḥ) + [satisfied](tuṣṭaḥ) [gives](dadāti) + [also](api)
+[comes](āyāti) [with-blood](rudhireṇa) [offering](arghyaḥ) [to-be-given](deyaḥ) [satisfied](tuṣṭaḥ) [gives](dadāti) [also](api)
 
 ## mukta-m0-p54-v1340
-[five-hundred](pañcaśata) + [days](vāsarāṇi) [three-worlds](trailokyam) + [even](api) [will-give](dāsyati)
+[five+hundred+days](pañca+śata+vāsarāṇi) [three-worlds](trailokyam) [even](api) [she-will-give](dāsyati)
 
 ## mukta-m0-p54-v1341
-[kūrca](kūrca) + [three](traya) + [weapon](astra) + [declared](saṃproktaḥ) [sindūrahāriṇī](sindūrahāriṇī) + [mantra](manuḥ)
+[kūrca+triad+weapon+declared](kūrca+traya+astra+saṃproktaḥ) [Sindūrahāriṇī+mantra](sindūrahāriṇī+manuḥ)
 
 ## mukta-m0-p54-v1342
-[may-protect](pāyād) [beloved](vallabha) + [root](mūla) + [rāhu](rāhu) + [creeper](latikā) [sindūrahāriṇī](sindūrahāriṇī) + [this](asau)
+[may-protect](pāyāt) [beloved+root+Rāhu+creeper](vallabha+mūla+rāhu+latikā) [Sindūrahāriṇī](sindūrahāriṇī) [this](asau)
 
 ## mukta-m0-p54-v1343
-[quickly](śīghram) + [comes](āyāti) + [having-come](āgatā) [she](sā) [wife](bhāryā) [becomes](bhavati) [desired](kāmitā)
+[quickly](śīghram) [comes](āyāti) [having-come](āgatā) [she](sā) [wife](bhāryā) [becomes](bhavati) [desired](kāmitā)
 
 ## mukta-m0-p54-v1344
-[protects](rakṣati) [twelve](dvādaśa) + [persons](janān) [goddess](devī) [sindūrahāriṇī](sindūrahāriṇī)
+[protects](rakṣati) [twelve+persons](dvādaśa+janān) [goddess](devī) [Sindūrahāriṇī](sindūrahāriṇī)
 
 ## mukta-m0-p54-v1345
-[anger](krodha) + [seed](bīja) + [three](trayāt) + [born](jātaḥ) [proclaimed](kīrtitaḥ) [siṃhinī](siṃhinī) + [mantra](manuḥ)
+[anger+seed+triad+from](krodha+bīja+trayāt) [born](jātaḥ) [is-declared](kīrtitaḥ) [Siṃhinī+mantra](siṃhinī+manuḥ)
 
 ## mukta-m0-p54-v1346
-[she](sā) + [this](iyaṃ) [may-protect](pātu) [all](samasta) + [heads](mastaka) + [multitude](kula) + [hanging](vyālambi) + [garland](mālā) + [adorned](ākulā)
+[she](sā) [this](iyam) [may-protect](pātu) [all+heads+multitude+hanging+garland+adorned](samasta+mastaka+kula+vyālambi+mālā+ākulā)
 
 ## mukta-m0-p54-v1347
-[then](tato) [pleased](hṛṣṭā) + [great-boon-giver](ativaradā) [siṃhinī](siṃhinī) + [comes](āyāti) [worshipped](pūjitā)
+[then](tato) [pleased](hṛṣṭā) [very+boon-giving](ati+varadā) [Siṃhinī](siṃhinī) [comes](āyāti) [worshipped](pūjitā)
 
 ## mukta-m0-p54-v1348
-[dīnāra](dīnāraṃ) [garment](vastra) + [pair](yugalaṃ) [giving](dadhad) [mercury](rasa) + [elixir](rasāyanam)
+[dīnāra](dīnāraṃ) [garment+pair](vastra+yugalaṃ) [giving](dadhat) [mercury+elixir](rasa+rasāyanam)
 
 ## mukta-m0-p54-v1349
-[three](tri) + [kūrca](kūrca) + [weapon](astraṃ) [and](ca) [declared](kathitaḥ) [haṃsinī](haṃsinī) + [mantra](manuḥ) + [supreme](uttamaḥ)
+[three-kūrcas+weapon](tri+kūrca+astraṃ) [and](ca) [is-declared](kathitaḥ) [Haṃsinī+mantra](haṃsi(nī)+manuḥ) [supreme](uttamaḥ)
 
 ## mukta-m0-p54-v1350
-[pearl](muktā) + [adorned](yukta) + [swaying](vilola) + [necklace](hāra) + [creeper](latikā) [glorious](śrī) + [haṃsinī](haṃsinī) [may-protect](pātu) [you](vaḥ)
+[pearl+strung+trembling+garland+creeper](muktā+yukta+vilola+hāra+latikā) [glorious+Haṃsinī](śrī+haṃsinī) [may-protect](pātu) [you](vaḥ)

@@ -8,14 +8,14 @@
 "tokens": [
 {
 "surface": "niyato",
-"quick_gloss": "disciplined"
+"quick_gloss": "restrained"
 },
 {
 "surface": "bhūtvā",
 "quick_gloss": "having-become"
 },
 {
-"surface": "devatā+dhyāna+tatparaḥ",
+"surface": "devatādhyānatatparaḥ",
 "quick_gloss": "deity+meditation+devoted"
 }
 ]
@@ -44,8 +44,12 @@
 "quick_gloss": "another"
 },
 {
-"surface": "vāk+patiḥ+yathā",
-"quick_gloss": "like-lord-of-speech"
+"surface": "vākpatiḥ",
+"quick_gloss": "speech-lord"
+},
+{
+"surface": "yathā",
+"quick_gloss": "as"
 }
 ]
 },
@@ -57,8 +61,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "niṣka+ardha+pāda+mānena",
-"quick_gloss": "half-niṣka+quarter-measure"
+"surface": "niṣkārdhapādamānena",
+"quick_gloss": "half-niṣka+quarter+measure"
 },
 {
 "surface": "haridrāṃ",
@@ -82,8 +86,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "su+bhakṣya+bhojyaiḥ+ca",
-"quick_gloss": "with-good-food+and-eatables"
+"surface": "subhakṣyabhojyaiḥ",
+"quick_gloss": "with-good-eatables+and-foods"
+},
+{
+"surface": "ca",
+"quick_gloss": "and"
 },
 {
 "surface": "bhojayitvā",
@@ -119,8 +127,8 @@
 "quick_gloss": "son"
 },
 {
-"surface": "sarva+lakṣaṇa+saṃyutam",
-"quick_gloss": "with-all-marks+endowed"
+"surface": "sarvalakṣaṇasaṃyutam",
+"quick_gloss": "all+marks+endowed"
 }
 ]
 },
@@ -157,8 +165,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "ṣaḍ+aṃgāni",
-"quick_gloss": "six-limbs"
+"surface": "ṣaḍaṃgāni",
+"quick_gloss": "six+limbs"
 },
 {
 "surface": "dhyānam",
@@ -182,12 +190,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "pāśa+akṣa+sūtra+daśanān+dhārayantaṃ",
-"quick_gloss": "noose+rosary+tusk+holding"
+"surface": "pāśākṣasūtradaśanān",
+"quick_gloss": "noose+rosary+tusk"
+},
+{
+"surface": "dhārayantaṃ",
+"quick_gloss": "holding"
 },
 {
 "surface": "tathā",
-"quick_gloss": "likewise"
+"quick_gloss": "and"
 },
 {
 "surface": "aṃkuśam",
@@ -203,12 +215,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "madhyāhna+āditya+saṃkāśaṃ",
+"surface": "madhyāhnādityasaṃkāśaṃ",
 "quick_gloss": "midday+sun+resembling"
 },
 {
-"surface": "cāru+śaktyā",
-"quick_gloss": "with-beautiful-śakti"
+"surface": "cāruśaktyā",
+"quick_gloss": "with-beautiful+śakti"
 },
 {
 "surface": "samanvitam",
@@ -224,8 +236,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "prathamā+āvṛttiḥ",
-"quick_gloss": "first-enclosure"
+"surface": "prathamāvṛttiḥ",
+"quick_gloss": "first+enclosure"
 },
 {
 "surface": "aṃgaiḥ",
@@ -236,8 +248,8 @@
 "quick_gloss": "should-be"
 },
 {
-"surface": "dala+ṣaṭke",
-"quick_gloss": "in-six-petals"
+"surface": "dalaṣaṭke",
+"quick_gloss": "in-petal+six"
 },
 {
 "surface": "tataḥ",
@@ -265,12 +277,12 @@
 "quick_gloss": "outside"
 },
 {
-"surface": "bhū+pure",
+"surface": "bhūpure",
 "quick_gloss": "in-ground-enclosure"
 },
 {
-"surface": "loka+pālakān",
-"quick_gloss": "world-guardians"
+"surface": "lokapālakān",
+"quick_gloss": "world+guardians"
 }
 ]
 },
@@ -290,8 +302,8 @@
 "quick_gloss": "mantra"
 },
 {
-"surface": "tat+daśāṃśaṃ",
-"quick_gloss": "its-tenth-part"
+"surface": "taddaśāṃśaṃ",
+"quick_gloss": "its+tenth-part"
 },
 {
 "surface": "samāhitaḥ",
@@ -320,7 +332,7 @@
 },
 {
 "surface": "bhavet",
-"quick_gloss": "should-be"
+"quick_gloss": "should-become"
 },
 {
 "surface": "manuḥ",
@@ -336,7 +348,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "ājya+annaiḥ",
+"surface": "ājyānnaiḥ",
 "quick_gloss": "with-ghee+rice"
 },
 {
@@ -348,8 +360,8 @@
 "quick_gloss": "daily"
 },
 {
-"surface": "anna+vān",
-"quick_gloss": "possessing-food"
+"surface": "annavān",
+"quick_gloss": "food-possessing"
 },
 {
 "surface": "vatsarāt",
@@ -406,12 +418,16 @@
 "quick_gloss": "and"
 },
 {
-"surface": "maha+iti+ukatvā",
-"quick_gloss": "having-said-maha"
+"surface": "maheti",
+"quick_gloss": "maha-iti"
 },
 {
-"surface": "ṅa+antaṃ",
-"quick_gloss": "ending-in-ṅa"
+"surface": "ukatvā",
+"quick_gloss": "having-said"
+},
+{
+"surface": "ṅentaṃ",
+"quick_gloss": "ṅ-ending"
 },
 {
 "surface": "gaṇapatiṃ",
@@ -432,15 +448,15 @@
 "tokens": [
 {
 "surface": "ākhyāto",
-"quick_gloss": "is-declared"
+"quick_gloss": "declared"
 },
 {
 "surface": "devaḥ",
 "quick_gloss": "deity"
 },
 {
-"surface": "śakti+vināyakaḥ",
-"quick_gloss": "śaktivināyaka"
+"surface": "śaktivināyakaḥ",
+"quick_gloss": "śakti+vināyaka"
 }
 ]
 },
@@ -452,12 +468,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "mantra+arṇaiḥ",
-"quick_gloss": "with-mantra-syllables"
+"surface": "mantrārṇaiḥ",
+"quick_gloss": "with-mantra+syllables"
 },
 {
-"surface": "aṅga+kḷptiḥ",
-"quick_gloss": "limb-formation"
+"surface": "aṅgakḷptiḥ",
+"quick_gloss": "limb+formation"
 },
 {
 "surface": "iha",
@@ -477,8 +493,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "padma+sṛṇī",
-"quick_gloss": "lotus-garland"
+"surface": "padmasṛṇī",
+"quick_gloss": "lotus+garland"
 },
 {
 "surface": "dadhānaṃ",
@@ -490,7 +506,7 @@
 },
 {
 "surface": "ūrdhvake",
-"quick_gloss": "upper-hand"
+"quick_gloss": "in-upper"
 }
 ]
 },
@@ -502,7 +518,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "maṇi+mayaṃ",
+"surface": "maṇimayaṃ",
 "quick_gloss": "jewel-made"
 },
 {
@@ -531,8 +547,8 @@
 "quick_gloss": "on-seat"
 },
 {
-"surface": "viri+vighneśa+vartmanā",
-"quick_gloss": "by-brahmā+gaṇeśa+path"
+"surface": "virivighneśavartmanā",
+"quick_gloss": "by-brahmā+vighneśa+path"
 }
 ]
 },
@@ -548,16 +564,16 @@
 "quick_gloss": "with-cakes"
 },
 {
-"surface": "ghṛta+saṃyuktaiḥ",
-"quick_gloss": "with-ghee+mixed"
+"surface": "ghṛtasaṃyuktaiḥ",
+"quick_gloss": "ghee+mixed"
 },
 {
-"surface": "vidhivat",
-"quick_gloss": "properly"
+"surface": "vidhivatpūjite",
+"quick_gloss": "in-properly-worshipped"
 },
 {
-"surface": "pūjita+anale",
-"quick_gloss": "in-worshipped-fire"
+"surface": "anale",
+"quick_gloss": "in-fire"
 }
 ]
 },
@@ -569,8 +585,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "siddha+manuḥ",
-"quick_gloss": "with-accomplished-mantra"
+"surface": "siddhamanuḥ",
+"quick_gloss": "accomplished+mantra"
 },
 {
 "surface": "mantrī",
@@ -610,8 +626,8 @@
 "quick_gloss": "oblation"
 },
 {
-"surface": "loka+vaśaṅkaraḥ",
-"quick_gloss": "world-subduing"
+"surface": "lokavaśaṅkaraḥ",
+"quick_gloss": "world+subduing"
 }
 ]
 },
@@ -639,8 +655,12 @@
 "quick_gloss": "oblation"
 },
 {
-"surface": "brāhmaṇānāṃ+vaśaṅkaraḥ",
+"surface": "brāhmaṇānāṃ",
 "quick_gloss": "of-brāhmaṇas+subduing"
+},
+{
+"surface": "vaśaṅkaraḥ",
+"quick_gloss": "subduing"
 }
 ]
 }
