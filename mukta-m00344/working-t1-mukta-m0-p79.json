@@ -20,11 +20,11 @@
 },
 {
 "surface": "brūyuḥ",
-"quick_gloss": "they-say"
+"quick_gloss": "they-would-say"
 },
 {
 "surface": "tadalpakam",
-"quick_gloss": "that-little"
+"quick_gloss": "that-small"
 }
 ]
 },
@@ -40,12 +40,8 @@
 "quick_gloss": "therefore"
 },
 {
-"surface": "tripurādināmnā",
-"quick_gloss": "by-names-like-tripura"
-},
-{
-"surface": "pyetadeva",
-"quick_gloss": "also-this-only"
+"surface": "tripurādināmnāpyetadeva",
+"quick_gloss": "even-by-name-Tripura-etc"
 },
 {
 "surface": "mukhyam",
@@ -78,15 +74,15 @@
 "tokens": [
 {
 "surface": "tasya",
-"quick_gloss": "of-it"
+"quick_gloss": "of-that"
 },
 {
 "surface": "bhāsyakṛtaṃ",
-"quick_gloss": "commentator's"
+"quick_gloss": "made-luminous"
 },
 {
 "surface": "bhāsakatvaṃ",
-"quick_gloss": "illumination"
+"quick_gloss": "luminosity"
 },
 {
 "surface": "ca",
@@ -114,32 +110,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "sphaṭikastha",
-"quick_gloss": "crystal-residing"
-},
-{
-"surface": "japākusuma",
-"quick_gloss": "japa-flower"
-},
-{
-"surface": "lauhityavat",
-"quick_gloss": "redness-like"
+"surface": "sphaṭikasthajapākusumalauhityavat",
+"quick_gloss": "like-redness-of-hibiscus-in-crystal"
 },
 {
 "surface": "tadapi",
 "quick_gloss": "that-too"
 },
 {
-"surface": "pratibimbātmakam",
-"quick_gloss": "reflection-nature"
-},
-{
-"surface": "eva",
-"quick_gloss": "only"
-},
-{
-"surface": "iti",
-"quick_gloss": "thus"
+"surface": "pratibimbātmakameveti",
+"quick_gloss": "only-reflection-nature"
 },
 {
 "surface": "bhāvaḥ",
@@ -163,8 +143,8 @@
 "quick_gloss": "city"
 },
 {
-"surface": "yadvat",
-"quick_gloss": "as"
+"surface": "yadvad",
+"quick_gloss": "just-as"
 },
 {
 "surface": "darpaṇāt",
@@ -172,7 +152,7 @@
 },
 {
 "surface": "nātiricyate",
-"quick_gloss": "not-exceeds"
+"quick_gloss": "not-transcends"
 }
 ]
 },
@@ -185,15 +165,19 @@
 "tokens": [
 {
 "surface": "prapañcasya",
-"quick_gloss": "of-manifestation"
+"quick_gloss": "of-world"
 },
 {
 "surface": "cidavyatiriktatvam",
-"quick_gloss": "consciousness-non-difference"
+"quick_gloss": "non-difference-from-consciousness"
 },
 {
-"surface": "ityāha",
-"quick_gloss": "thus-says"
+"surface": "iti",
+"quick_gloss": "thus"
+},
+{
+"surface": "āha",
+"quick_gloss": "says"
 },
 {
 "surface": "darpaṇa",
@@ -230,7 +214,7 @@
 },
 {
 "surface": "ekarūpiṇi",
-"quick_gloss": "one-formed"
+"quick_gloss": "of-one-form"
 }
 ]
 },
@@ -243,11 +227,11 @@
 "tokens": [
 {
 "surface": "tvanaivaṃvidhatvāt",
-"quick_gloss": "your-not-such-nature"
+"quick_gloss": "because-of-not-being-such"
 },
 {
-"surface": "darpa'nadibhinnasya",
-"quick_gloss": "mirror-etc-different"
+"surface": "darpaṇādibhinnasya",
+"quick_gloss": "of-what-differs-from-mirror-etc"
 },
 {
 "surface": "tatra",
@@ -284,7 +268,7 @@
 },
 {
 "surface": "pūrṇe",
-"quick_gloss": "complete"
+"quick_gloss": "full"
 },
 {
 "surface": "sunibiḍe",
@@ -296,11 +280,11 @@
 },
 {
 "surface": "ekarūpe",
-"quick_gloss": "one-formed"
+"quick_gloss": "one-form"
 },
 {
 "surface": "cidātmani",
-"quick_gloss": "consciousness-self"
+"quick_gloss": "in-consciousness-self"
 }
 ]
 },
@@ -320,12 +304,8 @@
 "quick_gloss": "favored"
 },
 {
-"surface": "bhaveranni",
-"quick_gloss": "you-would-be"
-},
-{
-"surface": "yuri",
-"quick_gloss": "to-be-contemplated"
+"surface": "bhaveran",
+"quick_gloss": "may-be"
 },
 {
 "surface": "iti",
@@ -333,7 +313,7 @@
 },
 {
 "surface": "dhyeyam",
-"quick_gloss": "dhyeyam"
+"quick_gloss": "to-be-meditated"
 }
 ]
 },
@@ -349,16 +329,16 @@
 "quick_gloss": "space"
 },
 {
-"surface": "tv",
-"quick_gloss": "however"
+"surface": "tu",
+"quick_gloss": "but"
 },
 {
 "surface": "avakāśātmā",
-"quick_gloss": "space-nature"
+"quick_gloss": "nature-of-openness"
 },
 {
 "surface": "śūnyarūpatvahetutaḥ",
-"quick_gloss": "emptiness-form-cause"
+"quick_gloss": "due-to-empty-form"
 }
 ]
 },
@@ -388,15 +368,15 @@
 "tokens": [
 {
 "surface": "satī",
-"quick_gloss": "existing"
+"quick_gloss": "being"
 },
 {
-"surface": "cit",
+"surface": "citiḥ",
 "quick_gloss": "consciousness"
 },
 {
-"surface": "iraśūnyātmarūpiṇī",
-"quick_gloss": "non-empty-self-formed"
+"surface": "aśūnyātmarūpiṇī",
+"quick_gloss": "of-non-empty-self-form"
 },
 {
 "surface": "ekarasā",
@@ -416,12 +396,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "sadrūpatvāt",
-"quick_gloss": "being-form"
-},
-{
-"surface": "eva",
-"quick_gloss": "eva"
+"surface": "sadrūpatvādeva",
+"quick_gloss": "due-to-true-form-only"
 },
 {
 "surface": "aśūnyātmarūpatvam",
@@ -429,11 +405,11 @@
 },
 {
 "surface": "ekarasatvaṃ",
-"quick_gloss": "one-taste"
+"quick_gloss": "one-taste-ness"
 },
 {
 "surface": "nibiḍasvarūpatā",
-"quick_gloss": "dense-own-form"
+"quick_gloss": "dense-own-nature"
 }
 ]
 },
@@ -450,7 +426,7 @@
 },
 {
 "surface": "ādarśavat",
-"quick_gloss": "mirror-like"
+"quick_gloss": "like-mirror"
 },
 {
 "surface": "saṃvit",
@@ -458,7 +434,7 @@
 },
 {
 "surface": "svātantryabharavaibhavāt",
-"quick_gloss": "by-freedom-abundance-glory"
+"quick_gloss": "from-abundance-of-freedom"
 }
 ]
 },
@@ -471,15 +447,19 @@
 "tokens": [
 {
 "surface": "svātantryabharavaibhavāt",
-"quick_gloss": "freedom-abundance-glory"
+"quick_gloss": "from-abundance-of-freedom"
 },
 {
-"surface": "ātmanyadvitīye",
-"quick_gloss": "in-self-non-second"
+"surface": "ātmani",
+"quick_gloss": "in-self"
+},
+{
+"surface": "advitīye",
+"quick_gloss": "non-dual"
 },
 {
 "surface": "avabhāsayet",
-"quick_gloss": "illuminates"
+"quick_gloss": "would-manifest"
 },
 {
 "surface": "iti",
@@ -500,7 +480,7 @@
 "tokens": [
 {
 "surface": "nimittopādānahīnaṃ",
-"quick_gloss": "cause-instrument-less"
+"quick_gloss": "devoid-of-cause-material"
 },
 {
 "surface": "dvitīyam",
@@ -508,7 +488,7 @@
 },
 {
 "surface": "aticitritam",
-"quick_gloss": "very-variegated"
+"quick_gloss": "highly-variegated"
 }
 ]
 },
@@ -521,7 +501,7 @@
 "tokens": [
 {
 "surface": "aticitritaṃ",
-"quick_gloss": "very-variegated"
+"quick_gloss": "highly-variegated"
 },
 {
 "surface": "parasparavilakṣaṇaṃ",
@@ -529,7 +509,7 @@
 },
 {
 "surface": "bhāsayet",
-"quick_gloss": "illuminates"
+"quick_gloss": "would-manifest"
 }
 ]
 },
@@ -550,15 +530,15 @@
 },
 {
 "surface": "spaṣṭam",
-"quick_gloss": "clear"
+"quick_gloss": "clearly"
 },
 {
 "surface": "aviśeṣāt",
-"quick_gloss": "from-non-distinction"
+"quick_gloss": "from-non-difference"
 },
 {
 "surface": "adūṣitam",
-"quick_gloss": "unaffected"
+"quick_gloss": "uncorrupted"
 }
 ]
 },
@@ -571,11 +551,11 @@
 "tokens": [
 {
 "surface": "darpaṇasāmānyarūpāt",
-"quick_gloss": "mirror-generality-form"
+"quick_gloss": "from-mirror-common-form"
 },
 {
 "surface": "adūṣitam",
-"quick_gloss": "unaffected"
+"quick_gloss": "uncorrupted"
 },
 {
 "surface": "abādhitam",
@@ -592,7 +572,7 @@
 "tokens": [
 {
 "surface": "anusandhānasaṃsiddham",
-"quick_gloss": "by-inquiry-accomplished"
+"quick_gloss": "accomplished-by-inquiry"
 },
 {
 "surface": "ekaṃ",
@@ -600,7 +580,7 @@
 },
 {
 "surface": "doṣavivarjjitam",
-"quick_gloss": "fault-free"
+"quick_gloss": "free-from-defects"
 }
 ]
 },
@@ -626,11 +606,11 @@
 "tokens": [
 {
 "surface": "anekavaicitryavapurapi",
-"quick_gloss": "many-variegated-body"
+"quick_gloss": "even-many-variegated-body"
 },
 {
 "surface": "caitanyamātrakam",
-"quick_gloss": "consciousness-only"
+"quick_gloss": "mere-consciousness"
 }
 ]
 },
@@ -642,12 +622,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "mṛtpiṇḍasāmmukhye",
-"quick_gloss": "clay-lump-facing"
-},
-{
-"surface": "api",
-"quick_gloss": "api"
+"surface": "mṛtpiṇḍasāmmukhye'pi",
+"quick_gloss": "even-in-presence-of-clay-lump"
 },
 {
 "surface": "darpaṇe",
@@ -655,7 +631,7 @@
 },
 {
 "surface": "ghaṭapratibimbāpatteḥ",
-"quick_gloss": "pot-reflection-occurrence"
+"quick_gloss": "occurrence-of-pot-reflection"
 }
 ]
 },
@@ -672,19 +648,23 @@
 },
 {
 "surface": "bhāve",
-"quick_gloss": "in-being"
+"quick_gloss": "in-presence"
 },
 {
 "surface": "vā",
 "quick_gloss": "or"
 },
 {
-"surface": "apyabhāve",
-"quick_gloss": "in-non-being"
+"surface": "api",
+"quick_gloss": "even"
 },
 {
-"surface": "veva",
-"quick_gloss": "eva"
+"surface": "abhāve",
+"quick_gloss": "in-absence"
+},
+{
+"surface": "eva",
+"quick_gloss": "indeed"
 },
 {
 "surface": "darpaṇaḥ",

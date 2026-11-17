@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p74-v1826
-katham tad+anuvṛttiḥ vai bhavet avitathā+ātmikā
+[katham](kathaṃ) [tadanuvrttih](tadanuvṛttirvai) [bhaved](bhaved) [avitathatmika](avitathātmikā)
 
 ## mukta-m0-p74-v1827
-bhavet iti arthaḥ
+[bhaved](bhaved) [ityarthah](ityarthaḥ)
 
 ## mukta-m0-p74-v1828
-rūpam asti sarvadā eva nirjharaiḥ bhedita ātmanām
+[rupam](rūpamasti) [sarvadaiva](sarvadaiva) [nirjharair](nirjharairbheditātmanām) [bheditatmanam](bheditātmanām)
 
 ## mukta-m0-p74-v1829
-na acalānām asti iti arthaḥ
+[nacalanam](nācalānāmastītyarthaḥ) [asti](asti) [ityarthah](ityarthaḥ)
 
 ## mukta-m0-p74-v1830
-sarvatas tu vibhidyante parvatāḥ sarvadā eva hi
+[sarvatah](sarvatastu) [vibhidyante](vibhidyante) [parvatah](parvatāḥ) [sarvadaiva](sarvadaiva) [hi](hi)
 
 ## mukta-m0-p74-v1831
-vana+gaja+ādibhiḥ
+[vanagajadibhih](vanagajādibhiḥ)
 
 ## mukta-m0-p74-v1832
-atha te sampravakṣyāmi paśya sūkṣma+dhiyā nṛpa
+[atha](atha) [te](te) [sampravaksyami](sampravakṣyāmi) [pasya](paśya) [suksmadhiya](sūkṣmadhiyā) [nrpa](nṛpa)
 
 ## mukta-m0-p74-v1833
-svāpna vaktum āha atha iti paśya vicāraya
+[svapna](svāpna) [vaktumaha](vaktumāha) [atha](atha) [pasya](paśya) [vicaraya](vicāraya)
 
 ## mukta-m0-p74-v1834
-aparicchinnā anuvṛttiḥ kāryeṣu atyanta durlabhā
+[aparicchinnanuvrttih](aparicchinnā'nuvṛttiḥ) [karyesu](kāryeṣu) [atyantadurlabha](atyantadurlabhā)
 
 ## mukta-m0-p74-v1835
-siddha jāgrat bhāvasya aparicchinnā anuvṛttiḥ durlabhā eva iti arthaḥ
+[siddhajagradbhasyaparicchinnanuvrttirdurlabhaivetyarthah](siddhajāgradbhāvasyāparicchinnānuvṛttirdurlabhaivetyarthaḥ)
 
 ## mukta-m0-p74-v1836
-iti cet kāraṇam rūpam pṛthivī ādi mayam kila
+[iti](iti) [cet](cet) [karanam](kāraṇaṃ) [rupam](rūpaṃ) [prthivyadimayam](pṛthivyādimayaṃ) [kila](kila)
 
 ## mukta-m0-p74-v1837
-kāraṇe sūkṣma rūpeṇa avasthānāt iti bhāvaḥ
+[karane](kāraṇe) [suksmarupenavasthanaditi](sūkṣmarūpeṇāvasthānāditi) [bhavah](bhāvaḥ)
 
 ## mukta-m0-p74-v1838
-atha svāpnasya bādhaḥ hi jāgrati hi anubhūyate
+[atha](atha) [svapnasya](svāpnasya) [badho](bādho) [hi](hi) [jagrati](jāgrati) [hyanubhuyate](hyanubhūyate)
 
 ## mukta-m0-p74-v1839
-svāpna bhāvānām bādhaḥ jāgrati sarvaiḥ anubhūyate iti arthaḥ
+[svapnabhavanam](svāpnabhāvānāṃ) [badho](bādho) [jagrati](jāgrati) [sarvairanubhuyata](sarvairanubhūyata) [ityarthah](ityarthaḥ)
 
 ## mukta-m0-p74-v1840
-iti cet śṛṇu vakṣyāmi bādhaḥ hi anavabhāsanam
+[iti](iti) [cecchrnu](cecchṛṇu) [vaksyami](vakṣyāmi) [badho](bādho) [hyanavabhasanam](hyanavabhāsanam)
 
 ## mukta-m0-p74-v1841
-bādhaḥ iti ucyate iti jñeyam
+[badha](bādha) [ityucyata](ityucyata) [iti](iti) [jneyam](jñeyam)
 
 ## mukta-m0-p74-v1842
-atha bādhaḥ hi apramāṇa darśanam cet tadā śṛṇu
+[atha](atha) [badho](bādho) [hyapramanadarshanam](hyapramāṇadarśanaṃ) [cettada](cettadā) [srnu](śṛṇu)
 
 ## mukta-m0-p74-v1843
-bādhaḥ na hi evamvidha bādhaḥ jāgrati asti iti bhāvaḥ
+[bhada](bhādaḥ) [nahyevamvidhabadho](nahyevaṃvidhabādho) [jagrati](jāgratyastīti) [bhavah](bhāvaḥ)
 
 ## mukta-m0-p74-v1844
-jñāta vijñeya tattvānām apramāṇa dṛśiḥ sphuṭā
+[jnatavijneyatatvanamapramanadrshih](jñātavijñeyatatvānāmapramāṇadṛśiḥ) [sphuta](sphuṭā)
 
 ## mukta-m0-p74-v1845
-cetarat iti nītyā jñāta vijñeya tattvānām jāgrati sphuṭā apramāṇa dṛśiḥ
+[cetarat](cetarat) [iti](iti) [nitya](nītyā) [jnatavijneyatattvanam](jñātavijñeyatattvānāṃ) [jagrati](jāgrati) [sphutaapramanadrshih](sphuṭā'pramāṇadṛśiḥ)
 
 ## mukta-m0-p74-v1846
-dīrgha kālaḥ api ca svapne bhāsate nirviśeṣataḥ
+[dirghakalo](dīrghakālo'pi) [ca](ca) [svapne](svapne) [bhasate](bhāsate) [nirvisesatah](nirviśeṣataḥ)
 
 ## mukta-m0-p74-v1847
-nirviśeṣataḥ iti jāgrat kāla vat aviśeṣāt bhāsate iti arthaḥ
+[nirvisesata](nirviśeṣata) [iti](iti) [jagratakalavadaviseshad](jāgratkālavadaviśeṣād) [bhasata](bhāsata) [ityarthah](ityarthaḥ)
 
 ## mukta-m0-p74-v1848
-svāpna bhāvaḥ tena tulyaḥ jāgrat bhāvaḥ api sarvaśaḥ
+[svapnabhavastena](svāpnabhāvastena) [tulyo](tulyo) [jagrabhavo](jāgrabhāvo'pi) [sarvasah](sarvaśaḥ)
 
 ## mukta-m0-p74-v1849
-sattvāt svāpna jāgrat bhāvayoḥ sarva aṃśena tulyatvam iti bhāvaḥ
+[sattvat](sattvāt) [svapnajagradbhavayoh](svāpnajāgradbhāvayoḥ) [sarvamsena](sarvāṃśena) [tulyatvamiti](tulyatvamiti) [bhavah](bhāvaḥ)
 
 ## mukta-m0-p74-v1850
-svapne api jāgaratvam tu gṛhītam tadvat eva hi
+[svapne](svapne'pi) [jagaratvam](jāgaratvaṃ) [tu](tu) [grhitam](gṛhītaṃ) [tadvadeva](tadvadeva) [hi](hi)

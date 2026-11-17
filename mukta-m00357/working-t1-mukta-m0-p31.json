@@ -8,7 +8,7 @@
 "tokens": [
 {
 "surface": "syuste'bhivādyāḥ",
-"quick_gloss": "they-are+they+to-be-saluted+indeed"
+"quick_gloss": "they-are-to-be-saluted"
 }
 ]
 },
@@ -20,16 +20,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "aiśvaradharmavantaśca",
-"quick_gloss": "aiśvara-dharma+possessing+and+they"
+"surface": "aiśvaradharmavantaḥ",
+"quick_gloss": "divine-law-possessing"
+},
+{
+"surface": "ca",
+"quick_gloss": "and"
 },
 {
 "surface": "ye",
-"quick_gloss": "they+to-be-saluted"
+"quick_gloss": "who"
 },
 {
 "surface": "syuste'bhivādyāḥ",
-"quick_gloss": "they+to-be-saluted"
+"quick_gloss": "they-are-to-be-saluted"
 }
 ]
 },
@@ -42,19 +46,19 @@
 "tokens": [
 {
 "surface": "atha",
-"quick_gloss": "then+right+left+northern-path"
+"quick_gloss": "then"
 },
 {
 "surface": "dakṣavāmottaramārgiṇaḥ",
-"quick_gloss": "dakṣa+vāma+uttara+mārga+going"
+"quick_gloss": "right-left-northern-path-goers"
 },
 {
-"surface": "parasparamabhivādyā",
-"quick_gloss": "mutually+to-be-saluted"
+"surface": "parasparamabhivādyāḥ",
+"quick_gloss": "mutually-to-be-saluted"
 },
 {
 "surface": "ityeke",
-"quick_gloss": "thus+some"
+"quick_gloss": "thus-some"
 }
 ]
 },
@@ -67,15 +71,15 @@
 "tokens": [
 {
 "surface": "dakṣavāmottaramārgiṇaḥ",
-"quick_gloss": "right+left+northern-path+going"
+"quick_gloss": "right-left-northern-path-goers"
 },
 {
-"surface": "parasparamanabhivādyā",
-"quick_gloss": "mutually+not+to-be-saluted"
+"surface": "parasparamanabhivādyāḥ",
+"quick_gloss": "mutually-not-to-be-saluted"
 },
 {
 "surface": "ityeke",
-"quick_gloss": "thus+some"
+"quick_gloss": "thus-some"
 }
 ]
 },
@@ -88,11 +92,27 @@
 "tokens": [
 {
 "surface": "mārge",
-"quick_gloss": "path+former+than+higher"
+"quick_gloss": "on-the-path"
+},
+{
+"surface": "pūrvasmāt",
+"quick_gloss": "than-the-previous"
+},
+{
+"surface": "uttaraḥ",
+"quick_gloss": "northern"
+},
+{
+"surface": "jyāyaḥ",
+"quick_gloss": "greater"
+},
+{
+"surface": "iti",
+"quick_gloss": "thus"
 },
 {
 "surface": "smaśānanilayaḥ",
-"quick_gloss": "iti+smaśāna+dwelling"
+"quick_gloss": "cremation-ground-dweller"
 }
 ]
 },
@@ -105,7 +125,7 @@
 "tokens": [
 {
 "surface": "syuste'bhivādyāḥ",
-"quick_gloss": "they+to-be-saluted+indeed"
+"quick_gloss": "they-are-to-be-saluted"
 }
 ]
 },
@@ -118,11 +138,11 @@
 "tokens": [
 {
 "surface": "kṣatraiḥ",
-"quick_gloss": "kṣatriya+by+kṣatriyas"
+"quick_gloss": "by-kshatriyas"
 },
 {
 "surface": "kṣatrāḥ",
-"quick_gloss": "kṣatriyas"
+"quick_gloss": "kshatriyas"
 }
 ]
 },
@@ -134,20 +154,24 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "vaiśyairvaiśyā",
-"quick_gloss": "vaiśya+by+vaiśyas"
+"surface": "vaiśyaiḥ",
+"quick_gloss": "by-vaishyas"
 },
 {
-"surface": "dhanajyeṣṭhā",
-"quick_gloss": "wealth+elder+those"
+"surface": "vaiśyāḥ",
+"quick_gloss": "vaishyas"
+},
+{
+"surface": "dhanajyeṣṭhāḥ",
+"quick_gloss": "wealth-elder"
 },
 {
 "surface": "ye",
-"quick_gloss": "they+to-be-saluted"
+"quick_gloss": "who"
 },
 {
 "surface": "syuste'bhivādyāḥ",
-"quick_gloss": "they+to-be-saluted"
+"quick_gloss": "they-are-to-be-saluted"
 }
 ]
 },
@@ -160,15 +184,15 @@
 "tokens": [
 {
 "surface": "vayojyeṣṭhāḥ",
-"quick_gloss": "age+elder"
+"quick_gloss": "age-elder"
 },
 {
 "surface": "śūdrāḥ",
-"quick_gloss": "śūdras"
+"quick_gloss": "shudras"
 },
 {
 "surface": "śūdrairabhivādyāḥ",
-"quick_gloss": "by+śūdras+to-be-saluted"
+"quick_gloss": "by-shudras-to-be-saluted"
 }
 ]
 },
@@ -181,7 +205,7 @@
 "tokens": [
 {
 "surface": "śūdrāḥ",
-"quick_gloss": "śūdras"
+"quick_gloss": "shudras"
 }
 ]
 },
@@ -194,7 +218,7 @@
 "tokens": [
 {
 "surface": "strīṣvapyevam",
-"quick_gloss": "women+also+thus"
+"quick_gloss": "among-women-also-thus"
 }
 ]
 },
@@ -206,12 +230,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "yaunajyeṣṭhatvaṃ",
-"quick_gloss": "sexual+elderhood+threefold"
+"surface": "yaunajyeṣṭhatvam",
+"quick_gloss": "affinal-elderhood"
 },
 {
 "surface": "tridhā",
-"quick_gloss": "tridhā"
+"quick_gloss": "threefold"
 }
 ]
 },
@@ -224,11 +248,23 @@
 "tokens": [
 {
 "surface": "sarvaireva",
-"quick_gloss": "all+by+sexual+elderhood+considering+saluting+not-saluting+all"
+"quick_gloss": "by-all-indeed"
+},
+{
+"surface": "yaunajyeṣṭhatvam",
+"quick_gloss": "affinal-elderhood"
+},
+{
+"surface": "anusandhāya",
+"quick_gloss": "having-ascertained"
+},
+{
+"surface": "abhivādyānabhivādayeyuḥ",
+"quick_gloss": "to-be-saluted-and-not-to-be-saluted"
 },
 {
 "surface": "sarve",
-"quick_gloss": "sarve"
+"quick_gloss": "all"
 }
 ]
 },
@@ -240,8 +276,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "tasmādyaunajyeṣṭhamevābhivādayet",
-"quick_gloss": "therefore+sexual+elder+only+salute"
+"surface": "tasmāt",
+"quick_gloss": "therefore"
+},
+{
+"surface": "yaunajyeṣṭhameva",
+"quick_gloss": "affinal-elder-only"
+},
+{
+"surface": "abhivādayet",
+"quick_gloss": "one-should-salute"
 }
 ]
 },
@@ -253,8 +297,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "vayojyeṣṭhatvaṃ",
-"quick_gloss": "age+elderhood+leaving+except+śūdra+salute"
+"surface": "vayojyeṣṭhatvam",
+"quick_gloss": "age-elderhood"
+},
+{
+"surface": "parihṛtya",
+"quick_gloss": "having-set-aside"
+},
+{
+"surface": "śūdrabhinnāḥ",
+"quick_gloss": "except-shudras"
+},
+{
+"surface": "abhivādayeyuḥ",
+"quick_gloss": "should-salute"
 }
 ]
 },
@@ -266,8 +322,28 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "sambandhajyeṣṭhatvaṃ",
-"quick_gloss": "relation+elderhood+by+twice-born+not+to-be-considered+in+salutation+thus+some"
+"surface": "sambandhajyeṣṭhatvam",
+"quick_gloss": "relational-elderhood"
+},
+{
+"surface": "dvijaiḥ",
+"quick_gloss": "by-twice-born"
+},
+{
+"surface": "nānusandheyam",
+"quick_gloss": "not-to-be-ascertained"
+},
+{
+"surface": "abhivādane",
+"quick_gloss": "in-salutation"
+},
+{
+"surface": "iti",
+"quick_gloss": "thus"
+},
+{
+"surface": "kecit",
+"quick_gloss": "some"
 }
 ]
 },
@@ -280,11 +356,11 @@
 "tokens": [
 {
 "surface": "mantrabrāhmaṇe",
-"quick_gloss": "mantra+brāhmaṇa+śruti"
+"quick_gloss": "in-mantra-brahmana"
 },
 {
 "surface": "śrutiḥ",
-"quick_gloss": "śrutiḥ"
+"quick_gloss": "shruti"
 }
 ]
 },
@@ -297,7 +373,23 @@
 "tokens": [
 {
 "surface": "śrutismṛtipurāṇāni",
-"quick_gloss": "śruti+smṛti+purāṇas+and+tantra+four+knowledges"
+"quick_gloss": "shruti-smriti-puranas"
+},
+{
+"surface": "tantram",
+"quick_gloss": "tantra"
+},
+{
+"surface": "ca",
+"quick_gloss": "and"
+},
+{
+"surface": "catasraḥ",
+"quick_gloss": "four"
+},
+{
+"surface": "vidyāḥ",
+"quick_gloss": "sciences"
 }
 ]
 },
@@ -310,7 +402,19 @@
 "tokens": [
 {
 "surface": "vidyāsu",
-"quick_gloss": "knowledges+in+former+former+greater"
+"quick_gloss": "among-sciences"
+},
+{
+"surface": "pūrvā",
+"quick_gloss": "former"
+},
+{
+"surface": "pūrvā",
+"quick_gloss": "former"
+},
+{
+"surface": "jyāyasī",
+"quick_gloss": "greater"
 }
 ]
 },
@@ -322,8 +426,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "tasmātparayā",
-"quick_gloss": "therefore+by+higher+equipped+by+former+equipped+elder"
+"surface": "tasmāt",
+"quick_gloss": "therefore"
+},
+{
+"surface": "parayā+yuktāt",
+"quick_gloss": "by-the-latter-endowed"
+},
+{
+"surface": "pūrvayā+yuktaḥ",
+"quick_gloss": "by-the-former-endowed"
+},
+{
+"surface": "jyeṣṭhaḥ",
+"quick_gloss": "elder"
 }
 ]
 },
@@ -335,12 +451,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "vidyātapasostapo",
-"quick_gloss": "knowledge+austerity+of+two+austerity+greater"
+"surface": "vidyātapasoḥ",
+"quick_gloss": "of-science-and-austerity"
+},
+{
+"surface": "tapaḥ",
+"quick_gloss": "austerity"
 },
 {
 "surface": "bhūyaḥ",
-"quick_gloss": "bhūyaḥ"
+"quick_gloss": "greater"
 }
 ]
 },
@@ -352,12 +472,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "tasmādvidyāyuktātatpoyukto",
-"quick_gloss": "therefore+knowledge+equipped+than+that+austerity+equipped+elder"
+"surface": "tasmāt",
+"quick_gloss": "therefore"
+},
+{
+"surface": "vidyāyuktāt",
+"quick_gloss": "science-endowed"
+},
+{
+"surface": "tapoyuktaḥ",
+"quick_gloss": "austerity-endowed"
 },
 {
 "surface": "jyeṣṭhaḥ",
-"quick_gloss": "jyeṣṭhaḥ"
+"quick_gloss": "elder"
 }
 ]
 },
@@ -370,11 +498,19 @@
 "tokens": [
 {
 "surface": "varṇakaniṣṭha",
-"quick_gloss": "varṇa+younger+relation+younger+in-no-way+salute"
+"quick_gloss": "varna-younger"
 },
 {
-"surface": "kathacinnābhivādayet",
-"quick_gloss": "kathacinnābhivādayet"
+"surface": "sambandhakaniṣṭha",
+"quick_gloss": "relational-younger"
+},
+{
+"surface": "kathacit",
+"quick_gloss": "in-no-way"
+},
+{
+"surface": "nābhivādayet",
+"quick_gloss": "one-should-not-salute"
 }
 ]
 },
@@ -387,7 +523,35 @@
 "tokens": [
 {
 "surface": "yadi",
-"quick_gloss": "if+he+so+be+then+relation+younger+also+salute+thus+some"
+"quick_gloss": "if"
+},
+{
+"surface": "sa",
+"quick_gloss": "he"
+},
+{
+"surface": "tathā",
+"quick_gloss": "thus"
+},
+{
+"surface": "syāt",
+"quick_gloss": "be"
+},
+{
+"surface": "ta",
+"quick_gloss": "then"
+},
+{
+"surface": "sambandhakaniṣṭhamapi",
+"quick_gloss": "relational-younger-too"
+},
+{
+"surface": "abhivādayet",
+"quick_gloss": "one-should-salute"
+},
+{
+"surface": "ityeke",
+"quick_gloss": "thus-some"
 }
 ]
 },
@@ -399,8 +563,28 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "savarṇānā",
-"quick_gloss": "same-varṇa+with+āśrama+mutual+salutation+thus+someone"
+"surface": "savarṇānām",
+"quick_gloss": "of-same-varna"
+},
+{
+"surface": "sāśramāṇām",
+"quick_gloss": "with-ashrama"
+},
+{
+"surface": "ca",
+"quick_gloss": "and"
+},
+{
+"surface": "parasparamabhipādanam",
+"quick_gloss": "mutual-salutation"
+},
+{
+"surface": "iti",
+"quick_gloss": "thus"
+},
+{
+"surface": "kaścit",
+"quick_gloss": "someone"
 }
 ]
 }

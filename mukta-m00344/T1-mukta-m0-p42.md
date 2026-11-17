@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p42-v1026
-[of-living-beings](jīvānāṃ) [instrument-dependence](karaṇāpekṣā) [because](yataḥ) [incomplete](apūrṇā) [independence](svatantratā)
+[of-living-beings](jīvānāṃ) [dependence-on-instruments](karaṇāpekṣā) [because](yato) [incomplete](apūrṇā) [independence](svatantratā)
 
 ## mukta-m0-p42-v1027
-[conscious](cinmayaṃ) [or](vā) [body](śarīram) [of-lord](īśvarasya) [required](apekṣitam) [thus](iti) [if-not-thus-says](cennetyāha) [of-living-beings](jīvānām) [thus](iti)
+[consciousness-made](cinmayaṃ) [or](vā) [body](śarīram) [of-lord](īśvarasya) [required](apekṣitam) [thus](iti) [if-not](cenna) [thus](iti) [says](āha) [of-living-beings](jīvānām) [thus](iti)
 
 ## mukta-m0-p42-v1028
-[without-depending](anapekṣya) [whatever](eva) [creates](yatkiñcit) [unimpaired](sṛjatyavikalaṃ) [world](jagat)
+[without-depending](anapekṣya) [indeed](eva) [whatever](yatkiñcit) [creates](sṛjati) [complete](avikalaṃ) [world](jagat)
 
 ## mukta-m0-p42-v1029
 [complete](sampūrṇam)
 
 ## mukta-m0-p42-v1030
-[otherwise](anyathā) [like-world](lokavat) [of-maker](kartur) [material-cause-support](upādānāśrayo) [would-be](bhavet)
+[otherwise](anyathā) [like-world](lokavat) [of-maker](kartuḥ) [material](upādāna) [support](āśrayaḥ) [would-be](bhavet)
 
 ## mukta-m0-p42-v1031
-[of-maker](kartuḥ) [of-lord](īśvarasya) [of-material-cause](upādānasya) [also](api) [support](āśrayaḥ) [dependence](apekṣā) [would-be](bhavet)
+[of-maker](kartuḥ) [of-lord](īśvarasya) [of-material](upādānasya) [also](api) [support](āśrayaḥ) [dependence](apekṣā) [would-be](bhavet)
 
 ## mukta-m0-p42-v1032
-[world](jagat) [creating](sṛjan) [great-lord](maheśāno) [living-being](jīva) [indeed](eva) [would-be](bhavet) [thus](tathā)
+[world](jagat) [creating](sṛjan) [great-lord](maheśānaḥ) [living-being](jīva) [indeed](eva) [would-be](bhavet) [so](tathā)
 
 ## mukta-m0-p42-v1033
-[meaning](bhāvaḥ) [thus](tathā) [like-potter-etc](kulālādivat)
+[meaning](bhāvaḥ) [so](tathā) [like-potter-etc](kulālādivat)
 
 ## mukta-m0-p42-v1034
-[would-be-accomplished](siddhyettat) [all-maker-ship](sarvakartṛtvaṃ) [obstructed](vihataṃ) [would-be](syānna) [doubt](saṃśayaḥ)
+[would-be-accomplished](siddhyet) [that](tat) [all](sarva) [creatorship](kartṛtvaṃ) [obstructed](vihataṃ) [would-be](syāt) [not](na) [doubt](saṃśayaḥ)
 
 ## mukta-m0-p42-v1035
-[by-clay-etc-preparation-sequence](tattanmṛdādisaṃskārakrameṇa) [would-produce](janayed) [pot](ghaṭam)
+[that-that](tattat) [clay-etc](mṛdādi) [refinement](saṃskāra) [by-sequence](krameṇa) [would-produce](janayet) [pot](ghaṭam) [thus](iti)
 
 ## mukta-m0-p42-v1036
-[not-is](nāsti) [therefore](tasmāt) [gross-body](sthūladeho) [in-reality](vastutaḥ) [dear-life](prāṇavallabha)
+[not-is](nāsti) [therefore](tasmāt) [gross-body](sthūladehaḥ) [in-reality](vastutaḥ) [dear-life](prāṇavallabha)
 
 ## mukta-m0-p42-v1037
-[therefore](ataḥ) [body-etc-dependence](śarīrādyapekṣāyām) [lordship-obstruction](aiśvaryavihateḥ)
+[therefore](ataḥ) [body](śarīra) [etc](ādi) [in-dependence](apekṣāyām) [lordship](aiśvarya) [of-obstruction](vihateḥ)
 
 ## mukta-m0-p42-v1038
-[devoted](bhaktuyuktāśca) [by-them](tair) [meditated](dhyāto) [where](yatra) [where](yatra) [as](yathā) [as](yathā)
+[devoted](bhaktuyuktāḥ) [and](ca) [by-them](taiḥ) [meditated](dhyātaḥ) [where](yatra) [where](yatra) [as](yathā) [as](yathā)
 
 ## mukta-m0-p42-v1039
-[as](yathā) [five-faced-one-faced-etc-form](pañcavaktraikavaktrādirūpeṇa)
+[as](yathā) [five-faced](pañcavaktra) [one-faced](ekavaktra) [etc](ādi) [by-form](rūpeṇa)
 
 ## mukta-m0-p42-v1040
-[therefore](ataś) [conscious](cetana) [indeed-lord](eveśaḥ) [that-body](taddehaḥ) [would-be](syāt) [consciousness](citiḥ) [supreme](parā)
+[therefore](ataḥ) [conscious](cetana) [indeed](eva) [lord](īśaḥ) [that-body](taddehaḥ) [would-be](syāt) [consciousness](citiḥ) [supreme](parā)
 
 ## mukta-m0-p42-v1041
-[thus-formed-bodies](evaṃvidhadehānām) [by-will-only](icchāmātraparikalpitatvāt) [supreme](parā) [unlimited](aparicchinnā) [consciousness](citiḥ)
+[such](evaṃvidha) [of-bodies](dehānām) [will](icchā) [only](mātra) [due-to-being-imagined](parikalpitatvāt) [supreme](parā) [unlimited](aparicchinnā) [consciousness](citiḥ)
 
 ## mukta-m0-p42-v1042
-[tripura](tripurā) [shines](bhāsate) [in-whom](yasyām) [undivided](avibhinnaṃ) [divided-like](vibhinnavat)
+[tripura](tripurā) [shines](bhāsate) [in-which](yasyām) [undivided](avibhinnaṃ) [as-divided](vibhinnavat)
 
 ## mukta-m0-p42-v1043
-[without-distinction](aviśeṣāt) [everywhere](sarvatra) [always](sarvadā) [meaning](ityarthaḥ)
+[due-to-nondifference](aviśeṣāt) [everywhere](sarvatra) [always](sarvadā) [thus](iti) [meaning](arthaḥ)
 
 ## mukta-m0-p42-v1044
-[that-form-unity](tadrūpaikatvataḥ) [there](tatra) [not](na) [superior-inferior-conception](uttamādhamabhāvanā)
+[that](tad) [form](rūpa) [due-to-oneness](ekatvataḥ) [there](tatra) [not](na) [high](uttama) [low](adhama) [meditation](bhāvanā)
 
 ## mukta-m0-p42-v1045
-[not](na) [superior-inferior-conception](uttamādhamabhāvanā) [to-be-done](kartavyā)
+[not](na) [high](uttama) [low](adhama) [meditation](bhāvanā) [to-be-done](kartavyā)
 
 ## mukta-m0-p42-v1046
-[therefore](tasmāt) [wise](prājña) [should-worship](upāsīta) [supreme](paraṃ) [form](rūpaṃ) [indeed](hi) [partless](niṣkalam)
+[therefore](tasmāt) [wise-one](prājña) [should-worship](upāsīta) [supreme](paraṃ) [form](rūpaṃ) [indeed](hi) [without-parts](niṣkalam)
 
 ## mukta-m0-p42-v1047
-[because](yataḥ) [that](sā) [primacy](mukhyatā) [imagined](kalpitā) [not](na) [real](vāstavī) [partless](niṣkalam) [bodiless](aśarīram)
+[because](yataḥ) [that](sā) [primacy](mukhyatā) [imagined](kalpitā) [not](na) [real](vāstavī) [without-parts](niṣkalam) [bodiless](aśarīram)
 
 ## mukta-m0-p42-v1048
-[not-otherwise](nānyathā) [of-him](asya) [path](gatiḥ) [anywhere](kvāpi) [would-be](bhavedvai) [crore-births](koṭijanmabhiḥ)
+[not-otherwise](nānyathā) [of-this](asya) [path](gatiḥ) [anywhere](kvāpi) [would-be](bhavet) [indeed](vai) [crore](koṭi) [by-births](janmabhiḥ)
 
 ## mukta-m0-p42-v1049
-[supreme-welfare-means-attainment](paraśreyaḥsādhanaprāptiḥ) [six-footed](ṣaṭcaraṇaḥ) [verse](ślokaḥ)
+[supreme](para) [good](śreyaḥ) [means](sādhana) [attainment](prāptiḥ) [six-footed](ṣaṭcaraṇaḥ) [verse](ślokaḥ)
 
 ## mukta-m0-p42-v1050
-[tripura](traipuraṃ) [conscious](cinmayaṃ) [by-hemalekha-statement](hemalekhāvākyena) [ascertained](niścitam)
+[tripura](traipuraṃ) [consciousness-made](cinmayaṃ) [hemalekha](hemalekhā) [by-statement](vākyena) [determined](niścitam)

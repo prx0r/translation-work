@@ -11,12 +11,20 @@
 "quick_gloss": "thus"
 },
 {
-"surface": "pārānanda+sūtre",
-"quick_gloss": "Pārānanda-sūtra"
+"surface": "pārānanda",
+"quick_gloss": "Pārānanda"
 },
 {
-"surface": "pañcama+māhnikam",
-"quick_gloss": "fifth-chapter"
+"surface": "sūtre",
+"quick_gloss": "in-sūtra"
+},
+{
+"surface": "pañcama",
+"quick_gloss": "fifth"
+},
+{
+"surface": "māhnikam",
+"quick_gloss": "chapter"
 }
 ]
 },
@@ -29,15 +37,19 @@
 "tokens": [
 {
 "surface": "oṃ",
-"quick_gloss": "OM"
+"quick_gloss": "oṃ"
 },
 {
-"surface": "atha",
+"surface": "athātaḥ",
 "quick_gloss": "now"
 },
 {
-"surface": "paramānanda+matam",
-"quick_gloss": "supreme-bliss-doctrine"
+"surface": "paramānanda",
+"quick_gloss": "supreme-bliss"
+},
+{
+"surface": "matam",
+"quick_gloss": "doctrine"
 },
 {
 "surface": "vakṣyāmaḥ",
@@ -53,8 +65,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "paramātmā",
-"quick_gloss": "supreme-self"
+"surface": "parama",
+"quick_gloss": "supreme"
+},
+{
+"surface": "ātmā",
+"quick_gloss": "self"
 }
 ]
 },
@@ -112,8 +128,8 @@
 "quick_gloss": "eternal-bliss"
 },
 {
-"surface": "saccidānanda+mayamūrtiḥ",
-"quick_gloss": "form-of-being-consciousness-bliss"
+"surface": "saccidānandamayamūrtiḥ",
+"quick_gloss": "being-consciousness-bliss-formed"
 }
 ]
 },
@@ -130,7 +146,7 @@
 },
 {
 "surface": "surūpaḥ",
-"quick_gloss": "beautiful-form"
+"quick_gloss": "beautiful-formed"
 }
 ]
 },
@@ -177,7 +193,7 @@
 "tokens": [
 {
 "surface": "vedavāk",
-"quick_gloss": "Veda-voice"
+"quick_gloss": "Veda-utterance"
 }
 ]
 },
@@ -189,16 +205,40 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "svābhinnālaṅkāraḥ",
-"quick_gloss": "self-ornament"
+"surface": "sva",
+"quick_gloss": "self"
 },
 {
-"surface": "svābhinnāyudhaḥ",
-"quick_gloss": "self-weapon"
+"surface": "abhinnā",
+"quick_gloss": "non-different"
 },
 {
-"surface": "svābhinnavāhanaḥ",
-"quick_gloss": "self-vehicle"
+"surface": "alaṅkāraḥ",
+"quick_gloss": "ornament"
+},
+{
+"surface": "sva",
+"quick_gloss": "self"
+},
+{
+"surface": "abhinnā",
+"quick_gloss": "non-different"
+},
+{
+"surface": "āyudhaḥ",
+"quick_gloss": "weapon"
+},
+{
+"surface": "sva",
+"quick_gloss": "self"
+},
+{
+"surface": "abhinnā",
+"quick_gloss": "non-different"
+},
+{
+"surface": "vāhanaḥ",
+"quick_gloss": "vehicle"
 },
 {
 "surface": "iti",
@@ -218,8 +258,24 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "tadbhinnānādyanantālaṅkārāyudhavāhanāni",
-"quick_gloss": "his-distinct-infinite-ornaments-weapons-vehicles"
+"surface": "tad",
+"quick_gloss": "his"
+},
+{
+"surface": "bhinnā",
+"quick_gloss": "different"
+},
+{
+"surface": "anādya",
+"quick_gloss": "beginningless"
+},
+{
+"surface": "ananta",
+"quick_gloss": "endless"
+},
+{
+"surface": "alaṅkārāyudhavāhanāni",
+"quick_gloss": "ornaments-weapons-vehicles"
 },
 {
 "surface": "iti",
@@ -239,8 +295,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "acintyaiśvaryaḥ",
-"quick_gloss": "inconceivable-sovereignty"
+"surface": "acintya",
+"quick_gloss": "inconceivable"
+},
+{
+"surface": "aiśvaryaḥ",
+"quick_gloss": "sovereignty"
 },
 {
 "surface": "sarvataḥ",
@@ -265,7 +325,7 @@
 },
 {
 "surface": "adṛśyaḥ",
-"quick_gloss": "invisible"
+"quick_gloss": "unseen"
 }
 ]
 },
@@ -298,8 +358,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "yogaphalanirdeṣṭā",
-"quick_gloss": "yoga-fruit-declarer"
+"surface": "yogaphala",
+"quick_gloss": "yoga-fruit"
+},
+{
+"surface": "nirdeṣṭā",
+"quick_gloss": "indicator"
 },
 {
 "surface": "sarvataḥ",
@@ -332,8 +396,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "īśvarairupāsyaḥ",
-"quick_gloss": "by-lords-worshipped"
+"surface": "īśvaraiḥ",
+"quick_gloss": "by-lords"
+},
+{
+"surface": "upāsyaḥ",
+"quick_gloss": "worshipped"
 },
 {
 "surface": "sarvataḥ",
@@ -366,16 +434,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "īśvarāṇām",
+"surface": "īśvarāṇāṃ",
 "quick_gloss": "of-lords"
 },
 {
-"surface": "svabhaktānām",
-"quick_gloss": "of-devotees"
+"surface": "svabhaktānāṃ",
+"quick_gloss": "of-their-devotees"
 },
 {
 "surface": "nigrahānugrahakṣamaḥ",
-"quick_gloss": "capable-of-restraint-and-grace"
+"quick_gloss": "restraint-and-grace-capable"
 }
 ]
 },
@@ -400,8 +468,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "kleśakarmavipākāparāmṛṣṭaḥ",
-"quick_gloss": "untouched-by-affliction-action-fruit"
+"surface": "kleśakarmavipākā",
+"quick_gloss": "affliction-action-ripening"
+},
+{
+"surface": "aparāmṛṣṭaḥ",
+"quick_gloss": "untouched"
 },
 {
 "surface": "sarvataḥ",
@@ -431,7 +503,7 @@
 "tokens": [
 {
 "surface": "sarvotpattikṛt",
-"quick_gloss": "creator-of-all-origination"
+"quick_gloss": "all-origination-maker"
 }
 ]
 },
@@ -444,7 +516,7 @@
 "tokens": [
 {
 "surface": "sarvasthitikṛt",
-"quick_gloss": "creator-of-all-maintenance"
+"quick_gloss": "all-maintenance-maker"
 }
 ]
 }

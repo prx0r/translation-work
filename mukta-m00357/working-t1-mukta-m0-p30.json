@@ -13,14 +13,6 @@
 {
 "surface": "sthāḥ",
 "quick_gloss": "standing"
-},
-{
-"surface": "plural",
-"quick_gloss": "plural"
-},
-{
-"surface": "masculine",
-"quick_gloss": "masculine"
 }
 ]
 },
@@ -32,7 +24,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "viśeṣataḥ",
+"surface": "viśeṣato",
 "quick_gloss": "especially"
 },
 {
@@ -41,11 +33,11 @@
 },
 {
 "surface": "uktāni",
-"quick_gloss": "spoken"
+"quick_gloss": "stated"
 },
 {
 "surface": "tiraścīnānām",
-"quick_gloss": "animals"
+"quick_gloss": "of-animals"
 }
 ]
 },
@@ -66,7 +58,7 @@
 },
 {
 "surface": "vācyāḥ",
-"quick_gloss": "expressed"
+"quick_gloss": "expressible"
 },
 {
 "surface": "tiraścīnāḥ",
@@ -83,7 +75,7 @@
 "tokens": [
 {
 "surface": "grāhyāḥ",
-"quick_gloss": "grasped"
+"quick_gloss": "graspable"
 },
 {
 "surface": "padārthāḥ",
@@ -107,7 +99,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "viśeṣataḥ",
+"surface": "viśeṣato",
 "quick_gloss": "especially"
 },
 {
@@ -116,11 +108,11 @@
 },
 {
 "surface": "uktāni",
-"quick_gloss": "spoken"
+"quick_gloss": "stated"
 },
 {
 "surface": "padārthānām",
-"quick_gloss": "meanings"
+"quick_gloss": "of-objects"
 }
 ]
 },
@@ -141,11 +133,11 @@
 },
 {
 "surface": "vācyāḥ",
-"quick_gloss": "expressed"
+"quick_gloss": "expressible"
 },
 {
 "surface": "padārthāḥ",
-"quick_gloss": "meanings"
+"quick_gloss": "objects"
 }
 ]
 },
@@ -165,12 +157,8 @@
 "quick_gloss": "words"
 },
 {
-"surface": "sarvārtha",
-"quick_gloss": "all-meanings"
-},
-{
-"surface": "vācakāḥ",
-"quick_gloss": "expressing"
+"surface": "sarvārthavācakāḥ",
+"quick_gloss": "all-meaning-expressing"
 }
 ]
 },
@@ -186,16 +174,20 @@
 "quick_gloss": "word"
 },
 {
-"surface": "anekārtha",
-"quick_gloss": "many-meanings"
+"surface": "anekārthavācakaḥ",
+"quick_gloss": "many-meaning-expressing"
 },
 {
-"surface": "vācakaḥ",
-"quick_gloss": "expressing"
+"surface": "api",
+"quick_gloss": "even"
 },
 {
-"surface": "ekārtha",
+"surface": "ekārtham",
 "quick_gloss": "one-meaning"
+},
+{
+"surface": "eva",
+"quick_gloss": "only"
 },
 {
 "surface": "vakti",
@@ -224,7 +216,7 @@
 },
 {
 "surface": "pramāṇāni",
-"quick_gloss": "proofs"
+"quick_gloss": "means-of-knowledge"
 }
 ]
 },
@@ -236,16 +228,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "pratyakṣa",
-"quick_gloss": "perception"
-},
-{
-"surface": "āgama",
-"quick_gloss": "scripture"
+"surface": "pratyakṣāgamaḥ",
+"quick_gloss": "perception-scripture"
 },
 {
 "surface": "pramāṇam",
-"quick_gloss": "proof"
+"quick_gloss": "means-of-knowledge"
+},
+{
+"surface": "iti",
+"quick_gloss": "thus"
 },
 {
 "surface": "apare",
@@ -261,16 +253,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "āgama",
+"surface": "āgamaḥ",
 "quick_gloss": "scripture"
 },
 {
 "surface": "eva",
-"quick_gloss": "only"
+"quick_gloss": "alone"
 },
 {
 "surface": "pramāṇam",
-"quick_gloss": "proof"
+"quick_gloss": "means-of-knowledge"
+},
+{
+"surface": "iti",
+"quick_gloss": "thus"
 },
 {
 "surface": "eke",
@@ -291,15 +287,11 @@
 },
 {
 "surface": "pārānandasūtre",
-"quick_gloss": "pārānanda-sūtra"
+"quick_gloss": "in-Pārānanda-sūtra"
 },
 {
-"surface": "ṣaṣṭham",
-"quick_gloss": "sixth"
-},
-{
-"surface": "āhnikam",
-"quick_gloss": "chapter"
+"surface": "ṣaṣṭhamāhnikam",
+"quick_gloss": "sixth-chapter"
 }
 ]
 },
@@ -324,7 +316,7 @@
 },
 {
 "surface": "vakṣyāmaḥ",
-"quick_gloss": "we-speak"
+"quick_gloss": "we-will-speak"
 }
 ]
 },
@@ -336,24 +328,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "mahat",
-"quick_gloss": "great"
-},
-{
-"surface": "saṃprayoga",
-"quick_gloss": "association"
-},
-{
-"surface": "jyeṣṭha",
-"quick_gloss": "eldest"
+"surface": "mahatsaṃprayogajyeṣṭhāḥ",
+"quick_gloss": "great-association-elder"
 },
 {
 "surface": "mahāntaḥ",
-"quick_gloss": "great-ones"
+"quick_gloss": "great"
+},
+{
+"surface": "caite",
+"quick_gloss": "these"
 },
 {
 "surface": "abhivādyāḥ",
-"quick_gloss": "saluted"
+"quick_gloss": "salutable"
 }
 ]
 },
@@ -366,19 +354,19 @@
 "tokens": [
 {
 "surface": "kṣatriyāṇām",
-"quick_gloss": "kṣatriyas"
+"quick_gloss": "of-kṣatriyas"
 },
 {
 "surface": "abhivādyāḥ",
-"quick_gloss": "saluted"
+"quick_gloss": "salutable"
 },
 {
 "surface": "brāhmaṇāḥ",
-"quick_gloss": "brāhmaṇas"
+"quick_gloss": "brahmins"
 },
 {
-"surface": "yonijyeṣṭhatvāt",
-"quick_gloss": "womb-eldest"
+"surface": "yonajyeṣṭhatvāt",
+"quick_gloss": "because-birth-elder"
 }
 ]
 },
@@ -390,12 +378,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "evam",
-"quick_gloss": "thus"
-},
-{
-"surface": "eva",
-"quick_gloss": "eva"
+"surface": "evameva",
+"quick_gloss": "similarly"
 },
 {
 "surface": "avarāṇām",
@@ -403,11 +387,11 @@
 },
 {
 "surface": "varṇānām",
-"quick_gloss": "varṇas"
+"quick_gloss": "varnas"
 },
 {
 "surface": "pūrvam",
-"quick_gloss": "former"
+"quick_gloss": "first"
 }
 ]
 },
@@ -420,22 +404,22 @@
 "tokens": [
 {
 "surface": "vayojyeṣṭhāḥ",
-"quick_gloss": "age-eldest"
+"quick_gloss": "age-elder"
 },
 {
 "surface": "abhivādyāḥ",
-"quick_gloss": "saluted"
+"quick_gloss": "salutable"
 },
 {
-"surface": "yonijyeṣṭha",
-"quick_gloss": "womb-eldest"
+"surface": "yonajyeṣṭha",
+"quick_gloss": "birth-elder"
 },
 {
-"surface": "nvādeva",
-"quick_gloss": "by-this"
+"surface": "vā",
+"quick_gloss": "or"
 },
 {
-"surface": "eteṣām",
+"surface": "evaiteṣām",
 "quick_gloss": "these"
 }
 ]
@@ -453,11 +437,11 @@
 },
 {
 "surface": "abhivādyāḥ",
-"quick_gloss": "saluted"
+"quick_gloss": "salutable"
 },
 {
 "surface": "jyeṣṭhatvāt",
-"quick_gloss": "eldest"
+"quick_gloss": "elderhood"
 },
 {
 "surface": "eteṣām",
@@ -478,11 +462,11 @@
 },
 {
 "surface": "abhivādyāḥ",
-"quick_gloss": "saluted"
+"quick_gloss": "salutable"
 },
 {
 "surface": "tapojyeṣṭhatvāt",
-"quick_gloss": "tapas-eldest"
+"quick_gloss": "austerity-elder"
 },
 {
 "surface": "eteṣām",
@@ -498,16 +482,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "mahat",
-"quick_gloss": "great"
-},
-{
-"surface": "saṃprayoga",
-"quick_gloss": "association"
-},
-{
-"surface": "jyeṣṭhatvāt",
-"quick_gloss": "eldest"
+"surface": "mahatsaṃprayogajyeṣṭhatvāt",
+"quick_gloss": "great-association-elder"
 },
 {
 "surface": "eteṣām",
@@ -523,20 +499,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "parātma",
-"quick_gloss": "supreme-self"
-},
-{
-"surface": "īśvara",
-"quick_gloss": "lord"
-},
-{
-"surface": "guru",
-"quick_gloss": "teacher"
+"surface": "parātmeśvaraguravaḥ",
+"quick_gloss": "supreme-self-lord-teachers"
 },
 {
 "surface": "abhivādyāḥ",
-"quick_gloss": "saluted"
+"quick_gloss": "salutable"
 },
 {
 "surface": "mahattvāt",
@@ -556,12 +524,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "āśrama",
-"quick_gloss": "stage"
+"surface": "āśrame",
+"quick_gloss": "in-ashrama"
 },
 {
 "surface": "pūrvasmāt",
-"quick_gloss": "former"
+"quick_gloss": "from-previous"
 },
 {
 "surface": "uttaraḥ",
@@ -581,28 +549,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "mahat",
-"quick_gloss": "great"
+"surface": "mahatsaṃprayoge",
+"quick_gloss": "in-great-association"
 },
 {
-"surface": "saṃprayoge",
-"quick_gloss": "association"
+"surface": "paścātsaṃyuktāt",
+"quick_gloss": "after-connected"
 },
 {
-"surface": "paścāt",
-"quick_gloss": "after"
-},
-{
-"surface": "saṃyuktāt",
-"quick_gloss": "joined"
-},
-{
-"surface": "pūrva",
-"quick_gloss": "before"
-},
-{
-"surface": "saṃyuktaḥ",
-"quick_gloss": "joined"
+"surface": "pūrvasaṃyuktaḥ",
+"quick_gloss": "before-connected"
 },
 {
 "surface": "mahān",
@@ -619,15 +575,15 @@
 "tokens": [
 {
 "surface": "vipravarṇaiḥ",
-"quick_gloss": "brāhmaṇa-varṇa"
+"quick_gloss": "by-brahmin-varna"
 },
 {
 "surface": "vidyāvidaḥ",
-"quick_gloss": "knowers"
+"quick_gloss": "learned"
 },
 {
 "surface": "abhivādyāḥ",
-"quick_gloss": "saluted"
+"quick_gloss": "salutable"
 }
 ]
 },
@@ -640,7 +596,7 @@
 "tokens": [
 {
 "surface": "vidyāvadbhiḥ",
-"quick_gloss": "knowers"
+"quick_gloss": "by-learned"
 },
 {
 "surface": "vaidyāḥ",
@@ -652,23 +608,23 @@
 },
 {
 "surface": "ca",
-"quick_gloss": "ca"
+"quick_gloss": "and"
 },
 {
 "surface": "ye",
-"quick_gloss": "ye"
+"quick_gloss": "who"
 },
 {
 "surface": "syuḥ",
-"quick_gloss": "syuḥ"
+"quick_gloss": "are"
 },
 {
 "surface": "te",
-"quick_gloss": "te"
+"quick_gloss": "they"
 },
 {
 "surface": "abhivādyāḥ",
-"quick_gloss": "saluted"
+"quick_gloss": "salutable"
 }
 ]
 }

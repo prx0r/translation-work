@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p32-v776
-[pada](āyudhairnaraśṛṅgotthairyudhvā) [pada](gaganakānane)
+[weapons](āyudhair) [man](nara) [horn-born](śṛṅgotthair) [having-fought](yudhvā) [sky](gaganaka) [forest](ānane)
 
 ## mukta-m0-p32-v777
-[pada](marīcisrotasi) [pada](svāpnakāminībhirhi) [pada](khelati)
+[ray](marīci) [stream](srotasi) [dream](svāpna) [beloved-women](kāminībhir) [indeed](hi) [plays](khelati)
 
 ## mukta-m0-p32-v778
-[pada](śrutvaivaṃ) [pada](priyavākyaṃ) [pada](sā) [pada](caturā) [pada](prāha) [pada](taṃ) [pada](punaḥ)
+[having-heard](śrutvā) [thus](evam) [dear-speech](priyavākyam) [she](sā) [clever](caturā) [said](prāha) [him](tam) [again](punaḥ)
 
 ## mukta-m0-p32-v779
-[pada](tathā) [pada](proktavidūṣakavākyavat) [pada](asaṅgatam)
+[thus](tathā) [as-spoken-jester-speech-like](proktavidūṣakavākyavat) [inconsistent](asaṅgatam)
 
 ## mukta-m0-p32-v780
-[pada](na) [pada](mādṛśānāṃ) [pada](vacanaṃ) [pada](nirālambaṃ) [pada](kvacidbhavet)
+[not](na) [of-such-as-me](mādṛśānām) [speech](vacanam) [unsupported](nirālambam) [anywhere](kvacid) [would-be](bhavet)
 
 ## mukta-m0-p32-v781
-[pada](ityarthaḥ]) [pada](saundaryavadbhavet)
+[thus-meaning](ityarthaḥ) [beautiful](saundaryavad) [would-be](bhavet)
 
 ## mukta-m0-p32-v782
-[pada](tasya) [pada](norddhvaṃ) [pada](na) [pada](cādhastālloko'sti) [pada](sukhasādhanam)
+[of-him](tasya) [not-upward](norddhvam) [not-downward](na+cādhastāt) [world](lokaḥ) [is](asti) [happiness-means](sukhasādhanam)
 
 ## mukta-m0-p32-v783
-[pada](apārthavacasā) [pada](asatyāt) [pada](na) [pada](lokaḥ)
+[meaningless-speech](apārthavacasā) [from-falsehood](asatyāt) [not](na) [world](lokaḥ)
 
 ## mukta-m0-p32-v784
-[pada](samadṛṣṭiṃ) [pada](naiti) [pada](śīghramañjanānāṃ) [pada](vacogaṇaiḥ)
+[equal-vision](samadṛṣṭim) [does-not-attain](naiti) [quickly](śīghram) [collyrium](añjanānām) [speech-groups](vacogaṇaiḥ)
 
 ## mukta-m0-p32-v785
-[pada](jñātumaśakyamityāśayenāha) [pada](śṛṇviti)
+[to-know](jñātum) [impossible](aśakyam) [intent](ityāśayena) [says](āha) [listen](śṛṇu) [thus](iti)
 
 ## mukta-m0-p32-v786
-[pada](jijñāsuḥ]) [pada](asatyairyojayāmi) [pada](kim) [pada](na) [pada](yojayāmyevetyarthaḥ)
+[inquirer](jijñāsuḥ) [with-falsehoods](asatyaiḥ) [shall-I-join](yojayāmi) [what](kim) [not](na) [I-join-indeed](yojayāmyeva) [thus-meaning](ityarthaḥ)
 
 ## mukta-m0-p32-v787
-[pada](loke) [pada](hi) [pada](kuśalo) [pada](martyaḥ) [pada](sarvavyavahṛtau) [pada](nanu)
+[in-world](loke) [indeed](hi) [skilled](kuśalaḥ) [mortal](martyaḥ) [all-dealings](sarvavyavahṛtau) [surely](nanu)
 
 ## mukta-m0-p32-v788
-[pada](kuśalo'pyatītārthaṃ) [pada](tvadvacanaṃ) [pada](kathaṃ) [pada](parīkṣiṣyāmīti) [pada](cedāha) [pada](loka) [pada](iti)
+[skilled](kuśalaḥ) [even](api) [past-meaning](atītārtham) [your-speech](tvadvacanam) [how](katham) [shall-I-examine](parīkṣiṣyāmi) [if-so](iti+ced) [says](āha) [world](loka) [thus](iti)
 
 ## mukta-m0-p32-v789
-[pada](nidarśanaṃ) [pada](pradāsyāmi) [pada](tubhyamatra) [pada](samīkṣaya)
+[example](nidarśanam) [I-will-give](pradāsyāmi) [to-you](tubhyam) [here](atra) [examination](samīkṣayā)
 
 ## mukta-m0-p32-v790
-[pada](nidarśanaṃ) [pada](pradāsyāmi) [pada](anubhūtaṃ) [pada](smārayāmi) [pada](atra) [pada](madvacanaparīkṣāyām)
+[example](nidarśanam) [I-will-give](pradāsyāmi) [experienced](anubhūtam) [I-remind](smārayāmi) [here](atra) [my-speech-examination](madvacanaparīkṣāyām)
 
 ## mukta-m0-p32-v791
-[pada](cirānmadvacanāt) [pada](so'dya) [pada](kuto) [pada](na) [pada](sukhasādhanam)
+[long-ago](cirāt) [my-speech](madvacanāt) [he](saḥ) [today](adya) [whence](kutaḥ) [not](na) [happiness-means](sukhasādhanam)
 
 ## mukta-m0-p32-v792
-[pada](bhavedeveti) [pada](jānīhīti) [pada](bhāvaḥ)
+[would-be-indeed](bhavedeva) [know](jānīhi) [thus](iti) [sense](bhāvaḥ)
 
 ## mukta-m0-p32-v793
-[pada](etannidarśanenaiva) [pada](svamataṃ) [pada](vettumarhasi)
+[this-example](etannidarśanena) [indeed](eva) [own-opinion](svamatam) [to-know](vettum) [you-should](arhasi)
 
 ## mukta-m0-p32-v794
-[pada](pramāṇamapramāṇaṃ) [pada](veti) [pada](vettum)
+[proof](pramāṇam) [non-proof](apramāṇam) [or](vā) [thus](iti) [to-know](vettum)
 
 ## mukta-m0-p32-v795
-[pada](ripurloke) [pada](bhavedāptoktiṣu) [pada](sthiraḥ)
+[enemy](ripuḥ) [in-world](loke) [would-be](bhavet) [reliable-speeches](āptoktiṣu) [firm](sthiraḥ)
 
 ## mukta-m0-p32-v796
-[pada](anāśvāsaḥ) [pada](aśraddhā)
+[non-confidence](anāśvāsaḥ) [non-faith](aśraddhā)
 
 ## mukta-m0-p32-v797
-[pada](rakṣati) [pada](prauḍhabhītibhyaḥ) [pada](sarvathā) [pada](nahi) [pada](saṃśayaḥ)
+[protects](rakṣati) [from-great-fears](prauḍhabhītibhyaḥ) [in-every-way](sarvathā) [not](nahi) [doubt](saṃśayaḥ)
 
 ## mukta-m0-p32-v798
-[pada](sa) [pada](bhavet) [pada](sarvato) [pada](hīno) [pada](yaḥ) [pada](śraddhārahito) [pada](naraḥ)
+[he](saḥ) [would-be](bhavet) [in-every-way](sarvataḥ) [deficient](hīnaḥ) [who](yaḥ) [faithless](śraddhārahitaḥ) [man](naraḥ)
 
 ## mukta-m0-p32-v799
-[pada](ata) [pada](eva) [pada](sarvato) [pada](hīno) [pada](bhavet)
+[therefore](ataḥ) [indeed](eva) [in-every-way](sarvataḥ) [deficient](hīnaḥ) [would-be](bhavet)
 
 ## mukta-m0-p32-v800
-[pada](aśraddho) [pada](mātṛviṣaye) [pada](bālo) [pada](jīvet) [pada](kathaṃ) [pada](vada)
+[faithless](aśraddhaḥ) [in-mother-matter](mātṛviṣaye) [child](bālaḥ) [would-live](jīvet) [how](katham) [say](vada)
