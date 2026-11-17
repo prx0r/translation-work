@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p19-v451
-iti(thus) pārānandasūtre(in-Pārānandasūtra) pañcamam(fifth) āhnikam(chapter)
+[thus](iti) [pārānanda+sūtra](pārānandasūtre) [in](—) [fifth+day-section](pañcamamāhnikam)
 
 ## mukta-m0-p19-v452
-oṃ(om) atha(then) ataḥ(hereafter) paramānanda(supreme-bliss) matam(doctrine) vakṣyāmaḥ(we-shall-declare)
+[oṃ](oṃ) [now+therefore](athātaḥ) [supreme-bliss+doctrine](paramānandamataṃ) [we-shall-expound](vakṣyāmaḥ)
 
 ## mukta-m0-p19-v453
-parama(supreme) ātmā(self)
+[supreme](parama) [+self](ātmā) [supreme+self](paramātmā) [supreme+self](paramātmā)
 
 ## mukta-m0-p19-v454
-īśvarāḥ(lords) pṛthak(separate) pṛthak(separate)
+[lords](īśvarāḥ) [separately](pṛthak) [separately](pṛthak) [distinct](pṛthak)
 
 ## mukta-m0-p19-v455
-jīvāḥ(souls) pṛthak(separate) pṛthak(separate)
+[individual-souls](jīvāḥ) [separately](pṛthak) [separately](pṛthak) [distinct](pṛthak)
 
 ## mukta-m0-p19-v456
-nityānandaḥ(eternal-bliss) sac(cit) cit(consciousness) ānanda(bliss) maya(consisting-of) mūrtiḥ(form)
+[eternal-bliss](nityānandaḥ) [being](sat) [+consciousness](cit) [+bliss+formed+embodiment](ānandamayamūrtiḥ)
 
 ## mukta-m0-p19-v457
-sarvataḥ(everywhere) surūpaḥ(beautiful-form)
+[everywhere](sarvataḥ) [beautiful-form](surūpaḥ) [all-around](sarvataḥ) [well-formed](surūpaḥ)
 
 ## mukta-m0-p19-v458
-sarvataḥ(everywhere) sarvajñaḥ(all-knowing)
+[everywhere](sarvataḥ) [all-knowing](sarvajñaḥ) [all-around](sarvataḥ) [omniscient](sarvajñaḥ)
 
 ## mukta-m0-p19-v459
-sarvataḥ(everywhere) sarveśvaraḥ(lord-of-all)
+[everywhere](sarvataḥ) [lord-of-all](sarveśvaraḥ) [all-around](sarvataḥ) [supreme-lord](sarveśvaraḥ)
 
 ## mukta-m0-p19-v460
-veda(Veda) vāk(speech)
+[veda](veda) [+speech](vāk) [sacred](veda) [+word](vāk)
 
 ## mukta-m0-p19-v461
-sva(own) abhinna(not-different) alaṅkāraḥ(ornament) svābhinna(own-not-different) āyudhaḥ(weapon) svābhinna(own-not-different) vāhanaḥ(vehicle) iti(thus) kālaśambhuḥ(Kālaśambhu)
+[own+non-different+ornament](svābhinnālaṅkāraḥ) [own+non-different+weapon](svābhinnāyudhaḥ) [own+non-different+vehicle](svābhinnavāhana) [thus](iti) [kālaśambhu](kālaśambhuḥ)
 
 ## mukta-m0-p19-v462
-tat(that) bhinna(different) anādi(beginningless) ananta(endless) alaṅkāra(ornament) āyudha(weapon) vāhanāni(vehicles) iti(thus) unmattabhairavaḥ(Unmattabhairava)
+[from-that+different+beginningless+endless+ornament+weapon+vehicles](tadbhinnānādyanantālaṅkārāyudhavāhanāni) [thus](iti) [unmattabhairava](unmattabhairavaḥ) [named](iti)
 
 ## mukta-m0-p19-v463
-acintya(unthinkable) aiśvaryaḥ(lordship) sarvataḥ(everywhere)
+[inconceivable+sovereignty](acintyaiśvaryaḥ) [everywhere](sarvataḥ) [all-around](sarvataḥ) [unthinkable-power](acintyaiśvaryaḥ)
 
 ## mukta-m0-p19-v464
-avedyaḥ(unknowable) acintyaḥ(unthinkable) adṛśyaḥ(unseeable)
+[unknowable](avedyaḥ) [+inconceivable](acintyaḥ) [+invisible](adṛśyaḥ) [beyond-perception](avedyaḥ)
 
 ## mukta-m0-p19-v465
-susaṃvedyaḥ(easily-known) susaṃcintyaḥ(easily-thought) susaṃdṛśyaḥ(easily-seen)
+[well-knowable](susaṃvedyaḥ) [well-conceivable](susaṃcintyaḥ) [well-visible](susaṃdṛśyaḥ) [clearly-perceivable](susaṃvedyaḥ)
 
 ## mukta-m0-p19-v466
-yoga(yoga) phala(fruit) nirdeṣṭā(declared) sarvataḥ(everywhere)
+[yoga+fruit+assigner](yogaphalanirdeṣṭā) [everywhere](sarvataḥ) [all-around](sarvataḥ) [result-determiner](yogaphalanirdeṣṭā)
 
 ## mukta-m0-p19-v467
-sarvataḥ(everywhere) yoga(yoga) phala(fruit) daḥ(giver)
+[everywhere](sarvataḥ) [yoga+fruit+giver](yogaphaladaḥ) [all-around](sarvataḥ) [result-bestower](yogaphaladaḥ)
 
 ## mukta-m0-p19-v468
-īśvaraiḥ(by-lords) upāsyaḥ(worshipped) sarvataḥ(everywhere)
+[by-lords+worshipped](īśvarairupāsyaḥ) [everywhere](sarvataḥ) [all-around](sarvataḥ) [adored-by-lords](īśvarairupāsyaḥ)
 
 ## mukta-m0-p19-v469
-īśvara(lord) upāsyaḥ(worshipped) sarvataḥ(everywhere)
+[by-lord+worshipped](īśvaropāsyaḥ) [everywhere](sarvataḥ) [all-around](sarvataḥ) [adored-by-lord](īśvaropāsyaḥ)
 
 ## mukta-m0-p19-v470
-īśvarāṇāṃ(of-lords) sva(own) bhaktānāṃ(of-devotees) nigraha(restraint) anugraha(favor) kṣamaḥ(capable)
+[of-lords](īśvarāṇāṃ) [of-own-devotees](svabhaktānāṃ) [restraint+and+grace](nigrahānugraha) [+capable](kṣamaḥ)
 
 ## mukta-m0-p19-v471
-sarva(all) gamyaḥ(approachable)
+[by-all+accessible](sarvagamyaḥ) [universally-reachable](sarvagamyaḥ) [all-pervading](sarvagamyaḥ) [omnipresent](sarvagamyaḥ)
 
 ## mukta-m0-p19-v472
-kleśa(affliction) karma(action) vipāka(ripening) aparāmṛṣṭaḥ(unaffected) sarvataḥ(everywhere)
+[affliction+action+fruit](kleśakarmavipāka) [+un+touched](aparāmṛṣṭaḥ) [everywhere](sarvataḥ) [untainted](aparāmṛṣṭaḥ)
 
 ## mukta-m0-p19-v473
-sarva(all) gamyaḥ(approachable)
+[by-all+accessible](sarvagamyaḥ) [universally-reachable](sarvagamyaḥ) [all-pervading](sarvagamyaḥ) [omnipresent](sarvagamyaḥ)
 
 ## mukta-m0-p19-v474
-sarva(all) utpatti(origin) kṛt(maker)
+[of-all+origination+maker](sarvotpattikṛt) [creator-of-all](sarvotpattikṛt) [universal-source](sarvotpattikṛt) [all-producing](sarvotpattikṛt)
 
 ## mukta-m0-p19-v475
-sarva(all) sthiti(maintenance) kṛt(maker)
+[of-all+sustenance+maker](sarvasthitikṛt) [maintainer-of-all](sarvasthitikṛt) [universal-preserver](sarvasthitikṛt) [all-sustaining](sarvasthitikṛt)

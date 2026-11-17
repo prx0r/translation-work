@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p64-v1576
-[asti](asti) [vaṅge](vaṅge) [sundara-ākhyaṃ](sundarākhyaṃ) [puraṃ](puraṃ) [parama-pāvanam](paramapāvanam)
+[is](asti) [in-vaṅga](vaṅge) [sundara-named](sundarākhyaṃ) [city](puraṃ) [supremely-pure](paramapāvanam)
 
 ## mukta-m0-p64-v1577
-[parama-pāvanam](paramapāvanaṃ) [tīrtha-bhūtam](tīrthabhūtam)
+[supremely-pure](paramapāvanaṃ) [become-holy-place](tīrthabhūtam)
 
 ## mukta-m0-p64-v1578
-[tasya](tasya) [bhrātā](bhrātā) [mahā-senaḥ](mahāseno) [yavīyān](yavīyān) [priya-kṛt](priyakṛt) [sadā](sadā)
+[his](tasya) [brother](bhrātā) [mahāsena](mahāseno) [younger](yavīyān) [doing-dear](priyakṛt) [always](sadā)
 
 ## mukta-m0-p64-v1579
-[yavīyān](yavīyān) [kaniṣṭhaḥ](kaniṣṭhaḥ) [bhrātuḥ](bhrātuḥ) [priya-kṛt](priyakṛt)
+[younger](yavīyān) [youngest](kaniṣṭhaḥ) [of-brother](bhrātuḥ) [variant-brother](bhrātā) [doing-dear](priyakṛt)
 
 ## mukta-m0-p64-v1580
-[kadācid](kadācid) [aśvamedhaiḥ](aśvamedhaiḥ) [saḥ-ayajat](so'yajad) [devam](devaṃ) [maheśvaram](maheśvaram)
+[once](kadācit) [with-horse-sacrifices](aśvamedhaiḥ) [he](saḥ) [worshipped](ayajat) [god](devaṃ) [great-lord](maheśvaram)
 
 ## mukta-m0-p64-v1581
-[mahatyā](mahatyā) [senayā](senayā) [yajña-aśvam](yajñā'śvaṃ) [sarve](sarve) [hi](hi) [anu-saṃyayuḥ](anusaṃyayuḥ)
+[with-great](mahatyā) [army](senayā) [sacrifice-horse](yajñā'śvaṃ) [all](sarve) [indeed](hi) [followed](anusaṃyayuḥ)
 
 ## mukta-m0-p64-v1582
-[tatra](tatra) [yajñe](yajñe) [aśva-caryāyām](aśvacaryāyām) [aśvam](aśvam) [anugatāḥ](anugatāḥ)
+[there](tatra) [in-sacrifice](yajñe) [in-horse-wandering](aśvacaryāyām) [horse-followers](aśvamanugatāḥ)
 
 ## mukta-m0-p64-v1583
-[yayuḥ](yayur) [airāvatī-tīram](airāvatītīram) [anu-aśvam](anvaśvaṃ) [nṛpateḥ](nṛpateḥ) [sutāḥ](sutāḥ)
+[went](yayuḥ) [to-airāvatī-bank](airāvatī+tīram) [after-horse](anvaśvaṃ) [of-king](nṛpateḥ) [sons](sutāḥ)
 
 ## mukta-m0-p64-v1584
-[rodhakān](rodhakān) [śatrūn](śatrūn) [airāvatī](airāvatī) [nadī](nadī) [anu-aśvam](anvaśvam) [aśva-pṛṣṭhataḥ](aśvapṛṣṭhataḥ)
+[obstructing](rodhakān) [enemies](śatrūn) [airāvatī](airāvatī) [river](nadī) [after-horse](anvaśvam) [behind-horse](aśva+pṛṣṭhataḥ)
 
 ## mukta-m0-p64-v1585
-[bala-uddhatāḥ](baloddhatā) [avajñāya](avajñāya) [tam](tam) [asaṅgamya](asaṅgamya) [te](te) [yayuḥ](yayuḥ)
+[strength-arrogant](bala+uddhatā) [disregarding](avajñāya) [him](tam) [not-approaching](asaṅgamya) [they](te) [went](yayuḥ)
 
 ## mukta-m0-p64-v1586
-[praṇāma-ādi-pūrvakam](praṇāmādipūrvakaṃ) [samīpam](samīpam) [agatvā](agatvā) [iti](iti) [arthaḥ](arthaḥ) [te](te) [rāja-kumārāḥ](rājakumārāḥ)
+[with-bowing-etc](praṇāma+ādi+pūrvakaṃ) [having-approached-near](samīpam+agatvā) [thus-meaning](iti+arthaḥ) [they](te) [king-princes](rāja+kumārāḥ)
 
 ## mukta-m0-p64-v1587
-[jagrāha-aśvam](jagrāhāśvaṃ) [yajñiyam](yajñiyaṃ) [tam](taṃ) [rāja-putram](rājaputran) [hi](hi) [bhartasayan](bhartasayan)
+[seized](jagrāha) [horse](aśvaṃ) [sacrificial](yajñiyaṃ) [that](taṃ) [king-son](rāja+putran) [indeed](hi) [reviling](bhartsayan)
 
 ## mukta-m0-p64-v1588
-[tāvat-taṅgaṇa-putraḥ-api](tāvattaṅgaṇaputro'pi) [gaṇḍa-śailam](gaṇḍaśailaṃ) [puraḥ](puraḥ) [sthitam](sthitam)
+[then](tāvat) [taṅgaṇa-son](taṅgaṇa+putraḥ) [also](api) [gaṇḍa-rock](gaṇḍa+śailaṃ) [in-front](puraḥ) [standing](sthitam)
 
 ## mukta-m0-p64-v1589
-[tam](taṃ) [muni-putram](muniputram)
+[that](taṃ) [sage-son](muni+putram)
 
 ## mukta-m0-p64-v1590
-[sa-aśvam](sāśvaṃ) [śilā-vilīnam](śilāvilīnaṃ) [tam](taṃ) [dṛṣṭvā](dṛṣṭvā) [rāja-kumārakāḥ](rājakumārakāḥ)
+[with-horse](sa+aśvaṃ) [in-stone-merged](śilā+vilīnaṃ) [that](taṃ) [having-seen](dṛṣṭvā) [king-princes](rāja+kumārakāḥ)
 
 ## mukta-m0-p64-v1591
-[tam](taṃ) [muni-putram](muniputram)
+[that](taṃ) [sage-son](muni+putram)
 
 ## mukta-m0-p64-v1592
-[cūrṇitāt](cūrṇitād) [gaṇḍa-śailāt](gaṇḍaśailāt) [saḥ](sa) [mahatyā](mahatyā) [senayā](senayā) [vṛtaḥ](vṛtaḥ)
+[from-crushed](cūrṇitād) [gaṇḍa-rock](gaṇḍa+śailāt) [he](sa) [with-great](mahatyā) [army](senayā) [surrounded](vṛtaḥ)
 
 ## mukta-m0-p64-v1593
-[uccāvacaiḥ](uccāvacair) [uttamaiḥ](uttamair) [adhamaiḥ](adhamaiś) [ca](ca) [cūrṇitāt](cūrṇitāt) [cūrṇita-eka-deśāt](cūrṇitaikadeśāt)
+[with-high-and-low](uccāvacaiḥ) [with-superior](uttamaiḥ) [and-inferior](adhamaiḥ) [and](ca) [from-crushed](cūrṇitāt) [from-crushed-part](cūrṇita+eka+deśāt)
 
 ## mukta-m0-p64-v1594
-[nihatya](nihatya) [senām](senāṃ) [sauṣeṇīm](sauṣeṇīṃ) [baddhvā](baddhvā) [rāja-kumārakān](rājakumārakān)
+[having-slain](nihatya) [army](senāṃ) [of-suṣeṇa](sauṣeṇīṃ) [having-bound](baddhvā) [king-princes](rāja+kumārakān)
 
 ## mukta-m0-p64-v1595
-[tān](tān) [rāja-kumārān](rājakumārān)
+[those](tān) [king-princes](rāja+kumārān)
 
 ## mukta-m0-p64-v1596
-[atha](atha) [senā-bhaṭāḥ](senābhaṭāḥ) [śiṣṭāḥ](śiṣṭā) [gatvā](gatvā) [rājñe](rājñe) [nyavedayan](nyavedayan)
+[then](atha) [army-soldiers](senā+bhaṭāḥ) [remaining](śiṣṭā) [having-gone](gatvā) [to-king](rājñe) [reported](nyavedayan)
 
 ## mukta-m0-p64-v1597
-[sundara-puram](sundarapuraṃ) [gatvā](gatvā)
+[to-sundara-city](sundara+puraṃ) [having-gone](gatvā)
 
 ## mukta-m0-p64-v1598
-[suṣeṇaḥ](suṣeṇo) [vismitaḥ](vismito) [atyantam](atyantam) [uvāca-avarajam](uvācāvarajaṃ) [svakam](svakam)
+[suṣeṇa](suṣeṇaḥ) [astonished](vismitaḥ) [extremely](atyantam) [spoke](uvāca) [to-younger-brother](avarajaṃ) [his-own](svakam)
 
 ## mukta-m0-p64-v1599
-[tat](tat) [śrutvā](śrutvā) [vismitaḥ](vismitaḥ)
+[having-heard-that](tat+śrutvā) [astonished](vismitaḥ)
 
 ## mukta-m0-p64-v1600
-[tapasvinaḥ](tapasvino) [acintya-vīryāḥ](acintyavīryā) [ajeyāḥ](ajeyā) [deva-mānuṣaiḥ](devamānuṣaiḥ)
+[ascetics](tapasvinaḥ) [of-inconceivable-power](acintya+vīryāḥ) [unconquerable](ajeyāḥ) [by-gods-and-men](deva+mānuṣaiḥ)
