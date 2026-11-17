@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p39-v951
-[kāmeśvarī-mantram](kāmeśvarīmanuṃ) [and](ca) [indeed](eva) [five-knowledge-mantra](paṃcavidyāmanuṃ) [one-should-remember](smaret)
+kāmeśvarī-mantra and also five-vidyās remember
 
 ## mukta-m0-p39-v952
-[by-this](anena) [also](api) [and](ca) [by-means](yogena) [if](yadi) [she](sā) [not](na) [indeed](hi) [should-flow](vidravet)
+by this also yoga if she not indeed melt
 
 ## mukta-m0-p39-v953
-[one-should-employ](prāyuṃjīta) [according-to-rule](vidhānena) [muttering](japan) [nectar-leading-goddess](amṛtanāyikām)
+use according-to-rite reciting amṛta-nāyikā
 
 ## mukta-m0-p39-v954
-[by-ghaṭṭālī-sport](ghaṭṭālīlakayā) [then](amātaḥ) [one-should-agitate](kṣobhayet) [abode-of-love](madanālayam)
+by ghaṭṭa-līlaka agitate madana-ālaya
 
 ## mukta-m0-p39-v955
-[by-that](tena) [flows](dratyatī) [quickly](cīra) [fluid](dravā) [moon-digit-stream](caṃdrakalāsirā)
+by that dratyati-icīra dravā-candra-kalā-sirā
 
 ## mukta-m0-p39-v956
-[very-secret](atigupta) [great-knowledge](mahāvidyā) [whose-form](svarūpāḥ) [daughter-of-mountain](śailanaṃdinī)
+very-secret great-vidyā forms daughter-of-mountain
 
 ## mukta-m0-p39-v957
-[if](yadi) [true](satyaṃ) [world-supporter](jagaddhātā) [bearer-of-five-acts](paṃcakṛtyadharaḥ) [Śiva](śivaḥ)
+if true world-supporter five-acts-bearer Shiva
 
 ## mukta-m0-p39-v958
-[if](yadi) [true](satyaṃ) [of-all](samastānāṃ) [of-scriptures](śāstrāṇāṃ) [goal](gatiḥ) [seer-of-self](ātmadṛk)
+if true of all scriptures goal self-seer
 
 ## mukta-m0-p39-v959
-[if](yadi) [true](satyaṃ) [Rati](ratiḥ) [Kāma](kāmo) [may-conquer](vijayeta) [by-you](tvayā) [world](jagat)
+if true pleasure desire conquer by-you world
 
 ## mukta-m0-p39-v960
-[if](yadi) [true](satyaṃ) [of-body-bearers](dehabhājāṃ) [of-all](sarveṣāṃ) [giver-of-happiness](sukhadaḥ) [Love-god](smaraḥ)
+if true of body-holders all pleasure-giving Kama
 
 ## mukta-m0-p39-v961
-[if](yadi) [true](satyaṃ) [good-giver-ness](sudātvaṃ) [and](ca) [in-supreme-bliss](paramānaṃda) [giver](dāyake)
+if true good-giving and supreme-bliss giver
 
 ## mukta-m0-p39-v962
-[if](yadi) [true](satyaṃ) [worshipped-by-all](sarvapūjyā) [of-throne](siṃhāsana) [great-goddess](maheśvarī)
+if true all-worshipful lion-throne Maheshvari
 
 ## mukta-m0-p39-v963
-[if](yadi) [true](satyaṃ) [of-guru](guruḥ) [command](ājñā) [everywhere](sarvatra) [unfailing-arising](askhalitodayā)
+if true guru's-command everywhere unerring-rise
 
 ## mukta-m0-p39-v964
-[thus](iti) [eight-verse](aṣṭakārikā) [recitation](pāṭha) [immediately-after](samanaṃtaram) [indeed](eva) [she](sā)
+thus eight-verse-reading immediately indeed she
 
 ## mukta-m0-p39-v965
-[by-that](tena) [nectar](amṛtena) [pure](śuddhena) [cool](śītalena) [very-light](laghīyasā)
+by that nectar pure cool light
 
 ## mukta-m0-p39-v966
-[having-form-of-Ganges-water](gaṃgodaka+svarūpeṇa) [one-should-satisfy](tarpayet) [liṅga-fire](liṃga+pāvakam)
+in Ganga-water form satisfy linga-fire
 
 ## mukta-m0-p39-v967
-[this](idaṃ) [of-sacrifice](yajña) [of-gifts](pradānāṃ) [limb](aṅgam) [this](īyaṃ) [path-to-liberation](kaivalya+paddhatiḥ)
+this sacrifice offering limb this kaivalya-method
 
 ## mukta-m0-p39-v968
-[fruit-of-self-knowledge](ātma+vidyā+phalaṃ) [and](ca) [this](etat) [fruit-of-self-knowledge](ātma+vidyā+phalaṃ) [indeed](tu) [this](idam)
+self-knowledge-fruit and this self-knowledge-fruit indeed this
 
 ## mukta-m0-p39-v969
-[by-that](tena) [worshipped](saṃpūjitaḥ) [and](ca) [that](asau) [terribleness](bhīmatvaṃ) [to-him](tasya) [bestows](yacchati)
+by that well-worshipped and he fearfulness to-him gives
 
 ## mukta-m0-p39-v970
-[with-devotion](sa+bhaktaḥ) [supreme-space](parama+ākāśa) [having-form](rūpaḥ) [gone-to-purity](nirmalatāṃ+gataḥ)
+with-devotee supreme-space form purity-gone
 
 ## mukta-m0-p39-v971
-[earth-etc.](bhūmi+ādi) [of-all-beings](sarva+bhūtānām) [space](avakāśa) [giver](pradaḥ) [himself](svayam)
+earth-etc all-beings space gives itself
 
 ## mukta-m0-p39-v972
-[not](na) [by-merits](puṇyaiḥ) [not](na) [and](ca) [by-sins](pāpaiḥ) [and](ca) [not](na) [by-dharma-and-adharma](dharma+adharma) [breaking](bhaṅgibhiḥ)
+not by merits not by sins not by dharma-adharma-breakers
 
 ## mukta-m0-p39-v973
-[not](na) [by-harm-and-help](apakāra+upakāraiḥ) [and](ca) [not](na) [by-poverty-and-prosperity](dāridrya+vibhūtibhiḥ)
+not by harm-benefit and not by poverty-prosperity
 
 ## mukta-m0-p39-v974
-[not](na) [and](ca) [by-bondage-and-liberation](baṃdha+vimokṣābhyāṃ) [untouched](aspṛṣṭaḥ) [consisting-of-consciousness-nectar](cit+sudhā+mayaḥ)
+not by bondage-liberation untouched consciousness-nectar-made
 
 ## mukta-m0-p39-v975
-[gandharva-city](gaṃdharva+nagara) [having-form](ākāram) [even](api) [and](ca) [experiences](anubhavati) [therefore](ataḥ)
+gandharva-city-like also experiences from-that

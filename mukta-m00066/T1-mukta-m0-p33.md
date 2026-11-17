@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p33-v801
-opened-mouth (vidāritamukhī) again (bhūyaḥ) releases (vimuṃcati) supreme-nectar (parāmṛtam)
+[vidārita+mukhī](vidāritamukhī) [bhūya](bhūya) [vimuṃcati](vimuṃcati) [para+amṛta](parāmṛtam)
 
 ## mukta-m0-p33-v802
-with-ancient-liquor-fragrance (purāṇasīdhusaurabhyā) full (nirbharaṃ) cool (śītalaṃ) light (laghu)
+[purāṇa+sīdhu+saurabhya](purāṇasīdhusaurabhyā) [nirbharaṃ](nirbharaṃ) [śītalaṃ+laghu](śītalaṃlaghu)
 
 ## mukta-m0-p33-v803
-like-sarasvatī (sarasvatī) like-śiva-line (śivalinī) like-holy-place (tīrtha) and (ca) also (api) purifying (pāvanam)
+[sarasvatī](sarasvatī) [śivalinī+tīrtha](śivalinītīrtha) [vaccāpi](vaccāpi) [pāvanam](pāvanam)
 
 ## mukta-m0-p33-v804
-wind-element (vāyutattva) equality (samatvaṃ) and (ca) one-should-subdue (vaśīkuryāt) without-effort (ayatnataḥ)
+[vāyu+tattva](vāyutattva) [samatvaṃ](samatvaṃ) [ca](ca) [vaśīkuryāt+ayatnataḥ](vaśīkuryādayatnataḥ)
 
 ## mukta-m0-p33-v805
-forcibly (hāṭhāt) of-tree (vṛkṣasya) in-breakings (bhaṃgeṣu) forcibly (hāṭhāt) in-mountain-shaking (śaila+prakaṃpane)
+[haṭhāt+vṛkṣasya](hāṭhātvṛkṣasya) [bhaṃgeṣu](bhaṃgeṣu) [haṭhāt+śaila](hāṭhācchaila) [prakaṃpane](prakaṃpane)
 
 ## mukta-m0-p33-v806
-four-tradition (caturāmnāya) tantra-declared (taṃtra+ukta) all-action-fruit-bestowing (sarva+karma+phala+pradā)
+[catur+āmnāya](caturāmnāya) [tantra+ukta](taṃtrokta) [sarva+karma+phala+pradā](sarvakarmaphalapradā)
 
 ## mukta-m0-p33-v807
-of-messenger (dūtyāḥ) of-body-creeper (śarīra+latikā) state (daśām) also (api) O-Śiva (śive) hear (śṛṇu)
+[dūtyā+śarīra+latikā](dūtyāśarīralatikā) [daśām+api](daśāmapi) [śive](śive) [śṛṇu](śṛṇu)
 
 ## mukta-m0-p33-v808
-slight-rest (īṣat+viśrāṃnti) movement (saṃcāra) pupil (tārakā) dance (tāṃḍavaṃ) of-eyes (dṛśoḥ)
+[īṣat+viśrāṃti](īṣadviśrāṃnti) [saṃcāra](saṃcāra) [tārakā](tārakā) [tāṃḍavaṃ](tāṃḍavaṃ) [dṛśoḥ](dṛśoḥ)
 
 ## mukta-m0-p33-v809
-gentle-smile-manifestation (manda+smita+samunmeṣaḥ) of-eyes (dṛśoḥ) bliss-drops (ānaṃda+biṃdavaḥ)
+[manda+smita+samunmeṣo](maṃdasmitasamunmeṣo) [dṛśoḥ+ānaṃda](dṛśorānaṃda) [biṃdavaḥ](biṃdavaḥ)
 
 ## mukta-m0-p33-v810
-such (etādṛśāḥ) qualities (guṇāṃ) declared (proktāḥ) in-third-oblation-rite (tṛtīya+āhuti+karmaṇi)
+[etādṛśa+guṇāṃ](etādṛśāguṇāṃ) [proktāḥ](proktāstṛtīyāhuti) [karmaṇi](karmaṇi)
 
 ## mukta-m0-p33-v811
-because-of-continuous-horripilation-sprout-jaggedness (prasakta+pulakāṃkūra+daṃturatvāt) incessantly (niraṃtaram)
+[prasakta+pulakāṃkūra](prasaktapulakāṃkūra) [daṃtu+ratvāt+niraṃtaram](daṃturatvānniraṃtaram)
 
 ## mukta-m0-p33-v812
-are-drunk (pīyaṃte) by-enjoyers (bhogibhiḥ) by-ears (karṇaiḥ) with-great-reverence-offered (ati+ādara+samarpitaiḥ)
+[pīyaṃte](pīyaṃte) [bhogibhiḥ](bhogibhiḥ) [karṇaiḥ+atyādara+samarpitaiḥ](karṇairatyādarasamarpitaiḥ)
 
 ## mukta-m0-p33-v813
-very-red-hued (atīva+pāṭala+cchāyā) on-cheeks (gaṃḍayoḥ) on-eyes (netrayoḥ) also (api)
+[atīva+pāṭala+cchāyā](atīvapāṭalacchāyā) [gaṃḍayoḥ+netrayoḥ+api](gaṃḍayornnetrayorapi)
 
 ## mukta-m0-p33-v814
-by-own-heel-striking (nija+pārṣṇi+praghātena) prodding (todanaṃ) O-lord (nātha) from-behind (pṛṣṭhataḥ)
+[nija+pārṣṇi+praghātena](nijapārṣṇi) [todanaṃ](todanaṃ) [nātha](nātha) [pṛṣṭhataḥ](pṛṣṭhataḥ)
 
 ## mukta-m0-p33-v815
-by-flowing-mind (vahatā+manasā) properly (samyak) into-bliss (ānaṃdāt) entering (praveśanam)
+[vahatām+anasā](vahatāmanasā) [samyag+ānaṃda+anna+praveśanam](ānaṃdānnapraveśanam)
 
 ## mukta-m0-p33-v816
-oh (aho) you (tvam) bliss-filled (ānaṃda+mayaḥ) me (māṃ) immerse (majjayasi) in-consciousness-face (cit+mukhe)
+[aho+tvam+ānaṃda+maya](ahotvamānaṃda) [māṃ](māṃ) [majjayasi](majjayasi) [cin+mukhe](cinmukhe)
 
 ## mukta-m0-p33-v817
-so (tathā) do (kuru) so (tathā) O-lord (nātha) so (tathā) press (mardaya) press (mardaya)
+[tathā](tathā) [kuru](kuru) [tathā](tathā) [nātha](nātha) [tathā+mardaya+mardaya](tathāmardayamardaya)
 
 ## mukta-m0-p33-v818
-give (diśa) to-me (me) happiness-all-wealth (sukha+sarvasvam) thus (iti) hundreds-of-utterances (jalpa+śatāni) also (api)
+[diśame](diśame) [sukha+sarvasvam](sukhasarvasvam) [iti](iti) [jalpa+śatāny+api](jalpaśatānyapi)
 
 ## mukta-m0-p33-v819
-thus (iti) eight-great-offering (aṣṭaka+mahā+homa) quartet (catuṣkaṃ) declared (samudīritam)
+[iti+aṣṭaka+mahā+homa](ityaṣṭakamahāhoma) [catuṣkaṃ](catuṣkaṃ) [samudīritam](samudīritam)
 
 ## mukta-m0-p33-v820
-of-that (tasyāḥ) but (tu) O-fair-one (śubhage) of-channel (nāḍyāḥ) up-to-extended-half-finger (pronnata+ardha+aṅgula+avadhau)
+[tasyāḥ+tu](tasyāstu) [śubhage](śubhage) [nāḍyāḥ](nāḍyāḥ) [pronnatārtha+aṃgula+avadhau](pronnatārthāṃgulāvadhau)
 
 ## mukta-m0-p33-v821
-split-crystal-like (vibhinna+sphaṭika+ākārā) always (sadā) horripilated-form (pulakita+ākṛtiḥ)
+[vibhinna+sphaṭikā+ākārā](vibhinnasphaṭikākārā) [sadā](sadā) [pulakita+ākṛtiḥ](pulakitākṛtiḥ)
 
 ## mukta-m0-p33-v822
-always (sadā) throbbing (sphuraṃtī) of-body (dehasya) radiance-manifestation-increasing (kānti+unmeṣa+vivarddhinī)
+[sadā](sadā) [sphuraṃtī](sphuraṃtī) [dehasya](dehasya) [kāṃti+unmeṣa+vivarddhinī](kāṃtyunmeṣavivarddhinī)
 
 ## mukta-m0-p33-v823
-with-liṅga-śaṅkara-abundant-moving-dance-displays (liṃga+śaṃkara+bhūyiṣṭha+cārita+āṇḍava+ḍaṃbaraiḥ)
+[liṃga+śaṃkara+bhūyiṣṭha](liṃgaśaṃkarabhūyiṣṭha) [cārita+aṃḍava+ḍaṃbaraiḥ](cāritāṃḍavaḍaṃbaraiḥ)
 
 ## mukta-m0-p33-v824
-union (ghaṭanaṃ) gradually (kramaśaḥ) which (yat) that (tat) performing-moving-dance (cārita+āṇḍavam) performing (ācaran)
+[ghaṭanaṃ](ghaṭanaṃ) [kramaśaḥ](kramaśo) [yat](yat) [tat](tat) [cārita+aṃḍavam+ācaran](cāritāṇḍavamācaran)
 
 ## mukta-m0-p33-v825
-of-candravati (caṃdravati) nectar (amṛtaṃ) all (sarvaṃ) causes-to-flow-down (pracyāvayati) O-beautiful-one (suṃdari)
+[caṃdravatyamṛtaṃ](caṃdravatyamṛtaṃ) [sarvaṃ](sarvaṃ) [pracyāvayati](pracyāvayati) [suṃdari](suṃdari)

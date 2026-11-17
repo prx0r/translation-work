@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p28-v676
-others(anye) say(vadaṃti) in-mind(manasi) supreme+vital-air(pare+amāruta) they-said(ūcire)
+[other](anye) [speak](vadaṃti) [mind](manasi) [supreme-wind](paremāruta) [they-said](ūcire)
 
 ## mukta-m0-p28-v677
-views(matāni) these(etāni) not-beautiful(acāruṇi) in-investigation(vicāre) having-commenced(saṃpravarttite)
+[opinions](matāni) [these-other](etānyacāruṇi) [in-inquiry](vicāre) [being-conducted](saṃpravarttite)
 
 ## mukta-m0-p28-v678
-of-mind(manasas) and-of-vital-air(marutas) and(ca) indeed(eva) in-conjunction(saṃghaṭṭe) power+dependent(vīrya+saṃśrayā)
+[mind](manaso) [wind](marutaścaiva) [conjunction](saṃghaṭṭe) [power-dependence](vīryasaṃśrayā)
 
 ## mukta-m0-p28-v679
-of-those-two(tayos) but(tu) for-the-purpose-of-union(ghaṭana+arthaṃ) and(ca) yoga+treatise(yoga+taṃtraṃ) by-me-made(mayā+ākṛtam)
+[their](tayostu) [union-purpose](ghaṭanārthaṃ) [ca](ca) [yoga-tantra](yogataṃtraṃ) [by-me-made](mayākṛtam)
 
 ## mukta-m0-p28-v680
-with-passion(rajasā) to-unite(vāyojayituṃ) intellect+vital-air+union(dhī+marut+ghaṭanaṃ) O-lord(prabhu)
+[by-passion](rajasā) [to-unite](vāyojayituṃ) [wise-wind-union](dhīmarudghaṭanaṃ) [lord](prabhu)
 
 ## mukta-m0-p28-v681
-of-them(taṣām) within(aṃto) not(na) and(ca) thus(asi) indeed(eva) by-these(etaiḥ) fruit(phalaṃ) not(na) indeed(hi) would-arise(saṃbhavet)
+[their](taṣāmaṃto) [not](na) [also-thus](cāsyevataiḥ) [fruit](phalaṃ) [not](na) [indeed](hi) [possible](saṃbhavet)
 
 ## mukta-m0-p28-v682
-fierce+power(ugra+śakti) with-sweet-tastes(madhu+svādaiḥ) higher-and-higher(uttara+uttaram) by-higher(uttaraiḥ)
+[fierce-power](ugraśakti) [honey-sweetness](madhusvādairuttarottaramuttaraiḥ)
 
 ## mukta-m0-p28-v683
-by-gaulī(gaulī) contact+strengthened(saṃparka+balinā) by-intellect+vital-air+union+nature(dhī+marut+ghaṭana+ātmanā)
+[gauli](gaulī) [contact-strength](saṃparkabalinā) [wise-wind-union-self](dhīmarudghaṭanātmanā)
 
 ## mukta-m0-p28-v684
-being-present(vidyamāne) but(tu) in-the-heart(hṛdaye) in-the-abode(nilaye) in-union(ghaṭane) again(punaḥ)
+[existing](vidyamāne) [tu](tu) [heart](hṛdaye) [abode](nilaye) [union](ghaṭane) [again](punaḥ)
 
 ## mukta-m0-p28-v685
-slight(īṣat) intellect+vital-air+union(dhī+vāyu+ghaṭanā) with-that(sa+sonā) indeed(eva) effective(prayojakaḥ)
+[slightly](īṣaddhivāyughaṭanā) [sasonaiva](sasonaiva) [purposeful](prayojakaḥ)
 
 ## mukta-m0-p28-v686
-therefore(atas) of-mind(cittasya) of-vital-air(marutas) union(yogaḥ) first(prathamam) is-declared(ucyate)
+[therefore](ataścittasya) [wind](maruto) [yoga](yogaḥ) [first](prathamamucyate)
 
 ## mukta-m0-p28-v687
-of-Patañjali(pādāṃjaliṃ) or(vā) of-the-system(dhātuḥ) that(sa) in-yoga(yoge) that(tat) difficult-to-obtain(durllabhas) would-be(bhavet)
+[lotus-feet](pādāṃjaliṃ) [vā](vā) [element](dhātuḥ) [sa](sa) [in-yoga](yoge) [that-difficult](taddurllabho) [becomes](bhavet)
 
 ## mukta-m0-p28-v688
-by-the-Nāths(nādaiḥ) and(ca) by-Gorakṣa-and-others(gorakṣa+mukhaiḥ) this(tat) treatise(taṃtram) this(etat) was-spread(vitānatam)
+[sounds](nādaiścagorakṣamukhaistaṃtrametadvitānatam)
 
 ## mukta-m0-p28-v689
-by-yoga(yogena) with-stabilized-semen(stabdha+vīryās) and(ca) always(sadā) enjoyments(bhogān) attend-to(upāsate)
+[by-yoga](yogena) [stiffened-power](stabdhavīryāśca) [always](sadābhogānupāsate)
 
 ## mukta-m0-p28-v690
-Matsyendra(matsyeṃdra) and-Gorakṣa(nā+gorakṣas) and(ca) Caturaṅgī(caturaṃgī) and(ca) Kandalī(kaṃdalī)
+[matsyendra](matsyeṃdranāgorakṣaścaturaṃgī) [ca](ca) [kandalī](kaṃdalī)
 
 ## mukta-m0-p28-v691
-Capeṭika(capeṭikas) Cūḍabāla(cūḍabālas) and(tathā) Gobāla(gobālas) indeed(eva) and(ca)
+[capeṭika](capeṭiko) [cūḍabāla](cūḍabālastathā) [gopāla](gobāla) [eva](eva) [ca](ca)
 
 ## mukta-m0-p28-v692
-Vyāla(vyāla) Heraṇḍa(heraṇḍa) by-name(nāmā) and(ca) Śūrpapāyī(śūrpapāyī) and(tathā) another(paraḥ)
+[vyāla](vyāloheraṇḍa) [nāma](nāmā) [ca](ca) [śūrpapāyī](śūrpapāyī) [then](tathā) [other](paraḥ)
 
 ## mukta-m0-p28-v693
-these(ete) intellect+vital-air(dhī+marutas) union(ghaṭṭaṃ) time+overpowering+capable(kāla+saṃkarṣaṇa+kṣamam)
+[these-wise-winds](etedhīrmaruto) [union](ghaṭṭaṃ) [time-absorption-capable](kālasaṃkarṣaṇakṣamam)
 
 ## mukta-m0-p28-v694
-having-shattered(khaṇḍayitvā) time+staff(kāla+daṇḍaṃ) in-the-universes(brahmāṃḍeṣu) move(caraṃti) they(te)
+[breaking](khaṇḍayitvā) [time-staff](kāladaṇḍaṃ) [in-brahma-eggs](brahmāṃḍeṣu) [wander](caraṃti) [they](te)
 
 ## mukta-m0-p28-v695
-that(tat) essence+become(sāra+bhūtaṃ) that(tat) for-semen+protection(vīrya+rakṣā+arthaṃ) view(matam) is-declared(ucyate)
+[that-essence](tatsārabhūtaṃ) [that-power](tadvīryarakṣārthaṃ) [opinion](matamucyate)
 
 ## mukta-m0-p28-v696
-that(tam) indeed(eva) yoga(yogaṃ) supreme(paramaṃ) yogins(yoginas) regard(samacakṣate)
+[that-same](tameva) [yoga](yogaṃ) [supreme](paramaṃ) [yogins](yoginaḥ) [regard](samacakṣate)
 
 ## mukta-m0-p28-v697
-both(ubhau) world+creation+causing(jagat+sṛṣṭi+karau) which(yat) mind+vital-air+lords(manas+māruta+īśvarau)
+[both](ubhaujagatsṛṣṭikarau) [yanmanomāruteśvarau](yanmanomāruteśvarau)
 
 ## mukta-m0-p28-v698
-great+consciousness(mahā+saṃvit) light+nature(prakāśa+ātma) own-form+essence+restraint(svarūpa+vasu+nigrahau)
+[great-consciousness](mahāsaṃvit) [manifest-self](prakāśātma) [own-form](svarūpavasunigrahau)
 
 ## mukta-m0-p28-v699
-both(ubhau) destroy(nāśayatas) body(deha) gradually(krameṇa) well-practiced(pariśīlitau)
+[both](ubhau) [destroy](nāśayato) [body](deha) [gradually](krameṇa) [cultivated](pariśīlitau)
 
 ## mukta-m0-p28-v700
-death+become(mṛtyu+bhūtā) these-two(imau) indeed(eva) life+become(prāṇa+bhūtā) these-two(imau) again(punaḥ)
+[death-being](mṛtyubhūtā) [vimāveva](vimāveva) [life-being](prāṇabhūtā) [vimau](vimau) [again](punaḥ)

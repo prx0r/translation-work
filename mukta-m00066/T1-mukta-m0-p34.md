@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p34-v826
-[somewhat](kiṃcit) [slimy+become](piccilita+āpannaṃ) [somewhat](kiṃcid) [very+subtle+bubbles](utsūkṣma+budbudam)
+[somewhat](kiṃcit) [slimy-attained](piccilitāpannaṃ) [somewhat](kiṃcit) [very-fine-bubble](utsūkṣmabudbudam)
 
 ## mukta-m0-p34-v827
-[very+bliss+causing](aty+ānanda+karaṃ) [O-goddess](devi) [by-touch+alone](sparśanāt+eva) [of-enjoyers](bhoginām)
+[excessive-bliss-causing](atyānaṃdakaraṃ) [goddess](devi) [by-touch-alone](sparśanādeva) [of-enjoyers](bhoginām)
 
 ## mukta-m0-p34-v828
-[Śoṇā+named](śoṇā+abhidhā) [great+holy-place](mahā+tīrtha) [my+sorrow+drying](mayaṃ+śoka+viśoṣaṇam)
+[red-named](śoṇābhidhā) [great-ford](mahātīrtha) [illusion-sorrow-drying](mayaṃśokaviśoṣaṇam)
 
 ## mukta-m0-p34-v829
-[liṅga+formed](liṃga+rūpiṇam) [fierce+passion+flame+matted-hair+filled](uddāma+rāga+jvālā+jaṭā+ākulam)
+[linga-formed](liṃgarūpiṇam) [great-rage-flame-matted-hair-mass](uddāmarāgajvālājaṭākulam)
 
 ## mukta-m0-p34-v830
-[O-great-liṅga](mahāliṃga) [O-great-lord](maheśāna) [with-juices](rasaiḥ) [moon-possessing](caṃdravatī) [with-beings](bhavaiḥ)
+[great-linga](mahāliṃga) [great-lord](maheśāna) [with-juices-moonlike](rasaiścaṃdravatī) [with-states](bhavaiḥ)
 
 ## mukta-m0-p34-v831
-[of-devotee](bhaktasya) [lordship+state](īśāna+bhāvaṃ) [and](ca) [sun+principle+subjugation](sūrya+tatva+vaśīkṛtim)
+[of-devotee-lordship-state](bhaktasyeśānabhāvaṃ) [and](ca) [sun-principle-subjugation](sūryatatvavaśīkṛtim)
 
 ## mukta-m0-p34-v832
-[of-senses](iṃdriyāṇāṃ) [strength](prabalatāṃ) [far+seeing](dūra+dṛṣṭim) [O-mother](adāṃbike)
+[of-senses](iṃdriyāṇāṃ) [strength](prabalatāṃ) [far-sight](dūradṛṣṭim) [O-Ambika](adāṃbike)
 
 ## mukta-m0-p34-v833
-[bestows](prayacchati) [all](akhilāṃ) [accomplishment](siddhiṃ) [fiery](taijasīṃ) [world+illuminating](viśva+bhāsinīm)
+[gives](prayacchati) [all](akhilāṃ) [perfection](siddhiṃ) [luminous](taijasīṃ) [world-illuminating](viśvabhāsinīm)
 
 ## mukta-m0-p34-v834
-[by-this](anayā) [fifth+oblation](paṃcama+āhutyā) [five+faced+equal](paṃca+ānana+samaḥ) [one-becomes](bhavet)
+[by-this](anayā) [fifth-offering](paṃcamāhutyā) [five-faced-equal](paṃcānanasamo) [becomes](bhavet)
 
 ## mukta-m0-p34-v835
-[fifth+oblation+time](paṃcama+āhuti+kāle) [but](tu) [messenger+state](dūtya+avasthā) [is-reported](nivedyate)
+[fifth-offering-time](paṃcamāhutikāle) [but](tu) [messenger-state](dūtyavasthā) [is-declared](nivedyate)
 
 ## mukta-m0-p34-v836
-[repeatedly](muhuḥ) [eyelash](pakṣma) [trembling](praveśaḥ) [and](ca) [of-eye+pupils](netra+tārakayoḥ) [of-two](dvayoḥ)
+[repeatedly](muhuḥ) [eyelash](pakṣma) [entry-and](praveśaśca) [of-two-eye-pupils](netratārakayordvayoḥ)
 
 ## mukta-m0-p34-v837
-[from-longing](utkaṇṭhataḥ) [dove+woman](kapota+strī) [throat+stammering+speech](gala+gadgada+bhāṣitam)
+[with-longing](utkaṇṭhataḥ) [dove-woman](kapotastrī) [throat-stammering-speech](galagadgadabhāṣitam)
 
 ## mukta-m0-p34-v838
-[garland+string+arranging](ala+mālā+paracanaṃ) [again](punar) [enthusiasm+speaking](utsāha+bhāṣaṇam)
+[garland-arrangement](alamālāparacanaṃ) [again](punar) [enthusiasm](utsāha) [speech](bhāṣaṇam)
 
 ## mukta-m0-p34-v839
-[not](na) [anything+at-all](kiṃcid+api) [I-know](jānāmi) [become+I](jātā+ahaṃ) [your](tava) [servant](kiṃkarī)
+[not](na) [anything](kiṃcidapi) [I-know](jānāmi) [born](jātāhaṃ) [your](tava) [servant](kiṃkarī)
 
 ## mukta-m0-p34-v840
-[I](ahaṃ) [your+sole+refuge](tvad+eka+śaraṇā) [protect+protect](rakṣa+rakṣa) [firmly+strike](dṛḍhaṃ+jahi)
+[I](ahaṃ) [your-only-refuge-protector](tvadekaśaraṇārakṣarakṣa) [firmly-abandon](dṛḍhaṃjahi)
 
 ## mukta-m0-p34-v841
-[somewhat](kiṃcid) [vulva+exhaustion+even](yoni+avasāde+api) [of-mind](manasaḥ) [very+great+effort](su+mahā+udyamaḥ)
+[somewhat](kiṃcid) [in-yoni-descent](yonyavasādepi) [of-mind](manasaḥ) [great-exertion](sumahodyamaḥ)
 
 ## mukta-m0-p34-v842
-[in-all](sarveṣu) [even](api) [and](ca) [in-limbs](gātreṣu) [intoxication+scent+arising](mada+gaṃdha+samudbhavaḥ)
+[in-all](sarvesvapi) [and](ca) [in-limbs](gātreṣu) [intoxicating-fragrance-arising](madagaṃdhasamudbhavaḥ)
 
 ## mukta-m0-p34-v843
-[desire+afflicted](kāma+ārtta) [female-osprey+throat](kurarī+kaṃṭha) [crying+like](ruta+vat) [sweet+sound](maṇita+dhvaniḥ)
+[love-afflicted](kāmārtta) [osprey-throat](kurarīkaṃṭha) [like-cry-jewel-sound](rutavanmaṇitadhvaniḥ)
 
 ## mukta-m0-p34-v844
-[thus+beginning](iti+ādayaḥ) [qualities](guṇāḥ) [declared](proktāḥ) [in-fifth](paṃcamyām) [in-oblation](āhutau) [again](punaḥ)
+[thus-etc](ityādayo) [qualities](guṇāḥ) [declared](proktāḥ) [in-fifth-offering](paṃcamyāmāhutau) [again](punaḥ)
 
 ## mukta-m0-p34-v845
-[spoke+five+endowed](ara+paṃcaka+saṃyuktā) [svastika+shape+possessing](svastika+ākāra+śālinī)
+[five-syllable-a](arapaṃcaka) [joined](saṃyuktā) [swastika-shaped](svastikākāraśālinī)
 
 ## mukta-m0-p34-v846
-[bearing](bibhratī) [moon+cool](caṃdra+śiśirāt) [her](tasyā) [in-head](masti) [nectar](amṛtaṃ) [of-moon](vidhoḥ)
+[bearing](bibhratī) [moon-cool-nectar](caṃdraśiśirāmṛtaṃ) [of-moon](vidhoḥ)
 
 ## mukta-m0-p34-v847
-[rubbing+requiring](mardana+apekṣaṇī) [should-be](bhūyāt) [therefore](tasmāt) [to-be-given](deyā) [long+flowing](cira+dravā)
+[needing-rubbing](mardanāpekṣaṇī) [may-be](bhūyās) [therefore-given](tasmādeyā) [long-flowing](ciradravā)
 
 ## mukta-m0-p34-v848
-[of-liṅgeśvara](liṃgeśvarasya) [indeed](eva) [city](puram) [by-raised](uddhataiḥ) [upward+testicles](ūrdhva+tāṇḍavaiḥ)
+[of-linga-lord](liṃgeśvarasyaiva) [city](puram) [with-raised-upward-dances](uddhatairūrdhvatāṇḍavaiḥ)
 
 ## mukta-m0-p34-v849
-[flows](sravati) [nectar+stream](amṛta+vicchardam) [lunar](aiṃdavaṃ) [joy+increasing](harṣa+vardhanam)
+[flows](sravaty) [nectar-vomit](amṛtavicchardam) [lunar](aiṃdavaṃ) [joy-increasing](harṣavardhanam)
 
 ## mukta-m0-p34-v850
-[its](tasya) [nature](svarūpam) [now](adhunā) [having-discerned](vivicya) [tell](kathayasva) [to-me](me)
+[of-it](tasya) [own-form](svarūpam) [now](adhunā) [clearly-tell-me](vivicyakathayasvame)

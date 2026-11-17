@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p48-v1176
-[dharma-adharma-arrangement](dharmādharmavyavasthā) [and](ca) [veda-scripture-etc-ostentation](vedaśāstrādiḍaṃbaraḥ)
+[dharmādharmavyavasthā](dharmādharmavyavasthā) [ca](ca) [vedaśāstrādiḍaṃbaraḥ](vedaśāstrādiḍaṃbaraḥ)
 
 ## mukta-m0-p48-v1177
-[of-this-cause](atrakāraṇam) [very-much](atyarthaṃ) [having-ascertained](niścitya) [tell](brūhi) [o-treasure-of-consciousness](cinnidhe)
+[atrakāraṇamatyarthaṃ](atrakāraṇamatyarthaṃ) [niścityabrūhi](niścityabrūhi) [cinnidhe](cinnidhe)
 
 ## mukta-m0-p48-v1178
-[of-all](sarvāsām) [also](api) [of-species](jātīnāṃ) [eaten-world-ocean-sleep](jagdhiyābdhisuṣuptayaḥ)
+[sarvāsāmapi](sarvāsāmapi) [jātīnāṃ](jātīnāṃ) [jagdhiyābdhisuṣuptayaḥ](jagdhiyābdhisuṣuptayaḥ)
 
 ## mukta-m0-p48-v1179
-[this](etat) [caused](hetukaṃ) [o-goddess](devī) [cause](hetuḥ) [there](tatra) [is-stated](nigadyate)
+[etat](etat) [hetukaṃ](hetukaṃ) [devī](devī) [hetustatra](hetustatra) [nigadyate](nigadyate)
 
 ## mukta-m0-p48-v1180
-[desired-means-science-knowers](iṣṭasādhanataṃtrajñāḥ) [not](na) [everywhere](sarvatra) [also](api) [in-species](jātiṣu)
+[iṣṭasādhanataṃtrajñāḥ](iṣṭasādhanataṃtrajñāḥ) [na](na) [sarvatrāpi](sarvatrāpi) [jātiṣu](jātiṣu)
 
 ## mukta-m0-p48-v1181
-[of-birds](pakṣīṇām) [also](api) [of-all](sarveṣāṃ) [in-own-food](svāhāre) [chick-nourishment](potapoṣaṇam)
+[pakṣīṇāmapi](pakṣīṇāmapi) [sarveṣāṃ](sarveṣāṃ) [svāhāre](svāhāre) [potapoṣaṇam](potapoṣaṇam)
 
 ## mukta-m0-p48-v1182
-[they-come](āyāṃti) [stick-in-hand](daṇḍahastaṃ) [but](tu) [having-seen](dṛṣṭvā) [falsely](mithyā) [it-proceeds](pravarttate)
+[āyāṃti](āyāṃti) [daṇḍahastaṃ](daṇḍahastaṃ) [tu](tu) [dṛṣṭvāmithyā](dṛṣṭvāmithyā) [pravarttate](pravarttate)
 
 ## mukta-m0-p48-v1183
-[going](gamaḥ)
+[gamaḥ](gamaḥ)
 
 ## mukta-m0-p48-v1184
-[how](kathaṃ) [of-knowledge](jñānasya) [absence](rāhityaṃ) [exists](varttate) [o-daughter-of-mountain](girinaṃdini)
+[kathaṃ](kathaṃ) [jñānasya](jñānasya) [rāhityaṃ](rāhityaṃ) [varttate](varttate) [girinaṃdini](girinaṃdini)
 
 ## mukta-m0-p48-v1185
-[of-animals-etc](paśvādeḥ) [also](api) [understanding](bodhaḥ) [indeed](tu) [like-humans](manuṣyavat) [is-observed](udīkṣyate)
+[paśvāderapi](paśvāderapi) [bodhastu](bodhastu) [manuṣyavadudīkṣyate](manuṣyavadudīkṣyate)
 
 ## mukta-m0-p48-v1186
-[thus](tathā) [indeed](hi) [by-beak-grasped](cuṃcugrastaiḥ) [by-grasses](tṛṇaiḥ) [nest-construction](nidaṃvinirmati)
+[tathā](tathā) [hi](hi) [cuṃcugrastaistu](cuṃcugrastaistu) [tṛṇairnidaṃvinirmati](tṛṇairnidaṃvinirmati)
 
 ## mukta-m0-p48-v1187
-[inner-hidden](aṃtargupta) [place-ness](pradeśatvaṃ) [rain-wind-trouble](varṣavātānupadravam)
+[aṃtargupta](aṃtargupta) [pradeśatvaṃ](pradeśatvaṃ) [varṣavātānupadravam](varṣavātānupadravam)
 
 ## mukta-m0-p48-v1188
-[there](tatra) [in-mud-stuck](paṃkalavelagne) [is-eaten](khadyate) [in-night-shining](niśibhāsvare)
+[tatra](tatra) [paṃkalavelagne](paṃkalavelagne) [khadyate](khadyate) [niśibhāsvare](niśibhāsvare)
 
 ## mukta-m0-p48-v1189
-[with-female-bird](pakṣiṇī) [enjoyment-accompanied](bhogasahitaḥ) [bird](pakṣī) [enters](nirviśati) [tree](dṛvam)
+[pakṣiṇī](pakṣiṇī) [bhogasahitaḥ](bhogasahitaḥ) [pakṣīnirviśatidṛvam](pakṣīnirviśatidṛvam)
 
 ## mukta-m0-p48-v1190
-[warp](ātānaṃ) [and](ca) [woof](vitānaṃ) [and](ca) [that](tat) [knowledge](jñānaṃ) [not-more-not-less](nādhikānnatām)
+[ātānaṃ](ātānaṃ) [ca](ca) [vitānaṃ](vitānaṃ) [ca](ca) [tat](tat) [jñānaṃ](jñānaṃ) [nādhikānnatām](nādhikānnatām)
 
 ## mukta-m0-p48-v1191
-[declares](nivedayati) [o-beautiful-hipped-one](suśroṇi) [own-species-gone-skill](svajātigatapāṭavam)
+[nivedayati](nivedayati) [suśroṇi](suśroṇi) [svajāti](svajāti) [gatapāṭavam](gatapāṭavam)
 
 ## mukta-m0-p48-v1192
-[of-one-form](ekarūpāṇi) [webs](cakrāṇi) [in-sal-forests](stālagrāmeṣu) [spreading](tanvataḥ)
+[ekarūpāṇi](ekarūpāṇi) [cakrāṇi](cakrāṇi) [stālagrāmeṣu](stālagrāmeṣu) [tanvataḥ](tanvataḥ)
 
 ## mukta-m0-p48-v1193
-[by-Brahma](brahmaṇā) [even](api) [not](na) [that](tat) [possible](śakyaṃ) [each-species-seen-course](pratijātīdṛśīgatiḥ)
+[brahmaṇāpi](brahmaṇāpi) [na](na) [tacchakyaṃ](tacchakyaṃ) [pratijātīdṛśīgatiḥ](pratijātīdṛśīgatiḥ)
 
 ## mukta-m0-p48-v1194
-[at-night](rātrau) [owl](ulūka) [o-beautiful-hipped-one](suśroṇi) [pots-etc](ghaṭādīn) [perceives](pratipadyate)
+[rātrāvulūka](rātrāvulūka) [suśroṇi](suśroṇi) [ghaṭādīnpratipadyate](ghaṭādīnpratipadyate)
 
 ## mukta-m0-p48-v1195
-[of-other-species](anyajāteḥ) [impossible](aśakyaḥ) [and](ca) [exists](varttate) [o-fair-colored-one](varavarṇini)
+[anyajāteraśakyaśca](anyajāteraśakyaśca) [varttate](varttate) [varavarṇini](varavarṇini)
 
 ## mukta-m0-p48-v1196
-[will-describe](varṇayiṣyati) [that-argument](tadvādaḥ) [vainly-arisen-ostentation](vṛthāsaṃbhūtaḍaṃbaraḥ)
+[varṇayiṣyati](varṇayiṣyati) [tadvādo](tadvādo) [vṛthāsaṃbhūtaḍaṃbaraḥ](vṛthāsaṃbhūtaḍaṃbaraḥ)
 
 ## mukta-m0-p48-v1197
-[food](āhāraṃ) [and](ca) [indeed](eva) [sleep](nidrā) [and](ca) [fear](bhayaṃ) [sexual-union](maithunam) [indeed](eva) [and](ca)
+[āhāraṃ](āhāraṃ) [caiva](caiva) [nidrā](nidrā) [ca](ca) [bhayaṃ](bhayaṃ) [maithunameva](maithunameva) [ca](ca)
 
 ## mukta-m0-p48-v1198
-[always](sarvadā) [of-one](eka) [nature](svarūpāḥ) [are](syuḥ) [species](jātayaḥ) [death-free](martyavarjitāḥ)
+[sarvadaika](sarvadaika) [svarūpā](svarūpā) [syurjātayomartyavarjitāḥ](syurjātayomartyavarjitāḥ)
 
 ## mukta-m0-p48-v1199
-[in-Kṛta-age](kṛte) [complete-dharma](saṃpūrṇadharmāḥ) [are](syuḥ) [all](sarve) [o-Pārvatī](pārvati) [humans](mānavāḥ)
+[kṛte](kṛte) [saṃpūrṇadharmāḥ](saṃpūrṇadharmāḥ) [syuḥsarve](syuḥsarve) [pārvati](pārvati) [mānavāḥ](mānavāḥ)
 
 ## mukta-m0-p48-v1200
-[they-are](bhavaṃti) [and](ca) [they-dissolve](vilīyaṃte) [they-are-born](pratāyaṃte) [again](punaḥ) [again](punaḥ)
+[bhavaṃti](bhavaṃti) [ca](ca) [vilīyaṃte](vilīyaṃte) [pratāyaṃte](pratāyaṃte) [punaḥ](punaḥ) [punaḥ](punaḥ)
