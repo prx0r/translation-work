@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p53-v1301
-[aho](aho) [janāḥ](janā) [duḥkha+sukha+viveka+jñāna+varjitāḥ](duḥkhasukhavivekajñānavarjitāḥ)
+[alas](aho) [people](janā) [pain+pleasure+discrimination+knowledge+devoid](duḥkhasukhavivekajñānavarjitāḥ)
 
 ## mukta-m0-p53-v1302
-[duḥkham+eva+anubhavanti+iti+āha](duḥkhamevānubhavantītyāha) [aho](aho) [iti](iti)
+[pain](duḥkham) [only](eva) [experience](anubhavanti) [thus-says](ityāha) [alas](aho) [iti](iti)
 
 ## mukta-m0-p53-v1303
-[tat+alam](tadalaṃ) [duḥkha+bhogena](duḥkhabhogena) [sva+yatna+āsāditena](svayatnāsāditena) [vai](vai)
+[that](tad) [enough](alam) [pain-enjoyment](duḥkhabhogena) [by-own-effort](svayatnāsāditena) [indeed](vai)
 
 ## mukta-m0-p53-v1304
-[duḥkha+saṅgham](duḥkhasaṅghaṃ) [duḥkha+sādhana+jālam](duḥkhasādhanajālaṃ) [dhana+gṛha+ādikam](dhanagṛhādikam)
+[pain-collection](duḥkhasaṅghaṃ) [pain-means-net](duḥkhasādhanajālaṃ) [wealth-house-etc](dhanagṛhādikam)
 
 ## mukta-m0-p53-v1305
-[viśrāntim+abhivāñchāmi](viśrāntimabhivāñchāmi) [ciram](ciraṃ) [svasmin](svasmin) [sukha+ātmani](sukhātmani)
+[rest](viśrāntim) [desire](abhivāñchāmi) [long](ciraṃ) [in-own-bliss-self](svasmin) [blissful-self](sukhātmani)
 
 ## mukta-m0-p53-v1306
-[viśrāntim](viśrāntiṃ) [prokta+sukha+ātmaka+sva+svarūpa+avasthāna+ātmakam](proktasukhātmakasvasvarūpāvasthānātmakaṃ) [samādhim](samādhim)
+[rest](viśrāntiṃ) [proclaimed-blissful-self-nature-samadhi](proktasukhātmakasvasvarūpāvasthānātmakaṃ) [samadhi](samādhim)
 
 ## mukta-m0-p53-v1307
-[ceṣṭasi](ceṣṭasi)
+[act](ceṣṭasi)
 
 ## mukta-m0-p53-v1308
-[ceṣṭase](ceṣṭase) [vyavahāra+parāsi](vyavahāraparāsi)
+[act](ceṣṭase) [engaged-in-worldly-practice](vyavahāraparāsi)
 
 ## mukta-m0-p53-v1309
-[nātha](nātha) [te](te) [tat+na](tanna) [viditam](viditaṃ) [padam](padaṃ) [parama+pāvanam](paramapāvanam)
+[lord](nātha) [your](te) [that](tanna) [known](viditaṃ) [state](padaṃ) [supremely-purifying](paramapāvanam)
 
 ## mukta-m0-p53-v1310
-[aham+asmi+iti](ahamasmīti) [na](na) [pratyabhijñātam](pratyabhijñātam) [parama+pāvanam](paramapāvanaṃ) [dvaita+mala+leśa+rahitam](dvaitamalaleśarahitam)
+[I-am](ahamasmīti) [not-recognized](na) [pratyabhijñātam](pratyabhijñātam) [supremely-purifying](paramapāvanam) [duality-impurity-free](dvaitamalaleśarahitam)
 
 ## mukta-m0-p53-v1311
-[tat+padam](tatpadaṃ) [dūrataḥ+te+asti](dūrataste'sti) [bhū+sthasya+iva](bhūsthasyeva) [nabhaḥ+talam](nabhastalam)
+[that-state](tatpadaṃ) [far-from-you](dūrataste'sti) [like-sky-for-earth-dweller](bhūsthasyeva) [sky-surface](nabhastalam)
 
 ## mukta-m0-p53-v1312
-[nimīlya+unmīlya+vā](nimīlyonmīlya) [netre](netre) [tat+padam](tatpadaṃ) [na](na) [samīkṣyate](samīkṣyate)
+[closing](nimīlya) [opening](unmīlya) [or](vā) [eyes](netre) [that-state](tatpadaṃ) [not-seen](na) [samīkṣyate](samīkṣyate)
 
 ## mukta-m0-p53-v1313
-[ced+āha](cedāha) [nimīlya+iti](nimīlyeti)
+[if](ced) [says](āha) [closing](nimīlyeti)
 
 ## mukta-m0-p53-v1314
-[agatvā+cāpi+vā](agatvācāpi) [gatvā](gatvā) [na](na) [tat+āsādayet](tadāsādayet) [padam](padam)
+[not-going](agatvā) [also](cāpi) [or](vā) [going](gatvā) [not](na) [that](tad) [attain](āsādayet) [state](padam)
 
 ## mukta-m0-p53-v1315
-[tat+svarūpe](tatsvarūpe) [nimīlana+karaṇa+gamana+ādibhiḥ+na](nimīlanakaraṇagamanādibhirna) [viśeṣaḥ](viśeṣa) [iti](iti) [bhāvaḥ](bhāvaḥ)
+[own-nature](tatsvarūpe) [closing-opening-going-etc](nimīlanakaraṇagamanādibhirna) [no-difference](viśeṣa) [meaning](iti) [bhāvaḥ](bhāvaḥ)
 
 ## mukta-m0-p53-v1316
-[yava+aṣṭakam+itena+eva](yavāṣṭakamitenaiva) [pakṣmaṇā+unmīlitena](pakṣmaṇonmīlitena) [tu](tu)
+[barley-eightfold](yavāṣṭakamitenaiva) [eyelash](pakṣmaṇonmīlitena) [tu](tu)
 
 ## mukta-m0-p53-v1317
-[sopahāsam+āha](sopahāsamāha) [yava+aṣṭaka+iti](yavāṣṭaketi)
+[with-mockery](sopahāsam) [says](āha) [barley-eightfold](yavāṣṭaketi)
 
 ## mukta-m0-p53-v1318
-[aho](aho) [te](te) [moha+māhātmyam](mohamāhātmyam) [āścaryam](āścaryaṃ) [kim+aham](kimahaṃ) [bruve](bruve)
+[alas](aho) [your](te) [delusion-greatness](mohamāhātmyam) [wonder](āścaryaṃ) [what](kim) [I](ahaṃ) [say](bruve)
 
 ## mukta-m0-p53-v1319
-[pakṣmaṇaḥ+aṅguli+mānasya+unmīlanāt](pakṣmaṇo'ṅgulimānasyonmīlanāt) [tat+tirohitam](tattirohitam)
+[eyelash](pakṣmaṇo) [finger-measure](aṅgulimānasya) [opening](unmīlanāt) [that](tattirohitam)
 
 ## mukta-m0-p53-v1320
-[yasmin](yasmin) [sāmānya+cit+rūpe](sāmānyacidrūpe) [ātmani](ātmani) [tirohitam+iti+āścaryam+iti](tirohitamityāścaryamiti) [sambandhaḥ](sambandhaḥ)
+[in](yasmin) [common-consciousness-form](sāmānyacidrūpe) [self](ātmani) [hidden](tirohitam) [wonder](ityāścaryam) [connection](iti) [sambandhaḥ](sambandhaḥ)
 
 ## mukta-m0-p53-v1321
-[yāvat](yāvat) [granthi+vibhedaḥ](granthivibhedo) [na](na) [na](na) [tāvat](tāvat) [sukham+ṛcchati](sukhamṛcchati)
+[until](yāvat) [knot-division](granthivibhedo) [not](na) [until](na) [tāvat](tāvat) [happiness](sukham) [attains](ṛcchati)
 
 ## mukta-m0-p53-v1322
-[tatra](tatra) [svarūpa+asaṃvittiḥ](svarūpāsaṃvittirmoharajjurudīritā) [moha+rajjuḥ+udīritā](moharajjurudīritā)
+[there](tatra) [own-nature-non-recognition](svarūpāsaṃvittirmoharajjurudīritā)
 
 ## mukta-m0-p53-v1323
-[moha+rajjuḥ+iti](moharajjuriti) [ced+āha](cedāha) [tatra+iti](tatrādyā)
+[delusion-rope](moharajjuriti) [if](ced) [says](āha) [there](tatreti)
 
 ## mukta-m0-p53-v1324
-[tatra+ādyā](tatrādyā) [deha+mukhyeṣu](dehamukhyeṣu) [bhavet+ātmatva+niścayaḥ](bhavedātmatvaniścayaḥ)
+[there](tatrādyā) [body-chief](dehamukhyeṣu) [would-be-self-certainty](bhavedātmatvaniścayaḥ)
 
 ## mukta-m0-p53-v1325
-[duṣpariharaḥ](duṣparihara) [iti+asya](ityasya) [granthitvam](granthitvaṃ) [jñeyam](jñeyam)
+[hard-to-remove](duṣparihara) [of-this](ityasya) [knot-ness](granthitvaṃ) [to-be-known](jñeyam)

@@ -2,76 +2,52 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p151-v3751
-[like-reflection-in-mirror](pratibimbavadādarśe) [that-mode](tatprakāraṃ) [hear](śṛṇu) [in-order](kramāt)
-
+like-reflection-in-mirror(surface) that-manner(surface) hear(surface) sequentially(surface)
 ## mukta-m0-p151-v3752
-[by-freedom's-power](svātantryavaśataḥ) [own-form](svātmarūpaṃ) [in-two](dvedhā) [manifested](avabhāsayat)
-
+by-freedom-power(surface) self-form(surface) twofold-manifested(surface)
 ## mukta-m0-p151-v3753
-[own-form](svātmarūpaṃ) [consciousness-flash-dense](citsphūrtighanam)
-
+self-form(surface) consciousness-manifestation-dense(surface)
 ## mukta-m0-p151-v3754
-[then](tadā) [second-part](dvitīyabhāgaḥ) [that-I-sense+emerged](tadahaṃbhāvavinirgataḥ)
-
+then(surface) second-part(surface) that-i-ness-devoid(surface)
 ## mukta-m0-p151-v3755
-[thus](iti) [meaning](bhāvaḥ)
-
+thus(surface) meaning(surface)
 ## mukta-m0-p151-v3756
-[with-incomplete-I-sense](apūrṇāhaṃbhāvayuta) [this](eṣa) [called](proktaḥ) [Sadāśiva](sadāśivaḥ)
-
+incomplete-i-ness-endowed(surface) this(surface) called(surface) sada-shiva(surface)
 ## mukta-m0-p151-v3757
-[Īśvara](īśvaraṃ) [they-call](prāhuḥ)
-
+ishvara(surface) called(surface)
 ## mukta-m0-p151-v3758
-[lordship](svāmitvam) [thus](evam) [of-him](asya) [unmanifest](avyakta) [thus](iti) [to-be-known](jñeyam)
-
+lordship(surface) thus(surface) his(surface) unmanifest(surface) thus(surface) known(surface)
 ## mukta-m0-p151-v3759
-[unmanifest](avyaktam) [of-self](ātmanaḥ) [body](deham) [this](etad) [I](aham) [abide](āsthitaḥ)
-
+unmanifest(surface) self's(surface) body(surface) this(surface) indeed(surface) i-abide(surface)
 ## mukta-m0-p151-v3760
-[thus](iti) [connection](sambandhaḥ)
-
+thus(surface) connection(surface)
 ## mukta-m0-p151-v3761
-[unmanifest](avyaktam) [by-identification](abhimānena) [pervaded](āviṣṭa) [Īśvara](īśvara) [indeed](eva) [but](tu)
-
+unmanifest(surface) by-identification(surface) pervaded(surface) ishvara(surface) indeed(surface) but(surface)
 ## mukta-m0-p151-v3762
-[unmanifest-I](avyaktamaham) [thus](iti) [by-identification](abhimānena) [pervaded](āviṣṭa) [Īśvara](īśvara) [indeed](eva) [in-three](tridhā) [became](abhavat) [thus](iti) [connection](sambandhaḥ)
-
+unmanifest-i-thus(surface) identification-pervaded(surface) ishvara(surface) indeed(surface) threefold-became(surface) thus(surface) connection(surface)
 ## mukta-m0-p151-v3763
-[origin-manifesters](utpattyavabhāsakāḥ)
-
+manifestation-of-origination(surface)
 ## mukta-m0-p151-v3764
-[many](bahavaḥ) [Haris](harayaḥ) [also](api) [were](āsan) [destruction-devoted](saṃhāraparāyaṇāḥ)
-
+many(surface) haris(surface) also(surface) were(surface) that(surface) destruction-devoted(surface)
 ## mukta-m0-p151-v3765
-[destruction-devoted](saṃhāraparāyaṇāḥ) [Rudras](rudrāḥ) [were](āsan) [thus](iti) [connection](sambandhaḥ)
-
+destruction-devoted(surface) rudras(surface) were(surface) thus(surface) connection(surface)
 ## mukta-m0-p151-v3766
-[thus](evaṃvidhaṃ) [world-principle](jagattattvaṃ) [like-mirror-reflection](darpaṇapratibimbavat)
-
+such(surface) world-principle(surface) mirror-reflection-like(surface)
 ## mukta-m0-p151-v3767
-[Supreme-consciousness](paracit) [not-different](avyatiriktam) [indeed](eva) [thus](iti) [says](āha) [mirror](darpaṇa) [etc](iti)
-
+supreme-consciousness-not-distinct(surface) indeed(surface) says(surface) mirror(surface)
 ## mukta-m0-p151-v3768
-[Supreme](parā) [consciousness](citiḥ) [full-I-sense-form](prapūrṇāhaṃbhāvarūpā) [indeed](eva) [always](sarvadā)
-
+supreme(surface) consciousness(surface) fully-complete-i-ness-form(surface) indeed(surface) always(surface)
 ## mukta-m0-p151-v3769
-[Supreme](parā) [consciousness](citiḥ) [from-own-form](svarūpāt) [no-falling](apracyutim) [says](āha)
-
+supreme(surface) from-own-nature-non-deviation(surface) says(surface) supreme(surface) consciousness(surface)
 ## mukta-m0-p151-v3770
-[as](yathā) [you](tvaṃ) [Rāma](rāma) [in-all](sarvasmin) [body](dehe) [I-sense-expanded](ahaṃbhāvabṛṃhitaḥ)
-
+as(surface) you(surface) rama(surface) in-all(surface) body(surface) i-ness-expanded(surface)
 ## mukta-m0-p151-v3771
-[thus](evameva) [Supreme](parā) [consciousness](saṃvit) [full-I-ness-refuge](pūrṇāhantāsamāśrayā)
-
+so(surface) supreme(surface) consciousness(surface) full-i-ness-refuge(surface)
 ## mukta-m0-p151-v3772
-[really](vastutaḥ) [that-same](sā) [indeed](eva) [supreme](paramā) [consciousness](citiḥ) [thus](evaṃ) [indeed](hi) [shining](bhāsinī)
-
+in-reality(surface) that(surface) supreme(surface) consciousness(surface) thus(surface) shines(surface)
 ## mukta-m0-p151-v3773
-[full-I-ness](pūrṇāhantā) [limited-I-ness](paricchinnāhantā) [Sadāśiva-etc-form](sadāśivādirūpe) [not-shining](anavabhāsinī) [meaning](arthaḥ)
-
+full-i-ness-limited-i-ness-sada-shiva-form(surface) non-manifest(surface) thus(surface) meaning(surface)
 ## mukta-m0-p151-v3774
-[to-grasp](grahītum) [unable](asamarthaḥ) [also](api) [from-uninjured](akṣatāt) [identity](ātmyam) [attaining](etya) [but](tu)
-
+to-grasp(surface) unable(surface) even(surface) by-undamaged(surface) identity(surface) attaining(surface) but(surface)
 ## mukta-m0-p151-v3775
-[you-grasp](gṛhṇāsi) [thus](iti) [connection](sambandhaḥ)
+grasps(surface) thus(surface) connection(surface)

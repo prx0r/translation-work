@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p32-v776
-[weapons](āyudhaiḥ) [man-horn-born](naraśṛṅgotthaiḥ) [having-fought](yudhvā) [sky-forest](gaganakānane)
+[weapons](āyudhair) [man-horn-born](nara+śṛṅga+utthaiḥ) [having-fought](yudhvā) [sky-forest](gaganakānane)
 
 ## mukta-m0-p32-v777
-[ray-stream](marīcisrotasi) [dream-woman-instr](svāpnakāminībhiḥ) [indeed](hi) [plays](khelati)
+[ray-stream](marīci+srotasi) [dream-beloved-women](svāpna+kāminībhiḥ) [indeed](hi) [plays](khelati)
 
 ## mukta-m0-p32-v778
-[having-heard-thus](śrutvaivaṃ) [dear-speech](priyavākyaṃ) [she](sā) [clever](caturā) [said](prāha) [him](taṃ) [again](punaḥ)
+[having-heard](śrutvā) [thus](evaṃ) [dear-speech](priya+vākyaṃ) [she](sā) [clever](caturā) [said](prāha) [to-him](taṃ) [again](punaḥ)
 
 ## mukta-m0-p32-v779
-[so](tathā) [spoken-jester-speech-like](proktavidūṣakavākyavat) [inconsistent](asaṅgatam)
+[so](tathā) [spoken-jester-speech-like](prokta+vidūṣaka+vākya+vat) [inconsistent](asaṅgatam)
 
 ## mukta-m0-p32-v780
-[not](na) [of-our-kind](mādṛśānāṃ) [speech](vacanaṃ) [unsupported](nirālambaṃ) [anywhere](kvacid) [would-be](bhavet)
+[not](na) [of-such-as-me](mādṛśānāṃ) [speech](vacanaṃ) [unsupported](nirālambaṃ) [anywhere](kvacid) [would-be](bhavet)
 
 ## mukta-m0-p32-v781
-[thus-meaning](ityarthaḥ) [beautiful-would-be](saundaryavadbhavet)
+[thus-meaning](ityarthaḥ) [beautiful-would-be](saundarya+vat+bhavet)
 
 ## mukta-m0-p32-v782
-[of-him](tasya) [not-above](norddhvaṃ) [not-below](na+cādhastāt) [world](lokaḥ) [is](asti) [happiness-means](sukhasādhanam)
+[of-him](tasya) [not-above](na+ūrdhvaṃ) [not-below](na+cādhastāt) [world](lokaḥ) [is](asti) [happiness-means](sukha+sādhanaṃ)
 
 ## mukta-m0-p32-v783
-[meaningless-speech](apārthavacasā) [from-falsehood](asatyāt) [not](na) [world](lokaḥ)
+[meaningless-speech](apārtha+vacasā) [from-falsehood](asatyāt) [not](na) [world](lokaḥ)
 
 ## mukta-m0-p32-v784
-[equal-vision](samadṛṣṭiṃ) [does-not-attain](naiti) [quickly](śīghram) [collyrium-gen](añjanānāṃ) [speech-groups](vacogaṇaiḥ)
+[equal-vision](sama+dṛṣṭiṃ) [does-not-attain](na+aiti) [quickly](śīghraṃ) [collyrium-groups](añjanānāṃ) [speech-troops](vaco+gaṇaiḥ)
 
 ## mukta-m0-p32-v785
-[to-know](jñātum) [impossible](aśakyam) [intent](ityāśayena) [says](āha) [listen](śṛṇu) [thus](iti)
+[to-know](jñātum) [impossible](aśakyaṃ) [intention](ityāśayena) [said](āha) [listen](śṛṇu+iti)
 
 ## mukta-m0-p32-v786
-[inquirer](jijñāsuḥ) [with-falsehoods](asatyaiḥ) [shall-i-join](yojayāmi) [what](kim) [not](na) [join-indeed](yojayāmyeva) [thus-meaning](ityarthaḥ)
+[inquirer](jijñāsuḥ) [with-falsehoods](asatyaiḥ) [shall-I-join](yojayāmi+kim) [not](na) [join-indeed](yojayāmi+eva+iti+arthaḥ)
 
 ## mukta-m0-p32-v787
-[in-world](loke) [indeed](hi) [skillful](kuśalaḥ) [mortal](martyaḥ) [all-dealings](sarvavyavahṛtau) [surely](nanu)
+[in-world](loke) [indeed](hi) [skilled](kuśalaḥ) [mortal](martyaḥ) [all-dealings](sarva+vyavahṛtau) [surely](nanu)
 
 ## mukta-m0-p32-v788
-[skillful-even](kuśalo'pi) [past-meaning](atītārthaṃ) [your-speech](tvadvacanaṃ) [how](kathaṃ) [shall-i-examine](parīkṣiṣyāmi) [if-so](iti+ced) [says](āha) [world](loka) [thus](iti)
+[skilled-even](kuśalaḥ+api) [past-meaning](atīta+arthaṃ) [your-speech](tvad+vachanaṃ) [how](kathaṃ) [shall-I-examine](parīkṣiṣyāmi+iti) [if-so](ced) [said](āha) [world](loka+iti)
 
 ## mukta-m0-p32-v789
-[example](nidarśanaṃ) [shall-i-give](pradāsyāmi) [to-you](tubhyam) [here](atra) [by-examination](samīkṣayā)
+[example](nidarśanaṃ) [will-give](pradāsyāmi) [to-you](tubhyaṃ) [here](atra) [inspection](samīkṣayā)
 
 ## mukta-m0-p32-v790
-[example](nidarśanaṃ) [shall-i-give](pradāsyāmi) [experienced](anubhūtaṃ) [shall-i-remind](smārayāmi) [here](atra) [my-speech-examination](madvacanaparīkṣāyām)
+[example](nidarśanaṃ) [will-give](pradāsyāmi) [experienced](anubhūtaṃ) [will-remind](smārayāmi) [here](atra) [my-speech-examination](mad+vachana+parīkṣāyām)
 
 ## mukta-m0-p32-v791
-[long-ago](cirāt) [my-speech](madvacanāt) [he](saḥ) [today](adya) [whence](kutaḥ) [not](na) [happiness-means](sukhasādhanam)
+[long-since](cirāt) [my-speech](mad+vachanāt) [he](saḥ) [today](adya) [whence](kuto) [not](na) [happiness-means](sukha+sādhanaṃ)
 
 ## mukta-m0-p32-v792
-[would-be-indeed](bhavedeva) [know](jānīhi) [thus](iti) [meaning](bhāvaḥ)
+[would-be-indeed](bhaved+eva+iti) [know](jānīhi+iti) [sense](bhāvaḥ)
 
 ## mukta-m0-p32-v793
-[this-example-alone](etannidarśanenaiva) [own-opinion](svamataṃ) [to-know](vettum) [you-should](arhasi)
+[this-example-alone](etad+nidarśanena+eva) [own-opinion](sva+mataṃ) [to-know](vettum) [deserve](arhasi)
 
 ## mukta-m0-p32-v794
-[proof](pramāṇam) [non-proof](apramāṇaṃ) [or](vā) [thus](iti) [to-know](vettum)
+[proof](pramāṇaṃ) [non-proof](apramāṇaṃ) [or](vā) [to-know](vettum)
 
 ## mukta-m0-p32-v795
-[enemy-in-world](ripurloke) [would-be](bhaved) [reliable-speech-in](āptoktiṣu) [steadfast](sthiraḥ)
+[enemy-in-world](ripu+loke) [would-be](bhaved) [reliable-speeches](āpta+uktiṣu) [firm](sthiraḥ)
 
 ## mukta-m0-p32-v796
-[non-reassurance](anāśvāsaḥ) [non-faith](aśraddhā)
+[non-confidence](anāśvāsaḥ) [non-faith](aśraddhā)
 
 ## mukta-m0-p32-v797
-[protects](rakṣati) [from-great-fears](prauḍhabhītibhyaḥ) [in-all-ways](sarvathā) [not](nahi) [doubt](saṃśayaḥ)
+[protects](rakṣati) [from-great-fears](prauḍha+bhītibhyaḥ) [in-every-way](sarvathā) [not](na) [doubt](saṃśayaḥ)
 
 ## mukta-m0-p32-v798
-[he](saḥ) [would-be](bhavet) [in-all-respects](sarvataḥ) [deficient](hīnaḥ) [who](yaḥ) [faithless](śraddhārahitaḥ) [man](naraḥ)
+[he](saḥ) [would-be](bhavet) [everywhere-deficient](sarvato+hīnaḥ) [who](yaḥ) [faithless](śraddhā+rahitaḥ) [man](naraḥ)
 
 ## mukta-m0-p32-v799
-[therefore](ataḥ+eva) [in-all-respects](sarvataḥ) [deficient](hīnaḥ) [would-be](bhavet)
+[therefore](ataḥ+eva) [everywhere-deficient](sarvato+hīnaḥ) [would-be](bhavet)
 
 ## mukta-m0-p32-v800
-[faithless](aśraddhaḥ) [in-mother-matter](mātṛviṣaye) [child](bālaḥ) [would-live](jīvet) [how](kathaṃ) [say](vada)
+[faithless](aśraddhaḥ) [in-mother-matter](mātṛ+viṣaye) [child](bālaḥ) [would-live](jīvet) [how](kathaṃ) [say](vada)

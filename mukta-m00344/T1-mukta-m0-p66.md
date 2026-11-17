@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p66-v1626
-katham-how bravīmi-I-speak iti-thus sambandhaḥ-connection
+[how](kathaṃ) [I-speak](bravīmi) [thus](iti) [connection](sambandhaḥ)
 
 ## mukta-m0-p66-v1627
-muhūrtamātram-for-a-moment me-my paśya-see sāmarthyam-power yogasambhavam-yoga-born
+[for-a-moment](muhūrtamātraṃ) [me](me) [see](paśya) [power](sāmarthyaṃ) [yoga-born](yogasambhavam)
 
 ## mukta-m0-p66-v1628
-saṃsthitaḥ-established tam-him bāhyayatnaiḥ-by-external-efforts api-even ko-who vai-indeed prabodhayet-would-awaken
+[standing-him](saṃsthitastaṃ) [by-external-efforts](bāhyayatnairapi) [who](ko) [indeed](vai) [would-awaken](prabodhayet)
 
 ## mukta-m0-p66-v1629
-śānta-peaceful pada-state nirvikalpa-without-alternative rūpe-form
+[in-peace-state](śāntapade) [formless](nirvikalparūpe)
 
 ## mukta-m0-p66-v1630
-iti-thus uktvā-having-said atha-then samāviśya-entering samāhṛtya-gathering indriyāṇi-senses alam-enough
+[thus-saying](ityuktvātha) [entering](samāviśya) [gathering](samāhṛtya) [senses](indriyāṇi) [enough](alam)
 
 ## mukta-m0-p66-v1631
-alam-enough atyantam-completely indriyāṇi-senses samāhṛtya-gathering saṃruddhya-blocking
+[enough](alam) [completely](atyantam) [senses](indriyāṇi) [gathering](samāhṛtya) [restraining](saṃruddhya)
 
 ## mukta-m0-p66-v1632
-deham-body pituḥ-of-father praviśya-entering āśu-quickly pralīnam-dissolved tasya-his mānasam-mind
+[body](dehaṃ) [of-father](pituḥ) [entering](praviśyāśu) [dissolved](pralīnaṃ) [his](tasya) [mind](mānasam)
 
 ## mukta-m0-p66-v1633
-nirgacchati-goes-out iti-thus jñeyam-to-be-known
+[goes-out](nirgacchatīti) [to-be-known](jñeyam)
 
 ## mukta-m0-p66-v1634
-deham-body svam-own āviśat-entered yāvat-as-long-as tāvat-so-long sa-he bubudhe-awoke muniḥ-sage
+[body](dehaṃ) [own](svam) [entered](āviśad) [as-long-as](yāvat) [so-long](tāvat) [he](sa) [awoke](bubudhe) [sage](muniḥ)
 
 ## mukta-m0-p66-v1635
-pitṛdehāt-from-father's-body vinirgataḥ-emerged saḥ-he taṅgaṇaḥ-Taṅgaṇa
+[from-father's-body](pitṛdehādvinirgataḥ) [he](saḥ) [taṅgaṇaḥ](taṅgaṇaḥ)
 
 ## mukta-m0-p66-v1636
-kim-what etat-this iti-thus sañcintya-reflecting sarvam-all yogadṛśā-by-yoga-vision avidat-knew
+[what-this](kimetaditi) [thinking](sañcintya) [all](sarvaṃ) [by-yoga-sight](yogadṛśā) [knew](avidat)
 
 ## mukta-m0-p66-v1637
-sarvam-all putra-son ādi-etc ceṣṭitam-deeds
+[all](sarvaṃ) [of-son-etc-deeds](putrādiceṣṭitam)
 
 ## mukta-m0-p66-v1638
-vatsa-child na-not evam-thus puaḥ-again kāryam-to-be-done krodhaḥ-anger tu-but tapasaḥ-of-austerity ripuḥ-enemy
+[son](vatsa) [not-thus](naivaṃ) [again](puaḥ) [should-be-done](kāryaṃ) [anger](krodhastu) [of-austerity](tapaso) [enemy](ripuḥ)
 
 ## mukta-m0-p66-v1639
-krodhena-by-anger aśva-horse haraṇa-ādi-theft-etc
+[by-anger](krodhena) [horse-taking-etc](aśvaharaṇādikam)
 
 ## mukta-m0-p66-v1640
-yajña-vighna-kriyā-sacrifice-obstruction-act daitya-svabhāvaḥ-demon-nature na-not muneḥ-of-sage kvacit-ever
+[sacrifice-obstruction-act](yajñavighnakriyā) [demon-nature](daityasvabhāvo) [not](na) [of-sage](muneḥ) [ever](kvacit)
 
 ## mukta-m0-p66-v1641
-rājñā-by-king iti-thus anupakāriṇaḥ-of-unhelpful api-even yajñe-in-sacrifice vighnaḥ-obstruction ayuktaḥ-unfit iti-thus āha-says yajñeti-sacrifice-thus
+[of-king](rājñeti) [of-non-helper](anupakāriṇo'pi) [in-sacrifice](yajñe) [obstruction](vighno) [unfit](ayukta) [thus-says](ityāha) [yajñeti](yajñeti)
 
 ## mukta-m0-p66-v1642
-śīghram-quickly yātu-let-go eṣa-this yajñasya-of-sacrifice na-not kālatikramaḥ-time-lapse bhavet-be
+[quickly](śīghraṃ) [go](yātveṣa) [of-sacrifice](yajñasya) [not](na) [delay](kālatikramo) [be](bhavet)
 
 ## mukta-m0-p66-v1643
-sumanāḥ-calm iti-thus roṣam-anger tyaktvā-having-abandoned arthaḥ-meaning eṣa-this rājabhrātā-king's-brother
+[good-minded](sumanā) [iti](iti) [anger](roṣaṃ) [leaving](tyaktvetyarthaḥ) [this](eṣa) [king's-brother](rājabhrātā)
 
 ## mukta-m0-p66-v1644
-sāśvān-with-horses rājasutān-king's-sons tasmai-to-him dadau-gave prītyā-with-affection gatakrudhaḥ-anger-gone
+[with-horses](sāśvān) [king's-sons](rājasutāṃstasmai) [to-him](tasmai) [gave](dadau) [with-affection](prītyā) [anger-gone](gatakrudhaḥ)
 
 ## mukta-m0-p66-v1645
-saḥ-he muniputraḥ-sage's-son tasmai-to-him mahāsenāya-Mahāsena
+[he](saḥ) [sage's-son](muniputraḥ) [to-him](tasmai) [mahāsena](mahāsenāya)
 
 ## mukta-m0-p66-v1646
-mahāsenaḥ-Mahāsena taṅgaṇam-Taṅgaṇa tam-him praṇamya-bowing atyantavismitaḥ-greatly-astonished
+[mahāsena](mahāsenastaṅgaṇaṃ) [him](taṃ) [bowing](praṇamya) [greatly](atyanta) [astonished](vismitaḥ)
 
 ## mukta-m0-p66-v1647
-bhagavan-lord jñātum-to-know icchāmi-I-desire sāśvā-with-horses me-my bhrātṛnandanāḥ-brothers'-sons
+[lord](bhagavan) [to-know](jñātumicchāmi) [with-horses](sāśvā) [my](me) [brother's-sons](bhrātṛnandanāḥ)
 
 ## mukta-m0-p66-v1648
-evam-thus rājñā-by-king anuyuktaḥ-questioned atha-then taṅgaṇaḥ-Taṅgaṇa prāha-said bhūpatim-king
+[thus](evaṃ) [by-king](rājñā) [questioned](anuyukto'tha) [taṅgaṇaḥ](taṅgaṇaḥ) [said](prāha) [to-king](bhūpatim)
 
 ## mukta-m0-p66-v1649
-katham-how iti-thus gaṇḍaśailasya-of-Gaṇḍaśaila saghanatvāt-due-to-density arthaḥ-meaning
+[how](kathamiti) [of-Gaṇḍaśaila](gaṇḍaśailasya) [density](saghanatvādityarthaḥ)
 
 ## mukta-m0-p66-v1650
-samudravalayām-ocean-girdled pṛthvīm-earth anvaśāsam-ruled ciraṃ-long khalu-indeed
+[ocean-girdled](samudravalayāṃ) [earth](pṛthvīmanvaśāsaṃ) [long](ciraṃ) [indeed](khalu)

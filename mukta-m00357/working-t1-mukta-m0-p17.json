@@ -11,8 +11,16 @@
 "quick_gloss": "from-men"
 },
 {
-"surface": "astyanīhā",
-"quick_gloss": "not-desiring"
+"surface": "asti",
+"quick_gloss": "is"
+},
+{
+"surface": "anīhā",
+"quick_gloss": "disinterest"
+},
+{
+"surface": "eva",
+"quick_gloss": "indeed"
 }
 ]
 },
@@ -25,7 +33,7 @@
 "tokens": [
 {
 "surface": "manuṣya",
-"quick_gloss": "men"
+"quick_gloss": "man"
 },
 {
 "surface": "meya",
@@ -37,7 +45,7 @@
 },
 {
 "surface": "karaṇam",
-"quick_gloss": "making"
+"quick_gloss": "action"
 }
 ]
 },
@@ -54,7 +62,7 @@
 },
 {
 "surface": "tapā",
-"quick_gloss": "heat"
+"quick_gloss": "austerity"
 },
 {
 "surface": "pṛśyā",
@@ -62,7 +70,7 @@
 },
 {
 "surface": "partanam",
-"quick_gloss": "division"
+"quick_gloss": "purification"
 }
 ]
 },
@@ -78,7 +86,7 @@
 "quick_gloss": "with-om-three-twenty"
 },
 {
-"surface": "kāgāyatrī",
+"surface": "gāyatrī",
 "quick_gloss": "gāyatrī"
 },
 {
@@ -104,7 +112,7 @@
 },
 {
 "surface": "daśaka",
-"quick_gloss": "ten"
+"quick_gloss": "tenfold"
 },
 {
 "surface": "nirvartanam",
@@ -166,7 +174,7 @@
 "quick_gloss": "this"
 },
 {
-"surface": "nityaḥ",
+"surface": "nitya",
 "quick_gloss": "eternal"
 },
 {
@@ -204,28 +212,20 @@
 "quick_gloss": "dharma"
 },
 {
-"surface": "gaṅgāsnāna",
-"quick_gloss": "gaṅgā-bath"
-},
-{
-"surface": "bhasmalepana",
-"quick_gloss": "ash-smear"
-},
-{
-"surface": "vihitayajñādi",
-"quick_gloss": "sacrifice-etc"
+"surface": "gaṅgāsnānabhasmalepanavihitayajñādi",
+"quick_gloss": "gaṅgā-bath-ash-smear-sacrifice"
 },
 {
 "surface": "stena",
 "quick_gloss": "by-him"
 },
 {
-"surface": "kṛtaḥ",
+"surface": "kṛta",
 "quick_gloss": "done"
 },
 {
 "surface": "tadabhyudayāya",
-"quick_gloss": "for-prosperity"
+"quick_gloss": "prosperity"
 }
 ]
 },
@@ -270,7 +270,7 @@
 "quick_gloss": "in-books"
 },
 {
-"surface": "pralikhet",
+"surface": "pralikhenna",
 "quick_gloss": "write"
 },
 {
@@ -278,11 +278,11 @@
 "quick_gloss": "not"
 },
 {
-"surface": "vadet",
+"surface": "vadec",
 "quick_gloss": "speak"
 },
 {
-"surface": "śiṣyataḥ",
+"surface": "śiṣyato",
 "quick_gloss": "to-disciple"
 },
 {
@@ -353,8 +353,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "brahmahatyāśata",
-"quick_gloss": "brahmicide-hundred"
+"surface": "brahmahatyā",
+"quick_gloss": "brahmahatyā"
+},
+{
+"surface": "śata",
+"quick_gloss": "hundred"
 },
 {
 "surface": "tasya",
@@ -365,15 +369,15 @@
 "quick_gloss": "who"
 },
 {
-"surface": "vadet",
+"surface": "vadec",
 "quick_gloss": "speaks"
 },
 {
-"surface": "śiṣyataḥ",
+"surface": "śiṣyato",
 "quick_gloss": "to-disciple"
 },
 {
-"surface": "anyataḥ",
+"surface": "anyata",
 "quick_gloss": "elsewhere"
 },
 {
@@ -399,7 +403,7 @@
 },
 {
 "surface": "siddhimān",
-"quick_gloss": "accomplished"
+"quick_gloss": "siddhi-possessor"
 },
 {
 "surface": "eva",
@@ -444,7 +448,7 @@
 },
 {
 "surface": "uttarācāramārgavān",
-"quick_gloss": "latter-practice-path"
+"quick_gloss": "latter-path"
 },
 {
 "surface": "kasmiṃścit",
@@ -538,16 +542,16 @@
 "quick_gloss": "there"
 },
 {
-"surface": "sasiddhayoḥ",
-"quick_gloss": "with-accomplishment"
+"surface": "sasiddhaya",
+"quick_gloss": "with-siddhi"
 },
 {
 "surface": "yeṣṭha",
-"quick_gloss": "of-two"
+"quick_gloss": "of-excellent"
 },
 {
 "surface": "eva",
-"quick_gloss": "elder"
+"quick_gloss": "eva"
 },
 {
 "surface": "śiṣyaṃ",
@@ -571,12 +575,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "jyeṣṭhasasidhyabhāve",
-"quick_gloss": "elder-accomplishment-absence"
+"surface": "jyeṣṭha",
+"quick_gloss": "elder"
 },
 {
-"surface": "tadanujñāta",
-"quick_gloss": "his-permission"
+"surface": "sasidhyabhāve",
+"quick_gloss": "siddhi-absence"
+},
+{
+"surface": "tad",
+"quick_gloss": "then"
+},
+{
+"surface": "anujñāta",
+"quick_gloss": "permitted"
 },
 {
 "surface": "kaniṣṭha",
@@ -584,7 +596,7 @@
 },
 {
 "surface": "siddha",
-"quick_gloss": "accomplished"
+"quick_gloss": "siddha"
 },
 {
 "surface": "śiṣyaṃ",
@@ -604,12 +616,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "dīpaśāṃti",
-"quick_gloss": "lamp-peace"
+"surface": "dīpa",
+"quick_gloss": "lamp"
+},
+{
+"surface": "śāṃti",
+"quick_gloss": "peace"
 },
 {
 "surface": "na",
-"quick_gloss": "not"
+"quick_gloss": "na"
 },
 {
 "surface": "kurvīta",
@@ -667,7 +683,7 @@
 "tokens": [
 {
 "surface": "uttarācāramārgeṇa",
-"quick_gloss": "latter-practice-path"
+"quick_gloss": "latter-path"
 },
 {
 "surface": "parātmopāsanam",
@@ -678,12 +694,8 @@
 "quick_gloss": "īśvara-like"
 },
 {
-"surface": "iti",
-"quick_gloss": "iti"
-},
-{
 "surface": "unmattabhairavaḥ",
-"quick_gloss": "unmatta-bhairava"
+"quick_gloss": "unmattabhairava"
 }
 ]
 },
@@ -703,7 +715,7 @@
 "quick_gloss": "name"
 },
 {
-"surface": "vidadhyāt",
+"surface": "vidadhyād",
 "quick_gloss": "should-give"
 },
 {

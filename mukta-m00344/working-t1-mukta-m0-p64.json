@@ -16,7 +16,7 @@
 },
 {
 "surface": "sundarākhyaṃ",
-"quick_gloss": "named-beautiful"
+"quick_gloss": "named-sundara"
 },
 {
 "surface": "puraṃ",
@@ -24,7 +24,7 @@
 },
 {
 "surface": "paramapāvanam",
-"quick_gloss": "most-holy"
+"quick_gloss": "very-holy"
 }
 ]
 },
@@ -37,11 +37,11 @@
 "tokens": [
 {
 "surface": "paramapāvanaṃ",
-"quick_gloss": "most-holy"
+"quick_gloss": "very-holy"
 },
 {
 "surface": "tīrthabhūtam",
-"quick_gloss": "pilgrimage-place"
+"quick_gloss": "pilgrimage-site"
 }
 ]
 },
@@ -62,7 +62,7 @@
 },
 {
 "surface": "mahāseno",
-"quick_gloss": "great-army"
+"quick_gloss": "mahasena"
 },
 {
 "surface": "yavīyān",
@@ -70,7 +70,7 @@
 },
 {
 "surface": "priyakṛt",
-"quick_gloss": "ever-pleasing"
+"quick_gloss": "pleasing"
 },
 {
 "surface": "sadā",
@@ -112,7 +112,7 @@
 "tokens": [
 {
 "surface": "kadācid",
-"quick_gloss": "sometime"
+"quick_gloss": "sometimes"
 },
 {
 "surface": "aśvamedhaiḥ",
@@ -174,7 +174,7 @@
 },
 {
 "surface": "aśvamanugatāḥ",
-"quick_gloss": "horse-followers"
+"quick_gloss": "followed-horse"
 }
 ]
 },
@@ -244,8 +244,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "baloddhatā",
-"quick_gloss": "power-maddened"
+"surface": "baloddhatāḥ",
+"quick_gloss": "powerful"
 },
 {
 "surface": "avajñāya",
@@ -253,7 +253,7 @@
 },
 {
 "surface": "tamasaṅgamya",
-"quick_gloss": "him-unattached"
+"quick_gloss": "not-approaching"
 },
 {
 "surface": "te+yayuḥ",
@@ -269,12 +269,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "praṇāmādipūrvakaṃ",
-"quick_gloss": "with-bowing-first"
-},
-{
-"surface": "samīpamagatvetyarthaḥ",
-"quick_gloss": "near-went"
+"surface": "praṇāmādipūrvakaṃ+samīpamagatvetyarthaḥ",
+"quick_gloss": "meaning-not-approaching"
 },
 {
 "surface": "te+rājakumārāḥ",
@@ -319,12 +315,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "tāvattaṅgaṇaputro'pi",
+"surface": "tāvat",
 "quick_gloss": "then"
 },
 {
+"surface": "taṅgaṇaputro'pi",
+"quick_gloss": "son-of-taṅgaṇa"
+},
+{
 "surface": "gaṇḍaśailaṃ",
-"quick_gloss": "ganda-mountain"
+"quick_gloss": "gandhaśaila"
 },
 {
 "surface": "puraḥ",
@@ -345,7 +345,7 @@
 "tokens": [
 {
 "surface": "taṃ+muniputram",
-"quick_gloss": "him-sage-son"
+"quick_gloss": "that-sage-son"
 }
 ]
 },
@@ -362,7 +362,7 @@
 },
 {
 "surface": "śilāvilīnaṃ",
-"quick_gloss": "stone-dissolved"
+"quick_gloss": "dissolved-in-stone"
 },
 {
 "surface": "taṃ",
@@ -387,7 +387,7 @@
 "tokens": [
 {
 "surface": "taṃ+muniputram",
-"quick_gloss": "him-sage-son"
+"quick_gloss": "that-sage-son"
 }
 ]
 },
@@ -400,11 +400,11 @@
 "tokens": [
 {
 "surface": "cūrṇitād",
-"quick_gloss": "powdered"
+"quick_gloss": "crushed"
 },
 {
 "surface": "gaṇḍaśailāt",
-"quick_gloss": "ganda-mountain"
+"quick_gloss": "from-gandhaśaila"
 },
 {
 "surface": "sa",
@@ -429,15 +429,15 @@
 "tokens": [
 {
 "surface": "uccāvacairuttamairadhamaiśca",
-"quick_gloss": "high-low"
+"quick_gloss": "high-and-low"
 },
 {
 "surface": "cūrṇitāt",
-"quick_gloss": "powdered"
+"quick_gloss": "crushed"
 },
 {
 "surface": "cūrṇitaikadeśāt",
-"quick_gloss": "partly-powdered"
+"quick_gloss": "partly-crushed"
 }
 ]
 },
@@ -495,12 +495,8 @@
 "quick_gloss": "then"
 },
 {
-"surface": "senābhaṭāḥ",
-"quick_gloss": "army-soldiers"
-},
-{
-"surface": "śiṣṭā",
-"quick_gloss": "remaining"
+"surface": "senābhaṭāḥ+śiṣṭā",
+"quick_gloss": "remaining-soldiers"
 },
 {
 "surface": "gatvā",
@@ -524,12 +520,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "sundarapuraṃ",
-"quick_gloss": "to-sundara-city"
-},
-{
-"surface": "gatvā",
-"quick_gloss": "going"
+"surface": "sundarapuraṃ+gatvā",
+"quick_gloss": "going-to-sundarapura"
 }
 ]
 },
@@ -545,12 +537,16 @@
 "quick_gloss": "suṣeṇa"
 },
 {
-"surface": "vismito'tyantamuvācāvarajaṃ",
-"quick_gloss": "astonished-greatly"
+"surface": "vismito'tyantam",
+"quick_gloss": "greatly-astonished"
+},
+{
+"surface": "uvācāvarajaṃ",
+"quick_gloss": "said"
 },
 {
 "surface": "svakam",
-"quick_gloss": "own-younger"
+"quick_gloss": "to-younger-brother"
 }
 ]
 },
@@ -563,7 +559,7 @@
 "tokens": [
 {
 "surface": "tacchrutvā",
-"quick_gloss": "that-hearing"
+"quick_gloss": "hearing-that"
 },
 {
 "surface": "vismitaḥ",
@@ -579,8 +575,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "tapasvino'cintyavīryā",
+"surface": "tapasvino",
 "quick_gloss": "ascetics"
+},
+{
+"surface": "acintyavīryā",
+"quick_gloss": "inconceivable-power"
 },
 {
 "surface": "ajeyā",
@@ -588,7 +588,7 @@
 },
 {
 "surface": "devamānuṣaiḥ",
-"quick_gloss": "by-gods-men"
+"quick_gloss": "by-gods-and-men"
 }
 ]
 }

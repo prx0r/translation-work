@@ -29,7 +29,7 @@
 },
 {
 "surface": "paśu+tulya+tayā",
-"quick_gloss": "animal-like"
+"quick_gloss": "beast-like-condition"
 },
 {
 "surface": "sthitāḥ",
@@ -50,7 +50,7 @@
 },
 {
 "surface": "tyakta+anusandhānāḥ",
-"quick_gloss": "abandoned-investigation"
+"quick_gloss": "abandoned-inquiry"
 }
 ]
 },
@@ -63,23 +63,19 @@
 "tokens": [
 {
 "surface": "teṣāṃ",
-"quick_gloss": "of-them"
+"quick_gloss": "their"
 },
 {
 "surface": "yā",
 "quick_gloss": "that"
 },
 {
-"surface": "sā",
-"quick_gloss": "that"
-},
-{
 "surface": "paśu+daśā",
-"quick_gloss": "animal-state"
+"quick_gloss": "beast-state"
 },
 {
 "surface": "sad+vimarśa+antarāla+gā",
-"quick_gloss": "between-true-reflection"
+"quick_gloss": "between-pure-awareness"
 }
 ]
 },
@@ -96,11 +92,11 @@
 },
 {
 "surface": "paśu+sthitir",
-"quick_gloss": "animal-standing"
+"quick_gloss": "beast-standing"
 },
 {
 "surface": "na+bandhāya",
-"quick_gloss": "not-for-bondage"
+"quick_gloss": "not-bondage"
 },
 {
 "surface": "ity+āha",
@@ -108,7 +104,7 @@
 },
 {
 "surface": "teṣām",
-"quick_gloss": "of-them"
+"quick_gloss": "their"
 },
 {
 "surface": "iti",
@@ -149,12 +145,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "lākṣā+ādi",
-"quick_gloss": "lac-etc"
+"surface": "lākṣā",
+"quick_gloss": "lac"
 },
 {
 "surface": "iti",
-"quick_gloss": "iti"
+"quick_gloss": "thus"
 }
 ]
 },
@@ -192,7 +188,7 @@
 "tokens": [
 {
 "surface": "bandhanāya",
-"quick_gloss": "for-bondage"
+"quick_gloss": "bondage"
 },
 {
 "surface": "bhāvaḥ",
@@ -221,7 +217,7 @@
 },
 {
 "surface": "sarvathā",
-"quick_gloss": "in-any-way"
+"quick_gloss": "at-all"
 }
 ]
 },
@@ -245,8 +241,12 @@
 "quick_gloss": "says"
 },
 {
-"surface": "madhya+iti",
-"quick_gloss": "middle-etc"
+"surface": "madhya",
+"quick_gloss": "middle"
+},
+{
+"surface": "iti",
+"quick_gloss": "thus"
 }
 ]
 },
@@ -259,7 +259,7 @@
 "tokens": [
 {
 "surface": "saḥ",
-"quick_gloss": "he"
+"quick_gloss": "that"
 },
 {
 "surface": "nāsti",
@@ -267,11 +267,11 @@
 },
 {
 "surface": "madhya+vijñānavataḥ",
-"quick_gloss": "middle-knower's"
+"quick_gloss": "middle-knower"
 },
 {
 "surface": "rāma",
-"quick_gloss": "O-Rama"
+"quick_gloss": "rama"
 },
 {
 "surface": "kadācana",
@@ -329,7 +329,7 @@
 },
 {
 "surface": "madhya+jñāninaḥ",
-"quick_gloss": "middle-knower's"
+"quick_gloss": "middle-knower"
 }
 ]
 },
@@ -350,11 +350,11 @@
 },
 {
 "surface": "suṣupti+sthaḥ",
-"quick_gloss": "deep-sleep-established"
+"quick_gloss": "deep-sleep"
 },
 {
-"surface": "vāsanā+mātrataḥ",
-"quick_gloss": "by-tendency-only"
+"surface": "vāsanā+mātra+taḥ",
+"quick_gloss": "latent-impression-only"
 },
 {
 "surface": "kvacit",
@@ -378,8 +378,8 @@
 "quick_gloss": "appearance"
 },
 {
-"surface": "ad+iti",
-"quick_gloss": "therefore"
+"surface": "iti",
+"quick_gloss": "thus"
 },
 {
 "surface": "sadṛṣṭāntam",
@@ -390,16 +390,20 @@
 "quick_gloss": "says"
 },
 {
-"surface": "yathā+iti",
-"quick_gloss": "as-etc"
+"surface": "yathā",
+"quick_gloss": "as"
+},
+{
+"surface": "iti",
+"quick_gloss": "iti"
 },
 {
 "surface": "vāsanā",
-"quick_gloss": "tendency"
+"quick_gloss": "latent-impression"
 },
 {
 "surface": "saṃskāraḥ",
-"quick_gloss": "impression"
+"quick_gloss": "disposition"
 }
 ]
 },
@@ -456,8 +460,12 @@
 "quick_gloss": "example-another"
 },
 {
-"surface": "yathā+iti",
-"quick_gloss": "as-etc"
+"surface": "yathā",
+"quick_gloss": "as"
+},
+{
+"surface": "iti",
+"quick_gloss": "thus"
 }
 ]
 },
@@ -474,7 +482,7 @@
 },
 {
 "surface": "kadācit",
-"quick_gloss": "sometimes"
+"quick_gloss": "sometime"
 },
 {
 "surface": "kurvan",
@@ -510,8 +518,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "nānusandhatte",
-"quick_gloss": "not-recollects"
+"surface": "na",
+"quick_gloss": "not"
+},
+{
+"surface": "anusandhatte",
+"quick_gloss": "recollects"
 }
 ]
 },
@@ -523,8 +535,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
+"surface": "yaḥ",
+"quick_gloss": "who"
+},
+{
 "surface": "tu",
-"quick_gloss": "but"
+"quick_gloss": "tu"
 },
 {
 "surface": "uttamaḥ",
@@ -581,7 +597,7 @@
 },
 {
 "surface": "uttamasya",
-"quick_gloss": "highest's"
+"quick_gloss": "highest"
 },
 {
 "surface": "sthitim",
@@ -592,8 +608,16 @@
 "quick_gloss": "says"
 },
 {
-"surface": "yastu+iti",
-"quick_gloss": "highest-etc"
+"surface": "yaḥ",
+"quick_gloss": "who"
+},
+{
+"surface": "tu",
+"quick_gloss": "tu"
+},
+{
+"surface": "iti",
+"quick_gloss": "iti"
 }
 ]
 },
@@ -646,11 +670,15 @@
 "quick_gloss": "says"
 },
 {
-"surface": "ratha+iti",
-"quick_gloss": "chariot-etc"
+"surface": "rathā",
+"quick_gloss": "chariot"
 },
 {
-"surface": "etat",
+"surface": "iti",
+"quick_gloss": "iti"
+},
+{
+"surface": "etad",
 "quick_gloss": "this"
 },
 {
@@ -662,8 +690,12 @@
 "quick_gloss": "proves"
 },
 {
-"surface": "yathā+iti",
-"quick_gloss": "as-etc"
+"surface": "yathā",
+"quick_gloss": "as"
+},
+{
+"surface": "iti",
+"quick_gloss": "iti"
 }
 ]
 },
@@ -688,7 +720,7 @@
 },
 {
 "surface": "vyāpārī",
-"quick_gloss": "agent"
+"quick_gloss": "actor"
 },
 {
 "surface": "śuddha+saṃvedana+ātmakaḥ",

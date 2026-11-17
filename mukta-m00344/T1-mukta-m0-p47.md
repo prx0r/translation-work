@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p47-v1151
-[draḍhayati](draḍhayati) [nūnamiti](nūnamiti)
+[gloss](draḍhayati) [gloss](nūnam) [gloss](iti)
 
 ## mukta-m0-p47-v1152
-[iti](iti) [niścitya](niścitya) [dadhyau](dadhyau) [taṃ](taṃ) [dehaṃ](dehaṃ) [rājakumārakaḥ](rājakumārakaḥ)
+[gloss](iti) [gloss](niścitya) [gloss](dadhyau) [gloss](taṃ) [gloss](dehaṃ) [gloss](rājakumārakaḥ)
 
 ## mukta-m0-p47-v1153
-[ahanteti](ahanteti) [tathaite](tathaite) [dehātmānaḥ](dehātmānaḥ) [eva](eva) [dehamātmatvena](dehamātmatvena) [dadhyau](dadhyau) [cintayāmāsa](cintayāmāsa)
+[gloss](ahanteti) [gloss](tathaite) [gloss](dehātmānaḥ) [gloss](eva) [gloss](deham) [gloss](ātmatvena) [gloss](dadhyau) [gloss](cintayāmāsa)
 
 ## mukta-m0-p47-v1154
-[aho](aho) [kathaṃ](kathaṃ) [dehaḥ](dehaḥ) [eṣa](eṣa) [mamatāyāḥ](mamatāyāḥ) [samāśrayaḥ](samāśrayaḥ)
+[gloss](aho) [gloss](kathaṃ) [gloss](dehaḥ) [gloss](eṣa) [gloss](mamatāyāḥ) [gloss](samāśrayaḥ)
 
 ## mukta-m0-p47-v1155
-[hemalekhoktaṃ](hemalekhoktaṃ) [smṛtvāha](smṛtvāha) [aho](aho) [iti](iti)
+[gloss](hemalakhoktaṃ) [gloss](smṛtvāha) [gloss](aho) [gloss](iti)
 
 ## mukta-m0-p47-v1156
-[mama](mama) [rūpaṃ](rūpaṃ) [bhavennūnaṃ](bhavennūnaṃ) [chinnametattu](chinnametattu) [lakṣyate](lakṣyate)
+[gloss](mama) [gloss](rūpaṃ) [gloss](bhavet) [gloss](nūnaṃ) [gloss](chinnam) [gloss](etat) [gloss](tu) [gloss](lakṣyate)
 
 ## mukta-m0-p47-v1157
-[kathaṃ](kathaṃ) [mama](mama) [rūpaṃ](rūpaṃ) [bhavet](bhavet) [hetvantaramapyāha](hetvantaramapyāha) [chinnamiti](chinnamiti)
+[gloss](kathaṃ) [gloss](mama) [gloss](rūpaṃ) [gloss](bhavet) [gloss](hetvantaram) [gloss](api) [gloss](āha) [gloss](chinnam) [gloss](iti)
 
 ## mukta-m0-p47-v1158
-[nāhaṃ](nāhaṃ) [deho'nya](deho'nya) [eva](eva) [syāṃ](syāṃ) [prāṇo'pyeṣa](prāṇo'pyeṣa) [tathāvidhaḥ](tathāvidhaḥ)
+[gloss](nāhaṃ) [gloss](dehaḥ) [gloss](anyaḥ) [gloss](eva) [gloss](syāṃ) [gloss](prāṇaḥ) [gloss](api) [gloss](eṣa) [gloss](tathāvidhaḥ)
 
 ## mukta-m0-p47-v1159
-[ādipadena](ādipadena) [suṣuptirjanmāntaraṃ](suṣuptirjanmāntaraṃ) [vā](vā) [tathāvidho](tathāvidho) [mamatvādyāśrayaḥ](mamatvādyāśrayaḥ)
+[gloss](ādipadena) [gloss](suṣuptiḥ) [gloss](janmāntaraṃ) [gloss](vā) [gloss](tathāvidhaḥ) [gloss](mamatvādyāśrayaḥ)
 
 ## mukta-m0-p47-v1160
-[ato](ato) [dehādibuddhyantādanya](dehādibuddhyantādanya) [eva](eva) [na](na) [saṃśayaḥ](saṃśayaḥ)
+[gloss](ataḥ) [gloss](dehādibuddhyantāt) [gloss](anyaḥ) [gloss](eva) [gloss](na) [gloss](saṃśayaḥ)
 
 ## mukta-m0-p47-v1161
-[mameritaṃ](mameritaṃ) [mamatvenoktam](mamatvenoktam) [ato](ato) [dehādermamatvāśrayatvāt](dehādermamatvāśrayatvāt)
+[gloss](mama) [gloss](īritaṃ) [gloss](mamatvena) [gloss](uktam) [gloss](ataḥ) [gloss](dehādeḥ) [gloss](mamatvāśrayatvāt)
 
 ## mukta-m0-p47-v1162
-[sarvadā'haṃ](sarvadā'haṃ) [bhāsamānaḥ](bhāsamānaḥ) [sthita](sthita) [eva](eva) [na](na) [saṃśayaḥ](saṃśayaḥ)
+[gloss](sarvadā) [gloss](ahaṃ) [gloss](bhāsamānaḥ) [gloss](sthitaḥ) [gloss](eva) [gloss](na) [gloss](saṃśayaḥ)
 
 ## mukta-m0-p47-v1163
-[nahi](nahi) [jānāmi](jānāmi) [tat](tat) [kasmādetanna](kasmādetanna) [viditaṃ](viditaṃ) [mayā](mayā)
+[gloss](nahi) [gloss](jānāmi) [gloss](tat) [gloss](kasmāt) [gloss](etat) [gloss](na) [gloss](viditaṃ) [gloss](mayā)
 
 ## mukta-m0-p47-v1164
-[kasmānnimittānna](kasmānnimittānna) [viditam](viditam)
+[gloss](kasmāt) [gloss](nimittāt) [gloss](na) [gloss](viditam)
 
 ## mukta-m0-p47-v1165
-[prāṇastvacā](prāṇastvacā) [vibhātyeṣa](vibhātyeṣa) [mano](mano) [jñānena](jñānena) [cohitam](cohitam)
+[gloss](prāṇaḥ) [gloss](tvacā) [gloss](vibhāti) [gloss](eṣaḥ) [gloss](manaḥ) [gloss](jñānena) [gloss](ca) [gloss](ūhitam)
 
 ## mukta-m0-p47-v1166
-[jñānena](jñānena) [jñānātmakakāryahetunā](jñānātmakakāryahetunā) [ūhitaṃ](ūhitaṃ) [kāryakāraṇatvenānumitam](kāryakāraṇatvenānumitam)
+[gloss](jñānena) [gloss](jñānātmakakāryahetunā) [gloss](ūhitaṃ) [gloss](kāryakāraṇatvena) [gloss](anumitam)
 
 ## mukta-m0-p47-v1167
-[athaiṣāṃ](athaiṣāṃ) [bhāsanādeva](bhāsanādeva) [nātmā](nātmā) [bhāseta](bhāseta) [me](me) [yadi](yadi)
+[gloss](atha) [gloss](eṣāṃ) [gloss](bhāsanāt) [gloss](eva) [gloss](nātmā) [gloss](bhāseta) [gloss](me) [gloss](yadi)
 
 ## mukta-m0-p47-v1168
-[eṣāmiti](eṣāmiti)
+[gloss](eṣām) [gloss](iti)
 
 ## mukta-m0-p47-v1169
-[iti](iti) [niścitya](niścitya) [manasā](manasā) [jahau](jahau) [mānasagocaram](mānasagocaram)
+[gloss](iti) [gloss](niścitya) [gloss](manasā) [gloss](jahau) [gloss](mānasagocaram)
 
 ## mukta-m0-p47-v1170
-[mānasollekham](mānasollekham)
+[gloss](mānasollekham)
 
 ## mukta-m0-p47-v1171
-[idaṃ](idaṃ) [mamātmano](mamātmano) [rūpamiti](rūpamiti) [niścitamānasaḥ](niścitamānasaḥ)
+[gloss](idaṃ) [gloss](mama) [gloss](ātmanaḥ) [gloss](rūpam) [gloss](iti) [gloss](niścitamānasaḥ)
 
 ## mukta-m0-p47-v1172
-[mānasaṃ](mānasaṃ) [manovikārātmaka](manovikārātmaka) [tamo](tamo) [yena](yena)
+[gloss](mānasaṃ) [gloss](manovikārātmaka) [gloss](tamaḥ) [gloss](yena)
 
 ## mukta-m0-p47-v1173
-[nūnaṃ](nūnaṃ) [punaḥ](punaḥ) [prapaśyāmītyevaṃ](prapaśyāmītyevaṃ) [cittaṃ](cittaṃ) [rurodha](rurodha) [vai](vai)
+[gloss](nūnaṃ) [gloss](punaḥ) [gloss](prapaśyāmi) [gloss](iti) [gloss](evaṃ) [gloss](cittaṃ) [gloss](rurodha) [gloss](vai)
 
 ## mukta-m0-p47-v1174
-[praharṣam](praharṣam) [ātmā](ātmā) [dṛṣṭa](dṛṣṭa) [iti](iti) [bhramajanitam](bhramajanitam)
+[gloss](praharṣam) [gloss](ātmā) [gloss](dṛṣṭaḥ) [gloss](iti) [gloss](bhramajanitam)
 
 ## mukta-m0-p47-v1175
-[tejaḥpuñjamanādyantaṃ](tejaḥpuñjamanādyantaṃ) [bhāsvaraṃ](bhāsvaraṃ) [kṣaṇamātrataḥ](kṣaṇamātrataḥ)
+[gloss](tejaḥpuñjam) [gloss](anādyantaṃ) [gloss](bhāsvaraṃ) [gloss](kṣaṇamātrataḥ)

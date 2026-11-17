@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p39-v951
-[prakṛti-tattvasya](prakṛtitattvasya) [kartṛtva-sādhane](kartṛtvasādhane) [dṛṣṭānta-daurlabhyavat](dṛṣṭāntadaurlabhyavat) [na](na) [atra](atra) [iti](iti) [bhāvaḥ](bhāvaḥ)
+[of-nature-principle](prakṛtitattvasya) [in-proving-agency](kartṛtvasādhane) [example-difficulty-like-not-here-thus](dṛṣṭāntadaurlabhyavannātreti) [meaning](bhāvaḥ)
 
 ## mukta-m0-p39-v952
-[sa](sa) [kartā](kartā) [laukikebhyaḥ](laukikebhyaḥ) [tu](tu) [kartṛbhyaḥ](kartṛbhyaḥ) [syāt](syāt) [vilakṣaṇaḥ](vilakṣaṇaḥ)
+[that-agent](sa) [agent](kartā) [from-worldly-ones](laukikebhyaḥ) [but](tu) [from-agents](kartṛbhyaḥ) [would-be-distinct](syādvilakṣaṇaḥ)
 
 ## mukta-m0-p39-v953
-[aparicchinna-sāmarthyaḥ](aparicchinnasāmarthyaḥ) [kāryasya](kāryasya) [anuguṇatvataḥ](anuguṇatvataḥ)
+[unlimited-power](aparicchinnasāmarthyaḥ) [of-action](kāryasya) [suitability](ānuguṇatvataḥ)
 
 ## mukta-m0-p39-v954
-[iti](iti) [aparicchinna-jagataḥ](aparicchinnajagataḥ) [aparicchinna-sāmarthyaḥ](aparicchinnasāmarthyaḥ) [eva](eva) [kartā](kartā) [iti](iti) [bhāvaḥ](bhāvaḥ)
+[thus-unlimited-world's-unlimited-power-only-agent-thus-meaning](ityaparicchinnajagato'paricchinnasāmarthya) [eva](eva) [agent-thus-meaning](karteti) [bhāvaḥ](bhāvaḥ)
 
 ## mukta-m0-p39-v955
-[ataḥ](ataḥ) [taṃ](taṃ) [sarva-bhāvena](sarvabhāvena) [śaraṇīkuru](śaraṇīkuru) [sarvadā](sarvadā)
+[therefore-him](atastaṃ) [in-all-ways](sarvabhāvena) [take-refuge](śaraṇīkuru) [always](sarvadā)
 
 ## mukta-m0-p39-v956
-[bhāvaḥ](bhāvaḥ)
+[meaning](bhāvaḥ)
 
 ## mukta-m0-p39-v957
-[prasāditaḥ](prasāditaḥ)
+[pleased](prasāditaḥ)
 
 ## mukta-m0-p39-v958
-[viśvāsaḥ](viśvāsaḥ) [akāpaṭyāt](akāpaṭyāt) [sarva-bhāvena](sarvabhāvena)
+[faith](viśvāsaḥ) [without-deceit](akāpaṭyāt) [in-all-ways](sarvabhāvena)
 
 ## mukta-m0-p39-v959
-[eṣa](eṣa) [lokeśvaraḥ](lokeśvaraḥ) [devaḥ](devaḥ) [samyak](samyak) [yena](yena) [prasāditaḥ](prasāditaḥ)
+[this](eṣa) [world-lord](lokeśvaraḥ) [god](devaḥ) [properly](samyak) [by-whom](yena) [pleased](prasāditaḥ)
 
 ## mukta-m0-p39-v960
-[sarvātmanā](sarvātmanā) [kāya-vāk-manobhiḥ](kāyavāṅmanobhiḥ) [prasāditaḥ](prasāditaḥ) [iti](iti) [sambandhaḥ](sambandhaḥ) [śreyase](śreyase) [sukhāya](sukhāya)
+[with-whole-self](sarvātmanā) [by-body-speech-mind](kāyavāṅmanobhiḥ) [pleased](prasāditaḥ) [thus-connection](iti) [sambandhaḥ](sambandhaḥ) [for-welfare](śreyase) [for-happiness](sukhāya)
 
 ## mukta-m0-p39-v961
-[puruṣāḥ](puruṣāḥ) [hi](hi) [īśvarāḥ](īśvarāḥ) [loke](loke) [ca](ca) [anavasthāḥ](anavasthāḥ) [avatsalāḥ](avatsalāḥ)
+[men](puruṣāḥ) [indeed-lords](hīśvarāḥ) [in-world](loke) [unstable](cānavasthāḥ) [unaffectionate](avatsalāḥ)
 
 ## mukta-m0-p39-v962
-[niyatam](niyatam) [iti](iti) [āha](āha) [puruṣāḥ](puruṣāḥ) [iti](iti)
+[fixed-thus-says](niyatetyāha) [men-thus](puruṣā) [iti](iti)
 
 ## mukta-m0-p39-v963
-[phala-prāptiḥ](phalaprāptiḥ) [bhavet](bhavet) [eva](eva) [iti](iti) [śeṣaḥ](śeṣaḥ)
+[result-attainment-would-be-only-thus-remainder](phalaprāptirbhavedeveti) [śeṣaḥ](śeṣaḥ)
 
 ## mukta-m0-p39-v964
-[anavasthaḥ](anavasthaḥ) [cet](cet) [tat-kṛtā](tatkṛtā) [loka-yātrā](lokayātrā) [vyavasthitā](vyavasthitā) [na](na) [bhavet](bhavet) [iti](iti) [bhāvaḥ](bhāvaḥ)
+[if-unstable-then-by-him-made-world-course-not-established-thus-meaning](anavasthaścet) [tatkṛtā](tatkṛtā) [lokayātrā](lokayātrā) [vyavasthitā](vyavasthitā) [na](na) [bhavediti](bhavediti) [bhāvaḥ](bhāvaḥ)
 
 ## mukta-m0-p39-v965
-[tasmāt](tasmāt) [eṣa](eṣa) [dayā-sindhuḥ](dayāsindhuḥ) [suvyavasthaḥ](suvyavasthaḥ) [ca](ca) [kīrtitaḥ](kīrtitaḥ)
+[therefore-this](tasmādeṣa) [k-tasmādeva](k:tasmādeva) [ocean-of-mercy](dayāsindhuḥ) [well-established-and](suvyavasthaśca) [celebrated](kīrtitaḥ)
 
 ## mukta-m0-p39-v966
-[bhāvaḥ](bhāvaḥ)
+[meaning](bhāvaḥ)
 
 ## mukta-m0-p39-v967
-[śreyasi](śreyasi) [tvāṃ](tvāṃ) [yojayet](yojayet) [saḥ](saḥ) [tvaṃ](tvaṃ) [na](na) [tat-paratāṃ](tatparatāṃ) [vraja](vraja)
+[for-welfare](śreyasi) [you](tvāṃ) [would-join](yojayet) [he](sa) [you](tvaṃ) [not-that-supremacy-go](na) [tatparatāṃ](tatparatāṃ) [vraja](vraja)
 
 ## mukta-m0-p39-v968
-[śaṅkā](śaṅkā) [prakṣiptā](prakṣiptā) [jñeyā](jñeyā)
+[doubt](śaṅkā) [inserted](prakṣiptā) [to-be-known](jñeyā)
 
 ## mukta-m0-p39-v969
-[nirhetukaṃ](nirhetukaṃ) [tu](tu) [kvācitkaṃ](kvācitkaṃ) [tat](tat) [satya-upāsanaṃ](satyopāsanaṃ) [bhavet](bhavet)
+[without-cause](nirhetukaṃ) [but](tu) [occasional](kvācitkaṃ) [that](tat) [true-worship](satyopāsanaṃ) [would-be](bhavet)
 
 ## mukta-m0-p39-v970
-[niṣkāma-upāsanaṃ](niṣkāmopāsanaṃ) [satya-upāsanam](satyopāsanam) [satya-phala-sahitatvāt](satyaphalasahitatvāt)
+[desireless-worship](niṣkāmopāsanaṃ) [true-worship](satyopāsanam) [true-result-having](satyaphalasahitatvāt)
 
 ## mukta-m0-p39-v971
-[kadācit](kadācit) [dayayā](dayayā) [āviṣṭa](āviṣṭa) [vārtti](vārtti) [tasya](tasya) [vimocayet](vimocayet)
+[sometimes](kadācid) [by-mercy-filled](dayayāviṣṭa) [report](vārtti) [his](tasya) [release](vimocayet)
 
 ## mukta-m0-p39-v972
-[etad](etad) [eva](eva) [laukika-dṛṣṭāntena](laukikadṛṣṭāntenā) [upapādayati](upapādayati) [dṛṣṭam](dṛṣṭam) [etat](etat) [iti](iti)
+[this-only](etadeva) [by-worldly-example](laukikadṛṣṭāntenopapādayati) [seen-this-thus](dṛṣṭametaditi)
 
 ## mukta-m0-p39-v973
-[evam](evam) [eva](eva) [artha-arthinaḥ](arthārthinaḥ) [api](api) [mitaṃ](mitaṃ) [ca](ca) [aniyataṃ](aniyataṃ) [phalam](phalam)
+[thus-only](evamevārthārthino'pi) [little](mitaṃ) [and](cā) [not-fixed](aniyataṃ) [result](phalam)
 
 ## mukta-m0-p39-v974
-[phala-aprāpteḥ](phalāprāpteḥ) [ca](ca) [iti](iti) [bhāvaḥ](bhāvaḥ)
+[result-non-attainment-thus-meaning](phalāprāpteśceti) [bhāvaḥ](bhāvaḥ)
 
 ## mukta-m0-p39-v975
-[miteśvaraḥ](miteśvaraḥ) [api](api) [avyavasthaḥ](avyavasthaḥ) [tat-adhīnaḥ](tadadhīnaḥ) [bhavat](bhavat) [balam](balam)
+[little-lord](miteśvaro'pyavyavasthastadadhīno) [bhavatbalam](bhavatbalam)

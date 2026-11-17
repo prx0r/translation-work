@@ -61,7 +61,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "apaśyat",
+"surface": "apaśyal",
 "quick_gloss": "saw"
 },
 {
@@ -70,11 +70,11 @@
 },
 {
 "surface": "akhilaṃ",
-"quick_gloss": "whole"
+"quick_gloss": "all"
 },
 {
 "surface": "svarlokapratibimbavat",
-"quick_gloss": "like-heaven-reflection"
+"quick_gloss": "like-celestial-world-reflection"
 }
 ]
 },
@@ -111,16 +111,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "apaśyat",
+"surface": "apaśyad",
 "quick_gloss": "saw"
 },
 {
 "surface": "valyātmānaṃ",
-"quick_gloss": "with-body"
+"quick_gloss": "vali-self"
 },
 {
 "surface": "lokālokākhyaparvatam",
-"quick_gloss": "world-boundary-mountain"
+"quick_gloss": "mountain-called-loka-aloka"
 }
 ]
 },
@@ -132,8 +132,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "śubhekṣaṇaḥ",
-"quick_gloss": "beautiful-eyed"
+"surface": "śubhekṣaṇo",
+"quick_gloss": "auspicious-eyed"
 },
 {
 "surface": "apratihatanetraḥ",
@@ -153,8 +153,12 @@
 "quick_gloss": "oceans"
 },
 {
-"surface": "saptadvīpān",
+"surface": "saptadvīpāṃś",
 "quick_gloss": "seven-islands"
+},
+{
+"surface": "ca",
+"quick_gloss": "and"
 },
 {
 "surface": "nadīgirisamākulān",
@@ -171,11 +175,11 @@
 "tokens": [
 {
 "surface": "tadvahiḥ",
-"quick_gloss": "outside"
+"quick_gloss": "outside-that"
 },
 {
 "surface": "lokālokabahiḥ",
-"quick_gloss": "world-boundary-outside"
+"quick_gloss": "outside-loka-aloka"
 },
 {
 "surface": "antaḥ",
@@ -183,7 +187,7 @@
 },
 {
 "surface": "lokālokāntaḥ",
-"quick_gloss": "world-boundary-inside"
+"quick_gloss": "inside-loka-aloka"
 }
 ]
 },
@@ -208,7 +212,7 @@
 },
 {
 "surface": "yakṣakimpuruṣādikān",
-"quick_gloss": "yakshas-kinnaras-etc"
+"quick_gloss": "yakshas-kimpurushas-etc"
 }
 ]
 },
@@ -220,16 +224,24 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "athāpaśyad",
-"quick_gloss": "then-saw"
+"surface": "athā",
+"quick_gloss": "then"
+},
+{
+"surface": "paśyad",
+"quick_gloss": "saw"
 },
 {
 "surface": "bhūvibhāge",
 "quick_gloss": "on-earth-region"
 },
 {
-"surface": "kṛtvā rūpāntaraṃ",
-"quick_gloss": "making-other-form"
+"surface": "kṛtvā",
+"quick_gloss": "having-made"
+},
+{
+"surface": "rūpāntaraṃ",
+"quick_gloss": "other-form"
 },
 {
 "surface": "tathā",
@@ -267,15 +279,15 @@
 },
 {
 "surface": "munikumārasya",
-"quick_gloss": "sage-youth"
+"quick_gloss": "sage-youth's"
 },
 {
 "surface": "dṛṣṭvā",
-"quick_gloss": "seeing"
+"quick_gloss": "having-seen"
 },
 {
 "surface": "yogarddhimuttamām",
-"quick_gloss": "yoga-power-supreme"
+"quick_gloss": "supreme-yoga-power"
 }
 ]
 },
@@ -292,7 +304,7 @@
 },
 {
 "surface": "yogaiśvaryam",
-"quick_gloss": "yoga-sovereignty"
+"quick_gloss": "yoga-lordship"
 }
 ]
 },
@@ -305,7 +317,7 @@
 "tokens": [
 {
 "surface": "rājan",
-"quick_gloss": "king"
+"quick_gloss": "o-king"
 },
 {
 "surface": "etallokajātaṃ",
@@ -313,10 +325,10 @@
 },
 {
 "surface": "paśyataḥ",
-"quick_gloss": "seeing"
+"quick_gloss": "while-seeing"
 },
 {
-"surface": "kālaḥ",
+"surface": "kāla",
 "quick_gloss": "time"
 },
 {
@@ -338,7 +350,7 @@
 },
 {
 "surface": "svarlokapradarśanānantaram",
-"quick_gloss": "after-showing-heaven"
+"quick_gloss": "after-showing-celestial-world"
 }
 ]
 },
@@ -350,7 +362,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "gacchāvaḥ",
+"surface": "gacchāvo",
 "quick_gloss": "let-us-go"
 },
 {
@@ -362,20 +374,16 @@
 "quick_gloss": "that"
 },
 {
-"surface": "yatra",
-"quick_gloss": "where"
+"surface": "yatrāste",
+"quick_gloss": "where-dwells"
 },
 {
-"surface": "āste",
-"quick_gloss": "dwells"
-},
-{
-"surface": "janakaḥ",
+"surface": "janako",
 "quick_gloss": "father"
 },
 {
 "surface": "mama",
-"quick_gloss": "mine"
+"quick_gloss": "my"
 }
 ]
 },
@@ -404,7 +412,7 @@
 },
 {
 "surface": "ekadinātmakaḥ",
-"quick_gloss": "one-day"
+"quick_gloss": "one-day-nature"
 }
 ]
 },
@@ -421,15 +429,19 @@
 },
 {
 "surface": "tadgaṇḍaśailāt",
-"quick_gloss": "from-that-gandha-mountain"
+"quick_gloss": "from-that-ganda-mountain"
 },
 {
 "surface": "nirgatya",
-"quick_gloss": "exiting"
+"quick_gloss": "having-exited"
 },
 {
-"surface": "abhyāyayau bahiḥ",
-"quick_gloss": "went-outside"
+"surface": "abhyāyayau",
+"quick_gloss": "went-out"
+},
+{
+"surface": "bahiḥ",
+"quick_gloss": "outside"
 }
 ]
 },
@@ -442,7 +454,7 @@
 "tokens": [
 {
 "surface": "bhūbhṛtā",
-"quick_gloss": "mountain"
+"quick_gloss": "by-mountain"
 },
 {
 "surface": "rājñā",
@@ -459,7 +471,7 @@
 "tokens": [
 {
 "surface": "vidhāya",
-"quick_gloss": "making"
+"quick_gloss": "having-made"
 },
 {
 "surface": "mūrcchitaṃ",
@@ -467,7 +479,7 @@
 },
 {
 "surface": "liṅgadehaṃ",
-"quick_gloss": "linga-body"
+"quick_gloss": "subtle-body"
 },
 {
 "surface": "saṃskāramātrakam",
@@ -484,7 +496,7 @@
 "tokens": [
 {
 "surface": "sthūlendriyādyabhāvāt",
-"quick_gloss": "gross-senses-absence"
+"quick_gloss": "gross-senses-etc-absence"
 },
 {
 "surface": "suṣuptāviva",
@@ -508,6 +520,10 @@
 "quick_gloss": "raised"
 },
 {
+"surface": "tu",
+"quick_gloss": "but"
+},
+{
 "surface": "taṃ",
 "quick_gloss": "him"
 },
@@ -525,16 +541,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "śailāt",
+"surface": "śailād",
 "quick_gloss": "from-mountain"
 },
 {
 "surface": "vinirgatya",
-"quick_gloss": "exiting"
+"quick_gloss": "having-exited"
 },
 {
 "surface": "taccharīrake",
-"quick_gloss": "that-body"
+"quick_gloss": "in-that-body"
 },
 {
 "surface": "prāk",
@@ -545,8 +561,12 @@
 "quick_gloss": "grass-hollow-placed"
 },
 {
-"surface": "taṃ rājānam",
-"quick_gloss": "him-king"
+"surface": "taṃ",
+"quick_gloss": "him"
+},
+{
+"surface": "rājānam",
+"quick_gloss": "king"
 }
 ]
 },
@@ -562,7 +582,7 @@
 "quick_gloss": "earth"
 },
 {
-"surface": "janān",
+"surface": "janāṃs",
 "quick_gloss": "people"
 },
 {
@@ -570,12 +590,16 @@
 "quick_gloss": "trees"
 },
 {
-"surface": "srotohradādīṃśca",
-"quick_gloss": "streams-lakes-etc"
+"surface": "srotohradādīṃś",
+"quick_gloss": "streams-pools-etc"
+},
+{
+"surface": "ca",
+"quick_gloss": "and"
 },
 {
 "surface": "api",
-"quick_gloss": "also"
+"quick_gloss": "api"
 },
 {
 "surface": "nūtanān",
@@ -596,7 +620,7 @@
 },
 {
 "surface": "pariṇāmāntaraṃ",
-"quick_gloss": "into-another-transformation"
+"quick_gloss": "other-transformation"
 },
 {
 "surface": "gatān",

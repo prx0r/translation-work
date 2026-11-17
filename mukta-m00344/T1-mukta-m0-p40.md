@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p40-v976
-[that+dependent](tad+adhīnaḥ) [worshipper+dependent](upāsaka+adhīnaḥ)
+[that+dependent](tadadhīnaḥ) [worshipper+dependent](upāsakādhīnaḥ)
 
 ## mukta-m0-p40-v977
-[this](eṣa) [all+lord](sarva+īśvaraḥ) [god](devaḥ) [heart+lord](hṛdaya+īśaḥ) [of+all](akhilasya) [but](tu)
+[this](eṣa) [all+lord](sarveśvaraḥ) [god](devo) [heart+lord](hṛdayeśaḥ) [of+all](akhilasya) [but](tu)
 
 ## mukta-m0-p40-v978
-[inner+ruler+ness](antar+yāmi+tvena) [all+heart+abiding+ness](akhila+hṛdaya+sthita+tva) [heart+lord](hṛdaya+īśaḥ)
+[inner+controller+ness](antaryāmitvena) [all+heart+situated+ness](akhilahṛdayasthitatvād) [heart+lord](hṛdayeśaḥ)
 
 ## mukta-m0-p40-v979
-[distressed](ārtam) [wealth+seeker](artha+arthinam) [god](devaḥ) [for+that+purpose](tad+arthena) [to+employ](abhiyojitum)
+[afflicted](ārta) [desire+seeker](arthārthinam) [god](deva) [that+purpose+for](tadarthena) [to+employ](abhiyojitum)
 
 ## mukta-m0-p40-v980
-[for+that+purpose](tad+arthena) [desired+purpose](kāmita+arthena)
+[that+purpose](tadarthena) [desired+purpose](kāmitārthena)
 
 ## mukta-m0-p40-v981
-[causeless+worshipper](nirhetuka+upāsakam) [own](svam) [without+other+refuge](ananya+śaraṇam) [lord](vibhuḥ)
+[causeless](nirhetuka) [worshipper](upāsakam) [self+without+other+refuge](svamananyaśaraṇam) [lord](vibhuḥ)
 
 ## mukta-m0-p40-v982
-[thus+kind+action+ripening](evaṃvidha+karma+pākam) [awaiting+thus+meaning](pratīkṣya+iti+arthaḥ) [own](svam) [own](svīyam) [meaning](iti+arthaḥ)
+[thus+kind+action+ripening](evaṃvidhakarmapākam) [to+await](pratīkṣya) [meaning](ityarthaḥ) [self](svam) [own](svīyam) [meaning](ityarthaḥ)
 
 ## mukta-m0-p40-v983
-[this+only](etad+eva) [great+lordship](mahā+īśatvam) [independence+great](svātantrya+mahatam) [but](tu) [which](yat)
+[this+only](etadeva) [great+lordship](maheśatvam) [self+power+greatness](svātantryamahattvam) [but](tu) [that](yat)
 
 ## mukta-m0-p40-v984
-[destiny+etc+transgression+only](niyati+ādi+ullaṅghanam+eva) [meaning](iti+arthaḥ)
+[destiny+etc+transgression](niyatyāderullaṅghanam) [only](eva) [meaning](ityarthaḥ)
 
 ## mukta-m0-p40-v985
-[creation+section](sṛṣṭi+khaṇḍe) [thirty+third](traya+triṃśe) [chapter](adhyāye) [to+be+seen](draṣṭavyā)
+[creation+section](sṛṣṭikhaṇḍe) [thirty+third](trayastriṃśe) [chapter](adhyāye) [to+be+seen](draṣṭavyā)
 
 ## mukta-m0-p40-v986
-[not+this+scripture+only+established](na+etad+āgama+eka+siddham) [but+tradition+established+also](kintu+aitihya+siddham+api) [thus+says](iti+āha) [this+thus](etad+iti)
+[not+this+scripture+only+established](naitadāgamaikasiddham) [but](kintu) [tradition+established+also](aitihyasiddhamapi) [thus+says](ityāha) [this](etad) [iti](iti)
 
 ## mukta-m0-p40-v987
-[here+reason](atra+upapattim) [to+you](te) [I+will+speak](vakṣye) [hear](śṛṇu) [life+dear+spoken](prāṇa+priya+īritām)
+[here](atra) [reason](upapattim) [to+you](te) [I+will+speak](vakṣye) [hear](śṛṇu) [life+dear+spoken](prāṇapriyeritām)
 
 ## mukta-m0-p40-v988
-[reason](upapattim) [logic](yuktim)
+[reason](upapattim) [argument](yuktim)
 
 ## mukta-m0-p40-v989
-[nevertheless](tathā+api) [non+human](apauruṣāṇām) [that](tat) [destiny](prārabdham) [not+removing](an+apohanam)
+[still](tathāpi) [non+human](apauruṣāṇām) [that](tat) [begun+action](prārabdham) [not+removal](anapohanam)
 
 ## mukta-m0-p40-v990
-[non+human](apauruṣāṇām) [human+effort+devoid](puruṣa+yatna+rahita+nām)
+[non+human](apauruṣāṇām) [human+effort+without](puruṣayatnarahitānām)
 
 ## mukta-m0-p40-v991
-[not](na) [them](tān) [in+seen](dṛṣṭeṣu) [sufferings](duḥkheṣu) [destiny](prārabdham) [joins](yojayati) [enough](alam)
+[not](na) [them](tān) [in+seen](dṛṣṭeṣu) [sufferings](duḥkheṣu) [begun+action](prārabdham) [to+join](yojayati) [enough](alam)
 
 ## mukta-m0-p40-v992
-[how+this+known](katham+etat+jñātam) [if](iti) [cet](cet) [by+perception](pratyakṣeṇa) [thus+says](iti+āha) [not+them+thus](na+tān+iti)
+[how+this+known](kathametajjñātam) [if](iti) [cet](cet) [by+perception](pratyakṣeṇa) [thus+says](ityāha) [not+them](na+tān) [iti](iti)
 
 ## mukta-m0-p40-v993
-[this+destiny+arranged](etat+niyati+saṃkḷptam) [thus+experience+from](tathā+eva+anubhavāt) [indeed](nanu)
+[this+destiny+arranged](etanniyatisaṃkḷptam) [so+also](tathaiva) [from+experience](anubhavāt) [nanu](nanu)
 
 ## mukta-m0-p40-v994
-[destiny](niyateḥ) [imaginability](kalpanīyatvāt) [thus](iti) [meaning](bhāvaḥ)
+[destiny+of](niyateḥ) [conceivability](kalpanīyatvāt) [meaning](iti) [bhāvaḥ](bhāvaḥ)
 
 ## mukta-m0-p40-v995
-[true+resolve+only+lord](satya+saṅkalpa+eva+īśaḥ) [unsurpassable](nullaṅghyā) [indeed](hi) [from+that](ata+eva) [she](sā)
+[truthful+resolve](satyasaṅkalpa) [only+lord](eveśaḥ) [untransgressable](nullaṅghyā) [indeed](hy) [therefore](ata) [from](eva) [she](sā)
 
 ## mukta-m0-p40-v996
-[from+that](ata+eva) [true+resolve+ness](satya+saṅkalpatvāt) [indeed](eva)
+[therefore](ata) [only](eva) [truthful+resolve+ness](satyasaṅkalpatvāt) [eva](eva)
 
 ## mukta-m0-p40-v997
-[unobstructed+even](akuṇṭhitā+api) [becomes](bhavati) [because](yataḥ) [she](sā) [such](tādṛśī) [becomes](bhavet)
+[unobstructed](akuṇṭhitā) [also](api) [becomes](bhavati) [because](yataḥ) [she](sā) [such](tādṛśī) [becomes](bhavet)
 
 ## mukta-m0-p40-v998
-[everywhere+unobstructed+only+thus](sarvatra+akuṇṭhitā+eva+iti)
+[everywhere](sarvatra) [unobstructed+only](akuṇṭhitaiva) [iti](iti)
 
 ## mukta-m0-p40-v999
-[causelessness](ahetukatayā) [he](sa) [you](tvām) [employs](niyojayati) [in+better](śreyasi)
+[causeless+ness](ahetukatayā) [he](sa) [you](tvām) [employs](niyojayati) [in+welfare](śreyasi)
 
 ## mukta-m0-p40-v1000
-[desirelessness](niṣkāmatvena) [he](saḥ) [great+lord](mahā+īśaḥ)
+[desireless+ness](niṣkāmatvena) [he](saḥ) [great+lord](maheśaḥ)

@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p48-v1176
-[prāṇāyāma+nirodha+ādi+abhyāsena](prāṇāyāmanirodhādyabhyāsena) [bhāsvaraṃ](bhāsvaraṃ) [prakāśa+eka+nibiḍam](prakāśaikanibiḍam)
+[breath-control+suppression+etc+practice](prāṇāyāmanirodhādyabhyāsena) [shining](bhāsvaraṃ) [light+one+dense](prakāśaikanibiḍam)
 
 ## mukta-m0-p48-v1177
-[aho](aho) [paśyāmi](paśyāmi) [vividhaṃ](vividhaṃ) [kim](kim) [ātmānaṃ](ātmānaṃ) [kathaṃ](kathaṃ) [tu](tu) [idam](idam)
+[alas](aho) [I-see](paśyāmi) [various](vividhaṃ) [what-self](kimātmānaṃ) [how](kathaṃ) [indeed-this](tvidam)
 
 ## mukta-m0-p48-v1178
-[vismitaḥ](vismitaḥ)
+[astonished](vismitaḥ)
 
 ## mukta-m0-p48-v1179
-[vilīnaṃ](vilīnaṃ) [nidrayā](nidrayā) [cittaṃ](cittaṃ) [babhau](babhau) [cirataraṃ](cirataraṃ) [dṛḍham](dṛḍham)
+[dissolved](vilīnaṃ) [by-sleep](nidrayā) [mind](cittaṃ) [appeared](babhau) [very-long](cirataraṃ) [firm](dṛḍham)
 
 ## mukta-m0-p48-v1180
-[nidrā+hetunā](nidrāhetunā) [cittaṃ](cittaṃ) [vilīnam](vilīnam)
+[by-sleep-cause](nidrāhetunā) [mind](cittaṃ) [dissolved](vilīnam)
 
 ## mukta-m0-p48-v1181
-[atha](atha) [prabuddhaḥ](prabuddho) [atyantaṃ](atyantaṃ) [vai](vai) [cintāṃ](cintāṃ) [prāpa](prāpa) [mahattarām](mahattarām)
+[then](atha) [awakened](prabuddho'tyantaṃ) [indeed](vai) [thought](cintāṃ) [obtained](prāpa) [greater](mahattarām)
 
 ## mukta-m0-p48-v1182
-[tam](tam) [tejaḥ](tejaś) [ca](ca) [api](api) [dṛṣṭam](dṛṣṭam) [aho](aho) [svapna+ātmakaṃ](svapnātmakaṃ) [bhavet](bhavet)
+[that-darkness-light-and-also](tamastejaścāpi) [seen](dṛṣṭamaho) [dream-nature](svapnātmakaṃ) [may-be](bhavet)
 
 ## mukta-m0-p48-v1183
-[bhūyo](bhūyo) [nigṛhya](nigṛhya) [paśyāmi](paśyāmī) [iti](iti) [evaṃ](evaṃ) [niścitya](niścitya) [vai](vai) [dṛḍham](dṛḍham)
+[again](bhūyo) [restraining](nigṛhya) [I-will-see-thus](paśyāmītyevaṃ) [deciding](niścitya) [indeed](vai) [firmly](dṛḍham)
 
 ## mukta-m0-p48-v1184
-[cintayati](cintayati) [svapna](svapna) [iti](iti) [etaṃ](etaṃ) [svapnam](svapnam)
+[thinks](cintayati) [dream](svapna) [thus](iti) [this](etaṃ) [dream](svapnam)
 
 ## mukta-m0-p48-v1185
-[tadā+ānanda+samudra+antar+nimagna](tadānandasamudrāntarnimagna) [iva](iva) [saḥ+abhavat](so'bhavat)
+[then-bliss-ocean-within-immersed](tadānandasamudrāntarnimagna) [like](iva) [he-became](so'bhavat)
 
 ## mukta-m0-p48-v1186
-[sthiram](sthiram) [abhavat](abhavat) [tadā](tadā) [niruddha+citta+daśāyām](niruddhacittadaśāyām)
+[steady-became](sthiramabhavat) [then](tadā) [restrained-mind-state](niruddhacittadaśāyām)
 
 ## mukta-m0-p48-v1187
-[kim+eṣa](kimeṣa) [me+abhavat](me'bhavat) [svapnaḥ](svapnaś) [ca](cā) [athavā](athavā) [citta+vibhramaḥ](cittavibhramaḥ)
+[what-this](kimeṣa) [to-me-became](me'bhavat) [dream-and](svapnaścā'thavā) [or](cittavibhramaḥ)
 
 ## mukta-m0-p48-v1188
-[vikalpayati](vikalpayati) [kimeṣa](kimeṣa) [iti](iti)
+[variant](danniva kalpa) [imagines](vikalpayati) [what-this](kimeṣa) [thus](iti)
 
 ## mukta-m0-p48-v1189
-[na+anvabhūvam](nā'nvabhūvaṃ) [kiñcid](kiñcid) [api](api) [sukham](sukham) [āptaṃ](āptaṃ) [kathaṃ](kathaṃ) [mayā](mayā)
+[not-experienced](nā'nvabhūvaṃ) [anything-even](kiñcidapi) [happiness-obtained](sukhamāptaṃ) [how](kathaṃ) [by-me](mayā)
 
 ## mukta-m0-p48-v1190
-[nirodha+kāle](nirodhakāle) [sukha+anubhava](sukhānubhava) [iti](iti) [śaṅkate](śaṅkate) [na+anvabhūvam](nānvabhūvam) [iti](iti)
+[at-suppression-time](nirodhakāle) [happiness-experience](sukhānubhava) [thus](iti) [doubts](śaṅkate) [not-experienced-thus](nānvabhūvamiti)
 
 ## mukta-m0-p48-v1191
-[ahaṃ](ahaṃ) [suṣupta+vat](suṣuptavan) [mūḍhaḥ](mūḍhaḥ) [kathaṃ](katham) [etat](etat) [sukhaṃ](sukhaṃ) [sthitam](sthitam)
+[I](ahaṃ) [deep-sleep-like-stupefied](suṣuptavanmūḍhaḥ) [how](kathametat) [this](sukhaṃ) [happiness](sthitam)
 
 ## mukta-m0-p48-v1192
-[kathaṃ](kathaṃ) [eṣa](eṣa) [sukha+anubhavaḥ](sukhānubhavaḥ)
+[how](kathameṣa) [this](sukhānubhavaḥ)
 
 ## mukta-m0-p48-v1193
-[ātma+avagamanāya](ātmāvagamanāya) [ahaṃ](ahaṃ) [pravṛttaḥ](pravṛtto) [api](api) [adya](adya) [na](nā) [avidam](avidam)
+[for-self-knowledge](ātmāvagamanāyāhaṃ) [engaged-even](pravṛtto'pyadya) [today](nāvidam)
 
 ## mukta-m0-p48-v1194
-[atra](atra) [sukha+upalabdhau](sukhopalabdhau) [tat](tat) [sukhaṃ](sukhaṃ) [hetuṃ](hetuṃ) [vinā](vinā) [kathaṃ](kathaṃ) [bhavet](bhavet)
+[here](atra) [happiness-perception](sukhopalabdhau) [that](tat) [happiness](sukhaṃ) [cause](hetuṃ) [without](vinā) [how](kathaṃ) [may-be](bhavet)
 
 ## mukta-m0-p48-v1195
-[prakāśaḥ](prakāśo) [vā](vā) [andhakāraḥ](andhakāro) [vā](vā) [sukhaṃ](sukhaṃ) [vā](vā) [anyat](anyad) [atha](athā) [api](pi) [vā](vā)
+[light](prakāśo) [or-darkness](vāndhakāro) [or](vā) [happiness](sukhaṃ) [or-other](vānyadathāpi) [or](vā)
 
 ## mukta-m0-p48-v1196
-[atha](atha) [prakāśa+ādibhyaḥ](prakāśādibhyo) [anyat](anyad) [eva](eva) [iti](iti) [arthaḥ](arthaḥ)
+[then](atha) [from-light-etc](prakāśādibhyo'nyadeva) [thus-meaning](vetyarthaḥ)
 
 ## mukta-m0-p48-v1197
-[na](nā) [antam](antam) [emi](emi) [atra](atra) [bhūyas](bhūyas) [tām](tāṃ) [pṛcchāmi](pṛcchāmi) [viduṣīm](viduṣīṃ) [priyām](priyām)
+[not-end-I-go-here](nāntamemyatra) [again](bhūyastāṃ) [I-ask](pṛcchāmi) [learned](viduṣīṃ) [dear](priyām)
 
 ## mukta-m0-p48-v1198
-[bhavet](bhavet) [atra](atra) [antam](antaṃ) [niścayaṃ](niścayaṃ) [naimi](naimi) [na](na) [prāpnomi](prāpnomi)
+[may-be](bhavet) [here-end](atrāntaṃ) [certainty](niścayaṃ) [I-do-not-go](naimi) [not](na) [I-obtain](prāpnomi)
 
 ## mukta-m0-p48-v1199
-[sva+sannidhānam](svasannidhānam) [ānetuṃ](ānetuṃ) [hema+lekhām](hemalekhāṃ) [nṛpa+ātmajaḥ](nṛpātmajaḥ)
+[own-presence-to-bring](svasannidhānamānetuṃ) [Hemalekha](hemalekhāṃ) [prince](nṛpātmajaḥ)
 
 ## mukta-m0-p48-v1200
-[āruroha](āruroha) [mahā+saudhaṃ](mahāsaudhaṃ) [merum](merum) [indu+prabhā](induprabhā) [iva](iva) [sā](sā)
+[ascended](āruroha) [great-palace](mahāsaudhaṃ) [Meru](meruminduprabheva) [moon-light-like](sā)
