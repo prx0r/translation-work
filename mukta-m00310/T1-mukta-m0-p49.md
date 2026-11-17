@@ -5,16 +5,16 @@
 [five-acts-full](pañcakṛtyamayī) [goddess](devī) [all-goddess-full](sarvadevīmayī) [auspicious](śivā)
 
 ## mukta-m0-p49-v1202
-[great-dark](mahāśyāmā) [great-knowledge](mahāvidyā) [worshipful](pūjanīyā) [in-order](yathākramam)
+[great-dark](mahāśyāmā) [great-knowledge](mahāvidyā) [worship-worthy](pūjanīyā) [in-order](yathākramam)
 
 ## mukta-m0-p49-v1203
 [of-gaṇeśa-sun-śiva-durgā](gaṇeśārkaharīśāna+durgāṇāṃ) [supreme-truth-knower](paramārthavit)
 
 ## mukta-m0-p49-v1204
-[in-goddess-circle](devīcakre) [worship](arcayet) [all](sarvāṃś) [or-in-śiva-liṅga-or-śiva](chivaliṅge'thavā+śive)
+[in-goddess-wheel](devīcakre) [worship](arcayet) [all](sarvāṃś) [in-śiva-liṅga-or-śiva](chivaliṅge'thavā+śive)
 
 ## mukta-m0-p49-v1205
-[by-śrī-gaṇeśvara-circle](śrīgaṇeśvaracakreṇa) [not](ma) [difference](bhedaṃ) [make](kārayed) [wise](budhaḥ)
+[by-śrī-gaṇeśvara-wheel](śrīgaṇeśvaracakreṇa) [no-difference](ma+bhedaṃ) [make](kārayed) [wise](budhaḥ)
 
 ## mukta-m0-p49-v1206
 [separately](pṛthak+pṛthak) [to-śiva](śive) [do](kuryād) [worship](arcanaṃ) [kaulika-best](kaulikottamaḥ)
@@ -35,7 +35,7 @@
 [all-this](sarvasvametad) [goddess-lord](deveśi) [tantra](tantraṃ) [goddess-secret](devīrahasyakam)
 
 ## mukta-m0-p49-v1212
-[first](prathamaṃ) [goddess](devi) [five-limbed](pañcāṅgaṃ) [great-gaṇapati](mahāgaṇapateḥ) [hear](śṛṇu)
+[first](prathamaṃ) [devi](devi) [five-limbed](pañcāṅgaṃ) [great-gaṇapati](mahāgaṇapateḥ) [hear](śṛṇu)
 
 ## mukta-m0-p49-v1213
 [on-meru-back](merupṛṣṭhe) [comfortably-seated](sukhāsīnaṃ) [great-god](mahādevaṃ) [three-eyed](trilocanam)
@@ -47,7 +47,7 @@
 [smiling](sasmitaṃ) [speaking](bhāṣamāṇaṃ) [ca](ca) [with-brahmā-viṣṇu](brahmaṇā+hariṇā) [with](saha)
 
 ## mukta-m0-p49-v1216
-[of-works](kāryasya) [of-deities](devatānāṃ) [ca](ca) [of-humans](manuṣyāṇāṃ) [also](tathaiva) [ca](ca)
+[of-work](kāryasya) [of-deities](devatānāṃ) [ca](ca) [of-humans](manuṣyāṇāṃ) [also](tathaiva) [ca](ca)
 
 ## mukta-m0-p49-v1217
 [not-to-be-spoken](avaktavyam) [to-non-devotees](abhaktebhyo) [to-devotees](bhaktebhyo) [liberation-means](muktisādhanam)
@@ -62,16 +62,16 @@
 [recite](paṭhennāmnāṃ) [thousand](sahasraṃ) [tu](tu) [stotra](stotraṃ) [root-single-means](mūlaikasādhanam)
 
 ## mukta-m0-p49-v1221
-[mantra](mantraṃ) [yantra](yantraṃ) [stava](stavaṃ) [armor](varma) [of-names-thousand-best](nāmnāṃ+sahasramuttamam)
+[mantra](mantraṃ) [yantra](yantraṃ) [stava](stavaṃ) [armor](varma) [of-names](nāmnāṃ) [thousand-best](sahasramuttamam)
 
 ## mukta-m0-p49-v1222
 [elephant-faced](gajānano) [troop-leader](gaṇādhyakṣo) [vināyaka](vināyaka) [iti](iti) [heard](śrutaḥ)
 
 ## mukta-m0-p49-v1223
-[there-first](tatrādau) [to-you](te) [I-will-declare](pravakṣyāmi) [mantra-extraction](mantroddhāraṃ) [goddess-lord](sureśvari)
+[there-first](tatrādau) [to-you](te) [I-will-explain](pravakṣyāmi) [mantra-extraction](mantroddhāraṃ) [goddess-lord](sureśvari)
 
 ## mukta-m0-p49-v1224
-[twenty-eight-lettered](hyaṣṭāviṃśativarṇako) [declared](nigadito) [vaināyaka-this](vaināyako'yaṃ) [manu](manuḥ)
+[twenty-eight-syllabled](hyaṣṭāviṃśativarṇako) [declared](nigadito) [vaināyaka](vaināyako'yaṃ) [manu](manuḥ)
 
 ## mukta-m0-p49-v1225
 [at-banyan](vaṭe) [four-way](catuṣpathe) [empty-house](śūnyagṛhe) [preta-abode](pretālaye) [practice](caret)

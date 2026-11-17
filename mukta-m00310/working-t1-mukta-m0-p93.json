@@ -8,19 +8,23 @@
 "tokens": [
 {
 "surface": "dharmī",
-"quick_gloss": "righteous"
+"quick_gloss": "dharma-possessor"
 },
 {
 "surface": "carmāmbaraḥ",
-"quick_gloss": "skin-garment"
+"quick_gloss": "skin+garment"
 },
 {
 "surface": "cārurūpaḥ",
-"quick_gloss": "beautiful-form"
+"quick_gloss": "beautiful+form"
 },
 {
 "surface": "cāruvibhūṣaṇaḥ",
-"quick_gloss": "beautiful-ornament"
+"quick_gloss": "beautiful+ornament"
+},
+{
+"surface": "viśoṣaṇaḥ",
+"quick_gloss": "drying"
 }
 ]
 },
@@ -58,19 +62,23 @@
 "tokens": [
 {
 "surface": "gaṇakāryaḥ",
-"quick_gloss": "attendant-serving"
+"quick_gloss": "host-of-gaṇas"
 },
 {
 "surface": "kulācāraḥ",
-"quick_gloss": "family-conduct"
+"quick_gloss": "family-rite"
 },
 {
 "surface": "sarvācāraḥ",
-"quick_gloss": "all-conduct"
+"quick_gloss": "all-rites"
 },
 {
-"surface": "sakhā+samaḥ",
-"quick_gloss": "friend-equal"
+"surface": "sakhā",
+"quick_gloss": "friend"
+},
+{
+"surface": "samaḥ",
+"quick_gloss": "equal"
 }
 ]
 },
@@ -86,8 +94,8 @@
 "quick_gloss": "ruddy"
 },
 {
-"surface": "ca+ekacintyaḥ",
-"quick_gloss": "single-thought"
+"surface": "ekacintyaḥ",
+"quick_gloss": "one-thought"
 },
 {
 "surface": "triśaṅkuḥ",
@@ -144,7 +152,7 @@
 "quick_gloss": "pināka-bearer"
 },
 {
-"surface": "cāṣṭamūrtiḥ",
+"surface": "aṣṭamūrtiḥ",
 "quick_gloss": "eight-formed"
 },
 {
@@ -152,8 +160,12 @@
 "quick_gloss": "earth-possessor"
 },
 {
-"surface": "dhṛtimān+tathā",
+"surface": "dhṛtimān",
 "quick_gloss": "steadfast"
+},
+{
+"surface": "tathā",
+"quick_gloss": "thus"
 }
 ]
 },
@@ -198,12 +210,16 @@
 "quick_gloss": "śarva"
 },
 {
+"surface": "tathā",
+"quick_gloss": "thus"
+},
+{
 "surface": "rudraḥ",
 "quick_gloss": "rudra"
 },
 {
 "surface": "paśunāthaḥ",
-"quick_gloss": "beast-lord"
+"quick_gloss": "lord-of-beasts"
 },
 {
 "surface": "śaṅkaraḥ",
@@ -232,7 +248,7 @@
 },
 {
 "surface": "gaṇeśvaraḥ",
-"quick_gloss": "troop-lord"
+"quick_gloss": "gaṇa-lord"
 }
 ]
 },
@@ -245,7 +261,7 @@
 "tokens": [
 {
 "surface": "gaṇeśvaraḥ",
-"quick_gloss": "troop-lord"
+"quick_gloss": "gaṇa-lord"
 },
 {
 "surface": "guṇī",
@@ -261,7 +277,7 @@
 },
 {
 "surface": "durantakaḥ",
-"quick_gloss": "endless"
+"quick_gloss": "limitless"
 }
 ]
 },
@@ -306,8 +322,8 @@
 "quick_gloss": "overpowering"
 },
 {
-"surface": "guṇināda+pratiṣṭhitaḥ",
-"quick_gloss": "quality-established"
+"surface": "guṇinādapratiṣṭhitaḥ",
+"quick_gloss": "established-by-virtue-sound"
 }
 ]
 },
@@ -328,7 +344,7 @@
 },
 {
 "surface": "yajamāneṣṭadaḥ",
-"quick_gloss": "sacrificer-desired-giver"
+"quick_gloss": "desired-by-sacrificer"
 },
 {
 "surface": "śuciḥ",
@@ -395,11 +411,11 @@
 },
 {
 "surface": "śaraṇyaḥ",
-"quick_gloss": "refuge-worthy"
+"quick_gloss": "refuge"
 },
 {
 "surface": "sarvalokakṛt",
-"quick_gloss": "all-world-maker"
+"quick_gloss": "maker-of-all-worlds"
 }
 ]
 },
@@ -446,11 +462,11 @@
 "tokens": [
 {
 "surface": "guhapriyaḥ",
-"quick_gloss": "guha-dear"
+"quick_gloss": "guha-beloved"
 },
 {
 "surface": "gaṇasevyaḥ",
-"quick_gloss": "troop-served"
+"quick_gloss": "gaṇa-served"
 },
 {
 "surface": "pavitraḥ",
@@ -478,8 +494,8 @@
 "quick_gloss": "liberation-radiant"
 },
 {
-"surface": "bhaktānāṃ+paramā+gatiḥ",
-"quick_gloss": "devotees-supreme-goal"
+"surface": "bhaktānāṃparamāgatiḥ",
+"quick_gloss": "supreme-goal-of-devotees"
 }
 ]
 },
@@ -542,7 +558,7 @@
 },
 {
 "surface": "dhanādhyakṣaḥ",
-"quick_gloss": "wealth-overseer"
+"quick_gloss": "wealth-superintendent"
 },
 {
 "surface": "nāthaḥ",
@@ -563,11 +579,11 @@
 "tokens": [
 {
 "surface": "senākalpaḥ",
-"quick_gloss": "army-like"
+"quick_gloss": "army-aeon"
 },
 {
 "surface": "mahākalpaḥ",
-"quick_gloss": "great-cycle"
+"quick_gloss": "great-aeon"
 },
 {
 "surface": "yogaḥ",
@@ -575,7 +591,7 @@
 },
 {
 "surface": "yugakaraḥ",
-"quick_gloss": "age-maker"
+"quick_gloss": "aeon-maker"
 },
 {
 "surface": "hariḥ",
