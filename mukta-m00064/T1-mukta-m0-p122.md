@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p122-v3026
-[of-mountain](gireḥ) [northeast](aiśānya) [in-part](bhāge) [but](tu) [named](nāma) [indeed](vai) [lake](saraḥ) [Kannaka](kānnakaṃ)
+[of-mountain](gireraiśānyabhāge) [indeed](tu) [kānnaka](kānnakaṃ) [named](nāma) [truly](vai) [lake](saraḥ)
 
 ## mukta-m0-p122-v3027
-[its](tasya) [north](uttara) [east](pūrva) [in-part](bhāge) [Shiva](śiva) [of-Vishnu](viṣṇoḥ) [two-caves](biladvayam)
+[of-it](tasya) [northeast](uttarapūrva) [part](bhāge) [śiva-viṣṇu](śivaviṣṇoḥ) [cave-pair](biladvayam)
 
 ## mukta-m0-p122-v3028
-[Ganga](gaṅgā) [pool](kuṇḍaṃ) [but](tu) [there](tatra) [indeed](eva) [bow](dhanuḥ) [sixteen](ṣoḍaśakaṃ) [measured](mitam)
+[gaṅgā-pool](gaṅgākuṇḍaṃ) [indeed](tu) [there](tatraiva) [bow-sixteen](dhanuḥṣoḍaśakaṃ) [measured](mitam)
 
 ## mukta-m0-p122-v3029
-[in-that](tasyām) [direction](diśi) [eating-havis](haviṣyāśī) [restrained](saṃyataḥ) [that](tat) [day](dinaṃ) [should-spend](nayet)
+[in-that](tasyāṃ) [direction](diśi) [haviṣya-eater](haviṣyāśī) [restrained](saṃyatastad) [day](dinaṃ) [spend](nayet)
 
 ## mukta-m0-p122-v3030
-[then](tataḥ) [another](anya) [on-day](divase) [having-arrived](prāpte) [should-go](gacchet) [star](nakṣatra) [mountain](parvatam)
+[then](tato) [another-day](anyadivase) [arrived](prāpte) [go](gacchennakṣatraparvatam)
 
 ## mukta-m0-p122-v3031
-[in-south](dakṣiṇe) [of-Rasakuta](rasakūṭasya) [not-too](nāti) [far](dūre) [situated](vyavasthitā)
+[south](dakṣiṇe) [of-rasa-peak](rasakūṭasya) [not-too-far](nātidūre) [situated](vyavasthitā)
 
 ## mukta-m0-p122-v3032
-[that](sā) [but](tu) [flower](puṣpa) [river](nadī) [famous](khyātā) [all](sarva) [sin](pāpa) [liberating](pramocanī)
+[she](sā) [indeed](tu) [flower-river](puṣpanadī) [famous](khyātā) [all-sin-releasing](sarvapāpapramocanī)
 
 ## mukta-m0-p122-v3033
-[full](sampūrṇa) [Magha](māgha) [in-month](māse) [but](tu) [having-bathed](snātvā) [Vishnu](viṣṇu) [city](purīm) [should-go](vrajet)
+[full](sampūrṇamāghamāse) [indeed](tu) [bathing](snātvā) [viṣṇu-city](viṣṇupurīṃ) [go](vrajet)
 
 ## mukta-m0-p122-v3034
-[of-Dvapara](dvāparasya) [but](tu) [that](sā) [Ganga](gaṅgā) [Vishnu](viṣṇu) [peak](kūṭa) [originating](samudbhavā)
+[of-dvāpara](dvāparasya) [indeed](tu) [that](sā) [gaṅgā](gaṅgā) [viṣṇu-peak-born](viṣṇukūṭasamudbhavā)
 
 ## mukta-m0-p122-v3035
-[that](tat) [at-ford](tīrthe) [shaving](muṇḍanaṃ) [should-do](kuryāt) [earth](mahī) [in-field](kṣetre) [but](tu) [associated](saṅgataḥ)
+[there](tat) [at-tīrtha](tīrthe) [shaving](muṇḍanaṃ) [do](kuryān) [earth-field](mahīkṣetre) [indeed](tu) [joined](saṅgataḥ)
 
 ## mukta-m0-p122-v3036
-[there](tatra) [bathing](snānaṃ) [chanting](japaḥ) [offering](homaḥ) [all](sarvam) [imperishability](akṣayatāṃ) [should-go](vrajet)
+[there](tatraṃ) [bathing](snānaṃ) [japa](japo) [homa](homaḥ) [all](sarvam) [imperishable](akṣayatāṃ) [go](vrajet)
 
 ## mukta-m0-p122-v3037
-[in-this-world](ihaloke) [indeed](hi) [healthy](arogī) [would-be](syāt) [in-remainder](śeṣe) [Shiva](śiva) [city](puram) [should-go](vrajet)
+[in-this-world](ihaloke) [indeed](hy) [disease-free](arogī) [be](syāt) [remainder](śeṣe) [śiva-city](śivapuraṃ) [go](vrajet)
 
 ## mukta-m0-p122-v3038
-[that](sā) [to-be-known](jñeyā) [impurity](mala) [stream](dhārā) [and](ca) [having-bathed](snātvā) [there](tatra) [and](ca) [sinful](kilviṣī)
+[she](sā) [known](jñeyā) [maladhārā](maladhārā) [indeed](ca) [bathing](snātvā) [there](tatra) [indeed](ca) [sinful](kilviṣī)
 
 ## mukta-m0-p122-v3039
-[from-negligence](pramādāt) [bathing](snāna) [by-measure](mātreṇa) [Pauspaka](pauṣpakaṃ) [bathing](snānam) [should-perform](ācaret)
+[through-negligence](pramādāt) [bathing-only](snānamātreṇa) [pauṣpaka](pauṣpakaṃ) [bathing](snānam) [perform](ācaret)
 
 ## mukta-m0-p122-v3040
-[this](etat) [merit](puṇya) [making](karaṃ) [field](kṣetraṃ) [of-Bhargava](bhārgavasya) [of-great-soul](mahātmanaḥ)
+[this](etat) [merit-making](puṇyakaraṃ) [field](kṣetraṃ) [of-bhārgava](bhārgavasya) [great-soul](mahātmanaḥ)
 
 ## mukta-m0-p122-v3041
-[moonlight](candrikā) [and](ca) [river](nadī) [holy](puṇyā) [its](tasya) [of-field](kṣetrasya) [to-east](pūrvataḥ)
+[candrikā](candrikā) [indeed](ca) [river](nadī) [holy](puṇyā) [of-it](tasya) [field](kṣetrasya) [east](pūrvataḥ)
 
 ## mukta-m0-p122-v3042
-[its](tasya) [east](pūrva) [north](uttare) [in-part](bhāge) [linga](liṅgaṃ) [indeed](vai) [Krittivasas](kṛttivāsasam)
+[of-it](tasya) [northeast](pūrvottare) [part](bhāge) [liṅga](liṅgaṃ) [indeed](vai) [kṛttivāsas](kṛttivāsasam)
 
 ## mukta-m0-p122-v3043
-[in-Candrika](candrikāyāṃ) [man](naraḥ) [having-bathed](snātvā) [having-worshipped](sampūjya) [Krittivasas](kṛttivāsasam)
+[in-candrikā](candrikāyāṃ) [man](naraḥ) [bathing](snātvā) [worship](sampūjya) [kṛttivāsas](kṛttivāsasam)
 
 ## mukta-m0-p122-v3044
-[league](krośa) [within](antare) [O-Maheshani](maheśāni) [east](pūrva) [in-part](bhāge) [situated](vyavasthitā)
+[league-away](krośāntare) [O-maheśānī](maheśāni) [east-part](pūrvabhāge) [situated](vyavasthitā)
 
 ## mukta-m0-p122-v3045
-[in-Phenila](phenilāyāṃ) [man](naraḥ) [having-bathed](snātvā) [in-Phalguna](phālgune) [and](ca) [especially](viśeṣataḥ)
+[in-phenilā](phenilāyāṃ) [man](naraḥ) [bathing](snātvā) [in-phālguna](phālgune) [indeed](ca) [especially](viśeṣataḥ)
 
 ## mukta-m0-p122-v3046
-[well-done](sukṛta) [in-offering](arghye) [situated](sthitā) [holy](puṇyā) [river](nadī) [sin](pāpa) [destroying](praṇāśinī)
+[well-done-offering](sukṛtārghye) [standing](sthitā) [holy](puṇyā) [river](nadī) [sin-destroying](pāpapraṇāśinī)
 
 ## mukta-m0-p122-v3047
-[in-Chaitra](caitre) [and](ca) [according-to-rite](vidhivat) [having-bathed](snātvā) [Ganga](gaṅgā) [bathing](snāna) [fruit](phalaṃ) [should-obtain](labhet)
+[in-caitra](caitre) [indeed](ca) [duly](vidhivat) [bathing](snātvā) [gaṅgā-bath-fruit](gaṅgāsnānaphalaṃ) [obtain](labhet)
 
 ## mukta-m0-p122-v3048
-[Magha](māgha) [bright](śukla) [on-fourth](caturthyām) [but](tu) [having-worshipped](pūjayitvā) [Maheshvara](maheśvaram)
+[māgha-śukla-caturthī](māghaśuklacaturthyāntu) [worship](pūjayitvā) [maheśvara](maheśvaram)
 
 ## mukta-m0-p122-v3049
-[three-streamed](trisrotā) [and](ca) [river](nadī) [there](tatra) [in-south](dakṣiṇasyām) [situated](vyavasthitā)
+[trisrotā](trisrotā) [indeed](ca) [river](nadī) [there](tatra) [south](dakṣiṇasyāṃ) [situated](vyavasthitā)
 
 ## mukta-m0-p122-v3050
-[milk-ocean](kṣīroda) [and](ca) [Mahesha](maheśa) [and](ca) [cave](guhā) [in-middle](madhye) [situated](vyavasthitaḥ)
+[kṣīroda](kṣīrodaśca) [and](ca) [maheśa](maheśaśca) [in-cave](guhāmadhye) [situated](vyavasthitaḥ)
