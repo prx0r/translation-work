@@ -7,8 +7,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
+"surface": "jala",
+"quick_gloss": "water"
+},
+{
+"surface": "sthā",
+"quick_gloss": "standing"
+},
+{
 "surface": "jalasthā",
 "quick_gloss": "water-standing"
+},
+{
+"surface": "tad",
+"quick_gloss": "that"
 }
 ]
 },
@@ -20,8 +32,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "sadāsannidheḥ",
-"quick_gloss": "always-near"
+"surface": "sadā",
+"quick_gloss": "always"
+},
+{
+"surface": "sannidheḥ",
+"quick_gloss": "nearness"
 },
 {
 "surface": "ko'pi",
@@ -43,6 +59,18 @@
 {
 "surface": "jaladevatā",
 "quick_gloss": "water-deity"
+},
+{
+"surface": "jala",
+"quick_gloss": "water"
+},
+{
+"surface": "devatā",
+"quick_gloss": "deity"
+},
+{
+"surface": "tad",
+"quick_gloss": "that"
 }
 ]
 },
@@ -58,8 +86,16 @@
 "quick_gloss": "lotus"
 },
 {
-"surface": "tajjaladevatāprasādaḥ",
-"quick_gloss": "that-water-deity-grace"
+"surface": "tad",
+"quick_gloss": "that"
+},
+{
+"surface": "jaladevatā",
+"quick_gloss": "water-deity"
+},
+{
+"surface": "prasādaḥ",
+"quick_gloss": "grace"
 }
 ]
 },
@@ -73,6 +109,18 @@
 {
 "surface": "kurukṣetrāvaniḥ",
 "quick_gloss": "kurukshetra-earth"
+},
+{
+"surface": "kuru",
+"quick_gloss": "kuru"
+},
+{
+"surface": "kṣetra",
+"quick_gloss": "field"
+},
+{
+"surface": "avaniḥ",
+"quick_gloss": "earth"
 }
 ]
 },
@@ -88,12 +136,16 @@
 "quick_gloss": "of-kauravas"
 },
 {
-"surface": "kurukṣetrāvaniḥ",
+"surface": "kurukṣetrāvanirmāmavatād",
 "quick_gloss": "kurukshetra-earth"
 },
 {
 "surface": "bhayāt",
-"quick_gloss": "from-fear"
+"quick_gloss": "fear"
+},
+{
+"surface": "bhayāt",
+"quick_gloss": "from"
 }
 ]
 },
@@ -107,6 +159,18 @@
 {
 "surface": "kāśī",
 "quick_gloss": "kashi"
+},
+{
+"surface": "sā",
+"quick_gloss": "that"
+},
+{
+"surface": "kāśī",
+"quick_gloss": "kashi"
+},
+{
+"surface": "parikāśate",
+"quick_gloss": "shines"
 }
 ]
 },
@@ -119,7 +183,7 @@
 "tokens": [
 {
 "surface": "sā",
-"quick_gloss": "she"
+"quick_gloss": "that"
 },
 {
 "surface": "kāśī",
@@ -135,15 +199,7 @@
 },
 {
 "surface": "hṛdākāśe",
-"quick_gloss": "heart-sky"
-},
-{
-"surface": "sadā",
-"quick_gloss": "always"
-},
-{
-"surface": "nirbhidā",
-"quick_gloss": "unbroken"
+"quick_gloss": "heart-space"
 }
 ]
 },
@@ -157,6 +213,18 @@
 {
 "surface": "mathurā",
 "quick_gloss": "mathura"
+},
+{
+"surface": "sthiraṃ",
+"quick_gloss": "steadfast"
+},
+{
+"surface": "rasaśrīrmathurāsti",
+"quick_gloss": "rasa-glory"
+},
+{
+"surface": "kāpi",
+"quick_gloss": "some"
 }
 ]
 },
@@ -169,7 +237,7 @@
 "tokens": [
 {
 "surface": "sthiraṃ",
-"quick_gloss": "firm"
+"quick_gloss": "steadfast"
 },
 {
 "surface": "rasaśrīḥ",
@@ -195,6 +263,18 @@
 {
 "surface": "kāñcī",
 "quick_gloss": "kanchi"
+},
+{
+"surface": "yasyāṃ",
+"quick_gloss": "in-which"
+},
+{
+"surface": "kāñcana",
+"quick_gloss": "golden"
+},
+{
+"surface": "kāñcanādriviṣayāṃ",
+"quick_gloss": "mountain-region"
 }
 ]
 },
@@ -215,7 +295,7 @@
 },
 {
 "surface": "kāñcanādriviṣayāṃ",
-"quick_gloss": "golden-mountain-region"
+"quick_gloss": "mountain-region"
 },
 {
 "surface": "kāñcī",
@@ -223,11 +303,7 @@
 },
 {
 "surface": "dadātu",
-"quick_gloss": "give"
-},
-{
-"surface": "śriyam",
-"quick_gloss": "prosperity"
+"quick_gloss": "gives"
 }
 ]
 },
@@ -241,6 +317,18 @@
 {
 "surface": "avantikā",
 "quick_gloss": "avantika"
+},
+{
+"surface": "kā",
+"quick_gloss": "which"
+},
+{
+"surface": "pūrbhāskarayānamadhyaviṣayā",
+"quick_gloss": "eastern-sun-path"
+},
+{
+"surface": "saṃrājate",
+"quick_gloss": "shines"
 }
 ]
 },
@@ -257,7 +345,7 @@
 },
 {
 "surface": "pūrbhāskarayānamadhyaviṣayā",
-"quick_gloss": "eastern-sun-chariot-middle-region"
+"quick_gloss": "eastern-sun-path"
 },
 {
 "surface": "saṃrājate",
@@ -266,6 +354,10 @@
 {
 "surface": "avantikā",
 "quick_gloss": "avantika"
+},
+{
+"surface": "sā",
+"quick_gloss": "that"
 }
 ]
 },
@@ -276,6 +368,18 @@
 "quick_english": "",
 "quick_english_source": "t1parse",
 "tokens": [
+{
+"surface": "ayodhyā",
+"quick_gloss": "ayodhya"
+},
+{
+"surface": "janāḥ",
+"quick_gloss": "people"
+},
+{
+"surface": "sā",
+"quick_gloss": "that"
+},
 {
 "surface": "ayodhyā",
 "quick_gloss": "ayodhya"
@@ -290,7 +394,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "ayodhyā",
+"surface": "ryodhyā",
 "quick_gloss": "ayodhya"
 },
 {
@@ -298,12 +402,8 @@
 "quick_gloss": "people"
 },
 {
-"surface": "sāsti",
-"quick_gloss": "she-is"
-},
-{
-"surface": "kāpi",
-"quick_gloss": "some"
+"surface": "sā",
+"quick_gloss": "that"
 },
 {
 "surface": "ayodhyā",
@@ -321,6 +421,18 @@
 {
 "surface": "dvārakā",
 "quick_gloss": "dwarka"
+},
+{
+"surface": "dṛṣṭā",
+"quick_gloss": "seen"
+},
+{
+"surface": "gupteva",
+"quick_gloss": "hidden"
+},
+{
+"surface": "manasaḥ",
+"quick_gloss": "heart"
 }
 ]
 },
@@ -332,32 +444,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "yā",
-"quick_gloss": "which"
-},
-{
 "surface": "dṛṣṭā",
 "quick_gloss": "seen"
 },
 {
-"surface": "vāpi",
-"quick_gloss": "or"
-},
-{
 "surface": "gupteva",
-"quick_gloss": "hidden-like"
-},
-{
-"surface": "bhavati",
-"quick_gloss": "becomes"
+"quick_gloss": "hidden"
 },
 {
 "surface": "manasaḥ",
-"quick_gloss": "of-mind"
-},
-{
-"surface": "spandanād",
-"quick_gloss": "from-pulsation"
+"quick_gloss": "heart"
 },
 {
 "surface": "dvārakā",
@@ -365,7 +461,7 @@
 },
 {
 "surface": "sā",
-"quick_gloss": "she"
+"quick_gloss": "that"
 }
 ]
 },
@@ -379,6 +475,18 @@
 {
 "surface": "māyā",
 "quick_gloss": "maya"
+},
+{
+"surface": "hitvā",
+"quick_gloss": "leaving"
+},
+{
+"surface": "bhavanti",
+"quick_gloss": "become"
+},
+{
+"surface": "sadbodhā",
+"quick_gloss": "true-knowers"
 }
 ]
 },
@@ -398,16 +506,12 @@
 "quick_gloss": "become"
 },
 {
-"surface": "sadbodhāḥ",
+"surface": "sadbodhā",
 "quick_gloss": "true-knowers"
 },
 {
 "surface": "viṣṇumāyeśvarāḥ",
 "quick_gloss": "vishnu-maya-lords"
-},
-{
-"surface": "svayam",
-"quick_gloss": "themselves"
 }
 ]
 },
@@ -421,6 +525,18 @@
 {
 "surface": "tīrthā",
 "quick_gloss": "tirtha"
+},
+{
+"surface": "ttīrthyānāṃ",
+"quick_gloss": "of-tirthas"
+},
+{
+"surface": "sā",
+"quick_gloss": "that"
+},
+{
+"surface": "kena",
+"quick_gloss": "which"
 }
 ]
 },
@@ -432,16 +548,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "tīrthyānāṃ",
-"quick_gloss": "of-tirthikas"
+"surface": "ttīrthyānāṃ",
+"quick_gloss": "of-tirthas"
 },
 {
 "surface": "sā",
-"quick_gloss": "she"
+"quick_gloss": "that"
 },
 {
 "surface": "kena",
-"quick_gloss": "by-whom"
+"quick_gloss": "which"
 },
 {
 "surface": "tīrthā",
@@ -450,10 +566,6 @@
 {
 "surface": "na",
 "quick_gloss": "not"
-},
-{
-"surface": "tīrthyā",
-"quick_gloss": "tirthika"
 }
 ]
 },
@@ -467,6 +579,22 @@
 {
 "surface": "tīrthakarapriyā",
 "quick_gloss": "tirthakara-dear"
+},
+{
+"surface": "ceddhitā",
+"quick_gloss": "if"
+},
+{
+"surface": "na",
+"quick_gloss": "not"
+},
+{
+"surface": "priyā",
+"quick_gloss": "dear"
+},
+{
+"surface": "tīrthakara",
+"quick_gloss": "tirthakara"
 }
 ]
 },
@@ -478,20 +606,24 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "na ced",
-"quick_gloss": "if-not"
+"surface": "ceddhitā",
+"quick_gloss": "if"
 },
 {
-"surface": "hitā",
+"surface": "na",
+"quick_gloss": "not"
+},
+{
+"surface": "priyā",
 "quick_gloss": "dear"
+},
+{
+"surface": "tīrthakara",
+"quick_gloss": "tirthakara"
 },
 {
 "surface": "tīrthakarapriyā",
 "quick_gloss": "tirthakara-dear"
-},
-{
-"surface": "syāt",
-"quick_gloss": "would-be"
 }
 ]
 },
@@ -504,7 +636,23 @@
 "tokens": [
 {
 "surface": "tripuṣkarā",
-"quick_gloss": "three-pushkara"
+"quick_gloss": "tripushkara"
+},
+{
+"surface": "tri",
+"quick_gloss": "three"
+},
+{
+"surface": "puṣkarā",
+"quick_gloss": "pushkara"
+},
+{
+"surface": "tad",
+"quick_gloss": "that"
+},
+{
+"surface": "sthāna",
+"quick_gloss": "place"
 }
 ]
 }

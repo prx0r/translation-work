@@ -29,6 +29,10 @@
 {
 "surface": "pūjanam",
 "quick_gloss": "worship"
+},
+{
+"surface": "vidhiḥ",
+"quick_gloss": "ritual"
 }
 ]
 },
@@ -86,7 +90,7 @@
 },
 {
 "surface": "paryantaṃ",
-"quick_gloss": "limit"
+"quick_gloss": "until"
 },
 {
 "surface": "japet",
@@ -119,7 +123,7 @@
 },
 {
 "surface": "śakti",
-"quick_gloss": "śakti"
+"quick_gloss": "power"
 },
 {
 "surface": "kaulikān",
@@ -152,11 +156,11 @@
 },
 {
 "surface": "pāpaiḥ",
-"quick_gloss": "sins"
+"quick_gloss": "sin"
 },
 {
 "surface": "pramucyate",
-"quick_gloss": "freed"
+"quick_gloss": "is-freed"
 }
 ]
 },
@@ -169,7 +173,7 @@
 "tokens": [
 {
 "surface": "vidhānena",
-"quick_gloss": "rite"
+"quick_gloss": "by-rite"
 },
 {
 "surface": "sarvān",
@@ -247,7 +251,7 @@
 },
 {
 "surface": "vartayet",
-"quick_gloss": "perform"
+"quick_gloss": "should-perform"
 }
 ]
 },
@@ -264,7 +268,7 @@
 },
 {
 "surface": "sarvaiḥ",
-"quick_gloss": "all"
+"quick_gloss": "with-all"
 },
 {
 "surface": "upacāraiḥ",
@@ -272,7 +276,7 @@
 },
 {
 "surface": "prapūjayet",
-"quick_gloss": "fully-worship"
+"quick_gloss": "should-worship"
 }
 ]
 },
@@ -355,7 +359,7 @@
 },
 {
 "surface": "samudvaset",
-"quick_gloss": "install"
+"quick_gloss": "should-remove"
 }
 ]
 },
@@ -372,7 +376,7 @@
 },
 {
 "surface": "ca",
-"quick_gloss": "and"
+"quick_gloss": "ca"
 },
 {
 "surface": "susthiraḥ",
@@ -396,12 +400,16 @@
 "quick_gloss": "then"
 },
 {
-"surface": "aghasra",
+"surface": "agha",
 "quick_gloss": "sin"
 },
 {
+"surface": "srak",
+"quick_gloss": "garland"
+},
+{
 "surface": "kṛtaṃ",
-"quick_gloss": "done"
+"quick_gloss": "made"
 },
 {
 "surface": "pāpaṃ",
@@ -447,11 +455,7 @@
 "tokens": [
 {
 "surface": "pūjayet",
-"quick_gloss": "worship"
-},
-{
-"surface": "yaḥ",
-"quick_gloss": "who"
+"quick_gloss": "who-worships"
 },
 {
 "surface": "trisandhyāsu",
@@ -459,7 +463,7 @@
 },
 {
 "surface": "yoginyaḥ",
-"quick_gloss": "yoginīs"
+"quick_gloss": "yoginis"
 },
 {
 "surface": "tasya",
@@ -480,11 +484,15 @@
 "tokens": [
 {
 "surface": "vidhānena",
-"quick_gloss": "rite"
+"quick_gloss": "by-rite"
 },
 {
-"surface": "dhanalobha",
-"quick_gloss": "wealth-greed"
+"surface": "dhana",
+"quick_gloss": "wealth"
+},
+{
+"surface": "lobha",
+"quick_gloss": "greed"
 },
 {
 "surface": "vivarjitaḥ",
@@ -505,7 +513,7 @@
 },
 {
 "surface": "sādhakāya",
-"quick_gloss": "adepts"
+"quick_gloss": "to-adept"
 },
 {
 "surface": "īpsitaṃ",
@@ -530,7 +538,7 @@
 },
 {
 "surface": "abhyarcya",
-"quick_gloss": "worship"
+"quick_gloss": "having-worshipped"
 },
 {
 "surface": "tattat",
@@ -542,7 +550,7 @@
 },
 {
 "surface": "mahīyate",
-"quick_gloss": "honored"
+"quick_gloss": "is-honored"
 }
 ]
 },
@@ -559,7 +567,7 @@
 },
 {
 "surface": "yoginyaḥ",
-"quick_gloss": "yoginīs"
+"quick_gloss": "yoginis"
 },
 {
 "surface": "tāvantaḥ",
@@ -584,7 +592,7 @@
 "tokens": [
 {
 "surface": "viśeṣeṣu",
-"quick_gloss": "special"
+"quick_gloss": "in-specials"
 },
 {
 "surface": "sarve",
@@ -622,7 +630,7 @@
 },
 {
 "surface": "durācārān",
-"quick_gloss": "evil-conduct"
+"quick_gloss": "bad-conduct"
 },
 {
 "surface": "nāśayanti",
@@ -643,10 +651,10 @@
 "tokens": [
 {
 "surface": "kule",
-"quick_gloss": "family"
+"quick_gloss": "in-family"
 },
 {
-"surface": "jāto",
+"surface": "jātaḥ",
 "quick_gloss": "born"
 },
 {
@@ -684,7 +692,7 @@
 },
 {
 "surface": "jyeṣṭhe",
-"quick_gloss": "eldest"
+"quick_gloss": "to-eldest"
 },
 {
 "surface": "tattu",
@@ -692,7 +700,7 @@
 },
 {
 "surface": "nivedayet",
-"quick_gloss": "offer"
+"quick_gloss": "should-offer"
 }
 ]
 }

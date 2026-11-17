@@ -52,7 +52,7 @@
 "quick_gloss": "three"
 },
 {
-"surface": "bhāvās",
+"surface": "bhāvāḥ",
 "quick_gloss": "states"
 },
 {
@@ -73,8 +73,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "krodhabhāvasthito",
-"quick_gloss": "anger-state-situated"
+"surface": "krodhabhāva",
+"quick_gloss": "anger-state"
+},
+{
+"surface": "sthito",
+"quick_gloss": "situated"
 },
 {
 "surface": "rudraḥ",
@@ -180,8 +184,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "agnibhāvasthito",
-"quick_gloss": "fire-state-situated"
+"surface": "agnibhāva",
+"quick_gloss": "fire-state"
+},
+{
+"surface": "sthito",
+"quick_gloss": "situated"
 },
 {
 "surface": "rudraḥ",
@@ -251,10 +259,10 @@
 "tokens": [
 {
 "surface": "ahaṃ",
-"quick_gloss": "I"
+"quick_gloss": "i"
 },
 {
-"surface": "rudraḥ",
+"surface": "rudro",
 "quick_gloss": "rudra"
 },
 {
@@ -263,7 +271,7 @@
 },
 {
 "surface": "ahaṃ",
-"quick_gloss": "I"
+"quick_gloss": "i"
 },
 {
 "surface": "śūnyam",
@@ -271,7 +279,7 @@
 },
 {
 "surface": "ahaṃ",
-"quick_gloss": "I"
+"quick_gloss": "i"
 },
 {
 "surface": "vyāpī",
@@ -291,12 +299,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "svabhāvanirmalaṃ",
-"quick_gloss": "own-nature-pure"
+"surface": "svabhāva",
+"quick_gloss": "own-nature"
+},
+{
+"surface": "nirmalaṃ",
+"quick_gloss": "pure"
 },
 {
 "surface": "svāntaṃ",
-"quick_gloss": "mind"
+"quick_gloss": "own-mind"
 },
 {
 "surface": "saḥ",
@@ -308,11 +320,11 @@
 },
 {
 "surface": "ahaṃ",
-"quick_gloss": "I"
+"quick_gloss": "i"
 },
 {
 "surface": "na",
-"quick_gloss": "no"
+"quick_gloss": "not"
 },
 {
 "surface": "saṃśayaḥ",
@@ -329,14 +341,14 @@
 "tokens": [
 {
 "surface": "satyavādī",
-"quick_gloss": "truth-speaker"
+"quick_gloss": "truth-speaking"
 },
 {
 "surface": "bhaved",
 "quick_gloss": "becomes"
 },
 {
-"surface": "bhaktaḥ",
+"surface": "bhakto",
 "quick_gloss": "devotee"
 },
 {
@@ -344,7 +356,7 @@
 "quick_gloss": "giver"
 },
 {
-"surface": "dhīraḥ",
+"surface": "dhīro",
 "quick_gloss": "steadfast"
 },
 {
@@ -365,8 +377,12 @@
 "quick_gloss": "therefore"
 },
 {
-"surface": "sarvaprayatnena",
-"quick_gloss": "all-effort"
+"surface": "sarva",
+"quick_gloss": "all"
+},
+{
+"surface": "prayatnena",
+"quick_gloss": "effort"
 },
 {
 "surface": "dayādharmaṃ",
@@ -374,7 +390,7 @@
 },
 {
 "surface": "samāśrayet",
-"quick_gloss": "resort-to"
+"quick_gloss": "resort"
 }
 ]
 },
@@ -387,7 +403,7 @@
 "tokens": [
 {
 "surface": "vedasandhyā",
-"quick_gloss": "veda-sandhyā"
+"quick_gloss": "vedic-sandhyā"
 },
 {
 "surface": "tapo",
@@ -399,7 +415,7 @@
 },
 {
 "surface": "homakarma",
-"quick_gloss": "homa-rite"
+"quick_gloss": "fire-rite"
 },
 {
 "surface": "kulaṃ",
@@ -419,8 +435,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "brahmajñānasamaṃ",
-"quick_gloss": "brahma-knowledge-equal"
+"surface": "brahmajñāna",
+"quick_gloss": "brahma-knowledge"
+},
+{
+"surface": "samaṃ",
+"quick_gloss": "equal"
 },
 {
 "surface": "puṇyaṃ",
@@ -448,8 +468,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "brahmajñānasamaṃ",
-"quick_gloss": "brahma-knowledge-equal"
+"surface": "brahmajñāna",
+"quick_gloss": "brahma-knowledge"
+},
+{
+"surface": "samaṃ",
+"quick_gloss": "equal"
 },
 {
 "surface": "puṇyaṃ",
@@ -482,7 +506,7 @@
 },
 {
 "surface": "svāmī",
-"quick_gloss": "master"
+"quick_gloss": "lord"
 },
 {
 "surface": "ca",
@@ -493,8 +517,12 @@
 "quick_gloss": "guru-equal"
 },
 {
-"surface": "yaddṛṣṭaṃ",
+"surface": "yad",
 "quick_gloss": "what"
+},
+{
+"surface": "dṛṣṭaṃ",
+"quick_gloss": "seen"
 },
 {
 "surface": "paramaṃ",
@@ -526,12 +554,20 @@
 "quick_gloss": "indeed"
 },
 {
-"surface": "ko'pi",
-"quick_gloss": "anyone"
+"surface": "ko",
+"quick_gloss": "who"
 },
 {
-"surface": "yaddṛṣṭaṃ",
+"surface": "api",
+"quick_gloss": "api"
+},
+{
+"surface": "yad",
 "quick_gloss": "what"
+},
+{
+"surface": "dṛṣṭaṃ",
+"quick_gloss": "seen"
 },
 {
 "surface": "paramaṃ",
@@ -559,7 +595,7 @@
 "quick_gloss": "not"
 },
 {
-"surface": "taddravyaṃ",
+"surface": "tad",
 "quick_gloss": "that"
 },
 {
@@ -567,12 +603,12 @@
 "quick_gloss": "substance"
 },
 {
-"surface": "yaddattvā",
-"quick_gloss": "giving-which"
+"surface": "yad",
+"quick_gloss": "which"
 },
 {
-"surface": "ca",
-"quick_gloss": "also"
+"surface": "dattvā",
+"quick_gloss": "giving"
 },
 {
 "surface": "anṛṇī",
@@ -609,11 +645,11 @@
 },
 {
 "surface": "tasya",
-"quick_gloss": "to-him"
+"quick_gloss": "his"
 },
 {
 "surface": "dīyate",
-"quick_gloss": "is-given"
+"quick_gloss": "given"
 }
 ]
 },
@@ -629,8 +665,12 @@
 "quick_gloss": "renunciation"
 },
 {
-"surface": "sarvakarmāṇi",
-"quick_gloss": "all-actions"
+"surface": "sarva",
+"quick_gloss": "all"
+},
+{
+"surface": "karmāṇi",
+"quick_gloss": "actions"
 },
 {
 "surface": "laukikāni",
@@ -658,8 +698,12 @@
 "quick_gloss": "therefore"
 },
 {
-"surface": "sarvaprayatnena",
-"quick_gloss": "all-effort"
+"surface": "sarva",
+"quick_gloss": "all"
+},
+{
+"surface": "prayatnena",
+"quick_gloss": "effort"
 },
 {
 "surface": "yatiḥ",
@@ -671,7 +715,7 @@
 },
 {
 "surface": "parityajet",
-"quick_gloss": "renounce"
+"quick_gloss": "abandon"
 }
 ]
 },
@@ -696,7 +740,7 @@
 },
 {
 "surface": "tribhiḥ",
-"quick_gloss": "by-three"
+"quick_gloss": "three"
 },
 {
 "surface": "prakṛtiḥ",
@@ -704,7 +748,7 @@
 },
 {
 "surface": "ucyate",
-"quick_gloss": "is-said"
+"quick_gloss": "said"
 }
 ]
 },
@@ -717,11 +761,11 @@
 "tokens": [
 {
 "surface": "īśvarāt",
-"quick_gloss": "from-īśvara"
+"quick_gloss": "īśvara"
 },
 {
 "surface": "nirgatā",
-"quick_gloss": "emerged"
+"quick_gloss": "from"
 },
 {
 "surface": "sā",
@@ -791,11 +835,11 @@
 },
 {
 "surface": "tu",
-"quick_gloss": "indeed"
+"quick_gloss": "tu"
 },
 {
 "surface": "triṣu",
-"quick_gloss": "in-three"
+"quick_gloss": "three"
 },
 {
 "surface": "yuktaḥ",
@@ -803,7 +847,7 @@
 },
 {
 "surface": "api",
-"quick_gloss": "also"
+"quick_gloss": "api"
 },
 {
 "surface": "atharvaṇaḥ",
@@ -824,7 +868,7 @@
 },
 {
 "surface": "tu",
-"quick_gloss": "then"
+"quick_gloss": "tu"
 },
 {
 "surface": "atha",
@@ -832,7 +876,7 @@
 },
 {
 "surface": "bhūrlokaḥ",
-"quick_gloss": "bhūr-loka"
+"quick_gloss": "bhūrloka"
 },
 {
 "surface": "ukāraḥ",
@@ -844,7 +888,7 @@
 },
 {
 "surface": "ucyate",
-"quick_gloss": "is-said"
+"quick_gloss": "called"
 }
 ]
 }

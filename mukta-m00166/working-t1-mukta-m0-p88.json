@@ -19,12 +19,16 @@
 "quick_gloss": "is"
 },
 {
-"surface": "sadāpi",
+"surface": "sadā",
 "quick_gloss": "always"
 },
 {
+"surface": "api",
+"quick_gloss": "also"
+},
+{
 "surface": "saiva",
-"quick_gloss": "that"
+"quick_gloss": "she-herself"
 }
 ]
 },
@@ -54,7 +58,7 @@
 },
 {
 "surface": "stu",
-"quick_gloss": "may-be"
+"quick_gloss": "are"
 },
 {
 "surface": "naḥ",
@@ -62,11 +66,11 @@
 },
 {
 "surface": "sveṣṭakarī",
-"quick_gloss": "wish-doer"
+"quick_gloss": "wish-maker"
 },
 {
 "surface": "sthaviṣṭhā",
-"quick_gloss": "most-stable"
+"quick_gloss": "most-excellent"
 }
 ]
 },
@@ -92,7 +96,7 @@
 "tokens": [
 {
 "surface": "sarvoccaiḥ",
-"quick_gloss": "by-all-highest"
+"quick_gloss": "all-highest"
 },
 {
 "surface": "kiṃ",
@@ -145,8 +149,12 @@
 "quick_gloss": "this"
 },
 {
-"surface": "manīṣiprakaraṇa",
-"quick_gloss": "wise-one's-treatise"
+"surface": "manīṣi",
+"quick_gloss": "wise-one's"
+},
+{
+"surface": "prakaraṇa",
+"quick_gloss": "topic"
 },
 {
 "surface": "raṇitaṃ",
@@ -196,7 +204,7 @@
 },
 {
 "surface": "anavadyā",
-"quick_gloss": "faultless"
+"quick_gloss": "blameless"
 }
 ]
 },
@@ -234,7 +242,7 @@
 },
 {
 "surface": "sudhiyā",
-"quick_gloss": "by-wise"
+"quick_gloss": "wise-one"
 },
 {
 "surface": "subhaktiḥ",
@@ -268,7 +276,7 @@
 },
 {
 "surface": "vañcanāhīnaḥ",
-"quick_gloss": "deceit-free"
+"quick_gloss": "deception-free"
 },
 {
 "surface": "sā",
@@ -309,12 +317,20 @@
 "quick_gloss": "good-navel"
 },
 {
-"surface": "eṣāstu",
-"quick_gloss": "may-she-be"
+"surface": "eṣā",
+"quick_gloss": "this"
 },
 {
-"surface": "mamābhigoptrī",
-"quick_gloss": "my-protector"
+"surface": "astu",
+"quick_gloss": "may-be"
+},
+{
+"surface": "mama",
+"quick_gloss": "my"
+},
+{
+"surface": "abhigoptrī",
+"quick_gloss": "protector"
 }
 ]
 },
@@ -339,16 +355,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "mayyastu",
+"surface": "mayi",
 "quick_gloss": "in-me"
 },
 {
+"surface": "astu",
+"quick_gloss": "may-be"
+},
+{
 "surface": "māyā",
-"quick_gloss": "māyā"
+"quick_gloss": "illusion"
 },
 {
 "surface": "tatkārya",
-"quick_gloss": "that-work"
+"quick_gloss": "its-work"
 },
 {
 "surface": "dāridryeṇa",
@@ -356,7 +376,7 @@
 },
 {
 "surface": "eva",
-"quick_gloss": "indeed"
+"quick_gloss": "eva"
 },
 {
 "surface": "śāṅkarī",
@@ -373,7 +393,7 @@
 "tokens": [
 {
 "surface": "jātiḥ",
-"quick_gloss": "genus"
+"quick_gloss": "caste"
 }
 ]
 },
@@ -394,19 +414,23 @@
 },
 {
 "surface": "jātiḥ",
-"quick_gloss": "genus"
+"quick_gloss": "caste"
 },
 {
 "surface": "bhavet",
 "quick_gloss": "would-be"
 },
 {
-"surface": "kācid",
+"surface": "kācit",
 "quick_gloss": "some"
 },
 {
-"surface": "ekānekatvabodhinī",
-"quick_gloss": "one-many-knowledge"
+"surface": "ekāneka",
+"quick_gloss": "one-many"
+},
+{
+"surface": "tvabodhinī",
+"quick_gloss": "knower"
 }
 ]
 },
@@ -457,7 +481,7 @@
 "tokens": [
 {
 "surface": "bhāvavarjitā",
-"quick_gloss": "being-free"
+"quick_gloss": "being-devoid"
 }
 ]
 },
@@ -474,11 +498,11 @@
 },
 {
 "surface": "apyaho",
-"quick_gloss": "alas"
+"quick_gloss": "aho"
 },
 {
 "surface": "bhāvavarjitā",
-"quick_gloss": "being-free"
+"quick_gloss": "being-devoid"
 },
 {
 "surface": "sā",
@@ -527,12 +551,8 @@
 "quick_gloss": "shining"
 },
 {
-"surface": "adraṇa",
-"quick_gloss": "mountain"
-},
-{
-"surface": "saṃkaṭe",
-"quick_gloss": "strait"
+"surface": "adraṇasaṃkaṭe",
+"quick_gloss": "mountain-pass"
 }
 ]
 }

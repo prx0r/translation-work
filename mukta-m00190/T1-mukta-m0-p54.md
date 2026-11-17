@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p54-v1326
-[time-wish-tree](kālakalpataruṃ) [having-bowed](natvā) [bhūtinī-accomplishment](bhūtinīsiddhiḥ) [is-said](ucyate)
+[time-wish-tree](kālakalpataruṃ) [having-bowed](natvā) [prosperity-female-accomplishment](bhūtinīsiddhir) [is-said](ucyate)
 
 ## mukta-m0-p54-v1327
-[savior](tāriṇī) [lioness](siṃhinī) [and-then](cātho) [swan](haṃsinī) [then](tato) [dancer](naṭī)
+[saviouress](tāriṇī) [lioness](siṃhinī) [and](ca) [then](atho) [swan-woman](haṃsinī) [and](ca) [then](tato) [dancer](naṭī)
 
 ## mukta-m0-p54-v1328
-[wrath-missile-two-names](krodhāstradvayanāmānte) [bhūta-power](bhūtavīrya) [trikūrca](strikūrcataḥ)
+[at-end-of-two-anger-weapon-names](krodhāstradvayanāmānte) [from-bhūta-power-three-kūrca](bhūtavīryastrikūrcataḥ)
 
 ## mukta-m0-p54-v1329
-[wrath-two](krodhadvayaṃ) [indeed](tu) [mantra-this](mantro'yaṃ) [adorned-one](vibhūṣiṇyā) [is-declared](udāhṛtaḥ)
+[two-angers](krodhadvayaṃ) [indeed](tu) [mantra](mantraḥ) [this](ayaṃ) [of-vibhūṣiṇī](vibhūṣiṇyāḥ) [is-declared](udāhṛtaḥ)
 
 ## mukta-m0-p54-v1330
-[whose](yasyāḥ) [hair-tangled](keśakulākulā) [all-earth](akhilamahī) [mountain-end](śailāntam) [may-protect](ārakṣatu)
+[whose](yasyāḥ) [hair-tangled-all-earth](keśakulākulākhilamahī) [mountain-end](śailāntam) [may-protect](ārakṣatu)
 
 ## mukta-m0-p54-v1331
-[should-recite-eight-thousand](japedaṣṭasahasraṃ) [indeed](tu) [meditating](dhyāyan) [one-pointed-mind](nekāgramānasaḥ)
+[should-chant-eight-thousand](japedaṣṭasahasraṃ) [indeed](tu) [meditating-single-minded](dhyāyannekāgramānasaḥ)
 
 ## mukta-m0-p54-v1332
-[should-recite-midnight](prajapedardharātre) [indeed](tu) [comes](samāyāti) [adorned-one](vibhūṣiṇī)
+[should-chant-at-midnight](prajapedardharātre) [indeed](tu) [comes-vibhūṣiṇī](samāyāti) [vibhūṣiṇī](vibhūṣiṇī)
 
 ## mukta-m0-p54-v1333
 [mother](mātā) [or](vā) [sister](bhaginī) [wife](bhāryā) [pleased](tuṣṭā) [becomes](bhavati) [desired](kāmitā)
 
 ## mukta-m0-p54-v1334
-[hundred-eight-retinue](śatāṣṭaparivārasya) [gives](dadāty) [collyrium-ornament](añjanabhūṣaṇam)
+[of-hundred-eight-retinue](śatāṣṭaparivārasya) [gives-ointment-ornament](dadātyañjanabhūṣaṇam)
 
 ## mukta-m0-p54-v1335
-[gives](dadāti) [woman-bringing](striyamānīya) [divine](divyaṃ) [rasa-elixir](rasarasāyanam)
+[gives-woman-bringing](dadāti) [striyamānīya](striyamānīya) [divine-elixir](divyaṃ) [rasa-rasāyana](rasarasāyanam)
 
 ## mukta-m0-p54-v1336
-[thousands-of-dinars](dīnārāṇāṃ) [sahasraṃ](sahasraṃ) [indeed](tu) [rasa](rasaṃ) [and](ca) [elixir](eva) [rasāyanam](rasāyanam)
+[of-coins-thousand](dīnārāṇāṃ) [sahasraṃ](sahasraṃ) [indeed](tu) [rasa](rasaṃ) [and](ca) [elixir](eva) [rasāyanam](rasāyanam)
 
 ## mukta-m0-p54-v1337
-[certainly](dhruvam) [missile-two](āyāstradvayataḥ) [declared](proktā) [earring-wearer](kuṇḍaladhāriṇī)
+[certainly-from-two-anger-weapons](dhruvamāyāstradvayataḥ) [is-declared](proktā) [earring-wearer](kuṇḍaladhāriṇī)
 
 ## mukta-m0-p54-v1338
-[may-protect](pāyāt) [earring-wearer](kuṇḍaladhāriṇī) [three-worlds](trijagatām) [bliss-abundance](ānandasandohabhūḥ)
+[may-protect-earring-wearer](pāyātkuṇḍaladhāriṇī) [three-worlds-bliss-abundance](trijagatāmānandasandohabhūḥ)
 
 ## mukta-m0-p54-v1339
-[comes](āyāti) [with-blood](rudhireṇa) [offering](ārghyo) [should-be-given](deyastuṣṭo) [pleased](tuṣṭo) [gives](dadātyapi)
+[comes-with-blood-offering](āyāti) [rudhireṇārghyo](rudhireṇārghyo) [should-be-given](deyastuṣṭo) [pleased-gives](dadātyapi)
 
 ## mukta-m0-p54-v1340
-[five-hundred-days](pañcaśatavāsarāṇi) [three-worlds](trailokyam) [also](api) [will-give](dāsyati)
+[five-hundred-days](pañcaśatavāsarāṇi) [three-worlds-also-will-give](trailokyamapi) [dāsyati](dāsyati)
 
 ## mukta-m0-p54-v1341
-[trikūrca-missile](kūrcatrayāstra) [declared](saṃproktaḥ) [sindūra-bearer](sindūrahāriṇīmanuḥ)
+[three-kūrca-weapon-thus-declared](kūrcatrayāstrasaṃproktaḥ) [sindūra-bearer-mantra](sindūrahāriṇīmanuḥ)
 
 ## mukta-m0-p54-v1342
-[may-protect](pāyād) [beloved-root](vallabhamūla) [rāhu-creeper](rāhulatikā) [sindūra-bearer](sindūrahāriṇyasau)
+[may-protect-beloved-root-rāhu-creeper](pāyād) [vallabhamūlarāhulatikā](vallabhamūlarāhulatikā) [sindūra-bearer-this](sindūrahāriṇyasau)
 
 ## mukta-m0-p54-v1343
-[quickly-comes](śīghramāyātyāgatā) [she](sā) [wife](bhāryā) [becomes](bhavati) [desired](kāmitā)
+[quickly-comes-arrived](śīghramāyātyāgatā) [she](sā) [wife](bhāryā) [becomes](bhavati) [desired](kāmitā)
 
 ## mukta-m0-p54-v1344
-[protects](rakṣati) [twelve-persons](dvādaśajanān) [goddess](devī) [sindūra-bearer](sindūrahāriṇī)
+[protects-twelve-persons](rakṣati) [dvādaśajanān](dvādaśajanān) [goddess](devī) [sindūra-bearer](sindūrahāriṇī)
 
 ## mukta-m0-p54-v1345
-[from-wrath-seed-three](krodhabījatrayājjātaḥ) [is-praised](kīrtitaḥ) [lioness-mantra](siṃhinīmanuḥ)
+[from-three-anger-seeds-born](krodhabījatrayājjātaḥ) [is-praised](kīrtitaḥ) [lioness-mantra](siṃhinīmanuḥ)
 
 ## mukta-m0-p54-v1346
-[may-she-protect](seyaṃ) [all-head-garland](samastamastakakulavyālambimālākulā)
+[may-she-protect-all-head-garland-hanging](seyaṃ) [pātu](pātu) [samastamastakakulavyālambimālākulā](samastamastakakulavyālambimālākulā)
 
 ## mukta-m0-p54-v1347
-[then](tato) [delighted](hṛṣṭā) [very-generous](ativaradā) [lioness-comes](siṃhinyāyāti) [worshipped](pūjitā)
+[then-joyful-very-giving](tato) [hṛṣṭā'tivaradā](hṛṣṭā'tivaradā) [lioness-comes-worshipped](siṃhinyāyāti) [pūjitā](pūjitā)
 
 ## mukta-m0-p54-v1348
-[dinar](dīnāraṃ) [pair-of-garments](vastrayugalaṃ) [giving](dadhad) [rasa-elixir](rasarasāyanam)
+[coin](dīnāraṃ) [pair-of-cloths](vastrayugalaṃ) [giving](dadhad) [rasa-rasāyana](rasarasāyanam)
 
 ## mukta-m0-p54-v1349
-[trikūrca-missile](trikūrcāstraṃ) [and](ca) [is-declared](kathito) [swan-mantra](haṃsi(nī)manuruttamaḥ)
+[three-kūrca-weapon](trikūrcāstraṃ) [and](ca) [is-declared](kathito) [swan-woman-mantra-supreme](haṃsi(nī)manuruttamaḥ)
 
 ## mukta-m0-p54-v1350
-[pearl-adorned](muktāyuktavilolahāralatikā) [śrī-swan](śrīhaṃsinī) [may-protect](pātu) [you](vaḥ)
+[pearl-adorned-swinging-garland-creeper](muktāyuktavilolahāralatikā) [śrī-swan-woman](śrīhaṃsinī) [may-protect-you](pātu) [vaḥ](vaḥ)

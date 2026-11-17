@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p56-v1376
-[yukti-yuktā](yuktiyuktā) [bhaver-bhūtā](bhaverbhūtā) [vāgurā](vāgurā) [guru-r-adbhutā](gururadbhutā)
+[endowed-with-reason](yuktiyuktā) [become-existent](bhaverbhūtā) [snare](vāgurā) [wonderful-teacher](gururadbhutā)
 
 ## mukta-m0-p56-v1377
-[bandha-rūpā](bandharūpā)
+[page-179](p. 179) [bond-form](bandharūpā)
 
 ## mukta-m0-p56-v1378
-[sambandha-bandham](sambandhabandhaṃ) [pari-bhindatī](paribhindatī) [naḥ](naḥ)
+[relation-bond](sambandhabandhaṃ) [cuts-through](paribhindatī) [us](naḥ)
 
 ## mukta-m0-p56-v1379
-[vadha-rūpā](vadharūpā)
+[killing-form](vadharūpā)
 
 ## mukta-m0-p56-v1380
-[bhavati-īmeti](bhavatīmeti) [durantam-adbhutena](durantamadbhutena)
+[becomes](bhavatīmeti) [endless](durantamadbhutena)
 
 ## mukta-m0-p56-v1381
-[vadha-uddhatā](vadhoddhatā)
+[killing-inflamed](vadhoddhatā)
 
 ## mukta-m0-p56-v1382
-[unmatta](unmatta) [itaraḥ](itaraḥ) [kaḥ](kaḥ) [svid](svid) [devī](devī) [yasya](yasya) [vadha-uddhatā](vadhoddhatā)
+[mad](unmatta) [other](itaraḥ) [who](kaḥ) [indeed](svid) [goddess](devī) [whose](yasya) [killing-inflamed](vadhoddhatā)
 
 ## mukta-m0-p56-v1383
-[vandī](vandī)
+[captive](vandī)
 
 ## mukta-m0-p56-v1384
-[vandī-kṛtā-asti](vandīkṛtāsti) [sumano-nikāyye](sumanonikāyye)
+[made-captive](vandīkṛtāsti) [good-mind-assembly](sumanonikāyye)
 
 ## mukta-m0-p56-v1385
-[vandi-stutā-kārā](vandistutākārā)
+[praise-form](vandistutākārā)
 
 ## mukta-m0-p56-v1386
-[aho](aho) [vandi-stutā-kārā](vandistutākārā) [sā](sā) [śaktiḥ-bhakta-vatsalā](śaktirbhaktavatsalā)
+[ah](aho) [praise-form](vandistutākārā) [she](sā) [power](śaktirbhaktavatsalā)
 
 ## mukta-m0-p56-v1387
-[kārā-bandha-vimocanī](kārābandhavimocanī)
+[page-180](p. 180) [prison-bond-liberator](kārābandhavimocanī)
 
 ## mukta-m0-p56-v1388
-[viṣame](viṣame) [samaye](samaye) [bhūyāt](bhūyāt) [kārā-bandha-vimocinī](kārābandhavimocinī)
+[in-difficulty](viṣame) [time](samaye) [may-be](bhūyāt) [prison-bond-liberator](kārābandhavimocinī)
 
 ## mukta-m0-p56-v1389
-[śṛṅkhalā](śṛṅkhalā)
+[fetter](śṛṅkhalā)
 
 ## mukta-m0-p56-v1390
-[yayā-avaya](yayāvaya) [iva-abaddhā](ivābaddhā) [vaśyāḥ](vaśyāḥ) [sā](sā) [śṛṅkhalā](śṛṅkhalā) [matā](matā)
+[by-whom](yayāvaya) [like-bound](ivābaddhā) [submissive](vaśyāḥ) [she](sā) [fetter](śṛṅkhalā) [considered](matā)
 
 ## mukta-m0-p56-v1391
-[khala-hā](khalahā)
+[wicked-destroyer](khalahā)
 
 ## mukta-m0-p56-v1392
-[tām](tāṃ) [prāpayanti-api](prāpayantyapi) [ca](ca) [tān](tān) [khala-hā-asi](khalahāsi) [sā](sā) [tvam](tvam)
+[her](tāṃ) [they-bring](prāpayantyapi) [and](ca) [them](tān) [wicked-destroyer](khalahāsi) [she](sā) [you](tvam)
 
 ## mukta-m0-p56-v1393
-[vidyut-jayati](vidyujjayati) [sā](sā) [nityam](nityaṃ) [vaḍavā-agni-sahodarī](vaḍavāgnisahodarī)
+[lightning-conquers](vidyujjayati) [she](sā) [always](nityaṃ) [submarine-fire-sister](vaḍavāgnisahodarī)
 
 ## mukta-m0-p56-v1394
-[dṛḍha-bandha-vimocinī](dṛḍhabandhavimocinī)
+[firm-bond-liberator](dṛḍhabandhavimocinī)
 
 ## mukta-m0-p56-v1395
-[harati](harati) [smṛti-mātrāt](smṛtimātrāt) [sā](sā) [dṛḍha-bandha-vimocinī](dṛḍhabandhavimocinī)
+[takes](harati) [memory-only](smṛtimātrāt) [she](sā) [firm-bond-liberator](dṛḍhabandhavimocinī)
 
 ## mukta-m0-p56-v1396
-[ambikā](ambikā)
+[mother](ambikā)
 
 ## mukta-m0-p56-v1397
-[dṛśā](dṛśā) [bhṛśam](bhṛśaṃ) [nāśayata-ādaroṣā](nāśayatādaroṣā)
+[by-sight](dṛśā) [strongly](bhṛśaṃ) [destroy](nāśayatādaroṣā)
 
 ## mukta-m0-p56-v1398
-[ambālikā](ambālikā)
+[little-mother](ambālikā)
 
 ## mukta-m0-p56-v1399
-[rambālikā](rambālikā) [poṣaṇa-kāriṇī](poṣaṇakāriṇī) [syāḥ](syāḥ)
+[rambā-like](rambālikā) [nourisher](poṣaṇakāriṇī) [may-you-be](syāḥ)
 
 ## mukta-m0-p56-v1400
-[ambā](ambā)
+[mother](ambā)

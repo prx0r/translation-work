@@ -5,10 +5,10 @@
 [good-rain](suvṛṣṭiḥ)
 
 ## mukta-m0-p58-v1427
-[nourishment-only-cause](puṣṭyekahetuḥ) [well-expanded-vision](suvikāsidṛṣṭeḥ)
+[nourishment-sole-cause](puṣṭyekahetuḥ) [of-flourishing-vision](suvikāsidṛṣṭeḥ)
 
 ## mukta-m0-p58-v1428
-[from-cause-durga-art-even](hetordurgakalāvapi) [spread](pravitatā) [devotion-new-mark-arrival](bhaktirnavāṅkāgamat)
+[cause](hetoḥ) [durga-art](durgakalā) [even](api) [spread](pravitatā) [devotion](bhaktiḥ) [new-arrival](navāṅkāgamat)
 
 ## mukta-m0-p58-v1429
 [ninth](navamī) [devotion](bhaktiḥ)
@@ -17,43 +17,43 @@
 [crop-increasing](sasyavarddhinī)
 
 ## mukta-m0-p58-v1431
-[seed-ness](bījatvaṃ) [which-compassion-bound](yaddayābaddhaṃ) [she](sā) [goddess](devī) [crop-increasing](sasyavarddhinī)
+[seed-ness](bījatvaṃ) [that](yat) [compassion-bound](dayābaddhaṃ) [she](sā) [goddess](devī) [crop-increasing](sasyavarddhinī)
 
 ## mukta-m0-p58-v1432
 [a-syllable](akārā)
 
 ## mukta-m0-p58-v1433
-[embryo-not-dwarf](garvo'kharvaḥ) [all-letter-one-prior](sarvavarṇaikapūrvā) [with-form-this](sākāreyaṃ) [sung](gīyate) [by-yoga-lords](yogināthaiḥ)
+[garbha-un-dwarfed](garvo'kharvaḥ) [all-letter-first](sarvavarṇaikapūrvā) [with-form-she](sākāreyaṃ) [is-sung](gīyate) [by-yoga-lords](yogināthaiḥ)
 
 ## mukta-m0-p58-v1434
 [i-syllable](ikārā)
 
 ## mukta-m0-p58-v1435
-[charming-i-syllable](ramyekārā) [she-this-a-syllable-less](seyamākārahīnā)
+[charming-i](ramyekārā) [she-this](seyam) [a-less](ākārahīnā)
 
 ## mukta-m0-p58-v1436
 [u-syllable](ukārā)
 
 ## mukta-m0-p58-v1437
-[with-u-syllable-this](sokāreyaṃ) [praised](kīrtitā) [by-form-knowers](mūrtavidbhiḥ)
+[with-u-she](sokāreyaṃ) [is-praised](kīrtitā) [by-form-knowers](mūrtavidbhiḥ)
 
 ## mukta-m0-p58-v1438
-[ai-syllable-formed](aikārarūpiṇī)
+[ai-form](aikārarūpiṇī)
 
 ## mukta-m0-p58-v1439
-[new](navaṃ) [new](navaṃ) [of-auspicious-ones](subhavyānāṃ) [deity-ai-formed](devataikārarūpiṇī)
+[new](navaṃ) [new](navaṃ) [of-auspicious-ones](subhavyānāṃ) [goddess-ai-form](devataikārarūpiṇī)
 
 ## mukta-m0-p58-v1440
 [hrīṃ-syllable](hrīṃkārī)
 
 ## mukta-m0-p58-v1441
-[hrīṃ-syllable-this](hrīṃkārīyaṃ) [heart-gone](hṛdgatā) [our](naḥ) [always-be](sadāstu)
+[hrīṃ-she](hrīṃkārīyaṃ) [heart-residing](hṛdgatā) [ours](naḥ) [always-be](sadāstu)
 
 ## mukta-m0-p58-v1442
-[seed-formed](bījarūpā)
+[seed-form](bījarūpā)
 
 ## mukta-m0-p58-v1443
-[she](sā) [seed-formed](bījarūpā) [of-veda-tree](nigamadrumasya)
+[she](sā) [seed-form](bījarūpā) [of-veda-tree](nigamadrumasya)
 
 ## mukta-m0-p58-v1444
 [klīṃ-syllable](klīṃkārā)
@@ -68,10 +68,10 @@
 [self](svayaṃ) [objectless](nirviṣayā) [I-know](jāne) [become-sky-dwelling](saṃvṛttāmbaravāsinī)
 
 ## mukta-m0-p58-v1448
-[all-letter-composed](sarvākṣaramayī) [power](śaktiḥ)
+[all-letter-filled](sarvākṣaramayī) [power](śaktiḥ)
 
 ## mukta-m0-p58-v1449
-[all-letter-composed](sarvākṣaramayī) [power](śaktiḥ) [shine](sphuratāt) [in-heart](hṛdaye) [my](mama)
+[all-letter-filled](sarvākṣaramayī) [power](śaktiḥ) [shine](sphuratāt) [heart](hṛdaye) [mine](mama)
 
 ## mukta-m0-p58-v1450
 [imperishable](akṣarā)

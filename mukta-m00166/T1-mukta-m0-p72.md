@@ -2,52 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p72-v1776
-[yoga-belt-wearer](yogapaṭṭadharā) [being](bhūtā) [wonder](citraṃ) [goddess-of-yogis](yogeśvarīśvarī)
+[yoga+paṭṭa+dhara](yogapaṭṭadharā) [bhūta](bhūtā) [citra](citraṃ) [yoga+īśvarī+īśvarī](yogeśvarīśvarī)
+
 ## mukta-m0-p72-v1777
-[liberated](muktā)
+[muktā](muktā)
+
 ## mukta-m0-p72-v1778
-[lotus-leaf](padmapatraṃ) [conquers](jayatyeṣā) [liberated](muktā) [desireless-desire](niḥspṛhasaṃspṛhā)
+[padma+patra](padmapatraṃ) [jayati](jayatyeṣā) [eṣā](eṣā) [muktā](muktā) [niḥspṛha+saṃspṛhā](niḥspṛhasaṃspṛhā)
+
 ## mukta-m0-p72-v1779
-[of-the-liberated](muktānāṃ) [supreme](paramā) [goal](gatiḥ)
+[muktānām](muktānāṃ) [paramā](paramā) [gati](gatiḥ)
+
 ## mukta-m0-p72-v1780
-[going-to-yama](yāmagatvaiva) [somewhere](kutrāpi) [attain](prāpnuvanti) [wise-ones](vicakṣaṇāḥ)
+[yāma+gatvā+eva](yāmagatvaiva) [kutrāpi](kutrāpi) [prāpnuvanti](prāpnuvanti) [vicakṣaṇāḥ](vicakṣaṇāḥ)
+
 ## mukta-m0-p72-v1781
-[narasimhi](nārasiṃhī)
+[nārasiṃhī](nārasiṃhī)
+
 ## mukta-m0-p72-v1782
-[opposing-worshippers](virodhyārādhinau) [devotees](bhaktau) [narasimhi](nārasiṃhīti) [auspicious](sā) [shiva](śivā)
+[virodhya+ārādhinau](virodhyārādhinau) [bhaktau](bhaktau) [nārasiṃhī](nārasiṃhīti) [iti](iti) [sā](sā) [śivā](śivā)
+
 ## mukta-m0-p72-v1783
-[good-born](sujanmā)
+[sujanmā](sujanmā)
+
 ## mukta-m0-p72-v1784
-[everywhere](sarvatra) [that](tat) [you](tvaṃ) [renowned](prathitā) [good-born](sujanmā)
+[sarvatra](sarvatra) [tat](tat) [tvaṃ](tvaṃ) [prathitā](prathitā) [sujanmā](sujanmā)
+
 ## mukta-m0-p72-v1785
-[three-aims-giver](trivargaphaladāyinī)
+[tri+varga+phala+dāyinī](trivargaphaladāyinī)
+
 ## mukta-m0-p72-v1786
-[that](yat) [you](tvaṃ) [wonder](citraṃ) [great](mahat) [that-indeed](tattu) [of-the-liberated](muktānāmapi) [as-such](yattathā)
+[yat](yat) [tvaṃ](tvaṃ) [citra](citraṃ) [mahat](mahat) [tat](tattu) [tu](tu) [muktānām](muktānām) [api](api) [yat](yattathā) [tathā](tathā)
+
 ## mukta-m0-p72-v1787
-[righteousness-giver](dharmadā)
+[dharmadā](dharmadā)
+
 ## mukta-m0-p72-v1788
-[of-all](sarvasya) [honored](mānyā) [indeed](kila) [righteousness-giver](dharmadāsi)
+[sarvasya](sarvasya) [mānyā](mānyā) [kila](kila) [dharmadā](dharmadāsi) [asi](asi)
+
 ## mukta-m0-p72-v1789
-[wealth-giver](dhanadā)
+[dhanadā](dhanadā)
+
 ## mukta-m0-p72-v1790
-[not](nnaca) [creation-etc](sargādiṣu) [what](yat) [very-difficult-form](sukaṣṭarūpam)
+[na](nnaca) [ca](ca) [sarga+ādiṣu](sargādiṣu) [yat](yat) [su+kaṣṭa+rūpam](sukaṣṭarūpam)
+
 ## mukta-m0-p72-v1791
-[desire-giver](kāmadā)
+[kāmadā](kāmadā)
+
 ## mukta-m0-p72-v1792
-[half-bodied-shambhu](ardhāṅgaśambhuryat) [you](tvaṃ) [ca](ca) [twofold](dvidhā) [conquer](jayasi) [desire-giver](kāmadā)
+[ardha+aṅga+śambhuḥ](ardhāṅgaśambhuryat) [yat](yat) [tvaṃ](tvaṃ) [ca](ca) [dvidhā](dvidhā) [jayasi](jayasi) [kāmadā](kāmadā)
+
 ## mukta-m0-p72-v1793
-[liberation-giver](mokṣadā)
+[mokṣadā](mokṣadā)
+
 ## mukta-m0-p72-v1794
-[that](tat) [where](kva) [am-i](so'smi) [constant-authority](satatādhikāravān)
+[tat](tat) [kva](kva) [saḥ](so'smi) [asmi](asmi) [satata+adhikāra+vān](satatādhikāravān)
+
 ## mukta-m0-p72-v1795
-[splendor](dyutiḥ)
+[dyuti](dyutiḥ)
+
 ## mukta-m0-p72-v1796
-[desirable](kāmyāḥ) [how](kathaṃ) [if-not](cenna) [compassionate](dayākarī) [splendor](dyutiḥ)
+[kāmyāḥ](kāmyāḥ) [kathaṃ](kathaṃ) [cet](cenna) [na](na) [dayā+karī](dayākarī) [dyuti](dyutiḥ)
+
 ## mukta-m0-p72-v1797
-[witness](sākṣiṇī)
+[sākṣiṇī](sākṣiṇī)
+
 ## mukta-m0-p72-v1798
-[directly](sākṣānnirākhyā) [indeed](kila) [witness](sākṣiṇī) [she](sā)
+[sākṣāt](sākṣānnirākhyā) [nirākhyā](nirākhyā) [kila](kila) [sākṣiṇī](sākṣiṇī) [sā](sā)
+
 ## mukta-m0-p72-v1799
-[moment-giver](kṣaṇadā)
+[kṣaṇadā](kṣaṇadā)
+
 ## mukta-m0-p72-v1800
-[compassionate](kṛpākarī) [not](na) [moment-giver](kṣaṇadā) [shiva](śivā) [would-be](syāḥ)
+[kṛpā+karī](kṛpākarī) [na](na) [kṣaṇadā](kṣaṇadā) [śivā](śivā) [syāḥ](syāḥ)

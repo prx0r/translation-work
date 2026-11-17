@@ -7,16 +7,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "avara",
+"surface": "avaravarṇajā",
 "quick_gloss": "born-of-lower-varna"
-},
-{
-"surface": "varṇa",
-"quick_gloss": "varna"
-},
-{
-"surface": "jā",
-"quick_gloss": "born"
 }
 ]
 },
@@ -28,11 +20,11 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "vicāra-rucira-alakā",
-"quick_gloss": "beautiful-curls"
+"surface": "vicārarucirālakāḥ",
+"quick_gloss": "delightful-curls"
 },
 {
-"surface": "avara-varṇa-jā",
+"surface": "avaravarṇajā",
 "quick_gloss": "born-of-lower-varna"
 },
 {
@@ -53,7 +45,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "veda-mārga-ratā",
+"surface": "vedamārgaratā",
 "quick_gloss": "devoted-to-vedic-path"
 }
 ]
@@ -70,7 +62,7 @@
 "quick_gloss": "ah"
 },
 {
-"surface": "sā-api",
+"surface": "sāpi",
 "quick_gloss": "she-too"
 },
 {
@@ -82,7 +74,7 @@
 "quick_gloss": "goddess"
 },
 {
-"surface": "veda-mārga-ratā",
+"surface": "vedamārgaratā",
 "quick_gloss": "devoted-to-vedic-path"
 },
 {
@@ -99,7 +91,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "yajñā",
+"surface": "yajñāḥ",
 "quick_gloss": "sacrifices"
 }
 ]
@@ -117,14 +109,14 @@
 },
 {
 "surface": "siddhiṃ",
-"quick_gloss": "perfection"
+"quick_gloss": "success"
 },
 {
-"surface": "śiva-dāstu",
-"quick_gloss": "auspicious-giving"
+"surface": "śivadāstu",
+"quick_gloss": "may-shiva-give"
 },
 {
-"surface": "yajñā",
+"surface": "yajñāḥ",
 "quick_gloss": "sacrifices"
 }
 ]
@@ -137,8 +129,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "veda-viśva-vibhāvinī",
-"quick_gloss": "veda-world-manifesting"
+"surface": "vedaviśvavibhāvinī",
+"quick_gloss": "all-pervading-vedic-glory"
 }
 ]
 },
@@ -162,8 +154,8 @@
 "quick_gloss": "this"
 },
 {
-"surface": "veda-viśva-vibhāvinī",
-"quick_gloss": "veda-world-manifesting"
+"surface": "vedaviśvavibhāvinī",
+"quick_gloss": "all-pervading-vedic-glory"
 }
 ]
 },
@@ -175,8 +167,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "astra-śastra-mayī-vidyā",
+"surface": "astraśastramayī",
 "quick_gloss": "weapon-armed-knowledge"
+},
+{
+"surface": "vidyā",
+"quick_gloss": "vidyā"
 }
 ]
 },
@@ -188,19 +184,27 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "astra-śastra-mayī-vidyā",
+"surface": "astraśastramayī",
 "quick_gloss": "weapon-armed-knowledge"
+},
+{
+"surface": "vidyā",
+"quick_gloss": "vidyā"
 },
 {
 "surface": "na",
 "quick_gloss": "not"
 },
 {
-"surface": "taiḥ-cet",
+"surface": "taiḥ",
 "quick_gloss": "by-them"
 },
 {
-"surface": "syād",
+"surface": "cet",
+"quick_gloss": "if"
+},
+{
+"surface": "syāt",
 "quick_gloss": "would-be"
 },
 {
@@ -217,7 +221,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "vara-śastra-astra-dhāriṇī",
+"surface": "varaśastrāstradhāriṇī",
 "quick_gloss": "bearer-of-excellent-weapons"
 }
 ]
@@ -230,7 +234,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "ānanda-kāriṇī",
+"surface": "ānandakāriṇī",
 "quick_gloss": "bliss-causing"
 },
 {
@@ -238,7 +242,7 @@
 "quick_gloss": "īśānī"
 },
 {
-"surface": "vara-śastra-astra-dhāriṇī",
+"surface": "varaśastrāstradhāriṇī",
 "quick_gloss": "bearer-of-excellent-weapons"
 }
 ]
@@ -293,7 +297,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "satya-medhā",
+"surface": "satyamedhā",
 "quick_gloss": "truth-minded"
 }
 ]
@@ -310,15 +314,23 @@
 "quick_gloss": "gone"
 },
 {
-"surface": "sadā-api",
+"surface": "sadā",
 "quick_gloss": "always"
 },
 {
-"surface": "asti-hi",
+"surface": "api",
+"quick_gloss": "also"
+},
+{
+"surface": "asti",
 "quick_gloss": "indeed"
 },
 {
-"surface": "satya-medhā",
+"surface": "hi",
+"quick_gloss": "hi"
+},
+{
+"surface": "satyamedhā",
 "quick_gloss": "truth-minded"
 }
 ]
@@ -353,7 +365,7 @@
 },
 {
 "surface": "bhavatu",
-"quick_gloss": "be"
+"quick_gloss": "may-be"
 },
 {
 "surface": "bhavināṃ",
@@ -364,8 +376,12 @@
 "quick_gloss": "bhadrakālī"
 },
 {
-"surface": "śriye-vaḥ",
+"surface": "śriye",
 "quick_gloss": "for-glory"
+},
+{
+"surface": "vaḥ",
+"quick_gloss": "to-you"
 }
 ]
 },
@@ -378,7 +394,7 @@
 "tokens": [
 {
 "surface": "aparājitā",
-"quick_gloss": "invincible"
+"quick_gloss": "unconquered"
 }
 ]
 },
@@ -394,8 +410,12 @@
 "quick_gloss": "indra"
 },
 {
-"surface": "jiṣṇuś-ca",
+"surface": "jiṣṇuḥ",
 "quick_gloss": "victorious"
+},
+{
+"surface": "ca",
+"quick_gloss": "ca"
 },
 {
 "surface": "lokaṃ",
@@ -406,8 +426,12 @@
 "quick_gloss": "she"
 },
 {
-"surface": "hitāyāstu-aparājitā",
+"surface": "hitāyāstu",
 "quick_gloss": "for-welfare"
+},
+{
+"surface": "aparājitā",
+"quick_gloss": "unconquered"
 }
 ]
 },
@@ -436,28 +460,44 @@
 "quick_gloss": "gāyatrī"
 },
 {
-"surface": "na-ca",
+"surface": "na",
 "quick_gloss": "not"
 },
 {
-"surface": "kena-kena",
+"surface": "ca",
+"quick_gloss": "ca"
+},
+{
+"surface": "kena",
 "quick_gloss": "by-whom"
+},
+{
+"surface": "kena",
+"quick_gloss": "kena"
 },
 {
 "surface": "satataṃ",
 "quick_gloss": "always"
 },
 {
-"surface": "ke-ke-na",
-"quick_gloss": "who-who"
+"surface": "ke",
+"quick_gloss": "who"
 },
 {
-"surface": "vā",
-"quick_gloss": "or"
+"surface": "ke",
+"quick_gloss": "ke"
 },
 {
-"surface": "arcanti-tam",
-"quick_gloss": "praise"
+"surface": "na",
+"quick_gloss": "not"
+},
+{
+"surface": "vārcanti",
+"quick_gloss": "vārcanti"
+},
+{
+"surface": "tam",
+"quick_gloss": "him"
 }
 ]
 },
@@ -483,19 +523,23 @@
 "tokens": [
 {
 "surface": "rudratvam",
-"quick_gloss": "rudra-nature"
+"quick_gloss": "rudra-hood"
 },
 {
-"surface": "adbhuta-kalāṃ",
-"quick_gloss": "wonderful-art"
+"surface": "adbhutakalāṃ",
+"quick_gloss": "wondrous-art"
 },
 {
 "surface": "haritāṃ",
 "quick_gloss": "green"
 },
 {
-"surface": "svatāṃ-vā",
+"surface": "svatāṃ",
 "quick_gloss": "own"
+},
+{
+"surface": "vā",
+"quick_gloss": "or"
 }
 ]
 },

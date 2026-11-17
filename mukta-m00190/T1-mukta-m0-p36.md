@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p36-v876
-water-natured again-eternal compassionate-removing
+[water-souled](toyātmikā) [again-eternal](punarnityā) [compassionate+removing](dayāvatyapahāriṇī)
 
 ## mukta-m0-p36-v877
-well-worshipped delighting and supreme world-crushing
+[easily-worshipped](samārādhyā) [delightful](nandanī) [supreme](parā) [universe-crushing](viśvavimardinī)
 
 ## mukta-m0-p36-v878
-faultless wide-eyed breath-raising and sounding
+[faultless](niravadyā) [wide-eyed](viśālākṣī) [breath-exhaling](śvāsodvāhā) [sounding](nādinī)
 
 ## mukta-m0-p36-v879
-chief unbearable after-mountain-born heat-removing
+[burden-bearing](dhuryā) [irresistible](durviṣahā) [mountain-born](adrijā) [heat-removing](tāpahāriṇī)
 
 ## mukta-m0-p36-v880
-world-guardians thus worship cowherd-etc-weapon-armed
+[world-guardians](lokapālān) [thus](tathā) [worship](abhyarcet) [weapon-bearing](brajādyāyudhasaṃyutān)
 
 ## mukta-m0-p36-v881
-fire-weapon-master would-be that-rite declared
+[fiery-weapon-master](āgneyāstrādhikarī) [would-be](syāt) [that-rite](tadvidhānam) [declared](udīryate)
 
 ## mukta-m0-p36-v882
-previously-said indeed seer-etc of-mantra proclaimed
+[previously-stated](pūrvoktāḥ) [indeed](eva) [sages-etc](ṛṣyādyāḥ) [of-mantra](mantrasya) [proclaimed](parikīrtitāḥ)
 
 ## mukta-m0-p36-v883
-mantra-nyasa pada-nyasa should-do reverse
+[mantra-nyāsa](mantranyāsa) [pada-nyāsa](padanyāsau) [should-perform](vidadhyāt) [in-reverse](pratilomataḥ)
 
 ## mukta-m0-p36-v884
-as-before japa-arrangement would-be offer with-previous-number
+[as-before](pūrvavat) [japa-arrangement](japakḷptiḥ) [would-be](syāt) [should-offer](juhuyāt) [previous-number](pūrvasaṃkhyayā)
 
 ## mukta-m0-p36-v885
-worship as-before do that powers reverse
+[worship](arcanaṃ) [as-before](pūrvavat) [should-do](kuryāt) [that](tat) [powers](śaktīḥ) [in-reverse](pratilomataḥ)
 
 ## mukta-m0-p36-v886
-cruel-acts should-do reverse-rite
+[cruel-acts](krūrakarmāṇi) [should-do](kurvīta) [reverse-rite](pratilomavidhānataḥ)
 
 ## mukta-m0-p36-v887
-at-application-time recite eight feet reverse
+[at-time-of-application](prayogakāle) [should-recite](prajaped) [eight](aṣṭau) [feet](pādān) [in-reverse](vilomataḥ)
 
 ## mukta-m0-p36-v888
-śrī-etc five-syllable foot known knowledge-sense-natured
+[śrī-etc](śryādiḥ) [five-syllabled](pañcākṣaraḥ) [foot](pādo) [known](jñeyaḥ) [knowledge-sense-souled](jñānendriyātmakaḥ)
 
 ## mukta-m0-p36-v889
-c-etc third five-letter five-element-made remembered
+[c-etc-third](cādyastṛtīyaḥ) [five-lettered](pañcārṇaḥ) [five-elements-made](pañcabhūtamayaḥ) [remembered](smṛtaḥ)
 
 ## mukta-m0-p36-v890
-da first fifth foot wave-form six-syllable
+[da-first](daḥ+ pūrvaḥ) [fifth](pañcamaḥ) [foot](pādaḥ) [wave-formed](ūrmirūpaḥ) [six-syllabled](ṣaḍakṣaraḥ)
 
 ## mukta-m0-p36-v891
-with-first five-letter other sound-etc-made declared
+[with-first](sopūrvaḥ) [five-lettered](pañcavarṇaḥ) [other](anyaḥ) [sound-etc-made](śabdādimayaḥ) [declared](īritaḥ)
 
 ## mukta-m0-p36-v892
-thus principle-combination foot-arrangement stated
+[thus](evaṃ) [principle-combination](tattvasamāyogāt) [foot-arrangement](pādakḷptiḥ) [declared](udāhṛtā)
 
 ## mukta-m0-p36-v893
-principal-image-forms own-own-color-risen-splendor
+[principal-form-image](pradhānamūrtipratimāḥ) [own-color-glowing](svasvavarṇoṃditaprabhāḥ)
 
 ## mukta-m0-p36-v894
-deities sense-born upward-gazed declared
+[deities](devatāḥ) [sense-born](indriyotpannāḥ) [upward-gazing](ūrdhvadṛṣṭayaḥ) [declared](īritāḥ)
 
 ## mukta-m0-p36-v895
-element-form-letter-born rising-fire-beautified
+[element-formed-syllable-born](dhāturūpākṣarotpannāḥ) [rising-fire-shining](udayānalaśobhitāḥ)
 
 ## mukta-m0-p36-v896
-these all remembered neuter sense-object-born women
+[these](etāḥ) [all](sarvāḥ) [remembered](smṛtāḥ) [neuter](klībāḥ) [sense-object-born](indriyārthodbhavāḥ) [women](striyaḥ)
 
 ## mukta-m0-p36-v897
-self-facing remembered gentle opposite-facing other-act
+[self-facing](svābhimukhyaḥ) [remembered](smṛtāḥ) [gentle](saumye) [other-facing](parāṅmukhyaḥ) [other-act](anyakarmaṇi)
 
 ## mukta-m0-p36-v898
-by-whom mantra-user burns enemy kingdom with-mountain-forest
+[by-whom](yābhiḥ) [mantrin](mantrī) [would-burn](dahet) [enemy](śatroḥ) [kingdom](rājyaṃ) [with-mountains-forests](sagirikānanam)
 
 ## mukta-m0-p36-v899
-in-demons should-use in-deities and destroy
+[in-demons](āsureṣu) [should-use](prayuñjīta) [in-deities](devatāsu) [ca](ca) [should-destroy](saṃharet)
 
 ## mukta-m0-p36-v900
-these human say constellations wise
+[these](imāni) [human](mānuṣāṇi) [say](āhuḥ) [constellations](nakṣatrāṇi) [sages](manīṣiṇaḥ)

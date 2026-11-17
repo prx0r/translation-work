@@ -5,7 +5,7 @@
 [root-support](mūlādhārā)
 
 ## mukta-m0-p53-v1302
-[root-support](mūlādhārā) [support-become](ādhārabhūtā) [mine](mamāstu)
+[root-support](mūlādhārā) [support-become](dhārabhūtā) [mine](mamāstu)
 
 ## mukta-m0-p53-v1303
 [formless](nirākārā)
@@ -35,10 +35,10 @@
 [refugeless](nirāśrayā)
 
 ## mukta-m0-p53-v1312
-[always-intent-absorption-place](sadāśayalayasthānā) [she](sā) [twofold-is](dvidhāsti) [refugeless](nirāśrayā)
+[always-intent-abode-place](sadāśayalayasthānā) [she](sā) [two-fold](dvidhāsti) [refugeless](nirāśrayā)
 
 ## mukta-m0-p53-v1313
-[breath-in-out-course](śvāsocchvāsagatiḥ)
+[breath-in-out-motion](śvāsocchvāsagatiḥ)
 
 ## mukta-m0-p53-v1314
 [may-be](bhūyāt) [of-good](satāṃ) [approved](sammatā)
@@ -47,7 +47,7 @@
 [living-soul](jīvā)
 
 ## mukta-m0-p53-v1316
-[me](rmāṃ) [enliven](jīvayatviyamajīvatayeha) [living-soul](jīvā)
+[me](rmāṃ) [enliven](jīvayatu) [this](iyam) [lifeless-here](ajīvatayeha) [living-soul](jīvā)
 
 ## mukta-m0-p53-v1317
 [grasping](grāhiṇī)
@@ -59,13 +59,13 @@
 [fire-refuge](vahnisaṃśrayā)
 
 ## mukta-m0-p53-v1320
-[seat-ness](āsanatvaṃ) [gone](gato) [whose](yasyāḥ) [refuge](saṃśrayaḥ) [he](sa) [and](ca) [her](tāṃ) [bow](numaḥ)
+[seat-ness](āsanatvaṃ) [gone](gato) [whose](yasyāḥ) [refuge](saṃśrayaḥ) [he](sa) [and](ca) [her](tāṃ) [we-bow](numaḥ)
 
 ## mukta-m0-p53-v1321
-[fire-thread-arisen](vahnitantusamutthānā)
+[fire-thread-risen](vahnitantusamutthānā)
 
 ## mukta-m0-p53-v1322
-[fire-thread-arisen](vahnitantusamutthānā) [what-like](kīdṛśī) [wonderful-goddess](citramīśvarī)
+[fire-thread-risen](vahnitantusamutthānā) [what-like](kīdṛśī) [wonder-goddess](citramīśvarī)
 
 ## mukta-m0-p53-v1323
 [six-taste-enjoyment-eager](ṣaḍrasāsvādalolupā)

@@ -7,24 +7,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "tuṣṭi",
-"quick_gloss": "satisfaction"
-},
-{
-"surface": "dā",
-"quick_gloss": "giver"
-},
-{
 "surface": "tuṣṭidā",
-"quick_gloss": "giver"
-},
-{
-"surface": "tuṣṭidā",
-"quick_gloss": "of"
-},
-{
-"surface": "tuṣṭidā",
-"quick_gloss": "satisfaction"
+"quick_gloss": "satisfaction-giver"
 }
 ]
 },
@@ -65,24 +49,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "puṣṭi",
-"quick_gloss": "nourishment"
-},
-{
-"surface": "dā",
-"quick_gloss": "giver"
-},
-{
 "surface": "puṣṭidā",
-"quick_gloss": "giver"
-},
-{
-"surface": "puṣṭidā",
-"quick_gloss": "of"
-},
-{
-"surface": "puṣṭidā",
-"quick_gloss": "nourishment"
+"quick_gloss": "nourishment-giver"
 }
 ]
 },
@@ -103,7 +71,7 @@
 },
 {
 "surface": "rūpeṇa",
-"quick_gloss": "form"
+"quick_gloss": "in-form"
 },
 {
 "surface": "kasmai",
@@ -133,18 +101,6 @@
 {
 "surface": "akṣayā",
 "quick_gloss": "imperishable"
-},
-{
-"surface": "akṣayā",
-"quick_gloss": "imperishable"
-},
-{
-"surface": "akṣayā",
-"quick_gloss": "imperishable"
-},
-{
-"surface": "akṣayā",
-"quick_gloss": "imperishable"
 }
 ]
 },
@@ -161,7 +117,7 @@
 },
 {
 "surface": "tu",
-"quick_gloss": "but"
+"quick_gloss": "indeed"
 },
 {
 "surface": "sadrūpā",
@@ -185,28 +141,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "p.",
-"quick_gloss": "page"
-},
-{
-"surface": "202",
-"quick_gloss": "202"
-},
-{
 "surface": "niṣṭhā",
-"quick_gloss": "steadfastness"
-},
-{
-"surface": "niṣṭhā",
-"quick_gloss": "steadfastness"
-},
-{
-"surface": "niṣṭhā",
-"quick_gloss": "steadfastness"
-},
-{
-"surface": "niṣṭhā",
-"quick_gloss": "steadfastness"
+"quick_gloss": "conclusion"
 }
 ]
 },
@@ -219,7 +155,7 @@
 "tokens": [
 {
 "surface": "niṣṭhā",
-"quick_gloss": "steadfastness"
+"quick_gloss": "conclusion"
 },
 {
 "surface": "kṛpāṃ",
@@ -235,7 +171,7 @@
 },
 {
 "surface": "dhatte",
-"quick_gloss": "holds"
+"quick_gloss": "bears"
 }
 ]
 },
@@ -246,18 +182,6 @@
 "quick_english": "",
 "quick_english_source": "t1parse",
 "tokens": [
-{
-"surface": "satyapriyā",
-"quick_gloss": "truth-dear"
-},
-{
-"surface": "satyapriyā",
-"quick_gloss": "truth-dear"
-},
-{
-"surface": "satyapriyā",
-"quick_gloss": "truth-dear"
-},
 {
 "surface": "satyapriyā",
 "quick_gloss": "truth-dear"
@@ -281,11 +205,11 @@
 },
 {
 "surface": "priyam",
-"quick_gloss": "dear"
+"quick_gloss": "dear-thing"
 },
 {
 "surface": "ātanotu",
-"quick_gloss": "may-extend"
+"quick_gloss": "let-extend"
 }
 ]
 },
@@ -296,18 +220,6 @@
 "quick_english": "",
 "quick_english_source": "t1parse",
 "tokens": [
-{
-"surface": "prajñā",
-"quick_gloss": "wisdom"
-},
-{
-"surface": "prajñā",
-"quick_gloss": "wisdom"
-},
-{
-"surface": "prajñā",
-"quick_gloss": "wisdom"
-},
 {
 "surface": "prajñā",
 "quick_gloss": "wisdom"
@@ -342,8 +254,12 @@
 "quick_gloss": "carry"
 },
 {
-"surface": "śirasītare",
-"quick_gloss": "heads"
+"surface": "śirasi",
+"quick_gloss": "on-heads"
+},
+{
+"surface": "itare",
+"quick_gloss": "others"
 }
 ]
 },
@@ -354,18 +270,6 @@
 "quick_english": "",
 "quick_english_source": "t1parse",
 "tokens": [
-{
-"surface": "lokeśī",
-"quick_gloss": "world-lady"
-},
-{
-"surface": "lokeśī",
-"quick_gloss": "world-lady"
-},
-{
-"surface": "lokeśī",
-"quick_gloss": "world-lady"
-},
 {
 "surface": "lokeśī",
 "quick_gloss": "world-lady"
@@ -393,7 +297,7 @@
 },
 {
 "surface": "karotu",
-"quick_gloss": "make"
+"quick_gloss": "let-make"
 }
 ]
 },
@@ -404,18 +308,6 @@
 "quick_english": "",
 "quick_english_source": "t1parse",
 "tokens": [
-{
-"surface": "surottamā",
-"quick_gloss": "god-best"
-},
-{
-"surface": "surottamā",
-"quick_gloss": "god-best"
-},
-{
-"surface": "surottamā",
-"quick_gloss": "god-best"
-},
 {
 "surface": "surottamā",
 "quick_gloss": "god-best"
@@ -435,11 +327,11 @@
 },
 {
 "surface": "karotvenaṃ",
-"quick_gloss": "make"
+"quick_gloss": "let-make-him"
 },
 {
 "surface": "sarvottamagatiṃ",
-"quick_gloss": "best-goal"
+"quick_gloss": "all-best-path"
 },
 {
 "surface": "janam",
@@ -454,22 +346,6 @@
 "quick_english": "",
 "quick_english_source": "t1parse",
 "tokens": [
-{
-"surface": "p.",
-"quick_gloss": "page"
-},
-{
-"surface": "203",
-"quick_gloss": "203"
-},
-{
-"surface": "saviṣā",
-"quick_gloss": "with-poison"
-},
-{
-"surface": "saviṣā",
-"quick_gloss": "with-poison"
-},
 {
 "surface": "saviṣā",
 "quick_gloss": "with-poison"
@@ -511,18 +387,6 @@
 {
 "surface": "jvālinī",
 "quick_gloss": "flaming"
-},
-{
-"surface": "jvālinī",
-"quick_gloss": "flaming"
-},
-{
-"surface": "jvālinī",
-"quick_gloss": "flaming"
-},
-{
-"surface": "jvālinī",
-"quick_gloss": "flaming"
 }
 ]
 },
@@ -543,11 +407,11 @@
 },
 {
 "surface": "kālabhayaṃ",
-"quick_gloss": "death-fear"
+"quick_gloss": "time-fear"
 },
 {
 "surface": "harāsya",
-"quick_gloss": "remove"
+"quick_gloss": "let-remove-his"
 }
 ]
 },
@@ -558,18 +422,6 @@
 "quick_english": "",
 "quick_english_source": "t1parse",
 "tokens": [
-{
-"surface": "jvālā",
-"quick_gloss": "flame"
-},
-{
-"surface": "jvālā",
-"quick_gloss": "flame"
-},
-{
-"surface": "jvālā",
-"quick_gloss": "flame"
-},
 {
 "surface": "jvālā",
 "quick_gloss": "flame"
@@ -589,7 +441,7 @@
 },
 {
 "surface": "sthitaikaiva",
-"quick_gloss": "stands-alone"
+"quick_gloss": "standing-alone"
 },
 {
 "surface": "jvālā",
@@ -605,7 +457,7 @@
 },
 {
 "surface": "naḥ",
-"quick_gloss": "us"
+"quick_gloss": "to-us"
 }
 ]
 },
@@ -616,18 +468,6 @@
 "quick_english": "",
 "quick_english_source": "t1parse",
 "tokens": [
-{
-"surface": "viṣamohārtināśinī",
-"quick_gloss": "poison-delusion-pain-destroyer"
-},
-{
-"surface": "viṣamohārtināśinī",
-"quick_gloss": "poison-delusion-pain-destroyer"
-},
-{
-"surface": "viṣamohārtināśinī",
-"quick_gloss": "poison-delusion-pain-destroyer"
-},
 {
 "surface": "viṣamohārtināśinī",
 "quick_gloss": "poison-delusion-pain-destroyer"
@@ -651,7 +491,7 @@
 },
 {
 "surface": "seyaṃ",
-"quick_gloss": "this-she"
+"quick_gloss": "she-this"
 },
 {
 "surface": "viṣamohārtināśinī",
@@ -666,18 +506,6 @@
 "quick_english": "",
 "quick_english_source": "t1parse",
 "tokens": [
-{
-"surface": "viṣāriḥ",
-"quick_gloss": "poison-enemy"
-},
-{
-"surface": "viṣāriḥ",
-"quick_gloss": "poison-enemy"
-},
-{
-"surface": "viṣāriḥ",
-"quick_gloss": "poison-enemy"
-},
 {
 "surface": "viṣāriḥ",
 "quick_gloss": "poison-enemy"

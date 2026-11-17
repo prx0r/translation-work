@@ -2,40 +2,40 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p89-v2201
-[bottomless](agādhā)
+[deep](agādhā)
 
 ## mukta-m0-p89-v2202
-[not](na) [or](vā) [Bhavani](bhavānī) [not](nahi) [she-is-deep](sāstyagādhā)
+[not](na) [or](vā) [bhavānī](bhavānī) [not](nahi) [exists-deep](sāstyagādhā)
 
 ## mukta-m0-p89-v2203
-[serpent-earring](nāgakuṇḍalā)
+[snake-earring](nāgakuṇḍalā)
 
 ## mukta-m0-p89-v2204
-[golden-earring](suvarṇakuṇḍalā) [like](iva) [serpent-earring](nāgakuṇḍale) [shines](virājate)
+[gold-earring](suvarṇakuṇḍalā) [snake-earring-like](nāgakuṇḍaleva) [shines](virājate)
 
 ## mukta-m0-p89-v2205
 [good-wheel](sucakrā)
 
 ## mukta-m0-p89-v2206
-[well-empty-wheel](suśūnyacakre) [worshipped](paripūjyate) [who](yā) [by-wheel-lords](cakreśvaraiḥ) [let-her-be](sāstu) [around](abhitaḥ) [good-wheel](sucakrā)
+[good-empty-wheel](suśūnyacakre) [worshipped](paripūjyate) [who](yā) [wheel-lords](cakreśvaraiḥ) [let-be](sāstvabhitaḥ) [good-wheel](sucakrā)
 
 ## mukta-m0-p89-v2207
-[standing-in-wheel-middle](cakramadhyasthā)
+[wheel-middle-standing](cakramadhyasthā)
 
 ## mukta-m0-p89-v2208
-[wheel-handed](cakrahastā) [auspicious](śivā) [standing-in-wheel-middle](cakramadhyasthā) [indeed](eva) [triumphs](jayati) [she](asau)
+[wheel-handed](cakrahastā) [auspicious](śivā) [wheel-middle-standing-indeed](cakramadhyasthaiva) [triumphs](jayatyasau)
 
 ## mukta-m0-p89-v2209
-[wheel-corner-dweller](cakrakoṇanivāsinī)
+[wheel-corner-dwelling](cakrakoṇanivāsinī)
 
 ## mukta-m0-p89-v2210
-[spread](vitataṃ) [he](sa) [how](kathaṃ) [not](naiva) [wheel-sovereignty](cakravartitvam) [obtain](āpnuyāt)
+[spread](vitataṃ) [how](kathaṃ) [not](naiva) [wheel-sovereignty](cakravartitvam) [obtain](āpnuyāt)
 
 ## mukta-m0-p89-v2211
-[all-mantra-filled](sarvamantramayī) [knowledge](vidyā)
+[all-mantra-filled](sarvamantramayī) [vidyā](vidyā)
 
 ## mukta-m0-p89-v2212
-[all-mantra-filled](sarvamantramayī) [knowledge](vidyā) [heart-etc](hṛdyādi) [here](atra) [let-it-be-accomplished](siddhyatu)
+[all-mantra-filled](sarvamantramayī) [vidyā](vidyā) [heart-etc](hṛdyādyaivātra) [let-be-accomplished](siddhyatu)
 
 ## mukta-m0-p89-v2213
 [all-mantra-letter-series](sarvamantrākṣarāvaliḥ)
@@ -47,13 +47,13 @@
 [honey-flowing](madhusravā)
 
 ## mukta-m0-p89-v2216
-[honey-flowing-this](madhusraveyaṃ) [honeyed](madhumat) [to-be-served](niṣevyā) [let-it-give](dadātu) [accomplishment](siddhiṃ) [honeyed-recited](madhumatyanūdyām)
+[honey-flowing-this](madhusraveyaṃ) [honeyed](madhumanniṣevyā) [let-give](dadātu) [accomplishment](siddhiṃ) [honeyed-uttered](madhumatyanūdyām)
 
 ## mukta-m0-p89-v2217
 [flowing](sravantī)
 
 ## mukta-m0-p89-v2218
-[that](yat) [extends](tanoti) [indeed](eva) [who](kaḥ) [this](eṣa) [flowing-nearness](sravantīsannidheḥ) [rite](vidhiḥ)
+[that](yattanotyeva) [who](ko'pyeṣa) [flowing-presence-rite](sravantīsannidhervidhiḥ)
 
 ## mukta-m0-p89-v2219
 [bee-like](bhrāmarī)
@@ -65,13 +65,13 @@
 [bee-curl](bhramarālakā)
 
 ## mukta-m0-p89-v2222
-[enough](alaṃ) [to-kill](hantum) [enough](alaṃ) [seen](dṛṣṭaṃ) [girl](bālā) [she](sā) [bee-curl](bhramarālakā)
+[enough](alaṃ) [kill](hantumalaṃ) [seen](dṛṣṭaṃ) [girl](bālā) [she](sā) [bee-curl](bhramarālakā)
 
 ## mukta-m0-p89-v2223
-[standing-in-mother-circle-middle](mātṛmaṇḍalamadhyasthā)
+[mother-circle-middle-standing](mātṛmaṇḍalamadhyasthā)
 
 ## mukta-m0-p89-v2224
-[standing-in-mother-circle-middle](mātṛmaṇḍalamadhyasthā) [circle-lordship](maṇḍalendratva) [let-it-give](dāstu) [us](naḥ)
+[mother-circle-middle-standing](mātṛmaṇḍalamadhyasthā) [circle-lordship](maṇḍalendratvadāstu) [to-us](naḥ)
 
 ## mukta-m0-p89-v2225
-[mother-circle-dweller](mātṛmaṇḍalavāsinī)
+[mother-circle-dwelling](mātṛmaṇḍalavāsinī)
