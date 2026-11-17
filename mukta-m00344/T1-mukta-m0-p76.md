@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p76-v1876
-[in-dream](svapna]) [seer-of-higher-and-lower](parāvara+darśanaḥ) [knower-of-sensory-and-supersensory](sa+indriya+atīndriya+jñaḥ)
+[dream](svapna) [seer](parāvara)+[of-high-and-low](darśanaḥ) [knower](sendriya)+[beyond-senses](atīndriyajñaḥ)
 
 ## mukta-m0-p76-v1877
-[I-ask](pṛcchāmi) [what](yat) [I](aham) [that](tat) [to-me](me) [by-compassion](kṛpayā) [to-tell](vaktum) [you-should](arhasi)
+[i-ask](pṛcchāmi) [what](yad)+[i](ahaṃ) [that](tan)+[to-me](me) [by-grace](kṛpayā) [to-speak](vaktum)+[you-should](arhasi)
 
 ## mukta-m0-p76-v1878
-[therefore](ataḥ) [thus](eva) [he-says](āha) [not](na) [that](ta) [thus](iti) [even-slightly](leśataḥ) [api](api) [unknown](aviditam) [thus](iti) [construction](yojanā)
+[therefore](ataḥ)+[indeed](eva)+[he-said](āha) [not](na) [those](te) [iti](iti) [slightly](leśataḥ)+[even](api)+[unknown](aviditam)+[iti](iti) [connection](yojanā)
 
 ## mukta-m0-p76-v1879
-[it-may-be](bhavet) [that](tat) [how](katham) [thus](iti) [construction](yojanā)
+[that](tat) [how](katham)+[iti](iti) [connection](yojanā)
 
 ## mukta-m0-p76-v1880
-[and-yet](atha+api) [place](deśaḥ) [time](kālaḥ) [and](ca) [simultaneously](yugapad) [manifold](vividhaḥ) [how](katham)
+[then](atha)+[also](api) [place](deśaḥ) [time](kālaḥ)+[ca](ca) [simultaneously](yugapad) [various](vividhaḥ) [how](katham)
 
 ## mukta-m0-p76-v1881
-[manifold](vividhaḥ) [how](katham) [thus](iti) [meaning](arthaḥ)
+[various](vividhaḥ) [how](katham)+[iti](iti)+[meaning](arthaḥ)
 
 ## mukta-m0-p76-v1882
-[thus](iti) [asked](pṛṣṭaḥ) [sage's-son](muni+sutaḥ) [to-speak](pravaktum) [began](upacakrame)
+[thus](iti) [asked](pṛṣṭaḥ) [sage-son](munisutaḥ) [to-speak](pravaktum)+[began](upacakrame)
 
 ## mukta-m0-p76-v1883
-[filled-with-true-impression](satya+vāsanā+āviṣṭaḥ) [again](bhūyaḥ) [asks](pṛcchati) [one-of-the-two](anyatarat) [true](satyaṃ) [may-be](bhavet) [thus](iti)
+[truth-impression](satyavāsanā)+[filled](viṣṭaḥ) [again](bhūyaḥ) [asks](pṛcchati) [either](anyatarat) [truth](satyaṃ) [may-be](bhavet)+[iti](iti)
 
 ## mukta-m0-p76-v1884
-[in-the-commentary](vyākyāta+ṭīkāyām)
+[explained](vyākyāta)+[in-commentary](ṭīkāyām)
 
 ## mukta-m0-p76-v1885
-[may-be](bhavet) [thus](iti) [meaning](bhāvaḥ)
+[may-be](bhavet)+[iti](iti) [sense](bhāvaḥ)
 
 ## mukta-m0-p76-v1886
-[this](etat) [by-all](sarvaiḥ) [as-true-form](satya+rūpaṃ) [imagined](bhāvitaṃ) [due-to-great-firmness](su+dṛḍhatvataḥ)
+[this](etat) [by-all](sarvaiḥ) [truth-form](satyarūpaṃ) [meditated](bhāvitaṃ) [firmness](sudṛḍhatvataḥ)
 
 ## mukta-m0-p76-v1887
-[as-true-form](satya+rūpaṃ) [imagined](bhāvitam) [therefore](ataḥ) [common-to-all](sarva+sādhāraṇaṃ) [as-truth](satyatvena) [appears](bhāsate) [thus](iti) [remainder](śeṣaḥ)
+[truth-form](satyarūpaṃ) [meditated](bhāvitam) [therefore](ataḥ) [common-to-all](sarvasādhāraṇaṃ) [as-truth](satyatvena) [appears](bhāsate) [remainder](iti)+[śeṣaḥ)
 
 ## mukta-m0-p76-v1888
-[this](eṣaḥ) [mixture-of-concepts](vikalpa+sambhedaḥ) [ineffective](asiddhā) [therefore](tasmāt) [creative-contemplation](vibhāvanā)
+[alternative](vikalpa)+[division](sambheda) [this](eṣaḥ)+[unproved](asiddhā) [therefore](tasmāt)+[visualization](vibhāvanā)
 
 ## mukta-m0-p76-v1889
-[by-birth](janmanā) [by-gem](maṇinā) [like-that](tadvat) [by-herb](auṣadhena) [and](ca) [by-yoga](yogataḥ)
+[by-birth](janmanā) [by-gem](maṇinā) [likewise](tadvat)+[by-medicine](auṣadhena) [ca](ca) [by-yoga](yogataḥ)
 
 ## mukta-m0-p76-v1890
-[by-birth](janmanā) [of-Brahma](brahmaṇaḥ) [that](sā) [indeed](vai) [by-gem](maṇinā) [of-yakshas-and-rakshasas](yakṣa+rakṣasām)
+[by-birth](janmanā) [of-brahma](brahmaṇaḥ) [that](sā) [vai](vai) [by-gem](maṇinā) [of-yakṣa-rākṣasa](yakṣarakṣasām)
 
 ## mukta-m0-p76-v1891
-[by-austerity](tapasā) [of-ascetics](tāpasānāṃ) [that](sā) [of-mantra-users](māntrikāṇāṃ) [but](tu) [by-mantra](mantrataḥ)
+[by-austerity](tapasā) [of-ascetics](tāpasānāṃ) [sā](sā) [of-mantra-users](māntrikāṇāṃ) [tu](tu) [by-mantra](mantrataḥ)
 
 ## mukta-m0-p76-v1892
-[by-herb](auṣadhena) [by-nectar](amṛtena)
+[by-medicine](auṣadhena) [by-nectar](amṛtena)
 
 ## mukta-m0-p76-v1893
-[what-is-willed](saṅkalpitaṃ) [thus](tathā) [to-be-contemplated](bhāvyaṃ) [when-previous-forgetting](pūrva+vismaraṇe) [being-present](sati)
+[intended](saṅkalpitaṃ) [thus](tathā) [to-be-meditated](bhāvyaṃ) [prior-forgetting](pūrvavismaraṇe) [when](sati)
 
 ## mukta-m0-p76-v1894
-[meaning](bhāvaḥ)
+[sense](bhāvaḥ)
 
 ## mukta-m0-p76-v1895
-[thus](evam) [indeed](eva) [non-conceptual-contemplation](nirvikalpa+bhāvanā) [if](yadi) [very-firm](su+sthirā)
+[thus](evam)+[eva](eva) [non-conceptual](nirvikalpa)+[meditation](bhāvanā) [if](yadi) [very-steady](suthirā)
 
 ## mukta-m0-p76-v1896
-[firm](susthirā) [then](tadā) [great-fruit](mahā+phalaṃ) [it-accomplishes](sādhayet) [thus](iti) [with-the-implied](vyavahitena) [connection](sambandhaḥ)
+[very-steady](susthirā) [then](tadā) [great-fruit](mahāphalaṃ) [accomplishes](sādhayet)+[iti](iti) [interrupted](vyavahitena) [connection](sambandhaḥ)
 
 ## mukta-m0-p76-v1897
-[so-long](tāvat) [that](sā) [contemplation](bhāvanā) [accomplished](siddhā) [it-accomplishes](sādhayet) [indeed](vai) [great-fruit](mahā+phalam)
+[so-long](tāvat) [that](sā) [meditation](bhāvanā) [accomplished](siddhā) [accomplishes](sādhayet)+[vai](vai) [great-fruit](mahāphalam)
 
 ## mukta-m0-p76-v1898
-[contemplation](bhāvanāṃ) [accomplish](sādhaya) [quickly](kṣipraṃ) [if](yadi) [to-create](sraṣṭuṃ) [you-desire](samīhasi)
+[meditation](bhāvanāṃ) [accomplish](sādhaya) [quickly](kṣipraṃ) [if](yadi) [to-create](sraṣṭuṃ) [you-desire](samīhasi)
 
 ## mukta-m0-p76-v1899
-[for-you](tava) [however](tu) [due-to-mixture-of-concepts](vikalpa+sambhedāt) [contemplation](bhāvanā) [not](na) [accomplished](siddhā) [thus](iti) [he-says](āha) [mixture](sambhedāt) [thus](iti)
+[your](tava) [tu](tu) [alternative-division](vikalpasambhedāt) [meditation](bhāvanā) [not](na) [accomplished](siddhi)+[iti](iti)+[āha](āha) [division](sambhedāt)+[iti](iti)
 
 ## mukta-m0-p76-v1900
-[untrained](avyutpannaḥ) [you-are](asi) [of-the-world](lokasya) [in-conduct](vyavahāre) [therefore](tataḥ) [your](tava)
+[unlearned](avyutpannaḥ)+[asi](asi) [of-world](lokasya) [in-usage](vyavahāre) [therefore](tataḥ)+[your](tava)

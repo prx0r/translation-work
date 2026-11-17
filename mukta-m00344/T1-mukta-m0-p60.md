@@ -2,55 +2,55 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p60-v1476
-[imagination+city+resembling](saṅkalpana+nagara+prakhyā) [creation](sṛṣṭiḥ) [of-the-lord](devasya) [accepted](sammatā)
+[imagined-city+resembling](saṅkalpanagaraprakhyā) [creation](sṛṣṭiḥ) [of-the-lord](devasya) [accepted](sammatā)
 
 ## mukta-m0-p60-v1477
 [meaning](bhāvaḥ)
 
 ## mukta-m0-p60-v1478
-[many+measurers+measures+etc.+abounding](aneka+mātṛ+meya+ādi+pracurā) [indeed](hi) [appears](avabhāsate)
+[many+measurers+objects+etc.+abounding](anekamātṛmeyādipracurā) [indeed](hi) [appears](avabhāsate)
 
 ## mukta-m0-p60-v1479
-[creation](sṛṣṭiḥ) [imagination+city+abounding](saṅkalpana+nagara+pracurā) [which](yā) [appears](avabhāsate) [that](sā) [mind-made](manomayā) [thus](iti) [connection](sambandhaḥ)
+[creation](sṛṣṭiḥ) [imagined-city+abounding](saṅkalpanagarapracurā) [which](yā) [appears](avabhāsate) [that](sā) [mind-made](manomayā) [thus](iti) [connection](sambandhaḥ)
 
 ## mukta-m0-p60-v1480
-[arisen](utpanā) [from-mind](manasaḥ) [there](tatra) [situated](sthitā) [there+alone](tatra+eva) [dissolves](līyate)
+[arisen](utpanā) [from-mind](manasaḥ) [there](tatra) [situated](sthitā) [there+alone](tatraiva) [dissolves](līyate)
 
 ## mukta-m0-p60-v1481
 [connection](sambandhaḥ)
 
 ## mukta-m0-p60-v1482
-[consciousness+other-than](cit+atiriktaḥ) [form](vigrahaḥ) [body](dehaḥ) [of-which](yasyāḥ)
+[consciousness+other-than](cidatiriktaḥ) [form](vigrahaḥ) [body](dehaḥ) [of-which](yasyāḥ)
 
 ## mukta-m0-p60-v1483
-[that](sā) [consciousness](citiḥ) [everywhere](sarvataḥ) [full](pūrṇā) [limitation+absence](pariccheda+vivarjanāt)
+[that](sā) [consciousness](citiḥ) [everywhere](sarvataḥ) [full](pūrṇā) [limitation+absence](paricchedavivarjanāt)
 
 ## mukta-m0-p60-v1484
 [properly](samyak) [to-establish](sādhayitum) [undertakes](upakramate) [that](sā) [consciousness](citiḥ) [thus](iti)
 
 ## mukta-m0-p60-v1485
-[there](tatra) [form+consisting](ākāra+mayaḥ) [space](deśaḥ) [time](kālaḥ) [but](tu) [would-be](syāt) [action+consisting](kriyā+mayaḥ)
+[there](tatra) [form+consisting](ākāramayaḥ) [space](deśaḥ) [time](kālaḥ) [but](tu) [would-be](syāt) [action+consisting](kriyāmayaḥ)
 
 ## mukta-m0-p60-v1486
 [of-that](tasyāḥ) [limiting-nature](paricchedakatvam) [of-these-two](anayoḥ) [would-be](syāt) [how](kathaṃ) [tell](vada)
 
 ## mukta-m0-p60-v1487
-[somehow](kathañcit) [self+limiting-nature](ātma+paricchedakatvam) [thus+meaning](iti+arthaḥ)
+[in-some-way](kathañcit) [self+limiting-nature](ātmaparicchedakatvam) [thus](iti) [meaning](arthaḥ)
 
 ## mukta-m0-p60-v1488
-[where](yatra) [not](na) [would-be](syāt) [consciousness](citiḥ) [that-also](saḥ+api) [how](kathaṃ) [would-be](syāt) [thus](iti) [indeed](vai) [would-be](bhavet)
+[where](yatra) [not](na) [would-be](syāt) [consciousness](citiḥ) [that-also](so'pi) [how](kathaṃ) [would-be](syāt) [thus](iti) [indeed](vai) [would-be](bhavet)
 
 ## mukta-m0-p60-v1489
 [meaning](bhāvaḥ)
 
 ## mukta-m0-p60-v1490
-[light](prakāśaḥ) [but](tu) [consciousness](citiḥ) [declared](proktā) [not+of-non-consciousness](na+aciteḥ) [would-be](syāt) [luminosity](prakāśatā)
+[light](prakāśaḥ) [but](tu) [consciousness](citiḥ) [declared](proktā) [not+of-non-consciousness](nāciteḥ) [would-be](syāt) [luminosity](prakāśatā)
 
 ## mukta-m0-p60-v1491
-[thus](evā) [existence](astitvam) [thus](iti) [meaning](bhāvaḥ)
+[thus](evam) [existence](astitvam) [thus](iti) [meaning](bhāvaḥ)
 
 ## mukta-m0-p60-v1492
-[insentient-things](jaḍāḥ) [not](na) [self-luminous](sva+prakāśāḥ) [indeed](hi) [consciousness+contact+illumination](citi+yoga+prakāśanāt)
+[insentient-things](jaḍāḥ) [not](na) [self-luminous](svaprakāśāḥ) [indeed](hi) [consciousness+contact+illumination](citiyogaprakāśanāt)
 
 ## mukta-m0-p60-v1493
 [of-insentient-things](jaḍānāṃ) [independent](svatantraḥ) [light](prakāśaḥ) [thus](iti) [meaning](bhāvaḥ)
@@ -59,19 +59,19 @@
 [insentient-things](jaḍāḥ) [consciousness](citiṃ) [having-resorted-to](samāśritya) [shine](prakāśante) [not](na) [and](ca) [otherwise](anyathā)
 
 ## mukta-m0-p60-v1495
-[is](asti) [is-not](na+asti) [thus](iti) [in-world](loke) [in-this](asmin) [determination](vyavasthā) [not](na+hi) [will-be-established](setsyati)
+[exists](asti) [does-not-exist](nāsti) [thus](iti) [in-world](loke) [in-this](asmin) [determination](vyavasthā) [not](na) [indeed](hi) [will-be-established](setsyati)
 
 ## mukta-m0-p60-v1496
-[perceivable](dṛśyaḥ) [because-of-perceptibility](pratyakṣatvāt) [thus+etc.](iti+ādi+vat) [not+to-be-inferred](na+eyaḥ) [thus](iti)
+[perceivable](dṛśyaḥ) [because-of-perceptibility](pratyakṣatvāt) [thus+etc.](ityādivat) [not](na) [to-be-inferred](iyam) [thus](iti)
 
 ## mukta-m0-p60-v1497
 [just-as](yathā) [indeed](hi) [of-reflections](pratibibimbānāṃ) [existence](sattvaṃ) [in-mirror](darpaṇe) [alone](eva) [indeed](hi)
 
 ## mukta-m0-p60-v1498
-[mirror+existence](darpaṇa+sattvam) [alone](eva) [of-reflections](pratibibimbānāṃ) [existence](sattvam) [thus+meaning](iti+arthaḥ)
+[mirror+existence](darpaṇasattvam) [alone](eva) [of-reflections](pratibimbānāṃ) [existence](sattvam) [thus](iti) [meaning](arthaḥ)
 
 ## mukta-m0-p60-v1499
-[more](adhikaṃ) [shines](bhāsate) [which](yat) [but](tu) [that](tat) [by-stainlessness+greatness](nairmalya+mahittvataḥ)
+[more](adhikaṃ) [shines](bhāsate) [which](yat) [but](tu) [that](tat) [spotlessness+greatness](nairmalyamahittvataḥ)
 
 ## mukta-m0-p60-v1500
-[by-greatness](mahattvataḥ) [by-majesty](māhātmyāt) [thus+meaning](iti+arthaḥ)
+[greatness](mahattvataḥ) [from-majesty](māhātmyāt) [thus](iti) [meaning](arthaḥ)
