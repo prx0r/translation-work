@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p130-v3226
-[season-salutation](ṛtavenamaḥ) [year-salutation](sa/vvatsarāyanamaḥ) [month-salutation](māsāyanamaḥ)
+[season-homage](ṛtavenamaḥ) [year-homage](saṃvatsarāyanamaḥ) [month-homage](māsāyanamaḥ)
 
 ## mukta-m0-p130-v3227
-[fortnight-salutation](pakṣāyanamaḥ) [number-completion-salutation](saṅkhyāsamāpanāyanamaḥ) [digit-salutation](kalāyainamaḥ)
+[fortnight-homage](pakṣāyanamaḥ) [number-completion-homage](saṅkhyāsamāpanāyanamaḥ) [digit-homage](kalāyainamaḥ)
 
 ## mukta-m0-p130-v3228
-[kāṣṭhā-salutation](kāṣṭhāyainamaḥ) [lava-salutation](lavebhyonamaḥ) [mātrā-salutation](mātrābhyonamaḥ)
+[time-unit-homage](kāṣṭhāyainamaḥ) [moment-homage](lavebhyonamaḥ) [measure-homage](mātrābhyonamaḥ)
 
 ## mukta-m0-p130-v3229
-[muhūrta-day-night-salutation](muhūrttāhaḥkṣapābhyonamaḥ) [moment-salutation](kṣaṇebhyonamaḥ)
+[moment-day-night-homage](muhūrttāhaḥkṣapābhyonamaḥ) [instant-homage](kṣaṇebhyonamaḥ)
 
 ## mukta-m0-p130-v3230
-[first-emergence-salutation](ādyanirgamāyanamaḥ) [being-salutation](satenamaḥ) [nonbeing-salutation](asatenamaḥ)
+[beginning-outflow-homage](ādyanirgamāyanamaḥ) [being-homage](satenamaḥ) [non-being-homage](asatenamaḥ)
 
 ## mukta-m0-p130-v3231
-[manifest-salutation](vyaktāyanamaḥ) [unmanifest-salutation](avyaktāyanamaḥ) [father-salutation](pitrenamaḥ)
+[manifest-homage](vyaktāyanamaḥ) [unmanifest-homage](avyaktāyanamaḥ) [father-homage](pitrenamaḥ)
 
 ## mukta-m0-p130-v3232
-[mother-salutation](mātrenamaḥ) [grandfather-salutation](pitāmahāyanamaḥ) [heaven-gate-salutation](svargadvārāyanamaḥ)
+[mother-homage](mātrenamaḥ) [grandfather-homage](pitāmahāyanamaḥ) [heaven-gate-homage](svargadvārāyanamaḥ)
 
 ## mukta-m0-p130-v3233
-[progeny-gate-salutation](prajādvārāyanamaḥ) [liberation-gate-salutation](mokṣadvārāyanamaḥ)
+[progeny-gate-homage](prajādvārāyanamaḥ) [liberation-gate-homage](mokṣadvārāyanamaḥ)
 
 ## mukta-m0-p130-v3234
-[brahma-world-salutation](brahmalokāyanamaḥ) [supreme-arrival-salutation](parāgatayenamaḥ)
+[brahma-world-homage](brahmalokāyanamaḥ) [supreme-gone-homage](parāgatayenamaḥ)
 
 ## mukta-m0-p130-v3235
-[deva-asura-creator-salutation](devāsuravinirmātrenamaḥ) [deva-asura-refuge-salutation](devāsuraparāyaṇāyanamaḥ)
+[divine-demonic-creator-homage](devāsuravinirmātrenamaḥ) [divine-demonic-refuge-homage](devāsuraparāyaṇāyanamaḥ)
 
 ## mukta-m0-p130-v3236
-[deva-asura-teacher-salutation](devāsuraguravenamaḥ) [deva-salutation](devāyanamaḥ)
+[divine-demonic-teacher-homage](devāsuraguravenamaḥ) [divine-homage](devāyanamaḥ)
 
 ## mukta-m0-p130-v3237
-[deva-asura-revered-salutation](devāsuranamaskṛtāyanamaḥ) [deva-asura-great-minister-salutation](devāsuramahāmātrāyanamaḥ)
+[divine-demonic-revered-homage](devāsuranamaskṛtāyanamaḥ) [divine-demonic-great-minister-homage](devāsuramahāmātrāyanamaḥ)
 
 ## mukta-m0-p130-v3238
-[deva-asura-troop-leader-salutation](devāsuragaṇāgraṇyenamaḥ) [deva-above-deva-salutation](devātidevāyanamaḥ)
+[divine-demonic-troop-leader-homage](devāsuragaṇāgraṇyenamaḥ) [divine-above-divine-homage](devātidevāyanamaḥ)
 
 ## mukta-m0-p130-v3239
-[deva-ṛṣi-salutation](devarṣṣayenamaḥ) [deva-asura-boon-giver-salutation](devāsuravarapradāyanamaḥ)
+[divine-sage-homage](devarṣṣayenamaḥ) [divine-demonic-boon-giver-homage](devāsuravarapradāyanamaḥ)
 
 ## mukta-m0-p130-v3240
-[deva-asura-lord-salutation](devāsureśvarāyanamaḥ) [universe-salutation](viśvāyanamaḥ)
+[divine-demonic-lord-homage](devāsureśvarāyanamaḥ) [universe-homage](viśvāyanamaḥ)
 
 ## mukta-m0-p130-v3241
-[deva-asura-great-lord-salutation](devāsuramaheśvarāyanamaḥ) [all-deva-embodied-salutation](sarvadevamayāyanamaḥ)
+[divine-demonic-great-lord-homage](devāsuramaheśvarāyanamaḥ) [all-divine-essence-homage](sarvadevamayāyanamaḥ)
 
 ## mukta-m0-p130-v3242
-[inconceivable-salutation](acintyāyanamaḥ) [deva-self-salutation](devātmanenamaḥ) [self-born-salutation](ātmasambhavāyanamaḥ)
+[unthinkable-homage](acintyāyanamaḥ) [divine-soul-homage](devātmanenamaḥ) [soul-born-homage](ātmasambhavāyanamaḥ)
 
 ## mukta-m0-p130-v3243
-[stainless-salutation](virajāyanamaḥ) [dustless-salutation](nīrajāyanamaḥ) [immortal-salutation](amarāyanamaḥ)
+[dustless-homage](virajāyanamaḥ) [stainless-homage](nīrajāyanamaḥ) [immortal-homage](amarāyanamaḥ)
 
 ## mukta-m0-p130-v3244
-[praiseworthy-salutation](īḍyāyanamaḥ) [elephant-lord-salutation](hastīśvarāyanamaḥ) [tiger-salutation](vyāghrāyanamaḥ)
+[praiseworthy-homage](īḍyāyanamaḥ) [elephant-lord-homage](hastīśvarāyanamaḥ) [tiger-homage](vyāghrāyanamaḥ)
 
 ## mukta-m0-p130-v3245
-[deva-lion-salutation](devasiṃhāyanamaḥ) [man-bull-salutation](nararṣabhāyanamaḥ) [wise-salutation](vibudhāyanamaḥ)
+[divine-lion-homage](devasiṃhāyanamaḥ) [man-bull-homage](nararṣabhāyanamaḥ) [wise-homage](vibudhāyanamaḥ)
 
 ## mukta-m0-p130-v3246
-[foremost-excellent-salutation](agravarāyanamaḥ) [subtle-salutation](sūkṣmāyanamaḥ) [all-deva-salutation](sarvadevāyanamaḥ)
+[foremost-excellent-homage](agravarāyanamaḥ) [subtle-homage](sūkṣmāyanamaḥ) [all-divine-homage](sarvadevāyanamaḥ)
 
 ## mukta-m0-p130-v3247
-[austerity-embodied-salutation](tapomayāyanamaḥ) [well-joined-salutation](suyuktāyanamaḥ) [auspicious-salutation](śobhanāyanamaḥ)
+[austerity-essence-homage](tapomayāyanamaḥ) [well-joined-homage](suyuktāyanamaḥ) [auspicious-homage](śobhanāyanamaḥ)
 
 ## mukta-m0-p130-v3248
-[thunderbolt-bearer-salutation](vajriṇenamaḥ) [weapon-origin-salutation](prāsānāmprabhavāyanamaḥ)
+[thunderbolt-bearer-homage](vajriṇenamaḥ) [weapon-source-homage](prāsānāmprabhavāyanamaḥ)
 
 ## mukta-m0-p130-v3249
-[imperishable-salutation](avyayāyanamaḥ) [cave-salutation](guhāyanamaḥ) [beloved-salutation](kāntāyanamaḥ)
+[imperishable-homage](avyayāyanamaḥ) [cave-homage](guhāyanamaḥ) [beloved-homage](kāntāyanamaḥ)
 
 ## mukta-m0-p130-v3250
-[horned-salutation](śṛṅgiṇenamaḥ) [horn-lover-salutation](śṛṅgapriyāyanamaḥ) [brown-salutation](babhravenamaḥ)
+[horned-homage](śṛṅgiṇenamaḥ) [horn-beloved-homage](śṛṅgapriyāyanamaḥ) [tawny-homage](babhravenamaḥ)
