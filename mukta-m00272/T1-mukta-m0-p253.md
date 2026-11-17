@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p253-v6301
-[that-us](tanno) [hero](vīraḥ) [impel](pracodayāt)
+[that](tanno) [hero](vīraḥ) [impel](pracodayāt) [pad](*) [pad](*) [pad](*) [pad](*) [pad](*) [pad](*) [pad](*) [pad](*)
 
 ## mukta-m0-p253-v6302
-[that-us](tanno) [brāhmī](brāhmī) [impel](pracodayāt)
+[that](tanno) [brāhmī](brāhmī) [impel](pracodayāt) [pad](*) [pad](*) [pad](*) [pad](*) [pad](*) [pad](*) [pad](*) [pad](*)
 
 ## mukta-m0-p253-v6303
-[that-us](tannaś) [śaṃkarī](śaṃkari) [impel](pracodayāt)
+[that](tannaśśaṃkari) [impel](pracodayāt) [pad](*) [pad](*) [pad](*) [pad](*) [pad](*) [pad](*) [pad](*) [pad](*)
 
 ## mukta-m0-p253-v6304
-[that-us](tannaḥ) [kaumārī](kaumārī) [impel](pracodayāt)
+[that](tannaḥ) [kaumārī](kaumārī) [impel](pracodayāt) [pad](*) [pad](*) [pad](*) [pad](*) [pad](*) [pad](*) [pad](*) [pad](*)
 
 ## mukta-m0-p253-v6305
-[that-us](tanno) [vaiṣṇavī](vaiṣṇavī) [impel](pracodayāt)
+[that](tanno) [vaiṣṇavī](vaiṣṇavī) [impel](pracodayāt) [pad](*) [pad](*) [pad](*) [pad](*) [pad](*) [pad](*) [pad](*) [pad](*)
 
 ## mukta-m0-p253-v6306
-[that-us](tanno) [vārāhī](vārāhī) [impel](pracodayāt)
+[that](tanno) [vārāhī](vārāhī) [impel](pracodayāt) [pad](*) [pad](*) [pad](*) [pad](*) [pad](*) [pad](*) [pad](*) [pad](*)
 
 ## mukta-m0-p253-v6307
-[that-us](tanno) [indrāṇī](indrāṇī) [impel](pracodayāt)
+[that](tanno) [indrāṇī](indrāṇī) [impel](pracodayāt) [pad](*) [pad](*) [pad](*) [pad](*) [pad](*) [pad](*) [pad](*) [pad](*)
 
 ## mukta-m0-p253-v6308
-[that-us](tannaś) [cāmuṇḍī](cāmuṇḍī) [impel](pracodayet)
+[that](tannaścāmuṇḍī) [impel](pracodayet) [pad](*) [pad](*) [pad](*) [pad](*) [pad](*) [pad](*) [pad](*) [pad](*)
 
 ## mukta-m0-p253-v6309
-[that-us](tanno) [bhairava](bhairavaḥ) [impel](pracodayāt)
+[that](tanno) [bhairava](bhairavaḥ) [impel](pracodayāt) [pad](*) [pad](*) [pad](*) [pad](*) [pad](*) [pad](*) [pad](*) [pad](*)
 
 ## mukta-m0-p253-v6310
-[that-us](tanno) [peacock](mayūraḥ) [impel](pracodayāt)
+[that](tanno) [mayūra](mayūraḥ) [impel](pracodayāt) [pad](*) [pad](*) [pad](*) [pad](*) [pad](*) [pad](*) [pad](*) [pad](*)
 
 ## mukta-m0-p253-v6311
-[that-us](tannaḥ) [skanda](skandaḥ) [impel](pracodayāt)
+[that](tannaḥ) [skanda](skandaḥ) [impel](pracodayāt) [pad](*) [pad](*) [pad](*) [pad](*) [pad](*) [pad](*) [pad](*) [pad](*)
 
 ## mukta-m0-p253-v6312
-[that-us](tanno) [elephant-lord](gajendraḥ) [impel](pracodayāt)
+[that](tanno) [gajendra](gajendraḥ) [impel](pracodayāt) [pad](*) [pad](*) [pad](*) [pad](*) [pad](*) [pad](*) [pad](*) [pad](*)
 
 ## mukta-m0-p253-v6313
-[that-us](tanno) [nandī](nandī) [impel](pracodayāt)
+[that](tanno) [nandī](nandī) [impel](pracodayāt) [pad](*) [pad](*) [pad](*) [pad](*) [pad](*) [pad](*) [pad](*) [pad](*)
 
 ## mukta-m0-p253-v6314
-[that-us](tannaś) [caṇḍa](caṇḍaḥ) [impel](pracodayāt)
+[that](tannaścaṇḍaḥ) [impel](pracodayāt) [pad](*) [pad](*) [pad](*) [pad](*) [pad](*) [pad](*) [pad](*) [pad](*)
 
 ## mukta-m0-p253-v6315
-[that-us](tannaś) [caṇḍī](caṇḍī) [impel](pracodayāt)
+[that](tannaścaṇḍī) [impel](pracodayāt) [pad](*) [pad](*) [pad](*) [pad](*) [pad](*) [pad](*) [pad](*) [pad](*)
 
 ## mukta-m0-p253-v6316
-[that-us](tanno) [swan](haṃsaḥ) [impel](pracodayāt)
+[that](tanno) [haṃsa](haṃsaḥ) [impel](pracodayāt) [pad](*) [pad](*) [pad](*) [pad](*) [pad](*) [pad](*) [pad](*) [pad](*)
 
 ## mukta-m0-p253-v6317
-[that-us](tanno) [ananta](anantaḥ) [impel](pracodayāt)
+[that](tanno'nantaḥ) [impel](pracodayāt) [pad](*) [pad](*) [pad](*) [pad](*) [pad](*) [pad](*) [pad](*) [pad](*)
 
 ## mukta-m0-p253-v6318
-[that-us](tanno) [rudra](rudraḥ) [impel](pracodayāt)
+[that](tanno) [rudra](rudraḥ) [impel](pracodayāt) [pad](*) [pad](*) [pad](*) [pad](*) [pad](*) [pad](*) [pad](*) [pad](*)
 
 ## mukta-m0-p253-v6319
-[that-us](tannaḥ) [śiva](śivaḥ) [impel](pracodayāt)
+[that](tannaḥ) [śiva](śivaḥ) [impel](pracodayāt) [pad](*) [pad](*) [pad](*) [pad](*) [pad](*) [pad](*) [pad](*) [pad](*)
 
 ## mukta-m0-p253-v6320
-[thus](iti) [pāśupata-weapon](pāśupatāstram)
+[pad](*) [pad](*) [pad](*) [pad](*) [pad](*) [pad](*) [pad](*) [pad](*) [pad](*) [thus](iti) [pāśupata-weapon](pāśupatāstram)
 
 ## mukta-m0-p253-v6321
-[om](oṃ) [flash](prasphura) [flash](prasphura) [terrible-form](ghoraghorataratanurūpa) [crack-crack](caṭacaṭa)
+[mantra](oṃ prasphura prasphura ghoraghorataratanurūpa caṭacaṭa ghātaya ghātaya)
 
 ## mukta-m0-p253-v6322
-[slay](ghātaya) [slay](ghātaya) [thus-aghora-weapon](ityaghorāstram)
+[thus](ityaghorāstram)
 
 ## mukta-m0-p253-v6323
-[thus](iti) [pāśupata-weapon](pāśupatāstram)
+[thus](iti) [pāśupata-weapon](pāśupatāstram) [pad](*) [pad](*) [pad](*) [pad](*) [pad](*) [pad](*) [pad](*) [pad](*) [pad](*)
 
 ## mukta-m0-p253-v6324
-[kaṭi-rudra-speech-holding](kaṭirudravacanavidhāri) [protect-me](rakṣamāṃ) [pratyaṃgirā-abode](pratyaṃgiredhāma)
+[protect](rakṣamāṃ) [pratyaṃgirā-dwelling](pratyaṃgiredhāma) [pad](kaṭirudravacanavidhāri) [pad](svāhā)
 
 ## mukta-m0-p253-v6325
-[svāhā](svāhā) [thus-pratyaṃgirā-weapon](iti+pratyaṃgirāstram)
+[svāhā](svāhā) [thus](iti) [pratyaṃgirā-weapon](pratyaṃgirāstram) [pad](*) [pad](*) [pad](*) [pad](*) [pad](*) [pad](*) [pad](*)

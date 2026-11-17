@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p19-v451
-[rudra-victory-and](rudrajayaśca) [brahmin-lord](viprendra) [shiva-one-foot-standing](īśānaika padasthitāḥ)
+[rudra-victory-and](rudrajayaśca) [brahmin-lord](viprendra) [ishana-one-foot-standing](īśānaika padasthitāḥ)
 
 ## mukta-m0-p19-v452
-[caraka-woman](carakī) [vidari-woman](vidārī) [and](caiva) [putana](pūtanā) [sin-demoness](pāparākṣasī)
+[caraki](carakī) [vidari](vidārī) [and-also](caiva) [putana](pūtanā) [sin-demoness](pāparākṣasī)
 
 ## mukta-m0-p19-v453
-[man](pururṣaṃ) [first](pūrvaṃ) [having-intended](saṃkalpya) [head](śiro) [becomes](bhavet)
+[man](pururṣaṃ) [first](pūrvaṃ) [intending](saṃkalpya) [rike](rīke) [head](śiro) [becomes](bhavet)
 
 ## mukta-m0-p19-v454
-[savitri](sāvitrīṃ) [moon](candra) [and](ca) [brahmin-lord](viprendra) [right-many-is-said](dakṣīmabahurucyate)
+[savitri](sāvitrīṃ) [moon](candra) [and](ca) [brahmin-lord](viprendra) [right-many-said](dakṣīmabahurucyate)
 
 ## mukta-m0-p19-v455
-[indra-victory-thus-indeed](indrajayastathaiva) [syāt](syāt) [right](dakṣiṇaṃ) [foot-is-said](pādamucyate)
+[indra-victory-thus-also](indrajayastathaiva) [becomes](syāt) [right](dakṣiṇaṃ) [foot-said](pādamucyate)
 
 ## mukta-m0-p19-v456
-[with-scents](gandhaiḥ) [with-flowers](puṣpaiśca) [with-incense](dhūpaiśca) [varuna-and-indeed](varuṇaścaiva) [worshipped](pūjitam)
+[with-scents](gandhaiḥ) [with-flowers-and](puṣpaiśca) [with-incenses-and](dhūpaiśca) [varuna-and-also](varuṇaścaiva) [worshipped](pūjitam)
 
 ## mukta-m0-p19-v457
-[east](pūrve) [four-footed](catuṣpade) [and-indeed](caiva) [eighteen](aṣṭādaśa) [tu](tu) [should-divide](bhājayet)
+[in-east](pūrve) [four-footed](catuṣpade) [and-also](caiva) [eighteen](aṣṭādaśa) [but](tu) [should-divide](bhājayet)
 
 ## mukta-m0-p19-v458
-[thus-thus](evameva) [in-order-indeed](krameṇaiva) [four-directions](caturdikṣu) [ca](ca) [should-rotate](bhrāmayet)
+[thus-thus](evameva) [in-order-also](krameṇaiva) [in-four-directions](caturdikṣu) [and](ca) [should-rotate](bhrāmayet)
 
 ## mukta-m0-p19-v459
-[outer-ear](bāhyakārṇaṃ) [in-foot](pade) [half](cārdho) [should-turn](vartayed) [circle-indeed](vṛttameva) [ca](ca)
+[outer-ear](bāhyakārṇaṃ) [in-foot](pade) [and-half](cārdho) [should-make-circle](vartayedvṛttameva) [and](ca)
 
 ## mukta-m0-p19-v460
-[per-repelling-line](prativāraṇarekhā) [ca](ca) [one-finger](ekāṃgulena) [should-make](kārayet)
+[counter-elephant-line](prativāraṇarekhā) [and](ca) [by-one-finger](ekāṃgulena) [should-make](kārayet)
 
 ## mukta-m0-p19-v461
-[by-finger-indeed](aṃgulenaiva) [earth-having](bhūmitvā)
+[by-finger-also](aṃgulenaiva) [earth-making](bhūmitvā) [star](*) [star](*) [star](*) [star](*) [star](*) [star](*) [star](*) [star](*)
 
 ## mukta-m0-p19-v462
-[by-finger-not-indeed](aṃgule naiva) [brahmin-lord](viprendra) [adornment](upaśobhāṃ) [ca](ca) [should-turn](vartayet)
+[by-finger](aṃgule) [not-also](naiva) [brahmin-lord](viprendra) [ornamentation](upaśobhāṃ) [and](ca) [should-make](vartayet)
 
 ## mukta-m0-p19-v463
-[filament](kesaraṃ) [tu](tu) [three-parts-one](tribhāgaikaṃ) [pericarp](karṇikāṃ) [ca-indeed](caiva) [should-turn](vartayet)
+[filament](kesaraṃ) [but](tu) [three-part-one](tribhāgaikaṃ) [pericarp](karṇikāṃ) [and-also](caiva) [should-make](vartayet)
 
 ## mukta-m0-p19-v464
-[liberation-giving](mokṣadaṃ) [mandala](maṇḍalaṃ) [proclaimed](proktaṃ) [peaceful-rite](śāntikaṃ) [ca](ca) [listen](śṛṇuṣvatha)
+[liberation-giving](mokṣadaṃ) [mandala](maṇḍalaṃ) [declared](proktaṃ) [pacifying](śāntikaṃ) [and](ca) [listen-now](śṛṇuṣvatha)
 
 ## mukta-m0-p19-v465
-[south-west](nair-ṛte) [peace-corner](śānakoṇe) [or](vā) [north-west-south-east-indeed](vāyavyāgneyameva) [or](vā)
+[southwest](nair-ṛte) [in-corner](śānakoṇe) [or](vā) [northwest-southeast](vāyavyāgneyameva) [or](vā)
 
 ## mukta-m0-p19-v466
-[khadira-pegs](khādirāḥ śaṃkavaḥ) [should-be-made](kāryā) [with-bilva-mango-kadamba](bilvacūtakadambakaiḥ)
+[khadira](khādirāḥ) [pegs](śaṃkavaḥ) [should-be-made](kāryā) [with-bilva-mango-kadamba](bilvacūtakadambakaiḥ)
 
 ## mukta-m0-p19-v467
-[eight-fingers-height](aṣṭāṃgulasamutsedhaṃ) [that-half](tadardhaṃ) [not-I-said](nāhamucyate)
+[eight-finger-height](aṣṭāṃgulasamutsedhaṃ) [half-of-that](tadardhaṃ) [not-I-said](nāhamucyate)
 
 ## mukta-m0-p19-v468
-[petal-length](dalāyāmaṃ) [ca](ca) [brahmin-lord](viprendra) [fourteen-fingers](caturdaśāṃgulaṃ) [becomes](bhavet)
+[petal-length](dalāyāmaṃ) [and](ca) [brahmin-lord](viprendra) [fourteen-finger](caturdaśāṃgulaṃ) [becomes](bhavet)
 
 ## mukta-m0-p19-v469
-[beauty](śobhā) [vapy](vapy) [adornment](upaśobhāṃ) [ca](ca) [should-turn](vartayet) [finger-interval](aṃgulāntarā)
+[beauty](śobhā) [or-ornamentation](vapyupaśobhāṃ) [and](ca) [should-make-finger-interval](vartayedaṃgulāntarā)
 
 ## mukta-m0-p19-v470
-[mandala](maṇḍalaṃ) [I-will-declare](saṃpravakṣyāmi) [pearl-powder](muktācūrṇena) [joined](saṃyutam)
+[mandala](maṇḍalaṃ) [will-declare](saṃpravakṣyāmi) [with-pearl-powder](muktācūrṇena) [joined](saṃyutam)
 
 ## mukta-m0-p19-v471
-[with-red-ochre-brick-powders](gairikaiṣṭaka cūrṇaiśca) [with-indra-blue-powders](indranīlasya cūrṇakaiḥ)
+[with-red-chalk-brick-powders](gairikaiṣṭaka cūrṇaiśca) [with-sapphire-powders](indranīlasya cūrṇakaiḥ)
 
 ## mukta-m0-p19-v472
-[with-turmeric-powder-joined](haridrā cūrṇasaṃyuktaṃ) [in-mandala](maṇḍale) [should-place-then](vinyasettataḥ)
+[turmeric](haridrā) [powder-joined](cūrṇasaṃyuktaṃ) [in-mandala](maṇḍale) [should-place-then](vinyasettataḥ)
 
 ## mukta-m0-p19-v473
-[middle](madhyame) [yellow-color](pītavarṇaṃ) [tu](tu) [front](agre) [white-here-is-said](śvetamihocyate)
+[in-middle](madhyame) [yellow-color](pītavarṇaṃ) [but](tu) [in-front](agre) [white-here-said](śvetamihocyate)
 
 ## mukta-m0-p19-v474
-[south-east](āgneyyāṃ) [red-color](raktavarṇaṃ) [ca](ca) [south](yāmye) [black-here-is-said](kṛṣṇamihocyate)
+[in-southeast](āgneyyāṃ) [red-color](raktavarṇaṃ) [and](ca) [in-south](yāmye) [black-here-said](kṛṣṇamihocyate)
 
 ## mukta-m0-p19-v475
-[then-end](tadante) [night](rajanīṃ) [having-placed](nyasya) [rice-paste](śālipiṣṭaṃ) [that-end](tadantake)
+[after-that](tadante) [night](rajanīṃ) [placing](nyasya) [rice-flour](śālipiṣṭaṃ) [at-end](tadantake)
