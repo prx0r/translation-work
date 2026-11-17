@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p25-v601
-[deity-accomplishment](devatāsiddhiḥ) [loss](hāniḥ) [intelligence-destruction](medhāvināśanam)
+[deity](devatā)+[accomplishment](siddhiḥ)+[loss](hāniḥ)+[intellect](medhā)+[destruction](vināśanam)
 
 ## mukta-m0-p25-v602
-[full-accomplishment](pūrṇasiddhiḥ) [splendor](pratāpaḥ) [and](ca) [knowledge-destruction-loss](hānirvijñānanāśanam)
+[complete](pūrṇa)+[accomplishment](siddhiḥ) [splendor](pratāpaḥ)+[and](ca) [loss](hāniḥ)+[knowledge](vijñāna)+[destruction](nāśanam)
 
 ## mukta-m0-p25-v603
-[thus](tathā) [loss](hāniḥ) [of-vāmin?](vāmināṃ) [auspicious-pair](mithunaṃ) [auspicious](śubham)
+[likewise](tathā) [loss](hāniḥ)+[of-the-left](vāmināṃ) [pair](mithunaṃ) [auspicious](śubham)
 
 ## mukta-m0-p25-v604
-[three-six-houses-gone](triṣaḍāyagatāḥ) [sinful](pāpāḥ) [auspicious](śubhāḥ) [angular-trinal-gone](kendratrikoṇagāḥ)
+[in-the-third-sixth-eleventh](triṣaḍāya)+[gone](gatāḥ) [malefics](pāpāḥ) [benefics](śubhāḥ) [in-kendra-and-trikona](kendra+trikoṇa)+[gone](gāḥ)
 
 ## mukta-m0-p25-v605
-[mantra](mantraḥ) [by-moon-strength](candrabale) [to-be-taken](grāhyaḥ) [otherwise](anyathā) [sin-born](aghasambhavaḥ)
+[mantra](mantraḥ)+[with-strength-of-moon](candra+bale) [to-be-taken](grāhyaḥ)+[otherwise](anyathā) [would-be](syāt)+[arising-of-sin](agha+sambhavaḥ)
 
 ## mukta-m0-p25-v606
-[accomplishment-giving](siddhipradaḥ) [middle](madhyaḥ) [sti](sti) [destruction-maker](nāśakṛt)
+[accomplishment](siddhi)+[giving](pradaḥ) [middle](madhyaḥ)+[is](asti) [not](na)+[causing-destruction](āśakṛt)
 
 ## mukta-m0-p25-v607
-[poverty](dāridryaṃ) [solar](saure) [all-prosperities](sarvasamṛddhayaḥ)
+[poverty](dāridryaṃ) [in-Saturn](saure) [all](sarva)+[prosperities](samṛddhayaḥ)
 
 ## mukta-m0-p25-v608
-[morning-rite](prātaḥkṛtyaṃ) [having-stopped](nivartya) [and](ca)
+[morning](prātaḥ)+[duties](kṛtyaṃ) [having-completed](nivartya) [and](ca)
 
 ## mukta-m0-p25-v609
-[by-rite](vidhānena) [auspicious-day](puṇyāhaṃ) [let-one-recite](vācayet) [then](tataḥ)
+[according-to-rule](vidhānena) [benedictory-rite](puṇyāhaṃ) [one-should-cause-to-recite](vācayet)+[then](tataḥ)
 
 ## mukta-m0-p25-v610
-[teacher-priest-selection-materials](ācārya-ṛtvigvaraṇasambhāraḥ) [tenfold](daśadhā) [considered](mataḥ)
+[teacher](ācārya)+[officiating-priests](ṛtvig)+[selection](varaṇa)+[materials](sambhāraḥ) [tenfold](daśadhā) [considered](mataḥ)
 
 ## mukta-m0-p25-v611
-[eight-angula-height](aṣṭāṅgulasamucchrāya) [with](sahitāni) [equal](samāni) [and](ca)
+[eight-fingers](aṣṭāṅgula)+[height](samucchrāya)+[endowed-with](sahitāni) [equal](samāni) [and](ca)
 
 ## mukta-m0-p25-v612
-[seats](viṣṭarāḥ) [in-all-sacrifices](sarvayajñeṣu) [characteristic](lakṣaṇaṃ) [declared](parikīrtitam)
+[seats](viṣṭarāḥ) [in-all-sacrifices](sarva+yajñeṣu) [characteristic](lakṣaṇaṃ) [declared](parikīrtitam)
 
 ## mukta-m0-p25-v613
-[ācāma](ācāma) [modaka-filled](modakapūritāḥ)
+[with-rice](ācā) [filled-with-sweetmeats](modaka+pūritāḥ)
 
 ## mukta-m0-p25-v614
-[madhūka-leaf-umbrellas](madhūkapatracchatrāṇi) [with-turbans](soṣṇīṣāṇi) [one-should-do](samācaret)
+[madhuka-leaf](madhūka+patra)+[umbrellas](chatrāṇi) [with-turbans](sa+uṣṇīṣāṇi) [one-should-make](samācaret)
 
 ## mukta-m0-p25-v615
-[having-done-this](kṛtvaitat) [fruit](phalam) [obtains](āpnoti) [great-sacrifice-worship-equal](mahāyajñārhaṇopamam)
+[having-done](kṛtvā)+[this](etat)+[fruit](phalam)+[obtains](āpnoti) [equal-to-great-sacrifice-honor](mahā+yajña+arhaṇa+upamam)
 
 ## mukta-m0-p25-v616
-[twice-that](taddviguṇaṃ) [should-give](dadyāt) [to-teacher](ācāryāya) [devout](subhaktimān)
+[double-of-that](tat+dviguṇaṃ) [one-should-give](dadyāt)+[to-the-teacher](ācāryāya) [with-great-devotion](su+bhaktimān)
 
 ## mukta-m0-p25-v617
-[in-that](tasmin) [sacrifice-fruit](yajñaphalaṃ) [small](svalpam) [in-non-rain](anāvṛṣṭau) [like](yathā) [of-earth](kṣiteḥ)
+[in-that](tasmin)+[fruit-of-sacrifice](yajña+phalaṃ) [small](svalpam)+[in-absence-of-rain](anāvṛṣṭau) [as-of-the-earth](yathā) [of-the-earth](kṣiteḥ)
 
 ## mukta-m0-p25-v618
-[selection-materials](varaṇasāmagrīṃ) [having-resolved](saṅkalpya) [let-one-choose](vṛṇuyāt) [teacher](gurum)
+[selection](varaṇa)+[materials](sāmagrīṃ) [having-resolved](saṅkalpya) [one-should-choose](vṛṇuyāt)+[the-teacher](gurum)
 
 ## mukta-m0-p25-v619
-[having-addressed](sambhāṣya) [you](tvām) [I](aham) [then](ca) [tataḥ?](tato) [choose](vṛṇe)
+[having-addressed](sambhāṣya) [you](tvām)+[I](aham) [and](ca) [then](tataḥ) [I-choose](vṛṇe)
 
 ## mukta-m0-p25-v620
-[work](karma) [do](kuruṣva) [thus](iti) [let-say](vadet) [child](śiśuḥ)
+[rite](karma) [perform](kuruṣva)+[thus](iti) [should-say](vadet)+[the-disciple](śiśuḥ)
 
 ## mukta-m0-p25-v621
-[brāhmaṇas](brāhmaṇān) [let-one-choose](vṛṇuyāt) [eight](aṣṭau) [veda-vedāṅga-knowing](vedavedāṅgapāragān)
+[brahmins](brāhmaṇān)+[one-should-choose](vṛṇuyāt)+[eight](aṣṭau) [versed-in-veda-and-vedangas](veda+vedāṅga+pāragān)
 
 ## mukta-m0-p25-v622
-[kuṇḍas](kuṇḍāni) [then](tadā) [four](catvāraḥ) [priests](ṛtvijaḥ) [considered](matāḥ)
+[fire-pits](kuṇḍāni) [then](tadā) [four](catvāraḥ) [officiating-priests](ṛtvijaḥ) [considered](matāḥ)
 
 ## mukta-m0-p25-v623
-[by-that-door](taddvāre) [examination](parīkṣām) [let-one-begin](ārabhet) [then](tataḥ)
+[at-its-door](tat+dvāre) [examination](parīkṣām)+[one-should-begin](ārabhet)+[then](tataḥ)
 
 ## mukta-m0-p25-v624
-[in-front](purataḥ) [on-altar](sthaṇḍile) [hand-measure](hastamātrake)
+[in-front](purataḥ) [on-the-ground-altar](sthaṇḍile) [measuring-a-cubit](hasta+mātrake)
 
 ## mukta-m0-p25-v625
-[whichever-direction-placed](yaddiśāsaṃsthaṃ) [there](tatra) [this](idam) [eastward](pūrvataḥ) [fruit](phalam)
+[which](yat)+[direction](diśā)+[situated](saṃsthaṃ) [there](tatra)+[this](idam) [in-the-east](pūrvataḥ) [result](phalam)
