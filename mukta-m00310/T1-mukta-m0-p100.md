@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p100-v2476
-[that](tām) [thus](evaṃ) [hold](dhārayet) [goddess](devi) [having-written](likhitvā) [on-birch-leaf](bhūrjapatrake)
+tām(that) evam(thus) dhārayet(hold) devi(goddess) likhitvā(having-written) bhūrjapatrake(on-birch-leaf)
 
 ## mukta-m0-p100-v2477
-[with-gold](suvarṇena) [then](atha) [wrapping](saṃveṣṭya) [hold](dhārayet) [with-red-cord](raktarajjunā)
+suvarṇena(with-gold) atha(then) saṃveṣṭya(wrap) dhārayet(hold) raktarajjunā(with-red-cord)
 
 ## mukta-m0-p100-v2478
-[of-armor](kavacasya) [this](asya) [amulet](guṭikā) [worn](dhṛtā) [liberation-giving](muktipradāyinī)
+kavacasya(of-armor) asya(this) [kh: śu] guṭikā(pill) dhṛtā(held) muktipradāyinī(liberation-giving)
 
 ## mukta-m0-p100-v2479
-[greatness](mahimā) [and](ca) [great-goddess](mahādevi) [with-hundred-crores-of-tongues](jihvākoṭiśatair) [even](api)
+mahimā(greatness) ca(and) mahādevi(great-goddess) jihvākoṭiśatairapi(tongues-crores-hundreds-even)
 
 ## mukta-m0-p100-v2480
-[unspeakable](avaktavyaṃ) [great-merit](mahāpuṇyaṃ) [all-sarasvati-giving](sarvasārasvatapradam)
+avaktavyaṃ(unspeakable) mahāpuṇyaṃ(great-merit) sarvasārasvatapradam(all-sarasvati-giving)
 
 ## mukta-m0-p100-v2481
-[to-other-disciple](anyaśiṣyāya) [to-wicked](duṣṭāya) [to-blamer](nindakāya) [of-clan-seekers](kulārthinām)
+anyaśiṣyāya(to-other-disciple) duṣṭāya(to-wicked) nindakāya(to-blamer) kulārthinām(of-family-seekers)
 
 ## mukta-m0-p100-v2482
-[to-peaceful](śāntāya) [to-clan-devoted](kulasaktāya) [to-shakta](śāktāya) [to-clan-desiring](kulakāmine)
+śāntāya(to-peaceful) kulasaktāya(to-family-attached) śāktāya(to-shakta) kulakāmine(to-family-desiring)
 
 ## mukta-m0-p100-v2483
-[secret](guhyaṃ) [most-hidden](gopyatamaṃ) [hidden](gopyaṃ) [to-be-concealed](gopanīyaṃ) [like-own-source](svayonivat)
+guhyaṃ(secret) gopyatamaṃ(most-hidden) gopyaṃ(hidden) gopanīyaṃ(to-be-hidden) svayonivat(like-own-source)
 
 ## mukta-m0-p100-v2484
-[chapter](paṭalaḥ)
+paṭalaḥ(chapter)
 
 ## mukta-m0-p100-v2485
-[secret](rahasyaṃ) [my](mama) [of-gods](devānāṃ) [rare](durlabhaṃ) [even-for-births](janmināmapi)
+rahasyaṃ(secret) mama(mine) [k: sarvadevānāṃ] devānāṃ(of-gods) durlabhaṃ(rare) janmināmapi(even-for-births)
 
 ## mukta-m0-p100-v2486
-[thousand-mantra-names](mantranāmasahasraṃ) [and](ca) [of-durga](durgāyāḥ) [merit-giving](puṇyadaṃ) [supreme](param)
+mantranāmasahasraṃ(mantra-name-thousand) ca(and) durgāyāḥ(of-durga) puṇyadaṃ(merit-giving) param(supreme)
 
 ## mukta-m0-p100-v2487
-[here](iha) [enjoyer](bhogī) [there-even](paratrāpi) [liberated-while-living](jīvanmukto) [becomes](bhavennaraḥ)
+iha(here) bhogī(enjoyer) paratrāpi(hereafter-too) jīvanmukto(liberated-while-living) bhavennaraḥ(becomes-man)
 
 ## mukta-m0-p100-v2488
-[from-ten-thousand-horse-sacrifices](aśvamedhāyutāt) [merit](puṇyaṃ) [in-world](loke) [fortune-increasing](saubhāgyavardhanam)
+aśvamedhāyutāt(from-ten-thousand-horse-sacrifices) puṇyaṃ(merit) loke(in-world) saubhāgyavardhanam(fortune-increasing)
 
 ## mukta-m0-p100-v2489
-[secret](guhyaṃ) [most-hidden](gopyatamaṃ) [goddess](devi) [by-reading](paṭhanāt) [accomplishment-giving](siddhidāyakam)
+guhyaṃ(secret) gopyatamaṃ(most-hidden) devi(goddess) paṭhanāt(by-reading) siddhidāyakam(accomplishment-giving)
 
 ## mukta-m0-p100-v2490
-[fierce](pracaṇḍā) [caṇḍikā](caṇḍikā) [caṇḍī](caṇḍī) [killer-of-caṇḍa-muṇḍa](caṇḍamuṇḍanisūdinī)
+pracaṇḍā(fierce) caṇḍikā(chandika) caṇḍī(chandi) caṇḍamuṇḍanisūdinī(chanda-munda-slayer)
 
 ## mukta-m0-p100-v2491
-[dissolution](pralayā) [preservation](sthitiḥ) [creation](saṃbhūtir) [manifestation](vibhūtir) [fear-destroying](bhayanāśinī)
+pralayā(dissolution) sthitiḥ(stability) saṃbhūtirvibhūtirbhayanāśinī(manifestation-power-fear-destroyer)
 
 ## mukta-m0-p100-v2492
-[intoxicated-languid](madālasā) [high-intoxication](madottuṅgā) [wine](madirā) [love-dear](madanapriyā)
+madālasā(intoxicated-lazy) madottuṅgā(intoxicated-exalted) madirā(wine) madanapriyā(love-dear)
 
 ## mukta-m0-p100-v2493
-[prime-goddess](ādidevī) [art](kalā) [beloved](kāntā) [tripura](tripurā) [world-lady](jagadīśvarī)
+ādidevī(primordial-goddess) kalā(art) kāntā(beloved) tripurā(tripura) jagadīśvarī(world-lady)
 
 ## mukta-m0-p100-v2494
-[river](sarit) [kādambarī](kādambarī) [lizard](godhā) [secret-kālī](guhyakālī) [gaṇeśa-lady](gaṇeśvarī)
+saritkādambarī(river-kadambari) godhā(iguana) guhyakālī(secret-kali) gaṇeśvarī(ganesvari)
 
 ## mukta-m0-p100-v2495
-[asceticism-filled](tapomayī) [hard-to-attain](durālamvā) [evil-planet-averting](duṣṭagrahanivāriṇī)
+tapomayī(austerity-filled) durālamvā(hard-to-attain) duṣṭagrahanivāriṇī(wicked-planet-averter)
 
 ## mukta-m0-p100-v2496
-[nectar](sudhā) [moon-abode](sudhāṃśunilayā) [resembling-dissolution-fire](pralayānalasaṃnibhā)
+sudhā(nectar) sudhāṃśunilayā(moon-abode) pralayānalasaṃnibhā(dissolution-fire-like)
 
 ## mukta-m0-p100-v2497
-[knowledge-lady](vidyeśvarī) [universe-filled](viśvamayī) [cosmic](virāṭ) [meter](chando) [movement](gatirmatiḥ)
+vidyeśvarī(knowledge-lady) viśvamayī(universe-filled) virāṭ(virat) chando(meter) gatirmatiḥ(path-mind)
 
 ## mukta-m0-p100-v2498
-[heaviest](gariṣṭhā) [misfortune-destroying](ariṣṭahā) [blameless](aduṣṭā) [compassion](kṛpā) [kashi](kāśī) [clan-and-nonclan](kulākulā)
+gariṣṭhāriṣṭahā'duṣṭā(heaviest-calamity-destroyer-undistressed) kṛpā(mercy) kāśī(kashi) kulākulā(kula-akula)
 
 ## mukta-m0-p100-v2499
-[odd-eyed](virūpākṣī) [hollow-eyed](koṭarākṣī) [clan-beloved](kulakāntā) [unconquered](parājitā)
+virūpākṣī(odd-eyed) koṭarākṣī(hollow-eyed) kulakāntāparājitā(family-beloved-unconquered)
 
 ## mukta-m0-p100-v2500
-[triad](tritayī) [vedic-arrangement](vedavinyāsā) [renunciation](saṃnyāsā) [good-mind](sumatir) [fear](bhayā)
+tritayī(triad) (100) vedavinyāsā(veda-arrangement) saṃnyāsā(renunciation) sumatirbhayā(good-mind-fear)

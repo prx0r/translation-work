@@ -16,11 +16,11 @@
 },
 {
 "surface": "durgā",
-"quick_gloss": "durga"
+"quick_gloss": "Durga"
 },
 {
 "surface": "navarūpātmikā",
-"quick_gloss": "nine-form-essence"
+"quick_gloss": "nine-form-natured"
 },
 {
 "surface": "parā",
@@ -41,7 +41,7 @@
 },
 {
 "surface": "durgeti",
-"quick_gloss": "durga-thus"
+"quick_gloss": "Durga-thus"
 },
 {
 "surface": "smṛtā",
@@ -65,12 +65,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "mahiṣasyāsurendrasya",
-"quick_gloss": "of-mahisha-asura-lord"
+"surface": "vadhārthāya",
+"quick_gloss": "for-slaying"
 },
 {
-"surface": "vadhārthāyāvatāritā",
-"quick_gloss": "for-slaying-purpose-descended"
+"surface": "mahiṣasyāsurendrasya",
+"quick_gloss": "buffalo-demon-lord"
+},
+{
+"surface": "avatāritā",
+"quick_gloss": "descended"
 }
 ]
 },
@@ -95,7 +99,7 @@
 },
 {
 "surface": "śrīvidyāṃ",
-"quick_gloss": "shri-vidya"
+"quick_gloss": "Shri-vidya"
 },
 {
 "surface": "paramāṃ",
@@ -120,27 +124,27 @@
 },
 {
 "surface": "śrutvā",
-"quick_gloss": "having-heard"
+"quick_gloss": "hearing"
 },
 {
 "surface": "sa",
-"quick_gloss": "he"
+"quick_gloss": "that"
 },
 {
 "surface": "śivo",
-"quick_gloss": "shiva"
+"quick_gloss": "Shiva"
 },
 {
 "surface": "jātaḥ",
-"quick_gloss": "born"
+"quick_gloss": "became"
 },
 {
 "surface": "pañcanādātmakaḥ",
-"quick_gloss": "five-sound-essence"
+"quick_gloss": "five-sound-natured"
 },
 {
 "surface": "śivaḥ",
-"quick_gloss": "shiva"
+"quick_gloss": "Shiva"
 }
 ]
 },
@@ -152,8 +156,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "sākṣādbhuvanarūpāpi",
-"quick_gloss": "directly-world-form-even"
+"surface": "sākṣāt",
+"quick_gloss": "directly"
+},
+{
+"surface": "bhuvanarūpā",
+"quick_gloss": "world-form"
+},
+{
+"surface": "api",
+"quick_gloss": "also"
 },
 {
 "surface": "mahājyotiḥsvarūpiṇī",
@@ -170,11 +182,11 @@
 "tokens": [
 {
 "surface": "śivaḥ",
-"quick_gloss": "shiva"
+"quick_gloss": "Shiva"
 },
 {
 "surface": "prabhāmaṇḍalato",
-"quick_gloss": "from-light-circle"
+"quick_gloss": "from-radiance-orb"
 },
 {
 "surface": "nirgato",
@@ -203,7 +215,7 @@
 },
 {
 "surface": "agramanunāyakaḥ",
-"quick_gloss": "fierce-leader"
+"quick_gloss": "first-leader"
 }
 ]
 },
@@ -216,15 +228,11 @@
 "tokens": [
 {
 "surface": "śivo",
-"quick_gloss": "shiva"
+"quick_gloss": "Shiva"
 },
 {
 "surface": "jajāpa",
-"quick_gloss": "chanted"
-},
-{
-"surface": "sahasā",
-"quick_gloss": "suddenly"
+"quick_gloss": "suddenly-chanted"
 },
 {
 "surface": "bījaṃ",
@@ -236,7 +244,7 @@
 },
 {
 "surface": "śive",
-"quick_gloss": "to-shiva"
+"quick_gloss": "to-Shiva"
 }
 ]
 },
@@ -273,16 +281,12 @@
 "quick_gloss": "sound"
 },
 {
-"surface": "sa",
-"quick_gloss": "he"
-},
-{
-"surface": "śuśrāva",
-"quick_gloss": "heard"
+"surface": "sa+śuśrāva",
+"quick_gloss": "he-heard"
 },
 {
 "surface": "duṣṭavarṇavivarjitam",
-"quick_gloss": "evil-letter-devoid"
+"quick_gloss": "free-from-bad-syllables"
 }
 ]
 },
@@ -310,8 +314,12 @@
 "quick_gloss": "vidya"
 },
 {
-"surface": "asṛjajjagadambike",
+"surface": "asṛjat",
 "quick_gloss": "created"
+},
+{
+"surface": "jagadambike",
+"quick_gloss": "world-mother"
 }
 ]
 },
@@ -324,15 +332,15 @@
 "tokens": [
 {
 "surface": "icchāmātraṃ",
-"quick_gloss": "by-will-only"
+"quick_gloss": "by-will-alone"
 },
 {
 "surface": "śive",
-"quick_gloss": "shiva"
+"quick_gloss": "O-Shiva"
 },
 {
 "surface": "viśvaṃ",
-"quick_gloss": "universe"
+"quick_gloss": "world"
 },
 {
 "surface": "viśveśvari",
@@ -364,16 +372,12 @@
 "quick_gloss": "secret-vidya"
 },
 {
-"surface": "tu",
-"quick_gloss": "indeed"
-},
-{
 "surface": "labdhvā",
 "quick_gloss": "having-obtained"
 },
 {
 "surface": "gurupadārcanāt",
-"quick_gloss": "guru-feet-worship"
+"quick_gloss": "from-guru-foot-worship"
 }
 ]
 },
@@ -393,28 +397,16 @@
 "quick_gloss": "fire"
 },
 {
-"surface": "ca",
-"quick_gloss": "and"
-},
-{
-"surface": "kāmaṃ",
+"surface": "ca+kāmaṃ",
 "quick_gloss": "desire"
 },
 {
-"surface": "ca",
-"quick_gloss": "and"
-},
-{
-"surface": "dhanaṃ",
+"surface": "ca+dhanaṃ",
 "quick_gloss": "wealth"
 },
 {
-"surface": "vṛttaṃ",
+"surface": "ca+vṛttaṃ",
 "quick_gloss": "conduct"
-},
-{
-"surface": "ca",
-"quick_gloss": "and"
 },
 {
 "surface": "sādhakaḥ",
@@ -430,8 +422,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "śrīcakramidamādhāraṃ",
-"quick_gloss": "shri-chakra-this-support"
+"surface": "śrīcakram",
+"quick_gloss": "Shri-chakra"
+},
+{
+"surface": "idam",
+"quick_gloss": "this"
+},
+{
+"surface": "ādhāraṃ",
+"quick_gloss": "support"
 },
 {
 "surface": "devyā",
@@ -439,7 +439,7 @@
 },
 {
 "surface": "vibhavakāraṇam",
-"quick_gloss": "power-cause"
+"quick_gloss": "glory-cause"
 }
 ]
 },
@@ -455,7 +455,7 @@
 "quick_gloss": "chakra"
 },
 {
-"surface": "likhen",
+"surface": "likhet",
 "quick_gloss": "draw"
 },
 {
@@ -481,23 +481,15 @@
 "tokens": [
 {
 "surface": "cakre",
-"quick_gloss": "in-chakra"
+"quick_gloss": "chakra"
 },
 {
 "surface": "saṃpūjayet",
-"quick_gloss": "worship"
-},
-{
-"surface": "yaḥ",
-"quick_gloss": "who"
-},
-{
-"surface": "tu",
-"quick_gloss": "tu"
+"quick_gloss": "whoever-worships"
 },
 {
 "surface": "nīlābhāṃ",
-"quick_gloss": "blue-radiance"
+"quick_gloss": "blue"
 },
 {
 "surface": "dāhanīṃ",
@@ -505,7 +497,7 @@
 },
 {
 "surface": "dyutim",
-"quick_gloss": "splendor"
+"quick_gloss": "radiance"
 }
 ]
 },
@@ -521,12 +513,8 @@
 "quick_gloss": "shining-crown-radiant"
 },
 {
-"surface": "sa",
-"quick_gloss": "he"
-},
-{
-"surface": "bhavet",
-"quick_gloss": "becomes"
+"surface": "sa+bhavet",
+"quick_gloss": "he-becomes"
 },
 {
 "surface": "sādhakottamaḥ",
@@ -543,7 +531,7 @@
 "tokens": [
 {
 "surface": "maheśvari",
-"quick_gloss": "great-lady"
+"quick_gloss": "great-goddess"
 }
 ]
 },
@@ -567,8 +555,12 @@
 "quick_gloss": "are-pleased"
 },
 {
-"surface": "sādhakasyāṅgapūjanāt",
-"quick_gloss": "practitioner's-limb-worship"
+"surface": "sādhakasya",
+"quick_gloss": "of-practitioner"
+},
+{
+"surface": "aṅgapūjanāt",
+"quick_gloss": "limb-worship"
 }
 ]
 },
@@ -581,7 +573,7 @@
 "tokens": [
 {
 "surface": "vidrutāḥ",
-"quick_gloss": "fled"
+"quick_gloss": "melted"
 }
 ]
 },
@@ -594,11 +586,11 @@
 "tokens": [
 {
 "surface": "durgā",
-"quick_gloss": "durga"
+"quick_gloss": "Durga"
 },
 {
 "surface": "ratnavatī",
-"quick_gloss": "jeweled"
+"quick_gloss": "gem-like"
 },
 {
 "surface": "bhūmiḥ",
@@ -639,7 +631,7 @@
 },
 {
 "surface": "durgāṃ",
-"quick_gloss": "durga"
+"quick_gloss": "Durga"
 },
 {
 "surface": "durgatināśinīm",
@@ -656,7 +648,7 @@
 "tokens": [
 {
 "surface": "avaktavyam",
-"quick_gloss": "not-to-be-spoken"
+"quick_gloss": "unspeakable"
 },
 {
 "surface": "adātavyaṃ",
@@ -668,7 +660,7 @@
 },
 {
 "surface": "svayonivat",
-"quick_gloss": "like-own-source"
+"quick_gloss": "like-own-womb"
 }
 ]
 }

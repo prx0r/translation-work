@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p253-v6301
-[that-our](tanno) [hero](vīraḥ) [impel](pracodayāt) [*](*) [*](*) [*](*) [*](*) [*](*) [*](*) [*](*) [*](*)
+[that+us](tanno) [hero](vīraḥ) [impel](pracodayāt) [mantra](*) [mantra](*) [mantra](*) [mantra](*) [mantra](*) [mantra](*) [mantra](*) [mantra](*)
 
 ## mukta-m0-p253-v6302
-[that-our](tanno) [brahmi](brāhmī) [impel](pracodayāt) [*](*) [*](*) [*](*) [*](*) [*](*) [*](*) [*](*) [*](*)
+[that+us](tanno) [brahmic](brāhmī) [impel](pracodayāt) [mantra](*) [mantra](*) [mantra](*) [mantra](*) [mantra](*) [mantra](*) [mantra](*) [mantra](*)
 
 ## mukta-m0-p253-v6303
-[that-our](tannaśśaṃkari) [shankari](śaṃkari) [impel](pracodayāt) [*](*) [*](*) [*](*) [*](*) [*](*) [*](*) [*](*) [*](*)
+[that+us](tannaśśaṃkari) [shankari](śaṃkari) [impel](pracodayāt) [mantra](*) [mantra](*) [mantra](*) [mantra](*) [mantra](*) [mantra](*) [mantra](*) [mantra](*)
 
 ## mukta-m0-p253-v6304
-[that-our](tannaḥ) [kaumari](kaumārī) [impel](pracodayāt) [*](*) [*](*) [*](*) [*](*) [*](*) [*](*) [*](*) [*](*)
+[that+us](tannaḥ) [kaumari](kaumārī) [impel](pracodayāt) [mantra](*) [mantra](*) [mantra](*) [mantra](*) [mantra](*) [mantra](*) [mantra](*) [mantra](*)
 
 ## mukta-m0-p253-v6305
-[that-our](tanno) [vaishnavi](vaiṣṇavī) [impel](pracodayāt) [*](*) [*](*) [*](*) [*](*) [*](*) [*](*) [*](*) [*](*)
+[that+us](tanno) [vaishnavi](vaiṣṇavī) [impel](pracodayāt) [mantra](*) [mantra](*) [mantra](*) [mantra](*) [mantra](*) [mantra](*) [mantra](*) [mantra](*)
 
 ## mukta-m0-p253-v6306
-[that-our](tanno) [varahi](vārāhī) [impel](pracodayāt) [*](*) [*](*) [*](*) [*](*) [*](*) [*](*) [*](*) [*](*)
+[that+us](tanno) [varahi](vārāhī) [impel](pracodayāt) [mantra](*) [mantra](*) [mantra](*) [mantra](*) [mantra](*) [mantra](*) [mantra](*) [mantra](*)
 
 ## mukta-m0-p253-v6307
-[that-our](tanno) [indrani](indrāṇī) [impel](pracodayāt) [*](*) [*](*) [*](*) [*](*) [*](*) [*](*) [*](*) [*](*)
+[that+us](tanno) [indrani](indrāṇī) [impel](pracodayāt) [mantra](*) [mantra](*) [mantra](*) [mantra](*) [mantra](*) [mantra](*) [mantra](*) [mantra](*)
 
 ## mukta-m0-p253-v6308
-[that-our](tannaścāmuṇḍī) [chamundi](cāmuṇḍī) [impel](pracodayet) [*](*) [*](*) [*](*) [*](*) [*](*) [*](*) [*](*) [*](*)
+[that+us](tannaścāmuṇḍī) [camundi](cāmuṇḍī) [impel](pracodayet) [mantra](*) [mantra](*) [mantra](*) [mantra](*) [mantra](*) [mantra](*) [mantra](*) [mantra](*)
 
 ## mukta-m0-p253-v6309
-[that-our](tanno) [bhairava](bhairavaḥ) [impel](pracodayāt) [*](*) [*](*) [*](*) [*](*) [*](*) [*](*) [*](*) [*](*)
+[that+us](tanno) [bhairava](bhairavaḥ) [impel](pracodayāt) [mantra](*) [mantra](*) [mantra](*) [mantra](*) [mantra](*) [mantra](*) [mantra](*) [mantra](*)
 
 ## mukta-m0-p253-v6310
-[that-our](tanno) [mayura](mayūraḥ) [impel](pracodayāt) [*](*) [*](*) [*](*) [*](*) [*](*) [*](*) [*](*) [*](*)
+[that+us](tanno) [mayura](mayūraḥ) [impel](pracodayāt) [mantra](*) [mantra](*) [mantra](*) [mantra](*) [mantra](*) [mantra](*) [mantra](*) [mantra](*)
 
 ## mukta-m0-p253-v6311
-[that-our](tannaḥ) [skanda](skandaḥ) [impel](pracodayāt) [*](*) [*](*) [*](*) [*](*) [*](*) [*](*) [*](*) [*](*)
+[that+us](tannaḥ) [skanda](skandaḥ) [impel](pracodayāt) [mantra](*) [mantra](*) [mantra](*) [mantra](*) [mantra](*) [mantra](*) [mantra](*) [mantra](*)
 
 ## mukta-m0-p253-v6312
-[that-our](tanno) [gajendra](gajendraḥ) [impel](pracodayāt) [*](*) [*](*) [*](*) [*](*) [*](*) [*](*) [*](*) [*](*)
+[that+us](tanno) [gajendra](gajendraḥ) [impel](pracodayāt) [mantra](*) [mantra](*) [mantra](*) [mantra](*) [mantra](*) [mantra](*) [mantra](*) [mantra](*)
 
 ## mukta-m0-p253-v6313
-[that-our](tanno) [nandi](nandī) [impel](pracodayāt) [*](*) [*](*) [*](*) [*](*) [*](*) [*](*) [*](*) [*](*)
+[that+us](tanno) [nandi](nandī) [impel](pracodayāt) [mantra](*) [mantra](*) [mantra](*) [mantra](*) [mantra](*) [mantra](*) [mantra](*) [mantra](*)
 
 ## mukta-m0-p253-v6314
-[that-our](tannaścaṇḍaḥ) [chanda](caṇḍaḥ) [impel](pracodayāt) [*](*) [*](*) [*](*) [*](*) [*](*) [*](*) [*](*) [*](*)
+[that+us](tannaścaṇḍaḥ) [chanda](caṇḍaḥ) [impel](pracodayāt) [mantra](*) [mantra](*) [mantra](*) [mantra](*) [mantra](*) [mantra](*) [mantra](*) [mantra](*)
 
 ## mukta-m0-p253-v6315
-[that-our](tannaścaṇḍī) [chandi](caṇḍī) [impel](pracodayāt) [*](*) [*](*) [*](*) [*](*) [*](*) [*](*) [*](*) [*](*)
+[that+us](tannaścaṇḍī) [chandi](caṇḍī) [impel](pracodayāt) [mantra](*) [mantra](*) [mantra](*) [mantra](*) [mantra](*) [mantra](*) [mantra](*) [mantra](*)
 
 ## mukta-m0-p253-v6316
-[that-our](tanno) [hamsa](haṃsaḥ) [impel](pracodayāt) [*](*) [*](*) [*](*) [*](*) [*](*) [*](*) [*](*) [*](*)
+[that+us](tanno) [hamsa](haṃsaḥ) [impel](pracodayāt) [mantra](*) [mantra](*) [mantra](*) [mantra](*) [mantra](*) [mantra](*) [mantra](*) [mantra](*)
 
 ## mukta-m0-p253-v6317
-[that-our](tanno'nantaḥ) [ananta](anantaḥ) [impel](pracodayāt) [*](*) [*](*) [*](*) [*](*) [*](*) [*](*) [*](*) [*](*)
+[that+us](tanno'nantaḥ) [ananta](anantaḥ) [impel](pracodayāt) [mantra](*) [mantra](*) [mantra](*) [mantra](*) [mantra](*) [mantra](*) [mantra](*) [mantra](*)
 
 ## mukta-m0-p253-v6318
-[that-our](tanno) [rudra](rudraḥ) [impel](pracodayāt) [*](*) [*](*) [*](*) [*](*) [*](*) [*](*) [*](*) [*](*)
+[that+us](tanno) [rudra](rudraḥ) [impel](pracodayāt) [mantra](*) [mantra](*) [mantra](*) [mantra](*) [mantra](*) [mantra](*) [mantra](*) [mantra](*)
 
 ## mukta-m0-p253-v6319
-[that-our](tannaḥ) [shiva](śivaḥ) [impel](pracodayāt) [*](*) [*](*) [*](*) [*](*) [*](*) [*](*) [*](*) [*](*)
+[that+us](tannaḥ) [shiva](śivaḥ) [impel](pracodayāt) [mantra](*) [mantra](*) [mantra](*) [mantra](*) [mantra](*) [mantra](*) [mantra](*) [mantra](*)
 
 ## mukta-m0-p253-v6320
-[thus](iti) [pashupata-weapon](pāśupatāstram) [*](*) [*](*) [*](*) [*](*) [*](*) [*](*) [*](*) [*](*)
+[thus](iti) [pashupata-weapon](pāśupatāstram) [mantra](*) [mantra](*) [mantra](*) [mantra](*) [mantra](*) [mantra](*) [mantra](*) [mantra](*) [mantra](*)
 
 ## mukta-m0-p253-v6321
-[mantra](oṃ prasphura prasphura ghoraghorataratanurūpa caṭacaṭa) [strike](ghātaya) [strike](ghātaya)
+[om](oṃ) [flash](prasphura) [flash](prasphura) [terrible-form](ghoraghorataratanurūpa) [crack](caṭacaṭa) [mantra](*) [mantra](*) [mantra](*) [mantra](*) [mantra](*) [mantra](*) [mantra](*) [mantra](*)
 
 ## mukta-m0-p253-v6322
-[strike](ghātaya) [strike](ghātaya) [thus-aghora-weapon](ityaghorāstram)
+[slay](ghātaya) [slay](ghātaya) [thus-aghora-weapon](ityaghorāstram) [mantra](*) [mantra](*) [mantra](*) [mantra](*) [mantra](*) [mantra](*) [mantra](*) [mantra](*)
 
 ## mukta-m0-p253-v6323
-[thus](iti) [pashupata-weapon](pāśupatāstram) [*](*) [*](*) [*](*) [*](*) [*](*) [*](*) [*](*) [*](*)
+[thus](iti) [pashupata-weapon](pāśupatāstram) [mantra](*) [mantra](*) [mantra](*) [mantra](*) [mantra](*) [mantra](*) [mantra](*) [mantra](*) [mantra](*)
 
 ## mukta-m0-p253-v6324
-[kaṭirudra-vow-holding](kaṭirudravacanavidhāri) [protect-me](rakṣamāṃ) [pratyngira-abode](pratyaṃgiredhāma)
+[protect-me](rakṣamāṃ) [pratyngira-abode](pratyaṃgiredhāma) [mantra](*) [mantra](*) [mantra](*) [mantra](*) [mantra](*) [mantra](*) [mantra](*) [mantra](*) [mantra](*)
 
 ## mukta-m0-p253-v6325
-[svaha](svāhā) [thus-pratyngira-weapon](iti pratyaṃgirāstram) [*](*) [*](*) [*](*) [*](*) [*](*) [*](*)
+[svaha](svāhā) [thus-pratyngira-weapon](iti) [pratyngira-weapon](pratyaṃgirāstram) [mantra](*) [mantra](*) [mantra](*) [mantra](*) [mantra](*) [mantra](*) [mantra](*) [mantra](*) [mantra](*)
