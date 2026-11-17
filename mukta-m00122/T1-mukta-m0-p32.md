@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p32-v776
-[flower](kusumair) [month](māsa)+[measure](mātreṇa) [nāga-girl](nāga+kanyāḥ) [gather](sametyatam)
+[with-flowers](kusumaiḥ) [month-measure](māsamātreṇa) [nāga-daughters](nāgakanyāḥ) [assemble](sametyatam)
 
 ## mukta-m0-p32-v777
-[yakṣa](yakṣa)+[rākṣasa](rākṣasa)+[gandharva](gandharva)+[siddha](siddha)+[vidyādhara](vidyādhara)+[woman](aṅganāḥ)
+[yakṣa](yakṣa) [rākṣasa](rākṣasa) [gandharva](gandharva) [siddha](siddha) [vidyādhara](vidyādhara) [women](aṅganāḥ)
 
 ## mukta-m0-p32-v778
-[accomplish](siddhyanti) [worship](pūjanāt)+[there](tatra) [thus](tathā) [that](tat)+[spoken](prokta)+[time](kālataḥ)
+[accomplish](siddhyanti) [worship](pūjanāt) [there](tatra) [thus](tathā) [that-stated-time](tatproktakālataḥ)
 
 ## mukta-m0-p32-v779
-[red-lotus](raktotpala)+[horse-accomplishment](aśvasiddhyai) [water-lily](kumudaiḥ) [donkey-accomplishment](kharasiddhaye)
+[red-lotuses](raktotpalaiḥ) [horse-accomplishment](aśvasiddhyai) [water-lilies](kumudaiḥ) [donkey-accomplishment](kharasiddhaye)
 
 ## mukta-m0-p32-v780
-[citron](jambīraiḥ)+[buffalo-obtaining](mahiṣāvāptyai) [lakuca](lakucaiḥ)+[goat-accomplishment](ajasiddhaye)
+[citrons](jambīraiḥ) [buffalo-obtainment](mahiṣāvāptyai) [lakuca](lakucaiḥ) [goat-accomplishment](ajasiddhaye)
 
 ## mukta-m0-p32-v781
-[bakula](bakulaiḥ)+[woman-accomplishment](aṅganāsiddhyai) [kalhāra](kalhāraiḥ)+[son-accomplishment](putrasiddhaye)
+[bakula](bakulaiḥ) [women-accomplishment](aṅganāsiddhyai) [kalhāra](kalhāraiḥ) [son-accomplishment](putrasiddhaye)
 
 ## mukta-m0-p32-v782
-[fragrant-etc](saurabhādyaiḥ) [flower](prasūnaiḥ)+[always](nityaṃ) [fortune-accomplishment](saubhāgyasiddhaye)
+[fragrant-etc](saurabhādyaiḥ) [flowers](prasūnaiḥ) [always](nityaṃ) [good-fortune-accomplishment](saubhāgyasiddhaye)
 
 ## mukta-m0-p32-v783
-[this](etat)+[circle-worship](cakrārcanaṃ) [lalitā](lalitā)+[daily](nityāyā) [only](eva) [not](nā)+[others](nyāsām) [that](taṃ) [sādhaka](sādhakam)
+[this](etat) [wheel-worship](cakrārcanam) [lalitā](lalitā) [nityā](nityā) [only](eva) [not-others](nānyāsām) [that](taṃ) [sādhaka](sādhakam)
 
 ## mukta-m0-p32-v784
-[yakṣa-etc](yakṣetyādayo) [deity](devatā)+[specific](viśeṣāḥ) [there](tatra) [heroes](vīrā) [human-siddha-form](manuṣyasiddharūpāḥ)
+[yakṣa-etc](yakṣetyādayaḥ) [deities](devatā) [specific](viśeṣāḥ) [there](tatra) [heroes](vīrāḥ) [human-siddha-form](manuṣyasiddharūpāḥ)
 
 ## mukta-m0-p32-v785
 [chariot-swing-etc-accomplishment](syandanāndolikādisiddhaye)
 
 ## mukta-m0-p32-v786
-[until](yāvat)+[fruit-obtaining](phalāpti) [or](vā) [milk-sugar-ghee-pudding](kṣīraśarkarāghṛtapāyasaiḥ)
+[until-fruit-obtainment](yāvatphalāpti) [or](vā) [milk-sugar-ghee-pudding](kṣīraśarkarāghṛtapāyasaiḥ)
 
 ## mukta-m0-p32-v787
-[satisfy](tarpayet) [flower](kusumaiḥ) [with-arghya](sārghyaiḥ) [all-calamity-peace](sarvopaplavaśāntaye)
+[satisfy](tarpayet) [flowers](kusumaiḥ) [with-arghya](sārghyaiḥ) [all-calamity-peace](sarvopaplavaśāntaye)
 
 ## mukta-m0-p32-v788
-[milk](dugdhair)+[health-accomplishment](ārogyasaṃsiddhyai) [three](tribhiḥ)+[lordship-accomplishment](aiśvaryasiddhaye)
+[milks](dugdhair) [health-accomplishment](ārogyasaṃsiddhyai) [three](tribhiḥ) [lordship-accomplishment](aiśvaryasiddhaye)
 
 ## mukta-m0-p32-v789
-[all-purpose-accomplishment](sarvārthasiddhaye) [water](toyai) [sprinkle](abhiṣiñcet)+[great-lady](maheśvarīm)
+[all-purposes-accomplishment](sarvārthasiddhaye) [waters](toyaiḥ) [sprinkle](abhiṣiñcet) [great-goddess](maheśvarīm)
 
 ## mukta-m0-p32-v790
-[dwelling](nivasaṃs)+[there](tatra) [that](tat)+[flower](puṣpaiḥ)+[become](jāyate) [another](aparaḥ) [cupid](manmathaḥ)
+[dwelling](nivasaṃs) [there](tatra) [those-flowers](tatpuṣpaiḥ) [becomes](jāyate) [another-cupid](manmatho'paraḥ)
 
 ## mukta-m0-p32-v791
-[rite](kṛtyāḥ) [by-other-sent](pareritā) [mantra](mantrā) [averted](vimukhās)+[those](tān) [swallow](grasanti) [indeed](vai)
+[spells](kṛtyāḥ) [by-another-sent](pareritā) [mantras](mantrāḥ) [averted](vimukhāḥ) [those](tān) [devour](grasanti) [indeed](vai)
 
 ## mukta-m0-p32-v792
-[all-offerings](sarvanaivedyāni)+[thus-meaning](ityarthaḥ)
+[all-offerings](sarvanaivedyāni) [thus-meaning](ityarthaḥ)
 
 ## mukta-m0-p32-v793
-[daily-worship-mantra](nityapūjāmantraiḥ)+[that-order](tatkrameṇa) [give](dadyāt) [thereby](tena) [all-calamity-peace](sarvopaplavaśāntiḥ)+[become](bhavati)
+[daily-worship-mantras](nityapūjāmantraiḥ) [that-order](tatkrameṇa) [give](dadyāt) [thereby](tena) [all-calamity-peace](sarvopaplavaśāntiḥ) [becomes](bhavati)
 
 ## mukta-m0-p32-v794
-[three](tribhiḥ) [spoken](proktaiḥ) [pleasure](prītyai) [self-completion](svanirvṛttaye)
+[three](tribhiḥ) [stated](proktaiḥ) [for-pleasure](prītyai) [own-completion](svanirvṛttaye)
 
 ## mukta-m0-p32-v795
-[worship](pūjayan)+[desired](niṣṭam) [all](akhilaṃ) [obtain](labhate)+[here](atra) [there](paratra) [and](ca)
+[worshipping](pūjayan) [desired](niṣṭam) [all](akhilaṃ) [obtains](labhate) [here](atra) [there](paratra) [and](ca)
 
 ## mukta-m0-p32-v796
-[worship](pūjayet)+[month-measure](māsamātreṇa) [previous-birth-sins](prāgjanmāghaiḥ)+[released](vimucyate)
+[worship](pūjayet) [month-measure](māsamātreṇa) [previous-birth-sins](prāgjanmāghaiḥ) [released](vimucyate)
 
 ## mukta-m0-p32-v797
-[released](vimuktaḥ) [all-sin-mass](sarvapāpaugha)+[those](istāṃ) [see](paśyati) [and](ca) [eye](cakṣuṣā)
+[released](vimuktaḥ) [all-sin-masses](sarvapāpaughaiḥ) [her](tāṃ) [sees](paśyati) [with-eye](ca cakṣuṣā)
 
 ## mukta-m0-p32-v798
-[released](mucyate) [sin-act-etc-suffering](pāpakṛtyādiduḥkhair)+[even](api) [more-terrible](ghoratarair)
+[released](mucyate) [sin-deed-etc-sufferings](pāpakṛtyādiduḥkhaiḥ) [even-terrible](ghoratarairapi)
 
 ## mukta-m0-p32-v799
-[meditating](bhāvayan)+[objects](viṣayaiḥ) [flower](puṣpaiḥ) [worship](pūjayaṃs)+[that-may](tanmayo) [become](bhavet)
+[meditating](bhāvayan) [objects](viṣayaiḥ) [flowers](puṣpaiḥ) [worshipping](pūjayaṃs) [becomes-identified](tanmayo bhavet)
 
 ## mukta-m0-p32-v800
-[six-fold-worship](ṣaṭprakārabhajanam)+[teach](upadiśati) [there](tatra) [that](tat)+[flower](puṣpaiḥ) [betel-flower](pūgaprasūnaiḥ)
+[six-fold-worship](ṣaṭprakārabhajanam) [instructs](upadiśati) [there](tatra) [those-flowers](tatpuṣpaiḥ) [betel-flowers](pūgaprasūnaiḥ)

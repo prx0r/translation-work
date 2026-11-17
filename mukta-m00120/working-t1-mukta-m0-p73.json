@@ -24,7 +24,7 @@
 },
 {
 "surface": "brahma",
-"quick_gloss": "Brahman"
+"quick_gloss": "brahma"
 },
 {
 "surface": "pravindati",
@@ -54,7 +54,7 @@
 "tokens": [
 {
 "surface": "hāsyakautūhalādikam",
-"quick_gloss": "laughter-and-curiosity-etc"
+"quick_gloss": "laughter-curiosity-etc"
 }
 ]
 },
@@ -71,7 +71,7 @@
 },
 {
 "surface": "brahmaṇaḥ",
-"quick_gloss": "of-Brahman"
+"quick_gloss": "of-brahman"
 },
 {
 "surface": "sarvaṃ",
@@ -96,7 +96,7 @@
 "tokens": [
 {
 "surface": "divye",
-"quick_gloss": "in-divine"
+"quick_gloss": "divine"
 },
 {
 "surface": "śarīre",
@@ -104,7 +104,7 @@
 },
 {
 "surface": "so'pyasti",
-"quick_gloss": "he-too"
+"quick_gloss": "he-too-is"
 },
 {
 "surface": "tathā",
@@ -149,16 +149,12 @@
 "quick_gloss": "beings"
 },
 {
-"surface": "prakṛtim",
-"quick_gloss": "nature"
-},
-{
-"surface": "āśritya",
-"quick_gloss": "resorting-to"
+"surface": "prakṛtimāśritya",
+"quick_gloss": "nature-resorting"
 },
 {
 "surface": "dehināṃ",
-"quick_gloss": "of-embodied-ones"
+"quick_gloss": "of-embodied"
 },
 {
 "surface": "dehanāśakṛt",
@@ -207,12 +203,8 @@
 "quick_gloss": "love"
 },
 {
-"surface": "rūpam",
-"quick_gloss": "form"
-},
-{
-"surface": "āśritya",
-"quick_gloss": "resorting-to"
+"surface": "rūpamāśritya",
+"quick_gloss": "form-resorting"
 },
 {
 "surface": "puruṣo",
@@ -233,7 +225,7 @@
 "tokens": [
 {
 "surface": "ātmecchayā",
-"quick_gloss": "by-own-will"
+"quick_gloss": "by-self-will"
 },
 {
 "surface": "kṛtaṃ",
@@ -245,7 +237,7 @@
 },
 {
 "surface": "doṣādoṣaṃ",
-"quick_gloss": "fault-and-nonfault"
+"quick_gloss": "fault-nonfault"
 },
 {
 "surface": "na",
@@ -253,7 +245,7 @@
 },
 {
 "surface": "cācaret",
-"quick_gloss": "performs"
+"quick_gloss": "accumulates"
 }
 ]
 },
@@ -266,7 +258,7 @@
 "tokens": [
 {
 "surface": "ūrddhaśūnye",
-"quick_gloss": "upward-void"
+"quick_gloss": "in-upper-void"
 },
 {
 "surface": "gatistasya",
@@ -274,7 +266,7 @@
 },
 {
 "surface": "madhyaśūnye",
-"quick_gloss": "middle-void"
+"quick_gloss": "in-middle-void"
 },
 {
 "surface": "vyavasthitaḥ",
@@ -290,32 +282,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "ūrddha",
-"quick_gloss": "upward"
+"surface": "ūrddhaśūnye",
+"quick_gloss": "in-upper-void"
 },
 {
-"surface": "śūnye",
-"quick_gloss": "void"
-},
-{
-"surface": "svapna",
+"surface": "svapnabhāvaṃ",
 "quick_gloss": "dream-state"
 },
 {
-"surface": "bhāvaṃ",
-"quick_gloss": "bhāvaṃ"
-},
-{
-"surface": "brahma",
-"quick_gloss": "Brahman"
-},
-{
-"surface": "randhraṃ",
-"quick_gloss": "aperture"
+"surface": "brahmarandhraṃ",
+"quick_gloss": "brahma-aperture"
 },
 {
 "surface": "prakīrtitam",
-"quick_gloss": "declared"
+"quick_gloss": "proclaimed"
 }
 ]
 },
@@ -328,27 +308,19 @@
 "tokens": [
 {
 "surface": "mūlādhāre",
-"quick_gloss": "at-root-support"
+"quick_gloss": "in-root-support"
 },
 {
-"surface": "adhaḥ",
-"quick_gloss": "downward"
-},
-{
-"surface": "śūnyaṃ",
-"quick_gloss": "void"
+"surface": "adhaḥśūnyaṃ",
+"quick_gloss": "below-void"
 },
 {
 "surface": "tatra",
 "quick_gloss": "there"
 },
 {
-"surface": "kāmādi",
-"quick_gloss": "desire-etc"
-},
-{
-"surface": "cintanam",
-"quick_gloss": "thinking"
+"surface": "kāmādicintanam",
+"quick_gloss": "desire-etc-thought"
 }
 ]
 },
@@ -360,32 +332,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "sa",
-"quick_gloss": "he"
+"surface": "sa tiṣṭhati",
+"quick_gloss": "he-stands"
 },
 {
-"surface": "tiṣṭhati",
-"quick_gloss": "stands"
-},
-{
-"surface": "paraṃ",
-"quick_gloss": "supreme"
-},
-{
-"surface": "brahma",
-"quick_gloss": "Brahman"
+"surface": "paraṃ brahma",
+"quick_gloss": "supreme-brahman"
 },
 {
 "surface": "svecchayā",
 "quick_gloss": "by-own-will"
 },
 {
-"surface": "līlayā",
-"quick_gloss": "by-play"
-},
-{
-"surface": "api",
-"quick_gloss": "also"
+"surface": "līlayāpi",
+"quick_gloss": "by-play-also"
 },
 {
 "surface": "ca",
@@ -401,12 +361,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "dhyāna",
-"quick_gloss": "meditation"
-},
-{
-"surface": "pūjādikaṃ",
-"quick_gloss": "worship-etc"
+"surface": "dhyānapūjādikaṃ",
+"quick_gloss": "meditation-worship-etc"
 },
 {
 "surface": "sarvaṃ",
@@ -418,11 +374,7 @@
 },
 {
 "surface": "siddhirna",
-"quick_gloss": "perfection"
-},
-{
-"surface": "na",
-"quick_gloss": "not"
+"quick_gloss": "perfection-not"
 },
 {
 "surface": "jāyate",
@@ -438,28 +390,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "ata",
+"surface": "ata eva",
 "quick_gloss": "therefore"
 },
 {
-"surface": "eva",
-"quick_gloss": "indeed"
-},
-{
 "surface": "maheśāna",
-"quick_gloss": "great-lord"
+"quick_gloss": "O-great-lord"
 },
 {
 "surface": "kalau",
-"quick_gloss": "in-Kali"
+"quick_gloss": "in-kali"
 },
 {
 "surface": "siddhirna",
-"quick_gloss": "perfection"
-},
-{
-"surface": "na",
-"quick_gloss": "not"
+"quick_gloss": "perfection-not"
 },
 {
 "surface": "jāyate",
@@ -479,12 +423,8 @@
 "quick_gloss": "who"
 },
 {
-"surface": "vijānāti",
-"quick_gloss": "knows"
-},
-{
-"surface": "tattvena",
-"quick_gloss": "in-truth"
+"surface": "vijānāti tattvena",
+"quick_gloss": "knows-truly"
 },
 {
 "surface": "dehānte",
@@ -492,7 +432,7 @@
 },
 {
 "surface": "brahmabhāg",
-"quick_gloss": "Brahman-share"
+"quick_gloss": "brahma-share"
 },
 {
 "surface": "bhavet",
@@ -512,12 +452,8 @@
 "quick_gloss": "thus"
 },
 {
-"surface": "śrī",
-"quick_gloss": "holy"
-},
-{
-"surface": "sarvānandanātha",
-"quick_gloss": "Sarvanandanatha"
+"surface": "śrīsarvānandanātha",
+"quick_gloss": "by-śrī-sarvānandanātha"
 },
 {
 "surface": "viracite",
@@ -525,15 +461,11 @@
 },
 {
 "surface": "sarvollāse",
-"quick_gloss": "Sarvollasa"
+"quick_gloss": "in-sarvollāsa"
 },
 {
 "surface": "triṣaṣṭyullāsaḥ",
-"quick_gloss": "sixty-third"
-},
-{
-"surface": "ullāsaḥ",
-"quick_gloss": "chapter"
+"quick_gloss": "sixty-third-ullāsa"
 }
 ]
 }

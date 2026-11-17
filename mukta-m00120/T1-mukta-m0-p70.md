@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p70-v1726
-[indifferent-ones](udāsināṃ) [cremation-ground](śmaśānañca) [householders](gṛhiṇām) [should-worship](arccayed) [yoni](bhagam)
+udāsinām (of-the-indifferent) śmaśānam (cremation-ground) ca (and) gṛhiṇām (of-householders) arcayet (should-worship) bhagam (yoni)
 
 ## mukta-m0-p70-v1727
-[corpse-mounted](śavārūḍhāt) [thus](tathā) [goddess](devi) [yoni-mounted-authority](bhagārūḍhādhikārakaḥ)
+śava-ārūḍhāt (from-corpse-mounted) tathā (thus) devi (O-goddess) bhaga-ārūḍha-adhikārakaḥ (entitled-to-yoni-mounted)
 
 ## mukta-m0-p70-v1728
-[pyre](citā) [manifest](vyaktāpi) [goddess](deveśi) [hidden-yoni](guptayonīti) [proclaimed](kīrtitā)
+citā (pyre) vyaktā (manifest) api (even) deveśi (O-lord-of-gods) gupta-yoni (hidden-yoni) iti (thus) kīrtitā (called)
 
 ## mukta-m0-p70-v1729
-[art-liquor-yoga](kalāvāsava+yogena) [art](kalā) [worship](pūjāṃ) [should-arrange](prakalpayet)
+kalā-vāsava (art-wine) yogena (by-union) kalā (art) pūjām (worship) prakalpayet (should-arrange)
 
 ## mukta-m0-p70-v1730
-[without-copulation](maithunena+vinā) [goddess](devi) [liquor-drinking](madyapānaṃ) [not-should-do](na+cācaret)
+maithunena (without-intercourse) vinā (without) devi (O-goddess) madya-pānam (wine-drinking) na (not) ca (and) ācaret (should-practice)
 
 ## mukta-m0-p70-v1731
-[dead-corpse](gatāsūnaśavaḥ) [declared](prokto) [liquor-drink](madya+pānāsavaḥ) [beloved](priye)
+gata-asu (departed-life) śavaḥ (corpse) proktaḥ (called) madya (wine) pāna-āsavaḥ (drink-ferment) priye (beloved)
 
 ## mukta-m0-p70-v1732
-[corpse-seat](śavāsane) [difference-act](bhedakāryam) [non-difference](abhedam) [liquor-seat](āsavāsane)
+śava-āsane (on-corpse-seat) bheda-kāryam (difference-work) abhedam (non-difference) āsava-āsane (on-ferment-seat)
 
 ## mukta-m0-p70-v1733
-[by-seeing-shakti-alone](śaktidarśanamātreṇāpi) [indifferent-ones](udāsināṃ) [act](kriyā) [destruction](kṣayaḥ)
+śakti-darśana-mātreṇa (by-merely-seeing-śakti) api (even) udāsinām (of-indifferent) kriyā (action) kṣayaḥ (destruction)
 
 ## mukta-m0-p70-v1734
-[of-man-seat](puruṣasyāsanaṃ) [shakti](śaktiḥ) [of-shakti](śakteḥ) [man-body](puruṣa+dehakam)
+puruṣasya (of-man) āsanam (seat) śaktiḥ (śakti) śakteḥ (of-śakti) puruṣa (man) dehakam (body)
 
 ## mukta-m0-p70-v1735
-[thus](iti) [shri-sarvanandanatha](śrīsarvānandanātha) [composed](viracite) [sarvollasa](sarvollāse) [sixty-first-chapter](ekaṣaṣṭyullāsaḥ)
+iti (thus) śrī-sarvānanda-nātha (by-śrī-sarvānanda-nātha) viracite (composed) sarvollāse (in-sarvollāsa) eka-ṣaṣṭi-ullāsaḥ (sixty-first-chapter)
 
 ## mukta-m0-p70-v1736
-[vain](vṛthā) [worship](pūjā) [becomes-his](bhavettasya) [not-seed](na+bījaṃ) [water-sprinkling](jala+secanam)
+vṛthā (vain) pūjā (worship) bhavet (becomes) tasya (his) na (not) bījam (seed) jala (water) secanam (sprinkling)
 
 ## mukta-m0-p70-v1737
-[shakti-union](śaktisaṅgamam)
+śakti-saṅgamam (union-with-śakti)
 
 ## mukta-m0-p70-v1738
-[vain](vṛthā) [knowledge](jñānaṃ) [becomes-his](bhavettasya) [in-shaktis](śaktiṣu) [shakti-union](śaktisaṅgamam)
+vṛthā (vain) jñānam (knowledge) bhavet (becomes) tasya (his) śaktiṣu (in-śaktis) śakti-saṅgamam (union-with-śakti)
 
 ## mukta-m0-p70-v1739
-[they](te) [brahma-knowers](brahmajñāninaḥ) [saints](santaḥ) [prakriti](prakṛtiṃ) [purusha-natured](puruṣātmakam)
+te (they) brahma-jñāninaḥ (knowers-of-brahman) santaḥ (being) prakṛtim (prakṛti) puruṣa-ātmakam (having-man-soul)
 
 ## mukta-m0-p70-v1740
-[of-both](ubhayor) [knowledge-yoga](jñānayogena) [brahma-knower](brahmajānīti) [certain](niścitam)
+ubhayoḥ (of-both) jñāna-yogena (by-knowledge-yoga) brahma (brahman) jānīti (knows) niścitam (certain)
 
 ## mukta-m0-p70-v1741
-[of-both](ubhayor) [one-nature](ekabhāvena) [brahma-knower](brahmajñānīti) [certain](niścitam)
+ubhayoḥ (of-both) eka-bhāvena (by-one-nature) brahma-jñānī (knower-of-brahman) iti (thus) niścitam (certain)
 
 ## mukta-m0-p70-v1742
-[she-indeed](saiva) [yoni-form](yoni+svarūpā) [and](ca) [world-creation-doing](jagadutpatti+kāriṇī)
+sā (she) eva (indeed) yoni (yoni) svarūpā (nature) ca (and) jagat-utpatti (world-creation) kāriṇī (doer)
 
 ## mukta-m0-p70-v1743
-[brahma-vishnu-shiva-etc](brahma+viṣṇu+śivādīnāṃ) [roots](mūlāḥ) [sattva-etc](sattvādayo) [qualities](guṇāḥ)
+brahma (brahma) viṣṇu (viṣṇu) śiva-ādīnām (of-śiva-etc) mūlāḥ (roots) sattva-ādayaḥ (sattva-etc) guṇāḥ (qualities)
 
 ## mukta-m0-p70-v1744
-[gross-subtle-made](sthūla+sūkṣmamayaṃ) [light](jyotir) [pervading](vyāpitā) [prakriti](prakṛtiḥ) [established](sthitā)
+sthūla (gross) sūkṣma-mayam (subtle-made) jyotiḥ (light) vyāpitā (pervaded) prakṛtiḥ (prakṛti) sthitā (stood)
 
 ## mukta-m0-p70-v1745
-[significator](vācakam)
+vācakam (denotative)
 
 ## mukta-m0-p70-v1746
-[again](punaḥ) [dissolves](pralīyate) [whose](yasyā) [of-her](tasyāśca) [is-born](jāyate) [again](punaḥ)
+punaḥ (again) pralīyate (dissolves) yasyā (of-whom) tasyām (in-her) tasyāḥ (of-her) ca (and) jāyate (is-born) punaḥ (again)
 
 ## mukta-m0-p70-v1747
-[modification](vikṛtiḥ) [prakriti-attained](prakṛtimāpanne) [then](tataḥ) [nothing](kiñcinna) [sees](paśyati)
+vikṛtiḥ (modification) prakṛtim (prakṛti) āpanne (having-attained) tataḥ (then) kiñcit (anything) na (not) paśyati (sees)
 
 ## mukta-m0-p70-v1748
-[not-authority](nādhikāritāḥ)
+na (not) adhikāritāḥ (entitled) na (not) adhikāriṇaḥ (entitled-ones)
 
 ## mukta-m0-p70-v1749
-[in-three-gunas](triguṇe) [even-one-nature](pyekabhāvo) [also](pi) [quality](guṇaśca) [by-whom](kena) [is-born](jāyate)
+tri-guṇe (in-three-guṇas) api (even) eka-bhāvaḥ (one-nature) api (even) guṇaḥ (quality) ca (and) kena (by-whom) jāyate (is-born)
 
 ## mukta-m0-p70-v1750
-[by-one-nature](ekabhāvena) [prakriti](prakṛtiś) [chickpea-shaped](caṇakākāra) [form](rūpakaḥ)
+eka-bhāvena (by-one-nature) prakṛtiḥ (prakṛti) caṇaka-ākāra (pea-shaped) rūpakaḥ (form)

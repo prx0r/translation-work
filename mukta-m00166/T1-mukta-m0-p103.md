@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p103-v2551
-[viratiḥ](viratiḥ)
+[viratiḥ](cessation)
 
 ## mukta-m0-p103-v2552
-[yadā](yadā) [āviṣṭaḥ](āviṣṭaḥ) [ratiṃ](ratiṃ) [na](na) [ante](ante) [labhate](labhate) [viratiḥ](viratiḥ) [hi](hi) [sā](sā)
+[yadā](when) [aviṣṭaḥ](engrossed) [ratiṃ](enjoyment) [na](not) [ante](end) [labhate](obtains) [viratiḥ](cessation) [hi](indeed) [sā](that)
 
 ## mukta-m0-p103-v2553
-[satyavardhinī](satyavardhinī)
+[satyavardhinī](truth-increasing)
 
 ## mukta-m0-p103-v2554
-[bhūyāt](bhūyāt) [sā](sā) [parameśāni](parameśāni) [janānāṃ](janānāṃ) [satyavardhinī](satyavardhinī)
+[bhūyāt](may-it-be) [sā](that) [parameśāni](supreme-goddess) [janānāṃ](of-people) [satyavardhinī](truth-increasing)
 
 ## mukta-m0-p103-v2555
-[puruṣājñā](puruṣājñā)
+[puruṣājñā](man-ignorance)
 
 ## mukta-m0-p103-v2556
-[ajñāna+khaṇḍane](ajñānakhaṇḍane) [jñāna+maṇḍane](jñānamaṇḍane) [pyastu](pyastu) [naḥ](naḥ) [sthirā](sthirā)
+[ajñāna](ignorance) [khaṇḍane](in-breaking) [jñāna](knowledge) [maṇḍane](in-adorning) [astu](let-it-be) [naḥ](our) [sthirā](steadfast)
 
 ## mukta-m0-p103-v2557
-[bhinnā](bhinnā)
+[bhinnā](divided)
 
 ## mukta-m0-p103-v2558
-[tattva+ātmanā](tattvātmanā) [api](api) [abhinna+eva](abhinnaiva) [jayati](jayati) [iyaṃ](iyaṃ) [bhava+unmukhī](bhavonmukhī)
+[tattvātmanā](by-essence-self) [api](even) [abhinna](undivided) [eva](indeed) [jayati](conquers) [iyam](this) [bhava](world) [unmukhī](outward-facing)
 
 ## mukta-m0-p103-v2559
-[kṣāntiḥ](kṣāntiḥ) [kaivalya+dāyinī](kaivalyadāyinī)
+[kṣāntiḥ](patience) [kaivalya](liberation) [dāyinī](giving)
 
 ## mukta-m0-p103-v2560
-[yāvat](yāvat) [na](na) [eṣā](eṣā) [śritā](śritā) [bhaktyā](bhaktyā) [kṣāntiḥ](kṣāntiḥ) [kaivalya+dāyinī](kaivalyadāyinī)
+[yāvat](as-long-as) [na](not) [eṣā](this) [śritā](resorted) [bhaktyā](by-devotion) [kṣāntiḥ](patience) [kaivalya](liberation) [dāyinī](giving)
 
 ## mukta-m0-p103-v2561
-[vivikta+sevinī](viviktasevinī)
+[vivikta](solitary) [sevinī](serving)
 
 ## mukta-m0-p103-v2562
-[yena](yena) [viśva+gataḥ](viśvagato) [api](api) [eṣa](eṣa) [jātu](jātu) [viśvaṃ](viśvaṃ) [na](na) [bhāvaye](bhāvaye)
+[yena](by-whom) [viśva](universe) [gataḥ](gone) [api](even) [eṣaḥ](this) [jātu](ever) [viśvaṃ](universe) [na](not) [bhāvaye](may-contemplate)
 
 ## mukta-m0-p103-v2563
-[prajñā+janayitrī](prajñājanayitrī)
+[prajñā](wisdom) [janayitrī](begetting)
 
 ## mukta-m0-p103-v2564
-[parā](parā) [aparā](aparā) [sadā](sadā) [prajñā+janayitrī](prajñājanayitrī) [maheśvarī](maheśvarī)
+[parā](supreme) [aparā](inferior) [sadā](always) [prajñā](wisdom) [janayitrī](begetting) [maheśvarī](great-goddess)
 
 ## mukta-m0-p103-v2565
-[bahu+śrutiḥ](bahuśrutiḥ)
+[bahuśrutiḥ](much-hearing)
 
 ## mukta-m0-p103-v2566
-[ekataḥ](ekataḥ) [na](na) [eka+varṇā](ekavarṇā) [yā](yā) [na](na) [ekataḥ](ekataḥ) [api](api) [eka+varṇa+bhāk](ekavarṇabhāk)
+[ekataḥ](from-one-side) [na](not) [eka](one) [varṇā](color) [yā](who) [na](not) [ekataḥ](from-one-side) [api](even) [eka](one) [varṇa](color) [bhāk](possessing)
 
 ## mukta-m0-p103-v2567
-[nirīhā](nirīhā)
+[nirīhā](desireless)
 
 ## mukta-m0-p103-v2568
-[yayā](yayā) [sarvaṃ](sarvaṃ) [vidhāya](vidhāya) [api](api) [na](na) [kiṃcit](kiṃcit) [ca](ca) [vidhīyate](vidhīyate)
+[yayā](by-whom) [sarvaṃ](all) [vidhāya](having-arranged) [api](even) [na](not) [kiṃcit](anything) [ca](and) [vidhīyate](is-arranged)
 
 ## mukta-m0-p103-v2569
-[samasta+ekā](samastaikā)
+[samasta](whole) [ekā](one)
 
 ## mukta-m0-p103-v2570
-[tad+vidāṃ](tadvidāṃ) [ca](ca) [svarūpeṇa](svarūpeṇa) [samasta+ekā](samastaikā) [jayati](jayati) [asau](asau)
+[tad](that) [vidāṃ](knowers) [ca](and) [svarūpeṇa](by-own-form) [samasta](whole) [ekā](one) [jayati](conquers) [asau](that)
 
 ## mukta-m0-p103-v2571
-[sarva+loka+eka+sevitā](sarvalokaikasevitā)
+[sarva](all) [loka](world) [eka](one) [sevitā](served)
 
 ## mukta-m0-p103-v2572
-[eka+cittatayā](ekacittatayā) [jīyāt](jīyāt) [sarva+loka+eka+sevitā](sarvalokaikasevitā)
+[eka](one) [cittatayā](by-mind-state) [jīyāt](may-live) [sarva](all) [loka](world) [eka](one) [sevitā](served)
 
 ## mukta-m0-p103-v2573
-[sevā](sevā)
+[sevā](service)
 
 ## mukta-m0-p103-v2574
-[sevā](sevā) [uttarottaraṃ](uttarottaraṃ) [kāryā](kāryā) [kalā](kalā) [vekā](vekā) [phala+pradā](phalapradā)
+[sevā](service) [uttarottaraṃ](increasingly) [kāryā](to-be-done) [kalā](art) [eka](one) [phala](fruit) [pradā](giving)
 
 ## mukta-m0-p103-v2575
-[sevā+priyā](sevāpriyā)
+[sevā](service) [priyā](dear)

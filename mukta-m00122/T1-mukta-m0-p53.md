@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p53-v1301
-not-ever-but she-declared that to-me tell great-lord
+[not](na) [ever](kadācit) [indeed](tu) [she](sā) [said](proktā) [that](tām) [to-me](me) [tell](brūhi) [O-great-lord](maheśvara)
 
 ## mukta-m0-p53-v1302
-spread-form I-will-declare hear you this-wonderful
+[pervading-form](vyāptarūpaṃ) [I-will-declare](pravakṣyāmi) [hear](śṛṇu) [you](tvam) [this-wonderful](idamadbhutam)
 
 ## mukta-m0-p53-v1303
-worship-him as me you by-that-application-force certainly
+[they-worship](bhajanti) [him](enaṃ) [as](yathā) [me](māṃ) [you](tvaṃ) [by-that-application-force+certainly](tatprayogabalāddhruvam)
 
 ## mukta-m0-p53-v1304
-each folded having-made mantras-vidyas and-also or
+[individually](pratyekaṃ) [enclosed](puṭitān) [having-made](kṛtvā) [mantras](mantrān) [vidyās](vidyāḥ) [then+also](athāpi) [or](vā)
 
 ## mukta-m0-p53-v1305
-declared that-yantra-nava in-pot having-established with-this
+[declared](proktaṃ) [that](tad) [yantra-ninefold](yantranavakaṃ) [in-pot](kumbhe) [having-established](saṃsthāpya) [with-this](caitayā)
 
 ## mukta-m0-p53-v1306
-easy
+[easy](sugamaḥ)
 
 ## mukta-m0-p53-v1307
-easy
+[easy](sugamaḥ)
 
 ## mukta-m0-p53-v1308
-red-sandal-with or red-chalk-with mercury-with sandal-with thus
+[with-red-sandal+etc](kucandanairgairikairvā) [with-cinnabar+sandalwood+etc](daradaiścandanestathā)
 
 ## mukta-m0-p53-v1309
-of-nine with-nine should-do with-these yantra-preparation
+[of-nine](navānāṃ) [with-nine](navabhiḥ) [one-should-make](kuryāt) [with-these](ebhiḥ) [yantra-arrangement](yantraprakalpanam)
 
 ## mukta-m0-p53-v1310
-protection-north-south birth-triad years in-order
+[protection+north+indestructible+birth+threefold+years+in-order](rakṣottarākṣayorjanmatritaye) [varṣayoḥ](varṣayoḥ) [in-order](kramāt)
 
 ## mukta-m0-p53-v1311
-another-or devotion-character-rich should-cause consecration
+[another+or+devotion-character-wealthy](anyovāśa(bha)ktiśīlāḍhyaḥ) [should-cause](kārayet) [consecration](abhiṣecanam)
 
 ## mukta-m0-p53-v1312
-wealth-deceit not should-do if should-do from-greed
+[wealth-deceit](vittaśāṭhyaṃ) [not](na) [should-do](kurvīta) [if](yadi) [should-do](kurvīta) [from-greed](lobhataḥ)
 
 ## mukta-m0-p53-v1313
-therefore-everywhere in-this-tantra wealth-deceit not should-think
+[therefore](tasmāt) [everywhere](sarvatra) [in-this-tantra](tantre'smin) [wealth-deceit](vittaśāṭhyaṃ) [not](na) [should-think](cintayet)
 
 ## mukta-m0-p53-v1314
-moon-sun-fire-form by-water desired-mantra-from
+[moon+sun+fire-form](somasūryāgnirūpeṇa) [with-water](jalenā) [desired](ipsitaṃ) [by-mantra](mantrataḥ)
 
 ## mukta-m0-p53-v1315
-in-order nine and teaches there with-this world-charming-vidya
+[in-order](yathākramaṃ) [nine](nava) [also](ca) [instructs](upadiśati) [there](tatra) [with-this](etayā) [trailokyamohanī-vidyā](trailokyamohanīvidyayā)
 
 ## mukta-m0-p53-v1316
-of-nine yantra-preparation thus from-independence
+[of-nine](navānāṃ) [yantra-arrangement](yantraprakalpanam) [iti](iti) [from-independence](svātantryāt)
 
 ## mukta-m0-p53-v1317
-bad-signs-arising and evil-deeds-born and
+[bad-sign-born](durlakṣaṇasamutthāni) [and](tathā) [bad-action-born](duṣkarmajāni) [also](ca)
 
 ## mukta-m0-p53-v1318
-destroy-instant goddess waters-like fire
+[destroys](nāśayet) [that](tat) [instantly](kṣaṇāt) [goddess](devī) [with-waters](salilairiva) [like-fire](pāvakaḥ)
 
 ## mukta-m0-p53-v1319
-obtains and many sons happy and long-prospers
+[obtains](labhate) [and](ca) [many](bahūn) [sons](putrān) [happy](sukhī) [and](ca) [long-lives](ciramedhate)
 
 ## mukta-m0-p53-v1320
-who-intensely always knows afflicted he-also prosperity-increases
+[who](yaḥ) [intensely](bhṛśaṃ) [always](nityadā) [knows](vidyāt) [afflicted](kliṣṭaḥ) [he+also](so'pi) [prosperity](śriyā) [grows](edhate)
 
 ## mukta-m0-p53-v1321
-non-eternal enemy-ordained black-magic-etc or
+[non-eternal](anītyā) [by-enemy-ordained](vairivihitair) [abhicāra+etc](abhicārādibhistu) [or](vā)
 
 ## mukta-m0-p53-v1322
-beauty-lakshmi-wealth-health-vidya-victory-fame
+[beauty+lakshmi+wealth+health+vidyā+victory+fame](kāntilakṣmīdhanārogyavidyāvijayakīrtibhiḥ)
 
 ## mukta-m0-p53-v1323
-nine-consecration in-nine declared rites by-practice
+[nine-consecration](navābhiṣekaṃ) [in-nine](navasu) [declared](prokteṣu) [by-rite](vidhinā) [performing](caran)
 
 ## mukta-m0-p53-v1324
-liberated-while-living long yogi on-earth lives cupid
+[liberated-while-living](jīvanmuktaḥ) [long](ciraṃ) [yogī](yogī) [on-earth](bhuvi) [lives](jīvati) [Manmatha](manmathaḥ)
 
 ## mukta-m0-p53-v1325
-of-this non-fruition in-mind that-reality self-realized
+[of-this](asyā) [non-fruiting](niṣphālanāt) [in-mind](citte) [that-tattva](tattatvaṃ) [self-realized](svātmasātkṛtam)

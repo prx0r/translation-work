@@ -7,20 +7,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "nāḍyaḥ",
+"surface": "nāḍyo",
 "quick_gloss": "channels"
 },
 {
 "surface": "atha",
-"quick_gloss": "then"
-},
-{
-"surface": "vā",
 "quick_gloss": "or"
 },
 {
+"surface": "vā",
+"quick_gloss": "vā"
+},
+{
 "surface": "asyuḥ",
-"quick_gloss": "are"
+"quick_gloss": "may-be"
 }
 ]
 },
@@ -36,8 +36,16 @@
 "quick_gloss": "middle"
 },
 {
-"surface": "daśanāḍyāḥ",
-"quick_gloss": "ten-channels"
+"surface": "daśa",
+"quick_gloss": "ten"
+},
+{
+"surface": "nāḍyāḥ",
+"quick_gloss": "channels"
+},
+{
+"surface": "ādyāḥ",
+"quick_gloss": "first"
 },
 {
 "surface": "mātreṇa",
@@ -45,7 +53,7 @@
 },
 {
 "surface": "kanyasaḥ",
-"quick_gloss": "smaller"
+"quick_gloss": "small"
 }
 ]
 },
@@ -58,7 +66,7 @@
 "tokens": [
 {
 "surface": "karṣaṇādi",
-"quick_gloss": "plowing-etc"
+"quick_gloss": "ploughing-etc"
 },
 {
 "surface": "pratiṣṭhāntaṃ",
@@ -91,7 +99,7 @@
 },
 {
 "surface": "tantresmin",
-"quick_gloss": "in-tantra"
+"quick_gloss": "in-this-tantra"
 },
 {
 "surface": "pratipāditam",
@@ -108,7 +116,7 @@
 "tokens": [
 {
 "surface": "anenaiva",
-"quick_gloss": "by-this"
+"quick_gloss": "by-this-very"
 },
 {
 "surface": "prakāreṇa",
@@ -190,7 +198,7 @@
 },
 {
 "surface": "dvijasattamāḥ",
-"quick_gloss": "best-brahmins"
+"quick_gloss": "best-of-twice-born"
 }
 ]
 },
@@ -214,7 +222,7 @@
 "quick_gloss": "to-be-assumed"
 },
 {
-"surface": "diśaḥ",
+"surface": "diśo",
 "quick_gloss": "directions"
 },
 {
@@ -310,7 +318,7 @@
 },
 {
 "surface": "śive",
-"quick_gloss": "to-Śiva"
+"quick_gloss": "to-śiva"
 },
 {
 "surface": "ātmānam",
@@ -343,11 +351,15 @@
 },
 {
 "surface": "brahmaṇām",
-"quick_gloss": "of-Brahmās"
+"quick_gloss": "of-brahman"
 },
 {
-"surface": "īśapūrvakam",
-"quick_gloss": "Īśa-first"
+"surface": "īśa",
+"quick_gloss": "īśa"
+},
+{
+"surface": "pūrvakam",
+"quick_gloss": "preceded"
 }
 ]
 },
@@ -389,7 +401,7 @@
 "tokens": [
 {
 "surface": "antaryāgam",
-"quick_gloss": "inner-rite"
+"quick_gloss": "internal-worship"
 },
 {
 "surface": "ataḥ",
@@ -397,14 +409,14 @@
 },
 {
 "surface": "kṛtvā",
-"quick_gloss": "doing"
+"quick_gloss": "having-done"
 },
 {
 "surface": "sthānaśuddhim",
-"quick_gloss": "place-purity"
+"quick_gloss": "place-purification"
 },
 {
-"surface": "tataḥ",
+"surface": "tato",
 "quick_gloss": "then"
 },
 {
@@ -421,20 +433,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "kṛtvā",
-"quick_gloss": "doing"
-},
-{
-"surface": "ātmānaṃ",
-"quick_gloss": "self"
+"surface": "kṛtvātmānaṃ",
+"quick_gloss": "having-made-self"
 },
 {
 "surface": "samabhyarcya",
-"quick_gloss": "well-worship"
+"quick_gloss": "well-worshipped"
 },
 {
 "surface": "mantraśuddhiṃ",
-"quick_gloss": "mantra-purity"
+"quick_gloss": "mantra-purification"
 },
 {
 "surface": "samācaret",
@@ -454,16 +462,12 @@
 "quick_gloss": "door-side-both"
 },
 {
-"surface": "vā",
+"surface": "vāpi",
 "quick_gloss": "or"
 },
 {
-"surface": "api",
-"quick_gloss": "api"
-},
-{
 "surface": "gaṇapañcasarasvatīṃ",
-"quick_gloss": "Gaṇapañca-Sarasvatī"
+"quick_gloss": "gaṇa-five-sarasvatī"
 }
 ]
 },
@@ -476,7 +480,7 @@
 "tokens": [
 {
 "surface": "saṃpūjya",
-"quick_gloss": "worship"
+"quick_gloss": "having-worshipped"
 },
 {
 "surface": "udumbare",
@@ -509,11 +513,11 @@
 "tokens": [
 {
 "surface": "śivasya",
-"quick_gloss": "of-Śiva"
+"quick_gloss": "of-śiva"
 },
 {
 "surface": "īśānamantreṇa",
-"quick_gloss": "Īśāna-mantra"
+"quick_gloss": "īśāna-mantra"
 },
 {
 "surface": "mālādyam",
@@ -546,7 +550,7 @@
 },
 {
 "surface": "anantañca",
-"quick_gloss": "Ananta"
+"quick_gloss": "ananta"
 },
 {
 "surface": "dharmādharmādyameva",
@@ -567,7 +571,7 @@
 "tokens": [
 {
 "surface": "vāmādyaṃ",
-"quick_gloss": "Vāma-etc"
+"quick_gloss": "vāma-etc"
 },
 {
 "surface": "hṛdayopetaṃ",
@@ -575,7 +579,7 @@
 },
 {
 "surface": "śivāsanam",
-"quick_gloss": "Śivāsana"
+"quick_gloss": "śiva-seat"
 },
 {
 "surface": "anusmaran",
@@ -592,15 +596,15 @@
 "tokens": [
 {
 "surface": "sadāśivo",
-"quick_gloss": "Sadāśiva"
+"quick_gloss": "sadāśiva"
 },
 {
 "surface": "maheśaśca",
-"quick_gloss": "Maheśa"
+"quick_gloss": "maheśa"
 },
 {
 "surface": "rudraśca",
-"quick_gloss": "Rudra"
+"quick_gloss": "rudra"
 },
 {
 "surface": "iti",
@@ -621,11 +625,11 @@
 "tokens": [
 {
 "surface": "yā",
-"quick_gloss": "which"
+"quick_gloss": "that"
 },
 {
 "surface": "tasya",
-"quick_gloss": "his"
+"quick_gloss": "of-him"
 },
 {
 "surface": "vimalāśaktiḥ",
@@ -633,11 +637,11 @@
 },
 {
 "surface": "śivasya",
-"quick_gloss": "of-Śiva"
+"quick_gloss": "of-śiva"
 },
 {
 "surface": "samavāyinī",
-"quick_gloss": "co-existent"
+"quick_gloss": "co-inherent"
 }
 ]
 },
@@ -662,7 +666,7 @@
 },
 {
 "surface": "brahmāṇi",
-"quick_gloss": "Brahmās"
+"quick_gloss": "brahmans"
 },
 {
 "surface": "vinyaset",
