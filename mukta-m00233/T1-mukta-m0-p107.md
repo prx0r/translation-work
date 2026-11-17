@@ -2,19 +2,19 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p107-v2651
-[all-knowing](sarvavid) [golden](gauraḥ) [desire-form](kāmarūpī) [deformed](virūpavān)
+[all-knowing](sarvavid) [fair](gauraḥ) [desire-formed](kāmarūpī) [deformed](virūpavān)
 
 ## mukta-m0-p107-v2652
-[cupid](madanaścaiva) [varuṇa](vāruṇo) [vasu-like](vasureva) [and](ca)
+[love-god](madanaścaiva) [varuṇa](vāruṇo) [vasu-like](vasureva) [and](ca)
 
 ## mukta-m0-p107-v2653
-[varuṇa](varuṇa) [thus](ityete) [southwest](nair-ṛte) [situated](sthitāḥ)
+[varuṇa](varuṇa) [thus](ityete) [southwest](nair-ṛte) [standing](sthitāḥ)
 
 ## mukta-m0-p107-v2654
-[noose-holder](pāśapāṇirānando'mbupatiḥ) [joy](ānandaḥ) [water-lord](ambupatiḥ) [śiva](śivaḥ)
+[noose-handed](pāśapāṇirānando'mbupatiḥ) [joy](ānandaḥ) [water-lord](ambupatiḥ) [śiva](śivaḥ)
 
 ## mukta-m0-p107-v2655
-[west-dwelling](pratyaṅnivāso) [cloud](jalado) [life-giving](jīvano) [crocodile-vehicle](nakravāhanaḥ)
+[west-dwelling](pratyaṅnivāso) [cloud](jalado) [life-giving](jīvano) [crocodile-mounted](nakravāhanaḥ)
 
 ## mukta-m0-p107-v2656
 [agitating](kṣobhaṇaścaiva) [noose-bearer](pāśī) [noose-holder](pāśadharo) [teacher](guruḥ)
@@ -26,10 +26,10 @@
 [monkey](vānarastārakaścaiva) [star](tārakaḥ) [hare](śaśakaḥ) [śākala](śākalaḥ) [śala](śalaḥ)
 
 ## mukta-m0-p107-v2659
-[kh-vaḥ](vaḥ) [kuravas](kuravaścaiva) [vajranābha](vajranābho) [vināyaka](vināyakaḥ)
+[kurava](kuravaścaiva) [vajranābha](vajranābho) [vināyaka](vināyakaḥ)
 
 ## mukta-m0-p107-v2660
-[restrainer](rodhano) [restraint](rodhastārkṣyo) [tārkṣya](tārkṣyo) [garuḍa](garuḍa) [indeed](eva) [and](ca)
+[obstructing](rodhano) [obstruction](rodhastārkṣyo) [tārkṣya](tārkṣyaḥ) [garuḍa](garuḍa) [indeed](eva) [and](ca)
 
 ## mukta-m0-p107-v2661
 [wind](vāyurgandhavahaḥ) [scent-bearing](gandhavahaḥ) [subtle](sūkṣmaḥ) [touching](sparśanaśca) [storm](prabhañjanaḥ)
@@ -41,13 +41,13 @@
 [wind](marunmārutaśca) [māruta](mārutaḥ) [and](ca) [wind](vāto) [fire-friend](vahnisakho) [hari](hariḥ)
 
 ## mukta-m0-p107-v2664
-[strong](baladhirvīro) [hero](vīro) [two-formed](dvidhīro) [restrainer](rodhako'pi) [also](api) [and](ca)
+[strong](baladhirvīro) [hero](vīraḥ) [two-formed](dvidhīro) [obstructing](rodhako'pi) [also](api) [and](ca)
 
 ## mukta-m0-p107-v2665
-[wise](sudhīścaiva) [capable](samarthaḥ) [bold](sāhaso) [supporter](dharaḥ)
+[wise](sudhīścaiva) [capable](samarthaḥ) [bold](sāhaso) [bearer](dharaḥ)
 
 ## mukta-m0-p107-v2666
-[passionate](rāgī) [sprinkling](secano'secanaḥ) [unsprinkling](asecanaḥ) [sound](svanaḥ)
+[passionate](rāgī) [sprinkling](secano'secanaḥ) [non-sprinkling](asecanaḥ) [sound](svanaḥ)
 
 ## mukta-m0-p107-v2667
 [instrument](karaṇaṃ) [doer](kartā) [dependent](parādhīno) [strong](balo'balaḥ) [weak](abalaḥ)
@@ -56,22 +56,22 @@
 [soma](somo) [maṇibhadra](māṇibhadro'tha) [then](atha) [guhyaka](guhyakaḥ)
 
 ## mukta-m0-p107-v2669
-[kinnara-lord](kinnareśaścailabilirdhanadaśca) [ailabili](ailabiliḥ) [wealth-giver](dhanadaśca) [wealth-lord](dhanādhipaḥ)
+[kinnara-lord](kinnareśaścailabilirdhanadaśca) [ailabila](ailabilaḥ) [wealth-giver](dhanadaḥ) [and](ca) [wealth-lord](dhanādhipaḥ)
 
 ## mukta-m0-p107-v2670
-[north-quarter-dwelling](uttarāśānivāsaśca) [then](tataḥ) [one-earring](syādekakuṇḍalaḥ)
+[north-dwelling](uttarāśānivāsaśca) [and](ca) [then](tataḥ) [one-earringed](syādekakuṇḍalaḥ)
 
 ## mukta-m0-p107-v2671
 [bhaṅgīra](bhaṅgīraḥ) [surāṣṭra](surāṣṭraḥ) [kāṣṭhali](kāṣṭhaliḥ) [kali](kaliḥ)
 
 ## mukta-m0-p107-v2672
-[amṛteśa](cāmṛteśo'mbhaḥ) [water](ambhaḥ) [keyurī](keyurī) [kevalī](kevalī) [valī](valī)
+[immortal-lord](cāmṛteśo'mbhaḥ) [water](ambhaḥ) [braceleted](keyurī) [alone](kevalī) [valī](valī)
 
 ## mukta-m0-p107-v2673
 [nalaka](nalakaḥ) [śunaka](śunakaḥ) [krātha](krāthaḥ) [hawk](śyenaḥ) [hawk-faced](śyenamukho'ruṇaḥ) [aruṇa](aruṇaḥ)
 
 ## mukta-m0-p107-v2674
-[separation](viśleṣaḥ) [kardama](kardamaḥ) [putrid-body](pūtivigrahaḥ)
+[separation](viśleṣaḥ) [kardama](kardamaḥ) [foul-bodied](pūtivigrahaḥ)
 
 ## mukta-m0-p107-v2675
-[north-quarter-situated](uttarāśāsthitā) [indeed](hyete) [troops](gaṇā) [hara-harau](haraharau) [remembered](smṛtāḥ)
+[north-dwelling](uttarāśāsthitā) [these](hyete) [hosts](gaṇā) [hara-harau](haraharau) [remembered](smṛtāḥ)

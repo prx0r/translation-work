@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p06-v126
-[bhavecca](bhavecca) [talpa-vistāra-karṇa-āyāma](talpavistārakarṇāyāmā) [tvayugmake](tvayugmake)
+[be+would](bhavecca) [bed+width+ear+length](talpavistārakarṇāyāmā) [and+odd+pair](tvayugmake)
 
 ## mukta-m0-p06-v127
-[parigha-apādayoḥ](parighāpādayostuṅgaṃ) [tuṅgaṃ](tuṅgaṃ) [tad-dairghyāt](taddairghyād) [dviguṇaṃ](dviguṇaṃ) [bhavet](bhavet)
+[bar+feet+of](parighāpādayoḥ) [tu+high](tuṅgaṃ) [that+length+from+double](taddairghyād+dviguṇaṃ) [be](bhavet)
 
 ## mukta-m0-p06-v128
-[sthūlā](sthūlā) [tu](tu) [eka-talpasya](ekatalpasya) [ca](ca) [argalā](argalā)
+[thick+but+one+bed+of](sthūlā+tvekatalpasya) [and+bar](cārgalā)
 
 ## mukta-m0-p06-v129
-[badhnīyāt](badhnīyād) [yathā-eva](yathaiva) [sudṛḍhaṃ](sudṛḍhaṃ) [bhavet](bhavet)
+[bind+would+as+very+firm](badhnīyād+yathaiva+sudṛḍhaṃ) [be](bhavet)
 
 ## mukta-m0-p06-v130
-[vā](vā) [vṛttaḥ](vṛtto) [vā](vā) [syāt](syād) [yathā-balam](yathābalam)
+[or+round+or+be+according+strength](vā+vṛtto+vā+syād+yathābalam)
 
 ## mukta-m0-p06-v131
-[pañca-ānana-upetaṃ](pañcānanopetaṃ) [kaṇṭha-yugmaṃ](kaṇṭhayugmaṃ) [yathā-arhataḥ](yathārhataḥ)
+[five-faced+equipped+neck+pair+as+worthy](pañcānanopetaṃ+kaṇṭhayugmaṃ+yathārhataḥ)
 
 ## mukta-m0-p06-v132
-[kavāṭe](kavāṭe) [yojayet](yojayet) [samau](samau)
+[door+fit+equal](kavāṭe+yojayet+samau)
 
 ## mukta-m0-p06-v133
-[syāt](syād) [daṇḍaiḥ](daṇḍairdaṇḍopadhānakaiḥ) [daṇḍa-upadhānakaiḥ](daṇḍopadhānakaiḥ)
+[be+pillars+pillar+supports+with](syād+daṇḍair+daṇḍopadhānakaiḥ)
 
 ## mukta-m0-p06-v134
-[kavāṭa-yoga-madhyaṃ](kavāṭayogamadhyaṃ) [syāt](syāt) [tat-madhyaṃ](tanmadhyaṃ) [bhitti-madhya-kam](bhittimadhyakam)
+[door+fitting+middle+be+that+middle+wall+middle](kavāṭayogamadhyaṃ+syāt+tanmadhyaṃ+bhittimadhyakam)
 
 ## mukta-m0-p06-v135
-[kramāt](kramāccharāśvibhāge) [śara-aśvi-bhāge](śarāśvibhāge) [vā](vā) [sthāpyaḥ](sthāpyo) [yogaḥ](yogo) [adhikaḥ](adhiko) [antare](antare)
+[gradually+arrow+horse+division+or+place+fitting+greater+between](kramāccharāśvibhāge+vā+sthāpyo+yogo'dhiko'ntare)
 
 ## mukta-m0-p06-v136
-[śeṣāṇām](śeṣāṇāmupamadhye) [upamadhye](upamadhye) [syāt](syād) [dvāra-upari-aṣṭa-maṅgalaṃ](dvāroparyaṣṭamaṅgalam)
+[remaining+of+middle+be+door+above+eighth+auspicious](śeṣāṇāmupamadhye+syād+dvāroparyaṣṭamaṅgalam)
 
 ## mukta-m0-p06-v137
-[sārdhaṃ](sārdhaṃ) [vā](vā) [vistāraḥ](vistāro) [api](apy) [anayoḥ](anayormataḥ) [mataḥ](mataḥ)
+[with+or+width+also+of+these+opinion](sārdhaṃ+vā+vistāro'pyanayormataḥ)
 
 ## mukta-m0-p06-v138
-[tat-ūrdhva-uttara-daṇḍa-ardha-satri-pāda-samodayam](tadūrdhvottaradaṇḍārdhasatripādasamodayam)
+[that+above+north+pillar+half+three+feet+sum](tadūrdhvottaradaṇḍārdhasatripādasamodayam)
 
 ## mukta-m0-p06-v139
-[pañca-vaktrāṇi](pañcavaktrāṇi) [tāni](tāni) [syuḥ](syurdvidaṇḍoccāni) [dvi-daṇḍa-uccāni](dvidaṇḍoccāni) [madhyataḥ](madhyataḥ)
+[five-faced+those+be+two+pillar+high+middle](pañcavaktrāṇi+tāni+syurdvidaṇḍoccāni+madhyataḥ)
 
 ## mukta-m0-p06-v140
-[dvi-tri-veda-aṅgulaṃ](dvitrivedāṅgulaṃ) [yuktyā](yuktyā) [patrāṇāṃ](patrāṇāṃ) [vitatiḥ](vitatiḥ) [smṛtā](smṛtā)
+[two+three+veda+finger+by+skill+leaves+of+breadth+remembered](dvitrivedāṅgulaṃ+yuktyā+patrāṇāṃ+vitatiḥ+smṛtā)
 
 ## mukta-m0-p06-v141
-[dṛḍha-praveśa-asyāt](dṛḍhapraveśāsyāt) [pārśva-patra-vicitritā](pārśvapatravicitritā)
+[firm+entry+of+side+leaf+variegated](dṛḍhapraveśāsyāt+pārśvapatravicitritā)
 
 ## mukta-m0-p06-v142
-[tāni](tānyeva) [eva](eva) [devānām](devānāmapi) [api](api) [varṇinām](varṇinām)
+[those+even+of+gods+also+of+colored](tānyeva+devānāmapi+varṇinām)
 
 ## mukta-m0-p06-v143
-[dvāra-alaṅkṛtiḥ](dvārālaṅkṛtiścābhyadhāyi) [ca](ca) [abhyadhāyi](abhyadhāyi)
+[door+ornament+and+was+declared](dvārālaṅkṛtiścābhyadhāyi)
 
 ## mukta-m0-p06-v144
-[deva-dvija-nṛpāṇāṃ](devadvijanṛpāṇāṃ) [tu](tu) [śastaṃ](śastaṃ) [makara-toraṇam](makaratoraṇam)
+[of+gods+brahmins+kings+but+auspicious+makara+arch](devadvijanṛpāṇāṃ+tu+śastaṃ+makaratoraṇam)
 
 ## mukta-m0-p06-v145
-[pārśvayoḥ](pārśvayoḥ) [pṛṣṭhataḥ](pṛṣṭhataścāpi) [ca](ca) [api](api) [prakuryāt](prakuryāt) [kuḍya-toraṇam](kuḍyatoraṇam)
+[sides+back+and+also+make+wall+arch](pārśvayoḥ+pṛṣṭhataścāpi+prakuryāt+kuḍyatoraṇam)
 
 ## mukta-m0-p06-v146
-[vistāraḥ](vistārastadvyāse'tha) [tat-vyāse](tadvyāse) [atha](atha) [śarāṃśake](śarāṃśake)
+[width+that+diameter+then+arrow+part](vistārastadvyāse'tha+śarāṃśake)
 
 ## mukta-m0-p06-v147
-[śobhā-antaraṃ](śobhāntaraṃ) [tatra](tatra) [guhā-āveśaḥ](guhāveśo) [bhaved](bhavedapi) [api](api)
+[beauty+difference+there+cave+entry+be+also](śobhāntaraṃ+tatra+guhāveśo+bhavedapi)
 
 ## mukta-m0-p06-v148
-[nakrayoḥ](nakrayorvadanāsaktamadhyapūrimamaṇḍitam) [vadanā-saktam](vadanāsaktam) [madhya-pūri-maṇḍitam](madhyapūrimamaṇḍitam)
+[of+crocodiles+mouths+attached+middle+full+ornamented](nakrayorvadanāsaktamadhyapūrimamaṇḍitam)
 
 ## mukta-m0-p06-v149
-[makarasya](makarasyottharatnamālādhiropitaiḥ) [utthara-ratna-mālā-adhiropitaiḥ](uttharatnamālādhiropitaiḥ)
+[of+makara+raised+gem+garland+placed](makarasyottharatnamālādhiropitaiḥ)
 
 ## mukta-m0-p06-v150
-[tu](tūbhayato) [ubhayataḥ](ubhayato) [bhaven](bhavenmakaratoraṇam) [makara-toraṇam](makaratoraṇam)
+[both+sides+be+makara+arch](tūbhayato+bhavenmakaratoraṇam)

@@ -8,7 +8,7 @@
 "tokens": [
 {
 "surface": "prasannavadanāḥ",
-"quick_gloss": "bright-faced"
+"quick_gloss": "clear-faced"
 },
 {
 "surface": "saumyā",
@@ -20,7 +20,7 @@
 },
 {
 "surface": "śaktipāṇayaḥ",
-"quick_gloss": "shakti-handed"
+"quick_gloss": "power-handed"
 }
 ]
 },
@@ -44,6 +44,10 @@
 "quick_gloss": "to-be-made"
 },
 {
+"surface": "vasavaḥ",
+"quick_gloss": "vasus"
+},
+{
 "surface": "sadā",
 "quick_gloss": "always"
 }
@@ -58,11 +62,11 @@
 "tokens": [
 {
 "surface": "āsamaṃtātsaṃcariṣṇuḥ",
-"quick_gloss": "all-around-moving"
+"quick_gloss": "moving-around"
 },
 {
 "surface": "sutīvragaruḍasthitaḥ",
-"quick_gloss": "very-swift-garuda-seated"
+"quick_gloss": "swift-garuḍa-seated"
 }
 ]
 },
@@ -87,20 +91,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "nabhomadhyagataḥ",
-"quick_gloss": "sky-centered"
+"surface": "nabhomadhyagatovāyuḥ",
+"quick_gloss": "wind-in-middle-sky"
 },
 {
-"surface": "vāyuḥ",
-"quick_gloss": "wind"
-},
-{
-"surface": "vivahaḥ",
-"quick_gloss": "vivaha"
-},
-{
-"surface": "bhūtidostume",
-"quick_gloss": "prosperity-armed"
+"surface": "vivahobhūtidostume",
+"quick_gloss": "vivaha-boon-giver"
 }
 ]
 },
@@ -125,28 +121,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "jagatīṃ",
-"quick_gloss": "world"
+"surface": "jagatīṃ kṣobhayannityam",
+"quick_gloss": "always-shaking-world"
 },
 {
-"surface": "kṣobhayan",
-"quick_gloss": "shaking"
-},
-{
-"surface": "nityam",
-"quick_gloss": "always"
-},
-{
-"surface": "udvahaḥ",
-"quick_gloss": "udvaha"
-},
-{
-"surface": "sevyate",
-"quick_gloss": "served"
-},
-{
-"surface": "mayā",
-"quick_gloss": "by-me"
+"surface": "udvahaḥ sevyate mayā",
+"quick_gloss": "udvaha-served-by-me"
 }
 ]
 },
@@ -172,15 +152,11 @@
 "tokens": [
 {
 "surface": "śītāṃbukaṇasaṃvāhaḥ",
-"quick_gloss": "cold-water-drop-flow"
+"quick_gloss": "cool-drop-flow"
 },
 {
-"surface": "saṃvahaḥ",
-"quick_gloss": "saṃvaha"
-},
-{
-"surface": "sukhadostume",
-"quick_gloss": "pleasant-armed"
+"surface": "saṃvahaḥ sukhadostume",
+"quick_gloss": "saṃvaha-pleasant-giver"
 }
 ]
 },
@@ -205,20 +181,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "nivahaṃ",
-"quick_gloss": "host"
+"surface": "nivahaṃ pavanaśreṣṭhaṃ",
+"quick_gloss": "best-wind-mass"
 },
 {
-"surface": "pavanaśreṣṭhaṃ",
-"quick_gloss": "best-wind"
-},
-{
-"surface": "śirasā",
-"quick_gloss": "with-head"
-},
-{
-"surface": "praṇamāmyaham",
-"quick_gloss": "I-bow"
+"surface": "śirasāpraṇamāmyaham",
+"quick_gloss": "head-bow"
 }
 ]
 },
@@ -243,24 +211,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "marutāṃ",
-"quick_gloss": "of-winds"
+"surface": "marutāṃ pravahaṃ nityam",
+"quick_gloss": "always-pravaha-wind"
 },
 {
-"surface": "pravahaṃ",
-"quick_gloss": "pravaha"
-},
-{
-"surface": "nityam",
-"quick_gloss": "always"
-},
-{
-"surface": "āśraye",
-"quick_gloss": "refuge"
-},
-{
-"surface": "nuvahābhidham",
-"quick_gloss": "uvaha-named"
+"surface": "āśrayenuvahābhidham",
+"quick_gloss": "āśraya-nuvaha-named"
 }
 ]
 },
@@ -285,12 +241,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "sevyatāṃ",
-"quick_gloss": "to-be-served"
-},
-{
-"surface": "prāṇinivahaiḥ",
-"quick_gloss": "by-living-beings"
+"surface": "sevyatāṃ prāṇinivahaiḥ",
+"quick_gloss": "served-by-living-beings"
 },
 {
 "surface": "marudvyavahasaṃjñakaḥ",
@@ -319,36 +271,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "nivahaḥ",
-"quick_gloss": "nivaha"
-},
-{
-"surface": "uvahaḥ",
-"quick_gloss": "uvaha"
-},
-{
-"surface": "ca",
-"quick_gloss": "and"
-},
-{
-"surface": "eva",
-"quick_gloss": "eva"
-},
-{
-"surface": "vyavahaḥ",
-"quick_gloss": "vyavaha"
-},
-{
-"surface": "ca",
-"quick_gloss": "ca"
-},
-{
-"surface": "iti",
-"quick_gloss": "iti"
-},
-{
-"surface": "nāmabhiḥ",
-"quick_gloss": "by-names"
+"surface": "nivahonuvahaścaiva vyavahaśceti nāmabhiḥ",
+"quick_gloss": "nivaha-nuvaha-vyavaha-names"
 }
 ]
 },
@@ -360,32 +284,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "varṇaḥ",
-"quick_gloss": "color"
-},
-{
-"surface": "oyaṃ",
-"quick_gloss": "this"
-},
-{
-"surface": "marutām",
-"quick_gloss": "of-winds"
-},
-{
-"surface": "uktas",
-"quick_gloss": "spoken"
-},
-{
-"surface": "saptānām",
-"quick_gloss": "seven"
-},
-{
-"surface": "ānu",
-"quick_gloss": "in-order"
-},
-{
-"surface": "pūrvyaśaḥ",
-"quick_gloss": "successively"
+"surface": "varṇoyaṃ marutāmuktassaptānāmānu pūrvyaśaḥ",
+"quick_gloss": "color-of-seven-winds"
 }
 ]
 },
@@ -602,16 +502,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "kirīṭahārakeyūra",
-"quick_gloss": "crown-garland-armlet-bracelet-etc"
-},
-{
-"surface": "kaṭakādi",
-"quick_gloss": "kaṭakādi"
-},
-{
-"surface": "vibhūṣitāḥ",
-"quick_gloss": "ornamented"
+"surface": "kirīṭahārakeyūra kaṭakādi vibhūṣitāḥ",
+"quick_gloss": "crown-garland-armlet-bracelet-etc-adorned"
 }
 ]
 },
@@ -623,24 +515,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "eteṣāṃ",
-"quick_gloss": "of-these"
-},
-{
-"surface": "varṇarūrūpāṇi",
-"quick_gloss": "color-form"
-},
-{
-"surface": "mukhyānāṃ",
-"quick_gloss": "chief"
-},
-{
-"surface": "marutāṃ",
-"quick_gloss": "of-winds"
-},
-{
-"surface": "yathā",
-"quick_gloss": "as"
+"surface": "eteṣāṃ varṇarūrūpāṇi mukhyānāṃ marutāṃ yathā",
+"quick_gloss": "colors-forms-of-main-winds"
 }
 ]
 },
@@ -652,24 +528,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "kartavyā",
-"quick_gloss": "to-be-made"
+"surface": "kartavyāvāmapāṇau tu",
+"quick_gloss": "to-be-made-left-hand"
 },
 {
-"surface": "vāmapāṇau",
-"quick_gloss": "left-hand"
-},
-{
-"surface": "tu",
-"quick_gloss": "tu"
-},
-{
-"surface": "śarāsanadharāḥ",
-"quick_gloss": "bow-holding"
-},
-{
-"surface": "sitāḥ",
-"quick_gloss": "white"
+"surface": "śarāsanadharāssitāḥ",
+"quick_gloss": "bow-holding-white"
 }
 ]
 },
@@ -681,24 +545,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "purūravā",
-"quick_gloss": "purūravā"
+"surface": "purūravārdravau ceti",
+"quick_gloss": "purūravā-ārdrava-and"
 },
 {
-"surface": "ārdravau",
-"quick_gloss": "ārdrava"
-},
-{
-"surface": "ceti",
-"quick_gloss": "ceti"
-},
-{
-"surface": "viśvedevāḥ",
-"quick_gloss": "viśvedevāḥ"
-},
-{
-"surface": "daśasmṛtāḥ",
-"quick_gloss": "ten-remembered"
+"surface": "viśvedevā daśasmṛtāḥ",
+"quick_gloss": "viśvedevas-ten-remembered"
 }
 ]
 },
@@ -723,28 +575,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "dakṣe",
-"quick_gloss": "dakṣa"
+"surface": "dakṣekṣamālikāṃvāme",
+"quick_gloss": "dakṣa-akṣa-mālā-left"
 },
 {
-"surface": "kṣamālikāṃ",
-"quick_gloss": "akṣa-mālikā"
-},
-{
-"surface": "vāme",
-"quick_gloss": "left"
-},
-{
-"surface": "pātraṃ",
-"quick_gloss": "vessel"
-},
-{
-"surface": "ca",
-"quick_gloss": "ca"
-},
-{
-"surface": "bahuratnabhṛt",
-"quick_gloss": "many-jewel-bearing"
+"surface": "pātraṃ ca bahuratnabhṛt",
+"quick_gloss": "vessel-many-jewels-bearing"
 }
 ]
 }
