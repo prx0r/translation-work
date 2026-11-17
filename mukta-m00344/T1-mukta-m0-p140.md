@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p140-v3476
-[full](pūrṇa) [consciousness](cit) [mere](mātra) [form](rūpiṇaḥ)
+[full-consciousness-only-form](pūrṇa+cin+mātra+rūpiṇaḥ)
 
 ## mukta-m0-p140-v3477
-[pleasure](sukha) [and-pain](duḥkha) [experiencing](juṣaḥ) [exceedingly](atyantaṃ) [animal](paśu) [likeness](tulyatayā) [situated](sthitāḥ)
+[pleasure-pain-experiencing](sukha+duḥkha+juṣaḥ) [extremely](atyantaṃ) [animal-like](paśu+tulya+tayā) [standing](sthitāḥ)
 
 ## mukta-m0-p140-v3478
-[inquiry](vicāra) [averse](vimukhāḥ) [abandoned](tyakta) [reflection](anusandhānāḥ)
+[inquiry-averse](vicāra+vimukhāḥ) [abandoned-investigation](tyakta+anusandhānāḥ)
 
 ## mukta-m0-p140-v3479
-[of-them](teṣāṃ) [which](yā) [that](sā) [animal](paśu) [state](daśā) [true](sat) [awareness](vimarśa) [interval](antarālagā)
+[of-them](teṣāṃ) [that](yā) [that](sā) [animal-state](paśu+daśā) [between-true-reflection](sad+vimarśa+antarāla+gā)
 
 ## mukta-m0-p140-v3480
-[full](pūrṇa) [state](daśā) [interval](antarālagā) [animal](paśu) [condition](sthitiḥ) [not](na) [for-bondage](bandhāya) [thus](iti) [says](āha) [of-them](teṣām) [thus](iti)
+[full-state-between](pūrṇa+daśā+antarāla+gā) [animal-standing](paśu+sthitir) [not-for-bondage](na+bandhāya) [thus-says](ity+āha) [of-them](teṣām) [iti](iti)
 
 ## mukta-m0-p140-v3481
-[lac](lākṣā) [juices](rasaiḥ) [when](yadā) [cloth](vastra) [edge](prānta) [pair](yugmaṃ) [well-colored](surañjitam)
+[lac-juice](lākṣā+rasaiḥ) [when](yadā) [cloth-edge-pair](vastra+prānta+yugmaṃ) [well-dyed](su+rañjitam)
 
 ## mukta-m0-p140-v3482
-[lac](lākṣā) [thus](iti)
+[lac-etc](lākṣā+ādi) [iti](iti)
 
 ## mukta-m0-p140-v3483
-[thus](evaṃ) [of-him](tasya) [activity](vyavahṛtiḥ) [consciousness](cit) [awareness](āmarśana) [middle](madhya) [gone](gā)
+[thus](evaṃ) [his](tasya) [transaction](vyavahṛtiḥ) [consciousness-reflection-middle](cit+āmarśana+madhya+gā)
 
 ## mukta-m0-p140-v3484
-[for-bondage](bandhanāya) [thus](iti) [meaning](bhāvaḥ)
+[for-bondage](bandhanāya) [meaning](bhāvaḥ)
 
 ## mukta-m0-p140-v3485
-[middle](madhya) [knowers](vijñānināṃ) [body](deha) [connection](saṃyogaḥ) [not](na) [exists](asti) [at-all](sarvathā)
+[middle-knowers](madhya+vijñānināṃ) [body-union](deha+saṃyogaḥ) [not](nāsti) [in-any-way](sarvathā)
 
 ## mukta-m0-p140-v3486
-[middle](madhya) [knowers](jñānināṃ) [state](sthitim) [says](āha) [middle](madhya) [thus](iti)
+[middle-knowers](madhya+jñānināṃ) [state](sthitim) [says](āha) [middle-etc](madhya+iti)
 
 ## mukta-m0-p140-v3487
-[that](saḥ) [not](na) [exists](asti) [middle](madhya) [knowledge](vijñāna) [possessor](vataḥ) [O-Rama](rāma) [ever](kadācana)
+[he](saḥ) [not](nāsti) [middle-knower's](madhya+vijñānavataḥ) [O-Rama](rāma) [ever](kadācana)
 
 ## mukta-m0-p140-v3488
-[always](sadā) [composed](samāhita) [mind](svāntaḥ) [activity](vyavahāraḥ) [not](na) [of-him](tasya) [indeed](hi)
+[always](sadā) [collected-mind](samāhita+svāntaḥ) [transaction](vyavahāraḥ) [not](na) [his](tasya) [indeed](hi)
 
 ## mukta-m0-p140-v3489
-[restrained](niruddham) [of-him](tasya) [middle](madhya) [knower](jñāninaḥ)
+[restrained](niruddham) [his](tasya) [middle-knower's](madhya+jñāninaḥ)
 
 ## mukta-m0-p140-v3490
-[as](yathā) [someone](kaścit) [deep-sleep](suṣupti) [situated](sthaḥ) [latent-impression](vāsanā) [merely](mātrataḥ) [somewhere](kvacit)
+[as](yathā) [someone](kaścit) [deep-sleep-established](suṣupti+sthaḥ) [by-tendency-only](vāsanā+mātrataḥ) [somewhere](kvacit)
 
 ## mukta-m0-p140-v3491
-[of-consciousness](cet) [of-that](tasya) [non-manifestation](abhāsatvāt) [thus](iti) [with-example](sadṛṣṭāntam) [says](āha) [as](yathā) [thus](iti) [latent-impression](vāsanā) [impression](saṃskāraḥ)
+[its](tasya) [appearance](ābhāsa+tva) [therefore](ad+iti) [with-example](sadṛṣṭāntam) [says](āha) [as-etc](yathā+iti) [tendency](vāsanā) [impression](saṃskāraḥ)
 
 ## mukta-m0-p140-v3492
-[as](yathā) [and](ca) [liquor](madirā) [intoxicated](mattaḥ) [speaking](vadan) [doing](kurvan) [not](na) [knows](veda) [indeed](vai)
+[as](yathā) [ca](ca) [wine-intoxicated](madirā+mattaḥ) [speaking](vadan) [doing](kurvan) [not](na) [knows](veda) [indeed](vai)
 
 ## mukta-m0-p140-v3493
-[another](antara) [example](dṛṣṭāntam) [as](yathā) [thus](iti)
+[example-another](dṛṣṭānta+antaram) [as-etc](yathā+iti)
 
 ## mukta-m0-p140-v3494
-[something](kiñcit) [sometimes](kadācit) [doing](kurvan) [and](ca) [not](na) [knows](vijānāti) [that](tat) [again](punaḥ)
+[something](kiñcit) [sometimes](kadācit) [doing](kurvan) [ca](ca) [not](na) [knows](vijānāti) [that](tat) [again](punaḥ)
 
 ## mukta-m0-p140-v3495
-[not](na) [reflects-upon](anusandhatte)
+[not-recollects](nānusandhatte)
 
 ## mukta-m0-p140-v3496
-[who](yaḥ) [but](tu) [supreme](uttamaḥ) [well](su) [knower](vijñānī) [body](dehaḥ) [of-him](tasya) [also](api) [not](na) [exists](asti) [indeed](hi)
+[but](tu) [highest](uttamaḥ) [well-knower](su+vijñānī) [body](dehaḥ) [his](tasya) [api](api) [not](nāsti) [indeed](hi)
 
 ## mukta-m0-p140-v3497
-[in-breast](stanya) [drinking](pāne) [engagement](pravṛttiḥ) [thus](evam) [thus](iti) [meaning](bhāvaḥ) [of-supreme](uttamasya) [state](sthitim) [says](āha) [who](yaḥ) [but](tu) [thus](iti)
+[milk-drinking](stanya+pāne) [activity](pravṛttiḥ) [thus](evam) [meaning](bhāvaḥ) [highest's](uttamasya) [state](sthitim) [says](āha) [highest-etc](yastu+iti)
 
 ## mukta-m0-p140-v3498
-[as](yathā) [with-chariot](rathena) [activity](vyāpāraṃ) [doing](kurvan) [not](na) [chariot](ratha) [bodied](dehakaḥ)
+[as](yathā) [chariot](rathena) [activity](vyāpāraṃ) [doing](kurvan) [not](na) [chariot-bodied](ratha+dehakaḥ)
 
 ## mukta-m0-p140-v3499
-[if](cet) [says](āha) [with-chariot](ratha) [thus](iti) [this](etat) [indeed](eva) [establishes](upapādayati) [as](yathā) [thus](iti)
+[if](ced) [says](āha) [chariot-etc](ratha+iti) [this](etat) [indeed](eva) [proves](upapādayati) [as-etc](yathā+iti)
 
 ## mukta-m0-p140-v3500
-[not](na) [embodied](dehī) [not](na) [also](api) [agent](vyāpārī) [pure](śuddha) [consciousness](saṃvedana) [nature](ātmakaḥ)
+[not](na) [embodied](dehī) [nor](nāpi) [agent](vyāpārī) [pure-consciousness-nature](śuddha+saṃvedana+ātmakaḥ)

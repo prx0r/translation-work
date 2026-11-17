@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p137-v3401
-[causes-to-wander](saṃsāreti) [sun](taraṇir) + [boat](naukā) [sun](sūryo) [or](vā)
+[transmigration](saṃsāra) [thus](iti) [boat](taraṇiḥ) [boat](naukā) [sun](sūryaḥ) [or](vā)
 
 ## mukta-m0-p137-v3402
-[ignorance](avidyā) + [net](jāla) + [from-delusion](vibhrānter) [almost-liberated](muktaprāyo) [became](babhūva) [indeed](ha)
+[delusion-of-ignorance-net](avidyājālavibhrānteḥ) [almost-liberated](muktaprāyaḥ) [became](babhūva) [indeed](ha)
 
 ## mukta-m0-p137-v3403
-[because-of-being-present](vidyamānatvād) + [says](āha) [almost-liberated](muktaprāya) [thus](iti)
+[because-of-existence](vidyamānatvāt) [said](āha) [almost-liberated](muktaprāyaḥ) [thus](iti)
 
 ## mukta-m0-p137-v3404
-[O-lord](bhagavan) [tell](brūhi) [knowledge](vijñāna) + [means](sādhanaṃ) [kh:]( [kh:) [vijñānaṃ](vijñānaṃ] ) [well-ascertained](suviniścitam)
+[lord](bhagavan) [speak](brūhi) [knowledge-means](vijñānasādhanam) [well-determined](suviniścitam)
 
 ## mukta-m0-p137-v3405
-[something](kiñcit) [asked](papraccha) [he](saḥ) [then](tadā)
+[something](kiñcit) [asked](papraccha)
 
 ## mukta-m0-p137-v3406
-[of-the-knowers](jñānināṃ) [characteristic](lakṣaṇaṃ) [and](ca) + [also](api) [by-which](yena) [I-shall-know](jñāsyāmi) [them](tān) [quickly](drutam)
+[mark](lakṣaṇam) [of-knowers](jñāninām) [and](cāpi) [by-which](yena) [know](jñāsyāmi) [them](tān) [quickly](drutam)
 
 ## mukta-m0-p137-v3407
-[conducting](kurvatāṃ) [worldly-activity](vyavahāraṃ) [and](ca) + [also](api) [unattached](anāsaktaṃ) [mind](manaḥ) [how](katham)
+[conduct](vyavahāraṃ) [doing](kurvatāṃ) [and](cāpy) [unattached](anāsaktaṃ) [mind](manaḥ) [how](katham)
 
 ## mukta-m0-p137-v3408
-[unattached](anāsaktaṃ) [devoid-of](rahitam) + [latent-impressions](vāsanā)
+[unattached](anāsaktaṃ) [devoid-of-latencies](vāsanārahitam)
 
 ## mukta-m0-p137-v3409
-[thus](evam) + [son-of-Atri](atrisutaḥ) [asked](pṛṣṭo) [by-son-of-Jamadagni](jamadagnisutena) [indeed](vai)
+[thus](evam) [atri-son](atrisutaḥ) [asked](pṛṣṭaḥ) [by-jamadagni-son](jamadagnisutena) [indeed](vai)
 
 ## mukta-m0-p137-v3410
-[this](etat) + [all](sarvaṃ) [means](sādhana) + [and-so-forth](ādikam)
+[this-all](etatsarvaṃ) [means-etc](sādhanādikam)
 
 ## mukta-m0-p137-v3411
-[listen](śṛṇu) [O-Rama](rāma) [I-shall-declare](pravakṣyāmi) [secret](rahasyaṃ) [knowledge](jñāna) + [means](sādhanam)
+[listen](śṛṇu) [rama](rāma) [declare](pravakṣyāmi) [secret](rahasyaṃ) [knowledge-means](jñānasādhanam)
 
 ## mukta-m0-p137-v3412
-[by-proper](samyak) + [question](praśnena) [endowed-with-devotion](bhaktiyuktena) [satisfied](santuṣṭaḥ) [secret](rahasyaṃ) [in-scriptures](śāstreṣu) + [not-well-known](aprasiddham)
+[proper-question](samyakpraśnena) [with-devotion](bhaktiyuktena) [pleased](santuṣṭaḥ) [secret](rahasyaṃ) [in-scriptures-unestablished](śāstreṣvaprasiddham)
 
 ## mukta-m0-p137-v3413
-[who](yaḥ) [with-all](sarva) + [disposition](bhāvataḥ) [own-self](svātma) + [deity](devatām) + [approached](upasaṅgataḥ)
+[who](yaḥ) [from-all-being](sarvabhāvataḥ) [own-self-deity](svātmadevatām) [approached](upasaṅgataḥ)
 
 ## mukta-m0-p137-v3414
-[own-self](svātma) + [deity](devatāṃ) [as-inner-controller](svāntaryāmitayā) [situated](sthitām)
+[own-self-deity](svātmadevatāṃ) [as-inner-controller](svāntaryāmitayā) [situated](sthitām)
 
 ## mukta-m0-p137-v3415
-[this](etat) [supreme-of-all](sarvottamaṃ) [O-Rama](rāma) [declared](proktaṃ) [of-knowledge](jñānasya) [means](sādhanam)
+[this](etat) [best](sarvottamaṃ) [rama](rāma) [declared](proktaṃ) [of-knowledge](jñānasya) [means](sādhanam)
 
 ## mukta-m0-p137-v3416
-[of-him](tasya) [intent-on-the-declared-deity](proktadevatātatparasya) [this](etat) [intentness-on-deity](devatātatparatvam) [in-secret-scriptures](rahasyaśāstreṣu) [declared](proktam)
+[of-him](tasya) [declared-deity-devoted](proktadevatātatparasya) [this](etat) [deity-devotion](devatātatparatvam) [in-secret-scriptures](rahasyaśāstreṣu) [declared](proktam)
 
 ## mukta-m0-p137-v3417
-[this](etat) + [having-abandoned](vihāya) + [other](anyad) + [here](atra) [not](na) [properly](samyak) [fruit](phala) + [giving](daṃ) [would-be](bhavet)
+[this](etad) [abandoning](vihāya) [other](anyad) [here](atra) [not](na) [proper](samyak) [fruit-giving](phaladaṃ) [becomes](bhavet)
 
 ## mukta-m0-p137-v3418
-[knowledge](jñānaṃ) [not](na) [would-arise](bhavet) + [thus](iti) [meaning](bhāvaḥ)
+[knowledge](jñānaṃ) [not](na) [becomes](bhavet) [iti](iti) [meaning](bhāvaḥ)
 
 ## mukta-m0-p137-v3419
-[direct-knowledge](vijñānaṃ) [pure](kevala) + [consciousness](citir) + [which](yā) [of-all](sarvasya) + [illuminating](āvabhāsikā)
+[knowledge](vijñānaṃ) [pure-consciousness](kevalacitiḥ) [which](yā) [of-all](sarvasya) [manifesting](avabhāsikā)
 
 ## mukta-m0-p137-v3420
-[being-the-fruit](phalabhūtaṃ) [direct-knowledge](vijñānam) [illuminating-all](sarvāvabhāsikā) [pure](kevalā) [universal](sāmānyā) [consciousness](citiḥ)
+[fruit-born](phalabhūtaṃ) [knowledge](vijñānam) [all-manifesting](sarvāvabhāsikā) [pure](kevalā) [common](sāmānyā) [consciousness](citiḥ)
 
 ## mukta-m0-p137-v3421
-[by-inquiry](vicārāt) [by-removal-of-that](tadapohena) [of-its-own-nature](tatsvarūpa) + [indication](upalakṣaṇam)
+[by-inquiry](vicārāt) [by-removal](tadapohena) [its-own-form-indication](tatsvarūpopalakṣaṇam)
 
 ## mukta-m0-p137-v3422
-[of-own-nature](svarūpasya) + [indication](upalakṣaṇaṃ) [I-am-that](so'ham) + [thus](iti) [recognition](pratyabhijñānaṃ) [would-be](syāt)
+[of-own-form](svarūpasya) [indication](upalakṣaṇaṃ) [so-am-i](so'hamiti) [recognition](pratyabhijñānaṃ) [would-be](syāt)
 
 ## mukta-m0-p137-v3423
-[of-devotees](bhaktānām) + [devotion-to-other](anyaparatā) + [by-abandonment](hānena) [by-intentness-on-that](tatparatvataḥ)
+[of-devotees](bhaktānām) [other-directedness-removal](anyaparatāhānena) [devotion](tatparatvataḥ)
 
 ## mukta-m0-p137-v3424
-[intent-on-deity](devatāparāṇāṃ) [how](kathaṃ) [easily-attainable](sulabham) + [thus](iti) [if](ced) + [says](āha) [of-devotees](bhaktānām) + [thus](iti)
+[of-deity-devoted](devatāparāṇāṃ) [how](kathaṃ) [easily-obtained](sulabham) [if-so](ced) [says](āha) [of-devotees](bhaktānām) [iti](iti)
 
 ## mukta-m0-p137-v3425
-[intent-on-deity](devatātatparas) + [thus](tvevaṃ) [having-become](bhūtvā) [having-little](svalpa) + [other](anya) + [means](sādhanaḥ)
+[deity-devoted](devatātatparaḥ) [thus](tvevaṃ) [having-become](bhūtvā) [with-little-other-means](svalpānyasādhanaḥ)

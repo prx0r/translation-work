@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p32-v776
-[with-weapons](āyudhaiḥ) [man](nara) [horn](śṛṅga) [arisen-with](utthaiḥ) [having-fought](yudhvā) [sky](gagana) [in-forest](kānane)
+[weapons](āyudhaiḥ) [man-horn-born](naraśṛṅgotthaiḥ) [having-fought](yudhvā) [sky-forest](gaganakānane)
 
 ## mukta-m0-p32-v777
-[in-mirage-stream](marīci+srotasi) [dream](svāpna) [with-beloved-women](kāminībhiḥ) [indeed](hi) [plays](khelati)
+[ray-stream](marīcisrotasi) [dream-woman-instr](svāpnakāminībhiḥ) [indeed](hi) [plays](khelati)
 
 ## mukta-m0-p32-v778
-[having-heard](śrutvā) [thus](evam) [dear](priya) [speech](vākyam) [she](sā) [clever-one](caturā) [said](prāha) [to-him](tam) [again](punaḥ)
+[having-heard-thus](śrutvaivaṃ) [dear-speech](priyavākyaṃ) [she](sā) [clever](caturā) [said](prāha) [him](taṃ) [again](punaḥ)
 
 ## mukta-m0-p32-v779
-[thus](tathā) [spoken](prokta) [jester](vidūṣaka) [like-speech](vākyavat) [|](|) [incongruous](asaṅgatam)
+[so](tathā) [spoken-jester-speech-like](proktavidūṣakavākyavat) [inconsistent](asaṅgatam)
 
 ## mukta-m0-p32-v780
-[not](na) [of-ones-like-me](mādṛśānām) [speech](vacanaṃ) [baseless](nirālambaṃ) [anywhere](kvacit) [may-be](bhavet)
+[not](na) [of-our-kind](mādṛśānāṃ) [speech](vacanaṃ) [unsupported](nirālambaṃ) [anywhere](kvacid) [would-be](bhavet)
 
 ## mukta-m0-p32-v781
-[thus](iti) [meaning](arthaḥ) []](]) [beauty](saundarya) [possessing](vat) [may-be](bhavet)
+[thus-meaning](ityarthaḥ) [beautiful-would-be](saundaryavadbhavet)
 
 ## mukta-m0-p32-v782
-[of-that](tasya) [not](na) [above](ūrddhvaṃ) [not](na) [and](ca) [below](adhastāt) [world](lokaḥ) [is](asti) [[]([) [k:](k:) [in-world](loke) []](]) [happiness](sukha) [means](sādhanam)
+[of-him](tasya) [not-above](norddhvaṃ) [not-below](na+cādhastāt) [world](lokaḥ) [is](asti) [happiness-means](sukhasādhanam)
 
 ## mukta-m0-p32-v783
-[by-meaningless](apārtha) [speech](vacasā) [because-of-untruth](asatyāt) [|](|) [not](na) [world](lokaḥ)
+[meaningless-speech](apārthavacasā) [from-falsehood](asatyāt) [not](na) [world](lokaḥ)
 
 ## mukta-m0-p32-v784
-[equal](sama) [vision](dṛṣṭiṃ) [does-not-attain](na+eti) [quickly](śīghram) [of-collyrium](añjanānāṃ) [speech](vacaḥ) [by-multitudes](gaṇaiḥ)
+[equal-vision](samadṛṣṭiṃ) [does-not-attain](naiti) [quickly](śīghram) [collyrium-gen](añjanānāṃ) [speech-groups](vacogaṇaiḥ)
 
 ## mukta-m0-p32-v785
-[to-be-known](jñātum) [impossible](aśakyam) [with-this-intention](iti+āśayena) [says](āha) [-](–) [listen](śṛṇu) [thus](iti)
+[to-know](jñātum) [impossible](aśakyam) [intent](ityāśayena) [says](āha) [listen](śṛṇu) [thus](iti)
 
 ## mukta-m0-p32-v786
-[desirous-to-know](jijñāsuḥ) []](]) [with-untruths](asatyaiḥ) [shall-I-join](yojayāmi) [what](kim) [|](|) [not](na) [I-join](yojayāmi) [indeed](eva) [thus](iti) [meaning](arthaḥ)
+[inquirer](jijñāsuḥ) [with-falsehoods](asatyaiḥ) [shall-i-join](yojayāmi) [what](kim) [not](na) [join-indeed](yojayāmyeva) [thus-meaning](ityarthaḥ)
 
 ## mukta-m0-p32-v787
-[in-world](loke) [indeed](hi) [skilled](kuśalaḥ) [mortal](martyaḥ) [in-all](sarva) [conduct](vyavahṛtau) [surely](nanu)
+[in-world](loke) [indeed](hi) [skillful](kuśalaḥ) [mortal](martyaḥ) [all-dealings](sarvavyavahṛtau) [surely](nanu)
 
 ## mukta-m0-p32-v788
-[skilled](kuśalaḥ) [even](api) [past](atīta) [matter](arthaṃ) [your](tvad) [speech](vacanaṃ) [how](kathaṃ) [shall-I-examine](parīkṣiṣyāmi) [thus](iti) [if-you-say](cet) [says](āha) [-](–) [world](lokaḥ) [thus](iti)
+[skillful-even](kuśalo'pi) [past-meaning](atītārthaṃ) [your-speech](tvadvacanaṃ) [how](kathaṃ) [shall-i-examine](parīkṣiṣyāmi) [if-so](iti+ced) [says](āha) [world](loka) [thus](iti)
 
 ## mukta-m0-p32-v789
-[example](nidarśanaṃ) [I-shall-show](pradāsyāmi) [to-you](tubhyam) [here](atra) [examine](samīkṣaya) [[]([) [k:](k:) [by-examination](samīkṣayā) []](])
+[example](nidarśanaṃ) [shall-i-give](pradāsyāmi) [to-you](tubhyam) [here](atra) [by-examination](samīkṣayā)
 
 ## mukta-m0-p32-v790
-[example](nidarśanaṃ) [I-shall-show](pradāsyāmi) [experienced](anubhūtaṃ) [I-remind](smārayāmi) [|](|) [here](atra) [my](mad) [speech](vacana) [in-examination](parīkṣāyām)
+[example](nidarśanaṃ) [shall-i-give](pradāsyāmi) [experienced](anubhūtaṃ) [shall-i-remind](smārayāmi) [here](atra) [my-speech-examination](madvacanaparīkṣāyām)
 
 ## mukta-m0-p32-v791
-[after-long-time](cirāt) [my](mad) [from-speech](vacanāt) [he](saḥ) [today](adya) [why](kutaḥ) [not](na) [happiness](sukha) [means](sādhanam)
+[long-ago](cirāt) [my-speech](madvacanāt) [he](saḥ) [today](adya) [whence](kutaḥ) [not](na) [happiness-means](sukhasādhanam)
 
 ## mukta-m0-p32-v792
-[may-be](bhavet) [indeed](eva) [thus](iti) [know](jānīhi) [thus](iti) [meaning](bhāvaḥ)
+[would-be-indeed](bhavedeva) [know](jānīhi) [thus](iti) [meaning](bhāvaḥ)
 
 ## mukta-m0-p32-v793
-[by-this](etat) [by-example](nidarśanena) [alone](eva) [own](sva) [opinion](mataṃ) [to-know](vettum) [you-should](arhasi)
+[this-example-alone](etannidarśanenaiva) [own-opinion](svamataṃ) [to-know](vettum) [you-should](arhasi)
 
 ## mukta-m0-p32-v794
-[valid-means-of-knowledge](pramāṇam) [not-valid-means-of-knowledge](apramāṇaṃ) [or](vā) [thus](iti) [to-know](vettum)
+[proof](pramāṇam) [non-proof](apramāṇaṃ) [or](vā) [thus](iti) [to-know](vettum)
 
 ## mukta-m0-p32-v795
-[enemy](ripuḥ) [in-world](loke) [[]([) [k:](k:) [enemy-world](ripu+lokaḥ) []](]) [may-become](bhavet) [trustworthy](āpta) [in-statements](uktiṣu) [firm](sthiraḥ)
+[enemy-in-world](ripurloke) [would-be](bhaved) [reliable-speech-in](āptoktiṣu) [steadfast](sthiraḥ)
 
 ## mukta-m0-p32-v796
-[lack-of-trust](anāśvāsaḥ) [lack-of-faith](aśraddhā)
+[non-reassurance](anāśvāsaḥ) [non-faith](aśraddhā)
 
 ## mukta-m0-p32-v797
-[protects](rakṣati) [from-great](prauḍha) [fears](bhītibhyaḥ) [in-every-way](sarvathā) [not](na) [indeed](hi) [doubt](saṃśayaḥ)
+[protects](rakṣati) [from-great-fears](prauḍhabhītibhyaḥ) [in-all-ways](sarvathā) [not](nahi) [doubt](saṃśayaḥ)
 
 ## mukta-m0-p32-v798
-[he](saḥ) [may-be](bhavet) [from-all](sarvataḥ) [devoid](hīnaḥ) [who](yaḥ) [faith](śraddhā) [devoid-of](rahitaḥ) [man](naraḥ)
+[he](saḥ) [would-be](bhavet) [in-all-respects](sarvataḥ) [deficient](hīnaḥ) [who](yaḥ) [faithless](śraddhārahitaḥ) [man](naraḥ)
 
 ## mukta-m0-p32-v799
-[therefore](ataḥ) [indeed](eva) [from-all](sarvataḥ) [devoid](hīnaḥ) [may-be](bhavet)
+[therefore](ataḥ+eva) [in-all-respects](sarvataḥ) [deficient](hīnaḥ) [would-be](bhavet)
 
 ## mukta-m0-p32-v800
-[without-faith](aśraddhaḥ) [in-mother](mātṛ+viṣaye) [child](bālaḥ) [may-live](jīvet) [how](kathaṃ) [tell](vada)
+[faithless](aśraddhaḥ) [in-mother-matter](mātṛviṣaye) [child](bālaḥ) [would-live](jīvet) [how](kathaṃ) [say](vada)

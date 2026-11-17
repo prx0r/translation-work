@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p151-v3751
-[reflection](pratibimba) [like](vat) [in-mirror](ādarśe) [that](tat) [manner](prakāraṃ) [hear](śṛṇu) [in-order](kramāt)
+[like-reflection-in-mirror](pratibimbavadādarśe) [that-mode](tatprakāraṃ) [hear](śṛṇu) [in-order](kramāt)
 
 ## mukta-m0-p151-v3752
-[by-power-of-freedom](svātantrya+vaśataḥ) [own](sva) [self-form](ātma+rūpaṃ) [in-two-ways](dvedhā) [manifested](avabhāsayat)
+[by-freedom's-power](svātantryavaśataḥ) [own-form](svātmarūpaṃ) [in-two](dvedhā) [manifested](avabhāsayat)
 
 ## mukta-m0-p151-v3753
-[own](sva) [self-form](ātma+rūpaṃ) [consciousness](cit) [vibration](sphūrti) [dense](ghanam)
+[own-form](svātmarūpaṃ) [consciousness-flash-dense](citsphūrtighanam)
 
 ## mukta-m0-p151-v3754
-[then](tadā) [second](dvitīya) [part](bhāgaḥ) [from-that](tad) [I-sense](ahaṃbhāva) [emerged](vinirgataḥ)
+[then](tadā) [second-part](dvitīyabhāgaḥ) [that-I-sense+emerged](tadahaṃbhāvavinirgataḥ)
 
 ## mukta-m0-p151-v3755
 [thus](iti) [meaning](bhāvaḥ)
 
 ## mukta-m0-p151-v3756
-[with-imperfect](apūrṇa) [I-sense](ahaṃbhāva) [endowed](yutaḥ) [this](eṣaḥ) [declared](proktaḥ) [Sadāśiva](sadāśivaḥ)
+[with-incomplete-I-sense](apūrṇāhaṃbhāvayuta) [this](eṣa) [called](proktaḥ) [Sadāśiva](sadāśivaḥ)
 
 ## mukta-m0-p151-v3757
 [Īśvara](īśvaraṃ) [they-call](prāhuḥ)
 
 ## mukta-m0-p151-v3758
-[lordship](svāmitvam) [thus](evam) [of-this](asya) [unmanifest](avyaktam) [thus](iti) [to-be-known](jñeyam)
+[lordship](svāmitvam) [thus](evam) [of-him](asya) [unmanifest](avyakta) [thus](iti) [to-be-known](jñeyam)
 
 ## mukta-m0-p151-v3759
-[unmanifest](avyaktam) [of-self](ātmanaḥ) [body](deham) [this](etat) [indeed](eva) [I](aham) [abiding-in](āsthitaḥ)
+[unmanifest](avyaktam) [of-self](ātmanaḥ) [body](deham) [this](etad) [I](aham) [abide](āsthitaḥ)
 
 ## mukta-m0-p151-v3760
 [thus](iti) [connection](sambandhaḥ)
 
 ## mukta-m0-p151-v3761
-[unmanifest](avyaktam) [by-identification](abhimānena) [entered](āviṣṭaḥ) [Īśvara](īśvaraḥ) [indeed](eva) [but](tu)
+[unmanifest](avyaktam) [by-identification](abhimānena) [pervaded](āviṣṭa) [Īśvara](īśvara) [indeed](eva) [but](tu)
 
 ## mukta-m0-p151-v3762
-[unmanifest](avyaktam) [I](aham) [thus](iti) [by-identification](abhimānena) [entered](āviṣṭaḥ) [Īśvara](īśvaraḥ) [indeed](eva) [threefold](tridhā) [became](abhavat) [thus](iti) [connection](sambandhaḥ)
+[unmanifest-I](avyaktamaham) [thus](iti) [by-identification](abhimānena) [pervaded](āviṣṭa) [Īśvara](īśvara) [indeed](eva) [in-three](tridhā) [became](abhavat) [thus](iti) [connection](sambandhaḥ)
 
 ## mukta-m0-p151-v3763
-[of-origination](utpatti) [manifesters](avabhāsakāḥ)
+[origin-manifesters](utpattyavabhāsakāḥ)
 
 ## mukta-m0-p151-v3764
-[many](bahavaḥ) [Haris](harayaḥ) [also](api) [were](āsan) [those](tat) [devoted-to-dissolution](saṃhāra+parāyaṇāḥ)
+[many](bahavaḥ) [Haris](harayaḥ) [also](api) [were](āsan) [destruction-devoted](saṃhāraparāyaṇāḥ)
 
 ## mukta-m0-p151-v3765
-[devoted-to-dissolution](saṃhāra+parāyaṇāḥ) [Rudras](rudrāḥ) [were](āsan) [thus](iti) [connection](sambandhaḥ)
+[destruction-devoted](saṃhāraparāyaṇāḥ) [Rudras](rudrāḥ) [were](āsan) [thus](iti) [connection](sambandhaḥ)
 
 ## mukta-m0-p151-v3766
-[of-this-kind](evaṃvidhaṃ) [world](jagat) [principle](tattvaṃ) [like-mirror](darpaṇa) [reflection](pratibimba) [like](vat)
+[thus](evaṃvidhaṃ) [world-principle](jagattattvaṃ) [like-mirror-reflection](darpaṇapratibimbavat)
 
 ## mukta-m0-p151-v3767
-[from-supreme-consciousness](para+citeḥ) [not-different](avyatiriktam) [indeed](eva) [thus](iti) [says](āha) [variant](k:) [supreme](parā) [mirror](darpaṇa) [thus](iti)
+[Supreme-consciousness](paracit) [not-different](avyatiriktam) [indeed](eva) [thus](iti) [says](āha) [mirror](darpaṇa) [etc](iti)
 
 ## mukta-m0-p151-v3768
-[supreme](parā) [consciousness](citiḥ) [of-perfect](prapūrṇa) [I-sense](ahaṃbhāva) [form](rūpā) [indeed](eva) [always](sarvadā)
+[Supreme](parā) [consciousness](citiḥ) [full-I-sense-form](prapūrṇāhaṃbhāvarūpā) [indeed](eva) [always](sarvadā)
 
 ## mukta-m0-p151-v3769
-[supreme](parā) [from-own-nature](svarūpāt) [non-deviation](apracyutim) [states](āha) [supreme](parā) [consciousness](citiḥ) [thus](iti)
+[Supreme](parā) [consciousness](citiḥ) [from-own-form](svarūpāt) [no-falling](apracyutim) [says](āha)
 
 ## mukta-m0-p151-v3770
-[as](yathā) [you](tvaṃ) [Rāma](rāma) [in-every](sarvasmin) [body](dehe) [by-I-sense](ahaṃbhāva) [expanded](bṛṃhitaḥ)
+[as](yathā) [you](tvaṃ) [Rāma](rāma) [in-all](sarvasmin) [body](dehe) [I-sense-expanded](ahaṃbhāvabṛṃhitaḥ)
 
 ## mukta-m0-p151-v3771
-[thus](evam) [indeed](eva) [supreme](parā) [consciousness](saṃvit) [perfect](pūrṇa) [I-ness](ahantā) [resting-on](samāśrayā)
+[thus](evameva) [Supreme](parā) [consciousness](saṃvit) [full-I-ness-refuge](pūrṇāhantāsamāśrayā)
 
 ## mukta-m0-p151-v3772
-[in-reality](vastutaḥ) [that](sā) [indeed](eva) [supreme](paramā) [consciousness](citiḥ) [thus](evam) [indeed](hi) [shining](bhāsinī)
+[really](vastutaḥ) [that-same](sā) [indeed](eva) [supreme](paramā) [consciousness](citiḥ) [thus](evaṃ) [indeed](hi) [shining](bhāsinī)
 
 ## mukta-m0-p151-v3773
-[perfect-I-ness](pūrṇa+ahantā) [unlimited-I-ness](aparicchinna+ahantā) [Sadāśiva-etc.](sadāśiva+ādi) [in-form](rūpe) [not-manifesting](anavabhāsinī) [thus](iti) [meaning](arthaḥ)
+[full-I-ness](pūrṇāhantā) [limited-I-ness](paricchinnāhantā) [Sadāśiva-etc-form](sadāśivādirūpe) [not-shining](anavabhāsinī) [meaning](arthaḥ)
 
 ## mukta-m0-p151-v3774
-[to-grasp](grahītum) [unable](asamarthaḥ) [although](api) [unbroken](akṣata) [identity](tādātmyam) [having-attained](etya) [but](tu)
+[to-grasp](grahītum) [unable](asamarthaḥ) [also](api) [from-uninjured](akṣatāt) [identity](ātmyam) [attaining](etya) [but](tu)
 
 ## mukta-m0-p151-v3775
 [you-grasp](gṛhṇāsi) [thus](iti) [connection](sambandhaḥ)
