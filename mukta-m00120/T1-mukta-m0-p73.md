@@ -2,55 +2,55 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p73-v1801
-[then](tadā) [liberation](muktim) [obtains](avāpno) [when](yadā) [brahma](brahma) [realizes](pravindati)
+[then](tadā) [liberation](muktim) [obtains](avāpno) [when](yadā) [brahman](brahma) [knows](pravindati)
 
 ## mukta-m0-p73-v1802
-[cause](prakāraṇam)
+[cause](prakāraṇam) [illuminator](prakāśakam)
 
 ## mukta-m0-p73-v1803
-[laughter-curiosity-etc](hāsyakautūhalādikam)
+[laughter](hāsya) [curiosity](kautūhala) [etc](ādikam)
 
 ## mukta-m0-p73-v1804
-[by-play](līlayā) [of-brahman](brahmaṇaḥ) [all](sarvaṃ) [laughter](hāsya) [curiosity-etc](kautūhalādikam)
+[play](līlayā) [of-brahman](brahmaṇaḥ) [all](sarvaṃ) [laughter](hāsya) [curiosity-etc](kautūhalādikam)
 
 ## mukta-m0-p73-v1805
-[divine](divye) [body](śarīre) [he-too-is](so'pyasti) [thus](tathā) [in-worms-etc](kīṭādikeṣu) [and](ca)
+[divine](divye) [body](śarīre) [he](so) [also](api) [is](asti) [thus](tathā) [in-worms-etc](kīṭādikeṣu) [and](ca)
 
 ## mukta-m0-p73-v1806
-[self](svayaṃ) [all-pervading](vibhuḥ)
+[himself](svayaṃ) [all-pervading](vibhuḥ)
 
 ## mukta-m0-p73-v1807
-[beings](bhūta) [nature-resorting](prakṛtimāśritya) [of-embodied](dehināṃ) [body-destruction-doer](dehanāśakṛt)
+[beings](bhūta) [nature](prakṛtim) [resorting](āśritya) [of-embodied](dehināṃ) [body-destroyer](dehanāśakṛt)
 
 ## mukta-m0-p73-v1808
 [without-mine](nirmamo) [without-ego](nirahaṅkāraḥ) [always](sadā) [light-filled](jyotirmayaḥ) [remembered](smṛtaḥ)
 
 ## mukta-m0-p73-v1809
-[love](madanaṃ) [form-resorting](rūpamāśritya) [person](puruṣo) [becomes-agitated](vihvalāyate)
+[cupid](madanaṃ) [form](rūpam) [resorting](āśritya) [person](puruṣo) [becomes-agitated](vihvalāyate)
 
 ## mukta-m0-p73-v1810
-[by-self-will](ātmecchayā) [done](kṛtaṃ) [action](karma) [fault-nonfault](doṣādoṣaṃ) [not](na) [accumulates](cācaret)
+[by-own-will](ātmecchayā) [done](kṛtaṃ) [action](karma) [fault-nonfault](doṣādoṣaṃ) [not](na) [performs](cācaret)
 
 ## mukta-m0-p73-v1811
-[in-upper-void](ūrddhaśūnye) [movement](gatistasya) [in-middle-void](madhyaśūnye) [established](vyavasthitaḥ)
+[upper-void](ūrddhaśūnye) [movement](gatistasya) [middle-void](madhyaśūnye) [situated](vyavasthitaḥ)
 
 ## mukta-m0-p73-v1812
-[in-upper-void](ūrddhaśūnye) [dream-state](svapnabhāvaṃ) [brahma-aperture](brahmarandhraṃ) [proclaimed](prakīrtitam)
+[upper](ūrddha) [void](śūnye) [dream](svapna) [state](bhāvaṃ) [brahman](brahma) [aperture](randhraṃ) [declared](prakīrtitam)
 
 ## mukta-m0-p73-v1813
-[in-root-support](mūlādhāre) [below-void](adhaḥśūnyaṃ) [there](tatra) [desire-etc-thought](kāmādicintanam)
+[root-support](mūlādhāre) [below](adhaḥ) [void](śūnyaṃ) [there](tatra) [desire-etc](kāmādi) [thinking](cintanam)
 
 ## mukta-m0-p73-v1814
-[he-stands](sa tiṣṭhati) [supreme-brahman](paraṃ brahma) [by-own-will](svecchayā) [by-play-also](līlayāpi) [and](ca)
+[he](sa) [stands](tiṣṭhati) [supreme](paraṃ) [brahman](brahma) [by-own-will](svecchayā) [play](līlayā) [also](api) [and](ca)
 
 ## mukta-m0-p73-v1815
-[meditation-worship-etc](dhyānapūjādikaṃ) [all](sarvaṃ) [his](tasya) [perfection-not](siddhirna) [arises](jāyate)
+[meditation](dhyāna) [worship-etc](pūjādikaṃ) [all](sarvaṃ) [his](tasya) [perfection](siddhir) [not](na) [arises](jāyate)
 
 ## mukta-m0-p73-v1816
-[therefore](ata eva) [O-great-lord](maheśāna) [in-kali](kalau) [perfection-not](siddhirna) [arises](jāyate)
+[therefore](ata) [indeed](eva) [great-lord](maheśāna) [in-kali](kalau) [perfection](siddhir) [not](na) [arises](jāyate)
 
 ## mukta-m0-p73-v1817
-[who](yo) [knows-truly](vijānāti tattvena) [at-body-end](dehānte) [brahma-share](brahmabhāg) [becomes](bhavet)
+[who](yo) [knows](vijānāti) [in-truth](tattvena) [at-body-end](dehānte) [brahman-share](brahmabhāg) [becomes](bhavet)
 
 ## mukta-m0-p73-v1818
-[thus](iti) [by-śrī-sarvānandanātha](śrīsarvānandanātha) [composed](viracite) [in-sarvollāsa](sarvollāse) [sixty-third-ullāsa](triṣaṣṭyullāsaḥ)
+[thus](iti) [śrī](śrī) [sarvānandanātha](sarvānandanātha) [composed](viracite) [sarvollāsa](sarvollāse) [sixty-third](triṣaṣṭyullāsaḥ)

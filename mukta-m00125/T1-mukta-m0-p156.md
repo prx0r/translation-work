@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p156-v3876
-minister amātyaṃ counselor mantriṇaṃ brahmins viprān kshatriya kṣatriyaṃ vaishya vaiśyameva and ca
+[minister](amātyaṃ) [counselor](mantriṇaṃ) [brahmins](viprān) [kshatriya](kṣatriyaṃ) [vaishya-indeed](vaiśyameva) [and](ca)
 
 ## mukta-m0-p156-v3877
-therefore tasmāt king rājā effort prayatnena should-restrain vārayet quickly acireṇa them tān
+[therefore](tasmāt) [king](rājā) [with-effort](prayatnena) [should-restrain](vārayet) [quickly](acireṇa) [them](tān)
 
 ## mukta-m0-p156-v3878
-king's rājñaḥ victory-giving vijayadaṃ life-increasing āyurvṛddhidaṃ protective paladaṃ always sadā
+[of-king](rājñaḥ) [victory-giving](vijayadaṃ) [life-increasing](āyurvṛddhidaṃ) [protective](paladaṃ) [always](sadā)
 
 ## mukta-m0-p156-v3879
-abhicara-linga etc ābhicārakaliṅgādyaṃ by-rudras rodraiḥ and ca established sthāpitaṃ yat
+[abhicara-etc](ābhicārakaliṅgādyaṃ) [by-rudras](rodraiḥ) [ca](ca) [established](sthāpitaṃ) [and](ca) [yat](yat)
 
 ## mukta-m0-p156-v3880
-that tat place sthānaṃ entering saṃpraviśya then atha clay-pots mṛdbhāṇḍān and ca avoid vivarjayet
+[that](tat) [place](sthānaṃ) [having-entered](saṃpraviśya) [then](atha) [clay-vessels](mṛdbhāṇḍāṃś) [ca](ca) [should-avoid](vivarjayet)
 
 ## mukta-m0-p156-v3881
-wall etc kuḍyādyaṃ with-lime sudhāyā lipya place sthalaṃ cow-dung-water gomayavāriṇā
+[wall-etc](kuḍyādyaṃ) [with-lime](sudhāyā) [having-smeared](lipya) [ground](sthalaṃ) [with-cow-dung-water](gomayavāriṇā)
 
 ## mukta-m0-p156-v3882
-circumambulatory-fire paryagnikaraṇaṃ having-done kṛtvā again punaḥ auspicious-day puṇyāha perform mācaret
+[purification-by-fire](paryagnikaraṇaṃ) [having-done](kṛtvā) [again](punaḥ) [auspicious-day-rite](puṇyāha) [should-perform](mācaret)
 
 ## mukta-m0-p156-v3883
-plowing etc karṣaṇādi consecration-end pratiṣṭhānta in-rite kriyāyāṃ who ye installed niveśitāḥ
+[plowing-etc](karṣaṇādi) [installation-end](pratiṣṭhānta) [in-rite](kriyāyāṃ) [ye](ye) [placed](niveśitāḥ)
 
 ## mukta-m0-p156-v3884
-great-net-rite mahājālaprayogeṇa all-mantras sarvamantrāḥ and ca withdraw saṃharet
+[by-great-net](mahājālaprayogeṇa) [all-mantras](sarvamantrāḥ) [ca](ca) [should-withdraw](saṃharet)
 
 ## mukta-m0-p156-v3885
-that-linga etc talliṅgādyaṃ and ca purifying saṃśodhya kuśa-ash-clay-water kuśabhasmamṛdāmbhasā
+[that-sign-etc](talliṅgādyaṃ) [ca](ca) [having-purified](saṃśodhya) [with-kusha-ash-clay-water](kuśabhasmamṛdāmbhasā)
 
 ## mukta-m0-p156-v3886
-astringent-water-mixed kaṣāyodakasaṃyuktaṃ cow-urine-water-between gomūtreṇodakāntaram
+[astringent-water-joined](kaṣāyodakasaṃyuktaṃ) [with-cow-urine](gomūtreṇa) [water-interval](udakāntaram)
 
 ## mukta-m0-p156-v3887
-linga-in-cloth liṅgasthaśambare known jñāte as-before pūrvavan mantra-withdrawal mantrasaṃhṛtiḥ
+[linga-in-cloth](liṅgasthaśambare) [known](jñāte) [as-before](pūrvavat) [mantra-withdrawal](mantrasaṃhṛtiḥ)
 
 ## mukta-m0-p156-v3888
-for-creature-creation-fluid jantukalpadravārthaṃ indeed tu mantra-weapon mantramastraṃ employ niyojayet
+[for-insect-liquid-purpose](jantukalpadravārthaṃ) [tu](tu) [mantra-weapon](mantramastraṃ) [should-employ](niyojayet)
 
 ## mukta-m0-p156-v3889
-remembering smaran extract samuddharet lamp dīpaṃ that-linga-atoms talliṅgāṇubhiḥ accompanied anvitam
+[remembering](smaran) [should-extract](samuddharet) [lamp](dīpaṃ) [with-that-sign-particles](talliṅgāṇubhiranvitam)
 
 ## mukta-m0-p156-v3890
-again punaḥ purify saṃśodhyatāṃ lingaṃ liṅgaṃ previous-substances pūrvadravyaiḥ arrow śareṇa and ca
+[again](punaḥ) [should-purify](saṃśodhyataṃ) [linga](liṅgaṃ) [with-previous-substances](pūrvadravyaiḥ) [and](ca) [with-arrow](śareṇa)
 
 ## mukta-m0-p156-v3891
-own-mantra-equipped svasvamantrasamopetaṃ own-homa-included svasvahomasamanvitam
+[with-own-mantras](svasvamantrasamopetaṃ) [with-own-homa](svasva) [accompanied](homa) [samanvitam](samanvitam)
 
 ## mukta-m0-p156-v3892
-mark-extraction lakṣaṇoddhāraṇam desired iṣṭaṃ in-water jale ca eva adhivāsanam
+[mark-extraction](lakṣaṇoddhāraṇam) [desired](iṣṭaṃ) [in-water](jale) [ca](ca) [eva](eva) [consecration](adhivāsanam)
 
 ## mukta-m0-p156-v3893
-in-inner-chamber garbhagehe or vā all tat sarvaṃ in-pavilion maṇḍape perform samācaret
+[garbha-house](garbhagehe) [atha](atha) [all-that](tatsarvaṃ) [in-pavilion](maṇḍape) [vā](vā) [should-perform](samācaret)
 
 ## mukta-m0-p156-v3894
-self-born svayaṃbhū divine daivike arrow bāṇe vedic cārṣe gana-lord gāṇādhipe thus tathā
+[self-born](svayaṃbhūḥ) [divine](daivike) [arrow](bāṇe) [and](ca) [arsha](ārṣe) [ganadhipe](gāṇādhipe) [tathā](tathā)
 
 ## mukta-m0-p156-v3895
-direction-homa diśāhoma then tataḥ do kuryāt rig-etc ṛgādyaddhya and so on anantathā
+[direction-homa](diśāhomaṃ) [tataḥ](tataḥ) [should-do](kuryāt) [rg-etc](ṛgādyaddhyānāntaṃ) [tathā](tathā)
 
 ## mukta-m0-p156-v3896
-peace-homa śāntihoma then tataḥ having-done kṛtvā bathing snapanaṃ cause kārayet then tataḥ
+[peace-homa](śāntihomaṃ) [tataḥ](tataḥ) [having-done](kṛtvā) [bathing](snapanaṃ) [should-cause](kārayet) [tataḥ](tataḥ)
 
 ## mukta-m0-p156-v3897
-abundant-offering prabhūtahaviṣaṃ giving datvā betel tāmbūla give dāpayet then tataḥ
+[abundant-offering](prabhūtahaviṣaṃ) [having-given](datvā) [betel](tāmbūlaṃ) [should-give](dāpayet) [tataḥ](tataḥ)
 
 ## mukta-m0-p156-v3898
-mung-rice mutgānnaṃ milk-pudding pāyasaṃ gaulaṃ banana-fruit kadalīphalasaṃyutam
+[mung-rice](mutgānnaṃ) [milk-rice](pāyasaṃ) [gaula](gaulaṃ) [with-banana-fruit](kadalīphalasaṃyutam)
 
 ## mukta-m0-p156-v3899
-teacher ācāryaṃ worship pūjayet always nityaṃ gold-cloth-etc svarṇavastrādibhiḥ then tataḥ
+[teacher](ācāryaṃ) [should-worship](pūjayet) [always](nityaṃ) [with-gold-cloth-etc](svarṇavastrādibhiḥ) [tataḥ](tataḥ)
 
 ## mukta-m0-p156-v3900
-all-limbs scattered sarveraṃgairviśīrṇaṃ conquer jet again punaḥ establish saṃsthāpayet new navam
+[all-limbs](sarvāṅgaiḥ) [scattered](viśīrṇaṃ) [jet](jet) [again](punaḥ) [should-establish](saṃsthāpayet) [new](navam)

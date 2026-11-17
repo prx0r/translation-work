@@ -2,52 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p83-v2051
-righteous-kings + seven-limbed-complete
+[dharma-possessing](dhārmikāḥ) [and](ca) [also](eva) [kings](rājānaḥ) [full-seven-limbed](pūrṇasaptāṅga) [endowed](saṃyutāḥ)
+
 ## mukta-m0-p83-v2052
-desired + obtains + from-mandala + monthly + or
+[desired](vāñchitaṃ) [obtains](samavāpnoti) [from-maṇḍala](maṇḍalāt) [monthly](māsataḥ) [or](vā) [also](api)
+
 ## mukta-m0-p83-v2053
-previously-said + rakshas + vayu + indra + agni + isha + varuna + directions + placement + meaning
+[previously-stated](prāgukta) [rakṣa-vāyu-śakra-vahni-īśa-varuṇa-directions](rakṣovāyuśakravahnīśavaruṇadikṣu) [placement](sthāpanāt) [thus-meaning](ityarthaḥ)
+
 ## mukta-m0-p83-v2054
-seven-forms + dakini-etc + six + goddess + and + remainder
+[seven-forms](mūrtisaptakaṃ) [ḍākinī-etc-six-goddesses](ḍārākinyādīnāṃ) [and-goddess](devyāśca) [remainder](iti śeṣaḥ)
+
 ## mukta-m0-p83-v2055
-afflictions + vidya-yantra-power + both + capability
+[afflictions](kleśāḥ) [by-mantra-yantra-power](vidyāyantrānubhāvataḥ) [of-both](ubhayoḥ) [capability](sāmarthyāt)
+
 ## mukta-m0-p83-v2056
-sushumna-middle-situated + six-support-lotuses + those
+[in-suṣumnā-middle-situated](suṣumnāmadhyasaṃstheṣu) [six-support-lotuses](ṣaḍādhārāmbujeṣu) [they](tāḥ)
+
 ## mukta-m0-p83-v2057
-outside + and + mandala + worship-grace-punishment-nature
+[outside](bahiśca) [in-maṇḍala](maṇḍale) [worship-grace-punishment-natured](pūjānugrahānigrahātmikām)
+
 ## mukta-m0-p83-v2058
-smoke-colored-lotus + goddess + dakini + same-form
+[smoke-colored-lotus](dhūmravarṇāmbuje) [goddess](devīṃ) [ḍākinī](ḍākinīṃ) [her-form](tatsamākṛtim)
+
 ## mukta-m0-p83-v2059
-by-her + omniscience-accomplishment + becomes + no + doubt
+[by-her](tayā) [omniscience-siddhi](sarvajñatāsiddhiḥ) [becomes](bhavati) [indeed](eva) [no-doubt](na saṃśayaḥ)
+
 ## mukta-m0-p83-v2060
-obtains
+[obtains](prāpnoti)
+
 ## mukta-m0-p83-v2061
-in-bodies + abiding + those + goddesses + connection + dakini-etc + remainder
+[in-bodies](deheṣu) [residence](sthitim) [they](tāḥ) [goddesses](devyaḥ) [here-connection](ityatrānvayaḥ) [ḍākinī-etc](dākinyādayaḥ) [remainder](iti śeṣaḥ)
+
 ## mukta-m0-p83-v2062
-root-deity-same
+[root-deity-equal](mūladevatāsamānaḥ)
+
 ## mukta-m0-p83-v2063
-rakini + twelve-petals + ka-to-dha-letters-nature
+[rākinī](rākinīṃ) [twelve-petaled](dvādaśadale) [ka-to-ḍha-letters](kādiḍhāntākṣarātmabhiḥ)
+
 ## mukta-m0-p83-v2064
-manipura-named + and + navel-situated + ten-petals
+[maṇipūraka-named](maṇipūrakasaṃjñe) [and](ca) [navel-situated](nābhisthe) [ten-petaled](daśapatrake)
+
 ## mukta-m0-p83-v2065
-lakini + worship + enemy + victory-prosperity
+[lākinī](lākinīṃ) [worship](pūjayed) [enemy](vairivi) [victory-prosperity](jayaśrī) [abundance](samṛddhaye)
+
 ## mukta-m0-p83-v2066
-va-to-sha-six-letters-powers-surrounded + dakini + sacrifice
+[va-to-ṣa-six-letters](vādiṣaḍvarṇa) [powers](śaktībhiḥ) [surrounded](āvṛtāṃ) [ḍākinī](ḍākinīṃ) [worship](yajet)
+
 ## mukta-m0-p83-v2067
-adhara-named + four-petals + gold-colored + lotus
+[support-named](ādhārākhya) [four-petaled](catuṣpatre) [gold-colored](suvarṇābhe) [lotus](saroruhe)
+
 ## mukta-m0-p83-v2068
-anus-flag-between + triangle-middle + fire + endowed
+[anus-banner-between](pāyudhvajāntarā) [triangle](tryasram) [middle](madhye) [fire](tejaḥ) [endowed](samanvitām)
+
 ## mukta-m0-p83-v2069
-served + ha-ksha-powers + hakini + worship + thus
+[served](sevitāṃ) [ha-kṣa-powers](hakṣaśaktibhyāṃ) [hākinī](hākinīṃ) [worship](pūjayet) [thus](tatha)
+
 ## mukta-m0-p83-v2070
-universe-creation-preservation-destruction-power-garland + effortlessly
+[universe-creation-preservation-destruction-power-garland](viśvasṛṣṭisthitidhvaṃsaśaktidāma) [also](apy) [effortlessly](ayatnataḥ)
+
 ## mukta-m0-p83-v2071
-worship + all-suffering-pain-destruction + wealth-abode
+[worship](pūjanaṃ) [all-suffering-pain-destroying](sarvaduḥkhārtināśanaṃ) [prosperity-seat](sampadāspadam)
+
 ## mukta-m0-p83-v2072
-by-her + worship + flag-root + urethra-root
+[by-that-worship](tayā pūjayā) [banner-root](dhvajamūle) [genital-root](mehanamūle)
+
 ## mukta-m0-p83-v2073
-endowed + kundalini-fire-form + likewise + collection
+[endowed](samanvitāṃ) [kuṇḍalinī-fire-form](kuṇḍalinītejorūpām) [and](tathā) [in-collection](samuccaye)
+
 ## mukta-m0-p83-v2074
-past-future-present-action-knowledge-capability-giving + meaning
+[past-present-future-action-knowledge-capability-giving](bhūtabhaviṣyavartamānakāryajñānasāmarthyapradāyinīm) [thus-meaning](ityarthaḥ)
+
 ## mukta-m0-p83-v2075
-middle + and + there + her + eternal-non-eternal + incense-etc + worship
+[middle](madhye) [and](ca) [there](tatra) [her](tāṃ) [eternal-non-eternal](nityānityā) [fragrance-etc](gandhādinā) [worship](arcayet)
