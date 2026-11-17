@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p60-v1476
-[dawn+and](pratyūṣaśca) [shining+and](prabhāsaśca) [these+eight](ete'ṣṭau) [vasus](vasavaḥ) [remembered](smṛtāḥ)
+[pratyūṣaḥ](pratyūṣaḥ) [ca](ca) [prabhāsaḥ](prabhāsaḥ) [ca](ca) [ete](ete) [aṣṭau](aṣṭau) [vasavaḥ](vasavaḥ) [smṛtāḥ](smṛtāḥ)
 
 ## mukta-m0-p60-v1477
-[three-ages](traitāyuge) [named-anatta](tvanattākhyaḥ) [in-kali](kalau) [lord](svāmī) [sadāśiva](sadāśivaḥ)
+[traitāyuge](traitāyuge) [tu](tu) [anattā+ākhyaḥ](anattākhyaḥ) [kalau](kalau) [svāmī](svāmī) [sadāśivaḥ](sadāśivaḥ)
 
 ## mukta-m0-p60-v1478
-[of-fish-etc](mīnādīnāṃ) [and](ca) [of-signs](rāśīnāṃ) [triad](tritayaṃ) [triad](tritayaṃ) [in-order](kramāt)
+[mīna+ādīnāṃ](mīnādīnāṃ) [ca](ca) [rāśīnāṃ](rāśīnāṃ) [tritayaṃ](tritayaṃ) [tritayaṃ](tritayaṃ) [kramāt](kramāt)
 
 ## mukta-m0-p60-v1479
-[lord+and](īśvarāvyaṃ) [rudra](rudraṃ) [śaṅkara](śaṅkaraṃ) [śambhu-known](śambhujñakam)
+[īśvara+avyaṃ](īśvarāvyaṃ) [ca](ca) [rudraṃ](rudraṃ) [śaṅkaraṃ](śaṅkaraṃ) [śambhu+jñakam](śambhujñakam)
 
 ## mukta-m0-p60-v1480
-[of-viṣṇu-and-sun](viṣṇvarkayoḥ) [in-place](prathiṣṭhāne) [viṣṇu-indra-etc](viṣṇvindradīnprakalpayet)
+[viṣṇu+arkayoḥ](viṣṇvarkayoḥ) [pratiṣṭhāne](prathiṣṭhāne) [viṣṇu+indra+ādīn](viṣṇvindradīn) [prakalpayet](prakalpayet)
 
 ## mukta-m0-p60-v1481
-[from-east-doorkeepers](pūrvāditoraṇā) [overseers](dhyakṣaścatvāromī'prakīrtitāḥ)
+[pūrvādi+toranāḥ](pūrvāditoraṇā) [dhyakṣāḥ](dhyakṣaścatvāro) [catvāraḥ](catvāro) [mī+aprakīrtitāḥ](mī'prakīrtitāḥ)
 
 ## mukta-m0-p60-v1482
-[outside-thus](bahirevamalaṅkṛtya) [then+again+inside](tataścābhyantare) [again](punaḥ)
+[bahiḥ](bahirevamalaṅkṛtya) [eva](eva) [alaṅkṛtya](alaṅkṛtya) [tataḥ](tataścābhyantare) [ca](ca) [abhyantare](abhyantare) [punaḥ](punaḥ)
 
 ## mukta-m0-p60-v1483
-[with-jewels](suratnau) [seed-filled](ṣaghigarbhāśca) [complete](saṃpūrṇā) [with-scented-water](gandhavāriṇāḥ)
+[su+ratnau](suratnau) [ṣaḍ+ghigarbhāḥ](ṣaghigarbhāśca) [ca](ca) [saṃpūrṇāḥ](saṃpūrṇā) [gandha+vāriṇāḥ](gandhavāriṇāḥ)
 
 ## mukta-m0-p60-v1484
-[with-lamp-rice-fruit](dīpākṣataphalairyuktā) [door-guardians-eight-mantra](dvāḥpālāṣṭakamantritāḥ)
+[dīpa+akṣata+phalaiḥ](dīpākṣataphalairyuktā) [yuktāḥ](yuktā) [dvāḥ](dvāḥ) [pāla+aṣṭaka+mantritāḥ](pālāṣṭakamantritāḥ)
 
 ## mukta-m0-p60-v1485
-[rudra-vīra](rūdrovīra) [thus-known](iti jñeyā) [eight](aṣṭau) [pot-deities](kalaśadevatāḥ)
+[rudra+vīra](rūdrovīra) [iti](iti) [jñeyāḥ](jñeyā) [aṣṭau](aṣṭau) [kalaśa+devatāḥ](kalaśadevatāḥ)
 
 ## mukta-m0-p60-v1486
-[fifth](pañcamaḥ) [śaṅku-karṇa-named](śaṅkukarṇākhyaḥ) [all-eyed](sarvanetrastathāparaḥ)
+[pañcamaḥ](pañcamaḥ) [śaṅku+karṇa+ākhyaḥ](śaṅkukarṇākhyaḥ) [sarva+netraḥ](sarvanetraḥ) [tathā](tathā) [aparaḥ](aparaḥ)
 
 ## mukta-m0-p60-v1487
-[by-one-one-element-millions](ekaikabhūtakoṭībhirāvṛtā) [banner-deities](dhvajadevatāḥ)
+[ekaika+bhūta+koṭībhiḥ](ekaikabhūtakoṭībhirāvṛtā) [āvṛtāḥ](āvṛtā) [dhvaja+devatāḥ](dhvajadevatāḥ)
 
 ## mukta-m0-p60-v1488
-[doorkeeper](dāraḥ) [white-black](sitāsitaśceti) [thus-known](vijñeyā) [door-guardians](dvārapālakāḥ)
+[dāraḥ](dāraḥ) [sita+asitaḥ](sitāsitaśceti) [ca](ca) [iti](iti) [vijñeyāḥ](vijñeyā) [dvāra+pālakāḥ](dvārapālakāḥ)
 
 ## mukta-m0-p60-v1489
-[with-eight-rambhā](rambhāṣṭakasamāyukta) [with-eight-field-guardians](kṣetrapālāṣṭakanvitam)
+[rambhā+aṣṭaka+samāyukta](rambhāṣṭakasamāyukta) [kṣetra+pāla+aṣṭaka+anvitam](kṣetrapālāṣṭakanvitam)
 
 ## mukta-m0-p60-v1490
-[time](kālaḥ) [karālika-one-foot](karālikaikāṅghrirbhīmo'ṣṭau) [field-guardians](kṣetrapālakāḥ)
+[kālaḥ](kālaḥ) [karālika+eka+āṅghriḥ](karālikaikāṅghrirbhīmo) [bhīmaḥ](bhīmo) [aṣṭau](aṣṭau) [kṣetra+pālakāḥ](kṣetrapālakāḥ)
 
 ## mukta-m0-p60-v1491
-[with-three-doors-bound](baddhadvāratraye) [there](tasmin) [expel-west-facing](bāhayetpaścimānanam)
+[baddha+dvāra+traye](baddhadvāratraye) [tasmin](tasmin) [bāhayet](bāhayet) [paścima+ānanam](paścimānanam)
 
 ## mukta-m0-p60-v1492
-[enter-not](praveśayenna) [there-only](tatraiva) [do-protection](kuryādyāgasya rakṣaṇam)
+[praveśayet](praveśayenna) [na](na) [tatra+eva](tatraiva) [kuryāt](kuryādyāgasya) [yāgasya](yāgasya) [rakṣaṇam](rakṣaṇam)
 
 ## mukta-m0-p60-v1493
-[of-shrine](prāsādasya) [by-measure](pramāmena) [with-pedestal-two-roofs](sapīṭhaṃ dvicchadānvitam)
+[prāsādasya](prāsādasya) [pramāṇena](pramāmena) [sa+pīṭhaṃ](sapīṭhaṃ) [dvi+cchada+anvitam](dvicchadānvitam)
 
 ## mukta-m0-p60-v1494
-[four-roofs](catuśchadaṃ) [four-cornered](catuṣkoṇaṃ) [hero](vīraṃ) [pure-measured](vimalamānataḥ)
+[catuḥ+cchadaṃ](catuśchadaṃ) [catuḥ+koṇaṃ](catuṣkoṇaṃ) [vīraṃ](vīraṃ) [vimala+mānataḥ](vimalamānataḥ)
 
 ## mukta-m0-p60-v1495
-[in-corner](koṇe) [banner-canopy-adorned](dhvajavitānāḍyaṃ) [banana-mango-decorated](kadalīcūtamaṇḍitam)
+[koṇe](koṇe) [dhvaja+vitāna+āḍyaṃ](dhvajavitānāḍyaṃ) [kadalī+cūta+maṇḍitam](kadalīcūtamaṇḍitam)
 
 ## mukta-m0-p60-v1496
-[by-half-pavilion](maṇḍapārdhapratāṇena) [raised-fourth-part](caturyāṃśasamucchritām)
+[maṇḍapa+ardha+pratāṇena](maṇḍapārdhapratāṇena) [catur+yāṃśa+samucchritām](caturyāṃśasamucchritām)
 
 ## mukta-m0-p60-v1497
-[make-or-common](kurvīta vātha sāmānyaṃ) [in-pavilion](maṇḍape) [two-altars](vedikādvayam)
+[kurvīta](kurvīta) [vā](vā) [atha](atha) [sāmānyaṃ](sāmānyaṃ) [maṇḍape](maṇḍape) [vedikā+dvayam](vedikādvayam)
 
 ## mukta-m0-p60-v1498
-[make-that-pedestal](kuryāttantadhyataḥ pīṭhaṃ) [named-bhadra](bhadrākhyaṃ) [milk-tree-born](kṣīravṛkṣajam)
+[kuryāt](kuryāttantadhyataḥ) [tat](tat) [adhyataḥ](adhyataḥ) [pīṭhaṃ](pīṭhaṃ) [bhadra+ākhyaṃ](bhadrākhyaṃ) [kṣīra+vṛkṣa+jam](kṣīravṛkṣajam)
 
 ## mukta-m0-p60-v1499
-[width-double](vistāradviguṇaṃ) [length](dairghyaṃ) [of-small-ones](kanyasānāṃ) [always](sadaiva tu)
+[vistāra+dviguṇaṃ](vistāradviguṇaṃ) [dairghyaṃ](dairghyaṃ) [kanyasānāṃ](kanyasānāṃ) [sadaiva](sadaiva) [tu](tu)
 
 ## mukta-m0-p60-v1500
-[pedestal-measure](pīṭhamānamiti proktaṃ) [pavilion-measure-thus-speak](kuṭīmānamato bruve)
+[pīṭha+mānam](pīṭhamānam) [iti](iti) [proktaṃ](proktaṃ) [kuṭī+mānam](kuṭīmānam) [ataḥ](ato) [bruve](bruve)

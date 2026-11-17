@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p50-v1226
-[pedestal-gen](pīṭhikāyāḥ) [height-acc](samucchrāyaṃ) [part-instr](vikārāṃśena) [divide-opt](bhājayet)
+[pithika-samucchraya](pīṭhikāyāḥ) [samucchraya](samucchrāyaṃ) [vikara-amsha](vikārāṃśena) [bhajayet](bhājayet)
 
 ## mukta-m0-p50-v1227
-[quality-part-loc](guṇābhāge) [thus](tathā) [pot-nom](kumbhaḥ) [pot-band-nom](kumbhapaṭṭi) [but](tu) [part-abl](bhāgataḥ)
+[guna-abhaga](guṇābhāge) [tatha](tathā) [kumbha](kumbhaḥ) [kumbha-patti](kumbhapaṭṭi) [tu](tu) [bhagatah](bhāgataḥ)
 
 ## mukta-m0-p50-v1228
-[side-part-loc](pakṣabhāge) [water-holder-nom](jalādhāra) [one-part-loc](ekāṃśe) [remainder-band-nom](śeṣapaṭṭikā)
+[paksha-bhaga](pakṣabhāge) [jala-adhara](jalādhāra) [eka-amsha](ekāṃśe) [shesha-pattika](śeṣapaṭṭikā)
 
 ## mukta-m0-p50-v1229
-[arrow-doctrine-according-instr](bāṇamatānusāreṇa) [smaller-thus](kanyasītthaṃ) [breast-nom](payodharā)
+[bana-mata-anusarena](bāṇamatānusāreṇa) [kanyasi](kanyasī) [payodhara](payodharā)
 
 ## mukta-m0-p50-v1230
-[band-sub-band-nom](paṭṭopapaṭṭikā) [neck-nom](kaṇṭho) [throat-band-sub-band-nom](galapaṭṭaṭdayupapaṭṭikā)
+[pattopa-pattika](paṭṭopapaṭṭikā) [kantha](kaṇṭho) [gala-patta-daya-upa-pattika](galapaṭṭaṭdayupapaṭṭikā)
 
 ## mukta-m0-p50-v1231
-[girdle-nom](mekhalā) [band-nom](paṭṭikā) [but](kintu) [part-instr](bhāgakena) [above-that](tadūrdhvataḥ)
+[mekhala](mekhalā) [pattika](paṭṭikā) [kintu](kintu) [bhagakena](bhāgakena) [tad-urdhvatah](tadūrdhvataḥ)
 
 ## mukta-m0-p50-v1232
-[height-half-nom](ucchrāyārdha) [but](tu) [pedestal-gen](pīṭhyāḥ) [be-opt](syāt) [rudra-part-loc](rudrabhāge) [twofold](dvidhā) [made](kṛte)
+[ucchraya-ardha](ucchrāyārdha) [tu](tu) [pithyah](pīṭhyāḥ) [syad-rudra-bhaga](syādrudrabhāge) [dvidha-krte](dvidhā kṛte)
 
 ## mukta-m0-p50-v1233
-[three-instr](tribhiḥ) [alja-acc](aljaṃ) [two-band-loc](dvipaṭṭau) [but](tu) [two-instr](dvābhyāṃ) [two-instr](dvābhyā) [thus-lotus-acc](tathāmbujam)
+[tribhi-aljam](tribhiraljaṃ) [dvi-pattau](dvipaṭṭau) [dvaabhyam](dvābhyāṃ) [dvaabhyam](dvābhyā) [tatha-ambujam](tathāmbujam)
 
 ## mukta-m0-p50-v1234
-[two-instr](dvābhyāṃ) [two-instr](dvābhyāṃ) [gradual-foot-acc](kramātpadyaṃ) [half-part-loc](sārdhāśe) [throat-exit-nom](galanirgamaḥ)
+[dvaabhyam](dvābhyāṃ) [dvaabhyam](dvābhyāṃ) [krama-tpadyam](kramātpadyaṃ) [sardha-ashe](sārdhāśe) [gala-nirgama](galanirgamaḥ)
 
 ## mukta-m0-p50-v1235
-[neck-pair-instr](kaṇṭhadvayena) [joined-nom](saṃyuktā) [six-instr](ṣaḍbhiḥ) [lotus-instr](padmair) [adorned-nom](vibhūṣitā)
+[kantha-dvayena](kaṇṭhadvayena) [samyukta](saṃyuktā) [shadbhih](ṣaḍbhiḥ) [padmai-vibhushita](padmairvibhūṣitā)
 
 ## mukta-m0-p50-v1236
-[samvarta-named-nom](samvartākhyā) [water-holder-nom](jalādhārā) [vishnu-part-end-acc](viṣṇubhāgāntam) [raised-nom](ucchritā)
+[samvarta-akhya](samvartākhyā) [jala-adhara](jalādhārā) [vishnu-bhaga-antam-ucchrita](viṣṇubhāgāntamucchritā)
 
 ## mukta-m0-p50-v1237
-[linga-strike-three-wrap-instr](liṅganāhatriveṣṭena) [round-unclear-gen](vṛttāvyaktasya) [base-nom](piṇḍikā)
+[linga-nahatri-veshtena](liṅganāhatriveṣṭena) [vritta-avyaktasya](vṛttāvyaktasya) [pindika](piṇḍikā)
 
 ## mukta-m0-p50-v1238
-[that-length-half-width-abl](taddīrghatvārdhavistārāt) [that-half-stalk-heights-nom](tadardhānnālakocchrayau)
+[tad-dirghatva-ardha-vistarat](taddīrghatvārdhavistārāttadardhānnālakocchrayau)
 
 ## mukta-m0-p50-v1239
-[height-loc](ucchraye) [tenfold-divided-loc](daśadhābhakte) [foot-acc](padaṃ) [pot-acc](kumbhaṃ) [thus](tathā) [throat-acc](galam)
+[ucchraye](ucchraye) [dashadha-bhakte](daśadhābhakte) [padam](padaṃ) [kumbham](kumbhaṃ) [tatha](tathā) [galam](galam)
 
 ## mukta-m0-p50-v1240
-[hoof-acc](khuraṃ) [thigh-acc](jaṅyā) [and](ca) [knee-acc](kūrṇauṃ) [and](ca) [neck-acc](kaṇṭhaṃ) [and-indeed-subneck-acc](caivopakaṇṭhikām)
+[khuram](khuraṃ) [jangya](jaṅyā) [ca](ca) [kurnaum](kūrṇauṃ) [ca](ca) [kantham](kaṇṭhaṃ) [caiva-upakanthikam](caivopakaṇṭhikām)
 
 ## mukta-m0-p50-v1241
-[one-pair-one-side-one-pair-one-throat-part-instr](ekayugmaikapakṣaikayugmaikagalāṃśakaiḥ)
+[eka-yugma-eka-paksha-eka-yugma-eka-gala-amshakaih](ekayugmaikapakṣaikayugmaikagalāṃśakaiḥ)
 
 ## mukta-m0-p50-v1242
-[sixteen-part-made-height-loc](ṣoḍaśāṃśakṛtocchāye) [elder-gen-pl](jyeṣṭhānām) [seat-loc](āsane) [always](sadā)
+[shodasha-amsha-krta-ucchaye](ṣoḍaśāṃśakṛtocchāye) [jyeshthanam-asane](jyeṣṭhānāmāsane) [sada](sadā)
 
 ## mukta-m0-p50-v1243
-[foot-band-pot-nom](caraṇapaṭṭikākumbha) [band-nom](paṭṭikā) [throat-band-nom](galapaṭṭikā)
+[charana-pattika-kumbha](caraṇapaṭṭikākumbha) [pattika](paṭṭikā) [gala-pattika](galapaṭṭikā)
 
 ## mukta-m0-p50-v1244
-[eight-direction-extended-hands-instr-and](aṣṭadigravihastaiśca) [low-middle-high-nom-pl](hīnamadhyottamāḥ) [three-instr](tribhiḥ)
+[ashta-digra-vihastaih-ca](aṣṭadigravihastaiśca) [hinam-adhyottamah-tribhih](hīnamadhyottamāstribhiḥ)
 
 ## mukta-m0-p50-v1245
-[entrance-height-width-abl](praveśogdamabāhulyāt) [shu](chū) [bhranala-etc](bhranālādi) [as-before](pūrvavat)
+[praveshogdama-bahulyacchu](praveśogdamabāhulyācchū) [bhrana-la-adi](bhranālādi) [purvavat](pūrvavat)
 
 ## mukta-m0-p50-v1246
-[that-third-part-abl](tattryaṃśāt) [pedestal-width-nom](pīṭhavistāraḥ) [that-quarter-less-height-nom](tatpādonasamucchrayaḥ)
+[tat-tryamshat-pitha-vistarastat-pada-una-samucchrayah](tattryaṃśātpīṭhavistārastatpādonasamucchrayaḥ)
 
 ## mukta-m0-p50-v1247
-[with](saha) [pot-nom](kumbho) [throat-nom](galo) [round-nom](vṛtto) [veda-corner-nom](vedāsrā) [band-nom](paṭṭikā) [gradually](kramāt)
+[saha](saha) [kumbho](kumbho) [galo](galo) [vritto](vṛtto) [vedasra](vedāsrā) [pattika](paṭṭikā) [kramat](kramāt)
 
 ## mukta-m0-p50-v1248
-[elsewhere](anyatra) [but-thus-thus](tvevamevaṃ) [be-opt](syāt) [curved-ear-pedestal-nom](saṃvṛttātkarṇapīṭakam)
+[anyatra](anyatra) [tvevamevam](tvevamevaṃ) [syat-samvrittat-karna-pitakam](syātsaṃvṛttātkarṇapīṭakam)
 
 ## mukta-m0-p50-v1249
-[smooth-tight-joint-nom-and](suślakṣṇāśliṣṭasandhiśca) [form-instr](rupeṇa) [cloud-etc-like](ambudharādivat)
+[sushlakshna-ashlishta-sandhih-ca](suślakṣṇāśliṣṭasandhiśca) [rupe-na-ambudhara-divat](rupeṇāmbudharādivat)
 
 ## mukta-m0-p50-v1250
-[some-gen-pl-but](keṣāṃcittu) [opinion-loc](mate) [manifest-linga-loc](vyaktaliṅge) [but](tu) [umbrella-head-loc](chatramastake)
+[keshancittu](keṣāṃcittu) [mate](mate) [vyakta-linge](vyaktaliṅge) [tu](tu) [chatram-astake](chatramastake)
