@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p63-v1551
-[womb-support-bearer](garbhādhāradharā)
+[garbhādhāradharā](garbhādhāradharā) [p](p) [197](197) [garbhādhāradharā](garbhādhāradharā)
 
 ## mukta-m0-p63-v1552
-[embryo](garbhaṃ) [meditate](dadhyāt) [not](na) [if](cet) [do](kuryāt) [womb-support-bearer](garbhādhāradharā) [compassion](dayām)
+[garbhaṃ](garbhaṃ) [dadhyānna](dadhyānna) [cet](cet) [kuryād](kuryād) [garbhādhāradharā](garbhādhāradharā) [dayām](dayām)
 
 ## mukta-m0-p63-v1553
-[empty](śūnyā)
+[śūnyā](śūnyā)
 
 ## mukta-m0-p63-v1554
-[empty-thus](śūnyeti) [she](sā) [how](kathaṃ) [sung](gītā) [ever-full](sadāpūrṇā) [great-lady](maheśvarī)
+[śūnyeti](śūnyeti) [sā](sā) [kathaṃ](kathaṃ) [gītā](gītā) [sadāpūrṇā](sadāpūrṇā) [maheśvarī](maheśvarī)
 
 ## mukta-m0-p63-v1555
-[womb-abode-dweller](garbhāśayanivāsinī)
+[garbhāśayanivāsinī](garbhāśayanivāsinī)
 
 ## mukta-m0-p63-v1556
-[of-embryo](garbhasya) [tenth](daśamāḥ) [these](sveṣā) [womb-abode-dweller](garbhāśayanivāsinī)
+[garbhasya](garbhasya) [daśamāssveṣā](daśamāssveṣā) [garbhāśayanivāsinī](garbhāśayanivāsinī)
 
 ## mukta-m0-p63-v1557
-[demon-enemy-slayer](surārighātinī) [rite](kṛtyā)
+[surārighātinī](surārighātinī) [kṛtyā](kṛtyā)
 
 ## mukta-m0-p63-v1558
-[demon-enemy-slayer](surārighātinī) [rite](kṛtyā) [by-compassion](kṛpayā) [own](nijayā) [may-be](bhavet)
+[surārighātinī](surārighātinī) [kṛtyā](kṛtyā) [kṛpayā](kṛpayā) [nijayā](nijayā) [bhavet](bhavet)
 
 ## mukta-m0-p63-v1559
-[putana](pūtanā)
+[pūtanā](pūtanā)
 
 ## mukta-m0-p63-v1560
-[strong](balī) [having-become](bhūtvā) [slain-demons](hanaddaityān) [weak](abalaḥ) [putana-thus](pūtaneti) [she](sā)
+[balī](balī) [bhūtvāhanaddaityānabalaḥ](bhūtvāhanaddaityānabalaḥ) [pūtaneti](pūtaneti) [sā](sā)
 
 ## mukta-m0-p63-v1561
-[tilottama](tilottamā)
+[tilottamā](tilottamā)
 
 ## mukta-m0-p63-v1562
-[whose](yasyāḥ) [of-shiva-may-be](śivāyāstu) [tilottama-thus](tilottameti) [she](sā)
+[yasyāḥ](yasyāḥ) [śivāyāstu](śivāyāstu) [tilottameti](tilottameti) [sā](sā)
 
 ## mukta-m0-p63-v1563
-[shame](lajjā)
+[p](p) [198](198) [lajjā](lajjā)
 
 ## mukta-m0-p63-v1564
-[shame](lajjā) [not](na) [I-know](jāne) [supreme-lady](parameśvarī) [you](tvam)
+[lajjā](lajjā) [na](na) [jāne](jāne) [parameśvarī](parameśvarī) [tvam](tvam)
 
 ## mukta-m0-p63-v1565
-[juice-possessing](rasavatī)
+[rasavatī](rasavatī)
 
 ## mukta-m0-p63-v1566
-[juice-only-remainder](rasamātrāvaśeṣaḥ) [if-be](syāccet) [would-be](syāt) [juice-possessing](rasavatī) [compassion](dayā)
+[rasamātrāvaśeṣaḥ](rasamātrāvaśeṣaḥ) [syāccet](syāccet) [syādrasavatī](syādrasavatī) [dayā](dayā)
 
 ## mukta-m0-p63-v1567
-[nanda](nandā)
+[nandā](nandā)
 
 ## mukta-m0-p63-v1568
-[how](kathaṃ) [not](na) [would-be](syuḥ) [people](janāḥ) [all](sarve) [by-whom](yena) [nanda](nandā) [worshipped](samarcitā)
+[kathaṃ](kathaṃ) [na](na) [syurjanāḥ](syurjanāḥ) [sarve](sarve) [yena](yena) [nandā](nandā) [samarcitā](samarcitā)
 
 ## mukta-m0-p63-v1569
-[bhavani](bhavānī)
+[bhavānī](bhavānī)
 
 ## mukta-m0-p63-v1570
-[be-you](bhavatvaṃ) [new-joy-heap](navānandarāśiṃ) [very-wonderful](sucitram)
+[bhavatvaṃ](bhavatvaṃ) [navānandarāśiṃ](navānandarāśiṃ) [sucitram](sucitram)
 
 ## mukta-m0-p63-v1571
-[sin-destroyer](pāpanāśinī)
+[pāpanāśinī](pāpanāśinī)
 
 ## mukta-m0-p63-v1572
-[whose](yadīyayā) [shiva](śivā) [she-this](seyam) [praised](kīrtitā) [sin-destroyer](pāpanāśinī)
+[yadīyayā](yadīyayā) [śivā](śivā) [seyaṃ](seyaṃ) [kīrtitā](kīrtitā) [pāpanāśinī](pāpanāśinī)
 
 ## mukta-m0-p63-v1573
-[silk-garment-wearer](paṭṭāmbaradharā)
+[p](p) [199](199) [paṭṭāmbaradharā](paṭṭāmbaradharā)
 
 ## mukta-m0-p63-v1574
-[blue-lotus](nīlotpalinī) [attached](upāsaktā) [lotus-like](padminīva) [shines](virājate)
+[nīlotpalinyupāsaktā](nīlotpalinyupāsaktā) [padminīva](padminīva) [virājate](virājate)
 
 ## mukta-m0-p63-v1575
-[song](gītiḥ)
+[gītiḥ](gītiḥ)

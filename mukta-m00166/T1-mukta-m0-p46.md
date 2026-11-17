@@ -2,7 +2,7 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p46-v1126
-[samanāmahitatvakṛt-nu](samanāmahitatvakṛnnu) [bhūtā](bhūtā) [śukahastā](śukahastā) [sukhakṛt-na](sukhakṛnna) [vāśu](vāśu) [kasya](kasya)
+[samanāmahitatvakṛnnu](samanāmahitatvakṛnnu) [bhūtā](bhūtā) [śukahastā](śukahastā) [sukhakṛnna](sukhakṛnna) [vāśu](vāśu) [kasya](kasya)
 
 ## mukta-m0-p46-v1127
 [puṣpabāṇā](puṣpabāṇā)
@@ -41,7 +41,7 @@
 [śubhrāmbaradharā](śubhrāmbaradharā) [seyaṃ](seyaṃ) [śubhraṃ](śubhraṃ) [vitaratādyaśaḥ](vitaratādyaśaḥ)
 
 ## mukta-m0-p46-v1139
-[dhīrā](dhīrā)
+[p. 154) dhīrā](p. 154) dhīrā)
 
 ## mukta-m0-p46-v1140
 [sadāṅgayātāpi](sadāṅgayātāpi) [harasya](harasya) [pūrṇānandaiva](pūrṇānandaiva) [dhīrāstu](dhīrāstu) [nijārthakartrī](nijārthakartrī)

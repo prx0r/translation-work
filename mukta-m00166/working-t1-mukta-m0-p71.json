@@ -7,8 +7,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "bhūtabhāvivibhāvinī",
-"quick_gloss": "being-future-manifesting"
+"surface": "bhūta",
+"quick_gloss": "past"
+},
+{
+"surface": "bhāvi",
+"quick_gloss": "present"
+},
+{
+"surface": "vibhāvinī",
+"quick_gloss": "future-knower"
 }
 ]
 },
@@ -74,12 +82,12 @@
 "quick_gloss": "she"
 },
 {
-"surface": "maṅgalā",
+"surface": "maṅgalāḥ",
 "quick_gloss": "auspicious"
 },
 {
-"surface": "asya",
-"quick_gloss": "his"
+"surface": "tvasya",
+"quick_gloss": "of-him"
 },
 {
 "surface": "sadā",
@@ -100,7 +108,7 @@
 "tokens": [
 {
 "surface": "suśīlā",
-"quick_gloss": "good-charactered"
+"quick_gloss": "good-character"
 }
 ]
 },
@@ -117,19 +125,15 @@
 },
 {
 "surface": "suśīlā",
-"quick_gloss": "good-charactered"
+"quick_gloss": "good-character"
 },
 {
 "surface": "yadi",
 "quick_gloss": "if"
 },
 {
-"surface": "na",
-"quick_gloss": "not"
-},
-{
-"surface": "abhaviṣyaḥ",
-"quick_gloss": "would-be"
+"surface": "nābhaviṣyaḥ",
+"quick_gloss": "not-would-be"
 }
 ]
 },
@@ -141,8 +145,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "paramārthaprabodhikā",
-"quick_gloss": "ultimate-truth-awakening"
+"surface": "paramārtha+prabodhikā",
+"quick_gloss": "ultimate-truth-awakener"
 }
 ]
 },
@@ -155,10 +159,10 @@
 "tokens": [
 {
 "surface": "yadāptyā",
-"quick_gloss": "by-attainment"
+"quick_gloss": "by-whose-attainment"
 },
 {
-"surface": "bhrāmakān",
+"surface": "bhrāmaka",
 "quick_gloss": "wandering"
 },
 {
@@ -188,7 +192,7 @@
 "tokens": [
 {
 "surface": "dakṣiṇā",
-"quick_gloss": "right-handed"
+"quick_gloss": "right-generous"
 }
 ]
 },
@@ -201,23 +205,19 @@
 "tokens": [
 {
 "surface": "yataḥ",
-"quick_gloss": "since"
+"quick_gloss": "whence"
 },
 {
 "surface": "tataḥ",
-"quick_gloss": "there"
+"quick_gloss": "thence"
 },
 {
-"surface": "tat",
-"quick_gloss": "that"
-},
-{
-"surface": "prajñaiḥ",
-"quick_gloss": "wise"
+"surface": "tataprajñaiḥ",
+"quick_gloss": "by-those-wise"
 },
 {
 "surface": "dakṣiṇā",
-"quick_gloss": "right-handed"
+"quick_gloss": "right-generous"
 },
 {
 "surface": "iti",
@@ -237,8 +237,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "dakṣiṇāmūrtiḥ",
-"quick_gloss": "right-handed-form"
+"surface": "dakṣiṇā+mūrtiḥ",
+"quick_gloss": "right-generous-form"
 }
 ]
 },
@@ -255,7 +255,7 @@
 },
 {
 "surface": "dakṣiṇāmūrtiḥ",
-"quick_gloss": "right-handed-form"
+"quick_gloss": "right-generous-form"
 },
 {
 "surface": "iti",
@@ -276,7 +276,7 @@
 "tokens": [
 {
 "surface": "sudakṣiṇā",
-"quick_gloss": "very-right-handed"
+"quick_gloss": "very-right-generous"
 }
 ]
 },
@@ -301,7 +301,7 @@
 },
 {
 "surface": "sudakṣiṇā",
-"quick_gloss": "very-right-handed"
+"quick_gloss": "very-right-generous"
 },
 {
 "surface": "asi",
@@ -376,16 +376,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "rogaśokavinivartitāśayā",
-"quick_gloss": "disease-sorrow-removing"
+"surface": "rogaśoka+vinivartitāśayā",
+"quick_gloss": "disease-sorrow-removing-mind"
 },
 {
 "surface": "yoginī",
 "quick_gloss": "yoginī"
 },
 {
-"surface": "subhagayogadā",
-"quick_gloss": "auspicious-yoga-giving"
+"surface": "subhaga+yoga+dā",
+"quick_gloss": "auspicious-yoga-giver"
 },
 {
 "surface": "astu",
@@ -418,16 +418,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "cidānandaiva",
+"surface": "cidānanda+eva",
 "quick_gloss": "consciousness-bliss-only"
 },
 {
 "surface": "yat",
-"quick_gloss": "which"
+"quick_gloss": "because"
 },
 {
 "surface": "nityaṃ",
-"quick_gloss": "eternally"
+"quick_gloss": "always"
 },
 {
 "surface": "yogayuktā",
@@ -468,11 +468,11 @@
 "quick_gloss": "of-afflicted"
 },
 {
-"surface": "āpadantaikahetuḥ",
+"surface": "āpad+anta+eka+hetuḥ",
 "quick_gloss": "calamity-end-single-cause"
 },
 {
-"surface": "yogāṅge",
+"surface": "yogāṅgā",
 "quick_gloss": "yoga-limb"
 },
 {
@@ -515,7 +515,7 @@
 },
 {
 "surface": "api",
-"quick_gloss": "also"
+"quick_gloss": "although"
 },
 {
 "surface": "sarvā",
@@ -547,8 +547,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "yogapaṭṭadharā",
-"quick_gloss": "yoga-band-wearing"
+"surface": "yoga+paṭṭa+dhara",
+"quick_gloss": "yoga-band-wearer"
 }
 ]
 }

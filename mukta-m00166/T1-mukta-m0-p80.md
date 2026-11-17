@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p80-v1976
-[haṃsa-japya-mayī](haṃsajapyamayī) [haṃsī](haṃsī) [haṃsa-bhāvaṃ](haṃsabhāvaṃ) [dadāu](dadāu) [vaḥ](vaḥ)
+[swan-mantra-filled](haṃsajapyamayī) [swan-fem](haṃsī) [swan-nature](haṃsabhāvaṃ) [gave](dadāu) [to-you](vaḥ)
 
 ## mukta-m0-p80-v1977
-[haṃsa-ujjvala-śiroruha](haṃsojjvalaśiroruhā)
+[swan-radiant-crest](haṃsojjvalaśiroruhā)
 
 ## mukta-m0-p80-v1978
-[mānase](mānase) [bhātu](bhātu) [bhaktānāṃ](bhaktānāṃ) [haṃsa-ujjvala-śiroruha](haṃsojjvalaśiroruhā)
+[in-mind](mānase) [may-shine](bhātu) [of-devotees](bhaktānāṃ) [swan-radiant-crest](haṃsojjvalaśiroruhā)
 
 ## mukta-m0-p80-v1979
-[pūrṇa-candra-mukhī](pūrṇacandramukhī)
+[full-moon-face](pūrṇacandramukhī)
 
 ## mukta-m0-p80-v1980
-[yadā-asya-induḥ](yadāsyaminduḥ) [kimu](kimu) [pūrṇa-candra-mukhī](pūrṇacandramukhī) [puras](puro) [harṣa-karī](harṣakarī) [sadā-astu](sadāstu)
+[when](yadā) [in-mouth](asyam) [moon](induḥ) [how-much-more](kimu) [full-moon-face](pūrṇacandramukhī) [before](puro) [joy-causing](harṣakarī) [always](sadā) [may-be](astu)
 
 ## mukta-m0-p80-v1981
-[śyāmā](śyāmā)
+[dark](śyāmā)
 
 ## mukta-m0-p80-v1982
-[śyāmā-iha](śyāmeha) [netra-andhya](netrāndhyam) [ananya-gatvāt](ananyagatvāt)
+[dark-here](śyāmeha) [blindness-of-eyes](netrāndhyam) [non-other-going](ananyagatvāt)
 
 ## mukta-m0-p80-v1983
-[smita-āsyā](smitāsyā)
+[smiling-face](smitāsyā)
 
 ## mukta-m0-p80-v1984
-[smitaṃ](smitaṃ) [vidhatte](vidhatte) [astu](astu) [hitā](hitā) [smita-āsyā](smitāsyā)
+[smile](smitaṃ) [may-give](vidhatte'stu) [beneficial](hitā) [smiling-face](smitāsyā)
 
 ## mukta-m0-p80-v1985
-[śyāma-kuṇḍalā](śyāmakuṇḍalā)
+[dark-earring](śyāmakuṇḍalā)
 
 ## mukta-m0-p80-v1986
-[sabhṛṅga-dvaya-bhūmy-abja-iva](sabhṛṅgadvayabhūmyabjamiva) [sā](sā) [śyāma-kuṇḍalā](śyāmakuṇḍalā)
+[with-two-bees-ground-lotus-like](sabhṛṅgadvayabhūmyabjamiva) [she](sā) [dark-earring](śyāmakuṇḍalā)
 
 ## mukta-m0-p80-v1987
-[maṣī](maṣī)
+[ink](maṣī)
 
 ## mukta-m0-p80-v1988
-[tadā](tadā) [api](api) [tvadīyāḥ](tvadīyā) [guṇāḥ](guṇāḥ) [pāra-hīnāḥ](pārahīnāḥ)
+[then-too](stadāpi) [your](tvadīyā) [qualities](guṇāḥ) [beyond-shore](pārahīnāḥ)
 
 ## mukta-m0-p80-v1989
-[lekhinī](lekhinī)
+[pen](lekhinī)
 
 ## mukta-m0-p80-v1990
-[muktaye](muktaye) [ca](ca) [sukha-dā](sukhadā) [astu](astu) [lekhinī](lekhinī)
+[for-liberation](muktaye) [and](ca) [happiness-giving](sukhadāstu) [pen](lekhinī)
 
 ## mukta-m0-p80-v1991
-[lekhya](lekhyā)
+[writable](lekhyā)
 
 ## mukta-m0-p80-v1992
-[lekhya](lekhyā) [alekhya](alekhye) [ca](ca) [bhūtānāṃ](bhūtānāṃ) [nānā-śāsana-paṭṭake](nānāśāsanapaṭṭake)
+[writable+unwritable](lekhyā'lekhye) [and](ca) [of-beings](bhūtānāṃ) [various-decree-tablets](nānāśāsanapaṭṭake)
 
 ## mukta-m0-p80-v1993
-[su-lekhā](sulekhā)
+[good-writing](sulekhā)
 
 ## mukta-m0-p80-v1994
-[mayi](mayyastu) [astu](mayyastu) [sā](sā) [svārtha-karī](svārthakarī) [su-lekhā](sulekhā)
+[on-me](mayyastu) [she](sā) [self-beneficial](svārthakarī) [good-writing](sulekhā)
 
 ## mukta-m0-p80-v1995
-[lekhaka-priyā](lekhakapriyā)
+[writer-pleasing](lekhakapriyā)
 
 ## mukta-m0-p80-v1996
-[bhavanti](bhavantīha) [iha](bhavantīha) [janāḥ](janā) [yasya](yasya) [prasannāḥ](prasannā) [lekhaka-priyā](lekhakapriyā)
+[becoming-here](bhavantīha) [people](janā) [whose](yasya) [pleased](prasannā) [writer-pleasing](lekhakapriyā)
 
 ## mukta-m0-p80-v1997
-[śaṅkhinī](śaṅkhinī)
+[conch-woman](śaṅkhinī)
 
 ## mukta-m0-p80-v1998
-[saṃsevyate](saṃsevyate) [tena](tena) [hi](hi) [śaṅkhinī](śaṅkhinī) [sā](sā)
+[served](saṃsevyate) [by-him](tena) [indeed](hi) [conch-woman](śaṅkhinī) [she](sā)
 
 ## mukta-m0-p80-v1999
-[śaṅkha-hastā](śaṅkhahastā)
+[conch-handed](śaṅkhahastā)
 
 ## mukta-m0-p80-v2000
-[sā](sā) [śaṅkha-hastā](śaṅkhahastā) [kuru](kuru) [hasta-lambam](hastalambam)
+[she](sā) [conch-handed](śaṅkhahastā) [make](kuru) [hand-support](hastalambam)

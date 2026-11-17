@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p62-v1526
-[sandhyā](sandhyā) [iti](iti) [kācana](kācana) [parā](parā) [gaditā](gadita)+[ekasandhaiḥ](ekasandhaiḥ)
+[dawn-dusk](sandhyā) [thus](iti) [some](kācana) [supreme](parā) [spoken](gaditā) [by-one-bond](ekasandhaiḥ)
 
 ## mukta-m0-p62-v1527
 [sāvitrī](sāvitrī)
 
 ## mukta-m0-p62-v1528
-[sāvitrī](sāvitrī) [sā](sā) [kīrtitā](kīrtitā) [sāravidbhiḥ](sāravidbhiḥ)
+[sāvitrī](sāvitrī) [that](sā) [praised](kīrtitā) [by-knowers-of-essence](sāravidbhiḥ)
 
 ## mukta-m0-p62-v1529
-[tripadāśrayā](tripadāśrayā)
+[three-footed-refuge](tripadāśrayā)
 
 ## mukta-m0-p62-v1530
-[yena](yena) [iyam](iyam) [niścitam](niścitam) [jñātā](jñātā) [nirbhayā](nirbhayā) [tripadāśrayā](tripadāśrayā)
+[by-whom](yena) [this](iyam) [certainly](niścitam) [known](jñātā) [fearless](nirbhayā) [three-footed-refuge](tripadāśrayā)
 
 ## mukta-m0-p62-v1531
-[trisandhyā](trisandhyā)
+[three-junctures](trisandhyā)
 
 ## mukta-m0-p62-v1532
-[trisandhyā](trisandhyā) [iti](iti) [gītā](gītā) [hitāyāḥ](hitāyāḥ) [tu](tu) [mātā](mātā)
+[three-junctures](trisandhyā) [thus](iti) [sung](gītā) [for-welfare](hitāya) [mother](mātā)
 
 ## mukta-m0-p62-v1533
-[tripadī](tripadī)
+[three-footed](tripadī)
 
 ## mukta-m0-p62-v1534
-[devī](devī) [jayati](jayati) [atitarām](atitarām) [tripadī](tripadī) [maheśī](maheśī)
+[goddess](devī) [is-victorious-exceedingly](jayatyatitarām) [three-footed](tripadī) [great-lady](maheśī)
 
 ## mukta-m0-p62-v1535
-[dhātrī](dhātrī)
+[nourisher](dhātrī)
 
 ## mukta-m0-p62-v1536
-[sandhātrī](sandhātrī) [bodhadugdhasya](bodhadugdhasya) [dhātrī](dhātrī) [naḥ](naḥ) [kṛpayā](kṛpayā) [avatāt](avatāt)
+[bond-maker](sandhātrī) [of-knowledge-milk](bodhadugdhasya) [nourisher](dhātrī) [to-us](naḥ) [by-mercy](kṛpayā) [protect](avatāt)
 
 ## mukta-m0-p62-v1537
-[suparvā](suparvā)
+[well-jointed](suparvā)
 
 ## mukta-m0-p62-v1538
-[kāmanīyā](kāmanīyā) [jayati](jayati) [eṣā](eṣā) [suparvā](suparvā) [akharvagarvabhūḥ](akharvagarvabhūḥ)
+[desirable](kāmanīyā) [is-victorious-this](jayatyeṣā) [well-jointed](suparvā) [destroyer-of-dwarf-pride](akharvagarvabhūḥ)
 
 ## mukta-m0-p62-v1539
-[sāmagāyanī](sāmagāyanī)
+[sāma-singer](sāmagāyanī)
 
 ## mukta-m0-p62-v1540
-[svarasaṃghamasaṅgabhaṅguram](svarasaṃghamasaṅgabhaṅguram) [yā](yā) [hṛdayasthā](hṛdayasthā) [mama](mama) [sāmagāyanī](sāmagāyanī) [sā](sā)
+[melody-union-unattached-breaking](svarasaṃghamasaṅgabhaṅguram) [which](yā) [in-heart](hṛdayasthā) [my](mama) [sāma-singer](sāmagāyanī) [that](sā)
 
 ## mukta-m0-p62-v1541
 [pāñcālī](pāñcālī)
 
 ## mukta-m0-p62-v1542
-[prītaye](prītaye) [nayatu](nayatu) [sthairyaṃ](sthairyaṃ) [pāñcālī](pāñcālī) [cañcalaṃ](cañcalaṃ) [manaḥ](manaḥ)
+[for-delight](prītaye) [may-it-lead](nayatu) [steadiness](sthairyaṃ) [pāñcālī](pāñcālī) [restless](cañcalaṃ) [mind](manaḥ)
 
 ## mukta-m0-p62-v1543
-[bālikā](bālikā)
+[young-girl](bālikā)
 
 ## mukta-m0-p62-v1544
-[khelati](khelati) [svayam](svayam) [idam](idam) [tvam](tvam) [āgatā](āgatā) [yā](yā) [balaṃ](balaṃ) [mama](mama) [karotu](karotu) [bālikā](bālikā)
+[plays](khelati) [herself](svayam) [this](idam) [arrived](āgatā) [which](yā) [strength](balaṃ) [my](mama) [may-it-make](karotu) [young-girl](bālikā)
 
 ## mukta-m0-p62-v1545
-[bālā](bālā)
+[young-girl](bālā)
 
 ## mukta-m0-p62-v1546
-[bālā](bālā) [balābalanidhiḥ](balābalanidhiḥ) [pariśarmadā](pariśarmadā) [astu](astu)
+[young-girl](bālā) [strength-weakness-treasure](balābalanidhiḥ) [may-it-give-rest](pariśarmadāstu)
 
 ## mukta-m0-p62-v1547
-[bālakrīḍā](bālakrīḍā)
+[child's-play](bālakrīḍā)
 
 ## mukta-m0-p62-v1548
-[niṣkalaṅkaṃ](niṣkalaṅkaṃ) [prasiddhā](prasiddhā) [iha](iha) [bālakrīḍā](bālakrīḍā) [jayati](jayati) [asau](asau)
+[spotless](niṣkalaṅkaṃ) [famous-here](prasiddheha) [child's-play](bālakrīḍā) [is-victorious-that](jayatyasau)
 
 ## mukta-m0-p62-v1549
-[sanātanī](sanātanī)
+[eternal](sanātanī)
 
 ## mukta-m0-p62-v1550
-[brahmādīnāṃ](brahmādīnāṃ) [svayaṃ](svayaṃ) [tattā](tattā) [varjitā](varjitā) [sā](sā) [sanātanī](sanātanī)
+[of-Brahmā-etc](brahmādīnāṃ) [herself](svayaṃ) [thus](tattā) [bestowed](arjitā) [she](sā) [eternal](sanātanī)

@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p50-v1226
-[own](svāntaṃ) [firm](dṛḍha) [mind](svantam) [this](iyaṃ) [let-make](karotu)
+[mind](svāntaṃ) [firm](dṛḍha) [this](iyaṃ) [let-do](karotu)
 
 ## mukta-m0-p50-v1227
-[holy](śrī) [name](nāma) [play](vilāse) [eighth](aṣṭamī) [devotion](bhaktiḥ)
+[glory-name-play](śrīnāmavilāse) [eighth](aṣṭamī) [devotion](bhaktiḥ)
 
 ## mukta-m0-p50-v1228
-[desire](kāma) [form](rūpa) [dwelling](nivāsinī)
+[kama-form-dwelling](kāma+rūpa+nivāsinī)
 
 ## mukta-m0-p50-v1229
-[good](su) [smiling](hāsinī) [essence](rasā) [may-be](yāstu) [desire](kāma) [form](rūpa) [dwelling](nivāsinī)
+[well-smiling](suhāsinī) [rasa](rasā) [let-be](yāstu) [kama-form-dwelling](kāmarūpanivāsinī)
 
 ## mukta-m0-p50-v1230
-[desire](kāma) [seed](bīja) [possessing](vatī)
+[kama-seed-bearing](kāma+bīja+vatī)
 
 ## mukta-m0-p50-v1231
-[possessing](vatī) [always](sadā) [by-him](tena) [not](na) [served](sevitā) [may-be](syāḥ)
+[bearing](vatī) [always](sadā) [by-that](tena) [not](na) [served](sevitā) [may-be](syāḥ)
 
 ## mukta-m0-p50-v1232
 [true](satyā)
 
 ## mukta-m0-p50-v1233
-[true](satyā) [also](api) [untrue](asatyam) [this](idam) [extends](ātanute) [how](kathaṃ) [or](vā)
+[true](satyā) [even-untrue](apyasatyam) [this](idam) [extends](ātanute) [how](kathaṃ) [or](vā)
 
 ## mukta-m0-p50-v1234
-[truth](satya) [dharma](dharma) [devoted](parāyaṇā)
+[page](p.) [164](164) [true-dharma-devoted](satyadharmaparāyaṇā)
 
 ## mukta-m0-p50-v1235
-[truth](satya) [dharma](dharma) [steadfast](sthirāḥ) [she](seyam) [truth](satya) [dharma](dharma) [devoted](parāyaṇā)
+[true-dharma-firm](satyadharmasthirāḥ) [this](seyam) [true-dharma-devoted](satyadharmaparāyaṇā)
 
 ## mukta-m0-p50-v1236
-[gross](sthūla) [path](mārga) [situated](sthitā)
+[gross-path-abiding](sthūla+mārga+sthitā)
 
 ## mukta-m0-p50-v1237
-[full](pūrṇa) [bliss](ānandā) [wonder](citram) [this](etat) [variegated](vicitram)
+[full-bliss](pūrṇānandā) [wonder](citram) [this](etad) [various](vicitram)
 
 ## mukta-m0-p50-v1238
 [subtle](sūkṣmā)
 
 ## mukta-m0-p50-v1239
-[become](bhavanti) [effortlessly](ayatnato) [whose](yasyāḥ) [she](sā) [subtle](sūkṣmā) [what-like](kīdṛśī) [auspicious](śivā)
+[become](bhavanty) [effortless](ayatnato) [whose](yasyāḥ) [she](sā) [subtle](sūkṣmā) [what-like](kīdṛśī) [auspicious](śivā)
 
 ## mukta-m0-p50-v1240
-[subtle](sūkṣma) [intellect](buddhi) [awakening](prabodhinī)
+[subtle-intellect-awakening](sūkṣma+buddhi+prabodhinī)
 
 ## mukta-m0-p50-v1241
-[how](kathaṃ) [known](jñeyā) [not](na) [if](cet) [she](sā) [may-be](syāt) [subtle](sūkṣma) [intellect](buddhi) [awakening](prabodhinī)
+[how](kathaṃ) [knowable](jñeyān) [not](na) [if](cet) [she](sā) [be](syāt) [subtle-intellect-awakening](sūkṣmabuddhiprabodhinī)
 
 ## mukta-m0-p50-v1242
-[six](ṣaṭ) [angled](koṇā)
+[six-cornered](ṣaṭkoṇā)
 
 ## mukta-m0-p50-v1243
-[she](sā) [six](ṣaṭ) [angled](koṇā) [six](ṣaṭ) [acts](kriyā) [firmness](dārḍhya) [giving](dāstu)
+[she](sā) [six-cornered](ṣaṭkoṇā) [six-acts-firmness-giving](ṣaṭkriyādārḍhyadāstu)
 
 ## mukta-m0-p50-v1244
-[three](tri) [angled](koṇā)
+[page](p.) [165](165) [three-cornered](trikoṇā)
 
 ## mukta-m0-p50-v1245
-[she](seyam) [māyā](māyā) [by-what](kena) [measure](mānena) [mother](mātā)
+[this](seyam) [maya](māyā) [by-what](kena) [measure](mānena) [mother](mātā)
 
 ## mukta-m0-p50-v1246
-[three](tri) [eyed](netrā)
+[three-eyed](trinetrā)
 
 ## mukta-m0-p50-v1247
-[she](sā) [to-me](me) [three](tri) [eyed](netrā) [may-give](dadatāṃ) [good-eye](sunetram)
+[she](sā) [to-me](me) [three-eyed](trinetrā) [let-give](dadatāṃ) [good-eye](sunetram)
 
 ## mukta-m0-p50-v1248
-[three](tri) [cities](pura) [beautiful](sundarī)
+[tripura-beautiful](tripurasundarī)
 
 ## mukta-m0-p50-v1249
-[three](tri) [eye](netra) [beloved](dayitā) [beneficent](hitā) [three](tri) [cities](pura) [beautiful](sundarī) [protect](pātu) [us](naḥ)
+[three-eyed-beloved](trinetradayitā) [beneficent](hitā) [tripura-beautiful](tripurasundarī) [protect](pātu) [us](naḥ)
 
 ## mukta-m0-p50-v1250
-[bull](vṛṣa) [dear](priyā)
+[bull-dear](vṛṣapriyā)

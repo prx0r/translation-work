@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p83-v2051
-[totulā](totulā)
+[total](totulā)
 
 ## mukta-m0-p83-v2052
-[totulātulakalā](totulātulakalā) [kalāstu](kalāstu) [sā](sā)
+[total+measure+art](totulātulakalā) [arts+that](kalāstu) [she](sā)
 
 ## mukta-m0-p83-v2053
-[tulākoṭiḥ](tulākoṭiḥ)
+[measure+peak](tulākoṭiḥ)
 
 ## mukta-m0-p83-v2054
-[deyāt](deyāt) [tulākoṭiriyaṃ](tulākoṭiriyaṃ) [tulāṃ](tulāṃ) [nijām](nijām)
+[may-give](deyāt) [measure+peak+this](tulākoṭiriyaṃ) [measure](tulāṃ) [own](nijām)
 
 ## mukta-m0-p83-v2055
-[kūṭasthā](kūṭasthā)
+[page-249](p. 249) [stable](kūṭasthā)
 
 ## mukta-m0-p83-v2056
-[lipyate](lipyate) [jātucit](jātucit) [kācit](kācit) [kūṭasthā](kūṭasthā) [cinmayīha](cinmayīha) [sā](sā)
+[is-smeared](lipyate) [ever](jātucit) [some](kācit) [stable](kūṭasthā) [consciousness-filled-here](cinmayīha) [she](sā)
 
 ## mukta-m0-p83-v2057
-[koṭarāśrayā](koṭarāśrayā)
+[cavity+refuge](koṭarāśrayā)
 
 ## mukta-m0-p83-v2058
-[śrayā](śrayā) [śriyā](śriyā) [nityanijāsaneddhayā](nityanijāsaneddhayā)
+[refuge](śrayā) [splendor](śriyā) [eternal-own-seat-kindled](nityanijāsaneddhayā)
 
 ## mukta-m0-p83-v2059
-[svayambhūḥ](svayambhūḥ)
+[self-born](svayambhūḥ)
 
 ## mukta-m0-p83-v2060
-[kathaṃ](kathaṃ) [sā](sā) [svayambhūrjaḍairnyāyyabhāvyā](svayambhūrjaḍairnyāyyabhāvyā)
+[how](kathaṃ) [she](sā) [self-born](svayambhūr) [by-inert-ones](jaḍair) [proper-to-be-thought](nyāyyabhāvyā)
 
 ## mukta-m0-p83-v2061
-[surūpā](surūpā)
+[beautiful-form](surūpā)
 
 ## mukta-m0-p83-v2062
-[janasya](janasya) [harate](harate) [saiva](saiva) [surūpeti](surūpeti) [nirūpitā](nirūpitā)
+[of-people](janasya) [takes-away](harate) [that-very](saiva) [beautiful-form-thus](surūpeti) [ascertained](nirūpitā)
 
 ## mukta-m0-p83-v2063
-[svarūpā](svarūpā)
+[own-form](svarūpā)
 
 ## mukta-m0-p83-v2064
-[ccalatyataḥ](ccalatyataḥ) [sā](sā) [hi](hi) [sadā](sadā) [svarūpā](svarūpā)
+[moves](ccalatyataḥ) [she](sā) [indeed](hi) [always](sadā) [own-form](svarūpā)
 
 ## mukta-m0-p83-v2065
-[rūpavarddhinī](rūpavarddhinī)
+[page-250](p. 250) [form-increasing](rūpavarddhinī)
 
 ## mukta-m0-p83-v2066
-[yāvanneyaṃ](yāvanneyaṃ) [prasannā](prasannā) [syānnīrūpā](syānnīrūpā) [rūpavarddhinī](rūpavarddhinī)
+[as-long-as-this](yāvanneyaṃ) [clear](prasannā) [may-be](syāt) [formless](nīrūpā) [form-increasing](rūpavarddhinī)
 
 ## mukta-m0-p83-v2067
-[tejasvinī](tejasvinī)
+[radiant](tejasvinī)
 
 ## mukta-m0-p83-v2068
-[ttejasvinī](ttejasvinī) [yasya](yasya) [sadā](sadā) [prasannā](prasannā)
+[radiant](ttejasvinī) [whose](yasya) [always](sadā) [clear](prasannā)
 
 ## mukta-m0-p83-v2069
-[subhikṣā](subhikṣā)
+[good-prosperity](subhikṣā)
 
 ## mukta-m0-p83-v2070
-[kaḥ](kaḥ) [syāttadā](syāttadā) [dātṛkalābalajñaḥ](dātṛkalābalajñaḥ)
+[who](kaḥ) [may-be](syāt) [then](tadā) [giver-art-power-knower](dātṛkalābalajñaḥ)
 
 ## mukta-m0-p83-v2071
-[baladā](baladā)
+[strength-giving](baladā)
 
 ## mukta-m0-p83-v2072
-[sarvatra](sarvatra) [baladā](baladā) [sāstu](sāstu) [svātantryabaladā](svātantryabaladā) [sadā](sadā)
+[everywhere](sarvatra) [strength-giving](baladā) [she-may-be](sāstu) [independence-strength-giving](svātantryabaladā) [always](sadā)
 
 ## mukta-m0-p83-v2073
-[baladāyinī](baladāyinī)
+[strength-giving-female](baladāyinī)
 
 ## mukta-m0-p83-v2074
-[bhavatu](bhavatu) [sadā](sadā) [baladāyinī](baladāyinī) [vinetrī](vinetrī)
+[may-be](bhavatu) [always](sadā) [strength-giving-female](baladāyinī) [leader](vinetrī)
 
 ## mukta-m0-p83-v2075
-[mahākośī](mahākośī)
+[page-251](p. 251) [great-sheath](mahākośī)
