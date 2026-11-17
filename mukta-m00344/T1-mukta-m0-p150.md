@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p150-v3726
-[who-even-highest](yastūttamo'pi) [by-free-will](svācchandyāt) [by-prarabdha-power](prārabdhavaśato'pi) [or](vā)
+[yas](yas) [tu](tu) [uttamaḥ](uttamaḥ) [api](api) [svācchandyāt](svācchandyāt) [prārabdha-vaśataḥ](prārabdhavaśato) [api](api) [vā](vā)
 
 ## mukta-m0-p150-v3727
-[that-even-non-forgetting](tāapyavismṛtiḥ) [unfading](amlānā) [thus](eva) [meaning](ityarthaḥ)
+[tā](tā) [api](api) [avismṛtiḥ](avismṛtiḥ) [amlānā](amlānā) [eva](eva) [iti](iti) [arthaḥ](arthaḥ)
 
 ## mukta-m0-p150-v3728
-[truly](vastutaḥ) [hear](śṛṇu) [earth-lord](bhūdeva) [middle-highest-knowers](madhyamottamajñāninām)
+[vastutaḥ](vastutaḥ) [śṛṇu](śṛṇu) [bhū-deva](bhūdeva) [madhyama-uttama-jñāninām](madhyamottamajñāninām)
 
 ## mukta-m0-p150-v3729
-[of-them](tayoḥ) [not](na) [prarabdha-even](prārabhdham+api) [thus-says](ityāha) [truly](vastuta) [thus](iti)
+[tayoḥ](tayor) [na](na) [prārabdham](prārabhdma) [api](api) [iti](iti) [āha](āha) [vastuta](vastuta) [iti](iti)
 
 ## mukta-m0-p150-v3730
-[consciousness-self-beyond](saṃvidātmātiriktaṃ) [what](yat) [not](na) [they](te) [see](paśyanti) [anything](kiñcana)
+[saṃvid-ātma-atiriktam](saṃvidātmātiriktaṃ) [yat](yanna) [na](na) [te](te) [paśyanti](paśyanti) [kiñcana](kiñcana)
 
 ## mukta-m0-p150-v3731
-[and](ca) [thus](iti)
+[ca](ca) [iti](iti)
 
 ## mukta-m0-p150-v3732
-[ashes-become](bhasmīṛtam) [therefore-theirs](atasteṣāṃ) [not](na) [anything](kiñcit) [remains](pariśiṣyate)
+[bhasmī-kṛtam](bhasmīṛtamatasteṣāṃ) [atas](atas) [teṣām](teṣāṃ) [na](na) [kiñcit](kiñcit) [pariśiṣyate](pariśiṣyate)
 
 ## mukta-m0-p150-v3733
-[remains-thus-says](śiṣyatītyāha) [karma-thus](karmeti) [all](sarvaṃ) [duality](dvaitam) [not](na) [anything](kiñcit) [action](karma)
+[śiṣyati](śiṣyatītyāha) [iti](iti) [āha](āha) [karma](karmeti) [iti](iti) [sarvam](sarvaṃ) [dvaitam](dvaitam) [na](na) [kiñcit](kiñcit) [karma](karma)
 
 ## mukta-m0-p150-v3734
-[hear](śṛṇu) [brahman](brahman) [secret](rahasyaṃ) [to-you](te) [I-will-declare](pravakṣyāmi) [briefly](samāsataḥ)
+[śṛṇu](śṛṇu) [brahman](brahman) [rahasyam](rahasyaṃ) [te](te) [pravakṣyāmi](pravakṣyāmi) [samāsataḥ](samāsataḥ)
 
 ## mukta-m0-p150-v3735
-[Shiva-equality-because](śivatulyatvāt) [not](na) [action](karma) [thus-says](ityāha) [hear-thus](śṛṇviti)
+[śiva-tulyatvāt](śivatulyatvānna) [na](na) [karma](karma) [iti](iti) [āha](āha) [śṛṇu](śṛṇviti) [iti](iti)
 
 ## mukta-m0-p150-v3736
-[not-is](nāsti) [difference](bhedaḥ) [even-slightly](leśato'pi) [truth-this](satyam+etat) [not](na) [doubt](saṃśayaḥ)
+[na](nāsti) [asti](asti) [bhedaḥ](bhedo) [leśataḥ](leśato) [api](api) [satyam](satyametanna) [etat](etat) [na](na) [saṃśayaḥ](saṃśayaḥ)
 
 ## mukta-m0-p150-v3737
-[prarabdha-remainder](prārabdhaśeṣaḥ) [thus](iti) [meaning](bhāvaḥ)
+[prārabdha-śeṣaḥ](prārabdhaśeṣa) [iti](iti) [bhāvaḥ](bhāvaḥ)
 
 ## mukta-m0-p150-v3738
-[thus](iti) [hearing](śrutvā) [he](sa) [Vasuman](vasumān) [Hema-angada-described](hemāṅgadanirūpitam)
+[iti](iti) [śrutvā](śrutvā) [sa](sa) [vasumān](vasumān) [hemāṅgada-nirūpitam](hemāṅgadanirūpitam)
 
 ## mukta-m0-p150-v3739
-[anything](kiñcit) [knowers](jñāninām) [middle-highest](madhyamottamānām) [thus](iti) [prince-said](rājakumāroktaṃ) [all](sarvam)
+[kiñcit](kiñcit) [jñāninām](jñānināṃ) [madhyama-uttamānām](madhyamottamānām) [iti](iti) [rāja-kumāra-uktam](rājakumāroktaṃ) [sarvam](sarvam)
 
 ## mukta-m0-p150-v3740
-[honored](pūjitaḥ) [by-prince-etc](rājaputrādyaiḥ) [own](svaṃ) [place](sthānaṃ) [returned](pratyapadyata)
+[pūjitaḥ](pūjito) [rāja-putra-ādyaiḥ](rājaputrādyaiḥ) [svam](svaṃ) [sthānam](sthānaṃ) [pratyapadyata](pratyapadyata)
 
 ## mukta-m0-p150-v3741
-[thus](evaṃ) [hearing](śrutvā) [again](punā) [Rama](rāmaḥ) [asked](papraccha) [Atri-son](atrisutaṃ) [sage](munim)
+[evam](evaṃ) [śrutvā](śrutvā) [punaḥ](punā) [rāmaḥ](rāmaḥ) [papraccha](papracchātrisutaṃ) [atri-sutam](atri-sutam) [munim](munim)
 
 ## mukta-m0-p150-v3742
-[destroyed](vinaṣṭaḥ) [my](mama) [doubt](sandehaḥ) [known](viditaṃ) [that-great-state](tanmahatpadam)
+[vinaṣṭaḥ](vinaṣṭo) [mama](mama) [sandehaḥ](sandeho) [viditam](viditaṃ) [tat-mahat-padam](tanmahatpadam)
 
 ## mukta-m0-p150-v3743
-[that-great-state](tanmahatpadaṃ) [pure-consciousness-nondual-self-form](śuddhacidadvayātmarūpam)
+[tat-mahat-padam](tanmahatpadaṃ) [śuddha-cit-advaya-ātma-rūpam](śuddhacidadvayātmarūpam)
 
 ## mukta-m0-p150-v3744
-[nevertheless](tathāpi) [by-you](bhavatā) [said](proktam) [from-beginning](āditaḥ) [all](sarvam) [indeed](eva) [tu](tu)
+[tathā](tathāpi) [api](api) [bhavatā](bhavatā) [proktam](proktamāditaḥ) [āditaḥ](āditaḥ) [sarvam](sarvameva) [eva](eva) [tu](tu)
 
 ## mukta-m0-p150-v3745
-[said-all-meaning](proktākhilārthaṃ) [briefly](saṃkṣepeṇa) [speak-thus](brūhīti) [asks](pṛcchati) [nevertheless-thus](tathāpīti)
+[prokta-akhila-artham](proktākhilārthaṃ) [saṃkṣepeṇa](saṃkṣepeṇa) [brūhi](brūhīti) [iti](iti) [pṛcchati](pṛcchati) [tathā](tathāpīti) [api](api) [iti](iti)
 
 ## mukta-m0-p150-v3746
-[as-long-as-to-be-held](yāvaddhārayitavyaṃ) [by-me](me) [guru](guro) [wholly](sarvātmanā) [by-me](mayā)
+[yāvat](yāvaddhārayitavyaṃ) [dhārayitavyam](dhārayitavyaṃ) [me](me) [guro](guro) [sarva-ātmanā](sarvātmanā) [mayā](mayā)
 
 ## mukta-m0-p150-v3747
-[by-me](me) [wholly](sarvātmanā) [as-long-as-to-be-held](yāvaddhārayitavyaṃ) [that-long](tāvat) [speak](brūhi)
+[me](me) [sarva-ātmanā](sarvātmanā) [yāvat](yāvaddhārayitavyaṃ) [dhārayitavyam](dhārayitavyaṃ) [tāvat](tāvad) [brūhi](brūhi)
 
 ## mukta-m0-p150-v3748
-[hear](śṛṇu) [Rama](rāma) [I-will-declare](pravakṣyāmi) [all-essence-utmost](sarvasāratamaṃ) [again](punaḥ)
+[śṛṇu](śṛṇu) [rāma](rāma) [pravakṣyāmi](pravakṣyāmi) [sarva-sāra-tamam](sarvasāratamaṃ) [punaḥ](punaḥ)
 
 ## mukta-m0-p150-v3749
-[of-all](sarvasya) [said](proktasya) [essence-utmost](sāratamam)
+[sarvasya](sarvasya) [proktasya](proktasya) [sāra-tamam](sāratamam)
 
 ## mukta-m0-p150-v3750
-[she](sā) [freedom-named-maya-power-glory-from](svātantryābhidhamāyāśaktimāhātmyataḥ) [always](sadā)
+[sā](sā) [svātantrya-abhidhā-māyā-śakti-māhātmyataḥ](svātantryābhidhamāyāśaktimāhātmyataḥ) [sadā](sadā)
