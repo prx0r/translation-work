@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p10-v226
-[object+enjoyment+wealth](viṣayābhogavibhavā) [of-spread-out+desire](prasṛtecchāsya) [is-filled](pūryate)
+[viṣaya-abhoga-vibhavā](viṣayābhogavibhavā) [prasṛta-icchā-asya](prasṛtecchāsya) [pūryate](pūryate)
 
 ## mukta-m0-p10-v227
-[five-fold](pañcātmakaṃ) [which](yad) [object+nature](viṣayasvarūpam) [is-experienced](anubhūyate)
+[pañca-ātmakaṃ](pañcātmakaṃ) [yat-viṣaya-svarūpam](yadviṣayasvarūpamanubhūyate) [anubhūyate](anubhūyate)
 
 ## mukta-m0-p10-v228
-[in-object+enjoyment+known](viṣayābhoganirjñāta) [non-conceptual](nirvikalpa) [established](pratiṣṭhite)
+[viṣaya-abhoga-nirjñāta-nirvikalpa-pratiṣṭhite](viṣayābhoganirjñātanirvikalpapratiṣṭhite)
 
 ## mukta-m0-p10-v229
-[sixteen-fold](ṣoḍaśātmā) [he](sa) [become](sañjāto) [from-object+enjoyment+fulfillment](viṣayābhogapūraṇāt)
+[ṣoḍaśa-ātmā](ṣoḍaśātmā) [sa](sa) [sañjātaḥ](sañjāto) [viṣaya-abhoga-pūraṇāt](viṣayābhogapūraṇāt)
 
 ## mukta-m0-p10-v230
-[consciousness+ray+flash](cinmarīcicamatkāra) [knowable+inscription](prameyollekha) [jagged](danturam)
+[cit-marīci-camatkāra-prameya-ullekha-danturam](cinmarīcicamatkāraprameyollekhadanturam)
 
 ## mukta-m0-p10-v231
-[of-own-self](svātmano) [difficult+lordship](durghaṭaiśvarya) [demonstration](pratipādana) [characterized-by](lakṣaṇam)
+[sva-ātmanaḥ](svātmano) [durghaṭa-aiśvarya-pratipādana-lakṣaṇam](durghaṭaiśvaryapratipādanalakṣaṇam)
 
 ## mukta-m0-p10-v232
-[great+bliss+predominance](mahānandapradhānatvāt) [wheel](cakram) [bliss+named](ānandasaṃjñitam)
+[mahā-ānanda-pradhānatvāt](mahānandapradhānatvāt) [cakra-ānanda-saṃjñitam](ccakramānandasaṃjñitam)
 
 ## mukta-m0-p10-v233
-[objects](viṣayā) [indeed](eva) [of-these](eteṣāṃ) [may-be](bhavet) [consciousness+nature+ground](saṃvitsvarūpabhūḥ)
+[viṣayāḥ](viṣayā) [eva](eva) [eteṣāṃ](eteṣāṃ) [bhavet](bhavet) [saṃvit-svarūpa-bhūḥ](saṃvitsvarūpabhūḥ)
 
 ## mukta-m0-p10-v234
-[tasting+nature](carvaṇātmā) [also](api) [withdrawal](saṃhāro) [by-inevitability](nāntarīyatayā) [declared](uditaḥ)
+[carvaṇā-ātmā](carvaṇātmāpi) [api](api) [saṃhāraḥ](saṃhāro) [na-antarīyatayā-uditaḥ](nāntarīyatayoditaḥ)
 
 ## mukta-m0-p10-v235
-[in-object+enjoyment](viṣayābhoga) [eagerness](autsukyaṃ) [of-rays](marīcīnāṃ) [ceases](nivartate)
+[viṣaya-abhoga](viṣayābhoga) [autsukyaṃ](autsukyaṃ) [marīcīnāṃ](marīcīnāṃ) [nivartate](nivartate)
 
 ## mukta-m0-p10-v236
-[of-moving](carantyā) [indeed](eva) [expansion](viṣphāro) [of-level](bhūmayyāḥ) [sixteen-fold](ṣoḍaśātmakaḥ)
+[carantyāḥ](carantyā) [eva](eva) [viṣphāraḥ](viṣphāro) [bhūmayyāḥ](bhūmayyāḥ) [ṣoḍaśa-ātmakaḥ](ṣoḍaśātmakaḥ)
 
 ## mukta-m0-p10-v237
-[for-attainment+of-absorption](samādhilābhāya) [always](sadaiva) [may-be](bhūyād) [by-state+enjoyment](bhāvopabhogena) [of-great-person](mahājanasya)
+[samādhi-lābhāya](samādhilābhāya) [sadā](sadaiva) [eva](eva) [bhūyāt](bhūyād) [bhāva-upabhogena](bhāvopabhogena) [mahājanasya](mahājanasya)
 
 ## mukta-m0-p10-v238
-[having-meditated](dhyātvā) [now](samprati) [form+wheel](mūrticakram) [proper](ucitaṃ) [is-expounded](vyākhyāyate) [by-reasonings](yuktibhiḥ)
+[dhyātvā](dhyātvā) [samprati](samprati) [mūrti-cakram](mūrticakram) [ucitaṃ](ucitaṃ) [vyā-?](vyā) [yuktibhiḥ](yuktibhiḥ)
 
 ## mukta-m0-p10-v239
-[rest](viśrāntir) [declared](uditā) [of-that](tasya) [by-turning-back](pratyāvṛttyā) [in-subject](pramātari)
+[viśrāntiḥ](viśrāntiruditā) [uditā](uditā) [tasya](tasya) [pratyāvṛttyā](pratyāvṛttyā) [pramātari](pramātari)
 
 ## mukta-m0-p10-v240
-[of-ego](ahaṅkārasya) [all+application+purpose](sakalaprayogārtha) [ten-fold](daśātmanaḥ)
+[ahaṅkārasya](ahaṅkārasya) [sakala-prayoga-artha-daśā-ātmanaḥ](sakalaprayogārthadaśātmanaḥ)
 
 ## mukta-m0-p10-v241
-[unmanifest+form](avyaktarūpaḥ) [ego](ahaṅkāraḥ) [he](sa) [embodied](mūrtaḥ) [here](atra) [clearly](sphuṭaṃ) [situated](sthitaḥ)
+[avyakta-rūpaḥ](avyaktarūpo) [ahaṅkāraḥ](ahaṅkāraḥ) [sa](sa) [mūrtaḥ](mūrto) [atra](atra) [sphuṭaṃ](sphuṭaṃ) [sthitaḥ](sthitaḥ)
 
 ## mukta-m0-p10-v242
-[time+creation+consisting-of](kālasṛṣṭimayaḥ) [expansion](sphāro) [of-rays](marīcīnāṃ) [consciousness+intense](cidutkaṭaḥ)
+[kāla-sṛṣṭi-mayaḥ](kālasṛṣṭimayaḥ) [sphāraḥ](sphāro) [marīcīnāṃ](marīcīnāṃ) [cit-utkaṭaḥ](cidutkaṭaḥ)
 
 ## mukta-m0-p10-v243
-[outward-facing](bahirmukhe) [or](vā) [because-then](yadataḥ) [time+desire+nature](kālakāmātmakaṃ) [world](jagat)
+[bahirmukhe](bahirmukhe) [vā](vā) [yad](yadataḥ) [ataḥ](ataḥ) [kāla-kāma-ātmakaṃ](kālakāmātmakaṃ) [jagat](jagat)
 
 ## mukta-m0-p10-v244
-[in-object+enjoyment+expansion](viṣayābhogaviṣphāra) [despondent](viṣaṇṇāsu) [in-rays](marīciṣu)
+[viṣaya-abhoga-viṣphāra-viṣaṇṇāsu](viṣayābhogaviṣphāraviṣaṇṇāsu) [marīciṣu](marīciṣu)
 
 ## mukta-m0-p10-v245
-[seventeenth](saptadaśaḥ) [of-sixteen](ṣoḍaśānāṃ) [of-rays](marīcīnāṃ) [lord](vināyakaḥ)
+[saptadaśaḥ](saptadaśaḥ) [ṣoḍaśānāṃ](ṣoḍaśānāṃ) [marīcīnāṃ](marīcīnāṃ) [vināyakaḥ](vināyakaḥ)
 
 ## mukta-m0-p10-v246
-[seventeen-fold](saptadaśātma) [this](tad) [this](idaṃ) [form+wheel](mūrticakraṃ) [should-be-considered](vimṛśyatām)
+[saptadaśa-ātmā](saptadaśātma) [tat](tadidaṃ) [idaṃ](idaṃ) [mūrti-cakraṃ](mūrticakraṃ) [vimṛśyatām](vimṛśyatām)
 
 ## mukta-m0-p10-v247
-[various+cognition+diversity](tattatpratītivaicitrya) [impression+abode](vāsanālaya) [ground-gone-to](bhūmigam)
+[tat-tat-pratīti-vaicitrya-vāsanā-ālaya-bhūmi-gam](tattatpratītivaicitryavāsanālayabhūmigam)
 
 ## mukta-m0-p10-v248
-[now](idānīṃ) [he](sa) [arrived](samāpanno) [subject+union](mātṛmelā) [receptacle](avabhājanam)
+[idānīṃ](idānīṃ) [sa](sa) [samāpannaḥ](samāpanno) [mātṛ-melāpa-avabhājanam](mātṛmelāvabhājanam)
 
 ## mukta-m0-p10-v249
-[this](etad) [pair](dvayaṃ) [where](yatra) [dissolved](līnaṃ) [with-sameness-of-taste](sāmarasyena) [exists](vartate)
+[etat](etad) [dvayaṃ](dvayaṃ) [yatra](yatra) [līnaṃ](līnaṃ) [sāmarasyena](sāmarasyena) [vartate](vartate)
 
 ## mukta-m0-p10-v250
-[by-dwelling](āvāsanena) [suddenly](sahasā) [in-form+wheel](mūrticakre) [is-experienced](anubhūyate)
+[āvāsanena](āvāsanena) [sahasā](sahasā) [mūrti-cakre](mūrticakre) [anubhūyate](anubhūyate)

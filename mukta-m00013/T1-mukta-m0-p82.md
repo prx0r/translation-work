@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p82-v2026
-[this](idam) [but](tu) [prescribed](vihita)+[flower](puṣpa)+[in-absence](abhāve) [extreme](atyanta)+[devotion](bhakti)+[pertaining-to](viṣayam)
+[this](idantu) [in-absence-of-prescribed-flowers](vihitapuṣpābhāve) [extreme](atyanta) [devotion-subject](bhaktiviṣayam)
 
 ## mukta-m0-p82-v2027
-[with-apāmārga-flowers](apāmārgaiḥ)+[and](ca) [with-bhṛṅga-flowers](bhṛṅgaiḥ)+[and](ca) [tulasī](tulasī)+[devoid-of](varjitaiḥ) [auspicious](śubhaiḥ)
+[with-apāmārgas-and](apāmārgaiśca) [with-bees-and](bhṛṅgaiśca) [tulasi-excluded](tulasīvarjitaiḥ) [auspicious](śubhaiḥ)
 
 ## mukta-m0-p82-v2028
-[thus](iti)+[beginning](ādi) [flower](puṣpa)+[rule](niyamaḥ) [to-be-understood](boddhavyaḥ)
+[thus-etc](ityādi) [flower-rule](puṣpaniyamo) [to-be-understood](boddhavyaḥ)
 
 ## mukta-m0-p82-v2029
-[there](tatra) [bridge](setum) [without](vinā) [of-recitation](japasya) [from-futility](vyarthatvāt)+[that](tat)+[is-explained](nirūpyate)
+[there](tatra) [without-setu](setuṃ+vinā) [of-japa](japasya) [futility](vyarthatvāt) [that-described](tannirūpyate)
 
 ## mukta-m0-p82-v2030
-[mantra](mantraḥ)+[likewise](tathā)+[indeed](eva) [without](niḥ)+[bridge](setuḥ) [in-a-moment](kṣaṇāt) [slips-away](kṣarati) [of-worshippers](yajvanām)
+[mantra](mantrastathaiva) [without-setu](niḥsetuḥ) [in-an-instant](kṣaṇāt) [flows-away](kṣarati) [of-sacrificers](yajvanām)
 
 ## mukta-m0-p82-v2031
-[that](saḥ) [and](ca)+[by-anusvāra](anusvāra)+[and-nāda](nādābhyām) [of-śūdras](śūdrāṇām) [bridge](setuḥ)+[is-called](ucyate)
+[that](sa) [by-anusvāra-and-nāda](cānusvāranādābhyāṃ) [of-śūdras](śūdrāṇāṃ) [setu-called](seturucyate)
 
 ## mukta-m0-p82-v2032
-[five](pañca)+[purification](śuddhim) [without](vinā) [worship](pūjā) [for-black-magic](abhicārāya) [becomes](kalpate)
+[without-five-purifications](pañcaśuddhiṃ+vinā) [worship](pūjā) [for-sorcery](abhicārāya) [becomes](kalpate)
 
 ## mukta-m0-p82-v2033
-[six](ṣaḍ)+[limb](aṅga)+[etc.](ādi)+[all](akhila)+[by-placements](nyāsaiḥ)+[self](ātma)+[purification](śuddhiḥ)+[is-declared](udīritā)
+[by-ṣaḍaṅga-etc-all-nyāsas](ṣaḍaṅgādyakhilanyāsair) [self-purification](ātmaśuddhir) [declared](udīritā)
 
 ## mukta-m0-p82-v2034
-[five](pañca)+[colored](varṇa)+[by-dusts](rajobhiḥ)+[and](ca) [place](sthāna)+[purification](śuddhiḥ)+[thus](iti)+[is-stated](īritā)
+[by-five-colored-powders](pañcavarṇarajobhiśca) [place-purification](sthānaśuddhiḥ) [declared](itīritā)
 
 ## mukta-m0-p82-v2035
-[in-order](krama)+[and-reverse-order](utkramāt) [by-two](dvi)+[repetitions](āvṛttyā) [mantra](mantra)+[purification](śuddhiḥ)+[thus](iti)+[is-stated](īritā)
+[by-ascending-descending](kramotkramād) [twice-repetition](dvirāvṛttyā) [mantra-purification](mantraśuddhiḥ) [declared](itīritā)
 
 ## mukta-m0-p82-v2036
-[one-should-show](darśayet)+[cow](dhenu)+[mudrā](mudrā)+[etc.](ādīn) [substance](dravya)+[purification](śuddhiḥ) [is-proclaimed](prakīrtitā)
+[show](darśayed) [cow-mudrā-etc](dhenumudrādīn) [substance-purification](dravyaśuddhiḥ) [proclaimed](prakīrtitā)
 
 ## mukta-m0-p82-v2037
-[five](pañca)+[purification](śuddhim) [having-performed](vidhāya)+[thus](ittham) [afterwards](paścāt)+[worship](pūjām) [one-should-perform](samācaret)
+[five-purifications](pañcaśuddhiṃ) [having-performed-thus](vidhāyetthaṃ) [afterwards](paścāt) [worship](pūjāṃ) [perform](samācaret)
 
 ## mukta-m0-p82-v2038
-[again](punaḥ)+[by-that](tena)+[indeed](eva) [to-be-done](karttavyam) [then](tataḥ) [accomplished](siddhaḥ) [one-becomes](bhavet)+[certainly](dhruvam)
+[again](punastenaiva) [by-that-same](karttavyaṃ) [then](tataḥ) [accomplished](siddho) [certainly](bhaveddhruvam)
 
 ## mukta-m0-p82-v2039
-[again](punaḥ)+[by-that](tena)+[indeed](eva) [to-be-done](karttavyam) [then](tataḥ) [accomplished](siddhaḥ) [not](na) [doubt](saṃśayaḥ)
+[again](punastenaiva) [by-that-same](karttavyaṃ) [then](tataḥ) [accomplished](siddho) [no-doubt](na+saṃśayaḥ)
 
 ## mukta-m0-p82-v2040
-[means](upāyāḥ)+[there](tatra) [to-be-done](karttavyaḥ) [seven](sapta) [by-Śaṅkara](śaṃkara)+[declared](bhāṣitāḥ)
+[means](upāyāḥ) [there](tatra) [to-be-done](karttavyaḥ) [seven](sapta) [spoken-by-śaṅkara](śaṃkarabhāṣitāḥ)
 
 ## mukta-m0-p82-v2041
-[up-to-burning](dahanāntam) [in-order](kramāt) [one-should-do](kuryāt) [then](tataḥ) [accomplished](siddhaḥ) [becomes](bhavet)+[mantra](manuḥ)
+[ending-in-burning](dahanāntaṃ) [in-order](kramāt) [do](kuryāt) [then](tataḥ) [accomplished](siddho) [becomes-mantra](bhavenmanuḥ)
 
 ## mukta-m0-p82-v2042
-[with-uśīra](uśīra)+[and-sandalwood](candanābhyām)+[indeed](tu) [mantra](mantram) [strung-together](saṃgrathitam) [one-should-write](likhet)
+[with-uśīra-and-sandal](uśīracandanābhyāntu) [mantra](mantraṃ) [bound](saṃgrathitaṃ) [write](likhet)
 
 ## mukta-m0-p82-v2043
-[by-worship](pūjanāt)+[by-recitation](japanāt)+[by-offering](homāt)+[revolved](bhrāmitaḥ) [accomplishment](siddhi)+[giving](daḥ) [becomes](bhavet)
+[by-worship](pūjanāt) [by-japa](japanāt) [by-homa](homāt) [by-circumambulation](bhrāmitaḥ) [giver-of-accomplishment](siddhido) [becomes](bhavet)
 
 ## mukta-m0-p82-v2044
-[thus](evam) [restrained](ruddhaḥ) [becomes](bhavet) [accomplished](siddhaḥ) [not](na) [if](cet)+[this](etat)+[subdue](vaśīkuru)
+[thus](evaṃ) [bound](ruddho) [becomes](bhavet) [accomplished](siddho) [if-not](na+ced) [this](etad) [subdue](vaśīkuru)
 
 ## mukta-m0-p82-v2045
-[to-be-worn](dhāryam) [on-neck](kaṇṭhe) [becomes](bhavet) [accomplishment](siddhiḥ) [torment](pīḍanam) [or](vā)+[its](asya) [one-should-cause](kārayet)
+[to-be-worn](dhāryaṃ) [on-neck](kaṇṭhe) [becomes](bhavet) [accomplishment](siddhiḥ) [or](vā) [pressing](pīḍanaṃ) [of-it](vāsya) [cause](kārayet)
 
 ## mukta-m0-p82-v2046
-[tormented](pīḍitaḥ) [by-shame](lajjayā)+[possessed](āviṣṭaḥ) [accomplished](siddhaḥ) [becomes](syāt)+[then](atha) [one-should-nourish](poṣayet)
+[pressed](pīḍito) [by-shame](lajjayāviṣṭaḥ) [accomplished](siddhaḥ) [would-be](syādatha) [nourish](poṣayet)
 
 ## mukta-m0-p82-v2047
-[nourished](poṣitaḥ)+[this](ayam) [becomes](bhavet) [accomplished](siddhaḥ) [not](na) [if](cet)+[one-should-perform](kurvīta) [drying](śoṣaṇam)
+[nourished](poṣito'yaṃ) [becomes](bhavet) [accomplished](siddho) [if-not](na+cet) [do](kurvīta) [drying](śoṣaṇam)
 
 ## mukta-m0-p82-v2048
-[dried](śoṣitaḥ)+[and](ca)+[also](api)+[unaccomplished](asiddhaḥ)+[if](cet)+[to-be-burned](dahanīyaḥ)+[by-fire](agni)+[seed-syllable](bījataḥ)
+[dried](śoṣitaścāpy) [if-still-unaccomplished](asiddhaśced) [to-be-burned](dahanīyo'gnibījataḥ)
 
 ## mukta-m0-p82-v2049
-[on-neck](kaṇṭha)+[region](deśe) [then](tataḥ) [mantra](mantraḥ) [accomplished](siddhaḥ) [becomes](syāt)+[by-Śaṅkara](śaṅkara)+[declared](uditam)
+[at-throat-place](kaṇṭhadeśe) [then](tato) [mantra](mantraḥ) [accomplished](siddhaḥ) [would-be](syācchaṅkaroditam)
 
 ## mukta-m0-p82-v2050
-[by-one](ekena)+[alone](eva) [fulfilled-purpose](kṛtārthaḥ) [one-becomes](syāt)+[by-many](bahubhiḥ) [what](kim) [O-fair-vowed-one](suvrate)
+[by-one](ekenaiva) [accomplished](kṛtārthaḥ) [would-be](syād) [by-many](bahubhiḥ) [what](kimu) [O-good-vowed](suvrate)
