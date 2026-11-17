@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p37-v901
-sarayū-river(sarayūḥ) + mind-born(mānasa+udbhūtā) mind-born(mānasa+udbhūta) + transformation(vikriyām)
+[river-sarayu](sarayūr) [mind-born](mānasa+udbhūtā) [mind-born](mānasa+udbhūta) [modification](vikriyām)
 
 ## mukta-m0-p37-v902
-moon(candra) + portion(bhāgā) river(candrabhāgā) sacred(śubhā)
+[moon](candra) [part](bhāgā) [river-candrabhaga](candrabhāgā) [sacred-river](nadī)
 
 ## mukta-m0-p37-v903
-you-all(yuṣmān) great-fortune(mahā+bhāgatayā) may-unite(yunaktu) always(sadā)
+[you](yuṣmān) [great](mahā) [fortune-by](bhāgatayā) [may-unite](yunaktu)
 
 ## mukta-m0-p37-v904
-kauśikī-river(kauśikī) sacred(śubhā) purifying(pāvanī) goddess(devī)
+[kauśikī](kauśikī) [goddess](kauśikī) [river-name](kauśikī) [sacred](kauśikī)
 
 ## mukta-m0-p37-v905
-may-bestow(vitaratu) boon-treasure(vara+kośaṃ) kauśikī-river(kauśikī) very-bright(su+prakāśā)
+[may-give](vitaratu) [excellent-treasure](vara+kośam) [kauśikī](kauśikī) [well-shining](su+prakāśā)
 
 ## mukta-m0-p37-v906
-gaṇḍakī-river(gaṇḍakī) sacred(śubhā) purifying(pāvanī) goddess(devī)
+[gaṇḍakī](gaṇḍakī) [river](gaṇḍakī) [sacred](gaṇḍakī) [name](gaṇḍakī)
 
 ## mukta-m0-p37-v907
-p.-132)(p. 132)) pure(śuciḥ) sacred(pavitraḥ) holy(śubhaḥ)
+[page](p.) [number](132)) [pure](śuciḥ) [sacred](śuciḥ)
 
 ## mukta-m0-p37-v908
-beautiful(rucirā) + from-impure(a+sucirāt) + may-be(astu) pure(śuciḥ) own-form(sva+ākāraṇa) + purpose-doing(artha+kṛt)
+[shining](rucirā) [from-impure](a+sucirāt) [let-be](astu) [pure](śuciḥ) [self-cause+purpose+doer](svākāraṇa+artha+kṛt)
 
 ## mukta-m0-p37-v909
-narmadā-river(narmadā) sacred(śubhā) purifying(pāvanī) goddess(devī)
+[river-narmadā](narmadā) [joy-giver](narmadā) [sacred](narmadā) [name](narmadā)
 
 ## mukta-m0-p37-v910
-she(sā) narmadā-river(narmadā) in-delights(narmasu) skillfulness(dakṣiṇatvam) [shows](dadhātu)
+[that](sā) [narmadā](narmadā) [among-delights](narmasu) [southwardness](dakṣiṇatvam)
 
 ## mukta-m0-p37-v911
-action-destroyer(karma+nāśā) sacred(śubhā) purifying(pāvanī) river(nadī)
+[karma-destruction](karmanāśā) [action-destruction](karma+nāśā) [river](karmanāśā) [name](karmanāśā)
 
 ## mukta-m0-p37-v912
-freedom-from-action(naiṣkarmyam) + this(eṣā) indeed(kila) action-destroyer(karma+nāśā)
+[without-action](naiṣkarmyam) [this](eṣā) [indeed](kila) [karma-destruction](karmanāśā)
 
 ## mukta-m0-p37-v913
-carmaṇvatī-river(carmaṇvatī) sacred(śubhā) purifying(pāvanī) goddess(devī)
+[leather-having](carmaṇvatī) [river](carmaṇvatī) [name](carmaṇvatī) [sacred](carmaṇvatī)
 
 ## mukta-m0-p37-v914
-carmaṇvatī-river(carmaṇvatī) always(sadā) may-be(bhūyāt) + skin(carma) + sight(dṛṣṭi) + remover(harā) your(tava)
+[leather-river](carmaṇvatī) [always](sadā) [may-be](bhūyāt) [skin-vision-removing](carma+dṛṣṭi+harā) [to-you](tava)
 
 ## mukta-m0-p37-v915
-devikā-river(devikā) sacred(śubhā) purifying(pāvanī) goddess(devī)
+[devikā](devikā) [goddess](devikā) [river](devikā) [name](devikā)
 
 ## mukta-m0-p37-v916
-brahmā-etc(brahma+ādika) + superior(adhikā) goddess(devī) devikā-river(devikā) god-renowned(deva+viśrutā)
+[brahma-etc-over](brahma+ādi+adhikā) [goddess](devī) [devikā](devikā) [divinely-renowned](deva+viśrutā)
 
 ## mukta-m0-p37-v917
-p.-133)(p. 133)) vetravatī-river(vetravatī) sacred(śubhā) purifying(pāvanī)
+[page](p.) [number](133)) [reed-having](vetravatī) [river](vetravatī)
 
 ## mukta-m0-p37-v918
-triple-staff(tri+vetra) + holders(dhāribhiḥ) + praised(gītā) may-be(bhavet) vetravatī-river(vetravatī) auspicious(śivā)
+[three-staff-bearers-by](tri+vetra+dhāribhiḥ) [sung](gītā) [may-be](bhavet) [vetravatī](vetravatī) [auspicious](śivā)
 
 ## mukta-m0-p37-v919
-vitastā-river(vitastā) sacred(śubhā) purifying(pāvanī) goddess(devī)
+[vitastā](vitastā) [river](vitastā) [name](vitastā) [sacred](vitastā)
 
 ## mukta-m0-p37-v920
-reviving(saṃjīvayantī) + wondrous(adbhuta) + life(jīvanasya) from-meditation(dhyānāt) + even(api) + this(iyam) happiness-giving(sukha+dā) vitastā-river(vitastā)
+[making-alive](saṃjīvayantī) [marvelous-life-of](adbhuta+jīvanasya) [from-meditation-even](dhyānāt+api) [this](iyam) [happiness-giving](sukha+dā) [vitastā](vitastā)
 
 ## mukta-m0-p37-v921
-boon-giver(vara+dā) sacred(śubhā) purifying(pāvanī) goddess(devī)
+[varadā](varadā) [boon-giver](vara+dā) [goddess](varadā) [river](varadā)
 
 ## mukta-m0-p37-v922
-boon-giver(vara+dā) + thus(iti) how(kathaṃ) praised(gītā) boon-minded(vara+dhībhiḥ) + boon-lady(vara+īśvarī)
+[boon-giver-thus](varadā+iti) [how](katham) [sung](gītā) [boon-minded-by](vara+dhībhiḥ) [boon-goddess](vara+īśvarī)
 
 ## mukta-m0-p37-v923
-naravāhanā-river(nara+vāhanā) sacred(śubhā) purifying(pāvanī) goddess(devī)
+[man-vehicle](nara+vāhanā) [goddess](naravāhanā) [river-name](naravāhanā) [sacred](naravāhanā)
 
 ## mukta-m0-p37-v924
-naravāhana(nara+vāhana) + praised(saṃślāghyā) for-prosperity(śriye) + may-be(astu) naravāhanā-river(nara+vāhanā)
+[naravāhana-praised](nara+vāhana+saṃślāghyā) [for-prosperity](śriye) [may-be](astu) [naravāhanā](naravāhanā)
 
 ## mukta-m0-p37-v925
-chaste(satī) virtuous(sādhvī) pure(śuddhā) goddess(devī)
+[good-woman](satī) [goddess](satī) [river-name](satī) [sacred](satī)
