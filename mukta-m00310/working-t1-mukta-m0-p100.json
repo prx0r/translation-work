@@ -7,11 +7,15 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "tāmevaṃ",
-"quick_gloss": "that-thus"
+"surface": "tām",
+"quick_gloss": "that"
 },
 {
-"surface": "dhārayed",
+"surface": "evaṃ",
+"quick_gloss": "thus"
+},
+{
+"surface": "dhārayet",
 "quick_gloss": "should-hold"
 },
 {
@@ -24,7 +28,7 @@
 },
 {
 "surface": "bhūrjapatrake",
-"quick_gloss": "on-birch-leaf"
+"quick_gloss": "birch+leaf"
 }
 ]
 },
@@ -36,20 +40,24 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "suvarṇenātha",
-"quick_gloss": "with-gold-then"
+"surface": "suvarṇena",
+"quick_gloss": "gold"
+},
+{
+"surface": "atha",
+"quick_gloss": "then"
 },
 {
 "surface": "saṃveṣṭya",
 "quick_gloss": "having-wrapped"
 },
 {
-"surface": "dhārayed",
+"surface": "dhārayet",
 "quick_gloss": "should-hold"
 },
 {
 "surface": "raktarajjunā",
-"quick_gloss": "with-red-cord"
+"quick_gloss": "red+cord"
 }
 ]
 },
@@ -61,12 +69,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "kavacasyāsya",
-"quick_gloss": "of-this-armor"
+"surface": "kavacasya",
+"quick_gloss": "armor"
 },
 {
-"surface": " [kh: śu] ",
-"quick_gloss": "kh-śu"
+"surface": "asya",
+"quick_gloss": "this"
 },
 {
 "surface": "guṭikā",
@@ -102,8 +110,12 @@
 "quick_gloss": "great-goddess"
 },
 {
-"surface": "jihvākoṭiśatairapi",
-"quick_gloss": "with-hundred-crores-of-tongues"
+"surface": "jihvākoṭiśatair",
+"quick_gloss": "tongue+crore+hundreds"
+},
+{
+"surface": "api",
+"quick_gloss": "even"
 }
 ]
 },
@@ -124,7 +136,7 @@
 },
 {
 "surface": "sarvasārasvatapradam",
-"quick_gloss": "all-sarasvatī-giving"
+"quick_gloss": "all-sarasvati-giving"
 }
 ]
 },
@@ -137,7 +149,7 @@
 "tokens": [
 {
 "surface": "anyaśiṣyāya",
-"quick_gloss": "to-another-disciple"
+"quick_gloss": "other-disciple"
 },
 {
 "surface": "duṣṭāya",
@@ -145,11 +157,11 @@
 },
 {
 "surface": "nindakāya",
-"quick_gloss": "to-slanderer"
+"quick_gloss": "slanderer"
 },
 {
 "surface": "kulārthinām",
-"quick_gloss": "of-family-seekers"
+"quick_gloss": "lineage-seekers"
 }
 ]
 },
@@ -162,11 +174,11 @@
 "tokens": [
 {
 "surface": "śāntāya",
-"quick_gloss": "to-peaceful"
+"quick_gloss": "peaceful"
 },
 {
 "surface": "kulasaktāya",
-"quick_gloss": "family-devoted"
+"quick_gloss": "lineage-attached"
 },
 {
 "surface": "śāktāya",
@@ -174,7 +186,7 @@
 },
 {
 "surface": "kulakāmine",
-"quick_gloss": "family-desiring"
+"quick_gloss": "lineage-desiring"
 }
 ]
 },
@@ -203,7 +215,7 @@
 },
 {
 "surface": "svayonivat",
-"quick_gloss": "like-own-origin"
+"quick_gloss": "like-own-womb"
 }
 ]
 },
@@ -233,15 +245,23 @@
 },
 {
 "surface": "mama",
-"quick_gloss": "mine"
+"quick_gloss": "my"
 },
 {
 "surface": "devānāṃ",
-"quick_gloss": "of-gods"
+"quick_gloss": "gods"
 },
 {
-"surface": "durlabhaṃ+janmināmapi",
-"quick_gloss": "rare-even-for-born"
+"surface": "durlabhaṃ",
+"quick_gloss": "rare"
+},
+{
+"surface": "janminām",
+"quick_gloss": "for-births"
+},
+{
+"surface": "api",
+"quick_gloss": "even"
 }
 ]
 },
@@ -254,7 +274,7 @@
 "tokens": [
 {
 "surface": "mantranāmasahasraṃ",
-"quick_gloss": "thousand-mantra-names"
+"quick_gloss": "mantra-name-thousand"
 },
 {
 "surface": "ca",
@@ -291,7 +311,7 @@
 },
 {
 "surface": "paratrāpi",
-"quick_gloss": "thereafter"
+"quick_gloss": "there-too"
 },
 {
 "surface": "jīvanmukto",
@@ -312,7 +332,7 @@
 "tokens": [
 {
 "surface": "aśvamedhāyutāt",
-"quick_gloss": "from-ten-thousand-horse-sacrifices"
+"quick_gloss": "horse-sacrifice-ten-thousand"
 },
 {
 "surface": "puṇyaṃ",
@@ -349,7 +369,7 @@
 },
 {
 "surface": "paṭhanāt",
-"quick_gloss": "from-recitation"
+"quick_gloss": "by-recitation"
 },
 {
 "surface": "siddhidāyakam",
@@ -395,7 +415,7 @@
 },
 {
 "surface": "sthitiḥ",
-"quick_gloss": "existence"
+"quick_gloss": "maintenance"
 },
 {
 "surface": "saṃbhūtir",
@@ -420,19 +440,19 @@
 "tokens": [
 {
 "surface": "madālasā",
-"quick_gloss": "madālasā"
+"quick_gloss": "intoxicated-languid"
 },
 {
 "surface": "madottuṅgā",
-"quick_gloss": "mad-uddhā"
+"quick_gloss": "intoxication-lofty"
 },
 {
 "surface": "madirā",
-"quick_gloss": "madirā"
+"quick_gloss": "wine"
 },
 {
 "surface": "madanapriyā",
-"quick_gloss": "madana-beloved"
+"quick_gloss": "love-dear"
 }
 ]
 },
@@ -474,19 +494,19 @@
 "tokens": [
 {
 "surface": "saritkādambarī",
-"quick_gloss": "rivers-kādambarī"
+"quick_gloss": "river-kādambarī"
 },
 {
 "surface": "godhā",
-"quick_gloss": "cow"
+"quick_gloss": "monitor-lizard"
 },
 {
 "surface": "guhyakālī",
-"quick_gloss": "guhyakālī"
+"quick_gloss": "secret-kālī"
 },
 {
 "surface": "gaṇeśvarī",
-"quick_gloss": "gaṇeśvarī"
+"quick_gloss": "gaṇeśa-lady"
 }
 ]
 },
@@ -499,7 +519,7 @@
 "tokens": [
 {
 "surface": "tapomayī",
-"quick_gloss": "tapas-filled"
+"quick_gloss": "asceticism-filled"
 },
 {
 "surface": "durālamvā",
@@ -507,7 +527,7 @@
 },
 {
 "surface": "duṣṭagrahanivāriṇī",
-"quick_gloss": "wicked-graha-removing"
+"quick_gloss": "evil-planet-removing"
 }
 ]
 },
@@ -541,11 +561,11 @@
 "tokens": [
 {
 "surface": "vidyeśvarī",
-"quick_gloss": "vidyeśvarī"
+"quick_gloss": "knowledge-lady"
 },
 {
 "surface": "viśvamayī",
-"quick_gloss": "all-pervading"
+"quick_gloss": "universe-filled"
 },
 {
 "surface": "virāṭ",
@@ -556,12 +576,8 @@
 "quick_gloss": "meter"
 },
 {
-"surface": "gatir",
-"quick_gloss": "path"
-},
-{
-"surface": "matiḥ",
-"quick_gloss": "mind"
+"surface": "gatirmatiḥ",
+"quick_gloss": "path+mind"
 }
 ]
 },
@@ -582,7 +598,7 @@
 },
 {
 "surface": "aduṣṭā",
-"quick_gloss": "pure"
+"quick_gloss": "not-wicked"
 },
 {
 "surface": "kṛpā",
@@ -594,7 +610,7 @@
 },
 {
 "surface": "kulākulā",
-"quick_gloss": "kula-akula"
+"quick_gloss": "kulākulā"
 }
 ]
 },
@@ -614,12 +630,8 @@
 "quick_gloss": "hollow-eyed"
 },
 {
-"surface": "kulakāntā",
-"quick_gloss": "family-beloved"
-},
-{
-"surface": "parājitā",
-"quick_gloss": "unconquered"
+"surface": "kulakāntāparājitā",
+"quick_gloss": "lineage-beloved-unconquered"
 }
 ]
 },
@@ -632,7 +644,7 @@
 "tokens": [
 {
 "surface": "tritayī",
-"quick_gloss": "threefold"
+"quick_gloss": "triad"
 },
 {
 "surface": "vedavinyāsā",
@@ -643,12 +655,8 @@
 "quick_gloss": "renunciation"
 },
 {
-"surface": "sumatir",
-"quick_gloss": "good-mind"
-},
-{
-"surface": "bhayā",
-"quick_gloss": "fear"
+"surface": "sumatirbhayā",
+"quick_gloss": "good-mind+fear"
 }
 ]
 }

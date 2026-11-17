@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p90-v2226
-damara-lord odd-eyed all-enjoyer fire
+lord-of-ḍāmaras(ḍāmareśo) odd-eyed(virūpākṣo) world-enjoyer(viśvabhoktā) fire(vibhāvasuḥ)
 
 ## mukta-m0-p90-v2227
-trainer humble disputer vomit-free speech-born brahmacarin
+guide(vinetā) humble(vinayī) speaker(vādī) vomiter(vāntado) speech-born(vāgbhavo) youth(vaṭuḥ)
 
 ## mukta-m0-p90-v2228
-enemy-of-viradha dispassionate playful dance-desirous
+opponent(virādheyo) detached(virāgīno) playful(vilāsī) dance-desiring(lāsyalālasaḥ)
 
 ## mukta-m0-p90-v2229
-wealthy meditable unmeditable righteous dharma-filled compassionate
+wealthy(dhanī) meditable(dhyeyo) unmeditable(apyadhyeyaḥ) righteous(dharmyo) dharma-filled(dharmamayo) compassionate(dayaḥ)
 
 ## mukta-m0-p90-v2230
-cave-eyed cave-dweller hypocrite god-filled-self
+cave-eyed(ḍulicakṣur) cave-dwelling(darīvāso) hypocrite(dambhī) divine-souled(devamayātmakaḥ)
 
 ## mukta-m0-p90-v2231
-saturn swift-moving talkative rahu imperishable
+saturn(śanaiścaro) swift-moving(vegagatiḥ) talkative(vācālo) rāhu(rāhuḥ) imperishable(avyayaḥ)
 
 ## mukta-m0-p90-v2232
-bharga-formed
+bharga-formed(bhargarūpabhṛt)
 
 ## mukta-m0-p90-v2233
-ganesha-beloved sung singer bath-worship-beloved
+gaṇeśa-loving(gajānanapriyo) sung(gīto) singer(gānī) bath-worship-loving(snānārcanapriyaḥ)
 
 ## mukta-m0-p90-v2234
-supreme-self virat-garmented monkey unlimited-actor
+supreme-soul(parātmako) virāṭ-dwelling(virāḍvāso) monkey(vānaro) endless-actor(āmitakarmakṛt)
 
 ## mukta-m0-p90-v2235
-nandishvara leader serpent serpent-ornamented
+nandi-lord(nandīśvaro) leader(nayo) serpent(nāgo) serpent-ornamented(nāgālaṅkāramaṇḍitaḥ)
 
 ## mukta-m0-p90-v2236
-three-eyed three-world-lord three-formed tripura-destroyer
+three-eyed(trilocanaḥ) three-world-lord(trilokeśaḥ) three-formed(trimūrtiḥ) tripura-destroyer(tripurāntakaḥ)
 
 ## mukta-m0-p90-v2237
-addicted pleased shambhu three-stream-formed three-varna-bearing
+addicted(vyasanī) pleased(toṣitaḥ) śambhu(śambhuḥ) three-stream-formed(tridhārūpaḥ) three-varṇa-bearing(trivarṇabhāk)
 
 ## mukta-m0-p90-v2238
-three-gunaed world-maker world-sustainer supreme-person
+three-guṇa(tridhāguṇī) world-maker(viśvakartā) world-sustainer(viśvabhartā) supreme-person(adhipūruṣaḥ)
 
 ## mukta-m0-p90-v2239
-discriminating-eyed wide-eyed non-vidhi vidhi unsurpassed
+discerning-eyed(vivekākṣo) wide-eyed(viśālākṣo) non-rule(avidhiḥ) rule(vidhiḥ) unsurpassed(anuttamaḥ)
 
 ## mukta-m0-p90-v2240
-remembering memory-giver smarta brahma best-of-brahma-knowers
+remembering(smṛtimān) memory-giver(smṛtidaḥ) smārta(smārto) brahmā(brahmā) best-of-knowers(brahmavidāṃ varaḥ)
 
 ## mukta-m0-p90-v2241
-moving-immovable immovable-going swift hero-lord best
+moving-and-still(calācalaḥ) immovable-going(acalagatiḥ) swift(vegī) hero-lord(vīrādhipo) excellent(varaḥ)
 
 ## mukta-m0-p90-v2242
-all-pervading all-formed ocean same-lord
+all-pervading(sarvavyāpī) all-formed(sarvarūpaḥ) ocean(sāgaraḥ) equal-lord(sameśvaraḥ)
 
 ## mukta-m0-p90-v2243
-sarasvat possessor-of-true-speech true true-formed wise happy
+eloquent(sarasvān) truth-speaking(satyavāk) true(satyaḥ) truth-formed(satyarūpaḥ) wise(sudhīḥ) happy(sukhī)
 
 ## mukta-m0-p90-v2244
-wealthy earth-lord wealth-formed wealth-giver
+wealthy(vasumān) earth-lord(vasudhānāthaḥ) wealth-formed(vasurūpo) wealth-giver(vasupradaḥ)
 
 ## mukta-m0-p90-v2245
-lord remainder-bodied composite shesha-reclining shri-lord
+lord(īśaḥ) remainder(avāśeṣaḥ) having-parts(avayavī) śeṣa-reclining(śeṣaśāyī) wealth-lord(śriyaḥ patiḥ)
 
 ## mukta-m0-p90-v2246
-firm pillar subtle fat broad-chested beyond-beyond
+firm(sthiraḥ) pillar(sthāṇuḥ) subtle(aṇuḥ) stout(pīnaḥ) broad-chested(pīnavakṣāḥ) beyond(beyond)(parātparaḥ)
 
 ## mukta-m0-p90-v2247
-beast-formed beast-lord beast-knower ocean-of-milk
+beast-formed(paśurūpaḥ) beast-lord(paśupatiḥ) beast-knower(paśujñānī) milk-ocean(payonidhiḥ)
 
 ## mukta-m0-p90-v2248
-trident-holder auspicious-maker splendid auspicious-doer indra-lord
+trident-bearer(śūlī) auspicious-maker(śubhaṅkaraḥ) splendid(śobhyaḥ) good-doer(śubhakartā) indra-lord(śacīpatiḥ)
 
 ## mukta-m0-p90-v2249
-four-armed eight-armed thousand-armed-ornamented
+four-armed(caturbhujaḥ) eight-armed(cāṣṭabhujaḥ) thousand-armed-adorned(sahasrabhujamaṇḍitaḥ)
 
 ## mukta-m0-p90-v2250
-god great-ocean divine divine-famed sun-return
+god(devo) great-ocean(mahodadhiḥ) divine(divyo) divine-famed(divyakīrtiḥ) sun(divākaraḥ)
