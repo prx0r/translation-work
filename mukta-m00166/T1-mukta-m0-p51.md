@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p51-v1251
-[bull-beloved](vṛṣapriyā) [she](sā) [intense-heat-removing](bhṛśatāpahā) [may-be](astu) [bull-beloved](vṛṣapriyā) [she](sā)
+[bull-beloved](vṛṣa+priyā) [she](sā) [intense-pain-removing](bhṛśa+tāpa+hā) [be](astu)
 
 ## mukta-m0-p51-v1252
-[bull-mounted](vṛṣārūḍhā) [bull-mounted](vṛṣārūḍhā) [bull-mounted](vṛṣārūḍhā) [bull-mounted](vṛṣārūḍhā)
+[bull-mounted](vṛṣa+ārūḍhā) [she](sā) [goddess](devī) [be](astu)
 
 ## mukta-m0-p51-v1253
-[bull-mounted](vṛṣārūḍhā) [auspicious](śivā) [she](sā) [me](māṃ) [bull-mounted](vṛṣārūḍhaṃ) [may-make](karotu) [quickly](aram)
+[bull-mounted](vṛṣa+ārūḍhā) [auspicious](śivā) [she](sā) [me](māṃ) [bull-mounted](vṛṣa+ārūḍhaṃ) [make](karotu) [quickly](aram)
 
 ## mukta-m0-p51-v1254
-[buffalo-demon-slayer](mahiṣāsuraghātinī) [buffalo-demon-slayer](mahiṣāsuraghātinī) [buffalo-demon-slayer](mahiṣāsuraghātinī) [buffalo-demon-slayer](mahiṣāsuraghātinī)
+[Mahiṣa-demon-slayer](mahiṣa+asura+ghātinī) [she](sā) [goddess](devī) [be](astu)
 
 ## mukta-m0-p51-v1255
-[all-beings-protecting](bhūtākhilamavantī) [indeed](nu) [buffalo-demon-slayer](mahiṣāsuraghātinī) [all-beings-protecting](bhūtākhilamavantī) [buffalo-demon-slayer](mahiṣāsuraghātinī)
+[beings-all-protecting](bhūta+akhilam+avantī) [indeed](nu) [Mahiṣa-demon-slayer](mahiṣa+asura+ghātinī) [she](sā)
 
 ## mukta-m0-p51-v1256
-[venerable](vandanīyā) [not](na) [to-whom](kasya) [this](eṣā) [buffalo-demon-slayer](mahiṣāsuraghātinī) [venerable](vandanīyā) [buffalo-demon-slayer](mahiṣāsuraghātinī)
+[to-be-worshipped](vandanīyā) [not](na) [of-whom](kasya) [this](eṣā) [Mahiṣa-demon-slayer](mahiṣa+asura+ghātinī) [is](asti)
 
 ## mukta-m0-p51-v1257
-[sumbha-pride-removing](sumbhadarpaharā) [sumbha-pride-removing](sumbhadarpaharā) [sumbha-pride-removing](sumbhadarpaharā) [sumbha-pride-removing](sumbhadarpaharā)
+[Śumbha-pride-destroyer](sumbha+darpa+harā) [she](sā) [goddess](devī) [be](astu)
 
 ## mukta-m0-p51-v1258
-[sumbha-pride-removing](sumbhadarpaharā) [she](sā) [you](tvaṃ) [sumbha-pride-removing](sumbhadarpaharā) [are](asi) [or](vā) [sumbha-pride-removing](sumbhadarpaharā)
+[Śumbha-pride-destroyer](sumbha+darpa+harā) [she](sā) [you](tvaṃ) [Śumbha-pride-destroyer](sumbha+darpa+harā) [are](asi) [or](vā)
 
 ## mukta-m0-p51-v1259
-[radiant](dīptā) [radiant](dīptā) [radiant](dīptā) [radiant](dīptā)
+[radiant](dīptā) [she](sā) [goddess](devī) [be](astu)
 
 ## mukta-m0-p51-v1260
-[radiant](dīptā) [own-name-meaning-doing](svanāmārthakarī) [to-me](mamāstu) [radiant](dīptā) [own-name-meaning-doing](svanāmārthakarī)
+[radiant](dīptā) [own-name-meaning-fulfilling](sva+nāma+artha+karī) [for-me](mama) [be](astu)
 
 ## mukta-m0-p51-v1261
-[blazing-fire-like](dīptapāvakasannibhā) [blazing-fire-like](dīptapāvakasannibhā) [blazing-fire-like](dīptapāvakasannibhā) [blazing-fire-like](dīptapāvakasannibhā)
+[blazing-fire-resembling](dīpta+pāvaka+sannibhā) [she](sā) [goddess](devī) [be](astu)
 
 ## mukta-m0-p51-v1262
-[very-bright](suprakāśaṃ) [becomes](bhavati) [this](eṣā) [blazing-fire-like](dīptapāvakasannibhā) [very-bright](suprakāśaṃ) [blazing-fire-like](dīptapāvakasannibhā)
+[very-bright](su+prakāśaṃ) [becomes](bhavati) [this](eṣā) [blazing-fire-resembling](dīpta+pāvaka+sannibhā) [goddess](devī)
 
 ## mukta-m0-p51-v1263
-[skull-ornamented](kapālabhūṣaṇā) [skull-ornamented](kapālabhūṣaṇā) [skull-ornamented](kapālabhūṣaṇā) [skull-ornamented](kapālabhūṣaṇā)
+[skull-ornamented](kapāla+bhūṣaṇā) [she](sā) [goddess](devī) [be](astu)
 
 ## mukta-m0-p51-v1264
-[skull-ornamented](kapālabhūṣaṇā) [ornament](bhūṣām) [all](aśeṣāṃ) [to-us](no) [may-give](dadātu) [this](iyam) [skull-ornamented](kapālabhūṣaṇā)
+[skull-ornamented](kapāla+bhūṣaṇā) [ornament](bhūṣām) [entire](aśeṣāṃ) [to-us](naḥ) [give](dadātu) [this](iyam)
 
 ## mukta-m0-p51-v1265
-[black](kālī) [black](kālī) [black](kālī) [black](kālī)
+[black-one](kālī) [she](sā) [goddess](devī) [be](astu)
 
 ## mukta-m0-p51-v1266
-[black](kālī) [fierce](karālaṃ) [may-remove](haratāt) [distortion](vikāram) [black](kālī) [fierce](karālaṃ)
+[black-one](kālī) [terrible](karālaṃ) [may-remove](haratāt) [affliction](vikāram)
 
 ## mukta-m0-p51-v1267
-[skull-garland-bearing](kapālamālabhāriṇī) [skull-garland-bearing](kapālamālabhāriṇī) [skull-garland-bearing](kapālamālabhāriṇī) [skull-garland-bearing](kapālamālabhāriṇī)
+[skull-garland-wearing](kapāla+māla+bhāriṇī) [she](sā) [goddess](devī) [be](astu)
 
 ## mukta-m0-p51-v1268
-[shining](rocamānā) [for-strength](balāyāstu) [skull-garland-bearing](kapālamālabhāriṇī) [shining](rocamānā) [skull-garland-bearing](kapālamālabhāriṇī)
+[shining](rocamānā) [for-strength](balāya) [be](astu) [skull-garland-wearing](kapāla+māla+bhāriṇī) [she](sā)
 
 ## mukta-m0-p51-v1269
-[skull-earring](kapālakuṇḍalā) [skull-earring](kapālakuṇḍalā) [skull-earring](kapālakuṇḍalā) [skull-earring](kapālakuṇḍalā)
+[skull-earringed](kapāla+kuṇḍalā) [she](sā) [goddess](devī) [be](astu)
 
 ## mukta-m0-p51-v1270
-[may-be](bhavatu) [for-auspiciousness](śubhāya) [skull-earring](kapālakuṇḍalā) [this](iyam) [may-be](bhavatu) [skull-earring](kapālakuṇḍalā)
+[be](bhavatu) [for-auspiciousness](śubhāya) [skull-earringed](kapāla+kuṇḍalā) [this](iyam)
 
 ## mukta-m0-p51-v1271
-[long](dīrghā) [long](dīrghā) [long](dīrghā) [long](dīrghā)
+[long](dīrghā) [she](sā) [goddess](devī) [be](astu)
 
 ## mukta-m0-p51-v1272
-[long](dīrghā) [may-give](dadātu) [renowned](prathitā) [benefit](hitā) [to-you](vaḥ) [long](dīrghā) [may-give](dadātu)
+[long](dīrghā) [may-give](dadātu) [renowned](prathitā) [benefit](hitā) [to-you](vaḥ)
 
 ## mukta-m0-p51-v1273
-[auspicious](śivā) [messenger](dūtī) [auspicious](śivā) [messenger](dūtī) [auspicious](śivā) [messenger](dūtī)
+[auspicious](śivā) [messenger](dūtī) [she](sā) [goddess](devī) [be](astu)
 
 ## mukta-m0-p51-v1274
-[auspicious](śivā) [messenger](dūtī) [for-auspiciousness](śivāyāstu) [by-śiva-pervasiveness](śivavyāptyā) [well-worshipped](prapūjitā) [auspicious](śivā) [messenger](dūtī)
+[auspicious](śivā) [messenger](dūtī) [for-auspiciousness](śivāya) [be](astu) [by-Śiva-pervasion](śiva+vyāptyā) [worshipped](prapūjitā)
 
 ## mukta-m0-p51-v1275
-[thunder-sound](ghanadhvaniḥ) [thunder-sound](ghanadhvaniḥ) [thunder-sound](ghanadhvaniḥ) [thunder-sound](ghanadhvaniḥ)
+[deep-sounding](ghana+dhvaniḥ) [she](sā) [goddess](devī) [be](astu)

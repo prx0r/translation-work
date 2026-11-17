@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p65-v1601
-[satisfaction+giver](tuṣṭidā)
+[satisfaction](tuṣṭi) [+](+) [giver](dā)
 
 ## mukta-m0-p65-v1602
-[abandoned](pyujjhito) [in+heart](hṛdi) [always](sadā) [let+it+be](stu) [satisfaction+giver](tuṣṭidā)
+[abandoned](pyujjhitaḥ) [in-heart](hṛdi) [always](sadā) [be](astu) [satisfaction](tuṣṭi) [+](+) [giver](dā)
 
 ## mukta-m0-p65-v1603
-[nourishment+giver](puṣṭidā)
+[nourishment](puṣṭi) [+](+) [giver](dā)
 
 ## mukta-m0-p65-v1604
-[by+whom](kena) [by+whom](kenāsi) [form](rūpeṇa) [to+whom](kasmai) [to+whom](kasmai) [not](na) [nourishment+giver](puṣṭidā)
+[by-which](kena) [by-which](kena) [you-are](asi) [in-form](rūpeṇa) [to-whom](kasmai) [to-whom](kasmai) [not](na) [nourishment](puṣṭi) [+](+) [giver](dā)
 
 ## mukta-m0-p65-v1605
 [imperishable](akṣayā)
 
 ## mukta-m0-p65-v1606
-[you+alone](tvamevaikā) [but](tu) [true+form](sadrūpā) [by+nature](svabhāvena) [consciousness+imperishable](cidakṣayā)
+[you](tvam) [indeed](eva) [alone](ekā) [but](tu) [true](sat) [+](+) [form](rūpā) [by-own-nature](svabhāvena) [consciousness](cit) [+](+) [imperishable](akṣayā)
 
 ## mukta-m0-p65-v1607
-[conclusion](niṣṭhā)
+[foundation](niṣṭhā)
 
 ## mukta-m0-p65-v1608
-[conclusion](niṣṭhā) [compassion](kṛpāṃ) [as+long+as](yāvadiyaṃ) [not](na) [bears](dhatte)
+[foundation](niṣṭhā) [compassion](kṛpāṃ) [as-long-as](yāvat) [this](iyaṃ) [not](na) [holds](dhatte)
 
 ## mukta-m0-p65-v1609
-[truth+dear](satyapriyā)
+[truth](satya) [+](+) [loving](priyā)
 
 ## mukta-m0-p65-v1610
-[truth+dear](satyapriyā) [she](sā) [dear+one](priyam) [may+extend](ātanotu)
+[truth](satya) [+](+) [loving](priyā) [she](sā) [beloved](priyam) [may-extend](ātanotu)
 
 ## mukta-m0-p65-v1611
 [wisdom](prajñā)
 
 ## mukta-m0-p65-v1612
-[of+that](tasya) [of+that](tasya) [how](kathaṃ) [not+ignorance](nājñāṃ) [carry](vahanti) [heads+others](śirasītare)
+[of-him](tasya) [of-him](tasya) [how](kathaṃ) [not](na) [command](ājñāṃ) [bear](vahanti) [on-head](śirasi) [others](itare)
 
 ## mukta-m0-p65-v1613
-[world+ mistress](lokeśī)
+[world](loka) [+](+) [lady](īśī)
 
 ## mukta-m0-p65-v1614
-[world+mistress](lokeśī) [me](māṃ) [grief+free](śokahīnaṃ) [may+make](karotu)
+[world](loka) [+](+) [lady](īśī) [me](māṃ) [sorrow](śoka) [+](+) [devoid](hīnaṃ) [may-make](karotu)
 
 ## mukta-m0-p65-v1615
-[god+supreme](surottamā)
+[among-gods](sura) [+](+) [supreme](uttamā)
 
 ## mukta-m0-p65-v1616
-[god+supreme](surottamā) [may+make](karotu) [him](enaṃ) [all+supreme+goal](sarvottamagatiṃ) [person](janam)
+[among-gods](sura) [+](+) [supreme](uttamā) [may-make](karotu) [this](enam) [all](sarva) [+](+) [supreme](uttama) [+](+) [state](gatiṃ) [person](janam)
 
 ## mukta-m0-p65-v1617
-[with+poison](saviṣā)
+[with-poison](sa) [+](+) [poisonous](viṣā)
 
 ## mukta-m0-p65-v1618
-[with+poison](saviṣā) [by+name+alone](nāmamātreṇa) [I+know](jāne) [ḍittha+ḍavittha+like](ḍitthaḍavitthavat)
+[with-poison](sa) [+](+) [poisonous](viṣā) [by-name](nāma) [+](+) [mere](mātreṇa) [I-know](jāne) [like-ḍitthaḍavittha](ḍitthaḍavitthavat)
 
 ## mukta-m0-p65-v1619
 [flaming](jvālinī)
 
 ## mukta-m0-p65-v1620
-[she](sā) [flaming](jvālinī) [time+fear](kālabhayaṃ) [may+remove](harāsya)
+[she](sā) [flaming](jvālinī) [time](kāla) [+](+) [fear](bhayaṃ) [remove](hara) [of-him](asya)
 
 ## mukta-m0-p65-v1621
 [flame](jvālā)
 
 ## mukta-m0-p65-v1622
-[blazes](jājvalīti) [standing+alone](sthitaikaiva) [flame](jvālā) [she](sā) [strength+giver](baladāstu) [to+us](naḥ)
+[blazes](jājvalīti) [standing](sthitā) [one](ekā) [indeed](eva) [flame](jvālā) [she](sā) [strength](bala) [+](+) [giver](dā) [be](astu) [to-us](naḥ)
 
 ## mukta-m0-p65-v1623
-[poison+delusion+pain+destroyer](viṣamohārtināśinī)
+[poison](viṣa) [+](+) [delusion](moha) [+](+) [suffering](ārti) [+](+) [destroyer](nāśinī)
 
 ## mukta-m0-p65-v1624
-[death+conqueror](mṛtyujit) [cowherd](paśupaḥ) [she+this](seyaṃ) [poison+delusion+pain+destroyer](viṣamohārtināśinī)
+[death](mṛtyu) [+](+) [conqueror](jit) [creatures](paśu) [+](+) [protector](paḥ) [she](sā) [this](iyaṃ) [poison](viṣa) [+](+) [delusion](moha) [+](+) [suffering](ārti) [+](+) [destroyer](nāśinī)
 
 ## mukta-m0-p65-v1625
-[poison+enemy](viṣāriḥ)
+[poison](viṣa) [+](+) [enemy](ariḥ)

@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p46-v1126
-[equal](samanāmahitatvakṛnnu) [being](bhūtā) [parrot-hand](śukahastā) [pleasure-maker](sukhakṛnna) [or](vāśu) [whose](kasya)
+[equal](samanā) [mahi](mahi) [truth](tatva) [maker](kṛt) [indeed](nu) [become](bhūtā) [parrot](śuka) [in-hand](hastā) [happiness](sukha) [maker](kṛt) [not](na) [quickly](vāśu) [of-whom](kasya)
 
 ## mukta-m0-p46-v1127
-[flower-arrow](puṣpabāṇā)
+[flower](puṣpa) [arrowed](bāṇā) [she](sā) [goddess](devī)
 
 ## mukta-m0-p46-v1128
-[arrow-casting](bāṇakṣepaṃ) [without](vinaivāśu) [sight](dṛṣṭyā) [rudra](rudraṃ) [fortune](śriye'stu) [she](sā)
+[arrow](bāṇa) [throwing](kṣepaṃ) [without](vinā) [even](eva) [quickly](āśu) [by-glance](dṛṣṭyā) [Rudra](rudraṃ) [for-prosperity](śriye) [be](astu) [she](sā)
 
 ## mukta-m0-p46-v1129
-[sugar-bow](ikṣucāpinī)
+[sugarcane](ikṣu) [bowed](cāpinī) [she](sā) [goddess](devī)
 
 ## mukta-m0-p46-v1130
-[directions](dikṣu) [directions](dikṣu) [always](sadā) [protector](rakṣākāriṇī) [not](no) [wanderer](vihāriṇī)
+[in-directions](dikṣu) [in-directions](dikṣu) [always](sadā) [protection](rakṣā) [doing](kāriṇī) [us](no) [wandering](vihāriṇī)
 
 ## mukta-m0-p46-v1131
-[red-garment-wearer](raktāmbaradharā)
+[red](rakta) [garment](āmbara) [wearing](dharā) [she](sā)
 
 ## mukta-m0-p46-v1132
-[know](jānanti) [everywhere](sarvataḥ) [twilight](saṃdhyāmiva) [deity-worshipped](daivatapūjitām)
+[they-know](jānanti) [everywhere](sarvataḥ) [twilight](saṃdhyām) [like](iva) [by-gods](daivata) [worshipped](pūjitām)
 
 ## mukta-m0-p46-v1133
-[intoxicated](kṣīvā)
+[intoxicated](kṣīvā) [she](sā) [goddess](devī) [is](asti)
 
 ## mukta-m0-p46-v1134
-[intoxicated](kṣīvā) [but](tveṣā) [by-self](svātmanā) [always-burning](sarvadāho) [life](jīvaṃ) [intoxicated](kṣīvaṃ) [and](cetyalubdhaṃ) [does](karoti)
+[intoxicated](kṣīvā) [indeed](tu) [this-one](eṣā) [by-own-self](svātmanā) [always](sarvadā) [indeed](aho) [living-being](jīvaṃ) [intoxicated](kṣīvaṃ) [and](ca) [thus](iti) [free-from-greed](alubdhaṃ) [makes](karoti)
 
 ## mukta-m0-p46-v1135
-[red-flower-garlanded](raktapuṣpāvataṃsinī)
+[red](rakta) [flower](puṣpa) [garlanded](āvataṃsinī) [she](sā)
 
 ## mukta-m0-p46-v1136
-[of-hara](harasya) [I-know](jāne) [she](sā) [being](bhūtā) [red-flower-garlanded](raktapuṣpāvataṃsinī)
+[of-Hara](harasya) [I-know](jāne) [she](sā) [become](bhūtā) [red](rakta) [flower](puṣpa) [garlanded](āvataṃsinī)
 
 ## mukta-m0-p46-v1137
-[white-garment-wearer](śubhrāmbaradharā)
+[white](śubhra) [garment](āmbara) [wearing](dharā) [she](sā)
 
 ## mukta-m0-p46-v1138
-[white-garment-wearer](śubhrāmbaradharā) [she](seyam) [white](śubhraṃ) [bestow](vitaratādyaśaḥ)
+[white](śubhra) [garment](āmbara) [wearing](dharā) [she](sā) [this](iyaṃ) [white](śubhraṃ) [may-bestow](vitaratāt) [today](adya) [fame](yaśaḥ)
 
 ## mukta-m0-p46-v1139
-[brave](dhīrā)
+[page-154](p. 154)) [steady](dhīrā) [she](sā) [goddess](devī)
 
 ## mukta-m0-p46-v1140
-[always-limbed](sadāṅgayātāpi) [of-hara](harasya) [full-bliss](pūrṇānandaiva) [brave](dhīrāstu) [own-purpose-doer](nijārthakartrī)
+[always](sadā) [limb](aṅga) [gone](yātā) [even-though](api) [of-Hara](harasya) [full](pūrṇa) [bliss](ānandā) [indeed](eva) [steady](dhīrā) [be](astu) [own](nija) [purpose](artha) [accomplisher](kartrī)
 
 ## mukta-m0-p46-v1141
-[great-white](mahāśvetā)
+[great](mahā) [white](śvetā) [she](sā) [goddess](devī)
 
 ## mukta-m0-p46-v1142
-[wind-mother](vatānmātā) [shines](bhātā'sitamitahitāt) [saṃsāra-maker](saṃsṛtikṛtāt)
+[protect](vata) [from-us](āt) [mother](mātā) [shining](bhātā) [from-unlimited](asita) [unfriendly](amita) [harmful](ahitāt) [world](saṃsṛti) [causing](kṛtāt)
 
 ## mukta-m0-p46-v1143
-[wealth-beloved](vasupriyā)
+[wealth](vasu) [dear](priyā) [she](sā) [goddess](devī)
 
 ## mukta-m0-p46-v1144
-[goddess](bhagavatyapi) [not](no) [I-know](jāne) [how](kathaṃ) [goddess](devī) [wealth-beloved](vasupriyā)
+[in-the-blessed-one](bhagavaty) [even](api) [of-us](no) [I-know](jāne) [how](kathaṃ) [goddess](devī) [wealth](vasu) [dear](priyā)
 
 ## mukta-m0-p46-v1145
-[good-braid](suveṇiḥ)
+[beautiful](su) [braid](veṇiḥ) [she](sā) [goddess](devī)
 
 ## mukta-m0-p46-v1146
-[braid-indeed](veṇyeva) [braid-domain](veṇīviṣayaṃ) [gone](prayātā) [good-braid](suveṇireṣāstu) [always](sadā) [welfare](hitāya)
+[braid](veṇyā) [like](iva) [braid](veṇī) [domain](viṣayaṃ) [gone](prayātā) [beautiful-braid](suveṇiḥ) [this-one](eṣā) [be](astu) [always](sadā) [for-benefit](hitāya)
 
 ## mukta-m0-p46-v1147
-[lotus-hand](padmahastā)
+[lotus](padma) [in-hand](hastā) [she](sā) [goddess](devī)
 
 ## mukta-m0-p46-v1148
-[given](datto) [boon](varaḥ) [kardama-born](kardamajāya) [lotus-hand](padmahastetināmnaiva) [by-her](tayā) [held](dhṛtena)
+[given](datto) [boon](varaḥ) [to-Kardama's-daughter](kardamajāya) [lotus](padma) [in-hand](hasta) [thus](iti) [by-name](nāmnā) [indeed](eva) [by-her](tayā) [held](dhṛtena)
 
 ## mukta-m0-p46-v1149
-[pearl-necklace-ornamented](muktāhāravibhūṣaṇā)
+[pearl](muktā) [necklace](hāra) [adorned](vibhūṣaṇā) [she](sā)
 
 ## mukta-m0-p46-v1150
-[foam](utphenā) [and](cāsti) [she](sā) [goddess](devī) [pearl-necklace-ornamented](muktāhāravibhūṣaṇā)
+[with-foam](utphenā) [and](ca) [is](asti) [she](sā) [goddess](devī) [pearl](muktā) [necklace](hāra) [adorned](vibhūṣaṇā)

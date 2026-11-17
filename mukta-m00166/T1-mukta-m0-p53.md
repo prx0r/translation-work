@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p53-v1301
-[root-support](mūlādhārā)
+[root](mūla) [+support](ādhārā) [root-support](mūla+ādhārā) [goddess](mūlādhārā)
 
 ## mukta-m0-p53-v1302
-[root+support+support+become](mūlādhārādhārabhūtā) [my+be](mamāstu)
+[root-support](mūlādhāra) [+foundation-being](ādhārabhūtā) [my](mama) [be](astu)
 
 ## mukta-m0-p53-v1303
-[formless](nirākārā)
+[without](nir) [+form](ākārā) [formless](nir+ākārā) [she](nirākārā)
 
 ## mukta-m0-p53-v1304
-[therefore](ato) [song+all+form](gītākhilākārā) [formless+thus](nirākāreti) [by-sages](sūribhiḥ)
+[therefore](ato) [song](gītā) [+all](akhila) [+form](ākārā) [formless](nir+ākārā) [thus](iti) [by-the-wise](sūribhiḥ)
 
 ## mukta-m0-p53-v1305
-[fire-pit+made+abode](vahnikuṇḍakṛtālayā)
+[fire](vahni) [+pit](kuṇḍa) [+made-abode](kṛtālayā) [fire-pit-abode](vahni+kuṇḍa+kṛtālayā)
 
 ## mukta-m0-p53-v1306
-[flame-garland+with](jvālāmālābhireṣā) [fire-pit+made+abode](vahnikuṇḍakṛtālayā)
+[flame](jvālā) [+garlands](mālābhiḥ) [+by-this](eṣā) [you](tvaṃ) [fire](vahni) [+pit](kuṇḍa) [+made-abode](kṛtālayā)
 
 ## mukta-m0-p53-v1307
-[wind-pit+comfortably-seated](vāyukuṇḍasukhāsīnā)
+[wind](vāyu) [+pit](kuṇḍa) [+happily-seated](sukhāsīnā) [wind-pit-seated](vāyu+kuṇḍa+sukhāsīnā)
 
 ## mukta-m0-p53-v1308
-[wind-pit+comfortably-seated](vāyukuṇḍasukhāsīnā) [because](yasmāt) [you](tvaṃ) [poor-compassionate](dīnavatsalā)
+[wind](vāyu) [+pit](kuṇḍa) [+happily-seated](sukhāsīnā) [because](yasmāt) [you](tvaṃ) [poor](dīna) [+compassionate](vatsalā)
 
 ## mukta-m0-p53-v1309
-[supportless](nirādhārā)
+[without](nir) [+support](ādhārā) [supportless](nir+ādhārā) [she](nirādhārā)
 
 ## mukta-m0-p53-v1310
-[supportless](nirādhārā) [sin](kārāṃ) [remove](haratu) [my](mama) [world-wandering](saṃsāravisarām)
+[supportless](nir+ādhārā) [disease](kārāṃ) [may-remove](haratu) [my](mama) [worldly](saṃsāra) [+expanse](visarām)
 
 ## mukta-m0-p53-v1311
-[refugeless](nirāśrayā)
+[without](nir) [+refuge](āśrayā) [without-refuge](nir+āśrayā) [she](nirāśrayā)
 
 ## mukta-m0-p53-v1312
-[good-intent+resting-place](sadāśayalayasthānā) [she](sā) [two-fold](dvidhāsti) [refugeless](nirāśrayā)
+[always](sadā) [+abode](āśaya) [+dissolution](laya) [+place](sthānā) [she](sā) [twofold](dvidhā) [exists](asti) [without-refuge](nir+āśrayā)
 
 ## mukta-m0-p53-v1313
-[breath+out-breath+movement](śvāsocchvāsagatiḥ)
+[inhalation](śvāsa) [+exhalation](ucchvāsa) [+movement](gatiḥ) [breath-movement](śvāsa+ucchvāsa+gatiḥ)
 
 ## mukta-m0-p53-v1314
-[may-be](bhūyāt) [of-good](satāṃ) [approved](sammatā)
+[may-be](bhūyāt) [of-the-good](satāṃ) [approved](sammatā) [esteemed](sammatā)
 
 ## mukta-m0-p53-v1315
-[living-soul](jīvā)
+[living](jīvā) [life](jīvā) [soul](jīvā) [being](jīvā)
 
 ## mukta-m0-p53-v1316
-[me](rmāṃ) [enliven](jīvayatviyamajīvatayeha) [living-soul](jīvā)
+[me](rmāṃ) [may-vivify](jīvayatu) [+this](iyam) [+for-non-living](ajīvataya) [+here](iha) [living-one](jīvā)
 
 ## mukta-m0-p53-v1317
-[grasping](grāhiṇī)
+[seizing](grāhiṇī) [grasping](grāhiṇī) [receiver](grāhiṇī) [she](grāhiṇī)
 
 ## mukta-m0-p53-v1318
-[grasping](grāhiṇī) [she](sā) [always](sadā) [may-be](bhūyād) [planet+non-planet+seizure+pain-removing](grahāgrahagrahārtihṛt)
+[seizing](grāhiṇī) [she](sā) [always](sadā) [may-be](bhūyāt) [planet](graha) [+seizure](āgraha) [+planet](graha) [+pain](ārti) [+remover](hṛt)
 
 ## mukta-m0-p53-v1319
-[fire+refuge](vahnisaṃśrayā)
+[fire](vahni) [+resort](saṃśrayā) [fire-resorting](vahni+saṃśrayā) [she](vahni+saṃśrayā)
 
 ## mukta-m0-p53-v1320
-[seat-hood](āsanatvaṃ) [gone](gato) [whose](yasyāḥ) [refuge](saṃśrayaḥ) [that](sa) [also](ca) [we-bow](tāṃ numaḥ)
+[seat-ness](āsanatvaṃ) [gone](gato) [of-whom](yasyāḥ) [resort](saṃśrayaḥ) [he](sa) [and](ca) [her](tāṃ) [we-bow](numaḥ)
 
 ## mukta-m0-p53-v1321
-[fire+thread+arisen](vahnitantusamutthānā)
+[fire](vahni) [+thread](tantu) [+arisen](samutthānā) [fire-thread-arisen](vahni+tantu+samutthānā)
 
 ## mukta-m0-p53-v1322
-[fire+thread+arisen](vahnitantusamutthānā) [what-like](kīdṛśī) [wonderful](citram) [goddess](īśvarī)
+[fire](vahni) [+thread](tantu) [+arisen](samutthānā) [of-what-kind](kīdṛśī) [wonder](citram) [+goddess](īśvarī)
 
 ## mukta-m0-p53-v1323
-[six+tastes+tasting+eager](ṣaḍrasāsvādalolupā)
+[six](ṣaḍ) [+tastes](rasa) [+relish](āsvāda) [+eager](lolupā) [six-taste-eager](ṣaḍ+rasa+āsvāda+lolupā)
 
 ## mukta-m0-p53-v1324
-[mortal-world+dear](martyalokapriyā) [goddess](devī) [six+tastes+tasting+eager](ṣaḍrasāsvādalolupā)
+[mortal](martya) [+world](loka) [+dear](priyā) [goddess](devī) [six](ṣaḍ) [+tastes](rasa) [+relish](āsvāda) [+eager](lolupā)
 
 ## mukta-m0-p53-v1325
-[ascetic](tapasvinī)
+[ascetic](tapasvinī) [practicing-austerity](tapasvinī) [austere-one](tapasvinī) [she](tapasvinī)
