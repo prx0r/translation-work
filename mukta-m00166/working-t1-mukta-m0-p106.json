@@ -16,15 +16,19 @@
 },
 {
 "surface": "no",
-"quick_gloss": "not"
+"quick_gloss": "our"
 },
 {
 "surface": "jātā",
 "quick_gloss": "born"
 },
 {
-"surface": "syājjātatā",
-"quick_gloss": "may-be+birth-state"
+"surface": "syāt",
+"quick_gloss": "may-be"
+},
+{
+"surface": "jātatā",
+"quick_gloss": "birth-state"
 },
 {
 "surface": "yayā",
@@ -87,7 +91,7 @@
 "tokens": [
 {
 "surface": "sarvatīrthamayī",
-"quick_gloss": "all-tirtha-formed"
+"quick_gloss": "all-tirtha-filled"
 },
 {
 "surface": "mūrtiḥ",
@@ -104,7 +108,7 @@
 "tokens": [
 {
 "surface": "sarvatīrthamayī",
-"quick_gloss": "all-tirtha-formed"
+"quick_gloss": "all-tirtha-filled"
 },
 {
 "surface": "mūrtiḥ",
@@ -120,7 +124,7 @@
 },
 {
 "surface": "yadantarā",
-"quick_gloss": "which+in-between"
+"quick_gloss": "within"
 }
 ]
 },
@@ -133,7 +137,7 @@
 "tokens": [
 {
 "surface": "sarvadevamayī",
-"quick_gloss": "all-god-formed"
+"quick_gloss": "all-god-filled"
 },
 {
 "surface": "prabhā",
@@ -157,7 +161,7 @@
 "quick_gloss": "that"
 },
 {
-"surface": "tamaḥ",
+"surface": "tattamaḥ",
 "quick_gloss": "darkness"
 },
 {
@@ -170,7 +174,7 @@
 },
 {
 "surface": "sarvadevamayī",
-"quick_gloss": "all-god-formed"
+"quick_gloss": "all-god-filled"
 },
 {
 "surface": "prabhā",
@@ -212,11 +216,11 @@
 },
 {
 "surface": "jayatāt",
-"quick_gloss": "may-conquer"
+"quick_gloss": "victory-may"
 },
 {
 "surface": "jayatāt",
-"quick_gloss": "may-conquer"
+"quick_gloss": "victory-may"
 },
 {
 "surface": "iyam",
@@ -246,7 +250,7 @@
 "tokens": [
 {
 "surface": "yat",
-"quick_gloss": "which"
+"quick_gloss": "that"
 },
 {
 "surface": "sarvatra",
@@ -283,7 +287,7 @@
 },
 {
 "surface": "śriyā",
-"quick_gloss": "with-splendor"
+"quick_gloss": "with-prosperity"
 },
 {
 "surface": "jaya",
@@ -328,8 +332,8 @@
 "quick_gloss": "name"
 },
 {
-"surface": "nāmuṃ",
-"quick_gloss": "him"
+"surface": "nāmum",
+"quick_gloss": "that"
 },
 {
 "surface": "praṇamanti",
@@ -353,8 +357,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "hṛṣīkapūgaṃ",
-"quick_gloss": "senses-collection"
+"surface": "hṛṣīkapūgam",
+"quick_gloss": "senses-group"
 },
 {
 "surface": "ca",
@@ -387,14 +391,14 @@
 },
 {
 "surface": "adhīyeta",
-"quick_gloss": "may-study"
+"quick_gloss": "study"
 },
 {
 "surface": "ca",
 "quick_gloss": "and"
 },
 {
-"surface": "taṃ",
+"surface": "tam",
 "quick_gloss": "him"
 },
 {
@@ -411,16 +415,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "saṃśrāvayet",
-"quick_gloss": "may-recite"
-},
-{
-"surface": "vā",
-"quick_gloss": "or"
+"surface": "saṃśrāvayedvā",
+"quick_gloss": "recite-or"
 },
 {
 "surface": "stavarājam",
-"quick_gloss": "stava-king"
+"quick_gloss": "hymn-king"
 },
 {
 "surface": "enam",
@@ -436,16 +436,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "svapne",
-"quick_gloss": "in-dream"
-},
-{
-"surface": "api",
-"quick_gloss": "also"
+"surface": "svapne'pi",
+"quick_gloss": "dream-even"
 },
 {
 "surface": "duḥkhaṃ",
-"quick_gloss": "suffering"
+"quick_gloss": "sorrow"
 },
 {
 "surface": "nahi",
@@ -453,7 +449,7 @@
 },
 {
 "surface": "saṃspṛśet",
-"quick_gloss": "may-touch"
+"quick_gloss": "touch"
 },
 {
 "surface": "tam",
@@ -469,7 +465,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "yatnaṃ",
+"surface": "yatnam",
 "quick_gloss": "effort"
 },
 {
@@ -481,7 +477,7 @@
 "quick_gloss": "may-be"
 },
 {
-"surface": "hanadhānyasampat",
+"surface": "dhanadhānyasampat",
 "quick_gloss": "wealth-grain-prosperity"
 }
 ]
@@ -495,15 +491,11 @@
 "tokens": [
 {
 "surface": "tejasvitā",
-"quick_gloss": "glory"
+"quick_gloss": "radiance"
 },
 {
-"surface": "sā",
-"quick_gloss": "that"
-},
-{
-"surface": "api",
-"quick_gloss": "also"
+"surface": "sāpi",
+"quick_gloss": "that-also"
 },
 {
 "surface": "bhavet",
@@ -531,12 +523,12 @@
 "quick_gloss": "that"
 },
 {
-"surface": "svavaśyaṃ",
-"quick_gloss": "submissive"
+"surface": "svavaśyam",
+"quick_gloss": "self-subject"
 },
 {
-"surface": "prabalaṃ",
-"quick_gloss": "powerful"
+"surface": "prabalam",
+"quick_gloss": "strong"
 },
 {
 "surface": "balitvam",
@@ -552,7 +544,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "cchauryaṃ",
+"surface": "cauryaṃ",
 "quick_gloss": "theft"
 },
 {
@@ -582,19 +574,11 @@
 },
 {
 "surface": "śokaḥ",
-"quick_gloss": "grief"
+"quick_gloss": "sorrow"
 },
 {
-"surface": "etat",
-"quick_gloss": "this"
-},
-{
-"surface": "prabhavaḥ",
-"quick_gloss": "source"
-},
-{
-"surface": "api",
-"quick_gloss": "also"
+"surface": "etatprabhavaḥ",
+"quick_gloss": "this-source-even"
 },
 {
 "surface": "dūre",
@@ -610,7 +594,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "syātāṃ",
+"surface": "syātām",
 "quick_gloss": "may-be"
 },
 {
@@ -626,12 +610,8 @@
 "quick_gloss": "and"
 },
 {
-"surface": "yaśaḥ",
-"quick_gloss": "fame"
-},
-{
-"surface": "pratāpau",
-"quick_gloss": "splendor"
+"surface": "yaśaḥpratāpau",
+"quick_gloss": "fame-glory"
 }
 ]
 },
@@ -660,7 +640,7 @@
 },
 {
 "surface": "tu",
-"quick_gloss": "then"
+"quick_gloss": "but"
 }
 ]
 }

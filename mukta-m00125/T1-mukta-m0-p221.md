@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p221-v5501
-[from-navel-middle](nābhimadhyāttu) [left](vāme) [and](ca) [right](dakṣiṇe) [outside-indeed](bahireva) [and](ca)
+[from-navel-middle](nābhimadhyāt) [but](tu) [left](vāme) [and](ca) [right](dakṣiṇe) [outside](bahir) [indeed](eva) [and](ca)
 
 ## mukta-m0-p221-v5502
-[elephant-trunk's](varahastasya) [back-high](pṛṣṭhoccaṃ) [that](tannāha) [wrist](maṇibandhayoḥ)
+[of-boar-hand](varahastasya) [back-high](pṛṣṭhoccaṃ) [that-not](tannāha) [of-wrists](maṇibandhayoḥ)
 
 ## mukta-m0-p221-v5503
-[side-end](pārśvāntaṃ) [rasa](rasa) [only](mātraṃ) [be](syāt) [sages-best](munipuṃgavāḥ)
+[side-end](pārśvāntaṃ) [rasa](rasa) [measure](mātraṃ) [be](syāt) [interval](antaraṃ) [sage-bulls](munipuṃgavāḥ)
 
 ## mukta-m0-p221-v5504
-[from-navel](nābhestaṃ) [to-wrist-end](maṇibandhāntaṃ) [remembered](smṛtyaṃ) [finger-measure](gulamitīritam)
+[from-navel-that](nābhestaṃ) [to-wrist-end](maṇibandhāntaṃ) [smṛti-finger](smṛtyaṃgulam) [thus-spoken](itīritam)
 
 ## mukta-m0-p221-v5505
-[between-two-big-toes](pādāṃguṣṭhadvayormadhyaṃ) [between-two-mouth-heels](mukhapārṣṇidvayāntaram)
+[feet-thumbs-pair-middle](pādāṃguṣṭhadvayormadhyaṃ) [face-heel-pair-end](mukhapārṣṇidvayāntaram)
 
 ## mukta-m0-p221-v5506
-[half-moon-bee-like](ardhendumalivaścānya) [between-hands](hastayerantaraṃ) [opinion](matam)
+[half-moon-bee-like](ardhendumalivaścānya) [hand-pair-interval](hastayerantaraṃ) [opinion](matam)
 
 ## mukta-m0-p221-v5507
-[goddess-eye-chin](devīdṛgāsya) [armpit-nipple-measure](cibuka) [kakṣa] [cūcukamānatā]
+[goddess-eye-face](devīdṛgāsya) [chin](cibuka) [armpit](kakṣa) [nipple-measure](cūcukamānatā)
 
 ## mukta-m0-p221-v5508
-[fitting-goddess-hip-touch](yuktādevīkaṭispṛṣṭa) [hands-also-joined](karābhyāmapi) [saṃyutā]
+[united-goddess-hip-touched](yuktādevīkaṭispṛṣṭa) [by-hands-also](karābhyāmapi) [joined](saṃyutā)
 
 ## mukta-m0-p221-v5509
-[between-two-big-toes](pādāṃguṣṭhadvayormadhyaṃ) [be-eighteen-fingers](bhavedaṣṭadaśāṃgulam)
+[feet-thumbs-pair-middle](pādāṃguṣṭhadvayormadhyaṃ) [be-eighteen-fingers](bhavedaṣṭadaśāṃgulam)
 
 ## mukta-m0-p221-v5510
-[god-highest-tenth-part-one](devoccadaśabhāgaika) [part-to-eleven-limit](bhāgādekādaśāvadhi)
+[god-high-ten-part-one](devoccadaśabhāgaika) [part-to-eleven-limit](bhāgādekādaśāvadhi)
 
 ## mukta-m0-p221-v5511
-[taken-conch-discus](gṛhīta) [śaṃkha] [cakraśca] [hands-by-held-also](hastābhyāṃ) [dhṛtayāpi] [ca]
+[taken](gṛhīta) [conch](śaṃkha) [discus-and](cakraśca) [by-hands](hastābhyāṃ) [held-also](dhṛtayāpi) [and](ca)
 
 ## mukta-m0-p221-v5512
-[from-nose-tip](nāsāgrāt) [standing-foot](sthitapādyasya) [to-big-toe-end](cāṃguṣṭhāntaṃ) [hang](vilaṃbayet)
+[from-nose-tip](nāsāgrāt) [standing-foot](sthitapādyasya) [and-thumb-end](cāṃguṣṭhāntaṃ) [hang](vilaṃbayet)
 
 ## mukta-m0-p221-v5513
-[pitcher-height-width](kuṇḍikotsedhavistāro) [palm-thread-finger](tālasūtrāṃgulau) [opinion](matau)
+[pot-height-width](kuṇḍikotsedhavistāro) [palm-thread-finger](tālasūtrāṃgulau) [opinion](matau)
 
 ## mukta-m0-p221-v5514
-[mouth-five-fingers](āsyaṃpañcāṃgulaṃ) [proclaimed](proktaṃ) [nose-high](nāsikoccantu) [kolaka](kolakam)
+[mouth-five-fingers](āsyaṃpañcāṃgulaṃ) [spoken](proktaṃ) [nose-high-and](nāsikoccantu) [kolaka](kolakam)
 
 ## mukta-m0-p221-v5515
-[one-finger](ekāṃgulaṃ) [that-foot-high](tat) [padoccaṃ] [that-root-tip-three](tanmūlāgratatistribhiḥ)
+[one-finger](ekāṃgulaṃ) [that-foot-high](tat padoccaṃ) [that-root-tip-three](tanmūlāgratatistribhiḥ)
 
 ## mukta-m0-p221-v5516
-[above-that](tadūrdhve) [right-hand](dakṣiṇaṃhastandhārāpātāya) [kalpayet]
+[above-that](tadūrdhve) [right-hand](dakṣiṇaṃhastandhārāpātāya) [arrange](kalpayet)
 
 ## mukta-m0-p221-v5517
-[from-navel-to-wrist-end](nābhestumaṇibandhāntaṃ) [dhātu-only-measure](dhātumātramitismṛtam)
+[from-navel-to-wrist-end](nābhestumaṇibandhāntaṃ) [dhātu-measure-thus-remembered](dhātumātramitismṛtam)
 
 ## mukta-m0-p221-v5518
-[boon-giver](varadaḥ) [bracelets](kaṭakau) [be](syātāṃ) [left-other-hands-both](vāmetara) [karāvubhau]
+[boon-giver](varadaḥ) [bracelets](kaṭakau) [be](syātāṃ) [left-other](vāmetara) [hands-both](karāvubhau)
 
 ## mukta-m0-p221-v5519
-[four-faced](caturmukhaścaturbāhuḥ) [jaṭā-crown-adorned](jaṭāmakuṭamaṇḍitam)
+[four-faced-four-armed](caturmukhaścaturbāhuḥ) [matted-crown-adorned](jaṭāmakuṭamaṇḍitam)
 
 ## mukta-m0-p221-v5520
-[mauñjī-girdle](mauñjīmekhalayopetaṃ) [with-sacred-thread-upper-garment](sopavītottarīyakam)
+[grass-girdle-equipped](mauñjīmekhalayopetaṃ) [sacred-thread-upper-garment](sopavītottarīyakam)
 
 ## mukta-m0-p221-v5521
-[boon-fear-hands](varābhayakarau) [east](pūrvausyātāntau) [right-other](dakṣiṇetarau)
+[boon-fear-hands](varābhayakarau) [east-be](pūrvausyātāntau) [right-other](dakṣiṇetarau)
 
 ## mukta-m0-p221-v5522
 [thread-forehead-nose-tip](sūtraṃlalaṭanāsāgra) [middle](madhyame) [navel-ankles](nābhigulphayoḥ)
 
 ## mukta-m0-p221-v5523
-[that-foot-big-toe-root-end](tatpādāṃguṣṭha) [mūlāntānnābhervasudaśāṃgulam]
+[that-foot-thumb](tatpādāṃguṣṭha) [root-end](mūlāntānnābhervasudaśāṃgulam)
 
 ## mukta-m0-p221-v5524
-[in-middle](tanmadhye) [universe-measure](viśvamātrasyāt) [arm-side-end](bāhupārśvāntakaṃ) [rasaiḥ]
+[in-that-middle](tanmadhye) [universe-measure-be](viśvamātrasyāt) [arm-side-end](bāhupārśvāntakaṃ) [rasas](rasaiḥ)
 
 ## mukta-m0-p221-v5525
-[brahma-form](brahmarūpamitikhyāta) [ntathāpadmāsanasthitam]
+[brahma-form-thus-called](brahmarūpamitikhyāta) [and-lotus-seat-situated](ntathāpadmāsanasthitam)

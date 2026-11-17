@@ -5,73 +5,73 @@
 [fire-seed](vahnibījaṃ) [great-lady](maheśāni) [heart-lotus](hṛtpadme) [as-before](pūrvavat) [beloved](priye)
 
 ## mukta-m0-p09-v202
-[forehead](lalāṭe) [varuna](vāruṇaṃ) [seed](bījaṃ) [white](śuklaṃ) [contemplating](sañcintya) [beautiful](sundari)
+[forehead](lalāṭe) [water-seed](vāruṇaṃ) [seed](bījaṃ) [white](śuklaṃ) [meditate](sañcintya) [beautiful-one](sundari)
 
 ## mukta-m0-p09-v203
-[thus](evaṃ) [twelvefold](dvādaśadhā) [goddess](devi) [element-purification](bhūtaśuddhiṃ) [should-perform](samācaret)
+[thus](evaṃ) [twelve-fold](dvādaśadhā) [goddess](devi) [element-purification](bhūtaśuddhiṃ) [perform](samācaret)
 
 ## mukta-m0-p09-v204
-[previously-said](pūrvoktaṃ) [supreme-lady](parameśāni) [common](sāmānyaṃ) [purification-indeed](śuddhimeva) [and](ca)
+[previously-said](pūrvoktaṃ) [supreme-lady](parameśāni) [common](sāmānyaṃ) [purification](śuddhim) [indeed](eva) [and](ca)
 
 ## mukta-m0-p09-v205
-[of-body](dehasya) [of-subtle-form](sūkṣmarūpasya) [element-purification-this](bhūtaśuddhiriyaṃ) [beloved](priye)
+[of-body](dehasya) [subtle-form](sūkṣmarūpasya) [element-purification](bhūtaśuddhiḥ) [this](iyaṃ) [beloved](priye)
 
 ## mukta-m0-p09-v206
-[with-life](jīvena) [with](saha) [goddess](deveśi) [in-sushumna](suṣumnāyāṃ) [should-immerse](nimajjayet)
+[with-life](jīvena) [with](saha) [goddess](deveśi) [suṣumnā](suṣumnāyāṃ) [immerse](nimajjayet)
 
 ## mukta-m0-p09-v207
-[should-chant](prajapet) [with-supreme](parayā) [devotion](bhaktyā) [with-garland](mālayā) [by-letter-count](varṇasaṅkhyayā)
+[recite](prajapet) [supreme](parayā) [devotion](bhaktyā) [garland](mālayā) [letter-count](varṇasaṅkhyayā)
 
 ## mukta-m0-p09-v208
-[with-manonmani](manonmanīyute) [life](jīvaḥ) [in-brahmarandhra](brahmarandhre) [and](ca) [should-chant](saṃjapet)
+[mind-unmind](manonmanīyute) [life](jīvaḥ) [brahma-hole](brahmarandhre) [and](ca) [chant](saṃjapet)
 
 ## mukta-m0-p09-v209
-[life](jīvaḥ) [pure](śuddho) [becomes](bhaved) [goddess](devi) [with-hosts](gaṇaiḥ) [attendants](parikaraiḥ) [with](saha)
+[life](jīvaḥ) [pure](śuddho) [become](bhaved) [goddess](devi) [hosts](gaṇaiḥ) [attendants](parikaraiḥ) [with](saha)
 
 ## mukta-m0-p09-v210
 [eyes](akṣiṇī) [nose](nāsike) [ears](karṇau) [tongue](jihvā) [and](ca) [lotus-eyed](kamalekṣaṇe)
 
 ## mukta-m0-p09-v211
-[navel](nābhiṃ) [and](ca) [supreme-lady](parameśāni) [mind](manaśca) [supreme-goddess](parameśvari)
+[navel](nābhiṃ) [and](ca) [supreme-lady](parameśāni) [mind](manaḥ) [and](ca) [supreme-goddess](parameśvari)
 
 ## mukta-m0-p09-v212
-[mind](manaśca) [supreme-lady](parameśāni) [unmani](unmanī) [destroyer-of-becoming](bhavanāśinī)
+[mind](manaḥ) [and](ca) [supreme-lady](parameśāni) [unmind](unmanī) [existence-destroyer](bhavanāśinī)
 
 ## mukta-m0-p09-v213
 [waking-dream-deep-sleep-states](jāgratsvapnasuṣuptyavasthā) [this](etad) [goddess](devi) [three](trayaṃ) [remembered](smṛtam)
 
 ## mukta-m0-p09-v214
-[of-senses](indriyāṇāṃ) [indeed](tu) [of-all](sarveṣāṃ) [mind](manaḥ) [supreme-charioteer](paramasārathiḥ)
+[of-senses](indriyāṇāṃ) [but](tu) [all](sarveṣāṃ) [mind](manaḥ) [supreme-charioteer](paramasārathiḥ)
 
 ## mukta-m0-p09-v215
-[own-action](svakarma) [performs](bhajate) [goddess](devi) [unmani](unmanī) [always](satataṃ) [beloved](priye)
+[own-action](svakarma) [performs](bhajate) [goddess](devi) [unmind](unmanī) [always](satataṃ) [beloved](priye)
 
 ## mukta-m0-p09-v216
-[weeping](rodanaṃ) [delusion-fainting](mohamūrcche) [and](ca) [hunger](kṣudhā) [thirst](tṛṣṇā) [bright-smiling](śucismite)
+[weeping](rodanaṃ) [delusion-fainting](mohamūrcche) [and](ca) [hunger](kṣudhā) [thirst](tṛṣṇā) [smiling-pure](śucismite)
 
 ## mukta-m0-p09-v217
-[jobo](jobo) [eternal](nityo) [imperishable](avyayaḥ) [subtle](sūkṣmaḥ) [all-pervading](sarvagaḥ) [all-knowing](sarvavit) [supreme](paraḥ)
+[jīva](jobo) [eternal](nityaḥ) [imperishable](avyayaḥ) [subtle](sūkṣmaḥ) [all-pervading](sarvagaḥ) [all-knowing](sarvavit) [supreme](paraḥ)
 
 ## mukta-m0-p09-v218
-[lamp-flame-form](pradīpakalikākāraḥ) [all](sarvaḥ) [having-attained](prāpya) [expands](vijṛmbhate)
+[lamp-bud-form](pradīpakalikākāraḥ) [all](sarvaḥ) [having-reached](prāpya) [expands](vijṛmbhate)
 
 ## mukta-m0-p09-v219
 [million-suns-like](koṭisūryapratīkāśāṃ) [golden-river](svarṇadīṃ) [sin-destroying](pāpanāśinīm)
 
 ## mukta-m0-p09-v220
-[directly](sākṣād) [brahma-pool-form](brahmahradākārāṃ) [various-pleasures-roaming](nānāsukhavihāriṇīm)
+[directly](sākṣād) [brahma-pool-form](brahmahradākārāṃ) [various-pleasure-roaming](nānāsukhavihāriṇīm)
 
 ## mukta-m0-p09-v221
 [knowledge-and-science-endowed](jñānavijñānasaṃyuktāṃ) [consciousness-form](cidākārāṃ) [eternal](sanātanīm)
 
 ## mukta-m0-p09-v222
-[left-side](vāmapārśve) [situated](sthitāṃ) [eternal](nityāṃ) [brahma-form](brahmarūpāṃ) [lightning-made](taḍinmayīm)
+[left-side](vāmapārśve) [standing](sthitāṃ) [eternal](nityāṃ) [brahma-form](brahmarūpāṃ) [lightning-made](taḍinmayīm)
 
 ## mukta-m0-p09-v223
-[in-its-middle](tanmadhyasthāṃ) [great-lady](maheśāni) [nectar-birth-filled](amṛtabhavapūritām)
+[therein-middle-standing](tanmadhyasthāṃ) [great-lady](maheśāni) [nectar-birth-filled](amṛtabhavapūritām)
 
 ## mukta-m0-p09-v224
-[left-channel](vāmanāḍī) [great-lady](maheśāni) [sleep-form](suptirūpā) [front-situated](puraḥsthitā)
+[left-channel](vāmanāḍī) [great-lady](maheśāni) [sleep-form](suptirūpā) [front-standing](puraḥsthitā)
 
 ## mukta-m0-p09-v225
-[right](dakṣiṇe) [pingala-seated](piṅgalāśritā)
+[missing](---------------) [right](dakṣiṇe) [piṅgalā-seated](piṅgalāśritā)
