@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p92-v2276
-[thus](evam) [iti](iti) [from-your-form](tvadrūpāt) [different](bhinnam) [iti](iti) [thus](iti) [meaning](arthaḥ) [that](tam) [indeed](eva) [reason](hetum) [says](āha) [I-notion](ahaṃbuddhiḥ) [iti](iti)
+[gloss](evamiti) [gloss](tvadrūpādbhinnamityarthaḥ) [gloss](tameva) [gloss](hetumāha) [gloss](ahaṃbuddhīti)
 
 ## mukta-m0-p92-v2277
-[therefore](tasmāt) [consciousness](citiḥ) [all-knowing](sarvavettrī) [you](tvam) [O-Aṣṭāvakra](aṣṭāvakra) [in-reality](tattvataḥ)
+[gloss](tasmāccitiḥ) [gloss](sarvavettrī) [gloss](tvamaṣṭāvakra) [gloss](tattvataḥ)
 
 ## mukta-m0-p92-v2278
-[because](yasmāt) [I-notion](ahaṃbuddhiṃ) [consciousness](citiḥ) [not](na) [transgressing](vyatītya) [stands](tiṣṭhati) [therefore](tasmāt) [all-knowing](sarvavettrī) [consciousness](citiḥ) [indeed](eva) [you](tvam)
+[gloss](yasmādahaṃbuddhiṃ) [gloss](citirna) [gloss](vyatītya) [gloss](tiṣṭhati) [gloss](tasmāt) [gloss](sarvavettrī) [gloss](citireva) [gloss](tvam)
 
 ## mukta-m0-p92-v2279
-[instruction](ādeśa) [time](kāla) [indeed](eva) [self](svaṃ) [see](paśyanti) [supreme-intellects](uttama+buddhayaḥ)
+[gloss](ādeśakāla) [gloss](eva) [gloss](svaṃ) [gloss](paśyantyuttamabuddhayaḥ)
 
 ## mukta-m0-p92-v2280
-[hearing](śravaṇa) [time](kāle) [indeed](eva) [thus](iti) [meaning](arthaḥ) [self](svam) [self](ātmānam)
+[gloss](śravaṇakāle) [gloss](eva) [gloss](ityarthaḥ) [gloss](svam) [gloss](ātmānam)
 
 ## mukta-m0-p92-v2281
-[by-which](yena) [you-see](paśyasi) [in-dreams](svapneṣu) [that](tat) [eye](cakṣuḥ) [principal](mukhyam) [is-called](ucyate)
+[gloss](yena) [gloss](paśyasi) [gloss](svapneṣu) [gloss](taccakṣurmukhyamucyate)
 
 ## mukta-m0-p92-v2282
-[eye](cakṣuḥ) [form](rūpatvena) [and](ca) [mind](manaḥ) [indeed](eva) [principal](mukhyaṃ) [eye](cakṣuḥ) [iti](iti) [sense](bhāvaḥ)
+[gloss](cakṣūrūpatvena) [gloss](ca) [gloss](mana) [gloss](eva) [gloss](mukhyaṃ) [gloss](cakṣuriti) [gloss](bhāvaḥ)
 
 ## mukta-m0-p92-v2283
-[not-turned-back](apratyāvṛtta) [eye](cakṣuḥ) [indeed](vai) [not](na) [indeed](eva) [sees](paśyati) [anything](kiñcana)
+[gloss](apratyāvṛttacakṣurvai) [gloss](naiva) [gloss](paśyati) [gloss](kiñcana)
 
 ## mukta-m0-p92-v2284
-[sees](paśyati) [iti](iti) [meaning](arthaḥ)
+[gloss](paśyatītyarthaḥ)
 
 ## mukta-m0-p92-v2285
-[having-turned-back](pratyāvṛttya) [firmly](dṛḍhaṃ) [in-that](tasmin) [indeed](eva) [should-fix](saṃyojayet) [if](yadi)
+[gloss](pratyāvṛttya) [gloss](dṛḍhaṃ) [gloss](tasminneva) [gloss](saṃyojayedyadi)
 
 ## mukta-m0-p92-v2286
-[by-steadiness](niścalatvena) [by-firmness](dṛḍhatayā) [mind](manaḥ) [should-fix](saṃyojayet) [then](tadā) [that](tat) [shines](bhāsate) [iti](iti) [connection](anvayaḥ)
+[gloss](niścalatvena) [gloss](dṛḍhatayā) [gloss](manaḥ) [gloss](saṃyojayettadā) [gloss](tadbhāsata) [gloss](ityanvayaḥ)
 
 ## mukta-m0-p92-v2287
-[at-other-time](anyadā) [but](tu) [present-before](puraḥ+vṛtti) [not](na) [clearly](spaṣṭaṃ) [shines](bhāsate) [anywhere](kvacit)
+[gloss](anyadā) [gloss](tu) [gloss](purovṛtti) [gloss](na) [gloss](spaṣṭaṃ) [gloss](bhāsate) [gloss](kvacit)
 
 ## mukta-m0-p92-v2288
-[in-particular-form](viśeṣa+rūpeṇa) [clearly](spaṣṭaṃ) [shines](bhāsate) [iti](iti) [says](āha) [otherwise](anyadā) [iti](iti)
+[gloss](viśeṣarūpeṇa) [gloss](spaṣṭaṃ) [gloss](bhāsata) [gloss](ityāha) [gloss](anyadeti)
 
 ## mukta-m0-p92-v2289
-[thus](evaṃ) [of-hearing-touch-etc](śrotra+tvak+ādīnāṃ) [O-Bhūdeva](bhūdeva) [know](avehi) [condition](saṃsthitim)
+[gloss](evaṃ) [gloss](śrotratvagādīnāṃ) [gloss](bhūdevāvehi) [gloss](saṃsthitim)
 
 ## mukta-m0-p92-v2290
-[turned-back-mind](pratyāvṛtta+manasaḥ) [indeed](eva) [by-hearing-etc](śrotra+ādyaiḥ) [sound-etc-grasping](śabda+ādi+grahaṇam) [iti](iti) [sense](bhāvaḥ)
+[gloss](pratyāvṛttamanasa) [gloss](eva) [gloss](śrotrādyaiḥ) [gloss](śabdādigrahaṇamiti) [gloss](bhāvaḥ)
 
 ## mukta-m0-p92-v2291
-[not](na) [by-not-turned-back-mind](apratyāvṛtta+manasā) [anything](kiñcit) [to-know](veditum) [is-fit](arhati)
+[gloss](nāpratyāvṛttamanasā) [gloss](kiñcid) [gloss](veditumarhati)
 
 ## mukta-m0-p92-v2292
-[turned-back](pratyāvṛttaṃ) [mind](manaḥ) [pure](śuddhaṃ) [own-form-manifesting](nija+rūpa+avabhāsakam)
+[gloss](pratyāvṛttaṃ) [gloss](manaḥ) [gloss](śuddhaṃ) [gloss](nijarūpāvabhāsakam)
 
 ## mukta-m0-p92-v2293
-[sense](bhāvaḥ)
+[gloss](bhāvaḥ)
 
 ## mukta-m0-p92-v2294
-[not-object](agocaraḥ) [if](cet) [self](ātmā) [this](asau) [by-mind](manasā) [object](gocaraḥ) [also](api) [and](ca)
+[gloss](agocaraścedātmāsau) [gloss](manasā) [gloss](gocaro'pi) [gloss](ca)
 
 ## mukta-m0-p92-v2295
-[object](gocaraḥ) [and](ca)
+[gloss](gocaraśca)
 
 ## mukta-m0-p92-v2296
-[mind-objectness](manaḥ+gocaratā) [in-external](bāhye) [in-two-ways](dvi+prakāreṇa) [is-situated](saṃsthitā)
+[gloss](manogocaratā) [gloss](bāhye) [gloss](dviprakāreṇa) [gloss](saṃsthitā)
 
 ## mukta-m0-p92-v2297
-[mind](manaḥ) [iti](iti) [in-external](bāhye) [in-non-self](anātmani)
+[gloss](mana) [gloss](iti) [gloss](bāhye) [gloss](anātmani)
 
 ## mukta-m0-p92-v2298
-[from-others](anyebhyaḥ) [but](tu) [mere-turning-away](parāvṛtti+mātre) [also](api) [of-mind](manasaḥ) [being](sati)
+[gloss](anyebhyastu) [gloss](parāvṛttimātre'pi) [gloss](manasaḥ) [gloss](sati)
 
 ## mukta-m0-p92-v2299
-[mere-turning-away-from-others](anya+parāvṛtti+mātram) [indeed](eva) [let-it-be](astu) [devotion-to-that](tat+paratā) [let-not-be](mā+astu) [iti](iti) [if](cet) [says](āha) [from-others](anyebhyaḥ) [iti](iti)
+[gloss](anyaparāvṛttimātramevāstu) [gloss](tatparatā) [gloss](māstviti) [gloss](cedāha) [gloss](anyebhya) [gloss](iti)
 
 ## mukta-m0-p92-v2300
-[therefore](tasmāt) [devotion-to-that](tat+paratā) [also](api) [here](atra) [activity](vyāpāraḥ) [mental](mānasaḥ) [supreme](paraḥ)
+[gloss](tasmāttatparatāpyatra) [gloss](vyāpāro) [gloss](mānasaḥ) [gloss](paraḥ)

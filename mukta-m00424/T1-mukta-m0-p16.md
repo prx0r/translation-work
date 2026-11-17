@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p16-v376
-[all-mantra-essence](sarvamantrātmakaṃ) [mantra](mantraṃ) [lump-mantra](piṇḍamantram) [this](idaṃ) [auspicious](śubham)
+[all-mantra-essence](sarva+mantra+ātmakaṃ) [mantra](mantraṃ) [piṇḍa-mantra](piṇḍa+mantraṃ) [this](idaṃ) [auspicious](śubham)
 
 ## mukta-m0-p16-v377
-[liṅga-difference-order](liṅgabhedakramaṃ) [I-shall-tell](vakṣye) [distinction](viśeṣaṃ) [indeed](tu) [as-in-order](yathākramam)
+[linga-difference-order](liṅga+bheda+kramaṃ) [I-will-declare](vakṣye) [distinction](viśeṣaṃ) [but](tu) [in-order](yathā+kramaṃ)
 
 ## mukta-m0-p16-v378
-[movable-liṅga](calaliṅge) [eternal-abode](sadāvāsaṃ) [one-should-worship](pūjayet) [supreme-lord](parameśvaram)
+[moving-linga](cala+liṅge) [eternal-abode](sadā+vāsaṃ) [worship](pūjayet) [supreme-lord](parama+īśvaram)
 
 ## mukta-m0-p16-v379
-[mantra-consecration-devoid](mantrasaṃskārahīne) [indeed](tu) [liṅga](liṅgam) [form-mere](ākṛti+mātrakam)
+[mantra-purification-lacking](mantra+saṃskāra+hīne) [but](tu) [linga-form](liṅga+mākṛti) [mere](mātrakam)
 
 ## mukta-m0-p16-v380
-[therefore](tasmāt) [with-all-effort](sarvaprayatnena) [lord-form](svāmirūpaṃ) [always-one-should-worship](sadā+arcayet)
+[therefore](tasmāt) [all-effort](sarva+prayatnena) [lord-form](svāmi+rūpaṃ) [always-worship](sadā+arcayet)
 
 ## mukta-m0-p16-v381
-[true-thing](satyavastu) [own-form](svarūpaṃ) [indeed](tu) [supreme](paraṃ) [called-sādākhya](sādākhya) [that](tat) **(?)
+[true-reality](satya+vastu) [own-form](sva+rūpaṃ) [but](tu) [supreme](paraṃ) [sādākhya](sādākhya) [that](tat)
 
 ## mukta-m0-p16-v382
-[previous-form](pūrvākṛtiṃ) [having-abandoned](parityajya) [sādākhya-form](sādākhyākṛtiḥ) [alone](eva) [and](ca)
+[former-form](pūrva+ākṛtiṃ) [abandoning](parityajya) [sādākhya-form](sādākhya+ākṛtiḥ) [indeed](eva) [and](ca)
 
 ## mukta-m0-p16-v383
-[dance-form](nṛttarūpaṃ) [always](sadā) [having-meditated](dhyātvā) [southern-shrine-beginning-with](dakṣiṇālayam+ādikaḥ)
+[dance-form](nṛtta+rūpaṃ) [always](sadā) [meditating](dhyātvā) [southern-abode](dakṣiṇa+ālayaṃ) [first](ādikaḥ)
 
 ## mukta-m0-p16-v384
-[nine-principle-consisting](navatatvamayaṃ) [place](sthānaṃ) [all-prosperity-causing](sarvasaṃpatkaraṃ) [supreme](param)
+[nine-principle-made](nava+tatva+mayaṃ) [place](sthānaṃ) [all-prosperity-doing](sarva+saṃpat+karaṃ) [supreme](param)
 
 ## mukta-m0-p16-v385
-[auspicious](śubhaṃ) [supreme-liberation](paramanirvāṇaṃ) [all-body](sarvadeha) [ever-auspicious](sadāśivam)
+[auspicious](śubhaṃ) [supreme-liberation](parama+nirvāṇaṃ) [all-body](sarva+deha) [sadāśiva](sadāśivam)
 
 ## mukta-m0-p16-v386
-[heart-lotus-middle](hṛtpadmamadhye) [having-established](saṃsthāpya) [sound-continuum](nādatantraṃ) [part-consisting](kalāmayam)
+[heart-lotus-middle](hṛt+padma+madhye) [establishing](saṃsthāpya) [nāda-tantra](nāda+tantraṃ) [kalā-made](kalā+mayaṃ)
 
 ## mukta-m0-p16-v387
-[seated](āsīnaṃ) [or](vā) [well-dancing](sunṛttaṃ) [or](vā) [one-should-meditate-daily](dhyāyet+nityaṃ) [O-great-lord](maheśvara)
+[seated](āsīnaṃ) [or](vā) [well-dancing](su+nṛttaṃ) [or](vā) [meditate](dhyāyet) [always](nityaṃ) [great-lord](maheśvara)
 
 ## mukta-m0-p16-v388
-[thumb-measure](aṅguṣṭhamātram) [immovable](acalaṃ) [pure-principle](śuddhatatvaṃ) [nine-fold](navātmakam)
+[thumb-measure](aṅguṣṭha+mātram) [immovable](acalaṃ) [pure-principle](śuddha+tatvaṃ) [nine-self](nava+ātmakam)
 
 ## mukta-m0-p16-v389
-[self](ātmānaṃ) [indeed](tu) [with-ka-syllable-situated](sakārasyaṃ) [inner-self](antarātmā) [indeed](tu) [bindu](bindukaḥ)
+[self](ātmānaṃ) [but](tu) [sa-kāra](sa+kāra+syaṃ) [inner-self](antar+ātmā) [but](tu) [bindu](bindukaḥ)
 
 ## mukta-m0-p16-v390
-[all](sarvaṃ) [with-heart-mantra](hṛdayamantreṇa) [having-worshipped](pūjayitvā) [as-in-order](yathākramam)
+[all](sarvaṃ) [heart-mantra](hṛdaya+mantreṇa) [having-worshipped](pūjayitvā) [in-order](yathā+kramaṃ)
 
 ## mukta-m0-p16-v391
-[thirty-eight-supreme](aṣṭatriṃśatparaṃ) [dance](nṛttaṃ) [placement-time-order](nyāsakālakramaṃ) [hear](śṛṇu)
+[thirty-eight-supreme](aṣṭa+triṃśat+paraṃ) [dance](nṛttaṃ) [nyāsa-time-order](nyāsa+kāla+kramaṃ) [hear](śṛṇu)
 
 ## mukta-m0-p16-v392
-[thirty-eight](aṣṭatriṃ* * * * * * (?)) [thirty-eight-self-mantra](ṣṭatriṃśātmamantrakam)
+[thirty-eight-self-mantra](aṣṭa+triṃśa+ātma+mantraṃ)
 
 ## mukta-m0-p16-v393
-[body-purification](dehaśuddhiṃ) [part-placement](kalānyāsaṃ) [thirty-eight-self-mantra](aṣṭatriṃśātmamantrakam)
+[body-purification](deha+śuddhiṃ) [kalā-nyāsa](kalā+nyāsaṃ) [thirty-eight-self-mantra](aṣṭa+triṃśa+ātma+mantraṃ)
 
 ## mukta-m0-p16-v394
-[self-purification-order](ātmaśuddhikramaṃ) [declared](proktaṃ) [place-purification-order](sthānaśuddhikramaṃ) [hear](śṛṇu)
+[self-purification-order](ātma+śuddhi+kramaṃ) [declared](proktaṃ) [place-purification-order](sthāna+śuddhi+kramaṃ) [hear](śṛṇu)
 
 ## mukta-m0-p16-v395
-****(?)[kṣya] [in-many-ways](bahudhā) [clods-bones-etc](loṣṭāsthyādīni) [one-should-avoid](varjayet)
+[many](bahudhā) [clod-bone-etc](loṣṭa+asthi+ādīni) [avoid](varjayet)
 
 ## mukta-m0-p16-v396
-[canopy-flag-endowed](vitāna+dhvajasaṃyuktaṃ) [plantain-areca-nut-furnished](kadalīkramukānvitam)
+[canopy](vitāna) [flag-joined](dhvaja+saṃyuktaṃ) [plantain-areca-possessed](kadalī+kramuka+anvitaṃ)
 
 ## mukta-m0-p16-v397
-[flower-garland](puṣpamālā) [strewn-with](samākīrṇaṃ) [lamp-garland](dīpamālā) [adorned-with](pariṣkṛtam)
+[flower-garland](puṣpa+mālā) [strewn](samākīrṇaṃ) [lamp-garland](dīpa+mālā) [adorned](pariṣkṛtam)
 
 ## mukta-m0-p16-v398
-[with-pure-water](śuddhodakena) [having-filled](saṃpūrya) [solar-placement](sauranyāsaṃ) [one-should-perform](samācaret)
+[pure-water](śuddha+udakena) [filling](saṃpūrya) [solar-nyāsa](saura+nyāsaṃ) [perform](samācaret)
 
 ## mukta-m0-p16-v399
-[on-ground](sthale) [on-back](pṛṣṭhe) [and](ca) [having-purified](saṃśodhya) [of-two-hands](karayoḥ) [right-left](dakṣavāmayoḥ)
+[on-ground](sthale) [back](pṛṣṭhe) [and](ca) [cleansing](saṃśodhya) [hands-right-left](karayoḥ+dakṣa+vāmayoḥ)
 
 ## mukta-m0-p16-v400
-[praṇava](praṇavaṃ) [fire](vahni) [joined-with](saṃyuktaṃ) *(?) [ending-in-kāra-syllable](kārāntāntamakṣaram)
+[praṇava](praṇavaṃ) [fire-joined](vahni+saṃyuktaṃ) [final-letter](kārānta+anta+m+akṣaram)

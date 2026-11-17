@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p23-v551
-[finger+tip](aṅgulyagra)[but](ntu) [joined](saṃyuktaṃ) [gesture](mudrā) [boar+named](vārāhasaṃjñikā)
+[anguli-tip](aṅgulyagrantu) [joined](saṃyuktaṃ) [mudra](mudrā) [boar-named](vārāhasaṃjñikā)
 
 ## mukta-m0-p23-v552
-[having-placed](saṃropya) [middle-finger](madhyamānāme) [of-face](mukhasya)[below](ādho) [one-should-bend](vikuñcayet)
+[inserting](saṃropya) [middle-finger](madhyamānāme) [below-face](mukhasyādho) [bend](vikuñcayet)
 
 ## mukta-m0-p23-v553
-[of-left](vāmasya) [middle-finger+tip](madhyamāgra)[but](tu) [at-index-finger+tip](tarjanyagre) [indeed](tu) [one-should-join](yojayet)
+[left](vāmasya) [middle-tip](madhyamāgratu) [index-tip](tarjanyagre) [and](tu) [join](yojayet)
 
 ## mukta-m0-p23-v554
-[one-should-touch](sparśayed)[on-left](vāmake) [shoulder](skandhe) [bow+gesture](dhanurmudre)[this](yam)[declared](īritā)
+[touch-left-shoulder](sparśayedvāmake) [shoulder](skandhe) [bow-mudra-declared](dhanurmudreyamīritā)
 
 ## mukta-m0-p23-v555
-[palm](tale) [palm](tala)[but](ntu) [of-two-hands](karayos)[crosswise](tiryak) [having-joined](saṃyojya) [and](ca)[fingers](aṅgulīḥ)
+[palm](tale) [palm](talantu) [hands](karayostiryak) [joining](saṃyojya) [fingers](cāṅgulīḥ)
 
 ## mukta-m0-p23-v556
-[upward+standing](ūrddhasthā)[thumb+fists](aṅguṣṭhamuṣṭī) [two](dve) [gesture](mudrā) [three-world+enchanting](trailokyamohinī)
+[upright-thumb-fists](ūrddhasthāṅguṣṭhamuṣṭī) [two](dve) [mudra](mudrā) [world-bewildering](trailokyamohinī)
 
 ## mukta-m0-p23-v557
-[two-index-fingers](tarjanyau) [on-middle-finger+back](madhyamāpṛṣṭhe) [two-thumbs](aṅguṣṭhau) [resting-on-middle-fingers](madhyamāśritau)
+[indexes](tarjanyau) [middle-back](madhyamāpṛṣṭhe) [thumbs](aṅguṣṭhau) [middle-resting](madhyamāśritau)
 
 ## mukta-m0-p23-v558
-[of-sadāśiva+beloved](sadāśivapriyāṇāñ)[and](ca) [are-told](kathyante) [characteristics](lakṣaṇāni) [and](ca)
+[Sadashiva-dear](sadāśivapriyāṇāñca) [described](kathyante) [characteristics](lakṣaṇāni) [and](ca)
 
 ## mukta-m0-p23-v559
-[left+fingers](vāmāṅgulīr)[with-right](dakṣiṇābhir)[fingers](aṅgulībhiś)[and](ca) [one-should-bind](bandhayet)
+[left-fingers](vāmāṅgulīrdakṣiṇābhiraṅgulībhiśca) [bind](bandhayet)
 
 ## mukta-m0-p23-v560
-[mutually](mithaḥ) [two-little-fingers](kaniṣṭhike) [having-bound](baddhvā) [with-two-index-fingers](tarjanībhyām)[ring-fingers](anāmike)
+[mutually](mithaḥ) [little-fingers](kaniṣṭhike) [binding](baddhvā) [index-and-ring](tarjanībhyāmanāmike)
 
 ## mukta-m0-p23-v561
-[thumb+tip+pair](aṅguṣṭhāgradvayaṃ) [having-placed](nyasyed)[yoni+gesture](yonimudre)[this](yam)[declared](īritā)
+[thumb-tips-two](aṅguṣṭhāgradvayaṃ) [place](nyasyed) [yoni-mudra-declared](yonimudreyamīritā)
 
 ## mukta-m0-p23-v562
-[one-should-spread](prasārayet) [trident+named](triśūlākhyā) [gesture](mudrā)[this](eṣā) [proclaimed](parikīrtitā)
+[extend](prasārayet) [trident-named](triśūlākhyā) [mudra-this](mudraiṣā) [proclaimed](parikīrtitā)
 
 ## mukta-m0-p23-v563
-[one-should-spread](prasārayed)[rosary](akṣamālā)-[gesture](mudre)[this](yaṃ) [proclaimed](parikīrtitā)
+[extend](prasārayed) [rosary-mudra-this](akṣamālā-mudreyaṃ) [proclaimed](parikīrtitā)
 
 ## mukta-m0-p23-v564
-[raised](ūrddhīkṛto) [left+hand](vāmahastaḥ) [extended](prasṛto)[fearlessness+gesture]('bhayamudrikā)
+[raised](ūrddhīkṛto) [left-hand](vāmahastaḥ) [spread](prasṛto) [fearless-mudra](abhayamudrikā)
 
 ## mukta-m0-p23-v565
-[remaining+fingers+raised](śiṣṭāṅgulyucchrite) [one-should-make](kuryān)[deer+gesture](mṛgamudre)[this](yam)[declared](īritā)
+[remaining-fingers-raised](śiṣṭāṅgulyucchrite) [do](kuryān) [deer-mudra-declared](mṛgamudreyamīritā)
 
 ## mukta-m0-p23-v566
-[skull-staff+gesture](khaṭvāṅgamudrā) [celebrated](vikhyātā) [of-śiva](śivasyā)[very+dear](tipriyā) [considered](matā)
+[skull-staff-mudra](khaṭvāṅgamudrā) [famous](vikhyātā) [Shiva-very-dear](śivasyātipriyā) [considered](matā)
 
 ## mukta-m0-p23-v567
-[having-placed](nidhāyo)[raised+like](cchritavat) [one-should-make](kuryān)[gesture](mudrā) [skull-bearing](kāpālakī) [considered](matā)
+[placing-raised](nidhāyocchritavat) [do](kuryān) [mudra](mudrā) [skull](kāpālakī) [considered](matā)
 
 ## mukta-m0-p23-v568
-[right](dakṣiṇām)[upward](ūrddhau)[having-lifted](ttolya) [at-ear+region](karṇadeśe) [one-should-move](pracālayet)
+[right-hand-head-lift](dakṣiṇāmūrddhauttolya) [ear-region](karṇadeśe) [move](pracālayet)
 
 ## mukta-m0-p23-v569
-[then](tato) [of-gaṇeśa+gestures](gaṇeśamudrāṇām)[are-stated](ucyante) [characteristics](lakṣaṇāni) [and](ca)
+[then](tato) [Ganesha-mudras](gaṇeśamudrāṇām) [described](ucyante) [characteristics](lakṣaṇāni) [and](ca)
 
 ## mukta-m0-p23-v570
-[tusk+gesture](dantamudrā) [declared](samākhyātā) [by-all-āgama+experts](sarvāgamaviśāradaiḥ)
+[tooth-mudra](dantamudrā) [declared](samākhyātā) [by-all-agama-experts](sarvāgamaviśāradaiḥ)
 
 ## mukta-m0-p23-v571
-[having-joined](saṃyojyā)[with-thumb+tips]('ṅguṣṭhakāgrābhyāṃ) [index-finger+tips](tarjanyagre) [own](svake) [one-should-place](kṣipet)
+[joining-thumb-tips](saṃyojyā'ṅguṣṭhakāgrābhyāṃ) [index-tip](tarjanyagre) [own](svake) [throw](kṣipet)
 
 ## mukta-m0-p23-v572
-[straight](ṛjvīñ)[and](ca) [middle-finger](madhyamāṃ) [having-made](kṛtvā) [index-finger](tarjanīṃ) [at-middle+joint](madhyaparvaṇi)
+[straight](ṛjvīñca) [middle-finger](madhyamāṃ) [making](kṛtvā) [index](tarjanīṃ) [middle-joint](madhyaparvaṇi)
 
 ## mukta-m0-p23-v573
-[from-index-finger+middle-finger+junction](tarjanīmadhyamāsandhi)[emerged+thumb+fist](niḥsṛtāṅguṣṭhamuṣṭikā)
+[index-middle-joint-emerged-thumb-fist](tarjanīmadhyamāsandhiniḥsṛtāṅguṣṭhamuṣṭikā)
 
 ## mukta-m0-p23-v574
-[axe+gesture](parśumudrā) [declared](nigaditā) [well-known](prasiddhā) [sweet-ball+gesture](laḍḍumudrikā)
+[rib-mudra](parśumudrā) [declared](nigaditā) [famous](prasiddhā) [laddu-mudra](laḍḍumudrikā)
 
 ## mukta-m0-p23-v575
-[of-śākta](śākteyānāñ)[and](ca) [of-gestures](mudrāṇāṃ) [are-told](kathyante) [characteristics](lakṣaṇāni) [and](ca)
+[Shakta](śākteyānāñca) [mudras](mudrāṇāṃ) [described](kathyante) [characteristics](lakṣaṇāni) [and](ca)

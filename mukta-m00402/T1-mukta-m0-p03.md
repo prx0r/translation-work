@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p03-v51
-[giver](dātṛ) [gift](dāna) [received](gṛhītaṃ) [and](ca) [then](tato) [mark](liṅga) [according-to-form](anurūpataḥ)
+[donor-gift-received](dātṛdānagṛhītaṃ) [and](ca) [then](tato) [according-to-mark](liṅgānurūpataḥ)
 
 ## mukta-m0-p03-v52
-[in-śrāddha](śrāddhe) [in-marriage](vivāhe) [in-giving](dāne) [and](ca) [in-bathing](snāne) [and](ca) [limb](aṅga) [in-worship](prapūjane)
+[in-śrāddha](śrāddhe) [in-marriage](vivāhe) [in-gift](dāne) [and](ca) [in-bathing](snāne) [and-limb-worship](cāṅgaprapūjane)
 
 ## mukta-m0-p03-v53
-[then](tatas) [satisfied](tṛptā) [then](tadā) [all](aśeṣa) [worlds](lokān) [I-please](prīṇāmi) [in-truth](tattvataḥ)
+[then-satisfied](tatastṛptā) [all-worlds](tadāśeṣalokān) [I-please](prīṇāmi) [truly](tattvataḥ)
 
 ## mukta-m0-p03-v54
-[forehead-mark](tilakaṃ) [kula](kula) [form](rūpaṃ) [and](ca) [having-made](kṛtvā) [having-sipped-water](ācamya) [having-completed](samāpya) [and](ca)
+[tilaka](tilakaṃ) [clan-form](kularūpaṃ) [and](ca) [having-made-and-sipped](kṛtvācamya) [having-completed](samāpya) [and](ca)
 
 ## mukta-m0-p03-v55
-[door](dvāra) [place](deśe) [then](tato) [song](gīta) [dance](nṛtta) [music](vādya) [etc.](ādi) [satisfied](toṣitaḥ)
+[at-door-place](dvāradeśe) [then](tato) [pleased-by-song-dance-music-etc](gīta+nṛtta+vādya+ādi+toṣitaḥ)
 
 ## mukta-m0-p03-v56
-[kula](kula) [seat](āsanaṃ) [then](tataḥ) [having-placed](kṣiptvā) [that](tad) [having-worshipped](abhyarcya) [according-to-comfort](yathāsukham)
+[clan-seat](kulāsanaṃ) [then](tataḥ) [having-thrown](kṣiptvā) [having-worshipped-that](tadabhyarcya) [comfortably](yathāsukham)
 
 ## mukta-m0-p03-v57
-[body](deha) [purification](śuddhi) [etc.](ādi) [by-difference](bhedataḥ)
+[body-purity-etc-difference](deha+śuddhi+ādi+bheda+taḥ)
 
 ## mukta-m0-p03-v58
-[by-initiated-women](dīkṣitābhiḥ) [by-well-behaved](suśīlābhiḥ) [by-young-women](yuvatībhiḥ) [by-kula](kula) [souled](ātmabhiḥ)
+[by-initiated](dīkṣitābhiḥ) [by-good-natured](suśīlābhiḥ) [by-young-women](yuvatībhiḥ) [by-clan-souls](kulātmabhiḥ)
 
 ## mukta-m0-p03-v59
 [various](nānāvidhāni) [flowers](puṣpāṇi) [fragrances](gandhāni) [various](vividhāni) [and](ca)
 
 ## mukta-m0-p03-v60
-[betel](tāmbūlaṃ) [to-be-given](deya) [substance](dravyaṃ) [and](ca) [incense](dhūpa) [lamp](dīpa) [etc.](ādikaṃ) [and](ca) [which](yat)
+[betel](tāmbūlaṃ) [gift-thing](deyadravyaṃ) [and](ca) [incense-lamp-etc](dhūpadīpādikaṃ) [and](ca) [which](yat)
 
 ## mukta-m0-p03-v61
-[root](mūla) [knowledge](vidyā) [chanted](japta) [with-waters](toyaiḥ) [sprinkled](prokṣitaṃ) [should-place](sthāpayet) [then](tataḥ)
+[root-mantra-chanted-water](mūla+vidyā+japta+toyaiḥ) [sprinkled](prokṣitaṃ) [let-place-then](sthāpayet+tataḥ)
 
 ## mukta-m0-p03-v62
-[in-the-west](paścime) [for-the-deity](devatāyāṃ) [and](ca) [kula](kula) [substances](dravyāṇi) [one-should-place](dhārayet)
+[in-west](paścime) [in-deity](devatāyāṃ) [and](ca) [clan-things](kuladravyāṇi) [let-hold](dhārayet)
 
 ## mukta-m0-p03-v63
-[with-yellow-pigment](rocanā) [lac](lākṣayā) [with-red](raktaiḥ) [with-saffron](kuṅkuma) [red](aruṇa) [with-sandal](candanaiḥ)
+[by-rocanā-lākṣā-red](rocanā+lākṣā+rakta) [by-kuṅkuma-red-sandal](kuṅkuma+aruṇa+candana)
 
 ## mukta-m0-p03-v64
-[according-to-ability](yathāśakti) [mantra](manuṃ) [having-chanted](japtvā) [having-praised](stutvā) [goddess](devīṃ) [one-should-dismiss](visarjayet)
+[according-to-ability](yathāśakti) [mantra](manuṃ) [having-chanted](japtvā) [having-praised](stutvā) [goddess](devīṃ) [let-dismiss](visarjayet)
 
 ## mukta-m0-p03-v65
-[kula](kula) [nectar](amṛta) [essence](rasaṃ) [first](pūrvaṃ) [to-the-guru](gurave) [one-should-offer](vinivedayet)
+[clan-nectar-essence](kulāmṛtarasaṃ) [first](pūrvaṃ) [to-guru](gurave) [let-offer](vinivedayet)
 
 ## mukta-m0-p03-v66
-[in-brahmarandhra](brahmarandhre) [in-secret-place](gupta+sthāne) [yantra](yantra) [ointment](lepaṃ) [indeed](tu) [one-should-place](dhārayet)
+[in-brahma-hole](brahmarandhre) [in-secret-place](guptasthāne) [yantra-paste](yantralepaṃ) [indeed](tu) [let-hold](dhārayet)
 
 ## mukta-m0-p03-v67
-[to-a-kula-member](kulīnāya) [and](ca) [to-be-given](dātavyam) [or](athavā) [water](jala) [in-the-midst](madhyataḥ)
+[to-clan-worthy](kulīnāya) [and](ca) [to-be-given-or](dātavyam+athavā) [in-water-middle](jalamadhyataḥ)
 
 ## mukta-m0-p03-v68
-[by-Hari](hari) [name](nāmnā) [born](jāta) [feeling](bhāvo) [with-gesture](bhaṅgi) [endowed](anvita) [behavior](viceṣṭitaḥ)
+[by-Hari-name](harināmnā) [born-state](jātabhāvo) [with-gesture](bhaṅgyanvita) [movement](viceṣṭitaḥ)
 
 ## mukta-m0-p03-v69
-[watch](yāma) [measure](mātre) [gone](gate) [in-night](rātrau) [kula](kula) [house](gehaṃ) [then](tataḥ) [man](pumān)
+[in-watch-measure](yāmamātre) [gone](gate) [at-night](rātrau) [clan-house](kulagehaṃ) [then](tataḥ) [man](pumān)
 
 ## mukta-m0-p03-v70
-[kula](kula) [yantra](yantraṃ) [with-target](sādhya) [name](nāmnā) [filled](saṃkulaṃ) [in-kula](kula) [circle](cakrake)
+[clan-yantra](kulayantraṃ) [by-aim-name](sādhyanāmnā) [mixed](saṃkulaṃ) [in-clan-wheel](kulacakrake)
 
 ## mukta-m0-p03-v71
-[own](sva) [power](śaktyā) [other](para) [power](śaktiṃ) [and](ca) [brings](samānayati) [practitioner](sādhakaḥ)
+[by-own-power](svaśaktyā) [other-power](paraśaktiṃ) [and](ca) [brings-together](samānayati) [practitioner](sādhakaḥ)
 
 ## mukta-m0-p03-v72
-[own](nija) [beloved](kāntāṃ) [having-brought](samānīya) [well-behaved](suśīlāṃ) [of-good-fame](suyaśasvinīm)
+[own-beloved](nijakāntāṃ) [having-brought](samānīya) [good-natured](suśīlāṃ) [famous](suyaśasvinīm)
 
 ## mukta-m0-p03-v73
-[supreme](para) [bliss](ānanda) [juice](rasa) [reeling](āghūrṇa) [eyes](locanāṃ) [kula-born](kula+jāṃ) [virtuous](satīm)
+[supreme-bliss-essence](parānanda+rasa) [rolling-eyes](āghūrṇa+locanāṃ) [clan-born](kulajāṃ) [faithful-wife](satīm)
 
 ## mukta-m0-p03-v74
-[own](nija) [daughter](putrī) [like](vat) [teacher](ācāryas) [her](tad) [forehead](bhāla) [on-surface](paṭṭake) [should-write](likhet)
+[like-own-daughter](nijaputrīvad) [teacher](ācāryaḥ) [on-forehead-plate](tadbhālapaṭṭake) [let-write](likhet)
 
 ## mukta-m0-p03-v75
-[in-its-middle](tan+madhye) [to-be-given](deya) [with-mantra](mantreṇa) [pierced](darbhitaṃ) [name](nāma) [marked](lāñchitam)
+[in-middle](tanmadhye) [by-given-mantra](deyamantreṇa) [marked-with-kuśa](darbhitaṃ) [name-marked](nāmalāñchitam)

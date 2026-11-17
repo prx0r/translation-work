@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p95-v2351
-[reflective-awareness](vimarśaḥ) [from-non-difference+of-word](śabda+sambhedād) [from-differentiation](vibhedāt) [with-conceptualization](savikalpakaḥ)
+[reflection](vimarśaḥ) [from-word-confusion](śabdasambhedāt) [from-difference](vibhedāt) [conceptual](savikalpakaḥ)
 
 ## mukta-m0-p95-v2352
-[from-non-difference+of-word](śabda+sambhedād) [of-objects](vastūnāṃ) [reflective-awareness](vimarśaḥ) [with-conceptualization](savikalpakaḥ) [would-be](bhavet)
+[from-word-confusion](śabdasambhedād) [of-objects](vastūnāṃ) [reflection](vimarśaḥ) [conceptual](savikalpako) [becomes](bhavet)
 
 ## mukta-m0-p95-v2353
-[object+perception+nature](vastu+darśana+rūpaḥ) [this](asau) [light](prakāśaḥ) [without-conceptualization](nivikalpakaḥ)
+[object+vision+formed](vastudarśanarūpo'sau) [illumination](prakāśo) [non-conceptual](nivikalpakaḥ)
 
 ## mukta-m0-p95-v2354
-[again](punaḥ) [of-this+indeed](etasya+eva) [explanation](vivaraṇaṃ) [by-two+verses](śloka+dvayena) [is-made](kriyate) [this](ayam) [thus](iti)
+[again](punar) [of-this](etasyaiva) [explanation](vivaraṇaṃ) [by-two-verses](ślokadvayena) [is-made](kriyate) [this](ayam) [thus](iti)
 
 ## mukta-m0-p95-v2355
-[word+differentiated+form](śabda+sambhinna+rūpaḥ) [this](asau) [thought+natured](vicāra+ātmā) [manifestation](avabhāsanaḥ)
+[word-confused-formed](śabdasambhinnarūpo'sau) [inquiry-natured](vicārātmā) [manifestation](avabhāsanaḥ)
 
 ## mukta-m0-p95-v2356
-[thought+natured](vicāra+ātmā) [manifestation](avabhāsanaṃ) [of-which](yasya) [he](saḥ) [with-conceptualization](savikalpakaḥ) [thus](iti) [remainder](śeṣaḥ)
+[inquiry-natured](vicārātmā) [manifestation](avabhāsanaṃ) [whose](yasya) [he](saḥ) [conceptual](savikalpakaḥ) [thus](iti) [remainder](śeṣaḥ)
 
 ## mukta-m0-p95-v2357
-[there](tatra) [which](yaḥ) [new+manifestation](abhinava+ābhāsaḥ) [that](saḥ) [declared](proktaḥ) [experience+natured](anubhava+ātmakaḥ)
+[there](tatra) [new-appearance](yo'bhinavābhāsaḥ) [he](saḥ) [called](prokto) [experience-natured](anubhavātmakaḥ)
 
 ## mukta-m0-p95-v2358
-[that](saḥ) [experience+natured](anubhava+ātmakaḥ)
+[he](so'nubhavātmakaḥ)
 
 ## mukta-m0-p95-v2359
-[thus](evaṃ) [mind](manaḥ) [twofold+nature+power+endowed](dviprakāra+śakti+yuktaṃ) [always](sadā) [situated](sthitam)
+[thus](evaṃ) [mind](mano) [two-kinded-power-possessed](dviprakāraśaktiyuktaṃ) [always](sadā) [stands](sthitam)
 
 ## mukta-m0-p95-v2360
-[light+reflective-awareness+nature](prakāśa+āmarśa+ātmaka) [non-conceptual+conceptual+manifestation](nirvikalpa+savikalpaka+ābhāsa) [two+powers+endowed](śakti+dvaya+yuktaṃ) [becomes](bhavati)
+[illumination-reflection-natured](prakāśāmarśātmaka) [non-conceptual-conceptual-appearance-power-pair-possessed](nirvikalpasavikalpakābhāsaśaktidvayayuktaṃ) [becomes](bhavati)
 
 ## mukta-m0-p95-v2361
-[section-break](cchedaḥ) [end-bracket](])
+[cut](cchedaḥ)
 
 ## mukta-m0-p95-v2362
-[non-deluded+state](amūḍha+daśā) [is-called](ucyate) [in-deep-sleep](suṣuptau) [from-absence+of-reflective-awareness](āmarśa+abhāvāt) [delusion](mūḍhatā) [thus](iti) [purport](tātparyam)
+[unconfused-state](amūḍhadaśā) [is-called](ucyate) [in-deep-sleep](suṣuptau) [reflection-absence](āmarśābhāvāt) [confused](mūḍhatā) [thus](tātparyam)
 
 ## mukta-m0-p95-v2363
-[therefore](ataḥ) [indeed](eva) [for](hi) [of-lamp+and-others](dīpa+ādeḥ) [due-to-density+of-illumination](prakāśa+nibiḍatvataḥ)
+[therefore](ata) [indeed](eva) [hi](hi) [lamp-etc](dīpādeḥ) [illumination-density](prakāśanibiḍatvataḥ)
 
 ## mukta-m0-p95-v2364
-[purport](tātparyam)
+[meaning](tātparyam)
 
 ## mukta-m0-p95-v2365
-[sleep](nidrā) [first-born](prathama+jā) [unmanifest](avyaktaṃ) [great+void](mahā+śūnyam) [here](iha) [is-called](ucyate)
+[sleep](nidrā) [first-born](prathamajā) [unmanifest](avyaktaṃ) [great-void](mahāśūnyam) [here](iha) [is-called](ucyate)
 
 ## mukta-m0-p95-v2366
-[from-absence+of-such+form+and-others](evākāra+ādi+abhāvāt) [great+void](mahā+śunyam) [here](iha) [in-deep-sleep](suṣuptau) [sleep](nidrā) [thus](iti) [is-called](ucyate)
+[thus-formed-etc-absence](evākārādyabhāvād) [great-void](mahāśunyam) [here](iha) [in-deep-sleep](suṣuptau) [sleep](nidrā) [thus](iti) [is-called](ucyate)
 
 ## mukta-m0-p95-v2367
-[at-time+of-object+perception](vastu+darśana+kāle) [also](api) [in-waking-state](jāgrati) [of-such-kind](evaṃvidhaṃ) [mind](manaḥ)
+[object-vision-time](vastudarśanakāle) [also](api) [waking](jāgrati) [thus-formed](evaṃvidhaṃ) [mind](manaḥ)
 
 ## mukta-m0-p95-v2368
-[in-deep-sleep](suṣuptau) [due-to-density+of-illumination](prakāśana+nibiḍatvataḥ) [of-unmanifest+power](avyakta+śakti)
+[in-deep-sleep](suṣuptau) [unmanifest-power](avyaktaśakti) [illumination-density](prakāśanibiḍatvataḥ)
 
 ## mukta-m0-p95-v2369
-[they-distinguish](viviñcanti) [thus](iti) [connection](sambandhaḥ)
+[discriminating](viviñcantīti) [connection](sambandhaḥ)
 
 ## mukta-m0-p95-v2370
-[at-time+of-object+perception](vastu+darśana+kāle) [also](api) [indeed](ca) [thus](evaṃ) [dissolved](līnaṃ) [mind](manaḥ) [would-be](bhavet)
+[object-vision-time](vastudarśanakāle) [also](api) [thus](caivaṃ) [absorbed](līnaṃ) [mind](mano) [becomes](bhavet)
 
 ## mukta-m0-p95-v2371
-[at-time+of-non-conceptual+perception](vastu+darśana+ātmaka+ghaṭa+ādi+nirvikalpaka+kāle) [equal](tulyaḥ) [thus](iti) [says](āha) [object](vastu) [thus](iti)
+[object-vision-natured](vastudarśanātmaka) [pot-etc](ghaṭādi) [non-conceptual-time](nirvikalpakāle) [equal](tulya) [thus](ityāha) [object](vastviti)
 
 ## mukta-m0-p95-v2372
-[where](yatra) [are-deluded](muhyanti) [the-wise](vidvāṃsaḥ) [even](api) [very+subtle+discriminators](ati+sūkṣma+vivecakāḥ)
+[where](yatra) [are-confused](muhyanti) [scholars](vidvāṃso) [even](api) [very-subtle](atisūkṣma) [discriminators](vivecakāḥ)
 
 ## mukta-m0-p95-v2373
-[triad](trayam) [this](etat) [and](ca) [of-one-kind](eka+vidhaṃ) [due-to-density+of-illumination](prakāśana+nibiḍatvataḥ)
+[three](trayam) [this](etacca) [one-kind](ekavidhaṃ) [illumination-density](prakāśanibiḍatvataḥ)
 
 ## mukta-m0-p95-v2374
-[due-to-density+of-illumination](prakāśana+nibiḍatvam) [thus](iti) [meaning](bhāvaḥ)
+[illumination-density](prakāśanibiḍatvam) [thus](iti) [meaning](bhāvaḥ)
 
 ## mukta-m0-p95-v2375
-[there](tatra) [cause](hetuḥ) [from-difference+of-objects-to-be-illuminated](bhāsya+bhedāt) [thus](iti) [indeed](eva) [definite-conclusion](praviniścayaḥ)
+[there](tatra) [reason](hetuḥ) [manifested-difference](bhāsyabhedāt) [thus](ityeva) [determination](praviniścayaḥ)

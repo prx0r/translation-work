@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p01-v1
-[speech-goddess](vāgīśvarī) [thus](tathā)+[innumerable](asaṃkhyā) [thus](tathā) [and](ca) [good-family](sukulā)+[non-family](akulā)
+[goddess-of-speech](vāgīśvarī) [so-many](tathāsaṃkhyā) [and](tathā) [ca](ca) [good-and-bad-clan](sukulākulā)
 
 ## mukta-m0-p01-v2
-[tripurā](tripurā)+[single-braid](ekajaṭā) [durgā](durgā) [who](yā) [and](ca)+[other](anyā) [family](kula)+[beautiful](sundarī)
+[three-cities-one-braid](tripuraikajaṭā) [Durga](durgā) [who](yā) [ca](ca) [other](anyā) [clan-beauty](kulasundarī)
 
 ## mukta-m0-p01-v3
-[śaiva](śaivaṃ) [śaṅkara](śāṃkarajātaṃ) [and](ca) [whatever](yatkiṃcid) [being](bhūta)+[born](saṃbhavam)
+[Shaiva](śaivaṃ) [born-of-Shankara](śāṃkarajātaṃ) [ca](ca) [whatever](yatkiṃcid) [born-of-beings](bhūtasaṃbhavam)
 
 ## mukta-m0-p01-v4
-[net](jāla)+[śambara](śambaram)
+[net](jāla)+[Shambhara](śambaram)
 
 ## mukta-m0-p01-v5
-[many](bahu)+[form](rūpā)+[eightfold](ṣṭakaṃ) [knowledge](jñānaṃ) [yāmala](yāmalā)+[eightfold](ṣṭakam)+[indeed](eva) [and](ca)
+[eight-many-forms](bahurūpāṣṭakaṃ) [knowledge](jñānaṃ) [Yamala-eight](yāmalāṣṭakameva) [ca](ca)
 
 ## mukta-m0-p01-v6
-[mahādeva](mahādevaṃ) [vātula](vātulaṃ) [vātula](vātula)+[highest](uttaram)
+[great-god](mahādevaṃ) [Vatula](vātulaṃ) [Vatulottara](vātulottaram)
 
 ## mukta-m0-p01-v7
-[time](kalā)+[doctrine](vādaṃ) [time](kalā)+[essence](sāraṃ) [thus](tathā)+[other](anyat) [kubjikā](kubjikā)+[doctrine](matam)
+[art-of-time](kalāvādaṃ) [essence-of-time](kalāsāraṃ) [and-other](tathānyat) [Kubjika-doctrine](kubjikāmatam)
 
 ## mukta-m0-p01-v8
-[five](pañca)+[nectars](amṛtaṃ) [form](rūpa)+[distinction](bhedaṃ) [being](bhūta)+[ḍāmara](ḍāmaram)+[indeed](eva) [and](ca)
+[five-nectars](pañcāmṛtaṃ) [form-difference](rūpabhedaṃ) [Bhuta-Damara](bhūtaḍāmarameva) [ca](ca)
 
 ## mukta-m0-p01-v9
-[all](sarva)+[knowledge](jñānā)+[consisting-of](ātmakaṃ) [o-goddess](devi) [!](!) [great](mahā)+[father](pitṛ)+[doctrine](mataṃ) [thus](tathā)
+[all-knowledge-nature](sarvajñānātmakaṃ) [goddess](devi) [great-pitri-doctrine](mahāpitṛmataṃ) [tathā](tathā)
 
 ## mukta-m0-p01-v10
-[kurūpikā](kurūpikā)+[doctrine](mataṃ) [o-goddess](devi) [!](!) [rūpikā](rūpikā)+[doctrine](matam)+[indeed](eva) [and](ca)
+[Kurupika-doctrine](kurūpikāmataṃ) [goddess](devi) [Rupika-doctrine](rūpikāmatameva) [ca](ca)
 
 ## mukta-m0-p01-v11
-[east](pūrva)+[west](paścima)+[south](dakṣaṃ) [and](ca) [north](uttaraṃ) [and](ca) [unsurpassed](niruttaram)
+[east-west-south](pūrvapaścimadakṣaṃ) [ca](ca) [north](uttaraṃ) [ca](ca) [beyond-north](niruttaram)
 
 ## mukta-m0-p01-v12
-[aruṇa](aruṇeśaṃ)+[lord](eśaṃ) [mohana](mohaneśaṃ)+[lord](eśaṃ) [viśuddha](viśuddheśvaram)+[lord](eśvaram)+[indeed](eva) [and](ca)
+[Arunesha](aruṇeśaṃ) [Mohanesha](mohaneśaṃ) [Vishuddhesha](viśuddheśvarameva) [ca](ca)
 
 ## mukta-m0-p01-v13
-[having-heard](śrutvā) [o-goddess](devi) [!](!) [not](na) [anywhere](kutrāpi) [become](jāta)+[blissful](ānandāsi) [o-bhairavī](bhairavi)
+[having-heard](śrutvā) [goddess](devi) [not-anywhere](na kutrāpi) [become-blissful](jātānandāsi) [Bhairavi](bhairavi)
 
 ## mukta-m0-p01-v14
-[that](tat)+[how](kathaṃ) [speak](vada) [o-beautiful-hipped-one](suśroṇi) [!](!) [to-me](mayi) [your](tvat)+[foot](pāda)+[abiding](vartini)
+[therefore-how](tatkathaṃ) [speak](vada) [fair-hipped](suśroṇi) [in-me](mayi) [foot-dwelling](tvatpādavartini)
 
 ## mukta-m0-p01-v15
-[my](man)+[māyā](māyā)+[sealed](mudrita)+[all](aśeṣa)+[tantra](tantra)+[knowledge](jñāna)+[family](kula)+[ocean](arṇava)
+[my-maya-sealed-all-tantra-knowledge-ocean](manmāyāmudritāśeṣatantrajñānakulārṇava)
 
 ## mukta-m0-p01-v16
-[where](kva) [brahmā](brahmā) [where](kva) [hari](hariḥ) [śambhu](śaṃbhuḥ) [where](kva) [god](devaḥ) [where](kva) [mind](manor)+[muttering](japaḥ)
+[where](kva) [Brahma](brahmā) [where](kva) [Hari](hariḥ) [Shambhu](śaṃbhuḥ) [where](kva) [god](devaḥ) [where](kva) [mantra-japa](manorjapaḥ)
 
 ## mukta-m0-p01-v17
-[where](kva) [passion](rāgaḥ) [where](kva) [happiness](sukhaṃ) [suffering](duḥkhaṃ) [where](kva) [liberation](muktiḥ) [where](kva) [and](ca) [goodness](sādhutā)
+[where](kva) [passion](rāgaḥ) [where](kva) [pleasure](sukhaṃ) [pain](duḥkhaṃ) [where](kva) [liberation](muktiḥ) [where](kva) [ca](ca) [goodness](sādhutā)
 
 ## mukta-m0-p01-v18
-[by-māyā](māyayā)+[having-covered](ācchādya) [and](ca)+[self](ātmānaṃ) [threefold](tridhā) [having-become](bhūtvā) [intoxication](mada)+[facing](unmukhī)
+[by-maya-covering](māyayācchādya) [ca](ca) [self](ātmānaṃ) [threefold](tridhā) [becoming](bhūtvā) [intoxicated-facing](madonmukhī)
 
 ## mukta-m0-p01-v19
-[five](pañca)+[elements](bhūtāni) [marks](liṅgāni) [and](ca)+[one](eka)+[more-than](uttara)+[hundred](śatāni) [and](ca)
+[five-elements](pañcabhūtāni) [lingas](liṅgāni) [ca](ca) [one-hundred-one](ekottaraśatāni) [ca](ca)
 
 ## mukta-m0-p01-v20
-[all](sarve)+[also](api)+[manifest](āvirbhavanti)+[here](atra) [then](tato) [state](bhāvā)+[and-so-on](ādi)+[conception](kalpanā)
+[all](sarve) [api](pyāvirbhavantyatra) [appear-here](āvirbhavantyatra) [then](tato) [bhava-etc-conception](bhāvādikalpanā)
 
 ## mukta-m0-p01-v21
-[all](sarve) [brahmā](brahmā)+[and-others](ādayo) [you](yūyaṃ) [my](mad)+[parts](aṃśā) [state](bhāva)+[born](saṃbhavāḥ)
+[all](sarve) [Brahma-etc](brahmādayo) [you](yūyaṃ) [my-parts](madaṃśā) [born-of-bhava](bhāvasaṃbhavāḥ)
 
 ## mukta-m0-p01-v22
-[fivefold-state](pañcatvaṃ) [will-cause-to-reach](prāpayiṣyāmi) [liberation](nirvāṇa)+[state](pada)+[delighting](lālitāḥ)
+[fiveness](pañcatvaṃ) [will-cause](prāpayiṣyāmi) [liberated-in-nirvana-state](nirvāṇapadalālitāḥ)
 
 ## mukta-m0-p01-v23
-[ego](ahaṃkāraḥ) [five](pañca)+[subtle-elements](mātrāḥ) [sattva](sattvaṃ) [and](ca)+[then](atha) [rajas](rajas)+[tamas](tamaḥ)
+[ego](ahaṃkāraḥ) [five-measures](pañcamātrāḥ) [sattva](sattvaṃ) [ca](ca) [atha](atha) [rajas](rajas) [tamas](tamaḥ)
 
 ## mukta-m0-p01-v24
-[if](yadi) [me](māṃ) [you-know](viddhi) [o-all-knowing-one](sarvajña)[!](!) [where](kva) [and](ca)+[tradition](āmnāyaḥ) [where](kva) [worship](yājanam)
+[if](yadi) [me](māṃ) [know](viddhi) [all-knowing](sarvajña) [where](kva) [ca](ca) [tradition](āmnāyaḥ) [where](kva) [sacrifice](yājanam)
 
 ## mukta-m0-p01-v25
-[woman](nārī)+[form](rūpaṃ) [having-assumed](samāsthāya) [creation](sṛṣṭi)+[essence](sāraṃ) [my](mad)+[consisting-of](ātmakam)
+[women-form](nārīrūpaṃ) [assuming](samāsthāya) [creation-essence](sṛṣṭisāraṃ) [my-self](madātmakam)
