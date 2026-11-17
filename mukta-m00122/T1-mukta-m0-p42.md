@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p42-v1026
-[arcā](arcā) [japa](japa) [ādi](ādi) [nā](nā)
+[arcā-japa-ādi-instr](arcājapādinā) [arcā](arcā) [japa](japa) [ādi](ādi) [instr](inā)
 
 ## mukta-m0-p42-v1027
-[kāmeśvarī](kāmeśvaryā) [ādi](ādi) [nityā](nityānāṃ) [pañcadaśa](pañcadaśānām) [iti](iti) [śeṣa](śeṣaḥ)
+[kāmeśvarī-ādi-nityā-instr](kāmeśvaryādinityānāṃ) [pañcadaśa-gen](pañcadaśānām) [iti](iti) [śeṣaḥ](śeṣaḥ)
 
 ## mukta-m0-p42-v1028
-[prokta](prokta) [saṅkhya](saṅkhyaiḥ) [akṣara](akṣaraiḥ)
+[prokta-saṅkhya-akṣara-instr](proktasaṅkhyairakṣaraiḥ)
 
 ## mukta-m0-p42-v1029
-[pradeśa](pradeśa) [gati](gatyā) [vilikhed](vilikhed) [yāvat](yāvat) [saṅkhya](saṅkhyaṃ) [yathā](yathā) [antara](antaram)
+[pradeśa-gati-instr](pradeśagatyā) [vilikhed](vilikhed) [yāvat-saṅkhyam](yāvatsaṅkhyaṃ) [yathā-antaram](yathāntaram)
 
 ## mukta-m0-p42-v1030
-[avaśiṣṭa](avaśiṣṭaṃ) [bhavet](bhavet) [teṣu](teṣu) [dik](dik) [stha](stheṣu) [ekīkṛta](ekīkṛteṣu) [ca](ca)
+[avaśiṣṭam](avaśiṣṭaṃ) [bhavet](bhavet) [teṣu](teṣu) [dik-stheṣu](dikstheṣu) [ekīkṛteṣu](ekīkṛteṣu) [ca](ca)
 
 ## mukta-m0-p42-v1031
-[ekona](ekona) [pañcāśat](pañcāśat) [koṣṭha](koṣṭheṣu) [ekībhūta](ekībhūteṣu) [tatra](tatra) [vai](vai)
+[ekona-pañcāśat-koṣṭheṣu](ekonapañcāśatkoṣṭheśvekībhūte) [ekībhūteṣu](ekībhūteṣu) [tatra](tatra) [vai](vai)
 
 ## mukta-m0-p42-v1032
-[likhitvā](likhitvā) [karṇikā](karṇikā) [madhya](madhye) [yoni](yoniṃ) [māyā](māyā) [udara](udarāṃ) [likhet](likhet)
+[likhitvā](likhitvā) [karṇikā-madhye](karṇikāmadhye) [yoniṃ](yoniṃ) [māyā-udarāṃ](māyodarāṃ) [likhet](likhet)
 
 ## mukta-m0-p42-v1033
-[bhaga](bhaga) [mālā](mālāṃ) [madhya](madhya) [śakti](śaktyā) [āvāhya](āvāhya) [abhyarcayet](abhyarcayed) [bahiḥ](bahiḥ)
+[bhaga-mālāṃ](bhagamālāṃ) [madhya-śaktyā](madhyaśaktyā) [āvāhya](āvāhya) [abhyarcayet](abhyarcayed) [bahiḥ](bahiḥ)
 
 ## mukta-m0-p42-v1034
-[yathākramam](yathākramam) [idaṃ](idaṃ) [cakra](cakram) [āsāṃ](āsāṃ) [sādhāraṇa](sādhāraṇaṃ) [bhavet](bhavet)
+[yathā-kramam](yathākramam) [idam](idaṃ) [cakram](cakram) [āsāṃ](āsāṃ) [sādhāraṇaṃ](sādhāraṇaṃ) [bhavet](bhavet)
 
 ## mukta-m0-p42-v1035
-[yathākrameṇa](yathākrameṇa) [citra](citrāntāḥ) [pūjayet](pūjayet) [ukta](ukta) [vigraha](vigrahāḥ)
+[yathā-krameṇa](yathākrameṇa) [citrāntāḥ](citrāntāḥ) [pūjayet](pūjayet) [ukta-vigrahāḥ](uktavigrahāḥ)
 
 ## mukta-m0-p42-v1036
-[catuṣka](catuṣka) [catuṣṭaya](catuṣṭayeṣu) [ekīkṛta](ekīkṛteṣu) [madhya](madhya) [rekhā](rekhā) [traya](trayam) [mārjana](mārjanam) [śeṣa](śeṣaḥ)
+[catuṣka-catuṣṭayeṣu](catuṣkacatuṣṭayeṣu) [ekīkṛteṣu](ekīkṛteṣu) [madhya-rekhā-trayam](madhyarekhātrayam) [ārjana](ārjaneti) [śeṣaḥ](śeṣaḥ)
 
 ## mukta-m0-p42-v1037
-[dvāra](dvārāṇāṃ) [pārśva](pārśvayoḥ) [koṇa](koṇeṣu) [arcayet](arcayed) [dvādaśa](dvādaśa) [kramāt](kramāt)
+[dvārāṇāṃ](dvārāṇāṃ) [pārśvayoḥ](pārśvayoḥ) [koṇeṣu](koṇeṣu) [arcayet](arcayet) [dvādaśa](dvādaśa) [kramāt](kramāt)
 
 ## mukta-m0-p42-v1038
-[komārī](komārīṃ) [vaiṣṇavī](vaiṣṇavīṃ) [saumyā](saumye) [vārāhī](vārāhyā) [aindrī](aindrīṃ) [ca](ca) [pūrva](pūrvage)
+[komārīṃ](komārīṃ) [vaiṣṇavīṃ](vaiṣṇavīṃ) [saumye](saumye) [vārāhī](vārāhyaindrīṃ) [aindrīṃ](aindrīṃ) [ca](ca) [pūrvage](pūrvage)
 
 ## mukta-m0-p42-v1039
-[deśa](deśa) [kāla](kālau) [tathā](tathā) [ākāra](ākāra) [śabda](śabdau) [prokta](prokta) [krama](krameṇa) [vai](vai)
+[deśa-kālau](deśakālau) [tathā](tathā) [ākāra-śabdau](ākāraśabdau) [prokta-krameṇa](proktakrameṇa) [vai](vai)
 
 ## mukta-m0-p42-v1040
-[upacāra](upacāraiḥ) [āsava](āsavaiśca) [māṃsa](māṃsaiḥ) [matsya](matsyaiḥ) [susaṃskṛta](susaṃskṛtaiḥ)
+[upacāraiḥ](upacārairāsavaiśca) [āsavaiḥ](āsavaiḥ) [ca](ca) [māṃsaiḥ](māṃsaiḥ) [matsyaiḥ](matsyaiḥ) [susaṃskṛtaiḥ](susaṃskṛtaiḥ)
 
 ## mukta-m0-p42-v1041
-[caturdaśa](caturdaśa) [nityā](nityānām) [pūrva](pūrvage) [dvāra](dvāre) [iti](iti) [śeṣa](śeṣaḥ)
+[caturdaśa-nityānām](caturdaśanityānām) [pūrvage](pūrvage) [dvāre](dvāre) [iti](iti) [śeṣaḥ](śeṣaḥ)
 
 ## mukta-m0-p42-v1042
-[kadalī](kadalī) [panasa](panasādyaiśca) [phala](phalaiḥ) [madhu](madhubhireva) [ca](ca)
+[kadalī-panasa-ādyaiḥ](kadalīpanasādyaiśca) [ca](ca) [phalaiḥ](phalaiḥ) [madhubhiḥ](madhubhireva) [eva](eva) [ca](ca)
 
 ## mukta-m0-p42-v1043
-[ekarātra](ekarātraṃ) [trirātra](trirātraṃ) [vā](vā) [pañcarātra](pañcarātraṃ) [tu](tu) [sapta](sapta) [vā](vā)
+[ekarātraṃ](ekarātraṃ) [trirātraṃ](trirātraṃ) [vā](vā) [pañcarātraṃ](pañcarātraṃ) [tu](tu) [sapta](sapta) [vā](vā)
 
 ## mukta-m0-p42-v1044
-[varṣa](varṣaṃ) [vā](vā) [phālguna](phālgunāntaṃ) [vā](vā) [syāt](syāt) [samasta](samasta) [ārti](ārti) [nāśana](nāśanam)
+[varṣaṃ](varṣaṃ) [vā](vā) [phālguna-antaṃ](phālgunāntaṃ) [vā](vā) [syāt](syāt) [samasta-ārti-nāśanam](samastārtināśanam)
 
 ## mukta-m0-p42-v1045
-[devatā](devatānām) [utpāta](utpāte) [trividha](trividhe) [tu](tu) [abhicāraka](abhicārake)
+[devatānām](devatānāmathotpāte) [athotpāte](athotpāte) [trividhe](trividhe) [tu](tu) [abhicārake](abhicārake)
 
 ## mukta-m0-p42-v1046
-[kṛcchra](kṛcchreṣu) [anya](anyeṣu) [ghora](ghoreṣu) [pūjā](pūjaiṣā) [sarva](sarva) [kāma](kāma) [dā](dā)
+[kṛcchreṣu](kṛcchreṣvanyeṣu) [anyeṣu](anyeṣu) [ghoreṣu](ghoreṣu) [pūjā](pūjaiṣā) [eṣā](eṣā) [sarva-kāma-dā](sarvakāmadā)
 
 ## mukta-m0-p42-v1047
-[kṛtvā](kṛtvā) [etat](etat) [prokta](prokta) [rūpa](rūpaṃ) [ca](ca) [prokta](prokta) [dravya](dravyaiḥ) [tathā](tathā) [arcayet](arcayet)
+[kṛtvā](kṛtvaitatproktarūpaṃ) [etat](etat) [prokta-rūpaṃ](proktarūpaṃ) [ca](ca) [prokta-dravyaiḥ](proktadravyaistathārcayet) [tathā](tathā) [arcayet](arcayet)
 
 ## mukta-m0-p42-v1048
-[tat](tat) [pūrva](pūrva) [nityā](nityāntaṃ) [tathā](tathā) [arcayet](arcayet) [iti](iti)
+[tat-pūrva-nityāntaṃ](tatpūrvanityāntaṃ) [tathā](tathā) [arcayet](arcayet) [iti](iti)
 
 ## mukta-m0-p42-v1049
-[mallikā](mallikā) [mālatī](mālatī) [jātī](jātī) [śatapatra](śatapatra) [utpala](utpalādibhiḥ)
+[mallikā-mālatī-jātī-śatapatra-utpala-ādibhiḥ](mallikāmālatījātīśatapatrotpalādibhiḥ)
 
 ## mukta-m0-p42-v1050
-[etat](etat) [vidyā](vidyā) [bhakti](bhakti) [rūpa](rūpāḥ) [ti](ti) [yutān](yutān) [anya](anyaṃśca) [pūjayet](pūjayet)
+[etat-vidyā-bhakti-rūpa](etadvidyābhaktirūpāstiyutānanyāṃśca) [āstiyutān](āstiyutān) [anyān](anyāṃśca) [ca](ca) [pūjayet](pūjayet)

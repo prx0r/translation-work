@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p51-v1251
-[maithuna+arthe](maithunārthe) [api](api) [tvam](tvaṃ) [devi](devi) [nari+dehe](nārīdehe) [sada](sadā) [sthita](sthitā)
+[for-sexual-union](maithunārthe) [even](api) [you](tvaṃ) [goddess](devi) [in-woman-body](nārīdehe) [always](sadā) [situated](sthitā)
 
 ## mukta-m0-p51-v1252
-[aham](ahaṃ) [jnana](jñānaṃ) [samashritya](samāśritya) [deheshu](deheṣu) [dihina+adhrik](dihināmadhṛk)
+[I](ahaṃ) [knowledge](jñānaṃ) [resorting-to](samāśritya) [in-bodies](deheṣu) [of-embodied-beings](dihinām) [bearing](adhṛk)
 
 ## mukta-m0-p51-v1253
-[sthule](sthūle) [sukshme](sūkṣme) [kriya+shakta](kriyāśakta) [tejasi](tejasi) [khalu](khalu) [parvati](pārvati)
+[in-gross](sthūle) [in-subtle](sūkṣme) [action-capable](kriyāśakta) [in-radiance](tejasi) [indeed](khalu) [pārvati](pārvati)
 
 ## mukta-m0-p51-v1254
-[maithunam](maithunaṃ) [punya+janitam](puṇyajanitaṃ) [kriyakta](kriyākto) [jnanavan](jñānavān) [yadi](yadi)
+[sexual-union](maithunaṃ) [from-merit-born](puṇyajanitaṃ) [action-engaged](kriyākto) [knower](jñānavān) [if](yadi)
 
 ## mukta-m0-p51-v1255
-[tesham](teṣāṃ) [madhye](madhye) [ca+adya+bijam](cādyabījaṃ) [maithuna+aktam](maithunāktaṃ) [kriya+iti](kriyeti) [ca](ca)
+[among-them](teṣāṃ) [middle](madhye) [and](ca) [first-seed](ādyabījaṃ) [sexual-union-marked](maithunāktaṃ) [is-done](kriyeti) [and](ca)
 
 ## mukta-m0-p51-v1256
-[bhava+arthe](bhāvārthe) [api](api) [mahadeva](mahādeva) [sthula+dehe](sthūladehe) [kriya](kriyā) [yuta](yutā)
+[for-meaning](bhāvārthe) [even](api) [great-god](mahādeva) [in-gross-body](sthūladehe) [action](kriyā) [joined](yutā)
 
 ## mukta-m0-p51-v1257
-[purushasya](puruṣasya) [sukham](sukhaṃ) [deva](deva) [nari+deheshu](nārīdeheṣu) [maithunam](maithunam)
+[of-man](puruṣasya) [pleasure](sukhaṃ) [god](deva) [in-woman-bodies](nārīdeheṣu) [sexual-union](maithunam)
 
 ## mukta-m0-p51-v1258
-[stri](strī) [pum+rupo+aham](puṃrūpamahaṃ) [tvam+ca](tvañca) [ramana+arthe](ramaṇārthe) [prakashitam](prakāśitaṃ)
+[woman](strī) [male-form](puṃrūpam) [I](ahaṃ) [you](tvañca) [for-enjoyment](ramaṇārthe) [manifested](prakāśitaṃ)
 
 ## mukta-m0-p51-v1259
-[iti](iti) [sri+sarvananda+natha+viracite](śrīsarvānandanāthaviracite) [sarvollase](sarvollāse) [catvarimshad+ullasah](catvāriṃśadullāsaḥ)
+[thus](iti) [śrī-sarvānandanātha-composed](śrīsarvānandanāthaviracite) [sarvollāsa](sarvollāse) [fortieth-ullāsa](catvāriṃśadullāsaḥ)
 
 ## mukta-m0-p51-v1260
-[rates+tulyam](ratestulyaṃ) [mahanandam](mahānandaṃ) [tesham](teṣāṃ) [madhye](madhye) [na](na) [vidyate](vidyate)
+[equal-to-copulation](ratestulyaṃ) [great-bliss](mahānandaṃ) [among-them](teṣāṃ) [middle](madhye) [not](na) [exists](vidyate)
 
 ## mukta-m0-p51-v1261
-[tadanandam](tadānandaṃ) [katham](kathaṃ) [bhadre](bhadre) [ca+anya+tattveshu](cānyatattveṣu) [vidyate](vidyate)
+[that-bliss](tadānandaṃ) [how](kathaṃ) [blessed-one](bhadre) [in-other-principles](cānyatattveṣu) [exists](vidyate)
 
 ## mukta-m0-p51-v1262
-[shakti+rupo+ahy+aham](śaktirūpāhyahaṃ) [tena](tena) [tishthami](tiṣṭhāmi) [ca](ca) [grhe](gṛhe) [grhe](gṛhe)
+[as-power-form](śaktirūpā) [indeed-I](hyahaṃ) [therefore](tena) [stand](tiṣṭhāmi) [and](ca) [house-to-house](gṛhe+gṛhe)
 
 ## mukta-m0-p51-v1263
-[shiva+api+aham](śivāpyaham)
+[śivā](śivā) [also-I](apyaham)
 
 ## mukta-m0-p51-v1264
-[aham](ahaṃ) [tvam](tvaṃ) [stri](strī) [puman](pumān) [rupo](rūpo) [tishthami](tiṣṭhāmi) [bhava+hetave](bhāvahetave)
+[I](ahaṃ) [you](tvaṃ) [woman](strī) [man](pumān) [form](rūpo) [stand](tiṣṭhāmi) [for-bhāva-cause](bhāvahetave)
 
 ## mukta-m0-p51-v1265
-[kitadi+shu](kīṭādiṣu) [vararohe](varārohe) [maithuna+arthe](maithunārthe) [sada](sadā) [sthitah](sthitaḥ)
+[in-worms-etc](kīṭādiṣu) [best-one](varārohe) [for-sexual-union](maithunārthe) [always](sadā) [situated](sthitaḥ)
 
 ## mukta-m0-p51-v1266
-[tena](tena) [tena](tena) [prakarena](prakāreṇa) [vicarati+api](vicaratyapi) [bhutale](bhūtale)
+[by-that](tena) [by-that](tena) [manner](prakāreṇa) [roaming](vicaratyapi) [on-earth](bhūtale)
 
 ## mukta-m0-p51-v1267
-[sthira+anandam](sthirānandaṃ) [panchameshu](pañcameṣu) [panchamam](pañcamaṃ) [mukti+dayakam](muktidāyakam)
+[steady-bliss](sthirānandaṃ) [in-fifth](pañcameṣu) [fifth](pañcamaṃ) [liberation-giving](muktidāyakam)
 
 ## mukta-m0-p51-v1268
-[anandena](ānandena) [vina](vinā) [dehi](dehī) [kshanam+atram](kṣaṇamātraṃ) [na](na) [tishthati](tiṣṭhati)
+[without-bliss](ānandena+vinā) [embodied-one](dehī) [for-a-moment](kṣaṇamātraṃ) [not](na) [stands](tiṣṭhati)
 
 ## mukta-m0-p51-v1269
-[yatash+ca](yataśca) [maithuna+anadam](maithunānadaṃ) [prakriti](prakṛti) [purusha+atmakam](puruṣātmakam)
+[because](yataśca) [sexual-bliss](maithunānadaṃ) [nature](prakṛti) [male-soul](puruṣātmakam)
 
 ## mukta-m0-p51-v1270
-[brahma](brahma) [jnanam](jñānaṃ) [yada](yadā) [devi](devi) [tada](tadā) [brahmana](brāhmaṇa) [ucyate](ucyate)
+[brahman](brahma) [knowledge](jñānaṃ) [when](yadā) [goddess](devi) [then](tadā) [brāhmaṇa](brāhmaṇa) [is-called](ucyate)
 
 ## mukta-m0-p51-v1271
-[madya+pāne](madyapāne) [bhavet+jnani](bhavejjñānī) [maithune](maithune) [tattavavan](tattavavān) [bhavet](bhavet)
+[in-wine-drinking](madyapāne) [becomes-knower](bhavejjñānī) [in-sexual-union](maithune) [tattva-knower](tattavavān) [becomes](bhavet)
 
 ## mukta-m0-p51-v1272
-[bhava+bhedena](bhāvabhedena) [kathaya](kathaya) [sadhaka+ananda](sādhakānanda) [lakshanam](lakṣaṇam)
+[by-bhāva-difference](bhāvabhedena) [speak](kathaya) [sādhaka-bliss](sādhakānanda) [mark](lakṣaṇam)
 
 ## mukta-m0-p51-v1273
-[kriya+atmano](kriyātmano) [lakshanam](lakṣaṇaṃ) [hi](hi) [bahudha](bahudhā) [prakitikritam](prakaṭīkṛtam)
+[of-action-self](kriyātmano) [mark](lakṣaṇaṃ) [indeed](hi) [in-many-ways](bahudhā) [manifested](prakaṭīkṛtam)
 
 ## mukta-m0-p51-v1274
-[yena](yena) [margena](mārgeṇa) [deveshi](deveśi) [phala+bhag](phalabhāg) [jayate](jāyate) [narah](naraḥ)
+[by-which](yena) [path](mārgeṇa) [goddess](deveśi) [fruit-share](phalabhāg) [arises](jāyate) [man](naraḥ)
 
 ## mukta-m0-p51-v1275
-[vina](vinā) [mudram](mudrāṃ) [pivet+madyam](pivenmadyaṃ) [nishphalam](niṣphalaṃ) [na+atra](nātra) [samshayah](saṃśayaḥ)
+[without-mudrā](vinā+mudrāṃ) [drinks-wine](pivenmadyaṃ) [fruitless](niṣphalaṃ) [not](nātra) [doubt](saṃśayaḥ)

@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p09-v201
-[thus](evaṃ) [occasional](naimittikaṃ) [constant](nityam) [uninterrupted](avicchinnaṃ) [should-practice](samācaret)
+evaṃ-thus naimittikaṃ-occasional nityam-eternal avicchinnaṃ-uninterrupted samācaret-should-practice
 
 ## mukta-m0-p09-v202
-[in-support](ādhāre) [heart](hṛdaye) [head](śīrṣe) [fire](vahnau) [sun](sūrye) [moon](niśākare)
+ādhāre-in-support hṛdaye-in-heart śīrṣe-on-head vahnau-in-fire sūrye-in-sun niśākare-in-moon
 
 ## mukta-m0-p09-v203
-[should-place](nyasecca) [mātṛkā-place](mātṛkāsthāne) [then](tadā) [body-perfection](taddehasiddhaye)
+nyasecca-should-place mātṛkāsthāne-in-mātṛkā-place tadā-then taddehasiddhaye-for-body-perfection
 
 ## mukta-m0-p09-v204
-[kuhū-arrival](kuhūprāptau) [enemy-distress](ripukleśe) [should-do](kuryāt) [eva](evā) [abhiṣecanam](abhiṣecanam)
+kuhūprāptau-at-kuhū-arrival ripukleśe-in-enemy-distress kuryādeva-should-do abhiṣecanam-consecration
 
 ## mukta-m0-p09-v205
-[small](kṣudrāṇi) [cruel-acts](krūrakarmāṇi) [kṛtyās](kṛtyāśca) [enemy-devised](ripukalpitāḥ)
+kṣudrāṇi-small krūrakarmāṇi-cruel-acts kṛtyāḥ-spells ca-and ripukalpitāḥ-enemy-devised
 
 ## mukta-m0-p09-v206
-[śrīcakra](śrīcakre) [one](ekaṃ) [or](veti) [pakṣaḥ](pakṣaḥ) [kāmya-object](kāmyaviṣayaḥ) [58](|| 58 ||) [59](|| 59 ||) [60](|| 60 ||) [61](|| 61 ||) [62](|| 62 ||) [63](|| 63 ||)
+śrīcakre-in-śrīcakra ekaṃ-one veti-or pakṣaḥ-view kāmyaviṣayaḥ-desired-object
 
 ## mukta-m0-p09-v207
-[śrīvidyā](śrīvidyāṃ) [should-place](nyased) [iti](ityapy) [api](api) [upakvara](upakvaraḥ) [sampradāya](sampradāyaḥ) [73](|| 73 ||)
+śrīvidyāṃ-śrīvidyā nyasedityapyupakvaraḥ-also-mentioned sampradāyaḥ-tradition
 
 ## mukta-m0-p09-v208
-[contractedness-distress](saṃkucitatvaduḥkhārttiḥ) [75](|| 75 ||) [76](|| 76 ||) [77](|| 77 ||) [78](|| 78 ||)
+saṃkucitatvaduḥkhārttiḥ-contracted-state-suffering
 
 ## mukta-m0-p09-v209
-[tell](brūhi) [me](me) [that](tadbalaṃ) [power](balaṃ) [by-which](yena) [distresses](kleśāḥ) [perish](naśyanti) [completely](aśeṣataḥ)
+brūhi-tell me-to-me tadbalaṃ-that-power yena-by-which kleśā-afflictions naśyantyaśeṣataḥ-perish-completely
 
 ## mukta-m0-p09-v210
-[perish](naśyanti) [completely](aśeṣataḥ) [faults](doṣāḥ) [therefore](tasmāt) [abhiṣeka-like](sekasamaḥ) [not](na) [indeed](hi)
+naśyantyaśeṣato-perish-completely doṣāḥ-faults tasmāt-therefore sekasamo-equal-to-abhiṣeka na-not hi-indeed
 
 ## mukta-m0-p09-v211
-[therefore](tasmāt) [all-distress](aśeṣaduḥkhārti) [pacification](śāntyai) [should-be](syāt) [abhiṣecanam](abhiṣecanam)
+tasmāt-therefore aśeṣaduḥkhārtiśāntyai-for-cessation-of-all-suffering syād-should-be abhiṣecanam-consecration
 
 ## mukta-m0-p09-v212
-[should-do](kuryāt) [with-dakṣiṇā](sadakṣiṇāṃ) [worship](pūjāṃ) [guru's](guroḥ) [yearly](pratyabdameva) [or](vā)
+kuryāt-should-do sadakṣiṇāṃ-with-dakṣiṇā pūjāṃ-worship guroḥ-of-guru pratyabdameva-every-year vā-or
 
 ## mukta-m0-p09-v213
-[abhiṣikta](abhiṣiktastu) [vidhinā](vidhinā) [should-give](pradadyāddakṣiṇāṃ) [dakṣiṇā](dakṣiṇāṃ) [guru's](guroḥ)
+abhiṣiktastu-consecrated vidhinā-by-rite pradadyāt-should-give dakṣiṇāṃ-dakṣiṇā guroḥ-to-guru
 
 ## mukta-m0-p09-v214
-[guru's-guru](gurorguruṃ) [that-guru](tadguruṃ) [ca](ca) [before-self](svāgrato) [obtained-knowledge](labdhavidyakāt)
+gurorguruṃ-guru's-guru tadguruṃ-that-guru ca-and svāgrato-before-self labdhavidyakāt-from-one-who-obtained-knowledge
 
 ## mukta-m0-p09-v215
-[should-please](toṣayed) [otherwise](anyathā) [śakti](śaktiḥ) [own](svīyā) [that-going](tadgāminī) [becomes](bhavet)
+toṣayed-should-please anyathā-otherwise śaktiḥ-power svīyā-one's-own tadgāminī-going-there bhavet-becomes
 
 ## mukta-m0-p09-v216
-[with-mud](paṅkair) [should-make](vidadhyātsarvatra) [everywhere](sarvatra) [guru-maṇḍala](gurumaṇḍalakalpanam)
+paṅkair-with-mud vidadhyāt-should-make sarvatra-everywhere gurumaṇḍalakalpanam-guru-maṇḍala-construction
 
 ## mukta-m0-p09-v217
-[mind-following](cittānuvṛttiḥ) [own](svīyā) [disciple-gone](śiṣyagatā) [that-going](tadgāminī) [guru-going](gurugāminī) [80](|| 80 ||) [81](|| 81 ||) [82](|| 82 ||)
+cittānuvṛttiḥ-mind's-following svīyā-one's-own śiṣyagatā-going-to-disciple tadgāminī-going-there gurugāminī-going-to-guru
 
 ## mukta-m0-p09-v218
-[should-hold](dhārayetsarvato) [everywhere](sarvato) [lakṣmī](lakṣmīṃ) [rasa-from](rasasyātparameśvarī) [supreme-goddess](parameśvarī)
+dhārayet-should-hold sarvato-everywhere lakṣmīṃ-lakṣmī rasasyāt-from-rasa parameśvarī-supreme-goddess
 
 ## mukta-m0-p09-v219
-[spoken](proktāni) [those](tāni) [all](sarvāṇi) [lotuses](padmāni) [should-arrange](parikalpayet)
+proktāni-spoken tāni-those sarvāṇi-all padmāni-lotuses parikalpayet-should-arrange
 
 ## mukta-m0-p09-v220
-[goddess-selfhood](devyātmatvaṃ) [guru-from](gurorlabdhvā) [obtained](labdhvā) [twelve-verses](ślokadvādaśakaṃ) [should-chant](japet)
+devyātmatvaṃ-goddess-nature guror-from-guru labdhvā-having-obtained ślokadvādaśakaṃ-twelve-verses japet-should-recite
 
 ## mukta-m0-p09-v221
-[goddess](devīṃ) [mantra-formed](mantramayīṃ) [salute](naumi) [mātṛkā](mātṛkāṃ) [pīṭha-formed](pīṭharūpiṇīm)
+devīṃ-goddess mantramayīṃ-mantra-formed naumi-I-salute mātṛkāṃ-mātṛkā pīṭharūpiṇīm-seat-formed
 
 ## mukta-m0-p09-v222
-[destroyer-of-kāla-etc](kālahallohalollolakalanāśamakāriṇīm)
+kālahallohalollolakalanāśamakāriṇīm-destroyer-of-time-tumult
 
 ## mukta-m0-p09-v223
-[paramārtha](paramārthaṃ) [having-known](budhvetyarthaḥ) [iti](ity) [arthaḥ](arthaḥ)
+paramārthaṃ-ultimate-meaning budhvā-having-known ityarthaḥ-thus-meaning
 
 ## mukta-m0-p09-v224
-[by-sun-garuḍa-moon-cupid-śaṅkara-fire-viṣṇu](ravitārkṣyendukandarpaśaṅkarānalaviṣṇubhiḥ)
+ravitārkṣyendukandarpaśaṅkarānalaviṣṇubhiḥ-by-sun-garuḍa-moon-kāma-śiva-fire-viṣṇu
 
 ## mukta-m0-p09-v225
-[salute](vande) [all-lady](sarveśvarīṃ) [devī](devīṃ) [great-śrī-siddha-mātṛkā](mahāśrīsiddhamātṛkām)
+vande-I-salute sarveśvarīṃ-lady-of-all devīṃ-goddess mahāśrīsiddhamātṛkām-great-śrī-siddha-mātṛkā

@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p54-v1326
-[śivaḥ-I-am](śivo'ham) [thus](iti) [having-thought](matvā) [and](ca) [enjoyment](ramaṇaṃ) [my](mama) [approved](sammatam)
+[I-am-Shiva](śivo'ham) [thus](iti) [having-thought](matvā) [and](ca) [pleasure](ramaṇaṃ) [my](mama) [approved](sammatam)
 
 ## mukta-m0-p54-v1327
-[yoni](yoni) [knowledge](jñānaṃ) [without](vinā) [god](deva) [sexual-union](maithunaṃ) [not](na) [auspicious](śubha) [giving](pradam)
+[without](vinā) [yoni-knowledge](yoni jñānaṃ) [O-god](deva) [intercourse](maithunaṃ) [not](na) [auspicious](śubha) [giving](pradam)
 
 ## mukta-m0-p54-v1328
-[middle](madhye) [goddess](devīṃ) [worship](yajed) [song](gānaṃ) [drink](pānaṃ) [dance](nṛtyaṃ) [japa](japaṃ) [practice](caret)
+[in-middle](madhye) [goddess](devīṃ) [worship](yajed) [song](gānaṃ) [drink](pānaṃ) [dance](nṛtyaṃ) [japa](japaṃ) [perform](caret)
 
 ## mukta-m0-p54-v1329
-[whose](yasya) [awakening](avabodhanāt) [in-body](dehe) [embodied-one](dehī) [brahma-filled](brahma+mayo) [becomes](bhavet)
+[by-whose-awakening](yasyāvabodhanāt) [in-body](dehe) [embodied-one](dehī) [Brahman](brahma) [full](mayo) [becomes](bhavet)
 
 ## mukta-m0-p54-v1330
-[not](na) [to-be-spoken](vaktavyaṃ) [ever](kadācit) [tu](tu) [heretic](pāṣaṇḍe) [atheist](nāstike) [man](nare)
+[not](na) [to-be-spoken](vaktavyaṃ) [ever](kadācittu) [to-heretic](pāṣaṇḍe) [to-atheist](nāstike) [man](nare)
 
 ## mukta-m0-p54-v1331
-[by-its](asya) [recitation](prapaṭhanāt) [god](deva) [liberated-while-living](jīvanmukto) [also](api) [becomes](jāyate)
+[by-recitation-of-this](asya prapaṭhanāt) [O-god](deva) [liberated-while-living](jīvanmukto) [even](api) [becomes](jāyate)
 
 ## mukta-m0-p54-v1332
-[ten-vidyās](daśavidyā) [form](svarūpa) [self](ātmā) [yoni](yoni) [me](māṃ) [protect](pātu) [always](sarvadā)
+[ten-vidyās-true-self](daśavidyāsvarūpātmā) [yonī](yonir) [me](māṃ) [protect](pātu) [always](sarvadā)
 
 ## mukta-m0-p54-v1333
-[world-bliss](jagadānanda) [born](saṃbhūtā) [yoni](yoni) [me](māṃ) [protect](pātu) [always](sarvadā)
+[world-bliss-born](jagadānanda saṃbhūtā) [yonī](yonir) [me](māṃ) [protect](pātu) [always](sarvadā)
 
 ## mukta-m0-p54-v1334
-[brahma](brahma) [viṣṇu](viṣṇu) [śiva](śiva) [life-breaths](prāṇā) [yoni](yoni) [me](māṃ) [protect](pātu) [always](sarvadā)
+[Brahma](brahma) [Vishnu](viṣṇu) [Shiva](śiva) [life-breaths](prāṇā) [yonī](yonir) [me](māṃ) [protect](pātu) [always](sarvadā)
 
 ## mukta-m0-p54-v1335
-[enjoyment](bhukti) [liberation](mukti) [giving](pradā) [yoni](yoni) [yoni](yoni) [me](māṃ) [protect](pātu) [always](sarvadā)
+[enjoyment](bhukti) [liberation](mukti) [giving](pradā) [yonī](yonir) [yonī](yonir) [me](māṃ) [protect](pātu) [always](sarvadā)
 
 ## mukta-m0-p54-v1336
 [always](sarvadā)
 
 ## mukta-m0-p54-v1337
-[pleasure-giving](sukhadā) [love-chamber](madanāgārā) [yoni](yoni) [me](māṃ) [protect](pātu) [always](sarvadā)
+[pleasure-giving](sukhadā) [love-chamber](madanāgārā) [yonī](yonir) [me](māṃ) [protect](pātu) [always](sarvadā)
 
 ## mukta-m0-p54-v1338
-[beautiful](manoharā) [sorrow](duḥkha) [obtaining](labhā) [yoni](yoni) [me](māṃ) [protect](pātu) [always](sarvadā)
+[heart-stealing](manoharā) [sorrow](duḥkha) [gaining](labhā) [yonī](yonir) [me](māṃ) [protect](pātu) [always](sarvadā)
 
 ## mukta-m0-p54-v1339
-[all](sarva) [progeny-maker](prasavakartrī) [you](tvaṃ) [yoni](yoni) [me](māṃ) [protect](pātu) [always](sarvadā)
+[all](sarva) [birth-causing](prasavakartrī) [you](tvaṃ) [yonī](yonir) [me](māṃ) [protect](pātu) [always](sarvadā)
 
 ## mukta-m0-p54-v1340
-[all](sarva) [house](gehe) [standing](sthitā) [yoni](yoni) [yoni](yoni) [me](māṃ) [protect](pātu) [always](sarvadā)
+[all](sarva) [in-house](gehe) [situated](sthitā) [yonī](yonir) [yonī](yonir) [me](māṃ) [protect](pātu) [always](sarvadā)
 
 ## mukta-m0-p54-v1341
-[health-giving](ārogyadā) [hero](vīra) [delighting](ratā) [five](pañca) [elements](tatva) [endowed](yutā) [always](sadā)
+[health-giving](ārogyadā) [hero-devoted](vīra ratā) [five](pañca) [principles](tatva) [endowed](yutā) [always](sadā)
 
 ## mukta-m0-p54-v1342
-[śakti-form](śaktirūpā) [great-goddess](mahādevī) [his](tasya) [house](gehe) [always](sadā) [firm](sthirā)
+[Shakti-formed](śaktirūpā) [great-goddess](mahādevī) [his](tasya) [house](gehe) [always](sadā) [firm](sthirā)
 
 ## mukta-m0-p54-v1343
-[liberation](muktir) [unbroken](akhaṇḍitā)
+[unbroken-liberation](muktirakhaṇḍitā)
 
 ## mukta-m0-p54-v1344
-[truth](satyaṃ) [truth](satyaṃ) [again](punaḥ) [truth](satyaṃ) [my](mama) [word](vākyaṃ) [vain](vṛthā) [not](nahi)
+[truth](satyaṃ) [truth](satyaṃ) [again](punaḥ) [truth](satyaṃ) [my-word](mamavākyaṃ) [vain](vṛthā) [not](nahi)
 
 ## mukta-m0-p54-v1345
-[joined-palms](kṛtāñjali) [cupped](puṭobhūtvā) [recite](paṭhet) [hymn](stotraṃ) [sky-clad](digambara)
+[folded-hands](kṛtāñjali) [cup](puṭa) [having-become](bhūtvā) [recite](paṭhet) [hymn](stotraṃ) [sky-clad](digambara)
 
 ## mukta-m0-p54-v1346
-[otherwise](anyathā)
+[otherwise](cānyathā)
 
 ## mukta-m0-p54-v1347
-[otherwise](anyathā) [worship](pūjanāt) [god](deva) [enjoyment](ramaṇaṃ) [death](maraṇaṃ) [becomes](bhavet)
+[otherwise](anyathā) [from-worship](pūjanāt) [O-god](deva) [pleasure](ramaṇaṃ) [death](maraṇaṃ) [becomes](bhavet)
 
 ## mukta-m0-p54-v1348
-[night](niśāyāṃ) [before](sammukhe) [śakti](śaktyāḥ) [he](sa) [śiva](śivo) [not](nātra) [doubt](saṃśayaḥ)
+[at-night](niśāyāṃ) [before](sammukhe) [of-Shakti](śaktyāḥ) [he](sa) [Shiva](śivo) [no](na) [here](atra) [doubt](saṃśayaḥ)
 
 ## mukta-m0-p54-v1349
-[left-hand](vāmahaste) [to-be-given](pradātavyaṃ) [secret](guhyā) [di](di) [mantra](mantra) [with-prior](pūrvakam)
+[in-left-hand](vāmahaste) [to-be-given](pradātavyaṃ) [secret](guhyā) [etc](di) [mantra](mantra) [preceded](pūrvakam)
 
 ## mukta-m0-p54-v1350
-[tīrtha](tīrtha) [bath](snāna) [thousand](sahasra) [crore](koṭi) [fruit-giving](phaladaṃ) [śrīcakra](śrīcakra) [foot-water](pādodakam)
+[pilgrimage-bath](tīrtha snāna) [thousand](sahasra) [crore](koṭi) [fruit-giving](phaladaṃ) [Shri-chakra](śrīcakra) [foot-water](pādodakam)

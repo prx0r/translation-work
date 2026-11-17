@@ -8,7 +8,7 @@
 "tokens": [
 {
 "surface": "śivo'ham",
-"quick_gloss": "śivaḥ-I-am"
+"quick_gloss": "I-am-Shiva"
 },
 {
 "surface": "iti",
@@ -24,7 +24,7 @@
 },
 {
 "surface": "ramaṇaṃ",
-"quick_gloss": "enjoyment"
+"quick_gloss": "pleasure"
 },
 {
 "surface": "mama",
@@ -44,24 +44,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "yoni",
-"quick_gloss": "yoni"
-},
-{
-"surface": "jñānaṃ",
-"quick_gloss": "knowledge"
-},
-{
 "surface": "vinā",
 "quick_gloss": "without"
 },
 {
+"surface": "yoni jñānaṃ",
+"quick_gloss": "yoni-knowledge"
+},
+{
 "surface": "deva",
-"quick_gloss": "god"
+"quick_gloss": "O-god"
 },
 {
 "surface": "maithunaṃ",
-"quick_gloss": "sexual-union"
+"quick_gloss": "intercourse"
 },
 {
 "surface": "na",
@@ -86,7 +82,7 @@
 "tokens": [
 {
 "surface": "madhye",
-"quick_gloss": "middle"
+"quick_gloss": "in-middle"
 },
 {
 "surface": "devīṃ",
@@ -114,7 +110,7 @@
 },
 {
 "surface": "caret",
-"quick_gloss": "practice"
+"quick_gloss": "perform"
 }
 ]
 },
@@ -126,12 +122,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "yasya",
-"quick_gloss": "whose"
-},
-{
-"surface": "avabodhanāt",
-"quick_gloss": "awakening"
+"surface": "yasyāvabodhanāt",
+"quick_gloss": "by-whose-awakening"
 },
 {
 "surface": "dehe",
@@ -142,8 +134,12 @@
 "quick_gloss": "embodied-one"
 },
 {
-"surface": "brahma+mayo",
-"quick_gloss": "brahma-filled"
+"surface": "brahma",
+"quick_gloss": "Brahman"
+},
+{
+"surface": "mayo",
+"quick_gloss": "full"
 },
 {
 "surface": "bhavet",
@@ -167,20 +163,16 @@
 "quick_gloss": "to-be-spoken"
 },
 {
-"surface": "kadācit",
+"surface": "kadācittu",
 "quick_gloss": "ever"
 },
 {
-"surface": "tu",
-"quick_gloss": "tu"
-},
-{
 "surface": "pāṣaṇḍe",
-"quick_gloss": "heretic"
+"quick_gloss": "to-heretic"
 },
 {
 "surface": "nāstike",
-"quick_gloss": "atheist"
+"quick_gloss": "to-atheist"
 },
 {
 "surface": "nare",
@@ -196,16 +188,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "asya",
-"quick_gloss": "by-its"
-},
-{
-"surface": "prapaṭhanāt",
-"quick_gloss": "recitation"
+"surface": "asya prapaṭhanāt",
+"quick_gloss": "by-recitation-of-this"
 },
 {
 "surface": "deva",
-"quick_gloss": "god"
+"quick_gloss": "O-god"
 },
 {
 "surface": "jīvanmukto",
@@ -213,7 +201,7 @@
 },
 {
 "surface": "api",
-"quick_gloss": "also"
+"quick_gloss": "even"
 },
 {
 "surface": "jāyate",
@@ -229,20 +217,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "daśavidyā",
-"quick_gloss": "ten-vidyās"
+"surface": "daśavidyāsvarūpātmā",
+"quick_gloss": "ten-vidyās-true-self"
 },
 {
-"surface": "svarūpa",
-"quick_gloss": "form"
-},
-{
-"surface": "ātmā",
-"quick_gloss": "self"
-},
-{
-"surface": "yoni",
-"quick_gloss": "yoni"
+"surface": "yonir",
+"quick_gloss": "yonī"
 },
 {
 "surface": "māṃ",
@@ -266,16 +246,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "jagadānanda",
-"quick_gloss": "world-bliss"
+"surface": "jagadānanda saṃbhūtā",
+"quick_gloss": "world-bliss-born"
 },
 {
-"surface": "saṃbhūtā",
-"quick_gloss": "born"
-},
-{
-"surface": "yoni",
-"quick_gloss": "yoni"
+"surface": "yonir",
+"quick_gloss": "yonī"
 },
 {
 "surface": "māṃ",
@@ -300,23 +276,23 @@
 "tokens": [
 {
 "surface": "brahma",
-"quick_gloss": "brahma"
+"quick_gloss": "Brahma"
 },
 {
 "surface": "viṣṇu",
-"quick_gloss": "viṣṇu"
+"quick_gloss": "Vishnu"
 },
 {
 "surface": "śiva",
-"quick_gloss": "śiva"
+"quick_gloss": "Shiva"
 },
 {
 "surface": "prāṇā",
 "quick_gloss": "life-breaths"
 },
 {
-"surface": "yoni",
-"quick_gloss": "yoni"
+"surface": "yonir",
+"quick_gloss": "yonī"
 },
 {
 "surface": "māṃ",
@@ -352,12 +328,12 @@
 "quick_gloss": "giving"
 },
 {
-"surface": "yoni",
-"quick_gloss": "yoni"
+"surface": "yonir",
+"quick_gloss": "yonī"
 },
 {
-"surface": "yoni",
-"quick_gloss": "yoni"
+"surface": "yonir",
+"quick_gloss": "yonī"
 },
 {
 "surface": "māṃ",
@@ -402,8 +378,8 @@
 "quick_gloss": "love-chamber"
 },
 {
-"surface": "yoni",
-"quick_gloss": "yoni"
+"surface": "yonir",
+"quick_gloss": "yonī"
 },
 {
 "surface": "māṃ",
@@ -428,7 +404,7 @@
 "tokens": [
 {
 "surface": "manoharā",
-"quick_gloss": "beautiful"
+"quick_gloss": "heart-stealing"
 },
 {
 "surface": "duḥkha",
@@ -436,11 +412,11 @@
 },
 {
 "surface": "labhā",
-"quick_gloss": "obtaining"
+"quick_gloss": "gaining"
 },
 {
-"surface": "yoni",
-"quick_gloss": "yoni"
+"surface": "yonir",
+"quick_gloss": "yonī"
 },
 {
 "surface": "māṃ",
@@ -469,15 +445,15 @@
 },
 {
 "surface": "prasavakartrī",
-"quick_gloss": "progeny-maker"
+"quick_gloss": "birth-causing"
 },
 {
 "surface": "tvaṃ",
 "quick_gloss": "you"
 },
 {
-"surface": "yoni",
-"quick_gloss": "yoni"
+"surface": "yonir",
+"quick_gloss": "yonī"
 },
 {
 "surface": "māṃ",
@@ -506,19 +482,19 @@
 },
 {
 "surface": "gehe",
-"quick_gloss": "house"
+"quick_gloss": "in-house"
 },
 {
 "surface": "sthitā",
-"quick_gloss": "standing"
+"quick_gloss": "situated"
 },
 {
-"surface": "yoni",
-"quick_gloss": "yoni"
+"surface": "yonir",
+"quick_gloss": "yonī"
 },
 {
-"surface": "yoni",
-"quick_gloss": "yoni"
+"surface": "yonir",
+"quick_gloss": "yonī"
 },
 {
 "surface": "māṃ",
@@ -546,12 +522,8 @@
 "quick_gloss": "health-giving"
 },
 {
-"surface": "vīra",
-"quick_gloss": "hero"
-},
-{
-"surface": "ratā",
-"quick_gloss": "delighting"
+"surface": "vīra ratā",
+"quick_gloss": "hero-devoted"
 },
 {
 "surface": "pañca",
@@ -559,7 +531,7 @@
 },
 {
 "surface": "tatva",
-"quick_gloss": "elements"
+"quick_gloss": "principles"
 },
 {
 "surface": "yutā",
@@ -580,7 +552,7 @@
 "tokens": [
 {
 "surface": "śaktirūpā",
-"quick_gloss": "śakti-form"
+"quick_gloss": "Shakti-formed"
 },
 {
 "surface": "mahādevī",
@@ -612,12 +584,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "muktir",
-"quick_gloss": "liberation"
-},
-{
-"surface": "akhaṇḍitā",
-"quick_gloss": "unbroken"
+"surface": "muktirakhaṇḍitā",
+"quick_gloss": "unbroken-liberation"
 }
 ]
 },
@@ -645,12 +613,8 @@
 "quick_gloss": "truth"
 },
 {
-"surface": "mama",
-"quick_gloss": "my"
-},
-{
-"surface": "vākyaṃ",
-"quick_gloss": "word"
+"surface": "mamavākyaṃ",
+"quick_gloss": "my-word"
 },
 {
 "surface": "vṛthā",
@@ -671,11 +635,15 @@
 "tokens": [
 {
 "surface": "kṛtāñjali",
-"quick_gloss": "joined-palms"
+"quick_gloss": "folded-hands"
 },
 {
-"surface": "puṭobhūtvā",
-"quick_gloss": "cupped"
+"surface": "puṭa",
+"quick_gloss": "cup"
+},
+{
+"surface": "bhūtvā",
+"quick_gloss": "having-become"
 },
 {
 "surface": "paṭhet",
@@ -699,7 +667,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "anyathā",
+"surface": "cānyathā",
 "quick_gloss": "otherwise"
 }
 ]
@@ -717,15 +685,15 @@
 },
 {
 "surface": "pūjanāt",
-"quick_gloss": "worship"
+"quick_gloss": "from-worship"
 },
 {
 "surface": "deva",
-"quick_gloss": "god"
+"quick_gloss": "O-god"
 },
 {
 "surface": "ramaṇaṃ",
-"quick_gloss": "enjoyment"
+"quick_gloss": "pleasure"
 },
 {
 "surface": "maraṇaṃ",
@@ -746,7 +714,7 @@
 "tokens": [
 {
 "surface": "niśāyāṃ",
-"quick_gloss": "night"
+"quick_gloss": "at-night"
 },
 {
 "surface": "sammukhe",
@@ -754,7 +722,7 @@
 },
 {
 "surface": "śaktyāḥ",
-"quick_gloss": "śakti"
+"quick_gloss": "of-Shakti"
 },
 {
 "surface": "sa",
@@ -762,11 +730,15 @@
 },
 {
 "surface": "śivo",
-"quick_gloss": "śiva"
+"quick_gloss": "Shiva"
 },
 {
-"surface": "nātra",
-"quick_gloss": "not"
+"surface": "na",
+"quick_gloss": "no"
+},
+{
+"surface": "atra",
+"quick_gloss": "here"
 },
 {
 "surface": "saṃśayaḥ",
@@ -783,7 +755,7 @@
 "tokens": [
 {
 "surface": "vāmahaste",
-"quick_gloss": "left-hand"
+"quick_gloss": "in-left-hand"
 },
 {
 "surface": "pradātavyaṃ",
@@ -795,7 +767,7 @@
 },
 {
 "surface": "di",
-"quick_gloss": "di"
+"quick_gloss": "etc"
 },
 {
 "surface": "mantra",
@@ -803,7 +775,7 @@
 },
 {
 "surface": "pūrvakam",
-"quick_gloss": "with-prior"
+"quick_gloss": "preceded"
 }
 ]
 },
@@ -815,12 +787,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "tīrtha",
-"quick_gloss": "tīrtha"
-},
-{
-"surface": "snāna",
-"quick_gloss": "bath"
+"surface": "tīrtha snāna",
+"quick_gloss": "pilgrimage-bath"
 },
 {
 "surface": "sahasra",
@@ -836,7 +804,7 @@
 },
 {
 "surface": "śrīcakra",
-"quick_gloss": "śrīcakra"
+"quick_gloss": "Shri-chakra"
 },
 {
 "surface": "pādodakam",

@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p36-v876
-[with-red-flower](raktapuṣpeṇa) [having-cleansed](nirmañjya) [in-yoni-place](yonideśe) [should-place](niyojayet)
+with-red-flower having-purified yoni-place should-place
 
 ## mukta-m0-p36-v877
-[my](mama) [power](śaktiṃ) [make](kuru) [pair](dvandvaṃ) [svāhā-thus](svāheti) [tenfold](daśadhā) [should-recite](japet)
+my power make pair svaha thus ten-times recite
 
 ## mukta-m0-p36-v878
-[enjoyment-vessel](bhogapātraṃ) [when](yadā) [to-be-given](deyaṃ) [then](tadā) [enjoyment](ramaṇam) [should-perform](ācaret)
+enjoyment-vessel when given then copulation perform
 
 ## mukta-m0-p36-v879
-[by-that-very](tenaiva) [mantra](manunā) [O-goddess](devi) [six-limbed](ṣaḍaṅge) [nyāsa](nyāsam) [should-perform](ācaret)
+by-that mantra goddess six-limbs placement perform
 
 ## mukta-m0-p36-v880
-[seventy-times-mantrified](saptatirmantritaṃ) [having-done](kṛtvā) [purified](pūtaṃ) [all](sarvaṃ) [becomes](bhaved) [certainly](dhruvam)
+seventy-mantra having-done purified all becomes certain
 
 ## mukta-m0-p36-v881
-[should-offer](juhuyāt) [in-kuṇḍalī-mouth](kuṇḍalīvaktre) [with-root-mantra](mūlamantreṇa) [beautiful-one](sundari)
+offer kundali-mouth root-mantra beautiful-one
 
 ## mukta-m0-p36-v882
-[at-enjoyment-time](bhogakāle) [O-great-goddess](maheśāni) [up-to-tongue](ājihvāntaṃ) [should-visualize](vibhāvayet)
+enjoyment-time great-goddess up-to-tongue contemplate
 
 ## mukta-m0-p36-v883
-[root-mantra](mūlamantraṃ) [having-uttered](samuccārya) [should-offer](juhuyāt) [in-kuṇḍalī-mouth](kuṇḍalīmukhe)
+root-mantra uttering offer kundali-mouth
 
 ## mukta-m0-p36-v884
-[desire-for-food](bhojanecchā) [arises](bhavet) [of-her](tasyā) [detached](nirlipto) [called-jīva](jīvasaṃjñakaḥ)
+eating-desire becomes-her detached life-named
 
 ## mukta-m0-p36-v885
-[goes](prayāti) [hell](narakaṃ) [terrible](ghoram) [with-twenty-one-families](ekaviṃśakulaiḥ) [with](saha)
+goes hell terrible twenty-one-families with
 
 ## mukta-m0-p36-v886
-[guru](guruṃ) [remembering](smaran) [should-drink-wine](pivenmadyaṃ) [eating](khādan) [meat](māṃsaṃ) [not](na) [possessor-of-fault](doṣabhāk)
+guru remembering drink-wine eat-meat not sin-bearer
 
 ## mukta-m0-p36-v887
-[thus](iti) [composed-by-śrī-sarvānandanātha](śrīsarvānandanāthaviracite) [in-sarvollāsa](sarvollāse) [twenty-ninth-chapter](ūnatriṃśadullāsaḥ)
+thus holy-all-bliss-lord-composed all-exaltation twenty-ninth-chapter
 
 ## mukta-m0-p36-v888
-[of-cause](kāraṇasya) [cause](kāraṇaṃ) [indeed](hi) [consciousness](sambidā) [thus](iti) [conceived](prakalpitam)
+cause's cause indeed consciousness-thus conceived
 
 ## mukta-m0-p36-v889
-[why](kasmāt) [drinking](pānaṃ) [cause](kāraṇaṃ) [indeed](hi) [partaker-of-consciousness-bliss](sambidānandabhāk) [man](naraḥ)
+why drink cause indeed consciousness-bliss-partaker man
 
 ## mukta-m0-p36-v890
-[tinged-with-feeling](bhāvāktaṃ) [consciousness-bliss](sambidānandaṃ) [wine-bliss](madyānandam) [non-different](abhedakam)
+emotion-tinged consciousness-bliss wine-bliss non-different
 
 ## mukta-m0-p36-v891
-[in-feeling-blisses](bhāvānandeṣu) [O-goddess](deveśi) [share-of-liberation](muktibhāg) [becomes](jāyate) [man](naraḥ)
+in-emotion-blisses goddess liberation-share becomes man
 
 ## mukta-m0-p36-v892
-[then](tadā) [liberation-of-isolation](kaivalyamuktiḥ) [would-be](syāt) [truth](satyaṃ) [truth](satyaṃ) [not](na) [doubt](saṃśayaḥ)
+then liberation-release becomes truth truth no doubt
 
 ## mukta-m0-p36-v893
-[this](idaṃ) [knowledge](jñānaṃ) [arisen-from-consciousness](sambidotthaṃ) [for-liberation](muktyartham) [endowed-with-both](ubhayānvitam)
+this knowledge consciousness-born liberation-purpose both-endowed
 
 ## mukta-m0-p36-v894
-[eternal-bliss](sadānanda]) [giving](pradāyakam)
+eternal-bliss giver
 
 ## mukta-m0-p36-v895
-[therefore](ata) [indeed](eva) [O-great-god](mahādeva) [grasping-of-consciousness](sambidāgrahaṇam) [should-practice](ācaret)
+therefore indeed great-god consciousness-grasping perform
 
 ## mukta-m0-p36-v896
-[always](sarvadā) [O-supreme-lord](parameśāna) [bliss-of-accomplishment](siddhyānandaṃ) [sometimes](kvacit) [sometimes](kvacit)
+always supreme-lord accomplishment-bliss sometimes sometimes
 
 ## mukta-m0-p36-v897
-[wine-bliss](madyānandaṃ) [sometimes](kvacid) [O-god](deva) [on-festival](parvaṇi) [accompanied-by-honey-drinking](madhupānayuk)
+wine-bliss sometimes god festival honey-drink-accompanied
 
 ## mukta-m0-p36-v898
-[in-bright-fortnight](śukle) [if](yadi) [should-drink-wine](pivenmadyaṃ) [at-beginning-and-end](ādyante) [consciousness](sambidāṃ) [should-drink](pivet)
+bright if drink-wine beginning-end consciousness drink
 
 ## mukta-m0-p36-v899
-[in-bright](śukle) [and-first](cādyaṃ) [should-drink](pivet) [accomplishment](siddhiṃ) [in-dark](kṛṣṇe) [and-first](cādyaṃ) [should-drink-honey](pivenmadhu)
+bright and-first drink accomplishment dark and-first drink-honey
 
 ## mukta-m0-p36-v900
-[of-the-swift-one](tvaritāyāḥ) [arisen-from-darkness](tamodbhūtam) [thus](iti) [of-bliss](ānandasya) [characteristic](lakṣaṇam)
+of-hasty setting-born thus-bliss's mark
