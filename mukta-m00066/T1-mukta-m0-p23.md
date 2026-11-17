@@ -2,76 +2,52 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p23-v551
-[ananda-tantra](ānaṃdataṃtre) [ca-eva-asmin](caivāsmin) [catvarah](catvāraḥ) [parama-iritah](paramīritāḥ)
-
+[pada](ānaṃdataṃtre) [pada](caivāsmin) [pada](catvāraḥ) [pada](paramīritāḥ)
 ## mukta-m0-p23-v552
-[tasmat](tasmāt) [catvarah](catvāraḥ) [ullasah](ullāsāḥ) [iha](iha) [proktah](proktāḥ) [maheshvari](maheśvari)
-
+[pada](tasmāccatvāra) [pada](ullāsā) [pada](iha) [pada](proktā) [pada](maheśvari)
 ## mukta-m0-p23-v553
-[tasmat](tasmāt) [ananda](ānaṃda) [pujayah](pūjāyāḥ) [malam-vyante](mālaṃvyaṃte) [tu](tu) [na](na) [trayah](trayaḥ)
-
+[pada](tasmādānaṃda) [pada](pūjāyā) [pada](mālaṃvyaṃte) [pada](tu) [pada](na) [pada](trayaḥ)
 ## mukta-m0-p23-v554
-[tatha](tathā) [tatha](tathā) [para-ananda](parānaṃda) [natha-vidyam](nāthavidyāṃ) [para-amrset](parāmṛśet)
-
+[pada](tathā) [pada](tathā) [pada](parānaṃda) [pada](nāthavidyāṃ) [pada](parāmṛśet)
 ## mukta-m0-p23-v555
-[dutyā](dūtyā) [samdhukshitah](saṃdhukṣitaḥ) [sva-atma](svātmā) [nanda-murtim](naṃdamūrttiṃ) [gurum](guruṃ) [smaret](smaret)
-
+[pada](dūtyā) [pada](saṃdhukṣita) [pada](svātmā) [pada](naṃdamūrttiṃ) [pada](guruṃ) [pada](smaret)
 ## mukta-m0-p23-v556
-[dvadasha-anta-gate](dvādaśāṃtagate) [rakta-shukla-pade](raktaśuklapāde) [vinikshipet](vinikṣipet)
-
+[pada](dvādaśāṃtagate) [pada](raktaśuklapāde) [pada](vinikṣipet)
 ## mukta-m0-p23-v557
-[shiva-tva-samrajya](śivatvasāmrājya) [pada-abhisiktam](padābhiṣiktaṃ) [svam](svaṃ) [vichintayet](viciṃtayet)
-
+[pada](śivatvasāmrājya) [pada](padābhiṣiktaṃ) [pada](svaṃviciṃtayet)
 ## mukta-m0-p23-v558
-[pashyan](paśyan) [pratyanga-mankura-danam](pratyaṃgamaṃkūradanaṃ) [gottu-ga-manasah](gottuṃgamānasaḥ)
-
+[pada](paśyan) [pada](pratyaṃgamaṃkūradanaṃ) [pada](gottuṃgamānasaḥ)
 ## mukta-m0-p23-v559
-[yatha](yathā) [yauvanam-ullasam](yauvanamullāsaṃ) [samprapnoti](saṃprāpnoti) [amba](aṃba) [dutika](dūtikā)
-
+[pada](yathā) [pada](yauvanamullāsaṃ) [pada](saṃprāpnotyaṃba) [pada](dūtikā)
 ## mukta-m0-p23-v560
-[alokana-ratih](ālokaneratiḥ) [sakshat](sākṣāt) [smite](smite) [jagarti](jāgarti) [jahnavi](jāhnavī)
-
+[pada](ālokaneratiḥ) [pada](sākṣāt) [pada](smite) [pada](jāgarti) [pada](jāhnavī)
 ## mukta-m0-p23-v561
-[ashvinau](aśvinau) [nasika-bhage](nāsikābhāge) [tu](tu) [oshthe](oṣṭhe) [ca](ca) [parama-amrtam](paramāmṛtam)
-
+[pada](aśvinau) [pada](nāsikābhāge) [pada](tvoṣṭhe) [pada](ca) [pada](paramāmṛtam)
 ## mukta-m0-p23-v562
-[svede](svede) [ca](ca) [varuni](vāruṇī) [devi](devī) [kama-nathah](kāmanāthaḥ) [tv-aham](tvahaṃ) [krttau](kṛtau)
-
+[pada](svede) [pada](ca) [pada](vāruṇī) [pada](devī) [pada](kāmanāthastvahaṃ) [pada](kṛtau)
 ## mukta-m0-p23-v563
-[stana-dvaye](stanadvaye) [meru-girih](merugirir) [nih](niḥ) [shabdah](śabdaṃ) [brahma-madhyame](brahmamadhyame)
-
+[pada](stanadvaye) [pada](merugirirnniḥ) [pada](śabdaṃ) [pada](brahmamadhyame)
 ## mukta-m0-p23-v564
-[vali-traye](valitraye) [ca](ca) [trailokyam](trailokyaṃ) [nabhi-garbhe](nābhigarbhe) [guha-ambika](guhāṃbikā)
-
+[pada](valitraye) [pada](ca) [pada](trailokyaṃ) [pada](nābhigarbhe) [pada](guhāṃbikā)
 ## mukta-m0-p23-v565
-[nakhesu](nakheṣu) [shitam](śītāṃ) [shu](śu) [kala-dor-mule](kalādormmūleṃ) [kusha-devatah](kuśadevatāḥ)
-
+[pada](nakheṣu) [pada](śītāṃ) [pada](śu) [pada](kalādormmūleṃkuśadevatāḥ)
 ## mukta-m0-p23-v566
-[kaveri](kāverī) [ca-eva](caiva) [nishvase](niśvāse) [goda-sit-kara](godāsītkāra) [karmani](karmaṇi)
-
+[pada](kāverī) [pada](caiva) [pada](niśvāse) [pada](godāsītkāra) [pada](karmaṇi)
 ## mukta-m0-p23-v567
-[amala-alapa-krtyesu](amalālāpakṛtyeṣu) [citta-vishranti](cittaviśrāṃti) [nayakah](nāyakā)
-
+[pada](amalālāpakṛtyeṣu) [pada](cittaviśrāṃti) [pada](nāyakā)
 ## mukta-m0-p23-v568
-[vakptih](vākptiḥ) [sukha-humkare](sukhahuṃkāre) [gishpati-ka-kuka-dhvane](gīṣpatīkākukādhvanau)
-
+[pada](vākptiḥ) [pada](sukhahuṃkāre) [pada](gīṣpatīkākukādhvanau)
 ## mukta-m0-p23-v569
-[indrah](iṃdraḥ) [citta-samunnatyam](cittasamunnatyām) [agnih](agnir) [vastu](vastu) [grasi-tvishi](grasītviṣi)
-
+[pada](iṃdraścittasamunnatyāmagnirvastu) [pada](grasītviṣi)
 ## mukta-m0-p23-v570
-[hasta-adi-calane](hastādicālane) [yajnah](yajñaḥ) [tu](tu) [ashlese](āśleṣe) [yajna-purushah](yajñapūruṣaḥ)
-
+[pada](hastādicālane) [pada](yajñastvāśleṣe) [pada](yajñapūruṣaḥ)
 ## mukta-m0-p23-v571
-[lasyam](lāsyaṃ) [ca](ca) [tandavam](tāṃḍavaṃ) [devi](devi) [tasyah](tasyāḥ) [deha-adi](dehādi) [ghurnane](ghūrṇane)
-
+[pada](lāsyaṃ) [pada](ca) [pada](tāṃḍavaṃ) [pada](devi) [pada](tasyā) [pada](dehādi) [pada](ghūrṇane)
 ## mukta-m0-p23-v572
-[tani](tāni) [sarvani](sarvāṇi) [varttate](varttate) [tasya](tasyāḥ) [gandusha-vastuni](gaṃḍūṣavastuni)
-
+[pada](tānisarvāṇi) [pada](varttate) [pada](tasyāgaṃḍūṣavastuni)
 ## mukta-m0-p23-v573
-[tat-phalam](tatphalaṃ) [labhate](labhate) [duti](dūtī) [sudha-gandusha](sudhāgaṃḍūṣa) [sevanat](sevanāt)
-
+[pada](tatphalaṃ) [pada](labhate) [pada](dūtī) [pada](sudhāgaṃḍūṣa) [pada](sevanāt)
 ## mukta-m0-p23-v574
-[gandusham](gaṃḍūṣam) [adiram](ādiraṃ) [devi](devī) [virasya](vīrasya) [ananda](ānaṃda) [varddhanam](varddhanam)
-
+[pada](gaṃḍūṣamādiraṃ) [pada](devī) [pada](vīrasyānaṃda) [pada](varddhanam)
 ## mukta-m0-p23-v575
-[nitya-klinna](nityaklinnā) [sudha](sudhā) [devi](devī) [rati](rati) [pritih](prītiḥ) [ca](ca) [tat-bhage](tadbhage)
+[pada](nityaklinnāsudhā) [pada](devī) [pada](rati) [pada](prītiśca) [pada](tadbhage)

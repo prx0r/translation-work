@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p28-v676
-[other](anye) [speak](vadaṃti) [in-mind](manasi) [supreme-wind](paremāruta) [said](ūcire)
+[others](anye) [say](vadaṃti) [in-mind](manasi) [supreme-wind](paremāruta) [said](ūcire)
 
 ## mukta-m0-p28-v677
-[opinions](matāni) [these](etāni) [beautiful](acāruṇi) [in-inquiry](vicāre) [commenced](saṃpravarttite)
+[views](matāni) [these](etāni) [beautiful](acāruṇi) [in-inquiry](vicāre) [initiated](saṃpravarttite)
 
 ## mukta-m0-p28-v678
-[mind's](manaso) [wind-and](marutaścaiva) [in-collision](saṃghaṭṭe) [power-dependence](vīryasaṃśrayā)
+[of-mind](manaso) [of-wind](marutaś) [and](ca) [indeed](eva) [in-union](saṃghaṭṭe) [power-reliance](vīryasaṃśrayā)
 
 ## mukta-m0-p28-v679
-[their](tayostu) [for-union](ghaṭanārthaṃ) [and](ca) [yoga-treatise](yogataṃtraṃ) [by-me-made](mayākṛtam)
+[of-them](tayoḥ) [and](tu) [for-union-purpose](ghaṭanārthaṃ) [ca](ca) [yoga-tantra](yogataṃtraṃ) [by-me-made](mayākṛtam)
 
 ## mukta-m0-p28-v680
-[by-passion](rajasā) [to-unite](vāyojayituṃ) [intellect-wind-union](dhīmarudghaṭanaṃ) [lord](prabhu)
+[by-passion](rajasā) [to-unite](vāyojayituṃ) [wise-wind-union](dhīmarudghaṭanaṃ) [lord](prabhu)
 
 ## mukta-m0-p28-v681
-[their-end](taṣāmaṃto) [not](na) [and](ca) [by-these](asyevataiḥ) [fruit](phalaṃ) [not](na) [indeed](hi) [possible](saṃbhavet)
+[of-them](taṣām) [end](aṃto) [not](na) [and](ca) [of-this](asya) [thus](evataiḥ) [fruit](phalaṃ) [not](na) [indeed](hi) [possible](saṃbhavet)
 
 ## mukta-m0-p28-v682
-[fierce-power](ugraśakti) [honey-tastes](madhusvādair) [increasingly](uttarottaram) [higher](uttaraiḥ)
+[fierce-power](ugraśakti) [honey-sweet](madhusvādair) [increasingly](uttarottaram) [increasingly](uttaraiḥ)
 
 ## mukta-m0-p28-v683
-[gauli](gaulī) [contact-strength](saṃparkabalinā) [intellect-wind-union-self](dhīmarudghaṭanātmanā)
+[gaulī](gaulī) [by-contact-strength](saṃparkabalinā) [wise-wind-union-self](dhīmarudghaṭanātmanā)
 
 ## mukta-m0-p28-v684
-[existing](vidyamāne) [but](tu) [in-heart](hṛdaye) [abode](nilaye) [union](ghaṭane) [again](punaḥ)
+[existing](vidyamāne) [but](tu) [in-heart](hṛdaye) [in-abode](nilaye) [in-union](ghaṭane) [again](punaḥ)
 
 ## mukta-m0-p28-v685
-[slight-breath-union](īṣaddhivāyughaṭanā) [with-sound-indeed](sasonaiva) [causer](prayojakaḥ)
+[slightly](īṣadd) [wind-union](hivāyughaṭanā) [with-soma](sasona) [indeed](eva) [causal](prayojakaḥ)
 
 ## mukta-m0-p28-v686
-[therefore](ataś) [of-mind](cittasya) [wind](maruto) [yoga](yogaḥ) [first](prathamam) [is-called](ucyate)
+[therefore](ataḥ) [of-mind](cittasya) [of-wind](maruto) [yoga](yogaḥ) [first](prathamam) [called](ucyate)
 
 ## mukta-m0-p28-v687
-[foot-joining](pādāṃjaliṃ) [or](vā) [element](dhātuḥ) [that](sa) [in-yoga](yoge) [that-difficult](taddurllabho) [becomes](bhavet)
+[lotus-feet](pādāṃjaliṃ) [or](vā) [of-element](dhātuḥ) [he](sa) [in-yoga](yoge) [that](tad) [difficult](durllabho) [becomes](bhavet)
 
 ## mukta-m0-p28-v688
-[sounds](nādaiś) [cagorakṣa-faces](cagorakṣamukhaiḥ) [this-treatise](taṃtrametat) [expanded](vitānatam)
+[by-sounds](nādaiś) [and](ca) [goraksha-faced](gorakṣamukhaiḥ) [tantra](taṃtram) [this](etat) [expanded](vitānatam)
 
 ## mukta-m0-p28-v689
-[by-yoga](yogena) [firm-power](stabdhavīryāś) [and](ca) [always-enjoyment](sadābhogān) [worship](upāsate)
+[by-yoga](yogena) [stilled-power](stabdhavīryāś) [ca](ca) [always](sadā) [enjoyment](bhogān) [worship](upāsate)
 
 ## mukta-m0-p28-v690
-[matsyendra](matsyeṃdra) [naga-goraksha](nāgorakṣaś) [four-limbed](caturaṃgī) [and](ca) [kandali](kaṃdalī)
+[matsyendra](matsyeṃdra) [naga-goraksha](nāgorakṣaś) [ca](ca) [four-limbed](caturaṃgī) [ca](ca) [kandalī](kaṃdalī)
 
 ## mukta-m0-p28-v691
-[capetika](capeṭiko) [top-child](cūḍabālaḥ) [and](tathā) [cow-boy](gobāla) [indeed](eva) [and](ca)
+[capeṭika](capeṭiko) [top-child](cūḍabālaḥ) [and](tathā) [cow-child](gobāla) [indeed](eva) [ca](ca)
 
 ## mukta-m0-p28-v692
-[vyala](vyālaḥ) [eranda](eraṇḍa) [named](nāmā) [and](ca) [winnowing-fan-breather](śūrpapāyī) [and](tathā) [other](paraḥ)
+[vyāla](vyālo) [heraṇḍa](heraṇḍa) [named](nāmā) [ca](ca) [winnow-flier](śūrpapāyī) [and](tathā) [other](paraḥ)
 
 ## mukta-m0-p28-v693
-[these-intellect-winds](etedhīrmaruto) [union](ghaṭṭaṃ) [time-drawing-capable](kālasaṃkarṣaṇakṣamam)
+[these](ete) [wise](dhīr) [winds](maruto) [union](ghaṭṭaṃ) [time-extraction-capable](kālasaṃkarṣaṇakṣamam)
 
 ## mukta-m0-p28-v694
 [breaking](khaṇḍayitvā) [time-staff](kāladaṇḍaṃ) [in-brahma-eggs](brahmāṃḍeṣu) [wander](caraṃti) [they](te)
 
 ## mukta-m0-p28-v695
-[that-essence](tatsārabhūtaṃ) [that-power-protection-purpose](tadvīryarakṣārthaṃ) [opinion-called](matamucyate)
+[that](tat) [essence](sāra) [being](bhūtaṃ) [that](tad) [power](vīrya) [protection-purpose](rakṣārthaṃ) [view](matam) [called](ucyate)
 
 ## mukta-m0-p28-v696
-[that-indeed](tameva) [yoga](yogaṃ) [supreme](paramaṃ) [yogis](yoginaḥ) [regard](samacakṣate)
+[that](tameva) [yoga](yogaṃ) [supreme](paramaṃ) [yogins](yoginaḥ) [regard](samacakṣate)
 
 ## mukta-m0-p28-v697
-[both-world-creation-makers](ubhaujagatsṛṣṭikarau) [which](yat) [mind-wind-lords](manomāruteśvarau)
+[both](ubhau) [world-creation-makers](jagatsṛṣṭikarau) [which](yan) [mind-wind-lords](manomāruteśvarau)
 
 ## mukta-m0-p28-v698
-[great-consciousness](mahāsaṃvit) [light-self](prakāśātma) [own-form-wealth-control](svarūpavasunigrahau)
+[great-consciousness](mahāsaṃvit) [manifestation-self](prakāśātma) [own-form](svarūpa) [vasu-control](vasunigrahau)
 
 ## mukta-m0-p28-v699
-[both](ubhau) [destroy](nāśayato) [body](deha) [gradually](krameṇa) [refined](pariśīlitau)
+[both](ubhau) [destroy](nāśayato) [body](deha) [gradually](krameṇa) [cultivated](pariśīlitau)
 
 ## mukta-m0-p28-v700
-[death-beings](mṛtyubhūtā) [these-two-indeed](vimāveva) [life-beings](prāṇabhūtā) [these-two](vimau) [again](punaḥ)
+[death-being](mṛtyubhūtā) [vimā](vimā) [indeed](eva) [life-being](prāṇabhūtā) [vimau](vimau) [again](punaḥ)
