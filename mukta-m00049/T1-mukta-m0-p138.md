@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p138-v3426
-[mantra-instrumental](mantreṇa) [deva-dative](devāya) [cloth-locative](vastre) [give-optative](dadyāt)
+[by-mantra](mantreṇa) [to-deity](devāya) [cloth](vastre) [should-give](dadyāt)
 
 ## mukta-m0-p138-v3427
-[mantra-accusative](mantram) [say-3sg](āha) [world-ornament](viśvābharaṇa) [being-dative](bhūtāya) [thus](iti)
+[mantra-says](mantramāha) [world-ornament](viśvābharaṇa) [to-being](bhūtāyeti)
 
 ## mukta-m0-p138-v3428
-[to-him-dative](tasmai) [supreme-self-dative](parātmane) [to-you-dative](tubhyaṃ) [supreme-accusative](paramaṃ) [scent-accusative](gandham) [offer-1sg](arpaye)
+[to-him](tasmai) [supreme-self](parātmane) [to-you](tubhyaṃ) [supreme](paramaṃ) [fragrance](gandhamarpaye)
 
 ## mukta-m0-p138-v3429
-[by-me-instrumental](mayā) [offered-accusative](niveditaṃ) [devotion-instrumental](bhaktyā) [flower-accusative](puṣpam) [this-accusative](etat) [be-received-imperative](pragṛhyatām)
+[by-me](mayā) [offered](niveditaṃ) [with-devotion](bhaktyā) [flower-this](puṣpametat) [be-received](pragṛhyatām)
 
 ## mukta-m0-p138-v3430
-[worthy-of-smelling-nominative](āghreyaḥ) [all-beings-genitive](sarvabhūtānāṃ) [incense-nominative](dhūpo) [nose-dative](ghrāṇāya) [to-you-dative](te) [be-offered-3sg](arpyate)
+[smellable](āghreyaḥ) [of-all-beings](sarvabhūtānāṃ) [incense](dhūpo) [for-nose](ghrāṇāya) [to-you-offered](te'rpyate)
 
 ## mukta-m0-p138-v3431
-[with-external-internal-light-nominative](sabāhyābhyantarajyotirdīpo) [this-nominative](ayaṃ) [be-received-imperative](pratigṛhyatām)
+[with-outer-inner-light](sabāhyābhyantarajyotirdīpo'yaṃ) [be-received](pratigṛhyatām)
 
 ## mukta-m0-p138-v3432
-[offer-1sg](nivedayāmi) [devotion-instrumental](bhaktyā) [this-accusative](idaṃ) [enjoy-imperative](juṣāṇa) [supreme-lord-vocative](parameśvara)
+[I-offer](nivedayāmi) [with-devotion-this](bhaktyedaṃ) [enjoy](juṣāṇa) [supreme-lord](parameśvara)
 
 ## mukta-m0-p138-v3433
-[all-satisfaction-causing-accusative](sarvatṛptikaraṃ) [pure-accusative](svaccham) [offer-1sg](arpayāmi) [salutation-nominative](namo) [be-3sg](astu) [to-you-dative](te)
+[all-satisfaction-making](sarvatṛptikaraṃ) [pure](svacchamarpayāmi) [bow-to-you](namo'stu te)
 
 ## mukta-m0-p138-v3434
-[betel-accusative](tāmbūlaṃ) [again-rinsing-accusative](punarācamyaṃ) [having-given](dattvā) [salutation-accusative](vandanam) [perform-optative](ācaret)
+[betel](tāmbūlaṃ) [again-rinse](punarācamyaṃ) [having-given](dattvā) [salutation-should-do](vandanamācaret)
 
 ## mukta-m0-p138-v3435
-[scent-accusative](gandhaṃ) [give-optative](dadyāt)
+[fragrance](gandhaṃ) [should-give](dadyāt)
 
 ## mukta-m0-p138-v3436
-[flower-accusative](puṣpam) [etcetera-instrumental](ityādinā) [mantra-instrumental](mantreṇa) [deva-dative](devāya) [flower-accusative](puṣpaṃ) [give-optative](dadyāt)
+[flower-etc](puṣpamityādinā) [by-mantra](mantreṇa) [to-deity](devāya) [flower](puṣpaṃ) [should-give](dadyāt)
 
 ## mukta-m0-p138-v3437
-[mantra-instrumental](mantreṇa) [deva-dative](devāya) [incense-accusative](dhūpaṃ) [give-optative](dadyāt)
+[by-mantra](mantreṇa) [to-deity](devāya) [incense](dhūpaṃ) [should-give](dadyāt)
 
 ## mukta-m0-p138-v3438
-[well-shining-etcetera-mantra-instrumental](suprakāśa+ityādimantreṇa) [deva-dative](devāya) [lamp-accusative](dīpaṃ) [give-optative](dadyāt)
+[bright-etc](suprakāśa ityādimantreṇa) [to-deity](devāya) [lamp](dīpaṃ) [should-give](dadyāt)
 
 ## mukta-m0-p138-v3439
-[food-offering-etcetera-instrumental](naivedyamityādinā) [deva-dative](devāya) [food-offering-accusative](naivedyaṃ) [give-optative](dadyāt)
+[food-offering-etc](naivedyamityādinā) [to-deity](devāya) [food-offering](naivedyaṃ) [should-give](dadyāt)
 
 ## mukta-m0-p138-v3440
-[give-optative](dadyāt) [or](vā) [separate-vessel-accusative](pṛthagādhāraṃ) [that-that-name-accusative](tattannāma) [reciting](samuccaran)
+[should-give-or](dadyādvā) [separate-vessel](pṛthagādhāraṃ) [each-name](tattannāma) [pronouncing](samuccaran)
 
 ## mukta-m0-p138-v3441
-[with-covering-accusative](sācchādanaṃ) [house-accusative](gṛhaṃ) [having-sprinkled](prokṣya) [read-optative](paṭhed) [this-accusative](enaṃ) [joined-palms-nominative](kṛtāñjaliḥ)
+[covered](sācchādanaṃ) [house](gṛhaṃ) [having-sprinkled](prokṣya) [should-recite-this](paṭhedenaṃ) [with-folded-hands](kṛtāñjaliḥ)
 
 ## mukta-m0-p138-v3442
-[deity-establishment-giving-locative](devatāsthitidāneṣu) [sumeru-like-nominative](sumerusadṛśo) [be-imperative](bhava)
+[in-deity-installation-gifts](devatāsthitidāneṣu) [like-meru](sumerusadṛśo) [be](bhava)
 
 ## mukta-m0-p138-v3443
-[that-nominative](yat) [by-you-instrumental](tvayā) [held-nominative](vidhṛto) [god-nominative](devas) [therefore](tasmāt) [you-nominative](tvaṃ) [god-worshipped-nominative](suravanditaḥ)
+[that](yat) [by-you](tvayā) [held](vidhṛto) [deity](devastasmāt) [you](tvaṃ) [god-praised](suravanditaḥ)
 
 ## mukta-m0-p138-v3444
-[illusion-held-body-genitive](māyavidhṛtadehasya) [of-that-genitive](tasya) [image-genitive](mūrter) [holding-ablative](vidhāraṇāt)
+[of-maya-held-body](māyavidhṛtadehasya) [of-that](tasya) [image-holding](mūrtervidhāraṇāt)
 
 ## mukta-m0-p138-v3445
-[all-desire-giving-nominative](sarvakāmaprado) [having-become](bhūtvā) [peace-accusative](śāntiṃ) [to-me-dative](me) [do-imperative](kuru) [to-you-dative](te) [salutation-nominative](namaḥ)
+[all-desires-giving](sarvakāmaprado) [having-become](bhūtvā) [peace](śāntiṃ) [to-me](me) [do](kuru) [to-you-bow](te namaḥ)
 
 ## mukta-m0-p138-v3446
-[of-self-genitive](ātmanaḥ) [desire-accusative](kāmam) [indicating](uddiśya) [give-optative](dadyāt) [deva-dative](devāya) [practitioner-nominative](sādhakaḥ)
+[for-self](ātmanaḥ) [desire](kāmamuddiśya) [should-give](dadyāddevāya) [to-deity](devāya) [adept](sādhakaḥ)
 
 ## mukta-m0-p138-v3447
-[this-accusative](enaṃ) [whom-accusative](kaṃ) [read-optative](paṭed) [thus](ityā) [expectation-locative](kāṅkṣāyām) [say-3sg](āha) [house-vocative](geha) [you-nominative](tvam) [etcetera](ityādi)
+[this](enaṃ) [which](kaṃ) [should-recite](paṭedityākāṅkṣāyāmāha) [house](geha) [you](tvamityādi)
 
 ## mukta-m0-p138-v3448
-[belly-locative](kukṣau) [belly-locative](udare)
+[in-belly](kukṣau) [in-stomach](udare)
 
 ## mukta-m0-p138-v3449
-[give-optative](dadyāt)
+[should-give](dadyāt)
 
 ## mukta-m0-p138-v3450
-[accept-imperative](aṅgīkuru) [great-lord-vocative](maheśāna) [grace-instrumental](kṛpayā) [be-presented-imperative](sannidhīyatām)
+[accept](aṅgīkuru) [great-lord](maheśāna) [by-grace](kṛpayā) [be-present](sannidhīyatām)
