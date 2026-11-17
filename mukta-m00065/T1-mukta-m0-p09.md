@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p09-v201
-[by-hearing](śrutena) [learned-and-also](śrotriyaścaiva) [brahmin](brāhmaṇo) [by-celibacy](brahmacaryataḥ)
+[by-study](śrutena) [learned](śrotriyaḥ) [and](ca) [indeed](eva) [brāhmaṇa](brāhmaṇaḥ) [by-celibacy](brahmacaryataḥ)
 
 ## mukta-m0-p09-v202
-[in-human-birth-commonness](manuṣyajātisāmānye) [what](ko) [hatred](vidveṣaḥ) [shiva-twice-born](śivadvije)
+[human-birth-common](manuṣyajātisāmānye) [who](ko) [hatred](vidveṣaḥ) [auspicious-twice-born](śivadvije)
 
 ## mukta-m0-p09-v203
-[not](na) [so](tathā) [of-brahmins-etc](brāhmaṇādīnāṃ) [therefore-birth-not-cause](tasmājjātirnakāraṇam)
+[not](na) [thus](tathā) [of-brāhmaṇas-etc](brāhmaṇādīnāṃ) [therefore](tasmāt) [birth](jātiḥ) [not-cause](nakāraṇam)
 
 ## mukta-m0-p09-v204
-[sacred-thread](upavītaṃ) [always](sadā) [to-be-worn](dhāryaṃ) [by-shaiva-teachers](śaivācāryairna) [not-by-others](cetaraiḥ)
+[sacred-thread](upavītaṃ) [always](sadā) [to-be-worn](dhāryaṃ) [by-śaiva-teachers](śaivācāryaiḥ) [not](na) [by-others](cetaraiḥ)
 
 ## mukta-m0-p09-v205
-[savitr](sāvitra) [thus](itthamī) [leaf](parṇā) [proclaimed](proktā) [various](nānā) [shiva-agama](śivāgame)
+[sāvitrī](sāvitraḥ) [thus](ittham) [leaf](parṇā) [declared](proktā) [various](nānā) [śiva-āgama](śivāgame)
 
 ## mukta-m0-p09-v206
-[of-two](dvayoḥ) [may-be-superiority](syājjyātirityuktaḥ) [savitr](sāvitrastu) [own-sphere](svagocaraḥ)
+[of-two](dvayoḥ) [may-be](syāt) [birth](jyātiḥ) [thus-said](ityuktaḥ) [sāvitrī](sāvitrastu) [own-sphere](svagocaraḥ)
 
 ## mukta-m0-p09-v207
-[with-banners-umbrellas](dhvajaiśchatrairyutāḥ) [all](sarve) [shaiva-teachers](śaivācāryā) [like-kings](nṛpā iva)
+[with-banners-umbrellas](dhvajaiśchatraiḥ) [yuta](yutāḥ) [all](sarve) [śaiva-teachers](śaivācāryāḥ) [kings](nṛpā) [like](iva)
 
 ## mukta-m0-p09-v208
-[may-be-increase](syādvṛddhirvijayaḥ) [peace](śāntirārogyaṃ) [dharma-increase](dharmavardhanam)
+[may-be-increase](syādvṛddhiḥ) [victory](vijayaḥ) [peace](śāntiḥ) [health](ārogyaṃ) [dharma-increase](dharmavardhanam)
 
 ## mukta-m0-p09-v209
-[by-life](āyuṣā) [by-fame](yaśasā) [by-lakshmi](lakṣmyā) [by-sons-grandsons-increases](putrapautrairvivardhate)
+[by-life](āyuṣā) [by-fame](yaśasā) [by-lakṣmī](lakṣmyā) [by-sons-grandsons](putrapautraiḥ) [grows](vivardhate)
 
 ## mukta-m0-p09-v210
-[for-so-many-thousands](tāvadya gasahasrāṇi) [in-rudra-world](rudraloke) [is-honored](mahīyate)
+[so-many-thousands](tāvadya-gasahasrāṇi) [in-rudra-world](rudraloke) [is-honored](mahīyate)
 
 ## mukta-m0-p09-v211
-[not-untimely](nākāle) [dies](mriyate) [maker](kartā) [afterwards](parataḥ) [shivahood](śivatāṃ) [goes](vrajet)
+[not-untimely](nākāle) [dies](mriyate) [doer](kartā) [afterwards](parataḥ) [śiva-state](śivatāṃ) [goes](vrajet)
 
 ## mukta-m0-p09-v212
-[place](padaṃ) [having-obtained](saṃprāpya) [of-rudra](rudrasya) [imperishable-happiness](sukhamakṣayamaśnute)
+[place](padaṃ) [having-attained](saṃprāpya) [of-rudra](rudrasya) [happiness](sukham) [imperishable](akṣayam) [enjoys](aśnute)
 
 ## mukta-m0-p09-v213
-[those-all](tāṃstu sarvān) [employ](prayuñjīta) [in-cruel-acts](krūrakarmasu) [always](sarvadā)
+[those](tāṃstu) [all](sarvān) [employ](prayuñjīta) [in-cruel-acts](krūrakarmasu) [always](sarvadā)
 
 ## mukta-m0-p09-v214
-[deformed](vikṛtāḥ) [spotted](śavalā) [fierce](raudrāḥ) [deceitful](śaṭhāḥ) [cruel](krūrāḥ) [bad-conducted](kuvṛttikāḥ)
+[deformed](vikṛtāḥ) [spotted](śavalāḥ) [fierce](raudrāḥ) [deceitful](śaṭhāḥ) [cruel](krūrāḥ) [bad-conduct](kuvṛttikāḥ)
 
 ## mukta-m0-p09-v215
-[harsh-voiced](vākkaṇṭhā) [tiger-like](baghiraḥ) [stout](sthūlāḥ) [bad-nailed](kunakhāśca) [bad-haired](kumūrdhajāḥ)
+[harsh-voiced](vākkaṇṭhāḥ) [tiger-like](baghiraḥ) [stout](sthūlāḥ) [bad-nails](kunakhāḥ) [bad-hair](kumūrdhajāḥ)
 
 ## mukta-m0-p09-v216
-[priests](purodhāḥ) [living-by-trade](paṇyajīvī) [and-merchants](vaṇijo) [alchemists](dhātuvādinaḥ)
+[priests](purodhāḥ) [living-by-trade](paṇyajīvī) [and](ca) [merchants](vaṇijaḥ) [alchemists](dhātuvādinaḥ)
 
 ## mukta-m0-p09-v217
-[crooked-nosed](vakranāsāṅgalamboṣṭhā) [fools](mūrkhāḥ) [trembling-limbed](spandanagātrakāḥ)
+[crooked-nose-lip](vakranāsāṅgalamboṣṭhāḥ) [fools](mūrkhāḥ) [trembling-limbs](spandanagātrakāḥ)
 
 ## mukta-m0-p09-v218
-[with-knots](granthaviplākā) [old](vṛddhā) [addicted](vyasanī) [fallen-from-vow](samayacyutaḥ)
+[with-knots](granthaviplākāḥ) [old](vṛddhāḥ) [addicted](vyasanī) [fallen-from-vow](samayacyutaḥ)
 
 ## mukta-m0-p09-v219
-[by-these](etaistu) [established](sthāpitā) [gods](devā) [destroyers-of-wealth-life-sons](dhanāyuḥ putranāśakāḥ)
+[by-these](etaistu) [established](sthāpitāḥ) [gods](devāḥ) [wealth-life-sons-destroyers](dhanāyuḥputranāśakāḥ)
 
 ## mukta-m0-p09-v220
-[boasters](katthakāḥ) [kaushikas](kauśikā) [born-there](stajjāstrikarṇādyāśca) [excluded](varjitāḥ)
+[boasters](katthakāḥ) [kuśika-descendants](kauśikāḥ) [born-there](stajjāḥ) [three-eared-etc](trikarṇādyāḥ) [and](ca) [excluded](varjitāḥ)
 
 ## mukta-m0-p09-v221
-[ascetics](sanyāsavratinaścānye) [not-eligible](sthāpane nādhikāriṇaḥ)
+[renunciants](sanyāsavratinaḥ) [and-others](cānye) [in-installation](sthāpane) [not-qualified](nādhikāriṇaḥ)
 
 ## mukta-m0-p09-v222
-[for-nirmalya-eating](nirmālyabhakṣyaṇārthaṃ) [tu](tu) [by-shamba-achyuta-son](śāmbenācyutasūnunā)
+[for-nirmālya-eating](nirmālyabhakṣyaṇārthaṃ) [tu](tu) [by-śāmba-acyuta-son](śāmbenācyutasūnunā)
 
 ## mukta-m0-p09-v223
-[shiva-etc](śivādīn) [establish](sthāpayennityaṃ) [self-born](svayambhūḥ) [lowest-man](sa narādhamaḥ)
+[śiva-etc](śivādīn) [install](sthāpayet) [always](nityaṃ) [self-born](svayambhūḥ) [he](sa) [lowest-man](narādhamaḥ)
 
 ## mukta-m0-p09-v224
-[he-again](sa punarbhūḥ) [to-be-known](parijñeyo) [to-be-avoided](varjanīyaḥ) [in-shiva-agama](śivāgame)
+[he](sa) [again](punar) [bhū](bhūḥ) [to-be-known](parijñeyaḥ) [to-be-avoided](varjanīyaḥ) [in-śiva-āgama](śivāgame)
 
 ## mukta-m0-p09-v225
-[pit](kuṇḍaḥ) [cruel-natured](krūrasvabhāvaḥsyānmṛte) [on-husband-death](patyau tu) [widow](golakaḥ)
+[kuṇḍa](kuṇḍaḥ) [cruel-nature](krūrasvabhāvaḥ) [may-be](syāt) [dead](mṛte) [husband](patyau) [tu](tu) [golaka](golakaḥ)

@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p11-v251
-[karoṭaṃ](karoṭaṃ) [muṇḍamālaṃ](muṇḍamālaṃ) [ca](ca) [kaṅkoṭaṃ](kaṅkoṭaṃ) [khaḍgarāvaṇam](khaḍgarāvaṇam)
+skull-bowl garland-of-skulls and snake-hood sword-roar
 
 ## mukta-m0-p11-v252
-[ghorāṭṭahāsamucchiṣṭaṃ](ghorāṭṭahāsamucchiṣṭaṃ) [ghurghuraṃ](ghurghuraṃ) [duṣṭatrāsakam](duṣṭatrāsakam)
+terrible-laugh-remainder ghurghura evil-frightening
 
 ## mukta-m0-p11-v253
-[yamaghaṇṭaṃ](yamaghaṇṭaṃ) [ca](ca) [bhūtāhvaṃ](bhūtāhvaṃ) [viṣabhedamajātajam](viṣabhedamajātajam)
+yama-bell and spirit-invocation poison-difference unborn-born
 
 ## mukta-m0-p11-v254
-[punarlakṣavibhedana](punarlakṣavibhedana) [grabhinnah](grabhinnah) [śāstrasaṅgrahaḥ](śāstrasaṅgrahaḥ)
+again-lakh-division broken scripture-collection
 
 ## mukta-m0-p11-v255
-[ṛṣibhyaḥ](ṛṣibhyaḥ) [mānuṣāḥ](mānuṣāḥ) [śiṣyāḥ](śiṣyāḥ) [sarvaśāstrāvatārakāḥ](sarvaśāstrāvatārakāḥ)
+from-sages humans disciples all-scripture-descenders
 
 ## mukta-m0-p11-v256
-[iti](iti) [sāmayikaṃ](sāmayikaṃ) [proktaṃ](proktaṃ) [śambhunāgamapañcakam](śambhunāgamapañcakam)
+thus conventional stated five-Shiva-serpent
 
 ## mukta-m0-p11-v257
-[ekatrabhojanaṃ](ekatrabhojanaṃ) [ghore](ghore) [vāme](vāme) [vāmāmṛtaṃ](vāmāmṛtaṃ) [tathā](tathā)
+single-place-eating in-terrible left left-nectar likewise
 
 ## mukta-m0-p11-v258
-[ācaret](ācaret) [samayān](samayān) [pañca](pañca) [yaḥ](yaḥ) [sa](sa) [ācārya](ācārya) [ucyate](ucyate)
+practices vows five who that teacher called
 
 ## mukta-m0-p11-v259
-[tadavaśyaṃ](tadavaśyaṃ) [hi](hi) [kartavyamanyathā](kartavyamanyathā) [patanaṃ](patanaṃ) [bhavet](bhavet)
+that-necessary indeed must-be-done otherwise fall occurs
 
 ## mukta-m0-p11-v260
-[ṣaṭkarmāṇi](ṣaṭkarmāṇi) [tu](tu) [kāryāṇi](kāryāṇi) [śivācāryeṇa](śivācāryeṇa) [no](no) [paraiḥ](paraiḥ)
+six-acts indeed to-be-done by-Shiva-teacher not by-others
 
 ## mukta-m0-p11-v261
-[dīkṣāṃ](dīkṣāṃ) [ca](ca) [sthāpanaṃ](sthāpanaṃ) [ceti](ceti) [ṣaṭkarmāṇi](ṣaṭkarmāṇi) [sadā](sadā) [guroḥ](guroḥ)
+initiation and installation etc six-acts always of-guru
 
 ## mukta-m0-p11-v262
-[krośān](krośān) [pañca](pañca) [parityajya](parityajya) [gurvādeśāttadācaret](gurvādeśāttadācaret)
+five-kroshas abandoning by-guru-command then-practice
 
 ## mukta-m0-p11-v263
-[sādhakaḥ](sādhakaḥ) [sādhayetsiddhirācāryo](sādhayetsiddhirācāryo) [dīkṣayetpaśūn](dīkṣayetpaśūn)
+practitioner accomplishes siddhi teacher initiates beasts
 
 ## mukta-m0-p11-v264
-[pratiṣṭhādikriyā](pratiṣṭhādikriyā) [tasya](tasya) [na](na) [pāṭhādagra](pāṭhādagra) [janmanaḥ](janmanaḥ)
+installation-etc action his not from-recitation-first birth
 
 ## mukta-m0-p11-v265
-[yuktiḥ](yuktiḥ) [saṃsūcyate](saṃsūcyate) [kācidyā](kācidyā) [coktā](coktā) [pārameśvare](pārameśvare)
+method hinted some which stated in-Parameshvara
 
 ## mukta-m0-p11-v266
-[nāśmādau](nāśmādau) [śivatā](śivatā) [tatra](tatra) [hyāṃśave](hyāṃśave) [dūrataḥ](dūrataḥ) [śivaḥ](śivaḥ)
+not-stone-first Shiva-ness there indeed in-ray far Shiva
 
 ## mukta-m0-p11-v267
-[cāṇḍālo'sāvabhojyānnaḥ](cāṇḍālo'sāvabhojyānnaḥ) [pātakī](pātakī) [nātra](nātra) [saṃśayaḥ](saṃśayaḥ)
+outcaste that inedible-food sinner no-here doubt
 
 ## mukta-m0-p11-v268
-[anyagotre](anyagotre) [kuśā](kuśā) [pātānnārakī](pātānnārakī) [syād](syād) [dvijādhamaḥ](dvijādhamaḥ)
+other-gotra kusha fallen hell-dweller twice-born-low
 
 ## mukta-m0-p11-v269
-[liṅgādisthāpakā](liṅgādisthāpakā) [ye](ye) [ca](ca) [te](te) [cāṇḍālasamā](cāṇḍālasamā) [dvijāḥ](dvijāḥ)
+linga-etc installers who and they outcaste-equal brahmins
 
 ## mukta-m0-p11-v270
-[mantavyo](mantavyo) [vipravacchūdraḥ](vipravacchūdraḥ) [śūdrātpāpatarastu](śūdrātpāpatarastu) [saḥ](saḥ)
+to-be-considered like-brahmin shudra than-shudra more-sinful indeed he
 
 ## mukta-m0-p11-v271
-[vṛttātsiddhā](vṛttātsiddhā) [vasiṣṭhādyā](vasiṣṭhādyā) [vyāsenoktaṃ](vyāsenoktaṃ) [ca](ca) [bhārate](bhārate)
+by-conduct siddhas Vasishtha-etc by-Vyasa stated in-Bharata
 
 ## mukta-m0-p11-v272
-[narake](narake) [patati](patati) [kṣipraṃ](kṣipraṃ) [kartā](kartā) [svapitṛbhiḥ](svapitṛbhiḥ) [saha](saha)
+into-hell falls quickly doer with-own-ancestors together
 
 ## mukta-m0-p11-v273
-[svabrāhmaṇyaṃ](svabrāhmaṇyaṃ) [gataṃ](gataṃ) [teṣāṃ](teṣāṃ) [brahmahatyāṃ](brahmahatyāṃ) [ca](ca) [saṃsthitam](saṃsthitam)
+own-brahminhood gone their brahmin-killing and established
 
 ## mukta-m0-p11-v274
-[te](te) [krūrā](krūrā) [dhvaṃsakā](dhvaṃsakā) [jñeyā](jñeyā) [yajamānakṣayāvahāḥ](yajamānakṣayāvahāḥ)
+they cruel destroyers known sacrifice-patron-destruction-bringing
 
 ## mukta-m0-p11-v275
-[dānārcanādyanarhaḥ](dānārcanādyanarhaḥ) [syādvinaṣṭā](syādvinaṣṭā) [brāhmaṇī](brāhmaṇī) [yathā](yathā)
+gift-worship-etc unworthy becomes destroyed brahmin-woman as
