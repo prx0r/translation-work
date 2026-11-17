@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p345-v8601
-[hear](śṛṇuyād) [desired](īpsitāṃ) [news](vārtāṃ) [distant](dūrasthām) [api](api) [sādhaka](sādhakaḥ)
+[hears-desired](śṛṇuyādīpsitāṃ) [news](vārtāṃ) [distant-also](dūrasthāmapi) [sādhaka](sādhakaḥ)
 
 ## mukta-m0-p345-v8602
-[aim](aiṃ) [hrīm](hrīṃ) [śrīm](śrīṃ) [klīm](klīṃ) [uttering-together](samuccārya) [sauṃklīṃhrīṃ](sauṃklīṃhrīṃ) [aim](aiṃ) [again-speak](punarvadet)
+[mantra](aiṃ) [mantra](hrīṃ) [mantra](śrīṃ) [mantra](klīṃ) [pronouncing-together](samuccārya) [mantra](sauṃklīṃhrīṃ) [mantra](aiṃ) [again-speaks](punarvadet)
 
 ## mukta-m0-p345-v8603
-[drāṃhrīṃklīṃblūṃ](drāṃhrīṃklīṃblūṃ) [he](sa) [uttering](uccāryya) [aiṃhrīṃśrīṃklīṃ](aiṃhrīṃśrīṃklīṃ) [again-speak](punarvadet)
+[mantra](drāṃhrīṃklīṃblūṃ) [he](sa) [pronouncing](uccāryya) [mantra](aiṃhrīṃśrīṃklīṃ) [again-speaks](punarvadet)
 
 ## mukta-m0-p345-v8604
-[brahmā](brahmā) [anuṣṭubh](anuṣṭupsarasvatyo) [munis](munyādyāḥ) [declared](parikīrttitāḥ)
+[brahmā](brahmā) [anuṣṭubh](anuṣṭupsarasvatyo) [munis-etc](munyādyāḥ) [declared](parikīrttitāḥ)
 
 ## mukta-m0-p345-v8605
-[nine-seats](navāsanāṃ) [serpent-ornament](sarppabhūṣāṃ) [doer](kartrīṃ) [and](cāpi) [skull](kapālakam)
+[nine-seats](navāsanāṃ) [serpent-ornament](sarppabhūṣāṃ) [maker-also](kartrīṃ) [and](cāpi) [skull](kapālakam)
 
 ## mukta-m0-p345-v8606
 [skull-garland-bearer](muṇḍamālādharāṃ) [three-eyed](tryakṣāṃ) [worship](bhaje) [blue-sarasvatī](nīlasarasvatīm)
 
 ## mukta-m0-p345-v8607
-[tenth-part](daśāṃśaṃ) [offer](juhuyāt) [worship](pūjāṃ) [seat](pīṭhe) [do](kuryyāt) [ca](ca) [said](socyate)
+[tenth-part](daśāṃśaṃ) [offers](juhuyāt) [worship](pūjāṃ) [seat](pīṭhe) [does-also](kuryyācca) [thus-said](socyate)
 
 ## mukta-m0-p345-v8608
-[twenty-two-petals](dvātriṃśatpatram) [middle](ante) [syāt](syāt) [sixty-four-petals](catuḥṣaṣṭidalaṃ) [thus](tathā)
+[thirty-two-petals](dvātriṃśatpatramante) [is](syāt) [sixty-four-petals](catuḥṣaṣṭidalaṃ) [thus](tathā)
 
 ## mukta-m0-p345-v8609
-[thus](evaṃ) [yantra](yantraṃ) [drawn](samālikhya) [outside](bāhyataḥ) [worship](pūjanaṃ) [perform](caret)
+[thus](evaṃ) [yantra](yantraṃ) [having-drawn](samālikhya) [outside](bāhyataḥ) [worship](pūjanaṃ) [performs](caret)
 
 ## mukta-m0-p345-v8610
-[air-corner](vāyukoṇe) [field-protector](kṣetrapālam) [northeast](aiśāne) [bhairava](bhairavaṃ) [thus](tathā)
+[wind-corner](vāyukoṇe) [field-protector](kṣetrapālam) [northeast](aiśāne) [bhairava](bhairavaṃ) [thus](tathā)
 
 ## mukta-m0-p345-v8611
-[earth-house](bhūgṛhasya) [first-line](ādyarekhāyām) [aṇimā](aṇimā) [laghimā](laghimā) [thus](tathā)
+[earth-house](bhūgṛhasyādyarekhāyāmaṇimā) [lightness](laghimā) [thus](tathā)
 
 ## mukta-m0-p345-v8612
-[garimā](garimā) [prāpti](prāptir) [ityetāḥ](ityetāḥ) [worship](pūjyāḥ) [east-etc](pūrvādidikkramāt)
+[heaviness](garimā) [attainment](prāptirityetāḥ) [worshipful](pūjyāḥ) [east-etc-direction-order](pūrvādidikkramāt)
 
 ## mukta-m0-p345-v8613
-[earth-house](bhūmigehe) [third](tṛtīyāyā) [line](rekhāyāṃ) [mothers](mātaraḥ) [again](punaḥ)
+[earth-house](bhūmigehe) [third](tṛtīyāyā) [line](rekhāyāṃ) [mothers](mātaraḥ) [brahmī](brāhmī) [maheśvarī](māheśvarī) [kaumārī](kaumārī) [vaiṣṇavī](vaiṣṇavī) [vārāhī](vārāhī) [indrāṇī](indrāṇī) [cāmuṇḍā](cāmuṇḍā) [mahālakṣmī](mahālakṣmīḥ) [these](imā) [eight](aṣṭau) [mothers](mātaraḥ) [again](punaḥ)
 
 ## mukta-m0-p345-v8614
-[sixty-four-petals](catuḥṣaṣṭidale) [lotus](padme) [śaktis](śaktīr) [worship](arccecca) [so-many](tāvatīḥ)
+[sixty-four-petals](catuḥṣaṣṭidale) [lotus](padme) [śaktis](śaktīrarccecca) [that-many](tāvatīḥ)
 
 ## mukta-m0-p345-v8615
-[umā](umā) [śrī](śrī) [śānti](śāntayaḥ) [caṇḍā](caṇḍā) [dhūmrā](dhūmrā) [kālī](kālī) [karālinī](karālinī)
+[umā](umā) [śrī](śrī) [peace](śāntayaścaṇḍā) [smoky](dhūmrā) [kālī](kālī) [karālinī](karālinī)
 
 ## mukta-m0-p345-v8616
-[vāgvādinī](vāgvādinī) [ca](ca) [nakulī](nakulī) [bhadrakālī](bhadrakālī) [moon-bright](śaśiprabhā)
+[speech-goddess](vāgvādinī) [and](ca) [nakulī](nakulī) [bhadrakālī](bhadrakālī) [moon-bright](śaśiprabhā)
 
 ## mukta-m0-p345-v8617
-[khecarī](khecarī) [bhūcarī](bhūcarī) [siddhā](siddhā) [kāmākṣī](kāmākṣī) [hiṃgulā](hiṃgulā) [balā](balā)
+[sky-goer](khecarī) [earth-goer](bhūcarī) [siddhā](siddhā) [kāmākṣī](kāmākṣī) [hiṃgulā](hiṃgulā) [balā](balā)
 
 ## mukta-m0-p345-v8618
-[vilāsinī](vilāsinī) [thus](tathā) [ghorā](ghorā) [citrā](citrā) [mugdhā](mugdhā) [dhaneśvarī](dhaneśvarī)
+[pleasure-loving](vilāsinī) [thus](tathā) [terrible](ghorā) [variegated](citrā) [infatuated](mugdhā) [wealth-lady](dhaneśvarī)
 
 ## mukta-m0-p345-v8619
-[vedagarbhā](vedagarbhā) [thus](tathā) [bhīmā](bhīmā) [ugrā](ugrā) [vaidyā](vaidyā) [ca](ca) [sadgatiḥ](sadgatiḥ)
+[veda-womb](vedagarbhā) [thus](tathā) [fierce](bhīmā) [ugrā](ugrā) [physician](vaidyā) [and](ca) [good-state](sadgatiḥ)
 
 ## mukta-m0-p345-v8620
-[kulikā](kulikā) [mālinī](mālinī) [kāmyā](kāmyā) [jñānavatī](jñānavatyatha) [ḍākinī](ḍākinī)
+[kulikā](kulikā) [mālinī](mālinī) [kāminī](kāminī) [iti](iti) [kvacitpāṭhaḥ](kvacitpāṭhaḥ) [kāmyā](kāmyā) [jñānavatī](jñānavatyatha) [ḍākinī](ḍākinī)
 
 ## mukta-m0-p345-v8621
-[hākinī](hākinī) [ca](ca) [sixty-four-śaktis](catuḥṣaṣṭiśaktayaḥ) [siddhi-giving](siddhidāyikāḥ)
+[hākinī](hākinī) [and](ca) [sixty-four-śaktis](catuḥṣaṣṭiśaktayaḥ) [siddhi-giving](siddhidāyikāḥ)
 
 ## mukta-m0-p345-v8622
-[twenty-two-petals](dvātriṃśatpatram) [middle](adhye) [tu](tu) [worship](pūjyā) [these](etās) [tu](tu) [śaktis](śaktayaḥ)
+[thirty-two-petals](dvātriṃśatpatramadhye) [middle](tu) [worshipful](pūjyā) [these](etāstu) [śaktis](śaktayaḥ)
 
 ## mukta-m0-p345-v8623
-[ūrdhvakeśī](ūrdhvakeśī) [ca](ca) [mātaṃgī](mātaṃgī) [mohinī](mohinī) [vaṃśavarddhinī](vaṃśavarddhinī)
+[upward-haired](ūrdhvakeśī) [and](ca) [mātaṃgī](mātaṃgī) [mohinī](mohinī) [lineage-increasing](vaṃśavarddhinī)
 
 ## mukta-m0-p345-v8624
-[śarvarī](śarvarī) [chatrahastā](chatrahastā) [ca](ca) [raktanetrā](raktanetrā) [vicarcikā](vicarcikā)
+[night](śarvarī) [umbrella-handed](chatrahastā) [and](ca) [red-eyed](raktanetrā) [vicarcikā](vicarcikā)
 
 ## mukta-m0-p345-v8625
-[śānti](śāntir) [vityā](vityā) [vajrahastā](vajrahastā) [dhūmrā](dhūmrā) [śvetā](śvetā) [sumaṅgalā](sumaṅgalā)
+[peace](śāntirvityā) [vajra-handed](vajrahastā) [smoky](dhūmrā) [white](śvetā) [auspicious](sumaṅgalā)

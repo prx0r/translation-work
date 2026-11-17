@@ -2,76 +2,52 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p332-v8276
-[from-head-to-throat-limit](mūrdhādikaṇṭhaparyyantaṃ) [mantra-syllables](mantrārṇān) [place](vinyaset) [wise-one](sudhīḥ)
-
+[head-etc-throat-until](mūrdhādikaṇṭhaparyyantaṃ) [mantra-syllables-place](mantrārṇānvinyaset) [wise-one](sudhīḥ)
 ## mukta-m0-p332-v8277
-[situated](sthitaḥ) [in-red-lotus](padmeruṇe) [three-eyed](tryakṣaḥ) [red-colored-ornamented](ruṇavarṇasubhūṣaṇaḥ)
-
+[standing](sthitaḥ) [lotus-red](padmeruṇe) [three-eyed-red-color-ornament](tryakṣoruṇavarṇasubhūṣaṇaḥ)
 ## mukta-m0-p332-v8278
-[previously-described](pūrvodite) [worship](yajet) [on-seat](pīṭhe) [nine-shakti-endowed](navaśaktisamanvite)
-
+[previously-said](pūrvodite) [worship](yajet) [seat](pīṭhe) [nine-shakti-endowed](navaśaktisamanvite)
 ## mukta-m0-p332-v8279
-[with-direction-guardians](dikpālaiḥ) [and](ca) [third](tṛtīyaṃ) [be](syāt) [fourth](caturthaṃ) [but](tu) [with-those-weapons](tadāyudhaiḥ)
-
+[direction-guardians](dikpālaiḥ) [and](ca) [third](tṛtīyaṃ) [be](syāt) [fourth](caturthaṃ) [but](tu) [those-weapons](tadāyudhaiḥ)
 ## mukta-m0-p332-v8280
-[ghee-smeared](ghṛtākta) [sweet-smeared](madhurākta) [and](ca) [barley-foods](yavānnaiḥ) [and-indeed](caiva) [such](tādṛśaiḥ)
-
+[ghee-smeared-sweet-smeared](ghṛtāktamadhurāktaiḥ) [and](ca) [barley-food](yavānnaiḥ) [and](ca) [eva](eva) [such](tādṛśaiḥ) [ghee-honey-smeared-barley](ghṛtamadhvaktairyavaiḥ)
 ## mukta-m0-p332-v8281
-[give](dadyāt) [previously-described](pūrvoditaṃ) [arghya](cārghyaṃ) [to-sun](dineśāya) [good-practitioner](susādhakaḥ)
-
+[give](dadyāt) [previously-said](pūrvoditaṃ) [arghya](cārghyaṃ) [sun](dineśāya) [good-sadhaka](susādhakaḥ)
 ## mukta-m0-p332-v8282
 [does](karoti) [jewel-cloth-etc-ornaments](ratnavastrādibhūṣaṇāni) [increase](vivardhayet)
-
 ## mukta-m0-p332-v8283
-[in-leaf-middle](patramadhye) [in-pericarp](karṇikāyāṃ) [them](tāṃś) [and](ca) [with-water](toyena) [fill](pūrayet)
-
+[leaf-middle](patramadhye) [pericarp](karṇikāyāṃ) [those](tāṃś) [and](ca) [water](toyena) [fill](pūrayet)
 ## mukta-m0-p332-v8284
-[for-other](prajapyānyeṣu) [those-mantras](tanmantrān) [hundred-times](śatakṛtvaḥ) [recite](japet) [wise-one](sudhīḥ)
-
+[recite](prajapyā) [others](anyeṣu) [those-mantras](tanmantrān) [hundred-times](śatakṛtvaḥ) [recite](japet) [wise](sudhīḥ)
 ## mukta-m0-p332-v8285
-[freed](mucyate) [not](na) [here](atra) [doubt](sandehaḥ) [practitioner](sādhakaḥ) [from-planet-defect](grahadoṣataḥ)
-
+[released](mucyate) [not](na) [here](atra) [doubt](sandehaḥ) [sadhaka](sādhako) [planet-defect](grahadoṣataḥ)
 ## mukta-m0-p332-v8286
-[planet-homa](grahahomaḥ) [to-be-done](prakarttavyaḥ) [of-planets](grahāṇāṃ) [indeed](vai) [for](kṛte) [so](tathā)
-
+[planet-homa](grahahomaḥ) [to-be-done](prakarttavyo) [planets](grahāṇāṃ) [indeed](vai) [for](kṛte) [thus](tathā)
 ## mukta-m0-p332-v8287
-[in-image-beginning](vigrahādau) [in-fear](bhaye) [and](ca) [api](api) [in-terrible-form](ghorarūpe) [in-great-disease](mahāgade)
-
+[image-etc](vigrahādau) [fear](bhaye) [and](ca) [api](api) [terrible-form](ghorarūpe) [great-disease](mahāgade)
 ## mukta-m0-p332-v8288
-[in-own-directions](svadikṣu) [and](ca) [fires](agnīn) [having-established](saṃsthāpya) [offer](juhuyāt) [and](ca) [with-excellent-kindling](samidvaraiḥ)
-
+[own-directions](svadikṣu) [and](ca) [fires](agnīn) [establish](saṃsthāpya) [offer](juhuyāt) [ca](ca) [fuel-best](samidvaraiḥ)
 ## mukta-m0-p332-v8289
-[from-shami-durva-kusha](śamīdūrvākuśodbhūtaiḥ) [in-order](kramāt) [homa](homaḥ) [proclaimed](samīritaḥ)
-
+[shami-durva-kusha-born](śamīdūrvākuśodbhūtaiḥ) [in-order](kramāt) [homa](homaḥ) [declared](samīritaḥ)
 ## mukta-m0-p332-v8290
-[at-end](ante) [and](ca) [with-other-utterances](anyavyāhṛtibhiḥ) [having-offered](hutvā) [homa](homaṃ) [complete](samāpayet)
-
+[end](ante) [and](ca) [other-vyahrti](anyavyāhṛtibhiḥ) [having-offered](hutvā) [homa](homaṃ) [complete](samāpayet)
 ## mukta-m0-p332-v8291
-[give](dadyāt) [and](ca) [feed](bhojayet) [brahmins](viprān) [in-battle](saṃgrāme) [victorious](vijayī) [become](bhavet)
-
+[give](dadyāt) [ca](ca) [feed](bhojayet) [brahmins](viprān) [battle](saṃgrāme) [victorious](vijayī) [become](bhavet)
 ## mukta-m0-p332-v8292
-[of-witchcraft-hostility-etc](kṛtyādrohārikāṇāṃ) [and](ca) [peace](śāntiḥ) [indeed](eva) [quickly](āśu) [arises](jāyate)
-
+[witchcraft-hostility](kṛtyādrohārikāṇāṃ) [ca](ca) [peace](śāntiḥ) [eva](eva) [quickly](āśu) [arise](jāyate)
 ## mukta-m0-p332-v8293
-[now](atha) [other](anyat) [I-will-declare](sampravakṣyāmi) [battle-victory-named](saṃgrāmavijayābhidham)
-
+[now](atha) [other](anyat) [declare](sampravakṣyāmi) [battle-victory-named](saṃgrāmavijayābhidham)
 ## mukta-m0-p332-v8294
-[all](sarvaṃ) [worship-etc](pūjādikaṃ) [and](ca) [of-this](asya) [auspicious-result-mantra-like](śreyojanakamantravat)
-
+[all](sarvaṃ) [worship-etc](pūjādikaṃ) [ca](ca) [asya](asya) [auspicious-benefit-mantra-like](śreyojanakamantravat)
 ## mukta-m0-p332-v8295
-[Brahma](brahmā) [sage](muniḥ) [declared](samuddiṣṭaḥ) [Gayatri](gāyatraṃ) [meter](chandaḥ) [is-called](ucyate)
-
+[brahma](brahmā) [sage](muniḥ) [declared](samuddiṣṭo) [gayatri](gāyatraṃ) [meter](chandaḥ) [called](ucyate)
 ## mukta-m0-p332-v8296
-[six-long](ṣaḍdīrgheṇa) [with-sa](sakāreṇa) [with-ham-before](haṃpūrveṇa) [six-limbed](ṣaḍaṅgakam)
-
+[six-long](ṣaḍdīrgheṇa) [with-sa](sakāreṇa) [ham-before](haṃpūrveṇa) [six-limbed](ṣaḍaṅgakam)
 ## mukta-m0-p332-v8297
-[with-hands-holding](karairdadhānaṃ) [lotus-seated](padmasthaṃ) [Hara](haraṃ) [in-Gauri-lap-seated](gauryyaṅkagambhaje)
-
+[hands-holding](karairdadhānaṃ) [lotus-seated](padmasthaṃ) [hara](haraṃ) [gauri-lap-seated](gauryyaṅkagambhaje)
 ## mukta-m0-p332-v8298
-[there](tatra) [god](devaṃ) [worship](yajet) [image](mūrtiṃ) [with-root](mūlena) [having-conceived](ākalpya) [mantra-knower](mantravit)
-
+[there](tatra) [god](devaṃ) [worship](yajet) [image](mūrtiṃ) [root](mūlena) [having-conceived](ākalpya) [mantra-knower](mantravit)
 ## mukta-m0-p332-v8299
-[season](ṛtuṃ) [wealth](vasuṃ) [man](naraṃ) [and](ca) [api](api) [other](paraṃ) [and](ca) [in-intermediate-directions](vidiśāsu) [and](ca)
-
+[season](ṛtuṃ) [vasu](vasuṃ) [man](naraṃ) [ca](ca) [api](api) [other](paraṃ) [ca](ca) [intermediate-directions](vidiśāsu) [ca](ca)
 ## mukta-m0-p332-v8300
-[then](tato) [world-lords](lokeśvarān) [and](ca) [api](api) [before-that](tadagre) [and](ca) [weapons](āyudhāni) [also](api)
+[then](tato) [world-lords](lokeśvarān) [ca](ca) [api](api) [that-front](tadagre) [ca](ca) [weapons](āyudhāni) [api](api)

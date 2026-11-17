@@ -8,7 +8,7 @@
 "tokens": [
 {
 "surface": "sadyovagāhanaṃ",
-"quick_gloss": "sudden-immersion"
+"quick_gloss": "immediate-immersion"
 },
 {
 "surface": "kṛtvā",
@@ -20,7 +20,7 @@
 },
 {
 "surface": "vicakṣaṇaḥ",
-"quick_gloss": "expert"
+"quick_gloss": "wise-one"
 }
 ]
 },
@@ -32,12 +32,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "ṣaṇmāsāt",
-"quick_gloss": "six-months"
-},
-{
-"surface": "mriyate",
-"quick_gloss": "dies"
+"surface": "ṣaṇmāsānmriyate",
+"quick_gloss": "six-months-from"
 },
 {
 "surface": "śatruḥ",
@@ -45,7 +41,7 @@
 },
 {
 "surface": "sandhyayorubhayorapi",
-"quick_gloss": "at-both-twilight-times"
+"quick_gloss": "at-both-twilights"
 }
 ]
 },
@@ -58,19 +54,15 @@
 "tokens": [
 {
 "surface": "uṣṭrāsthnā",
-"quick_gloss": "with-camel-bone"
+"quick_gloss": "with-camel-bone-and-corpse-charcoal"
 },
 {
-"surface": "ca",
-"quick_gloss": "and"
+"surface": "śatroḥ",
+"quick_gloss": "of-enemy"
 },
 {
-"surface": "śavāṅgāraiḥ",
-"quick_gloss": "corpse-charcoal"
-},
-{
-"surface": "śatroruccāṭanaṃ",
-"quick_gloss": "enemy-expulsion"
+"surface": "uccāṭanaṃ",
+"quick_gloss": "expulsion"
 },
 {
 "surface": "bhavet",
@@ -87,7 +79,7 @@
 "tokens": [
 {
 "surface": "annaiḥ",
-"quick_gloss": "with-food"
+"quick_gloss": "with-foods"
 },
 {
 "surface": "samidbhiḥ",
@@ -107,7 +99,7 @@
 },
 {
 "surface": "vicakṣaṇaḥ",
-"quick_gloss": "expert"
+"quick_gloss": "wise-one"
 }
 ]
 },
@@ -152,8 +144,12 @@
 "quick_gloss": "always"
 },
 {
-"surface": "aṣṭottaraṃ-śatam",
+"surface": "aṣṭottaraṃ",
 "quick_gloss": "one-hundred-eight"
+},
+{
+"surface": "śatam",
+"quick_gloss": "hundred"
 }
 ]
 },
@@ -203,7 +199,7 @@
 },
 {
 "surface": "bhayāpaham",
-"quick_gloss": "fear-removal"
+"quick_gloss": "fear-removing"
 }
 ]
 },
@@ -216,18 +212,22 @@
 "tokens": [
 {
 "surface": "medhāvī",
-"quick_gloss": "wise"
+"quick_gloss": "intelligent"
 },
 {
 "surface": "ca",
 "quick_gloss": "and"
 },
 {
-"surface": "bhavedvāgmī",
+"surface": "bhavet",
+"quick_gloss": "becomes"
+},
+{
+"surface": "vāgmī",
 "quick_gloss": "eloquent"
 },
 {
-"surface": "tāvaj",
+"surface": "tāvat",
 "quick_gloss": "so-long"
 },
 {
@@ -293,8 +293,8 @@
 "quick_gloss": "in-hand"
 },
 {
-"surface": "yathā-vidhipuraḥsaram",
-"quick_gloss": "as-prescribed"
+"surface": "yathāvidhipuraḥsaram",
+"quick_gloss": "as-ritual-before"
 }
 ]
 },
@@ -319,7 +319,7 @@
 },
 {
 "surface": "yakārādīn",
-"quick_gloss": "from-ya-onward"
+"quick_gloss": "from-ya-onwards"
 },
 {
 "surface": "nyaset",
@@ -340,7 +340,7 @@
 "tokens": [
 {
 "surface": "candrabimbaṃ",
-"quick_gloss": "moon-disk"
+"quick_gloss": "moon-disc"
 },
 {
 "surface": "likhet",
@@ -352,7 +352,7 @@
 },
 {
 "surface": "tasyordhvaṃ",
-"quick_gloss": "above-it"
+"quick_gloss": "above-that"
 },
 {
 "surface": "pratimāṃ",
@@ -398,7 +398,7 @@
 "tokens": [
 {
 "surface": "paritoṣya",
-"quick_gloss": "having-pleased"
+"quick_gloss": "having-satisfied"
 },
 {
 "surface": "ca",
@@ -414,7 +414,7 @@
 },
 {
 "surface": "asitāṅgādibhairavān",
-"quick_gloss": "dark-limbed-bhairavas"
+"quick_gloss": "dark-limbed-Bhairavas"
 }
 ]
 },
@@ -430,7 +430,7 @@
 "quick_gloss": "up-to-lokeśa"
 },
 {
-"surface": "yajed",
+"surface": "yajet",
 "quick_gloss": "should-worship"
 },
 {
@@ -463,7 +463,7 @@
 "quick_gloss": "in-pot-middle"
 },
 {
-"surface": "nyased",
+"surface": "nyaset",
 "quick_gloss": "should-place"
 },
 {
@@ -472,7 +472,7 @@
 },
 {
 "surface": "dakṣiṇe",
-"quick_gloss": "to-the-right"
+"quick_gloss": "to-right"
 },
 {
 "surface": "śriyaṃ",
@@ -500,7 +500,7 @@
 "quick_gloss": "root-mantra"
 },
 {
-"surface": "japen",
+"surface": "japet",
 "quick_gloss": "should-chant"
 },
 {
@@ -518,14 +518,14 @@
 "tokens": [
 {
 "surface": "mahāśāntikare",
-"quick_gloss": "great-peace-maker"
+"quick_gloss": "great-peace-doing"
 },
 {
 "surface": "yasmāt",
 "quick_gloss": "because"
 },
 {
-"surface": "iti-śeṣaḥ",
+"surface": "itiśeṣaḥ",
 "quick_gloss": "remainder"
 },
 {
@@ -534,7 +534,7 @@
 },
 {
 "surface": "duḥkhadāridryanāśanaḥ",
-"quick_gloss": "suffering-poverty-destruction"
+"quick_gloss": "sorrow-poverty-destruction"
 }
 ]
 },
@@ -551,23 +551,19 @@
 },
 {
 "surface": "kuberāya",
-"quick_gloss": "to-kubera"
+"quick_gloss": "to-Kubera"
 },
 {
 "surface": "vaiśravaṇāya",
-"quick_gloss": "to-vaiśravaṇa"
+"quick_gloss": "to-Vaiśravaṇa"
 },
 {
 "surface": "vaded",
 "quick_gloss": "should-say"
 },
 {
-"surface": "vaiśravaṇāya",
-"quick_gloss": "to-vaiśravaṇa"
-},
-{
 "surface": "ca",
-"quick_gloss": "and"
+"quick_gloss": "mantra"
 }
 ]
 },
@@ -595,8 +591,8 @@
 "quick_gloss": "should-say"
 },
 {
-"surface": "dāpayā",
-"quick_gloss": "cause-to-give"
+"surface": "dāpaya",
+"quick_gloss": "give"
 },
 {
 "surface": "agnipriyāntakaḥ",
@@ -620,36 +616,8 @@
 "quick_gloss": "bṛhatī"
 },
 {
-"surface": "yakṣāya-hṛdayāya-namaḥ",
-"quick_gloss": "yakṣa-heart"
-},
-{
-"surface": "kuberāya-śirase-svāhā",
-"quick_gloss": "kubera-head"
-},
-{
-"surface": "vaiśravaṇāya-śikhāyai-vaṣaṭ",
-"quick_gloss": "vaiśravaṇa-crest"
-},
-{
-"surface": "dhanadhānyādhipataye-kavacāya-hum",
-"quick_gloss": "wealth-lord-armor"
-},
-{
-"surface": "dhanadhānyasamṛddhiṃ-me-netratrayāya-vauṣaṭ",
-"quick_gloss": "wealth-prosperity-to-me"
-},
-{
-"surface": "dehi-dāpaya-svāhā-astrāyaphaṭ",
-"quick_gloss": "give-cause-to-give-svāhā-astrāya-phaṭ"
-},
-{
-"surface": "tryabdhī",
-"quick_gloss": "three-oceans"
-},
-{
-"surface": "ṣṭāṣṭāgaiḥ",
-"quick_gloss": "eight-eight"
+"surface": "tryabdhīṣvaṣṭāṣṭāgaiḥ",
+"quick_gloss": "mantra"
 },
 {
 "surface": "ṣaḍaṅgakam",
@@ -666,23 +634,15 @@
 "tokens": [
 {
 "surface": "varaṅgadāñca",
-"quick_gloss": "beautiful-armlet"
-},
-{
-"surface": "ca",
-"quick_gloss": "and"
+"quick_gloss": "excellent-armlet"
 },
 {
 "surface": "dadhat",
-"quick_gloss": "holding"
+"quick_gloss": "should-wear"
 },
 {
-"surface": "tantu",
-"quick_gloss": "thread"
-},
-{
-"surface": "dilaṃ",
-"quick_gloss": "dila"
+"surface": "tantundilaṃ",
+"quick_gloss": "threaded"
 },
 {
 "surface": "yakṣasevitam",
@@ -702,12 +662,12 @@
 "quick_gloss": "on-dharma-seat"
 },
 {
-"surface": "prayajed",
+"surface": "prayajet",
 "quick_gloss": "should-worship"
 },
 {
 "surface": "aṅgalokeśahetikam",
-"quick_gloss": "aṅga-lokeśa-weapon"
+"quick_gloss": "world-lord-weapon"
 }
 ]
 },

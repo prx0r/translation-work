@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p369-v9201
-[having-bathed](snātvā) [red-garment-wearer](raktāmbaradharo) [red-garland-anointed](raktamālyānulepanaḥ)
+[having-bathed](snātvā) [red+garment+wearing](raktāmbaradharo) [red+garland+anointed](raktamālyānulepanaḥ)
 
 ## mukta-m0-p369-v9202
-[beautiful](sundarīṃ) [youth-overcome](yauvanākrāntāṃ) [five-men-going](narapañcakagāminīm)
+[beautiful](sundarīṃ) [youth-overcome](yauvanākrāntāṃ) [man-five-going](narapañcakagāminīm)
 
 ## mukta-m0-p369-v9203
-[naked](vivastrāṃ) [having-worshipped](pūjayitvā) [and-ten-thousand](cāyutaṃ) [should-recite](prajapet) [mantra](manum)
+[naked](vivastrāṃ) [having-worshipped](pūjayitvā) [her](enāṃ) [ten-thousand](cāyutaṃ) [should-chant](prajapet) [mantra](manum)
 
 ## mukta-m0-p369-v9204
-[should-feed](bhojayet) [various](vividhaiḥ) [foods](annaiḥ) [brahmins](brāhmaṇān) [deity-thought](devatādhiyā)
+[should-feed](bhojayet) [various+foods](vividhairannair) [brahmins](brāhmaṇān) [deity-thought](devatādhiyā)
 
 ## mukta-m0-p369-v9205
-[woman](nārīm) [long-life](āyuściraṃ) [dharma](dharmam) [desired](iṣṭam) [other](anyat) [obtains](avāpnuyāt)
+[woman](nārīm) [long-life](āyuściraṃ) [dharma](dharmmam) [desired+other](iṣṭamanyad) [would-obtain](avāpnuyāt)
 
 ## mukta-m0-p369-v9206
-[in-desires](manoratheṣu) [and-other](cānyeṣu) [goes](gacchet) [that](tām) [recites](prajapet) [mantra](manum)
+[manorathas](manoratheṣu) [and+others](cānyeṣu) [would-go](gacchet) [that](tāṃ) [should-chant](prajapet) [mantra](manum)
 
 ## mukta-m0-p369-v9207
-[scripture-knowledge](śāstrajñānam) [sin-destruction](pāpanāśaḥ) [all-happiness](sarvasaukhyaṃ) [obtains](labhet) [certainly](dhruvam)
+[scripture-knowledge](śāstrajñānaṃ) [sin-destruction](pāpanāśaḥ) [all-happiness](sarvasaukhyaṃ) [would-obtain-certainly](labheddhruvam)
 
 ## mukta-m0-p369-v9208
-[limb-month-between](aṅgamāsāntare) [mantra-user](mantrī) [by-poetry](kavitvena) [conquers](jayet) [poet](kavim)
+[limb-in-middle](aṅgamāsāntare) [mantrin](mantrī) [by-poetry](kavitvena) [would-conquer-poet](jayetkavim)
 
 ## mukta-m0-p369-v9209
-[māyā](māyā) [tāra-paṭa](tārapaṭāṃ) [in-mantra](mantre) [recite](japed) [hundred-eight](aṣṭottaraṃ) [hundred](śatam)
+[māyā](māyā) [tāra-paṭa](tārapaṭāṃ) [mantra](mantre) [should-chant](japed) [one-hundred-eight](aṣṭottaraṃ) [hundred](śatam)
 
 ## mukta-m0-p369-v9210
-[this](eṣa) [certainly](nūnaṃ) [rite](vidhiḥ) [secret](gopyaḥ) [by-siddhi-desiring](siddhikāmena) [by-mantra-user](mantriṇā)
+[this](eṣa) [indeed](nūnaṃ) [rite](vidhiḥ) [secret](gopyaḥ) [siddhi-desiring](siddhikāmena) [by-mantrin](mantriṇā)
 
 ## mukta-m0-p369-v9211
-[now](atha) [will-say](vakṣye) [sixteen-syllable](ṣoḍaśārṇam) [four-fold](caturbhedaṃ) [best-mantra](manūttamam)
+[now](atha) [will-speak](vakṣye) [sixteen-syllable](ṣoḍaśārṇaṃ) [four-fold](caturbhedaṃ) [mantra-best](manūttamam)
 
 ## mukta-m0-p369-v9212
-[burning's](dahanasya) [tithi](tithiḥ) [varṇa](varṇo) [lakṣmī-bīja-etc](lakṣmībījādiko) [śrīṃ bījamādau saṃyojya pūrvoktamantro dhanāptikara iti bhāvaḥ || ] [for-wealth](dhane)
+[of-fire](dahanasya) [tithi](tithir) [varṇa](varṇo) [lakṣmī-bīja-etc](lakṣmībījādiko) [wealth](dhane)
 
 ## mukta-m0-p369-v9213
 [speech-bīja-etc](vāgbījādyena) [liberation](mokṣaḥ) [would-be](syāt) [four](catvāraḥ) [praṇava-etc](praṇavādikāḥ)
 
 ## mukta-m0-p369-v9214
-[worshippable](upāsyāḥ) [four-āmnāyas](caturāmnāyaiḥ) [sage](munir) [brahmā](brahmā) [declared](samīritaḥ)
+[to-be-worshipped](upāsyāḥ) [four-āmnāyas](caturāmnāyair) [sage](munir) [brahmā](brahmā) [declared](samīritaḥ)
 
 ## mukta-m0-p369-v9215
-[of-dharma-etc](dharmmārthakāmamokṣāṇāṃ) [guru](gurur) [indeed](eva) [refuge](samāśrayaḥ)
+[of-dharma-artha-kāma-mokṣa](dharmmārthakāmamokṣāṇāṃ) [guru](gurur) [indeed](eva) [refuge](samāśrayaḥ)
 
 ## mukta-m0-p369-v9216
-[gives](dadāti) [eight](aṣṭau) [great-siddhis](mahāsiddhīḥ) [what-more](kimpunaḥ) [small](kṣullakāḥ) [dear](priyāḥ)
+[gives](dadāti) [eight](aṣṭau) [great-siddhis](mahāsiddhīḥ) [what-then](kimpunaḥ) [small](kṣullakāḥ) [dear](priyāḥ)
 
 ## mukta-m0-p369-v9217
-[desired-rite](kāmyakarmmaṇi) [everywhere](sarvatra) [meditation](dhyānaṃ) [would-be](syāt) [flower-colored](puṣpavarṇakam)
+[desire-rite](kāmyakarmmaṇi) [everywhere](sarvatra) [meditation](dhyānaṃ) [would-be](syāt) [flower-colored](puṣpavarṇakam)
 
 ## mukta-m0-p369-v9218
-[always](sadākālaṃ) [recite](japet) [mantra](mantram) [of-distressed](āpattasya) [not](na) [exists](vidyate)
+[always](sadākālaṃ) [should-chant-mantra](japenmantram) [of-afflicted](āpattasya) [no](na) [knowledge](vidyate)
 
 ## mukta-m0-p369-v9219
-[paralyze](stambhayet) [animals-weapons](paśuśastrāṇi) [as-long-as](yāvat) [fist](muṣṭiṃ) [not](na) [releases](muñcati)
+[would-stupefy](stambhayet) [animals-weapons](paśuśastrāṇi) [until-fist](yāvanmuṣṭiṃ) [not](na) [releases](muñcati)
 
 ## mukta-m0-p369-v9220
-[released](vimucyate) [by-force](haṭhāt) [diseases](rogān) [disease-free](muktarogaḥ) [happy](sukhī) [becomes](bhavet)
+[is-released](vimucyate) [suddenly](haṭhāt) [from-disease](rogān) [freed-from-disease](muktarogaḥ) [happy](sukhī) [would-be](bhavet)
 
 ## mukta-m0-p369-v9221
-[meditation-worship-etc](dhyānapūjādikaṃ) [as-before](prāgvat) [somewhat](kiñcit) [desired](kāmyam) [is-declared](udīryyate)
+[meditation-worship-etc](dhyānapūjādikaṃ) [as-before](prāgvat) [something](kiñcit) [desire](kāmyam) [is-declared](udīryyate)
 
 ## mukta-m0-p369-v9222
-[great-serpent-bitten](mahoragasatairdaṣṭaṃ) [dead](mṛtam) [raise](utthāpayet) [man](naraḥ)
+[great-serpent-bitten](mahoragasatairdaṣṭaṃ) [dead](mṛtam) [would-raise](utthāpayet) [man](naraḥ)
 
 ## mukta-m0-p369-v9223
-[by-yellow](pītena) [paralyze](stambhayet) [always](nityaṃ) [boat-horse-elephant-etc](naukāvājigajādikam)
+[by-yellow](pītena) [would-stupefy](stambhayet) [always](nityaṃ) [boat-horse-elephant-etc](naukāvājigajādikam)
 
 ## mukta-m0-p369-v9224
-[kill](mārayet) [even](api) [effortlessly](ayatnena) [black-meditation](kṛṣṇadhyānāt) [no-doubt](na) [saṃśayaḥ]
+[would-kill](mārayet) [even](api) [without-effort](ayatnena) [by-black-meditation](kṛṣṇadhyānāt) [no](na) [doubt](saṃśayaḥ)
 
 ## mukta-m0-p369-v9225
-[with-ghee](ghṛtena) [with-honey](madhunā) [or](vā) [api](api) [with-liquor](surayā) [there](tatra) [practitioner](sādhakaḥ)
+[by-ghee](ghṛtena) [by-honey](madhunā) [or](vāpi) [by-liquor](surayā) [there](tatra) [sādhaka](sādhakaḥ)

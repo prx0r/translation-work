@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p452-v11276
-[to-be-remembered](smartavyāḥ) [gold-jewel-etc-bearing](svarṇaratnādidharā) [milk-shining-hands](dugdhalasatkarāḥ)
+[to-be-remembered](smartavyāḥ) [gold-jewel-etc-bearing](svarṇaratnādidharā) [milk-lustrous-handed](dugdhalasatkarāḥ)
 
 ## mukta-m0-p452-v11277
-[then-fierce](tatogre) [direction-lords-gods](dikpatīndevān) [should-worship-also](pūjayedapi) [as-before](pūrvavat)
+[then](tato) [in-front](agre) [direction-lords](dikpatīn) [gods](devān) [worship](pūjayet) [also](api) [as-before](pūrvavat)
 
 ## mukta-m0-p452-v11278
-[previously-described-manner](pūrvoditaprakāreṇa) [seat-installation-ending](pīṭhanyāsāvasānakam)
+[previously-stated](pūrvodita) [by-method](prakāreṇa) [seat](pīṭha) [placement](nyāsa) [ending](avasānakam)
 
 ## mukta-m0-p452-v11279
-[three-breath-controls](prāṇāyāmatrayaṃ) [having-done](kṛtvā) [sage-etc-installation](ṛṣyādinyāsam) [should-perform](ācaret)
+[breath-control](prāṇāyāma) [three](trayaṃ) [having-done](kṛtvā) [sage-etc](ṛṣyādi) [placement](nyāsam) [perform](ācaret)
 
 ## mukta-m0-p452-v11280
-[pervading](vyāpakaṃ) [root-mantra](mūlamantreṇa) [having-placed](vinyasya) [and](ca) [from-hand-again](karātpunaḥ)
+[pervading](vyāpakaṃ) [by-root-mantra](mūlamantreṇa) [placing](vinyasya) [and](ca) [from-hand](karāt) [again](punaḥ)
 
 ## mukta-m0-p452-v11281
-[wrapped](puṭitaṃ) [root-mantra](mūlamantreṇa) [like-mātṛkā](mātṛkāvat) [should-place](pravinyaset)
+[folded](puṭitaṃ) [by-root-mantra](mūlamantreṇa) [like-mātṛkā](mātṛkāvat) [place-properly](pravinyaset)
 
 ## mukta-m0-p452-v11282
-[at-image-cage-place](mūrtipañjarakasthāne) [image-cage](mūrtipañjaram) [should-perform](ācaret)
+[image](mūrti) [cage](pañjara) [in-place](sthāne) [image](mūrti) [cage](pañjaram) [perform](ācaret)
 
 ## mukta-m0-p452-v11283
-[with-cow-dung](gomayenopaliptāyāṃ) [on-ground](bhūmau) [seat](pīṭhaṃ) [should-place](pravinyaset)
+[with-cow-dung](gomayena) [smeared](upaliptāyāṃ) [on-ground](bhūmau) [seat](pīṭhaṃ) [place](pravinyaset)
 
 ## mukta-m0-p452-v11284
-[desire-seed](kāmabījaṃ) [in-pericarp](karṇikāyāṃ) [with-accomplished](sasādhyaṃ) [should-draw-then](sulikhettataḥ)
+[desire-seed](kāmabījaṃ) [in-pericarp](karṇikāyāṃ) [with-sādhya](sasādhyaṃ) [draw-well](sulikhet) [then](tataḥ)
 
 ## mukta-m0-p452-v11285
-[indra-rākṣasa-wind](śakrarākṣasavāyūnāṃ) [in-corner](koṇe) [śrī-seed](śrībījam) [should-draw](ālikhet)
+[Indra](śakra) [demon](rākṣasa) [wind](vāyu) [in-corner](koṇe) [śrī-seed](śrībīja) [draw](ālikhet)
 
 ## mukta-m0-p452-v11286
-[in-corner-junctions](koṇasandhiṣu) [six-syllable-mantra](ṣaḍvarṇamantrasya) [one-by-one](ekaikam) [syllable](akṣaram)
+[at-corner-junctions](koṇasandhiṣu) [six-syllable](ṣaḍvarṇa) [of-mantra](mantrasya) [one-each](ekaikam) [letter](akṣaram)
 
 ## mukta-m0-p452-v11287
-[outside-eight-petaled](bahiraṣṭadalaṃ) [lotus](padmaṃ) [in-filaments](keśareṣu) [thrice-thrice](triśastriśaḥ)
+[outer-eight-petaled](bahiraṣṭadalaṃ) [lotus](padmaṃ) [in-filaments](keśareṣu) [thrice-thrice](triśastriśaḥ)
 
 ## mukta-m0-p452-v11288
-[should-draw-desire](sulikhetkāmataḥ) [afterwards](paścād) [syllables](varṇān) [then](atha) [in-petals](daleṣu) [and](ca)
+[draw-well](sulikhet) [by-desire](kāmataḥ) [afterwards](paścāt) [letters](varṇān) [then](atha) [in-petals](daleṣu) [and](ca)
 
 ## mukta-m0-p452-v11289
-[should-draw-syllables](likhedvarṇān) [steadiness-petal](dhṛtidale) [outside-circle-pair](bahirvṛttadvayaṃ) [should-draw](likhet)
+[draw](likhet) [letters](varṇān) [dhṛti](dhṛti) [petal](dale) [outer-two-circles](bahirvṛttadvayaṃ) [draw](likhet)
 
 ## mukta-m0-p452-v11290
-[in-earth-city](dharāpure) [four-directions](caturdikṣu) [ramā](ramāṃ) [māyā](māyāṃ) [and](ca) [corner-going](koṇagām)
+[in-earth-city](dharāpure) [in-four-directions](caturdikṣu) [Ramā](ramāṃ) [Māyā](māyāṃ) [and](ca) [corner-going](koṇagām)
 
 ## mukta-m0-p452-v11291
-[properly-worship](samyaksaṃpūjya) [should-recite](prajaped) [held](dhṛtaṃ) [and](ca) [by-best-men](manujottamaiḥ)
+[properly](samyak) [worship](saṃpūjya) [recite](prajapet) [held](dhṛtaṃ) [and](ca) [by-best-men](manujottamaiḥ)
 
 ## mukta-m0-p452-v11292
-[I-do](karomi) [world-worshipful](lokapūjyaṃ) [him](taṃ) [king-subjection](rājavaśyaṃ) [and](ca) [always](sarvadā)
+[I-do](karomi) [world-worshipped](lokapūjyaṃ) [him](taṃ) [king-subjugation](rājavaśyaṃ) [and](ca) [always](sarvadā)
 
 ## mukta-m0-p452-v11293
-[there](tatra) [image](mūrtti) [having-prepared](prakalpyāsyāṃ) [black](kṛṣṇam) [having-invoked](āvāhya) [should-worship](pūjayet)
+[there](tatra) [image](mūrti) [having-established](prakalpya) [in-this](asyāṃ) [Kṛṣṇa](kṛṣṇam) [invoking](āvāhya) [worship](pūjayet)
 
 ## mukta-m0-p452-v11294
-[from-fourth-limb](caturthe'ṅgācca) [to-root](mūlāntaṃ) [ornaments-etc](bhūṣaṇādi) [should-worship](prapūjayet)
+[fourth](caturthe) [from-limb](aṅgāt) [and](ca) [to-root-end](mūlāntaṃ) [ornaments-etc](bhūṣaṇādi) [worship](prapūjayet)
 
 ## mukta-m0-p452-v11295
-[right-raised-hand](dakṣordhvahaste) [to-discus](cakrāya) [left-raised](vāmordhve) [to-conch](kambave) [homage](namaḥ)
+[right](dakṣa) [upper](ūrdhva) [hand](haste) [to-discus](cakrāya) [left](vāma) [upper](ūrdhve) [to-conch](kambave) [salutation](namaḥ)
 
 ## mukta-m0-p452-v11296
-[from-shoulder-to-foot](skandhādipādaparyantaṃ) [navel-within-above](nābhyantopari) [garland](mālikām)
+[shoulder](skandha) [etc](ādi) [foot](pāda) [up-to](paryantaṃ) [navel](nābhi) [end](anta) [above](upari) [garland](mālikām)
 
 ## mukta-m0-p452-v11297
-[in-six](ṣaṭsu) [eastern-corner](pūrvādikoṇeṣu) [six-limbs](ṣaḍaṅgāni) [should-worship](samarcayet)
+[in-six](ṣaṭsu) [east-etc](pūrvādi) [in-corners](koṇeṣu) [six-limbs](ṣaḍaṅgāni) [worship](samarcayet)
 
 ## mukta-m0-p452-v11298
-[peace](śāntiṃ) [prosperity](śriyaṃ) [bhāratī](bhāratīṃ) [and](ca) [desire](ratiṃ) [in-direction-petal-filament](digdalakeśare)
+[peace](śāntiṃ) [Śrī](śriyaṃ) [Bhāratī](bhāratīṃ) [and](ca) [Rati](ratiṃ) [direction-petal](digdala) [in-filament](keśare)
 
 ## mukta-m0-p452-v11299
-[right-left-order](dakṣavāmakramāt) [afterwards](paścād) [god-of-gods](devadevaṃ) [should-worship](samarcayet)
+[right](dakṣa) [left](vāma) [in-order](kramāt) [afterwards](paścāt) [god-of-gods](devadevaṃ) [worship](samarcayet)
 
 ## mukta-m0-p452-v11300
-[in-petal-tips](dalāgrasthāstataḥ) [then](tataḥ) [worshipable](pūjyāḥ) [worshipable](pūjanīyāḥ) [in-order](kramādamī) [these](amī)
+[petal-tip](dalāgra) [situated](sthāḥ) [then](tataḥ) [worshippable](pūjyāḥ) [to-be-worshipped](pūjanīyāḥ) [in-order](kramāt) [these](amī)

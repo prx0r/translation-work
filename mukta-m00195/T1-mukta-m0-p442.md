@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p442-v11026
-[thus](evaṃ) [few](katipayaiḥ)+[months](māsaiḥ) [barren-woman](vandhyā)+[even](api) [obtains](labhate) [son](sutam)
+[thus](evaṃ) [few](katipayaiḥ) [months](māsaiḥ) [barren-woman](vandhyā) [even](api) [obtains](labhate) [son](sutam)
 
 ## mukta-m0-p442-v11027
-[silence](maunaṃ) [having-made](kṛtvā) [drinks](pibet)+[woman](nārī) [before](prāk)+[year](varṣāt) [obtains](labhate) [son](sutam)
+[silence](maunaṃ) [having-made](kṛtvā) [should-drink](piben) [woman](nārī) [before-year-obtains](prāgvarṣāllabhate) [son](sutam)
 
 ## mukta-m0-p442-v11028
-[having-conquered](parājitya)+[self-wheel](ātmacakreṇa) [kāśī](kāśīṃ) [that-born](tadbhava)+[fire](vahninā)
+[having-conquered](parājitya) [by-self-wheel](ātmacakreṇa) [Kashi](kāśīṃ) [by-that-born-fire](tadbhavavahninā)
 
 ## mukta-m0-p442-v11029
-[should-offer](juhuyāt)+[night](niśi) [with-siddhārtha](siddhārthaiḥ) [own](svīya)+[oil](taila)+[agitated](vilolitaiḥ)
+[should-offer](juhuyāt) [at-night](niśi) [with-sesame-seeds](siddhārthaiḥ) [with-own-oil-anointed](svīyatailavilolitaiḥ)
 
 ## mukta-m0-p442-v11030
-[rite](kṛtyā) [more](bhūyas)+[that](tameva)+[quickly](āśu) [destroys](kṣapayet)+[here](nātra) [doubt](saṃśayaḥ)
+[witchcraft](kṛtyā) [more](bhūyas) [that](tam) [indeed](eva) [quickly](āśu) [destroys](kṣapayet) [not](na) [here](atra) [doubt](saṃśayaḥ)
 
 ## mukta-m0-p442-v11031
-[ghaṇṭākarṇa](ghaṇṭākarṇaṃ) [and](ca) [with-hands](hastābhyāṃ) [touching](spṛśantaṃ) [should-remember](saṃsmaret)+[hari](harim)
+[bell-eared](ghaṇṭākarṇam) [and](ca) [with-hands](hastābhyām) [touching](spṛśantam) [remember](saṃsmaret) [Hari](harim)
 
 ## mukta-m0-p442-v11032
-[for-destruction](nāśārthaṃ)+[all](aśeṣa)+[sins](pāpa) [for-nourishment](puṣṭyarthaṃ) [and](ca) [should-chant](japet)+[thus](tathā)
+[for-destruction-of-all-sins](aśeṣapāpanāśārthaṃ) [for-nourishment](puṣṭyarthaṃ) [and](ca) [should-chant](japet) [so](tathā)
 
 ## mukta-m0-p442-v11033
-[running](dhāvamānaṃ) [enemy-troops](ripugaṇam)+[pursuing](anudhāvantaṃ) [swift](āśugam)
+[running](dhāvamānaṃ) [dhāvu gatiśuddhyorityataḥ śānac ||](dhāvu gatiśuddhyorityataḥ śānac ||) [enemy-host-pursuing](ripugaṇamanudhāvantam) [swift](āśugam)
 
 ## mukta-m0-p442-v11034
-[within-seven-days](saptāhāt) [of-enemies](vairiṇāṃ) [again](bhūyo) [expulsion](uccāṭaḥ) [from-region](deśataḥ) [becomes](bhavet)
+[after-seven-days](saptāhāt) [of-enemies](vairiṇām) [more](bhūyas) [indeed](hi) [expulsion](uccāṭaḥ) [from-place](deśataḥ) [becomes](bhavet)
 
 ## mukta-m0-p442-v11035
-[kṛṣṇa](kṛṣṇaṃ) [having-meditated](dhyātvā)+[ten-thousand](ayutaṃ) [chanted](japtaḥ) [mantra](manuḥ) [enemy-destroying](uccāṭakṛt)+[foe](ripoḥ)
+[Krishna](kṛṣṇam) [having-meditated](dhyātvā) [ten-thousand](ayutam) [chanted](japtah) [mantra](manuh) [causing-expulsion](uccāṭakṛt) [of-enemy](ripoḥ)
 
 ## mukta-m0-p442-v11036
-[ten-thousand](ayutaṃ) [should-chant](prajapet)+[mantra](mantraṃ) [or](vā) [offer](hunet)+[equal](tatsamaṃ) [wise](budhaḥ)
+[ten-thousand](ayutam) [should-chant](prajapet) [mantra](mantram) [should-offer](hunet) [or](vā) [equal-to-that](tatsamaṃ) [wise-one](budhaḥ)
 
 ## mukta-m0-p442-v11037
-[enemy](śatruḥ) [death](nidhanam)+[obtains](āpnoti) [nectar-drinker](sudhābhakṣaḥ)+[even](api) [not-otherwise](nānyathā)
+[enemy](śatruḥ) [death](nidhanam) [obtains](āpnoti) [nectar-drinker](sudhābhakṣaḥ) [even](api) [not](na) [otherwise](anyathā)
 
 ## mukta-m0-p442-v11038
-[night](yāminyā)+[ten-thousand](ayutaṃ) [healthy](svasthaḥ) [enemy](ripuḥ) [yama-city](yamapuraṃ) [goes](vrajet)
+[at-night](yāminyām) [ten-thousand](ayutam) [healthy](svasthaḥ) [enemy](ripuḥ) [Yama-city](yamapuram) [goes](vrajet)
 
 ## mukta-m0-p442-v11039
-[thus](evaṃ) [oil](tailaṃ)+[and](tu) [should-offer](juhuyāt)+[cremation-ground](śmaśāne) [night](niśi) [for-killing](māraṇe)
+[thus](evam) [oil](tailam) [indeed](tu) [should-offer](juhuyāt) [at-cremation-ground](śmaśāne) [at-night](niśi) [for-killing](māraṇe)
 
 ## mukta-m0-p442-v11040
-[should-offer](hunet)+[ca](ca) [that-much](tāvat)+[oblation](haviṣā) [for-removal](nivṛttaye)+[that](tat)+[sin](pātaka)
+[should-offer](hunec) [and](ca) [so-much](tāvat) [with-ghee](haviṣā) [for-removal-of-that-sin](tatpātakanivṛttaye)
 
 ## mukta-m0-p442-v11041
-[kṛṣṇa](kṛṣṇaṃ) [meditating](dhyāyan)+[chanting](japan)+[lakṣa](lakṣaṃ) [everywhere](sarvataḥ) [victory](jayam)+[obtains](āpnuyāt)
+[Krishna](kṛṣṇam) [meditating](dhyāyan) [chanting-lakh](japallakṣam) [everywhere](sarvataḥ) [victory](jayam) [obtains](āpnuyāt)
 
 ## mukta-m0-p442-v11042
-[meditating](dhyātvā) [of-dharma](dharmasya) [increase](vṛddhiḥ) [becomes](syāt)+[yoga-siddhi](yogasiddhiḥ)+[and](ca) [arises](jāyate)
+[having-meditated](dhyātvā) [of-dharma](dharmasya) [increase](vṛddhiḥ) [may-be](syāt) [yoga-accomplishment](yogasiddhiḥ) [and](ca) [arises](jāyate)
 
 ## mukta-m0-p442-v11043
-[with-three-sweets](trisvāduyuktaiḥ) [lakṣa](lakṣaṃ) [who](yaḥ) [with-kaṇḍaka-fruits](kaṇḍakaprasavaiḥ)+[offers](hunet)
+[with-three-sweets](trisvāduyuktaiḥ) [lakh](lakṣam) [who](yaḥ) [with-thorn-fruits](kaṇḍakaprasavaiḥ) [should-offer](hunet)
 
 ## mukta-m0-p442-v11044
-[great-poet](mahākaviḥ) [he](sa) [lord-of-speech](vāgīśaḥ) [veda-vedāṅga](vedavedāṅga)+[knower](pāragaḥ)
+[great-poet](mahākaviḥ) [he](sa) [lord-of-speech](vāgīśaḥ) [master-of-Vedas-and-ancillaries](vedavedāṅgapāragaḥ)
 
 ## mukta-m0-p442-v11045
-[body-house-town-village-dwelling-protection](dehagehapuragrāmavāsturakṣā) [becomes](bhavet)+[certainly](dhruvam)
+[protection-of-body-house-city-village-site](dehagehapuragrāmavāsturakṣā) [becomes](bhavet) [certainly](dhruvam)
 
 ## mukta-m0-p442-v11046
-[forest](āraṇya)+[compassionate](kāruṇaiḥ) [flowers](puṣpaiḥ)+[midday](madhyāhne) [by-rite](vidhinā)+[should-worship](arcayet)
+[with-forest-red](āraṇyakāruṇaiḥ) [with-flowers](puṣpaiḥ) [at-noon](madhyāhne) [by-rite](vidhinā) [should-worship](arcayet)
 
 ## mukta-m0-p442-v11047
-[hari](hariṃ) [in-house](gṛhe) [should-chant](japet)+[eight-thousand](aṣṭasahasraṃ) [brāhmaṇa-subduing](dvijavaśyakṛt)
+[Hari](harim) [at-home](gṛhe) [should-chant](japet) [eight-thousand](sāṣṭasahasram) [making-brahmins-submissive](dvijavaśyakṛt)
 
 ## mukta-m0-p442-v11048
-[kṛṣṇa](kṛṣṇam)+[having-worshipped](abhyarcya) [kings](nṛpatīn)+[subdues](vaśannayati) [like-servant](dāsavat)
+[Krishna](kṛṣṇam) [having-worshipped](abhyarcya) [kings](nṛpatīn) [subjection](vaśam) [leads](nayati) [like-servant](dāsavat)
 
 ## mukta-m0-p442-v11049
-[here](atra) [should-meditate](dhyāyet)+[ca](ca) [singing](gāyantaṃ) [śrīkṛṣṇa](śrīkṛṣṇaṃ) [people-enchanting](janamohanam)
+[here](atra) [should-meditate](dhyāyet) [and](ca) [singing](gāyantam) [Sri-Krishna](śrīkṛṣṇam) [enchanter-of-people](janamohanam)
 
 ## mukta-m0-p442-v11050
-[daily](anvahaṃ) [seven-hundred](saptaśatakaṃ) [having-offered](hutvā) [that-ash](tadbhasma) [should-wear](dhārayet)
+[daily](anvaham) [seven-hundred](saptaśatakam) [having-offered](hutvā) [that-ash](tadbhasma) [should-wear](dhārayet)
