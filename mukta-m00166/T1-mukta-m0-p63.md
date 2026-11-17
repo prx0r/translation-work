@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p63-v1551
-[womb](garbha) [support](ādhāra) [bearer](dharā) [goddess](devī)
+[womb-support-bearer](garbhādhāradharā)
 
 ## mukta-m0-p63-v1552
-[womb](garbhaṃ) [would-hold](dadhyāt) [not](na) [if](cet) [would-do](kuryāt) [womb-support-bearer](garbhādhāradharā) [compassion](dayām)
+[embryo](garbhaṃ) [meditate](dadhyāt) [not](na) [if](cet) [do](kuryāt) [womb-support-bearer](garbhādhāradharā) [compassion](dayām)
 
 ## mukta-m0-p63-v1553
-[empty](śūnyā) [goddess](devī) [form](rūpa) [supreme](parā)
+[empty](śūnyā)
 
 ## mukta-m0-p63-v1554
-[empty](śūnyā) [thus](iti) [she](sā) [how](kathaṃ) [called](gītā) [always-full](sadāpūrṇā) [great-lady](maheśvarī)
+[empty-thus](śūnyeti) [she](sā) [how](kathaṃ) [sung](gītā) [ever-full](sadāpūrṇā) [great-lady](maheśvarī)
 
 ## mukta-m0-p63-v1555
-[womb-abode-dweller](garbhāśayanivāsinī) [goddess](devī) [form](rūpa) [supreme](parā)
+[womb-abode-dweller](garbhāśayanivāsinī)
 
 ## mukta-m0-p63-v1556
-[of-womb](garbhasya) [tenth](daśamāḥ) [these](sva) [she](eṣā) [womb-abode-dweller](garbhāśayanivāsinī)
+[of-embryo](garbhasya) [tenth](daśamāḥ) [these](sveṣā) [womb-abode-dweller](garbhāśayanivāsinī)
 
 ## mukta-m0-p63-v1557
-[demon-foe-slayer](surārighātinī) [rite](kṛtyā) [goddess](devī) [form](rūpa)
+[demon-enemy-slayer](surārighātinī) [rite](kṛtyā)
 
 ## mukta-m0-p63-v1558
-[demon-foe-slayer](surārighātinī) [rite](kṛtyā) [by-compassion](kṛpayā) [own](nijayā) [becomes](bhavet)
+[demon-enemy-slayer](surārighātinī) [rite](kṛtyā) [by-compassion](kṛpayā) [own](nijayā) [may-be](bhavet)
 
 ## mukta-m0-p63-v1559
-[putana](pūtanā) [demoness](dānavī) [form](rūpa) [goddess](devī)
+[putana](pūtanā)
 
 ## mukta-m0-p63-v1560
-[strong](balī) [having-become](bhūtvā) [struck-demons](ahanaddaityān) [weak](abalaḥ) [putana](pūtaneti) [she](sā)
+[strong](balī) [having-become](bhūtvā) [slain-demons](hanaddaityān) [weak](abalaḥ) [putana-thus](pūtaneti) [she](sā)
 
 ## mukta-m0-p63-v1561
-[tilottama](tilottamā) [apsaras](apsaras) [form](rūpa) [goddess](devī)
+[tilottama](tilottamā)
 
 ## mukta-m0-p63-v1562
-[whose](yasyāḥ) [auspicious](śivāyāḥ) [tu](tu) [tilottama](tilottameti) [she](sā)
+[whose](yasyāḥ) [of-shiva-may-be](śivāyāstu) [tilottama-thus](tilottameti) [she](sā)
 
 ## mukta-m0-p63-v1563
-[shame](lajjā) [goddess](devī) [form](rūpa) [supreme](parā)
+[shame](lajjā)
 
 ## mukta-m0-p63-v1564
-[shame](lajjā) [not](na) [know](jāne) [supreme-lady](parameśvarī) [you](tvam)
+[shame](lajjā) [not](na) [I-know](jāne) [supreme-lady](parameśvarī) [you](tvam)
 
 ## mukta-m0-p63-v1565
-[rasavati](rasavatī) [goddess](devī) [form](rūpa) [supreme](parā)
+[juice-possessing](rasavatī)
 
 ## mukta-m0-p63-v1566
-[essence-only-remainder](rasamātrāvaśeṣaḥ) [if](syāt) [cet](cet) [would-be](syāt) [rasavati](rasavatī) [compassion](dayā)
+[juice-only-remainder](rasamātrāvaśeṣaḥ) [if-be](syāccet) [would-be](syāt) [juice-possessing](rasavatī) [compassion](dayā)
 
 ## mukta-m0-p63-v1567
-[nanda](nandā) [goddess](devī) [form](rūpa) [supreme](parā)
+[nanda](nandā)
 
 ## mukta-m0-p63-v1568
 [how](kathaṃ) [not](na) [would-be](syuḥ) [people](janāḥ) [all](sarve) [by-whom](yena) [nanda](nandā) [worshipped](samarcitā)
 
 ## mukta-m0-p63-v1569
-[bhavani](bhavānī) [goddess](devī) [form](rūpa) [supreme](parā)
+[bhavani](bhavānī)
 
 ## mukta-m0-p63-v1570
-[may-you-be](bhavatvaṃ) [new-joy-heap](navānandarāśiṃ) [beautiful](sucitram)
+[be-you](bhavatvaṃ) [new-joy-heap](navānandarāśiṃ) [very-wonderful](sucitram)
 
 ## mukta-m0-p63-v1571
-[sin-destroyer](pāpanāśinī) [goddess](devī) [form](rūpa) [supreme](parā)
+[sin-destroyer](pāpanāśinī)
 
 ## mukta-m0-p63-v1572
-[whose](yadīyayā) [auspicious](śivā) [this](seyam) [praised](kīrtitā) [sin-destroyer](pāpanāśinī)
+[whose](yadīyayā) [shiva](śivā) [she-this](seyam) [praised](kīrtitā) [sin-destroyer](pāpanāśinī)
 
 ## mukta-m0-p63-v1573
-[silk-garment-wearer](paṭṭāmbaradharā) [goddess](devī) [form](rūpa) [supreme](parā)
+[silk-garment-wearer](paṭṭāmbaradharā)
 
 ## mukta-m0-p63-v1574
-[blue-lotus-attached](nīlotpalinyupāsaktā) [lotus-like](padminīva) [shines](virājate)
+[blue-lotus](nīlotpalinī) [attached](upāsaktā) [lotus-like](padminīva) [shines](virājate)
 
 ## mukta-m0-p63-v1575
-[song](gītiḥ) [goddess](devī) [form](rūpa) [supreme](parā)
+[song](gītiḥ)

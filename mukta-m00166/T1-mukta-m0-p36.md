@@ -5,73 +5,73 @@
 [faith](śraddhā)
 
 ## mukta-m0-p36-v877
-[that-abode](taddhāma) [to-awaken](saṃbodhayituṃ) [capable](samarthā) [faith](śraddhā) [always](sadā) [she](sā) [intoxication](mamadā) [let-be-mine](mamāstu)
+[that-radiance](taddhāma) [to-awaken](saṃbodhayituṃ) [capable](samarthā) [faith](śraddhā) [always](sadā) [she](sā) [my-giver](mamadā) [may-be-mine](mamāstu)
 
 ## mukta-m0-p36-v878
-[good-course](sadgatiḥ)
+[page](p.) [129](129) [good-course](sadgatiḥ)
 
 ## mukta-m0-p36-v879
-[saints](santo) [worshipping](bhajanto) [you](bhavatīṃ) [true](satīṃ) [because](yat) [praised](saṃkīrtyase) [good-course](sadgatir) [therefore](ityataḥ) [you](tvam)
+[saints](santo) [worshipping](bhajanto) [you](bhavatīṃ) [true-one](satīṃ) [because](yat) [you-are-praised](saṃkīrtyase) [good-course-thus-you](sadgatirityatastvam)
 
 ## mukta-m0-p36-v880
-[ultimate-refuge](satparāyaṇā)
+[refuge-in-the-good](satparāyaṇā)
 
 ## mukta-m0-p36-v881
-[not](natu) [ever](jātu) [always-your-self](sadātvadātmakā) [because](yat) [sung](parigītā) [indeed](hyasi) [ultimate-refuge](satparāyaṇātaḥ)
+[not-ever](natu) [jātu](jātu) [always-your-self](sadātvadātmakā) [yat](yat) [sung](parigītā) [hyasi](hyasi) [satparāyaṇātaḥ](satparāyaṇātaḥ)
 
 ## mukta-m0-p36-v882
 [ocean](sindhuḥ)
 
 ## mukta-m0-p36-v883
-[ocean](sindhuḥ) [shore](kandur) [sins](duṣkṛta) [fuel](aidhassu) [may-be](bhūyāt)
+[ocean](sindhuḥ) [kandur](kandur) [of-sins](duṣkṛtaidhassu) [may-become](bhūyāt)
 
 ## mukta-m0-p36-v884
-[mandakini](mandākinī)
+[mandākinī](mandākinī)
 
 ## mukta-m0-p36-v885
-[she](sā) [gods-venerated](vṛndārakavanditā) [remove](haratu) [us](no) [mandakini](mandākinī) [slowness](mandatām)
+[she](sā) [by-gods-venerated](vṛndārakavanditā) [remove](haratu) [us](no) [mandākinī](mandākinī) [slowness](mandatām)
 
 ## mukta-m0-p36-v886
-[ganga](gaṅgā)
+[gaṅgā](gaṅgā)
 
 ## mukta-m0-p36-v887
-[she](sā) [ganga-too](gaṅgāpi) [does](karoti) [wonder](citram) [pure](amalaṃ) [all-above](sarvoparisthaṃ) [people](janam)
+[she](sā) [gaṅgā](gaṅgāpi) [does](karoti) [wonder](citram) [pure](amalaṃ) [all-above-standing](sarvoparisthaṃ) [people](janam)
 
 ## mukta-m0-p36-v888
-[yamuna](yamunā)
+[yamunā](yamunā)
 
 ## mukta-m0-p36-v889
-[yama-tamer](mayadamanī) [yamuna](yamunā) [yama-your](yamatvadāstu)
+[mayadamanī](mayadamanī) [yamunā](yamunā) [yamatvadāstu](yamatvadāstu)
 
 ## mukta-m0-p36-v890
-[sarasvati](sarasvatī)
+[sarasvatī](sarasvatī)
 
 ## mukta-m0-p36-v891
-[water-born](nīrabhūrapi) [she](sā) [enjoyment-essence](bhogarasadāstu) [sarasvati](sarasvatī)
+[water-born](nīrabhūrapi) [she](sā) [bhoga-rasa](bhogarasadāstu) [sarasvatī](sarasvatī)
 
 ## mukta-m0-p36-v892
-[godavari](godāvarī)
+[godāvarī](godāvarī)
 
 ## mukta-m0-p36-v893
-[godavari](godāvarī) [dullness](jaḍatvaṃ) [us](no) [knowledge-rays](bodhagobhir) [remove](vyapohatām)
+[godāvarī](godāvarī) [dullness](jaḍatvaṃ) [us](no) [by-knowledge-rays](bodhagobhir) [remove](vyapohatām)
 
 ## mukta-m0-p36-v894
-[vipasha](vipāśā)
+[vipāśā](vipāśā)
 
 ## mukta-m0-p36-v895
-[whence](yatastataḥ) [then](tataḥ) [flood](odaughā) [vipasha](vipāśeti) [proclaimed](prakīrtitā)
+[whence](yatastatastatodaughā) [vipāśā](vipāśeti) [is-called](prakīrtitā)
 
 ## mukta-m0-p36-v896
-[kaveri](kāverī)
+[kāverī](kāverī)
 
 ## mukta-m0-p36-v897
-[kaveri](kāverī) [down-flowing](nimnayānā) [moment-destroying-glory](kṣaṇahativibhavān) [down-joy-approach](nimnaharṣopayānāt)
+[kāverī](kāverī) [downward-going](nimnayānā) [moment-wealth](kṣaṇahativibhavānnimnaharṣopayānāt)
 
 ## mukta-m0-p36-v898
-[shatadru](śatadrukā)
+[śatadrukā](śatadrukā)
 
 ## mukta-m0-p36-v899
-[hundred-saints](śatasadbhiḥ) [how](kathaṃ) [sung](gītā) [she](sā) [goddess-here](devīha) [shatadru](śatadrukā)
+[by-hundreds](śatasadbhiḥ) [how](kathaṃ) [sung](gītā) [she](sā) [goddess-here](devīha) [śatadrukā](śatadrukā)
 
 ## mukta-m0-p36-v900
-[sarayu](sarayūḥ)
+[sarayūḥ](sarayūḥ)

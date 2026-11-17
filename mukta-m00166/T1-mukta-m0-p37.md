@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p37-v901
-[sarayu-born-from-mind](sarayūrmānasodbhūtā) [mind-born-disturbance](mānasodbhūtavikriyām)
+[sarayū](sarayū) [mānasa](mānasa) [udbhūtā](udbhūtā) [mānasa](mānasa) [udbhūta](udbhūta) [vikriyām](vikriyām)
 
 ## mukta-m0-p37-v902
-[chandrabhaga-river](candrabhāgā)
+[candrabhāgā](candrabhāgā)
 
 ## mukta-m0-p37-v903
-[to-you](yuṣmān) [great-fortune](mahābhāgatayā) [unite](yunaktu)
+[yuṣmān](yuṣmān) [mahābhāgatayā](mahābhāgatayā) [yunaktu](yunaktu)
 
 ## mukta-m0-p37-v904
-[kaushiki-river](kauśikī)
+[kauśikī](kauśikī)
 
 ## mukta-m0-p37-v905
-[give](vitaratu) [excellent-treasury](varakośaṃ) [kaushiki](kauśikī) [well-shining](suprakāśā)
+[vitaratu](vitaratu) [varakośaṃ](varakośaṃ) [kauśikī](kauśikī) [suprakāśā](suprakāśā)
 
 ## mukta-m0-p37-v906
-[gandaki-river](gaṇḍakī)
+[gaṇḍakī](gaṇḍakī)
 
 ## mukta-m0-p37-v907
-[pure](śuciḥ)
+[śuciḥ](śuciḥ)
 
 ## mukta-m0-p37-v908
-[beautiful](rucirā) [from-impure](asucirād) [let-be](astu) [pure](śuciḥ) [self-caused-purpose](svākāraṇārthakṛt)
+[rucirā](rucirā) [asucirāt](asucirāt) [astu](astu) [śuciḥ](śuciḥ) [sva-ākāraṇa-artha-kṛt](svākāraṇārthakṛt)
 
 ## mukta-m0-p37-v909
-[narmada-river](narmadā)
+[narmadā](narmadā)
 
 ## mukta-m0-p37-v910
-[she](sā) [narmada](narmadā) [in-sports](narmasu) [southern-quality](dakṣiṇatvam)
+[sā](sā) [narmadā](narmadā) [narmasu](narmasu) [dakṣiṇatvam](dakṣiṇatvam)
 
 ## mukta-m0-p37-v911
-[karmanasha-river](karmanāśā)
+[karmanāśā](karmanāśā)
 
 ## mukta-m0-p37-v912
-[non-action](naiṣkarmyam) [this](eṣā) [indeed](kila) [karmanasha](karmanāśā)
+[naiṣkarmyam](naiṣkarmyam) [eṣā](eṣā) [kila](kila) [karmanāśā](karmanāśā)
 
 ## mukta-m0-p37-v913
-[charmanvati-river](carmaṇvatī)
+[carmaṇvatī](carmaṇvatī)
 
 ## mukta-m0-p37-v914
-[charmanvati](carmaṇvatī) [always](sadā) [may-be](bhūyāt) [skin-sight-removing](carmadṛṣṭiharā) [your](tava)
+[carmaṇvatī](carmaṇvatī) [sadā](sadā) [bhūyāt](bhūyāt) [carma-dṛṣṭi-harā](carmadṛṣṭiharā) [tava](tava)
 
 ## mukta-m0-p37-v915
-[devika-river](devikā)
+[devikā](devikā)
 
 ## mukta-m0-p37-v916
-[goddess](devī) [from-brahma-onward](brahmādikā) [superior](adhikā) [devika](devikā) [goddess-famous](devaviśrutā)
+[brahmādi-kādhikā](brahmādikādhikā) [devī](devī) [devikā](devikā) [deva-viśrutā](devaviśrutā)
 
 ## mukta-m0-p37-v917
-[vetravati-river](vetravatī)
+[vetravatī](vetravatī)
 
 ## mukta-m0-p37-v918
-[three-vetra-bearing](trivetradhāribhir) [sung](gītā) [may-be](bhaved) [vetravati](vetravatī) [auspicious](śivā)
+[tri-vetra-dhāribhiḥ](trivetradhāribhir) [gītā](gītā) [bhavet](bhaved) [vetravatī](vetravatī) [śivā](śivā)
 
 ## mukta-m0-p37-v919
-[vitasta-river](vitastā)
+[vitastā](vitastā)
 
 ## mukta-m0-p37-v920
-[reviving](saṃjīvayanty) [wonderful-life](adbhutajīvanasya) [by-meditation](dhyānād) [this](apīyaṃ) [happiness-giving](sukhadā) [vitasta](vitastā)
+[saṃjīvayantī](saṃjīvayanty) [adbhuta-jīvanasya](adbhutajīvanasya) [dhyānāt](dhyānāt) [api](api) [iyaṃ](iyaṃ) [sukhadā](sukhadā) [vitastā](vitastā)
 
 ## mukta-m0-p37-v921
-[varada-river](varadā)
+[varadā](varadā)
 
 ## mukta-m0-p37-v922
-[varada](varadeti) [how](kathaṃ) [sung](gītā) [by-boon-holders](varadhībhir) [boon-lady](vareśvarī)
+[varadā](varadā) [iti](iti) [kathaṃ](kathaṃ) [gītā](gītā) [vara-dhībhiḥ](varadhībhir) [vara-īśvarī](vareśvarī)
 
 ## mukta-m0-p37-v923
-[naravahana-river](naravāhanā)
+[naravāhanā](naravāhanā)
 
 ## mukta-m0-p37-v924
-[naravahana-praised](naravāhanasaṃślāghyā) [for-splendor](śriye) [let-be](astu) [naravahana](naravāhanā)
+[naravāhana-saṃślāghyā](naravāhanasaṃślāghyā) [śriye](śriye) [astu](astu) [naravāhanā](naravāhanā)
 
 ## mukta-m0-p37-v925
-[sati](satī)
+[satī](satī)

@@ -8,19 +8,23 @@
 "tokens": [
 {
 "surface": "svāntaṃ",
-"quick_gloss": "own+mind"
+"quick_gloss": "own"
 },
 {
-"surface": "dṛḍhasvantam",
-"quick_gloss": "firm+mind"
+"surface": "dṛḍha",
+"quick_gloss": "firm"
 },
 {
-"surface": "iyam",
+"surface": "svantam",
+"quick_gloss": "mind"
+},
+{
+"surface": "iyaṃ",
 "quick_gloss": "this"
 },
 {
 "surface": "karotu",
-"quick_gloss": "let+make"
+"quick_gloss": "let-make"
 }
 ]
 },
@@ -33,7 +37,7 @@
 "tokens": [
 {
 "surface": "śrī",
-"quick_gloss": "śrī"
+"quick_gloss": "holy"
 },
 {
 "surface": "nāma",
@@ -70,7 +74,7 @@
 },
 {
 "surface": "nivāsinī",
-"quick_gloss": "dweller"
+"quick_gloss": "dwelling"
 }
 ]
 },
@@ -82,16 +86,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "suhāsinī",
-"quick_gloss": "good+smiling"
+"surface": "su",
+"quick_gloss": "good"
+},
+{
+"surface": "hāsinī",
+"quick_gloss": "smiling"
 },
 {
 "surface": "rasā",
-"quick_gloss": "rasa"
+"quick_gloss": "essence"
 },
 {
 "surface": "yāstu",
-"quick_gloss": "may+be"
+"quick_gloss": "may-be"
 },
 {
 "surface": "kāma",
@@ -103,7 +111,7 @@
 },
 {
 "surface": "nivāsinī",
-"quick_gloss": "dweller"
+"quick_gloss": "dwelling"
 }
 ]
 },
@@ -145,7 +153,7 @@
 },
 {
 "surface": "tena",
-"quick_gloss": "by+that"
+"quick_gloss": "by-him"
 },
 {
 "surface": "na",
@@ -157,7 +165,7 @@
 },
 {
 "surface": "syāḥ",
-"quick_gloss": "be"
+"quick_gloss": "may-be"
 }
 ]
 },
@@ -220,7 +228,7 @@
 "tokens": [
 {
 "surface": "satya",
-"quick_gloss": "true"
+"quick_gloss": "truth"
 },
 {
 "surface": "dharma",
@@ -241,7 +249,7 @@
 "tokens": [
 {
 "surface": "satya",
-"quick_gloss": "true"
+"quick_gloss": "truth"
 },
 {
 "surface": "dharma",
@@ -249,7 +257,7 @@
 },
 {
 "surface": "sthirāḥ",
-"quick_gloss": "firm"
+"quick_gloss": "steadfast"
 },
 {
 "surface": "seyam",
@@ -257,7 +265,7 @@
 },
 {
 "surface": "satya",
-"quick_gloss": "true"
+"quick_gloss": "truth"
 },
 {
 "surface": "dharma",
@@ -315,7 +323,7 @@
 },
 {
 "surface": "vicitram",
-"quick_gloss": "various"
+"quick_gloss": "variegated"
 }
 ]
 },
@@ -340,12 +348,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "bhavanty",
+"surface": "bhavanti",
 "quick_gloss": "become"
 },
 {
 "surface": "ayatnato",
-"quick_gloss": "without+effort"
+"quick_gloss": "effortlessly"
 },
 {
 "surface": "yasyāḥ",
@@ -361,7 +369,7 @@
 },
 {
 "surface": "kīdṛśī",
-"quick_gloss": "what+like"
+"quick_gloss": "what-like"
 },
 {
 "surface": "śivā",
@@ -386,7 +394,7 @@
 },
 {
 "surface": "prabodhinī",
-"quick_gloss": "awakener"
+"quick_gloss": "awakening"
 }
 ]
 },
@@ -419,7 +427,7 @@
 },
 {
 "surface": "syāt",
-"quick_gloss": "be"
+"quick_gloss": "may-be"
 },
 {
 "surface": "sūkṣma",
@@ -431,7 +439,7 @@
 },
 {
 "surface": "prabodhinī",
-"quick_gloss": "awakener"
+"quick_gloss": "awakening"
 }
 ]
 },
@@ -485,7 +493,7 @@
 },
 {
 "surface": "dāstu",
-"quick_gloss": "giver"
+"quick_gloss": "giving"
 }
 ]
 },
@@ -523,7 +531,7 @@
 },
 {
 "surface": "kena",
-"quick_gloss": "by+what"
+"quick_gloss": "by-what"
 },
 {
 "surface": "mānena",
@@ -565,7 +573,7 @@
 },
 {
 "surface": "me",
-"quick_gloss": "me"
+"quick_gloss": "to-me"
 },
 {
 "surface": "tri",
@@ -577,11 +585,11 @@
 },
 {
 "surface": "dadatāṃ",
-"quick_gloss": "grant"
+"quick_gloss": "may-give"
 },
 {
 "surface": "sunetram",
-"quick_gloss": "good+eye"
+"quick_gloss": "good-eye"
 }
 ]
 },
@@ -598,7 +606,7 @@
 },
 {
 "surface": "pura",
-"quick_gloss": "city"
+"quick_gloss": "cities"
 },
 {
 "surface": "sundarī",
@@ -630,8 +638,12 @@
 "quick_gloss": "beneficent"
 },
 {
-"surface": "tripura",
-"quick_gloss": "tripura"
+"surface": "tri",
+"quick_gloss": "three"
+},
+{
+"surface": "pura",
+"quick_gloss": "cities"
 },
 {
 "surface": "sundarī",
