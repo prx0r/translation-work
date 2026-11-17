@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p36-v876
-[raktapuṣpeṇa](raktapuṣpeṇa) [nirmañjya](nirmañjya) [yonideśe](yonideśe) [niyojayet](niyojayet)
+[with-red-flower](raktapuṣpeṇa) [having-purified](nirmañjya) [yoni-place](yonideśe) [should-place](niyojayet)
 
 ## mukta-m0-p36-v877
-[mama](mama) [śaktiṃ](śaktiṃ) [kuru](kuru) [dvandvaṃ](dvandvaṃ) [svāheti](svāheti) [daśadhā](daśadhā) [japet](japet)
+[my](mama) [power](śaktiṃ) [make](kuru) [pair](dvandvaṃ) [svaha](svāheti) [ten-times](daśadhā) [recite](japet)
 
 ## mukta-m0-p36-v878
-[bhogapātraṃ](bhogapātraṃ) [yadā](yadā) [deyaṃ](deyaṃ) [tadā](tadā) [ramaṇam](ramaṇam) [ācaret](ācaret)
+[enjoyment-vessel](bhogapātraṃ) [when](yadā) [given](deyaṃ) [then](tadā) [intercourse-perform](ramaṇamācaret)
 
 ## mukta-m0-p36-v879
-[tenaiva](tenaiva) [manunā](manunā) [devi](devi) [ṣaḍaṅge](ṣaḍaṅge) [nyāsam](nyāsam) [ācaret](ācaret)
+[by-that](tenaiva) [mantra](manunā) [goddess](devi) [six-limbs](ṣaḍaṅge) [nyasa-perform](nyāsamācaret)
 
 ## mukta-m0-p36-v880
-[saptatir](saptatir) [mantritaṃ](mantritaṃ) [kṛtvā](kṛtvā) [pūtaṃ](pūtaṃ) [sarvaṃ](sarvaṃ) [bhaved](bhaved) [dhruvam](dhruvam)
+[seventy-times](saptatirmantritaṃ) [having-made](kṛtvā) [purified](pūtaṃ) [all](sarvaṃ) [becomes](bhaved) [certain](dhruvam)
 
 ## mukta-m0-p36-v881
-[juhuyāt](juhuyāt) [kuṇḍalī](kuṇḍalī) [vaktre](vaktre) [mūlamantreṇa](mūlamantreṇa) [sundari](sundari)
+[offer](juhuyāt) [kundali-mouth](kuṇḍalīvaktre) [by-root-mantra](mūlamantreṇa) [beautiful-one](sundari)
 
 ## mukta-m0-p36-v882
-[bhogakāle](bhogakāle) [maheśāni](maheśāni) [ājihvāntaṃ](ājihvāntaṃ) [vibhāvayet](vibhāvayet)
+[at-enjoyment-time](bhogakāle) [great-goddess](maheśāni) [up-to-tongue-tip](ājihvāntaṃ) [visualize](vibhāvayet)
 
 ## mukta-m0-p36-v883
-[mūlamantraṃ](mūlamantraṃ) [samuccārya](samuccārya) [juhuyāt](juhuyāt) [kuṇḍalī](kuṇḍalī) [mukhe](mukhe)
+[root-mantra](mūlamantraṃ) [uttering](samuccārya) [offer](juhuyāt) [kundali-mouth](kuṇḍalīmukhe)
 
 ## mukta-m0-p36-v884
-[bhojanecchā](bhojanecchā) [bhavet](bhavet) [tasyāḥ](tasyāḥ) [nirlipto](nirlipto) [jīvasaṃjñakaḥ](jīvasaṃjñakaḥ)
+[desire-to-eat](bhojanecchā) [arises](bhavettasyā) [detached](nirlipto) [life-named](jīvasaṃjñakaḥ)
 
 ## mukta-m0-p36-v885
-[prayāti](prayāti) [narakaṃ](narakaṃ) [ghoram](ghoram) [ekaviṃśakulaiḥ](ekaviṃśakulaiḥ) [saha](saha)
+[goes](prayāti) [hell](narakaṃ) [terrible](ghoramekaviṃśakulaiḥ) [with-families](saha)
 
 ## mukta-m0-p36-v886
-[guruṃ](guruṃ) [smaran](smaran) [piven](piven) [madyaṃ](madyaṃ) [khādan](khādan) [māṃsaṃ](māṃsaṃ) [na](na) [doṣabhāk](doṣabhāk)
+[guru](guruṃ) [remembering](smaran) [drink-wine](pivenmadyaṃ) [eat-meat](khādan) [no-fault-bearer](māṃsaṃ) [na-doṣabhāk](na doṣabhāk)
 
 ## mukta-m0-p36-v887
-[iti](iti) [śrīsarvānandanāthaviracite](śrīsarvānandanāthaviracite) [sarvollāse](sarvollāse) [ūnatriṃśadullāsaḥ](ūnatriṃśadullāsaḥ)
+[thus](iti) [shri-sarvanandanatha-composed](śrīsarvānandanāthaviracite) [sarvollasa](sarvollāse) [twenty-ninth-chapter](ūnatriṃśadullāsaḥ)
 
 ## mukta-m0-p36-v888
-[kāraṇasya](kāraṇasya) [kāraṇaṃ](kāraṇaṃ) [hi](hi) [sambideti](sambideti) [prakalpitam](prakalpitam)
+[of-cause](kāraṇasya) [cause](kāraṇaṃ) [indeed](hi) [consciousness](sambideti) [thus-conceived](prakalpitam)
 
 ## mukta-m0-p36-v889
-[kasmāt](kasmāt) [pānaṃ](pānaṃ) [kāraṇaṃ](kāraṇaṃ) [hi](hi) [sambidānandabhāk](sambidānandabhāk) [naraḥ](naraḥ)
+[why](kasmāt) [drinking](pānaṃ) [cause](kāraṇaṃ) [indeed](hi) [consciousness-bliss-partaking](sambidānandabhāk) [man](naraḥ)
 
 ## mukta-m0-p36-v890
-[bhāvāktaṃ](bhāvāktaṃ) [sambidānandaṃ](sambidānandaṃ) [madyānandam](madyānandam) [abhedakam](abhedakam)
+[emotion-tinged](bhāvāktaṃ) [consciousness-bliss](sambidānandaṃ) [wine-bliss](madyānandamabhedakam) [non-different](abhedakam)
 
 ## mukta-m0-p36-v891
-[bhāvānandeṣu](bhāvānandeṣu) [deveśi](deveśi) [muktibhāg](muktibhāg) [jāyate](jāyate) [naraḥ](naraḥ)
+[in-emotion-blisses](bhāvānandeṣu) [goddess](deveśi) [liberation-share](muktibhāg) [arises](jāyate) [man](naraḥ)
 
 ## mukta-m0-p36-v892
-[tadā](tadā) [kaivalyamuktiḥ](kaivalyamuktiḥ) [syāt](syāt) [satyaṃ](satyaṃ) [satyaṃ](satyaṃ) [na](na) [saṃśayaḥ](saṃśayaḥ)
+[then](tadā) [isolation-liberation](kaivalyamuktiḥ) [is](syāt) [truth](satyaṃ) [truth](satyaṃ) [no-doubt](na saṃśayaḥ)
 
 ## mukta-m0-p36-v893
-[idaṃ](idaṃ) [jñānaṃ](jñānaṃ) [sambidotthaṃ](sambidotthaṃ) [muktyartham](muktyartham) [ubhayānvitam](ubhayānvitam)
+[this](idaṃ) [knowledge](jñānaṃ) [consciousness-born](sambidotthaṃ) [for-liberation](muktyarthamubhayānvitam) [both-endowed](ubhayānvitam)
 
 ## mukta-m0-p36-v894
-[sadānanda](sadānanda) [pradāyakam](pradāyakam)
+[always-bliss](sadānanda) [giver](pradāyakam)
 
 ## mukta-m0-p36-v895
-[ata](ata) [eva](eva) [mahādeva](mahādeva) [sambidāgrahaṇam](sambidāgrahaṇam) [caret](caret)
+[therefore](ata) [indeed](eva) [great-god](mahādeva) [consciousness-grasping](sambidāgrahaṇañcaret) [should-practice](caret)
 
 ## mukta-m0-p36-v896
-[sarvadā](sarvadā) [parameśāna](parameśāna) [siddhyānandaṃ](siddhyānandaṃ) [kvacit](kvacit) [kvacit](kvacit)
+[always](sarvadā) [supreme-lord](parameśāna) [accomplishment-bliss](siddhyānandaṃ) [sometimes](kvacit) [sometimes](kvacit)
 
 ## mukta-m0-p36-v897
-[madyānandaṃ](madyānandaṃ) [kvacid](kvacid) [deva](deva) [parvaṇi](parvaṇi) [madhupānayuk](madhupānayuk)
+[wine-bliss](madyānandaṃ) [sometimes](kvacid) [god](deva) [at-festival](parvaṇi) [honey-drinking-with](madhupānayuk)
 
 ## mukta-m0-p36-v898
-[śukle](śukle) [yadi](yadi) [piven](piven) [madyaṃ](madyaṃ) [ādyante](ādyante) [sambidāṃ](sambidāṃ) [pivet](pivet)
+[in-bright](śukle) [if](yadi) [drink-wine](pivenmadyaṃ) [beginning-end](ādyante) [consciousness](sambidāṃ) [drink](pivet)
 
 ## mukta-m0-p36-v899
-[śukle](śukle) [cādyaṃ](cādyaṃ) [pivet](pivet) [siddhiṃ](siddhiṃ) [kṛṣṇe](kṛṣṇe) [cādyaṃ](cādyaṃ) [piven](piven) [madhu](madhu)
+[in-bright](śukle) [and-first](cādyaṃ) [drink](pivet) [accomplishment](siddhiṃ) [in-dark](kṛṣṇe) [and-first](cādyaṃ) [drink-honey](pivenmadhu)
 
 ## mukta-m0-p36-v900
-[tvaritāyāstamodbhūtam](tvaritāyāstamodbhūtam) [ityānandasya](ityānandasya) [lakṣaṇam](lakṣaṇam)
+[of-hasty](tvaritāyāstamodbhūtamityānandasya) [sunset-born](udbhūtam) [thus](ityānandasya) [of-bliss](ānandasya) [characteristic](lakṣaṇam)

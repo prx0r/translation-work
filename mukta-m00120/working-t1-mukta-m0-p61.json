@@ -11,6 +11,10 @@
 "quick_gloss": "different"
 },
 {
+"surface": "vistīrṇe",
+"quick_gloss": "expanded"
+},
+{
 "surface": "kula",
 "quick_gloss": "clan"
 },
@@ -20,11 +24,11 @@
 },
 {
 "surface": "svakulānanda",
-"quick_gloss": "for-own-clan-joy"
+"quick_gloss": "own-clan-joy"
 },
 {
 "surface": "hetave",
-"quick_gloss": "cause"
+"quick_gloss": "for-cause"
 }
 ]
 },
@@ -157,7 +161,7 @@
 "tokens": [
 {
 "surface": "paścimānanam",
-"quick_gloss": "western-face"
+"quick_gloss": "western-faced"
 }
 ]
 },
@@ -168,6 +172,14 @@
 "quick_english": "",
 "quick_english_source": "t1parse",
 "tokens": [
+{
+"surface": "tathā",
+"quick_gloss": "thus"
+},
+{
+"surface": "jñānaṃ+jñeyaṃ",
+"quick_gloss": "as-knowledge-object"
+},
 {
 "surface": "tathā",
 "quick_gloss": "thus"
@@ -195,7 +207,7 @@
 },
 {
 "surface": "sarvabījasya",
-"quick_gloss": "of-all-seed"
+"quick_gloss": "all-seed"
 },
 {
 "surface": "bījakam",
@@ -220,7 +232,7 @@
 },
 {
 "surface": "maheśāni",
-"quick_gloss": "O-great-goddess"
+"quick_gloss": "great-goddess"
 },
 {
 "surface": "tadbhinnaṃ",
@@ -248,12 +260,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "kulasthānaṃ",
+"surface": "kulasthānaṃ+vinā",
 "quick_gloss": "without-clan-place"
-},
-{
-"surface": "vinā",
-"quick_gloss": "vinā"
 },
 {
 "surface": "śaktijñānamātraṃ",
@@ -278,15 +286,19 @@
 "tokens": [
 {
 "surface": "nitamba+jaghana+sphītā",
-"quick_gloss": "hips-thighs-broad"
+"quick_gloss": "hips-thighs-full"
 },
 {
 "surface": "parapuṣpa",
 "quick_gloss": "other-flower"
 },
 {
-"surface": "bhaga+prabhā",
-"quick_gloss": "yoni-radiance"
+"surface": "bhaga",
+"quick_gloss": "vulva"
+},
+{
+"surface": "prabhā",
+"quick_gloss": "radiance"
 }
 ]
 },
@@ -300,6 +312,10 @@
 {
 "surface": "gopitā",
 "quick_gloss": "hidden"
+},
+{
+"surface": "madhye+sugopitam",
+"quick_gloss": "middle-well-hidden"
 }
 ]
 },
@@ -323,8 +339,12 @@
 "quick_gloss": "devotion"
 },
 {
-"surface": "hīne+api",
-"quick_gloss": "even-in-deficiency"
+"surface": "hīne",
+"quick_gloss": "lacking"
+},
+{
+"surface": "api",
+"quick_gloss": "api"
 },
 {
 "surface": "kārya",
@@ -352,12 +372,12 @@
 "quick_gloss": "flower-form"
 },
 {
-"surface": "kulāgāraṃ",
+"surface": "kulāgārañca",
 "quick_gloss": "clan-house"
 },
 {
-"surface": "ca+madhyagam",
-"quick_gloss": "and-middle"
+"surface": "madhyagam",
+"quick_gloss": "middle-gone"
 }
 ]
 },
@@ -373,7 +393,7 @@
 "quick_gloss": "egg-born"
 },
 {
-"surface": "sveda+jātaṃ",
+"surface": "svedajātaṃ",
 "quick_gloss": "sweat-born"
 },
 {
@@ -386,7 +406,7 @@
 },
 {
 "surface": "śive",
-"quick_gloss": "O-Śiva"
+"quick_gloss": "śiva"
 }
 ]
 },
@@ -398,7 +418,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "liṅga+madhye",
+"surface": "liṅgamadhye",
 "quick_gloss": "phallus-middle"
 },
 {
@@ -410,8 +430,8 @@
 "quick_gloss": "semen"
 },
 {
-"surface": "yoni+madhye",
-"quick_gloss": "yoni-middle"
+"surface": "yonimadhye",
+"quick_gloss": "womb-middle"
 },
 {
 "surface": "ca",
@@ -419,7 +439,7 @@
 },
 {
 "surface": "śoṇitam",
-"quick_gloss": "menstrual-blood"
+"quick_gloss": "blood"
 }
 ]
 },
@@ -431,12 +451,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "tasya",
-"quick_gloss": "of-that"
-},
-{
-"surface": "bījaṃ",
-"quick_gloss": "seed"
+"surface": "tasya+bījaṃ",
+"quick_gloss": "that-seed"
 },
 {
 "surface": "na",
@@ -444,11 +460,11 @@
 },
 {
 "surface": "vidyeta",
-"quick_gloss": "is-known"
+"quick_gloss": "would-be-known"
 },
 {
 "surface": "gadituṃ",
-"quick_gloss": "to-speak"
+"quick_gloss": "to-tell"
 },
 {
 "surface": "na",
@@ -473,15 +489,19 @@
 "tokens": [
 {
 "surface": "tejādhikye",
-"quick_gloss": "by-tejas-excess"
+"quick_gloss": "tejas-excess"
 },
 {
 "surface": "bīja+jātaṃ",
 "quick_gloss": "seed-born"
 },
 {
-"surface": "kṣityādhikye+api",
-"quick_gloss": "by-earth-excess"
+"surface": "kṣityādhikye",
+"quick_gloss": "earth-excess"
+},
+{
+"surface": "api",
+"quick_gloss": "api"
 },
 {
 "surface": "mānuṣam",
@@ -497,15 +517,15 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "kriyā+yoga",
+"surface": "kriyāyogaḥ",
 "quick_gloss": "action-yoga"
 },
 {
-"surface": "dhyāna+yoga",
+"surface": "dhyāna+yogaḥ",
 "quick_gloss": "meditation-yoga"
 },
 {
-"surface": "bhakti+yoga",
+"surface": "bhakti+yogaḥ",
 "quick_gloss": "devotion-yoga"
 },
 {
@@ -548,15 +568,15 @@
 "tokens": [
 {
 "surface": "tripureśī",
-"quick_gloss": "Tripurā-lady"
+"quick_gloss": "tripura-lady"
 },
 {
-"surface": "yoni+madhye",
-"quick_gloss": "yoni-middle"
+"surface": "yonimadhye",
+"quick_gloss": "womb-middle"
 },
 {
 "surface": "mūle",
-"quick_gloss": "at-root"
+"quick_gloss": "root"
 },
 {
 "surface": "vasati",
@@ -564,7 +584,7 @@
 },
 {
 "surface": "bhairavī",
-"quick_gloss": "Bhairavī"
+"quick_gloss": "bhairavi"
 }
 ]
 },
@@ -581,15 +601,15 @@
 },
 {
 "surface": "mahākālī",
-"quick_gloss": "great-Kālī"
+"quick_gloss": "great-kali"
 },
 {
 "surface": "mātaṅgī",
-"quick_gloss": "Mātaṅgī"
+"quick_gloss": "matangi"
 },
 {
 "surface": "mekhalāsu",
-"quick_gloss": "in-girdles"
+"quick_gloss": "girdles"
 },
 {
 "surface": "ca",
@@ -605,16 +625,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "bindu+puṣpa+taror+mūle",
+"surface": "bindupuṣpatarormūle",
 "quick_gloss": "bindu-flower-tree-root"
 },
 {
 "surface": "kuṇḍalī",
-"quick_gloss": "Kuṇḍalinī"
+"quick_gloss": "kundali"
 },
 {
-"surface": "brahma+vigrahā",
-"quick_gloss": "Brahma-form"
+"surface": "brahmavigrahā",
+"quick_gloss": "brahma-form"
 }
 ]
 },
@@ -630,12 +650,8 @@
 "quick_gloss": "seat"
 },
 {
-"surface": "kāma+svarūpaṃ",
+"surface": "kāma+svarūpañca",
 "quick_gloss": "desire-form"
-},
-{
-"surface": "ca",
-"quick_gloss": "ca"
 },
 {
 "surface": "dvividhaṃ",
@@ -643,7 +659,7 @@
 },
 {
 "surface": "parameśvari",
-"quick_gloss": "O-supreme-goddess"
+"quick_gloss": "supreme-goddess"
 }
 ]
 },
@@ -656,11 +672,11 @@
 "tokens": [
 {
 "surface": "praṇavākāra+rūpeṇa",
-"quick_gloss": "praṇava-form"
+"quick_gloss": "om-form"
 },
 {
 "surface": "yonyākāraṃ",
-"quick_gloss": "yoni-form"
+"quick_gloss": "womb-form"
 },
 {
 "surface": "vicintayet",
