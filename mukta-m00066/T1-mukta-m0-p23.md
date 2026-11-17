@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p23-v551
-in-bliss-tantra indeed in-this four supreme-declared
+[in](ānaṃda+taṃtre) [and](ca) [indeed](eva) [in-this](asmin) [four](catvāraḥ) [supremely-declared](para+īritāḥ)
 
 ## mukta-m0-p23-v552
-therefore four delights here declared O-great-lady
+[therefore](tasmāt) [four](catvāra) [chapters](ullāsā) [here](iha) [declared](proktā) [O-great-goddess](mahā+īśvari)
 
 ## mukta-m0-p23-v553
-therefore of-bliss worship are-honored indeed not three
+[therefore](tasmāt) [of-bliss-worship](ānaṃda+pūjāyā) [to-be-resorted-to](ālaṃvyaṃte) [indeed](tu) [not](na) [three](trayaḥ)
 
 ## mukta-m0-p23-v554
-thus thus supreme-bliss lord-knowledge one-should-reflect
+[thus](tathā) [thus](tathā) [supreme-bliss](para+ānaṃda) [lord-knowledge](nātha+vidyāṃ) [one-should-contemplate](parāmṛśet)
 
 ## mukta-m0-p23-v555
-by-messenger kindled self bliss-form guru one-should-remember
+[by-the-messenger-woman](dūtyā) [kindled-self](saṃdhukṣita+svātmā) [bliss-embodied](naṃda+mūrttiṃ) [guru](guruṃ) [one-should-remember](smaret)
 
 ## mukta-m0-p23-v556
-at-twelfth-end red-white-foot one-should-place
+[in-the-twelfth-end](dvādaśa+aṃta+gate) [red-white](rakta+śukla) [stream](pāde) [one-should-deposit](vinikṣipet)
 
 ## mukta-m0-p23-v557
-of-Shiva-sovereignty kingdom foot-consecrated own one-should-contemplate
+[in-śiva-hood-sovereignty](śivatva+sāmrājya) [consecrated-to-the-state](pada+abhiṣiktaṃ) [oneself](svaṃ) [one-should-contemplate](viciṃtayet)
 
 ## mukta-m0-p23-v558
-seeing limb-sprout-tooth mountain-going-mind
+[seeing](paśyan) [in-each-limb](prati+aṃgam) [sprout-eating](aṃkūra+danaṃ) [with-mind-gone-to-the-cow](go+uttuṃga+mānasaḥ)
 
 ## mukta-m0-p23-v559
-as youth-delight obtains O-mother messenger
+[as](yathā) [youthful-exuberance](yauvana+ullāsaṃ) [attains](saṃprāpnoti) [O-mother](aṃba) [messenger-woman](dūtikā)
 
 ## mukta-m0-p23-v560
-in-gazing-delight directly in-smile awakens Ganges
+[in-sight](āloke) [delight](ratiḥ) [directly](sākṣāt) [in-smile](smite) [awakens](jāgarti) [Jāhnavī](jāhnavī)
 
 ## mukta-m0-p23-v561
-Ashvins nose-region and-lip supreme-nectar
+[the-two-Aśvins](aśvinau) [in-the-region-of-the-nose](nāsikā+bhāge) [and](tu) [on-the-lips](oṣṭhe) [and](ca) [supreme-nectar](parama+amṛtam)
 
 ## mukta-m0-p23-v562
-in-sweat and Varuni goddess desire-lord I-in act
+[in-sweat](svede) [and](ca) [Vāruṇī-goddess](vāruṇī+devī) [Kāmanātha](kāmanāthaḥ) [indeed](tu) [I](ahaṃ) [in-action](kṛtau)
 
 ## mukta-m0-p23-v563
-in-two-breasts Meru-mountain soundless in-Brahma-middle
+[in-the-two-breasts](stana+dvaye) [Meru-mountain](meru+giriḥ) [soundless](niḥ+śabdaṃ) [Brahman](brahma) [in-the-middle](madhyame)
 
 ## mukta-m0-p23-v564
-in-three-folds and three-worlds in-navel-womb cave-mother
+[in-the-three-folds](vali+traye) [and](ca) [the-three-worlds](trai+lokyaṃ) [in-the-womb-of-the-navel](nābhi+garbhe) [cave](guhā) [Ambikā](aṃbikā)
 
 ## mukta-m0-p23-v565
-in-nails cool white digit-arm-root hook-deity
+[in-the-nails](nakheṣu) [cool-digit](śītāṃ+śu+kalā) [at-the-root-of-the-arm](dor+mūle) [aṅkuśa-deities](aṃkuśa+devatāḥ)
 
 ## mukta-m0-p23-v566
-Kaveri and-in-breath cow-gift-act in-action
+[Kāverī](kāverī) [and](ca) [indeed](eva) [in-breath](niśvāse) [Godā](godā) [in-the-act-of-hissing](sītkāra+karmaṇi)
 
 ## mukta-m0-p23-v567
-in-pure-saliva-acts mind-rest leader
+[in-pure-speech-acts](amala+ālāpa+kṛtyeṣu) [mind-rest](citta+viśrāṃti) [leader](nāyakā)
 
 ## mukta-m0-p23-v568
-speech-lord in-pleasant-hum in-Gishpati-cuckoo-sound
+[lord-of-speech](vāk+ptiḥ) [in-pleasurable-humming](sukha+huṃkāre) [lord-of-speech](gīṣpati) [in-the-sound-of-cooing](kāku+kā+dhvanau)
 
 ## mukta-m0-p23-v569
-Indra in-mind-elevation Agni substance swallows-in-ray
+[Indra](iṃdraḥ) [in-elevation-of-mind](citta+samunnatyām) [Agni](agniḥ) [in-the-power-of-devouring-things](vastu+grasītviṣi)
 
 ## mukta-m0-p23-v570
-in-hand-movement sacrifice in-embrace sacrifice-person
+[in-the-movement-of-hands-etc.](hasta+ādi+cālane) [sacrifice](yajñaḥ) [and](tu) [in-embrace](āśleṣe) [sacrifice-person](yajña+pūruṣaḥ)
 
 ## mukta-m0-p23-v571
-lasya and tandava goddess her body-etc whirling
+[gentle-dance](lāsyaṃ) [and](ca) [fierce-dance](tāṃḍavaṃ) [O-goddess](devi) [of-her](tasyā) [in-the-whirling-of-body-etc.](deha+ādi+ghūrṇane)
 
 ## mukta-m0-p23-v572
-those-all exist in-her-mouthful-substance
+[those](tāni) [all](sarvāṇi) [exist](varttate) [in-her-mouthful-substance](tasyā+gaṃḍūṣa+vastuni)
 
 ## mukta-m0-p23-v573
-that-fruit obtains messenger nectar-mouthful by-consuming
+[that-fruit](tat+phalaṃ) [obtains](labhate) [the-messenger-woman](dūtī) [from-partaking-of-the-nectar-mouthful](sudhā+gaṃḍūṣa+sevanāt)
 
 ## mukta-m0-p23-v574
-mouthful-first goddess of-hero bliss increasing
+[the-first-mouthful](gaṃḍūṣam+ādiraṃ) [O-goddess](devī) [of-the-hero](vīrasya) [bliss-increasing](ānaṃda+varddhanam)
 
 ## mukta-m0-p23-v575
-ever-moist-nectar goddess love delight and in-that-part
+[Nityaklinnā-nectar](nityaklinnā+sudhā) [O-goddess](devī) [pleasure](rati) [and](ca) [delight](prītiḥ) [in-her-vulva](tat+bhage)
