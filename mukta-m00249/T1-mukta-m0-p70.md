@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p70-v1726
-[sūtaka](sūtake) [mṛtaka](mṛtake) [ca](ca) [eva](eva) [kriyā](kriyālopaṃ) [lopa](kriyālopaṃ) [na](na) [kārayet](kārayet)
+[sutaka](sūtake) [mrta](mṛtake) [ca](ca) [eva](eva) [kriya-lopa](kriyālopaṃ) [na](na) [karayet](kārayet)
 
 ## mukta-m0-p70-v1727
-[liṅga](liṃgārcanaratā) [arcana](liṃgārcanaratā) [rata](liṃgārcanaratā) [nārī](nārī) [prasūtena](prasūtena) [rajasvalā](rajasvalā)
+[linga-arcana-rata](liṃgārcanaratā) [nari](nārī) [prasutena](prasūtena) [rajasvala](rajasvalā)
 
 ## mukta-m0-p70-v1728
-[śiva](śivadvijadaśāhantu) [dvija](śivadvijadaśāhantu) [daśāha](śivadvijadaśāhantu) [antu](śivadvijadaśāhantu) [dvijānām](dvijānāṃ) [tu](tu) [tathā](tathaiva) [eva](tathaiva) [ca](ca)
+[shiva-dvija-dasha-hantu](śivadvijadaśāhantu) [dvijanam](dvijānāṃ) [tu](tu) [tatha-eva](tathaiva) [ca](ca)
 
 ## mukta-m0-p70-v1729
-[māsa](māsamekaṃ) [eka](māsamekaṃ) [bhavet](bhavecchūdro) [śūdra](bhavecchūdro) [cāturvarṇa](cāturvarṇassamāsataḥ) [samāsataḥ](cāturvarṇassamāsataḥ)
+[masa-eka](māsamekaṃ) [bhavet](bhavecchūdro) [shudra](śūdro) [catur-varna](cāturvarṇassamāsataḥ) [samasa](samāsataḥ)
 
 ## mukta-m0-p70-v1730
-[antarāle](antarāle) [śṛtaṃ](śṛtaṃ) [cet](cetsadāśauce) [sadā](cetsadāśauce) [śauce](cetsadāśauce) [mṛtaṃ](mṛtaṃ) [janma](janmajau) [jau](janmajau) [ca](ca)
+[antarale](antarāle) [shrtam](śṛtaṃ) [cet](cetsadāśauce) [sada-asauce](sadāśauce) [mrta](mṛtaṃ) [janma-jau](janmajau) [ca](ca)
 
 ## mukta-m0-p70-v1731
-[liṅgaṃ](liṃgaṃ) [vā](vā) [kautukaṃ](kautukaṃ) [vā](vāpi) [api](vāpi) [nitya](nitya) [pūjā](pūjā) [śiva](śivadvijaḥ) [dvijaḥ](śivadvijaḥ)
+[lingam](liṃgaṃ) [va](vā) [kautukam](kautukaṃ) [va-api](vāpi) [nitya](nitya) [puja](pūjā) [shiva-dvija](śivadvijaḥ)
 
 ## mukta-m0-p70-v1732
-[daśāhe](daśāhe) [śuddhiḥ](śuddhirviprāṇāṃ) [viprāṇām](śuddhirviprāṇāṃ) [dvādaśāhe](dvādaśāhe) [nṛpasya](nṛpasya) [tu](tu)
+[dashahe](daśāhe) [shuddhi](śuddhirviprāṇāṃ) [vipranam](viprāṇāṃ) [dvadashahe](dvādaśāhe) [nrpasya](nṛpasya) [tu](tu)
 
 ## mukta-m0-p70-v1733
-[yāga](yāgādi) [ādi](yāgādi) [sarva](sarvakāryeṣu) [kāryeṣu](sarvakāryeṣu) [yāga](yāgārthaṃ) [arthaṃ](yāgārthaṃ) [ca](ca) [vrataṃ](vrataṃ) [caret](caret)
+[yaga-adi](yāgādi) [sarva-karyeshu](sarvakāryeṣu) [yaga-artham](yāgārthaṃ) [ca](ca) [vratam](vrataṃ) [caret](caret)
 
 ## mukta-m0-p70-v1734
-[dvijānām](dvijānāṃ) [dīkṣitānām](dīkṣitānāṃ) [ca](ca) [yatīnām](yatīnāṃ) [brahmacāriṇām](brahmacāriṇāṃ)
+[dvijanam](dvijānāṃ) [dikshitam](dīkṣitānāṃ) [ca](ca) [yatinam](yatīnāṃ) [brahmacarinam](brahmacāriṇāṃ)
 
 ## mukta-m0-p70-v1735
-[mātāmahi](mātāmahipitāmahyo) [pitāmahi](mātāmahipitāmahyo) [yo](mātāmahipitāmahyo) [mātula](mātulāgrakayormṛtau) [agra](mātulāgrakayormṛtau) [kayoḥ](mātulāgrakayormṛtau) [mṛtau](mātulāgrakayormṛtau)
+[matamaha-pitamaha](mātāmahipitāmahyo) [matula-agra-kayor-mrtau](mātulāgrakayormṛtau)
 
 ## mukta-m0-p70-v1736
-[mātṛṣvasu](mātṛṣvasu) [bhaginyāḥ](bhaginyāśca) [ca](bhaginyāśca) [garbhavān](garbhavānapi) [api](garbhavānapi) [snāpayet](snāpayet)
+[matr-svasu](mātṛṣvasu) [bhaginyah-ca](bhaginyāśca) [garbhavan-api](garbhavānapi) [snapayet](snāpayet)
 
 ## mukta-m0-p70-v1737
-[parityajya](parityajya) [śivaṃ](śivaṃ) [kuryāt](kuryāt) [nitya](nityanaimittikācaret) [naimittika](nityanaimittikācaret) [ācaret](nityanaimittikācaret)
+[parityajya](parityajya) [shivam](śivaṃ) [kuryat](kuryāt) [nitya-naimittika-acaret](nityanaimittikācaret)
 
 ## mukta-m0-p70-v1738
-[paśu](paśupāśa) [pāśa](paśupāśa) [śabdataḥ](śabdato) [jīvaṃ](jīvaṃ) [pāśa](pāśamuktaḥ) [muktaḥ](pāśamuktaḥ) [para](paraśśivaḥ) [śivaḥ](paraśśivaḥ)
+[pashu-pasha-shabdato](paśupāśa) [jivam](jīvaṃ) [pasha-muktah](pāśamuktaḥ) [para-shivah](paraśśivaḥ)
 
 ## mukta-m0-p70-v1739
-[āditya](ādityaśca) [ca](ādityaśca) [pa](pa) [gopāla](gopālakhagaṃ) [khagaṃ](gopālakhagaṃ) [rudraṃ](rudraṃ) [tathā](tathaiva) [eva](tathaiva) [ca](ca)
+[aditya](ādityaśca) [pa](pa) [gopala-khagam](gopālakhagaṃ) [rudram](rudraṃ) [tatha-eva](tathaiva) [ca](ca)
 
 ## mukta-m0-p70-v1740
-[prāpte](prāpte) [kali](kaliyuge) [yuge](kaliyuge) [ghore](ghore) [naṣṭe](naṣṭe) [dagdhe](dagdhe) [ca](ca) [vā](vā) [punaḥ](punaḥ)
+[prapte](prāpte) [kali-yuge](kaliyuge) [ghore](ghore) [naste](naṣṭe) [dagdhe](dagdhe) [ca](ca) [va](vā) [punah](punaḥ)
 
 ## mukta-m0-p70-v1741
-[āghrāra](āghrāraviṃdantu) [viṃdantu](āghrāraviṃdantu) [veda](vedaśvānaśśanaiśśanaiḥ) [śvānaḥ](vedaśvānaśśanaiśśanaiḥ) [śanaiḥ](vedaśvānaśśanaiśśanaiḥ) [śanaiḥ](vedaśvānaśśanaiśśanaiḥ)
+[aghrara-vindantu](āghrāraviṃdantu) [veda-shvana-shanai-shanaih](vedaśvānaśśanaiśśanaiḥ)
 
 ## mukta-m0-p70-v1742
-[śubhaṃ](śubhaṃ) [ca](ca) [aśubhaṃ](aśubhaṃ) [cāva](cāva) [aśubhaṃ](aśubhaṃ) [śubha](śubhavāhanam) [vāhanam](śubhavāhanam)
+[shubham](śubhaṃ) [ca](ca) [ashubham](aśubhaṃ) [ca-ava](cāva) [ashubham](aśubhaṃ) [shubha-vahanam](śubhavāhanam)
 
 ## mukta-m0-p70-v1743
-[caṃdrārka](caṃdrārkavacchinnau) [vacchinnau](caṃdrārkavacchinnau) [ca](ca) [eva](eva) [sarva](sarvadevāśca) [devāḥ](sarvadevāśca) [ca](sarvadevāśca) [meva](meva) [ca](ca)
+[candra-arka-vacchinnau](caṃdrārkavacchinnau) [ca-eva](caiva) [sarva-devah-ca](sarvadevāśca) [meva](meva) [ca](ca)
 
 ## mukta-m0-p70-v1744
-[trayodaśīm](trayodaśīmamāvāsyāyāṃ) [amāvāsyāyām](trayodaśīmamāvāsyāyāṃ) [māgha](māghamāse) [māse](māghamāse) [caturdaśī](caturdaśī)
+[trayodashim](trayodaśīmamāvāsyāyāṃ) [amavasyayam](amāvāsyāyāṃ) [magha-mase](māghamāse) [caturdashi](caturdaśī)
 
 ## mukta-m0-p70-v1745
-[caturdaśī](caturdaśī) [śivām](śivāṃ) [proktā](proktā) [amāvāsyā](amāvāsyā) [svayaṃ](svayaṃ) [śivaḥ](śivaḥ)
+[caturdashi](caturdaśī) [shivan](śivāṃ) [prokta](proktā) [amavasya](amāvāsyā) [svayam](svayaṃ) [shiva](śivaḥ)
 
 ## mukta-m0-p70-v1746
-[japena](japena) [devatā](devatā) [nityaṃ](nityaṃ) [pūryamānaṃ](pūryamānaṃ) [prasīdati](prasīdati)
+[japena](japena) [devata](devatā) [nityam](nityaṃ) [puryamanam](pūryamānaṃ) [prasidati](prasīdati)
 
 ## mukta-m0-p70-v1747
-[yakṣa](yakṣarākṣasa) [rākṣasa](yakṣarākṣasa) [paiśāca](paiśāca) [graha](grahassarpādi) [sarpa](grahassarpādi) [ādi](grahassarpādi) [bhīṣaṇā](bhīṣaṇā)
+[yaksha-rakshasa](yakṣarākṣasa) [paishaca](paiśāca) [graha-sarpa-adi](grahassarpādi) [bhishana](bhīṣaṇā)
 
 ## mukta-m0-p70-v1748
-[vakṣyāmi](vakṣyāmi) [śivarātriṃ](śivarātriṃ) [syāt](syātpūjayenmuni) [pūjayet](syātpūjayenmuni) [muni](syātpūjayenmuni) [sattama](sattama)
+[vakshyami](vakṣyāmi) [shiva-ratrim](śivarātriṃ) [syat](syātpūjayenmuni) [pujayet](pūjayenmuni) [muni](muni) [sattama](sattama)
 
 ## mukta-m0-p70-v1749
-[yuge](yuge) [yuge](yuge) [tu](tu) [saṃpūjya](saṃpūjya) [tretāyām](tretāyāṃ) [tu](tu) [guhaṃ](guhaṃ) [yajet](yajet)
+[yuge](yuge) [yuge](yuge) [tu](tu) [sampujya](saṃpūjya) [tretayam](tretāyāṃ) [tu](tu) [guham](guhaṃ) [yajet](yajet)
 
 ## mukta-m0-p70-v1750
-[brahmendre](brahmendre) [ṛṣibhiḥ](ṛṣibhiścaiva) [ca](ṛṣibhiścaiva) [eva](ṛṣibhiścaiva) [kali](kaliyuge) [yuge](kaliyuge) [tu](tu) [samarcayet](samarcayet)
+[brahmendra](brahmendre) [rishibhih-ca-eva](ṛṣibhiścaiva) [kali-yuge](kaliyuge) [tu](tu) [samarcayet](samarcayet)
