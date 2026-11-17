@@ -131,12 +131,12 @@
 "quick_gloss": "gradation"
 },
 {
-"surface": "utā",
+"surface": "uta",
 "quick_gloss": "or"
 },
 {
 "surface": "āśritāḥ",
-"quick_gloss": "resort"
+"quick_gloss": "resorted"
 }
 ]
 },
@@ -149,11 +149,11 @@
 "tokens": [
 {
 "surface": "śiṣye",
-"quick_gloss": "in-disciple"
+"quick_gloss": "for-disciple"
 },
 {
 "surface": "ananyaśaraṇye",
-"quick_gloss": "not-other-refuge"
+"quick_gloss": "without-other-refuge"
 },
 {
 "surface": "te",
@@ -182,7 +182,7 @@
 },
 {
 "surface": "praśnajātam",
-"quick_gloss": "question-born"
+"quick_gloss": "question-collection"
 },
 {
 "surface": "yato",
@@ -223,15 +223,15 @@
 "tokens": [
 {
 "surface": "matvā",
-"quick_gloss": "considering"
+"quick_gloss": "having-considered"
 },
 {
 "surface": "yogyaṃ",
-"quick_gloss": "suitable"
+"quick_gloss": "fit"
 },
 {
 "surface": "praśnajātaṃ",
-"quick_gloss": "question-born"
+"quick_gloss": "question-collection"
 },
 {
 "surface": "pravaktum",
@@ -255,8 +255,8 @@
 "quick_gloss": "with-reflection"
 },
 {
-"surface": "paro",
-"quick_gloss": "intent"
+"surface": "paraḥ",
+"quick_gloss": "devoted"
 },
 {
 "surface": "yastvam",
@@ -272,7 +272,7 @@
 },
 {
 "surface": "prabhāvitaḥ",
-"quick_gloss": "empowered"
+"quick_gloss": "able"
 }
 ]
 },
@@ -284,12 +284,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "sattarka",
-"quick_gloss": "true-logic"
-},
-{
-"surface": "paraḥ",
-"quick_gloss": "intent"
+"surface": "sattarkaparaḥ",
+"quick_gloss": "good-reasoning-devoted"
 },
 {
 "surface": "nāsti",
@@ -297,7 +293,7 @@
 },
 {
 "surface": "prabhāvitaḥ",
-"quick_gloss": "empowered"
+"quick_gloss": "able"
 },
 {
 "surface": "samarthaḥ",
@@ -314,7 +310,7 @@
 "tokens": [
 {
 "surface": "bhagavacchaktipātena",
-"quick_gloss": "by-lord-power-descent"
+"quick_gloss": "by-divine-power-descent"
 },
 {
 "surface": "vinā",
@@ -359,7 +355,7 @@
 },
 {
 "surface": "suprasāditā",
-"quick_gloss": "well-pleasedness"
+"quick_gloss": "well-pleased"
 }
 ]
 },
@@ -372,11 +368,11 @@
 "tokens": [
 {
 "surface": "prasanneśvarasya",
-"quick_gloss": "pleased-lord's"
+"quick_gloss": "pleased-lord"
 },
 {
 "surface": "sutarkotpādanam",
-"quick_gloss": "good-logic-production"
+"quick_gloss": "good-reasoning-production"
 },
 {
 "surface": "eva",
@@ -425,15 +421,15 @@
 },
 {
 "surface": "api",
-"quick_gloss": "even"
+"quick_gloss": "also"
 },
 {
 "surface": "tvayoktaṃ",
-"quick_gloss": "by-you-said"
+"quick_gloss": "by-you"
 },
 {
 "surface": "apracidvapuḥ",
-"quick_gloss": "not-transcendent-body"
+"quick_gloss": "not-pure-body"
 }
 ]
 },
@@ -446,7 +442,7 @@
 "tokens": [
 {
 "surface": "paracidvapuḥ",
-"quick_gloss": "transcendent-body"
+"quick_gloss": "pure-body"
 },
 {
 "surface": "na",
@@ -486,16 +482,24 @@
 "quick_gloss": "who"
 },
 {
-"surface": "yāvadveda",
-"quick_gloss": "as-much-knows"
+"surface": "yāvat",
+"quick_gloss": "as-much"
+},
+{
+"surface": "veda",
+"quick_gloss": "knows"
 },
 {
 "surface": "tāvat",
 "quick_gloss": "so-much"
 },
 {
-"surface": "na veda",
-"quick_gloss": "not-knows"
+"surface": "na",
+"quick_gloss": "not"
+},
+{
+"surface": "veda",
+"quick_gloss": "knows"
 },
 {
 "surface": "vai",
@@ -515,16 +519,20 @@
 "quick_gloss": "not"
 },
 {
-"surface": "veda",
+"surface": "vedeti",
 "quick_gloss": "knows"
 },
 {
-"surface": "iti",
-"quick_gloss": "thus"
+"surface": "vedana",
+"quick_gloss": "knowledge"
 },
 {
-"surface": "vedanamukhyaphalābhāvāt",
-"quick_gloss": "knowledge-primary-fruit-absence"
+"surface": "mukhyaphala",
+"quick_gloss": "main-fruit"
+},
+{
+"surface": "abhāvāt",
+"quick_gloss": "absence"
 },
 {
 "surface": "na",
@@ -535,12 +543,8 @@
 "quick_gloss": "knows"
 },
 {
-"surface": "iti",
+"surface": "ityarthaḥ",
 "quick_gloss": "thus"
-},
-{
-"surface": "arthaḥ",
-"quick_gloss": "meaning"
 }
 ]
 },
@@ -553,15 +557,19 @@
 "tokens": [
 {
 "surface": "taṭasthasaṃvedanaṃ",
-"quick_gloss": "neutral-experience"
+"quick_gloss": "neutral-knowledge"
 },
 {
 "surface": "tu",
 "quick_gloss": "but"
 },
 {
-"surface": "svapnasaṃvedanopamam",
-"quick_gloss": "dream-experience-similar"
+"surface": "svapnasaṃvedana",
+"quick_gloss": "dream-knowledge"
+},
+{
+"surface": "upamam",
+"quick_gloss": "like"
 }
 ]
 },
@@ -589,12 +597,8 @@
 "quick_gloss": "indeed"
 },
 {
-"surface": "iti",
+"surface": "ityāha",
 "quick_gloss": "thus"
-},
-{
-"surface": "āha",
-"quick_gloss": "says"
 },
 {
 "surface": "svapna",
@@ -615,7 +619,7 @@
 "tokens": [
 {
 "surface": "tathā",
-"quick_gloss": "so"
+"quick_gloss": "thus"
 },
 {
 "surface": "taṭasthavijñānam",
@@ -623,7 +627,7 @@
 },
 {
 "surface": "amukhyaphaladaṃ",
-"quick_gloss": "non-primary-fruit-giving"
+"quick_gloss": "non-main-fruit-giving"
 },
 {
 "surface": "bhavet",
@@ -643,12 +647,8 @@
 "quick_gloss": "not"
 },
 {
-"surface": "bhavati",
+"surface": "bhavatyevam",
 "quick_gloss": "becomes"
-},
-{
-"surface": "evam",
-"quick_gloss": "thus"
 },
 {
 "surface": "atra",
@@ -656,15 +656,11 @@
 },
 {
 "surface": "api",
-"quick_gloss": "too"
+"quick_gloss": "also"
 },
 {
-"surface": "iti",
+"surface": "ityarthaḥ",
 "quick_gloss": "thus"
-},
-{
-"surface": "arthaḥ",
-"quick_gloss": "meaning"
 }
 ]
 },
@@ -688,7 +684,7 @@
 "quick_gloss": "someone"
 },
 {
-"surface": "āsīt",
+"surface": "āsīd",
 "quick_gloss": "was"
 },
 {
@@ -714,11 +710,11 @@
 },
 {
 "surface": "taṭasthavijñānasya",
-"quick_gloss": "neutral-knowledge's"
+"quick_gloss": "neutral-knowledge"
 },
 {
 "surface": "amukhyaphalatve",
-"quick_gloss": "non-primary-fruit-ness"
+"quick_gloss": "non-main-fruit"
 }
 ]
 },
@@ -747,7 +743,7 @@
 },
 {
 "surface": "kratubhiḥ",
-"quick_gloss": "rituals"
+"quick_gloss": "sacrifices"
 },
 {
 "surface": "uttamaiḥ",
@@ -764,10 +760,10 @@
 "tokens": [
 {
 "surface": "kalābhijñā",
-"quick_gloss": "arts-knowing"
+"quick_gloss": "arts-knowers"
 },
 {
-"surface": "vaidikāḥ",
+"surface": "vaidikāśca",
 "quick_gloss": "vedic"
 },
 {
@@ -775,12 +771,8 @@
 "quick_gloss": "and"
 },
 {
-"surface": "yajvānaḥ",
+"surface": "yajvānaśca",
 "quick_gloss": "sacrificers"
-},
-{
-"surface": "ca",
-"quick_gloss": "and"
 },
 {
 "surface": "api",
@@ -788,7 +780,7 @@
 },
 {
 "surface": "satriṇaḥ",
-"quick_gloss": "soma-ritualists"
+"quick_gloss": "soma-pressers"
 }
 ]
 }
