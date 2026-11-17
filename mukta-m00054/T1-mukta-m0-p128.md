@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p128-v3176
-[jewel-limbed](ratnāṅgāya) [obeisance](namaḥ) [great-ocean-drinking-knower](mahārṇava+nipāna+vide) [obeisance](namaḥ)
+[salutation](ratnāṅgāyanamaḥ) [salutation](mahārṇavanipānavidenamaḥ)
 
 ## mukta-m0-p128-v3177
-[root](mūlāya) [obeisance](namaḥ) [vast](viśālāya) [obeisance](namaḥ) [immortal](amṛtāya) [obeisance](namaḥ)
+[salutation](mūlāyanamaḥ) [salutation](viśālāyanamaḥ) [salutation](amṛtāyanamaḥ)
 
 ## mukta-m0-p128-v3178
-[manifest-unmanifest](vyakta+avyaktāya) [obeisance](namaḥ) [austerity-treasure](tapo+nidhaye) [obeisance](namaḥ) [ascent](ārohaṇāya) [obeisance](namaḥ)
+[salutation](vyaktāvyaktāyanamaḥ) [salutation](taponidhayenamaḥ) [salutation](ārohaṇāyanamaḥ)
 
 ## mukta-m0-p128-v3179
-[elevation](adhirodhāya) [obeisance](namaḥ) [trident-bearer](śūla+dhāriṇe) [obeisance](namaḥ)
+[salutation](adhirodhāyanamaḥ) [salutation](śūladhāriṇenamaḥ)
 
 ## mukta-m0-p128-v3180
-[great-fame](mahāyaśase) [obeisance](namaḥ) [army-creator](senā+kalpāya) [obeisance](namaḥ) [great-creator](mahā+kalpāya) [obeisance](namaḥ)
+[salutation](mahāyaśasenamaḥ) [salutation](senākalpāyanamaḥ) [salutation](mahākalpāyanamaḥ)
 
 ## mukta-m0-p128-v3181
-[yoga](yogāya) [obeisance](namaḥ) [age-maker](yuga+karāya) [obeisance](namaḥ) [remover](haraye) [obeisance](namaḥ)
+[salutation](yogāyanamaḥ) [salutation](yugakarāyanamaḥ) [salutation](harayenamaḥ)
 
 ## mukta-m0-p128-v3182
-[age-form](yuga+rūpāya) [obeisance](namaḥ) [great-form](mahā+rūpāya) [obeisance](namaḥ)
+[salutation](yugarūpāyanamaḥ) [salutation](mahārūpāyanamaḥ)
 
 ## mukta-m0-p128-v3183
-[great-serpent-slayer](mahā+nāga+hanāya) [obeisance](namaḥ) [slaying](vadhāya) [obeisance](namaḥ)
+[salutation](mahānāgahanāyanamaḥ) [salutation](vadhāyanamaḥ)
 
 ## mukta-m0-p128-v3184
-[justice-dispenser](nyāya+nirvapaṇāya) [obeisance](namaḥ) [foot](pādāya) [obeisance](namaḥ) [learned](paṇḍitāya) [obeisance](namaḥ)
+[salutation](nyāyanirvapaṇāyanamaḥ) [salutation](pādāyanamaḥ) [salutation](paṇḍitāyanamaḥ)
 
 ## mukta-m0-p128-v3185
-[mountain-like](acala+upamāya) [obeisance](namaḥ) [many-garlanded](bahu+mālāya) [obeisance](namaḥ)
+[salutation](acalopamāyanamaḥ) [salutation](bahumālāyanamaḥ)
 
 ## mukta-m0-p128-v3186
-[great-garlanded](mahā+mālāya) [obeisance](namaḥ) [moon-sun-beautiful-eyed](śaśi+hara+sulocanāya) [obeisance](namaḥ)
+[salutation](mahāmālāyanamaḥ) [salutation](śaśiharasulocanāyanamaḥ)
 
 ## mukta-m0-p128-v3187
-[wide-salt-well](vistāra+lavaṇa+kūpāya) [obeisance](namaḥ) [three-ages](tri+yugāya) [obeisance](namaḥ)
+[salutation](vistāralavaṇakūpāyanamaḥ) [salutation](triyugāyanamaḥ)
 
 ## mukta-m0-p128-v3188
-[jewel-pierced](maṇi+viddhāya) [obeisance](namaḥ) [matted-hair-bearer](jaṭā+dharāya) [obeisance](namaḥ)
+[salutation](maṇividdhāyanamaḥ) [salutation](jaṭādharāyanamaḥ)
 
 ## mukta-m0-p128-v3189
-[drop](bindave) [obeisance](namaḥ) [emission](visargāya) [obeisance](namaḥ) [beautiful-faced](su+mukhāya) [obeisance](namaḥ)
+[salutation](bindavenamaḥ) [salutation](visargāyanamaḥ) [salutation](sumukhāyanamaḥ)
 
 ## mukta-m0-p128-v3190
-[arrow](śarāya) [obeisance](namaḥ) [all-weapons](sarva+āyudhāya) [obeisance](namaḥ) [companion](sahāya) [obeisance](namaḥ)
+[salutation](śarāyanamaḥ) [salutation](sarvāyudhāyanamaḥ) [salutation](sahāyanamaḥ)
 
 ## mukta-m0-p128-v3191
-[offering](nivedanāya) [obeisance](namaḥ) [happiness-born](sukha+ājātāya) [obeisance](namaḥ) [good-fragrance-stream](su+gandhārāya) [obeisance](namaḥ)
+[salutation](nivedanāyanamaḥ) [salutation](sukhājātāyanamaḥ) [salutation](sugandhārāyanamaḥ)
 
 ## mukta-m0-p128-v3192
-[great-bow](mahā+dhanuṣe) [obeisance](namaḥ) [fragrance-protector-lord](gandha+pāli+bhagavate) [obeisance](namaḥ)
+[salutation](mahādhanuṣenamaḥ) [salutation](gandhapālibhagavatenamaḥ)
 
 ## mukta-m0-p128-v3193
-[all-action-origin](sarva+karma+utthānāya) [obeisance](namaḥ) [churning-abundant-wind](manthāna+bahula+vāyave) [obeisance](namaḥ)
+[salutation](sarvakarmotthānāyanamaḥ) [salutation](manthānabahulavāyavenamaḥ)
 
 ## mukta-m0-p128-v3194
-[whole](sakalāya) [obeisance](namaḥ) [all-eyed](sarva+locanāya) [obeisance](namaḥ) [surface-clapping](tala+stālāya) [obeisance](namaḥ)
+[salutation](sakalāyanamaḥ) [salutation](sarvalocanāyanamaḥ) [salutation](talastālāyanamaḥ)
 
 ## mukta-m0-p128-v3195
-[umbrella](chatrāya) [obeisance](namaḥ) [beautiful-umbrella](su+chatrāya) [obeisance](namaḥ)
+[salutation](chatrāyanamaḥ) [salutation](succhatrāyanamaḥ)
 
 ## mukta-m0-p128-v3196
-[world-renowned](vikhyāta+lokāya) [obeisance](namaḥ) [all-refuge-order](sarva+āśraya+kramāya) [obeisance](namaḥ)
+[salutation](vikhyātalokāyanamaḥ) [salutation](sarvāśrayakramāyanamaḥ)
 
 ## mukta-m0-p128-v3197
-[shaven-headed](muṇḍāya) [obeisance](namaḥ) [deformed](virūpāya) [obeisance](namaḥ) [transformed](vikṛtāya) [obeisance](namaḥ)
+[salutation](muṇḍāyanamaḥ) [salutation](virūpāyanamaḥ) [salutation](vikṛtāyanamaḥ)
 
 ## mukta-m0-p128-v3198
-[staff-bearer](daṇḍine) [obeisance](namaḥ) [earring-bearer](kuṇḍine) [obeisance](namaḥ) [transforming](vikurvāṇāya) [obeisance](namaḥ)
+[salutation](daṇḍinenamaḥ) [salutation](kuṇḍinenamaḥ) [salutation](vikurvāṇāyanamaḥ)
 
 ## mukta-m0-p128-v3199
-[green-eyed](haryakṣāya) [obeisance](namaḥ) [direction-lord](kakubhāya) [obeisance](namaḥ) [thunderbolt-bearer](vajriṇe) [obeisance](namaḥ)
+[salutation](haryakṣāyanamaḥ) [salutation](kakubhāyanamaḥ) [salutation](vajriṇenamaḥ)
 
 ## mukta-m0-p128-v3200
-[hundred-tongued](śata+jihvāya) [obeisance](namaḥ) [thousand-footed-thousand-headed](sahasrapat+sahasramūrddhne) [obeisance](namaḥ)
+[salutation](śatajihvāyanamaḥ) [salutation](sahasrapatsahasramūrddhnenamaḥ)
