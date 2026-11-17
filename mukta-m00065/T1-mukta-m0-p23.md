@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p23-v551
-[chariot](rathaṃ) [road+gone](mārga+gataṃ) [having-made](kṛtvā) [slowly](śanaiḥ) [own+city](sva+puram) [one-should-bring](ānayet)
+[chariot](rathaṃ) [road+gone](mārgagataṃ) [having-made](kṛtvā) [slowly](śanaiḥ) [own+city+bring](svapuramānayet)
 
 ## mukta-m0-p23-v552
-[splendor](śobhāṃ) [banner+flag+etc.](dhvaja+patākā+ādyaiḥ) [with-women](strībhiḥ) [auspicious+songs](maṅgala+gītakaiḥ)
+[beauty](śobhāṃ) [flag+banner+etc](dhvajapatākādyaiḥ) [by-women](strībhir) [auspicious+song](maṅgalagītakaiḥ)
 
 ## mukta-m0-p23-v553
-[temple's](prāsādasya) [northern](uttare) [on-side](pārśve) [ritual+work](karma+kuryāt) [one-should-dedicate](nivedayet)
+[page-65](p. 65) [of-palace](prāsādasya) [northern](uttare) [side](pārśve) [work](karma) [should-do](kuryāt) [should-offer](nivedayet)
 
 ## mukta-m0-p23-v554
-[by-five+seven+eleven](pañca+sapta+ekādaśabhiḥ) [by-cubits](karaiḥ) [ritual+hut](karma+kuṭī) [considered](matā)
+[five+seven+eleven+by](pañcasaptaikādaśabhiḥ) [by-hands](karaiḥ) [work+hut](karmakuṭī) [considered](matā)
 
 ## mukta-m0-p23-v555
-[temple+north+direction+pit](prāsāda+uttara+dik+garte) [having-thrown](kṣiptvā) [that](tāṃ) [one-should-fill](pūrayet) [with-earth](mṛdā)
+[palace+north+direction+pit](prāsādottaradiggarte) [having-thrown](kṣiptvā) [her](tāṃ) [should-fill](pūrayet) [with-earth](mṛdā)
 
 ## mukta-m0-p23-v556
-[one-should-propitiate](tarpayet) [weapon+king](astra+rājaṃ) [and](ca) [great+pāśupata](mahā+pāśupataṃ) [and](ca) [which](yat)
+[should-satisfy](tarpayet) [weapon+king](astrarājaṃ) [and](ca) [great+pashupata](mahāpāśupataṃ) [and](ca) [which](yat)
 
 ## mukta-m0-p23-v557
-[thus](evaṃ) [being-propitiated](santarpite) [indeed](hi) [weapon](astre) [by-direction+faults](dik+doṣaiḥ) [is-freed](mucyate) [stone](śilā)
+[thus](evaṃ) [satisfied](santarpite) [indeed](hy) [weapon](astre) [variant-jyeṣṭhe]([k, g: jyeṣṭhe]) [direction+faults+by](digdoṣair) [is-freed](mucyate) [stone](śilā)
 
 ## mukta-m0-p23-v558
-[of-that](tasya) [of-liṅga](liṅgasya) [good+brahmin](sat+vipraḥ) [maiden](kanyā) [artisan](śilpī) [and](ca) [honored](pūjitā)
+[its](tasya) [of-linga](liṅgasya) [good+brahmin](sadvipraḥ) [girl](kanyā) [sculptor](śilpī) [and](ca) [worshipped](pūjitā)
 
 ## mukta-m0-p23-v559
-[certainly](dhruvaṃ) [to-be-done](kartavyam) [thus](iti) [says](āha) [lord](bhagavān) [supreme+lord](parama+īśvaraḥ)
+[certainly](dhruvaṃ) [to-be-done](kartavyam) [thus](iti) [said](āha) [lord](bhagavān) [supreme+lord](parameśvaraḥ)
 
 ## mukta-m0-p23-v560
-[stone](śilāṃ) [that](tāṃ) [one-should-avoid](varjayet) [with-effort](yatnāt) [not+auspicious](na+śastā) [in-liṅga+work](liṅga+karmaṇi)
+[stone](śilāṃ) [that](tāṃ) [should-avoid](varjayet) [by-effort](yatnāt) [not](na) [auspicious](śastā) [linga+work+in](liṅgakarmaṇi)
 
 ## mukta-m0-p23-v561
-[thus](evaṃ) [wood+made](dāru+mayaṃ) [and](ca) [also](api) [liṅga+etc.+material](liṅga+ādi+dravyam) [one-should-bring](ānayet)
+[thus](evaṃ) [wooden](dārumayaṃ) [and+also](cāpi) [variant-vāpi]([mū, a, k, kh: vāpi]) [linga+etc+material](liṅgādidravyam) [should-bring](ānayet)
 
 ## mukta-m0-p23-v562
-[east+north+īśa+directions](prāk+uttara+īśa+kāṣṭhāsu) [stone](śilāṃ) [having-placed](nyasya) [somewhere](kvacit) [in-opinion](mate)
+[previously+said+lord+wood+in](prāguktareśakāṣṭhāsu) [stone](śilāṃ) [placing](nyasya) [somewhere](kvacin) [in-opinion](mate)
 
 ## mukta-m0-p23-v563
-[or](athavā) [death+conqueror](mṛtyu+jetāraṃ) [with-knowledge+limbs](vidyā+aṅgaiḥ) [with-six](ṣaḍbhiḥ) [endowed](anvitam)
+[or](athavā) [death+conqueror](mṛtyujetāraṃ) [vidya+limbs+by](vidyāṅgaiḥ) [variant-vidyāhvaiḥ]([g: vidyāhvaiḥ]) [by-six](ṣaḍbhir) [endowed](anvitam)
 
 ## mukta-m0-p23-v564
-[thus](iti) [by-this](anena) [by-method](vidhānena) [having-taken](gṛhītvā) [wood](dāru) [or](vā) [stone](aśma) [or](vā)
+[thus+by-this](ityanena) [by-rite](vidhānena) [having-taken](gṛhītvā) [wood](dāru) [or](vā) [stone](aśma) [variant-raśma]([k, kh: raśma]) [or](vā)
 
 ## mukta-m0-p23-v565
-[liṅga](liṅgaṃ) [by-teacher+command](guru+ājñayā) [one-should-make](kuryāt) [threefold](tridhā) [by-measure+characterized](māna+upalakṣitam)
+[linga](liṅgaṃ) [by-guru+command](gurvājñyā) [should-make](kuryāt) [threefold](tridhā) [measure+marked](mānopalakṣitam)
 
 ## mukta-m0-p23-v566
-[thus](iti) [in-characteristics+compendium](lakṣaṇa+samuccaye) [wood+stone+taking](dāru+śilā+grahaṇaṃ) [named](nāma) [third](tṛtīyo) [rule](vidhiḥ)
+[thus](iti) [in+characteristics+compendium](lakṣaṇasamuccaye) [wood+stone+grasping](dāruśilāgrahaṇaṃ) [named](nāma) [third](tṛtīyo) [rite](vidhiḥ)
 
 ## mukta-m0-p23-v567
-[by-four+finger+measure](catur+aṅgula+mānena) [by-door+womb+cubits](dvāra+garbha+karaiḥ) [situated](sthitam)
+[four+finger+measure+by](caturaṅgulamānena) [variant-calamaṅgula-]([mū, a, kh, g, gh, ṅ: calamaṅgula-]) [door+womb+hands+by](dvāragarbhakaraiḥ) [situated](sthitam)
 
 ## mukta-m0-p23-v568
-[hair+tip+nit+lice](keśa+agra+likṣā+yūkābhyāṃ) [in-order](kramāt) [by-eight+eight](aṣṭa+aṣṭabhiḥ) [barleycorn](yavaḥ)
+[hair+tip+lice+lice+by](keśāgralikṣāyūkābhyāṃ) [variant-yūkānāṃ]([mū: yūkānāṃ]) [in-order](kramāt) [eight+eight+by](aṣṭāṣṭabhiḥ) [barley](yavaḥ)
 
 ## mukta-m0-p23-v569
-[crosswise](tiryak) [with-equal+bellies](sama+udaraiḥ) [declared](proktaṃ) [for-measure+purpose](māna+arthaṃ) [in-pārameśvara](pārameśvare)
+[page-67](p. 67) [oblique](tiryak) [equal+bellies+by](samodaraiḥ) [said](proktaṃ) [measure+purpose](mānārthaṃ) [in+parameshvara](pārameśvare)
 
 ## mukta-m0-p23-v570
-[by-digit+ball+eye+number](kalā+golaka+netra+aṅka) [by-measures](mātrābhiḥ) [two+finger](dvi+aṅgalaṃ) [remembered](smṛtam)
+[art+sphere+eye+mark](kalāgolakanetrāṅka) [variant-netrāhva]([gh: netrāhva]) [by-measures](mātrābhiḥ) [two+finger](dvyaṅgalaṃ) [remembered](smṛtam)
 
 ## mukta-m0-p23-v571
-[half+hand](ardha+hastaṃ) [span](vitastiṃ) [and](ca) [palm](tālaṃ) [and](ca) [twelve+finger](dvādaśa+aṅgulam)
+[half+hand](ardhahastaṃ) [span](vitastiṃ) [and](ca) [palm](tālaṃ) [and](ca) [twelve+finger](dvādaśāṅgulam)
 
 ## mukta-m0-p23-v572
-[of-liṅga+shrine+pedestal+etc.](liṅga+dhāma+āsana+ādīnāṃ) [in-all+ritual+procedure](sarva+karma+vidhau) [accepted](matā)
+[linga+abode+seat+etc+of](liṅgadhāmāsanādīnāṃ) [all+work+rite+in](sarvakarmavidhau) [considered](matā)
 
 ## mukta-m0-p23-v573
-[from-door+measure](dvāra+mānāt) [threefold](tri+saṃkhyākaṃ) [ninefold](navadhā) [from-womb+measure](garbha+mānataḥ)
+[door+measure+from](dvāramānāt) [three+numbered](trisaṃkhyākaṃ) [ninefold](navadhā) [womb+measure+from](garbhamānataḥ)
 
 ## mukta-m0-p23-v574
-[thus](evaṃ) [liṅgas](liṅgāni) [thirty-six](ṣaṭ+triṃśat) [to-be-known](jñeyāni) [by-largest+measure](jyeṣṭha+mānataḥ)
+[thus](evaṃ) [lingas](liṅgāni) [thirty-six](ṣaṭtriṃśat) [knowable](jñeyāni) [eldest+measure+from](jyeṣṭhamānataḥ)
 
 ## mukta-m0-p23-v575
-[of-these](eṣām) [by-combination](aikyena) [of-liṅgas](liṅgānāṃ) [hundred](śatam) [eight+more](aṣṭa+uttaraṃ) [should-be](bhavet)
+[of-these](eṣām) [by-unity](aikyena) [of-lingas](liṅgānāṃ) [hundred](śatam) [eight+plus](aṣṭottaraṃ) [becomes](bhavet)
