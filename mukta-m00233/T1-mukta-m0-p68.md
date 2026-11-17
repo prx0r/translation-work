@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p68-v1676
-[momentary](kṣaṇikam) [in-deep](agādhe) [in-water](ambhasi) [one-should-drop](nikṣipet)
+[kṣaṇika](kṣaṇikam) [agādhe](agādhe) [ambhasi](ambhasi) [nikṣipet](nikṣipet)
 
 ## mukta-m0-p68-v1677
-[great-festival-rite](mahotsavavidhiḥ) [of-śambhu](śambhoḥ) [is-described](kathyate) [by-which](yena) [satisfied](tarpitāḥ)
+[mahotsava-vidhiḥ](mahotsavavidhiḥ) [śambhoḥ](śambhoḥ) [kathyate](kathyate) [yena](yena) [tarpitāḥ](tarpitāḥ)
 
 ## mukta-m0-p68-v1678
-[every-year](pratisaṃvatsaraṃ) [or](vā) [every-six-months](pratiṣaṇmāsam) [indeed](eva) [or](vā)
+[pratisaṃvatsaraṃ](pratisaṃvatsaraṃ) [vā](vā) [api](api) [pratiṣaṇmāsam](pratiṣaṇmāsameva) [eva](eva) [vā](vā)
 
 ## mukta-m0-p68-v1679
-[by-chariot](rathena) [may-be](syāt) [or](athavā) [by-palanquin-etc](śibikādinā)
+[rathena](rathena) [syāt](syād) [athavā](athavā) [śibikādinā](śibikādinā)
 
 ## mukta-m0-p68-v1680
-[chariot-etc](rathādyam) [and](ca) [vehicle](yānaṃ) [cot-etc](khaṭvādikaṃ) [indeed](tu) [which](yat)
+[rathādyam](rathādyaṃ) [ca](ca) [yānaṃ](yānaṃ) [khaṭvādikaṃ](khaṭvādikaṃ) [tu](tu) [yat](yat)
 
 ## mukta-m0-p68-v1681
-[peaked](śaikharī) [crowned](mauṇḍī) [threefold](trividhā) [palanquin](śibikā) [becomes](bhavet)
+[śaikharī](śaikharī) [mauṇḍī](mauṇḍī) [trividhā](trividhā) [śibikā](śibikā) [bhavet](bhavet)
 
 ## mukta-m0-p68-v1682
-[pillar-top-end](stambhottarāntā) [indeed](tu) [hall-roof-joined](śālācchādanasaṃyutā)
+[stambha-uttarāntā](stambhottarāntā) [tu](tu) [śālā-cchādana-saṃyutā](śālācchādanasaṃyutā)
 
 ## mukta-m0-p68-v1683
-[three-span-wide](trivitastikavistārā) [long](dīrghā) [five-span](pañcavitastikam)
+[trivitastika-vistārā](trivitastikavistārā) [dīrghā](dīrghā) [pañcavitastikam](pañcavitastikam)
 
 ## mukta-m0-p68-v1684
-[long](vāyatā) [from-diameter](vyāsāt) [from-own-ear-length](svakarṇāyāmato) [or](api) [or](vā)
+[vāyatā](vāyatā) [vyāsāt](vyāsāt) [svakarṇāyāmataḥ](svakarṇāyāmato) [api](api) [vā](vā)
 
 ## mukta-m0-p68-v1685
-[image-finger-less-high](mūrtyaṅgulavihīnocce) [chief-middle-low-order](mukhyamadhyādhamakramāt)
+[mūrti-aṅgula-vihīna-ucca](mūrtyaṅgulavihīnocce) [mukhya-madhya-adhama-kramāt](mukhyamadhyādhamakramāt)
 
 ## mukta-m0-p68-v1686
-[own-diameter-half-high](svavyāsārdhamuccā) [may-be](syād) [ivory-wood-etc-made](dantadārvādinirmitā)
+[sva-vyāsa-ardha-uccā](svavyāsārdhamuccā) [syāt](syād) [danta-dāru-ādi-nirmitā](dantadārvādinirmitā)
 
 ## mukta-m0-p68-v1687
-[thus](cettham) [flag-decoration](īṣikālaṅkṛtiḥ) [becomes](bhavet)
+[cettham](cettham) [īṣikā-alaṅkṛtiḥ](īṣikālaṅkṛtir) [bhavet](bhavet)
 
 ## mukta-m0-p68-v1688
-[one-and-half-measure-third-part](sārdhadvimātratryaṃśaḥ) [and](ca) [widths](vistārau) [middle-and-best](madhyamottamau)
+[sārdha-dvimātra-tryaṃśaḥ](sārdhadvimātratryaṃśaśca) [ca](ca) [vistārau](vistārau) [madhyama-uttamau](madhyamottamau)
 
 ## mukta-m0-p68-v1689
-[or](vā) [umbrella-like](chatrābho) [hand](hasto) [ivory-etc-made](dantādinirmitaḥ)
+[vā](vā) [chatrābhaḥ](chatrābho) [hastaḥ](hasto) [danta-ādi-nirmitaḥ](dantādinirmitaḥ)
 
 ## mukta-m0-p68-v1690
-[of-parts](bhāgayoḥ) [in-middle](madhyato) [at-end](ante) [and](ca) [at-beginning](ādau) [syu-veda-kampas](syurvedakampakāḥ)
+[bhāgayoḥ](bhāgayormadhyato) [madhyataḥ](madhyataḥ) [ante](ante) [ca](ca) [api](api) [ādau](ādau) [syuḥ](syuḥ) [veda-kampakāḥ](vedakampakāḥ)
 
 ## mukta-m0-p68-v1691
-[parts](bhāgau) [neck-plate-equipped](galikāphalakānvitau)
+[bhāgau](bhāgau) [galikā-phalakānvitau](galikāphalakānvitau)
 
 ## mukta-m0-p68-v1692
-[men-women-actors-etc](naranārīnāṭakādyaiḥ) [decorate](alaṅkuryāt) [indeed](tu) [fittingly](yuktitaḥ)
+[nara-nārī-nāṭaka-ādyaiḥ](naranārīnāṭakādyair) [alaṅkuryāt](alaṅkuryāt) [tu](tu) [yuktitaḥ](yuktitaḥ)
 
 ## mukta-m0-p68-v1693
-[those](tāḥ)
+[tāḥ](tāḥ)
 
 ## mukta-m0-p68-v1694
-[or](vā) [diameter-in-staying-bhakta](vyāsāyāmasthabhaktayā)
+[vā](vā) [vyāsāyām-sthabhaktayā](vyāsāyāmasthabhaktayā)
 
 ## mukta-m0-p68-v1695
-[of-pillars](stambhānāṃ) [indeed](tu) [solid-diameter](ghanavyāsau) [of-kampas](kampānāṃ) [and](ca) [equal](samau) [remembered](smṛtau)
+[stambhānāṃ](stambhānāṃ) [tu](tu) [ghana-vyāsau](ghanavyāsau) [kampānāṃ](kampānāṃ) [ca](ca) [samau](samau) [smṛtau](smṛtau)
 
 ## mukta-m0-p68-v1696
-[six-seven-eight-finger-high](ṣaṭsaptāṣṭāṅgulocchritāḥ)
+[ṣaṭ-sapta-aṣṭa-aṅgula-ucchritāḥ](ṣaṭsaptāṣṭāṅgulocchritāḥ)
 
 ## mukta-m0-p68-v1697
-[peg-planks](kīlapaṭṭaiḥ) [by-fitting](yuktyā) [may-be](syuḥ) [everywhere](sarvato) [firm](dṛḍhāḥ)
+[kīla-paṭṭaiḥ](kīlapaṭṭairyuktyā) [yuktyā](yuktyā) [syuḥ](syuḥ) [sarvataḥ](sarvato) [dṛḍhāḥ](dṛḍhāḥ)
 
 ## mukta-m0-p68-v1698
-[one-should-do](kuryāt) [by-this](anena) [path](mārgeṇa) [specialty](viśeṣaḥ) [indeed](tu) [is-said](nigadyate)
+[kuryāt](kuryādanena) [anena](anena) [mārgeṇa](mārgeṇa) [viśeṣaḥ](viśeṣastu) [tu](tu) [nigadyate](nigadyate)
 
 ## mukta-m0-p68-v1699
-[lattice-wall-surrounded](jālabhittisamāvṛtā)
+[jāla-bhitti-samāvṛtā](jālabhittisamāvṛtā)
 
 ## mukta-m0-p68-v1700
-[in-middle](madhyato) [measure](mānaṃ) [of-palanquins](śibikānāṃ) [is-prescribed](vidhīyate)
+[madhyataḥ](madhyato) [mānaṃ](mānaṃ) [śibikānāṃ](śibikānāṃ) [vidhīyate](vidhīyate)
