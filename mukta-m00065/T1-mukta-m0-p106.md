@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p106-v2626
-[pericarp](karṇikā) [moon+part](śaśi+bhāgena) [from-width](vistārāt) [now](ca) [now](adhunā) [is-stated](ucyate)
+[pericarp](karṇikā) [moon+part-by](śaśi+bhāgena) [from-width+and+now](vistārāt+ca+adhunā) [is-stated](ucyate)
 
 ## mukta-m0-p106-v2627
-[in-its-middle](tat+madhye) [indeed](tu) [by-two-parts](dvi+bhāgābhyāṃ) [recess](praveśaḥ) [for-house](gṛha) [for-sake](hetave)
+[its+in-middle](tat+madhye) [indeed](tu) [by-two+parts](dvi+bhāgābhyāṃ) [recess](praveśaḥ) [house](gṛha) [for-purpose](hetave)
 
 ## mukta-m0-p106-v2628
-[thus](evam) [indeed](eva) [indeed](tu) [in-wall](jaṅghāyām) [of-spire](añjaryāḥ) [up-to-vedikā](vedikā+avadhiḥ)
+[thus+only](evam+eva) [indeed](tu) [of-wall](jaṅghāyām) [of-spire](añjaryāḥ) [platform+up-to](vedikā+avadhiḥ)
 
 ## mukta-m0-p106-v2629
-[temple+spire](prāsāda+śikharaṃ) [or](vā) [or](api) [we-shall-state](brūyāma) [uparatha-etc.](uparatha+ādikān)
+[temple+spire](prāsāda+śikharaṃ) [or](vāpi) [we-shall-state](brūyāma) [upper-chariot+etc](uparatha+ādikān)
 
 ## mukta-m0-p106-v2630
-[from-base](pīṭha+ādi) [up-to-lotus](abja+antam) [in-height](ucchrāye) [recess](praveśaḥ) [and](ca) [is-declared](nigadyate)
+[base+beginning+lotus+up-to](pīṭha+ādi+abja+antam) [in-height](ucchrāye) [recess+and](praveśaḥ+ca) [is-declared](nigadyate)
 
 ## mukta-m0-p106-v2631
-[by-half](ardhena) [fillet](paṭṭikāṃ) [one-should-make](kuryāt) [by-two](dvābhyāṃ) [neck+recess](kaṇṭha+praveśakam)
+[by-half](ardhena) [moulding](paṭṭikāṃ) [one-should-make](kuryāt) [by-two](dvābhyāṃ) [neck+recess](kaṇṭha+praveśakam)
 
 ## mukta-m0-p106-v2632
-[by-half-part](ardha+aṃśena) [above-that](tat+ūrdhve) [indeed](tu) [to-be-made](kāryā) [and](ca) [indeed](eva) [upper-fillet](upa+paṭṭikā)
+[by-half+part](ardha+aṃśena) [its+above](tat+ūrdhve) [indeed](tu) [to-be-made](kāryā) [and+indeed](ca+eva) [upper-moulding](upapaṭṭikā)
 
 ## mukta-m0-p106-v2633
-[three-quarter+recess](tri+aṅghri+praveśaḥ) [haṃsa](haṃsaḥ) [of-that-fillet](tat+paṭṭi) [by-half-recess](ardha+praveśataḥ)
+[three-quarter+recess](tryāṅghri+praveśaḥ) [goose](haṃsaḥ) [its+moulding+by-half+recess](tat+paṭṭi+ardha+praveśataḥ)
 
 ## mukta-m0-p106-v2634
-[endowed-with-joint-leaves](sandhi+patra+anvitaṃ) [lotus](padmaṃ) [one-should-make](vidadhīta) [very-beautiful](su+śobhanam)
+[joint+petal+endowed](sandhi+patra+anvitaṃ) [lotus](padmaṃ) [one-should-make](vidadhīta) [very-beautiful](suśobhanam)
 
 ## mukta-m0-p106-v2635
-[stone-made](śila+utthaṃ) [foot+base](pada+pīṭhaṃ) [should-be](syāt) [thus](evam) [in-wood-and-brick](dāru+iṣṭakā+maye)
+[stone-made](śila+utthaṃ) [foot+base](pada+pīṭhaṃ) [should-be](syāt) [thus](evaṃ) [wood+brick+made](dāru+iṣṭakā+maye)
 
 ## mukta-m0-p106-v2636
-[that-height](tat+ucchrayaṃ) [measure](grahaṃ) [having-made](kṛtvā) [wall](jaṅghā) [from-its-middle](tat+madhyataḥ) [by-parts](guṇaiḥ)
+[its+height](tat+ucchrayaṃ) [part](grahaṃ) [having-made](kṛtvā) [wall](jaṅghā) [its+from-middle](tat+madhyataḥ) [by-parts](guṇaiḥ)
 
 ## mukta-m0-p106-v2637
-[vedībandha](vedi+bandha) [varaṇḍā](varaṇḍāḥ) [and](ādi) [I-declare](nigadāmi) [in-due-order](anupūrvaśaḥ)
+[platform-band+enclosure](vedibandha+varaṇḍā) [etc](ādi) [I-declare](nigadāmi) [in-due-order](anupūrvaśaḥ)
 
 ## mukta-m0-p106-v2638
-[in-height](ucchraye) [from-fourth-part-of-structure](dhāma+turyāṃśāt) [in-that](tasmin) [divided-into-nine-parts](nidrā+aṃśake+kṛte)
+[in-height](ucchraye) [structure+fourth-part](dhāma+turyāṃśāt) [in-that](tasmin) [twenty-four+parts+being-made](nidrā+aṃśake+kṛte)
 
 ## mukta-m0-p106-v2639
-[by-three-and-a-half](sārdha+trayeṇa) [kumbha](kumbhaḥ) [should-be](syāt) [at-its-half](tat+ardhe) [kumbha-fillet](kumbha+paṭṭikā)
+[with-three-and-a-half](sārdha+trayeṇa) [pitcher](kumbhaḥ) [should-be](syāt) [its+half](tat+ardhe) [pitcher+moulding](kumbha+paṭṭikā)
 
 ## mukta-m0-p106-v2640
-[by-half-part](bhāga+ardhena) [indeed](tu) [neck](kaṇṭhaḥ) [should-be](syāt) [kalasha](kalaśaḥ) [and](ca) [by-three-parts](guṇa+aṃśataḥ)
+[by-half+part](bhāga+ardhena) [indeed](tu) [neck](kaṇṭhaḥ) [should-be](syāt) [vase+and](kalaśaḥ+ca) [by-three+parts](guṇa+aṃśataḥ)
 
 ## mukta-m0-p106-v2641
-[from-recess](praveśāt) [and](ca) [on-one-side](ekataḥ) [necks](kaṇṭhāḥ) [and](ca) [at-half](ardhe) [projecting-fillet](nirgama+paṭṭikā)
+[from-recess+and](praveśāt+ca) [on-one-side](ekataḥ) [necks](kaṇṭhāḥ) [and+by-half](ca+ardhe) [projection+moulding](nirgama+paṭṭikā)
 
 ## mukta-m0-p106-v2642
-[kumbha-fillet](kumbha+paṭṭī) [indeed](tu) [by-quarter](pādena) [cup-moulding](kupālyā) [by-two-parts](dvi+aṃśataḥ) [situated](sthitā)
+[pitcher+moulding](kumbha+paṭṭī) [indeed](tu) [by-quarter](pādena) [small-tile](kupālyā) [by-two+parts](dvi+aṃśataḥ) [situated](sthitā)
 
 ## mukta-m0-p106-v2643
-[with-three](tribhiḥ) [khura-etc.](khura+ādibhiḥ) [joined](yuktaṃ) [named-vedībandha](vedībandha+abhidhānakam)
+[by-three](tribhiḥ) [base+etc](khura+ādibhiḥ) [endowed](yuktaṃ) [platform-band+named](vedībandha+abhidhānakam)
 
 ## mukta-m0-p106-v2644
-[when-divided](kṛteṣu) [into-three](triṣu) [parts](bhāgeṣu) [by-quarter-less-part](pāda+ūna+aṃśāt) [recesses](praveśikān)
+[being-made](kṛteṣu) [in-three](triṣu) [parts](bhāgeṣu) [by-quarter-less+part](pāda+ūna+aṃśāt) [recesses](praveśikān)
 
 ## mukta-m0-p106-v2645
-[by-one-part](bhāgena) [called-square](caturasra+ākhyā) [fillet](paṭṭikā) [by-one-and-a-half](sārdhataḥ) [situated](sthitā)
+[by-one-part](bhāgena) [square+named](caturasra+ākhyā) [moulding](paṭṭikā) [with-half](sārdhataḥ) [situated](sthitā)
 
 ## mukta-m0-p106-v2646
-[having-khura-and-kumbha](khuṃra+kumbha+vatī) [wall](jaṅghā) [of-the-best](jyeṣṭhānāṃ) [by-foot-measure](pāda+mānataḥ)
+[base+pitcher+having](khuṃra+kumbha+vatī) [wall](jaṅghā) [of-best](jyeṣṭhānāṃ) [foot+measure](pāda+mānataḥ)
 
 ## mukta-m0-p106-v2647
-[or](yāvat) [with-chinnavaka](chinnavakāṃ) [or](vā) [or](api) [with-leaf-garland](patra+valyā) [or](atha) [or](vā) [excellent](varā)
+[as-far-as](yāvat) [cut+new](chinna+navakāṃ) [or](vāpi) [leaf+garland+or](patra+valyā+athavā) [best](varā)
 
 ## mukta-m0-p106-v2648
-[fourth-part](caturtha+aṃśaḥ) [and](ca) [above-wall](jaṅghā+ūrdhve) [having-divided](vibhajya) [into-eight-parts](vasu+bhāgataḥ)
+[fourth+part+and](caturtha+aṃśaḥ+ca) [wall+above](jaṅghā+ūrdhve) [having-divided](vibhajya) [into-eight+parts](vasu+bhāgataḥ)
 
 ## mukta-m0-p106-v2649
-[there](tatra) [by-half](ardhena) [called-recess](praveśa+ākhyaṃ) [fillet](paṭṭikāṃ) [indeed](tu) [one-should-place](vi-vartayet)
+[there](tatra) [by-half](ardhena) [recess+named](praveśa+ākhyaṃ) [moulding](paṭṭikāṃ) [indeed](tu) [one-should-form](vi+vartayet)
 
 ## mukta-m0-p106-v2650
-[by-quarter-less-part](pāda+ūna+aṃśena) [called-haṃsa](haṃsa+ākhyā) [fillet](paṭṭī) [from-that-foot](tat+padataḥ) [should-be](bhavet)
+[by-quarter-less+part](pāda+ūna+aṃśena) [goose+named](haṃsa+ākhyā) [moulding](paṭṭī) [its+lotus+from](tat+padataḥ) [should-be](bhavet)

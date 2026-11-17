@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p112-v2776
-[therefore](tasmāt) [one-should-make](kuryāt) [of-water](apāṃ) [in-the-course](mārge) [two](dve) [two](dve) [openings](randhrai) [by-earth-measure](mahī+kramāt)
+[therefore](tasmāt) [one-should-do](kuryāt) [of-waters](apām) [on-path](mārge) [two-two](dve+dve) [openings](randhrai) [by-earth+progression](mahī+kramāt)
 
 ## mukta-m0-p112-v2777
-[by-three-parts](rāma+aṃśaiḥ) [there](tatra) [pedestal](piṇḍī) [should-be](syāt) [by-season-veda-yama-parts](ṛtu+veda+yama+aṃśakaiḥ)
+[with-Rāma+parts](rāmā+ṃśaiḥ) [there](tatra) [lump](piṇḍī) [would-be](syāt) [season+veda+with-parts](ṛtu+veda+yamā+ṃśakaiḥ)
 
 ## mukta-m0-p112-v2778
-[projection](niṣkrāntiḥ) [in-each-direction](diśa+diśi) [indeed](eva) [nine](nava) [indeed](eva) [chariot-projections](rathakāḥ) [are-considered](matāḥ)
+[exit](niṣkrāntiḥ) [in-direction+in-direction](diśi+diśi) [indeed](eva) [nine](nava) [indeed](eva) [chariot+makers](ratha+kāḥ) [considered](matāḥ)
 
 ## mukta-m0-p112-v2779
-[having-made](kṛtvā) [with-eighteen](aṣṭādaśabhiḥ) [storey](bhūḥ) [should-be](syāt) [another](anya) [one](eka) [one](ekaṃ) [without](vinā) [in-order](kramāt)
+[having-made](kṛtvā) [with-eighteen](aṣṭādaśabhiḥ) [earth](bhūḥ) [would-be](syāt) [other+one+one](anya+eka+ekaṃ) [without](vinā) [by-progression](kramāt)
 
 ## mukta-m0-p112-v2780
-[four-doored](catur+dvāraṃ) [four-nosed](catur+nāsaṃ) [with-variegated-cavities](vicitra+kuharaiḥ) [endowed](yutam)
+[four-doored](catur+dvāraṃ) [four-nosed](catur+nāsaṃ) [with-variegated](vicitra) [cavities](kuharaiḥ) [endowed](yutam)
 
 ## mukta-m0-p112-v2781
-[ninety-nine-peaked](daśa+ūna+śata+śṛṅgaṃ) [and](ca) [one-should-construct](vidadhyāt) [Mandara](mandaraṃ) [the-wise-one](sudhīḥ)
+[ten-less](daśa+ūna) [hundred](śata) [peaked](śṛṅgaṃ) [and](ca) [one-should-make](viddhyāt) [Mandara](mandaraṃ) [wise-one](sudhīḥ)
 
 ## mukta-m0-p112-v2782
-[three](guṇaṃ) [form](rūpaṃ) [at-its-top](tat+agre) [and](ca) [obliquely](tiryak) [fire](vahniṃ) [one-should-remove](vināśayet)
+[quality](guṇaṃ) [form](rūpaṃ) [that](tat) [in-front](agre) [and](ca) [sideways](tiryak) [fire](vahniṃ) [one-should-destroy](vināśayet)
 
 ## mukta-m0-p112-v2783
-[having-divided-like-that](tadvat+luptvā) [inside](antare) [middle-half-chariot](madhya+ardha+rathaṃ) [one-should-place](sthāpayet) [with-waters](jalaiḥ)
+[like-that](tadvat) [having-removed](luptvā) [in-between](antare) [middle+half+chariot](madhya+ardha+rathaṃ) [one-should-place](sthāpayet) [with-waters](jalaiḥ)
 
 ## mukta-m0-p112-v2784
-[as-before](mā+ādivat)
+[like-mādi](mādivat)
 
 ## mukta-m0-p112-v2785
-[by-omission-of-one-each-of-the-rest](śeṣa+eka+eka+parityāgāt) [of-twelve-storeys-height](arka+bhūmī+samucchrayam)
+[remainder+one+one](śeṣa+eka+eka) [abandonment](parityāgāt) [sun+earth](arka+bhūmī) [equal-height](samucchrayam)
 
 ## mukta-m0-p112-v2786
-[endowed-with-eighty-peaks](aśīti+śṛṅga+sayuktaṃ) [Kailasa](kailāsaṃ) [one-should-fashion](ghaṭayet) [excellent](varam)
+[eighty](aśīti) [peaked](śṛṅga) [joined](sayuktaṃ) [Kailāsa](kailāsaṃ) [one-should-make](ghaṭayet) [excellent](varam)
 
 ## mukta-m0-p112-v2787
-[by-subtraction-of-three](tri+kṣayāt) [on-the-left](vāmataḥ) [corner](koṇaḥ) [of-those-two](tayoḥ) [pillar](stambhaḥ) [by-subtraction-of-body](tanu+kṣayāt)
+[three](tri) [destruction](kṣayāt) [from-left](vāmataḥ) [corner](koṇaḥ) [of-those-two](tayoḥ) [pillar](stambhaḥ) [body+destruction](tanu+kṣayāt)
 
 ## mukta-m0-p112-v2788
-[thus](ittham) [indeed](eva) [the-other-half](apara+ardhaṃ) [should-be](syāt) [in-four](catur) [directions](dikṣu) [on-all-sides](samantataḥ)
+[thus](ittham) [indeed](eva) [other+half](apara+ardhaṃ) [would-be](syāt) [in-four](catur) [directions](dikṣu) [on-all-sides](samantataḥ)
 
 ## mukta-m0-p112-v2789
-[with-doors-and-bolts](sa+kapāṭa+argalaiḥ) [with-four-pots](veda+ghaṭaiḥ) [with-serpent](nāga) [window-niches](gavākṣakaiḥ)
+[with-doors](sa+kapāṭa) [with-bolts](aragalaiḥ) [with-veda+pots](veda+ghaṭaiḥ) [with-serpents](nāgaiḥ) [with-windows](gavākṣakaiḥ)
 
 ## mukta-m0-p112-v2790
-[above-that](tat+ūrdhva) [by-diminution-of-one-each](eka+eka+saṃhrāsāt) [should-be-made](kartavyāḥ) [storeys](bhūmayaḥ) [ten](daśa)
+[that](tat) [upward](ūrdhva) [one+one](eka+eka) [reduction](saṃhrāsāt) [to-be-made](kartavyā) [grounds/floors](bhūmayo) [ten](daśa)
 
 ## mukta-m0-p112-v2791
-[cavities](kuharāṇi) [with-gods](suraiḥ) [in-the-middle](madhye) [in-the-chariot-projection](rathake) [should-be](syuḥ) [two-vimanas](vimānakau)
+[cavities](kuharāṇi) [with-gods](suraiḥ) [in-middle](madhye) [on-chariot+part](rathake) [would-be](syuḥ) [two-pavilions](vimānakau)
 
 ## mukta-m0-p112-v2792
-[door-one-eight](dvāra+eka+aṣṭa) [joined-in-the-first](sama+ādyeśaḥ) [with-seventy](saptatibhiḥ) [peaks](viṣāṇakaiḥ)
+[door+one+eight](dvāra+eka+aṣṭa) [equal](samā) [lord](īśaḥ) [with-seventy](saptatibhiḥ) [with-tusks](viṣāṇakaiḥ)
 
 ## mukta-m0-p112-v2793
-[by-insertion-of-one-part-each](bhāga+eka+ekena) [saṃveśāt](saṃveśāt) [and-with-three-parts](tri+aṃśaiḥ) [and](ca) [above-the-upper-part](uparadhau) [are-considered](matau)
+[part+one+one](bhāga+eka+eka) [by-placement](saṃveśāt) [with-three+parts](trya+ṃśaiḥ) [and](ca) [upper](upari) [two](dhau) [considered](matau)
 
 ## mukta-m0-p112-v2794
-[with-inner-ambulatory](sāndhāraḥ) [four-faced](catur+āsyaḥ) [and](ca) [four-footed](veda+aṅghraḥ) [endowed-with-circumambulation](bhramaṇa+anvitaḥ)
+[with-support](sāndhāraḥ) [four-faced](catur+āsyaḥ) [and](ca) [veda+nostriled](veda+aghraḥ) [with-revolving](bhramaṇa+anvitaḥ)
 
 ## mukta-m0-p112-v2795
-[filled-with-Vidyadharas](vidyādhara+ākulaiḥ) [with-delightful](ramyaiḥ) [projection](bhadraḥ) [should-be](syāt) [having-sixty-peaks](ṣaṣṭi+śṛṅgavān)
+[with-Vidyādhara](vidyādhāra) [crowded](ākulaiḥ) [beautiful](ramyaiḥ) [Bhadra](bhadraḥ) [would-be](syāt) [sixty](ṣaṣṭi) [peaked](śṛṅgavān)
 
 ## mukta-m0-p112-v2796
-[by-the-parts-of-the-projection](bhadra+bhāgaiḥ) [Mahabhadra](mahābhadraḥ) [is-declared](proktaḥ) [adorned-with-stairways](sopāna+śobhitaḥ)
+[Bhadra+parts](bhadra+bhāgaiḥ) [great+Bhadra](mahā+bhadraḥ) [said](proktaḥ) [with-steps](sa+upāna) [adorned](śobhitaḥ)
 
 ## mukta-m0-p112-v2797
-[above](upariṣṭāt) [vimana-part](vimāna+aṃśaḥ) [in-order](kramataḥ) [Meru-and-Mandara](meru+mandarau)
+[above](upariṣṭāt) [pavilion+part](vimāna+aṃśaḥ) [by-progression](kramataḥ) [Meru+Mandara](meru+mandarau)
 
 ## mukta-m0-p112-v2798
-[Sarvatma](sarvātmā) [with-spires](śikharaiḥ) [should-be-made](kāryaḥ) [Sarvatobhadra](sarvatobhadrakaḥ) [because](yataḥ)
+[all-self](sarva+ātmā) [with-peaks](śikharaiḥ) [to-be-made](kāryaḥ) [Sarvatobhadra](sarvatobhadrakaḥ) [since](yataḥ)
 
 ## mukta-m0-p112-v2799
-[endowed-with-four-pots](catur+ghaṭa+samopetaḥ) [furnished-with-stairways-and-balconies](sopāna+valabhī+yutaḥ)
+[with-four](catur) [pots](ghaṭa) [equal](sama) [endowed](upetaḥ) [with-steps](sa+upāna) [with-attic](valabhī) [joined](yutaḥ)
 
 ## mukta-m0-p112-v2800
-[having-kutas-and-moon-halls](kūṭa+anvita+indu+śālā) [should-be](syāt) [with-doors-pillars-and-faces-in-the-directions](dik+dvāra+aṅghri+āsyakaḥ) [Ruci](rucaḥ)
+[with-turrets](kūṭa) [endowed](anvita) [moon+hall](indu+śālā) [would-be](syāt) [in-directions](dik) [door+foot+faced](dvāra+aṅghri+āsyaḥ) [of-beauty](rucaḥ)
