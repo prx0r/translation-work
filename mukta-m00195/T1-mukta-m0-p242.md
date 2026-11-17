@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p242-v6026
-[of-deity-thus](devatāyāstathā) [former](pūrvaḥ) [likeness](sārūpyaṃ) [obtains](labhate) [supreme](paraḥ)
+[of-deity](devatāyāḥ) [thus](tathā) [former](pūrvaḥ) [likeness](sārūpyaṃ) [obtains](labhate) [supreme](paraḥ)
 
 ## mukta-m0-p242-v6027
-[greed](lobha) [renunciation](tyāga) [and](ca) [aid](upakāra) [indeed](hi) [downward-path](adho-mārga) [later-doing](udarka-kṛt)
+[lobha-abandonment](lobha-tyāgaḥ) [and-benefit](ca-upakāraḥ) [indeed](hi) [lower-path](adho-mārge) [also](api) [future-doer](udarka-kṛt)
 
 ## mukta-m0-p242-v6028
-[as-stated](yathokta) [conduct](ācaraṇa) [from](tasya) [attainment](siddhi) [of-disciple](śiṣyasya) [arises](jāyate)
+[as-stated-conduct](yathokta-ācaraṇāt) [his](tasya) [accomplishment](siddhiḥ) [disciple's](śiṣyasya) [arises](jāyate)
 
 ## mukta-m0-p242-v6029
-[mantra](mantraḥ) [may-be](syāt) [much-obstacle-giving](bahuvighnadaḥ)
+[mantra](mantraḥ) [is](syāt) [many-obstacle-giving](bahu-vighna-daḥ)
 
 ## mukta-m0-p242-v6030
-[p preliminary-rite](puraścaryā) [by-itself](svataḥ) [attainment](siddhi) [mantra-best](manūttamaḥ)
+[preliminary-rite](puraścaryā) [by-itself](svataḥ) [succeeds](siddhyet) [mantra-supreme](manu-uttamaḥ)
 
 ## mukta-m0-p242-v6031
-[obstacle-mantra](vighnamantraṃ) [purifying](suddhidam)
+[obstacle-mantra](vighna-mantraṃ) [purifying](śuddhi-daṃ)
 
 ## mukta-m0-p242-v6032
-[bindu-joined](binduyuktaḥ) [two-bindu](dvibinduḥ) [former-path-followers](pūrvamārgiṇām)
+[bindu-endowed](bindu-yuktaḥ) [two-bindu](dvi-binduḥ) [of-former-path](pūrva-mārgiṇām)
 
 ## mukta-m0-p242-v6033
-[and](ca) [pātāla-tradition](pātālāmnāyaḥ) [declared](īritaḥ)
+[and](ca) [pātāla-tradition](pātāla-āmnāyaḥ) [declared](īritaḥ)
 
 ## mukta-m0-p242-v6034
-[svāhā](svāhā) [heart-lotus](hṛtkam) [one-tusked](ekadaṃṣṭrāya) [head](śiraḥ) [huṃphaṭ](huṃphaṭ)
+[svāhā](svāhā) [heart-lotus](hṛt-kam) [one-tusked](eka-daṃṣṭrāya) [head](śiraḥ) [huṃphaṭ](huṃphaṭ)
 
 ## mukta-m0-p242-v6035
-[salutation](namaḥ) [thus](tathā) [eye](netra) [declared](udīryate)
+[salutation](namaḥ) [thus](tathā) [eye](netraṃ) [uttered](udīryate)
 
 ## mukta-m0-p242-v6036
-[six-long-joined-seed](ṣaḍdīrghayuktabījena) [tantric](tāntrikaḥ) [nyāsa](nyāsam) [should-perform](ācaret)
+[six-long-endowed-seed](ṣaḍ-dīrgha-yukta-bījena) [tantric](tāntrikaḥ) [nyāsa](nyāsaṃ) [should-perform](ācaret)
 
 ## mukta-m0-p242-v6037
-[red-colored](raktavarṇaṃ) [red-sandal-anointing](raktagandhānulepanam)
+[red-colored](rakta-varṇaṃ) [red-scent-anointing](rakta-gandha-anulepanam)
 
 ## mukta-m0-p242-v6038
-[dwarf](vāmanaṃ) [obstacle-lord](vighnādhīśaṃ) [worshipful](pūjyaṃ) [and](ca) [trunked](śuṇḍinam)
+[dwarf](vāmanaṃ) [obstacle-lord](vighna-adhīśaṃ) [worshipful](pūjyaṃ) [and](ca) [trunked](śuṇḍinaṃ)
 
 ## mukta-m0-p242-v6039
-[lotus-seat](padmāsanaṃ) [all-ornamented](sarvabhūṣaṃ) [meditate](dhyāyet) [obstacle-remover-gaṇeśa](vighnavināyakam)
+[lotus-seat](padmāsanaṃ) [all-ornamented](sarva-bhūṣaṃ) [meditate](dhyāyet) [obstacle-vināyaka](vighna-vināyakam)
 
 ## mukta-m0-p242-v6040
-[yantra-this](yantrametat) [wise](budhaḥ) [should-make](kuryāt) [square-triple](caturasratrayaṃ) [auspicious](śubham)
+[yantra](yantraṃ) [this](etat) [wise](budhaḥ) [should-make](kuryāt) [square-three](catura-sra-trayaṃ) [auspicious](śubham)
 
 ## mukta-m0-p242-v6041
-[previously-stated-rite](pūrvoktavidhinā) [pavilion-etc](maṇḍapādi) [should-arrange](prakalpayet)
+[previously-stated-rite](pūrva-ukta-vidhinā) [pavilion-etc](maṇḍapa-ādi) [should-arrange](prakalpayet)
 
 ## mukta-m0-p242-v6042
-[supreme](paraṃ) [then](tu) [worship](arcet) [desired-petal-natured](iṣṭadalātmake)
+[supreme](paraṃ) [then](tu) [worship](arcet) [desired-petal-nature](iṣṭa-dala-ātmake)
 
 ## mukta-m0-p242-v6043
-[flaming](jvālinī) [nandā-enjoyment-giving](nandābhogadā) [desire-formed](kāmarūpiṇī)
+[flaming](jvālinī) [nandā-enjoyment-giving](nandā-bhoga-dā) [desire-formed](kāma-rūpiṇī)
 
 ## mukta-m0-p242-v6044
-[and](ca) [mindful](antamanāḥ) [seat-mantra](pīṭhamanuṃ) [hear](śṛṇu)
+[and](ca) [mind](anta-manāḥ) [seat-mantra](pīṭha-manuṃ) [hear](śṛṇu)
 
 ## mukta-m0-p242-v6045
-[should-worship](yajet) [seat](pīṭhaṃ) [troop-lord](gaṇādhipam)
+[should-worship](yajet) [seat](pīṭhaṃ) [gaṇa-lord](gaṇa-adhipam)
 
 ## mukta-m0-p242-v6046
-[blue-colored](nīlavarṇaṃ) [in-petals](keśareṣu) [then](tato) [should-worship](yajet)
+[blue-colored](nīla-varṇaṃ) [in-filaments](keśareṣu) [then](tato) [worship](yajet)
 
 ## mukta-m0-p242-v6047
-[six-limbs](ṣaḍaṅgāni) [to-be-meditated](dhyātavyāḥ) [those](tāḥ) [and](ca) [deities](devatāḥ)
+[six-limbs](ṣaḍ-aṅgāni) [to-be-meditated](dhyātavyāḥ) [those](tāḥ) [and](ca) [deities](devatāḥ)
 
 ## mukta-m0-p242-v6048
-[boon-fear-bearing](varadābhayadhāriṇyaḥ) [principal-bodies](pradhānatanavaḥ) [women](striyaḥ)
+[boon-fear-bearing](vara-da-abhaya-dhāriṇyaḥ) [principal-bodies](pradhāna-tanavaḥ) [women](striyaḥ)
 
 ## mukta-m0-p242-v6049
-[lambodara-named](lambodarākhya) [vikata](vikaṭau) [obstacle-king](vighnarāṭ) [smoke-colored](dhūmravarṇakau)
+[lambodara-named](lambodara-ākhya) [vikaṭa](vikaṭau) [obstacle-king](vighna-rāj) [smoke-colored](dhūmra-varṇakau)
 
 ## mukta-m0-p242-v6050
-[of-them](tāsāṃ) [I-will-declare](pravakṣyāmi) [stated](proktaṃ) [leftward-order](savyakrameṇa) [and](tu)
+[of-them](tāsāṃ) [I-will-declare](pravakṣyāmi) [stated](proktaṃ) [leftward-order](savya-krameṇa) [then](tu)

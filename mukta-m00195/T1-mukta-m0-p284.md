@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p284-v7076
-[to-be-done](kartavyāḥ) [practices](prayogāḥ) [by-adepts](sādhakaiḥ) [here](iha)
+[to-be-done](kartavyāḥ) [applications](prayogāḥ) [by-practitioners](sādhakair) [here](iha)
 
 ## mukta-m0-p284-v7077
 [gaṃ](gaṃ) [hrīṃ](hrīṃ) [and](ca) [bring-under-control](vaśamānaya) [svāhā](svāhā) [bhavāṇarkaḥ](bhavāṇarkaḥ)
 
 ## mukta-m0-p284-v7078
-[excellent-sugarcane](varekṣūn) [by-lotus-hands](hastapaṃkajaiḥ)
+[best](vare) [sugarcane](ikṣūn) [hand](hasta) [lotus](paṃkajaiḥ)
 
 ## mukta-m0-p284-v7079
-[dark-limbed](śyāmalāṅgyā) [with-linga-lotus-hand](liṅgapadmahastayā) [meditate-in-heart](bhāvayeddhṛdi)
+[with-dark-limbed](śyāmalāṅgyā) [with-linga-lotus-hand](liṅgapadmahastayā) [meditate](bhāvayed) [in-heart](hṛdi)
 
 ## mukta-m0-p284-v7080
-[offer](juhuyāt) [tarpaṇa-etc](tarpaṇādi) [then-practice](tataścaret)
+[offer](juhuyāt) [tarpaṇa-etc](tarpaṇādi) [then](tataḥ) [perform](caret)
 
 ## mukta-m0-p284-v7081
-[desire-rites](kāmyaprayogāḥ) [tu](tu) [those-stated-in-that-kalpa](tatkalpoktān) [accomplish](prasādhayet)
+[desired-rites](kāmyaprayogāḥ) [tu](tu) [those-stated-in-that-kalpa](tatkalpoktān) [accomplish](prasādhayet)
 
 ## mukta-m0-p284-v7082
-[gaṇeśa](gaṇeśaḥ) [not](na) [śakti](śaktiḥ) [ca-api](cāpi) [not](na) [without-him](taṃ vinā)
+[gaṇeśa](gaṇeśaḥ) [not](na) [śakti](śaktiḥ) [ca](ca) [api](api) [not](na) [him](taṃ) [without](vinā)
 
 ## mukta-m0-p284-v7083
-[I-will-declare](pravakṣyāmi) [śakti](śaktiṃ) [śrī-bhuvaneśvarī](śrībhuvaneśvarīm)
+[will-declare](pravakṣyāmi) [śakti](śaktiṃ) [śrī](śrī) [bhuvaneśvarī](bhuvaneśvarīm)
 
 ## mukta-m0-p284-v7084
-[śakti](śaktiḥ) [vaśiṣṭha](vaśiṣṭhaḥ) [ca](ca) [sūta](sūtaḥ) [of-meter](chandasaḥ) [is-said](kathyate)
+[śakti](śaktiḥ) [vaśiṣṭha](vaśiṣṭhaḥ) [ca](ca) [sūta](sūtaḥ) [chandas](chandaḥ) [its](asya) [is-said](kathyate)
 
 ## mukta-m0-p284-v7085
-[becomes-seed](bhavedbījam) [ī-kāra](īkāraḥ) [śakti](śaktiḥ) [is-called](ucyate)
+[becomes](bhaved) [bīja](bījam) [ī-kāra](īkāraḥ) [śakti](śaktiḥ) [is-called](ucyate)
 
 ## mukta-m0-p284-v7086
-[by-seed-joined-with-six-long](ṣaḍdīrghayuktabījena) [six-limbs](ṣaḍaṃgāni) [perform](samācaret)
+[six](ṣaḍ) [long](dīrgha) [joined](yukta) [bīja](bījena) [six](ṣaḍ) [limbs](aṃgāni) [perform](samācaret)
 
 ## mukta-m0-p284-v7087
-[for-establishing-unity-of-goddess](devyekatāpādanāya) [mantra-nyāsa](mantranyāsaḥ) [atha](atha) [will-be-declared](vakṣyate)
+[for-devi-unity](devyekatāpādanāya) [mantra-nyāsa](mantranyāsaḥ) [atha](atha) [will-be-declared](vakṣyate)
 
 ## mukta-m0-p284-v7088
 [in-heart](hṛdaye) [to-be-placed](sthāpyā) [in-anus](gude) [hrīṃ](hrīṃ) [ca](ca) [karālikā](karālikā)
 
 ## mukta-m0-p284-v7089
-[upward-northeast-southwest-northwest-directions](ūrdhvodagyāmyapūrvāśā) [in-each-place](pratyekastheṣu) [ca](ca) [in-order](kramāt)
+[upward](ūrdhva) [north](udak) [south](yāmya) [west](apūrva) [directions](āśā) [each](pratyeka) [places](stheṣu) [ca](ca) [order](kramāt)
 
 ## mukta-m0-p284-v7090
-[right-breast](dakṣakuce) [brahmāṇī](brahmāṇīm) [left-shoulder](vāmageṃsake)
+[right](dakṣa) [breast](kuce) [brahmāṇī](brahmāṇīṃ) [left](vāma) [shoulder](gaṃsake)
 
 ## mukta-m0-p284-v7091
-[place](vinyaset) [on-forehead](bhāle) [with-gāyatrī](gāyatryā sahitam) [wise-one](sudhīḥ)
+[place](vinyaset) [on-forehead](bhāle) [with-gāyatrī](gāyatryā) [together](sahitaṃ) [wise-one](sudhīḥ)
 
 ## mukta-m0-p284-v7092
-[left-cheek](vāmagaṇḍe) [ca](ca) [with-vāgīśvarī](vāgīśvaryā yutam) [place](nyaset)
+[left-cheek](vāmagaṇḍe) [ca](ca) [with-vāgīśvarī](vāgīśvaryā) [joined](yutaṃ) [place](nyaset)
 
 ## mukta-m0-p284-v7093
-[left](vāme) [dhanapati](dhanapatiṃ) [joined](yuktam) [with-śrī](śriyā) [at-ear-tip](śrotrāgrake) [place](nyaset)
+[left](vāme) [dhanapati](dhanapatiṃ) [joined](yuktaṃ) [with-śrī](śriyā) [at-ear-tip](śrotrāgrake) [place](nyaset)
 
 ## mukta-m0-p284-v7094
-[right-ear-tip](dakṣaśrotrāgrake) [mantrin](mantrī) [nidhis](nidhī) [joined-with-śakti](śaktiyutau) [place](nyaset)
+[right-ear-tip](dakṣaśrotrāgrake) [mantrī](mantrī) [nidhis](nidhī) [with-śakti](śaktiyutau) [place](nyaset)
 
 ## mukta-m0-p284-v7095
-[left-shoulder](vāmāṃse) [heart-right](hṛdidakṣiṇe)
+[left](vāma) [shoulder](aṃse) [heart](hṛdi) [right](dakṣiṇe)
 
 ## mukta-m0-p284-v7096
-[place](nyasyet) [eight-mothers](mātṛraṣṭa) [on-forehead](bhāle) [and-shoulder](cāṃse) [side](pārśve) [and-belly](tathodare)
+[place](nyasyet) [eight-mothers](mātṛraṣṭa) [on-forehead](bhāle) [ca](ca) [on-shoulder](aṃse) [side](pārśve) [and](tathā) [belly](udare)
 
 ## mukta-m0-p284-v7097
-[pervade](vyāpayet) [with-root-mantra](mūlamantreṇa) [body](tanuṃ) [goddess](devīṃ) [then-remember](tataḥ smaret)
+[pervade](vyāpayet) [with-root-mantra](mūlamantreṇa) [body](tanuṃ) [devī](devīṃ) [then](tataḥ) [remember](smaret)
 
 ## mukta-m0-p284-v7098
-[with-gentle-smiling-face](mandasmitalasanmukhīm)
+[gentle](manda) [smile](smita) [shining](lasat) [face](mukhīm)
 
 ## mukta-m0-p284-v7099
-[six-cornered](ṣaṭkoṇam) [outside-it-eight-petal-lotus](tadbāhyeṣṭadalāmbujam)
+[six](ṣaṭ) [cornered](koṇaṃ) [outside-it](tadbāhye) [eight](aṣṭa) [petal](dala) [lotus](ambujam)
 
 ## mukta-m0-p284-v7100
-[with-four-gates](caturdvārasamopetam) [maṇḍala](maṇḍalaṃ) [declared](proktam) [excellent](uttamam)
+[four-gates-equipped](caturdvārasamopetaṃ) [maṇḍala](maṇḍalaṃ) [declared](proktaṃ) [excellent](uttamam)

@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p185-v4601
-[sipping-water](cācamanaṃ) [that](tāṃ) [me](ma) [from-invocation-mantra](āvahamantrataḥ)
+[washing](cācamanaṃ) [her](tāṃ) [me](ma) [by-invocation](āvahamantrataḥ)
 
 ## mukta-m0-p185-v4602
-[daily-worship-this](nityapūjeyaṃ) [preliminary-rite](puraścaraṇam) [is-called](ucyate)
+[daily-worship](nityapūjeyaṃ) [puraścaraṇa](puraścaraṇam) [is-called](ucyate)
 
 ## mukta-m0-p185-v4603
-[sun-facing](ādityābhimukho) [having-chanted](japtvā) [as-long-as](yāvat) [that-long](tāvat) [and](ca) [should-satisfy](tarpayet)
+[facing-sun](ādityābhimukho) [having-chanted](japtvā) [as-long-as](yāvattāvat) [and](ca) [satisfy](tarpayet)
 
 ## mukta-m0-p185-v4604
-[that-long](tāvat) [twelve](dvādaśa) [thousand](sāhasraṃ) [chanting](japet) [steady-minded](niścalamānasaḥ)
+[so-long](tāvat) [twelve-thousand](dvādaśasāhasraṃ) [chant](japet) [steadfast-mind](niścalamānasaḥ)
 
 ## mukta-m0-p185-v4605
-[with-lotuses](padmaiḥ) [with-three-sweets-endowed](trimadhuropetaiḥ) [ghee-anointed](ghṛtāktena) [milk-oblation](payondhasā)
+[lotuses](padmaiḥ) [three-sweet](trimadhuropetaiḥ) [ghee-anointed](ghṛtāktena) [milk-offering](payondhasā)
 
 ## mukta-m0-p185-v4606
-[accomplished](siddhaḥ) [becomes](bhavet) [mantra](mantraḥ) [not](na) [here](atra) [to-be-done](kāryā) [deliberation](vicāraṇā)
+[accomplished](siddho) [becomes](bhaven) [mantra](mantro) [no](nātra) [need](kāryā) [deliberation](vicāraṇā)
 
 ## mukta-m0-p185-v4607
-[of-Lakshmi](lakṣmyāḥ) [and](ca) [very-dear](atipriyāṇi) [and](ca)
+[of-lakṣmī](lakṣmyāḥ) [very-dear](atipriyāṇi) [and](ca)
 
 ## mukta-m0-p185-v4608
-[does](karoti) [thus](evam) [he](sa) [becomes](syāt) [lord-of-laksha](lakṣapatiḥ) [himself](svayam)
+[does](karoti) [thus](evaṃ) [he](sa) [becomes](syāt) [lakṣapati](lakṣapatiḥ) [himself](svayam)
 
 ## mukta-m0-p185-v4609
-[should-offer](hunet) [wise-one](sudhīḥ)
+[offer](hunet) [wise-one](sudhīḥ)
 
 ## mukta-m0-p185-v4610
-[with-forty](catvāriṃśadbhiḥ) [of-him](asya) [becomes](syāt) [great-Lakshmi](mahālakṣmīḥ) [unwavering](acañcalā)
+[forty](catvāriṃśadbhiḥ) [his](asya) [becomes](syāt) [great-lakṣmī](mahālakṣmīḥ) [unmoving](acañcalā)
 
 ## mukta-m0-p185-v4611
-[in-six-months](ṣaṇmāsāt) [becomes](syāt) [great-Indira](mahendirā)
+[six-months](ṣaṇmāsāt) [becomes](syāt) [great-indirā](mahendirā)
 
 ## mukta-m0-p185-v4612
-[from-love](priyataḥ) [having-become](bhūtvā) [should-offer](juhuyāt) [ghee](ājyam) [daily](anvaham)
+[dear](priyato) [having-become](bhūtvā) [offer](juhuyāt) [ghee](ājyam) [daily](anvaham)
 
 ## mukta-m0-p185-v4613
-[should-invoke](āvāhayet) [Lakshmi](śriyam) [in-lotus](padme) [with-five](pañcabhiḥ) [gold-or](kanakethavā)
+[invite](āvāhayet) [śrī](śriyaṃ) [in-lotus](padme) [with-five](pañcabhiḥ) [golden-banner](kanakethavā)
 
 ## mukta-m0-p185-v4614
-[of-rice](śālīnām) [with-milk](payasā) [should-prepare](samprakalpayet)
+[of-rice](śālīnāṃ) [milk](payasā) [prepare](samprakalpayet)
 
 ## mukta-m0-p185-v4615
-[with-all-herbs](sarvauṣadhībhiḥ) [with-decoctions](phāṇṭaiḥ) [and](ca) [having-bathed](snātvā) [with-cooked](abhipācitaiḥ) [also](api)
+[all-herbs](sarvauṣadhībhiḥ) [decoctions](phāṇṭaiḥ) [ca](ca) [having-bathed](snātvā) [cooked](abhipācitaiḥ) [also](api)
 
 ## mukta-m0-p185-v4616
-[desiring-cattle](paśukāma) [in-consecration](abhiṣecane)
+[for-cattle-desire](paśukāmābhiṣecane)
 
 ## mukta-m0-p185-v4617
-[horse-full](aśvapūrṇām) [thus](iti) [should-bathe](snāyāt) [desiring-kingdom](rājyakāmaḥ) [composed](samāhitaḥ)
+[aśvapūrṇā](aśvapūrṇāmiti) [bathe](snāyāt) [kingdom-desire](rājyakāmaḥ) [composed](samāhitaḥ)
 
 ## mukta-m0-p185-v4618
-[to-be-done](kāryaḥ) [but](tu) [afterwards](anantaram)
+[to-be-done](kāryaḥ) [then](tvanantaram)
 
 ## mukta-m0-p185-v4619
-[sun-colored](ādityavarṇa) [thus](iti) [by-this](anayā) [bilva-offering](bilvahomaḥ) [is-prescribed](vidhīyate)
+[ādityavarṇā](ādityavarṇetyanayā) [with-this](anayā) [bilva-offering](bilvahomo) [is-prescribed](vidhīyate)
 
 ## mukta-m0-p185-v4620
-[first](prathamam) [properly](samyak) [endless](anantām) [obtains](vindate) [wealth](śriyam)
+[first](prathamaṃ) [properly](samyak) [anantā](anantāṃ) [obtains](viṃdate) [śrī](śriyam)
 
 ## mukta-m0-p185-v4621
-[unspoken](anuktām) [uninterrupted](avyavacchinām) [eternal](śāśvatīm) [obtains](vindate) [wealth](śriyam)
+[unspoken](anuktām) [uninterrupted](avyavacchināṃ) [eternal](śāśvatīṃ) [knows](vidate) [śrī](śriyam)
 
 ## mukta-m0-p185-v4622
-[in-chanting](jape) [but](tu) [million](prayutam) [properly](samyak) [endless](anantām) [obtains](vindate) [wealth](śriyam)
+[in-chanting](jape) [tu](tu) [million](prayutaṃ) [properly](samyak) [anantā](anantāṃ) [obtains](viṃdate) [śrī](śriyam)
 
 ## mukta-m0-p185-v4623
-[should-offer](juhuyāt) [daily](nityam) [lotuses](padmāni) [ten-thousand](ayuta) [times](śaḥ) [also](api) [and](ca)
+[offer](juhuyāt) [daily](nityaṃ) [lotuses](padmāni) [ten-thousand](ayutaśopi) [ca](ca)
 
 ## mukta-m0-p185-v4624
-[success](siddhim) [he](sa) [attains](gacchati)
+[accomplishment](siddhiṃ) [he](sa) [attains](gacchati)
 
 ## mukta-m0-p185-v4625
-[bilva-fruits](bilvāni) [he](sa) [with](sa) [desire](kāmaḥ) [prospers](samṛddhyati)
+[bilvas](bilvāni) [sasa](sasa) [desire](kāmaḥ) [prospers](samṛddhyati)

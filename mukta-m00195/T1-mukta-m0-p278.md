@@ -2,61 +2,61 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p278-v6926
-[madamanthara-gamin](madamantharagāminyaḥ) [subhūṣā](subhūṣāścārubhūṣaṇāḥ) [ca](ca) [arubhūṣaṇāḥ](arubhūṣaṇāḥ)
+[madamanthara+gāminyaḥ](madamantharagāminyaḥ) [subhūṣāḥ](subhūṣāścārubhūṣaṇāḥ) [cāru+bhūṣaṇāḥ](subhūṣāścārubhūṣaṇāḥ)
 
 ## mukta-m0-p278-v6927
-[ṅehṛdantān](ṅehṛdantāṃścānaṃgādīnpūjayetkramāt) [ca](ca) [anaṃgādīn](anaṃgādīn) [pūjayet](pūjayet) [kramāt](kramāt)
+[ṅehṛdantān](ṅehṛdantāṃścānaṃgādīnpūjayetkramāt) [cānaṃgādīn](ṅehṛdantāṃścānaṃgādīnpūjayetkramāt) [pūjayet](ṅehṛdantāṃścānaṃgādīnpūjayetkramāt) [kramāt](ṅehṛdantāṃścānaṃgādīnpūjayetkramāt)
 
 ## mukta-m0-p278-v6928
-[pañca-puṣpa](pañcapuṣpeṣupāśāhvanāṃkuśekṣudhanurbhṛtaḥ) [iṣu](iṣu) [pāśa](pāśa) [aḥva](aḥva) [nāṃkuśa](nāṃkuśa) [ikṣu-dhanur-bhṛtaḥ](ikṣudhanurbhṛtaḥ)
+[pañcapuṣpa](pañcapuṣpeṣupāśāhvanāṃkuśekṣudhanurbhṛtaḥ) [iṣu](pañcapuṣpeṣupāśāhvanāṃkuśekṣudhanurbhṛtaḥ) [pāśa](pañcapuṣpeṣupāśāhvanāṃkuśekṣudhanurbhṛtaḥ) [aṅkuśa](pañcapuṣpeṣupāśāhvanāṃkuśekṣudhanurbhṛtaḥ) [iṣu](pañcapuṣpeṣupāśāhvanāṃkuśekṣudhanurbhṛtaḥ) [dhanurbhṛtaḥ](pañcapuṣpeṣupāśāhvanāṃkuśekṣudhanurbhṛtaḥ)
 
 ## mukta-m0-p278-v6929
-[bhūṣā-yuktāḥ](bhūṣāyuktāḥ) [smaret](smaredvaktrakamalāḥ) [vaktra-kamalāḥ](vaktrakamalāḥ) [sādhu](sādhu) [pūjayet](pūjayet)
+[bhūṣāyuktāḥ](bhūṣāyuktāḥ) [smaret](smaredvaktrakamalāḥ) [vaktra-kamalāḥ](smaredvaktrakamalāḥ) [sādhu](sādhupūjayet) [pūjayet](sādhupūjayet)
 
 ## mukta-m0-p278-v6930
-[ṣaṇḍa-anta-svara-hīnañca](ṣaṇḍāntasvarahīnañca) [kakāraṃ](kakāraṃ) [bindu-bhūṣitat](bindubhūṣitat)
+[ṣaṇḍānta-svara-hīnaṃ](ṣaṇḍāntasvarahīnañca) [ca](ṣaṇḍāntasvarahīnañca) [kakāraṃ](kakāraṃ) [bindu-bhūṣitam](bindubhūṣitat)
 
 ## mukta-m0-p278-v6931
-[pūjā-mantraḥ](pūjāmantraḥ) [syāt](syātsarvāsāṃ) [sarvāsāṃ](sarvāsāṃ) [ca](ca) [api](api) [anukramāt](anukramāt)
+[pūjā-mantraḥ](pūjāmantraḥ) [syāt](syātsarvāsāṃ) [sarvāsām](syātsarvāsāṃ) [cāpyanukramāt](cāpyanukramāt)
 
 ## mukta-m0-p278-v6932
-[durbhatiḥ](durbhatirnidhṛtirvidhṛtistuṣṭiścāpi) [nidhṛtiḥ](nidhṛtiḥ) [vidhṛtiḥ](vidhṛtiḥ) [tuṣṭiḥ](tuṣṭiḥ) [ca](ca) [api](api) [vituṣṭikā](vituṣṭikā)
+[durbhatiḥ](durbhatirnidhṛtirvidhṛtistuṣṭiścāpi) [nidhṛtiḥ](durbhatirnidhṛtirvidhṛtistuṣṭiścāpi) [vidhṛtiḥ](durbhatirnidhṛtirvidhṛtistuṣṭiścāpi) [tuṣṭiḥ](durbhatirnidhṛtirvidhṛtistuṣṭiścāpi) [ca](durbhatirnidhṛtirvidhṛtistuṣṭiścāpi) [api](durbhatirnidhṛtirvidhṛtistuṣṭiścāpi) [vituṣṭikā](durbhatirnidhṛtirvidhṛtistuṣṭiścāpi)
 
 ## mukta-m0-p278-v6933
-[bāhye](bāhye) [tat](tadastrāṇi) [astrāṇi](astrāṇi) [tataḥ](tato) [bahiḥ](bahiḥ)
+[bāhye](bāhye) [tat-astrāṇi](tadastrāṇi) [tataḥ](tato) [bahiḥ](bahiḥ)
 
 ## mukta-m0-p278-v6934
 [tarpaṇa-ādyaṃ](tarpaṇādyaṃ) [ca](ca) [kṛtvā](kṛtvā) [saṃtoṣya](saṃtoṣya) [deśikam](deśikam)
 
 ## mukta-m0-p278-v6935
-[pūrva-mantra-uditān](pūrvamantroditānsamyakpūrvoktavidhinā) [samyak](samyak) [pūrva-ukta-vidhinā](pūrvoktavidhinā) [sudhīḥ](sudhīḥ)
+[pūrva-mantra-uditān](pūrvamantroditānsamyakpūrvoktavidhinā) [samyak](pūrvamantroditānsamyakpūrvoktavidhinā) [pūrva-ukta-vidhinā](pūrvamantroditānsamyakpūrvoktavidhinā) [sudhīḥ](sudhīḥ)
 
 ## mukta-m0-p278-v6936
 [pramadā-janaiḥ](pramadājanaiḥ)
 
 ## mukta-m0-p278-v6937
-[atha](athātosyāḥ) [ato](ato) [asyāḥ](asyāḥ) [pravakṣyāmi](pravakṣyāmi) [dvādaśārṇaṃ](dvādaśārṇaṃ) [mahā-manum](mahāmanum)
+[atha](athātosyāḥ) [ato](athātosyāḥ) [asyāḥ](athātosyāḥ) [pravakṣyāmi](pravakṣyāmi) [dvādaśārṇaṃ](dvādaśārṇaṃ) [mahā-manum](mahāmanum)
 
 ## mukta-m0-p278-v6938
 [manuḥ](manuḥ) [prokto](prokto) [muniḥ](muniḥ) [sammohano](sammohano) [mataḥ](mataḥ)
 
 ## mukta-m0-p278-v6939
-[ṣaḍ-aṃgāni](ṣaḍaṃgāni) [kṛtvā](kṛtvā) [devīṃ](devīṃ) [vicintayet](vicintayet)
+[ṣaḍaṃgāni](ṣaḍaṃgāni) [kṛtvā](kṛtvā) [devīṃ](devīṃ) [vicintayet](vicintayet)
 
 ## mukta-m0-p278-v6940
 [sṛṇiṃ](sṛṇiṃ) [pāśaṃ](pāśaṃ) [kapālaṃ](kapālaṃ) [bibhratīṃ](bibhratīṃ) [karaiḥ](karaiḥ)
 
 ## mukta-m0-p278-v6941
-[yajed-devīṃ](yajeddevīṃ) [prokta-aṃgāni](proktāṃgāni) [purā](purā) [yajet](yajet)
+[yajet](yajeddevīṃ) [devīṃ](yajeddevīṃ) [proktāṃgāni](proktāṃgāni) [purā](purā) [yajet](yajet)
 
 ## mukta-m0-p278-v6942
 [nīla-kamala-kapāla-āḍhya-kara-ambujā](nīlakamalakapālāḍhyakarāmbujā)
 
 ## mukta-m0-p278-v6943
-[mahā-kālīṃ](mahākālīṃ) [samasta-jana-mohinīm](samastajanamohinīm)
+[mahākālīṃ](mahākālīṃ) [samasta-jana-mohinīm](samastajanamohinīm)
 
 ## mukta-m0-p278-v6944
-[vāma-mārgeṇa](vāmamārgeṇa) [hi](hyasyāḥ) [asyāḥ](asyāḥ) [siddhiḥ](siddhiḥ) [prajāyate](prajāyate)
+[vāma-mārgeṇa](vāmamārgeṇa) [hi](hyasyāḥ) [asyāḥ](hyasyāḥ) [siddhiḥ](siddhiḥ) [prajāyate](prajāyate)
 
 ## mukta-m0-p278-v6945
 [svāhā](svāhā) [śakra-varṇo](śakravarṇo) [mantraḥ](mantraḥ) [kālyāḥ](kālyā) [udīritaḥ](udīritaḥ)
@@ -65,13 +65,13 @@
 [yatheṣṭa-bhakṣya-pānābhyāṃ](yatheṣṭabhakṣyapānābhyāṃ) [maithunena](maithunena) [prasīdati](prasīdati)
 
 ## mukta-m0-p278-v6947
-[brāhmyādibhiḥ](brāhmyādibhiḥ) [śaktibhiḥ](śaktibhiśca) [ca](ca) [yuktā](yuktā) [bhaktyā](bhaktyā) [prapūjayet](prapūjayet)
+[brāhmyādibhiḥ](brāhmyādibhiḥ) [śaktibhiḥ](śaktibhiśca) [ca](śaktibhiśca) [yuktā](yuktā) [bhaktyā](bhaktyā) [prapūjayet](prapūjayet)
 
 ## mukta-m0-p278-v6948
 [śakti-śūla-dhanur-bāṇa-kheṭaka-khaḍga-vara-abhayān](śaktiśūladhanurbāṇakheṭakhaḍgavarābhayān)
 
 ## mukta-m0-p278-v6949
-[dhyātvaivaṃ](dhyātvaivaṃ) [siddhakaḥ](siddhakaḥ) [sādhyaṃ](sādhyaṃ) [sādhayet](sādhayenmanasi) [manasi](manasi) [sthitam](sthitam)
+[dhyātvā](dhyātvaivaṃ) [evaṃ](dhyātvaivaṃ) [siddhakaḥ](siddhakaḥ) [sādhyaṃ](sādhyaṃ) [sādhayet](sādhayenmanasi) [manasi](sādhayenmanasi) [sthitam](sthitam)
 
 ## mukta-m0-p278-v6950
-[tathā](tathendrāṇī) [indrāṇī](indrāṇī) [ca](ca) [amuṇḍā](amuṇḍā) [caṇḍikā](caṇḍikā) [aṣṭamī](aṣṭamī) || 772 ||
+[tathā](tathendrāṇī) [indrāṇī](tathendrāṇī) [ca](cāmuṇḍā) [amuṇḍā](cāmuṇḍā) [caṇḍikā](caṇḍikāṣṭamī) [aṣṭamī](caṇḍikāṣṭamī) || 772 ||

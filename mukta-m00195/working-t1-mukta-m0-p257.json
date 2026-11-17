@@ -7,20 +7,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "ramatām",
-"quick_gloss": "delight"
-},
-{
-"surface": "manaḥ",
-"quick_gloss": "mind"
-},
-{
-"surface": "sva",
-"quick_gloss": "own"
-},
-{
-"surface": "vyabhicāritam",
-"quick_gloss": "unfaithful"
+"surface": "ramatāmmanaḥsvavyabhicāritam",
+"quick_gloss": "ramatam+manah+sva+vyabhicaritam"
 }
 ]
 },
@@ -32,28 +20,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "tad",
-"quick_gloss": "that"
+"surface": "taccātra",
+"quick_gloss": "that+here+by-animals+requested"
 },
 {
-"surface": "atra",
-"quick_gloss": "here"
-},
-{
-"surface": "paśubhiḥ",
-"quick_gloss": "by-animals"
-},
-{
-"surface": "yācitam",
-"quick_gloss": "requested"
-},
-{
-"surface": "tu",
-"quick_gloss": "but"
+"surface": "paśubhiryācitantu",
+"quick_gloss": "paśubhiḥ+yācitam+tu+yat"
 },
 {
 "surface": "yat",
-"quick_gloss": "which"
+"quick_gloss": "yat"
 }
 ]
 },
@@ -65,32 +41,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "nāthān",
-"quick_gloss": "lords"
+"surface": "nāthānasmānvihāyādya",
+"quick_gloss": "lords+us+leaving+today"
 },
 {
-"surface": "asmān",
-"quick_gloss": "us"
-},
-{
-"surface": "vihāya",
-"quick_gloss": "abandoning"
-},
-{
-"surface": "adya",
-"quick_gloss": "today"
-},
-{
-"surface": "paśubhiḥ",
-"quick_gloss": "by-animals"
-},
-{
-"surface": "kinnu",
-"quick_gloss": "why"
-},
-{
-"surface": "yācyate",
-"quick_gloss": "requested"
+"surface": "paśubhiḥ kinnu yācyate",
+"quick_gloss": "by-animals+why+requested"
 }
 ]
 },
@@ -102,16 +58,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "tyaktā",
-"quick_gloss": "abandoned"
-},
-{
-"surface": "paśubhiḥ",
-"quick_gloss": "by-animals"
-},
-{
-"surface": "janaiḥ",
-"quick_gloss": "by-people"
+"surface": "tyaktā paśubhirjanaiḥ",
+"quick_gloss": "abandoned+by-animals+by-people"
 }
 ]
 },
@@ -123,32 +71,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "tena",
-"quick_gloss": "by-that"
-},
-{
-"surface": "arcitaḥ",
-"quick_gloss": "worshipped"
-},
-{
-"surface": "antarātmā",
-"quick_gloss": "inner-self"
-},
-{
-"surface": "ayam",
-"quick_gloss": "this"
-},
-{
-"surface": "muktaḥ",
-"quick_gloss": "liberated"
-},
-{
-"surface": "bhavati",
-"quick_gloss": "becomes"
-},
-{
-"surface": "tatkṣaṇāt",
-"quick_gloss": "at-that-moment"
+"surface": "tenārcitontarātmāyammukto bhavati tatkṣaṇāt",
+"quick_gloss": "by-that+worshipped+inner-self+this+liberated+becomes+that-moment"
 }
 ]
 },
@@ -160,20 +84,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "ced",
-"quick_gloss": "if"
-},
-{
-"surface": "tuṣṭaḥ",
-"quick_gloss": "pleased"
-},
-{
-"surface": "antarātmā",
-"quick_gloss": "inner-self"
-},
-{
-"surface": "vimucyate",
-"quick_gloss": "is-liberated"
+"surface": "tu tuṣṭaścedantarātmā vimucyate",
+"quick_gloss": "if+pleased+then+inner-self+liberated"
 }
 ]
 },
@@ -185,20 +97,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "kleśān",
-"quick_gloss": "afflictions"
-},
-{
-"surface": "nāśam",
-"quick_gloss": "destruction"
-},
-{
-"surface": "yānti",
-"quick_gloss": "go"
-},
-{
-"surface": "vimucyate",
-"quick_gloss": "is-liberated"
+"surface": "kleśānāśaṃ yānti vimucyate",
+"quick_gloss": "sufferings+destruction+go+liberated"
 }
 ]
 },
@@ -210,16 +110,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "sāraḥ",
-"quick_gloss": "essence"
-},
-{
-"surface": "śapharaḥ",
-"quick_gloss": "fish"
-},
-{
-"surface": "parikīrtitaḥ",
-"quick_gloss": "is-called"
+"surface": "sāraḥ śapharaḥ parikīrtitaḥ",
+"quick_gloss": "essence+fish+declared"
 }
 ]
 },
@@ -231,20 +123,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "paśavaḥ",
-"quick_gloss": "animals"
-},
-{
-"surface": "tantrasāram",
-"quick_gloss": "tantra-essence"
-},
-{
-"surface": "idam",
-"quick_gloss": "this"
-},
-{
-"surface": "vacaḥ",
-"quick_gloss": "word"
+"surface": "paśavastantrasāramidaṃ vacaḥ",
+"quick_gloss": "animals+this+tantra-essence+word"
 }
 ]
 },
@@ -256,24 +136,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "śatasahasram",
-"quick_gloss": "hundred-thousand"
-},
-{
-"surface": "tu",
-"quick_gloss": "but"
-},
-{
-"surface": "kṛtvā",
-"quick_gloss": "having-done"
-},
-{
-"surface": "mokṣam",
-"quick_gloss": "liberation"
-},
-{
-"surface": "avāpnuyāt",
-"quick_gloss": "obtains"
+"surface": "śatasahasrantu kṛtvā mokṣamavāpnuyāt",
+"quick_gloss": "hundred-thousand+then+doing+liberation+obtains"
 }
 ]
 },
@@ -285,20 +149,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "cāmuṇḍādyāḥ",
-"quick_gloss": "cāmuṇḍā-etc"
-},
-{
-"surface": "mahādevyaḥ",
-"quick_gloss": "great-goddesses"
-},
-{
-"surface": "bhairavādyāḥ",
-"quick_gloss": "bhairava-etc"
-},
-{
-"surface": "mahābalāḥ",
-"quick_gloss": "great-powerful"
+"surface": "cāmuṇḍādyā mahādevyo bhairavādyā mahābalāḥ",
+"quick_gloss": "cāmuṇḍā+etc+great-goddesses+bhairava+etc+great-powers"
 }
 ]
 },
@@ -310,20 +162,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "tena",
-"quick_gloss": "by-that"
-},
-{
-"surface": "yena",
-"quick_gloss": "by-whom"
-},
-{
-"surface": "mudrāṣṭakam",
-"quick_gloss": "mudrā-octad"
-},
-{
-"surface": "kṛtam",
-"quick_gloss": "done"
+"surface": "tena yena mudrāṣṭakaṃ kṛtam",
+"quick_gloss": "by-that+by-whom+mudrā-eight+done"
 }
 ]
 },
@@ -335,12 +175,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "syāt",
-"quick_gloss": "there-is"
-},
-{
-"surface": "sahasrabhagadarśanāt",
-"quick_gloss": "thousand-vulva-sight"
+"surface": "syātsahasrabhagadarśanāt",
+"quick_gloss": "becomes+thousand-vulva-sight"
 }
 ]
 },
@@ -352,20 +188,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "tatpātakavaśāt",
-"quick_gloss": "by-that-sin"
-},
-{
-"surface": "jātaḥ",
-"quick_gloss": "born"
-},
-{
-"surface": "mattaḥ",
-"quick_gloss": "intoxicated"
-},
-{
-"surface": "daśarathātmajaḥ",
-"quick_gloss": "daśaratha-son"
+"surface": "tatpātakavaśājjāto matto daśarathātmajaḥ",
+"quick_gloss": "that+sin-power+born+mad+daśaratha-son"
 }
 ]
 },
@@ -377,16 +201,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "samanuprāptam",
-"quick_gloss": "obtained"
-},
-{
-"surface": "viyogaḥ",
-"quick_gloss": "separation"
-},
-{
-"surface": "anukālikaḥ",
-"quick_gloss": "timely"
+"surface": "samanuprāptaṃ viyogaścānukālikaḥ",
+"quick_gloss": "obtained+separation+and+timely"
 }
 ]
 },
@@ -398,16 +214,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "jātaḥ",
-"quick_gloss": "born"
-},
-{
-"surface": "sadā",
-"quick_gloss": "always"
-},
-{
-"surface": "śaktiniṣevakaḥ",
-"quick_gloss": "śakti-servant"
+"surface": "jātaḥ sadā śaktiniṣevakaḥ",
+"quick_gloss": "born+always+śakti-servant"
 }
 ]
 },
@@ -419,20 +227,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "ṣoḍaśastrīsahasrāṇām",
-"quick_gloss": "sixteen-thousand-women"
-},
-{
-"surface": "jātaḥ",
-"quick_gloss": "born"
-},
-{
-"surface": "asau",
-"quick_gloss": "that-one"
-},
-{
-"surface": "bhagadarśanāt",
-"quick_gloss": "by-vulva-sight"
+"surface": "ṣoḍaśastrīsahasrāṇāñjātosau bhagadarśanāt",
+"quick_gloss": "sixteen-thousand-women+born+this+vulva-sight"
 }
 ]
 },
@@ -444,28 +240,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "vinā",
-"quick_gloss": "without"
-},
-{
-"surface": "māsam",
-"quick_gloss": "month"
-},
-{
-"surface": "vinā",
-"quick_gloss": "without"
-},
-{
-"surface": "matsyam",
-"quick_gloss": "fish"
-},
-{
-"surface": "ca",
-"quick_gloss": "and"
-},
-{
-"surface": "maithunam",
-"quick_gloss": "intercourse"
+"surface": "vinā māsaṃ vinā matsyaṃ ca maithunam",
+"quick_gloss": "without+month+without+fish+and+intercourse"
 }
 ]
 },
@@ -477,40 +253,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "paśubhiḥ",
-"quick_gloss": "by-animals"
-},
-{
-"surface": "yācitam",
-"quick_gloss": "requested"
-},
-{
-"surface": "yat",
-"quick_gloss": "which"
-},
-{
-"surface": "tu",
-"quick_gloss": "but"
-},
-{
-"surface": "kimu",
-"quick_gloss": "what"
-},
-{
-"surface": "cait",
-"quick_gloss": "this"
-},
-{
-"surface": "tad",
-"quick_gloss": "that"
-},
-{
-"surface": "eva",
-"quick_gloss": "indeed"
-},
-{
-"surface": "hi",
-"quick_gloss": "hi"
+"surface": "paśubhiryācitaṃ yattu kimu caitattadeva hi",
+"quick_gloss": "by-animals+requested+that+but+what+this+that+indeed"
 }
 ]
 },
@@ -522,20 +266,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "praphullavadanāḥ",
-"quick_gloss": "blossoming-faced"
-},
-{
-"surface": "śāntipūrvam",
-"quick_gloss": "peace-first"
-},
-{
-"surface": "vaco",
-"quick_gloss": "word"
-},
-{
-"surface": "jaguḥ",
-"quick_gloss": "spoke"
+"surface": "praphullavadanāḥ śāntipūrvaṃ vaco jaguḥ",
+"quick_gloss": "blossoming-faced+peace-first+word+spoke"
 }
 ]
 },
@@ -547,20 +279,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "siṃhavat",
-"quick_gloss": "lion-like"
-},
-{
-"surface": "ca",
-"quick_gloss": "and"
-},
-{
-"surface": "sadā",
-"quick_gloss": "always"
-},
-{
-"surface": "māsaniṣevakāḥ",
-"quick_gloss": "month-servants"
+"surface": "siṃhavacca sadā māsaniṣevakāḥ",
+"quick_gloss": "lion-like+always+month-servants"
 }
 ]
 },
@@ -572,28 +292,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "tathā",
-"quick_gloss": "thus"
-},
-{
-"surface": "asmākam",
-"quick_gloss": "our"
-},
-{
-"surface": "na",
-"quick_gloss": "not"
-},
-{
-"surface": "māṃsam",
-"quick_gloss": "meat"
-},
-{
-"surface": "bhakṣitum",
-"quick_gloss": "to-eat"
-},
-{
-"surface": "kṣamāḥ",
-"quick_gloss": "able"
+"surface": "tathāsmākaṃ na māṃsaṃ bhakṣituṃ kṣamāḥ",
+"quick_gloss": "thus+our+not+meat+to-eat+able"
 }
 ]
 },
@@ -605,24 +305,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "tathaiva",
-"quick_gloss": "thus-indeed"
-},
-{
-"surface": "vīrasiṃhānām",
-"quick_gloss": "hero-lions"
-},
-{
-"surface": "bhakṣyam",
-"quick_gloss": "edible"
-},
-{
-"surface": "māṃsādikam",
-"quick_gloss": "meat-etc"
-},
-{
-"surface": "kila",
-"quick_gloss": "indeed"
+"surface": "tathaiva vīrasiṃhānāṃ bhakṣyaṃ māṃsādikaṃ kila",
+"quick_gloss": "thus+indeed+vīra-lions+of+edible+meat+etc+indeed"
 }
 ]
 },
@@ -634,20 +318,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "sevayitum",
-"quick_gloss": "to-serve"
-},
-{
-"surface": "icchanti",
-"quick_gloss": "wish"
-},
-{
-"surface": "paśavaḥ",
-"quick_gloss": "animals"
-},
-{
-"surface": "viprarūpiṇaḥ",
-"quick_gloss": "brahmin-formed"
+"surface": "sevayituṃmicchanti paśavo viprarūpiṇaḥ",
+"quick_gloss": "to-serve+want+animals+brahmin-formed"
 }
 ]
 },
@@ -659,24 +331,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "pītvā",
-"quick_gloss": "having-drunk"
-},
-{
-"surface": "madyam",
-"quick_gloss": "liquor"
-},
-{
-"surface": "mattāḥ",
-"quick_gloss": "intoxicated"
-},
-{
-"surface": "tathā",
-"quick_gloss": "thus"
-},
-{
-"surface": "abhavan",
-"quick_gloss": "became"
+"surface": "pītvā madyaṃ mattāstathābhavan",
+"quick_gloss": "drinking+liquor+intoxicated+thus+became"
 }
 ]
 }
