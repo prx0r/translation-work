@@ -23,12 +23,8 @@
 "quick_gloss": "from-hand"
 },
 {
-"surface": "pāda+jam",
+"surface": "pāda+jameva",
 "quick_gloss": "born-from-foot"
-},
-{
-"surface": "eva",
-"quick_gloss": "or"
 },
 {
 "surface": "vā",
@@ -44,11 +40,11 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "gabha",
-"quick_gloss": "womb"
+"surface": "gabha+ādya",
+"quick_gloss": "womb-etc."
 },
 {
-"surface": "ādy+aśaḥ",
+"surface": "aśaḥ",
 "quick_gloss": "fame"
 },
 {
@@ -73,11 +69,11 @@
 },
 {
 "surface": "arthaḥ",
-"quick_gloss": "purpose"
+"quick_gloss": "wealth"
 },
 {
-"surface": "ghṛṣā",
-"quick_gloss": "satisfaction"
+"surface": "ghṛṣa",
+"quick_gloss": "clarified-butter"
 },
 {
 "surface": "āyuṣī",
@@ -94,7 +90,7 @@
 "tokens": [
 {
 "surface": "siddhī",
-"quick_gloss": "accomplishment"
+"quick_gloss": "accomplishments"
 },
 {
 "surface": "rājyaṃ",
@@ -291,15 +287,15 @@
 },
 {
 "surface": "ṣaḍjaḥ",
-"quick_gloss": "ṣaḍja"
+"quick_gloss": "ṣaḍja-note"
 },
 {
 "surface": "gāndhāraḥ",
-"quick_gloss": "gāndhāra"
+"quick_gloss": "gāndhāra-note"
 },
 {
 "surface": "jana+vṛddhi+kṛt",
-"quick_gloss": "people-increase-causing"
+"quick_gloss": "people-increase-making"
 }
 ]
 },
@@ -312,7 +308,7 @@
 "tokens": [
 {
 "surface": "ṛṣabheṇa",
-"quick_gloss": "by-ṛṣabha"
+"quick_gloss": "by-ṛṣabha-note"
 },
 {
 "surface": "ari+vṛddhiḥ",
@@ -324,11 +320,11 @@
 },
 {
 "surface": "madhyamaḥ",
-"quick_gloss": "madhyama"
+"quick_gloss": "madhyama-note"
 },
 {
 "surface": "suta+nāśa+kṛt",
-"quick_gloss": "son-destruction-causing"
+"quick_gloss": "son-destruction-making"
 }
 ]
 },
@@ -348,8 +344,12 @@
 "quick_gloss": "earth-dwellers"
 },
 {
-"surface": "ca+anye",
-"quick_gloss": "and-others"
+"surface": "ca",
+"quick_gloss": "and"
+},
+{
+"surface": "anye",
+"quick_gloss": "others"
 },
 {
 "surface": "toya+ādyāḥ",
@@ -360,7 +360,7 @@
 "quick_gloss": "and"
 },
 {
-"surface": "aśubhāḥ",
+"surface": "aśubhā",
 "quick_gloss": "inauspicious"
 },
 {
@@ -411,7 +411,7 @@
 "tokens": [
 {
 "surface": "śastaḥ",
-"quick_gloss": "commended"
+"quick_gloss": "praised"
 },
 {
 "surface": "agniḥ",
@@ -423,7 +423,7 @@
 },
 {
 "surface": "āhavanīyaḥ",
-"quick_gloss": "āhavanīya"
+"quick_gloss": "āhavanīya-fire"
 },
 {
 "surface": "dvau",
@@ -456,7 +456,7 @@
 "tokens": [
 {
 "surface": "kartuḥ",
-"quick_gloss": "of-the-performer"
+"quick_gloss": "of-doer"
 },
 {
 "surface": "mṛtyu+pradaḥ",
@@ -513,11 +513,11 @@
 },
 {
 "surface": "saṃkṣipet",
-"quick_gloss": "one-should-throw"
+"quick_gloss": "should-throw"
 },
 {
 "surface": "varam",
-"quick_gloss": "best"
+"quick_gloss": "remainder"
 }
 ]
 },
@@ -550,7 +550,7 @@
 },
 {
 "surface": "deva+ijyaṃ",
-"quick_gloss": "preceptor-of-gods"
+"quick_gloss": "teacher-of-gods"
 },
 {
 "surface": "tulya+saṃjñakam",
@@ -600,7 +600,7 @@
 "tokens": [
 {
 "surface": "ukta+āyāmasya",
-"quick_gloss": "of-the-stated-length"
+"quick_gloss": "of-stated-length"
 },
 {
 "surface": "ca",
@@ -633,7 +633,7 @@
 "tokens": [
 {
 "surface": "ādya",
-"quick_gloss": "of-the-first"
+"quick_gloss": "of-first"
 },
 {
 "surface": "an+ādya",
@@ -641,7 +641,7 @@
 },
 {
 "surface": "sura+ijya+āhva",
-"quick_gloss": "called-surejya"
+"quick_gloss": "teacher-of-gods-named"
 },
 {
 "surface": "tulyānāṃ",
@@ -666,11 +666,11 @@
 "tokens": [
 {
 "surface": "dvidhā",
-"quick_gloss": "twofold"
+"quick_gloss": "by-twofold"
 },
 {
 "surface": "bhedāt",
-"quick_gloss": "from-division"
+"quick_gloss": "by-division"
 },
 {
 "surface": "bahūni",
@@ -682,10 +682,10 @@
 },
 {
 "surface": "vakṣyante",
-"quick_gloss": "will-be-stated"
+"quick_gloss": "will-be-taught"
 },
 {
-"surface": "viśvakarma+mataḥ",
+"surface": "viśvaka+mataḥ",
 "quick_gloss": "according-to-viśvakarman"
 }
 ]
@@ -747,7 +747,7 @@
 "quick_gloss": "by-being-plus-one"
 },
 {
-"surface": "jinaiḥ+bhaktaṃ",
+"surface": "jina+bhaktaṃ",
 "quick_gloss": "divided-by-jina"
 },
 {
@@ -781,7 +781,7 @@
 },
 {
 "surface": "nava+eka+kara+garbhataḥ",
-"quick_gloss": "from-nine-to-one-cubit-extent"
+"quick_gloss": "from-nine-to-one-cubit-womb"
 }
 ]
 },
@@ -814,7 +814,7 @@
 },
 {
 "surface": "madhyataḥ",
-"quick_gloss": "in-the-middle"
+"quick_gloss": "in-middle"
 },
 {
 "surface": "trayam",
