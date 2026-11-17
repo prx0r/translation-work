@@ -5,73 +5,73 @@
 [deep](agādhā)
 
 ## mukta-m0-p89-v2202
-[not](na) [or](vā) [bhavānī](bhavānī) [not](nahi) [exists-deep](sāstyagādhā)
+[not](na) [or](vā) [bhavānī](bhavānī) [not](nahi) [she+is+deep](sāstyagādhā)
 
 ## mukta-m0-p89-v2203
-[snake-earring](nāgakuṇḍalā)
+[snake+earring](nāgakuṇḍalā)
 
 ## mukta-m0-p89-v2204
-[gold-earring](suvarṇakuṇḍalā) [snake-earring-like](nāgakuṇḍaleva) [shines](virājate)
+[golden+earring](suvarṇakuṇḍalā) [snake+earring+like](nāgakuṇḍaleva) [shines](virājate)
 
 ## mukta-m0-p89-v2205
-[good-wheel](sucakrā)
+[good+wheel](sucakrā)
 
 ## mukta-m0-p89-v2206
-[good-empty-wheel](suśūnyacakre) [worshipped](paripūjyate) [who](yā) [wheel-lords](cakreśvaraiḥ) [let-be](sāstvabhitaḥ) [good-wheel](sucakrā)
+[good+empty+wheel](suśūnyacakre) [worshipped](paripūjyate) [by-whom](yā) [wheel+lords](cakreśvaraiḥ) [she+is+around](sāstvabhitaḥ) [good+wheel](sucakrā)
 
 ## mukta-m0-p89-v2207
-[wheel-middle-standing](cakramadhyasthā)
+[wheel+middle+standing](cakramadhyasthā)
 
 ## mukta-m0-p89-v2208
-[wheel-handed](cakrahastā) [auspicious](śivā) [wheel-middle-standing-indeed](cakramadhyasthaiva) [triumphs](jayatyasau)
+[wheel+in-hand](cakrahastā) [auspicious](śivā) [wheel+middle+standing+indeed](cakramadhyasthaiva) [triumphs](jayatyasau)
 
 ## mukta-m0-p89-v2209
-[wheel-corner-dwelling](cakrakoṇanivāsinī)
+[wheel+angle+dwelling](cakrakoṇanivāsinī)
 
 ## mukta-m0-p89-v2210
-[spread](vitataṃ) [how](kathaṃ) [not](naiva) [wheel-sovereignty](cakravartitvam) [obtain](āpnuyāt)
+[spread](vitataṃ) [how](kathaṃ) [not](naiva) [wheel+sovereignty](cakravartitvam) [obtains](āpnuyāt)
 
 ## mukta-m0-p89-v2211
-[all-mantra-filled](sarvamantramayī) [vidyā](vidyā)
+[all+mantra+embodied](sarvamantramayī) [knowledge](vidyā)
 
 ## mukta-m0-p89-v2212
-[all-mantra-filled](sarvamantramayī) [vidyā](vidyā) [heart-etc](hṛdyādyaivātra) [let-be-accomplished](siddhyatu)
+[all+mantra+embodied](sarvamantramayī) [knowledge](vidyā) [heart+from](hṛdyādyaivātra) [let-it-be-accomplished](siddhyatu)
 
 ## mukta-m0-p89-v2213
-[all-mantra-letter-series](sarvamantrākṣarāvaliḥ)
+[all+mantra+letter+series](sarvamantrākṣarāvaliḥ)
 
 ## mukta-m0-p89-v2214
-[all](sarvā) [she-indeed](saivāsti) [everywhere](sarvatra) [all-mantra-letter-series](sarvamantrākṣarāvaliḥ)
+[all](sarvā) [she+is](saivāsti) [everywhere](sarvatra) [all+mantra+letter+series](sarvamantrākṣarāvaliḥ)
 
 ## mukta-m0-p89-v2215
-[honey-flowing](madhusravā)
+[honey+flowing](madhusravā)
 
 ## mukta-m0-p89-v2216
-[honey-flowing-this](madhusraveyaṃ) [honeyed](madhumanniṣevyā) [let-give](dadātu) [accomplishment](siddhiṃ) [honeyed-uttered](madhumatyanūdyām)
+[honey+flowing+this](madhusraveyaṃ) [honey+possessing](madhumanniṣevyā) [let-it-give](dadātu) [accomplishment](siddhiṃ) [honey+possessing+recited](madhumatyanūdyām)
 
 ## mukta-m0-p89-v2217
 [flowing](sravantī)
 
 ## mukta-m0-p89-v2218
-[that](yattanotyeva) [who](ko'pyeṣa) [flowing-presence-rite](sravantīsannidhervidhiḥ)
+[that](yattanotyeva) [who](ko'pyeṣa) [flowing+nearness+rite](sravantīsannidhervidhiḥ)
 
 ## mukta-m0-p89-v2219
 [bee-like](bhrāmarī)
 
 ## mukta-m0-p89-v2220
-[she](sā) [bee-like](bhrāmarī) [make-revolve](bhrāmaya) [bad-revolution](durbhramaṃ) [our](naḥ)
+[she](sā) [bee-like](bhrāmarī) [make-revolve](bhrāmaya) [bad+revolving](durbhramaṃ) [our](naḥ)
 
 ## mukta-m0-p89-v2221
-[bee-curl](bhramarālakā)
+[bee+curl](bhramarālakā)
 
 ## mukta-m0-p89-v2222
-[enough](alaṃ) [kill](hantumalaṃ) [seen](dṛṣṭaṃ) [girl](bālā) [she](sā) [bee-curl](bhramarālakā)
+[enough](alaṃ) [to-kill](hantumalaṃ) [seen](dṛṣṭaṃ) [girl](bālā) [she](sā) [bee+curl](bhramarālakā)
 
 ## mukta-m0-p89-v2223
-[mother-circle-middle-standing](mātṛmaṇḍalamadhyasthā)
+[mother+circle+middle+standing](mātṛmaṇḍalamadhyasthā)
 
 ## mukta-m0-p89-v2224
-[mother-circle-middle-standing](mātṛmaṇḍalamadhyasthā) [circle-lordship](maṇḍalendratvadāstu) [to-us](naḥ)
+[mother+circle+middle+standing](mātṛmaṇḍalamadhyasthā) [circle+lordship+give](maṇḍalendratvadāstu) [to-us](naḥ)
 
 ## mukta-m0-p89-v2225
-[mother-circle-dwelling](mātṛmaṇḍalavāsinī)
+[mother+circle+dwelling](mātṛmaṇḍalavāsinī)

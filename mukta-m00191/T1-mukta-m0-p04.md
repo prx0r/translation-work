@@ -5,73 +5,73 @@
 [knowledge-channel](jñānanāḍī) [becomes-goddess](bhaveddevī) [of-yogis](yogināṃ) [siddhi-giving](siddhidāyinī)
 
 ## mukta-m0-p04-v77
-[three](trayo) [gods](devā) [how](kathaṃ) [god](deva) [three](trayo) [states](bhāvāḥ) [three](trayo) [qualities](guṇāḥ)
+[three-gods](trayo devā) [how](kathaṃ) [god](deva) [three-states](trayo bhāvāḥ) [three-qualities](trayo guṇāḥ)
 
 ## mukta-m0-p04-v78
-[anger-state](krodhabhāva) [situated](sthito) [rudra](rudraḥ) [three](trayo) [gods](devāḥ) [three](trayo) [qualities](guṇāḥ)
+[anger-state-situated](krodhabhāvasthito) [rudra](rudrastrayo) [three-gods](devāstrayo) [three-qualities](guṇāḥ)
 
 ## mukta-m0-p04-v79
-[various-states](nānābhāvaṃ) [mind](mano) [whose](yasya) [his](tasya) [liberation](muktir) [not](na) [arises](jāyate)
+[various-states](nānābhāvaṃ) [mind](mano) [whose](yasya) [of-him](tasya) [liberation](muktirna) [not-arises](jāyate)
 
 ## mukta-m0-p04-v80
-[mind-formed](manorūpaḥ) [situated](sthito) [rudra](rudraḥ) [three](trayo) [gods](devāḥ) [three](trayo) [qualities](guṇāḥ)
+[mind-form](manorūpaḥ) [situated](sthito) [rudra](rudrastrayo) [three-gods](devāstrayo) [three-qualities](guṇāḥ)
 
 ## mukta-m0-p04-v81
-[fire-state](agnibhāva) [situated](sthito) [rudra](rudraḥ) [three](trayo) [gods](devāḥ) [three](trayo) [qualities](guṇāḥ)
+[fire-state-situated](agnibhāvasthito) [rudra](rudrastrayo) [three-gods](devāstrayo) [three-qualities](guṇāḥ)
 
 ## mukta-m0-p04-v82
-[various-states](nānābhāvaṃ) [mind](mano) [whose](yasya) [his](tasya) [liberation](muktir) [not](na) [arises](jāyate)
+[various-states](nānābhāvaṃ) [mind](mano) [whose](yasya) [of-him](tasya) [liberation](muktirna) [not-arises](jāyate)
 
 ## mukta-m0-p04-v83
-[i](ahaṃ) [rudra](rudro) [also](api) [i](ahaṃ) [void](śūnyam) [i](ahaṃ) [pervading](vyāpī) [stainless](nirañjanam)
+[I](ahaṃ) [rudra](rudro'pyahaṃ) [also](śūnyamahaṃ) [void](vyāpī) [pervading](nirañjanam)
 
 ## mukta-m0-p04-v84
-[own-nature](svabhāva) [pure](nirmalaṃ) [own-mind](svāntaṃ) [he](saḥ) [indeed](eva) [i](ahaṃ) [not](na) [doubt](saṃśayaḥ)
+[own-nature-pure](svabhāvanirmalaṃ) [mind](svāntaṃ) [he-indeed-I](sa evāhaṃ) [no](na) [doubt](saṃśayaḥ)
 
 ## mukta-m0-p04-v85
-[truth-speaking](satyavādī) [becomes](bhaved) [devotee](bhakto) [giver](dātā) [steadfast](dhīro) [welfare-devoted](hiterataḥ)
+[truth-speaker](satyavādī) [becomes](bhaved) [devotee](bhakto) [giver](dātā) [steadfast](dhīro) [welfare-devoted](hiterataḥ)
 
 ## mukta-m0-p04-v86
-[therefore](tasmāt) [all](sarva) [effort](prayatnena) [compassion-duty](dayādharmaṃ) [resort](samāśrayet)
+[therefore](tasmāt) [all-effort](sarvaprayatnena) [compassion-duty](dayādharmaṃ) [take-refuge](samāśrayet)
 
 ## mukta-m0-p04-v87
-[vedic-sandhyā](vedasandhyā) [austerity](tapo) [meditation](dhyānaṃ) [fire-rite](homakarma) [lineage](kulaṃ) [how](katham)
+[veda-twilight](vedasandhyā) [austerity](tapo) [meditation](dhyānaṃ) [homa-rite](homakarma) [family](kulaṃ) [how](katham)
 
 ## mukta-m0-p04-v88
-[brahma-knowledge](brahmajñāna) [equal](samaṃ) [merit](puṇyaṃ) [sixteenth](ṣoḍaśīm) [part](kalāṃ) [not](nārhati)
+[brahma-knowledge-equal](brahmajñānasamaṃ) [merit](puṇyaṃ) [sixteenth-part](kalāṃ) [not](nārhati) [deserves](ṣoḍaśīm)
 
 ## mukta-m0-p04-v89
-[brahma-knowledge](brahmajñāna) [equal](samaṃ) [merit](puṇyaṃ) [sixteenth](ṣoḍaśīm) [part](kalāṃ) [not](nārhati)
+[brahma-knowledge-equal](brahmajñānasamaṃ) [merit](puṇyaṃ) [sixteenth-part](kalāṃ) [not](nārhati) [deserves](ṣoḍaśīm)
 
 ## mukta-m0-p04-v90
-[not](na) [lord](svāmī) [also](ca) [guru-equal](gurostulyaṃ) [what](yad) [seen](dṛṣṭaṃ) [supreme](paramaṃ) [state](padam)
+[not](na) [lord](svāmī) [and](ca) [guru-equal](gurostulyaṃ) [what](yaddṛṣṭaṃ) [seen](paramaṃ) [supreme](padam)
 
 ## mukta-m0-p04-v91
-[guru-equal](gurostulyaṃ) [not](na) [indeed](vai) [who](ko) [api](api) [what](yad) [seen](dṛṣṭaṃ) [supreme](paramaṃ) [state](padam)
+[guru-equal](gurostulyaṃ) [not](na) [indeed](vai) [anyone](ko'pi) [what](yaddṛṣṭaṃ) [seen](paramaṃ) [supreme](padam)
 
 ## mukta-m0-p04-v92
-[on-earth](pṛthivyāṃ) [not](nāsti) [that](tad) [substance](dravyaṃ) [which](yad) [giving](dattvā) [debt-free](anṛṇī) [becomes](bhavet)
+[on-earth](pṛthivyāṃ) [not](nāsti) [that](taddravyaṃ) [thing](yaddattvā) [having-given](cānṛṇī) [and](bhavet)
 
 ## mukta-m0-p04-v93
-[whose](yasya) [any](kasyāpi) [devotee](bhaktasya) [true-guru](sadguruḥ) [his](tasya) [given](dīyate)
+[of-whomsoever](yasya) [of-any](kasyāpi) [devotee](bhaktasya) [true-guru](sadgurustasya) [to-him](dīyate)
 
 ## mukta-m0-p04-v94
-[renunciation](saṃnyāsaṃ) [all](sarva) [actions](karmāṇi) [worldly](laukikāni) [abandon](tyajed) [wise](budhaḥ)
+[renunciation](saṃnyāsaṃ) [all-actions](sarvakarmāṇi) [worldly](laukikāni) [should-abandon](tyajed) [wise](budhaḥ)
 
 ## mukta-m0-p04-v95
-[therefore](tasmāt) [all](sarva) [effort](prayatnena) [ascetic](yatiḥ) [attachment](saṅgaṃ) [abandon](parityajet)
+[therefore](tasmāt) [all-effort](sarvaprayatnena) [ascetic](yatiḥ) [attachment](saṅgaṃ) [should-abandon](parityajet)
 
 ## mukta-m0-p04-v96
-[makāra](makāraḥ) [tamasic](tāmasaḥ) [called](proktaḥ) [three](tribhiḥ) [nature](prakṛtiḥ) [said](ucyate)
+[m-syllable](makārastāmasaḥ) [tamasic](proktastribhiḥ) [declared](prakṛtirucyate)
 
 ## mukta-m0-p04-v97
-[īśvara](īśvarāt) [from](nirgatā) [she](sā) [indeed](hi) [nature](prakṛtiḥ) [quality-bound](guṇabandhanā)
+[from-lord](īśvarānnirgatā) [emerged](sā) [that](hi) [indeed](prakṛtirguṇabandhanā)
 
 ## mukta-m0-p04-v98
-[ignorance](avidyā) [deluding](mohinī) [which](yā) [she](sā) [sound-formed](śabdarūpā) [glorious](yaśasvinī)
+[ignorance](avidyā) [deluding](mohinī) [which](yā) [that](sā) [sound-form](śabdarūpā) [glorious](yaśasvinī)
 
 ## mukta-m0-p04-v99
-[makāra](makāraḥ) [sāmaveda](sāmavedaḥ) [tu](tu) [three](triṣu) [joined](yuktaḥ) [api](api) [atharvaṇa](atharvaṇaḥ)
+[m-syllable](makāraḥ) [samaveda](sāmavedastu) [indeed](triṣu) [in-three](yukto'pyatharvaṇaḥ)
 
 ## mukta-m0-p04-v100
-[a-kāra](akāraḥ) [tu](tu) [atha](atha) [bhūrloka](bhūrlokaḥ) [u-kāra](ukāraḥ) [bhuvaḥ](bhuvaḥ) [called](ucyate)
+[a-syllable](akārastvatha) [but](bhūrloka) [then](ukāro) [earth-world](bhuva) [u-syllable](ucyate)

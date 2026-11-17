@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p90-v2226
-[delights](ramate) [some](kācid) [one-only](ekaiva) [mother+circle+dweller](mātṛ+maṇḍala+vāsinī)
+[delights](ramate) [some](kācid) [only-one](ekaiva) [mother+circle+dwelling](mātṛ+maṇḍala+vāsinī)
 
 ## mukta-m0-p90-v2227
-[boy+mother](kumāra+jananī)
+[child](kumāra) [mother](jananī) [child-mother](kumārajananī) [mother-of-child](kumārajananī)
 
 ## mukta-m0-p90-v2228
-[death+time+binding+one+bond](māra+kāla+kalana+eka+bandhanaṃ) [she](sā) [boy+mother](kumāra+jananī) [maiden](kumārikā)
+[death+time+bond](māra+kāla+kalana+eka+bandhanaṃ) [she](sā) [child-mother](kumārajananī) [maiden](kumārikā)
 
 ## mukta-m0-p90-v2229
-[cruel](krūrā)
+[cruel](krūrā) [cruel-one](krūrā) [fierce](krūrā) [harsh](krūrā)
 
 ## mukta-m0-p90-v2230
 [moon+ray+form](rākā+kara+kāraṃ) [prisoners](kārākīḥ) [maker](kārakaṃ) [hand](kare)
 
 ## mukta-m0-p90-v2231
-[fair-faced](sumukhī)
+[beautiful-faced](sumukhī) [fair-face](sumukhī) [lovely](sumukhī) [graceful](sumukhī)
 
 ## mukta-m0-p90-v2232
-[face](mukhaṃ) [auspicious](śivā) [she](sā) [fair-faced](sumukhī) [thus](iti) [chief](mukhyā)
+[face](mukhaṃ) [auspicious](śivā) [she](sā) [chief](mukhyā)
 
 ## mukta-m0-p90-v2233
-[fever+destroyer](jvara+nāśinī)
+[fever-destroying](jvaranāśinī) [fever-destroyer](jvaranāśinī) [healing](jvaranāśinī) [removing-fever](jvaranāśinī)
 
 ## mukta-m0-p90-v2234
-[fever+destroyer](jvara+nāśinī) [thus](iti) [indeed](kila) [she](sā) [charming](lalitā)
+[fever-destroying](jvaranāśinī) [indeed](kila) [she](sā) [playful](lalitā)
 
 ## mukta-m0-p90-v2235
-[wonderful+end+here](citrānteha) [play+name](vilāsa+nāmni) [cessation](viratiṃ) [devotion+thirteenth](bhakti+trayodaśyā) [went](gāt)
+[wonder+end+play](citrānteha+vilāsanāmni) [cessation](viratiṃ) [devotion](bhaktiḥ) [thirteenth](trayodaśyagāt)
 
 ## mukta-m0-p90-v2236
-[thirteenth](trayodaśī) [devotion](bhaktiḥ)
+[thirteenth](trayodaśī) [devotion](bhaktiḥ) [thirteenth-devotion](trayodaśī+bhaktiḥ) [devotion-thirteenth](bhaktiḥ+trayodaśī)
 
 ## mukta-m0-p90-v2237
-[past](atītā)
+[past](atītā) [gone](atītā) [elapsed](atītā) [former](atītā)
 
 ## mukta-m0-p90-v2238
-[those](tā) [when](yadā) [not](no) [measured](mānudito) [disputants](vādino) [before](agre) [what](kim) [known](āvidi)
+[then](tā) [when](yadā) [not](no) [speaker](vādino)
 
 ## mukta-m0-p90-v2239
-[existing](vidyamānā)
+[existing](vidyamānā) [present](vidyamānā) [manifest](vidyamānā) [available](vidyamānā)
 
 ## mukta-m0-p90-v2240
-[destiny](diṣṭe) [blameless](anavadya) [clarity](vaiṣadya) [heartfelt](hṛdyā) [quickly](sadyaḥ) [be-pleased](prasīdatāt)
+[destined](diṣṭe) [faultless](anavadya) [clarity](vaiṣadya) [heart-pleasing](hṛdyā)
 
 ## mukta-m0-p90-v2241
-[future](bhāvinī)
+[future](bhāvinī) [becoming](bhāvinī) [to-be](bhāvinī) [prospective](bhāvinī)
 
 ## mukta-m0-p90-v2242
-[goddess](bhavānī) [future](bhāvinī) [various](nānā) [birth](bhave) [new+new](nava+nave) [forest](vana)
+[consort-of-śiva](bhavānī) [future](bhāvinī) [various](nānā) [new](nava)
 
 ## mukta-m0-p90-v2243
-[love+bud](prīti+mañjarī)
+[love-cluster](prītimañjarī) [affection](prīti) [cluster](mañjarī) [blossom](mañjarī)
 
 ## mukta-m0-p90-v2244
-[by-whom](yayā) [dear](priyaṃ) [dear](priyaṃ) [various+various](nānā+nānā) [dear+even](priyam+api) [dear](priyam)
+[by-whom](yayā) [dear](priyaṃ) [dear](priyaṃ) [various-dear](nānāpriyamapi)
 
 ## mukta-m0-p90-v2245
-[all+comfort+possessing](sarva+saukhya+vatī) [method](yuktiḥ)
+[all-well-being](sarvasaukhyavatī) [method](yuktiḥ) [all-happiness](sarvasaukhyavatī) [reasoning](yuktiḥ)
 
 ## mukta-m0-p90-v2246
-[all+comfort+possessing](sarva+saukhya+vatī) [method](yuktiḥ) [conquers](jayati) [this+only](eṣa+eva) [learned+form](vid+ vapuḥ)
+[all-well-being](sarvasaukhyavatī) [method](yuktiḥ) [victorious](jayati) [learned-body](vidvapuḥ)
 
 ## mukta-m0-p90-v2247
-[food+transforming](āhāra+pariṇāminī)
+[food-transformation](āhārapariṇāminī) [food](āhāra) [transformation](pariṇāminī) [digestive](pariṇāminī)
 
 ## mukta-m0-p90-v2248
-[she](sā) [some](kāpi) [sung](gīyate) [by-knowers](taj+jñair) [food+transforming](āhāra+pariṇāminī)
+[she](sā) [some](kāpi) [sung](gīyate) [knowers](tajjñair)
 
 ## mukta-m0-p90-v2249
-[cause](nidānaṃ) [five+elements](pañca+bhūtānām)
+[cause](nidānaṃ) [five-elements](pañcabhūtānām) [origin](nidānaṃ) [elements](bhūtānām)
 
 ## mukta-m0-p90-v2250
-[cause](nidānaṃ) [five+elements](pañca+bhūtānām) [conquers](jayati) [nature+radiance](prakṛti+prabhā)
+[cause](nidānaṃ) [five-elements](pañcabhūtānām) [victorious](jayati) [nature-splendor](prakṛtiprabhā)

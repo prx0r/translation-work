@@ -2,25 +2,25 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p84-v2076
-[goddess](devī) [but-this](tveṣā) [great-sheath](mahākośī) [gives](dadāti) [produces](utpādayati) [also](api)
+[goddess](devī) [indeed-this](tveṣā) [great-sheath](mahākośī) [gives-creates-also](dadātyutpādayatyapi)
 
 ## mukta-m0-p84-v2077
 [great-whirl](mahāvartā)
 
 ## mukta-m0-p84-v2078
-[at-end](ante) [unobstructed](asaṃbādhameva) [let-it-be](astu) [great-whirl](mahāvartā) [great-giving](mahattvadā)
+[at-end](ante) [unobstructed](asaṃbādham) [let-it-be](evāstu) [great-whirl](mahāvartā) [great-giving](mahattvadā)
 
 ## mukta-m0-p84-v2079
-[intellect](buddhiḥ) [being-nonbeing-self](sadasadātmikā)
+[intellect](buddhiḥ) [being-nonbeing-natured](sadasadātmikā)
 
 ## mukta-m0-p84-v2080
-[this](idaṃ) [I-am](sāhaṃ) [self-accomplished](svayaṃsiddhir) [intellect](buddhiḥ) [being-nonbeing-self](sadasadātmikā)
+[this](idaṃ) [that-i](sāhaṃ) [self-accomplished](svayaṃsiddhir) [intellect](buddhiḥ) [being-nonbeing-natured](sadasadātmikā)
 
 ## mukta-m0-p84-v2081
-[great-graha-remover](mahāgrahaharā)
+[great-grasp-remover](mahāgrahaharā)
 
 ## mukta-m0-p84-v2082
-[ever](kadāpi) [no-graha](nāgraho) [whose](yasyā) [great-graha-remover](mahāgrahaharā) [is](asti) [she](sā)
+[never](kadāpi) [no-grasp](nāgraho) [whose](yasyā) [great-grasp-remover](mahāgrahaharā) [is](asti) [she](sā)
 
 ## mukta-m0-p84-v2083
 [gentle](saumyā)
@@ -32,10 +32,10 @@
 [sorrowless](viśokā)
 
 ## mukta-m0-p84-v2086
-[beholds](vilokayati) [this](etad) [therefore](ato) [sorrowless](viśokā)
+[beholds-this-therefore](vilokayatyetadato) [sorrowless](viśokā)
 
 ## mukta-m0-p84-v2087
-[sorrow-destroyer](śokanāśinī)
+[page-252](p.) [sorrow-destroyer](śokanāśinī)
 
 ## mukta-m0-p84-v2088
 [hear-here](niśamiha) [whose](yasya) [indeed](hi) [sorrow-destroyer](śokanāśinī) [you](tvam)
@@ -44,19 +44,19 @@
 [sattvic](sāttvikī)
 
 ## mukta-m0-p84-v2090
-[all-sattva-essence](sarvasātakarasa) [pleasing-order](nmatakramaś) [in-mind](cetasi) [shines](sphurati) [whose](yasya) [sattvic](sāttvikī)
+[all-sattva-essence-good-order-in-mind](sarvasātakarasanmatakramaścetasi) [shines](sphurati) [whose](yasya) [sattvic](sāttvikī)
 
 ## mukta-m0-p84-v2091
 [sattva-established](sattvasaṃsthā)
 
 ## mukta-m0-p84-v2092
-[equally](samaṃ) [which](yad) [by-compassion](dayayā) [sattva](sattvaṃ) [sattva-established](sattvasaṃsthā) [let-give](dadātu) [she](sā)
+[equally](samaṃ) [which-by-compassion](yaddayayā) [sattva](sattvaṃ) [sattva-established](sattvasaṃsthā) [let-give](dadātu) [she](sā)
 
 ## mukta-m0-p84-v2093
 [rajasic](rājasī)
 
 ## mukta-m0-p84-v2094
-[worshipfulness](pūjyatvaṃ) [of-kings-of-kings](rājarājānāṃ) [rajasic-this](rājasīyaṃ) [let-give](dadātu) [to-us](naḥ)
+[worshipfulness](pūjyatvaṃ) [of-kings-of-kings](rājarājānāṃ) [rajasic-this](rājasīyaṃ) [let-give](dadātu) [us](naḥ)
 
 ## mukta-m0-p84-v2095
 [dust-enveloped](rajovṛtā)
@@ -68,10 +68,10 @@
 [tamasic](tāmasī)
 
 ## mukta-m0-p84-v2098
-[he](sa) [tamasic-meditation-born](tāmasīdhyānabhavo) [experience](anubhāvaḥ)
+[he](sa) [tamasic-meditation-born-power](tāmasīdhyānabhavo'nubhāvaḥ)
 
 ## mukta-m0-p84-v2099
-[darkness-united](tamoyuktā)
+[page-253](p.) [darkness-yoked](tamoyuktā)
 
 ## mukta-m0-p84-v2100
-[strength](balaṃ) [whose](yasyāḥ) [having-taken](samādāya) [darkness-united](tamoyuktā) [is](asti) [she](sā) [auspicious](śivā)
+[strength](balaṃ) [whose](yasyāḥ) [having-taken](samādāya) [darkness-yoked](tamoyuktā) [is](asti) [she](sā) [auspicious](śivā)

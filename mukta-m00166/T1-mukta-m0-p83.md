@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p83-v2051
-[totulā](totulā) [totulā](totulā) [totulā](totulā) [totulā](totulā)
+[pada](totulā) [pada](totulā) [pada](totulā) [pada](totulā)
 
 ## mukta-m0-p83-v2052
-[totulā](totulā) [tulakalā](tulakalā) [kalā](kalā) [stu](stu) [sā](sā)
+[pada](totulātulakalā) [pada](kalāstu) [pada](sā) [pada](sā)
 
 ## mukta-m0-p83-v2053
-[tulā](tulā) [koṭiḥ](koṭiḥ) [tulā-koṭiḥ](tulākoṭiḥ) [tulā-koṭiḥ](tulākoṭiḥ)
+[pada](tulākoṭiḥ) [pada](tulākoṭiḥ) [pada](tulākoṭiḥ) [pada](tulākoṭiḥ)
 
 ## mukta-m0-p83-v2054
-[deyāt](deyāt) [tulā-koṭiḥ](tulākoṭiriyaṃ) [iyaṃ](iyaṃ) [tulāṃ](tulāṃ) [nijām](nijām)
+[pada](deyāt) [pada](tulākoṭiriyaṃ) [pada](tulāṃ) [pada](nijām)
 
 ## mukta-m0-p83-v2055
-[kūṭasthā](kūṭasthā) [kūṭa-sthā](kūṭasthā) [kūṭa-sthā](kūṭasthā) [kūṭa-sthā](kūṭasthā)
+[pada](p.) [pada](249) [pada](kūṭasthā) [pada](kūṭasthā)
 
 ## mukta-m0-p83-v2056
-[lipyate](lipyate) [jātucit](jātucit) [kācit](kācit) [kūṭasthā](kūṭasthā) [cinmayī](cinmayī) [iha](iha) [sā](sā)
+[pada](lipyate) [pada](jātucit) [pada](kācit) [pada](kūṭasthā) [pada](cinmayīha) [pada](sā)
 
 ## mukta-m0-p83-v2057
-[koṭara-āśrayā](koṭarāśrayā) [koṭara](koṭara) [āśrayā](āśrayā) [koṭara-āśrayā](koṭarāśrayā)
+[pada](koṭarāśrayā) [pada](koṭarāśrayā) [pada](koṭarāśrayā) [pada](koṭarāśrayā)
 
 ## mukta-m0-p83-v2058
-[śrayā](śrayā) [śriyā](śriyā) [nitya-nijāsaneddhayā](nityanijāsaneddhayā) [nitya](nitya) [nijāsaneddhayā](nijāsaneddhayā)
+[pada](śrayā) [pada](śriyā) [pada](nityanijāsaneddhayā) [pada](nityanijāsaneddhayā)
 
 ## mukta-m0-p83-v2059
-[svayambhūḥ](svayambhūḥ) [svayam-bhūḥ](svayambhūḥ) [svayam](svayam) [bhūḥ](bhūḥ)
+[pada](svayambhūḥ) [pada](svayambhūḥ) [pada](svayambhūḥ) [pada](svayambhūḥ)
 
 ## mukta-m0-p83-v2060
-[kathaṃ](kathaṃ) [sā](sā) [svayambhūḥ](svayambhūrjaḍairnyāyyabhāvyā) [jaḍaiḥ](jaḍairnyāyyabhāvyā) [nyāyya-bhāvyā](nyāyyabhāvyā)
+[pada](kathaṃ) [pada](sā) [pada](svayambhūrjaḍairnyāyyabhāvyā) [pada](svayambhūrjaḍairnyāyyabhāvyā)
 
 ## mukta-m0-p83-v2061
-[surūpā](surūpā) [surūpā](surūpā) [surūpā](surūpā) [surūpā](surūpā)
+[pada](surūpā) [pada](surūpā) [pada](surūpā) [pada](surūpā)
 
 ## mukta-m0-p83-v2062
-[janasya](janasya) [harate](harate) [sā](sā) [eva](eva) [surūpā](surūpeti) [iti](iti) [nirūpitā](nirūpitā)
+[pada](janasya) [pada](harate) [pada](saiva) [pada](surūpeti) [pada](nirūpitā)
 
 ## mukta-m0-p83-v2063
-[svarūpā](svarūpā) [svarūpā](svarūpā) [svarūpā](svarūpā) [svarūpā](svarūpā)
+[pada](svarūpā) [pada](svarūpā) [pada](svarūpā) [pada](svarūpā)
 
 ## mukta-m0-p83-v2064
-[ccalatyataḥ](ccalatyataḥ) [sā](sā) [hi](hi) [sadā](sadā) [svarūpā](svarūpā)
+[pada](ccalatyataḥ) [pada](sā) [pada](hi) [pada](sadā) [pada](svarūpā)
 
 ## mukta-m0-p83-v2065
-[rūpa-varddhinī](rūpavarddhinī) [rūpa](rūpa) [varddhinī](varddhinī) [rūpa-varddhinī](rūpavarddhinī)
+[pada](p.) [pada](250) [pada](rūpavarddhinī) [pada](rūpavarddhinī)
 
 ## mukta-m0-p83-v2066
-[yāvat](yāvanneyaṃ) [neyaṃ](neyaṃ) [prasannā](prasannā) [syāt](syāt) [nīrūpā](nīrūpā) [rūpa-varddhinī](rūpavarddhinī)
+[pada](yāvanneyaṃ) [pada](prasannā) [pada](syānnīrūpā) [pada](rūpavarddhinī)
 
 ## mukta-m0-p83-v2067
-[tejasvinī](tejasvinī) [tejasvinī](tejasvinī) [tejasvinī](tejasvinī) [tejasvinī](tejasvinī)
+[pada](tejasvinī) [pada](tejasvinī) [pada](tejasvinī) [pada](tejasvinī)
 
 ## mukta-m0-p83-v2068
-[ttejasvinī](ttejasvinī) [yasya](yasya) [sadā](sadā) [prasannā](prasannā)
+[pada](ttejasvinī) [pada](yasya) [pada](sadā) [pada](prasannā)
 
 ## mukta-m0-p83-v2069
-[subhikṣā](subhikṣā) [subhikṣā](subhikṣā) [subhikṣā](subhikṣā) [subhikṣā](subhikṣā)
+[pada](subhikṣā) [pada](subhikṣā) [pada](subhikṣā) [pada](subhikṣā)
 
 ## mukta-m0-p83-v2070
-[kaḥ](kaḥ) [syāt](syāttadā) [tadā](tadā) [dātṛ-kalā-bala-jñaḥ](dātṛkalābalajñaḥ)
+[pada](kaḥ) [pada](syāttadā) [pada](dātṛkalābalajñaḥ) [pada](dātṛkalābalajñaḥ)
 
 ## mukta-m0-p83-v2071
-[baladā](baladā) [baladā](baladā) [baladā](baladā) [baladā](baladā)
+[pada](baladā) [pada](baladā) [pada](baladā) [pada](baladā)
 
 ## mukta-m0-p83-v2072
-[sarvatra](sarvatra) [baladā](baladā) [sā](sā) [astu](astu) [svātantrya-bala-dā](svātantryabaladā) [sadā](sadā)
+[pada](sarvatra) [pada](baladā) [pada](sāstu) [pada](svātantryabaladā) [pada](sadā)
 
 ## mukta-m0-p83-v2073
-[baladāyinī](baladāyinī) [baladāyinī](baladāyinī) [baladāyinī](baladāyinī) [baladāyinī](baladāyinī)
+[pada](baladāyinī) [pada](baladāyinī) [pada](baladāyinī) [pada](baladāyinī)
 
 ## mukta-m0-p83-v2074
-[bhavatu](bhavatu) [sadā](sadā) [baladāyinī](baladāyinī) [vinetrī](vinetrī)
+[pada](bhavatu) [pada](sadā) [pada](baladāyinī) [pada](vinetrī)
 
 ## mukta-m0-p83-v2075
-[mahā-kośī](mahākośī) [mahā](mahā) [kośī](kośī) [mahā-kośī](mahākośī)
+[pada](p.) [pada](251) [pada](mahākośī) [pada](mahākośī)

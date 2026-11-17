@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p97-v2401
-[three-cities](tripurā) [if](cet) [companion](sahāyā) [not](na) [arrow+feather+follower](bāṇa+puṅkha+anuvartinī)
+[tripura](tripurā) [if](cet) [companion](sahāyā) [not](na) [arrow-feather-follower](bāṇapuṅkhānuvartinī)
 
 ## mukta-m0-p97-v2402
-[target+attainment](lakṣya+prāptiḥ)
+[target-attainment](lakṣyaprāptiḥ)
 
 ## mukta-m0-p97-v2403
-[target-maker](lakṣya+kṛtvaḥ) [victorious](jayati) [this](eṣā) [target+attainment](lakṣya+prāptiḥ) [good-marked](su+lakṣaṇā)
+[target-maker](lakṣyakṛtvo) [victorious](jayatyeṣā) [target-attainment](lakṣyaprāptiḥ) [well-marked](sulakṣaṇā)
 
 ## mukta-m0-p97-v2404
 [art](kalā)
 
 ## mukta-m0-p97-v2405
-[time+crow+play+saliva](kāla+kāka+kile+lālā) [in-time](kāle) [in-kali](kalau) [art+art](kalā+kalā)
+[mantra](kālakākakilelālā) [in-time](kāle) [in-kali](kalau) [art-art](kalākalā)
 
 ## mukta-m0-p97-v2406
 [unmarked](alakṣyā)
 
 ## mukta-m0-p97-v2407
-[target+mark+non-duality+target+unmarked](lakṣya+lakṣaṇa+tādvaita+lakṣya+alakṣyā) [victorious](jayati) [that](asau)
+[target-mark-duality-target-unmarked](lakṣyalakṣaṇatādvaitalakṣyālakṣyā) [victorious](jayatyasau)
 
 ## mukta-m0-p97-v2408
 [target](lakṣyā)
 
 ## mukta-m0-p97-v2409
-[target-born](lakṣya+bhūtā) [also](api) [one](ekā) [eva](eva) [target](lakṣyā) [all-distinct](sarva+vilakṣaṇā)
+[target-become](lakṣyabhūtāpi) [one](saikaiva) [target](lakṣyā) [all-distinct](sarvavilakṣaṇā)
 
 ## mukta-m0-p97-v2410
-[auspicious-marked](śubha+lakṣaṇā)
+[auspicious-mark](śubhalakṣaṇā)
 
 ## mukta-m0-p97-v2411
-[many+kalpa+resolve](aneka+kalpa+saṃkalpaḥ) [fortunate](dhanyasya) [moment](kṣaṇāyate)
+[many-intention](anekakalpasaṃkalpo) [fortunate](dhanyasyāsya) [moment](kṣaṇāyate)
 
 ## mukta-m0-p97-v2412
-[abiding](vartinī)
+[follower](vartinī)
 
 ## mukta-m0-p97-v2413
-[abiding](vartinī) [deity](devatā) [may-be](bhūyāt) [always](nityaṃ) [heart-abiding](hṛdaya+vartinī)
+[follower](vartinī) [deity](devatā) [may-be](bhūyānnityaṃ) [heart-dweller](hṛdayavartinī)
 
 ## mukta-m0-p97-v2414
-[good-path-conduct](su+patha+ācārā)
+[good-path-conduct](supathācārā)
 
 ## mukta-m0-p97-v2415
-[that-path](tat+pathaṃ) [not](na) [how](kathaṃ) [all](sarve) [would-go](gaccheyuḥ) [not](na) [desired](arthitā) [also](api)
+[that-path](tatpathaṃ) [how](na kathaṃ) [all](sarve) [go](gaccheyurnārthitā) [api](api)
 
 ## mukta-m0-p97-v2416
-[ditch](parikhā)
+[moat](parikhā)
 
 ## mukta-m0-p97-v2417
-[which](yā) [stands](tiṣṭhati) [supreme](parā) [limit](niṣṭhā) [ditch](parikhā) [that](sā) [remembered](smṛtā) [by-wise](budhaiḥ)
+[which](yā) [stands](tiṣṭhati) [supreme](parā) [limit](niṣṭhā) [moat](parikhā) [remembered](sā smṛtā) [wise](budhaiḥ)
 
 ## mukta-m0-p97-v2418
 [mine](khaniḥ)
 
 ## mukta-m0-p97-v2419
-[fortress+fortress-ness+cause](durga+durgatva+hetuḥ) [ca](ca) [may-conquer](jīyāt) [mine](khaniḥ) [this](iyam) [always](sadā)
+[fortress-cause](durgadurgatvahetuśca) [victorious](jīyāt) [mine](khaniriyaṃ) [always](sadā)
 
 ## mukta-m0-p97-v2420
 [enclosure](vṛtiḥ)
 
 ## mukta-m0-p97-v2421
-[cows](agāḥ) [nourished](puṣṭāḥ) [how](kathaṃ) [would-be](syuḥ) [if-not](cet+na) [would-be](syāt) [protective](rakṣā+karī) [enclosure](vṛtiḥ)
+[cows](agāḥ) [nourished](puṣṭāḥ) [how](kathaṃ) [would-be](syuścenna) [would-be](syādrakṣākarī) [enclosure](vṛtiḥ)
 
 ## mukta-m0-p97-v2422
-[wall+circle](prākāra+valayā)
+[wall-circle](prākāravalayā)
 
 ## mukta-m0-p97-v2423
-[wall+circle](prākāra+valayā) [goddess](devī) [shine](bhāsase) [by-compassion](dayayā) [by-own](svayā)
+[wall-circle](prākāravalayā) [goddess](devī) [shine](bhāsase) [compassion](dayayā) [own](svayā)
 
 ## mukta-m0-p97-v2424
 [shore](velā)
 
 ## mukta-m0-p97-v2425
-[delighted+delighted+tar+tar+sal+sal+latā+latā+lasya](ratā+ratātā+ratā+rasā+latā+lalatā+lalatā+lasā)
+[delighted](ratā) [delighted](ratātāratārasālatālalatālasā)

@@ -5,7 +5,7 @@
 [skillful](dakṣā)
 
 ## mukta-m0-p73-v1802
-[skillful](dakṣā) [other](tadanyā) [which](katamā) [that-is](tadasti)
+[skillful](dakṣā) [other](tadanyā) [which](katamā) [exists](tadasti)
 
 ## mukta-m0-p73-v1803
 [born-of-dakṣa](dakṣajā)
@@ -14,16 +14,16 @@
 [not](na) [but](tu) [because](yasmāt) [therefore](tataḥ) [truth](satyaṃ) [born-of-dakṣa](dakṣajāsi) [world-mother](jagatprasūḥ)
 
 ## mukta-m0-p73-v1805
-[having-form-of-koṭi](koṭirūpiṇī)
+[million-formed](koṭirūpiṇī)
 
 ## mukta-m0-p73-v1806
-[having-attained-form-of-koṭi](koṭirūpitvamāptaḥ) [indeed-one](sanneko'smyadyāpi) [certain](niścitam)
+[million-formedness](koṭirūpitvam) [obtained](āptaḥ) [one](ekaḥ) [am](asmi) [today](adya) [also](api) [certain](niścitam)
 
 ## mukta-m0-p73-v1807
 [sacrifice](kratuḥ)
 
 ## mukta-m0-p73-v1808
-[became](abhūt) [pervading-sacrificial-material](sambhāranīvyāpi) [of-sacrifices](kratūnāmapi) [that](sā) [sacrifice](kratuḥ)
+[became](abhūt) [provision-pervading](sambhāranīvyāpi) [of-sacrifices](kratūnām) [also](api) [she](sā) [sacrifice](kratuḥ)
 
 ## mukta-m0-p73-v1809
 [kātyāyanī](kātyāyanī)
@@ -35,43 +35,43 @@
 [pure](svacchā)
 
 ## mukta-m0-p73-v1812
-[pure](svacchā) [vile](tucchāhantvahartrī) [yours](tavāstu)
+[pure](svacchā) [vile](tucchā) [slayer-of-ego](ahantvahartrī) [yours](tavāstu)
 
 ## mukta-m0-p73-v1813
 [self-willed](svacchandā)
 
 ## mukta-m0-p73-v1814
-[self-willed](svacchandā) [may-be](syā) [not-by-self](nātmanādvaitagamyā)
+[self-willed](svacchandā) [may-be](syā) [not-by-self](nātmanā) [non-dual-accessible](advaitagamyā)
 
 ## mukta-m0-p73-v1815
-[dear-to-poets](kavipriyā)
+[poet-beloved](kavipriyā)
 
 ## mukta-m0-p73-v1816
-[renowned](prathitaṃ) [who](yo) [indeed](hi) [dear-to-poets](kavipriyāpriyaḥ) [may-be](syāt)
+[renowned](prathitaṃ) [who](yo) [indeed](hi) [poet-beloved-and-unbeloved](kavipriyāpriyaḥ) [may-be](syāt)
 
 ## mukta-m0-p73-v1817
 [true-scripture](satyāgamā)
 
 ## mukta-m0-p73-v1818
-[go+come](gamā'gamaṃ) [without-delusion](nirbhramamātanoṣi)
+[going-coming](gamā'gamaṃ) [without-delusion](nirbhramam) [you-spread](ātanoṣi)
 
 ## mukta-m0-p73-v1819
-[standing-outside](bahiḥsthā)
+[outside-standing](bahiḥsthā)
 
 ## mukta-m0-p73-v1820
-[all-one-stream-flow](sarvaikadhārāprasarā) [standing-outside](bahiḥsthā)
+[all-one-stream-flowing](sarvaikadhārāprasarā) [outside-standing](bahiḥsthā)
 
 ## mukta-m0-p73-v1821
 [poetic-power](kāvyaśaktiḥ)
 
 ## mukta-m0-p73-v1822
-[as-long-as](yāvannaiṣā) [shines](vilasati) [in-own](nije) [mind-sky](cittakhe) [poetic-power](kāvyaśaktiḥ)
+[as-long-as](yāvat) [not-this](naiṣā) [shines](vilasati) [in-own](nije) [mind-sky](cittakhe) [poetic-power](kāvyaśaktiḥ)
 
 ## mukta-m0-p73-v1823
-[giver-of-poetry](kavitvadā)
+[poetry-giving](kavitvadā)
 
 ## mukta-m0-p73-v1824
-[having-heard](cchrutvāmanāḥ) [may-be](syāt) [group-of-gods](sumanogaṇo'pi)
+[having-heard](cchrutvā) [mind](manāḥ) [may-be](syāt) [good-minded-group](sumanogaṇo'pi)
 
 ## mukta-m0-p73-v1825
-[daughter-of-menā](menāputrī)
+[menā-daughter](menāputrī)
