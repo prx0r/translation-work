@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p38-v926
-[release](vivimocayamāṃ) [lord](nātha) [kiss](cu) [kiss](cu) [kiss](cuṃbāmi) [my](me) [standard](dhvajam)
+[vivimocayamāṃ](vivimocayamāṃ) [nātha](nātha) [cu](cu) [cu](cu) [cuṃbāmi](cuṃbāmi) [me](me) [dhvajam](dhvajam)
 
 ## mukta-m0-p38-v927
-[hum](huṃ) [hum](huṃ) [hum](huṃ) [give](dehi) [give](dehīti) [abandoning](tyaktvāpallavacāruṇā) 
+[huṃ](huṃ) [huṃ](huṃ) [huṃ](huṃ) [dehi](dehi) [dehīti](dehīti) [tyaktvāpallavacāruṇā](tyaktvāpallavacāruṇā)
 
 ## mukta-m0-p38-v928
-[seventh-offering](saptamāhutisusnātaṃ) [lingam](liṃgam) [drawing](ākṛṣya) [passionate-woman](rāgiṇī)
+[saptamāhutisusnātaṃ](saptamāhutisusnātaṃ) [liṃgam](liṃgam) [ākṛṣya](ākṛṣya) [rāgiṇī](rāgiṇī)
 
 ## mukta-m0-p38-v929
-[kisses](cuṃbatī) [also](ca) [in-mouth](mukhe) [lingam](liṃgaṃ) [obtained](prāpta) [seven](saptā) [anointings](abhiṣecanam)
+[cuṃbatī](cuṃbatī) [ca](ca) [mukhe](mukhe) [liṃgaṃ](liṃgaṃ) [prāptasaptābhiṣecanam](prāptasaptābhiṣecanam)
 
 ## mukta-m0-p38-v930
-[in-mouth](mukhe) [placing](nikṣipyataṃ) [god](devaṃ) [biting](daśanena) [cleverly](vidaghnatī)
+[mukhe](mukhe) [nikṣipyataṃ](nikṣipyataṃ) [devaṃ](devaṃ) [daśanena](daśanena) [vidaghnatī](vidaghnatī)
 
 ## mukta-m0-p38-v931
-[of-standard](dhvajasya) [lotus-center](karṇikābhāgaṃ) [with-tongue](jihvayā) [and](ca) [agitate](vilolayet)
+[dhvajasya](dhvajasya) [karṇikābhāgaṃ](karṇikābhāgaṃ) [jihvayā](jihvayā) [ca](ca) [vilolayet](vilolayet)
 
 ## mukta-m0-p38-v932
-[side](pārśvoścanakharekhābhirurarī) [makes](kurute) [pleasure](ratim)
+[pārśvoścanakharekhābhirurarī](pārśvoścanakharekhābhirurarī) [kurute](kurute) [ratim](ratim)
 
 ## mukta-m0-p38-v933
-[drinking](pibaṃtī) [sound](vacataṃ) [noise](nādaṃ) [many-plays](bahulīlāṃ) [perform](samācaret)
+[pibaṃtī](pibaṃtī) [vacataṃ](vacataṃ) [nādaṃ](nādaṃ) [bahulīlāṃ](bahulīlāṃ) [samācaret](samācaret)
 
 ## mukta-m0-p38-v934
-[then](atha) [moon-channel](caṃdrakalānāḍyāḥ) [own-form](svarūpaṃ) [I-tell](kathayāmi) [to-you](te)
+[atha](atha) [caṃdrakalānāḍyāḥ](caṃdrakalānāḍyāḥ) [svarūpaṃ](svarūpaṃ) [kathayāmi](kathayāmi) [te](te)
 
 ## mukta-m0-p38-v935
-[many-colored](anekavarṇaśāvavre) [adorned](vibhūṣitanijākṛtiḥ)
+[anekavarṇaśāvavre](anekavarṇaśāvavre) [vibhūṣitanijākṛtiḥ](vibhūṣitanijākṛtiḥ)
 
 ## mukta-m0-p38-v936
-[extremely](atyaṃtaṃ) [soft-formed](mṛdulākāraṃ) [middle](madhye) [somewhat](kiṃcit) [thick](sthalīyasi)
+[atyaṃtaṃ](atyaṃtaṃ) [mṛdulākāraṃ](mṛdulākāraṃ) [madhye](madhye) [kiṃcit](kiṃcit) [sthalīyasi](sthalīyasi)
 
 ## mukta-m0-p38-v937
-[barley-shaped](yavākāramanuprāptā) [again](bhūyaḥ) [thrilled-formed](pulakitākṛtiḥ)
+[yavākāramanuprāptā](yavākāramanuprāptā) [bhūyaḥ](bhūyaḥ) [pulakitākṛtiḥ](pulakitākṛtiḥ)
 
 ## mukta-m0-p38-v938
-[of-other](anyāsāmapi) [channels](nāḍīnāṃ) [seven-enjoyments](saptabhogasudhākirām)
+[anyāsāmapi](anyāsāmapi) [nāḍīnāṃ](nāḍīnāṃ) [saptabhogasudhākirām](saptabhogasudhākirām)
 
 ## mukta-m0-p38-v939
-[all-bliss](samastānaṃda) [filled](bharitā) [desire-support](kāmālaṃbanayaṣṭikā)
+[samastānaṃda](samastānaṃda) [bharitā](bharitā) [kāmālaṃbanayaṣṭikā](kāmālaṃbanayaṣṭikā)
 
 ## mukta-m0-p38-v940
-[ageless-immortal](ajarāmaratāhetu) [her](masyā) [melting-action](vidrāvaṇakriyām)
+[ajarāmaratāhetu](ajarāmaratāhetu) [masyāvidrāvaṇakriyām](masyāvidrāvaṇakriyām)
 
 ## mukta-m0-p38-v941
-[new](navāsidheṣu) [accomplished](sidhyeṣu) [goals](sādhyeṣu) [know](jānaṃti) [not](na) [fair-faced](varānane)
+[navāsidheṣu](navāsidheṣu) [sādhyeṣu](sādhyeṣu) [jānaṃti](jānaṃti) [na](na) [varānane](varānane)
 
 ## mukta-m0-p38-v942
-[thighs](jaṃghayorapi) [thigh](jaṃghedve) [chest](vakṣasyapi) [between-arms](bhujāṃtaram)
+[jaṃghayorapi](jaṃghayorapi) [jaṃghedve](jaṃghedve) [vakṣasyapi](vakṣasyapi) [bhujāṃtaram](bhujāṃtaram)
 
 ## mukta-m0-p38-v943
-[on-lip](adhare) [also](cāpi) [bimba-lip](biṃboṣṭhaṃ) [in-nose](nāsāyāmapi) [nose](nāsikām)
+[adhare](adhare) [cāpi](cāpi) [biṃboṣṭhaṃ](biṃboṣṭhaṃ) [nāsāyāmapi](nāsāyāmapi) [nāsikām](nāsikām)
 
 ## mukta-m0-p38-v944
-[whole-body](sarvāṃgīṇamidaṃ) [named](nāma) [massage](mardanaṃ) [declared](parikīrtitam)
+[sarvāṃgīṇamidaṃ](sarvāṃgīṇamidaṃ) [nāma](nāma) [mardanaṃ](mardanaṃ) [parikīrtitam](parikīrtitam)
 
 ## mukta-m0-p38-v945
-[ear-root](karṇamūlasirayugme) [kiss](sa) [radish](cuṃbanaradakṣatam)
+[karṇamūlasirayugme](karṇamūlasirayugme) [sa](sa) [cuṃbanaradakṣatam](cuṃbanaradakṣatam)
 
 ## mukta-m0-p38-v946
-[somewhat](kiṃciddaśanadaṃśena) [nipple-pair](cūcukadvaṃdva) [sucking](cūṣaṇam)
+[kiṃciddaśanadaṃśena](kiṃciddaśanadaṃśena) [cūcukadvaṃdva](cūcukadvaṃdva) [cūṣaṇam](cūṣaṇam)
 
 ## mukta-m0-p38-v947
-[navel-depression](nābhīpuṭe) [blowing](phūtkaraṇaṃ) [between-brows](bhrūmadhye) [also](cāpi) [hissing](sītkṛtiḥ)
+[nābhīpuṭe](nābhīpuṭe) [phūtkaraṇaṃ](phūtkaraṇaṃ) [bhrūmadhye](bhrūmadhye) [cāpi](cāpi) [sītkṛtiḥ](sītkṛtiḥ)
 
 ## mukta-m0-p38-v948
-[of-seat](āsanasya) [place](pradeśe) [ca](ca) [gentle](maṃdaraṃ) [fist-striking](muṣṭitāḍanam)
+[āsanasya](āsanasya) [pradeśe](pradeśe) [ca](ca) [maṃdaraṃ](maṃdaraṃ) [muṣṭitāḍanam](muṣṭitāḍanam)
 
 ## mukta-m0-p38-v949
-[these](etānyupācared) [hero](vīro) [messenger](dūtikādrāvako) [becomes](bhavet)
+[etānyupācared](etānyupācared) [vīro](vīro) [dūtikādrāvako](dūtikādrāvako) [bhavet](bhavet)
 
 ## mukta-m0-p38-v950
-[previously-said](pūrvokta) [restlessness](cāpalaṃ) [mantra](maṃtraṃ) [vulva-garland](bhagamālinikāmanum)
+[pūrvokta](pūrvokta) [cāpalaṃ](cāpalaṃ) [maṃtraṃ](maṃtraṃ) [bhagamālinikāmanum](bhagamālinikāmanum)

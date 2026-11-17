@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p56-v1376
-[human-goal](puruṣārthastu) [chief](mukhyoyo) [great-sacrifice-facilitator](mahāyāgopapādakaḥ)
+[purpose](puruṣārthaḥ) [but](tu) [chief](mukhyaḥ) [that](yaḥ) [great+sacrifice](mahāyāga) [causing](upapādakaḥ)
 
 ## mukta-m0-p56-v1377
-[bliss-yoga](ānaṃdayogo) [indeed](hi) [supreme](paramatastat) [accomplisher](pratisādhakaḥ)
+[bliss+yoga](ānaṃdayogaḥ) [indeed](hi) [supreme](paramaḥ) [that](tat) [accomplishing](pratisādhakaḥ)
 
 ## mukta-m0-p56-v1378
-[dharma](dharmaḥ) [indeed](khalu) [great-sacrifice](mahāyāgo) [seen-unseen-result-giver](dṛṣṭādṛṣṭa) [fruit-giver](phalapradaḥ)
+[dharma](dharmaḥ) [indeed](khalu) [great+sacrifice](mahāyāgaḥ) [seen+unseen](dṛṣṭādṛṣṭa) [fruit+giving](phalapradaḥ)
 
 ## mukta-m0-p56-v1379
-[that](sa) [indeed](eva) [mākṣa](mākṣopi) [in-śiva](śive) [supreme-bliss-filled](parānaṃdamayatpataḥ)
+[that](saḥ) [indeed](eva) [mākṣa](mākṣaḥ) [also](api) [in+śiva](śive) [supreme+bliss+filled](parānaṃdamaya) [lord](patiḥ)
 
 ## mukta-m0-p56-v1380
-[dharma-formed](dharmarūpī) [desire-formed](kāmarūpī) [liberation-formed](mokṣarūpī) [and](ca) [person](pūruṣaḥ)
+[dharma+form](dharmarūpī) [desire+form](kāmarūpī) [liberation+form](mokṣarūpī) [and](ca) [person](pūruṣaḥ)
 
 ## mukta-m0-p56-v1381
-[wealth](dhanaṃ) [indeed](khalu) [of-great-lord](maheśasya) [worship-first-means](pūjāprathamasādhanam)
+[wealth](dhanaṃ) [indeed](khalu) [of+mahā+īśa](maheśasya) [worship](pūjā) [first](prathama) [means](sādhanam)
 
 ## mukta-m0-p56-v1382
-[not](nātyaṃta) [fragrant](saurabhaṃ) [thing](vastu) [not](na) [or](vā) [finer](sūkṣmataraḥ) [cloth](paṭaḥ)
+[not](na) [very](atyanta) [fragrant](saurabhaṃ) [thing](vastu) [not](na) [or](vā) [more+subtle](sūkṣmataraḥ) [cloth](paṭaḥ)
 
 ## mukta-m0-p56-v1383
 [not](na) [fruits](phalāni) [and](ca) [pleasing](hṛdyāni) [not](na) [ripe](pakvāni) [fruits](phalāni) [and](ca)
 
 ## mukta-m0-p56-v1384
-[without-wealth](dhanaṃ+vinā) [not](na) [succeed](sidhyaṃti) [human-goal](puruṣārthaḥ) [that](sa) [declared](īritaḥ)
+[wealth](dhanaṃ) [without](vinā) [not](na) [succeed](sidhyaṃti) [purpose](puruṣārthaḥ) [that](saḥ) [declared](īritaḥ)
 
 ## mukta-m0-p56-v1385
-[that](sa) [but](tu) [scriptures](śāstrāṇi) [all](sarvāṇi) [useless](nirarthānyapi) [not](nātyajat)
+[that](saḥ) [but](tu) [scriptures](śāstrāṇi) [all](sarvāṇi) [useless](nirarthāni) [also](api) [not](na) [abandon](tyajat)
 
 ## mukta-m0-p56-v1386
-[logic-etc-scriptures-study](tarkādiśāstrābhyāsasya) [wealth-giving-cause](dhanadāyānidānatām)
+[logic+etc+scriptures](tarkādiśāstrābhyāsasya) [wealth+giving](dhanadāya) [cause](nidānatām)
 
 ## mukta-m0-p56-v1387
-[not](nānyajāti) [enjoyer](juṣojaṃtorāhārya) [easy](sulabhatvataḥ)
+[not](na) [other+birth](anyajāti) [enjoying](juṣaḥ) [creature](jaṃtuḥ) [obtainable](sulabhatvataḥ)
 
 ## mukta-m0-p56-v1388
-[human-birth](narajātiriyantvetaiḥ) [refined](saṃskṛtairātmapoṣiṇī)
+[human+birth](narajātiḥ) [this](iyam) [by+these](etaiḥ) [refined](saṃskṛtaiḥ) [self+nourishing](ātmapoṣiṇī)
 
 ## mukta-m0-p56-v1389
-[difficult](duṣkaraṃ) [and](cāpi) [some](kaṃcodyat) [mutual](paraspara) [search](gaveṣaṇam)
+[difficult](duṣkaraṃ) [and](ca) [api](api) [some](kaṃcit) [effort](udyat) [mutual](paraspara) [search](gaveṣaṇam)
 
 ## mukta-m0-p56-v1390
-[very-painful](atikaṣṭhataraṃ) [goddess](devi) [much-sorrow-single-vessel](bahuduḥkhaikabhājanam)
+[very+difficult](atikaṣṭhataraṃ) [goddess](devi) [much+sorrow](bahuduḥkha) [single+vessel](ekabhājanam)
 
 ## mukta-m0-p56-v1391
-[of-heroes](vīrāṇāṃ) [self-worship-purpose](svātmapūjārtha) [wealth-acquisition](dhanasaṃpādanāya) [and](ca)
+[of+heroes](vīrāṇāṃ) [self+worship](svātmapūjā) [purpose](artha) [wealth+accumulation](dhanasaṃpādanāya) [and](ca)
 
 ## mukta-m0-p56-v1392
-[then](tadāpyamīgirisute) [others-delusion](paravyāmoha) [cause](hetave)
+[then](tadā) [api](api) [these](amī) [mountain+daughter](girisute) [other+delusion](paravyāmoha) [cause](hetave)
 
 ## mukta-m0-p56-v1393
-[I](ahaṃ) [veda-meaning-knower](vedārtha+tatvajño) [sacrifice-knowledge-axle](yajñavidyākṣamosmyaham)
+[i](ahaṃ) [veda+meaning](vedārtha) [truth+knower](tatvajñaḥ) [sacrifice+knowledge](yajñavidyā) [skilled](kṣamaḥ) [am+i](asmi) [i](aham)
 
 ## mukta-m0-p56-v1394
-[six-limbs-veda-knower](ṣaḍaṅgavedatatvajña) [I](stvahameva) [on-earth](mahītale)
+[six+limb+veda+truth+knower](ṣaḍaṅgavedatatvajñaḥ) [i](stvaham) [indeed](eva) [on+earth](mahītale)
 
 ## mukta-m0-p56-v1395
-[brahma-pure-lineage](ābrahmaśuddhadāro'hamahamasmyā) [indeed](hi) [tuṇḍika](tuṇḍikaḥ)
+[up+to+brahma](ābrahma) [pure+staff](śuddhadāraḥ) [i](aham) [i](aham) [indeed](asmi) [tuṇḍika](tuṇḍikaḥ)
 
 ## mukta-m0-p56-v1396
-[I](ahṃ) [not](nādyarasajñosmi) [poetry-skilled](kāvyālāpeṣvahaṃ) [expert](paṭuḥ)
+[i](ahṃ) [not](na) [juice+knower](ādyarasajñaḥ) [in+poetry+talks](kāvyālāpeṣu) [i](ahaṃ) [skilled](paṭuḥ)
 
 ## mukta-m0-p56-v1397
-[thus](iti) [pride-inflated](garvoddhatairvākyaiḥ) [true-false](satyāsatya) [mixed](vimiśritaiḥ)
+[thus](iti) [pride+raised](garvoddhataiḥ) [words](vākyaiḥ) [true+false](satyāsatya) [mixed](vimiśritaiḥ)
 
 ## mukta-m0-p56-v1398
-[wealthy](dhaninomohadarpāṃdhā) [worship](arcayaṃte) [with-wealth](vasubhiścataiḥ)
+[wealthy](dhaninaḥ) [delusion+pride+blind](mohadarpāṃdhāḥ) [worship](arcayaṃte) [with+wealth](vasubhiḥ) [and](ca) [these](taiḥ)
 
 ## mukta-m0-p56-v1399
-[only](kevalaṃ) [eating-purpose](jagdhiyabdhyarthe) [fools](mūrkhāḥ) [accumulate](samadhicinvate)
+[only](kevalaṃ) [eating](jagdhi) [for+purpose](yabdhyarthe) [fools](mūrkhāḥ) [collect](samadhicinvate)
 
 ## mukta-m0-p56-v1400
-[they](te) [that](tu) [that-scripture-devoted](tat+tacchāstraniṣṭhāḥ) [for-worship](pūjanārthaṃ) [wealth-seekers](dhanārjakāḥ)
+[they](te) [but](tu) [that](tat) [that](tac) [scripture+devoted](śāstraniṣṭhāḥ) [for+worship](pūjanārthaṃ) [wealth+seeking](dhanārjakāḥ)
