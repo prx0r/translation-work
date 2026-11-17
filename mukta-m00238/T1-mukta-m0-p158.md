@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p158-v3926
-[created](kalpitaṃ) [by-brahma](brahmaṇā) [itself](svayam) [purana](purāṇaṃ)
+[kalpitaṃlaiṃgyam](kalpitaṃlaiṃgyam) [thus-said](ityuktaṃ) [ancient](purāṇaṃ) [by-Brahma](brahmaṇā) [himself](svayam)
 
 ## mukta-m0-p158-v3927
-[that](tad) [eleven-thousand](ekādaśasāhasra) [spoken](uktaṃ) [by-sages](munipuṃgavāḥ)
+[eleven-thousand](tadekādaśasāhasra) [verses](ślo0) [declared](mākhyātaṃ) [sages](munipuṃgavāḥ)
 
 ## mukta-m0-p158-v3928
-[mahavaraha](mahāvarāhasya) [again](punar) [greatness](māhātmyam) [regarding](adhikṛtya) [and](ca)
+[mahāvarāha-greatness](mahāvarāhasyapunarmāhātmyam) [concerning](adhikṛtya) [and](ca)
 
 ## mukta-m0-p158-v3929
-[twenty-four-thousand](caturviṃśatisahasrāṇi) [that-purana](tatpurāṇam) [here](iha) [is-said](ucyate)
+[twenty-four-thousand](caturviṃśatisahasrāṇi) [verses](ślo0) [that-purāṇa](tatpurāṇam) [here](iha) [is-said](ucyate)
 
 ## mukta-m0-p158-v3930
-[in-kalpa](kalpe) [tatpurusha](tatpuruṣe) [deeds](vṛttaiḥ) [expanded](upabṛṃhitam)
+[in-kalpa](kalpe) [tatpuruṣa](tatpuruṣe) [deeds](vṛttaiś) [narratives](caritrair) [expanded](upabṛṃhitam)
 
 ## mukta-m0-p158-v3931
-[one-hundred-thousand](sahasrāṇāṃ+śataṃ+ca+eka) [among-mortals](martyeṣu) [proclaimed](prakīrtitam)
+[hundred-thousand](sahasrāṇāṃśataṃcaika) [verses](ślo0) [measure](mitim) [among-mortals](martyeṣu) [proclaimed](prakīrtitam)
 
 ## mukta-m0-p158-v3932
-[three-aims](trivargaṃ) [three-divine](tridaivatyaṃ) [vamana](vāmanaṃ) [that](tat) [proclaimed](prakīrtitam)
+[three-aims](trivargaṃ) [and](ca) [three-deities](tridaivatyaṃ) [vāmana](vāmanaṃ) [that](tat) [proclaimed](prakīrtitam)
 
 ## mukta-m0-p158-v3933
-[fourteen-thousand](caturdaśasahasrāṇi) [known](khyātaṃ) [kalpa-following](kalpānugaṃ) [auspicious](śivam)
+[fourteen-thousand](caturdaśasahasrāṇi) [verses](ślo0) [known](khyātaṃ) [kalpa-following](kalpānugaṃ) [śiva](śivam)
 
 ## mukta-m0-p158-v3934
-[greatness](māhātmyaṃ) [told](kathayāmāsa) [kurma-form](kūrmarūpī) [janardana](janārdanaḥ)
+[greatness](māhātmyaṃ) [narrated](kathayāmāsa) [kūrma-form](kūrmarūpī) [Janārdana](janārdanaḥ)
 
 ## mukta-m0-p158-v3935
-[that-kurma](tatkaurmaṃ) [six-thousand](ṣaṭsahasrāṇi) [lakshmi-kalpa](lakṣmīkalpānuṣaṃgikam)
+[that-kaurma](tatkaurmaṃ) [six-thousand](ṣaṭsahasrāṇi) [verses](ślo0) [Lakṣmī-kalpa-connected](lakṣmīkalpānuṣaṃgikam)
 
 ## mukta-m0-p158-v3936
-[matsya-form](mātsyarūpeṇa) [manu](manavena) [narasimha](nārasiṃha) [described](upavarṇitam)
+[matsya-form](mātsyarūpeṇa) [Manu](manavena) [Narasiṃha-described](nārasiṃhopavarṇitam)
 
 ## mukta-m0-p158-v3937
-[that-matsya](tanmātsyaṃ) [know](jānīdhvaṃ) [fourteen-thousand](sahasrāṇi+caturdaśa)
+[that-mātsya](tanmātsyam) [know](itijānīdhvaṃ) [fourteen-thousand](sahasrāṇi caturdaśa) [verses](ślo0)
 
 ## mukta-m0-p158-v3938
-[regarding](adhikṛtya) [vishnu](viṣṇuḥ) [spoke](abravīt) [garuda](gāruḍaṃ) [here](iha) [is-said](ucyate)
+[concerning](adhikṛtya) [Viṣṇu-said](abravīdviṣṇuḥ) [gāruḍa](gāruḍaṃ) [that](tad) [here](iha) [is-said](ucyate)
 
 ## mukta-m0-p158-v3939
-[that](tat) [sixteen-thousand](ṣoḍaśasāhasraṃ) [purana](purāṇaṃ) [is-recited](paripaṭhyate)
+[that](tattu) [sixteen-thousand](ṣoḍaśasāhasraṃ) [verses](ślo0) [purāṇa](purāṇaṃ) [is-recited](paripaṭhyate)
 
 ## mukta-m0-p158-v3940
-[that](tat) [twelve-thousand-two-hundred](dvādaśasāhasraṃ+dviśatādhikam) [brahmanda](brahmāṃḍaṃ)
+[that](taccad) [twelve-thousand-two-hundred](dvādaśasāhasraṃ) [verses](ślo0) [Brahmāṇḍa](brahmāṃḍaṃ) [two-hundred-more](dviśatādhikam)
 
 ## mukta-m0-p158-v3941
-[four-lakh](caturlakṣam) [this](idaṃ) [spoken](proktaṃ) [by-vyasa](vyāsenā) [wonderful-deeds](adbhutakarmaṇā)
+[four-lakhs](caturlakṣam) [this](idaṃ) [declared](proktaṃ) [by-Vyāsa](vyāsenā) [wonderful-deeds](adbhutakarmaṇā)
 
 ## mukta-m0-p158-v3942
-[this](idaṃ) [for-world-welfare](lokahitārthāya) [abridged](saṃkṣiptaṃ) [by-great-sage](paramarṣiṇā)
+[this](idaṃ) [world-welfare](lokahitārthāya) [abridged](saṃkṣiptaṃ) [by-great-sage](paramarṣiṇā)
 
 ## mukta-m0-p158-v3943
-[rudras](rudreṣu) [akshini](akṣīṇi) [vanya](vanyena) [varasa](varasa) [nayana](nayanāni) [ocean](abdhisaṭṣaṇ) [earth](mahīkṣmāḥ)
+[rudra-akṣīṇi...](rudreṣvakṣīṇivanyenavarasanayanānyabdhisaṭṣaṇmahīkṣmāḥ) [vairāṭe...](vairāṭesaptaṣaṭkāḥgaganaśaranabhobāhavassaṃpradiṣṭāḥ)
 
 ## mukta-m0-p158-v3944
-[karna](kārṇe) [anga](kāṃgāni) [vedarin](vedārin) [new-made](navakṛtam) [shalya-parva](śalyaparvaṇi) [go](gobāṇāḥ)
+[karṇa...](kārṇekāṃgānivedārinavakṛtamitāḥ) [śalya-parva...](śalyaparvaṇyathogobāṇāḥ) [ravākṣi...](ravākṣidvirāmā) [athagaja...](athagajaśaśinaḥ) [sauptika...](sauptikebhrādrināgāḥ)
 
 ## mukta-m0-p158-v3945
-[ravi](ravā) [cloud](abhrā) [cloud](abhrā) [eight](aṣṭā) [ashvamedha](aśvamedhe) [surabhi](surabhunakha) [surā](surā) [ashrama](āśramā) [vāsa](vāsaparvaṇi)
+[ravābhrā...](ravābhrābhrāṣṭāśvamedhesurabhunakhasurā) [āśrama...](āśramāvāsaparvaṇyakṣyabdhyākhyāḥ) [ṣaḍabhrā...](ṣaḍabhrākṣaśaśadharamitāmausaleṣṭaukhavedāḥ)
 
 ## mukta-m0-p158-v3946
-[thousand](sahasraṃ) [of-years](aṃ) [held](sadaladhṛti) [of-hari](harer) [vaṃśa](vaṃśa) [thus](itthaṃ) [verses](ślokāḥ)
+[thousand](sahasraṃ) [sadaladhṛti-thousand](sadaladhṛtisahasraṃ) [Hari-lineage](harervaṃśa) [thus](itthaṃ) [verses](ślokāḥ) [Śrī-Kṛṣṇa...](śrīkṛṣṇabhūmībhṛdidamagaṇayadbhāratādhyāyapadmam)
 
 ## mukta-m0-p158-v3947
-[six](ṣaṇṇaṃ) [dajvalana](dajvalanās) [third](tṛtīya) [analagni](analāgnī) [twenty-five](paṃcaviṃśan) [manu](manu) [fourth](tūrye) [kujvalana](kujvalanāḥ)
+[six...](ṣaṇṇaṃdajvalanāstṛtīya) [analāgni...](analāgnīpaṃcaviṃśanmanustūryekujvalanāḥ) [khaṣaṭka...](khaṣaṭkajaladhikṣmāpaṃcame-ṣaḍvayam)
 
 ## mukta-m0-p158-v3948
-[counted](saṃkhyātāḥ) [and](ca) [tathā](tathā) [eighth](aṣṭame) [ocean](jaladhinetre) [nanda](naṃda) [fire](vahni) [prajesha](prajeśās)
+[counted](saṃkhyātāśca) [thus](tathā) [eighth](aṣṭame) [jaladhinetre...](jaladhinetrenaṃdavahniprajeśāskaṃdhenavame) [jināvidhi...](jināvidhimunisraṣṭṛprasaṃkhyāḥ) [in-order](kramāt)
 
 ## mukta-m0-p158-v3949
-[skandha](skaṃdhe) [last](cāṃtyama) [ketraya](ketraya) [thirteen](trayodaśamitāḥ) [adhyaya-counts](adhyāyasaṃkhyās) [thus](tathā)
+[skandha](skaṃdhe) [last](cāṃtyam) [thirteen](aketrayodaśamitāś) [chapter-counts](cādhyāyasaṃkhyāstathā) [verses](ślokāś) [candra-muni...](caṃdramunīśabāṇagaṇitāḥ) [skandhas](skaṃdhāḥ) [paraṃdvāhaśa](paraṃdvāhaśa)
 
 ## mukta-m0-p158-v3950
-[verses](ślokās) [tu](tvaṃ) [ambara](ambara) [bana](bāṇāsi) [arms](bāhavaś) [ca](ca) [proclaimed](prakīrtitāḥ)
+[verses](ślokāstvaṃ) [ambara-bāṇa...](barabāṇāsi) [arms](bāhavaśca) [proclaimed](prakīrtitāḥ)

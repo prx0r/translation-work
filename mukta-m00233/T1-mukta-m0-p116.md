@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p116-v2876
-[bindu-having](bindvantastatpūrvo'ntyasvarānvitaḥ) [that-previous](bindvantastatpūrvo'ntyasvarānvitaḥ) [final-vowel](bindvantastatpūrvo'ntyasvarānvitaḥ) [endowed](bindvantastatpūrvo'ntyasvarānvitaḥ)
+[bindu-ending](bindvantas) [that-previous](tatpūrvo) [final-vowel-accompanied](ntyasvarānvitaḥ)
 
 ## mukta-m0-p116-v2877
-[wind-friend](marutsakhapriyānto'yaṃ) [dear-end](marutsakhapriyānto'yaṃ) [this](marutsakhapriyānto'yaṃ) [world-ocean](jagatyarṇo) [indeed](hi) [speech-manu](vāṅmanuḥ)
+[marut-friend-dear-ending](marutsakhapriyānto) [this](yaṃ) [world-ocean](jagatyarṇo) [indeed](hi) [speech-manu](vāṅmanuḥ)
 
 ## mukta-m0-p116-v2878
-[with-fire](sāgnirnādastu) [sound-indeed](sāgnirnādastu) [star-beginning](tārādirdīrghairyuktaḥ) [long-with](tārādirdīrghairyuktaḥ) [gradually](kramāt) [vowels](svaraiḥ)
+[with-fire](sāgnir) [nāda](nādastu) [tāra-beginning](tārādir) [with-long-vowels](dīrghairyuktaḥ) [in-order](kramāt) [with-vowels](svaraiḥ)
 
 ## mukta-m0-p116-v2879
-[ancient-word](purāṇapadasaṃyuktaiḥ) [joined](purāṇapadasaṃyuktaiḥ) [six](ṣaḍbhirmantrapadaiḥ) [mantra-words](ṣaḍbhirmantrapadaiḥ) [gradually](kramāt)
+[with-ancient-word-joined](purāṇapadasaṃyuktaiḥ) [by-six](ṣaḍbhir) [mantra-words](mantrapadaiḥ) [in-order](kramāt)
 
 ## mukta-m0-p116-v2880
-[fourth-ending](caturthyantā) [vidmahe-word](vidmahepadasaṃyutā) [joined](vidmahepadasaṃyutā)
+[dative-ending](caturthyantā) [vidmahe-word-joined](vidmahepadasaṃyutā)
 
 ## mukta-m0-p116-v2881
-[thus](preti) [impel](codayāditi) [joined](yojitā)
+[forth-goes](preti) [impels](codayād) [thus](iti) [joined](yojitā)
 
 ## mukta-m0-p116-v2882
-[declared](proktastrīmānataḥ) [three-measure](proktastrīmānataḥ) [from-that](proktastrīmānataḥ) [made](kṛtā)
+[declared](proktastrī) [measure](mānataḥ) [done](kṛtā)
 
 ## mukta-m0-p116-v2883
-[writing-instrument](lekhanīṃ) [left](vāme) [pitcher](kalaśaṃ) [also](cāpi) [bearing](bibhratī)
+[pen](lekhanīṃ) [left](vāme) [pitcher](kalaśaṃ) [and](cāpi) [bearing](bibhratī)
 
 ## mukta-m0-p116-v2884
-[conch-moon-white](śaṅkhakundendudhavalā) [with-matted-hair-moon-crest](sakapardenduśekharā)
+[conch-kunda-moon-white](śaṅkhakundendudhavalā) [with-matted-hair-moon-crested](sakapardenduśekharā)
 
 ## mukta-m0-p116-v2885
-[garland-necklace-shining](hārihārollasattuṅgapīvarastanamaṇḍalā)
+[garland-necklace-shining-high-full-breast-orb](hārihārollasattuṅgapīvarastanamaṇḍalā)
 
 ## mukta-m0-p116-v2886
-[seated](sū)paviṣṭā) [new-youth-adorned](navayauvanamaṇḍitā)
+[well-seated](sū)paviṣṭā) [new-youth-adorned](navayauvanamaṇḍitā)
 
 ## mukta-m0-p116-v2887
-[right-gate](dakṣiṇadvāre) [placed](sthāpyā) [should-be](syād) [right-facing](dakṣiṇāmukhī)
+[right-door](dakṣiṇadvāre) [to-be-placed](sthāpyā) [may-be](syād) [right-facing](dakṣiṇāmukhī)
 
 ## mukta-m0-p116-v2888
-[purnabhadra](pūrṇabhadraścāpyānando) [and-ananda](pūrṇabhadraścāpyānando) [nandana](nandanastathā) [also](nandanastathā)
+[full-bhadra](pūrṇabhadraś) [and](cāpy) [ānanda](ānando) [nandana](nandanastathā)
 
 ## mukta-m0-p116-v2889
-[east-indra](prācyāmaindraśca) [vajra-marked](vajrāṅko) [south-staff-marked](yāmyo) [indeed](daṇḍāṅka) [also](eva) [ca](ca)
+[east](prācyām) [indra](aindraś) [and](ca) [vajra-marked](vajrāṅko) [south](yāmyo) [staff-marked](daṇḍāṅka) [indeed](eva) [and](ca)
 
 ## mukta-m0-p116-v2890
-[wisdom](prajñā) [radiance](prabhā) [knowledge](vidyā) [intellect](dhīḥ) [steadiness](dhṛtiḥ) [memory](smṛtiḥ) [intellects](buddhayaḥ)
+[wisdom](prajñā) [radiance](prabhā) [knowledge](vidyā) [intellect](dhīr) [steadiness](dhṛti) [memory](smṛti) [intelligences](buddhayaḥ)
 
 ## mukta-m0-p116-v2891
-[middle-pillars](madhyastambheṣu) [four](catvāro'pyāgneyādiṣvṛgādayaḥ) [fire-etc](catvāro'pyāgneyādiṣvṛgādayaḥ) [rig-etc](catvāro'pyāgneyādiṣvṛgādayaḥ)
+[middle-pillars](madhyastambheṣu) [four](catvāro) [also](py) [from-āgneya-etc](āgneyādiṣv) [ṛg-etc](ṛgādayaḥ)
 
 ## mukta-m0-p116-v2892
-[sutra-recitation](sūtrapāṭho) [mimamsa](mīmāṃsā) [nyaya-expansion](nyāyavistaraḥ)
+[sūtra-recitation](sūtrapāṭho) [mīmāṃsā](mīmāṃsā) [nyāya-exposition](nyāyavistaraḥ)
 
 ## mukta-m0-p116-v2893
-[knowledge-formed](vidyātmakaṃ) [canopy](vitānaṃ) [should-be](syāt) [place](sthalaṃ) [earth](tu) [itself](pṛthivī) [svayam](svayam)
+[knowledge-natured](vidyātmakaṃ) [canopy](vitānaṃ) [may-be](syāt) [place](sthalaṃ) [but](tu) [earth](pṛthivī) [itself](svayam)
 
 ## mukta-m0-p116-v2894
-[swan-going](haṃsagā) [speech](vāṇī) [that-weapon](tadastraṃ) [sarasvatī-above](sārasopari)
+[swan-going](haṃsagā) [speech](vāṇī) [that-weapon](tadastraṃ) [on-sārasa](sārasopari)
 
 ## mukta-m0-p116-v2895
-[adorned](bhūṣitaṃ) [left](vāme) [boon-book-noose-holding](varapustakapāśadhṛk)
+[adorned](bhūṣitaṃ) [left](vāme) [boon-book-noose-holder](varapustakapāśadhṛk)
 
 ## mukta-m0-p116-v2896
-[holding](dadhat) [eastward](prāgvannavasu) [nine](navasu) [kundas](kuṇḍeṣu) [fire](vahniṃ) [middle-etc](madhyādibhājitam)
+[bearing](dadhat) [as-before](prāgvannavasu) [in-nine](navasu) [kuṇḍas](kuṇḍeṣu) [fire](vahniṃ) [middle-etc-divided](madhyādibhājitam)
 
 ## mukta-m0-p116-v2897
-[yoga-etc-forms](yogādimūrtibhirdikṣu) [directions](yogādimūrtibhirdikṣu) [offer](juhuyurmūrtidhārakāḥ) [form-bearers](juhuyurmūrtidhārakāḥ)
+[yoga-beginning-forms](yogādimūrtibhir) [in-directions](dikṣu) [let-them-offer](juhuyurmūrti) [form-holders](dhārakāḥ)
 
 ## mukta-m0-p116-v2898
-[samid-ghee-caru](samidājyacarūṁllājān) [parched-rice](samidājyacarūṁllājān) [rice](vrīhisiddhārthasarṣapān) [mustard](vrīhisiddhārthasarṣapān) [sesame](vrīhisiddhārthasarṣapān)
+[samid-ājya-caru](samidājyacarūṁ) [parched-grain](llājān) [rice-siddhārtha-mustard](vrīhisiddhārthasarṣapān)
 
 ## mukta-m0-p116-v2899
-[eastward](prāgvadākāraśuddhiṃ) [purification](prāgvadākāraśuddhiṃ) [and](ca) [eye-release](kuryāccākṣivimokṣaṇam)
+[as-before](prāgvadā) [form-purity](kāraśuddhiṃ) [and](ca) [let-do](kuryāccā) [eye-release](kṣivimokṣaṇam)
 
 ## mukta-m0-p116-v2900
-[sarasvati](sarasvatyā) [knowledge-pot-eight](vidyākumbhāṣṭake) [worship](yajet)
+[of-sarasvatī](sarasvatyā) [knowledge-pot-eight](vidyākumbhāṣṭake) [let-worship](yajet)

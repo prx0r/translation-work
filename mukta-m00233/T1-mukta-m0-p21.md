@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p21-v501
-[boundary](maryādā) [great+boundary](mahāmaryādakaṃ) [then](tataḥ)
+[boundary](maryādā) [great-boundary](mahāmaryādakaṃ) [then](tataḥ)
 
 ## mukta-m0-p21-v502
-[arrow](śara) [sage](ṛṣi) [great](bṛhatī) [rudra](rudra) [hand](hastaṃ) [in+order](yathākramāt)
+[arrow+sage+great+rudra+hand](śararṣibṛhatīrudrahastaṃ) [in-order](yathākramāt)
 
 ## mukta-m0-p21-v503
-[root](mūla) [half](ardhaṃ) [first](prathamaṃ) [then](tvatha) [by+sages](carṣibhiḥ)
+[root-half](mūlārdhaṃ) [first](prathamaṃ) [but+then](tvatha) [by-sages](carṣibhiḥ)
 
 ## mukta-m0-p21-v504
-[should+be](syād) [pillar](viṣkambhaḥ) [with+half+hand](sārdhahastavān)
+[should-be](syād) [diameter](viṣkambhaḥ) [with-half-cubit](sārdhahastavān)
 
 ## mukta-m0-p21-v505
-[that+that+pillar+measure](tattadviṣkambhamānāt) [tu](tu) [threefold](triguṇaṃ) [or](vā) [fourfold](caturguṇam)
+[from-each-diameter-measure](tattadviṣkambhamānāt) [but](tu) [three-fold](triguṇaṃ) [or](vā) [four-fold](caturguṇam)
 
 ## mukta-m0-p21-v506
-[small+little+wall+pillar](kṣudrālpabhittiviṣkambhaṃ) [from+hand](hastādārabhya) [as+before](pūrvavat)
+[small-wall-diameter](kṣudrālpabhittiviṣkambhaṃ) [starting-from-cubit](hastādārabhya) [as-before](pūrvavat)
 
 ## mukta-m0-p21-v507
-[with+upper+door+umbrella+head](sottarāvājanacchatraśīrṣavatyaśca) [walls](bhittayaḥ)
+[with-upper-...](sottarāvājanacchatraśīrṣavatyaśca) [walls](bhittayaḥ)
 
 ## mukta-m0-p21-v508
-[should+make](kuryāt) [around](parito) [bull+line](vṛṣabhāvalim)
+[k, kh: rāṃ]([k, kh: rāṃ]) [should-make](kuryāt) [around](parito) [bull-line](vṛṣabhāvalim)
 
 ## mukta-m0-p21-v509
-[less+six+measure](hīnaṣaṇmātraṃ) [antechamber](pratisālaṃ) [and](ca) [that+order](tatkramāt)
+[less-six-units](hīnaṣaṇmātraṃ) [per-hall](pratisālaṃ) [and](ca) [in-that-order](tatkramāt)
 
 ## mukta-m0-p21-v510
-[great+boundary+wall+end](mahāmaryādabhittyantamevaṃ) [or](vā) [thus+also](hāpyamathāpi) [or](vā)
+[great-boundary-wall-end](mahāmaryādabhittyantamevaṃ) [or](hāpyamathāpi) [or](vā)
 
 ## mukta-m0-p21-v511
-[that+four+measure](taccaturmātrairyāvat) [up+to+five+inner+hall](pañcāntasālakam)
+[by-that-four-units](taccaturmātrairyāvat) [five-inner-hall](pañcāntasālakam)
 
 ## mukta-m0-p21-v512
-[tu](tu) [at+yama+side](yamopānte) [elephant+face](gajavaktrasya) [southwest](nair-ṛte)
+[but](tu) [near-yama](yamopānte) [of-elephant-faced](gajavaktrasya) [in-southwest](nair-ṛte)
 
 ## mukta-m0-p21-v513
-[northwest](vāyavyāmathavaiśānyāmumādurgālayaḥ) [or](athavā) [northeast](vaiśānyām) [umā+durgā+shrine](umādurgālayaḥ) [remembered](smṛtaḥ)
+[in-northwest](vāyavyāmathavaiśānyāmumādurgālayaḥ) [remembered](smṛtaḥ)
 
 ## mukta-m0-p21-v514
-[element](dhātuḥ) [should+be](syānnṛttasyaiśe'thavā) [dance](nṛttasya) [northeast](aiśe) [or](athavā) [front](puraḥ)
+[metal](dhātuḥ) [should-be](syānnṛttasyaiśe'thavā) [in-front](puraḥ)
 
 ## mukta-m0-p21-v515
-[bathing+water+house](snapanāmbugṛhaṃ) [remembered](smṛtam)
+[bathing-water-house](snapanāmbugṛhaṃ) [remembered](smṛtam)
 
 ## mukta-m0-p21-v516
-[in+water+middle](rakṣombumadhye) [weapons](śastrāṇāṃ) [cow+shed](gośālā) [west](varuṇe) [outside](bahiḥ)
+[in-middle-of-protective-water](rakṣombumadhye) [of-weapons](śastrāṇāṃ) [cow-shed](gośālā) [in-west](varuṇe) [outside](bahiḥ)
 
 ## mukta-m0-p21-v517
-[knowledge+seat](vidyāpīṭhaṃ) [should+be](bhavenmukhye) [northwest](parjanye) [field+lord](kṣetrapasya) [tu](tu)
+[seat-of-learning](vidyāpīṭhaṃ) [should-be](bhavenmukhye) [in-north](parjanye) [of-field](kṣetrapasya) [but](tu)
 
 ## mukta-m0-p21-v518
-[world+lords](lokeśānāṃ) [own+directions](svadikṣveva) [ca](ca) [between+indra+agni](indrāgnyormadhyato'śvinoḥ) [aśvins](aśvinoḥ)
+[of-world-lords](lokeśānāṃ) [in-own-directions](svadikṣveva) [and](cendrāgnyormadhyato'śvinoḥ)
 
 ## mukta-m0-p21-v519
-[teacher](śāstuśca) [and](ca) [rakṣas+direction](rakṣodigbhāge) [bhadrakālī](bhadrakālyāstathā) [also](tathā) [outside](bahiḥ)
+[of-teacher](śāstuśca) [in-demon-direction](rakṣodigbhāge) [of-bhadrakālī](bhadrakālyāstathā) [outside](bahiḥ)
 
 ## mukta-m0-p21-v520
-[of+things](vastūnāmambumarutormunināṃ) [water+wind](ambumarutor) [sages](munināṃ) [wind+moon](vāyusomayoḥ)
+[of-things](vastūnāmambumarutormunināṃ) [of-vāyu-and-soma](vāyusomayoḥ)
 
 ## mukta-m0-p21-v521
-[attendant+vimānas](parivāravimānānāṃ) [measure](mānaṃ) [garbha+half+measure](garbhārdhamānataḥ)
+[of-attendant-shrines](parivāravimānānāṃ) [measure](mānaṃ) [from-half-garbha-measure](garbhārdhamānataḥ)
 
 ## mukta-m0-p21-v522
-[rampart](vapraṃ) [should+be](syāt) [attendant+eight](parivārāṣṭakaṃ) [thus](tathā)
+[rampart](vapraṃ) [should-be](syāt) [eight-attendants](parivārāṣṭakaṃ) [likewise](tathā)
 
 ## mukta-m0-p21-v523
-[caṇḍeśvara](caṇḍeśvaraścāṣṭau) [and](ca) [eight](aṣṭau) [attendants](parivārāḥ) [declared](prakīrtitāḥ)
+[caṇḍeśvara](caṇḍeśvaraścāṣṭau) [attendants](parivārāḥ) [declared](prakīrtitāḥ)
 
 ## mukta-m0-p21-v524
-[middle](madhyame) [abode](dhāmni) [twelve](dvādaśaite) [these](ete) [indeed](bhavanti) [hi](hi)
+[in-middle](madhyame) [in-shrine](dhāmni) [twelve](dvādaśaite) [become](bhavanti) [indeed](hi)
 
 ## mukta-m0-p21-v525
-[attendants](parivārāḥ) [should+be](syurmadhyame) [middle](madhyame) [abode](dhāmni) [sixteen](ṣoḍaśa)
+[attendants](parivārāḥ) [should-be](syurmadhyame) [in-shrine](dhāmni) [sixteen](ṣoḍaśa)

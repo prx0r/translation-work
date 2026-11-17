@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p80-v1976
-[karma-worker](karmakarān) [ca-and](ca) [anya-other](anyān) [dīna-poor](dīnān) [ānātha-lordless](ānāthāṃs) [tathā-thus](tathā) [arthin-seeker](arthinaḥ)
+[workers](karmakarāṃś) [and](ca) [others](anyān) [poor](dīnān) [helpless](anāthān) [and](tathā) [seekers](arthinaḥ)
 
 ## mukta-m0-p80-v1977
-[samārabhya-beginning](samārabhya) [snapana-bathing](snapana) [anta-end](anta) [dineṣu-days](dineṣu) [api-also](api)
+[beginning](samārabhya) [bathing-end-days](snapana-anta-dineṣu) [also](api)
 
 ## mukta-m0-p80-v1978
-[pradadyāt-give](pradadyād) [anna-food](anna) [pāna-drink](pāna) [ādi-etc](ādi) [su-vyañjana-good-condiment](suvyañjana) [rasa-taste](rasa) [uttara-best](uttaram)
+[give](pradadyāt) [food-drink-etc](anna-pāna-ādi) [with-excellent-condiment-taste-superior](su-vyañjana-rasa-uttaram)
 
 ## mukta-m0-p80-v1979
-[sarve-all](sarve) [bhavanti-become](bhavanti) [gaṇa-group](gaṇa) [nāyakāḥ-leaders](nāyakāḥ)
+[all](sarve) [become](bhavanti) [group-leaders](gaṇa-nāyakāḥ)
 
 ## mukta-m0-p80-v1980
-[śaila-mountain](śaila) [adhirāja-king](adhirāja) [sutayā-daughter](sutayā) [sahita-with](sahitaḥ) [gaṇa-group](gaṇa) [indraiḥ-lords](indraiḥ)
+[mountain-king-daughter](śaila-adhi-rāja-sutayā) [accompanied](sahitaḥ) [group-lords](gaṇa-indraiḥ)
 
 ## mukta-m0-p80-v1981
-[ca-and](ca) [trīṇi-three](trīṇi) [śreṣṭhaṃ-best](śreṣṭhaṃ) [ca-and](ca) [snapana-bathing](snapana) [trayam-triad](trayam)
+[and](ca) [three](trīṇi) [best](śreṣṭham) [and](ca) [bathing-triad](snapana-trayam)
 
 ## mukta-m0-p80-v1982
-[ekāśītyā-eighty-one](ekāśītyā) [aṣṭa-eight](aṣṭa) [yuktena-joined](yuktena) [śatena-hundred](śatena) [dviśatena-two-hundred](dviśatena) [ca-and](ca)
+[eighty-one-eight-joined](ekāśītyā-aṣṭa-yuktena) [hundred](śatena) [two-hundred](dvi-śatena) [and](ca)
 
 ## mukta-m0-p80-v1983
-[śataiḥ-hundreds](śataiḥ) [tathā-thus](tathā) [eva-only](eva) [iṣu-arrow](iṣu) [śataiḥ-hundreds](śataiḥ) [saptaśataiḥ-seven-hundreds](saptaśataiḥ) [api-also](api)
+[hundreds](śataiḥ) [and-so-arrow-hundreds](tathā-iṣu-śataiḥ) [seven-hundreds](sapta-śataiḥ) [also](api)
 
 ## mukta-m0-p80-v1984
-[aṣṭottara-eight-plus](aṣṭottara) [sahasraiḥ-thousands](sahasraiḥ) [vā-or](vā) [sahasra-thousand](sahasra) [kalaśaiḥ-pots](kalaśaiḥ) [tataḥ-then](tataḥ)
+[eight-plus-thousand](aṣṭa-uttara-sahasraiḥ) [or](vā) [thousand-pots](sahasra-kalaśaiḥ) [then](tataḥ)
 
 ## mukta-m0-p80-v1985
-[aṣṭottara-eight-plus](aṣṭottara) [śatādīnāṃ-hundreds-etc](śatādīnāṃ) [paraḥ-beyond](paraḥ)
+[eight-plus-hundred-beginning](aṣṭa-uttara-śata-ādīnām) [etc](*) [beyond](paraḥ)
 
 ## mukta-m0-p80-v1986
-[kalaśaiḥ-pots](kalaśaiḥ) [navabhiḥ-nine](navabhiḥ) [pūrvam-first](pūrvam) [alpa-small](alpa) [ākhyaṃ-named](ākhyaṃ) [snapanaṃ-bathing](snapanaṃ) [smṛtam-remembered](smṛtam)
+[pots-nine](kalaśaiḥ-navabhiḥ) [first](pūrvam) [small-named](alpa-ākhyam) [bathing](snapanaṃ) [remembered](smṛtam)
 
 ## mukta-m0-p80-v1987
-[aṣṭottara-eight-plus](aṣṭottara) [śatādyaiḥ-hundreds-etc](śatādyaiḥ) [tu-but](tu)
+[eight-plus-hundred-beginning](aṣṭa-uttara-śata-ādyaiḥ) [but](tu) [etc](*) [etc](*) [etc](*) [etc](*) [etc](*) [etc](*) [etc](*) [etc](*)
 
 ## mukta-m0-p80-v1988
-[maṇḍapāt-pavilion](maṇḍapāt) [pṛthak-separate](pṛthak) [eva-only](eva) [hi-indeed](hi)
+[pavilion](maṇḍapāt) [separate-indeed](pṛthak-eva) [indeed](hi)
 
 ## mukta-m0-p80-v1989
-[atiśakarikā-atiśakari](atiśakarikā) [tyaṣṭikaraiḥ-tyaṣṭikara](tyaṣṭikaraiḥ) [atidhṛti-atidhṛti](atidhṛti) [ermitaiḥ-mita](ermitaiḥ)
+[atiśakarikā-ati-aṣṭi-karaiḥ](atiśakarikā-ati-aṣṭi-karaiḥ) [ati-dhṛti-measured](ati-dhṛti-mitaiḥ)
 
 ## mukta-m0-p80-v1990
-[sahasra-thousand](sahasra) [kalaśasya-pot](kalaśasya) [atha-then](atha) [mādhamāḥ-middle](mādhamāḥ)
+[thousand-pot](sahasra-kalaśasya) [then](atha) [etc](*) [etc](*) [etc](*) [etc](*) [middle](mādhamāḥ)
 
 ## mukta-m0-p80-v1991
-[tu-but](tu) [hastānāṃ-hands](hastānāṃ) [trayastriṃśadbhiḥ-thirty-three](trayastriṃśadbhiḥ) [uttamaḥ-best](uttamaḥ)
+[but](tu) [hands](hastānām) [thirty-three](traya-striṃśadbhiḥ) [best](uttamaḥ)
 
 ## mukta-m0-p80-v1992
-[syuḥ-be](syuḥ) [susamāḥ-well-equal](susamāḥ) [sarve-all](sarve) [api-also](api) [ekajāti-one-class](ekajāti) [taru-tree](taru) [udbhavāḥ-born](udbhavāḥ)
+[be](syuḥ) [well-equal](su-samāḥ) [all](sarve) [even](api) [one-class-tree-born](eka-jāti-taru-udbhavāḥ)
 
 ## mukta-m0-p80-v1993
-[rudra-rudra](rudra) [atiśakvarī-atiśakvarī](atiśakvarī) [saṃkhyaiḥ-numbers](saṃkhyaiḥ) [ca-and](ca) [atiśakvarikā-atiśakvarikā](atiśakvarikā) [mitaiḥ-measured](mitaiḥ)
+[rudra-ati-jagatī-count](rudra-ati-jagatī-saṃkhyaiḥ) [and](ca) [atiśakvarikā-measured](atiśakvarikā-mitaiḥ)
 
 ## mukta-m0-p80-v1994
-[tan-nāha-that-nāha](tannāha) [arka-sun](arka) [aṅgulaiḥ-fingers](aṅgulaiḥ) [alpe-small](alpe) [tataḥ-then](tataḥ) [dvitri-dvi-tri](dvitri) [catur-four](catur) [guṇaiḥ-times](guṇaiḥ)
+[that-nāha](tan-nāhaḥ) [sun-fingers](arka-aṅgulaiḥ) [small](alpe) [then](tato) [two-three-four-fold](dvi-tri-catur-guṇaiḥ)
 
 ## mukta-m0-p80-v1995
-[lupā-lupa](lupā) [vaṃśa-bamboo](vaṃśa) [anuvaṃśa-descendant](anuvaṃśa) [ādya-beginning](ādya) [ūrdhva-upward](ūrdhva) [pracchādanaṃ-covering](pracchādanaṃ) [tathā-thus](tathā)
+[lupa-bamboo-sub-bamboo-etc](lupa-vaṃśa-anuvaṃśa-ādya) [upper-covering](ūrdhva-pracchādanam) [and](tathā)
 
 ## mukta-m0-p80-v1996
-[vidheyaṃ-to-be-done](vidheyaṃ) [syād-be](syād) [yathāyukti-as-fitting](yathāyukti) [upapattitaḥ-according](upapattitaḥ)
+[to-be-done](vidheyam) [be](syāt) [according-to-reason-occurrence](yathā-yukti-upapattitaḥ)
 
 ## mukta-m0-p80-v1997
-[sarve-all](sarve) [kartavyā-to-be-done](kartavyā) [maṇḍapāḥ-pavilions](maṇḍapāḥ) [kramāt-in-order](kramāt)
+[all](sarve) [to-be-made](kartavyāḥ) [pavilions](maṇḍapāḥ) [in-order](kramāt)
 
 ## mukta-m0-p80-v1998
-[iṣṭakā-brick](iṣṭakā) [dāru-wood](dāru) [mṛtsnābhiḥ-clay](mṛtsnābhiḥ) [paritaḥ-around](paritaḥ) [baddha-bound](baddha) [kuṭṭimam-floor](kuṭṭimam)
+[brick-wood-clay](iṣṭakā-dāru-mṛtsnābhiḥ) [around](paritas) [bound-floor](baddha-kuṭṭimam)
 
 ## mukta-m0-p80-v1999
-[vācayitvā-recite](vācayitvā) [tu-but](tu) [vāstu-vāstu](vāstu) [homaṃ-homa](homaṃ) [ca-and](ca) [kārayet-cause](kārayet)
+[having-recited](vācayitvā) [but](tu) [site-sacrifice](vāstu-homam) [and](ca) [cause](kārayet)
 
 ## mukta-m0-p80-v2000
-[tadardhaṃ-half](tadardhaṃ) [vā-or](vā) [tataḥ-then](tataḥ) [ardhaṃ-half](ardhaṃ) [vā-or](vā) [yathāvidhi-according-to-rule](yathāvidhi)
+[half-of-that](tat-ardham) [or](vā) [then-half](tataḥ-ardham) [or](vā) [according-to-rule](yathā-vidhi)
