@@ -3,75 +3,51 @@
 
 ## mukta-m0-p153-v3801
 [golden](kāñcana)+[both](ubha)+[body](tanuḥ) [direction](kāṣṭhā) [leprosy](kuṣṭha)+[disease](roga)+[destroying](vināśinī)
-
 ## mukta-m0-p153-v3802
-[skin](carma)+[garment](ambarā) [cruel](krūra)+[nail](nakhā) [cakora](cakora)+[eye](akṣī) [four](catur)+[arm](bhujā)
-
+[skin-garmented](carmāmbarā) [cruel-nailed](krūranakhā) [cakora-eyed](cakorākṣī) [four-armed](caturbhujā)
 ## mukta-m0-p153-v3803
-[cosmic-egg](brahmāṇḍa)+[moving](cāriṇī) [manifestation](sphūrtiḥ)+[brahmāṇī](brahmāṇī) [brahma](brahma)+[honored](saṃmatā)
-
+[universe-roaming](brahmāṇḍacāriṇī) [manifestation-Brahmāṇī](sphūrtirbrahmāṇī) [Brahma-approved](brahmasaṃmatā)
 ## mukta-m0-p153-v3804
-[kalpa](kalpa)+[creeper](vallī) [lean](kṛṣa)+[limbed](aṅgī) [and](ca) [kalpa](kalpa)+[tree](pādapa)+[dwelling](vāsinī)
-
+[wish-tree-creeper](kalpavallī) [thin-limbed](kṛṣāṅgī) [and](ca) [wish-tree-dwelling](kalpapādapavāsinī)
 ## mukta-m0-p153-v3805
-[prosperity](bhūti)+[queen](rājñī) [universe](viśva)+[queen](rājñī) [world](loka)+[queen](rājñī) [śiva](śiva)+[refuge](āśrayā)
-
+[prosperity-queen](bhūtirājñī) [universe-queen](viśvarājñī) [world-queen](lokarājñī) [Shiva-refuge](śivāśrayā)
 ## mukta-m0-p153-v3806
-[serpent](nāga)+[queen](rājñī) [lineage](vaṃśa)+[queen](rājñī) [hero](vīra)+[queen](rājñī) [dust](rajaḥ)+[loving](priyā)
-
+[serpent-queen](nāgarājñī) [lineage-queen](vaṃśarājñī) [hero-queen](vīrarājñī) [dust-loving](rajaḥpriyā)
 ## mukta-m0-p153-v3807
-[wealth](vasu)+[queen](rājñī) [truth](satya)+[queen](rājñī) [austerity](tapa)+[queen](rājñī) [japa](japa)+[loving](priyā)
-
+[wealth-queen](vasurājñī) [truth-queen](satyarājñī) [austerity-queen](taporājñī) [mantra-loving](japapriyā)
 ## mukta-m0-p153-v3808
-[compassion](dayā)+[making](karā)
-
+[compassion](dayā)+[maker](karā)
 ## mukta-m0-p153-v3809
-[earth](pṛthvī)+[queen](rājñī) [water](payo)+[queen](rājñī) [wind](vāyu)+[queen](rājñī) [intoxicated](madā)+[sluggish](alasā)
-
+[earth-queen](pṛthvīrājñī) [water-queen](payorājñī) [wind-queen](vāyurājñī) [delicate](madālasā)
 ## mukta-m0-p153-v3810
-[true](tathya)+[queen](rājñī) [victory](jayā)+[queen](rājñī) [great](mahā)+[queen](rājñī) [family](kulā)+[form](kṛtiḥ)
-
+[truth-queen](tathyarājñī) [victory-queen](jayārājñī) [great-queen](mahārājñī) [clan-formed](kulākṛtiḥ)
 ## mukta-m0-p153-v3811
-[supreme](parā)+[queen](rājñī) [yakṣa](yakṣa)+[queen](rājñī) [being](bhūta)+[queen](rājñī) [śiva](śiva)+[seat](āsanā)
-
+[supreme-queen](parārājñī) [yaksha-queen](yakṣarājñī) [being-queen](bhūtarājñī) [Shiva-seated](śivāsanā)
 ## mukta-m0-p153-v3812
-[sky](ākāśa)+[queen](rājñī) [king](rāja)+[mistress](īśī) [king](rāja)+[queen](rājñī) [love](rati)+[loving](priyā)
-
+[sky-queen](ākāśarājñī) [king-lady](rājeśī) [king-of-kings](rājarājñī) [love-pleasing](ratipriyā)
 ## mukta-m0-p153-v3813
-[accomplished](siddha)+[queen](rājñī) [splendor](vibhā)+[queen](rājñī) [radiance](teja)+[queen](rājñī) [shining](vibhā)+[mayī](mayī)
-
+[siddha-queen](siddharājñī) [splendor-queen](vibhārājñī) [radiance-queen](tejorājñī) [shining](vibhāmayī)
 ## mukta-m0-p153-v3814
-[planet](graha)+[queen](rājñī) [creeper](latā)+[queen](rājñī) [tree](vṛkṣa)+[queen](rājñī) [mind](mati)+[giving](pradā)
-
+[planet-queen](graharājñī) [creeper-queen](latārājñī) [tree-queen](vṛkṣarājñī) [intelligence-giving](matipradā)
 ## mukta-m0-p153-v3815
-[sage](muni)+[queen](rājñī) [jewel](ratna)+[queen](rājñī) [age](yuga)+[queen](rājñī) [gem](maṇi)+[splendor](prabhā)
-
+[sage-queen](munirājñī) [jewel-queen](ratnarājñī) [age-queen](yugarājñī) [gem-radiance](maṇiprabhā)
 ## mukta-m0-p153-v3816
-[drop](bindu)+[queen](rājñī) [sound](nāda)+[queen](rājñī) [self](ātma)+[queen](rājñī) [and](ca) [good](sat)+[path](gatiḥ)
-
+[drop-queen](bindurājñī) [sound-queen](nādarājñī) [self-queen](ātmarājñī) [and](ca) [good-course](sadgatiḥ)
 ## mukta-m0-p153-v3817
-[īśāna](īśāna)+[queen](rājñī) [king](rāja)+[mistress](īśī) [svāhā](svāhā)+[queen](rājñī) [greater](mahattarā)
-
+[Ishana-queen](īśānarājñī) [king-lady](rājeśī) [svaha-queen](svāhārājñī) [greater](mahattarā)
 ## mukta-m0-p153-v3818
-[world](jagat)+[queen](rājñī) [essence](tattva)+[queen](rājñī) [speech](vāg)+[queen](rājñī) [universe](viśva)+[formed](rūpiṇī)
-
+[world-queen](jagadrājñī) [principle-queen](tattvarājñī) [speech-queen](vāgrājñī) [universe-formed](viśvarūpiṇī)
 ## mukta-m0-p153-v3819
-[thus](iti)+[this](idaṃ) [mantra](mantra)+[essence](sarvasvaṃ) [queen](rājñī)+[name](nāma)+[thousand](sahasrakam)
-
+[thus](iti)+[this](idaṃ) [mantra-essence](mantrasarvasvaṃ) [queen-name-thousand](rājñīnāmasahasrakam)
 ## mukta-m0-p153-v3820
-[all](sarva)+[essence](tattva)+[made](mayaṃ) [holy](puṇyaṃ) [great](mahā)+[sin](pātaka)+[destroying](nāśanam)
-
+[all-principle-made](sarvatattvamayaṃ) [meritorious](puṇyaṃ) [great-sin-destroying](mahāpātakanāśanam)
 ## mukta-m0-p153-v3821
-[all](sarva)+[calamity](utpāta)+[pacifying](praśamanaṃ) [planet](graha)+[peace](śānti)+[making](karaṃ) [supreme](param)
-
+[all-calamity-pacifying](sarvotpātapraśamanaṃ) [planet-peace-making](grahaśāntikaraṃ) [supreme](param)
 ## mukta-m0-p153-v3822
-[all](sarva)+[sorrow](duḥkha)+[flood](ogha)+[pacifying](śamanaṃ) [all](sarva)+[grief](śoka)+[destroying](vināśanam)
-
+[all-sorrow-flood-pacifying](sarvaduḥkhaughaśamanaṃ) [all-grief-destroying](sarvaśokavināśanam)
 ## mukta-m0-p153-v3823
-[from](dūrāt)+[indeed](eva) [flee](palāyante) [misfortune](vipadaḥ) [enemy](śatru)+[fearing](bhītayaḥ)
-
+[from-far](dūrādeva) [flee](palāyante) [calamities](vipadaḥ) [enemy-fears](śatrubhītayaḥ)
 ## mukta-m0-p153-v3824
-[from](paṭhanāt)+[scatter](vidravanti)+[quickly](āśu) [great-death](mahākāla)+[like](iva) [creatures](prajāḥ)
-
+[by-reading-flee-quickly](paṭhanādvidravantyāśu) [like-Mahakala](mahākālādiva) [people](prajāḥ)
 ## mukta-m0-p153-v3825
-[ganges](gaṅgā)+[bath](snāna)+[thousand](sahasrasya) [candrāyaṇa](cāndrāyaṇa)+[ten-thousand](ayutasya) [and](ca)
+[Ganga-bath-thousand](gaṅgāsnānasahasrasya) [Chandrayana-ten-thousand](cāndrāyaṇāyutasya) [and](ca)

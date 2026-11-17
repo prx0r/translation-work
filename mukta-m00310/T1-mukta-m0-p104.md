@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p104-v2576
-[tāpa-traya-harā](tāpatrayaharā) [tāpī](tāpī) [taila-āsaktā](tailāsaktā) [tila-uttamā](tilottamā)
+[remover-of-three-afflictions](tāpatrayaharā) [ascetic](tāpī) [oil-devoted](tailāsaktā) [sesame-excellent](tilottamā)
 
 ## mukta-m0-p104-v2577
-[dantinī](dantinī) [danturā](danturā) [dārvī](dārvī) [devakī](devakī) [deva-nāyikā](devanāyikā)
+[elephantine](dantinī) [tusked](danturā) [wooden](dārvī) [divine-mother](devakī) [divine-leader](devanāyikā)
 
 ## mukta-m0-p104-v2578
-[durvārā](durvārā) [durgati-drākṣī](durgatirdrākṣī) [drākṣā](drākṣā) [drāviḍa-vāsinī](drāviḍavāsinī)
+[irresistible](durvārā) [bad-gait](durgatirdrākṣī) [grape](drākṣā) [dravidian-dweller](drāviḍavāsinī)
 
 ## mukta-m0-p104-v2579
-[duḥkha-ghnī](duḥkhaghnī) [druta-gā](drutagā) [a-duṣṭā](aduṣṭā) [dayā](dayā) [dāmbhikya-nāśinī](dāmbhikyanāśinī)
+[pain-destroyer](duḥkhaghnī) [swift-going](drutagā'duṣṭā) [faultless](dayā) [pride-destroyer](dāmbhikyanāśinī)
 
 ## mukta-m0-p104-v2580
-[dhanuḥ-dharā](dhanurdharā) [dhanuḥ-vallī](dhanurvallī) [dhānuṣka-vara-dāyinī](dhānuṣkavaradāyinī)
+[bow-bearer](dhanurdharā) [bow-creeper](dhanurvallī) [archer-boon-giver](dhānuṣkavaradāyinī)
 
 ## mukta-m0-p104-v2581
-[nalinī](nalinī) [nartakī](nartakī) [na-antā](nāntā) [naṅgā](naṅgā) [nalina-locanā](nalinalocanā)
+[lotus](nalinī) [dancer](nartakī) [endless](nāntā) [naked](naṅgā) [lotus-eyed](nalinalocanā)
 
 ## mukta-m0-p104-v2582
-[nīla-grīvā](nīlagrīvā) [nir-īhā](nirīhā) [ca](ca) [nīpa-upavana-vāsinī](nīpopavanavāsinī)
+[blue-necked](nīlagrīvā) [desireless](nirīhā) [and](ca) [neem-grove-dweller](nīpopavanavāsinī)
 
 ## mukta-m0-p104-v2583
-[naṭinī](naṭinī) [nāṭya-niratā](nāṭyaniratā) [nava-nīta-priyā](navanītapriyā) [anilā](anilā)
+[actress](naṭinī) [dance-devoted](nāṭyaniratā) [butter-loving](navanītapriyā'nilā) [wind](nilā)
 
 ## mukta-m0-p104-v2584
-[padmāvatī](padmāvatī) [padma-karā](padmakarā) [putra-dā](putradā) [putra-vatsalā](putravatsalā)
+[lotus-possessing](padmāvatī) [lotus-handed](padmakarā) [son-giver](putradā) [son-loving](putravatsalā)
 
 ## mukta-m0-p104-v2585
-[puṣpiṇī](puṣpiṇī) [pustaka-karā](pustakakarā) [paṭuḥ](paṭuḥ) [pāṭhīna-vāhanā](pāṭhīnavāhanā)
+[flowering](puṣpiṇī) [book-handed](pustakakarā) [clever](paṭuḥ) [fish-vehicle](pāṭhīnavāhanā)
 
 ## mukta-m0-p104-v2586
-[piśācī](piśācī) [ca](ca) [piśāca-ghnī](piśācaghnī) [pāna-pātra-dharā](pānapātradharā) [puṭā](puṭā)
+[demoness](piśācī) [and](ca) [demon-slayer](piśācaghnī) [cup-bearer](pānapātradharā) [folded](puṭā)
 
 ## mukta-m0-p104-v2587
-[pañca-yajñā](pañcayajñā) [pañca-śarī](pañcaśarī) [pañcāśati-manu-priyā](pañcāśatimanupriyā)
+[five-sacrifice](pañcayajñā) [five-arrowed](pañcaśarī) [fifty-beloved](pañcāśatimanupriyā)
 
 ## mukta-m0-p104-v2588
-[phalinī](phalinī) [phala-dātrī](phaladātrī) [ca](ca) [phalgu-hastā](phalguhastā) [phaṇi-priyā](phaṇipriyā)
+[fruitful](phalinī) [fruit-giver](phaladātrī) [and](ca) [weak-handed](phalguhastā) [snake-loving](phaṇipriyā)
 
 ## mukta-m0-p104-v2589
-[bala-māyā](balamāyā) [bala-stutyā](balastutyā) [bilva-senā](bilvasenā) [balā-balā](balābalā)
+[strength-illusion](balamāyā) [strength-praise](balastutyā) [variant-balastanyā]([ṅ: balastanyā]) [bael-army](bilvasenā) [strong-weak](balābalā)
 
 ## mukta-m0-p104-v2590
-[buddha-mātā](buddhamātā) [bauddha-matiḥ](bauddhamatiḥ) [baddhā](baddhā) [bandhana-mocinī](bandhanamocinī)
+[Buddha-mother](buddhamātā) [Buddhist-minded](bauddhamatirbaddhā) [bound](bandhanamocinī) [bond-releaser](bandhanamocinī)
 
 ## mukta-m0-p104-v2591
-[bhīmeśvarī](bhīmeśvarī) [ca](ca) [bheruṇḍā](bheruṇḍā) [bhageśī](bhageśī) [bhaga-sarpiṇī](bhagasarpiṇī)
+[Bhima-lady](bhīmeśvarī) [variant-Bhaga-lady]([ṅ: bhāgeśvarī]) [and](ca) [terrible](bheruṇḍā) [Bhaga-lady](bhageśī) [bhaga-creeper](bhagasarpiṇī)
 
 ## mukta-m0-p104-v2592
-[mattā](mattā) [mano-harā](manoharā) [mīnā](mīnā) [maināka-jananī](mainākajananī) [murī](murī)
+[intoxicated](mattā) [mind-stealing](manoharā) [fish](mīnā) [Mainaka-mother](mainākajananī) [peacock](murī)
 
 ## mukta-m0-p104-v2593
-[matta-mātaṅga-gā](mattamātaṅgagā) [mādrī](mādrī) [marāla-gati-rañcalā](marālagatirañcalā)
+[elephant-rider](mattamātaṅgagā) [Madri](mādrī) [variant-friend]([kh: mīṭrī]) [swan-gait-fringed](marālagatirañcalā)
 
 ## mukta-m0-p104-v2594
-[yaśo-vatī](yaśovatī) [yati-sthā](yatisthā) [ca](ca) [yatātmā](yatātmā) [yati-vallabhā](yativallabhā)
+[famous](yaśovatī) [ascetic-abiding](yatisthā) [and](ca) [self-controlled](yatātmā) [ascetic-beloved](yativallabhā)
 
 ## mukta-m0-p104-v2595
-[yajña-sūtra-pradā](yajñasūtrapradā) [jyeṣṭhā](jyeṣṭhā) [yajña-bhū(900)-rūpa-mūlinī](yajñabhū(900)ryūpamūlinī)
+[sacrificial-thread-giver](yajñasūtrapradā) [eldest](jyeṣṭhā) [sacrifice-ground](yajñabhū(900)) [pillar-rooted](ryūpamūlinī)
 
 ## mukta-m0-p104-v2596
-[rajo-vatī](rajo-vatī) [rajaḥ-citrā](rajaścitrā) [rājya-dā](rājyadā) [rājya-vardhinī](rājyavardhinī)
+[dusty](rajovatī) [dust-variegated](rajaścitrā) [kingdom-giver](rājyadā) [kingdom-increasing](rājyavardhinī)
 
 ## mukta-m0-p104-v2597
-[lulitā](lulitā) [latikā](latikā) [lāpyā](lāpyā) [lopā](lopā) [lalana-lālasā](lalanalālasā)
+[shaken](lulitā) [creeper](latikā) [speakable](lāpyā) [loss](lopā) [woman-desiring](lalanalālasā)
 
 ## mukta-m0-p104-v2598
-[laṅkā](laṅkā) [lalaj-jaṭā-jūṭā](lalajjaṭājūṭā) [laṅghitā](laṅghitā) [loka-sundarī](lokasundarī)
+[Lanka](laṅkā) [dangling-matted-hair](lalajjaṭājūṭā) [crossed](laṅghitā) [world-beautiful](lokasundarī)
 
 ## mukta-m0-p104-v2599
-[vediḥ-vilagnā](vedirvilagnā) [vāṇī](vāṇī) [ca](ca) [vīṇā](vīṇā) [veṇuḥ-vaneśvarī](veṇurvaneśvarī)
+[altar-attached](vedirvilagnā) [speech](vāṇī) [and](ca) [lute](vīṇā) [bamboo](veṇurvaneśvarī) [forest-lady](vaneśvarī)
 
 ## mukta-m0-p104-v2600
-[śaṅkhinī](śaṅkhinī) [śaṅkha-valayā](śaṅkhavalayā) [śaṅkha-āyudha-dharā](śaṅkhāyudhadharā) [śamā](śamā)
+[conch-possessing](śaṅkhinī) [conch-bracelet](śaṅkhavalayā) [conch-weapon-bearer](śaṅkhāyudhadharā) [peace](śamā)
