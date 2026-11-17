@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p36-v876
-[yoga-mudra](yogamudrāṃ) [and](ca) [conch](śaṅkhaṃ) [and](ca) [mace-disc-bearer](gadācakradharaṃ) [pair](dvayam)
+yoga-mudrāṃ + ca + śaṅkhaṃ + ca + gadā + cakra + dharaṃ + dvayam
 
 ## mukta-m0-p36-v877
-[mudra](mudrāṃ) [should-make](kuryāt) [heart-placed](hṛdisthāṃ) [and](ca) [all-sin-destroying](aśeṣāghapraṇāśinīm)
+mudrāṃ + kuryāt + hṛdi-sthāṃ + ca + aśeṣa + agha + praṇāśinīm
 
 ## mukta-m0-p36-v878
-[vessel-peace-bearer](pātraśāntidharaṃ) [on-right](yāmye) [on-left](vāmake) [lotus-sri](padmasīriṇau)
+pātra-śānti-dharaṃ + yāmye + vāmake + padma-sīriṇau
 
 ## mukta-m0-p36-v879
-[kaumudi](kaumodyā) [weapon-king](hetirājena) [panchajanya-lotus](pāñcajanyāmbujena) [and](ca)
+kaumudyā + heti-rājena + pāñcajanya + ambujena + ca
 
 ## mukta-m0-p36-v880
-[narayana-etc-five-other](nārāyaṇādipañcānyat) [previously-said-hand-weapon-bearer](pūrvoktakaraśastrabhṛt)
+nārāyaṇa-ādi-pañca + anyat + pūrva-ukta + kara-śastra-bhṛt
 
 ## mukta-m0-p36-v881
-[with-these-united](ebhiryuktaṃ) [nine-formation](navavyūhaṃ) [to-be-known](jñātavyaṃ) [by-best-teachers](daiśikottamaiḥ)
+ebhiḥ + yuktaṃ + nava-vyūhaṃ + jñātavyaṃ + daiśika-uttamaiḥ
 
 ## mukta-m0-p36-v882
-[left-lap-held-sri](vāmotsaṅgadhṛtaśrīkam) [half-moon-seat](ardhacandrāsane) [seated](sthitam)
+vāma-utsaṅga-dhṛta-śrīkaṃ + ardha-candra-āsane + sthitam
 
 ## mukta-m0-p36-v883
-[that-right](taddakṣiṇaṃ) [hand](karaṃ) [on-shoulder](skandhe) [god-of-gods](devadevasya) [right](dakṣiṇe)
+tat + dakṣiṇaṃ + karaṃ + skandhe + deva-devasya + dakṣiṇe
 
 ## mukta-m0-p36-v884
-[lotus-seated](padmastho) [rolling-eyed](ghūrṇitākṣaśca) [singers-dancers-surrounded](gātṛnartanakairvṛtaḥ)
+padma-sthaḥ + ghūrṇita-akṣaḥ + ca + gātṛ-nartanakaiḥ + vṛtaḥ
 
 ## mukta-m0-p36-v885
-[non-dual](advaitena) [rite](vidhānena) [worship-worthy](pūjanīyo) [by-wise](vipaścitā)
+advaitena + vidhānena + pūjanīyaḥ + vipaścitā
 
 ## mukta-m0-p36-v886
-[yoga-sleep-supreme-state](yoganidrāparāvasthaḥ) [sleeping](supto) [on-ananta-body](anantatanūpari)
+p. + 105) + yoga-nidrā-parāvasthaḥ + [kh: + dharāvasthaḥ] + suptaḥ + ananta-tanū-pari
 
 ## mukta-m0-p36-v887
-[foot-clinging](pādalagnā) [earth-goddess](dharādevī) [water-reclining](jalaśāyī) [planet-surrounded](grahāvṛtaḥ)
+pāda-lagnā + dharā-devī + jala-śāyī + graha-āvṛtaḥ
 
 ## mukta-m0-p36-v888
-[rising-lotus-mounted](ābhyutthapaṅkajārūḍhaḥ) [grandfather-accompanied](pitāmahasamanvitaḥ)
+ābhyuttha-paṅkaja-ārūḍhaḥ + pitāmaha-samanvitaḥ
 
 ## mukta-m0-p36-v889
-[she-licked](sā līḍho) [in-nandana](nandane) [passionate](rāgī) [always](sadā) [bow-arrow-bearing-auspicious](cāpeṣubhṛcchubhaḥ)
+sā + līḍhaḥ + nandane + rāgī + sadā + cāpa-iṣu-bhṛt + śubhaḥ + [gh: + bhṛt-sutaḥ]
 
 ## mukta-m0-p36-v890
-[high-nosed](tuṅgaghrāṇo) [man-foot-or](narāṅghirvā) [bird-thigh](pakṣijaṅgho) [man-limbed](narāṅgakaḥ)
+tuṅga-ghrāṇaḥ + [k, + kh: + tuṅga-ghoṇā] + narāṅghiḥ + vā + pakṣi-jaṅghaḥ + narāṅgakaḥ
 
 ## mukta-m0-p36-v891
-[left-knee-gone](vāmajānugato) [on-earth](bhūmau) [tarksya](tārkṣyaḥ) [wing-accompanied](pakṣasamanvitaḥ)
+vāma-jānu-gataḥ + bhūmau + tārkṣyaḥ + pakṣa-samanvitaḥ
 
 ## mukta-m0-p36-v892
-[plow-conch-excellent](halaśaṅkhavaro) [garlanded](mālī) [vishvaksena](viśvakseno) [hari's-attendant](harergaṇaḥ)
+hala-śaṅkha-varaḥ + mālī + viśvaksenaḥ + hareḥ + gaṇaḥ
 
 ## mukta-m0-p36-v893
-[lotus-sri-bearer](padmasīradharaṃ) [on-left](vāme) [on-sesha](śeṣe) [mace-cow-bearer](muśalagodvaham)
+padma-sīra-dharaṃ + vāme + śeṣe + muśala-go-dvaham + [k, + kh: + khādya-yuga-udvaham]
 
 ## mukta-m0-p36-v894
-[half-half](ardhe'rdhe) [ornaments](bhūṣaṇaiḥ) [own](svaiḥ) [own-united-upward](svairyuktamūrdhvaṃ) [lotus-seated](kajasthitam)
+ardhe-ardhe + bhūṣaṇaiḥ + svaiḥ + svaiḥ + yuktaṃ + ūrdhvaṃ + kaja-sthitam
 
 ## mukta-m0-p36-v895
-[rosary](akṣamālāṃ) [trident](triśūlaṃ) [and](ca) [conch](śaṅkhaṃ) [and](ca) [kaumudi](kaumudīṃ) [in-order](kramāt)
+akṣa-mālāṃ + tri-śūlaṃ + ca + śaṅkhaṃ + ca + kaumudīṃ + kramāt
 
 ## mukta-m0-p36-v896
-[male-female-form](puṃstrīsvarūpakaṃ) [should-make](kuryāt) [shiva-narayana-natured](śivanārāyaṇātmakam)
+puṃ-strī-svarūpakaṃ + kuryāt + śiva-nārāyaṇa-ātmakam
 
 ## mukta-m0-p36-v897
-[brahma](brahmāṇaṃ) [vowed](vratinaṃ) [should-make](kuryāt) [matted-crown-ornamented](jaṭāmukuṭabhūṣitam)
+brahmāṇaṃ + vratinaṃ + kuryāt + jaṭā-mukuṭa-bhūṣitam + [kh: + bhūṣaṇam]
 
 ## mukta-m0-p36-v898
-[black-deerskin](kṛṣṇājinaṃ) [and](ca) [that-shoulder](tatskandhe) [cloth](vastraṃ) [deerskin-garment](cājinavāsasam)
+kṛṣṇa-ajinaṃ + ca + tat-skandhe + vastraṃ + ca + ajina-vāsasam
 
 ## mukta-m0-p36-v899
-[sruva](sruvaṃ) [kamandalu](kamaṇḍaluṃ) [on-left](vāme) [with-kusha-ghee-pot](sakuśājyaghaṭaṃ) [thus](tathā)
+sruvaṃ + [gh: + srucaṃ] + kamaṇḍaluṃ + vāme + sa-kuśa-ājya-ghaṭaṃ + tathā
 
 ## mukta-m0-p36-v900
-[gayatri](gāyatrīṃ) [and-indeed](caiva) [savitrī](sāvitrīm) [rishis](ṛṣīṃs) [their-sides](tatpārśvayos) [thus](tathā)
+gāyatrīṃ + ca + eva + sāvitrīm + ṛṣīn + tat-pārśvayoḥ + tathā
