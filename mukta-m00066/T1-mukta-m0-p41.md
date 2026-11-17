@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p41-v1001
-[etaiḥ+ānaṃda+yāga+anta](etairānaṃdayāgāṃta) [śukla+śoṇita+biṃdubhiḥ](śuklaśoṇitabiṃdubhiḥ)
+[by-these-bliss-sacrifice-end](etairānaṃdayāgāṃta) [with-white-red-drops](śuklaśoṇitabiṃdubhiḥ)
 
 ## mukta-m0-p41-v1002
-[etaiḥ+ānaṃda+yāga+anta](etairānaṃdayāgāṃta) [śukla+śoṇita+biṃdubhiḥ](śuklaśoṇitabiṃdubhiḥ)
+[by-these-bliss-sacrifice-end](etairānaṃdayāgāṃta) [with-white-red-drops](śuklaśoṇitabiṃdubhiḥ)
 
 ## mukta-m0-p41-v1003
-[etaiḥ+ānaṃda+yāga+anta](etairānaṃdayāgāṃta) [śukla+śoṇita+biṃdubhiḥ](śuklaśoṇitabiṃdubhiḥ)
+[by-these-bliss-sacrifice-end](etairānaṃdayāgāṃta) [with-white-red-drops](śuklaśoṇita) [biṃdubhiḥ](biṃdubhiḥ)
 
 ## mukta-m0-p41-v1004
-[tarpayet+akhilaṃ+viśvaṃ](tarpayedakhilaṃ) [viśvaṃ](viśvaṃ) [sva+ātmānaṃda+mahā+īśvari](svātmānaṃdamaheśvari)
+[satisfy-all-universe](tarpayedakhilaṃ) [viśvaṃ](viśvaṃ) [own-bliss-great-goddess](svātmānaṃdamaheśvari)
 
 ## mukta-m0-p41-v1005
-[atha+tāṃ+dūtikā+mastaceṣṭāṃ](athatāṃdūtikāmastaceṣṭāṃ) [niśvāsa+mātriṇīm](niśvāsamātriṇīm)
+[then-messenger-desire](athatāṃdūtikāmastaceṣṭāṃ) [breath-only](niśvāsamātriṇīm)
 
 ## mukta-m0-p41-v1006
-[ānaṃda+mātra+nirmagnāṃ](ānaṃdamātranirmagnāṃ) [anivācye](anivācye) [rase](rase) [sthitām](sthitām)
+[bliss-only-immersed](ānaṃdamātranirmagnāṃ) [ineffable-rasa](anivācye) [established](rase) [sthitām](sthitām)
 
 ## mukta-m0-p41-v1007
-[nābhi+mūlaṃ](nābhimūlaṃ) [sakthi+mūlaṃ](sakthimūlaṃ) [pada+pallava+komalam](padapallavakomalam)
+[navel-root](nābhimūlaṃ) [thigh-root](sakthimūlaṃ) [foot-tender](padapallavakomalam)
 
 ## mukta-m0-p41-v1008
-[adhi+skandhaṃ](adhiskaṃdhaṃ) [patet+asyā](patedasyā) [vidhāya+kara+marddanāt](vidhāyakaramarddanāt)
+[below-shoulder](adhiskaṃdhaṃ) [falls-her](patedasyā) [making-hand-rubbing](vidhāyakaramarddanāt)
 
 ## mukta-m0-p41-v1009
-[viśeṣāt](viśeṣāt) [smara+gehasya](smaragehasya) [parito+mṛdu+pāṇinā](paritomṛdupāṇinā)
+[especially](viśeṣāt) [love-house](smaragehasya) [around-soft-hand](paritomṛdupāṇinā)
 
 ## mukta-m0-p41-v1010
-[uttiṣṭha+ut+tiṣṭha+kalyāṇi](uttiṣṭhot) [tiṣṭhakalyāṇi](tiṣṭhakalyāṇi) [yāgaḥ+ayaṃ](yāgo'yaṃ) [carita+arthakaḥ](caritārthakaḥ)
+[arise](uttiṣṭhot) [tiṣṭha](tiṣṭhakalyāṇi) [auspicious](kalyāṇi) [sacrifice-accomplished](yāgo'yaṃ) [caritārthakaḥ](caritārthakaḥ)
 
 ## mukta-m0-p41-v1011
-[śirīṣa+dala+hṛdyāni](śirīṣadalahṛdyāni) [tava+aṃgāni](tavāṃgāni) [tala+udari](talodari)
+[śirīṣa-petal-heart](śirīṣadalahṛdyāni) [your-limbs](tavāṃgāni) [slender-bellied](talodari)
 
 ## mukta-m0-p41-v1012
-[kṣamasva+tāni](kṣamasvatāni) [sarvāṇi](sarvāṇi) [bhūyo](bhūyo) [bodham+avāpnuyāt](bodhamavāpnuyāt)
+[forgive-all](kṣamasvatāni) [sarvāṇi](sarvāṇi) [again-knowledge-obtain](bhūyo) [bodhamavāpnuyāt](bodhamavāpnuyāt)
 
 ## mukta-m0-p41-v1013
-[tad+utthāya](tadutthāya) [mahā+utsaṃga](mahotsaṃga) [maṃgī+kurvīti+bodhayet](maṃgīkurvītibodhayet)
+[then-rising](tadutthāya) [great-embrace](mahotsaṃga) [make-instruct](maṃgī) [kurvītibodhayet](kurvītibodhayet)
 
 ## mukta-m0-p41-v1014
-[ati+ānaṃdāt](atyānaṃdāt) [pāravaśyaṃ](pāravaśyaṃ) [vyaṃjatī](vyaṃjatī) [nija+varṣmaṇā](nijavarṣmaṇā)
+[excessive-bliss](atyānaṃdāt) [subjection](pāravaśyaṃ) [manifests-own-body](vyaṃjatī) [nijavarṣmaṇā](nijavarṣmaṇā)
 
 ## mukta-m0-p41-v1015
-[aho+nānaṃda](ahonānaṃda) [sarvasvam+anubhūtaṃ](sarvasvamanubhūtaṃ) [mayā+adhunā](mayādhunā)
+[aho-bliss](ahonānaṃda) [all-self-experienced](sarvasvamanubhūtaṃ) [by-me-now](mayādhunā)
 
 ## mukta-m0-p41-v1016
-[aho+liṃga+mahā+īśasya](aholiṃgamaheśasya) [saṃtarpaṇa+mahā+makhaḥ](saṃtarpaṇamahāmakhaḥ)
+[aho-liṅga-great-lord](aholiṃgamaheśasya) [satisfaction-great-sacrifice](saṃtarpaṇamahāmakhaḥ)
 
 ## mukta-m0-p41-v1017
-[aho+tṛptā+asmi+mattā+asmi](ahotṛptāsmimattāsmi) [caritārthā+asmi](caritārthāsmi) [bhūyasā](bhūyasā)
+[aho-satisfied-intoxicated](ahotṛptāsmimattāsmi) [accomplished](caritārthāsmi) [abundantly](bhūyasā)
 
 ## mukta-m0-p41-v1018
-[ā+janma+maraṇaṃ](ājanmamaraṇaṃ) [tvat+kaṃ](tvatkaṃ) [caraṇaṃ](caraṇaṃ) [śaraṇaṃ](śaraṇaṃ) [mama](mama)
+[from-birth-death](ājanmamaraṇaṃ) [your-feet](tvatkaṃ) [caraṇaṃ](caraṇaṃ) [refuge-mine](śaraṇaṃ) [mama](mama)
 
 ## mukta-m0-p41-v1019
-[svayaṃ](svayaṃ) [gṛha+samāśleṣāṃ](gṛhasamāśleṣāṃ) [mām+atha+api+urarīkuru](māmathāpyurarīkuru)
+[self-embrace](svayaṃ) [gṛhasamāśleṣāṃ](gṛhasamāśleṣāṃ) [māmathāpyurarīkuru](māmathāpyurarīkuru)
 
 ## mukta-m0-p41-v1020
-[svayam+api+ayam+āśliṣya](svayamapyayamāśliṣya) [vīraḥ+tāṃ+rajanīṃ](vīrastāṃrajanīṃ) [nayet](nayet)
+[self-also-embracing](svayamapyayamāśliṣya) [hero-night](vīrastāṃrajanīṃ) [leads](nayet)
 
 ## mukta-m0-p41-v1021
-[māhātmyaṃ](māhātmyaṃ) [sakalebhyo+api](sakalebhyo'pi) [kratubhyo+api+adhikaṃ](kratubhyo'pyadhikaṃ) [phalam](phalam)
+[greatness](māhātmyaṃ) [all-than](sakalebhyo'pi) [sacrifices-than](kratubhyo'pyadhikaṃ) [fruit](phalam)
 
 ## mukta-m0-p41-v1022
-[ratā+adhvaraḥ+jīvan+muktiḥ](ratādhvarojīvanmuktirmahāhutiritīśvarī) [mahā+hutiḥ+iti+īśvarī](ratādhvarojīvanmuktirmahāhutiritīśvarī)
+[love-sacrifice](ratādhvarojīvanmuktirmahāhutiritīśvarī)
 
 ## mukta-m0-p41-v1023
-[phale+ni+baddha+bhāvānām+atyeṃdra](phalenibaddhabhāvānāmatyeṃdra) [pada+saṃbhavaḥ](padasaṃbhavaḥ)
+[fruit-bound-beings](phalenibaddhabhāvānāmatyeṃdra) [pada-saṃbhavaḥ](padasaṃbhavaḥ)
 
 ## mukta-m0-p41-v1024
-[iṃdrasya+iṃdratvam+etena](iṃdrasyeṃdratvametena) [mahā+yāgena](mahāyāgena) [suṃdari](suṃdari)
+[indra's-indrahood](iṃdrasyeṃdratvametena) [great-sacrifice](mahāyāgena) [beautiful](suṃdari)
 
 ## mukta-m0-p41-v1025
-[rudrasya](rudrasya) [rudra+adhikṛtiḥ](rudrādhikṛtirjaleśatvaṃ) [jaleśatvaṃ](jaleśatvaṃ) [pracetasaḥ](pracetasaḥ)
+[rudra's-rudra-authority](rudrasya) [rudrādhikṛtirjaleśatvaṃ](rudrādhikṛtirjaleśatvaṃ) [pracetasaḥ](pracetasaḥ)
