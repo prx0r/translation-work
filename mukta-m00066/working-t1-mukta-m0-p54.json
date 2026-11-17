@@ -24,7 +24,7 @@
 },
 {
 "surface": "kulālakaravarttanaiḥ",
-"quick_gloss": "by-potter's-wheel-turnings"
+"quick_gloss": "by-potter's-wheel-turning"
 }
 ]
 },
@@ -36,15 +36,11 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "gabhīrite",
-"quick_gloss": "in-deep"
+"surface": "gabhīrite+madhyadeśe",
+"quick_gloss": "in-deep-middle-region"
 },
 {
-"surface": "madhyadeśe",
-"quick_gloss": "middle-region"
-},
-{
-"surface": "tatraiva",
+"surface": "tatra+eva",
 "quick_gloss": "there-itself"
 },
 {
@@ -61,20 +57,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "kuṃbha",
+"surface": "kuṃbhaḥ",
 "quick_gloss": "pot"
 },
 {
-"surface": "iti",
-"quick_gloss": "thus"
-},
-{
-"surface": "asya",
-"quick_gloss": "of-word"
+"surface": "ityasya",
+"quick_gloss": "of-this"
 },
 {
 "surface": "śabdasya",
-"quick_gloss": "word's"
+"quick_gloss": "word"
 },
 {
 "surface": "vācyatām",
@@ -82,7 +74,7 @@
 },
 {
 "surface": "avagāhate",
-"quick_gloss": "attains"
+"quick_gloss": "enters"
 }
 ]
 },
@@ -136,11 +128,11 @@
 },
 {
 "surface": "prabhajate",
-"quick_gloss": "scatters"
+"quick_gloss": "splits"
 },
 {
 "surface": "dhūliśabdasya",
-"quick_gloss": "dust-word's"
+"quick_gloss": "dust-word"
 },
 {
 "surface": "vācyatām",
@@ -156,7 +148,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "śīrṇaśīrṇaḥ",
+"surface": "śīrṇa+śīrṇaḥ",
 "quick_gloss": "shattered-shattered"
 },
 {
@@ -173,7 +165,7 @@
 },
 {
 "surface": "sareṇutvam",
-"quick_gloss": "dusthood"
+"quick_gloss": "dust-state"
 },
 {
 "surface": "icchati",
@@ -202,7 +194,7 @@
 },
 {
 "surface": "ghūrṇate",
-"quick_gloss": "revolves"
+"quick_gloss": "swirls"
 },
 {
 "surface": "vāyumaṇḍale",
@@ -247,8 +239,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "tatrāropitarūpatvaṃ",
-"quick_gloss": "there-superimposed-form-ness"
+"surface": "tatra",
+"quick_gloss": "there"
+},
+{
+"surface": "āropitarūpatvaṃ",
+"quick_gloss": "superimposed-form-ness"
 },
 {
 "surface": "ghaṭādeḥ",
@@ -256,7 +252,7 @@
 },
 {
 "surface": "kārayan",
-"quick_gloss": "causing"
+"quick_gloss": "making"
 },
 {
 "surface": "budhaḥ",
@@ -273,7 +269,7 @@
 "tokens": [
 {
 "surface": "guṇāntarasamāsaṃga",
-"quick_gloss": "quality-other-union"
+"quick_gloss": "by-attribute-other-joining"
 },
 {
 "surface": "mātrādeva",
@@ -302,7 +298,7 @@
 },
 {
 "surface": "tasya",
-"quick_gloss": "of-his"
+"quick_gloss": "his"
 },
 {
 "surface": "samāropaṃ",
@@ -314,7 +310,7 @@
 },
 {
 "surface": "tasya",
-"quick_gloss": "of-his"
+"quick_gloss": "his"
 },
 {
 "surface": "punarlayaḥ",
@@ -330,7 +326,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "īdṛśā",
+"surface": "īdṛśāḥ",
 "quick_gloss": "such"
 },
 {
@@ -347,7 +343,7 @@
 },
 {
 "surface": "pratipāditāḥ",
-"quick_gloss": "explained"
+"quick_gloss": "established"
 }
 ]
 },
@@ -360,7 +356,7 @@
 "tokens": [
 {
 "surface": "varṇātmakāḥ",
-"quick_gloss": "sound-natured"
+"quick_gloss": "letter-formed"
 },
 {
 "surface": "tu",
@@ -384,7 +380,7 @@
 },
 {
 "surface": "ekakaḥ",
-"quick_gloss": "one-only"
+"quick_gloss": "single"
 }
 ]
 },
@@ -401,7 +397,7 @@
 },
 {
 "surface": "pravṛddhavairāṇāṃ",
-"quick_gloss": "increased-enmity"
+"quick_gloss": "grown-enmity"
 },
 {
 "surface": "vādinām",
@@ -422,7 +418,7 @@
 "tokens": [
 {
 "surface": "prabhūtataradarpāṃdhāḥ",
-"quick_gloss": "abundant-pride-blinded"
+"quick_gloss": "abundant-pride-blind"
 },
 {
 "surface": "pāṇḍitya",
@@ -434,7 +430,7 @@
 },
 {
 "surface": "durdhiyām",
-"quick_gloss": "bad-minded"
+"quick_gloss": "bad-intellect"
 }
 ]
 },
@@ -446,8 +442,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "tadgaveṣaṇamārgeṇa",
-"quick_gloss": "that-search-path"
+"surface": "tad",
+"quick_gloss": "that"
+},
+{
+"surface": "gaveṣaṇamārgeṇa",
+"quick_gloss": "search-path"
 },
 {
 "surface": "tat",
@@ -455,7 +455,7 @@
 },
 {
 "surface": "samāna",
-"quick_gloss": "equal"
+"quick_gloss": "same"
 },
 {
 "surface": "samādhinā",
@@ -483,8 +483,12 @@
 "quick_gloss": "refutation"
 },
 {
-"surface": "sthānakalpanaiḥ",
-"quick_gloss": "place-conception"
+"surface": "sthāna",
+"quick_gloss": "place"
+},
+{
+"surface": "kalpanaiḥ",
+"quick_gloss": "contrivance"
 }
 ]
 },
@@ -584,7 +588,7 @@
 "tokens": [
 {
 "surface": "siddhāntitaiḥ",
-"quick_gloss": "established-conclusion-holders"
+"quick_gloss": "established-conclusion"
 },
 {
 "surface": "ca",
@@ -654,7 +658,7 @@
 "tokens": [
 {
 "surface": "pramāṇāṃdhāḥ",
-"quick_gloss": "proof-blinded"
+"quick_gloss": "proof-blind"
 },
 {
 "surface": "ṣoḍaśāye",
@@ -666,7 +670,7 @@
 },
 {
 "surface": "taiḥ",
-"quick_gloss": "those"
+"quick_gloss": "with-those"
 },
 {
 "surface": "mahākālīḥ",

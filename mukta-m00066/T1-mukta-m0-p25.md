@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p25-v601
-[bed-genitive](śayyāyā) [north-locative](uttare) [part-locative](bhāge) [having-placed](sthāpayitvā) [eternal-nectar](sadāmṛtam)
+[bed](śayyāyā) [north](uttare) [part](bhāge) [having-placed](sthāpayitvā) [ever-nectar](sadāmṛtam)
 
 ## mukta-m0-p25-v602
-[full-pot-accusative](pūrṇakuṃbhaṃ) [its-genitive](tasya) [mouth-locative](mukhe) [lotus-one-accusative](paṭmamekaṃ) [should-contemplate](viciṃtayet)
+[full-pot](pūrṇakuṃbhaṃ) [its](tasya) [mouth](mukhe) [lotus-one](paṭmamekaṃ) [should-contemplate](viciṃtayet)
 
 ## mukta-m0-p25-v603
-[ever-intoxicated-self-nominative](sadāmadanamattātmā) [noose-goad-excellent-hand-nominative](pāśāṃkuśalasatkaraḥ)
+[ever-intoxicated-self](sadāmadanamattātmā) [noose-goad-excellent-hand](pāśāṃkuśalasatkaraḥ)
 
 ## mukta-m0-p25-v604
-[lap-sit-genitive](aṃkasthitāyā) [intoxicated-genitive](mattāyāḥ) [siddhi-lakshmi-bhaga-between-locative](siddhilakṣmībhagāṃtare)
+[lap-seated](aṃkasthitāyā) [intoxicated](mattāyāḥ) [siddhi-lakshmi-between-yoni](siddhilakṣmībhagāṃtare)
 
 ## mukta-m0-p25-v605
-[her-genitive](tasyāśca) [hand-lotus-instrumental](karapadmena) [new-sprout-charming-instrumental](navapallavacāruṇā)
+[her-and](tasyāśca) [hand-lotus](karapadmena) [new-sprout-charming](navapallavacāruṇā)
 
 ## mukta-m0-p25-v606
-[siddhi-lakshmi-nominative](siddhilakṣmī) [bhaga-stream-accusative](bhagasrota) [nectar-drink-intoxicated-nominative](śīdhupānamadālasaḥ)
+[siddhi-lakshmi](siddhilakṣmī) [yoni-stream](bhagasrota) [nectar-drinking-languid](śīdhupānamadālasaḥ)
 
 ## mukta-m0-p25-v607
-[siddhi-lakshmi-delight-nominative](siddhilakṣmīrati) [sweat-accusative](sveta) [dispelling](vinudan) [ear-clapping-instrumental](karṇatālanaiḥ)
+[siddhi-lakshmi-delight](siddhilakṣmīrati) [sweat](svedaṃ) [soothing-ear-clapping](vinudankarṇatālanaiḥ)
 
 ## mukta-m0-p25-v608
-[siddhi-lakshmi-nominative](siddhilakṣmī) [falls-indeed](patedeva) [shakti-heramba-form-nominative](śaktiherambavigraha)
+[siddhi-lakshmi](siddhilakṣmī) [falls-indeed](patedeva) [shakti-heramba-form](śaktiherambavigraha)
 
 ## mukta-m0-p25-v609
-[thus](ityanenaiva) [mantra-instrumental](maṃtreṇa) [flower-offering-nominative](kṛtapuṣpāṃjali) [rite-nominative](kriyaḥ)
+[thus-by-this-mantra](ityanenaiva) [mantra](maṃtreṇa) [done-flower-offering](kṛtapuṣpāṃjali) [rite](kriyaḥ)
 
 ## mukta-m0-p25-v610
-[messenger-genitive](dūtyāśca) [form-locative](vigrahe) [flower-accusative](puṣpamekaṃ) [thus](evaṃ) [should-place](vinikṣipet)
+[messenger-and](dūtyāśca) [form](vigrahe) [flower-one](puṣpamekamevaṃ) [should-place](vinikṣipet)
 
 ## mukta-m0-p25-v611
-[self+form+perfection+bliss+here+bring](ātmasvarūpa+saṃsiddhyaitamānaṃdamihānaye)
+[ātmasvarūpa-saṃsiddhyai-tam-ānandam-ihānaye](ātmasvarūpa saṃsiddhyaitamānaṃdamihānaye)
 
 ## mukta-m0-p25-v612
-[self+form+perfection+bliss+here+bring](ātmasvarūpa+saṃsiddhyaitamānaṃdamihānaye)
+[ātmasvarūpa-saṃsiddhyai-tam-ānandam-ihānaye](ātmasvarūpa saṃsiddhyaitamānaṃdamihānaye)
 
 ## mukta-m0-p25-v613
-[self+form+perfection+bliss+here+bring](ātmasvarūpa+saṃsiddhyaitamānaṃdamihānaye)
+[ātmasvarūpa-saṃsiddhyai-tam-ānandam-ihānaye](ātmasvarūpa saṃsiddhyaitamānaṃdamihānaye)
 
 ## mukta-m0-p25-v614
-[vasus-genitive](vasūnāṃ) [vasu-wives-genitive](vasupatnīnāṃ) [who-nominative](ya) [bliss-great-lord-nominative](ānaṃdamaheśvaraḥ)
+[vasus](vasūnāṃ) [vasu-ladies](vasupatnīnāṃ) [who](ya) [bliss-lord](ānaṃdamaheśvaraḥ)
 
 ## mukta-m0-p25-v615
-[self+form+perfection+bliss+here+bring](ātmasvarūpa+saṃsiddhyaitamānaṃdamihānaye)
+[ātmasvarūpa-saṃsiddhyai-tam-ānandam-ihānaye](ātmasvarūpa saṃsiddhyaitamānaṃdamihānaye)
 
 ## mukta-m0-p25-v616
-[self+form+perfection+bliss+here+bring](ātmasvarūpasaṃsiddhyaitamānaṃdamihānaye)
+[ātmasvarūpa-saṃsiddhyai-tam-ānandam-ihānaye](ātmasvarūpasaṃsiddhyaitamānaṃdamihānaye)
 
 ## mukta-m0-p25-v617
-[self+form+perfection+bliss+here+bring](ātmasvarūpa+saṃsiddhyaitamānaṃdamihānaye)
+[ātmasvarūpa-saṃsiddhyai-tam-ānandam-ihānaye](ātmasvarūpa saṃsiddhyaitamānaṃdamihānaye)
 
 ## mukta-m0-p25-v618
-[self+form+perfection+bliss+here+bring](ātmasvarūpa+saṃsiddhyaitamānaṃdamihānaye)
+[ātmasvarūpa-saṃsiddhyai-tam-ānandam-ihānaye](ātmasvarūpa saṃsiddhyaitamānaṃdamihānaye)
 
 ## mukta-m0-p25-v619
-[self+form+perfection+bliss+here+bring](ātmasvarūpa+saṃsiddhyaitamānaṃdamihānaye)
+[ātmasvarūpa-saṃsiddhyai-tam-ānandam-ihānaye](ātmasvarūpa saṃsiddhyaitamānaṃdamihānaye)
 
 ## mukta-m0-p25-v620
-[self+form+perfection+bliss+here+bring](ātmasvarūpa+saṃsiddhyaitamānaṃdamihānaye)
+[ātmasvarūpa-saṃsiddhyai-tam-ānandam-ihānaye](ātmasvarūpa saṃsiddhyaitamānaṃdamihānaye)
 
 ## mukta-m0-p25-v621
-[self+form+perfection+bliss+here+bring](ātmasvarūpa+saṃsiddhyaitamānaṃdamihānaye)
+[ātmasvarūpa-saṃsiddhyai-tam-ānandam-ihānaye](ātmasvarūpa saṃsiddhyaitamānaṃdamihānaye)
 
 ## mukta-m0-p25-v622
-[therefore](tasmād) [food-sheath-accusative](annamayaṃ) [sheath-accusative](kośaṃ) [bliss-sheath-ness-accusative](ānaṃdamayatāṃ) [lead](nayet)
+[therefore-food-sheath](tasmādannamayaṃ) [sheath](kośaṃ) [blissful-state](ānaṃdamayatāṃ) [lead](nayet)
 
 ## mukta-m0-p25-v623
-[therefore](tasmāt) [vital-sheath-accusative](prāṇamayaṃ) [sheath-accusative](krośam) [bliss-sheath-ness-accusative](ānaṃdamayatāṃ) [lead](nayet)
+[therefore-vital-sheath](tasmāt prāṇamayaṃ) [sheath-blissful-state](krośamānaṃdamayatāṃ) [lead](nayet)
 
 ## mukta-m0-p25-v624
-[therefore](tasmān) [mind-sheath-accusative](manomayaṃ) [sheath-accusative](kośam) [bliss-sheath-ness-accusative](ānaṃdamayatāṃ) [lead](nayet)
+[therefore-mind-sheath](tasmānmanomayaṃ) [sheath-blissful-state](kośamānaṃdamayatāṃ) [lead](nayet)
 
 ## mukta-m0-p25-v625
-[that-knowledge-sheath-accusative](tadvijñānamayaṃ) [sheath-accusative](kośam) [bliss-sheath-ness-accusative](anaṃdamayatāṃ) [lead](naye)
+[that-knowledge-sheath](tadvijñānamayaṃ) [sheath-blissful-state](kośamanaṃdamayatāṃ) [lead](nayet)

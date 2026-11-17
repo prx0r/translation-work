@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p38-v926
-[pada](vivimocayamāṃ) [pada](nātha) [pada](cu) [pada](cu) [pada](cuṃbāmi) [pada](me)
+[releasing](vivimocayamāṃ) [lord](nātha) [kiss](cu) [kiss](cu) [I-kiss](cuṃbāmi) [my](me) [banner](dhvajam)
 
 ## mukta-m0-p38-v927
-[pada](huṃ) [pada](huṃ) [pada](huṃ) [pada](dehi) [pada](dehīti) [pada](tyaktvāpallavacāruṇā)
+[hum](huṃ) [hum](huṃ) [hum](huṃ) [give](dehi) [give](dehīti) [abandoning](tyaktvāpallavacāruṇā) 
 
 ## mukta-m0-p38-v928
-[pada](saptamāhutisusnātaṃ) [pada](liṃgamākṛṣya) [pada](rāgiṇī)
+[seventh-offering](saptamāhutisusnātaṃ) [lingam](liṃgam) [drawing](ākṛṣya) [passionate-woman](rāgiṇī)
 
 ## mukta-m0-p38-v929
-[pada](cuṃbatī) [pada](ca) [pada](mukhe) [pada](liṃgaṃ) [pada](prāptasaptābhiṣecanam)
+[kisses](cuṃbatī) [and](ca) [in-mouth](mukhe) [lingam](liṃgaṃ) [having-obtained-seven-abhishekas](prāptasaptābhiṣecanam)
 
 ## mukta-m0-p38-v930
-[pada](mukhe) [pada](nikṣipyataṃ) [pada](devaṃ) [pada](daśanena) [pada](vidaghnatī)
+[in-mouth](mukhe) [placing](nikṣipyataṃ) [god](devaṃ) [biting](daśanena) [cleverly](vidaghnatī)
 
 ## mukta-m0-p38-v931
-[pada](dhvajasya) [pada](karṇikābhāgaṃ) [pada](jihvayā) [pada](ca) [pada](vilolayet)
+[of-banner](dhvajasya) [lotus-center-part](karṇikābhāgaṃ) [with-tongue](jihvayā) [and](ca) [agitate](vilolayet)
 
 ## mukta-m0-p38-v932
-[pada](pārśvoścanakharekhābhirurarī) [pada](kurute) [pada](ratim)
+[on-sides](pārśvoścanakharekhābhirurarī) [makes](kurute) [pleasure](ratim)
 
 ## mukta-m0-p38-v933
-[pada](pibaṃtī) [pada](vacataṃ) [pada](nādaṃ) [pada](bahulīlāṃ) [pada](samācaret)
+[drinking](pibaṃtī) [sound](vacataṃ) [nāda](nādaṃ) [various-play](bahulīlāṃ) [perform](samācaret)
 
 ## mukta-m0-p38-v934
-[pada](atha) [pada](caṃdrakalānāḍyāḥ) [pada](svarūpaṃ) [pada](kathayāmi) [pada](te)
+[then](atha) [of-moon-channel](caṃdrakalānāḍyāḥ) [own-form](svarūpaṃ) [I-tell](kathayāmi) [to-you](te)
 
 ## mukta-m0-p38-v935
-[pada](anekavarṇaśāvavre) [pada](vibhūṣitanijākṛtiḥ)
+[many-colored](anekavarṇaśāvavre) [adorned-own-form](vibhūṣitanijākṛtiḥ)
 
 ## mukta-m0-p38-v936
-[pada](atyaṃtaṃ) [pada](mṛdulākāraṃ) [pada](madhye) [pada](kiṃcit) [pada](sthalīyasi)
+[extremely](atyaṃtaṃ) [soft-formed](mṛdulākāraṃ) [in-middle](madhye) [somewhat](kiṃcit) [thick](sthalīyasi)
 
 ## mukta-m0-p38-v937
-[pada](yavākāramanuprāptā) [pada](bhūyaḥ) [pada](pulakitākṛtiḥ)
+[barley-shaped](yavākāramanuprāptā) [again](bhūyaḥ) [thrilled-form](pulakitākṛtiḥ)
 
 ## mukta-m0-p38-v938
-[pada](anyāsāmapi) [pada](nāḍīnāṃ) [pada](saptabhogasudhākirām)
+[of-other-channels](anyāsāmapi) [nāḍīs](nāḍīnāṃ) [seven-enjoyment-nectar-ray](saptabhogasudhākirām)
 
 ## mukta-m0-p38-v939
-[pada](samastānaṃda) [pada](bharitā) [pada](kāmālaṃbanayaṣṭikā)
+[all-bliss](samastānaṃda) [filled](bharitā) [desire-support-staff](kāmālaṃbanayaṣṭikā)
 
 ## mukta-m0-p38-v940
-[pada](ajarāmaratāhetu) [pada](masyāvidrāvaṇakriyām)
+[ageless-immortal-cause](ajarāmaratāhetu) [her-dissolving-action](masyāvidrāvaṇakriyām)
 
 ## mukta-m0-p38-v941
-[pada](navāsidheṣu) [pada](sādhyeṣu) [pada](jānaṃti) [pada](na) [pada](varānane)
+[in-new-accomplishments](navāsidheṣu) [accomplishable](sādhyeṣu) [know](jānaṃti) [not](na) [beautiful-faced](varānane)
 
 ## mukta-m0-p38-v942
-[pada](jaṃghayorapi) [pada](jaṃghedve) [pada](vakṣasyapi) [pada](bhujāṃtaram)
+[on-thighs](jaṃghayorapi) [thigh](jaṃghedve) [on-chest](vakṣasyapi) [between-arms](bhujāṃtaram)
 
 ## mukta-m0-p38-v943
-[pada](adhare) [pada](cāpi) [pada](biṃboṣṭhaṃ) [pada](nāsāyāmapi) [pada](nāsikām)
+[on-lip](adhare) [also](cāpi) [bimba-lip](biṃboṣṭhaṃ) [on-nose](nāsāyāmapi) [nose](nāsikām)
 
 ## mukta-m0-p38-v944
-[pada](sarvāṃgīṇamidaṃ) [pada](nāma) [pada](mardanaṃ) [pada](parikīrtitam)
+[whole-bodied](sarvāṃgīṇamidaṃ) [named](nāma) [massage](mardanaṃ) [declared](parikīrtitam)
 
 ## mukta-m0-p38-v945
-[pada](karṇamūlasirayugme) [pada](sa) [pada](cuṃbanaradakṣatam)
+[at-ear-root-vein-pair](karṇamūlasirayugme) [kiss-bite](sa+cuṃbanaradakṣatam)
 
 ## mukta-m0-p38-v946
-[pada](kiṃciddaśanadaṃśena) [pada](cūcukadvaṃdva) [pada](cūṣaṇam)
+[somewhat](kiṃciddaśanadaṃśena) [pair-of-nipples](cūcukadvaṃdva) [sucking](cūṣaṇam)
 
 ## mukta-m0-p38-v947
-[pada](nābhīpuṭe) [pada](phūtkaraṇaṃ) [pada](bhrūmadhye) [pada](cāpi) [pada](sītkṛtiḥ)
+[at-navel-depression](nābhīpuṭe) [blowing](phūtkaraṇaṃ) [at-brow-middle](bhrūmadhye) [also](cāpi) [hissing](sītkṛtiḥ)
 
 ## mukta-m0-p38-v948
-[pada](āsanasya) [pada](pradeśe) [pada](ca) [pada](maṃdaraṃ) [pada](muṣṭitāḍanam)
+[at-seat-place](āsanasya+pradeśe) [ca](ca) [gentle](maṃdaraṃ) [fist-striking](muṣṭitāḍanam)
 
 ## mukta-m0-p38-v949
-[pada](etānyupācared) [pada](vīro) [pada](dūtikādrāvako) [pada](bhavet)
+[these](etānyupācared) [hero](vīro) [messenger-arousing](dūtikādrāvako) [becomes](bhavet)
 
 ## mukta-m0-p38-v950
-[pada](pūrvokta) [pada](cāpalaṃ) [pada](maṃtraṃ) [pada](bhagamālinikāmanum)
+[previously-said](pūrvokta) [restlessness](cāpalaṃ) [mantra](maṃtraṃ) [bhaga-mālinī](bhagamālinikāmanum)

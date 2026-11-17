@@ -2,13 +2,13 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p51-v1251
-[hear](śṛṇu) [your](te) [that-speech-among](tadvacomatkaṃ) [O](bhobho) [middle-men](puruṣamadhyamāḥ)
+[listen](śṛṇu) [your](te) [that-speech](tadvacomatkaṃ) [oh](bhobho) [men-middle](puruṣamadhyamāḥ)
 
 ## mukta-m0-p51-v1252
-[on-self-ground](ātmabhūmau) [and](ca) [standing](tiṣṭhaṃtāṃ) [in-own-things](satsusviyyeṣu) [objects](vastuṣu)
+[on-self-ground](ātmabhūmau) [and](ca) [standing](tiṣṭhaṃtāṃ) [in-own-things](satsusviyyeṣu) [things](vastuṣu)
 
 ## mukta-m0-p51-v1253
-[unsteady-monkey?](astirāmonāmahansūryavaṃśe) [earth-lord](mahīpatiḥ)
+[unsteady?](astirāmonāmahansūryavaṃśe) [earth-lord](mahīpatiḥ)
 
 ## mukta-m0-p51-v1254
 [him-followed](tamanvagāyayaurāmamanujo) [dharma-possessing](dharmaśālinam)
@@ -17,7 +17,7 @@
 [with-her](tayā) [and](ca) [together-Rama](sahitorāmaḥ) [with-younger](kaniṣṭhena) [and](ca) [in-forest](kānane)
 
 ## mukta-m0-p51-v1256
-[ear](karṇā) [with-ear-ornament](karṇikayā) [ears](karṇyasītāṃ) [beauty-possessing](saundaryaśālinīm)
+[ear](karṇā) [with-karnika](karṇikayā) [ear-possessing](karṇyasītāṃ) [beauty-possessing](saundaryaśālinīm)
 
 ## mukta-m0-p51-v1257
 [rooted-uprooted](samūlonmūlito) [in-battle](saṃkhye) [by-Raghava-alone-wandering](rāghaveṇaikacāriṇā)
@@ -35,31 +35,31 @@
 [deposit-here-conduct](nikṣipasvamihācāramanuniṣṭhagatajvaraḥ)
 
 ## mukta-m0-p51-v1262
-[fear-instruction-piercing](bhetopadeśanirbhiṇāścittadoṣa) [without-grasping](nirāgrahāḥ)
+[fear-instruction-pierced](bhetopadeśanirbhiṇāścittadoṣa) [without-grasping](nirāgrahāḥ)
 
 ## mukta-m0-p51-v1263
-[then](atha) [low](nīca) [of-men](narāṇāṃ) [tu](tu) [by-gift-form-instruction](dānarūpopadeśataḥ)
+[then](atha) [low](nīca) [of-men](narāṇāṃ) [but](tu) [gift-form-instruction](dānarūpopadeśataḥ)
 
 ## mukta-m0-p51-v1264
 [gift](dānaṃ) [named](nāmeṣṭavastūnāṃ) [true-false-form](satyāsatyasvarūpiṇām)
 
 ## mukta-m0-p51-v1265
-[there](tatra) [Vyasa-etc](vyāsādayaḥ) [said-thus](procuevaṃ) [to-low-men](nīcanarānprati)
+[there](tatra) [Vyasa-etc](vyāsādayaḥ) [spoke-thus](procuevaṃ) [low-men-towards](nīcanarānprati)
 
 ## mukta-m0-p51-v1266
-[other-wives-going](paradārānuṣaṃ) [gācca](gācca) [by-abstinence](viratyā) [merit-wealth](puṇyasaṃpadaḥ)
+[other-wives](paradārānuṣaṃ) [go](gācca) [from-abstinence](viratyā) [merit-wealth](puṇyasaṃpadaḥ)
 
 ## mukta-m0-p51-v1267
 [other-thing](paravastu) [grasping-from](grahaṇato) [without-end](nirutyā) [wealth-arises](saṃpadudbhavet)
 
 ## mukta-m0-p51-v1268
-[by-this](anena) [merit-path](puṇyamārgeṇa) [your](tava) [happiness](saukhyaṃ) [step](pade) [step](pade)
+[by-this](anena) [merit-path](puṇyamārgeṇa) [your](tava) [happiness](saukhyaṃ) [step-by-step](pade) [step](pade)
 
 ## mukta-m0-p51-v1269
 [will-complete](samāpsyasi)
 
 ## mukta-m0-p51-v1270
-[enticing](vipralobhya) [good-conduct](sadācārān) [Vyasa-taught](vyāsādhyātānvininvire)
+[enticing](vipralobhya) [good-conduct](sadācārān) [Vyasa-led](vyāsādhyātānvininvire)
 
 ## mukta-m0-p51-v1271
 [severe-fasting](tīvropavāsa) [suffering-etc](duḥkhādyamapi) [do](kurvaṃti) [men](mānavāḥ)
@@ -74,4 +74,4 @@
 [among-them](teṣu) [that-path](tanmārgamālambya) [teach](śikṣayantyadhamādhamān)
 
 ## mukta-m0-p51-v1275
-[hand-cuttings](hastacchedaiḥ) [foot-cuttings](padacchedaiḥ) [beatings](tāḍanaiḥ) [needle-piercings](sūcivedhanaiḥ)
+[hand-cutting](hastacchedaiḥ) [foot-cutting](padacchedaiḥ) [beatings](tāḍanaiḥ) [needle-piercing](sūcivedhanaiḥ)

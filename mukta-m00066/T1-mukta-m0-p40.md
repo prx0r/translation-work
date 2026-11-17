@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p40-v976
-[pada](bahunākimihoktena) [pada](sākṣādānaṃdadāyakaḥ)
+[by-much](bahunā) [what](kim) [here](iha) [said](uktena) [directly](sākṣāt) [bliss-giving](ānandadāyakaḥ)
 
 ## mukta-m0-p40-v977
-[pada](iti) [pada](dvitīyapātasya) [pada](maṃtrasannāma) [pada](īritam)
+[thus](iti) [of-second-part](dvitīyapātasya) [mantra-name](maṃtrasannāma) [declared](īritam)
 
 ## mukta-m0-p40-v978
-[pada](aṣṭabhogavatī) [pada](dhatte) [pada](mahāsāmrājya) [pada](nāthatām)
+[eight-enjoyment-possessing](aṣṭabhogavatī) [holds](dhatte) [great-sovereignty](mahāsāmrājya) [lordship](nāthatām)
 
 ## mukta-m0-p40-v979
-[pada](sarvākāreṇa) [pada](caitanya) [pada](layaḥ) [pada](sarvāṃgasuṃdarī)
+[by-all-forms](sarvākāreṇa) [consciousness](caitanya) [dissolution](layaḥ) [all-limbed-beautiful](sarvāṃgasuṃdarī)
 
 ## mukta-m0-p40-v980
-[pada](viśvakṣati) [pada](ca) [pada](yatkiṃcinna) [pada](ca) [pada](niryāti) [pada](vakrataḥ)
+[universe-injury](viśvakṣati) [and](ca) [whatever](yatkiṃcit) [not](na) [and](ca) [goes-out](niryāti) [from-crookedness](vakrataḥ)
 
 ## mukta-m0-p40-v981
-[pada](na) [pada](ceṣṭā) [pada](na) [pada](ca) [pada](saṃraṃbho) [pada](na) [pada](ca) [pada](mohana) [pada](kūjitam)
+[not](na) [effort](ceṣṭā) [not](na) [and](ca) [agitation](saṃraṃbho) [not](na) [and](ca) [deluding](mohana) [cry](kūjitam)
 
 ## mukta-m0-p40-v982
-[pada](na) [pada](daṃta) [pada](pātanomuṣṭi) [pada](ghātena) [pada](ca) [pada](ka) [pada](ca) [pada](grahaḥ)
+[not](na) [tooth](daṃta) [falling](pātano) [fist](muṣṭi) [blow](ghātena) [and](ca) [what](ka) [and](ca) [seizure](grahaḥ)
 
 ## mukta-m0-p40-v983
-[pada](na) [pada](mekhalā) [pada](kalakvāṇo) [pada](na) [pada](līlāsaṃgamaṃgayaḥ)
+[not](na) [girdle](mekhalā) [tinkling](kalakvāṇo) [not](na) [play-union-limb](līlāsaṃgamaṃgayaḥ)
 
 ## mukta-m0-p40-v984
-[pada](hṛdayasthāna) [pada](janitaḥ) [pada](kaṃpaḥ) [pada](paraparāyate)
+[heart-place](hṛdayasthāna) [born](janitaḥ) [trembling](kaṃpaḥ) [to-another](paraparāyate)
 
 ## mukta-m0-p40-v985
-[pada](ekāṣṭakamahāyāga) [pada](pakṣebiṃduṃ) [pada](samutsṛjet)
+[one-eightfold-great-sacrifice](ekāṣṭakamahāyāga) [wing-drop](pakṣebiṃduṃ) [release](samutsṛjet)
 
 ## mukta-m0-p40-v986
-[pada](aṣṭāṣṭakamahāyāge) [pada](dūtyaṣṭakamataḥ) [pada](param)
+[eight-eightfold-great-sacrifice](aṣṭāṣṭakamahāyāge) [messenger-eightfold](dūtyaṣṭakam) [thereafter](ataḥ) [beyond](param)
 
 ## mukta-m0-p40-v987
-[pada](iyameva) [pada](hi) [pada](śakteśca) [pada](śaṃbhorekatayā) [pada](sthitiḥ)
+[this-very](iyameva) [indeed](hi) [of-power](śakteśca) [of-śambhu-oneness](śaṃbhorekatayā) [state](sthitiḥ)
 
 ## mukta-m0-p40-v988
-[pada](itthamānaṃda) [pada](yāgo'yaṃ) [pada](kathitaste) [pada](maheśvari)
+[thus-bliss](itthamānaṃda) [sacrifice-this](yāgo'yaṃ) [told-to-you](kathitaste) [great-goddess](maheśvari)
 
 ## mukta-m0-p40-v989
-[pada](bhavato) [pada](vadanāṃbhojāt) [pada](suśruto'ṣṭāhuti) [pada](kramaḥ)
+[from-your](bhavato) [face-lotus](vadanāṃbhojāt) [well-heard](suśruto) [eight-offering](aṣṭāhuti) [order](kramaḥ)
 
 ## mukta-m0-p40-v990
-[pada](śrotuṃ) [pada](vāṃcchāmi) [pada](deveśa) [pada](yāgānaṃtarajaṃ) [pada](kramam)
+[to-hear](śrotuṃ) [I-desire](vāṃcchāmi) [lord-of-gods](deveśa) [sacrifice-after-born](yāgānaṃtarajaṃ) [order](kramam)
 
 ## mukta-m0-p40-v991
-[pada](śṛṇu) [pada](devi) [pada](mahābhāge) [pada](yanmāṃtvaṃ) [pada](paripṛcchasi)
+[hear](śṛṇu) [goddess](devi) [great-fortunate](mahābhāge) [what-me-you](yanmāṃtvaṃ) [ask](paripṛcchasi)
 
 ## mukta-m0-p40-v992
-[pada](vīraḥ) [pada](suciranṛttena) [pada](śrāṃtaliṃgamaheśvaraḥ)
+[hero](vīraḥ) [long-dance](suciranṛttena) [tired-linga-great-lord](śrāṃtaliṃgamaheśvaraḥ)
 
 ## mukta-m0-p40-v993
-[pada](atha) [pada](pradūṣita) [pada](pāte) [pada](pūrite) [pada](puṇyavastubhiḥ)
+[then](atha) [corrupted](pradūṣita) [fall](pāte) [filled](pūrite) [meritorious-things](puṇyavastubhiḥ)
 
 ## mukta-m0-p40-v994
-[pada](ānaṃdanāthasya) [pada](manuṃcāṣṭāviṃśativārakam)
+[of-bliss-lord](ānaṃdanāthasya) [mantra](manuṃ) [twenty-eight-times](cāṣṭāviṃśativārakam)
 
 ## mukta-m0-p40-v995
-[pada](dakṣahastasya) [pada](culuke) [pada](dhārayitvā) [pada](vicakṣaṇaḥ)
+[right-hand](dakṣahastasya) [palm](culuke) [holding](dhārayitvā) [wise](vicakṣaṇaḥ)
 
 ## mukta-m0-p40-v996
-[pada](saśuddhibhyāṃtayorbiṃduṃ) [pada](kārikāḥ) [pada](prapaṭhan) [pada](kiret)
+[with-purity-both-ends](saśuddhibhyāṃtayorbiṃduṃ) [drop](biṃduṃ) [verses](kārikāḥ) [reciting](prapaṭhan) [scatter](kiret)
 
 ## mukta-m0-p40-v997
-[pada](etairānaṃdayāgāṃta) [pada](śuklaśoṇitabiṃdubhiḥ)
+[by-these-bliss-sacrifice-end](etairānaṃdayāgāṃta) [white-semen-drops](śuklaśoṇitabiṃdubhiḥ)
 
 ## mukta-m0-p40-v998
-[pada](etairānaṃdayāgāṃta) [pada](śuklaśoṇitabiṃdubhiḥ)
+[by-these-bliss-sacrifice-end](etairānaṃdayāgāṃta) [white-semen-drops](śuklaśoṇitabiṃdubhiḥ)
 
 ## mukta-m0-p40-v999
-[pada](etairānaṃdayāgāṃta) [pada](śuklaśoṇitabiṃdubhiḥ)
+[by-these-bliss-sacrifice-end](etairānaṃdayāgāṃta) [white-semen-drops](śuklaśoṇitabiṃdubhiḥ)
 
 ## mukta-m0-p40-v1000
-[pada](etairānaṃdayāgāṃta) [pada](śuklaśoṇitabiṃdubhiḥ)
+[by-these-bliss-sacrifice-end](etairānaṃdayāgāṃta) [white-semen-drops](śuklaśoṇitabiṃdubhiḥ)
