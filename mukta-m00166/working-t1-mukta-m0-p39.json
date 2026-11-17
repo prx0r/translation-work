@@ -7,8 +7,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "yuddhakāṃkṣiṇī",
-"quick_gloss": "battle-desiring"
+"surface": "yuddha+kāṃkṣiṇī",
+"quick_gloss": "desiring-war"
 }
 ]
 },
@@ -28,28 +28,20 @@
 "quick_gloss": "you"
 },
 {
-"surface": "na",
-"quick_gloss": "not"
+"surface": "na+ced",
+"quick_gloss": "if-not"
 },
 {
-"surface": "cen",
-"quick_gloss": "if"
-},
-{
-"surface": "mūrcchā",
-"quick_gloss": "fainting"
-},
-{
-"surface": "kartrī",
-"quick_gloss": "doer"
+"surface": "mūrcchā+kartrī",
+"quick_gloss": "fainting-agent"
 },
 {
 "surface": "syā",
 "quick_gloss": "would-be"
 },
 {
-"surface": "yuddhakāṃkṣiṇī",
-"quick_gloss": "battle-desiring"
+"surface": "yuddha+kāṃkṣiṇī",
+"quick_gloss": "desiring-war"
 }
 ]
 },
@@ -78,8 +70,12 @@
 "quick_gloss": "stability"
 },
 {
-"surface": "hitāyāstu",
+"surface": "hitāya",
 "quick_gloss": "for-welfare"
+},
+{
+"surface": "astu",
+"quick_gloss": "let-it-be"
 },
 {
 "surface": "patākinī",
@@ -99,8 +95,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "dayārambhā",
-"quick_gloss": "compassion-beginning"
+"surface": "dayā+ārambhā",
+"quick_gloss": "day-beginning"
 }
 ]
 },
@@ -116,15 +112,15 @@
 "quick_gloss": "truth"
 },
 {
-"surface": "saiva",
+"surface": "sā+eva",
 "quick_gloss": "she-indeed"
 },
 {
-"surface": "dayārambhā",
-"quick_gloss": "compassion-beginning"
+"surface": "dayā+ārambhā",
+"quick_gloss": "day-beginning"
 },
 {
-"surface": "sambhāvitajagatattrayī",
+"surface": "sambhāvita+jagat+trayī",
 "quick_gloss": "honored-three-worlds"
 }
 ]
@@ -137,7 +133,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "vipañcīpañcamapriyā",
+"surface": "vipañcī+pañcama+priyā",
 "quick_gloss": "vīṇā-fifth-dear"
 }
 ]
@@ -158,19 +154,19 @@
 "quick_gloss": "would-be"
 },
 {
-"surface": "syānna",
+"surface": "syāt+na",
 "quick_gloss": "would-be-not"
 },
 {
 "surface": "ced",
-"quick_gloss": "if"
+"quick_gloss": "if-not"
 },
 {
 "surface": "devī",
 "quick_gloss": "goddess"
 },
 {
-"surface": "vipañcīpañcamapriyā",
+"surface": "vipañcī+pañcama+priyā",
 "quick_gloss": "vīṇā-fifth-dear"
 }
 ]
@@ -183,8 +179,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "parāparakalākāntā",
-"quick_gloss": "supreme-inferior-art-lovely"
+"surface": "parā+apara+kalā+kāntā",
+"quick_gloss": "supreme-inferior-art-lover"
 }
 ]
 },
@@ -196,16 +192,24 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "parāparakalākāntā",
-"quick_gloss": "supreme-inferior-art-lovely"
+"surface": "parā+apara+kalā+kāntā",
+"quick_gloss": "supreme-inferior-art-lover"
 },
 {
 "surface": "sā",
 "quick_gloss": "she"
 },
 {
-"surface": "mamāstvagrataḥ",
+"surface": "mama",
 "quick_gloss": "mine"
+},
+{
+"surface": "astu",
+"quick_gloss": "let-be"
+},
+{
+"surface": "agrataḥ",
+"quick_gloss": "before"
 },
 {
 "surface": "sadā",
@@ -221,7 +225,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "triśaktiḥ",
+"surface": "tri+śaktiḥ",
 "quick_gloss": "three-powers"
 }
 ]
@@ -238,7 +242,7 @@
 "quick_gloss": "in-whom"
 },
 {
-"surface": "triśaktiḥ",
+"surface": "tri+śaktiḥ",
 "quick_gloss": "three-powers"
 },
 {
@@ -246,7 +250,7 @@
 "quick_gloss": "indeed"
 },
 {
-"surface": "suprasannā",
+"surface": "su+prasannā",
 "quick_gloss": "well-pleased"
 }
 ]
@@ -259,7 +263,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "mokṣadāyinī",
+"surface": "mokṣa+dāyinī",
 "quick_gloss": "liberation-giving"
 }
 ]
@@ -276,11 +280,15 @@
 "quick_gloss": "alas"
 },
 {
-"surface": "yasyeśvari",
+"surface": "yasya",
 "quick_gloss": "whose"
 },
 {
-"surface": "mokṣadāyinī",
+"surface": "īśvarī",
+"quick_gloss": "goddess"
+},
+{
+"surface": "mokṣa+dāyinī",
 "quick_gloss": "liberation-giving"
 },
 {
@@ -310,11 +318,11 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "jalatvadūrīkaraṇena",
+"surface": "jala+tvat+dūrī+karaṇena",
 "quick_gloss": "water-distance-making"
 },
 {
-"surface": "bhūyād",
+"surface": "bhūyāt",
 "quick_gloss": "may-be"
 },
 {
@@ -322,7 +330,7 @@
 "quick_gloss": "indra-power"
 },
 {
-"surface": "gajendroparigā",
+"surface": "gajendra+upari+gā",
 "quick_gloss": "elephant-lord-mounted"
 },
 {
@@ -344,7 +352,7 @@
 "tokens": [
 {
 "surface": "māheśvarī",
-"quick_gloss": "maheśvarī"
+"quick_gloss": "maheshvari"
 }
 ]
 },
@@ -364,12 +372,16 @@
 "quick_gloss": "trident-bearer"
 },
 {
-"surface": "parameśvarastan",
+"surface": "parameśvaraḥ",
 "quick_gloss": "supreme-lord"
 },
 {
-"surface": "māheśvarīsevanajaḥ",
-"quick_gloss": "maheśvarī-service-born"
+"surface": "tat",
+"quick_gloss": "that"
+},
+{
+"surface": "māheśvarī+sevana+jaḥ",
+"quick_gloss": "maheshvari-service-born"
 },
 {
 "surface": "prasādaḥ",
@@ -386,7 +398,7 @@
 "tokens": [
 {
 "surface": "brāhmī",
-"quick_gloss": "brahmī"
+"quick_gloss": "brahmi"
 }
 ]
 },
@@ -399,7 +411,7 @@
 "tokens": [
 {
 "surface": "brāhmī",
-"quick_gloss": "brahmī"
+"quick_gloss": "brahmi"
 },
 {
 "surface": "bhūyāt",
@@ -414,8 +426,8 @@
 "quick_gloss": "goddess"
 },
 {
-"surface": "brahmasṛṣṭyekasākṣiṇī",
-"quick_gloss": "brahma-creation-sole-witness"
+"surface": "brahma+sṛṣṭi+eka+sākṣiṇī",
+"quick_gloss": "brahma-creation-single-witness"
 }
 ]
 },
@@ -428,7 +440,7 @@
 "tokens": [
 {
 "surface": "kaumārī",
-"quick_gloss": "kaumārī"
+"quick_gloss": "kaumari"
 }
 ]
 },
@@ -440,7 +452,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "kumārahāriṇī",
+"surface": "kumāra+hāriṇī",
 "quick_gloss": "boy-seizing"
 },
 {
@@ -449,10 +461,10 @@
 },
 {
 "surface": "kaumārī",
-"quick_gloss": "kaumārī"
+"quick_gloss": "kaumari"
 },
 {
-"surface": "mārabhītihṛt",
+"surface": "māra+bhīti+hṛt",
 "quick_gloss": "death-fear-removing"
 }
 ]
@@ -465,8 +477,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "kulavāsinī",
-"quick_gloss": "kula-dwelling"
+"surface": "kula+vāsinī",
+"quick_gloss": "clan-dwelling"
 }
 ]
 },
@@ -478,16 +490,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "śivadā",
+"surface": "śiva+dā",
 "quick_gloss": "auspicious-giving"
 },
 {
 "surface": "stāt",
-"quick_gloss": "may-it-be"
+"quick_gloss": "let-stand"
 },
 {
-"surface": "kulavāsinī",
-"quick_gloss": "kula-dwelling"
+"surface": "kula+vāsinī",
+"quick_gloss": "clan-dwelling"
 },
 {
 "surface": "sadā",
@@ -508,7 +520,7 @@
 "tokens": [
 {
 "surface": "icchā",
-"quick_gloss": "desire"
+"quick_gloss": "will"
 }
 ]
 }

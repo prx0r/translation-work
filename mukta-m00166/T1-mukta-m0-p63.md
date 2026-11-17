@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p63-v1551
-[womb](garbha)+[support](ādhāra)+[bearer](dharā) [page](p.) [197](197)
+[garbha+ādhāra+dharā](garbhādhāradharā) [devī](devī) [śakti](śakti) [mātā](mātā)
 
 ## mukta-m0-p63-v1552
-[womb](garbhaṃ) [should-meditate](dadhyānna) [not](na) [do](kuryād) [womb-support-bearer](garbhādhāradharā) [compassion](dayām)
+[garbhaṃ](garbhaṃ) [dadhyāt](dadhyāt) [na](na) [cet](cet) [kuryāt](kuryāt) [garbhādhāradharā](garbhādhāradharā) [dayām](dayām)
 
 ## mukta-m0-p63-v1553
-[empty](śūnyā)
+[śūnyā](śūnyā) [devī](devī) [śakti](śakti) [mātā](mātā)
 
 ## mukta-m0-p63-v1554
-[empty](śūnyeti) [she](sā) [how](kathaṃ) [sung](gītā) [always-full](sadāpūrṇā) [great-lady](maheśvarī)
+[śūnyā](śūnyā) [iti](iti) [sā](sā) [kathaṃ](kathaṃ) [gītā](gītā) [sadāpūrṇā](sadāpūrṇā) [maheśvarī](maheśvarī)
 
 ## mukta-m0-p63-v1555
-[womb-abode-dweller](garbhāśayanivāsinī)
+[garbhāśaya+nivāsinī](garbhāśayanivāsinī) [devī](devī) [śakti](śakti) [mātā](mātā)
 
 ## mukta-m0-p63-v1556
-[womb](garbhasya) [tenth](daśamāssveṣā) [womb-abode-dweller](garbhāśayanivāsinī)
+[garbhasya](garbhasya) [daśamāḥ](daśamāḥ) [sveṣā](sveṣā) [garbhāśayanivāsinī](garbhāśayanivāsinī)
 
 ## mukta-m0-p63-v1557
-[demon-killer](surārighātinī) [rite](kṛtyā)
+[surāri+ghātinī](surārighātinī) [kṛtyā](kṛtyā) [devī](devī) [śakti](śakti)
 
 ## mukta-m0-p63-v1558
-[demon-killer](surārighātinī) [rite](kṛtyā) [by-compassion](kṛpayā) [own](nijayā) [become](bhavet)
+[surārighātinī](surārighātinī) [kṛtyā](kṛtyā) [kṛpayā](kṛpayā) [nijayā](nijayā) [bhavet](bhavet)
 
 ## mukta-m0-p63-v1559
-[pūtanā](pūtanā)
+[pūtanā](pūtanā) [devī](devī) [śakti](śakti) [mātā](mātā)
 
 ## mukta-m0-p63-v1560
-[strong](balī) [becoming](bhūtvāhanaddaityānabalaḥ) [pūtanā](pūtaneti) [she](sā)
+[balī](balī) [bhūtvā](bhūtvā) [hanat](hanat) [daityān](daityān) [abalaḥ](abalaḥ) [pūtanā](pūtanā) [iti](iti) [sā](sā)
 
 ## mukta-m0-p63-v1561
-[tilottamā](tilottamā)
+[tilottamā](tilottamā) [devī](devī) [śakti](śakti) [mātā](mātā)
 
 ## mukta-m0-p63-v1562
-[whose](yasyāḥ) [auspicious](śivāyāstu) [tilottamā](tilottameti) [she](sā)
+[yasyāḥ](yasyāḥ) [śivāyāḥ](śivāyāḥ) [tu](tu) [tilottamā](tilottamā) [iti](iti) [sā](sā)
 
 ## mukta-m0-p63-v1563
-[page](p.) [198](198) [shame](lajjā)
+[lajjā](lajjā) [devī](devī) [śakti](śakti) [mātā](mātā)
 
 ## mukta-m0-p63-v1564
-[shame](lajjā) [not](na) [know](jāne) [supreme-lady](parameśvarī) [you](tvam)
+[lajjā](lajjā) [na](na) [jāne](jāne) [parameśvarī](parameśvarī) [tvam](tvam)
 
 ## mukta-m0-p63-v1565
-[rasavatī](rasavatī)
+[rasavatī](rasavatī) [devī](devī) [śakti](śakti) [mātā](mātā)
 
 ## mukta-m0-p63-v1566
-[rasa-only-remainder](rasamātrāvaśeṣaḥ) [if](syāccet) [be](syād) [rasavatī](rasavatī) [compassion](dayā)
+[rasa+mātra+avaśeṣaḥ](rasamātrāvaśeṣaḥ) [syāt](syāt) [cet](cet) [syāt](syāt) [rasavatī](rasavatī) [dayā](dayā)
 
 ## mukta-m0-p63-v1567
-[nandā](nandā)
+[nandā](nandā) [devī](devī) [śakti](śakti) [mātā](mātā)
 
 ## mukta-m0-p63-v1568
-[how](kathaṃ) [not](na) [be](syur) [people](janāḥ) [all](sarve) [by-whom](yena) [nandā](nandā) [worshipped](samarcitā)
+[kathaṃ](kathaṃ) [na](na) [syuḥ](syuḥ) [janāḥ](janāḥ) [sarve](sarve) [yena](yena) [nandā](nandā) [samarcitā](samarcitā)
 
 ## mukta-m0-p63-v1569
-[bhavānī](bhavānī)
+[bhavānī](bhavānī) [devī](devī) [śakti](śakti) [mātā](mātā)
 
 ## mukta-m0-p63-v1570
-[be](bhavatvaṃ) [new-joy-heap](navānandarāśiṃ) [beautiful](sucitram)
+[bhavatu](bhavatu) [am](am) [nava+ānanda+rāśiṃ](navānandarāśiṃ) [su+citram](sucitram)
 
 ## mukta-m0-p63-v1571
-[sin-destroyer](pāpanāśinī)
+[pāpa+nāśinī](pāpanāśinī) [devī](devī) [śakti](śakti) [mātā](mātā)
 
 ## mukta-m0-p63-v1572
-[whose](yadīyayā) [auspicious](śivā) [she](seyaṃ) [praised](kīrtitā) [sin-destroyer](pāpanāśinī)
+[yadīyayā](yadīyayā) [śivā](śivā) [seyam](seyam) [kīrtitā](kīrtitā) [pāpanāśinī](pāpanāśinī)
 
 ## mukta-m0-p63-v1573
-[page](p.) [199](199) [silk-garment-wearer](paṭṭāmbaradharā)
+[paṭṭāmbara+dharā](paṭṭāmbaradharā) [devī](devī) [śakti](śakti) [mātā](mātā)
 
 ## mukta-m0-p63-v1574
-[blue-lotus-possessing](nīlotpalinyupāsaktā) [lotus-like](padminīva) [shines](virājate)
+[nīlotpalinī+upāsaktā](nīlotpalinyupāsaktā) [padminī](padminī) [iva](iva) [virājate](virājate)
 
 ## mukta-m0-p63-v1575
-[song](gītiḥ)
+[gītiḥ](gītiḥ) [devī](devī) [śakti](śakti) [mātā](mātā)

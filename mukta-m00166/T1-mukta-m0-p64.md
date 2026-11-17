@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p64-v1576
-[not](nna) [whose](kasya) [song](gītiḥ) [joy-bringing-is](priyatāvahāsti)
+[not](na) [of-whom](kasya) [song](gītiḥ) [pleasantness](priyatā) [bringing](āvahā) [is](asti)
 
 ## mukta-m0-p64-v1577
-[good](su) [song](gītiḥ)
+[good-song](sugītiḥ)
 
 ## mukta-m0-p64-v1578
-[growth](sphītiṃ) [of-intellect](buddheḥ) [that](sā) [good-song-give](sugītirdadātu)
+[abundance](sphītiṃ) [of-intellect](buddheḥ) [that](sā) [good-song](sugītiḥ) [let-give](dadātu)
 
 ## mukta-m0-p64-v1579
-[knowledge](jñāna) [eye](locanā)
+[knowledge-eye](jñānalocanā)
 
 ## mukta-m0-p64-v1580
-[having-stolen](muṣitvā) [all-misfortunes](yākhilānarthān) [that](sā) [goddess](devī) [knowledge-eye](jñānalocanā)
+[having-stolen](muṣitvā) [all-objects](yākhilānarthān) [she](sā) [goddess](devī) [knowledge-eye](jñānalocanā)
 
 ## mukta-m0-p64-v1581
-[seven](sapta) [tones](svara) [possessing](mayī) [lute-string](tantrī)
+[seven-note-filled](saptasvaramayī) [string](tantrī)
 
 ## mukta-m0-p64-v1582
-[seven](sapta) [tones](svara) [possessing](mayī) [lute-string](tantrī) [freedom](svātantryaṃ) [let-it-make-heard](śrāvayatviyam)
+[seven-note-filled](saptasvaramayī) [string](tantrī) [freedom](svātantryaṃ) [let-make-hear](śrāvayatu) [this](iyam)
 
 ## mukta-m0-p64-v1583
-[ṣaḍja](ṣaḍja) [madhyama](madhyama) [dhaivata](dhaivatā)
+[ṣaḍja-madhyama-dhaivata](ṣaḍjamadhyamadhaivatā)
 
 ## mukta-m0-p64-v1584
-[at-the-end](upānte) [and](ca) [esteemed](matā) [that](seyaṃ) [ṣaḍja-madhyama-dhaivata](ṣaḍjamadhyamadhaivatā)
+[at-end](upānte) [and](ca) [considered](matā) [this](seyam) [ṣaḍja-madhyama-dhaivata](ṣaḍjamadhyamadhaivatā)
 
 ## mukta-m0-p64-v1585
-[mūrcchanā](mūrcchanā) [grāma-arrangement](grāmasaṃsthānā)
+[scale](mūrcchanā) [village-arrangement](grāmasaṃsthānā)
 
 ## mukta-m0-p64-v1586
-[rests](viśrāmayatyasau) [grāma-arrangement](grāmasaṃsthānā) [mūrcchanā](mūrcchanā) [esteemed](matā)
+[rests](viśrāmayati) [that](asau) [village-arrangement](grāmasaṃsthānā) [scale](mūrcchanā) [considered](matā)
 
 ## mukta-m0-p64-v1587
-[well-established](svasthā)
+[self-established](svasthā)
 
 ## mukta-m0-p64-v1588
-[that](sā) [goddess](devī) [renowned](prathitā) [well-established](svasthā) [make](kriyāt) [well](svasthaṃ) [mind](mano) [my](mama)
+[she](sā) [goddess](devī) [famous](prathitā) [self-established](svasthā) [let-make](kriyāt) [healthy](svasthaṃ) [mind](mano) [my](mama)
 
 ## mukta-m0-p64-v1589
-[well-established-abode-dwelling](svasthānavāsinī)
+[dwelling-in-self-state](svasthānavāsinī)
 
 ## mukta-m0-p64-v1590
-[not](na) [abandons](jahāti) [because](yatastasmāt) [consciousness](citiḥ) [well-established-abode-dwelling](svasthānavāsinī)
+[not](na) [abandons](jahāti) [because](yataḥ) [therefore](tasmāt) [consciousness](citiḥ) [dwelling-in-self-state](svasthānavāsinī)
 
 ## mukta-m0-p64-v1591
-[loud-laughing](aṭṭāṭṭahāsinī)
+[loudly-laughing](aṭṭāṭṭahāsinī)
 
 ## mukta-m0-p64-v1592
-[shines](śobhate) [disturbance](kṣobham) [loud-laughing](aṭṭāṭṭahāsinī) [that](sā) [remove](vyapohatām)
+[shines](śobhate) [agitation](kṣobham) [loudly-laughing](aṭṭāṭṭahāsinī) [she](sā) [let-remove](vyapohatām)
 
 ## mukta-m0-p64-v1593
 [ghost](pretā)
 
 ## mukta-m0-p64-v1594
-[ghost](pretā) [ghost-city-journey-born](pretapurābhiyānajamiyaṃ) [grief](śokaṃ) [burn](dahatvadbhutā)
+[ghost](pretā) [born-from-attack-on-pretapur](pretapurābhiyānaja) [this](iyaṃ) [grief](śokaṃ) [let-burn](dahatu) [wonderful](adbhutā)
 
 ## mukta-m0-p64-v1595
-[ghost-seat-dwelling](pretāsananivāsinī)
+[dwelling-on-ghost-seat](pretāsananivāsinī)
 
 ## mukta-m0-p64-v1596
-[whose](yasyā) [bear](vahanti) [that](sā) [some](kācit) [ghost-seat-dwelling](pretāsananivāsinī)
+[whose](yasyā) [carry](vahanti) [she](sā) [some](kācit) [dwelling-on-ghost-seat](pretāsananivāsinī)
 
 ## mukta-m0-p64-v1597
-[dance-song-loving](nṛttagītapriyā)
+[fond-of-dance-song](nṛttagītapriyā)
 
 ## mukta-m0-p64-v1598
-[beloved](priyā) [prosperity](śriyā) [nourish](poṣayatu) [own](svayā) [us](naḥ)
+[dear](priyā) [by-prosperity](śriyā) [let-nourish](poṣayatu) [by-own](svayā) [us](naḥ)
 
 ## mukta-m0-p64-v1599
-[without-desire](akāmā)
+[desireless](akāmā)
 
 ## mukta-m0-p64-v1600
-[from-you-alone](tvattaiva) [what-shines](yadbhāti) [therefore](tato) [desireless](asyakāmā)
+[from-you-only](tvattaiva) [what-shines](yadbhāti) [therefore](tato) [of-him-desireless](asyakāmā)

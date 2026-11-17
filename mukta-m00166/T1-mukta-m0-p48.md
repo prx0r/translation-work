@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p48-v1176
-[giving-like](dadāviva) [oneself](svayaṃ) [having-become](bhūtvā) [peacock-excellent-vehicle](mayūra+vara+vāhanā)
+[dadā-iva](dadāviva) [svayaṃ](svayaṃ) [bhūtvā](bhūtvā) [mayūra](mayūra)+[vara](vara)+[vāhanā](vāhanā)
 
 ## mukta-m0-p48-v1177
-[excellent-weapon-bearer](varāyudha+dhara)
+[vara](vara)+[āyudha](āyudha)+[dharā](dharā)
 
 ## mukta-m0-p48-v1178
-[excellent-weapon-bearer](varāyudha+dhara) [she-this](seyam) [is-sung](gīyate) [by-excellent-wise-ones](vara+buddhi+bhiḥ)
+[vara](vara)+[āyudha](āyudha)+[dharā](dharā) [sā](sā)+[iyam](iyam) [gīyate](gīyate) [vara](vara)+[buddhibhiḥ](buddhibhiḥ)
 
 ## mukta-m0-p48-v1179
-[heroic](vīrā)
+[vīrā](vīrā)
 
 ## mukta-m0-p48-v1180
-[to-obtain](labdhuṃ) [pleased](tuṣṭāḥ) [she](sā) [for-auspiciousness](śivāyāstu) [heroic](vīrā)
+[labdhum](labdhuṃ) [tuṣṭāḥ](tuṣṭāḥ) [sā](sā) [śivāya](śivāya)+[astu](astu) [vīrā](vīrā)
 
 ## mukta-m0-p48-v1181
-[heroic-drink-intoxication-intense](vīra+pāna+mada+utkaṭā)
+[vīra](vīra)+[pāna](pāna)+[mada](mada)+[utkaṭā](utkaṭā)
 
 ## mukta-m0-p48-v1182
-[from-fall](pātāt) [by-glance-fall](kaṭākṣa+pātena) [heroic-drink-intoxication-intense](vīra+pāna+mada+utkaṭā)
+[pātāt](pātāt) [kaṭākṣa](kaṭākṣa)+[pātena](pātena) [vīra](vīra)+[pāna](pāna)+[mada](mada)+[utkaṭā](utkaṭā)
 
 ## mukta-m0-p48-v1183
-[earth](vasudhā)
+[vasudhā](vasudhā)
 
 ## mukta-m0-p48-v1184
-[exalted-exalted](uddhāma+muddhāma) [always](sadā) [mine-may-it-be](mamāstu) [best-nectar](sudha+uttamā) [she](sā) [earth](vasudhā) [good-protector](su+pālā)
+[uddhāma](uddhāma) [muddhāma](muddhāma) [sadā](sadā) [mama](mama)+[astu](astu) [sudha](sudha)+[uttamā](uttamā) [sā](sā) [vasudhā](vasudhā) [supālā](supālā)
 
 ## mukta-m0-p48-v1185
-[earth-stream](vasu+dhārā)
+[vasu](vasu)+[dhārā](dhārā)
 
 ## mukta-m0-p48-v1186
-[of-him](tasya) [control](vaśā) [not](na) [how](kathaṃ) [would-be](syur) [noble](udārā) [whose](yasya) [in-hand](kare) [indeed](vata) [she](sā) [earth-stream](vasu+dhārā)
+[tasya](tasya) [vaśā](vaśā) [na](na) [katham](kathaṃ) [syuḥ](syuḥ)+[udārā](udārā) [yasya](yasya) [kare](kare) [vata](vata) [sā](sā) [vasu](vasu)+[dhārā](dhārā)
 
 ## mukta-m0-p48-v1187
-[victory](jayā)
+[jayā](jayā)
 
 ## mukta-m0-p48-v1188
-[whose-name-speaker](yan+nāma+vaktṛ) [appears](pratibhāti) [face](vaktraṃ) [victory](jayā) [ocean-of-compassion](dayā+abdhiḥ) [for-victory](vijayāya) [may-be](bhūyāt)
+[yat](yat)+[nāma](nāma)+[vaktṛ](vaktṛ) [pratibhāti](pratibhāti) [vaktram](vaktraṃ) [jayā](jayā) [dayā](dayā)+[abdhiḥ](abdhiḥ) [vijayāya](vijayāya) [bhūyāt](bhūyāt)
 
 ## mukta-m0-p48-v1189
-[śākambharī](śākambharī)
+[śāka](śāka)+[ambharī](ambharī)
 
 ## mukta-m0-p48-v1190
-[śākambharī](śākambharī) [always](sadā) [may-be](bhūyād) [boon-giver](vara+dā) [supreme-goddess](parama+īśvarī)
+[śāka](śāka)+[ambharī](ambharī) [sadā](sadā) [bhūyāt](bhūyād) [vara](vara)+[dā](dā) [parama](parama)+[īśvarī](īśvarī)
 
 ## mukta-m0-p48-v1191
-[auspicious](śivā)
+[śivā](śivā)
 
 ## mukta-m0-p48-v1192
-[nevertheless](tathāpi) [who](yā) [exists](vartata) [waveless](ūrmi+hīnā) [auspicious](śivā) [for-auspiciousness](śivāyāstu) [new](navā) [this-new](naveyam)
+[tathāpi](tathāpi) [yā](yā) [vartate](vartata) [ūrmi](ūrmi)+[hīnā](hīnā) [śivā](śivā) [śivāya](śivāya)+[astu](astu) [navā](navā) [nava](nava)+[iyam](iyam)
 
 ## mukta-m0-p48-v1193
-[victory](vijayā)
+[vijayā](vijayā)
 
 ## mukta-m0-p48-v1194
-[moon](vidhuḥ) [supreme-bliss-nectar-ocean](parānanda+sudhā+ambu+rāśeḥ) [this-giver](ayapradā) [may-stand](stād) [victory-fear-abode](vijayā+bhaya+sthā)
+[vidhuḥ](vidhuḥ) [parānanda](parānanda)+[sudhā](sudhā)+[ambu](ambu)+[rāśeḥ](rāśeḥ) [aya](aya)+[pradā](pradā) [stāt](stād) [vijayā](vijayā)+[abhaya](abhaya)+[sthā](sthā)
 
 ## mukta-m0-p48-v1195
-[victorious](jayantī)
+[jayantī](jayantī)
 
 ## mukta-m0-p48-v1196
-[opposing-hosts-dark-night-destroyer](vipakṣa+yūtha+andha+niśā+nihantā) [of-good-ones](satāṃ) [victorious](jayantī) [victory-giver](jayadā) [always](sadāstu)
+[vipakṣa](vipakṣa)+[yūtha](yūtha)+[andha](andha)+[niśā](niśā)+[nihantā](nihantā) [satām](satāṃ) [jayantī](jayantī) [jayadā](jayadā) [sadā](sadā)+[astu](astu)
 
 ## mukta-m0-p48-v1197
-[good-breasted](su+stanī)
+[su](su)+[stanī](stanī)
 
 ## mukta-m0-p48-v1198
-[serpents](nāgāḥ) [then-from-beginning](tadā+ādyātma) [on-heads](śiraḥsu) [dust](dhūliṃ) [throw](kṣipanti) [she-indeed](saiṣā) [indeed](kila) [good-breasted](su+stanī) [thus](iti)
+[nāgāḥ](nāgāḥ) [tadā](tadā)+[ādi](ādi)+[ātma](ātma)+[śiraḥsu](śiraḥsu) [dhūlim](dhūliṃ) [kṣipanti](kṣipanti) [sā](sā)+[eṣā](eṣā) [kila](kila) [su](su)+[stanī](stanī)+[iti](iti)
 
 ## mukta-m0-p48-v1199
-[enemy-destroyer](śatru+nāśinī)
+[śatru](śatru)+[nāśinī](nāśinī)
 
 ## mukta-m0-p48-v1200
-[friendship](mitratāṃ) [they-go](yānti) [by-whom](yena) [this](iyam) [worshipped](pūjitā) [enemy-destroyer](śatru+nāśinī)
+[mitratām](mitratāṃ) [yānti](yānti) [yena](yena)+[iyam](iyam) [pūjitā](pūjitā) [śatru](śatru)+[nāśinī](nāśinī)

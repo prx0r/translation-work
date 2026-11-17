@@ -5,13 +5,13 @@
 [satisfaction-giver](tuṣṭidā)
 
 ## mukta-m0-p65-v1602
-[abandoned](pyujjhito) [in-heart](hṛdi) [always](sadā) [let-be](stu) [satisfaction-giver](tuṣṭidā)
+[abandoned](pyujjhito) [in-heart](hṛdi) [always](sadā) [let-it-be](stu) [satisfaction-giver](tuṣṭidā)
 
 ## mukta-m0-p65-v1603
 [nourishment-giver](puṣṭidā)
 
 ## mukta-m0-p65-v1604
-[by-whom](kena) [by-whom](kenāsi) [in-form](rūpeṇa) [to-whom](kasmai) [to-whom](kasmai) [not](na) [nourishment-giver](puṣṭidā)
+[by-whom](kena) [by-whom](kenāsi) [by-form](rūpeṇa) [to-whom](kasmai) [to-whom](kasmai) [not](na) [nourishment-giver](puṣṭidā)
 
 ## mukta-m0-p65-v1605
 [imperishable](akṣayā)
@@ -20,46 +20,46 @@
 [you-alone](tvamevaikā) [indeed](tu) [true-form](sadrūpā) [by-nature](svabhāvena) [consciousness-imperishable](cidakṣayā)
 
 ## mukta-m0-p65-v1607
-[conclusion](niṣṭhā)
+[steadfastness](niṣṭhā)
 
 ## mukta-m0-p65-v1608
-[conclusion](niṣṭhā) [compassion](kṛpāṃ) [as-long-as](yāvadiyaṃ) [not](na) [bears](dhatte)
+[steadfastness](niṣṭhā) [compassion](kṛpāṃ) [as-long-as](yāvadiyaṃ) [not](na) [bears](dhatte)
 
 ## mukta-m0-p65-v1609
 [truth-dear](satyapriyā)
 
 ## mukta-m0-p65-v1610
-[truth-dear](satyapriyā) [she](sā) [dear-thing](priyam) [let-extend](ātanotu)
+[truth-dear](satyapriyā) [she](sā) [dear-one](priyam) [may-extend](ātanotu)
 
 ## mukta-m0-p65-v1611
 [wisdom](prajñā)
 
 ## mukta-m0-p65-v1612
-[of-him](tasya) [of-him](tasya) [how](kathaṃ) [not-ignorance](nājñāṃ) [carry](vahanti) [on-heads](śirasi) [others](itare)
+[of-him](tasya) [of-him](tasya) [how](kathaṃ) [not-ignorance](nājñāṃ) [carry](vahanti) [on-heads](śirasītare)
 
 ## mukta-m0-p65-v1613
 [world-lady](lokeśī)
 
 ## mukta-m0-p65-v1614
-[world-lady](lokeśī) [me](māṃ) [grief-free](śokahīnaṃ) [let-make](karotu)
+[world-lady](lokeśī) [me](māṃ) [grief-free](śokahīnaṃ) [may-make](karotu)
 
 ## mukta-m0-p65-v1615
-[god-best](surottamā)
+[best-of-gods](surottamā)
 
 ## mukta-m0-p65-v1616
-[god-best](surottamā) [let-make-him](karotvenaṃ) [all-best-path](sarvottamagatiṃ) [person](janam)
+[best-of-gods](surottamā) [may-make](karotu) [him](enaṃ) [supreme-goal](sarvottamagatiṃ) [person](janam)
 
 ## mukta-m0-p65-v1617
 [with-poison](saviṣā)
 
 ## mukta-m0-p65-v1618
-[with-poison](saviṣā) [by-name-alone](nāmamātreṇa) [know](jāne) [ḍitthaḍavitthavat](ḍitthaḍavitthavat)
+[with-poison](saviṣā) [by-name-alone](nāmamātreṇa) [know](jāne) [like-ḍittha](ḍitthaḍavitthavat)
 
 ## mukta-m0-p65-v1619
 [flaming](jvālinī)
 
 ## mukta-m0-p65-v1620
-[she](sā) [flaming](jvālinī) [time-fear](kālabhayaṃ) [let-remove-his](harāsya)
+[she](sā) [flaming](jvālinī) [time-fear](kālabhayaṃ) [may-remove](harāsya)
 
 ## mukta-m0-p65-v1621
 [flame](jvālā)

@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p06-v126
-[channels](nāḍyaḥ) [then](atha) [or](vā) [they-are](asyuḥ)
+[channels](nāḍyaḥ) [then](atha) [or](vā) [are](asyuḥ)
 
 ## mukta-m0-p06-v127
-[middle](madhyame) [ten-channels](daśanāḍyāḥ) [initial](ādyāma) [by-measure](mātreṇa) [smaller](kanyasaḥ)
+[middle](madhyame) [ten-channels](daśanāḍyāḥ) [measure](mātreṇa) [smaller](kanyasaḥ)
 
 ## mukta-m0-p06-v128
-[plowing-etc](karṣaṇādi) [ending-in-installation](pratiṣṭhāntaṃ) [rite](karma) [annual-festival](saṃvatsarotsavam)
+[plowing-etc](karṣaṇādi) [installation-end](pratiṣṭhāntaṃ) [action](karma) [year-festival](saṃvatsarotsavam)
 
 ## mukta-m0-p06-v129
-[daily-worship-etc](nityārcanādikaṃ) [all](sarvaṃ) [in-this-tantra](tantre'smin) [explained](pratipāditam)
+[daily-worship-etc](nityārcanādikaṃ) [all](sarvaṃ) [in-tantra](tantresmin) [taught](pratipāditam)
 
 ## mukta-m0-p06-v130
-[by-this-very](anenaiva) [manner](prakāreṇa) [by-reason](nyāyena) [examining](anvīkṣya) [teacher](deśikaḥ)
+[by-this](anenaiva) [manner](prakāreṇa) [reasoning](nyāyena) [examining](anvīkṣya) [teacher](deśikaḥ)
 
 ## mukta-m0-p06-v131
-[interval](antarālaṃ) [but](tu) [in-eastern](pūrvasyāṃ) [direction](diśi) [manifest](vyakte) [is-distinguished](viśiṣyate)
+[interval](antarālaṃ) [but](tu) [eastern](pūrvasyāṃ) [direction](diśi) [manifest](vyakte) [distinguished](viśiṣyate)
 
 ## mukta-m0-p06-v132
-[of-that](tasya) [god](devasya) [that](sā) [east](prācī) [determined](niścitā) [best-of-twice-born](dvijasattamāḥ)
+[of-that](tasya) [god](devasya) [that](sā) [east](prācī) [ascertained](niścitā) [best-brahmins](dvijasattamāḥ)
 
 ## mukta-m0-p06-v133
-[from-that](tadvaśāt) [other](aparā) [to-be-assumed](kalpyā) [directions](diśaḥ) [by-space-knowers](digvedibhiḥ) [always](sadā)
+[by-that](tadvaśāt) [other](aparā) [to-be-assumed](kalpyā) [directions](diśaḥ) [direction-altars](digvedibhiḥ) [always](sadā)
 
 ## mukta-m0-p06-v134
-[purification](śaucam) [rinsing](ācamanaṃ) [bathing](snānaṃ) [sandhyā-worship-offering](sandhyāvandanatarpaṇam)
+[purity](śaucam) [sipping](ācamanaṃ) [bathing](snānaṃ) [sandhyā-worship](sandhyāvandanam) [libation](tarpaṇam)
 
 ## mukta-m0-p06-v135
-[properly-sipping](samyagācabhya) [taking](saṃgṛhya) [ash](bhasitaṃ) [with-water](vāriṇā) [with](saha)
+[properly](samyag) [sipping](ācabhya) [taking](saṃgṛhya) [ash](bhasitaṃ) [with-water](vāriṇā) [with](saha)
 
 ## mukta-m0-p06-v136
-[with-that-hand](tatkareṇa) [and](ca) [joining](saṃyojya) [to-śiva](śive) [self](ātmānam) [respectfully](ādarāt)
+[by-that-hand](tatkareṇa) [and](ca) [joining](saṃyojya) [to-Śiva](śive) [self](ātmānam) [respectfully](ādarāt)
 
 ## mukta-m0-p06-v137
-[hand-nyāsa](karanyāsaṃ) [and](ca) [placement](vinyāsaṃ) [of-brahmans](brahmaṇām) [īśa-first](īśapūrvakam)
+[hand-nyāsa](karanyāsaṃ) [and](ca) [placement](vinyāsaṃ) [of-Brahmās](brahmaṇām) [Īśa-first](īśapūrvakam)
 
 ## mukta-m0-p06-v138
-[puruṣa](puruṣaṃ) [in-face](vadane) [all](sarvaṃ) [impurity-mantra](malāmantram) [remembering](anusmaran)
+[puruṣa](puruṣaṃ) [in-mouth](vadane) [all](sarvaṃ) [impurity-mantra](malāmantram) [remembering](anusmaran)
 
 ## mukta-m0-p06-v139
-[internal-sacrifice](antaryāgam) [then](ataḥ) [having-done](kṛtvā) [place-purification](sthānaśuddhim) [thereafter](tataḥ) [lead](nayet)
+[inner-rite](antaryāgam) [then](ataḥ) [doing](kṛtvā) [place-purity](sthānaśuddhim) [then](tataḥ) [lead](nayet)
 
 ## mukta-m0-p06-v140
-[having-made](kṛtvā) [self](ātmānaṃ) [worshiping](samabhyarcya) [mantra-purification](mantraśuddhiṃ) [perform](samācaret)
+[doing](kṛtvā) [self](ātmānaṃ) [well-worship](samabhyarcya) [mantra-purity](mantraśuddhiṃ) [perform](samācaret)
 
 ## mukta-m0-p06-v141
-[door-sides-both](dvārapārśvobhayaṃ) [or](vā) [api](api) [gaṇa-five-sarasvatī](gaṇapañcasarasvatīṃ)
+[door-side-both](dvārapārśvobhayaṃ) [or](vā) [api](api) [Gaṇapañca-Sarasvatī](gaṇapañcasarasvatīṃ)
 
 ## mukta-m0-p06-v142
-[having-worshiped](saṃpūjya) [udumbara](udumbare) [weapon](śastraṃ) [entering](praviśya) [inner](antaḥ) [city](puraṃ) [again](punaḥ)
+[worship](saṃpūjya) [udumbara](udumbare) [weapon](śastraṃ) [entering](praviśya) [inner-city](antaḥpuraṃ) [again](punaḥ)
 
 ## mukta-m0-p06-v143
-[of-śiva](śivasya) [īśāna-mantra](īśānamantreṇa) [garland-etc](mālādyam) [removing](apanīya) [and](ca)
+[of-Śiva](śivasya) [Īśāna-mantra](īśānamantreṇa) [garland-etc](mālādyam) [removing](apanīya) [and](ca)
 
 ## mukta-m0-p06-v144
-[support](ādhāra) [aravya](aravyam) [ananta](anantaṃ) [ca](ca) [dharma-adharma-etc](dharmādharmādyam) [eva](eva) [ca](ca)
+[support](ādhāra) [āravya](āravyam) [Ananta](anantañca) [dharma-adharma-etc](dharmādharmādyameva) [and](ca)
 
 ## mukta-m0-p06-v145
-[vāma-etc](vāmādyaṃ) [heart-accompanied](hṛdayopetaṃ) [śiva-seat](śivāsanaṃ) [remembering](anusmaran)
+[Vāma-etc](vāmādyaṃ) [heart-joined](hṛdayopetaṃ) [Śivāsana](śivāsanam) [remembering](anusmaran)
 
 ## mukta-m0-p06-v146
-[sadāśiva](sadāśivo) [maheśa](maheśaśca) [rudra](rudraśca) [eci](eci) [three-abodes](tridhāmataḥ)
+[Sadāśiva](sadāśivo) [Maheśa](maheśaśca) [Rudra](rudraśca) [thus](iti) [three-abodes](tridhāmataḥ)
 
 ## mukta-m0-p06-v147
-[which](yā) [of-him](tasya) [pure-power](vimalāśaktiḥ) [of-śiva](śivasya) [concomitant](samavāyinī)
+[which](yā) [his](tasya) [pure-śakti](vimalāśaktiḥ) [of-Śiva](śivasya) [co-existent](samavāyinī)
 
 ## mukta-m0-p06-v148
-[by-heart-cavity](hṛtsaṃpuṭena) [joining](saṃyojya) [in-her](tasyāṃ) [brahmans](brahmāṇi) [place](vinyaset)
+[heart-cavity](hṛtsaṃpuṭena) [joining](saṃyojya) [in-that](tasyāṃ) [Brahmās](brahmāṇi) [place](vinyaset)
 
 ## mukta-m0-p06-v149
-[with-place](sadeśe) [body](deha) [for-accomplishment](siddhyartham) [thirty-eight-arts](aṣṭatriṃśatkalā) [considered](matā)
+[with-place](sadeśe) [body](deha) [for-accomplishment](siddhyartham) [thirty-eight](aṣṭatriṃśat) [kalās](kalā) [considered](matā)
 
 ## mukta-m0-p06-v150
-[thirty-eight-arts-nyāsa](aṣṭatriṃśatkalānyāsaṃ) [before](prāg) [eva](eva) [explained](pratipāditam)
+[thirty-eight-kalā-nyāsa](aṣṭatriṃśatkalānyāsaṃ) [before](prāgeva) [taught](pratipāditam)
