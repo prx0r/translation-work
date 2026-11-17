@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p117-v2901
-[pināka-bearer](pinākambibhradāgahi)
+[pināka-bearer-come](pinākambibhradāgahi) [come](āgahi) [come](āgahi) [come](āgahi)
 
 ## mukta-m0-p117-v2902
-[whose](yāste) [thousand](sahasraṃ) [causes](hetayo) [other](anyam) [from-us](asmannivapantu) [those](tāḥ)
+[whose](yāste) [thousand](sahasraṃ) [causes](hetayo) [other](anyam) [from-us](asmannivapantu) [pour](nivapantu) [those](tāḥ) [those](tāḥ)
 
 ## mukta-m0-p117-v2903
-[of-them](tāsām) [lord](īśāno) [bhagavat](bhagavaḥ) [avert](parācīnā) [faces](mukhā) [make](kṛdhi)
+[of-them](tāsām) [lord](īśāno) [blessed](bhagavaḥ) [turn-away](parācīnā) [faces](mukhā) [make](kṛdhi)
 
 ## mukta-m0-p117-v2904
-[of-them](teṣā) [thousand-yojana](sahasrayojane) [bows](dhanvāni) [we-stretch](tanmasi)
+[of-them](teṣā) [thousand-yojanas](sahasrayojane) [bows](dhanvāni) [we-stretch](tanmasi)
 
 ## mukta-m0-p117-v2905
-[with-progeny](prajāvantaḥ) [may-we-associate](sacemahi)
+[with-progeny](prajāvantaḥ) [may-we-associate](sacemahi) [associate](sacemahi) [associate](sacemahi)
 
 ## mukta-m0-p117-v2906
-[share](bhāga) [yours](ākhuste) [beast](paśuḥ)
+[share](bhāga) [your](te) [cattle](paśuḥ) [cattle](paśuḥ) [cattle](paśuḥ)
 
 ## mukta-m0-p117-v2907
-[as](yathā) [us](no) [better-make](vasyasaskaradyathā) [us](naḥ) [more-excellent-make](śreyasaskaradyathā) [us](no) [prosper](vyavasāyayāt)
+[as](yathā) [for-us](no) [better](vasyasaskarad) [as](yathā) [for-us](naḥ) [more-auspicious](śreyasaskarad) [as](yathā) [for-us](no) [prosper](vyavasāyayāt)
 
 ## mukta-m0-p117-v2908
-[happiness](sukham) [to-me](meṣāya) [to-ewe](meṣyai)
+[happiness](sukham) [for-me](me) [sheep](meṣāya) [ewe](meṣyai) [ewe](meṣyai) [ewe](meṣyai)
 
 ## mukta-m0-p117-v2909
-[like-cucumber](urvārukamiva) [from-bondage](bandhanādito) [may-I-be-freed](mukṣīya) [not-from-death](māmutaḥ)
+[like-cucumber](urvārukamiva) [from-bondage](bandhanād) [thus](ito) [release](mukṣīya) [not](mā) [from-death](mṛtyoḥ)
 
 ## mukta-m0-p117-v2910
-[this](etatte) [rudra](rudrā) [by-arrow](vasantena) [beyond](paro) [mūjavat](mūjavato) [pass](atīhi)
+[this](etat) [your](te) [rudra](rudrā) [with-arrow](vasantena) [beyond](paro) [mūjavat](mūjavato) [pass](atīhi)
 
 ## mukta-m0-p117-v2911
-[what](yad) [among-gods](deveṣu) [three-lifespans](tryāyuṣantanno) [be](astu) [three-lifespans](tryāyuṣam)
+[what](yad) [among-gods](deveṣu) [three-lifespans](tryāyuṣam) [for-us](tanno) [be](astu) [three-lifespans](tryāyuṣam)
 
 ## mukta-m0-p117-v2912
-[for-good-virility](suvīryāya)
+[for-good-virility](suvīryāya) [virility](vīryāya) [virility](vīryāya) [virility](vīryāya)
 
 ## mukta-m0-p117-v2913
-[all-first](vviśvādya) [all-praised](vviśvavandyannikhilabhayaharampañcavaktrantrinetram)
+[all](vviśva) [today](adya) [all](vviśva) [venerable](vandyam) [all-fear-removing](nikhilabhayaharam) [five-faced](pañcavaktram) [three-eyed](trinetram)
 
 ## mukta-m0-p117-v2914
-[firm](sthirāyanamaḥ) [pillar](sthāṇavenamaḥ) [origin](prabhavenamaḥ)
+[firm](sthirāya) [salutation](namaḥ) [pillar](sthāṇave) [salutation](namaḥ) [origin](prabhave) [salutation](namaḥ)
 
 ## mukta-m0-p117-v2915
-[terrible](bhīmāyanamaḥ) [excellent](pravarāyanamaḥ) [boon-giver](varadāyanamaḥ)
+[terrible](bhīmāya) [salutation](namaḥ) [excellent](pravarāya) [salutation](namaḥ) [boon-giver](varadāya) [salutation](namaḥ)
 
 ## mukta-m0-p117-v2916
-[boon](varāyanamaḥ) [all-soul](sarvātmanenamaḥ) [all-famous](sarvavikhyātāyanamaḥ)
+[boon](varāya) [salutation](namaḥ) [all-soul](sarvātmane) [salutation](namaḥ) [all-famous](sarvavikhyātāya) [salutation](namaḥ)
 
 ## mukta-m0-p117-v2917
-[all](sarvasmainamaḥ) [all-doer](sarvakarāyanamaḥ) [becoming](bhavāyanamaḥ)
+[all](sarvasmai) [salutation](namaḥ) [all-doer](sarvakarāya) [salutation](namaḥ) [becoming](bhavāya) [salutation](namaḥ)
 
 ## mukta-m0-p117-v2918
-[matted-hair](jaṭinenamaḥ) [leather-clad](carmmiṇenamaḥ) [peacock-feathered](śikhaṇḍinenamaḥ)
+[matted-hair](jaṭine) [salutation](namaḥ) [leather-clad](carmiṇe) [salutation](namaḥ) [peacock-feathered](śikhaṇḍine) [salutation](namaḥ)
 
 ## mukta-m0-p117-v2919
-[all-limbed](sarvāṅgāyanamaḥ) [all-nourishing](sarvabhāvanāyanamaḥ)
+[all-limbed](sarvāṅgāya) [salutation](namaḥ) [all-being](sarvabhāvanāya) [salutation](namaḥ) [salutation](namaḥ) [salutation](namaḥ)
 
 ## mukta-m0-p117-v2920
-[origin](prabhavenamaḥ) [proceeding](pravṛttayenamaḥ) [returning](nivṛttāyanamaḥ)
+[origin](prabhave) [salutation](namaḥ) [proceeding](pravṛttaye) [salutation](namaḥ) [return](nivṛttāya) [salutation](namaḥ)
 
 ## mukta-m0-p117-v2921
-[restrained](niyatāyanamaḥ) [eternal](śāśvatāyanamaḥ) [firm](dhruvāyanamaḥ)
+[regulated](niyatāya) [salutation](namaḥ) [eternal](śāśvatāya) [salutation](namaḥ) [firm](dhruvāya) [salutation](namaḥ)
 
 ## mukta-m0-p117-v2922
-[cremation-dweller](śmaśānavāsinenamaḥ) [bhagavat](bhagavatenamaḥ) [sky-goer](khacarāyanamaḥ)
+[cremation-ground-dweller](śmaśānavāsine) [salutation](namaḥ) [blessed](bhagavate) [salutation](namaḥ) [sky-goer](khacarāya) [salutation](namaḥ)
 
 ## mukta-m0-p117-v2923
-[cow-goer](gocarāyanamaḥ) [half](arddanāyanamaḥ) [worshipped](abhivādyāyanamaḥ)
+[cow-goer](gocarāya) [salutation](namaḥ) [half](arddanāya) [salutation](namaḥ) [to-be-saluted](abhivādyāya) [salutation](namaḥ)
 
 ## mukta-m0-p117-v2924
-[great-actor](mahākarmaṇenamaḥ)
+[great-deed](mahākarmaṇe) [salutation](namaḥ) [salutation](namaḥ) [salutation](namaḥ) [salutation](namaḥ)
 
 ## mukta-m0-p117-v2925
-[ascetic](tapasvinenamaḥ) [being-nourisher](bhūtabhāvanāyanamaḥ)
+[ascetic](tapasvine) [salutation](namaḥ) [being-creator](bhūtabhāvanāya) [salutation](namaḥ) [salutation](namaḥ) [salutation](namaḥ)

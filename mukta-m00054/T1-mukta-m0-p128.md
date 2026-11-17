@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p128-v3176
-[mantra](ratnāṅgāyanamaḥ) [mantra](mahārṇavanipānavidenamaḥ)
+[jewel-limbed-one](ratnāṅgāya) [homage](namaḥ) [great-ocean-drinking-place-knower](mahārṇavanipānavide) [homage](namaḥ)
 
 ## mukta-m0-p128-v3177
-[mantra](mūlāyanamaḥ) [mantra](viśālāyanamaḥ) [mantra](amṛtāyanamaḥ)
+[root-one](mūlāya) [homage](namaḥ) [vast-one](viśālāya) [homage](namaḥ) [nectar-one](amṛtāya) [homage](namaḥ)
 
 ## mukta-m0-p128-v3178
-[mantra](vyaktāvyaktāyanamaḥ) [mantra](taponidhayenamaḥ) [mantra](ārohaṇāyanamaḥ)
+[manifest-unmanifest-one](vyaktāvyaktāya) [homage](namaḥ) [austerity-treasure](taponidhaye) [homage](namaḥ) [ascent-one](ārohaṇāya) [homage](namaḥ)
 
 ## mukta-m0-p128-v3179
-[mantra](adhirodhāyanamaḥ) [mantra](śūladhāriṇenamaḥ)
+[over-rider](adhirodhāya) [homage](namaḥ) [trident-bearer](śūladhāriṇe) [homage](namaḥ)
 
 ## mukta-m0-p128-v3180
-[mantra](mahāyaśasenamaḥ) [mantra](senākalpāyanamaḥ) [mantra](mahākalpāyanamaḥ)
+[great-glory-one](mahāyaśase) [homage](namaḥ) [army-arranger](senākalpāya) [homage](namaḥ) [great-age-one](mahākalpāya) [homage](namaḥ)
 
 ## mukta-m0-p128-v3181
-[mantra](yogāyanamaḥ) [mantra](yugakarāyanamaḥ) [mantra](harayenamaḥ)
+[yoga-one](yogāya) [homage](namaḥ) [age-maker](yugakarāya) [homage](namaḥ) [tawny-one](haraye) [homage](namaḥ)
 
 ## mukta-m0-p128-v3182
-[mantra](yugarūpāyanamaḥ) [mantra](mahārūpāyanamaḥ)
+[age-formed-one](yugarūpāya) [homage](namaḥ) [great-formed-one](mahārūpāya) [homage](namaḥ)
 
 ## mukta-m0-p128-v3183
-[mantra](mahānāgahanāyanamaḥ) [mantra](vadhāyanamaḥ)
+[great-serpent-slayer](mahānāgahanāya) [homage](namaḥ) [slayer-one](vadhāya) [homage](namaḥ)
 
 ## mukta-m0-p128-v3184
-[mantra](nyāyanirvapaṇāyanamaḥ) [mantra](pādāyanamaḥ) [mantra](paṇḍitāyanamaḥ)
+[justice-bestower](nyāyanirvapaṇāya) [homage](namaḥ) [foot-one](pādāya) [homage](namaḥ) [scholar-one](paṇḍitāya) [homage](namaḥ)
 
 ## mukta-m0-p128-v3185
-[mantra](acalopamāyanamaḥ) [mantra](bahumālāyanamaḥ)
+[immovable-like-one](acalopamāya) [homage](namaḥ) [many-garland-one](bahumālāya) [homage](namaḥ)
 
 ## mukta-m0-p128-v3186
-[mantra](mahāmālāyanamaḥ) [mantra](śaśiharasulocanāyanamaḥ)
+[great-garland-one](mahāmālāya) [homage](namaḥ) [moon-hara-beautiful-eye-one](śaśiharasulocanāya) [homage](namaḥ)
 
 ## mukta-m0-p128-v3187
-[mantra](vistāralavaṇakūpāyanamaḥ) [mantra](triyugāyanamaḥ)
+[wide-salt-well-one](vistāralavaṇakūpāya) [homage](namaḥ) [three-age-one](triyugāya) [homage](namaḥ)
 
 ## mukta-m0-p128-v3188
-[mantra](maṇividdhāyanamaḥ) [mantra](jaṭādharāyanamaḥ)
+[jewel-pierced-one](maṇividdhāya) [homage](namaḥ) [matted-hair-bearer](jaṭādharāya) [homage](namaḥ)
 
 ## mukta-m0-p128-v3189
-[mantra](bindavenamaḥ) [mantra](visargāyanamaḥ) [mantra](sumukhāyanamaḥ)
+[drop-one](bindave) [homage](namaḥ) [emission-one](visargāya) [homage](namaḥ) [fair-faced-one](sumukhāya) [homage](namaḥ)
 
 ## mukta-m0-p128-v3190
-[mantra](śarāyanamaḥ) [mantra](sarvāyudhāyanamaḥ) [mantra](sahāyanamaḥ)
+[arrow-one](śarāya) [homage](namaḥ) [all-weapon-one](sarvāyudhāya) [homage](namaḥ) [companion-one](sahāya) [homage](namaḥ)
 
 ## mukta-m0-p128-v3191
-[mantra](nivedanāyanamaḥ) [mantra](sukhājātāyanamaḥ) [mantra](sugandhārāyanamaḥ)
+[offering-one](nivedanāya) [homage](namaḥ) [happily-born-one](sukhājātāya) [homage](namaḥ) [fragrant-one](sugandhārāya) [homage](namaḥ)
 
 ## mukta-m0-p128-v3192
-[mantra](mahādhanuṣenamaḥ) [mantra](gandhapālibhagavatenamaḥ)
+[great-bow-one](mahādhanuṣe) [homage](namaḥ) [fragrance-protector-lord](gandhapālibhagavate) [homage](namaḥ)
 
 ## mukta-m0-p128-v3193
-[mantra](sarvakarmotthānāyanamaḥ) [mantra](manthānabahulavāyavenamaḥ)
+[all-action-riser](sarvakarmotthānāya) [homage](namaḥ) [churner-many-wind-one](manthānabahulavāyave) [homage](namaḥ)
 
 ## mukta-m0-p128-v3194
-[mantra](sakalāyanamaḥ) [mantra](sarvalocanāyanamaḥ) [mantra](talastālāyanamaḥ)
+[all-one](sakalāya) [homage](namaḥ) [all-eye-one](sarvalocanāya) [homage](namaḥ) [clap-clapper-one](talastālāya) [homage](namaḥ)
 
 ## mukta-m0-p128-v3195
-[mantra](chatrāyanamaḥ) [mantra](succhatrāyanamaḥ)
+[parasol-one](chatrāya) [homage](namaḥ) [good-parasol-one](succhatrāya) [homage](namaḥ)
 
 ## mukta-m0-p128-v3196
-[mantra](vikhyātalokāyanamaḥ) [mantra](sarvāśrayakramāyanamaḥ)
+[renowned-world-one](vikhyātalokāya) [homage](namaḥ) [all-refuge-order-one](sarvāśrayakramāya) [homage](namaḥ)
 
 ## mukta-m0-p128-v3197
-[mantra](muṇḍāyanamaḥ) [mantra](virūpāyanamaḥ) [mantra](vikṛtāyanamaḥ)
+[shaven-one](muṇḍāya) [homage](namaḥ) [deformed-one](virūpāya) [homage](namaḥ) [distorted-one](vikṛtāya) [homage](namaḥ)
 
 ## mukta-m0-p128-v3198
-[mantra](daṇḍinenamaḥ) [mantra](kuṇḍinenamaḥ) [mantra](vikurvāṇāyanamaḥ)
+[staff-bearer](daṇḍine) [homage](namaḥ) [pot-bearer](kuṇḍine) [homage](namaḥ) [wonder-worker](vikurvāṇāya) [homage](namaḥ)
 
 ## mukta-m0-p128-v3199
-[mantra](haryakṣāyanamaḥ) [mantra](kakubhāyanamaḥ) [mantra](vajriṇenamaḥ)
+[tawny-eyed-one](haryakṣāya) [homage](namaḥ) [quarter-one](kakubhāya) [homage](namaḥ) [thunderbolt-bearer](vajriṇe) [homage](namaḥ)
 
 ## mukta-m0-p128-v3200
-[mantra](śatajihvāyanamaḥ) [mantra](sahasrapatsahasramūrddhnenamaḥ)
+[hundred-tongued-one](śatajihvāya) [homage](namaḥ) [thousand-foot-thousand-headed-one](sahasrapatsahasramūrddhne) [homage](namaḥ)

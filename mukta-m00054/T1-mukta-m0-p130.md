@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p130-v3226
-[ṛtave-namaḥ](ṛtavenamaḥ) [sa-vvatsarāya-namaḥ](sa/vvatsarāyanamaḥ) [māsāya-namaḥ](māsāyanamaḥ)
+[season-salutation](ṛtavenamaḥ) [year-salutation](sa/vvatsarāyanamaḥ) [month-salutation](māsāyanamaḥ)
 
 ## mukta-m0-p130-v3227
-[pakṣāya-namaḥ](pakṣāyanamaḥ) [saṅkhyā-samāpanāya-namaḥ](saṅkhyāsamāpanāyanamaḥ) [kalāyai-namaḥ](kalāyainamaḥ)
+[fortnight-salutation](pakṣāyanamaḥ) [number-completion-salutation](saṅkhyāsamāpanāyanamaḥ) [digit-salutation](kalāyainamaḥ)
 
 ## mukta-m0-p130-v3228
-[kāṣṭhāyai-namaḥ](kāṣṭhāyainamaḥ) [lavebhyaḥ-namaḥ](lavebhyonamaḥ) [mātrābhyaḥ-namaḥ](mātrābhyonamaḥ)
+[kāṣṭhā-salutation](kāṣṭhāyainamaḥ) [lava-salutation](lavebhyonamaḥ) [mātrā-salutation](mātrābhyonamaḥ)
 
 ## mukta-m0-p130-v3229
-[muhūrtta-ahaḥ-kṣapābhyaḥ-namaḥ](muhūrttāhaḥkṣapābhyonamaḥ) [kṣaṇebhyaḥ-namaḥ](kṣaṇebhyonamaḥ)
+[muhūrta-day-night-salutation](muhūrttāhaḥkṣapābhyonamaḥ) [moment-salutation](kṣaṇebhyonamaḥ)
 
 ## mukta-m0-p130-v3230
-[ādya-nirgamāya-namaḥ](ādyanirgamāyanamaḥ) [sate-namaḥ](satenamaḥ) [asate-namaḥ](asatenamaḥ)
+[first-emergence-salutation](ādyanirgamāyanamaḥ) [being-salutation](satenamaḥ) [nonbeing-salutation](asatenamaḥ)
 
 ## mukta-m0-p130-v3231
-[vyaktāya-namaḥ](vyaktāyanamaḥ) [avyaktāya-namaḥ](avyaktāyanamaḥ) [pitre-namaḥ](pitrenamaḥ)
+[manifest-salutation](vyaktāyanamaḥ) [unmanifest-salutation](avyaktāyanamaḥ) [father-salutation](pitrenamaḥ)
 
 ## mukta-m0-p130-v3232
-[mātre-namaḥ](mātrenamaḥ) [pitāmahāya-namaḥ](pitāmahāyanamaḥ) [svarga-dvārāya-namaḥ](svargadvārāyanamaḥ)
+[mother-salutation](mātrenamaḥ) [grandfather-salutation](pitāmahāyanamaḥ) [heaven-gate-salutation](svargadvārāyanamaḥ)
 
 ## mukta-m0-p130-v3233
-[prajā-dvārāya-namaḥ](prajādvārāyanamaḥ) [mokṣa-dvārāya-namaḥ](mokṣadvārāyanamaḥ)
+[progeny-gate-salutation](prajādvārāyanamaḥ) [liberation-gate-salutation](mokṣadvārāyanamaḥ)
 
 ## mukta-m0-p130-v3234
-[brahma-lokāya-namaḥ](brahmalokāyanamaḥ) [parā-gataye-namaḥ](parāgatayenamaḥ)
+[brahma-world-salutation](brahmalokāyanamaḥ) [supreme-arrival-salutation](parāgatayenamaḥ)
 
 ## mukta-m0-p130-v3235
-[deva-asura-vinirmātre-namaḥ](devāsuravinirmātrenamaḥ) [deva-asura-parāyaṇāya-namaḥ](devāsuraparāyaṇāyanamaḥ)
+[deva-asura-creator-salutation](devāsuravinirmātrenamaḥ) [deva-asura-refuge-salutation](devāsuraparāyaṇāyanamaḥ)
 
 ## mukta-m0-p130-v3236
-[deva-asura-gurave-namaḥ](devāsuraguravenamaḥ) [devāya-namaḥ](devāyanamaḥ)
+[deva-asura-teacher-salutation](devāsuraguravenamaḥ) [deva-salutation](devāyanamaḥ)
 
 ## mukta-m0-p130-v3237
-[deva-asura-namaskṛtāya-namaḥ](devāsuranamaskṛtāyanamaḥ) [deva-asura-mahā-mātrāya-namaḥ](devāsuramahāmātrāyanamaḥ)
+[deva-asura-revered-salutation](devāsuranamaskṛtāyanamaḥ) [deva-asura-great-minister-salutation](devāsuramahāmātrāyanamaḥ)
 
 ## mukta-m0-p130-v3238
-[deva-asura-gaṇa-agraṇye-namaḥ](devāsuragaṇāgraṇyenamaḥ) [deva-atidevāya-namaḥ](devātidevāyanamaḥ)
+[deva-asura-troop-leader-salutation](devāsuragaṇāgraṇyenamaḥ) [deva-above-deva-salutation](devātidevāyanamaḥ)
 
 ## mukta-m0-p130-v3239
-[deva-ṛṣaye-namaḥ](devarṣṣayenamaḥ) [deva-asura-vara-pradāya-namaḥ](devāsuravarapradāyanamaḥ)
+[deva-ṛṣi-salutation](devarṣṣayenamaḥ) [deva-asura-boon-giver-salutation](devāsuravarapradāyanamaḥ)
 
 ## mukta-m0-p130-v3240
-[deva-asura-īśvarāya-namaḥ](devāsureśvarāyanamaḥ) [viśvāya-namaḥ](viśvāyanamaḥ)
+[deva-asura-lord-salutation](devāsureśvarāyanamaḥ) [universe-salutation](viśvāyanamaḥ)
 
 ## mukta-m0-p130-v3241
-[deva-asura-mahā-īśvarāya-namaḥ](devāsuramaheśvarāyanamaḥ) [sarva-deva-mayāya-namaḥ](sarvadevamayāyanamaḥ)
+[deva-asura-great-lord-salutation](devāsuramaheśvarāyanamaḥ) [all-deva-embodied-salutation](sarvadevamayāyanamaḥ)
 
 ## mukta-m0-p130-v3242
-[acintyāya-namaḥ](acintyāyanamaḥ) [deva-ātmane-namaḥ](devātmanenamaḥ) [ātma-sambhavāya-namaḥ](ātmasambhavāyanamaḥ)
+[inconceivable-salutation](acintyāyanamaḥ) [deva-self-salutation](devātmanenamaḥ) [self-born-salutation](ātmasambhavāyanamaḥ)
 
 ## mukta-m0-p130-v3243
-[virajāya-namaḥ](virajāyanamaḥ) [nīrajāya-namaḥ](nīrajāyanamaḥ) [amarāya-namaḥ](amarāyanamaḥ)
+[stainless-salutation](virajāyanamaḥ) [dustless-salutation](nīrajāyanamaḥ) [immortal-salutation](amarāyanamaḥ)
 
 ## mukta-m0-p130-v3244
-[īḍyāya-namaḥ](īḍyāyanamaḥ) [hastī-īśvarāya-namaḥ](hastīśvarāyanamaḥ) [vyāghrāya-namaḥ](vyāghrāyanamaḥ)
+[praiseworthy-salutation](īḍyāyanamaḥ) [elephant-lord-salutation](hastīśvarāyanamaḥ) [tiger-salutation](vyāghrāyanamaḥ)
 
 ## mukta-m0-p130-v3245
-[deva-siṃhāya-namaḥ](devasiṃhāyanamaḥ) [nara-ṛṣabhāya-namaḥ](nararṣabhāyanamaḥ) [vibudhāya-namaḥ](vibudhāyanamaḥ)
+[deva-lion-salutation](devasiṃhāyanamaḥ) [man-bull-salutation](nararṣabhāyanamaḥ) [wise-salutation](vibudhāyanamaḥ)
 
 ## mukta-m0-p130-v3246
-[agra-varāya-namaḥ](agravarāyanamaḥ) [sūkṣmāya-namaḥ](sūkṣmāyanamaḥ) [sarva-devāya-namaḥ](sarvadevāyanamaḥ)
+[foremost-excellent-salutation](agravarāyanamaḥ) [subtle-salutation](sūkṣmāyanamaḥ) [all-deva-salutation](sarvadevāyanamaḥ)
 
 ## mukta-m0-p130-v3247
-[tapo-mayāya-namaḥ](tapomayāyanamaḥ) [su-yuktāya-namaḥ](suyuktāyanamaḥ) [śobhanāya-namaḥ](śobhanāyanamaḥ)
+[austerity-embodied-salutation](tapomayāyanamaḥ) [well-joined-salutation](suyuktāyanamaḥ) [auspicious-salutation](śobhanāyanamaḥ)
 
 ## mukta-m0-p130-v3248
-[vajriṇe-namaḥ](vajriṇenamaḥ) [prāsānām-prabhavāya-namaḥ](prāsānāmprabhavāyanamaḥ)
+[thunderbolt-bearer-salutation](vajriṇenamaḥ) [weapon-origin-salutation](prāsānāmprabhavāyanamaḥ)
 
 ## mukta-m0-p130-v3249
-[avyayāya-namaḥ](avyayāyanamaḥ) [guhāya-namaḥ](guhāyanamaḥ) [kāntāya-namaḥ](kāntāyanamaḥ)
+[imperishable-salutation](avyayāyanamaḥ) [cave-salutation](guhāyanamaḥ) [beloved-salutation](kāntāyanamaḥ)
 
 ## mukta-m0-p130-v3250
-[śṛṅgiṇe-namaḥ](śṛṅgiṇenamaḥ) [śṛṅga-priyāya-namaḥ](śṛṅgapriyāyanamaḥ) [babhrave-namaḥ](babhravenamaḥ)
+[horned-salutation](śṛṅgiṇenamaḥ) [horn-lover-salutation](śṛṅgapriyāyanamaḥ) [brown-salutation](babhravenamaḥ)

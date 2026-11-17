@@ -2,10 +2,10 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p102-v2526
-[you](tvam) [this](etad) [day](dinam) [beginning-from](ārabhya) [named](amuka) [joy](ānanda) [lord](nātha) [called](ākhyaḥ) [are](asi) [thus](iti)
+[you](tvam) [this](etat) [day](dinam) [beginning](ārabhya) [bliss-lord](ānandanātha) [named](ākhyo) [are](asi) [iti](iti)
 
 ## mukta-m0-p102-v2527
-[holy-teacher's](śrīguroḥ) [feet](caraṇau) [touching](spṛṣṭvā) [with-devotion](bhaktyā) [bowing](natvā) [this](idam) [request](arthayet)
+[holy-guru](śrīguroḥ) [feet](caraṇau) [having-touched](spṛṣṭvā) [with-devotion](bhaktyā) [having-bowed](natvā) [this](idam) [request](arthayet)
 
 ## mukta-m0-p102-v2528
 [supreme-nectar](parāmṛta) [giving](pradānena) [fulfill](pūraya) [our](asmad) [desire](manoratham)
@@ -14,64 +14,64 @@
 [to-good-disciple](sacchiṣyāya) [humble](vinītāya) [give](dadāmi) [supreme-nectar](paramāmṛtam)
 
 ## mukta-m0-p102-v2530
-[accomplished](kṛtārthaṃ) [make](kuru) [good-disciple](sacchiṣyaṃ) [give](dehi) [to-him](amuṣmai) [family-nectar](kulāmṛtam)
+[accomplished](kṛtārtham) [make](kuru) [good-disciple](sacchiṣyam) [give](dehi) [to-him](amuṣmai) [family-nectar](kulāmṛtam)
 
 ## mukta-m0-p102-v2531
-[purified](saśuddhikaṃ) [drinking-vessel](pānapātraṃ) [disciple's-hand](śiṣyahaste) [offer](samarpayet)
+[purified](saśuddhikam) [drinking-vessel](pānapātram) [in-disciple-hand](śiṣyahaste) [should-place](samarpayet)
 
 ## mukta-m0-p102-v2532
-[own](svasya) [disciple's](śiṣyasya) [kaula's](kaulānāṃ) [tuft](kūrce) [tilaka](tilakaṃ) [place](nyaset)
+[of-own](svasya) [disciple](śiṣyasya) [of-kaulas](kaulānām) [in-tuft](kūrce) [tilaka](tilakam) [should-place](nyaset)
 
 ## mukta-m0-p102-v2533
-[cakra-rite](cakrānuṣṭhāna) [procedure](vidhinā) [perform](vidadhyāt) [drinking-eating](pānabhojanam)
+[by-circle-rite](cakrānuṣṭhāna) [procedure](vidhinā) [should-arrange](vidadhyāt) [drinking-eating](pānabhojanam)
 
 ## mukta-m0-p102-v2534
-[brahma-knowledge](brahmajñāna) [only-birth](ekajananaṃ) [shiva-state](śivatva) [fruit-accomplishment](phalasādhanam)
+[brahma-knowledge](brahmajñāna) [only-birth](ekajanana) [śiva-state](śivatva) [fruit-accomplishment](phalasādhanam)
 
 ## mukta-m0-p102-v2535
-[or](atha) [also](vā) [one-night](ekarātraṃ) [ca](ca) [perform](kuryāt) [full-abhisheka](pūrṇābhiṣecanam)
+[or](atha) [vā](vā) [one-night](ekarātram) [ca](ca) [should-do](kuryāt) [full-abhiṣeka](pūrṇābhiṣecanam)
 
 ## mukta-m0-p102-v2536
-[to-teacher](gurave) [giving](dattvā) [shiva-natured](śivātmakān) [shiva-formed](śivasvarūpān) [kaulas](kaulān) [worship](yajet)
+[to-guru](gurave) [having-given](dattvā) [śiva-natured](śivātmakān) [śiva-formed](śivasvarūpān) [kaulas](kaulān) [should-worship](yajet)
 
 ## mukta-m0-p102-v2537
 [request](arthayet) [beg](yācet)
 
 ## mukta-m0-p102-v2538
-[nine-nights](navarātre) [to-be-done](vidhātavyaṃ) [all-around-auspicious-mandala](sarvatobhadramaṇḍalam)
+[nine-nights](navarātre) [should-be-done](vidhātavyam) [all-auspicious-maṇḍala](sarvatobhadramaṇḍalam)
 
 ## mukta-m0-p102-v2539
-[three-nights](trirātre) [and](ca) [one-night](ekarātre) [ca](ca) [lotus](padma) [eight-petaled](aṣṭadalaṃ) [dear](priye)
+[three-nights](trirātre) [ca](ca) [one-night](ekarātre) [ca](ca) [lotus-eight-petaled](padmamaṣṭadalaṃ) [dear](priye)
 
 ## mukta-m0-p102-v2540
-[to-be-placed](sthāpanīyā) [nine](nava) [pots](ghaṭāḥ) [five](pañca) [lotus](abje) [five-numbered](pañcasaṅkhyakāḥ)
+[should-be-placed](sthāpanīyāḥ) [nine](nava) [pots](ghaṭāḥ) [five-lotus](pañcābje) [five-numbered](pañcasaṅkhyakāḥ)
 
 ## mukta-m0-p102-v2541
-[limb-covering-deities](aṅgāvaraṇadevāṃśca) [and](ca) [in-filaments-etc](kesarādiṣu) [worship](pūjayet)
+[limb-covering-deities](aṅgāvaraṇadevān) [ca](ca) [in-filament-etc](kesarādiṣu) [should-worship](pūjayet)
 
 ## mukta-m0-p102-v2542
-[by-sight](darśanāt) [by-touch](sparśanād) [by-smell](ghrāṇād) [substance-purification](dravyaśuddhir) [is-prescribed](vidhīyate)
+[by-sight](darśanāt) [by-touch](sparśanāt) [by-smell](ghrāṇāt) [substance-purity](dravyaśuddhiḥ) [is-prescribed](vidhīyate)
 
 ## mukta-m0-p102-v2543
-[kaula-dharma](kauladharmā) [resorted](āśritaḥ) [saint](sādhuḥ) [to-be-worshipped](pūjanīyo) [with-great-effort](atiyatnataḥ)
+[kaula-dharma](kauladharmāśritaḥ) [saint](sādhuḥ) [worship-worthy](pūjanīyaḥ) [with-great-effort](atiyatnataḥ)
 
 ## mukta-m0-p102-v2544
-[vaishnava](vaiṣṇave) [vaishnava](vaiṣṇavaḥ) [saurya](saure) [saurya](sauro) [teacher](gurur) [called](udāhṛtaḥ)
+[for-vaiṣṇava](vaiṣṇave) [vaiṣṇava](vaiṣṇavaḥ) [for-saura](saure) [saura](sauro) [guru](gurur) [is-called](udāhṛtaḥ)
 
 ## mukta-m0-p102-v2545
-[therefore](ataḥ) [wholly](sarvātmanā) [wise](dhīmān) [from-kaula](kaulād) [initiation](dīkṣāṃ) [perform](samācaret)
+[therefore](ataḥ) [with-whole-self](sarvātmanā) [wise](dhīmān) [from-kaula](kaulāt) [initiation](dīkṣām) [should-perform](samācaret)
 
 ## mukta-m0-p102-v2546
-[extracting](uddhṛtya) [persons](puruṣān) [all](sarvāṃs) [they](te) [go](yānti) [supreme](paramāṃ) [destination](gatim)
+[having-lifted](uddhṛtya) [persons](puruṣān) [all](sarvān) [they](te) [go](yānti) [supreme](paramām) [state](gatim)
 
 ## mukta-m0-p102-v2547
-[from-hero](vīrāt) [obtained](labdham) [manu-hero](anurvīraḥ) [from-kaula](kaulād) [becomes](bhavati) [brahma-knower](brahmavit)
+[from-vīra](vīrāt) [obtained](labdham) [anu-vīra](anurvīraḥ) [from-kaula](kaulāt) [becomes](bhavati) [brahma-knower](brahmavit)
 
 ## mukta-m0-p102-v2548
-[own-worship-rite](sveṣṭapūjāvidhau) [eva](eva) [not](na) [tu](tu) [cakra-lord](cakreśvaro) [becomes](bhavet)
+[in-own-worship-rite](sveṣṭapūjāvidhau) [eva](eva) [not](na) [tu](tu) [circle-lord](cakreśvaraḥ) [becomes](bhavet)
 
 ## mukta-m0-p102-v2549
 [thief](steyī) [great-sinner](mahāpātakinaḥ) [that-associate](tatsaṃsargī) [ca](ca) [fifth](pañcamaḥ)
 
 ## mukta-m0-p102-v2550
-[who](ye) [revile](nindanti) [evil-souled](durātmānaḥ) [te](te) [go](gacchanti) [lowest](adhamāṃ) [destination](gatim)
+[who](ye) [revile](nindanti) [evil-souled](durātmānaḥ) [te](te) [go](gacchanti) [lowest](adhamām) [state](gatim)
