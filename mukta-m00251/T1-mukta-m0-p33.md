@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p33-v801
-[soul](jīvaḥ) [grass-born-worm](tṛṇa-ja-duke) [like](iva) [from-body](dehāt) [to-body](dehām) [enters](viśet) [gradually](kramāt)
+soul(jīvaḥ) grass-worm(tṛṇa+jaḍūka) like(iva) from-body(dehāt) to-body(dehām) enters(viśet) gradually(kramāt)
 
 ## mukta-m0-p33-v802
-[by-many-diseases](nānā-vyādhi-samākīrṇe) [by-sense-objects](viṣaya-uraga-bhūṣite) [adorned](bhūṣite)
+various-diseases(nānā+vyādhi) filled-with(samākīrṇe) sense-objects(viṣaya) serpent-ornamented(uraga+bhūṣite)
 
 ## mukta-m0-p33-v803
-[by-desire-anger-birth-pains](kāma-krodha-bhavaiḥ-tāpaiḥ) [again-and-again](muhur-muhur) [burned](atāpitaḥ)
+desire-anger-birth-pains(kāma+krodha+bhava+tāpaiḥ) again-and-again(muhur+muhur) scorched(atāpitaḥ)
 
 ## mukta-m0-p33-v804
-[by-thought-grief-full](cintā-śoka-susaṃpūrṇe) [alas](aho) [goddess](devi) [very-sorrowful](suduḥkhitaḥ)
+thought-grief-filled(cintā+śoka+saṃpūrṇe) alas(aho) goddess(devi) very-sorrowful(su+duḥkhitaḥ)
 
 ## mukta-m0-p33-v805
-[by-feces-urine-semen-full](viṇ-mūtra-retasa-saṃpūrṇe) [how](katham) [here](atra) [delight](ramāmi) [I](aham)
+feces-urine-semen-filled(viṇ+mūtra+retas+saṃpūrṇe) how(katham) here(atra) delight(ramāmi) I(aham)
 
 ## mukta-m0-p33-v806
-[useless](anarthāni) [pleasant](manojñāni) [thus](tadvat) [this-body](etac-charīrakam)
+useless(anarthāni) pleasing(manojñāni) likewise(tadvat) this-body(etat+śarīrakam)
 
 ## mukta-m0-p33-v807
-[by-truth-grasping-full](tatva-grāha-samākīrṇe) [in-boat-knowledge-ocean](plava-uda-jñāna-sāgare)
+truth-grasp-filled(tattva+grāha+samākīrṇe) raft-ignorance-ocean(plava+udajñāna+sāgare)
 
 ## mukta-m0-p33-v808
-[for-long](suciraṃ) [long-sigh](dīrgha-niśvāsam) [releasing](utsṛjya) [and-lamenting](parivedya) [ca](ca)
+long-deep-sigh(su+ciraṃ+dīrgha+niśvāsam) releasing(utsṛjya) and(ca) proclaiming(parivedya)
 
 ## mukta-m0-p33-v809
-[by-sons-house-wealth](putra-āgāra-ādi-aiśvarya) [agitated-mind](vyākulīkṛta-mānasaḥ)
+sons-house-wealth-disturbed(putra+āgāra+ādi+aiśvarya+vyākulīkṛta+mānasaḥ)
 
 ## mukta-m0-p33-v810
-[skin-wealth](tvac-ārthāḥ) [and](tva) [friends](mitrāṇi) [and](tva) [relatives](bāndhavāḥ) [and](tva) [houses](gṛhāṇi) [indeed](vai)
+skin-wealths(tva+arthāḥ) and(tva) friends(mitrāṇi) relatives(bāndhavāḥ) and(tva) houses(gṛhāṇi) indeed(vai)
 
 ## mukta-m0-p33-v811
-[for-sons-wife-family](putra-dāra-kuṭuṃba-arthāḥ) [like-enemies](śatṛ-vat) [appear](pratibhānti) [to-me](me)
+sons-wives-family-for(putra+dāra+kuṭuṃba+arthāḥ) enemies-like(śatṛ+vat) appear(pratibhānti) to-me(me)
 
 ## mukta-m0-p33-v812
-[according-to-that](tasya-anusadṛśaṃ) [enjoys](bhuṅkte) [fruit](phalam) [alone](ekaḥ) [in-another-birth](anya-janmani)
+accordingly(tasya+anu+sadṛśaṃ) enjoys(bhuṅkte) fruit(phalam) alone(ekaḥ) other-birth(anya+janmani)
 
 ## mukta-m0-p33-v813
-[for-enjoyment](bhogāya) [devised](kalpitāḥ) [by-him](tena) [sorrowful](duḥkhitāḥ)
+these(eṣām) resorting(āśritya) for-enjoyment(bhogāya) created(kalpitāḥ) by-him(tena) sorrowful(duḥkhitāḥ)
 
 ## mukta-m0-p33-v814
-[companions](sahāyāḥ) [not](na) [become](bhavanti) [these](ete) [nor](na) [follow](anugacchanti) [going](gacchatām)
+companions(sahāyāḥ) not(na) become(bhavanti) these(ete) nor(na) follow(anugacchanti) going(gacchatām)
 
 ## mukta-m0-p33-v815
-[alone](ekaḥ) [good-deed](sukṛtam) [eats](aśnāti) [thus](tathā) [evil-deed](duṣkṛtam) [indeed](eva) [ca](ca)
+one(ekaḥ) good-deed-enjoys(su+kṛtam+aśnāti) likewise(tathā) bad-deed(ca+eva)
 
 ## mukta-m0-p33-v816
-[renunciation](vairāgyam) [supreme](aparam) [taking](āsthāya) [seeks](mṛgayati) [soul's](ātmanaḥ) [course](gatim)
+dispassion-apara-adopting(vairāgya+m+aparam+āsthāya) seeks(mṛgayati) self's(ātmanaḥ) goal(gatim)
 
 ## mukta-m0-p33-v817
-[I-will-cross](santariṣye) [happily](sukhena) [I](aham) [soon](acirāt) [inauspicious-ocean](aśubha-arṇavam)
+cross(santariṣye) happily(sukhena) I(aham) soon(acirāt) inauspicious-ocean(aśubha+arṇavam)
 
 ## mukta-m0-p33-v818
-[like-boat](nauḥ-iva) [for-crossing](uttāraṇāya) [this](idaṃ) [ocean-of-world](saṃsāra-ambhonidhe) [remembered](smṛtaḥ)
+boat-like(nau+iva) for-crossing(uttāraṇāya) this(idam) world-ocean(saṃsāra+ambhonidhe) remembered(smṛtaḥ)
 
 ## mukta-m0-p33-v819
-[by-its-enjoyment](tad-asya-api-upabhogena) [to-destruction](kṣayam) [comes](āyāti) [completely](aśeṣataḥ)
+by-its-use(tad+asya+api+upabhogena) destruction(kṣayam) comes(āyāti) completely(aśeṣataḥ)
 
 ## mukta-m0-p33-v820
-[by-action](karmataḥ) [to-heaven](svargataḥ) [since](yasmāt) [therefore](tasmāt) [return](āvartanaṃ) [again](punaḥ)
+by-karma(karmataḥ) heaven-gone(svargataḥ) because(yasmāt) therefore(tasmāt) return(āvartanam) again(punaḥ)
 
 ## mukta-m0-p33-v821
-[seen](saṃpradṛṣṭā) [course](gatiḥ) [this](iyam) [all](sarve) [they](te) [perishable](kṣaya-dharmiṇaḥ)
+seen(saṃpradṛṣṭā) path(gatiḥ) this(iyam) all(sarve) they(te) perishable(kṣaya+dharmiṇaḥ)
 
 ## mukta-m0-p33-v822
-[many](bahavaḥ) [perish](kṣayam) [here](atra) [skilled](viśāradāḥ)
+many(bahavaḥ) perish(kṣayam) here(atra) experts(viśāradāḥ)
 
 ## mukta-m0-p33-v823
-[renounced](sanyastam) [api](api) [without-knowledge](avijñānāt) [upa](upa)
+renounced(sanyastam) also(api) unknowing(avijñānāt) upa(upa)
 
 ## mukta-m0-p33-v824
-[renunciation-course](vairāgya-vṛttiḥ) [another](aparā) [knowledge-course](jñāna-vṛttiḥ) [thus](tathā) [another](parā)
+dispassion-practice(vairāgya+vṛttiḥ) another(aparā) knowledge-practice(jñāna+vṛttiḥ) thus(tathā) another(parā)
 
 ## mukta-m0-p33-v825
-[by-qualities](guṇa-lakṣaṇāḥ) [marked](lakṣaṇāḥ)
+qualities-features(guṇa+lakṣaṇāḥ)
