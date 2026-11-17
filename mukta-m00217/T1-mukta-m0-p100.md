@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p100-v2476
-[to-deity](devatāyai) [having-offered](nivedya) [then](atha) [that](taṃ) [japa](japaṃ) [for-prosperity](saṃpade) [then](tataḥ)
+[to-deity](devatāyai) [offering](nivedyātha) [that](taṃ) [japa](japaṃ) [for-prosperity](saṃpade) [then](tataḥ)
 
 ## mukta-m0-p100-v2477
-[golden-cloth-joined](suvarṇa+vastra+saṃyuktaṃ) [vessel](karakaṃ) [water-filled](jala+pūritam)
+[golden-cloth-joined](suvarṇavastrasaṃyuktaṃ) [water-vessel](karakaṃ) [water-filled](jalapūritam)
 
 ## mukta-m0-p100-v2478
-[west-facing](paścima+āsyāṃ) [sword-shield-bearing](khaḍga+kheṭa+dhāriṇīṃ) [lion-seated](siṃha+saṃsthitām)
+[west-facing](paścimāsyāṃ) [sword-shield-bearing](khaḍgakheṭadhāriṇīṃ) [lion-seated](siṃhasaṃsthitām)
 
 ## mukta-m0-p100-v2479
-[let-him-wander-within](bhramet+antas+tu) [protect](rakṣa) [thus](iti) [of-world-lords](lokeśānām) [thus](iti) [saying](īrayan)
+[wander-inside](bhramedantastu) [protect](rakṣeti) [world-lords](lokeśānāmitīrayan)
 
 ## mukta-m0-p100-v2480
-[in-own-place](sva+sthāne) [let-him-place](sthāpayet) [that](taṃ) [indeed](tu) [with-phaṇ-mantra](phaṇ+mantreṇa) [then](tatas) [let-him-worship](arcayet)
+[own-place](svasthāne) [place-it](sthāpayettaṃ) [then](tu) [phan-mantra](phaṇmantreṇa) [then-worship](tato'rcayet)
 
 ## mukta-m0-p100-v2481
-[then](tatas) [fire](vahniṃ) [well-prepared](susaṃskṛtya) [caru](caruṃ) [with-cow-milk](gopayasā) [let-him-cook](pacet)
+[then](tato) [fire](vahniṃ) [well-purify](susaṃskṛtya) [oblation](caruṃ) [with-milk](gopayasā) [cook](pacet)
 
 ## mukta-m0-p100-v2482
-[with-root-mantra](mūla+aṇunā) [having-enchanted](abhimantrya) [then](atha) [rice-grains](taṇḍulān) [rice-born](śāli+sambhavān)
+[root-mantra](mūlāṇunābhimantryātha) [rice-grains](taṇḍulāñśālisambhavān)
 
 ## mukta-m0-p100-v2483
-[with-washed](prakṣālitena) [vessel](pātreṇa) [vessel-mouth](pātra+vaktraṃ) [covering](pidhāya) [and](ca)
+[washed](prakṣālitena) [vessel](pātreṇa) [vessel-mouth](pātravaktraṃ) [covering](pidhāya) [and](ca)
 
 ## mukta-m0-p100-v2484
-[let-him-cook](pacet) [guru](guruḥ) [east-facing](prāṅ+mukhaḥ) [indeed](tu) [cooked](svinne) [that](tam) [let-him-hold](abhidhārayet)
+[cook](paced) [guru](guruḥ) [east-facing](prāṅmukhastu) [when-cooked](svinne) [it-hold](tamabhidhārayet)
 
 ## mukta-m0-p100-v2485
-[with-huṃ-mantra](huṃ+mantreṇa) [weapon-enchanted](astra+saṃjapte) [kuśa-strewn](kuśa+āstīrṇe) [having-divided](vibhajya) [that](tat)
+[hum-mantra](huṃmantreṇāstrasaṃjapte) [kusha-spread](kuśāstīrṇe) [dividing](vibhajya) [that](tat)
 
 ## mukta-m0-p100-v2486
-[remainder](śiṣṭaṃ) [with-disciple](śiṣyeṇa+sahitaḥ) [guru](guruḥ) [let-him-eat](bhuñjīta) [mantra-knower](mantra+vit)
+[remainder](śiṣṭaṃ) [with-disciple](śiṣyeṇa) [together](sahito) [guru-eat](gururbhuñjīta) [mantra-knower](mantravit)
 
 ## mukta-m0-p100-v2487
-[forearm-measure](prādeśa+mātraṃ) [hṛṃ-enchanted](hṛṃ+japtaṃ) [as-said](yathoktaṃ) [tooth-cleaning](danta+dhāvanam)
+[finger-length](prādeśamātraṃ) [hrim-enchanted](hṛñjaptaṃ) [as-said](yathoktaṃ) [tooth-cleaning](dantadhāvanam)
 
 ## mukta-m0-p100-v2488
-[described](gaditaḥ) [adhivāsa](adhivāsaḥ)
+[said](gadito'dhivāsaḥ)
 
 ## mukta-m0-p100-v2489
-[earthen](mṛṇmayī) [audumbarī](audumbarī) [or](vā) [api](api) [caru-pot](caru+sthālī) [praised](praśasyate)
+[clay](mṛṇmayyaudumbarī) [or](vāpi) [oblation-pot](carusthālī) [praised](praśasyate)
 
 ## mukta-m0-p100-v2490
-[not-too-loose](na+ca+ati+śithilaḥ) [to-be-cooked](pācyaḥ) [not](na) [and](ca) [tasteless](vīta+rasaḥ) [let-it-be](bhavet)
+[not-too-loose](nacātiśithilaḥ) [cooked](pācyo) [not](na) [and](ca) [tasteless](vītaraso) [be](bhavet)
 
 ## mukta-m0-p100-v2491
-[of-completed](niṣpannasya) [and](ca) [those](te) [all](sarve) [to-be-done](vidheyāḥ) [let-be](syuḥ) [in-order](krameṇa) [indeed](vai)
+[completed](niṣpannasya) [and](ca) [those](te) [all](sarve) [to-be-done](vidheyāḥ) [in-order](syuḥ) [indeed](krameṇa) [vai](vai)
 
 ## mukta-m0-p100-v2492
-[well-prepared](susaṃskṛte) [guru's](guroḥ) [kuṇḍa](kuṇḍe) [with-purifications](saṃskāraiḥ+ca) [as-prescribed](yathāvidhi)
+[well-purified](susaṃskṛte) [guru's](guroḥ) [kunda](kuṇḍe) [with-purifications](saṃskāraiśca) [as-rule](yathāvidhi)
 
 ## mukta-m0-p100-v2493
-[with-root-mantra](mūla+aṇunā) [and](ca) [having-inspected](saṃvīkṣya) [having-sprinkled](saṃprokṣya) [with-astra-mantra](astra+aṇunā) [then](tataḥ)
+[root-mantra](mūlāṇunā) [and](ca) [inspect](saṃvīkṣya) [sprinkle](saṃprokṣyāstrāṇunā) [then](tataḥ)
 
 ## mukta-m0-p100-v2494
-[digging](khananaṃ) [let-be](syāt) [with-arrow](śareṇa) [then](atha) [by-that-very](tena+eva) [extraction](uddhāraḥ) [declared](īritaḥ)
+[digging](khananaṃ) [be](syācchareṇātha) [by-that](tenaivoddhāra) [extraction](īritaḥ)
 
 ## mukta-m0-p100-v2495
-[with-armor](kavacena) [then](atha) [with-weapon](śastreṇa) [pounding](kuṭṭanaṃ) [with-armor](varmaṇā) [considered](matam)
+[armor](kavacenātha) [weapon](śastreṇa) [pounding](kuṭṭanaṃ) [armor](varmaṇā) [considered](matam)
 
 ## mukta-m0-p100-v2496
-[let-him-do](kuryāt) [three-thread-making](tri+sūtrī+karaṇaṃ) [with-namo-mantra](namo+mantreṇa) [let-him-fill](pūrayet)
+[do](kuryāt) [three-thread-making](trisūtrīkaraṇaṃ) [namo-mantra](namomantreṇa) [fill](pūrayet)
 
 ## mukta-m0-p100-v2497
-[with-armor](kavacena) [of-senses](indriyāṇāṃ) [and](ca) [api](api) [opening](udghāṭanaṃ) [then](atha) [let-him-do](ācaret)
+[armor](kavacenendriyāṇāṃ) [senses](cāpyudghāṭanamathācaret)
 
 ## mukta-m0-p100-v2498
-[let-him-purify](saṃskuryāt) [or](athavā) [those](tāni) [with-four](caturbhiḥ) [first-mentioned](prathama+uditaiḥ)
+[purify](saṃskuryādathavā) [or](tāni) [those](caturbhiḥ) [four](prathamoditaiḥ)
 
 ## mukta-m0-p100-v2499
-[with-thumb-and-ring-finger](aṃguṣṭha+anāmikābhyāṃ) [indeed](tu) [with-heart](hṛdayena) [then](atha) [let-him-fill](pūrayet)
+[thumb-ring-finger](aṃguṣṭhānāmikābhyāṃ) [by](tu) [heart](hṛdayenātha) [then](pūrayet)
 
 ## mukta-m0-p100-v2500
-[three-thread-wearing](tri+sūtrī+paridhānaṃ) [and](ca) [with-armor](varmaṇā) [sprinkling](abhyukṣaṇaṃ) [with-heart](hṛdā)
+[three-thread-wearing](trisūtrīparidhānaṃ) [and](ca) [armor](varmaṇābhyukṣaṇaṃ) [sprinkling](hṛdā)
