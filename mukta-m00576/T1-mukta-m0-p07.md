@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p07-v151
-attached(prasaktaṃ) bodhi-desire(bodhikyaṃ) forbids(pratiṣedhayati)
+[prasaktaṃ](prasaktaṃ) [bhodhikyaṃ](bhodhikyaṃ) [pratiṣedhayati](pratiṣedhayati) [iti](iti)
 
 ## mukta-m0-p07-v152
-not(mā) guru+food(gurubhuṃjīthā)
+[mā](mā) [guru](guru) [bhuṃjīthā](bhuṃjīthā) [iti](iti)
 
 ## mukta-m0-p07-v153
-from-statement(vacanāt)
+[vacanāt](vacanāt) [iti](iti) [arthaḥ](arthaḥ) [bhavati](bhavati)
 
 ## mukta-m0-p07-v154
-illness+subject(this)(vyādhitaviṣayametat)
+[vyādhita](vyādhita) [viṣayam](viṣayam) [etat](etat) [iti](iti)
 
 ## mukta-m0-p07-v155
-thus(in-expectation)(ityapekṣāyāmāha)
+[ityapekṣāyām](ityapekṣāyām) [āha](āha) [iti](iti) [bhāvaḥ](bhāvaḥ)
 
 ## mukta-m0-p07-v156
-rises-indeed(objects)(ārohatyevarviṣayāñcheyāṃstāṃstu) those-indeed(those-indeed) should-abandon(parityajet) thus(iti)
+[ārohati](ārohati) [eva](eva) [viṣayān](viṣayān) [śreyāṃs](śreyāṃs) [tān](tān) [tu](tu) [parityajet](parityajet) [iti](iti)
 
 ## mukta-m0-p07-v157
-indeed(not-said)(nanuktaṃ) you-should-eat(bhuṃjethāḥ)
+[nanu](nanu) [uktam](uktam) [bhuṃjethāḥ](bhuṃjethāḥ) [iti](iti) [pṛcchati](pṛcchati)
 
 ## mukta-m0-p07-v158
-again(enjoyment-thought)(punarbhogabhāvanayeti) thus-meaning(bhāvaḥ)
+[punar](punar) [bhoga](bhoga) [bhāvanayā](bhāvanayā) [iti](iti) [bhāvaḥ](bhāvaḥ)
 
 ## mukta-m0-p07-v159
-not(na) in-clay-vessel(mṛṇmaye) you-should-eat(bhuṃjīthāḥ)
+[na](na) [mṛṇmaye](mṛṇmaye) [bhuṃjīthāḥ](bhuṃjīthāḥ) [iti](iti) [niṣedhaḥ](niṣedhaḥ)
 
 ## mukta-m0-p07-v160
-those(those) you-should-eat(bhuṃjīthāḥ) object-renunciation(object-renunciation) should-do(kuryādityarthaḥ)
+[tān](tān) [bhuṃjīthāḥ](bhuṃjīthāḥ) [viṣaya](viṣaya) [tyāgaṃ](tyāgaṃ) [kuryāt](kuryāt) [ityarthaḥ](ityarthaḥ)
 
 ## mukta-m0-p07-v161
-not(na) should-repair(pratisaṃdadhyā) thus(some)(ityeke)
+[na](na) [pratisaṃdadhyāt](pratisaṃdadhyāt) [iti](iti) [eke](eke) [āhuḥ](āhuḥ)
 
 ## mukta-m0-p07-v162
-they-say(āhuḥ)
+[āhuḥ](āhuḥ) [iti](iti) [vacanam](vacanam) [bhavati](bhavati) [atra](atra)
 
 ## mukta-m0-p07-v163
-place-and-seat(sthānāsanaṃ)
+[sthāna](sthāna) [āsanaṃ](āsanaṃ) [ca](ca) [iti](iti) [artham](artham)
 
 ## mukta-m0-p07-v164
-one-pointedness-should-be(enjoined)(ekatānatāvidheyetyarthaḥ) āsa(āsa) in-sitting(upaveśane)
+[ekatānatā](ekatānatā) [vidheyā](vidheyā) [ityarthaḥ](ityarthaḥ) [āsa](āsa) [upaveśane](upaveśane)
 
 ## mukta-m0-p07-v165
-in-previous-others(upavāsa-or)(pūrvāṃtareṣūpavāso) speech-restraint-and-seat(vāgyasanaṃ) and(ca)
+[pūrvāntareṣu](pūrvāntareṣu) [upavāsaḥ](upavāsaḥ) [vāgyasanaṃ](vāgyasanaṃ) [ca](ca) [syāt](syāt)
 
 ## mukta-m0-p07-v166
-may-be(syuḥ) of-relations-muchness(from-muchness-of-relations)(saṃbadhibahutvādbahuvacanaṃ)
+[syuḥ](syuḥ) [saṃbodhi](saṃbodhi) [bahutvāt](bahutvāt) [bahuvacanaṃ](bahuvacanaṃ) [iti](iti)
 
 ## mukta-m0-p07-v167
-something(fire-effort)(kiṃcidagni) having-seen(yataṃ) by-breath-controls(with-breath-controls)(dṛṣṭvā) is-purified(prāṇāyāmaissaśuddhyate)
+[kiṃcit](kiṃcit) [agni](agni) [yatam](yatam) [dṛṣṭvā](dṛṣṭvā) [prāṇāyāmaiḥ](prāṇāyāmaiḥ) [śuddhyate](śuddhyate)
 
 ## mukta-m0-p07-v168
-consciousness-reflection-abundance(by-abundance-of-consciousness-reflection)(cidvimarśabāhulyenaiva) purification(śodhanaṃmiti) thus-much(yāvat)
+[cidvimarśa](cidvimarśa) [bāhulyena](bāhulyena) [eva](eva) [śodhanam](śodhanam) [iti](iti) [yāvat](yāvat)
 
 ## mukta-m0-p07-v169
-in-appearance(in-appearance)(saṃdarśane) three(three) should-be-done(kāryāḥ)
+[saṃdarśane](saṃdarśane) [trayaḥ](trayaḥ) [kāryāḥ](kāryāḥ) [iti](iti) [vidhiḥ](vidhiḥ)
 
 ## mukta-m0-p07-v170
-from-purity-attainment(from-purity-attainment)(śudhyāpatteḥ)
+[śuddhi](śuddhi) [āpatteḥ](āpatteḥ) [iti](iti) [kāraṇam](kāraṇam) [bhavati](bhavati)
 
 ## mukta-m0-p07-v171
-with-syllables-utterance(with-syllables-then)(saṃvyāhṛtyātho) seven(seven)
+[saṃvyāhṛtyā](saṃvyāhṛtyā) [atho](atho) [sapta](sapta) [iti](iti) [gaṇanā](gaṇanā)
 
 ## mukta-m0-p07-v172
-again(again) should-be-withdrawn(pratyāhartavyam)
+[punaḥ](punaḥ) [pratyāhartavyam](pratyāhartavyam) [iti](iti) [vidhiḥ](vidhiḥ) [bhavati](bhavati)
 
 ## mukta-m0-p07-v173
-for-samadhi(for-samadhi)(samāsāya) indeed(tu) twelve(twelve)
+[samāsāya](samāsāya) [tu](tu) [dvādaśa](dvādaśa) [iti](iti) [saṃkhyā](saṃkhyā)
 
 ## mukta-m0-p07-v174
-with-one-pointed-mind(with-one-pointed-mind)(samāhitena) should-be(bhāvyaṃ) how(thus)(kathametena) is-purified(śuddhatītyāśaṃkyāha)
+[samāhitena](samāhitena) [bhāvyaṃ](bhāvyaṃ) [katham](katham) [etena](etena) [śuddhiḥ](śuddhiḥ) [iti](iti) [āśaṅkyā](āśaṅkyā) [āha](āha)
 
 ## mukta-m0-p07-v175
-everywhere(everywhere)(sarvatra) light-appearance(light-appearance)(jyotirdarśanamudakopa) touching(touching)(sparśanam)
+[sarvatra](sarvatra) [jyotir](jyotir) [darśanam](darśanam) [udaka](udaka) [upa](upa) [sparśanam](sparśanam)

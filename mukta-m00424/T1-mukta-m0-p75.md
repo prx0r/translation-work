@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p75-v1851
-[then](tatas) [three-times](tri) [having-made](guṇīkṛtya) [to-Śiva](śivāya) [should-offer](vinivedayet)
+then[tataḥ] threefold[triguṇīkṛtya] to-śiva[śivāya] offer[vinivedayet]
 
 ## mukta-m0-p75-v1852
-[tarāṣṭaṃ](tarāṣṭaṃ) [and](ca) [defect](dūṣaṇa) [arising](utpatti) [taduvyantuvyayohya](taduvyantuvyayohya) [and](ca)
+tarāṣṭaṃ[tarāṣṭam] and[ca] defilement-origin[dūṣaṇa+utpatti] that...[taduvyantuvyayohya] and[ca]
 
 ## mukta-m0-p75-v1853
-[peace](śānti) [oblation](homaṃ) [then](tataḥ) [one-should-perform](kuryāt) [as-before](pūrvavat) [one-should-cook](pācayet) [auspicious](śubham)
+peace-homa[śānti+homaṃ] then[tataḥ] perform[kuryāt] as-before[pūrvavat] cook[pācayet] auspicious[śubham]
 
 ## mukta-m0-p75-v1854
-[sandhāti](sandhāti) [in-sequence](kramaṇe) [when-arrived](prāpte) [by-enemies](śatrubhiḥ) [fear](bhayam) [one-should-indicate](ādiśet)
+join[sandhāti] in-procedure[kramaṇe] arrived[prāpte] by-enemies[śatribhiḥ] fear[bhayam] declare[ādiśet]
 
 ## mukta-m0-p75-v1855
-[by-transgression](vyatikrameṇa) [of-mantras](mantrāṇāṃ) [that](tat) [all*(?)](sarva*(?)) [one-should-effect](prabhāvayet)
+by-transgression[vyatikrameṇa] of-mantras[mantrāṇāṃ] that-all[tatsarva] empower[prabhāvayet]
 
 ## mukta-m0-p75-v1856
-[of-offering](naivedya) [in-placing](sthāpane) [at-time](kāle) [in-transgression](laṅghane) [also](api) [by-men](naraiḥ) [likewise](tathā)
+offering[naivedya] at-placement[sthāpane] time[kāle] even-if-skipping[laṅghane+api] by-men[naraiḥ] thus[tathā]
 
 ## mukta-m0-p75-v1857
-[that](tat) [substance](dravyaṃ) [having-abandoned](varjayitvā) [but](tu) [afterwards](paścāt) [cooked](pakvaṃ) [one-should-offer](nivedayet)
+that-substance[tadravyaṃ] avoiding[varjayitvā] but[tu] afterwards[paścāt] cooked[pakvaṃ] offer[nivedayet]
 
 ## mukta-m0-p75-v1858
-[jāyāja**(?)](jāyāja**(?)) [na](na) [pro******(?)](pro******(?)) [taṃ](taṃ) [one-should-recite](japet)
+jāyā...[jāyāja...] ...[pro...] recite[japet]
 
 ## mukta-m0-p75-v1859
-[bathing](snapana) [limb](aṅga) [in-absence](vihīne) [and](ca) [great-epidemic](mahāmārī) [arises](pravartate)
+bathing-limb-deficient[snapanāṅga+viśiṣṭe] and[ca] great-plague[mahāmārī] arises[pravartate]
 
 ## mukta-m0-p75-v1860
-[by-established](sthāpitaiḥ) [by-pots](kalaśaiḥ) [broken](bhinnaiḥ) [cracked](sphuṭite) [fallen](patite) [likewise](tathā)
+placed[sthāpitaiḥ] jars[kalaśaiḥ] broken[bhinnaiḥ] burst[sphuṭite] fallen[patite] thus[tathā]
 
 ## mukta-m0-p75-v1861
-[*](*) [*](*) [*](*) [*](*) [*](*) [*](*) [*](*) [*](*) [(?)](?) [very-pleased](suprasannena) [jewel](ratna) [kā](kā)
+suprasannena[suprasannena] gem[ratnakā]
 
 ## mukta-m0-p75-v1862
-[boon](varada) [fearlessness](abhaya) [endowed-with](saṃyuktā) [noose](pāśa) [goad](aṅguśa) [bearing](dharā) [possessed-of](anvitā)
+boon-fearless[varadābhaya+saṃyuktā] noose-goad[pāśāṅkuśa] bearing[dharānvitā]
 
 ## mukta-m0-p75-v1863
-[lotus](padma) [hand](hasta) [and-so-forth](ādi) [peaceful](śāntā) [and](ca) [goddess](devī) [and](ca) [golden](kanaka) [radiant](prabhā)
+lotus-handed[padmahastādi] peaceful[śāntā] and[ca] goddess[devī] and[ca] golden-radiance[kanakaprabhā]
 
 ## mukta-m0-p75-v1864
-[***(?)ñcāpi](***(?)ñcāpi) [or](vā) [conch](śaṅkhaṃ) [discus](cakra) [ha*(?)tu](ha*(?)tu) [six-armed](ṣaḍbhujā)
+or[api] conch[śaṅkhaṃ] disc[cakra] ...[ha*tu] six-armed[ṣaḍbhujā]
 
 ## mukta-m0-p75-v1865
-[radiance](tejas) [arcā](arcā) [weapon](astra) [endowed-with](samāyuktā) [god](deva) [embrace](āliṅgana) [intent-on](tatparā)
+radiance-weapon[tejorcāstra] equipped[samāyuktā] god-embrace[devāliṅgana] devoted[tatparā]
 
 ## mukta-m0-p75-v1866
-[hanging](pralambā) [la*(?)pā*(?)bālambitā](la*(?)pā*(?)bālambitā) [parivādakā](parivādakā)
+pendant[pralambā] ...[la*pā*bālambitā] slanderer[parivādakā]
 
 ## mukta-m0-p75-v1867
-[dark](śyāmā) [horse](aśvena) [or](atha) [faced](vaktā) [and](ca) [on-practitioner](sādhake) [and](ca) [not](na) [fallen](pātata)
+dark[śyāmā] horse-face[aśvena+athavaktā] and[ca] for-practitioner[sādhake] and[ca] not[na] fall[pātata]
 
 ## mukta-m0-p75-v1868
-[eight](aṣṭa) [arm](bāhu) [endowed-with](samāyuktaṃ) [upraised](ūrdhva) [hair](keśaṃ) [own](sva) [tusked](daṃṣṭrakam)
+eight-armed[aṣṭabāhu] equipped[samāyuktaṃ] upraised-hair[ūrdhvakeśaṃ] own-fangs[svadaṃṣṭrakam]
 
 ## mukta-m0-p75-v1869
-[small-bell](kiṅkiṇī) [garland](mālayā) [encircled](veṣṭā) [foot](pāda) [anklet](nūpura) [endowed-with](saṃyutam)
+bells[kiṅkiṇī] garland[maālaya] wrapped[veṣṭā] ankle-bells[pādanūpura] endowed[saṃyutam]
 
 ## mukta-m0-p75-v1870
-[*](*) [*](*) [*](*) [(?)](?) [sacred-thread](jñopavītaṃ) [and](ca) [red](rakta) [flower](puṣpa) [adorned-with](upaśobhitam)
+sacred-thread[jñopavītaṃ] and[ca] red-flower-adorned[raktapuṣpa+upaśobhitam]
 
 ## mukta-m0-p75-v1871
-[in-ears](karṇayoḥ) [in-both](ubhayoḥ) [and](ca) [indeed](eva) [in-hands](hastayoḥ) [in-both](ubhayoḥ) [also](api)
+of-both-ears[karṇayoḥ+ubhayoḥ] and-also[ca+eva] of-both-hands[hastayoḥ+ubhayoḥ] also[api]
 
 ## mukta-m0-p75-v1872
-[spider](lūta) [scorpion](vṛścika) [endowed-with](saṃyuktaṃ) [ear](karṇa) [garland](mālā) [adorned](vibhūṣitam)
+spider-scorpion[lūta+vṛścika] endowed[saṃyuktaṃ] ear-garland[karṇamālā] adorned[vibhūṣitam]
 
 ## mukta-m0-p75-v1873
-[trident](śūlaṃ) [and](ca) [vetāla](vetālaṃ) [sword](khaḍgaṃ) [and](ca) [indeed](eva) [but](tu) [in-right](dakṣiṇe)
+trident[śūlaṃ] and[ca] vetāla[vetālaṃ] sword[khaḍgaṃ] and-also[ca+eva] but[tu] right[dakṣiṇe]
 
 ## mukta-m0-p75-v1874
-[bell](ghaṇṭā) [shield](kheṭaka) [noose](pāśaṃ) [and](ca) [foot](pāda) [anklet](nūpura) [situated](saṃsthitam)
+bell[ghaṇṭā] shield-noose[kheṭaka+pāśaṃ] and[ca] ankle-bell-situated[pādanūpura+saṃsthitam]
 
 ## mukta-m0-p75-v1875
-[thus](evaṃ) [form](rūpa) [bearing](dharaṃ) [god](devaṃ) [Aghora](aghora) [weapon](astra) [presiding](adhi) [deity](daivatam)
+thus[evaṃ] form-bearing[rūpadharaṃ] god[devaṃ] aghora-weapon[aghorāstra] presiding[adhi] deity[daivatam]

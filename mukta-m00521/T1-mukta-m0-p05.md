@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p05-v101
-[this](ayaṃ) [savitṛ-form](savitṛ+rūpiṇyā) [gāyatrī-time-form](gāyatryā+kāla+rūpayā)
+[this](ayaṃ) [sun-form](savitṛ+rūpiṇyā) [gāyatrī](gyāyatryā) [time-form](kāla+rūpayā)
 
 ## mukta-m0-p05-v102
-[time-souled](kāla+ātmako) [veda-formed](veda+mayo) [by-whom](yena) [this](idam) [entire](akhilaṃ) [world](jagat)
+[time-soul](kāla+ātmako) [veda-filled](veda+mayo) [by-whom](yena) [this](idam) [whole](akhilaṃ) [world](jagat)
 
 ## mukta-m0-p05-v103
-[milked](amāduha) [then](tato) [vedas](vedān) [bhūḥ-etc.](bhūr+ādi) [utterance](vyāhṛti) [triad](trayaṃ)
+[from-amā](amāduha) [then](tato) [vedas](vedān) [bhūr-etc](bhūr+ādi+vyāhṛti) [three](trayaṃ)
 
 ## mukta-m0-p05-v104
-[arisen](utpannāḥ) [of-all-worlds](sarva+lokānām) [here-and-hereafter](iha+amutra) [path-giving](gati+pradāḥ)
+[born](utpannāḥ) [all-worlds](sarva+lokānām) [here-there-going](iha+amutra+gati+pradāḥ)
 
 ## mukta-m0-p05-v105
-[nārāyaṇa-formed](nārāyaṇa+mayaḥ) [eternal](nityaḥ) [great-person](mahā+puruṣa) [lord](īśvaraḥ)
+[nārāyaṇa](nārāyaṇa) [womb-eternal](mayo+nityo) [great-person](mahā+puruṣaḥ) [lord](īśvaraḥ)
 
 ## mukta-m0-p05-v106
-[this](aya) [indeed](eva) [at-creation](sarga+ādau) [in-waters](tāsu) [seed](vīryam) [released](avāsṛjat)
+[this](aya) [eva](eva) [creation-from](sargād+autāsu) [virya](vīryam) [released](avāsṛjat)
 
 ## mukta-m0-p05-v107
-[in-that](tasmin) [was-born](jajñe) [creator](vidhir) [brahmā](brahmā) [self-born](svayaṃ+bhūḥ) [thus](iti) [scripture](śrutiḥ)
+[in-him](tasmin) [born](jajñe) [brahmā](vidhiḥ+brahmā) [himself](svayaṃ) [bhūḥ](bhūḥ) [thus](iti) [śruti](śrutiḥ)
 
 ## mukta-m0-p05-v108
-[abode](ayanaṃ) [his](tasya) [that](tāḥ) [formerly](pūrvaṃ) [therefore](tena) [nārāyaṇa](nārāyaṇaḥ) [remembered](smṛtaḥ)
+[abode](ayanaṃ) [his](tasya) [before](pūrvaṃ) [therefore](tena) [nārāyaṇa](nārāyaṇaḥ) [remembered](smṛtaḥ)
 
 ## mukta-m0-p05-v109
-[darkness](aṃdhakā****(?)) [for-continuity](saṃtatāya) [very-great](su+mahat) [austerity](tayaḥ)
+[darkness](andhakāra) [continuous](saṃtatāya) [very-great](sumahattayaḥ)
 
 ## mukta-m0-p05-v110
-[nārāyaṇa](nārāyaṇaḥ) [then](atha) [to-brahmā](brāhmāṇaṃ) [person](puruṣaḥ) [dark-tawny](kṛṣṇa+piṃgalaḥ)
+[nārāyaṇa](nārāyaṇa) [then](atha) [brahmā](brāhmāṇaṃ) [person](puruṣaḥ) [kṛṣṇa-piṅgala](kṛṣṇa+piṃgalaḥ)
 
 ## mukta-m0-p05-v111
-[with-shame](lajjayā) [bowed-down](avanataṃ) [creation-work](sarga+karma) [unable](aśaktaṃ) [self-born](svayaṃ+bhuvaṃ)
+[by-shame](lajjayā) [bowed](avanataṃ) [creation-work](sarga+karma) [unable](aśaktaṃ) [self-born](svayaṃ+bhuvaṃ)
 
 ## mukta-m0-p05-v112
-[by-scripture-declared](śruti+uktena) [by-method](vidhānena) [creation](sargaṃ) [do](kurviti) [thus](iti) [***](***)(?)
+[śruti-declared](śruti+uktena) [arrangement](vidhānena) [creation](sargaṃ) [do-thus](kurviti)
 
 ## mukta-m0-p05-v113
-[of-lord's-splendor](bhagavat+tejasaḥ) [for-attainment](prāptyai) [again](bhūyaḥ) [also](api) [very-great](su+mahat) [austerity](tayaḥ)
+[lord-radiance](bhagavat+tejas) [for-obtaining](prāptyai) [again](bhūyo+api) [very-great](sumahattayaḥ)
 
 ## mukta-m0-p05-v114
-[great-person](mahā+puruṣaḥ) [having-become](bhūtvā) [having-shaken-off](vidhūya) [darkness](aṃdhanam) [all](akhilaṃ)
+[great-person](mahā+puruṣaḥ) [becoming](bhūtvā) [shaking-off](vidhūya) [all-wealth](aṃ+dhanam+akhilaṃ)
 
 ## mukta-m0-p05-v115
-[blessed-lord](śrī+bhagavān) [said](uvāca) [o-o](bho) [bho] [brahmā](vra**(?)) [father](pitāṃ) [I](ahaṃ) [who](yaḥ) [your](tava)
+[lord](śrī+bhagavān) [said](uvāca) [ho-ho](bho+bho) [grandfather](pitāmahaṃ) [who](yo) [yakas](yakas) [your](tava)
 
 ## mukta-m0-p05-v116
-[I](aham) [alone](eva) [supreme-brahman](paraṃ+brahma) [supreme-self](parama+ātmā) [eternal](sanātanaḥ)
+[i](aham) [eva](eva) [supreme-brahman](paraṃ+brahma) [supreme-self](paramātmā) [eternal](sanātanaḥ)
 
 ## mukta-m0-p05-v117
-[vāsudeva](vāsudevaḥ) [am-I](asmi) [I](ahaṃ) [viṣṇu](viṣṇur) [cosmic-form](virāṭ+rūpī) [golden](hiraṇmayaḥ)
+[vāsudeva](vāsudevo) [i](asmi) [ahaṃ](ahaṃ) [viṣṇu](viṣṇuḥ) [virāṭ-form](virād+rūpī) [golden](hiraṇmayaḥ)
 
 ## mukta-m0-p05-v118
-[consciousness-formed](cit+mayaḥ) [I](aham) [endless](anantaḥ) [I](aham) [beginning-middle-end](ādi+madhya+aṃta) [devoid](varjitaḥ)
+[consciousness-filled](cin+mayaḥ) [i](aham) [limitless](anaṃtaḥ) [aham](aham) [beginning-middle-end-devoid](ādi+madhya+anta+varjitaḥ)
 
 ## mukta-m0-p05-v119
-[known-by-vedānta](vedāṃta+vedyaḥ) [universal-self](viśva+ātmā) [universal-form](viśva+rūpaḥ) [am-I](asmi) [I](ahaṃ) [all-pervading](vibhuḥ)
+[vedānta-known](vedānta+vedyaḥ) [world-soul](viśva+ātmā) [world-form](viśva+rūpaḥ) [i](aham) [vibhu](vibhuḥ)
 
 ## mukta-m0-p05-v120
-[which](yaḥ) [that](asau) [eight-syllabled](aṣṭa+akṣaraḥ) [mantra](maṃtraḥ) [by-nature](svabhāva) [beginning-with-praṇava](praṇava+ādikaḥ)
+[that](yaḥ) [asau](asau) [eight-syllabled](aṣṭākṣaraḥ) [mantra](maṃtraḥ) [nature](svabhāva) [praṇava-etc](praṇava+ādikaḥ)
 
 ## mukta-m0-p05-v121
-[nārāyaṇa](nārāyaṇaḥ) [that-souled](tat+ātmā) [I](ahaṃ) [consciousness-formed](cid+rūpiṇyā) [with-śrī](śrīmat) [eternal](nitaḥ)
+[nārāyaṇa](nārāyaṇaḥ) [that-soul](tad+ātmā) [aham](aham) [consciousness-form](cid+rūpiṇyā) [śrīmat](śrīmān) [nitaḥ](nitaḥ)
 
 ## mukta-m0-p05-v122
-[of-this](asya) [indeed](eva) [eight-syllabled-mantra](aṣṭa+arṇa+maṃtrasya) [śrī-endowedness](śrīmatvaṃ) [in-three-worlds](tri+jagatsu) [also](api)
+[this](asya) [eva](eva) [eight-lettered](aṣṭārṇa) [mantra](maṃtrasya) [śrīmatva](śrīmatvaṃ) [three-worlds](trijagat) [svapi](svapi)
 
 ## mukta-m0-p05-v123
-[śrī-endowed](śrīmat) [eight-syllabled-vidyā](aṣṭa+akṣarī+vidhā) [therefore](tasmāt) [renowned](vyātā) [in-three-worlds](jagat+traye)
+[śrīmat](śrīmat) [eight-syllabled](daṣṭākṣarī) [vidhā](vidhā) [therefore](tasmāt) [vyātā](vyātā) [world-triad](jagat+traye)
 
 ## mukta-m0-p05-v124
-[in-vedas](vedeṣu) [essence-formed](sāra+bhutā) [this](iyaṃ) [śrī-endowed-eight-syllabled](śrīmat+aṣṭa+akṣarī) [my](mama)
+[in-vedas](vedeṣu) [essence](sāra+bhūta) [this](yaṃ) [śrīmat](śrīmat) [eight-syllabled](daṣṭākṣarī) [mine](mama)
 
 ## mukta-m0-p05-v125
-[thus](iti) [from-my-speech-arisen](mat+vadana+udbhūta) [by-scriptures](śrutibhiḥ) [well-declared](samudīritā)
+[thus](iti) [my-mouth-born](mad+vadana+udbhūta) [by-śrutis](śruti+bhiḥ) [declared](samudīritā)

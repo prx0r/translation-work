@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p79-v1951
-called-named (samākhyātam) kālī+bhadrī (kālībhadrī) kālī (kālī) and-indeed (ca eva) to-āyunāya (āyunāya) and (ca)
+[kali-bhadri](kālībhadrī) [called](samākhyātaṃ) [kali](kālī) [and-thus-for-life](caivāyunāya) [and](ca)
 
 ## mukta-m0-p79-v1952
-trident (śūlam) drum (ḍamarukam) in-left (savye) skull (kapālam) noose+goad (pāśa+ṭaṅka) in-hand (kare)
+[trident](śūlaṃ) [damaru](ḍamarukaṃ) [on-right](savye) [skull](kapālaṃ) [noose-axe](pāśaṭaṅkare)
 
 ## mukta-m0-p79-v1953
-[illegible] (du) [illegible] (karṇikābhāsām) [illegible] (bhīma) [illegible] (rest)
+[du](du) [unknown](*) [unknown](*) [unknown](*) [ear-like](?) [terrible](bhīma) [unknown](*) [unknown](*) [unknown](*) [unknown](*) [unknown](?)
 
 ## mukta-m0-p79-v1954
-kāla+rātri (kālarātri) of-form (svarūpāyām) cremation-ground (śmaśānam) god (devam) should-worship (arcayet)
+[kalaratri](kālarātri) [in-true-form](svarūpāyāṃ) [cremation-ground](śmaśānaṃ) [god-worship](devamarcayet)
 
 ## mukta-m0-p79-v1955
-middle+etc (madhya+ādi) up-to-neck (gala+paryantam) ending-with-viṣṇu (viṣṇunā+antam) well-worship (supūjayet)
+[middle-to-throat](madhyādi+galaparyantaṃ) [by-vishnu-end](viṣṇunāntaṃ) [well-worship](supūjayet)
 
 ## mukta-m0-p79-v1956
-śakti (śaktiḥ) having-arisen (utpatya) for-non-śaiva-purpose (aśaiva+artham) by-śakti (śaktyā) is-produced (utpadyate) śiva (śivaḥ)
+[shakti-for-creation-shaiva-purpose](śaktirutpatyaśaivārthaṃ) [by-shakti-arises](śaktyairutpadyate) [shiva](śivaḥ)
 
 ## mukta-m0-p79-v1957
-brahmā (brahmā) viṣṇu (viṣṇuḥ) and-rudra (ca rudraḥ) and (ca) īśvara (īśvaraḥ) and (ca) sadāśiva (sadāśivaḥ)
+[brahma](brahmā) [vishnu](viṣṇu) [rudra](rudraśca) [ishvara](īśvaraśca) [sada-shiva](sadāśivaḥ)
 
 ## mukta-m0-p79-v1958
-desire+śakti (icchāśaktiḥ) action (kriyā) [illegible] [illegible]
+[will-shakti](icchāśaktiḥ) [action](kriyā) [unknown](*) [unknown](*) [unknown](*) [unknown](*) [unknown](*) [unknown](*) [unknown](*) [unknown](*) [unknown](*) [unknown](?)
 
 ## mukta-m0-p79-v1959
-brāhmī (brāhmī) on-head (mūrdhni) then (tu) having-placed (vinyasya) on-forehead (lalāṭe) then (tu) maheśvarī (maheśvarīm)
+[brahmi](brāhmī) [on-crown](mūrdhni) [then](tu) [placing](vinyasya) [on-forehead](lalāṭe) [then](tu) [maheshvari](maheśvarīm)
 
 ## mukta-m0-p79-v1960
-vārāhī (vārāhī) in-heart (hṛdaye) and-indeed (ca eva) indrāṇī (indrāṇī) at-liṅga-base (liṅga+mūlake)
+[varahi](vārāhī) [in-heart](hṛdaye) [and](ca) [eva](eva) [indrani](indrāṇī) [linga-base](liṅgamūlake)
 
 ## mukta-m0-p79-v1961
-[illegible] [illegible] worship (pūjām) as-before (pūrva+vat) should-perform (ācaret)
+[unknown](*) [unknown](*) [unknown](*) [unknown](*) [unknown](*) [unknown](*) [unknown](*) [unknown](*) [worship](?) [as-before](pūrvavadācaret)
 
 ## mukta-m0-p79-v1962
-vārāhī (vārāhī) and (ca) thus-indrāṇī (tathā indrāṇī) of-goddess-front+etc (devyā+agra+ādi) in-six-corners (koṇa+ṣaṭ)
+[varahi](vārāhī) [and](ca) [thus](tathā) [indrani](indrāṇī) [goddess-corner-six](devyāgrādiṣṭa+koṇaṣaṭ)
 
 ## mukta-m0-p79-v1963
-jambhī+stambhinī (jambhītistambhinī) and-indeed (ca eva) [illegible] [illegible]
+[jambhini](jambhītistambhinī) [and](ca) [eva](eva) [sha](śā*) [unknown](*) [unknown](*) [unknown](*) [unknown](*) [unknown](*) [unknown](?)
 
 ## mukta-m0-p79-v1964
-then-outside (tad+bahiḥ) sixteenth-part (ṣoḍaśa+aṃśa) and-indeed (eva) petal (patram) sixteen-syllabled (ṣoḍaśa+akṣaram)
+[outside-sixteen-part](tadbahiṣṣoḍaśāṃśaiva) [leaf](patraṃ) [sixteen-syllable](ṣoḍaśākṣaram)
 
 ## mukta-m0-p79-v1965
-noose (pāśā) and (ca) in-month (māsi) joined (saṃyuktam) cutting (cchedikam) thus (tathā)
+[noose](pāśā) [and](ca) [in-month](māsi) [joined](saṃyuktaṃ) [vipusha-cchedika](vipuśācchedikaṃ) [thus](tathā)
 
 ## mukta-m0-p79-v1966
-[illegible]+bhava (bhodbhava) joined (saṃyuktam) origin (udbhavam) and-indeed (ca eva) should-cause (kārayet)
+[unknown](*) [arising](bhodbhavantu) [joined](saṃyuktaṃ) [arising](udbhavaṃ) [and](ca) [eva](eva) [make](kārayet)
 
 ## mukta-m0-p79-v1967
-vijayī (vijayī) and-non-vijayī (ca avijayī) and (ca) vijayī-thus (vijayī+iti+eva) jṛmbhiṇī (jṛmbhiṇī)
+[vijayi](vijāyī) [and-non-vijayi](cāvijāyī) [ca](ca) [vijayi](vijayītyeva) [jrimbhini](jṛmbhiṇī)
 
 ## mukta-m0-p79-v1968
-of-goddess-front+etc (devyā+agra+ādiṣu) having-worshipped (saṃpūjya) [illegible] [illegible]
+[goddess-corner](devyāgrādiṣu) [well-worship](saṃpūjya) [unknown](*) [unknown](*) [unknown](*) [unknown](*) [unknown](*) [unknown](*) [unknown](*) [unknown](?)
 
 ## mukta-m0-p79-v1969
-honey+meat+fruits (madhu+māṃsa+phalānām) then (tu) offering (naivedyam) and-indeed (ca eva) should-worship (pūjayet)
+[of-honey-meat-fruit](madhumāṃsaphalānāṃ) [tu](tu) [offering](naivedyaṃ) [and](ca) [eva](eva) [worship](pūjayet)
 
 ## mukta-m0-p79-v1970
-song+instrument (gīta+vādyam) and (ca) dance (nṛttam) and (ca) all-services (sarva+upacāra) should-worship (pūjayet)
+[song-instrument](gītavādyaṃ) [and](ca) [dance](nṛttaṃ) [ca](ca) [all-services](sarvopacāra) [worship](pūjayet)
 
 ## mukta-m0-p79-v1971
-[illegible] [illegible] at-door (dvārāre) on-bali-pedestal (bali+pīṭhake)
+[unknown](*) [unknown](*) [unknown](*) [unknown](*) [unknown](*) [unknown](*) [unknown](*) [unknown](*) [door-gate](?) [bali-pitha](dvārāre+balipīṭhake)
 
 ## mukta-m0-p79-v1972
-divine-mothers (devamātarakam) and-indeed (ca eva) piśāca-mothers (paiśācamātaraḥ) thus (tathā)
+[god-mother](devamātarakaṃ) [and](ca) [eva](eva) [pishacha-mother](paiśācamātarastathā)
 
 ## mukta-m0-p79-v1973
-goat (aja) cock+buffalo (kukkuṭa+mahiṣām) and (ca) horse+elephant+human (aśva+gaja+mānuṣā) and (ca) [illegible]
+[goat](aja) [cock](kukkuṭamahiṣāṃ) [ca](ca) [horse-elephant-human](aśvagajamānuṣā) [ca](ca) [mu](mu) [unknown](?)
 
 ## mukta-m0-p79-v1974
-preta+vehicle (pretavāhanakam) and-indeed (ca eva) worship+honoring (upāsya+arcanakam) thus (tatha) [illegible]
+[preta-vehicle](pretavāhanakaṃ) [and](ca) [eva](eva) [worship-arcana](upāsyārcanakaṃ) [thus](tatha) [unknown](?)
 
 ## mukta-m0-p79-v1975
-of-all (sarveṣām) served (sevitam) and-indeed (ca eva) cāmuṇḍā (cāmuṇḍā) another (anyam) should-worship (samarcayet)
+[of-all](sarveṣāṃ) [served](sevitaṃ) [and](ca) [eva](eva) [camunda-other](cāmuṇḍānyaṃ) [well-worship](samarcayet)

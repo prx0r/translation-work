@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p100-v2476
-[bitten](daṣṭāṃ) [by-desire](kāmayā) [then](ataḥ) [he](saḥ) [named](nāma) [rāma](rāmā) [māhiṣika](māhiṣikaḥ) [is-remembered](smṛtaḥ)
+[bitten-desire-go](daṣṭāṃkāmayāto) [sona-amra-amahiṣika-remembered](sonāmrāmāhiṣikah) [smṛta](smṛtaḥ)
 
 ## mukta-m0-p100-v2477
-[then](ateva) [ardhuṣika](ardhuṣikaṃ) [having-seen](dṛṣṭvā) [without-hope](nirāśāḥ) [pirāmāḥ](pirāmāḥ) [gone-to-yellow-disease](pīta+roga+tāḥ)
+[therefore-usurer-seen](atevārdhuṣikaṃ) [dṛṣṭvā](dṛṣṭvā) [hopeless-pira-ma-pita-disease](nirāśāḥpirāmāḥ) [pītarogatāḥ](pītarogatāḥ)
 
 ## mukta-m0-p100-v2478
-[so-long](tāvat) [unwearied](aśraṃti) [taras](taraḥ) [as-long-as](yāvat) [afraid](bhīktaḥ) [oblation](haviḥ) [without-quality](guṇaḥ)
+[so-long-tear-remain](tāvadaśraṃtitaroyāvabhīktohavirguṇaḥ)
 
 ## mukta-m0-p100-v2479
-[playing](krīḍati) [herbs](oṣadhayaḥ) [all](sarvā) [we-shall-go](yāsyāmaḥ) [supreme](paramāṃ) [state](gatiṃ)
+[play-herbs-all-go](krīḍatyoṣadhayaḥ) [sarvāyāsyāmaḥ](sarvāyāsyāmaḥ) [parama-gati](paramāṃgatiṃ)
 
 ## mukta-m0-p100-v2480
-[cries](roditi) [food](annam) [blazing](dīpamānaṃ) [what](kiṃ) [by-me](mayā) [evil](duṣṭataṃ) [done](kṛtaṃ)
+[weep-river-lamp-what-by-me-wicked-done](rodityannadīpamānaṃ) [kiṃ](kiṃ) [mayāduṣṭataṃkṛtaṃ](mayāduṣṭataṃkṛtaṃ)
 
 ## mukta-m0-p100-v2481
-[causes-to-cross](satārayati) [giver](dātāraṃ) [ten](daśa) [ancestors](pūrvān) [ten](dṛśa) [descendants](aparān)
+[saves-giver-ten-previous-seen-others](satārayati) [dātāraṃ](dātāraṃ) [daśapūrvāndṛśāparān](daśapūrvāndṛśāparān)
 
 ## mukta-m0-p100-v2482
-[nine](nava) [nights](rātrau) [should-dwell](vaset) [jāṣṭena](jāṣṭena) [should-perform](kuryāt) [vedic](vaidikāṃ) [recitation](śrutiṃ)
+[nine-nights-stay-eight-do-vedic-shruti](navarātrauvaserjāṣṭena) [kuryādvaidikāṃ](kuryādvaidikāṃ) [śrutiṃ](śrutiṃ)
 
 ## mukta-m0-p100-v2483
-[of-suvāsinī-women](suvāsinīnām) [thus](evaṃ) [should-be](syāt) [and-not](na+athaḥ) [tonsure](ca+āmuṃḍanaṃ) [should-be](bhavet)
+[suvāsinī-thus-be-lord-camuṇḍana-be](suvāsinīnāmevaṃ) [syānnāthaścāmuṃḍanaṃ](syānnāthaścāmuṃḍanaṃ) [bhavet](bhavet)
 
 ## mukta-m0-p100-v2484
-[of-hair](keśānāṃ) [for-protection](rakṣaṇa+arthāya) [ṣvāt](ṣvāt) [double](dviguṇa) [fee](dakṣiṇāṃ)
+[hair-protection-for-twice-gift](keśānāṃ) [rakṣaṇārthāyaṣvādviguṇadakṣiṇāṃ](rakṣaṇārthāyaṣvādviguṇadakṣiṇāṃ)
 
 ## mukta-m0-p100-v2485
-[who](yaḥ) [having-taken](gṛhītvā) [vivāsinī](vivāsinī) [by-name](nāma) [thus](evaṃ) [should-be](syāt) [not](na) [otherwise](anyathā) [tonsure](muṃḍanaṃ) [should-be](bhavet)
+[who-taking-vivāsinī-thus-be-not-otherwise-shaving-be](yo) [gṛhītvā](gṛhītvā) [vivāsinī](vivāsinī) [nāmevaṃ](nāmevaṃ) [syānnānyathā](syānnānyathā) [muṃḍanaṃ](muṃḍanaṃ) [bhavet](bhavet)
 
 ## mukta-m0-p100-v2486
-[of-hair](keśānāṃ) [for-protection](rakṣaṇa+arthāya) [should-give](dadyāt) [double](dviguṇa) [fee](dakṣiṇāṃ)
+[hair-protection-for-give-twice-gift](keśānāṃ) [rakṣaṇārthāya](rakṣaṇārthāya) [dadyādviguṇadakṣiṇāṃ](dadyādviguṇadakṣiṇāṃ)
 
 ## mukta-m0-p100-v2487
-[of-one-who-has-eaten](annatasya) [not](na) [to-be-eaten](bhoktavyaṃ) [kṛthāyā](kṛthāyā) [who](kaḥ) [indeed](hi) [is-remembered](saṃsmṛtaḥ)
+[food-not-eaten-krthaya-who-remembered](annatasya) [na](na) [bhoktavyaṃ](bhoktavyaṃ) [kṛthāyākohi](kṛthāyākohi) [saṃsmṛtaḥ](saṃsmṛtaḥ)
 
 ## mukta-m0-p100-v2488
-[superseder](parivetā) [he](saḥ) [to-be-known](vijñeyaḥ) [and](ca) [superseded](parivitī) [by-eldest](pūryataḥ)
+[pariveta-know-sariviti-and-filled](parivetā) [sa](sa) [vijñeyaḥṣarivitī](vijñeyaḥṣarivitī) [ca](ca) [pūryataḥ](pūryataḥ)
 
 ## mukta-m0-p100-v2489
-[in-pīṭha](pīṭhe) [dwelling-in-another-land](deśāṃtara+sthe) [and](ca) [in-sūka](sūke) [gone-forth](pravratitaṃ) [inert](jaḍe)
+[seat-other-place-sūka-pravratita-jada](pīṭhedeśāṃtarasthe) [ca](ca) [sūke](sūke) [pravratitaṃ](pravratitaṃ) [jaḍe](jaḍe)
 
 ## mukta-m0-p100-v2490
-[veda](veda) [syllables](akṣarāṇi) [as-many-as](yāvaṃti) [one-should-employ](niyuṃjyāt) [for-purpose](artha+kāraṇāt)
+[veda-letters-as-many-appoint-purpose](vedākṣarāṇi) [yāvaṃti](yāvaṃti) [niyuṃjyādarthakāraṇāt](niyuṃjyādarthakāraṇāt)
 
 ## mukta-m0-p100-v2491
-[who](yaḥ) [suvrātita](suvrātitaḥ) [having-become](bhūtvā) [sevagtemaithunapunaḥ](sevagtemaithunapunaḥ)
+[own-vrati-become-sevagte-maithuna-again](yasvasuvrātito) [bhūtvāsevagtemaithunapunaḥ](bhūtvāsevagtemaithunapunaḥ)
 
 ## mukta-m0-p100-v2492
-[with-hero](śūra) [association](saṃsaṃparkaṃ) [with-śūdra](śūdreṇa) [sitting-together](saha+āsanaṃ)
+[hero-contact-shudra-with-sitting](śūrasaṃsaṃparkaṃ) [śūdreṇa](śūdreṇa) [sahāsanaṃ](sahāsanaṃ)
 
 ## mukta-m0-p100-v2493
-[from-śūdra](śūdrāt) [having-taken](āhṛtya) [nirvāyaṃ](nirvāyaṃ) [who](ye) [yatyavudhāt](yatyavudhāt) [twice-born](dvijāḥ)
+[shudra-from-taking-extinguish-who-yatyavudha-twice-born](śūdrādāhṛtyanirvāyaṃye) [yatyavudhādvijāḥ](yatyavudhādvijāḥ)
 
 ## mukta-m0-p100-v2494
-[given-by-hand](hasta+datā) [sesame-and-salt](tila+lavaṇavyaṃ) [people-etc.](jana+ādīni) [continually](saṃtataṃ)
+[hand-given-salt-etc-people-continuously](hastadatātilavaṇavyaṃ) [janādīni](janādīni) [saṃtataṃ](saṃtataṃ)
 
 ## mukta-m0-p100-v2495
-[in-seat](āsase) [not](na+eva) [by-vessel](pātreṇa) [which](yat) [food](annam) [is-offered](upadīyate)
+[sit-not-vessel-food-given](āsase) [naiva](naiva) [pātreṇayadannamupadīyate](pātreṇayadannamupadīyate)
 
 ## mukta-m0-p100-v2496
-[given-by-finger](aṃgulyā+datakāvyaṃ) [and](ca) [scattered-salt](pralakṣa+lavaṇaṃ) [which](yat)
+[finger-given-poem-salt-and](aṃgulyādatakāvyaṃ) [pralakṣalavaṇaṃ](pralakṣalavaṇaṃ) [ca](ca) [yat](yat)
 
 ## mukta-m0-p100-v2497
-[in-front](agrataḥ) [should-dwell](nivaset) [happily](sūkhaḥ) [hṛraiḥ](hṛraiḥ) [endowed-with-qualities](ca+guṇa+anvitaḥ)
+[front-dwell-sukhohrai-guna-possessed](agratonivasensūkhohṛraiścaguṇānvitaḥ)
 
 ## mukta-m0-p100-v2498
-[than-brāhmaṇa](brāhmaṇāt) [superiority](kramaḥ) [not](na+asti) [in-brāhmaṇa](vipre) [devoid-of-veda](veda+vivarjita)
+[brahmana-transgression-none-vipra-veda-devoid](brāhmaṇāti) [kramonāsti](kramonāsti) [vipre](vipre) [vedavivarjita](vedavivarjita)
 
 ## mukta-m0-p100-v2499
-[nearby](sānnikṛṣṭam) [studying](adhīyātaṃ) [brāhmaṇa](brāhmaṇaṃ) [who](yaḥ) [would-transgress](vyatikrāmeta)
+[near-study-brahmana-who-transgress](sānnikṛṣṭamadhīyātaṃ) [brāhmaṇaṃ](brāhmaṇaṃ) [yo](yo) [vyatikrāmeta](vyatikrāmeta)
 
 ## mukta-m0-p100-v2500
-[cow-protectors](go+rakṣakān) [traders](vāṇitakāt) [and](tathā) [those-of-wanton-conduct](kāma+kuśīlakān)
+[cow-protectors-vanitaka-and-kamakushilaka](gorakṣakān) [vāṇitakātstathā](vāṇitakātstathā) [kāmakuśīlakān](kāmakuśīlakān)

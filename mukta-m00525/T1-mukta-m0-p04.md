@@ -2,73 +2,73 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p04-v76
-[drum](ḍamaruṃ) [bracelet](valayaḥ) [and](ca) [indeed](eva) [thread](tantu) [which](yat) [tu](tu) [waist+sequence](kaṭi+kramāt)
+[drum](ḍamaruṃ) [bracelet](valayaḥ) [and](ca) [indeed](eva) [thread](tantu) [which](yat) [indeed](tu) [hip-sequence](kaṭikramāt)
 
 ## mukta-m0-p04-v77
-[guidance](nayaḥ) [namaḥ+vāya](nama+vāya) [iti](iti) [on-left](vāme) [and](ca) [above](ūrdhve) [hand+tip](kara+agrake)
+[method](nayo) [salutation](namavo) [and](ca) [left](vāme) [upward](ūrdhve) [hand-tip](karāgrake)
 
 ## mukta-m0-p04-v78
-[on-throat](kaṇṭhe) [ear+bone](karṇa+asthi) [on-face](gāsye) [but](tu) [nose+tip](nāsā+agre) [and](ca) [as](yathā) [sequence](kramam)
+[throat](kaṇṭhe) [ear-bone](karṇāsthi) [cheek](gāsye) [indeed](tu) [nose-tip](nāsāgre) [and](ca) [according](yathā) [order](kramam)
 
 ## mukta-m0-p04-v79
-[first](ādyam) [śiva](śivam) [eyebrow+middle](bhruvoḥ+madhye) [in-middle](madhye) [haṃsa](haṃsa) [well-shining](su+dīptakam)
+[first](ādyaṃ) [Shiva](śivaṃ) [between-brows](bhruvormadhye) [middle](madhye) [hamsa](haṃsa) [bright](sudīptakam)
 
 ## mukta-m0-p04-v80
-[twelve+syllable](dvādaśa+arṇam) [matted-hair+crest](jaṭā+jūṭe) [gaṅgā](gaṃgā) [māyā](māyā) [on-left](vāmake)
+[twelve-syllable](dvādaśārṇaṃ) [matted-hair](jaṭājūṭe) [Ganga](gaṃgā) [Maya](māyā) [left](vāmake)
 
 ## mukta-m0-p04-v81
-[born](jāntam) [dance](nṛtyam) [and](ca) [joined](saṃyuktam) [moon+digit](candra+khaṇḍam) [and](ca) [on-right](dakṣiṇe)
+[born](jāntaṃ) [dance](nṛtyañca) [joined](saṃyuktaṃ) [moon-fragment](candrakhaṇḍaṃ) [and](ca) [right](dakṣiṇe)
 
 ## mukta-m0-p04-v82
-[on-head](śiraḥ) [on-forehead](lalāṭe) [eyebrow+middle](bhrū+madhye) [cheek+lip](gaṇḍa+oṣṭha) [throat](gala) [in-eyes](dṛksu) [and](ca)
+[head](śiro) [forehead](lalāṭe) [brow-middle](bhrūmadhye) [cheek-lip](gaṇḍoṣṭha) [throat](gala) [eyes](dṛksu) [and](ca)
 
 ## mukta-m0-p04-v83
-[in-natural-order](anuloma) [in-reverse-order](vilomena) [haṃsa](haṃsam) [heart](hṛdaya) [on-sides](pārśvake)
+[with-order](anuloma) [reverse](vilomena) [hamsa](haṃsaṃ) [heart](hṛdaya) [side](pārśvake)
 
 ## mukta-m0-p04-v84
-[one-should-place](nyaset) [nine+consisting-of](nava+ātmakam) [O-goddess](devi) [on-ear](karṇe) [on-chest](vakṣasi) [in-bindu](baindave)
+[place](nyasen) [nine-self](navātmakaṃ) [goddess](devi) [ear](karṇe) [chest](vakṣasi) [bindu](baindave)
 
 ## mukta-m0-p04-v85
-[garland](mālāḥ) [and](ca) [one-should-place](vinyaset) [O-goddess](devī) [on-ear](karṇe) [visibly](sākṣāt) [great+mantra](mahā+manum)
+[garlands](mālāśca) [place-goddess](vinyaseddevī) [ear](karṇe) [directly](sākṣān) [great-mantra](mahāmanum)
 
 ## mukta-m0-p04-v86
-[clockwise](prādakṣiṇya) [by-sequence](krameṇa) [indeed](eva) [radiance+root](prabhā+mūle) [but](tu) [one-should-place](vinyaset)
+[clockwise](prādakṣiṇya) [by-order-indeed](krameṇaiva) [aura-root](prabhāmūle) [indeed](tu) [place](vinyaset)
 
 ## mukta-m0-p04-v87
-[one-should-place](vinyaset) [O-goddess](devi) [at-root](mūle) [but](tu) [śivāya](śivāya) [iti](iti) [clockwise](pradakṣiṇam)
+[place-goddess](vinyaseddevi) [root](mūle) [indeed](tu) [to-Shiva](śivāyeti) [clockwise](pradakṣiṇam)
 
 ## mukta-m0-p04-v88
-[southern](dakṣiṇām) [path](vithim) [beginning](ārabhya) [clockwise](prādakṣiṇya) [by-sequence](kramāt) [one-should-write](likhet)
+[right](dakṣiṇāṃ) [path](vithim) [beginning](ārabhya) [clockwise](prādakṣiṇya) [by-order](kramāt) [write](likhet)
 
 ## mukta-m0-p04-v89
-[hrīṃ](hrīṃ) [śrīṃ](śrīṃ) [aiṃ](aiṃ) [haṃ](haṃ) [saḥ](saḥ) [and](ca) [iti](iti) [in-northern](uttareṣu) [in-positions](padeṣu) [and](ca)
+[hrīṃ](hrīṃ) [śrīṃ](śrīṃ) [aiṃ](aiṃ) [haṃ](haṃ) [saḥ](saḥ) [and](ca) [northern](uttareṣu) [in-feet](padeṣu) [and](ca)
 
 ## mukta-m0-p04-v90
-[namaḥ](nama) [śivāya](śivāya) [with-mantra](mantreṇa) [la-va-ra-ya](lavaraya) [hā](hā) [syllable](kṣaram) [one-should-write](likhet)
+[nama](nama) [shivaya](śivāya) [mantra](mantreṇa) [lavaraya](lavaraya) [hā](hā) [syllable](kṣaram) [write](likhet)
 
 ## mukta-m0-p04-v91
-[śrīṃ](śrīṃ) [hrīṃ](hrīṃ) [aiṃ](aiṃ) [klīṃ](klīṃ) [haṃ](haṃ) [saḥ](saḥ) [and](ca) [iti](iti) [one-should-write](likhet) [in-order](kramāt)
+[śrīṃ](śrīṃ) [hrīṃ](hrīṃ) [aiṃ](aiṃ) [klīṃ](klīṃ) [haṃ](haṃ) [saḥ](saḥ) [write](likhet) [by-order](kramāt)
 
 ## mukta-m0-p04-v92
-[in-circle](cakre) [and](ca) [one-should-wipe](mārjayet) [O-goddess](devī) [my+limb](mama+aṅgasya) [outside](bahiḥ) [situated](sthitāḥ)
+[circle](cakre) [and](ca) [cleanse-goddess](mārjayeddevī) [my-limb](mamāṅgasya) [outside](bahiḥ) [situated](sthitāḥ)
 
 ## mukta-m0-p04-v93
-[on-left+side](vāma+bhāge) [of-independent-one](svatantrasyām) [dance+light+play](nṛtta+āloka+na+līlayā)
+[left-side](vāmabhāge) [independent](svatantrasyāṃ) [dance-sight-play](nṛttālokanalīlayā)
 
 ## mukta-m0-p04-v94
-[or](athavā) [in-yāmala](yāmale) [on-left](vāme) [radiance+circle+middle-going](prabhā+valaya+madhya+gām)
+[or](athavā) [in-pair](yāmale) [left](vāme) [aura-circle](prabhāvalaya) [middle-going](madhyagām)
 
 ## mukta-m0-p04-v95
-[of-abodes](ālayoḥ) [circle+union](cakra+saṃmelam) [mantra+union](mantra+yogam) [and](ca) [in-reality](tatvataḥ)
+[abode](ālayoḥ) [circle](cakra) [union](saṃmelaṃ) [mantra-yoga](mantrayogañca) [truly](tatvataḥ)
 
 ## mukta-m0-p04-v96
-[of-them](teṣām) [indeed](hi) [devotion](bhakti) [mā](mā) [always](nityam) [liberation+giving](mukti+dā) [vision](darśana) [O-beloved](priye)
+[their](teṣāṃ) [indeed](hi) [devotion](bhakti) [not](mā) [always](nityaṃ) [liberation-giving](muktidā) [vision](darśana) [dear](priye)
 
 ## mukta-m0-p04-v97
-[mantra+oceans](mantra+arṇavāḥ) [O-great-goddess](mahā+devi) [mantra+milk+ocean+extracted](mantra+kṣīra+arṇava+uddhṛtam)
+[mantra-ocean](mantrārṇavā) [great-goddess](mahādevi) [mantra-milk-ocean-extracted](mantrakṣīrārṇavoddhṛtam)
 
 ## mukta-m0-p04-v98
-[this](idam) [secret](rahasyam) [sin+destroying](pāpa+ghnam) [enjoyment+giving](bhukti+dam) [liberation+giving](mukti+dam) [O-beloved](priye)
+[this](idaṃ) [secret](rahasyaṃ) [sin-destroying](pāpaghnaṃ) [enjoyment-giving](bhuktidaṃ) [liberation-giving](muktidaṃ) [dear](priye)
 
 ## mukta-m0-p04-v99
-[to-be-concealed](gopanīyam) [with-effort](prayatnena) [not](na) [to-be-given](deyam) [to-whom](yasya) [of-anyone](kasya) [cit](cit)
+[to-be-concealed](gopanīyaṃ) [with-effort](prayatnena) [not](na) [to-be-given](deyaṃ) [to-whomsoever](yasya kasya cit)

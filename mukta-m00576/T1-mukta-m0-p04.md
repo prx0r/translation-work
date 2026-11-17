@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p04-v76
-[contemplating](bhāvayan) [near](upa) [+instructs](diśati) [thus](iti)
+bhāvayan(meditating) upadiśati(teaches)
 
 ## mukta-m0-p04-v77
-[not](na) [chariot](ratham) [+on](ā) [you-should-mount](ruheḥ)
+narathamāruheḥ(chariot-riding)
 
 ## mukta-m0-p04-v78
-[garment](vastra) [+in-place-of](sthānīyam) [thus](iti) [śaiva](śaiva) [+scripture](śāsanam) [speaks](āha)
+vastrasthānīyamiti(cloth-place-thus) śaivaśāsanamāha(śaiva-teaching-says)
 
 ## mukta-m0-p04-v79
-[not](na) [you-should-wear-clothes](saṃvastrayethāḥ)
+na(not) saṃvastrayethā(clothe)
 
 ## mukta-m0-p04-v80
-[graspable](grāhya) [+grasper](grāhaka) [+diversity](vaicitryeṇa) [should-be-understood](avabuddhyeta) [thus](iti)
+grāhyagrāhaka(graspable-grasper) vaicitryeṇāvabuddhyeta(variety-understand) iti(thus)
 
 ## mukta-m0-p04-v81
-[all](sarvāṇi) [tangible-things](sāṃsparśakāni) [women](strībhiḥ) [with](saha) [you-should-avoid](varjayeḥ)
+sarvāṇi(all) sāṃsparśakāni(contact-things) strībhiḥ(women) sahavarjayeḥ(with-abandon)
 
 ## mukta-m0-p04-v82
-[nature](prakṛti) [+spirit](puruṣa) [+discrimination](viveka) [+knowledge](jñānaṃ) [sāṃkhya](sāṃkhya) [+scripture](śāstra) [+established](siddham) [instructs](upadiśati)
+prakṛtipuruṣavivekajñānaṃ(nature-spirit-discrimination-knowledge) sāṃkhyaśāstrasiddhasupadiśati(sāṃkhya-scripture-established-teaches)
 
 ## mukta-m0-p04-v83
-[not](na) [stolen-woman](muṣitāṃ) [you-should-look-at](prekṣeḥ)
+na(not) muṣitāṃ(stolen) prekṣeḥ(look)
 
 ## mukta-m0-p04-v84
-[meaning](bhāvaḥ)
+bhāvaḥ(state)
 
 ## mukta-m0-p04-v85
-[not](na) [sport](vihāra) [+for-the-sake-of](arthaḥ) [you-should-chatter](jalpeḥ)
+na(not) vihārārtho(recreation-purpose) jalpeḥ(speak)
 
 ## mukta-m0-p04-v86
-[deception](viglāpanaṃ) [indeed](hi) [that](tat) [thus](iti) [from-scripture](śruteḥ)
+viglāpanaṃ(weakening) hi(indeed) tat(that) iti(thus) śruteḥ(scripture)
 
 ## mukta-m0-p04-v87
-[not](na) [pleasure](ruci) [+for-the-sake-of](artham) [anything](kiṃcana) [you-should-hold](dhārayethāḥ)
+na(not) rucyarthaṃ(pleasure-purpose) kiṃcana(anything) dhārayethāḥ(hold)
 
 ## mukta-m0-p04-v88
-[not](na) [you-should-bathe](snāyāḥ)
+nasnāyāḥ(not-bathe)
 
 ## mukta-m0-p04-v89
-[capable](prabhuḥ)
+prabhuḥ(lord)
 
 ## mukta-m0-p04-v90
-[water](udakaṃ) [or](vā) [you-may-approach](abhyupeyāḥ)
+udakaṃ(water) vābhyupeyāḥ(or-accept)
 
 ## mukta-m0-p04-v91
-[sense-object](viṣaya) [+sport](krīḍana) [+consisting-of](ātmaka) [+alternative-view](pakṣāṃtara) [+for-the-purpose-of-turning-away](vyāvṛtyarthaḥ)
+viṣayakrīḍanātmakapakṣāṃtara(sense-play-nature-opposite) vyāvṛtyarthaḥ(exclusion-purpose)
 
 ## mukta-m0-p04-v92
-[if](yadi) [you-should-bathe](snāyāḥ) [stick](daṃḍaḥ) [indeed](eva) [in-water](apsu) [you-should-smear-around](parilevethāḥ)
+yadi(if) snāyā(bathe) daṃḍa(stick) evāpsu(just-in-waters) parilevethāḥ(sprinkle)
 
 ## mukta-m0-p04-v93
-[if](yadi) [sense-object](viṣaya) [+enjoyment](bhogaṃ) [you-should-perform](vidadhyāḥ) [then](tarhi) [not](na) [in-their-tastes](tadraseṣu) [attached](āsaktāḥ) [you-should-be](syāḥ)
+yadi(if) viṣayabhogaṃ(sense-enjoyment) vidadhyāḥ(perform) tarhi(then) na(not) tadraseṣvāsaktāḥ(those-tastes-attached) syāḥ(be)
 
 ## mukta-m0-p04-v94
-[shaven-headed](muṃḍaḥ) [matted-haired](jaṭilaḥ) [tufted](śikhī) [or](vā) [be](bhava)
+muṃḍo(shaven) jaṭilo(matted) śikhi(tufted) vā(or) bhava(be)
 
 ## mukta-m0-p04-v95
-[twelve](dvādaśa) [+end](ānta) [+upward](ūrdha) [+going](gāminī)
+dvādaśāṃtordhagāminī(twelve-end-upward-going)
 
 ## mukta-m0-p04-v96
-[evening](sāyaṃ) [morning](prātaḥ) [twilight-worship](saṃdhyām) [you-should-perform](upāsīthāḥ)
+sāyaṃ(evening) prātassaṃdhyāmupāsīthāḥ(morning-sandhyā-worship)
 
 ## mukta-m0-p04-v97
-[supreme](pare) [reality](tatve) [and](ca) [union](saṃdhānaṃ) [twilight](saṃdhyā) [thus](iti) [and](ca) [is-called](kathyate)
+pare(supreme) tatve(truth) ca(and) saṃdhānaṃ(union) saṃdhyā(sandhyā) iti(thus) ca(and) kathyate(is-called)
 
 ## mukta-m0-p04-v98
-[you-should-stand](tiṣṭheḥ) [eastern](pūrvāṃ)
+tiṣṭhe(stand) pūrvāṃ(eastern)
 
 ## mukta-m0-p04-v99
-[in-twilight](saṃdhyāyāṃ) [you-should-stand](tiṣṭheḥ) [inward](antar) [+facing](mukha) [+state](bhāve) [rising](utthānam) [effort](udyogaṃ) [you-should-make](vidadyāḥ)
+saṃdhyāyāṃ(sandhyā) tiṣṭheḥ(stand) aṃtarmukhabhāve(inward-facing-state) utthānamudyogaṃ(rising-effort) vidadyāḥ(perform)
 
 ## mukta-m0-p04-v100
-[you-should-sit](āsīthāḥ) [western](uttarām)
+āsīthā(sit) uttarām(northern)

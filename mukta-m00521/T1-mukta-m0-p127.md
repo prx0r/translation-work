@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p127-v3151
-[for-rule](vidhānāṃ) [for-grasping](grahaṇārthāya) [for-all-grain+prosperity](sarvasasya+samṛddhaye)
+[vidhānām](vidhānāṃ) [grahaṇa+arthāya](grahaṇārthāya) [sarva+saya+samṛddhaye](sarvasayassamṛddhaye)
 
 ## mukta-m0-p127-v3152
-[in-which+month](yasmin+māse) [together](samapi) [given+handful+measure](datta+culuka+mātrakaṃ)
+[yasmin+māse+tasam+apidatta+culuka+mātrakaṃ](yasminmāsetasamapidattaculukamātrakaṃ)
 
 ## mukta-m0-p127-v3153
-[shoes](upānehau) [and](ca) [umbrella](chatraṃ) [and](ca) [honey+curd+food+etc](madhu+dadhi+ohana+ādikaṃ)
+[upānehau](upānehau) [ca](ca) [chatraṃ](chatraṃ) [ca](ca) [madhu+dadhi+uhana+ādikaṃ](madhudadhyohanādikaṃ)
 
 ## mukta-m0-p127-v3154
-[in-which](yasmin) [was](āsīt) [woolen-garlanded](aurṇa+mālī) [with-Viśārā](viśārayā+sahitā) [auspicious](aśubhā)
+[yasmanāsīyaurṇamālī+viśārayā+sahitā+śubhā](yasmanāsīyaurṇamālīviśārayāsahitāśubhā)
 
 ## mukta-m0-p127-v3155
-[conjunctions](yogā) [become](bhavaṃti) [whatever](yadyat) [by-me](mayā) [previously+declared](pūrvam+udīritāḥ)
+[yogāḥ](yogā) [bhavaṃti](bhavaṃti) [yadyat](yadyanna) [mayā](mayā) [pūrvam+udīritāḥ](pūrvamudīritāḥ)
 
 ## mukta-m0-p127-v3156
-[king-of-kings](rāja+rājam) [this](imaṃ) [they-call](prāhuḥ) [Lakṣmī-Nārāyaṇa+named](lakṣmī+nārāyaṇa+abhidhaṃ)
+[rāja+rājam](rājarājam) [imaṃ](imaṃ) [prāhulakṣmī](prāhulakṣmī) [nārāyaṇa+abhidhaṃ](nārāyaṇābhidhaṃ)
 
 ## mukta-m0-p127-v3157
-[necessarily](āvaśyaṃ) [of-all-knowledges](sarva+vidyānām) [from-teacher's-face+lotus](ācārya+vadana+aṃvujāt)
+[āvaśyaṃ](āvaśyaṃ) [sarva+vidyānām+ācārya+vadanāṃ+vujāt](sarvavidyānāmacāryavadanāṃvujāt)
 
 ## mukta-m0-p127-v3158
-[thus](itthaṃ) [of-all-knowledges](samasta+vidyānām) [from-teacher's-face+lotus](ācārya+vadana+aṃvujāt)
+[itthaṃ](itthaṃ) [samasta+vidyānām+ācārya+vadanāṃ+vujāt](samastavidyānāmācāryavadanāṃvujāt)
 
 ## mukta-m0-p127-v3159
-[by-teacher's-permission](ācārya+anujñayā) [there](tatra) [according-to-rule](vidhivat) [in-consecrated+fire](saṃskṛte+anale)
+[ācārya+anujñayā](ācāryanujñayā) [tatra](tatra) [vidhivat](vidhivat) [saṃskṛtenale](saṃskṛtenale)
 
 ## mukta-m0-p127-v3160
-[having-made+and-drunk](kṛtvā+apya) [of-the-revered-eight-syllabled](śrīmat+aṣṭa+arṇa) [by-mantra](manunā) [best-of-practitioners](sādhaka+uttamaḥ)
+[kṛtvā+api](kṛtvāpya) [śrimad+īṣṭa+arṇa](śrimadīṣṭārṇa) [manunā+sādhaka+uttamaḥ](manunāsādhakottamaḥ)
 
 ## mukta-m0-p127-v3161
-[more-than-hundred](śata+adhikaṃ) [not-less](na+ūne) [revered-eight-syllabled](śrīmat+aṣṭa+arṇaḥ) [not-thousand](na+sahasrakaṃ)
+[śatādhikaṃ+hāna+ecchīmaddaṣṭāryo](śatādhikaṃhānecchīmaddaṣṭāryo) [na](na) [sahasrakaṃ](sahasrakaṃ)
 
 ## mukta-m0-p127-v3162
-[with-Bhagavad-raśmi+vidyās](bhagavat+raśmi+vidyābhiḥ) [should-offer](hunet) [oblation](havyaṃ) [ghee](ghṛtaṃ) [three-times](tridhā)
+[bhagavad+raśmi+vidyābhiḥ+huneddavyaṃ](bhagavadraśmividyābhirhuneddavyaṃ) [ghṛtaṃ](ghṛtaṃ) [tridhā](tridhā)
 
 ## mukta-m0-p127-v3163
-[with-revered-eight-syllabled+mantra](śrīmat+aṣṭa+arṇa+maṃtreṇa) [more-than-hundred+thousand](śata+adhika+sahasrakaṃ)
+[śrīmad+aṣṭārṇa+maṃtraṇa+śatādhika+sahasrakaṃ](śrīmadaṣṭārṇamaṃtraṇaśatādhikasahasrakaṃ)
 
 ## mukta-m0-p127-v3164
-[with-Bhagavad-raśmi+vidyās](bhagavat+raśmi+vidyābhiḥ) [three-times](tridhā) [having-offered](hutvā) [ghee](ājyam) [with-reverence](ādarāt)
+[bhagavad+raśmi+vidyābhiḥ+tridhā+hutvā+ājyam+ādarāt](bhagavadraśmi vidyābhistridhā hutvājyamādarāt)
 
 ## mukta-m0-p127-v3165
-[circumambulation](pradakṣiṇaṃ) [having-bowed](namaskṛtya) [to-fire-god](jātavedasam) [with-reverence](ādarāt)
+[pradakṣiṇaṃ](pradakṣiṇaṃ) [namaskṛsajātavedasamādarāt](namaskṛsajātavedasamādarāt)
 
 ## mukta-m0-p127-v3166
-[with-jasmine+flowers](mallikā+kusumaiḥ) [or](vā) [or](api) [with-lotuses](karevīraiḥ) [or-else](atha+api) [or](vā)
+[mallikā+kusumair+vāpikarevīrair+atha+api+vā](mallikākusumairvāpikarevīrairathapi vā)
 
 ## mukta-m0-p127-v3167
-[or-with-bilva+leaves](vā+bilva+patraiḥ) [or](vā) [with-tulasī+leaves+mixed](tulasī+dala+miśritaiḥ)
+[ārca+dvilva+patre+vā](ārcadvilvapatre vā) [tulasī+dala+miśritaiḥ](tulasīdalamiśritaiḥ)
 
 ## mukta-m0-p127-v3168
-[five-fruits](phala+paṃcakam) [having-taken](ādāya) [pleasing-to-mind](manasaḥ+manoharaṃ)
+[phala+paṃcakam+ādāyānasaṃsamanoharaṃ](phalapaṃcakamādāyānasaṃsamanoharaṃ)
 
 ## mukta-m0-p127-v3169
-[having-placed](nikṣipya) [on-ground](bhūtale) [pure](śuddhe) [in-some+vessel+middle](yatkiṃcit+pātra+madhyataḥ)
+[nikṣipya](nikṣipya) [bhūtale](bhūtale) [śūdve](śūdve) [yat+kiṃ+vitpātram+adhyataḥ](yatkiṃ vitpātramadhyataḥ)
 
 ## mukta-m0-p127-v3170
-[having-placed](nikṣipya) [of-the-Lord+image](bhagavat+mūrti) [sālagrāma+stone](sālagrāma+śilāṃ) [auspicious](śubhāṃ)
+[nikṣipya](nikṣipya) [bhagavan+mūrti+sālagrāma+śilāṃ+śubhāṃ](bhagavanmūrtisālagrāmaśilāṃśubhāṃ)
 
 ## mukta-m0-p127-v3171
-[one-hundred-and-eight](aṣṭa+uttara+śataṃ) [with-niṣka+gold-coins](niṣka+suvarṇaiḥ) [with-Brahma-vidyā](brahma+vidyayā)
+[aṣṭottara+śataṃ](aṣṭottaraśataṃ) [niṣka+suvarṇair+brahma+vidyayā](niṣkasuvarṇairbrahmavidyayā)
 
 ## mukta-m0-p127-v3172
-[Brahma-vidyā](brahma+vidyāṃ) [having-uttered](samuccārya) [Lakṣmī-Nārāyaṇa](lakṣmī+nārāyaṇau) [one-should-worship](yajet)
+[brahma+vidyāṃ](brahmavidyāṃ) [samuccārya+lakṣmī+nārāyaṇau](samuccāryalakṣmīnārāyaṇau) [yajejet](yajejet)
 
 ## mukta-m0-p127-v3173
-[curd+rice](dadhi+odanaṃ) [then](tato) [one-should-give](dadyāt) [to-Śrī-and-Śrī](śrīśrībhyāṃ) [is-honored](mahīyate)
+[dadhyodanaṃ](dadhyodanaṃ) [tato](tato) [dadyāc+chīśrīśrībhyāṃ](dadyācchīśrīśrībhyāṃ) [mahīyate](mahīyate)
 
 ## mukta-m0-p127-v3174
-[teacher](ācāryaṃ) [having-adorned](samalaṃkṛtya) [with-garments+ornaments+etc](vastra+alaṃkaraṇa+ādibhiḥ)
+[ācāryaṃ](ācāryaṃ) [samalaṃkṛtyaṃ](samalaṃkṛtyaṃ) [vastrālaṃkaraṇādibhiḥ](vastrālaṃkaraṇādibhiḥ)
 
 ## mukta-m0-p127-v3175
-[fine+garment+upper-cloth](sūkṣma+vāsaḥ+upugaṃ) [having-given](datvā) [sālagrāma+stone](sālagrāma+śilāṃ) [auspicious](śubhāṃ)
+[sūkṣmavāsopugaṃdatvā](sūkṣmavāsopugaṃdatvā) [sālagrāma+śilāṃ+śubhāṃ](sālagrāmaśilāṃ śubhāṃ)
