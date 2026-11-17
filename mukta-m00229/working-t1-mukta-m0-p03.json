@@ -8,7 +8,7 @@
 "tokens": [
 {
 "surface": "nityaṃ",
-"quick_gloss": "eternal"
+"quick_gloss": "always"
 },
 {
 "surface": "dhanaṃ",
@@ -32,16 +32,24 @@
 "quick_gloss": "son"
 },
 {
-"surface": "vivṛddhiḥsyād",
-"quick_gloss": "increase-would-be"
+"surface": "vivṛddhiḥ",
+"quick_gloss": "increase"
+},
+{
+"surface": "syād",
+"quick_gloss": "syāt"
 },
 {
 "surface": "bandhau",
-"quick_gloss": "in-relative"
+"quick_gloss": "kinsman"
 },
 {
-"surface": "bāndhavavatpriyam",
-"quick_gloss": "relative-like-dear"
+"surface": "bāndhavavat",
+"quick_gloss": "like-kinsman"
+},
+{
+"surface": "priyam",
+"quick_gloss": "dear"
 }
 ]
 },
@@ -58,7 +66,7 @@
 },
 {
 "surface": "rudre",
-"quick_gloss": "in-Rudra"
+"quick_gloss": "rudra"
 },
 {
 "surface": "grahe",
@@ -108,15 +116,15 @@
 "tokens": [
 {
 "surface": "matimān",
-"quick_gloss": "intelligent-one"
+"quick_gloss": "wise"
 },
 {
 "surface": "vidyāt",
-"quick_gloss": "should-know"
+"quick_gloss": "knows"
 },
 {
 "surface": "siddhādikaṃ",
-"quick_gloss": "siddha-etc"
+"quick_gloss": "accomplished-etc"
 },
 {
 "surface": "tataḥ",
@@ -133,15 +141,15 @@
 "tokens": [
 {
 "surface": "mantrādyarṇacatuḥkoṣṭhaparyantaṃ",
-"quick_gloss": "mantra-etc-letter-four-cell-limit"
+"quick_gloss": "mantra-etc"
 },
 {
 "surface": "gaṇayed",
-"quick_gloss": "should-count"
+"quick_gloss": "count"
 },
 {
 "surface": "budhaḥ",
-"quick_gloss": "wise-one"
+"quick_gloss": "wise"
 }
 ]
 },
@@ -158,11 +166,11 @@
 },
 {
 "surface": "sādhyastu",
-"quick_gloss": "to-be-accomplished"
+"quick_gloss": "accomplishable"
 },
 {
 "surface": "japahomataḥ",
-"quick_gloss": "by-japa-homa"
+"quick_gloss": "japa-homa"
 }
 ]
 },
@@ -175,15 +183,15 @@
 "tokens": [
 {
 "surface": "gaṇayen",
-"quick_gloss": "should-count"
+"quick_gloss": "counts"
 },
 {
 "surface": "mantrī",
-"quick_gloss": "mantra-knower"
+"quick_gloss": "mantrin"
 },
 {
 "surface": "nāmakoṣṭhānusārataḥ",
-"quick_gloss": "name-cell-according-to"
+"quick_gloss": "name-squares"
 }
 ]
 },
@@ -200,11 +208,11 @@
 },
 {
 "surface": "dviguṇāt",
-"quick_gloss": "from-double"
+"quick_gloss": "double"
 },
 {
 "surface": "siddhasādhyakaḥ",
-"quick_gloss": "siddha-sadhya"
+"quick_gloss": "accomplished-accomplishable"
 }
 ]
 },
@@ -217,19 +225,19 @@
 "tokens": [
 {
 "surface": "dviguṇāt",
-"quick_gloss": "from-double"
+"quick_gloss": "double"
 },
 {
 "surface": "sādhyasiddhastu",
-"quick_gloss": "sadhya-siddha"
+"quick_gloss": "accomplishable-accomplished"
 },
 {
 "surface": "sādhyasādhyo",
-"quick_gloss": "sadhya-sadhya"
+"quick_gloss": "accomplishable-unaccomplishable"
 },
 {
 "surface": "nirarthakaḥ",
-"quick_gloss": "meaningless"
+"quick_gloss": "useless"
 }
 ]
 },
@@ -242,7 +250,7 @@
 "tokens": [
 {
 "surface": "rathātmahā",
-"quick_gloss": "chariot-self-great"
+"quick_gloss": "chariot-self"
 }
 ]
 },
@@ -254,12 +262,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "rāśiśuddhiḥsyāda",
-"quick_gloss": "zodiac-purity-would-be"
+"surface": "rāśiśuddhiḥ",
+"quick_gloss": "purity-of-sign"
 },
 {
-"surface": "vārāhītantramabravīt",
-"quick_gloss": "Varahi-tantra-said"
+"surface": "syāda",
+"quick_gloss": "syād"
+},
+{
+"surface": "vārāhītantram",
+"quick_gloss": "vārāhī-tantra"
+},
+{
+"surface": "abravīt",
+"quick_gloss": "said"
 }
 ]
 },
@@ -272,15 +288,19 @@
 "tokens": [
 {
 "surface": "dhīmadbhir",
-"quick_gloss": "by-wise-ones"
+"quick_gloss": "by-wise"
 },
 {
 "surface": "vaiphalyaṃ",
-"quick_gloss": "futility"
+"quick_gloss": "fruitlessness"
 },
 {
-"surface": "yadato'nyathā",
-"quick_gloss": "what-from-otherwise"
+"surface": "yadato",
+"quick_gloss": "therefore"
+},
+{
+"surface": "anyathā",
+"quick_gloss": "otherwise"
 }
 ]
 },
@@ -293,7 +313,7 @@
 "tokens": [
 {
 "surface": "pratyagāyatāścaivaṃ",
-"quick_gloss": "drawn-backwards"
+"quick_gloss": "and-thus"
 },
 {
 "surface": "bhānurekhāḥ",
@@ -301,7 +321,7 @@
 },
 {
 "surface": "prakalpayet",
-"quick_gloss": "should-construct"
+"quick_gloss": "should-arrange"
 }
 ]
 },
@@ -314,15 +334,19 @@
 "tokens": [
 {
 "surface": "ṣaṭsvekamekamālikhya",
-"quick_gloss": "in-six-one-each-write"
+"quick_gloss": "in-six-one-each"
 },
 {
 "surface": "kādihāntaṃ",
-"quick_gloss": "from-ka-to-ha-end"
+"quick_gloss": "ka-to-ha"
 },
 {
-"surface": "tato'kṣaram",
-"quick_gloss": "then-letter"
+"surface": "tato",
+"quick_gloss": "then"
+},
+{
+"surface": "akṣaram",
+"quick_gloss": "letter"
 }
 ]
 },
@@ -335,7 +359,7 @@
 "tokens": [
 {
 "surface": "digbhūgiriśrutigajarāmarṣiṣvabdhiṣaṭatrikaiḥ",
-"quick_gloss": "direction-earth-mountain-scripture-elephant-anger-ocean-six-three"
+"quick_gloss": "direction-earth-mountain-ear-elephant-anger-ocean-six-three"
 }
 ]
 },
@@ -348,7 +372,7 @@
 "tokens": [
 {
 "surface": "indranakṣatranayanaravipañcadaśaturbhiḥ",
-"quick_gloss": "Indra-constellation-eye-sun-fifteen-four"
+"quick_gloss": "indra-nakshatra-eye-sun-fifteen-four"
 }
 ]
 },
@@ -361,7 +385,7 @@
 "tokens": [
 {
 "surface": "nāmārṇakoṣṭhāṅkamatho",
-"quick_gloss": "name-letter-cell-number-then"
+"quick_gloss": "name-letter-square-number-then"
 },
 {
 "surface": "ādyāntanihitaṃ",
@@ -382,7 +406,7 @@
 "tokens": [
 {
 "surface": "paryavasannāste",
-"quick_gloss": "settled-those"
+"quick_gloss": "ended-those"
 },
 {
 "surface": "guṇakāṅkāḥ",
@@ -390,7 +414,7 @@
 },
 {
 "surface": "samāsataḥ",
-"quick_gloss": "in-summary"
+"quick_gloss": "in-short"
 }
 ]
 },
@@ -424,7 +448,7 @@
 },
 {
 "surface": "vidyāt",
-"quick_gloss": "should-know"
+"quick_gloss": "knows"
 },
 {
 "surface": "adhikaṃ",
@@ -432,7 +456,7 @@
 },
 {
 "surface": "śeṣamaṅkavit",
-"quick_gloss": "remainder-number-knowing"
+"quick_gloss": "remainder"
 }
 ]
 },
@@ -445,7 +469,7 @@
 "tokens": [
 {
 "surface": "dṛśyeta",
-"quick_gloss": "should-be-seen"
+"quick_gloss": "seen"
 },
 {
 "surface": "so'dhamarṇaḥ",
@@ -478,7 +502,7 @@
 },
 {
 "surface": "na",
-"quick_gloss": "not"
+"quick_gloss": "never"
 },
 {
 "surface": "kadācana",
@@ -495,7 +519,7 @@
 "tokens": [
 {
 "surface": "varṇamādāya",
-"quick_gloss": "taking-letter"
+"quick_gloss": "letter-taking"
 },
 {
 "surface": "paramaṃ",
@@ -503,11 +527,11 @@
 },
 {
 "surface": "tu",
-"quick_gloss": "but"
+"quick_gloss": "tu"
 },
 {
 "surface": "ye",
-"quick_gloss": "those"
+"quick_gloss": "ye"
 }
 ]
 },
@@ -520,11 +544,11 @@
 "tokens": [
 {
 "surface": "saptabhirguṇanīyāstu",
-"quick_gloss": "by-seven-to-be-multiplied"
+"quick_gloss": "by-seven-multiplied"
 },
 {
 "surface": "haraṇīyāstribhistribhiḥ",
-"quick_gloss": "to-be-divided-by-three-by-three"
+"quick_gloss": "divided-by-three-three"
 }
 ]
 }

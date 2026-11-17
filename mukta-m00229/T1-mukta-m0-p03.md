@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p03-v51
-[eternal](nityaṃ) [wealth](dhanaṃ) [wealth-increase-giving](dhanavivṛddhidam)
+[always](nityaṃ) [wealth](dhanaṃ) [wealth-increase-giving](dhanavivṛddhidam)
 
 ## mukta-m0-p03-v52
-[son](putra) [increase-would-be](vivṛddhiḥsyād) [in-relative](bandhau) [relative-like-dear](bāndhavavatpriyam)
+[son](putra) [increase](vivṛddhiḥ) [syāt](syād) [kinsman](bandhau) [like-kinsman](bāndhavavat) [dear](priyam)
 
 ## mukta-m0-p03-v53
-[thus](tathā) [in-Rudra](rudre) [planet](grahe) [eye](netre) [age](yuge) [sun](ravau)
+[thus](tathā) [rudra](rudre) [planet](grahe) [eye](netre) [age](yuge) [sun](ravau)
 
 ## mukta-m0-p03-v54
 [and](ca) [autumn-moon](śaracandre) [thirteenth](trayodaśe)
 
 ## mukta-m0-p03-v55
-[intelligent-one](matimān) [should-know](vidyāt) [siddha-etc](siddhādikaṃ) [then](tataḥ)
+[wise](matimān) [knows](vidyāt) [accomplished-etc](siddhādikaṃ) [then](tataḥ)
 
 ## mukta-m0-p03-v56
-[mantra-etc-letter-four-cell-limit](mantrādyarṇacatuḥkoṣṭhaparyantaṃ) [should-count](gaṇayed) [wise-one](budhaḥ)
+[mantra-etc](mantrādyarṇacatuḥkoṣṭhaparyantaṃ) [count](gaṇayed) [wise](budhaḥ)
 
 ## mukta-m0-p03-v57
-[by-time](kālena) [to-be-accomplished](sādhyastu) [by-japa-homa](japahomataḥ)
+[by-time](kālena) [accomplishable](sādhyastu) [japa-homa](japahomataḥ)
 
 ## mukta-m0-p03-v58
-[should-count](gaṇayen) [mantra-knower](mantrī) [name-cell-according-to](nāmakoṣṭhānusārataḥ)
+[counts](gaṇayen) [mantrin](mantrī) [name-squares](nāmakoṣṭhānusārataḥ)
 
 ## mukta-m0-p03-v59
-[as-stated](yathoktena) [from-double](dviguṇāt) [siddha-sadhya](siddhasādhyakaḥ)
+[as-stated](yathoktena) [double](dviguṇāt) [accomplished-accomplishable](siddhasādhyakaḥ)
 
 ## mukta-m0-p03-v60
-[from-double](dviguṇāt) [sadhya-siddha](sādhyasiddhastu) [sadhya-sadhya](sādhyasādhyo) [meaningless](nirarthakaḥ)
+[double](dviguṇāt) [accomplishable-accomplished](sādhyasiddhastu) [accomplishable-unaccomplishable](sādhyasādhyo) [useless](nirarthakaḥ)
 
 ## mukta-m0-p03-v61
-[chariot-self-great](rathātmahā)
+[chariot-self](rathātmahā)
 
 ## mukta-m0-p03-v62
-[zodiac-purity-would-be](rāśiśuddhiḥsyāda) [Varahi-tantra-said](vārāhītantramabravīt)
+[purity-of-sign](rāśiśuddhiḥ) [syād](syāda) [vārāhī-tantra](vārāhītantram) [said](abravīt)
 
 ## mukta-m0-p03-v63
-[by-wise-ones](dhīmadbhir) [futility](vaiphalyaṃ) [what-from-otherwise](yadato'nyathā)
+[by-wise](dhīmadbhir) [fruitlessness](vaiphalyaṃ) [therefore](yadato) [otherwise](anyathā)
 
 ## mukta-m0-p03-v64
-[drawn-backwards](pratyagāyatāścaivaṃ) [sun-lines](bhānurekhāḥ) [should-construct](prakalpayet)
+[and-thus](pratyagāyatāścaivaṃ) [sun-lines](bhānurekhāḥ) [should-arrange](prakalpayet)
 
 ## mukta-m0-p03-v65
-[in-six-one-each-write](ṣaṭsvekamekamālikhya) [from-ka-to-ha-end](kādihāntaṃ) [then-letter](tato'kṣaram)
+[in-six-one-each](ṣaṭsvekamekamālikhya) [ka-to-ha](kādihāntaṃ) [then](tato) [letter](akṣaram)
 
 ## mukta-m0-p03-v66
-[direction-earth-mountain-scripture-elephant-anger-ocean-six-three](digbhūgiriśrutigajarāmarṣiṣvabdhiṣaṭatrikaiḥ)
+[direction-earth-mountain-ear-elephant-anger-ocean-six-three](digbhūgiriśrutigajarāmarṣiṣvabdhiṣaṭatrikaiḥ)
 
 ## mukta-m0-p03-v67
-[Indra-constellation-eye-sun-fifteen-four](indranakṣatranayanaravipañcadaśaturbhiḥ)
+[indra-nakshatra-eye-sun-fifteen-four](indranakṣatranayanaravipañcadaśaturbhiḥ)
 
 ## mukta-m0-p03-v68
-[name-letter-cell-number-then](nāmārṇakoṣṭhāṅkamatho) [first-last-placed](ādyāntanihitaṃ) [in-order](kramāt)
+[name-letter-square-number-then](nāmārṇakoṣṭhāṅkamatho) [first-last-placed](ādyāntanihitaṃ) [in-order](kramāt)
 
 ## mukta-m0-p03-v69
-[settled-those](paryavasannāste) [multiplier-numbers](guṇakāṅkāḥ) [in-summary](samāsataḥ)
+[ended-those](paryavasannāste) [multiplier-numbers](guṇakāṅkāḥ) [in-short](samāsataḥ)
 
 ## mukta-m0-p03-v70
 [that-that](tattattu) [mountain-earth-sun-river](nagabhūbhānunimnagāḥ)
 
 ## mukta-m0-p03-v71
-[knowing-both-debt](jñātvobhayor-ṛṇaṃ) [should-know](vidyāt) [greater](adhikaṃ) [remainder-number-knowing](śeṣamaṅkavit)
+[knowing-both-debt](jñātvobhayor-ṛṇaṃ) [knows](vidyāt) [greater](adhikaṃ) [remainder](śeṣamaṅkavit)
 
 ## mukta-m0-p03-v72
-[should-be-seen](dṛśyeta) [that-debtor](so'dhamarṇaḥ) [declared](prakīrtitaḥ)
+[seen](dṛśyeta) [that-debtor](so'dhamarṇaḥ) [declared](prakīrtitaḥ)
 
 ## mukta-m0-p03-v73
-[in-that-state](tadbhāve) [equal-wealth](samadhanaṃ) [creditor](dhanikaṃ) [not](na) [ever](kadācana)
+[in-that-state](tadbhāve) [equal-wealth](samadhanaṃ) [creditor](dhanikaṃ) [never](na) [ever](kadācana)
 
 ## mukta-m0-p03-v74
-[taking-letter](varṇamādāya) [supreme](paramaṃ) [but](tu) [those](ye)
+[letter-taking](varṇamādāya) [supreme](paramaṃ) [tu](tu) [ye](ye)
 
 ## mukta-m0-p03-v75
-[by-seven-to-be-multiplied](saptabhirguṇanīyāstu) [to-be-divided-by-three-by-three](haraṇīyāstribhistribhiḥ)
+[by-seven-multiplied](saptabhirguṇanīyāstu) [divided-by-three-three](haraṇīyāstribhistribhiḥ)
