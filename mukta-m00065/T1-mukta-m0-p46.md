@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p46-v1126
-[pada](kartaryabhayabhṛdyāmye) [pada](vāme) [pada](kaṇṭākapālinī)
+[scissors](kartari) [fearless](abhaya) [bearing](bhṛd) [right](yāmye) [left](vāme) [thorn-skull-bearing](kaṇṭākapālinī)
 
 ## mukta-m0-p46-v1127
-[pada](musalaṃ) [pada](bibhratī) [pada](yāmye) [pada](somye) [pada](ca) [pada](phalapallavau)
+[pestle](musalaṃ) [bearing](bibhratī) [right](yāmye) [left](somye) [fruit+sprout](phalapallavau)
 
 ## mukta-m0-p46-v1128
-[pada](samatsya) [pada](kārdhabhṛdvāme) [pada](matsyamanyatra) [pada](vāsitā)
+[fish-half](samatsya) [bearing](kārdhabhṛd) [left](vāme) [fish](matsyam) [elsewhere](anyatra) [perfumed](vāsitā)
 
 ## mukta-m0-p46-v1129
-[pada](hāhāravā) [pada](sitā) [pada](krūrā) [pada](rāsabhāsyā) [pada](kharāsanā)
+[haha-sound](hāhāravā) [white](sitā) [cruel](krūrā) [donkey-faced](rāsabhāsyā) [donkey-seated](kharāsanā)
 
 ## mukta-m0-p46-v1130
-[pada](vāme) [pada](masīghaṭīṃ) [pada](pāśaṃ) [pada](lekhanīdaṇḍabhṛttataḥ)
+[left](vāme) [ink-pot](masīghaṭīṃ) [noose](pāśaṃ) [pen-staff](lekhanīdaṇḍabhṛt) [then](tataḥ)
 
 ## mukta-m0-p46-v1131
-[pada](vāme) [pada](samadiraṃ) [pada](pātraṃ) [pada](bibhratī) [pada](jambuke) [pada](sthitā)
+[left](vāme) [wine-vessel](samadiraṃ) [cup](pātraṃ) [bearing](bibhratī) [jackal](jambuke) [standing](sthitā)
 
 ## mukta-m0-p46-v1132
-[pada](yāmye'syāḥ) [pada](khiṅkhirīṃ) [pada](śūlaṃ) [pada](kharparaṃ) [pada](lelihānyataḥ)
+[right](yāmye) [her](asyāḥ) [bell](khiṅkhirīṃ) [trident](śūlaṃ) [skull-bowl](kharparaṃ) [licking](lelihānyataḥ)
 
 ## mukta-m0-p46-v1133
-[pada](bibhrāṇobhājina) [pada](dvābhyāṃ) [pada](sarvajñā) [pada](pretagāsitā)
+[bearing](bibhrāṇa) [two](dvābhyāṃ) [all-knowing](sarvajñā) [preta-riding](pretagāsitā)
 
 ## mukta-m0-p46-v1134
-[pada](śalaḍamaruhastā) [pada](ca) [pada](godhāgā) [pada](taralāsitā)
+[trident](śalaḍamaru) [hand](hastā) [ca](ca) [lizard-riding](godhāgā) [trembling](taralā) [dark](sitā)
 
 ## mukta-m0-p46-v1135
-[pada](śavārdhaṃ) [pada](bibhratī) [pada](saumye) [pada](śūlaṃ) [pada](mugdaramanyataḥ)
+[corpse-half](śavārdhaṃ) [bearing](bibhratī) [left](saumye) [trident](śūlaṃ) [club](mugdaram) [elsewhere](anyataḥ)
 
 ## mukta-m0-p46-v1136
-[pada](dakṣiṇo) [pada](jāpyayāmālāṃ) [pada](ca) [pada](vāme) [pada](pusta) [pada](kamaṇḍalum)
+[right](dakṣiṇo) [rosary](jāpyayāmālāṃ) [ca](ca) [left](vāme) [book](pusta) [water-pot](kamaṇḍalum)
 
 ## mukta-m0-p46-v1137
-[pada](śūrpamuṇḍakarā) [pada](yāmye'nyatra) [pada](śephālikākabhṛt)
+[winnowing-fan](śūrpa) [skull-hand](muṇḍakarā) [right](yāmye) [elsewhere](anyatra) [night-jasmine](śephālikā) [bearing](kabhṛt)
 
 ## mukta-m0-p46-v1138
-[pada](khadvāṅgaṃ) [pada](rurukaṃ) [pada](saumye) [pada](śūlolke) [pada](bibhratī) [pada](tataḥ)
+[skull-staff](khadvāṅgaṃ) [deer](rurukaṃ) [left](saumye) [trident-torch](śūlolke) [bearing](bibhratī) [then](tataḥ)
 
 ## mukta-m0-p46-v1139
-[pada](kaśūlāndhakakaṅkālabhṛdadvayo) [pada](ścamavāsinī)
+[trident-darkness-skull-bearing](kaśūlāndhakakaṅkālabhṛd) [two](advayo) [cremation-ground-dwelling](ścamavāsinī)
 
 ## mukta-m0-p46-v1140
-[pada](vāme) [pada](karoghadhāpāśaṃ) [pada](ghaṇṭeśūlkadharānyathaḥ)
+[left](vāme) [hand-noose](karoghadhāpāśaṃ) [bell](ghaṇṭe) [trident](śūlka) [bearing](dharānyathaḥ)
 
 ## mukta-m0-p46-v1141
-[pada](śaṅkhakheṭakahastogrā) [pada](yāmye) [pada](svastikakhaḍgabhṛt)
+[conch-shield-hand-fierce](śaṅkhakheṭakahastogrā) [right](yāmye) [swastika-sword-bearing](svastikakhaḍgabhṛt)
 
 ## mukta-m0-p46-v1142
-[pada](gadādhvajadharā) [pada](yāmye) [pada](vāme) [pada](pāśakapālabhṛt)
+[mace-banner-bearing](gadādhvajadharā) [right](yāmye) [left](vāme) [noose-skull-bearing](pāśakapālabhṛt)
 
 ## mukta-m0-p46-v1143
-[pada](cakrasthā) [pada](cakrakaṭṭārīdhārīṇī) [pada](dakṣiṇe) [pada](kare)
+[wheel-standing](cakrasthā) [wheel-dagger-bearing](cakrakaṭṭārīdhārīṇī) [right](dakṣiṇe) [hand](kare)
 
 ## mukta-m0-p46-v1144
-[pada](kumbhapāśadharāśvetā) [pada](kroḍaputrā) [pada](karaṅkiṇī)
+[pot-noose-bearing](kumbhapāśadharā) [white](śvetā) [boar-son](kroḍaputrā) [skull-bowl](karaṅkiṇī)
 
 ## mukta-m0-p46-v1145
-[pada](jalairvṛtā) [pada](ghanārūḍhā) [pada](taḍinmaṇḍalamaṇḍitā)
+[water-surrounded](jalairvṛtā) [cloud-mounted](ghanārūḍhā) [lightning-circle-ornamented](taḍinmaṇḍalamaṇḍitā)
 
 ## mukta-m0-p46-v1146
-[pada](kapālaṃ) [pada](muṇḍamanyatra) [pada](śatrughnāḥ) [pada](sphaṭikatviṣaḥ)
+[skull](kapālaṃ) [head](muṇḍam) [elsewhere](anyatra) [enemy-slayer](śatrughnāḥ) [crystal-splendor](sphaṭikatviṣaḥ)
 
 ## mukta-m0-p46-v1147
-[pada](kālakarṇī) [pada](jagatkhyātā) [pada](karṇe) [pada](kālavibhūṣaṇā)
+[time-ear](kālakarṇī) [world-famous](jagatkhyātā) [ear](karṇe) [time-ornament](kālavibhūṣaṇā)
 
 ## mukta-m0-p46-v1148
-[pada](kartaryabhayabhradyāmye) [pada](śūla) [pada](pāśadharānyataḥ)
+[scissors](kartari) [fearless](abhayabhrad) [right](yāmye) [trident](śūla) [noose-bearing](pāśadharānyataḥ)
 
 ## mukta-m0-p46-v1149
-[pada](kamaṇḍalukuśavyagrā) [pada](cātrasūtrasruvānvitā)
+[water-pot-kuśa-busy](kamaṇḍalukuśavyagrā) [thread-spoon-equipped](cātrasūtrasruvānvitā)
 
 ## mukta-m0-p46-v1150
-[pada](candrāvalī) [pada](ca) [pada](hemābhā) [pada](kṛṣṇasāramṛgāsanā)
+[moon-creeper](candrāvalī) [ca](ca) [golden](hemābhā) [black-deer-seat](kṛṣṇasāramṛgāsanā)
