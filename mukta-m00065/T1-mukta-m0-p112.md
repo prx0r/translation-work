@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p112-v2776
-[therefore](tasmāt) [should-make](kuryāt) [of-waters](apām) [in-path](mārge) [two](dve) [two](dve) [with-holes](randhraiḥ) [from-earth-step](mahīkramāt)
+therefore-do water's path two two with-holes from-earth-step
 
 ## mukta-m0-p112-v2777
-[rāma-portions](rāmāṃśaiḥ) [there](tatra) [lump](piṇḍī) [should-be](syāt) [season-veda-portions](ṛtuvedayamāṃśakaiḥ)
+with-Rama-parts there lump should-be with-season-Veda-Yama-parts
 
 ## mukta-m0-p112-v2778
-[exit](niṣkrāntiḥ) [direction-by-direction](diśadiśyā) [only](eva) [nine](nava) [only](eva) [chariot-makers](rathakāḥ) [considered](matāḥ)
+exit direction-by-direction only nine chariots considered
 
 ## mukta-m0-p112-v2779
-[having-made](kṛtvā) [with-eighteen](aṣṭādaśabhiḥ) [earth](bhūḥ) [should-be](syāt) [other](anya) [one-by-one](ekaikam) [without](vinā) [order](kramāt)
+making eighteen earth should-be one-by-one without sequence
 
 ## mukta-m0-p112-v2780
-[four-gated](caturdvāram) [four-nosed](caturnāsam) [adorned](yutam) [with-various-cavities](vicitrakuharaiḥ)
+four-gate four-nose with-variegated-cavities
 
 ## mukta-m0-p112-v2781
-[ten-less-hundred-horned](daśonaśataśṛṅgam) [and](ca) [should-construct](vidadhyāt) [Mandara](mandaram) [wise](sudhīḥ)
+ten-less-hundred-peaks and should-make Mandara wise-one
 
 ## mukta-m0-p112-v2782
-[quality](guṇam) [form](rūpam) [that-front](tadagre) [and](ca) [horizontal-fire](tiryagvahnim) [should-destroy](vināśayet)
+quality form that-front and transverse-fire destroy
 
 ## mukta-m0-p112-v2783
-[that-like](tadvat) [cutting](luptvā) [in-between](antare) [middle-half-chariot](madhyārdharatham) [should-place](sthāpayet) [with-waters](jalaiḥ)
+similarly-cutting middle half-chariot place with-waters
 
 ## mukta-m0-p112-v2784
-[like-Mā](mādivat)
+like-Ma
 
 ## mukta-m0-p112-v2785
-[remaining-one-by-one-abandonment](śeṣaikaikaparityāgāt) [sun-earth-rise](arkabhūmīsamucchrayam)
+remaining one-by-one abandonment sun-earth-rise
 
 ## mukta-m0-p112-v2786
-[eighty-horned-joined](aśītiśṛṅgayuktam) [Kailasa](kailāsam) [should-construct](ghaṭayet) [excellent](varam)
+eighty-peaks-equipped Kailasa make excellent
 
 ## mukta-m0-p112-v2787
-[three-decay](trikṣayāt) [from-left](vāmataḥ) [corner](koṇaḥ) [their-pillar](tayostambhaḥ) [thin-decay](tanukṣayāt)
+three-decay from-left corner those-pillar thin-decay
 
 ## mukta-m0-p112-v2788
-[thus-other-half](itthamevāparārdham) [should-be](syāt) [in-four-directions](catu-rdikṣu) [all-around](samantataḥ)
+thus-other-half should-be four directions all-around
 
 ## mukta-m0-p112-v2789
-[with-doors-bolts](sakapāṭārgalaiḥ) [Veda-pots](vedaghaṭaiḥ) [naga](nāga) [windows](gavākṣakaiḥ)
+with-door-bolt-Veda-pot-parts snake window
 
 ## mukta-m0-p112-v2790
-[that-above-one-by-one-diminution](tadūrdhvaikaikasaṃhrāsāt) [should-be-made](kartavyāḥ) [earths](bhūmayaḥ) [ten](daśa)
+above one-by-one decrease make earths ten
 
 ## mukta-m0-p112-v2791
-[cavities](kuharāṇi) [by-gods](suraiḥ) [in-middle](madhye) [chariot](rathake) [should-be](syuḥ) [two-vimanas](vimānakau)
+cavities gods middle chariot two aerial-cars
 
 ## mukta-m0-p112-v2792
-[door-one-eight](dvāraikāṣṭa) [summit-lord](samādyeśaḥ) [seventy](saptatibhiḥ) [horns](viṣāṇakaiḥ)
+gate-one-eight first-lord seventy horns
 
 ## mukta-m0-p112-v2793
-[portion-one-by-one](bhāgaikaikena) [by-insertion](saṃveśāt) [three-parts](tryaṃśaiḥ) [and](ca) [upper-two](uparadhau) [considered](matau)
+part one-by-one insertion three-parts upper-two considered
 
 ## mukta-m0-p112-v2794
-[supporter](sāndhāraḥ) [four-faced](caturāsyaḥ) [and](ca) [Veda-agho](vedāghraḥ) [rotation-possessed](bhramaṇānvitaḥ)
+supporter four-faced Veda-fragrant revolving
 
 ## mukta-m0-p112-v2795
-[Vidyadhara-groups](vidyādhārākulaiḥ) [pleasant](ramyaiḥ) [auspicious](bhadraḥ) [should-be](syāt) [sixty-horned](ṣaṣṭiśṛṅgavān)
+Vidyadhara-hosts pleasant auspicious sixty-peaks
 
 ## mukta-m0-p112-v2796
-[auspicious-parts](bhadrabhāgaiḥ) [great-auspicious](mahābhadraḥ) [stated](proktaḥ) [stair-beautified](sopānaśobhitaḥ)
+auspicious-parts great-auspicious said stair-beautiful
 
 ## mukta-m0-p112-v2797
-[above](upariṣṭāt) [vimana-portion](vimānāṃśaḥ) [in-order](kramataḥ) [Meru-Mandara](merumandarau)
+above aerial-car-part sequence Meru-Mandara
 
 ## mukta-m0-p112-v2798
-[all-self](sarvātmā) [with-peaks](śikharaiḥ) [should-be-made](kāryaḥ) [sarvatobhadra](sarvatobhadrakaḥ) [because](yataḥ)
+all-self peaks should-be made all-directions-auspicious because
 
 ## mukta-m0-p112-v2799
-[four-pot-equipped](caturghaṭasamopetaḥ) [stair-gable-possessed](sopānavalabhīyutaḥ)
+four-pot-equipped stair-gable-faced
 
 ## mukta-m0-p112-v2800
-[peak-possessed](kūṭānvitaḥ) [moon-hall](induśālā) [should-be](syāt) [four-door-foot-mouth](digdvārāṅghryāsyakaḥ) [radiance](rucaḥ)
+peak-equipped moon-hall should-be south-gate-foot-mouth radiance
