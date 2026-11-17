@@ -5,73 +5,73 @@
 [man+honored](nṛmānyā) [gracious](prasannā) [auspicious](śivā) [heart+seated](hṛnniṣaṇṇā)
 
 ## mukta-m0-p60-v1477
-[king](nṛpa)+[daughter](nandinī)
+[king+daughter](nṛpa) [daughter](nandinī) [king+daughter](nṛpanandinī) [princess](nṛpanandinī)
 
 ## mukta-m0-p60-v1478
-[by-whom](yat)+[mind](citta)+[gone-to](yātā) [king](nṛpa)+[daughter](nandinī) [you](tvam)
+[which+mind+gone](yaccittayātā) [king+daughter](nṛpanandinī) [you](tvam) [indeed](tvam)
 
 ## mukta-m0-p60-v1479
-[king](nṛpa)+[duty](dharma)+[consisting-of](mayī)
+[king+dharma+consisting-of](nṛpadharmamayī) [royal-duty+full](nṛpadharmamayī) [she](nṛpadharmamayī) [goddess](nṛpadharmamayī)
 
 ## mukta-m0-p60-v1480
-[always](sadā) [happiness](sukha)+[consisting-of](mayī) [may-she-be-victorious](jīyāt)+[king](nṛpa)+[duty](dharma)+[consisting-of](mayī) [auspicious-one](śivā)
+[always](sadā) [bliss+full](sukhamayī) [may-she-be-victorious](jīyāt) [king+dharma+consisting-of](nṛpadharmamayī) [auspicious](śivā)
 
 ## mukta-m0-p60-v1481
-[fortunate](dhanyā)
+[fortunate](dhanyā) [blessed](dhanyā) [worthy](dhanyā) [she](dhanyā)
 
 ## mukta-m0-p60-v1482
-[fortunate](dhanyā)+[worshipped](arcitā) [by-whom](yena) [great](mahā)+[goddess](īśvarī) [you](tvam)
+[fortunate+worshipped](dhanyārcitā) [by-whom](yena) [great+goddess](maheśvarī) [you](tvam)
 
 ## mukta-m0-p60-v1483
-[wealth](dhana)+[grain](dhānya)+[increasing](vivarddhinī)
+[wealth+grain+increasing](dhanadhānyavivarddhinī) [prosperity+bestowing](dhanadhānyavivarddhinī) [she](dhanadhānyavivarddhinī) [goddess](dhanadhānyavivarddhinī)
 
 ## mukta-m0-p60-v1484
-[presence](sannidhiṃ) [served](sevitā) [by-whom](yena) [wealth](dhana)+[grain](dhānya)+[increasing](vivarddhinī)
+[presence](sannidhiṃ) [served](sevitā) [by-whom](yena) [wealth+grain+increasing](dhanadhānyavivarddhinī)
 
 ## mukta-m0-p60-v1485
-[four](catur)+[class](varṇa)+[consisting-of](mayī) [form](mūrtiḥ)
+[four+class+consisting-of](caturvarṇamayī) [form](mūrtiḥ) [embodiment](mūrtiḥ) [she](caturvarṇamayī)
 
 ## mukta-m0-p60-v1486
-[four](catur)+[class](varṇa)+[consisting-of](mayī) [form](mūrtiḥ) [to-be-praised](kīrtanīyā) [not](na) [of-whom](kasya) [she](sā)
+[four+class+consisting-of](caturvarṇamayī) [form](mūrtiḥ) [to-be-praised](kīrtanīyā) [not](na) [of-whom](kasya) [she](sā)
 
 ## mukta-m0-p60-v1487
-[four](catur)+[classes](varṇaiḥ)+[and](ca) [worshipped](pūjitā)
+[four+classes+by](caturvarṇaiḥ) [and](ca) [worshipped](pūjitā) [honored](pūjitā)
 
 ## mukta-m0-p60-v1488
-[occupations](vyāpāra)+[and-so-on](ādyaiḥ)+[and](ca) [services](sevābhiḥ)+[four](catur)+[classes](varṇaiḥ)+[and](ca) [worshipped](pūjitā)
+[occupations+etc.+by](vyāpārādyaiḥ) [and](ca) [services+by](sevābhiḥ) [four+classes+by](caturvarṇaiḥ) [and](ca) [worshipped](pūjitā)
 
 ## mukta-m0-p60-v1489
-[all](sarva)+[duty](dharma)+[consisting-of](mayī) [accomplishment](siddhiḥ)
+[all+dharma+consisting-of](sarvadharmamayī) [accomplishment](siddhiḥ) [fulfillment](siddhiḥ) [power](siddhiḥ)
 
 ## mukta-m0-p60-v1490
-[all](sarva)+[duty](dharma)+[consisting-of](mayī) [accomplishment](siddhiḥ)+[may-be](bhūyāt)+[name](nāma)+[meaning](artha)+[effecting](kāriṇī)
+[all+dharma+consisting-of](sarvadharmamayī) [accomplishment](siddhiḥ) [may-be](bhūyāt) [name+meaning+fulfilling](nāmārthakāriṇī)
 
 ## mukta-m0-p60-v1491
-[four](catur)+[stages-of-life](āśrama)+[dwelling-in](vāsinī)
+[four+stages+dwelling](caturāśramavāsinī) [abiding](caturāśramavāsinī) [she](caturāśramavāsinī) [goddess](caturāśramavāsinī)
 
 ## mukta-m0-p60-v1492
-[without](a)+[sequence](krameṇa)+[wondrous](adbhutā) [goddess](devī) [four](catur)+[stages-of-life](āśrama)+[dwelling-in](vāsinī)
+[without-sequence](akrameṇa) [wondrous](adbhutā) [goddess](devī) [four+stages+dwelling](caturāśramavāsinī)
 
 ## mukta-m0-p60-v1493
-[brahmin-woman](brāhmaṇī)
+[brahmin-woman](brāhmaṇī) [priestess](brāhmaṇī) [she](brāhmaṇī) [form](brāhmaṇī)
 
 ## mukta-m0-p60-v1494
-[may-she-be](bhūyāt)+[for-prosperity](bhūtyai) [brahmin-woman](brāhmaṇī) [by-all](sarva)+[worshipped](pūjyā)
+[may-she-be](bhūyāt) [for-prosperity](bhūtyai) [brahmin-woman](brāhmaṇī) [all+worshipped](sarvapūjyā)
 
 ## mukta-m0-p60-v1495
-[kshatriya-woman](kṣatriyā)
+[warrior-woman](kṣatriyā) [kshatriya](kṣatriyā) [she](kṣatriyā) [form](kṣatriyā)
 
 ## mukta-m0-p60-v1496
-[me](māṃ) [kshatriya-woman](kṣatriyā) [may-protect](pātu) [always](sadā)+[due-to-distress](āturatvāt)
+[me](māṃ) [warrior-woman](kṣatriyā) [may-protect](pātu) [always](sadā) [from-distress](āturatvāt)
 
 ## mukta-m0-p60-v1497
-[vaishya-woman](vaiśyā)
+[merchant-woman](vaiśyā) [vaishya](vaiśyā) [she](vaiśyā) [form](vaiśyā)
 
 ## mukta-m0-p60-v1498
-[vaishya-woman](vaiśyā)+[certainly](avaśyaṃ) [great](mahā)+[goddess](īśānī) [submissive](vaśyā) [may-be](bhavatu) [always](sarvadā)
+[merchant-woman](vaiśyā) [certainly](avaśyaṃ) [great+goddess](maheśānī) [submissive](vaśyā) [may-be](bhavatu) [always](sarvadā)
 
 ## mukta-m0-p60-v1499
-[shudra-woman](śūdrā)
+[servant-woman](śūdrā) [shudra](śūdrā) [she](śūdrā) [form](śūdrā)
 
 ## mukta-m0-p60-v1500
-[victorious-is](jayati)+[fearlessness](abhaya)+[giving](dā) [speech](vāda)+[exhaustion](sāda)+[devoid](hīnā) [by-nature](svabhāvataḥ)
+[is-victorious](jayati) [fearlessness+giving](abhayadā) [speech+defect+devoid](vādasādahīnā) [by-nature](svabhāvataḥ)

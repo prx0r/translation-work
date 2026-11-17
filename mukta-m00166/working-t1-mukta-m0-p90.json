@@ -124,19 +124,19 @@
 },
 {
 "surface": "kara",
-"quick_gloss": "ray"
-},
-{
-"surface": "ākara",
-"quick_gloss": "mine"
+"quick_gloss": "form"
 },
 {
 "surface": "ākāraṃ",
 "quick_gloss": "form"
 },
 {
-"surface": "kārākīḥ",
-"quick_gloss": "kārākīḥ"
+"surface": "kārā",
+"quick_gloss": "doing"
+},
+{
+"surface": "kīḥ",
+"quick_gloss": "who"
 },
 {
 "surface": "kārakaṃ",
@@ -157,7 +157,7 @@
 "tokens": [
 {
 "surface": "sumukhī",
-"quick_gloss": "fair-faced"
+"quick_gloss": "beautiful-faced"
 }
 ]
 },
@@ -169,8 +169,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "unmukhaṃ",
-"quick_gloss": "uplifted-face"
+"surface": "mukhaṃ",
+"quick_gloss": "face"
 },
 {
 "surface": "śivā",
@@ -182,7 +182,7 @@
 },
 {
 "surface": "sumukhī",
-"quick_gloss": "fair-faced"
+"quick_gloss": "beautiful-faced"
 },
 {
 "surface": "iti",
@@ -207,7 +207,7 @@
 },
 {
 "surface": "nāśinī",
-"quick_gloss": "destroying"
+"quick_gloss": "destroyer"
 }
 ]
 },
@@ -224,7 +224,7 @@
 },
 {
 "surface": "nāśinī",
-"quick_gloss": "destroying"
+"quick_gloss": "destroyer"
 },
 {
 "surface": "iti",
@@ -252,12 +252,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "citra",
-"quick_gloss": "citra"
-},
-{
-"surface": "ante",
-"quick_gloss": "end"
+"surface": "citrānte",
+"quick_gloss": "in-citrā"
 },
 {
 "surface": "iha",
@@ -265,7 +261,7 @@
 },
 {
 "surface": "vilāsa",
-"quick_gloss": "play"
+"quick_gloss": "sport"
 },
 {
 "surface": "nāmni",
@@ -285,7 +281,7 @@
 },
 {
 "surface": "agāt",
-"quick_gloss": "went"
+"quick_gloss": "reached"
 }
 ]
 },
@@ -340,15 +336,15 @@
 },
 {
 "surface": "mā",
-"quick_gloss": "not"
+"quick_gloss": "indeed"
 },
 {
-"surface": "anuditaḥ",
-"quick_gloss": "risen"
+"surface": "udito",
+"quick_gloss": "spoken"
 },
 {
 "surface": "vādinaḥ",
-"quick_gloss": "speakers"
+"quick_gloss": "of-speakers"
 },
 {
 "surface": "agre",
@@ -360,7 +356,7 @@
 },
 {
 "surface": "āvidi",
-"quick_gloss": "known"
+"quick_gloss": "I-knew"
 }
 ]
 },
@@ -386,7 +382,7 @@
 "tokens": [
 {
 "surface": "diṣṭe",
-"quick_gloss": "fortunate"
+"quick_gloss": "by-fortune"
 },
 {
 "surface": "anavadya",
@@ -398,15 +394,15 @@
 },
 {
 "surface": "hṛdyā",
-"quick_gloss": "pleasing"
+"quick_gloss": "heart"
 },
 {
 "surface": "sadyaḥ",
-"quick_gloss": "quickly"
+"quick_gloss": "at-once"
 },
 {
 "surface": "prasīdatāt",
-"quick_gloss": "may-be-gracious"
+"quick_gloss": "may-be-pleased"
 }
 ]
 },
@@ -444,18 +440,14 @@
 },
 {
 "surface": "bhave",
-"quick_gloss": "becomings"
+"quick_gloss": "in-existence"
 },
 {
-"surface": "nava",
-"quick_gloss": "new"
+"surface": "navanave",
+"quick_gloss": "in-ever-new"
 },
 {
-"surface": "nave",
-"quick_gloss": "new"
-},
-{
-"surface": "vane",
+"surface": "vana",
 "quick_gloss": "forest"
 }
 ]
@@ -473,7 +465,7 @@
 },
 {
 "surface": "mañjarī",
-"quick_gloss": "cluster"
+"quick_gloss": "blossom"
 }
 ]
 },
@@ -576,11 +568,11 @@
 },
 {
 "surface": "eva",
-"quick_gloss": "indeed"
+"quick_gloss": "alone"
 },
 {
-"surface": "vit",
-"quick_gloss": "knowing"
+"surface": "vid",
+"quick_gloss": "knowledge"
 },
 {
 "surface": "vapuḥ",
@@ -617,24 +609,16 @@
 "quick_gloss": "she"
 },
 {
-"surface": "kā",
+"surface": "kāpi",
 "quick_gloss": "some"
-},
-{
-"surface": "api",
-"quick_gloss": "indeed"
 },
 {
 "surface": "gīyate",
 "quick_gloss": "is-sung"
 },
 {
-"surface": "tat",
-"quick_gloss": "that"
-},
-{
-"surface": "jñaiḥ",
-"quick_gloss": "knowers"
+"surface": "tajjñaiḥ",
+"quick_gloss": "by-knowers-of-that"
 },
 {
 "surface": "āhāra",
@@ -659,7 +643,7 @@
 },
 {
 "surface": "pañca",
-"quick_gloss": "five"
+"quick_gloss": "of-five"
 },
 {
 "surface": "bhūtānām",
@@ -680,7 +664,7 @@
 },
 {
 "surface": "pañca",
-"quick_gloss": "five"
+"quick_gloss": "of-five"
 },
 {
 "surface": "bhūtānām",
@@ -696,7 +680,7 @@
 },
 {
 "surface": "prabhā",
-"quick_gloss": "radiance"
+"quick_gloss": "splendor"
 }
 ]
 }
