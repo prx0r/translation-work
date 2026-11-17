@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p54-v1326
-[having-bowed](kālakalpataruṃ) [to](natvā) [accomplishment](bhūtinīsiddhiḥ) [is-declared](ucyate)
+[time-wish-tree](kālakalpataruṃ) [bowing](natvā) [wealth-attainment](bhūtinīsiddhir) [is-said](ucyate)
 
 ## mukta-m0-p54-v1327
-[tāriṇī](tāriṇī) [siṃhinī](siṃhinī) [and-then](cātho) [haṃsinī](haṃsinī) [then](tato) [naṭī](naṭī)
+[savior](tāriṇī) [lioness](siṃhinī) [and-then](cātho) [swan](haṃsinī) [then](ca) [tato](tato) [dancer](naṭī)
 
 ## mukta-m0-p54-v1328
-[krodha-astra-two-names-end](krodhāstradvayanāmānte) [bhūta-power-trikūrca](bhūtavīryastrikūrcataḥ)
+[wrath-weapon-two-names-end](krodhāstradvayanāmānte) [spirit-triple-curved](bhūtavīryastrikūrcataḥ)
 
 ## mukta-m0-p54-v1329
-[krodha-two](krodhadvayaṃ) [indeed](tu) [mantra-this](mantro'yaṃ) [of-vibhūṣiṇī](vibhūṣiṇyā) [declared](udāhṛtaḥ)
+[wrath-two](krodhadvayaṃ) [but](tu) [mantra-this](mantro'yaṃ) [adorned-one](vibhūṣiṇyā) [is-declared](udāhṛtaḥ)
 
 ## mukta-m0-p54-v1330
-[whose](yasyāḥ) [hair-tangled-all-earth](keśakulākulākhilamahī) [mountain-end](śailāntam) [protect](ārakṣatu)
+[whose](yasyāḥ) [hair-tangled-all-earth](keśakulākulākhilamahī) [mountain-end](śailāntam) [may-protect](ārakṣatu)
 
 ## mukta-m0-p54-v1331
-[should-chant-eight-thousand](japedaṣṭasahasraṃ) [indeed](tu) [meditating-one-pointed-mind](dhyāyannekāgramānasaḥ)
+[should-chant-eight-thousand](japedaṣṭasahasraṃ) [but](tu) [meditating-one-pointed-mind](dhyāyannekāgramānasaḥ)
 
 ## mukta-m0-p54-v1332
-[should-chant-at-midnight](prajapedardharātre) [indeed](tu) [comes](samāyāti) [vibhūṣiṇī](vibhūṣiṇī)
+[should-chant-midnight](prajapedardharātre) [tu](tu) [comes](samāyāti) [adorned-one](vibhūṣiṇī)
 
 ## mukta-m0-p54-v1333
 [mother](mātā) [or](vā) [sister](bhaginī) [wife](bhāryā) [pleased](tuṣṭā) [becomes](bhavati) [desired](kāmitā)
 
 ## mukta-m0-p54-v1334
-[of-eight-hundred-attendants](śatāṣṭaparivārasya) [gives](dadāty) [collyrium-ornament](añjanabhūṣaṇam)
+[hundred-eight-retinue](śatāṣṭaparivārasya) [gives](dadāty) [collyrium-ornament](añjanabhūṣaṇam)
 
 ## mukta-m0-p54-v1335
 [gives](dadāti) [woman-bringing](striyamānīya) [divine](divyaṃ) [rasa-elixir](rasarasāyanam)
 
 ## mukta-m0-p54-v1336
-[of-thousands-of-dinars](dīnārāṇāṃ) [sahasraṃ](sahasraṃ) [indeed](tu) [rasa-and-elixir](rasaṃ+caiva+rasāyanam)
+[thousand-coins](dīnārāṇāṃ) [sahasraṃ](sahasraṃ) [tu](tu) [rasa-and-elixir](rasaṃ+caiva+rasāyanam)
 
 ## mukta-m0-p54-v1337
-[certainly-from-two-astra](dhruvamāyāstradvayataḥ) [declared](proktā) [kuṇḍaladhāriṇī](kuṇḍaladhāriṇī)
+[certainly-two-wrath-weapons](dhruvamāyāstradvayataḥ) [is-declared](proktā) [earring-wearer](kuṇḍaladhāriṇī)
 
 ## mukta-m0-p54-v1338
-[may-protect](pāyāt) [kuṇḍaladhāriṇī](kuṇḍaladhāriṇī) [of-three-worlds-bliss-abundance](trijagatāmānandasandohabhūḥ)
+[may-protect](pāyāt) [earring-wearer](kuṇḍaladhāriṇī) [three-worlds-bliss-abundance](trijagatāmānandasandohabhūḥ)
 
 ## mukta-m0-p54-v1339
-[comes](āyāti) [with-blood](rudhireṇa) [arghya](ārghyo) [should-be-given](deyastuṣṭo) [gives-also](dadātyapi)
+[comes](āyāti) [with-blood](rudhireṇa) [offering](ārghyo) [should-be-given](deyastuṣṭo) [gives-also](dadātyapi)
 
 ## mukta-m0-p54-v1340
-[of-five-hundred-days](pañcaśatavāsarāṇi) [three-worlds-also](trailokyamapi) [will-give](dāsyati)
+[five-hundred-days](pañcaśatavāsarāṇi) [three-worlds-also](trailokyamapi) [will-give](dāsyati)
 
 ## mukta-m0-p54-v1341
-[trikūrca-astra-declared](kūrcatrayāstrasaṃproktaḥ) [sindūrahāriṇī-mantra](sindūrahāriṇīmanuḥ)
+[three-curved-weapon-declared](kūrcatrayāstrasaṃproktaḥ) [vermilion-stealer-mantra](sindūrahāriṇīmanuḥ)
 
 ## mukta-m0-p54-v1342
-[may-protect](pāyād) [vallabha-root-rāhu-creeper](vallabhamūlarāhulatikā) [sindūrahāriṇī-this](sindūrahāriṇyasau)
+[may-protect](pāyād) [beloved-root-rahu-creeper](vallabhamūlarāhulatikā) [vermilion-stealer-this](sindūrahāriṇyasau)
 
 ## mukta-m0-p54-v1343
-[quickly-comes](śīghramāyātyāgatā) [she](sā) [wife](bhāryā) [becomes](bhavati) [desired](kāmitā)
+[quickly-comes-arrived](śīghramāyātyāgatā) [she](sā) [wife](bhāryā) [becomes](bhavati) [desired](kāmitā)
 
 ## mukta-m0-p54-v1344
-[protects](rakṣati) [twelve-persons](dvādaśajanān) [goddess](devī) [sindūrahāriṇī](sindūrahāriṇī)
+[protects](rakṣati) [twelve-persons](dvādaśajanān) [goddess](devī) [vermilion-stealer](sindūrahāriṇī)
 
 ## mukta-m0-p54-v1345
-[from-three-krodha-seeds-born](krodhabījatrayājjātaḥ) [declared](kīrtitaḥ) [siṃhinī-mantra](siṃhinīmanuḥ)
+[wrath-seed-three-born](krodhabījatrayājjātaḥ) [is-praised](kīrtitaḥ) [lioness-mantra](siṃhinīmanuḥ)
 
 ## mukta-m0-p54-v1346
-[may-she-protect](seyaṃ) [all-head-garland-hanging](pātu+samastamastakakulavyālambimālākulā)
+[may-she-protect](seyaṃ) [pātu](pātu) [all-head-garland-hanging](samastamastakakulavyālambimālākulā)
 
 ## mukta-m0-p54-v1347
-[then](tato) [delighted-very-giving](hṛṣṭā'tivaradā) [siṃhinī-comes](siṃhinyāyāti) [worshipped](pūjitā)
+[then](tato) [delighted-very-giving](hṛṣṭā'tivaradā) [lioness-comes](siṃhinyāyāti) [worshipped](pūjitā)
 
 ## mukta-m0-p54-v1348
-[dinar](dīnāraṃ) [pair-of-cloths](vastrayugalaṃ) [giving](dadhad) [rasa-elixir](rasarasāyanam)
+[coin](dīnāraṃ) [pair-garments](vastrayugalaṃ) [giving](dadhad) [rasa-elixir](rasarasāyanam)
 
 ## mukta-m0-p54-v1349
-[trikūrca-astra](trikūrcāstraṃ) [and](ca) [declared](kathito) [haṃsinī-mantra-supreme](haṃsi(nī)manuruttamaḥ)
+[three-curved-weapon](trikūrcāstraṃ) [ca](ca) [is-declared](kathito) [swan-mantra-supreme](haṃsi(nī)manuruttamaḥ)
 
 ## mukta-m0-p54-v1350
-[pearl-adorned-swinging-garland-creeper](muktāyuktavilolahāralatikā) [śrī-haṃsinī](śrīhaṃsinī) [protect](pātu) [you](vaḥ)
+[pearl-adorned-swinging-garland-creeper](muktāyuktavilolahāralatikā) [śrī-swan](śrīhaṃsinī) [may-protect](pātu) [you](vaḥ)
