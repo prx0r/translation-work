@@ -7,16 +7,28 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "anyācārakṛto",
-"quick_gloss": "other+conduct+done"
+"surface": "anya",
+"quick_gloss": "other"
+},
+{
+"surface": "ācāra",
+"quick_gloss": "conduct"
+},
+{
+"surface": "kṛto",
+"quick_gloss": "done-by"
 },
 {
 "surface": "yena",
-"quick_gloss": "by-which"
+"quick_gloss": "by-whom"
 },
 {
-"surface": "tadvadāmi",
-"quick_gloss": "that+I-say"
+"surface": "tad",
+"quick_gloss": "that"
+},
+{
+"surface": "vadāmi",
+"quick_gloss": "I-say"
 },
 {
 "surface": "priyambade",
@@ -36,16 +48,24 @@
 "quick_gloss": "of-these"
 },
 {
-"surface": "jñānamātreṇa",
-"quick_gloss": "knowledge+mere+by"
+"surface": "jñāna",
+"quick_gloss": "knowledge"
+},
+{
+"surface": "mātreṇa",
+"quick_gloss": "by-mere"
 },
 {
 "surface": "kaulikasya",
-"quick_gloss": "of-kaulika"
+"quick_gloss": "of-the-kaulika"
 },
 {
-"surface": "kriyākṣayaḥ",
-"quick_gloss": "action+destruction"
+"surface": "kriyā",
+"quick_gloss": "action"
+},
+{
+"surface": "kṣayaḥ",
+"quick_gloss": "destruction"
 }
 ]
 },
@@ -94,8 +114,12 @@
 "quick_gloss": "ever"
 },
 {
-"surface": "na+eva",
-"quick_gloss": "not+indeed"
+"surface": "na",
+"quick_gloss": "not"
+},
+{
+"surface": "eva",
+"quick_gloss": "indeed"
 },
 {
 "surface": "kartavyaḥ",
@@ -103,11 +127,19 @@
 },
 {
 "surface": "śūdrasya",
-"quick_gloss": "of-śūdra"
+"quick_gloss": "of-a-śūdra"
 },
 {
-"surface": "vedapāṭhavat",
-"quick_gloss": "veda+recitation+like"
+"surface": "veda",
+"quick_gloss": "veda"
+},
+{
+"surface": "pāṭha",
+"quick_gloss": "recitation"
+},
+{
+"surface": "vat",
+"quick_gloss": "like"
 }
 ]
 },
@@ -120,7 +152,7 @@
 "tokens": [
 {
 "surface": "aṣṭādaśa",
-"quick_gloss": "eighteen"
+"quick_gloss": "eighteenth"
 },
 {
 "surface": "ullasaḥ",
@@ -141,7 +173,7 @@
 },
 {
 "surface": "paramānanda",
-"quick_gloss": "supreme-bliss"
+"quick_gloss": "O-supreme-bliss"
 },
 {
 "surface": "mama",
@@ -165,8 +197,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "tatpānaṃ",
-"quick_gloss": "that+drinking"
+"surface": "tat",
+"quick_gloss": "that"
+},
+{
+"surface": "pānaṃ",
+"quick_gloss": "drinking"
 },
 {
 "surface": "trividhaṃ",
@@ -177,8 +213,20 @@
 "quick_gloss": "declared"
 },
 {
-"surface": "divya-vīra-paśu-kramāt",
-"quick_gloss": "divine+hero+beast+sequence+by"
+"surface": "divya",
+"quick_gloss": "divine"
+},
+{
+"surface": "vīra",
+"quick_gloss": "hero"
+},
+{
+"surface": "paśu",
+"quick_gloss": "beast"
+},
+{
+"surface": "kramāt",
+"quick_gloss": "in-order"
 }
 ]
 },
@@ -190,7 +238,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "svecchayā",
+"surface": "sva+icchayā",
 "quick_gloss": "by-own-will"
 },
 {
@@ -199,7 +247,7 @@
 },
 {
 "surface": "paśoḥ",
-"quick_gloss": "of-beast"
+"quick_gloss": "of-the-beast"
 },
 {
 "surface": "pānam",
@@ -227,20 +275,28 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "paśupānaṃ",
-"quick_gloss": "beast+drinking"
+"surface": "paśu",
+"quick_gloss": "beast"
 },
 {
-"surface": "narakadam",
-"quick_gloss": "hell+giving"
+"surface": "pānaṃ",
+"quick_gloss": "drinking"
+},
+{
+"surface": "naraka+dam",
+"quick_gloss": "hell-giving"
 },
 {
 "surface": "iti",
 "quick_gloss": "thus"
 },
 {
-"surface": "pānaphalaṃ",
-"quick_gloss": "drinking+fruit"
+"surface": "pāna",
+"quick_gloss": "drinking"
+},
+{
+"surface": "phalaṃ",
+"quick_gloss": "fruit"
 },
 {
 "surface": "śṛṇu",
@@ -256,16 +312,28 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "paśupānam",
-"quick_gloss": "beast+drinking"
+"surface": "paśu",
+"quick_gloss": "beast"
 },
 {
-"surface": "akartavyaṃ",
-"quick_gloss": "not+to-be-done"
+"surface": "pānam",
+"quick_gloss": "drinking"
 },
 {
-"surface": "śaktibhaktyāśritaḥ",
-"quick_gloss": "śakti+devotion+resorted-to"
+"surface": "a+kartavyaṃ",
+"quick_gloss": "not-to-be-done"
+},
+{
+"surface": "śakti",
+"quick_gloss": "in-śakti"
+},
+{
+"surface": "bhaktyā",
+"quick_gloss": "devotion"
+},
+{
+"surface": "āśritaḥ",
+"quick_gloss": "resorting"
 },
 {
 "surface": "pivet",
@@ -282,11 +350,11 @@
 "tokens": [
 {
 "surface": "kena",
-"quick_gloss": "by-which"
+"quick_gloss": "by-what"
 },
 {
 "surface": "rūpeṇa",
-"quick_gloss": "form+by"
+"quick_gloss": "form"
 },
 {
 "surface": "vā",
@@ -297,12 +365,16 @@
 "quick_gloss": "O-god"
 },
 {
-"surface": "devyagre",
-"quick_gloss": "goddess+before"
+"surface": "devī+agre",
+"quick_gloss": "before-the-goddess"
 },
 {
-"surface": "pānabhāg",
-"quick_gloss": "drinking+share"
+"surface": "pāna",
+"quick_gloss": "drinking"
+},
+{
+"surface": "bhāg",
+"quick_gloss": "share"
 },
 {
 "surface": "naraḥ",
@@ -322,7 +394,7 @@
 "quick_gloss": "that"
 },
 {
-"surface": "svecchā",
+"surface": "sva+icchā",
 "quick_gloss": "own-will"
 },
 {
@@ -334,8 +406,16 @@
 "quick_gloss": "to-be-known"
 },
 {
-"surface": "ajñāni+jñāni+vibhedataḥ",
-"quick_gloss": "ignorant+knower+distinction+by"
+"surface": "ajñāni",
+"quick_gloss": "ignorant"
+},
+{
+"surface": "jñāni",
+"quick_gloss": "knower"
+},
+{
+"surface": "vibhedataḥ",
+"quick_gloss": "by-distinction"
 }
 ]
 },
@@ -355,8 +435,12 @@
 "quick_gloss": "having-made"
 },
 {
-"surface": "pivet+madyam",
-"quick_gloss": "should-drink+liquor"
+"surface": "pivet",
+"quick_gloss": "should-drink"
+},
+{
+"surface": "madyam",
+"quick_gloss": "wine"
 },
 {
 "surface": "cakraṃ",
@@ -367,8 +451,8 @@
 "quick_gloss": "indeed"
 },
 {
-"surface": "śaktisaṃyutam",
-"quick_gloss": "śakti+endowed"
+"surface": "śakti+saṃyutam",
+"quick_gloss": "with-śakti"
 }
 ]
 },
@@ -388,16 +472,16 @@
 "quick_gloss": "what"
 },
 {
-"surface": "prāṇanātheśa",
-"quick_gloss": "O-lord-of-life-breath"
+"surface": "prāṇanātha+īśa",
+"quick_gloss": "O-lord-of-the-life-breath"
 },
 {
 "surface": "kathaya",
 "quick_gloss": "tell"
 },
 {
-"surface": "siddhihetave",
-"quick_gloss": "siddhi+cause+for"
+"surface": "siddhi+hetave",
+"quick_gloss": "for-the-sake-of-accomplishment"
 }
 ]
 },
@@ -409,8 +493,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "ṣaṭkarmasya",
-"quick_gloss": "six+action+of"
+"surface": "ṣaṭ+karmasya",
+"quick_gloss": "of-the-six-acts"
 },
 {
 "surface": "ca",
@@ -443,11 +527,15 @@
 },
 {
 "surface": "siddhiṃ",
-"quick_gloss": "siddhi"
+"quick_gloss": "accomplishment"
 },
 {
-"surface": "śrīcakrasevanāt",
-"quick_gloss": "śrīcakra+worship+by"
+"surface": "śrī+cakra",
+"quick_gloss": "by-śrīcakra"
+},
+{
+"surface": "sevanāt",
+"quick_gloss": "worship"
 }
 ]
 },
@@ -459,16 +547,24 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "ekavārajapena",
-"quick_gloss": "one+time+recitation+by"
+"surface": "eka+vāra",
+"quick_gloss": "by-one-time"
+},
+{
+"surface": "japena",
+"quick_gloss": "recitation"
 },
 {
 "surface": "eva",
 "quick_gloss": "alone"
 },
 {
-"surface": "lakṣavāraphalaṃ",
-"quick_gloss": "hundred-thousand+times+fruit"
+"surface": "lakṣa+vāra",
+"quick_gloss": "hundred-thousand-times"
+},
+{
+"surface": "phalaṃ",
+"quick_gloss": "fruit"
 },
 {
 "surface": "labhet",
@@ -484,7 +580,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "cakraṃ",
+"surface": "cakram",
 "quick_gloss": "circle"
 },
 {
@@ -500,12 +596,20 @@
 "quick_gloss": "declared"
 },
 {
-"surface": "divya-vīra-mataṃ",
-"quick_gloss": "divine+hero+doctrine"
+"surface": "divya",
+"quick_gloss": "divine"
+},
+{
+"surface": "vīra",
+"quick_gloss": "hero"
+},
+{
+"surface": "mataṃ",
+"quick_gloss": "doctrine"
 },
 {
 "surface": "śive",
-"quick_gloss": "O-śiva"
+"quick_gloss": "O-Śiva"
 }
 ]
 },
@@ -517,8 +621,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "divyacakram",
-"quick_gloss": "divine+circle"
+"surface": "divya",
+"quick_gloss": "divine"
+},
+{
+"surface": "cakram",
+"quick_gloss": "circle"
 },
 {
 "surface": "idam",
@@ -529,8 +637,12 @@
 "quick_gloss": "declared"
 },
 {
-"surface": "vīracakraṃ",
-"quick_gloss": "hero+circle"
+"surface": "vīra",
+"quick_gloss": "hero"
+},
+{
+"surface": "cakraṃ",
+"quick_gloss": "circle"
 },
 {
 "surface": "tataḥ",
@@ -550,7 +662,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "ata",
+"surface": "ataḥ",
 "quick_gloss": "therefore"
 },
 {
@@ -562,12 +674,16 @@
 "quick_gloss": "O-great-goddess"
 },
 {
-"surface": "śaktiyuktaṃ",
-"quick_gloss": "śakti+endowed"
+"surface": "śakti+yuktaṃ",
+"quick_gloss": "with-śakti"
 },
 {
-"surface": "pivet+madhu",
-"quick_gloss": "should-drink+liquor"
+"surface": "pivet",
+"quick_gloss": "should-drink"
+},
+{
+"surface": "madhu",
+"quick_gloss": "honey-wine"
 }
 ]
 },
@@ -579,8 +695,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "vīracakraṃ",
-"quick_gloss": "hero+circle"
+"surface": "vīra",
+"quick_gloss": "hero"
+},
+{
+"surface": "cakraṃ",
+"quick_gloss": "circle"
 },
 {
 "surface": "ramet",
@@ -591,8 +711,16 @@
 "quick_gloss": "śakti"
 },
 {
-"surface": "gandhapuṣpādinā",
-"quick_gloss": "fragrance+flower+etc.+by"
+"surface": "gandha",
+"quick_gloss": "with-fragrance"
+},
+{
+"surface": "puṣpa",
+"quick_gloss": "flower"
+},
+{
+"surface": "ādinā",
+"quick_gloss": "and-so-forth"
 },
 {
 "surface": "api",
@@ -612,8 +740,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "divyacakram",
-"quick_gloss": "divine+circle"
+"surface": "divya",
+"quick_gloss": "divine"
+},
+{
+"surface": "cakram",
+"quick_gloss": "circle"
 },
 {
 "surface": "idam",
@@ -624,8 +756,12 @@
 "quick_gloss": "declared"
 },
 {
-"surface": "vīracakraṃ",
-"quick_gloss": "hero+circle"
+"surface": "vīra",
+"quick_gloss": "hero"
+},
+{
+"surface": "cakraṃ",
+"quick_gloss": "circle"
 },
 {
 "surface": "tataḥ",
@@ -661,8 +797,8 @@
 "quick_gloss": "and"
 },
 {
-"surface": "karastha",
-"quick_gloss": "hand+standing"
+"surface": "kara+stha",
+"quick_gloss": "in-hand"
 },
 {
 "surface": "eva",
@@ -683,11 +819,15 @@
 },
 {
 "surface": "madyena",
-"quick_gloss": "by-liquor"
+"quick_gloss": "by-wine"
 },
 {
-"surface": "karasthamuktiḥ",
-"quick_gloss": "hand+standing+liberation"
+"surface": "kara+stha",
+"quick_gloss": "in-hand"
+},
+{
+"surface": "muktiḥ",
+"quick_gloss": "liberation"
 }
 ]
 },
@@ -711,12 +851,20 @@
 "quick_gloss": "O-great-goddess"
 },
 {
-"surface": "pivet+madyam",
-"quick_gloss": "should-drink+liquor"
+"surface": "pivet",
+"quick_gloss": "should-drink"
 },
 {
-"surface": "ramet+striyam",
-"quick_gloss": "should-enjoy+woman"
+"surface": "madyam",
+"quick_gloss": "wine"
+},
+{
+"surface": "ramet",
+"quick_gloss": "should-enjoy"
+},
+{
+"surface": "striyam",
+"quick_gloss": "woman"
 }
 ]
 }
