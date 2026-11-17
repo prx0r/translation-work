@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p17-v401
-[of-him-too](tasyāpi) [goddess](devi) [ritual](saṃskāraṃ) [I-will-speak-external-and-internal](bruvebāhyamathāṃtaram)
+[of-her](tasyāpi) [o-goddess](devi) [consecration](saṃskāraṃ) [i-speak](bruve) [external](bāhyam) [and](atha) [internal](āṃtaram)
 
 ## mukta-m0-p17-v402
-[messenger](dūtikā) [lord-of-life](jīvanāthaḥ) [api](api) [ritual](saṃskāraṃ) [supremely-deserves](paramarhati)
+[female-messenger](dūtikā) [life-lord](jīvanāthaḥ) [also](api) [consecration](saṃskāraṃ) [supremely](param) [deserves](arhati)
 
 ## mukta-m0-p17-v403
-[when](yad) [in-non-attachment](asaṃge) [api](api) [called-life](jīvākhya) [in-śiva](śive) [plays](khelati) [fearless](nirbhayā)
+[because](yat) [in-non-contact](asaṃge) [also](api) [called-life](jīvākhye) [in-śiva](śive) [plays](khelati) [fearlessly](nirbhayā)
 
 ## mukta-m0-p17-v404
-[own-life-named](svajīvākhya) [of-great-lord](maheśasya) [by-sound](bādya) [knowledge-obscured](vidyāvakuṃṭhitaḥ)
+[of-own-life-called](svajīvākhya) [of-great-lord](maheśasya) [external](bādya) [by-knowledge](vidyā) [obscured](vakuṃṭhitaḥ)
 
 ## mukta-m0-p17-v405
-[impurity-removing](malāpanodikāḥ) [but](kiṃtu) [all](samastāḥ) [worship-rites](pūjanakramāḥ)
+[impurity-removing](mala+apanodikāḥ) [but](kiṃtu) [all](samastāḥ) [worship-procedures](pūjana+kramāḥ)
 
 ## mukta-m0-p17-v406
-[by-that-association](tat-saṃsargavaśāt) [pure](śuddha) [own-self](svātmā) [api](api) [becomes-impure](malinī-bhavet)
+[by-contact-with-that](tat+saṃsarga+vaśāt) [pure](śuddha) [own-self](sva+ātmā) [also](api) [impure](malinī) [may-become](bhavet)
 
 ## mukta-m0-p17-v407
-[agreement-hearing](samayaśravaṇaṃ) [of-her](tasyāḥ) [first](prathamaṃ) [declared](parikīrtitam)
+[vow-hearing](samaya+śravaṇaṃ) [of-her](tasyāḥ) [first](prathamaṃ) [is-declared](parikīrtitam)
 
 ## mukta-m0-p17-v408
-[with-few-letters](alpavarṇena) [by-mantra](maṃtreṇa) [burning-bonds](pāśanirdahakāriṇā)
+[with-few-syllables](alpa+varṇena) [with-mantra](maṃtreṇa) [bond-burning-causing](pāśa+nirdaha+kāriṇā)
 
 ## mukta-m0-p17-v409
-[not-from-passion](na-rāgāt) [nor](na-ca) [from-greed](lobhāt) [vā](vā) [nor](na-ca) [from-delusion](mohāt) [of-great-one](mahīyasaḥ)
+[not](na) [from-passion](rāgāt) [not](na) [and](ca) [from-greed](lobhāt) [or](vā) [not](na) [and](ca) [from-delusion](mohāt) [of-the-great](mahīyasaḥ)
 
 ## mukta-m0-p17-v410
-[by-nature](prakṛtyā) [bewildered-minded](mugdhamanasas) [women](striyaḥ) [truth](tatvaṃ) [not-know](na-jānate)
+[by-nature-deluded-minded](prakṛti+āmugdha+manasaḥ) [women](striyaḥ) [truth](tatvaṃ) [not](na) [know](jānate)
 
 ## mukta-m0-p17-v411
 [lying](śayāḥ)
 
 ## mukta-m0-p17-v412
-[by-breast-firmness](stanottaṃbhana) [seen](dṛṣṭena) [youth](yauvanena) [intoxicated](madoddhatāḥ)
+[by-breast-swelling](stana+uttaṃbhana) [seen](dṛṣṭena) [by-youth](yauvanena) [pride-elated](mada+uddhatāḥ)
 
 ## mukta-m0-p17-v413
-[distrust](aviśvāsaḥ) [in-all](samasteṣu) [proof](pratyayaḥ) [na](na) [of-guru](gurorgiri)
+[distrust](aviśvāsaḥ) [in-all](samasteṣu) [faith](pratyayaḥ) [not](na) [of-guru](guroḥ) [o-mountain-born](giri)
 
 ## mukta-m0-p17-v414
-[thinking](manyamānāḥ) [bad-conduct](durācārāḥ) [fall](pataṃti) [in-hell](narake) [women](striyaḥ)
+[considering](manyamānāḥ) [ill-behaved](durācārāḥ) [fall](pataṃti) [into-hell](narake) [women](striyaḥ)
 
 ## mukta-m0-p17-v415
-[betel](tāṃbūlam) [anointing](anulepaṃ) [ca](ca) [garment](vāsaḥ) [ca](ca) [mouth-perfume](mukhavāsikā)
+[betel](tāṃbūlam) [unguent](anulepaṃ) [and](ca) [garment](vāsaḥ) [and](ca) [mouth-perfume](mukha+vāsikā)
 
 ## mukta-m0-p17-v416
-[all-this](sarvam-etat) [of-great-lord](maheśasya) [worship-means](pūjāsādhanitaṃ) [as](yathā)
+[all](sarvam) [this](etat) [of-great-lord](maheśasya) [for-worship-means](pūjā+sādhanitaṃ) [as](yathā)
 
 ## mukta-m0-p17-v417
-[our-body](asmadvapuḥ) [this](idaṃ) [trivial](tucchaṃ) [worship-means](pūjāsādhanituṃ) [by-wise](budhaiḥ)
+[our-body](asmat+vapuḥ) [this](idaṃ) [insignificant](tucchaṃ) [for-worship-means](pūjā+sādhanituṃ) [by-the-wise](budhaiḥ)
 
 ## mukta-m0-p17-v418
-[by-sālabheda](sālabheduttamāllokān) [by-practitioner](sādhakena) [great-soul](mahātmanā)
+[with-śāla-difference](sāla+bheda) [supreme-worlds](uttamān) [lokān](lokān) [by-practitioner](sādhakena) [by-great-souled](mahātmanā)
 
 ## mukta-m0-p17-v419
-[in-viṣṇu-world](viṣṇuloke) [in-rudra-world](rudraloke) [play](krīḍaṃti) [with-many-charms](bahuvibhramāḥ)
+[in-viṣṇu-world](viṣṇu+loke) [in-rudra-world](rudra+loke) [they-sport](krīḍaṃti) [with-many-delights](bahu+vibhramāḥ)
 
 ## mukta-m0-p17-v420
-[by-such](ityādibhiḥ) [reasons](yūkti) [equipped](yuktaiḥ) [words](vacanaiḥ) [scripture-concordant](śāstrasammitaiḥ)
+[by-such-and-other](iti+ādibhiḥ) [reason-endowed](yūkti+yuktaiḥ) [with-words](vacanaiḥ) [scripture-approved](śāstra+sammitaiḥ)
 
 ## mukta-m0-p17-v421
-[ānandabhairavī](ānaṃdabhairavīṃ) [ca](ca) [api](api) [by-mantra](maṃtreṇa) [external](abāhya) [practitioner](sādhakaḥ)
+[ānandabhairavī](ānaṃdabhairavīṃ) [and](ca) [also](api) [with-mantra](maṃtreṇa) [externally](ābāhya) [practitioner](sādhakaḥ)
 
 ## mukta-m0-p17-v422
-[in-triangle](tryaśre) [situated](sthitāḥ) [again](punaḥ) [worshipped](pūjyā) [rati](rati) [prīti](prīti) [manobhava](manobhavāḥ)
+[in-triangle](tryaśre) [situated](sthitāḥ) [again](punaḥ) [to-be-worshipped](pūjyā) [rati](rati) [prīti](prīti) [manobhava](manobhavāḥ)
 
 ## mukta-m0-p17-v423
-[drāviṇī](drāviṇī) [śoṣiṇī](śoṣiṇī) [ca](ca) [eva](eva) [binding](baṃdhinī) [deluding](mohinī) [tathā](tathā)
+[drāviṇī](drāviṇī) [śoṣiṇī](śoṣiṇī) [and](ca) [thus](evaṃ) [baṃdhinī](baṃdhinī) [mohinī](mohinī) [likewise](tathā)
 
 ## mukta-m0-p17-v424
-[in-five-aras](paṃcārasyāṃ) [cale](cale) [worshipped](pūjyāḥ) [kāmarāja](kāmarājomaheśvarī)
+[in-pentagon](paṃcārasyāṃ) [in-moving](cale) [to-be-worshipped](pūjyāḥ) [kāmarāja](kāmarājaḥ) [maheśvarī](maheśvarī)
 
 ## mukta-m0-p17-v425
-[manobhava](manobhavaḥ) [fifth](paṃcamaḥ) [ca](ca) [world-agitating](jagatkṣobhakarāḥ) [these](ime)
+[manobhava](manobhavaḥ) [fifth](paṃcamaḥ) [and](ca) [world-agitating](jagat+kṣobhakarāḥ) [these](ime)

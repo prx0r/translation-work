@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p21-v501
-[diseases-necessarily](rogāṇyavaśyaṃ) [destroy](nighnaṃti) [nature](svabhāvo) [of-that](vāsya) [of-thing](vastunaḥ)
+[diseases](rogāṇi) [certainly](avaśyaṃ) [they-destroy](nighnaṃti) [nature](svabhāvo) [or](vā) [of-it](asya) [of-the-thing](vastunaḥ)
 
 ## mukta-m0-p21-v502
-[that](sa) [virabhadra](vīrabhadraḥ) [beautiful-hipped](suśroṇi) [directly](sākṣāt) [destruction](saṃhāra) [bhairava](bhairavaḥ)
+[he](sa) [Vīrabhadra](vīrabhadraḥ) [O-fair-hipped-one](suśroṇi) [directly](sākṣāt) [destruction](saṃhāra) [Bhairava](bhairavaḥ)
 
 ## mukta-m0-p21-v503
-[from-daksha-anger](dakṣakopātprajvalataḥ) [of-him](tasyāṃgādromakūpataḥ)
+[from-Dakṣa’s](dakṣa) [anger](kopāt) [blazing](prajvalataḥ) [from-his](tasya) [limb](aṃgād) [from-hair-pores](romakūpataḥ)
 
 ## mukta-m0-p21-v504
-[by-him](tamanuproddhitāḥ) [all](sarve) [diseases](vyādhayovividhakramāḥ)
+[after-him](tam) [arisen](anuproddhitāḥ) [all](sarve) [diseases](vyādhayo) [of-various](vividha) [courses](kramāḥ)
 
 ## mukta-m0-p21-v505
-[extremely-unsteady](atyaṃtalolādurvārāḥ) [blazing](prajvalaṃtaḥ) [always](sadāmuṣā)
+[extremely](atyaṃta) [fickle](lolā) [irresistible](durvārāḥ) [blazing](prajvalaṃtaḥ) [always](sadā) [by-him](amuṣā)
 
 ## mukta-m0-p21-v506
-[having-resorted](tamāśritya) [great-being](mahāsatvaṃ) [virabhadra](vīrabhadraṃ) [great-rise](mahodayam)
+[him](tam) [having-resorted-to](āśritya) [great](mahā) [being](satvaṃ) [Vīrabhadra](vīrabhadraṃ) [of-great-prosperity](mahodayam)
 
 ## mukta-m0-p21-v507
-[sinful-natured](pāpaśīlān) [bad-conducted](durācārān) [girl-hating](kanyāvidveṣakāriṇaḥ)
+[of-sinful](pāpa) [nature](śīlān) [of-bad-conduct](durācārān) [of-maidens](kanyā) [hatred](vidveṣa) [doers](kāriṇaḥ)
 
 ## mukta-m0-p21-v508
-[scripture](āgama) [hostile](drohiṇo) [sinners](pāpān) [vain-quarrel-makers](vṛthākalahakāriṇaḥ)
+[of-scripture](āgama) [betrayers](drohiṇo) [sinful](pāpān) [in-vain](vṛthā) [quarrel](kalaha) [doers](kāriṇaḥ)
 
 ## mukta-m0-p21-v509
-[devour](bhakṣayaṃti) [great-diseases](mahārogāḥ) [drink](pibaṃti) [blood](rudhiraṃ) [much](bahu)
+[they-devour](bhakṣayaṃti) [great](mahā) [diseases](rogāḥ) [they-drink](pibaṃti) [blood](rudhiraṃ) [much](bahu)
 
 ## mukta-m0-p21-v510
-[verse-fragment](vṛdhe-])
+[in-vain](vṛdhe-])
 
 ## mukta-m0-p21-v511
-[vital-point-breaking](marmabheda) [terrible-faced](karālāpāṃ) [righteous-conduct](dhārmikācāra) [blamers](niṃdakān)
+[vital-points](marma) [piercing](bheda) [terrible-speech](karālāpāṃ) [of-righteous](dhārmika) [conduct](ācāra) [revilers](niṃdakān)
 
 ## mukta-m0-p21-v512
-[harm](hiṃsaṃti) [diseases](vyādhayastīvrāstatsaṃgādaparānapi)
+[they-injure](hiṃsaṃti) [diseases](vyādhayas) [fierce](tīvrās) [by-their](tat) [association](saṃgād) [others](aparān) [also](api)
 
 ## mukta-m0-p21-v513
-[fearing](āśaṃkamānairvilaya) [great-swan](mahaṃsaṃprārthitaḥ) [formerly](purā)
+[by-those-fearing](āśaṃkamānaiḥ) [dissolution](vilaya) [greatly](mahaṃ) [entreated](saṃprārthitaḥ) [formerly](purā)
 
 ## mukta-m0-p21-v514
-[supreme-brahman](parabrahmaḥ) [taste-filled](sāsvādamayamānaṃdadāyakam)
+[supreme](para) [Brahman](brahmaḥ) [with-essence](sāsvāda) [consisting-of](mayam) [bliss](ānanda) [giving](dāyakam)
 
 ## mukta-m0-p21-v515
-[that](sa) [bindu](biṃdu) [hundred-thousand](śatasāhasra) [flow](pravahaḥ) [wind-struck](pavanāhatam)
+[that](sa) [drop](biṃdu) [hundred](śata) [thousand](sāhasra) [stream](pravahaḥ) [by-wind](pavanā) [struck](hatam)
 
 ## mukta-m0-p21-v516
-[entered](viveśacauṣadhiḥ) [all](sarvāḥ) [moon-formed](somarūpomahārasaḥ)
+[entered](viveśa) [and](ca) [herbs](auṣadhiḥ) [all](sarvāḥ) [soma](soma) [form](rūpo) [great](mahā) [essence](rasaḥ)
 
 ## mukta-m0-p21-v517
-[then](tataḥ) [from](prabhṛti) [herbs](vīrutsujāgartti) [supreme-nectar](paramāmṛtam)
+[from-then](tataḥ) [onward](prabhṛti) [in-plants](vīrutsu) [awakens](jāgartti) [supreme](parama) [nectar](amṛtam)
 
 ## mukta-m0-p21-v518
-[various](vividhaṃ) [medical-treatise](vaidyataṃtraṃ) [tu](tu) [for-fever-etc-removal](jvarādīnāṃ) [vinuttaye](vinuttaye)
+[various](vividhaṃ) [medical](vaidya) [treatise](taṃtraṃ) [indeed](tu) [of-fever](jvara) [and-others](ādīnāṃ) [for-removal](vinuttaye)
 
 ## mukta-m0-p21-v519
-[bodily-medicine](śārīravaidyake) [proclaimed](proktāḥ) [decoctions-pills-etc](prakvāthaghuṭikādayaḥ)
+[in-bodily](śārīra) [medicine](vaidyake) [declared](proktāḥ) [decoctions](prakvātha) [pills](ghuṭikā) [and-others](ādayaḥ)
 
 ## mukta-m0-p21-v520
-[as](yathā) [body](dehojvaraṃ) [fever](śītaṃ) [bile](pittaṃ) [phlegm](śleṣmamalonilaḥ)
+[as](yathā) [of-body](deho) [fever](jvaraṃ) [cold](śītaṃ) [bile](pittaṃ) [phlegm](śleṣma) [impurity](malaḥ) [wind](anilaḥ)
 
 ## mukta-m0-p21-v521
-[so](tathā) [in-living-being](jīve) [diseases](gadāḥ) [proclaimed](proktāḥ) [anger](krodhodveṣaścamatsaraḥ)
+[so](tathā) [in-the-soul](jīve) [diseases](gadāḥ) [declared](proktāḥ) [anger](krodho) [hatred](dveṣaḥ) [and](ca) [envy](matsaraḥ)
 
 ## mukta-m0-p21-v522
-[disgust](nirvedaśca) [terror](paritrāsaḥ) [doubt](śaṃkākutsitaciṃtanam)
+[despondency](nirvedaḥ) [and](ca) [terror](paritrāsaḥ) [doubt](śaṃkā) [despicable](kutsita) [thought](ciṃtanam)
 
 ## mukta-m0-p21-v523
-[variability](vikaṃpatvaṃ) [delusion](vimūḍhatvaṃ) [knowledge-light](vidyāloka) [devoid](navarjitam)
+[trembling](vikaṃpatvaṃ) [delusion](vimūḍhatvaṃ) [of-knowledge](vidyā) [light](āloka) [not](na) [devoid](varjitam)
 
 ## mukta-m0-p21-v524
-[of-all](sarvasyakutsā) [habit](śīlatvaṃ) [everywhere](sarvatrāpi) [aversion](jugupsanam)
+[of-all](sarvasya) [fault-finding](kutsā) [nature](śīlatvaṃ) [everywhere](sarvatra) [also](api) [disgust](jugupsanam)
 
 ## mukta-m0-p21-v525
-[these](etā) [seen](dṛśānaikabhedāḥ) [crores](koṭīnāmapikoṭayaḥ)
+[these](etā) [such](dṛśā) [of-many](aneka) [kinds](bhedāḥ) [of-crores](koṭīnāṃ) [even](api) [crores](koṭayaḥ)
