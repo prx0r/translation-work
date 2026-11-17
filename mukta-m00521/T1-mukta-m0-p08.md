@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p08-v176
-[by-half-radiance](madardha-tejasā) [endowed](yukā) [woman-Lakshmi](nārī-lakṣmīḥ) [thus-spoken](iti-īritā)
+[madardha](madardha) [tejasā](tejasā) [yuktā](yuktā) [nārī](nārī) [lakṣmīḥ](lakṣmīḥ) [iti](iti) [īritā](īritā)
 
 ## mukta-m0-p08-v177
-[twelve-syllable](dvādaśārṇa) [great-vidya-form](mahāvidyā-rūpaḥ) [Brahma-fear-I-am](brahmabhayosmyahaṃ)
+[dvādaśa](dvādaśa) [arṇa](arṇa) [mahā](mahā) [vidyā](vidyā) [rūpaḥ](rūpaḥ) [brahma](brahma) [bhayaḥ](bhayaḥ) [asmi](asmi) [ahaṃ](ahaṃ)
 
 ## mukta-m0-p08-v178
-[I](ahaṃ) [world-pervading](jaganmayatvena) [of-meters](chaṃdasāṃ) [best-worldly](jāgataṃ varaṃ)
+[ahaṃ](ahaṃ) [jagat](jagat) [mayatvena](mayatvena) [chaṃdasāṃ](chaṃdasāṃ) [jāgataṃ](jāgataṃ) [varaṃ](varaṃ)
 
 ## mukta-m0-p08-v179
-[Brahma-vidya](brahmavidyā) [thus-called](iti vikhyātā) [from-giving](pradānād) [from-beginning](ādittastava)
+[brahma](brahma) [vidyā](vidyā) [iti](iti) [vikhyātā](vikhyātā) [pradānāt](pradānāt) [ādittastava](ādittastava)
 
 ## mukta-m0-p08-v180
-[this-also](imām-api) [great-vidya](mahāvidyāṃ) [Lakshmi-Narayana-named](lakṣmī-nārāyaṇābhidhāṃ)
+[imām](imām) [api](api) [mahā](mahā) [vidyāṃ](vidyāṃ) [lakṣmī](lakṣmī) [nārāyaṇa](nārāyaṇa) [abhidhāṃ](abhidhāṃ)
 
 ## mukta-m0-p08-v181
-[he-who](yo-'sau) [Virat-formed](virāṅmayaḥ) [directly](sākṣāt) [ancient-purusha](puruṣo-'haṃ purātanaḥ)
+[yaḥ](yaḥ) [asau](asau) [virāṅmayaḥ](virāṅmayaḥ) [sākṣāt](sākṣāt) [puruṣaḥ](puruṣaḥ) [ahaṃ](ahaṃ) [purātanaḥ](purātanaḥ)
 
 ## mukta-m0-p08-v182
-[that-same](sa eva) [Veda-purusha](vedapuruṣo) [Veda-Narayana-I-am](vedanārāyaṇo-'ham) [great-guru-declared](gururukto mahān-ayaṃ)
+[saḥ](saḥ) [eva](eva) [veda](veda) [puruṣaḥ](puruṣaḥ) [veda](veda) [nārāyaṇaḥ](nārāyaṇaḥ) [asmi](asmi) [ahaṃ](ahaṃ) [jñaḥ](jñaḥ) [guruḥ](guruḥ) [uktaḥ](uktaḥ) [mahān](mahān) [ayaṃ](ayaṃ)
 
 ## mukta-m0-p08-v183
-[by-his-presence](tatsānnidhyena) [of-rites](vidhānāṃ) [to-be-done](kartavyaṃ) [on-earth](grahaṇaṃ bhuvi)
+[tat](tat) [sānnidhyena](sānnidhyena) [vidhānāṃ](vidhānāṃ) [kartavyaṃ](kartavyaṃ) [grahaṇaṃ](grahaṇaṃ) [bhuvi](bhuvi)
 
 ## mukta-m0-p08-v184
-[of-nyasas](nyāsānām) [knower](parijñātā) [of-worship-yantra-etc](pūjā-yaṃtrādikasya ca)
+[nyāsānām](nyāsānām) [parijñātā](parijñātā) [pūjā](pūjā) [yantra](yantra) [ādikasya](ādikasya) [ca](ca)
 
 ## mukta-m0-p08-v185
-[all-agama-secret-meaning-crosser](sarvāgamarahasyārthapāragaṃ) [Veda-devoted](śrūti tatparaṃ)
+[sarva](sarva) [āgama](āgama) [rahasya](rahasya) [artha](artha) [pāragaṃ](pāragaṃ) [śruti](śruti) [tatparaṃ](tatparaṃ)
 
 ## mukta-m0-p08-v186
-[always](nityaṃ) [with-hypocrisy-greed-etc](daṃbhalobhādi saṃyutaḥ)
+[a](a) [nityaṃ](nityaṃ) [daṃbha](daṃbha) [lobha](lobha) [ādi](ādi) [saṃyutaḥ](saṃyutaḥ)
 
 ## mukta-m0-p08-v187
-[tamas-guna-predominant](tamoguṇapradhānaśca) [toward-others-wives](paranārīratassadā)
+[tamo](tamo) [guṇa](guṇa) [pradhānaḥ](pradhānaḥ) [ca](ca) [para](para) [nārī](nārī) [rataḥ](rataḥ) [sadā](sadā)
 
 ## mukta-m0-p08-v188
-[crooked](jihmaḥ) [hard-in-wealth](kaṭhinavittau) [always](satataṃ) [anger-devoted](krodha tatparaḥ)
+[jihmaḥ](jihmaḥ) [kaṭhina](kaṭhina) [vittau](vittau) [sau](sau) [satataṃ](satataṃ) [krodha](krodha) [tatparaḥ](tatparaḥ)
 
 ## mukta-m0-p08-v189
-[harsh-speaker](vadavāhyodurālāpī) [planet-maker](grahakārakaḥ)
+[vadavāhya](vadavāhya) [durālāpī](durālāpī) [graha](graha) [kārakaḥ](kārakaḥ)
 
 ## mukta-m0-p08-v190
-[Veda-study-doer](vedādhyayana kṛn) [always](nityaṃ) [hypocrisy-greed-abandoned](daṃbhalobha vivarjitaḥ)
+[veda](veda) [adhyayana](adhyayana) [kṛt](kṛt) [nityaṃ](nityaṃ) [daṃbha](daṃbha) [lobha](lobha) [vivarjitaḥ](vivarjitaḥ)
 
 ## mukta-m0-p08-v191
-[always](satataṃ) [Vedic-conduct-devoted](vaidikācāra tatparaḥ) [Veda-crosser](śrutipāragaḥ)
+[satataṃ](satataṃ) [vaidika](vaidika) [ācāra](ācāra) [tatparaḥ](tatparaḥ) [śruti](śruti) [pāragaḥ](pāragaḥ)
 
 ## mukta-m0-p08-v192
-[of-father-mother](piturmātuśca) [service](śuśrūṣā) [abandoned](vivarjitaḥ)
+[pituḥ](pituḥ) [mātuḥ](mātuḥ) [ca](ca) [śuśrūṣā](śuśrūṣā) [vivarjitaḥ](vivarjitaḥ)
 
 ## mukta-m0-p08-v193
-[daily](anvahaṃ) [guru-lotus-feet-service](gurupādābja śuśrūṣur) [free-from-envy](vītamatsaraḥ)
+[anvahaṃ](anvahaṃ) [guru](guru) [pādābja](pādābja) [śuśrūṣuḥ](śuśrūṣuḥ) [vīta](vīta) [matsaraḥ](matsaraḥ)
 
 ## mukta-m0-p08-v194
-[once](sakṛdvā) [in-guru-blame](guruniṃdāyāṃ) [mind-attached](samāsaktamanā) [if](yadi)
+[sakṛt](sakṛt) [vā](vā) [guru](guru) [niṃdāyāṃ](niṃdāyāṃ) [samāsakta](samāsakta) [manāḥ](manāḥ) [yadi](yadi)
 
 ## mukta-m0-p08-v195
-[reviled](ākruṣṭaḥ) [beaten](tāḍito) [or](vāpi) [with-whip](kaśābhiḥ) [foot-beating](pādatāḍanaiḥ)
+[ākruṣṭaḥ](ākruṣṭaḥ) [tāḍitaḥ](tāḍitaḥ) [vā](vā) [api](api) [kaśābhiḥ](kaśābhiḥ) [pāda](pāda) [tāḍanaiḥ](tāḍanaiḥ)
 
 ## mukta-m0-p08-v196
-[necessarily](avaśyaṃ) [to-him](tasya) [to-be-given](dātavyā) [vidya-giving-heaven-liberation](vidyāsvargāpavargadā)
+[avaśyaṃ](avaśyaṃ) [tasya](tasya) [dātavyā](dātavyā) [vidyā](vidyā) [svarga](svarga) [apavarga](apavarga) [dā](dā)
 
 ## mukta-m0-p08-v197
-[four](catvāro) [gurus](guravaḥ) [declared](proktāḥ) [worshipable](pūjyāḥ) [daily](pratyaham) [respectfully](ādarāt)
+[catvāraḥ](catvāraḥ) [guravaḥ](guravaḥ) [proktāḥ](proktāḥ) [pūjyāḥ](pūjyāḥ) [pratyaham](pratyaham) [ādarāt](ādarāt)
 
 ## mukta-m0-p08-v198
-[to-be-served](sevyam) [daily](anvahaṃ) [with-devotion](bhaktyā) [foot-service-etc](pāda śuśrūṣaṇādibhiḥ)
+[sevyam](sevyam) [anvahaṃ](anvahaṃ) [bhaktyā](bhaktyā) [pāda](pāda) [śuśrūṣaṇa](śuśrūṣaṇa) [ādibhiḥ](ādibhiḥ)
 
 ## mukta-m0-p08-v199
-[Akshapada-made](akṣapādakṛtaṃ) [shastra](śāstraṃ) [Mimamsa-two](mīmāṃsā dvitayaṃ) [thus](tathā)
+[akṣapāda](akṣapāda) [kṛtaṃ](kṛtaṃ) [śāstraṃ](śāstraṃ) [mīmāṃsā](mīmāṃsā) [dvitayaṃ](dvitayaṃ) [tathā](tathā)
 
 ## mukta-m0-p08-v200
-[six-shastras](śāstraṣaṭkam) [thus-declared](iti proktam) [liberation-cause](apavargādikāraṇaṃ)
+[śāstra](śāstra) [ṣaṭkam](ṣaṭkam) [iti](iti) [proktam](proktam) [apavarga](apavarga) [ādi](ādi) [kāraṇaṃ](kāraṇaṃ)

@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p04-v76
-[bodha+vyakti+bhūmi+tayā](bodhavyaktibhūmitayā) [paśoḥ](paśoḥ) [iti](iti) [vi0](vi0) [11|8](11|8)
+[bodha](bodha) [vyakti](vyakti) [bhūmi](bhūmi) [tayā](tayā) [paśoḥ](paśoḥ) [iti](iti)
 
 ## mukta-m0-p04-v77
-[icchā+saṃrambha+bodha+ākhyāḥ](icchāsaṃrambhabodhākhyāḥ) [tena](tena) [antaḥkaraṇam](antaḥkaraṇam) [tridhā](tridhā)
+[icchā](icchā) [saṃrambha](saṃrambha) [bodha](bodha) [ākhyāḥ](ākhyāḥ) [tena](tena) [antaḥkaraṇa](antaḥkaraṇa) [tridhā](tridhā)
 
 ## mukta-m0-p04-v78
-[vṛttayaḥ](vṛttayaḥ) [bhinnārthatvāt](bhinnārthatvāt) [bhinnakāraṇāḥ](bhinnakāraṇāḥ) [iti](iti) [bhāvaḥ](bhāvaḥ)
+[vṛttayaḥ](vṛttayaḥ) [bhinna](bhinna) [arthāt](arthāt) [bhinnā](bhinnā) [kāraṇāḥ](kāraṇāḥ) [iti](iti) [bhāvaḥ](bhāvaḥ)
 
 ## mukta-m0-p04-v79
-[buddhiḥ](buddhiḥ) [ca](ca) [api](api) [hi](hi) [asaṃvedyā](asaṃvedyā) [dhanyā](dhanyā) [tārkikatā](tārkikatā) [tava](tava)
+[buddhiḥ](buddhiḥ) [ca](ca) [api](api) [hi](hi) [asaṃvedyā](asaṃvedyā) [dhanyā](dhanyā) [tārkika](tārkika) [tā](tā) [tava](tava)
 
 ## mukta-m0-p04-v80
-[viṣaya+adhyavasāya+hetutvāt](viṣayādhyavasāyahetutvāt) [siddham](siddham) [iti](iti) [uktam](uktam)
+[viṣaya](viṣaya) [adhyavasāya](adhyavasāya) [hetutvāt](hetutvāt) [siddham](siddham) [iti](iti) [uktam](uktam)
 
 ## mukta-m0-p04-v81
-[bhogyam](bhogyam) [vinā](vinā) [na](na) [bhogaḥ](bhogaḥ) [asti](asti) [iti](iti) [ataḥ](ataḥ) [bhogasya](bhogasya) [sādhanam](sādhanam)
+[bhogyaṃ](bhogyaṃ) [vinā](vinā) [na](na) [bhogaḥ](bhogaḥ) [asti](asti) [iti](iti) [ataḥ](ataḥ) [bhogasya](bhogasya) [sādhanam](sādhanam)
 
 ## mukta-m0-p04-v82
-[sukha+ādi+adhyavasāyasya](sukhādyadhyavasāyasya) [api](api) [sādhanam](sādhanam) [iṣyate](iṣyate)
+[sukha](sukha) [ādi](ādi) [adhyavasāyasya](adhyavasāyasya) [api](api) [sādhanam](sādhanam) [iṣyate](iṣyate)
 
 ## mukta-m0-p04-v83
-[prayuṅkte](prayuṅkte) [mahat+ādīni](mahadādīni) [bodha+ādi+artham](bodhādyartham) [aṇuḥ](aṇuḥ) [tathā](tathā)
+[prayuṅkte](prayuṅkte) [mahat](mahat) [ādīni](ādīni) [bodha](bodha) [ādi](ādi) [artham](artham) [aṇuḥ](aṇuḥ) [tathā](tathā)
 
 ## mukta-m0-p04-v84
-[buddhi+ādi+saṃsthe](buddhyādisaṃsthe) [bodha+ādau](bodhādau) [puṃsaḥ](puṃsaḥ) [kartṛtvam](kartṛtvam) [iṣyate](iṣyate)
+[buddhi](buddhi) [ādi](ādi) [saṃsthe](saṃsthe) [bodha](bodha) [ādau](ādau) [puṃsaḥ](puṃsaḥ) [kartṛtvam](kartṛtvam) [iṣyate](iṣyate)
 
 ## mukta-m0-p04-v85
-[sādhanam](sādhanam) [vijayasya](vijayasya) [iṣṭāḥ](iṣṭāḥ) [tathā](tathā) [eva](eva) [mahat+ādayaḥ](mahadādayaḥ)
+[sādhanam](sādhanam) [vijayasya](vijayasya) [iṣṭāḥ](iṣṭāḥ) [tathā](tathā) [eva](eva) [mahat](mahat) [ādayaḥ](ādayaḥ)
 
 ## mukta-m0-p04-v86
-[tataḥ](tataḥ) [bodha+ādi+vṛttīnām](bodhādivṛttīnām) [sādhanam](sādhanam) [mahat+ādayaḥ](mahadādayaḥ)
+[tataḥ](tataḥ) [bodha](bodha) [ādi](ādi) [vṛttīnāṃ](vṛttīnāṃ) [sādhanam](sādhanam) [mahat](mahat) [ādayaḥ](ādayaḥ)
 
 ## mukta-m0-p04-v87
-[bauddhaḥ](bauddhaḥ) [bodhaḥ](bodhaḥ) [param](param) [bhogyam](bhogyam) [māyā+ādi](māyādi) [ca](ca) [tad+arthataḥ](tadarthataḥ)
+[bauddhaḥ](bauddhaḥ) [bodhaḥ](bodhaḥ) [param](param) [bhogyaṃ](bhogyaṃ) [māyā](māyā) [ādi](ādi) [ca](ca) [tad](tad) [arthataḥ](arthataḥ)
 
 ## mukta-m0-p04-v88
 [tvāt](tvāt) [paramparayā](paramparayā) [bhogyam](bhogyam) [iti](iti)
 
 ## mukta-m0-p04-v89
-[tamas+rajas+sattva+mayam](tamorajaḥsattvamayam) [rūpam](rūpam) [tat+karma+jam](tatkarmajam) [matau](matau)
+[tamas](tamas) [rajas](rajas) [sattva](sattva) [mayaṃ](mayaṃ) [rūpaṃ](rūpaṃ) [tat](tat) [karma](karma) [jaṃ](jaṃ) [matau](matau)
 
 ## mukta-m0-p04-v90
-[paṭa+ādi+bodha+avaitatyāt](paṭādibodhāvaitatyāt) [ātmanaḥ](ātmanaḥ) [na](na) [guṇāḥ](guṇāḥ) [guṇāḥ](guṇāḥ)
+[paṭa](paṭa) [ādi](ādi) [bodha](bodha) [avaitatyāt](avaitatyāt) [ātmanaḥ](ātmanaḥ) [na](na) [guṇāḥ](guṇāḥ) [guṇāḥ](guṇāḥ)
 
 ## mukta-m0-p04-v91
-[prākṛtaḥ](prākṛtaḥ) [deha+saṃyoge](dehasaṃyoge) [vyaktaḥ](vyaktaḥ) [svapna+ādi+bodhavat](svapnādibodhavat) [iti](iti)
+[prākṛtaḥ](prākṛtaḥ) [deha](deha) [saṃyoge](saṃyoge) [vyaktaḥ](vyaktaḥ) [svapna](svapna) [ādi](ādi) [bodhavat](bodhavat) [iti](iti)
 
 ## mukta-m0-p04-v92
-[svargaḥ](svargaḥ) [muktiḥ](muktiḥ) [prakṛti+bhāvaḥ](prakṛtibhāvaḥ) [vighātaḥ](vighātaḥ) [ca](ca) [phalāni](phalāni) [ca](ca)
+[svargaḥ](svargaḥ) [muktiḥ](muktiḥ) [prakṛti](prakṛti) [bhāvaḥ](bhāvaḥ) [vighātaḥ](vighātaḥ) [ca](ca) [phalāni](phalāni) [ca](ca)
 
 ## mukta-m0-p04-v93
-[vaśya+ūrdhva+sthitiḥ](vaśyordhvasthitiḥ) [sat+dṛṣṭi+bhṛttvam](saddṛṣṭibhṛttvam) [bhoga+aspṛhā](bhogāspṛhā) [phalam](phalam)
+[vaśya](vaśya) [ūrdhva](ūrdhva) [sthitiḥ](sthitiḥ) [sat](sat) [dṛṣṭi](dṛṣṭi) [bhṛttvam](bhṛttvam) [bhoga](bhoga) [aspṛhā](aspṛhā) [phalam](phalam)
 
 ## mukta-m0-p04-v94
-[vinaya+prākṛte](vinayaprākṛte) [rūpe](rūpe) [pūrva+ukta+phala+saṃgrahaḥ](pūrvoktaphalasaṃgrahaḥ)
+[vinaya](vinaya) [prākṛte](prākṛte) [rūpe](rūpe) [pūrva](pūrva) [ukta](ukta) [phala](phala) [saṃgrahaḥ](saṃgrahaḥ)
 
 ## mukta-m0-p04-v95
-[rāga+mātra+anulipta+āṅgāt](rāgamātrānuliptāṅgāt) [dharma+ādi+samudāyataḥ](dharmādisamudāyataḥ)
+[rāga](rāga) [mātra](mātra) [anulipta](anulipta) [aṅgāt](aṅgāt) [dharma](dharma) [ādi](ādi) [samudāyataḥ](samudāyataḥ)
 
 ## mukta-m0-p04-v96
-[tuṣṭiḥ](tuṣṭiḥ) [kṛtārtha+vijñānam](kṛtārthavijñānam) [anayā](anayā) [ātma+grahe](ātmagrahe) [sati](sati)
+[tuṣṭiḥ](tuṣṭiḥ) [kṛtārtha](kṛtārtha) [vijñānam](vijñānam) [anayā](anayā) [ātma](ātma) [grahe](grahe) [sati](sati)
 
 ## mukta-m0-p04-v97
-[kṛtārthaḥ](kṛtārthaḥ) [asmi](asmi) [iti](iti) [yā](yā) [matiḥ](matiḥ) [iti](iti)
+[kṛtārthaḥ](kṛtārthaḥ) [asmi](asmi) [iti](iti) [yā](yā) [matiḥ](matiḥ)
 
 ## mukta-m0-p04-v98
-[aśaktiḥ](aśaktiḥ) [deva+vaikalyāt](devavaikalyāt) [asāmarthyam](asāmarthyam) [śubha+ādiṣu](śubhādiṣu)
+[aśaktiḥ](aśaktiḥ) [deva](deva) [vaikalyāt](vaikalyāt) [asāmarthyam](asāmarthyam) [śubha](śubha) [ādiṣu](ādiṣu)
 
 ## mukta-m0-p04-v99
-[rājasya](rājasya) [api](api) [guṇaḥ](guṇaḥ) [dṛṣṭaḥ](dṛṣṭaḥ) [kārye](kārye) [kāraṇa+saṃśrayaḥ](kāraṇasaṃśrayaḥ) [iti](iti)
+[rājasya](rājasya) [api](api) [guṇaḥ](guṇaḥ) [dṛṣṭaḥ](dṛṣṭaḥ) [kārye](kārye) [kāraṇa](kāraṇa) [saṃśrayaḥ](saṃśrayaḥ)
 
 ## mukta-m0-p04-v100
-[īṣat](īṣat) [dharma+ādi+saṃpṛktāt](dharmādisaṃpṛktāt) [abhivyaktaḥ](abhivyakto) [viparyayaḥ](viparyayaḥ)
+[īṣat](īṣat) [dharma](dharma) [ādi](ādi) [saṃpṛktāt](saṃpṛktāt) [abhivyaktaḥ](abhivyaktaḥ) [viparyayaḥ](viparyayaḥ)

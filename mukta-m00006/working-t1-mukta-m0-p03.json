@@ -7,15 +7,19 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "sarvajñatvasiddhiḥ",
-"quick_gloss": "omniscience-accomplishment"
+"surface": "sarvajñatva",
+"quick_gloss": "all-knowing"
+},
+{
+"surface": "siddhiḥ",
+"quick_gloss": "accomplishment"
 },
 {
 "surface": "iti",
 "quick_gloss": "thus"
 },
 {
-"surface": "uktam",
+"surface": "uktaṃ",
 "quick_gloss": "said"
 },
 {
@@ -32,8 +36,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "upādānanimittaiḥ",
-"quick_gloss": "material-and-efficient-causes"
+"surface": "upādāna",
+"quick_gloss": "material"
+},
+{
+"surface": "nimittaiḥ",
+"quick_gloss": "causes"
 },
 {
 "surface": "tu",
@@ -41,15 +49,15 @@
 },
 {
 "surface": "phalena",
-"quick_gloss": "with-result"
+"quick_gloss": "by-fruit"
 },
 {
 "surface": "ca",
 "quick_gloss": "and"
 },
 {
-"surface": "samanvitam",
-"quick_gloss": "endowed"
+"surface": "samanvitaṃ",
+"quick_gloss": "accompanied"
 }
 ]
 },
@@ -61,8 +69,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "upādānanimittaiḥ",
-"quick_gloss": "material-and-efficient-causes"
+"surface": "upādāna",
+"quick_gloss": "material"
+},
+{
+"surface": "nimittaiḥ",
+"quick_gloss": "causes"
 },
 {
 "surface": "tu",
@@ -70,7 +82,7 @@
 },
 {
 "surface": "phalena",
-"quick_gloss": "with-result"
+"quick_gloss": "by-fruit"
 },
 {
 "surface": "ca",
@@ -78,7 +90,7 @@
 },
 {
 "surface": "samanvitaḥ",
-"quick_gloss": "endowed"
+"quick_gloss": "accompanied"
 }
 ]
 },
@@ -90,12 +102,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "ittham",
+"surface": "itthaṃ",
 "quick_gloss": "thus"
 },
 {
 "surface": "sarvārthakāritvāt",
-"quick_gloss": "from-all-objects-agency"
+"quick_gloss": "from-all-purpose-agency"
 },
 {
 "surface": "dvirūpā",
@@ -123,15 +135,15 @@
 "quick_gloss": "by-which"
 },
 {
-"surface": "yuktaḥ",
-"quick_gloss": "endowed"
+"surface": "yukto",
+"quick_gloss": "joined"
 },
 {
 "surface": "maheśānaḥ",
 "quick_gloss": "great-lord"
 },
 {
-"surface": "sarvam",
+"surface": "sarvaṃ",
 "quick_gloss": "all"
 },
 {
@@ -161,10 +173,10 @@
 },
 {
 "surface": "kalāpiṇḍasaṃbaddhaḥ",
-"quick_gloss": "bound-to-kalā-cluster"
+"quick_gloss": "kalā-piṇḍa-bound"
 },
 {
-"surface": "saṃbaddhaḥ",
+"surface": "saṃbaddho",
 "quick_gloss": "bound"
 },
 {
@@ -173,11 +185,11 @@
 },
 {
 "surface": "yathā",
-"quick_gloss": "like"
+"quick_gloss": "as"
 },
 {
 "surface": "paśuḥ",
-"quick_gloss": "creature"
+"quick_gloss": "beast"
 }
 ]
 },
@@ -190,23 +202,27 @@
 "tokens": [
 {
 "surface": "paśuvat",
-"quick_gloss": "like-creature"
+"quick_gloss": "like-beast"
 },
 {
 "surface": "kalādyātmakaśarīrābhāvāt",
-"quick_gloss": "from-absence-of-body-made-of-kalā-etc"
+"quick_gloss": "from-absence-of-kalā-etc-bodied-body"
 },
 {
-"surface": "niṣkalaḥ",
-"quick_gloss": "without-kalā"
+"surface": "niṣkalo",
+"quick_gloss": "partless"
 },
 {
 "surface": "bhagavān",
 "quick_gloss": "lord"
 },
 {
-"surface": "ityuktam",
-"quick_gloss": "thus-said"
+"surface": "iti",
+"quick_gloss": "thus"
+},
+{
+"surface": "uktaṃ",
+"quick_gloss": "said"
 },
 {
 "surface": "prāk",
@@ -227,11 +243,11 @@
 },
 {
 "surface": "asya",
-"quick_gloss": "of-him"
+"quick_gloss": "his"
 },
 {
 "surface": "niṣkalatve",
-"quick_gloss": "in-without-kalā-ness"
+"quick_gloss": "partlessness"
 },
 {
 "surface": "tu",
@@ -242,7 +258,7 @@
 "quick_gloss": "no"
 },
 {
-"surface": "jñānam",
+"surface": "jñānaṃ",
 "quick_gloss": "knowledge"
 },
 {
@@ -263,16 +279,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "jñāna",
-"quick_gloss": "knowledge"
-},
-{
-"surface": "ādi",
-"quick_gloss": "etc"
-},
-{
-"surface": "abhāvaḥ",
-"quick_gloss": "absence"
+"surface": "jñānādyabhāvaḥ",
+"quick_gloss": "absence-of-knowledge-etc"
 }
 ]
 },
@@ -284,16 +292,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "cidvyaktyartham",
+"surface": "cidvyaktyarthaṃ",
 "quick_gloss": "for-manifestation-of-consciousness"
 },
 {
 "surface": "kalāyogam",
-"quick_gloss": "union-with-kalā"
+"quick_gloss": "kalā-yoga"
 },
 {
 "surface": "apekṣete",
-"quick_gloss": "require"
+"quick_gloss": "expect"
 },
 {
 "surface": "susaṃsthite",
@@ -310,7 +318,7 @@
 "tokens": [
 {
 "surface": "vyañjakāpekṣe",
-"quick_gloss": "requiring-manifestor"
+"quick_gloss": "manifestation-expectation"
 },
 {
 "surface": "iti",
@@ -322,7 +330,7 @@
 },
 {
 "surface": "sarvārthe",
-"quick_gloss": "in-all-objects"
+"quick_gloss": "for-all-purposes"
 }
 ]
 },
@@ -347,7 +355,7 @@
 },
 {
 "surface": "paśuḥ",
-"quick_gloss": "creature"
+"quick_gloss": "beast"
 }
 ]
 },
@@ -359,12 +367,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "kalādiyogāt",
-"quick_gloss": "from-union-with-kalā-etc"
+"surface": "kalādiyogād",
+"quick_gloss": "from-kalā-etc-yoga"
 },
 {
-"surface": "devadattādivat",
-"quick_gloss": "like-devadatta-etc"
+"surface": "devadattādivad",
+"quick_gloss": "like-Devadatta-etc"
 },
 {
 "surface": "īśvaraḥ",
@@ -372,7 +380,7 @@
 },
 {
 "surface": "paśuḥ",
-"quick_gloss": "creature"
+"quick_gloss": "beast"
 },
 {
 "surface": "prasajyate",
@@ -388,24 +396,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "kalāḥ",
-"quick_gloss": "kalās"
-},
-{
-"surface": "sṛṣṭvā",
-"quick_gloss": "having-created"
-},
-{
-"surface": "api",
-"quick_gloss": "even"
+"surface": "kalāḥ sṛṣṭvāpi",
+"quick_gloss": "having-created-kalās"
 },
 {
 "surface": "tadyuktaḥ",
-"quick_gloss": "endowed-with-that"
+"quick_gloss": "joined-with-that"
 },
 {
-"surface": "kāryakṛt",
-"quick_gloss": "doer-of-action"
+"surface": "kāryakṛd",
+"quick_gloss": "doer-of-effects"
 },
 {
 "surface": "yadi",
@@ -454,16 +454,16 @@
 "quick_gloss": "therefore"
 },
 {
-"surface": "alam",
+"surface": "alaṃ",
 "quick_gloss": "enough"
 },
 {
 "surface": "prasaṅgena",
-"quick_gloss": "with-objection"
+"quick_gloss": "with-entanglement"
 },
 {
 "surface": "bhogamokṣaprasādhakaḥ",
-"quick_gloss": "accomplisher-of-enjoyment-and-liberation"
+"quick_gloss": "enjoyment-liberation-accomplisher"
 }
 ]
 },
@@ -475,19 +475,27 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "sadaivārādhyaḥ",
-"quick_gloss": "always-worshipful"
+"surface": "sadā",
+"quick_gloss": "always"
+},
+{
+"surface": "ivārādhyo",
+"quick_gloss": "worshippable"
 },
 {
 "surface": "nānyaḥ",
-"quick_gloss": "not-other"
+"quick_gloss": "not"
 },
 {
-"surface": "ityuktaḥ",
-"quick_gloss": "thus-said"
+"surface": "iti",
+"quick_gloss": "thus"
 },
 {
-"surface": "sasādhanaḥ",
+"surface": "uktaḥ",
+"quick_gloss": "said"
+},
+{
+"surface": "sasādhano",
 "quick_gloss": "with-means"
 },
 {
@@ -505,11 +513,11 @@
 "tokens": [
 {
 "surface": "malādipāśavicchittiḥ",
-"quick_gloss": "cutting-of-bonds-starting-with-impurity"
+"quick_gloss": "from-impurity-etc-bond-cutting"
 },
 {
 "surface": "sarvajñānakriyodbhavaḥ",
-"quick_gloss": "origin-of-omniscience-and-action"
+"quick_gloss": "all-knowledge-action-origin"
 }
 ]
 },
@@ -526,15 +534,15 @@
 },
 {
 "surface": "mocyamānatvāt",
-"quick_gloss": "because-of-being-liberated"
+"quick_gloss": "because-releasable"
 },
 {
 "surface": "karmakārakam",
-"quick_gloss": "object-of-action"
+"quick_gloss": "karma-agent"
 },
 {
 "surface": "iṣyate",
-"quick_gloss": "is-held"
+"quick_gloss": "is-intended"
 }
 ]
 },
@@ -550,11 +558,11 @@
 "quick_gloss": "let-be"
 },
 {
-"surface": "ātmanīnaḥ",
-"quick_gloss": "in-self"
+"surface": "ātmanīno",
+"quick_gloss": "self's"
 },
 {
-"surface": "mokṣaḥ",
+"surface": "mokṣo",
 "quick_gloss": "liberation"
 },
 {
@@ -571,7 +579,7 @@
 },
 {
 "surface": "tataḥ",
-"quick_gloss": "then"
+"quick_gloss": "thence"
 }
 ]
 },
@@ -584,10 +592,10 @@
 "tokens": [
 {
 "surface": "sarvajñatādirūpāvāptitaḥ",
-"quick_gloss": "from-attainment-of-omniscience-etc-form"
+"quick_gloss": "from-attainment-of-all-knowing-etc-form"
 },
 {
-"surface": "svātmakartṛkaḥ",
+"surface": "svātmakartṛka",
 "quick_gloss": "by-own-self-agent"
 },
 {
@@ -595,12 +603,16 @@
 "quick_gloss": "indeed"
 },
 {
-"surface": "mokṣaḥ",
+"surface": "mokṣo",
 "quick_gloss": "liberation"
 },
 {
-"surface": "neśvarakartṛkaḥ",
-"quick_gloss": "not-by-lord-agent"
+"surface": "na",
+"quick_gloss": "not"
+},
+{
+"surface": "īśvarakartṛkaḥ",
+"quick_gloss": "lord-agent"
 }
 ]
 },
@@ -613,15 +625,15 @@
 "tokens": [
 {
 "surface": "avivekāvasāyottham",
-"quick_gloss": "arisen-from-indeterminate-cognition"
+"quick_gloss": "from-non-discrimination-conclusion-born"
 },
 {
-"surface": "ajñānam",
+"surface": "ajñānaṃ",
 "quick_gloss": "ignorance"
 },
 {
 "surface": "vinivartate",
-"quick_gloss": "ceases"
+"quick_gloss": "turns-back"
 }
 ]
 },
@@ -633,16 +645,28 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "svakāraṇanivṛttyaiva",
-"quick_gloss": "by-cessation-of-own-cause-alone"
+"surface": "svakāraṇanivṛttyā",
+"quick_gloss": "by-own-cause-cessation"
 },
 {
-"surface": "tannivarteta",
-"quick_gloss": "it-ceases"
+"surface": "eva",
+"quick_gloss": "alone"
 },
 {
-"surface": "nānyathā",
-"quick_gloss": "not-otherwise"
+"surface": "tat",
+"quick_gloss": "that"
+},
+{
+"surface": "nivarteta",
+"quick_gloss": "ceases"
+},
+{
+"surface": "na",
+"quick_gloss": "not"
+},
+{
+"surface": "anyathā",
+"quick_gloss": "otherwise"
 }
 ]
 },
@@ -658,24 +682,28 @@
 "quick_gloss": "if"
 },
 {
-"surface": "ātmadharmaḥ",
-"quick_gloss": "quality-of-self"
+"surface": "ātmadharmo",
+"quick_gloss": "self-quality"
 },
 {
 "surface": "bhāvaḥ",
-"quick_gloss": "entity"
+"quick_gloss": "thing"
 },
 {
 "surface": "syāt",
-"quick_gloss": "were"
+"quick_gloss": "be"
 },
 {
 "surface": "tucchatve",
 "quick_gloss": "in-triviality"
 },
 {
-"surface": "tannivartate",
-"quick_gloss": "it-ceases"
+"surface": "tat",
+"quick_gloss": "that"
+},
+{
+"surface": "nivartate",
+"quick_gloss": "ceases"
 }
 ]
 },
@@ -688,15 +716,23 @@
 "tokens": [
 {
 "surface": "nivartyatve",
-"quick_gloss": "if-ceasable"
+"quick_gloss": "if-removable"
 },
 {
-"surface": "nātmadharmaḥ",
-"quick_gloss": "not-quality-of-self"
+"surface": "na",
+"quick_gloss": "not"
 },
 {
-"surface": "tadanādinirodhakam",
-"quick_gloss": "that-beginningless-obstruction"
+"surface": "ātmadharmaḥ",
+"quick_gloss": "self-quality"
+},
+{
+"surface": "tat",
+"quick_gloss": "that"
+},
+{
+"surface": "anādinirodhakam",
+"quick_gloss": "beginningless-cessation"
 }
 ]
 }

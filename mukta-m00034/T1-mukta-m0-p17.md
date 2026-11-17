@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p17-v401
-[which](yāṃ) [without](vinā) [even](api) [of-system](nayasya) [of-this](asya) [difference](vailakṣaṇyaṃ) [not](na) [arises](jāyate)
+[without-which](yāṃ) [even](api) [of-this-system](nayasyāsya) [distinctness](vailakṣaṇyaṃ) [not](na) [arises](jāyate)
 
 ## mukta-m0-p17-v402
-[lip](lipau) [to-drop](pātayituṃ) [by-power](śaktyā) [not](na) [properly-speaks](samyagvadate) [little](manāk)
+[in-writing](lipau) [to-drop](pātayituṃ) [by-power](śaktyā) [not](na) [properly](samyag) [speaks](vadate) [a-little](manāk)
 
 ## mukta-m0-p17-v403
-[direct-experience](pratyakṣānubhavād) [of-this](asyā) [difference-grasping](bhedagrāso) [indeed](hi) [carefully](yatnataḥ)
+[from-direct-experience](pratyakṣānubhavād) [of-this](asyā) [absorption-of-difference](bhedagrāso) [indeed](hi) [carefully](yatnataḥ)
 
 ## mukta-m0-p17-v404
-[without-cloth-fear-sign](apaṭāṭaṅkasaṅketāt) [from-body-configuration](kāyasaṃsthānataḥ) [situated](sthitā)
+[from-sign-of-uncovered](apaṭāṭaṅkasaṅketāt) [from-bodily-form](kāyasaṃsthānataḥ) [established](sthitā)
 
 ## mukta-m0-p17-v405
-[skull-experience-selfhood](karaṅkānubhavātmatvāt) [first](prathamaṃ) [with-skull-bell](sākaraṃkiṇī)
+[from-skull-experience](karaṅkānubhavāt) [self-nature](matvāt) [first](prathamaṃ) [with-skull](sākaraṃkiṇī)
 
 ## mukta-m0-p17-v406
-[with-anger](saṃrabhāt) [wrathful-form](krodhinīrūpam) [that](asau) [resorting](āśritya) [exists](vartate)
+[from-rage](saṃrabhāt) [angry-form](krodhinīrūpam) [that](asāv) [resorting](āśritya) [exists](vartate)
 
 ## mukta-m0-p17-v407
-[as-appropriate](yathāyathaṃ) [from-gathering](sambharaṇād) [Bhairavi](bhairavī) [thus](iti) [proclaimed](prakīrtitā)
+[as-appropriate](yathāyathaṃ) [from-gathering](sambharaṇād) [bhairavī](bhairavī) [thus](iti) [proclaimed](prakīrtitā)
 
 ## mukta-m0-p17-v408
-[great-dissolution-form](mahāvilayarūpatvāt) [Lelihana](lelihāna) [thus](iti) [said](kathyate)
+[from-great-dissolution-form](mahāvilayarūpatvāt) [licking](lelihānā) [thus](iti) [called](kathyate)
 
 ## mukta-m0-p17-v409
-[unveiled-form](nirāvaraṇarūpatvāt) [sky-goer-form](khecarīrūpam) [situated](āsthitā)
+[from-uncovered-form](nirāvaraṇarūpatvāt) [sky-goer-form](khecarīrūpam) [established](āsthitā)
 
 ## mukta-m0-p17-v410
-[satisfying](tarpayitvā) [whole-world](jagatkṛtsnaṃ) [own-configuration](nijasaṃsthānataḥ) [situated](sthitā)
+[having-satisfied](tarpayitvā) [whole-world](jagatkṛtsnaṃ) [from-own-abode](nijasaṃsthānataḥ) [established](sthitā)
 
 ## mukta-m0-p17-v411
-[speech-self-form-other-superimposed](vācakātmasvarūpāntaradhyastaṃ) [mantra-form](mantrarūpataḥ)
+[from-word-self-form](vācakātmasvarūpāntar) [superimposed](adhyastaṃ) [mantra-form](mantrarūpataḥ)
 
 ## mukta-m0-p17-v412
-[vowel-less-speech](avarṇamayavāk) [kalpa](kalpa) [*](*) [*](*) [by-doing](kāratayā) [situated](sthitaḥ)
+[vowel-less-speech](avarṇamayavāk) [kalpa](kalpa) [kāra-form](kāratayā) [established](sthitaḥ)
 
 ## mukta-m0-p17-v413
-[own-form-stamp-end-fifth-mudra-nature](nijasvarūpaṭaṅkāntapañcamudrātmakaṃ) [world](jagat)
+[own-self-form-stamp](nijasvarūpaṭaṅkānta) [five-seals](pañcamudrātmakaṃ) [world](jagat)
 
 ## mukta-m0-p17-v414
-[difference-manifestation-cessation](bhedaprapañcopaśamaḥ) [reflection-end-limit](parāmarśāntakoṭigaḥ)
+[difference-expansion-cessation](bhedaprapañcopaśamaḥ) [supreme-reflection-end](parāmarśāntakoṭigaḥ)
 
 ## mukta-m0-p17-v415
-[effortless-form](nirīharūpe) [rest](viśrāntiḥ) [supreme-rest-marked](paraviśrāntilakṣaṇe)
+[in-effortless-form](nirīharūpe) [rest](viśrāntiḥ) [supreme-rest-marked](paraviśrāntilakṣaṇe)
 
 ## mukta-m0-p17-v416
-[unveiledness](nirāvaraṇatā) [because](yasmāt) [situated](sthitā) [there-too](tatrāpi) [in-reality](vastutaḥ)
+[uncoveredness](nirāvaraṇatā) [since](yasmāt) [established](sthitā) [there](tatrāpi) [in-reality](vastutaḥ)
 
 ## mukta-m0-p17-v417
-[not-even](nacāpi) [not](na) [in-situation](sthitau) [because](yasmāt) [path-of-cognition](pratītipathi) [moves](vartate)
+[not-even](nacāpi) [not](na) [established](sthitau) [since](yasmāt) [on-path-of-experience](pratītipathi) [moves](vartate)
 
 ## mukta-m0-p17-v418
-[self-awareness-accomplished](svasaṃvedanasaṃsiddhaṃ) [likewise](tadvat) [eva](eva) [of-these-two](anayoḥ) [not](na) [what](kim)
+[self-experience-accomplished](svasaṃvedanasaṃsiddhaṃ) [similarly](tadvadevā) [of-these-two](nayorna) [what](kim)
 
 ## mukta-m0-p17-v419
-[hair-ball-appearance-similar](keśoṇḍukābhāsasamaṃ) [that-unveiled](tannirāvaraṇaṃ) [again](punaḥ)
+[hair-ball-appearance-like](keśoṇḍukābhāsasamaṃ) [that](tat) [uncovered](nirāvaraṇaṃ) [again](punaḥ)
 
 ## mukta-m0-p17-v420
-[reflection](parāmarśaḥ) [again](punar) [goddess](devī) [supreme-grace-stage](parānugrahabhūmikā)
+[supreme-reflection](parāmarśaḥ) [again](punaḥ) [goddess](devī) [supreme-grace-ground](parānugrahabhūmikā)
 
 ## mukta-m0-p17-v421
-[of-these-two](anayoḥ) [equality](samatām) [attains](eti) [yogin](yoginaḥ) [towards](prati) [in-reality](vastutaḥ)
+[of-these-two](anayoḥ) [equality](samatām) [attains](eti) [of-yogin](yoginaḥ) [in-reality](prati) [vastutaḥ](vastutaḥ)
 
 ## mukta-m0-p17-v422
-[effortless-self](nirīhātmā) [consciousness](saṃvid) [eva](eva) [manifests](prathate) [useless](anupayoginaḥ)
+[effortless-self](nirīhātmā) [consciousness](saṃvideva) [manifests](prathate) [useless](anupayoginaḥ)
 
 ## mukta-m0-p17-v423
-[unity](aikadhyam) [by-this](anayā) [manner](bhaṅgyā) [manifestation](pratibhāvaṃ) [established](vyavasthitam)
+[together](aikadhyam) [by-this](anayā) [manner](bhaṅgyā) [manifestation](pratibhāvaṃ) [established](vyavasthitam)
 
 ## mukta-m0-p17-v424
-[transmission](saṃkrāmaḥ) [and](ca) [effortless-self](nirīhātmā) [three](trayam) [as-one](ekatayā) [also](api) [that](adaḥ)
+[transition](saṃkrāmaśca) [effortless-self](nirīhātmā) [three](trayam) [as-one](ekatayāpyadaḥ)
 
 ## mukta-m0-p17-v425
-[consciousness-abode](saṃvitsaṃsthānam) [resorting](āśritya) [letter-self-born](varṇātmājaḥ) [shines](virājate)
+[consciousness-abode](saṃvitsaṃsthānam) [resorting](āśrityā) [vowel-self-born](varṇātmājo) [shines](virājate)

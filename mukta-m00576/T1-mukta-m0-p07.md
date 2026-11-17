@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p07-v151
-[attached](prasaktaṃ) [excess-of-bodhi](bhodhikyaṃ) [prohibits](pratiṣedhayati)
+[excessive](prasaktaṃ) [awakening](bhodhikyaṃ) [prohibits](pratiṣedhayati) [it](iti)
 
 ## mukta-m0-p07-v152
-[do-not](mā) [guru](guru) [eat](bhuṃjīthāḥ)
+[do-not](mā) [eat](bhuṃjīthāḥ) [guru's](guru) [food](bhuṃjīthāḥ)
 
 ## mukta-m0-p07-v153
-[from-word](vacanāt)
+[from](vacanāt) [statement](vacanāt) [indeed](eva) [thus](iti)
 
 ## mukta-m0-p07-v154
-[sick-person-matter](vyādhitaviṣayam) [this](etat)
+[sick](vyādhita) [object](viṣayam) [this](etat) [is](asti)
 
 ## mukta-m0-p07-v155
-[thus](iti) [expectation](apekṣā) [says](āha)
+[thus](ityapekṣāyām) [expectation](apekṣā) [says](āha) [he](saḥ)
 
 ## mukta-m0-p07-v156
-[ascends](ārohati) [indeed](eva) [objects](viṣayān) [best](śreyāṃs) [those](tān) [abandon](parityajet) [thus](iti)
+[ascends](ārohati) [objects](viṣayān) [best](śreyāṃs) [abandons](parityajet)
 
 ## mukta-m0-p07-v157
-[well](nanu) [said](uktaṃ) [eat](bhuṃjethāḥ)
+[not](na) [said](uktaṃ) [eat](bhuṃjethāḥ) [again](punar)
 
 ## mukta-m0-p07-v158
-[again](punar) [enjoyment-meditation](bhogabhāvanayā) [thus](iti) [meaning](bhāvaḥ)
+[again](punar) [enjoyment](bhoga) [meditation](bhāvanayā) [meaning](bhāvaḥ)
 
 ## mukta-m0-p07-v159
-[not](na) [earthen](mṛṇmaye) [eat](bhuṃjīthāḥ)
+[not](na) [clay](mṛṇmaye) [eat](bhuṃjīthāḥ) [vessel](pātre)
 
 ## mukta-m0-p07-v160
-[those](tān) [eat](bhuṃjīthāḥ) [object-abandonment](viṣayatyāgaṃ) [do](kuryāt) [meaning](ityarthaḥ)
+[those](tān) [eat](bhuṃjīthāḥ) [renunciation](tyāgaṃ) [do](kuryāt)
 
 ## mukta-m0-p07-v161
-[not](na) [rejoin](pratisaṃdadhyāt) [some](ityeke)
+[not](na) [rejoin](pratisaṃdadhyāt) [some](eke) [say](āhuḥ)
 
 ## mukta-m0-p07-v162
-[say](āhuḥ)
+[say](āhuḥ) [they](te) [thus](iti) [indeed](eva)
 
 ## mukta-m0-p07-v163
-[place-seat](sthānāsanaṃ)
+[place](sthāna) [seat](āsana) [posture](āsana) [steady](ekatāna)
 
 ## mukta-m0-p07-v164
-[one-pointedness](ekatānatā) [to-be-done](vidheyā) [meaning](ityarthaḥ) [āsa](āsa) [sitting](upaveśane)
+[one-pointedness](ekatānatā) [prescribed](vidheyā) [meaning](arthaḥ) [sits](āsa)
 
 ## mukta-m0-p07-v165
-[previous-intervals](pūrvāntareṣu) [fast](upavāsaḥ) [speech-restraint](vāgyasanaṃ) [and](ca)
+[previous](pūrva) [interval](antara) [fast](upavāsa) [speech-restraint](vāgyasana)
 
 ## mukta-m0-p07-v166
-[are](syuḥ) [connected-plurality](saṃbadhibahutvāt) [plural](bahuvacanaṃ)
+[are](syuḥ) [connected](saṃbadhi) [plurality](bahutva) [plural](bahuvacana)
 
 ## mukta-m0-p07-v167
-[some](kiṃcit) [fire](agni) [restrained](yataṃ) [seeing](dṛṣṭvā) [prāṇāyāmas](prāṇāyāmaiḥ) [purified](śuddhyate)
+[some](kiṃcid) [fire](agni) [restrained](yataṃ) [seeing](dṛṣṭvā) [breath](prāṇāyāmaiḥ)
 
 ## mukta-m0-p07-v168
-[consciousness-reflection-abundance](cidvimarśabāhulyena) [indeed](eva) [purification](śodhanaṃ) [so-much](iti) [yāvat](yāvat)
+[consciousness](cid) [reflection](vimarśa) [abundance](bāhulya) [purification](śodhana)
 
 ## mukta-m0-p07-v169
-[seeing](saṃdarśane) [three](trayaḥ) [to-be-done](kāryāḥ)
+[seeing](saṃdarśane) [three](trayaḥ) [acts](kāryāḥ) [thus](iti)
 
 ## mukta-m0-p07-v170
-[purity-attainment](śudhyāpatteḥ)
+[purity](śuddhi) [attainment](āpatti) [therefore](tasmāt) [do](kuryāt)
 
 ## mukta-m0-p07-v171
-[uttering](saṃvyāhṛtya) [then](atho) [seven](sapta)
+[uttering](saṃvyāhṛtya) [then](atha) [seven](sapta) [times](vāram)
 
 ## mukta-m0-p07-v172
-[again](punaḥ) [to-be-withdrawn](pratyāhartavyam)
+[again](punaḥ) [withdraw](pratyāhartavyam) [mind](manas) [thus](iti)
 
 ## mukta-m0-p07-v173
-[summary](samāsāya) [but](tu) [twelve](dvādaśa)
+[summary](samāsāya) [indeed](tu) [twelve](dvādaśa) [are](syuḥ)
 
 ## mukta-m0-p07-v174
-[absorbed](samāhitena) [to-be](bhāvyaṃ) [how](katham) [by-this](etena) [pure](śuddha) [thus](iti) [doubting](āśaṃkya) [says](āha)
+[absorbed](samāhitena) [meditate](bhāvyaṃ) [how](katham) [pure](śuddha)
 
 ## mukta-m0-p07-v175
-[everywhere](sarvatra) [light-vision](jyotirdarśanam) [water-touch](udakopasparśanam)
+[everywhere](sarvatra) [light](jyotis) [seeing](darśanam) [water](udaka) [touch](sparśanam)

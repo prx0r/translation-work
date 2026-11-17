@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p100-v2476
-[neck](grīvāṃ) [should-bind](badhnīyāt) [thus](iti) [in-expectation](apekṣāyām) [says](āha) [in-power](śaktau) [red](raktam) [etc](ityādi)
+[neck](grīvāṃ) [bind](badhnīyāt) [thus-expectation-in](ityapekṣāyām) [says](āha) [power](śaktau) [red](raktam) [etc](ityādi)
 
 ## mukta-m0-p100-v2477
-[new](nava) [vessels](pātrāṇi) [should-place](vinyaset) [should-establish](sthāpayet)
+[nine](nava) [vessels](pātrāṇi) [place](vinyaset) [establish](sthāpayet)
 
 ## mukta-m0-p100-v2478
-[silver-etc](rājatamityādi) [great](mahā) [conch](śaṅkhaṃ) [hell](naraka) [skull](pālam)
+[silver](rājatam) [etc](ityādi) [great-conch](mahāśaṅkhaṃ) [skull-bowl](narakapālam)
 
 ## mukta-m0-p100-v2479
-[by-power](śaktyā) [should-arrange](prakalpayet) [vessel](pātraṃ) [of-great-goddess](mahādevyāḥ) [in-worship](prapūjane)
+[power](śaktyā) [prepare](prakalpayet) [vessel](pātraṃ) [great-goddess](mahādevyāḥ) [worship](prapūjane)
 
 ## mukta-m0-p100-v2480
-[then](tataḥ) [nectar](amṛta) [full](sampūrṇa) [pot](ghaṭam) [should-worship](abhyarcayet) [wise-one](sudhīḥ)
+[then](tataḥ) [nectar-full](amṛtasampūrṇa) [pot](ghaṭam) [worship](abhyarcayet) [wise](sudhīḥ)
 
 ## mukta-m0-p100-v2481
-[seat](pīṭha) [gods](devān) [having-worshipped](pūjayitvā) [six](ṣaḍ) [limb](aṅga) [nyasa](nyāsam) [should-perform](ācaret)
+[seat-gods](pīṭhadevān) [worship](pūjayitvā) [six-limbs](ṣaḍaṅga) [nyāsa](nyāsam) [perform](ācaret)
 
 ## mukta-m0-p100-v2482
-[by-own-power](svaśaktyā) [should-worship](pūjayet) [desired](iṣṭāṃ) [wealth-stinginess](vittaśāṭhyam) [should-avoid](vivarjayet)
+[own-power](svaśaktyā) [worship](pūjayet) [desired](iṣṭāṃ) [wealth-stinginess](vittaśāṭhyaṃ) [avoid](vivarjayet)
 
 ## mukta-m0-p100-v2483
-[flowers](puṣpa) [sandal](candana) [clothes](vāsobhiḥ) [should-worship](arcayet) [true](sad) [guru](guruḥ) [in-Shiva](śive)
+[flowers-sandal-garments](puṣpacandanavāsobhiḥ) [worship](arcayet) [true-guru](sadguruḥ) [śiva](śive)
 
 ## mukta-m0-p100-v2484
-[full](pūrṇa) [abhisheka](abhiṣeka) [rite](saṃskāre) [by-you](bhavadbhiḥ) [let-be-consented](anumanyatām)
+[full-abhiṣeka-rite](pūrṇābhiṣekasaṃskāre) [by-you](bhavadbhiḥ) [consent](anumanyatām)
 
 ## mukta-m0-p100-v2485
-[disciple](śiṣyaḥ) [let-be](bhavatu) [full](pūrṇaḥ) [you](te) [supreme-reality-devoted](paratattvaparāyaṇaḥ)
+[disciple](śiṣyo) [be](bhavatu) [full](pūrṇaḥ) [supreme-reality-devoted](paratattvaparāyaṇaḥ)
 
 ## mukta-m0-p100-v2486
-[should-satisfy](pratarpayet) [by-previously-said](pūrvoktena) [by-respective-mantra](tattanmantreṇa)
+[satisfy](pratarpayet) [previously-said](pūrvoktena) [that-mantra](tattanmantreṇa)
 
 ## mukta-m0-p100-v2487
-[by-previously-said-mantra](pūrvoktamantreṇa) [all-beings-offering](sarvabhūtabaliṃ) [should-take](haret) [should-give](dadyāt)
+[previously-said-mantra](pūrvoktamantreṇa) [all-beings-offering](sarvabhūtabaliṃ) [take-give](haret dadyāt)
 
 ## mukta-m0-p100-v2488
-[having-accomplished](sādhayitvā)
+[accomplish](sādhayitvā)
 
 ## mukta-m0-p100-v2489
-[supreme](para) [reality](tattva) [devoted](parāyaṇaḥ) [supreme](paraṃ) [brahman](brahma) [devoted](tatparaḥ)
+[supreme-reality-devoted](paratattvaparāyaṇaḥ) [supreme-brahman-devoted](paraṃbrahmatatparaḥ)
 
 ## mukta-m0-p100-v2490
-[desire](kāmaṃ) [illusion](māyāṃ) [Lakshmi](ramāṃ) [having-chanted](japtvā) [should-shake](cālayet) [pure](vimalaṃ) [pot](ghaṭam)
+[desire](kāmaṃ) [māyā](māyāṃ) [ramā](ramāṃ) [having-chanted](japtvā) [shake](cālayet) [pure](vimalaṃ) [pot](ghaṭam)
 
 ## mukta-m0-p100-v2491
-[your](tvat) [water](toya) [leaves](pallavaiḥ) [sprinkled](siktaḥ) [disciple](śiṣyaḥ) [brahman-delighted](brahmarataḥ) [let-be](astu) [me](me)
+[water-leaves](tvattoyapallavaiḥ) [sprinkled](siktaḥ) [disciple](śiṣyo) [brahma-devoted](brahmarataḥ) [be](astu) [me](me)
 
 ## mukta-m0-p100-v2492
-[by-these-mantras](mantrair) [these](etaiḥ) [to-be-spoken](vakṣyamāṇaiḥ) [should-anoint](abhiṣiñcet) [compassionate](kṛpānvitaḥ)
+[mantras-these](mantrairetaiḥ) [to-be-spoken](vakṣyamāṇaiḥ) [anoint](abhiṣiñcet) [compassionate](kṛpānvitaḥ)
 
 ## mukta-m0-p100-v2493
-[auspicious](śubha) [full](pūrṇa) [abhisheka](abhiṣeka) [purpose](arthe) [application](viniyogaḥ) [declared](prakīrtitaḥ)
+[auspicious-full-abhiṣeka-purpose](śubhapūrṇābhiṣekārthe) [application](viniyogaḥ) [declared](prakīrtitaḥ)
 
 ## mukta-m0-p100-v2494
-[by-mantra-to-be-spoken](vakṣyamāṇamantreṇa) [pure](vimalaṃ) [pot](ghaṭaṃ) [should-shake](cālayet)
+[to-be-spoken-mantra](vakṣyamāṇamantreṇa) [pure](vimalaṃ) [pot](ghaṭaṃ) [shake](cālayet)
 
 ## mukta-m0-p100-v2495
-[pot](ghaṭa) [shaking](cālana) [mantra](mantram) [indeed](eva) [says](āha) [arise-etc](uttiṣṭhetyādyam)
+[pot-shaking-mantra](ghaṭacālanamantram) [indeed-says](evāha) [arise-etc](uttiṣṭhetyādyam)
 
 ## mukta-m0-p100-v2496
-[sage](ṛṣi) [nyasa](nyāsaḥ) [should-be-done](vidhātavyaḥ)
+[ṛṣi-nyāsa](ṛṣinyāso) [should-be-done](vidhātavyaḥ)
 
 ## mukta-m0-p100-v2497
-[Durga](durgā) [Lakshmi](lakṣmī) [Bhavani](bhavānyaḥ) [you](tvām) [let-anoint](abhiṣiñcantu) [mothers](mātaraḥ)
+[durgā-lakṣmī-bhavānī](durgālakṣmībhavānyas) [you](tvām) [anoint](abhiṣiñcantu) [mothers](mātaraḥ)
 
 ## mukta-m0-p100-v2498
-[these](etāḥ) [you](tvām) [let-anoint](abhiṣiñcantu) [mantra-purified](mantrapūtena) [water](vāriṇā)
+[these](etāḥ) [you](tvām) [anoint](abhiṣiñcantu) [mantra-purified](mantrapūtena) [water](vāriṇā)
 
 ## mukta-m0-p100-v2499
-[these](etāḥ) [you](tvām) [let-anoint](abhiṣiñcantu) [Vagalā](vagalā) [boon-giver](varadā) [Shiva](śivā)
+[these](etāḥ) [you](tvām) [anoint](abhiṣiñcantu) [vagalā](vagalā) [boon-giving](varadā) [śivā](śivā)
 
 ## mukta-m0-p100-v2500
-[Indrani](indrāṇī) [Varuni](vāruṇī) [Raudri](raudrī) [you](tvā) [let-anoint](abhiṣiñcantu) [powers](śaktayaḥ)
+[indrāṇī](indrāṇī) [vāruṇī](vāruṇī) [raudrī](raudrī) [you](tvā) [anoint](abhiṣiñcantu) [powers](śaktayaḥ)
