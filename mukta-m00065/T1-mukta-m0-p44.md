@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p44-v1076
-[pada1](pada1) [pada2](pada2) [pada3](pada3) [pada4](pada4)
+[demon-pair](rakṣaḥ+dvitaya) [crocodile](kumbhīra) [serpent-wheel-mouthed](sarpa+cakra+āsyakaṃ) [and](ca) [constellation](bham)
 
 ## mukta-m0-p44-v1077
-[pada1](pada1) [pada2](pada2) [pada3](pada3) [pada4](pada4)
+[two-aśvins](aśvinau) [and](ca) [yama](yamaḥ) [fire](vahniḥ) [prajāpati-indra-moon-hara](prajā+indra+indu+haro) [aditi](aditiḥ)
 
 ## mukta-m0-p44-v1078
-[pada1](pada1) [pada2](pada2) [pada3](pada3) [pada4](pada4)
+[tvaṣṭṛ](tvaṣṭā) [wind](vāyuḥ) [lord-of-gods](surendraḥ) [fire](agniḥ) [mitra-indra](mitra+indrau) [lord-of-waters](yāvatpāmpatiḥ)
 
 ## mukta-m0-p44-v1079
-[pada1](pada1) [pada2](pada2) [pada3](pada3) [pada4](pada4)
+[viṣṇu](viṣṇuḥ) [vasus](vasuḥ) [aja-one-footed](aja+eka+ādi+pāda) [ahirbudhnya](ahirbudhna) [pūṣan](pūṣakāḥ)
 
 ## mukta-m0-p44-v1080
-[pada1](pada1) [pada2](pada2) [pada3](pada3) [pada4](pada4)
+[male](pumān) [mace-bearer](gadī) [with-lute](sa+vīṇā) [and](ca) [woman](yoṣit) [and](ca) [pair](mithunaṃ) [bow](dhanuḥ)
 
 ## mukta-m0-p44-v1081
-[pada1](pada1) [pada2](pada2) [pada3](pada3) [pada4](pada4)
+[woman](strī) [boat](nauḥ) [firebrand-sword-bearer](stholkā+asi+bhṛt) [maiden](kanyā) [balance-holder](tulā+dhāraḥ) [man](naraḥ) [balance](tulā)
 
 ## mukta-m0-p44-v1082
-[pada1](pada1) [pada2](pada2) [pada3](pada3) [pada4](pada4)
+[aries-etc.](meṣa+ādyāḥ) [five](pañca) [and](ca) [also](eva) [others](anye) [own-name-equal-formed](sva+nāma+tulya+rūpakāḥ)
 
 ## mukta-m0-p44-v1083
-[pada1](pada1) [pada2](pada2) [pada3](pada3) [pada4](pada4)
+[golden-hued](hema+ābhaḥ) [with-crown](sa+kirīṭaḥ) [and](ca) [king-of-gods](deva+rājaḥ) [surrounded-by-gods](sura+āvṛtaḥ)
 
 ## mukta-m0-p44-v1084
-[pada1](pada1) [pada2](pada2) [pada3](pada3) [pada4](pada4)
+[goat-seated](chāgasthaḥ) [with-rosary-and-axe](sa+akṣa+sūtra+ugraḥ) [seven-flamed](sapta+arciḥ) [spear-bearer](śakti+dhārakaḥ)
 
 ## mukta-m0-p44-v1085
-[pada1](pada1) [pada2](pada2) [pada3](pada3) [pada4](pada4)
+[red](raktaḥ) [noose-bearer](hṛt+pāśa+bhṛt) [black](kṛṣṇaḥ) [buffalo-seated](mahiṣa+sthaḥ) [fierce-messenger](ugra+dūtavān)
 
 ## mukta-m0-p44-v1086
-[pada1](pada1) [pada2](pada2) [pada3](pada3) [pada4](pada4)
+[standing-man](puṃ+sthita) [sword-in-hand](khaḍga+hastaḥ) [and](ca) [blue-hued](nīla+ābhaḥ) [surrounded-by-demons](rākṣasa+āvṛtaḥ)
 
 ## mukta-m0-p44-v1087
-[pada1](pada1) [pada2](pada2) [pada3](pada3) [pada4](pada4)
+[with-all-ornaments-adorned](sarva+ābharaṇa+saṃyuktaḥ) [varuṇa](varūṇaḥ) [yellow-garment-bearer](pīta+vastra+bhṛt)
 
 ## mukta-m0-p44-v1088
-[pada1](pada1) [pada2](pada2) [pada3](pada3) [pada4](pada4)
+[red-eyed](rakta+akṣaḥ) [red-garmented](rakta+vāsaḥ) [and](ca) [deer-seated](mṛga+sthaḥ) [goad-bearer](caṅkuśī) [banner-bearer](dhvajī)
 
 ## mukta-m0-p44-v1089
-[pada1](pada1) [pada2](pada2) [pada3](pada3) [pada4](pada4)
+[kubera](dhaneśaḥ) [boon-giver](vara+daḥ) [to-be-made](kāryaḥ) [adorned-with-various-ornaments](nānā+ābharaṇa+maṇḍitaḥ)
 
 ## mukta-m0-p44-v1090
-[pada1](pada1) [pada2](pada2) [pada3](pada3) [pada4](pada4)
+[īśāna](īśānaḥ) [bearing-snake-and-moon](ahi+indu+bhṛt) [and](ca) [these](ete) [world-guardians](loka+pālāḥ) [two-armed](dvi+bāhavaḥ)
 
 ## mukta-m0-p44-v1091
-[pada1](pada1) [pada2](pada2) [pada3](pada3) [pada4](pada4)
+[viśvakarman](viśvakarmā) [always](sadā) [white](gauraḥ) [bearing-knowledge-gesture-and-rosary](jñāna+mudrā+akṣa+sūtra+bhṛt)
 
 ## mukta-m0-p44-v1092
-[pada1](pada1) [pada2](pada2) [pada3](pada3) [pada4](pada4)
+[engaged-in-ālīḍha-posture](ālīḍha+karaṇa+āsaktaṃ) [great-bodied](mahā+kāyaṃ) [very-terrifying](su+bhīṣaṇam)
 
 ## mukta-m0-p44-v1093
-[pada1](pada1) [pada2](pada2) [pada3](pada3) [pada4](pada4)
+[yellow-banner-bearer](pīta+dhvaja+dharaṃ) [in-left](vāme) [forefinger](tarjanīṃ) [or](vā) [before-heart](hṛt+agrataḥ)
 
 ## mukta-m0-p44-v1094
-[pada1](pada1) [pada2](pada2) [pada3](pada3) [pada4](pada4)
+[pressing](saṃpīḍya) [demons](rākasān) [with-feet](padbhyāṃ) [releasing-sound](muñcan+nādaṃ) [son-of-wind](marut+sutam)
 
 ## mukta-m0-p44-v1095
-[pada1](pada1) [pada2](pada2) [pada3](pada3) [pada4](pada4)
+[accompanied-by-skanda-and-yakṣas](skanda+yakṣa+anvitā) [always](nityaṃ) [to-be-made](kartavyā) [accompanied-by-women](yoṣit+anvitāḥ)
 
 ## mukta-m0-p44-v1096
-[pada1](pada1) [pada2](pada2) [pada3](pada3) [pada4](pada4)
+[garland-bearers](mālā+bhṛtaḥ) [or](atha+vā) [joyful](hṛṣṭāḥ) [sky-dwelling](kha+sthāḥ) [vidyādharas](vidyādharāḥ) [always](sadā)
 
 ## mukta-m0-p44-v1097
-[pada1](pada1) [pada2](pada2) [pada3](pada3) [pada4](pada4)
+[tawny-curly-haired](piṅga+varvara+keśāḥ) [and](ca) [vetālas](vetālāḥ) [distorted-faced](vikṛta+ānanāḥ)
 
 ## mukta-m0-p44-v1098
-[pada1](pada1) [pada2](pada2) [pada3](pada3) [pada4](pada4)
+[skull-garlanded](kapāla+mālinaḥ) [trident-bearers](śūla+dhārīṇaḥ) [field-guardians](kṣetra+pālakāḥ)
 
 ## mukta-m0-p44-v1099
-[pada1](pada1) [pada2](pada2) [pada3](pada3) [pada4](pada4)
+[emaciated](kṛśāḥ) [big-bellied](mahā+udarāḥ) [pretas](pretāḥ) [bald-cheeked](khalva+gallāḥ) [and](ca) [hairy](lomaśāḥ)
 
 ## mukta-m0-p44-v1100
-[pada1](pada1) [pada2](pada2) [pada3](pada3) [pada4](pada4)
+[own-body-color-bearing](sva+aṅga+varṇa+dharāḥ) [all](sarvāḥ) [as-stated](yathā+uktaṃ) [in-brahmayāmala](brahma+yāmale)
