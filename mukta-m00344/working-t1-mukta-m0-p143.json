@@ -20,7 +20,7 @@
 },
 {
 "surface": "āha",
-"quick_gloss": "speaks"
+"quick_gloss": "he-speaks"
 },
 {
 "surface": "ākāśa",
@@ -44,7 +44,7 @@
 },
 {
 "surface": "pṛṣṭa",
-"quick_gloss": "questioned"
+"quick_gloss": "question"
 },
 {
 "surface": "rūpā",
@@ -68,12 +68,8 @@
 "quick_gloss": "form"
 },
 {
-"surface": "sva",
-"quick_gloss": "own"
-},
-{
-"surface": "ātma",
-"quick_gloss": "self"
+"surface": "sva+ātma",
+"quick_gloss": "in-own-self"
 },
 {
 "surface": "saṃsthā",
@@ -84,7 +80,7 @@
 "quick_gloss": "listen"
 },
 {
-"surface": "tvam",
+"surface": "tvaṃ",
 "quick_gloss": "you"
 },
 {
@@ -105,12 +101,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "sarva",
-"quick_gloss": "all"
-},
-{
-"surface": "antaratvāt",
-"quick_gloss": "innerness"
+"surface": "sarva+antaratvāt",
+"quick_gloss": "because-of-being-inner-to-all"
 },
 {
 "surface": "ca",
@@ -118,31 +110,23 @@
 },
 {
 "surface": "agocaratvāt",
-"quick_gloss": "imperceptibility"
-},
-{
-"surface": "ca",
-"quick_gloss": "and"
+"quick_gloss": "because-of-being-imperceptible"
 },
 {
 "surface": "sūkṣmatvam",
 "quick_gloss": "subtlety"
 },
 {
-"surface": "sva",
-"quick_gloss": "own"
-},
-{
-"surface": "ātma",
-"quick_gloss": "self"
+"surface": "sva+ātma",
+"quick_gloss": "in-own-self"
 },
 {
 "surface": "saṃsthā",
 "quick_gloss": "abiding"
 },
 {
-"surface": "svarūpa",
-"quick_gloss": "own-nature"
+"surface": "sva+rūpe",
+"quick_gloss": "in-own-nature"
 },
 {
 "surface": "eva",
@@ -175,7 +159,7 @@
 },
 {
 "surface": "ātmā",
-"quick_gloss": "nature"
+"quick_gloss": "self"
 },
 {
 "surface": "ca",
@@ -216,7 +200,7 @@
 },
 {
 "surface": "api",
-"quick_gloss": "though"
+"quick_gloss": "also"
 },
 {
 "surface": "ekā",
@@ -264,7 +248,7 @@
 "quick_gloss": "listen"
 },
 {
-"surface": "tvam",
+"surface": "tvaṃ",
 "quick_gloss": "you"
 },
 {
@@ -294,7 +278,7 @@
 },
 {
 "surface": "eva",
-"quick_gloss": "indeed"
+"quick_gloss": "only"
 },
 {
 "surface": "na",
@@ -302,7 +286,7 @@
 },
 {
 "surface": "tataḥ",
-"quick_gloss": "from-that"
+"quick_gloss": "than-that"
 },
 {
 "surface": "adhikam",
@@ -391,7 +375,7 @@
 "quick_gloss": "listen"
 },
 {
-"surface": "tvam",
+"surface": "tvaṃ",
 "quick_gloss": "you"
 },
 {
@@ -412,20 +396,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "sva",
-"quick_gloss": "own"
+"surface": "sva+ātma",
+"quick_gloss": "own-self"
 },
 {
-"surface": "ātma",
-"quick_gloss": "self"
-},
-{
-"surface": "cinmātra",
+"surface": "cit",
 "quick_gloss": "consciousness"
 },
 {
+"surface": "mātra",
+"quick_gloss": "mere"
+},
+{
 "surface": "ākāratā",
-"quick_gloss": "form"
+"quick_gloss": "nature"
 },
 {
 "surface": "sampattiḥ",
@@ -526,7 +510,7 @@
 "quick_gloss": "listen"
 },
 {
-"surface": "tvam",
+"surface": "tvaṃ",
 "quick_gloss": "you"
 },
 {
@@ -639,14 +623,14 @@
 },
 {
 "surface": "abhimānāt",
-"quick_gloss": "identification"
+"quick_gloss": "conceit"
 },
 {
 "surface": "śṛṇu",
 "quick_gloss": "listen"
 },
 {
-"surface": "tvam",
+"surface": "tvaṃ",
 "quick_gloss": "you"
 },
 {
@@ -679,12 +663,8 @@
 "quick_gloss": "indeed"
 },
 {
-"surface": "antara",
-"quick_gloss": "other"
-},
-{
-"surface": "karaṇa",
-"quick_gloss": "instrument"
+"surface": "karaṇa+antara",
+"quick_gloss": "other-instrument"
 },
 {
 "surface": "nairapekṣyeṇa",
@@ -696,7 +676,7 @@
 },
 {
 "surface": "yāvat",
-"quick_gloss": "as-far-as"
+"quick_gloss": "so-far"
 }
 ]
 },
@@ -721,7 +701,7 @@
 },
 {
 "surface": "abhimānaḥ",
-"quick_gloss": "identification"
+"quick_gloss": "conceit"
 },
 {
 "surface": "vada",
@@ -758,7 +738,7 @@
 },
 {
 "surface": "abhimānaḥ",
-"quick_gloss": "identification"
+"quick_gloss": "conceit"
 },
 {
 "surface": "syāt",
@@ -769,7 +749,7 @@
 "quick_gloss": "listen"
 },
 {
-"surface": "tvam",
+"surface": "tvaṃ",
 "quick_gloss": "you"
 },
 {
@@ -791,7 +771,7 @@
 "tokens": [
 {
 "surface": "saṃskāraḥ",
-"quick_gloss": "mental-impression"
+"quick_gloss": "latent-impression"
 }
 ]
 },
@@ -815,7 +795,7 @@
 "quick_gloss": "what"
 },
 {
-"surface": "kāraṇaṃ",
+"surface": "kāraṇam",
 "quick_gloss": "cause"
 },
 {
@@ -857,7 +837,7 @@
 },
 {
 "surface": "nāśakasya",
-"quick_gloss": "destroyer"
+"quick_gloss": "destroying"
 },
 {
 "surface": "tasyāḥ",
@@ -868,12 +848,8 @@
 "quick_gloss": "also"
 },
 {
-"surface": "tat",
-"quick_gloss": "of-that"
-},
-{
-"surface": "kāraṇasya",
-"quick_gloss": "cause"
+"surface": "tat+kāraṇasya",
+"quick_gloss": "of-that-cause"
 },
 {
 "surface": "api",
@@ -893,7 +869,7 @@
 "quick_gloss": "that"
 },
 {
-"surface": "kāraṇaṃ",
+"surface": "kāraṇam",
 "quick_gloss": "cause"
 },
 {
@@ -909,7 +885,7 @@
 "quick_gloss": "listen"
 },
 {
-"surface": "tvam",
+"surface": "tvaṃ",
 "quick_gloss": "you"
 },
 {
