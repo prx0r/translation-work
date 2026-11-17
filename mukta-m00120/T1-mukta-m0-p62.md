@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p62-v1526
-[manifest](vyaktāyāḥ) [and](ca) [indeed](eva) [hidden](guptāyā) [characteristic](lakṣaṇaṃ) [what](kiṃ) [reveal](prakāśaya)
+[vyaktāyāḥ](vyaktāyāś) [ca](ca) [eva](eva) [guptāyāḥ](guptāyā) [lakṣaṇam](lakṣaṇaṃ) [kim](kiṃ) [prakāśaya](prakāśaya)
 
 ## mukta-m0-p62-v1527
-[hidden+worship](guptārccane) [even](api) [liberation](muktiḥ) [may-be](syād) [devotion+feeling](bhakti+bhāva) [endowed](yuto) [if](yadi)
+[gupta-arcane](guptārccane) [api](api) [muktiḥ](muktiḥ) [syāt](syād) [bhakti-bhāva](bhakti bhāva) [yutaḥ](yuto) [yadi](yadi)
 
 ## mukta-m0-p62-v1528
-[from-seeing](darśanāt) [hundred-thousand](lakṣa) [seats](pīṭhānāṃ) [fruit](phalaṃ) [which](yad) [O-best+complexioned-one](varavarṇini)
+[darśanāt](darśanāt) [lakṣa-pīṭhānām](lakṣa pīṭhānāṃ) [phalam](phalaṃ) [yad](yad) [varavarṇini](varavarṇini)
 
 ## mukta-m0-p62-v1529
-[from-touching](sparśanāt) [all](sarva) [seats](pīṭhānāṃ) [fruit](phalam) [obtains](āpnoti) [practitioner](sādhakaḥ)
+[sparśanāt](sparśanāt) [sarva-pīṭhānām](sarva pīṭhānāṃ) [phalam](phalaṃ) [āpnoti](āpnoti) [sādhakaḥ](sādhakaḥ)
 
 ## mukta-m0-p62-v1530
-[stand](tiṣṭhanti) [those](tāni) [sacred-waters](tīrthāni) [womb+seats](yoni+pīṭheṣu) [O-beautiful-one](sundari)
+[tiṣṭhanti](tiṣṭhanti) [tāni](tāni) [tīrthāni](tīrthāni) [yoni-pīṭheṣu](yoni pīṭheṣu) [sundari](sundari)
 
 ## mukta-m0-p62-v1531
-[Sarasvatī](sarasvatī) [middle+part](madhyabhāge) [on-left-sides](vāmeṣu) [Jāhnavī](jāhnavī) [supreme](parā)
+[sarasvatī](sarasvatī) [madhya-bhāge](madhyabhāge) [vāmeṣu](vāmeṣu) [jāhnavī](jāhnavī) [parā](parā)
 
 ## mukta-m0-p62-v1532
-[in-field](kṣetre) [sacred-waters](tīrthāni) [stand](tiṣṭhanti) [all](sarvāṇi) [O-supreme-goddess](parameśvari)
+[kṣetre](kṣetre) [tīrthāni](tīrthāni) [tiṣṭhanti](tiṣṭhanti) [sarvāṇi](sarvāṇi) [parameśvari](parameśvari)
 
 ## mukta-m0-p62-v1533
-[now](adhunā) [to-hear](śrotum) [I-desire](icchāmi) [characteristic](lakṣaṇaṃ) [family+women](kula+yoṣitām)
+[adhunā](adhunā) [śrotum](śrotum) [icchāmi](icchāmi) [lakṣaṇam](lakṣaṇaṃ) [kula-yoṣitām](kula yoṣitām)
 
 ## mukta-m0-p62-v1534
-[by-that+characteristic](tallakṣaṇānvito) [to-be-known](jñeyaḥ) [practitioner](sādhakaḥ) [family+women](kula+yoṣitaḥ)
+[tad-lakṣaṇa-anvitaḥ](tallakṣaṇānvito) [jñeyaḥ](jñeyaḥ) [sādhakaḥ](sādhakaḥ) [kula-yoṣitaḥ](kula yoṣitaḥ)
 
 ## mukta-m0-p62-v1535
-[of-the-knowers](jñānināṃ) [knowledge+form](jñānarūpam) [this](idaṃ) [of-family](kulasya) [characteristic](lakṣaṇaṃ) [O-Śivā](śive)
+[jñāninām](jñānināṃ) [jñāna-rūpam](jñānarūpedaṃ) [idam](idaṃ) [kulasya](kulasya) [lakṣaṇam](lakṣaṇaṃ) [śive](śive)
 
 ## mukta-m0-p62-v1536
-[thus](iti) [by-Śrī+Sarvānandanātha](śrīsarvānandanātha) [composed](viracite) [in-Sarvollāsa](sarvollāse) [fiftieth+chapter](pañcāśadullāsaḥ)
+[iti](iti) [śrī-sarvānanda-nātha](śrīsarvānandanātha) [viracite](viracite) [sarvollāse](sarvollāse) [pañcāśad-ullāsaḥ](pañcāśadullāsaḥ)
 
 ## mukta-m0-p62-v1537
-[to-you](tava) [pleasure+making](prītikarī) [O-goddess](devi) [let-it-be-spoken](cocyatāṃ) [from-worldly+bondage](bhava+bandhanāt)
+[tava](tava) [prīti-karī](prītikarī) [devi](devi) [ucyatām](ucyatāṃ) [bhava-bandhanāt](bhava bandhanāt)
 
 ## mukta-m0-p62-v1538
-[womb+principle](yoni+tattvaṃ) [without](vinā) [not](na) [indeed](eva) [family+dharma](kula+dharma) [devoted](parāyaṇaḥ)
+[yoni-tattvam](yoni tattvaṃ) [vinā](vinā) [na-eva](naiva) [kula-dharma](kula dharma) [parāyaṇaḥ](parāyaṇaḥ)
 
 ## mukta-m0-p62-v1539
-[forgotten](vismṛtaṃ) [again](punar) [let-it-be-spoken](ucyeta) [oath](śapathaṃ) [to-me](me) [again](punaḥ) [again](punaḥ)
+[vismṛtam](vismṛtaṃ) [punaḥ-ucyeta](punarucyeta) [śapatham](śapathaṃ) [me](me) [punaḥ-punaḥ](punaḥ punaḥ)
 
 ## mukta-m0-p62-v1540
-[not](na) [to-be-spoken](vaktavyaṃ) [again](punar) [indeed](hi) [this](etat) [oath](śapathaṃ) [to-me](me) [again](punaḥ) [again](punaḥ)
+[na](na) [vaktavyam](vaktavyaṃ) [punaḥ](punaḥ) [hi](hi) [etat](etat) [śapatham](śapathaṃ) [me](me) [punaḥ-punaḥ](punaḥ punaḥ)
 
 ## mukta-m0-p62-v1541
-[menstrual-blood+shining](rajojjvalā)
+[rajojjvalā](rajojjvalā)
 
 ## mukta-m0-p62-v1542
-[śukrikā](śukrikā) [semen](śukra) [generating](jananī) [in-her](tasyāṃ) [worship](pūjā) [great+fruit](mahāphalā)
+[śukrikā](śukrikā) [śukra](śukra) [jananī](jananī) [tasyām](tasyāṃ) [pūjā](pūjā) [mahā-phalā](mahāphalā)
 
 ## mukta-m0-p62-v1543
-[having-meditated](dhyātvā) [one-should-do](kuryāt) [always](sadā) [union](saṅgaṃ) [in-semen](śukre) [seed+emission](bīja+prapātanam)
+[dhyātvā](dhyātvā) [kuryāt](kuryāt) [sadā](sadā) [saṅgam](saṅgaṃ) [śukre](śukre) [bīja](bīja) [prapātanam](prapātanam)
 
 ## mukta-m0-p62-v1544
-[only](kevalaṃ) [or](vā) [also](api) [with-flower](puṣpeṇa) [purified](śodhitaṃ) [that](tat) [one-should-offer](nivedayet)
+[kevalam](kevalaṃ) [vā-api](vāpi) [puṣpeṇa](puṣpeṇa) [śodhitam](śodhitaṃ) [tat](tannivedayet) [nivedayet](nivedayet)
 
 ## mukta-m0-p62-v1545
-[then](tadā) [with-semen](śukreṇa) [to-be-given](dātavyaṃ) [and](ca) [substitute](anukalpaṃ) [O-lady-of-the-family](kuleśvari)
+[tadā](tadā) [śukreṇa](śukreṇa) [dātavyam](dātavyaṃ) [ca](ca) [anukalpam](cānukalpaṃ) [kuleśvari](kuleśvari)
 
 ## mukta-m0-p62-v1546
-[of-direct-perception](pratyakṣasya) [also](api) [fitness](yogyatvaṃ) [and](ca) [in-substitutes](anukalpeṣu) [established](saṃsthitam)
+[pratyakṣasya](pratyakṣasyāpi) [api](api) [yogyatvam](yogyatvaṃ) [ca](ca) [anukalpeṣu](anukalpeṣu) [saṃsthitam](saṃsthitam)
 
 ## mukta-m0-p62-v1547
-[own+own+class+endowed](svasvavarṇayutaṃ) [substance](dravyaṃ) [of-that+substance](tad+dravyasya) [substitution](anukalpanam)
+[sva-sva-varṇa-yutam](svasvavarṇayutaṃ) [dravyam](dravyaṃ) [tat](tad) [dravyasya](dravyasyānukalpanam) [anukalpanam](anukalpanam)
 
 ## mukta-m0-p62-v1548
-[having-meditated](dhyātvā) [one-should-worship](yajet) [O-great-goddess](maheśāni) [in-middle](madhye) [semen+emission](śukra+prapātanam)
+[dhyātvā](dhyātvā) [yajet](yajenmaheśāni) [maheśāni](maheśāni) [madhye](madhye) [śukra](śukra) [prapātanam](prapātanam)
 
 ## mukta-m0-p62-v1549
-[thus](tathā) [O-beloved](priye)
+[tathā](tathā) [priye](priye)
 
 ## mukta-m0-p62-v1550
-[mutually](parasparaṃ) [may-be](bhavet) [seed](bījaṃ) [of-wind+and-ether](vāyurākāśayoḥ) [as](yathā)
+[parasparam](parasparaṃ) [bhavet](bhavedbījaṃ) [bījam](bījaṃ) [vāyu](vāyurākāśayoryathā) [ākāśayoḥ](ākāśayoryathā) [yathā](yathā)

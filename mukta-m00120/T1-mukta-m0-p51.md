@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p51-v1251
-[for-sexual-union+purpose](maithunārthe) [even](api) [you](tvaṃ) [o-goddess](devi) [in-woman+body](nārīdehe) [always](sadā) [situated](sthitā)
+[gloss](maithunārthe'pi) [gloss](tvaṃ) [gloss](devi) [gloss](nārīdehe) [gloss](sadā) [gloss](sthitā)
 
 ## mukta-m0-p51-v1252
-[I](ahaṃ) [knowledge](jñānaṃ) [having-resorted-to](samāśritya) [in-bodies](deheṣu) [of-embodied-beings+holder](dihināmadhṛk)
+[gloss](ahaṃ) [gloss](jñānaṃ) [gloss](samāśritya) [gloss](deheṣu) [gloss](dihināmadhṛk)
 
 ## mukta-m0-p51-v1253
-[in-gross](sthūle) [in-subtle](sūkṣme) [action+power](kriyāśakta) [in-luminous](stejasi) [indeed](khalu) [o-pārvatī](pārvati)
+[gloss](sthūle) [gloss](sūkṣme) [gloss](kriyāśakta) [gloss](tejasi) [gloss](khalu) [gloss](pārvati)
 
 ## mukta-m0-p51-v1254
-[sexual-union](maithunaṃ) [by-merit+produced](puṇyajanitaṃ) [action+endowed](kriyākto) [knowledge+possessing](jñānavān) [if](yadi)
+[gloss](maithunaṃ) [gloss](puṇyajanitaṃ) [gloss](kriyākto) [gloss](jñānavān) [gloss](yadi)
 
 ## mukta-m0-p51-v1255
-[of-them](teṣāṃ) [in-middle](madhye) [and](ca) [first+seed](ādyabījaṃ) [sexual-union+marked](maithunāktaṃ) [action](kriyā) [thus](iti) [and](ca)
+[gloss](teṣāṃ) [gloss](madhye) [gloss](cādyabījaṃ) [gloss](maithunāktaṃ) [gloss](kriyeti) [gloss](ca)
 
 ## mukta-m0-p51-v1256
-[in-state+meaning](bhāvārthe) [even](api) [o-great-god](mahādeva) [in-gross+body](sthūladehe) [action](kriyā) [joined](yutā)
+[gloss](bhāvārthe'pi) [gloss](mahādeva) [gloss](sthūladehe) [gloss](kriyā) [gloss](yutā)
 
 ## mukta-m0-p51-v1257
-[of-man](puruṣasya) [happiness](sukhaṃ) [o-god](deva) [in-woman+bodies](nārīdeheṣu) [sexual-union](maithunam)
+[gloss](puruṣasya) [gloss](sukhaṃ) [gloss](deva) [gloss](nārīdeheṣu) [gloss](maithunam)
 
 ## mukta-m0-p51-v1258
-[woman](strī) [man+form](puṃrūpam) [I](ahaṃ) [you](tvañ) [and](ca) [for-enjoyment+purpose](ramaṇārthe) [manifested](prakāśitaṃ)
+[gloss](strī) [gloss](puṃrūpamahaṃ) [gloss](tvañca) [gloss](ramaṇārthe) [gloss](prakāśitaṃ)
 
 ## mukta-m0-p51-v1259
-[thus](iti) [in-śrī+sarvānandanātha+composed](śrīsarvānandanāthaviracite) [in-sarvollāsa](sarvollāse) [fortieth+chapter](catvāriṃśadullāsaḥ)
+[gloss](iti) [gloss](śrīsarvānandanāthaviracite) [gloss](sarvollāse) [gloss](catvāriṃśadullāsaḥ)
 
 ## mukta-m0-p51-v1260
-[to-pleasure](ratestulyaṃ) [great+bliss](mahānandaṃ) [of-them](teṣāṃ) [in-middle](madhye) [not](na) [exists](vidyate)
+[gloss](ratestulyaṃ) [gloss](mahānandaṃ) [gloss](teṣāṃ) [gloss](madhye) [gloss](na) [gloss](vidyate)
 
 ## mukta-m0-p51-v1261
-[that+bliss](tadānandaṃ) [how](kathaṃ) [o-lovely-one](bhadre) [in-other+principles](cānyatattveṣu) [exists](vidyate)
+[gloss](tadānandaṃ) [gloss](kathaṃ) [gloss](bhadre) [gloss](cānyatattveṣu) [gloss](vidyate)
 
 ## mukta-m0-p51-v1262
-[śakti+form](śaktirūpā) [indeed](hi) [I](ahaṃ) [therefore](tena) [stand](tiṣṭhāmi) [and](ca) [in-house](gṛhe) [in-house](gṛhe)
+[gloss](śaktirūpāhyahaṃ) [gloss](tena) [gloss](tiṣṭhāmi) [gloss](ca) [gloss](gṛhe) [gloss](gṛhe)
 
 ## mukta-m0-p51-v1263
-[śivā](śivā) [also](api) [I](aham)
+[gloss](śivāpyaham)
 
 ## mukta-m0-p51-v1264
-[I](ahaṃ) [you](tvaṃ) [woman](strī) [man](pumān) [form](rūpo) [stand](tiṣṭhāmi) [for-state+cause](bhāvahetave)
+[gloss](ahaṃ) [gloss](tvaṃ) [gloss](strī) [gloss](pumān) [gloss](rūpo) [gloss](tiṣṭhāmi) [gloss](bhāvahetave)
 
 ## mukta-m0-p51-v1265
-[in-insects+and-so-forth](kīṭādiṣu) [o-fair-hipped-one](varārohe) [for-sexual-union+purpose](maithunārthe) [always](sadā) [situated](sthitaḥ)
+[gloss](kīṭādiṣu) [gloss](varārohe) [gloss](maithunārthe) [gloss](sadā) [gloss](sthitaḥ)
 
 ## mukta-m0-p51-v1266
-[by-that](tena) [by-that](tena) [manner](prakāreṇa) [moves-about](vicaraty) [also](api) [on-earth](bhūtale)
+[gloss](tena) [gloss](tena) [gloss](prakāreṇa) [gloss](vicaratyapi) [gloss](bhūtale)
 
 ## mukta-m0-p51-v1267
-[steady+bliss](sthirānandaṃ) [among-the-fifth](pañcameṣu) [fifth](pañcamaṃ) [liberation+giving](muktidāyakam)
+[gloss](sthirānandaṃ) [gloss](pañcameṣu) [gloss](pañcamaṃ) [gloss](muktidāyakam)
 
 ## mukta-m0-p51-v1268
-[without+bliss](ānandena vinā) [embodied-being](dehī) [for-a-moment](kṣaṇamātraṃ) [not](na) [remains](tiṣṭhati)
+[gloss](ānandena) [gloss](vinā) [gloss](dehī) [gloss](kṣaṇamātraṃ) [gloss](na) [gloss](tiṣṭhati)
 
 ## mukta-m0-p51-v1269
-[because](yataśca) [sexual-union+bliss](maithunānadaṃ) [nature](prakṛti) [spirit+nature](puruṣātmakam)
+[gloss](yataśca) [gloss](maithunānadaṃ) [gloss](prakṛti) [gloss](puruṣātmakam)
 
 ## mukta-m0-p51-v1270
-[brahman](brahma) [knowledge](jñānaṃ) [when](yadā) [o-goddess](devi) [then](tadā) [brāhmaṇa](brāhmaṇaḥ) [is-called](ucyate)
+[gloss](brahma) [gloss](jñānaṃ) [gloss](yadā) [gloss](devi) [gloss](tadā) [gloss](brāhmaṇa) [gloss](ucyate)
 
 ## mukta-m0-p51-v1271
-[in-wine+drinking](madyapāne) [may-become](bhavet) [knower](jñānī) [in-sexual-union](maithune) [truth+possessing](tattavavān) [may-become](bhavet)
+[gloss](madyapāne) [gloss](bhavejjñānī) [gloss](maithune) [gloss](tattavavān) [gloss](bhavet)
 
 ## mukta-m0-p51-v1272
-[by-state+difference](bhāvabhedena) [tell](kathaya) [of-practitioner+bliss](sādhakānanda) [characteristic](lakṣaṇam)
+[gloss](bhāvabhedena) [gloss](kathaya) [gloss](sādhakānanda) [gloss](lakṣaṇam)
 
 ## mukta-m0-p51-v1273
-[of-action+nature](kriyātmano) [characteristic](lakṣaṇaṃ) [indeed](hi) [in-many-ways](bahudhā) [made-manifest](prakaṭīkṛtam)
+[gloss](kriyātmano) [gloss](lakṣaṇaṃ) [gloss](hi) [gloss](bahudhā) [gloss](prakaṭīkṛtam)
 
 ## mukta-m0-p51-v1274
-[by-which](yena) [path](mārgeṇa) [o-lord-of-gods](deveśi) [fruit+share](phalabhāg) [is-born](jāyate) [man](naraḥ)
+[gloss](yena) [gloss](mārgeṇa) [gloss](deveśi) [gloss](phalabhāg) [gloss](jāyate) [gloss](naraḥ)
 
 ## mukta-m0-p51-v1275
-[without](vinā) [mudrā](mudrāṃ) [one-may-drink](piven) [wine](madyaṃ) [fruitless](niṣphalaṃ) [not](na) [here](atra) [doubt](saṃśayaḥ)
+[gloss](vinā) [gloss](mudrāṃ) [gloss](pivenmadyaṃ) [gloss](niṣphalaṃ) [gloss](nātra) [gloss](saṃśayaḥ)

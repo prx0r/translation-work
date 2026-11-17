@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p54-v1326
-[śiva](śivo') [i-am](aham) [thus](iti) [having-thought](matvā) [and](ca) [delight](ramaṇaṃ) [my](mama) [approved](sammatam)
+[śiva-I-am](śivo'ham) [thus](iti) [thinking](matvā) [and](ca) [sexual-union](ramaṇaṃ) [my](mama) [approved](sammatam)
 
 ## mukta-m0-p54-v1327
-[yoni](yoni) [knowledge](jñānaṃ) [without](vinā) [o-god](deva) [sexual-union](maithunaṃ) [not](na) [auspicious](śubha) [giving](pradam)
+[yoni](yoni) [knowledge](jñānaṃ) [without](vinā) [god](deva) [sexual-intercourse](maithunaṃ) [not](na) [auspicious](śubha) [giving](pradam)
 
 ## mukta-m0-p54-v1328
-[in-middle](madhye) [goddess](devīṃ) [one-should-worship](yajed) [singing](gānaṃ) [drinking](pānaṃ) [dancing](nṛtyaṃ) [muttering](japañ) [one-should-perform](caret)
+[in-middle](madhye) [goddess](devīṃ) [worship](yajed) [song](gānaṃ) [drink](pānaṃ) [dance](nṛtyaṃ) [japa-practice](japañcaret)
 
 ## mukta-m0-p54-v1329
-[of-whom](yasya) [from-awakening](avabodhanād) [in-body](dehe) [embodied-one](dehī) [brahman](brahma) [consisting-of](mayo) [may-become](bhavet)
+[whose-awakening](yasyāvabodhanāt) [in-body](dehe) [embodied-one](dehī) [brahma](brahma) [filled](mayo) [becomes](bhavet)
 
 ## mukta-m0-p54-v1330
-[not](na) [to-be-spoken](vaktavyaṃ) [ever](kadācit) [indeed](tu) [to-heretic](pāṣaṇḍe) [to-atheist](nāstike) [to-man](nare)
+[not](na) [to-be-spoken](vaktavyaṃ) [ever](kadācittu) [to-heretic](pāṣaṇḍe) [to-atheist](nāstike) [to-man](nare)
 
 ## mukta-m0-p54-v1331
-[of-this](asya) [from-recitation](prapaṭhanād) [o-god](deva) [living-liberated](jīvanmukto') [even](api) [one-becomes](jāyate)
+[of-this](asya) [by-recitation](prapaṭhanāt) [god](deva) [liberated-while-living](jīvanmukto) [also](api) [is-born](jāyate)
 
 ## mukta-m0-p54-v1332
-[ten](daśa) [knowledge](vidyā) [form](svarūpa) [essence](ātmā) [yoni](yonir) [me](māṃ) [may-protect](pātu) [always](sarvadā)
+[ten-vidyā-form-self](daśavidyāsvarūpātmā) [yoni](yoni) [me](māṃ) [protect](pātu) [always](sarvadā)
 
 ## mukta-m0-p54-v1333
-[world](jagad) [bliss](ānanda) [born](saṃbhūtā) [yoni](yonir) [me](māṃ) [may-protect](pātu) [always](sarvadā)
+[world-bliss](jagadānanda) [born](saṃbhūtā) [yoni](yoni) [me](māṃ) [protect](pātu) [always](sarvadā)
 
 ## mukta-m0-p54-v1334
-[brahma](brahma) [viṣṇu](viṣṇu) [śiva](śiva) [life-breath](prāṇā) [yoni](yonir) [me](māṃ) [may-protect](pātu) [always](sarvadā)
+[brahma](brahma) [viṣṇu](viṣṇu) [śiva](śiva) [life-breaths](prāṇā) [yoni](yoni) [me](māṃ) [protect](pātu) [always](sarvadā)
 
 ## mukta-m0-p54-v1335
-[enjoyment](bhukti) [liberation](mukti) [giving](pradā) [yoni](yonir) [yoni](yonir) [me](māṃ) [may-protect](pātu) [always](sarvadā)
+[enjoyment](bhukti) [liberation](mukti) [giving](pradā) [yoni](yoni) [yoni](yoni) [me](māṃ) [protect](pātu) [always](sarvadā)
 
 ## mukta-m0-p54-v1336
 [always](sarvadā)
 
 ## mukta-m0-p54-v1337
-[happiness](sukha) [giving](dā) [love](madana) [abode](āgārā) [yoni](yonir) [me](māṃ) [may-protect](pātu) [always](sarvadā)
+[pleasure-giving](sukhadā) [cupid-house](madanāgārā) [yoni](yoni) [me](māṃ) [protect](pātu) [always](sarvadā)
 
 ## mukta-m0-p54-v1338
-[mind](manaḥ) [captivating](harā) [sorrow](duḥkha) [obtaining](labhā) [yoni](yonir) [me](māṃ) [may-protect](pātu) [always](sarvadā)
+[heart-stealing](manoharā) [sorrow](duḥkha) [gaining](labhā) [yoni](yoni) [me](māṃ) [protect](pātu) [always](sarvadā)
 
 ## mukta-m0-p54-v1339
-[all](sarva) [creation](prasava) [doer](kartrī) [you](tvaṃ) [yoni](yonir) [me](māṃ) [may-protect](pātu) [always](sarvadā)
+[all](sarva) [birth-maker](prasavakartrī) [you](tvaṃ) [yoni](yoni) [me](māṃ) [protect](pātu) [always](sarvadā)
 
 ## mukta-m0-p54-v1340
-[all](sarva) [in-house](gehe) [situated](sthitā) [yoni](yonir) [yoni](yonir) [me](māṃ) [may-protect](pātu) [always](sarvadā)
+[all](sarva) [in-house](gehe) [situated](sthitā) [yoni](yoni) [yoni](yoni) [me](māṃ) [protect](pātu) [always](sarvadā)
 
 ## mukta-m0-p54-v1341
-[health](ārogya) [giving](dā) [hero](vīra) [delighting](ratā) [five](pañca) [elements](tatva) [endowed](yutā) [always](sadā)
+[health-giving](ārogyadā) [hero](vīra) [delighting](ratā) [five](pañca) [elements](tatva) [endowed](yutā) [always](sadā)
 
 ## mukta-m0-p54-v1342
-[power](śakti) [form](rūpā) [great-goddess](mahādevī) [of-him](tasya) [in-house](gehe) [always](sadā) [firm](sthirā)
+[śakti-form](śaktirūpā) [great-goddess](mahādevī) [his](tasya) [house](gehe) [always](sadā) [firm](sthirā)
 
 ## mukta-m0-p54-v1343
-[liberation](muktir) [unbroken](akhaṇḍitā)
+[liberation-unbroken](muktirakhaṇḍitā)
 
 ## mukta-m0-p54-v1344
-[truth](satyaṃ) [truth](satyaṃ) [again](punaḥ) [truth](satyaṃ) [my](mama) [word](vākyaṃ) [false](vṛthā) [not](nahi)
+[truth](satyaṃ) [truth](satyaṃ) [again](punaḥ) [truth](satyaṃ) [my-word](mamavākyaṃ) [vain](vṛthā) [not](nahi)
 
 ## mukta-m0-p54-v1345
-[folded-hands](kṛtāñjali) [hollow](puṭo) [having-become](bhūtvā) [one-should-recite](paṭhet) [hymn](stotraṃ) [o-naked-one](digambara)
+[folded-hands](kṛtāñjali) [cup-becoming](puṭobhūtvā) [read](paṭhet) [hymn](stotraṃ) [sky-clad](digambara)
 
 ## mukta-m0-p54-v1346
-[otherwise](cānyathā)
+[or-otherwise](cānyathā)
 
 ## mukta-m0-p54-v1347
-[otherwise](anyathā) [from-worship](pūjanād) [o-god](deva) [delight](ramaṇaṃ) [death](maraṇaṃ) [may-become](bhavet)
+[otherwise](anyathā) [from-worship](pūjanāt) [god](deva) [sexual-union](ramaṇaṃ) [death](maraṇaṃ) [becomes](bhavet)
 
 ## mukta-m0-p54-v1348
-[at-night](niśāyāṃ) [in-presence](sammukhe) [of-śakti](śaktyāḥ) [he](sa) [śiva](śivo) [not](na) [here](atra) [doubt](saṃśayaḥ)
+[at-night](niśāyāṃ) [before](sammukhe) [of-śakti](śaktyāḥ) [he](sa) [śiva](śivo) [no](nātra) [doubt](saṃśayaḥ)
 
 ## mukta-m0-p54-v1349
-[in-left-hand](vāmahaste) [to-be-given](pradātavyaṃ) [secret](guhyā) [etc.](di) [mantra](mantra) [preceded-by](pūrvakam)
+[left-hand](vāmahaste) [to-be-given](pradātavyaṃ) [secret](guhyā) [etc](di) [mantra](mantra) [preceded](pūrvakam)
 
 ## mukta-m0-p54-v1350
-[holy-place](tīrtha) [bathing](snāna) [thousand](sahasra) [ten-million](koṭi) [fruit](phala) [giving](daṃ) [śrīcakra](śrīcakra) [foot-water](pādodakam)
+[pilgrimage](tīrtha) [bath](snāna) [thousand](sahasra) [crore](koṭi) [fruit-giving](phaladaṃ) [śrīcakra](śrīcakra) [foot-water](pādodakam)
