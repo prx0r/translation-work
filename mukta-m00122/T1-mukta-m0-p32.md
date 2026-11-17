@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p32-v776
-[with-flowers](kusumaiḥ) [month+in-mere](māsa+mātreṇa) [nāga+maidens](nāga+kanyāḥ) [having-met](sametya) [him](tam)
+[with-flowers](kusumair) +[in-a-month](māsamātreṇa) [nāga](nāga) +[maidens](kanyāḥ) [having-approached](sametya) +[him](tam)
 
 ## mukta-m0-p32-v777
-[yakṣa](yakṣa) [+rākṣasa](rākṣasa) [+gandharva](gandharva) [+siddha+vidyādhara+women](siddha+vidyādhara+aṅganāḥ)
+[yakṣa](yakṣa) +[rākṣasa](rākṣasa) +[gandharva](gandharva) +[siddha](siddha) +[vidyādhara](vidyādhara) +[women](āṅganāḥ)
 
 ## mukta-m0-p32-v778
-[are-accomplished](siddhyanti) [by-worship](pūjanāt) [there](tatra) [likewise](tathā) [that+declared+time](tat+prokta+kālataḥ)
+[are-accomplished](siddhyanti) [by-worship](pūjanāt) +[there](tatra) [likewise](tathā) [by-that](tat) +[prescribed](prokta) +[time](kālataḥ)
 
 ## mukta-m0-p32-v779
-[with-red+lotuses](rakta+utpalaiḥ) [for-horse+accomplishment](aśva+siddhyai) [with-white-lotuses](kumudaiḥ) [for-donkey+accomplishment](khara+siddhaye)
+[with-red](rakta) +[lotuses](utpalair) +[for-horse](aśva) +[accomplishment](siddhyai) [with-white-lotuses](kumudaiḥ) [for-donkey](khara) +[accomplishment](siddhaye)
 
 ## mukta-m0-p32-v780
-[with-citrons](jambīraiḥ) [for-buffalo+attainment](mahiṣa+avāptyai) [with-lakuca-fruits](lakucaiḥ) [for-goat+accomplishment](aja+siddhaye)
+[with-citrons](jambīrair) +[for-buffalo](mahiṣa) +[attainment](āvāptyai) [with-lakuca-fruits](lakucair) +[for-goat](aja) +[accomplishment](siddhaye)
 
 ## mukta-m0-p32-v781
-[with-bakula-flowers](bakulaiḥ) [for-woman+accomplishment](aṅganā+siddhyai) [with-kalhāra-lotuses](kalhāraiḥ) [for-son+accomplishment](putra+siddhaye)
+[with-bakula-flowers](bakulair) +[for-woman](aṅganā) +[accomplishment](siddhyai) [with-kalhāra-lotuses](kalhāraiḥ) [for-son](putra) +[accomplishment](siddhaye)
 
 ## mukta-m0-p32-v782
-[with-fragrant](saurabhādyaiḥ) [with-flowers](prasūnaiḥ) [indeed](tu) [always](nityaṃ) [for-good-fortune+accomplishment](saubhāgya+siddhaye)
+[with-fragrant](saurabhā) +[and-other](dyaiḥ) [with-flowers](prasūnais) +[indeed](tu) [always](nityaṃ) [for-good-fortune](saubhāgya) +[accomplishment](siddhaye)
 
 ## mukta-m0-p32-v783
-[this](etat) [+circle+worship](cakra+arcanaṃ) [of-Lalitā+Nityā](lalitā+nityāyāḥ) [indeed](eva) [not+of-others](na+anyāsām) [that](taṃ) [practitioner](sādhakam)
+[this](etac) +[circle](cakrā) +[worship](rcanaṃ) [of-lalitā](lalitā) +[nityā](nityāyā) [only](eva) [not](nā) +[of-others](nyāsām) [that](taṃ) [practitioner](sādhakam)
 
 ## mukta-m0-p32-v784
-[yakṣa](yakṣa) [etc.](ityādayaḥ) [deity+specials](devatā+viśeṣāḥ) [thus](|| 83 ||) [there](tatra) [heroes](vīrāḥ) [human+siddha+forms](manuṣya+siddha+rūpāḥ)
+[yakṣa](yakṣa) +[and-so-forth](ityādayo) [deity](devatā) +[classes](viśeṣāḥ) [there](tatra) [heroes](vīrā) [human](manuṣya) +[siddha](siddha) +[forms](rūpāḥ)
 
 ## mukta-m0-p32-v785
-[for-chariot+swing+etc.+accomplishment](syandana+andolikā+ādi+siddhaye) [thus](|| 85 || 86 || 87)
+[for-chariot](syandana) +[swing](āndolikā) +[and-other](ādi) +[accomplishment](siddhaye)
 
 ## mukta-m0-p32-v786
-[as-much-as](yāvat) [+fruit+attainment](phala+āpti) [or](vā) [with-milk+sugar+ghee+rice-pudding](kṣīra+śarkarā+ghṛta+pāyasaiḥ)
+[as-much-as](yāvat) +[fruit](phala) +[attainment](āpti) [or](vā) [with-milk](kṣīra) +[sugar](śarkarā) +[ghee](ghṛta) +[rice-pudding](pāyasaiḥ)
 
 ## mukta-m0-p32-v787
-[one-should-propitiate](tarpayet) [with-flowers](kusumaiḥ) [with-offerings](sa+arghyaiḥ) [for-all+calamity+pacification](sarva+upaplava+śāntaye)
+[one-should-please](tarpayet) [with-flowers](kusumaiḥ) [with](sa) +[offerings](arghyaiḥ) [for-all](sarva) +[calamity](upaplava) +[pacification](śāntaye)
 
 ## mukta-m0-p32-v788
-[with-milk](dugdhaiḥ) [for-health+accomplishment](ārogya+saṃsiddhyai) [with-the-three](tribhiḥ) [for-sovereignty+accomplishment](aiśvarya+siddhaye)
+[with-milk](dugdhair) +[for-health](ārogya) +[accomplishment](saṃsiddhyai) [with-the-three](tribhir) +[for-sovereignty](aiśvarya) +[accomplishment](siddhaye)
 
 ## mukta-m0-p32-v789
-[for-all+purpose+accomplishment](sarva+artha+siddhaye) [with-waters](toyaiḥ) [one-should-bathe](rabhiṣiñcet) [the-great-goddess](mahā+īśvarīm)
+[for-all](sarva) +[purpose](ārtha) +[accomplishment](siddhaye) [with-waters](toyai) [one-should-bathe](rabhiṣiñcen) +[the-great-goddess](maheśvarīm)
 
 ## mukta-m0-p32-v790
-[dwelling](nivasan) [there](tatra) [with-her+flowers](tat+puṣpaiḥ) [becomes](jāyate) [another](aparaḥ) [Manmatha](manmathaḥ)
+[dwelling](nivasaṃs) +[there](tatra) [with-her](tat) +[flowers](puṣpair) [is-born](jāyate) [cupid](manmatho) +[another]('paraḥ)
 
 ## mukta-m0-p32-v791
-[magical-rites](kṛtyāḥ) [dispatched](pareritāḥ) [mantras](mantrāḥ) [turned-away](vimukhāḥ) [them](tān) [devour](grasanti) [indeed](vai)
+[magical-rites](kṛtyāḥ) [dispatched](pareritā) [mantras](mantrā) [turned-away](vimukhās) +[them](tān) [devour](grasanti) [indeed](vai)
 
 ## mukta-m0-p32-v792
-[all+food-offerings](sarva+naivedyāni) [thus+meaning](iti+arthaḥ)
+[all](sarva) +[food-offerings](naivedyānī) +[thus](ty) +[meaning](arthaḥ)
 
 ## mukta-m0-p32-v793
-[with-daily+worship+mantras](nitya+pūjā+mantraiḥ) [in-that+sequence](tat+krameṇa) [one-should-offer](dadyāt) [by-that](tena) [all+calamity+pacification](sarva+upaplava+śāntiḥ) [arises](bhavati)
+[with-daily](nitya) +[worship](pūjā) +[mantras](mantrais) +[in-that](tat) +[order](krameṇa) [one-should-give](dadyāt) [by-that](tena) [all](sarva) +[calamity](upaplava) +[pacification](śāntir) +[occurs](bhavati)
 
 ## mukta-m0-p32-v794
-[with-the-three](tribhiḥ) [declared](proktaiḥ) [thus](|| 91 ||) [for-satisfaction](prītyai) [for-one's-own+bliss](sva+nirvṛttaye)
+[with-the-three](tribhiḥ) [prescribed](proktaiḥ) [for-satisfaction](prītyai) [for-one's-own](sva) +[bliss](nirvṛttaye)
 
 ## mukta-m0-p32-v795
-[worshipping](pūjayan) [desired](iṣṭam) [all](akhilaṃ) [obtains](labhate) [here](atra) [and-in-the-hereafter](para+atra) [and](ca)
+[worshipping](pūjayan) +[desired](niṣṭam) +[all](akhilaṃ) [one-obtains](labhate) +[here]('tra) [hereafter](paratra) [and](ca)
 
 ## mukta-m0-p32-v796
-[one-should-worship](pūjayet) [in-a-month+only](māsa+mātreṇa) [from-former-birth+sins](prāk+janma+āghaiḥ) [is-freed](vimucyate)
+[one-should-worship](pūjayen) +[in-a-month](māsamātreṇa) [from-former](prāg) +[birth](janma) +[sins](āghair) +[is-freed](vimucyate)
 
 ## mukta-m0-p32-v797
-[freed](vimuktaḥ) [from-all+sin+multitudes](sarva+pāpa+oghaiḥ) [her](tāṃ) [sees](paśyati) [and](ca) [with-the-eye](cakṣuṣā)
+[freed](vimuktaḥ) [from-all](sarva) +[sin](pāpa) +[masses](oghais) +[her](tāṃ) [one-sees](paśyati) [and](ca) [with-the-eye](cakṣuṣā)
 
 ## mukta-m0-p32-v798
-[is-freed](mucyate) [from-sin+deed+etc.+sufferings](pāpa+kṛtya+ādi+duḥkhaiḥ) [even](api) [most-terrible](ghora+taraiḥ)
+[one-is-freed](mucyate) [from-sin](pāpa) +[deed](kṛtya) +[and-other](ādi) +[sufferings](duḥkhair) +[most-terrible](ghoratarair) +[even](api)
 
 ## mukta-m0-p32-v799
-[contemplating](bhāvayan) [with-sense-objects](viṣayaiḥ) [with-flowers](puṣpaiḥ) [worshipping](pūjayan) [absorbed-in-her](tan+mayaḥ) [one-becomes](bhavet)
+[contemplating](bhāvayan) +[with-sense-objects](viṣayaiḥ) [with-flowers](puṣpaiḥ) [worshipping](pūjayaṃs) +[absorbed-in-that](tanmayo) [one-becomes](bhavet)
 
 ## mukta-m0-p32-v800
-[six+fold+worship](ṣaṭ+prakāra+bhajanam) [teaches](upadiśati) [there](tatra) [with-her+flowers](tat+puṣpaiḥ) [with-betel+blossoms](pūga+prasūnaiḥ) [thus](|| 93)
+[six](ṣaṭ) +[fold](prakāra) +[worship](bhajanam) +[teaches](upadiśati) [there](tatra) [with-those](tat) +[flowers](puṣpaiḥ) [with-areca](pūga) +[flowers](prasūnaiḥ)
