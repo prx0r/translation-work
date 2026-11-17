@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p31-v751
-[they-are](syuste) [to-be-saluted](abhivādyāḥ)
+[they-are+they+to-be-saluted+indeed](syuste'bhivādyāḥ)
 
 ## mukta-m0-p31-v752
-[divine-duty-possessing](aiśvaradharmavantaḥ) [and](ca) [those](ye) [they-are](syuḥ) [to-be-saluted](abhivādyāḥ)
+[aiśvara-dharma+possessing+and+they](aiśvaradharmavantaśca) [they+to-be-saluted](ye) [they+to-be-saluted](syuste'bhivādyāḥ)
 
 ## mukta-m0-p31-v753
-[then](atha) [right-left-northern-path-goers](dakṣavāmottaramārgiṇaḥ) [mutually](parasparam) [to-be-saluted](abhivādyāḥ) [thus](iti) [some](eke)
+[then+right+left+northern-path](atha) [dakṣa+vāma+uttara+mārga+going](dakṣavāmottaramārgiṇaḥ) [mutually+to-be-saluted](parasparamabhivādyā) [thus+some](ityeke)
 
 ## mukta-m0-p31-v754
-[right-left-northern-path-goers](dakṣavāmottaramārgiṇaḥ) [mutually](parasparam) [not-to-be-saluted](anabhivādyāḥ) [thus](iti) [some](eke)
+[right+left+northern-path+going](dakṣavāmottaramārgiṇaḥ) [mutually+not+to-be-saluted](parasparamanabhivādyā) [thus+some](ityeke)
 
 ## mukta-m0-p31-v755
-[path](mārge) [from-previous](pūrvasmāt) [higher](uttaraḥ) [greater](jyāyaḥ) [iti](iti) [cremation-ground-dweller](smaśānanilayaḥ)
+[path+former+than+higher](mārge) [pūrvasmāduttaro] [jyāya] [iti+smaśāna+dwelling](smaśānanilayaḥ)
 
 ## mukta-m0-p31-v756
-[they-are](syuḥ) [to-be-saluted](abhivādyāḥ)
+[they+to-be-saluted+indeed](syuste'bhivādyāḥ)
 
 ## mukta-m0-p31-v757
-[kshatriyas](kṣatraiḥ) [kshatriyas](kṣatrāḥ)
+[kṣatriya+by+kṣatriyas](kṣatraiḥ) [kṣatriyas](kṣatrāḥ)
 
 ## mukta-m0-p31-v758
-[vaishyas](vaiśyaiḥ) [vaishyas](vaiśyāḥ) [wealth-elder](dhanajyeṣṭhāḥ) [those](ye) [they-are](syuḥ) [to-be-saluted](abhivādyāḥ)
+[vaiśya+by+vaiśyas](vaiśyairvaiśyā) [wealth+elder+those](dhanajyeṣṭhā) [they+to-be-saluted](ye) [they+to-be-saluted](syuste'bhivādyāḥ)
 
 ## mukta-m0-p31-v759
-[age-elder](vayojyeṣṭhāḥ) [shudras](śūdrāḥ) [by-shudras](śūdraiḥ) [to-be-saluted](abhivādyāḥ)
+[age+elder](vayojyeṣṭhāḥ) [śūdras](śūdrāḥ) [by+śūdras+to-be-saluted](śūdrairabhivādyāḥ)
 
 ## mukta-m0-p31-v760
-[shudras](śūdrāḥ)
+[śūdras](śūdrāḥ)
 
 ## mukta-m0-p31-v761
-[among-women](strīṣu) [also](api) [thus](evam)
+[women+also+thus](strīṣvapyevam)
 
 ## mukta-m0-p31-v762
-[marriage-elder-status](yaunajyeṣṭhatvam) [threefold](tridhā)
+[sexual+elderhood+threefold](yaunajyeṣṭhatvaṃ) [tridhā](tridhā)
 
 ## mukta-m0-p31-v763
-[by-all](sarvaiḥ) [indeed](eva) [marriage-elder-status](yaunajyeṣṭhatvam) [considering](anusandhāya) [to-be-saluted-and-not-saluted](abhivādyānabhivādayeyuḥ) [all](sarve)
+[all+by+sexual+elderhood+considering+saluting+not-saluting+all](sarvaireva) [yaunajyeṣṭhatvamanusandhāyābhivādyānabhivādayeyuḥ] [sarve](sarve)
 
 ## mukta-m0-p31-v764
-[therefore](tasmāt) [marriage-elder-only](yaunajyeṣṭham) [eva](eva) [one-should-salute](abhivādayet)
+[therefore+sexual+elder+only+salute](tasmādyaunajyeṣṭhamevābhivādayet)
 
 ## mukta-m0-p31-v765
-[age-elder-status](vayojyeṣṭhatvam) [setting-aside](parihṛtya) [non-shudra](śūdrabhinnāḥ) [should-salute](abhivādayeyuḥ)
+[age+elderhood+leaving+except+śūdra+salute](vayojyeṣṭhatvaṃ) [parihṛtya] [śūdrabhinnā] [abhivādayeyuḥ]
 
 ## mukta-m0-p31-v766
-[relation-elder-status](sambandhajyeṣṭhatvam) [by-twice-born](dvijaiḥ) [not-to-be-considered](nānusandheyam) [in-salutation](abhivādane) [thus](iti) [some](kecit)
+[relation+elderhood+by+twice-born+not+to-be-considered+in+salutation+thus+some](sambandhajyeṣṭhatvaṃ) [dvijairnānusandheyamabhivādane] [iti] [kecit]
 
 ## mukta-m0-p31-v767
-[mantra-brahmana](mantrabrāhmaṇe) [shruti](śrutiḥ)
+[mantra+brāhmaṇa+śruti](mantrabrāhmaṇe) [śrutiḥ](śrutiḥ)
 
 ## mukta-m0-p31-v768
-[shruti-smriti-puranas](śrutismṛtipurāṇāni) [tantra](tantram) [ca](ca) [four](catasraḥ) [knowledges](vidyāḥ)
+[śruti+smṛti+purāṇas+and+tantra+four+knowledges](śrutismṛtipurāṇāni) [tantraṃ] [ca] [catasro] [vidyāḥ]
 
 ## mukta-m0-p31-v769
-[in-knowledges](vidyāsu) [former](pūrvā) [former](pūrvā) [greater](jyāyasī)
+[knowledges+in+former+former+greater](vidyāsu) [pūrvā] [pūrvā] [jyāyasī]
 
 ## mukta-m0-p31-v770
-[therefore](tasmāt) [by-higher](parayā) [endowed](yuktāt) [by-lower](pūrvayā) [endowed](yuktaḥ) [elder](jyeṣṭhaḥ)
+[therefore+by+higher+equipped+by+former+equipped+elder](tasmātparayā) [yuktātpūrvayā] [yukto] [jyeṣṭhaḥ]
 
 ## mukta-m0-p31-v771
-[knowledge-austerity](vidyātapasoḥ) [austerity](tapaḥ) [more](bhūyaḥ)
+[knowledge+austerity+of+two+austerity+greater](vidyātapasostapo) [bhūyaḥ](bhūyaḥ)
 
 ## mukta-m0-p31-v772
-[therefore](tasmāt) [knowledge-endowed](vidyāyuktāt) [austerity-endowed](tapoyuktaḥ) [elder](jyeṣṭhaḥ)
+[therefore+knowledge+equipped+than+that+austerity+equipped+elder](tasmādvidyāyuktātatpoyukto) [jyeṣṭhaḥ](jyeṣṭhaḥ)
 
 ## mukta-m0-p31-v773
-[varna-younger](varṇakaniṣṭha) [relation-younger](sambandhakaniṣṭha) [in-no-way](kathacit) [not-to-be-saluted](nābhivādayet)
+[varṇa+younger+relation+younger+in-no-way+salute](varṇakaniṣṭha) [sambandhakaniṣṭha] [kathacinnābhivādayet](kathacinnābhivādayet)
 
 ## mukta-m0-p31-v774
-[if](yadi) [he](saḥ) [thus](tathā) [would-be](syāt) [then](ta) [relation-younger](sambandhakaniṣṭham) [also](api) [one-should-salute](abhivādayet) [thus](iti) [some](eke)
+[if+he+so+be+then+relation+younger+also+salute+thus+some](yadi) [sa] [tathā] [syātta] [sambandhakaniṣṭhamapyabhivādayedityeke]
 
 ## mukta-m0-p31-v775
-[same-varna](savarṇānām) [with-stages](sāśramāṇām) [ca](ca) [mutual](parasparam) [salutation](abhipādanam) [iti](iti) [someone](kaścit)
+[same-varṇa+with+āśrama+mutual+salutation+thus+someone](savarṇānā) [sāśramāṇā] [ca] [parasparamabhipādanamiti] [kaścit]

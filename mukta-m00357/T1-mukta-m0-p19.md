@@ -2,13 +2,13 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p19-v451
-[thus](iti) [in-pārānanda-sūtra](pārānandasūtre) [fifth-chapter](pañcamamāhnikam)
+[thus](iti) [Pārānanda-sūtra](pārānanda+sūtre) [fifth-chapter](pañcama+māhnikam)
 
 ## mukta-m0-p19-v452
-[oṃ](oṃ) [now](atha) [therefore](ataḥ) [supreme-bliss-doctrine](paramānandamataṃ) [we-shall-declare](vakṣyāmaḥ)
+[OM](oṃ) [now](atha) [supreme-bliss-doctrine](paramānanda+matam) [we-shall-declare](vakṣyāmaḥ)
 
 ## mukta-m0-p19-v453
-[supreme](parama) [self](ātmā)
+[supreme-self](paramātmā)
 
 ## mukta-m0-p19-v454
 [lords](īśvarāḥ) [separate](pṛthak) [separate](pṛthak)
@@ -17,7 +17,7 @@
 [souls](jīvāḥ) [separate](pṛthak) [separate](pṛthak)
 
 ## mukta-m0-p19-v456
-[eternal-bliss](nityānandaḥ) [form-of-being-consciousness-bliss](saccidānandamayamūrtiḥ)
+[eternal-bliss](nityānandaḥ) [form-of-being-consciousness-bliss](saccidānanda+mayamūrtiḥ)
 
 ## mukta-m0-p19-v457
 [everywhere](sarvataḥ) [beautiful-form](surūpaḥ)
@@ -29,13 +29,13 @@
 [everywhere](sarvataḥ) [lord-of-all](sarveśvaraḥ)
 
 ## mukta-m0-p19-v460
-[vedic-speech](vedavāk)
+[Veda-voice](vedavāk)
 
 ## mukta-m0-p19-v461
-[self-same-ornaments](svābhinnālaṅkāraḥ) [self-same-weapons](svābhinnāyudhaḥ) [self-same-vehicle](svābhinnavāhana) [thus](iti) [time-śambhu](kālaśambhuḥ)
+[self-ornament](svābhinnālaṅkāraḥ) [self-weapon](svābhinnāyudhaḥ) [self-vehicle](svābhinnavāhanaḥ) [thus](iti) [Kālaśambhu](kālaśambhuḥ)
 
 ## mukta-m0-p19-v462
-[his-distinct-endless-infinite-ornaments-weapons-vehicles](tadbhinnānādyanantālaṅkārāyudhavāhanāni) [thus](iti) [unmatta-bhairava](unmattabhairavaḥ)
+[his-distinct-infinite-ornaments-weapons-vehicles](tadbhinnānādyanantālaṅkārāyudhavāhanāni) [thus](iti) [Unmattabhairava](unmattabhairavaḥ)
 
 ## mukta-m0-p19-v463
 [inconceivable-sovereignty](acintyaiśvaryaḥ) [everywhere](sarvataḥ)
@@ -47,10 +47,10 @@
 [well-knowable](susaṃvedyaḥ) [well-conceivable](susaṃcintyaḥ) [well-visible](susaṃdṛśyaḥ)
 
 ## mukta-m0-p19-v466
-[bestower-of-yoga-fruit](yogaphalanirdeṣṭā) [everywhere](sarvataḥ)
+[yoga-fruit-declarer](yogaphalanirdeṣṭā) [everywhere](sarvataḥ)
 
 ## mukta-m0-p19-v467
-[everywhere](sarvataḥ) [giver-of-yoga-fruit](yogaphaladaḥ)
+[everywhere](sarvataḥ) [yoga-fruit-giver](yogaphaladaḥ)
 
 ## mukta-m0-p19-v468
 [by-lords-worshipped](īśvarairupāsyaḥ) [everywhere](sarvataḥ)
@@ -59,13 +59,13 @@
 [lord-worshipped](īśvaropāsyaḥ) [everywhere](sarvataḥ)
 
 ## mukta-m0-p19-v470
-[of-lords](īśvarāṇāṃ) [of-his-devotees](svabhaktānāṃ) [capable-of-punishment-and-grace](nigrahānugrahakṣamaḥ)
+[of-lords](īśvarāṇām) [of-devotees](svabhaktānām) [capable-of-restraint-and-grace](nigrahānugrahakṣamaḥ)
 
 ## mukta-m0-p19-v471
 [accessible-to-all](sarvagamyaḥ)
 
 ## mukta-m0-p19-v472
-[untouched-by-affliction-action-fruit](kleśakarmavipākā'parāmṛṣṭaḥ) [everywhere](sarvataḥ)
+[untouched-by-affliction-action-fruit](kleśakarmavipākāparāmṛṣṭaḥ) [everywhere](sarvataḥ)
 
 ## mukta-m0-p19-v473
 [accessible-to-all](sarvagamyaḥ)

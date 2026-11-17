@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p79-v1951
-etad-rūpāt-ṛte kiñcit yadi brūyuḥ tad-alpakam
+[without-this-form](etadrūpādṛte) [something](kiñcid) [if](yadi) [they-say](brūyuḥ) [that-little](tadalpakam)
 
 ## mukta-m0-p79-v1952
-tasmāt tripurā-ādināmnā api etat-eva mukhyam iti vaktavyam iti bhāvaḥ
+[therefore](tasmāt) [by-names-like-tripura](tripurādināmnā) [also-this-only](pyetadeva) [principal](mukhyam) [thus](iti) [to-be-said](vaktavyam) [thus](iti) [meaning](bhāvaḥ)
 
 ## mukta-m0-p79-v1953
-tasya bhāsya-kṛtam bhāsakatvam ca na svataḥ sthitam
+[of-it](tasya) [commentator's](bhāsyakṛtaṃ) [illumination](bhāsakatvaṃ) [and](ca) [not](na) [by-itself](svataḥ) [established](sthitam)
 
 ## mukta-m0-p79-v1954
-sphaṭika-stha-japā-kusuma-lauhitya-vat tat-api pratibimba-ātmakam eva iti bhāvaḥ
+[crystal-residing](sphaṭikastha) [japa-flower](japākusuma) [redness-like](lauhityavat) [that-too](tadapi) [reflection-nature](pratibimbātmakam) [only](eva) [thus](iti) [meaning](bhāvaḥ)
 
 ## mukta-m0-p79-v1955
-darpaṇe nagaram yadvat darpaṇāt na atiricyate
+[in-mirror](darpaṇe) [city](nagaraṃ) [as](yadvat) [from-mirror](darpaṇāt) [not-exceeds](nātiricyate)
 
 ## mukta-m0-p79-v1956
-prapañcasya cit-avyatiriktatvam iti āha darpaṇa iti
+[of-manifestation](prapañcasya) [consciousness-non-difference](cidavyatiriktatvam) [thus-says](ityāha) [mirror](darpaṇa) [thus](iti)
 
 ## mukta-m0-p79-v1957
-darpaṇa-ātmani sampūrṇe nibiḍe ca eka-rūpiṇi
+[in-mirror-self](darpaṇātmani) [complete](sampūrṇe) [dense](nibiḍe) [and](ca) [one-formed](ekarūpiṇi)
 
 ## mukta-m0-p79-v1958
-tvat-evaṃvidhatvāt darpaṇa-ādi-bhinnasya tatra bhānam na upapadyate iti bhāvaḥ
+[your-not-such-nature](tvanaivaṃvidhatvāt) [mirror-etc-different](darpa'nadibhinnasya) [there](tatra) [appearance](bhānaṃ) [not-possible](nopapadyata) [thus](iti) [meaning](bhāvaḥ)
 
 ## mukta-m0-p79-v1959
-tathā pūrṇe sunibiḍe ca eka-rūpe cit-ātmani
+[so](tathā) [complete](pūrṇe) [very-dense](sunibiḍe) [and](ca) [one-formed](ekarūpe) [consciousness-self](cidātmani)
 
 ## mukta-m0-p79-v1960
-api anugṛhītā bhaveran iti dhyeyam
+[even](api) [favored](anugṛhītā) [you-would-be](bhaveranni) [to-be-contemplated](yuri) [thus](iti) [dhyeyam](dhyeyam)
 
 ## mukta-m0-p79-v1961
-ākāśaḥ tu avakāśa-ātmā śūnya-rūpatva-hetutaḥ
+[space](ākāśaḥ) [however](tv) [space-nature](avakāśātmā) [emptiness-form-cause](śūnyarūpatvahetutaḥ)
 
 ## mukta-m0-p79-v1962
-iti tātparyam
+[thus](iti) [purport](tātparyam)
 
 ## mukta-m0-p79-v1963
-satī citiḥ a-śūnya-ātma-rūpiṇī eka-rasā katham
+[existing](satī) [consciousness](cit) [non-empty-self-formed](iraśūnyātmarūpiṇī) [one-taste](ekarasā) [how](katham)
 
 ## mukta-m0-p79-v1964
-sat-rūpatvāt eva a-śūnya-ātma-rūpatvam eka-rasatvam nibiḍa-svarūpatā
+[being-form](sadrūpatvāt) [eva](eva) [non-empty-self-form](aśūnyātmarūpatvam) [one-taste](ekarasatvaṃ) [dense-own-form](nibiḍasvarūpatā)
 
 ## mukta-m0-p79-v1965
-tasmāt ādarśa-vat saṃvit svātantrya-bhara-vaibhavāt
+[therefore](tasmāt) [mirror-like](ādarśavat) [consciousness](saṃvit) [by-freedom-abundance-glory](svātantryabharavaibhavāt)
 
 ## mukta-m0-p79-v1966
-svātantrya-bhara-vaibhavāt ātmani advitīye avabhāsayet iti sambandhaḥ
+[freedom-abundance-glory](svātantryabharavaibhavāt) [in-self-non-second](ātmanyadvitīye) [illuminates](avabhāsayet) [thus](iti) [connection](sambandhaḥ)
 
 ## mukta-m0-p79-v1967
-nimitta-upādāna-hīnam dvitīyam ati-citritam
+[cause-instrument-less](nimittopādānahīnaṃ) [second](dvitīyam) [very-variegated](aticitritam)
 
 ## mukta-m0-p79-v1968
-ati-citritam paraspara-vilakṣaṇam bhāsayet
+[very-variegated](aticitritaṃ) [mutually-distinct](parasparavilakṣaṇaṃ) [illuminates](bhāsayet)
 
 ## mukta-m0-p79-v1969
-ekatvam bhāsate spaṣṭam a-viśeṣāt a-dūṣitam
+[oneness](ekatvaṃ) [appears](bhāsate) [clear](spaṣṭam) [from-non-distinction](aviśeṣāt) [unaffected](adūṣitam)
 
 ## mukta-m0-p79-v1970
-darpaṇa-sāmānya-rūpāt a-dūṣitam a-bādhitam
+[mirror-generality-form](darpaṇasāmānyarūpāt) [unaffected](adūṣitam) [unrefuted](abādhitam)
 
 ## mukta-m0-p79-v1971
-anusandhāna-saṃsiddham ekam doṣa-vivarjjitam
+[by-inquiry-accomplished](anusandhānasaṃsiddham) [one](ekaṃ) [fault-free](doṣavivarjjitam)
 
 ## mukta-m0-p79-v1972
-svarūpam
+[own-form](svarūpam)
 
 ## mukta-m0-p79-v1973
-aneka-vaicitrya-vapuḥ api caitanyam-ātrakam
+[many-variegated-body](anekavaicitryavapurapi) [consciousness-only](caitanyamātrakam)
 
 ## mukta-m0-p79-v1974
-mṛt-piṇḍa-sāmmukhye api darpaṇe ghaṭa-pratibimba-āpatteḥ
+[clay-lump-facing](mṛtpiṇḍasāmmukhye) [api](api) [in-mirror](darpaṇe) [pot-reflection-occurrence](ghaṭapratibimbāpatteḥ)
 
 ## mukta-m0-p79-v1975
-pratibimbasya bhāve vā api abhāve vā eva darpaṇaḥ
+[of-reflection](pratibimbasya) [in-being](bhāve) [or](vā) [in-non-being](apyabhāve) [eva](veva) [mirror](darpaṇaḥ)
