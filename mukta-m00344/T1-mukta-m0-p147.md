@@ -2,76 +2,52 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p147-v3651
-[accomplished](kṛtārtho) [freed-from-bondage](bandhanirmukto) [becomes](bhavati) [thus](iti) [certainty](suniścayaḥ)
-
+[kṛtārthaḥ](kṛtārthaḥ) [bandhu-nirmuktaḥ](bandhanirmuktaḥ) [bhavati](bhavati) [iti](iti) [suniścayaḥ](suniścayaḥ)
 ## mukta-m0-p147-v3652
-[again](punar) [non-sublated-concept](abādhitavikalpa) [non-arising](anudayena) [non-validity-grasp](aprāmāṇyagraha) [non-arising](anudayāt) [thus](iti) [meaning](bhāvaḥ)
-
+[punar](punar) [abādhita-vikalpa](abādhitavikalpa) [anudayena](anudayena) [aprāmāṇya-graha](aprāmāṇyagraha) [anudayāt](anudayāt) [iti](iti) [bhāvaḥ](bhāvaḥ)
 ## mukta-m0-p147-v3653
-[therefore](tasmāt) [by-convention](vyavahāreṇa) [non-sublation](bādhābhāvasya) [clarity](spaṣṭatvāt) [thus](iti) [having-heard](śrutvā) [again](punaḥ) [said](prāha)
-
+[tasmāt](tasmāt) [vyavahāreṇa](vyavahāreṇa) [bādhā-abhāvasya](bādhābhāvasya) [spaṣṭatvāt](spaṣṭatvāt) [iti](iti) [śrutvā](śrutvā) [punaḥ](punaḥ) [prāha](prāha)
 ## mukta-m0-p147-v3654
-[own-nature](svarūpaṃ) [non-conceptual](nirvikalpaṃ) [indeed](hi) [experience](saṃvedanam) [here](iha) [is-said](ucyate)
-
+[svarūpaṃ](svarūpaṃ) [nirvikalpaṃ](nirvikalpaṃ) [hi](hi) [saṃvedanam](saṃvedanam) [iha](iha) [ucyate](ucyate)
 ## mukta-m0-p147-v3655
-[own-nature](svarūpam) [thus](iti)
-
+[svarūpam](svarūpam) [iti](iti)
 ## mukta-m0-p147-v3656
-[concept](vikalpa) [indeed](eva) [indeed](hi) [error](bhrāntiḥ) [as](yathā) [in-rope](rajjau) [snake](bhujaṅgamaḥ)
-
+[vikalpaḥ](vikalpaḥ) [eva](eva) [hi](hi) [bhrāntiḥ](bhrāntiḥ) [yathā](yathā) [rajjau](rajjau) [bhujaṅgamaḥ](bhujaṅgamaḥ)
 ## mukta-m0-p147-v3657
-[concept-appearance](vikalpābhāsaḥ) [harmful](anarthāvahaḥ) [thus](iti) [meaning](bhāvaḥ)
-
+[vikalpa-ābhāsaḥ](vikalpābhāso) [anarthāvahaḥ](anarthāvahaḥ) [iti](iti) [bhāvaḥ](bhāvaḥ)
 ## mukta-m0-p147-v3658
-[sky](gaganaṃ) [not](na) [blue](nīlam) [thus](iti) [knowing](jānatām) [even](api)
-
+[gaganaṃ](gaganaṃ) [na](na) [nīlam](nīlam) [iti](iti) [jānatām](jānatām) [api](api)
 ## mukta-m0-p147-v3659
-[by-that-much](tāvataiva) [indeed](tu) [that-knowledge](tajjñānaṃ) [not](na) [error](bhrāntiḥ) [is-called](abhidhīyate)
-
+[tāvatā](tāvatā) [eva](eva) [tu](tu) [taj-jñānaṃ](tajjñānaṃ) [na](na) [bhrāntiḥ](bhrāntiḥ) [abhidhīyate](abhidhīyate)
 ## mukta-m0-p147-v3660
-[sky-ness](gaganatva) [blue](nīlaṃ) [sky](nabhaḥ) [thus](iti) [knowledge](jñānam)
-
+[gaganatva](gaganatva) [nīlaṃ](nīlaṃ) [nabhaḥ](nabhaḥ) [iti](iti) [jñānam](jñānam)
 ## mukta-m0-p147-v3661
-[destroyed-validity-life](hataprāmāṇyajīvaṃ) [that-knowledge](tajjñānaṃ) [dead-great-snake-like](mṛtamahāhivat)
-
+[hata-prāmāṇya-jīvam](hataprāmāṇyajīvaṃ) [taj-jñānaṃ](tajjñānaṃ) [mṛta-mahāhi-vat](mṛtamahāhivat)
 ## mukta-m0-p147-v3662
-[expert](abhijñasya) [non-expert](anabhijñasya) [and](ca) [from-that](apyataḥ) [difference](bhida) [of-them](tayoḥ)
-
+[abhijñasya](abhijñasya) [anabhijñasya](anabhijñasya) [ca](ca) [api](api) [ataḥ](ataḥ) [asti](asti) [bhidā](bhidā) [tayoḥ](tayoḥ)
 ## mukta-m0-p147-v3663
-[of-knowledges](jñānayoḥ) [difference](bhedaḥ) [is](asti)
-
+[jñānayoḥ](jñānayorbhedo) [bhedaḥ](bhedaḥ) [asti](asti)
 ## mukta-m0-p147-v3664
-[of-knowers](jñānināṃ) [knowledge](jñānam) [indeed](eva) [would-be](syāt) [all](sarvaḥ) [convention](vyavahārakaḥ)
-
+[jñānināṃ](jñānināṃ) [jñānam](jñānam) [eva](eva) [syāt](syāt) [sarvaḥ](sarvo) [api](api) [vyavahārakaḥ](vyavahārakaḥ)
 ## mukta-m0-p147-v3665
-[not-harmful](nārthāvahaḥ) [all](sarvaḥ) [convention](vyavahāraḥ) [thus](iti) [meaning](bhāvaḥ)
-
+[nārthāvahaḥ](nārthāvahaḥ) [sarvaḥ](sarvo) [api](api) [vyavahāraḥ](vyavahāraḥ) [iti](iti) [bhāvaḥ](bhāvaḥ)
 ## mukta-m0-p147-v3666
-[of-experts](abhijñānām) [from-that](ataḥ) [more](bhūyaḥ) [not](nahi) [of-error](bhrānteḥ) [origin](samudbhavaḥ)
-
+[abhijñānām](abhijñānām) [ataḥ](ataḥ) [bhūyaḥ](bhūyo) [na](na) [hi](hi) [bhrānteḥ](bhrānteḥ) [samudbhavaḥ](samudbhavaḥ)
 ## mukta-m0-p147-v3667
-[knowledge-only-form](jñānamātrarūpatvena) [not](na) [its](tasya) [error-ness](bhrāntitvam) [thus](iti) [meaning](bhāvaḥ)
-
+[jñāna-mātra-rūpatvena](jñānamātrarūpatvena) [na](na) [tasya](tasya) [bhrāntitvam](bhrāntitvam) [iti](iti) [bhāvaḥ](bhāvaḥ)
 ## mukta-m0-p147-v3668
-[by-fault](doṣeṇa) [not](na) [produced](janitaṃ) [why](kasmāt) [would-dissolve](vilīyeta) [by-knowledge-only](jñānamātrataḥ)
-
+[doṣe](doṣe) [na](na) [janitaṃ](janitaṃ) [kasmāt](kasmāt) [vilīyet](vilīyed) [jñāna-mātrataḥ](jñānamātrataḥ)
 ## mukta-m0-p147-v3669
-[its-dissolution-cause-ness](tadvilayakāraṇatvābhāvaḥ) [absence](abhāvaḥ) [thus](iti) [purport](tātparyam)
-
+[tad-vilaya-kāraṇatva-abhāvaḥ](tadvilayakāraṇatvābhāvaḥ) [iti](iti) [tātparyam](tātparyam)
 ## mukta-m0-p147-v3670
-[world-appearance](jagadābhāsaḥ) [this](eṣaḥ) [indeed](tu) [karma-fault](karmadoṣa) [origin](samudbhavaḥ)
-
+[jagad-ābhāsaḥ](jagadābhāsaḥ) [eṣaḥ](eṣastu) [tu](tu) [karma-doṣa-samudbhavaḥ](karmados'samudbhavaḥ)
 ## mukta-m0-p147-v3671
-[completed](samāpte) [karma](karmaṇi) [then](tataḥ) [would-remain](śiṣyeta) [non-dual-consciousness-full](advayacinmayaṃ)
-
+[samāpte](samāpte) [karmaṇi](karmaṇi) [tataḥ](tataḥ) [śiṣyet](śiṣyed) [advaya-cinmayam](advayacinmayam)
 ## mukta-m0-p147-v3672
-[purport](tātparyam)
-
+[tātparyam](tātparyam)
 ## mukta-m0-p147-v3673
-[thus](iti) [having-heard](śrutvā) [again](punaḥ) [brahmin](vipraḥ) [asked](papraccha) [prince](nṛpanandanam)
-
+[iti](iti) [śrutvā](śrutvā) [punaḥ](punaḥ) [vipraḥ](vipraḥ) [papraccha](papraccha) [nṛpa-nandanam](nṛpanandanam)
 ## mukta-m0-p147-v3674
-[error-origin](bhrāntisambhavaḥ) [karma-remainder](karmaśeṣa) [non-dual-appearance](advaitābhāsaḥ) [thus](iti) [having-heard](śrutvā)
-
+[bhrānti-sambhavaḥ](bhrāntisambhavaḥ) [karma-śeṣa-advaita-ābhāsaḥ](karmaśeṣādvaitābhāsaḥ) [iti](iti) [śrutvā](śrutvā)
 ## mukta-m0-p147-v3675
-[knowledge-fire](jñānāgni) [contact](saṃsparśane) [even](api) [karma-cotton](karmatūlaḥ) [how](kathaṃ) [remains](sthitaḥ)
+[jñāna-agni-saṃsparśane](jñānāgnisaṃsparśane) [api](api) [karma-tūlaḥ](karmatūlaḥ) [kathaṃ](kathaṃ) [sthitaḥ](sthitaḥ)

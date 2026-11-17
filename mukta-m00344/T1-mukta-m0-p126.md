@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p126-v3126
-due-to-absence-of-suppression-of-practice-of-contrary-tendencies etc(viruddhavāsanābhyāsanirodhāderabhāvataḥ)
+[contrary](viruddha)+[latency](vāsanā)+[practice](abhyāsa)+[suppression](nirodha)+[etcetera](ādeḥ)+[from-absence](abhāvataḥ)
 
 ## mukta-m0-p126-v3127
-therefore-some-action-devoted(karmaniṣṭhāḥ) desire-filled(kāminaḥ) angry(others)(krodhino'pare)
+[therefore](ataḥ)+[some](kecit)+[action-devoted](karmaniṣṭhāḥ)+[desirous](kāminaḥ)+[angry-others](krodhino'pare)
 
 ## mukta-m0-p126-v3128
-due-to-continuance-of-those-tendencies(tattadvāsanānuvṛtteḥ)
+[those](tattat)+[latency](vāsanā)+[from-following](anuvṛtteḥ)
 
 ## mukta-m0-p126-v3129
-with-mind(samanaskaḥ) there(tatra) who-indeed(yo vai) dull-knower(mandajñānī) declared(nirūpitaḥ)
+[with-mind](samanaskaḥ)+[there](tatra)+[who](yaḥ)+[indeed](vai)+[dull-knower](mandajñānī)+[described](nirūpitaḥ)
 
 ## mukta-m0-p126-v3130
-in-own-nature-knowledge(svarūpavittau) no(na) anything(kiñcid) shines(bhāsate) indeed(hi) in-samādhis(samādhiṣu)
+[in-self-knowledge](svarūpavittau)+[not](no)+[anything](kiñcid)+[shines](bhāsate)+[indeed](hi)+[in-absorptions](samādhiṣu)
 
 ## mukta-m0-p126-v3131
-joy-sorrow-etc(harṣaviṣādādi) thus(iti) meaning(bhāvaḥ)
+[joy-sorrow-etc](harṣaviṣādādi)+[thus](iti)+[meaning](bhāvaḥ)
 
 ## mukta-m0-p126-v3132
-nirvikalpa-own-nature(nirvikalpasvarūpaṃ) but(tu) as-all-support(sarvāśrayatayā) always(sadā)
+[nondual-self-nature](nirvikalpasvarūpaṃ)+[but](tu)+[as-refuge-of-all](sarvāśrayatayā)+[always](sadā)
 
 ## mukta-m0-p126-v3133
-nirvikalpa(nirvikalpa) thus(iti) always(sadā) shines-indeed(sphuratyeva) thus(sambandhaḥ)
+[nondual](nirvikalpa)+[thus](iti)+[always](sadā)+[shines-indeed](sphuratyeva)+[thus](iti)+[connection](sambandhaḥ)
 
 ## mukta-m0-p126-v3134
-so(tathā) free-from-vikalpa(vikalpavikalaṃ) may-shine(sphuret) in-stated-stages(proktadaśāsu) also(ca)
+[thus](tathā)+[free-from-thought](vikalpavikalaṃ)+[may-shine](sphuret)+[in-stated-states](proktadaśāsu)+[and](ca)
 
 ## mukta-m0-p126-v3135
-in-stated-stages(proktadaśāsu) limited-knowledge-interval-etc(paricchinnajñānāntarālādidaśāsu)
+[in-stated-states](proktadaśāsu)+[in-states-between-limited-knowledges-etc](paricchinnajñānāntarālādidaśāsu)
 
 ## mukta-m0-p126-v3136
-those-joined-with-that-reflection(ye tadvimarśasaṃyuktāḥ) he(sa) for-them(teṣāmeva) remembered(saṃsmṛtaḥ)
+[those](ye)+[joined-with-that-reflection](tadvimarśasaṃyuktāḥ)+[he](sa)+[of-them-indeed](teṣāmeva)+[remembered](saṃsmṛtaḥ)
 
 ## mukta-m0-p126-v3137
-something-new(kiñcidapūrvam) thus(iti) to-be-contemplated(dhyeyam)
+[something-new](kiñcidapūrvam)+[thus](iti)+[to-be-meditated](dhyeyam)
 
 ## mukta-m0-p126-v3138
-known(viditaṃ) not(na) sky-color(nābhasaṃ nailyaṃ) as(yathā) again-repeated-seeing(bhūyo'valokane)
+[known](viditaṃ)+[not-sky-blue](nābhasaṃ)+[blueness](nailyaṃ)+[as](yathā)+[again-on-seeing](bhūyo'valokane)
 
 ## mukta-m0-p126-v3139
-object-relation-free-knowledge(vedyasambandhavarjitaiva vittir) thus-meaning(ityarthaḥ) this-same(etadeva) proves(upapādayati) known(viditam) thus(iti)
+[object-relation-free-indeed](vedyasambandhavarjitaiva)+[knowledge](vittir)+[thus](iti)+[meaning](arthaḥ)+[this-indeed-proves](etadevopapādayati)+[known-thus](viditamiti)
 
 ## mukta-m0-p126-v3140
-otherwise(anyathā) no(na) indeed(eva) difference(bhedaḥ) would-be(syāt) truth-nontruth-distinction(tattvātattvavibhāsayoḥ)
+[otherwise](anyathā)+[not-indeed](naiva)+[difference](bhedaḥ)+[would-be](syāt)+[of-real-and-unreal-manifestations](tattvātattvavibhāsayoḥ)
 
 ## mukta-m0-p126-v3141
-obstacle-notion-imposition(anyāyyatvāt) of-pratibandhakatva-kalpanā(pratibandhakatvakalpanāyā)
+[of-assuming-obstructiveness](pratibandhakatvakalpanāyā)+[from-impropriety](anyāyyatvāt)
 
 ## mukta-m0-p126-v3142
-connection(sambandhaḥ) somewhere(kutracid) or(vā) may-be(syāt) of-knowers(jñāninām) therefore(ata eva) indeed(hi)
+[connection](sambandhaḥ)+[somewhere-or](kutracidvā)+[would-be](syāt)+[of-knowers](jñāninām)+[from-that-indeed](ata eva)+[indeed](hi)
 
 ## mukta-m0-p126-v3143
-object-free-knowledge(vedyahīnā vittiḥ) becomes(bhavet) thus(iti) connection(sambandhaḥ)
+[object-free](vedyahīnā)+[knowledge](vittir)+[would-be](bhavet)+[thus](iti)+[connection](sambandhaḥ)
 
 ## mukta-m0-p126-v3144
-mindless(amanaskasya) especially(sutarāṃ) because(yataḥ) that(sā) unmanī-state(conmanī daśā)
+[of-mindless](amanaskasya)+[especially](sutarāṃ)+[because](yataḥ)+[she](sā)+[unmani](conmanī)+[state](daśā)
 
 ## mukta-m0-p126-v3145
-state-is-unmanī(sthitirunmanī daśā) thus(ityucyate)
+[abiding](sthitir)+[unmani](unmanī)+[state-thus](daśety)+[is-called](ucyate)
 
 ## mukta-m0-p126-v3146
-mind-movement(manasaścalanaṃ) that(tat) would-be(syāt) if-true-object-contact(satyavedyasya saṅgatiḥ)
+[of-mind](manasaḥ)+[movement](calanaṃ)+[that](tat)+[would-be](syāt)+[of-true-object](satyavedyasya)+[contact](saṅgatiḥ)
 
 ## mukta-m0-p126-v3147
-he(sa) always(sarvadā) vyutthita-and-samādhi-stha(vyutthataśca samādhisthaśca) O-Bhārgava(bhārgava)
+[he](sa)+[always](sarvadā)+[risen](vyutthataḥ)+[and](ca)+[absorbed](samādhisthaḥ)+[and](ca)+[Bhargava](bhārgava)
 
 ## mukta-m0-p126-v3148
-simultaneously(yugapat) possible(sambhavet) thus-meaning(iti bhāvaḥ) therefore(ata eva) says(āha) always(sarvadā) thus(iti)
+[simultaneously](yugapat)+[would-occur](sambhavet)+[thus](iti)+[meaning](bhāvaḥ)+[from-that-indeed-says](ata evāha)+[always-thus](sarvadeti)
 
 ## mukta-m0-p126-v3149
-thus(evam) this(etat) indeed(hi) declared(saṃproktaṃ) asked(pṛṣṭaṃ) whatever(yadyat) formerly(purā) by-you(tvayā)
+[thus](evam)+[this-indeed](etaddhi)+[well-spoken](saṃproktaṃ)+[asked](pṛṣṭaṃ)+[whatever](yadyat)+[formerly](purā)+[by-you](tvayā)
 
 ## mukta-m0-p126-v3150
-formerly(purā) in-brahma-assembly(brahmasabhāmadhye) in-satyaloka(satyaloke) very-pure(atipāvane)
+[formerly](purā)+[in-brahma-assembly](brahmasabhāmadhye)+[in-satyaloka](satyaloke)+[very-pure](atipāvane)

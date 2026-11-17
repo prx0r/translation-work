@@ -2,19 +2,19 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p140-v3476
-[jumping](jhampā) [mistress-of-jingling](jhiṃjheśvarī) [cleansed](jhāntā) [mother-of-letter-jha](jhakārākṣaramātṛkā)
+[leap](jhampā) [mistress-of-jhimjha](jhiṃjheśvarī) [cleansed](jhāntā) [mother-of-letter-jha](jhakārākṣaramātṛkā)
 
 ## mukta-m0-p140-v3477
-[adorned-with-seed-ña](ñavargabījabhūṣāḍhyā) [mother-of-letter-ña](ñakārākṣaramātṛkā)
+[adorned-with-ña-group-seed](ñavargabījabhūṣāḍhyā) [mother-of-letter-ña](ñakārākṣaramātṛkā)
 
 ## mukta-m0-p140-v3478
 [weapon-ṭaṅka](ṭaṅkāyudhā) [form-ṭalī](ṭalīrūpā) [mother-of-letter-ṭa](ṭakārākṣaramātṛkā)
 
 ## mukta-m0-p140-v3479
-[form-ṭha](ṭhaḥsvarūpā) [rich-in-ṭha](ṭhavarṇāḍhyā) [mother-of-letter-ṭha](ṭhakārākṣaramātṛkā)
+[form-ṭha](ṭhaḥsvarūpā) [rich-in-ṭha-letter](ṭhavarṇāḍhyā) [mother-of-letter-ṭha](ṭhakārākṣaramātṛkā)
 
 ## mukta-m0-p140-v3480
-[ḍhiṇī](ḍhiṇī) [ḍhehā](ḍhehā) [hand-ḍhilla](ḍhillahastā) [mother-of-letter-ḍha](ḍhakārākṣaramātṛkā)
+[ḍhiṇī](ḍhiṇī) [ḍhehā](ḍhehā) [ḍhilla-handed](ḍhillahastā) [mother-of-letter-ḍha](ḍhakārākṣaramātṛkā)
 
 ## mukta-m0-p140-v3481
 [turī](turī) [turyā](turyā) [form-tulā](tulārūpā) [tripurā](tripurā) [dear-to-tamas](tāmasapriyā)
@@ -32,46 +32,46 @@
 [goddess-in-eight-corner](vasukoṇasthitādevī) [speaker-of-eight-corner-meaning](vasukoṇārthavādinī)
 
 ## mukta-m0-p140-v3486
-[situated-on-snake-leaf](nāgapatrasthitā) [śārī](śārī) [giver-of-three-circle-worship](trivṛttapūjanārthadā)
+[situated-on-snake-leaf](nāgapatrasthitā) [śārī](śārī) [giver-of-trivṛtta-worship](trivṛttapūjanārthadā)
 
 ## mukta-m0-p140-v3487
 [tāmasī](tāmasī) [like-tomara](tomaraprakhyā) [sounding-tumburu](tumburusvananādinī)
 
 ## mukta-m0-p140-v3488
-[restless-eyed](taralākṣī) [destroyer-of-darkness](tamohartrī) [slayer-of-tāraka](tārakāsuraghātinī)
+[rolling-eyed](taralākṣī) [destroyer-of-darkness](tamohartrī) [slayer-of-tāraka](tārakāsuraghātinī)
 
 ## mukta-m0-p140-v3489
-[sthalī](sthalī) [form-sthavira](sthavirarūpā) [stout](sthūlā) [sthalī](sthālī) [lotus-born-of-earth](sthalābjinī)
+[sthalī](sthalī) [old-form](sthavirarūpā) [stout](sthūlā) [sthalī](sthālī) [lotus-ground](sthalābjinī)
 
 ## mukta-m0-p140-v3490
-[messenger](dūtikā) [śiva-messenger](śivadūtī) [holder-of-staff](daṇḍāyudhadharā) [radiance](dyutiḥ)
+[messenger](dūtikā) [śiva-messenger](śivadūtī) [mace-bearing](daṇḍāyudhadharā) [radiance](dyutiḥ)
 
 ## mukta-m0-p140-v3491
-[roaming-regions](deśānucāriṇī) [drekkā](drekkā) [drāviḍa-region](drāviḍeśī) [very-swift](davīyasī)
+[wandering-in-regions](deśānucāriṇī) [drekkā](drekkā) [drāviḍa-region](drāviḍeśī) [very-small](davīyasī)
 
 ## mukta-m0-p140-v3492
-[born-of-curd](dadhijā) [rare](durlabhā) [goddess](devī) [deity](devatā) [supreme-syllable](paramākṣarā)
+[curd-born](dadhijā) [rare](durlabhā) [goddess](devī) [deity](devatā) [supreme-syllable](paramākṣarā)
 
 ## mukta-m0-p140-v3493
 [daughter-of-danu](danuputrī) [destruction](vināśā) [worshipped-by-danu-lineage](danuputrakulārcitā)
 
 ## mukta-m0-p140-v3494
-[form-of-ten-cows](daśadhenusurūpā) [mother-of-letter-da](dakārākṣaramātṛkā)
+[ten-cow-form](daśadhenusurūpā) [and](ca) [mother-of-letter-da](dakārākṣaramātṛkā)
 
 ## mukta-m0-p140-v3495
-[dhṛti](dhṛtirdhūrtā) [dhūrtā](dhūrtā) [fortunate-bride](dhanyavadhūr) [mother-of-letter-dha](dhakārākṣaramātṛkā)
+[dhṛti](dhṛtirdhūrtā) [dhanyavadhū](dhanyavadhū) [mother-of-letter-dha](dhakārākṣaramātṛkā)
 
 ## mukta-m0-p140-v3496
-[midst-of-dark-grove](nīpopavanamadhyasthā) [mistress-of-city](nāgareśī) [best-of-men](narottamā)
+[midst-of-nīpa-grove](nīpopavanamadhyasthā) [mistress-of-city](nāgareśī) [best-of-men](narottamā)
 
 ## mukta-m0-p140-v3497
-[served-by-kings](nṛpasevyā) [honored-by-kings](nṛpavandyā) [progenitor-of-nara-nārāyaṇa](naranārāyaṇaprasūḥ)
+[served-by-kings](nṛpasevyā) [honored-by-kings](nṛpavandyā) [mother-of-nara-nārāyaṇa](naranārāyaṇaprasūḥ)
 
 ## mukta-m0-p140-v3498
-[mistress-of-lotus](padmeśvarī) [lotus-faced](padmamukhī) [leaf-vehicle](patrayānā) [beyond-beyond](parāparā)
+[mistress-of-lotus](padmeśvarī) [lotus-faced](padmamukhī) [leaf-vehicle](patrayānā) [supreme-inferior](parāparā)
 
 ## mukta-m0-p140-v3499
-[city](pūḥ) [wife-of-enemy-destroyer](purārivadhūḥ) [pampā](pampā) [wife](patnī) [bearer-of-leaf-vehicle](patrīśavāhanā)
+[city](pūḥ) [enemy's-wife](purārivadhūḥ) [pampā](pampā) [wife](patnī) [leaf-vehicle](patrīśavāhanā)
 
 ## mukta-m0-p140-v3500
-[pīṭha](pīṭhā) [seated-on-pīṭha](pīṭhasthitā) [pīṭha](pīṭhā) [adorned-with-yellow](pītālaṅkārabhūṣaṇā)
+[pīṭha](pīṭhā) [established-on-pīṭha](pīṭhasthitā) [pīṭha](apīṭhā) [wearing-yellow-ornament](pītālaṅkārabhūṣaṇā)

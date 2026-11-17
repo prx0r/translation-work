@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p137-v3401
-[saṃsāra-iti](saṃsāreti) [taraṇiḥ-naukā](taraṇirnaukā) [sūryaḥ](sūryo) [vā](vā)
+[saṃsāra](saṃsāra) [iti](iti) [taraṇi](taraṇi) [naukā](naukā) [sūrya](sūrya) [vā](vā)
 
 ## mukta-m0-p137-v3402
-[avidyā-jāla-vibhrānteḥ](avidyājālavibhrānter) [mukta-prāyaḥ](muktaprāyo) [babhūva](babhūva) [ha](ha)
+[avidyā](avidyā) [jāla](jāla) [vibhrānti](vibhrānti) [mukta](mukta) [prāya](prāya) [babhūva](babhūva) [ha](ha)
 
 ## mukta-m0-p137-v3403
-[vidyamānatvāt-āha](vidyamānatvādāha) [mukta-prāyaḥ](muktaprāya) [iti](iti)
+[vidyamānatva](vidyamānatva) [āha](āha) [mukta](mukta) [prāya](prāya) [iti](iti)
 
 ## mukta-m0-p137-v3404
-[bhagavan](bhagavan) [brūhi](brūhi) [vijñāna-sādhanam](vijñānasādhanaṃ) [su-viniścitam](suviniścitam)
+[bhagavan](bhagavan) [brūhi](brūhi) [vijñāna](vijñāna) [sādhana](sādhana) [suviniścita](suviniścita)
 
 ## mukta-m0-p137-v3405
 [kiñcit](kiñcit) [papraccha](papraccha)
 
 ## mukta-m0-p137-v3406
-[jñāninām](jñānināṃ) [lakṣaṇam](lakṣaṇaṃ) [ca-api](cāpi) [yena](yena) [jñāsyāmi](jñāsyāmi) [tān](tān) [drutam](drutam)
+[jñānin](jñānin) [lakṣaṇa](lakṣaṇa) [ca](ca) [api](api) [yena](yena) [jñāsyāmi](jñāsyāmi) [tān](tān) [drutam](drutam)
 
 ## mukta-m0-p137-v3407
-[vyavahāram](vyavahāraṃ) [kurvatām](kurvatāṃ) [ca-api](cāpyanāsaktaṃ) [manaḥ](manaḥ) [katham](katham)
+[vyavahāra](vyavahāra) [kurvatām](kurvatām) [ca](ca) [api](api) [anāsakta](anāsakta) [manaḥ](manaḥ) [katham](katham)
 
 ## mukta-m0-p137-v3408
-[anāsaktaṃ](anāsaktaṃ) [vāsanā-rahitam](vāsanārahitam)
+[anāsakta](anāsakta) [vāsanā](vāsanā) [rahitam](rahitam)
 
 ## mukta-m0-p137-v3409
-[evam](evamatrisutaḥ) [pṛṣṭaḥ](pṛṣṭo) [jamadagni-sutena](jamadagnisutena) [vai](vai)
+[evam](evam) [atri](atri) [suta](suta) [pṛṣṭa](pṛṣṭa) [jamadagni](jamadagni) [suta](suta) [vai](vai)
 
 ## mukta-m0-p137-v3410
-[etat](etatsarvaṃ) [sādhana-ādikam](sādhanādikam)
+[etat](etat) [sarva](sarva) [sādhana](sādhana) [ādika](ādika)
 
 ## mukta-m0-p137-v3411
-[śṛṇu](śṛṇu) [rāma](rāma) [pravakṣyāmi](pravakṣyāmi) [rahasyam](rahasyaṃ) [jñāna-sādhanam](jñānasādhanam)
+[śṛṇu](śṛṇu) [rāma](rāma) [pravakṣyāmi](pravakṣyāmi) [rahasya](rahasya) [jñāna](jñāna) [sādhana](sādhana)
 
 ## mukta-m0-p137-v3412
-[samyak-praśnena](samyakpraśnena) [bhakti-yuktena](bhaktiyuktena) [santuṣṭaḥ](santuṣṭaḥ) [rahasyam](rahasyaṃ) [śāstreṣu-aprasiddham](śāstreṣvaprasiddham)
+[samyak](samyak) [praśna](praśna) [bhakti](bhakti) [yukta](yukta) [santuṣṭa](santuṣṭa) [rahasya](rahasya) [śāstra](śāstra) [aprasiddha](aprasiddha)
 
 ## mukta-m0-p137-v3413
-[yaḥ](yaḥ) [sarva-bhāvataḥ](sarvabhāvataḥ) [sva-ātma-devatām](svātmadevatām) [upasaṅgataḥ](upasaṅgataḥ)
+[yaḥ](yaḥ) [sarva](sarva) [bhāva](bhāva) [svātma](svātma) [devatā](devatā) [upasaṅgata](upasaṅgata)
 
 ## mukta-m0-p137-v3414
-[sva-ātma-devatām](svātmadevatāṃ) [sva-antaryāmitayā](svāntaryāmitayā) [sthitām](sthitām)
+[svātma](svātma) [devatā](devatā) [sva](sva) [antaryāmin](antaryāmin) [sthita](sthita)
 
 ## mukta-m0-p137-v3415
-[etat](etat) [sarva-uttamam](sarvottamaṃ) [rāma](rāma) [proktam](proktaṃ) [jñānasya](jñānasya) [sādhanam](sādhanam)
+[etat](etat) [sarva](sarva) [uttama](uttama) [rāma](rāma) [prokta](prokta) [jñāna](jñāna) [sādhana](sādhana)
 
 ## mukta-m0-p137-v3416
-[tasya](tasya) [prokta-devatā-tatparasya](proktadevatātatparasya) [etat](etat) [devatā-tatparatvam](devatātatparatvam) [rahasya-śāstreṣu](rahasyaśāstreṣu) [proktam](proktam)
+[tasya](tasya) [prokta](prokta) [devatā](devatā) [tatpara](tatpara) [etat](etat) [devatā](devatā) [tatparatva](tatparatva) [rahasya](rahasya) [śāstra](śāstra) [prokta](prokta)
 
 ## mukta-m0-p137-v3417
-[etat](etadvihāyānyadatra) [vihāya](vihāya) [anyat](anyadatra) [na](na) [samyak](samyak) [phala-dam](phaladaṃ) [bhavet](bhavet)
+[etat](etat) [vihāya](vihāya) [anya](anya) [atra](atra) [na](na) [samyak](samyak) [phala](phala) [da](da) [bhavet](bhavet)
 
 ## mukta-m0-p137-v3418
-[jñānam](jñānaṃ) [na](na) [bhavet](bhavediti) [iti](iti) [bhāvaḥ](bhāvaḥ)
+[jñāna](jñāna) [na](na) [bhavet](bhavet) [iti](iti) [bhāva](bhāva)
 
 ## mukta-m0-p137-v3419
-[vijñānam](vijñānaṃ) [kevala-citiḥ](kevalacitiryā) [yā](yā) [sarvasya-avabhāsikā](sarvasyāvabhāsikā)
+[vijñāna](vijñāna) [kevala](kevala) [citi](citi) [yā](yā) [sarva](sarva) [avabhāsikā](avabhāsikā)
 
 ## mukta-m0-p137-v3420
-[phala-bhūtam](phalabhūtaṃ) [vijñānam](vijñānam) [sarva-avabhāsikā](sarvāvabhāsikā) [kevalā](kevalā) [sāmānyā](sāmānyā) [citiḥ](citiḥ)
+[phala](phala) [bhūta](bhūta) [vijñāna](vijñāna) [sarva](sarva) [avabhāsikā](avabhāsikā) [kevalā](kevalā) [sāmānya](sāmānya) [citi](citi)
 
 ## mukta-m0-p137-v3421
-[vicārāt](vicārāt) [tat-apohena](tadapohena) [tat-svarūpa-upalakṣaṇam](tatsvarūpopalakṣaṇam)
+[vicāra](vicāra) [tad](tad) [apoha](apoha) [tad](tad) [svarūpa](svarūpa) [upalakṣaṇa](upalakṣaṇa)
 
 ## mukta-m0-p137-v3422
-[svarūpasya-upalakṣaṇam](svarūpasyopalakṣaṇaṃ) [so'ham-iti](so'hamiti) [pratyabhijñānam](pratyabhijñānaṃ) [syāt](syāt)
+[svarūpa](svarūpa) [upalakṣaṇa](upalakṣaṇa) [so](so) [aham](aham) [iti](iti) [pratyabhijñāna](pratyabhijñāna) [syāt](syāt)
 
 ## mukta-m0-p137-v3423
-[bhaktānām](bhaktānām) [anya-paratā-hānena](anyaparatāhānena) [tat-paratvataḥ](tatparatvataḥ)
+[bhakta](bhakta) [anya](anya) [paratā](paratā) [hāna](hāna) [tat](tat) [paratva](paratva)
 
 ## mukta-m0-p137-v3424
-[devatā-parāṇām](devatāparāṇāṃ) [katham](kathaṃ) [sulabham](sulabham) [iti](iti) [ced-āha](cedāha) [bhaktānām-iti](bhaktānāmiti)
+[devatā](devatā) [parāṇām](parāṇām) [katham](katham) [sulabha](sulabha) [iti](iti) [ced](ced) [āha](āha) [bhakta](bhakta) [iti](iti)
 
 ## mukta-m0-p137-v3425
-[devatā-tatparaḥ](devatātatparastvevaṃ) [tu](tu) [evaṃ](evaṃ) [bhūtvā](bhūtvā) [svalpa-anya-sādhanaḥ](svalpānyasādhanaḥ)
+[devatā](devatā) [tatpara](tatpara) [evaṃ](evaṃ) [bhūtvā](bhūtvā) [svalpa](svalpa) [anya](anya) [sādhana](sādhana)

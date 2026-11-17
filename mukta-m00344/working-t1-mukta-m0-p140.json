@@ -7,8 +7,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "pūrṇa+cin+mātra+rūpiṇaḥ",
-"quick_gloss": "full-consciousness-only-form"
+"surface": "pūrṇacinmātrarūpiṇaḥ",
+"quick_gloss": "full+consciousness+only+of-form"
 }
 ]
 },
@@ -20,20 +20,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "sukha+duḥkha+juṣaḥ",
-"quick_gloss": "pleasure-pain-experiencing"
+"surface": "sukhaduḥkhajuṣo",
+"quick_gloss": "experiencing+pleasure+pain"
 },
 {
 "surface": "atyantaṃ",
 "quick_gloss": "extremely"
 },
 {
-"surface": "paśu+tulya+tayā",
-"quick_gloss": "beast-like-condition"
+"surface": "paśutulyatayā",
+"quick_gloss": "by-animal-likeness"
 },
 {
 "surface": "sthitāḥ",
-"quick_gloss": "standing"
+"quick_gloss": "situated"
 }
 ]
 },
@@ -45,12 +45,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "vicāra+vimukhāḥ",
-"quick_gloss": "inquiry-averse"
+"surface": "vicāravimukhāḥ",
+"quick_gloss": "inquiry+averse"
 },
 {
-"surface": "tyakta+anusandhānāḥ",
-"quick_gloss": "abandoned-inquiry"
+"surface": "tyaktānusandhānāḥ",
+"quick_gloss": "abandoned+investigation"
 }
 ]
 },
@@ -63,19 +63,23 @@
 "tokens": [
 {
 "surface": "teṣāṃ",
-"quick_gloss": "their"
+"quick_gloss": "of-them"
 },
 {
 "surface": "yā",
+"quick_gloss": "which"
+},
+{
+"surface": "sā",
 "quick_gloss": "that"
 },
 {
-"surface": "paśu+daśā",
-"quick_gloss": "beast-state"
+"surface": "paśudaśā",
+"quick_gloss": "animal-state"
 },
 {
-"surface": "sad+vimarśa+antarāla+gā",
-"quick_gloss": "between-pure-awareness"
+"surface": "sadvimarśāntarālagā",
+"quick_gloss": "with-reflection+intervening"
 }
 ]
 },
@@ -87,28 +91,28 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "pūrṇa+daśā+antarāla+gā",
-"quick_gloss": "full-state-between"
+"surface": "pūrṇadaśāntarālagā",
+"quick_gloss": "full-state+intervening"
 },
 {
-"surface": "paśu+sthitir",
-"quick_gloss": "beast-standing"
+"surface": "paśusthitiḥ",
+"quick_gloss": "animal-condition"
 },
 {
-"surface": "na+bandhāya",
-"quick_gloss": "not-bondage"
+"surface": "na",
+"quick_gloss": "not"
 },
 {
-"surface": "ity+āha",
+"surface": "bandhāya",
+"quick_gloss": "for-bondage"
+},
+{
+"surface": "ityāha",
 "quick_gloss": "thus-says"
 },
 {
-"surface": "teṣām",
-"quick_gloss": "their"
-},
-{
-"surface": "iti",
-"quick_gloss": "iti"
+"surface": "teṣāmiti",
+"quick_gloss": "of-them-thus"
 }
 ]
 },
@@ -120,19 +124,19 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "lākṣā+rasaiḥ",
-"quick_gloss": "lac-juice"
+"surface": "lākṣārasaiḥ",
+"quick_gloss": "with-lac-juice"
 },
 {
 "surface": "yadā",
 "quick_gloss": "when"
 },
 {
-"surface": "vastra+prānta+yugmaṃ",
+"surface": "vastraprāntayugmaṃ",
 "quick_gloss": "cloth-edge-pair"
 },
 {
-"surface": "su+rañjitam",
+"surface": "surañjitam",
 "quick_gloss": "well-dyed"
 }
 ]
@@ -145,12 +149,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "lākṣā",
-"quick_gloss": "lac"
-},
-{
-"surface": "iti",
-"quick_gloss": "thus"
+"surface": "- lākṣeti",
+"quick_gloss": "lac-etc"
 }
 ]
 },
@@ -167,15 +167,15 @@
 },
 {
 "surface": "tasya",
-"quick_gloss": "his"
+"quick_gloss": "of-him"
 },
 {
 "surface": "vyavahṛtiḥ",
-"quick_gloss": "transaction"
+"quick_gloss": "conduct"
 },
 {
-"surface": "cit+āmarśana+madhya+gā",
-"quick_gloss": "consciousness-reflection-middle"
+"surface": "cidāmarśanamadhyagā",
+"quick_gloss": "consciousness-reflection+middle-going"
 }
 ]
 },
@@ -188,7 +188,11 @@
 "tokens": [
 {
 "surface": "bandhanāya",
-"quick_gloss": "bondage"
+"quick_gloss": "for-bondage"
+},
+{
+"surface": "iti",
+"quick_gloss": "thus"
 },
 {
 "surface": "bhāvaḥ",
@@ -204,20 +208,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "madhya+vijñānināṃ",
-"quick_gloss": "middle-knowers"
+"surface": "madhyavijñānināṃ",
+"quick_gloss": "of-middle-knowers"
 },
 {
-"surface": "deha+saṃyogaḥ",
+"surface": "dehasaṃyogaḥ",
 "quick_gloss": "body-union"
 },
 {
 "surface": "nāsti",
-"quick_gloss": "not"
+"quick_gloss": "is-not"
 },
 {
 "surface": "sarvathā",
-"quick_gloss": "at-all"
+"quick_gloss": "in-every-way"
 }
 ]
 },
@@ -229,8 +233,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "madhya+jñānināṃ",
-"quick_gloss": "middle-knowers"
+"surface": "madhyajñānināṃ",
+"quick_gloss": "of-middle-knowers"
 },
 {
 "surface": "sthitim",
@@ -241,12 +245,8 @@
 "quick_gloss": "says"
 },
 {
-"surface": "madhya",
-"quick_gloss": "middle"
-},
-{
-"surface": "iti",
-"quick_gloss": "thus"
+"surface": "madhyeti",
+"quick_gloss": "middle-etc"
 }
 ]
 },
@@ -258,20 +258,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "saḥ",
-"quick_gloss": "that"
+"surface": "sa",
+"quick_gloss": "he"
 },
 {
 "surface": "nāsti",
-"quick_gloss": "not"
+"quick_gloss": "is-not"
 },
 {
-"surface": "madhya+vijñānavataḥ",
-"quick_gloss": "middle-knower"
+"surface": "madhyavijñānavataḥ",
+"quick_gloss": "of-middle-knower"
 },
 {
 "surface": "rāma",
-"quick_gloss": "rama"
+"quick_gloss": "Rama"
 },
 {
 "surface": "kadācana",
@@ -291,12 +291,12 @@
 "quick_gloss": "always"
 },
 {
-"surface": "samāhita+svāntaḥ",
-"quick_gloss": "collected-mind"
+"surface": "samāhitasvāntaḥ",
+"quick_gloss": "composed-mind"
 },
 {
 "surface": "vyavahāraḥ",
-"quick_gloss": "transaction"
+"quick_gloss": "conduct"
 },
 {
 "surface": "na",
@@ -304,7 +304,7 @@
 },
 {
 "surface": "tasya",
-"quick_gloss": "his"
+"quick_gloss": "of-him"
 },
 {
 "surface": "hi",
@@ -325,10 +325,10 @@
 },
 {
 "surface": "tasya",
-"quick_gloss": "his"
+"quick_gloss": "of-him"
 },
 {
-"surface": "madhya+jñāninaḥ",
+"surface": "madhyajñāninaḥ",
 "quick_gloss": "middle-knower"
 }
 ]
@@ -349,12 +349,12 @@
 "quick_gloss": "someone"
 },
 {
-"surface": "suṣupti+sthaḥ",
-"quick_gloss": "deep-sleep"
+"surface": "suṣuptisthaḥ",
+"quick_gloss": "in-deep-sleep"
 },
 {
-"surface": "vāsanā+mātra+taḥ",
-"quick_gloss": "latent-impression-only"
+"surface": "vāsanāmātrataḥ",
+"quick_gloss": "by-tendency-only"
 },
 {
 "surface": "kvacit",
@@ -370,12 +370,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "tasya",
-"quick_gloss": "its"
-},
-{
-"surface": "ābhāsa+tva",
-"quick_gloss": "appearance"
+"surface": "cettasyābhāsatvāt",
+"quick_gloss": "if+its+appearance"
 },
 {
 "surface": "iti",
@@ -390,20 +386,16 @@
 "quick_gloss": "says"
 },
 {
-"surface": "yathā",
-"quick_gloss": "as"
-},
-{
-"surface": "iti",
-"quick_gloss": "iti"
+"surface": "yatheti",
+"quick_gloss": "as-etc"
 },
 {
 "surface": "vāsanā",
-"quick_gloss": "latent-impression"
+"quick_gloss": "tendency"
 },
 {
 "surface": "saṃskāraḥ",
-"quick_gloss": "disposition"
+"quick_gloss": "impression"
 }
 ]
 },
@@ -420,11 +412,11 @@
 },
 {
 "surface": "ca",
-"quick_gloss": "ca"
+"quick_gloss": "and"
 },
 {
-"surface": "madirā+mattaḥ",
-"quick_gloss": "wine-intoxicated"
+"surface": "madirāmattaḥ",
+"quick_gloss": "drunk-with-wine"
 },
 {
 "surface": "vadan",
@@ -456,16 +448,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "dṛṣṭānta+antaram",
-"quick_gloss": "example-another"
+"surface": "dṛṣṭāntāntaram",
+"quick_gloss": "another-example"
 },
 {
-"surface": "yathā",
-"quick_gloss": "as"
-},
-{
-"surface": "iti",
-"quick_gloss": "thus"
+"surface": "yatheti",
+"quick_gloss": "as-etc"
 }
 ]
 },
@@ -490,7 +478,7 @@
 },
 {
 "surface": "ca",
-"quick_gloss": "ca"
+"quick_gloss": "and"
 },
 {
 "surface": "na",
@@ -518,12 +506,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "na",
-"quick_gloss": "not"
-},
-{
-"surface": "anusandhatte",
-"quick_gloss": "recollects"
+"surface": "nānusandhatte",
+"quick_gloss": "does-not-connect"
 }
 ]
 },
@@ -535,19 +519,15 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "yaḥ",
-"quick_gloss": "who"
-},
-{
-"surface": "tu",
-"quick_gloss": "tu"
+"surface": "yastu",
+"quick_gloss": "but-who"
 },
 {
 "surface": "uttamaḥ",
 "quick_gloss": "highest"
 },
 {
-"surface": "su+vijñānī",
+"surface": "suvijñānī",
 "quick_gloss": "well-knower"
 },
 {
@@ -555,16 +535,12 @@
 "quick_gloss": "body"
 },
 {
-"surface": "tasya",
-"quick_gloss": "his"
-},
-{
-"surface": "api",
-"quick_gloss": "api"
+"surface": "tasyāpi",
+"quick_gloss": "of-him-too"
 },
 {
 "surface": "nāsti",
-"quick_gloss": "not"
+"quick_gloss": "is-not"
 },
 {
 "surface": "hi",
@@ -580,8 +556,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "stanya+pāne",
-"quick_gloss": "milk-drinking"
+"surface": "stanyapāne",
+"quick_gloss": "in-milk-drinking"
 },
 {
 "surface": "pravṛttiḥ",
@@ -592,12 +568,16 @@
 "quick_gloss": "thus"
 },
 {
+"surface": "iti",
+"quick_gloss": "thus"
+},
+{
 "surface": "bhāvaḥ",
 "quick_gloss": "meaning"
 },
 {
 "surface": "uttamasya",
-"quick_gloss": "highest"
+"quick_gloss": "of-highest"
 },
 {
 "surface": "sthitim",
@@ -608,16 +588,8 @@
 "quick_gloss": "says"
 },
 {
-"surface": "yaḥ",
-"quick_gloss": "who"
-},
-{
-"surface": "tu",
-"quick_gloss": "tu"
-},
-{
-"surface": "iti",
-"quick_gloss": "iti"
+"surface": "yastviti",
+"quick_gloss": "who-but-thus"
 }
 ]
 },
@@ -634,7 +606,7 @@
 },
 {
 "surface": "rathena",
-"quick_gloss": "chariot"
+"quick_gloss": "by-chariot"
 },
 {
 "surface": "vyāpāraṃ",
@@ -649,7 +621,7 @@
 "quick_gloss": "not"
 },
 {
-"surface": "ratha+dehakaḥ",
+"surface": "rathadehakaḥ",
 "quick_gloss": "chariot-bodied"
 }
 ]
@@ -670,32 +642,20 @@
 "quick_gloss": "says"
 },
 {
-"surface": "rathā",
-"quick_gloss": "chariot"
+"surface": "ratheti",
+"quick_gloss": "chariot-etc"
 },
 {
-"surface": "iti",
-"quick_gloss": "iti"
-},
-{
-"surface": "etad",
-"quick_gloss": "this"
-},
-{
-"surface": "eva",
-"quick_gloss": "indeed"
+"surface": "etadeva",
+"quick_gloss": "this-very"
 },
 {
 "surface": "upapādayati",
 "quick_gloss": "proves"
 },
 {
-"surface": "yathā",
-"quick_gloss": "as"
-},
-{
-"surface": "iti",
-"quick_gloss": "iti"
+"surface": "yatheti",
+"quick_gloss": "as-etc"
 }
 ]
 },
@@ -715,15 +675,19 @@
 "quick_gloss": "embodied"
 },
 {
-"surface": "nāpi",
-"quick_gloss": "nor"
+"surface": "na",
+"quick_gloss": "not"
+},
+{
+"surface": "api",
+"quick_gloss": "api"
 },
 {
 "surface": "vyāpārī",
-"quick_gloss": "actor"
+"quick_gloss": "agent"
 },
 {
-"surface": "śuddha+saṃvedana+ātmakaḥ",
+"surface": "śuddhasaṃvedanātmakaḥ",
 "quick_gloss": "pure-consciousness-nature"
 }
 ]
