@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p55-v1351
-[japa-mukta-hair](japanmuktakeśo) [naked](nagna) [so-acira-adi-yogi-isvara](so'cirādyogīśvara) [becomes](sampadyate)
+[japa](japan) [mukta](mukta) [kesha](keso) [nagna](nagna) [sa](so) [acira](acirā) [yogi-isvara](yogīśvara) [sampadyate](sampadyate)
 
 ## mukta-m0-p55-v1352
-[mantra-uttering](mantramuccārya) [in-that-fire](tasminnagnau) [should-deposit](nikṣipetsa) [free-conduct](svairacara) [becomes](sampadyate)
+[mantra](mantram) [uccarya](uccārya) [tasmin](tasmin) [agnau](agnau) [niksipet](nikṣipet) [sa](sa) [svaira-cara](svairacara) [sampadyate](sampadyate)
 
 ## mukta-m0-p55-v1353
-[having-offered](hutvā) [all+teacher](sarvācārya) [becomes](sampadyate) [indeed](eva)
+[hutva](hutvā) [sarva-acarya](sarvācārya) [sampadyate](sampadyate)
 
 ## mukta-m0-p55-v1354
-[thousand](sahasra) [mantra](manu) [japas](japatīha) [so-undaunted](so'dīno'nte) [kali-abode-going](kālīdhāmagāmī) [becomes](sampadyate)
+[sahasra](sahasra) [manu](manu) [japati](japati) [iha](iha) [sa](so) [adina](adīno) [ante](ante) [kali-dhama-gami](kālīdhāmagāmī) [sampadyate](sampadyate)
 
 ## mukta-m0-p55-v1355
-[whose](yasyāstā) [time](kālāṃ) [meditates](dhyāyati) [ya](ya) [that](sa) [shiva](śiva) [becomes](sampadyate)
+[yasya](yasyā) [asta](stā) [kala](kālāṃ) [dhyayati](dhyāyati) [ya](ya) [sa](sa) [shiva](śiva) [sampadyate](sampadyate)
 
 ## mukta-m0-p55-v1356
-[become](saṃpadyante)
+[sampadyante](saṃpadyante)
 
 ## mukta-m0-p55-v1357
-[who](yo) [at-midnight](niśīthe) [thousand](sahasra) [japas](japati) [sa](sa) [hundred-maidens-surrounded](yuvatiśatavṛta) [becomes](sampadyate)
+[yo](yo) [nishithe](niśīthe) [sahasra](sahasra) [japati](japati) [sa](sa) [yuvati-shata-vrita](yuvatiśatavṛta) [sampadyate](sampadyate)
 
 ## mukta-m0-p55-v1358
-[by-this](eteneśvarāṇāmanuṣṭhānāni) [of-lords](īśvarāṇām) [rites](anuṣṭhānāni) [explained](vyākhyātāni) [left](vāmāni)
+[etena](etene) [ishvaranam](īśvarāṇām) [anusthanani](anuṣṭhānāni) [vyakhyatani](vyākhyātāni) [vamani](vāmāni)
 
 ## mukta-m0-p55-v1359
-[those](tāni) [kalikeya](kālikeyānyevetyeke) [only](eva) [iti](iti) [some](eke)
+[tani](tāni) [kalikeyani](kālikeyāny) [eva](eva) [iti](iti) [eke](eke)
 
 ## mukta-m0-p55-v1360
-[except-drink](pānavarjaṃ) [those](tāni) [right](dakṣiṇāni) [of-her](tasyā) [iti](iti) [some](eke)
+[pana-varjam](pānavarjaṃ) [tani](tāni) [dakshinani](dakṣiṇāni) [tasya](tasyā) [iti](iti) [eke](eke)
 
 ## mukta-m0-p55-v1361
-[deity-favor-cause](devatāprasādakāraṇa) [what](kim)
+[devata-prasada-karana](devatāprasādakāraṇa) [kim](kim)
 
 ## mukta-m0-p55-v1362
-[time](kāla) [iti](iti) [some](eke)
+[kala](kāla) [iti](iti) [eke](eke)
 
 ## mukta-m0-p55-v1363
-[place](pradeśa) [iti](iti) [others](apare)
+[pradesha](pradeśa) [iti](iti) [apare](apare)
 
 ## mukta-m0-p55-v1364
-[tirtha](tīrtham) [iti](iti) [others](anye)
+[tirtha](tīrtha) [iti](iti) [anye](anye)
 
 ## mukta-m0-p55-v1365
-[worship](arcanaṃ) [some](kecit)
+[arcana](arcanaṃ) [kecit](kecit)
 
 ## mukta-m0-p55-v1366
-[self-study](svādhyāyaṃ) [some](kecit)
+[svadhyaya](svādhyāyaṃ) [kecit](kecit)
 
 ## mukta-m0-p55-v1367
-[which-word](yatpadamānantīti) [śabda](śabdācca) [tadicchayā](tadicchayetyeke) [iti](iti) [some](eke)
+[yat-padam](yatpadam) [ananti](ānantī) [iti](iti) [shabdat](śabdācca) [tat](tad) [icchaya](icchayā) [iti](iti) [eke](eke)
 
 ## mukta-m0-p55-v1368
-[chooses](vṛṇute) [because](yasmādeṣaḥ) [this](eṣaḥ) [independent](svatantraḥ) [as](yathā) [jiva-atman](jīvātmānaṃ) [lord](īśvaraḥ)
+[vrunute](vṛṇute) [yasmad](yasmād) [esha](eṣaḥ) [svatantra](svatantraḥ) [yatha](yathā) [jiva-atmana](jīvātmānaṃ) [ishvara](īśvaraḥ)
 
 ## mukta-m0-p55-v1369
-[deity-favor-marks](devatāprasādalakṣaṇāni) [we-will-speak](vakṣyāmaḥ)
+[devata-prasada-lakshani](devatāprasādalakṣaṇāni) [vakshyamah](vakṣyāmaḥ)
 
 ## mukta-m0-p55-v1370
-[by-devotion](bhaktyā) [whom](yaṃ) [not](na) [knows](jānāti) [sa](sa) [enaṃ](enaṃ) [knows](vijānātīti)
+[bhaktya](bhaktyā) [yam](yaṃ) [na](na) [janati](jānāti) [sa](sa) [enam](enaṃ) [vijanati](vijānātīti)
 
 ## mukta-m0-p55-v1371
-[those](tānyudāhariṣyāmaḥ) [we-will-illustrate](udāhariṣyāmaḥ) [||](||) [100](100)
+[tani](tāny) [udaharishyamah](udāhariṣyāmaḥ)
 
 ## mukta-m0-p55-v1372
-[to-be-known](veditavyaṃ) [in-me](mayi) [sa](sa) [lord](īśaḥ) [initiated](dīkṣito'bhavaditi)
+[veditavyam](veditavyaṃ) [mayi](mayi) [sa](sa) [isha](īśaḥ) [dikshito](dīkṣito) [abhavat](abhavad) [iti](iti)
 
 ## mukta-m0-p55-v1373
-[samadhi](samādhānamāmananti) [brahma-vadins](brahmavādinaḥ)
+[samadhanam](samādhānam) [amananti](āmananti) [brahma-vadinah](brahmavādinaḥ)
 
 ## mukta-m0-p55-v1374
-[now](atheśvarasākṣātkārakramaṃ) [lord-direct-perception-procedure](īśvarasākṣātkārakramaṃ) [we-will-speak](vakṣyāmaḥ)
+[atha](athe) [ishvara-sakshatkara-kramam](īśvarasākṣātkārakramaṃ) [vakshyamah](vakṣyāmaḥ)
 
 ## mukta-m0-p55-v1375
-[manifest-mark](udbhūtalakṣaṇo) [devotee](bhakta) [approaches](upatiṣṭhatyudaṅmukha) [north-facing](udaṅmukha)
+[udbhuta-lakshano](udbhūtalakṣaṇo) [bhakta](bhakta) [upatishthati](upatiṣṭhaty) [udang-mukha](udaṅmukha)

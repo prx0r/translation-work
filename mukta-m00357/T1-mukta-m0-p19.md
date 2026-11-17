@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p19-v451
-[thus](iti) [in-pārānanda-sūtra](pārānandasūtre) [fifth](pañcama) [chapter](māhnikam)
+[iti](iti) [pārānanda](pārānanda) [sūtre](sūtre) [pañcama](pañcama) [māhnikam](māhnikam)
 
 ## mukta-m0-p19-v452
-[om](oṃ) [then](atha) [now](ataḥ) [supreme-bliss](paramānanda) [doctrine](matam) [we-shall-speak](vakṣyāmaḥ)
+[oṃ](oṃ) [atha](atha) [ataḥ](ataḥ) [parama-ānanda-matam](paramānandamataṃ) [vakṣyāmaḥ](vakṣyāmaḥ)
 
 ## mukta-m0-p19-v453
-[supreme+self](paramātmā)
+[parama-ātmā](paramātmā)
 
 ## mukta-m0-p19-v454
-[lords](īśvarāḥ) [separate](pṛthak) [separate](pṛthak)
+[īśvarāḥ](īśvarāḥ) [pṛthak](pṛthak) [pṛthak](pṛthak)
 
 ## mukta-m0-p19-v455
-[souls](jīvāḥ) [separate](pṛthak) [separate](pṛthak)
+[jīvāḥ](jīvāḥ) [pṛthak](pṛthak) [pṛthak](pṛthak)
 
 ## mukta-m0-p19-v456
-[eternal-bliss](nityānandaḥ) [form-of-being-consciousness-bliss](saccidānandamayamūrtiḥ)
+[nitya-ānandaḥ](nityānandaḥ) [sat-cit-ānanda-mayamūrtiḥ](saccidānandamayamūrtiḥ)
 
 ## mukta-m0-p19-v457
-[beautiful](surūpaḥ) [everywhere](sarvataḥ)
+[sarvataḥ](sarvataḥ) [su-rūpaḥ](surūpaḥ)
 
 ## mukta-m0-p19-v458
-[all-knowing](sarvajñaḥ) [everywhere](sarvataḥ)
+[sarvataḥ](sarvataḥ) [sarva-jñaḥ](sarvajñaḥ)
 
 ## mukta-m0-p19-v459
-[lord-of-all](sarveśvaraḥ) [everywhere](sarvataḥ)
+[sarvataḥ](sarvataḥ) [sarva-īśvaraḥ](sarveśvaraḥ)
 
 ## mukta-m0-p19-v460
-[vedic-speech](vedavāk)
+[veda-vāk](vedavāk)
 
 ## mukta-m0-p19-v461
-[self-same-ornaments](svābhinnālaṅkāraḥ) [self-same-weapons](svābhinnāyudhaḥ) [self-same-vehicle](svābhinnavāhanaḥ) [thus](iti) [kālaśambhu](kālaśambhuḥ)
+[sva-abhinna-alaṅkāraḥ](svābhinnālaṅkāraḥ) [sva-abhinna-āyudhaḥ](svābhinnāyudhaḥ) [sva-abhinna-vāhanaḥ](svābhinnavāhanaḥ) [iti](iti) [kāla-śambhuḥ](kālaśambhuḥ)
 
 ## mukta-m0-p19-v462
-[his-distinct-countless-beginningless-endless-ornaments-weapons-vehicles](tadbhinnānādyanantālaṅkārāyudhavāhanāni) [thus](iti) [unmattabhairava](unmattabhairavaḥ)
+[tad-bhinna-anādi-ananta-alaṅkāra-āyudha-vāhanāni](tadbhinnānādyanantālaṅkārāyudhavāhanāni) [iti](iti) [unmatta-bhairavaḥ](unmattabhairavaḥ)
 
 ## mukta-m0-p19-v463
-[inconceivable-sovereignty](acintyaiśvaryaḥ) [everywhere](sarvataḥ)
+[acintya-aiśvaryaḥ](acintyaiśvaryaḥ) [sarvataḥ](sarvataḥ)
 
 ## mukta-m0-p19-v464
-[unknowable](avedyaḥ) [inconceivable](acintyaḥ) [invisible](adṛśyaḥ)
+[avedyaḥ](avedyaḥ) [acintyaḥ](acintyaḥ) [adṛśyaḥ](adṛśyaḥ)
 
 ## mukta-m0-p19-v465
-[well-knowable](susaṃvedyaḥ) [well-conceivable](susaṃcintyaḥ) [well-visible](susaṃdṛśyaḥ)
+[su-saṃvedyaḥ](susaṃvedyaḥ) [su-saṃcintyaḥ](susaṃcintyaḥ) [su-saṃdṛśyaḥ](susaṃdṛśyaḥ)
 
 ## mukta-m0-p19-v466
-[bestower-of-yoga-fruit](yogaphalanirdeṣṭā) [everywhere](sarvataḥ)
+[yoga-phala-nirdeṣṭā](yogaphalanirdeṣṭā) [sarvataḥ](sarvataḥ)
 
 ## mukta-m0-p19-v467
-[giver-of-yoga-fruit-everywhere](sarvato) [yoga-fruit-giver](yogaphaladaḥ)
+[sarvataḥ](sarvataḥ) [yoga-phala-daḥ](yogaphaladaḥ)
 
 ## mukta-m0-p19-v468
-[worshipped-by-lords](īśvarairupāsyaḥ) [everywhere](sarvataḥ)
+[īśvaraiḥ](īśvaraiḥ) [upāsyaḥ](upāsyaḥ) [sarvataḥ](sarvataḥ)
 
 ## mukta-m0-p19-v469
-[worshipped-by-lord](īśvaropāsyaḥ) [everywhere](sarvataḥ)
+[īśvara-upāsyaḥ](īśvaropāsyaḥ) [sarvataḥ](sarvataḥ)
 
 ## mukta-m0-p19-v470
-[of-lords](īśvarāṇām) [of-own-devotees](svabhaktānām) [capable-of-punishment-and-grace](nigrahānugrahakṣamaḥ)
+[īśvarāṇām](īśvarāṇāṃ) [sva-bhaktānām](svabhaktānāṃ) [nigraha-anugraha-kṣamaḥ](nigrahānugrahakṣamaḥ)
 
 ## mukta-m0-p19-v471
-[accessible-to-all](sarvagamyaḥ)
+[sarva-gamyaḥ](sarvagamyaḥ)
 
 ## mukta-m0-p19-v472
-[untouched-by-affliction-action-fruit](kleśakarmavipākāparāmṛṣṭaḥ) [everywhere](sarvataḥ)
+[kleśa-karma-vipāka-aparāmṛṣṭaḥ](kleśakarmavipākā'parāmṛṣṭaḥ) [sarvataḥ](sarvataḥ)
 
 ## mukta-m0-p19-v473
-[accessible-to-all](sarvagamyaḥ)
+[sarva-gamyaḥ](sarvagamyaḥ)
 
 ## mukta-m0-p19-v474
-[creator-of-all-origination](sarvotpattikṛt)
+[sarva-utpatti-kṛt](sarvotpattikṛt)
 
 ## mukta-m0-p19-v475
-[creator-of-all-continuance](sarvasthitikṛt)
+[sarva-sthiti-kṛt](sarvasthitikṛt)

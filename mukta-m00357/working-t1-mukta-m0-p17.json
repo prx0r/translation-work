@@ -16,7 +16,7 @@
 },
 {
 "surface": "anīhā",
-"quick_gloss": "disinterest"
+"quick_gloss": "non-desire"
 },
 {
 "surface": "eva",
@@ -32,8 +32,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "manuṣya",
-"quick_gloss": "man"
+"surface": "manuṣyebhyaḥ",
+"quick_gloss": "from-men"
 },
 {
 "surface": "meya",
@@ -45,7 +45,7 @@
 },
 {
 "surface": "karaṇam",
-"quick_gloss": "action"
+"quick_gloss": "act"
 }
 ]
 },
@@ -62,7 +62,7 @@
 },
 {
 "surface": "tapā",
-"quick_gloss": "austerity"
+"quick_gloss": "heat"
 },
 {
 "surface": "pṛśyā",
@@ -70,7 +70,7 @@
 },
 {
 "surface": "partanam",
-"quick_gloss": "purification"
+"quick_gloss": "division"
 }
 ]
 },
@@ -92,6 +92,10 @@
 {
 "surface": "japa",
 "quick_gloss": "japa"
+},
+{
+"surface": "kā",
+"quick_gloss": "rite"
 }
 ]
 },
@@ -112,7 +116,7 @@
 },
 {
 "surface": "daśaka",
-"quick_gloss": "tenfold"
+"quick_gloss": "ten"
 },
 {
 "surface": "nirvartanam",
@@ -138,6 +142,10 @@
 {
 "surface": "anusaṃdhānam",
 "quick_gloss": "investigation"
+},
+{
+"surface": "anuṣṭhānam",
+"quick_gloss": "practice"
 }
 ]
 },
@@ -159,6 +167,10 @@
 {
 "surface": "svīkaraṇam",
 "quick_gloss": "acceptance"
+},
+{
+"surface": "kriyā",
+"quick_gloss": "rite"
 }
 ]
 },
@@ -180,6 +192,10 @@
 {
 "surface": "dharmaḥ",
 "quick_gloss": "dharma"
+},
+{
+"surface": "vidhiḥ",
+"quick_gloss": "rule"
 }
 ]
 },
@@ -192,11 +208,19 @@
 "tokens": [
 {
 "surface": "auttarasya",
-"quick_gloss": "of-latter"
+"quick_gloss": "of-later"
 },
 {
 "surface": "svanityadharmānuṣṭhāyina",
 "quick_gloss": "own-eternal-dharma"
+},
+{
+"surface": "anuṣṭhāyin",
+"quick_gloss": "practitioner"
+},
+{
+"surface": "mārga",
+"quick_gloss": "path"
 }
 ]
 },
@@ -212,20 +236,16 @@
 "quick_gloss": "dharma"
 },
 {
-"surface": "gaṅgāsnānabhasmalepanavihitayajñādi",
-"quick_gloss": "gaṅgā-bath-ash-smear-sacrifice"
+"surface": "gaṅgāsnāna",
+"quick_gloss": "gaṅgā-bath"
 },
 {
-"surface": "stena",
-"quick_gloss": "by-him"
+"surface": "bhasmalepana",
+"quick_gloss": "ash-smear"
 },
 {
-"surface": "kṛta",
-"quick_gloss": "done"
-},
-{
-"surface": "tadabhyudayāya",
-"quick_gloss": "prosperity"
+"surface": "yajñādi",
+"quick_gloss": "sacrifice"
 }
 ]
 },
@@ -246,7 +266,11 @@
 },
 {
 "surface": "ca",
-"quick_gloss": "and"
+"quick_gloss": "indeed"
+},
+{
+"surface": "api",
+"quick_gloss": "also"
 }
 ]
 },
@@ -262,7 +286,7 @@
 "quick_gloss": "not"
 },
 {
-"surface": "guhyadharmam",
+"surface": "guhyadharmaṃ",
 "quick_gloss": "secret-dharma"
 },
 {
@@ -272,22 +296,6 @@
 {
 "surface": "pralikhenna",
 "quick_gloss": "write"
-},
-{
-"surface": "na",
-"quick_gloss": "not"
-},
-{
-"surface": "vadec",
-"quick_gloss": "speak"
-},
-{
-"surface": "śiṣyato",
-"quick_gloss": "to-disciple"
-},
-{
-"surface": "anyataḥ",
-"quick_gloss": "elsewhere"
 }
 ]
 },
@@ -299,12 +307,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "auttaragurvaktrābjavedyatvāt",
-"quick_gloss": "latter-guru-lotus-mouth-known"
+"surface": "auttaragurvaktrābjavedyatvād",
+"quick_gloss": "later-guru-mouth-lotus-known"
 },
 {
 "surface": "guhyadharmāṇām",
 "quick_gloss": "secret-dharmas"
+},
+{
+"surface": "vidhiḥ",
+"quick_gloss": "rule"
+},
+{
+"surface": "mārga",
+"quick_gloss": "path"
 }
 ]
 },
@@ -330,18 +346,6 @@
 {
 "surface": "raurava",
 "quick_gloss": "raurava"
-},
-{
-"surface": "naraka",
-"quick_gloss": "hell"
-},
-{
-"surface": "vrajedi",
-"quick_gloss": "goes"
-},
-{
-"surface": "iti",
-"quick_gloss": "iti"
 }
 ]
 },
@@ -353,36 +357,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "brahmahatyā",
-"quick_gloss": "brahmahatyā"
-},
-{
-"surface": "śata",
-"quick_gloss": "hundred"
+"surface": "brahmahatyāśata",
+"quick_gloss": "brahma-slaying-hundred"
 },
 {
 "surface": "tasya",
 "quick_gloss": "his"
 },
 {
-"surface": "yaḥ",
-"quick_gloss": "who"
-},
-{
-"surface": "vadec",
-"quick_gloss": "speaks"
+"surface": "yo",
+"quick_gloss": "who-speaks"
 },
 {
 "surface": "śiṣyato",
 "quick_gloss": "to-disciple"
-},
-{
-"surface": "anyata",
-"quick_gloss": "elsewhere"
-},
-{
-"surface": "iti",
-"quick_gloss": "iti"
 }
 ]
 },
@@ -398,24 +386,20 @@
 "quick_gloss": "therefore"
 },
 {
-"surface": "sūryasastambhanapravāhapravartanādi",
-"quick_gloss": "sun-stopping-flow-etc"
+"surface": "sūryasastambhanapravāha",
+"quick_gloss": "sun-stopping-flow"
 },
 {
 "surface": "siddhimān",
-"quick_gloss": "siddhi-possessor"
+"quick_gloss": "attainment"
 },
 {
 "surface": "eva",
-"quick_gloss": "eva"
+"quick_gloss": "indeed"
 },
 {
 "surface": "śiṣya",
 "quick_gloss": "disciple"
-},
-{
-"surface": "kurvīta",
-"quick_gloss": "make"
 }
 ]
 },
@@ -432,7 +416,7 @@
 },
 {
 "surface": "na",
-"quick_gloss": "na"
+"quick_gloss": "not"
 },
 {
 "surface": "śiṣyān",
@@ -443,24 +427,8 @@
 "quick_gloss": "make"
 },
 {
-"surface": "hi",
-"quick_gloss": "hi"
-},
-{
 "surface": "uttarācāramārgavān",
-"quick_gloss": "latter-path"
-},
-{
-"surface": "kasmiṃścit",
-"quick_gloss": "in-some"
-},
-{
-"surface": "kathaṃcit",
-"quick_gloss": "somehow"
-},
-{
-"surface": "kaṃcit",
-"quick_gloss": "someone"
+"quick_gloss": "later-path"
 }
 ]
 },
@@ -485,19 +453,11 @@
 },
 {
 "surface": "api",
-"quick_gloss": "api"
+"quick_gloss": "also"
 },
 {
-"surface": "tayor",
-"quick_gloss": "of-them"
-},
-{
-"surface": "adhikṛto",
-"quick_gloss": "authorized"
-},
-{
-"surface": "bhavati",
-"quick_gloss": "becomes"
+"surface": "tayoradhikṛto",
+"quick_gloss": "over-them"
 }
 ]
 },
@@ -510,7 +470,7 @@
 "tokens": [
 {
 "surface": "uttare",
-"quick_gloss": "latter"
+"quick_gloss": "later"
 },
 {
 "surface": "manuṣyeṣu",
@@ -526,7 +486,7 @@
 },
 {
 "surface": "kāryau",
-"quick_gloss": "should-be-made"
+"quick_gloss": "make"
 }
 ]
 },
@@ -543,27 +503,19 @@
 },
 {
 "surface": "sasiddhaya",
-"quick_gloss": "with-siddhi"
+"quick_gloss": "with-accomplishment"
 },
 {
-"surface": "yeṣṭha",
-"quick_gloss": "of-excellent"
+"surface": "jyeṣṭha",
+"quick_gloss": "elder"
 },
 {
 "surface": "eva",
-"quick_gloss": "eva"
+"quick_gloss": "indeed"
 },
 {
 "surface": "śiṣyaṃ",
 "quick_gloss": "disciple"
-},
-{
-"surface": "kartuṃ",
-"quick_gloss": "to-make"
-},
-{
-"surface": "samartha",
-"quick_gloss": "able"
 }
 ]
 },
@@ -575,20 +527,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "jyeṣṭha",
-"quick_gloss": "elder"
+"surface": "jyeṣṭhasasidhyabhāve",
+"quick_gloss": "elder-accomplishment-absence"
 },
 {
-"surface": "sasidhyabhāve",
-"quick_gloss": "siddhi-absence"
-},
-{
-"surface": "tad",
-"quick_gloss": "then"
-},
-{
-"surface": "anujñāta",
-"quick_gloss": "permitted"
+"surface": "tadanujñāta",
+"quick_gloss": "then-permitted"
 },
 {
 "surface": "kaniṣṭha",
@@ -596,15 +540,11 @@
 },
 {
 "surface": "siddha",
-"quick_gloss": "siddha"
+"quick_gloss": "accomplished"
 },
 {
 "surface": "śiṣyaṃ",
 "quick_gloss": "disciple"
-},
-{
-"surface": "kuryāt",
-"quick_gloss": "make"
 }
 ]
 },
@@ -616,16 +556,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "dīpa",
-"quick_gloss": "lamp"
-},
-{
-"surface": "śāṃti",
-"quick_gloss": "peace"
+"surface": "dīpaśāṃti",
+"quick_gloss": "lamp-peace"
 },
 {
 "surface": "na",
-"quick_gloss": "na"
+"quick_gloss": "not"
 },
 {
 "surface": "kurvīta",
@@ -638,10 +574,6 @@
 {
 "surface": "dharmaparāyaṇa",
 "quick_gloss": "dharma-devoted"
-},
-{
-"surface": "iti",
-"quick_gloss": "iti"
 }
 ]
 },
@@ -658,7 +590,7 @@
 },
 {
 "surface": "uttare",
-"quick_gloss": "latter"
+"quick_gloss": "later"
 },
 {
 "surface": "dakṣavāmavac",
@@ -683,7 +615,7 @@
 "tokens": [
 {
 "surface": "uttarācāramārgeṇa",
-"quick_gloss": "latter-path"
+"quick_gloss": "later-path"
 },
 {
 "surface": "parātmopāsanam",
@@ -695,7 +627,7 @@
 },
 {
 "surface": "unmattabhairavaḥ",
-"quick_gloss": "unmattabhairava"
+"quick_gloss": "unmatta-bhairava"
 }
 ]
 },
@@ -720,7 +652,7 @@
 },
 {
 "surface": "uttare",
-"quick_gloss": "latter"
+"quick_gloss": "later"
 }
 ]
 }
