@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p04-v76
-[from-guru-instruction](gurūpadeśataḥ) [do](kuryāj) [japa](japaṃ) [worship](pūjāmaharniśam)
+[guru+instruction-from](gurūpadeśataḥ) [should-do](kuryāj) [recitation](japaṃ) [worship+day-and-night](pūjāmaharniśam)
 
 ## mukta-m0-p04-v77
-[guru](gurumabhyarcya) [pray](saṃprārthya) [for-shakti-initiation](śaktidīkṣārthamīśvari)
+[guru](gurum) [having-worshipped](abhyarcya) [having-prayed](saṃprārthya) [śakti+initiation+for-the-sake-of](śaktidīkṣārtham) [O-goddess](īśvari)
 
 ## mukta-m0-p04-v78
-[for-births-millions](janmakoṭiṣu) [japed-even](japtāpi) [his](tasya) [vidya](vidyā) [not-succeeds](na sidhyati)
+[birth+in-crores](janmakoṭiṣu) [recited+even](japtāpi) [his](tasya) [mantra](vidyā) [not](na) [succeeds](sidhyati)
 
 ## mukta-m0-p04-v79
-[disciple](śiṣyastriyaṃ) [other-form](parārūpāṃ) [goddess-form](devīrūpāṃ) [contemplate](vicintayet)
+[disciple+woman](śiṣyastriyaṃ) [supreme+form](parārūpāṃ) [goddess+form](devīrūpāṃ) [should-contemplate](vicintayet)
 
 ## mukta-m0-p04-v80
-[with-respect](ādṛtya) [like-mother](mātṛvad) [goddess](devi) [like-maiden](kanyāvad) [initiate](dīkṣayet) [then](tadā)
+[respecting](ādṛtya) [like-mother](mātṛvad) [O-goddess](devi) [like-maiden](kanyāvad) [should-initiate](dīkṣayet) [then](tadā)
 
 ## mukta-m0-p04-v81
-[sitting](upaviśya) [guru](gurustatra) [west-facing](paścimābhimukhaḥ) [shiva](śive)
+[having-sat](upaviśya) [guru](gurus) [there](tatra) [west+facing](paścimābhimukhaḥ) [O-Śiva](śive)
 
 ## mukta-m0-p04-v82
-[then](tataḥ) [worship](saṃpūjya) [goddess-lord](deveśi) [yantra-front](yantrāgre) [deity-house](devatāgṛhe)
+[then](tataḥ) [having-worshipped](saṃpūjya) [O-lady-of-gods](deveśi) [yantra+in-front](yantrāgre) [deity+in-abode](devatāgṛhe)
 
 ## mukta-m0-p04-v83
-[obtaining](saṃprāpya) [with-shiva-vidya](saśivāṃ vidyāṃ) [guru](guruṃ) [like-father](pitṛvadarcayet)
+[having-obtained](saṃprāpya) [with-Śiva](saśivāṃ) [mantra](vidyāṃ) [guru](guruṃ) [like-father](pitṛvad) [should-worship](arcayet)
 
 ## mukta-m0-p04-v84
-[then-command](tadājñāṃ) [on-head-taking](śirasādāya) [japa](japaṃ) [do-always](kuryāttu sarvadā)
+[his+command](tadājñāṃ) [on-head](śirasā) [having-taken](ādāya) [recitation](japaṃ) [should-do](kuryāt) [indeed](tu) [always](sarvadā)
 
 ## mukta-m0-p04-v85
-[mortal-even](martyo'pi) [with-shiva](sañchive) [creature](janturamaratvamavāpnuyāt)
+[mortal+even](martyo'pi) [being-in-Śiva](sañchive) [creature](jantur) [immortality](amaratvam) [obtains](avāpnuyāt)
 
 ## mukta-m0-p04-v86
-[she-shyama](sa śyāmā) [she-shiva](sa śivā) [goddess](devi) [subject](vaśyaṃ) [his](tasya) [three-worlds](jagat trayam)
+[he](sa) [Śyāmā](śyāmā) [he](sa) [Śivā](śivā) [O-goddess](devi) [submissive](vaśyaṃ) [his](tasya) [world+triad](jagat) (trayam)
 
 ## mukta-m0-p04-v87
-[initiation-rite](dīkṣāvidhermahādevi) [to-be-hidden](gopanīyaṃ) [carefully](prayatnataḥ)
+[initiation+rite](dīkṣāvidher) [O-great-goddess](mahādevi) [to-be-concealed](gopanīyaṃ) [with-effort](prayatnataḥ)
 
 ## mukta-m0-p04-v88
-[goddesses](devīnāṃ) [vaishnava](vaiṣṇavāñchāktāñchaivāṃstvaṃ) [hear](śṛṇu) [parvati](pārvati)
+[of-goddesses](devīnāṃ) [of-Vaiṣṇavas](vaiṣṇavān) [of-Śāktas](śāktān) [of-Śaivas](chaivān) [you](tvaṃ) [hear](śṛṇu) [O-Pārvatī](pārvati)
 
 ## mukta-m0-p04-v89
-[kalika](kālikā) [bhadra-kali](bhadrakālī) [matangi](mātaṅgī) [world-lady](bhuvaneśvarī)
+[Kālikā](kālikā) [Bhadrakālī](bhadrakālī) [and](ca) [Mātaṅgī](mātaṅgī) [Bhuvaneśvarī](bhuvaneśvarī)
 
 ## mukta-m0-p04-v90
-[annapurna](annapūrṇā) [maha-lakshmi](mahālakṣmīḥ) [sharika](śārikā) [sharada](śāradā) [then](tataḥ)
+[Annapūrṇā](annapūrṇā) [Mahālakṣmī](mahālakṣmīḥ) [Śārikā](śārikā) [Śāradā](śāradā) [then](tataḥ)
 
 ## mukta-m0-p04-v91
-[bhida](bhīḍā) [and](ca) [kalaratri](kālarātriśca) [bhavani](bhavānī) [vajra-yogini](vajrayoginī)
+[Bhīḍā](bhīḍā) [and](ca) [Kālarātri](kālarātriś) [and](ca) [Bhavānī](bhavānī) [Vajrayoginī](vajrayoginī)
 
 ## mukta-m0-p04-v92
-[of-these](etāsāṃ) [goddess](devi) [with-limbs](sāṅgānāṃ) [shaktis](śaktīnāṃ) [i-speak](vacmyahaṃ) [mantras](manūn)
+[of-these](etāsāṃ) [O-goddess](devi) [with-limbs](sāṅgānāṃ) [of-powers](śaktīnāṃ) [declare](vacmy) [I](ahaṃ) [mantras](manūn)
 
 ## mukta-m0-p04-v93
-[mrityunjaya](mṛtyuñjayo'mṛteśāno) [vatuka](vaṭuko'pi) [maheshvara](maheśvaraḥ)
+[Mṛtyuñjaya](mṛtyuñjayo) [Amṛteśāna](amṛteśāno) [Vaṭuka](vaṭuko) [also](api) [Maheśvara](maheśvaraḥ)
 
 ## mukta-m0-p04-v94
-[vikarala](vikarālo) [nilakantha](nīlakaṇṭhaḥ) [sharva](śarvaḥ) [pashupati](paśupatirmṛḍaḥ)
+[Vikarāla](vikarālo) [Nīlakaṇṭha](nīlakaṇṭhaḥ) [Śarva](śarvaḥ) [Paśupati](paśupatir) [Mṛḍa](mṛḍaḥ)
 
 ## mukta-m0-p04-v95
-[kumara](kumāraḥ) [krodhana](krodhanaśceśaḥ) [kapali](kapālī) [cruel-bhairava](krūrabhairavaḥ)
+[Kumāra](kumāraḥ) [Krodhana](krodhanaś) [and](ca) [Īśa](īśaḥ) [Kapālī](kapālī) [Krūrabhairava](krūrabhairavaḥ)
 
 ## mukta-m0-p04-v96
-[aghora](aghoraśca) [maha-kala](mahākālaḥ) [kameshvara](kāmeśvara) [thus-remembered](iti smṛtaḥ)
+[Aghora](aghoraś) [and](ca) [Mahākāla](mahākālaḥ) [Kāmeśvara](kāmeśvara) [thus](iti) [remembered](smṛtaḥ)
 
 ## mukta-m0-p04-v97
-[by-whom](yena) [hearing-only](śravaṇamātreṇa) [mantri](mantrī) [vishnu-foot](viṣṇupadaṃ) [goes](vrajet)
+[by-whom](yena) [hearing+merely](śravaṇamātreṇa) [mantrin](mantrī) [Viṣṇu+abode](viṣṇupadaṃ) [goes](vrajet)
 
 ## mukta-m0-p04-v98
-[varaha](varāho) [jamadagnya](jāmadagnyaśca) [sita-rama](sītārāmo) [janardana](janārdanaḥ)
+[Varāha](varāho) [Jāmadagnya](jāmadagnyaś) [and](ca) [Sītārāma](sītārāmo) [Janārdana](janārdanaḥ)
 
 ## mukta-m0-p04-v99
-[mantras](mantrā) [most-excellent](atyuttamā) [goddess](devi) [to-be-chanted](japyāḥ) [by-best-sadhakas](sādhakasattamaiḥ)
+[mantras](mantrā) [most-excellent](atyuttamā) [O-goddess](devi) [to-be-recited](japyāḥ) [by-best-practitioners](sādhakasattamaiḥ)
 
 ## mukta-m0-p04-v100
-[extractions](uddhārān) [i-speak](vacmi) [of-mantras](mantrāṇāṃ) [having-heard](śrutvā) [hide](gopaya) [carefully](yatnataḥ)
+[extractions](uddhārān) [declare](vacmi) [of-mantras](mantrāṇāṃ) [having-heard](śrutvā) [conceal](gopaya) [with-effort](yatnataḥ)
