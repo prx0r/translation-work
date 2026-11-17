@@ -8,19 +8,19 @@
 [great](mahā)+[whirlpool](āvartā)
 
 ## mukta-m0-p84-v2078
-[in-the-end](ante) [unobstructed](asaṃbādham) [indeed](eva) [let-it-be](astu) [great](mahā)+[whirlpool](āvartā) [greatness](mahattva)+[giver](dā)
+[in-the-end](ante) [unconfined](asaṃbādham) [indeed](eva) [let-it-be](astu) [great](mahā)+[whirlpool](āvartā) [greatness](mahattva)+[giver](dā)
 
 ## mukta-m0-p84-v2079
-[intellect](buddhiḥ) [being](sat)+[non-being](asat)+[natured](ātmikā)
+[intellect](buddhiḥ) [existent](sat)+[non-existent](asat)+[natured](ātmikā)
 
 ## mukta-m0-p84-v2080
-[this](idam) [she](sā)+[I](aham) [self](svayaṃ)+[accomplished](siddhiḥ)+[intellect](buddhiḥ) [being](sat)+[non-being](asat)+[natured](ātmikā)
+[this](idam) [she](sā) [I](aham) [self](svayaṃ)+[accomplished](siddhiḥ) [intellect](buddhiḥ) [existent](sat)+[non-existent](asat)+[natured](ātmikā)
 
 ## mukta-m0-p84-v2081
-[great](mahā)+[seizure](graha)+[remover](harā)
+[great](mahā)+[seizer](graha)+[remover](harā)
 
 ## mukta-m0-p84-v2082
-[ever](kadāpi) [not](na) [seizure](āgrahaḥ) [of-whom](yasyāḥ) [great](mahā)+[seizure](graha)+[remover](harā) [is](asti) [she](sā)
+[ever](kadāpi) [not](na) [seizure](āgrahaḥ) [of-whom](yasyāḥ) [great](mahā)+[seizer](graha)+[remover](harā) [is](asti) [she](sā)
 
 ## mukta-m0-p84-v2083
 [gentle](saumyā)
@@ -44,7 +44,7 @@
 [sāttvic](sāttvikī)
 
 ## mukta-m0-p84-v2090
-[all](sarva)+[essence](sāta)+[rasa](kara)+[true](sat)+[thought](mat)+[course](kramaḥ) [in-the-heart](cetasi) [shines](sphurati) [of-whom](yasya) [sāttvic](sāttvikī)
+[all](sarva)+[essence](sāta)+[rasa](kara)+[true](sanmat)+[course](kramaḥ) [in-the-heart](cetasi) [shines](sphurati) [of-whom](yasya) [sāttvic](sāttvikī)
 
 ## mukta-m0-p84-v2091
 [sattva](sattva)+[abiding](saṃsthā)
@@ -56,13 +56,13 @@
 [rājasic](rājasī)
 
 ## mukta-m0-p84-v2094
-[venerability](pūjyatvam) [king](rāja)+[of-kings](rājānām) [rājasic](rājasī) [this](iyam) [may-she-give](dadātu) [to-us](naḥ)
+[venerability](pūjyatvam) [of-kings](rāja)+[of-kings](rājānām) [rājasic](rājasī) [this](iyam) [may-she-give](dadātu) [to-us](naḥ)
 
 ## mukta-m0-p84-v2095
 [rajas](rajaḥ)+[enveloped](vṛtā)
 
 ## mukta-m0-p84-v2096
-[moment](kṣaṇa)+[practiced](abhyastāt) [always](sadā) [she](sā) [also](api) [wondrously](citram) [by-her-own](svena) [rajas](rajaḥ)+[enveloped](vṛtā)
+[for-a-moment](kṣaṇābhyastāt) [always](sadā) [she](sā) [also](api) [wondrously](citram) [by-her-own](svena) [rajas](rajaḥ)+[enveloped](vṛtā)
 
 ## mukta-m0-p84-v2097
 [tāmasic](tāmasī)

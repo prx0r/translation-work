@@ -12,7 +12,15 @@
 },
 {
 "surface": "dā",
+"quick_gloss": "+"
+},
+{
+"surface": "dā",
 "quick_gloss": "giver"
+},
+{
+"surface": "tuṣṭidā",
+"quick_gloss": "satisfaction-giver"
 }
 ]
 },
@@ -37,11 +45,15 @@
 },
 {
 "surface": "astu",
-"quick_gloss": "may-be"
+"quick_gloss": "may-she-be"
 },
 {
 "surface": "tuṣṭi",
-"quick_gloss": "satisfaction"
+"quick_gloss": "satisfaction-giver"
+},
+{
+"surface": "dā",
+"quick_gloss": "+"
 },
 {
 "surface": "dā",
@@ -62,7 +74,15 @@
 },
 {
 "surface": "dā",
+"quick_gloss": "+"
+},
+{
+"surface": "dā",
 "quick_gloss": "giver"
+},
+{
+"surface": "puṣṭidā",
+"quick_gloss": "nourishment-giver"
 }
 ]
 },
@@ -103,7 +123,11 @@
 },
 {
 "surface": "puṣṭi",
-"quick_gloss": "nourishment"
+"quick_gloss": "nourishment-giver"
+},
+{
+"surface": "dā",
+"quick_gloss": "+"
 },
 {
 "surface": "dā",
@@ -121,6 +145,18 @@
 {
 "surface": "akṣayā",
 "quick_gloss": "imperishable"
+},
+{
+"surface": "akṣayā",
+"quick_gloss": "undecaying"
+},
+{
+"surface": "akṣayā",
+"quick_gloss": "eternal"
+},
+{
+"surface": "akṣayā",
+"quick_gloss": "imperishable-one"
 }
 ]
 },
@@ -149,7 +185,11 @@
 },
 {
 "surface": "sat",
-"quick_gloss": "true"
+"quick_gloss": "true-form"
+},
+{
+"surface": "rūpā",
+"quick_gloss": "+"
 },
 {
 "surface": "rūpā",
@@ -162,6 +202,10 @@
 {
 "surface": "cit",
 "quick_gloss": "consciousness"
+},
+{
+"surface": "akṣayā",
+"quick_gloss": "+"
 },
 {
 "surface": "akṣayā",
@@ -178,7 +222,19 @@
 "tokens": [
 {
 "surface": "niṣṭhā",
-"quick_gloss": "firm-abiding"
+"quick_gloss": "foundation"
+},
+{
+"surface": "niṣṭhā",
+"quick_gloss": "abode"
+},
+{
+"surface": "niṣṭhā",
+"quick_gloss": "culmination"
+},
+{
+"surface": "niṣṭhā",
+"quick_gloss": "steadfastness"
 }
 ]
 },
@@ -191,7 +247,7 @@
 "tokens": [
 {
 "surface": "niṣṭhā",
-"quick_gloss": "firm-abiding"
+"quick_gloss": "steadfastness"
 },
 {
 "surface": "kṛpāṃ",
@@ -228,7 +284,15 @@
 },
 {
 "surface": "priyā",
-"quick_gloss": "loving"
+"quick_gloss": "+"
+},
+{
+"surface": "priyā",
+"quick_gloss": "dear"
+},
+{
+"surface": "satyapriyā",
+"quick_gloss": "truth-loving"
 }
 ]
 },
@@ -241,11 +305,15 @@
 "tokens": [
 {
 "surface": "satya",
-"quick_gloss": "truth"
+"quick_gloss": "truth-loving"
 },
 {
 "surface": "priyā",
-"quick_gloss": "loving"
+"quick_gloss": "+"
+},
+{
+"surface": "priyā",
+"quick_gloss": "dear"
 },
 {
 "surface": "sā",
@@ -253,11 +321,11 @@
 },
 {
 "surface": "priyam",
-"quick_gloss": "affection"
+"quick_gloss": "beloved"
 },
 {
 "surface": "ātanotu",
-"quick_gloss": "may-extend"
+"quick_gloss": "may-spread"
 }
 ]
 },
@@ -271,6 +339,18 @@
 {
 "surface": "prajñā",
 "quick_gloss": "wisdom"
+},
+{
+"surface": "prajñā",
+"quick_gloss": "knowledge"
+},
+{
+"surface": "prajñā",
+"quick_gloss": "insight"
+},
+{
+"surface": "prajñā",
+"quick_gloss": "intelligence"
 }
 ]
 },
@@ -283,11 +363,11 @@
 "tokens": [
 {
 "surface": "tasya",
-"quick_gloss": "of-that"
+"quick_gloss": "of-him"
 },
 {
 "surface": "tasya",
-"quick_gloss": "of-that"
+"quick_gloss": "of-him"
 },
 {
 "surface": "kathaṃ",
@@ -328,7 +408,15 @@
 },
 {
 "surface": "īśī",
+"quick_gloss": "+"
+},
+{
+"surface": "īśī",
 "quick_gloss": "mistress"
+},
+{
+"surface": "lokeśī",
+"quick_gloss": "mistress-of-worlds"
 }
 ]
 },
@@ -341,7 +429,11 @@
 "tokens": [
 {
 "surface": "loka",
-"quick_gloss": "world"
+"quick_gloss": "mistress-of-worlds"
+},
+{
+"surface": "īśī",
+"quick_gloss": "+"
 },
 {
 "surface": "īśī",
@@ -354,6 +446,10 @@
 {
 "surface": "śoka",
 "quick_gloss": "sorrow"
+},
+{
+"surface": "hīnaṃ",
+"quick_gloss": "+"
 },
 {
 "surface": "hīnaṃ",
@@ -378,7 +474,15 @@
 },
 {
 "surface": "uttamā",
+"quick_gloss": "+"
+},
+{
+"surface": "uttamā",
 "quick_gloss": "supreme"
+},
+{
+"surface": "surottamā",
+"quick_gloss": "supreme-among-gods"
 }
 ]
 },
@@ -391,7 +495,11 @@
 "tokens": [
 {
 "surface": "sura",
-"quick_gloss": "gods"
+"quick_gloss": "supreme-among-gods"
+},
+{
+"surface": "uttamā",
+"quick_gloss": "+"
 },
 {
 "surface": "uttamā",
@@ -407,11 +515,19 @@
 },
 {
 "surface": "sarva",
-"quick_gloss": "all"
+"quick_gloss": "highest"
+},
+{
+"surface": "uttama",
+"quick_gloss": "+"
 },
 {
 "surface": "uttama",
 "quick_gloss": "supreme"
+},
+{
+"surface": "gatiṃ",
+"quick_gloss": "+"
 },
 {
 "surface": "gatiṃ",
@@ -431,6 +547,18 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
+"surface": "sa",
+"quick_gloss": "with-poison"
+},
+{
+"surface": "viṣā",
+"quick_gloss": "+"
+},
+{
+"surface": "viṣā",
+"quick_gloss": "poison"
+},
+{
 "surface": "saviṣā",
 "quick_gloss": "poisonous"
 }
@@ -444,12 +572,24 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "saviṣā",
+"surface": "sa",
 "quick_gloss": "poisonous"
 },
 {
+"surface": "viṣā",
+"quick_gloss": "+"
+},
+{
+"surface": "viṣā",
+"quick_gloss": "poison"
+},
+{
 "surface": "nāma",
-"quick_gloss": "name"
+"quick_gloss": "by-name"
+},
+{
+"surface": "mātreṇa",
+"quick_gloss": "+"
 },
 {
 "surface": "mātreṇa",
@@ -474,7 +614,19 @@
 "tokens": [
 {
 "surface": "jvālinī",
+"quick_gloss": "blazing"
+},
+{
+"surface": "jvālinī",
 "quick_gloss": "flaming"
+},
+{
+"surface": "jvālinī",
+"quick_gloss": "luminous"
+},
+{
+"surface": "jvālinī",
+"quick_gloss": "blazing-one"
 }
 ]
 },
@@ -491,11 +643,15 @@
 },
 {
 "surface": "jvālinī",
-"quick_gloss": "flaming"
+"quick_gloss": "blazing-one"
 },
 {
 "surface": "kāla",
 "quick_gloss": "time"
+},
+{
+"surface": "bhayaṃ",
+"quick_gloss": "+"
 },
 {
 "surface": "bhayaṃ",
@@ -521,6 +677,18 @@
 {
 "surface": "jvālā",
 "quick_gloss": "flame"
+},
+{
+"surface": "jvālā",
+"quick_gloss": "blaze"
+},
+{
+"surface": "jvālā",
+"quick_gloss": "fire"
+},
+{
+"surface": "jvālā",
+"quick_gloss": "flame-one"
 }
 ]
 },
@@ -561,6 +729,10 @@
 },
 {
 "surface": "dā",
+"quick_gloss": "+"
+},
+{
+"surface": "dā",
 "quick_gloss": "giver"
 },
 {
@@ -586,11 +758,23 @@
 },
 {
 "surface": "moha",
+"quick_gloss": "+"
+},
+{
+"surface": "moha",
 "quick_gloss": "delusion"
 },
 {
 "surface": "ārti",
-"quick_gloss": "affliction"
+"quick_gloss": "+"
+},
+{
+"surface": "ārti",
+"quick_gloss": "suffering"
+},
+{
+"surface": "nāśinī",
+"quick_gloss": "+"
 },
 {
 "surface": "nāśinī",
@@ -611,11 +795,19 @@
 },
 {
 "surface": "jit",
+"quick_gloss": "+"
+},
+{
+"surface": "jit",
 "quick_gloss": "conqueror"
 },
 {
 "surface": "paśu",
 "quick_gloss": "creatures"
+},
+{
+"surface": "paḥ",
+"quick_gloss": "+"
 },
 {
 "surface": "paḥ",
@@ -635,11 +827,23 @@
 },
 {
 "surface": "moha",
+"quick_gloss": "+"
+},
+{
+"surface": "moha",
 "quick_gloss": "delusion"
 },
 {
 "surface": "ārti",
-"quick_gloss": "affliction"
+"quick_gloss": "+"
+},
+{
+"surface": "ārti",
+"quick_gloss": "suffering"
+},
+{
+"surface": "nāśinī",
+"quick_gloss": "+"
 },
 {
 "surface": "nāśinī",
@@ -660,7 +864,19 @@
 },
 {
 "surface": "ariḥ",
+"quick_gloss": "+"
+},
+{
+"surface": "ariḥ",
 "quick_gloss": "enemy"
+},
+{
+"surface": "viṣāriḥ",
+"quick_gloss": "foe-of-poison"
+},
+{
+"surface": "viṣāriḥ",
+"quick_gloss": "antidote"
 }
 ]
 }
