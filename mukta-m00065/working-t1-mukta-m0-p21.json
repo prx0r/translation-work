@@ -8,11 +8,11 @@
 "tokens": [
 {
 "surface": "granthi",
-"quick_gloss": "knot"
+"quick_gloss": "knot-form"
 },
 {
 "surface": "rūpa",
-"quick_gloss": "form"
+"quick_gloss": "appearance"
 },
 {
 "surface": "unnata",
@@ -24,7 +24,7 @@
 },
 {
 "surface": "jaṭhara",
-"quick_gloss": "abdominal"
+"quick_gloss": "abdomen"
 },
 {
 "surface": "āmaya",
@@ -32,7 +32,7 @@
 },
 {
 "surface": "dāyaka",
-"quick_gloss": "giver"
+"quick_gloss": "giving"
 }
 ]
 },
@@ -45,15 +45,15 @@
 "tokens": [
 {
 "surface": "tuṣāraṃ",
-"quick_gloss": "hoar-frost"
+"quick_gloss": "frost"
 },
 {
 "surface": "tat",
 "quick_gloss": "that"
 },
 {
-"surface": "vijānīyāt",
-"quick_gloss": "should-know"
+"surface": "vijānīyā",
+"quick_gloss": "one-should-know"
 },
 {
 "surface": "putra",
@@ -61,7 +61,7 @@
 },
 {
 "surface": "śoka",
-"quick_gloss": "grief"
+"quick_gloss": "sorrow"
 },
 {
 "surface": "ārti",
@@ -69,7 +69,7 @@
 },
 {
 "surface": "dāyakam",
-"quick_gloss": "giver"
+"quick_gloss": "giving"
 }
 ]
 },
@@ -90,7 +90,7 @@
 },
 {
 "surface": "āmayaṃ",
-"quick_gloss": "flaw"
+"quick_gloss": "disease"
 },
 {
 "surface": "tāmra",
@@ -105,12 +105,8 @@
 "quick_gloss": "defective"
 },
 {
-"surface": "piṅgala",
-"quick_gloss": "tawny"
-},
-{
-"surface": "āmate",
-"quick_gloss": "opinion"
+"surface": "piṅgalāmate",
+"quick_gloss": "O-Piṅgalā"
 }
 ]
 },
@@ -134,7 +130,7 @@
 "quick_gloss": "iron"
 },
 {
-"surface": "krāntā",
+"surface": "ākrāntā",
 "quick_gloss": "overrun"
 },
 {
@@ -184,7 +180,7 @@
 },
 {
 "surface": "śoka",
-"quick_gloss": "grief"
+"quick_gloss": "sorrow"
 },
 {
 "surface": "bhaya",
@@ -196,7 +192,7 @@
 },
 {
 "surface": "daḥ",
-"quick_gloss": "giver"
+"quick_gloss": "giving"
 }
 ]
 },
@@ -254,7 +250,7 @@
 },
 {
 "surface": "rekhā",
-"quick_gloss": "line"
+"quick_gloss": "by-line"
 },
 {
 "surface": "anubiddhā",
@@ -266,7 +262,7 @@
 },
 {
 "surface": "pārthivaṃ",
-"quick_gloss": "earthly"
+"quick_gloss": "king"
 },
 {
 "surface": "sā",
@@ -274,7 +270,7 @@
 },
 {
 "surface": "vināśayet",
-"quick_gloss": "destroys"
+"quick_gloss": "would-destroy"
 }
 ]
 },
@@ -299,7 +295,7 @@
 },
 {
 "surface": "catuḥ",
-"quick_gloss": "four"
+"quick_gloss": "four-times"
 },
 {
 "surface": "chinnā",
@@ -307,7 +303,7 @@
 },
 {
 "surface": "bahu",
-"quick_gloss": "many"
+"quick_gloss": "many-times"
 },
 {
 "surface": "chinnā",
@@ -318,8 +314,12 @@
 "quick_gloss": "family"
 },
 {
-"surface": "antakṛt",
-"quick_gloss": "destroying"
+"surface": "anta",
+"quick_gloss": "destruction"
+},
+{
+"surface": "kṛt",
+"quick_gloss": "making"
 }
 ]
 },
@@ -351,12 +351,8 @@
 "quick_gloss": "leprosy"
 },
 {
-"surface": "su",
-"quick_gloss": "very"
-},
-{
-"surface": "dāruṇam",
-"quick_gloss": "terrible"
+"surface": "sudāruṇam",
+"quick_gloss": "very-terrible"
 }
 ]
 },
@@ -397,7 +393,7 @@
 },
 {
 "surface": "na",
-"quick_gloss": "not"
+"quick_gloss": "no"
 },
 {
 "surface": "saṃśayaḥ",
@@ -426,7 +422,11 @@
 },
 {
 "surface": "liṅgaṃ",
-"quick_gloss": "mark"
+"quick_gloss": "liṅga"
+},
+{
+"surface": "arthinā",
+"quick_gloss": "by-one-desiring"
 },
 {
 "surface": "nṛpa",
@@ -434,15 +434,11 @@
 },
 {
 "surface": "rāṣṭra",
-"quick_gloss": "realm"
+"quick_gloss": "kingdom"
 },
 {
 "surface": "prajā",
-"quick_gloss": "people"
-},
-{
-"surface": "arthinā",
-"quick_gloss": "desiring"
+"quick_gloss": "subjects"
 }
 ]
 },
@@ -463,27 +459,23 @@
 },
 {
 "surface": "āśritaḥ",
-"quick_gloss": "resting"
+"quick_gloss": "situated"
 },
 {
 "surface": "kiṃcit",
 "quick_gloss": "somewhat"
 },
 {
-"surface": "dhanya",
-"quick_gloss": "prosperity"
+"surface": "dhanyā",
+"quick_gloss": "auspicious"
 },
 {
 "surface": "rāṣṭraṃ",
-"quick_gloss": "realm"
+"quick_gloss": "kingdom"
 },
 {
-"surface": "sa",
-"quick_gloss": "with"
-},
-{
-"surface": "rājakam",
-"quick_gloss": "king"
+"surface": "sarājakam",
+"quick_gloss": "with-king"
 }
 ]
 },
@@ -500,7 +492,7 @@
 },
 {
 "surface": "varṇā",
-"quick_gloss": "colors"
+"quick_gloss": "colored"
 },
 {
 "surface": "bhṛśaṃ",
@@ -594,7 +586,7 @@
 },
 {
 "surface": "tyajet",
-"quick_gloss": "should-reject"
+"quick_gloss": "one-should-reject"
 },
 {
 "surface": "tām",
@@ -660,7 +652,7 @@
 },
 {
 "surface": "citi",
-"quick_gloss": "burial-ground"
+"quick_gloss": "funeral-ground"
 },
 {
 "surface": "utthā",
@@ -712,16 +704,12 @@
 "quick_gloss": "heated"
 },
 {
-"surface": "kad",
-"quick_gloss": "bad"
+"surface": "kaduttha",
+"quick_gloss": "bad-place"
 },
 {
-"surface": "utthā",
-"quick_gloss": "arisen"
-},
-{
-"surface": "methya",
-"quick_gloss": "urine"
+"surface": "āmethya",
+"quick_gloss": "urine-feces"
 },
 {
 "surface": "dūṣitā",
@@ -766,7 +754,7 @@
 },
 {
 "surface": "anya",
-"quick_gloss": "other"
+"quick_gloss": "for-other"
 },
 {
 "surface": "karmaṇi",
@@ -786,12 +774,12 @@
 "quick_gloss": "which"
 },
 {
-"surface": "yā",
-"quick_gloss": "which"
+"surface": "ca",
+"quick_gloss": "and"
 },
 {
 "surface": "upala",
-"quick_gloss": "stone"
+"quick_gloss": "to-stone"
 },
 {
 "surface": "anulagnā",
@@ -807,7 +795,7 @@
 },
 {
 "surface": "vicchitti",
-"quick_gloss": "cutting"
+"quick_gloss": "interruption"
 },
 {
 "surface": "kārikāḥ",
@@ -824,7 +812,7 @@
 "tokens": [
 {
 "surface": "ūṣara",
-"quick_gloss": "saline-ground"
+"quick_gloss": "in-saline-soil"
 },
 {
 "surface": "sthā",
@@ -836,7 +824,7 @@
 },
 {
 "surface": "hṛt",
-"quick_gloss": "destroying"
+"quick_gloss": "taking"
 },
 {
 "surface": "jñeyā",
@@ -844,7 +832,7 @@
 },
 {
 "surface": "citi",
-"quick_gloss": "burial-ground"
+"quick_gloss": "on-funeral-pyre"
 },
 {
 "surface": "sthā",
@@ -868,16 +856,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "pāṣa",
-"quick_gloss": "side"
-},
-{
-"surface": "dā",
-"quick_gloss": "given"
+"surface": "pāṣaṇḍa",
+"quick_gloss": "impure"
 },
 {
 "surface": "apuṇya",
-"quick_gloss": "impure"
+"quick_gloss": "sinful"
 },
 {
 "surface": "deśa",
@@ -897,7 +881,7 @@
 },
 {
 "surface": "bhilla",
-"quick_gloss": "tribal"
+"quick_gloss": "by-Bhillas"
 },
 {
 "surface": "sevitā",
@@ -926,7 +910,7 @@
 },
 {
 "surface": "śokaṃ",
-"quick_gloss": "grief"
+"quick_gloss": "sorrow"
 },
 {
 "surface": "ca",
@@ -1016,7 +1000,7 @@
 },
 {
 "surface": "rājñaḥ",
-"quick_gloss": "of-king"
+"quick_gloss": "to-king"
 },
 {
 "surface": "anala",
