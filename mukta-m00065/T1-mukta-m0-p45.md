@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p45-v1101
-[reddish-eyed](piṅgākṣī) [imperishable-eyed](cākṣayākṣapā) [earth](ilā) [play](līlā) [dissolution](layā) [thus](tathā)
+[piṅgākṣī](piṅgākṣī) [cākṣayākṣapā](cākṣayākṣapā) [ilā](ilā) [līlā](līlā) [layā](layā) [tathā](tathā)
 
 ## mukta-m0-p45-v1102
-[fire-mouthed](hutāśā) [wide-eyed](viśālākṣī) [hum-sound](huṅkārā) [mare-mouthed](vaḍavāmukhī)
+[hutāśā](hutāśā) [ca](ca) [viśālākṣī](viśālākṣī) [huṅkārā](huṅkārā) [vaḍavāmukhī](vaḍavāmukhī)
 
 ## mukta-m0-p45-v1103
-[all-knowing](sarbajñā) [trembling](taralā) [star](tārā) [rig-veda](ṛgvedā) [horse-faced](tu) [hayānanā]
+[sarbajñā](sarbajñā) [taralā](taralā) [tārā](tārā) [ṛgvedā](ṛgvedā) [tu](tu) [hayānanā](hayānanā)
 
 ## mukta-m0-p45-v1104
-[red-eyed](raktākṣī) [well-known](suprasiddhā) [thus](tu) [long-tongued](vidmujjihvā) [skull-bearing](karaṅkiṇī)
+[raktākṣī](raktākṣī) [suprasiddhā](suprasiddhā) [tu](tu) [vidmujjihvā](vidmujjihvā) [karaṅkiṇī](karaṅkiṇī)
 
 ## mukta-m0-p45-v1105
-[moon](candrā) [moon-garlanded](candravalī) [indeed](caiva) [manifold](prapañcā) [end-of-dissolution](pralayāntikā)
+[candrā](candrā) [candravalī](candravalī) [caiva](caiva) [prapañcā](prapañcā) [pralayāntikā](pralayāntikā)
 
 ## mukta-m0-p45-v1106
-[restraining](yamanī) [heating](tapanī) [indeed](caiva) [dwarf](vāmanī) [distorted-faced](vikṛtānanā)
+[yamanī](yamanī) [tapanī](tapanī) [caiva](caiva) [vāmanī](vāmanī) [vikṛtānanā](vikṛtānanā)
 
 ## mukta-m0-p45-v1107
-[yama-tongued](yamajihvā) [victorious](jayantī) [indeed](ca) [hard-to-conquer](durjayā) [ca](ca) [yama-end](yamāntikā)
+[yamajihvā](yamajihvā) [jayantī](jayantī) [ca](ca) [durjayā](durjayā) [ca](ca) [yamāntikā](yamāntikā)
 
 ## mukta-m0-p45-v1108
-[four-and-sixty](catuḥ) [these](ṣaṣṭiriyaṃ) [goddess](devyā) [form-differences](mūrtibhedā) [are-declared](nigadyate)
+[catuḥ](catuḥ) [ṣaṣṭiriyaṃ](ṣaṣṭiriyaṃ) [devyā](devyā) [mūrtibhedā](mūrtibhedā) [nigadyate](nigadyate)
 
 ## mukta-m0-p45-v1109
-[golden-hued](hemābhā) [ornament-rich](bhūṣaṇāḍhyā) [may-be](syādakṣobhyā) [elephant-seated](karisaṃsthitā)
+[hemābhā](hemābhā) [bhūṣaṇāḍhyā](bhūṣaṇāḍhyā) [syādakṣobhyā](syādakṣobhyā) [karisaṃsthitā](karisaṃsthitā)
 
 ## mukta-m0-p45-v1110
-[bow](dhanuḥ) [skull-bearing](kapābhṛtsaumye) [moon-seated](ṝkṣasthā) [threatening-fingered](tarjanīyutā)
+[dhanuḥ](dhanuḥ) [kapābhṛtsaumye](kapābhṛtsaumye) [ṝkṣasthā](ṝkṣasthā) [tarjanīyutā](tarjanīyutā)
 
 ## mukta-m0-p45-v1111
-[corpse-seated](pretasthā) [raghasi](rāghasī) [gauri](gaurī) [half-sword-bearing](kārdhakatarikānvitā)
+[pretasthā](pretasthā) [rāghasī](rāghasī) [gaurī](gaurī) [kārdhakatarikānvitā](kārdhakatarikānvitā)
 
 ## mukta-m0-p45-v1112
-[skull](kapālaṃ) [fruit](ca) [gentle](phalaṃ) [saumye](saumye) [holds](dhatte) [hunchback-seated](kubjanṛsaṃsthitā)
+[kapālaṃ](kapālaṃ) [ca](ca) [phalaṃ](phalaṃ) [saumye](saumye) [dhatte](dhatte) [kubjanṛsaṃsthitā](kubjanṛsaṃsthitā)
 
 ## mukta-m0-p45-v1113
-[left](vāme) [skull-pitcher](kapālapicchī) [bearing-all-ornaments](bhṛtsarvālaṅkāramaṇḍitā)
+[vāme](vāme) [kapālapicchī](kapālapicchī) [bhṛtsarvālaṅkāramaṇḍitā](bhṛtsarvālaṅkāramaṇḍitā)
 
 ## mukta-m0-p45-v1114
-[silk-noose-bearing](kauśeyapāśabhṛdyāmye) [left](vāme) [goad-shield-bearing](cāṅkuśakheṭinī)
+[kauśeyapāśabhṛdyāmye](kauśeyapāśabhṛdyāmye) [vāme](vāme) [cāṅkuśakheṭinī](cāṅkuśakheṭinī)
 
 ## mukta-m0-p45-v1115
-[axe-thunderbolt-bearing](kuṭhārāśanibhṛdyāmye) [gentle](saumye) [noose-goad-endowed](pāśāṅkuśānvitā)
+[kuṭhārāśanibhṛdyāmye](kuṭhārāśanibhṛdyāmye) [saumye](saumye) [pāśāṅkuśānvitā](pāśāṅkuśānvitā)
 
 ## mukta-m0-p45-v1116
-[right](yāmye) [drum-trident-arrow-head-handed](ḍamaruśūleṣumastahastākṣapā) [esteemed](matā)
+[yāmye](yāmye) [ḍamaruśūleṣumastahastākṣapā](ḍamaruśūleṣumastahastākṣapā) [matā](matā)
 
 ## mukta-m0-p45-v1117
-[red](raktā) [outside-standing](bahirsthitā) [tvila](tvīlā) [playing](krīḍantī) [with-fires](dahanaiḥ) [with](saha)
+[raktā](raktā) [bahirsthitā](bahirsthitā) [tvīlā](tvīlā) [krīḍantī](krīḍantī) [dahanaiḥ](dahanaiḥ) [saha](saha)
 
 ## mukta-m0-p45-v1118
-[bearing](bibhrāṇā) [halberd](paṭṭiśaṃ) [noose](pāśaṃ) [left](vāme) [half-skull-lotus](mastārdhamambujam)
+[bibhrāṇā](bibhrāṇā) [paṭṭiśaṃ](paṭṭiśaṃ) [pāśaṃ](pāśaṃ) [vāme](vāme) [mastārdhamambujam](mastārdhamambujam)
 
 ## mukta-m0-p45-v1119
-[knife-half-bearing](kartarīkārdhabhṛdvāme) [threatening-finger-drawn-sickle](tarjanyākṛṣṭasṛkkikā)
+[kartarīkārdhabhṛdvāme](kartarīkārdhabhṛdvāme) [tarjanyākṛṣṭasṛkkikā](tarjanyākṛṣṭasṛkkikā)
 
 ## mukta-m0-p45-v1120
-[trident](śūlaṃ) [with-ruru](ruruyutaṃ) [by-two](dvābhyāṃ) [holds](dhatte) [lolā](lolā) [sūsārase](sūsārase)
+[śūlaṃ](śūlaṃ) [ruruyutaṃ](ruruyutaṃ) [dvābhyāṃ](dvābhyāṃ) [dhatte](dhatte) [lolā](lolā) [sūsārase](sūsārase)
 
 ## mukta-m0-p45-v1121
-[laṅkeśa-thigh-seated](laṅkeśorusthitā) [laṅkā](laṅkā) [eating](carvantīṃ) [flesh](piśitaṃ) [thick](ghanam)
+[laṅkeśorusthitā](laṅkeśorusthitā) [laṅkā](laṅkā) [carvantīṃ](carvantīṃ) [piśitaṃ](piśitaṃ) [ghanam](ghanam)
 
 ## mukta-m0-p45-v1122
-[red](śoṇā) [laṅkeśvarī](laṅkeśvarī) [in-kunda](kuṇḍe) [upward-haired](ūrdhvabālāṃ) [ca](ca) [bearing](bibhratī)
+[śoṇā](śoṇā) [laṅkeśvarī](laṅkeśvarī) [kuṇḍe](kuṇḍe) [ūrdhvabālāṃ](ūrdhvabālāṃ) [ca](ca) [bibhratī](bibhratī)
 
 ## mukta-m0-p45-v1123
-[bearing](bibhrāṇā) [kolaga](kolagā) [red](raktā) [saliva-blood-saliva](lālāsṛglālāsā) [esteemed](matā)
+[bibhrāṇā](bibhrāṇā) [kolagā](kolagā) [raktā](raktā) [lālāsṛglālāsā](lālāsṛglālāsā) [matā](matā)
 
 ## mukta-m0-p45-v1124
-[knife-pot-bearing](kartarīkumbhabhṛdyāmye) [gentle](saumye) [noose-skull-bearing](pāśakapālinī)
+[kartarīkumbhabhṛdyāme](kartarīkumbhabhṛdyāme) [saumye](saumye) [pāśakapālinī](pāśakapālinī)
 
 ## mukta-m0-p45-v1125
-[left](vāme) [fearless-handed](cābhayahastā) [syād](syād) [viṣṭara-kingdom-pot-endowed](viṣṭarājyaghaṭānvitā)
+[vāme](vāme) [cābhayahastā](cābhayahastā) [syādviṣṭarājyaghaṭānvitā](syādviṣṭarājyaghaṭānvitā)

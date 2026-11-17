@@ -2,46 +2,46 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p02-v26
-[middle](madhyā) [radiance](*?bhā-])
+[middle](madhyā) [?](?bhā-)
 
 ## mukta-m0-p02-v27
-[moving](vartamāno) [outside](bahirbhūyād) [with-many-excellent-qualities](bahurullasitairguṇaiḥ) [kh: many-?] (bahuru *?-)
+[being](vartamāno) [outside](bahirbhūyād) [with-many-excellent-qualities](bahurullasitairguṇaiḥ)
 
 ## mukta-m0-p02-v28
-[qualities](guṇāḥ) [become-manifest](prakāśatāṃ) [kh: become-evident](prakaṭatāṃ) [śiva](śivo) [by-whom-inferred](yairanumīyate)
+[qualities](guṇāḥ) [become-manifest](prakāśatāṃ) [by-whom-inferred](yairanumīyate) [śiva](śivo)
 
 ## mukta-m0-p02-v29
-[even](api) [of-treacherous](drohakṛtāṃ) [mind](cittaṃ) [in-an-instant](kṣaṇādeva) [trembles](prakaṃpate)
+[even](api) [of-treacherous](drohakṛtāṃ) [mind](cittaṃ) [in-a-moment](kṣaṇādeva) [trembles](prakaṃpate)
 
 ## mukta-m0-p02-v30
-[even-in-abundance](bahulatve'pi) [of-age](vayasastāruṇyaṃ) [youth](tāruṇyaṃ) [attains](pratipadyate)
+[even-in-abundance](bahulatve'pi) [of-age](vayasastāruṇyaṃ) [attains](pratipadyate) [youth](tāruṇyaṃ)
 
 ## mukta-m0-p02-v31
-[unfailing-everywhere](sarvatrāskhalitaṃ) [going](yānamiṃdriyāṇāmarogatā) [of-senses](indriyāṇām) [health](arogatā)
+[everywhere](sarvatrāskhalitaṃ) [going](yānamiṃdriyāṇāmarogatā) [of-senses](iṃdriyāṇām) [health](arogatā)
 
 ## mukta-m0-p02-v32
-[dwelling-place](nivāsabhūtaṃ) [of-devotee](bhaktasya) [limb](gātraṃ) [good-field](sukṣetram) [is-called](ucyate)
+[dwelling-place](nivāsabhūtaṃ) [of-devotee](bhaktasya) [limb](gātraṃ) [good-field](sukṣetramucyate)
 
 ## mukta-m0-p02-v33
-[those](tāḥ) [subtle-subtle-form](sūkṣmasūkṣmākāreṇa) [in-devotee's-body](bhaktadehe) [kh: -ha](bhaktadeha) [are-situated](vyavasthitāḥ)
+[those](tāḥ) [subtle-subtle-form](sūkṣmasūkṣmākāreṇa) [in-devotee-body](bhaktadehe) [situated](vyavasthitāḥ)
 
 ## mukta-m0-p02-v34
-[sutala](sutalaṃ) [at-knees](jānusīmasthaṃ) [in-calf](jaṃghāyāṃ) [tu](tu) [talātala](talātalam)
+[sutala](sutalaṃ) [knee-placed](jānusīmasthaṃ) [in-calf](jaṃghāyāṃ) [tu](tu) [talātala](talātalam)
 
 ## mukta-m0-p02-v35
-[in-feet](pādayostu) [sole](tale) [is-said](proktā) [mahāpātāla-named](mahāpātālasaṃjñikaḥ) [kh: -kam](mahāpātālasaṃjñikam)
+[in-feet](pādayostu) [sole](tale) [said](proktā) [mahāpātāla-named](mahāpātālasaṃjñikaḥ)
 
 ## mukta-m0-p02-v36
-[in-maṇipūra](maṇipūre) [svarga-world](suvarlokaḥ) [kh: -ko](suvarloko) [maharloka](maharlokastvanāhate) [in-anāhata](anāhate)
+[in-maṇipūra](maṇipūre) [svarga-world](suvarlokaḥ) [maharloka](maharlokastvanāhate) [anāhata](anāhate)
 
 ## mukta-m0-p02-v37
-[iḍā-nāḍī](iḍānāḍī) [kh: -ḍi](iḍānāḍi) [becomes](bhaved) [gaṅgā](gaṃgā) [yamunā](yamunā) [piṅgalā](piṅgalā) [kh: pigalā](pigalā) [thus](tathā)
+[iḍā-nāḍī](iḍānāḍī) [becomes](bhaved) [gaṅgā](gaṃgā) [yamunā](yamunā) [piṅgalā](piṅgalā) [thus](tathā)
 
 ## mukta-m0-p02-v38
-[all](sarvāṇyapi) [also](ca) [pilgrimage-sites](tīrthāni) [mātṛkā-places](mātṛkāsthānagāṇi) [kh: gāni](mātṛkāsthānagāni) [tu](tu)
+[all](sarvāṇyapi) [also](ca) [tīrthas](tīrthāni) [mātṛkā-places](mātṛkāsthānagāṇi) [tu](tu)
 
 ## mukta-m0-p02-v39
-[$$$](badaryāśramamuṣṇāṃbu) [hot-water](uṣṇāṃbu) [cold-water](śītāṃbu) [girikā-forest](girikāvanam)
+[badarī-āśrama](badaryāśramamuṣṇāṃbu) [hot-water](muṣṇāṃbu) [cold-water](śītāṃbu) [girikā-forest](girikāvanam)
 
 ## mukta-m0-p02-v40
 [fields](kṣetrāṇi) [all](sarvāṇyapi) [ca](ca) [seats](piṭhāni) [various](vividhāni) [ca](ca)
@@ -50,28 +50,28 @@
 [of-devotee](bhaktasya) [mātṛkā](mātṛkā) [places](sthānānya) [impurities](malānya) [enter](viśerate)
 
 ## mukta-m0-p02-v42
-[there-is-fifteen-world](astipaṃcadaśāloka) [bliss-formed](ānaṃdamaya) [body](vigrahaḥ)
+[there-is-fifteen-loka](astipaṃcadaśāloka) [bliss-bodied](ānaṃdamaya) [form](vigrahaḥ)
 
 ## mukta-m0-p02-v43
-[always-ornamented](sadāśṛṃgāra) [saṃpannaḥ](saṃpannaḥ) [always](sadā) [enjoyment-devoted](bhoga parāyaṇaḥ)
+[always-śṛṅgāra](sadāśṛṃgāra) [endowed](saṃpannaḥ) [always](sadā) [enjoyment-devoted](bhoga+parāyaṇaḥ)
 
 ## mukta-m0-p02-v44
-[there](tatrānaṃda) [mahāloka](mahāloke) [supreme-nectar-form-bearing](paramāmṛtarūpadhṛk)
+[there](tatrānaṃda) [bliss-great-loka](mahāloke) [supreme-nectar-form](paramāmṛtarūpadhṛk)
 
 ## mukta-m0-p02-v45
-[riṃkha-wave-movement](riṃkhattaraṃga saṃcāra) [kh: -raḥ](riṃkhattaraṃgasaṃcāraḥ) [pervading-directions](samākrāṃtadigaṃtaraḥ)
+[riṃkha-wave-movement](riṃkhattaraṃga+saṃcāra) [pervading-directions](samākrāṃtadigaṃtaraḥ)
 
 ## mukta-m0-p02-v46
 [extremely-pure-white](atyaṃtanirmalasitaḥ) [bliss-form](sukharūpaḥ) [bliss-giving](sukhapradaḥ)
 
 ## mukta-m0-p02-v47
-[bliss-bhairava](ānaṃda bhairavo) [devo](devo) [world-bliss-giving](jagadānaṃdadāyakaḥ)
+[bliss-bhairava](ānaṃda+bhairavo) [god](devo) [world-bliss-giving](jagadānaṃdadāyakaḥ)
 
 ## mukta-m0-p02-v48
-[bliss-form-attained](ānaṃdarūpatāṃ prāpto) [liṅga-formed](liṃgarūpī) [maheśvara](maheśvaraḥ)
+[bliss-form-attained](ānaṃdarūpatāṃ+prāpto) [liṅga-formed](liṃgarūpī) [maheśvara](maheśvaraḥ)
 
 ## mukta-m0-p02-v49
-[therefore](tasmād) [devotee's-body](bhakta vapurnaiva) [not](naiva) [to-be-blamed](nindanīyaṃ) [kh: nidaniyyaṃ?](nidaniyyaṃ?) [by-inert-souls](jaḍātmabhiḥ)
+[therefore](tasmād) [devotee-body](bhakta+vapurnaiva) [not-to-be-blamed](nindanīyaṃ) [by-inert-souls](jaḍātmabhiḥ)
 
 ## mukta-m0-p02-v50
-[who](yo) [blames](niṃdati) [śiva's-place](śivasthānaṃ) [he-with-veda](sahavedā) [foot-by-foot](padāṃ padam)
+[who-blames](yo+niṃdati) [śiva-place](śivasthānaṃ) [with-veda](sahavedā) [step-by-step](padāṃ+padam)
