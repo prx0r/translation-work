@@ -41,11 +41,11 @@
 },
 {
 "surface": "dvitīya+pātasya",
-"quick_gloss": "of-second+vessel"
+"quick_gloss": "of-second+section"
 },
 {
 "surface": "maṃtra+sat",
-"quick_gloss": "mantra+sat"
+"quick_gloss": "mantra+called"
 },
 {
 "surface": "nāma",
@@ -116,7 +116,7 @@
 "tokens": [
 {
 "surface": "viśva+kṣati",
-"quick_gloss": "universe+decay"
+"quick_gloss": "world+decay"
 },
 {
 "surface": "ca",
@@ -185,7 +185,7 @@
 },
 {
 "surface": "kūjitam",
-"quick_gloss": "cooing"
+"quick_gloss": "murmuring"
 }
 ]
 },
@@ -218,7 +218,7 @@
 },
 {
 "surface": "ka",
-"quick_gloss": "any"
+"quick_gloss": "what"
 },
 {
 "surface": "ca",
@@ -247,15 +247,19 @@
 },
 {
 "surface": "kala+kvāṇaḥ",
-"quick_gloss": "soft+sound"
+"quick_gloss": "indistinct-sound"
 },
 {
 "surface": "na",
 "quick_gloss": "not"
 },
 {
-"surface": "līlā+saṃgama+bhaṃgayaḥ",
-"quick_gloss": "sport+union+breaking"
+"surface": "līlā+saṃgama",
+"quick_gloss": "sport+union"
+},
+{
+"surface": "bhaṃgayaḥ",
+"quick_gloss": "breaking"
 }
 ]
 },
@@ -279,7 +283,7 @@
 "quick_gloss": "trembling"
 },
 {
-"surface": "paraparāyate",
+"surface": "para+parāyate",
 "quick_gloss": "to-supreme-state"
 }
 ]
@@ -292,8 +296,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "eka+aṣṭaka+mahā+yāga",
-"quick_gloss": "one+eight+great+sacrifice"
+"surface": "eka+aṣṭaka",
+"quick_gloss": "one+eight"
+},
+{
+"surface": "mahā+yāga",
+"quick_gloss": "great+sacrifice"
 },
 {
 "surface": "pakṣe",
@@ -305,7 +313,7 @@
 },
 {
 "surface": "samutsṛjet",
-"quick_gloss": "should-emit"
+"quick_gloss": "one-should-emit"
 }
 ]
 },
@@ -317,8 +325,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "aṣṭa+aṣṭaka+mahā+yāge",
-"quick_gloss": "eight+eight+great+sacrifice"
+"surface": "aṣṭa+aṣṭaka",
+"quick_gloss": "eight+eight"
+},
+{
+"surface": "mahā+yāge",
+"quick_gloss": "in-great-sacrifice"
 },
 {
 "surface": "dūtī+aṣṭakam",
@@ -366,7 +378,7 @@
 "quick_gloss": "of-śambhu"
 },
 {
-"surface": "ekatayā",
+"surface": "eka+tayā",
 "quick_gloss": "in-oneness"
 },
 {
@@ -399,16 +411,12 @@
 "quick_gloss": "this"
 },
 {
-"surface": "kathitaḥ",
-"quick_gloss": "told"
-},
-{
-"surface": "te",
-"quick_gloss": "to-you"
+"surface": "kathitaḥ+te",
+"quick_gloss": "told+to-you"
 },
 {
 "surface": "mahā+īśvari",
-"quick_gloss": "o-great-goddess"
+"quick_gloss": "O-great-goddess"
 }
 ]
 },
@@ -458,7 +466,7 @@
 },
 {
 "surface": "deva+īśa",
-"quick_gloss": "o-lord-of-gods"
+"quick_gloss": "O-lord-of-gods"
 },
 {
 "surface": "yāga+anantara+jaṃ",
@@ -479,15 +487,15 @@
 "tokens": [
 {
 "surface": "śṛṇu",
-"quick_gloss": "hear"
+"quick_gloss": "listen"
 },
 {
 "surface": "devi",
-"quick_gloss": "o-goddess"
+"quick_gloss": "O-goddess"
 },
 {
 "surface": "mahā+bhāge",
-"quick_gloss": "o-greatly-fortunate-one"
+"quick_gloss": "O-greatly-fortunate-one"
 },
 {
 "surface": "yat",
@@ -498,7 +506,7 @@
 "quick_gloss": "me"
 },
 {
-"surface": "tvaṃ",
+"surface": "tvam",
 "quick_gloss": "you"
 },
 {
@@ -519,12 +527,8 @@
 "quick_gloss": "hero"
 },
 {
-"surface": "sucira",
-"quick_gloss": "for-long-time"
-},
-{
-"surface": "nṛttena",
-"quick_gloss": "by-dancing"
+"surface": "su+cira+nṛttena",
+"quick_gloss": "by-long+dancing"
 },
 {
 "surface": "śrāṃta+liṃga+mahā+īśvaraḥ",
@@ -570,7 +574,7 @@
 "tokens": [
 {
 "surface": "ānaṃda+nāthasya",
-"quick_gloss": "of-ānandanātha"
+"quick_gloss": "of-bliss-lord"
 },
 {
 "surface": "manuṃ",
@@ -632,7 +636,7 @@
 },
 {
 "surface": "kārikāḥ",
-"quick_gloss": "kārikās"
+"quick_gloss": "verses"
 },
 {
 "surface": "prapaṭhan",
@@ -640,7 +644,7 @@
 },
 {
 "surface": "kiret",
-"quick_gloss": "should-pour"
+"quick_gloss": "should-scatter"
 }
 ]
 },
@@ -661,7 +665,7 @@
 },
 {
 "surface": "śukla+śoṇita+biṃdubhiḥ",
-"quick_gloss": "white+red+drops"
+"quick_gloss": "white+red+drop"
 }
 ]
 },
@@ -682,7 +686,7 @@
 },
 {
 "surface": "śukla+śoṇita+biṃdubhiḥ",
-"quick_gloss": "white+red+drops"
+"quick_gloss": "white+red+drop"
 }
 ]
 },
@@ -703,7 +707,7 @@
 },
 {
 "surface": "śukla+śoṇita+biṃdubhiḥ",
-"quick_gloss": "white+red+drops"
+"quick_gloss": "white+red+drop"
 }
 ]
 },
@@ -724,7 +728,7 @@
 },
 {
 "surface": "śukla+śoṇita+biṃdubhiḥ",
-"quick_gloss": "white+red+drops"
+"quick_gloss": "white+red+drop"
 }
 ]
 }
