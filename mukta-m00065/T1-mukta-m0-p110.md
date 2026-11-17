@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p110-v2726
-[from-these](etebhyaḥ) [eighteen](aṣṭādaśa) [others](anye) [should-be](syuḥ) [beginning-with-uttama](uttama+ādyāḥ) [but](tu) [I-say](vacmi) [them](tān)
+[pada](etebhyo'ṣṭādaśānye) [pada](syuruttamādyāstu) [pada]([gh:) [pada](dyāṃśca]) [pada](vacmi) [pada](tān)
 
 ## mukta-m0-p110-v2727
-[gauḍas](gauḍāḥ) [thus](iti) [and](ca) [sixfold](ṣoḍhā) [these](ete) [temples](prāsādāḥ) [and](ca) [with-lines](sa+rekhakāḥ)
+[pada](gauḍā) [pada](iti) [pada](ca) [pada](ṣoḍhaite) [pada](prāsādāśca) [pada](sarekhakāḥ)
 
 ## mukta-m0-p110-v2728
-[gāndhāra](gāndhāraḥ) [and](ca) [earth-born](bhauma+jaḥ) [and](ca) [also](api) [temples](prāsādāḥ) [six](ṣaṭ) [remembered](smṛtāḥ) [but](tu) [these](ime)
+[pada](gāndhāro) [pada](bhaumajaścāpi) [pada](prāsādāḥ) [pada](ṣaṭ) [pada](smṛtāstvime)
 
 ## mukta-m0-p110-v2729
-[of-unmanifest-manifest-mixed](avyakta+vyakta+miśrāṇām) [of-liṅgas](liṅgāṇām) [should-be](syāt) [in-order](kramāt) [abode](gṛham)
+[pada](avyaktavyaktamiśrāṇāṃ) [pada](liṅgāṇāṃ) [pada](syātkramādgṛham)
 
 ## mukta-m0-p110-v2730
-[mānikam](mānikam)
+[pada](mānikam])
 
 ## mukta-m0-p110-v2731
-[with-uttama-etc-measures](uttama+ādi+karaiḥ) [and](ca) [should-be](syāt) [of-each-one](ekaikasya) [threefold](tridhā) [course](gatiḥ)
+[pada](uttamādikaraiśca) [pada](syādekaikasya) [pada](tridhā) [pada](gatiḥ)
 
 ## mukta-m0-p110-v2732
-[consisting-of-inferior-measure](hīna+pravi+ātmakaṃ) [not](na) [desired](iṣṭam) [harsh](krūram) [in-excess-measure](māna+adhike) [situated](sthitam)
+[pada](hīnapravyātmakaṃ) [pada](neṣṭaṃ) [pada](krūraṃ) [pada](mānādhike) [pada](sthitam)
 
 ## mukta-m0-p110-v2733
-[circular-peaked-moon-hall-named](vṛtta+śṛṅga+indu+śālā+ākhyam) [characteristic](lakṣaṇam) [tenfold](daśadhā) [is-stated](ucyate)
+[pada](vṛttaśṛṅgenduśālākhyaṃ) [pada](lakṣaṇaṃ) [pada](daśadhocyate)
 
 ## mukta-m0-p110-v2734
-[gāndhāra-pure-abodes](gāndhāra+śuddha+dhāmāni) [liṅga](liṅgam) [this](etat) [by-measure](pramāṇataḥ)
+[pada](gāndhāraśuddhadhāmāni) [pada](liṅgametatpramāṇataḥ)
 
 ## mukta-m0-p110-v2735
-[these](ete) [ninety](navati) [vandhāras](vandhārāḥ) [temples](prasādāḥ) [by-liṅga-measure](liṅga+mānataḥ)
+[pada](ete) [pada](navati) [pada]([mū:) [pada](navani]) [pada](vandhārāḥ) [pada](prasādā) [pada](liṅgamānataḥ)
 
 ## mukta-m0-p110-v2736
-[śrīvatsa-ukapa-nanda-named](śrīvatsa+ukapa+nanda+ākhyāḥ) [but](tu) [these](ete) [born-of-vairāja](vairāja+jāḥ) [nine](nava)
+[pada](śrīvatsokapa) [pada]([mū:) [pada](strovatso) [pada](rūpa]) [pada](nandākhyāstvete) [pada](vairājajā) [pada](nava)
 
 ## mukta-m0-p110-v2737
-[beginning-with-vṛṣa-ending-with-tārkṣya](vṛṣa+ibha+haṃsa+tārkṣya+antāḥ) [in-order](kramāt) [should-be](syuḥ) [by-ninefold-division](nava+bhedataḥ)
+[pada](vṛṣebhahasatārkṣyāntāḥ) [pada](kramātsyurnavabhedataḥ) [pada]([kh:) [pada](bhavedataḥ])
 
 ## mukta-m0-p110-v2738
-[vajra](vajraḥ) [tripiṣṭapa](tripiṣṭapaḥ) [and](ca) [moon](candrāt) [lotus-sun](padma+arkā) [bracelet](dvalayaḥ) [hari](hariḥ)
+[pada](vajrastripiṣṭapaścandrātpadma'rkā) [pada]([gh:) [pada](padmārkau]) [pada](dvalayo) [pada](hariḥ)
 
 ## mukta-m0-p110-v2739
-[eighteen](aṣṭādaśa) [from-pradhāna](pradhānāt) [and](ca) [temples](prāsādāḥ) [but](tu) [of-both-natures](ubhaya+ātmakāḥ)
+[pada](aṣṭādaśa) [pada](pradhānācca) [pada](prāsādāstūbhayātmakāḥ)
 
 ## mukta-m0-p110-v2740
-[mālyāvān](mālyāvān) [malaya](malayaḥ) [and](ca) [indeed](eva) [supārśva](supārśvaḥ) [meru](meruḥ) [ambhava](ambhavāḥ)
+[pada](mālyāvānmalayaścaiva) [pada](supārśvo) [pada](merurambhavāḥ)
 
 ## mukta-m0-p110-v2741
-[always](sadā)
+[pada](sadā)
 
 ## mukta-m0-p110-v2742
-[from-śrīvatsa](śrīvatsāt) [vardhamāna-named](vardhamāna+ākhyaḥ) [mālā](mālā) [śrīvatsa-named](śrīvatsa+saṃjñakaḥ)
+[pada](śrīvatsādvardhamānākhyo) [pada](mālā) [pada](śrīvatsasaṃjñakaḥ)
 
 ## mukta-m0-p110-v2743
-[hall-house](śālā+gṛham) [spacious](viśālam) [and](ca) [brahma-temple](brahma+mandira) [in-temple](mandire)
+[pada](śālāgṛhaṃ) [pada](viśālaṃ) [pada](ca) [pada](brahmamandiramandire) [pada]([kh:) [pada](maṇḍale])
 
 ## mukta-m0-p110-v2744
-[half-house](ardha+gṛham) [hut-named](kuṭīra+ākhyam) [stability-making](sthiti+kṛt) [and](ca) [from-lord-of-house](gṛha+adhipāt)
+[pada](ardhagṛhaṃ) [pada](kuṭīrākhyaṃ) [pada](sthitikṛcca) [pada](gṛhādhipāt)
 
 ## mukta-m0-p110-v2745
-[cakra](cakram) [svastika-named](svastika+saṃjñā) [and](ca) [vijaya](vijayaḥ) [seven](sapta) [born-of-vajra](vajra+jāḥ)
+[pada](cakraṃ) [pada](svastikasaṃjñācca) [pada](vijayaḥ) [pada](sapta) [pada]([kh,) [pada](ṅ,) [pada](gh:) [pada](sasta]) [pada](vajrajāḥ)
 
 ## mukta-m0-p110-v2746
-[dundubhī](dundubhī) [mukulī](mukulī) [cakra](cakram) [uṣṇīṣī](uṣṇīṣī) [śaṅkha-named](śaṅkha+saṃjñakaḥ)
+[pada](dundubhī) [pada](mukulī) [pada](cakramuṣṇīṣī) [pada](śaṅkhasaṃjñakaḥ)
 
 ## mukta-m0-p110-v2747
-[ṛkṣaka](ṛkṣakaḥ) [bhūṣaṇa](bhūṣaṇaḥ) [and](ca) [indeed](eva) [bhūdhara](bhūdharaḥ) [śrījaya](śrī+jayaḥ) [likewise](tathā)
+[pada](ṛkṣako) [pada](bhūṣaṇaścaiva) [pada](bhūdharaḥ) [pada](śrījayastathā)
 
 ## mukta-m0-p110-v2748
-[temples](prāsādāḥ) [stated-in-bāṇa-śāstra](bāṇa+śāstra+uktāḥ) [but](tu) [this-division](etat+bhedaḥ) [very-extensive](ati+vistaraḥ)
+[pada](prāsādā) [pada](bāṇaśāstroktāstvetadbhedo'tivistaraḥ)
 
 ## mukta-m0-p110-v2749
-[stated](uktāni) [distinguished-by-divisions](bheda+bhinnāni) [of-abodes](dhāmnām) [indeed](vai) [in-pārameśvara](pārameśvare)
+[pada](uktāni) [pada](bhedabhinnāni) [pada](dhāmnāṃ) [pada](vai) [pada](pārameśvare)
 
 ## mukta-m0-p110-v2750
-[temple](prāsādaḥ) [of-brahmā](brahmaṇaḥ) [also](api) [stated](uktaḥ) [but-not](na+tu) [of-others](anyeṣām) [ever](kadācana)
+[pada](prāsādo) [pada](brahmaṇo'pyukto) [pada](natvanyeṣāṃ) [pada](kadācana)

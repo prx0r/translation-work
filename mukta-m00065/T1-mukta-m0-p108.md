@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p108-v2676
-[four-parts](caturbhāgaiḥ) [by-four-parts](caturbhāgaiḥ) [remaining](śeṣāḥ) [others](anyāḥ) [and](ca) [moon-halls](candraśālikāḥ)
+[by-four-parts](caturbhāgaiḥ) [by-four-parts](caturbhāgaiḥ) [remaining-other](śeṣānyāḥ) [moon-pavilion](candraśālikā)
 
 ## mukta-m0-p108-v2677
-[thus](evam) [fifteen](pañcadaśa) [called](ākhyātāḥ) [five-storeyed](pañcabhūmi) [moon-halls](induśālikāḥ)
+[thus](evaṃ) [fifteen-named](pañcadaśākhyātāḥ) [five-floor-moon-pavilions](pañcabhūmīnduśālikāḥ)
 
 ## mukta-m0-p108-v2678
-[with-half](sārdhena) [in-middle](madhyataḥ) [there](tatra) [chariot-half](rathakārdham) [risen-up](samudgataḥ)
+[with-half](sārdhena) [in-middle](madhyataḥ) [there](tatra) [chariot-half](rathakārdhaṃ) [risen](samudgataḥ)
 
 ## mukta-m0-p108-v2679
-[sixty-parts](ṣaṣṭibhāga) [height](samucchāyam) [one-should-make](kuryāt) [half-moon-hall](ardhenduśālikām)
+[sixty-part-height](ṣaṣṭibhāgasamucchāyaṃ) [should-make](kuryāt) [half-moon-pavilion](ardhenduśālikām)
 
 ## mukta-m0-p108-v2680
-[pitcher-band](kumbhapaṭṭīm) [likewise](tathā) [neck](kaṇṭham) [by-half](ardhena) [one-should-design](parikalpayet)
+[pot-band](kumbhapaṭṭīm) [thus](tathā) [neck](kaṇṭham) [by-half](ardhena) [should-arrange](parikalpayet)
 
 ## mukta-m0-p108-v2681
-[likewise](tathā) [to-be-made](kāryā) [part-by-part](bhāgabhāgena) [constructed](nirmitā)
+[thus](tathā) [should-be-made](kāryā) [part-by-part](bhāgabhāgena) [constructed](nirmitā)
 
 ## mukta-m0-p108-v2682
-[of-sky](khaneḥ) [and](ca) [with-ornament](tilaka+upetam) [its-outside](tad+bāhye) [half-moon-hall](ardhenduśālikā)
+[of-excavation](khaneḥ) [and](ca) [with-tilaka](tilakopetaṃ) [outside-that](tadbāhye) [half-moon-pavilion](ardhenduśālikā)
 
 ## mukta-m0-p108-v2683
-[its-middle](tan+madhye) [spire](śikharī) [two-parts](dvyaṃśā) [raised](ucchritā) [very-charming](atimanoramā)
+[in-its-middle](tanmadhye) [spire](śikharī) [two-part](dvyaṃśā) [very-lovely-risen](ucchritātimanoramā)
 
 ## mukta-m0-p108-v2684
-[its-side](tat+pārśva) [half-chariot](ardha+rathe) [also](api) [thus](evam) [to-be-made](kartavyā) [half-moon-hall](ardhendaśālikā)
+[beside-it-half-chariot](tatpārśvārdhārathe) [also-thus](apyevaṃ) [should-be-made-half-moon-pavilion](kartavyārdhendaśālikā)
 
 ## mukta-m0-p108-v2685
-[one-above-another](upari+upari) [and](ca) [three](trīṇi) [one](ekam) [ground-line](bhūsūtra) [equal-to](tulyataḥ)
+[above-above](uparyupari) [and](ca) [three](trīṇi) [one](ekaṃ) [thus](evaṃ) [ground-thread-equality](bhūsūtratulyataḥ)
 
 ## mukta-m0-p108-v2686
-[of-middle-chariot](madhya+rathasya) [work](karma) [this](idam) [platform-etc.](vedikā+ādyam) [now](atha) [is-stated](ucyate)
+[of-middle-chariot](madhyarathasya) [work-this](karmedaṃ) [platform-etc](vedikādyam) [then-is-said](athocyate)
 
 ## mukta-m0-p108-v2687
-[from-foot](pādāt) [entrance-band](praveśa+paṭṭī) [should-be](syāt) [projection](nirgamā) [band](paṭṭikā) [from-foot](aṅghritaḥ)
+[from-foot](pādāt) [entrance-band](praveśapaṭṭī) [should-be](syāt) [exit](nirgamā) [band-footed](paṭṭikāṅghritaḥ)
 
 ## mukta-m0-p108-v2688
-[by-foot](pādena) [square](caturasrā) [should-be](syāt) [it](sā) [sanctum-half](garbha+ardha) [in-width](pravistarā)
+[by-foot](pādena) [square](caturasrā) [should-be](syāt) [that](sā) [womb-half-spread](garbhārdhapravistarā)
 
 ## mukta-m0-p108-v2689
-[up-to-haṃsa](haṃsa+ākhyā) [end](antā) [half-line](ardha+sūtrāt) [and](ca) [six-divisions](ṣaḍ+vibhāgaḥ) [its-height](tad+ucchrayaḥ)
+[swan-named-end-half-thread](haṃsākhyāntārdhasūtrāt) [ca](ca) [six-part](ṣaḍvibhāgaḥ) [its-height](taducchrayaḥ)
 
 ## mukta-m0-p108-v2690
-[from-capital](kapola+āt) [projection](aṃśa+niṣkāśāt) [amalasāra](amalāsāra) [width](vistaraḥ)
+[cheek-from-bite-protrusion](kapolādaṃśaniṣkāśāt) [pure-sap-spread](amalāsāravistaraḥ)
 
 ## mukta-m0-p108-v2691
-[by-half](ardhena) [neck-band](gala+paṭṭī) [and](ca) [upper-band](upa+paṭṭī) [by-other-half](apara+ardhataḥ)
+[by-half](ardhena) [neck-band](galapaṭṭī) [and](ca) [sub-band-other-half](upapaṭṭyaparārdhataḥ)
 
 ## mukta-m0-p108-v2692
-[by-two](dvābhyām) [and](ca) [amalasāra](amalasāra+ākhyam) [all-around](paritaḥ) [round](vṛttam) [raised](ucchritam)
+[by-two](dvābhyāṃ) [ca](ca) [pure-sap-named](amalasārākhyaṃ) [around](parito) [round](vṛttam) [risen](ucchritam)
 
 ## mukta-m0-p108-v2693
-[by-one](ekena) [square](caturasrā) [should-be](syāt) [by-two](dvābhyām) [haṃsa-cornice](haṃsa+kapotikā)
+[by-one](ekena) [square](caturasrā) [should-be](syāt) [by-two](dvābhyāṃ) [swan-pigeon](haṃsakapotikā)
 
 ## mukta-m0-p108-v2694
-[with-bhūta-parts](sa+bhūta+aṃśaiḥ) [by-three](tribhiḥ) [to-be-made](kāryaḥ) [pot](ghaṭaḥ) [its-double-height](tad+dviguṇa+ucchrayaḥ)
+[with-being-parts-three](sabhūtāṃśaistribhiḥ) [should-be-made](kāryo) [pot](ghaṭaḥ) [its-double-height](taddviguṇocchrayaḥ)
 
 ## mukta-m0-p108-v2695
-[thus](tvāt) [likewise](tathaiva) [and](ca) (?)
+[thus](tathā) [indeed](eva) [and](ca)
 
 ## mukta-m0-p108-v2696
-[sometimes](kvacit) [Bhairava](bhairava) [Nāṭyeśa](nāṭyeśa) [Gaurī](gaurī) [Arka](arkaḥ) [from-south-etc.](dakṣiṇa+āditaḥ)
+[somewhere](kvacid) [Bhairava-dance-lord-Gauri-sun](bhairavanāṭyeśagauryarkaḥ) [from-south](dakṣiṇāditaḥ)
 
 ## mukta-m0-p108-v2697
-[its-waist](tat+kaṭi) [half-height](ardha+samucchrāyam) [having-divided](pravibhajya) [into-eight-parts](aṣṭa+bhāgataḥ)
+[its-waist-half-height](tatkaṭyardhasamucchrāyaṃ) [dividing](pravibhajya) [into-eight-parts](aṣṭabhāgataḥ)
 
 ## mukta-m0-p108-v2698
-[by-three-parts](tryaṃśakaiḥ) [moon-hall](candraśālām) [by-two-parts](dvayaṃśataḥ) [in-middle](madhyataḥ) [city](puram)
+[by-three-parts](tryaṃśakaiḥ) [moon-pavilion](candraśālām) [by-two-parts](dvayaṃśataḥ) [in-middle](madhyataḥ) [city](puram)
 
 ## mukta-m0-p108-v2699
-[thus](evam) [on-its-sides](tat+pārśvataḥ) [to-be-made](kāryāḥ) [and](ca) [half-moon-halls-etc.](ardhenduśālikā+ādayaḥ)
+[thus](evaṃ) [beside-it](tatpārśvataḥ) [should-be-made](kāryāḥ) [ca](ca) [half-moon-pavilion-etc](ardhenduśālikādayaḥ)
 
 ## mukta-m0-p108-v2700
-[temple](vāstu) [ornament](bhūṣaṇam) [stone-born](aśma+uttham) [stated](uktam) [others](anyāni) [and](ca) [I-speak](bruve)
+[site-ornament](vāstubhūṣaṇam) [stone-born](aśmottham) [said](uktam) [other](anyāni) [ca](ca) [I-say](bruve)
