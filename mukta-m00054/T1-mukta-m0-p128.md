@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p128-v3176
-[ratnāṅgāyanamaḥ](ratnāṅgāyanamaḥ) [mahārṇavanipānavidenamaḥ](mahārṇavanipānavidenamaḥ)
+[homage-to-jewel-limbed-path](ratnāṅgāyanamaḥ) [homage-to-great-ocean-drinker](mahārṇavanipānavidenamaḥ)
 
 ## mukta-m0-p128-v3177
-[mūlāyanamaḥ](mūlāyanamaḥ) [viśālāyanamaḥ](viśālāyanamaḥ) [amṛtāyanamaḥ](amṛtāyanamaḥ)
+[homage-to-root-path](mūlāyanamaḥ) [homage-to-vast-path](viśālāyanamaḥ) [homage-to-nectar-path](amṛtāyanamaḥ)
 
 ## mukta-m0-p128-v3178
-[vyaktāvyaktāyanamaḥ](vyaktāvyaktāyanamaḥ) [taponidhayenamaḥ](taponidhayenamaḥ) [ārohaṇāyanamaḥ](ārohaṇāyanamaḥ)
+[homage-to-manifest-unmanifest-path](vyaktāvyaktāyanamaḥ) [homage-to-austerity-treasury](taponidhayenamaḥ) [homage-to-ascent-path](ārohaṇāyanamaḥ)
 
 ## mukta-m0-p128-v3179
-[adhirodhāyanamaḥ](adhirodhāyanamaḥ) [śūladhāriṇenamaḥ](śūladhāriṇenamaḥ)
+[homage-to-overlord-path](adhirodhāyanamaḥ) [homage-to-trident-bearer](śūladhāriṇenamaḥ)
 
 ## mukta-m0-p128-v3180
-[mahāyaśasenamaḥ](mahāyaśasenamaḥ) [senākalpāyanamaḥ](senākalpāyanamaḥ) [mahākalpāyanamaḥ](mahākalpāyanamaḥ)
+[homage-to-great-glory](mahāyaśasenamaḥ) [homage-to-army-arrangement-path](senākalpāyanamaḥ) [homage-to-great-age-path](mahākalpāyanamaḥ)
 
 ## mukta-m0-p128-v3181
-[yogāyanamaḥ](yogāyanamaḥ) [yugakarāyanamaḥ](yugakarāyanamaḥ) [harayenamaḥ](harayenamaḥ)
+[homage-to-yoga-path](yogāyanamaḥ) [homage-to-age-maker-path](yugakarāyanamaḥ) [homage-to-hari](harayenamaḥ)
 
 ## mukta-m0-p128-v3182
-[yugarūpāyanamaḥ](yugarūpāyanamaḥ) [mahārūpāyanamaḥ](mahārūpāyanamaḥ)
+[homage-to-age-form-path](yugarūpāyanamaḥ) [homage-to-great-form-path](mahārūpāyanamaḥ)
 
 ## mukta-m0-p128-v3183
-[mahānāgahanāyanamaḥ](mahānāgahanāyanamaḥ) [vadhāyanamaḥ](vadhāyanamaḥ)
+[homage-to-great-serpent-slayer-path](mahānāgahanāyanamaḥ) [homage-to-slaying-path](vadhāyanamaḥ)
 
 ## mukta-m0-p128-v3184
-[nyāyanirvapaṇāyanamaḥ](nyāyanirvapaṇāyanamaḥ) [pādāyanamaḥ](pādāyanamaḥ) [paṇḍitāyanamaḥ](paṇḍitāyanamaḥ)
+[homage-to-justice-offering-path](nyāyanirvapaṇāyanamaḥ) [homage-to-foot-path](pādāyanamaḥ) [homage-to-scholar-path](paṇḍitāyanamaḥ)
 
 ## mukta-m0-p128-v3185
-[acalopamāyanamaḥ](acalopamāyanamaḥ) [bahumālāyanamaḥ](bahumālāyanamaḥ)
+[homage-to-immovable-likeness-path](acalopamāyanamaḥ) [homage-to-many-garland-path](bahumālāyanamaḥ)
 
 ## mukta-m0-p128-v3186
-[mahāmālāyanamaḥ](mahāmālāyanamaḥ) [śaśiharasulocanāyanamaḥ](śaśiharasulocanāyanamaḥ)
+[homage-to-great-garland-path](mahāmālāyanamaḥ) [homage-to-moon-hara-beautiful-eye-path](śaśiharasulocanāyanamaḥ)
 
 ## mukta-m0-p128-v3187
-[vistāralavaṇakūpāyanamaḥ](vistāralavaṇakūpāyanamaḥ) [triyugāyanamaḥ](triyugāyanamaḥ)
+[homage-to-vast-salt-well-path](vistāralavaṇakūpāyanamaḥ) [homage-to-three-age-path](triyugāyanamaḥ)
 
 ## mukta-m0-p128-v3188
-[maṇividdhāyanamaḥ](maṇividdhāyanamaḥ) [jaṭādharāyanamaḥ](jaṭādharāyanamaḥ)
+[homage-to-jewel-pierced-path](maṇividdhāyanamaḥ) [homage-to-matted-hair-path](jaṭādharāyanamaḥ)
 
 ## mukta-m0-p128-v3189
-[bindavenamaḥ](bindavenamaḥ) [visargāyanamaḥ](visargāyanamaḥ) [sumukhāyanamaḥ](sumukhāyanamaḥ)
+[homage-to-bindu](bindavenamaḥ) [homage-to-emission-path](visargāyanamaḥ) [homage-to-beautiful-face-path](sumukhāyanamaḥ)
 
 ## mukta-m0-p128-v3190
-[śarāyanamaḥ](śarāyanamaḥ) [sarvāyudhāyanamaḥ](sarvāyudhāyanamaḥ) [sahāyanamaḥ](sahāyanamaḥ)
+[homage-to-arrow-path](śarāyanamaḥ) [homage-to-all-weapon-path](sarvāyudhāyanamaḥ) [homage-to-companion-path](sahāyanamaḥ)
 
 ## mukta-m0-p128-v3191
-[nivedanāyanamaḥ](nivedanāyanamaḥ) [sukhājātāyanamaḥ](sukhājātāyanamaḥ) [sugandhārāyanamaḥ](sugandhārāyanamaḥ)
+[homage-to-offering-path](nivedanāyanamaḥ) [homage-to-happy-born-path](sukhājātāyanamaḥ) [homage-to-fragrant-path](sugandhārāyanamaḥ)
 
 ## mukta-m0-p128-v3192
-[mahādhanuṣenamaḥ](mahādhanuṣenamaḥ) [gandhapālibhagavatenamaḥ](gandhapālibhagavatenamaḥ)
+[homage-to-great-bow](mahādhanuṣenamaḥ) [homage-to-fragrance-lord](gandhapālibhagavatenamaḥ)
 
 ## mukta-m0-p128-v3193
-[sarvakarmotthānāyanamaḥ](sarvakarmotthānāyanamaḥ) [manthānabahulavāyavenamaḥ](manthānabahulavāyavenamaḥ)
+[homage-to-all-action-rising-path](sarvakarmotthānāyanamaḥ) [homage-to-churner-many-wind](manthānabahulavāyavenamaḥ)
 
 ## mukta-m0-p128-v3194
-[sakalāyanamaḥ](sakalāyanamaḥ) [sarvalocanāyanamaḥ](sarvalocanāyanamaḥ) [talastālāyanamaḥ](talastālāyanamaḥ)
+[homage-to-all-path](sakalāyanamaḥ) [homage-to-all-eye-path](sarvalocanāyanamaḥ) [homage-to-palm-clap-path](talastālāyanamaḥ)
 
 ## mukta-m0-p128-v3195
-[chatrāyanamaḥ](chatrāyanamaḥ) [succhatrāyanamaḥ](succhatrāyanamaḥ)
+[homage-to-parasol-path](chatrāyanamaḥ) [homage-to-good-parasol-path](succhatrāyanamaḥ)
 
 ## mukta-m0-p128-v3196
-[vikhyātalokāyanamaḥ](vikhyātalokāyanamaḥ) [sarvāśrayakramāyanamaḥ](sarvāśrayakramāyanamaḥ)
+[homage-to-famous-world-path](vikhyātalokāyanamaḥ) [homage-to-all-refuge-order-path](sarvāśrayakramāyanamaḥ)
 
 ## mukta-m0-p128-v3197
-[muṇḍāyanamaḥ](muṇḍāyanamaḥ) [virūpāyanamaḥ](virūpāyanamaḥ) [vikṛtāyanamaḥ](vikṛtāyanamaḥ)
+[homage-to-shaved-head-path](muṇḍāyanamaḥ) [homage-to-deformed-path](virūpāyanamaḥ) [homage-to-distorted-path](vikṛtāyanamaḥ)
 
 ## mukta-m0-p128-v3198
-[daṇḍinenamaḥ](daṇḍinenamaḥ) [kuṇḍinenamaḥ](kuṇḍinenamaḥ) [vikurvāṇāyanamaḥ](vikurvāṇāyanamaḥ)
+[homage-to-staff](daṇḍinenamaḥ) [homage-to-pot](kuṇḍinenamaḥ) [homage-to-transforming-path](vikurvāṇāyanamaḥ)
 
 ## mukta-m0-p128-v3199
-[haryakṣāyanamaḥ](haryakṣāyanamaḥ) [kakubhāyanamaḥ](kakubhāyanamaḥ) [vajriṇenamaḥ](vajriṇenamaḥ)
+[homage-to-green-eyed-path](haryakṣāyanamaḥ) [homage-to-quarter-path](kakubhāyanamaḥ) [homage-to-thunderbolt-bearer](vajriṇenamaḥ)
 
 ## mukta-m0-p128-v3200
-[śatajihvāyanamaḥ](śatajihvāyanamaḥ) [sahasrapatsahasramūrddhnenamaḥ](sahasrapatsahasramūrddhnenamaḥ)
+[homage-to-hundred-tongues](śatajihvāyanamaḥ) [homage-to-thousand-feet-thousand-headed](sahasrapatsahasramūrddhnenamaḥ)

@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p125-v3101
-[anukāriṇenamaḥ](anukāriṇenamaḥ) [subāndhavāyanamaḥ](subāndhavāyanamaḥ) [tumbavīṇāyanamaḥ](tumbavīṇāyanamaḥ)
+[anukāriṇe+namaḥ](anukāriṇenamaḥ) [subāndhavāya+namaḥ](subāndhavāyanamaḥ) [tumbavīṇāya+namaḥ](tumbavīṇāyanamaḥ)
 
 ## mukta-m0-p125-v3102
-[mahākrodhāyanamaḥ](mahākrodhāyanamaḥ) [ūrddhvaretasenamaḥ](ūrddhvaretasenamaḥ)
+[mahākrodhāya+namaḥ](mahākrodhāyanamaḥ) [ūrddhvaretase+namaḥ](ūrddhvaretasenamaḥ)
 
 ## mukta-m0-p125-v3103
-[jaleśāyanamaḥ](jaleśāyanamaḥ) [ugrāyanamaḥ](ugrāyanamaḥ) [vaṃśakarāyanamaḥ](vaṃśakarāyanamaḥ)
+[jaleśāya+namaḥ](jaleśāyanamaḥ) [ugrāya+namaḥ](ugrāyanamaḥ) [vaṃśakarāya+namaḥ](vaṃśakarāyanamaḥ)
 
 ## mukta-m0-p125-v3104
-[vaṃśāyanamaḥ](vaṃśāyanamaḥ) [vaṃśanādāyanamaḥ](vaṃśanādāyanamaḥ) [aninditāyanamaḥ](aninditāyanamaḥ)
+[vaṃśāya+namaḥ](vaṃśāyanamaḥ) [vaṃśanādāya+namaḥ](vaṃśanādāyanamaḥ) [aninditāya+namaḥ](aninditāyanamaḥ)
 
 ## mukta-m0-p125-v3105
-[sarvāṅgarūpāyanamaḥ](sarvāṅgarūpāyanamaḥ) [māyāvinenamaḥ](māyāvinenamaḥ)
+[sarvāṅgarūpāya+namaḥ](sarvāṅgarūpāyanamaḥ) [māyāvine+namaḥ](māyāvinenamaḥ)
 
 ## mukta-m0-p125-v3106
-[suhṛdāyanamaḥ](suhṛdāyanamaḥ) [anilāyanamaḥ](anilāyanamaḥ) [analāyanamaḥ](analāyanamaḥ)
+[suhṛdāya+namaḥ](suhṛdāyanamaḥ) [anilāya+namaḥ](anilāyanamaḥ) [analāya+namaḥ](analāyanamaḥ)
 
 ## mukta-m0-p125-v3107
-[bandhanāyanamaḥ](bandhanāyanamaḥ) [bandhakartrenamaḥ](bandhakartrenamaḥ)
+[bandhanāya+namaḥ](bandhanāyanamaḥ) [bandhakartre+namaḥ](bandhakartrenamaḥ)
 
 ## mukta-m0-p125-v3108
-[subandhanavimocanāyanamaḥ](subandhanavimocanāyanamaḥ) [sayajñārayenamaḥ](sayajñārayenamaḥ)
+[subandhanavimocanāya+namaḥ](subandhanavimocanāyanamaḥ) [sayajñāraye+namaḥ](sayajñārayenamaḥ)
 
 ## mukta-m0-p125-v3109
-[sakāmārayenamaḥ](sakāmārayenamaḥ) [mahādaṃṣṭrāyanamaḥ](mahādaṃṣṭrāyanamaḥ)
+[sakāmāraye+namaḥ](sakāmārayenamaḥ) [mahādaṃṣṭrāya+namaḥ](mahādaṃṣṭrāyanamaḥ)
 
 ## mukta-m0-p125-v3110
-[amareśāyanamaḥ](amareśāyanamaḥ) [mahādevāyanamaḥ](mahādevāyanamaḥ)
+[amareśāya+namaḥ](amareśāyanamaḥ) [mahādevāya+namaḥ](mahādevāyanamaḥ)
 
 ## mukta-m0-p125-v3111
-[viśvadevāyanamaḥ](viśvadevāyanamaḥ) [surārighnenamaḥ](surārighnenamaḥ) [ahirbbudhnyāayanamaḥ](ahirbbudhnyāayanamaḥ)
+[viśvadevāya+namaḥ](viśvadevāyanamaḥ) [surārighne+namaḥ](surārighnenamaḥ) [ahirbbudhnyāya+namaḥ](ahirbbudhnyāayanamaḥ)
 
 ## mukta-m0-p125-v3112
-[anilābhāyanamaḥ](anilābhāyanamaḥ) [cekitāyanamaḥ](cekitāyanamaḥ) [haviṣenamaḥ](haviṣenamaḥ)
+[anilābhāya+namaḥ](anilābhāyanamaḥ) [cekitāya+namaḥ](cekitāyanamaḥ) [haviṣe+namaḥ](haviṣenamaḥ)
 
 ## mukta-m0-p125-v3113
-[ajaikapadenamaḥ](ajaikapadenamaḥ) [kapālinenamaḥ](kapālinenamaḥ) [triśaṅkavenamaḥ](triśaṅkavenamaḥ)
+[ajaikapade+namaḥ](ajaikapadenamaḥ) [kapāline+namaḥ](kapālinenamaḥ) [triśaṅkave+namaḥ](triśaṅkavenamaḥ)
 
 ## mukta-m0-p125-v3114
-[ajitāyanamaḥ](ajitāyanamaḥ) [śivāyanamaḥ](śivāyanamaḥ)
+[ajitāya+namaḥ](ajitāyanamaḥ) [śivāya+namaḥ](śivāyanamaḥ)
 
 ## mukta-m0-p125-v3115
-[dhanvantarayenamaḥ](dhanvantarayenamaḥ) [dhūmaketavenamaḥ](dhūmaketavenamaḥ)
+[dhanvantaraye+namaḥ](dhanvantarayenamaḥ) [dhūmaketave+namaḥ](dhūmaketavenamaḥ)
 
 ## mukta-m0-p125-v3116
-[skandāyanamaḥ](skandāyanamaḥ) [vaiśravaṇāyanamaḥ](vaiśravaṇāyanamaḥ) [dhātrenamaḥ](dhātrenamaḥ)
+[skandāya+namaḥ](skandāyanamaḥ) [vaiśravaṇāya+namaḥ](vaiśravaṇāyanamaḥ) [dhātre+namaḥ](dhātrenamaḥ)
 
 ## mukta-m0-p125-v3117
-[śakrāyanamaḥ](śakrāyanamaḥ) [viṣṇavenamaḥ](viṣṇavenamaḥ) [mitrāyanamaḥ](mitrāyanamaḥ)
+[śakrāya+namaḥ](śakrāyanamaḥ) [viṣṇave+namaḥ](viṣṇavenamaḥ) [mitrāya+namaḥ](mitrāyanamaḥ)
 
 ## mukta-m0-p125-v3118
-[tvaṣṭrenamaḥ](tvaṣṭrenamaḥ) [dhruvāyanamaḥ](dhruvāyanamaḥ) [dharāyanamaḥ](dharāyanamaḥ)
+[tvaṣṭre+namaḥ](tvaṣṭrenamaḥ) [dhruvāya+namaḥ](dhruvāyanamaḥ) [dharāya+namaḥ](dharāyanamaḥ)
 
 ## mukta-m0-p125-v3119
-[prabhāvāyanamaḥ](prabhāvāyanamaḥ) [sarvagavenamaḥ](sarvagavenamaḥ) [aryamṇenamaḥ](aryamṇenamaḥ)
+[prabhāvāya+namaḥ](prabhāvāyanamaḥ) [sarvagave+namaḥ](sarvagavenamaḥ) [aryamṇe+namaḥ](aryamṇenamaḥ)
 
 ## mukta-m0-p125-v3120
-[savitrenamaḥ](savitrenamaḥ) [ravayenamaḥ](ravayenamaḥ) [uṣaṅgavenamaḥ](uṣaṅgavenamaḥ)
+[savitre+namaḥ](savitrenamaḥ) [ravaye+namaḥ](ravayenamaḥ) [uṣaṅgave+namaḥ](uṣaṅgavenamaḥ)
 
 ## mukta-m0-p125-v3121
-[vidhātrenamaḥ](vidhātrenamaḥ) [māndhātrenamaḥ](māndhātrenamaḥ) [bhūtabhāvanāyanamaḥ](bhūtabhāvanāyanamaḥ)
+[vidhātre+namaḥ](vidhātrenamaḥ) [māndhātre+namaḥ](māndhātrenamaḥ) [bhūtabhāvanāya+namaḥ](bhūtabhāvanāyanamaḥ)
 
 ## mukta-m0-p125-v3122
-[vibhavenamaḥ](vibhavenamaḥ) [varṇavibhāvinenamaḥ](varṇavibhāvinenamaḥ)
+[vibhave+namaḥ](vibhavenamaḥ) [varṇavibhāvine+namaḥ](varṇavibhāvinenamaḥ)
 
 ## mukta-m0-p125-v3123
-[sarvakāmaguṇāvahāyanamaḥ](sarvakāmaguṇāvahāyanamaḥ) [padmanābhāyanamaḥ](padmanābhāyanamaḥ)
+[sarvakāmaguṇāvahāya+namaḥ](sarvakāmaguṇāvahāyanamaḥ) [padmanābhāya+namaḥ](padmanābhāyanamaḥ)
 
 ## mukta-m0-p125-v3124
-[mahāgarbbhāyanamaḥ](mahāgarbbhāyanamaḥ) [candravaktrāyanamaḥ](candravaktrāyanamaḥ) [anilāyanamaḥ](anilāyanamaḥ)
+[mahāgarbbhāya+namaḥ](mahāgarbbhāyanamaḥ) [candravaktrāya+namaḥ](candravaktrāyanamaḥ) [anilāya+namaḥ](anilāyanamaḥ)
 
 ## mukta-m0-p125-v3125
-[analāyanamaḥ](analāyanamaḥ) [balavatenamaḥ](balavatenamaḥ) [upaśāntāyanamaḥ](upaśāntāyanamaḥ)
+[analāya+namaḥ](analāyanamaḥ) [balavate+namaḥ](balavatenamaḥ) [upaśāntāya+namaḥ](upaśāntāyanamaḥ)
