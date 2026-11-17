@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p37-v901
-[sarayū](sarayūrmānasodbhūtā) [mānasa](mānasodbhūtā) [udbhūtā](udbhūtā) [mānasa](mānasodbhūtavikriyām) [udbhūta](udbhūtavikriyām) [vikriyām](vikriyām)
+[river-born](sarayū) [mind-born](mānasa) [arisen](udbhūtā) [mind-born](mānasa) [arisen](udbhūta) [change](vikriyām)
 
 ## mukta-m0-p37-v902
-[candrabhāgā](candrabhāgā)
+[moon-fork](candra) [limb](bhāgā)
 
 ## mukta-m0-p37-v903
-[yuṣmān](yuṣmān) [mahābhāgatayā](mahābhāgatayā) [yunaktu](yunaktu)
+[you](yuṣmān) [great-fortune](mahābhāgatayā) [unite](yunaktu)
 
 ## mukta-m0-p37-v904
-[kauśikī](kauśikī)
+[kushika-born](kauśikī)
 
 ## mukta-m0-p37-v905
-[vitaratu](vitaratu) [varakośaṃ](varakośaṃ) [kauśikī](kauśikī) [suprakāśā](suprakāśā)
+[bestow](vitaratu) [excellent-treasury](vara+kośaṃ) [kushika-born](kauśikī) [well-shining](suprakāśā)
 
 ## mukta-m0-p37-v906
-[gaṇḍakī](gaṇḍakī)
+[gandaki](gaṇḍakī)
 
 ## mukta-m0-p37-v907
-[śuciḥ](śuciḥ)
+[pure](śuciḥ)
 
 ## mukta-m0-p37-v908
-[rucirā](rucirā) [asucirāt](asucirād) [astu](astu) [śuciḥ](śuciḥ) [svākāraṇārthakṛt](svākāraṇārthakṛt)
+[beautiful](rucirā) [impure](asucirāt) [be](astu) [pure](śuciḥ) [self-caused](sva+ākāraṇa) [deed-doer](arthakṛt)
 
 ## mukta-m0-p37-v909
-[narmadā](narmadā)
+[narmada](narmadā)
 
 ## mukta-m0-p37-v910
-[sā](sā) [narmadā](narmadā) [narmasu](narmasu) [dakṣiṇatvam](dakṣiṇatvam)
+[that](sā) [narmada](narmadā) [in-sports](narmasu) [southern-ness](dakṣiṇatvam)
 
 ## mukta-m0-p37-v911
-[karmanāśā](karmanāśā)
+[karma-destroyer](karmanāśā)
 
 ## mukta-m0-p37-v912
-[naiṣkarmyam](naiṣkarmyameṣā) [eṣā](eṣā) [kila](kila) [karmanāśā](karmanāśā)
+[actionlessness](naiṣkarmyam) [this](eṣā) [indeed](kila) [karma-destroyer](karmanāśā)
 
 ## mukta-m0-p37-v913
-[carmaṇvatī](carmaṇvatī)
+[leather-bearing](carmaṇvatī)
 
 ## mukta-m0-p37-v914
-[carmaṇvatī](carmaṇvatī) [sadā](sadā) [bhūyāt](bhūyāccarmadṛṣṭiharā) [carmadṛṣṭiharā](carmadṛṣṭiharā) [tava](tava)
+[leather-bearing](carmaṇvatī) [always](sadā) [be](bhūyāt) [leather-sight-remover](carma+dṛṣṭi+harā) [your](tava)
 
 ## mukta-m0-p37-v915
-[devikā](devikā)
+[divine-one](devikā)
 
 ## mukta-m0-p37-v916
-[brahmādikādhikā](brahmādikādhikā) [devī](devī) [devikā](devikā) [devaviśrutā](devaviśrutā)
+[brahma-first](brahmādikā) [superior](adhikā) [goddess](devī) [devika](devikā) [god-famous](deva+viśrutā)
 
 ## mukta-m0-p37-v917
-[vetravatī](vetravatī)
+[vetra-bearing](vetravatī)
 
 ## mukta-m0-p37-v918
-[trivetradhāribhir](trivetradhāribhirgītā) [gītā](gītā) [bhaved](bhaved) [vetravatī](vetravatī) [śivā](śivā)
+[three-vetra-bearers](tri+vetra+dhāribhiḥ) [sung](gītā) [be](bhaved) [vetra-bearing](vetravatī) [auspicious](śivā)
 
 ## mukta-m0-p37-v919
-[vitastā](vitastā)
+[vitasta](vitastā)
 
 ## mukta-m0-p37-v920
-[saṃjīvayanty](saṃjīvayantyadbhutajīvanasya) [adbhutajīvanasya](adbhutajīvanasya) [dhyānāt](dhyānādapīyaṃ) [apīyaṃ](apīyaṃ) [sukhadā](sukhadā) [vitastā](vitastā)
+[reviving](saṃjīvayantī) [wonderful-life](adbhuta+jīvanasya) [from-meditation](dhyānāt) [this](iyam) [happiness-giving](sukhadā) [vitasta](vitastā)
 
 ## mukta-m0-p37-v921
-[varadā](varadā)
+[boon-giving](varadā)
 
 ## mukta-m0-p37-v922
-[varadā](varadeti) [iti](iti) [kathaṃ](kathaṃ) [gītā](gītā) [varadhībhir](varadhībhirvareśvarī) [vareśvarī](vareśvarī)
+[boon-giving](vara+dā) [how](kathaṃ) [sung](gītā) [boon-wise](vara+dhībhiḥ) [boon-lady](vara+īśvarī)
 
 ## mukta-m0-p37-v923
-[naravāhanā](naravāhanā)
+[man-rider](naravāhanā)
 
 ## mukta-m0-p37-v924
-[naravāhanasaṃślāghyā](naravāhanasaṃślāghyā) [śriye](śriye) [astu](astu) [naravāhanā](naravāhanā)
+[man-rider-praised](naravāhana+saṃślāghyā) [for-prosperity](śriye) [be](astu) [man-rider](naravāhanā)
 
 ## mukta-m0-p37-v925
-[satī](satī)
+[true-one](satī)

@@ -11,13 +11,13 @@
 [mottled](karburā)
 
 ## mukta-m0-p43-v1054
-[mottled](karburā) [goddess](devatā) [may-she-be](bhūyād) [removing-bhava-burden](bhavabhārāpahāriṇī)
+[mottled](karburā) [goddess](devatā) [may-she-be](bhūyād) [burden-removing](bhavabhārāpahāriṇī)
 
 ## mukta-m0-p43-v1055
 [hunger](kṣudhā)
 
 ## mukta-m0-p43-v1056
-[hunger](kṣudhā) [goddess](devī) [conquers](jayatyeṣā) [single-seed-of-all-elements](sarvadhātvekabījabhūḥ)
+[hunger](kṣudhā) [goddess](devī) [conquers](jayatyeṣā) [all-elements-single-seed](sarvadhātvekabījabhūḥ)
 
 ## mukta-m0-p43-v1057
 [thirst](tṛṣṇā)
@@ -32,28 +32,28 @@
 [wonderful](citraṃ) [she-too](sāpi) [old-age-increased](jarāvṛddhā) [may-do](kriyānmama) [old-age-old-age](jarājarām)
 
 ## mukta-m0-p43-v1061
-[young-woman](taruṇī)
+[youthful](taruṇī)
 
 ## mukta-m0-p43-v1062
-[of-young-woman](taruṇyāḥ) [supreme](paraṃ) [laughter-only-grace](hāsyamātraprasādaḥ)
+[of-youthful](taruṇyāḥ) [supreme](paraṃ) [laughter-only-grace](hāsyamātraprasādaḥ)
 
 ## mukta-m0-p43-v1063
-[abode-of-compassion](karuṇālayā)
+[compassion-abode](karuṇālayā)
 
 ## mukta-m0-p43-v1064
-[you-remove](dūrīkaroṣi) [since](yannāto) [are-sung](gīyase) [abode-of-compassion](karuṇālayā)
+[you-remove](dūrīkaroṣi) [since](yannāto) [is-sung](gīyase) [compassion-abode](karuṇālayā)
 
 ## mukta-m0-p43-v1065
 [art](kalā)
 
 ## mukta-m0-p43-v1066
-[all](sakalā) [not](na) [under-control](vaśe) [how](kiṃ) [would-be](syuḥ) [hand-garland-like](karamālātulāḥ) [arts](kalāḥ)
+[all](sakalā) [not](na) [in-control](vaśe) [what](kiṃ) [would-be](syuḥ) [hand-garland-like](karamālātulāḥ) [arts](kalāḥ)
 
 ## mukta-m0-p43-v1067
 [limit](kāṣṭhā)
 
 ## mukta-m0-p43-v1068
-[may-perish](naśyet) [in-moment](kṣaṇena) [of-devotees](bhaktānāṃ) [limit-thus-her](kāṣṭhetyasyāḥ) [by-grace](prasādataḥ)
+[may-perish](naśyet) [in-moment](kṣaṇena) [of-devotees](bhaktānāṃ) [limit-thus](kāṣṭhetyasyāḥ) [by-grace](prasādataḥ)
 
 ## mukta-m0-p43-v1069
 [moment](muhūrtā)
@@ -62,16 +62,16 @@
 [own-form](svarūpaṃ) [renowned](prathitā) [on-earth](bhūmau) [moments](muhūrtāstu) [for-auspiciousness](śivāya) [to-you](vaḥ)
 
 ## mukta-m0-p43-v1071
-[blink](nimeṣā)
+[twinkling](nimeṣā)
 
 ## mukta-m0-p43-v1072
-[blinks](nimeṣāstu) [supreme-lady](pareśānī) [all-wealth-giving](viśeṣāśeṣabhūtidā)
+[twinklings](nimeṣāstu) [supreme-lady](pareśānī) [distinction-all-abundance-giving](viśeṣāśeṣabhūtidā)
 
 ## mukta-m0-p43-v1073
 [time-formed](kālarūpiṇī)
 
 ## mukta-m0-p43-v1074
-[inferable-from-planet-sign-zodiac-wheel](graharāśibhacakrakānumeyā) [renowned](prathitā) [she](sā) [indeed](kila) [time-formed-thus](kālarūpiṇīti)
+[planet-sign-zodiac-wheel-inferable](graharāśibhacakrakānumeyā) [renowned](prathitā) [she](sā) [indeed](kila) [time-formed-thus](kālarūpiṇīti)
 
 ## mukta-m0-p43-v1075
-[good-eared-tongued](sukarṇarasanā)
+[good-ear-tongue](sukarṇarasanā)

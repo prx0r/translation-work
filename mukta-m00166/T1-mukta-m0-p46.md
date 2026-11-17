@@ -2,52 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p46-v1126
-equal-mind-doer being parrot-handed pleasure-doer not who
+[equal](samanāmahitatvakṛnnu) [being](bhūtā) [parrot-hand](śukahastā) [pleasure-maker](sukhakṛnna) [or](vāśu) [whose](kasya)
+
 ## mukta-m0-p46-v1127
-flower-arrow
+[flower-arrow](puṣpabāṇā)
+
 ## mukta-m0-p46-v1128
-arrow-casting without-quickly by-sight rudra for-prosperity may-she-be
+[arrow-casting](bāṇakṣepaṃ) [without](vinaivāśu) [sight](dṛṣṭyā) [rudra](rudraṃ) [fortune](śriye'stu) [she](sā)
+
 ## mukta-m0-p46-v1129
-sugarcane-bowed
+[sugar-bow](ikṣucāpinī)
+
 ## mukta-m0-p46-v1130
-in-directions always protector not wanderer
+[directions](dikṣu) [directions](dikṣu) [always](sadā) [protector](rakṣākāriṇī) [not](no) [wanderer](vihāriṇī)
+
 ## mukta-m0-p46-v1131
-red-garment-wearer
+[red-garment-wearer](raktāmbaradharā)
+
 ## mukta-m0-p46-v1132
-know everywhere twilight-like deity-worshipped
+[know](jānanti) [everywhere](sarvataḥ) [twilight](saṃdhyāmiva) [deity-worshipped](daivatapūjitām)
+
 ## mukta-m0-p46-v1133
-intoxicated
+[intoxicated](kṣīvā)
+
 ## mukta-m0-p46-v1134
-intoxicated indeed self by all-burning life intoxicated and non-greedy does
+[intoxicated](kṣīvā) [but](tveṣā) [by-self](svātmanā) [always-burning](sarvadāho) [life](jīvaṃ) [intoxicated](kṣīvaṃ) [and](cetyalubdhaṃ) [does](karoti)
+
 ## mukta-m0-p46-v1135
-red-flower-garlanded
+[red-flower-garlanded](raktapuṣpāvataṃsinī)
+
 ## mukta-m0-p46-v1136
-of-hara I-know she being red-flower-garlanded
+[of-hara](harasya) [I-know](jāne) [she](sā) [being](bhūtā) [red-flower-garlanded](raktapuṣpāvataṃsinī)
+
 ## mukta-m0-p46-v1137
-white-garment-wearer
+[white-garment-wearer](śubhrāmbaradharā)
+
 ## mukta-m0-p46-v1138
-white-garment-wearer she this white bestows fame
+[white-garment-wearer](śubhrāmbaradharā) [she](seyam) [white](śubhraṃ) [bestow](vitaratādyaśaḥ)
+
 ## mukta-m0-p46-v1139
-steadfast
+[brave](dhīrā)
+
 ## mukta-m0-p46-v1140
-always-limb-going even of-hara full-bliss steadfast may-be own-purpose-doer
+[always-limbed](sadāṅgayātāpi) [of-hara](harasya) [full-bliss](pūrṇānandaiva) [brave](dhīrāstu) [own-purpose-doer](nijārthakartrī)
+
 ## mukta-m0-p46-v1141
-great-white
+[great-white](mahāśvetā)
+
 ## mukta-m0-p46-v1142
-wind-mother shines dark-limited-beneficial samsara-doer
+[wind-mother](vatānmātā) [shines](bhātā'sitamitahitāt) [saṃsāra-maker](saṃsṛtikṛtāt)
+
 ## mukta-m0-p46-v1143
-wealth-beloved
+[wealth-beloved](vasupriyā)
+
 ## mukta-m0-p46-v1144
-goddess even not I-know how goddess wealth-beloved
+[goddess](bhagavatyapi) [not](no) [I-know](jāne) [how](kathaṃ) [goddess](devī) [wealth-beloved](vasupriyā)
+
 ## mukta-m0-p46-v1145
-good-braid
+[good-braid](suveṇiḥ)
+
 ## mukta-m0-p46-v1146
-braid-indeed braid-subject goes good-braid may-be always for-benefit
+[braid-indeed](veṇyeva) [braid-domain](veṇīviṣayaṃ) [gone](prayātā) [good-braid](suveṇireṣāstu) [always](sadā) [welfare](hitāya)
+
 ## mukta-m0-p46-v1147
-lotus-handed
+[lotus-hand](padmahastā)
+
 ## mukta-m0-p46-v1148
-given boon to-kardama-son lotus-handed by-name by-her held
+[given](datto) [boon](varaḥ) [kardama-born](kardamajāya) [lotus-hand](padmahastetināmnaiva) [by-her](tayā) [held](dhṛtena)
+
 ## mukta-m0-p46-v1149
-pearl-necklace-ornamented
+[pearl-necklace-ornamented](muktāhāravibhūṣaṇā)
+
 ## mukta-m0-p46-v1150
-foaming and is she goddess pearl-necklace-ornamented
+[foam](utphenā) [and](cāsti) [she](sā) [goddess](devī) [pearl-necklace-ornamented](muktāhāravibhūṣaṇā)
