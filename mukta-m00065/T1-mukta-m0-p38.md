@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p38-v926
-[golden-colored](hemavarṇa) [+lotus-seated](abjasaṃsthā) [and](ca) [with-full+uplifted+breasts](pīnonnatapayodharā)
+gold-colored-lotus-seated and full-raised-breasts
 
 ## mukta-m0-p38-v927
-[always](sadā) [with-right+hand+lotus](yāmyakarāmbhojā) [in-left](vāme) [Śrī](śrīḥ) [with-bilva-fruit](śrīphalānvitā)
+always right-hand-lotus left Lakshmi with-sriphala
 
 ## mukta-m0-p38-v928
-[two-elephants](gajau) [with-water-vessel+in-hands](bhṛṅgārahastau) [and](ca) [bathing](snāpayantau) [and](ca) [on-sides](pārśvataḥ)
+elephants water-pot-hands and bathing and from-side
 
 ## mukta-m0-p38-v929
-[with-book](pustā) [with-rosary+in-hand](kṣamālikāhastā) [or](vā) [holding-lute](vīṇābhṛd) [Sarasvatī](sarasvatī)
+book patience-bead-hand lute-bearing or Sarasvati
 
 ## mukta-m0-p38-v930
-[with-water-pot+and-blue-lotus+in-hands](kumbhendīvarahastā) [and](ca) [standing-at-door](dvārasthā) [Jāhnavī](janhuputrikā)
+pot-blue-lotus-hand and door-standing Janhu-daughter
 
 ## mukta-m0-p38-v931
-[blue-lotus+petal+dark](indīvaradalaśyāmā) [beautiful](surūpā) [Yamunā](yamunā) [likewise](tathā)
+blue-lotus-petal-dark beautiful Yamuna likewise
 
 ## mukta-m0-p38-v932
-[leopard-skin+wearing](dvīpicarmadharaṃ) [one-should-make](kuryāt) [with-lute+in-hand](vīṇāhastaṃ) [and](ca) [Tumburu](tumburum)
+tiger-skin-wearing make lute-hand and Tumburu
 
 ## mukta-m0-p38-v933
-[thereafter](anantaraṃ) [indeed](tu) [Mothers](mātṛḥ) [and](ca) [beginning-with-Brahmāṇī](brahmāṇyādyāḥ) [indeed](tu) [seven](sapta) [and](ca)
+afterwards mothers and Brahmāni-first seven and
 
 ## mukta-m0-p38-v934
-[holding-ladle+and-ghee-vessel](kuṇḍyājyapātriṇīṃ) [in-left](vāme) [Brahmāṇī](brahmāṇīṃ) [seated-on-swan](haṃsasaṃsthitam)
+pot-ghee-vessel left Brahmāni goose-seated
 
 ## mukta-m0-p38-v935
-[wearing-skull+garland](kapālamālinīṃ) [white](śuklāṃ) [Rudrāṇī](rudrāṇīṃ) [seated-on-bull](vṛṣasaṃsthitām)
+skull-garland white Rudrāni bull-seated
 
 ## mukta-m0-p38-v936
-[mounted-on-peacock+back](śikhipṛṣṭhasamārūḍhāṃ) [Kaumārī](kaumārīṃ) [in-form-of-Skanda](skandarūpiṇīm)
+peacock-back-mounted Kaumāri Skanda-formed
 
 ## mukta-m0-p38-v937
-[dark](śyāmāṃ) [beautiful-formed](surūpiṇīṃ) [one-should-make](kuryāt) [Vaiṣṇavī](vaiṣṇavīṃ) [wearing-forest-garland](vanamālinīm)
+dark beautiful make Vaishnavi forest-garland
 
 ## mukta-m0-p38-v938
-[well-clad](suvastrāṃ) [with-youth+blossomed](yauvanodbhinnāṃ) [with-feminine+ornaments+adorned](nāryābharaṇabhūṣitām)
+well-clothed youth-bloomed woman-ornament-adorned
 
 ## mukta-m0-p38-v939
-[with-sword+and-shield+joined](khaḍgakheṭakasaṃyuktām) [or](atha) [or](vā) [also](api) [four-armed](caturbhujām)
+sword-shield-joined or four-armed
 
 ## mukta-m0-p38-v940
-[Indrāṇī](indrāṇīṃ) [for-all+accomplishment](sarvasiddhyarthaṃ) [with-garments+and-ornaments+endowed](vastrālaṅkārasaṃyutām)
+Indrāni all-success-purpose cloth-ornament-joined
 
 ## mukta-m0-p38-v941
-[with-open+mouth](vivatāsyāṃ) [indeed](tu) [with-fangs+fierce](daṃṣṭrogrāṃ) [on-corpse](śave) [or](vā) [on-owl](kauśike) [standing](sthitām)
+open-mouthed tusk-fierce corpse or skin seated
 
 ## mukta-m0-p38-v942
-[skull](kapālaṃ) [scissors](katarīṃ) [in-right](yāmye) [noose](pāśaṃ) [trident](śūlaṃ) [and](ca) [in-left](vāmake)
+skull knife right noose trident and left
 
 ## mukta-m0-p38-v943
-[in-place-of-Mothers](mātṛsthāne) [or](atha) [one](vā) [alone](ekāṃ) [or](vā) [and-at-their-end](tadante) [and](ca) [Gaṇeśvara](gaṇeśvaraḥ)
+mother-place or one and end and Ganeshvara
 
 ## mukta-m0-p38-v944
-[elephant-skin+bearing](gajacarmabhṛd) [with-upper+two](ūrdhvābhyāṃ) [six-armed](ṣaḍdoḥ) [should-be](syāt) [Rudracarcikā](rudracarcikā)
+elephant-skin-bearing upward two six-arms be Rudracarcika
 
 ## mukta-m0-p38-v945
-[by-that](tena) [she](sā) [Rudracāmuṇḍā](rudracāmuṇḍā) [in-dance](nāṭye) [as-lord](īśvarī) [then](atha) [dancing](nṛtyatī)
+therefore she Rudracāmuṇḍā dance-lady then dancing
 
 ## mukta-m0-p38-v946
-[kings+goats+buffaloes+elephants](nṛpājimahiṣebhān) [and](ca) [devouring](khādantī) [if](cet) [in-hand](kare) [placed](sthitān)
+king-battle-buffalo-elephants and eating if hand situated
 
 ## mukta-m0-p38-v947
-[one-faced](ekāsyā) [white-colored](śvetavarṇa) [and](ca) [with-white+ornaments+adorned](śvetābharaṇabhūṣitā)
+one-faced white-color and white-ornament-adorned
 
 ## mukta-m0-p38-v948
-[ten-armed](daśabāhuḥ) [three-eyed](trinetrā) [and](ca) [weapon+sword](śastrāsiṃ) [drum](ḍamaruṃ) [human-figure](nṛkam)
+ten-arms three-eyes and weapon-sword drum skull
 
 ## mukta-m0-p38-v949
-[skull-staff](khaṭvāṅgaṃ) [and](ca) [trident](triśūlaṃ) [and](ca) [named-Siddhacāmuṇḍikā](siddhacāmuṇḍikāhvayā)
+khatvanga and trident and Siddhacāmuṇḍikā-called
 
 ## mukta-m0-p38-v950
-[of-this+form](etadrūpā) [should-be](bhavet) [another](anyā) [with-noose+and-goad+joined](pāśāṅkuśayutā) [red](aruṇā)
+this-form be another noose-goad-joined-red
