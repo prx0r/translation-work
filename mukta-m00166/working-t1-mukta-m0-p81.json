@@ -7,8 +7,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
+"surface": "jala",
+"quick_gloss": "water"
+},
+{
+"surface": "sthā",
+"quick_gloss": "standing"
+},
+{
 "surface": "jalasthā",
 "quick_gloss": "water-standing"
+},
+{
+"surface": "jalasthā",
+"quick_gloss": "abiding-in-water"
 }
 ]
 },
@@ -20,16 +32,24 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "sadāsannidheḥ",
-"quick_gloss": "always-nearness"
+"surface": "sadā",
+"quick_gloss": "always"
+},
+{
+"surface": "sannidheḥ",
+"quick_gloss": "nearness"
 },
 {
 "surface": "ko'pi",
 "quick_gloss": "some"
 },
 {
-"surface": "bhāvānubhāvaḥ",
-"quick_gloss": "feeling-power"
+"surface": "bhāva",
+"quick_gloss": "feeling"
+},
+{
+"surface": "anubhāvaḥ",
+"quick_gloss": "power"
 }
 ]
 },
@@ -41,8 +61,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
+"surface": "jala",
+"quick_gloss": "water"
+},
+{
+"surface": "devatā",
+"quick_gloss": "deity"
+},
+{
 "surface": "jaladevatā",
-"quick_gloss": "water-goddess"
+"quick_gloss": "water-deity"
+},
+{
+"surface": "jaladevatā",
+"quick_gloss": "goddess-of-waters"
 }
 ]
 },
@@ -58,8 +90,20 @@
 "quick_gloss": "lotus"
 },
 {
-"surface": "tajjaladevatāprasādaḥ",
-"quick_gloss": "that-water-goddess-favor"
+"surface": "tad",
+"quick_gloss": "that"
+},
+{
+"surface": "jaladevatā",
+"quick_gloss": "water-deity"
+},
+{
+"surface": "prasādaḥ",
+"quick_gloss": "grace"
+},
+{
+"surface": "kamalaṃ",
+"quick_gloss": "lotus-grace"
 }
 ]
 },
@@ -71,8 +115,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
+"surface": "kuru",
+"quick_gloss": "kuru"
+},
+{
+"surface": "kṣetra",
+"quick_gloss": "field"
+},
+{
+"surface": "avaniḥ",
+"quick_gloss": "earth"
+},
+{
 "surface": "kurukṣetrāvaniḥ",
-"quick_gloss": "Kurukshetra-earth"
+"quick_gloss": "kuru-field-earth"
 }
 ]
 },
@@ -85,15 +141,19 @@
 "tokens": [
 {
 "surface": "kauravāṇāṃ",
-"quick_gloss": "of-Kauravas"
+"quick_gloss": "of-kauravas"
 },
 {
-"surface": "kurukṣetrāvanirmāmavatād",
-"quick_gloss": "Kurukshetra-earth-me-protect-from"
+"surface": "kurukṣetrāvaniḥ",
+"quick_gloss": "kuru-field-earth"
 },
 {
 "surface": "bhayāt",
 "quick_gloss": "from-fear"
+},
+{
+"surface": "māmavatād",
+"quick_gloss": "protection"
 }
 ]
 },
@@ -106,7 +166,19 @@
 "tokens": [
 {
 "surface": "kāśī",
-"quick_gloss": "Kashi"
+"quick_gloss": "kāśī"
+},
+{
+"surface": "kāśī",
+"quick_gloss": "shining-city"
+},
+{
+"surface": "kāśī",
+"quick_gloss": "holy-kāśī"
+},
+{
+"surface": "kāśī",
+"quick_gloss": "luminous-place"
 }
 ]
 },
@@ -123,7 +195,7 @@
 },
 {
 "surface": "kāśī",
-"quick_gloss": "Kashi"
+"quick_gloss": "kāśī"
 },
 {
 "surface": "parikāśate",
@@ -135,7 +207,7 @@
 },
 {
 "surface": "hṛdākāśe",
-"quick_gloss": "heart-sky"
+"quick_gloss": "heart-space"
 },
 {
 "surface": "sadā",
@@ -156,7 +228,19 @@
 "tokens": [
 {
 "surface": "mathurā",
-"quick_gloss": "Mathura"
+"quick_gloss": "mathurā"
+},
+{
+"surface": "mathurā",
+"quick_gloss": "holy-mathurā"
+},
+{
+"surface": "mathurā",
+"quick_gloss": "rasa-city"
+},
+{
+"surface": "mathurā",
+"quick_gloss": "divine-mathurā"
 }
 ]
 },
@@ -169,11 +253,19 @@
 "tokens": [
 {
 "surface": "sthiraṃ",
-"quick_gloss": "steady"
+"quick_gloss": "firm"
 },
 {
-"surface": "rasaśrīrmathurāsti",
+"surface": "rasaśrīḥ",
 "quick_gloss": "rasa-glory"
+},
+{
+"surface": "mathurā",
+"quick_gloss": "mathurā"
+},
+{
+"surface": "asti",
+"quick_gloss": "is"
 },
 {
 "surface": "kāpi",
@@ -190,7 +282,19 @@
 "tokens": [
 {
 "surface": "kāñcī",
-"quick_gloss": "Kanchi"
+"quick_gloss": "kāñcī"
+},
+{
+"surface": "kāñcī",
+"quick_gloss": "golden-city"
+},
+{
+"surface": "kāñcī",
+"quick_gloss": "sacred-kāñcī"
+},
+{
+"surface": "kāñcī",
+"quick_gloss": "prosperity-place"
 }
 ]
 },
@@ -207,7 +311,7 @@
 },
 {
 "surface": "kāñcana",
-"quick_gloss": "gold"
+"quick_gloss": "golden"
 },
 {
 "surface": "kāñcanādriviṣayāṃ",
@@ -215,7 +319,7 @@
 },
 {
 "surface": "kāñcī",
-"quick_gloss": "Kanchi"
+"quick_gloss": "kāñcī"
 },
 {
 "surface": "dadātu",
@@ -235,8 +339,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "p. 244",
-"quick_gloss": "page-244-Avantika"
+"surface": "p.",
+"quick_gloss": "page"
+},
+{
+"surface": "244",
+"quick_gloss": "244"
+},
+{
+"surface": "avantikā",
+"quick_gloss": "avantikā"
+},
+{
+"surface": "avantikā",
+"quick_gloss": "western-city"
 }
 ]
 },
@@ -253,15 +369,15 @@
 },
 {
 "surface": "pūrbhāskarayānamadhyaviṣayā",
-"quick_gloss": "eastern-sun-middle-region"
+"quick_gloss": "sun-path-region"
 },
 {
 "surface": "saṃrājate",
 "quick_gloss": "shines"
 },
 {
-"surface": "'vantikā",
-"quick_gloss": "Avantika"
+"surface": "avantikā",
+"quick_gloss": "avantikā"
 }
 ]
 },
@@ -274,7 +390,19 @@
 "tokens": [
 {
 "surface": "ayodhyā",
-"quick_gloss": "Ayodhya"
+"quick_gloss": "ayodhyā"
+},
+{
+"surface": "ayodhyā",
+"quick_gloss": "unconquerable-city"
+},
+{
+"surface": "ayodhyā",
+"quick_gloss": "holy-ayodhyā"
+},
+{
+"surface": "ayodhyā",
+"quick_gloss": "divine-city"
 }
 ]
 },
@@ -286,16 +414,28 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
+"surface": "ryodhyā",
+"quick_gloss": "ayodhyā"
+},
+{
 "surface": "janāḥ",
 "quick_gloss": "people"
 },
 {
 "surface": "sāsti",
-"quick_gloss": "that"
+"quick_gloss": "is"
 },
 {
-"surface": "kāpyayodhyā",
+"surface": "ca",
+"quick_gloss": "and"
+},
+{
+"surface": "kāpi",
 "quick_gloss": "some"
+},
+{
+"surface": "ayodhyā",
+"quick_gloss": "ayodhyā"
 }
 ]
 },
@@ -308,7 +448,19 @@
 "tokens": [
 {
 "surface": "dvārakā",
-"quick_gloss": "Dwarka"
+"quick_gloss": "dvārakā"
+},
+{
+"surface": "dvārakā",
+"quick_gloss": "gate-city"
+},
+{
+"surface": "dvārakā",
+"quick_gloss": "holy-dvārakā"
+},
+{
+"surface": "dvārakā",
+"quick_gloss": "divine-city"
 }
 ]
 },
@@ -333,7 +485,7 @@
 },
 {
 "surface": "gupteva",
-"quick_gloss": "hidden"
+"quick_gloss": "hidden-like"
 },
 {
 "surface": "bhavati",
@@ -345,11 +497,11 @@
 },
 {
 "surface": "spandanād",
-"quick_gloss": "throbbing-from"
+"quick_gloss": "from-pulsation"
 },
 {
 "surface": "dvārakā",
-"quick_gloss": "Dwarka"
+"quick_gloss": "dvārakā"
 },
 {
 "surface": "sā",
@@ -366,7 +518,19 @@
 "tokens": [
 {
 "surface": "māyā",
-"quick_gloss": "Maya"
+"quick_gloss": "māyā"
+},
+{
+"surface": "māyā",
+"quick_gloss": "illusion"
+},
+{
+"surface": "māyā",
+"quick_gloss": "divine-māyā"
+},
+{
+"surface": "māyā",
+"quick_gloss": "mystic-power"
 }
 ]
 },
@@ -379,7 +543,7 @@
 "tokens": [
 {
 "surface": "hitvā",
-"quick_gloss": "leaving"
+"quick_gloss": "abandoning"
 },
 {
 "surface": "bhavanti",
@@ -391,7 +555,7 @@
 },
 {
 "surface": "viṣṇumāyeśvarāḥ",
-"quick_gloss": "Vishnu-Maya-lords"
+"quick_gloss": "viṣṇu-māyā-lords"
 },
 {
 "surface": "svayam",
@@ -408,7 +572,19 @@
 "tokens": [
 {
 "surface": "tīrthā",
-"quick_gloss": "tirthas"
+"quick_gloss": "tīrthā"
+},
+{
+"surface": "tīrthā",
+"quick_gloss": "holy-ford"
+},
+{
+"surface": "tīrthā",
+"quick_gloss": "sacred-tīrthā"
+},
+{
+"surface": "tīrthā",
+"quick_gloss": "pilgrimage-place"
 }
 ]
 },
@@ -421,7 +597,7 @@
 "tokens": [
 {
 "surface": "ttīrthyānāṃ",
-"quick_gloss": "tirtha-people"
+"quick_gloss": "of-tīrtha-people"
 },
 {
 "surface": "sā",
@@ -433,7 +609,7 @@
 },
 {
 "surface": "tīrthā",
-"quick_gloss": "tirtha"
+"quick_gloss": "tīrthā"
 },
 {
 "surface": "na",
@@ -441,7 +617,7 @@
 },
 {
 "surface": "tīrthyā",
-"quick_gloss": "tirtha-people"
+"quick_gloss": "tīrtha-person"
 }
 ]
 },
@@ -453,8 +629,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
+"surface": "tīrthakara",
+"quick_gloss": "tīrtha-maker"
+},
+{
+"surface": "priyā",
+"quick_gloss": "dear"
+},
+{
 "surface": "tīrthakarapriyā",
-"quick_gloss": "tirthakara-dear"
+"quick_gloss": "tīrthakara-dear"
+},
+{
+"surface": "tīrthakarapriyā",
+"quick_gloss": "beloved-of-tīrthakaras"
 }
 ]
 },
@@ -466,12 +654,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "na ceddhitā",
+"surface": "na ced",
 "quick_gloss": "if-not"
 },
 {
+"surface": "hitā",
+"quick_gloss": "beneficial"
+},
+{
 "surface": "tīrthakarapriyā",
-"quick_gloss": "tirthakara-dear"
+"quick_gloss": "tīrthakara-dear"
 },
 {
 "surface": "syāt",
@@ -487,8 +679,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
+"surface": "tri",
+"quick_gloss": "three"
+},
+{
+"surface": "puṣkara",
+"quick_gloss": "lotus"
+},
+{
 "surface": "tripuṣkarā",
-"quick_gloss": "three-pushkaras"
+"quick_gloss": "three-lotus"
+},
+{
+"surface": "tripuṣkarā",
+"quick_gloss": "triple-lotus-place"
 }
 ]
 }

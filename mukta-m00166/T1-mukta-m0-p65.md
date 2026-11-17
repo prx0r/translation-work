@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p65-v1601
-[satisfaction-giver](tuṣṭidā)
+[tuṣṭi-dā](tuṣṭidā)
 
 ## mukta-m0-p65-v1602
-[abandoned](pyujjhito) [in-heart](hṛdi) [always](sadā) [let-it-be](stu) [satisfaction-giver](tuṣṭidā)
+[py-ujjhitaḥ](pyujjhito) [hṛdi](hṛdi) [sadā](sadā) [astu](astu) [tuṣṭi-dā](tuṣṭidā)
 
 ## mukta-m0-p65-v1603
-[nourishment-giver](puṣṭidā)
+[puṣṭi-dā](puṣṭidā)
 
 ## mukta-m0-p65-v1604
-[by-whom](kena) [by-whom](kenāsi) [by-form](rūpeṇa) [to-whom](kasmai) [to-whom](kasmai) [not](na) [nourishment-giver](puṣṭidā)
+[kena](kena) [kena](kenāsi) [asi](asi) [rūpeṇa](rūpeṇa) [kasmai](kasmai) [kasmai](kasmai) [na](na) [puṣṭi-dā](puṣṭidā)
 
 ## mukta-m0-p65-v1605
-[imperishable](akṣayā)
+[akṣayā](akṣayā)
 
 ## mukta-m0-p65-v1606
-[you-alone](tvamevaikā) [indeed](tu) [true-form](sadrūpā) [by-nature](svabhāvena) [consciousness-imperishable](cidakṣayā)
+[tvam](tvamevaikā) [eva](eva) [ekā](ekā) [tu](tu) [sat-rūpā](sadrūpā) [sva-bhāvena](svabhāvena) [cit-akṣayā](cidakṣayā)
 
 ## mukta-m0-p65-v1607
-[steadfastness](niṣṭhā)
+[niṣṭhā](niṣṭhā)
 
 ## mukta-m0-p65-v1608
-[steadfastness](niṣṭhā) [compassion](kṛpāṃ) [as-long-as](yāvadiyaṃ) [not](na) [bears](dhatte)
+[niṣṭhā](niṣṭhā) [kṛpām](kṛpāṃ) [yāvat](yāvadiyaṃ) [iyam](iyaṃ) [na](na) [dhatte](dhatte)
 
 ## mukta-m0-p65-v1609
-[truth-dear](satyapriyā)
+[satya-priyā](satyapriyā)
 
 ## mukta-m0-p65-v1610
-[truth-dear](satyapriyā) [she](sā) [dear-one](priyam) [may-extend](ātanotu)
+[satya-priyā](satyapriyā) [sā](sā) [priyam](priyam) [ātanotu](ātanotu)
 
 ## mukta-m0-p65-v1611
-[wisdom](prajñā)
+[prajñā](prajñā)
 
 ## mukta-m0-p65-v1612
-[of-him](tasya) [of-him](tasya) [how](kathaṃ) [not-ignorance](nājñāṃ) [carry](vahanti) [on-heads](śirasītare)
+[tasya](tasya) [tasya](tasya) [katham](kathaṃ) [na](nājñāṃ) [ajñām](ajñāṃ) [vahanti](vahanti) [śirasi](śirasītare) [itare](itare)
 
 ## mukta-m0-p65-v1613
-[world-lady](lokeśī)
+[lokeśī](lokeśī)
 
 ## mukta-m0-p65-v1614
-[world-lady](lokeśī) [me](māṃ) [grief-free](śokahīnaṃ) [may-make](karotu)
+[lokeśī](lokeśī) [mām](māṃ) [śoka-hīnam](śokahīnaṃ) [karotu](karotu)
 
 ## mukta-m0-p65-v1615
-[best-of-gods](surottamā)
+[surottamā](surottamā)
 
 ## mukta-m0-p65-v1616
-[best-of-gods](surottamā) [may-make](karotu) [him](enaṃ) [supreme-goal](sarvottamagatiṃ) [person](janam)
+[surottamā](surottamā) [karotu](karotvenaṃ) [enam](enam) [sarva-uttama-gatim](sarvottamagatiṃ) [janam](janam)
 
 ## mukta-m0-p65-v1617
-[with-poison](saviṣā)
+[saviṣā](saviṣā)
 
 ## mukta-m0-p65-v1618
-[with-poison](saviṣā) [by-name-alone](nāmamātreṇa) [know](jāne) [like-ḍittha](ḍitthaḍavitthavat)
+[saviṣā](saviṣā) [nāma-mātreṇa](nāmamātreṇa) [jāne](jāne) [ḍittha-ḍavittha-vat](ḍitthaḍavitthavat)
 
 ## mukta-m0-p65-v1619
-[flaming](jvālinī)
+[jvālinī](jvālinī)
 
 ## mukta-m0-p65-v1620
-[she](sā) [flaming](jvālinī) [time-fear](kālabhayaṃ) [may-remove](harāsya)
+[sā](sā) [jvālinī](jvālinī) [kāla-bhayam](kālabhayaṃ) [harāsya](harāsya)
 
 ## mukta-m0-p65-v1621
-[flame](jvālā)
+[jvālā](jvālā)
 
 ## mukta-m0-p65-v1622
-[blazes](jājvalīti) [standing-alone](sthitaikaiva) [flame](jvālā) [she](sā) [strength-giver](baladāstu) [to-us](naḥ)
+[jājvalīti](jājvalīti) [sthita](sthita) [ekā](ekaiva) [eva](eva) [jvālā](jvālā) [sā](sā) [bala-dā](baladā) [astu](astu) [naḥ](naḥ)
 
 ## mukta-m0-p65-v1623
-[poison-delusion-pain-destroyer](viṣamohārtināśinī)
+[viṣa-moha-ārti-nāśinī](viṣamohārtināśinī)
 
 ## mukta-m0-p65-v1624
-[death-conqueror](mṛtyujit) [cowherd](paśupaḥ) [she-this](seyaṃ) [poison-delusion-pain-destroyer](viṣamohārtināśinī)
+[mṛtyu-jit](mṛtyujit) [paśupaḥ](paśupaḥ) [seyam](seyaṃ) [viṣa-moha-ārti-nāśinī](viṣamohārtināśinī)
 
 ## mukta-m0-p65-v1625
-[poison-enemy](viṣāriḥ)
+[viṣāriḥ](viṣāriḥ)

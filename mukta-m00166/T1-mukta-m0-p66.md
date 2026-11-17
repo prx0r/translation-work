@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p66-v1626
-[viṣa-aśanena](viṣāśanena) [saṃvṛttā](saṃvṛttā) [viṣa-ariḥ](viṣāriḥ) [sā-api](sāpi) [viśva-sūḥ](viśvasūḥ)
+[poison-eater](viṣāśanena) [become](saṃvṛttā) [poison-enemy](viṣāriḥ) [she](sā) [also](api) [world-mother](viśvasūḥ)
 
 ## mukta-m0-p66-v1627
-[nāga-damanī](nāgadamanī)
+[snake](nāga) [subduer](damana) [feminine](ī) [goddess](devī) [form](rūpa) [power](śakti)
 
 ## mukta-m0-p66-v1628
-[salajjā-iva-asti](salajjevāsti) [sā](sā) [nāga-damanī](nāgadamanī) [śaktiḥ-aiśvarī](śaktiraiśvarī)
+[with-shame](salajje) [is](vā) [asti](asti) [she](sā) [snake-subduer](nāgadamanī) [divine-power](śaktiraiśvarī)
 
 ## mukta-m0-p66-v1629
-[bhrātṛtvena](bhrātṛtvena) [samāgata-atra](samāgate'tra) [daśamī](daśamī) [bhaktiḥ-virāmaṃ](bhaktirvirāmaṃ) [gatā](gatā)
+[brotherhood](bhrātṛtvena) [united](samāgate) [here](atra) [tenth](daśamī) [devotion](bhaktiḥ) [rest](virāmaṃ) [gone](gatā)
 
 ## mukta-m0-p66-v1630
-[mahā-kāvye](mahākāvye) [daśamī](daśamī) [bhaktiḥ](bhaktiḥ)
+[great-poem](mahākāvye) [tenth](daśamī) [devotion](bhaktiḥ) [verse](pada) [line](vākya) [meaning](artha) [sense](bhāva)
 
 ## mukta-m0-p66-v1631
-[kurukullā](kurukullā)
+[kuru](kuru) [kullā](kullā) [goddess](devī) [form](rūpa) [power](śakti) [mantra](mantra) [name](nāma)
 
 ## mukta-m0-p66-v1632
-[kula-akula-parijñāna-dākṣiṇya-prathita-udayam](kulākulaparijñānadākṣiṇyaprathitodayam)
+[family](kula) [non-family](akula) [knowledge](parijñāna) [skill](dākṣiṇya) [famous](prathita) [rise](udayam)
 
 ## mukta-m0-p66-v1633
-[amṛta-udbhavā](amṛtodbhavā)
+[nectar](amṛta) [born](udbhavā) [goddess](devī) [form](rūpa) [power](śakti) [name](nāma) [mantra](mantra)
 
 ## mukta-m0-p66-v1634
-[dayayā](dayayā) [bhakta-varyaḥ-ayam](bhaktavaryo'yaṃ) [sā](sā) [jīyāt-amṛta-udbhavā](jīyādamṛtodbhavā)
+[compassion](dayayā) [devotee-best](bhaktavaryo) [this](ayaṃ) [she](sā) [may-live](jīyād) [nectar-born](amṛtodbhavā)
 
 ## mukta-m0-p66-v1635
-[bhūta-bhīti-harā](bhūtabhītiharā) [rakṣā](rakṣā)
+[beings](bhūta) [fear](bhīti) [remover](harā) [protection](rakṣā) [goddess](devī) [form](rūpa) [power](śakti)
 
 ## mukta-m0-p66-v1636
-[bhūta-bhīti-harā](bhūtabhītiharā) [rakṣā](rakṣā) [svayaṃ](svayaṃ) [sā](sā) [parameśvarī](parameśvarī)
+[beings](bhūta) [fear](bhīti) [remover](harā) [protection](rakṣā) [herself](svayaṃ) [she](sā) [supreme-lady](parameśvarī)
 
 ## mukta-m0-p66-v1637
-[bhūta-āveśa-vināśinī](bhūtāveśavināśinī)
+[beings](bhūta) [possession](āveśa) [destroyer](vināśinī) [goddess](devī) [form](rūpa) [power](śakti) [name](nāma)
 
 ## mukta-m0-p66-v1638
-[bhūyāt](bhūyād) [bhūti-pradā](bhūtipradā) [devī](devī) [bhūta-ahantā-nivāriṇī](bhūtāhantānivāriṇī)
+[may-be](bhūyād) [prosperity-giver](bhūtipradā) [goddess](devī) [beings](bhūta) [slayer](hantā) [preventer](nivāriṇī)
 
 ## mukta-m0-p66-v1639
-[rakṣoghnī](rakṣoghnī)
+[page](p) [206](206) [rakshas-killer](rakṣoghnī) [goddess](devī) [form](rūpa) [power](śakti) [name](nāma)
 
 ## mukta-m0-p66-v1640
-[rakṣoghnī](rakṣoghnī) [sā](sā) [kasya](kasya) [mānyā](mānyā) [na](na) [mātā](mātā)
+[rakshas-killer](rakṣoghnī) [she](sā) [whose](kasya) [honorable](mānyā) [not](na) [mother](mātā)
 
 ## mukta-m0-p66-v1641
-[rākṣasī](rākṣasī)
+[rakshasi](rākṣasī) [goddess](devī) [form](rūpa) [power](śakti) [name](nāma) [mantra](mantra) [line](pada)
 
 ## mukta-m0-p66-v1642
-[sā](sā) [rākṣasī](rākṣasī) [haratu](haratu) [rākṣasa-jaṃ](rākṣasajaṃ) [bhayaṃ](bhayaṃ) [naḥ](naḥ)
+[she](sā) [rakshasi](rākṣasī) [remove](haratu) [rakshasa-born](rākṣasajaṃ) [fear](bhayaṃ) [our](naḥ)
 
 ## mukta-m0-p66-v1643
-[rātriḥ](rātriḥ)
+[night](rātriḥ) [goddess](devī) [form](rūpa) [power](śakti) [name](nāma) [mantra](mantra) [line](pada)
 
 ## mukta-m0-p66-v1644
-[svapna-āgataiḥ](svapnāgataiḥ) [priyatamaiḥ](priyatamaiḥ) [sukha-dā](sukhadā) [astu](astu) [rātriḥ](rātriḥ)
+[dream-come](svapnāgataiḥ) [beloveds](priyatamaiḥ) [pleasure-giver](sukhadā) [may-be](stu) [night](rātriḥ)
 
 ## mukta-m0-p66-v1645
-[dīrgha-nidrā](dīrghanidrā)
+[long-sleep](dīrghanidrā) [goddess](devī) [form](rūpa) [power](śakti) [name](nāma) [mantra](mantra) [line](pada)
 
 ## mukta-m0-p66-v1646
-[śivā](śivā) [dīrgha-nidrā](dīrghanidrā) [parānanda-dā](parānandadā) [astu](astu)
+[auspicious](śivā) [long-sleep](dīrghanidrā) [supreme-bliss-giver](parānandadā) [may-be](stu)
 
 ## mukta-m0-p66-v1647
-[divā-gatiḥ](divāgatiḥ)
+[page](p) [207](207) [day-going](divāgatiḥ) [goddess](devī) [form](rūpa) [power](śakti) [name](nāma)
 
 ## mukta-m0-p66-v1648
-[divā-gatiḥ](divāgatiḥ) [sā-astu](sāstu) [śivā](śivā) [gatiḥ-naḥ](gatirnaḥ)
+[day-going](divāgatiḥ) [she](sā) [may-be](stu) [auspicious](śivā) [going](gatiḥ) [our](naḥ)
 
 ## mukta-m0-p66-v1649
-[candrikā](candrikā)
+[moonlight](candrikā) [goddess](devī) [form](rūpa) [power](śakti) [name](nāma) [mantra](mantra) [line](pada)
 
 ## mukta-m0-p66-v1650
-[ścandrikā-āśraya-bhavaḥ](ścandrikāśrayabhavo) [guṇaḥ](guṇo) [hi-ayam](hyayam)
+[moonlight-refuge-born](ścandrikāśrayabhavo) [quality](guṇo) [indeed](hyayam) [verse](pada) [line](vākya) [meaning](artha) [sense](bhāva)

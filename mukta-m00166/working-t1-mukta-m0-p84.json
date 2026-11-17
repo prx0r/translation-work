@@ -7,20 +7,28 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "devī",
-"quick_gloss": "goddess"
+"surface": "tveṣā",
+"quick_gloss": "but+this"
 },
 {
-"surface": "tveṣā",
-"quick_gloss": "indeed-this"
+"surface": "devī",
+"quick_gloss": "goddess"
 },
 {
 "surface": "mahākośī",
 "quick_gloss": "great-sheath"
 },
 {
-"surface": "dadātyutpādayatyapi",
-"quick_gloss": "gives-creates-also"
+"surface": "dadāti",
+"quick_gloss": "gives"
+},
+{
+"surface": "utpādayati",
+"quick_gloss": "produces"
+},
+{
+"surface": "api",
+"quick_gloss": "also"
 }
 ]
 },
@@ -45,16 +53,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "ante",
-"quick_gloss": "at-end"
-},
-{
-"surface": "asaṃbādham",
-"quick_gloss": "unobstructed"
-},
-{
-"surface": "evāstu",
-"quick_gloss": "let-it-be"
+"surface": "ante'saṃbādhamevāstu",
+"quick_gloss": "at-end+unobstructed+indeed+let-be"
 },
 {
 "surface": "mahāvartā",
@@ -62,7 +62,7 @@
 },
 {
 "surface": "mahattvadā",
-"quick_gloss": "great-giving"
+"quick_gloss": "greatness-giving"
 }
 ]
 },
@@ -79,7 +79,7 @@
 },
 {
 "surface": "sadasadātmikā",
-"quick_gloss": "being-nonbeing-natured"
+"quick_gloss": "being+nonbeing-self"
 }
 ]
 },
@@ -96,7 +96,7 @@
 },
 {
 "surface": "sāhaṃ",
-"quick_gloss": "that-i"
+"quick_gloss": "I+myself"
 },
 {
 "surface": "svayaṃsiddhir",
@@ -108,7 +108,7 @@
 },
 {
 "surface": "sadasadātmikā",
-"quick_gloss": "being-nonbeing-natured"
+"quick_gloss": "being+nonbeing-self"
 }
 ]
 },
@@ -121,7 +121,7 @@
 "tokens": [
 {
 "surface": "mahāgrahaharā",
-"quick_gloss": "great-grasp-remover"
+"quick_gloss": "great-grasper-remover"
 }
 ]
 },
@@ -138,7 +138,7 @@
 },
 {
 "surface": "nāgraho",
-"quick_gloss": "no-grasp"
+"quick_gloss": "grasping"
 },
 {
 "surface": "yasyā",
@@ -146,7 +146,7 @@
 },
 {
 "surface": "mahāgrahaharā",
-"quick_gloss": "great-grasp-remover"
+"quick_gloss": "great-grasper-remover"
 },
 {
 "surface": "asti",
@@ -184,7 +184,7 @@
 },
 {
 "surface": "somakalāvataṃsām",
-"quick_gloss": "moon-digit-crested"
+"quick_gloss": "moon-crescent-ornamented"
 }
 ]
 },
@@ -209,8 +209,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "vilokayatyetadato",
-"quick_gloss": "beholds-this-therefore"
+"surface": "vilokayati",
+"quick_gloss": "beholds"
+},
+{
+"surface": "etad",
+"quick_gloss": "this"
+},
+{
+"surface": "ato",
+"quick_gloss": "therefore"
 },
 {
 "surface": "viśokā",
@@ -226,10 +234,6 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "p.",
-"quick_gloss": "page-252"
-},
-{
 "surface": "śokanāśinī",
 "quick_gloss": "sorrow-destroyer"
 }
@@ -244,7 +248,7 @@
 "tokens": [
 {
 "surface": "niśamiha",
-"quick_gloss": "hear-here"
+"quick_gloss": "hear"
 },
 {
 "surface": "yasya",
@@ -285,8 +289,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "sarvasātakarasanmatakramaścetasi",
-"quick_gloss": "all-sattva-essence-good-order-in-mind"
+"surface": "sarvasātakarasan",
+"quick_gloss": "all-sattva-essence"
+},
+{
+"surface": "matakramaś",
+"quick_gloss": "good-order"
+},
+{
+"surface": "cetasi",
+"quick_gloss": "in-mind"
 },
 {
 "surface": "sphurati",
@@ -328,7 +340,7 @@
 },
 {
 "surface": "yaddayayā",
-"quick_gloss": "which-by-compassion"
+"quick_gloss": "with-compassion"
 },
 {
 "surface": "sattvaṃ",
@@ -377,16 +389,20 @@
 "quick_gloss": "of-kings-of-kings"
 },
 {
-"surface": "rājasīyaṃ",
-"quick_gloss": "rajasic-this"
+"surface": "rājasī",
+"quick_gloss": "rajasic"
 },
 {
-"surface": "dadātu",
+"surface": "iyaṃ",
 "quick_gloss": "let-give"
 },
 {
+"surface": "dadātu",
+"quick_gloss": "to-us"
+},
+{
 "surface": "naḥ",
-"quick_gloss": "us"
+"quick_gloss": "not"
 }
 ]
 },
@@ -420,7 +436,7 @@
 },
 {
 "surface": "sāpi",
-"quick_gloss": "she-too"
+"quick_gloss": "she"
 },
 {
 "surface": "citraṃ",
@@ -461,8 +477,12 @@
 "quick_gloss": "he"
 },
 {
-"surface": "tāmasīdhyānabhavo'nubhāvaḥ",
-"quick_gloss": "tamasic-meditation-born-power"
+"surface": "tāmasīdhyānabhavo",
+"quick_gloss": "tamasic-meditation-born"
+},
+{
+"surface": "anubhāvaḥ",
+"quick_gloss": "experience"
 }
 ]
 },
@@ -474,12 +494,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "p.",
-"quick_gloss": "page-253"
-},
-{
 "surface": "tamoyuktā",
-"quick_gloss": "darkness-yoked"
+"quick_gloss": "darkness-united"
 }
 ]
 },
@@ -504,7 +520,7 @@
 },
 {
 "surface": "tamoyuktā",
-"quick_gloss": "darkness-yoked"
+"quick_gloss": "darkness-united"
 },
 {
 "surface": "asti",

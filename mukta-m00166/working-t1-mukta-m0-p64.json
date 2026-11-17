@@ -7,28 +7,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "na",
-"quick_gloss": "not"
+"surface": "nna",
+"quick_gloss": "no"
 },
 {
 "surface": "kasya",
-"quick_gloss": "of-whom"
+"quick_gloss": "whose"
 },
 {
 "surface": "gītiḥ",
 "quick_gloss": "song"
 },
 {
-"surface": "priyatā",
-"quick_gloss": "pleasantness"
-},
-{
-"surface": "āvahā",
-"quick_gloss": "bringing"
-},
-{
-"surface": "asti",
-"quick_gloss": "is"
+"surface": "priyatāvahāsti",
+"quick_gloss": "brings-pleasantness"
 }
 ]
 },
@@ -41,7 +33,7 @@
 "tokens": [
 {
 "surface": "sugītiḥ",
-"quick_gloss": "good-song"
+"quick_gloss": "good+song"
 }
 ]
 },
@@ -54,7 +46,7 @@
 "tokens": [
 {
 "surface": "sphītiṃ",
-"quick_gloss": "abundance"
+"quick_gloss": "growth"
 },
 {
 "surface": "buddheḥ",
@@ -65,12 +57,8 @@
 "quick_gloss": "that"
 },
 {
-"surface": "sugītiḥ",
-"quick_gloss": "good-song"
-},
-{
-"surface": "dadātu",
-"quick_gloss": "let-give"
+"surface": "sugītirdadātu",
+"quick_gloss": "good-song+give"
 }
 ]
 },
@@ -83,7 +71,7 @@
 "tokens": [
 {
 "surface": "jñānalocanā",
-"quick_gloss": "knowledge-eye"
+"quick_gloss": "knowledge+eye"
 }
 ]
 },
@@ -100,11 +88,11 @@
 },
 {
 "surface": "yākhilānarthān",
-"quick_gloss": "all-objects"
+"quick_gloss": "she-who+all+misfortunes"
 },
 {
 "surface": "sā",
-"quick_gloss": "she"
+"quick_gloss": "that"
 },
 {
 "surface": "devī",
@@ -112,7 +100,7 @@
 },
 {
 "surface": "jñānalocanā",
-"quick_gloss": "knowledge-eye"
+"quick_gloss": "knowledge+eye"
 }
 ]
 },
@@ -125,7 +113,7 @@
 "tokens": [
 {
 "surface": "saptasvaramayī",
-"quick_gloss": "seven-note-filled"
+"quick_gloss": "seven-notes-made"
 },
 {
 "surface": "tantrī",
@@ -142,7 +130,7 @@
 "tokens": [
 {
 "surface": "saptasvaramayī",
-"quick_gloss": "seven-note-filled"
+"quick_gloss": "seven-notes-made"
 },
 {
 "surface": "tantrī",
@@ -153,12 +141,8 @@
 "quick_gloss": "freedom"
 },
 {
-"surface": "śrāvayatu",
-"quick_gloss": "let-make-hear"
-},
-{
-"surface": "iyam",
-"quick_gloss": "this"
+"surface": "śrāvayatviyam",
+"quick_gloss": "let-make-heard+this"
 }
 ]
 },
@@ -171,7 +155,7 @@
 "tokens": [
 {
 "surface": "ṣaḍjamadhyamadhaivatā",
-"quick_gloss": "ṣaḍja-madhyama-dhaivata"
+"quick_gloss": "ṣaḍja+madhyama+dhaivata"
 }
 ]
 },
@@ -195,12 +179,12 @@
 "quick_gloss": "considered"
 },
 {
-"surface": "seyam",
+"surface": "seyaṃ",
 "quick_gloss": "this"
 },
 {
 "surface": "ṣaḍjamadhyamadhaivatā",
-"quick_gloss": "ṣaḍja-madhyama-dhaivata"
+"quick_gloss": "ṣaḍja+madhyama+dhaivata"
 }
 ]
 },
@@ -212,12 +196,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
+"surface": "p. 200",
+"quick_gloss": "page-200"
+},
+{
 "surface": "mūrcchanā",
 "quick_gloss": "scale"
 },
 {
 "surface": "grāmasaṃsthānā",
-"quick_gloss": "village-arrangement"
+"quick_gloss": "village+arrangement"
 }
 ]
 },
@@ -229,7 +217,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "viśrāmayati",
+"surface": "viśrāmayatyasau",
 "quick_gloss": "rests"
 },
 {
@@ -238,7 +226,7 @@
 },
 {
 "surface": "grāmasaṃsthānā",
-"quick_gloss": "village-arrangement"
+"quick_gloss": "village+arrangement"
 },
 {
 "surface": "mūrcchanā",
@@ -272,7 +260,7 @@
 "tokens": [
 {
 "surface": "sā",
-"quick_gloss": "she"
+"quick_gloss": "that"
 },
 {
 "surface": "devī",
@@ -280,7 +268,7 @@
 },
 {
 "surface": "prathitā",
-"quick_gloss": "famous"
+"quick_gloss": "renowned"
 },
 {
 "surface": "svasthā",
@@ -288,7 +276,7 @@
 },
 {
 "surface": "kriyāt",
-"quick_gloss": "let-make"
+"quick_gloss": "may-make"
 },
 {
 "surface": "svasthaṃ",
@@ -359,7 +347,7 @@
 "tokens": [
 {
 "surface": "aṭṭāṭṭahāsinī",
-"quick_gloss": "loudly-laughing"
+"quick_gloss": "loud-laughing"
 }
 ]
 },
@@ -380,15 +368,15 @@
 },
 {
 "surface": "aṭṭāṭṭahāsinī",
-"quick_gloss": "loudly-laughing"
+"quick_gloss": "loud-laughing"
 },
 {
 "surface": "sā",
-"quick_gloss": "she"
+"quick_gloss": "that"
 },
 {
 "surface": "vyapohatām",
-"quick_gloss": "let-remove"
+"quick_gloss": "may-remove"
 }
 ]
 },
@@ -401,7 +389,7 @@
 "tokens": [
 {
 "surface": "pretā",
-"quick_gloss": "ghost"
+"quick_gloss": "departed"
 }
 ]
 },
@@ -414,14 +402,14 @@
 "tokens": [
 {
 "surface": "pretā",
-"quick_gloss": "ghost"
+"quick_gloss": "departed"
 },
 {
-"surface": "pretapurābhiyānaja",
-"quick_gloss": "born-from-attack-on-pretapur"
+"surface": "pretapurābhiyānajam",
+"quick_gloss": "born-from-journey-to-preta-city"
 },
 {
-"surface": "iyaṃ",
+"surface": "iyam",
 "quick_gloss": "this"
 },
 {
@@ -430,7 +418,7 @@
 },
 {
 "surface": "dahatu",
-"quick_gloss": "let-burn"
+"quick_gloss": "burn"
 },
 {
 "surface": "adbhutā",
@@ -447,7 +435,7 @@
 "tokens": [
 {
 "surface": "pretāsananivāsinī",
-"quick_gloss": "dwelling-on-ghost-seat"
+"quick_gloss": "dwelling-on-preta-seat"
 }
 ]
 },
@@ -468,7 +456,7 @@
 },
 {
 "surface": "sā",
-"quick_gloss": "she"
+"quick_gloss": "that"
 },
 {
 "surface": "kācit",
@@ -476,7 +464,7 @@
 },
 {
 "surface": "pretāsananivāsinī",
-"quick_gloss": "dwelling-on-ghost-seat"
+"quick_gloss": "dwelling-on-preta-seat"
 }
 ]
 },
@@ -488,8 +476,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
+"surface": "p. 201",
+"quick_gloss": "page-201"
+},
+{
 "surface": "nṛttagītapriyā",
-"quick_gloss": "fond-of-dance-song"
+"quick_gloss": "dance+song+loving"
 }
 ]
 },
@@ -502,7 +494,7 @@
 "tokens": [
 {
 "surface": "priyā",
-"quick_gloss": "dear"
+"quick_gloss": "beloved"
 },
 {
 "surface": "śriyā",
@@ -510,7 +502,7 @@
 },
 {
 "surface": "poṣayatu",
-"quick_gloss": "let-nourish"
+"quick_gloss": "nourish"
 },
 {
 "surface": "svayā",
@@ -556,7 +548,7 @@
 },
 {
 "surface": "asyakāmā",
-"quick_gloss": "of-him-desireless"
+"quick_gloss": "his+desireless"
 }
 ]
 }
