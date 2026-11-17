@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p07-v151
-[attached](prasaktaṃ) [knowledge](bhodhikyaṃ) [prevents](pratiṣedhayati)
+[attached](prasaktaṃ) [excess-of-bodhi](bhodhikyaṃ) [prohibits](pratiṣedhayati)
 
 ## mukta-m0-p07-v152
-[do-not](mā) [eat](gurubhuṃjīthā)
+[do-not](mā) [guru](guru) [eat](bhuṃjīthāḥ)
 
 ## mukta-m0-p07-v153
-[from-speech](vacanāt)
+[from-word](vacanāt)
 
 ## mukta-m0-p07-v154
-[sick-subject](vyādhitaviṣayametat)
+[sick-person-matter](vyādhitaviṣayam) [this](etat)
 
 ## mukta-m0-p07-v155
-[thus-expectation](ityapekṣāyāmāha)
+[thus](iti) [expectation](apekṣā) [says](āha)
 
 ## mukta-m0-p07-v156
-[ascends](ārohatyevarviṣayāñcheyāṃstāṃstu) [abandons](parityajet) [thus](iti)
+[ascends](ārohati) [indeed](eva) [objects](viṣayān) [best](śreyāṃs) [those](tān) [abandon](parityajet) [thus](iti)
 
 ## mukta-m0-p07-v157
-[not-said](nanuktaṃ) [eat](bhuṃjethāḥ)
+[well](nanu) [said](uktaṃ) [eat](bhuṃjethāḥ)
 
 ## mukta-m0-p07-v158
-[again-enjoyment-meditation](punarbhogabhāvanayeti) [meaning](bhāvaḥ)
+[again](punar) [enjoyment-meditation](bhogabhāvanayā) [thus](iti) [meaning](bhāvaḥ)
 
 ## mukta-m0-p07-v159
-[not-clay](na) [eat](mṛṇmaye) [bhuṃjīthāḥ)
+[not](na) [earthen](mṛṇmaye) [eat](bhuṃjīthāḥ)
 
 ## mukta-m0-p07-v160
-[those-eat](tānbhuṃjīthāḥ) [object-renunciation](viṣayatyāgaṃ) [do](kuryādityarthaḥ)
+[those](tān) [eat](bhuṃjīthāḥ) [object-abandonment](viṣayatyāgaṃ) [do](kuryāt) [meaning](ityarthaḥ)
 
 ## mukta-m0-p07-v161
-[not-rejoin](na) [pratisaṃdadhyā) [some](ityeke)
+[not](na) [rejoin](pratisaṃdadhyāt) [some](ityeke)
 
 ## mukta-m0-p07-v162
 [say](āhuḥ)
 
 ## mukta-m0-p07-v163
-[seat-posture](sthānāsanaṃ)
+[place-seat](sthānāsanaṃ)
 
 ## mukta-m0-p07-v164
-[one-pointedness](ekatānatāvidheyetyarthaḥ) [sit](āsa) [seating](upaveśane)
+[one-pointedness](ekatānatā) [to-be-done](vidheyā) [meaning](ityarthaḥ) [āsa](āsa) [sitting](upaveśane)
 
 ## mukta-m0-p07-v165
-[previous-intervals](pūrvāṃtareṣūpavāso) [speech-restraint](vāgyasanaṃ) [and](ca)
+[previous-intervals](pūrvāntareṣu) [fast](upavāsaḥ) [speech-restraint](vāgyasanaṃ) [and](ca)
 
 ## mukta-m0-p07-v166
-[are](syuḥ) [connected-plurality](saṃbadhibahutvādbahuvacanaṃ)
+[are](syuḥ) [connected-plurality](saṃbadhibahutvāt) [plural](bahuvacanaṃ)
 
 ## mukta-m0-p07-v167
-[some-fire](kiṃcidagni) [restrained](yataṃ) [seeing](dṛṣṭvā) [breath-control](prāṇāyāmaissaśuddhyate)
+[some](kiṃcit) [fire](agni) [restrained](yataṃ) [seeing](dṛṣṭvā) [prāṇāyāmas](prāṇāyāmaiḥ) [purified](śuddhyate)
 
 ## mukta-m0-p07-v168
-[consciousness-reflection](cidvimarśabāhulyenaiva) [purification](śodhanaṃmiti) [as-much](yāvat)
+[consciousness-reflection-abundance](cidvimarśabāhulyena) [indeed](eva) [purification](śodhanaṃ) [so-much](iti) [yāvat](yāvat)
 
 ## mukta-m0-p07-v169
-[seeing](saṃdarśane) [three](trayaḥ) [acts](kāryāḥ)
+[seeing](saṃdarśane) [three](trayaḥ) [to-be-done](kāryāḥ)
 
 ## mukta-m0-p07-v170
 [purity-attainment](śudhyāpatteḥ)
 
 ## mukta-m0-p07-v171
-[recitation](saṃvyāhṛtyātho) [seven](sapta)
+[uttering](saṃvyāhṛtya) [then](atho) [seven](sapta)
 
 ## mukta-m0-p07-v172
-[again](punaḥ) [withdraw](pratyāhartavyam)
+[again](punaḥ) [to-be-withdrawn](pratyāhartavyam)
 
 ## mukta-m0-p07-v173
-[summary](samāsāya) [twelve](tu) [dvādaśa)
+[summary](samāsāya) [but](tu) [twelve](dvādaśa)
 
 ## mukta-m0-p07-v174
-[absorbed](samāhitena) [meditate](bhāvyaṃ) [how-pure](kathametena) [śuddhatītyāśaṃkyāha)
+[absorbed](samāhitena) [to-be](bhāvyaṃ) [how](katham) [by-this](etena) [pure](śuddha) [thus](iti) [doubting](āśaṃkya) [says](āha)
 
 ## mukta-m0-p07-v175
-[everywhere](sarvatra) [light-seeing](jyotirdarśanamudakopa) [touch](sparśanam)
+[everywhere](sarvatra) [light-vision](jyotirdarśanam) [water-touch](udakopasparśanam)

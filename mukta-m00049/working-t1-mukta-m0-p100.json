@@ -12,7 +12,7 @@
 },
 {
 "surface": "badhnīyāt",
-"quick_gloss": "bind"
+"quick_gloss": "should-bind"
 },
 {
 "surface": "iti",
@@ -48,16 +48,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "navapātrāṇi",
-"quick_gloss": "new-vessels"
+"surface": "nava",
+"quick_gloss": "new"
+},
+{
+"surface": "pātrāṇi",
+"quick_gloss": "vessels"
 },
 {
 "surface": "vinyaset",
-"quick_gloss": "arrange"
+"quick_gloss": "should-place"
 },
 {
 "surface": "sthāpayet",
-"quick_gloss": "place"
+"quick_gloss": "should-establish"
 }
 ]
 },
@@ -73,12 +77,20 @@
 "quick_gloss": "silver-etc"
 },
 {
-"surface": "mahāśaṅkhaṃ",
-"quick_gloss": "great-conch"
+"surface": "mahā",
+"quick_gloss": "great"
 },
 {
-"surface": "narakapālam",
-"quick_gloss": "skull-bowl"
+"surface": "śaṅkhaṃ",
+"quick_gloss": "conch"
+},
+{
+"surface": "naraka",
+"quick_gloss": "hell"
+},
+{
+"surface": "pālam",
+"quick_gloss": "skull"
 }
 ]
 },
@@ -95,7 +107,7 @@
 },
 {
 "surface": "prakalpayet",
-"quick_gloss": "prepare"
+"quick_gloss": "should-arrange"
 },
 {
 "surface": "pātraṃ",
@@ -107,7 +119,7 @@
 },
 {
 "surface": "prapūjane",
-"quick_gloss": "for-worship"
+"quick_gloss": "in-worship"
 }
 ]
 },
@@ -123,12 +135,20 @@
 "quick_gloss": "then"
 },
 {
-"surface": "amṛtasampūrṇaghaṭam",
-"quick_gloss": "nectar-full-pot"
+"surface": "amṛta",
+"quick_gloss": "nectar"
+},
+{
+"surface": "sampūrṇa",
+"quick_gloss": "full"
+},
+{
+"surface": "ghaṭam",
+"quick_gloss": "pot"
 },
 {
 "surface": "abhyarcayet",
-"quick_gloss": "worship"
+"quick_gloss": "should-worship"
 },
 {
 "surface": "sudhīḥ",
@@ -144,20 +164,32 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "pīṭhadevān",
-"quick_gloss": "seat-gods"
+"surface": "pīṭha",
+"quick_gloss": "seat"
+},
+{
+"surface": "devān",
+"quick_gloss": "gods"
 },
 {
 "surface": "pūjayitvā",
 "quick_gloss": "having-worshipped"
 },
 {
-"surface": "ṣaḍaṅganyāsam",
-"quick_gloss": "six-limb-nyasa"
+"surface": "ṣaḍ",
+"quick_gloss": "six"
+},
+{
+"surface": "aṅga",
+"quick_gloss": "limb"
+},
+{
+"surface": "nyāsam",
+"quick_gloss": "nyasa"
 },
 {
 "surface": "ācaret",
-"quick_gloss": "perform"
+"quick_gloss": "should-perform"
 }
 ]
 },
@@ -174,19 +206,19 @@
 },
 {
 "surface": "pūjayet",
-"quick_gloss": "worship"
+"quick_gloss": "should-worship"
 },
 {
 "surface": "iṣṭāṃ",
 "quick_gloss": "desired"
 },
 {
-"surface": "vittaśāṭhyaṃ",
+"surface": "vittaśāṭhyam",
 "quick_gloss": "wealth-stinginess"
 },
 {
 "surface": "vivarjayet",
-"quick_gloss": "avoid"
+"quick_gloss": "should-avoid"
 }
 ]
 },
@@ -198,16 +230,28 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "puṣpacandanavāsobhiḥ",
-"quick_gloss": "with-flowers-sandal-clothes"
+"surface": "puṣpa",
+"quick_gloss": "flowers"
+},
+{
+"surface": "candana",
+"quick_gloss": "sandal"
+},
+{
+"surface": "vāsobhiḥ",
+"quick_gloss": "clothes"
 },
 {
 "surface": "arcayet",
-"quick_gloss": "worship"
+"quick_gloss": "should-worship"
 },
 {
-"surface": "sadguruḥ",
-"quick_gloss": "true-teacher"
+"surface": "sad",
+"quick_gloss": "true"
+},
+{
+"surface": "guruḥ",
+"quick_gloss": "guru"
 },
 {
 "surface": "śive",
@@ -223,8 +267,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "pūrṇābhiṣekasaṃskāre",
-"quick_gloss": "full-abhisheka-rite"
+"surface": "pūrṇa",
+"quick_gloss": "full"
+},
+{
+"surface": "abhiṣeka",
+"quick_gloss": "abhisheka"
+},
+{
+"surface": "saṃskāre",
+"quick_gloss": "rite"
 },
 {
 "surface": "bhavadbhiḥ",
@@ -232,7 +284,7 @@
 },
 {
 "surface": "anumanyatām",
-"quick_gloss": "be-consented"
+"quick_gloss": "let-be-consented"
 }
 ]
 },
@@ -257,7 +309,7 @@
 },
 {
 "surface": "te",
-"quick_gloss": "te"
+"quick_gloss": "you"
 },
 {
 "surface": "paratattvaparāyaṇaḥ",
@@ -274,7 +326,7 @@
 "tokens": [
 {
 "surface": "pratarpayet",
-"quick_gloss": "satisfy"
+"quick_gloss": "should-satisfy"
 },
 {
 "surface": "pūrvoktena",
@@ -303,11 +355,11 @@
 },
 {
 "surface": "haret",
-"quick_gloss": "take"
+"quick_gloss": "should-take"
 },
 {
 "surface": "dadyāt",
-"quick_gloss": "give"
+"quick_gloss": "should-give"
 }
 ]
 },
@@ -332,12 +384,28 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "paratattvaparāyaṇaḥ",
-"quick_gloss": "supreme-reality-devoted"
+"surface": "para",
+"quick_gloss": "supreme"
 },
 {
-"surface": "paraṃbrahmatatparaḥ",
-"quick_gloss": "supreme-brahman-devoted"
+"surface": "tattva",
+"quick_gloss": "reality"
+},
+{
+"surface": "parāyaṇaḥ",
+"quick_gloss": "devoted"
+},
+{
+"surface": "paraṃ",
+"quick_gloss": "supreme"
+},
+{
+"surface": "brahma",
+"quick_gloss": "brahman"
+},
+{
+"surface": "tatparaḥ",
+"quick_gloss": "devoted"
 }
 ]
 },
@@ -354,11 +422,11 @@
 },
 {
 "surface": "māyāṃ",
-"quick_gloss": "maya"
+"quick_gloss": "illusion"
 },
 {
 "surface": "ramāṃ",
-"quick_gloss": "Rama"
+"quick_gloss": "Lakshmi"
 },
 {
 "surface": "japtvā",
@@ -366,7 +434,7 @@
 },
 {
 "surface": "cālayet",
-"quick_gloss": "shake"
+"quick_gloss": "should-shake"
 },
 {
 "surface": "vimalaṃ",
@@ -386,8 +454,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "tvattoyapallavaiḥ",
-"quick_gloss": "by-your-water-leaves"
+"surface": "tvat",
+"quick_gloss": "your"
+},
+{
+"surface": "toya",
+"quick_gloss": "water"
+},
+{
+"surface": "pallavaiḥ",
+"quick_gloss": "leaves"
 },
 {
 "surface": "siktaḥ",
@@ -399,7 +475,7 @@
 },
 {
 "surface": "brahmarataḥ",
-"quick_gloss": "brahma-delighted"
+"quick_gloss": "brahman-delighted"
 },
 {
 "surface": "astu",
@@ -419,8 +495,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "mantraiḥ",
+"surface": "mantrair",
 "quick_gloss": "by-these-mantras"
+},
+{
+"surface": "etaiḥ",
+"quick_gloss": "these"
 },
 {
 "surface": "vakṣyamāṇaiḥ",
@@ -428,7 +508,7 @@
 },
 {
 "surface": "abhiṣiñcet",
-"quick_gloss": "anoint"
+"quick_gloss": "should-anoint"
 },
 {
 "surface": "kṛpānvitaḥ",
@@ -444,8 +524,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "śubhapūrṇābhiṣekārthe",
-"quick_gloss": "for-auspicious-full-abhisheka"
+"surface": "śubha",
+"quick_gloss": "auspicious"
+},
+{
+"surface": "pūrṇa",
+"quick_gloss": "full"
+},
+{
+"surface": "abhiṣeka",
+"quick_gloss": "abhisheka"
+},
+{
+"surface": "arthe",
+"quick_gloss": "purpose"
 },
 {
 "surface": "viniyogaḥ",
@@ -478,7 +570,7 @@
 },
 {
 "surface": "cālayet",
-"quick_gloss": "shake"
+"quick_gloss": "should-shake"
 }
 ]
 },
@@ -490,8 +582,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "ghaṭacālanamantram",
-"quick_gloss": "pot-shaking-mantra"
+"surface": "ghaṭa",
+"quick_gloss": "pot"
+},
+{
+"surface": "cālana",
+"quick_gloss": "shaking"
+},
+{
+"surface": "mantram",
+"quick_gloss": "mantra"
 },
 {
 "surface": "eva",
@@ -515,12 +615,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "ṛṣinyāsaḥ",
-"quick_gloss": "rishi-nyasa"
+"surface": "ṛṣi",
+"quick_gloss": "sage"
+},
+{
+"surface": "nyāsaḥ",
+"quick_gloss": "nyasa"
 },
 {
 "surface": "vidhātavyaḥ",
-"quick_gloss": "to-be-performed"
+"quick_gloss": "should-be-done"
 }
 ]
 },
@@ -532,8 +636,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "durgālakṣmībhavānyaḥ",
-"quick_gloss": "Durga-Lakshmi-Bhavani"
+"surface": "durgā",
+"quick_gloss": "Durga"
+},
+{
+"surface": "lakṣmī",
+"quick_gloss": "Lakshmi"
+},
+{
+"surface": "bhavānyaḥ",
+"quick_gloss": "Bhavani"
 },
 {
 "surface": "tvām",
@@ -541,7 +653,7 @@
 },
 {
 "surface": "abhiṣiñcantu",
-"quick_gloss": "anoint"
+"quick_gloss": "let-anoint"
 },
 {
 "surface": "mātaraḥ",
@@ -566,11 +678,11 @@
 },
 {
 "surface": "abhiṣiñcantu",
-"quick_gloss": "anoint"
+"quick_gloss": "let-anoint"
 },
 {
 "surface": "mantrapūtena",
-"quick_gloss": "by-mantra-purified"
+"quick_gloss": "mantra-purified"
 },
 {
 "surface": "vāriṇā",
@@ -595,7 +707,7 @@
 },
 {
 "surface": "abhiṣiñcantu",
-"quick_gloss": "anoint"
+"quick_gloss": "let-anoint"
 },
 {
 "surface": "vagalā",
@@ -636,7 +748,7 @@
 },
 {
 "surface": "abhiṣiñcantu",
-"quick_gloss": "anoint"
+"quick_gloss": "let-anoint"
 },
 {
 "surface": "śaktayaḥ",

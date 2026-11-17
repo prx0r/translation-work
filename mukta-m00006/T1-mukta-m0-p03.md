@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p03-v51
-sarvajñatva-siddhiḥ iti uktaṃ prāk
+[omniscience-accomplishment](sarvajñatvasiddhiḥ) [thus](iti) [said](uktam) [before](prāk)
 
 ## mukta-m0-p03-v52
-upādāna-nimittaiḥ tu phalena ca samanvitam
+[material-and-efficient-causes](upādānanimittaiḥ) [but](tu) [with-result](phalena) [and](ca) [endowed](samanvitam)
 
 ## mukta-m0-p03-v53
-upādāna-nimittaiḥ tu phalena ca samanvitaḥ
+[material-and-efficient-causes](upādānanimittaiḥ) [but](tu) [with-result](phalena) [and](ca) [endowed](samanvitaḥ)
 
 ## mukta-m0-p03-v54
-ittham sarva-artha-kāritvāt dvi-rūpā śaktiḥ ātmani
+[thus](ittham) [from-all-objects-agency](sarvārthakāritvāt) [two-formed](dvirūpā) [power](śaktiḥ) [in-self](ātmani)
 
 ## mukta-m0-p03-v55
-yayā yuktaḥ maheśānaḥ sarvam vetti karoti ca
+[by-which](yayā) [endowed](yuktaḥ) [great-lord](maheśānaḥ) [all](sarvam) [knows](vetti) [does](karoti) [and](ca)
 
 ## mukta-m0-p03-v56
-na kalā-piṇḍa-saṃbaddhaḥ saṃbaddhaḥ asau yathā paśuḥ
+[not](na) [bound-to-kalā-cluster](kalāpiṇḍasaṃbaddhaḥ) [bound](saṃbaddhaḥ) [he](asau) [like](yathā) [creature](paśuḥ)
 
 ## mukta-m0-p03-v57
-paśu-vat kalā-ādi-ātmaka-śarīra-abhāvāt niṣkalaḥ bhagavān iti uktaṃ prāk
+[like-creature](paśuvat) [from-absence-of-body-made-of-kalā-etc](kalādyātmakaśarīrābhāvāt) [without-kalā](niṣkalaḥ) [lord](bhagavān) [thus-said](ityuktam) [before](prāk)
 
 ## mukta-m0-p03-v58
-nanu asya niṣkalatve tu na jñānam na api kartṛtā
+[but](nanu) [of-him](asya) [in-without-kalā-ness](niṣkalatve) [but](tu) [no](na) [knowledge](jñānam) [nor](nāpi) [agency](kartṛtā)
 
 ## mukta-m0-p03-v59
-jñāna-ādi-abhāvaḥ
+[knowledge](jñāna) [etc](ādi) [absence](abhāvaḥ)
 
 ## mukta-m0-p03-v60
-cit-vyakti-artham kalā-yogam apekṣete su-saṃsthite
+[for-manifestation-of-consciousness](cidvyaktyartham) [union-with-kalā](kalāyogam) [require](apekṣete) [well-established](susaṃsthite)
 
 ## mukta-m0-p03-v61
-vyañjaka-apekṣe iti sarvadā sarva-arthe
+[requiring-manifestor](vyañjakāpekṣe) [thus](iti) [always](sarvadā) [in-all-objects](sarvārthe)
 
 ## mukta-m0-p03-v62
-tadā asau jāyate paśuḥ
+[then](tadā) [he](asau) [becomes](jāyate) [creature](paśuḥ)
 
 ## mukta-m0-p03-v63
-kalā-ādi-yogāt devadatta-ādi-vat īśvaraḥ paśuḥ prasajyate
+[from-union-with-kalā-etc](kalādiyogāt) [like-devadatta-etc](devadattādivat) [lord](īśvaraḥ) [creature](paśuḥ) [is-implied](prasajyate)
 
 ## mukta-m0-p03-v64
-kalāḥ sṛṣṭvā api tat-yuktaḥ kārya-kṛt yadi asau tataḥ
+[kalās](kalāḥ) [having-created](sṛṣṭvā) [even](api) [endowed-with-that](tadyuktaḥ) [doer-of-action](kāryakṛt) [if](yadi) [he](asau) [then](tataḥ)
 
 ## mukta-m0-p03-v65
-karoti iti ucyate
+[does](karoti) [thus](iti) [is-said](ucyate)
 
 ## mukta-m0-p03-v66
-tasmāt alam prasaṅgena bhoga-mokṣa-prasādhakaḥ
+[therefore](tasmāt) [enough](alam) [with-objection](prasaṅgena) [accomplisher-of-enjoyment-and-liberation](bhogamokṣaprasādhakaḥ)
 
 ## mukta-m0-p03-v67
-sadā eva ārādhyaḥ na anyaḥ iti uktaḥ sa-sādhanaḥ bhogaḥ
+[always-worshipful](sadaivārādhyaḥ) [not-other](nānyaḥ) [thus-said](ityuktaḥ) [with-means](sasādhanaḥ) [enjoyment](bhogaḥ)
 
 ## mukta-m0-p03-v68
-mala-ādi-pāśa-vicchittiḥ sarva-jñāna-kriyā-udbhavaḥ
+[cutting-of-bonds-starting-with-impurity](malādipāśavicchittiḥ) [origin-of-omniscience-and-action](sarvajñānakriyodbhavaḥ)
 
 ## mukta-m0-p03-v69
-paśu-ātmā mocyamānatvāt karma-kārakaḥ iṣyate
+[after-self](paścātmā) [because-of-being-liberated](mocyamānatvāt) [object-of-action](karmakārakam) [is-held](iṣyate)
 
 ## mukta-m0-p03-v70
-astu ātmanīnaḥ mokṣaḥ hi bhogavat pudgalaḥ tataḥ
+[let-be](astu) [in-self](ātmanīnaḥ) [liberation](mokṣaḥ) [indeed](hi) [like-enjoyment](bhogavat) [individual](pudgalaḥ) [then](tataḥ)
 
 ## mukta-m0-p03-v71
-sarvajñatā-ādi-rūpa-avāptitaḥ sva-ātma-kartṛkaḥ eva mokṣaḥ na īśvara-kartṛkaḥ
+[from-attainment-of-omniscience-etc-form](sarvajñatādirūpāvāptitaḥ) [by-own-self-agent](svātmakartṛkaḥ) [indeed](eva) [liberation](mokṣaḥ) [not-by-lord-agent](neśvarakartṛkaḥ)
 
 ## mukta-m0-p03-v72
-aviveka-avasāya-uttham ajñānam vinivartate
+[arisen-from-indeterminate-cognition](avivekāvasāyottham) [ignorance](ajñānam) [ceases](vinivartate)
 
 ## mukta-m0-p03-v73
-sva-kāraṇa-nivṛttyā eva tat nivarteta na anyathā
+[by-cessation-of-own-cause-alone](svakāraṇanivṛttyaiva) [it-ceases](tannivarteta) [not-otherwise](nānyathā)
 
 ## mukta-m0-p03-v74
-atha ātma-dharmaḥ bhāvaḥ syāt tucchatve tat nivartate
+[if](atha) [quality-of-self](ātmadharmaḥ) [entity](bhāvaḥ) [were](syāt) [in-triviality](tucchatve) [it-ceases](tannivartate)
 
 ## mukta-m0-p03-v75
-nivartyatve na ātma-dharmaḥ syāt tat anādi-nirodhakam
+[if-ceasable](nivartyatve) [not-quality-of-self](nātmadharmaḥ) [that-beginningless-obstruction](tadanādinirodhakam)

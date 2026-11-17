@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p04-v76
-[cultivating](bhāvayan) [teaches](upadiśati)
+cultivating(bhāvayan) teaches(upadiśati) thus(iti) indeed(tathā)
 
 ## mukta-m0-p04-v77
-[not](na) [chariot](ratha) [ascend](āruheḥ)
+not(na) chariot(ratha) mount(āruheḥ) indeed(tathā) thus(iti)
 
 ## mukta-m0-p04-v78
-[cloth-place](vastra+sthānīyam) [thus](iti) [śaiva-teaching](śaiva+śāsanam) [says](āha)
+cloth(vastrasthānīyam) iti(iti) śaiva(śaiva) teaching(śāsanam) says(āha)
 
 ## mukta-m0-p04-v79
-[not](na) [clothe](saṃvastrayethā)
+not(na) clothe(saṃvastrayethā) indeed(tathā) thus(iti)
 
 ## mukta-m0-p04-v80
-[graspable-grasper](grāhya+grāhaka) [variety](vaicitryeṇa) [understand](avabuddhyeta) [thus](iti)
+grasper(grāhya) grasper(grāhaka) variety(vaicitryeṇa) know(avabuddhyeta) iti(iti)
 
 ## mukta-m0-p04-v81
-[all](sarvāṇi) [tactile](sāṃsparśakāni) [with-women](strībhiḥ+saha) [avoid](varjayeḥ)
+all(sarvāṇi) tactile(sāṃsparśakāni) with-women(strībhiḥ+sahavarjayeḥ) avoid(varjayeḥ) thus(iti)
 
 ## mukta-m0-p04-v82
-[prakṛti-puruṣa-distinction-knowledge](prakṛti+puruṣa+viveka+jñānaṃ) [sāṃkhya-teaching-established](sāṃkhya+śāstra+siddha) [teaches](upadiśati)
+prakṛti-puruṣa(prakṛtipuruṣa) discrimination(viveka) knowledge(jñānaṃ) sāṃkhya(sāṃkhya) scripture(śāstra) established(siddha) teaches(upadiśati)
 
 ## mukta-m0-p04-v83
-[not](na) [robbed](muṣitāṃ) [behold](prekṣeḥ)
+not(na) robbed(muṣitāṃ) behold(prekṣeḥ) indeed(tathā) thus(iti)
 
 ## mukta-m0-p04-v84
-[feeling](bhāvaḥ)
+state(bhāvaḥ) indeed(tathā) thus(iti) verily(hi)
 
 ## mukta-m0-p04-v85
-[not](na) [for-amusement](vihāra+artho) [chatter](jalpeḥ)
+not(na) for-play(vihārārtho) chatter(jalpeḥ) indeed(tathā) thus(iti)
 
 ## mukta-m0-p04-v86
-[relaxation](viglāpanaṃ) [indeed](hi) [that](tat) [thus](iti) [of-hearing](śruteḥ)
+soothing(viglāpanaṃ) indeed(hi) that(tat) iti(iti) śruti(śruteḥ)
 
 ## mukta-m0-p04-v87
-[not](na) [for-pleasure](rucya+arthaṃ) [anything](kiṃcana) [hold](dhārayethāḥ)
+not(na) for-pleasure(rucyarthaṃ) anything(kiṃcana) wear(dhārayethāḥ) indeed(tathā)
 
 ## mukta-m0-p04-v88
-[not](na) [bathe](snāyāḥ)
+not(nasnāyāḥ) indeed(tathā) thus(iti) verily(hi)
 
 ## mukta-m0-p04-v89
-[lord](prabhuḥ)
+lord(prabhuḥ) indeed(tathā) thus(iti) verily(hi)
 
 ## mukta-m0-p04-v90
-[water](udakaṃ) [or](vā) [approach](abhyupeyāḥ)
+water(udakaṃ) or(vā) approach(abhyupeyāḥ) indeed(tathā) thus(iti)
 
 ## mukta-m0-p04-v91
-[sense-play-nature-opposite-side](viṣaya+krīḍana+ātmaka+pakṣa+antara) [removal-purpose](vyāvṛtya+arthaḥ)
+sense-objects(viṣaya) play(krīḍanātmaka) alternative(pakṣāṃtara) exclusion(vyāvṛtyarthaḥ) indeed(tathā)
 
 ## mukta-m0-p04-v92
-[if](yadi) [bathe](snāyā) [staff](daṃḍa) [indeed](eva) [in-waters](apsu) [float](parilevethāḥ)
+if(yadi) bathe(snāyā) staff(daṃḍa) indeed(eva) in-waters(apsu) purify(parilevethāḥ)
 
 ## mukta-m0-p04-v93
-[if](yadi) [sense-enjoyment](viṣaya+bhogaṃ) [perform](vidadhyāḥ) [then](tarhi) [not](na) [in-those-tastes](tad+raseṣu) [attached](āsaktāḥ) [be](syāḥ)
+if(yadi) sense-enjoyment(viṣayabhogaṃ) perform(vidadhyāḥ) then(tarhi) not(na) in-tastes(tadraseṣvāsaktāḥ) attached(syāḥ)
 
 ## mukta-m0-p04-v94
-[shaven](muṃḍo) [matted](jaṭilo) [tufted](śikhi) [or](vā) [be](bhava)
+shaved(muṃḍo) matted(jaṭilo) tufted(śikhi) or(vā) be(bhava) indeed(tathā)
 
 ## mukta-m0-p04-v95
-[twelfth-end-upward-going](dvādaśa+anta+ūrdhva+gāminī)
+twelfth(dvādaśāṃtordhagāminī) indeed(tathā) thus(iti) verily(hi)
 
 ## mukta-m0-p04-v96
-[evening](sāyaṃ) [morning](prātaḥ) [sandhyā](saṃdhyām) [worship](upāsīthāḥ)
+evening(sāyaṃ) morning(prātassaṃdhyām) twilight(upāsīthāḥ) indeed(tathā) thus(iti)
 
 ## mukta-m0-p04-v97
-[supreme](pare) [principle](tatve) [and](ca) [union](saṃdhānaṃ) [sandhyā](saṃdhyā) [thus](iti) [and](ca) [called](kathyate)
+supreme(pare) principle(tatve) union(saṃdhānaṃ) twilight(saṃdhyā) iti(iti) called(kathyate)
 
 ## mukta-m0-p04-v98
-[stand](tiṣṭhe) [former](pūrvāṃ)
+stand(tiṣṭhe) former(pūrvāṃ) indeed(tathā) thus(iti) verily(hi)
 
 ## mukta-m0-p04-v99
-[in-sandhyā](saṃdhyāyāṃ) [stand](tiṣṭheḥ) [inward-facing-state](aṃtarmukha+bhāve) [rising](utthānam) [effort](udyogaṃ) [perform](vidadyāḥ)
+in-twilight(saṃdhyāyāṃ) stand(tiṣṭheḥ) inward(antarmukhabhāve) rising(utthānam) effort(udyogaṃ) perform(vidadyāḥ)
 
 ## mukta-m0-p04-v100
-[sit](āsīthā) [latter](uttarām)
+sit(āsīthā) latter(uttarām) indeed(tathā) thus(iti) verily(hi)

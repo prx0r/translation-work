@@ -5,73 +5,73 @@
 [shining](rājatyā) [iron-made](lauhamayyā) [or](vā) [ear-piercing](karṇavedhaṃ) [should-arrange](prakalpayet)
 
 ## mukta-m0-p85-v2102
-[peace-etc-gift](śāntyādidakṣiṇāṃ) [having-done](kṛtvā) [tonsure-rite](cūḍākarma) [complete](samāpayet)
+[peace-etc-gift](śāntyādidakṣiṇāṃ) [having-done](kṛtvā) [tonsure-rite](cūḍākarma) [should-complete](samāpayet)
 
 ## mukta-m0-p85-v2103
-[of-common-śūdra-castes](śūdrasāmānyajātīnāṃ) [all-this-without-mantra](sarvametadamantrakam)
+[of-common-śūdra-castes](śūdrasāmānyajātīnāṃ) [all](sarvam)+[this](etad)+[without-mantra](amantrakam)
 
 ## mukta-m0-p85-v2104
-[to-be-done](kartavyaṃ) [by-five-varṇas](pañcabhirvarṇaiḥ) [one](ekaṃ) [going-out](niṣkramaṇaṃ) [except](vinā)
+[should-be-done](kartavyaṃ) [by-five-varṇas](pañcabhirvarṇaiḥ) [one](ekaṃ) [exit](niṣkramaṇaṃ) [except](vinā)
 
 ## mukta-m0-p85-v2105
-[in-fire-agni](pāvake'gnau) [three-offerings](āhutitrayaṃ) [should-give](pradadyāt)
+[in-fire](pāvake)+[in-fire](agnau) [three-offerings](āhutitrayaṃ) [should-give](pradadyāt)
 
 ## mukta-m0-p85-v2106
-[well-offered](sviṣṭikṛtaṃ) [homa](homam) [perform](ācaret) [do](kuryāt)
+[well-offered](sviṣṭikṛtaṃ) [homage](homam) [should-perform](ācaret) [should-do](kuryāt)
 
 ## mukta-m0-p85-v2107
-[in-which](yasmin) [done](kṛte) [twice-born](dvijanmānaḥ) [divine-ancestral-authority](daivapaitrādhikāriṇaḥ)
+[in-which](yasmin) [done](kṛte) [twice-born](dvijanmānaḥ) [divine-ancestral-entitled](daivapaitrādhikāriṇaḥ)
 
 ## mukta-m0-p85-v2108
-[over-sixteen-years](ṣoḍaśābdādhikaḥ) [not-to-be-initiated](nopanetavyaḥ) [inactive-even](niṣkriyo'pi) [he](saḥ)
+[sixteen-years-exceeding](ṣoḍaśābdādhikaḥ) [not-should-be-initiated](nopanetavyaḥ) [inactive](niṣkriyaḥ) [also](api) [he](saḥ)
 
 ## mukta-m0-p85-v2109
-[Gauri-etc-mothers](gauryādimātṛkāḥ) [and-also](caiva) [earth-stream](vasudhārāṃ) [arrange](prakalpayet)
+[gaurī-etc-mothers](gauryādimātṛkāḥ) [and](ca)+[indeed](eva) [earth-stream](vasudhārāṃ) [should-arrange](prakalpayet)
 
 ## mukta-m0-p85-v2110
-[by-kuśaṇḍika-said-rite](kuśaṇḍikoktavidhinā) [stream-homa-end](dhārāhomāntam) [perform](ācaret)
+[by-kuśaṇḍika-rule](kuśaṇḍikoktavidhinā) [stream-offering-end](dhārāhomāntam) [should-perform](ācaret)
 
 ## mukta-m0-p85-v2111
-[without-tuft](śikhāṃ vinā) [shaved](kṛtakṣauraṃ) [linen-garment-ornamented](kṣaumāmbaravibhūṣitam)
+[without-tuft](śikhāṃ vinā) [done-shaving](kṛtakṣauraṃ) [linen-garment-ornamented](kṣaumāmbaravibhūṣitam)
 
 ## mukta-m0-p85-v2112
-[near](samīpe) [and](ca) [self's](ātmano) [left](vāme) [placing](saṃsthāpya) [pure-seat](vimalāsane)
+[near](samīpe) [and](ca)+[of-self](ātmanaḥ) [left](vāme) [having-placed](saṃsthāpya) [pure-seat](vimalāsane)
 
 ## mukta-m0-p85-v2113
-[thus-etc](athetyādi) [of-twice-born](dvijātīnām) [brahmin-kshatriya-vaishya](brāhmaṇakṣatriyavaiśyānām)
+[etc](ityādi) [of-twice-born](dvijātīnām) [of-brāhmaṇa-kṣatriya-vaiśya](brāhmaṇakṣatriyavaiśyānām)
 
 ## mukta-m0-p85-v2114
-[divine-ancestral-rite-devoid-even](daivapitryakriyāvihīno'pi) [becomes](bhavati)
+[divine-pitṛ-action-devoid](daivapitryakriyāvihīnaḥ) [also](api) [becomes](bhavati)
 
 ## mukta-m0-p85-v2115
-[gods](devān) [Brahma-etc](brahmādīn)
+[gods](devān) [brahmā-etc](brahmādīn)
 
 ## mukta-m0-p85-v2116
-[celibacy](brahmacaryaṃ) [I-do](karomīti) [to-guru](gurave) [declare](vinivedayet)
+[brahmacarya](brahmacaryaṃ) [I-do](karomi) [iti](iti) [to-guru](gurave) [should-report](vinivedayet)
 
 ## mukta-m0-p85-v2117
-[saffron-garments](kāṣāyavāsasī) [give](dadyāt) [for-long-life](dīrghāyuṣṭvāya) [for-splendor](varcase)
+[ochre-garments](kāṣāyavāsasī) [should-give](dadyāt) [for-long-life](dīrghāyuṣṭvāya) [for-splendor](varcase)
 
 ## mukta-m0-p85-v2118
-[silently](tūṣṇīṃ) [and](ca) [girdle](mekhalāṃ) [give](dadyāt) [to-saffron-garment-wearer](kāṣāyāmbaradhāriṇe)
+[silently](tūṣṇīṃ) [ca](ca) [girdle](mekhalāṃ) [should-give](dadyāt) [ochre-garment-wearer](kāṣāyāmbaradhāriṇe)
 
 ## mukta-m0-p85-v2119
-[thus-saying](ityuktvā) [girdle](mekhalā) [binding](baddhvā) [silent](maunī) [stand](tiṣṭhet) [before-guru](guroḥ puraḥ)
+[thus-saying](ityuktvā) [girdle](mekhalā) [having-bound](baddhvā) [silent](maunī) [should-stand](tiṣṭhet) [before-guru](guroḥ puraḥ)
 
 ## mukta-m0-p85-v2120
-[palasha-or](pālāśamathavā) [give](dadyāt) [milk-tree-born](kṣīravṛkṣasamudbhavam)
+[palāśa](pālāśam) [or](athavā) [should-give](dadyāt) [from-milk-tree-born](kṣīravṛkṣasamudbhavam)
 
 ## mukta-m0-p85-v2121
-[saffron-garments](kāṣāyavāsasī) [by-dye](kaṣāyeṇa) [red-cloth](rakte vastre) [give](dadyāt)
+[ochre-garments](kāṣāyavāsasī) [with-dye](kaṣāyeṇa) [red](rakte) [cloth](vastre) [should-give](dadyāt)
 
 ## mukta-m0-p85-v2122
-[to-child](śiśave) [silently](tūṣṇīmeva) [give](dadyāt)
+[to-child](śiśave) [silently](tūṣṇīm)+[eva](eva) [should-give](dadyāt)
 
 ## mukta-m0-p85-v2123
-[girdle](mekhalāṃ) [binding](baddhvā) [silent-being](maunī san) [before-guru](guroḥ purastiṣṭhet)
+[girdle](mekhalāṃ) [having-bound](baddhvā) [silent](maunī) [san](san) [before-guru](guroḥ purastiṣṭhet)
 
 ## mukta-m0-p85-v2124
-[having-anointed](abhiṣicya) [then](tataḥ) [with-waters](toyaiḥ) [fill](pūrayet) [child's-palm](vālakāñjalim)
+[having-sprinkled](abhiṣicya) [then](tataḥ) [with-waters](toyaiḥ) [should-fill](pūrayet) [child's-palm](vālakāñjalim)
 
 ## mukta-m0-p85-v2125
-[that-eye-thus](taccakṣuriti) [by-mantra](mantreṇa) [show](darśayet) [sun](bhāskaraṃ) [guru](guruḥ)
+[with-that-eye-mantra](taccakṣuriti mantreṇa) [should-show](darśayed) [sun](bhāskaraṃ) [guru](guruḥ)

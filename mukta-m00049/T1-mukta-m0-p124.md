@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p124-v3076
-[may-they-be](syātām)
+[pada-gloss](syātām)
 
 ## mukta-m0-p124-v3077
-[that-price](tanmūlyaṃ) [by-king](nṛpeṇa) [not](na) [to-be-made-pay](dāpayitavyam) [thus](iti) [indicated](sūcayāmāsa)
+[pada-gloss](tanmūlyaṃ) [pada-gloss](nṛpeṇa) [pada-gloss](na) [pada-gloss](dāpayitavyamiti) [pada-gloss](sūcayāmāsa)
 
 ## mukta-m0-p124-v3078
-[dhārti](dhārti) [here](atra) [of-ardhadhātuka](ardhadhātukasya) [of-iḍ-ādi](iḍūlādeḥ) [thus](iti) [no-iḍ-āgama](neḍāgamaḥ)
+[pada-gloss](dhārtetyatrārdhadhātukasyeḍūlāderiti) [pada-gloss](neḍāgamaḥ)
 
 ## mukta-m0-p124-v3079
-[dead](mṛte) [father](pitari) [of-all](sarveṣām) [of-sharers](aṃśināṃ) [consent](sammatiṃ) [without](vinā)
+[pada-gloss](mṛte) [pada-gloss](pitari) [pada-gloss](sarveṣāmaṃśināṃ) [pada-gloss](sammatiṃ) [pada-gloss](vinā)
 
 ## mukta-m0-p124-v3080
-[king](nṛpaḥ) [otherwise](tadanyathā) [to-do](kartuṃ) [able](kṣamaḥ) [becomes](bhavati) [o-pārvatī](pārvati)
+[pada-gloss](nṛpastadanyathā) [pada-gloss](kartuṃ) [pada-gloss](kṣamo) [pada-gloss](bhavati) [pada-gloss](pārvati)
 
 ## mukta-m0-p124-v3081
-[gift](dānaṃ) [so-too](tathaiva) [of-girl](kanyāyāḥ) [brāhma-marriage](brāhmohvāhaḥ) [once](sakṛt) [once](sakṛt)
+[pada-gloss](dānaṃ) [pada-gloss](tathaiva) [pada-gloss](kanyāyā) [pada-gloss](brāhmohvāhaḥ) [pada-gloss](sakṛt) [pada-gloss](sakṛt)
 
 ## mukta-m0-p124-v3082
-[fruit](phalam) [thus](ityamaraḥ)
+[pada-gloss](phalam) [pada-gloss](ityamaraḥ)
 
 ## mukta-m0-p124-v3083
-[for-fruit](phalārthaṃ) [not-indeed](naiva) [should-use](yojayet)
+[pada-gloss](phalārthaṃ) [pada-gloss](naiva) [pada-gloss](yojayet)
 
 ## mukta-m0-p124-v3084
-[that-sale](tadvikrayaṇam) [otherwise](anyathā) [to-do](kartuṃ) [king](nṛpaḥ) [lord-of-men](narādhipaḥ) [able](kṣamaḥ) [becomes](bhavati)
+[pada-gloss](tadvikrayaṇamanyathā) [pada-gloss](kartuṃ) [pada-gloss](nṛpo) [pada-gloss](narādhipaḥ) [pada-gloss](kṣamo) [pada-gloss](bhavati)
 
 ## mukta-m0-p124-v3085
-[by-śaiva-rites](śaivavidhibhiḥ) [but](tu) [again](punar) [remarriage](udvāhaḥ) [becomes-indeed](bhavatyeva) [thus](iti) [indicated](sūcayāmbabhūve)
+[pada-gloss](śaivavidhibhistu) [pada-gloss](punarudvāho) [pada-gloss](bhavatyeveti) [pada-gloss](sūcayāmbabhūve)
 
 ## mukta-m0-p124-v3086
-[not-one-wife](naikakanyaḥ) [daughter](sutāṃ) [in-śaiva-marriage](śaivodvāhe) [father-benefiting](pitṛhitaḥ) [man](pumān)
+[pada-gloss](naikakanyaḥ) [pada-gloss](sutāṃ) [pada-gloss](śaivodvāhe) [pada-gloss](pitṛhitaḥ) [pada-gloss](pumān)
 
 ## mukta-m0-p124-v3087
-[what-he-may-do](yadvidadhyāt) [substitute](pratinidhiḥ) [of-regulator](niyantuḥ) [act](kṛtiḥ) [becomes](bhavet)
+[pada-gloss](yadvidadhyāt) [pada-gloss](pratinidhistanniyantuḥ) [pada-gloss](kṛtirbhavet)
 
 ## mukta-m0-p124-v3088
-[of-appointer](niyoktṛ) [of-fault](kṛtadoṣeṇa) [rule](vidhiḥ) [this](eṣa) [eternal](sanātanaḥ)
+[pada-gloss](niyoktṛkṛtadoṣeṇa) [pada-gloss](vidhireṣa) [pada-gloss](sanātanaḥ)
 
 ## mukta-m0-p124-v3089
-[whatever](yadyad) [accepted](aṅgīkṛtaṃ) [by-people](lokaiḥ) [that](tad) [to-be-done](kāryaṃ) [dharma-approved](dharmasammatam)
+[pada-gloss](yadyadaṅgīkṛtaṃ) [pada-gloss](lokaistatkāryaṃ) [pada-gloss](dharmasammatam)
 
 ## mukta-m0-p124-v3090
-[because](yataḥ) [to-ancestors](pitṛbhyaḥ) [beneficial](hitaḥ) [therefore](ataḥ) [not-should-give](na dadyāt) [thus-meaning](ityarthaḥ)
+[pada-gloss](yataḥ) [pada-gloss](pitṛbhyo) [pada-gloss](hito'to) [pada-gloss](na) [pada-gloss](dadyādityarthaḥ)
 
 ## mukta-m0-p124-v3091
-[rule](vidhiḥ) [ordinance](vidhānam)
+[pada-gloss](vidhirvidhānam)
 
 ## mukta-m0-p124-v3092
-[those-protectors](tatpātṝn) [protects](pāti) [lord-of-all](viśveśaḥ) [therefore](tasmāt) [world-benefiting](lokahitaḥ) [becomes](bhavet)
+[pada-gloss](tatpātṝn) [pada-gloss](pāti) [pada-gloss](viśveśastasmāllokahito) [pada-gloss](bhavet)
 
 ## mukta-m0-p124-v3093
-[accepted](svīkṛtaṃ) [in-every-way](sarvathā) [of-people](lokānām) [not-to-be-left-undone](akaraṇīyam) [thus](iti) [implied](dhvanitam)
+[pada-gloss](svīkṛtaṃ) [pada-gloss](sarvathā) [pada-gloss](lokānāmakaraṇīyamiti) [pada-gloss](dhvanitam)
 
 ## mukta-m0-p124-v3094
-[three-worlds-mother](tribhuvanajanamātā) [pārvatī](pārvatī) [said](prādda) [with-devotion](bhaktyā)
+[pada-gloss](tribhuvanajanamātā) [pada-gloss](pārvatī) [pada-gloss](prādda) [pada-gloss](bhaktyā)
 
 ## mukta-m0-p124-v3095
-[of-subtle-most-subtle-being](sūkṣmātisūkṣmabhūtāyāḥ) [how](kathaṃ) [form-determination](rūpanirūpaṇam)
+[pada-gloss](sūkṣmātisūkṣmabhūtāyāḥ) [pada-gloss](kathaṃ) [pada-gloss](rūpanirūpaṇam)
 
 ## mukta-m0-p124-v3096
-[this](etan) [my](me) [doubt](saṃśayaṃ) [o-god](deva) [especially](viśeṣāt) [to-cut](chettum) [you-should](arhasi)
+[pada-gloss](etanme) [pada-gloss](saṃśayaṃ) [pada-gloss](deva) [pada-gloss](viśeṣācchettumarhasi)
 
 ## mukta-m0-p124-v3097
-[firm-minded](dṛḍhamānasā)
+[pada-gloss](dṛḍhamānasā)
 
 ## mukta-m0-p124-v3098
-[she](sā) [great-kālī](mahākālī) [this](etat) [this](etam)
+[pada-gloss](sā) [pada-gloss](mahākālī) [pada-gloss](etat) [pada-gloss](etam)
 
 ## mukta-m0-p124-v3099
-[according-to-qualities-actions](guṇakriyānusāreṇa) [form](rūpaṃ) [of-goddess](devyāḥ) [is-devised](prakalpitam)
+[pada-gloss](guṇakriyānusāreṇa) [pada-gloss](rūpaṃ) [pada-gloss](devyāḥ) [pada-gloss](prakalpitam)
 
 ## mukta-m0-p124-v3100
-[enter](praviśanti) [thus](tathā) [into-kālī](kālyāṃ) [all-beings](sarvabhūtāni) [o-daughter-of-mountain](śailaje)
+[pada-gloss](praviśanti) [pada-gloss](tathā) [pada-gloss](kālyāṃ) [pada-gloss](sarvabhūtāni) [pada-gloss](śailaje)
