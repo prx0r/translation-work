@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p49-v1201
-[five+acts+consisting-of](pañcakṛtyamayī) [goddess](devī) [all+goddesses+consisting-of](sarvadevīmayī) [auspicious](śivā)
+five-acts-having [pañcakṛtyamayī] goddess [devī] all-goddess-having [sarvadevīmayī] auspicious [śivā]
 
 ## mukta-m0-p49-v1202
-[great+dark-one](mahāśyāmā) [great+knowledge](mahāvidyā) [to-be-worshipped](pūjanīyā) [according-to-order](yathākramam)
+great-dark [mahāśyāmā] great-knowledge [mahāvidyā] worship-worthy [pūjanīyā] in-order [yathākramam]
 
 ## mukta-m0-p49-v1203
-[of-Gaṇeśa+Sun+Hari+Īśāna](gaṇeśārkaharīśāna) [and-Durgās](durgāṇāṃ) [supreme-truth+knower](paramārthavit)
+of-gaṇeśa-sun-śiva-durgā [gaṇeśārkaharīśāna+durgāṇāṃ] supreme-truth-knower [paramārthavit]
 
 ## mukta-m0-p49-v1204
-[in-goddess+circle](devīcakre) [should-worship](arcayet) [all](sarvān) [in-Śiva+liṅga](śivaliṅge) [or](athavā) [in-Śiva](śive)
+in-goddess-circle [devīcakre] worship [arcayet] all [sarvāṃś] in-śiva-liṅga [śivaliṅge] or [athavā] in-śiva [śive]
 
 ## mukta-m0-p49-v1205
-[with-Śrī+Gaṇeśvara+circle](śrīgaṇeśvaracakreṇa) [not](ma) [difference](bhedaṃ) [should-make](kārayed) [wise-one](budhaḥ)
+with-śrī-gaṇeśvara-circle [śrīgaṇeśvaracakreṇa] not [ma] difference [bhedaṃ] make [kārayed] wise-one [budhaḥ]
 
 ## mukta-m0-p49-v1206
-[separately](pṛthak) [separately](pṛthak) [in-Śiva](śive) [should-do](kuryāt) [worship](arcanaṃ) [best+of-Kaulas](kaulikottamaḥ)
+separately [pṛthak] separately [pṛthak] in-śiva [śive] do [kuryād] worship [arcanaṃ] kaula-best [kaulikottamaḥ]
 
 ## mukta-m0-p49-v1207
-[of-Śrī+Devī](śrīdevyā) [of-Ugra+Durgā](ugradurgāyā) [mantra-practitioner](mantrī) [goddess+secret+knower](devīrahasyavit)
+of-śrī-goddess [śrīdevyā] of-fierce-durgā [ugradurgāyā] mantra-knower [mantrī] goddess-secret-knower [devīrahasyavit]
 
 ## mukta-m0-p49-v1208
-[secret+victory](rahasyavijayaṃ) [by-name](nāma) [tantra](tantraṃ) [tantra+latter+half](tantrottarārdhakam)
+secret-victory [rahasyavijayaṃ] named [nāma] tantra [tantraṃ] tantra-uttara-half [tantrottarārdhakam]
 
 ## mukta-m0-p49-v1209
-[of-Gaṇeśa](gaṇeśasya) [and](ca) [five+limbs](pañcāṅgaṃ) [five+limbs](pañcāṅgaṃ) [of-Savitṛ](savituḥ) [likewise](tathā)
+of-gaṇeśa [gaṇeśasya] also [ca] five-limbs [pañcāṅgaṃ] five-limbs [pañcāṅgaṃ] of-savitṛ [savitustathā]
 
 ## mukta-m0-p49-v1210
-[of-Durgā+goddess](durgādevyāḥ) [and](ca) [five+limbs](pañcāṅgaṃ) [Durgā+goddess+secret](durgādevīrahasyakam)
+of-durgā-goddess [durgādevyāśca] five-limbs [pañcāṅgaṃ] durgā-goddess-secret [durgādevīrahasyakam]
 
 ## mukta-m0-p49-v1211
-[all+wealth](sarvasvam) [this](etat) [O-lord+of-gods](deveśi) [tantra](tantraṃ) [goddess+secret](devīrahasyakam)
+all-this [sarvasvametad] O-goddess-lord [deveśi] tantra [tantraṃ] goddess-secret [devīrahasyakam]
 
 ## mukta-m0-p49-v1212
-[first](prathamaṃ) [O-goddess](devi) [five+limbs](pañcāṅgaṃ) [of-great+Gaṇapati](mahāgaṇapateḥ) [hear](śṛṇu)
+first [prathamaṃ] O-goddess [devi] five-limbs [pañcāṅgaṃ] of-great-gaṇapati [mahāgaṇapateḥ] hear [śṛṇu]
 
 ## mukta-m0-p49-v1213
-[on-Meru+summit](merupṛṣṭhe) [comfortably+seated](sukhāsīnaṃ) [great+god](mahādevaṃ) [three+eyed](trilocanam)
+on-meru-back [merupṛṣṭhe] comfortably-seated [sukhāsīnaṃ] great-god [mahādevaṃ] three-eyed [trilocanam]
 
 ## mukta-m0-p49-v1214
-[with-Siddhas+Kinnaras+Gandharvas](siddhakinnaragandharvaiḥ) [with-Yakṣas+Bhūtas+Piśācas](yakṣabhūtapiśācakaiḥ)
+with-siddha-kinnara-gandharva [siddhakinnaragandharvaiḥ] yakṣa-bhūta-piśāca [yakṣabhūtapiśācakaiḥ]
 
 ## mukta-m0-p49-v1215
-[with-smile](sasmitaṃ) [speaking](bhāṣamāṇaṃ) [and](ca) [with-Brahmā](brahmaṇā) [with-Hari](hariṇā) [together](saha)
+smiling [sasmitaṃ] speaking [bhāṣamāṇaṃ] and [ca] with-brahmā [brahmaṇā] with-hari [hariṇā] together [saha]
 
 ## mukta-m0-p49-v1216
-[of-action](kāryasya) [of-gods](devatānāṃ) [and](ca) [of-humans](manuṣyāṇāṃ) [likewise](tathaiva) [and](ca)
+of-work [kāryasya] of-deities [devatānāṃ] and [ca] of-men [manuṣyāṇāṃ] likewise [tathaiva] and [ca]
 
 ## mukta-m0-p49-v1217
-[not+to-be-told](avaktavyam) [to-non-devotees](abhaktebhyaḥ) [to-devotees](bhaktebhyaḥ) [liberation+means](muktisādhanam)
+not-to-be-spoken [avaktavyam] to-non-devotees [abhaktebhyo] to-devotees [bhaktebhyo] liberation-means [muktisādhanam]
 
 ## mukta-m0-p49-v1218
-[obstacle+maker](vighnakartā) [world+protector](jagattrātā) [obstacle+remover](vighnahartā) [thus](iti) [renowned](viśrutaḥ)
+obstacle-maker [vighnakartā] world-protector [jagattrātā] obstacle-remover [vighnahartā] thus [iti] famous [viśrutaḥ]
 
 ## mukta-m0-p49-v1219
-[obstacle](vighnaḥ) [not](na) [afflicts](bādhate) [ever](jātu) [who](yaḥ) [him](taṃ) [worships](saṃpūjayet) [always](sadā)
+obstacle [vighno] not [na] afflicts [bādhate] ever [jātu] who [yaḥ] him [taṃ] worships [saṃpūjayet] always [sadā]
 
 ## mukta-m0-p49-v1220
-[should-recite](paṭhet) [of-names](nāmnāṃ) [thousand](sahasraṃ) [indeed](tu) [hymn](stotraṃ) [root+sole+means](mūlaikasādhanam)
+recite [paṭhet] of-names [nāmnāṃ] thousand [sahasraṃ] indeed [tu] hymn [stotraṃ] root-single-means [mūlaikasādhanam]
 
 ## mukta-m0-p49-v1221
-[mantra](mantraṃ) [yantra](yantraṃ) [hymn](stavaṃ) [armor](varma) [of-names](nāmnāṃ) [thousand](sahasram) [supreme](uttamam)
+mantra [mantraṃ] yantra [yantraṃ] praise [stavaṃ] armor [varma] of-names [nāmnāṃ] thousand-supreme [sahasramuttamam]
 
 ## mukta-m0-p49-v1222
-[elephant+faced](gajānanaḥ) [troop+lord](gaṇādhyakṣaḥ) [Vināyaka](vināyakaḥ) [thus](iti) [heard](śrutaḥ)
+elephant-faced [gajānano] gaṇa-leader [gaṇādhyakṣo] vināyaka [vināyaka] thus [iti] heard [śrutaḥ]
 
 ## mukta-m0-p49-v1223
-[there](tatra) [first](ādau) [to-you](te) [I-shall-declare](pravakṣyāmi) [mantra+extraction](mantroddhāraṃ) [O-lady+of-gods](sureśvari)
+there-first [tatrādau] to-you [te] I-will-declare [pravakṣyāmi] mantra-extraction [mantroddhāraṃ] O-goddess-lord [sureśvari]
 
 ## mukta-m0-p49-v1224
-[twenty-eight+syllabled](hyaṣṭāviṃśativarṇakaḥ) [declared](nigaditaḥ) [of-Vināyaka](vaināyakaḥ) [this](ayaṃ) [mantra](manuḥ)
+this [ayaṃ] twenty-eight-lettered [hyaṣṭāviṃśativarṇako] declared [nigadito] vaināyaka [vaināyako] mantra [manuḥ]
 
 ## mukta-m0-p49-v1225
-[at-banyan-tree](vaṭe) [at-crossroads](catuṣpathe) [in-empty+house](śūnyagṛhe) [in-cremation+ground](pretālaye) [one-should-practice](caret)
+at-banyan [vaṭe] at-crossroads [catuṣpathe] in-empty-house [śūnyagṛhe] in-pretā-abode [pretālaye] perform [caret]

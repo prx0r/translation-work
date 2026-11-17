@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p28-v676
-[of-mantra-king](mantrarājasya) [of-goddesses](devīnāṃ) [[kh:-of-gods](devānāṃ)] [by-whom](yena) [origin](utpattiḥ) [by-me](mayā) [made](kṛtā)
+[of-mantra-king's](mantrarājasya) [of-goddesses'](devīnāṃ) [by-whom](yena) [origin](utpattiḥ) [by-me](mayā) [made](kṛtā)
 
 ## mukta-m0-p28-v677
-[seed+devoid](bījahīnaḥ) [may-be](bhavet) [mantra](mantraḥ) [success+loss+causing](siddhihānikaraḥ) [O-Śivā](śive)
+[seedless](bījahīnaḥ) [becomes](bhavet) [mantra](mantraḥ) [loss-of-success-causing](siddhihānikaraḥ) [O-Śiva](śive)
 
 ## mukta-m0-p28-v678
-[at-recitation+end](japānte) [world+origin+maintenance+destruction+pertaining-to](jagadutpattisthitisaṃhārikī) [thought](matiḥ)
+[at-end-of-japa](japānte) [world-origin-staying-dissolution-related](jagadutpattisthitisaṃhārikī) [thought](matiḥ)
 
 ## mukta-m0-p28-v679
-[power+devoid](śaktihīnaḥ) [O-great-goddess](mahādevi) [mantra](mantraḥ) [obstacle+causing](vighnakaraḥ) [considered](mataḥ)
+[powerless](śaktihīnaḥ) [O-great-goddess](mahādevi) [mantra](mantraḥ) [obstacle-causing](vighnakaraḥ) [considered](mataḥ)
 
 ## mukta-m0-p28-v680
-[having-recited](japtvā) [having-praised](stutvā) [O-great-goddess](mahādevi) [again](punar) [by-whom](yena) [it](saḥ) [concealed](gopitaḥ)
+[having-japed](japtvā) [having-praised](stutvā) [O-great-goddess](mahādevi) [again](punar) [by-whom](yena) [he](saḥ) [hidden](gopitaḥ)
 
 ## mukta-m0-p28-v681
-[un-nailed](niṣkīlitaṃ) [at-recitation+end](japānte) [and](ca) [mantra](manum) [without-faith](aśraddhayā) [O-Śivā](śive)
+[de-energized](niṣkīlitaṃ) [at-end-of-japa](japānte) [ca](ca) [mantra](manum) [without-faith](aśraddhayā) [O-Śiva](śive)
 
 ## mukta-m0-p28-v682
-[at-recitation+time](japakāle) [O-great-goddess](mahādevi) [demons](rākṣasāḥ) [ghosts+spirits](bhūtapretakāḥ)
+[at-time-of-japa](japakāle) [O-great-goddess](mahādevi) [rākṣasas](rākṣasāḥ) [bhūtas-pretas](bhūtapretakāḥ)
 
 ## mukta-m0-p28-v683
-[direction+binding](digbandhena) [[kh:-in-binding](bandhane)] [without](vinā) [O-goddess](devi) [recitation](japaḥ) [reading](pāṭhaḥ) [also](api) [or](vā) [likewise](tathā)
+[without-digbandha](digbandhena+vinā) [O-goddess](devi) [japa](japaḥ) [recitation](pāṭhaḥ) [api](api) [vā](vā) [tathā](tathā)
 
 ## mukta-m0-p28-v684
-[by-these](etaiḥ) [devoid](vihīnaḥ) [mantra](mantraḥ) [is](asti) [fruitless](niṣphalaḥ) [obstacle+causing](vighnakārakaḥ)
+[by-these-lacking](etair+vihīnaḥ) [mantra](mantraḥ) [asti](asti) [fruitless](niṣphalaḥ) [obstacle-causing](vighnakārakaḥ)
 
 ## mukta-m0-p28-v685
-[to-be-concealed](gopanīyaḥ) [by-great-heroes](mahāvīraiḥ) [thus](iti) [command](ājñā) [of-the-supreme-lord](pārameśvarī)
+[to-be-hidden](gopanīyaḥ) [by-great-heroes](mahāvīraiḥ) [thus-command](ityājñā) [supreme-goddess](pārameśvarī)
 
 ## mukta-m0-p28-v686
-[by-whom](yena) [by-practice+alone](sādhanamātreṇa) [practitioner](sādhakaḥ) [Bhairava](bhairavaḥ) [may-become](bhavet)
+[by-whom](yena) [by-practice-alone](sādhanamātreṇa) [practitioner](sādhakaḥ) [Bhairava](bhairavaḥ) [becomes](bhavet)
 
 ## mukta-m0-p28-v687
-[forgotten](vismṛtaḥ) [this](ayam) [method](vidhiḥ) [secret](guhyaḥ) [of-cremation-ground+worship+marked](śmaśānasyārcanāṅkitaḥ)
+[forgotten](vismṛtaḥ) [this](ayaṃ) [rite](vidhiḥ) [secret](guhyaḥ) [cremation-ground-worship-marked](śmaśānasyārcanāṅkitaḥ)
 
 ## mukta-m0-p28-v688
-[by-names](nāmabhiḥ) [celebrated](viśrutāḥ) [O-goddess](devi) [by-you](bhavatyāḥ) [by-me](me) [supremely](paraṃ) [heard](śrutāḥ)
+[by-names](nāmabhiḥ) [famous](viśrutā) [O-goddess](devi) [by-you](bhavatyā) [to-me](me) [supreme](paraṃ) [heard](śrutāḥ)
 
 ## mukta-m0-p28-v689
-[practitioners](sādhakāḥ) [by-which](yena) [are-born](jāyante) [with-all+powers+endowed](sarvasiddhiyutāḥ) [O-Śivā](śive)
+[by-whom](yena) [practitioners](sādhakāḥ) [are-born](jāyante) [with-all-successes](sarvasiddhiyutāḥ) [O-Śiva](śive)
 
 ## mukta-m0-p28-v690
-[not](na) [succeed](siddhyanti) [O-fair-one](varārohe) [in-Kali-age](kalau) [by-Bhairava+curse](bhairavaśāpataḥ)
+[not-succeed](na+siddhyanti) [O-excellent-one](varārohe) [in-Kali](kalau) [by-Bhairava's-curse](bhairavaśāpataḥ)
 
 ## mukta-m0-p28-v691
-[there](tatra) [having-gone](gatvā) [may-worship](arcayet) [who](yaḥ) [he](tu) [he](saḥ) [like-Bhairava](bhairavopamaḥ) [may-become](bhavet)
+[there](tatra) [having-gone](gatvā) [worships](arcayet) [whoever](yaḥ+tu) [he](saḥ) [becomes](bhavet) [Bhairava-like](bhairavopamaḥ)
 
 ## mukta-m0-p28-v692
-[by-dogs](sārameyaiḥ) [and](ca) [by-Yakṣa-lords](yakṣendraiḥ) [with-serpents](soragaiḥ) [with-goblins](sapiśācakaiḥ)
+[with-dogs](sārameyaiḥ+ca) [with-yakṣa-lords](yakṣendraiḥ) [with-serpents](soragaiḥ) [with-piśācas](sapiśācakaiḥ)
 
 ## mukta-m0-p28-v693
-[there](tatra) [beings](bhūtāḥ) [very-terrible](mahāghorāḥ) [four](catvāraḥ) [obstacle+causing](vighnakārakāḥ)
+[there](tatra) [bhūtas](bhūtāḥ) [very-terrible](mahāghorāḥ) [four](catvāraḥ) [obstacle-causing](vighnakārakāḥ)
 
 ## mukta-m0-p28-v694
-[they](te) [in-front+gone](saṃmukhagatāḥ) [cruel](krūrāḥ) [beings](bhūtāḥ) [do](kurvanti) [harm](vipriyam)
+[they](te) [face-to-face-gone](saṃmukhagatāḥ) [cruel](krūrāḥ) [bhūtas](bhūtāḥ) [do](kurvanti) [displeasure](vipriyam)
 
 ## mukta-m0-p28-v695
-[of-them](teṣāṃ) [method](vidhiṃ) [I-shall-declare](pravakṣyāmi) [secret](guhyaṃ) [essence+best+of-the-best](sārottamottamam)
+[of-them](teṣāṃ) [rite](vidhim) [I-will-declare](pravakṣyāmi) [secret](guhyaṃ) [essence-best-best](sārottamottamam)
 
 ## mukta-m0-p28-v696
-[on-Sunday](ravau) [on-Monday](candre) [on-Tuesday](kuje) [on-Wednesday](saumye) [on-Thursday](gurau) [on-Friday](śukre) [on-Saturday](śanau) [likewise](tathā)
+[on-Sun](ravau) [on-Moon](candre) [on-Mars](kuje) [on-Mercury](saumye) [on-Jupiter](gurau) [on-Venus](śukre) [on-Saturn](śanau) [tathā](tathā)
 
 ## mukta-m0-p28-v697
-[O-Mahogra](mahogra) [O-Citrāṅgada](citrāṅgada) [O-Caṇḍa](caṇḍa) [O-Bhāsvallolākṣa](bhāsvallolākṣa) [O-Bhūteśa](bhūteśa) [O-Karāla](karāla) [O-Bhīmāḥ](bhīmāḥ)
+[great-fierce](mahogra) [Citrāṅgada](citrāṅgada) [Caṇḍa](caṇḍa) [Bhāsvallolākṣa](bhāsvallolākṣa) [Bhūteśa](bhūteśa) [Karāla](karāla) [Bhīmāḥ](bhīmāḥ)
 
 ## mukta-m0-p28-v698
-[these](etān) [having-worshipped](samabhyarcya) [one-may-dwell](vaset) [in-cremation-ground](śmaśāne) [may-be](syāt) [otherwise](anyathā) [mind+confusion](dhībhramaṇaṃ) [calamity](vipattiḥ)
+[these](etān) [having-worshipped](samabhyarcya) [may-dwell](vaset) [in-cremation-ground](śmaśāne) [otherwise](syādanyathā) [mind-confusion](dhībhramaṇaṃ) [calamity](vipattiḥ)
 
 ## mukta-m0-p28-v699
 [fifteenth](pañcadaśaḥ) [chapter](paṭalaḥ)
 
 ## mukta-m0-p28-v700
-[prose+verse+consisting](gadyapadyamayīṃ) [O-goddess](devi) [mantra+success+bestowing](mantrasiddhipradāyinīm)
+[prose-verse-composed](gadyapadyamayīṃ) [O-goddess](devi) [mantra-success-giving](mantrasiddhipradāyinīm)

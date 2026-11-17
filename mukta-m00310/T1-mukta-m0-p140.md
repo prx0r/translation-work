@@ -2,76 +2,52 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p140-v3476
-leaping(jhampā) jhiṃjha-lady(jhiṃjheśvarī) blazing(jhāntā) jha-syllable-mother(jhakāra+akṣara+mātṛkā)
-
+[pada](jhampā) [pada](jhiṃjheśvarī) [pada](jhāntā) [pada](jhakārākṣaramātṛkā)
 ## mukta-m0-p140-v3477
-ña-class-seed-adorned(ñavarga+bīja+bhūṣāḍhyā) ña-syllable-mother(ñakāra+akṣara+mātṛkā)
-
+[pada](ñavargabījabhūṣāḍhyā) [pada](ñakārākṣaramātṛkā)
 ## mukta-m0-p140-v3478
-chisel-weaponed(ṭaṅka+āyudhā) ṭalī-form(ṭalī+rūpā) ṭa-syllable-mother(ṭakāra+akṣara+mātṛkā)
-
+[pada](ṭaṅkāyudhā) [pada](ṭalīrūpā) [pada](ṭakārākṣaramātṛkā)
 ## mukta-m0-p140-v3479
-ṭhaḥ-nature(ṭhaḥ+svarūpā) ṭha-letter-endowed(ṭha+varṇa+āḍhyā) ṭha-syllable-mother(ṭhakāra+akṣara+mātṛkā)
-
+[pada](ṭhaḥsvarūpā) [pada](ṭhavarṇāḍhyā) [pada](ṭhakārākṣaramātṛkā)
 ## mukta-m0-p140-v3480
-resounding(ḍhiṇī) ḍhehā(ḍhehā) ḍhilla-in-hand(ḍhilla+hastā) ḍha-syllable-mother(ḍhakāra+akṣara+mātṛkā)
-
+[pada](ḍhiṇī) [pada](ḍhehā) [pada](ḍhillahastā) [pada](ḍhakārākṣaramātṛkā)
 ## mukta-m0-p140-v3481
-fourth(turī) transcendent(turyā) balance-form(tulā+rūpā) tripurā(tripurā) darkness-loving(tāmasa+priyā)
-
+[pada](turī) [pada](turyā) [pada](tulārūpā) [pada](tripurā) [pada](tāmasapriyā)
 ## mukta-m0-p140-v3482
-tripurā(tripurā) three-guṇas(tri+guṇā) to-be-meditated(dhyeyā) tryambakeśī(tryambakeśī) three-worlds-supporter(tri+loka+dhṛt)
-
+[pada](tripurā) [pada](triguṇā) [pada](dhyeyā) [pada](tryambakeśī) [pada](trilokadhṛt)
 ## mukta-m0-p140-v3483
-three-worlds-mother(tri+loka+jananī) protectress(trātā) tripureśvara-worshipped(tripureśvara+pūjitā)
-
+[pada](trilokajananī) [pada](trātā) [pada](tripureśvarapūjitā)
 ## mukta-m0-p140-v3484
-triangle-worship-pleased(tri+koṇa+pūjana+tuṣṭā) triangle-worship-resorted(tri+koṇa+pūjana+śritā)
-
+[pada](trikoṇapūjanatuṣṭā) [pada](trikoṇapūjanaśritā)
 ## mukta-m0-p140-v3485
-eight-corner-situated-goddess(vasu+koṇa+sthitā+devī) eight-corner-meaning-speaker(vasu+koṇa+artha+vādinī)
-
+[pada](vasukoṇasthitādevī) [pada](vasukoṇārthavādinī)
 ## mukta-m0-p140-v3486
-serpent-petal-situated(nāga+patra+sthitā) śārī(śārī) three-circle-worship-boon-giver(tri+vṛtta+pūjana+artha+dā)
-
+[pada](nāgapatrasthitā) [pada](śārī) [pada](trivṛttapūjanārthadā)
 ## mukta-m0-p140-v3487
-tāmasic(tāmasī) javelin-resembling(tomara+prakhyā) tumburu-sound-resounding(tumburu+svana+nādinī)
-
-## mukta-m0-p148-v3488
-trembling-eyed(tarala+akṣī) darkness-remover(tamas+hartrī) tāraka-demon-slayer(tāraka+asura+ghātinī)
-
+[pada](tāmasī) [pada](tomaraprakhyā) [pada](tumburusvananādinī)
+## mukta-m0-p140-v3488
+[pada](taralākṣī) [pada](tamohartrī) [pada](tārakāsuraghātinī)
 ## mukta-m0-p140-v3489
-abiding(sthalī) ancient-form(sthavira+rūpā) and(ca) vast(sthūlā) vessel(sthālī) land-lotus(sthala+abjinī)
-
+[pada](sthalī) [pada](sthavirarūpā) [pada](ca) [pada](sthūlā) [pada](sthālī) [pada](sthalābjinī)
 ## mukta-m0-p140-v3490
-messenger(dūtikā) śiva-messenger(śiva+dūtī) and(ca) staff-weapon-holder(daṇḍa+āyudha+dharā) radiance(dyutiḥ)
-
+[pada](dūtikā) [pada](śivadūtī) [pada](ca) [pada](daṇḍāyudhadharā) [pada](dyutiḥ)
 ## mukta-m0-p140-v3491
-regions-wandering(deśa+anucāriṇī) drekkā(drekkā) drāviḍa-lady(drāviḍa+īśī) most-distant(davīyasī)
-
+[pada](deśānucāriṇī) [pada](drekkā) [pada](drāviḍeśī) [pada](davīyasī)
 ## mukta-m0-p140-v3492
-curd-born(dadhi+jā) difficult-to-attain(durlabhā) goddess(devī) deity(devatā) supreme-syllable(parama+akṣarā)
-
+[pada](dadhijā) [pada](durlabhā) [pada](devī) [pada](devatā) [pada](paramākṣarā)
 ## mukta-m0-p140-v3493
-danu-daughter(danu+putrī) destruction(vināśā) and(ca) danu-sons-lineage-worshipped(danu+putra+kula+arcitā)
-
+[pada](danuputrī) [pada](vināśā) [pada](ca) [pada](danuputrakulārcitā)
 ## mukta-m0-p140-v3494
-ten-cows-form(daśa+dhenu+surūpā) and(ca) da-syllable-mother(dakāra+akṣara+mātṛkā)
-
+[pada](daśadhenusurūpā) [pada](ca) [pada](dakārākṣaramātṛkā)
 ## mukta-m0-p140-v3495
-steadfastness(dhṛtiḥ) cunning(dhūrtā) blessed-wife(dhanya+vadhūḥ) dha-syllable-mother(dhakāra+akṣara+mātṛkā)
-
+[pada](dhṛtirdhūrtā) [pada](dhanyavadhūrdhakārākṣaramātṛkā)
 ## mukta-m0-p140-v3496
-kadamba-grove-middle-dwelling(nīpa+upavana+madhya+sthā) nāgara-lady(nāgara+īśī) supreme-among-men(nara+uttamā)
-
+[pada](nīpopavanamadhyasthā) [pada](nāgareśī) [pada](narottamā)
 ## mukta-m0-p140-v3497
-kings-served(nṛpa+sevyā) kings-adored(nṛpa+vandyā) nara-nārāyaṇa-mother(nara+nārāyaṇa+prasūḥ)
-
+[pada](nṛpasevyā) [pada](nṛpavandyā) [pada](naranārāyaṇaprasūḥ)
 ## mukta-m0-p140-v3498
-lotus-lady(padma+īśvarī) lotus-faced(padma+mukhī) leaf-vehicle(patra+yānā) higher-and-lower(parā+aparā)
-
+[pada](padmeśvarī) [pada](padmamukhī) [pada](patrayānā) [pada](parāparā)
 ## mukta-m0-p140-v3499
-city(pūḥ) demon-slayer-wife(purāri+vadhūḥ) pampā(pampā) wife(patnī) leaf-lord-vehicle(patrīśa+vāhanā)
-
+[pada](pūḥ) [pada](purārivadhūḥ) [pada](pampā) [pada](patnī) [pada](patrīśavāhanā)
 ## mukta-m0-p140-v3500
-seat(pīṭhā) seat-situated(pīṭha+sthitā) seat(pīṭhā) yellow-ornament-adorned(pīta+alaṅkāra+bhūṣaṇā)
+[pada](pīṭhā) [pada](pīṭhasthitāpīṭhā) [pada](pītālaṅkārabhūṣaṇā)

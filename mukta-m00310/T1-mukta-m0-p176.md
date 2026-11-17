@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p176-v4376
-[now](atha) [I](aham) [your](tava) [O-goddess](deveśi) [of-letters](varṇānāṃ) [speak](vacmi) [indeed](vai) [mantras](manūn)
+atha-then aham-I tava-your deveśi-goddess varṇānām-of-letters vacmi-I-speak vai-indeed manūn-mantras
 
 ## mukta-m0-p176-v4377
-[by-which](yena) [by-knowledge+alone](vijñāna+mātreṇa) [mantra-practitioner](māntrikaḥ) [adept](sādhakaḥ) [may-become](bhavet)
+yena-by-which vijñānamātreṇa-by-knowledge-alone māntrikaḥ-mantra-knower sādhakaḥ-practitioner bhavet-becomes
 
 ## mukta-m0-p176-v4378
-[nine-planet+mantra+extraction+treasury+narration](navagraha+mantra+uddhāra+kośa+ākhyānaṃ) [fourth](caturthaḥ) [chapter](kalpaḥ)
+navagrahamantroddhārakośākhyānam-narration-of-mantra-treasury caturthaḥ-fourth kalpaḥ-age
 
 ## mukta-m0-p176-v4379
-[pleased](prasannaḥ) [you-are](asi) [O-fortunate-one](mahābhāgin) [toward-us](asmāsu) [by-compassion](kṛpayā) [O-lord](prabho)
+prasannaḥ-pleased asi-you mahābhāgin-greatly-fortunate asmāsu-to-us kṛpayā-by-grace prabho-lord
 
 ## mukta-m0-p176-v4380
-[of-letters](varṇānāṃ) [to-hear](śrotum) [we-desire](icchāmaḥ) [mantra+treasuries](mantra+kośāni) [and](ca) [we](vayam)
+varṇānām-of-letters śrotum-to-hear icchāmaḥ-we-desire mantrakośāni-mantra-treasuries ca-and vayam-we
 
 ## mukta-m0-p176-v4381
-[of-letters](varṇānāṃ) [mantra+treasury](mantra+kośaṃ) [and](ca) [issued-forth](niḥsṛtaṃ) [from-Tripurā's+mouth](tripurā+mukhāt)
+varṇānām-of-letters mantrakośam-mantra-treasury ca-and niḥsṛtam-emerged tripurāmukhāt-from-Tripura's-mouth
 
 ## mukta-m0-p176-v4382
-[of-sages](munīnāṃ) [indicated](sūcitaṃ) [and-which](yat) [and](ca) [by-Dakṣiṇāmūrti](dakṣiṇāmūrtinā) [formerly](purā)
+munīnām-of-sages sūcitam-indicated yat-that ca-and dakṣiṇāmūrtinā-by-Dakshinamurti purā-formerly
 
 ## mukta-m0-p176-v4383
-[mental](mānasaṃ) [and](ca) [mind+seed](manaḥ+bījaṃ) [of-Brahmā](paitāmaham) [thus](iti) [remembered](smṛtam)
+mānasam-mental ca-and manobījam-mind-seed paitāmaham-of-Brahma iti-thus smṛtam-remembered
 
 ## mukta-m0-p176-v4384
-[void](śūnyaṃ) [ether](kham) [sky](ambaraṃ) [space](vyoma) [of-Viṣṇu](vaiṣṇavaṃ) [and](ca) [thus](iti) [spoken](bhāṣitam)
+śūnyam-void kham-sky ambaraṃ-ether vyomam-space vaiṣṇavam-Vishnu's ceti-and-thus bhāṣitam-spoken
 
 ## mukta-m0-p176-v4385
-[Indra+seed](indra+bījaṃ) [likewise](tathā) [conqueror](jiṣṇuḥ) [attended-by-Maruts](marutvān) [Maghavān](maghamā) [Hari](hariḥ)
+indrabījam-Indra's-seed tathā-also jiṣṇuḥ-Vishnu marutvān-wind-god maghavān-Indra hariḥ-Hari
 
 ## mukta-m0-p176-v4386
-[by-me](mayā) [declared](proktaṃ) [O-goddess-of-gods](sureśāni) [in-treatise](granthe) [in-Bhairava-tantra](bhairava+tantrake)
+mayā-by-me proktam-spoken sureśāni-goddess granthe-in-text bhairavatantrake-in-Bhairava-tantra
 
 ## mukta-m0-p176-v4387
-[of-Indra](aindraṃ) [likewise](tathaiva) [to-be-known](vijñeyam) [of-the-letter-ī](īkārasya) [secret-name](anṛtaṃ) [supreme](param)
+aindram-Indra's tathaiva-likewise vijñeyam-to-be-known īkārasya-of-ī anṛtam-false param-supreme
 
 ## mukta-m0-p176-v4388
-[ruti+seed](ruti+bījaṃ) [likewise](tathā) [Nandā](nandā) [Vāmana](vāmanaṃ) [vītu+seed](vītu+bījakam)
+rutibījam-seed-of-sound tathā-also nandā-Nanda vāmanam-dwarf vītubījakam-seed-of-wind
 
 ## mukta-m0-p176-v4389
-[by-me](mayā) [declared](ākhyātāni) [in-all](sarvasve) [of-Kubjikā](kubjikāyāḥ) [O-goddess-of-gods](sureśvari)
+mayā-by-me ākhyātāni-declared sarvasve-in-all kubjikāyāḥ-of-Kubjika sureśvari-goddess
 
 ## mukta-m0-p176-v4390
-[lunar](aindavam) [secret-name](anṛtam) [another](anyat) [of-the-letter-ū](ūkārasya) [O-goddess-of-gods](sureśvari)
+aindavam-Indra's anṛtam-false anyat-other ūkārasya-of-ū sureśvari-goddess
 
 ## mukta-m0-p176-v4391
-[of-the-letter-ṛ](ṛkārasya) [in-this+mystery](rahasye) [asmin](asmin) [of-Kālī](kālyāḥ) [declared](proktaṃ) [by-me](mayā) [O-Śivā](śive)
+ṛkārasya-of-ṛ rahasye-in-secret asmin-this kālyāḥ-of-Kali proktam-spoken mayā-by-me śive-Shiva
 
 ## mukta-m0-p176-v4392
-[of-the-letter-ṝ](ṝkārasya) [secret-name](anṛtam) [another](anyat) [spoken](bhāṣitaṃ) [in-Viṣṇu-yāmala](viṣṇu+yāmale)
+ṝkārasya-of-ṝ anṛtam-false anyad-other bhāṣitam-spoken viṣṇuyāmale-in-Vishnu-Yamala
 
 ## mukta-m0-p176-v4393
-[manifest+seed](vyakta+bījaṃ) [world+seed](jagat+bījaṃ) [gaura](gaurvaṃ) [declared](proktaṃ) [by-me](mayā) [O-Śivā](śive)
+vyaktabījam-manifest-seed jagadbījam-world-seed gaurvam-Gauri proktam-spoken mayā-by-me śive-Shiva
 
 ## mukta-m0-p176-v4394
-[Gaṅgā+seed](gaṅgā+bījaṃ) [celestial-river](suḥ+nadī) [heavenly-well](nāka+vāpī) [and](ca) [flowing-from-heaven](svaḥ+dhunī)
+gaṅgābījam-Ganga-seed surnadī-celestial-river ca-and nākavāpī-heavenly-pool ca-and svardhunī-Ganga
 
 ## mukta-m0-p176-v4395
-[in-treatise](granthe) [and](ca) [self-composed](sva+kṛtau) [O-goddess](devi) [in-Mantrasāgara-tantra](mantra+sāgara+tantrake)
+granthe-in-text ca-and svakṛtau-self-composed devi-goddess mantrasāgaratantrake-in-Mantrasagara-tantra
 
 ## mukta-m0-p176-v4396
-[creeper+seed](vallī+bījaṃ) [and](ca) [vārākī](vārākī) [and](ca) [another](anyat) [secret-name](anṛtam) [one-should-state](āvadet)
+vallībījam-creeper-seed ca-and vārākī-Vārākī cānyat-and-other anṛtam-false āvadet-would-say
 
 ## mukta-m0-p176-v4397
-[in-Kulacūḍāmaṇi](kula+cūḍāmaṇau) [treatise](granthe) [composed](racite) [by-best+mantra-practitioners](māntrika+uttamaiḥ)
+kulacūḍāmaṇau-in-Kulachudamani granthe-text racite-composed māntrikottamaiḥ-by-best-mantra-knowers
 
 ## mukta-m0-p176-v4398
-[Caṇḍa](caṇḍaḥ) [also](api) [skin](carma) [garment](vasanaṃ) [dwelling](vāsanā) [and](ca) [likewise](tathaiva) [and](ca)
+caṇḍaḥ-fierce api-also carma-skin vasanam-garment vāsanā-desire ca-and tathaiva-likewise ca-and
 
 ## mukta-m0-p176-v4399
-[Rāhu](rāhu) [known](khyātaṃ) [by-me](mayā) [O-goddess](devi) [of-the-letter-ai](aikārasya) [secret-name](anṛtaṃ) [supreme](param)
+rāhu-Rahu khyātam-declared mayā-by-me devi-goddess aikārasya-of-ai anṛtam-false param-supreme
 
 ## mukta-m0-p176-v4400
-[praṇava](praṇavaṃ) [and](ca) [then](tataḥ) [tāra](tāraṃ) [three-eyed](tryakṣaṃ) [om](tomāpi) [three-eyed-one](tryambakaḥ)
+praṇavam-Om ca-and tataḥ-then tāram-Tara tryakṣam-three-eyed tomāpi-also tryambakaḥ-Tryambaka
