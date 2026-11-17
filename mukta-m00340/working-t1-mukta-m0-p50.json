@@ -15,11 +15,11 @@
 "quick_gloss": "protect"
 },
 {
-"surface": "naḥ",
+"surface": "no",
 "quick_gloss": "us"
 },
 {
-"surface": "ubhīteḥ",
+"surface": "bhīter",
 "quick_gloss": "from-fear"
 },
 {
@@ -31,7 +31,11 @@
 "quick_gloss": "salutation"
 },
 {
-"surface": "astute",
+"surface": "astu",
+"quick_gloss": "be"
+},
+{
+"surface": "te",
 "quick_gloss": "to-you"
 }
 ]
@@ -45,18 +49,18 @@
 "tokens": [
 {
 "surface": "sā",
-"quick_gloss": "that"
+"quick_gloss": "bell"
 },
 {
 "surface": "ghaṇṭā",
-"quick_gloss": "bell"
+"quick_gloss": "ghaṇṭā"
 },
 {
 "surface": "pātu",
 "quick_gloss": "protect"
 },
 {
-"surface": "naḥ",
+"surface": "no",
 "quick_gloss": "us"
 },
 {
@@ -85,7 +89,7 @@
 "quick_gloss": "for-auspiciousness"
 },
 {
-"surface": "khaḍgaḥ",
+"surface": "khaḍgo",
 "quick_gloss": "sword"
 },
 {
@@ -94,15 +98,15 @@
 },
 {
 "surface": "caṇḍike",
-"quick_gloss": "chandika"
+"quick_gloss": "caṇḍikā"
 },
 {
-"surface": "tvām",
+"surface": "tvāṃ",
 "quick_gloss": "to-you"
 },
 {
-"surface": "natāḥ",
-"quick_gloss": "bowed"
+"surface": "natā",
+"quick_gloss": "we-bow"
 },
 {
 "surface": "vayam",
@@ -130,12 +134,12 @@
 "quick_gloss": "in-many-ways"
 },
 {
-"surface": "ātma+mūrtim",
-"quick_gloss": "own-form"
+"surface": "ātma+mūrtiṃ",
+"quick_gloss": "self-form"
 },
 {
 "surface": "kṛtvā",
-"quick_gloss": "having-made"
+"quick_gloss": "making"
 },
 {
 "surface": "ambike",
@@ -146,8 +150,12 @@
 "quick_gloss": "that"
 },
 {
+"surface": "prakaroti",
+"quick_gloss": "does"
+},
+{
 "surface": "kā+anyā",
-"quick_gloss": "who-else"
+"quick_gloss": "who-other"
 }
 ]
 },
@@ -220,7 +228,7 @@
 "quick_gloss": "standing"
 },
 {
-"surface": "tvam",
+"surface": "tvaṃ",
 "quick_gloss": "you"
 },
 {
@@ -242,23 +250,19 @@
 "tokens": [
 {
 "surface": "viśveśa+vandyā",
-"quick_gloss": "by-all-lords-worshipped"
+"quick_gloss": "by-all-lords"
 },
 {
 "surface": "bhavati",
-"quick_gloss": "becomes"
+"quick_gloss": "become"
 },
 {
-"surface": "bhavanti",
-"quick_gloss": "becoming"
-},
-{
-"surface": "viśva+āśrayāḥ",
-"quick_gloss": "universe-refuge"
+"surface": "bhavanti+viśvāśrayā",
+"quick_gloss": "those-who-bow"
 },
 {
 "surface": "ye",
-"quick_gloss": "those"
+"quick_gloss": "who"
 },
 {
 "surface": "tvayi",
@@ -292,18 +296,18 @@
 "tokens": [
 {
 "surface": "trailokya+vāsinām",
-"quick_gloss": "of-three-worlds-dwellers"
+"quick_gloss": "of-three-worlds"
 },
 {
 "surface": "īḍye",
 "quick_gloss": "praised"
 },
 {
-"surface": "lokānām",
-"quick_gloss": "of-worlds"
+"surface": "lokānāṃ",
+"quick_gloss": "worlds"
 },
 {
-"surface": "vara+dā",
+"surface": "varadā",
 "quick_gloss": "boon-giver"
 },
 {
@@ -333,8 +337,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "tam",
-"quick_gloss": "him"
+"surface": "taṃ",
+"quick_gloss": "that"
 },
 {
 "surface": "vṛṇudhvam",
@@ -362,7 +366,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "devāḥ+ūcuḥ",
+"surface": "devā+ūcuḥ",
 "quick_gloss": "the-gods-said"
 }
 ]
@@ -383,7 +387,7 @@
 "quick_gloss": "by-you"
 },
 {
-"surface": "kāryam",
+"surface": "ākāryam",
 "quick_gloss": "to-be-done"
 },
 {
@@ -413,12 +417,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "śumbhaḥ",
-"quick_gloss": "shumbha"
+"surface": "śumbho",
+"quick_gloss": "śumbha"
 },
 {
 "surface": "niśumbhaḥ",
-"quick_gloss": "nishumbha"
+"quick_gloss": "niśumbha"
 },
 {
 "surface": "ca",
@@ -455,15 +459,15 @@
 },
 {
 "surface": "tau",
-"quick_gloss": "them"
+"quick_gloss": "those"
 },
 {
 "surface": "nāśayiṣyāmi",
 "quick_gloss": "i-will-destroy"
 },
 {
-"surface": "vindhya+acala+nivāsinī",
-"quick_gloss": "vindhya-residing"
+"surface": "vindhyācala+nivāsinī",
+"quick_gloss": "vindhya-dwelling"
 }
 ]
 },
@@ -484,14 +488,10 @@
 },
 {
 "surface": "vaipracittān",
-"quick_gloss": "vaiprachitta"
+"quick_gloss": "vaipracitta"
 },
 {
-"surface": "tu",
-"quick_gloss": "and"
-},
-{
-"surface": "dānavān",
+"surface": "tu+dānavān",
 "quick_gloss": "demons"
 }
 ]
@@ -504,7 +504,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "rakta+dantāḥ",
+"surface": "raktā+dantā",
 "quick_gloss": "red-teeth"
 },
 {
@@ -530,15 +530,15 @@
 },
 {
 "surface": "vyāhāraṣyanti",
-"quick_gloss": "will-call"
+"quick_gloss": "will-utter"
 },
 {
-"surface": "satatam",
+"surface": "satataṃ",
 "quick_gloss": "always"
 },
 {
 "surface": "raktadantikām",
-"quick_gloss": "raktadantika"
+"quick_gloss": "raktadantikā"
 }
 ]
 },
@@ -595,7 +595,7 @@
 "quick_gloss": "thus"
 },
 {
-"surface": "mām",
+"surface": "māṃ",
 "quick_gloss": "me"
 },
 {
@@ -613,7 +613,7 @@
 "tokens": [
 {
 "surface": "bhariṣyāmi",
-"quick_gloss": "i-will-nourish"
+"quick_gloss": "i-will-sustain"
 },
 {
 "surface": "surāḥ",
@@ -621,11 +621,11 @@
 },
 {
 "surface": "śākaiḥ",
-"quick_gloss": "with-vegetables"
+"quick_gloss": "vegetables"
 },
 {
 "surface": "āvṛṣṭeḥ",
-"quick_gloss": "from-drought"
+"quick_gloss": "rainless"
 },
 {
 "surface": "prāṇa+dhārakaiḥ",
@@ -641,8 +641,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "durgama+ākhyaṃ+mahā+asuram",
-"quick_gloss": "durgama-named-great-asura"
+"surface": "durgama+ākhyaṃ",
+"quick_gloss": "durgama-named"
+},
+{
+"surface": "mahā+asuram",
+"quick_gloss": "great-asura"
 }
 ]
 },
@@ -662,7 +666,7 @@
 "quick_gloss": "and"
 },
 {
-"surface": "aham",
+"surface": "ahaṃ",
 "quick_gloss": "i"
 },
 {
@@ -670,16 +674,16 @@
 "quick_gloss": "when"
 },
 {
-"surface": "bhīmam",
+"surface": "bhīmaṃ",
 "quick_gloss": "terrible"
 },
 {
-"surface": "rūpam",
+"surface": "rūpaṃ",
 "quick_gloss": "form"
 },
 {
 "surface": "kṛtvā",
-"quick_gloss": "having-made"
+"quick_gloss": "making"
 },
 {
 "surface": "himācale",
@@ -699,7 +703,7 @@
 "quick_gloss": "then"
 },
 {
-"surface": "mām",
+"surface": "māṃ",
 "quick_gloss": "me"
 },
 {

@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p150-v3726
-[yas](yas) [tu](tu) [uttamaḥ](uttamaḥ) [api](api) [svācchandyāt](svācchandyāt) [prārabdha-vaśataḥ](prārabdhavaśato) [api](api) [vā](vā)
+[who-is-highest-even](yastūttamo'pi) [from-free-will](svācchandyāt) [from-prarabdha-force-even](prārabdhavaśato'pi) [or](vā)
 
 ## mukta-m0-p150-v3727
-[tā](tā) [api](api) [avismṛtiḥ](avismṛtiḥ) [amlānā](amlānā) [eva](eva) [iti](iti) [arthaḥ](arthaḥ)
+[that-too-non-forgetting-unfading-thus-meaning](tāapyavismṛtiramlānaivetyarthaḥ)
 
 ## mukta-m0-p150-v3728
-[vastutaḥ](vastutaḥ) [śṛṇu](śṛṇu) [bhū-deva](bhūdeva) [madhyama-uttama-jñāninām](madhyamottamajñāninām)
+[in-truth](vastutaḥ) [hear](śṛṇu) [earth-god](bhūdeva) [middle-and-highest-knowers](madhyamottamajñāninām)
 
 ## mukta-m0-p150-v3729
-[tayoḥ](tayor) [na](na) [prārabdham](prārabhdma) [api](api) [iti](iti) [āha](āha) [vastuta](vastuta) [iti](iti)
+[of-them](tayorna) [not-prarabdha-even-thus-says](prārabhdmapītyāha) [in-truth](vastuta) [thus](iti)
 
 ## mukta-m0-p150-v3730
-[saṃvid-ātma-atiriktam](saṃvidātmātiriktaṃ) [yat](yanna) [na](na) [te](te) [paśyanti](paśyanti) [kiñcana](kiñcana)
+[consciousness-self-beyond](saṃvidātmātiriktaṃ) [what](yanna) [they](te) [see](paśyanti) [anything](kiñcana)
 
 ## mukta-m0-p150-v3731
-[ca](ca) [iti](iti)
+[and](ca) [thus](iti)
 
 ## mukta-m0-p150-v3732
-[bhasmī-kṛtam](bhasmīṛtamatasteṣāṃ) [atas](atas) [teṣām](teṣāṃ) [na](na) [kiñcit](kiñcit) [pariśiṣyate](pariśiṣyate)
+[ashes-become](bhasmīṛtamatasteṣāṃ) [not](na) [anything](kiñcit) [remains](pariśiṣyate)
 
 ## mukta-m0-p150-v3733
-[śiṣyati](śiṣyatītyāha) [iti](iti) [āha](āha) [karma](karmeti) [iti](iti) [sarvam](sarvaṃ) [dvaitam](dvaitam) [na](na) [kiñcit](kiñcit) [karma](karma)
+[remains-thus-says](śiṣyatītyāha) [action](karmeti) [all](sarvaṃ) [duality](dvaitam) [not](na) [anything](kiñcit) [action](karma)
 
 ## mukta-m0-p150-v3734
-[śṛṇu](śṛṇu) [brahman](brahman) [rahasyam](rahasyaṃ) [te](te) [pravakṣyāmi](pravakṣyāmi) [samāsataḥ](samāsataḥ)
+[hear](śṛṇu) [brahman](brahman) [secret](rahasyaṃ) [to-you](te) [i-will-declare](pravakṣyāmi) [briefly](samāsataḥ)
 
 ## mukta-m0-p150-v3735
-[śiva-tulyatvāt](śivatulyatvānna) [na](na) [karma](karma) [iti](iti) [āha](āha) [śṛṇu](śṛṇviti) [iti](iti)
+[shiva-equality](śivatulyatvānna) [action](karmetyāha) [hear-thus](śṛṇviti)
 
 ## mukta-m0-p150-v3736
-[na](nāsti) [asti](asti) [bhedaḥ](bhedo) [leśataḥ](leśato) [api](api) [satyam](satyametanna) [etat](etat) [na](na) [saṃśayaḥ](saṃśayaḥ)
+[not](nāsti) [difference](bhedo) [even-slightly](leśato'pi) [truth-this](satyametanna) [doubt](saṃśayaḥ)
 
 ## mukta-m0-p150-v3737
-[prārabdha-śeṣaḥ](prārabdhaśeṣa) [iti](iti) [bhāvaḥ](bhāvaḥ)
+[prarabdha-remainder](prārabdhaśeṣa) [thus](iti) [meaning](bhāvaḥ)
 
 ## mukta-m0-p150-v3738
-[iti](iti) [śrutvā](śrutvā) [sa](sa) [vasumān](vasumān) [hemāṅgada-nirūpitam](hemāṅgadanirūpitam)
+[thus](iti) [hearing](śrutvā) [he](sa) [vasuman](vasumān) [hemangada-described](hemāṅgadanirūpitam)
 
 ## mukta-m0-p150-v3739
-[kiñcit](kiñcit) [jñāninām](jñānināṃ) [madhyama-uttamānām](madhyamottamānām) [iti](iti) [rāja-kumāra-uktam](rājakumāroktaṃ) [sarvam](sarvam)
+[anything](kiñcit) [of-knowers](jñānināṃ) [middle-and-highest](madhyamottamānām) [thus](iti) [prince-spoken](rājakumāroktaṃ) [all](sarvam)
 
 ## mukta-m0-p150-v3740
-[pūjitaḥ](pūjito) [rāja-putra-ādyaiḥ](rājaputrādyaiḥ) [svam](svaṃ) [sthānam](sthānaṃ) [pratyapadyata](pratyapadyata)
+[honored](pūjito) [by-prince-etc](rājaputrādyaiḥ) [own](svaṃ) [place](sthānaṃ) [returned](pratyapadyata)
 
 ## mukta-m0-p150-v3741
-[evam](evaṃ) [śrutvā](śrutvā) [punaḥ](punā) [rāmaḥ](rāmaḥ) [papraccha](papracchātrisutaṃ) [atri-sutam](atri-sutam) [munim](munim)
+[thus](evaṃ) [hearing](śrutvā) [again](punā) [rama](rāmaḥ) [asked](papracchātrisutaṃ) [sage](munim)
 
 ## mukta-m0-p150-v3742
-[vinaṣṭaḥ](vinaṣṭo) [mama](mama) [sandehaḥ](sandeho) [viditam](viditaṃ) [tat-mahat-padam](tanmahatpadam)
+[destroyed](vinaṣṭo) [my](mama) [doubt](sandeho) [known](viditaṃ) [that](tanmahatpadam)
 
 ## mukta-m0-p150-v3743
-[tat-mahat-padam](tanmahatpadaṃ) [śuddha-cit-advaya-ātma-rūpam](śuddhacidadvayātmarūpam)
+[that-great-state](tanmahatpadaṃ) [pure-consciousness-nondual-self-form](śuddhacidadvayātmarūpam)
 
 ## mukta-m0-p150-v3744
-[tathā](tathāpi) [api](api) [bhavatā](bhavatā) [proktam](proktamāditaḥ) [āditaḥ](āditaḥ) [sarvam](sarvameva) [eva](eva) [tu](tu)
+[thus](tathāpi) [by-you](bhavatā) [declared](proktamāditaḥ) [all](sarvameva) [tu](tu)
 
 ## mukta-m0-p150-v3745
-[prokta-akhila-artham](proktākhilārthaṃ) [saṃkṣepeṇa](saṃkṣepeṇa) [brūhi](brūhīti) [iti](iti) [pṛcchati](pṛcchati) [tathā](tathāpīti) [api](api) [iti](iti)
+[declared-all-meaning](proktākhilārthaṃ) [briefly](saṃkṣepeṇa) [speak](brūhīti) [asks](pṛcchati) [thus](tathāpīti)
 
 ## mukta-m0-p150-v3746
-[yāvat](yāvaddhārayitavyaṃ) [dhārayitavyam](dhārayitavyaṃ) [me](me) [guro](guro) [sarva-ātmanā](sarvātmanā) [mayā](mayā)
+[as-long-as](yāvaddhārayitavyaṃ) [me](me) [guru](guro) [wholly](sarvātmanā) [by-me](mayā)
 
 ## mukta-m0-p150-v3747
-[me](me) [sarva-ātmanā](sarvātmanā) [yāvat](yāvaddhārayitavyaṃ) [dhārayitavyam](dhārayitavyaṃ) [tāvat](tāvad) [brūhi](brūhi)
+[me](me) [wholly](sarvātmanā) [as-long-as](yāvaddhārayitavyaṃ) [so-long](tāvad) [speak](brūhi)
 
 ## mukta-m0-p150-v3748
-[śṛṇu](śṛṇu) [rāma](rāma) [pravakṣyāmi](pravakṣyāmi) [sarva-sāra-tamam](sarvasāratamaṃ) [punaḥ](punaḥ)
+[hear](śṛṇu) [rama](rāma) [i-will-declare](pravakṣyāmi) [essence-of-all](sarvasāratamaṃ) [again](punaḥ)
 
 ## mukta-m0-p150-v3749
-[sarvasya](sarvasya) [proktasya](proktasya) [sāra-tamam](sāratamam)
+[of-all](sarvasya) [declared](proktasya) [essence](sāratamam)
 
 ## mukta-m0-p150-v3750
-[sā](sā) [svātantrya-abhidhā-māyā-śakti-māhātmyataḥ](svātantryābhidhamāyāśaktimāhātmyataḥ) [sadā](sadā)
+[that](sā) [from-self-power](svātantryābhidhamāyāśaktimāhātmyataḥ) [always](sadā)

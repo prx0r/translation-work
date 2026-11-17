@@ -15,12 +15,8 @@
 "quick_gloss": "things"
 },
 {
-"surface": "tathā",
-"quick_gloss": "and"
-},
-{
-"surface": "uṣṇasparśakāni",
-"quick_gloss": "hot-touch"
+"surface": "tathoṣṇasparśakāni",
+"quick_gloss": "and-hot-touch"
 },
 {
 "surface": "ca",
@@ -44,20 +40,12 @@
 "quick_gloss": "seeing"
 },
 {
-"surface": "pramuditaḥ",
-"quick_gloss": "rejoiced"
+"surface": "pramudito",
+"quick_gloss": "delighted"
 },
 {
-"surface": "viṣaṇṇaḥ",
-"quick_gloss": "dejected"
-},
-{
-"surface": "ahitān",
-"quick_gloss": "non-beneficial"
-},
-{
-"surface": "api",
-"quick_gloss": "also"
+"surface": "viṣaṇṇastvahitānapi",
+"quick_gloss": "dejected-at-nonbeneficial-too"
 }
 ]
 },
@@ -69,16 +57,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "apaśyat",
-"quick_gloss": "saw"
-},
-{
-"surface": "rucirākārān",
-"quick_gloss": "beautiful-form"
+"surface": "apaśyadrucirākārān",
+"quick_gloss": "saw-not-beautiful-forms"
 },
 {
 "surface": "bhāvān",
-"quick_gloss": "things"
+"quick_gloss": "states"
 },
 {
 "surface": "vividhavarṇakān",
@@ -116,15 +100,15 @@
 },
 {
 "surface": "kaḍārān",
-"quick_gloss": "brown"
+"quick_gloss": "brownish"
 },
 {
 "surface": "kapiśān",
-"quick_gloss": "tawny"
+"quick_gloss": "monkey-colored"
 },
 {
 "surface": "mecakān",
-"quick_gloss": "dark"
+"quick_gloss": "blackish"
 },
 {
 "surface": "karburān",
@@ -156,8 +140,12 @@
 "quick_gloss": "beautiful"
 },
 {
+"surface": "ca",
+"quick_gloss": "and"
+},
+{
 "surface": "vibhīṣaṇān",
-"quick_gloss": "frightening"
+"quick_gloss": "frightful"
 }
 ]
 },
@@ -173,24 +161,12 @@
 "quick_gloss": "of-eye"
 },
 {
-"surface": "rūpāṇi",
+"surface": "rūpāni",
 "quick_gloss": "forms"
 },
 {
-"surface": "aparimāṇādi",
-"quick_gloss": "innumerable"
-},
-{
-"surface": "viṣayatvāt",
-"quick_gloss": "objects"
-},
-{
-"surface": "āha",
-"quick_gloss": "says"
-},
-{
-"surface": "sthūlānityādi",
-"quick_gloss": "gross-etc"
+"surface": "ityādi",
+"quick_gloss": "etc"
 }
 ]
 },
@@ -202,27 +178,23 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "kvacit",
-"quick_gloss": "somewhere"
+"surface": "kvaciddhitaṃ",
+"quick_gloss": "sometimes-beneficial"
 },
 {
-"surface": "hitaṃ",
-"quick_gloss": "beneficial"
+"surface": "tato'nyat",
+"quick_gloss": "then-other"
 },
 {
-"surface": "tataḥ",
-"quick_gloss": "then"
+"surface": "ca",
+"quick_gloss": "and"
 },
 {
-"surface": "anyat",
-"quick_gloss": "other"
-},
-{
-"surface": "paśyantam",
+"surface": "paśyantaṃ",
 "quick_gloss": "seeing"
 },
 {
-"surface": "pitaram",
+"surface": "pitaraṃ",
 "quick_gloss": "father"
 },
 {
@@ -239,12 +211,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "anālokān",
+"surface": "anālokānandhakārān",
 "quick_gloss": "darkness"
-},
-{
-"surface": "andhakārān",
-"quick_gloss": "dark"
 },
 {
 "surface": "kīdṛśān",
@@ -252,7 +220,7 @@
 },
 {
 "surface": "dṛṅmuṣaḥ",
-"quick_gloss": "eye-destroying"
+"quick_gloss": "eye-stealing"
 }
 ]
 },
@@ -286,7 +254,7 @@
 },
 {
 "surface": "rasānumitaṃ",
-"quick_gloss": "taste-inferred"
+"quick_gloss": "inferred-from-taste"
 },
 {
 "surface": "puṣpādi",
@@ -307,7 +275,7 @@
 "tokens": [
 {
 "surface": "sudhāsvādūni",
-"quick_gloss": "nectar-sweet"
+"quick_gloss": "sweet-tasting"
 },
 {
 "surface": "madhurāṇi",
@@ -319,7 +287,7 @@
 },
 {
 "surface": "amlarasāni",
-"quick_gloss": "sour-taste"
+"quick_gloss": "sour-tastes"
 },
 {
 "surface": "ca",
@@ -336,7 +304,7 @@
 "tokens": [
 {
 "surface": "kṣārāṇi",
-"quick_gloss": "astringent"
+"quick_gloss": "alkaline"
 },
 {
 "surface": "madhurāmlāni",
@@ -360,7 +328,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "madhurāmlānityādi",
+"surface": "madhurāmlānītyādi",
 "quick_gloss": "sweet-sour-etc"
 },
 {
@@ -389,12 +357,8 @@
 "quick_gloss": "joined"
 },
 {
-"surface": "atha",
-"quick_gloss": "then"
-},
-{
-"surface": "antimaḥ",
-"quick_gloss": "last"
+"surface": "athāntimaḥ",
+"quick_gloss": "then-last"
 },
 {
 "surface": "sutaḥ",
@@ -468,12 +432,12 @@
 "quick_gloss": "foul-smelling"
 },
 {
-"surface": "mṛdugandha",
-"quick_gloss": "soft-fragrance"
+"surface": "ca",
+"quick_gloss": "and"
 },
 {
-"surface": "ugragandhakān",
-"quick_gloss": "strong-fragrance"
+"surface": "mṛdugandhogragandhakān",
+"quick_gloss": "soft-smell-strong-smell"
 }
 ]
 },
@@ -486,19 +450,15 @@
 "tokens": [
 {
 "surface": "bhāvān",
-"quick_gloss": "things"
+"quick_gloss": "states"
 },
 {
 "surface": "arthān",
 "quick_gloss": "objects"
 },
 {
-"surface": "tān",
-"quick_gloss": "those"
-},
-{
-"surface": "āha",
-"quick_gloss": "says"
+"surface": "tānevāha",
+"quick_gloss": "those-says"
 },
 {
 "surface": "sugandhānityādi",
@@ -514,27 +474,23 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "putrāṇām",
-"quick_gloss": "of-sons"
+"surface": "putrāṇāṃ",
+"quick_gloss": "sons'"
 },
 {
 "surface": "bhavane",
 "quick_gloss": "house"
 },
 {
-"surface": "ca",
-"quick_gloss": "and"
-},
-{
-"surface": "evaṃ",
-"quick_gloss": "thus"
+"surface": "caivaṃ",
+"quick_gloss": "and-thus"
 },
 {
 "surface": "praviśan",
 "quick_gloss": "entering"
 },
 {
-"surface": "niviśann",
+"surface": "niviśan",
 "quick_gloss": "settling"
 },
 {
@@ -556,19 +512,11 @@
 },
 {
 "surface": "mohagandhaḥ",
-"quick_gloss": "delusion-scent"
+"quick_gloss": "delusion-smell"
 },
 {
-"surface": "evaṃ",
-"quick_gloss": "thus"
-},
-{
-"surface": "agre",
-"quick_gloss": "ahead"
-},
-{
-"surface": "api",
-"quick_gloss": "also"
+"surface": "evamagre'pi",
+"quick_gloss": "thus-ahead-too"
 }
 ]
 },
@@ -585,11 +533,11 @@
 },
 {
 "surface": "gamāgamaparaḥ",
-"quick_gloss": "going-coming"
+"quick_gloss": "going-coming-busy"
 },
 {
-"surface": "putrāṇām",
-"quick_gloss": "of-sons"
+"surface": "putrāṇāṃ",
+"quick_gloss": "sons'"
 },
 {
 "surface": "bhavane",
@@ -629,6 +577,10 @@
 "quick_gloss": "or"
 },
 {
+"surface": "api",
+"quick_gloss": "also"
+},
+{
 "surface": "kadācana",
 "quick_gloss": "sometimes"
 }
@@ -643,7 +595,7 @@
 "tokens": [
 {
 "surface": "bhāvaḥ",
-"quick_gloss": "thing"
+"quick_gloss": "state"
 }
 ]
 },
@@ -655,12 +607,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "muṣitvā",
-"quick_gloss": "stealing"
-},
-{
-"surface": "anyān",
-"quick_gloss": "others"
+"surface": "muṣitvānyān",
+"quick_gloss": "having-stolen-other"
 },
 {
 "surface": "ca",
@@ -672,7 +620,7 @@
 },
 {
 "surface": "guptyā",
-"quick_gloss": "secretly"
+"quick_gloss": "by-secrecy"
 },
 {
 "surface": "nayati",
