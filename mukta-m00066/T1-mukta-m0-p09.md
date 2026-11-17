@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p09-v201
-[uttaraṃge](uttaraṃge) [mahāsiddhau](mahāsiddhau) [phenajālasamāvṛte](phenajālasamāvṛte)
+[upper-part](uttaraṃge) [great-accomplishment](mahāsiddhau) [foam-net-covered](phenajālasamāvṛte)
 
 ## mukta-m0-p09-v202
-[muhuḥśabdāyamāne](muhuḥśabdāyamāne) [ca](ca) [nadīnadasamākule](nadīnadasamākule)
+[repeatedly-sounding](muhuḥśabdāyamāne) [river-stream-filled](nadīnadasamākule)
 
 ## mukta-m0-p09-v203
-[nānāpuṣpagaṇāmoda](nānāpuṣpagaṇāmoda) [bhrāṃtapuṣpaṃdhayabrajam](bhrāṃtapuṣpaṃdhayabrajam)
+[various-flower-fragrance](nānāpuṣpagaṇāmoda) [wandering-bee](bhrāṃtapuṣpaṃdhayabrajam)
 
 ## mukta-m0-p09-v204
-[viciṃtayen](viciṃtayen) [maheśāni](maheśāni) [tanmadhye](tanmadhye) [hemamaṃdiram](hemamaṃdiram)
+[should-contemplate](viciṃtayen) [great-lady](maheśāni) [therein](tanmadhye) [golden-temple](hemamaṃdiram)
 
 ## mukta-m0-p09-v205
-[caturvarga](caturvarga) [phalaprāpti](phalaprāpti) [kāraṇaṃśokavāraṇam](kāraṇaṃśokavāraṇam)
+[four-aims-fruit-attainment](caturvarga+phalaprāpti) [sorrow-removal](śokavāraṇam)
 
 ## mukta-m0-p09-v206
-[nānāmaṇi](nānāmaṇi) [vicitrāṇāṃ](vicitrāṇāṃ) [staṃbhānāṃ](staṃbhānāṃ) [navaśobhayā](navaśobhayā)
+[various-gems](nānāmaṇi) [wonderful](vicitrāṇāṃ) [pillars](staṃbhānāṃ) [new-splendor](navaśobhayā)
 
 ## mukta-m0-p09-v207
-[caṃdrikābhiḥ](caṃdrikābhiḥ) [parivṛtaṃ](parivṛtaṃ) [bālātapavilohitam](bālātapavilohitam)
+[moonlight-surrounded](caṃdrikābhiḥ+parivṛtaṃ) [young-sun-reddened](bālātapavilohitam)
 
 ## mukta-m0-p09-v208
-[sajjacāpenakāmena](sajjacāpenakāmena) [rakṣyamāṇamitastataḥ](rakṣyamāṇamitastataḥ)
+[well-armed-bow-cupid](sajjacāpenakāmena) [protected-here-there](rakṣyamāṇamitastataḥ)
 
 ## mukta-m0-p09-v209
-[utkaṇṭhā](utkaṇṭhā) [devatādatta](devatādatta) [vālavyajanavījanam](vālavyajanavījanam)
+[longing](utkaṇṭhā) [deity-given](devatādatta) [fan-fanning](vālavyajanavījanam)
 
 ## mukta-m0-p09-v210
-[bhogopakaraṇairyuktaṃ](bhogopakaraṇairyuktaṃ) [vividhaiśca](vividhaiśca) [prapānakaiḥ](prapānakaiḥ)
+[enjoyment-implements](bhogopakaraṇairyuktaṃ) [various-drinks](vividhaiśca+prapānakaiḥ)
 
 ## mukta-m0-p09-v211
-[narmālāpakasābhijñaiśceṭi](narmālāpakasābhijñaiśceṭi) [vargairmanoharam](vargairmanoharam)
+[jest-conversation-skilled](narmālāpakasābhijñaiśceṭi) [charming](manoharam)
 
 ## mukta-m0-p09-v212
-[nidhidevatayāyuktaṃ](nidhidevatayāyuktaṃ) [paṭṭāṃśukapariṣkṛtam](paṭṭāṃśukapariṣkṛtam)
+[treasure-deity-joined](nidhidevatayāyuktaṃ) [silk-cloth-adorned](paṭṭāṃśukapariṣkṛtam)
 
 ## mukta-m0-p09-v213
-[nānāratnasamākīrṇaṃ](nānāratnasamākīrṇaṃ) [catustaṃbhopaśobhitām](catustaṃbhopaśobhitām)
+[various-gems-filled](nānāratnasamākīrṇaṃ) [four-pillar-adorned](catustaṃbhopaśobhitām)
 
 ## mukta-m0-p09-v214
-[tatrastaṃbhadvayāsakta](tatrastaṃbhadvayāsakta) [tiryagdārupalaṃbite](tiryagdārupalaṃbite)
+[there-pillar-pair-attached](tatrastaṃbhadvayāsakta) [crosswise-wood-hung](tiryagdārupalaṃbite)
 
 ## mukta-m0-p09-v215
-[maṃcamuccāvacamaṇijyotiḥ](maṃcamuccāvacamaṇijyotiḥ) [piṃjaradiṅmukham](piṃjaradiṅmukham)
+[couch-high-low-gem-light](maṃcamuccāvacamaṇijyotiḥ) [cage-direction-facing](piṃjaradiṅmukham)
 
 ## mukta-m0-p09-v216
-[sadāśivavapuḥ](sadāśivavapuḥ) [kṣipta](kṣipta) [sujātaphalakojvalam](sujātaphalakojvalam)
+[eternal-shiva-form](sadāśivavapuḥ) [thrown](kṣipta) [beautiful-plank-shining](sujātaphalakojvalam)
 
 ## mukta-m0-p09-v217
-[atyaṃta](atyaṃta) [mṛdulaṃ](mṛdulaṃ) [hṛdyaṃ](hṛdyaṃ) [kṣīrābdhi](kṣīrābdhi) [dhavalacchaviḥ](dhavalacchaviḥ)
+[extremely-soft](atyaṃta+mṛdulaṃ) [delightful](hṛdyaṃ) [milk-ocean-white-splendor](kṣīrābdhi+dhavalacchaviḥ)
 
 ## mukta-m0-p09-v218
-[kausuṃbhavasanaṃ](kausuṃbhavasanaṃ) [navyaṃ](navyaṃ) [bālārka](bālārka) [sadṛśaṃ](sadṛśaṃ) [smaret](smaret)
+[saffron-garment](kausuṃbhavasanaṃ) [new](navyaṃ) [young-sun-like](bālārka+sadṛśaṃ) [remember](smaret)
 
 ## mukta-m0-p09-v219
-[unnaddhakabarīpāśaṃ](unnaddhakabarīpāśaṃ) [kastūrītilakojvalam](kastūrītilakojvalam)
+[raised-braid](unnaddhakabarīpāśaṃ) [musk-tilaka-shining](kastūrītilakojvalam)
 
 ## mukta-m0-p09-v220
-[muktāhāreṇaramyeṇa](muktāhāreṇaramyeṇa) [vibhūṣitaśirodharam](vibhūṣitaśirodharam)
+[pearl-necklace-charming](muktāhāreṇaramyeṇa) [adorned-neck](vibhūṣitaśirodharam)
 
 ## mukta-m0-p09-v221
-[satataṃ](satataṃ) [yuktayaṃtratvādanaṃbara](yuktayaṃtratvādanaṃbara) [nijākṛtim](nijākṛtim)
+[always-yoked-instrument](satataṃ+yuktayaṃtratvādanaṃbara) [own-form](nijākṛtim)
 
 ## mukta-m0-p09-v222
-[nakhakṣataiśca](nakhakṣataiśca) [vividhaiścuṃbanaiśca](vividhaiścuṃbanaiśca) [paraḥśataiḥ](paraḥśataiḥ)
+[nail-scratches-various](nakhakṣataiśca+vividhaiścuṃbanaiśca) [hundreds](paraḥśataiḥ)
 
 ## mukta-m0-p09-v223
-[karaṇairbahuvinyāsai](karaṇairbahuvinyāsai) [rāśleṣairbahubhedibhiḥ](rāśleṣairbahubhedibhiḥ)
+[means-many-arrangements](karaṇairbahuvinyāsai) [embraces-many-varieties](rāśleṣairbahubhedibhiḥ)
 
 ## mukta-m0-p09-v224
-[tāṃ](tāṃ) [devīmapitaddhyāna](devīmapitaddhyāna) [krameṇamatimān](krameṇamatimān) [smaret](smaret)
+[that-goddess](tāṃ+devīmapitaddhyāna) [method](krameṇamatimān) [remember](smaret)
 
 ## mukta-m0-p09-v225
-[svayamavyākulobhūtvā](svayamavyākulobhūtvā) [niścalendriyamānasaḥ](niścalendriyamānasaḥ)
+[self-unagitated-becoming](svayamavyākulobhūtvā) [steady-senses-mind](niścalendriyamānasaḥ)
