@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p128-v3176
-[salutation](ratnāṅgāyanamaḥ) [salutation](mahārṇavanipānavidenamaḥ)
+[ratna-limb-homage](ratnāṅgāyanamaḥ) [772](772) [great-ocean-drink-homage](mahārṇavanipānavidenamaḥ)
 
 ## mukta-m0-p128-v3177
-[salutation](mūlāyanamaḥ) [salutation](viśālāyanamaḥ) [salutation](amṛtāyanamaḥ)
+[root-homage](mūlāyanamaḥ) [774](774) [vast-homage](viśālāyanamaḥ) [775](775) [nectar-homage](amṛtāyanamaḥ)
 
 ## mukta-m0-p128-v3178
-[salutation](vyaktāvyaktāyanamaḥ) [salutation](taponidhayenamaḥ) [salutation](ārohaṇāyanamaḥ)
+[manifest-unmanifest-homage](vyaktāvyaktāyanamaḥ) [777](777) [austerity-treasure-homage](taponidhayenamaḥ) [778](778) [ascent-homage](ārohaṇāyanamaḥ)
 
 ## mukta-m0-p128-v3179
-[salutation](adhirodhāyanamaḥ) [salutation](śūladhāriṇenamaḥ)
+[779](779) [overlordship-homage](adhirodhāyanamaḥ) [780](780) [trident-bearer-homage](śūladhāriṇenamaḥ)
 
 ## mukta-m0-p128-v3180
-[salutation](mahāyaśasenamaḥ) [salutation](senākalpāyanamaḥ) [salutation](mahākalpāyanamaḥ)
+[great-glory-homage](mahāyaśasenamaḥ) [782](782) [army-formation-homage](senākalpāyanamaḥ) [783](783) [great-aeon-homage](mahākalpāyanamaḥ)
 
 ## mukta-m0-p128-v3181
-[salutation](yogāyanamaḥ) [salutation](yugakarāyanamaḥ) [salutation](harayenamaḥ)
+[784](784) [yoga-homage](yogāyanamaḥ) [785](785) [age-maker-homage](yugakarāyanamaḥ) [786](786) [hari-homage](harayenamaḥ)
 
 ## mukta-m0-p128-v3182
-[salutation](yugarūpāyanamaḥ) [salutation](mahārūpāyanamaḥ)
+[age-form-homage](yugarūpāyanamaḥ) [788](788) [great-form-homage](mahārūpāyanamaḥ)
 
 ## mukta-m0-p128-v3183
-[salutation](mahānāgahanāyanamaḥ) [salutation](vadhāyanamaḥ)
+[great-serpent-slayer-homage](mahānāgahanāyanamaḥ) [790](790) [slaying-homage](vadhāyanamaḥ)
 
 ## mukta-m0-p128-v3184
-[salutation](nyāyanirvapaṇāyanamaḥ) [salutation](pādāyanamaḥ) [salutation](paṇḍitāyanamaḥ)
+[justice-offering-homage](nyāyanirvapaṇāyanamaḥ) [792](792) [foot-homage](pādāyanamaḥ) [793](793) [scholar-homage](paṇḍitāyanamaḥ)
 
 ## mukta-m0-p128-v3185
-[salutation](acalopamāyanamaḥ) [salutation](bahumālāyanamaḥ)
+[794](794) [immovable-like-homage](acalopamāyanamaḥ) [795](795) [many-garland-homage](bahumālāyanamaḥ)
 
 ## mukta-m0-p128-v3186
-[salutation](mahāmālāyanamaḥ) [salutation](śaśiharasulocanāyanamaḥ)
+[great-garland-homage](mahāmālāyanamaḥ) [797](797) [moon-hara-beautiful-eye-homage](śaśiharasulocanāyanamaḥ)
 
 ## mukta-m0-p128-v3187
-[salutation](vistāralavaṇakūpāyanamaḥ) [salutation](triyugāyanamaḥ)
+[wide-salt-well-homage](vistāralavaṇakūpāyanamaḥ) [799](799) [three-age-homage](triyugāyanamaḥ)
 
 ## mukta-m0-p128-v3188
-[salutation](maṇividdhāyanamaḥ) [salutation](jaṭādharāyanamaḥ)
+[803](803) [jewel-pierced-homage](maṇividdhāyanamaḥ) [804](804) [matted-hair-bearer-homage](jaṭādharāyanamaḥ)
 
 ## mukta-m0-p128-v3189
-[salutation](bindavenamaḥ) [salutation](visargāyanamaḥ) [salutation](sumukhāyanamaḥ)
+[drop-homage](bindavenamaḥ) [806](806) [emission-homage](visargāyanamaḥ) [807](807) [beautiful-face-homage](sumukhāyanamaḥ)
 
 ## mukta-m0-p128-v3190
-[salutation](śarāyanamaḥ) [salutation](sarvāyudhāyanamaḥ) [salutation](sahāyanamaḥ)
+[arrow-homage](śarāyanamaḥ) [809](809) [all-weapon-homage](sarvāyudhāyanamaḥ) [810](810) [companion-homage](sahāyanamaḥ)
 
 ## mukta-m0-p128-v3191
-[salutation](nivedanāyanamaḥ) [salutation](sukhājātāyanamaḥ) [salutation](sugandhārāyanamaḥ)
+[offering-homage](nivedanāyanamaḥ) [812](812) [well-born-homage](sukhājātāyanamaḥ) [813](813) [fragrant-stream-homage](sugandhārāyanamaḥ)
 
 ## mukta-m0-p128-v3192
-[salutation](mahādhanuṣenamaḥ) [salutation](gandhapālibhagavatenamaḥ)
+[814](814) [great-bow-homage](mahādhanuṣenamaḥ) [815](815) [fragrance-lord-homage](gandhapālibhagavatenamaḥ)
 
 ## mukta-m0-p128-v3193
-[salutation](sarvakarmotthānāyanamaḥ) [salutation](manthānabahulavāyavenamaḥ)
+[all-action-rising-homage](sarvakarmotthānāyanamaḥ) [817](817) [churner-many-wind-homage](manthānabahulavāyavenamaḥ)
 
 ## mukta-m0-p128-v3194
-[salutation](sakalāyanamaḥ) [salutation](sarvalocanāyanamaḥ) [salutation](talastālāyanamaḥ)
+[all-homage](sakalāyanamaḥ) [819](819) [all-eye-homage](sarvalocanāyanamaḥ) [820](820) [palm-palm-homage](talastālāyanamaḥ)
 
 ## mukta-m0-p128-v3195
-[salutation](chatrāyanamaḥ) [salutation](succhatrāyanamaḥ)
+[824](824) [parasol-homage](chatrāyanamaḥ) [825](825) [good-parasol-homage](succhatrāyanamaḥ)
 
 ## mukta-m0-p128-v3196
-[salutation](vikhyātalokāyanamaḥ) [salutation](sarvāśrayakramāyanamaḥ)
+[renowned-world-homage](vikhyātalokāyanamaḥ) [827](827) [all-refuge-sequence-homage](sarvāśrayakramāyanamaḥ)
 
 ## mukta-m0-p128-v3197
-[salutation](muṇḍāyanamaḥ) [salutation](virūpāyanamaḥ) [salutation](vikṛtāyanamaḥ)
+[shaven-homage](muṇḍāyanamaḥ) [829](829) [deformed-homage](virūpāyanamaḥ) [830](830) [distorted-homage](vikṛtāyanamaḥ)
 
 ## mukta-m0-p128-v3198
-[salutation](daṇḍinenamaḥ) [salutation](kuṇḍinenamaḥ) [salutation](vikurvāṇāyanamaḥ)
+[staff-homage](daṇḍinenamaḥ) [832](832) [pitcher-homage](kuṇḍinenamaḥ) [833](833) [transforming-homage](vikurvāṇāyanamaḥ)
 
 ## mukta-m0-p128-v3199
-[salutation](haryakṣāyanamaḥ) [salutation](kakubhāyanamaḥ) [salutation](vajriṇenamaḥ)
+[tawny-eyed-homage](haryakṣāyanamaḥ) [835](835) [direction-homage](kakubhāyanamaḥ) [836](836) [thunderbolt-bearer-homage](vajriṇenamaḥ)
 
 ## mukta-m0-p128-v3200
-[salutation](śatajihvāyanamaḥ) [salutation](sahasrapatsahasramūrddhnenamaḥ)
+[hundred-tongue-homage](śatajihvāyanamaḥ) [838](838) [thousand-feet-thousand-headed-homage](sahasrapatsahasramūrddhnenamaḥ)
