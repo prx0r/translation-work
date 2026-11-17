@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p58-v1426
-[good](su) [rain](vṛṣṭiḥ) [auspicious](su) [shower](vṛṣṭiḥ) [blessing](su) [rain](vṛṣṭiḥ) [good](su) [rain](vṛṣṭiḥ)
+[good-rain](suvṛṣṭiḥ)
 
 ## mukta-m0-p58-v1427
-[nourishment](puṣṭi) [cause](hetu) [clear](su) [sight](vikāsi-dṛṣṭi) [nourishment](puṣṭi) [cause](hetu) [clear](su) [sight](vikāsi-dṛṣṭi)
+[nourishment-single-cause](puṣṭyekahetuḥ) [well-manifest-vision](suvikāsidṛṣṭeḥ)
 
 ## mukta-m0-p58-v1428
-[cause](hetu) [fortress](durga) [art](kalā) [also](api) [spread](pravitatā) [devotion](bhakti) [new](nava) [arrival](āṅkāgama) [cause](hetu) [fortress](durga) [art](kalā) [also](api)
+[cause](hetoḥ) [durgā-art](durgakalā) [also](api) [spread](pravitatā) [devotion](bhaktiḥ) [new-arrival](navāṅkāgamat)
 
 ## mukta-m0-p58-v1429
-[ninth](navamī) [devotion](bhakti) [ninth](navamī) [devotion](bhakti) [ninth](navamī) [devotion](bhakti) [ninth](navamī) [devotion](bhakti)
+[ninth](navamī) [devotion](bhaktiḥ)
 
 ## mukta-m0-p58-v1430
-[crop](sasya) [increasing](varddhinī) [crop](sasya) [increasing](varddhinī) [crop](sasya) [increasing](varddhinī) [crop](sasya) [increasing](varddhinī)
+[crop-increasing](sasyavarddhinī)
 
 ## mukta-m0-p58-v1431
-[seed](bīja) [state](tva) [compassion](dayā) [bound](baddha) [she](sā) [goddess](devī) [crop](sasya) [increasing](varddhinī) [seed](bīja) [state](tva) [compassion](dayā) [bound](baddha)
+[seed-ness](bījatvaṃ) [which](yat) [compassion-bound](dayābaddhaṃ) [she](sā) [goddess](devī) [crop-increasing](sasyavarddhinī)
 
 ## mukta-m0-p58-v1432
-[a](akāra) [letter](akāra) [a](akāra) [letter](akāra) [a](akāra) [letter](akāra) [a](akāra) [letter](akāra)
+[a-syllable](akārā)
 
 ## mukta-m0-p58-v1433
-[embryo](garva) [not-small](akharva) [all](sarva) [letters](varṇa) [first](eka-pūrvā) [she](sā) [with-form](sākāra) [sung](gīyate) [yogin-lords](yogināthaiḥ) [embryo](garva) [not-small](akharva) [all](sarva) [letters](varṇa)
+[garbha-not-dwarf](garvo'kharvaḥ) [all-letter-first](sarvavarṇaikapūrvā) [with-form-this](sākāreyaṃ) [sung](gīyate) [by-yogin-lords](yogināthaiḥ)
 
 ## mukta-m0-p58-v1434
-[i](ikāra) [letter](ikāra) [i](ikāra) [letter](ikāra) [i](ikāra) [letter](ikāra) [i](ikāra) [letter](ikāra)
+[i-syllable](ikārā)
 
 ## mukta-m0-p58-v1435
-[lovely](ramya) [i-letter](ikāra) [she](seyam) [a-less](ākāra-hīnā) [lovely](ramya) [i-letter](ikāra) [she](seyam) [a-less](ākāra-hīnā) [lovely](ramya) [i-letter](ikāra) [she](seyam) [a-less](ākāra-hīnā)
+[pleasant-i-syllable](ramyekārā) [this](seyam) [a-syllable-free](ākārahīnā)
 
 ## mukta-m0-p58-v1436
-[u](ukāra) [letter](ukāra) [u](ukāra) [letter](ukāra) [u](ukāra) [letter](ukāra) [u](ukāra) [letter](ukāra)
+[u-syllable](ukārā)
 
 ## mukta-m0-p58-v1437
-[that-u](sokāra) [proclaimed](kīrtitā) [form-knowers](mūrtavidbhiḥ) [that-u](sokāra) [proclaimed](kīrtitā) [form-knowers](mūrtavidbhiḥ) [that-u](sokāra) [proclaimed](kīrtitā) [form-knowers](mūrtavidbhiḥ)
+[that-u-syllable-this](sokāreyaṃ) [praised](kīrtitā) [by-form-knowers](mūrtavidbhiḥ)
 
 ## mukta-m0-p58-v1438
-[ai-form](aikāra-rūpiṇī) [ai-form](aikāra-rūpiṇī) [ai-form](aikāra-rūpiṇī) [ai-form](aikāra-rūpiṇī) [ai-form](aikāra-rūpiṇī) [ai-form](aikāra-rūpiṇī) [ai-form](aikāra-rūpiṇī) [ai-form](aikāra-rūpiṇī)
+[ai-form](aikārarūpiṇī)
 
 ## mukta-m0-p58-v1439
-[new](navaṃ) [new](navaṃ) [auspicious](subhavyānāṃ) [deity](devatā) [ai-form](aikārarūpiṇī) [new](navaṃ) [new](navaṃ) [auspicious](subhavyānāṃ) [deity](devatā) [ai-form](aikārarūpiṇī)
+[new](navaṃ) [new](navaṃ) [of-auspicious-ones](subhavyānāṃ) [goddess-ai-form](devataikārarūpiṇī)
 
 ## mukta-m0-p58-v1440
-[hrīṃ](hrīṃkārī) [hrīṃ](hrīṃkārī) [hrīṃ](hrīṃkārī) [hrīṃ](hrīṃkārī) [hrīṃ](hrīṃkārī) [hrīṃ](hrīṃkārī) [hrīṃ](hrīṃkārī) [hrīṃ](hrīṃkārī)
+[hrīṃ-syllable](hrīṃkārī)
 
 ## mukta-m0-p58-v1441
-[hrīṃ](hrīṃkārī) [heart](hṛd) [gone](gatā) [us](naḥ) [always](sadā) [be](stu) [hrīṃ](hrīṃkārī) [heart](hṛd) [gone](gatā) [us](naḥ) [always](sadā) [be](stu)
+[hrīṃ-syllable-this](hrīṃkārīyaṃ) [heart-residing](hṛdgatā) [our](naḥ) [always](sadā) [be](stu)
 
 ## mukta-m0-p58-v1442
-[seed](bīja) [form](rūpā) [seed](bīja) [form](rūpā) [seed](bīja) [form](rūpā) [seed](bīja) [form](rūpā)
+[seed-form](bījarūpā)
 
 ## mukta-m0-p58-v1443
-[she](sā) [seed](bīja) [form](rūpā) [veda](nigama) [tree](druma) [she](sā) [seed](bīja) [form](rūpā) [veda](nigama) [tree](druma) [she](sā) [seed](bīja) [form](rūpā) [veda](nigama) [tree](druma)
+[she](sā) [seed-form](bījarūpā) [of-veda-tree](nigamadrumasya)
 
 ## mukta-m0-p58-v1444
-[klīṃ](klīṃkārā) [klīṃ](klīṃkārā) [klīṃ](klīṃkārā) [klīṃ](klīṃkārā) [klīṃ](klīṃkārā) [klīṃ](klīṃkārā) [klīṃ](klīṃkārā) [klīṃ](klīṃkārā)
+[klīṃ-syllable](klīṃkārā)
 
 ## mukta-m0-p58-v1445
-[always](nityaṃ) [desire](kāma) [him](taṃ) [how](kathaṃ) [not](na) [remember](smaranti) [always](nityaṃ) [desire](kāma) [him](taṃ) [how](kathaṃ) [not](na) [remember](smaranti)
+[always](nityaṃ) [from-desire](kāmāt) [him](taṃ) [how](kathaṃ) [not](na) [remember](smaranti)
 
 ## mukta-m0-p58-v1446
-[sky](ambara) [dwelling](vāsinī) [sky](ambara) [dwelling](vāsinī) [sky](ambara) [dwelling](vāsinī) [sky](ambara) [dwelling](vāsinī)
+[sky-dwelling](ambaravāsinī)
 
 ## mukta-m0-p58-v1447
-[self](svayaṃ) [objectless](nirviṣayā) [know](jāne) [become](saṃvṛttā) [sky](ambara) [dwelling](vāsinī) [self](svayaṃ) [objectless](nirviṣayā) [know](jāne) [become](saṃvṛttā) [sky](ambara) [dwelling](vāsinī)
+[self](svayaṃ) [objectless](nirviṣayā) [I-know](jāne) [become-sky-dwelling](saṃvṛttāmbaravāsinī)
 
 ## mukta-m0-p58-v1448
-[all](sarva) [letters](akṣara) [full](mayī) [power](śakti) [all](sarva) [letters](akṣara) [full](mayī) [power](śakti) [all](sarva) [letters](akṣara) [full](mayī) [power](śakti)
+[all-letter-full](sarvākṣaramayī) [power](śaktiḥ)
 
 ## mukta-m0-p58-v1449
-[all](sarva) [letters](akṣara) [full](mayī) [power](śakti) [shine](sphuratāt) [heart](hṛdaye) [mine](mama) [all](sarva) [letters](akṣara) [full](mayī) [power](śakti) [shine](sphuratāt) [heart](hṛdaye) [mine](mama)
+[all-letter-full](sarvākṣaramayī) [power](śaktiḥ) [may-shine](sphuratāt) [in-heart](hṛdaye) [my](mama)
 
 ## mukta-m0-p58-v1450
-[imperishable](akṣarā) [imperishable](akṣarā) [imperishable](akṣarā) [imperishable](akṣarā) [imperishable](akṣarā) [imperishable](akṣarā) [imperishable](akṣarā) [imperishable](akṣarā)
+[imperishable](akṣarā)

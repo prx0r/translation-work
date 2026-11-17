@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p46-v1126
-[pada](samanāmahitatvakṛnnu) [pada](bhūtā) [pada](śukahastā) [pada](sukhakṛnna) [pada](vāśu) [pada](kasya)
+[samanāmahitatvakṛnnu](samanāmahitatvakṛnnu) [bhūtā](bhūtā) [śukahastā](śukahastā) [sukhakṛnna](sukhakṛnna) [vāśu](vāśu) [kasya](kasya)
 
 ## mukta-m0-p46-v1127
-[pada](puṣpabāṇā)
+[puṣpabāṇā](puṣpabāṇā)
 
 ## mukta-m0-p46-v1128
-[pada](bāṇakṣepaṃ) [pada](vinaivāśu) [pada](dṛṣṭyā) [pada](rudraṃ) [pada](śriye'stu) [pada](sā)
+[bāṇakṣepaṃ](bāṇakṣepaṃ) [vinaivāśu](vinaivāśu) [dṛṣṭyā](dṛṣṭyā) [rudraṃ](rudraṃ) [śriye'stu](śriye'stu) [sā](sā)
 
 ## mukta-m0-p46-v1129
-[pada](ikṣucāpinī)
+[ikṣucāpinī](ikṣucāpinī)
 
 ## mukta-m0-p46-v1130
-[pada](dikṣu) [pada](dikṣu) [pada](sadā) [pada](rakṣākāriṇī) [pada](no) [pada](vihāriṇī)
+[dikṣu](dikṣu) [dikṣu](dikṣu) [sadā](sadā) [rakṣākāriṇī](rakṣākāriṇī) [no](no) [vihāriṇī](vihāriṇī)
 
 ## mukta-m0-p46-v1131
-[pada](raktāmbaradharā)
+[raktāmbaradharā](raktāmbaradharā)
 
 ## mukta-m0-p46-v1132
-[pada](jānanti) [pada](sarvataḥ) [pada](saṃdhyāmiva) [pada](daivatapūjitām)
+[jānanti](jānanti) [sarvataḥ](sarvataḥ) [saṃdhyāmiva](saṃdhyāmiva) [daivatapūjitām](daivatapūjitām)
 
 ## mukta-m0-p46-v1133
-[pada](kṣīvā)
+[kṣīvā](kṣīvā)
 
 ## mukta-m0-p46-v1134
-[pada](kṣīvā) [pada](tveṣā) [pada](svātmanā) [pada](sarvadāho) [pada](jīvaṃ) [pada](kṣīvaṃ) [pada](cetyalubdhaṃ) [pada](karoti)
+[kṣīvā](kṣīvā) [tveṣā](tveṣā) [svātmanā](svātmanā) [sarvadāho](sarvadāho) [jīvaṃ](jīvaṃ) [kṣīvaṃ](kṣīvaṃ) [cetyalubdhaṃ](cetyalubdhaṃ) [karoti](karoti)
 
 ## mukta-m0-p46-v1135
-[pada](raktapuṣpāvataṃsinī)
+[raktapuṣpāvataṃsinī](raktapuṣpāvataṃsinī)
 
 ## mukta-m0-p46-v1136
-[pada](harasya) [pada](jāne) [pada](sā) [pada](bhūtā) [pada](raktapuṣpāvataṃsinī)
+[harasya](harasya) [jāne](jāne) [sā](sā) [bhūtā](bhūtā) [raktapuṣpāvataṃsinī](raktapuṣpāvataṃsinī)
 
 ## mukta-m0-p46-v1137
-[pada](śubhrāmbaradharā)
+[śubhrāmbaradharā](śubhrāmbaradharā)
 
 ## mukta-m0-p46-v1138
-[pada](śubhrāmbaradharā) [pada](seyaṃ) [pada](śubhraṃ) [pada](vitaratādyaśaḥ)
+[śubhrāmbaradharā](śubhrāmbaradharā) [seyaṃ](seyaṃ) [śubhraṃ](śubhraṃ) [vitaratādyaśaḥ](vitaratādyaśaḥ)
 
 ## mukta-m0-p46-v1139
-[pada](dhīrā)
+[dhīrā](dhīrā)
 
 ## mukta-m0-p46-v1140
-[pada](sadāṅgayātāpi) [pada](harasya) [pada](pūrṇānandaiva) [pada](dhīrāstu) [pada](nijārthakartrī)
+[sadāṅgayātāpi](sadāṅgayātāpi) [harasya](harasya) [pūrṇānandaiva](pūrṇānandaiva) [dhīrāstu](dhīrāstu) [nijārthakartrī](nijārthakartrī)
 
 ## mukta-m0-p46-v1141
-[pada](mahāśvetā)
+[mahāśvetā](mahāśvetā)
 
 ## mukta-m0-p46-v1142
-[pada](vatānmātā) [pada](bhātā'sitamitahitāt) [pada](saṃsṛtikṛtāt)
+[vatānmātā](vatānmātā) [bhātā'sitamitahitāt](bhātā'sitamitahitāt) [saṃsṛtikṛtāt](saṃsṛtikṛtāt)
 
 ## mukta-m0-p46-v1143
-[pada](vasupriyā)
+[vasupriyā](vasupriyā)
 
 ## mukta-m0-p46-v1144
-[pada](bhagavatyapi) [pada](no) [pada](jāne) [pada](kathaṃ) [pada](devī) [pada](vasupriyā)
+[bhagavatyapi](bhagavatyapi) [no](no) [jāne](jāne) [kathaṃ](kathaṃ) [devī](devī) [vasupriyā](vasupriyā)
 
 ## mukta-m0-p46-v1145
-[pada](suveṇiḥ)
+[suveṇiḥ](suveṇiḥ)
 
 ## mukta-m0-p46-v1146
-[pada](veṇyeva) [pada](veṇīviṣayaṃ) [pada](prayātā) [pada](suveṇireṣāstu) [pada](sadā) [pada](hitāya)
+[veṇyeva](veṇyeva) [veṇīviṣayaṃ](veṇīviṣayaṃ) [prayātā](prayātā) [suveṇireṣāstu](suveṇireṣāstu) [sadā](sadā) [hitāya](hitāya)
 
 ## mukta-m0-p46-v1147
-[pada](padmahastā)
+[padmahastā](padmahastā)
 
 ## mukta-m0-p46-v1148
-[pada](datto) [pada](varaḥ) [pada](kardamajāya) [pada](padmahastetināmnaiva) [pada](tayā) [pada](dhṛtena)
+[datto](datto) [varaḥ](varaḥ) [kardamajāya](kardamajāya) [padmahastetināmnaiva](padmahastetināmnaiva) [tayā](tayā) [dhṛtena](dhṛtena)
 
 ## mukta-m0-p46-v1149
-[pada](muktāhāravibhūṣaṇā)
+[muktāhāravibhūṣaṇā](muktāhāravibhūṣaṇā)
 
 ## mukta-m0-p46-v1150
-[pada](utphenā) [pada](cāsti) [pada](sā) [pada](devī) [pada](muktāhāravibhūṣaṇā)
+[utphenā](utphenā) [cāsti](cāsti) [sā](sā) [devī](devī) [muktāhāravibhūṣaṇā](muktāhāravibhūṣaṇā)

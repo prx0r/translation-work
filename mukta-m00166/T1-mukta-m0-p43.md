@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p43-v1051
-[drunk](pītā)
+[pītā](pītā)
 
 ## mukta-m0-p43-v1052
-[sung](gītā) [drunk](pītā) [for-welfare](hitāyāstu) [mother](mātā) [brother](bhātā) [of-good](satāṃ) [in-heart](hṛdi)
+[gītā](gītā) [pītā](pītā) [hitāyāstu](hitāyāstu) [mātā](mātā) [bhātā](bhātā) [satāṃ](satāṃ) [hṛdi](hṛdi)
 
 ## mukta-m0-p43-v1053
-[mottled](karburā)
+[karburā](karburā)
 
 ## mukta-m0-p43-v1054
-[mottled](karburā) [deity](devatā) [may-be](bhūyād) [burden-removing](bhava+bhāra+apahāriṇī)
+[karburā](karburā) [devatā](devatā) [bhūyād](bhūyād) [bhavabhārāpahāriṇī](bhava+bhāra+apahāriṇī)
 
 ## mukta-m0-p43-v1055
-[hunger](kṣudhā)
+[kṣudhā](kṣudhā)
 
 ## mukta-m0-p43-v1056
-[hunger](kṣudhā) [goddess](devī) [conquers](jayati) [this](eṣā) [all-elements-single-seed](sarva+dhātu+eka+bīja+bhūḥ)
+[kṣudhā](kṣudhā) [devī](devī) [jayatyeṣā](jayati+eṣā) [sarvadhātvekabījabhūḥ](sarva+dhātu+eka+bīja+bhūḥ)
 
 ## mukta-m0-p43-v1057
-[thirst](tṛṣṇā)
+[tṛṣṇā](tṛṣṇā)
 
 ## mukta-m0-p43-v1058
-[which](yat) [indeed](nu) [ocean-drying-single-cause](abdhi+viśoṣa+eka+hetuḥ) [thirst](tṛṣṇā) [conquers](jayati) [that](asau)
+[yannunno'bdhiviśoṣaikahetustṛṣṇā](yat+nunnaḥ+abdhi+viśoṣa+eka+hetuḥ+tṛṣṇā) [jayatyasau](jayati+asau)
 
 ## mukta-m0-p43-v1059
-[old-age-increased](jarā+vṛddhā)
+[jarāvṛddhā](jarā+vṛddhā)
 
 ## mukta-m0-p43-v1060
-[wonderful](citraṃ) [she-too](sā+api) [old-age-increased](jarā+vṛddhā) [may-do](kriyāt) [my](mama) [old-age-old-age](jarā+jarām)
+[citraṃ](citraṃ) [sāpi](sā+api) [jarāvṛddhā](jarā+vṛddhā) [kriyānmama](kriyāt+mama) [jarājarām](jarā+jarām)
 
 ## mukta-m0-p43-v1061
-[young-woman](taruṇī)
+[taruṇī](taruṇī)
 
 ## mukta-m0-p43-v1062
-[of-young-woman](taruṇyāḥ) [supreme](paraṃ) [laughter-only-grace](hāsya+mātra+prasādaḥ)
+[taruṇyāḥ](taruṇyāḥ) [paraṃ](paraṃ) [hāsyamātraprasādaḥ](hāsya+mātra+prasādaḥ)
 
 ## mukta-m0-p43-v1063
-[compassion-abode](karuṇā+ālayā)
+[karuṇālayā](karuṇā+ālayā)
 
 ## mukta-m0-p43-v1064
-[you-remove](dūrī+karoṣi) [which](yat) [not](na) [ato](āto) [sung](gīyase) [compassion-abode](karuṇā+ālayā)
+[dūrīkaroṣi](dūrī+karosi) [yannāto](yat+nātaḥ) [gīyase](gīyase) [karuṇālayā](karuṇā+ālayā)
 
 ## mukta-m0-p43-v1065
-[art](kalā)
+[kalā](kalā)
 
 ## mukta-m0-p43-v1066
-[all](sakalāḥ) [not](na) [in-control](vaśe) [what](kiṃ) [would-be](syuḥ) [hand-garland-like](kara+mālā+tulāḥ) [arts](kalāḥ)
+[sakalā](sa+kalā) [na](na) [vaśe](vaśe) [kiṃ](kiṃ) [syuḥ](syuḥ) [karamālātulāḥ](kara+mālā+tulāḥ) [kalāḥ](kalāḥ)
 
 ## mukta-m0-p43-v1067
-[limit](kāṣṭhā)
+[kāṣṭhā](kāṣṭhā)
 
 ## mukta-m0-p43-v1068
-[may-perish](naśyet) [in-moment](kṣaṇena) [of-devotees](bhaktānāṃ) [limit](kāṣṭhā) [thus](iti) [her](asyāḥ) [grace](prasādataḥ)
+[naśyet](naśyet) [kṣaṇena](kṣaṇena) [bhaktānāṃ](bhaktānāṃ) [kāṣṭhetyasyāḥ](kāṣṭhā+iti+asyāḥ) [prasādataḥ](prasādataḥ)
 
 ## mukta-m0-p43-v1069
-[moment](muhūrtā)
+[muhūrtā](muhūrtā)
 
 ## mukta-m0-p43-v1070
-[own-form](svarūpaṃ) [renowned](prathitā) [on-earth](bhūmau) [moments](muhūrtāḥ) [tu](tu) [for-auspiciousness](śivāya) [to-you](vaḥ)
+[svarūpaṃ](svarūpaṃ) [prathitā](prathitā) [bhūmau](bhūmau) [muhūrtāstu](muhūrtāḥ+tu) [śivāya](śivāya) [vaḥ](vaḥ)
 
 ## mukta-m0-p43-v1071
-[blink](nimeṣā)
+[nimeṣā](nimeṣā)
 
 ## mukta-m0-p43-v1072
-[blinks](nimeṣāḥ) [tu](tu) [supreme-lady](pareśānī) [special-all-abundance-giving](viśeṣa+aśeṣa+bhūti+dā)
+[nimeṣāstu](nimeṣāḥ+tu) [pareśānī](pareśānī) [viśeṣāśeṣabhūtidā](viśeṣa+aśeṣa+bhūti+dā)
 
 ## mukta-m0-p43-v1073
-[time-formed](kāla+rūpiṇī)
+[kālarūpiṇī](kāla+rūpiṇī)
 
 ## mukta-m0-p43-v1074
-[planet-sign-zodiac-wheel-inferable](graha+rāśi+bhacakra+kānumeyā) [renowned](prathitā) [she](sā) [indeed](kila) [time-formed](kāla+rūpiṇī) [iti](iti)
+[graharāśibhacakrakānumeyā](graha+rāśi+bha+cakra+kānumeyā) [prathitā](prathitā) [sā](sā) [kila](kila) [kālarūpiṇīti](kāla+rūpiṇī+iti)
 
 ## mukta-m0-p43-v1075
-[good-ear-tongue](su+karṇa+rasanā)
+[sukarṇarasanā](su+karṇa+rasanā)

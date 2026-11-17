@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p62-v1526
-[evening-twilight](sandhyā) [thus](iti) [some](kācana) [supreme](parā) [spoken-by-one-bond](gadita+eka+sandhaiḥ)
+[sandhyā](sandhyeti) [some](kācana) [supreme](parā) [spoken-by-one-bond](gaditaikasandhaiḥ)
 
 ## mukta-m0-p62-v1527
-[sāvitrī-mantra](sāvitrī)
+[sāvitrī](sāvitrī) [sāvitrī](sāvitrī) [sāvitrī](sāvitrī) [sāvitrī](sāvitrī)
 
 ## mukta-m0-p62-v1528
-[sāvitrī](sāvitrī) [she](sā) [praised](kīrtitā) [by-knowers-of-essence](sāra+vidbhiḥ)
+[sāvitrī](sāvitrī) [she](sā) [praised](kīrtitā) [by-knowers-of-essence](sāravidbhiḥ)
 
 ## mukta-m0-p62-v1529
-[three-footed-refuge](tripadā+āśrayā)
+[three-footed-refuge](tripadāśrayā) [three-footed-refuge](tripadāśrayā) [three-footed-refuge](tripadāśrayā) [three-footed-refuge](tripadāśrayā)
 
 ## mukta-m0-p62-v1530
-[by-whom](yena) [this](iyam) [certainly](niścitam) [known](jñātā) [fearless](nirbhayā) [three-footed-refuge](tripadā+āśrayā)
+[by-whom](yeneyaṃ) [certainly](niścitaṃ) [known](jñātā) [fearless](nirbhayā) [three-footed-refuge](tripadāśrayā)
 
 ## mukta-m0-p62-v1531
-[three-twilight](trisandhyā)
+[three-sandhyā](trisandhyā) [three-sandhyā](trisandhyā) [three-sandhyā](trisandhyā) [three-sandhyā](trisandhyā)
 
 ## mukta-m0-p62-v1532
-[three-twilight-thus](trisandhyā+iti) [sung](gītā) [for-welfare](hitāya) [may-be](astu) [mother](mātā)
+[three-sandhyā](trisandhyeti) [sung](gītā) [for-welfare](hitāyāstu) [mother](mātā)
 
 ## mukta-m0-p62-v1533
-[three-footed](tripadī)
+[three-footed](tripadī) [three-footed](tripadī) [three-footed](tripadī) [three-footed](tripadī)
 
 ## mukta-m0-p62-v1534
-[goddess](devī) [is-victorious-exceedingly](jayati+atitarām) [three-footed](tripadī) [great-lady](maheśī)
+[goddess](devī) [excels-greatly](jayatyatitarāṃ) [three-footed](tripadī) [great-lady](maheśī)
 
 ## mukta-m0-p62-v1535
-[nourisher](dhātrī)
+[nourisher](dhātrī) [nourisher](dhātrī) [nourisher](dhātrī) [nourisher](dhātrī)
 
 ## mukta-m0-p62-v1536
-[uniter](sandhātrī) [of-knowledge-milk](bodha+dugdhasya) [nourisher](dhātrī) [us](naḥ) [by-mercy-may-protect](kṛpayā+avatāt)
+[uniter](sandhātrī) [of-knowledge-milk](bodhadugdhasya) [nourisher](dhātrī) [us](naḥ) [by-mercy-protect](kṛpayāvatāt)
 
 ## mukta-m0-p62-v1537
-[good-joint](suparvā)
+[good-joint](suparvā) [good-joint](suparvā) [good-joint](suparvā) [good-joint](suparvā)
 
 ## mukta-m0-p62-v1538
-[desirable](kāmanīyā) [is-victorious-this](jayati+eṣā) [good-joint-dwarf-pride-destroyer](suparvā+akharva+garva+bhūḥ)
+[desirable](kāmanīyā) [excels-this](jayatyeṣā) [good-joint-dwarf-pride-destroyer](suparvākharvagarvabhūḥ)
 
 ## mukta-m0-p62-v1539
-[sāma-singer](sāmagāyanī)
+[sāma-singer](sāmagāyanī) [sāma-singer](sāmagāyanī) [sāma-singer](sāmagāyanī) [sāma-singer](sāmagāyanī)
 
 ## mukta-m0-p62-v1540
-[melody-union-detachment-fragile](svara+saṃgha+masaṅga+bhaṅguram) [who](yā) [heart-seated](hṛdaya+sthā) [mine](mama) [sāma-singer](sāmagāyanī) [she](sā)
+[melody-cluster-attachment-breaking](svarasaṃghamasaṅgabhaṅguraṃ) [who](yā) [heart-seated](hṛdayasthā) [my](mama) [sāma-singer](sāmagāyanī) [she](sā)
 
 ## mukta-m0-p62-v1541
-[pāñcālī](pāñcālī)
+[pāñcālī](pāñcālī) [pāñcālī](pāñcālī) [pāñcālī](pāñcālī) [pāñcālī](pāñcālī)
 
 ## mukta-m0-p62-v1542
-[for-delight](prītaye) [may-lead](nayatu) [steadiness](sthairyaṃ) [pāñcālī](pāñcālī) [restless](cañcalaṃ) [mind](manaḥ)
+[for-delight](prītaye) [lead](nayatu) [steadiness](sthairyaṃ) [pāñcālī](pāñcālī) [restless](cañcalaṃ) [mind](manaḥ)
 
 ## mukta-m0-p62-v1543
-[young-girl](bālikā)
+[girl](bālikā) [girl](bālikā) [girl](bālikā) [girl](bālikā)
 
 ## mukta-m0-p62-v1544
-[plays](khelati) [herself-this-thus-come](svayam+idam+tu+am+āgatā) [who](yā) [strength](balaṃ) [mine](mama) [may-do](karotu) [young-girl](bālikā)
+[plays](khelati) [herself-this-thus-come](svayamidantvamāgatā) [who](yā) [strength](balaṃ) [my](mama) [make](karotu) [girl](bālikā)
 
 ## mukta-m0-p62-v1545
-[young-girl](bālā)
+[girl](bālā) [girl](bālā) [girl](bālā) [girl](bālā)
 
 ## mukta-m0-p62-v1546
-[young-girl](bālā) [strength-weakness-treasure](balā+bala+nidhiḥ) [may-give-rest](pariśarma+dāstu)
+[girl](bālā) [strength-weakness-treasure](balābalanidhiḥ) [comfort-giver](pariśarmadāstu)
 
 ## mukta-m0-p62-v1547
-[child's-play](bālakrīḍā)
+[child-play](bālakrīḍā) [child-play](bālakrīḍā) [child-play](bālakrīḍā) [child-play](bālakrīḍā)
 
 ## mukta-m0-p62-v1548
-[spotless](niṣkalaṅkaṃ) [well-known-here](prasiddha+iha) [child's-play](bālakrīḍā) [is-victorious-that](jayati+asau)
+[spotless](niṣkalaṅkaṃ) [famous-here](prasiddheha) [child-play](bālakrīḍā) [excels-that](jayatyasau)
 
 ## mukta-m0-p62-v1549
-[eternal](sanātanī)
+[eternal](sanātanī) [eternal](sanātanī) [eternal](sanātanī) [eternal](sanātanī)
 
 ## mukta-m0-p62-v1550
-[of-Brahmā-etc](brahmā+ādīnāṃ) [herself](svayaṃ) [that-essence-bestowed](tattva+arjitā) [she](sā) [eternal](sanātanī)
+[of-Brahmā-etc](brahmādīnāṃ) [herself](svayaṃ) [that-essence-bestowed](tattāvarjitā) [she](sā) [eternal](sanātanī)
