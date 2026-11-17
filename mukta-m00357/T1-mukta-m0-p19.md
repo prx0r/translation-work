@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p19-v451
-[thus](iti) [pārānanda+sūtra](pārānandasūtre) [in](—) [fifth+day-section](pañcamamāhnikam)
+[thus](iti) [supreme-bliss](pārānanda)+[in-sūtra](sūtre) [fifth](pañcama)+[daily-section](māhnikam) [completed](samāptam)
 
 ## mukta-m0-p19-v452
-[oṃ](oṃ) [now+therefore](athātaḥ) [supreme-bliss+doctrine](paramānandamataṃ) [we-shall-expound](vakṣyāmaḥ)
+[sacred-syllable-oṃ](oṃ) [now](atha)+[therefore](ataḥ) [supreme-bliss](paramānanda)+[doctrine](matam) [we-shall-expound](vakṣyāmaḥ)
 
 ## mukta-m0-p19-v453
-[supreme](parama) [+self](ātmā) [supreme+self](paramātmā) [supreme+self](paramātmā)
+[supreme](parama)+[self](ātmā) [is](asti) [the](saḥ) [absolute](paraḥ)
 
 ## mukta-m0-p19-v454
-[lords](īśvarāḥ) [separately](pṛthak) [separately](pṛthak) [distinct](pṛthak)
+[lords](īśvarāḥ) [separately](pṛthak) [separately](pṛthak) [exist](santi)
 
 ## mukta-m0-p19-v455
-[individual-souls](jīvāḥ) [separately](pṛthak) [separately](pṛthak) [distinct](pṛthak)
+[individual-souls](jīvāḥ) [separately](pṛthak) [separately](pṛthak) [exist](santi)
 
 ## mukta-m0-p19-v456
-[eternal-bliss](nityānandaḥ) [being](sat) [+consciousness](cit) [+bliss+formed+embodiment](ānandamayamūrtiḥ)
+[eternal-bliss](nitya)+[ānandaḥ](ānandaḥ) [being-consciousness-bliss](sat)+[cit](cit)+[ānanda](ānanda)+[made-of](maya)+[form](mūrtiḥ)
 
 ## mukta-m0-p19-v457
-[everywhere](sarvataḥ) [beautiful-form](surūpaḥ) [all-around](sarvataḥ) [well-formed](surūpaḥ)
+[everywhere](sarvataḥ) [good](su)+[form](rūpaḥ) [is](asti) [he](saḥ)
 
 ## mukta-m0-p19-v458
-[everywhere](sarvataḥ) [all-knowing](sarvajñaḥ) [all-around](sarvataḥ) [omniscient](sarvajñaḥ)
+[everywhere](sarvataḥ) [all](sarva)+[knowing](jñaḥ) [is](asti) [he](saḥ)
 
 ## mukta-m0-p19-v459
-[everywhere](sarvataḥ) [lord-of-all](sarveśvaraḥ) [all-around](sarvataḥ) [supreme-lord](sarveśvaraḥ)
+[everywhere](sarvataḥ) [all](sarva)+[lord](īśvaraḥ) [is](asti) [he](saḥ)
 
 ## mukta-m0-p19-v460
-[veda](veda) [+speech](vāk) [sacred](veda) [+word](vāk)
+[veda](veda)+[speech](vāk) [is](asti) [he](saḥ) [supreme](paraḥ)
 
 ## mukta-m0-p19-v461
-[own+non-different+ornament](svābhinnālaṅkāraḥ) [own+non-different+weapon](svābhinnāyudhaḥ) [own+non-different+vehicle](svābhinnavāhana) [thus](iti) [kālaśambhu](kālaśambhuḥ)
+[own](sva)+[non-different](abhinna)+[ornament](alaṅkāraḥ) [own](sva)+[non-different](abhinna)+[weapon](āyudhaḥ) [own](sva)+[non-different](abhinna)+[vehicle](vāhanaḥ) [thus](iti) [Kālaśambhu](kālaśambhuḥ)
 
 ## mukta-m0-p19-v462
-[from-that+different+beginningless+endless+ornament+weapon+vehicles](tadbhinnānādyanantālaṅkārāyudhavāhanāni) [thus](iti) [unmattabhairava](unmattabhairavaḥ) [named](iti)
+[from-that](tat)+[different](bhinna)+[beginningless](anādi)+[endless](ananta)+[ornament-weapon-vehicle](alaṅkāra)+[āyudha](āyudha)+[vāhanāni](vāhanāni) [thus](iti) [Unmattabhairava](unmattabhairavaḥ)
 
 ## mukta-m0-p19-v463
-[inconceivable+sovereignty](acintyaiśvaryaḥ) [everywhere](sarvataḥ) [all-around](sarvataḥ) [unthinkable-power](acintyaiśvaryaḥ)
+[inconceivable](acintya)+[sovereignty](aiśvaryaḥ) [everywhere](sarvataḥ) [is](asti) [he](saḥ)
 
 ## mukta-m0-p19-v464
-[unknowable](avedyaḥ) [+inconceivable](acintyaḥ) [+invisible](adṛśyaḥ) [beyond-perception](avedyaḥ)
+[unknowable](avedyaḥ)+[inconceivable](acintyaḥ)+[invisible](adṛśyaḥ) [is](asti) [he](saḥ) [supreme](paraḥ)
 
 ## mukta-m0-p19-v465
-[well-knowable](susaṃvedyaḥ) [well-conceivable](susaṃcintyaḥ) [well-visible](susaṃdṛśyaḥ) [clearly-perceivable](susaṃvedyaḥ)
+[well-knowable](su)+[saṃvedyaḥ](saṃvedyaḥ) [well-conceivable](su)+[saṃcintyaḥ](saṃcintyaḥ) [well-visible](su)+[saṃdṛśyaḥ](saṃdṛśyaḥ) [is](asti)
 
 ## mukta-m0-p19-v466
-[yoga+fruit+assigner](yogaphalanirdeṣṭā) [everywhere](sarvataḥ) [all-around](sarvataḥ) [result-determiner](yogaphalanirdeṣṭā)
+[yoga](yoga)+[fruit](phala)+[assigner](nirdeṣṭā) [everywhere](sarvataḥ) [is](asti) [he](saḥ)
 
 ## mukta-m0-p19-v467
-[everywhere](sarvataḥ) [yoga+fruit+giver](yogaphaladaḥ) [all-around](sarvataḥ) [result-bestower](yogaphaladaḥ)
+[everywhere](sarvataḥ) [yoga](yoga)+[fruit](phala)+[giver](daḥ) [is](asti) [he](saḥ)
 
 ## mukta-m0-p19-v468
-[by-lords+worshipped](īśvarairupāsyaḥ) [everywhere](sarvataḥ) [all-around](sarvataḥ) [adored-by-lords](īśvarairupāsyaḥ)
+[by-lords](īśvaraiḥ)+[worshipped](upāsyaḥ) [everywhere](sarvataḥ) [is](asti) [he](saḥ)
 
 ## mukta-m0-p19-v469
-[by-lord+worshipped](īśvaropāsyaḥ) [everywhere](sarvataḥ) [all-around](sarvataḥ) [adored-by-lord](īśvaropāsyaḥ)
+[by-lord](īśvara)+[worshipped](upāsyaḥ) [everywhere](sarvataḥ) [is](asti) [he](saḥ)
 
 ## mukta-m0-p19-v470
-[of-lords](īśvarāṇāṃ) [of-own-devotees](svabhaktānāṃ) [restraint+and+grace](nigrahānugraha) [+capable](kṣamaḥ)
+[of-lords](īśvarāṇāṃ) [of-own-devotees](sva)+[bhaktānāṃ](bhaktānāṃ) [restraint](nigraha)+[and-grace](anugraha)+[capable](kṣamaḥ) [is](asti)
 
 ## mukta-m0-p19-v471
-[by-all+accessible](sarvagamyaḥ) [universally-reachable](sarvagamyaḥ) [all-pervading](sarvagamyaḥ) [omnipresent](sarvagamyaḥ)
+[by-all](sarva)+[accessible](gamyaḥ) [is](asti) [he](saḥ) [supreme](paraḥ)
 
 ## mukta-m0-p19-v472
-[affliction+action+fruit](kleśakarmavipāka) [+un+touched](aparāmṛṣṭaḥ) [everywhere](sarvataḥ) [untainted](aparāmṛṣṭaḥ)
+[affliction](kleśa)+[action](karma)+[ripening](vipākā)+[untouched](aparāmṛṣṭaḥ) [everywhere](sarvataḥ) [is](asti) [he](saḥ)
 
 ## mukta-m0-p19-v473
-[by-all+accessible](sarvagamyaḥ) [universally-reachable](sarvagamyaḥ) [all-pervading](sarvagamyaḥ) [omnipresent](sarvagamyaḥ)
+[by-all](sarva)+[accessible](gamyaḥ) [is](asti) [he](saḥ) [supreme](paraḥ)
 
 ## mukta-m0-p19-v474
-[of-all+origination+maker](sarvotpattikṛt) [creator-of-all](sarvotpattikṛt) [universal-source](sarvotpattikṛt) [all-producing](sarvotpattikṛt)
+[of-all](sarva)+[origination](utpatti)+[maker](kṛt) [is](asti) [he](saḥ) [supreme](paraḥ)
 
 ## mukta-m0-p19-v475
-[of-all+sustenance+maker](sarvasthitikṛt) [maintainer-of-all](sarvasthitikṛt) [universal-preserver](sarvasthitikṛt) [all-sustaining](sarvasthitikṛt)
+[of-all](sarva)+[maintenance](sthiti)+[maker](kṛt) [is](asti) [he](saḥ) [supreme](paraḥ)

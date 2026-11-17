@@ -11,16 +11,24 @@
 "quick_gloss": "thus"
 },
 {
-"surface": "pārānandasūtre",
-"quick_gloss": "pārānanda+sūtra"
+"surface": "pārānanda",
+"quick_gloss": "supreme-bliss"
 },
 {
-"surface": "—",
-"quick_gloss": "in"
+"surface": "sūtre",
+"quick_gloss": "in-sūtra"
 },
 {
-"surface": "pañcamamāhnikam",
-"quick_gloss": "fifth+day-section"
+"surface": "pañcama",
+"quick_gloss": "fifth"
+},
+{
+"surface": "māhnikam",
+"quick_gloss": "daily-section"
+},
+{
+"surface": "samāptam",
+"quick_gloss": "completed"
 }
 ]
 },
@@ -33,15 +41,23 @@
 "tokens": [
 {
 "surface": "oṃ",
-"quick_gloss": "oṃ"
+"quick_gloss": "sacred-syllable-oṃ"
 },
 {
-"surface": "athātaḥ",
-"quick_gloss": "now+therefore"
+"surface": "atha",
+"quick_gloss": "now"
 },
 {
-"surface": "paramānandamataṃ",
-"quick_gloss": "supreme-bliss+doctrine"
+"surface": "ataḥ",
+"quick_gloss": "therefore"
+},
+{
+"surface": "paramānanda",
+"quick_gloss": "supreme-bliss"
+},
+{
+"surface": "matam",
+"quick_gloss": "doctrine"
 },
 {
 "surface": "vakṣyāmaḥ",
@@ -62,15 +78,19 @@
 },
 {
 "surface": "ātmā",
-"quick_gloss": "+self"
+"quick_gloss": "self"
 },
 {
-"surface": "paramātmā",
-"quick_gloss": "supreme+self"
+"surface": "asti",
+"quick_gloss": "is"
 },
 {
-"surface": "paramātmā",
-"quick_gloss": "supreme+self"
+"surface": "saḥ",
+"quick_gloss": "the"
+},
+{
+"surface": "paraḥ",
+"quick_gloss": "absolute"
 }
 ]
 },
@@ -94,8 +114,8 @@
 "quick_gloss": "separately"
 },
 {
-"surface": "pṛthak",
-"quick_gloss": "distinct"
+"surface": "santi",
+"quick_gloss": "exist"
 }
 ]
 },
@@ -119,8 +139,8 @@
 "quick_gloss": "separately"
 },
 {
-"surface": "pṛthak",
-"quick_gloss": "distinct"
+"surface": "santi",
+"quick_gloss": "exist"
 }
 ]
 },
@@ -132,20 +152,32 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "nityānandaḥ",
+"surface": "nitya",
 "quick_gloss": "eternal-bliss"
 },
 {
+"surface": "ānandaḥ",
+"quick_gloss": "ānandaḥ"
+},
+{
 "surface": "sat",
-"quick_gloss": "being"
+"quick_gloss": "being-consciousness-bliss"
 },
 {
 "surface": "cit",
-"quick_gloss": "+consciousness"
+"quick_gloss": "cit"
 },
 {
-"surface": "ānandamayamūrtiḥ",
-"quick_gloss": "+bliss+formed+embodiment"
+"surface": "ānanda",
+"quick_gloss": "ānanda"
+},
+{
+"surface": "maya",
+"quick_gloss": "made-of"
+},
+{
+"surface": "mūrtiḥ",
+"quick_gloss": "form"
 }
 ]
 },
@@ -161,16 +193,20 @@
 "quick_gloss": "everywhere"
 },
 {
-"surface": "surūpaḥ",
-"quick_gloss": "beautiful-form"
+"surface": "su",
+"quick_gloss": "good"
 },
 {
-"surface": "sarvataḥ",
-"quick_gloss": "all-around"
+"surface": "rūpaḥ",
+"quick_gloss": "form"
 },
 {
-"surface": "surūpaḥ",
-"quick_gloss": "well-formed"
+"surface": "asti",
+"quick_gloss": "is"
+},
+{
+"surface": "saḥ",
+"quick_gloss": "he"
 }
 ]
 },
@@ -186,16 +222,20 @@
 "quick_gloss": "everywhere"
 },
 {
-"surface": "sarvajñaḥ",
-"quick_gloss": "all-knowing"
+"surface": "sarva",
+"quick_gloss": "all"
 },
 {
-"surface": "sarvataḥ",
-"quick_gloss": "all-around"
+"surface": "jñaḥ",
+"quick_gloss": "knowing"
 },
 {
-"surface": "sarvajñaḥ",
-"quick_gloss": "omniscient"
+"surface": "asti",
+"quick_gloss": "is"
+},
+{
+"surface": "saḥ",
+"quick_gloss": "he"
 }
 ]
 },
@@ -211,16 +251,20 @@
 "quick_gloss": "everywhere"
 },
 {
-"surface": "sarveśvaraḥ",
-"quick_gloss": "lord-of-all"
+"surface": "sarva",
+"quick_gloss": "all"
 },
 {
-"surface": "sarvataḥ",
-"quick_gloss": "all-around"
+"surface": "īśvaraḥ",
+"quick_gloss": "lord"
 },
 {
-"surface": "sarveśvaraḥ",
-"quick_gloss": "supreme-lord"
+"surface": "asti",
+"quick_gloss": "is"
+},
+{
+"surface": "saḥ",
+"quick_gloss": "he"
 }
 ]
 },
@@ -237,15 +281,19 @@
 },
 {
 "surface": "vāk",
-"quick_gloss": "+speech"
+"quick_gloss": "speech"
 },
 {
-"surface": "veda",
-"quick_gloss": "sacred"
+"surface": "asti",
+"quick_gloss": "is"
 },
 {
-"surface": "vāk",
-"quick_gloss": "+word"
+"surface": "saḥ",
+"quick_gloss": "he"
+},
+{
+"surface": "paraḥ",
+"quick_gloss": "supreme"
 }
 ]
 },
@@ -257,16 +305,40 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "svābhinnālaṅkāraḥ",
-"quick_gloss": "own+non-different+ornament"
+"surface": "sva",
+"quick_gloss": "own"
 },
 {
-"surface": "svābhinnāyudhaḥ",
-"quick_gloss": "own+non-different+weapon"
+"surface": "abhinna",
+"quick_gloss": "non-different"
 },
 {
-"surface": "svābhinnavāhana",
-"quick_gloss": "own+non-different+vehicle"
+"surface": "alaṅkāraḥ",
+"quick_gloss": "ornament"
+},
+{
+"surface": "sva",
+"quick_gloss": "own"
+},
+{
+"surface": "abhinna",
+"quick_gloss": "non-different"
+},
+{
+"surface": "āyudhaḥ",
+"quick_gloss": "weapon"
+},
+{
+"surface": "sva",
+"quick_gloss": "own"
+},
+{
+"surface": "abhinna",
+"quick_gloss": "non-different"
+},
+{
+"surface": "vāhanaḥ",
+"quick_gloss": "vehicle"
 },
 {
 "surface": "iti",
@@ -274,7 +346,7 @@
 },
 {
 "surface": "kālaśambhuḥ",
-"quick_gloss": "kālaśambhu"
+"quick_gloss": "Kālaśambhu"
 }
 ]
 },
@@ -286,8 +358,32 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "tadbhinnānādyanantālaṅkārāyudhavāhanāni",
-"quick_gloss": "from-that+different+beginningless+endless+ornament+weapon+vehicles"
+"surface": "tat",
+"quick_gloss": "from-that"
+},
+{
+"surface": "bhinna",
+"quick_gloss": "different"
+},
+{
+"surface": "anādi",
+"quick_gloss": "beginningless"
+},
+{
+"surface": "ananta",
+"quick_gloss": "endless"
+},
+{
+"surface": "alaṅkāra",
+"quick_gloss": "ornament-weapon-vehicle"
+},
+{
+"surface": "āyudha",
+"quick_gloss": "āyudha"
+},
+{
+"surface": "vāhanāni",
+"quick_gloss": "vāhanāni"
 },
 {
 "surface": "iti",
@@ -295,11 +391,7 @@
 },
 {
 "surface": "unmattabhairavaḥ",
-"quick_gloss": "unmattabhairava"
-},
-{
-"surface": "iti",
-"quick_gloss": "named"
+"quick_gloss": "Unmattabhairava"
 }
 ]
 },
@@ -311,20 +403,24 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "acintyaiśvaryaḥ",
-"quick_gloss": "inconceivable+sovereignty"
+"surface": "acintya",
+"quick_gloss": "inconceivable"
+},
+{
+"surface": "aiśvaryaḥ",
+"quick_gloss": "sovereignty"
 },
 {
 "surface": "sarvataḥ",
 "quick_gloss": "everywhere"
 },
 {
-"surface": "sarvataḥ",
-"quick_gloss": "all-around"
+"surface": "asti",
+"quick_gloss": "is"
 },
 {
-"surface": "acintyaiśvaryaḥ",
-"quick_gloss": "unthinkable-power"
+"surface": "saḥ",
+"quick_gloss": "he"
 }
 ]
 },
@@ -341,15 +437,23 @@
 },
 {
 "surface": "acintyaḥ",
-"quick_gloss": "+inconceivable"
+"quick_gloss": "inconceivable"
 },
 {
 "surface": "adṛśyaḥ",
-"quick_gloss": "+invisible"
+"quick_gloss": "invisible"
 },
 {
-"surface": "avedyaḥ",
-"quick_gloss": "beyond-perception"
+"surface": "asti",
+"quick_gloss": "is"
+},
+{
+"surface": "saḥ",
+"quick_gloss": "he"
+},
+{
+"surface": "paraḥ",
+"quick_gloss": "supreme"
 }
 ]
 },
@@ -361,20 +465,32 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "susaṃvedyaḥ",
+"surface": "su",
 "quick_gloss": "well-knowable"
 },
 {
-"surface": "susaṃcintyaḥ",
+"surface": "saṃvedyaḥ",
+"quick_gloss": "saṃvedyaḥ"
+},
+{
+"surface": "su",
 "quick_gloss": "well-conceivable"
 },
 {
-"surface": "susaṃdṛśyaḥ",
+"surface": "saṃcintyaḥ",
+"quick_gloss": "saṃcintyaḥ"
+},
+{
+"surface": "su",
 "quick_gloss": "well-visible"
 },
 {
-"surface": "susaṃvedyaḥ",
-"quick_gloss": "clearly-perceivable"
+"surface": "saṃdṛśyaḥ",
+"quick_gloss": "saṃdṛśyaḥ"
+},
+{
+"surface": "asti",
+"quick_gloss": "is"
 }
 ]
 },
@@ -386,20 +502,28 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "yogaphalanirdeṣṭā",
-"quick_gloss": "yoga+fruit+assigner"
+"surface": "yoga",
+"quick_gloss": "yoga"
+},
+{
+"surface": "phala",
+"quick_gloss": "fruit"
+},
+{
+"surface": "nirdeṣṭā",
+"quick_gloss": "assigner"
 },
 {
 "surface": "sarvataḥ",
 "quick_gloss": "everywhere"
 },
 {
-"surface": "sarvataḥ",
-"quick_gloss": "all-around"
+"surface": "asti",
+"quick_gloss": "is"
 },
 {
-"surface": "yogaphalanirdeṣṭā",
-"quick_gloss": "result-determiner"
+"surface": "saḥ",
+"quick_gloss": "he"
 }
 ]
 },
@@ -415,16 +539,24 @@
 "quick_gloss": "everywhere"
 },
 {
-"surface": "yogaphaladaḥ",
-"quick_gloss": "yoga+fruit+giver"
+"surface": "yoga",
+"quick_gloss": "yoga"
 },
 {
-"surface": "sarvataḥ",
-"quick_gloss": "all-around"
+"surface": "phala",
+"quick_gloss": "fruit"
 },
 {
-"surface": "yogaphaladaḥ",
-"quick_gloss": "result-bestower"
+"surface": "daḥ",
+"quick_gloss": "giver"
+},
+{
+"surface": "asti",
+"quick_gloss": "is"
+},
+{
+"surface": "saḥ",
+"quick_gloss": "he"
 }
 ]
 },
@@ -436,20 +568,24 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "īśvarairupāsyaḥ",
-"quick_gloss": "by-lords+worshipped"
+"surface": "īśvaraiḥ",
+"quick_gloss": "by-lords"
+},
+{
+"surface": "upāsyaḥ",
+"quick_gloss": "worshipped"
 },
 {
 "surface": "sarvataḥ",
 "quick_gloss": "everywhere"
 },
 {
-"surface": "sarvataḥ",
-"quick_gloss": "all-around"
+"surface": "asti",
+"quick_gloss": "is"
 },
 {
-"surface": "īśvarairupāsyaḥ",
-"quick_gloss": "adored-by-lords"
+"surface": "saḥ",
+"quick_gloss": "he"
 }
 ]
 },
@@ -461,20 +597,24 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "īśvaropāsyaḥ",
-"quick_gloss": "by-lord+worshipped"
+"surface": "īśvara",
+"quick_gloss": "by-lord"
+},
+{
+"surface": "upāsyaḥ",
+"quick_gloss": "worshipped"
 },
 {
 "surface": "sarvataḥ",
 "quick_gloss": "everywhere"
 },
 {
-"surface": "sarvataḥ",
-"quick_gloss": "all-around"
+"surface": "asti",
+"quick_gloss": "is"
 },
 {
-"surface": "īśvaropāsyaḥ",
-"quick_gloss": "adored-by-lord"
+"surface": "saḥ",
+"quick_gloss": "he"
 }
 ]
 },
@@ -490,16 +630,28 @@
 "quick_gloss": "of-lords"
 },
 {
-"surface": "svabhaktānāṃ",
+"surface": "sva",
 "quick_gloss": "of-own-devotees"
 },
 {
-"surface": "nigrahānugraha",
-"quick_gloss": "restraint+and+grace"
+"surface": "bhaktānāṃ",
+"quick_gloss": "bhaktānāṃ"
+},
+{
+"surface": "nigraha",
+"quick_gloss": "restraint"
+},
+{
+"surface": "anugraha",
+"quick_gloss": "and-grace"
 },
 {
 "surface": "kṣamaḥ",
-"quick_gloss": "+capable"
+"quick_gloss": "capable"
+},
+{
+"surface": "asti",
+"quick_gloss": "is"
 }
 ]
 },
@@ -511,20 +663,24 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "sarvagamyaḥ",
-"quick_gloss": "by-all+accessible"
+"surface": "sarva",
+"quick_gloss": "by-all"
 },
 {
-"surface": "sarvagamyaḥ",
-"quick_gloss": "universally-reachable"
+"surface": "gamyaḥ",
+"quick_gloss": "accessible"
 },
 {
-"surface": "sarvagamyaḥ",
-"quick_gloss": "all-pervading"
+"surface": "asti",
+"quick_gloss": "is"
 },
 {
-"surface": "sarvagamyaḥ",
-"quick_gloss": "omnipresent"
+"surface": "saḥ",
+"quick_gloss": "he"
+},
+{
+"surface": "paraḥ",
+"quick_gloss": "supreme"
 }
 ]
 },
@@ -536,20 +692,32 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "kleśakarmavipāka",
-"quick_gloss": "affliction+action+fruit"
+"surface": "kleśa",
+"quick_gloss": "affliction"
+},
+{
+"surface": "karma",
+"quick_gloss": "action"
+},
+{
+"surface": "vipākā",
+"quick_gloss": "ripening"
 },
 {
 "surface": "aparāmṛṣṭaḥ",
-"quick_gloss": "+un+touched"
+"quick_gloss": "untouched"
 },
 {
 "surface": "sarvataḥ",
 "quick_gloss": "everywhere"
 },
 {
-"surface": "aparāmṛṣṭaḥ",
-"quick_gloss": "untainted"
+"surface": "asti",
+"quick_gloss": "is"
+},
+{
+"surface": "saḥ",
+"quick_gloss": "he"
 }
 ]
 },
@@ -561,20 +729,24 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "sarvagamyaḥ",
-"quick_gloss": "by-all+accessible"
+"surface": "sarva",
+"quick_gloss": "by-all"
 },
 {
-"surface": "sarvagamyaḥ",
-"quick_gloss": "universally-reachable"
+"surface": "gamyaḥ",
+"quick_gloss": "accessible"
 },
 {
-"surface": "sarvagamyaḥ",
-"quick_gloss": "all-pervading"
+"surface": "asti",
+"quick_gloss": "is"
 },
 {
-"surface": "sarvagamyaḥ",
-"quick_gloss": "omnipresent"
+"surface": "saḥ",
+"quick_gloss": "he"
+},
+{
+"surface": "paraḥ",
+"quick_gloss": "supreme"
 }
 ]
 },
@@ -586,20 +758,28 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "sarvotpattikṛt",
-"quick_gloss": "of-all+origination+maker"
+"surface": "sarva",
+"quick_gloss": "of-all"
 },
 {
-"surface": "sarvotpattikṛt",
-"quick_gloss": "creator-of-all"
+"surface": "utpatti",
+"quick_gloss": "origination"
 },
 {
-"surface": "sarvotpattikṛt",
-"quick_gloss": "universal-source"
+"surface": "kṛt",
+"quick_gloss": "maker"
 },
 {
-"surface": "sarvotpattikṛt",
-"quick_gloss": "all-producing"
+"surface": "asti",
+"quick_gloss": "is"
+},
+{
+"surface": "saḥ",
+"quick_gloss": "he"
+},
+{
+"surface": "paraḥ",
+"quick_gloss": "supreme"
 }
 ]
 },
@@ -611,20 +791,28 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "sarvasthitikṛt",
-"quick_gloss": "of-all+sustenance+maker"
+"surface": "sarva",
+"quick_gloss": "of-all"
 },
 {
-"surface": "sarvasthitikṛt",
-"quick_gloss": "maintainer-of-all"
+"surface": "sthiti",
+"quick_gloss": "maintenance"
 },
 {
-"surface": "sarvasthitikṛt",
-"quick_gloss": "universal-preserver"
+"surface": "kṛt",
+"quick_gloss": "maker"
 },
 {
-"surface": "sarvasthitikṛt",
-"quick_gloss": "all-sustaining"
+"surface": "asti",
+"quick_gloss": "is"
+},
+{
+"surface": "saḥ",
+"quick_gloss": "he"
+},
+{
+"surface": "paraḥ",
+"quick_gloss": "supreme"
 }
 ]
 }
