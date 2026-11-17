@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p83-v2051
-[righteous-and](dhārmikāḥ) [indeed](ca) [also](eva) [kings](rājānaḥ) [endowed-with+complete+seven-limbs](pūrṇa+saptāṅga+saṃyutāḥ)
+[righteous-and](dhārmikāḥ) [indeed](ca) [also](eva) [kings](rājānaḥ) [complete+seven+limb+endowed](pūrṇasaptāṅgasaṃyutāḥ)
 
 ## mukta-m0-p83-v2052
-[desired-object](vāñchitaṃ) [obtains](samavāpnoti) [from-the-maṇḍala](maṇḍalāt) [in-a-month](māsataḥ) [even](api) [or](vā)
+[desired](vāñchitaṃ) [completely](sam) [obtains](avāpnoti) [from-the-maṇḍala](maṇḍalāt) [in-a-month](māsataḥ) [even](api) [or](vā)
 
 ## mukta-m0-p83-v2053
-[in-the-east+etc.+rakṣas+vāyu+indra+fire+īśa+varuṇa+directions](prāk+ukta+rakṣas+vāyu+śakra+vahni+īśa+varuṇa+dikṣu) [from-placement](sthāpanāt) [thus-is-the-meaning](iti+arthaḥ)
+[east+north+rakṣas+wind+indra+fire+īśa+varuṇa+directions](prāguktarakṣovāyuśakravahnīśavaruṇadikṣu) [by-placement](sthāpanāt) [thus+meaning](ityarthaḥ)
 
 ## mukta-m0-p83-v2054
-[group-of-seven-forms](mūrti+saptakaṃ) [of-ḍākinī+and-others](ḍākinī+ādīnāṃ) [of-six](ṣaṇāṃ) [and-of-the-goddess](devyāḥ) [and](ca) [thus](iti) [is-the-remainder](śeṣaḥ)
+[form+group-of-seven](mūrtisaptakaṃ) [of-ḍākinī+and-others](ḍārākinyādīnāṃ) [of-six](ṣaṇāṃ) [of-the-goddess](devyāḥ) [and](ca) [thus](iti) [remainder](śeṣaḥ)
 
 ## mukta-m0-p83-v2055
-[afflictions](kleśāḥ) [by-the-power-of+knowledge+yantra](vidyā+yantra+anubhāvataḥ) [of-both](ubhayoḥ) [by-capability](sāmarthyāt)
+[afflictions](kleśāḥ) [by-knowledge+yantra+power](vidyāyantrānubhāvataḥ) [of-both](ubhayoḥ) [by-capability](sāmarthyāt)
 
 ## mukta-m0-p83-v2056
-[situated-in-the-middle-of+suṣumnā](suṣumnā+madhya+saṃstheṣu) [in-the-six+support+lotuses](ṣaḍ+ādhāra+ambujeṣu) [those](tāḥ)
+[in-suṣumnā+middle+situated](suṣumnāmadhyasaṃstheṣu) [in-six+support+lotuses](ṣaḍādhārāmbujeṣu) [them](tāḥ)
 
 ## mukta-m0-p83-v2057
-[outside](bahiḥ) [and](ca) [in-the-maṇḍala](maṇḍale) [consisting-of+worship+grace+and-subjugation](pūjā+anugraha+nigraha+ātmikām)
+[outside](bahiḥ) [and](ca) [in-the-maṇḍala](maṇḍale) [worship+grace+subjugation+natured](pūjānugrahānigrahātmikām)
 
 ## mukta-m0-p83-v2058
-[in-the-smoke-colored+lotus](dhūmra+varṇa+ambuje) [the-goddess](devīṃ) [ḍākinī](ḍākinīṃ) [having-the-same-form-as-that](tat+sama+ākṛtim)
+[in-smoke+colored+lotus](dhūmravarṇāmbuje) [goddess](devīṃ) [ḍākinī](ḍākinīṃ) [of-that+same+form](tatsamākṛtim)
 
 ## mukta-m0-p83-v2059
-[by-her](tayā) [attainment-of+omniscience](sarvajñatā+siddhiḥ) [occurs](bhavati) [indeed](eva) [no](na) [doubt](saṃśayaḥ)
+[by-her](tayā) [omniscience+accomplishment](sarvajñatāsiddhiḥ) [becomes](bhavati) [indeed](eva) [no](na) [doubt](saṃśayaḥ)
 
 ## mukta-m0-p83-v2060
 [obtains](prāpnoti)
 
 ## mukta-m0-p83-v2061
-[in-the-bodies](deheṣu) [abiding](sthitim) [those](tāḥ) [goddesses](devyaḥ) [thus-here](iti+atra) [is-the-connection](anvayaḥ) [ḍākinī-and-others](dākinī+ādayaḥ) [thus](iti) [is-the-remainder](śeṣaḥ)
+[in-bodies](deheṣu) [abiding](sthitim) [they](tāḥ) [goddesses](devyaḥ) [thus](iti) [here](atra) [connection](anvayaḥ) [ḍākinī+and-others](dākinyādayaḥ) [thus](iti) [remainder](śeṣaḥ)
 
 ## mukta-m0-p83-v2062
-[equal-to+the-root-deity](mūla+devatā+samānaḥ)
+[root+deity+equal](mūladevatāsamānaḥ)
 
 ## mukta-m0-p83-v2063
-[rākinī](rākinīṃ) [in-the-twelve-petaled](dvādaśa+dale) [consisting-of+letters-from-ka-to-ḍha](ka+ādi+ḍha+anta+akṣara+ātmabhiḥ)
+[rākinī](rākinīṃ) [in-twelve+petaled](dvādaśadale) [by-ka+to-ḍha+letter+natured](kādiḍhāntākṣarātmabhiḥ)
 
 ## mukta-m0-p83-v2064
-[in-the-so-called+maṇipūraka](maṇipūraka+saṃjñe) [and](ca) [situated-in-the-navel](nābhi+sthe) [in-the-ten-petaled](daśa+patrake)
+[in-maṇipūraka+named](maṇipūrakasaṃjñe) [and](ca) [in-navel+situated](nābhisthe) [in-ten+petaled](daśapatrake)
 
 ## mukta-m0-p83-v2065
-[lākinī](lākinīṃ) [one-should-worship](pūjayet) [for-conquering-enemies](vairi+vijaya) [for-fortune+prosperity+and-abundance](śrī+samṛddhaye)
+[lākinī](lākinīṃ) [one-should-worship](pūjayet) [for-enemy+victory+prosperity+abundance](vairivijayaśrīsamṛddhaye)
 
 ## mukta-m0-p83-v2066
-[surrounded-by+śaktis-of-the-six-letters-beginning-with-va](va+ādi+ṣaḍ+varṇa+śaktībhiḥ) [surrounded](āvṛtāṃ) [ḍākinī](ḍākinīṃ) [one-should-worship](yajet)
+[by-va+etc.+six+letter+powers](vādiṣaḍvarṇaśaktībhiḥ) [surrounded](āvṛtāṃ) [ḍākinī](ḍākinīṃ) [one-should-worship](yajet)
 
 ## mukta-m0-p83-v2067
-[in-the-so-called+ādhāra](ādhāra+ākhye) [in-the-four-petaled](catuṣ+patre) [golden-colored](suvarṇa+ābhe) [lotus](saroruhe)
+[in-ādhāra+named](ādhārākhye) [in-four+petaled](catuṣpatre) [in-gold+colored](suvarṇābhe) [in-lotus](saroruhe)
 
 ## mukta-m0-p83-v2068
-[between+anus-and-genital-organ](pāyu+dhvaja+antarā) [in-the-middle-of+triangle](tryasra+madhye) [endowed-with](tejaḥ) [splendor](samanvitām)
+[at-pāyu+banner+interval](pāyudhvajāntarā) [in-triangle+middle](tryasramadhye) [with-splendor](tejaḥ) [endowed](samanvitām)
 
 ## mukta-m0-p83-v2069
-[attended-by+ha-and-kṣa-śaktis](ha+kṣa+śaktibhyāṃ) [hākinī](hākinīṃ) [one-should-worship](pūjayet) [likewise](tathā)
+[attended](sevitāṃ) [by-ha+kṣa+powers](hakṣaśaktibhyāṃ) [hākinī](hākinīṃ) [one-should-worship](pūjayet) [likewise](tathā)
 
 ## mukta-m0-p83-v2070
-[giving-the-power-of+creation+preservation+and-destruction-of-the-universe](viśva+sṛṣṭi+sthiti+dhvaṃsa+śakti+dām) [without-effort](api+ayatnataḥ)
+[universe+creation+maintenance+destruction+power+giving](viśvasṛṣṭisthitidhvaṃsaśaktidām) [even](api) [effortlessly](ayatnataḥ)
 
 ## mukta-m0-p83-v2071
-[worship](pūjanaṃ) [destroying+all-suffering-and-distress](sarva+duḥkha+ārti+nāśanaṃ) [abode-of+prosperity](sampad+āspadam)
+[worship](pūjanaṃ) [all+sorrow+distress+destruction](sarvaduḥkhārtināśanaṃ) [prosperity+abode](sampadāspadam)
 
 ## mukta-m0-p83-v2072
-[by-that](tayā) [worship](pūjayā) [at-the-root-of+the-flag](dhvaja+mūle) [at-the-root-of+the-genital-organ](mehana+mūle)
+[by-that](tayā) [by-worship](pūjayā) [at-banner+root](dhvajamūle) [at-genital+root](mehanamūle)
 
 ## mukta-m0-p83-v2073
-[endowed-with](samanvitāṃ) [in-the-form-of+kuṇḍalinī-energy](kuṇḍalinī+tejas+rūpām) [likewise](tathā) [in-summary](samuccaye)
+[endowed](samanvitāṃ) [kuṇḍalinī+splendor+formed](kuṇḍalinītejorūpām) [likewise](tathā) [in-summary](samuccaye)
 
 ## mukta-m0-p83-v2074
-[giving-the-capability-of+knowing+past+future+and-present-actions](bhūta+bhaviṣya+vartamāna+kārya+jñāna+sāmarthya+pradāyinīm) [thus-is-the-meaning](iti+arthaḥ)
+[past+future+present+action+knowledge+capacity+bestowing](bhūtabhaviṣyavartamānakāryajñānasāmarthyapradāyinīm) [thus+meaning](ityarthaḥ)
 
 ## mukta-m0-p83-v2075
-[in-the-middle](madhye) [and](ca) [there](tatra) [that](tāṃ) [nityā-and-nityā](nityā+nityā) [with-fragrance+and-so-forth](gandha+ādinā) [one-should-worship](arcayet)
+[in-middle](madhye) [and](ca) [there](tatra) [her](tāṃ) [nityā+nityā](nityānityā) [with-fragrance+etc.](gandhādinā) [one-should-worship](arcayet)
