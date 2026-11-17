@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p31-v751
-[wind](anilasyo) [support](dhṛti) [taking](hari) [mind](manaso) [steadiness](dhairya) [increasing](vardhanī)
+[of-wind](anilasyo) [dhṛti-bearing](dhṛtiharī) [mind-steadiness-increasing](manasodhairyavardhanī)
 
 ## mukta-m0-p31-v752
-[worshipful](upāsaniyā) [always](satataṃ) [great-sacrifice](mahāyāga) [proceeding](pravarttibhiḥ)
+[to-be-worshipped](upāsaniyā) [always](satataṃ) [great-sacrifice](mahāyāga) [by-performers](pravarttibhiḥ)
 
 ## mukta-m0-p31-v753
-[eightfold](aṣṭakāṣṭaka) [limit](paryaṃtam) [even](api) [drop](biṃdur) [restrains](niyacchataḥ)
+[until-eightfold](aṣṭakāṣṭakaparyaṃtam) [even](api) [drop](biṃduḥ) [restrains](niyacchataḥ)
 
 ## mukta-m0-p31-v754
-[gauli-rasa](gaulīrasasya) [predominance](prābalyāt) [stiffened-vigor](stabdhavīrya) [unborn-son](amātmaje)
+[of-gaulī-rasa](gaulīrasasya) [by-dominance](prābalyāt) [stiffened-vigor](stabdhavīrya) [in-son](amātmaje)
 
 ## mukta-m0-p31-v755
-[sacrifice-king](yāgarāja) [principal-limb](pradhānāṃgaṃ) [obtained](labhyate) [desired-offering](iṣṭāhuti) [order](kramāt)
+[sacrifice-king](yāgarāja) [principal-limb](pradhānāṃgaṃ) [is-obtained](labhyate) [desired-offering](iṣṭāhuti) [in-order](kramāt)
 
 ## mukta-m0-p31-v756
-[other](aparaṃ) [what](kinnu) [auspicious-one](kalyāṇi) [to-ask](praṣṭum) [eager](utkaṃṭhitaṃ) [mind](manaḥ)
+[another](aparaṃ) [what](kiṃ) [auspicious-one](kalyāṇi) [to-ask](praṣṭum) [eager](utkaṃṭhitaṃ) [mind](manaḥ)
 
 ## mukta-m0-p31-v757
-[its](tasya) [own-form](svarūpaṃ) [to-declare](nirvaktu) [bhavānī](bhavāniṃdu) [crest-jewel](śikhāmaṇe)
+[of-it](tasya) [own-form](svarūpaṃ) [to-declare](nirvaktu) [bhavānī](bhavāni) [moon-crest-jewel](iṃdu+śikhāmaṇe)
 
 ## mukta-m0-p31-v758
-[eight-offerings](aṣṭāhutīr) [unfailing](avikalāḥ) [makes](karoti) [great-souled](sumahāśayaḥ)
+[eight-offerings](aṣṭāhutīḥ) [undiminished](avikalāḥ) [makes](karoti) [great-souled](sumahāśayaḥ)
 
 ## mukta-m0-p31-v759
-[three-times-eight-offerings](tryaṣṭakāhutayaḥ) [of-man](puṃsaḥ) [three-worlds](trailokyaṃ) [accomplish](sādhayaṃti) [indeed](vai)
+[twenty-four-offerings](tryaṣṭakāhutayaḥ) [of-man](puṃsaḥ) [three-worlds](trailokyaṃ) [accomplish](sādhayaṃti) [indeed](vai)
 
 ## mukta-m0-p31-v760
-[those](ye) [perform](kurvaṃty) [offering](āhutiḥ) [meritorious](puṇyāḥ) [blazing](jvalite) [linga-fire](liṃgapāvake)
+[those](te) [who-make](kurvaṃti) [offering](āhutiḥ) [meritorious](puṇyāḥ) [in-blazing](jvalite) [liṅga-fire](liṃgapāvake)
 
 ## mukta-m0-p31-v761
-[their](teṣāṃ) [all](samasta) [lordship](maiśvaryaṃ) [by-will](saṃkalpāt) [eva](eva) [accomplished](sidhyati)
+[of-them](teṣāṃ) [all](samastaṃ) [sovereignty](aiśvaryaṃ) [by-will](saṃkalpāt) [is-accomplished](evasidhyati)
 
 ## mukta-m0-p31-v762
-[successively](uttarottaram) [of-these](eteṣāṃ) [liberation](nirvāṇa) [bliss](sukha) [causation](hetutā)
+[increasingly](uttarottaram) [of-these](eteṣāṃ) [liberation](nirvāṇa) [happiness-causing](sukhahetutā)
 
 ## mukta-m0-p31-v763
-[that](tad) [one-messenger](ekādūtikā) [should-do](kuryāt) [in-double-eight](dvyṣṭake) [two-messengers](dūtikādvayam)
+[that](tad) [one-messenger](ekā+dūtikā) [should-do](kuryāt) [in-sixteen](dvy+aṣṭake) [two-messengers](dūtikā+dvayam)
 
 ## mukta-m0-p31-v764
-[eight](aṣṭau) [messengers](dūtyaḥ) [tu](tu) [to-be-done](karttavyāḥ) [to-be-worshipped](pūjanīyāśca) [truly](tattvataḥ)
+[eight](aṣṭau) [messengers](dūtyaḥ) [are-to-be-done](karttavyāḥ) [and-worshipped](pūjanīyāḥ+ca) [truly](tattvataḥ)
 
 ## mukta-m0-p31-v765
-[he](sa) [eva](eva) [to-be-inferred](abhyūhyatām) [amba](amba) [in-order](krameṇa) [in-double-eight-etc](dvyṣṭakādiṣu)
+[he](saḥ) [indeed](eva) [is-to-be-inferred](abhyūhyatām) [mother](amba) [in-order](krameṇa) [in-sixteen-etc](dvy+aṣṭakādiṣu)
 
 ## mukta-m0-p31-v766
-[various](nānāvidhābhiḥ) [fair-hipped](suśroṇi) [his](tasya) [vain](vyarthā) [manifestations](vibhūtayaḥ)
+[with-various](nānāvidhābhiḥ) [fair-hipped](suśroṇi) [of-it](tasya) [vain](vyarthā) [manifestations](vibhūtayaḥ)
 
 ## mukta-m0-p31-v767
-[love-gem](anaṃgamaṇi) [name](nāma) [asti](asti) [vein-wealth](sirāgṛddhi) [mind-charming](manoharaḥ)
+[of-love-gem](anaṃgamaṇi) [name](nāma) [is](asti) [vein-attachment](sirā+gṛddhiḥ) [mind-charming](manoharaḥ)
 
 ## mukta-m0-p31-v768
-[offered](pradhitasyaṃ) [day](dinī) [this](ceyaṃ) [subduing](vaśinī) [speech-power-giving](vāgvibhūtidā)
+[of-pressed](pradhitasyaṃ) [this](iyaṃ) [low](dinī) [ceya](ceyaṃ) [vaśinī](vaśinī) [speech-power-giving](vāg+vibhūti+dā)
 
 ## mukta-m0-p31-v769
-[holy-linga](sādhuliṃga) [great-lord](maheśasya) [union](saṃghaṭṭana) [canopy](vitānataḥ)
+[of-auspicious-liṅga-great-lord](sādhuliṃgamaheśasya) [union](saṃghaṭṭana) [canopy](vitānataḥ)
 
 ## mukta-m0-p31-v770
-[tamala-dark](tamālaśyāmala) [shade](cchāyām) [also](īccaiva) [tinged](kaṣāyitam)
+[tamāla-dark](tamāla+śyāmala) [shade](cchāyām) [and](īcca) [eva](eva) [dyed](kaṣāyitam)
 
 ## mukta-m0-p31-v771
-[great-rivers](mahānadīṣu) [all](sarvāsu) [distinguished](viśiṣṭā) [declared](parikīrttitā)
+[in-great-rivers](mahānadīṣu) [all](sarvāsu) [distinguished](viśiṣṭā) [is-declared](parikīrttitā)
 
 ## mukta-m0-p31-v772
-[who](yaḥ) [satisfies](tarpayati) [linga-fire](laiṃgāgniṃ) [all-being](sasarvatvaṃ) [attains](samṛcchati)
+[who-satisfies](yastarpayati) [liṅga-fire](laiṃgāgniṃ) [all-being](sasarvatvaṃ) [obtains](samṛcchati)
 
 ## mukta-m0-p31-v773
-[self](ātmī) [having-made](kṛtya) [element](bhūtattvaṃ) [everywhere](sarvatra) [unfailing](askhalitaṃ) [course](gatim)
+[having-made-own](ātmī+kṛtya) [and](ca) [element](bhūtattvaṃ) [everywhere](sarvatra) [unfailing](askhalitaṃ) [movement](gatim)
 
 ## mukta-m0-p31-v774
-[obtains](labhate) [eternal](nitya) [carefree](niściṃtaḥ) [movement](saṃcāraṃ) [yoga-power](yogamāyayā)
+[obtains](labhate) [eternal](nitya) [carefree](niściṃtaḥ) [movement](saṃcāraṃ) [by-yoga-māyā](yogamāyayā)
 
 ## mukta-m0-p31-v775
-[I-worship](arcayāmi) [your-limbs](bhavadgātra) [from-me](mataḥ) [accomplishment](siddhiṃ) [grant](prayacchame)
+[I-worship](arcayāmi) [your-limbs](bhavadgātra) [from-me](mataḥ) [success](siddhiṃ) [grant](prayaccha) [me](me)

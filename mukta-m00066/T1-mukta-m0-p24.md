@@ -2,64 +2,64 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p24-v576
-[bliss-deva](ānaṃdadeva) [worship-for](pūjārthaṃ) [fitness](yogyatvaṃ) [attains](pratipadyate)
+[bliss-god](ānaṃdadeva) [worship-purpose](pūjārthaṃ) [suitability](yogyatvaṃ) [obtains](pratipadyate)
 
 ## mukta-m0-p24-v577
-[worship-sequence](ārādhanakramaṃ) [and](cāśu) [linga-lord's](liṃgeśasya) [declares](bravīmite)
+[worship-method](ārādhanakramaṃ) [and](ca) [quickly](āśu) [of-linga-lord](liṃgeśasya) [is-spoken](bravīmite)
 
 ## mukta-m0-p24-v578
-[in-cakra](cakrasthāṃ) [lalita](lalitā) [goddess](devīm) [in-self](ātmanyud) [dwell](vāsayet) [beloved](priye)
+[in-wheel-situated](cakrasthāṃ) [lalita](lalitā) [goddess](devīm) [in-self](ātmanyud) [awaken](vāsayet) [beloved](priye)
 
 ## mukta-m0-p24-v579
-[upper-downward-lotus](uparyadhomukhāṃbhoja) [joined](saṃpuṭīkṛta) [pavilion](maṃṭape)
+[upper-lower-lotus](uparyadhomukhāṃbhoja) [joined](saṃpuṭīkṛta) [pavilion](maṃṭape)
 
 ## mukta-m0-p24-v580
 [supreme-nectar-stream](parāmṛtadhārābhirddhārāyaṃtramanohare)
 
 ## mukta-m0-p24-v581
-[enter](praveśayennijagṛhaṃ) [own-house](nijagṛhaṃ) [excellent-bliss-filled](prakṛṣṭānaṃdanirbharaḥ)
+[enter](praveśayet) [own-house](nijagṛhaṃ) [filled-with-excellent-bliss](prakṛṣṭānaṃdanirbharaḥ)
 
 ## mukta-m0-p24-v582
-[her](tasyā) [bliss-ray](evānaṃda) [kalā](kalāmanusaṃdadhadāśraye)
+[of-her](tasyā) [bliss-ray](evānaṃda) [kalā](kalāmanusaṃdadhadāśraye)
 
 ## mukta-m0-p24-v583
-[mudra-done](kṛtamudrā) [salutation](namaskāro) [sacrifice-king-house](yāgarājagṛhaṃ) [enter](viśet)
+[mudra-made](kṛtamudrā) [salutation](namaskāro) [worship-palace](yāgarājagṛhaṃ) [enters](viśet)
 
 ## mukta-m0-p24-v584
-[kadamba-nectar-lotus](kādaṃbarī) [rasa-lotus](rasāṃbhoja) [mixed-face-lotus](karaṃbitamukhāṃbujām)
+[kadamba-nectar-lotus](kādaṃbarī) [mixed](rasāṃbhoja) [lotus-faced](karaṃbitamukhāṃbujām)
 
 ## mukta-m0-p24-v585
-[on-bed](śayyāyāstu) [four-directions](caturdikṣu) [worship](yajeddevī) [fourfold](catuṣṭayam)
+[on-bed](śayyāyāstu) [four-directions](caturdikṣu) [worship](yajeddevī) [quartet](catuṣṭayam)
 
 ## mukta-m0-p24-v586
-[first-yellow](prathamāpītavarṇā) [second](dvitīyā) [dark-formed](śyāmalākṛtiḥ)
+[first-yellow](prathamāpītavarṇā) [second](syāt) [dark-formed](dvitīyā) [śyāmalākṛtiḥ]
 
 ## mukta-m0-p24-v587
-[bliss-lord-god's](ānaṃdanāthadevasya) [four](catasraḥ) [attendants](paricārikāḥ)
+[of-bliss-lord](ānaṃdanāthadevasya) [four](catasraḥ) [attendants](paricārikāḥ)
 
 ## mukta-m0-p24-v588
-[their](tāsāṃ) [mantra](maṃtreṇa) [own](naijena) [worship](pūjanaṃ) [declared](samudīritam)
+[of-them](tāsāṃ) [by-mantra](maṃtreṇa) [own](naijena) [worship](pūjanaṃ) [declared](samudīritam)
 
 ## mukta-m0-p24-v589
 [sandal](pādukāṃ) [worship](pūjayāmīti) [seven-syllabled](saptākṣaryā) [precious](mahārhayā)
 
 ## mukta-m0-p24-v590
-[these-mantras](etairmaṃtraiḥ) [delighted-self](prahṛṣṭātmā) [sandal-flowers-rice-etc](gaṃdhapuṣpākṣatādibhiḥ)
+[by-these-mantras](etairmaṃtraiḥ) [gladdened-self](prahṛṣṭātmā) [sandal-flowers-rice-etc](gaṃdhapuṣpākṣatādibhiḥ)
 
 ## mukta-m0-p24-v591
-[erotic-seat-mantra](śṛṃgārapīṭhikāmaṃtro) [to-be-combined](samūhyaḥ) [as-before](pūrvavatpriye)
+[erotic-pedestal-mantra](śṛṃgārapīṭhikāmaṃtro) [gathered](samūhyaḥ) [as-before](pūrvavatpriye)
 
 ## mukta-m0-p24-v592
-[seed-first](bījamādau) [then-eight-syllabled](tatoṣṭārṇaṃ) [middle](madhye) [name](nāma) [arrangement](prakalpanam)
+[seed](bījamādau) [then-eight-syllabled](tatoṣṭārṇaṃ) [middle](madhye) [name](nāma) [arrangement](prakalpanam)
 
 ## mukta-m0-p24-v593
-[everywhere-cakra-worship](sarvatracakrapūjāsu) [to-be-used](viniyojyā) [indeed](hi) [welfare](bhūtaye)
+[everywhere-wheel-worship](sarvatracakrapūjāsu) [to-be-used](viniyojyā) [indeed](hi) [welfare](bhūtaye)
 
 ## mukta-m0-p24-v594
 [five-desire-great-yantra](paṃcakāmamahāyaṃtraṃ) [meditating](bhāvayitvārccayennaraḥ)
 
 ## mukta-m0-p24-v595
-[then](tataḥ) [six-cornered](ṣaṭkoṇamālikhya) [blue-six](blūṣaṭkaṃ) [there](tatra) [draw](saṃlikhet)
+[then-six-cornered](tataḥ) [garland](ṣaṭkoṇamālikhya) [blue-six](blūṣaṭkaṃ) [there](tatra) [draw](saṃlikhet)
 
 ## mukta-m0-p24-v596
 [thus](evaṃ) [considering](viciṃtya) [that-yantra](tadyaṃtraṃ) [unrestrained](niryaṃtraṇa) [comfort-seat](sukhāspadam)
@@ -71,7 +71,7 @@
 [countless](asaṃkhyātā) [good-nadis](sunāḍīṣu) [those](ye) [blisses](cānaṃdāḥ) [declared](prakīrttitāḥ)
 
 ## mukta-m0-p24-v599
-[cupid-yantra-veda](kaṃdarpa) [by](yaṃtra) [born](jāyate) [divine-enjoyer](divyabhoginī)
+[cupid-yantra-veda](kaṃdarpa) [by](yaṃtra) [vedena](vedena) [arises](jāyate) [divine-enjoyer](divyabhoginī)
 
 ## mukta-m0-p24-v600
 [thus](iththaṃ) [by-her](tayā) [attained](samāsādya) [body-union-festival](gātrasaṃgamahotsavam)
