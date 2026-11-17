@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p100-v2476
-[neck](grīvāṃ) [bind](badhnīyāt) [thus](iti) [expectation](apekṣāyām) [says](āha) [power](śaktau) [red](raktam) [etc](ityādi)
+neck(acc) [grīvāṃ] should-bind(opt) [badhnīyāt] thus-in-expectation(loc) [ityapekṣāyām] says [āha] in-capability(loc) [śaktau] blood(nom) [raktam] etc [ityādi]
 
 ## mukta-m0-p100-v2477
-[nine](nava) [vessels](pātrāṇi) [arrange](vinyaset) [place](sthāpayet)
+nine [nava] vessels(acc) [pātrāṇi] should-place(opt) [vinyaset] should-establish(opt) [sthāpayet]
 
 ## mukta-m0-p100-v2478
-[silver](rājatam) [etc](ityādi) [great-conch](mahāśaṅkham) [skull-bowl](narakapālam)
+silver(nom) [rājatam] etc [ityādi] great-conch(nom) [mahāśaṅkhaṃ] human-skull-cup(nom) [naraka+pālam]
 
 ## mukta-m0-p100-v2479
-[power](śaktyā) [prepare](prakalpayet) [vessel](pātraṃ) [great-goddess](mahādevyāḥ) [worship](prapūjane)
+according-to-ability(inst) [śaktyā] should-arrange(opt) [prakalpayet] vessel(acc) [pātraṃ] of-great-goddess(gen) [mahādevyāḥ] in-worship(loc) [prapūjane]
 
 ## mukta-m0-p100-v2480
-[then](tataḥ) [nectar-filled](amṛtasampūrṇa) [pot](ghaṭam) [worship](abhyarcayet) [wise-one](sudhīḥ)
+then [tatas] nectar+filled [amṛta+sampūrṇa] pot(acc) [ghaṭam] should-worship(opt) [abhyarcayet] wise-one(nom) [sudhīḥ]
 
 ## mukta-m0-p100-v2481
-[seat-deities](pīṭhadevān) [worship](pūjayitvā) [six-limbs](ṣaḍaṅga) [nyāsa](nyāsam) [perform](ācaret)
+seat-deities(acc) [pīṭha+devān] having-worshiped(abs) [pūjayitvā] six-limb+placement(acc) [ṣaḍ+aṅga+nyāsam] should-perform(opt) [ācaret]
 
 ## mukta-m0-p100-v2482
-[own-power](svaśaktyā) [worship](pūjayet) [desired-one](iṣṭāṃ) [wealth-stinginess](vittaśāṭhyaṃ) [avoid](vivarjayet)
+with-own-ability(inst) [sva+śaktyā] should-worship(opt) [pūjayet] chosen-deity(acc) [iṣṭāṃ] wealth+deceit(acc) [vitta+śāṭhyaṃ] should-avoid(opt) [vivarjayet]
 
 ## mukta-m0-p100-v2483
-[flowers](puṣpa) [sandal](candana) [clothes](vāsobhiḥ) [worship](arcayet) [true-guru](sadguruḥ) [śiva](śive)
+with-flower+sandal+garments(inst) [puṣpa+candana+vāsobhis] should-worship(opt) [arcayet] true-guru(nom) [sad+guruḥ] in-Śiva(loc) [śive]
 
 ## mukta-m0-p100-v2484
-[full-abhiṣeka](pūrṇābhiṣeka) [rite](saṃskāre) [by-you](bhavadbhiḥ) [consent](anumanyatām)
+in-full-consecration+rite(loc) [pūrṇa+abhiṣeka+saṃskāre] by-you-honorable(inst) [bhavadbhis] should-be-consented(pass-opt) [anumanyatām]
 
 ## mukta-m0-p100-v2485
-[disciple](śiṣyo) [become](bhavatu) [full](pūrṇaḥ) [supreme-reality-devoted](paratattvaparāyaṇaḥ)
+disciple(nom) [śiṣyo] should-become(opt) [bhavatu] complete(nom) [pūrṇas] your(gen) [te] to-supreme-principle+devoted(nom) [para+tattva+parāyaṇaḥ]
 
 ## mukta-m0-p100-v2486
-[satisfy](pratarpayet) [previously-said](pūrvoktena) [that-mantra](tattanmantreṇa)
+should-satisfy(opt) [pratarpayet] with-previously-stated(inst) [pūrva+uktena] with-that-respective-mantra(inst) [tat+tat+mantreṇa]
 
 ## mukta-m0-p100-v2487
-[previously-said-mantra](pūrvoktamantreṇa) [all-beings](sarvabhūta) [offering](baliṃ) [give](haret+dadyāt)
+with-previously-stated-mantra(inst) [pūrva+ukta+mantreṇa] to-all-beings [sarva+bhūta] offering(acc) [baliṃ] should-take(opt) [haret] should-give(opt) [dadyāt]
 
 ## mukta-m0-p100-v2488
-[accomplish](sādhayitvā)
+having-accomplished(abs) [sādhayitvā]
 
 ## mukta-m0-p100-v2489
-[supreme-reality-devoted](paratattvaparāyaṇaḥ) [supreme-brahman-devoted](paraṃbrahmatatparaḥ)
+to-supreme-principle+devoted(nom) [paratattva+parāyaṇaḥ] to-supreme-brahman+intent(nom) [paraṃ+brahma+tatparaḥ]
 
 ## mukta-m0-p100-v2490
-[desire](kāmaṃ) [māyā](māyāṃ) [ramā](ramāṃ) [chant](japtvā) [shake](cālayet) [pure](vimalaṃ) [pot](ghaṭam)
+kāma(acc) [kāmaṃ] māyā(acc) [māyāṃ] ramā(acc) [ramāṃ] having-muttered(abs) [japtvā] should-move(opt) [cālayet] spotless(acc) [vimalaṃ] pot(acc) [ghaṭam]
 
 ## mukta-m0-p100-v2491
-[water-leaves](tvattoyapallavaiḥ) [sprinkled](siktaḥ) [disciple](śiṣyo) [brahman-devoted](brahmarataḥ) [be](astu) [me](me)
+by-your-water+sprouts(inst) [tvat+toya+pallavaiḥ] sprinkled(nom) [siktaḥ] disciple(nom) [śiṣyo] in-brahman+delighting(nom) [brahma+ratas] let-be(opt) [astu] my(gen) [me]
 
 ## mukta-m0-p100-v2492
-[mantras](mantraiḥ) [these](etaiḥ) [spoken](vakṣyamāṇaiḥ) [anoint](abhiṣiñcet) [compassionate](kṛpānvitaḥ)
+with-mantras(inst) [mantrais] with-these(inst) [etais] to-be-spoken(inst) [vakṣyamāṇais] should-sprinkle(opt) [abhiṣiñcet] compassion+endowed(nom) [kṛpā+anvitaḥ]
 
 ## mukta-m0-p100-v2493
-[auspicious-full-abhiṣeka](śubhapūrṇābhiṣeka) [purpose](arthe) [application](viniyogaḥ) [declared](prakīrtitaḥ)
+for-auspicious-full-consecration+purpose(loc) [śubha+pūrṇa+abhiṣeka+arthe] application(nom) [viniyogaḥ] is-declared(pres-pass) [prakīrtitaḥ]
 
 ## mukta-m0-p100-v2494
-[spoken-mantra](vakṣyamāṇamantreṇa) [pure](vimalaṃ) [pot](ghaṭaṃ) [shake](cālayet)
+with-to-be-spoken-mantra(inst) [vakṣyamāṇa+mantreṇa] spotless(acc) [vimalaṃ] pot(acc) [ghaṭaṃ] should-move(opt) [cālayet]
 
 ## mukta-m0-p100-v2495
-[pot-shaking-mantra](ghaṭacālanamantram) [thus](eva) [says](āha) [arise](uttiṣṭha) [etc](ādyam)
+pot-moving-mantra(acc) [ghaṭa+cālana+mantram] indeed [eva] says [āha] beginning-with-uttiṣṭha(acc) [uttiṣṭha+iti+ādyam]
 
 ## mukta-m0-p100-v2496
-[ṛṣi-nyāsa](ṛṣinyāso) [should-be-done](vidhātavyaḥ)
+sage+placement(nom) [ṛṣi+nyāso] to-be-performed(nom) [vidhātavyaḥ]
 
 ## mukta-m0-p100-v2497
-[durgā](durgā) [lakṣmī](lakṣmī) [bhavānī](bhavānyāḥ) [you](tvām) [anoint](abhiṣiñcantu) [mothers](mātaraḥ)
+Durgā+Lakṣmī+Bhavānī(nom) [durgā+lakṣmī+bhavānyas] you(acc) [tvām] let-consecrate(imp) [abhiṣiñcantu] mothers(nom) [mātaraḥ]
 
 ## mukta-m0-p100-v2498
-[these](etāḥ) [you](tvām) [anoint](abhiṣiñcantu) [mantra-purified](mantrapūtena) [water](vāriṇā)
+these(nom) [etās] you(acc) [tvām] let-consecrate(imp) [abhiṣiñcantu] with-mantra+purified(inst) [mantra+pūtena] with-water(inst) [vāriṇā]
 
 ## mukta-m0-p100-v2499
-[these](etāḥ) [you](tvām) [anoint](abhiṣiñcantu) [vagalā](vagalā) [boon-giving](varadā) [śivā](śivā)
+these(nom) [etās] you(acc) [tvām] let-consecrate(imp) [abhiṣiñcantu] Bagalā(nom) [vagalā] boon-giving(nom) [varadā] auspicious(nom) [śivā]
 
 ## mukta-m0-p100-v2500
-[indrāṇī](indrāṇī) [vāruṇī](vāruṇī) [raudrī](raudrī) [you](tvā) [anoint](abhiṣiñcantu) [powers](śaktayaḥ)
+Indrāṇī(nom) [indrāṇī] Vāruṇī(nom) [vāruṇī] Raudrī(nom) [raudrī] you(acc) [tvā'] let-consecrate(imp) [abhiṣiñcantu] powers(nom) [śaktayaḥ]

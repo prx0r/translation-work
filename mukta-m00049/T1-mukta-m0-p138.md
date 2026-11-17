@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p138-v3426
-[by-mantra](mantreṇa) [to-deity](devāya) [garment](vastre) [should-give](dadyāt)
+[with-mantra](mantreṇa) [to-the-god](devāya) [two-garments](vastre) [one-should-give](dadyāt)
 
 ## mukta-m0-p138-v3427
-[mantra](mantram) [says](āha) [viśvābharaṇa](viśvābharaṇa) [bhūtāya-iti](bhūtāyeti)
+[the-mantra](mantram) [he-says](āha) [viśvābharaṇa](viśvābharaṇa) [bhūtāya-iti](bhūtāyeti)
 
 ## mukta-m0-p138-v3428
-[to-him](tasmai) [supreme-self](parātmane) [to-you](tubhyaṃ) [supreme](paramaṃ) [fragrance](gandham) [I-offer](arpaye)
+[to-that](tasmai) [supreme-self](parātmane) [to-you](tubhyaṃ) [supreme](paramaṃ) [fragrance](gandham) [I-offer](arpaye)
 
 ## mukta-m0-p138-v3429
-[by-me](mayā) [offered](niveditaṃ) [with-devotion](bhaktyā) [flower-this](puṣpametat) [be-received](pragṛhyatām)
+[by-me](mayā) [offered](niveditaṃ) [with-devotion](bhaktyā) [flower](puṣpam) [this](etat) [may-be-accepted](pragṛhyatām)
 
 ## mukta-m0-p138-v3430
-[worthy-of-smelling](āghreyaḥ) [of-all-beings](sarvabhūtānāṃ) [incense](dhūpo) [for-nose](ghrāṇāya) [to-you](te) [is-offered](rpyate)
+[to-be-smelled](āghreyaḥ) [of-all-beings](sarva+bhūtānāṃ) [incense](dhūpaḥ) [for-the-nose](ghrāṇāya) [to-you](te) [is-offered](arpyate)
 
 ## mukta-m0-p138-v3431
-[with-external-internal-light](sabāhyābhyantarajyotirdīpo'yaṃ) [be-received](pratigṛhyatām)
+[with-external](sa+bāhya) [and-internal-light](abhyantara+jyotiḥ) [lamp](dīpaḥ) [this](ayam) [may-be-accepted](pratigṛhyatām)
 
 ## mukta-m0-p138-v3432
-[I-offer](nivedayāmi) [with-devotion](bhaktyā) [this](idaṃ) [accept](juṣāṇa) [supreme-lord](parameśvara)
+[I-offer](nivedayāmi) [with-devotion](bhaktyā) [this](idam) [enjoy](juṣāṇa) [O-supreme-lord](parama+īśvara)
 
 ## mukta-m0-p138-v3433
-[all-satisfaction-causing](sarvatṛptikaraṃ) [pure](svaccham) [I-offer](arpayāmi) [salutation-to-you](namo'stu) [to-you](te)
+[causing-all-satisfaction](sarva+tṛpti+karaṃ) [pure](svaccham) [I-offer](arpayāmi) [obeisance](namaḥ) [be](astu) [to-you](te)
 
 ## mukta-m0-p138-v3434
-[betel](tāmbūlaṃ) [again](punar) [rinsing](ācamyaṃ) [having-given](dattvā) [salutation](vandanam) [should-do](ācaret)
+[betel](tāmbūlaṃ) [again](punar) [sipping-water](ācamyaṃ) [having-given](dattvā) [salutation](vandanam) [one-should-perform](ācaret)
 
 ## mukta-m0-p138-v3435
-[fragrance](gandhaṃ) [should-give](dadyāt)
+[fragrance](gandhaṃ) [one-should-give](dadyāt) [to-the-god](devāya) [with-mantra](mantreṇa)
 
 ## mukta-m0-p138-v3436
-[by-mantra](mantreṇa) [to-deity](devāya) [flower](puṣpaṃ) [should-give](dadyāt)
+[with-puṣpam-iti-etc.](puṣpam+iti+ādinā) [mantra](mantreṇa) [to-the-god](devāya) [flower](puṣpaṃ) [one-should-give](dadyāt)
 
 ## mukta-m0-p138-v3437
-[by-mantra](mantreṇa) [to-deity](devāya) [incense](dhūpaṃ) [should-give](dadyāt)
+[with-mantra](mantreṇa) [to-the-god](devāya) [incense](dhūpaṃ) [one-should-give](dadyāt)
 
 ## mukta-m0-p138-v3438
-[by-mantra](suprakāśa-ityādimantreṇa) [to-deity](devāya) [lamp](dīpaṃ) [should-give](dadyāt)
+[with-suprakāśa-iti-etc.](suprakāśa+iti+ādi) [mantra](mantreṇa) [to-the-god](devāya) [lamp](dīpaṃ) [one-should-give](dadyāt)
 
 ## mukta-m0-p138-v3439
-[by-mantra](naivedyamityādinā) [to-deity](devāya) [food-offering](naivedyaṃ) [should-give](dadyāt)
+[with-naivedyam-iti-etc.](naivedyam+iti+ādinā) [to-the-god](devāya) [food-offering](naivedyaṃ) [one-should-give](dadyāt)
 
 ## mukta-m0-p138-v3440
-[should-give](dadyād) [or](vā) [separate-vessel](pṛthagādhāraṃ) [those-names](tattannāma) [reciting](samuccaran)
+[one-should-give](dadyāt) [or](vā) [separately](pṛthak) [a-support](ādhāraṃ) [each-its-name](tat+tat+nāma) [uttering](samuccaran)
 
 ## mukta-m0-p138-v3441
-[covered-house](sācchādanaṃ) [house](gṛhaṃ) [having-sprinkled](prokṣya) [should-read](paṭhed) [this](enaṃ) [with-folded-hands](kṛtāñjaliḥ)
+[with-a-cover](sa+ācchādanaṃ) [the-abode](gṛhaṃ) [having-sprinkled](prokṣya) [one-should-recite](paṭhet) [this](enam) [with-folded-hands](kṛta+añjaliḥ)
 
 ## mukta-m0-p138-v3442
-[in-deity-installation-gifts](devatāsthitidāneṣu) [like-sumeru](sumerusadṛśo) [be](bhava)
+[in-giving](dāneṣu) [the-abode](sthiti) [of-deities](devatā) [like-Mount-Meru](sumeru+sadṛśaḥ) [become](bhava)
 
 ## mukta-m0-p138-v3443
-[that](yat) [by-you](tvayā) [held](vidhṛto) [deity](devas) [therefore](tasmāt) [you](tvaṃ) [god-worshipped](suravanditaḥ)
+[because](yat) [by-you](tvayā) [is-supported](vidhṛtaḥ) [the-god](devaḥ) [therefore](tasmāt) [you](tvaṃ) [honored-by-gods](sura+vanditaḥ)
 
 ## mukta-m0-p138-v3444
-[of-māyā-held-body](māyavidhṛtadehasya) [of-that](tasya) [image](mūrter) [holding](vidhāraṇāt)
+[of-him-whose-body](māyā+vidhṛta+dehasya) [of-that](tasya) [of-the-form](mūrteḥ) [because-of-supporting](vidhāraṇāt) [you-are-honored](vanditaḥ)
 
 ## mukta-m0-p138-v3445
-[all-desires-giving](sarvakāmaprado) [having-become](bhūtvā) [peace](śāntiṃ) [to-me](me) [do](kuru) [to-you](te) [salutation](namaḥ)
+[granting-all-desires](sarva+kāma+pradaḥ) [having-become](bhūtvā) [peace](śāntiṃ) [for-me](me) [make](kuru) [to-you](te) [obeisance](namaḥ)
 
 ## mukta-m0-p138-v3446
-[of-self](ātmanaḥ) [desire](kāmam) [aiming](uddiśya) [should-give](dadyād) [to-deity](devāya) [sādhaka](sādhakaḥ)
+[of-oneself](ātmanaḥ) [desire](kāmam) [having-intended](uddiśya) [should-give](dadyāt) [to-the-god](devāya) [the-practitioner](sādhakaḥ)
 
 ## mukta-m0-p138-v3447
-[this](enaṃ) [which](kaṃ) [should-read](paṭed) [ityākāṅkṣāyām](ityākāṅkṣāyām) [says](āha) [geha-tvam-ityādi](geha tvamityādi)
+[this](enam) [which](kaṃ) [one-should-recite](paṭhet) [thus](iti) [in-expectation-of-inquiry](ākāṅkṣāyām) [he-says](āha) [geha-tvam-iti-etc.](geha+tvam+iti+ādi)
 
 ## mukta-m0-p138-v3448
-[in-belly](kukṣau) [in-belly](udare)
+[in-the-belly](kukṣau) [in-the-stomach](udare) [thus](iti) [explained](uktam)
 
 ## mukta-m0-p138-v3449
-[should-give](dadyāt)
+[one-should-give](dadyāt) [to-the-god](devāya) [with-devotion](bhaktyā) [the-offering](arghyam)
 
 ## mukta-m0-p138-v3450
-[accept](aṅgīkuru) [great-lord](maheśāna) [by-grace](kṛpayā) [be-present](sannidhīyatām)
+[accept](aṅgīkuru) [O-great-lord](mahā+īśāna) [by-compassion](kṛpayā) [be-present](sannidhīyatām)

@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p122-v3026
-[salutation](bhikṣavenamaḥ) [salutation](bhikṣurūpāyanamaḥ) [salutation](vipaṇāyanamaḥ)
+[to-the-mendicant](bhikṣave) [obeisance](namaḥ) [having-the-form-of-a-mendicant](bhikṣurūpāya) [obeisance](namaḥ) [to-the-trader](vipaṇāya) [obeisance](namaḥ)
 
 ## mukta-m0-p122-v3027
-[salutation](vajrahastāyanamaḥ) [salutation](viṣkambhinenamaḥ)
+[to-the-thunderbolt-handed](vajrahastāya) [obeisance](namaḥ) [to-viṣkambhin](viṣkambhine) [obeisance](namaḥ)
 
 ## mukta-m0-p122-v3028
-[salutation](camūstambhanāyanamaḥ) [salutation](vṛttāvṛttakarāyanamaḥ)
+[to-the-paralyzer-of-armies](camūstambhanāya) [obeisance](namaḥ) [to-the-maker-of-the-circular+and-non-circular](vṛttāvṛttakarāya) [obeisance](namaḥ)
 
 ## mukta-m0-p122-v3029
-[salutation](tālāyanamaḥ) [salutation](madhavenamaḥ) [salutation](madhukalocanāyanamaḥ)
+[to-the-palm-tree](tālāya) [obeisance](namaḥ) [to-madhu](madhave) [obeisance](namaḥ) [to-the-honey-eyed](madhukalocanāya) [obeisance](namaḥ)
 
 ## mukta-m0-p122-v3030
-[salutation](vācaspatyāyanamaḥ) [salutation](vājasanāyanamaḥ)
+[to-the-lord-of-speech](vācaspatyāya) [obeisance](namaḥ) [to-the-offerer-of-oblation](vājasanāya) [obeisance](namaḥ)
 
 ## mukta-m0-p122-v3031
-[salutation](āśramapūjitāyanamaḥ) [salutation](brahmacāriṇenamaḥ)
+[to-the-one-honored-in-the-stages-of-life](āśramapūjitāya) [obeisance](namaḥ) [to-the-celibate-student](brahmacāriṇe) [obeisance](namaḥ)
 
 ## mukta-m0-p122-v3032
-[salutation](lokacāriṇenamaḥ) [salutation](sarvacāriṇenamaḥ) [salutation](vicāravidenamaḥ)
+[to-the-world-wanderer](lokacāriṇe) [obeisance](namaḥ) [to-the-wanderer-in-all](sarvacāriṇe) [obeisance](namaḥ) [to-the-knower-of-inquiry](vicāravide) [obeisance](namaḥ)
 
 ## mukta-m0-p122-v3033
-[salutation](īśānāyanamaḥ) [salutation](īśvarāyanamaḥ) [salutation](kālāyanamaḥ)
+[to-īśāna](īśānāya) [obeisance](namaḥ) [to-the-lord](īśvarāya) [obeisance](namaḥ) [to-time](kālāya) [obeisance](namaḥ)
 
 ## mukta-m0-p122-v3034
-[salutation](niśācāriṇenamaḥ) [salutation](pinākadhṛṣenamaḥ) [salutation](nimittasthāyanamaḥ)
+[to-the-night-wanderer](niśācāriṇe) [obeisance](namaḥ) [to-the-bearer-of-pināka](pinākadhṛṣe) [obeisance](namaḥ) [to-the-one-abiding-in-signs](nimittasthāya) [obeisance](namaḥ)
 
 ## mukta-m0-p122-v3035
-[salutation](nimittāyanamaḥ) [salutation](nandayenamaḥ) [salutation](nandikarāyanamaḥ)
+[to-the-cause](nimittāya) [obeisance](namaḥ) [to-nanda](nandaye) [obeisance](namaḥ) [to-the-causer-of-joy](nandikarāya) [obeisance](namaḥ)
 
 ## mukta-m0-p122-v3036
-[salutation](harayenamaḥ) [salutation](nandīśvarāyanamaḥ) [salutation](nandinenamaḥ)
+[to-hara](haraye) [obeisance](namaḥ) [to-the-lord-of-nandin](nandīśvarāya) [obeisance](namaḥ) [to-nandin](nandine) [obeisance](namaḥ)
 
 ## mukta-m0-p122-v3037
-[salutation](nihantrenamaḥ) [salutation](kālāyanamaḥ) [salutation](brahmaṇenamaḥ)
+[to-the-destroyer](nihantrenamaḥ) [obeisance](namaḥ) [to-time](kālāya) [obeisance](namaḥ) [to-brahman](brahmaṇe) [obeisance](namaḥ)
 
 ## mukta-m0-p122-v3038
-[salutation](pitāmahāyanamaḥ) [salutation](caturmmukhāyanamaḥ)
+[to-the-grandfather](pitāmahāya) [obeisance](namaḥ) [to-the-four-faced](caturmmukhāya) [obeisance](namaḥ)
 
 ## mukta-m0-p122-v3039
-[salutation](mahāliṅgāyanamaḥ) [salutation](cāruliṅgāyanamaḥ)
+[to-the-great-liṅga](mahāliṅgāya) [obeisance](namaḥ) [to-the-beautiful-liṅga](cāruliṅgāya) [obeisance](namaḥ)
 
 ## mukta-m0-p122-v3040
-[salutation](liṅgādhyakṣāyanamaḥ) [salutation](surādhyakṣāyanamaḥ)
+[to-the-overseer-of-the-liṅga](liṅgādhyakṣāya) [obeisance](namaḥ) [to-the-overseer-of-the-gods](surādhyakṣāya) [obeisance](namaḥ)
 
 ## mukta-m0-p122-v3041
-[salutation](yogādhyakṣāyanamaḥ) [salutation](yugāvahāyanamaḥ)
+[to-the-overseer-of-yoga](yogādhyakṣāya) [obeisance](namaḥ) [to-the-bringer-of-the-age](yugāvahāya) [obeisance](namaḥ)
 
 ## mukta-m0-p122-v3042
-[salutation](bījādhyakṣāyanamaḥ) [salutation](bījakarttrenamaḥ)
+[to-the-overseer-of-the-seed](bījādhyakṣāya) [obeisance](namaḥ) [to-the-maker-of-the-seed](bījakarttrenamaḥ) [obeisance](namaḥ)
 
 ## mukta-m0-p122-v3043
-[salutation](adhyātmānugatāyanamaḥ) [salutation](balāyanamaḥ) [salutation](itihāsāyanamaḥ)
+[to-the-one-following-the-inner-self](adhyātmānugatāya) [obeisance](namaḥ) [to-strength](balāya) [obeisance](namaḥ) [to-tradition](itihāsāya) [obeisance](namaḥ)
 
 ## mukta-m0-p122-v3044
-[salutation](vaśyāyanamaḥ) [salutation](vaśakarāyanamaḥ) [salutation](kalayenamaḥ)
+[to-the-controllable](vaśyāya) [obeisance](namaḥ) [to-the-subduer](vaśakarāya) [obeisance](namaḥ) [to-the-digit](kalaye) [obeisance](namaḥ)
 
 ## mukta-m0-p122-v3045
-[salutation](lokakarttrenamaḥ) [salutation](paśupatayenamaḥ) [salutation](mahākarttrenamaḥ)
+[to-the-maker-of-the-world](lokakarttrenamaḥ) [obeisance](namaḥ) [to-the-lord-of-beings](paśupatayenamaḥ) [obeisance](namaḥ) [to-the-great-maker](mahākarttrenamaḥ) [obeisance](namaḥ)
 
 ## mukta-m0-p122-v3046
-[salutation](anauṣadhāyanamaḥ) [salutation](akṣarāyanamaḥ) [salutation](paramabrahmaṇenamaḥ)
+[to-the-one-without-herbs](anauṣadhāya) [obeisance](namaḥ) [to-the-imperishable](akṣarāya) [obeisance](namaḥ) [to-the-supreme-brahman](paramabrahmaṇenamaḥ) [obeisance](namaḥ)
 
 ## mukta-m0-p122-v3047
-[salutation](balavatenamaḥ) [salutation](śakrāyanamaḥ) [salutation](nītayenamaḥ)
+[to-the-powerful](balavatenamaḥ) [obeisance](namaḥ) [to-śakra](śakrāya) [obeisance](namaḥ) [to-conduct](nītaye) [obeisance](namaḥ)
 
 ## mukta-m0-p122-v3048
-[salutation](anītayenamaḥ) [salutation](śuddhātmanenamaḥ) [salutation](śuddhāyanamaḥ)
+[to-misconduct](anītaye) [obeisance](namaḥ) [to-the-pure-souled](śuddhātmanenamaḥ) [obeisance](namaḥ) [to-the-pure](śuddhāya) [obeisance](namaḥ)
 
 ## mukta-m0-p122-v3049
-[salutation](mānyāyanamaḥ) [salutation](gatāgatāyanamaḥ) [salutation](bahuprasādāyanamaḥ)
+[to-the-venerable](mānyāya) [obeisance](namaḥ) [to-the-one-gone+and-come](gatāgatāya) [obeisance](namaḥ) [to-the-one-of-many-favors](bahuprasādāya) [obeisance](namaḥ)
 
 ## mukta-m0-p122-v3050
-[salutation](vedakārāyanamaḥ) [salutation](mantrakārāyanamaḥ) [salutation](viduṣenamaḥ)
+[to-the-maker-of-the-veda](vedakārāya) [obeisance](namaḥ) [to-the-maker-of-mantras](mantrakārāya) [obeisance](namaḥ) [to-the-wise](viduṣe) [obeisance](namaḥ)

@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p125-v3101
-[anukāriṇe-namaḥ](anukāriṇenamaḥ) [subāndhavāya-namaḥ](subāndhavāyanamaḥ) [tumbavīṇāya-namaḥ](tumbavīṇāyanamaḥ)
+[imitator](anukāriṇe) [obeisance](namaḥ) [good-relative](subāndhavāya) [obeisance](namaḥ) [gourd-lute](tumbavīṇāya) [obeisance](namaḥ)
 
 ## mukta-m0-p125-v3102
-[mahākrodhāya-namaḥ](mahākrodhāyanamaḥ) [ūrddhvaretase-namaḥ](ūrddhvaretasenamaḥ)
+[great-anger](mahākrodhāya) [obeisance](namaḥ) [upward-semen](ūrddhvaretase) [obeisance](namaḥ)
 
 ## mukta-m0-p125-v3103
-[jaleśāya-namaḥ](jaleśāyanamaḥ) [ugrāya-namaḥ](ugrāyanamaḥ) [vaṃśakarāya-namaḥ](vaṃśakarāyanamaḥ)
+[water-lord](jaleśāya) [obeisance](namaḥ) [fierce](ugrāya) [obeisance](namaḥ) [bamboo-maker](vaṃśakarāya) [obeisance](namaḥ)
 
 ## mukta-m0-p125-v3104
-[vaṃśāya-namaḥ](vaṃśāyanamaḥ) [vaṃśanādāya-namaḥ](vaṃśanādāyanamaḥ) [aninditāya-namaḥ](aninditāyanamaḥ)
+[bamboo](vaṃśāya) [obeisance](namaḥ) [bamboo-sound](vaṃśanādāya) [obeisance](namaḥ) [blameless](aninditāya) [obeisance](namaḥ)
 
 ## mukta-m0-p125-v3105
-[sarvāṅgarūpāya-namaḥ](sarvāṅgarūpāyanamaḥ) [māyāvine-namaḥ](māyāvinenamaḥ)
+[all-limb-form](sarvāṅgarūpāya) [obeisance](namaḥ) [possessor-of-magic](māyāvine) [obeisance](namaḥ)
 
 ## mukta-m0-p125-v3106
-[suhṛdāya-namaḥ](suhṛdāyanamaḥ) [anilāya-namaḥ](anilāyanamaḥ) [analāya-namaḥ](analāyanamaḥ)
+[good-hearted](suhṛdāya) [obeisance](namaḥ) [wind](anilāya) [obeisance](namaḥ) [fire](analāya) [obeisance](namaḥ)
 
 ## mukta-m0-p125-v3107
-[bandhanāya-namaḥ](bandhanāyanamaḥ) [bandhakartre-namaḥ](bandhakartrenamaḥ)
+[bondage](bandhanāya) [obeisance](namaḥ) [bond-maker](bandhakartre) [obeisance](namaḥ)
 
 ## mukta-m0-p125-v3108
-[subandhanavimocanāya-namaḥ](subandhanavimocanāyanamaḥ) [sayajñāraye-namaḥ](sayajñārayenamaḥ)
+[good-bond-release](subandhanavimocanāya) [obeisance](namaḥ) [with-sacrifice-foe](sayajñāraye) [obeisance](namaḥ)
 
 ## mukta-m0-p125-v3109
-[sakāmāraye-namaḥ](sakāmārayenamaḥ) [mahādaṃṣṭrāya-namaḥ](mahādaṃṣṭrāyanamaḥ)
+[with-desire-foe](sakāmāraye) [obeisance](namaḥ) [great-tusked](mahādaṃṣṭrāya) [obeisance](namaḥ)
 
 ## mukta-m0-p125-v3110
-[amareśāya-namaḥ](amareśāyanamaḥ) [mahādevāya-namaḥ](mahādevāyanamaḥ)
+[immortal-lord](amareśāya) [obeisance](namaḥ) [great-god](mahādevāya) [obeisance](namaḥ)
 
 ## mukta-m0-p125-v3111
-[viśvadevāya-namaḥ](viśvadevāyanamaḥ) [surārighne-namaḥ](surārighnenamaḥ) [ahirbbudhnyāya-namaḥ](ahirbbudhnyāayanamaḥ)
+[all-god](viśvadevāya) [obeisance](namaḥ) [god-enemy-slayer](surārighne) [obeisance](namaḥ) [serpent-of-the-depths](ahirbbudhnyāaya) [obeisance](namaḥ)
 
 ## mukta-m0-p125-v3112
-[anilābhāya-namaḥ](anilābhāyanamaḥ) [cekitāya-namaḥ](cekitāyanamaḥ) [haviṣe-namaḥ](haviṣenamaḥ)
+[wind-luster](anilābhāya) [obeisance](namaḥ) [shining](cekitāya) [obeisance](namaḥ) [oblation](haviṣe) [obeisance](namaḥ)
 
 ## mukta-m0-p125-v3113
-[ajaikapade-namaḥ](ajaikapadenamaḥ) [kapāline-namaḥ](kapālinenamaḥ) [triśaṅkave-namaḥ](triśaṅkavenamaḥ)
+[unborn-one-foot](ajaikapade) [obeisance](namaḥ) [skull-bearer](kapāline) [obeisance](namaḥ) [Triśaṅku](triśaṅkave) [obeisance](namaḥ)
 
 ## mukta-m0-p125-v3114
-[ajitāya-namaḥ](ajitāyanamaḥ) [śivāya-namaḥ](śivāyanamaḥ)
+[unconquered](ajitāya) [obeisance](namaḥ) [auspicious](śivāya) [obeisance](namaḥ)
 
 ## mukta-m0-p125-v3115
-[dhanvantaraye-namaḥ](dhanvantarayenamaḥ) [dhūmaketave-namaḥ](dhūmaketavenamaḥ)
+[Dhanvantari](dhanvantaraye) [obeisance](namaḥ) [smoke-banner](dhūmaketave) [obeisance](namaḥ)
 
 ## mukta-m0-p125-v3116
-[skandāya-namaḥ](skandāyanamaḥ) [vaiśravaṇāya-namaḥ](vaiśravaṇāyanamaḥ) [dhātre-namaḥ](dhātrenamaḥ)
+[Skanda](skandāya) [obeisance](namaḥ) [Vaiśravaṇa](vaiśravaṇāya) [obeisance](namaḥ) [supporter](dhātre) [obeisance](namaḥ)
 
 ## mukta-m0-p125-v3117
-[śakrāya-namaḥ](śakrāyanamaḥ) [viṣṇave-namaḥ](viṣṇavenamaḥ) [mitrāya-namaḥ](mitrāyanamaḥ)
+[Śakra](śakrāya) [obeisance](namaḥ) [Viṣṇu](viṣṇave) [obeisance](namaḥ) [Mitra](mitrāya) [obeisance](namaḥ)
 
 ## mukta-m0-p125-v3118
-[tvaṣṭre-namaḥ](tvaṣṭrenamaḥ) [dhruvāya-namaḥ](dhruvāyanamaḥ) [dharāya-namaḥ](dharāyanamaḥ)
+[Tvaṣṭṛ](tvaṣṭre) [obeisance](namaḥ) [firm](dhruvāya) [obeisance](namaḥ) [supporter](dharāya) [obeisance](namaḥ)
 
 ## mukta-m0-p125-v3119
-[prabhāvāya-namaḥ](prabhāvāyanamaḥ) [sarvagave-namaḥ](sarvagavenamaḥ) [aryamṇe-namaḥ](aryamṇenamaḥ)
+[majesty](prabhāvāya) [obeisance](namaḥ) [all-going](sarvagave) [obeisance](namaḥ) [Aryaman](aryamṇe) [obeisance](namaḥ)
 
 ## mukta-m0-p125-v3120
-[savitre-namaḥ](savitrenamaḥ) [ravaye-namaḥ](ravayenamaḥ) [uṣaṅgave-namaḥ](uṣaṅgavenamaḥ)
+[Savitṛ](savitre) [obeisance](namaḥ) [sun](ravaye) [obeisance](namaḥ) [dawn-ray](uṣaṅgave) [obeisance](namaḥ)
 
 ## mukta-m0-p125-v3121
-[vidhātre-namaḥ](vidhātrenamaḥ) [māndhātre-namaḥ](māndhātrenamaḥ) [bhūtabhāvanāya-namaḥ](bhūtabhāvanāyanamaḥ)
+[ordainer](vidhātre) [obeisance](namaḥ) [Māndhātṛ](māndhātre) [obeisance](namaḥ) [being-nourisher](bhūtabhāvanāya) [obeisance](namaḥ)
 
 ## mukta-m0-p125-v3122
-[vibhave-namaḥ](vibhavenamaḥ) [varṇavibhāvine-namaḥ](varṇavibhāvinenamaḥ)
+[mighty](vibhave) [obeisance](namaḥ) [color-manifesting](varṇavibhāvine) [obeisance](namaḥ)
 
 ## mukta-m0-p125-v3123
-[sarvakāmaguṇāvahāya-namaḥ](sarvakāmaguṇāvahāyanamaḥ) [padmanābhāya-namaḥ](padmanābhāyanamaḥ)
+[all-desire-quality-bringer](sarvakāmaguṇāvahāya) [obeisance](namaḥ) [lotus-naveled](padmanābhāya) [obeisance](namaḥ)
 
 ## mukta-m0-p125-v3124
-[mahāgarbbhāya-namaḥ](mahāgarbbhāyanamaḥ) [candravaktrāya-namaḥ](candravaktrāyanamaḥ) [anilāya-namaḥ](anilāyanamaḥ)
+[great-womb](mahāgarbbhāya) [obeisance](namaḥ) [moon-faced](candravaktrāya) [obeisance](namaḥ) [wind](anilāya) [obeisance](namaḥ)
 
 ## mukta-m0-p125-v3125
-[analāya-namaḥ](analāyanamaḥ) [balavate-namaḥ](balavatenamaḥ) [upaśāntāya-namaḥ](upaśāntāyanamaḥ)
+[fire](analāya) [obeisance](namaḥ) [powerful](balavatenamaḥ) [obeisance](upaśāntāya) [obeisance](namaḥ)
