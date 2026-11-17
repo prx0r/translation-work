@@ -8,10 +8,10 @@
 "tokens": [
 {
 "surface": "calanāt",
-"quick_gloss": "motion"
+"quick_gloss": "movement"
 },
 {
-"surface": "moharūpasya",
+"surface": "moha-rūpasya",
 "quick_gloss": "delusion-form"
 },
 {
@@ -19,7 +19,7 @@
 "quick_gloss": "progression"
 },
 {
-"surface": "parasaṃvidaḥ",
+"surface": "para-saṃvidaḥ",
 "quick_gloss": "supreme-consciousness"
 }
 ]
@@ -82,12 +82,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "kāmasaṃsargataḥ",
+"surface": "kāmasaṃsarga",
 "quick_gloss": "desire-contact"
 },
 {
 "surface": "tasya",
-"quick_gloss": "its"
+"quick_gloss": "from-that"
 },
 {
 "surface": "pratyāvṛttyā",
@@ -108,19 +108,23 @@
 "tokens": [
 {
 "surface": "viṣayābhoganirjñāta",
-"quick_gloss": "object-enjoyment-knowledge"
+"quick_gloss": "object-enjoyment-recognition"
 },
 {
 "surface": "nirvikalpe",
-"quick_gloss": "thought-free"
+"quick_gloss": "nirvikalpa"
 },
 {
 "surface": "api",
-"quick_gloss": "even"
+"quick_gloss": "also"
 },
 {
-"surface": "yat sphuṭam",
+"surface": "yat",
 "quick_gloss": "clear"
+},
+{
+"surface": "sphuṭam",
+"quick_gloss": "manifest"
 }
 ]
 },
@@ -169,8 +173,12 @@
 "quick_gloss": "occasion"
 },
 {
+"surface": "hi",
+"quick_gloss": "indeed"
+},
+{
 "surface": "udayādikam",
-"quick_gloss": "rise-etc"
+"quick_gloss": "rising-etc"
 }
 ]
 },
@@ -207,16 +215,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "samāśritya",
-"quick_gloss": "resorting"
-},
-{
 "surface": "pūrvaṃ",
-"quick_gloss": "before"
+"quick_gloss": "prior"
 },
 {
 "surface": "pīṭhakramātmanā",
 "quick_gloss": "seat-progression-self"
+},
+{
+"surface": "samāśritya",
+"quick_gloss": "resorting"
 }
 ]
 },
@@ -245,7 +253,7 @@
 },
 {
 "surface": "pratipāditam",
-"quick_gloss": "explained"
+"quick_gloss": "taught"
 }
 ]
 },
@@ -295,7 +303,7 @@
 },
 {
 "surface": "api",
-"quick_gloss": "even"
+"quick_gloss": "also"
 },
 {
 "surface": "jñānamelāpalakṣaṇe",
@@ -353,11 +361,11 @@
 },
 {
 "surface": "grāsapravṛttena",
-"quick_gloss": "grasping-progression"
+"quick_gloss": "grasping-activity"
 },
 {
 "surface": "kriyāveśena",
-"quick_gloss": "action-entry"
+"quick_gloss": "action-immersion"
 },
 {
 "surface": "tattvataḥ",
@@ -436,7 +444,7 @@
 },
 {
 "surface": "sphuṭam",
-"quick_gloss": "clearly"
+"quick_gloss": "clear"
 }
 ]
 },
@@ -608,7 +616,7 @@
 "tokens": [
 {
 "surface": "mananatrāṇadharmābhyāṃ",
-"quick_gloss": "thinking-protection-dharmas"
+"quick_gloss": "thinking-protection-dharma"
 },
 {
 "surface": "mantrasiddhamayātmatām",

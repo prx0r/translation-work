@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p04-v76
-[bodha-avyakti-bhūmitayā](bodhavyaktibhūmitayā) [paśoḥ](paśoḥ)
+[by-manifestation-ground-of-knowledge](bodhavyaktibhūmitayā) [of-bound-soul](paśoḥ) [thus](iti)
 
 ## mukta-m0-p04-v77
-[icchā-saṃrambha-bodha-ākhyāḥ](icchāsaṃrambhabodhākhyāḥ) [tena](tena) [antaḥkaraṇa](antaḥkaraṇa) [tridhā](tridhā)
+[desire-effort-knowledge-called](icchāsaṃrambhabodhākhyāḥ) [by-that](tena) [internal-organ](antaḥkaraṇam) [threefold](tridhā)
 
 ## mukta-m0-p04-v78
-[vṛttayaḥ](vṛttayo) [bhinna-arthatvāt](bhinnārthatvād) [bhinna-kāraṇāḥ](bhinnakāraṇā) [iti](iti) [bhāvaḥ](bhāvaḥ)
+[functions](vṛttayaḥ) [because-of-different-meanings](bhinnārthatvāt) [different-causes](bhinnakāraṇāḥ) [thus](iti) [meaning](bhāvaḥ)
 
 ## mukta-m0-p04-v79
-[buddhiḥ](buddhiś) [ca](cāpi) [api](api) [hy-asaṃvedyā](hyasaṃvedyā) [dhanyā](dhanyā) [tārkika-tā](tārkikatā) [tava](tava)
+[intellect-also-indeed](buddhiścāpi) [not-perceived](hyasaṃvedyā) [fortunate](dhanyā) [logician-ness](tārkikatā) [your](tava)
 
 ## mukta-m0-p04-v80
-[viṣaya-adhyavasāya-hetutvāt](viṣayādhyavasāyahetutvāt) [siddham](siddham) [iti](ityuktam) [uktam](uktam)
+[because-of-being-cause-of-determination-of-object](viṣayādhyavasāyahetutvāt) [established](siddham) [thus](iti) [said](uktam)
 
 ## mukta-m0-p04-v81
-[bhogyaṃ](bhogyaṃ) [vinā](vinā) [na](na) [bhogaḥ](bhogo) [asti](asti) [iti](ityato) [ato](ato) [bhogasya](bhogasya) [sādhanam](sādhanam)
+[enjoyable](bhogyaṃ) [without](vinā) [no](na) [enjoyment](bhogaḥ) [exists](asti) [therefore](ityataḥ) [of-enjoyment](bhogasya) [means](sādhanam)
 
 ## mukta-m0-p04-v82
-[sukha-ādi-adhyavasāyasya](sukhādyadhyavasāyasyāpi) [api](api) [sādhanam](sādhanam) [iṣyate](iṣyate)
+[of-determination-of-pleasure-etc](sukhādyadhyavasāyasya) [also](api) [means](sādhanam) [is-desired](iṣyate)
 
 ## mukta-m0-p04-v83
-[prayuṅkte](prayuṅkte) [mahat-ādīni](mahadādīni) [bodha-ādi-artham](bodhādyarthamaṇustathā) [aṇuḥ](aṇuḥ) [tathā](tathā)
+[employs](prayuṅkte) [mahat-etc](mahadādīni) [for-knowledge-etc-purpose](bodhādyartham) [atom](aṇuḥ) [thus](tathā)
 
 ## mukta-m0-p04-v84
-[buddhi-ādi-saṃsthe](buddhyādisaṃsthe) [bodha-ādau](bodhādau) [puṃsaḥ](puṃsaḥ) [kartṛtvam](kartṛtvam) [iṣyate](iṣyate)
+[in-intellect-etc-situated](buddhyādisaṃsthe) [in-knowledge-etc](bodhādau) [of-person](puṃsaḥ) [agency](kartṛtvam) [is-desired](iṣyate)
 
 ## mukta-m0-p04-v85
-[sādhanam](sādhanaṃ) [vijayasya](vijayasyeṣṭāstathaiva) [iṣṭāḥ](iṣṭāḥ) [tathā](tathā) [eva](eva) [mahat-ādayaḥ](mahadādayaḥ)
+[means](sādhanaṃ) [of-victory](vijayasya) [desired](iṣṭāḥ) [thus-also](tathaiva) [mahat-etc](mahadādayaḥ)
 
 ## mukta-m0-p04-v86
-[tataḥ](tato) [bodha-ādi-vṛttīnām](bodhādivṛttīnāṃ) [sādhanam](sādhanam) [mahat-ādayaḥ](mahadādayaḥ)
+[therefore](tataḥ) [of-knowledge-etc-functions](bodhādivṛttīnām) [means](sādhanaṃ) [mahat-etc](mahadādayaḥ)
 
 ## mukta-m0-p04-v87
-[bauddhaḥ](bauddho) [bodhaḥ](bodhaḥ) [param](param) [bhogyaṃ](bhogyaṃ) [māyā-ādi](māyādi) [ca](ca) [tad-arthataḥ](tadarthataḥ)
+[intellectual](bauddhaḥ) [knowledge](bodhaḥ) [supreme](param) [enjoyable](bhogyaṃ) [māyā-etc](māyādi) [and](ca) [for-that-purpose](tadarthataḥ)
 
 ## mukta-m0-p04-v88
-[tvāt](tvāt) [paramparayā](paramparayā) [bhogyam](bhogyam) [iti](iti)
+[from-that](tvāt) [by-succession](paramparayā) [enjoyable](bhogyam) [thus](iti)
 
 ## mukta-m0-p04-v89
-[tamas-rajas-sattva-mayam](tamorajaḥsattvamayaṃ) [rūpam](rūpaṃ) [tat-karma-jam](tatkarmajaṃ) [matau](matau)
+[made-of-tamas-rajas-sattva](tamorajaḥsattvamayam) [form](rūpaṃ) [born-of-that-action](tatkarmajaṃ) [in-opinion](matau)
 
 ## mukta-m0-p04-v90
-[paṭa-ādi-bodhau](paṭādibodhāvaitatyādātmano) [aitatyāt](aitatyāt) [ātmanaḥ](ātmano) [na](na) [guṇāḥ](guṇā) [guṇāḥ](guṇāḥ)
+[from-non-eternality-of-cloth-etc-knowledge](paṭādibodhāvaitatyāt) [of-self](ātmanaḥ) [not](na) [qualities](guṇāḥ) [qualities](guṇāḥ)
 
 ## mukta-m0-p04-v91
-[prākṛtaḥ](prākṛto) [deha-saṃyoge](dehasaṃyoge) [vyaktaḥ](vyaktaḥ) [svapna-ādi-bodhavat](svapnādibodhavat)
+[material](prākṛtaḥ) [in-body-union](dehasaṃyoge) [manifest](vyaktaḥ) [like-dream-knowledge](svapnādibodhavat) [thus](iti)
 
 ## mukta-m0-p04-v92
-[svargaḥ](svargo) [muktiḥ](muktiḥ) [prakṛti-bhāvaḥ](prakṛtibhāvo) [vighātaḥ](vighātaś) [ca](ca) [phalāni](phalāni) [ca](ca)
+[heaven](svargaḥ) [liberation](muktiḥ) [nature-state](prakṛtibhāvaḥ) [obstruction](vighātaḥ) [and](ca) [fruits](phalāni) [and](ca)
 
 ## mukta-m0-p04-v93
-[vaśi-ūrdhva-sthitiḥ](vaśyordhvasthitiḥ) [sat-dṛṣṭi-bhṛttvam](saddṛṣṭibhṛttvaṃ) [bhoga-aspṛhā](bhogāspṛhā) [phalam](phalam)
+[subjugation-upward-staying](vaśyordhvasthitiḥ) [true-view-bearing](saddṛṣṭibhṛttvam) [disgust-for-enjoyment](bhogāspṛhā) [fruit](phalam)
 
 ## mukta-m0-p04-v94
-[vinaya-prākṛte](vinayaprākṛte) [rūpe](rūpe) [pūrva-ukta-phala-saṃgrahaḥ](pūrvoktaphalasaṃgrahaḥ)
+[in-humble-material](vinayaprākṛte) [form](rūpe) [collection-of-previously-stated-fruits](pūrvoktaphalasaṃgrahaḥ)
 
 ## mukta-m0-p04-v95
-[rāga-mātra-anulipta-aṅgāt](rāgamātrānuliptāṅgād) [dharma-ādi-samudāyataḥ](dharmādisamudāyataḥ)
+[from-limb-smeared-with-passion-only](rāgamātrānuliptāṅgāt) [from-aggregate-of-dharma-etc](dharmādisamudāyataḥ)
 
 ## mukta-m0-p04-v96
-[tuṣṭiḥ](tuṣṭiḥ) [kṛtārtha-vijñānam](kṛtārthavijñānamanayā) [anayā](anayā) [ātma-grahe](ātmagrahe) [sati](sati)
+[satisfaction](tuṣṭiḥ) [knowledge-of-accomplished-aim](kṛtārthavijñānam) [by-this](anayā) [in-grasping-self](ātmagrahe) [being](sati)
 
 ## mukta-m0-p04-v97
-[kṛtārthaḥ](kṛtārtho) [asmi](asmi) [iti](iti) [yā](yā) [matiḥ](matiḥ)
+[accomplished-aim](kṛtārthaḥ) [I-am](asmi) [thus](iti) [which](yā) [opinion](matiḥ) [thus](iti)
 
 ## mukta-m0-p04-v98
-[aśaktiḥ](aśaktirdevavaikalyādasāmarthyaṃ) [deva-vaikalyāt](devavaikalyād) [asāmarthyam](asāmarthyaṃ) [śubha-ādiṣu](śubhādiṣu)
+[incapacity](aśaktiḥ) [divine-deficiency](devavaikalyāt) [inability](asāmarthyam) [in-auspicious-etc](śubhādiṣu)
 
 ## mukta-m0-p04-v99
-[rājasya](rājasyapi) [api](api) [guṇaḥ](guṇo) [dṛṣṭaḥ](dṛṣṭaḥ) [kārye](kārye) [kāraṇa-saṃśrayaḥ](kāraṇasaṃśrayaḥ)
+[of-rajas](rājasya) [also](api) [quality](guṇaḥ) [seen](dṛṣṭaḥ) [in-effect](kārye) [dependence-on-cause](kāraṇasaṃśrayaḥ) [thus](iti)
 
 ## mukta-m0-p04-v100
-[īṣat](īṣad) [dharma-ādi-saṃpṛktāt](dharmādisaṃpṛktādabhivyakto) [abhivyaktaḥ](abhivyakto) [viparyayaḥ](viparyayaḥ)
+[slightly](īṣat) [from-mixed-with-dharma-etc](dharmādisaṃpṛktāt) [manifested](abhivyaktaḥ) [inversion](viparyayaḥ)

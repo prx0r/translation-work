@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p06-v126
-[could-arise](sambhaveyuḥ) [how](kathaṃ) [there](tatra) [without-conceptualization+established-dual](nirvikalpapratiṣṭhitau)
+[sambhaveyuḥ](sambhaveyuḥ) [katham](kathaṃ) [tatra](tatra) [nirvikalpa-pratiṣṭhitau](nirvikalpapratiṣṭhitau)
 
 ## mukta-m0-p06-v127
-[from-contradiction](virodhāt) [then+oneness](tāvadekatvaṃ) [would-be](syājjaḍājaḍayoḥ) [of-inert+non-inert](jaḍājaḍayoḥ) [how](katham)
+[virodhāt](virodhāt) [tāvat](tāvat) [ekatvaṃ](ekatvaṃ) [syāt](syāt) [jaḍa-ajaḍayoḥ](jaḍājaḍayoḥ) [katham](katham)
 
 ## mukta-m0-p06-v128
-[with-limbs](sāṅgaś) [and](cā) [other+appearance+dependent](nyaprathādhīno) [even](pyabhyāsastāttviko) [practice](abhyāsastāttviko) [real](tāttviko) [considered](mataḥ)
+[sāṅgaḥ](sāṅgaś) [ca](cā) [anya-prathā-adhīnaḥ](anyaprathādhīno) [api](apy) [abhyāsaḥ](abhyāsastāttviko) [tāttvikaḥ](abhyāsastāttviko) [mataḥ](mataḥ)
 
 ## mukta-m0-p06-v129
-[from-one+many+nature-ness](ekānekasvabhāvatvāt) [nature](svabhāvo) [not](na) [is-restrained](nirudhyate)
+[eka-aneka-svabhāvatvāt](ekānekasvabhāvatvāt) [svabhāvaḥ](svabhāvo) [na](na) [nirudhyate](nirudhyate)
 
 ## mukta-m0-p06-v130
-[that](tat) [self+established+light](svasiddhaprakāśo) [other+duality+state+causality](nyavya) [would-attain](vasthāhetutāmiyāt)
+[tat](tat) [sva-siddha-prakāśaḥ](svasiddhaprakāśo) [anya-vya-vasthā-hetutām](anyavya(-śo'nyadvaya)vasthāhetutāmiyāt) [iyāt](anyavya(-śo'nyadvaya)vasthāhetutāmiyāt)
 
 ## mukta-m0-p06-v131
-[then](tato) [red+water+analogy](raktodakanyāyo) [inapplicable](saṅgato) [here](tra) [how](kathaṃ) [would-be](bhavet)
+[tataḥ](tato) [rakta-udaka-nyāyaḥ](raktodakanyāyo) [asaṅgataḥ](asaṅgato) [atra](atra) [katham](kathaṃ) [bhavet](bhavet)
 
 ## mukta-m0-p06-v132
-[appearance+disappearance](ābhāsavigamāt) [from-pure](dacchān) [liberation-born](muktibhūtā) [appearance](prathā) [would-be](bhavet)
+[ābhāsa-vigamāt](ābhāsavigamāt) [acchāt](acchānmuktibhūtā) [mukti-bhūtā](acchānmuktibhūtā) [prathā](prathā) [bhavet](bhavet)
 
 ## mukta-m0-p06-v133
-[*](*) [*](*) [*](*) [*](*) [*](*) [*](*) [*](*) [*](*) [illusion+appearance+establishment](māyābhāsapratiṣṭhiteḥ)
+[māyā-ābhāsa-pratiṣṭhiteḥ](māyābhāsapratiṣṭhiteḥ)
 
 ## mukta-m0-p06-v134
-[light+disappearance](prakāśavigame) [even](pi) [would-be](syād) [whose+cause](yaddhetor) [latent-impression+destruction](vāsanākṣayaḥ)
+[prakāśa-vigame](prakāśavigame) [api](pi) [syāt](syād) [yat-hetoḥ](yaddhetorvāsanākṣayaḥ) [vāsanā-kṣayaḥ](yaddhetorvāsanākṣayaḥ)
 
 ## mukta-m0-p06-v135
-[not](nasva) [self+attained](prāptāsya) [conceptual+own+cause](vikalasvahetor) [non-cessation](avirāmataḥ)
+[na](nasvaprāptāsya) [sva-prāptāsya](nasvaprāptāsya) [vikala-sva-hetoḥ](vikalasvahetoravirāmataḥ) [avirāmataḥ](vikalasvahetoravirāmataḥ)
 
 ## mukta-m0-p06-v136
-[not](na) [that](tat) [omniscience+ness+seed](sarvajñatābījaṃ) [by-reasoning](yuktitaḥ) [culminates](paryavasyati)
+[na](na) [tat](tat) [sarvajñatā-bījam](sarvajñatābījaṃ) [yuktitaḥ](yuktitaḥ) [paryavasyati](paryavasyati)
 
 ## mukta-m0-p06-v137
-[identity](tādātmye) [even](pi) [how](kathaṃ) [indeed](nāma) [establishment](pratiṣṭhām) [attains](adhigacchati)
+[tādātmye](tādātmye) [api](pi) [katham](kathaṃ) [nāma](nāma) [pratiṣṭhām](pratiṣṭhāmadhigacchati) [adhigacchati](pratiṣṭhāmadhigacchati)
 
 ## mukta-m0-p06-v138
-[that+limitation](tadupādhiṃ) [toward](prati) [how](kathaṃ) [by-measure](mātrayā) [even](pi) [spreads](prasarpati)
+[tat-upādhim](tadupādhiṃ) [prati](prati) [katham](kathaṃ) [mātrayā](mātrayāpi) [api](mātrayāpi) [prasarpati](prasarpati)
 
 ## mukta-m0-p06-v139
-[experience+vessel](pratītibhājanaṃ) [just-as](yadvan) [jewel+silver+etc](maṇiraupyādikair) [enough](alam)
+[pratīti-bhājanam](pratītibhājanaṃ) [yadvat](yadvanmaṇiraupyādikairalam) [maṇi-raupya-ādikaiḥ](yadvanmaṇiraupyādikairalam) [alam](yadvanmaṇiraupyādikairalam)
 
 ## mukta-m0-p06-v140
-[light+meaning+tinged](prakāśārthoparakto) [even](pi) [crystal+etc](sphaṭikādi) [inert+like](jālomapam)
+[prakāśa-artha-uparaktaḥ](prakāśārthoparakto) [api](pi) [sphaṭika-ādi](sphaṭikādi) [jaḍa-upamaḥ](jālomapam(?) [jaḍopamaḥ])
 
 ## mukta-m0-p06-v141
-[to-deny](apahnotuṃ) [how](kathaṃ) [possible](śakyaḥ) [other+dependent+made-of](paratantramaya) [appearance](prathaḥ)
+[apahnotum](apahnotuṃ) [katham](kathaṃ) [śakyaḥ](śakyaḥ) [para-tantramaya-prathaḥ](paratantramaya(ḥ?)prathaḥ)
 
 ## mukta-m0-p06-v142
-[shines](bhāsate) [and](cā) [more](dhikañ) [and](ceti) [thus](parasparam) [mutually](asaṅgatam) [inconsistent](parasparamasaṅgatam)
+[bhāsate](bhāsate) [ca](cā) [adhikam](adhikañceti) [ca](adhikañceti) [iti](adhikañceti) [parasparam](parasparam) [asaṅgatam](asaṅgatam)
 
 ## mukta-m0-p06-v143
-[thus](eva) [and](ñca) [many+experience+composed](nānānubhavamayī) [would-perish](naśyej) [world+existence](jagatsthitiḥ)
+[evam](evañca) [ca](evañca) [nānā-anubhava-mayī](nānānubhavamayī) [naśyet](naśyejjagatsthitiḥ) [jagat-sthitiḥ](naśyejjagatsthitiḥ)
 
 ## mukta-m0-p06-v144
-[*](*) [*](*) [*](*) [*](*) [*](*) [*](*) [*](*) [*](*) [there](tatra) [but](tvitthaṃ) [thus](samarthanā)
+[tatra](tatra) [tvittham](tvitthaṃ) [samarthanā](samarthanā)
 
 ## mukta-m0-p06-v145
-[unbounded+nature-ness](anavacchinnarūpatvaṃ) [then](tadā) [its](tasya) [own](nijaṃ) [toward](prati)
+[anavacchinna-rūpatvam](anavacchinnarūpatvaṃ) [tadā](tadā) [tasya](tasya) [nijam](nijaṃ) [prati](prati)
 
 ## mukta-m0-p06-v146
-[consciousness+indication](cidullekhāt) [not-more](anadhikaṃ) [world+conduct+facilitating](lokayātrāprasādhakam)
+[cid-ullekhāt](cidullekhādanadhikaṃ) [anadhikam](cidullekhādanadhikaṃ) [loka-yātrā-prasādhakam](lokayātrāprasādhakam)
 
 ## mukta-m0-p06-v147
-[this](iyaṃ) [that](sā) [of-thing](vastunaḥ) [accomplishment](siddhistāttvikī) [real](viduṣāṃ) [of-knowers](matā)
+[iyam](iyaṃ) [sā](sā) [vastunaḥ](vastunaḥ) [siddhiḥ](siddhistāttvikī) [tāttvikī](siddhistāttvikī) [viduṣām](viduṣāṃ) [matā](matā)
 
 ## mukta-m0-p06-v148
-[self+indication+agency+essence](svollekhakartṛtāsārā) [direct+experience](pratyakṣānubhavāt) [established](sthitā)
+[sva-ullekha-kartṛtā-sārā](svollekhakartṛtāsārā) [pratyakṣa-anubhavāt](pratyakṣānubhavāt) [sthitā](sthitā)
 
 ## mukta-m0-p06-v149
-[from-independence](svatantratvāt) [unbroken](anunbhagnam) [as-if-emerged](unmagnamiva) [would-illumine](bhāsayet)
+[svatantratvāt](svatantratvādanunbhagnamunmagnamiva) [anunbhagnam](svatantratvādanunbhagnamunmagnamiva) [unmagnam](svatantratvādanunbhagnamunmagnamiva) [iva](svatantratvādanunbhagnamunmagnamiva) [bhāsayet](bhāsayet)
 
 ## mukta-m0-p06-v150
-[by-harmony](sāmarasyena) [everywhere](sarvatra) [established](sthitaṃ) [consciousness+only+essence](cinmātrasārataḥ)
+[sāmarasyena](sāmarasyena) [sarvatra](sarvatra) [sthitam](sthitaṃcinmātrasārataḥ) [cit-mātra-sārataḥ](sthitaṃcinmātrasārataḥ) (sthitaści-)

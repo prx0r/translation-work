@@ -41,10 +41,10 @@
 },
 {
 "surface": "eti",
-"quick_gloss": "obtains"
+"quick_gloss": "attains"
 },
 {
-"surface": "camatkāro",
+"surface": "camatkāraḥ",
 "quick_gloss": "wonder"
 },
 {
@@ -70,7 +70,7 @@
 },
 {
 "surface": "āśritya",
-"quick_gloss": "resorting"
+"quick_gloss": "relying"
 },
 {
 "surface": "catasraḥ",
@@ -78,7 +78,7 @@
 },
 {
 "surface": "kālikāḥ",
-"quick_gloss": "times"
+"quick_gloss": "time-powers"
 },
 {
 "surface": "sthitāḥ",
@@ -103,7 +103,7 @@
 },
 {
 "surface": "kālikodayaḥ",
-"quick_gloss": "time-rise"
+"quick_gloss": "time-power-rise"
 }
 ]
 },
@@ -128,7 +128,7 @@
 },
 {
 "surface": "kālikāḥ",
-"quick_gloss": "times"
+"quick_gloss": "time-powers"
 },
 {
 "surface": "sthitāḥ",
@@ -145,7 +145,7 @@
 "tokens": [
 {
 "surface": "darśanasparśasambhogavirāmodrekatā",
-"quick_gloss": "seeing-touch-enjoyment-detachment-excess"
+"quick_gloss": "seeing-touching-enjoyment-cessation-excess"
 },
 {
 "surface": "matāḥ",
@@ -166,7 +166,7 @@
 },
 {
 "surface": "camatkārānuvṛttitaḥ",
-"quick_gloss": "wonder-continuity"
+"quick_gloss": "by-wonder-continuation"
 }
 ]
 },
@@ -182,15 +182,19 @@
 "quick_gloss": "this"
 },
 {
-"surface": "parikaras",
-"quick_gloss": "entourage"
+"surface": "parikaraḥ",
+"quick_gloss": "retinue"
 },
 {
-"surface": "tvanyo",
-"quick_gloss": "but-other"
+"surface": "tu",
+"quick_gloss": "but"
 },
 {
-"surface": "bhāvavargo",
+"surface": "anyaḥ",
+"quick_gloss": "other"
+},
+{
+"surface": "bhāvavargaḥ",
 "quick_gloss": "state-group"
 },
 {
@@ -207,8 +211,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "anenaivāśayenaiva",
-"quick_gloss": "by-this-intent"
+"surface": "anena",
+"quick_gloss": "by-this"
+},
+{
+"surface": "eva",
+"quick_gloss": "indeed"
+},
+{
+"surface": "āśayena",
+"quick_gloss": "intention"
+},
+{
+"surface": "eva",
+"quick_gloss": "indeed"
 },
 {
 "surface": "parabrahmopalabdhaye",
@@ -224,11 +240,15 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "taditthaṃ",
+"surface": "tad",
 "quick_gloss": "thus"
 },
 {
-"surface": "sarvabhāvānāṃ",
+"surface": "itthaṃ",
+"quick_gloss": "so"
+},
+{
+"surface": "sarvabhāvānām",
 "quick_gloss": "of-all-states"
 },
 {
@@ -250,7 +270,7 @@
 },
 {
 "surface": "bhāvānāmāsvabhāvataḥ",
-"quick_gloss": "of-states-non-essence"
+"quick_gloss": "of-states-non-essentiality"
 }
 ]
 },
@@ -266,16 +286,24 @@
 "quick_gloss": "thus"
 },
 {
-"surface": "siddhamukhāmnāyayuktyā",
-"quick_gloss": "by-siddha-tradition-reason"
+"surface": "siddhamukhāmnāyayuktitaḥ",
+"quick_gloss": "by-tradition-reason-of-perfected-mouth"
 },
 {
-"surface": "naivāsti",
-"quick_gloss": "not-at-all"
+"surface": "na",
+"quick_gloss": "not"
+},
+{
+"surface": "eva",
+"quick_gloss": "indeed"
+},
+{
+"surface": "asti",
+"quick_gloss": "is"
 },
 {
 "surface": "vastutaḥ",
-"quick_gloss": "in-reality"
+"quick_gloss": "really"
 }
 ]
 },
@@ -287,12 +315,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "svaviṣphāramayaṃ",
-"quick_gloss": "self-expansion-filled"
+"surface": "svaviṣphāramayam",
+"quick_gloss": "of-own-expansion-full"
 },
 {
-"surface": "sarvamidaṃ",
-"quick_gloss": "all-this"
+"surface": "sarvam",
+"quick_gloss": "all"
+},
+{
+"surface": "idaṃ",
+"quick_gloss": "this"
 },
 {
 "surface": "saṃsthānam",
@@ -313,11 +345,15 @@
 "tokens": [
 {
 "surface": "tadgrāsasaṃrambhaparā",
-"quick_gloss": "that-devouring-eagerness-supreme"
+"quick_gloss": "intent-on-that-devouring"
 },
 {
-"surface": "yāśca",
-"quick_gloss": "and-which"
+"surface": "yāḥ",
+"quick_gloss": "which"
+},
+{
+"surface": "ca",
+"quick_gloss": "and"
 },
 {
 "surface": "dvādaśa",
@@ -325,7 +361,7 @@
 },
 {
 "surface": "kālikāḥ",
-"quick_gloss": "times"
+"quick_gloss": "time-powers"
 }
 ]
 },
@@ -337,8 +373,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "ekaiva",
-"quick_gloss": "one-only"
+"surface": "ekā",
+"quick_gloss": "one"
+},
+{
+"surface": "eva",
+"quick_gloss": "indeed"
 },
 {
 "surface": "cidacidbhogabhoganirbhogalakṣaṇā",
@@ -354,11 +394,11 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "savikalpāvikalpānāṃ",
+"surface": "savikalpāvikalpānām",
 "quick_gloss": "of-conceptual-nonconceptual"
 },
 {
-"surface": "sarvāsā",
+"surface": "sarvāsām",
 "quick_gloss": "of-all"
 },
 {
@@ -401,11 +441,11 @@
 },
 {
 "surface": "pūjanasaṅkrāmair",
-"quick_gloss": "by-worship-transmissions"
+"quick_gloss": "by-worship-transfers"
 },
 {
 "surface": "upāyair",
-"quick_gloss": "by-means"
+"quick_gloss": "means"
 },
 {
 "surface": "upalakṣitā",
@@ -421,8 +461,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "trayodaśīti",
-"quick_gloss": "thirteenth-thus"
+"surface": "trayodaśī",
+"quick_gloss": "thirteenth"
+},
+{
+"surface": "iti",
+"quick_gloss": "thus"
 },
 {
 "surface": "yā",
@@ -437,7 +481,7 @@
 "quick_gloss": "is-called"
 },
 {
-"surface": "hy",
+"surface": "hi",
 "quick_gloss": "indeed"
 },
 {
@@ -476,7 +520,7 @@
 "tokens": [
 {
 "surface": "kālikākramadṛṣṭatvāt",
-"quick_gloss": "because-of-time-sequence-seen-ness"
+"quick_gloss": "from-time-power-sequence-seen"
 },
 {
 "surface": "upacāreṇa",
@@ -512,12 +556,16 @@
 "quick_gloss": "reality"
 },
 {
-"surface": "sa",
+"surface": "saḥ",
 "quick_gloss": "that"
 },
 {
-"surface": "pratyakṣo",
-"quick_gloss": "directly-perceived"
+"surface": "pratyakṣaḥ",
+"quick_gloss": "direct"
+},
+{
+"surface": "api",
+"quick_gloss": "even"
 },
 {
 "surface": "vā",
@@ -537,12 +585,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "pañcapiṇḍātmako",
-"quick_gloss": "five-lumps-embodied"
+"surface": "pañcapiṇḍātmakaḥ",
+"quick_gloss": "five-lump-bodied"
 },
 {
 "surface": "api",
-"quick_gloss": "also"
+"quick_gloss": "even"
 },
 {
 "surface": "syāt",
@@ -550,7 +598,7 @@
 },
 {
 "surface": "sūkṣmapratyakṣadarśinaḥ",
-"quick_gloss": "subtle-direct-seer"
+"quick_gloss": "for-subtle-direct-seer"
 }
 ]
 },
@@ -567,7 +615,7 @@
 },
 {
 "surface": "tadvṛttikālikā",
-"quick_gloss": "its-function-time"
+"quick_gloss": "time-power-of-that-function"
 },
 {
 "surface": "kramagocarā",
@@ -584,10 +632,10 @@
 "tokens": [
 {
 "surface": "sarvākāṅkṣāvirahitā",
-"quick_gloss": "all-desire-free"
+"quick_gloss": "free-from-all-desire"
 },
 {
-"surface": "viśrāntir",
+"surface": "viśrāntiḥ",
 "quick_gloss": "rest"
 },
 {

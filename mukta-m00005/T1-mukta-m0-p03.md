@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p03-v51
-[mano](mano) [yasya](yasya) [aśubha+avāt](aśubhāvācca) [ca](ca) [kartuḥ](karturna) [na](na) [yugapad](yugapan) [matiḥ](matiḥ)
+[mind](mano) [whose](yasya) [impurity](aśubha) [and](ca) [agent](kartuḥ) [not](na) [simultaneous](yugapad) [cognition](matiḥ)
 
 ## mukta-m0-p03-v52
-[ataḥ](ata) [eva](eva) [etad](etad) [āśu](āśu) [saṃcāri](saṃcārītyuktam) [iti](iti) [uktam](uktam)
+[therefore](ata) [thus](eva) [this](etad) [quick](āśu) [moving](saṃcāri) [said](uktam)
 
 ## mukta-m0-p03-v53
-[anyaḥ](anyo) [artha+pratyayaḥ](arthapratyayo) [aparaḥ](aparaḥ)
+[another](anyaḥ) [object-cognition](arthapratyayaḥ) [another](aparaḥ)
 
 ## mukta-m0-p03-v54
-[ahaṅkāra+vṛtti+ātmaka+pratyayaḥ](ahaṅkāravṛttyātmakapratyayo) [artha+pratyayāt](arthapratyayād) [anyaḥ](anya) [iti](iti) [arthaḥ](arthaḥ)
+[ego-function](ahaṅkāravṛtti) [natured](ātmaka) [cognition](pratyayaḥ) [object-cognition](arthapratyayāt) [other](anyaḥ) [meaning](arthah)
 
 ## mukta-m0-p03-v55
-[yataḥ](yato) [anyatama+vaikalye](anyatamavaikalye) [jāyate](jāyate) [sati](sati) [ahaṅkṛtiḥ](ahaṅkṛtiḥ)
+[since](yataḥ) [one](anyatama) [deficiency](vaikalye) [arises](jāyate) [true](sati) [egoity](ahaṅkṛtiḥ)
 
 ## mukta-m0-p03-v56
-[jāyamānaḥ](jāyamāno) [ayaṃ](ayaṃ) [saṃrambhaḥ](saṃrambho) [ahaṃ+pratyayaḥ](ahaṃpratyayo) [vā](vā) [ahaṅkārasya+eva](ahaṅkārasyaiva) [kāryaḥ](kārya) [iti](iti) [arthaḥ](arthaḥ)
+[arising](jāyamānaḥ) [this](ayaṃ) [agitation](saṃrambhaḥ) [I-cognition](ahaṃpratyayaḥ) [or](vā) [ego's](ahaṅkārasya) [effect](kāryaḥ) [meaning](arthah)
 
 ## mukta-m0-p03-v57
-[taijasa+ādi+nāmānaḥ](taijasādikanāmānaḥ) [kramaśaḥ](kramaśaḥ) [sāttvika+ādayaḥ](sāttvikādayaḥ)
+[taijasa-etc](taijasādika) [names](nāmānaḥ) [successively](kramaśaḥ) [sattvic-etc](sāttvikādayaḥ)
 
 ## mukta-m0-p03-v58
-[sattva+ādi+guṇa+bāhulyāt](sattvādiguṇabāhulyāt)
+[sattva-etc](sattvādi) [quality](guṇa) [abundance](bāhulyāt)
 
 ## mukta-m0-p03-v59
-[tasmāt](tasmāt) [saḥ](sa) [sāttvikāt](sāttvikājjātaḥ) [jātaḥ](jātaḥ) [sva+anurūpāt](svānurūpādahaṅkṛtaḥ) [ahaṅkṛtaḥ](ahaṅkṛtaḥ)
+[therefore](tasmāt) [that](saḥ) [sattvic](sāttvikāt) [born](jātaḥ) [own](sva) [conformable](anurūpāt) [ego](ahaṅkṛtaḥ)
 
 ## mukta-m0-p03-v60
-[viṣayāṇām](viṣayāṇāṃ) [tu](tu) [niyamāt](niyamādasiddhādeva) [asiddhāt](asiddhādeva) [eva](eva) [hetutaḥ](hetutaḥ)
+[objects](viṣayāṇāṃ) [but](tu) [restriction](niyamāt) [unproved](asiddhāt) [cause](hetutaḥ)
 
 ## mukta-m0-p03-v61
-[gṛhyante](gṛhyante)
+[are-grasped](gṛhyante)
 
 ## mukta-m0-p03-v62
-[dravyāṇi](dravyāṇyaniyataṃ) [aniyataṃ](aniyataṃ) [ca](ca) [eva](eva) [gṛhṇāti](gṛhṇāti) [marutā](marutā) [samam](samam)
+[substances](dravyāṇi) [unrestricted](aniyataṃ) [and](ca) [eva](eva) [grasps](gṛhṇāti) [wind](marutā) [with](samam)
 
 ## mukta-m0-p03-v63
-[tad+gatān](tadgatāṃśca) [ca](ca) [sparśān](sparśān) [gṛhṇāti](gṛhṇāti)
+[their](tad) [located](gatāṃś) [and](ca) [touches](sparśān) [grasps](gṛhṇāti)
 
 ## mukta-m0-p03-v64
-[ataḥ](ato) [na](na) [niyamaḥ](niyamo) [akṣāṇām](akṣāṇāṃ) [viṣayāṇām](viṣayāṇāṃ) [ca](ca) [kalpyate](kalpyate)
+[therefore](ato) [not](na) [restriction](niyamaḥ) [senses](akṣāṇāṃ) [objects](viṣayāṇāṃ) [and](ca) [is-imagined](kalpyate)
 
 ## mukta-m0-p03-v65
-[devebhyaḥ](devebhyo) [buddhayaḥ](buddhayo) [na](na) [syuḥ](syuḥ) [samavāye](samavāye) [ca](ca) [dehinām](dehinām)
+[gods](devebhyaḥ) [intellects](buddhayaḥ) [not](na) [would-be](syuḥ) [conjunction](samavāye) [and](ca) [embodied](dehinām)
 
 ## mukta-m0-p03-v66
-[padārthānām](padārthānāṃ) [buddhayaḥ](buddhayastebhyo) [tebhyaḥ](tebhyaḥ) [jāyamānāḥ](jāyamānā) [na](na) [bhaveyuḥ](bhaveyuḥ)
+[objects](padārthānāṃ) [intellects](buddhayaḥ) [from-them](tebhyaḥ) [arising](jāyamānāḥ) [not](na) [would-be](bhaveyuḥ)
 
 ## mukta-m0-p03-v67
-[pum+artha+dātṛ](pumarthadātṛ) [yat](yatkarma) [karma](karma) [kāraṇaṃ](kāraṇaṃ) [tat](tad) [bhaveritam](bhaveritam)
+[purusha-purpose-giver](pumarthadātṛ) [which](yat) [action](karma) [cause](kāraṇaṃ) [that](tat) [is-said](bhaveritam)
 
 ## mukta-m0-p03-v68
-[ca](cetyarthaḥ) [iti](iti) [arthaḥ](arthaḥ)
+[and](ca) [meaning](arthah)
 
 ## mukta-m0-p03-v69
-[śabda+bhogasya](śabdabhogasya) [niyame](niyame) [tat+pradaṃ](tatpradaṃ) [karma](karma) [bhāṣitam](bhāṣitam)
+[sound-enjoyment](śabdabhogasya) [restriction](niyame) [that-giving](tatpradaṃ) [action](karma) [is-spoken](bhāṣitam)
 
 ## mukta-m0-p03-v70
-[karma](karmaiva) [eva](eva) [kāraṇaṃ](kāraṇaṃ) [bhavatā](bhavatā) [api](api) [iṣyate](iṣyata) [iti](iti) [anvayaḥ](anvayaḥ)
+[action](karma) [itself](eva) [cause](kāraṇaṃ) [is](bhavatā) [also](api) [desired](iṣyata) [connection](anvayaḥ)
 
 ## mukta-m0-p03-v71
-[jātaḥ](jātaḥ) [kāryasya](kāryasya) [yena](yeneha) [iha](iha) [kāraṇa+anuvidhāyitā](kāraṇānuvidhāyitā)
+[born](jātaḥ) [effect's](kāryasya) [by-which](yena) [here](iha) [cause-following](kāraṇānuvidhāyitā)
 
 ## mukta-m0-p03-v72
-[karma+indriya+vargaḥ](karmendriyavargo) [jātaḥ](jātaḥ) [yasmāt](yasmāt) [kāraṇa+anuvidhāyitvam](kāraṇānuvidhāyitvaṃ) [kārye](kārye) [dṛśyate](dṛśyate)
+[action-sense-group](karmendriyavargaḥ) [born](jātaḥ) [because](yasmāt) [cause-following](kāraṇānuvidhāyitvaṃ) [in-effect](kārye) [is-seen](dṛśyate)
 
 ## mukta-m0-p03-v73
-[sāttvikāt](sāttvikāt) [saṃbhave](saṃbhave) [kḷpte](kḷpte) [sāttva+rājasa+vargayoḥ](sāttvarājasavargayoḥ)
+[sattvic](sāttvikāt) [on-arising](saṃbhave) [assumed](kḷpte) [sattva-rajas-groups](sāttvarājasavargayoḥ)
 
 ## mukta-m0-p03-v74
-[prakāśyaḥ](prakāśyastāmasastasmājjāto) [tāmasaḥ](tāmasaḥ) [tasmāt](tasmāt) [jātaḥ](jātaḥ) [bhūta+ādi+saṃjñakāt](bhūtādisaṃjñakāt)
+[manifest](prakāśyaḥ) [tamasic](tāmasaḥ) [therefore](tasmāt) [born](jātaḥ) [from-bhutadi](bhūtādisaṃjñakāt)
 
 ## mukta-m0-p03-v75
-[pum+bodha+vyakti+bhūmitvāt](puṃbodhavyaktibhūmitvād) [bodhaḥ](bodho) [vṛttiḥ](vṛttirmatermatā) [mater](mater) [matā](matā)
+[purusha-cognition-manifestation-ground](puṃbodhavyaktibhūmitvāt) [cognition](bodhaḥ) [function](vṛttiḥ) [of-mind](mater) [opinion](matā)
