@@ -2,55 +2,55 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p51-v1251
-[listen](śṛṇu) [your](te) [that+speech+wonder](tat+vacaḥ+matkaṃ) [o+o](bho+bho) [men+middling](puruṣa+madhyamāḥ)
+[hear](śṛṇu) [your](te) [that+speech+wonder](tat+vacaḥ+matkaṃ) [o+o](bho+bho) [men+middling](puruṣa+madhyamāḥ)
 
 ## mukta-m0-p51-v1252
-[in-self+ground](ātma+bhūmau) [and](ca) [let-them-abide](tiṣṭhaṃtāṃ) [in-true+own](sat+susviyyeṣu) [in-things](vastuṣu)
+[self+ground](ātma+bhūmau) [and](ca) [let-stand](tiṣṭhaṃtāṃ) [in-good+own](satsu+sviyyeṣu) [things](vastuṣu)
 
 ## mukta-m0-p51-v1253
-[was](asti) [Rāma+named](rāma+nāmā) [king](mahīpatiḥ) [in-sun+lineage](sūrya+vaṃśe) [great](mahān)
+[was](asti) [Rāma+named](rāma+nāmā) [king](mahīpatiḥ) [in-sun+lineage](sūrya+vaṃśe)
 
 ## mukta-m0-p51-v1254
-[him](tam) [followed](anvagāt) [indeed](yau) [Rāma](rāmam) [younger-brother](anujaḥ) [righteous](dharma+śālinam)
+[him](tam) [followed](anvagāt) [indeed](ya) [Rāma](rāmam) [younger-brother](anujaḥ) [virtue+possessing](dharma+śālinam)
 
 ## mukta-m0-p51-v1255
-[by-her](tayā) [and](ca) [accompanied](sahitaḥ) [Rāma](rāmaḥ) [by-younger](kaniṣṭhena) [and](ca) [in-forest](kānane)
+[with-her](tayā) [and](ca) [together](sahitaḥ) [Rāma](rāmaḥ) [with-younger-brother](kaniṣṭhena) [and](ca) [in-forest](kānane)
 
 ## mukta-m0-p51-v1256
-[by-ear](karṇā) [by-ear-ornament](karṇikayā) [worthy-of-ear](karṇya) [Sītā](sītāṃ) [beauty+possessing](saundarya+śālinīm)
+[ear](karṇā) [by-ear-ornament](karṇikayā) [worthy-of-ear](karṇya) [Sītā](sītāṃ) [beauty+possessing](saundarya+śālinīm)
 
 ## mukta-m0-p51-v1257
 [with-root+uprooted](samūla+unmūlitaḥ) [in-battle](saṃkhye) [by-Rāghava](rāghaveṇa) [alone+moving](eka+cāriṇā)
 
 ## mukta-m0-p51-v1258
-[in-other+land](para+bhūmi) [attachment](prasaktiḥ) [and](ca) [not+by-you+gone](na+tvayā+tāṃ) [anywhere](kvacit) [anywhere](kvacit)
+[other+land](para+bhūmi) [attachment](prasaktiḥ) [and](ca) [not+by-you+gone](na+tvayā+tāṃ) [anywhere](kvacit) [anywhere](kvacit)
 
 ## mukta-m0-p51-v1259
 [alone](ekākī) [on-foot+walking](pāda+cārī) [and](ca) [of-vultures](gṛdhrāṇām) [became](abhavat) [prey](baliḥ)
 
 ## mukta-m0-p51-v1260
-[such](etādṛśa) [downfall](vinīpātam) [reached](agamat) [Dhṛtarāṣṭra+son](dhṛtarāṣṭra+jaḥ)
+[such+downfall](etādṛśa+vinīpātam) [reached](agamat) [Dhṛtarāṣṭra+son](dhṛtarāṣṭra+jaḥ)
 
 ## mukta-m0-p51-v1261
 [cast-away](nikṣipasva) [here](iha) [conduct](ācāram) [without-restraint+gone+fever](anuniṣṭha+gata+jvaraḥ)
 
 ## mukta-m0-p51-v1262
-[by-fear+instruction+pierced](bheta+upadeśa+nirbhiṇāḥ) [mind+faults](citta+doṣa) [without-insistence](nirāgrahāḥ)
+[by-fear+instruction+pierced](bheta+upadeśa+nirbhiṇāḥ) [mind+faults](citta+doṣa) [without-attachment](nirāgrahāḥ)
 
 ## mukta-m0-p51-v1263
-[now](atha) [of-low](nīca) [of-men](narāṇāṃ) [indeed](tu) [by-giving+form+instruction](dāna+rūpa+upadeśataḥ)
+[now](atha) [of-low](nīca) [men](narāṇāṃ) [but](tu) [by-giving+form+instruction](dāna+rūpa+upadeśataḥ)
 
 ## mukta-m0-p51-v1264
-[giving](dānaṃ) [indeed](nāma) [of-desired+things](iṣṭa+vastūnāṃ) [of-real+unreal+nature](satya+asatya+svarūpiṇām)
+[giving](dānaṃ) [indeed](nāma) [of-desired+things](iṣṭa+vastūnāṃ) [true+untrue+natured](satya+asatya+svarūpiṇām)
 
 ## mukta-m0-p51-v1265
 [there](tatra) [Vyāsa+and-others](vyāsa+ādayaḥ) [said](procuḥ) [thus](evaṃ) [toward-low+men](nīca+narān+prati)
 
 ## mukta-m0-p51-v1266
-[from-another+wife+approach](para+dāra+anuṣaṃ) [and](gāt) [by-abstention](viratyā) [merit+wealth](puṇya+saṃpadaḥ)
+[from-another+wife+approach](para+dāra+anuṣaṃ) [going](gāt) [and](ca) [by-abstention](viratyā) [merit+wealth](puṇya+saṃpadaḥ)
 
 ## mukta-m0-p51-v1267
-[from-another+thing+seizing](para+vastu+grahaṇataḥ) [by-abstention](nirutyā) [wealth+arising](saṃpat+udbhavet)
+[from-another+thing](para+vastu) [from-seizing](grahaṇataḥ) [by-abstention](nirutyā) [wealth+arising](saṃpat+udbhavet)
 
 ## mukta-m0-p51-v1268
 [by-this](anena) [merit+path](puṇya+mārgeṇa) [your](tava) [happiness](saukhyaṃ) [at-step](pade) [at-step](pade)
@@ -68,7 +68,7 @@
 [therefore](ataḥ) [giving+instruction](dāna+upadeśaḥ) [this](ayam) [among-low+mortals](nica+martyeṣu) [enjoined](coditaḥ)
 
 ## mukta-m0-p51-v1273
-[of-many+faults+seizing](bahu+doṣa+grahavatāṃ) [three+stages](kakṣyā+traya) [of-transgressors](vilaṃghinām)
+[of-those-having-many+faults](bahu+doṣa+grahavatāṃ) [three+stages](kakṣyā+traya) [transgressing](vilaṃghinām)
 
 ## mukta-m0-p51-v1274
 [among-them](teṣu) [that+path](tat+mārgam) [having-resorted-to](ālambya) [they-instruct](śikṣayanti) [lowest+of-low](adhama+adhamān)

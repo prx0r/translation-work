@@ -16,19 +16,19 @@
 },
 {
 "surface": "tiṣṭhaṃti",
-"quick_gloss": "stand"
+"quick_gloss": "they-stand"
 },
 {
-"surface": "kṛtādi",
-"quick_gloss": "kṛta+etc."
+"surface": "kṛtā+di",
+"quick_gloss": "kṛta+etc"
 },
 {
 "surface": "samaye",
-"quick_gloss": "in-time"
+"quick_gloss": "time"
 },
 {
 "surface": "narāḥ",
-"quick_gloss": "people"
+"quick_gloss": "men"
 }
 ]
 },
@@ -61,7 +61,7 @@
 },
 {
 "surface": "dainyaṃ",
-"quick_gloss": "wretchedness"
+"quick_gloss": "despondency"
 },
 {
 "surface": "na",
@@ -110,10 +110,10 @@
 },
 {
 "surface": "kṛte",
-"quick_gloss": "in-kṛta-age"
+"quick_gloss": "in-kṛta"
 },
 {
-"surface": "puṇyarāśiḥ",
+"surface": "puṇya+rāśiḥ",
 "quick_gloss": "merit+heap"
 },
 {
@@ -134,16 +134,20 @@
 "quick_gloss": "there"
 },
 {
-"surface": "kevala",
+"surface": "kevalam",
 "quick_gloss": "only"
 },
 {
-"surface": "ciṃtārthaṃ",
-"quick_gloss": "inner-self+contemplation+purpose"
+"surface": "adhyātma",
+"quick_gloss": "spiritual"
 },
 {
-"surface": "svasvaśaktiṣu",
-"quick_gloss": "own+own+powers"
+"surface": "ciṃtā+rthaṃ",
+"quick_gloss": "thought+purpose"
+},
+{
+"surface": "sva+sva+śaktiṣu",
+"quick_gloss": "in-own+own+powers"
 }
 ]
 },
@@ -164,11 +168,11 @@
 },
 {
 "surface": "vyāvṛttir",
-"quick_gloss": "turning-away"
+"quick_gloss": "activity"
 },
 {
-"surface": "ūhāpohavivarjjitā",
-"quick_gloss": "reasoning+exclusion+devoid"
+"surface": "ūhā+poha+vivarjjitā",
+"quick_gloss": "conception+rejection+devoid"
 }
 ]
 },
@@ -184,12 +188,12 @@
 "quick_gloss": "in-that"
 },
 {
-"surface": "kṛtādisamaye",
-"quick_gloss": "kṛta+etc.+time"
+"surface": "kṛtā+di+samaye",
+"quick_gloss": "kṛta+etc+time"
 },
 {
 "surface": "yat",
-"quick_gloss": "what"
+"quick_gloss": "which"
 },
 {
 "surface": "nije",
@@ -201,7 +205,7 @@
 },
 {
 "surface": "sthitam",
-"quick_gloss": "situated"
+"quick_gloss": "stood"
 }
 ]
 },
@@ -226,7 +230,7 @@
 },
 {
 "surface": "tisṝṇām",
-"quick_gloss": "of-the-three"
+"quick_gloss": "of-three"
 },
 {
 "surface": "api",
@@ -266,7 +270,7 @@
 "quick_gloss": "were"
 },
 {
-"surface": "svairavṛttayaḥ",
+"surface": "svaira+vṛttayaḥ",
 "quick_gloss": "free+conduct"
 }
 ]
@@ -287,16 +291,16 @@
 "quick_gloss": "ever"
 },
 {
-"surface": "puṇyārtham",
-"quick_gloss": "merit+purpose"
+"surface": "puṇyā+rtham",
+"quick_gloss": "for-merit"
 },
 {
-"surface": "apatyārthaṃ",
-"quick_gloss": "offspring+purpose"
+"surface": "apatyā+rthaṃ",
+"quick_gloss": "for-offspring"
 },
 {
 "surface": "pravarttate",
-"quick_gloss": "engages"
+"quick_gloss": "one-engages"
 }
 ]
 },
@@ -320,7 +324,7 @@
 "quick_gloss": "having-produced"
 },
 {
-"surface": "nijavāṃchāṃ",
+"surface": "nija+vāṃchāṃ",
 "quick_gloss": "own+desire"
 },
 {
@@ -342,19 +346,15 @@
 },
 {
 "surface": "aye",
-"quick_gloss": "oh"
+"quick_gloss": "this"
 },
 {
 "surface": "yaṃ",
-"quick_gloss": "this"
+"quick_gloss": "which"
 },
 {
 "surface": "stri",
 "quick_gloss": "woman"
-},
-{
-"surface": "tya",
-"quick_gloss": "thus"
 },
 {
 "surface": "abhimāno",
@@ -378,12 +378,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "samastajāti",
+"surface": "samasta+jāti+sāmyena",
 "quick_gloss": "all+class+equality"
-},
-{
-"surface": "sāmyena",
-"quick_gloss": "sameness"
 },
 {
 "surface": "tadā",
@@ -395,11 +391,11 @@
 },
 {
 "surface": "sthitā",
-"quick_gloss": "situated"
+"quick_gloss": "stood"
 },
 {
 "surface": "narāḥ",
-"quick_gloss": "people"
+"quick_gloss": "men"
 }
 ]
 },
@@ -412,11 +408,7 @@
 "tokens": [
 {
 "surface": "araṇyor",
-"quick_gloss": "in-two-araṇis"
-},
-{
-"surface": "vyām",
-"quick_gloss": "in-forest"
+"quick_gloss": "in-two-sticks"
 },
 {
 "surface": "iva",
@@ -427,8 +419,12 @@
 "quick_gloss": "kindled"
 },
 {
+"surface": "rāga+dveṣa",
+"quick_gloss": "passion+hate"
+},
+{
 "surface": "hutāśanau",
-"quick_gloss": "passion+hatred+fire"
+"quick_gloss": "two-fires"
 }
 ]
 },
@@ -469,16 +465,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "dahyamāna",
-"quick_gloss": "passion+hatred+great+forest-fire"
+"surface": "rāga+dveṣa",
+"quick_gloss": "by-passion+hate"
 },
 {
-"surface": "itastataḥ",
+"surface": "mahā+dāva",
+"quick_gloss": "great+forest-fire"
+},
+{
+"surface": "dahyamāna",
 "quick_gloss": "burning"
 },
 {
-"surface": "itastataḥ",
-"quick_gloss": "here+and-there"
+"surface": "itas+tataḥ",
+"quick_gloss": "here-and-there"
 }
 ]
 },
@@ -490,16 +490,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "dvāparādyeṣu",
-"quick_gloss": "in-dvāpara+etc."
+"surface": "dvāparā+dyeṣu",
+"quick_gloss": "in-dvāpara+etc"
 },
 {
 "surface": "kāleṣu",
-"quick_gloss": "in-times"
+"quick_gloss": "times"
+},
+{
+"surface": "rāga+dveṣa",
+"quick_gloss": "by-passion+hate"
 },
 {
 "surface": "vimūrchitaḥ",
-"quick_gloss": "passion+hatred+deluded"
+"quick_gloss": "deluded"
 }
 ]
 },
@@ -512,14 +516,14 @@
 "tokens": [
 {
 "surface": "mama",
-"quick_gloss": "my"
+"quick_gloss": "of-me"
 },
 {
 "surface": "eva",
-"quick_gloss": "indeed"
+"quick_gloss": "alone"
 },
 {
-"surface": "sakalābhūmi",
+"surface": "sakalā+bhūmi",
 "quick_gloss": "entire+earth"
 },
 {
@@ -528,7 +532,7 @@
 },
 {
 "surface": "tiṣṭhatu",
-"quick_gloss": "let-remain"
+"quick_gloss": "let-it-remain"
 }
 ]
 },
@@ -541,23 +545,23 @@
 "tokens": [
 {
 "surface": "mama",
-"quick_gloss": "my"
+"quick_gloss": "of-me"
 },
 {
 "surface": "eva",
-"quick_gloss": "indeed"
+"quick_gloss": "alone"
 },
 {
-"surface": "sakalānārī",
+"surface": "sakalā+nārī",
 "quick_gloss": "all+women"
 },
 {
-"surface": "karmaṇi",
+"surface": "rati+karmaṇi",
 "quick_gloss": "in-love+act"
 },
 {
 "surface": "tiṣṭhatu",
-"quick_gloss": "let-remain"
+"quick_gloss": "let-her-remain"
 }
 ]
 },
@@ -590,11 +594,11 @@
 },
 {
 "surface": "duṣṭo",
-"quick_gloss": "wicked-one"
+"quick_gloss": "wicked"
 },
 {
 "surface": "nihanyatām",
-"quick_gloss": "let-be-killed"
+"quick_gloss": "let-him-be-killed"
 }
 ]
 },
@@ -615,7 +619,7 @@
 },
 {
 "surface": "durbalaṃ",
-"quick_gloss": "weak-one"
+"quick_gloss": "weak"
 },
 {
 "surface": "hatvā",
@@ -643,7 +647,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "anyonyakalahaṃ",
+"surface": "anyonya+kalahaṃ",
 "quick_gloss": "mutual+quarrel"
 },
 {
@@ -651,8 +655,8 @@
 "quick_gloss": "having-made"
 },
 {
-"surface": "vimardanaiḥ",
-"quick_gloss": "mutual+crushing"
+"surface": "paraspara+vimardanaiḥ",
+"quick_gloss": "by-mutual+crushing"
 }
 ]
 },
@@ -692,8 +696,8 @@
 "quick_gloss": "also"
 },
 {
-"surface": "buddhayaḥ",
-"quick_gloss": "arrogant+minds"
+"surface": "uddāna+buddhayaḥ",
+"quick_gloss": "arrogant+minded"
 }
 ]
 },
@@ -713,20 +717,20 @@
 "quick_gloss": "of-head"
 },
 {
+"surface": "deha",
+"quick_gloss": "of-body"
+},
+{
 "surface": "pīḍāṃ",
-"quick_gloss": "body+pain"
+"quick_gloss": "pain"
 },
 {
 "surface": "vā",
-"quick_gloss": "or"
-},
-{
-"surface": "na",
 "quick_gloss": "not"
 },
 {
-"surface": "śṛṃgasya",
-"quick_gloss": "own+horn"
+"surface": "ātma+śṛṃgasya",
+"quick_gloss": "of-own+horn"
 },
 {
 "surface": "moṭanam",
@@ -742,12 +746,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "vṛthādveṣeṇa",
-"quick_gloss": "in-vain+hatred"
+"surface": "vṛthā",
+"quick_gloss": "in-vain"
+},
+{
+"surface": "dveṣeṇa",
+"quick_gloss": "by-hatred"
 },
 {
 "surface": "kim",
-"quick_gloss": "what"
+"quick_gloss": "why"
 },
 {
 "surface": "nāśaṃ",
@@ -783,12 +791,12 @@
 "quick_gloss": "therefore"
 },
 {
-"surface": "anyonyasya",
+"surface": "nyonyasya",
 "quick_gloss": "of-each-other"
 },
 {
 "surface": "hananam",
-"quick_gloss": "striking"
+"quick_gloss": "killing"
 },
 {
 "surface": "anyonyasya",
@@ -800,7 +808,7 @@
 },
 {
 "surface": "māraṇam",
-"quick_gloss": "killing"
+"quick_gloss": "slaying"
 }
 ]
 }
