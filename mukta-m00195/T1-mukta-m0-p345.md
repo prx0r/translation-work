@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p345-v8601
-[hear](śṛṇuyād) [desired](īpsitāṃ) [news](vārtāṃ) [distant](dūrasthām) [even](api) [sādhaka](sādhakaḥ)
+[hear](śṛṇuyād) [desired](īpsitāṃ) [news](vārtāṃ) [distant](dūrasthām) [api](api) [sādhaka](sādhakaḥ)
 
 ## mukta-m0-p345-v8602
-aiṃ hrīṃ śrīṃ klīṃ [uttering-together](samuccārya) sauṃklīṃhrīṃ aiṃ [again-speak](punarvadet)
+[aim](aiṃ) [hrīm](hrīṃ) [śrīm](śrīṃ) [klīm](klīṃ) [uttering-together](samuccārya) [sauṃklīṃhrīṃ](sauṃklīṃhrīṃ) [aim](aiṃ) [again-speak](punarvadet)
 
 ## mukta-m0-p345-v8603
-drāṃhrīṃklīṃblūṃ [he](sa) [uttering](uccāryya) aiṃhrīṃśrīṃklīṃ [again-speak](punarvadet)
+[drāṃhrīṃklīṃblūṃ](drāṃhrīṃklīṃblūṃ) [he](sa) [uttering](uccāryya) [aiṃhrīṃśrīṃklīṃ](aiṃhrīṃśrīṃklīṃ) [again-speak](punarvadet)
 
 ## mukta-m0-p345-v8604
-[brahmā](brahmā) [anuṣṭubh](anuṣṭup) [sarasvatīs](sarasvatyo) [munis-and-others](munyādyāḥ) [declared](parikīrttitāḥ)
+[brahmā](brahmā) [anuṣṭubh](anuṣṭupsarasvatyo) [munis](munyādyāḥ) [declared](parikīrttitāḥ)
 
 ## mukta-m0-p345-v8605
-[nine-seats](navāsanāṃ) [serpent-ornament](sarppabhūṣāṃ) [maker](kartrīṃ) [and](cāpi) [skull](kapālakam)
+[nine-seats](navāsanāṃ) [serpent-ornament](sarppabhūṣāṃ) [doer](kartrīṃ) [and](cāpi) [skull](kapālakam)
 
 ## mukta-m0-p345-v8606
-[skull-garland-wearing](muṇḍamālādharāṃ) [three-eyed](tryakṣāṃ) [I-worship](bhaje) [blue-sarasvatī](nīlasarasvatīm)
+[skull-garland-bearer](muṇḍamālādharāṃ) [three-eyed](tryakṣāṃ) [worship](bhaje) [blue-sarasvatī](nīlasarasvatīm)
 
 ## mukta-m0-p345-v8607
-[tenth-part](daśāṃśaṃ) [offer](juhuyāt) [worship](pūjāṃ) [seat](pīṭhe) [do](kuryyāt) [and](ca) [thus](socyate)
+[tenth-part](daśāṃśaṃ) [offer](juhuyāt) [worship](pūjāṃ) [seat](pīṭhe) [do](kuryyāt) [ca](ca) [said](socyate)
 
 ## mukta-m0-p345-v8608
-[thirty-two-petalled](dvātriṃśatpatram) [at-end](ante) [syāt](syāt) [sixty-four-petalled](catuḥṣaṣṭidalaṃ) [thus](tathā)
+[twenty-two-petals](dvātriṃśatpatram) [middle](ante) [syāt](syāt) [sixty-four-petals](catuḥṣaṣṭidalaṃ) [thus](tathā)
 
 ## mukta-m0-p345-v8609
-[thus](evaṃ) [yantra](yantraṃ) [having-drawn](samālikhya) [outside](bāhyataḥ) [worship](pūjanaṃ) [perform](caret)
+[thus](evaṃ) [yantra](yantraṃ) [drawn](samālikhya) [outside](bāhyataḥ) [worship](pūjanaṃ) [perform](caret)
 
 ## mukta-m0-p345-v8610
-[wind-corner](vāyukoṇe) [field-protector](kṣetrapālam) [north-east](aiśāne) [bhairava](bhairavaṃ) [thus](tathā)
+[air-corner](vāyukoṇe) [field-protector](kṣetrapālam) [northeast](aiśāne) [bhairava](bhairavaṃ) [thus](tathā)
 
 ## mukta-m0-p345-v8611
 [earth-house](bhūgṛhasya) [first-line](ādyarekhāyām) [aṇimā](aṇimā) [laghimā](laghimā) [thus](tathā)
 
 ## mukta-m0-p345-v8612
-[garimā](garimā) [prāpti](prāptiḥ) [thus-these](ityetāḥ) [worshipped](pūjyāḥ) [east-etc-direction-order](pūrvādidikkramāt)
+[garimā](garimā) [prāpti](prāptir) [ityetāḥ](ityetāḥ) [worship](pūjyāḥ) [east-etc](pūrvādidikkramāt)
 
 ## mukta-m0-p345-v8613
-[earth-house](bhūmigehe) [third](tṛtīyāyā) [line](rekhāyāṃ) [mothers](mātaraḥ) [brāhmī-māheśvarī-kaumārī-vaiṣṇavī-vārāhī-indrāṇī-cāmuṇḍā-mahālakṣmī-these-eight-mothers](brāhmī, māheśvarī, kaumārī, vaiṣṇavī, vārāhī, indrāṇī, cāmuṇḍā, mahālakṣmīḥ imā aṣṭau mātaraḥ ||) [again](punaḥ)
+[earth-house](bhūmigehe) [third](tṛtīyāyā) [line](rekhāyāṃ) [mothers](mātaraḥ) [again](punaḥ)
 
 ## mukta-m0-p345-v8614
-[sixty-four-petalled](catuḥṣaṣṭidale) [lotus](padme) [śaktis](śaktīḥ) [worship](arccecca) [so-many](tāvatīḥ)
+[sixty-four-petals](catuḥṣaṣṭidale) [lotus](padme) [śaktis](śaktīr) [worship](arccecca) [so-many](tāvatīḥ)
 
 ## mukta-m0-p345-v8615
-[umā-śrī-śānti-caṇḍā-dhūmrā-kālī-karālinī](umāśrīśāntayaścaṇḍā dhūmrā kālī karālinī)
+[umā](umā) [śrī](śrī) [śānti](śāntayaḥ) [caṇḍā](caṇḍā) [dhūmrā](dhūmrā) [kālī](kālī) [karālinī](karālinī)
 
 ## mukta-m0-p345-v8616
-[vāgvādinī-ca-nakulī-bhadrakālī-śaśiprabhā](vāgvādinī ca nakulī bhadrakālī śaśiprabhā)
+[vāgvādinī](vāgvādinī) [ca](ca) [nakulī](nakulī) [bhadrakālī](bhadrakālī) [moon-bright](śaśiprabhā)
 
 ## mukta-m0-p345-v8617
-[khecarī-bhūcarī-siddhā-kāmākṣī-hiṃgulā-balā](khecarī bhūcarī siddhā kāmākṣī hiṃgulābalā)
+[khecarī](khecarī) [bhūcarī](bhūcarī) [siddhā](siddhā) [kāmākṣī](kāmākṣī) [hiṃgulā](hiṃgulā) [balā](balā)
 
 ## mukta-m0-p345-v8618
-[vilāsinī-tathā-ghorā-citrā-mugdhā-dhaneśvarī](vilāsinī tathā ghorā citrā mugdhā dhaneśvarī)
+[vilāsinī](vilāsinī) [thus](tathā) [ghorā](ghorā) [citrā](citrā) [mugdhā](mugdhā) [dhaneśvarī](dhaneśvarī)
 
 ## mukta-m0-p345-v8619
-[vedagarbhā-tathā-bhīmā-ugrā-vaidyā-ca-sadgatiḥ](vedagarbhā tathā bhīmā ugrā vaidyā ca sadgatiḥ)
+[vedagarbhā](vedagarbhā) [thus](tathā) [bhīmā](bhīmā) [ugrā](ugrā) [vaidyā](vaidyā) [ca](ca) [sadgatiḥ](sadgatiḥ)
 
 ## mukta-m0-p345-v8620
-[kulikā-mālinī-kāminī-kvacit-kāmyā-jñānavatī-atha-ḍākinī](kulikā mālinī [kāminī iti kvacitpāṭhaḥ || ] kāmyā jñānavatyatha ḍākinī)
+[kulikā](kulikā) [mālinī](mālinī) [kāmyā](kāmyā) [jñānavatī](jñānavatyatha) [ḍākinī](ḍākinī)
 
 ## mukta-m0-p345-v8621
-[hākinī-ca-catuḥṣaṣṭi-śaktayaḥ-siddhidāyikāḥ](hākinī ca catuḥṣaṣṭiśaktayaḥ siddhidāyikāḥ)
+[hākinī](hākinī) [ca](ca) [sixty-four-śaktis](catuḥṣaṣṭiśaktayaḥ) [siddhi-giving](siddhidāyikāḥ)
 
 ## mukta-m0-p345-v8622
-[thirty-two-petalled-middle](dvātriṃśatpatramadhye) [tu](tu) [worshipped](pūjyā) [these](etāḥ) [tu](tu) [śaktis](śaktayaḥ)
+[twenty-two-petals](dvātriṃśatpatram) [middle](adhye) [tu](tu) [worship](pūjyā) [these](etās) [tu](tu) [śaktis](śaktayaḥ)
 
 ## mukta-m0-p345-v8623
-[ūrdhvakeśī-ca-mātaṃgī-mohinī-vaṃśavarddhinī](ūrdhvakeśī ca mātaṃgī mohinī vaṃśavarddhinī)
+[ūrdhvakeśī](ūrdhvakeśī) [ca](ca) [mātaṃgī](mātaṃgī) [mohinī](mohinī) [vaṃśavarddhinī](vaṃśavarddhinī)
 
 ## mukta-m0-p345-v8624
-[śarvarī-chatrahastā-ca-raktanetrā-vicarcikā](śarvarī chatrahastā ca raktanetrā vicarcikā)
+[śarvarī](śarvarī) [chatrahastā](chatrahastā) [ca](ca) [raktanetrā](raktanetrā) [vicarcikā](vicarcikā)
 
 ## mukta-m0-p345-v8625
-[śāntiḥ-vityā-vajrahastā-dhūmrā-śvetā-sumaṅgalā](śāntirvityā vajrahastā dhūmrā śvetā sumaṅgalā)
+[śānti](śāntir) [vityā](vityā) [vajrahastā](vajrahastā) [dhūmrā](dhūmrā) [śvetā](śvetā) [sumaṅgalā](sumaṅgalā)

@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p321-v8001
-[śrī+mātaṅgī](śrīmātaṅgi) [tathā+īśvarī](thatheśvari) [devī](śrīmātaṅgi) [īśvarī](thatheśvari)
+[glorious-mātaṅgī](śrī+mātaṅgi) [thus-lady](tathā+īśvari) [hail](śrī) [goddess](devī)
 
 ## mukta-m0-p321-v8002
-[muniḥ](munirasyoktonuṣṭupcchandaśca) [asya](munirasyoktonuṣṭupcchandaśca) [uktaḥ](munirasyoktonuṣṭupcchandaśca) [anuṣṭup-chandaḥ](munirasyoktonuṣṭupcchandaśca) [ca](munirasyoktonuṣṭupcchandaśca) [devatā](devatā)
+[sage](muni) [of-him](asya) [spoken](ukta) [anuṣṭup-meter](anuṣṭup+cchandaḥ) [and](ca) [deity](devatā)
 
 ## mukta-m0-p321-v8003
-[ṣaḍ-aṣṭa-bāhubhiḥ](ṣaḍaṣṭabāhubhiśceti) [ca](ṣaḍaṣṭabāhubhiśceti) [iti](ṣaḍaṣṭabāhubhiśceti) [dhyāyet](dhyāyecchyāmāṃ) [śyāmām](dhyāyecchyāmāṃ) [su-locanām](sulocanām)
+[six-eight-armed](ṣaḍ+aṣṭa+bāhubhiḥ) [thus](ca) [meditate](dhyāyet) [dark](śyāmām) [beautiful-eyed](su+locanām)
 
 ## mukta-m0-p321-v8004
-[vādayantīm](vādayantīṃ) [tām](tāṃ) [mātaṅgīm](mātaṅgīṃ) [hṛdi](hṛdi) [bhāvayet](bhāvayet)
+[playing](vādayantīm) [that](tām) [mātaṅgī](mātaṅgīm) [in-heart](hṛdi) [contemplate](bhāvayet)
 
 ## mukta-m0-p321-v8005
-[yajet](yajetpīṭhe) [pīṭhe](yajetpīṭhe) [vakṣyamāṇa-vidhānataḥ](vakṣyamāṇavidhānataḥ)
+[worship](yajet) [on-seat](pīṭhe) [as-described](vakṣyamāṇa) [rite](vidhānataḥ)
 
 ## mukta-m0-p321-v8006
-[yajet](yajettasminpīṭhaśaktīrnaveṣṭadāḥ) [tasmin](yajettasminpīṭhaśaktīrnaveṣṭadāḥ) [pīṭha-śaktīḥ](yajettasminpīṭhaśaktīrnaveṣṭadāḥ) [nava-iṣṭa-dāḥ](yajettasminpīṭhaśaktīrnaveṣṭadāḥ)
+[worship](yajet) [in-that](tasmin) [seat-powers](pīṭha+śaktīḥ) [nine-offerings](nava+iṣṭa+dāḥ)
 
 ## mukta-m0-p321-v8007
-[tāra-māyā-vāgra-m-ādyaḥ](tāramāyāvāgramādyaḥ) [pīṭha-mantraḥ](pīṭhamantraḥ) [kalā-arṇakaḥ](kalārṇakaḥ)
+[tāra-māyā-agra-first](tāra+māyā+vāgra+mādyaḥ) [seat-mantra](pīṭha+mantraḥ) [kalārṇa](kalārṇakaḥ)
 
 ## mukta-m0-p321-v8008
-[pīṭha-pūjā-ante](pīṭhapūjānte) [kuryāt](kuryādāvaraṇārcanam) [āvaraṇa-arcanaṃ](kuryādāvaraṇārcanam)
+[after-seat-worship](pīṭha+pūjā+ante) [do](kuryāt) [enclosure-worship](āvaraṇa+arcanam)
 
 ## mukta-m0-p321-v8009
-[ṣaḍ-aṅgāni](ṣaḍaṃgāni) [mātṝḥ](mātṝśca) [ca](mātṝśca) [dala-madhya-gāḥ](dalamadhyagāḥ)
+[six-limbs](ṣaḍ+aṃgāni) [mothers](mātṝḥ) [ca](ca) [in-petal-middle](dala+madhya+gāḥ)
 
 ## mukta-m0-p321-v8010
-[vāmā-ākhyā](vāmākhyā) [jyeṣṭhā](jyeṣṭhā) [raudrī](raudrī) [praśāntikā](praśāntikā)
+[left-named](vāma+ākhyā) [eldest](jyeṣṭhā) [fierce](raudrī) [peaceful](praśāntikā)
 
 ## mukta-m0-p321-v8011
-[sṛṣṭi-mohinyau](sṛṣṭimohinyau) [prathamā-ācāriṇī](prathamācāriṇī) [tathā](tathā)
+[creation-deluder](sṛṣṭi+mohinī) [au](au) [first-conductress](prathamā+cāriṇī) [thus](tathā)
 
 ## mukta-m0-p321-v8012
-[ṣoḍaśī](ṣoḍaśī) [tu](tu) [pūjanīyāḥ](pūjanīyāḥ) [prayatnataḥ](prayatnataḥ)
+[ṣoḍaśī](ṣoḍaśī) [tu](tu) [to-be-worshipped](pūjanīyāḥ) [carefully](prayatnataḥ)
 
 ## mukta-m0-p321-v8013
-[mahā-lakṣmīḥ](mahālakṣmīḥ) [punar](punar) [vahni-ādi-koṇataḥ](vahnyādikoṇataḥ)
+[mahālakṣmī](mahālakṣmīḥ) [again](punar) [fire-etc-corner](vahni+ādikoṇataḥ)
 
 ## mukta-m0-p321-v8014
-[sarva-āvaraṇa-śaktīnām](sarvāvaraṇaśaktīnāṃ) [ṅ-entaṃ](ṅentaṃ) [nāma](nāma) [hṛdaṃtakam](hṛdaṃtakam)
+[all-enclosure-powers](sarva+āvaraṇa+śaktīnām) [ṅ-ending](ṅa+antaṃ) [name](nāma) [heart-ending](hṛdaṃtakam)
 
 ## mukta-m0-p321-v8015
-[pūjanīyāḥ](pūjanīyāssyuritthaṃ) [syuḥ](pūjanīyāssyuritthaṃ) [itthaṃ](pūjanīyāssyuritthaṃ) [siddhiḥ](siddhirmanorbhavet) [manoḥ](siddhirmanorbhavet) [bhavet](siddhirmanorbhavet)
+[to-be-worshipped](pūjanīyāḥ) [would-be](syuḥ) [thus](itthaṃ) [success](siddhiḥ) [of-mantra](manoḥ) [becomes](bhavet)
 
 ## mukta-m0-p321-v8016
-[phalaiḥ](phalairvā) [vā](phalairvā) [vaśyā](vaśyā) [syāt](syājjanatā) [janatā](syājjanatā) [brahma-vṛkṣa-jaiḥ](brahmavṛkṣajaiḥ)
+[with-fruits](phalaiḥ) [or](vā) [subjugation](vaśyā) [becomes](syāt) [people](janatā) [brahmavṛkṣa-born](brahma+vṛkṣa+jaiḥ)
 
 ## mukta-m0-p321-v8017
-[lavaṇaiḥ](lavaṇairvidyāttagarairvetasairjalam) [vidyāt](lavaṇairvidyāttagarairvetasairjalam) [tagaraiḥ](lavaṇairvidyāttagarairvetasairjalam) [vetasaiḥ](lavaṇairvidyāttagarairvetasairjalam) [jalam](lavaṇairvidyāttagarairvetasairjalam)
+[with-salt](lavaṇaiḥ) [know](vidyāt) [tagara](tagaraiḥ) [vetasa](vetasaiḥ) [water](jalam)
 
 ## mukta-m0-p321-v8018
-[niśā-cūrṇa-yutaiḥ](niśācūrṇayutaiḥ) [kāśaiḥ](kāśairhomātsyātstambhanaṃ) [homāt](kāśairhomātsyātstambhanaṃ) [syāt](kāśairhomātsyātstambhanaṃ) [stambhanaṃ](kāśairhomātsyātstambhanaṃ) [dviṣām](dviṣām)
+[night-powder-mixed](niśā+cūrṇa+yutaiḥ) [kāśa](kāśaiḥ) [homāt](homāt) [stambhana](stambhanaṃ) [of-enemies](dviṣām)
 
 ## mukta-m0-p321-v8019
-[gandha-aṣṭakam](gandhāṣṭakamudīritam) [udīritam](gandhāṣṭakamudīritam)
+[eight-scents](gandha+aṣṭakam) [declared](udīritam)
 
 ## mukta-m0-p321-v8020
-[etat](etatpiṣṭvāyutaṃ) [piṣṭvā](etatpiṣṭvāyutaṃ) [yutaṃ](etatpiṣṭvāyutaṃ) [japtvā](japtvā) [tilakena](tilakena) [jagat-priyaḥ](jagatpriyaḥ)
+[this](etat) [pounded](piṣṭvā) [ten-thousand](ayutaṃ) [japtvā](japtvā) [with-tilaka](tilakena) [world-beloved](jagat+priyaḥ)
 
 ## mukta-m0-p321-v8021
-[mātaṅgī](mātaṅgī) [pūjitā](pūjitā) [kāma-dā](kāmadā) [nṛṇām](nṛṇām)
+[mātaṅgī](mātaṅgī) [worshipped](pūjitā) [desire-giving](kāma+dā) [of-men](nṛṇām)
 
 ## mukta-m0-p321-v8022
-[hūyāt](hūyādaṣṭottaraśataṃ) [aṣṭottara-śataṃ](hūyādaṣṭottaraśataṃ) [khādira-agtau](khādirāgnau) [naraḥ](naro) [niśi](niśi)
+[offer](hūyāt) [one-hundred-eight](aṣṭottara+śataṃ) [khadira-fire](khādira+agnau) [man](naraḥ) [at-night](niśi)
 
 ## mukta-m0-p321-v8023
-[kṛṣṇa-bhūta-niśi](kṛṣṇabhūtaniśi) [dhvāṃkṣa-udare](dhvāṃkṣodare) [kṣiptvā](kṣiptvā) [śubha-prabhām](śubhaprabhām)
+[black-being-night](kṛṣṇa+bhūta+niśi) [crow-belly](dhvāṃkṣa+udare) [thrown](kṣiptvā) [auspicious-radiance](śubha+prabhām)
 
 ## mukta-m0-p321-v8024
-[tat-vahniṃ](tadvahniṃ) [yasmai](yasmai) [dadyāt](dadyātsa) [sa](dadyātsa) [dāsa-vat](dāsavat)
+[that-fire](tad+vahniṃ) [to-whom](yasmai) [give](dadyāt) [he](sa) [like-servant](dāsa+vat)
 
 ## mukta-m0-p321-v8025
-[muni-devy-ādi-sevyānām](munidevyādisevyānāṃ) [kāśyām](kāśyāṃ) [saṅkhyā](saṅkhyā) [na](na) [vidyate](vidyate)
+[sage-goddess-etc-served](muni+devyādi+sevyānām) [in-kāśī](kāśyāṃ) [number](saṅkhyā) [not](na) [exists](vidyate)
