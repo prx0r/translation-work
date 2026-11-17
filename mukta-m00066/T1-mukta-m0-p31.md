@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p31-v751
-[of-wind](anilasya) [upward](ūrdhva) [holding](dhṛti) [removing](harī) [of-mind](manasaḥ) [firmness](dhairya) [increasing](vardhanī)
+[wind-gen](anilasyo) [steadiness-remover](dhṛtiharī) [mind-courage-increasing](manasodhairyavardhanī)
 
 ## mukta-m0-p31-v752
-[to-be-worshipped](upāsaniyā) [constantly](satataṃ) [by-great](mahā) [sacrifice](yāga) [performers](pravarttibhiḥ)
+[to-be-worshipped](upāsaniyā) [always](satataṃ) [great-sacrifice](mahāyāga) [by-proceedings](pravarttibhiḥ)
 
 ## mukta-m0-p31-v753
-[eight](aṣṭaka) [eight](aṣṭaka) [up-to](paryaṃtam) [even](api) [drop](biṃdum) [restraining](niryacchataḥ)
+[eight+eight-up-to-even](aṣṭakāṣṭakaparyaṃtamapi) [drop](biṃduḥ) [restraining](nniyacchataḥ)
 
 ## mukta-m0-p31-v754
-[of-gaulī](gaulī) [juice](rasasya) [by-power](prābalyāt) [firm](stabdha) [virility](vīryām) [went](agāt) [to-self](ātmaje)
+[of-gaulīra](gaulīrasasya) [from-strength](prābalyāt) [stiff-virility-in-son](stabdhavīryāmagātmaje)
 
 ## mukta-m0-p31-v755
-[sacrifice](yāga) [king](rāja) [principal](pradhāna) [limb](aṃgaṃ) [is-obtained](labhyate) [desired](iṣṭa) [oblation](āhuti) [by-sequence](kramāt)
+[sacrifice-king-chief-limb](yāgarāja-pradhānāṃgaṃ) [is-obtained-by-desired-offering-sequence](labhyateṣṭāhuti-kramāt)
 
 ## mukta-m0-p31-v756
-[other](aparaṃ) [what](kim) [indeed](nu) [O-beautiful-one](kalyāṇi) [to-ask](praṣṭum) [eager](utkaṃṭhitaṃ) [mind](manaḥ)
+[another](aparaṃ) [what](kin) [O-auspicious-one](ukalyāṇi) [to-ask-eager](praṣṭumutkaṃṭhitaṃ) [mind](manaḥ)
 
 ## mukta-m0-p31-v757
-[of-that](tasya) [true-nature](svarūpaṃ) [to-describe](nirvaktum) [O-Bhavānī](bhavāni) [moon](iṃdu) [crest-jewel](śikhāmaṇe)
+[its](tasya) [form](svarūpaṃ) [to-declare](nirvaktu) [O-Bhavānī-moon-crested](bhavāniṃdu-śikhāmaṇe)
 
 ## mukta-m0-p31-v758
-[eight](aṣṭa) [oblations](āhutīḥ) [complete](avikalāḥ) [performs](karoti) [very](su) [great](mahā) [minded-one](āśayaḥ)
+[eight-offerings](aṣṭāhutīr) [unbroken](avikalāḥ) [does](karoti) [very-great-minded-one](sumahāśayaḥ)
 
 ## mukta-m0-p31-v759
-[three](tri) [eight](aṣṭaka) [oblations](āhutayaḥ) [of-a-man](puṃsaḥ) [three-worlds](trailokyaṃ) [accomplish](sādhayaṃti) [indeed](vai)
+[three+eight-offerings](tryaṣṭakāhutayaḥ) [to-men](puṃsas) [the-three-worlds](trailokyaṃ) [accomplish](sādhayaṃti) [indeed](vai)
 
 ## mukta-m0-p31-v760
-[who](ye) [perform](kurvaṃti) [oblations](āhutīḥ) [meritorious](puṇyāḥ) [in-blazing](jvalite) [liṅga](liṃga) [fire](pāvake)
+[who](ye) [perform-offerings](kurvaṃtyāhutiḥ) [sacred](puṇyāḥ) [in-kindled](jvalite) [linga-fire](liṃgapāvake)
 
 ## mukta-m0-p31-v761
-[of-them](teṣāṃ) [all](samastam) [sovereignty](aiśvaryaṃ) [by-will](saṃkalpāt) [alone](eva) [is-accomplished](sidhyati)
+[of-them](teṣāṃ) [all](samastam) [sovereignty](aiśvaryaṃ) [by-intention-alone](saṃkalpādeva) [is-accomplished](sidhyati)
 
 ## mukta-m0-p31-v762
-[higher](uttara) [and-higher](uttaram) [of-these](eteṣāṃ) [liberation](nirvāṇa) [bliss](sukha) [cause-ness](hetutā)
+[higher-and-higher](uttarottaram) [of-these](eteṣāṃ) [liberation-bliss-cause](nirvāṇa-sukha-hetutā)
 
 ## mukta-m0-p31-v763
-[then](tat) [one](eka) [female-messenger](dūtikām) [one-should-make](kuryāt) [in-two](vi) [eights](aṣṭake) [female-messenger](dūtikā) [pair](dvayam)
+[that](tat) [one+eleven](ekādūtikā) [should-do](kuryāt) [in-eight-group](vyaṣṭake) [two-dūtikās](dūtikādvayam)
 
 ## mukta-m0-p31-v764
-[eight](aṣṭau) [female-messengers](dūtyaḥ) [indeed](tu) [to-be-made](karttavyāḥ) [and](ca) [to-be-worshipped](pūjanīyāḥ) [in-reality](tattvataḥ)
+[eight](aṣṭau) [dūtīs](dūtyas) [indeed](tu) [should-be-made](karttavyāḥ) [should-be-worshipped](pūjanīyāśca) [in-truth](tattvataḥ)
 
 ## mukta-m0-p31-v765
-[that](saḥ) [indeed](eva) [should-be-understood](abhyūhyatām) [O-mother](aṃba) [in-sequence](krameṇa) [in-two](dvi) [eight](aṣṭaka) [and-so-on](ādiṣu)
+[that](sa) [indeed](eva) [should-be-inferred](abhyūhyatām) [O-mother](amba) [in-sequence](krameṇa) [in-two+eight-etc](dvyaṣṭakādiṣu)
 
 ## mukta-m0-p31-v766
-[by-various](nānā) [kinds](vidhābhiḥ) [O-fair-hipped-one](suśroṇi) [of-that](tasya) [manifold](vyarthā) [powers](vibhūtayaḥ)
+[various](nānāvidhābhiḥ) [O-beautiful-thighed-one](suśroṇi) [of-that](tasya) [fruitless-powers](vyarthāvi-bhūtayaḥ)
 
 ## mukta-m0-p31-v767
-[love-god](anaṃga) [jewel](maṇi) [named](nāma) [is](asti) [vein](sirā) [greed](gṛddhiḥ) [mind](manaḥ) [charming](haraḥ)
+[Anaṅga-maṇi](anaṃgamaṇi) [is-named](nāmāsti) [vein-desire](sirāgṛddhiḥ) [charming](manoharaḥ)
 
 ## mukta-m0-p31-v768
-[renowned](pradhita) [of-that](asya) [giving](dinī) [and](ca) [this](iyam) [subduing](vaśinī) [speech](vāk) [power](vibhūti) [giving](dā)
+[of-Pradhita](pradhitasyaṃ) [this](dinī) [she](iyaṃ) [Vaśinī](vaśinī) [speech-power-giver](vāgvibhūtidā)
 
 ## mukta-m0-p31-v769
-[of-good](sādhu) [liṅga](liṃga) [great-lord](maheśasya) [union](saṃghaṭṭana) [by-expansion](vitānataḥ)
+[of-good-liṅga-lord](sādhuliṃgamaheśasya) [union-expanse](saṃghaṭṭana-vitānataḥ)
 
 ## mukta-m0-p31-v770
-[tamāla](tamāla) [dark](śyāmala) [shade](cchāyām) [desire](icchā) [indeed](eva) [astringent](kaṣāyitam)
+[tamāla-dark-shade](tamālaśyāmalacchāyām) [desire](īcca) [indeed](eva) [made-astringent](kaṣāyitam)
 
 ## mukta-m0-p31-v771
-[in-great](mahā) [rivers](nadīṣu) [in-all](sarvāsu) [distinguished](viśiṣṭā) [proclaimed](parikīrttitā)
+[in-great-rivers](mahānadīṣu) [in-all](sarvāsu) [distinguished](viśiṣṭā) [is-declared](parikīrttitā)
 
 ## mukta-m0-p31-v772
-[who](yaḥ) [satisfies](tarpayati) [liṅga](laiṃga) [fire](agnim) [he](saḥ) [all-ness](sarvatvaṃ) [attains](samṛcchati)
+[who](yas) [satisfies](tarpayati) [liṅga-fire](laiṃgāgniṃ) [all-ness](sasarvatvaṃ) [attains](samṛcchati)
 
 ## mukta-m0-p31-v773
-[having-made-own](ātmī-kṛtya) [and](ca) [element](bhūta) [principle](tattvaṃ) [everywhere](sarvatra) [unobstructed](askhalitaṃ) [motion](gatim)
+[making-own](ātmī-kṛtya) [and](ca) [bhūta-essence](bhūtattvaṃ) [everywhere](sarvatra) [unfaltering](askhalitaṃ) [movement](gatim)
 
 ## mukta-m0-p31-v774
-[obtains](labhate) [always](nitya) [free-from-care](niściṃtaḥ) [movement](saṃcāraṃ) [by-yoga](yoga) [power](māyayā)
+[attains](labhate) [always-carefree](nityaniściṃtaḥ) [movement](saṃcāraṃ) [by-yoga-power](yogamāyayā)
 
 ## mukta-m0-p31-v775
-[I-worship](arcayāmi) [your](bhavat) [body](gātra) [therefore](ataḥ) [success](siddhiṃ) [grant](prayaccha) [to-me](me)
+[I-worship](arcayāmi) [your](bhavad) [body](gātra) [from-this](mataḥ) [perfection](siddhiṃ) [give](prayaccha) [to-me](me)
