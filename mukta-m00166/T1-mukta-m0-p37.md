@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p37-v901
-[sarayūḥ](sarayūrmānasodbhūtā) [mānasa-udbhūtā](mānasodbhūtā) [vikriyām](vikriyām) [iti](iti)
+[sarayu](sarayū) [mind-born](mānasodbhūtā) [mind-born](mānasodbhūta) [transformation](vikriyām)
 
 ## mukta-m0-p37-v902
-[candrabhāgā](candrabhāgā) [devī](devī) [śubhā](śubhā) [bhavatu](bhavatu)
+[chandrabhaga](candrabhāgā)
 
 ## mukta-m0-p37-v903
-[yuṣmān](yuṣmān) [mahābhāgatayā](mahābhāgatayā) [yunaktu](yunaktu) [devaḥ](devaḥ)
+[you](yuṣmān) [great-fortune](mahābhāgatayā) [unite](yunaktu)
 
 ## mukta-m0-p37-v904
-[kauśikī](kauśikī) [devī](devī) [śubhā](śubhā) [bhavatu](bhavatu)
+[kaushiki](kauśikī)
 
 ## mukta-m0-p37-v905
-[vitaratu](vitaratu) [varakośam](varakośaṃ) [kauśikī](kauśikī) [suprakāśā](suprakāśā)
+[bestow](vitaratu) [treasure](varakośaṃ) [kaushiki](kauśikī) [well-shining](suprakāśā)
 
 ## mukta-m0-p37-v906
-[gaṇḍakī](gaṇḍakī) [devī](devī) [śubhā](śubhā) [bhavatu](bhavatu)
+[gandaki](gaṇḍakī)
 
 ## mukta-m0-p37-v907
-[śuciḥ](śuciḥ) [pāvanaḥ](pāvanaḥ) [devaḥ](devaḥ) [bhavatu](bhavatu)
+[pure](śuciḥ)
 
 ## mukta-m0-p37-v908
-[rucirā](rucirā) [asucirāt](asucirād) [astu](astu) [śuciḥ](śuciḥ)
+[beautiful](rucirā) [impure](asucirāt) [let-be](astu) [pure](śuciḥ) [self-caused](svākāraṇārthakṛt)
 
 ## mukta-m0-p37-v909
-[narmadā](narmadā) [devī](devī) [śubhā](śubhā) [bhavatu](bhavatu)
+[narmada](narmadā)
 
 ## mukta-m0-p37-v910
-[sā](sā) [narmadā](narmadā) [narmasu](narmasu) [dakṣiṇatvam](dakṣiṇatvam)
+[she](sā) [narmada](narmadā) [in-sports](narmasu) [southern-ness](dakṣiṇatvam)
 
 ## mukta-m0-p37-v911
-[karmanāśā](karmanāśā) [devī](devī) [śubhā](śubhā) [bhavatu](bhavatu)
+[karmanasha](karmanāśā)
 
 ## mukta-m0-p37-v912
-[naiṣkarmyam](naiṣkarmyameṣā) [eṣā](eṣā) [kila](kila) [karmanāśā](karmanāśā)
+[actionlessness](naiṣkarmyam) [this](eṣā) [indeed](kila) [karmanasha](karmanāśā)
 
 ## mukta-m0-p37-v913
-[carmaṇvatī](carmaṇvatī) [devī](devī) [śubhā](śubhā) [bhavatu](bhavatu)
+[charmanvati](carmaṇvatī)
 
 ## mukta-m0-p37-v914
-[carmaṇvatī](carmaṇvatī) [sadā](sadā) [bhūyāt](bhūyāccarmadṛṣṭiharā) [tava](tava)
+[charmanvati](carmaṇvatī) [always](sadā) [may-be](bhūyāt) [skin-sight-removing](carmadṛṣṭiharā) [your](tava)
 
 ## mukta-m0-p37-v915
-[devikā](devikā) [devī](devī) [śubhā](śubhā) [bhavatu](bhavatu)
+[devika](devikā)
 
 ## mukta-m0-p37-v916
-[brahmādikā](brahmādikā) [adhikā](adhikā) [devī](devī) [devikā](devikā)
+[brahma-etc-excellent](brahmādikādhikā) [goddess](devī) [devika](devikā) [god-famous](devaviśrutā)
 
 ## mukta-m0-p37-v917
-[vetravatī](vetravatī) [devī](devī) [śubhā](śubhā) [bhavatu](bhavatu)
+[vetravati](vetravatī)
 
 ## mukta-m0-p37-v918
-[trivetradhāribhiḥ](trivetradhāribhirgītā) [gītā](gītā) [bhaved](bhaved) [vetravatī](vetravatī)
+[three-vetra-bearing](trivetradhāribhir) [sung](gītā) [may-be](bhaved) [vetravati](vetravatī) [auspicious](śivā)
 
 ## mukta-m0-p37-v919
-[vitastā](vitastā) [devī](devī) [śubhā](śubhā) [bhavatu](bhavatu)
+[vitasta](vitastā)
 
 ## mukta-m0-p37-v920
-[saṃjīvayantī](saṃjīvayantyadbhutajīvanasya) [adbhutajīvanasya](adbhutajīvanasya) [dhyānāt](dhyānādapīyaṃ) [sukhadā](sukhadā)
+[reviving](saṃjīvayantī) [wonderful-life](adbhutajīvanasya) [by-meditation](dhyānāt) [this](iyam) [pleasure-giving](sukhadā) [vitasta](vitastā)
 
 ## mukta-m0-p37-v921
-[varadā](varadā) [devī](devī) [śubhā](śubhā) [bhavatu](bhavatu)
+[varada](varadā)
 
 ## mukta-m0-p37-v922
-[varadā](varadā) [iti](iti) [kathaṃ](kathaṃ) [gītā](gītā)
+[varada-thus](varadeti) [how](kathaṃ) [sung](gītā) [boon-wise](varadhībhir) [boon-lady](vareśvarī)
 
 ## mukta-m0-p37-v923
-[naravāhanā](naravāhanā) [devī](devī) [śubhā](śubhā) [bhavatu](bhavatu)
+[naravahana](naravāhanā)
 
 ## mukta-m0-p37-v924
-[naravāhanasaṃślāghyā](naravāhanasaṃślāghyā) [śriye](śriye'stu) [astu](astu) [naravāhanā](naravāhanā)
+[naravahana-praised](naravāhanasaṃślāghyā) [for-prosperity](śriye) [let-be](astu) [naravahana](naravāhanā)
 
 ## mukta-m0-p37-v925
-[satī](satī) [devī](devī) [śubhā](śubhā) [bhavatu](bhavatu)
+[sati](satī)

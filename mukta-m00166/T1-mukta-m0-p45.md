@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p45-v1101
-[sukeśī](sukeśī)
+[beautiful-haired](sukeśī)
 
 ## mukta-m0-p45-v1102
-[sukeśī](sukeśī)+[maheśī](maheśī)+[kacat](kacat)+[sat](sat)+[kaceśāḥ](kaceśāḥ)
+[sukeśī-maheśī-kaca-tsat-kaceśāḥ](sukeśīmaheśīkacatsatkaceśāḥ)
 
 ## mukta-m0-p45-v1103
-[suliṅgā](suliṅgā)
+[beautiful-linga](suliṅgā)
 
 ## mukta-m0-p45-v1104
-[guptā](guptā)+[sahāyī](sahāyī)+[bhavatāt](bhavatāt)+[suliṅgā](suliṅgā)
+[hidden+companion+become](guptā+sahāyībhavatāt+suliṅgā)
 
 ## mukta-m0-p45-v1105
-[bhagarūpiṇī](bhagarūpiṇī)
+[bhaga-formed](bhagarūpiṇī)
 
 ## mukta-m0-p45-v1106
-[rdhīraiḥ](rdhīraiḥ)+[niṣevyā](niṣevyā)+[bhagarūpiṇī](bhagarūpiṇī)+[sā](sā)
+[steadfast+worshipped+bhaga-formed+she](rdhīrairniṣevyā+bhagarūpiṇī+sā)
 
 ## mukta-m0-p45-v1107
-[yonimudrā](yonimudrā)
+[yoni-mudra](yonimudrā)
 
 ## mukta-m0-p45-v1108
-[sā](sā)+[yonimudrā](yonimudrā)+[astu](astu)+[mude](mude)+[sudehā](sudehā)
+[she+yoni-mudra+joy+good-body](sā+yonimudrāstu+mude+sudehā)
 
 ## mukta-m0-p45-v1109
-[mahāmudrā](mahāmudrā)
+[great-mudra](mahāmudrā)
 
 ## mukta-m0-p45-v1110
-[aikya](aikya)+[hetuḥ](hetuḥ)+[dvayoḥ](dvayoḥ)+[gītā](gītā)+[mahāmudrā](mahāmudrā)+[maheśvaraiḥ](maheśvaraiḥ)
+[unity-cause+two+sung+great-mudra+great-lord](aikyaheturdvayorgītā+mahāmudrā+maheśvaraiḥ)
 
 ## mukta-m0-p45-v1111
-[khecarī](khecarī)
+[sky-going](khecarī)
 
 ## mukta-m0-p45-v1112
-[sañcāraṃ](sañcāraṃ)+[khecarī](khecarī)+[yaṃ](yaṃ)+[vitaratu](vitaratu)+[ruciraṃ](ruciraṃ)+[khe](khe)+[ciraṃ](ciraṃ)+[cinmaye](cinmaye)+[naḥ](naḥ)
+[movement+sky-going+bestow+radiant+sky-moving+consciousness](sañcāraṃ+khecarīyaṃ+vitaratu+ruciraṃ+khe'ciraṃ+cinmaye+naḥ)
 
 ## mukta-m0-p45-v1113
-[khagagāminī](khagagāminī)
+[sky-going](khagagāminī)
 
 ## mukta-m0-p45-v1114
-[khagaḥ](khagaḥ)+[nityam](nityam)+[aviśrāntaḥ](aviśrāntaḥ)+[bhānuḥ](bhānuḥ)+[sā](sā)+[khagagāminī](khagagāminī)
+[bird+always+unresting+sun+she+sky-going](khago+nityamaviśrānto+bhānuḥ+sā+khagagāminī)
 
 ## mukta-m0-p45-v1115
-[madhuśrīḥ](madhuśrīḥ)
+[honey-glory](madhuśrīḥ)
 
 ## mukta-m0-p45-v1116
-[sadā](sadā)+[bhavatu](bhavatu)+[devatā](devatā)+[mama](mama)+[matā](matā)+[madhuśrīḥ](madhuśrīḥ)+[śriye](śriye)
+[always+become+deity+my+thought+honey-glory+prosperity](sadā+bhavatu+devatā+mama+matā+madhuśrīḥ+śriye)
 
 ## mukta-m0-p45-v1117
-[mādhavīvallī](mādhavīvallī)
+[madhavi-creeper](mādhavīvallī)
 
 ## mukta-m0-p45-v1118
-[karotu](karotu)+[mādhavīvallī](mādhavīvallī)+[nirbhramaṃ](nirbhramaṃ)+[mama](mama)+[mānasam](mānasam)
+[make+madhavi-creeper+without-delusion+my+mind](karotu+mādhavīvallī+nirbhramaṃ+mama+mānasam)
 
 ## mukta-m0-p45-v1119
-[madhumattā](madhumattā)
+[honey-intoxicated](madhumattā)
 
 ## mukta-m0-p45-v1120
-[pūrṇa](pūrṇa)+[vilokana](vilokana)+[bhāṣaṇa](bhāṣaṇa)+[yānaṃ](yānaṃ)+[saṃracayati](saṃracayati)+[uditā](uditā)+[madhumattā](madhumattā)
+[full-vision+speech+movement+proclaimed+honey-intoxicated](pūrṇavilokanabhāṣaṇayānaṃ+saṃracayatyuditā+madhumattā)
 
 ## mukta-m0-p45-v1121
-[madoddhatā](madoddhatā)
+[honey-exalted](madoddhatā)
 
 ## mukta-m0-p45-v1122
-[madoddhataḥ](madoddhataḥ)+[jātu](jātu)+[na](na)+[yat](yat)+[subhaktaḥ](subhaktaḥ)+[madoddhatā](madoddhatā)+[citram](citram)+[iyaṃ](iyaṃ)+[śriye](śriye)+[stāt](stāt)
+[honey-exalted+ever+not+devotee+honey-exalted+wonder+prosperity+be](madoddhato+jātu+na+yatsubhakto+madoddhatā+citramiyaṃ+śriye+stāt)
 
 ## mukta-m0-p45-v1123
-[mātaṅgī](mātaṅgī)
+[mataṅgī](mātaṅgī)
 
 ## mukta-m0-p45-v1124
-[ātaṅkaṃ](ātaṅkaṃ)+[vā](vā)+[aśaṅka](aśaṅka)+[mātmapradīpe](mātmapradīpe)+[mātaṅgī](mātaṅgī)+[yaṃ](yaṃ)+[mattamātaṅgayānā](mattamātaṅgayānā)
+[fear+or+doubt+self-lamp+mataṅgī+intoxicated-mataṅga-vehicle](ātaṅkaṃ+vā'śaṅkamātmapradīpe+mātaṅgīyaṃ+mattamātaṅgayānā)
 
 ## mukta-m0-p45-v1125
-[śukahastā](śukahastā)
+[parrot-handed](śukahastā)

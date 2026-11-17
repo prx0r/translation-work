@@ -25,7 +25,7 @@
 },
 {
 "surface": "prāṇayajñādyaiḥ",
-"quick_gloss": "by-breath+sacrifice+etc"
+"quick_gloss": "by-prāṇa-sacrifice-etc"
 },
 {
 "surface": "ko'pi",
@@ -33,7 +33,7 @@
 },
 {
 "surface": "naipuṇyapuṇyabhāk",
-"quick_gloss": "possessor-of-skill+merit"
+"quick_gloss": "skill-merit-possessor"
 }
 ]
 },
@@ -59,11 +59,11 @@
 "tokens": [
 {
 "surface": "sṛṣṭyādi",
-"quick_gloss": "creation+etc"
+"quick_gloss": "creation-etc"
 },
 {
 "surface": "racayati",
-"quick_gloss": "creates"
+"quick_gloss": "fashions"
 },
 {
 "surface": "eṣā",
@@ -113,15 +113,11 @@
 },
 {
 "surface": "vedamātā",
-"quick_gloss": "veda+mother"
+"quick_gloss": "veda-mother"
 },
 {
-"surface": "jayati",
-"quick_gloss": "triumphs"
-},
-{
-"surface": "asau",
-"quick_gloss": "that"
+"surface": "jayatyasau",
+"quick_gloss": "victorious-is-she"
 }
 ]
 },
@@ -146,8 +142,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "vighnamevāmarā",
-"quick_gloss": "obstacle+indeed+immortals"
+"surface": "vighnameva",
+"quick_gloss": "obstacle-indeed"
+},
+{
+"surface": "amarā",
+"quick_gloss": "immortals"
 },
 {
 "surface": "bhaktyā",
@@ -159,7 +159,7 @@
 },
 {
 "surface": "sā'svādyatāṃ",
-"quick_gloss": "let-that-be-tasted"
+"quick_gloss": "let-it-be-tasted"
 },
 {
 "surface": "budhāḥ",
@@ -189,7 +189,7 @@
 "tokens": [
 {
 "surface": "kṛtināṃ",
-"quick_gloss": "of-the-virtuous"
+"quick_gloss": "of-doers"
 },
 {
 "surface": "svaṃ",
@@ -197,7 +197,7 @@
 },
 {
 "surface": "yadāśrityā",
-"quick_gloss": "having-relied-upon"
+"quick_gloss": "having-resorted"
 },
 {
 "surface": "dhṛtiḥ",
@@ -205,7 +205,7 @@
 },
 {
 "surface": "labhyā",
-"quick_gloss": "is-obtained"
+"quick_gloss": "obtainable"
 },
 {
 "surface": "kathaṃ",
@@ -213,7 +213,7 @@
 },
 {
 "surface": "calaiḥ",
-"quick_gloss": "by-the-unsteady"
+"quick_gloss": "by-unsteady"
 }
 ]
 },
@@ -276,7 +276,7 @@
 "tokens": [
 {
 "surface": "prathā",
-"quick_gloss": "fame"
+"quick_gloss": "tradition"
 }
 ]
 },
@@ -297,7 +297,7 @@
 },
 {
 "surface": "prathā",
-"quick_gloss": "fame"
+"quick_gloss": "tradition"
 },
 {
 "surface": "siddhā",
@@ -313,7 +313,7 @@
 },
 {
 "surface": "sā",
-"quick_gloss": "that"
+"quick_gloss": "she"
 }
 ]
 },
@@ -326,7 +326,7 @@
 "tokens": [
 {
 "surface": "prasiddhā",
-"quick_gloss": "well-known"
+"quick_gloss": "renowned"
 }
 ]
 },
@@ -343,7 +343,7 @@
 },
 {
 "surface": "prasiddhā",
-"quick_gloss": "well-known"
+"quick_gloss": "renowned"
 },
 {
 "surface": "siddhidāstu",
@@ -364,7 +364,7 @@
 "tokens": [
 {
 "surface": "mṛḍānī",
-"quick_gloss": "parvati"
+"quick_gloss": "mṛḍānī"
 }
 ]
 },
@@ -385,11 +385,11 @@
 },
 {
 "surface": "tannūnaṃ",
-"quick_gloss": "indeed-that"
+"quick_gloss": "indeed"
 },
 {
 "surface": "mṛḍānīsaṅgagauravam",
-"quick_gloss": "mṛḍānī+association+glory"
+"quick_gloss": "Mṛḍānī-association-glory"
 }
 ]
 },
@@ -402,7 +402,7 @@
 "tokens": [
 {
 "surface": "vindhyavāsinī",
-"quick_gloss": "vindhya-dweller"
+"quick_gloss": "Vindhya-dweller"
 }
 ]
 },
@@ -419,7 +419,7 @@
 },
 {
 "surface": "sudurbandhaṃ",
-"quick_gloss": "very-difficult-to-bind"
+"quick_gloss": "very-hard-bound"
 },
 {
 "surface": "chindhi",
@@ -431,7 +431,7 @@
 },
 {
 "surface": "vindhyavāsinī",
-"quick_gloss": "vindhya-dweller"
+"quick_gloss": "Vindhya-dweller"
 }
 ]
 },
@@ -444,7 +444,7 @@
 "tokens": [
 {
 "surface": "siddhavidyā",
-"quick_gloss": "perfected-knowledge"
+"quick_gloss": "accomplished-knowledge"
 }
 ]
 },
@@ -456,16 +456,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "viśvavaicitryanirmāṇahetur",
-"quick_gloss": "world+variety+creation+cause"
+"surface": "viśvavaicitryanirmāṇahetuḥ",
+"quick_gloss": "world-variety-creation-cause"
 },
 {
 "surface": "jayati",
-"quick_gloss": "triumphs"
+"quick_gloss": "victorious"
 },
 {
 "surface": "sā",
-"quick_gloss": "that"
+"quick_gloss": "she"
 },
 {
 "surface": "parā",
@@ -482,7 +482,7 @@
 "tokens": [
 {
 "surface": "mahāśaktiḥ",
-"quick_gloss": "great+power"
+"quick_gloss": "great-power"
 }
 ]
 },
@@ -503,15 +503,19 @@
 },
 {
 "surface": "mahāśaktisaktiḥ",
-"quick_gloss": "great-power+attachment"
+"quick_gloss": "great-power-attachment"
 },
 {
-"surface": "paśupatir",
-"quick_gloss": "paśupati"
+"surface": "paśupatiḥ",
+"quick_gloss": "Paśupati"
 },
 {
-"surface": "na cet",
-"quick_gloss": "if-not"
+"surface": "na",
+"quick_gloss": "not"
+},
+{
+"surface": "cet",
+"quick_gloss": "if"
 }
 ]
 },
