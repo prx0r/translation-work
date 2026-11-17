@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p68-v1676
-[with-these](ebhis) [indeed](tu) [with-five](pañcabhiḥ) [joined](yuktaiḥ) [bathing](snānam) [worship](arcā) [etc.](ādi) [purification](śodhanam)
+[by-these](ebhiḥ) [but](tu) [five](pañcabhiḥ) [joined](yuktaiḥ) [bathing](snānam) [worship-etc-purification](arcādiśodhanam)
 
 ## mukta-m0-p68-v1677
-[with-īśāna](īśāna) [with-vaktra](vaktraghora) [with-ghora](āhva) [called](guhyājātākhya) [secret-born-named](mantritaiḥ)
+[īśāna-etc-mantra-endowed](īśānavaktraghorāhvaguhyājātākhyamantritaiḥ)
 
 ## mukta-m0-p68-v1678
-[bull](vṛṣa) [horn](śṛṅga) [dug-up](samutkhātāḥ) [fire](pavaka) [abode](āśraya) [originated](sambhavāḥ)
+[bull-horn-dug](vṛṣaśṛṅgasamutkhātāḥ) [fire-abode-born](pavakāśrayasambhavāḥ)
 
 ## mukta-m0-p68-v1679
-[with-aja-mantra](ajena) [by-washing](kṣālanāt) [earth](pṛthvī) [in-order](kramataḥ) [indeed](tu) [with-kalā](kalāvatā)
+[by-goat](ajena) [washing](kṣālanāt) [earth](pṛthvī) [step-by-step](kramataḥ) [tu](tu) [with-kalā](kalāvatā)
 
 ## mukta-m0-p68-v1680
-[with-lukewarm](kavoṣṇaiḥ) [indeed](tu) [with-third](tṛtīyena) [bathing](snānaṃ) [chisel](ṭaṅka) [wound](kṣata) [removing](āpaham)
+[lukewarm](kavoṣṇaiḥ) [tu](tu) [third](tṛtīyena) [bathing](snānam) [axe-wound-removing](ṭaṅkakṣatāpaham)
 
 ## mukta-m0-p68-v1681
-[with-nidigdhikā](nidigdhikā) [with-balā](balā) [roots](mūlaiḥ) [bathing](snānaṃ) [with-guhya-mantra](guhyena) [defect](doṣa) [removing](hṛt)
+[nidigdhikā](nidigdhikā) [balā-roots](balāmūlaiḥ) [bathing](snānam) [secret](guhyena) [fault-removing](doṣahṛt)
 
 ## mukta-m0-p68-v1682
-[with-dhātrī](dhātryā) [by-bathing](snānāt) [earth](mahī) [when-abandoned](tyakte) [with-sadyojāta-mantra](sadyojātena) [becomes-pure](śuddhyati)
+[by-dhātrī](dhātryā) [bathing](snānāt) [earth](mahī) [thus](ityakte) [sadyojāta](sadyojātena) [purified](śuddhyati)
 
 ## mukta-m0-p68-v1683
-[having-rubbed](samudvartya) [the-great-god](mahādevaṃ) [from-holy-places](tīrthotthaiḥ) [one-should-bathe](snāpayet) [with-waters](jalaiḥ)
+[having-rubbed](samudvartya) [mahādeva](mahādevam) [tīrtha-born](tīrthotthaiḥ) [waters](jalaiḥ) [bathe](snāpayet)
 
 ## mukta-m0-p68-v1684
-[puṣkara](puṣkaraṃ) [naimiṣa-forest](naimiṣāraṇyaṃ) [holy-place](tīrthaṃ) [and](ca) [varūṇa](varūṇaṃ) [likewise](tathā)
+[puṣkara](puṣkaram) [naimiṣa-forest](naimiṣāraṇyam) [tīrtha](tīrtham) [ca](ca) [varuṇa](varūṇam) [tathā](tathā)
 
 ## mukta-m0-p68-v1685
 [jāhnavī](jāhnavī) [yamunā](yamunā) [kauśī](kauśī) [sarayū](sarayū) [śoṇa](śoṇa) [narmadā](narmadā)
 
 ## mukta-m0-p68-v1686
-[seven](sapta) [godāvarī](godāvarī) [thus](iti) [these](etāḥ) [holy](puṇya) [rivers](nadyaḥ) [with-great](mahā) [waters](jalaiḥ)
+[seven-godāvarī](saptagodāvarī) [thus](ityetāḥ) [holy-rivers](puṇyanadyaḥ) [great-waters](mahājalaiḥ)
 
 ## mukta-m0-p68-v1687
-[alkaline](kṣāra) [milk](kṣīra) [curd](dadhi) [oil](sneha) [sugarcane](ikṣu) [juice](rasa) [liquor](dāsura) [waters](udakāḥ)
+[alkali-milk-curd-ghee-sugarcane-juice-sura-water](kṣārakṣīradadhisnehekṣurasodasurodakāḥ)
 
 ## mukta-m0-p68-v1688
-[crystal](sphāṭikaṃ) [ruby](padyarāgaṃ) [and](ca) [rājāvarta](rājāvartaḥ) [good-coral](suvidrumam)
+[crystal](sphāṭikam) [padmarāga](padyarāgam) [ca](ca) [rājāvarta](rājāvartaḥ) [suvidruma](suvidrumam)
 
 ## mukta-m0-p68-v1689
-[with-these](etat) [jewel](ratna) [waters](udakaiḥ) [bathing](snānaṃ) [great](mahā) [prosperity](bhūti) [making](karam) [supreme](param)
+[this-gem-water-bathing](etadratnodakaiḥ) [snānam](snānam) [great-auspicious](mahābhūtikaram) [supreme](param)
 
 ## mukta-m0-p68-v1690
-[camphor](karpūra) [aguru](aguru) [musk](kastūrī) [kāśmarī](kāśmarī) [sandalwood](candana) [etc.](ādikaiḥ)
+[camphor-aguru-musk-etc](karpūrāgurukastūrīkāśmarīcandanādikaiḥ)
 
 ## mukta-m0-p68-v1691
-[one-should-bathe](snāpayet) [with-fragrant](gandha) [water](toyena) [with-ajāta-mantra](ajātena) [consecrated](abhimantritam)
+[bathe](snāpayet) [fragrant-water](gandhatoyena) [ajāta-mantra-endowed](ajātenābhimantritam)
 
 ## mukta-m0-p68-v1692
-[white-lotus](puṇḍarīka) [lotus](abja) [mālūra](mālūra) [blue](nīla) [red](rakta) [lotus](utpala) [arka-born](arkajam)
+[lotus-blue-lotus-red-lotus-sun-born](puṇḍarīkābjamālūranīlaraktotpalārkajam)
 
 ## mukta-m0-p68-v1693
-[mango](sahakāra) [aśvamāra](aśvamāraṃ) [and](ca) [punnāga](punnāga) [bakula](bakulāni) [and](ca)
+[sahakāra-aśvamāra](sahakārāśvamāram) [ca](ca) [punnāga-bakula](punnāgabakulāni) [ca](ca)
 
 ## mukta-m0-p68-v1694
-[pāṭalā](pāṭalā) [droṇa](droṇa) [nepālī](nepālī) [kuśa](kuśa) [kiṃśuka](kiṃśuka) [siṃhikā](siṃhikāḥ)
+[pāṭalā-droṇa-nepālī](pāṭalādroṇanepālī) [kuśa-kiṃśuka-siṃhikā](kuśakiṃśukasiṃhikāḥ)
 
 ## mukta-m0-p68-v1695
-[soft](mṛdu) [kunda](kunda) [lotus](abja) [leaved](patrī) [and](ca) [vṛṣa](vṛṣa) [ṛṣibuka](ṛṣibuka) [flower](puṣpakam)
+[soft-kunda-lotus-leaf](mṛdukundābjapatrī) [ca](ca) [vṛṣa-ṛṣi-buka-flower](vṛṣarṣibukapuṣpakam)
 
 ## mukta-m0-p68-v1696
-[bila](bila) [mango](āmra) [banana](mocana) [orange](āraṅga) [jackfruit](panasaṃ) [coconut](nālikerakam)
+[bilva-āmra-mocana-āraṅga](bilāmramocanāraṅga) [panasa](panasam) [coconut](nālikerakam)
 
 ## mukta-m0-p68-v1697
-[jujube](vadarī) [citron](bījapūraṃ) [and](ca) [kava](kava) [marda](mardaṃ) [with-tinduka](satindukam)
+[jujube-citron](vadarībījapūram) [ca](ca) [kara-marda](karamardam) [satinduka](satindukam)
 
 ## mukta-m0-p68-v1698
-[fruit](phala) [bathing](snānam) [this](idam) [meritorious](pupyaṃ) [of-the-performer](kartuḥ) [desired](icchā) [fruit](phala) [giving](pradam)
+[fruit-bathing](phalasnānam) [this](idam) [holy](pupyaṃ) [doer-desire-fruit-giving](karturicchāphalapradam)
 
 ## mukta-m0-p68-v1699
-[sesame](tila) [wheat](godhuma) [sugda](sugdā) [etc.](ādi) [barley](yava) [grain](dhānya) [priyaṅgu](priyaṅgubhiḥ)
+[sesame-wheat-sugdā-etc](tilagodhumasugdādi) [barley-grain-priyaṅgu](yavadhānyapriyaṅgubhiḥ)
 
 ## mukta-m0-p68-v1700
-[from-five](pañca) [brahmans](brahma) [arisen](udbhavaiḥ) [with-mantras](mantraiḥ) [great](mahā) [bathing](snānaṃ) [auspiciousness](śubha) [giving](pradam)
+[five-brahma-born-mantras](pañcabrahmodbhavairmantraiḥ) [great-bathing](mahāsnānam) [auspicious-giving](śubhapradam)

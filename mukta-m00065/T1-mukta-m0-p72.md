@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p72-v1776
-[with-balls](piṇḍaiḥ) [or](vā) [with-own-parts](sva+kala) [endowed](anvitaiḥ)
+[with-lumps](piṇḍaiḥ) [or](vā) [with-own-parts-endowed](svakalānvitaiḥ)
 
 ## mukta-m0-p72-v1777
-[blazing-fire](jvalat+agni) [having-appearance](samākāraṃ) [flashing](visphurantaṃ) [on-all-sides](samantataḥ)
+[blazing-fire-like](jvaladagnisamākāraṃ) [shining](visphurantaṃ) [all-around](samantataḥ)
 
 ## mukta-m0-p72-v1778
-[all](sarvaṃ) [is-purified](śuddhyati) [by-that](tena) [indeed](eva) [world](jagat) [stationary-and-moving](sthāvara+jaṅgamam)
+[everything](sarvaṃ) [becomes-purified](śuddhyati) [by-that-very](tenaiva) [world](jagat) [immovable-and-moving](sthāvarajaṅgamam)
 
 ## mukta-m0-p72-v1779
-[Avīci](avicī) [Raurava](rauravaḥ) [and](ca) [indeed](eva) [Mahāraurava](mahāraurava) [indeed](eva) [and](ca)
+[avicī](avicī) [and-raurava](rauravaścaiva) [and-mahāraurava](mahāraurava) [also](eva) [ca](ca)
 
 ## mukta-m0-p72-v1780
-[called-Nitala](nitala+āhvaṃ) [called-Vara](vara+āhvaṃ) [and](ca) [called-Ābhāsa](ābhāsa+ākhyaṃ) [and](ca) [seventh](saptamam)
+[named-nitala](nitalāhvaṃ) [named-vara](varāhvaṃ) [ca](ca) [named-ābhāsa](ābhāsākhyaṃ) [ca](ca) [seventh](saptamam)
 
 ## mukta-m0-p72-v1781
-[Hara](haraḥ)
+[śiva](haraḥ)
 
 ## mukta-m0-p72-v1782
-[earth-principle](urvi+tattvaṃ) [declared](samākhyātaṃ) [from-water-etc.](jala+ādi) [twofold](dviguṇaṃ) [in-order](kramāt)
+[earth-tattva](urvitattvaṃ) [declared](samākhyātaṃ) [water-etc-double](jalādidviguṇaṃ) [in-order](kramāt)
 
 ## mukta-m0-p72-v1783
-[touch](sparśaḥ) [sound](śabdaḥ) [and](ca) [five](pañca) [indeed](eva) [subtle-elements](tanmātrāṇi) [in-due-order](yathākramam)
+[touch](sparśaḥ) [sound](śabdaśca) [and-five](pañcaiva) [tanmātras](tanmātrāṇi) [in-order](yathākramam)
 
 ## mukta-m0-p72-v1784
-[spirit](pumān) [attachment](rāgaḥ) [and](ca) [knowledge](vidyā) [and](ca) [necessity](niyatiḥ) [and](ca) [Kulāntaka](kulāntakaḥ)
+[puruṣa](pumān) [attachment](rāgaśca) [knowledge](vidyā) [ca](ca) [limitation](niyatiśca) [kulāntaka](kulāntakaḥ)
 
 ## mukta-m0-p72-v1785
-[power](śaktiḥ) [and](ca) [from-these](ebhyaḥ) [beyond](parastāt) [and](ca) [called-Śiva](śiva+ākhyaḥ) [supreme](paramaḥ) [imperishable](avyayaḥ)
+[śakti](śaktiścebhyaḥ) [beyond-them](parastācca) [śiva-named](śivākhyaḥ) [supreme](paramo) [imperishable](avyayaḥ)
 
 ## mukta-m0-p72-v1786
-[five-elements](pañca+bhūtaṃ) [and](ca) [subtle-elements](tanmātraṃ) [intellect](buddhiḥ) [organs-of-action](karma+indriyaṇi) [and](ca)
+[five-elements](pañcabhūtaṃ) [ca](ca) [tanmātra](tanmātraṃ) [intellect](buddhiḥ) [action-organs](karmendriyaṇi) [ca](ca)
 
 ## mukta-m0-p72-v1787
-[twenty-four](caturviṃśati) [principles](tattvāni) [primordial-nature](prakṛtiḥ) [going-to-left-ear](vāma+karṇa+gāḥ)
+[twenty-four-tattvas](caturviṃśatitattvāni) [prakṛti](prakṛtirvāmakarṇagāḥ)
 
 ## mukta-m0-p72-v1788
-[declared](samākhyātā) [necessity](niyatiḥ) [in-heart](hṛdaye) [situated](sthitā)
+[declared](samākhyātā) [niyati](niyatirhṛdaye) [in-heart](sthitā)
 
 ## mukta-m0-p72-v1789
-[twenty-five](pañcaviṃśat) [and](ca) [principles](tattvāni) [in-body](piṇḍī+kāyāṃ) [situated](sthitāni) [indeed](tu)
+[twenty-five](pañcaviṃśacca) [tattvas](tattvāni) [in-piṇḍīkā](piṇḍīkāyāṃ) [situated](sthitāni) [tu](tu)
 
 ## mukta-m0-p72-v1790
-[consisting-of-mantra](mantra+bhūtaṃ) [Śiva](śivaṃ) [there](tatra) [one-should-install](vinyaset) [for-success-and-liberation](siddhi+muktaye)
+[mantra-form](mantrabhūtaṃ) [śiva](śivaṃ) [there](tatra) [install](vinyasetsiddhimuktaye)
 
 ## mukta-m0-p72-v1791
-[having-installed](nyasya) [indeed](tu) [one-should-visualize](bhāvayet) [pervasion](vyāptiṃ) [Śiva-form](śiva+rūpaṃ) [and](ca) [which](yat) [supreme](param)
+[having-installed](nyasya) [tu](tu) [meditate](bhāvayedvyāptiṃ) [śiva-form](śivarūpaṃ) [ca](ca) [supreme](yatparam)
 
 ## mukta-m0-p72-v1792
-[from-Īśvara-to-Śiva](īśvara+ādi+śiva+antaṃ) [and](ca) [triad](tritayaṃ) [one-should-offer](homayet) [somewhere](kvacit)
+[īśvara-to-śiva](īśvarādiśivāntaṃ) [ca](ca) [triad](tritayaṃ) [offer](homayetkvacit)
 
 ## mukta-m0-p72-v1793
-[with-Śiva-pot-water](śiva+kumbha+ambunā) [likewise](tadvat) [above-that](tat+ūrdhve) [and](ca) [one-should-remove](haret) [body](tanum)
+[with-śiva-pot-water](śivakumbhāmbunā) [similarly](tadvattadūrdhve) [ca](ca) [hari-body](harestanum)
 
 ## mukta-m0-p72-v1794
-[varṇa-Rudras-etc.](varṇa+rudra+ādi) [Vidyēśas](vidyeśān) [world-lords](lokeśān) [leaders-of-gaṇas](gaṇa+nāyakān)
+[letter-rudra-etc-vidyeśas](varṇarudrādividyeśāṃllokeśān) [gaṇa-leaders](gaṇanāyakān)
 
 ## mukta-m0-p72-v1795
-[not](na) [indeed](api) [burnt](dagdhaṃ) [and](ca) [by-Śaiva-mantras](śaivaiḥ+mantraiḥ) [accomplished](prasādhitam)
+[not](nāpi) [burnt](dagdhaṃ) [ca](ca) [by-śaiva-mantras](śaivairmantraiḥ) [propitiated](prasādhitam)
 
 ## mukta-m0-p72-v1796
-[final-oblation](pūrṇa+āhutiṃ) [with-Śiva](śivena) [then](ataḥ) [of-the-rite](yāgasya) [for-completion](paripūrtaye)
+[full-offering](pūrṇāhutiṃ) [by-śiva](śivenāto) [of-sacrifice](yāgasya) [for-completion](paripūrtaye)
 
 ## mukta-m0-p72-v1797
-[at-that-time](tasmin+kāle) [to-the-guru](gurau) [gift](dānaṃ) [one-should-give](dadyāt) [according-to-wealth](vitta+anusārataḥ)
+[at-that-time](tasminkāle) [to-guru](gurau) [gift](dānaṃ) [give](dadyādvittānusārataḥ)
 
 ## mukta-m0-p72-v1798
-[with-right-half](dakṣiṇa+ardhena) [hand](hastena) [again](punar) [oblation](homaṃ) [one-should-cause-to-offer](pradāpayet)
+[with-right-half](dakṣiṇārdhena) [hand](hastena) [again](punarhomaṃ) [cause-to-offer](pradāpayet)
 
 ## mukta-m0-p72-v1799
-[in-expiation](prāyaścitte) [likewise](tathā) [in-obstacle](vighne) [great-weapon](mahā+astraṃ) [one-should-offer](homayet) [then](tataḥ)
+[for-expiation](prāyaścitte) [tathā](tathā) [obstacle](vighne) [great-astra](mahāstraṃ) [offer](homayettataḥ)
 
 ## mukta-m0-p72-v1800
-[at-night](rātrau) [great-festival](mahā+utsavaḥ) [should-be-done](kāryaḥ) [with-conch-drum-etc.](śaṅkha+bherī+ādi) [sounds](nisvanaiḥ)
+[at-night](rātrau) [great-festival](mahotsavaḥ) [be-done](kāryaḥ) [with-conch-drum-etc-sounds](śaṅkhabheryādinisvanaiḥ)

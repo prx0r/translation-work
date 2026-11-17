@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p76-v1876
-[śiva](śiva) [umā](umā) [mantra](mantra) [yogena](yogena) [union](sandhānaṃ) [prosperity](bhūti) [desiring](kāṅkṣiṇām)
+[by-union-of-śiva-umā-mantra](śivomāmantrayogena) [joining](sandhānaṃ) [of-those-desiring-prosperity](bhūtikāṅkṣiṇām)
 
 ## mukta-m0-p76-v1877
-[form](mūrti) [etc.](ādi) [limb](aṅka) [ending](avasānaṃ) [but](tu) [again](punar) [thus](evaṃ) [but](tu) [should-place](vinyaset)
+[ending-of-marks-from-image-etc](mūrtyādyaṅkāvasānaṃ) [but](tu) [again](punarevaṃ) [and](tu) [should-place](vinyaset)
 
 ## mukta-m0-p76-v1878
 [then](tataḥ)
 
 ## mukta-m0-p76-v1879
-[rudra](rudra) [etc.](ādīnāṃ) [but](tu) [of-all](sarveṣāṃ) [installation](sthāpanaṃ) [in-reality](tathvataḥ) [in-order](kramāt)
+[of-rudra-etc](rudrādīnāṃ) [but](tu) [of-all](sarveṣāṃ) [installation](sthāpanaṃ) [truly](tathvataḥ) [in-order](kramāt)
 
 ## mukta-m0-p76-v1880
-[self](ātma) [knowledge](vidyāḥ) [śiva](śivaṃ) [and](ca) [indeed](eva) [should-meditate](bhāvayet) [in-sequence](anupūrvataḥ)
+[self-knowledges](ātmavidyāḥ) [śiva](śivaṃ) [and](ca) [indeed](eva) [should-meditate](bhāvayedanupūrvataḥ)
 
 ## mukta-m0-p76-v1881
-[situated](vyavasthitāḥ)
+[established](vyavasthitāḥ)
 
 ## mukta-m0-p76-v1882
-[knowledge](vidyā) [principle](tattve) [situated](sthitā) [indeed](hi) [these](ete) [with-authority](sādhikāre) [know](vidur) [the-wise](budhāḥ)
+[in-vidyā-principle](vidyātattve) [situated](sthitā) [indeed](hyete) [these](ete) [with-authority](sādhikāre) [know](vidurbudhāḥ)
 
 ## mukta-m0-p76-v1883
-[three](tri) [principle](tattva) [pervasion](vyāptir) [declared](ākhyātā) [paths](panthānaḥ) [sixfold](ṣaḍvidhās) [but](tu) [here](iha)
+[pervasion-of-three-principles](tritattvavyāptirākhyātā) [paths](panthānaḥ) [sixfold](ṣaḍvidhāstviha)
 
 ## mukta-m0-p76-v1884
 [in-order](kramāt)
 
 ## mukta-m0-p76-v1885
-[thirty](triṃśat) [five](pañca) [more](adhikaṃ) [principle](tattvaṃ) [true](sat) [path](mārgaṃ) [seat](pīṭham) [lordly](aiśvaram)
+[thirty-five-more](triṃśatpañcādhikaṃ) [principle](tattvaṃ) [good-path](sanmārgaṃ) [lordly-seat](pīṭhamaiśvaram)
 
 ## mukta-m0-p76-v1886
-[with-arms](bhujais) [but](tu) [ten](daśabhir) [endowed](yuktaṃ) [matted-hair](jaṭā) [crown](mukuṭa) [adorned](maṇḍitam)
+[with-arms](bhujaistu) [with-ten](daśabhiryuktaṃ) [adorned-with-matted-crown](jaṭāmukuṭamaṇḍitam)
 
 ## mukta-m0-p76-v1887
-[by-attendants](gaṇair) [by-gods](devais) [and](tathā) [by-siddhas](siddhaiḥ) [being-praised](stūyamānaiḥ) [accompanied](samāyutam)
+[with-gaṇas](gaṇairdevaistathā) [with-gods](devaistathā) [with-siddhas](siddhaiḥ) [being-praised](stūyamānaiḥ) [accompanied](samāyutam)
 
 ## mukta-m0-p76-v1888
-[with-sadyojāta](sadyolātena) [having-contemplated](saṃcintya) [with-vāmadeva](vāmadevena) [should-place](vinyaset)
+[by-sadyojāta](sadyolātena) [having-meditated](saṃcintya) [by-vāmadeva](vāmadevena) [should-place](vinyaset)
 
 ## mukta-m0-p76-v1889
-[in-cognition](bodha) [in-action](kriyā) [entered](niviṣṭaṃ) [but](tu) [to-be-known](jñeyaṃ) [in-knowledge](jñāna) [resting](āśritaṃ) [should-remember](smaret)
+[engaged-in-awakening-action](bodhakriyāniviṣṭaṃ) [but](tu) [knowable](jñeyaṃ) [supported-by-knowledge](jñānāśritaṃ) [should-remember](smaret)
 
 ## mukta-m0-p76-v1890
-[sound](dhvani) [middle](madhya) [gone](gatā) [tārā](tārā) [tārā](tārā) [middle](madhya) [gone](gateḥ) [moon](śaśī)
+[situated-in-middle-of-sound](dhvanimadhyagatā) [tārā](tārā) [of-one-situated-in-middle-of-tārā](tārāmadhyagateḥ) [moon](śaśī)
 
 ## mukta-m0-p76-v1891
-[sun](ravi) [middle](madhya) [gone](gataḥ) [śānta](śāntaḥ) [śānta](śānta) [middle](madhya) [gone](gataḥ) [śiva](śivaḥ)
+[situated-in-middle-of-sun](ravimadhyagataḥ) [peaceful](śāntaḥ) [situated-in-middle-of-peace](śāntamadhyagataḥ) [śiva](śivaḥ)
 
 ## mukta-m0-p76-v1892
-[then](tadā) [direction](dig) [deity](devatā) [oblation](homaḥ) [to-be-done](kāryā) [pacification](śāntis) [and](ca) [fault](doṣa) [removing](hṛt)
+[then](tadā) [homa-to-directional-deities](digdevatāhomaḥ) [should-be-done](kāryā) [peace](śāntiśca) [removing-faults](doṣahṛt)
 
 ## mukta-m0-p76-v1893
-[otherwise](anyathā) [but](tu) [would-be](bhaved) [terrible](ghoraṃ) [agent](kartṛ) [kingdom](rāṣṭra) [disfiguring](virūpakam)
+[otherwise](anyathā) [but](tu) [would-be](bhavedghoraṃ) [terrible](ghoraṃ) [distorting-agent-kingdom](kartṛrāṣṭravirūpakam)
 
 ## mukta-m0-p76-v1894
-[elephant](gajaṃ) [goat](chāgaṃ) [buffalo](lulāyaṃ) [and](ca) [female-servant](dāsīṃ) [fish](matsyaṃ) [deer](mṛga) [sheep](avikam)
+[elephant](gajaṃ) [goat](chāgaṃ) [lulāya](lulāyaṃ) [and](ca) [female-servant](dāsīṃ) [fish](matsyaṃ) [deer-sheep](mṛgāvikam)
 
 ## mukta-m0-p76-v1895
-[side](pakṣa) [thread](sūtraṃ) [then](tato) [should-give](dadyād) [for-straightness](ṛjvarthaṃ) [hanging](lamba) [thread](sūtrakam)
+[side-thread](pakṣasūtraṃ) [then](tato) [should-give](dadyādṛjvarthaṃ) [for-straightness](ṛjvarthaṃ) [hanging-thread](lambasūtrakam)
 
 ## mukta-m0-p76-v1896
-[when-moving](calile) [when-sounding](śabdite) [when-trembling](bhrānte) [when-bowing](praṇate) [when-steady](svasthite) [in-order](kramāt)
+[in-moving](calile) [in-sounding](śabdite) [in-confused](bhrānte) [in-bowed](praṇate) [in-well-placed](svasthite) [in-order](kramāt)
 
 ## mukta-m0-p76-v1897
-[milk](kṣīra) [iron](loha) [impurities](malaiḥ) [auspicious](śubhaiḥ)
+[with-milk-metal-impurities](kṣīralohamalaiḥ) [auspicious](śubhaiḥ)
 
 ## mukta-m0-p76-v1898
-[then](tataḥ) [pacification](śānti) [pot](ghaṭā) [waters](mmobhiḥ) [bathing](snānaṃ) [image](mūrti) [bearers](dharāḥ) [own](svakam)
+[then](tataḥ) [with-water-of-peace-pot](śāntighaṭāmmobhiḥ) [bathing](snānaṃ) [image-bearers](mūrtidharāḥ) [own](svakam)
 
 ## mukta-m0-p76-v1899
-[water](toya) [milk](kṣīra) [curd](dadhi) [honey](kṣaudra) [ghee](ghṛta) [water](toya) [inner](antara) [consisting-of](ātmakaiḥ)
+[consisting-of-water-milk-curd-honey-ghee-water](toyakṣīradadhikṣaudraghṛtatoyāntarātmakaiḥ)
 
 ## mukta-m0-p76-v1900
-[mugdā](mugdā) [two](dvi) [finger](aṅgula) [measure](mātrasya) [of-moving](calasya) [in-installation](sthāpane) [beneficial](hitam)
+[mugdā](mugdā) [of-two-finger-measure](dyaṅgulamātrasya) [of-moving](calasya) [for-placement](sthāpane) [beneficial](hitam)
