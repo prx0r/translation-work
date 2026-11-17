@@ -29,19 +29,19 @@
 "tokens": [
 {
 "surface": "anekadhā",
-"quick_gloss": "in-many-ways"
+"quick_gloss": "many-ways"
 },
 {
 "surface": "paricchinnaṃ",
-"quick_gloss": "limited"
+"quick_gloss": "divided"
 },
 {
 "surface": "bhāsitaṃ",
-"quick_gloss": "shone"
+"quick_gloss": "spoken"
 },
 {
 "surface": "bhṛgunandana",
-"quick_gloss": "bhṛgu's-son"
+"quick_gloss": "bhṛgu-son"
 }
 ]
 },
@@ -58,7 +58,7 @@
 },
 {
 "surface": "prokta",
-"quick_gloss": "as-stated"
+"quick_gloss": "said"
 },
 {
 "surface": "upapattyā",
@@ -111,10 +111,6 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "k",
-"quick_gloss": "variant"
-},
-{
 "surface": "pūrṇā",
 "quick_gloss": "full"
 }
@@ -133,15 +129,15 @@
 },
 {
 "surface": "anudāhṛtya",
-"quick_gloss": "without-citing"
+"quick_gloss": "not-illustrating"
 },
 {
 "surface": "bahirdṛṣṭitayā",
-"quick_gloss": "outward-vision"
+"quick_gloss": "external-vision"
 },
 {
 "surface": "sthiteḥ",
-"quick_gloss": "of-standing"
+"quick_gloss": "state"
 }
 ]
 },
@@ -162,11 +158,11 @@
 },
 {
 "surface": "bahirdṛṣṭitayā",
-"quick_gloss": "outward-vision"
+"quick_gloss": "external-vision"
 },
 {
 "surface": "sthiteḥ",
-"quick_gloss": "of-standing"
+"quick_gloss": "state"
 },
 {
 "surface": "iti",
@@ -183,7 +179,7 @@
 "tokens": [
 {
 "surface": "anudāhṛtya",
-"quick_gloss": "without-citing"
+"quick_gloss": "not-illustrating"
 },
 {
 "surface": "ca",
@@ -203,7 +199,7 @@
 },
 {
 "surface": "hi",
-"quick_gloss": "hi"
+"quick_gloss": "indeed"
 },
 {
 "surface": "avalokayet",
@@ -219,24 +215,48 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "prakāśādirūpatā",
-"quick_gloss": "manifestation-etc-form"
+"surface": "prakāśa",
+"quick_gloss": "manifestation"
+},
+{
+"surface": "ādi",
+"quick_gloss": "etc"
+},
+{
+"surface": "rūpatā",
+"quick_gloss": "form"
 },
 {
 "surface": "vā",
 "quick_gloss": "or"
 },
 {
-"surface": "itaradasat",
-"quick_gloss": "other-nonexistent"
+"surface": "itarat",
+"quick_gloss": "other"
+},
+{
+"surface": "asat",
+"quick_gloss": "non-existent"
 },
 {
 "surface": "vā",
 "quick_gloss": "or"
 },
 {
-"surface": "aprākśādirūpatā",
-"quick_gloss": "non-prior-manifestation-form"
+"surface": "aprāk",
+"quick_gloss": "non-prior"
+},
+{
+"surface": "prakāśa",
+"quick_gloss": "manifestation"
+},
+{
+"surface": "ādi",
+"quick_gloss": "etc"
+},
+{
+"surface": "rūpatā",
+"quick_gloss": "form"
 },
 {
 "surface": "vā",
@@ -273,7 +293,7 @@
 },
 {
 "surface": "sampaśya",
-"quick_gloss": "behold"
+"quick_gloss": "see"
 },
 {
 "surface": "ātmani",
@@ -293,8 +313,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "tyaktabahirmukhatvadṛṣṭyā",
-"quick_gloss": "abandoning-outward-facing-vision"
+"surface": "tyakta",
+"quick_gloss": "abandoning"
+},
+{
+"surface": "bahirmukhatva",
+"quick_gloss": "external-facing"
+},
+{
+"surface": "dṛṣṭyā",
+"quick_gloss": "vision"
 }
 ]
 },
@@ -311,15 +339,19 @@
 },
 {
 "surface": "prakāśamayī",
-"quick_gloss": "light-filled"
+"quick_gloss": "manifestation-filled"
 },
 {
 "surface": "yasmāt",
 "quick_gloss": "because"
 },
 {
-"surface": "jaḍavyāvṛttarūpiṇī",
-"quick_gloss": "inert-removed-form"
+"surface": "jaḍavyāvṛtta",
+"quick_gloss": "inert-removed"
+},
+{
+"surface": "rūpiṇī",
+"quick_gloss": "form"
 }
 ]
 },
@@ -331,12 +363,24 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "dīpādijaḍavyāvṛttaprakāśamayī",
-"quick_gloss": "lamp-etc-inert-removed-light-filled"
+"surface": "dīpādi",
+"quick_gloss": "lamp-etc"
 },
 {
-"surface": "tyarthaḥ",
-"quick_gloss": "thus-meaning"
+"surface": "jaḍavyāvṛtta",
+"quick_gloss": "inert-removed"
+},
+{
+"surface": "prakāśamayī",
+"quick_gloss": "manifestation-filled"
+},
+{
+"surface": "iti",
+"quick_gloss": "thus"
+},
+{
+"surface": "arthaḥ",
+"quick_gloss": "meaning"
 }
 ]
 },
@@ -352,8 +396,12 @@
 "quick_gloss": "inert"
 },
 {
-"surface": "cidātmaviśrāntāḥ",
-"quick_gloss": "consciousness-self-resting"
+"surface": "cidātma",
+"quick_gloss": "consciousness-self"
+},
+{
+"surface": "viśrāntāḥ",
+"quick_gloss": "rested"
 },
 {
 "surface": "cit",
@@ -390,7 +438,7 @@
 },
 {
 "surface": "jaḍānāṃ",
-"quick_gloss": "of-inert"
+"quick_gloss": "inert-ones"
 },
 {
 "surface": "na",
@@ -401,8 +449,12 @@
 "quick_gloss": "self-rest"
 },
 {
-"surface": "ityāha",
-"quick_gloss": "thus-says"
+"surface": "iti",
+"quick_gloss": "thus"
+},
+{
+"surface": "āha",
+"quick_gloss": "says"
 },
 {
 "surface": "jaḍāḥ",
@@ -423,7 +475,7 @@
 "tokens": [
 {
 "surface": "citaḥ",
-"quick_gloss": "of-consciousness"
+"quick_gloss": "consciousness"
 },
 {
 "surface": "tu",
@@ -468,7 +520,7 @@
 },
 {
 "surface": "upapadyate",
-"quick_gloss": "is-possible"
+"quick_gloss": "is-appropriate"
 },
 {
 "surface": "iti",
@@ -489,7 +541,7 @@
 "tokens": [
 {
 "surface": "pūrṇāhantā",
-"quick_gloss": "full-i-ness"
+"quick_gloss": "full-i-am-ness"
 },
 {
 "surface": "parā",
@@ -513,7 +565,7 @@
 },
 {
 "surface": "vidyate",
-"quick_gloss": "is-found"
+"quick_gloss": "exists"
 }
 ]
 },
@@ -534,19 +586,23 @@
 },
 {
 "surface": "bhāvaḥ",
-"quick_gloss": "purport"
+"quick_gloss": "sense"
 },
 {
 "surface": "seyam",
 "quick_gloss": "that"
 },
 {
-"surface": "svātmaviśrāntireva",
-"quick_gloss": "self-rest-only"
+"surface": "svātmaviśrāntiḥ",
+"quick_gloss": "self-rest"
+},
+{
+"surface": "eva",
+"quick_gloss": "indeed"
 },
 {
 "surface": "pūrṇāhantā",
-"quick_gloss": "full-i-ness"
+"quick_gloss": "full-i-am-ness"
 }
 ]
 },
@@ -567,15 +623,15 @@
 },
 {
 "surface": "yataḥ",
-"quick_gloss": "because"
+"quick_gloss": "since"
 },
 {
 "surface": "saṃstham",
-"quick_gloss": "situated"
+"quick_gloss": "established"
 },
 {
 "surface": "ādarśe",
-"quick_gloss": "in-mirror"
+"quick_gloss": "mirror"
 },
 {
 "surface": "nagaraṃ",
@@ -595,20 +651,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "k",
-"quick_gloss": "variant"
-},
-{
-"surface": "kh",
-"quick_gloss": "variant"
-},
-{
 "surface": "paricchinnā",
-"quick_gloss": "limited"
+"quick_gloss": "divided"
 },
 {
 "surface": "vyāvṛttisparśaḥ",
-"quick_gloss": "contact-of-distinction"
+"quick_gloss": "contact"
 },
 {
 "surface": "na",
@@ -637,7 +685,7 @@
 },
 {
 "surface": "pūrṇasvarūpāyāḥ",
-"quick_gloss": "of-full-nature"
+"quick_gloss": "full-nature"
 },
 {
 "surface": "pūrṇaṃ",
@@ -649,11 +697,11 @@
 },
 {
 "surface": "sphuraṇaṃ",
-"quick_gloss": "throbbing"
+"quick_gloss": "radiance"
 },
 {
 "surface": "sthitam",
-"quick_gloss": "stands"
+"quick_gloss": "established"
 }
 ]
 },
@@ -670,7 +718,7 @@
 },
 {
 "surface": "aparicchinnaṃ",
-"quick_gloss": "unlimited"
+"quick_gloss": "undivided"
 },
 {
 "surface": "yat",
@@ -678,7 +726,7 @@
 },
 {
 "surface": "svarūpasphuraṇaṃ",
-"quick_gloss": "own-form-throbbing"
+"quick_gloss": "own-form-radiance"
 },
 {
 "surface": "tad",
@@ -686,7 +734,7 @@
 },
 {
 "surface": "eva",
-"quick_gloss": "eva"
+"quick_gloss": "indeed"
 },
 {
 "surface": "kathyate",
@@ -755,7 +803,7 @@
 "quick_gloss": "also"
 },
 {
-"surface": "etat",
+"surface": "etad",
 "quick_gloss": "this"
 },
 {

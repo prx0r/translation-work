@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p130-v3226
-[purport](tātparyam)
+[tātparyam](tātparyam)
 
 ## mukta-m0-p130-v3227
-[this](etanme) [primary](mukhyamaiśvaryaṃ) [difficult-meaning](durghaṭārthavibhāvanam)
+[etanme](etanme) [mukhyamaiśvaryaṃ](mukhyamaiśvaryaṃ) [durghaṭārthavibhāvanam](durghaṭārthavibhāvanam)
 
 ## mukta-m0-p130-v3228
-[difficult-meaning](durghaṭārthasya) [manifestation](vibhāvanaṃ) [accomplishment](sampādanam)
+[durghaṭārthasya](durghaṭārthasya) [vibhāvanaṃ](vibhāvanaṃ) [sampādanam](sampādanam)
 
 ## mukta-m0-p130-v3229
-[all-support](sarvāśrayā) [all-pervading](sarvagatā) [also](cāpyahaṃ) [alone](kevalā) [standing](sthitā)
+[sarvāśrayā](sarvāśrayā) [sarvagatā](sarvagatā) [cāpyahaṃ](cāpyahaṃ) [kevalā](kevalā) [sthitā](sthitā)
 
 ## mukta-m0-p130-v3230
-[again](bhūyo) [knowing](viditvā) [self](svātmānaṃ) [teacher](guroḥ) [disciple-state](śiṣyapadaṃ) [gone](gatā)
+[bhūyo](bhūyo) [viditvā](viditvā) [svātmānaṃ](svātmānaṃ) [guroḥ](guroḥ) [śiṣyapadaṃ](śiṣyapadaṃ) [gatā](gatā)
 
 ## mukta-m0-p130-v3231
-[relation](sambandhaḥ)
+[sambandhaḥ](sambandhaḥ)
 
 ## mukta-m0-p130-v3232
-[without-material](nirupādānasambhāraṃ) [create](sṛjāmi) [world](jagadīdṛśam)
+[nirupādānasambhāraṃ](nirupādānasambhāraṃ) [sṛjāmi](sṛjāmi) [jagadīdṛśam](jagadīdṛśam)
 
 ## mukta-m0-p130-v3233
-[create](sṛjāmi)
+[sṛjāmi](sṛjāmi)
 
 ## mukta-m0-p130-v3234
-[not](na) [that](tad) [count](gaṇayituṃ) [possible](śakyaṃ) [thousand-mouths](sahasravadanena) [or](vā)
+[na](na) [tad](tad) [gaṇayituṃ](gaṇayituṃ) [śakyaṃ](śakyaṃ) [sahasravadanena](sahasravadanena) [vā](vā)
 
 ## mukta-m0-p130-v3235
-[meaning](bhāvaḥ)
+[bhāvaḥ](bhāvaḥ)
 
 ## mukta-m0-p130-v3236
-[world-course](jagadyātrā) [various](vicitreyaṃ) [everywhere](sarvataḥ) [spread](saṃprasāritā)
+[jagadyātrā](jagadyātrā) [vicitreyaṃ](vicitreyaṃ) [sarvataḥ](sarvataḥ) [saṃprasāritā](saṃprasāritā)
 
 ## mukta-m0-p130-v3237
-[higher-lower](parāparavibhedācca) [many](bahudhā) [also](cāpi) [that-fruit](tatphalam)
+[parāparavibhedācca](parāparavibhedācca) [bahudhā](bahudhā) [cāpi](cāpi) [tatphalam](tatphalam)
 
 ## mukta-m0-p130-v3238
-[meditation](dhyānameva) [indeed](tu) [that](tatproktaṃ) [dream-kingdom](svapnarājyādisammitam)
+[dhyānameva](dhyānameva) [tu](tu) [tatproktaṃ](tatproktaṃ) [svapnarājyādisammitam](svapnarājyādisammitam)
 
 ## mukta-m0-p130-v3239
-[dream-kingdom-illusion](svapnarājyabhramatulyatvamiti) [meditate](dhyeyam)
+[svapnarājyabhramatulyatvamiti](svapnarājyabhramatulyatvamiti) [dhyeyam](dhyeyam)
 
 ## mukta-m0-p130-v3240
-[other](aparaṃ) [also](cāpi) [various](vividhaṃ) [there](tatra) [primary](mukhyaṃ) [that](tadeva) [indeed](hi)
+[aparaṃ](aparaṃ) [cāpi](cāpi) [vividhaṃ](vividhaṃ) [tatra](tatra) [mukhyaṃ](mukhyaṃ) [tadeva](tadeva) [hi](hi)
 
 ## mukta-m0-p130-v3241
-[or](uta) [whatever](yatkiñcinmukhyamiti) [if](cedāha) [other](aparaṃ) [ceti](ceti) [duality](dvaitaṃ) [meaning](cetyarthaḥ)
+[uta](uta) [yatkiñcinmukhyamiti](yatkiñcinmukhyamiti) [cedāha](cedāha) [aparaṃ](aparaṃ) [ceti](ceti) [dvaitaṃ](dvaitaṃ) [cetyarthaḥ](cetyarthaḥ)
 
 ## mukta-m0-p130-v3242
-[non-dual-knowledge](advaitavijñānameva) [supreme-knowledge](paravijñānamīritam)
+[advaitavijñānameva](advaitavijñānameva) [paravijñānamīritam](paravijñānamīritam)
 
 ## mukta-m0-p130-v3243
-[supreme-knowledge](paravijñānaṃ) [best-knowledge](śreṣṭhavijñānam)
+[paravijñānaṃ](paravijñānaṃ) [śreṣṭhavijñānam](śreṣṭhavijñānam)
 
 ## mukta-m0-p130-v3244
-[how](kathaṃ) [obtain](prāpyeta) [supreme](paramāṃ) [vidyā](vidyāmadvaitasaṃjñikām)
+[kathaṃ](kathaṃ) [prāpyeta](prāpyeta) [paramāṃ](paramāṃ) [vidyāmadvaitasaṃjñikām](vidyāmadvaitasaṃjñikām)
 
 ## mukta-m0-p130-v3245
-[obtain](prāpyeta) [not](naiva) [obtain](prāpyeteti) [meaning](bhāvaḥ) [vidyā](vidyāṃ) [knowledge](jñānam)
+[prāpyeta](prāpyeta) [naiva](naiva) [prāpyeteti](prāpyeteti) [bhāvaḥ](bhāvaḥ) [vidyāṃ](vidyāṃ) [jñānam](jñānam)
 
 ## mukta-m0-p130-v3246
-[its](tasyāḥ) [pure-state-reflection](śuddhadaśāmarśo) [duality-reflection](dvaitāmarśābhibhāvakaḥ)
+[tasyāḥ](tasyāḥ) [śuddhadaśāmarśo](śuddhadaśāmarśo) [dvaitāmarśābhibhāvakaḥ](dvaitāmarśābhibhāvakaḥ)
 
 ## mukta-m0-p130-v3247
-[purport](tātparyam)
+[tātparyam](tātparyam)
 
 ## mukta-m0-p130-v3248
-[that](tadevānuvibhātaṃ) [would-be](syād) [knowledge](vijñānamṛṣisattamāḥ)
+[tadevānuvibhātaṃ](tadevānuvibhātaṃ) [syād](syād) [vijñānamṛṣisattamāḥ](vijñānamṛṣisattamāḥ)
 
 ## mukta-m0-p130-v3249
-[body-etc-self](dehādyātmāvabhāsasya) [destruction](nāśanaṃ) [knowledge](jñānamucyate)
+[dehādyātmāvabhāsasya](dehādyātmāvabhāsasya) [nāśanaṃ](nāśanaṃ) [jñānamucyate](jñānamucyate)
 
 ## mukta-m0-p130-v3250
-[vāmadeva](vāmadevakarkaṭikādayaḥ) [etc](karkaṭikādayaḥ)
+[vāmadevakarkaṭikādayaḥ](vāmadevakarkaṭikādayaḥ)

@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p34-v826
-[by-hand-blow](karaprahāreṇa) [head](śiraḥ) [of-chāmara](cāmarasya) [separated](pṛthakkṛtam)
+[karaprahāreṇa](karaprahāreṇa) [śiraḥ](śiraḥ) [cāmarasya](cāmarasya) [pṛthakkṛtam](pṛthakkṛtam)
 
 ## mukta-m0-p34-v827
-[tooth](danta) [fist](muṣṭi) [palm](talaiḥ) [and](ca) [eva](eva) [terrible-one](karālaḥ) [ca](ca) [struck-down](nipātitaḥ)
+[dantamuṣṭitalaiḥ](dantamuṣṭitalaiḥ) [ca](ca) [eva](eva) [karālaḥ](karālaḥ) [ca](ca) [nipātitaḥ](nipātitaḥ)
 
 ## mukta-m0-p34-v828
-[vāṣkala](vāṣkalaṃ) [with-bhindipāla](bhindipālena) [with-arrows](vāṇaiḥ) [copper](tāmraṃ) [and](tathā) [andhaka](aṃdhakam)
+[vāṣkalam](vāṣkalam) [bhindipālena](bhindipālena) [vāṇaiḥ](vāṇaiḥ) [tāmram](tāmram) [tathāṃdhakam](tathāṃdhakam)
 
 ## mukta-m0-p34-v829
-[three-eyed-one](trinetrā) [ca](ca) [with-trident](triśūlena) [struck](jaghāna) [supreme-goddess](parameśvarī)
+[trinetrā](trinetrā) [ca](ca) [triśūlena](triśūlena) [jaghāna](jaghāna) [parameśvarī](parameśvarī)
 
 ## mukta-m0-p34-v830
-[durdhara](durdharaṃ) [durmukha](durmukhaṃ) [ca](ca) [both](cobhau) [with-arrows](śaraiḥ) [sent](ninye) [to-yama's-abode](yamakṣayam)
+[durdharam](durdharam) [durmukham](durmukham) [ca](ca) [ubhau](ubhau) [śaraiḥ](śaraiḥ) [ninye](ninye) [yamakṣayam](yamakṣayam)
 
 ## mukta-m0-p34-v831
-[in-buffalo-form](māhiṣeṇa) [own-form](svarūpeṇa) [terrified](trāsayāmāsa) [those-troops](tāngaṇān)
+[māhiṣeṇa](māhiṣeṇa) [svarūpeṇa](svarūpeṇa) [trāsayāmāsa](trāsayāmāsa) [tān](tān) [gaṇān](gaṇān)
 
 ## mukta-m0-p34-v832
-[by-tail-struck](lāṅgūlatāḍitān) [and](ca) [others](anyān) [by-horns](śṛṅgābhyām) [ca](ca) [torn](vidāritān)
+[lāṅgūlatāḍitān](lāṅgūlatāḍitān) [ca](ca) [anyān](anyān) [śṛṅgābhyām](śṛṅgābhyām) [ca](ca) [vidāritān](vidāritān)
 
 ## mukta-m0-p34-v833
-[by-breath-wind](niḥśvāsapavanena) [others](anyān) [threw-down](pātayāmāsa) [to-ground](bhūtale)
+[niḥśvāsapavanena](niḥśvāsapavanena) [anyān](anyān) [pātayāmāsa](pātayāmāsa) [bhūtale](bhūtale)
 
 ## mukta-m0-p34-v834
-[lion-slayer](siṃhaṃhantaṃ) [of-great-goddess](mahādevyāḥ) [anger](kopaṃ) [made](cakre) [then](tato) [ambikā](ambikā)
+[siṃhahantam](siṃhahantam) [mahādevyāḥ](mahādevyāḥ) [kopam](kopam) [cakre](cakre) [tataḥ](tataḥ) [ambikā](ambikā)
 
 ## mukta-m0-p34-v835
-[by-horns](śṛṅgābhyāṃ) [mountains](parvatān) [high](uccān) [threw](cikṣepa) [ca](ca) [roared](nanāda) [ca](ca)
+[śṛṅgābhyām](śṛṅgābhyām) [parvatān](parvatān) [uccān](uccān) [cikṣepa](cikṣepa) [ca](ca) [nanāda](nanāda) [ca](ca)
 
 ## mukta-m0-p34-v836
-[by-tail](lāṅgūlena) [struck](āhataḥ) [ca](ca) [ocean](abdhiḥ) [flooded](plāvayāmāsa) [everywhere](sarvataḥ)
+[lāṅgūlena](lāṅgūlena) [āhataḥ](āhataḥ) [ca](ca) [abdhiḥ](abdhiḥ) [plāvayāmāsa](plāvayāmāsa) [sarvataḥ](sarvataḥ)
 
 ## mukta-m0-p34-v837
-[breath-winds](śvāsānilāḥ) [those](tāḥ) [hundreds](śataśaḥ) [fell](nipetuḥ) [from-sky](nabhasaḥ) [mountains](acalāḥ)
+[śvāsānilāḥ](śvāsānilāḥ) [tāḥ](tāḥ) [śataśaḥ](śataśaḥ) [nipetuḥ](nipetuḥ) [nabhasaḥ](nabhasaḥ) [acalāḥ](acalāḥ)
 
 ## mukta-m0-p34-v838
-[seeing](dṛṣṭvā) [she](sā) [caṇḍikā](caṇḍikā) [anger](kopaṃ) [for-his-killing](tadbadhāya) [then](tadā) [did](akarot)
+[dṛṣṭvā](dṛṣṭvā) [sā](sā) [caṇḍikā](caṇḍikā) [kopam](kopam) [tadbadhāya](tadbadhāya) [tadā](tadā) [akarot](akarot)
 
 ## mukta-m0-p34-v839
-[abandoned](tatyāja) [buffalo-form](māhiṣaṃ) [rūpaṃ](rūpaṃ) [he](so) [api](api) [bound](vaddhaḥ) [great-battle](mahāmṛdhe)
+[tatyāja](tatyāja) [māhiṣam](māhiṣam) [rūpam](rūpam) [saḥ](saḥ) [api](api) [vaddhaḥ](vaddhaḥ) [mahāmṛdhe](mahāmṛdhe)
 
 ## mukta-m0-p34-v840
-[cutting](chinatti) [then](tāvat) [man](puruṣaḥ) [sword-in-hand](khaḍgapāṇiḥ) [invisible](adṛśyata)
+[chinatti](chinatti) [tāvat](tāvat) [puruṣaḥ](puruṣaḥ) [khaḍgapāṇiḥ](khaḍgapāṇiḥ) [adṛśyata](adṛśyata)
 
 ## mukta-m0-p34-v841
-[him](taṃ) [with-sword-shield](khaḍgacarmaṇā) [with](sārddhaṃ) [then](tataḥ) [he-became](so'bhūt) [great-elephant](mahāgajaḥ)
+[tam](tam) [khaḍgacarmaṇā](khaḍgacarmaṇā) [sārddham](sārddham) [tataḥ](tataḥ) [saḥ](saḥ) [abhūt](abhūt) [mahāgajaḥ](mahāgajaḥ)
 
 ## mukta-m0-p34-v842
-[dragging](karṣataḥ) [tu](tu) [trunk](karaṃ) [goddess](devī) [with-sword](khaḍgena) [cut-off](nirakṛntata)
+[karṣataḥ](karṣataḥ) [tu](tu) [karam](karam) [devī](devī) [khaḍgena](khaḍgena) [nirakṛntata](nirakṛntata)
 
 ## mukta-m0-p34-v843
-[thus](tathaiva) [agitated](kṣobhayāmāsa) [three-worlds](trailokyaṃ) [with-moving-and-nonmoving](sacarācaram)
+[tathaiva](tathaiva) [kṣobhayāmāsa](kṣobhayāmāsa) [trailokyam](trailokyam) [sacarācaram](sacarācaram)
 
 ## mukta-m0-p34-v844
-[drank](papau) [again](punaḥ) [again](punaḥ) [ca](ca) [eva](eva) [laughed](jahāsa) [red-eyed](aruṇa-locanā)
+[papau](papau) [punaḥ](punaḥ) [punaḥ](punaḥ) [ca](ca) [eva](eva) [jahāsa](jahāsa) [aruṇa](aruṇa) [locanā](locanā)
 
 ## mukta-m0-p34-v845
-[by-tusks](viṣāṇābhyāṃ) [ca](ca) [threw](cikṣepa) [caṇḍikā](caṇḍikāṃ) [towards](prati) [mountains](bhūdharān)
+[viṣāṇābhyām](viṣāṇābhyām) [ca](ca) [cikṣepa](cikṣepa) [caṇḍikām](caṇḍikām) [prati](prati) [bhūdharān](bhūdharān)
 
 ## mukta-m0-p34-v846
-[devī-said](devyuvāca)
+[devī](devī) [uvāca](uvāca)
 
 ## mukta-m0-p34-v847
-[by-me](mayā) [you](tvayi) [killed](hate) [here](atra) [eva](eva) [will-roar](garjiṣyanti) [quickly](āśu) [gods](devatāḥ)
+[mayā](mayā) [tvayi](tvayi) [hate](hate) [atra](atra) [eva](eva) [garjiṣyanti](garjiṣyanti) [āśu](āśu) [devatāḥ](devatāḥ)
 
 ## mukta-m0-p34-v848
-[ṛṣi-said](ṛṣiruvāca)
+[ṛṣiḥ](ṛṣiḥ) [uvāca](uvāca)
 
 ## mukta-m0-p34-v849
-[with-foot](pādena) [stepping](ākramya) [throat](kaṃṭhe) [ca](ca) [with-trident](śūlena) [him](enam) [struck](atāḍayat)
+[pādena](pādena) [ākramya](ākramya) [kaṃṭhe](kaṃṭhe) [ca](ca) [śūlena](śūlena) [enam](enam) [atāḍayat](atāḍayat)
 
 ## mukta-m0-p34-v850
-[half-emerged](ardhaniṣkrānta) [eva](evāsīn) [śā0](śā0) [eva](evātidevyā) [by-power](vīryeṇa) [surrounded](saṃvṛtaḥ)
+[ardhaniṣkrānta](ardhaniṣkrānta) [evāsīn](evāsīn) [śā0](śā0) [evātidevyā](evātidevyā) [vīryeṇa](vīryeṇa) [saṃvṛtaḥ](saṃvṛtaḥ)

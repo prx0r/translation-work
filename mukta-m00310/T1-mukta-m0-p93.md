@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p93-v2301
-[righteous](dharmī) [skin-garment](carmāmbaraḥ) [beautiful-form](cārurūpaḥ) [beautiful-ornament](cāruvibhūṣaṇaḥ)
+[dharmī](dharmī) [carmāmbaraḥ](carmāmbaraḥ) [cāru-rūpaḥ](cārurūpaḥ) [cāru-vibhūṣaṇaḥ](cāruvibhūṣaṇaḥ)
 
 ## mukta-m0-p93-v2302
-[obedient](vaśyaḥ) [obedience-maker](vaśyakaraḥ) [ash-sleeper](bhasmaśāyī) [ash-anointed](bhasmavilepanaḥ)
+[vaśyaḥ](vaśyo) [vaśya-karaḥ](vaśyakaro) [bhasma-śāyī](bhasmaśāyī) [bhasma-vilepanaḥ](bhasmavilepanaḥ)
 
 ## mukta-m0-p93-v2303
-[gaṇa-servant](gaṇakāryaḥ) [family-conduct](kulācāraḥ) [all-conduct](sarvācāraḥ) [friend-equal](sakhā-samaḥ)
+[gaṇa-kāryaḥ](gaṇakāryaḥ) [kula-ācāraḥ](kulācāraḥ) [sarva-ācāraḥ](sarvācāraḥ) [sakhā](sakhā) [samaḥ](samaḥ)
 
 ## mukta-m0-p93-v2304
-[ruddy](aruṇaḥ) [one-thought](caikacintyaḥ) [triśaṅku](triśaṅkuḥ) [śaṅku-bearer](śaṅkudhāraṇaḥ)
+[aruṇaḥ](aruṇaśca) [ca](ca) [eka-cintyaḥ](ekacintyaśca) [tri-śaṅkuḥ](triśaṅkuḥ) [śaṅku-dhāraṇaḥ](śaṅkudhāraṇaḥ)
 
 ## mukta-m0-p93-v2305
-[vaiśya](vaiśyaḥ) [śūdra](śūdraḥ) [pigeon-seated](kapotasthaḥ) [tvaṣṭṛ](tvaṣṭā) [content](tuṣṭaḥ) [anger-afflicted](ruṣākulaḥ)
+[vaiśyaḥ](vaiśyaḥ) [śūdraḥ](śūdraḥ) [kapota-sthaḥ](kapotasthaḥ) [tvaṣṭā](tvaṣṭā) [tuṣṭaḥ](tuṣṭo) [ruṣā-kulaḥ](ruṣākulaḥ)
 
 ## mukta-m0-p93-v2306
-[pināka-bearer](pinākī) [eight-formed](cāṣṭamūrtiḥ) [earth-possessor](kṣitimān) [steadfast](dhṛtimān)
+[pinākī](pinākī) [ca](cāṣṭamūrtiśca) [aṣṭa-mūrtiḥ](aṣṭamūrtiḥ) [kṣitimān](kṣitimān) [dhṛtimān](dhṛtimāṃstathā) [tathā](tathā)
 
 ## mukta-m0-p93-v2307
-[sun-god](sūryadevaḥ) [sacrificer](yajamānaḥ) [sky](ākāśaḥ) [supreme-lord](parameśvaraḥ)
+[sūrya-devaḥ](sūryadevo) [yajamānaḥ](yajamāna) [ākāśaḥ](ākāśaḥ) [parama-īśvaraḥ](parameśvaraḥ)
 
 ## mukta-m0-p93-v2308
-[bhava](bhavaḥ) [śarva](śarvaḥ) [rudra](rudraḥ) [paśu-lord](paśunāthaḥ) [śaṅkara](śaṅkaraḥ)
+[bhavaḥ](bhavaḥ) [śarvaḥ](śarvastathā) [tathā](tathā) [rudraḥ](rudraḥ) [paśu-nāthaḥ](paśunāthaśca) [ca](ca) [śaṅkaraḥ](śaṅkaraḥ)
 
 ## mukta-m0-p93-v2309
-[mountain-lord](girīśaḥ) [broken-hand](khaṇḍahastaḥ) [great-fierce](mahānugraḥ) [gaṇa-lord](gaṇeśvaraḥ)
+[girīśaḥ](girīśaḥ) [khaṇḍa-hastaḥ](khaṇḍahastaśca) [ca](ca) [mahā-anugraḥ](mahānugro) [gaṇa-īśvaraḥ](gaṇeśvaraḥ)
 
 ## mukta-m0-p93-v2310
-[gaṇa-lord](gaṇeśvaraḥ) [virtuous](guṇī) [nandī](nandī) [dharma-king](dharmarājaḥ) [endless](durantakaḥ)
+[gaṇa-īśvaraḥ](gaṇeśvaro) [guṇī](guṇī) [nandī](nandī) [dharma-rājaḥ](dharmarājo) [durantakaḥ](durantakaḥ)
 
 ## mukta-m0-p93-v2311
-[immortal](amṛtaḥ) [time-rudra](kālarudraḥ) [time-fire](kālāgniḥ) [moon-crested](śaśiśekharaḥ)
+[amṛtaḥ](amṛtaḥ) [kāla-rudraḥ](kālarudraśca) [ca](ca) [kāla-agniḥ](kālāgniḥ) [śaśi-śekharaḥ](śaśiśekharaḥ)
 
 ## mukta-m0-p93-v2312
-[bad-dream-remover](duḥsvapnahṛt) [overpowering](prasahanaḥ) [virtue-sound-established](guṇinādapratiṣṭhitaḥ)
+[duḥsvapna-hṛt](duḥsvapnahṛt) [prasahanaḥ](prasahano) [guṇināda-pratiṣṭhitaḥ](guṇinādapratiṣṭhitaḥ)
 
 ## mukta-m0-p93-v2313
-[sacrifice-form](yajñarūpaḥ) [sacrifice-mouth](yajñamukhaḥ) [sacrificer-desired-giver](yajamāneṣṭadaḥ) [pure](śuciḥ)
+[yajña-rūpaḥ](yajñarūpo) [yajña-mukhaḥ](yajñamukho) [yajamāna-iṣṭa-daḥ](yajamāneṣṭadaḥ) [śuciḥ](śuciḥ)
 
 ## mukta-m0-p93-v2314
-[serpent-taker](nāgahārī) [ash-bearer](bhasmadhārī) [ash-ornamented-form](bhūtibhūṣitavigrahaḥ)
+[nāga-hārī](nāgahārī) [bhasma-dhārī](bhasmadhārī) [bhūti-bhūṣita-vigrahaḥ](bhūtibhūṣitavigrahaḥ)
 
 ## mukta-m0-p93-v2315
-[bull-banner](vṛṣadhvajaḥ) [bull-rider](vṛṣārūḍhaḥ) [dharma-bull-increaser](dharmavṛṣavivardhakaḥ)
+[vṛṣa-dhvajaḥ](vṛṣadhvajo) [vṛṣa-ārūḍhaḥ](vṛṣārūḍho) [dharma-vṛṣa-vivardhakaḥ](dharmavṛṣavivardhakaḥ)
 
 ## mukta-m0-p93-v2316
-[thousand-armed](sahasrabāhuḥ) [all-limbed](sarvāṅgaḥ) [refuge](śaraṇyaḥ) [all-world-maker](sarvalokakṛt)
+[sahasra-bāhuḥ](sahasrabāhuḥ) [sarva-aṅgaḥ](sarvāṅgaḥ) [śaraṇyaḥ](śaraṇyaḥ) [sarva-loka-kṛt](sarvalokakṛt)
 
 ## mukta-m0-p93-v2317
-[brahmā-daṇḍa-maker](brahmadaṇḍavinirmātā) [śataghnī-pāśa-śakti-possessor](śataghnīpāśaśaktimān)
+[brahma-daṇḍa-vinirmātā](brahmadaṇḍavinirmātā) [śata-ghnī-pāśa-śaktimān](śataghnīpāśaśaktimān)
 
 ## mukta-m0-p93-v2318
-[deva-asura-maker](devāsuravinirmātā) [deva-asura-refuge](devāsuraparāyaṇaḥ)
+[deva-asura-vinirmātā](devāsuravinirmātā) [deva-asura-parāyaṇaḥ](devāsuraparāyaṇaḥ)
 
 ## mukta-m0-p93-v2319
-[guha-dear](guhapriyaḥ) [gaṇa-served](gaṇasevyaḥ) [pure](pavitraḥ) [all-purifier](sarvapāvanaḥ)
+[guha-priyaḥ](guhapriyo) [gaṇa-sevyaḥ](gaṇasevyaḥ) [pavitraḥ](pavitraḥ) [sarva-pāvanaḥ](sarvapāvanaḥ)
 
 ## mukta-m0-p93-v2320
-[liberation](vimuktiḥ) [liberated-radiance](muktitejaskaḥ) [devotees-supreme-goal](bhaktānāṃ-paramā-gatiḥ)
+[vimuktiḥ](vimuktirmuktitejasko) [mukti-tejaskaḥ](muktitejasko) [bhaktānām](bhaktānāṃ) [paramā](paramā) [gatiḥ](gatiḥ)
 
 ## mukta-m0-p93-v2321
-[kailāsa-mountain-dweller](kailāsagirivāsī) [himavat-mountain-refuge](himavadgirisaṃśrayaḥ)
+[kailāsa-giri-vāsī](kailāsagirivāsī) [ca](ca) [hima-vat-giri-saṃśrayaḥ](himavadgirisaṃśrayaḥ)
 
 ## mukta-m0-p93-v2322
-[matted-hair](kapardī) [kalpa-maker](kalpakṛt) [rudra](rudraḥ) [good-minded](sumanāḥ) [dharma-loving](dharmavatsalaḥ)
+[kapardī](kapardī) [kalpa-kṛt](kalpakṛd) [rudraḥ](rudraḥ) [su-manāḥ](sumanā) [dharma-vatsalaḥ](dharmavatsalaḥ)
 
 ## mukta-m0-p93-v2323
-[blue-throated](nīlakaṇṭhaḥ) [wealth-superintendent](dhanādhyakṣaḥ) [lord](nāthaḥ) [pramatha-leader](pramathanāyakaḥ)
+[nīla-kaṇṭhaḥ](nīlakaṇṭho) [dhana-adhyakṣaḥ](dhanādhyakṣo) [nāthaḥ](nāthaḥ) [pramatha-nāyakaḥ](pramathanāyakaḥ)
 
 ## mukta-m0-p93-v2324
-[army-kalpa](senākalpaḥ) [great-kalpa](mahākalpaḥ) [yoga](yogaḥ) [yuga-maker](yugakaraḥ) [hari](hariḥ)
+[senā-kalpaḥ](senākalpo) [mahā-kalpaḥ](mahākalpo) [yogaḥ](yogo) [yuga-karaḥ](yugakaro) [hariḥ](hariḥ)
 
 ## mukta-m0-p93-v2325
-[emission](visargaḥ) [liṅga-form](liṅgarūpaḥ) [pure](pavitraḥ) [sin-destroyer](pāpanāśanaḥ)
+[visargaḥ](visargo) [liṅga-rūpaḥ](liṅgarūpaśca) [ca](ca) [pavitraḥ](pavitraḥ) [pāpa-nāśanaḥ](pāpanāśanaḥ)

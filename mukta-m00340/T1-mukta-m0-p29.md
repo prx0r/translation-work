@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p29-v701
-[having-risen](samutthāya) [then](tataḥ) [with-them](tābhyām) [fought](yuyudhe) [lord](bhagavān) [Hari](hariḥ)
+[rising](samutthāya) [then](tataḥ) [by-them-two](tābhyāṃ) [fought](yuyudhe) [lord](bhagavān) [Hari](hariḥ)
 
 ## mukta-m0-p29-v702
-[those-two](tāv) [also](api) [intoxicated-by-great-strength](ati-bala-unmattau) [deluded-by-great-māyā](mahā-māyā-vimohitau)
+[they-two](tāv) [also](api) [great-strength-maddened](atibalonmattau) [by-great-illusion-deluded](mahāmāyāvimohitau)
 
 ## mukta-m0-p29-v703
-[said](uktavantau) [boon](varaḥ) [from-us](asmatau) [choose](vriyatām) [thus](iti) [Keśava](keśavam)
+[said](uktavantau) [boon](varaḥ) [to-us](asmatau) [let-be-chosen](vriyatām) [thus](iti) [Keśava](keśavam)
 
 ## mukta-m0-p29-v704
 [lord](bhagavān) [said](uvāca)
 
 ## mukta-m0-p29-v705
-[be](bhavetām) [today](adya) [to-me](me) [pleased](tuṣṭau) [my](mama) [slayable-both](vadhyau-ubhau) [also](api)
+[may-be](bhavetām) [today](adya) [to-me](me) [pleased](tuṣṭau) [my](mama) [slain-both](vadhyāv) [both](ubhāv) [also](api)
 
 ## mukta-m0-p29-v706
-[what](kim) [other](anyena) [boon](vareṇa) [here](atra) [this-much](etāvat) [indeed](hi) [chosen](vṛtam) [vow](vrataṃ) [my](mama)
+[what-other](kim) [by-boon](vareṇa) [here](atra) [this-much](etāvat) [indeed](hi) [chosen](vṛtaṃ) [vow](vrataṃ) [mine](mama)
 
 ## mukta-m0-p29-v707
 [sage](ṛṣiḥ) [said](uvāca)
 
 ## mukta-m0-p29-v708
-[deceived-by-them](vañcitābhyām) [thus](iti) [then](tadā) [all-bean-made](sarva-māṣa-mayam) [world](jagat)
+[deceived](vañcitābhyām) [thus](iti) [then](tadā) [all](sarvam) [sesame-filled](āṣomayaṃ) [world](jagat)
 
 ## mukta-m0-p29-v709
-[us-two](āvām) [slay](jahi) [not](na) [where](yatra) [earth](urvī) [water](salilena) [flooded](paripulutā)
+[we-two](āvāṃ) [slay](jahi) [not](na) [where](yat) [earth](urvī) [by-water](salilena) [flooded](paripulutā)
 
 ## mukta-m0-p29-v710
 [sage](ṛṣiḥ) [said](uvāca)
 
 ## mukta-m0-p29-v711
-[having-done](kṛtvā) [with-discus](cakreṇa) [cut](vaicchinne) [loins](jaghane) [heads](śirasi) [of-them](tayoḥ)
+[having-made](kṛtvā) [by-discus](cakreṇa) [cut](vaicchinne) [buttock](jaghane) [head](śirasi) [of-them-two](tayoḥ)
 
 ## mukta-m0-p29-v712
-[power](prabhāvam) [of-this](asyā) [goddess's](devyāḥ) [tu](tu) [again](bhūyaḥ) [hear](śṛṇu) [I-say](vadāmi) [to-you](te) [aiṃ](aiṃ) [oṃ](oṃ)
+[power](prabhāvam) [of-this](asyā) [goddess](devyāḥ) [tu](tu) [again](bhūyaḥ) [hear](śṛṇu) [I-speak](vadāmi) [to-you](te) [aiṃ](aiṃ) [oṃ](oṃ)
 
 ## mukta-m0-p29-v713
-[Madhu-Kaiṭabha-slaying](madhu-kaiṭabha-vadhaḥ) [first-chapter](prathamodhyāyaḥ) [1](1) [uvāca](uvāca) [14](14) [ardha](ardha) [24](24) [śloka](śloka) [66](66)
+[Madhu-Kaiṭabha-slaying](madhukaiṭabhavadhaḥ) [first-chapter](prathamodhyāyaḥ) [1](1) [said](uvāca) [14](14) [half](ardha) [24](24) [verse](śloka) [66](66)
 
 ## mukta-m0-p29-v714
-[for-liberation](mokṣārthe) [in-recitation](pāṭhe) [in-oblation](havane) [application](viniyogaḥ)
+[for-liberation](mokṣārthe) [reading](pāṭhe) [oblation](havane) [application](viniyogaḥ)
 
 ## mukta-m0-p29-v715
-[Mahālakṣmī](mahālakṣmīm) [born-from-gods'-vigor](sura-oja-udbhavām)
+[great-Lakṣmī](mahālakṣmīṃ) [from-divine-energy-born](suraujodbhavām)
 
 ## mukta-m0-p29-v716
 [oṃ](oṃ) [hrīṃ](hrīṃ) [sage](ṛṣiḥ) [said](uvāca)
 
 ## mukta-m0-p29-v717
-[Mahiṣa](mahiṣe) [of-asuras](asurāṇām) [lord](adhipe) [of-gods](devānām) [and](ca) [Purandara](purandare)
+[for-Mahiṣa](mahiṣe) [of-asuras](asurāṇām) [lord](adhipe) [of-gods](devānāṃ) [ca](ca) [Indra](purandare)
 
 ## mukta-m0-p29-v718
-[having-conquered](jitvā) [and](ca) [all-gods](sakalān-devān) [Indra](indraḥ) [became](abhūt) [Mahiṣāsura](mahiṣāsuraḥ)
+[having-conquered](jitvā) [ca](ca) [all-gods](sakalān) [devān](devān) [Indra](indraḥ) [became](abhūt) [Mahiṣāsura](mahiṣāsuraḥ)
 
 ## mukta-m0-p29-v719
-[having-placed-before](puraskṛtya) [went](gatāḥ) [there](tatra) [where](yatra) [Śiva-and-Viṣṇu-bannered](īśa-garuḍa-dhvajau)
+[having-placed-before](puraskṛtya) [went](gatāḥ) [there](tatra) [where](yatra) [Śiva-Garuḍa-bannered](īśagaruḍadhvajau)
 
 ## mukta-m0-p29-v720
-[thirty-gods](tridaśāḥ) [told](kathayāmāsuḥ) [gods'-overthrow-detail](deva-abhibhava-vistaram)
+[gods](tridaśāḥ) [told](kathayāmāsuḥ) [of-gods'-defeat](devābhibhavavistaram)
 
 ## mukta-m0-p29-v721
-[others'](anyeṣām) [and](ca) [offices](adhikārān) [he](saḥ) [himself](svayam) [eva](eva) [occupies](adhitiṣṭhati)
+[of-others](anyeṣāṃ) [ca](ca) [authorities](adhikārān) [he](saḥ) [himself](svayam) [eva](eva) [occupies](adhitiṣṭhati)
 
 ## mukta-m0-p29-v722
-[wander](vicaranti) [as](yathā) [mortals](martyāḥ) [by-Mahiṣa](mahiṣeṇa) [evil-souled](durātmanā)
+[move](vicaranti) [as](yathā) [mortals](martyā) [by-Mahiṣa](mahiṣeṇa) [evil-souled](durātmanā)
 
 ## mukta-m0-p29-v723
-[refuge](śaraṇam) [to-you](vaḥ) [surrendered](prapannāḥ) [we-are](smaḥ) [slaying](badhaḥ) [of-him](tasya) [be-considered](vicintyatām)
+[refuge](śaraṇaṃ) [to-you](vaḥ) [we-have-surrendered](prapannāḥ) [smo](smo) [slaying](badhaḥ) [of-him](tasya) [let-be-considered](vicintyatām)
 
 ## mukta-m0-p29-v724
-[did](cakāra) [anger](kopam) [Śambhu](śambhuḥ) [and](ca) [brow-furrowed-crooked-faced](bhrukuṭī-kuṭila-ānanau)
+[made](cakāra) [anger](kopaṃ) [Śambhu](śambhuḥ) [ca](ca) [brow-furrowed-twisted-face](bhrukuṭīkuṭilānanau)
 
 ## mukta-m0-p29-v725
-[went-forth](niścakrāma) [great-radiance](mahat-tejaḥ) [of-Brahmā](brahmaṇaḥ) [of-Śaṅkara](śaṅkarasya) [and](ca)
+[issued](niścakrāma) [great](mahat) [radiance](tejaḥ) [of-Brahmā](brahmaṇaḥ) [of-Śaṅkara](śaṅkarasya) [ca](ca)
