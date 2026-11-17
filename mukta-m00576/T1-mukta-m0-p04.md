@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p04-v76
-bhāvayan(meditating) upadiśati(teaches)
+[cultivating](bhāvayan) [teaches](upadiśati)
 
 ## mukta-m0-p04-v77
-narathamāruheḥ(chariot-riding)
+[not](na) [chariot](ratha) [ascend](āruheḥ)
 
 ## mukta-m0-p04-v78
-vastrasthānīyamiti(cloth-place-thus) śaivaśāsanamāha(śaiva-teaching-says)
+[cloth-place](vastra+sthānīyam) [thus](iti) [śaiva-teaching](śaiva+śāsanam) [says](āha)
 
 ## mukta-m0-p04-v79
-na(not) saṃvastrayethā(clothe)
+[not](na) [clothe](saṃvastrayethā)
 
 ## mukta-m0-p04-v80
-grāhyagrāhaka(graspable-grasper) vaicitryeṇāvabuddhyeta(variety-understand) iti(thus)
+[graspable-grasper](grāhya+grāhaka) [variety](vaicitryeṇa) [understand](avabuddhyeta) [thus](iti)
 
 ## mukta-m0-p04-v81
-sarvāṇi(all) sāṃsparśakāni(contact-things) strībhiḥ(women) sahavarjayeḥ(with-abandon)
+[all](sarvāṇi) [tactile](sāṃsparśakāni) [with-women](strībhiḥ+saha) [avoid](varjayeḥ)
 
 ## mukta-m0-p04-v82
-prakṛtipuruṣavivekajñānaṃ(nature-spirit-discrimination-knowledge) sāṃkhyaśāstrasiddhasupadiśati(sāṃkhya-scripture-established-teaches)
+[prakṛti-puruṣa-distinction-knowledge](prakṛti+puruṣa+viveka+jñānaṃ) [sāṃkhya-teaching-established](sāṃkhya+śāstra+siddha) [teaches](upadiśati)
 
 ## mukta-m0-p04-v83
-na(not) muṣitāṃ(stolen) prekṣeḥ(look)
+[not](na) [robbed](muṣitāṃ) [behold](prekṣeḥ)
 
 ## mukta-m0-p04-v84
-bhāvaḥ(state)
+[feeling](bhāvaḥ)
 
 ## mukta-m0-p04-v85
-na(not) vihārārtho(recreation-purpose) jalpeḥ(speak)
+[not](na) [for-amusement](vihāra+artho) [chatter](jalpeḥ)
 
 ## mukta-m0-p04-v86
-viglāpanaṃ(weakening) hi(indeed) tat(that) iti(thus) śruteḥ(scripture)
+[relaxation](viglāpanaṃ) [indeed](hi) [that](tat) [thus](iti) [of-hearing](śruteḥ)
 
 ## mukta-m0-p04-v87
-na(not) rucyarthaṃ(pleasure-purpose) kiṃcana(anything) dhārayethāḥ(hold)
+[not](na) [for-pleasure](rucya+arthaṃ) [anything](kiṃcana) [hold](dhārayethāḥ)
 
 ## mukta-m0-p04-v88
-nasnāyāḥ(not-bathe)
+[not](na) [bathe](snāyāḥ)
 
 ## mukta-m0-p04-v89
-prabhuḥ(lord)
+[lord](prabhuḥ)
 
 ## mukta-m0-p04-v90
-udakaṃ(water) vābhyupeyāḥ(or-accept)
+[water](udakaṃ) [or](vā) [approach](abhyupeyāḥ)
 
 ## mukta-m0-p04-v91
-viṣayakrīḍanātmakapakṣāṃtara(sense-play-nature-opposite) vyāvṛtyarthaḥ(exclusion-purpose)
+[sense-play-nature-opposite-side](viṣaya+krīḍana+ātmaka+pakṣa+antara) [removal-purpose](vyāvṛtya+arthaḥ)
 
 ## mukta-m0-p04-v92
-yadi(if) snāyā(bathe) daṃḍa(stick) evāpsu(just-in-waters) parilevethāḥ(sprinkle)
+[if](yadi) [bathe](snāyā) [staff](daṃḍa) [indeed](eva) [in-waters](apsu) [float](parilevethāḥ)
 
 ## mukta-m0-p04-v93
-yadi(if) viṣayabhogaṃ(sense-enjoyment) vidadhyāḥ(perform) tarhi(then) na(not) tadraseṣvāsaktāḥ(those-tastes-attached) syāḥ(be)
+[if](yadi) [sense-enjoyment](viṣaya+bhogaṃ) [perform](vidadhyāḥ) [then](tarhi) [not](na) [in-those-tastes](tad+raseṣu) [attached](āsaktāḥ) [be](syāḥ)
 
 ## mukta-m0-p04-v94
-muṃḍo(shaven) jaṭilo(matted) śikhi(tufted) vā(or) bhava(be)
+[shaven](muṃḍo) [matted](jaṭilo) [tufted](śikhi) [or](vā) [be](bhava)
 
 ## mukta-m0-p04-v95
-dvādaśāṃtordhagāminī(twelve-end-upward-going)
+[twelfth-end-upward-going](dvādaśa+anta+ūrdhva+gāminī)
 
 ## mukta-m0-p04-v96
-sāyaṃ(evening) prātassaṃdhyāmupāsīthāḥ(morning-sandhyā-worship)
+[evening](sāyaṃ) [morning](prātaḥ) [sandhyā](saṃdhyām) [worship](upāsīthāḥ)
 
 ## mukta-m0-p04-v97
-pare(supreme) tatve(truth) ca(and) saṃdhānaṃ(union) saṃdhyā(sandhyā) iti(thus) ca(and) kathyate(is-called)
+[supreme](pare) [principle](tatve) [and](ca) [union](saṃdhānaṃ) [sandhyā](saṃdhyā) [thus](iti) [and](ca) [called](kathyate)
 
 ## mukta-m0-p04-v98
-tiṣṭhe(stand) pūrvāṃ(eastern)
+[stand](tiṣṭhe) [former](pūrvāṃ)
 
 ## mukta-m0-p04-v99
-saṃdhyāyāṃ(sandhyā) tiṣṭheḥ(stand) aṃtarmukhabhāve(inward-facing-state) utthānamudyogaṃ(rising-effort) vidadyāḥ(perform)
+[in-sandhyā](saṃdhyāyāṃ) [stand](tiṣṭheḥ) [inward-facing-state](aṃtarmukha+bhāve) [rising](utthānam) [effort](udyogaṃ) [perform](vidadyāḥ)
 
 ## mukta-m0-p04-v100
-āsīthā(sit) uttarām(northern)
+[sit](āsīthā) [latter](uttarām)

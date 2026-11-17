@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p05-v101
-[in-rising](vyutthāne) [conduct](vṛtti) [should-do](kuryā) [thus](iti) [meaning](bhāvaḥ)
+[rising](vyutthāne) [activity](vṛtti) [should-do](kuryā) [thus](iti) [meaning](bhāvaḥ)
 
 ## mukta-m0-p05-v102
-[om](oṃ) [having-said-bhūrbhuvasva](bhūrbhuvasvarityuktvā) [thus-savitṛ](tatsavituriti) [sāvitrī](sāvitrī) [should-recite-manu](manubrūyāḥ)
+[om](oṃ) [earth-air-heaven](bhūrbhuvasva) [having-said](ityuktvā) [that-savitṛ](tatsavitur) [thus](iti) [sāvitrī](sāvitrī) [mantra-recite](manubrūyāḥ)
 
 ## mukta-m0-p05-v103
-[said-as-bhāvaye](bhāvayerityuktaṃ) [becomes](bhavati)
+[bhāvaye](bhāvaye) [thus](iti) [said](uktaṃ) [is](bhavati)
 
 ## mukta-m0-p05-v104
-[before-sunset](prāgastamayā) [having-gone-out](niṣkramya) [fuel-sticks](samidha) [for-offering](āhāre) [doe](hariṇī) [desiring-brahma-splendor](brahmavarcasakāmaḥ)
+[before-sunset](prāgastamayā) [having-gone-out](niṣkramya) [fuel](samidha) [for-offering](āhāre) [deer-skin](hariṇī) [desiring-brahma-splendor](brahmavarcasakāmaḥ)
 
 ## mukta-m0-p05-v105
 [is-heard](śrūyate)
 
 ## mukta-m0-p05-v106
-[evening](sāyaṃ) [morning-twilight](prātassaṃdhyāni) [remembrance](smaraṇaṃ) [to-be-done](kartavyaṃ)
+[evening](sāyaṃ) [morning](prātaḥ) [twilight](saṃdhyāni) [remembrance](smaraṇaṃ) [should-be-done](kartavyaṃ)
 
 ## mukta-m0-p05-v107
-[pervading-both](tadubhayavyāpakaṃ) [and](ca) [supreme](paraṃ) [light](tejaḥ)
+[both-pervading](tadubhayavyāpakaṃ) [also](ca) [supreme](paraṃ) [radiance](tejaḥ)
 
 ## mukta-m0-p05-v108
-[begging-round](bhaikṣācaraṇaṃ) [to-be-done](kartavyam)
+[alms-going](bhaikṣācaraṇaṃ) [should-be-done](kartavyam)
 
 ## mukta-m0-p05-v109
-[fire-kindling](agnīṃdhanaṃ) [to-be-done](kartavyam)
+[fire-kindling](agnīṃdhanaṃ) [should-be-done](kartavyam)
 
 ## mukta-m0-p05-v110
-[by-that](tena) [and](ca) [kindling-of-brahma-fire](brahmāgnerdīpanaṃ) [to-be-done](vidheyaṃ)
+[by-that](tena) [also](ca) [brahma-fire](brahmāgner) [kindling](dīpanaṃ) [should-be-done](vidheyaṃ)
 
 ## mukta-m0-p05-v111
-[evening-only](sāyameva) [fire](agniṃ) [should-kindles](maṃdhīthāḥ)
+[evening-only](sāyameva) [fire](agniṃ) [kindle](maṃdhīthāḥ)
 
 ## mukta-m0-p05-v112
-[begging-round-etc](bhaikṣasyācaraṇetyādi)
+[alms-going](bhaikṣasyācaraṇa) [etc](ityādi)
 
 ## mukta-m0-p05-v113
-[begging-round-and-fire-kindling](bhaikṣācaraṇāgnīṃdhanī)
+[alms-going](bhaikṣācaraṇa) [fire-kindling](agnīṃdhanī)
 
 ## mukta-m0-p05-v114
 [seven-nights](saptarātram)
 
 ## mukta-m0-p05-v115
-[may-not-be-thus-wishes](mābhūdityāśāste) [teacher](guruḥ)
+[may-not-be](mābhūd) [thus](ityāśāste) [teacher](guruḥ)
 
 ## mukta-m0-p05-v116
-[listen](chṛṇu) [but](tu) [you](tvā) [speech](vāk)
+[hear](chṛṇu) [indeed](tu) [you](tvā) [speech](vāk)
 
 ## mukta-m0-p05-v117
-[having-bowed](sanamya) [holds](dhārayati)
+[bowing](sanamya) [holds](dhārayati)
 
 ## mukta-m0-p05-v118
-[whatever-vedic-vow](yadvedabrataṃ) [that-here](tadatra) [vow](bratam)
+[whatever](yad) [veda-vow](vedabrataṃ) [that](tad) [here](atra) [vow](bratam)
 
 ## mukta-m0-p05-v119
-[becomes](bhavati) [necessarily](avaśyaṃ) [to-be-taken](gṛhītavyam) [thus-meaning](ityarthaḥ)
+[is](bhavati) [certainly](avaśyaṃ) [to-be-accepted](gṛhītavyam) [meaning](ityarthaḥ)
 
 ## mukta-m0-p05-v120
-[teacher](guruḥ) [says](āha)
+[teacher](gurur) [says](āha)
 
 ## mukta-m0-p05-v121
-[you-are-brahmacārin](brahmacārya'si) [thus](iti)
+[brahmacārin](brahmacārya) [you-are](asīti)
 
 ## mukta-m0-p05-v122
-[five-modifications](paṃcavikārān) [we-will-enumerate](anukramiruṣyāmaḥ)
+[five-modifications](paṃcavikārān) [we-will-not-transgress](anukramiruṣyāmaḥ)
 
 ## mukta-m0-p05-v123
-[nine](nava) [thus-said](ityāśakyāha)
+[nine](navetyāśakyāha)
 
 ## mukta-m0-p05-v124
-[food-offering](apośāna)
+[apośāna](apośāna)
 
 ## mukta-m0-p05-v125
-[firmness-of-reflection-on-brahma-knowledge](brahmajñānavimarśadārḍhyaṃ) [may-become](bhavet) [there-says](tatrāha)
+[brahma-knowledge-reflection-firmness](brahmajñānavimarśadārḍhyaṃ) [may-be](bhavet) [there](tatrāha)
