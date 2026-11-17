@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p59-v1451
-[tortoise](kūrmaṃ) [back+raised](pṛṣṭha+unnataṃ) [in-middle](madhye) [twelve+part+elevated](dvādaśa+aṃśa+samucchritam)
+[tortoise](kūrmaṃ) [raised-back](pṛṣṭhonnataṃ) [in-middle](madhye) [twelfth+part+elevated](dvādaśāṃśasamucchritam)
 
 ## mukta-m0-p59-v1452
-[made-of-bricks](aiṣṭakaṃ) [for-all+accomplishment](sarva+sidhy+artham) [sometimes+stated](kvacit+uktaṃ) [in-another-view](mata+antare)
+[brick-made](aiṣṭakaṃ) [for-all+success](sarvasidhyartha) [twice+spoken](dvaciduktaṃ) [in-other+opinion](matāntare)
 
 ## mukta-m0-p59-v1453
-[five+garlands](pañca+hāraṃ) [wide-eyed](viśāla+akṣaṃ) [seven+garlands](sapta+hāraṃ) [with-beautiful-stars](su+tārakam)
+[five+garlands](pañcahāraṃ) [wide-eyed](viśālākṣaṃ) [seven+garlands](saptahāraṃ) [well-starred](sutārakam)
 
 ## mukta-m0-p59-v1454
-[in-the-siddhānta](siddhānte) [sand+filled](bālukā+pūrṇam) [pedestal+bed+endowed-with](pīṭha+śayyā+anvitaṃ) [auspicious](śubham)
+[in-doctrine](siddhānte) [sand-filled](bālukāpūrṇa) [seat+bed+endowed](pīṭhaśayyānvitaṃ) [auspicious](śubham)
 
 ## mukta-m0-p59-v1455
-[with-cloths](vastraiḥ) [of-various+kinds](nānā+vidhaiḥ) [covered](channaṃ) [pavilion](maṇḍapaṃ) [with-pillars+joined](stambha+saṃyutam)
+[with-cloths+various+covered](vastrairnānāvidhaiśchannaṃ) [pavilion](maṇḍapaṃ) [with-pillars+joined](stammasaṃyutam)
 
 ## mukta-m0-p59-v1456
-[hanging+flower+garlands](lamba+puṣpa+srajaṃ) [one-should-make](kuryāt) [with-bells+chowries+garments](sa+ghaṇṭā+cāmara+amvaram)
+[hanging+flower+garland](lambapuṣpasrajaṃ) [should-make](kuryāt) [with-bell+whisk+canopy](saghaṇṭācāmarāmvaram)
 
 ## mukta-m0-p59-v1457
-[yellow](pītaṃ) [red](raktaṃ) [likewise](tathā) [black](kṛṣṇaṃ) [smoky](dhūmraṃ) [white](śvetam) [parrot+colored](śuka+prabham)
+[yellow](pītaṃ) [red](raktaṃ) [and](tathā) [black](kṛṣṇaṃ) [smoky](ghūmraṃ) [white](śveta) [parrot-bright](śukaprabham)
 
 ## mukta-m0-p59-v1458
-[nine+these](nava+etān) [white](dhavalān) [in-peaceful-rite](śāntau) [in-fierce-rite](raudre) [black-ones](kṛṣṇān) [one-should-employ](prayojayet)
+[nine+these](navaitān) [white](dhavalā) [in-peace](śāntau) [in-fierce](raudre) [black+ones](kṛṣṇān) [should-use](prayojayet)
 
 ## mukta-m0-p59-v1459
-[seven+cubits](sapta+hastāḥ) [banners](patākāḥ) [indeed](tu) [twenty+fingers+in-width](viṃśati+aṅgula+vistarāḥ)
+[seven+cubits](saptahastāḥ) [banners](patākāstu) [twenty+finger-widths](viṃśatyaṅgulavistarāḥ)
 
 ## mukta-m0-p59-v1460
-[ten+cubits](daśa+hastāḥ) [of-banners](patākānāṃ) [fifth+part](pañcama+aṃśaḥ) [inserted](praveśitāḥ)
+[ten+cubits](daśahastāḥ) [of-banners](patākānāṃ) [fifth+part](pañcamāṃśa) [inserted](praveśitāḥ)
 
 ## mukta-m0-p59-v1461
-[with-seven](saptabhiḥ) [with-ten](daśabhiḥ) [should-be-made](kāryāḥ) [twenty](viṃśati) [which](yāḥ) [with-cubits](karaiḥ) [flags](dhvajāḥ)
+[with-seven+ten](saptabhirdaśabhiḥ) [should-be-made](kāryā) [twenty](viṃśā) [which+by-hands+flags](yāścakarairdhvajāḥ)
 
 ## mukta-m0-p59-v1462
-[sometimes](kvacit) [eight+cubits+in-length](aṣṭa+kara+āyāmāḥ) [in-width](vistāreṇa) [two+cubits](dvi+hastakāḥ)
+[twice+eight+cubits+long](dvacidaṣṭakarāyāmā) [in-width](vistāreṇa) [two+cubits](dvihastakāḥ)
 
 ## mukta-m0-p59-v1463
-[with-cloths](vastraiḥ) [strong](dṛḍhaiḥ) [new](navaiḥ) [always](nityaṃ) [in-divine+rites](deva+kāryeṣu) [honored](pūjitāḥ)
+[with-cloths+firm+new+always](vastrairdṛḍhairnabairnityaṃ) [in-divine+works](devakāryeṣu) [worshipped](pūjitāḥ)
 
 ## mukta-m0-p59-v1464
-[copper](tāmrāḥ) [iron](lauhāḥ) [and](ca) [silver](raupyāḥ) [and](ca) [golden](haimāḥ) [in-east+etc.](prāk+ādi) [archways](toraṇāḥ)
+[copper](tāmrā) [iron](lauhāśca) [and](ca) [silver](raupyāśca) [golden](haimāḥ) [eastern+etc+gateways](prāgāditoraṇāḥ)
 
 ## mukta-m0-p59-v1465
-[in-east+etc.+directions](pūrva+ādi+dikṣu) [should-be-placed](vinyasyāḥ) [archways](toraṇāḥ) [for-prosperity](bhūtaye) [in-order](kramāt)
+[in-east+etc+directions](pūrvādidikṣu) [placing](vinyasya) [gateways](astoraṇā) [for-welfare](bhūtaye) [in-order](kramāt)
 
 ## mukta-m0-p59-v1466
-[vaikaṅkata](vaikaṅkata) [śamī](śamī) [bilva](bilva) [khādira](khādirāḥ) [enemy+destroying](śatru+nāśanāḥ)
+[vikaṅkata+śamī+bilva+khadira](vaikaṅkataśamībilvakhādirāḥ) [enemy-destroying](śatrunāśanāḥ)
 
 ## mukta-m0-p59-v1467
-[aśvattha](aśvatthaḥ) [and](ca) [also](api) [mādhūka](mādhūkaḥ) [plakṣa](plakṣaḥ) [bilva](bilvaḥ) [eighth](aṣṭamaḥ) [sometimes](kvacit)
+[aśvattha+also+madhūka](aśvatthaścāpi mādhūka) [plakṣa](plakṣo) [bilva+eighth](bilvāṣṭamaḥ) [sometimes](kvacit)
 
 ## mukta-m0-p59-v1468
-[in-east+īśa+fire+corners](prāk+īśa+vahni+koṇiṣu) [east+facing](pūrva+āsyam) [the-triad](tritayam) [should-be](bhavet)
+[in-east+fire+corner](prāgīśavahnikoṇiṣu) [east-facing](pūrvāsyaṃ) [triad](tritayaṃ) [becomes](bhavet)
 
 ## mukta-m0-p59-v1469
-[in-north](saumye) [north+facing](saumya+ananam) [should-be-made](kāryam) [in-south](yāmye) [south+facing](yāmya+ananam) [considered](matam)
+[in-north](saumye) [north-facing](saumyananaṃ) [should-be-made](kāryaṃ) [in-south](yāmye) [south-facing](yāmyānanaṃ) [is-held](matam)
 
 ## mukta-m0-p59-v1470
-[from-nyagrodha](nyagrodha) [udumbara](udumbara) [aśvattha](aśvattha) [plakṣa+tree+arisen](plakṣa+vṛkṣa+udbhavāḥ) [auspicious](śubhāḥ)
+[nyagrodha+udumbara+aśvattha+plakṣa+tree-born](nyagroghodumbarāśvatthalpakṣavṛkṣodbhavāḥ) [auspicious](śubhāḥ)
 
 ## mukta-m0-p59-v1471
-[four-cornered](caturasrāḥ) [or](atha) [eight-cornered](aṣṭa+asrāḥ) [or](vā) [round](vṛttāḥ) [or](vā) [wheel+shaped](cakra+nirvraṇāḥ)
+[square](caturasrāstvathā) [octagonal](aṣṭāsrā) [or](vā) [round](vṛttā) [vā](vā) [wheel-marked](cakranirbraṇāḥ)
 
 ## mukta-m0-p59-v1472
-[of-the-pillar](jaṅghāyāḥ) [and](ca) [of-the-top](lalāṭasya) [and](ca) [one+cubit+insertion](eka+hasta+praveṣṭanam)
+[of-shin](jaṅghāyāśca) [and](ca) [of-forehead](lalāṭasya) [ca](ca) [one+cubit+insertion](ekahastapraveṣṭanam)
 
 ## mukta-m0-p59-v1473
-[with-bells+chowries+good+cloths](ghaṇṭā+cāmara+sat+vastra) [with-flowers+garlands+incense](puṣpa+srag+gandha+dhūpanaiḥ)
+[bell+whisk+fine-cloth](ghaṇṭācāmarasadvastra) [flower+incense+perfume](puṣpasnagrāndha) [incense](dhūpanaiḥ)
 
 ## mukta-m0-p59-v1474
-[at-pillar+etc.](jaṅghā+ādau) [deities](devatāḥ) [having-installed](nyastvā) [on-ground](bhūmau) [posts](hastau) [one-should-erect](praropayet)
+[on-shin+etc](jaṅghādau) [deity](devatā) [placed](nyastvā) [on-earth](bhūmau) [hands](hastau) [should-raise](praropayet)
 
 ## mukta-m0-p59-v1475
-[at-top](śṛṅge) [in-twelve+zodiac+situated](dvādaśa+rāśi+sthāḥ) [in-their-own](sve) [in-their-own](sve) [rudras+suns+viṣṇus](rudra+arka+cakriṇaḥ)
+[on-peak](śṛṅge) [twelve+zodiac+situated](dvādaśarāśisthāḥ) [in-own+own](sve sve) [rudra+sun+viṣṇu](rūdrārkacakriṇaḥ)
