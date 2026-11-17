@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p110-v2726
-[of-the-non-questioner](apṛṣṭuḥ) [ignorance](avidyā) [indeed](hi) [very-firm](sudṛḍhā) [question](praśnaḥ) [seed](bījam) [in-determination](nirūpaṇe)
+[of-one-who-has-not-asked+knowledge](apṛṣṭurvidyā) [indeed](hi) [very-firm](sudṛḍhā) [question](praśno) [seed](bījaṃ) [in-investigation](nirūpaṇe)
 
 ## mukta-m0-p110-v2727
 [question](praśna) [thus](iti)
 
 ## mukta-m0-p110-v2728
-[consciousness](citiḥ) [one](ekā) [alone](eva) [through-variety](vaicitryāt) [appears](bhāsate) [thus](iti) [it-may-be](sambhavet)
+[consciousness+one+alone](citirekaiva) [through-variety](vaicitryād) [shines](bhāsata) [thus](iti) [it-may-be](sambhavet)
 
 ## mukta-m0-p110-v2729
-[therefore](tataḥ) [due-to-absence](abhāvāt) [of-ignorance](avidyā) [of-the-non-questioner](apraṣṭuḥ) [in-sequence](krameṇa) [answer](uttaram) [to-speak](vaktum) [begins](upakramate) [consciousness](citiḥ) [thus](iti)
+[therefore](tataḥ) [of-one-who-has-not-asked+knowledge+absence](apraṣṭurvidyābhāvāt) [in-sequence](krameṇottaraṃ) [to-speak](vaktum) [begins](upakramate) - [consciousness+thus](citiriti)
 
 ## mukta-m0-p110-v2730
-[see](paśya) [in-dream](svapna) [and-imagination](vikalpādau) [mind](manaḥ) [one](ekam) [indeed](hi) [alone](kevalam)
+[see](paśya) [in-dream+imagination+and-so-on](svapnavikalpādau) [mind](mana) [one](ekaṃ) [indeed](hi) [alone](kevalam)
 
 ## mukta-m0-p110-v2731
-[thus](evam) [pure](śuddhā) [alone](eva) [that](sā) [consciousness](saṃvit) [shining](bhāsinī) [with-various](vicitra) [forms](ākāra)
+[thus](evaṃ) [pure+alone](śuddhaiva) [that](sā) [consciousness](saṃvid) [various+form+shining](vicitrākārabhāsinī)
 
 ## mukta-m0-p110-v2732
-[thus](evam) [indeed](eva) [pure](śuddha) [consciousness](saṃvit) [shining](bhāsinī) [with-various](vicitra) [forms](ākāra)
+[thus+indeed](evameva) [pure+consciousness](śuddhasaṃvid) [various+form+shining](vicitrākārabhāsinī)
 
 ## mukta-m0-p110-v2733
-[without](antarā) [light](ālokaṃ) [indeed](tu) [blind-person](andhaḥ) [object](bhāvam) [knows](jānāti) [surely](vai) [is-it-not](nanu)
+[light](ālokaṃ) [without](antarā) [but](tu) [blind-person](andho) [object](bhāvaṃ) [knows](jānāti) [indeed](vai) [surely](nanu)
 
 ## mukta-m0-p110-v2734
-[because-of-shining](bhāsanāt) [of-pot](ghaṭa) [and-others](ādeḥ)
+[of-pot+and-so-on](ghaṭāder) [from-shining](bhāsanāt)
 
 ## mukta-m0-p110-v2735
-[not](na) [thus](evam) [in-non-shining](abhāne) [of-consciousness](citeḥ) [what](kim) [when](kadā) [where](kutra) [shines](vibhāsate)
+[not+thus](naivaṃ) [of-consciousness+in-non-shining](citerabhāne) [what](kiṃ) [when](kadā) [where](kutra) [shines](vibhāsate)
 
 ## mukta-m0-p110-v2736
-[without-regard](anapekṣya) [to-consciousness](citim) [what](kim) [shines](vibhāsate) [not](na) [anything](kiñcit) [thus](iti) [meaning](arthaḥ)
+[consciousness](citim) [without-depending-on](anapekṣya) [what](kiṃ) [shines](vibhāsate) [not](na) [anything](kiñcid) [thus+meaning](ityarthaḥ)
 
 ## mukta-m0-p110-v2737
-[from-mirror](ādarśāt) [not-different](na) [additional](atiriktaḥ) [therefore](ataḥ) [reflection](pratibimbaḥ) [would-be](bhavet) [as](yathā)
+[from-mirror](ādarśān) [not+different](nātirikto'taḥ) [reflection](pratibimbo) [would-be](bhaved) [as](yathā)
 
 ## mukta-m0-p110-v2738
-[shines](bhāti) [therefore](ataḥ) [for-this-reason](hetoḥ) [indeed](eva) [as](yathā) [reflection](pratibimbaḥ) [from-mirror](ādarśāt) [not-different](na) [additional](atiriktaḥ)
+[shines](bhāti) [therefore](ato) [from-reason+indeed](hetoreva) [as](yathā) [reflection](pratibimba) [from-mirror](ādarśān) [not+different](nātiriktaḥ)
 
 ## mukta-m0-p110-v2739
-[therefore](ataḥ) [indeed](eva) [mind](manaḥ) [also](api) [other](anyat) [in-every-way](sarvathā) [not](na) [exists](asti) [surely](vai) [from-consciousness](citeḥ)
+[therefore+indeed](ata) [mind+also](mano'pyanyat) [in-every-way](sarvathā) [not+exists](nāsti) [indeed](vai) [from-consciousness](citeḥ)
 
 ## mukta-m0-p110-v2740
-[imagined](kalpitam) [for-accomplishment](saṃsiddhyai) [of-effects](kārya) [instrument](karaṇam) [merely](kevalam) [mind](manaḥ)
+[imagined](kalpitaṃ) [for-action+accomplishment](kāryasaṃsiddhyai) [instrument](karaṇaṃ) [merely](kevalaṃ) [mind](manaḥ)
 
 ## mukta-m0-p110-v2741
-[of-all](sakala) [tasks](kārya) [accomplishment](nirvāhaḥ) [thus](evam) [in-waking-state](jāgrati) [also](api) [thus](iti) [says](āha) [imagined](kalpitam) [thus](iti)
+[all+action+accomplishment](sakalakāryanirvāha) [thus](evaṃ) [in-waking+also](jāgratyapītyāha) - [imagined+thus](kalpitamiti)
 
 ## mukta-m0-p110-v2742
-[o-rama](rāma) [action](kriyā) [of-unreal](asatya) [nature](rūpā) [real](satyam) [its-instrument](tat) [karaṇam](karaṇam) [how](katham) [or-thus](tathā)
+[O-Rama](rāma) [action](kriyā) [unreal+form](satyarūpā) [real](satyaṃ) [its+instrument](tatkaraṇaṃ) [how](katham) [variant: thus](tathā)
 
 ## mukta-m0-p110-v2743
-[of-mind](manasaḥ) [unreality](asatyatvam) [to-be-rejected](avarjjanīyam) [thus](iti) [says](āha) [action](kriyā) [thus](iti)
+[of-mind+unreality](manaso'satyatvam) [to-be-rejected](avarjjanīyam) [thus+says](ityāha) - [action+thus](kriyeti)
 
 ## mukta-m0-p110-v2744
-[therefore](tasmāt) [not](na) [exists](asti) [mind](manaḥ) [o-rama](rāma) [and](ca) [unreal](asat) [of-effect](kāryasya) [cause](kāraṇam)
+[therefore](tasmān) [not+exists](nāsti) [mind](mano) [O-Rama](rāma) [and+unreal](cāsat) [of-effect](kāryasya) [cause](kāraṇam)
 
 ## mukta-m0-p110-v2745
-[with-example](sadṛṣṭāntam) [says](āha) [unreal](asat) [thus](iti) [instrument](kārakam) [means](karaṇam)
+[with+example](sadṛṣṭāntam) [says](āha) - [unreal+thus](asateti) | [agent](kārakaṃ) [instrument](karaṇam)
 
 ## mukta-m0-p110-v2746
-[as](yathā) [or-thus](tathā) [o-rama](rāma) [likewise](tathā) [always](sarvadā) [also](api) [mind](manaḥ) [not](na) [exists](asti) [action-doing](kriyākaram)
+[as](yathā) [variant: thus O-Rama](tathā) [thus](tathā) [always+also](sarvadāpi) [mind](mano) [not+exists](nāsti) [action+making](kriyākaram)
 
 ## mukta-m0-p110-v2747
-[having-imagined](parikalpya) [one-should-act](vyavaharet) [by-distinction](bhedataḥ) [of-seen](dṛśya) [seer](draṣṭṛ) [and-so-on](ādibhiḥ)
+[having-imagined](parikalpya) [one-should-act](vyavahared) [seen+seer+and-so-on+difference](dṛśyadraṣṭṛādibhedataḥ)
 
 ## mukta-m0-p110-v2748
-[by-own](svīya) [māyā-power](māyāśaktyā) [alone](eva) [everything](sarvam) [having-imagined](parikalpya) [one-should-act](vyavaharet) [thus](iti) [meaning](arthaḥ)
+[own+māyā+power+alone](svīyamāyaśaktyaiva) [all](sarvaṃ) [having-imagined](parikalpya) [one-should-act](vyavahared) [thus+meaning](ityarthaḥ)
 
 ## mukta-m0-p110-v2749
-[listen](śṛṇu) [o-bhārgava](bhārgava) [mind-principle](cittattvam) [though-full](paripūrṇam) [also](api) [by-itself](svayam)
+[hear](śṛṇu) [O-Bhārgava](bhārgava) [consciousness+principle](cittattvaṃ) [full+even](paripūrṇamapi) [by-itself](svayam)
 
 ## mukta-m0-p110-v2750
-[appears](bhāsate) [thus](iti) [to-establish](upapādayitum) [begins](upakramate) [listen](śṛṇu) [thus](iti)
+[shines](bhāsata) [thus+to-establish](ityupapādayitum) [begins](upakramate) - [hear+thus](śṛṇviti)
