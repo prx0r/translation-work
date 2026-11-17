@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p24-v576
-[which](yāni) [which](yāni) [and](ca) [names](nāmāni) [those](tāni) [those](tāni) [separately-speak](pṛthagbruve)
+[whatever](yāni) [whatever](yāni) [and](ca) [names](nāmāni) [those](tāni) [those](tāni) [separately-speak](pṛthagbruve)
 
 ## mukta-m0-p24-v577
-[touch](sparśa)+[sound](śabda)+[lord](īśvaraḥ) [nose](nāsā) [tongue](jihvā)+[eye](akṣi)+[skin](tvak)+[ear](śruti)+[lords](īśvarāḥ)
+[touch-sound-lord](sparśaśabdeśvaro) [nose](nāsā) [tongue-eye-skin-ear-lords](jihvākṣitvakśrutīśvarāḥ)
 
 ## mukta-m0-p24-v578
-[speech](vacana)+[grasping](grahaṇa)+[release](utsarga)+[bliss](ānanda)+[movement](pragamana)+[lords](īśvarāḥ)
+[speech-grasping-release-bliss-progression-lords](vacanagrahaṇotsargānandapragamaneśvarāḥ)
 
 ## mukta-m0-p24-v579
-[nature-lord](prakṛtīśaḥ) [man](pumāṃś) [and](ca) [indeed](eva) [middle-ones](madhyānāṃ) [ten](daśa) [five](pañca) [and](ca)
+[nature-lord](prakṛtīśaḥ) [man](pumāṃś) [and](ca) [indeed](eva) [of-middle-ones](madhyānāṃ) [ten](daśa) [five](pañca) [and](ca)
 
 ## mukta-m0-p24-v580
-[knowledge-lord](vidyeśvaraḥ) [lord](patiḥ) [creator](sraṣṭā) [garutmān](garutmāna) [whole](sakalaḥ) [partless](akalaḥ)
+[vidyā-lord](vidyeśvaraḥ) [lord](patiḥ) [creator](sraṣṭā) [garutmān](garutmāna) [sakala](sakalo) [akala](akalaḥ)
 
 ## mukta-m0-p24-v581
-[peaceful](śāntaḥ) [and](ca) [unborn](ajaḥ) [great-radiance](mahātejā) [three](trayam) [door](dvār) [measure](māna) [highest](uttamam)
+[peaceful](śāntaḥ) [and](ca) [unborn](ajaḥ) [great-radiance](mahātejā) [from-dvārmāna](dvārmānād) [supreme](uttamaṃ) [three](trayam)
 
 ## mukta-m0-p24-v582
-[skanda](skandaḥ) [subtle](sūkṣmaḥ) [ambikā-lord](ambikānāthaḥ) [three](trayam) [door](dvār) [thus](tathā) [lowest](adhamam)
+[skanda](skandaḥ) [subtle](sūkṣmo) [ambikā-lord](ambikānāthaḥ) [three](trayaṃ) [from-door](dvārāt) [thus](tathā) [lowest](adhamam)
 
 ## mukta-m0-p24-v583
-[serpent-female](bhujaṅgī) [bull-female](vṛṣabhī) [lion-female](siṃhī) [highest](uttamā) [nine](nava) [womb-born](garbhajāḥ)
+[serpent-female](bhujaṅgī) [bull-female](vṛṣabhī) [lion-female](siṃhī) [supreme](uttamā) [nine](nava) [womb-born](garbhajāḥ)
 
 ## mukta-m0-p24-v584
-[pervading](vyāpī) [trident-bearer](śūlī) [wide](viśālī) [thus](iti) [lowest](adhamā) [nine](nava) [womb-born](garbhajāḥ)
+[pervading](vyāpī) [trident-bearer](śūlī) [wide](viśālī) [thus](cet) [lowest](adhamā) [nine](nava) [womb-born](garbhajāḥ)
 
 ## mukta-m0-p24-v585
 [all-knowing](sarvajñaḥ) [then](atha) [bull-bannered](vṛṣadhvajaḥ) [restrainer](niyāmaḥ) [sin-destroyer](pāpahā) [fixed](dhruvaḥ)
 
 ## mukta-m0-p24-v586
-[shambhu](śambhuḥ) [pillar](sthāṇuḥ) [hara](haraḥ) [ḍiṇḍī](ḍiṇḍī) [taker](hartā) [maker](kartā) [shiva](śivaḥ) [imperishable](avyayaḥ)
+[śambhu](śambhuḥ) [pillar](sthāṇuḥ) [hara](haro) [ḍiṇḍī](ḍiṇḍī) [taker](hartā) [doer](kartā) [śiva](śivo) [imperishable](avyayaḥ)
 
 ## mukta-m0-p24-v587
-[auspicious](bhadraḥ) [then](atha) [pure](vimalaḥ) [eldest](jyeṣṭhaḥ) [gāṇḍīva](gāṇḍīvaḥ) [nourishment-increaser](puṣṭivardhanaḥ)
+[auspicious](bhadraḥ) [then](atha) [spotless](vimalaḥ) [eldest](jyeṣṭhaḥ) [gāṇḍīva](gāṇḍīvaḥ) [nourishment-increaser](puṣṭivardhanaḥ)
 
 ## mukta-m0-p24-v588
-[nine](nava) [these](ete) [hand-measure](hastamānena) [thus](tu) [lowest](adhamāḥ) [declared](parikīrtitāḥ)
+[nine-these](navaite) [by-hand-measure](hastamānena) [your-lowest](tvadhamāḥ) [declared](parikīrtitāḥ)
 
 ## mukta-m0-p24-v589
-[six-beginning-ten-ending](ṣaḍādidaśaparyantam) [moving-linga](calaliṅgaṃ) [and](ca) [middle](madhyamam)
+[six-beginning-ten-end](ṣaḍādidaśaparyantaṃ) [movable-liṅga](calaliṅgaṃ) [and](ca) [middle](madhyamam)
 
 ## mukta-m0-p24-v590
-[best-linga-measure](śreṣṭhaliṅgapramāṇam) [that](tat) [eldest-beginning-finger-marked](jyeṣṭhādyaṅgulilakṣitam)
+[best-liṅga-measure](śreṣṭhaliṅgapramāṇaṃ) [that](tad) [eldest-beginning-finger-marked](jyeṣṭhādyaṅgulilakṣitam)
 
 ## mukta-m0-p24-v591
-[sun-rays-gold-born](ravibhirhematārotthaṃ) [linga](liṅgaṃ) [remaining](śeṣaiḥ) [five](pañcabhiḥ)
+[by-suns](ravibhiḥ) [gold-star-born](hematārotthaṃ) [liṅga](liṅgaṃ) [by-remainders](śeṣaiḥ) [women-five](stripañcabhiḥ)
 
 ## mukta-m0-p24-v592
-[health](ārogyaṃ) [kingdom-happiness](rājyasaukhyaṃ) [and](ca) [king-glory-victory-world-maker](nṛpaśrījayalokakṛt)
+[health](ārogyaṃ) [kingdom-happiness](rājyasaukhyaṃ) [and](ca) [king-splendor-victory-world-maker](nṛpaśrījayalokakṛt)
 
 ## mukta-m0-p24-v593
-[moving-linga-from](calaliṅgāt) [becomes](bhavet) [work](kāryaṃ) [practitioners](sādhakānāṃ) [sometimes](kvacin) [opinion](mate)
+[from-movable-liṅga](calaliṅgāt) [becomes](bhavet) [work](kāryaṃ) [of-practitioners](sādhakānāṃ) [sometimes](kvacin) [opinion](mate)
 
 ## mukta-m0-p24-v594
-[thirty-two-sixteen-parts](dvātriṃśatṣoḍaśāṃśāḥ) [and](ca) [corners](koṇayoḥ) [thus](tu) [remove](vilopayet)
+[thirty-two-sixteen-parts](dvātriṃśatṣoḍaśāṃśāḥ) [and](ca) [in-corners](koṇayoḥ) [indeed](tu) [remove](vilopayet)
 
 ## mukta-m0-p24-v595
-[sides](pārśvābhyāṃ) [thus](tu) [removed](viluptābhyāṃ) [moving-linga](calaliṅgaṃ) [becomes](bhavet) [better](varam)
+[by-sides](pārśvābhyāṃ) [indeed](tu) [by-removed](viluptābhyāṃ) [movable-liṅga](calaliṅgaṃ) [becomes](bhaved) [best](varam)
 
 ## mukta-m0-p24-v596
-[linga](liṅgaṃ) [door-height-half](dvārocchrayādardhāt) [becomes](bhavet) [quarter-bent](pādonataḥ) [in-order](kramāt)
+[liṅga](liṅgaṃ) [from-door-height-half](dvārocchrayādardhāt) [becomes](bhavet) [quarter-bent](pādonataḥ) [gradually](kramāt)
 
 ## mukta-m0-p24-v597
-[their](tayoḥ) [middle](madhye) [and](ca) [threads](sūtrāṇi) [seven](sapta) [prepare](saṃpādayet) [evenly](samam)
+[between-them](tayoḥ) [middle](madhye) [and](ca) [threads](sūtrāṇi) [seven](sapta) [accomplish](saṃpādayet) [evenly](samam)
 
 ## mukta-m0-p24-v598
-[two-interval](dvyantare) [rama-rama](rāmarāmaṃ) [and](ca) [lingas](liṅgānāṃ) [length](dīrghatā) [nine](nava)
+[between-two](dvyantare) [rāma-rāma](rāmarāmaṃ) [and](ca) [of-liṅgas](liṅgānāṃ) [length](dīrghatā) [nine](nava)
 
 ## mukta-m0-p24-v599
-[female-middle-highest](strīya?madhyottamaṃ) [linga](liṅgaṃ) [threefold](trividhaṃ) [threefold-natured](trividhātmakam)
+[female-middle-supreme](strīya?madhyottamaṃ) [liṅga](liṅgaṃ) [threefold](trividhaṃ) [threefold-natured](trividhātmakam)
 
 ## mukta-m0-p24-v600
-[lingas](liṅgāni) [join](ghaṭayet) [wise](dhīmān) [six](ṣaṭsu) [or](vā) [eight-intervals](aṣṭāntareṣu) [or](vā)
+[liṅgas](liṅgāni) [fit](ghaṭayet) [wise](dhīmān) [in-six](ṣaṭsu) [or](vā) [in-eight-intervals](aṣṭāntareṣu) [or](vā)
