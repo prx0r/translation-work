@@ -20,7 +20,7 @@
 },
 {
 "surface": "durgā",
-"quick_gloss": "durgā"
+"quick_gloss": "Durgā"
 },
 {
 "surface": "nava+rūpa+ātmikā",
@@ -44,8 +44,12 @@
 "quick_gloss": "who"
 },
 {
-"surface": "durgā+iti",
-"quick_gloss": "as-durgā"
+"surface": "durgā",
+"quick_gloss": "as-Durgā"
+},
+{
+"surface": "iti",
+"quick_gloss": "thus"
 },
 {
 "surface": "smṛtā",
@@ -70,7 +74,7 @@
 "tokens": [
 {
 "surface": "mahiṣasya",
-"quick_gloss": "of-mahiṣa"
+"quick_gloss": "of-Mahiṣa"
 },
 {
 "surface": "asura+indrasya",
@@ -107,11 +111,11 @@
 },
 {
 "surface": "dhyāye",
-"quick_gloss": "i-meditate"
+"quick_gloss": "I-meditate-on"
 },
 {
 "surface": "śrīvidyāṃ",
-"quick_gloss": "śrīvidyā"
+"quick_gloss": "Śrīvidyā"
 },
 {
 "surface": "paramāṃ",
@@ -119,7 +123,7 @@
 },
 {
 "surface": "jape",
-"quick_gloss": "i-recite"
+"quick_gloss": "I-recite"
 }
 ]
 },
@@ -132,7 +136,7 @@
 "tokens": [
 {
 "surface": "yāṃ",
-"quick_gloss": "which"
+"quick_gloss": "whom"
 },
 {
 "surface": "śrutvā",
@@ -144,7 +148,7 @@
 },
 {
 "surface": "śivo",
-"quick_gloss": "śiva"
+"quick_gloss": "Śiva"
 },
 {
 "surface": "jātaḥ",
@@ -156,7 +160,7 @@
 },
 {
 "surface": "śivaḥ",
-"quick_gloss": "śiva"
+"quick_gloss": "Śiva"
 }
 ]
 },
@@ -194,7 +198,7 @@
 "tokens": [
 {
 "surface": "śivaḥ",
-"quick_gloss": "śiva"
+"quick_gloss": "Śiva"
 },
 {
 "surface": "prabhā+maṇḍalataḥ",
@@ -240,7 +244,7 @@
 "tokens": [
 {
 "surface": "śivo",
-"quick_gloss": "śiva"
+"quick_gloss": "Śiva"
 },
 {
 "surface": "jajāpa",
@@ -260,7 +264,7 @@
 },
 {
 "surface": "śive",
-"quick_gloss": "o-śivā"
+"quick_gloss": "O-Śivā"
 }
 ]
 },
@@ -339,7 +343,7 @@
 },
 {
 "surface": "jagat+ambike",
-"quick_gloss": "o-mother-of-the-world"
+"quick_gloss": "O-mother-of-the-world"
 }
 ]
 },
@@ -356,7 +360,7 @@
 },
 {
 "surface": "śive",
-"quick_gloss": "o-śivā"
+"quick_gloss": "O-Śivā"
 },
 {
 "surface": "viśvaṃ",
@@ -364,7 +368,7 @@
 },
 {
 "surface": "viśva+īśvari",
-"quick_gloss": "o-lady-of-the-universe"
+"quick_gloss": "O-lady-of-the-universe"
 },
 {
 "surface": "cara+acaram",
@@ -401,7 +405,7 @@
 },
 {
 "surface": "guru+pada+arcanāt",
-"quick_gloss": "from-worship-of-the-guru's-feet"
+"quick_gloss": "by-worship-of-the-guru's-feet"
 }
 ]
 },
@@ -458,8 +462,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "śrī+cakram+idam",
-"quick_gloss": "this-śrīcakra"
+"surface": "śrī+cakram",
+"quick_gloss": "this-Śrīcakra"
+},
+{
+"surface": "idam",
+"quick_gloss": "this"
 },
 {
 "surface": "ādhāraṃ",
@@ -484,7 +492,7 @@
 "tokens": [
 {
 "surface": "cakraṃ",
-"quick_gloss": "cakra"
+"quick_gloss": "diagram"
 },
 {
 "surface": "likhet",
@@ -492,15 +500,19 @@
 },
 {
 "surface": "mahā+devi",
-"quick_gloss": "o-great-goddess"
+"quick_gloss": "O-great-goddess"
 },
 {
 "surface": "pūjyam",
 "quick_gloss": "to-be-worshipped"
 },
 {
-"surface": "abja+arkayoḥ+dalaiḥ",
+"surface": "abja+arkayoḥ",
 "quick_gloss": "with-lotus-and-sun-petals"
+},
+{
+"surface": "dalaiḥ",
+"quick_gloss": "with-petals"
 }
 ]
 },
@@ -513,7 +525,7 @@
 "tokens": [
 {
 "surface": "cakre",
-"quick_gloss": "in-the-cakra"
+"quick_gloss": "in-the-diagram"
 },
 {
 "surface": "yaḥ",
@@ -574,8 +586,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "mahā+īśvari",
-"quick_gloss": "o-great-goddess"
+"surface": "maheśvari",
+"quick_gloss": "O-great-goddess"
 }
 ]
 },
@@ -617,7 +629,7 @@
 "tokens": [
 {
 "surface": "vidrutāḥ",
-"quick_gloss": "having-fled"
+"quick_gloss": "fled"
 }
 ]
 },
@@ -630,11 +642,11 @@
 "tokens": [
 {
 "surface": "durgā",
-"quick_gloss": "durgā"
+"quick_gloss": "Durgā"
 },
 {
 "surface": "ratna+vatī",
-"quick_gloss": "jewel-possessing"
+"quick_gloss": "jewel-bearing"
 },
 {
 "surface": "bhūmiḥ",
@@ -667,15 +679,15 @@
 },
 {
 "surface": "dhyāyet",
-"quick_gloss": "one-should-meditate"
+"quick_gloss": "one-should-meditate-on"
 },
 {
 "surface": "mahā+devīṃ",
-"quick_gloss": "on-the-great-goddess"
+"quick_gloss": "the-great-goddess"
 },
 {
 "surface": "durgāṃ",
-"quick_gloss": "durgā"
+"quick_gloss": "Durgā"
 },
 {
 "surface": "durgati+nāśinīm",
