@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p283-v7051
-[regulated](niyato) [having-become](bhūtvā) [intent-on-meditation-on-deity](devatādhyānatatparaḥ)
+[niyataḥ](niyato) [bhūtvā](bhūtvā) [devatā](devatā) [dhyāna](dhyāna) [tatparaḥ](tatparaḥ)
 
 ## mukta-m0-p283-v7052
-[after-seven-days](saptāhāt) [arises](jāyate) [quickly](śīghram) [another-lord-of-speech](aparo+vākpatiḥ) [as](yathā)
+[saptāhāt](saptāhāt) [jāyate](jāyate) [śīghram](śīghram) [aparaḥ](aparaḥ) [vākpatiḥ](vākpatiḥ) [yathā](yathā)
 
 ## mukta-m0-p283-v7053
-[by-measure-of-half-niṣka](niṣkārdhapādamānena) [turmeric](haridrām) [rock-salt](saindhavam) [vaca](vacām)
+[niṣka](niṣka) [ardha](ardha) [pāda](pāda) [mānena](mānena) [haridrām](haridrāṃ) [saindhavam](saindhavaṃ) [vacām](vacām)
 
 ## mukta-m0-p283-v7054
-[with-good-foods-and-eatables](subhakṣyabhojyaiḥ) [and](ca) [having-fed](bhojayitvā) [and](ca) [girls](kanyakāḥ)
+[subhakṣya](subhakṣya) [bhojyaiḥ](bhojyaiḥ) [ca](ca) [bhojayitvā](bhojayitvā) [ca](ca) [kanyakāḥ](kanyakāḥ)
 
 ## mukta-m0-p283-v7055
-[she](sā) [obtains](labhate) [son](putram) [endowed-with-all-marks](sarvalakṣaṇasaṃyutam)
+[sā](sā) [labhate](labhate) [putram](putraṃ) [sarva](sarva) [lakṣaṇa](lakṣaṇa) [saṃyutam](saṃyutam)
 
 ## mukta-m0-p283-v7056
-[declared](nigaditaḥ) [meter](chandaḥ) [gayatri](gāyatram) [is-called](ucyate)
+[nigaditaḥ+chandaḥ](nigaditaśchando) [gāyatram](gāyatram) [ucyate](ucyate)
 
 ## mukta-m0-p283-v7057
-[six-limbs](ṣaḍaṃgāni) [meditation](dhyānam) [its](asya) [is-determined](nirūpyate)
+[ṣaḍ](ṣaḍ) [aṃgāni](aṃgāni) [dhyānam](dhyānam) [asya](asya) [nirūpyate](nirūpyate)
 
 ## mukta-m0-p283-v7058
-[holding-noose-rosary-teeth](pāśākṣasūtradaśanān) [and](tathā) [goad](aṃkuśam)
+[pāśa](pāśa) [akṣa](akṣa) [sūtra](sūtra) [daśanān](daśanān) [dhārayantam](dhārayantaṃ) [tathā](tathā) [aṃkuśam](aṃkuśam)
 
 ## mukta-m0-p283-v7059
-[midday-sun-like](madhyāhnādityasaṃkāśam) [endowed-with-charming-shakti](cāruśaktyā+samanvitam)
+[madhyāhna](madhyāhna) [āditya](āditya) [saṃkāśam](saṃkāśaṃ) [cāru](cāru) [śaktyā](śaktyā) [samanvitam](samanvitam)
 
 ## mukta-m0-p283-v7060
-[first-repetition](prathamāvṛttiḥ) [with-limbs](aṃgaiḥ) [occurs](syāt) [in-six-petals](dalaṣaṭke) [then](tataḥ) [beyond](param)
+[prathamā](prathamā) [āvṛttiḥ](āvṛttiḥ) [aṃgaiḥ](aṃgaiḥ) [syāt](syāt) [dala](dala) [ṣaṭke](ṣaṭke) [tataḥ](tataḥ) [param](param)
 
 ## mukta-m0-p283-v7061
-[should-worship](pūjayet) [outside](bāhye) [in-bhupura](bhūpure) [world-guardians](lokapālakān)
+[pūjayet](pūjayed) [bāhye](bāhye) [bhūpure](bhūpure) [loka](loka) [pālakān](pālakān)
 
 ## mukta-m0-p283-v7062
-[should-chant](japet) [mantra](mantram) [one-tenth](taddaśāṃśam) [concentrated](samāhitaḥ)
+[japet](japen) [mantram](mantraṃ) [tat](tat) [daśa](daśa) [aṃśam](aṃśaṃ) [samāhitaḥ](samāhitaḥ)
 
 ## mukta-m0-p283-v7063
-[should-do](kuryāt) [thus](evam) [accomplished](siddhaḥ) [becomes](bhavet) [mantra](manuḥ)
+[kuryāt](kuryād) [evam](evam) [siddhaḥ](siddho) [bhavet](bhaven) [manuḥ](manuḥ)
 
 ## mukta-m0-p283-v7064
-[with-ghee](ājyaiḥ) [offerings](nair) [should-offer-daily](juhuyāt+nityam) [after-a-year](vatsarāt) [becomes-food-possessing](annavān+bhavet)
+[ājyāt](ājyāt) [nair](nair) [juhuyāt](juhuyāt) [nityam](nityam) [anna](anna) [vān](vān) [vatsarāt](vatsarāt) [bhavet](bhavet)
 
 ## mukta-m0-p283-v7065
-[obtains](labhet) [girl](kanyām) [him](enaṃ) [who](yaḥ) [worships](bhajate) [man](naraḥ)
+[labhet](labhet) [kanyām](kanyām) [enam](enam) [yaḥ](yo) [bhajate](bhajate) [naraḥ](naraḥ)
 
 ## mukta-m0-p283-v7066
-[and](ca) [great](mahā) [having-addressed](uktvā) [Ganapati](gaṇapatim) [again](punaḥ)
+[ca](ca) [mahā](mahā) [iti](iti) [uktvā](uktvā) [gaṇapatim](gaṇapatiṃ) [punaḥ](punaḥ)
 
 ## mukta-m0-p283-v7067
-[declared](ākhyātaḥ) [god](devaḥ) [Shakti-Vinayaka](śaktivināyakaḥ)
+[ākhyātaḥ](ākhyāto) [devaḥ](devaḥ) [śakti](śakti) [vināyakaḥ](vināyakaḥ)
 
 ## mukta-m0-p283-v7068
-[by-mantra-syllables](mantrārṇaiḥ) [limb-arrangement](aṅgakḷptiḥ) [here](iha) [is-stated](uditā)
+[mantra](mantra) [arṇaiḥ](arṇaiḥ) [aṅga](aṅga) [kḷptiḥ](kḷptiḥ) [iha](iha) [uditā](uditā)
 
 ## mukta-m0-p283-v7069
-[holding-lotus-and-goad](padmasṛṇī+dadhānam) [left](vāma) [upper](ūrdhvake)
+[padma](padma) [sṛṇī](sṛṇī) [dadhānam](dadhānaṃ) [vāma](vāma) [ūrdhvake](ūrdhvake)
 
 ## mukta-m0-p283-v7070
-[jeweled](maṇimayam) [crown](mukuṭam) [wearing](bibhratam) [lord](prabhum)
+[maṇimayam](maṇimayaṃ) [mukuṭam](mukuṭaṃ) [bibhratam](bibhrataṃ) [prabhum](prabhum)
 
 ## mukta-m0-p283-v7071
-[on-seat](pīṭhe) [by-path-of-Vighnesha](virivighneśavartmanā)
+[pīṭhe](pīṭhe) [viri](viri) [vighneśa](vighneśa) [vartmanā](vartmanā)
 
 ## mukta-m0-p283-v7072
-[with-cakes-mixed-with-ghee](apūpaiḥ+ghṛtasaṃyuktaiḥ) [duly](vidhivat) [worshiped-in-fire](pūjite+anale)
+[apūpaiḥ](apūpaiḥ) [ghṛta](ghṛta) [saṃyuktaiḥ](saṃyuktaiḥ) [vidhivat](vidhivat) [pūjita](pūjita) [nale](nale)
 
 ## mukta-m0-p283-v7073
-[accomplished-mantra](siddhamanuḥ) [mantra-adept](mantrī) [rites](prayogān) [duly](vidhivat) [should-perform](caret)
+[siddha](siddha) [manuḥ](manuḥ) [mantrī](mantrī) [prayogān](prayogān) [vidhivat](vidhivat) [caret](caret)
 
 ## mukta-m0-p283-v7074
-[with-coconuts](nārikelaiḥ) [and](ca) [homa](homaḥ) [subdues-world](lokavaśaṅkaraḥ)
+[nārikelaiḥ+ca](nārikelaiśca) [homaḥ](homo) [loka](loka) [vaśaṅkaraḥ](vaśaṅkaraḥ)
 
 ## mukta-m0-p283-v7075
-[with-roasted-grain](saktubhiḥ) [and](ca) [performed](kṛtaḥ) [homa](homaḥ) [subdues-brahmins](brāhmaṇānāṃ+vaśaṅkaraḥ)
+[saktubhiḥ](saktubhiś) [ca](ca) [kṛtaḥ](kṛto) [homaḥ](homo) [brāhmaṇānām](brāhmaṇānāṃ) [vaśaṅkaraḥ](vaśaṅkaraḥ)
