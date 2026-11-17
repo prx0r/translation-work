@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p30-v726
-[separate-borns](pṛthagbhūtānāṃ) [garland-making-ness](mālākāratā) [as](yathā) [perishes](naśyati) [thus](iti) [meaning](bhāvaḥ)
+[pṛthag-bhūtānām](pṛthagbhūtānāṃ) [mālā-kāra-tā](mālākāratā) [yathā](yathā) [naśyati-iti](naśyatīti) [bhāvaḥ](bhāvaḥ)
 
 ## mukta-m0-p30-v727
-[by-me](mayā) [revived](saṃjīvitaḥ) [exceedingly](atyantaṃ) [thread-holder](sūtradhāraḥ) [indeed](hi) [in-that-city](tatpure)
+[mayā](mayā) [saṃjīvitaḥ](saṃjīvito) [atyantam](atyantaṃ) [sūtra-dhāraḥ](sūtradhāro) [hi](hi) [tat-pure](tatpure)
 
 ## mukta-m0-p30-v728
-[mind+etc+activity+initiator](manaḥprabhṛtivyāpārapravartakaḥ)
+[manaḥ-prabhṛti-vyāpāra-pravartakaḥ](manaḥprabhṛtivyāpārapravartakaḥ)
 
 ## mukta-m0-p30-v729
-[thus](evaṃ) [course](pracāraṃ) [resorting](saṃśritya) [of-ancients](purāṇām) [lord](adhipaḥ) [became](abhavat)
+[evaṃ](evaṃ) [pracāram](pracāraṃ) [saṃśritya](saṃśritya) [purāṇa-adhipaḥ](purāṇāmadhipo) [abhavat](abhavat)
 
 ## mukta-m0-p30-v730
-[from-dissolution](layāt) [life-breath](prāṇaḥ) [leads](nayati) [thus](iti) [meaning](bhāvaḥ) [lord](adhipaḥ) [unsteady-named](asthirābhidhaṃ) [mind](mano) [became](abhavat)
+[layāt](layāt) [prāṇaḥ](prāṇo) [nayati-iti](nayatīti) [bhāvaḥ](bhāvaḥ) [adhipaḥ](adhipaḥ) [asthira-abhidhaṃ](asthirābhidhaṃ) [manaḥ](mano) [abhavat](abhavat)
 
 ## mukta-m0-p30-v731
-[faithful-son](satīputraḥ) [even](api) [unsteady](asthiraḥ) [he](sa) [resorted](saṃśritaḥ) [even](api) [great-strength](mahābalam)
+[satī-putraḥ](satīputro) [api](apy) [asthiraḥ](asthiraḥ) [saḥ](sa) [saṃśritaḥ](saṃśrito) [api](api) [mahā-balam](mahābalam)
 
 ## mukta-m0-p30-v732
-[of-many](bahūnāṃ) [ancients](purāṇām) [thus](iti) [with-previous](pūrveṇa) [connection](sambandhaḥ) [great-strength](mahābalaṃ) [life-breath](prāṇam)
+[bahūnām](bahūnāṃ) [purāṇām](purāṇām) [iti](iti) [pūrveṇa](pūrveṇa) [sambandhaḥ](sambandhaḥ) [mahā-balam](mahābalaṃ) [prāṇam](prāṇam)
 
 ## mukta-m0-p30-v733
-[wife-etc](patnyādi) [from-bad-association](asatsamāgamāt) [thus](iti) [says](āha) [fickle-etc](capaletyādi)
+[patnī-ādi-asat-samāgamāt](patnyādyasatsamāgamād) [iti](iti) [āha](āha) [capala-ityādi](capaletyādi)
 
 ## mukta-m0-p30-v734
-[by-others](anyaiḥ) [sons](putraiḥ) [five](pañcabhiḥ) [he](sa) [everywhere](sarvatra) [dragged](abhivikarṣitaḥ)
+[anyaiḥ](anyaiḥ) [putraiḥ](putraiḥ) [pañcabhiḥ](pañcabhiḥ) [saḥ](sa) [sarvatra](sarvatrā) [abhivikarṣitaḥ](abhivikarṣitaḥ)
 
 ## mukta-m0-p30-v735
-[anger-greed-rise](krodhalobhodayaḥ) [by-that](tena) [suffering-share-became](duḥkhabhāgabhūt) [thus](iti) [intent](āśayaḥ)
+[krodha-lobha-udayaḥ](krodhalobhodayaḥ) [tena](tena) [duḥkha-bhāga-bhūt](duḥkhabhāgabhūd) [iti](ity) [āśayaḥ](āśayaḥ)
 
 ## mukta-m0-p30-v736
-[here-there](itastataḥ) [somewhere](kvacit) [sons](putraiḥ) [five](pañcabhiḥ) [he](sa) [dragged](vikarṣitaḥ)
+[itaḥ-tataḥ](itastataḥ) [kvacit](kvacit) [putraiḥ](putraiḥ) [pañcabhiḥ](pañcabhiḥ) [saḥ](sa) [vikarṣitaḥ](vikarṣitaḥ)
 
 ## mukta-m0-p30-v737
-[great-distress-attainment-manner](mahākleśaprāptiprakāram) [says](āha) [hence](itaḥ) [etc](ityādi)
+[mahā-kleśa-prāpti-prakāram](mahākleśaprāptiprakāram) [āha](āha) [itaḥ](ita) [ityādi](ityādi)
 
 ## mukta-m0-p30-v738
-[somewhere](kvacit) [great-food-cause](mahāśanāhetoḥ) [food-purpose](aśanārthaṃ) [runs](pradhāvati)
+[kvacit](kvacit) [mahā-āśana-hetoḥ](mahāśanāhetor) [aśana-artham](aśanārthaṃ) [pradhāvati](pradhāvati)
 
 ## mukta-m0-p30-v739
-[weariness](khedam) [went](īyivān) [suffering](duḥkhaṃ) [obtained](prāptavān)
+[khedam](khedam) [īyivān](īyivān) [duḥkham](duḥkhaṃ) [prāptavān](prāptavān)
 
 ## mukta-m0-p30-v740
-[great-faint](mahāmūrcchāṃ) [arrives](samāyāti) [and](ca) [not-knowing](avidam) [its-remedy](tatpratikriyām)
+[mahā-mūrcchām](mahāmūrcchāṃ) [samāyāti](samāyāti) [ca](ca) [avidam](avidam) [tat-pratikriyām](tatpratikriyām)
 
 ## mukta-m0-p30-v741
-[its-remedy](tatpratikriyāṃ) [anger-remedy](krodhapratikriyāṃ) [peace](śāntim)
+[tat-pratikriyām](tatpratikriyāṃ) [krodha-pratikriyām](krodhapratikriyāṃ) [śāntim](śāntim)
 
 ## mukta-m0-p30-v742
-[dead-like](mṛtatulyaṃ) [own](svam) [self](ātmānaṃ) [thinks](manyate) [grief-continuous](śokasantataḥ)
+[mṛta-tulyam](mṛtatulyaṃ) [svam](svam) [ātmānam](ātmānaṃ) [manyate](manyate) [śoka-santataḥ](śokasantataḥ)
 
 ## mukta-m0-p30-v743
-[wife-sons](patnīputraiḥ) [overwhelmed](samākrāntaḥ) [being-led](nīyamānaḥ) [but](tu) [by-them](taiḥ) [always](sadā)
+[patnī-putraiḥ](patnīputraiḥ) [samākrāntaḥ](samākrānto) [nīyamānaḥ](nīyamānastu) [tu](tu) [taiḥ](taiḥ) [sadā](sadā)
 
 ## mukta-m0-p30-v744
-[foolish-son-ness](mūḍhaputratvāt) [bad-family-origin-ness](duṣkulodbhavatvam)
+[mūḍha-putratvāt](mūḍhaputratvād) [duṣkula-udbhavatvam](duṣkulodbhavatvam)
 
 ## mukta-m0-p30-v745
-[somewhere](kvacit) [forest-scattered](kāntārakīrṇeṣu) [carnivore-clan-lands](kravyādakulabhūmiṣu)
+[kvacit](kvacit) [kāntāra-kīrṇeṣu](kāntārakīrṇeṣu) [kravyāda-kula-bhūmiṣu](kravyādakulabhūmiṣu)
 
 ## mukta-m0-p30-v746
-[great-forest-situated](mahāraṇyasthaṃ) [crow-etc-pervaded](kākādivyāptaṃ) [and](ca) [own-body](svadehaṃ) [sees](paśyati) [thus](iti) [purport](tātparyam)
+[mahā-araṇya-stham](mahāraṇyasthaṃ) [kāka-ādi-vyāptam](kākādivyāptaṃ) [ca](ca) [sva-deham](svadehaṃ) [paśyati-iti](paśyatīti) [tātparyam](tātparyam)
 
 ## mukta-m0-p30-v747
-[somewhere](kvacit) [putrid-flow-places](pūtivahāstheṣu) [somewhere](kvacid) [deep-darknesses](gāḍhatamaḥsu) [and](ca)
+[kvacit](kvacit) [pūti-vahā-stheṣu](pūtivahāstheṣu) [kvacit](kvacid) [gāḍha-tamaḥsu](gāḍhatamaḥsu) [ca](ca)
 
 ## mukta-m0-p30-v748
-[dwelt](uvāsa) [thus](iti) [connection](anvayaḥ)
+[uvāsa-iti](uvāsety) [anvayaḥ](anvayaḥ)
 
 ## mukta-m0-p30-v749
-[friend](sakhī) [and](ca) [my](me) [grief-deluded](duḥkhamūḍhā) [became](abhavad) [bad-association](duḥsaṅgataḥ) [always](sadā)
+[sakhī](sakhī) [ca](ca) [me](me) [duḥkha-mūḍhā](duḥkhamūḍhā) [abhavat](abhavad) [duḥsaṅgataḥ](duḥsaṅgataḥ) [sadā](sadā)
 
 ## mukta-m0-p30-v750
-[deluded](mūḍhā) [indeed](eva) [exceedingly](atyantam) [became](abhavam) [that-family-devoted](tatkuṭumbaparāyaṇā)
+[mūḍhā](mūḍhevā) [iva](iva) [atyantam](atyantam) [abhavam](abhavaṃ) [tat-kuṭumba-parāyaṇā](tatkuṭumbaparāyaṇā)

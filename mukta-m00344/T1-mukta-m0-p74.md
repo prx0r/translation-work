@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p74-v1826
-[katham](kathaṃ) [tadanuvrttih](tadanuvṛttirvai) [bhaved](bhaved) [avitathatmika](avitathātmikā)
+[how](kathaṃ) [that-continuity](tadanuvṛttiḥ) [indeed](vai) [would-be-true-natured](bhavedavitathātmikā)
 
 ## mukta-m0-p74-v1827
-[bhaved](bhaved) [ityarthah](ityarthaḥ)
+[would-be](bhaved) [thus](iti) [the-meaning](arthaḥ) [is](bhaved) [thus](iti) [explained](arthaḥ)
 
 ## mukta-m0-p74-v1828
-[rupam](rūpamasti) [sarvadaiva](sarvadaiva) [nirjharair](nirjharairbheditātmanām) [bheditatmanam](bheditātmanām)
+[form](rūpam) [exists](asti) [always](sarvadā) [indeed](eva) [by-cleft-natured-ones](nirjharairbheditātmanām)
 
 ## mukta-m0-p74-v1829
-[nacalanam](nācalānāmastītyarthaḥ) [asti](asti) [ityarthah](ityarthaḥ)
+[not-of-immovable-ones](nācalānām) [exists](asti) [thus](iti) [the-meaning](arthaḥ) [is](asti) [thus](iti) [explained](arthaḥ)
 
 ## mukta-m0-p74-v1830
-[sarvatah](sarvatastu) [vibhidyante](vibhidyante) [parvatah](parvatāḥ) [sarvadaiva](sarvadaiva) [hi](hi)
+[everywhere](sarvataḥ) [but](tu) [are-cleft](vibhidyante) [mountains](parvatāḥ) [always](sarvadā) [indeed](eva) [hi](hi)
 
 ## mukta-m0-p74-v1831
-[vanagajadibhih](vanagajādibhiḥ)
+[by-forest-elephants-and-others](vanagajādibhiḥ) [by-forest-elephants](vanagajaiḥ) [and-others](ādibhiḥ) [indeed](hi) [thus](iti) [explained](arthaḥ)
 
 ## mukta-m0-p74-v1832
-[atha](atha) [te](te) [sampravaksyami](sampravakṣyāmi) [pasya](paśya) [suksmadhiya](sūkṣmadhiyā) [nrpa](nṛpa)
+[then](atha) [to-you](te) [I-will-declare](sampravakṣyāmi) [see](paśya) [with-subtle-intellect](sūkṣmadhiyā) [O-king](nṛpa)
 
 ## mukta-m0-p74-v1833
-[svapna](svāpna) [vaktumaha](vaktumāha) [atha](atha) [pasya](paśya) [vicaraya](vicāraya)
+[dream](svāpna) [to-speak](vaktum) [says](āha) [then](atha) [iti](iti) [see](paśya) [examine](vicāraya)
 
 ## mukta-m0-p74-v1834
-[aparicchinnanuvrttih](aparicchinnā'nuvṛttiḥ) [karyesu](kāryeṣu) [atyantadurlabha](atyantadurlabhā)
+[unlimited](aparicchinnā) [continuity](anuvṛttiḥ) [in-actions](kāryeṣu) [very-difficult](atyantadurlabhā)
 
 ## mukta-m0-p74-v1835
-[siddhajagradbhasyaparicchinnanuvrttirdurlabhaivetyarthah](siddhajāgradbhāvasyāparicchinnānuvṛttirdurlabhaivetyarthaḥ)
+[of-accomplished-waking-state](siddhajāgradbhāvasya) [unlimited-continuity](aparicchinnānuvṛttiḥ) [difficult-indeed](durlabhaiva) [thus](iti) [the-meaning](arthaḥ)
 
 ## mukta-m0-p74-v1836
-[iti](iti) [cet](cet) [karanam](kāraṇaṃ) [rupam](rūpaṃ) [prthivyadimayam](pṛthivyādimayaṃ) [kila](kila)
+[thus](iti) [if](cet) [cause](kāraṇaṃ) [form](rūpaṃ) [of-earth-and-elements](pṛthivyādimayaṃ) [indeed](kila)
 
 ## mukta-m0-p74-v1837
-[karane](kāraṇe) [suksmarupenavasthanaditi](sūkṣmarūpeṇāvasthānāditi) [bhavah](bhāvaḥ)
+[in-cause](kāraṇe) [by-subtle-form](sūkṣmarūpeṇa) [abiding](avasthānāt) [iti](iti) [bhāvaḥ](bhāvaḥ) [thus](iti) [meaning](bhāvaḥ)
 
 ## mukta-m0-p74-v1838
-[atha](atha) [svapnasya](svāpnasya) [badho](bādho) [hi](hi) [jagrati](jāgrati) [hyanubhuyate](hyanubhūyate)
+[then](atha) [of-dream](svāpnasya) [refutation](bādhaḥ) [indeed](hi) [in-waking](jāgrati) [is-experienced](anubhūyate)
 
 ## mukta-m0-p74-v1839
-[svapnabhavanam](svāpnabhāvānāṃ) [badho](bādho) [jagrati](jāgrati) [sarvairanubhuyata](sarvairanubhūyata) [ityarthah](ityarthaḥ)
+[of-dream-states](svāpnabhāvānām) [refutation](bādhaḥ) [in-waking](jāgrati) [by-all](sarvaiḥ) [is-experienced](anubhūyate) [thus](iti) [the-meaning](arthaḥ)
 
 ## mukta-m0-p74-v1840
-[iti](iti) [cecchrnu](cecchṛṇu) [vaksyami](vakṣyāmi) [badho](bādho) [hyanavabhasanam](hyanavabhāsanam)
+[thus](iti) [if](cec) [hear](śṛṇu) [I-will-speak](vakṣyāmi) [refutation](bādhaḥ) [indeed](hi) [non-manifestation](anavabhāsanam)
 
 ## mukta-m0-p74-v1841
-[badha](bādha) [ityucyata](ityucyata) [iti](iti) [jneyam](jñeyam)
+[refutation](bādhaḥ) [thus](iti) [is-said](ucyate) [iti](iti) [to-be-known](jñeyam) [thus](iti) [known](jñeyam)
 
 ## mukta-m0-p74-v1842
-[atha](atha) [badho](bādho) [hyapramanadarshanam](hyapramāṇadarśanaṃ) [cettada](cettadā) [srnu](śṛṇu)
+[then](atha) [refutation](bādhaḥ) [indeed](hi) [invalid-cognition](apramāṇadarśanaṃ) [if](cet) [then](tadā) [hear](śṛṇu)
 
 ## mukta-m0-p74-v1843
-[bhada](bhādaḥ) [nahyevamvidhabadho](nahyevaṃvidhabādho) [jagrati](jāgratyastīti) [bhavah](bhāvaḥ)
+[refutation](bhādaḥ) [not-indeed](nahi) [such-refutation](evaṃvidhabādhaḥ) [in-waking](jāgrati) [exists](asti) [thus](iti) [meaning](bhāvaḥ)
 
 ## mukta-m0-p74-v1844
-[jnatavijneyatatvanamapramanadrshih](jñātavijñeyatatvānāmapramāṇadṛśiḥ) [sphuta](sphuṭā)
+[of-known-knowable-principles](jñātavijñeyatatvānām) [invalid-cognition](apramāṇadṛśiḥ) [clear](sphuṭā)
 
 ## mukta-m0-p74-v1845
-[cetarat](cetarat) [iti](iti) [nitya](nītyā) [jnatavijneyatattvanam](jñātavijñeyatattvānāṃ) [jagrati](jāgrati) [sphutaapramanadrshih](sphuṭā'pramāṇadṛśiḥ)
+[otherwise](cetarat) [iti](iti) [nītyā](nītyā) [of-known-knowable-principles](jñātavijñeyatattvānām) [in-waking](jāgrati) [clear](sphuṭā) [invalid-cognition](apramāṇadṛśiḥ)
 
 ## mukta-m0-p74-v1846
-[dirghakalo](dīrghakālo'pi) [ca](ca) [svapne](svapne) [bhasate](bhāsate) [nirvisesatah](nirviśeṣataḥ)
+[long-time](dīrghakālaḥ) [also](api) [ca](ca) [in-dream](svapne) [appears](bhāsate) [without-difference](nirviśeṣataḥ)
 
 ## mukta-m0-p74-v1847
-[nirvisesata](nirviśeṣata) [iti](iti) [jagratakalavadaviseshad](jāgratkālavadaviśeṣād) [bhasata](bhāsata) [ityarthah](ityarthaḥ)
+[without-difference](nirviśeṣataḥ) [iti](iti) [like-waking-time](jāgratkālavad) [without-difference](aviśeṣāt) [appears](bhāsate) [thus](iti) [the-meaning](arthaḥ)
 
 ## mukta-m0-p74-v1848
-[svapnabhavastena](svāpnabhāvastena) [tulyo](tulyo) [jagrabhavo](jāgrabhāvo'pi) [sarvasah](sarvaśaḥ)
+[dream-state](svāpnabhāvaḥ) [by-that](tena) [equal](tulyaḥ) [waking-state](jāgrabhāvaḥ) [also](api) [in-all-respects](sarvaśaḥ)
 
 ## mukta-m0-p74-v1849
-[sattvat](sattvāt) [svapnajagradbhavayoh](svāpnajāgradbhāvayoḥ) [sarvamsena](sarvāṃśena) [tulyatvamiti](tulyatvamiti) [bhavah](bhāvaḥ)
+[by-existence](sattvāt) [of-dream-and-waking-states](svāpnajāgradbhāvayoḥ) [in-all-aspects](sarvāṃśena) [equality](tulyatvam) [thus](iti) [meaning](bhāvaḥ)
 
 ## mukta-m0-p74-v1850
-[svapne](svapne'pi) [jagaratvam](jāgaratvaṃ) [tu](tu) [grhitam](gṛhītaṃ) [tadvadeva](tadvadeva) [hi](hi)
+[in-dream](svapne) [also](api) [waking-state](jāgaratvaṃ) [but](tu) [is-grasped](gṛhītaṃ) [in-that-way](tadvat) [indeed](eva) [hi](hi)

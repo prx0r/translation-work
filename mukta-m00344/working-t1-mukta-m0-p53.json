@@ -16,7 +16,7 @@
 },
 {
 "surface": "duḥkhasukhavivekajñānavarjitāḥ",
-"quick_gloss": "suffering-pleasure-discrimination-knowledge-devoid"
+"quick_gloss": "devoid-of-discrimination-between-pain-and-pleasure-knowledge"
 }
 ]
 },
@@ -28,12 +28,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "duḥkhamevānubhavantītyāha",
-"quick_gloss": "suffering-only-experience-thus-says"
+"surface": "duḥkhamevānubhavanti",
+"quick_gloss": "pain-only-experience"
 },
 {
-"surface": "-",
-"quick_gloss": "dash"
+"surface": "ityāha",
+"quick_gloss": "thus-says"
 },
 {
 "surface": "aho",
@@ -41,7 +41,7 @@
 },
 {
 "surface": "iti",
-"quick_gloss": "thus"
+"quick_gloss": "iti"
 }
 ]
 },
@@ -54,11 +54,11 @@
 "tokens": [
 {
 "surface": "tadalaṃ",
-"quick_gloss": "that-enough"
+"quick_gloss": "enough"
 },
 {
 "surface": "duḥkhabhogena",
-"quick_gloss": "suffering-enjoyment"
+"quick_gloss": "pain-enjoyment"
 },
 {
 "surface": "svayatnāsāditena",
@@ -79,11 +79,11 @@
 "tokens": [
 {
 "surface": "duḥkhasaṅghaṃ",
-"quick_gloss": "suffering-collection"
+"quick_gloss": "pain-collection"
 },
 {
 "surface": "duḥkhasādhanajālaṃ",
-"quick_gloss": "suffering-means-net"
+"quick_gloss": "pain-means-net"
 },
 {
 "surface": "dhanagṛhādikam",
@@ -108,7 +108,7 @@
 },
 {
 "surface": "svasmin sukhātmani",
-"quick_gloss": "in-self-bliss-self"
+"quick_gloss": "in-own-blissful-self"
 }
 ]
 },
@@ -125,11 +125,11 @@
 },
 {
 "surface": "proktasukhātmakasvasvarūpāvasthānātmakaṃ",
-"quick_gloss": "proclaimed-bliss-self-nature-samadhi"
+"quick_gloss": "proclaimed-blissful-self-nature-samadhi"
 },
 {
 "surface": "samādhim",
-"quick_gloss": "samadhi"
+"quick_gloss": "samādhi"
 }
 ]
 },
@@ -159,7 +159,7 @@
 },
 {
 "surface": "vyavahāraparāsi",
-"quick_gloss": "worldly-active"
+"quick_gloss": "engaged-in-worldly-affairs"
 }
 ]
 },
@@ -176,11 +176,11 @@
 },
 {
 "surface": "te",
-"quick_gloss": "to-you"
+"quick_gloss": "that"
 },
 {
 "surface": "tanna",
-"quick_gloss": "that"
+"quick_gloss": "not"
 },
 {
 "surface": "viditaṃ",
@@ -204,20 +204,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "ahamasmīti",
-"quick_gloss": "i-am-thus"
+"surface": "ahamasmīti na pratyabhijñātam",
+"quick_gloss": "i-am-thus-not-recognized"
 },
 {
-"surface": "na pratyabhijñātam",
-"quick_gloss": "not-recognized"
-},
-{
-"surface": "paramapāvanam",
+"surface": "paramapāvanaṃ",
 "quick_gloss": "supremely-purifying"
 },
 {
 "surface": "dvaitamalaleśarahitam",
-"quick_gloss": "duality-stain-remainder-free"
+"quick_gloss": "free-from-duality-impurity"
 }
 ]
 },
@@ -237,12 +233,8 @@
 "quick_gloss": "far-from-you"
 },
 {
-"surface": "bhūsthasyeva",
-"quick_gloss": "earth-dweller-like"
-},
-{
-"surface": "nabhastalam",
-"quick_gloss": "sky-surface"
+"surface": "bhūsthasyeva nabhastalam",
+"quick_gloss": "like-sky-for-earth-dweller"
 }
 ]
 },
@@ -255,7 +247,7 @@
 "tokens": [
 {
 "surface": "nimīlyonmīlya",
-"quick_gloss": "closing-opening-or"
+"quick_gloss": "closing-opening-eyes"
 },
 {
 "surface": "vā",
@@ -288,7 +280,7 @@
 },
 {
 "surface": "nimīlyeti",
-"quick_gloss": "closing-etc"
+"quick_gloss": "closing-opening-eyes"
 }
 ]
 },
@@ -300,28 +292,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "agatvā cāpi",
-"quick_gloss": "not-going-or"
+"surface": "agatvā cāpi vā gatvā",
+"quick_gloss": "not-going-or-going"
 },
 {
-"surface": "vā",
-"quick_gloss": "or"
-},
-{
-"surface": "gatvā",
-"quick_gloss": "going"
-},
-{
-"surface": "na",
-"quick_gloss": "not"
-},
-{
-"surface": "tadāsādayet",
-"quick_gloss": "that-attain"
-},
-{
-"surface": "padam",
-"quick_gloss": "state"
+"surface": "na tadāsādayet padam",
+"quick_gloss": "not-attain-that-state"
 }
 ]
 },
@@ -334,19 +310,15 @@
 "tokens": [
 {
 "surface": "tatsvarūpe",
-"quick_gloss": "own-nature"
+"quick_gloss": "in-own-nature"
 },
 {
-"surface": "nimīlanakaraṇagamanādibhirna",
-"quick_gloss": "closing-action-going-etc"
-},
-{
-"surface": "viśeṣa",
-"quick_gloss": "difference"
+"surface": "nimīlanakaraṇagamanādibhirna viśeṣa",
+"quick_gloss": "closing-eyes-going-etc-no-difference"
 },
 {
 "surface": "iti bhāvaḥ",
-"quick_gloss": "thus-sense"
+"quick_gloss": "meaning"
 }
 ]
 },
@@ -359,11 +331,11 @@
 "tokens": [
 {
 "surface": "yavāṣṭakamitenaiva",
-"quick_gloss": "barley-eightfold-measure"
+"quick_gloss": "by-eight-barley-grains-measure"
 },
 {
 "surface": "pakṣmaṇonmīlitena",
-"quick_gloss": "eyelash"
+"quick_gloss": "eyelash-opened"
 },
 {
 "surface": "tu",
@@ -380,11 +352,11 @@
 "tokens": [
 {
 "surface": "sopahāsamāha",
-"quick_gloss": "with-mockery-says"
+"quick_gloss": "mockingly-says"
 },
 {
 "surface": "yavāṣṭaketi",
-"quick_gloss": "barley-eightfold-etc"
+"quick_gloss": "by-eight-barley-grains-etc"
 }
 ]
 },
@@ -400,24 +372,16 @@
 "quick_gloss": "alas"
 },
 {
-"surface": "te",
-"quick_gloss": "your"
-},
-{
-"surface": "mohamāhātmyam",
-"quick_gloss": "delusion-greatness"
+"surface": "te mohamāhātmyam",
+"quick_gloss": "your-delusion-greatness"
 },
 {
 "surface": "āścaryaṃ",
 "quick_gloss": "wonder"
 },
 {
-"surface": "kimahaṃ",
-"quick_gloss": "what"
-},
-{
-"surface": "bruve",
-"quick_gloss": "say"
+"surface": "kimahaṃ bruve",
+"quick_gloss": "what-shall-i-say"
 }
 ]
 },
@@ -429,8 +393,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "pakṣmaṇo'ṅgulimānasyonmīlanāttattirohitam",
-"quick_gloss": "eyelash-finger-measure-opening"
+"surface": "pakṣmaṇo'ṅgulimānasyonmīlanāt",
+"quick_gloss": "by-eyelash-finger-measure-opening"
+},
+{
+"surface": "tattirohitam",
+"quick_gloss": "that-hidden"
 }
 ]
 },
@@ -442,16 +410,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "yasmin",
-"quick_gloss": "in-which"
-},
-{
-"surface": "sāmānyacidrūpe",
-"quick_gloss": "common-consciousness-form"
-},
-{
-"surface": "ātmani",
-"quick_gloss": "self"
+"surface": "yasmin sāmānyacidrūpe ātmani",
+"quick_gloss": "in-common-consciousness-self"
 },
 {
 "surface": "tirohitamityāścaryamiti sambandhaḥ",
@@ -467,24 +427,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "yāvat",
-"quick_gloss": "until"
+"surface": "yāvat granthivibhedo na",
+"quick_gloss": "until-knot-division"
 },
 {
-"surface": "granthivibhedo",
-"quick_gloss": "knot-division"
-},
-{
-"surface": "na",
-"quick_gloss": "not"
-},
-{
-"surface": "na tāvat",
-"quick_gloss": "until"
-},
-{
-"surface": "sukhamṛcchati",
-"quick_gloss": "happiness-attains"
+"surface": "na tāvat sukhamṛcchati",
+"quick_gloss": "not-until-happiness"
 }
 ]
 },
@@ -496,12 +444,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "tatra",
-"quick_gloss": "there"
+"surface": "tatra svarūpāsaṃvittir",
+"quick_gloss": "there-own-nature-non-recognition"
 },
 {
-"surface": "svarūpāsaṃvittirmoharajjurudīritā",
-"quick_gloss": "self-nature-non-awareness"
+"surface": "moharajjurudīritā",
+"quick_gloss": "delusion-rope-declared"
 }
 ]
 },
@@ -514,11 +462,11 @@
 "tokens": [
 {
 "surface": "moharajjuriti cedāha",
-"quick_gloss": "delusion-rope-thus-if-says"
+"quick_gloss": "delusion-rope-thus-says"
 },
 {
 "surface": "tatreti",
-"quick_gloss": "there-etc"
+"quick_gloss": "there"
 }
 ]
 },
@@ -530,16 +478,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "tatrādyā",
-"quick_gloss": "there-first"
-},
-{
-"surface": "dehamukhyeṣu",
-"quick_gloss": "body-chief-ones"
+"surface": "tatrādyā dehamukhyeṣu",
+"quick_gloss": "there-first-in-body-chief-ones"
 },
 {
 "surface": "bhavedātmatvaniścayaḥ",
-"quick_gloss": "would-be-self-certainty"
+"quick_gloss": "self-certainty"
 }
 ]
 },
@@ -551,20 +495,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "duṣparihara",
-"quick_gloss": "hard-to-remove"
-},
-{
-"surface": "ityasya",
-"quick_gloss": "its"
-},
-{
-"surface": "granthitvaṃ",
-"quick_gloss": "knot-ness"
-},
-{
-"surface": "jñeyam",
-"quick_gloss": "to-be-known"
+"surface": "duṣparihara ityasya granthitvaṃ jñeyam",
+"quick_gloss": "hard-to-remove-thus-knot-ness-known"
 }
 ]
 }
