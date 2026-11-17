@@ -27,12 +27,8 @@
 "quick_gloss": "not"
 },
 {
-"surface": "asti",
-"quick_gloss": "exists"
-},
-{
 "surface": "īṣat",
-"quick_gloss": "even-slight"
+"quick_gloss": "even-a-little"
 },
 {
 "surface": "phala",
@@ -105,12 +101,8 @@
 "quick_gloss": "beloved"
 },
 {
-"surface": "ati",
-"quick_gloss": "with-very"
-},
-{
-"surface": "hṛṣṭa",
-"quick_gloss": "delighted"
+"surface": "atihṛṣṭa",
+"quick_gloss": "with-very-delighted"
 },
 {
 "surface": "manāḥ",
@@ -154,7 +146,7 @@
 "quick_gloss": "power"
 },
 {
-"surface": "niyatam",
+"surface": "niyataṃ",
 "quick_gloss": "controlled"
 },
 {
@@ -175,7 +167,7 @@
 "quick_gloss": "likewise"
 },
 {
-"surface": "sūryam",
+"surface": "sūryaṃ",
 "quick_gloss": "sun"
 },
 {
@@ -187,7 +179,7 @@
 "quick_gloss": "and-others"
 },
 {
-"surface": "buddham",
+"surface": "buddhaṃ",
 "quick_gloss": "Buddha"
 },
 {
@@ -212,11 +204,11 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "buddham",
+"surface": "buddhaṃ",
 "quick_gloss": "Buddha"
 },
 {
-"surface": "sugatam",
+"surface": "sugataṃ",
 "quick_gloss": "Sugata"
 },
 {
@@ -246,7 +238,7 @@
 },
 {
 "surface": "pradhānam",
-"quick_gloss": "primal-matter"
+"quick_gloss": "primordial-matter"
 },
 {
 "surface": "aṇavaḥ",
@@ -258,7 +250,7 @@
 },
 {
 "surface": "ādi",
-"quick_gloss": "and-so-on"
+"quick_gloss": "and-so-forth"
 },
 {
 "surface": "bahudhā",
@@ -266,7 +258,7 @@
 },
 {
 "surface": "jaguḥ",
-"quick_gloss": "spoke"
+"quick_gloss": "they-spoke"
 }
 ]
 },
@@ -324,7 +316,7 @@
 },
 {
 "surface": "āha",
-"quick_gloss": "says"
+"quick_gloss": "he-says"
 },
 {
 "surface": "tatra",
@@ -361,10 +353,10 @@
 },
 {
 "surface": "dṛṣṭa",
-"quick_gloss": "who-has-seen"
+"quick_gloss": "seen"
 },
 {
-"surface": "parāvaraḥ",
+"surface": "para+avaraḥ",
 "quick_gloss": "higher-and-lower"
 }
 ]
@@ -423,8 +415,12 @@
 "quick_gloss": "therefore"
 },
 {
-"surface": "tatsambandhāt",
-"quick_gloss": "by-connection-with-that"
+"surface": "tat",
+"quick_gloss": "with-that"
+},
+{
+"surface": "sambandhāt",
+"quick_gloss": "connection"
 }
 ]
 },
@@ -575,7 +571,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "vāstavam",
+"surface": "vāstavaṃ",
 "quick_gloss": "real"
 },
 {
@@ -588,7 +584,7 @@
 },
 {
 "surface": "niṣedhati",
-"quick_gloss": "negates"
+"quick_gloss": "he-negates"
 },
 {
 "surface": "na",
@@ -604,7 +600,7 @@
 },
 {
 "surface": "ādi",
-"quick_gloss": "and-so-on"
+"quick_gloss": "and-so-forth"
 }
 ]
 },
@@ -616,7 +612,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "kartāram",
+"surface": "kartāraṃ",
 "quick_gloss": "doer"
 },
 {
@@ -636,7 +632,7 @@
 "quick_gloss": "five"
 },
 {
-"surface": "vaktram",
+"surface": "vaktraṃ",
 "quick_gloss": "faced"
 },
 {
@@ -718,7 +714,7 @@
 "quick_gloss": "doer"
 },
 {
-"surface": "saśarīraḥ",
+"surface": "sa+śarīraḥ",
 "quick_gloss": "with-body"
 },
 {
@@ -744,7 +740,7 @@
 },
 {
 "surface": "ādiḥ",
-"quick_gloss": "and-so-on"
+"quick_gloss": "and-so-forth"
 }
 ]
 },
@@ -760,7 +756,7 @@
 "quick_gloss": "there"
 },
 {
-"surface": "mukhyam",
+"surface": "mukhyaṃ",
 "quick_gloss": "primary"
 },
 {
@@ -768,7 +764,7 @@
 "quick_gloss": "indeed"
 },
 {
-"surface": "kartṛtvam",
+"surface": "kartṛtvaṃ",
 "quick_gloss": "doership"
 },
 {
@@ -835,7 +831,7 @@
 },
 {
 "surface": "sṛjet",
-"quick_gloss": "he-may-create"
+"quick_gloss": "he-would-create"
 }
 ]
 },
@@ -868,7 +864,7 @@
 },
 {
 "surface": "āha",
-"quick_gloss": "says"
+"quick_gloss": "he-says"
 },
 {
 "surface": "caitanya",

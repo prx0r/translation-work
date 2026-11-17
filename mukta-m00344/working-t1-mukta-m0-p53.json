@@ -28,8 +28,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "duḥkham+eva",
-"quick_gloss": "suffering+alone"
+"surface": "duḥkham",
+"quick_gloss": "suffering"
+},
+{
+"surface": "eva",
+"quick_gloss": "alone"
 },
 {
 "surface": "anubhavanti",
@@ -41,11 +45,11 @@
 },
 {
 "surface": "āha",
-"quick_gloss": "says"
+"quick_gloss": "he-says"
 },
 {
 "surface": "aho",
-"quick_gloss": "-"
+"quick_gloss": "alas"
 },
 {
 "surface": "iti",
@@ -65,7 +69,7 @@
 "quick_gloss": "therefore"
 },
 {
-"surface": "alaṃ",
+"surface": "alam",
 "quick_gloss": "enough"
 },
 {
@@ -91,11 +95,11 @@
 "tokens": [
 {
 "surface": "duḥkha+saṅghaṃ",
-"quick_gloss": "mass-of-suffering"
+"quick_gloss": "suffering+mass"
 },
 {
 "surface": "duḥkha+sādhana+jālaṃ",
-"quick_gloss": "net-of-means-of-suffering"
+"quick_gloss": "suffering+means+net"
 },
 {
 "surface": "dhana+gṛha+ādikam",
@@ -145,7 +149,7 @@
 },
 {
 "surface": "prokta+sukha+ātmaka+sva+svarūpa+avasthāna+ātmakaṃ",
-"quick_gloss": "described+bliss-natured+own-form+abiding+consisting-of"
+"quick_gloss": "declared+bliss+nature+own+form+abiding+consisting-of"
 },
 {
 "surface": "samādhim",
@@ -163,10 +167,6 @@
 {
 "surface": "ceṣṭasi",
 "quick_gloss": "you-strive"
-},
-{
-"surface": "]",
-"quick_gloss": "end-bracket"
 }
 ]
 },
@@ -183,27 +183,23 @@
 },
 {
 "surface": "kh,",
-"quick_gloss": "variant-reading"
+"quick_gloss": "kh-g-gh:"
 },
 {
 "surface": "g,",
-"quick_gloss": "variant-reading"
+"quick_gloss": "you-strive"
 },
 {
 "surface": "gh:",
-"quick_gloss": "variant-reading"
+"quick_gloss": "you-strive"
 },
 {
 "surface": "ceṣṭasi",
 "quick_gloss": "you-strive"
 },
 {
-"surface": "]",
-"quick_gloss": "end-bracket"
-},
-{
 "surface": "vyavahāra+parāsi",
-"quick_gloss": "engaged-in-worldly-activity"
+"quick_gloss": "activity+engaged"
 }
 ]
 },
@@ -240,7 +236,7 @@
 },
 {
 "surface": "parama+pāvanam",
-"quick_gloss": "supremely-pure"
+"quick_gloss": "supremely+pure"
 }
 ]
 },
@@ -252,8 +248,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "aham+asmi",
-"quick_gloss": "I+am"
+"surface": "aham",
+"quick_gloss": "I"
+},
+{
+"surface": "asmi",
+"quick_gloss": "am"
 },
 {
 "surface": "iti",
@@ -268,16 +268,12 @@
 "quick_gloss": "recognized"
 },
 {
-"surface": "|",
-"quick_gloss": "separator"
-},
-{
 "surface": "parama+pāvanaṃ",
-"quick_gloss": "supremely-pure"
+"quick_gloss": "supremely+pure"
 },
 {
 "surface": "dvaita+mala+leśa+rahitam",
-"quick_gloss": "duality+impurity+trace+free"
+"quick_gloss": "duality+impurity+trace+devoid"
 }
 ]
 },
@@ -309,16 +305,16 @@
 "quick_gloss": "is"
 },
 {
-"surface": "bhūsthasya",
-"quick_gloss": "of-one-standing-on-earth"
+"surface": "bhū+sthasya",
+"quick_gloss": "on-earth+standing"
 },
 {
 "surface": "iva",
-"quick_gloss": "like"
+"quick_gloss": "as"
 },
 {
-"surface": "nabhastalam",
-"quick_gloss": "sky"
+"surface": "nabhaḥ+talam",
+"quick_gloss": "sky+surface"
 }
 ]
 },
@@ -376,11 +372,11 @@
 },
 {
 "surface": "āha",
-"quick_gloss": "says"
+"quick_gloss": "he-says"
 },
 {
 "surface": "nimīlya",
-"quick_gloss": "-"
+"quick_gloss": "having-closed"
 },
 {
 "surface": "iti",
@@ -442,11 +438,11 @@
 "tokens": [
 {
 "surface": "tat+svarūpe",
-"quick_gloss": "in-that-nature"
+"quick_gloss": "in-that+nature"
 },
 {
 "surface": "nimīlana+karaṇa+gamana+ādibhiḥ",
-"quick_gloss": "by-closing+doing+going+and-so-on"
+"quick_gloss": "closing+doing+going+and-so-on"
 },
 {
 "surface": "na",
@@ -475,11 +471,11 @@
 "tokens": [
 {
 "surface": "yava+aṣṭaka+mitena",
-"quick_gloss": "by-barley+eight+measured"
+"quick_gloss": "barley+eight+measured"
 },
 {
 "surface": "eva",
-"quick_gloss": "alone"
+"quick_gloss": "indeed"
 },
 {
 "surface": "pakṣmaṇā",
@@ -504,15 +500,15 @@
 "tokens": [
 {
 "surface": "sa+upahāsam",
-"quick_gloss": "with-ridicule"
+"quick_gloss": "with-mockery"
 },
 {
 "surface": "āha",
-"quick_gloss": "says"
+"quick_gloss": "he-says"
 },
 {
 "surface": "yava+aṣṭaka",
-"quick_gloss": "-"
+"quick_gloss": "barley+eight"
 },
 {
 "surface": "iti",
@@ -548,12 +544,12 @@
 "quick_gloss": "what"
 },
 {
-"surface": "ahaṃ",
+"surface": "aham",
 "quick_gloss": "I"
 },
 {
 "surface": "bruve",
-"quick_gloss": "shall-say"
+"quick_gloss": "say"
 }
 ]
 },
@@ -599,15 +595,11 @@
 },
 {
 "surface": "sāmānya+cit+rūpe",
-"quick_gloss": "universal+consciousness+form"
+"quick_gloss": "general+consciousness+form"
 },
 {
 "surface": "ātmani",
 "quick_gloss": "in-self"
-},
-{
-"surface": "|",
-"quick_gloss": "separator"
 },
 {
 "surface": "tirohitam",
@@ -689,7 +681,7 @@
 },
 {
 "surface": "udīritā",
-"quick_gloss": "is-declared"
+"quick_gloss": "declared"
 }
 ]
 },
@@ -714,11 +706,11 @@
 },
 {
 "surface": "āha",
-"quick_gloss": "says"
+"quick_gloss": "he-says"
 },
 {
 "surface": "tatra",
-"quick_gloss": "-"
+"quick_gloss": "there"
 },
 {
 "surface": "iti",
@@ -743,11 +735,11 @@
 },
 {
 "surface": "deha+mukhyeṣu",
-"quick_gloss": "in-body+and-others"
+"quick_gloss": "in-body+chief-things"
 },
 {
 "surface": "bhavet",
-"quick_gloss": "would-be"
+"quick_gloss": "should-be"
 },
 {
 "surface": "ātmatva+niścayaḥ",
@@ -763,8 +755,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "duṣpariharaḥ",
-"quick_gloss": "difficult-to-remove"
+"surface": "duḥ+pariharaḥ",
+"quick_gloss": "difficult+to-remove"
 },
 {
 "surface": "iti",

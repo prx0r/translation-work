@@ -2,34 +2,34 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p41-v1001
-[this](etat) [having-abandoned](vihāya) [and](ca) [elsewhere](anyatra) [not](na) [exists](asti) [even-slight](īṣat) [fruit](phala) [arising](sambhavaḥ)
+[this](etat) [having-abandoned](vihāya) [and](ca) [elsewhere](anyatra) [not](na) [even-a-little](īṣat) [fruit](phala) [arising](sambhavaḥ)
 
 ## mukta-m0-p41-v1002
 [this-much](etāvat) [alone](eva) [as-causeless](ahetukatvena) [worship](upāsanam) [alone](eva) [elsewhere](anyatra) [in-means](sādhane)
 
 ## mukta-m0-p41-v1003
-[asked](papraccha) [again](bhūyaḥ) [that](tām) [beloved](kāntām) [with-very](ati) [delighted](hṛṣṭa) [mind](manāḥ) [then](tadā)
+[asked](papraccha) [again](bhūyaḥ) [that](tām) [beloved](kāntām) [with-very-delighted](atihṛṣṭa) [mind](manāḥ) [then](tadā)
 
 ## mukta-m0-p41-v1004
-[all](sarva) [doer](kartā) [independent](svatantra) [self](ātmā) [by-whose](yat) [power](śaktyā) [controlled](niyatam) [world](jagat)
+[all](sarva) [doer](kartā) [independent](svatantra) [self](ātmā) [by-whose](yat) [power](śaktyā) [controlled](niyataṃ) [world](jagat)
 
 ## mukta-m0-p41-v1005
-[likewise](tathā) [sun](sūryam) [Nṛsiṃha](nṛsiṃha) [and-others](ādīn) [Buddha](buddham) [Sugata](sugatam) [indeed](eva) [and](ca)
+[likewise](tathā) [sun](sūryaṃ) [Nṛsiṃha](nṛsiṃha) [and-others](ādīn) [Buddha](buddhaṃ) [Sugata](sugatam) [indeed](eva) [and](ca)
 
 ## mukta-m0-p41-v1006
-[Buddha](buddham) [Sugata](sugatam) [and](ca) [Buddhist](bauddha) [one-sided-adherents](ekadeśinaḥ)
+[Buddha](buddhaṃ) [Sugata](sugataṃ) [and](ca) [Buddhist](bauddha) [one-sided-adherents](ekadeśinaḥ)
 
 ## mukta-m0-p41-v1007
-[action](karma) [primal-matter](pradhānam) [atoms](aṇavaḥ) [thus](iti) [and-so-on](ādi) [in-many-ways](bahudhā) [spoke](jaguḥ)
+[action](karma) [primordial-matter](pradhānam) [atoms](aṇavaḥ) [thus](iti) [and-so-forth](ādi) [in-many-ways](bahudhā) [they-spoke](jaguḥ)
 
 ## mukta-m0-p41-v1008
 [there](tatra) [where](kva) [Lord](īśvara) [conception](buddhiḥ) [indeed](tu) [to-be-made](kartavyā) [that](tat) [declare](samīraya)
 
 ## mukta-m0-p41-v1009
-[therefore](ataḥ) [says](āha) [there](tatra) [thus](iti)
+[therefore](ataḥ) [he-says](āha) [there](tatra) [thus](iti)
 
 ## mukta-m0-p41-v1010
-[because](yataḥ) [he](saḥ) [venerable](bhagavān) [Vyāghrapāda](vyāghrapādaḥ) [who-has-seen](dṛṣṭa) [higher-and-lower](parāvaraḥ)
+[because](yataḥ) [he](saḥ) [venerable](bhagavān) [Vyāghrapāda](vyāghrapādaḥ) [seen](dṛṣṭa) [higher-and-lower](para+avaraḥ)
 
 ## mukta-m0-p41-v1011
 [Vyāghrapāda](vyāghrapādaḥ) [your](te) [father](pitā)
@@ -38,7 +38,7 @@
 [dear](priya) [nectar](amṛta) [speaking](prabhāṣiṇī)
 
 ## mukta-m0-p41-v1013
-[therefore](ataḥ) [by-connection-with-that](tatsambandhāt)
+[therefore](ataḥ) [with-that](tat) [connection](sambandhāt)
 
 ## mukta-m0-p41-v1014
 [O-lord](nātha) [to-you](te) [I-shall-declare](sampravakṣyāmi) [listen](śṛṇu) [Lord](īśvara) [determination](vinirṇayam)
@@ -50,28 +50,28 @@
 [not](na) [Śiva](śivaḥ) [not](na) [also](api) [Viṣṇu](viṣṇuḥ) [or](vā) [not](na) [creator](dhātā) [not](na) [other](anyaḥ) [indeed](eva) [and](ca)
 
 ## mukta-m0-p41-v1017
-[real](vāstavam) [form](rūpam) [thus](iti) [negates](niṣedhati) [not](na) [Śiva](śivaḥ) [thus](iti) [and-so-on](ādi)
+[real](vāstavaṃ) [form](rūpam) [thus](iti) [he-negates](niṣedhati) [not](na) [Śiva](śivaḥ) [thus](iti) [and-so-forth](ādi)
 
 ## mukta-m0-p41-v1018
-[doer](kartāram) [Śiva](śivam) [they-say](āhuḥ) [they](te) [five](pañca) [faced](vaktram) [three](tri) [eyed](locanam)
+[doer](kartāraṃ) [Śiva](śivam) [they-say](āhuḥ) [they](te) [five](pañca) [faced](vaktraṃ) [three](tri) [eyed](locanam)
 
 ## mukta-m0-p41-v1019
 [this](etat) [Śiva](śivaḥ) [not](na) [Śiva](śivaḥ) [and](ca) [thus](iti) [this](etat) [they](te) [Śaivas](śaivāḥ)
 
 ## mukta-m0-p41-v1020
-[in-the-world](loke) [also](api) [conscious](cetanaḥ) [doer](kartā) [with-body](saśarīraḥ) [indeed](hi) [is-seen](dṛśyate)
+[in-the-world](loke) [also](api) [conscious](cetanaḥ) [doer](kartā) [with-body](sa+śarīraḥ) [indeed](hi) [is-seen](dṛśyate)
 
 ## mukta-m0-p41-v1021
-[potter](kulāla) [and-so-on](ādiḥ)
+[potter](kulāla) [and-so-forth](ādiḥ)
 
 ## mukta-m0-p41-v1022
-[there](tatra) [primary](mukhyam) [indeed](hi) [doership](kartṛtvam) [of-the-conscious](cetanasya) [alone](eva) [would-be-possible](sambhavet)
+[there](tatra) [primary](mukhyaṃ) [indeed](hi) [doership](kartṛtvaṃ) [of-the-conscious](cetanasya) [alone](eva) [would-be-possible](sambhavet)
 
 ## mukta-m0-p41-v1023
 [body](śarīra) [and-consciousness](cetanayoḥ) [in-the-midst](madhye)
 
 ## mukta-m0-p41-v1024
-[with-consciousness](caitanya) [consisting-of](maya) [body](dehena) [all](sarvān) [desired-things](abhimatān) [he-may-create](sṛjet)
+[with-consciousness](caitanya) [consisting-of](maya) [body](dehena) [all](sarvān) [desired-things](abhimatān) [he-would-create](sṛjet)
 
 ## mukta-m0-p41-v1025
-[dream](svāpnaḥ) [body](dehaḥ) [not](na) [of-this-kind](evaṃvidhaḥ) [thus](iti) [says](āha) [with-consciousness](caitanya) [thus](iti)
+[dream](svāpnaḥ) [body](dehaḥ) [not](na) [of-this-kind](evaṃvidhaḥ) [thus](iti) [he-says](āha) [with-consciousness](caitanya) [thus](iti)
