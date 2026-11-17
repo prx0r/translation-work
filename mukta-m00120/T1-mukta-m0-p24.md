@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p24-v576
-[in-śrīcakra](śrīcakre) [also](api) [should-drink](pivet) [wine](madyam) [with-śakti+united](śakti+yuktam) [o-great-goddess](maheśvari)
+[in-śrīcakra](śrīcakre) [even](api) [one-should-drink](pivet) [wine](madyam) [with-śakti](śaktiyuktam) [o-great-goddess](maheśvari)
 
 ## mukta-m0-p24-v577
-[and](ca) [supreme](uttamam) [middle](madhyamam) [to-be-known](jñeyam) [and](ca) [inferior](adhamam) [and](ca) [lowest-of-low](adhamādhamam)
+[and](ca) [highest](uttamam) [middle](madhyamam) [to-be-known](jñeyam) [and](ca) [low](adhamam) [and](ca) [lowest-of-low](adhamādhamam)
 
 ## mukta-m0-p24-v578
-[circle](cakraḥ) [this](imam) [thus](idam) [to-be-known](jñeyam) [she](sā) [kālī](kālī) [he](saḥ) [and](ca) [śaṅkara](śaṅkaraḥ)
+[circle](cakra) [ūma](ūma) [this](idam) [to-be-known](jñeyam) [she](sā) [kālī](kālī) [he](sa) [and](ca) [śaṅkara](śaṅkaraḥ)
 
 ## mukta-m0-p24-v579
 [one](ekām) [śakti](śaktim) [having-brought](samānīya) [each-one](ekaikaḥ) [practitioner](sādhakaḥ) [always](sadā)
 
 ## mukta-m0-p24-v580
-[bhairavī](bhairavī)
+[bhairavī](bhairavī) [is](asti) [that](sā) [goddess](devī)
 
 ## mukta-m0-p24-v581
-[inferior](adhamam) [circle](cakra) [to-be-known](vijñeyam) [she](sā) [to-be-accomplished](sādhyā) [he](saḥ) [and](ca) [practitioner](sādhakaḥ)
+[low](adhamam) [circle](cakra) [to-be-known](vijñeyam) [she](sā) [to-be-accomplished](sādhyā) [he](sa) [and](ca) [practitioner](sādhakaḥ)
 
 ## mukta-m0-p24-v582
-[śakti+devoid](śakti+hīnam) [and](ca) [which](yat) [circle](cakram) [only](kevalam) [intoxicating](madakam) [o-śivā](śive)
+[without-śakti](śaktihīnam) [and](ca) [which](yat) [circle](cakram) [only](kevalam) [intoxicating](madakam) [o-śivā](śive)
 
 ## mukta-m0-p24-v583
-[in-middle](madhyame) [nine+śaktis](nava+śaktiḥ) [and](ca) [in-inferior](hīne) [also](api) [single+śakti](śakti+mātrakam)
+[in-middle](madhyame) [nine](nava) [śaktis](śaktiñca) [in-low](hīne) [even](api) [single](mātrakam) [śakti](śakti)
 
 ## mukta-m0-p24-v584
-[in-that](tasmin) [circle](cakre) [practitioner](sādhakaḥ) [also](api) [ever](kadācit) [not](na) [should-enter](praveśayet)
+[in-that](tasmin) [circle](cakre) [practitioner](sādhakaḥ) [even](api) [ever](kadācit) [not](na) [should-enter](praveśayet)
 
 ## mukta-m0-p24-v585
-[in-śrīcakra](śrīcakre) [sexual-union](maithunam) [auspicious](bhadram) [śiva-hood](śivatvam) [attains](yāti) [practitioner](sādhakaḥ)
+[in-śrīcakra](śrīcakre) [sexual-union](maithunam) [auspicious](bhadram) [state-of-śiva](śivatvam) [attains](yāti) [practitioner](sādhakaḥ)
 
 ## mukta-m0-p24-v586
-[hero+circle](vīra+cakram) [this](idam) [declared](proktam) [god+circle](deva+cakram) [then](tataḥ) [listen](śṛṇu)
+[hero](vīra) [circle](cakram) [this](idam) [declared](proktam) [god](deva) [circle](cakram) [then](tataḥ) [listen](śṛṇu)
 
 ## mukta-m0-p24-v587
-[creation+form](sṛṣṭi+rūpam) [great+circle](mahā+cakram) [śrī+circle](śrī+cakram) [o-supreme-goddess](parameśvari)
+[of-creation](sṛṣṭi) [form](rūpam) [great](mahā) [circle](cakram) [śrīcakra](śrīcakram) [o-supreme-goddess](parameśvari)
 
 ## mukta-m0-p24-v588
-[thus](iti) [in-śrī+sarvānandanātha+composed](śrī+sarvānandanātha+viracite) [in-sarvollāsa](sarvollāse) [nineteenth+chapter](unviṃśati+ullāsaḥ)
+[thus](iti) [in-śrī](śrī) [composed-by-sarvānandanātha](sarvānandanāthaviracite) [in-sarvollāsa](sarvollāse) [nineteenth](unviṃśati) [chapter](ullāsaḥ)
 
 ## mukta-m0-p24-v589
-[in-that](tatra) [place](sthāne) [should-perform](caret) [circle](cakram) [where](yatra) [may-be](syāt) [deity+house](devatā+gṛham)
+[in-that](tatra) [place](sthāne) [one-should-perform](caret) [circle](cakram) [where](yatra) [may-be](syāt) [deity](devatā) [house](gṛha)
 
 ## mukta-m0-p24-v590
-[at-deity+tree+roots](devatā+vṛkṣa+mūleṣu) [place](sthānam) [should-make](kuryāt) [with-effort](prayatnataḥ)
+[at-deity](devatā) [tree](vṛkṣa) [roots](mūleṣu) [place](sthānam) [one-should-make](kuryāt) [with-effort](prayatnataḥ)
 
 ## mukta-m0-p24-v591
-[of-practitioner](sādhakasya) [house](gṛham) [o-fair-one](bhadre) [śrī+circle+place](śrī+cakra+sthānam) [supreme](uttamam)
+[of-practitioner](sādhasya) [house](gṛham) [o-fair-one](bhadre) [śrīcakra](śrīcakra) [place](sthānam) [supreme](uttamam)
 
 ## mukta-m0-p24-v592
-[or](athavā) [of-whom](yasya) [which](yat) [place](sthānam) [by-his-permission](tasya+ājñayā) [one-should-arrange](prakalpayet)
+[or](athavā) [of-whom](yasya) [which](yat) [place](sthānam) [by-his-permission](tasyājñayā) [one-should-arrange](prakalpayet)
 
 ## mukta-m0-p24-v593
-[of-his-disturbance](tat+udvegasya) [which](yat) [sin](pāpam) [that](tat) [sin](pāpam) [there](tatra) [goes](gacchati)
+[of-his-disturbance](tadudvegasya) [which](yat) [sin](pāpam) [that](tat) [sin](pāpam) [there](tatra) [goes](gacchati)
 
 ## mukta-m0-p24-v594
-[than-corpse+seat](śava+āsana+adhikam) [to-be-known](jñeyam) [creeper+house+entering](latā+geha+praveśanam)
+[than-corpse-seat](śavāsanāt) [superior](adhikam) [to-be-known](jñeyam) [creeper](latā) [house](geha) [entering](praveśanam)
 
 ## mukta-m0-p24-v595
-[in-absence-of-yoni](yoni+abhāve) [o-great-goddess](maheśāni) [triangle](trikoṇam) [and](ca) [seat](āsanam) [auspicious](śubham)
+[in-absence-of-vulva](yonyabhāve) [o-great-goddess](maheśāni) [triangle](trikoṇam) [and](ca) [seat](āsanam) [auspicious](śubham)
 
 ## mukta-m0-p24-v596
-[in-absence-of-corpse](śava+abhāve) [seat](viṣṭaram) [indeed](hi) [hero+seat](vīra+āsanam) [declared](udīritam)
+[in-absence-of-corpse](śavābhāve) [seat](viṣṭaram) [indeed](hi) [hero-seat](vīrāsanam) [declared](udīritam)
 
 ## mukta-m0-p24-v597
-[one+corpse](śava+ekam) [seat](āsanam) [o-fair-one](bhadre) [seat](viṣṭaram) [pair+seat](yugma+āsanam)
+[one-corpse](śavaikam) [seat](āsanam) [o-fair-one](bhadre) [seat](viṣṭaram) [pair](yugmam) [seat](āsanam)
 
 ## mukta-m0-p24-v598
-[other+seat](anya+āsanam) [four-cornered](catuṣkoṇam) [triangular](trikoṇam) [arranged](parikalpitam)
+[other](anya) [seat](āsanam) [four-cornered](catuṣkoṇam) [triangular](trikoṇam) [arranged](parikalpitam)
 
 ## mukta-m0-p24-v599
-[on-black-antelope-skin](kṛṣṇājine) [knowledge+accomplishment](jñāna+siddhiḥ) [liberation](mokṣam) [and](ca) [on-tiger-skin](vyāghra+carmaṇi)
+[on-black-antelope-skin](kṛṣṇājine) [knowledge-siddhi](jñānasiddhiḥ) [liberation](mokṣam) [and](ca) [on-tiger-skin](vyāghracarmaṇi)
 
 ## mukta-m0-p24-v600
-[other-than-this](etat+bhinnam) [and](ca) [seat](āsanam) [indeed](hi) [with-various+various](citra+citra+ādi) [endowed](saṃyutam)
+[other-than-this](etadbhinna) [and](ca) [seat](āsanam) [indeed](hi) [various](citra) [various](citra) [and-other](ādi) [endowed-with](saṃyutam)
