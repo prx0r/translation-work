@@ -2,55 +2,55 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p73-v1801
-tadā[then] muktim[liberation] avāpno[obtains] yadā[when] brahma[Brahman] pravindati[knows]
+[then](tadā) [liberation](muktim) [obtains](avāpno) [when](yadā) [brahman-realizes](brahmapravindati)
 
 ## mukta-m0-p73-v1802
-prakāraṇam[cause] (gh: prakāśakam[illuminator])
+[cause](prakāraṇam)
 
 ## mukta-m0-p73-v1803
-hāsya[laughter] kautūhala[curiosity] ādikam[etc]
+[laughter-curiosity-etc](hāsyakautūhalādikam)
 
 ## mukta-m0-p73-v1804
-līlayā[by-play] brahmaṇaḥ[of-Brahman] sarvaṃ[all] hāsya[laughter] kautūhala[curiosity] ādikam[etc]
+[by-play](līlayā) [of-brahman](brahmaṇaḥ) [all](sarvaṃ) [laughter](hāsya) [curiosity-etc](kautūhalādikam)
 
 ## mukta-m0-p73-v1805
-divye[divine] śarīre[body] so'pi[he-too] asti[is] tathā[so] kīṭa[insect]+ādikeṣu[etc] ca[and]
+[divine](divye) [body](śarīre) [he-also-is](so'pyasti) [thus](tathā) [in-worms-etc](kīṭādikeṣu) [and](ca)
 
 ## mukta-m0-p73-v1806
-svayaṃ[self] vibhuḥ[all-pervading]
+[self](svayaṃ) [lord](vibhuḥ)
 
 ## mukta-m0-p73-v1807
-bhūta[elements] prakṛtim[prakriti] āśritya[depending] dehināṃ[of-embodied] deha[body]+nāśa[destruction]+kṛt[maker]
+[beings](bhūta) [nature-relying](prakṛtimāśritya) [of-embodied](dehināṃ) [body-destruction-doer](dehanāśakṛt)
 
 ## mukta-m0-p73-v1808
-nirmamaḥ[without-mine] (j: nirmalaḥ[pure]) nirahaṅkāraḥ[without-ego] sadā[always] jyotirmayaḥ[full-of-light] smṛtaḥ[remembered]
+[without-mine](nirmamo) [without-ego](nirahaṅkāraḥ) [always](sadā) [light-filled](jyotirmayaḥ) [remembered](smṛtaḥ)
 
 ## mukta-m0-p73-v1809
-madanam[love] rūpam[form] āśritya[depending] puruṣaḥ[man] vihvalāyate[becomes-agitated]
+[love](madanaṃ) [form-relying](rūpamāśritya) [person](puruṣo) [becomes-agitated](vihvalāyate)
 
 ## mukta-m0-p73-v1810
-ātma[self]+icchayā[by-will] kṛtaṃ[done] karma[action] doṣa[fault]+adoṣaṃ[non-fault] na[not] ca[and] ācaret[performs]
+[by-self-will](ātmecchayā) [done](kṛtaṃ) [action](karma) [fault-nonfault](doṣādoṣaṃ) [not](na) [should-do](cācaret)
 
 ## mukta-m0-p73-v1811
-ūrddha[upper]+śūnye[void] gatiḥ[movement] tasya[his] madhya[middle]+śūnye[void] vyavasthitaḥ[situated]
+[in-upper-void](ūrddhaśūnye) [movement-his](gatistasya) [in-middle-void](madhyaśūnye) [situated](vyavasthitaḥ)
 
 ## mukta-m0-p73-v1812
-ūrddha[upper] śūnye[void] svapna[dream] bhāvaṃ[state] brahma[Brahman] randhraṃ[aperture] prakīrtitam[declared]
+[upper](ūrddha) [void](śūnye) [dream](svapna) [state](bhāvaṃ) [brahman](brahma) [aperture](randhraṃ) [proclaimed](prakīrtitam)
 
 ## mukta-m0-p73-v1813
-mūlādhāre[root-support] adhaḥ[below] śūnyaṃ[void] tatra[there] kāma[desire]+ādi[etc] cintanam[thought]
+[in-root-support](mūlādhāre) [below](adhaḥ) [void](śūnyaṃ) [there](tatra) [desire-etc](kāmādi) [thought](cintanam)
 
 ## mukta-m0-p73-v1814
-sa[he] tiṣṭhati[stands] paraṃ[supreme] brahma[Brahman] sva[self]+icchayā[by-will] līlayā[by-play] api[also] ca[and]
+[he](sa) [abides](tiṣṭhati) [supreme](paraṃ) [brahman](brahma) [by-own-will](svecchayā) [by-play-also](līlayāpi) [and](ca)
 
 ## mukta-m0-p73-v1815
-dhyāna[meditation] pūjā[worship]+ādikaṃ[etc] sarvaṃ[all] tasya[his] siddhiḥ[perfection] na[not] jāyate[arises]
+[meditation](dhyāna) [worship-etc](pūjādikaṃ) [all](sarvaṃ) [his](tasya) [perfection-not](siddhirna) [arises](jāyate)
 
 ## mukta-m0-p73-v1816
-ata[therefore] eva[thus] maheśāna[O-Maheshana] kalau[in-Kali] siddhiḥ[perfection] na[not] jāyate[arises]
+[therefore](ata) [indeed](eva) [O-great-lord](maheśāna) [in-kali](kalau) [perfection-not](siddhirna) [arises](jāyate)
 
 ## mukta-m0-p73-v1817
-yo[who] vijānāti[knows] tattvena[truly] deha[body]+ante[end] brahma[Brahman]+bhāg[share] bhavet[becomes]
+[who](yo) [knows](vijānāti) [in-truth](tattvena) [at-body-end](dehānte) [brahman-share](brahmabhāg) [becomes](bhavet)
 
 ## mukta-m0-p73-v1818
-iti[thus] śrī[auspicious] sarvānanda[nātha] viracite[composed] sarvollāse[in-Sarvollasa] triṣaṣṭi[63] ullāsaḥ[chapter]
+[thus](iti) [by-sri-sarvanandanatha](śrīsarvānandanātha) [composed](viracite) [in-sarvollasa](sarvollāse) [sixty-third-ullasa](triṣaṣṭyullāsaḥ)

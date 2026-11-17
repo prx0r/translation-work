@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p145-v3601
-[place-arrived](deśaprāptām) [that-month-full](tanmāsapūrṇāyāṃ) [worship](pūjayet) [Shiva](śive)
+[place-arrived](deśaprāptāntu) [that-month-full](tanmāsapūrṇāyāṃ) [worship](pūjayecchive)
 
 ## mukta-m0-p145-v3602
-[sometimes](kadācid) [api](api) [long-lived](dīrghāyuḥ) [disease-free](arogaḥ) [wise](jñānavān) [happy](sukhī)
+[sometimes](kadācidapi) [long-lived](dīrghāyurarogo) [knower](jñānavān) [happy](sukhī)
 
 ## mukta-m0-p145-v3603
-[eternal-self](nityātmakau) [become](bhavataḥ) [thus-said](ityuktam) [iti](iti)
+[eternal-self](nityātmakau) [become](bhavata) [thus-said](ityuktamiti)
 
 ## mukta-m0-p145-v3604
-[of-place-etc](deśādīnām)
+[place-etc](deśādīnām)
 
 ## mukta-m0-p145-v3605
-[honored](mānyate) [all-mantras](sarvamantrāḥ) [ca](ca) [accomplished](siddhāḥ) [would-be](syuḥ) [there](tatra) [by-worship](pūjanāt)
+[honored](mānyate) [all-mantras](sarvamantrāśca) [accomplished](siddhāḥ) [there-from-worship](syustatra+pūjanāt)
 
 ## mukta-m0-p145-v3606
-[vegetable](śākaḥ) [ca](ca) [pushkara](puṣkaraḥ) [ca](ca) [iti](iti) [seven-islands](saptadvīpeṣu) [trees](bhūruhāḥ)
+[vegetable](śākaśca) [lotus](puṣkaraśceti) [seven-islands](saptadvīpeṣu) [trees](bhūruhāḥ)
 
 ## mukta-m0-p145-v3607
-[by-their-names](tattannāmabhiḥ) [worship](abhyarcya) [that-island](taddvīpam) [there](tatra) [worship](pūjayet)
+[that-name](tattannāmabhirabhyarcya) [that-island](taddvīpaṃ) [there](tatra) [worship](pūjayet)
 
 ## mukta-m0-p145-v3608
-[thus](evaṃ) [worshipper](pūjayituḥ) [in-world](loke) [not](na) [equal](samosti) [na](na) [ca](ca) [greater](adhikaḥ)
+[thus](evaṃ) [worshipper](pūjayiturloke) [not](na) [equal](samosti) [nor](na) [greater](cādhikaḥ)
 
 ## mukta-m0-p145-v3609
-[great-sky](mahāvyoma) [ca](ca) [moonless](niḥsaumaṃ) [there](tatra) [this-two-situated](tatraitaddvayasaṃsthitiḥ)
+[great-sky](mahāvyoma) [without-moon](ca+niḥsaumaṃ) [there-that-dual-situation](tatraitaddvayasaṃsthitiḥ)
 
 ## mukta-m0-p145-v3610
-[opposite-tattva](pratipakṣatattat) [obtained-tithi](prāptatithīḥ) [ca](ca) [worship](pūjayan) [spoken-fruit](proktaphala) [attainment-share](siddhibhāg) [iti](iti)
+[opposite](pratipakṣatattatprāptatithīśca) [worshipping](pūjayan) [stated-fruit](proktaphalasiddhibhāgiti)
 
 ## mukta-m0-p145-v3611
-[spoken-form](proktarūpa) [power](prabhāvaḥ) [become](bhavet) [iti](iti)
+[stated-form](proktarūpaprabhāvo) [become](bhavediti)
 
 ## mukta-m0-p145-v3612
-[of-planets](grahāṇām) [there](tatra) [co-residence](saṃvāsa) [movement](pracāra) [fixed-self](niyatātmanām)
+[planets](grahāṇāṃ) [there](tatra) [co-residence-movement](saṃvāsapracāraniyatātmanām)
 
 ## mukta-m0-p145-v3613
-[not](na) [tu](tu) [other](anyat) [support](avalambāya) [of-them](tayoḥ) [anywhere](kutrāpi) [exists](vidyate)
+[not](na) [other-support](tvanyadavalambāya) [of-them](tayoḥ) [anywhere](kutrāpi) [exists](vidyate)
 
 ## mukta-m0-p145-v3614
-[previously-spoken-form](prāguktarūpām) [that-shore](tattīre) [kolavaktra](kolavaktrām) [tu](tu) [fifth](pañcamīm)
+[previously-stated-form](prāguktarūpāṃ) [that-shore](tattīre) [kolavaktra](kolavaktrāntu) [fifth](pañcamīṃ)
 
 ## mukta-m0-p145-v3615
-[that-middle](tanmadhye) [nine-gems](navaratnāni) [great-island-five](mahādvīpañca) [there](tatra) [vai](vai)
+[that-middle](tanmadhye) [nine-gems](navaratnāni) [great-island-five](mahādvīpañca) [there-indeed](tatra+vai)
 
 ## mukta-m0-p145-v3616
-[that-middle](tanmadhye) [innumerable-forms](asaṃkhyarūpābhiḥ) [surrounded](vṛtām) [music-power](saṅgītaśaktibhiḥ)
+[that-middle](tanmadhye) [countless-forms](asaṃkhyarūpābhirvṛtāṃ) [music-power](saṅgītaśaktibhiḥ)
 
 ## mukta-m0-p145-v3617
-[being-entertained](vinodyamānām) [shining](vilasan) [intoxication-slow-glance](madamantharavīkṣaṇām)
+[being-entertained](vinodyamānāṃ) [shining](vilasanmadamantharavīkṣaṇām)
 
 ## mukta-m0-p145-v3618
-[pure-smile](śucismitām) [power-group-song](śaktivṛndagīta) [attraction-delight](ākarṣaṇananditām)
+[pure-smile](śucismitāṃ) [power-group-song](śaktivṛndagītākarṣaṇananditām)
 
 ## mukta-m0-p145-v3619
-[of-power](śakteḥ) [iccha](iccha) [iti](iti)
+[power-desire](śaktericcheti)
 
 ## mukta-m0-p145-v3620
-[compassion](dayā) [cruel-side-glance](madāruṇāpāṅga) [well-seen](vilokita) [accomplished](susādhakām)
+[compassion-cruel-side-glance](dayāmadāruṇāpāṅgavilokitasusādhakām)
 
 ## mukta-m0-p145-v3621
-[radiant](virājamānān) [tusk-gift](diradāna) [dogs](śvān) [api](api) [such](tathāvidhān)
+[shining](virājamānāndiradānaśvānapi) [such](tathāvidhān)
 
 ## mukta-m0-p145-v3622
-[own-equal](svasamānābhiḥ) [around](abhitaḥ) [eternal](nityābhiḥ) [served](sevitām) [tathā](tathā)
+[own-equal](svasamānābhirabhito) [eternal](nityābhiḥ) [served-thus](sevitāntathā)
 
 ## mukta-m0-p145-v3623
-[that-entertainment](tadvinodaḥ) [that-near-residence](tatsamīpanivāsī) [would-be](syāt) [certainly](suniścitam)
+[that-entertainment](tadvinodastatsamīpanivāsī) [certainly](syāt) [well-determined](suniścitam)
 
 ## mukta-m0-p145-v3624
-[nine-gem-island](navaratnamayaṃ) [dvīpaṃ](dvīpaṃ) [that-measure-ocean](tanmānābdhibhiḥ) [surrounded](āvṛtam)
+[nine-gem-island](navaratnamayaṃ+dvīpaṃ) [that-measure-ocean](tanmānābdhibhirāvṛtam)
 
 ## mukta-m0-p145-v3625
-[gem-island](ratnadvīpasya) [middle-third](madhyasthatṛtīyāṃśe) [tu](tu) [pavilion](maṇḍape)
+[gem-island](ratnadvīpasya) [middle-third](madhysthatṛtīyāṃśe) [pavilion](tu+maṇḍape)
