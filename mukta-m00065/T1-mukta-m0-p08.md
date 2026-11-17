@@ -2,76 +2,52 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p08-v176
-[this-accomplished](etatsiddhaṃ) [always](sadā) [śaiva](śaivaṃ) [guru-form-unborn](gururūpamajanmakam)
-
+etat-siddham sadā śaivam guru-rūpam a-janmakam
 ## mukta-m0-p08-v177
-[śiva-ending-named](śivāntanāmakāḥ) [all](sarve) [ash-smeared](bhasmāṅgā) [brahmacārins](brahmacāriṇaḥ)
-
+śiva-anta-nāmakāḥ sarve bhasma-aṅgāḥ brahmacāriṇaḥ
 ## mukta-m0-p08-v178
-[make-distinct](viśeṣayātu) [common](sāmānyā) [guru-too-thus-indeed](gururapyevameva) [tu](tu)
-
+viśeṣayātu sāmānyā guruḥ api evam eva tu
 ## mukta-m0-p08-v179
-[lotus](ambhojaṃ) [mud-born](paṅkajaṃ) [as](yadvat) [tadvat](tadvat) [śaiva-not-others](śaivā na cetare)
-
+ambhojam paṅkajam yadvat tadvat śaivāḥ na cetare
 ## mukta-m0-p08-v180
-[thus-indeed](tathaiva) [of-śiva-liṅgas](śivaliṅgānāṃ) [śaivas-pāśupatas-etc](śaivāḥ pāśupatādayaḥ)
-
+tathā eva śiva-liṅgānām śaivāḥ pāśupata-ādayaḥ
 ## mukta-m0-p08-v181
-[liṅga-difference-fruits-joined](liṅgabhedaphalairyukto) [goes](yātyasau) [raurava](rauravaṃ) [certainly](dhruvam)
-
+liṅga-bheda-phalaiḥ yuktaḥ yāti asau rauravam dhruvam
 ## mukta-m0-p08-v182
-[otherwise](anyathā) [sin-doer](pāpakārī) [would-be](syādityājñā) [supreme-lordly](pārameśvarī)
-
+anyathā pāpa-kārī syāt iti ājñā pārameśvarī
 ## mukta-m0-p08-v183
-[brahmacārin-householder-distinction-divided](brahmacārīgṛhasthatvabhedabhinnaṃ) [twofold](dvidhā) [established](sthitam)
-
+brahmacārī-gṛhastha-tva-bheda-bhinnam dvidhā sthitam
 ## mukta-m0-p08-v184
-[desireful-desired-action](kāmyakāmikriyāṃ) [I-speak](vacmi) [now](sāmprataṃ) [distinctly](saṃprabhedataḥ)
-
+kāmya-kāmi-kriyām vacmi sāmpratam saṃprabhedataḥ
 ## mukta-m0-p08-v185
-[enjoyment-liberation-desiring](bhuktimuktīcchukaḥ) [desirer](kāmī) [should-do](kuryāddīkṣādimājñayā)
-
+bhukti-mukti-icchukaḥ kāmī kuryāt dīkṣā-ādi-m-ājñayā
 ## mukta-m0-p08-v186
-[consecration-etc-actions-remainder](pratiṣṭhādikriyāśeṣā) [by-that-done](tatkṛtā) [praised](saṃpraśasyate)
-
+pratiṣṭhā-ādi-kriyā-śeṣā tat-kṛtā saṃpraśasyate
 ## mukta-m0-p08-v187
-[śiva-authority-conduct-who](śivādhikāravṛttiryaḥ) [he](sa) [sāntānika](sāntānika) [called](ucyate)
-
+śiva-adhikāra-vṛttiḥ yaḥ sa sāntānikaḥ ucyate
 ## mukta-m0-p08-v188
-[afterwards](paścātkuryādvivāhaṃ) [ca](ca) [householder](gṛhasthaḥ) [he](sa) [vatārpaka](vatārpakaḥ)
-
+paścāt kuryāt vivāham ca gṛhasthaḥ sa vata-arpakaḥ
 ## mukta-m0-p08-v189
-[begging-eater](bhaikṣyāśī) [controlled-self](saṃyatātmā) [ca](ca) [vowed](vratī) [he](sa) [declared](parikīrtitaḥ)
-
+bhaikṣya-āśī saṃyata-ātmā ca vratī sa parikīrtitaḥ
 ## mukta-m0-p08-v190
-[flower-fall-named](puṣpapātābhidhānaṃ) [tu](tu) [maṭhī](maṭhī) [mudrās-desired](mudrābhiriṣyate)
-
+puṣpa-pāta-abhidhānam tu maṭhī mudrābhiḥ iṣyate
 ## mukta-m0-p08-v191
-[good-cloth-ointment](sadvastramañjanaṃ) [oil](tailaṃ) [leads](nayate) [delights-indeed-him](ramate hi tam)
-
+sat-vastram añjanam tailam nayate ramate hi tam
 ## mukta-m0-p08-v192
-[for-honey](mākṣāya) [vowed-one](vratinaṃ) [ca](ca) [eva](eva) [should-choose](varayenmatimānnaraḥ)
-
+mākṣāya vratinaṃ ca eva varayet matimān naraḥ
 ## mukta-m0-p08-v193
-[worldly](laukiko) [substance-sharer](dravyabhāgī) [syād](syād) [knowledge-sharer](vidyābhāk) [transcendent](pāralaukikaḥ)
-
+laukikaḥ dravya-bhāgī syāt vidyā-bhāk pāra-laukikaḥ
 ## mukta-m0-p08-v194
-[of-brothers](bhrātṛṇaṃ) [in-guru-absence](gurvabhāve) [syāt](syāt) [of-householders](gṛhasthānāṃ) [own-son](svaputrakam)
-
+bhrātṛṇam guru-abhāve syāt gṛhasthānām svaputrakam
 ## mukta-m0-p08-v195
-[unfit](ayogyāḥ) [for-śiva-works](śivakāryeṣu) [bell-connected](ghaṇṭāsambandhino) [should-remove](haret)
-
+ayogyāḥ śiva-kāryeṣu ghaṇṭā-sambandhinaḥ haret
 ## mukta-m0-p08-v196
-[in-debt](ṛṇe) [in-substance](dravye) [ca](ca) [in-lump](piṇḍe) [ca](ca) [he](sa) [eva](eva) [ekaḥ](ekaḥ) [praised](praśasyate)
-
+ṛṇe dravye ca piṇḍe ca saḥ eva ekaḥ praśasyate
 ## mukta-m0-p08-v197
-[among-four-cows](caturgocaramadhye) [ca](ca) [śaiva](śaivo) [jyeṣṭha](jyeṣṭhāyate) [param](param)
-
+catur-gocara-madhye ca śaivaḥ jyeṣṭhāyate param
 ## mukta-m0-p08-v198
-[śaiva-ācārya](śaivācāryastataḥ) [best](śreṣṭhaḥ) [should-establish](sthāpayetsarvadevatāḥ)
-
+śaiva-ācāryaḥ tataḥ śreṣṭhaḥ sthāpayet sarva-devatāḥ
 ## mukta-m0-p08-v199
-[enjoyment-liberation-giver](bhuktimuktipradātā) [ca](ca) [not-other](nānyo) [vai](vai) [world-maker-guru](viśvakṛdguruḥ)
-
+bhukti-mukti-pradātā ca na anyaḥ vai viśvakṛt guruḥ
 ## mukta-m0-p08-v200
-[in-his-absence](tadabhāve) [tu](tu) [should-be-done](kartavyāḥ) [own-deity-vow-performers](svadevavratacāriṇaḥ)
+tad-abhāve tu kartavyāḥ sva-deva-vrata-cāriṇaḥ

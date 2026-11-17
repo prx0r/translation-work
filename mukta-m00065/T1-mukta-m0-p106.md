@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p106-v2626
-[karṇikā](karṇikā) [śaśibhāgena](śaśibhāgena) [vistārāt](vistārāt) [ca](ca) [adhunā](adhunā) [ucyate](ucyate)
+[ear-ring](karṇikā) [by-moon-part](śaśibhāgena) [from-expansion](vistārāt) [and](ca) [now](adhunā) [is-said](ucyate)
 
 ## mukta-m0-p106-v2627
-[tanmadhye](tanmadhye) [tu](tu) [dvibhāgābhyām](dvibhāgābhyām) [praveśaḥ](praveśaḥ) [gṛha](gṛha) [hetave](hetave)
+[in-middle](tanmadhye) [but](tu) [by-two-parts](dvibhāgābhyām) [entrance](praveśaḥ) [for-house](gṛha) [for-purpose](hetave)
 
 ## mukta-m0-p106-v2628
-[evameva](evameva) [tu](tu) [jaṅghā](jaṅghā) [yāmañjaryā](yāmañjaryā) [vedikā](vedikā) [avadhiḥ](avadhiḥ)
+[thus](evameva) [but](tu) [of-shank](jaṅghāyām) [of-anklet](añjaryā) [vedikā-limit](vedikāvadhiḥ)
 
 ## mukta-m0-p106-v2629
-[prāsāda](prāsāda) [śikharam](śikharam) [vā](vā) [api](api) [brūyām](brūyām) [uparatha](uparatha) [ādikān](ādikān)
+[temple-spire](prāsādaśikharaṃ) [or](vā) [api](api) [I-would-say](brūyām) [uparathā-and-others](uparathādikān)
 
 ## mukta-m0-p106-v2630
-[pīṭha](pīṭha) [ādi](ādi) [abja](abja) [antam](antam) [ucchrāye](ucchrāye) [praveśaḥ](praveśaḥ) [ca](ca) [nigadyate](nigadyate)
+[from-pedestal-to-lotus-end](pīṭhādyabjāntam) [in-height](ucchrāye) [entrance](praveśaḥ) [ca](ca) [is-declared](nigadyate)
 
 ## mukta-m0-p106-v2631
-[ardhena](ardhena) [paṭṭikām](paṭṭikām) [kuryāt](kuryāt) [dvābhyām](dvābhyām) [kaṇṭha](kaṇṭha) [praveśakam](praveśakam)
+[by-half](ardhena) [tablet](paṭṭikāṃ) [one-should-make](kuryāt) [by-two](dvābhyāṃ) [neck-entrance](kaṇṭhapraveśakam)
 
 ## mukta-m0-p106-v2632
-[ardhāṃśena](ardhāṃśena) [tadūrdhve](tadūrdhve) [tu](tu) [kāryā](kāryā) [ca](ca) [eva](eva) [upapaṭṭikā](upapaṭṭikā)
+[by-half-part](ardhāṃśena) [above-that](tadūrdhve) [tu](tu) [should-be-made](kāryā) [ca](ca) [eva](eva) [sub-tablet](upapaṭṭikā)
 
 ## mukta-m0-p106-v2633
-[tryāṅghri](tryāṅghri) [praveśaḥ](praveśaḥ) [haṃsa](haṃsa) [statpaṭṭi](statpaṭṭi) [ardha](ardha) [praveśataḥ](praveśataḥ)
+[three-angled-entrance](tryāṅghripraveśaḥ) [haṃsa](haṃsa) [from-that-tablet-half-entrance](tatpaṭṭyardhapraveśataḥ)
 
 ## mukta-m0-p106-v2634
-[sandhipatra](sandhipatra) [anvitam](anvitam) [padmam](padmam) [vidadhīta](vidadhīta) [suśobhanam](suśobhanam)
+[joint-leaf-endowed](sandhipatrānvitaṃ) [lotus](padmaṃ) [one-should-make](vidadhīta) [very-beautiful](suśobhanam)
 
 ## mukta-m0-p106-v2635
-[śilottham](śilottham) [padapīṭham](padapīṭham) [syāt](syāt) [evam](evam) [dārviṣṭakā](dārviṣṭakā) [maye](maye)
+[stone-born](śilotthaṃ) [foot-pedestal](padapīṭhaṃ) [syāt](syāt) [thus](evaṃ) [wooden-brick-made](dārviṣṭakāmaye)
 
 ## mukta-m0-p106-v2636
-[taducchrayam](taducchrayam) [graham](graham) [kṛtvā](kṛtvā) [jaṅghā](jaṅghā) [tanmadhyataḥ](tanmadhyataḥ) [guṇaiḥ](guṇaiḥ)
+[that-height](taducchrayaṃ) [graha](grahaṃ) [having-made](kṛtvā) [shank](jaṅghā) [from-middle](tanmadhyato) [by-guṇas](guṇaiḥ)
 
 ## mukta-m0-p106-v2637
-[vedibandha](vedibandha) [varaṇḍā](varaṇḍā) [dinnigadāmi](dinnigadāmi) [anupūrvaśaḥ](anupūrvaśaḥ)
+[vedibandha-varaṇḍa](vedibandhavaraṇḍā) [dinnigadāmyanupūrvaśaḥ](dinnigadāmyanupūrvaśaḥ)
 
 ## mukta-m0-p106-v2638
-[ucchraye](ucchraye) [dhāma](dhāma) [turyāṃśāt](turyāṃśāt) [tasmin](tasmin) [nidrāṃśake](nidrāṃśake) [kṛte](kṛte)
+[in-height](ucchraye) [dhāmaturyāṃśāt](dhāmaturyāṃśāt) [therein](tasmin) [nidrāṃśakekṛte](nidrāṃśakekṛte)
 
 ## mukta-m0-p106-v2639
-[sārdhatrayeṇa](sārdhatrayeṇa) [kumbhaḥ](kumbhaḥ) [syāt](syāt) [tadardhe](tadardhe) [kumbhapaṭṭikā](kumbhapaṭṭikā)
+[with-one-and-half](sārdhatrayeṇa) [kumbha](kumbhaḥ) [syāt](syāt) [half-of-that](tadardhe) [kumbha-tablet](kumbhapaṭṭikā)
 
 ## mukta-m0-p106-v2640
-[bhāgārdhena](bhāgārdhena) [tu](tu) [kaṇṭhaḥ](kaṇṭhaḥ) [syāt](syāt) [kalaśaḥ](kalaśaḥ) [ca](ca) [guṇāṃśataḥ](guṇāṃśataḥ)
+[by-half-part](bhāgārdhena) [tu](tu) [neck](kaṇṭhaḥ) [syāt](syāt) [kalaśa](kalaśaśca) [by-guṇa-part](guṇāṃśataḥ)
 
 ## mukta-m0-p106-v2641
-[praveśāt](praveśāt) [ca](ca) [ekataḥ](ekataḥ) [kaṇṭhāḥ](kaṇṭhāḥ) [ca](ca) [ardhe](ardhe) [nirgamapaṭṭikā](nirgamapaṭṭikā)
+[from-entrance](praveśāt) [ca](ca) [one-side](ekataḥ) [necks](kaṇṭhāḥ) [ca](ca) [half](ardhe) [exit-tablet](nirgamapaṭṭikā)
 
 ## mukta-m0-p106-v2642
-[kumbhapaṭṭī](kumbhapaṭṭī) [tu](tu) [pādena](pādena) [kupālyā](kupālyā) [dyaṃśataḥ](dyaṃśataḥ) [sthitā](sthitā)
+[kumbha-tablet](kumbhapaṭṭī) [tu](tu) [by-foot](pādena) [kupālī](kupālyā) [by-two-part](dyaṃśataḥ) [situated](sthitā)
 
 ## mukta-m0-p106-v2643
-[tribhiḥ](tribhiḥ) [khura](khura) [ādibhiḥ](ādibhiḥ) [yuktam](yuktam) [vedībandha](vedībandha) [abhidhānakam](abhidhānakam)
+[by-three](tribhiḥ) [hoof-and-others](khurādibhiryuktaṃ) [vedībandha-named](vedībandhābhidhānakam)
 
 ## mukta-m0-p106-v2644
-[kṛteṣu](kṛteṣu) [triṣu](triṣu) [bhāgeṣu](bhāgeṣu) [pādonāṃśāt](pādonāṃśāt) [praveśikān](praveśikān)
+[having-made](kṛteṣu) [in-three](triṣu) [parts](bhāgeṣu) [by-quarter-part](pādonāṃśāt) [entrances](praveśikān)
 
 ## mukta-m0-p106-v2645
-[bhāgena](bhāgena) [caturasra](caturasra) [ākhyā](ākhyā) [paṭṭikā](paṭṭikā) [sārdhataḥ](sārdhataḥ) [sthitā](sthitā)
+[by-part](bhāgena) [square-named](caturasrākhyā) [tablet](paṭṭikā) [with-one-and-half](sārdhataḥ) [situated](sthitā)
 
 ## mukta-m0-p106-v2646
-[khuṃra](khuṃra) [kumbhavatī](kumbhavatī) [jaṅghā](jaṅghā) [jyeṣṭhānām](jyeṣṭhānām) [pādamānataḥ](pādamānataḥ)
+[khuṃrakumbhavatī](khuṃrakumbhavatī) [shank](jaṅghā) [of-elders](jyeṣṭhānāṃ) [by-foot-measure](pādamānataḥ)
 
 ## mukta-m0-p106-v2647
-[yāvat](yāvat) [cinnava](cinnava) [kām](kām) [vā](vā) [api](api) [patravalyā](patravalyā) [athavā](athavā) [varā](varā)
+[until-cut-vakā](yāvaccinnavakāṃ) [vā](vā) [api](api) [leaf-garland](patravalyā) [or](athavā) [excellent](varā)
 
 ## mukta-m0-p106-v2648
-[caturthāṃśaḥ](caturthāṃśaḥ) [ca](ca) [jaṅgha](jaṅgha) [ūrdhve](ūrdhve) [vibhajya](vibhajya) [vasubhāgataḥ](vasubhāgataḥ)
+[quarter-part](caturthāṃśaśca) [above-shank](jaṅghordhve) [dividing](vibhajya) [by-eight-part](vasubhāgataḥ)
 
 ## mukta-m0-p106-v2649
-[tatra](tatra) [ardhena](ardhena) [praveśa](praveśa) [ākhyam](ākhyam) [paṭṭikām](paṭṭikām) [tu](tu) [vi](vi) [vartayet](vartayet)
+[there](tatrārdhena) [entrance-named](praveśākhyaṃ) [tablet](paṭṭikāṃ) [tu](tu) [vi](vi) [vartayet](vartayet)
 
 ## mukta-m0-p106-v2650
-[pādonāṃśena](pādonāṃśena) [haṃsa](haṃsa) [ākhyā](ākhyā) [paṭṭī](paṭṭī) [tatpadataḥ](tatpadataḥ) [bhavet](bhavet)
+[by-quarter-part](pādonāṃśena) [haṃsa-named](haṃsākhyā) [tablet](paṭṭī) [from-that-foot](tatpadato) [bhavet](bhavet)
