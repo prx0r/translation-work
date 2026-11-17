@@ -8,11 +8,11 @@
 "tokens": [
 {
 "surface": "dikṣu",
-"quick_gloss": "in-directions"
+"quick_gloss": "directions"
 },
 {
-"surface": "daśa+mantraiḥ",
-"quick_gloss": "with-ten-mantras"
+"surface": "daśamantraiḥ",
+"quick_gloss": "ten-mantras"
 },
 {
 "surface": "baliṃ",
@@ -20,7 +20,7 @@
 },
 {
 "surface": "haret",
-"quick_gloss": "one-should-offer"
+"quick_gloss": "should-take"
 }
 ]
 },
@@ -32,12 +32,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "rāja+ante",
-"quick_gloss": "at-king's-end"
+"surface": "rājā",
+"quick_gloss": "king"
+},
+{
+"surface": "ante",
+"quick_gloss": "end"
 },
 {
 "surface": "bhañjayatu",
-"quick_gloss": "may-he-break"
+"quick_gloss": "should-break"
 },
 {
 "surface": "iti",
@@ -58,15 +62,15 @@
 },
 {
 "surface": "mārayatu",
-"quick_gloss": "may-he-kill"
+"quick_gloss": "should-kill"
 },
 {
 "surface": "iti",
 "quick_gloss": "thus"
 },
 {
-"surface": "ataḥ",
-"quick_gloss": "then"
+"surface": "atas",
+"quick_gloss": "therefore"
 },
 {
 "surface": "balim",
@@ -83,7 +87,7 @@
 "tokens": [
 {
 "surface": "svastyayanaṃ",
-"quick_gloss": "benediction"
+"quick_gloss": "well-being"
 },
 {
 "surface": "ca",
@@ -91,15 +95,15 @@
 },
 {
 "surface": "astu",
-"quick_gloss": "may-be"
+"quick_gloss": "let-be"
 },
 {
-"surface": "bali+mantraḥ",
+"surface": "balimantraḥ",
 "quick_gloss": "offering-mantra"
 },
 {
 "surface": "udāhṛtaḥ",
-"quick_gloss": "declared"
+"quick_gloss": "is-declared"
 }
 ]
 },
@@ -116,15 +120,15 @@
 },
 {
 "surface": "haret",
-"quick_gloss": "one-should-offer"
+"quick_gloss": "should-take"
 },
 {
-"surface": "di+padaṃ",
-"quick_gloss": "two-syllable"
+"surface": "dipadaṃ",
+"quick_gloss": "two-footed"
 },
 {
 "surface": "vadet",
-"quick_gloss": "one-should-say"
+"quick_gloss": "should-speak"
 }
 ]
 },
@@ -141,11 +145,15 @@
 },
 {
 "surface": "syuḥ",
-"quick_gloss": "should-be"
+"quick_gloss": "would-be"
 },
 {
-"surface": "tat+tat+dikṣu",
-"quick_gloss": "in-respective-directions"
+"surface": "tattat",
+"quick_gloss": "that-that"
+},
+{
+"surface": "dikṣu",
+"quick_gloss": "directions"
 },
 {
 "surface": "baliṃ",
@@ -153,7 +161,7 @@
 },
 {
 "surface": "haret",
-"quick_gloss": "one-should-offer"
+"quick_gloss": "should-take"
 }
 ]
 },
@@ -165,10 +173,6 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "p. 334",
-"quick_gloss": "p.-334"
-},
-{
 "surface": "evaṃ",
 "quick_gloss": "thus"
 },
@@ -177,12 +181,12 @@
 "quick_gloss": "done"
 },
 {
-"surface": "śatru+kṛtā",
+"surface": "śatrukṛtā",
 "quick_gloss": "enemy-made"
 },
 {
 "surface": "kṛtyā",
-"quick_gloss": "witchcraft"
+"quick_gloss": "rite"
 },
 {
 "surface": "kṣipraṃ",
@@ -211,15 +215,15 @@
 },
 {
 "surface": "asya",
-"quick_gloss": "of-this"
+"quick_gloss": "his"
 },
 {
 "surface": "niyogaḥ",
-"quick_gloss": "injunction"
+"quick_gloss": "commission"
 },
 {
-"surface": "ripu+nigrahe",
-"quick_gloss": "in-enemy-subjugation"
+"surface": "ripunigrahe",
+"quick_gloss": "enemy-subjugation"
 }
 ]
 },
@@ -232,15 +236,11 @@
 "tokens": [
 {
 "surface": "prāhiṇot",
-"quick_gloss": "sent-forth"
+"quick_gloss": "send"
 },
 {
-"surface": "iha",
+"surface": "ihādya",
 "quick_gloss": "here"
-},
-{
-"surface": "adya",
-"quick_gloss": "today"
 },
 {
 "surface": "tvaṃ",
@@ -248,7 +248,7 @@
 },
 {
 "surface": "nityaṃ",
-"quick_gloss": "constantly"
+"quick_gloss": "always"
 },
 {
 "surface": "yojaya",
@@ -268,16 +268,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "prāk+vat",
+"surface": "prāgvat",
 "quick_gloss": "as-before"
 },
 {
 "surface": "niyogaḥ",
-"quick_gloss": "injunction"
+"quick_gloss": "commission"
 },
 {
-"surface": "ari+nivartane",
-"quick_gloss": "in-enemy-repelling"
+"surface": "rinivartane",
+"quick_gloss": "enemy-removal"
 }
 ]
 },
@@ -289,16 +289,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "syām",
-"quick_gloss": "may-I-be"
+"surface": "syāmi",
+"quick_gloss": "i-am"
 },
 {
-"surface": "yat+saḥ",
-"quick_gloss": "so-that"
+"surface": "atso",
+"quick_gloss": "atso"
 },
 {
 "surface": "anāgasaḥ",
-"quick_gloss": "sinless"
+"quick_gloss": "innocent"
 }
 ]
 },
@@ -311,7 +311,7 @@
 "tokens": [
 {
 "surface": "kālāgnirudraḥ",
-"quick_gloss": "Kālāgnirudra"
+"quick_gloss": "time-fire-rudra"
 },
 {
 "surface": "atra",
@@ -319,11 +319,11 @@
 },
 {
 "surface": "niyogaḥ",
-"quick_gloss": "injunction"
+"quick_gloss": "commission"
 },
 {
-"surface": "ari+vināśane",
-"quick_gloss": "in-enemy-destruction"
+"surface": "vināśane",
+"quick_gloss": "destruction"
 }
 ]
 },
@@ -336,15 +336,15 @@
 "tokens": [
 {
 "surface": "prajāḥ",
-"quick_gloss": "and-creatures"
+"quick_gloss": "creatures"
 },
 {
 "surface": "ca",
-"quick_gloss": "and"
+"quick_gloss": "ca"
 },
 {
-"surface": "puruṣa+ādi+ni",
-"quick_gloss": "cannibals-etc"
+"surface": "puruṣādini",
+"quick_gloss": "men-etc"
 }
 ]
 },
@@ -356,16 +356,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "yātudhānīḥ",
-"quick_gloss": "of-sorceresses"
+"surface": "yātudhānī",
+"quick_gloss": "demoness"
 },
 {
-"surface": "abhicāra+nāśe",
-"quick_gloss": "in-sorcery-destruction"
+"surface": "abhicāranāśe",
+"quick_gloss": "sorcery-destruction"
 },
 {
 "surface": "niyojanam",
-"quick_gloss": "injunction"
+"quick_gloss": "employment"
 }
 ]
 },
@@ -377,8 +377,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "kṛtyā+nāśāya",
-"quick_gloss": "for-witchcraft-destruction"
+"surface": "kṛtyānāśāya",
+"quick_gloss": "rite-destruction"
 },
 {
 "surface": "sarvāḥ",
@@ -386,11 +386,11 @@
 },
 {
 "surface": "tu",
-"quick_gloss": "indeed"
+"quick_gloss": "tu"
 },
 {
 "surface": "yātudhānyaḥ",
-"quick_gloss": "sorceresses"
+"quick_gloss": "demonesses"
 }
 ]
 },
@@ -402,20 +402,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "pañca+ṛcakaṃ",
-"quick_gloss": "five-verse"
+"surface": "pañcarcakaṃ",
+"quick_gloss": "five-versed"
 },
 {
 "surface": "sūktaṃ",
 "quick_gloss": "hymn"
 },
 {
-"surface": "śukla+aṣṭamyāṃ",
-"quick_gloss": "on-bright-eighth"
+"surface": "śuklāṣṭamyāṃ",
+"quick_gloss": "bright-eighth"
 },
 {
 "surface": "samācaret",
-"quick_gloss": "one-should-perform"
+"quick_gloss": "should-perform"
 }
 ]
 },
@@ -428,19 +428,19 @@
 "tokens": [
 {
 "surface": "ānayet",
-"quick_gloss": "one-should-bring"
+"quick_gloss": "should-bring"
 },
 {
 "surface": "daṇḍam",
 "quick_gloss": "staff"
 },
 {
-"surface": "ekam",
+"surface": "ekaṃ",
 "quick_gloss": "one"
 },
 {
 "surface": "tu",
-"quick_gloss": "indeed"
+"quick_gloss": "tu"
 },
 {
 "surface": "puruṣasya",
@@ -448,7 +448,7 @@
 },
 {
 "surface": "pramāṇataḥ",
-"quick_gloss": "in-measure"
+"quick_gloss": "measure"
 }
 ]
 },
@@ -461,14 +461,14 @@
 "tokens": [
 {
 "surface": "japet",
-"quick_gloss": "one-should-recite"
+"quick_gloss": "should-chant"
 },
 {
 "surface": "tadā",
 "quick_gloss": "then"
 },
 {
-"surface": "ariḥ",
+"surface": "arātiḥ",
 "quick_gloss": "enemy"
 },
 {
@@ -476,12 +476,8 @@
 "quick_gloss": "is-burned"
 },
 {
-"surface": "saḥ",
-"quick_gloss": "he"
-},
-{
-"surface": "mahā+grahaiḥ",
-"quick_gloss": "by-great-seizers"
+"surface": "mahāgrahaiḥ",
+"quick_gloss": "with-great-planets"
 }
 ]
 },
@@ -493,12 +489,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "aṣṭa+prādeśa+mātram",
-"quick_gloss": "eight-prādeśa-measure"
+"surface": "aṣṭaprādeśam",
+"quick_gloss": "eight-spans"
 },
 {
-"surface": "tu",
-"quick_gloss": "indeed"
+"surface": "ātrantu",
+"quick_gloss": "measure"
 },
 {
 "surface": "daṇḍaṃ",
@@ -506,11 +502,11 @@
 },
 {
 "surface": "baibhītakaṃ",
-"quick_gloss": "of-baibhītaka"
+"quick_gloss": "bibhītaka"
 },
 {
 "surface": "samam",
-"quick_gloss": "even"
+"quick_gloss": "equal"
 }
 ]
 },
@@ -522,24 +518,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "mahā+vyādhi+gṛhītaḥ",
-"quick_gloss": "seized-by-great-disease"
+"surface": "mahāvyādhigṛhītaḥ",
+"quick_gloss": "great-disease-seized"
 },
 {
-"surface": "asau",
-"quick_gloss": "that-one"
+"surface": "sau",
+"quick_gloss": "he"
 },
 {
 "surface": "mriyate",
 "quick_gloss": "dies"
 },
 {
-"surface": "na",
+"surface": "nātra",
 "quick_gloss": "not"
-},
-{
-"surface": "atra",
-"quick_gloss": "here"
 },
 {
 "surface": "saṃśayaḥ",
@@ -556,15 +548,15 @@
 "tokens": [
 {
 "surface": "hunet",
-"quick_gloss": "one-should-offer"
+"quick_gloss": "should-offer"
 },
 {
-"surface": "sapta+rātram",
-"quick_gloss": "for-seven-nights"
+"surface": "saptarātram",
+"quick_gloss": "seven-nights"
 },
 {
-"surface": "aṣṭa+uttaraṃ",
-"quick_gloss": "hundred-and-eight"
+"surface": "aṣṭottaraṃ",
+"quick_gloss": "hundred-eight"
 },
 {
 "surface": "śatam",
@@ -581,7 +573,7 @@
 "tokens": [
 {
 "surface": "prakurvīta",
-"quick_gloss": "one-should-perform"
+"quick_gloss": "should-do"
 },
 {
 "surface": "ripuḥ",
@@ -605,16 +597,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "nāma+varṇāt",
-"quick_gloss": "from-name-syllables"
+"surface": "nāmavarṇān",
+"quick_gloss": "name-letters"
 },
 {
 "surface": "mantreṇa",
-"quick_gloss": "with-mantra"
+"quick_gloss": "by-mantra"
 },
 {
 "surface": "garbhitān",
-"quick_gloss": "enclosed"
+"quick_gloss": "embedded"
 }
 ]
 },
@@ -627,22 +619,18 @@
 "tokens": [
 {
 "surface": "nikhatet",
-"quick_gloss": "one-should-bury"
+"quick_gloss": "should-fix"
 },
 {
-"surface": "tat+kṣaṇāt",
-"quick_gloss": "at-that-moment"
-},
-{
-"surface": "eva",
-"quick_gloss": "indeed"
+"surface": "tatkṣaṇāt",
+"quick_gloss": "that-moment"
 },
 {
 "surface": "jvaraḥ",
 "quick_gloss": "fever"
 },
 {
-"surface": "śatroḥ",
+"surface": "satroḥ",
 "quick_gloss": "of-enemy"
 },
 {
@@ -660,27 +648,23 @@
 "tokens": [
 {
 "surface": "dadyāt",
-"quick_gloss": "one-should-give"
+"quick_gloss": "should-give"
 },
 {
-"surface": "go+bhū+hiraṇya+ādi",
-"quick_gloss": "cows-land-gold-etc"
+"surface": "gobhūhiraṇyādi",
+"quick_gloss": "cow-land-gold-etc"
 },
 {
-"surface": "yathā",
-"quick_gloss": "according-to"
-},
-{
-"surface": "śaktyā",
-"quick_gloss": "ability"
+"surface": "yathāśaktyā",
+"quick_gloss": "according-to-ability"
 },
 {
 "surface": "iti",
 "quick_gloss": "thus"
 },
 {
-"surface": "tat+vidhiḥ",
-"quick_gloss": "that-procedure"
+"surface": "tadvidhiḥ",
+"quick_gloss": "rule"
 }
 ]
 }

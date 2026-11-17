@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p218-v5426
-[smoke-eyed](dhūmrākṣa) [+](+) [arms](bāhavaḥ) [noose](pāśa) [+](+) [holders](dharāḥ) [+](+) [and](ca) [deformed](vikṛta) [+](+) [faces](ānanā)
+[smoke-eyed+arms](dhūmrākṣabāhavaḥ) [noose+holders](pāśadharāḥ) [and](ca) [distorted+faces](vikṛtānanā)
 
 ## mukta-m0-p218-v5427
-[variegated](citra) [+](+) [garments](ambarāḥ) [+](+) [and](ca) [variegated](citra) [+](+) [colors](varṇāḥ) [+](+) [and](ca) [variegated](citra) [+](+) [fragrance](gandha) [+](+) [unguents](anulepanāḥ)
+[multicolored+garments](citrāmbarāḥ) [multicolored](citravarṇāḥ) [multicolored+perfume+anointed](citrāgandhānulepanāḥ)
 
 ## mukta-m0-p218-v5428
-[Citragupta](citragupta) [+](+) [named](ākhya) [+](+) [presiding-deities](pratyadhidevatāḥ) [+](+) [and](ca) [+](+) [thus](iti) [one-should-meditate](cintayet)
+[citragupta-named+presiding+deities](citraguptākhyapratyadhidevatāḥ) [and+thus](ceti) [should+meditate](cintayet)
 
 ## mukta-m0-p218-v5429
-[variegated](citra) [+](+) [colored](varṇa) [+](+) [with-unbroken-rice](akṣataiḥ) [with-flowers](puṣpaiḥ) [+](+) [there](tatra) [+](+) [having-invoked](āvāhya) [one-should-worship](samarcayet)
+[multicolored+rice](citravarṇākṣataiḥ) [flowers](puṣpaiḥ) [there+inviting](tatrāvāhya) [should+worship](samarcayet)
 
 ## mukta-m0-p218-v5430
-[sweet](madhura) [+](+) [triad](traya) [+](+) [combined-with](saṃyuktaiḥ) [+](+) [variegated](citra) [+](+) [with-substances](dravyaiḥ) [one-should-worship](prapūjayet)
+[with+sweet+three+combined](madhuratrayasaṃyuktaiḥ) [multicolored+substances](citradravyaiḥ) [should+fully+worship](prapūjayet)
 
 ## mukta-m0-p218-v5431
-[for-Ketu](ketu) [+](+) [satisfaction](prītaye) [application](viniyojanam)
+[for+ketu+pleasure](ketuprītaye) [dedication](viniyojanam)
 
 ## mukta-m0-p218-v5432
-[Citragupta](citragupta) [+](+) [here](atra) [assignment](niyogaḥ) [for-Ketu](ketu) [+](+) [satisfaction](tuṣṭaye)
+[citragupta+here](citraguptotra) [appointment](niyogaḥ) [for+ketu+satisfaction](ketutuṣṭaye)
 
 ## mukta-m0-p218-v5433
-[to-the-sacrifices](adhvarāṁ) [near](upa) [who](ye) [you](tvā) [praise](gṛṇanti) [fires](vahnayaḥ)
+[sacrifices](adhvarām) [toward](upa) [who](ye) [you](tvā) [praise](gṛṇanti) [fires](vahnayaḥ)
 
 ## mukta-m0-p218-v5434
-[not](na) [+](+) [one-should-eat](aśnīyāt) [+](+) [burnt](dagdha) [+](+) [food](anna) [+](+) [etc.](ādi) [to-Ketu](ketu) [+](+) [service](sevana) [+](+) [devoted](tatparaḥ)
+[should+not+eat](nāśnīyāt) [burnt+food+etc](dagdhamannādi) [ketu+service+intent](ketusevanatatparaḥ)
 
 ## mukta-m0-p218-v5435
-[may-become](bhavet) [+](+) [hidden](guptaḥ) [visible](dṛśyaḥ) [not](na) [practitioner](sādhaka) [+](+) [best](uttamaḥ)
+[becomes+hidden](bhavedgupto) [visible](dṛśyo) [not](na) [best+sadhaka](sādhakottamaḥ)
 
 ## mukta-m0-p218-v5436
-[moon](candra) [+](+) [and-wind](marutau) [Gāyatra](gāyatraṃ) [meter](chanda) [is-said](ucyate)
+[moon+wind](candramarutau) [gayatri](gāyatraṃ) [meter](chanda) [is+called](ucyate)
 
 ## mukta-m0-p218-v5437
-[with-desired-rites](kāmyaiḥ)
+[for+desires](kāmyaiḥ)
 
 ## mukta-m0-p218-v5438
-[born-of-water](vāra) [+](+) [born](jasaḥ)
+[of+varaja](vārajasaḥ)
 
 ## mukta-m0-p218-v5439
-[this](etat) [+](+) [joined-with](yukta) [+](+) [water](jala) [+](+) [from-bathing](snānāt) [+](+) [is-pleased](prasīdati) [always](sadā) [Śikhī](śikhī)
+[from+that+combined+water+bath](etadyuktajalasnānāt) [always+pleased](prasīdati) [sadā](sadā) [peacock](śikhī)
 
 ## mukta-m0-p218-v5440
-[for-Ketu](ketu) [+](+) [satisfaction](tuṣṭyai) [indeed](tu) [one-should-give](dadyāt) [+](+) [or](vā) [black-gram](rāja) [+](+) [beans](māṣakān)
+[for+ketu+satisfaction](ketutuṣṭyai) [then](tu) [should+give](dadyāt) [or](vā) [black+gram](rājamāṣakān)
 
 ## mukta-m0-p218-v5441
-[to-be-performed](kāryaḥ) [of-the-Ketus](ketūnām) [+](+) [indeed](tu) [great](mahā) [+](+) [festival](utsavaḥ)
+[should+be+done](kāryaḥ) [of+ketus](ketūnām) [great+festival](mahotsavaḥ)
 
 ## mukta-m0-p218-v5442
-[of-them](teṣāṃ) [success](siddhiḥ) [on-the-palm](kara) [+](+) [on-the-surface](tale) [situated](sthitā)
+[of+them](teṣāṃ) [success](siddhiḥ) [in+palm](karatale) [stands](sthitā)
 
 ## mukta-m0-p218-v5443
-[I-say](vacmi) [that](tat) [+](+) [let-them-speak](bruvantu) [+](+) [here](iha) [deities](devatāḥ)
+[I+speak](vacmi) [that](tad) [let+gods+speak](bruvantviha) [here](iha) [deities](devatāḥ)
 
 ## mukta-m0-p218-v5444
-[of-the-nine-planets](navagraha) [+](+) [narration](kathana) [+](+) [method](prakāraḥ) [+](+) [thirteenth](trayodaśaḥ)
+[nine+planets+description+method](navagrahakathanaprakāraḥ) [thirteenth](trayodaśaḥ)
 
 ## mukta-m0-p218-v5445
-[mantra](mantraḥ) [+](+) [if](cet) [+](+) [from-this](ataḥ) [suffering](duḥkham) [+](+) [is-obtained](avāpyate)
+[if+mantra](mantraśced) [from+that](ato) [suffering](duḥkham) [is+obtained](avāpyate)
 
 ## mukta-m0-p218-v5446
-[in-the-other-world](paratra) [+](+) [also](api) [by-which](yena) [is-attained](saṃlabhyate) [happiness](sukham)
+[in+other+world+also](paratrāpi) [by+which](yena) [is+obtained](saṃlabhyate) [happiness](sukham)
 
 ## mukta-m0-p218-v5447
-[disciples](śiṣyāḥ) [+](+) [happiness](sukha) [+](+) [desiring](īpsavaḥ) [+](+) [devotionless](abhaktāḥ) [indeed](hi) [+](+) [therefore](ataḥ) [not](na) [anywhere](kva) [+](+) [even](api) [successes](siddhayaḥ)
+[disciples](śiṣyāḥ) [desiring+happiness](sukhepsavaḥ) [unfaithful](abhaktāḥ) [indeed](hi) [therefore](ato) [not](na) [anywhere](kvāpi) [successes](siddhayaḥ)
 
 ## mukta-m0-p218-v5448
-[I-shall-declare](sampravakṣyāmi) [in-all](sarva) [+](+) [tantras](tantreṣu) [hidden](gopitam)
+[I+will+explain](sampravakṣyāmi) [in+all+tantras](sarvatantreṣu) [hidden](gopitam)
 
 ## mukta-m0-p218-v5449
-[mantra](mantra) [+](+) [abandonment](tyāga) [+](+) [procedure](vidhim) [I-shall-tell](vakṣye) [by-which](yena) [is-produced](sañjāyate) [happiness](sukham)
+[mantra+abandonment+rite](mantratyāgavidhim) [I+will+say](vakṣye) [by+which](yena) [becomes](sañjāyate) [happiness](sukham)
 
 ## mukta-m0-p218-v5450
-[in-the-morning](prātaḥ) [+](+) [his](tasya) [house](gṛham) [having-gone](gatvā) [one's-own](svīyam) [suffering](duḥkham) [one-should-report](nivedayet)
+[in+morning](prātaḥ) [his](tasya) [house](gṛhaṃ) [having+gone](gatvā) [own](svīyaṃ) [suffering](duḥkhaṃ) [should+report](nivedayet)

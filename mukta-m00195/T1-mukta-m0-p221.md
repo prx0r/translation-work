@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p221-v5501
-[in-directions](dikṣu) [with-ten-mantras](daśa+mantraiḥ) [offering](baliṃ) [one-should-offer](haret)
+[directions](dikṣu) [ten-mantras](daśamantraiḥ) [offering](baliṃ) [should-take](haret)
 
 ## mukta-m0-p221-v5502
-[at-king's-end](rāja+ante) [may-he-break](bhañjayatu) [thus](iti)
+[king](rājā) [end](ante) [should-break](bhañjayatu) [thus](iti)
 
 ## mukta-m0-p221-v5503
-[afterwards](paścāt) [may-he-kill](mārayatu) [thus](iti) [then](ataḥ) [offering](balim)
+[afterwards](paścāt) [should-kill](mārayatu) [thus](iti) [therefore](atas) [offering](balim)
 
 ## mukta-m0-p221-v5504
-[benediction](svastyayanaṃ) [and](ca) [may-be](astu) [offering-mantra](bali+mantraḥ) [declared](udāhṛtaḥ)
+[well-being](svastyayanaṃ) [and](ca) [let-be](astu) [offering-mantra](balimantraḥ) [is-declared](udāhṛtaḥ)
 
 ## mukta-m0-p221-v5505
-[offering](baliṃ) [one-should-offer](haret)] [two-syllable](di+padaṃ) [one-should-say](vadet)
+[offering](baliṃ) [should-take](haret) [two-footed](dipadaṃ) [should-speak](vadet)
 
 ## mukta-m0-p221-v5506
-[mantras](mantrāḥ) [should-be](syuḥ) [in-respective-directions](tat+tat+dikṣu) [offering](baliṃ) [one-should-offer](haret)
+[mantras](mantrāḥ) [would-be](syuḥ) [that-that](tattat) [directions](dikṣu) [offering](baliṃ) [should-take](haret)
 
 ## mukta-m0-p221-v5507
-[p.-334](p. 334)) [thus](evaṃ) [done](kṛte) [enemy-made](śatru+kṛtā) [witchcraft](kṛtyā) [quickly](kṣipraṃ) [perishes](vinaśyati)
+[thus](evaṃ) [done](kṛte) [enemy-made](śatrukṛtā) [rite](kṛtyā) [quickly](kṣipraṃ) [perishes](vinaśyati)
 
 ## mukta-m0-p221-v5508
-[deity](devatā) [and](ca) [of-this](asya) [injunction](niyogaḥ) [in-enemy-subjugation](ripu+nigrahe)
+[deity](devatā) [and](ca) [his](asya) [commission](niyogaḥ) [enemy-subjugation](ripunigrahe)
 
 ## mukta-m0-p221-v5509
-[sent-forth](prāhiṇot) [here](iha) [today](adya) [you](tvaṃ) [constantly](nityaṃ) [employ](yojaya) [with-blessings](svastibhiḥ)
+[send](prāhiṇot) [here](ihādya) [you](tvaṃ) [always](nityaṃ) [employ](yojaya) [with-blessings](svastibhiḥ)
 
 ## mukta-m0-p221-v5510
-[as-before](prāk+vat) [injunction](niyogaḥ) [in-enemy-repelling](ari+nivartane)
+[as-before](prāgvat) [commission](niyogaḥ) [enemy-removal](rinivartane)
 
 ## mukta-m0-p221-v5511
-[may-I-be](syām) [so-that](yat+saḥ) [sinless](anāgasaḥ)
+[i-am](syāmi) [atso](atso) [innocent](anāgasaḥ)
 
 ## mukta-m0-p221-v5512
-[Kālāgnirudra](kālāgnirudraḥ) [here](atra) [injunction](niyogaḥ) [in-enemy-destruction](ari+vināśane)
+[time-fire-rudra](kālāgnirudraḥ) [here](atra) [commission](niyogaḥ) [destruction](vināśane)
 
 ## mukta-m0-p221-v5513
-[and-creatures](prajāḥ) [and](ca) [cannibals-etc](puruṣa+ādi+ni)
+[creatures](prajāḥ) [ca](ca) [men-etc](puruṣādini)
 
 ## mukta-m0-p221-v5514
-[of-sorceresses](yātudhānīḥ) [in-sorcery-destruction](abhicāra+nāśe) [injunction](niyojanam)
+[demoness](yātudhānī) [sorcery-destruction](abhicāranāśe) [employment](niyojanam)
 
 ## mukta-m0-p221-v5515
-[for-witchcraft-destruction](kṛtyā+nāśāya) [all](sarvāḥ) [indeed](tu) [sorceresses](yātudhānyaḥ)
+[rite-destruction](kṛtyānāśāya) [all](sarvāḥ) [tu](tu) [demonesses](yātudhānyaḥ)
 
 ## mukta-m0-p221-v5516
-[five-verse](pañca+ṛcakaṃ) [hymn](sūktaṃ) [on-bright-eighth](śukla+aṣṭamyāṃ) [one-should-perform](samācaret)
+[five-versed](pañcarcakaṃ) [hymn](sūktaṃ) [bright-eighth](śuklāṣṭamyāṃ) [should-perform](samācaret)
 
 ## mukta-m0-p221-v5517
-[one-should-bring](ānayet) [staff](daṇḍam) [one](ekam) [indeed](tu) [of-man](puruṣasya) [in-measure](pramāṇataḥ)
+[should-bring](ānayet) [staff](daṇḍam) [one](ekaṃ) [tu](tu) [of-man](puruṣasya) [measure](pramāṇataḥ)
 
 ## mukta-m0-p221-v5518
-[one-should-recite](japet) [then](tadā) [enemy](ariḥ) [is-burned](dahyate) [he](saḥ) [by-great-seizers](mahā+grahaiḥ)
+[should-chant](japet) [then](tadā) [enemy](arātiḥ) [is-burned](dahyate) [with-great-planets](mahāgrahaiḥ)
 
 ## mukta-m0-p221-v5519
-[eight-prādeśa-measure](aṣṭa+prādeśa+mātram) [indeed](tu) [staff](daṇḍaṃ) [of-baibhītaka](baibhītakaṃ) [even](samam)
+[eight-spans](aṣṭaprādeśam) [measure](ātrantu) [staff](daṇḍaṃ) [bibhītaka](baibhītakaṃ) [equal](samam)
 
 ## mukta-m0-p221-v5520
-[seized-by-great-disease](mahā+vyādhi+gṛhītaḥ) [that-one](asau) [dies](mriyate) [not](na) [here](atra) [doubt](saṃśayaḥ)
+[great-disease-seized](mahāvyādhigṛhītaḥ) [he](sau) [dies](mriyate) [not](nātra) [doubt](saṃśayaḥ)
 
 ## mukta-m0-p221-v5521
-[one-should-offer](hunet) [for-seven-nights](sapta+rātram) [hundred-and-eight](aṣṭa+uttaraṃ) [hundred](śatam)
+[should-offer](hunet) [seven-nights](saptarātram) [hundred-eight](aṣṭottaraṃ) [hundred](śatam)
 
 ## mukta-m0-p221-v5522
-[one-should-perform](prakurvīta) [enemy](ripuḥ) [death](mṛtyum) [obtains](avāpnuyāt)
+[should-do](prakurvīta) [enemy](ripuḥ) [death](mṛtyum) [obtains](avāpnuyāt)
 
 ## mukta-m0-p221-v5523
-[from-name-syllables](nāma+varṇāt) [with-mantra](mantreṇa) [enclosed](garbhitān)
+[name-letters](nāmavarṇān) [by-mantra](mantreṇa) [embedded](garbhitān)
 
 ## mukta-m0-p221-v5524
-[one-should-bury](nikhatet) [at-that-moment](tat+kṣaṇāt) [indeed](eva) [fever](jvaraḥ) [of-enemy](śatroḥ) [arises](prajāyate)
+[should-fix](nikhatet) [that-moment](tatkṣaṇāt) [fever](jvaraḥ) [of-enemy](satroḥ) [arises](prajāyate)
 
 ## mukta-m0-p221-v5525
-[one-should-give](dadyāt) [cows-land-gold-etc](go+bhū+hiraṇya+ādi) [according-to](yathā) [ability](śaktyā) [thus](iti) [that-procedure](tat+vidhiḥ)
+[should-give](dadyāt) [cow-land-gold-etc](gobhūhiraṇyādi) [according-to-ability](yathāśaktyā) [thus](iti) [rule](tadvidhiḥ)

@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p187-v4651
-[of-viṣṇu](viṣṇoḥ) [firm](dhruvaḥ) [you-are](asi) [of-viṣṇu](vaiṣṇavam) [you-are](asi) [for-viṣṇu](viṣṇave) [you](tvā)
+[viṣṇu's-fixed](viṣṇordhruvo'si) [vaiṣṇava](vaiṣṇavamasi) [to-viṣṇu](viṣṇave) [you](tvā)
 
 ## mukta-m0-p187-v4652
-[friend](sakhā)
+[companion](sakhā)
 
 ## mukta-m0-p187-v4653
-[pure](śuciḥ) [having-become](bhūtvā) [should-approach](upratiṣṭheta) [who](yaḥ) [day-by-day](anvaham)
+[pure-becoming](śucirbhūtvā) [upratiṣṭheta](upratiṣṭheta) [yonvaham](yonvaham)
 
 ## mukta-m0-p187-v4654
-[obtains](prāpnoti) [supreme](paramaṃ) [abode](sthānaṃ) [light+form](jyotīḥ+rūpaṃ) [eternal](sanātanam)
+[obtains](prāpnoti) [supreme](paramaṃ) [place](sthānaṃ) [light-formed](jyotīrūpaṃ) [eternal](sanātanam)
 
 ## mukta-m0-p187-v4655
-[not](no) [far](dūre) [today](adyasa) [that](soyaḥ) [near](antya) [o-agni](agne) [not-anyone](mākiḥ) [you](te) [tormentor](vyathiḥ) [may-overpower](ādadharṣīt)
+[not](no) [far](dūre) [today](adyasa) [soyo](soyo) [antyagne](antyagne) [mākiṣṭe](mākiṣṭe) [vyathirādadharṣīt](vyathirādadharṣīt)
 
 ## mukta-m0-p187-v4656
-[unsteady](avasthirā) [make](tanuhi) [of-sorcerers](yātujūnāṃ) [kin](jāmi) [non-kin](ajāmi) [crush](pramṛṇīhi)
+[unsteady](avasthirā) [make-thin](tanuhi) [demon-driven](yātujūnāṃ) [kin](jāmi) [non-kin](majāmi) [crush](pramṛṇīhi)
 
 ## mukta-m0-p187-v4657
-[all](viśvāni) [for-him](asmai) [good-days](su+dināni) [of-wealth](rāyaḥ) [splendors](dyumnāni) [of-the-noble](aryau) [wise-ones](viduraḥ) [shone-forth](abhidyaut)
+[all](viśvāni) [good-days](sudināni) [wealths](rāyo) [glories](dyumnāni) [aryauviduro](aryauviduro) [abhidyaut](abhidyaut)
 
 ## mukta-m0-p187-v4658
-[of-him](asya) [of-speech](vacasaḥ) [take-notice](cikiddhi) [o-priest](hotar) [most-eager](yaviṣṭha) [o-mighty-one](sukrato) [unfailing](danūnāḥ)
+[of-this-speech](asya+vacasaś) [know](cikiddhi) [hotar](hotar) [yaviṣṭha](yaviṣṭha) [sukratu](sukratu) [danūnāḥ](danūnāḥ)
 
 ## mukta-m0-p187-v4659
-[they](te) [drinking](pāyaka) [gathering](saṃciyaṃ) [and](ca) [o-agni](agne) [your](tava) [us](naḥ) [may-protect](pāntu) [those](amūḥ)
+[tepāyakasaṃciyaṃconiṣadhogne](tepāyakasaṃciyaṃconiṣadhogne) [your](tava) [us](naḥ) [protect](pāntu) [amūḥ](amūḥ)
 
 ## mukta-m0-p187-v4660
-[both](ubhā) [praisers](śagūṃsā) [giving-good-gifts](su+daya) [lords](satpatā) [your](te)
+[ubhāśagūṃsāsudayasatpatā](ubhāśagūṃsāsudayasatpatā) [te](te)
 
 ## mukta-m0-p187-v4661
-[from-demons](rakṣasaḥ) [protect](pāhi) [us](asmāt) [from-treachery](droha) [from-enmity](nidaḥ) [from-friend](mitra) [from-great](mahaḥ) [from-blame](avadyāt)
+[from-rākṣasa](rakṣasaḥ) [protect-us](pāhyasmād) [uhonidomitramaho](uhonidomitramaho) [avadyāt](avadyāt)
 
 ## mukta-m0-p187-v4662
-[may-protect](pātu) [at-night](naktam)
+[protect](pātu) [night](naktam)
 
 ## mukta-m0-p187-v4663
-[even](madait) [indeed](cit) [of-him](asya) [twofold](dvi) [break-forth](arujanti) [splendors](bhāmā) [not](na) [within](avarante) [obstructions](parivādhaḥ) [ungodly](adevīḥ)
+[madaicidasya](madaicidasya) [dvyarujanti](dvyarujanti) [bhāmānavarante](bhāmānavarante) [parivādho](parivādho) [adevīḥ](adevīḥ)
 
 ## mukta-m0-p187-v4664
-[may-take-away](haret) [vital-breaths](prāṇān) [fearing](bhayan) [not](na) [indeed](eva) [is-born-again](upajāyate)
+[takes](haret) [life-breaths](prāṇān) [fear](bhayam) [not](na) [arises](evopajāyate)
 
 ## mukta-m0-p187-v4665
-[having-proclaimed](ghoṣayitvā) [us](naḥ) [be-gracious](mṛḍāti) [in-such-a-way](īdṛśe)
+[proclaiming](ghoṣayitvā) [us](no) [mṛḍātīdṛśe](mṛḍātīdṛśe)
 
 ## mukta-m0-p187-v4666
-[twice-born](dvijaḥ) [always](nityaṃ) [obtains](vindate) [field](kṣetram) [supreme](uttamam)
+[twice-born](dvijo) [always](nityaṃ) [obtains](vindate) [field](kṣetram) [best](uttamam)
 
 ## mukta-m0-p187-v4667
-[of-the-hymn](sūktasya) [of-triṣṭubh+ending](triṣṭubh+antyasya) [deity](devatā)
+[of-hymn](sūktasya) [triṣṭub-ant](triṣṭubantyasya) [deity](devatā)
 
 ## mukta-m0-p187-v4668
-[according-to-prescribed+method](yathā+ukta+vidhinā) [facing-east](prāṅ+mukhaḥ) [pure+minded](śuddha+mānasaḥ)
+[as-prescribed](yathoktavidhinā) [east-facing](prāṅmukhaḥ) [pure-minded](śuddhamānasaḥ)
 
 ## mukta-m0-p187-v4669
-[on-left+foot](vāma+pāde) [indeed](tu) [fourth](caturthīṃ) [on-right](dakṣiṇe) [should-place](nyaset)
+[left-foot](vāmapāde) [fourth](tu+caturthīṃ) [right](dakṣiṇe) [place](nyaset)
 
 ## mukta-m0-p187-v4670
-[on-left+hip](vāma+kaṭyāṃ) [indeed](vai) [eighth](cāṣṭamīṃ) [on-right](dakṣiṇe) [on-hip](kaṭau)
+[left-hip](vāmakaṭyāṃ) [vai](vai) [eighth](cāṣṭamīṃ) [right](dakṣiṇe) [hip](kaṭau)
 
 ## mukta-m0-p187-v4671
-[in-throat+region](kaṇṭha+deśe) [twelfth](dvādaśīṃ) [on-left+arm](vāma+bāhuke)
+[throat-region](kaṇṭhadeśe) [twelfth](dvādaśīṃ) [left-arm](vāmabāhuke)
 
 ## mukta-m0-p187-v4672
-[placement+procedure](nyāsa+vidhiṃ) [having-done](kṛtvā) [afterwards](paścāt) [worship](pūjāṃ) [one-should-perform](samācaret)
+[nyāsa-rite](nyāsavidhiṃ) [having-done](kṛtvā) [afterwards](paścāt) [worship](pūjāṃ) [perform](samācaret)
 
 ## mukta-m0-p187-v4673
-[in-waters](apsu) [in-fire](agnau) [in-heart](hṛdaye) [in-sun](sūrye) [on-altar](sthaṇḍile) [in-images](pratimāsu) [and](ca)
+[in-waters](apsu) [in-fire](agnau) [in-heart](hṛdaye) [in-sun](sūrye) [in-altar-ground](sthaṇḍile) [in-images](pratimāsu) [ca](ca)
 
 ## mukta-m0-p187-v4674
 [viṣṇu](viṣṇuḥ) [of-yogins](yogināṃ) [in-heart](hṛdaye) [hari](hariḥ)
 
 ## mukta-m0-p187-v4675
-[in-images](pratimāsu) [of-little+intellect](alpa+buddhīnāṃ) [six+kinds](ṣaṭ+prakārāḥ) [and](ca) [they](tāḥ) [are-remembered](smṛtāḥ)
+[in-images](pratimāsu) [small-minded](alpabuddhīnāṃ) [six-kinds](ṣaṭprakārāḥ) [ca](ca) [those](tāḥ) [remembered](smṛtāḥ)

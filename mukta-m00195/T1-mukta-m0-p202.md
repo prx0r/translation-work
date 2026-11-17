@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p202-v5026
-[rudra](rudra) [wishing-to-harm](rīriṣaḥ)
+[rudra-riṣaḥ](rudrarīriṣaḥ)
 
 ## mukta-m0-p202-v5027
-[from-coldness](śītalā) [and-others](ādibhyaḥ) [health](ārogyaṃ) [is-born](jāyate) [in-an-instant](kṣaṇāt)
+[śītala-ādibhyaḥ](śītalādibhya) [ārogyam](ārogyaṃ) [jāyate](jāyate) [kṣaṇāt](kṣaṇāt)
 
 ## mukta-m0-p202-v5028
-[for-accomplishment](siddhaye) [of-purpose](kārya)
+[kārya-siddhaye](kāryasiddhaye)
 
 ## mukta-m0-p202-v5029
-[having-purified](saṃśodhya) [and](ca) [oneself](ātmānaṃ) [pure-bodied](pūta+kāyaḥ) [muttering](japan) [one-should-practice](caret)
+[saṃśodhya](saṃśodhya) [ca](cā) [ātmānam](ātmānaṃ) [pūta-kāyaḥ](pūtakāyo) [japan](japañ) [caret](caret)
 
 ## mukta-m0-p202-v5030
-[alms](bhikṣā) [and](añca) [ghee](ājya) [and](añ) [muttering](japaḥ) [of-him](tasya) [should-be](bhavet) [ten-thousand](ayuta) [in-number](saṃkhyakaḥ)
+[bhikṣām](bhikṣāñ) [ca](cā) [ājyam](ājyañ) [japaḥ](japastasya) [bhavet](bhaved) [ayuta-saṃkhyakaḥ](ayutasaṃkhyakaḥ)
 
 ## mukta-m0-p202-v5031
-[and](tu) [day-and-night](aho+rātra) [and](añ) [muttering](japaḥ) [to-be-done](kāryaḥ) [uninterruptedly](nirantaram)
+[tu](tvahorātrañ) [ahorātram](ahorātrañ) [japaḥ](japaḥ) [kāryaḥ](kāryo) [nirantaram](nirantaram)
 
 ## mukta-m0-p202-v5032
-[with-great-vyāhṛtis](mahā+vyāhṛtibhiḥ) [afterwards](paścāt) [that-much](tāvat) [indeed](eva) [ghee](ghṛtaṃ) [one-should-offer](hunet)
+[mahā-vyāhṛtibhiḥ](mahāvyāhṛtibhiḥ) [paścāt](paścāt) [tāvat](tāvadeva) [eva](eva) [ghṛtam](ghṛtaṃ) [hunet](hunet)
 
 ## mukta-m0-p202-v5033
-[rite](karma) [one-should-perform](prakurvīta) [expiation](prāyaścittaṃ) [again](punaḥ) [and-again](punaḥ)
+[karma](karma) [prakurvīta](prakurvīta) [prāyaścittam](prāyaścittaṃ) [punaḥ](punaḥ) [punaḥ](punaḥ)
 
 ## mukta-m0-p202-v5034
-[of-death](maraṇa) [and-other](ādi) [applications](prayogāṇām) [should-be](bhavet) [sin](pātaka) [release](mocanam)
+[maraṇa-ādi-prayogāṇām](maraṇādiprayogāṇām) [bhavet](bhavet) [pātaka-mocanam](pātakamocanam)
 
 ## mukta-m0-p202-v5035
-[fuel-sticks](samidhā) [and](añca) [herbs](auṣadhyaḥ) [in-all](sarva) [rites](karmasu)
+[samidhām](samidhāñ) [ca](cā) [oṣadhyaḥ](oṣadhyaḥ) [sarva-karmasu](sarvakarmasu)
 
 ## mukta-m0-p202-v5036
-[one-should-offer](juhuyāt) [desiring-prosperity](lakṣmī+kāmaḥ) [or](vā) [from-vision](darśanāt) [of-Śiva](śiva)
+[juhuyāt](juhuyāt) [lakṣmī-kāmaḥ](lakṣmīkāmo) [vā](vā) [śiva-darśanāt](śivadarśanāt)
 
 ## mukta-m0-p202-v5037
-[of-those-smeared](āktānāṃ) [with-ghee](ghṛta) [of-all](sarva) [purpose](arthasya) [for-prosperity](smṛddhaye)
+[ghṛta-aktānām](ghṛtāktānāṃ) [sarva-arthasya](sarvārthasya) [smṛddhaye](smṛddhaye)
 
 ## mukta-m0-p202-v5038
-[thousand](sahasra) [eightfold](aṣṭakam) [with-reverence](ādarāt)
+[sahasra-aṣṭakam](sahasrāṣṭakam) [ādarāt](ādarāt)
 
 ## mukta-m0-p202-v5039
-[one-may-obtain](labheta) [eight-thousand](aṣṭa+sahasrakam)
+[labheta](labhetā) [aṣṭa-sahasrakam](aṣṭasahasrakam)
 
 ## mukta-m0-p202-v5040
-[facing-wife](bhāryā+mukī) [to-me](me) [let-be](bhavatu) [indeed](hi) [for-this](etat) [purpose](arthe) [one-should-offer](hunet) [being-pure](śuciḥ)
+[bhāryā](bhāryām) [mukī](mukī) [me](me) [bhavatu](bhavatu) [hi](hy) [edarthe](edarthe) [hunet](hunec) [śuciḥ](chuciḥ)
 
 ## mukta-m0-p202-v5041
-[having-calved](sūtā) [bull](vṛṣabhaṃ) [desiring-male](vāsitā) [also](api) [cow](gauḥ)
+[sūtā](sūtā) [vṛṣabham](vṛṣabhaṃ) [vāsitā](vāsitā) [api](api) [gauḥ](gauḥ)
 
 ## mukta-m0-p202-v5042
-[eight-more-than-hundred](aṣṭa+uttara+śataṃ) [having-offered](hutvā) [likewise](tathā) [and](ca) [eight-thousand](aṣṭa+sahasrakam)
+[aṣṭottara-śatam](aṣṭottaraśataṃ) [hutvā](hutvā) [tathā](tathā) [ca](cā) [aṣṭa-sahasrakam](aṣṭasahasrakam)
 
 ## mukta-m0-p202-v5043
-[long-lived](āyuṣmataḥ) [eight](aṣṭa) [sons](putrān) [and](ca) [one-may-beget](janayet) [not](na) [here](atra) [doubt](saṃśayaḥ)
+[āyuṣmataḥ](āyuṣmato) [aṣṭa-putrān](aṣṭaputrāṃś) [ca](ca) [janayet](janayet) [na](nā) [atra](atra) [saṃśayaḥ](saṃśayaḥ)
 
 ## mukta-m0-p202-v5044
-[desiring-long-life](āyuḥ+kāmaḥ) [eight-thousand](aṣṭa+sāhasraṃ) [long-life](cira+āyuṣṭvaṃ) [he](saḥ) [obtains](vindate)
+[āyuṣ-kāmaḥ](āyuṣkāmo) [aṣṭa-sāhasram](aṣṭasāhasraṃ) [cirāyuṣṭvam](cirāyuṣṭvaṃ) [saḥ](sa) [vindate](vindate)
 
 ## mukta-m0-p202-v5045
-[thousands](sahasrāṇi) [eight](aṣṭa) [one-should-offer](juhuyāt) [if-one-desires](icchet) [small](kṣudrān) [when](yadā) [animals](paśūn)
+[sahasrāṇi](sahasrāṇi) [aṣṭa](aṣṭa) [juhuyāt](juhuyāt) [icchet](icchet) [kṣudrān](kṣudrān) [yadā](yadā) [paśūn](paśūn)
 
 ## mukta-m0-p202-v5046
-[king](nṛpatiḥ) [would-become](bhavet) [subdued](vaśyaḥ) [not](na) [doubt](saṃśayaḥ)
+[nṛpatiḥ](nṛpatir) [bhavet](bhaved) [vaśyaḥ](vaśyo) [na](na) [saṃśayaḥ](saṃśayaḥ)
 
 ## mukta-m0-p202-v5047
-[properly](samyak) [touched](spṛṣṭaḥ) [by-him](tena) [touched](spṛṣṭaḥ) [whoever](yaḥ) [whoever](yaḥ) [that-one](asau) [submissive](vaśa+gaḥ) [would-become](bhavet)
+[samyak-spṛṣṭaḥ](samyakspṛṣṭaḥ) [tena](tena) [spṛṣṭaḥ](spṛṣṭo) [yaḥ](yoyosau) [yaḥ](yaḥ) [asau](asau) [vaśa-gaḥ](vaśago) [bhavet](bhavet)
 
 ## mukta-m0-p202-v5048
-[having-offered](hutvā) [a-hundred-thousand](lakṣaṃ) [treasury-of-splendor](tejaḥ+nidhiḥ) [one-would-become](bhavet)
+[hutvā](hutvā) [lakṣam](lakṣaṃ) [tejo-nidhiḥ](tejonidhir) [bhavet](bhavet)
 
 ## mukta-m0-p202-v5049
-[fuel-sticks](samidhaḥ) [eight-thousand](aṣṭa+sahasrāṇi) [of-enemy](śatroḥ) [eradication](uccāṭanaṃ) [would-be](bhavet)
+[samidhaḥ](samidho) [aṣṭa-sahasrāṇi](aṣṭasahasrāṇi) [śatroḥ](śatror) [uccāṭanam](uccāṭanaṃ) [bhavet](bhavet)
 
 ## mukta-m0-p202-v5050
-[thousand](sahasraṃ) [but](tu) [in-four-directions](catur+dikṣu) [one-should-cast](kṣipet) [then](tataḥ)
+[sahasram](sahasraṃ) [tu](tu) [catur-dikṣu](caturdikṣu) [kṣipet](kṣipet) [tataḥ](tataḥ)
