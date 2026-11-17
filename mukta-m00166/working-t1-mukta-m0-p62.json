@@ -7,12 +7,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "sandhyā",
-"quick_gloss": "dawn-dusk"
-},
-{
-"surface": "iti",
-"quick_gloss": "thus"
+"surface": "sandhyeti",
+"quick_gloss": "sandhyā-iti"
 },
 {
 "surface": "kācana",
@@ -23,12 +19,8 @@
 "quick_gloss": "supreme"
 },
 {
-"surface": "gaditā",
-"quick_gloss": "spoken"
-},
-{
-"surface": "ekasandhaiḥ",
-"quick_gloss": "by-one-bond"
+"surface": "gaditaikasandhaiḥ",
+"quick_gloss": "spoken-one-sandhi-instr"
 }
 ]
 },
@@ -79,7 +71,7 @@
 "tokens": [
 {
 "surface": "tripadāśrayā",
-"quick_gloss": "three-footed-refuge"
+"quick_gloss": "three-foot-refuge"
 }
 ]
 },
@@ -91,7 +83,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "yena",
+"surface": "yeneyaṃ",
 "quick_gloss": "by-whom"
 },
 {
@@ -99,7 +91,7 @@
 "quick_gloss": "this"
 },
 {
-"surface": "niścitam",
+"surface": "niścitaṃ",
 "quick_gloss": "certainly"
 },
 {
@@ -112,7 +104,7 @@
 },
 {
 "surface": "tripadāśrayā",
-"quick_gloss": "three-footed-refuge"
+"quick_gloss": "three-foot-refuge"
 }
 ]
 },
@@ -125,7 +117,7 @@
 "tokens": [
 {
 "surface": "trisandhyā",
-"quick_gloss": "three-junctures"
+"quick_gloss": "three-sandhyā"
 }
 ]
 },
@@ -137,19 +129,15 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "trisandhyā",
-"quick_gloss": "three-junctures"
-},
-{
-"surface": "iti",
-"quick_gloss": "thus"
+"surface": "trisandhyeti",
+"quick_gloss": "three-sandhyā-iti"
 },
 {
 "surface": "gītā",
 "quick_gloss": "sung"
 },
 {
-"surface": "hitāya",
+"surface": "hitāyāstu",
 "quick_gloss": "for-welfare"
 },
 {
@@ -183,8 +171,8 @@
 "quick_gloss": "goddess"
 },
 {
-"surface": "jayatyatitarām",
-"quick_gloss": "is-victorious-exceedingly"
+"surface": "jayatyatitarāṃ",
+"quick_gloss": "conquers-exceedingly"
 },
 {
 "surface": "tripadī",
@@ -218,7 +206,7 @@
 "tokens": [
 {
 "surface": "sandhātrī",
-"quick_gloss": "bond-maker"
+"quick_gloss": "binder"
 },
 {
 "surface": "bodhadugdhasya",
@@ -230,15 +218,11 @@
 },
 {
 "surface": "naḥ",
-"quick_gloss": "to-us"
+"quick_gloss": "us"
 },
 {
-"surface": "kṛpayā",
-"quick_gloss": "by-mercy"
-},
-{
-"surface": "avatāt",
-"quick_gloss": "protect"
+"surface": "kṛpayāvatāt",
+"quick_gloss": "by-mercy-protect"
 }
 ]
 },
@@ -251,7 +235,7 @@
 "tokens": [
 {
 "surface": "suparvā",
-"quick_gloss": "well-jointed"
+"quick_gloss": "good-joint"
 }
 ]
 },
@@ -268,15 +252,11 @@
 },
 {
 "surface": "jayatyeṣā",
-"quick_gloss": "is-victorious-this"
+"quick_gloss": "conquers-this"
 },
 {
-"surface": "suparvā",
-"quick_gloss": "well-jointed"
-},
-{
-"surface": "akharvagarvabhūḥ",
-"quick_gloss": "destroyer-of-dwarf-pride"
+"surface": "suparvākharvagarvabhūḥ",
+"quick_gloss": "good-joint-dwarf-pride-destroyer"
 }
 ]
 },
@@ -287,6 +267,14 @@
 "quick_english": "",
 "quick_english_source": "t1parse",
 "tokens": [
+{
+"surface": "p.",
+"quick_gloss": "page"
+},
+{
+"surface": "196",
+"quick_gloss": "196)"
+},
 {
 "surface": "sāmagāyanī",
 "quick_gloss": "sāma-singer"
@@ -301,16 +289,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "svarasaṃghamasaṅgabhaṅguram",
-"quick_gloss": "melody-union-unattached-breaking"
+"surface": "svarasaṃghamasaṅgabhaṅguraṃ",
+"quick_gloss": "svara-saṃgha-ma-saṅga-bhaṅguram"
 },
 {
 "surface": "yā",
-"quick_gloss": "which"
+"quick_gloss": "who"
 },
 {
 "surface": "hṛdayasthā",
-"quick_gloss": "in-heart"
+"quick_gloss": "heart-abiding"
 },
 {
 "surface": "mama",
@@ -352,7 +340,7 @@
 },
 {
 "surface": "nayatu",
-"quick_gloss": "may-it-lead"
+"quick_gloss": "lead"
 },
 {
 "surface": "sthairyaṃ",
@@ -381,7 +369,7 @@
 "tokens": [
 {
 "surface": "bālikā",
-"quick_gloss": "young-girl"
+"quick_gloss": "girl"
 }
 ]
 },
@@ -397,20 +385,12 @@
 "quick_gloss": "plays"
 },
 {
-"surface": "svayam",
-"quick_gloss": "herself"
-},
-{
-"surface": "idam",
-"quick_gloss": "this"
-},
-{
-"surface": "āgatā",
-"quick_gloss": "arrived"
+"surface": "svayamidantvamāgatā",
+"quick_gloss": "itself-this-thus-come"
 },
 {
 "surface": "yā",
-"quick_gloss": "which"
+"quick_gloss": "who"
 },
 {
 "surface": "balaṃ",
@@ -422,11 +402,11 @@
 },
 {
 "surface": "karotu",
-"quick_gloss": "may-it-make"
+"quick_gloss": "make"
 },
 {
 "surface": "bālikā",
-"quick_gloss": "young-girl"
+"quick_gloss": "girl"
 }
 ]
 },
@@ -439,7 +419,7 @@
 "tokens": [
 {
 "surface": "bālā",
-"quick_gloss": "young-girl"
+"quick_gloss": "child"
 }
 ]
 },
@@ -452,7 +432,7 @@
 "tokens": [
 {
 "surface": "bālā",
-"quick_gloss": "young-girl"
+"quick_gloss": "child"
 },
 {
 "surface": "balābalanidhiḥ",
@@ -460,7 +440,7 @@
 },
 {
 "surface": "pariśarmadāstu",
-"quick_gloss": "may-it-give-rest"
+"quick_gloss": "comfort-giver-be"
 }
 ]
 },
@@ -473,7 +453,7 @@
 "tokens": [
 {
 "surface": "bālakrīḍā",
-"quick_gloss": "child's-play"
+"quick_gloss": "child-play"
 }
 ]
 },
@@ -490,15 +470,15 @@
 },
 {
 "surface": "prasiddheha",
-"quick_gloss": "famous-here"
+"quick_gloss": "well-known-here"
 },
 {
 "surface": "bālakrīḍā",
-"quick_gloss": "child's-play"
+"quick_gloss": "child-play"
 },
 {
 "surface": "jayatyasau",
-"quick_gloss": "is-victorious-that"
+"quick_gloss": "conquers-that"
 }
 ]
 },
@@ -524,23 +504,19 @@
 "tokens": [
 {
 "surface": "brahmādīnāṃ",
-"quick_gloss": "of-Brahmā-etc"
+"quick_gloss": "of-brahmā-etc"
 },
 {
 "surface": "svayaṃ",
-"quick_gloss": "herself"
+"quick_gloss": "itself"
 },
 {
-"surface": "tattā",
-"quick_gloss": "thus"
-},
-{
-"surface": "arjitā",
-"quick_gloss": "bestowed"
+"surface": "tattāvarjitā",
+"quick_gloss": "that-tattva-bestowed"
 },
 {
 "surface": "sā",
-"quick_gloss": "she"
+"quick_gloss": "that"
 },
 {
 "surface": "sanātanī",

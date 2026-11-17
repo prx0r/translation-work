@@ -2,13 +2,13 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p65-v1601
-[satisfaction+giving](tuṣṭidā)
+[satisfaction-giving](tuṣṭidā)
 
 ## mukta-m0-p65-v1602
-[abandoned](pyujjhito) [in-heart](hṛdi) [always](sadāstu) [satisfaction-giving](tuṣṭidā)
+[abandoned](pyujjhito) [in-heart](hṛdi) [always](sadā) [let-be](stu) [satisfaction-giving](tuṣṭidā)
 
 ## mukta-m0-p65-v1603
-[nourishment+giving](puṣṭidā)
+[nourishment-giving](puṣṭidā)
 
 ## mukta-m0-p65-v1604
 [by-whom](kena) [by-whom](kenāsi) [in-form](rūpeṇa) [to-whom](kasmai) [to-whom](kasmai) [not](na) [nourishment-giving](puṣṭidā)
@@ -20,16 +20,16 @@
 [you-alone](tvamevaikā) [indeed](tu) [true-form](sadrūpā) [by-nature](svabhāvena) [consciousness-imperishable](cidakṣayā)
 
 ## mukta-m0-p65-v1607
-[resolution](niṣṭhā)
+[steadfastness](niṣṭhā)
 
 ## mukta-m0-p65-v1608
-[resolution](niṣṭhā) [compassion](kṛpāṃ) [as-long-as](yāvadiyaṃ) [not](na) [bears](dhatte)
+[steadfastness](niṣṭhā) [compassion](kṛpāṃ) [as-long-as](yāvadiyaṃ) [not](na) [bears](dhatte)
 
 ## mukta-m0-p65-v1609
 [truth-dear](satyapriyā)
 
 ## mukta-m0-p65-v1610
-[truth-dear](satyapriyā) [she](sā) [dear-one](priyam) [may-extend](ātanotu)
+[truth-dear](satyapriyā) [she](sā) [dear-extend](priyamātanotu)
 
 ## mukta-m0-p65-v1611
 [wisdom](prajñā)
@@ -41,37 +41,37 @@
 [world-lady](lokeśī)
 
 ## mukta-m0-p65-v1614
-[world-lady](lokeśī) [me](māṃ) [grief-free](śokahīnaṃ) [may-make](karotu)
+[world-lady](lokeśī) [me](māṃ) [grief-free](śokahīnaṃ) [make](karotu)
 
 ## mukta-m0-p65-v1615
 [god-supreme](surottamā)
 
 ## mukta-m0-p65-v1616
-[god-supreme](surottamā) [may-make](karotu) [him](enaṃ) [all-supreme-goal](sarvottamagatiṃ) [person](janam)
+[god-supreme](surottamā) [make](karotvenaṃ) [all-supreme-path](sarvottamagatiṃ) [person](janam)
 
 ## mukta-m0-p65-v1617
 [with-poison](saviṣā)
 
 ## mukta-m0-p65-v1618
-[with-poison](saviṣā) [by-name-alone](nāmamātreṇa) [know](jāne) [like-ḍittha](ḍitthaḍavitthavat)
+[with-poison](saviṣā) [by-name-alone](nāmamātreṇa) [know](jāne) [ḍitthaḍavitthavat](ḍitthaḍavitthavat)
 
 ## mukta-m0-p65-v1619
 [flaming](jvālinī)
 
 ## mukta-m0-p65-v1620
-[she](sā) [flaming](jvālinī) [time-fear](kālabhayaṃ) [may-remove](harāsya)
+[she](sā) [flaming](jvālinī) [time-fear](kālabhayaṃ) [remove-his](harāsya)
 
 ## mukta-m0-p65-v1621
 [flame](jvālā)
 
 ## mukta-m0-p65-v1622
-[blazes](jājvalīti) [standing-alone](sthitaikaiva) [flame](jvālā) [she](sā) [strength-giving](baladāstu) [to-us](naḥ)
+[blazes](jājvalīti) [standing-alone](sthitaikaiva) [flame](jvālā) [she](sā) [strength-giving](baladāstu) [us](naḥ)
 
 ## mukta-m0-p65-v1623
 [poison-delusion-pain-destroying](viṣamohārtināśinī)
 
 ## mukta-m0-p65-v1624
-[death-conquering](mṛtyujit) [cowherd](paśupaḥ) [she-this](seyaṃ) [poison-delusion-pain-destroying](viṣamohārtināśinī)
+[death-conquering](mṛtyujit) [cattle-lord](paśupaḥ) [she-this](seyaṃ) [poison-delusion-pain-destroying](viṣamohārtināśinī)
 
 ## mukta-m0-p65-v1625
 [poison-enemy](viṣāriḥ)

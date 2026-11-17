@@ -2,43 +2,43 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p63-v1551
-[garbhādhāradharā](garbhādhāradharā) [p](p) [197](197) [garbhādhāradharā](garbhādhāradharā)
+[page](p.) [197](197) [garbha+ādhāra+dhara](garbhādhāradharā)
 
 ## mukta-m0-p63-v1552
-[garbhaṃ](garbhaṃ) [dadhyānna](dadhyānna) [cet](cet) [kuryād](kuryād) [garbhādhāradharā](garbhādhāradharā) [dayām](dayām)
+[garbha](garbhaṃ) [dadhyāt](dadhyānna) [na](na) [cet](cet) [kuryāt](kuryād) [garbha+ādhāra+dhara](garbhādhāradharā) [dayā](dayām)
 
 ## mukta-m0-p63-v1553
-[śūnyā](śūnyā)
+[śūnya](śūnyā)
 
 ## mukta-m0-p63-v1554
-[śūnyeti](śūnyeti) [sā](sā) [kathaṃ](kathaṃ) [gītā](gītā) [sadāpūrṇā](sadāpūrṇā) [maheśvarī](maheśvarī)
+[śūnya](śūnyeti) [iti](iti) [sā](sā) [katham](kathaṃ) [gīta](gītā) [sadā+pūrṇa](sadāpūrṇā) [maheśvarī](maheśvarī)
 
 ## mukta-m0-p63-v1555
-[garbhāśayanivāsinī](garbhāśayanivāsinī)
+[garbha+āśaya+nivāsinī](garbhāśayanivāsinī)
 
 ## mukta-m0-p63-v1556
-[garbhasya](garbhasya) [daśamāssveṣā](daśamāssveṣā) [garbhāśayanivāsinī](garbhāśayanivāsinī)
+[garbhasya](garbhasya) [daśama](daśamāssveṣā) [garbha+āśaya+nivāsinī](garbhāśayanivāsinī)
 
 ## mukta-m0-p63-v1557
-[surārighātinī](surārighātinī) [kṛtyā](kṛtyā)
+[surāri+ghātinī](surārighātinī) [kṛtyā](kṛtyā)
 
 ## mukta-m0-p63-v1558
-[surārighātinī](surārighātinī) [kṛtyā](kṛtyā) [kṛpayā](kṛpayā) [nijayā](nijayā) [bhavet](bhavet)
+[surāri+ghātinī](surārighātinī) [kṛtyā](kṛtyā) [kṛpayā](kṛpayā) [nijayā](nijayā) [bhavet](bhavet)
 
 ## mukta-m0-p63-v1559
 [pūtanā](pūtanā)
 
 ## mukta-m0-p63-v1560
-[balī](balī) [bhūtvāhanaddaityānabalaḥ](bhūtvāhanaddaityānabalaḥ) [pūtaneti](pūtaneti) [sā](sā)
+[balī](balī) [bhūtvā](bhūtvāhanaddaityānabalaḥ) [pūtanā](pūtaneti) [sā](sā)
 
 ## mukta-m0-p63-v1561
 [tilottamā](tilottamā)
 
 ## mukta-m0-p63-v1562
-[yasyāḥ](yasyāḥ) [śivāyāstu](śivāyāstu) [tilottameti](tilottameti) [sā](sā)
+[yasyāḥ](yasyāḥ) [śivāyāḥ](śivāyāstu) [tilottamā](tilottameti) [sā](sā)
 
 ## mukta-m0-p63-v1563
-[p](p) [198](198) [lajjā](lajjā)
+[page](p.) [199](199) [lajjā](lajjā)
 
 ## mukta-m0-p63-v1564
 [lajjā](lajjā) [na](na) [jāne](jāne) [parameśvarī](parameśvarī) [tvam](tvam)
@@ -47,31 +47,31 @@
 [rasavatī](rasavatī)
 
 ## mukta-m0-p63-v1566
-[rasamātrāvaśeṣaḥ](rasamātrāvaśeṣaḥ) [syāccet](syāccet) [syādrasavatī](syādrasavatī) [dayā](dayā)
+[rasa+mātra+avaśeṣaḥ](rasamātrāvaśeṣaḥ) [syāt](syāccet) [syāt](syādrasavatī) [dayā](dayā)
 
 ## mukta-m0-p63-v1567
 [nandā](nandā)
 
 ## mukta-m0-p63-v1568
-[kathaṃ](kathaṃ) [na](na) [syurjanāḥ](syurjanāḥ) [sarve](sarve) [yena](yena) [nandā](nandā) [samarcitā](samarcitā)
+[katham](kathaṃ) [na](na) [syuḥ](syurjanāḥ) [sarve](sarve) [yena](yena) [nandā](nandā) [samarcitā](samarcitā)
 
 ## mukta-m0-p63-v1569
 [bhavānī](bhavānī)
 
 ## mukta-m0-p63-v1570
-[bhavatvaṃ](bhavatvaṃ) [navānandarāśiṃ](navānandarāśiṃ) [sucitram](sucitram)
+[bhavatvam](bhavatvaṃ) [nava+ānanda+rāśim](navānandarāśiṃ) [sucitram](sucitram)
 
 ## mukta-m0-p63-v1571
-[pāpanāśinī](pāpanāśinī)
+[pāpa+nāśinī](pāpanāśinī)
 
 ## mukta-m0-p63-v1572
-[yadīyayā](yadīyayā) [śivā](śivā) [seyaṃ](seyaṃ) [kīrtitā](kīrtitā) [pāpanāśinī](pāpanāśinī)
+[yadīyayā](yadīyayā) [śivā](śivā) [seyam](seyaṃ) [kīrtitā](kīrtitā) [pāpa+nāśinī](pāpanāśinī)
 
 ## mukta-m0-p63-v1573
-[p](p) [199](199) [paṭṭāmbaradharā](paṭṭāmbaradharā)
+[page](p.) [199](199) [paṭṭa+ambara+dhara](paṭṭāmbaradharā)
 
 ## mukta-m0-p63-v1574
-[nīlotpalinyupāsaktā](nīlotpalinyupāsaktā) [padminīva](padminīva) [virājate](virājate)
+[nīlotpalinī+upāsaktā](nīlotpalinyupāsaktā) [padminī+iva](padminīva) [virājate](virājate)
 
 ## mukta-m0-p63-v1575
 [gītiḥ](gītiḥ)

@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p32-v776
-[with-flowers](kusumaiḥ) [in-a-month](māsamātreṇa) [nāga-maidens](nāgakanyāḥ) [gather](sametyatam)
+[flowers](kusumaiḥ) [month](māsa) [measure](mātreṇa) [naga-maidens](nāgakanyāḥ) [assemble](sametyatam)
 
 ## mukta-m0-p32-v777
-[yakṣa+rākṣasa+gandharva+siddha+vidyādhara+women](yakṣarākṣasagandharvasiddhavidyādharāṅganāḥ)
+[yakshas](yakṣa) [rakshasas](rākṣasa) [gandharvas](gandharva) [siddhas](siddha) [vidyadhara-women](vidyādharāṅganāḥ)
 
 ## mukta-m0-p32-v778
-[accomplish](siddhyanti) [by-worship](pūjanāt) [there](tatra) [and](tathā) [at-the-stated-time](tatproktakālataḥ)
+[succeed](siddhyanti) [by-worship](pūjanāt) [there](tatra) [thus](tathā) [that-stated-time](tatproktakālataḥ)
 
 ## mukta-m0-p32-v779
-[with-red-lotuses](raktotpalaiḥ) [for-horse-accomplishment](aśvasiddhyai) [with-water-lilies](kumudaiḥ) [for-donkey-accomplishment](kharasiddhaye)
+[red-lotuses](raktotpalaiḥ) [horse-siddhi](aśvasiddhyai) [white-lotuses](kumudaiḥ) [donkey-siddhi](kharasiddhaye)
 
 ## mukta-m0-p32-v780
-[with-citrons](jambīraiḥ) [for-buffalo-attainment](mahiṣāvāptyai) [with-monkey-jack](lakucaiḥ) [for-goat-accomplishment](ajasiddhaye)
+[citrons](jambīraiḥ) [buffalo-attainment](mahiṣāvāptyai) [lakucha](lakucaiḥ) [goat-siddhi](ajasiddhaye)
 
 ## mukta-m0-p32-v781
-[with-bakula](bakulaiḥ) [for-woman-accomplishment](aṅganāsiddhyai) [with-kalhāra](kalhāraiḥ) [for-son-accomplishment](putrasiddhaye)
+[bakula](bakulaiḥ) [women-siddhi](aṅganāsiddhyai) [kalhara](kalhāraiḥ) [son-siddhi](putrasiddhaye)
 
 ## mukta-m0-p32-v782
-[with-fragrant-flowers](saurabhādyaiḥ) [with-flowers](prasūnaiḥ) [always](nityaṃ) [for-prosperity-accomplishment](saubhāgyasiddhaye)
+[fragrant-etc](saurabhādyaiḥ) [flowers](prasūnaiḥ) [daily](nityaṃ) [auspiciousness-siddhi](saubhāgyasiddhaye)
 
 ## mukta-m0-p32-v783
-[this](etat) [cakra-worship](cakrārcanam) [of-lalitā](lalitā) [daily](nityāyāḥ) [only](eva) [not](nā) [of-others](anyāsām) [that](tam) [practitioner](sādhakam)
+[this](etat) [circle-worship](cakrārcanaṃ) [Lalita-nitya](lalitānityāyāḥ) [only](eva) [not-others](nānyāsām) [that-practitioner](taṃ sādhakam)
 
 ## mukta-m0-p32-v784
-[yakṣa-etc](yakṣetyādayaḥ) [deities](devatā) [specific](viśeṣāḥ) [there](tatra) [heroes](vīrāḥ) [human-accomplished-forms](manuṣyasiddharūpāḥ)
+[yaksha-etc](yakṣetyādayaḥ) [deities](devatā) [special](viśeṣāḥ) [there](tatra) [heroes](vīrāḥ) [human-siddha-forms](manuṣyasiddharūpāḥ)
 
 ## mukta-m0-p32-v785
-[for-chariot-swing-etc-accomplishment](syandanāndolikādisiddhaye)
+[chariot](syandana) [swing](andolikā) [etc-siddhi](ādisiddhaye)
 
 ## mukta-m0-p32-v786
-[until-fruit-attainment](yāvatphalāpti) [or](vā) [with-milk-sugar-ghee-rice-pudding](kṣīraśarkarāghṛtapāyasaiḥ)
+[until-fruit-attainment](yāvatphalāpti) [or](vā) [milk-sugar-ghee-rice-pudding](kṣīraśarkarāghṛtapāyasaiḥ)
 
 ## mukta-m0-p32-v787
-[satisfy](tarpayet) [with-flowers](kusumaiḥ) [with-offerings](sārghyaiḥ) [for-all-calamity-peace](sarvopaplavaśāntaye)
+[satisfy](tarpayet) [flowers](kusumaiḥ) [with-arghya](sārghyaiḥ) [all-calamity-pacification](sarvopaplavaśāntaye)
 
 ## mukta-m0-p32-v788
-[with-milk](dugdhair) [for-health-accomplishment](ārogyasaṃsiddhyai) [with-three](tribhiḥ) [for-lordship-accomplishment](aiśvaryasiddhaye)
+[milk](dugdhair) [health-siddhi](ārogyasaṃsiddhyai) [three](tribhiḥ) [lordship-siddhi](aiśvaryasiddhaye)
 
 ## mukta-m0-p32-v789
-[for-all-purpose-accomplishment](sarvārthasiddhaye) [with-water](toyaiḥ) [sprinkle](abhiṣiñcet) [great-goddess](maheśvarīm)
+[all-purpose-siddhi](sarvārthasiddhaye) [water](toyaiḥ) [bathe](abhiṣiñcet) [Maheshvari](maheśvarīm)
 
 ## mukta-m0-p32-v790
-[dwelling](nivasaṃs) [there](tatra) [with-those-flowers](tatpuṣpaiḥ) [becomes](jāyate) [another-cupid](manmatho'paraḥ)
+[dwelling](nivasan) [there](tatra) [those-flowers](tatpuṣpaiḥ) [born](jāyate) [another-Cupid](manmatho'paraḥ)
 
 ## mukta-m0-p32-v791
-[spells](mantrāḥ) [sent-by-another](pareritāḥ) [averted](vimukhāḥ) [those](tān) [devour](grasanti) [indeed](vai)
+[witchcraft](kṛtyāḥ) [sent](pareritāḥ) [mantras](mantrāḥ) [averted](vimukhāḥ) [them](tān) [devour](grasanti) [indeed](vai)
 
 ## mukta-m0-p32-v792
 [all-offerings](sarvanaivedyāni) [thus-meaning](ityarthaḥ)
 
 ## mukta-m0-p32-v793
-[with-daily-worship-mantras](nityapūjāmantraiḥ) [in-that-order](tatkrameṇa) [give](dadyāt) [thereby](tena) [all-calamity-peace](sarvopaplavaśāntiḥ) [becomes](bhavati)
+[daily-worship-mantras](nityapūjāmantraiḥ) [that-order](tatkrameṇa) [give](dadyāt) [thereby](tena) [all-calamity-pacification](sarvopaplavaśāntiḥ) [becomes](bhavati)
 
 ## mukta-m0-p32-v794
-[with-three-stated](tribhiḥ proktaiḥ) [for-delight](prītyai) [for-self-completion](svanirvṛttaye)
+[three](tribhiḥ) [stated](proktaiḥ) [pleasure](prītyai) [own-completion](svanirvṛttaye)
 
 ## mukta-m0-p32-v795
-[worshipping](pūjayan) [desired](niṣṭam) [all](akhilaṃ) [obtains](labhate) [here](atra) [and-there](paratra) [and](ca)
+[worshipping](pūjayan) [desired](niṣṭam) [all](akhilaṃ) [obtains](labhate) [here](atra) [otherworld](paratra) [and](ca)
 
 ## mukta-m0-p32-v796
-[worship](pūjayet) [in-a-month](māsamātreṇa) [from-previous-birth-sins](prāgjanmāghaiḥ) [is-freed](vimucyate)
+[worship](pūjayet) [month-measure](māsamātreṇa) [previous-birth-sins](prāgjanmāghaiḥ) [released](vimucyate)
 
 ## mukta-m0-p32-v797
-[freed](vimuktaḥ) [from-all-sin-masses](sarvapāpaughaiḥ) [her](tām) [sees](paśyati) [with-eye](ca cakṣuṣā)
+[released](vimuktaḥ) [all-sin-masses](sarvapāpaughaiḥ) [her](tāṃ) [sees](paśyati) [eye](cakṣuṣā)
 
 ## mukta-m0-p32-v798
-[is-freed](mucyate) [from-sin-deed-etc-sufferings](pāpakṛtyādiduḥkhaiḥ) [even-terrible](ghoratarairapi)
+[released](mucyate) [sin-deed-etc-sufferings](pāpakṛtyādiduḥkhaiḥ) [terrible](ghorataraiḥ) [even](api)
 
 ## mukta-m0-p32-v799
-[meditating](bhāvayan) [with-objects](viṣayaiḥ) [with-flowers](puṣpaiḥ) [worshipping](pūjayaṃs) [becomes-identified](tanmayo bhavet)
+[meditating](bhāvayan) [objects](viṣayaiḥ) [flowers](puṣpaiḥ) [worshipping](pūjayan) [that-nature](tanmayaḥ) [becomes](bhavet)
 
 ## mukta-m0-p32-v800
-[sixfold-worship](ṣaṭprakārabhajanam) [instructs](upadiśati) [there](tatra) [with-those-flowers](tatpuṣpaiḥ) [with-betel-flowers](pūgaprasūnaiḥ)
+[sixfold-worship](ṣaṭprakārabhajanam) [teaches](upadiśati) [there](tatra) [those-flowers](tatpuṣpaiḥ) [betel-flowers](pūgaprasūnaiḥ)
