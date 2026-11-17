@@ -2,7 +2,7 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p125-v3101
-[imitator](anukāriṇe) [obeisance](namaḥ) [good-relative](subāndhavāya) [obeisance](namaḥ) [gourd-lute](tumbavīṇāya) [obeisance](namaḥ)
+[imitator](anukāriṇe) [obeisance](namaḥ) [good-kinsman](subāndhavāya) [obeisance](namaḥ) [gourd-lute](tumbavīṇāya) [obeisance](namaḥ)
 
 ## mukta-m0-p125-v3102
 [great-anger](mahākrodhāya) [obeisance](namaḥ) [upward-semen](ūrddhvaretase) [obeisance](namaḥ)
@@ -23,10 +23,10 @@
 [bondage](bandhanāya) [obeisance](namaḥ) [bond-maker](bandhakartre) [obeisance](namaḥ)
 
 ## mukta-m0-p125-v3108
-[good-bond-release](subandhanavimocanāya) [obeisance](namaḥ) [with-sacrifice-foe](sayajñāraye) [obeisance](namaḥ)
+[good-bond-release](subandhanavimocanāya) [obeisance](namaḥ) [with-sacrifice-enemy](sayajñāraye) [obeisance](namaḥ)
 
 ## mukta-m0-p125-v3109
-[with-desire-foe](sakāmāraye) [obeisance](namaḥ) [great-tusked](mahādaṃṣṭrāya) [obeisance](namaḥ)
+[with-desire-enemy](sakāmāraye) [obeisance](namaḥ) [great-tusk](mahādaṃṣṭrāya) [obeisance](namaḥ)
 
 ## mukta-m0-p125-v3110
 [immortal-lord](amareśāya) [obeisance](namaḥ) [great-god](mahādevāya) [obeisance](namaḥ)
@@ -38,40 +38,40 @@
 [wind-luster](anilābhāya) [obeisance](namaḥ) [shining](cekitāya) [obeisance](namaḥ) [oblation](haviṣe) [obeisance](namaḥ)
 
 ## mukta-m0-p125-v3113
-[unborn-one-foot](ajaikapade) [obeisance](namaḥ) [skull-bearer](kapāline) [obeisance](namaḥ) [Triśaṅku](triśaṅkave) [obeisance](namaḥ)
+[unborn-one-foot](ajaikapade) [obeisance](namaḥ) [skull-bearer](kapāline) [obeisance](namaḥ) [triśaṅku](triśaṅkave) [obeisance](namaḥ)
 
 ## mukta-m0-p125-v3114
 [unconquered](ajitāya) [obeisance](namaḥ) [auspicious](śivāya) [obeisance](namaḥ)
 
 ## mukta-m0-p125-v3115
-[Dhanvantari](dhanvantaraye) [obeisance](namaḥ) [smoke-banner](dhūmaketave) [obeisance](namaḥ)
+[dhanvantari](dhanvantaraye) [obeisance](namaḥ) [smoke-banner](dhūmaketave) [obeisance](namaḥ)
 
 ## mukta-m0-p125-v3116
-[Skanda](skandāya) [obeisance](namaḥ) [Vaiśravaṇa](vaiśravaṇāya) [obeisance](namaḥ) [supporter](dhātre) [obeisance](namaḥ)
+[skanda](skandāya) [obeisance](namaḥ) [son-of-viśravas](vaiśravaṇāya) [obeisance](namaḥ) [supporter](dhātre) [obeisance](namaḥ)
 
 ## mukta-m0-p125-v3117
-[Śakra](śakrāya) [obeisance](namaḥ) [Viṣṇu](viṣṇave) [obeisance](namaḥ) [Mitra](mitrāya) [obeisance](namaḥ)
+[śakra](śakrāya) [obeisance](namaḥ) [viṣṇu](viṣṇave) [obeisance](namaḥ) [friend](mitrāya) [obeisance](namaḥ)
 
 ## mukta-m0-p125-v3118
-[Tvaṣṭṛ](tvaṣṭre) [obeisance](namaḥ) [firm](dhruvāya) [obeisance](namaḥ) [supporter](dharāya) [obeisance](namaḥ)
+[tvaṣṭṛ](tvaṣṭre) [obeisance](namaḥ) [firm](dhruvāya) [obeisance](namaḥ) [supporter](dharāya) [obeisance](namaḥ)
 
 ## mukta-m0-p125-v3119
-[majesty](prabhāvāya) [obeisance](namaḥ) [all-going](sarvagave) [obeisance](namaḥ) [Aryaman](aryamṇe) [obeisance](namaḥ)
+[majesty](prabhāvāya) [obeisance](namaḥ) [all-going](sarvagave) [obeisance](namaḥ) [aryaman](aryamṇe) [obeisance](namaḥ)
 
 ## mukta-m0-p125-v3120
-[Savitṛ](savitre) [obeisance](namaḥ) [sun](ravaye) [obeisance](namaḥ) [dawn-ray](uṣaṅgave) [obeisance](namaḥ)
+[savitṛ](savitre) [obeisance](namaḥ) [sun](ravaye) [obeisance](namaḥ) [dawn-ray](uṣaṅgave) [obeisance](namaḥ)
 
 ## mukta-m0-p125-v3121
-[ordainer](vidhātre) [obeisance](namaḥ) [Māndhātṛ](māndhātre) [obeisance](namaḥ) [being-nourisher](bhūtabhāvanāya) [obeisance](namaḥ)
+[ordainer](vidhātre) [obeisance](namaḥ) [māndhātṛ](māndhātre) [obeisance](namaḥ) [being-nourisher](bhūtabhāvanāya) [obeisance](namaḥ)
 
 ## mukta-m0-p125-v3122
 [mighty](vibhave) [obeisance](namaḥ) [color-manifesting](varṇavibhāvine) [obeisance](namaḥ)
 
 ## mukta-m0-p125-v3123
-[all-desire-quality-bringer](sarvakāmaguṇāvahāya) [obeisance](namaḥ) [lotus-naveled](padmanābhāya) [obeisance](namaḥ)
+[all-desire-quality-bringer](sarvakāmaguṇāvahāya) [obeisance](namaḥ) [lotus-navel](padmanābhāya) [obeisance](namaḥ)
 
 ## mukta-m0-p125-v3124
-[great-womb](mahāgarbbhāya) [obeisance](namaḥ) [moon-faced](candravaktrāya) [obeisance](namaḥ) [wind](anilāya) [obeisance](namaḥ)
+[great-womb](mahāgarbbhāya) [obeisance](namaḥ) [moon-face](candravaktrāya) [obeisance](namaḥ) [wind](anilāya) [obeisance](namaḥ)
 
 ## mukta-m0-p125-v3125
-[fire](analāya) [obeisance](namaḥ) [powerful](balavatenamaḥ) [obeisance](upaśāntāya) [obeisance](namaḥ)
+[fire](analāya) [obeisance](namaḥ) [powerful](balavatenamaḥ) [obeisance](namaḥ) [calmed](upaśāntāya) [obeisance](namaḥ)

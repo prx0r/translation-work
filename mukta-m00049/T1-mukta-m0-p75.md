@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p75-v1851
-[having-meditated](dhyātvā) [thus](evaṃ) [with-folded-hands](prāñjaliḥ) [having-become](bhūtvā) [one-should-invoke](āvāhayet) [oblation+bearer](havyavāhanam)
+[having-meditated](dhyātvā) [thus](evaṃ) [with-folded-hands](prāñjaliḥ) [having-become](bhūtvā) [should-invoke](āvāhayet) [oblation+bearer](havya+vāhanam)
 
 ## mukta-m0-p75-v1852
-[sacrifice](adhvaraṃ) [protect](rakṣa) [protect](rakṣa) [thus](iti) [obeisance](namaḥ) [svāhā](svāhā) [then](tato) [one-should-say](vadet)
+[sacrifice](adhvaraṃ) [protect](rakṣa) [protect](rakṣa) [thus](iti) [obeisance](namaḥ) [svāhā](svāhā) [then](tataḥ) [should-say](vadet)
 
 ## mukta-m0-p75-v1853
-[one-should-meditate](dhyāyet) [thus](iti) [verse-end](||) [19](19)
+[should-meditate](dhyāyet) [thus](iti) [should-meditate](dhyāyet) [should-meditate](dhyāyet)
 
 ## mukta-m0-p75-v1854
-[thus](tathā) [become](bhūtam) [in-that-state](iti) [existing](santam)
+[thus](tathā) [become](bhūtam) [thus+become](tathā+bhūtam) [in-that-state](tathābhūtam)
 
 ## mukta-m0-p75-v1855
-[namaḥ](namaḥ) [svāhā](svāhā) [thus](iti) [mantra](mantro) [is-born](jātaḥ)
+[obeisance](namaḥ) [svāhā](svāhā) [thus](iti) [mantra](mantraḥ) [arisen](jātaḥ)
 
 ## mukta-m0-p75-v1856
-[with-proper+offerings](yathopacāraiḥ) [having-worshipped](sampūjya) [seven](sapta) [tongues](jihvāḥ) [one-should-worship](prapūjayet)
+[as+with-offerings](yathā+upacāraiḥ) [having-worshipped](sampūjya) [seven](sapta) [tongues](jihvāḥ) [should-worship](prapūjayet)
 
 ## mukta-m0-p75-v1857
 [lelāyamāna](lelāyamāna) [thus](iti) [and](ca) [seven](sapta) [tongues](jihvāḥ)
 
 ## mukta-m0-p75-v1858
-[up-to-north+end](uttarāntaṃ) [O-great+goddess](maheśāni) [three-times](tridhā) [sprinkling](prokṣaṇam) [one-should-perform](ācaret)
+[north+ending](uttara+antaṃ) [O-great-goddess](mahā+īśāni) [thrice](tridhā) [sprinkling](prokṣaṇam) [should-perform](ācaret)
 
 ## mukta-m0-p75-v1859
-[three-times](tridhā) [sprinkling-around](paryukṣaṇaṃ) [one-should-do](kuryāt) [then](tato) [of-sacrificial+objects](yajñīyavastunaḥ)
+[thrice](tridhā) [sprinkling-around](paryukṣaṇam) [should-do](kuryāt) [then](tataḥ) [of-sacrificial+object](yajñīya+vastunaḥ)
 
 ## mukta-m0-p75-v1860
-[tongues](jihvāḥ) [one-should-worship](prapūjayet) [them](tāḥ) [duly](samyak)
+[tongues](jihvāḥ) [thoroughly](pra+) [should-worship](pūjayet) [tongues](jihvāḥ)
 
 ## mukta-m0-p75-v1861
-[seven](sapta) [tongues](jihvāḥ) [are](santi) [these](etāḥ)
+[seven](sapta) [tongues](jihvāḥ) [seven+tongues](sapta+jihvāḥ) [flames](jihvāḥ)
 
 ## mukta-m0-p75-v1862
-[sprinkling](prokṣaṇam) [one-should-perform](ācaret) [thus](iti) [duly](samyak)
+[sprinkling](prokṣaṇam) [should-perform](ācaret) [sprinkling](prokṣaṇam) [should-perform](ācaret)
 
 ## mukta-m0-p75-v1863
-[three-times](tridhā) [indeed](eva) [sprinkling-around](paryukṣaṇaṃ) [one-should-do](kuryāt)
+[thrice](tridhā) [indeed](eva) [sprinkling-around](paryukṣaṇam) [should-do](kuryāt)
 
 ## mukta-m0-p75-v1864
-[with-water+placed](udaksaṃsthaiḥ) [with-north+tips](uttarāgraiḥ) [with-east+tips](prāgagraiḥ) [with-other+direction+placed](anyadiksthitaiḥ)
+[with-water+placed](udaka+saṃsthaiḥ) [with-north+pointed](uttara+agraiḥ) [with-east+pointed](prāk+agraiḥ) [in-other+directions+situated](anya+dik+sthitaiḥ)
 
 ## mukta-m0-p75-v1865
-[with-left+thumb+little-finger](vāmāṅguṣṭhakaniṣṭhābhyāṃ) [of-Brahmā](brahmaṇaḥ) [from-arranged+seat](kalpitāsanāt)
+[with-left+thumb+little-finger](vāma+aṅguṣṭha+kaniṣṭhābhyāṃ) [of-Brahmā](brahmaṇaḥ) [from-arranged+seat](kalpita+āsanāt)
 
 ## mukta-m0-p75-v1866
-[thus](iti) [having-said](uktvā) [of-fire](agneḥ) [in-south](dakṣiṇasyāṃ) [one-should-place](nikṣipet) [by-utkara+etc.](utkarādinā)
+[thus+having-said](iti+uktvā) [of-fire](agneḥ) [in-south](dakṣiṇasyāṃ) [should-place](nikṣipet) [with-utkara+etc](utkara+ādinā)
 
 ## mukta-m0-p75-v1867
-[sīdāmi](sīdāmi) [thus](iti) [saying](vadan) [Brahmā](brahmā) [should-enter](viśet) [there](tatra) [facing-north](uttarāmukhaḥ)
+[sīdāmi](sīdāmi) [thus](iti) [saying](vadan) [Brahmā](brahmā) [should-enter](viśet) [there](tatra) [north+facing](uttara+āmukhaḥ)
 
 ## mukta-m0-p75-v1868
-[having-worshipped](sampūjya) [with-fragrance+flower+etc.](gandhapuṣpādyaiḥ) [Brahmā](brahmāṇaṃ) [one-should-pray](prārthayet) [this](idam)
+[having-worshipped](sampūjya) [with-fragrance+flower+etc](gandha+puṣpa+ādyaiḥ) [Brahmā](brahmāṇaṃ) [should-pray](prārthayet) [this](idam)
 
 ## mukta-m0-p75-v1869
-[me](mām) [and](ca) [sacrifice+lord](yajñapatiṃ) [protect](pāhi) [O-deed+witness](karmasākṣin) [obeisance](namaḥ) [be](astu) [to-you](te)
+[me](māñ) [and](ca) [sacrifice+lord](yajña+patim) [protect](pāhi) [O-deed+witness](karma+sākṣin) [obeisance](namaḥ) [be](astu) [to-you](te)
 
 ## mukta-m0-p75-v1870
-[with-east+tips](prāgagraiḥ) [with-darbha-grass](darbhaiḥ) [with-kuśa-grass](kuśaiḥ) [altar](sthaṇḍilaṃ) [one-should-strew](paristaret) [one-should-cover](ācchādayet)
+[with-east+pointed](prāk+agraiḥ) [with-darbha-grass](darbhaiḥ) [with-kuśa-grass](kuśaiḥ) [ground](sthaṇḍilaṃ) [should-strew](paristaret) [should-cover](ācchādayet)
 
 ## mukta-m0-p75-v1871
-[kuśa+blade](kuśapatram) [of-fire](agneḥ) [in-south](dakṣiṇasyāṃ) [direction](diśi) [one-should-place](nikṣipet) [verse-end](||) [29](29)
+[kuśa+blade](kuśa+patram) [of-fire](agneḥ) [in-south](dakṣiṇasyāṃ) [direction](diśi) [should-place](nikṣipet)
 
 ## mukta-m0-p75-v1872
-[he-should-enter](viśet) [there](tatra) [then](tataḥ) [seated](upaviṣṭaḥ)
+[should-enter](viśet) [should-enter](viśet) [should-enter](viśet) [should-enter](viśet)
 
 ## mukta-m0-p75-v1873
-[him](tam) [indeed](eva) [this](idaṃ) [one-should-pray](prārthayet)
+[him](tam) [indeed](eva) [this](idam) [should-pray](prārthayet)
 
 ## mukta-m0-p75-v1874
-[guard](gopāya) [protect](rakṣa) [thus](iti) [pray](prārthaya)
+[protect](gopāya) [guard](rakṣa) [protect](gopāya) [guard](rakṣa)
 
 ## mukta-m0-p75-v1875
-[there](tatra) [darbha+made](darbhamayaṃ) [priest](vipraṃ) [one-should-fashion](kalpayet) [for-sacrifice+accomplishment](yajñasiddhaye)
+[there](tatra) [darbha+made](darbha+mayaṃ) [priest](vipraṃ) [should-arrange](kalpayet) [for-sacrifice+success](yajña+siddhaye)

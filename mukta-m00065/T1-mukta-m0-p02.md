@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p02-v26
-[liṅga](liṅgaṃ) [and](ca) [twofold](dvividhaṃ) [to-be-known](jñeyaṃ) [movable](calaṃ) [and](ca) [indeed](eva) [immovable](acalaṃ) [likewise](tathā)
+[liṅga](liṅgaṃ) [and](ca) [twofold](dvividhaṃ) [to-be-known](jñeyaṃ) [movable](calaṃ) [and](ca)+[indeed](eva)+[immovable](acalaṃ) [likewise](tathā)
 
 ## mukta-m0-p02-v27
-[stable+prosperity+giving](sthiralakṣmīpradaṃ) [golden](haimaṃ) [silver](rājataṃ) [and](ca) [indeed](eva) [kingdom+giving](rājyadam)
+[stable](sthira)+[prosperity](lakṣmī)+[bestowing](pradaṃ) [golden](haimaṃ) [silver](rājataṃ) [and](ca)+[indeed](eva) [kingdom](rājya)+[giving](dam)
 
 ## mukta-m0-p02-v28
-[enmity+causing](vidveṣakārakaṃ) [bell-metal](kāṃsyaṃ) [brass+born](rītijaṃ) [enemy+destroying](śatruvālanam)
+[hatred](vidveṣa)+[causing](kārakaṃ) [bell-metal](kāṃsyaṃ) [brass](rīti)+[born](jaṃ) [enemy](śatru)+[destroying](vālanam)
 
 ## mukta-m0-p02-v29
-[eight+metal+made](aṣṭalohamayaṃ) [liṅga](liṅgaṃ) [leprosy+disease+consumption+bringing](kuṣṭharogakṣayāvaham)
+[eight](aṣṭa)+[metal](loha)+[made](mayaṃ) [liṅga](liṅgaṃ) [leprosy](kuṣṭha)+[disease](roga)+[destruction](kṣaya)+[bringing](āvaham)
 
 ## mukta-m0-p02-v30
-[wax](sikthaṃ) [having-made](kṛtvā) [with-clay](mṛdā) [having-smeared](liptvā) [having-heated](taptvā) [having-removed](udvāsya) [and](ca) [artisan](kārukaḥ)
+[wax](sikthaṃ) [having-made](kṛtvā) [with-clay](mṛdā) [having-coated](liptvā) [having-heated](taptvā)+[having-removed](udvāsya) [and](ca) [artisan](kārukaḥ)
 
 ## mukta-m0-p02-v31
-[with-gold+and-lead](hemāhibhyāṃ) [in-order](kramāt) [with-tin+copper+iron+and-brass](āratāmravaṅgāraghoṣakaiḥ)
+[with-gold](hema)+[and-lead](ahibhyāṃ) [in-order](kramāt)+[tin](āra)+[copper](tāmra)+[zinc](vaṅga)+[iron](ara)+[bell-metal](ghoṣakaiḥ)
 
 ## mukta-m0-p02-v32
-[wood](kāṣṭhaṃ) [having-thrown](kṣiptvā) [firm](dṛḍhaṃ) [that](tat) [then](tu) [stone+rubbed](śilāghṛṣṭaṃ) [with-sand](savālukam)
+[wood](kāṣṭhaṃ) [having-inserted](kṣiptvā) [firm](dṛḍhaṃ) [that](tat)+[indeed](tu) [stone](śilā)+[rubbed](ghṛṣṭaṃ) [with-sand](sa)+[sand](vālukam)
 
 ## mukta-m0-p02-v33
-[with-that](tayā) [salt+filled+water](lavaṇapūrāmbu) [endowed](yuktayā) [should-smear](lepayed) [the-wise](budhaḥ)
+[with-that](tayā) [salt](lavaṇa)+[filled](pūra)+[water](ambu) [endowed-with](yuktayā) [should-smear](lepayet)+[wise-one](budhaḥ)
 
 ## mukta-m0-p02-v34
-[with-small+brush](bālakuñcikayā) [evenness](sāmyaṃ) [should-bring](nayet) [that](tat) [gradually](kramaśaḥ) [slowly](śanaiḥ)
+[with-small](bāla)+[brush](kuñcikayā) [evenness](sāmyaṃ) [should-bring](nayet)+[that](tat)+[gradually](kramaśaḥ) [slowly](śanaiḥ)
 
 ## mukta-m0-p02-v35
-[then](tataḥ) [should-polish](anumārjayet) [with-effort](yatnāt) [with-jewel](maṇinā) [with-madana+waters](madanāmbubhiḥ)
+[then](tataḥ)+[afterward](anumā) [should-polish](rjayet)+[with-effort](yatnāt)+[with-gem](maṇinā) [with-madana](madana)+[waters](ambubhiḥ)
 
 ## mukta-m0-p02-v36
-[should-color](rasayet) [copper+born](tāmrajaṃ) [artisan](śilpī) [with-gold](hāṭakena) [very-beautiful+red](sucārūṇā)
+[should-color](rasayet) [copper](tāmra)+[born](jaṃ) [artisan](śilpī) [with-gold](hāṭakena) [very-beautiful](su)+[reddish](cārūṇā)
 
 ## mukta-m0-p02-v37
-[heavy](guru) [smooth](snigdhaṃ) [soft+to-touch](mṛdusparśe) [sixfold](ṣaḍvidhaṃ) [gold+beautiful](hemaśobhanam)
+[heavy](guru) [smooth](snigdhaṃ) [soft](mṛdu)+[to-touch](sparśe) [sixfold](ṣaḍvidhaṃ) [gold](hema)+[beautiful](śobhanam)
 
 ## mukta-m0-p02-v38
-[metal+born](dhātūdbhavaṃ) [declared](samākhyātaṃ) [jewel+born+and-so-forth](ratnajādi) [I-speak](vadāmi) [now](ataḥ)
+[metal](dhātu)+[originated](udbhavaṃ) [declared](samākhyātaṃ) [jewel](ratna)+[born](ja)+[and-so-forth](ādi) [I-speak](vadāmi)+[now](ataḥ)
 
 ## mukta-m0-p02-v39
-[happiness+making](sukhakṛt) [topaz+born](puṣparāgotthaṃ) [cat's-eye](vaidūryaṃ) [enemy+pride+destroying](śatrudarpahṛt)
+[happiness](sukha)+[making](kṛt)+[topaz](puṣparāga)+[born](utthaṃ) [cat's-eye](vaidūryaṃ) [enemy](śatru)+[pride](darpa)+[destroying](hṛt)
 
 ## mukta-m0-p02-v40
-[liṅga](liṅgaṃ) [emerald](mārakataṃ) [for-nourishment](puṣṭyai) [crystal](sphaṭikaṃ) [all+desire+giving](sarvakāmadam)
+[liṅga](liṅgaṃ) [emerald](mārakataṃ) [for-nourishment](puṣṭyai) [crystal](sphaṭikaṃ) [all](sarva)+[desire](kāma)+[giving](dam)
 
 ## mukta-m0-p02-v41
-[coral](vaidrumaṃ) [for-subjugation+and-wealth](vaśyakamārthaṃ) [ruby](kārketanam) [enemy+destroying](amitrahṛt)
+[coral](vaidrumaṃ) [subjugation](vaśyaka)+[purpose](mārthaṃ) [ruby](kārketanam)+[enemy](amitra)+[destroying](hṛt)
 
 ## mukta-m0-p02-v42
-[strength+giving](baladaṃ) [living-being+born](jīvajātījaṃ) [pearl](ṭaiṭṭibhaṃ) [enemy+crushing](śatrumardanam)
+[strength](bala)+[giving](daṃ) [living-being](jīva)+[born](jāti)+[born](jaṃ) [pearl](ṭaiṭṭibhaṃ) [enemy](śatru)+[crushing](mardanam)
 
 ## mukta-m0-p02-v43
-[thus](iti) [artificial+liṅgas](prasthānaliṅgāni) [purity+and-measure](śuddhimānāni) [from-here](ataḥ) [further](param)
+[thus](iti) [movable](prasthāna)+[liṅgas](liṅgāni) [purity](śuddhi)+[measurements](mānāni)+[now](ataḥ) [further](param)
 
 ## mukta-m0-p02-v44
-[by-artisans](kārukaiḥ) [fashioned](ghaṭitaṃ) [and](ca) [which](yat) [that](tat) [liṅga](liṅgaṃ) [constructed](nirmitaṃ) [remembered](smṛtam)
+[by-artisans](kārukaiḥ)+[fashioned](ghaṭitaṃ) [and](yat)+[which](ca) [that](tat)+[liṅga](liṅgaṃ) [constructed](nirmitaṃ) [remembered](smṛtam)
 
 ## mukta-m0-p02-v45
-[that](tat) [to-be-worshipped](pūjyaṃ) [by-kings](rājabhiḥ) [with-effort](yatnāt) [by-enjoyment+and-liberation+seekers](bhuktimuktyarthibhiḥ) [always](sadā)
+[that](tat)+[to-be-worshipped](pūjyaṃ) [by-kings](rājabhiḥ)+[with-effort](yatnāt)+[by-those-desiring-enjoyment](bhukti)+[and-liberation](mukti)+[seekers](arthibhiḥ) [always](sadā)
 
 ## mukta-m0-p02-v46
-[upward+and-downward+faced](ūrdhvādhovadanaṃ) [long](dīrgham) [below](adhaḥ) [thick](sthūlaṃ) [and](ca) [lusterless](niṣprabham)
+[upward](ūrdhva)+[and-downward](adhaḥ)+[faced](vadanaṃ) [long](dīrgham)+[below](adhaḥ) [thick](sthūlaṃ) [and](ca) [lusterless](niṣprabham)
 
 ## mukta-m0-p02-v47
-[with-hole](chidraṃ) [and](ca) [cracked](sphuṭitaṃ) [trembling](trastaṃ) [with-flaw](śalyānvitaṃ) [by-gods+abandoned](surojjhitam)
+[perforated](chidraṃ) [and](ca) [cracked](sphuṭitaṃ) [trembling](trastaṃ) [splinter](śalya)+[possessed](anvitaṃ) [by-gods](sura)+[abandoned](ujjhitam)
 
 ## mukta-m0-p02-v48
-[kingdom+lineage+people+village](rāṣṭragotrajanagrāma) [wealth+friends+sons](dhanamitrasutān) [also](api)
+[kingdom](rāṣṭra)+[family](gotra)+[people](jana)+[village](grāma) [wealth](dhana)+[friends](mitra)+[sons](sutān)+[also](api)
 
 ## mukta-m0-p02-v49
-[disease](rogaṃ) [defeat+agitation](parājayodvegaṃ) [people+hatred](janadveṣaṃ) [strife](kaliṃ) [likewise](tathā)
+[disease](rogaṃ) [defeat](parājaya)+[agitation](udvegaṃ) [people](jana)+[hatred](dveṣaṃ) [strife](kaliṃ) [likewise](tathā)
 
 ## mukta-m0-p02-v50
-[that](tat) [would-be](syāt) [from-faults](doṣaiḥ) [freed](vinirmuktaṃ) [firm](dṛḍhaṃ) [smooth](snigdhaṃ) [radiant](prabhānvitam)
+[that](tat)+[should-be](syāt)+[by-faults](doṣaiḥ)+[freed](vinirmuktaṃ) [firm](dṛḍhaṃ) [smooth](snigdhaṃ) [radiant](prabhā)+[possessed](anvitam)
