@@ -19,8 +19,12 @@
 "quick_gloss": "to-be-given"
 },
 {
-"surface": "svakulānanda+hetave",
+"surface": "svakulānanda",
 "quick_gloss": "own-kula+joy+cause"
+},
+{
+"surface": "hetave",
+"quick_gloss": "for-the-sake"
 }
 ]
 },
@@ -33,7 +37,7 @@
 "tokens": [
 {
 "surface": "nārīmātreṣu",
-"quick_gloss": "woman+mere"
+"quick_gloss": "among-women+mere"
 },
 {
 "surface": "vijñeyā",
@@ -152,8 +156,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "paścimānanam",
-"quick_gloss": "western+facing"
+"surface": "paścima",
+"quick_gloss": "western"
+},
+{
+"surface": "ānanam",
+"quick_gloss": "face"
 }
 ]
 },
@@ -294,7 +302,7 @@
 },
 {
 "surface": "prabhā",
-"quick_gloss": "splendor"
+"quick_gloss": "radiance"
 }
 ]
 },
@@ -320,11 +328,11 @@
 "tokens": [
 {
 "surface": "madhyame",
-"quick_gloss": "in-middle"
+"quick_gloss": "in-the-middle"
 },
 {
 "surface": "pūjite",
-"quick_gloss": "worshipped"
+"quick_gloss": "when-worshipped"
 },
 {
 "surface": "bhaktir",
@@ -332,15 +340,19 @@
 },
 {
 "surface": "hīne",
-"quick_gloss": "without"
+"quick_gloss": "in-the-devoid"
 },
 {
 "surface": "api",
 "quick_gloss": "even"
 },
 {
-"surface": "kārya+sādhanam",
+"surface": "kārya",
 "quick_gloss": "task+accomplishment"
+},
+{
+"surface": "sādhanam",
+"quick_gloss": "accomplishment"
 }
 ]
 },
@@ -353,11 +365,15 @@
 "tokens": [
 {
 "surface": "parājitā",
-"quick_gloss": "supreme"
+"quick_gloss": "defeated"
 },
 {
-"surface": "puṣpa+rūpā",
+"surface": "puṣpa",
 "quick_gloss": "flower+form"
+},
+{
+"surface": "rūpā",
+"quick_gloss": "form"
 },
 {
 "surface": "kulāgārañ",
@@ -369,7 +385,7 @@
 },
 {
 "surface": "madhyagam",
-"quick_gloss": "middle"
+"quick_gloss": "middle-going"
 }
 ]
 },
@@ -381,16 +397,24 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "aṇḍa+jātaṃ",
+"surface": "aṇḍa",
 "quick_gloss": "egg+born"
+},
+{
+"surface": "jātaṃ",
+"quick_gloss": "born"
 },
 {
 "surface": "svedajātaṃ",
 "quick_gloss": "sweat+born"
 },
 {
-"surface": "bīja+jātaṃ",
+"surface": "bīja",
 "quick_gloss": "seed+born"
+},
+{
+"surface": "jātaṃ",
+"quick_gloss": "born"
 },
 {
 "surface": "tridhā",
@@ -444,7 +468,7 @@
 "tokens": [
 {
 "surface": "tasya",
-"quick_gloss": "its"
+"quick_gloss": "of-that"
 },
 {
 "surface": "bījaṃ",
@@ -488,8 +512,12 @@
 "quick_gloss": "fire+predominance"
 },
 {
-"surface": "bīja+jātaṃ",
+"surface": "bīja",
 "quick_gloss": "seed+born"
+},
+{
+"surface": "jātaṃ",
+"quick_gloss": "born"
 },
 {
 "surface": "kṣityādhikye",
@@ -517,12 +545,20 @@
 "quick_gloss": "action+yoga"
 },
 {
-"surface": "dhyāna+yogo",
+"surface": "dhyāna",
 "quick_gloss": "meditation+yoga"
 },
 {
-"surface": "bhakti+yogo",
+"surface": "yogo",
+"quick_gloss": "yoga"
+},
+{
+"surface": "bhakti",
 "quick_gloss": "devotion+yoga"
+},
+{
+"surface": "yogo",
+"quick_gloss": "yoga"
 },
 {
 "surface": "bhaviṣyati",
@@ -538,8 +574,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "trikoṇākāra+rūpā",
-"quick_gloss": "triangle+form"
+"surface": "trikoṇākāra",
+"quick_gloss": "triangle+shape"
+},
+{
+"surface": "rūpā",
+"quick_gloss": "form"
 },
 {
 "surface": "sā",
@@ -592,8 +632,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "roma+kūpe",
+"surface": "roma",
 "quick_gloss": "hair+pore"
+},
+{
+"surface": "kūpe",
+"quick_gloss": "in-pore"
 },
 {
 "surface": "mahākālī",
@@ -605,7 +649,7 @@
 },
 {
 "surface": "mekhalāsu",
-"quick_gloss": "in-girdle-regions"
+"quick_gloss": "in-girdles"
 },
 {
 "surface": "ca",
@@ -650,8 +694,12 @@
 "quick_gloss": "seat"
 },
 {
-"surface": "kāma+svarūpañ",
+"surface": "kāma",
 "quick_gloss": "desire+form"
+},
+{
+"surface": "svarūpañ",
+"quick_gloss": "form"
 },
 {
 "surface": "ca",
@@ -663,7 +711,7 @@
 },
 {
 "surface": "parameśvari",
-"quick_gloss": "O-supreme-goddess"
+"quick_gloss": "O-supreme+goddess"
 }
 ]
 },
@@ -675,12 +723,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "praṇavākāra+rūpeṇa",
-"quick_gloss": "praṇava+form"
+"surface": "praṇavākāra",
+"quick_gloss": "praṇava+shape"
+},
+{
+"surface": "rūpeṇa",
+"quick_gloss": "by-form"
 },
 {
 "surface": "yonyākāraṃ",
-"quick_gloss": "yoni+form"
+"quick_gloss": "yoni+shape"
 },
 {
 "surface": "vicintayet",

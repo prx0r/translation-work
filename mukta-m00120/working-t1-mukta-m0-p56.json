@@ -23,8 +23,8 @@
 "quick_gloss": "and"
 },
 {
-"surface": "kara-sthaḥ",
-"quick_gloss": "in-hand"
+"surface": "kara+sthaḥ",
+"quick_gloss": "hand+standing"
 },
 {
 "surface": "eva",
@@ -57,7 +57,7 @@
 },
 {
 "surface": "yoginām+api",
-"quick_gloss": "even-for-yogins"
+"quick_gloss": "yogins+even"
 },
 {
 "surface": "agamyaḥ",
@@ -82,7 +82,7 @@
 },
 {
 "surface": "vrajet",
-"quick_gloss": "one-should-attain"
+"quick_gloss": "one-may-attain"
 }
 ]
 },
@@ -132,19 +132,19 @@
 },
 {
 "surface": "pāda+abjaṃ",
-"quick_gloss": "lotus-feet"
+"quick_gloss": "foot+lotus"
 },
 {
 "surface": "smaraṇaṃ",
 "quick_gloss": "remembrance"
 },
 {
-"surface": "kim",
-"quick_gloss": "what"
+"surface": "kim+ataḥ",
+"quick_gloss": "what+than-this"
 },
 {
-"surface": "ataḥ+param",
-"quick_gloss": "beyond-this"
+"surface": "param",
+"quick_gloss": "higher"
 }
 ]
 },
@@ -157,7 +157,7 @@
 "tokens": [
 {
 "surface": "kula",
-"quick_gloss": "family"
+"quick_gloss": "kula"
 },
 {
 "surface": "strī",
@@ -173,7 +173,7 @@
 },
 {
 "surface": "kula+kāryaṃ",
-"quick_gloss": "family-duty"
+"quick_gloss": "kula+duty"
 },
 {
 "surface": "samācaret",
@@ -202,7 +202,7 @@
 },
 {
 "surface": "syāt",
-"quick_gloss": "would-be"
+"quick_gloss": "may-be"
 },
 {
 "surface": "maithunaṃ",
@@ -210,7 +210,7 @@
 },
 {
 "surface": "pāpa+dāyakam",
-"quick_gloss": "sin-giving"
+"quick_gloss": "sin+giving"
 }
 ]
 },
@@ -268,7 +268,7 @@
 },
 {
 "surface": "sarva+siddhi",
-"quick_gloss": "all-siddhi"
+"quick_gloss": "all+siddhi"
 },
 {
 "surface": "pradāyakam",
@@ -285,7 +285,7 @@
 "tokens": [
 {
 "surface": "sarva+āśā",
-"quick_gloss": "all-desires"
+"quick_gloss": "all+desires"
 },
 {
 "surface": "pūrakaṃ",
@@ -330,7 +330,7 @@
 },
 {
 "surface": "graha+doṣa",
-"quick_gloss": "planetary-fault"
+"quick_gloss": "planet+fault"
 },
 {
 "surface": "vināśanam",
@@ -346,8 +346,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "takṣakeṇa+api",
-"quick_gloss": "even-by-takṣaka"
+"surface": "takṣakeṇa",
+"quick_gloss": "by-takṣaka"
+},
+{
+"surface": "api",
+"quick_gloss": "even"
 },
 {
 "surface": "daṣṭasya",
@@ -355,7 +359,7 @@
 },
 {
 "surface": "viṣa+pīḍā",
-"quick_gloss": "poison-pain"
+"quick_gloss": "poison+pain"
 },
 {
 "surface": "vināśanam",
@@ -372,7 +376,7 @@
 "tokens": [
 {
 "surface": "strī+kṛteṣu",
-"quick_gloss": "woman-caused"
+"quick_gloss": "woman+done"
 },
 {
 "surface": "api",
@@ -438,15 +442,15 @@
 },
 {
 "surface": "tīre",
-"quick_gloss": "bank"
+"quick_gloss": "on-bank"
 },
 {
 "surface": "deva",
-"quick_gloss": "sacred"
+"quick_gloss": "god"
 },
 {
 "surface": "bhūmau",
-"quick_gloss": "ground"
+"quick_gloss": "on-ground"
 },
 {
 "surface": "taru",
@@ -454,11 +458,11 @@
 },
 {
 "surface": "mūle",
-"quick_gloss": "root"
+"quick_gloss": "at-root"
 },
 {
 "surface": "catuṣpathe",
-"quick_gloss": "crossroads"
+"quick_gloss": "at-crossroads"
 }
 ]
 },
@@ -471,7 +475,7 @@
 "tokens": [
 {
 "surface": "mantreṇa",
-"quick_gloss": "with-mantra"
+"quick_gloss": "by-mantra"
 },
 {
 "surface": "anena",
@@ -541,7 +545,7 @@
 },
 {
 "surface": "tīrthāni",
-"quick_gloss": "sacred-places"
+"quick_gloss": "sacred-waters"
 },
 {
 "surface": "puṇyāni",
@@ -570,7 +574,7 @@
 "tokens": [
 {
 "surface": "sthira+ākṛtiḥ",
-"quick_gloss": "of-firm-form"
+"quick_gloss": "firm+form"
 }
 ]
 },
@@ -637,7 +641,7 @@
 "tokens": [
 {
 "surface": "mantreṇa",
-"quick_gloss": "with-mantra"
+"quick_gloss": "by-mantra"
 },
 {
 "surface": "anena",
@@ -657,16 +661,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "vāma",
-"quick_gloss": "left"
-},
-{
-"surface": "utra",
-"quick_gloss": "urine"
-},
-{
-"surface": "nirghoṣaḥ",
-"quick_gloss": "sound"
+"surface": "vā+mutra+nirghoṣaḥ",
+"quick_gloss": "left+urine+sound"
 }
 ]
 },
@@ -682,16 +678,12 @@
 "quick_gloss": "fame"
 },
 {
-"surface": "dhana",
-"quick_gloss": "wealth"
-},
-{
-"surface": "āyus",
-"quick_gloss": "life"
+"surface": "dhana+āyuḥ",
+"quick_gloss": "wealth+life"
 },
 {
 "surface": "tejaḥsu",
-"quick_gloss": "in-splendors"
+"quick_gloss": "in-powers"
 },
 {
 "surface": "śrīphalasya",
@@ -699,7 +691,7 @@
 },
 {
 "surface": "api",
-"quick_gloss": "also"
+"quick_gloss": "even"
 },
 {
 "surface": "pallavaiḥ",

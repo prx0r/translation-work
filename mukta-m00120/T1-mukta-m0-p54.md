@@ -2,16 +2,16 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p54-v1326
-[śiva](śivo') [i-am](aham) [thus](iti) [having-thought](matvā) [and](ca) [delight](ramaṇaṃ) [my](mama) [approved](sammatam)
+[śiva](śivo') [i](aham) [thus](iti) [having-thought](matvā) [and](ca) [delight](ramaṇaṃ) [my](mama) [approved](sammatam)
 
 ## mukta-m0-p54-v1327
 [vulva](yoni) [knowledge](jñānaṃ) [without](vinā) [O-god](deva) [sexual-union](maithunaṃ) [not](na) [auspicious](śubha) [giving](pradam)
 
 ## mukta-m0-p54-v1328
-[in-the-middle](madhye) [goddess](devīṃ) [one-should-worship](yajed) [singing](gānaṃ) [drinking](pānaṃ) [dancing](nṛtyaṃ) [muttering](japañ) [one-should-practice](caret)
+[in-middle](madhye) [goddess](devīṃ) [one-should-worship](yajed) [singing](gānaṃ) [drinking](pānaṃ) [dancing](nṛtyaṃ) [muttering](japañ) [one-should-practice](caret)
 
 ## mukta-m0-p54-v1329
-[of-whom](yasya) [from-awakening](avabodhanād) [in-the-body](dehe) [embodied-one](dehī) [brahman](brahma) [consisting-of](mayo) [may-become](bhavet)
+[whose](yasya) [from-awakening](avabodhanād) [in-body](dehe) [embodied-one](dehī) [brahman](brahma) [consisting-of](mayo) [may-become](bhavet)
 
 ## mukta-m0-p54-v1330
 [not](na) [to-be-spoken](vaktavyaṃ) [ever](kadācit) [indeed](tu) [to-heretic](pāṣaṇḍe) [to-atheist](nāstike) [to-man](nare)
@@ -23,10 +23,10 @@
 [ten](daśa) [knowledge](vidyā) [form](svarūpa) [essence](ātmā) [vulva](yonir) [me](māṃ) [may-protect](pātu) [always](sarvadā)
 
 ## mukta-m0-p54-v1333
-[world](jagad) [bliss](ānanda) [born-from](saṃbhūtā) [vulva](yonir) [me](māṃ) [may-protect](pātu) [always](sarvadā)
+[world](jagad) [bliss](ānanda) [born](saṃbhūtā) [vulva](yonir) [me](māṃ) [may-protect](pātu) [always](sarvadā)
 
 ## mukta-m0-p54-v1334
-[Brahma](brahma) [Viṣṇu](viṣṇu) [Śiva](śiva) [life-breath](prāṇā) [vulva](yonir) [me](māṃ) [may-protect](pātu) [always](sarvadā)
+[Brahma](brahma) [Viṣṇu](viṣṇu) [Śiva](śiva) [vital-breath](prāṇā) [vulva](yonir) [me](māṃ) [may-protect](pātu) [always](sarvadā)
 
 ## mukta-m0-p54-v1335
 [enjoyment](bhukti) [liberation](mukti) [giving](pradā) [vulva](yonir) [vulva](yonir) [me](māṃ) [may-protect](pātu) [always](sarvadā)
@@ -35,7 +35,7 @@
 [always](sarvadā)
 
 ## mukta-m0-p54-v1337
-[happiness](sukha) [giving](dā) [love-god](madana) [abode](āgārā) [vulva](yonir) [me](māṃ) [may-protect](pātu) [always](sarvadā)
+[happiness](sukha) [giving](dā) [love](madana) [abode](āgārā) [vulva](yonir) [me](māṃ) [may-protect](pātu) [always](sarvadā)
 
 ## mukta-m0-p54-v1338
 [mind](manaḥ) [captivating](harā) [sorrow](duḥkha) [removing](labhā) [vulva](yonir) [me](māṃ) [may-protect](pātu) [always](sarvadā)
@@ -47,7 +47,7 @@
 [all](sarva) [in-house](gehe) [situated](sthitā) [vulva](yonir) [vulva](yonir) [me](māṃ) [may-protect](pātu) [always](sarvadā)
 
 ## mukta-m0-p54-v1341
-[health](ārogya) [giving](dā) [hero](vīra) [delighting](ratā) [five](pañca) [principles](tatva) [endowed-with](yutā) [always](sadā)
+[health](ārogya) [giving](dā) [hero](vīra) [delighting](ratā) [five](pañca) [elements](tatva) [endowed-with](yutā) [always](sadā)
 
 ## mukta-m0-p54-v1342
 [power](śakti) [form](rūpā) [great-goddess](mahādevī) [of-him](tasya) [in-house](gehe) [always](sadā) [firm](sthirā)
@@ -59,7 +59,7 @@
 [truth](satyaṃ) [truth](satyaṃ) [again](punaḥ) [truth](satyaṃ) [my](mama) [word](vākyaṃ) [false](vṛthā) [not](nahi)
 
 ## mukta-m0-p54-v1345
-[folded-hands](kṛtāñjali) [hollow](puṭo) [having-become](bhūtvā) [one-should-recite](paṭhet) [hymn](stotraṃ) [O-naked-one](digambara)
+[joined-palms](kṛtāñjali) [hollow](puṭo) [having-become](bhūtvā) [one-should-recite](paṭhet) [hymn](stotraṃ) [O-sky-clad](digambara)
 
 ## mukta-m0-p54-v1346
 [otherwise](cānyathā)

@@ -17,22 +17,22 @@
 [inseparable](avinābhāva) [relation](sambandhaṃ) [of-the-two](dvayoḥ) [indeed](eva) [mutually](parasparam)
 
 ## mukta-m0-p63-v1556
-[power+united](śaktyākta) [śaṅkara](śaṅkaram)
+[by-power+pervaded](śaktyāktaśaṅkaram)
 
 ## mukta-m0-p63-v1557
-[power](śaktiḥ) [and](ca) [in-persons](puruṣeṣu) [united](āktā) [when](yadā) [all](sarva) [illuminating](prakāśinī)
+[power](śaktiḥ) [and](ca) [in-persons](puruṣeṣu) [pervaded](āktā) [when](yadā) [all](sarva) [illuminating](prakāśinī)
 
 ## mukta-m0-p63-v1558
 [śiva+knowledge](śiva) [knowledge](jñānaṃ) [without](vinā) [anything](kiñcit) [power+knowledge](śaktijñānaṃ) [not](na) [arises](jāyate)
 
 ## mukta-m0-p63-v1559
-[thus](iti) [śrī+sarvānandanātha+composed](śrīsarvānandanāthaviracite) [in-the-sarvollāsa](sarvollāse) [fifty+first+chapter](ekapañcāśadullāsaḥ)
+[thus](iti) [śrī+sarvānandanātha+composed](śrīsarvānandanāthaviracite) [in-sarvollāsa](sarvollāse) [fifty-first+chapter](ekapañcāśadullāsaḥ)
 
 ## mukta-m0-p63-v1560
 [therefore](ataḥ) [and](ca) [after-many+births](bahujanmānte) [power+knowledge](śakti) [knowledge](jñānaṃ) [arises](prajāyate)
 
 ## mukta-m0-p63-v1561
-[that](sā) [power](śaktiḥ) [vāmā](vāmā) [to-be-known](vijñeyā) [of-the-person](puruṣasya) [also](api) [liberation+giving](muktidā)
+[that](sā) [power](śaktiḥ) [vāmā](vāmā) [to-be-known](vijñeyā) [of-man](puruṣasya) [also](api) [liberation+giving](muktidā)
 
 ## mukta-m0-p63-v1562
 [giving](dāyinī)
@@ -44,13 +44,13 @@
 [therefore](ataḥ) [to-them](tebhyaḥ) [supreme](pradhānaṃ) [indeed](hi) [power](śaktiṃ) [know](viddhi) [o-great-minded-one](mahāmate)
 
 ## mukta-m0-p63-v1565
-[she](sā) [indeed](eva) [sovereign+of-all](sarveśvarī) [goddess](devi) [he](sa) [and](ca) [lord+of-all](sarvaḥ) [great+lord](maheśvaraḥ)
+[she](sā) [indeed](eva) [sovereign-of-all](sarveśvarī) [goddess](devi) [he](sa) [and](ca) [lord-of-all](sarvo) [great-lord](maheśvaraḥ)
 
 ## mukta-m0-p63-v1566
-[to-be-done+and-not-to-be-done](kāryākāryaṃ) [o-great+goddess](maheśāni) [of-her](tasyāḥ) [indeed](eva) [not](na) [doubt](saṃśayaḥ)
+[to-be-done+not-to-be-done](kāryākāryaṃ) [o-great-goddess](maheśāni) [of-her](tasyā) [indeed](eva) [not](na) [doubt](saṃśayaḥ)
 
 ## mukta-m0-p63-v1567
-[to-be-done+and-not-to-be-done](kāryākāryaṃ) [may-be](bhavet) [of-power](śakteḥ) [untainted](nirliptaḥ) [person](puruṣaḥ) [o-auspicious-one](śive)
+[to-be-done+not-to-be-done](kāryākāryaṃ) [may-be](bhavet) [of-power](śakteḥ) [untainted](nirliptaḥ) [person](puruṣaḥ) [o-auspicious-one](śive)
 
 ## mukta-m0-p63-v1568
 [activity](kriyā) [of-power](śakteḥ) [may-be](bhavet) [action](kāryaṃ) [of-living-beings](prāṇināṃ) [in-all+accomplishment](sarvasādhane)
@@ -59,19 +59,19 @@
 [or-else](athavā) [also](api) [śiva](śivaṃ) [to-be-known](jñeyaṃ) [embodied](dehinaṃ) [power+seed](śakti) [seed](bījakam)
 
 ## mukta-m0-p63-v1570
-[vāmā+knowledge](vāmājñānaṃ) [o-great+goddess](maheśāni) [gross+subtle](sthūla) [subtle](sūkṣma) [measure](pramāṇakam)
+[vāmā+knowledge](vāmājñānaṃ) [o-great-goddess](maheśāni) [gross+subtle](sthūla) [subtle](sūkṣma) [measure](pramāṇakam)
 
 ## mukta-m0-p63-v1571
-[in-absence](abhāve) [of-one's-own+woman](svastriyaṃ) [o-goddess](devi) [how](katham) [stated](uktaṃ) [o-sadāśiva](sadāśive)
+[in-absence](abhāve) [own+woman](svastriyaṃ) [o-goddess](devi) [how+said](kathamuktaṃ) [o-sadāśiva](sadāśive)
 
 ## mukta-m0-p63-v1572
-[brahmā+given](brahma) [given](dattā) [by-fire](agninā) [having-offered](hutvā) [śiva+given](śiva) [given](dattā) [but](tu) [by-desire](kāmataḥ)
+[by-brahmā+given](brahma) [given](dattā) [by-fire](agninā) [having-offered](hutvā) [by-śiva+given](śiva) [given](dattā) [indeed](tu) [by-desire](kāmataḥ)
 
 ## mukta-m0-p63-v1573
-[doubt](sandehaḥ) [not](na) [indeed](eva) [to-be-made](kartavyaḥ) [my](mama) [word+according-to](vākyānusārataḥ)
+[doubt](sandeho) [not](na) [indeed](eva) [to-be-made](kartavyo) [my](mama) [word+according-to](vākyānusārataḥ)
 
 ## mukta-m0-p63-v1574
-[one's-own+vāmā](svavāmā) [for-satisfaction](toṣaṇārthe) [also](api) [another's+vāmā](para) [vāmā](vāmāñca) [one-should-satisfy](toṣayet)
+[own+vāmā](svavāmā) [for-satisfaction](toṣaṇārthe) [also](api) [another+vāmā](para) [vāmā](vāmāñca) [one-should-satisfy](toṣayet)
 
 ## mukta-m0-p63-v1575
-[one-should-satisfy](toṣayet) [o-supreme+goddess](parameśāni) [hero+state](vīrabhāva) [resorting-to](samāśritaḥ)
+[one-should-satisfy](toṣayet) [o-supreme-goddess](parameśāni) [hero+state](vīrabhāva) [resorting-to](samāśritaḥ)
