@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p50-v1226
-[on-śrīśaila](śrīśaile) [or-on-svāmīśaila](svāmiśaile) [or](vā) [on-godāvarī](godāvaryāṃ) [on-sarasvatī](sarasvatau)
+[śrīśailesvāmiśaile](at-śrīśaila-or-śaile) [vā](or) [godāvaryāṃ](on-godāvarī) [sarasvatau](on-sarasvatī)
 
 ## mukta-m0-p50-v1227
-[on-sindhu+lake-shore](sindhusarastīre) [or](vā) [on-sarasvatī-bank](sarasvatyāstaṭe) [also](api) [or](vā)
+[sindhusarastīre](on-sindhu-lake-shore) [vā](or) [sarasvatyāstaṭepi](on-sarasvatī-bank-too) [vā](or)
 
 ## mukta-m0-p50-v1228
-[of-brāhmaṇa](brāhmaṇasya) [earth+white](mahīśvetā) [red+ground](raktabhūmiḥ) [but](tu) [of-king](bhūpateḥ)
+[brāhmaṇasya](of-brāhmaṇa) [mahīśvetā](white-earth) [raktabhūmistu](red-earth-but) [bhūpateḥ](of-king)
 
 ## mukta-m0-p50-v1229
-[of-brāhmaṇa](viprasya) [ghee+smell](ghṛtagandhā) [indeed](tu) [blood+smell](raktagandhā) [of-king](nṛpasya) [but](tu)
+[viprasya](of-brāhmaṇa) [ghṛtagandhātu](ghee-scented) [raktagandhā](blood-scented) [nṛpasya](of-king) [tu](but)
 
 ## mukta-m0-p50-v1230
-[color](varṇaṃ) [smell](gandhaṃ) [taste](rasaṃ) [having-known](jñātvā) [yoga+dwelling](yogaveśma) [one-should-begin](samārabhet)
+[varṇaṃ](color) [gandhaṃ](scent) [rasaṃ](taste) [jñātvā](having-known) [yogaveśma](yoga-house) [samārabhet](should-begin)
 
 ## mukta-m0-p50-v1231
-[yoga+places](yogasthānāni) [all](sarvāṇi) [rule](vidhiḥ) [this](eṣa) [is-declared](prakīrtitaḥ)
+[yogasthānāni](yoga-places) [sarvāṇi](all) [vidhireṣa](this-rule) [prakīrtitaḥ](declared)
 
 ## mukta-m0-p50-v1232
-[three+storied](tribhūmiṃ) [or](vā) [two+storied](dvibhūmiṃ) [or](vā) [one+storied](ekabhūmim) [or-else](athāpi) [or](vā)
+[tribhūmiṃ](three-storied) [vā](or) [dvibhūmiṃ](two-storied) [vā](or) [ekabhūmimathāpi](one-storied-also) [vā](or)
 
 ## mukta-m0-p50-v1233
-[door+bolt+endowed](kavāṭārgalasaṃyuktaṃ) [with-enclosures](prākāraiḥ) [long](dīrghakaiḥ) [endowed](yutam)
+[kavāṭārgalasaṃyuktaṃ](with-doors-and-bolts) [prākārairdīrghakairyutam](with-long-walls)
 
 ## mukta-m0-p50-v1234
-[with-coconut-trees](nālikeraiḥ) [with-areca-palms](kamukaiḥ) [and](ca) [with-puṃnāga+groves](puṃnāgavakulaiḥ) [endowed](yutam)
+[nālikeraiḥ](with-coconuts) [kamukaiśca](and-areca) [puṃnāgavakulairyutam](with-punnaga-and-bakula)
 
 ## mukta-m0-p50-v1235
-[cows](gāvo) [should-dwell](vaseyuḥ) [seven+nights](saptāhaṃ) [*](mapatiḥ) [with-ten](daśabhiḥ) [nine](nava)
+[gāvo](cows) [vaseyuḥ](should-dwell) [saptāhaṃ](seven-days) [mapatirdaśabhirnava](lord-for-ten-or-nine)
 
 ## mukta-m0-p50-v1236
-[in-north](uttare) [but](tu) [water+village](jalagrāmaṃ) [in-west](paścime) [lotus+pavilion](padmamaṇḍapam)
+[uttare](north) [tu](but) [jalagrāmaṃ](water-village) [paścime](west) [padmamaṇḍapam](lotus-pavilion)
 
 ## mukta-m0-p50-v1237
-[by-barbarians](barbaraiḥ) [and](ca) [by-pulindas](pulindaiḥ) [and](ca) [by-kirātas](kirātaiḥ) [and](ca) [devoid](vivarjitam)
+[barbaraiśca](and-barbaras) [pulindaiśca](and-pulindas) [kirātaiśca](and-kiratas) [vivarjitam](free-from)
 
 ## mukta-m0-p50-v1238
-[*](*) [*](sti?) [indeed](tu) [seat](āsanaṃ) [having-bound](baddhā) [channel+purification](nāḍīśodhanam) [one-should-begin](ārabhet)
+[*](unknown) [sti?](unknown) [tvāsanaṃ](posture) [baddhā](having-bound) [nāḍīśodhanamārabhet](begin-nadi-purification)
 
 ## mukta-m0-p50-v1239
-[palate+situated](tālusthā) [moving+tongue](calajihvā) [and](ca) [closed+mouth](saṃvṛtāsyaḥ) [well+resolved](suniścayaḥ)
+[tālusthā](palate-seated) [calajihvā](moving-tongue) [ca](and) [saṃvṛtāsyaḥ](closed-mouth) [suniścayaḥ](firm-resolve)
 
 ## mukta-m0-p50-v1240
-[having-bowed](praṇipatya) [to-śiva](śivaṃ) [peaceful](śāntaṃ) [yogi+lord](yogīndraḥ) [moon+crested](śaśiśekharam)
+[praṇipatya](having-bowed) [śivaṃ](śiva) [śāntaṃ](peaceful) [yogīndraḥ](yoga-lord) [śaśiśekharam](moon-crested)
 
 ## mukta-m0-p50-v1241
-[at-nose+tip](nāsāgre) [moon+disk](śaśabhṛdbimbaṃ) [like](vat) [moonlight+net+spread-out](jyotsnājālavitānitam)
+[nāsāgre](at-nose-tip) [śaśabhṛdbimbaṃvat](like-moon-disc) [jyotsnājālavitānitam](spread-moonlight-net)
 
 ## mukta-m0-p50-v1242
-[five+actions](pañcākṛtya) [then](atha) [having-gone-out](niṣkramya) [by-iḍā](iḍayā) [with-varman](varmaṇā) [together](saha)
+[pañcākṛtyātha](after-five-acts) [niṣkramya](having-exited) [iḍayā](by-iḍā) [varmaṇā](with-armor) [saha](with)
 
 ## mukta-m0-p50-v1243
-[which](yat) [second](dvitīyaṃ) [drop+endowed](binduyuktaṃ) [in-triangle](trikoṇe) [fire+joined](analāyute)
+[yaddvitīyaṃ](second-that) [binduyuktaṃ](with-bindu) [trikoṇe](in-triangle) [analāyute](with-fire)
 
 ## mukta-m0-p50-v1244
-[as-before](pūrvavat) [one-should-fill](pūrayet) [by-channel](nāḍyā) [breath](prāṇaṃ) [by-right](dakṣiṇayā) [o-guha](guha)
+[pūrvavatpūrayennāḍyā](fill-nadi-as-before) [prāṇaṃ](prana) [dakṣiṇayā](by-right) [guha](O-guha)
 
 ## mukta-m0-p50-v1245
-[three+four](tricatuḥ) [times](savanaṃ) [month](māsaṃ) [fortnight](pakṣaṃ) [or](vai) [month](māsam) [one-should-practice](abhyaset)
+[tricatuḥ](three-four) [savanaṃ](libation) [māsaṃ](month) [pakṣaṃ](fortnight) [vai](indeed) [māsamabhyaset](practice-month)
 
 ## mukta-m0-p50-v1246
-[slightly](īṣat) [special+method](vaiśeṣikopāyaṃ) [with-mental+praṇava](mānasapraṇavena) [and](ca)
+[īṣadvaiśeṣikopāyaṃ](slightly-special-means) [mānasapraṇavena](with-mental-om) [ca](and)
 
 ## mukta-m0-p50-v1247
-[month+three](māsatrikaṃ) [in-three+times](triṣavaṇeṣu) [by-this](anayā) [purification](śuddhiḥ) [is-declared](īritā)
+[māsatrikaṃ](three-months) [triṣavaṇeṣvanayā](by-this-thrice-daily) [śuddhirīritā](purification-declared)
 
 ## mukta-m0-p50-v1248
-[knowledge+manifestation](jñānābhivyaktiḥ) [thus](iti) [this](etat) [sign](chinnaṃ) [that](tat) [purification+indicator](śuddhisūcakam)
+[jñānābhivyaktirityetacchinnaṃ](manifestation-of-knowledge-thus-cut) [tacchuddhisūcakam](that-purification-indicator)
 
 ## mukta-m0-p50-v1249
-[*](*) [*](*) [*](*) [*](na?) [samāna](samānaḥ) [but](tu) [vyāna](vyānaḥ) [then](atha) [udāna](udānaḥ) [indeed](eva) [and](ca)
+[*](unknown) [*](unknown) [*](unknown) [na?](unknown) [samānastu](samana-but) [vyāno'thodāna](vyana-then-udana) [eva](indeed) [ca](and)
 
 ## mukta-m0-p50-v1250
-[of-these](eteṣāṃ) [conquest](vijayaṃ) [o-child](vatsa) [*](*) [*](*) [*](*) [*](*) [*](*) [*](*) [*](rṇakān)
+[eteṣāṃ](of-these) [vijayaṃ](victory) [vatsa](child) [*](unknown) [*](unknown) [*](unknown) [*](unknown) [*](unknown) [*](unknown) [rṇakān](debts)

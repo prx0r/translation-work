@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p151-v3751
-[from-navel](nābheḥ)+[up-to](ā)+[crown-of-head](mūrdhato) [lute](vīṇā)+[sound](dhvani)+[resonance](nādaḥ) [proceeds](pravartate)
+[from-navel-to-crown](nābherāmūrdhato) [veena-sound](vīṇādhvani) [tone](nādaḥ) [arises](pravartate)
 
 ## mukta-m0-p151-v3752
-[of-that](tasya)+[then](atha) [breath](prāṇaḥ)+[also](api)+[rises](uccarati)+[by-will](icchayā)
+[his](tasya) [then](atha) [prāṇa-also-rises-by-will](prāṇo'pyuccaratīcchayā)
 
 ## mukta-m0-p151-v3753
-[one-should-generate](janayet)+[constantly](śaśvat)+[day](ahaḥ)+[night](rātre) [indeed](tu) [by-count](saṃkhyayā)
+[generates](janayet) [always](śaśvat) [day-night](ahorātre) [tu](tu) [by-count](saṃkhyayā)
 
 ## mukta-m0-p151-v3754
-[of-ghaṭikās](ghaṭikānām) [remembered](smṛtaḥ) [by-sixty](ṣaṣṭyā) [and](tu)+[day](ahaḥ)+[night](rātraḥ)+[indeed](tu) [human](mānuṣaḥ)
+[of-ghaṭikās](ghaṭikānāṃ) [remembered](smṛtaḥ) [sixty](ṣaṣṭyā) [but](tu) [day-night](ahorātraḥ) [human](mānuṣaḥ)
 
 ## mukta-m0-p151-v3755
-[in-navel](nābhi)+[lotus](padme) [having-meditated](dhyātvā) [indeed](tu) [four](catur)+[faced](ānanam)
+[in-navel-lotus](nābhipadme) [meditating](dhyātvā) [tu](tu) [four-faced](caturānanam)
 
 ## mukta-m0-p151-v3756
-[with-mind](dhiyā)+[alone](eva) [praṇava](praṇavaṃ) [muttering](japan)
+[by-mind](dhiyā) [eva](eva) [praṇava](praṇavam) [chanting](japan)
 
 ## mukta-m0-p151-v3757
-[in-heart](hṛdaya)+[lotus](abja)+[situated](sthaṃ) [Vāsudeva](vāsudevaṃ) [four](catur)+[armed](bhujam)
+[in-heart-lotus](hṛdayābja) [standing](stham) [vāsudeva](vāsudevam) [four-armed](caturbhujam)
 
 ## mukta-m0-p151-v3758
-[four](catur)+[armed](bāhum)+[noble](udāra)+[situated](stham)+[consisting-of-ukāra](ukāra+maya)+[form](vigraham)
+[four-armed](caturbāhu) [noble](udāra) [standing](stham) [u-form](ukāra+maya) [body](vigraham)
 
 ## mukta-m0-p151-v3759
-[having-established](vidhāya) [should-be](syāt) [breath](prāṇa)+[restraint](āyāmaḥ)+[indeed](tu) [Vaiṣṇava](vaiṣṇavaḥ)
+[having-done](vidhāya) [becomes](syāt) [prāṇāyāma](prāṇāyāmaḥ) [tu](tu) [vaiṣṇava](vaiṣṇavaḥ)
 
 ## mukta-m0-p151-v3760
-[Rudra](rudraṃ) [meditating-on](dhyāyan)+[three](tri)+[eyed](locanam)
+[rudra](rudram) [meditating](dhyāyan) [tri](tri) [eyed](locanam)
 
 ## mukta-m0-p151-v3761
-[with-inhalation](pūraka)+[and-others](ādyaiḥ)+[as](yathā)+[before](pūrvam) [Raudra](raudraḥ)+[this](ayam) [breath](prāṇa)+[restraint](saṃyamaḥ)
+[by-pūraka-etc](pūrakādyaiḥ) [as-before](yathāpūrvam) [raudra](raudraḥ) [this](ayam) [prāṇasaṃyama](prāṇasaṃyamaḥ)
 
 ## mukta-m0-p151-v3762
-[described](prokta)+[form](rūpa)+[and-so-forth](ādim) [meditating-on](dhyāyan)+[tāra](tāram) [muttering](japan) [with-mind](dhiyā)
+[described-form-etc](proktarūpādim) [meditating](dhyāyan) [tāra](tāram) [chanting](japan) [by-mind](dhiyā)
 
 ## mukta-m0-p151-v3763
-[on-crown](mūrdhni) [in-lotus](kamale) [meditating-on](dhyāyan) [deity](devaṃ) [Sadāśiva](sadā+śivam)
+[on-crown](mūrdhni) [lotus](kamale) [meditating](dhyāyan) [god](devam) [sadāśiva](sadāśivam)
 
 ## mukta-m0-p151-v3764
-[all](sarva)+[defect](doṣa)+[removing](haraḥ)+[this](ayam) [should-be](syāt) [Sādeśa](sādeśaḥ) [breath](prāṇa)+[restraint](saṃyamaḥ)
+[all-fault-removing](sarvadoṣaharaḥ) [this](ayam) [becomes](syāt) [with-instruction](sādeśaḥ) [prāṇasaṃyama](prāṇasaṃyamaḥ)
 
 ## mukta-m0-p151-v3765
-[all](sarva)+[sin](kalmaṣa)+[defect](doṣa)+[destroying](ghnāḥ) [all](sarve) [all](sarva)+[purpose](artha)+[accomplishing](sādhakāḥ)
+[all-sin-fault-destroying](sarvakalmaṣadoṣaghnāḥ) [all](sarve) [all](sarva) [aims](artha) [accomplishing](sādhakāḥ)
 
 ## mukta-m0-p151-v3766
-[in-heart](hṛt)+[lotus](padma)+[middle](madhye) [or](vā) [in-bindu](vi(ndū?)+[ndau](ndau)) [or](vā) [in-space](vyoma)+[lotus](paṅkaje)
+[in-heart-lotus-middle](hṛtpadmamadhye) [or](vā) [bindu](bindu) [or](vā) [in-sky-lotus](vyomapaṅkaje)
 
 ## mukta-m0-p151-v3767
-[in-city-of-eight](puryaṣṭaka)+[eight](aṣṭa)+[petaled-covering](chadane) [own](sva)+[own](sva)+[limb](aṅga)+[enclosure](āvaraṇa)+[endowed-with](anvite)
+[puryaṣṭaka](puryaṣṭaka) [aṣṭacchadane](aṣṭacchadane) [sva](sva) [sva](sva) [aṅga](aṅga) [āvaraṇa](āvaraṇa) [anvite](anvite)
 
 ## mukta-m0-p151-v3768
-[muttering](japan) [with-intellect](buddhyā) [with-inhalation](pūraka)+[and-other](ādi)+[sequence](krameṇa) [indeed](tu)
+[chanting](japan) [by-intellect](buddhyā) [by-pūraka-etc-order](pūrakādikrameṇa) [tu](tu)
 
 ## mukta-m0-p151-v3769
-[in-heart](hṛdaya)+[lotus](abja)+[and-so-forth](ādau) [seeing](paśyañ) [light](jyotiḥ)+[stainless](nirañjanam)
+[in-heart-lotus-beginning](hṛdayābjādau) [seeing](paśyan) [jyotiḥ](jyotiḥ) [nirañjanam](nirañjanam)
 
 ## mukta-m0-p151-v3770
-[meditating-on](dhyāyan)+[three](tri)+[morae](mātraṃ) [consciousness](cin)+[mere](mātra)+[praṇava](praṇavaṃ) [or](vā) [with-mind](dhiyā) [muttering](japan)
+[meditating](dhyāyan) [three-mātrā](trimātram) [consciousness-only-praṇava](cinmātrapraṇavam) [or](vā) [by-mind](dhiyā) [chanting](japan)
 
 ## mukta-m0-p151-v3771
-[of-kuṇḍalinī](kuṇḍalinyāḥ)+[indeed](tu) [meditating-on](dhyāyan)+[power](śaktim) [emerged](vinirgatām)
+[of-kuṇḍalinī](kuṇḍalinyāḥ) [tu](tu) [meditating](dhyāyan) [śakti](śaktim) [gone-out](vinirgatām)
 
 ## mukta-m0-p151-v3772
-[by-supreme](parama)+[nectar](amṛta)+[streams](niḥṣyandaiḥ) [being-flooded](plāvyamānām) [from-that](tataḥ)+[also](api) [indeed](hi)
+[by-supreme-nectar-streams](paramāmṛtaniḥṣyandaiḥ) [being-flooded](plāvyamānām) [then](tataḥ) [api](api) [hi](hi)
 
 ## mukta-m0-p151-v3773
-[through-suṣumnā](suṣumnayā)+[upward](ūrdhvam) [going](gacchantīm)+[nectar](amṛta)+[shower](āsāra)+[raining](varṣiṇīm)
+[suṣumnayā](suṣumnayā) [ūrdhvam](ūrdhvam) [gacchantīm](gacchantīm) [amṛta](amṛta) [āsāra](āsāra) [varṣiṇīm](varṣiṇīm)
 
 ## mukta-m0-p151-v3774
-[muttering](japan) [with-mind](dhiyā) [as](yathā)+[before](pūrvam) [breaths](prāṇān)+[having-restrained](āyamya) [yoga](yoga)+[knower](vit)
+[chanting](japan) [by-mind](dhiyā) [as-before](yathāpūrvam) [restraining-prāṇas](prāṇānāyamya) [yoga-knower](yogavit)
 
 ## mukta-m0-p151-v3775
-[beginning-with-praṇava](praṇava+ādyāṃ) [indeed](tu) [seven](sapta)+[vyāhṛti](vyāhṛti)+[preceded-by](pūrvikām)
+[praṇava](praṇava) [ādyām](ādyām) [tu](tu) [sapta](sapta) [vyāhṛti](vyāhṛti) [pūrvikām](pūrvikām)

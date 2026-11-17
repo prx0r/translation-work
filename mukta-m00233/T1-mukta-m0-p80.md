@@ -2,76 +2,52 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p80-v1976
-laborers(karmakarān) and(ca) others(anyān) poor(dīnān) helpless(anāthān) and(tathā) seekers(arthinaḥ)
-
+[workers](karmakarāṃścānyān) [poor](dīnānāthāṃstathārthinaḥ)
 ## mukta-m0-p80-v1977
-beginning(samārabhya) on-bathing+end+days(snapanānta+dineṣu) also(api)
-
+[beginning](samārabhya) [bathing-end-days](snapanāntadineṣvapi)
 ## mukta-m0-p80-v1978
-one-should-give(pradadyāt) food+drink+etc.(anna+pāna+ādi) with-good+condiments+juice+excellent(su+vyañjana+rasa+uttaram)
-
+[give](pradadyādannapānādi) [excellent-sauce](suvyañjanarasottaram)
 ## mukta-m0-p80-v1979
-all(sarve) become(bhavanti) troop+leaders(gaṇa+nāyakāḥ)
-
+[all](sarve) [become](bhavanti) [leaders](gaṇanāyakāḥ)
 ## mukta-m0-p80-v1980
-with-mountain+king+daughter(śaila+adhirāja+sutayā) accompanied(sahitaḥ) with-troop+lords(gaṇa+indraiḥ)
-
+[with-daughter-of-mountain-king](śailādhirājasutayā) [with-gaṇendra](sahito) [gaṇendraiḥ](gaṇendraiḥ)
 ## mukta-m0-p80-v1981
-and(ca) three(trīṇi) best(śreṣṭham) and(ca) bathing+triad(snapana+trayam)
-
+[and](ca) [three](trīṇi) [best](śreṣṭhaṃ) [and](ca) [three-bathings](snapanatrayam)
 ## mukta-m0-p80-v1982
-with-eighty-one(ekāśītyā) with-eight+joined(aṣṭa+yuktena) with-hundred(śatena) with-two-hundred(dviśatena) and(ca)
-
+[with-eighty-eight](ekāśītyāṣṭayuktena) [hundred](śatena) [two-hundred](dviśatena) [and](ca)
 ## mukta-m0-p80-v1983
-with-hundreds(śataiḥ) and(tathā) indeed(eva) with-arrow+hundreds(iṣu+śataiḥ) with-seven-hundred(sapta+śataiḥ) also(api)
-
+[hundreds](śataistathaiveṣuśataiḥ) [seven-hundreds](saptaśatairapi)
 ## mukta-m0-p80-v1984
-with-eight-more+thousand(aṣṭa+uttara+sahasraiḥ) or(vā) with-thousand+pots(sahasra+kalaśaiḥ) then(tataḥ)
-
+[or-thousand-plus-eight](aṣṭottarasahasrairvā) [then](tataḥ) [thousand-pots](sahasrakalaśaistataḥ)
 ## mukta-m0-p80-v1985
-of-eight-more+hundred+etc.(aṣṭa+uttara+śata+ādīnām) * * * * * * highest(paraḥ)
-
+[beginning-hundred-eight](aṣṭottaraśatādīnāṃ) [beyond](paraḥ)
 ## mukta-m0-p80-v1986
-with-pots(kalaśaiḥ) with-nine(navabhiḥ) first(pūrvam) small+named(alpa+ākhyam) bathing(snapanam) remembered(smṛtam)
-
+[with-nine-pots](kalaśairnavabhiḥ) [first](pūrvam) [small-named](alpākhyaṃ) [bathing](snapanaṃ) [remembered](smṛtam)
 ## mukta-m0-p80-v1987
-with-eight-more+hundred+beginning+etc.(aṣṭa+uttara+śata+ādyaiḥ) but(tu) * * * * * * * *
-
+[beginning-hundred-eight](aṣṭhottaraśatādyaistu)
 ## mukta-m0-p80-v1988
-from-pavilion(maṇḍapāt) separately(pṛthak) indeed(eva) hi(hi)
-
+[from-pavilion](maṇḍapāt) [separate-indeed](pṛthageva) [hi](hi)
 ## mukta-m0-p80-v1989
-with-atiśakvarī+measure(atiśakarikā+ati+aṣṭikaraiḥ) with-atidhṛti+measured(atidhṛteḥ+mitaiḥ)
-
+[with-atidhṛti-meters](atiśakarikātyaṣṭikarairatidhṛtermitaiḥ)
 ## mukta-m0-p80-v1990
-of-thousand+pots(sahasra+kalaśasya) now(atha) * * * * * middle(mādhamāḥ)
-
+[thousand-pot](sahasrakalaśasyātha) [middle](mādhamāḥ)
 ## mukta-m0-p80-v1991
-but(tu) of-cubits(hastānām) with-thirty-three(trayastriṃśadbhiḥ) best(uttamaḥ)
-
+[then](tu) [of-hands](hastānāṃ) [thirty-three](trayastriṃśadbiruttamaḥ)
 ## mukta-m0-p80-v1992
-should-be(syuḥ) well-equal(su+samāḥ) all(sarve) also(api) from-one+kind+tree+born(eka+jāti+taru+udbhavāḥ)
-
+[should-be](syuḥ) [well-equal](susamāḥ) [all](sarve'pyekajātitarūdbhavāḥ)
 ## mukta-m0-p80-v1993
-with-Rudra+atijagatī+numbers(rudra+atijagatī+saṃkhyaiḥ) and(ca) with-atiśakvarī+measured(atiśakvarikā+mitaiḥ)
-
+[with-rudra-jagatī-counts](rudrātijagatīsaṃkhyaiścātiśakvarikāmitaiḥ)
 ## mukta-m0-p80-v1994
-its-girth(tat+nāhaḥ) with-twelve+fingers(arka+aṅgulaiḥ) in-small(alpe) then(tataḥ) with-two+three+four+times(dvi+tri+catur+guṇaiḥ)
-
+[that-cord](tannāho'rkāṅgulairalpe) [then](tato) [two-three-four-fold](dvitricaturguṇaiḥ)
 ## mukta-m0-p80-v1995
-with-lupā+beam+cross-beam+etc.(lupā+vaṃśa+anuvaṃśa+ādyam) upper+covering(ūrdhva+pracchādanam) likewise(tathā)
-
+[roof-covering](lupāvaṃśānuvaṃśādyamūrdhvapracchādanaṃ) [and](tathā)
 ## mukta-m0-p80-v1996
-to-be-made(vidheyam) should-be(syāt) according-to-propriety+fitness(yathā+yukti+upapattitaḥ)
-
+[should-be-done](vidheyaṃ) [syād](syād) [as-suitable](yathāyuktyupapattitaḥ)
 ## mukta-m0-p80-v1997
-all(sarve) to-be-made(kartavyāḥ) pavilions(maṇḍapāḥ) in-order(kramāt)
-
+[all](sarve) [to-be-made](kartavyā) [pavilions](maṇḍapāḥ) [in-order](kramāt)
 ## mukta-m0-p80-v1998
-with-brick+wood+clay(iṣṭakā+dāru+mṛtsnābhiḥ) all-around(paritaḥ) with-bound+floor(baddha+kuṭṭimam)
-
+[with-bricks-wood-clay](iṣṭakādārumṛtsnābhiḥ) [around](parito) [bound-platform](baddhakuṭṭimam)
 ## mukta-m0-p80-v1999
-having-caused-to-recite(vācayitvā) but(tu) vāstu+offering(vāstu+homam) and(ca) one-should-cause-to-perform(kārayet)
-
+[having-recited](vācayitvā) [tu](tu) [vāstu-homa](vāstuhomaṃ) [ca](ca) [should-do](kārayet)
 ## mukta-m0-p80-v2000
-its-half(tat+ardham) or(vā) then(tataḥ) half(ardham) or(vā) according-to-rule(yathā+vidhi)
+[that-half](tadardhaṃ) [or](vā) [then-half](tato'rdhaṃ) [or](vā) [as-rite](yathāvidhi)

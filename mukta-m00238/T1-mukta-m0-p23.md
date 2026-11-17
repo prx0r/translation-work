@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p23-v551
-[mleccha+cutting+maker](mlecchacchedakaraḥ) [kalkī](kalkī) [two+armed](dvibhujaḥ) [proclaimed](parikīrtitaḥ)
+[mleccha+ccheda+karaḥ](mlecchacchedakaraḥ) [kalki+dvibhujaḥ](kalkīdvibhujaḥ) [parikīrtitaḥ](parikīrtitaḥ) [śveta+varṇaḥ](śvetavarṇaḥ)
 
 ## mukta-m0-p23-v552
-[white+colored](śvetavarṇaḥ) [conch+discus+holder](śaṃkhacakradharaḥ) [dark](śyāmaḥ) [two+armed](dvibhujaḥ) [kṛṣṇa+named](kṛṣṇasaṃjñakaḥ) [dark+colored](śyāmavarṇaḥ)
+[śaṃkha+cakra+dharaḥ](śaṃkhacakradharaḥ) [śyāma+dvibhujaḥ](śyāmodvibhujaḥ) [kṛṣṇa+saṃjñakaḥ](kṛṣṇasaṃjñakaḥ) [śyāma+varṇaḥ](śyāmavarṇaḥ)
 
 ## mukta-m0-p23-v553
-[varāha](varāhaḥ) [dark+complexioned](śyāmalanibhaḥ) [or](vā) [white+form](dhvalākṛtiḥ) [indeed](eva)
+[varāhaḥ](varāhaśśyāmalanibhodhvalākṛtireva) [śyāmala+nibhaḥ](varāhaśśyāmalanibhodhvalākṛtireva) [dhavala+ākṛtiḥ](varāhaśśyāmalanibhodhvalākṛtireva) [eva](varāhaśśyāmalanibhodhvalākṛtireva)
 
 ## mukta-m0-p23-v554
-[vāmana](vāmanaḥ) [dark+complexioned](śyāmalanibhaḥ) [black+colored](kālavarṇaḥ) [great+strong](mahābalaḥ)
+[vāmanaḥ](vāmanaśśyāmalanibhokālavarṇo) [śyāmala+nibhaḥ](vāmanaśśyāmalanibhokālavarṇo) [kāla+varṇaḥ](vāmanaśśyāmalanibhokālavarṇo) [mahā+balaḥ](vāmanaśśyāmalanibhokālavarṇo)
 
 ## mukta-m0-p23-v555
-[bharata](bharataḥ) [dark](śyāmalaḥ) [declared](proktaḥ) [lakṣmaṇa](lakṣmaṇaḥ) [golden+splendor](kanakaprabhaḥ)
+[bharataḥ](bharataśśyāmalaḥ) [śyāmalaḥ](bharataśśyāmalaḥ) [proktaḥ](proktaḥ) [lakṣmaṇaḥ](lakṣmaṇaḥ) [kanaka+prabhaḥ](kanakaprabhaḥ)
 
 ## mukta-m0-p23-v556
-[māṇḍavī](māṃḍavī) [red+colored+resembling](raktavarṇābhā) [ūrmilā](ūrmilā) [dark+formed](śyāmalākṛtiḥ)
+[māṃḍavī](māṃḍavīraktavarṇābhācormilāśyāmalākṛtiḥ) [rakta+varṇa+ābhā](māṃḍavīraktavarṇābhācormilāśyāmalākṛtiḥ) [cormilā](māṃḍavīraktavarṇābhācormilāśyāmalākṛtiḥ) [śyāmala+ākṛtiḥ](māṃḍavīraktavarṇābhācormilāśyāmalākṛtiḥ)
 
 ## mukta-m0-p23-v557
-[śrutakīrti](śrutakīrtiḥ) [white+limbed](sitāṃgī) [should-be](syāt) [hanūmān](dhanūmān) [golden+splendor](kanakaprabhaḥ) [aṅgada](aṃgadaḥ) [red+colored+resembling](raktavarṇābhaḥ) [sugrīva](sugrīvaḥ) [gold+tawny](hemapiṃgalaḥ)
+[śrutakīrtiḥ](śrutakīrtissitāṃgī) [sitā+aṃgī](śrutakīrtissitāṃgī) [syāt](syāddhanūmānkanakaprabhaḥ) [hanūmān](syāddhanūmānkanakaprabhaḥ) [kanaka+prabhaḥ](syāddhanūmānkanakaprabhaḥ) [aṃgadaḥ](aṃgadoraktavarṇābhassugrīvohemapiṃgalaḥ) [rakta+varṇa+ābhaḥ](aṃgadoraktavarṇābhassugrīvohemapiṃgalaḥ) [sugrīvaḥ](aṃgadoraktavarṇābhassugrīvohemapiṃgalaḥ) [hema+piṃgalaḥ](aṃgadoraktavarṇābhassugrīvohemapiṃgalaḥ)
 
 ## mukta-m0-p23-v558
-[guha](guhaḥ) [parrot+colored+resembling](tulavarṇābhaḥ) [black+colored](kālavarṇaḥ) [vibhīṣaṇa](vibhīṣaṇaḥ)
+[guhaḥ](guhastuti) [stuti](guhastuti) [lava+varṇa+ābhaḥ](lavarṇābhaḥ) [kāla+varṇaḥ](kālavarṇovibhīṣaṇaḥ) [vibhīṣaṇaḥ](kālavarṇovibhīṣaṇaḥ)
 
 ## mukta-m0-p23-v559
-[cloud+dark](meghaśyāmaḥ) [should-be](bhavet) [kṛṣṇa](kṛṣṇaḥ) [rukmiṇī](rukmiṇī) [golden+splendor](kanakaprabhā)
+[megha+śyāmaḥ](meghaśyāmobhavet) [bhavet](meghaśyāmobhavet) [kṛṣṇaḥ](kṛṣṇorukmiṇī) [rukmiṇī](rukmiṇī) [kanaka+prabhā](kanakaprabhā)
 
 ## mukta-m0-p23-v560
-[on+right](dakṣiṇe) [indeed](tu) [mace+lotus+holder](gadāpadmī) [blue+cloud+like](nīlajīmūtasannibhaḥ)
+[dakṣiṇe](dakṣiṇe) [tu](tu) [gadā+padmī](gadāpadmī) [nīla+jīmūta+sannibhaḥ](nīlajīmūtasannibhaḥ)
 
 ## mukta-m0-p23-v561
-[on+left](vāme) [śrī](śrīḥ) [lute+in+hand](vallakī+hastā) [nourishing](puṣṭā) [lotus+in+hand](padmakarā) [other](apare) [dark+colored](śyāmavarṇaḥ)
+[vāme](vāme) [śrīḥ](śrīrvallakī) [vallakī](śrīrvallakī) [hastā](hastāpuṣṭāpadmakarāpare) [puṣṭā](hastāpuṣṭāpadmakarāpare) [padma+kara+apare](hastāpuṣṭāpadmakarāpare) [śyāma+varṇaḥ](śyāmavarṇaḥ)
 
 ## mukta-m0-p23-v562
-[to-be-meditated](dhyeyaḥ) [always](sadā) [sun+orb+middle+dwelling](savitṛmaṃḍalamadhyavartī) [nārāyaṇa](nārāyaṇaḥ) [lotus+seat+seated](sarasijāsanasanniviṣṭaḥ) [armlet+possessing](keyūravān) [crocodile+earring+possessing](makarakuṃḍalavān) [crowned](kirīṭī) [garlanded](hārī) [golden+bodied](hiraṇmayavapuḥ) [holding+conch+discus](dhṛtaśaṃkhacakraḥ)
+[dhyeyaḥ](dhyeyassadā) [sadā](dhyeyassadā) [savitṛ+maṃḍala+madhya+vartī](savitṛmaṃḍalamadhyavartī) [nārāyaṇaḥ](nārāyaṇassarasijāsanasanniviṣṭaḥ) [sarasija+āsana+sanniviṣṭaḥ](sarasijāsanasanniviṣṭaḥ) [keyūravān](keyūravānmakarakuṃḍalavānkirīṭī) [makara+kuṃḍala+vān](makarakuṃḍalavān) [kirīṭī](kirīṭī) [hārī](hārī) [hiraṇmaya+vapuḥ](hiraṇmayavapuḥ) [dhṛta+śaṃkha+cakraḥ](dhṛtaśaṃkhacakraḥ) [svarṇa+varṇaḥ](svarṇavarṇaḥ)
 
 ## mukta-m0-p23-v563
-[I+salute](vaṃde+aham) [fierce+terrible+very+powerful+great+cheeked+bheruṇḍa](krūraghoraprabalataramahāgaṃḍabheruṃḍa) [lion+tiger+boar+monkey+best+bird+bear+etc.+eight+faced](siṃhavyāghrāścakroḍaśākhāmṛgavarakhagarāṅbhallukādyaṣṭavaktram) [thirty-two+crore+armed](dvātriṃśatkotibāhuṃ) [plough+pestle+mace+conch+discus+etc.+weapons](halamusalagadā+śaṃkhacakrādihetīn) [bearing](vibhrāṇaṃ) [terrible+tusked](bhīmadaṣṭraṃ) [śarabha+bird+elephants](śarabhakhagagajān) [devouring](bhakṣayaṃtaṃ) [nṛsiṃha](nṛsiṃham)
+[vaṃde](vaṃdehaṃ) [ahaṃ](vaṃdehaṃ) [krūra+ghora+prabala+tara+mahā+gaṃḍa+bheruṃḍa](krūraghoraprabalataramahāgaṃḍabheruṃḍa) [siṃha+vyāghra+āścakroḍa+śākhā+mṛga+vara+khaga+rāṅbhalluka+ādya+aṣṭa+vaktram](siṃhavyāghrāścakroḍaśākhāmṛgavarakhagarāṅbhallukādyaṣṭavaktram) [dvātriṃśat+koti+bāhuṃ](dvātriṃśatkotibāhuṃ) [hala+musala+gadā+śaṃkha+cakra+ādi+hetīḥ](halamusalagadāśaṃkhacakrādihetīrvibhrāṇaṃ) [vibhrāṇaṃ](vibhrāṇaṃ) [bhīma+daṃṣṭraṃ](bhīmadaṣṭraṃ) [śarabha+khaga+gaja+ān+bhakṣayaṃtaṃ](śarabhakhagagajānbhakṣayaṃtaṃ) [nṛsiṃham](nṛsiṃham)
 
 ## mukta-m0-p23-v564
-[in+body](śarīre) [red+colored](raktavarṇaḥ) [in+faces](mukheṣu) [of-those+respective+colors](tattadvarṇāḥ)
+[śarīre](śarīre) [rakta+varṇaḥ](raktavarṇaḥ) [mukheṣu](mukheṣu) [tattad+varṇāḥ](tattadvarṇāḥ)
 
 ## mukta-m0-p23-v565
-[thunderbolt+like+beak+nails](vajrasamānatuṃḍanakharaṃ) [fangs+two+tongued+faced](daṃṣṭridvijihvānanam)
+[vajra+sama+tuṃḍa+nakhara+daṃṣṭri+dvijihvā+ānanam](vajrasamānatuṃḍanakharaṃdaṃṣṭridvijihvānanam)
 
 ## mukta-m0-p23-v566
-[heart+belly+entering+eight+kālas+eight+durgās](hṛdayajaṭharagāhyaṣṭakālyaṣṭadurgā) [thigh+two+rudra+kālas](ūrūdvaurudrakālau) [bird+beast+man-lion+gaṇḍabheruṇḍa+form](khagamṛganṛharirgaṃḍabherūpaḥ) [may-protect](pāyāt) [us](asmān) [he](saḥ) [with-discus](cakraḥ) [hari](hariḥ) [here](iha) [śarabha+etc.+fierce+enemies](śarabhādyugraśatrūn) [piercing](pravidhyan)
+[hṛdaya+jaṭhara+gāhya+aṣṭa+kālya+aṣṭa+durgā](hṛdayajaṭharagāhyaṣṭakālyaṣṭadurgā) [ūrū+dvau+rudra+kālau+khaga+mṛga+nṛhari+gaṃḍa+bherūpaḥ+pāyāt+asmān](ūrūdvaurudrakālaukhagamṛganṛharirgaṃḍabherūpaḥpāyādasmān) [sa](sa) [cakro+hariḥ+iha+śarabha+ādi+ugra+śatrūn+pravidhyan](cakroharirihaśarabhādyugraśatrūnpravidhyan)
 
 ## mukta-m0-p23-v567
-[arm+pair+restrained+demon+hair+feet](bāhudvaṃdvoparuddhāsuraka+ca+caraṇaṃ) [arm+pair+raised+nail+tips](doryugodyannakhāgra) [covered+enemy+body](pracchannārāti+dehaṃ) [sun+moon+fire+three+eyed](raviśaśidahanatrīkṣaṇaṃ) [thunderbolt+winged](vajrapakṣam)
+[bāhu+dvandva+uparuddha+asura+ka+ca+caraṇaṃ](bāhudvaṃdvoparuddhāsuraka) [doryuga+udyat+nakhāgra+pracchanna+arāti+dehaṃ](doryugodyannakhāgrapracchannārāti) [ravi+śaśi+ dahana+trīkṣaṇaṃ](raviśaśidahanatrīkṣaṇaṃ) [vajra+pakṣam](vajrapakṣam)
 
 ## mukta-m0-p23-v568
-[golden+entrails](hairaṇyāṃtraṃ) [trident](triśūlaṃ) [shield](phalakam) [also](api) [great+noose+headed](mahāpāśaśīrṣaṃ) [pināka-bow](pinākaṃ) [thunderbolt](vajraṃ) [kaumodakī-mace](kaumodakīṃ) [and](ca) [also](api) [very+strong+pestle](atibalamasalaṃ) [holding](saṃdadhānaṃ) [with+hand+tips](karāgraiḥ)
+[hairaṇya+aṃtraṃ](hairaṇyāṃtraṃ) [triśūlaṃ](triśūlaṃ) [phalakam+api](phalakamapi) [mahā+pāśa+śīrṣaṃ](mahāpāśaśīrṣaṃ) [pinākaṃ](pinākaṃ) [vajraṃ](vajraṃ) [kaumodakīṃ](kaumodakīṃ) [ca+api+atibalam+asalaṃ+saṃdadhānaṃ](cāpyatibalamasalaṃsaṃdadhānaṃ) [karāgraiḥ](karāgraiḥ)
 
 ## mukta-m0-p23-v569
-[in+body](śarīre) [red+colored](raktavarṇaḥ) [in+faces](mukheṣu) [of-those+respective+colors](tattadvarṇāḥ)
+[śarīre](śarīreraktavarṇaḥ) [rakta+varṇaḥ](śarīreraktavarṇaḥ) [mukheṣu](mukheṣu) [tattad+varṇāḥ](tattadvarṇāḥ)
 
 ## mukta-m0-p23-v570
-[skull+garland+wearer](muṃḍamālādharaṃ) [terrible](raudraṃ) [with+neck+garland](kaṃṭhahāreṇa) [adorned](śobhitam)
+[muṃḍa+mālā+dharaṃ](muṃḍamālādharaṃ) [raudraṃ](raudraṃ) [kaṃṭha+hāreṇa](kaṃṭhahāreṇa) [śobhitam](śobhitam)
 
 ## mukta-m0-p23-v571
-[moon+crested](caṃdramauliṃ) [blue+throated](nilakṃṭhaṃ) [in+each+face](prativaktraṃ) [three+eyed](trilocanam)
+[caṃdra+mauliṃ](caṃdramauliṃ) [nīla+kaṃṭhaṃ](nilakṃṭhaṃ) [prati+vaktraṃ](prativaktraṃ) [tri+locanam](trilocanam)
 
 ## mukta-m0-p23-v572
-[rosary](akṣasūtraṃ) [mace](gadāṃ) [lotus](padmaṃ) [conch](śaṃkhaṃ) [cow+milk+like](gokṣīrasannibham)
+[akṣa+sūtraṃ](akṣasūtraṃ) [gadāṃ](gadāṃ) [padmaṃ](padmaṃ) [śaṃkhaṃ](śaṃkhaṃ) [go+kṣīra+sannibham](gokṣīrasannibham)
 
 ## mukta-m0-p23-v573
-[sword](khaḍgaṃ) [and](ca) [trident+noose](śūlapāśau) [and](ca) [nṛsiṃha](nṛsiṃhaṃ) [rudra+formed](rudrarūpiṇam)
+[khaḍgaṃ](khaḍgaṃ) [ca](ca) [śūla+pāśau](śūlapāśau) [ca](ca) [nṛsiṃhaṃ](nṛsiṃhaṃ) [rudra+rūpiṇam](rudrarūpiṇam)
 
 ## mukta-m0-p23-v574
-[indragopa-insect+blue+hued](iṃdragopakanīlābhaṃ) [moon+hued](caṃdrābhaṃ) [gold+like](svarṇasannibham) [east+etc.+to+north+end+faces](pūrvādimottarāṃtāsyam) [upper+face](ūdhrvāsyaṃ) [all+colored](sarvavarṇakam)
+[iṃdragopaka+nīlābhaṃ](iṃdragopakanīlābhaṃ) [caṃdra+ābhaṃ](caṃdrābhaṃ) [svarṇa+sannibham](svarṇasannibham) [pūrva+ādi+uttara+aṃta+asya+mūdhra+āsyaṃ](pūrvādimottarāṃtāsyamūdhrvāsyaṃ) [sarva+varṇakam](sarvavarṇakam)
 
 ## mukta-m0-p23-v575
-[bearing](bibhrāṇaṃ) [of+all+worlds](sarvajagatām) [support](ādhāraṃ) [O+daughter+of+mountain](girikanyake) [in+body](śarīre) [red+colored](raktavarṇaḥ) [in+faces](mukheṣu) [of+colors](varṇānāṃ) [group+of+five](paṃcakam)
+[bibhrāṇaṃ](bibhrāṇaṃ) [sarva+jagatām+ādhāraṃ](sarvajagatāmādhāraṃ) [giri+kanyake](girikanyake) [śarīre](śarīreraktavarṇaḥ) [rakta+varṇaḥ](śarīreraktavarṇaḥ) [mukheṣu](mukheṣu) [varṇānāṃ](varṇānāṃ) [paṃcakam](paṃcakam)

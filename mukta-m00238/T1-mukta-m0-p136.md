@@ -2,13 +2,13 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p136-v3376
-[umbrella-shaped](chatrākāraṃ) [very-smooth](mahāsnigdhaṃ) [opening](dvāraṃ) [not](nāsti) [that](sa) [mark](biṃdukam)
+[umbrella-shaped](chatrākāraṃ) [very-smooth](mahāsnigdhaṃ) [door](dvāraṃ) [not](nāsti) [it](sa) [spot](biṃdukam)
 
 ## mukta-m0-p136-v3377
-[on-back-side](pṛṣṭhabhāge) [likewise](tathā) [golden](hema) [with-mark](biṃdunā) [adorned](paribhūṣitaḥ)
+[back-part](pṛṣṭhabhāge) [thus](tathā) [gold](hema) [spot](biṃdunā)+[adorned](paribhūṣitaḥ)
 
 ## mukta-m0-p136-v3378
-[in-vārāha-field](vārāhakṣetra) [by-origin](muptattyā)
+[vārāha-field](vārāhakṣetram) [by-origin](uptattyā)
 
 ## mukta-m0-p136-v3379
 [four-wheeled](catuścakraṃ) [janārdana](janārdanaḥ)
@@ -17,61 +17,61 @@
 [three-wheeled](tricakraṃ) [and](ca) [in-acyuta](acyute) [to-be-known](jñeyaṃ) [four-wheeled](catuścakraṃ) [in-janārdana](janārdane)
 
 ## mukta-m0-p136-v3381
-[seven-wheeled](saptacakraṃ) [indeed](tu) [in-vārāha](vārāhe) [and](ca) [eight](aṣṭakaṃ) [and](ca) [in-puruṣottama](puruṣottame)
+[seven-wheeled](saptacakraṃ) [indeed](tu) [in-vārāha](vārāhe) [and-eightfold](cāṣṭakaṃ) [and](ca) [in-puruṣottama](puruṣottame)
 
 ## mukta-m0-p136-v3382
-[eleven](ekādaśa) [indeed](tu) [in-pradyumna](pradyumne) [and](tu) [in-ananta](anaṃte) [twelve](dvādaśa) [remembered](smṛtām)
+[eleven](ekādaśa) [indeed](tu) [in-pradyumna](pradyumne) [but](tu) [in-ananta](anaṃte) [twelve](dvādaśa) [remembered](smṛtām)
 
 ## mukta-m0-p136-v3383
-[in-others](anyeṣu) [in-many-wheeled](bahūcakreṣu) [supreme-self](paramātmā) [established](pratiṣṭhitaḥ)
+[in-others](anyeṣu) [many-wheeled](bahūcakreṣu) [supreme-self](paramātmā) [established](pratiṣṭhitaḥ)
 
 ## mukta-m0-p136-v3384
-[thousand-śiva-nābhas](śivanābhasahasraṃ) [and](ca) [thousand-śāligrāmas](sāligrāmasahasrakam)
+[shiva-navel-thousand](śivanābhasahasraṃ) [and](ca) [sāligrāma-thousand](sāligrāmasahasrakam)
 
 ## mukta-m0-p136-v3385
-[so-many](tāvatyaḥ) [forms](mūrtayaḥ) [are](saṃti) [in-śāligrāmas](sāligrāmeṣu) [o-nārada](nārada)
+[so-many](tāvatyo) [forms](mūrtayaḥ) [are](saṃti) [in-sāligrāmas](sāligrāmeṣu) [nārada](nārada)
 
 ## mukta-m0-p136-v3386
-[not](na) [possible](śakyate) [by-me](mayā) [to-tell](āvaktuṃ) [even-in-hundred-crores-of-kalpas](kalpakoṭiśatairapi)
+[not](na) [possible](śakyate) [by-me](mayā) [to-speak](vaktuṃ) [kalpa-crore-hundreds](kalpakoṭiśatair) [even](api)
 
 ## mukta-m0-p136-v3387
-[without-wheel](acakraṃ) [indeed](tu) [likewise](tathā) [rubbed](ghṛṣṭaṃ) [crooked-mouthed](vakrāsyaṃ) [or](vā) [broken](bhinnam) [indeed](eva)
+[wheel-less](acakraṃ) [indeed](tu) [thus](tathā) [rubbed](ghṛṣṭaṃ) [crooked-face](vakrāsyaṃ) [broken](bhinnaṃ) [indeed](eva) [or](vā)
 
 ## mukta-m0-p136-v3388
-[long-shining](dīrghaśobhitam) [unblemished-bodied](acchāṃgam) [or](vā) [of-gentle-form](saumyākṛtim) [indeed](eva)
+[long-beautiful](dīrghaśobhitaṃ) [clear-limbed](acchāṃgaṃ) [not-gentle-form](asaumyākṛtiṃ) [indeed](eva) [or](vā)
 
 ## mukta-m0-p136-v3389
-[endowed-with-many-marks](bahubāṇasamāyuktaṃ) [with-trembling-visible-wheel](sphuritālakṣyacakrakam)
+[many-arrow-endowed](bahubāṇasamāyuktaṃ) [trembling-mark-wheel](sphuritālakṣyacakrakam)
 
 ## mukta-m0-p136-v3390
-[bound](baṃdhanaṃ) [bound-wheel](baddhacakraṃ) [and](ca) [cruel-wheel](krūracakraṃ) [likewise](tathā) [one-should-reject](tyajet)
+[bondage](baṃdhanaṃ) [bound-wheel](baddhacakraṃ) [and](ca) [cruel-wheel](krūracakraṃ) [thus](tathā) [abandon](tyajet)
 
 ## mukta-m0-p136-v3391
-[frog-like](dardduraṃ) [cracked](sphuṭitaṃ) [burnt](dagdhaṃ) [triangular](trikoṇaṃ) [one-should-avoid](parivarjayet)
+[frog-like](dardduraṃ) [cracked](sphuṭitaṃ) [burnt](dagdhaṃ) [triangular](trikoṇaṃ) [avoid](parivarjayet)
 
 ## mukta-m0-p136-v3392
-[many-lined](bahurekhaṃ) [perforated](paricchidraṃ) [crosswise-wheel](tiryakcakraṃ) [likewise](tathā) [one-should-reject](tyajet)
+[many-line](bahurekhaṃ) [perforated](paricchidraṃ) [slanting-wheel](tiryakcakraṃ) [thus](tathā) [abandon](tyajet)
 
 ## mukta-m0-p136-v3393
-[binding](baṃdhakaṃ) [bound-wheel](baddhacakraṃ) [and](ca) [triangular](trikoṇaṃ) [destroyer-of-kin](baṃdhunāśanam)
+[bondage](baṃdhakaṃ) [bound-wheel](baddhacakraṃ) [and](ca) [triangular](trikoṇaṃ) [bond-destroying](baṃdhunāśanam)
 
 ## mukta-m0-p136-v3394
-[destroyer-of-wealth](arthadhnī) [blemished](vimalā) [and](ca) [may-be](syāt) [rough](karkaśaṃ) [field](kṣetram) [indeed](eva) [and](ca)
+[wealth-destroying](arthadhnī) [spotless](vimalā) [and](ca) [is](syāt) [rough](karkaśaṃ) [field](kṣetraṃ) [indeed](eva) [and](ca)
 
 ## mukta-m0-p136-v3395
-[solidity](ghanatvaṃ) [growth](vṛddham) [having-observed](ālokya) [should-take](gṛhṇīyāt) [wise](buddhimān) [man](naraḥ)
+[density](ghanatvaṃ) [increased](vṛddhaṃ) [seeing](ālokya) [should-take](gṛhṇīyāt) [wise-man](buddhimān) [man](naraḥ)
 
 ## mukta-m0-p136-v3396
-[therefore](tasmāt) [by-giving-of-this](asyapradānena) [pleased](prītaḥ) [may-be](bhavatu) [mādhava](mādhavaḥ)
+[therefore](tasmāt) [by-its-gift](asyapradānena) [pleased](prītaḥ) [let-be](bhavatu) [mādhava](mādhavaḥ)
 
 ## mukta-m0-p136-v3397
-[both-those](tāvubhau) [doers-of-merit](puṇyakarmāṇau) [hell-bound](narakī) [buyer-and-seller](krayavikrayī)
+[both](tāvubhau) [meritorious](puṇyakarmāṇau) [hell-dwellers](narakī) [buyer-seller](krayavikrayī)
 
 ## mukta-m0-p136-v3398
-[where](yatra) [body-of-śāligrāma](sāligrāmavapuḥ) [there](tatra) [fault](doṣaḥ) [not](na) [exists](vidyate)
+[sāligrāma-body](sāligrāmavapuḥ) [where](yatra) [there](tatra) [fault](doṣaḥ) [not](na) [exists](vidyate)
 
 ## mukta-m0-p136-v3399
-[broken](khaṇḍitā) [or](vā) [cracked](sphuṭitā) [or](vāpi) [śāligrāma-stone](sāligrāmaśilā) [auspicious](śubhā)
+[broken](khaṇḍitā) [cracked](sphuṭitā) [or](vā) [also](api) [sāligrāma-stone](sāligrāmaśilā) [auspicious](śubhā)
 
 ## mukta-m0-p136-v3400
-[keśava](keśavaṃ) [or](vā) [śiva](śivaṃ) [or](vāpi) [having-touched](spṛṣṭvā) [hell](narakam) [experiences](aśnute)
+[keśava](keśavaṃ) [or](vā) [śiva](śivaṃ) [or](vā) [also](api) [touching](spṛṣṭvā) [hell](narakaṃ) [attains](aśnute)

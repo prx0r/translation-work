@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p41-v1001
-[black-antelope-skin+upper-garment](kṛṣṇājina+uttarīyaṃ) [and](ca) [matted-haired](jaṭilaṃ) [tawny+splendor](piṃgala+prabham) [tawny-colored](piṃgalavarṇaḥ)
+[black-deer-skin-upper-garment](kṛṣṇājinottarīyaṃ) [and](ca) [matted-hair-tawny-radiant](jaṭilaṃpiṃgalaprabham) [tawny-colored](piṃgalavarṇaḥ)
 
 ## mukta-m0-p41-v1002
-[rosary](akṣamālāṃ) [water-pot](kuṃḍikāṃ) [and](ca) [holding](dadhataṃ) [cloud+dark](ghana+mecakam) [blue-colored](nīlavarṇaḥ)
+[rosary-waterpot](akṣamālāṃkuṃḍikāṃ) [and](ca) [bearing-dark-blue](dadhataṃghanamecakam) [blue-colored](nīlavarṇaḥ)
 
 ## mukta-m0-p41-v1003
-[matted-haired](jaṭilaṃ) [bearded](śmaśrulaṃ) [staff](daṃḍa) [bark-garment+resplendent](kamaṃlu+karojjvalam)
+[matted-haired-bearded-staff-bearing-lustrous](jaṭilaṃśmaśrulaṃdaṃḍakamaṃlukarojjvalam)
 
 ## mukta-m0-p41-v1004
-[seven-flamed](saptārcir) [like](iva) [shining](bhāsvaṃtaṃ) [meditate](dhyāyehaṃ) [austerities+abode](tapasāṃ+nidhim) [red-colored](raktavarṇaḥ)
+[seven-flamed-radiant](saptārcirivabhāsvaṃtaṃ) [meditate-here-ascetic-treasure](dhyāyehaṃtapasāṃnidhim) [red-colored](raktavarṇaḥ)
 
 ## mukta-m0-p41-v1005
-[matted-hair+crown+adorned](jaṭā+makuṭa+śobhāḍhyaṃ) [twilight-cloud+red+form](saṃdhyā+bhrā+aruṇa+vigraham)
+[matted-hair-crown-beautiful](jaṭāmakuṭaśobhāḍhyaṃ) [twilight-cloud-reddish-body](saṃdhyābhrāruṇavigraham)
 
 ## mukta-m0-p41-v1006
-[rosary+water-pot+in-hand](akṣasrak+kuṃḍikā+hastaṃ) [bark-cloth+black-antelope-skin+garment](cīra+kṛṣṇājina+aṃbaram) [vermilion-colored](siṃdūravarṇaḥ)
+[rosary-waterpot-hand-bark-black-deer-skin-garment](akṣasrakkuṃḍikāhastaṃcīrakṛṣṇājināṃbaram) [vermilion-colored](siṃdūravarṇaḥ)
 
 ## mukta-m0-p41-v1007
-[praṇava+brahman+absorbed+mind](praṇava+brahma+saṃsakta+cittaṃ) [true+gold+splendor](sat+kāṃcana+prabham)
+[om-brahma-attached-mind](praṇavabrahmasaṃsaktacittaṃ) [good-gold-radiant](satkāṃcanaprabham)
 
 ## mukta-m0-p41-v1008
-[progeny+creation+engaged](prajā+saṃsarjana+udyuktam) [rosary+water-pot+holding](akṣasrak+kuṃḍikā+dharam) [golden-colored](kāṃcanavarṇaḥ)
+[beings-creation-engaged-rosary-waterpot-bearing](prajāsaṃsarjanodyuktamakṣasrakkuṃḍikādharam) [golden-colored](kāṃcanavarṇaḥ)
 
 ## mukta-m0-p41-v1009
-[salutation+joined-palms](namaskāra+aṃjaliṃ) [I-praise](vaṃde) [Śiva+meditation+devoted](śiva+dhyāna+parāyaṇam) [self-born](svāyaṃbhuvaṃ) [cloud+dark](ghana+śyāmaṃ) [Dakṣa](dakṣam) [sacrifice+initiated](adhvara+dīkṣitam) [dark-colored](śyāmavarṇaḥ)
+[salutation-folded-hands-worship](namaskārāṃjaliṃvaṃde) [shiva-meditation-devoted](śivadhyānaparāyaṇam) [self-born](svāyaṃbhuvaṃ) [dense-dark](ghanaśyāmaṃ) [daksha-sacrifice-initiated](dakṣamadhvaradīkṣitam) [dark-colored](śyāmavarṇaḥ)
 
 ## mukta-m0-p41-v1010
-[matted-haired](jaṭilāś) [bearded](śmaśrulāś) [peaceful](śāṃtā) [seated](āsīnā) [meditation+intent](dhyāna+tatparāḥ)
+[matted-haired-bearded-peaceful-seated](jaṭilāśśmaśrulāśśāṃtā-āsīnā) [meditation-devoted](dhyānatatparāḥ)
 
 ## mukta-m0-p41-v1011
-[Jamadagni](jamadagnir) [Vasiṣṭha](vasiṣṭho) [three+seven](tri+sapta) [Vaivasvata+age](vaivasvateṃ+tare)
+[jamadagni-vasishtha](jamadagnirvasiṣṭho) [twenty-one](trisapta) [vaivasvata-manvantara](vaivasvateṃtare)
 
 ## mukta-m0-p41-v1012
-[rosary+water-pot+staff](akṣasrak+kuṃḍikā+daṃḍān) [holding](dadhānaṃ) [Gautama](gautamaṃ) [I-worship](bhaje) [golden-colored](kanakavarṇaḥ)
+[rosary-waterpot-staff-bearing](akṣasrakkuṃḍikādaṃḍāndadhānaṃ) [gautama-worship](gautamaṃbhaje) [gold-colored](kanakavarṇaḥ)
 
 ## mukta-m0-p41-v1013
-[rosary+staff+in-hand](akṣasrag+daṃḍa+hastaṃ) [and](ca) [sage](munim) [Āṅgirasa](āṃgirasaṃ) [I-worship](bhaje) [dark-colored](śyāmavarṇaḥ)
+[rosary-staff-hand](akṣasragdaṃḍahastaṃ) [and](ca) [sage-angiras-worship](munimāṃgirasaṃbhaje) [dark-colored](śyāmavarṇaḥ)
 
 ## mukta-m0-p41-v1014
-[Kumudvatī+lord](kumudvatī+patiṃ) [peaceful](śāṃtaṃ) [Viśvāmitra](viśvāmitraṃ) [I-worship](bhajāmyaham) [yellow-colored](pītavarṇaḥ)
+[kumudvati-lord-peaceful](kumudvatīpatiṃśāṃtaṃ) [vishvamitra-worship-i](viśvāmitraṃbhajāmyaham) [yellow-colored](pītavarṇaḥ)
 
 ## mukta-m0-p41-v1015
-[rosary+holding](japa+akṣasrag+dharaṃ) [wife+accompanied](patnī+sahitaṃ) [sage+best](muni+puṃgavam) [dark-colored](kṛṣṇavarṇaḥ)
+[japa-rosary-bearing](japākṣasragdharaṃ) [wife-accompanied](patnīsahitaṃ) [sage-bull](munipuṃgavam) [black-colored](kṛṣṇavarṇaḥ)
 
 ## mukta-m0-p41-v1016
-[staff+rosary+in-hand](daṃḍa+akṣasūtra+pāṇiṃ) [and](ca) [Jamadagni](jamadagniṃ) [I-bow](namāmyaham) [red-colored](raktavarṇaḥ)
+[staff-rosary-thread-hand](daṃḍākṣasūtrapāṇiṃ) [and](ca) [jamadagni](jamadagniṃ) [bow-i](namāmyaham) [red-colored](raktavarṇaḥ)
 
 ## mukta-m0-p41-v1017
-[rosary+staff+in-hand](srag+daṃḍa+pāṇiṃ) [boon-giver](varadaṃ) [Vasiṣṭha](vasiṣṭhaṃ) [I-bow](praṇamāmyaham) [white-colored](sitavarṇaḥ)
+[garland-staff-hand-boon-giving](sragdaṃḍapāṇiṃvaradaṃ) [vasishtha](vasiṣṭhaṃ) [bow-i](praṇamāmyaham) [white-colored](sitavarṇaḥ)
 
 ## mukta-m0-p41-v1018
-[Anasūyā+husband](anasūyā+patiṃ) [peaceful](śāṃtam) [Atri](atriṃ) [blemishless](niṣkalmaṣaṃ) [I-worship](bhaje) [dark-colored](asitavarṇaḥ)
+[anasuya-lord-peaceful-atri-sinless-worship](anasūyāpatiṃśāṃtamatriṃniṣkalmaṣaṃbhaje) [black-colored](asitavarṇaḥ)
 
 ## mukta-m0-p41-v1019
-[white+red](sita+aruṇaṃ) [yellow+black](pīta+kṛṣṇaṃ) [lion+forms](siṃha+rūpāḥ) [are-declared](prakīrtitāḥ)
+[white-reddish](sitāruṇaṃ) [yellow-black-lion-formed](pītakṛṣṇaṃsiṃharūpāḥ) [proclaimed](prakīrtitāḥ)
 
 ## mukta-m0-p41-v1020
-[Yama](yama) [Vāyu](vāyu) [Śiva](śiva) [Indra](iṃdrāś) [and](ca) [to-be-known](jñeyā) [Dharma+etc.+deities](dharmā+di+devatāḥ)
+[yama-vayu-shiva-indra-and](yamavāyuśiveṃdrāśca) [known-dharma-first-deities](jñeyādharmādidevatāḥ)
 
 ## mukta-m0-p41-v1021
-[four-armed](caturbhujās) [lion-faced](siṃha+vaktrās) [white+first](sita+pūrvā) [red](aruṇāḥ) [others](pare)
+[four-armed-lion-faced-white](caturbhujāssiṃhavaktrāssita) [eastern-reddish-others](pūrvāruṇāḥpare)
 
 ## mukta-m0-p41-v1022
-[with-other-two](aparābhyāṃ) [and](ca) [holding](vibhrāṇāḥ) [with-hands](karābhyāṃ) [yoga+seats](yoga+pīṭhakau)
+[by-other-two](aparābhyāṃ) [and](ca) [bearing](vibhrāṇāḥ) [by-hands](karābhyāṃ) [yoga-seat-two](yogapīṭhakau)
 
 ## mukta-m0-p41-v1023
-[in-face](mukhe) [white-colored](śvetavarṇāḥ) [on-body](śarīre) [red-colored](ruṇavarṇāḥ)
+[in-faces-white-colored](mukheśvetavarṇāḥ) [in-bodies-red-colored](śarīreruṇavarṇāḥ)
 
 ## mukta-m0-p41-v1024
-[Nirṛti](nir-ṛtiś) [and](ca) [indeed](eva) [Durgā](durgā) [and](ca) [Kāma](kāma) [or](rudras) [likewise](tathaiva) [and](ca)
+[nirriti-and-indeed](nir-ṛtiścaiva) [durga](durgā) [and](ca) [kama-rudra-so](kāmorudrastathaiva) [and](ca)
 
 ## mukta-m0-p41-v1025
-[gods+son+lotus-feet](gīrvāṇa+muta+pādābjaṃ) [sacred](puṇyaṃ) [in-heart](hṛdi) [I-meditate](vibhāvaye) [golden-colored](svarṇavarṇaḥ)
+[divine-foot-lotus-pure](gīrvāṇamutapādābjaṃpuṇyaṃ) [in-heart-meditate](hṛdivibhāvaye) [gold-colored](svarṇavarṇaḥ)

@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p49-v1201
-[bright-faced](prasanna+vadanāḥ) [gentle](saumyā) [boon-giving](varadāḥ) [spear-in-hand](śakti+pāṇayaḥ)
+bright-faced gentle boon-giving holding-shakti
 
 ## mukta-m0-p49-v1202
-[lotus-seat-situated](padma+āsana+sthā) [two-armed](dvi+bhujāḥ) [to-be-made](kartavyā) [winds](vasavaḥ) [always](sadā)
+lotus-seated two-armed to-be-made eight always
 
 ## mukta-m0-p49-v1203
-[from-all-sides](ā+samaṃtāt) [moving-about](saṃcariṣṇuḥ) [on-very-fierce-garuḍa-situated](su+tīvra+garuḍa+sthitaḥ)
+from-all-around moving very-swift garuda-seated
 
 ## mukta-m0-p49-v1204
-[smoke-colored](dhūmra+varṇaḥ)
+smoke-colored
 
 ## mukta-m0-p49-v1205
-[in-sky-middle-gone](nabhaḥ+madhya+gataḥ) [wind](vāyuḥ) [Vivaha](vivahaḥ) [prosperity-giving](bhūti+daḥ) [to-you](tu) [to-me](me)
+sky-middle-gone wind vivaha prosperity-arm to-me
 
 ## mukta-m0-p49-v1206
-[red-colored](rakta+varṇaḥ)
+red-colored
 
 ## mukta-m0-p49-v1207
-[the-world](jagatīṃ) [shaking](kṣobhayan) [always](nityam) [Udvaha](udvahaḥ) [is-worshipped](sevyate) [by-me](mayā)
+world shaking always udvaha served by-me
 
 ## mukta-m0-p49-v1208
-[yellow-colored](pīta+varṇaḥ)
+yellow-colored
 
 ## mukta-m0-p49-v1209
-[cool-water-drop-stream](śīta+aṃbu+kaṇa+saṃvāhaḥ) [Saṃvaha](saṃvahaḥ) [happiness-giving](sukha+daḥ) [to-you](tu) [to-me](me)
+cool-water-drop carrying samvaha happiness-arm to-me
 
 ## mukta-m0-p49-v1210
-[dark-colored](śyāma+varṇaḥ)
+dark-colored
 
 ## mukta-m0-p49-v1211
-[Nivaha](nivahaṃ) [wind-best](pavana+śreṣṭhaṃ) [with-head](śirasā) [I-bow](praṇamāmi) [I](aham)
+multitude wind-best head bow I
 
 ## mukta-m0-p49-v1212
-[white-colored](śveta+varṇaḥ)
+white-colored
 
 ## mukta-m0-p49-v1213
-[of-the-winds](marutāṃ) [Pravaha](pravahaṃ) [always](nityam) [I-take-refuge](āśraye) [Anuvaha-named](anuvaha+abhidham)
+winds pravaha always resort nuvaha-named
 
 ## mukta-m0-p49-v1214
-[black-colored](asita+varṇaḥ)
+black-colored
 
 ## mukta-m0-p49-v1215
-[let-be-worshipped](sevyatāṃ) [by-multitudes-of-beings](prāṇi+nivahaiḥ) [wind-Vyavaha-named](marut+vyavaha+saṃjñakaḥ)
+served by-beings multitude wind vyavaha named
 
 ## mukta-m0-p49-v1216
-[reddish-colored](aruṇa+varṇaḥ)
+reddish-colored
 
 ## mukta-m0-p49-v1217
-[Nivaha](nivahaḥ) [Anuvaha](anuvahaḥ) [and](ca) [indeed](eva) [Vyavaha](vyavahaḥ) [thus](iti) [by-names](nāmabhiḥ)
+nivaha nuvaha and vyavaha thus names
 
 ## mukta-m0-p49-v1218
-[color](varṇaḥ) [this](ayam) [of-the-winds](marutām) [declared](uktaḥ) [of-the-seven](saptānām) [in-due-order](ānu+pūrvyaśaḥ) [|| 1](|| 1)
+color this winds said seven in-order
 
 ## mukta-m0-p49-v1219
-[Prāṇa](prāṇaḥ) [(1)]((1)) [Apāna](apānaḥ) [(2)]((2)) [Vyāna](vyānaḥ) [(3)]((3)) [Udāna](udānaḥ) [(4)]((4)) [Samāna](samānaḥ) [(5)]((5)) [Nāga](nāgaḥ) [(6)]((6)) [Kṛkara](kṛkaraḥ) [(7)]((7)) [Kūrma](kūrmaḥ) [(8)]((8)) [Devadatta](devadattaḥ) [(9)]((9)) [Dhanaṃjaya](dhanaṃjayaḥ) [(10)]((10)) [Pravaha](pravahaḥ) [(11)]((11)) [Vivaha](vivahaḥ) [(12)]((12)) [Śaṃbhu](śaṃbhuḥ) [(13)]((13)) [Saṃvaha](saṃvahaḥ) [(14)]((14)) [Parivaha](parivahaḥ) [(15)]((15)) [Udvaha](udvahaḥ) [(16)]((16)) [Āvaha](āvahaḥ) [(17)]((17)) [Śaṃku](śaṃkuḥ) [(18)]((18)) [Kāla](kālaḥ) [(19)]((19)) [Prāvaha](prāvahaḥ) [(20)]((20)) [Śāsa](śāsaḥ) [(21)]((21)) [Anila](anilaḥ) [(22)]((22)) [Anala](analaḥ) [(23)]((23)) [Pratibha](pratibhaḥ) [(24)]((24)) [Kumuda](kumudaḥ) [(25)]((25)) [Kāṃta](kāṃtaḥ) [(26)]((26)) [Śibi](śibiḥ) [(27)]((27)) [Śveta](śvetaḥ) [(28)]((28)) [Rakta](raktaḥ) [(29)]((29)) [Kṛṣṇa](kṛṣṇaḥ) [(30)]((30)) [Jita](jitaḥ) [(31)]((31)) [Ajita](ajitaḥ) [(32)]((32)) [Jaṃjhādyota](jaṃjhādyotaḥ) [(33)]((33)) [Kratu](kratuḥ) [(34)]((34)) [Siddha](siddhaḥ) [(35)]((35)) [Piṃga](piṃgaḥ) [(36)]((36)) [Śuci](śuciḥ) [(37)]((37)) [Saumya](saumyaḥ) [(38)]((38)) [Kāmya](kāmyaḥ) [(39)]((39)) [Māruta](mārutaḥ) [(40)]((40)) [Hanu](hanuḥ) [(41)]((41)) [Kaṃpana](kaṃpanaḥ) [(42)]((42)) [Maṃḍūka](maṃḍūkaḥ) [(43)]((43)) [Bhīma](bhīmaḥ) [(44)]((44)) [Kapi](kapiḥ) [(45)]((45)) [Saṃvartaka](saṃvartakaḥ) [(46)]((46)) [Jaḍa](jaḍaḥ) [(47)]((47)) [Atijaḍa](atijaḍaḥ) [(48)]((48)) [Saṃtata](saṃtataḥ) [(49)]((49))
+prana apāna vyāna udāna samāna nāga kṛkara kūrma devadatta dhanaṃjaya pravaha vivaha śaṃbhu saṃvaha parivaha udvaha āvaha śaṃku kāla prāvaha śāsa anila anala pratibha kumuda kāṃta śibi śveta rakta kṛṣṇa jita ajita jaṃjhādyota kratu siddha piṃga śuci saumya kāmya māruta hanu kaṃpana maṃḍūka bhīma kapi saṃvartaka jaḍa atijaḍa saṃtata
 
 ## mukta-m0-p49-v1220
-[with-crown-garland-armlet](kirīṭa+hāra+keyūra) [bracelet-etc.](kaṭaka+ādi) [adorned](vibhūṣitāḥ)
+crown-necklace-armlet bracelet-etc adorned
 
 ## mukta-m0-p49-v1221
-[of-these](eteṣāṃ) [color-and-form](varṇa+rū+rūpāṇi) [of-the-principal](mukhyānāṃ) [winds](marutāṃ) [as](yathā) [|| 2](|| 2)
+these color-forms chief winds as
 
 ## mukta-m0-p49-v1222
-[to-be-made](kartavyā) [in-left-hand](vāma+pāṇau) [indeed](tu) [bow-holders](śarāsana+dharāḥ) [white](sitāḥ) [|| 1 || - ||](|| 1 || - ||)
+to-be-made left-hand bow-holding white
 
 ## mukta-m0-p49-v1223
-[Purūravas](purūravāḥ) [Ārdrava](ārdravau) [and](ca) [thus](iti) [Viśvedevas](viśve+devāḥ) [ten](daśa) [remembered](smṛtāḥ)
+pururava ardrava and thus vishvedevas ten remembered
 
 ## mukta-m0-p49-v1224
-[white-colored](śveta+varṇāḥ)
+white-colored
 
 ## mukta-m0-p49-v1225
-[in-right-hand-rosary](dakṣe+akṣa+mālikāṃ) [in-left](vāme) [vessel](pātraṃ) [and](ca) [bearing-many-jewels](bahu+ratna+bhṛt)
+daksha eye rosary left vessel and many-jewel bearing

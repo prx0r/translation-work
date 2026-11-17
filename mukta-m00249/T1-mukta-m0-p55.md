@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p55-v1351
-[in-east](prācyām) [in-front](agrataḥ) [śambhu](śaṃbhu) [not](na) [in-north](uttare) [in-woman’s-abode](yoṣitā+āśraye)
+[eastern](prācyām) [before](agrataḥ) [śambhu](śaṃbhu) [not-northern](nottare) [women-refuge](yoṣitāśraye)
 
 ## mukta-m0-p55-v1352
-[in-yogaja](yogaje) - [in-worship](arcanā) [in-section](prakaraṇe)
+[yoga-born](yogaje) [worship](arcanā) [section](prakaraṇe)
 
 ## mukta-m0-p55-v1353
-[sadyojāta](sadyo+jātaṃ) [should-be](bhavet) [in-east](prācyāṃ) [aghora](ghoraṃ) [vāma](vāmaṃ) [and](ca) [as-before](pūrva+vat)
+[immediately-born](sadyo+jātaṃ) [becomes](bhavet) [eastern](prācyāṃ) [fierce](ghoraṃ) [left](vāmaṃ) [as-before](pūrvavat)
 
 ## mukta-m0-p55-v1354
-[first](prathamaṃ) [śiva-sādākhya](śiva+sādākhyaṃ) [form](mūrti) [second](dvitīyakam)
+[first](prathamaṃ) [śiva-sādā-named](śivasādākhyaṃ) [form](mūrti) [second](dvitīyakam)
 
 ## mukta-m0-p55-v1355
-[fifth](pañcamaṃ) [karma-sādākhya](karma+sādākhyaṃ) [five-sādākhya](pañca+sādākhyam) [is-called](ucyate)
+[fifth](pañcamaṃ) [karma-sādā-named](karmasādākhyaṃ) [five-sādā-named](pañcasādākhyam) [is-said](ucyate)
 
 ## mukta-m0-p55-v1356
-[īśvara](īśvaraṃ) [pot](kuṃbha) [form](mūrtiṃ) [and](ca) [fire-form](agni+mūrtiṃ) [and](ca) [rudra](rudrakā)
+[īśvara](īśvaraṃ) [pot](kuṃbha) [form](mūrtiṃ) [and](ca) [fire-form](agnimūrtiṃ) [and](ca) [rudra](rudrakā)
 
 ## mukta-m0-p55-v1357
-[from-liṅga](liṃgāt) [its-form](tat+rūpakaṃ) [having-known](jñātvā) [one-should-arrange](kalpayet) [seat](sādanaṃ) [then](tataḥ)
+[from-liṅga](liṃgāt) [that-form](tadrūpakaṃ) [knowing](jñātvā) [should-arrange](kalpayet) [worship](sādanaṃ) [then](tataḥ)
 
 ## mukta-m0-p55-v1358
-[in-ārṣa-and-gāṇava](ārṣe+gāṇave) [child](vatsa) [one-should-arrange](kalpayet) [three-seats](āsana+trayam)
+[ārṣa-gāṇava](ārṣegāṇave) [child](vatsa) [should-arrange](kalpayet) [three-seats](āsanatrayam)
 
 ## mukta-m0-p55-v1359
-[jasmine-moon-colored](kunda+indu+varṇāṃ) [boon-giving](varadāṃ) [three-eyed](triṇetrāṃ) [in-diadem](koṭīra-)
+[jasmine-moon-colored](kundenduvarṇāṃ) [boon-giving](varadāṃ) [three-eyed](triṇetrāṃ) [crown](koṭīra-)
 
 ## mukta-m0-p55-v1360
-[middle](madhya) [situated](saṃsthāṃ) [support-power](ādhāra+śaktim) [thus](iti) [to-be-meditated](cintyam) [at-root](ūle)
+[middle-situated](madhya+saṃsthāṃ) [support-power](ādhāraśaktim) [thus](iti) [think](cintya) [at-root](mūle)
 
 ## mukta-m0-p55-v1361
-[part](bhāga) [situated](sthita) [by-nāgas](nāgaiḥ) [by-eight](aṣṭabhiḥ) [in-eight-directions](aṣṭa+dikṣu) [placed](nihitai-)
+[part](bhāga) [situated](sthita) [serpents](nāgaiḥ) [eight](aṣṭabhiḥ) [eight-directions-placed](aṣṭadikṣu+nihitaiḥ)
 
 ## mukta-m0-p55-v1362
-[similar](sadṛśaṃ) [rādhū-here](rādhū-matra) [with-smoke](dhūma+trānvitam) | [conch-colored](śaṃkha+ābha) [spha-](spha-)
+[similar](sadṛśaṃ) [rādhū-matra](rādhū-matra) [smoke-accompanied](dhūmatrānvitam) [conch-colored](śaṃkhābha-spha-)
 
 ## mukta-m0-p55-v1363
-[ananta-seat](ra+naṃta+āsanam) | [above-yoga](yogasya+upari) [saṃhya](saṃhya) * * * *
+[ananta-seat](ranaṃtāsanam) [of-yoga](yogasya) [above](utpari) [saṃhya](saṃhya) [***](*) [***](*) [***](*) [***](*)
 
 ## mukta-m0-p55-v1364
-[with-sixteen](rdaśa) [with-winds](vāyubhiḥ) [and](ca) [accompanied](sahitaṃ) [joined](yuktaṃ) [with-ten-syllables](daśa+ātma+akṣaraiḥ)
+[ten](rdaśa) [with-winds](vāyubhiḥ+ca) [accompanied](sahitaṃ) [joined](yuktaṃ) [ten-syllable](daśātmākṣaraiḥ)
 
 ## mukta-m0-p55-v1365
-[to-be-given](dātaṃ) [and](ca) [with-vaṃ-oṃkāra](vaṃ+oṃkāreṇa) [indeed](tu) [resembling-variegated-plantain](citra+kadala+nibhaṃ-)
+[given](dātaṃ) [and](ca) [vaṃ](vaṃ) [by-oṃ](oṃkāreṇa) [tu](tu) [variegated](citra) [plantain-like](kadalanibhaṃ-)
 
 ## mukta-m0-p55-v1366
-[upon-pericarp](karṇikā+upari) [having-placed](nidhāya) [equal-to-that](tat+samam) | [beginning-with-ambikā](aṃbikā+ādi-)
+[on-pericarp](karṇikopari) [placing](nidhāya) [equal](tatsamam) [ambikā-etc](aṃbikādi-)
 
 ## mukta-m0-p55-v1367
-[support-seed-sprout-stalk](ādhāra+bīja+aṃkura+nālakaṃ) [and](ca) [in-pleasant-seats](sukhā+sukhāsaneṣu-)
+[support-seed-sprout-stalk](ādhārabījāṃkura+nālakaṃ) [and](ca) [pleasant](sukhā) [on-pleasant-seats](sukhasaneṣu-)
 
 ## mukta-m0-p55-v1368
-[conception](lpanā) [with-offered-fresh-flowers](saṃprahira+ārdra+puṣpaiḥ) | [offering](nyavedanaṃ) [striking](tāḍana-)
+[placing](lpanā) [sprinkling](saṃprahirārdrapuṣpaiḥ) [offering](nyavedanaṃ) [striking](tāḍana-)
 
 ## mukta-m0-p55-v1369
-[of-pedestal](pīṭhasya) [by-five-limb-six-limb-names](pañca+aṃga+ṣaḍ+aṃga+nāmnā) [three-circles](tri+maṇḍalāni-)
+[of-seat](pīṭhasya) [five-limbed](pañcāṃga) [six-limbed](ṣaḍaṃga) [named](nāmnā) [three-circles](trimaṇḍalāni-)
 
 ## mukta-m0-p55-v1370
-[seats](sanāni) [in-ritual](karmaṇi) | [vimala-seat](vimala+āsanaṃ) [joined-with-worships](arcanaiḥ+yuktaṃ-)
+[consecrated](sanāni) [in-rite](karmaṇi) [pure-seat](vimalāsanaṃ) [with-worship](arcanairyuktaṃ-)
 
 ## mukta-m0-p55-v1371
-[lion-seat](siṃha+āsanam) [thereafter](ataḥ+paraṃ) | [golden](haimani) [should-be](bhavet) [hand](akara) [dark](śyāma-)
+[lion-seat](sihmāsanam) [then](ataḥ) [beyond](paraṃ) [golden](haimani) [becomes](bhaved) [akara](akara) [dark](śyāma-)
 
 ## mukta-m0-p55-v1372
-[variegated-garment-cloth](vicitra+vasana+aṃbaraṃ) [endowed-with-matted-hair-crown](jaṭā+makuṭa+yuktam) [with-eyes](akṣa+yuta-)
+[variegated](vicitra) [garment](vasanāṃbaraṃ) [matted-crown-equipped](jaṭāmakuṭayuktam) [imperishable](akṣayuta-)
 
 ## mukta-m0-p55-v1373
-[keśava-form](keśava+svarūpaṃ) | [śiva-form](śiva+rūpam)
+[keśava-form](keśavasvarūpaṃ) [śiva-form](śivarūpam)
 
 ## mukta-m0-p55-v1374
-[endowed-with-goad-and-banner-hand](dāṃkuśa+patākā+yuta+hastaṃ) | [dark-boon-giving-garment](kṛṣṇa+varada+aṃbara-)
+[goad-hook-banner-equipped](dāṃkuśa+patākayuta) [hand](hastaṃ) [black-boon-garment](kṛṣṇavaradāṃbara-)
 
 ## mukta-m0-p55-v1375
-[śiva-form](śiva+rūpam) | [one-faced-veda-hand](eka+mukha+veda+kara) [coral-colored](vidruma+nibhaṃ-)
+[śiva-form](śivarūpam) [single-faced](ekamukha) [veda-hand](vedakara) [coral-like](vidrumanibhaṃ-)
