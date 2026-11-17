@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p88-v2176
-[repel](bādhasva) [darkness](aducchanām) [mantra](mantra) [verse](verse)
+[repel](bādhasva)+[evil](ducchanām)
 
 ## mukta-m0-p88-v2177
-[place](dadhati) [strength](oṣa) [wealth](rayim) [in-me](mayi) [mantra](mantra)
+[place](dadhati)+[strength](oṣa)+[wealth](rayim)+[in-me](mayi)
 
 ## mukta-m0-p88-v2178
-[shelter](śarma) [threefold](tri) [protection](varūtha) [rising](udbhau) [mantra](mantra)
+[shelter](śarmaṃ)+[threefold](trivarūtha)+[rising](udbhau)
 
 ## mukta-m0-p88-v2179
-[rivals](sapatnān) [mantra](mantra) [verse](verse) [pada](pada)
+[rivals](sapatnān)
 
 ## mukta-m0-p88-v2180
-[dawn](uṣase) [sunset](nimuce) [become](bhavet) [mantra](mantra)
+[dawn](uṣase)+[setting](nimuce)+[be](bhavet)
 
 ## mukta-m0-p88-v2181
-[vritra-slayer](vṛtrahan) [abandon](jahi) [wealth](vasu) [bring](ābhara) [mantra](mantra)
+[vṛtra-slayer](vṛtrahan)+[abandon](jahi)+[wealth](vasu)+[bring](ābhara)
 
 ## mukta-m0-p88-v2182
-[having-done](kṛtvā) [to-you](tubhyam) [fire](agne) [we-cover](pidadhmasi) [mantra](mantra)
+[having-done](kṛtvā)+[to-you](tubhyam)+[fire](agne)+[we-cover](pidadhmasi)
 
 ## mukta-m0-p88-v2183
-[to-him](tasmai) [sunset](nimruk) [and](ca) [all-sin](sarvapāpa) [remove](samūhatām) [mantra](mantra)
+[to-him](tasmai)+[sunset](nimruk)+[all](sarva)+[sin-removing](pāpagūṃsamūhatām)
 
 ## mukta-m0-p88-v2184
-[jatavedas](jātavedase) [fire](agnaye) [and](ca) [then](tatas) [offering](tyāga) [fire](agnaye) [become](bhavet) [mantra](mantra)
+[knowing-all](jātavedase)+[fire](agnaye)+[then](tatas)+[renunciation](tyāga)+[fire](agnaye)+[be](bhavet)
 
 ## mukta-m0-p88-v2185
-[washing](prakṣāyataḥ) [mother](mātasya) [leave](uccheṣi) [anything](kiñcana) [mantra](mantra)
+[washing](prakṣāyataḥ)+[mother](mātasya)+[remainder](uccheṣi)+[anything](kiñcana)
 
 ## mukta-m0-p88-v2186
-[us](asmān) [directions](diśāḥ) [all](sarvāḥ) [those](tān) [remove](apākuru) [mantra](mantra)
+[from-us](asmāt)+[directions](diśāḥ)+[all](sarvāḥ)+[those](tān)+[remove](apākuru)
 
 ## mukta-m0-p88-v2187
-[thus](tathā) [last](antime) [vaishvanara](vaiśvānarāya) [and](ca) [mantra](mantra)
+[thus](tathā)+[final](antime)+[vaiśvānara](vaiśvānarāya)+[and](ca)
 
 ## mukta-m0-p88-v2188
-[dominion](kṣatraṃ) [my](me) [victorious](jiṣṇu) [whose](yasya) [I](aham) [priest](purohitaḥ) [mantra](mantra)
+[rule](kṣatraṃ)+[victorious](jiṣṇu)+[whose](yasya)+[I](aham)+[priest](purohitaḥ)
 
 ## mukta-m0-p88-v2189
-[by-prayer](brahmaṇā) [enemies](amitrān) [overcome](unnuyāmi) [own](svām) [I](aham) [mantra](mantra)
+[by-prayer](brahmaṇā)+[enemies](amitrān)+[overcome](unnuyāmi)+[own](svāṃ)+[I](aham)
 
 ## mukta-m0-p88-v2190
-[again-studied](punarādhītaṃ) [my](ma) [came](agāt) [mantra](mantra) [verse](verse)
+[re-studied](punarādhītaṃ)+[to-me](ma)+[came](agāt)
 
 ## mukta-m0-p88-v2191
-[fire](vahniṃ) [praise](stuvīta) [twelve-verses](dvādaśarcabhiḥ) [mantra](mantra) [verse](verse)
+[fire](vahniṃ)+[praise](stuvīta)+[twelve-verses](dvādaśarcabhiḥ)
 
 ## mukta-m0-p88-v2192
-[these](etān) [bonds](pāśān) [releasing](pramuñcan) [know](veda) [he](sa) [us](no) [release](muñcatu) [from-sin](duritāt) [from-fault](avadyāt) [mantra](mantra)
+[these](etān)+[bonds](pāśān)+[releasing](pramuñcan)+[know](veda)+[us](naḥ)+[release](muñcatu)+[from-distress](duritāt)+[from-fault](avadyāt)
 
 ## mukta-m0-p88-v2193
-[not-knowing](anājānan) [mind](manasā) [asking](yācamāno) [what](yad) [here](atra) [sin](enaḥ) [ava](ava) [we-sacrifice](suvāmi) [mantra](mantra)
+[not-knowing](anājānan)+[mind](manasā)+[asking](yācamāno)+[what](yat)+[here](atra)+[sin](enaḥ)+[ava](ava)+[that](tat)+[we-own](suvāmi)
 
 ## mukta-m0-p88-v2194
-[what](yac) [they-give](chatām) [this](etat) [bound-desire](baddhakāma) [release](ocanam) [mantra](mantra)
+[what](yat)+[they-give](śatām)+[this](etat)+[bound-desire-release](baddhakāmocanam)
 
 ## mukta-m0-p88-v2195
-[fallen](pracyutaḥ) [embryo](garbhaḥ) [all](sarvān) [thus](yatho) [follow](anuṣva) [mantra](mantra)
+[fallen](pracyutaḥ)+[embryo](garbhaḥ)+[all](sarvān)+[thus](yatho)+[after](anuṣva)
 
 ## mukta-m0-p88-v2196
-[wife](jāyā) [examination](parīkṣa) [approach](abhethāḥ) [mantra](mantra) [verse](verse)
+[wife](jāyā)+[examination](parīkṣa)+[approach](gūṃrabhethāḥ)
 
 ## mukta-m0-p88-v2197
-[which](yāni) [we-did](cakṛma) [do](karotu) [me](mām) [blameless](anehasam) [mantra](mantra)
+[what](yāni)+[we-did](cakṛma)+[do](karotu)+[me](mām)+[blameless](anehasam)
 
 ## mukta-m0-p88-v2198
-[therefore](tasmāt) [debt-free](anṛṇaṃ) [make](kṛṇotu) [mantra](mantra) [verse](verse)
+[therefore](tasmāt)+[debt-free](anṛṇaṃ)+[make](kṛṇotu)
 
 ## mukta-m0-p88-v2199
-[make](kṛṇotu) [mantra](mantra) [verse](verse) [pada](pada)
+[make](kṛṇotu)
 
 ## mukta-m0-p88-v2200
-[by-mantra](mantreṇa) [offering](tyāga) [vaishvanara](vaiśvānarāya) [and](ca) [mantra](mantra) [verse](verse)
+[by-mantra](mantreṇa)+[renunciation](tyāga)+[vaiśvānara](vaiśvānarāya)+[and](ca)

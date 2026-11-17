@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p402-v10026
-[then](tato) [red](rakte) [foot](padaṃ) [say](brūyāt) [that-after](tatpaścāt) [red-garment](raktavāsase)
+[tataḥ](tato) [rakte](rakte) [padaṃ](padaṃ) [brūyāt](brūyāt) [tat](tat) [paścāt](paścāt) [rakta-vāsase](raktavāsase)
 
 ## mukta-m0-p402-v10027
-[terrible-deed](aghorakarmake) [goddess](devi) [of-such](amukasya) [course](gatiṃ) [burn](daha)
+[aghorakarmake](aghorakarmake) [devi](devi) [amukasya](amukasya) [gatiṃ](gatiṃ) [daha](daha)
 
 ## mukta-m0-p402-v10028
-[of-sleeping](suptasya) [thus](iti) [having-spoken](procya) [mind](mano) [burn-pair](dahayugmaṃ) [say-then](vadettataḥ)
+[suptasya](suptasya) [iti](iti) [procya](procya) [manaḥ](mano) [daha-yugmaṃ](dahayugmaṃ) [vadet](vadettataḥ)
 
 ## mukta-m0-p402-v10029
-[cook-pair](pacayugmaṃ) [so-much](tāvad) [thus](iti) [burn-pair](dahayugmaṃ) [cook](paceti) [and](ca)
+[paca-yugmaṃ](pacayugmaṃ) [tāvat](tāvaditi) [daha-yugmaṃ](dahayugmaṃ) [paca](paceti) [ca](ca)
 
 ## mukta-m0-p402-v10030
-[spoken](prokta) [this](iyam) [āsurī-mantra](āsurīmantraḥ) [ten-plus-hundred-syllable](daśottaraśatākṣaraḥ)
+[proktaḥ](proktoyam) [āsurī-mantraḥ](āsurīmantro) [daśottara-śata-akṣaraḥ](daśottaraśatākṣaraḥ)
 
 ## mukta-m0-p402-v10031
-[hum-phat-svaha-ending](huṃphaṭsvāhāntakaiḥ) [mantra-letters](mantravarṇaiḥ) [limb-arrangement](pratyaṅgakalpanam)
+[huṃ-phaṭ-svāhā-antakaiḥ](huṃphaṭsvāhāntakairmantravarṇaih) [mantra-varṇaiḥ](mantravarṇaih) [pratyaṅga-kalpanam](pratyaṅgakalpanam)
 
 ## mukta-m0-p402-v10032
-[snake-sacrifice-thread](ahiyajñopavītāṃ) [that](tām) [āsurī](āsurīṃ) [I-remember](saṃsmarāmyaham)
+[ahi-yajña-upavītāṃ](ahiyajñopavītāṃ) [tām](tām) [āsurīṃ](āsurīṃ) [saṃsmarāmi](saṃsmarāmyaham) [aham](aham)
 
 ## mukta-m0-p402-v10033
-[having-taken](gṛhītvā) [and](tu) [with-five-limbs](sapāñcāṅgam) [āsurī](āsurīṃ) [consecrate](mantreyat) [and](ca) [that](tām)
+[gṛhītvā](gṛhītvā) [tu](tu) [sa-pañcāṅgam](sapañcāṅgam) [āsurīṃ](āsurīṃ) [mantrayet](mantreyacca) [ca](ca) [tām](tām)
 
 ## mukta-m0-p402-v10034
-[honey-anointed](madhvāktām) [āsurī](āsurīṃ) [having-offered](hutvā) [thousand](sahasraṃ) [subdue](vaśayet) [world](jagat)
+[madhv-aktām](madhvāktām) [āsurīṃ](āsurīṃ) [hutvā](hutvā) [sahasraṃ](sahasraṃ) [vaśayet](vaśayejjagat) [jagat](jagat)
 
 ## mukta-m0-p402-v10035
-[of-woman](nāryāḥ) [effigy](pratikṛteḥ) [left-foot-etc](vāmapādādi) [oblation](havanaṃ) [perform](caret)
+[nāryāḥ](nāryāḥ) [pratikṛteḥ](pratikṛtervāmapādādihavanaṃ) [vāma-pādādi-havanaṃ](vāmapādādihavanaṃ) [caret](caret)
 
 ## mukta-m0-p402-v10036
-[slave-like](dāsavat) [becomes](jāyate) [target](sādhyaḥ) [three-phallus](triliṅgaḥ) [indeed](hi) [api](api) [in-his-control](tadvaśe)
+[dāsavat](dāsavajjāyate) [jāyate](jāyate) [sādhyaḥ](sādhyastriliṅgo) [tri-liṅgaḥ](triliṅgo) [hi](hyapi) [api](api) [tat-vaśe](tadvaśe)
 
 ## mukta-m0-p402-v10037
-[bowing](nāmayaṃ) [manu](manunā) [having-offered](hutvā) [feverish](jvariṇaṃ) [makes](kurute) [enemy](ripum)
+[nāma-yuṅ-manunā](nāmayuṅmanunā) [hutvā](hutvā) [jvariṇaṃ](jvariṇaṃ) [kurute](kurute) [ripum](ripum)
 
 ## mukta-m0-p402-v10038
-[ark-milk-anointed-that-offering](arkadugdhāktataddhomān) [eye-destruction](netranāśaḥ) [of-enemy](ripor) [arises](prajāyate)
+[arka-dugdha-akta-tat-homān](arkadugdhāktataddhomānnetranāśaḥ) [netra-nāśaḥ](netranāśaḥ) [ripoḥ](riporiti) [iti](iti) [sambandhi-mahimnā](sambandhimahimnā) [bodhyaḥ](bodhyaḥ) [prajāyate](prajāyate)
 
 ## mukta-m0-p402-v10039
-[kshatriya](kṣattriyaṃ) [but](tu) [molasses-anointed-mustard](guḍābhyaktarājikābhiḥ) [control](vaśaṃ) [lead](nayet)
+[kṣatriyaṃ](kṣattriyaṃ) [tu](tu) [guḍa-abhyakta-rājikābhiḥ](guḍābhyaktarājikābhirvaśaṃ) [vaśaṃ](vaśaṃ) [nayet](nayet)
 
 ## mukta-m0-p402-v10040
-[shudra](śūdraḥ) [salt-pair-offering](lavaṇayughhomāt) [daily](pratyahaṃ) [with-eight](sāṣṭakaṃ) [hundred](śatam)
+[śūdraḥ](śūdro) [lavaṇa-yug-homāt](lavaṇayugghomātpratyahaṃ) [pratyahaṃ](pratyahaṃ) [sāṣṭakaṃ](sāṣṭakaṃ) [śatam](śatam)
 
 ## mukta-m0-p402-v10041
-[āsurī-wood](āsurīsamidhaḥ) [having-offered](hutvā) [honey-anointed](madhvaktā) [obtains](labhate) [treasure](nidhim)
+[āsurī-samidhaḥ](āsurīsamidho) [hutvā](hutvā) [madhv-aktāḥ](madhvaktā) [labhate](labhate) [nidhim](nidhim)
 
 ## mukta-m0-p402-v10042
-[having-invoked](āvāhya) [and](ca) [āsurī](āsurīṃ) [there](tatra) [worship](pūjayet) [with-services](upacārakaiḥ)
+[āvāhya](āvāhya) [ca](ca) [āsurīṃ](āsurīṃ) [tatra](tatra) [pūjayet](pūjayedupacārakaiḥ) [upacārakaiḥ](upacārakaiḥ)
 
 ## mukta-m0-p402-v10043
-[by-that-anointed](tenābhiṣiktaḥ) [becomes](bhavati) [from-disease-afflictions](vyādhyādhibhyāṃ) [free](vivarjitaḥ)
+[tena](tenābhiṣikto) [abhiṣiktaḥ](abhiṣikto) [bhavati](bhavati) [vyādhi-ādhibhyāṃ](vyādhyādhibhyāṃ) [vivarjitaḥ](vivarjitaḥ)
 
 ## mukta-m0-p402-v10044
-[of-āsurī](āsuryāḥ) [and](ca) [api](api) [flowers](puṣpāṇi) [priyaṅgu](priyaṃgu) [ca](ca) [equal-equal](samaṃsamam)
+[āsuryāḥ](āsuryāścāpi) [ca](ca) [api](api) [puṣpāṇi](puṣpāṇi) [priyaṅgu](priyaṃgu) [ca](ca) [samaṃ-samam](samaṃsamam)
 
 ## mukta-m0-p402-v10045
-[guñjā-like](guñjānibhā) [whose](yasya) [head](mūrdhni) [placed-one](sthāpitā) [one](ekā) [controlled](vaśaḥ) [tu](tu) [saḥ](saḥ)
+[guñjā-nibhāḥ](guñjānibhā) [kāryāḥ](kāryā) [iti](iti) [śeṣaḥ](śeṣaḥ) [agre](agre) [ca](ca) [tāsāṃ](tāsāṃ) [madhye](madhye) [ekā](ekāpi) [api](api) [guṭikā](guṭikā) [yasya](yasya) [śirasi](śirasi) [nyastā](nyastā) [sa](sa) [tasya](tasya) [vaśa-vartī](vaśavartī) [iti](iti) [arthaḥ](arthaḥ) [yasya](yasya) [mūrdhni](mūrdhni) [sthāpitā](sthāpitaikā) [ekā](ekā) [vaśaḥ](vaśastu) [tu](tu) [saḥ](saḥ)
 
 ## mukta-m0-p402-v10046
-[hundred-eight](aṣṭottaraśataṃ) [south-facing](yāmyābhimukhaḥ) [kill](mārayet) [enemies](arīn)
+[aṣṭottara-śataṃ](aṣṭottaraśataṃ) [yāmya-abhimukhaḥ](yāmyābhimukho) [mārayet](mārayedarīn) [arīn](arīn)
 
 ## mukta-m0-p402-v10047
-[all](sarve) [api](api) [weakened](kuṇṭhitāḥ) [mantras](mantrāḥ) [not](na) [āsurī](āsurī) [supreme-goddess](parameśvarī)
+[sarve](sarvepi) [api](api) [kuṇṭhitāḥ](kuṇṭhitā) [mantrāḥ](mantrā) [na](nāsurī) [āsurī](āsurī) [parameśvarī](parameśvarī)
 
 ## mukta-m0-p402-v10048
-[seed-syllable](tāraṃ) [vaṃ](vaṃ) [to-varuṇa](varuṇāya) [iti](iti) [water-lord](jalādhipataye) [say](vadeta)
+[tāraṃ](tāraṃ) [vaṃ](vaṃ) [varuṇāya](varuṇāyeti) [iti](iti) [jalādhipataye](jalādhipataye) [vadeta](vadeta)
 
 ## mukta-m0-p402-v10049
-[om](oṃ) [mamādyaiḥ](mamādyaiḥ) [namo-ending](namontaiḥ) [ca](ca) [five-limbs](pañcāṅgaṃ) [with-five](pañcabhiḥ) [feet](padaiḥ)
+[oṃ](oṃ) [mamādyaiḥ](mamādyairnamontaiśca) [namontaiḥ](namontaiśca) [ca](ca) [pañcāgaṃ](pañcāgaṃ) [pañcabhiḥ](pañcabhiḥ) [padaiḥ](padaiḥ)
 
 ## mukta-m0-p402-v10050
-[paunchy](tundilaḥ) [ca](ca) [pleased-faced](prasannāsyaḥ) [varuṇa](varuṇaḥ) [treasure-giver](nidhido) [astu](astu) [me](me)
+[tundilaḥ](tundilaśca) [ca](ca) [prasannāsyaḥ](prasannāsyo) [varuṇaḥ](varuṇo) [nidhidāḥ](nidhidostu) [tu](tu) [me](me)

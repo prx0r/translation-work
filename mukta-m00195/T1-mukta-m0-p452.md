@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p452-v11276
-to-be-remembered(smartavyāḥ) gold(svarṇa)+jewel(ratna)+etc(ādi)+bearing(dharā) milk(dugdha)+shining(lasat)+hands(karāḥ)
+[to-be-remembered](smartavyāḥ) [gold-jewel-etc-bearing](svarṇaratnādidharā) [milk-shining-hands](dugdhalasatkarāḥ)
 
 ## mukta-m0-p452-v11277
-then(tataḥ)+fierce(ugre) direction-lords(dikpatīn)+gods(devān)+worship(pūjayet)+also(api)+as-before(pūrvavat)
+[then-fierce](tatogre) [direction-lords-gods](dikpatīndevān) [should-worship-also](pūjayedapi) [as-before](pūrvavat)
 
 ## mukta-m0-p452-v11278
-previously-stated(pūrva+udita)+manner(prakāreṇa) pedestal-installation(pīṭha+nyāsa)+ending(avasānakam)
+[previously-described-manner](pūrvoditaprakāreṇa) [seat-installation-ending](pīṭhanyāsāvasānakam)
 
 ## mukta-m0-p452-v11279
-three(prāṇāyāma+trayaṃ)+doing(kṛtvā) sage-etc(ṛṣyādi)+placement(nyāsam)+perform(ācaret)
+[three-breath-controls](prāṇāyāmatrayaṃ) [having-done](kṛtvā) [sage-etc-installation](ṛṣyādinyāsam) [should-perform](ācaret)
 
 ## mukta-m0-p452-v11280
-pervading(vyāpakaṃ) root-mantra(mūla+mantra)+by(ṇa) placing(vinyasya)+and(ca)+from-hand(karāt)+again(punaḥ)
+[pervading](vyāpakaṃ) [root-mantra](mūlamantreṇa) [having-placed](vinyasya) [and](ca) [from-hand-again](karātpunaḥ)
 
 ## mukta-m0-p452-v11281
-wrapped(puṭitaṃ) root-mantra(mūla+mantra)+by(ṇa) mother-letters(mātṛkā)+as(vat)+place(pravinyaset)
+[wrapped](puṭitaṃ) [root-mantra](mūlamantreṇa) [like-mātṛkā](mātṛkāvat) [should-place](pravinyaset)
 
 ## mukta-m0-p452-v11282
-image-cage(mūrti+pañjara)+place(sthāne) image-cage(mūrti+pañjaram)+perform(ācaret)
+[at-image-cage-place](mūrtipañjarakasthāne) [image-cage](mūrtipañjaram) [should-perform](ācaret)
 
 ## mukta-m0-p452-v11283
-cow-dung(gomaya)+smeared(upaliptāyāṃ) ground(bhūmau) pedestal(pīṭhaṃ)+place(pravinyaset)
+[with-cow-dung](gomayenopaliptāyāṃ) [on-ground](bhūmau) [seat](pīṭhaṃ) [should-place](pravinyaset)
 
 ## mukta-m0-p452-v11284
-desire-seed(kāma+bījaṃ) pericarp(karṇikāyāṃ) with-siddhi(sasādhyaṃ) well-write(sulikhet)+then(tataḥ)
+[desire-seed](kāmabījaṃ) [in-pericarp](karṇikāyāṃ) [with-accomplished](sasādhyaṃ) [should-draw-then](sulikhettataḥ)
 
 ## mukta-m0-p452-v11285
-Indra-demon-wind(śakra+rākṣasa+vāyūnāṃ) corner(koṇe) śrī-seed(śrī+bījam)+write(ālikhet)
+[indra-rākṣasa-wind](śakrarākṣasavāyūnāṃ) [in-corner](koṇe) [śrī-seed](śrībījam) [should-draw](ālikhet)
 
 ## mukta-m0-p452-v11286
-corner-junctions(koṇa+sandhiṣu) six-syllable(ṣaḍ+varṇa)+mantra(mantrasya)+one-by-one(ekaikam)+syllable(akṣaram)
+[in-corner-junctions](koṇasandhiṣu) [six-syllable-mantra](ṣaḍvarṇamantrasya) [one-by-one](ekaikam) [syllable](akṣaram)
 
 ## mukta-m0-p452-v11287
-outside(bahis)+eight-petaled(aṣṭa+dalaṃ) lotus(padmaṃ) filaments(keśareṣu) thrice-thrice(triśas+triśaḥ)
+[outside-eight-petaled](bahiraṣṭadalaṃ) [lotus](padmaṃ) [in-filaments](keśareṣu) [thrice-thrice](triśastriśaḥ)
 
 ## mukta-m0-p452-v11288
-well-write(sulikhet)+desire(kāmataḥ)+afterwards(paścāt)+syllables(varṇān)+then(atha)+petals(daleṣu)+and(ca)
+[should-draw-desire](sulikhetkāmataḥ) [afterwards](paścād) [syllables](varṇān) [then](atha) [in-petals](daleṣu) [and](ca)
 
 ## mukta-m0-p452-v11289
-write(likhet)+syllables(varṇān)+dhṛti-petal(dhṛti+dale) outside(bahis)+circle-pair(vṛtta+dvayaṃ)+write(likhet)
+[should-draw-syllables](likhedvarṇān) [steadiness-petal](dhṛtidale) [outside-circle-pair](bahirvṛttadvayaṃ) [should-draw](likhet)
 
 ## mukta-m0-p452-v11290
-earth-city(dharā+pura)+four-directions(catur+dikṣu) Rama(māyāṃ? ramāṃ)+māyā(māyāṃ)+and(ca)+corner-going(koṇa+gām)
+[in-earth-city](dharāpure) [four-directions](caturdikṣu) [ramā](ramāṃ) [māyā](māyāṃ) [and](ca) [corner-going](koṇagām)
 
 ## mukta-m0-p452-v11291
-properly(samyak)+worship(saṃpūjya)+recite(prajapet)+held(dhṛtaṃ)+and(ca)+by-best-men(manujottamaiḥ)
+[properly-worship](samyaksaṃpūjya) [should-recite](prajaped) [held](dhṛtaṃ) [and](ca) [by-best-men](manujottamaiḥ)
 
 ## mukta-m0-p452-v11292
-I-do(karomi) world-worshiped(loka+pūjyaṃ) him(taṃ) king-subjection(rāja+vaśyaṃ)+and(ca)+always(sarvadā)
+[I-do](karomi) [world-worshipful](lokapūjyaṃ) [him](taṃ) [king-subjection](rājavaśyaṃ) [and](ca) [always](sarvadā)
 
 ## mukta-m0-p452-v11293
-there(tatra) image(mūrtti)+arrange(prakalpya)+in-this(asyāṃ) dark(Kṛṣṇa)+invoke(āvāhya)+worship(pūjayet)
+[there](tatra) [image](mūrtti) [having-prepared](prakalpyāsyāṃ) [black](kṛṣṇam) [having-invoked](āvāhya) [should-worship](pūjayet)
 
 ## mukta-m0-p452-v11294
-fourth(caturthe)+limb(aṅgāt)+ca(and)+root-end(mūla+antaṃ) ornaments-etc(bhūṣaṇa+ādi)+worship(prapūjayet)
+[from-fourth-limb](caturthe'ṅgācca) [to-root](mūlāntaṃ) [ornaments-etc](bhūṣaṇādi) [should-worship](prapūjayet)
 
 ## mukta-m0-p452-v11295
-right-upper-hand(dakṣa+ūrdhva+haste) discus(cakrāya) left-upper(vāma+ūrdhve) conch(kambave) homage(namaḥ)
+[right-raised-hand](dakṣordhvahaste) [to-discus](cakrāya) [left-raised](vāmordhve) [to-conch](kambave) [homage](namaḥ)
 
 ## mukta-m0-p452-v11296
-shoulder(skandha)+etc(ādi)+foot-end(pāda+paryantaṃ) navel-within(nābhi+antah)+above(upari) garland(mālikām)
+[from-shoulder-to-foot](skandhādipādaparyantaṃ) [navel-within-above](nābhyantopari) [garland](mālikām)
 
 ## mukta-m0-p452-v11297
-six(ṣaṭsu) east-etc(pūrva+ādi)+corners(koṇeṣu) six-limbs(ṣaḍ+aṅgāni) worship(samarcayet)
+[in-six](ṣaṭsu) [eastern-corner](pūrvādikoṇeṣu) [six-limbs](ṣaḍaṅgāni) [should-worship](samarcayet)
 
 ## mukta-m0-p452-v11298
-peace(śāntiṃ) prosperity(śriyaṃ) Sarasvati(bhāratīṃ)+and(ca) desire(ratiṃ) petal-filament(dig+dala+keśare)
+[peace](śāntiṃ) [prosperity](śriyaṃ) [bhāratī](bhāratīṃ) [and](ca) [desire](ratiṃ) [in-direction-petal-filament](digdalakeśare)
 
 ## mukta-m0-p452-v11299
-right-left-order(dakṣa+vāma+kramāt)+afterwards(paścāt) god-of-gods(deva+devaṃ)+worship(samarcayet)
+[right-left-order](dakṣavāmakramāt) [afterwards](paścād) [god-of-gods](devadevaṃ) [should-worship](samarcayet)
 
 ## mukta-m0-p452-v11300
-petal-tips(dala+agra+sthāḥ)+then(tataḥ) worship-worthy(pūjyāḥ) worshipable(pūjanīyāḥ) in-order(kramāt)+these(amī)
+[in-petal-tips](dalāgrasthāstataḥ) [then](tataḥ) [worshipable](pūjyāḥ) [worshipable](pūjanīyāḥ) [in-order](kramādamī) [these](amī)
