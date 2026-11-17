@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p22-v526
-[anya-karma-artha-māninī-unmāda-niṣpatti-kāriṇī](anyakarmārthamānītonmādāniṣpattikāriṇī)
+[other](anya) [work](karma) [purpose](artha) [brought](ānīta) [madness](unmāda) [production](niṣpatti) [causing](kāriṇī)
 
 ## mukta-m0-p22-v527
-[antyajā-śilā-dvijādi-vigarhitā](antyajā sā śilā jñeyā dvijādīnāṃ vigarhitā)
+[outcaste](antyajā) [that](sā) [stone](śilā) [to-be-known](jñeyā) [twice-born](dvija) [and-others](ādīnām) [condemned](vigarhitā)
 
 ## mukta-m0-p22-v528
-[nānā-varṇā-cāṇḍalī-kartuḥ-kulanāśinī](nāna varṇā ca cāṇḍalī sā kartuḥ kulanāśinī)
+[various](nāna) [colored](varṇā) [and](ca) [caṇḍāla-woman](cāṇḍalī) [that](sā) [of-doer](kartuḥ) [family](kula) [destroying](nāśinī)
 
 ## mukta-m0-p22-v529
-[prākṛta-hita-kāma-mukti-nṛ](prākṛtānāṃ hitārthāya kāmaṃ muktyarthināṃ nṛṇām)
+[for-ordinary-people](prākṛtānām) [for-benefit](hita) [for-sake](arthāya) [optionally](kāmam) [liberation](mukti) [seeking](arthinām) [of-men](nṛṇām)
 
 ## mukta-m0-p22-v530
-[svalpa-doṣa-khyāta-viṃśati-lakṣa-bheda](svalpadoṣā ime khyātā viṃśatirlakṣabhedataḥ)
+[small](svalpa) [faults](doṣāḥ) [these](ime) [known](khyātāḥ) [twenty](viṃśatiḥ) [lakh](lakṣa) [by-divisions](bhedataḥ)
 
 ## mukta-m0-p22-v531
-[jñaya-sadbhūmi-bhūta-pāṣāṇa-druma](jñaya sadbhūmibhūtasya pāṣāṇasya drumasya ca)
+[to-be-known](jñaya) [good](sad) [ground](bhūmi) [born](bhūtasya) [of-stone](pāṣāṇasya) [of-tree](drumasya) [and](ca)
 
 ## mukta-m0-p22-v532
-[tajja-tīśa-mantra-tajjāti-janana](tajja tīśena mantreṇa tajjātijananaṃ bhavet)
+[of-that](tat) [born](ja) [by-īśa](tīśena) [by-mantra](mantreṇa) [of-that](tat) [class](jāti) [birth](jananam) [should-be](bhavet)
 
 ## mukta-m0-p22-v533
-[lāñcha-yathānyāya-kartaya-śodhaya](lāñcha yatvā yathānyāyaṃ kartayecchodhayedapi)
+[mark](lāñcha) [having-struck](yatvā) [according-to-rule](yathānyāyam) [one-should-cut](kartayet) [one-should-purify](śodhayet) [also](api)
 
 ## mukta-m0-p22-v534
-[piṇḍikā-sahita-viṣṇu-bhāga-unnata](piṇḍikāsahitaṃ tacca viṣṇubhāgāntamunnatam)
+[with-pedestal](piṇḍikā) [accompanied](sahitam) [and-that](tat) [ca) [Viṣṇu](viṣṇu) [part](bhāga) [up-to](antam) [elevated](unnatam)
 
 ## mukta-m0-p22-v535
-[eka-khaṇḍa-piṇḍikā-śiva](ekakhaṇḍaiva kartavyā piṇḍikā vai śivasya tu)
+[one](eka) [piece](khaṇḍā) [only](eva) [to-be-made](kartavyā) [pedestal](piṇḍikā) [indeed](vai) [of-Śiva](śivasya) [but](tu)
 
 ## mukta-m0-p22-v536
-[praṇāla-aindra-saumya-jala-ādhāra-adhas](praṇālamaindrasaumye vā jalādhāramadhastathā)
+[drain-channel](praṇālam) [in-east](aindra) [or-north](saumye) [or](vā) [water](jala) [receptacle](ādhāram) [below](adhasta) [likewise](tathā)
 
 ## mukta-m0-p22-v537
-[brahma-śilā-prājña-śāstra-bhāṣita](na tu brahmaśilā prājñairiti śāstreṣu bhāṣitam)
+[not](na) [but](tu) [Brahmā](brahma) [stone](śilā) [by-wise-men](prājñaiḥ) [thus](iti) [in-scriptures](śāstreṣu) [declared](bhāṣitam)
 
 ## mukta-m0-p22-v538
-[liṅga-cheda-ūrdhva-adho-bhāga](liṅgachedordhvabhāgasthā tathādho bhāgagāpi vā)
+[liṅga](liṅga) [division](cheda) [upper](ūrdhva) [part](bhāga) [situated](sthā) [likewise](tathā) [below](adhaḥ) [part](bhāga) [going](gā) [also](api) [or](vā)
 
 ## mukta-m0-p22-v539
-[ucchrāya-liṅga-eka-khaṇḍa-vidhi](ucchrāyena tu liṅgānāmekakhaṇḍo vidhīyate)
+[by-height](ucchrāyena) [but](tu) [of-liṅgas](liṅgānām) [one](eka) [piece](khaṇḍaḥ) [is-prescribed](vidhīyate)
 
 ## mukta-m0-p22-v540
-[anya-liṅga-krama-eka-aṅgula-adhika](anyeṣāmapi liṅgānāṃ krameṇaikāṅgulādhilā)
+[of-others](anyeṣām) [also](api) [of-liṅgas](liṅgānām) [in-order](krameṇa) [by-one](eka) [finger](aṅgula) [greater](adhilā)
 
 ## mukta-m0-p22-v541
-[sva-māna-mekhalā-khāta-pramāṇa](svamānānmekhalā tasyāḥ khātaṃ vā tatpramāṇataḥ)
+[by-own](sva) [measure](mānāt) [section](mekhalā) [of-that](tasyāḥ) [cavity](khātam) [or](vā) [by-that](tat) [measure](pramāṇataḥ)
 
 ## mukta-m0-p22-v542
-[brahma-aṃśa-adhika-khāta-yava-ṣaḍ-vistara](brahmāṃśādadhikaḥ khāto yavai ṣaḍbhiḥ pravistaraḥ)
+[than-Brahmā](brahma) [part](aṃśāt) [greater](adhikaḥ) [cavity](khātaḥ) [by-barleycorns](yavaiḥ) [by-six](ṣaḍbhiḥ) [in-width](pravistaraḥ)
 
 ## mukta-m0-p22-v543
-[ratna-ādhāra-vṛtta-nava-kalpayet](ratnādhārāṇi tanmadhye vṛttāni nava kalpayet)
+[jewel](ratna) [receptacles](ādhārāṇi) [in-its-middle](tat) [middle](madhye) [circular](vṛttāni) [nine](nava) [one-should-arrange](kalpayet)
 
 ## mukta-m0-p22-v544
-[sva-māna-vistara-ardha-bāhulya-samanvita](svamānavistarārdhena bāhulyena samanvitā)
+[by-own](sva) [measure](māna) [width](vistara) [half](ardhena) [with-thickness](bāhulyena) [endowed](samanvitā)
 
 ## mukta-m0-p22-v545
-[vārkṣī-brahma-śilā-vārkṣa-liṅga-piṇḍikā](vārkṣī brahmaśilā vārkṣe liṅge syātpiṇḍikā tathā)
+[wooden](vārkṣī) [Brahmā](brahma) [stone](śilā) [in-wooden](vārkṣe) [in-liṅga](liṅge) [should-be](syāt) [pedestal](piṇḍikā) [likewise](tathā)
 
 ## mukta-m0-p22-v546
-[arcaya-astra-puṣpa-ānetu-mantra-vittama](arcayedastra puṣpādyairānetuṃ mantravittamaḥ)
+[one-should-worship](arcayet) [with-weapons](astra) [flowers](puṣpa) [and-others](ādyaiḥ) [to-bring](ānetum) [mantra](mantra) [knower](vit) [best](tamaḥ)
 
 ## mukta-m0-p22-v547
-[tāpasa-śiva-bhakta-tarpayitvā-ratha](tāpasāñchivabhaktāṃśca tarpayitvānayedratham)
+[ascetics](tāpasān) [Śiva](śiva) [devotees](bhaktān) [and](ca) [having-satisfied](tarpayitvā) [one-should-bring](ānayet) [chariot](ratham)
 
 ## mukta-m0-p22-v548
-[ratha-deveśa-pūjayitvā-ānayet](rathe kṛtvā ca deveśaṃ pūjayitvā tamānayet)
+[on-chariot](rathe) [having-placed](kṛtvā) [and](ca) [lord-of-gods](deveśam) [having-worshipped](pūjayitvā) [him](tam) [one-should-bring](ānayet)
 
 ## mukta-m0-p22-v549
-[ratha-ratha-aṅga-pramāda-skhalita](yadā rathe rathāṅgānāṃ pramādātskhalitaṃ bhavet)
+[when](yadā) [on-chariot](rathe) [of-chariot](ratha) [wheels](aṅgānām) [through-negligence](pramādāt) [slipping](skhalitam) [should-be](bhavet)
 
 ## mukta-m0-p22-v550
-[śata-aṣṭottara-hutvā-mucyate-sarva-duṣkṛta](śatamaṣṭottaraṃ hutvā mucyate sarvaduṣkṛtaiḥ)
+[hundred](śatam) [eight](aṣṭa) [more](uttaram) [having-offered](hutvā) [is-freed](mucyate) [from-all](sarva) [misdeeds](duṣkṛtaiḥ)
