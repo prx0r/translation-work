@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p149-v3701
-[twenty-eight](aṣṭāviṃśati) [in-number](saṃkhyāḥ) [should-be](syuḥ) [of-them](tāsāṃ) [chief](mukhyāḥ) [indeed](tu) [channels](nāḍayaḥ)
+[twenty-eight-numbered](aṣṭāviṃśatisaṃkhyāḥ) [are-of-them](syustāsāṃ) [principal](mukhyāḥ) [indeed](tu) [nadis](nāḍayaḥ)
 
 ## mukta-m0-p149-v3702
 [piṅgā](piṅgā) [suṣumnā](suṣumnā) [and](ca) [gāndhārī](gāndhārī) [hastijihvikā](hastijihvikā)
 
 ## mukta-m0-p149-v3703
-[piṅgalā](piṅgalā) [and](ca) [suṣumnā](suṣumnā) [and](ca) [highest](uttamāḥ) [remembered](smṛtāḥ)
+[piṅgalā](piṅgalā) [and](ca) [suṣumnā](suṣumnā) [highest](uttamāḥ) [remembered](smṛtāḥ)
 
 ## mukta-m0-p149-v3704
-[vimalā](vimalā) [ghoṣaṇī](ghoṣaṇī) [pṛthvī](pṛthvī) [then](tataḥ) [indeed](tu) [āpyāyanī](āpyāyanī) [considered](matā)
+[vimalā](vimalā) [ghoṣaṇī](ghoṣaṇī) [pṛthvī](pṛthvī) [then](tataḥ) [āpyāyanī](āpyāyanī) [considered](matā)
 
 ## mukta-m0-p149-v3705
-[mṛdvaṅgī](mṛdvaṅgī) [snaṃsanī?](snaṃsanī?) [and](ca) [also](api) [marśanī](marśanī)
+[mṛdvaṅgī](mṛdvaṅgī) [snaṃsanī](snaṃsanī?) [also](cāpi) [marśanī](marśanī)
 
 ## mukta-m0-p149-v3706
-[heart](hṛt) [lotus](padma) [gone-to](gata) [from-seat](āsanāt) [heart](hṛdaya) [state](sthitiḥ)
+[in-heart-lotus-situated](hṛtpadmagata) [from-posture](āsanāt) [heart-steadiness](hṛdayasthitiḥ)
 
 ## mukta-m0-p149-v3707
-[does](kurute) [always](nityaṃ) [which](ya) [(syā?](syā?) [therefore](smāt)) [breath](prāṇaḥ) [proclaimed](prakīrtitaḥ)
+[does](kurute) [always](nityaṃ) [whose](yasya) [prāṇa](prāṇaḥ) [declared](prakīrtitaḥ)
 
 ## mukta-m0-p149-v3708
-[|](|) [rejection](hāna) [and-acceptance](upādāna) [action](karmā) [and](ca) [therefore](tasmāt) [vyāna](vyāna) [thus](iti) [remembered](smṛtaḥ)
+[loss-and-gain-action](hānopādānakarma) [and](ca) [therefore](tasmāt) [vyāna](vyānaḥ) [thus](iti) [remembered](smṛtaḥ)
 
 ## mukta-m0-p149-v3709
-[limb](gātra) [eye](netra) [distortion](vikāra) [and-so-on](ādyaṃ) [action](karma) [of-udāna](udānasya) [indeed](tu) [remembered](smṛtam)
+[body-eye-modification-etc](gātranetravikārādyaṃ) [action](karma) [of-udāna](udānasya) [indeed](tu) [remembered](smṛtam)
 
 ## mukta-m0-p149-v3710
-[skin](tvac) [blood](asṛṅ) [flesh](māṃsa) [fat](medaḥ) [bone](asthi) [situated](saṃsthā) [nāga](nāga) [and-other](ādi) [winds](vāyavaḥ)
+[skin-blood-flesh-fat-bone-residing](tvagasṛṅmāṃsamedosthisaṃsthāḥ) [nāga-etc-winds](nāgādivāyavaḥ)
 
 ## mukta-m0-p149-v3711
-[blue](nīla) [indragopa-insect](indragopa) [cow](go) [milk](kṣīra) [lightning](vidyut) [sun](arka) [moon](indu) [equal](sa) [splendor](prabhāḥ)
+[blue-indragopa-milk-lightning-sun-moon-radiant](nīlendragopagokṣīravidyudarkendusaprabhāḥ)
 
 ## mukta-m0-p149-v3712
-[of-nāga](nāgasya) [of-kūrma](kūrmasya) [opening](unmīlana) [and-so-on](ādikam)
+[of-nāga](nāgasya) [of-kūrma](kūrmasya) [opening-etc](unmīlanādikam)
 
 ## mukta-m0-p149-v3713
-[beauty?](śo(bhā?) [ṣādyaṃ)](ṣādyaṃ)) [dead](mṛtaṃ) [and](ca) [not](na) [releases](vimuñcati)
+[beauty-etc](śobhādyaṃ) [dead](mṛtaṃ) [and](ca) [not](na) [releases](vimuñcati)
 
 ## mukta-m0-p149-v3714
-[from-bindu](bindoḥ) [head](mūrdhānam) [having-reached](āsādya) [through-brahmarandhra](brahmarandhreṇa) [gone-out](nirgatā)
+[of-bindu](bindoḥ) [crown](mūrdhānam) [having-reached](āsādya) [through-brahmarandhra](brahmarandhreṇa) [exited](nirgatā)
 
 ## mukta-m0-p149-v3715
-[being-situated](sthite) [left](vāma) [and-right](dakṣiṇa) [breaths](prāṇayoḥ) [flowing](sṛte) [[kh:]( [kh:) [smṛ]](smṛ])
+[established](sthite) [left-right-prāṇas](vāmadakṣiṇaprāṇayoḥ) [flowing](sṛte)
 
 ## mukta-m0-p149-v3716
-[from-left](vāma) [foot](aṅghreḥ) [big-toe](aṅguṣṭha) [tip](agrāt) [gone-out](vinirgatā)
+[from-left-foot-great-toe-tip](vāmāṅghreraṅguṣṭhāgrāt) [exited](vinirgatā)
 
 ## mukta-m0-p149-v3717
-[and](tu) [below](adhaḥ) [navel](nābheḥ) [anus](pāyu) [root](mūla) [end](anta) [exit](nirgamā)
+[downward](adhaḥ) [below-navel](nābheḥ) [to-anus-root](pāyumūlānta) [exit](nirgamā)
 
 ## mukta-m0-p149-v3718
-[|](|) [channels](nāḍayaḥ) [vimalā](vimalā) [and-others](ādyāḥ) [indeed](tu) [ten](daśa) [hand](hasta) [tip](agra) [gone-out](nirgatāḥ)
+[nadis](nāḍayaḥ) [vimalā-etc](vimalādyāḥ) [indeed](tu) [ten](daśa) [hand-tip-exited](hastāgranirgatāḥ)
 
 ## mukta-m0-p149-v3719
-[universe](viśva) [belly](udara) [interior](udaraṃ) [gone](yātā) [sarasvatī](sarasvatī) [also](api) [genitals](meḍhra) [going](gā)
+[all-belly](viśvodarodaraṃ) [gone](yātā) [sarasvatī](sarasvatyapi) [genital-gone](meḍhragā)
 
 ## mukta-m0-p149-v3720
-[they](tāḥ) [all](sarvāḥ) [lotus](padma) [fiber](tantu) [like](vi) [*](*) [*](*) [*](*)
+[they](tāḥ) [all](sarvāḥ) [lotus-fiber](padmatantuvi)
 
 ## mukta-m0-p149-v3721
-[outside](bahiḥ) [gone-out](nirgata) [tips](agrā) [hair](roma) [named](saṃjñāḥ) [body](śarīra) [going](gāḥ)
+[outside](bahir) [exited-tips](nirgatāgrāḥ) [hair-named](romasaṃjñāḥ) [body-going](śarīragāḥ)
 
 ## mukta-m0-p149-v3722
-[ten-million](koṭyaḥ) [and-half](ardha) [ten-million](koṭiḥ) [and](ca) [head-hair](keśa) [and-body-hair](romāṇi) [body](deha) [going](gāḥ)
+[crores-half-crore](koṭyo'rdhakoṭiśca) [hair-hairs](keśaromāṇi) [body-going](dehagāḥ)
 
 ## mukta-m0-p149-v3723
-[indeed](tu) [from-that](tataḥ) [half](ardha) [of-half](ardhaṃ) [vessels](sirā) [and-hairs](romāṇi) [in-number](saṃkhyayā)
+[then](tu) [half-half](ardhārdhaṃ) [vein-hairs](sirāromāṇi) [by-number](saṃkhyayā)
 
 ## mukta-m0-p149-v3724
-[all](sarve) [they](te) [of-living-beings](prāṇinaḥ) [[nā]]([nā]) [remembered](smṛtāḥ)
+[all](sarve) [those](te) [living-beings](prāṇinaḥ) [remembered](smṛtāḥ)
 
 ## mukta-m0-p149-v3725
-[to-be-served](sevyāni) [they](tāni) [known](viditāni) [according-to-instruction](yathā+upadeśam)
+[to-be-served](sevyāni) [those](tāni) [known](viditāni) [as-instructed](yathopadeśam)

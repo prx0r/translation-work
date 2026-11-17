@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p116-v2876
-[with-bindu](bindvantaḥ) [that-preceded](tatpūrvaḥ) [final-vowel-endowed](antya+svara+anvitaḥ)
+[having-bindu](binduvantaḥ) [that-previous](tatpūrvaḥ) [final-vowel-accompanied](antyasvarānvitaḥ)
 
 ## mukta-m0-p116-v2877
-[wind-friend-beloved-ending](marut+sakha+priya+antaḥ) [this](ayam) [metrical-syllable](jagatī+arṇaḥ) [indeed](hi) [speech-mantra](vāk+manuḥ)
+[marut-friend-dear-ending](marutsakhapriyāntaḥ) [this](ayaṃ) [world-ocean](jagatyarṇaḥ) [indeed](hi) [speech-manu](vāṅmanuḥ)
 
 ## mukta-m0-p116-v2878
-[with-fire-sound](sa+agni+nādaḥ) [then](tu) [beginning-with-oṃ](tāra+ādiḥ) [with-long](dīrghaiḥ) [joined](yuktaḥ) [in-order](kramāt) [with-vowels](svaraiḥ)
+[with-fire](sāgniḥ) [sound](nādaḥ) [tu](tu) [star-beginning](tārādiḥ) [long-vowels](dīrghaiḥ) [joined](yuktaḥ) [in-order](kramāt) [vowels](svaraiḥ)
 
 ## mukta-m0-p116-v2879
-[with-ancient-word-joined](purāṇa+pada+saṃyuktaiḥ) [with-six](ṣaḍbhiḥ) [with-mantra-words](mantra+padaiḥ) [in-order](kramāt)
+[ancient-word](purāṇapada) [joined](saṃyuktaiḥ) [six](ṣaḍbhiḥ) [mantra-words](mantrapadaiḥ) [in-order](kramāt)
 
 ## mukta-m0-p116-v2880
-[ending-in-dative](caturthyantā) [with-vidmahe-word-joined](vidmahe+pada+saṃyutā)
+[fourth-ending](caturthyantā) [vidmahe-word](vidmahepada) [joined](saṃyutā)
 
 ## mukta-m0-p116-v2881
-[with-pra](pra) [and](iti) [with-codayāt](codayāt) [and](iti) [joined](yojitā)
+[precedes](preti) [impels](codayāt) [iti](iti) [joined](yojitā)
 
 ## mukta-m0-p116-v2882
-[declared](proktā) [threefold](trīmān) [then](ataḥ) [made](kṛtā)
+[proclaimed](proktaḥ) [three-measured](strīmānaḥ) [from-that](ataḥ) [made](kṛtā)
 
 ## mukta-m0-p116-v2883
-[stylus](lekhanīṃ) [in-left](vāme) [water-pot](kalaśaṃ) [and](ca) [also](api) [holding](bibhratī)
+[writing-stylus](lekhanīṃ) [left](vāme) [pitcher](kalaśaṃ) [also](cāpi) [bearing](bibhratī)
 
 ## mukta-m0-p116-v2884
-[conch-jasmine-moon-white](śaṅkha+kunda+indu+dhavalā) [with-matted-hair-moon-crested](sa+kaparda+indu+śekharā)
+[conch-moon-white](śaṅkhakundendudhavalā) [with-matted-hair-moon-crest](sakapardenduśekharā)
 
 ## mukta-m0-p116-v2885
-[with-necklace-garland-shining-high-full-breast-region](hāri+hāra+ullasat+tuṅga+pīvara+stana+maṇḍalā)
+[garland-necklace-shining](hārihārollasat) [high-full-breast-circle](tuṅgapīvarastanamaṇḍalā)
 
 ## mukta-m0-p116-v2886
-[well-seated](su+upaviṣṭā) [with-new-youth-adorned](nava+yauvana+maṇḍitā)
+[seated](sū)paviṣṭā) [new-youth-adorned](navayauvanamaṇḍitā)
 
 ## mukta-m0-p116-v2887
-[at-southern-door](dakṣiṇa+dvāre) [to-be-placed](sthāpyā) [should-be](syāt) [south-facing](dakṣiṇa+āmukhī)
+[right-gate](dakṣiṇadvāre) [placed](sthāpyā) [should-be](syāt) [right-facing](dakṣiṇāmukhī)
 
 ## mukta-m0-p116-v2888
-[Pūrṇabhadra](pūrṇabhadraḥ) [and](ca) [also](api) [Ānanda](ānandaḥ) [Nandana](nandanaḥ) [likewise](tathā)
+[pūrṇabhadra](pūrṇabhadraḥ) [also](ca) [ānanda](ānandaḥ) [nandana](nandanaḥ) [thus](tathā)
 
 ## mukta-m0-p116-v2889
-[in-east](prācyām) [Aindra](aindraḥ) [and](ca) [thunderbolt-marked](vajra+aṅkaḥ) [southern](yāmyaḥ) [staff-marked](daṇḍa+aṅkaḥ) [indeed](eva) [and](ca)
+[east-indra](prācyāmaindraḥ) [ca](ca) [vajra-marked](vajrāṅkaḥ) [south](yāmyaḥ) [staff-marked](daṇḍāṅkaḥ) [indeed](eva) [ca](ca)
 
 ## mukta-m0-p116-v2890
-[Prajñā](prajñā) [Prabhā](prabhā) [Vidyā](vidyā) [Dhī](dhīḥ) [Dhṛti-Smṛti-Buddhi](dhṛti+smṛti+buddhayaḥ)
+[wisdom](prajñā) [radiance](prabhā) [knowledge](vidyā) [intellect](dhīḥ) [steadiness](dhṛtiḥ) [memory](smṛtiḥ) [intellects](buddhayaḥ)
 
 ## mukta-m0-p116-v2891
-[in-middle-pillars](madhya+stambheṣu) [four](catvāraḥ) [also](api) [in-southeast-etc](āgneya+ādiṣu) [Ṛgveda-etc](ṛk+ādayaḥ)
+[middle-pillars](madhyastambheṣu) [four](catvāraḥ) [api](api) [āgneya-etc](āgneyādiṣu) [ṛg-etc](ṛgādayaḥ)
 
 ## mukta-m0-p116-v2892
-[sūtra-recitation](sūtra+pāṭhaḥ) [Mīmāṃsā](mīmāṃsā) [logic-expanse](nyāya+vistaraḥ)
+[sūtra-recitation](sūtrapāṭhaḥ) [mīmāṃsā](mīmāṃsā) [nyāya-expansion](nyāyavistaraḥ)
 
 ## mukta-m0-p116-v2893
-[consisting-of-knowledge](vidyā+ātmakaṃ) [canopy](vitānaṃ) [should-be](syāt) [ground](sthalaṃ) [but](tu) [earth](pṛthivī) [itself](svayam)
+[knowledge-natured](vidyātmakaṃ) [canopy](vitānaṃ) [syāt](syāt) [place](sthalaṃ) [tu](tu) [earth](pṛthivī) [itself](svayam)
 
 ## mukta-m0-p116-v2894
-[swan-riding](haṃsa+gā) [Vāṇī](vāṇī) [her-weapon](tat+astraṃ) [above-essence](sāra+upari)
+[swan-going](haṃsagā) [speech](vāṇī) [that-weapon](tadastraṃ) [sārasa-above](sārasopari)
 
 ## mukta-m0-p116-v2895
-[adorned](bhūṣitaṃ) [in-left](vāme) [boon-book-noose-holder](vara+pustaka+pāśa+dhṛk)
+[adorned](bhūṣitaṃ) [left](vāme) [excellent-book-noose-holder](varapustakapāśadhṛk)
 
 ## mukta-m0-p116-v2896
-[holding](dadhat) [as-before](prāk+vat) [in-nine](navasu) [in-fire-pits](kuṇḍeṣu) [fire](vahniṃ) [divided-from-middle-etc](madhya+ādi+bhājitam)
+[holds](dadhat) [prāgvat](prāgvat) [nine](navasu) [kuṇḍas](kuṇḍeṣu) [fire](vahniṃ) [middle-etc](madhyādibhājitam)
 
 ## mukta-m0-p116-v2897
-[with-Yogā-etc-forms](yogā+ādi+mūrtibhiḥ) [in-directions](dikṣu) [should-offer](juhuyuḥ) [form-bearers](mūrti+dhārakāḥ)
+[yoga-etc-forms](yogādimūrtibhiḥ) [directions](dikṣu) [offer](juhuyuḥ) [form-holders](mūrtidhārakāḥ)
 
 ## mukta-m0-p116-v2898
-[fuel-ghee-rice-parched-grain](samidh+ājya+carūn+lājān) [rice-white-mustard-mustard-seed](vrīhi+siddhārtha+sarṣapān)
+[samid-ghee-caru-laja](samidājyacarūṁllājān) [rice-siddhārtha-mustard](vrīhisiddhārthasarṣapān)
 
 ## mukta-m0-p116-v2899
-[as-before](prāk+vat) [form-purification](ākāra+śuddhiṃ) [and](ca) [should-perform](kuryāt) [and](ca) [eye-opening](akṣi+vimokṣaṇam)
+[prāgvat](prāgvat) [ākāra-purification](ākāraśuddhiṃ) [ca](ca) [do](kuryāt) [eye-release](cākṣivimokṣaṇam)
 
 ## mukta-m0-p116-v2900
-[of-Sarasvatī](sarasvatyāḥ) [in-knowledge-pot-octad](vidyā+kumbha+aṣṭake) [should-worship](yajet)
+[sarasvatī](sarasvatyā) [knowledge-pot-eight](vidyākumbhāṣṭake) [worship](yajet)
