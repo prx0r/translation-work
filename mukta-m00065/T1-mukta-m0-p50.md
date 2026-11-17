@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p50-v1226
-[pada](pīṭhikāyāḥ) [pada](samucchrāyaṃ) [pada](vikārāṃśena) [pada](bhājayet)
+[of-pedestal](pīṭhikāyāḥ) [height](samucchrāyaṃ) [by-part+of-variation](vikārāṃśena) [one-should-divide](bhājayet)
 
 ## mukta-m0-p50-v1227
-[pada](guṇābhāge) [pada](tathā) [pada](kumbhaḥ) [pada](kumbhapaṭṭi)
+[by-part+of-attribute](guṇābhāge) [likewise](tathā) [pitcher](kumbhaḥ) [pitcher+band](kumbhapaṭṭi) [indeed](tu) [by-one-part](bhāgataḥ)
 
 ## mukta-m0-p50-v1228
-[pada](pakṣabhāge) [pada](jalādhāra) [pada](ekāṃśe) [pada](śeṣapaṭṭikā)
+[by-part+of-side](pakṣabhāge) [water+receptacle](jalādhāra) [by-one-part](ekāṃśe) [remaining+band](śeṣapaṭṭikā)
 
 ## mukta-m0-p50-v1229
-[pada](bāṇamatānusāreṇa) [pada](kanyasī) [pada](tthaṃ) [pada](payodharā)
+[according-to-opinion+of-Bāṇa](bāṇamatānusāreṇa) [smallest](kanyasī) [thus](tthaṃ) [water-holder](payodharā)
 
 ## mukta-m0-p50-v1230
-[pada](paṭṭopapaṭṭikā) [pada](kaṇṭho) [pada](galapaṭṭaṭdayupapaṭṭikā) [pada](paṭṭikā)
+[band](paṭṭa) [upper+band](upapaṭṭikā) [neck](kaṇṭho) [throat+band](galapaṭṭa) [pair+of-upper-bands](ṭdayupapaṭṭikā)
 
 ## mukta-m0-p50-v1231
-[pada](mekhalā) [pada](paṭṭikā) [pada](kintu) [pada](bhāgakena)
+[girdle](mekhalā) [band](paṭṭikā) [but](kintu) [by-one-part](bhāgakena) [above+that](tadūrdhvataḥ)
 
 ## mukta-m0-p50-v1232
-[pada](ucchrāyārdha) [pada](tu) [pada](pīṭhyāḥ) [pada](syādrudrabhāge)
+[height+half](ucchrāyārdha) [indeed](tu) [of-pedestal](pīṭhyāḥ) [should-be](syāt) [in-Rudra+parts](rudrabhāge) [in-two](dvidhā) [being-divided](kṛte)
 
 ## mukta-m0-p50-v1233
-[pada](tribhiraljaṃ) [pada](dvipaṭṭau) [pada](dvābhyāṃ) [pada](dvābhyā)
+[by-three](tribhiḥ) [lotus](aljaṃ) [two+bands](dvipaṭṭau) [indeed](tu) [by-two](dvābhyāṃ) [by-two](dvābhyāṃ) [likewise](tathā) [lotus](ambujam)
 
 ## mukta-m0-p50-v1234
-[pada](dvābhyāṃ) [pada](dvābhyāṃ) [pada](kramātpadyaṃ) [pada](sārdhāśe)
+[by-two](dvābhyāṃ) [by-two](dvābhyāṃ) [in-order](kramāt) [lotus](padyaṃ) [in-half+part](sārdhāśe) [neck+projection](galanirgamaḥ)
 
 ## mukta-m0-p50-v1235
-[pada](kaṇṭhadvayena) [pada](saṃyuktā) [pada](ṣaḍbhiḥ) [pada](padmairvibhūṣitā)
+[by-two+necks](kaṇṭhadvayena) [joined](saṃyuktā) [by-six](ṣaḍbhiḥ) [with-lotuses](padmair) [adorned](vibhūṣitā)
 
 ## mukta-m0-p50-v1236
-[pada](samvartākhyā) [pada](jalādhārā) [pada](viṣṇubhāgāntamucchritā) [pada](viṣṇubhāgāntamucchritā)
+[named+Saṃvartā](samvartākhyā) [water+receptacle](jalādhārā) [up-to-Viṣṇu+part](viṣṇubhāgāntam) [raised](ucchritā)
 
 ## mukta-m0-p50-v1237
-[pada](liṅganāhatriveṣṭena) [pada](vṛttāvyaktasya) [pada](piṇḍikā) [pada](piṇḍikā)
+[by-liṅga+circumference+threefold+wrapping](liṅganāhatriveṣṭena) [circular](vṛttā) [of-unmanifest](avyaktasya) [pedestal](piṇḍikā)
 
 ## mukta-m0-p50-v1238
-[pada](taddīrghatvārdhavistārāttadardhānnālakocchrayau) [pada](taddīrghatvārdhavistārāttadardhānnālakocchrayau) [pada](taddīrghatvārdhavistārāttadardhānnālakocchrayau) [pada](taddīrghatvārdhavistārāttadardhānnālakocchrayau)
+[by-half+of-its-length](taddīrghatvārdhavistārāt) [by-half+of-that](tadardhāt) [channel+heights](nālakocchrayau)
 
 ## mukta-m0-p50-v1239
-[pada](ucchraye) [pada](daśadhābhakte) [pada](padaṃ) [pada](kumbhaṃ)
+[in-height](ucchraye) [being-divided+into-ten](daśadhābhakte) [foot](padaṃ) [pitcher](kumbhaṃ) [likewise](tathā) [neck](galam)
 
 ## mukta-m0-p50-v1240
-[pada](khuraṃ) [pada](jaṅyā) [pada](ca) [pada](kūrṇauṃ)
+[base](khuraṃ) [shaft](jaṅyā) [and](ca) [roll-moulding](kūrṇauṃ) [and](ca) [neck](kaṇṭhaṃ) [and](ca) [indeed](eva) [upper+neck](upakaṇṭhikām)
 
 ## mukta-m0-p50-v1241
-[pada](ekayugmaikapakṣaikayugmaikagalāṃśakaiḥ) [pada](ekayugmaikapakṣaikayugmaikagalāṃśakaiḥ) [pada](ekayugmaikapakṣaikayugmaikagalāṃśakaiḥ) [pada](ekayugmaikapakṣaikayugmaikagalāṃśakaiḥ)
+[by-one+pair+one+side+one+pair+one+neck+parts](ekayugmaikapakṣaikayugmaikagalāṃśakaiḥ)
 
 ## mukta-m0-p50-v1242
-[pada](ṣoḍaśāṃśakṛtocchāye) [pada](jyeṣṭhānāmāsane) [pada](sadā) [pada](sadā)
+[in-sixteen+parts+divided+height](ṣoḍaśāṃśakṛtocchāye) [of-largest](jyeṣṭhānām) [in-seat](āsane) [always](sadā)
 
 ## mukta-m0-p50-v1243
-[pada](caraṇapaṭṭikākumbha) [pada](paṭṭikā) [pada](galapaṭṭikā) [pada](galapaṭṭikā)
+[foot+band](caraṇapaṭṭikā) [pitcher](kumbha) [band](paṭṭikā) [neck+band](galapaṭṭikā)
 
 ## mukta-m0-p50-v1244
-[pada](aṣṭadigravihastaiśca) [pada](hīnamadhyottamāstribhiḥ) [pada](hīnamadhyottamāstribhiḥ) [pada](hīnamadhyottamāstribhiḥ)
+[by-eight+directions+measured+by-cubits](aṣṭadigravihastaiśca) [lesser+middle+superior](hīnamadhyottamās) [by-three](tribhiḥ)
 
 ## mukta-m0-p50-v1245
-[pada](praveśogdamabāhulyācchū) [pada](bhranālādi) [pada](pūrvavat) [pada](pūrvavat)
+[from-thickness+of-entering+water](praveśogdamabāhulyāt) [spout+channel+etc.](śubhranālādi) [as-before](pūrvavat)
 
 ## mukta-m0-p50-v1246
-[pada](tattryaṃśātpīṭhavistārastatpādonasamucchrayaḥ) [pada](tattryaṃśātpīṭhavistārastatpādonasamucchrayaḥ) [pada](tattryaṃśātpīṭhavistārastatpādonasamucchrayaḥ) [pada](tattryaṃśātpīṭhavistārastatpādonasamucchrayaḥ)
+[from-its+third-part](tattryaṃśāt) [pedestal+width](pīṭhavistāras) [from-quarter+of-that](tatpādonasamucchrayaḥ)
 
 ## mukta-m0-p50-v1247
-[pada](saha) [pada](kumbho) [pada](galo) [pada](vṛtto)
+[with](saha) [pitcher](kumbho) [neck](galo) [circular](vṛtto) [four-sided](vedāsrā) [band](paṭṭikā) [in-order](kramāt)
 
 ## mukta-m0-p50-v1248
-[pada](anyatra) [pada](tvevamevaṃ) [pada](syātsaṃvṛttātkarṇapīṭakam) [pada](syātsaṃvṛttātkarṇapīṭakam)
+[elsewhere](anyatra) [but](tu) [thus](evam) [indeed](evaṃ) [should-be](syāt) [from-circular](saṃvṛttāt) [corner+pedestal](karṇapīṭakam)
 
 ## mukta-m0-p50-v1249
-[pada](suślakṣṇāśliṣṭasandhiśca) [pada](rupeṇāmbudharādivat) [pada](rupeṇāmbudharādivat) [pada](rupeṇāmbudharādivat)
+[well-polished](suślakṣṇā) [closely-joined+joints](śliṣṭasandhiśca) [in-form](rupeṇa) [like-cloud+etc.](ambudharādivat)
 
 ## mukta-m0-p50-v1250
-[pada](keṣāṃcittu) [pada](mate) [pada](vyaktaliṅge) [pada](tu)
+[but+of-some](keṣāṃcittu) [in-opinion](mate) [in-manifest+liṅga](vyaktaliṅge) [indeed](tu) [on-head+umbrella](chatramastake)

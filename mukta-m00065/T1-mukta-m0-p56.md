@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p56-v1376
-in-winter (hemante) knowledge-giving (jñānadam) liṅga (liṅgam) in-cool-season (śiśire) all-beings-giving (sarvabhūtidam)
+[in-winter](hemante) [knowledge+giving](jñānadaṃ) [liṅga](liṅgaṃ) [in-cool-season](śiśire) [all+prosperity+giving](sarvabhūtidam)
 
 ## mukta-m0-p56-v1377
-for-ascetics (yatīnām) at-all-times (sarvakāleṣu) of-liṅga-installation (liṅgasya+āropaṇam) considered (matam)
+[of-ascetics](yatīnāṃ) [in-all+times](sarvakāleṣu) [of-liṅga](liṅgasya) [installation](āropaṇaṃ) [approved](matam)
 
 ## mukta-m0-p56-v1378
-in-southern-ayana (dakṣiṇe+ayane) not-worshipful (apūjyam) beyond-three-years (trivarṣa+ūrdhvam) fear-bringing (bhayāvaham)
+[in-southern+course](dakṣiṇetvayane) [not-to-be-worshipped](apūjyaṃ) [beyond-three+years](trivarṣordhvaṃ) [fear+causing](bhayāvaham)
 
 ## mukta-m0-p56-v1379
-for-decay (kṣayāya) for-growth (vṛddhaye) and-is (syāt+ca) in-southern (yāmye) in-auspicious (saumye) other (apare) sun (ravau)
+[for-decline](kṣayāya) [for-increase](bṛddhaye) [it-may-be](syāt) [and](ca) [in-southern](yāmye) [in-northern](saumye) [or-other](apare) [sun](ravau)
 
 ## mukta-m0-p56-v1380
-six-six-months-beyond (ṣaṭ+ṣaṇmāsa+uttarān) three-years (tryabdān) by-me-opinion (maya+matāt) fruit (phalam) in-order (kramāt)
+[six+six+months+additional](ṣaṭṣaṇmāsottarān) [three+years](tryabdān) [my+opinion](mayamatāt) [result](phalaṃ) [in-order](kramāt)
 
 ## mukta-m0-p56-v1381
-black-magic (abhicāraḥ) becomes (bhavet) there (tatra) installed (sthāpite) in-southern-ayana (dakṣiṇe+ayane)
+[black-magic](abhicāro) [may-arise](bhavet) [there](tatra) [when-installed](sthāpite) [in-southern](dakṣiṇe) [course](ayane)
 
 ## mukta-m0-p56-v1382
-boys (kumārāḥ) are-oppressed (saṃprapīḍyante) girl-loss (kanyā+nāśaḥ) and (ca) arises (jāyate)
+[boys](kumārāḥ) [are-greatly-afflicted](saṃprapīḍyante) [destruction-of-girls](kanyānāśaḥ) [and](ca) [occurs](jāyate)
 
 ## mukta-m0-p56-v1383
-of-maker (kartuḥ) decay (kṣayaḥ) constant-sorrow (sadā+śokaḥ) in-house (gṛhe) becomes (bhavati) terrible (dāruṇaḥ)
+[of-performer](kartuḥ) [decline](kṣayaḥ) [constant+sorrow](sadāśoko) [in-house](gṛhe) [becomes](bhavati) [terrible](dāruṇaḥ)
 
 ## mukta-m0-p56-v1384
-auspicious-seeker (śubha+arthī) not (na) should-act (pravarteta) of-goddess (devyāḥ) mantra-etc-scripture (mantra+ādi+śāstrataḥ)
+[one-desiring+auspiciousness](śubhārthī) [not](na) [should-proceed](pravarteta) [of-goddess](devyā) [from-mantra+etc.+scriptures](mantrādiśāstrataḥ)
 
 ## mukta-m0-p56-v1385
-therefore-place (tasmāt+sthānam) guru (gurum) obtaining (prāpya) for-protection (rakṣaye) from-black-magic (dābhicārikam)
+[therefore](tasmāt) [place](sthānaṃ) [teacher](guruṃ) [having-reached](prāpya) [one-should-protect](rakṣayet) [from-black-magic](ābhicārikam)
 
 ## mukta-m0-p56-v1386
-installation (sthāpanam) but (tu) should-be-done (prakartavyam) from-cool-season (śiśirāt+ādi) three-seasons (ṛtu+traye)
+[installation](sthāpanaṃ) [indeed](tu) [should-be-done](prakartavyaṃ) [beginning-with-cool-season](śiśirādau) [in-three+seasons](ṛtutraye)
 
 ## mukta-m0-p56-v1387
-with-moon-star-yoga (sa+candra+tāraka+yoge) with-good-lagna-karaṇa (su+lagna+karaṇa+anvite)
+[with-moon+stars+conjunction](sacandratārakāyoge) [endowed-with-good+ascendant+karaṇa](sulagnakaraṇānvitate)
 
 ## mukta-m0-p56-v1388
-on-non-dual (advaite) and-indeed (ca+eva) in-dark (kṛṣṇe) also (api) mantra-form (mantra+mūrti) by-distinction (prabhedataḥ)
+[in-non-dual](advaite) [and](ca) [indeed](eva) [in-dark-fortnight](kṛsṇe) [also](api) [by-mantra+form](mantramūrti) [by-difference-of-light](prabhedataḥ)
 
 ## mukta-m0-p56-v1389
-pañcarātra-worthy (pāñcarātra+arha) mixed (miśrā) fifty-years (pañcāśat+varṣa) establishment (saṃsthitiḥ)
+[for-Pāñcarātra+worthy](pāñcarātrārhe) [mixed](miśrā) [fifty+year+duration](pañcāśadvarṣasaṃsthitiḥ)
 
 ## mukta-m0-p56-v1390
-hundred-years (śata+abda) or (vā) indeed (tu) that (sā) stands (tiṣṭhet) bāṇa-liṅga (vāṇa+liṅgam) like-self-born (svayambhu+vat)
+[beyond-hundred+years](śātābdorvbaṃ) [indeed](tu) [that](sā) [may-remain](tiṣṭhet) [Bāṇa-liṅga](vāṇaliṅgaṃ) [like-self-born](svayambhubat)
 
 ## mukta-m0-p56-v1391
-of-many-meanings (bahvartha) fallings (nipātānām) in-purification-etc (saṃskāra+ādau) installation (pratiṣṭhitiḥ)
+[because-of-many+meanings](bahvarthatvāt) [of-prepositions](nipātānāṃ) [in-consecration+etc.](saṃskārādau) [establishment](pratiṣṭhitiḥ)
 
 ## mukta-m0-p56-v1392
-purified (saṃskṛtā) substance (dravya) with-mantra-purification (mantra+saṃskṛtiḥ) which (yā) divine (surāgya) and (ca)
+[consecrated](saṃskṛtā) [which](yā) [consecration-by-substance+good+mantra](dravyasanmantrasaṃskṛtiḥ) [of-deity](suragya) [and](ca)
 
 ## mukta-m0-p56-v1393
-image (pratimām) with-five-divisions (pañca+bhedaiḥ) but (tu) installation (pratiṣṭhā) fivefold (pañcadhā) declared (uditā)
+[of-image](pratimāṃ) [by-five+kinds](pañcabhedaiḥ) [indeed](tu) [installation](pratiṣṭhā) [in-five-ways](pañcadhā) [declared](uditā)
 
 ## mukta-m0-p56-v1394
-second (dvitīyā) life (āyu) gives (dadyāt) third (tṛtīyā) son-prosperity (putra+saṃpadaḥ)
+[second](dvitīyā) [long-life](āyumati) [may-give](dadyāt) [third](tṛtīyā) [son+wealth](putrasaṃpadaḥ)
 
 ## mukta-m0-p56-v1395
-tenth (daśamī) land-gain (bhūmi+lābham) and (ca) good-fortune (saubhāgyam) and (ca) thirteenth (trayodaśī)
+[tenth](daśamī) [land+gain](bhūmilābhaṃ) [and](ca) [good-fortune](saubhāgyaṃ) [and](ca) [thirteenth](trayodaśī)
 
 ## mukta-m0-p56-v1396
-one-maker (ekartu) with-Śaṅkara (śaṅkaraiḥ) Nandā (nandā) Bhadrā (bhadrā) with-fortnight-seer-sun (pakṣa+ṛṣi+bhānubhiḥ)
+[by-one+season+Śaṅkaras](ekartuśaṅkaraiḥ) [Nandā](nandā) [Bhadrā](bhadrā) [by-fortnight+seers+suns](pakṣarṣibhānubhiḥ)
 
 ## mukta-m0-p56-v1397
-bāṇa-direction-tithi (bāṇa+diś+tithibhiḥ) full (pūrṇā) deficient-equal-harmful (hīna+tulya+ahitāḥ) in-order (kramāt)
+[by-arrows+directions+tithis](bāṇadiktithibhiḥ) [Pūrṇā](pūrṇā) [deficient+equal+beneficial](hīnatulyāhitāḥ) [in-order](kramāt)
 
 ## mukta-m0-p56-v1398
-Jupiter (vṛhaspatiḥ) two-five-life (dvi+pañca+āyu) wise (budhaḥ) victory-wealth (jaya+dhana) and (ca)
+[Jupiter](vṛhaspatiḥ) [two+five+life](dvipañcāyuḥ) [Mercury](budyo) [victory+wealth](jayadhanāni) [and](ca)
 
 ## mukta-m0-p56-v1399
-Cancer (karka) Taurus-Libra-Sagittarius (vṛṣa+tulā+cāpa) woman-Lion-planet-pair (strī+siṃha+grāha+yugmake)
+[in-Cancer](karka) [in-Taurus+Libra+Sagittarius](vṛṣatulācāpa) [in-Virgo+Leo+Scorpio+Gemini](strīsiṃhagrāhayugmake)
 
 ## mukta-m0-p56-v1400
-six-eight-four-yāma (ṣaḍ+aṣṭa+catuḥ+yāmāt) four (catuḥ) zodiac-in-order (rāśi+krameṇa) indeed (tu)
+[six+eight+four+watches](ṣaḍaṣṭacaturoyāmāt) [four](catū) [in-order-of-signs](rāśikrameṇa) [indeed](tu)
