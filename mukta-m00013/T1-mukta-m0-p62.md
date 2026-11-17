@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p62-v1526
-[with-flour](piṣṭena) [thus](iti) [from-barley+grain+produced](yava+dhānya+udbhavena) [thus](iti) [meaning](arthaḥ)
+[by-flour](piṣṭena) [thus](iti) [as-much-grain-born](yavadhānyodbhavena) [thus-meaning](etyarthaḥ)
 
 ## mukta-m0-p62-v1527
-[with-sword](candrahāsena) [according-to-rule](vidhivat) [with-that+respective+mantra](tat+tan+mantreṇa) [one-should-strike](ghātayet)
+[crescent-moon-weapon](candrahāsena) [properly](vidhivat) [that-that-mantra](tattanmantreṇa) [should-kill](ghātayet)
 
 ## mukta-m0-p62-v1528
-[to-guru](gurave) [to-guru+son](guru+putrāya) [to-his+wife](tat+patnyai) [or](vā) [one-should-offer](nivedayet)
+[to-guru](gurave) [to-guru's-son](guruputrāya) [to-his-wife](tatpatnyai) [or](vā) [should-offer](nivedayet)
 
 ## mukta-m0-p62-v1529
-[at-bilva+root](vilva+mūle) [in-cremation-ground](śmaśāne) [or](vā) [near-that](tat+samīpe) [in-forest+place](vana+sthale)
+[at-bilva-root](vilvamūle) [at-cremation-ground](śmaśāne) [or](vā) [near-that](tatsamīpe) [in-forest-place](vanasthale)
 
 ## mukta-m0-p62-v1530
-[on-Tuesday](bhauma+vāre) [in-dark-night](tamisrāyām) [one-should-accomplish](sādhayet) [supreme+siddhi](siddhim+uttamām)
+[on-mars-day](bhaumavāre) [in-darkness](tamisrāyāṃ) [should-accomplish](sādhayet) [supreme-accomplishment](siddhimuttamām)
 
 ## mukta-m0-p62-v1531
-[sesame-seeds](tilāḥ) [kuśa-grass](kuśāḥ) [mustard-seeds](sarṣaṃpāḥ) [and](ca) [should-be-placed](sthāpanīyāḥ) [carefully](prayatnataḥ)
+[sesame](tilāḥ) [kuśa-grass](kuśāḥ) [mustard-and-others](sarṣaṃpāḥ) [ca](ca) [to-be-placed](sthāpanīyāḥ) [carefully](prayatnataḥ)
 
 ## mukta-m0-p62-v1532
-[slay](ghātaya) [hūṃ](hūṃ) [phaṭ](phaṭ) [oṃ](oṃ) [in-thousand-petaled](sahasrāre) [hūṃ](hūṃ) [phaṭ](phaṭ)
+[slay](ghātaya) [hūṃ](hūṃ) [phaṭ](phaṭ) [oṃ](oṃ) [thousand-petaled](sahasrāre) [hūṃ](hūṃ) [phaṭ](phaṭ)
 
 ## mukta-m0-p62-v1533
-[having-scattered](vikīrya) [to-arranged+corpse+vicinity](vihita+śava+samīpaṃ) [one-should-go](gacchet)
+[scattering](vikīrya) [to-appointed-corpse-near](vihitaśavasamīpaṃ) [should-go](gacchet)
 
 ## mukta-m0-p62-v1534
-[without-fleeing](palāyana+viśūnam) [indeed](tu) [in-front](sammukhe) [of-those-engaged+in-battle](raṇa+vartinām)
+[without-flight](palāyanaviśūnyam) [tu](tu) [before](sammukhe) [of-battle-goers](raṇavartinām)
 
 ## mukta-m0-p62-v1535
-[if-woman](strī+janam) [such](cedṛśaṃ) [form](rūpaṃ) [in-every-way](sarvathā) [one-should-avoid](parivarjayet)
+[women-folk](strījanaṃ) [such](cedṛśaṃ) [form](rūpaṃ) [always](sarvathā) [should-avoid](parivarjayet)
 
 ## mukta-m0-p62-v1536
-[of-performers+of-minor+rites](kṣudra+prayoga+kartṛṇāṃ) [commended](praśastāḥ) [for-all+siddhis](sarva+siddhaye)
+[for-doers-of-minor-rites](kṣudraprayogakartṛṇāṃ) [auspicious](praśastāḥ) [for-all-accomplishments](sarvasiddhaye)
 
 ## mukta-m0-p62-v1537
-[three+handfuls+of-flowers](puṣpa+añjali+trayaṃ) [having-given](dattvā) [one-should-bow](praṇamet) [preceded-by-touch](sparśa+pūrvakam)
+[three-handfuls-flowers](puṣpāñjalitrayaṃ) [having-given](dattvā) [should-bow](praṇamet) [with-touch-first](sparśapūrvakam)
 
 ## mukta-m0-p62-v1538
-[smeared-with-blood](rakta+āktaḥ) [if](yadi) [o-goddess](deveśi) [one-should-eat](bhakṣayet) [kula+practitioner](kula+sādhakam)
+[blood-smeared](raktākto) [if](yadi) [O-goddess](deveśi) [should-eat](bhakṣayet) [clan-adept](kulasādhakam)
 
 ## mukta-m0-p62-v1539
-[again](punaḥ) [washing](prakṣālanaṃ) [having-done](kṛtvā) [to-place+of-recitation](japa+sthāne) [one-should-bring](samānayet)
+[again](punaḥ) [washing](prakṣālanaṃ) [having-done](kṛtvā) [to-japa-place](japasthāne) [should-bring](samānayet)
 
 ## mukta-m0-p62-v1540
-[to-sixty-four+yoginīs](catuḥṣaṣṭi+yoginībhyaḥ) [to-ḍākinīs](ḍākinībhyaḥ) [also](api) [one-should-instruct](saṃdiśet)
+[to-sixty-four-yoginis](catuḥṣaṣṭiyoginībhyo) [to-dakinis-too](ḍākinībhyo'pi) [should-direct](saṃdiśet)
 
 ## mukta-m0-p62-v1541
-[here](atra) [by-procedure+of-cremation-ground+practice](śmaśāna+sādhana+krameṇa) [recitation](japaḥ) [should-be-done](kāryaḥ)
+[here](atra) [by-cremation-ground-rite-sequence](śmaśānasādhanakrameṇa) [japa](japaḥ) [should-be-done](kāryaḥ)
 
 ## mukta-m0-p62-v1542
-[corpse](śavaṃ) [in-water](jale) [or](tu) [in-pit](garte) [or](vā) [having-placed](nikṣipya) [bath](snānam) [one-should-perform](ācaret)
+[corpse](śavaṃ) [in-water](jale) [tu](tu) [in-pit](garte) [or](vā) [having-placed](nikṣipya) [should-bathe](srānamācaret)
 
 ## mukta-m0-p62-v1543
-[having-given](dattvā) [made-of-flour](piṣṭha+mayān) [afterwards](ante) [should-be-done](kartavyaṃ) [fasting](samupoṣaṇam)
+[having-given](dattvā) [flour-made-at-end](piṣṭhamayānante) [should-be-done](kartavyaṃ) [fasting](samupoṣaṇam)
 
 ## mukta-m0-p62-v1544
-[twenty-five+in-number](pañcaviṃśati+saṃkhyakān) [also](api) [brahmins](brāhmaṇān) [one-should-feed](bhojayet)
+[twenty-five-numbered](pañcaviṃśatisaṃkhyakān) [also](api) [brahmins](brāhmaṇān) [should-feed](bhojayet)
 
 ## mukta-m0-p62-v1545
-[then](tataḥ) [having-bathed](snātvā) [and](ca) [having-eaten](bhuktvā) [and](ca) [one-should-dwell](nivaset) [in-excellent+place](uttama+sthale)
+[then](tataḥ) [having-bathed](snātvā) [and](ca) [having-eaten](bhuktvā) [and](ca) [should-dwell](nivased) [in-best-place](uttamasthale)
 
 ## mukta-m0-p62-v1546
-[for-three+nights](tri+rātraṃ) [or](vā) [for-six+nights](ṣaḍ+rātram) [or](atha) [for-nine+nights](nava+rātram) [indeed](tu) [one-should-conceal](gopayet)
+[three-nights](trirātraṃ) [or](vā) [then](atha) [six-nights](ṣaḍrātraṃ) [nine-nights](navarātrantu) [should-conceal](gopayet)
 
 ## mukta-m0-p62-v1547
-[then](tadā) [garment](vastraṃ) [having-abandoned](parityajya) [one-should-take](gṛhṇīyāt) [another+garment](vasana+antaram)
+[then](tadā) [cloth](vastraṃ) [having-abandoned](parityajya) [should-take](gṛhṇīyāt) [another-garment](vasanāntaram)
 
 ## mukta-m0-p62-v1548
-[wicked-person](durjanaṃ) [outcast](patitaṃ) [impotent](klīvaṃ) [not](na) [one-should-touch](spṛśet) [and](ca) [ever](kadācana)
+[evil-person](durjanaṃ) [fallen](patitaṃ) [eunuch](klīvaṃ) [not](na) [should-touch](spṛśet) [ca](ca) [ever](kadācana)
 
 ## mukta-m0-p62-v1549
-[in-morning](prātaḥ) [at-end+of-daily+rites](nitya+kriyā+ante) [and](ca) [bilva-leaf+water](vilva+patra+udakaṃ) [one-should-drink](pibet)
+[in-morning-daily-rite-end](prātarnityakriyānte) [and](ca) [bilva-leaf-water](vilvapatrodakaṃ) [should-drink](pibet)
 
 ## mukta-m0-p62-v1550
-[then](tataḥ) [fee](dakṣiṇāṃ) [having-given](dattvā) [and](ca) [ascertainment+of-omission](chidra+avadhāraṇaṃ) [one-should-do](kuryāt)
+[then](tato) [gift](dakṣiṇāṃ) [having-given](dattvā) [flawless-sealing](acchidrāvadhāraṇaṃ) [should-do](kuryāt)

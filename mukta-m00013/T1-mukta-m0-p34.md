@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p34-v826
-[śārdūla-meter](śārdūla) [desire+hook+graceful+group+agitated+blazing](kāmāṃkuśa+lalita+gaṇā+kapla+dīptaṃ) [Mukunda](mukundam) [one-should-meditate](dhyāyet)
+[tiger](śārdūla) [kāma-kuśa-lalita-gaṇa-ākapa-līpta](kāmāṃkuśalalitagaṇākapladīptaṃ) [mukunda](mukundam)
 
 ## mukta-m0-p34-v827
-[honey+triad+joined-with](madhu+traya+yutaiḥ) [having-offered](hutvā) [and](ca) [one-should-worship](arcayet) [as-before](pūrva+vat) [Hari](harim)
+[madhu-traya-yuta](madhutrayayutair) [hutvā](hutvā) [ca-arcayet](cārcayet) [pūrva-vat-harim](pūrvavaddharim)
 
 ## mukta-m0-p34-v828
-[principal](pradhānaṃ) [in-Vaiṣṇava](vaiṣṇave) [in-tantra](tantre) [mantra](mantraḥ) [this](ayam) [god+wishing-tree](sura+pādapaḥ)
+[pradhāna](pradhānaṃ) [vaiṣṇave](vaiṣṇave) [tantre](tantre) [mantraḥ-ayam](mantro'yaṃ) [sura-pādapa](surapādapaḥ)
 
 ## mukta-m0-p34-v829
-[to-Vāsudeva](vāsudevāya) [to-the-deity](devatāyai) [obeisance](namaḥ) [mantra](iti)
+[vāsudevāya](vāsudevāya) [devatāyai](devatāyai) [namaḥ](namaḥ)
 
 ## mukta-m0-p34-v830
-[with-the-whole](samastena) [should-be](bhavet) [weapon](astram) [limb+arrangement](aṅga+kalpanam) [declared](īritam)
+[samastena](samastena) [bhavet](bhaved) [astra-maṅga-kalpana-mīritam](astramaṅgakalpanamīritam)
 
 ## mukta-m0-p34-v831
-[one-should-meditate](dhyāyet) [thus](iti) [on-the-deity](devam) [with-attention](samāhitam) [in-the-heart](hṛdi)
+[dhyāyet](dhyāyet)
 
 ## mukta-m0-p34-v832
-[thus](evaṃ) [having-meditated](dhyātvā) [with-mental-offerings](mānasaiḥ) [having-worshipped](sampūjya) [conch+installation](śaṅkha+sthāpanaṃ) [one-should-do](kuryāt)
+[evam](evaṃ) [dhyātvā](dhyātvā) [mānasaiḥ](mānasaiḥ) [sampūjya](sampūjya) [śaṅkha-sthāpanam](śaṅkhasthāpanaṃ) [kuryāt](kuryāt)
 
 ## mukta-m0-p34-v833
-[ritual](karma) [one-should-complete](samāpayet) [thus](iti) [according-to-rule](vidhivat) [fully](samagram)
+[karma](karma) [samāpayet](samāpayet)
 
 ## mukta-m0-p34-v834
-[its+thousand](tat+sahasraṃ) [one-should-offer](prajuhuyāt) [with-sesame-seeds](tilaiḥ) [ghee+sprinkled-with](ājya+pariplutaiḥ)
+[tat-sahasram](tatsahasraṃ) [prajuhuyāt](prajuhuyāt) [tilaiḥ-ājya-pariplutaiḥ](tilairājyapariplutaiḥ)
 
 ## mukta-m0-p34-v835
-[fourteen+syllabled](caturdaśa+akṣaraḥ) [declared](proktaḥ) [mantra](mantraḥ) [this](ayam) [god+wishing-tree](sura+pādapaḥ)
+[caturdaśa-akṣaraḥ](caturdaśākṣaraḥ) [proktaḥ](prokto) [mantraḥ-ayam](mantro'yaṃ) [sura-pādapa](surapādapaḥ)
 
 ## mukta-m0-p34-v836
-[syllable+lakh](varṇa+lakṣaṃ) [mantra+syllable+equal+number+lakh](mantra+varṇa+sama+saṃkhya+lakṣam) [one-should-recite](japet) [thus](iti) [prescribed](vidhīyate)
+[varṇa-lakṣam](varṇalakṣaṃ) [mantra-varṇa-sama-saṃkhya-lakṣam](mantravarṇasamasaṃkhyalakṣam)
 
 ## mukta-m0-p34-v837
-[to-the-greatly-powerful](mahābalāya) [ṭha+pair](ṭha+dvandvaṃ) [mantra](manuḥ) [eighteen+syllabled](aṣṭādaśa+akṣaraḥ)
+[mahā-balāya](mahābalāya) [ṭha-dvandvam](ṭhadvandvaṃ) [manuḥ-aṣṭādaśa-akṣaraḥ](manuraṣṭādaśākṣaraḥ)
 
 ## mukta-m0-p34-v838
-[on-moon+ending+arranged](candrānta+kalpite) [on-throne](pīṭhe) [by-previously-stated](prāk+uktena) [one-should-worship](samarcayet)
+[candra-anta-kalpite](candrāntakalpite) [pīṭhe](pīṭhe) [prāg-uktena](prāguktena) [samarcayet](samarcayet)
 
 ## mukta-m0-p34-v839
-[by-the-two](dvābhyām) [weapon](astram) [thus](iti) [declared](proktaṃ) [method](prakāraḥ) [of-limb](aṅgasya) [by-the-wise](sūribhiḥ)
+[dvābhyām-astram](dvābhyāmastram) [iti](iti) [proktaṃ](proktaṃ) [prakāraḥ-aṅgasya](prakāro'ṅgasya) [sūribhiḥ](sūribhiḥ)
 
 ## mukta-m0-p34-v840
-[having-performed](vidhāya) [one-should-meditate](dhyāyet) [thus](iti) [on-the-deity](devam) [with-devotion](bhaktyā) [in-the-heart](hṛdi)
+[vidhāya](vidhāya) [dhyāyet](dhyāyet)
 
 ## mukta-m0-p34-v841
-[thus](evaṃ) [having-meditated](dhyātvā) [with-mental-offerings](mānasaiḥ) [having-worshipped](sampūjya) [conch+installation](śaṅkha+sthāpanaṃ) [one-should-do](kuryāt)
+[evam](evaṃ) [dhyātvā](dhyātvā) [mānasaiḥ](mānasaiḥ) [sampūjya](sampūjya) [śaṅkha-sthāpanam](śaṅkhasthāpanaṃ) [kuryāt](kuryāt)
 
 ## mukta-m0-p34-v842
-[then](tataḥ) [incense+etc+dismissal+ending](dhūpa+ādi+visarjana+antaṃ) [ritual](karma) [one-should-complete](samāpayet)
+[tataḥ](tato) [dhūpa-ādi-visarjana-antam](dhūpādivisarjanāntaṃ) [karma](karma) [samāpayet](samāpayet)
 
 ## mukta-m0-p34-v843
-[milk-rice](pāyasa+annaṃ) [one-should-offer](prajuhuyāt) [curd+food](dadhi+annam) [or](vā) [according-to-rule](yathā+vidhi)
+[pāyasa-annam](pāyasānnaṃ) [prajuhuyāt](prajuhuyāt) [dadhi-annam-bā](dadhyannambā) [yathā-vidhi](yathāvidhi)
 
 ## mukta-m0-p34-v844
-[bodhaya+pair+ending](bodhayat+dvitaya+antaḥ) [this](ayam) [mantra](mantraḥ) [tārā+beginning](tārā+ādiḥ) [declared](īritaḥ)
+[bodhaya-dvitaya-antaḥ-ayam](bodhayadvitayānto'yaṃ) [mantraḥ-tārā-ādi-īritaḥ](mantrastārādirīritaḥ)
 
 ## mukta-m0-p34-v845
-[in-the-heart](hṛdi) [to-Śrī-Hayagrīva](śrī+hayagrīvāya) [to-the-deity](devatāyai) [obeisance](namaḥ)
+[hṛdi](hṛdi) [śrī-hayagrīvāya](śrīhayagrīvāya) [devatāyai](devatāyai) [namaḥ](namaḥ)
 
 ## mukta-m0-p34-v846
-[thus](evaṃ) [in-the-heart+etc](hṛdaya+ādiṣu) [limbs](aṅgāni) [one-should-assign](nyaset) [in-order](kramāt)
+[evam](evaṃ) [hṛdaya-ādiṣu](hṛdayādiṣu)
 
 ## mukta-m0-p34-v847
-[then](tataḥ) [incense+etc+dismissal+ending](dhūpa+ādi+visarjanā+antaṃ) [ritual](karma) [one-should-complete](samāpayet)
+[tataḥ](tato) [dhūpa-ādi-visarjana-antam](dhūpādivisarajanāntaṃ) [karma](karma) [samāpayet](samāpayet)
 
 ## mukta-m0-p34-v848
-[tenth-part](daśa+aṃśaṃ) [in-Vaiṣṇava](vaiṣṇave) [in-fire](vahnau) [one-should-offer](juhuyāt) [mantra+knower+best](mantra+vit+tamaḥ)
+[daśāṃśam](daśāṃśaṃ) [vaiṣṇave](vaiṣṇave) [vahnau](vahnau) [juhuyāt-mantra-vit-tamaḥ](juhuyānmantravittamaḥ)
 
 ## mukta-m0-p34-v849
-[one+syllabled](eka+akṣaraḥ) [mantra](manuḥ) [declared](proktaḥ) [four+aim+fruit+giving](catur+varga+phala+pradaḥ)
+[eka-akṣaraḥ](ekākṣaro) [manuḥ](manuḥ) [proktaḥ-catur-varga-phala-pradaḥ](proktaścaturvargaphalapradaḥ)
 
 ## mukta-m0-p34-v850
-[hsāṃ hsīṃ hsūṃ hsaiṃ hsauṃ hsaḥ](hsāṃ hsīṃ hsūṃ hsaiṃ hsauṃ hsaḥ) [thus](iti) [six+limb+arrangement](ṣaḍ+aṅga+kalpanā) [is-done](kāryā)
+[hsāṃ](hsāṃ) [hsīṃ](hsīṃ) [hsūṃ](hsūṃ) [hsaiṃ](hsaiṃ) [hsauṃ](hsauṃ) [hsaḥ](hsaḥ) [iti](iti) [ṣaḍ-aṅga-kalpanā](ṣaḍaṅgakalpanā)

@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p119-v2951
-[bīja-sauḥ](sauḥ) [may-protect](pātu) [and](ca) [in-throat](gale) [bīja-sahrīṃ](sahrīṃ) [in-heart](hṛdaye) [in-navel-region](nābhideśake)
+[sauḥ](sauḥ) [protect](pātu) [and](ca) [throat](gale) [sahrīṃ](sahrīṃ) [heart](hṛdaye) [navel+region](nābhideśake)
 
 ## mukta-m0-p119-v2952
-[bīja-sahahrīṃ](sahahrīṃ) [me](māṃ) [on-all-sides](sarvataḥ) [may-protect](pātu) [bīja-saklīṃ](saklīṃ) [may-protect](pātu) [and](ca) [in-joints](sandhiṣu)
+[sahahrīṃ](sahahrīṃ) [me](māṃ) [everywhere](sarvataḥ) [protect](pātu) [saklīṃ](saklīṃ) [protect](pātu) [and](ca) [joints](sandhiṣu)
 
 ## mukta-m0-p119-v2953
-[bīja-hūṃ](hūṃ) [bīja-kṣe](kṣe) [me](māṃ) [Tvaritā](tvaritā) [may-protect](pātu) [bīja-sahrīṃ](sahrīṃ) [bīja-saklīṃ](saklīṃ) [mind-born](manobhavā)
+[hūṃ](hūṃ) [kṣe](kṣe) [me](māṃ) [swift](tvaritā) [protect](pātu) [sahrīṃ](sahrīṃ) [saklīṃ](saklīṃ) [mind-born](manobhavā)
 
 ## mukta-m0-p119-v2954
-[Jvālā](jvālā) [and](ca) [Mālinī](mālinī) [eternal](nityā) [always](sarvadā) [may-protect](pātu) [me](māṃ) [auspicious-Śivā](śivā)
+[flame](jvālā) [and](ca) [garlanded](mālinī) [eternal](nityā) [always](sarvadā) [protect](pātu) [me](māṃ) [śivā](śivā)
 
 ## mukta-m0-p119-v2955
-[of-you](tava) [by-pleasure](prītyā) [by-me](mayā) [declared](khyātaṃ) [to-be-concealed](gopanīyaṃ) [with-effort](prayatnataḥ)
+[your](tava) [affection](prītyā) [by-me](mayā) [declared](khyātaṃ) [secret](gopanīyaṃ) [carefully](prayatnataḥ)
 
 ## mukta-m0-p119-v2956
-[blessed](dhanyaṃ) [fame-bestowing](yaśasyam) [life-prolonging](āyuṣyaṃ) [enjoyment+liberation-giving](bhogamokṣapradaṃ) [auspicious](śivam)
+[auspicious](dhanyaṃ) [glorious](yaśasyam) [life-giving](āyuṣyaṃ) [enjoyment+liberation-giving](bhogamokṣapradaṃ) [śivam](śivam)
 
 ## mukta-m0-p119-v2957
-[attraction-causing](ākarṣaṇakaraṃ) [O-goddess](devi) [paralyzing+uprooting-causing](stambhoccāṭakaraṃ) [O-Śivā](śive)
+[attracting](ākarṣaṇakaraṃ) [goddess](devi) [stunning+repelling-doing](stambhoccāṭakaraṃ) [śive](śive)
 
 ## mukta-m0-p119-v2958
-[who](yaḥ) [may-worship](arcayet) [with-yoginī+multitudes](yoginīvṛndaiḥ) [he](sa) [to-be-enjoyed](bhakṣyo) [not](na) [here](atra) [doubt](saṃśayaḥ)
+[who-worships](yo'rcayet) [with-yoginī-hosts](yoginīvṛndaiḥ) [he](sa) [consumed](bhakṣyo) [not-here](nātra) [doubt](saṃśayaḥ)
 
 ## mukta-m0-p119-v2959
-[therefore](tasmāt) [this](etat) [always](sadā) [one-should-practice](abhyasyet) [qualified](adhikārī) [may-become](bhavet) [then](tataḥ)
+[therefore-this](tasmādetat) [always-practice](sadābhyasyet) [qualified](adhikārī) [becomes](bhavet) [then](tataḥ)
 
 ## mukta-m0-p119-v2960
-[then](tat) [again](punar) [at-death+time](antakāle)
+[then+again+at-end-time](tatpunarantakāle)
 
 ## mukta-m0-p119-v2961
-[young+sun](taruṇārka) [crore+shining+splendor](koṭivilasattejaḥ) [whose-form](svarūpāṃ) [auspicious-Śivā](śivām)
+[youthful-sun](taruṇārka) [crore-shining-radiance](koṭivilasattejaḥ) [own-form](svarūpāṃ) [śivām](śivām)
 
 ## mukta-m0-p119-v2962
-[young+sun+equal+radiance](bālādityasamaprakāśa) [shining+three-eyes](vilasannetratraya) [illuminated-by](udbhāsinīm)
+[child-sun+equal+radiance+shining+three-eye+radiant](bālādityasamaprakāśavilasannetratrayodbhāsinīm)
 
 ## mukta-m0-p119-v2963
-[pratyālīḍha+thigh+footed](pratyālīḍhorupādām) [reddened+eyes](aruṇitanayanāṃ) [yoginī](yoginīṃ) [yogic-sleep](yoganidrām)
+[pratyālīḍha+thigh+foot+red+eye](pratyālīḍhorupādāmaruṇitanayanāṃ) [yoginī](yoginīṃ) [yoga+sleep](yoganidrām)
 
 ## mukta-m0-p119-v2964
-[just+cut+own+throat](sadyaśchinnātmakaṇṭha) [flowing+blood](pragalitarudhiraiḥ) [Ḍākinī](ḍākinīṃ) [nourishing](varddhayantīm)
+[suddenly-cut+throat](sadyaśchinnātmakaṇṭha) [flowing+blood](pragalitarudhiraiḥ) [ḍākinī](ḍākinīṃ) [increasing](varddhayantīm)
 
 ## mukta-m0-p119-v2965
-[of-whom](yasyāḥ) [smiling+lotus+feet+pair](smerapadāravindayugale) [attainment](lābhaṃ) [obtain](bhajante) [immortals](amarāḥ)
+[whose](yasyāḥ) [smiling+lotus+pair](smerapadāravinduyugale) [gain](lābhaṃ) [obtain](bhajante) [immortals](amarāḥ)
 
 ## mukta-m0-p119-v2966
-[Bhairava](bhairavaḥ) [I-am](aham) [Śiva](śivaḥ) [I-am](aham)
+[bhairava+I](bhairavo'haṃ) [śiva+I](śivo'ham)
 
 ## mukta-m0-p119-v2967
 [all+siddhi+giving](sarvasiddhipradaṃ) [directly](sākṣāt) [great+sin+destroying](mahāpātakanāśanam)
 
 ## mukta-m0-p119-v2968
-[of-him](tasya) [success](siddhiḥ) [may-be](bhavet) [O-goddess](devi) [desired+object+granting](vāñchitārthapradāyinī)
+[his](tasya) [siddhi+becomes](siddhirbhaved) [goddess](devi) [desired+object+giving](vāñchitārthapradāyinī)
 
 ## mukta-m0-p119-v2969
-[earth](vasundharāṃ) [great+knowledge](mahāvidyām) [eight](aṣṭau) [siddhis](siddhīḥ) [may-be](bhavet) [certainly](dhruvam)
+[earth](vasundharāṃ) [great+vidyā](mahāvidyām) [eight](aṣṭau) [siddhis](siddhīḥ) [becomes](bhaved) [certainly](dhruvam)
 
 ## mukta-m0-p119-v2970
-[O-mother](mātaḥ) [devotee+people+compassionate-one](bhaktajanānukampini) [O-great-illusion](mahāmāye) [be](astu) [to-you](tubhyaṃ) [salutation](namaḥ)
+[mother+compassionate+to+devotees](mātarbhaktajanānukampini) [great+illusion](mahāmāye) [be](astu) [to+you](tubhyaṃ) [salutation](namaḥ)
 
 ## mukta-m0-p119-v2971
-[by-you](tvayā) [by-lord](nāthena) [O-lord-of-beings](jīveśa) [heard](śrutāḥ) [and](ca) [learned](adhigatā) [by-me](mayā)
+[by+you](tvayā) [lord](nāthena) [life+lord](jīveśa) [heard+and+attained](śrutāścādhigatā) [by+me](mayā)
 
 ## mukta-m0-p119-v2972
-[three-worlds+victory](trailokyavijayaṃ) [named](nāma) [armor](kavacaṃ) [let-be-told](kathyatāṃ) [O-lord](prabho)
+[three+worlds+victory](trailokyavijayaṃ) [named](nāma) [armor](kavacaṃ) [tell](kathyatāṃ) [lord](prabho)
 
 ## mukta-m0-p119-v2973
-[three-worlds](trailokya) [victory](vijayaṃ) [named](nāma) [armor](kavacaṃ) [all+deluding](sarvamohanam)
+[three+worlds](trailokya) [victory](vijayaṃ) [named](nāma) [armor](kavacaṃ) [all+deluding](sarvamohanam)
 
 ## mukta-m0-p119-v2974
-[by-wearing](dhāraṇāt) [by-reciting+and-so-on](paṭhanād) [O-lord](īśaḥ) [three-worlds+victorious](trailokyavijayī) [mighty](vibhuḥ)
+[by+wearing](dhāraṇāt) [by+reading+etc](paṭhanādīśaḥ) [three+worlds+victor](trailokyavijayī) [lord](vibhuḥ)
 
 ## mukta-m0-p119-v2975
-[creator](kartā) [protector](pātā) [and](ca) [destroyer](saṃhartā) [of-worlds](bhuvanānāṃ) [O-queen-of-gods](sureśvari)
+[creator](kartā) [protector](pātā) [and](ca) [destroyer](saṃhartā) [of+worlds](bhuvanānāṃ) [goddess+of+gods](sureśvari)
