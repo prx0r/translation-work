@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p04-v76
-[bodha](bodha)+[manifestation](vyakti)+[ground](bhūmi)+[instrumental](tayā) [of-pashu](paśoḥ) [thus](iti)
+[bodha-vyakti-bhūmi-tayā](bodhavyaktibhūmitayā) [paśoḥ](paśoḥ) [iti](iti) [vi0-11-8](vi0 11|8)
 
 ## mukta-m0-p04-v77
-[desire](icchā)+[impulse](saṃrambha)+[knowledge](bodha)+[called](ākhya)+[by-them](tena)+[inner-organ](antaḥkaraṇa) [threefold](tridhā)
+[icchā-saṃrambha-bodha-ākhyāḥ](icchāsaṃrambhabodhākhyāḥ) [tena](tena) [antaḥkaraṇam](antaḥkaraṇa) [tridhā](tridhā)
 
 ## mukta-m0-p04-v78
-[functions](vṛttayaḥ) [different-meanings](bhinnārthatvāt) [different-causes](bhinnakāraṇāḥ) [thus](iti) [meaning](bhāvaḥ)
+[vṛttayaḥ](vṛttayo) [bhinnārthatvāt](bhinnārthatvād) [bhinnakāraṇāḥ](bhinnakāraṇā) [iti](iti) [bhāvaḥ](bhāvaḥ)
 
 ## mukta-m0-p04-v79
-[intellect](buddhiḥ)+[also](ca)+[indeed](api) [unfelt](asaṃvedyā) [blessed](dhanyā) [your-logic](tārkikatā) [yours](tava)
+[buddhiḥ](buddhiś) [ca](ca) [api](api) [hyasaṃvedyā](hyasaṃvedyā) [dhanyā](dhanyā) [tārkikatā](tārkikatā) [tava](tava)
 
 ## mukta-m0-p04-v80
-[object](viṣaya)+[determination](adhyavasāya)+[cause](hetutvāt) [established](siddham) [thus](iti) [said](uktam)
+[viṣaya-adhyavasāya-hetutvāt](viṣayādhyavasāyahetutvāt) [siddham](siddham) [iti](iti) [uktam](uktam)
 
 ## mukta-m0-p04-v81
-[enjoyable](bhogyaṃ) [without](vinā) [no](na) [enjoyment](bhogaḥ) [exists](asti) [therefore](iti) [of-enjoyment](bhogasya) [means](sādhanam)
+[bhogyam](bhogyaṃ) [vinā](vinā) [na](na) [bhogaḥ](bhogo) [asti](asti) [iti](iti) [ataḥ](ataḥ) [bhogasya](bhogasya) [sādhanam](sādhanam)
 
 ## mukta-m0-p04-v82
-[of-pleasure-determination](sukhādyadhyavasāyasya)+[also](api) [means](sādhanam) [is-desired](iṣyate)
+[sukha-ādi-adhyavasāyasya](sukhādyadhyavasāyasyāpi) [api](api) [sādhanam](sādhanam) [iṣyate](iṣyate)
 
 ## mukta-m0-p04-v83
-[employs](prayuṅkte) [mahat-etc](mahadādīni) [for-knowledge-etc](bodhādyartham) [atom](aṇuḥ) [thus](tathā)
+[prayuṅkte](prayuṅkte) [mahad-ādīni](mahadādīni) [bodha-ādi-artham](bodhādyartham) [aṇuḥ](aṇuḥ) [tathā](tathā)
 
 ## mukta-m0-p04-v84
-[in-intellect-etc](buddhyādisaṃsthe) [in-knowledge-etc](bodhādau) [of-purusha](puṃsaḥ) [agency](kartṛtvam) [is-desired](iṣyate)
+[buddhi-ādi-saṃsthe](buddhyādisaṃsthe) [bodha-ādau](bodhādau) [puṃsaḥ](puṃsaḥ) [kartṛtvam](kartṛtvam) [iṣyate](iṣyate)
 
 ## mukta-m0-p04-v85
-[means](sādhanaṃ) [of-victory](vijayasya) [desired](iṣṭāḥ) [thus](tathā)+[indeed](eva) [mahat-etc](mahadādayaḥ)
+[sādhanam](sādhanaṃ) [vijayasya](vijayasya) [iṣṭāḥ](iṣṭāḥ) [tathā](tathā) [eva](eva) [mahad-ādayaḥ](mahadādayaḥ)
 
 ## mukta-m0-p04-v86
-[therefore](tato) [of-knowledge-functions](bodhādivṛttīnāṃ) [means](sādhanaṃ) [mahat-etc](mahadādayaḥ)
+[tataḥ](tato) [bodha-ādi-vṛttīnām](bodhādivṛttīnāṃ) [sādhanam](sādhanam) [mahad-ādayaḥ](mahadādayaḥ)
 
 ## mukta-m0-p04-v87
-[buddhist](bauddhaḥ) [knowledge](bodhaḥ) [supreme](paraṃ) [enjoyable](bhogyaṃ) [maya-etc](māyādi) [and](ca) [for-that](tadarthataḥ)
+[bauddhaḥ](bauddho) [bodhaḥ](bodhaḥ) [param](param) [bhogyam](bhogyaṃ) [māyā-ādi](māyādi) [ca](ca) [tad-arthataḥ](tadarthataḥ)
 
 ## mukta-m0-p04-v88
-[by-that](tvāt) [by-succession](paramparayā) [enjoyable](bhogyam) [thus](iti)
+[tvāt](tvāt) [paramparayā](paramparayā) [bhogyam](bhogyam) [iti](iti)
 
 ## mukta-m0-p04-v89
-[darkness-passion-sattva](tamorajaḥsattvamayaṃ) [form](rūpaṃ) [that](tat)+[karma-born](karmajaṃ) [in-mind](matau)
+[tamo-rajaḥ-sattva-mayam](tamorajaḥsattvamayaṃ) [rūpam](rūpaṃ) [tat-karma-jam](tatkarmajaṃ) [matau](matau)
 
 ## mukta-m0-p04-v90
-[cloth-etc-knowledge](paṭādibodhāvaitatyādātmano) [not](na) [qualities](guṇāḥ) [qualities](guṇāḥ)
+[paṭa-ādi-bodha-avaitatyāt](paṭādibodhāvaitatyāt) [ātmanaḥ](ātmano) [na](na) [guṇāḥ](guṇā) [guṇāḥ](guṇāḥ)
 
 ## mukta-m0-p04-v91
-[prakritic](prākṛto) [body-union](dehasaṃyoge) [manifest](vyaktaḥ) [dream-knowledge-like](svapnādibodhavat) [thus](iti)
+[prākṛtaḥ](prākṛto) [deha-saṃyoge](dehasaṃyoge) [vyaktaḥ](vyaktaḥ) [svapna-ādi-bodhavat](svapnādibodhavat) [vi0-10-26-29](vi0 10|26-29) [iti](iti)
 
 ## mukta-m0-p04-v92
-[heaven](svargaḥ) [liberation](muktiḥ) [prakriti-state](prakṛtibhāvaḥ) [obstruction](vighātaḥ) [and](ca) [fruits](phalāni) [and](ca)
+[svargaḥ](svargo) [muktiḥ](muktiḥ) [prakṛti-bhāvaḥ](prakṛtibhāvo) [vighātaḥ](vighātaś) [ca](ca) [phalāni](phalāni) [ca](ca)
 
 ## mukta-m0-p04-v93
-[control](vaśya)+[upward-stay](ūrdhvasthitiḥ) [true-view-bearing](saddṛṣṭibhṛttvaṃ) [enjoyment-dispassion](bhogāspṛhā) [fruit](phalam)
+[vaśya-ūrdhva-sthitiḥ](vaśyordhvasthitiḥ) [sat-dṛṣṭi-bhṛttvam](saddṛṣṭibhṛttvaṃ) [bhoga-aspṛhā](bhogāspṛhā) [phalam](phalam)
 
 ## mukta-m0-p04-v94
-[in-vinaya-prakritic](vinayaprākṛte) [form](rūpe) [aforementioned-fruit-collection](pūrvoktaphalasaṃgrahaḥ)
+[vinaya-prākṛte](vinayaprākṛte) [rūpe](rūpe) [pūrva-ukta-phala-saṃgrahaḥ](pūrvoktaphalasaṃgrahaḥ)
 
 ## mukta-m0-p04-v95
-[attachment-only](rāgamātrānuliptāṅgād) [dharma-etc-collection](dharmādisamudāyataḥ)
+[rāga-mātra-anulipta-aṅgāt](rāgamātrānuliptāṅgād) [dharma-ādi-samudāyataḥ](dharmādisamudāyataḥ)
 
 ## mukta-m0-p04-v96
-[satisfaction](tuṣṭiḥ) [accomplished-knowledge](kṛtārthavijñānam) [by-this](anayā)+[self-grasp](ātmagrahe) [when](sati)
+[tuṣṭiḥ](tuṣṭiḥ) [kṛtārtha-vijñānam](kṛtārthavijñānam) [anayā](anayā) [ātma-grahe](ātmagrahe) [sati](sati)
 
 ## mukta-m0-p04-v97
-[accomplished](kṛtārthaḥ) [I-am](asmīti) [which](yā) [thought](matiḥ) [thus](iti)
+[kṛtārthaḥ](kṛtārtho) [asmi](asmi) [iti](iti) [yā](yā) [matiḥ](matiḥ) [mṛ0-vi0-11-2](mṛ0 vi0 11|2) [iti](iti)
 
 ## mukta-m0-p04-v98
-[inability](aśaktiḥ) [divine-deficiency](devavaikalyāt) [incapacity](asāmarthyaṃ) [in-auspicious-etc](śubhādiṣu)
+[aśaktiḥ](aśaktir) [deva-vaikalyāt](devavaikalyād) [asāmarthyam](asāmarthyaṃ) [śubha-ādiṣu](śubhādiṣu)
 
 ## mukta-m0-p04-v99
-[rajas-quality](rājasyapi) [quality](guṇo) [seen](dṛṣṭaḥ) [in-effect](kārye) [cause-dependence](kāraṇasaṃśrayaḥ) [thus](iti)
+[rājasya](rājasya) [api](api) [guṇaḥ](guṇo) [dṛṣṭaḥ](dṛṣṭaḥ) [kārye](kārye) [kāraṇa-saṃśrayaḥ](kāraṇasaṃśrayaḥ) [mṛ0-vi0-11-6](mṛ0 vi0 11|6) [iti](iti)
 
 ## mukta-m0-p04-v100
-[slightly](īṣad) [dharma-etc-mixed](dharmādisaṃpṛktād) [manifested](abhivyakto) [inversion](viparyayaḥ)
+[īṣat](īṣad) [dharma-ādi-saṃpṛktāt](dharmādisaṃpṛktād) [abhivyaktaḥ](abhivyakto) [viparyayaḥ](viparyayaḥ)
