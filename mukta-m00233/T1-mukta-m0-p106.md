@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p106-v2626
-[pale+back+and](pāṇḍupṛṣṭhaśca) [bad+day](durdinaḥ) [good+day+so](sudinastathā)
+[pāṇḍu-pṛṣṭha](pāṇḍupṛṣṭhaśca) [durdina](durdinaḥ) [sudina](sudinastathā)
 
 ## mukta-m0-p106-v2627
-[becoming](bhāvano) [lord](bhagavān) [becoming](bhavaḥ)
+[bhāvana](bhāvano) [bhagavān](bhagavān) [bhava](bhavaḥ)
 
 ## mukta-m0-p106-v2628
-[all-army](viśvasenaśca) [all-directing](viṣvakseno) [dispersing](visāraṇaḥ)
+[viśvasena](viśvasenaśca) [viṣvaksena](viṣvakseno) [visāraṇa](visāraṇaḥ)
 
 ## mukta-m0-p106-v2629
-[desirous+and](kāmuko'kāmukaścaiva) [desire-removing](kāmahṛt) [desire-destroying](kāmanāśanaḥ)
+[kāmuka](kāmuko'kāmukaścaiva) [kāma-hṛt](kāmahṛt) [kāma-nāśana](kāmanāśanaḥ)
 
 ## mukta-m0-p106-v2630
-[fire](agniragnisamānaśca) [fire-like](agnisamānaśca) [flame-garlanded](jvālāmālī) [all-devouring](viśvabhuk)
+[agni](agniragnisamānaśca) [agni-samāna](agnisamānaśca) [jvālā-mālin](jvālāmālī) [viśva-bhuj](viśvabhuk)
 
 ## mukta-m0-p106-v2631
-[red-bodied](raktavapūrdhūmraḥ) [smoky](dhūmraḥ) [seven-flamed](saptārcirviśvabheṣajaḥ) [all-medicine](viśvabheṣajaḥ)
+[rakta-vapus](raktavapūrdhūmraḥ) [dhūmra](dhūmraḥ) [sapta-arcis](saptārcirviśvabheṣajaḥ) [viśva-bheṣaja](viśvabheṣajaḥ)
 
 ## mukta-m0-p106-v2632
-[yoga-loving](yogapriyo) [wood-born](dārujaścāpyāgneyo) [fiery](āgneyo) [destruction](nidhanastathā)
+[yoga-priya](yogapriyo) [dāru-ja](dārujaścāpyāgneyo) [āgneya](āgneyo) [nidhana](nidhanastathā)
 
 ## mukta-m0-p106-v2633
-[frog+frog+face](maṇḍūrmaṇḍūkakākāsyau) [god](devo) [temple-priest](devalakastathā)
+[maṇḍūr](maṇḍūrmaṇḍūkakākāsyau) [maṇḍūka](maṇḍūka) [kāka-āsya](kākāsya) [deva](devo) [devalaka](devalakastathā)
 
 ## mukta-m0-p106-v2634
-[pot-born](droṇamārīco) [buffalo](mahiṣo) [terrifying](bhīṣaṇastathā)
+[droṇa-mārīca](droṇamārīco) [mahiṣa](mahiṣo) [bhīṣaṇa](bhīṣaṇastathā)
 
 ## mukta-m0-p106-v2635
-[and](caiva) [envious](matsarī) [bamboo](maskarastathā)
+[matsarin](matsarī) [maskara](maskarastathā)
 
 ## mukta-m0-p106-v2636
-[lion-faced](siṃhamukhaścaiva) [man-lion](nārasiṃho) [man](narastathā)
+[siṃha-mukha](siṃhamukhaścaiva) [nāra-siṃha](nārasiṃho) [nara](narastathā)
 
 ## mukta-m0-p106-v2637
-[reed-eared](nālakarṇaścetyāgneyyāṃ) [in-southeast](diśi) [seventy](saptatiḥ)
+[nāla-karṇa](nālakarṇaścetyāgneyyāṃ) [diś](diśi) [saptati](saptatiḥ)
 
 ## mukta-m0-p106-v2638
-[ghost-lord](pretādhipo) [dharma](dharmaḥ) [black](kṛṣṇaḥ) [black-eyed](kṛṣṇākṣa) [indeed](eva) [and](ca)
+[preta-adhipa](pretādhipo) [dharma](dharmaḥ) [kṛṣṇa](kṛṣṇaḥ) [kṛṣṇa-akṣa](kṛṣṇākṣa)
 
 ## mukta-m0-p106-v2639
-[death-end](kṛtāntaśca) [truth](satyaḥ) [truth-loving](satyapriyaḥ) [friend](suhṛt)
+[kṛtānta](kṛtāntaśca) [satya](satyaḥ) [satya-priya](satyapriyaḥ) [suhṛt](suhṛt)
 
 ## mukta-m0-p106-v2640
-[dharma-born](dharmajaścāpi) [bowman](dhanvī) [courtesy](praśrayo) [policy](nayaḥ)
+[dharma-ja](dharmajaścāpi) [dhanvin](dhanvī) [praśraya](praśrayo) [naya](nayaḥ)
 
 ## mukta-m0-p106-v2641
-[merciless](niranukrośaḥ) [hunchback](kubjaḥ) [dust-crushing](pāṃsuvimardanaḥ)
+[niranukrośa](niranukrośaḥ) [kubja](kubjaḥ) [pāṃsu-vimardana](pāṃsuvimardanaḥ)
 
 ## mukta-m0-p106-v2642
-[protecting](saṃrakṣaṇastathā)
+[saṃrakṣaṇa](saṃrakṣaṇastathā)
 
 ## mukta-m0-p106-v2643
-[auspicious](subhadraśca) [bowman](śārṅgī) [bow-bearer](śārṅgadharastathā)
+[subhadra](subhadraśca) [śārṅgin](śārṅgī) [śārṅga-dhara](śārṅgadharastathā)
 
 ## mukta-m0-p106-v2644
-[lute-handed](vallakīhasto) [elephant](dvirado) [form](vigraho'mbaraḥ) [sky](ambaraḥ)
+[vallakī-hasta](vallakīhasto) [dvirada](dvirado) [vigraha](vigraho'mbaraḥ) [ambara](ambaraḥ)
 
 ## mukta-m0-p106-v2645
-[demon](rākṣasaścāsuraḥ) [flesh-eater](kravyād) [hero-slayer](vīrahā) [nirrti](nir-ṛtistathā)
+[rākṣasa](rākṣasaścāsuraḥ) [asura](asuraḥ) [kravyād](kravyād) [vīra-hā](vīrahā) [nir-ṛti](nir-ṛtistathā)
 
 ## mukta-m0-p106-v2646
-[kaikaseya](kaikaseyaḥ) [cruel](krūraḥ) [cruel-bodied](krūravapustathā)
+[kaikaseya](kaikaseyaḥ) [krūra](krūraḥ) [krūra-vapus](krūravapustathā)
 
 ## mukta-m0-p106-v2647
-[odd-eyed](vīrūpākṣo'tha) [ash-limbed](bhasmāṅgaḥ) [well-done](sukṛtirvikṛtistathā) [deformed](vikṛtistathā)
+[vīrūpākṣa](vīrūpākṣo'tha) [bhasmāṅga](bhasmāṅgaḥ) [sukṛti](sukṛtirvikṛtistathā) [vikṛti](vikṛtistathā)
 
 ## mukta-m0-p106-v2648
-[fleshly](māṃsakaściva) [demon](rākṣaso) [protector](rakṣakastathā)
+[māṃsaka](māṃsakaściva) [rākṣasa](rākṣaso) [rakṣaka](rakṣakastathā)
 
 ## mukta-m0-p106-v2649
-[hero-army](vīraseno'kṣarāśaśca) [life-giver](prāṇadaḥ) [om](praṇavastathā)
+[vīrasena](vīraseno'kṣarāśaśca) [akṣara-āśa](akṣarāśaśca) [prāṇa-da](prāṇadaḥ) [praṇava](praṇavastathā)
 
 ## mukta-m0-p106-v2650
-[wide-eyed](viśālākṣo) [red-tongued](raktajihvo) [crooked](vijihmakaḥ)
+[viśāla-akṣa](viśālākṣo) [rakta-jihva](raktajihvo) [vijihmaka](vijihmakaḥ)

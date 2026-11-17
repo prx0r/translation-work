@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p32-v776
-[puraścaraṇam](puraścaraṇam) [evaṃ](evaṃ) [hi](hi) [kariṣye](kariṣye) [prāk+udaṅ+mukhaḥ](prāgudaṅmukhaḥ)
+[puraścaraṇa+evaṃ](puraścaraṇamevaṃ) [indeed](hi) [I-will-do](kariṣye) [facing-east-north](prāgudaṅmukhaḥ)
 
 ## mukta-m0-p32-v777
-[kuśa+akṣata+jalaiḥ](kuśākṣatajalairevaṃ) [evaṃ](evaṃ) [saṃkalpaḥ](saṃkalpaḥ) [śāstra+darśitaḥ](śāstradarśitaḥ)
+[kuśa+akṣata+jalaiḥ+evaṃ](kuśākṣatajalairevaṃ) [resolve](saṃkalpaḥ) [shown-by-scripture](śāstradarśitaḥ)
 
 ## mukta-m0-p32-v778
-[itaḥ+anyathā](ito'nyathā) [vadanti](vadantyeke) [eke](eke) [sampradāya+anusāriṇaḥ](sampradāyānusāriṇaḥ)
+[from-this+otherwise](ito'nyathā) [they-say](vadantyeke) [following-tradition](sampradāyānusāriṇaḥ)
 
 ## mukta-m0-p32-v779
-[bhāvena+api+uttarottara+śaṃsitā](bhāvenāpyuttarottaraśaṃsitā)
+[by-feeling+also+successively+praised](bhāvenāpyuttarottaraśaṃsitā)
 
 ## mukta-m0-p32-v780
-[tri+bhāga+hīnam](tribhāgahīnaṃ) [pakṣam](pakṣaṃ) [vā](vā) [tri+bhāgam](tribhāgaṃ) [tu](tu) [ardham](ardhameva) [eva](eva) [vā](vā)
+[three-part+lacking](tribhāgahīnaṃ) [fortnight+or](pakṣaṃ vā) [three-part+indeed+half+or](tribhāgaṃ tvardhameva vā)
 
 ## mukta-m0-p32-v781
-[brāhmaṇānām](brāhmaṇānāṃ) [tu](tu) [na](na) [karma+viniveśitam](karmaviniveśitam)
+[of-brāhmaṇas+but](brāhmaṇānāṃ tu) [not+ritual+established](na karmaviniveśitam)
 
 ## mukta-m0-p32-v782
-[japasya](japasyaiva) [eva](eva) [daśa+aṃśataḥ](daśāṃśataḥ)
+[of-japa+indeed+one-tenth](japasyaiva daśāṃśataḥ)
 
 ## mukta-m0-p32-v783
-[daśa+aṃśena](daśāṃśenāpi) [api](api) [vidyāyāḥ](vidyāyā) [devatām](devatāṃ) [cintayet](cintayedapi) [api](api)
+[by-one-tenth+also](daśāṃśenāpi) [of-vidyā](vidyāyā) [deity+contemplate+also](devatāṃ cintayedapi)
 
 ## mukta-m0-p32-v784
-[prakṣālayet](prakṣālayedgatvā) [gatvā](gatvā) [tataḥ](tato) [maṇḍapa+saṃnidhim](maṇḍapasaṃnidhim)
+[wash+going+then](prakṣālayedgatvā tato) [pavilion+nearness](maṇḍapasaṃnidhim)
 
 ## mukta-m0-p32-v785
-[saṃśodhya](saṃśodhya) [hṛt+mantreṇa](hṛnmantreṇa) [prapūrya](prapūrya) [ca](ca)
+[purifying+heart-mantra](saṃśodhya hṛnmantreṇa) [filling+and](prapūrya ca)
 
 ## mukta-m0-p32-v786
-[gandha+puṣpāṇi](gandhapuṣpāṇi) [niḥkṣipet](niḥkṣipettāramuccaran) [tāram](tāram) [uccaran](uccaran)
+[sandal+flowers](gandhapuṣpāṇi) [cast+tar+reciting](niḥkṣipettāramuccaran)
 
 ## mukta-m0-p32-v787
-[darśayet](darśayettatvamudrāṃ) [tatva+mudrām](tatvamudrāṃ) [ca](ca) [sāmānya+argham](sāmānyārghamidaṃ) [idam](idam) [bhavet](bhavet)
+[show+tattva-mudrā+and](darśayettatvamudrāṃ ca) [common+arghya+this+becomes](sāmānyārghamidaṃ bhavet)
 
 ## mukta-m0-p32-v788
-[vāme](vāme) [gaṇeśam](gaṇeśaṃ) [ca](ca) [sarasvatīm](sarasvatīm)
+[left+group](vāme gaṇeśaṃ) [and+sarasvatī](ca sarasvatīm)
 
 ## mukta-m0-p32-v789
-[dakṣiṇa+śākhāyām](dakṣiṇaśākhāyāṃ) [vighnam](vighnaṃ) [kṣetra+īśam](kṣetreśamanyataḥ) [anyataḥ](anyataḥ)
+[right-branch+obstacle](dakṣiṇaśākhāyāṃ vighnaṃ) [field-lord+elsewhere](kṣetreśamanyataḥ)
 
 ## mukta-m0-p32-v790
-[vidhātāram](vidhātāraṃ) [śaṃkha+padma+nidhī](śaṃkhapadmanidhī) [tathā](tathā)
+[creator+conch+lotus+treasures+and](vidhātāraṃ śaṃkhapadmanidhī tathā)
 
 ## mukta-m0-p32-v791
-[tat+tat](tattadvārādhipān) [dvāra+adhipān](dvārādhipān) [yajet](yajet)
+[those+door-guardians+worship](tattadvārādhipān yajet)
 
 ## mukta-m0-p32-v792
-[pracaṇḍaḥ](pracaṇḍo'thabalaścaiva) [atha](atha) [balaḥ](balaścaiva) [ca](ca) [eva](eva) [prabalaḥ](prabalo) [bhadraḥ](bhadra) [iti](ityapi) [api](api)
+[fierce+then+strong+indeed](pracaṇḍo'thabalaścaiva) [powerful+bhadra+thus+also](prabalo bhadra ityapi)
 
 ## mukta-m0-p32-v793
-[nandi+saṃjñaḥ](nandisaṃjño) [mahākālaḥ](mahākālo) [gaṇeśaḥ](gaṇeśo) [vṛṣabhaḥ](vṛṣabhastathā) [tathā](tathā)
+[nandi-named+mahākāla](nandisaṃjño mahākālo) [gaṇeśa+bull+and](gaṇeśo vṛṣabhastathā)
 
 ## mukta-m0-p32-v794
-[vakratuṇḍaḥ](vakratuṇḍaścaikadaṃṣṭro) [ca](ca) [eka+daṃṣṭraḥ](ekadaṃṣṭro) [mahodara](mahodaragajānanau) [gajānana](gajānanau)
+[curved-tusk+one-tusk](vakratuṇḍaścaikadaṃṣṭro) [big-belly+elephant-faced](mahodaragajānanau)
 
 ## mukta-m0-p32-v795
-[vighnāḥ](vighnāḥ) [śākteyāḥ](śākteyāḥ) [mātaraḥ](mātaraḥ) [smṛtāḥ](smṛtāḥ)
+[obstacles+śākta](vighnāḥ śākteyāḥ) [mothers+remembered](mātaraḥ smṛtāḥ)
 
 ## mukta-m0-p32-v796
-[vārāhī](vārāhyanantarendrāṇī) [ananta](anantarendrāṇī) [indrāṇī](indrāṇī) [ca](cāmuṇḍā) [aṃuṇḍā](aṃuṇḍā) [saptamī](saptamī) [tathā](tathā)
+[vārāhī+ananta+indrāṇī](vārāhyanantarendrāṇī) [cāmuṇḍā+seventh+and](cāmuṇḍā saptamī tathā)
 
 ## mukta-m0-p32-v797
-[yamaḥ](yamo'tha) [atha](atha) [varuṇaḥ](varuṇaḥ) [kuberaḥ](kuberastraipurā) [tripurāḥ](tripurā) [matāḥ](matāḥ)
+[yama+then+varuṇa](yamo'tha varuṇaḥ) [kubera+tripura+considered](kuberstraipurā matāḥ)
 
 ## mukta-m0-p32-v798
-[sakṛt](sakṛtsyāddvārapālāṃśca) [syāt](syāt) [dvāra+pālān](dvārapālāṃśca) [ca](ca) [sarvān](sarvāṃstatraiva) [tatra](tatra) [eva](eva) [pūjayet](pūjayet)
+[once+door-guardians+and](sakṛtsyāddvārapālāṃśca) [all+there+indeed+worship](sarvāṃstatraiva pūjayet)
 
 ## mukta-m0-p32-v799
-[divya+antarikṣa+bhaumān](divyāntarikṣabhaumāṃstu) [tu](tu) [sarva+vighnān](sarvavighnānnivārayet) [nivārayet](nivārayet)
+[divine+atmospheric+earthly+and](divyāntarikṣabhaumāṃstu) [all+obstacles+ward-off](sarvavighnānnivārayet)
 
 ## mukta-m0-p32-v800
-[kṛtvā](kṛtvā) [sva+aṅgam](svāṅgaṃ) [saṃkocayan](saṃkocayan) [sudhīḥ](sudhīḥ)
+[doing+own-limb+contracting](kṛtvā svāṅgaṃ saṃkocayan) [wise](sudhīḥ)

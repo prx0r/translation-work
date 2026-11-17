@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p02-v26
-[that](sa) [to-be-known](vijñeyo) [liberated-pillar](muktāstambhaḥ) [pearl-like](samauktikaḥ)
+sa(that) vijñeyaḥ(to-be-known) muktā-stambhaḥ(pearl-pillar) samauktikaḥ(pearl-ornamented)
 
 ## mukta-m0-p02-v27
-[in-middle](madhye) [sixteen-cornered](ṣoḍaśāśrair) [adorned](alaṅkṛtaḥ)
+madhye(in-middle) ṣoḍaśa-aśraiḥ(sixteen-angles) alaṅkṛtaḥ(ornamented)
 
 ## mukta-m0-p02-v28
-[thus-eight-cornered](evāṣṭāśrako) [in-middle](madhye) [auspicious-section](śrīkhaṇḍaḥ) [band-bound](paṭṭabandhavān)
+eva(thus) aṣṭāśrakaḥ(eight-angled) madhye(in-middle) śrī-khaṇḍaḥ(auspicious-panel) paṭṭa-bandhavān(band-bound)
 
 ## mukta-m0-p02-v29
-[band-casting-named](paṭṭakṣepaṇasaṃjñaḥ) [would-be](syāt) [square](caturaśraḥ) [three-band-bearing](tripaṭṭadhṛk)
+paṭṭa-kṣepaṇa-saṃjñaḥ(panel-throwing-named) syāt(may-be) caturaśraḥ(four-cornered) tri-paṭṭa-dhṛk(three-panel-bearing)
 
 ## mukta-m0-p02-v30
-[staff-foot-named](daṇḍapādākhyo) [diamond-foot](vajrapādaḥ) [art-cornered](kalāśrakaḥ)
+daṇḍa-pāda-ākhyaḥ(staff-foot-named) vajra-pādaḥ(diamond-foot) kalā-āśrakaḥ(art-angled)
 
 ## mukta-m0-p02-v31
-[three-part](tribhāgaṃ) [and](ca) [wall-pillar-emergence](bhittistambhavinirgamaḥ)
+tri-bhāgam(three-part) ca(and) bhitti-stambha-vinirgamaḥ(wall-pillar-emergence)
 
 ## mukta-m0-p02-v32
-[root-base-pillar-expansion](mūlabhūstambhavistāro) [indeed](hi) [twenty-eight-angled](hyaṣṭāviṃśatikāṅgulaḥ)
+mūla-bhū-stambha-vistāraḥ(root-ground-pillar-expansion) hi(indeed) aṣṭāviṃśatika-aṅgulaḥ(twenty-eight-finger)
 
 ## mukta-m0-p02-v33
-[from-attained-support-height](āttādhiṣṭhānatuṅgāt) [tu](tu) [pillar-height](stambhotsedho) [twofold](dvidhā) [opined](mataḥ)
+ātta-adhiṣṭhāna-tuṅgāt(from-taken-base-height) tu(but) stambha-utsedhaḥ(pillar-elevation) dvidhā(twofold) mataḥ(opined)
 
 ## mukta-m0-p02-v34
-[of-root-and-tip](mūlāgrayoḥ) [diameter-height](vyāsatuṅgatā) [pillar-wall](stambhakuḍyayoḥ)
+mūla-agra-yoḥ(root-tip-of) vyāsa-tuṅgatā(diameter-height) stambha-kuḍyayoḥ(pillar-wall-of)
 
 ## mukta-m0-p02-v35
-[to-be-done](kartavyā) [to-be-placed](sthāpyāḥ) [all](sarve) [thus-on-stones](tathāśmasu)
+kartavyā(to-be-done) sthāpyāḥ(to-be-placed) sarve(all) tathā-śmasu(thus-stones) [g: pāḥ] [kh: tma]
 
 ## mukta-m0-p02-v36
-[from-foot-high-portion](pādoccanandabhāgād) [or](vā) [from-own-part](vasvaṃśād) [altar-height](vedikocchrayaḥ)
+pāda-uccana-nda-bhāgāt(foot-height-portion-from) vā(or) vasva-aṃśāt(own-part-from) vedikā-ucchrayaḥ(railing-height)
 
 ## mukta-m0-p02-v37
-[pictured-section](citrakhaṇḍā) [mossy](śaivalā) [pictured-mossy](citraśaivalā)
+citra-khaṇḍā(pictured-panel) śaivalā(mossy) citra-śaivalā(pictured-mossy)
 
 ## mukta-m0-p02-v38
-[altar](vediḥ) [flower-section-thus](puṣpakhaṇḍeti) [is-said](kathyate)
+vediḥ(altar) puṣpa-khaṇḍa-iti(flower-panel-thus) kathyate(is-called)
 
 ## mukta-m0-p02-v39
-[pictured-section-is-called](citrakhaṇḍābhidhīyate)
+citra-khaṇḍa-abhidhīyate(pictured-panel-is-named)
 
 ## mukta-m0-p02-v40
-[up-down-lotus-leaf-rich](ūrdhvādhaḥpadmapatrāḍhyā) [at-foot](pāde) [between-feet-also](pādāntare'pi) [and](ca)
+ūrdhva-adhaḥ-padma-patra-āḍhyā(upper-lower-lotus-leaf-rich) pāde(foot) pāda-antare-api(and-between-feet) ca(and)
 
 ## mukta-m0-p02-v41
-[that-same-lower-upper-lotus-pair](saivādharordhvāmbujayor) [cane-pair-charming](vetrayugmamanoramā)
+sā-eva-adhara-ūrdhva-ambuja-yoḥ(that-very-lower-upper-lotus-of) vetra-yugma-manoramā(cane-pair-charming)
 
 ## mukta-m0-p02-v42
-[altar](vedikāṃ) [not-indeed-cut](naivacchindyād) [elsewhere](anyatra) [from-gateway](toraṇāt)
+[rtha] vedikāṃ(railing) na-eva-cchindyāt(not-indeed-cut) anyatra(except) toraṇāt(gateway)
 
 ## mukta-m0-p02-v43
-[flower-section](puṣpakhaṇḍā) [pictured-section](citrakhaṇḍā) [of-men](nṛṇāṃ) [two](dve) [altars](vedike) [remembered](smṛte)
+puṣpa-khaṇḍā(flower-panel) citra-khaṇḍā(pictured-panel) nṛṇāṃ(of-men) dve(two) vedike(railings) smṛte(remembered)
 
 ## mukta-m0-p02-v44
-[in-third-part](tribhāge) [would-be](syād) [altar-corner-part](vedāśroṃ'śaḥ) [from-root](mūlataḥ)
+tri-bhāge(three-part) syāt(may-be) vedāśro-aṃśaḥ(railing-angle-part) tu(but) mūlataḥ(from-root)
 
 ## mukta-m0-p02-v45
-[tip-part-also](agrabhāgo'pi) [altar-corner](vedāśro) [would-be](bhavet) [in-some-pillars](stambheṣu) [in-some](keṣucit)
+agra-bhāgaḥ-api(tip-part-also) vedāśraḥ(railing-angle) bhavet(may-be) stambheṣu(on-pillars) keṣucit(some)
 
 ## mukta-m0-p02-v46
-[last-part](antyoṃ'śaḥ) [seventh-part-less](saptamāṃśono) [from-root-expansion](mūlavistārito) [would-be](bhavet)
+antya-aṃśaḥ(last-part) saptama-aṃśa-ūnaḥ(seventh-part-less) mūla-vistāritaḥ(root-expanded) bhavet(may-be)
 
 ## mukta-m0-p02-v47
-[half-added](sādhyardhāḥ) [foot-less](pādahīnā) [or](vā) [double](dviguṇā) [or](vā) [would-be-indeed](bhavanti) [hi](hi)
+sādhi-ardhāḥ(with-half) pāda-hīnāḥ(foot-less) vā(or) dvi-guṇāḥ(twofold) vā(or) bhavanti(happen) hi(indeed)
 
 ## mukta-m0-p02-v48
-[pots-fourfold](kumbhāścaturdhā) [would-be](syuḥ) [of-round-ones](vṛttānāṃ) [auspicious-maker](śrīkaro) [would-be](bhavet)
+kumbhāḥ(pots) caturdhā(fourfold) syuḥ(may-be) vṛttānāṃ(round-of) [g: vā] śrī-karaḥ(auspicious-maker) bhavet(may-be)
 
 ## mukta-m0-p02-v49
-[of-pillars](stambhānāṃ) [of-square-ones](caturaśrāṇāṃ) [favorable-faced](saumukhyaḥ) [pot](kumbha) [is-desired](iṣyate)
+stambhānāṃ(pillars) caturaśrāṇāṃ(four-cornered-of) saumukhyaḥ(favorable) kumbhaḥ(pot) iṣyate(is-desired)
 
 ## mukta-m0-p02-v50
-[in-pot-part](kumbhabhāge) [in-ninth-part](navāṃśe) [tu](tu) [by-one-bearing](dhṛgekena) [is-prescribed](vidhīyate)
+kumbha-bhāge(pot-part) nava-aṃśe(nine-part) tu(but) dhṛgekena(?) vidhīyate(is-prescribed)
