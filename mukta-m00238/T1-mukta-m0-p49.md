@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p49-v1201
-bright-faced gentle boon-giving shakti-handed
+[bright-faced](prasannavadanāḥ) [gentle](saumyā) [boon-giving](varadāḥ) [spear-handed](śaktipāṇayaḥ)
 
 ## mukta-m0-p49-v1202
-lotus-seat-dwelling two-armed to-be-made eight always
+[lotus-seated](padmāsanasthā) [two-armed](dvibhujāḥ) [to-be-made](kartavyā) [eight](avasavaḥ) [always](sadā)
 
 ## mukta-m0-p49-v1203
-from-all-around moving very-swift-garuda-seated
+[all-around-moving](āsamaṃtātsaṃcariṣṇuḥ) [very-swift-garuḍa-seated](sutīvragaruḍasthitaḥ)
 
 ## mukta-m0-p49-v1204
-smoke-colored
+[smoke-colored](dhūmravarṇaḥ)
 
 ## mukta-m0-p49-v1205
-sky-middle-gone wind vivaha prosperity-arm to-me
+[sky-centered-wind](nabhomadhyagatovāyuḥ) [vivaha](vivahaḥ) [prosperity-giving](bhūtidostume)
 
 ## mukta-m0-p49-v1206
-red-colored
+[red-colored](raktavarṇaḥ)
 
 ## mukta-m0-p49-v1207
-world shaking always udvaha served by-me
+[earth](jagatīṃ) [shaking-always](kṣobhayannityam) [udvaha](udvahaḥ) [served-by-me](sevyate mayā)
 
 ## mukta-m0-p49-v1208
-yellow-colored
+[yellow-colored](pītavarṇaḥ)
 
 ## mukta-m0-p49-v1209
-cold-water-drop-carrying samvaha pleasure-arm to-me
+[cold-water-drop-flowing](śītāṃbukaṇasaṃvāhaḥ) [saṃvaha](saṃvahaḥ) [pleasant-giving](sukhadostume)
 
 ## mukta-m0-p49-v1210
-dark-colored
+[dark-colored](śyāmavarṇaḥ)
 
 ## mukta-m0-p49-v1211
-multitude wind-best head bow-I I
+[nivaha](nivahaṃ) [best-wind](pavanaśreṣṭhaṃ) [with-head](śirasā) [i-bow](praṇamāmyaham)
 
 ## mukta-m0-p49-v1212
-white-colored
+[white-colored](śvetavarṇaḥ)
 
 ## mukta-m0-p49-v1213
-winds pravaha always resort nuvaha-named
+[of-winds](marutāṃ) [pravaha](pravahaṃ) [always](nityam) [resort-named-uvaha](āśrayenuvahābhidham)
 
 ## mukta-m0-p49-v1214
-black-colored
+[black-colored](asitavarṇaḥ)
 
 ## mukta-m0-p49-v1215
-served by-creature-multitudes wind-vyavaha-named
+[to-be-served](sevyatāṃ) [by-beings](prāṇinivahaiḥ) [wind-called-vyavaha](marudvyavahasaṃjñakaḥ)
 
 ## mukta-m0-p49-v1216
-reddish-colored
+[ruddy-colored](aruṇavarṇaḥ)
 
 ## mukta-m0-p49-v1217
-nivaha nuvaha and vyavaha thus names
+[nivaha](nivahaḥ) [uvaha](uvahaḥ) [and](ca) [eva](eva) [vyavaha](vyavahaḥ) [and](ca) [thus](iti) [by-names](nāmabhiḥ)
 
 ## mukta-m0-p49-v1218
-color this winds said seven in-order
+[color-this](varṇoyaṃ) [of-winds](marutām) [spoken](uktassaptānāmānu) [in-order](pūrvyaśaḥ)
 
 ## mukta-m0-p49-v1219
-prāṇaḥ (1) | apānaḥ (2) | vyānaḥ (3) | udānaḥ (4) | samānaḥ (5) | nāgaḥ (6) | kṛkaraḥ (7) | kūrmaḥ (8) | devadattaḥ (9) | dhanaṃjayaḥ (10) | pravahaḥ (11) | vivahaḥ (12) | śaṃbhuḥ (13) | saṃvahaḥ (14) | parivahaḥ (15) | udvahaḥ (16) | āvahaḥ (17) | śaṃkuḥ (18) | kālaḥ (19) | prāvahaḥ (20) | śāsaḥ (21) | anilaḥ (22) | analaḥ (23) | pratibhaḥ (24) | kumudaḥ (25) | kāṃtaḥ (26) | śibiḥ (27) | śvetaḥ (28) | raktaḥ (29) | kṛṣṇaḥ (30) | jitaḥ (31) | ajitaḥ (32) | jaṃjhādyotaḥ (33) | kratuḥ (34) | siddhaḥ (35) | piṃgaḥ (36) | śuciḥ (37) | saumyaḥ (38) | kāmyaḥ (39) | mārutaḥ (40) | hanuḥ (41) | kaṃpanaḥ (42) | maṃḍūkaḥ (43) | bhīmaḥ (44) | kapiḥ (45) | saṃvartakaḥ (46) | jaḍaḥ (47) | atijaḍaḥ (48) | saṃtataḥ (49)
+[prāṇa](prāṇaḥ) [apāna](apānaḥ) [vyāna](vyānaḥ) [udāna](udānaḥ) [samāna](samānaḥ) [nāga](nāgaḥ) [kṛkara](kṛkaraḥ) [kūrma](kūrmaḥ) [devadatta](devadattaḥ) [dhanaṃjaya](dhanaṃjayaḥ) [pravaha](pravahaḥ) [vivaha](vivahaḥ) [śaṃbhu](śaṃbhuḥ) [saṃvaha](saṃvahaḥ) [parivaha](parivahaḥ) [udvaha](udvahaḥ) [āvaha](āvahaḥ) [śaṃku](śaṃkuḥ) [kāla](kālaḥ) [prāvaha](prāvahaḥ) [śāsa](śāsaḥ) [anila](anilaḥ) [anala](analaḥ) [pratibha](pratibhaḥ) [kumuda](kumudaḥ) [kāṃta](kāṃtaḥ) [śibi](śibiḥ) [śveta](śvetaḥ) [rakta](raktaḥ) [kṛṣṇa](kṛṣṇaḥ) [jita](jitaḥ) [ajita](ajitaḥ) [jaṃjhādyota](jaṃjhādyotaḥ) [kratu](kratuḥ) [siddha](siddhaḥ) [piṃga](piṃgaḥ) [śuci](śuciḥ) [saumya](saumyaḥ) [kāmya](kāmyaḥ) [māruta](mārutaḥ) [hanu](hanuḥ) [kaṃpana](kaṃpanaḥ) [maṃḍūka](maṃḍūkaḥ) [bhīma](bhīmaḥ) [kapi](kapiḥ) [saṃvartaka](saṃvartakaḥ) [jaḍa](jaḍaḥ) [atijaḍa](atijaḍaḥ) [saṃtata](saṃtataḥ)
 
 ## mukta-m0-p49-v1220
-crown-necklace-armlet bracelet-etc adorned
+[crown](kirīṭa) [necklace](hāra) [armlet](keyūra) [bracelet-etc](kaṭakādi) [adorned](vibhūṣitāḥ)
 
 ## mukta-m0-p49-v1221
-these color-forms chief winds as
+[of-these](eteṣāṃ) [color-form](varṇarūrūpāṇi) [chief](mukhyānāṃ) [of-winds](marutāṃ) [as](yathā)
 
 ## mukta-m0-p49-v1222
-to-be-made left-hand bow-holding white
+[to-be-made](kartavyā) [left-hand](vāmapāṇau) [tu](tu) [bow-holding](śarāsanadharāḥ) [white](sitāḥ)
 
 ## mukta-m0-p49-v1223
-pururava ardava and thus vishvedevas ten remembered
+[purūravā](purūravā) [ārdrava](ārdravau) [and](ceti) [viśvedevā](viśvedevā) [ten-remembered](daśasmṛtāḥ)
 
 ## mukta-m0-p49-v1224
-white-colored
+[white-colored](śvetavarṇāḥ)
 
 ## mukta-m0-p49-v1225
-right rosary left vessel and many-jewel-bearing
+[dakṣa](dakṣa) [akṣa-mālā](akṣamālikāṃ) [left](vāme) [vessel](pātraṃ) [ca](ca) [many-jewel-bearing](bahuratnabhṛt)

@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p02-v26
-that to-be-known pearl-pillar with-pearls
+[that](sa) [to-be-known](vijñeyo) [liberated-pillar](muktāstambhaḥ) [pearl-like](samauktikaḥ)
 
 ## mukta-m0-p02-v27
-in-middle with-sixteen-angles adorned
+[in-middle](madhye) [sixteen-cornered](ṣoḍaśāśrair) [adorned](alaṅkṛtaḥ)
 
 ## mukta-m0-p02-v28
-thus-eight-angled in-middle śrī-section with-band
+[thus-eight-cornered](evāṣṭāśrako) [in-middle](madhye) [auspicious-section](śrīkhaṇḍaḥ) [band-bound](paṭṭabandhavān)
 
 ## mukta-m0-p02-v29
-named-paṭṭa-throw may-be square three-band-bearing
+[band-casting-named](paṭṭakṣepaṇasaṃjñaḥ) [would-be](syāt) [square](caturaśraḥ) [three-band-bearing](tripaṭṭadhṛk)
 
 ## mukta-m0-p02-v30
-called-staff-foot diamond-foot art-angled
+[staff-foot-named](daṇḍapādākhyo) [diamond-foot](vajrapādaḥ) [art-cornered](kalāśrakaḥ)
 
 ## mukta-m0-p02-v31
-three-part and wall-pillar-emergence
+[three-part](tribhāgaṃ) [and](ca) [wall-pillar-emergence](bhittistambhavinirgamaḥ)
 
 ## mukta-m0-p02-v32
-root-ground-pillar-expansion indeed twenty-eight-angula
+[root-base-pillar-expansion](mūlabhūstambhavistāro) [indeed](hi) [twenty-eight-angled](hyaṣṭāviṃśatikāṅgulaḥ)
 
 ## mukta-m0-p02-v33
-taken-base-height but pillar-elevation twofold considered
+[from-attained-support-height](āttādhiṣṭhānatuṅgāt) [tu](tu) [pillar-height](stambhotsedho) [twofold](dvidhā) [opined](mataḥ)
 
 ## mukta-m0-p02-v34
-of-root-and-top diameter-height of-pillar-and-wall
+[of-root-and-tip](mūlāgrayoḥ) [diameter-height](vyāsatuṅgatā) [pillar-wall](stambhakuḍyayoḥ)
 
 ## mukta-m0-p02-v35
-to-be-made to-be-placed all likewise-on-stones
+[to-be-done](kartavyā) [to-be-placed](sthāpyāḥ) [all](sarve) [thus-on-stones](tathāśmasu)
 
 ## mukta-m0-p02-v36
-foot-high-joy-part or eight-part railing-height
+[from-foot-high-portion](pādoccanandabhāgād) [or](vā) [from-own-part](vasvaṃśād) [altar-height](vedikocchrayaḥ)
 
 ## mukta-m0-p02-v37
-painted-section mossy painted-mossy
+[pictured-section](citrakhaṇḍā) [mossy](śaivalā) [pictured-mossy](citraśaivalā)
 
 ## mukta-m0-p02-v38
-altar flower-section-thus is-called
+[altar](vediḥ) [flower-section-thus](puṣpakhaṇḍeti) [is-said](kathyate)
 
 ## mukta-m0-p02-v39
-painted-section-is-named
+[pictured-section-is-called](citrakhaṇḍābhidhīyate)
 
 ## mukta-m0-p02-v40
-above-below-lotus-leaf-rich at-foot between-feet also and
+[up-down-lotus-leaf-rich](ūrdhvādhaḥpadmapatrāḍhyā) [at-foot](pāde) [between-feet-also](pādāntare'pi) [and](ca)
 
 ## mukta-m0-p02-v41
-that-same-lower-upper-lotuses cane-pair-delightful
+[that-same-lower-upper-lotus-pair](saivādharordhvāmbujayor) [cane-pair-charming](vetrayugmamanoramā)
 
 ## mukta-m0-p02-v42
-railing not-indeed-cut except gateway
+[altar](vedikāṃ) [not-indeed-cut](naivacchindyād) [elsewhere](anyatra) [from-gateway](toraṇāt)
 
 ## mukta-m0-p02-v43
-flower-section painted-section of-men two railings remembered
+[flower-section](puṣpakhaṇḍā) [pictured-section](citrakhaṇḍā) [of-men](nṛṇāṃ) [two](dve) [altars](vedike) [remembered](smṛte)
 
 ## mukta-m0-p02-v44
-in-three-part may-be veda-angle-part but from-root
+[in-third-part](tribhāge) [would-be](syād) [altar-corner-part](vedāśroṃ'śaḥ) [from-root](mūlataḥ)
 
 ## mukta-m0-p02-v45
-top-part also veda-angle may-be in-pillars in-some
+[tip-part-also](agrabhāgo'pi) [altar-corner](vedāśro) [would-be](bhavet) [in-some-pillars](stambheṣu) [in-some](keṣucit)
 
 ## mukta-m0-p02-v46
-last-part seventh-part-less root-expanded may-be
+[last-part](antyoṃ'śaḥ) [seventh-part-less](saptamāṃśono) [from-root-expansion](mūlavistārito) [would-be](bhavet)
 
 ## mukta-m0-p02-v47
-with-half footless or double or become indeed
+[half-added](sādhyardhāḥ) [foot-less](pādahīnā) [or](vā) [double](dviguṇā) [or](vā) [would-be-indeed](bhavanti) [hi](hi)
 
 ## mukta-m0-p02-v48
-pots fourfold may-be of-rounds śrī-maker may-be
+[pots-fourfold](kumbhāścaturdhā) [would-be](syuḥ) [of-round-ones](vṛttānāṃ) [auspicious-maker](śrīkaro) [would-be](bhavet)
 
 ## mukta-m0-p02-v49
-of-pillars of-squares front-facing pot is-desired
+[of-pillars](stambhānāṃ) [of-square-ones](caturaśrāṇāṃ) [favorable-faced](saumukhyaḥ) [pot](kumbha) [is-desired](iṣyate)
 
 ## mukta-m0-p02-v50
-pot-part ninth-part but one-holding is-prescribed
+[in-pot-part](kumbhabhāge) [in-ninth-part](navāṃśe) [tu](tu) [by-one-bearing](dhṛgekena) [is-prescribed](vidhīyate)

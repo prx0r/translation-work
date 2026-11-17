@@ -8,7 +8,7 @@
 "tokens": [
 {
 "surface": "bhavecca",
-"quick_gloss": "should-be-and"
+"quick_gloss": "becomes"
 },
 {
 "surface": "talpa",
@@ -20,10 +20,10 @@
 },
 {
 "surface": "karṇa",
-"quick_gloss": "diagonal"
+"quick_gloss": "ear"
 },
 {
-"surface": "āyāma",
+"surface": "āyāmā",
 "quick_gloss": "length"
 },
 {
@@ -40,11 +40,11 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "parigha",
+"surface": "parighā",
 "quick_gloss": "parigha"
 },
 {
-"surface": "āpādayoḥ",
+"surface": "pādayoḥ",
 "quick_gloss": "height"
 },
 {
@@ -65,7 +65,7 @@
 },
 {
 "surface": "bhavet",
-"quick_gloss": "should-be"
+"quick_gloss": "becomes"
 }
 ]
 },
@@ -89,6 +89,10 @@
 "quick_gloss": "one-bed"
 },
 {
+"surface": "ca",
+"quick_gloss": "and"
+},
+{
 "surface": "argalā",
 "quick_gloss": "bar"
 }
@@ -102,8 +106,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "badhnīyāt",
-"quick_gloss": "should-bind"
+"surface": "badhnīyād",
+"quick_gloss": "binds"
 },
 {
 "surface": "yathā",
@@ -111,11 +115,11 @@
 },
 {
 "surface": "eva",
-"quick_gloss": "firm"
+"quick_gloss": "very-firm"
 },
 {
 "surface": "bhavet",
-"quick_gloss": "should-be"
+"quick_gloss": "sudṛḍhaṃ) [becomes"
 }
 ]
 },
@@ -139,8 +143,8 @@
 "quick_gloss": "or"
 },
 {
-"surface": "syāt",
-"quick_gloss": "should-be"
+"surface": "syād",
+"quick_gloss": "may-be"
 },
 {
 "surface": "yathābalam",
@@ -186,7 +190,7 @@
 },
 {
 "surface": "yojayet",
-"quick_gloss": "should-join"
+"quick_gloss": "joins"
 },
 {
 "surface": "samau",
@@ -202,8 +206,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "syāt",
-"quick_gloss": "should-be"
+"surface": "syād",
+"quick_gloss": "may-be"
 },
 {
 "surface": "daṇḍair",
@@ -228,7 +232,7 @@
 },
 {
 "surface": "syāt",
-"quick_gloss": "should-be"
+"quick_gloss": "may-be"
 },
 {
 "surface": "tanmadhyaṃ",
@@ -261,7 +265,7 @@
 },
 {
 "surface": "sthāpyo",
-"quick_gloss": "should-be-placed"
+"quick_gloss": "placed"
 },
 {
 "surface": "yogo",
@@ -293,12 +297,12 @@
 "quick_gloss": "middle"
 },
 {
-"surface": "syāt",
-"quick_gloss": "should-be"
+"surface": "syād",
+"quick_gloss": "may-be"
 },
 {
 "surface": "dvāroparyaṣṭamaṅgalam",
-"quick_gloss": "door-top-eighth-auspicious"
+"quick_gloss": "door-above-eighth-auspicious"
 }
 ]
 },
@@ -327,7 +331,7 @@
 },
 {
 "surface": "anayoḥ",
-"quick_gloss": "of-these-two"
+"quick_gloss": "of-these"
 },
 {
 "surface": "mataḥ",
@@ -365,7 +369,7 @@
 },
 {
 "surface": "syur",
-"quick_gloss": "should-be"
+"quick_gloss": "may-be"
 },
 {
 "surface": "dvidaṇḍoccāni",
@@ -414,12 +418,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "dṛḍhapraveśa",
+"surface": "dṛḍhapraveśāsyāt",
 "quick_gloss": "firm-entry"
-},
-{
-"surface": "asyāt",
-"quick_gloss": "should-be"
 },
 {
 "surface": "pārśvapatravicitritā",
@@ -448,7 +448,7 @@
 },
 {
 "surface": "varṇinām",
-"quick_gloss": "of-colored-ones"
+"quick_gloss": "of-varṇas"
 }
 ]
 },
@@ -482,7 +482,7 @@
 "tokens": [
 {
 "surface": "devadvijanṛpāṇāṃ",
-"quick_gloss": "of-gods-brahmins-kings"
+"quick_gloss": "of-gods-brāhmaṇas-kings"
 },
 {
 "surface": "tu",
@@ -494,7 +494,7 @@
 },
 {
 "surface": "makaratoraṇam",
-"quick_gloss": "makara-torana"
+"quick_gloss": "makara-toraṇa"
 }
 ]
 },
@@ -527,7 +527,7 @@
 },
 {
 "surface": "kuḍyatoraṇam",
-"quick_gloss": "wall-torana"
+"quick_gloss": "wall-toraṇa"
 }
 ]
 },
@@ -565,7 +565,7 @@
 "tokens": [
 {
 "surface": "śobhāntaraṃ",
-"quick_gloss": "beauty-difference"
+"quick_gloss": "beauty-other"
 },
 {
 "surface": "tatra",
@@ -577,7 +577,7 @@
 },
 {
 "surface": "bhaved",
-"quick_gloss": "should-be"
+"quick_gloss": "may-be"
 },
 {
 "surface": "api",
@@ -601,12 +601,8 @@
 "quick_gloss": "mouths-attached"
 },
 {
-"surface": "madhyapūrima",
-"quick_gloss": "middle-full"
-},
-{
-"surface": "maṇḍitam",
-"quick_gloss": "ornamented"
+"surface": "madhyapūrimamaṇḍitam",
+"quick_gloss": "middle-full-ornamented"
 }
 ]
 },
@@ -622,12 +618,8 @@
 "quick_gloss": "of-makara"
 },
 {
-"surface": "uttharatnamālā",
-"quick_gloss": "rising-gem-garland"
-},
-{
-"surface": "adhiropitaiḥ",
-"quick_gloss": "placed"
+"surface": "uttharatnamālādhiropitaiḥ",
+"quick_gloss": "rising-gem-garland-placed"
 }
 ]
 },
@@ -644,11 +636,11 @@
 },
 {
 "surface": "bhaven",
-"quick_gloss": "should-be"
+"quick_gloss": "may-be"
 },
 {
 "surface": "makaratoraṇam",
-"quick_gloss": "makara-torana"
+"quick_gloss": "makara-toraṇa"
 }
 ]
 }

@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p70-v1726
-[sutaka](sūtake) [mrta](mṛtake) [ca](ca) [eva](eva) [kriya-lopa](kriyālopaṃ) [na](na) [karayet](kārayet)
+[impurity](sūtake) [death](mṛtake) [and](ca) [indeed](eva) [omission-of-rite](kriyālopaṃ) [not](na) [cause](kārayet)
 
 ## mukta-m0-p70-v1727
-[linga-arcana-rata](liṃgārcanaratā) [nari](nārī) [prasutena](prasūtena) [rajasvala](rajasvalā)
+[linga-worship-devoted](liṃgārcanaratā) [woman](nārī) [by-childbirth](prasūtena) [menstruating](rajasvalā)
 
 ## mukta-m0-p70-v1728
-[shiva-dvija-dasha-hantu](śivadvijadaśāhantu) [dvijanam](dvijānāṃ) [tu](tu) [tatha-eva](tathaiva) [ca](ca)
+[Shiva-brahmin-ten-day](śivadvijadaśāhantu) [of-brahmins](dvijānāṃ) [but](tu) [likewise](tathaiva) [and](ca)
 
 ## mukta-m0-p70-v1729
-[masa-eka](māsamekaṃ) [bhavet](bhavecchūdro) [shudra](śūdro) [catur-varna](cāturvarṇassamāsataḥ) [samasa](samāsataḥ)
+[month-one](māsamekaṃ) [becomes-Shudra](bhavecchūdro) [four-varnas](cāturvarṇaḥ) [in-summary](samāsataḥ)
 
 ## mukta-m0-p70-v1730
-[antarale](antarāle) [shrtam](śṛtaṃ) [cet](cetsadāśauce) [sada-asauce](sadāśauce) [mrta](mṛtaṃ) [janma-jau](janmajau) [ca](ca)
+[in-interval](antarāle) [cooked](śṛtaṃ) [if](cet) [always-impurity](sadāśauce) [dead](mṛtaṃ) [birth-death](janmajau) [and](ca)
 
 ## mukta-m0-p70-v1731
-[lingam](liṃgaṃ) [va](vā) [kautukam](kautukaṃ) [va-api](vāpi) [nitya](nitya) [puja](pūjā) [shiva-dvija](śivadvijaḥ)
+[linga](liṃgaṃ) [or](vā) [festival](kautukaṃ) [or](vāpi) [daily](nitya) [worship](pūjā) [Shiva-brahmin](śivadvijaḥ)
 
 ## mukta-m0-p70-v1732
-[dashahe](daśāhe) [shuddhi](śuddhirviprāṇāṃ) [vipranam](viprāṇāṃ) [dvadashahe](dvādaśāhe) [nrpasya](nṛpasya) [tu](tu)
+[ten-days](daśāhe) [purity-of-brahmins](śuddhirviprāṇāṃ) [twelve-days](dvādaśāhe) [of-king](nṛpasya) [but](tu)
 
 ## mukta-m0-p70-v1733
-[yaga-adi](yāgādi) [sarva-karyeshu](sarvakāryeṣu) [yaga-artham](yāgārthaṃ) [ca](ca) [vratam](vrataṃ) [caret](caret)
+[sacrifice-etc](yāgādi) [all-works](sarvakāryeṣu) [for-sacrifice](yāgārthaṃ) [and](ca) [vow](vrataṃ) [perform](caret)
 
 ## mukta-m0-p70-v1734
-[dvijanam](dvijānāṃ) [dikshitam](dīkṣitānāṃ) [ca](ca) [yatinam](yatīnāṃ) [brahmacarinam](brahmacāriṇāṃ)
+[of-brahmins](dvijānāṃ) [initiated](dīkṣitānāṃ) [and](ca) [ascetics](yatīnāṃ) [celibates](brahmacāriṇāṃ)
 
 ## mukta-m0-p70-v1735
-[matamaha-pitamaha](mātāmahipitāmahyo) [matula-agra-kayor-mrtau](mātulāgrakayormṛtau)
+[maternal-grandmother-paternal-grandmother](mātāmahipitāmahyo) [maternal-uncle-etc](mātulāgrakayor) [on-death](mṛtau)
 
 ## mukta-m0-p70-v1736
-[matr-svasu](mātṛṣvasu) [bhaginyah-ca](bhaginyāśca) [garbhavan-api](garbhavānapi) [snapayet](snāpayet)
+[maternal-aunt](mātṛṣvasu) [sister](bhaginyāḥ) [and](ca) [pregnant](garbhavān) [also](api) [bathe](snāpayet)
 
 ## mukta-m0-p70-v1737
-[parityajya](parityajya) [shivam](śivaṃ) [kuryat](kuryāt) [nitya-naimittika-acaret](nityanaimittikācaret)
+[abandoning](parityajya) [Shiva](śivaṃ) [do](kuryāt) [daily-occasional](nityanaimittika) [perform](ācaret)
 
 ## mukta-m0-p70-v1738
-[pashu-pasha-shabdato](paśupāśa) [jivam](jīvaṃ) [pasha-muktah](pāśamuktaḥ) [para-shivah](paraśśivaḥ)
+[pashu-bond](paśupāśa) [by-word](śabdato) [soul](jīvaṃ) [bond-freed](pāśamuktaḥ) [supreme-Shiva](paraśśivaḥ)
 
 ## mukta-m0-p70-v1739
-[aditya](ādityaśca) [pa](pa) [gopala-khagam](gopālakhagaṃ) [rudram](rudraṃ) [tatha-eva](tathaiva) [ca](ca)
+[sun](ādityaś) [and](ca) [pa](pa) [Gopala-bird](gopālakhagaṃ) [Rudra](rudraṃ) [likewise](tathaiva) [and](ca)
 
 ## mukta-m0-p70-v1740
-[prapte](prāpte) [kali-yuge](kaliyuge) [ghore](ghore) [naste](naṣṭe) [dagdhe](dagdhe) [ca](ca) [va](vā) [punah](punaḥ)
+[arrived](prāpte) [Kali-age](kaliyuge) [terrible](ghore) [lost](naṣṭe) [burnt](dagdhe) [and](ca) [or](vā) [again](punaḥ)
 
 ## mukta-m0-p70-v1741
-[aghrara-vindantu](āghrāraviṃdantu) [veda-shvana-shanai-shanaih](vedaśvānaśśanaiśśanaiḥ)
+[smell-lotus](āghrāraviṃdantu) [Veda-dogs](vedaśvānaḥ) [slowly](śanaiśśanaiḥ)
 
 ## mukta-m0-p70-v1742
-[shubham](śubhaṃ) [ca](ca) [ashubham](aśubhaṃ) [ca-ava](cāva) [ashubham](aśubhaṃ) [shubha-vahanam](śubhavāhanam)
+[auspicious](śubhaṃ) [and](ca) [inauspicious](aśubhaṃ) [and](cāva) [inauspicious](aśubhaṃ) [auspicious-vehicle](śubhavāhanam)
 
 ## mukta-m0-p70-v1743
-[candra-arka-vacchinnau](caṃdrārkavacchinnau) [ca-eva](caiva) [sarva-devah-ca](sarvadevāśca) [meva](meva) [ca](ca)
+[moon-sun-cut](caṃdrārkavacchinnau) [and](ca) [indeed](eva) [all-gods](sarvadevāḥ) [and](ca) [meva](meva) [and](ca)
 
 ## mukta-m0-p70-v1744
-[trayodashim](trayodaśīmamāvāsyāyāṃ) [amavasyayam](amāvāsyāyāṃ) [magha-mase](māghamāse) [caturdashi](caturdaśī)
+[thirteenth](trayodaśī) [new-moon](amāvāsyāyāṃ) [Magha-month](māghamāse) [fourteenth](caturdaśī)
 
 ## mukta-m0-p70-v1745
-[caturdashi](caturdaśī) [shivan](śivāṃ) [prokta](proktā) [amavasya](amāvāsyā) [svayam](svayaṃ) [shiva](śivaḥ)
+[fourteenth](caturdaśī) [Shiva](śivāṃ) [declared](proktā) [new-moon](amāvāsyā) [itself](svayaṃ) [Shiva](śivaḥ)
 
 ## mukta-m0-p70-v1746
-[japena](japena) [devata](devatā) [nityam](nityaṃ) [puryamanam](pūryamānaṃ) [prasidati](prasīdati)
+[by-japa](japena) [deity](devatā) [daily](nityaṃ) [filled](pūryamānaṃ) [pleased](prasīdati)
 
 ## mukta-m0-p70-v1747
-[yaksha-rakshasa](yakṣarākṣasa) [paishaca](paiśāca) [graha-sarpa-adi](grahassarpādi) [bhishana](bhīṣaṇā)
+[yaksha-rakshasa](yakṣarākṣasa) [pishacha](paiśāca) [planet-serpent-etc](grahassarpādi) [terrifying](bhīṣaṇā)
 
 ## mukta-m0-p70-v1748
-[vakshyami](vakṣyāmi) [shiva-ratrim](śivarātriṃ) [syat](syātpūjayenmuni) [pujayet](pūjayenmuni) [muni](muni) [sattama](sattama)
+[I-will-say](vakṣyāmi) [Shivaratri](śivarātriṃ) [may-be](syāt) [worship](pūjayet) [sage](muni) [best](sattama)
 
 ## mukta-m0-p70-v1749
-[yuge](yuge) [yuge](yuge) [tu](tu) [sampujya](saṃpūjya) [tretayam](tretāyāṃ) [tu](tu) [guham](guhaṃ) [yajet](yajet)
+[age](yuge) [age](yuge) [but](tu) [worship](saṃpūjya) [in-Treta](tretāyāṃ) [but](tu) [Guha](guhaṃ) [sacrifice](yajet)
 
 ## mukta-m0-p70-v1750
-[brahmendra](brahmendre) [rishibhih-ca-eva](ṛṣibhiścaiva) [kali-yuge](kaliyuge) [tu](tu) [samarcayet](samarcayet)
+[Brahma-Indra](brahmendre) [by-sages](ṛṣibhiḥ) [and-indeed](caiva) [in-Kali](kaliyuge) [but](tu) [worship](samarcayet)

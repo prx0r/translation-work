@@ -29,7 +29,7 @@
 "tokens": [
 {
 "surface": "bhāvano",
-"quick_gloss": "manifesting"
+"quick_gloss": "becoming"
 },
 {
 "surface": "bhagavān",
@@ -70,12 +70,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "kāmuko",
-"quick_gloss": "desirous"
-},
-{
-"surface": "akāmukaścaiva",
-"quick_gloss": "not-desirous"
+"surface": "kāmuko'kāmukaścaiva",
+"quick_gloss": "desirous+and"
 },
 {
 "surface": "kāmahṛt",
@@ -97,6 +93,10 @@
 {
 "surface": "agniragnisamānaśca",
 "quick_gloss": "fire"
+},
+{
+"surface": "agnisamānaśca",
+"quick_gloss": "fire-like"
 },
 {
 "surface": "jvālāmālī",
@@ -167,11 +167,7 @@
 "tokens": [
 {
 "surface": "maṇḍūrmaṇḍūkakākāsyau",
-"quick_gloss": "frog"
-},
-{
-"surface": "kākāsyau",
-"quick_gloss": "crow-faced"
+"quick_gloss": "frog+frog+face"
 },
 {
 "surface": "devo",
@@ -179,7 +175,7 @@
 },
 {
 "surface": "devalakastathā",
-"quick_gloss": "temple-servant"
+"quick_gloss": "temple-priest"
 }
 ]
 },
@@ -213,11 +209,15 @@
 "tokens": [
 {
 "surface": "caiva",
+"quick_gloss": "and"
+},
+{
+"surface": "matsarī",
 "quick_gloss": "envious"
 },
 {
 "surface": "maskarastathā",
-"quick_gloss": "maskara"
+"quick_gloss": "bamboo"
 }
 ]
 },
@@ -255,7 +255,7 @@
 },
 {
 "surface": "diśi",
-"quick_gloss": "in-fire-quarter"
+"quick_gloss": "in-southeast"
 },
 {
 "surface": "saptatiḥ",
@@ -272,7 +272,7 @@
 "tokens": [
 {
 "surface": "pretādhipo",
-"quick_gloss": "preta-lord"
+"quick_gloss": "ghost-lord"
 },
 {
 "surface": "dharmaḥ",
@@ -305,7 +305,7 @@
 "tokens": [
 {
 "surface": "kṛtāntaśca",
-"quick_gloss": "death-agent"
+"quick_gloss": "death-end"
 },
 {
 "surface": "satyaḥ",
@@ -393,11 +393,11 @@
 },
 {
 "surface": "śārṅgī",
-"quick_gloss": "bow-bearing"
+"quick_gloss": "bowman"
 },
 {
 "surface": "śārṅgadharastathā",
-"quick_gloss": "bow-holder"
+"quick_gloss": "bow-bearer"
 }
 ]
 },
@@ -417,7 +417,7 @@
 "quick_gloss": "elephant"
 },
 {
-"surface": "vigraho",
+"surface": "vigraho'mbaraḥ",
 "quick_gloss": "form"
 },
 {
@@ -447,7 +447,7 @@
 },
 {
 "surface": "nir-ṛtistathā",
-"quick_gloss": "nirṛti"
+"quick_gloss": "nirrti"
 }
 ]
 },
@@ -480,12 +480,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "vīrūpākṣo",
+"surface": "vīrūpākṣo'tha",
 "quick_gloss": "odd-eyed"
 },
 {
 "surface": "bhasmāṅgaḥ",
-"quick_gloss": "ash-bodied"
+"quick_gloss": "ash-limbed"
 },
 {
 "surface": "sukṛtirvikṛtistathā",
@@ -510,7 +510,7 @@
 },
 {
 "surface": "rākṣaso",
-"quick_gloss": "rakshasa"
+"quick_gloss": "demon"
 },
 {
 "surface": "rakṣakastathā",
@@ -526,12 +526,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "vīraseno",
+"surface": "vīraseno'kṣarāśaśca",
 "quick_gloss": "hero-army"
-},
-{
-"surface": "akṣarāśaśca",
-"quick_gloss": "imperishable-part"
 },
 {
 "surface": "prāṇadaḥ",
