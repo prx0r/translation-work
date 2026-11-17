@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p58-v1426
-[hunchback-girl](kubjaka) [pair](yugala) [womb](garbha) [emanation](sarga) [crest](cūlikā) [maker](ākara-)
+[hunchbacked+kubja](kubja) [pair+kayugala](kayugala) [womb+garbha](garbha) [creation-crest-maker+sargacūlikākara-](sargacūlikākara-)
 
 ## mukta-m0-p58-v1427
-[partless](niṣkalam) [this](idam) [I-ness](ahaṃ) [contemplations](bhāvanāni) [unattached](nissaṃga) [without-](niru-)
+[partless+nissaṃga?](niṣkalam) [this+idam](idam) [I+aham](aham) [bhāvanā+bhāvanā](bhāvanāni) [non-attached+nissaṃga](nissaṃga) [stopping+niru-](niru-)
 
 ## mukta-m0-p58-v1428
-[wave](kallola) [uproar](kolāhala) [bliss](sukha) [making](kara) [full](sannibhṛta) [without-](nika-)
+[wave+kallola](kallola) [uproar+kolāhala](kolāhala) [pleasure+sukha](sukha) [maker+kara](kara) [steady+sannibhṛta](sannibhṛta) [near+nika-](nika-)
 
 ## mukta-m0-p58-v1429
-[doubt](śāṃka) [hundred](śata) [thousand](sahasra) [resembling](saṃkāśa) [supreme](paraṃ) [Śiva](śivam-)
+[mark+śāṃka](śāṃka) [hundred-thousand+śatasahasra](śatasahasra) [resemblance+saṃkāśa](saṃkāśa) [supreme+paraṃ](paraṃ) [śiva+śivam-](śivam-)
 
 ## mukta-m0-p58-v1430
-[having-entered](nirviṣṭya) [contemplates](anusaṃdhatī) [this](daṃ) [in-root-support](mūlādhāre) [remember](smare) [in-](ra-)
+[entering+nirviṣṭya](nirviṣṭya) [connecting+anusaṃdhatī](anusaṃdhatī) [this+idaṃ](idaṃ) [root-support+mūlādhāre](mūlādhāre) [remember+smare](smare) [ra+ra-](ra-)
 
 ## mukta-m0-p58-v1431
-[in-navel](nābhau) [Viṣṇu](viṣṇum) [is-declared](udāhṛtaṃ) [in-heart](hṛdare) [(ye)]((ye)) [only](kevalaṃ) [Rudra](rudraṃ-)
+[navel+nābhau](nābhau) [viṣṇu+viṣṇum](viṣṇum) [declared+udāhṛtaṃ](udāhṛtaṃ) [heart+hṛdare](hṛdare) [only+kevalaṃ](kevalaṃ) [rudra+rudraṃ-](rudraṃ-)
 
 ## mukta-m0-p58-v1432
-[at-nose-tip](nāsāgre) [bindu](biṃdu) [indeed](eva) [and](ca) [called-nāda](nādākhyaṃ) [in-middle-of-eyebrows](bhruvamadhye) [but](tu-)
+[nose-tip+nāsāgre](nāsāgre) [bindu+biṃdu](biṃdu) [indeed+eva](eva) [also+ca](ca) [sound+nāda](nāda) [named+ākhyaṃ](ākhyaṃ) [brow-middle+bhruvamadhye](bhruvamadhye) [tu+tu-](tu-)
 
 ## mukta-m0-p58-v1433
-[one-should-know](vidyāt) [above](ūrdhva) [dance](nṛttaṃ) [one-should-contemplate](vicintayet)
+[know+vidyāt](vidyāt) [above+ūrdhva](ūrdhva) [dance+nṛttaṃ](nṛttaṃ) [contemplate+vicintayet](vicintayet)
 
 ## mukta-m0-p58-v1434
-[gone-to-Śiva-middle](śivamadhyagato) [peaceful](śāṃtaṃ) [beyond-peace](śāntyātītaṃ) [supreme-beyond-supreme](parātparaṃ)
+[śiva+śivam](śivam) [middle+madhyagato](madhyagato) [peaceful+śāṃtaṃ](śāṃtaṃ) [beyond-peace+śāntyātītaṃ](śāntyātītaṃ) [beyond-supreme+parātparaṃ](parātparaṃ)
 
 ## mukta-m0-p58-v1435
-[primordial](ādi) [moon](caṃdraṃ) [death](mṛtyu) [ornament](bhūṣaṇa) [moon](caṃdra) [fragment](khaṇḍa) [quality](guṇa) [foremost](agra-)
+[beginning+ādi](ādi) [moon+caṃdraṃ](caṃdraṃ) [death+mṛtyu](mṛtyu) [ornament+bhūṣaṇa](bhūṣaṇa) [moon-crescent+caṃdrakhaṇḍa](caṃdrakhaṇḍa) [quality+guṇāgra-](guṇāgra-)
 
 ## mukta-m0-p58-v1436
-[plough](hala) [form](ākṛti) [sāṃ](sāṃ) [beautiful](śugmaṃ) [three-peaked](triśikha) [two-bindu](dvibiṃbo-) [with-parts](ssakalo) [Śiva](śivaḥ)
+[plough-shape+halākṛti](halākṛti) [that+sāṃ](sāṃ) [three-pronged+triśikha](triśikha) [two-bindu+dvibiṃbo-](dvibiṃbo-) [whole+sakalo](sakalo) [śiva+śivaḥ](śivaḥ)
 
 ## mukta-m0-p58-v1437
-[having-ascended](āruhya) [palace](prāsādam) [kalā](kalā) [path](adhva) [worthy](nīyaṃ-) [in-supreme-nectar](parāmṛte) [there](tatra) [O-fair-haired-one](sukeśi) [immediately](sadhya)
+[temple+prāsādam](prāsādam) [ascending+āruhya](āruhya) [kalā-path+kalādhvanīyaṃ-](kalādhvanīyaṃ-)
 
 ## mukta-m0-p58-v1438
-[bliss](ānanda) [dense](sāṃdraṃ) [tasting](rasayaṃ) [in-light](prakāśe) [eats](rbhakṣamati) [by-leapers](laṃghaparaiḥ) [unleapable](alaṃghyam)
+[supreme-nectar+parāmṛte](parāmṛte) [there+tatra](tatra) [fair-haired+sukeśi](sukeśi) [quickly+sadhya](sadhya) [bliss-dense+ānaṃdasāṃdraṃ](ānaṃdasāṃdraṃ) [taste+rasayaṃ](rasayaṃ) [manifest+prakāśe](prakāśe)
 
 ## mukta-m0-p58-v1439
-[palace](prāsāda) [peak](śṛṃga-) [bodiless](anaṃgam) [as-limb](upāṃga) [they-make](yaṃti) [of-palace-alone](prāsādamātrasya) [they-worship](bhajaṃti-)
+[rbhakṣamati+rbhakṣamati](rbhakṣamati) [crossing+laṃgha](laṃgha) [by-others+parairalaṃghyam](parairalaṃghyam)
 
 ## mukta-m0-p58-v1440
-[Śiva](śiva) [gateway](ttoraṇa) [having-caused-to-drink](pāyanītvāṃ) [consciousness](saṃviṃ) [vayayiṃjiṃ](vayayiṃjiṃ) [mind](mana-)
+[temple-peak+prāsādaśṛṃga-](prāsādaśṛṃga-) [limbless+manaṃgam](manaṃgam) [approaching+upāṃgayaṃti](upāṃgayaṃti) [temple-only+prāsādamātrasya](prāsādamātrasya) [worship+bhajaṃti-](bhajaṃti-)
 
 ## mukta-m0-p58-v1441
-[mindless](amanasko) [having-bowed](namaskṛtvā) [not](na) [anything](kiṃcid) [even](api) [one-should-think](ciṃtayet)
+[śiva+śivettoraṇa](śivettoraṇa) [pāyanītvāṃ+pāyanītvāṃ](pāyanītvāṃ) [saṃviṃvayayiṃjiṃmana-+saṃviṃvayayiṃjiṃmana-](saṃviṃvayayiṃjiṃmana-)
 
 ## mukta-m0-p58-v1442
-[I](aham) [indeed](eva) [this](id) [enough](alaṃ) [know](vedmi) [you](tvam) [āla](āla) [Śiva](śivam) [indeed](eva) [and](ca)
+[mindless+amanasko](amanasko) [saluting+namaskṛtvā](namaskṛtvā) [not+na](na) [anything+kiṃcidapi](kiṃcidapi) [think+ciṃtayet](ciṃtayet)
 
 ## mukta-m0-p58-v1443
-[of-fire](vahneḥ) [two-bulls](vṛṣadvayaṃ) [power](śakti) [to-sun](ravināya) [in-shining-ones](vibhāvibhau)
+[I+ahameva](ahameva) [veda+vedyalaṃ](vedyalaṃ) [know+vedmi](vedmi) [you+tvamāla](tvamāla) [śiva+śivameva](śivameva) [ca+ca](ca)
 
 ## mukta-m0-p58-v1444
-[when](yat) [six](ṣaḍ) [path](adhva) [wave](laharīṃ) [impurity](kāluṣyam) [subsides](upaśāmyati)
+[fire+vahnervṛṣadvayaṃ](vahnervṛṣadvayaṃ) [śakti+śakti](śakti) [sun+ravināya](ravināya) [vibhāvibhau+vibhāvibhau](vibhāvibhau)
 
 ## mukta-m0-p58-v1445
-[of-those-two](tayor) [for-tasting](āsvādanārthasya) [Śiva](śiva) [Śakti](śakti) [consisting-of](mayo) [indeed](hi) [he](saḥ)
+[that+yadaṣṣaḍadhva](yadaṣṣaḍadhva) [wave+laharīṃ](laharīṃ) [impurity+kāluṣyam](kāluṣyam) [pacifies+upaśāmyati](upaśāmyati)
 
 ## mukta-m0-p58-v1446
-[in-palace-heart](prāsādahṛdaya) [desire](icchā) [with-breath](saniśvāsa) [supreme](paramaḥ) [Śiva](śivaḥ)
+[their+tayor](tayor) [tasting+āsvādanārthasya](āsvādanārthasya) [śiva-śakti+śivaśaktimayo](śivaśaktimayo) [indeed+hi](hi) [saḥ+saḥ](saḥ)
 
 ## mukta-m0-p58-v1447
-[of-those-bitten-by-world-serpent](saṃsārasarpadaṣṭānāṃ) [this](etat) [is](asti) [great-medicine](mahauṣadham)
+[temple-heart+prāsādahṛdayecchā](prāsādahṛdayecchā) [with-breath+saniśvāsa](saniśvāsa) [supreme-śiva+paramaśśivaḥ](paramaśśivaḥ)
 
 ## mukta-m0-p58-v1448
-[having-obtained](labdhe) [southern](dakṣiṇa) [existence](bhavave) [what](kiṃ) [who](yaḥ) [in-fan](tālavṛnte) [for-us](naḥ)
+[saṃsāra-serpent-bitten+saṃsārasarpadaṣṭānāṃ](saṃsārasarpadaṣṭānāṃ) [this+etad](etad) [is+asti](asti) [great-medicine+mahauṣadham](mahauṣadham)
 
 ## mukta-m0-p58-v1449
-[by-pervaded](vyāpyaiḥ) [pervader](vyāpaka) [experiencer](bhāvako) [sound](dhvani) [mind](manān) [toward-object](pratyartha-)
+[obtained+dakṣiṇa](dakṣiṇa) [bhavave+bhavave](bhavave) [kiṃ+kiṃ](kiṃ) [yastālavṛnte+yastālavṛnte](yastālavṛnte) [naḥ+naḥ](naḥ)
 
 ## mukta-m0-p58-v1450
-[by-pervaded](vyāpyaiḥ) [pervader](vyāpaka) [experiencer](bhāvako) [sound](dhvani) [mind](manān) [toward-object](pratyartha-)
+[pervading+vyāpyair](vyāpyair) [pervader+vyāpaka](vyāpaka) [bhāvako+bhāvako](bhāvako) [sound+dhvanimanān](dhvanimanān) [pratyartha-+pratyartha-](pratyartha-)
