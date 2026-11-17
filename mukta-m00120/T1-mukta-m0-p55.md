@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p55-v1351
-[liṅga](liṅga) [washed](kṣālita) [with-water](toyena) [throw](prakṣipet) [drop](vindu) [with-drops](bindubhiḥ)
+[liṅga](liṅga) [kṣālita](kṣālita) [toyena](toyena) [prakṣipet](prakṣiped) [vindu](vindu) [bindubhiḥ](bindubhiḥ)
 
 ## mukta-m0-p55-v1352
-[fragrant](sugandhaṃ) [cool](śītalaṃ) [water](toyaṃ) [throw](prakṣipet) [tattva](tattva) [with-mudrā](mudrayā)
+[sugandhaṃ](sugandhaṃ) [śītalaṃ](śītalaṃ) [toyaṃ](toyaṃ) [prakṣipet](prakṣipet) [tattva](tattva) [mudrayā](mudrayā)
 
 ## mukta-m0-p55-v1353
-[of-guru](guroḥ) [from-vessel](pātrād) [of-deva](deva) [from-vessel](pātrād) [from-ātma-vessel](ātma+pātrāt) [O-maheśvarī](maheśvari)
+[guroḥ](guroḥ) [pātrāt](pātrād) [deva](deva) [pātrāt](pātrād) [ātma](ātma) [pātrāt](pātrān) [maheśvari](maheśvari)
 
 ## mukta-m0-p55-v1354
-[with-that-water](tattoyaiḥ) [mud](kardamaṃ) [having-made](kṛtvā) [on-forehead](lalāṭe) [tilaka](tilakaṃ) [place](nyaset)
+[tattoyaiḥ](tattoyaiḥ) [kardamaṃ](kardamaṃ) [kṛtvā](kṛtvā) [lalāṭe](lalāṭe) [tilakaṃ](tilakaṃ) [nyaset](nyaset)
 
 ## mukta-m0-p55-v1355
-[from-śakti-vessel](śakti+pātrāt) [from-vessel-measure](pātramātrāt) [water](toyaṃ) [thrown](kṣiptaṃ) [on-earth](mahītale)
+[śakti](śakti) [pātrāt](pātrāt) [pātramātrāt](pātramātrāt) [toyaṃ](toyaṃ) [kṣiptaṃ](kṣiptaṃ) [mahītale](mahītale)
 
 ## mukta-m0-p55-v1356
-[water](toyaṃ) [throw](kṣipet) [own-head-etc](svamūrddhādi) [drop-and](binduñca) [tattva](tattva) [with-mudrā](mudrayā)
+[toyaṃ](toyaṃ) [kṣipet](kṣipet) [svamūrddhādi](svamūrddhādi) [binduṃ](binduñca) [ca](ca) [tattva](tattva) [mudrayā](mudrayā)
 
 ## mukta-m0-p55-v1357
-[he](saḥ) [indeed](eva) [servitude](dāsatāṃ) [goes](yāti) [if](yadi) [Indra](śakra) [equal](samaḥ) [becomes](bhavet)
+[sa](sa) [eva](eva) [dāsatāṃ](dāsatāṃ) [yāti](yāti) [yadi](yadi) [śakra](śakra) [samaḥ](samo) [bhavet](bhavet)
 
 ## mukta-m0-p55-v1358
-[remaining](avaśiṣṭa) [with-waters](jalairdevi) [mud](kardame) [tilaka](tilakaṃ) [place](nyaset)
+[avaśiṣṭa](avaśiṣṭa) [jalaiḥ](jalairdevi) [devi](devi) [kardame](kardame) [tilakaṃ](tilakaṃ) [nyaset](nyaset)
 
 ## mukta-m0-p55-v1359
-[at-end-of-cakra](cakrānte) [O-paramēśānī](parameśāni) [peace](śānti) [hymn](stotraṃ) [recite](paṭhet) [with-joy](mudā)
+[cakrānte](cakrānte) [parameśāni](parameśāni) [śānti](śānti) [stotraṃ](stotraṃ) [paṭhet](paṭhenmudā) [mudā](mudā)
 
 ## mukta-m0-p55-v1360
-[with-bliss](sānandam) [bliss-filled](ānandamayīṃ) [remember](smarāmi)
+[sānandam](sānandam) [ānandamayīṃ](ānandamayīṃ) [smarāmi](smarāi)
 
 ## mukta-m0-p55-v1361
-[of-maheśvaras](māheśvarāṇāṃ) [days](divasāḥ) [pass](prayāntu)
+[māheśvarāṇāṃ](māheśvarāṇāṃ) [divasāḥ](divasāḥ) [prayāntu](prayāntu)
 
 ## mukta-m0-p55-v1362
-[day-by-day](dine+dine) [sādhaka](sādhaka) [meeting](saṅgamastu)
+[dine](dine) [dine](dine) [sādhaka](sādhaka) [saṅgamaḥ](saṅgamastu) [astu](astu)
 
 ## mukta-m0-p55-v1363
-[enjoyment-and](bhuktiñca) [liberation-and](muktiñca) [supreme](parāṃ) [we-go](vrajāmaḥ)
+[bhuktiṃ](bhuktiñca) [ca](ca) [muktiṃ](muktiñca) [ca](ca) [parāṃ](parāṃ) [vrajāmaḥ](vrajāmaḥ)
 
 ## mukta-m0-p55-v1364
-[that-day](stattaddinaṃ) [bad-day](durdinam) [indeed](eva) [I-think](manye)
+[stattaddinaṃ](stattaddinaṃ) [durdinaṃ](durdinam) [eva](eva) [manye](manye)
 
 ## mukta-m0-p55-v1365
-[by-that-moment](tatkṣaṇena)
+[tatkṣaṇena](tatkṣaṇena)
 
 ## mukta-m0-p55-v1366
-[they-go](prayānti)
+[prayānti](prayānti)
 
 ## mukta-m0-p55-v1367
-[thus](stathā) [destruction](nāśam) [approaches](upaiti) [quickly](śīghram)
+[stathā](stathā) [nāśam](nāśam) [upaiti](upaiti) [śīghram](śīghram)
 
 ## mukta-m0-p55-v1368
-[revolves](vaṃbhramyate) [kaulika](kaulika) [emperor](cakravartti)
+[vaṃ](vaṃ) [bhramyate](bhramyate) [kaulika](kaulika) [cakravartī](cakravartti)
 
 ## mukta-m0-p55-v1369
-[since](yat) [Bhairava](bhairavo) [I](ahaṃ) [mother](jananīṃ) [remember](smarāmi)
+[yad](yad) [bhairavaḥ](bhairavo'haṃ) [ahaṃ](ahaṃ) [jananīṃ](jananīṃ) [smarāmi](smarāmi)
 
 ## mukta-m0-p55-v1370
-[wander](bhramanti) [untasted](anāsvādita) [kaula-path](kaula+mārgāḥ)
+[bhramanti](bhramanti) [anāsvādita](anāsvādita) [kaula](kaula) [mārgāḥ](mārgāḥ)
 
 ## mukta-m0-p55-v1371
-[maireya](maireya) [drinking](pānaṃ) [we-practice](vayamācarāmaḥ)
+[maireya](maireya) [pānaṃ](pānaṃ) [vayam](vayam) [ācarāmaḥ](ācarāmaḥ)
 
 ## mukta-m0-p55-v1372
-[Śrī-Sundarī](śrīsundarī) [meditation](cintanameva) [whose](yasya)
+[śrīsundarī](śrīsundarī) [cintanam](cintanameva) [eva](eva) [yasya](yasya)
 
 ## mukta-m0-p55-v1373
-[accepted](daṅgīkṛtaḥ) [now](samprati) [kaula-path](kaulamārgaḥ)
+[daṅgīkṛtaḥ](daṅgīkṛtaḥ) [samprati](samprati) [kaulamārgaḥ](kaulamārgaḥ)
 
 ## mukta-m0-p55-v1374
-[Śrī-Sundarī](śrīsundarīṃ) [in-mind](cetasi) [I-forget](vismarāmi)
+[śrīsundarīṃ](śrīsundarīṃ) [cetasi](cetasi) [vismarāmi](vismarāmi)
 
 ## mukta-m0-p55-v1375
-[worlds](lokān)
+[lokān](lokān)

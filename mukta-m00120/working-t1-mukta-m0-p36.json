@@ -12,11 +12,11 @@
 },
 {
 "surface": "nirmañjya",
-"quick_gloss": "having-wiped"
+"quick_gloss": "having-purified"
 },
 {
 "surface": "yonideśe",
-"quick_gloss": "in-vulva-place"
+"quick_gloss": "in-yoni-place"
 },
 {
 "surface": "niyojayet",
@@ -78,7 +78,7 @@
 },
 {
 "surface": "deyaṃ",
-"quick_gloss": "should-be-given"
+"quick_gloss": "to-be-given"
 },
 {
 "surface": "tadā",
@@ -86,7 +86,7 @@
 },
 {
 "surface": "ramaṇamācaret",
-"quick_gloss": "enjoyment+should-practice"
+"quick_gloss": "love-play-should-practice"
 }
 ]
 },
@@ -99,11 +99,11 @@
 "tokens": [
 {
 "surface": "tenaiva",
-"quick_gloss": "by-that-mantra"
+"quick_gloss": "by-that-same"
 },
 {
 "surface": "manunā",
-"quick_gloss": "manunā"
+"quick_gloss": "mantra"
 },
 {
 "surface": "devi",
@@ -111,11 +111,11 @@
 },
 {
 "surface": "ṣaḍaṅge",
-"quick_gloss": "six-limbed"
+"quick_gloss": "in-six-limbs"
 },
 {
 "surface": "nyāsamācaret",
-"quick_gloss": "nyāsa+should-practice"
+"quick_gloss": "placement-should-practice"
 }
 ]
 },
@@ -128,11 +128,11 @@
 "tokens": [
 {
 "surface": "saptatirmantritaṃ",
-"quick_gloss": "seventy-times"
+"quick_gloss": "seventy-times-mantra-empowered"
 },
 {
 "surface": "kṛtvā",
-"quick_gloss": "having-made"
+"quick_gloss": "having-done"
 },
 {
 "surface": "pūtaṃ",
@@ -169,7 +169,7 @@
 },
 {
 "surface": "mūlamantreṇa",
-"quick_gloss": "root-mantra"
+"quick_gloss": "with-root-mantra"
 },
 {
 "surface": "sundari",
@@ -194,7 +194,7 @@
 },
 {
 "surface": "ājihvāntaṃ",
-"quick_gloss": "up-to-tongue-tip"
+"quick_gloss": "up-to-tongue"
 },
 {
 "surface": "vibhāvayet",
@@ -244,11 +244,11 @@
 },
 {
 "surface": "nirlipto",
-"quick_gloss": "unattached"
+"quick_gloss": "detached"
 },
 {
 "surface": "jīvasaṃjñakaḥ",
-"quick_gloss": "soul-named"
+"quick_gloss": "called-living-being"
 }
 ]
 },
@@ -261,19 +261,23 @@
 "tokens": [
 {
 "surface": "prayāti",
-"quick_gloss": "goes"
+"quick_gloss": "gos"
 },
 {
 "surface": "narakaṃ",
-"quick_gloss": "to-terrible-hell"
+"quick_gloss": "to-hell"
 },
 {
-"surface": "ghoramekaviṃśakulaiḥ",
-"quick_gloss": "ghoram"
+"surface": "ghoram",
+"quick_gloss": "terrible"
 },
 {
-"surface": "saḥa",
+"surface": "ekaviṃśakulaiḥ",
 "quick_gloss": "with-twenty-one-families"
+},
+{
+"surface": "saha",
+"quick_gloss": "together"
 }
 ]
 },
@@ -285,32 +289,24 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "guruṃ",
+"surface": "guruṃ+smaran",
 "quick_gloss": "remembering-guru"
-},
-{
-"surface": "smaran",
-"quick_gloss": "smaran"
 },
 {
 "surface": "pivenmadyaṃ",
 "quick_gloss": "should-drink-wine"
 },
 {
-"surface": "khādan",
-"quick_gloss": "should-eat-meat"
-},
-{
-"surface": "māṃsaṃ",
-"quick_gloss": "māṃsaṃ"
+"surface": "khādan+māṃsaṃ",
+"quick_gloss": "eating-meat"
 },
 {
 "surface": "na",
-"quick_gloss": "no-sin"
+"quick_gloss": "not"
 },
 {
 "surface": "doṣabhāk",
-"quick_gloss": "doṣabhāk"
+"quick_gloss": "fault-bearer"
 }
 ]
 },
@@ -327,15 +323,15 @@
 },
 {
 "surface": "śrīsarvānandanāthaviracite",
-"quick_gloss": "śrī-sarvānandanātha-composed"
+"quick_gloss": "in-composed-by-śrī-sarvānandanātha"
 },
 {
 "surface": "sarvollāse",
-"quick_gloss": "sarvollāsa"
+"quick_gloss": "in-sarvollāsa"
 },
 {
 "surface": "ūnatriṃśadullāsaḥ",
-"quick_gloss": "thirty-ninth-ullāsa"
+"quick_gloss": "twenty-ninth-ullāsa"
 }
 ]
 },
@@ -348,7 +344,7 @@
 "tokens": [
 {
 "surface": "kāraṇasya",
-"quick_gloss": "cause"
+"quick_gloss": "of-cause"
 },
 {
 "surface": "kāraṇaṃ",
@@ -359,7 +355,7 @@
 "quick_gloss": "indeed"
 },
 {
-"surface": "sambideti",
+"surface": "sambidā",
 "quick_gloss": "consciousness"
 },
 {
@@ -393,7 +389,7 @@
 },
 {
 "surface": "sambidānandabhāk",
-"quick_gloss": "consciousness-bliss-partaking"
+"quick_gloss": "consciousness-bliss-partaker"
 },
 {
 "surface": "naraḥ",
@@ -410,19 +406,15 @@
 "tokens": [
 {
 "surface": "bhāvāktaṃ",
-"quick_gloss": "with-bhāva"
+"quick_gloss": "emotion-charged"
 },
 {
 "surface": "sambidānandaṃ",
 "quick_gloss": "consciousness-bliss"
 },
 {
-"surface": "madyānandam",
-"quick_gloss": "wine-bliss"
-},
-{
-"surface": "abhedakam",
-"quick_gloss": "non-different"
+"surface": "madyānandamabhedakam",
+"quick_gloss": "wine-bliss-non-different"
 }
 ]
 },
@@ -435,7 +427,7 @@
 "tokens": [
 {
 "surface": "bhāvānandeṣu",
-"quick_gloss": "in-bhāva-blisses"
+"quick_gloss": "in-emotion-blisses"
 },
 {
 "surface": "deveśi",
@@ -443,7 +435,7 @@
 },
 {
 "surface": "muktibhāg",
-"quick_gloss": "liberation-share"
+"quick_gloss": "liberation-part"
 },
 {
 "surface": "jāyate",
@@ -476,19 +468,19 @@
 },
 {
 "surface": "satyaṃ",
-"quick_gloss": "true"
+"quick_gloss": "truth"
 },
 {
 "surface": "satyaṃ",
-"quick_gloss": "true"
+"quick_gloss": "truth"
 },
 {
 "surface": "na",
-"quick_gloss": "no-doubt"
+"quick_gloss": "no"
 },
 {
 "surface": "saṃśayaḥ",
-"quick_gloss": "saṃśayaḥ"
+"quick_gloss": "doubt"
 }
 ]
 },
@@ -546,12 +538,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "ata",
+"surface": "ata+eva",
 "quick_gloss": "therefore"
-},
-{
-"surface": "eva",
-"quick_gloss": "indeed"
 },
 {
 "surface": "mahādeva",
@@ -559,7 +547,7 @@
 },
 {
 "surface": "sambidāgrahaṇañcaret",
-"quick_gloss": "consciousness-grasping"
+"quick_gloss": "consciousness-grasping-should-practice"
 }
 ]
 },
@@ -588,7 +576,7 @@
 },
 {
 "surface": "kvacit",
-"quick_gloss": "kvacit"
+"quick_gloss": "sometimes"
 }
 ]
 },
@@ -613,7 +601,7 @@
 },
 {
 "surface": "parvaṇi",
-"quick_gloss": "at-festival"
+"quick_gloss": "on-festival"
 },
 {
 "surface": "madhupānayuk",
@@ -630,19 +618,19 @@
 "tokens": [
 {
 "surface": "śukle",
-"quick_gloss": "if-white"
+"quick_gloss": "in-bright-fortnight"
 },
 {
 "surface": "yadi",
-"quick_gloss": "if-drinks-wine"
+"quick_gloss": "if"
 },
 {
 "surface": "pivenmadyaṃ",
-"quick_gloss": "pivenmadyaṃ"
+"quick_gloss": "should-drink-wine"
 },
 {
 "surface": "ādyante",
-"quick_gloss": "at-beginning-end"
+"quick_gloss": "at-beginning-and-end"
 },
 {
 "surface": "sambidāṃ",
@@ -663,11 +651,11 @@
 "tokens": [
 {
 "surface": "śukle",
-"quick_gloss": "white"
+"quick_gloss": "in-bright-fortnight"
 },
 {
 "surface": "cādyaṃ",
-"quick_gloss": "and-beginning"
+"quick_gloss": "and-at-beginning"
 },
 {
 "surface": "pivet",
@@ -679,11 +667,11 @@
 },
 {
 "surface": "kṛṣṇe",
-"quick_gloss": "black"
+"quick_gloss": "in-dark-fortnight"
 },
 {
 "surface": "cādyaṃ",
-"quick_gloss": "and-beginning"
+"quick_gloss": "and-at-beginning"
 },
 {
 "surface": "pivenmadhu",
@@ -699,12 +687,24 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "tvaritāyāstamodbhūtamityānandasya",
-"quick_gloss": "quickly-arisen"
+"surface": "tvaritāyāḥ",
+"quick_gloss": "of-quick-one"
+},
+{
+"surface": "tamodbhūtam",
+"quick_gloss": "arisen-at-sunset"
+},
+{
+"surface": "iti",
+"quick_gloss": "thus"
+},
+{
+"surface": "ānandasya",
+"quick_gloss": "of-bliss"
 },
 {
 "surface": "lakṣaṇam",
-"quick_gloss": "lakṣaṇam"
+"quick_gloss": "characteristic"
 }
 ]
 }

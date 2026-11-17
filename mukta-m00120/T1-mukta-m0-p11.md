@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p11-v251
-[mokṣam](mokṣaṃ) [bhāvanty](bhāvanty) [uttamāḥ](uttamāś) [ca](ca) [bhāva-atītāḥ](bhāvātītāḥ) [tat-uttamāḥ](taduttamāḥ)
+[liberation](mokṣaṃ) [they-manifest](bhāvanty) [excellent-ones](uttamāḥ) [and](ca) [beyond-states](bhāvātītāḥ) [their-excellent](taduttamāḥ)
 
 ## mukta-m0-p11-v252
-[uttamāḥ](uttamā) [mokṣa-dā-ācārāḥ](mokṣadācārāḥ) [sva-icchā-ācārāḥ](svecchācārāḥ) [tat-uttamāḥ](taduttamāḥ)
+[excellent-ones](uttamāḥ) [liberation-giving-practices](mokṣadācārāḥ) [self-willed-practices](svecchācārāḥ) [their-excellent](taduttamāḥ)
 
 ## mukta-m0-p11-v253
-[mokṣam](mokṣaṃ) [paśyanti](paśyanty) [uttamāḥ](uttamāś) [ca](ca) [na-paśyanti](nāpaśyanty) [uttama-uttamāḥ](uttamottamāḥ)
+[liberation](mokṣaṃ) [they-see](paśyanti) [excellent-ones](uttamāḥ) [and](ca) [not-see](nāpaśyanti) [supreme-excellent](uttamottamāḥ)
 
 ## mukta-m0-p11-v254
-[uttamāḥ](uttamā) [mokṣa-bhītāḥ](mokṣabhītāś) [ca](ca) [bhītaḥ](bhīto) [na-asti](nāsty) [uttama-uttamāḥ](uttamottamāḥ)
+[excellent-ones](uttamāḥ) [liberation-fearing](mokṣabhītāḥ) [and](ca) [fearing](bhītaḥ) [not-is](nāsti) [supreme-excellent](uttamottamāḥ)
 
 ## mukta-m0-p11-v255
-[jñānī](jñānī) [janma-uttamaḥ](janmottamaḥ) [muktaḥ](mokto) [janma](janma) [na-asti](nāsty) [uttama-uttamaḥ](uttamottamaḥ)
+[knower](jñānī) [birth-excellent](janmottamaḥ) [liberated](muktaḥ) [birth](janma) [not-is](nāsti) [supreme-excellent](uttamottamaḥ)
 
 ## mukta-m0-p11-v256
-[uttamaḥ](uttamaś) [ca](ca) [eka-janmā](ekajanmā) [api](api) [janma](janma) [na-asti](nāsty) [uttama-uttamaḥ](uttamottamaḥ)
+[excellent-one](uttamaḥ) [and](ca) [one-birth-even](ekajanmāpi) [birth](janma) [not-is](nāsti) [supreme-excellent](uttamottamaḥ)
 
 ## mukta-m0-p11-v257
-[uttamam](uttamaṃ) [yoni-yantraḥ](yoniyantraś) [ca](ca) [sarva-yantra-uttama-uttamam](sarvayantottamottamam)
+[excellent](uttamaṃ) [womb-instrument](yoniyantraṃ) [ca](ca) [all-instruments](sarvayantottamottamam)
 
 ## mukta-m0-p11-v258
-[saptama](saptama) [ullāsaḥ](ullāsaḥ)
+[seventh-ullāsa](saptamollāsaḥ)
 
 ## mukta-m0-p11-v259
-[ācāraḥ](ācārastrividho) [trividhaḥ](trividho) [devi](devi) [krameṇa](krameṇa) [udāhṛtaḥ](udāhṛto) [mayā](mayā)
+[conduct](ācāraḥ) [threefold](trividhaḥ) [goddess](devi) [in-order](krameṇa) [declared](udāhṛtaḥ) [by-me](mayā)
 
 ## mukta-m0-p11-v260
-[eka-bhāvaḥ](ekabhāvaḥ) [param](paraṃ) [brahma](brahma) [sarva-vighna-praṇāśakam](sarvavighnapraṇāśakam)
+[one-state](ekabhāvaḥ) [supreme](paraṃ) [brahman](brahma) [all-obstacles-destroying](sarvavighnapraṇāśakam)
 
 ## mukta-m0-p11-v261
-[eka-bhāvaḥ](ekabhāvaḥ) [katham](kathaṃ) [deva](deva) [mama](mama) [sthāne](sthāne) [prakāśaya](prakāśaya)
+[one-state](ekabhāvaḥ) [how](kathaṃ) [god](deva) [my](mama) [place](sthāne) [reveal](prakāśaya)
 
 ## mukta-m0-p11-v262
-[kumārī](kumārī) [tatra](tatra) [vikhyātā](vikhyātā) [yantra-tantra-phala-pradā](yantra-tantraphalapradā)
+[maiden](kumārī) [there](tatra) [renowned](vikhyātā) [yantra-tantra-fruit-giving](yantra-tantraphalapradā)
 
 ## mukta-m0-p11-v263
-[tatra](tatra) [bhāvaḥ](bhāvaḥ) [prakāśaḥ](prakāśo) [yaḥ](yaḥ) [sa](sa) [bhāvaḥ](bhāvaḥ) [paramaḥ](paramo) [mataḥ](mataḥ)
+[there](tatra) [state](bhāvaḥ) [manifestation](prakāśaḥ) [which](yaḥ) [that](saḥ) [state](bhāvaḥ) [supreme](paramaḥ) [considered](mataḥ)
 
 ## mukta-m0-p11-v264
-[tāvat](tāvad) [yuvatī](yuvatī) [vikhyātā](vikhyātā) [tasyām](tasyāṃ) [pūjā](pūjā) [mahā-phalā](mahāphalā)
+[so-long](tāvat) [young-woman](yuvatī) [renowned](vikhyātā) [in-her](tasyāṃ) [worship](pūjā) [great-fruit](mahāphalā)
 
 ## mukta-m0-p11-v265
-[tad-ante](tadante) [ṣoḍaśa-abde](ṣoḍaśābde) [ca](ca) [kalā](kalā) [sādhya-kalā](sādhyakalā) [śive](śive)
+[then-after](tadante) [sixteenth-year](ṣoḍaśābde) [ca](ca) [art](kalā) [accomplished-art](sādhyakalā) [śiva](śive)
 
 ## mukta-m0-p11-v266
-[kalā](kalā) [kā](kā) [parameśāna](parameśāna) [mama](mama) [sthāne](sthāne) [prakāśaya](prakāśaya)
+[art](kalā) [which](kā) [supreme-lord](parameśāna) [my](mama) [place](sthāne) [reveal](prakāśaya)
 
 ## mukta-m0-p11-v267
-[kāma-vāyu-mujjhitāyāḥ](kāmavāyumujjhitāyāḥ) [pūjane](pūjane) [na-asti](nāsti) [yogyatā](yogyatā)
+[desire-wind-abandoned](kāmavāyumujjhitāyāḥ) [in-worship](pūjane) [not-is](nāsti) [fitness](yogyatā)
 
 ## mukta-m0-p11-v268
-[kumārīm](kumārīṃ) [pūjayet](pūjayed) [devi](devi) [kāma-bhāvena](kāmabhāvena) [pūjayet](pūjayet)
+[maiden](kumārīṃ) [worship](pūjayet) [goddess](devi) [desire-state](kāmabhāvena) [with](pūjayet)
 
 ## mukta-m0-p11-v269
-[aṣṭama](aṣṭama) [ullāsaḥ](ullāsaḥ)
+[eighth-ullāsa](aṣṭamollāsaḥ)
 
 ## mukta-m0-p11-v270
-[siddhāntam](siddhāntaṃ) [vā](vā) [maheśāni](maheśāni) [kaula-bhāvam](kaulabhāvaṃ) [samāśritam](samāśritam)
+[conclusion](siddhāntaṃ) [or](vā) [great-goddess](maheśāni) [kaula-state](kaulabhāvaṃ) [resorted](samāśritam)
 
 ## mukta-m0-p11-v271
-[divyaḥ](divyaḥ) [siddhantaḥ](siddhantaḥ) [kaulaḥ](kaulaś) [ca](ca) [ṣaṭ-prakāraḥ](ṣaṭprakāraḥ) [katham](kathaṃ) [vada](vada)
+[divine](divyaḥ) [conclusion](siddhantaḥ) [kaula](kaulaḥ) [ca](ca) [sixfold](ṣaṭprakāraḥ) [how](kathaṃ) [say](vada)
 
 ## mukta-m0-p11-v272
-[caturdhā](caturdhā) [divyaḥ](divyaḥ) [kaulaḥ](kaulaś) [ca](ca) [śakteḥ](śakteś) [ca](ca) [puruṣasya](puruṣasya) [ca](ca)
+[fourfold](caturdhā) [divine](divyaḥ) [kaula](kaulaḥ) [ca](ca) [of-śakti](śakteḥ) [ca](ca) [of-man](puruṣasya) [ca](ca)
 
 ## mukta-m0-p11-v273
-[ṣaḍ-ācāram](ṣaḍācāraṃ) [catur-bhāvam](caturbhāvaṃ) [kaula-jñānam](kauljñānañ) [ca](ca) [kim](kiṃ) [vada](vada)
+[six-conducts](ṣaḍācāraṃ) [four-states](caturbhāvaṃ) [kaula-knowledge](kauljñānaṃ) [ca](ca) [what](kiṃ) [say](vada)
 
 ## mukta-m0-p11-v274
-[caturdhā-bhāva-saṃyutāt](caturdhābhāvasaṃyutāt)
+[fourfold-state-endowed](caturdhābhāvasaṃyutāt)
 
 ## mukta-m0-p11-v275
-[vīraḥ](vīraś) [ca](ca) [dvividhaḥ](dvividho) [devi](devi) [vibhāvaḥ](vibhāvaś) [ca](ca) [sa-bhāvakaḥ](sabhāvakaḥ)
+[hero](vīraḥ) [ca](ca) [twofold](dvividhaḥ) [goddess](devi) [with-state](vibhāvaḥ) [ca](ca) [with-nature](sabhāvakaḥ)

@@ -2,76 +2,52 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p09-v201
-by-māyā-covered-self (māyayācchāditātmānaṃ) in-middle (tanmadhye) with-equal-nature (samabhāvataḥ)
-
+[by-maya](māyayā) [covered](ācchādita) [self](ātmānaṃ) [in-that-middle](tanmadhye) [from-equal-state](samabhāvataḥ)
 ## mukta-m0-p09-v202
-great-brahmā (mahābrahmā) he (sa) indeed-self (evātmā) name-only-differentiator (nāmamātravibhedakaḥ)
-
+[mahā-brahmā](mahābrahmā) [he](sa) [indeed-self](evātmā) [name-only-differentiator](nāmamātravibhedakaḥ)
 ## mukta-m0-p09-v203
-various-nature-mind (nānābhāvamano) whose (yasya) his (tasya) liberation-not (muktirna) exists (vidyate)
-
+[different-states-mind](nānābhāvamano) [whose](yasya) [his](tasya) [liberation-not](muktirna) [is-found](vidyate)
 ## mukta-m0-p09-v204
-there (tatra) brahmā (brahmā) there (tatra) viṣṇu (viṣṇuḥ) there (tatra) rudra (rudraḥ) should-be-placed (pravinyaset)
-
+[there](tatra) [brahma](brahmā) [there](tatra) [viṣṇu-there](viṣṇustatra) [rudra](rudraḥ) [is-placed](pravinyaset)
 ## mukta-m0-p09-v205
-some-say (kecidvadanti) rudra (rudraḥ) he (sa) one (ekaḥ) god (devo) stainless (nirañjanaḥ)
-
+[some-say](kecidvadanti) [rudra](rudraḥ) [he](sa) [one](eko) [god](devo) [stainless](nirañjanaḥ)
 ## mukta-m0-p09-v206
-there-indeed (tatraiva) abides (vartate) eternal (nityaḥ) chickpea-shaped-form (caṇakākārarūpakaḥ)
-
+[there-only](tatraiva) [abides](vartate) [eternal-chickpea-form](nityaścaṇakākārarūpakaḥ)
 ## mukta-m0-p09-v207
-eternal-bliss-giving (nityānandakarā) goddess (devi) kālikā (kālikā) right-side (dakṣiṇe) situated (sthitā)
-
+[eternal-bliss-maker](nityānandakarā) [goddess](devi) [kālikā](kālikā) [on-right](dakṣiṇe) [situated](sthitā)
 ## mukta-m0-p09-v208
-is-born (jāyate) and (ca) on-earth (kṣitau) tree (vṛkṣaḥ) as (yathā) in-earth (pṛthvyāṃ) dissolves (pralīyate)
-
+[is-born](jāyate) [and](ca) [on-earth](kṣitau) [tree](vṛkṣo) [as](yathā) [in-earth](pṛthvyāṃ) [dissolves](pralīyate)
 ## mukta-m0-p09-v209
-in-cloud (jalade) lightning-birth (taḍitutpattiḥ) as (yathā) in-cloud (meghe) dissolves (pralīyate)
-
+[in-water-cloud](jalade) [lightning-birth](taḍitutpattir) [as](yathā) [in-cloud](meghe) [dissolves](pralīyate)
 ## mukta-m0-p09-v210
-thus (tathā) at-dissolution-time (pralayakāle) tu (tu) again (punar) in-her (tasyāṃ) dissolves (pralīyate)
-
+[so](tathā) [at-dissolution-time](pralayakāletu) [again](punar) [in-her](tasyāṃ) [dissolves](pralīyate)
 ## mukta-m0-p09-v211
-by-one-part (ekāṃśena) becomes-brahmā (bhavedbrahmā) by-one-part (ekāṃśena) janārdana (janārdanaḥ)
-
+[by-one-part](ekāṃśena) [becomes-brahma](bhavedbrahmā) [by-one-part](ekāṃśena) [janārdana](janārdanaḥ)
 ## mukta-m0-p09-v212
-other (aparā) she (sā) mahākālī (mahākālī) of-rivers-etc (nadyādīnāṃ) like-ocean (samudravat)
-
+[other](aparā) [she](sā) [mahākālī](mahākālī) [of-rivers-etc](nadyādīnāṃ) [like-ocean](samudravat)
 ## mukta-m0-p09-v213
-in-cow-hoof (goṣpade) what (kiṃ) know (vijānīyāt) of-ocean (samudrasya) water (jalaṃ) O-śiva (śive)
-
+[in-cow-hoof](goṣpade) [what](kiṃ) [know](vijānīyāt) [of-ocean](samudrasya) [water](jalaṃ) [o-śiva](śive)
 ## mukta-m0-p09-v214
-by-creator (sṛṣṭikartryā) when (yadā) by-kālī (kālyā) are-protected (pālyante) and (ca) gods-etc (surādayaḥ)
-
+[by-creator](sṛṣṭikartryā) [when](yadā) [by-kālī](kālyā) [are-protected](pālyante) [and](ca) [gods-etc](surādayaḥ)
 ## mukta-m0-p09-v215
-therefore (ato) liberation-giving (nirvāṇadā) kālī (kālī) of-man (puruṣasya) and (ca) comfort-giving (śarmadā)
-
+[therefore](ato) [liberation-giver](nirvāṇadā) [kālī](kālī) [of-man](puruṣasya) [and](ca) [comfort-giver](śarmadāa)
 ## mukta-m0-p09-v216
-as (yathā) sun (sūryaḥ) world-illuminates (jagadbhāti) knowable (jñeyaṃ) and (ca) momentary (kṣaṇakaṃ) thus (tathā)
-
+[as](yathā) [sun](sūryo) [world-shines](jagadbhāti) [knowable-and](jñeyañca) [momentary](kṣaṇakaṃ) [so](tathā)
 ## mukta-m0-p09-v217
-again (punaḥ) at-dissolution-time (pralīna-kāle) api (api) two-one (dvidhaikaṃ) man-hidden (puṃsagopitam)
-
+[again](punaḥ) [at-dissolved-time-even](pralīna-kāle'pi) [two-one](dvidhaikaṃ) [man-hidden](puṃsagopitam)
 ## mukta-m0-p09-v218
-eternal-non-eternal (nityānityaṃ) when-one-self (yadaikātmā) then-one (tadaikaṃ) brahma-form (brahmavigraham)
-
+[eternal-non-eternal](nityānityaṃ) [when-one-self](yadaikātmā) [that-one](tadaikaṃ) [brahma-form](brahmavigraham)
 ## mukta-m0-p09-v219
-sixth-ullāsa (ṣaṣṭhollāsaḥ)
-
+[sixth-illumination](ṣaṣṭhollāsaḥ)
 ## mukta-m0-p09-v220
-indicated (sūcitaṃ) O-parameshānī (parameśāni) tell (kathayasva) with-compassion (anukampayā)
-
+[indicated](sūcitaṃ) [o-supreme-goddess](parameśāni) [tell-with-compassion](kathayasvānukampayā)
 ## mukta-m0-p09-v221
-thus-too (tathāpi) in-śakti-tantras (śaktitantreṣu) special (viśeṣaṃ) all-means (sarvasādhanam)
-
+[nevertheless](tathāpi) [in-śakti-tantras](śaktitantreṣu) [special](viśeṣaṃ) [all-means](sarvasādhanam)
 ## mukta-m0-p09-v222
-by-conduct (ācāreṇa) without (vinā) bhāva (bhāvaṃ) never (kadācinnaiva) arises (jāyate)
-
+[without-conduct](ācāreṇa) [without](vinā) [state](bhāvaṃ) [never](kadācinnaiva) [arises](jāyate)
 ## mukta-m0-p09-v223
-bhāva-possessor (bhāvavān) fruit-receiver (phalabhāk) or (kimbā) by-what (kena) or-conduct-possessor (vācāravān) becomes (bhavet)
-
+[state-possessor](bhāvavān) [fruit-recipient](phalabhāk) [or](kimbā) [by-what](kena) [conduct-possessor](vācāravān) [becomes](bhavet)
 ## mukta-m0-p09-v224
-some (kiñcid) bhāva (bhāvaṃ) to-be-spoken (pravaktavyaṃ) direction-only-view (diṅmātradarśanaṃ) as (yathā)
-
+[some](kiñcid) [state](bhāvaṃ) [to-be-declared](pravaktavyaṃ) [direction-only-view](diṅmātradarśanaṃ) [as](yathā)
 ## mukta-m0-p09-v225
-thus (tathā) bhāva (bhāvaṃ) O-mahādeva (mahādeva) by-mind (manasā) is-contemplated (paribhāvyate)
+[so](tathā) [state](bhāvaṃ) [mahādeva](mahādeva) [by-mind](manasā) [is-contemplated](paribhāvyate)
