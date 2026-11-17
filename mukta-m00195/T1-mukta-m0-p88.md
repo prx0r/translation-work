@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p88-v2176
-[destroy](bādhasvaducchanām)
+[bādhasvaducchanām](bādhasvaducchanām)
 
 ## mukta-m0-p88-v2177
-[hold](dadhatyoṣagūṃ) [wealth](rayiṃ) [in-me](mayi)
+[dadhatyoṣagūṃ](dadhatyoṣagūṃ) [rayiṃ](rayiṃ) [mayi](mayi)
 
 ## mukta-m0-p88-v2178
-[shelter](śarmaṃtesyāmatrivarūtha) [rising](udbhau)
+[śarmaṃtesyāmatrivarūtha](śarmaṃtesyāmatrivarūtha) [udbhau](udbhau)
 
 ## mukta-m0-p88-v2179
-[rivals](sapatnān)
+[sapatnān](sapatnān)
 
 ## mukta-m0-p88-v2180
-[to-dawn](uṣase) [to-setting](nimuce) [may-it-be](bhavet)
+[uṣase](uṣase) [nimuce](nimuce) [bhavet](bhavet)
 
 ## mukta-m0-p88-v2181
-[vritra-slayer](vṛtrahañjahi) [wealth](vasvasmabhyamābhara)
+[vṛtrahañjahi](vṛtrahañjahi) [vasvasmabhyamābhara](vasvasmabhyamābhara)
 
 ## mukta-m0-p88-v2182
-[having-done](kṛtvā) [to-you](tubhyamagne) [we-cover](pidadhmasi)
+[kṛtvā](kṛtvā) [tubhyamagne](tubhyamagne) [pidadhmasi](pidadhmasi)
 
 ## mukta-m0-p88-v2183
-[to-him](tasmai) [setting](nimruk) [and](ca) [all-sins](sarvapāpagūṃsamūhatām)
+[tasmai](tasmai) [nimruk](nimruk) [ca](ca) [sarvapāpagūṃsamūhatām](sarvapāpagūṃsamūhatām)
 
 ## mukta-m0-p88-v2184
-[to-jatavedas](jātavedase'gnaye) [and](ca) [then-tyaga](tatastyāgognaye) [may-it-be](bhavet)
+[jātavedase'gnaye](jātavedase'gnaye) [ca](ca) [tatastyāgognaye](tatastyāgognaye) [bhavet](bhavet)
 
 ## mukta-m0-p88-v2185
-[washing](prakṣāyato) [mother's](mātasyoccheṣi) [anything](kiñcana)
+[prakṣāyato](prakṣāyato) [mātasyoccheṣi](mātasyoccheṣi) [kiñcana](kiñcana)
 
 ## mukta-m0-p88-v2186
-[from-us](asmāndiśāśca) [all](sarvāgūṃ) [those](stānmapyapākuru)
+[asmāndiśāśca](asmāndiśāśca) [sarvāgūṃ](sarvāgūṃ) [stānmapyapākuru](stānmapyapākuru)
 
 ## mukta-m0-p88-v2187
-[thus](tathāntime) [to-vaishvanara](vaiśvānarāya) [and](ca)
+[tathāntime](tathāntime) [vaiśvānarāya](vaiśvānarāya) [ca](ca)
 
 ## mukta-m0-p88-v2188
-[rule](kṣatraṃ) [my](me) [victorious](jiṣṇu) [of-whom](yasyāhamasmi) [priest](purohitaḥ)
+[kṣatraṃ](kṣatraṃ) [me](me) [jiṣṇu](jiṣṇu) [yasyāhamasmi](yasyāhamasmi) [purohitaḥ](purohitaḥ)
 
 ## mukta-m0-p88-v2189
-[by-brahman](brahmaṇāmitrānunnuyāmi) [enemies](mitrān) [I-drive](unnuyāmi) [own](svāṃ) [I](aham)
+[brahmaṇāmitrānunnuyāmi](brahmaṇāmitrānunnuyāmi) [svāṃ](svāṃ) [aham](aham)
 
 ## mukta-m0-p88-v2190
-[again-studied](punarādhītaṃ) [my](ma) [came](agāt)
+[punarādhītaṃ](punarādhītaṃ) [ma](ma) [agāt](agāt)
 
 ## mukta-m0-p88-v2191
-[fire](vahniṃstuvīta) [praise](stuvīta) [with-twelve-verses](dvādaśarcabhiḥ)
+[vahniṃstuvīta](vahniṃstuvīta) [dvādaśarcabhiḥ](dvādaśarcabhiḥ)
 
 ## mukta-m0-p88-v2192
-[these-bonds](etānpāśānpramuñcanveda) [releasing](pramuñcan) [veda](veda) [he](sa) [us](no) [release](muñcatu) [from-distress](duritādavadyāt)
+[etānpāśānpramuñcanveda](etānpāśānpramuñcanveda) [sa](sa) [no](no) [muñcatu](muñcatu) [duritādavadyāt](duritādavadyāt)
 
 ## mukta-m0-p88-v2193
-[not-knowing](anājānanmanasā) [mind](manasā) [begging](yācamāno) [what](yadatraino) [here](atra) [that](tatsuvāmi)
+[anājānanmanasā](anājānanmanasā) [yācamāno](yācamāno) [yadatraino](yadatraino) [ava](ava) [tatsuvāmi](tatsuvāmi)
 
 ## mukta-m0-p88-v2194
-[what-gives](yacchatāmetadbaddhakāmocanam) [this](etad) [bound-desire-release](baddhakāmocanam)
+[yacchatāmetadbaddhakāmocanam](yacchatāmetadbaddhakāmocanam)
 
 ## mukta-m0-p88-v2195
-[fallen](pracyuto) [embryo](garbhaḥ) [all](sarvānyatho) [after](anuṣva)
+[pracyuto](pracyuto) [garbhaḥ](garbhaḥ) [sarvānyatho](sarvānyatho) [anuṣva](anuṣva)
 
 ## mukta-m0-p88-v2196
-[wife-examination](jāyāparīkṣagūṃrabhethāḥ)
+[jāyāparīkṣagūṃrabhethāḥ](jāyāparīkṣagūṃrabhethāḥ)
 
 ## mukta-m0-p88-v2197
-[which](yāni) [we-did](cakṛma) [let-do](karotu) [me](māmanehasam) [blameless](anehasam)
+[yāni](yāni) [cakṛma](cakṛma) [karotu](karotu) [māmanehasam](māmanehasam)
 
 ## mukta-m0-p88-v2198
-[therefore](tasmādanṛṇaṃ) [debt-free](anṛṇaṃ) [let-make](kṛṇotu)
+[tasmādanṛṇaṃ](tasmādanṛṇaṃ) [kṛṇotu](kṛṇotu)
 
 ## mukta-m0-p88-v2199
-[let-make](kṛṇotu)
+[kṛṇotu](kṛṇotu)
 
 ## mukta-m0-p88-v2200
-[by-mantra](mantreṇa) [tyaga](tyāgo) [to-vaishvanara](vaiśvānarāya) [and](ca)
+[mantreṇa](mantreṇa) [tyāgo](tyāgo) [vaiśvānarāya](vaiśvānarāya) [ca](ca)
