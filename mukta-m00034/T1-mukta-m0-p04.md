@@ -5,73 +5,73 @@
 [false-imagination-born](mithyāvikalpajanitaṃ) [existence-liberation-net](bhavamokṣajālam)
 
 ## mukta-m0-p04-v77
-[thus](iti) [glorious-great-system-revelation](śrīmahānayaprakāśe) [pedestal-essence-determination](pīṭhasvarūpanirūpaṇaṃ) [named](nāma) [second-illumination](dvitīyollāsaḥ)
+[thus](iti) [in-shining-great-way](śrīmahānayaprakāśe) [seat-essence-determination](pīṭhasvarūpanirūpaṇaṃ) [named](nāma) [second-illumination](dvitīyollāsaḥ)
 
 ## mukta-m0-p04-v78
-[contraction-expansion-power](ākuñcanaprasāraṇavaśato) [where](yatra) [is](asti) [that-word](tatpadaṃ) [having-bowed](natvā)
+[contraction-expansion-dependence](ākuñcanaprasāraṇavaśato) [where-is](yatrāsti) [that-state](tatpadaṃ) [bowing](natvā)
 
 ## mukta-m0-p04-v79
-[empirical-essence](prātītikasvarūpaṃ) [we-speak](brūmo) [sky-lord-circle](vyomeśvarīcakram)
+[apparent-essence](prātītikasvarūpaṃ) [we-speak](brūmo) [sky-goddess-wheel](vyomeśvarīcakram)
 
 ## mukta-m0-p04-v80
-[from-root](ā mūlāt) [its](tasya) [arrangement](saṃsthānaṃ) [is-spoken](kathyate) [consciousness-self](saṃvidātmanā)
+[from-root](ā mūlāt) [its](tasya) [arrangement](saṃsthānaṃ) [is-said](kathyate) [consciousness-self](saṃvidātmanā)
 
 ## mukta-m0-p04-v81
-[not](na) [possible](śakyaṃ) [that](tad) [deny](apahnotuṃ) [by-self-experience-established](svasaṃvedanasiddhitaḥ)
+[not](na) [possible](śakyaṃ) [that-deny](tadapahnotuṃ) [from-self-awareness-proof](svasaṃvedanasiddhitaḥ)
 
 ## mukta-m0-p04-v82
-[knowledge-essence](jñānātmatāṃ) [without](vinā) [because](yasmād) [externality](bāhyatāpi) [not](na) [established](sidhyati)
+[knowledge-self-ness](jñānātmatāṃ) [without](vinā) [because](yasmād) [externality-even](bāhyatāpi) [not](na) [is-proved](sidhyati)
 
 ## mukta-m0-p04-v83
-[experience](saṃvedanaṃ) [separate](pṛthak) [its](tasya) [even-by-omniscient](sarvajñenāpi) [difficult](duṣkaram)
+[awareness](saṃvedanaṃ) [separate](pṛthak) [its](tasya) [even-all-knower](sarvajñenāpi) [difficult](duṣkaram)
 
 ## mukta-m0-p04-v84
-[knowledge-superiority](jñānādhikatvāt) [of-establishment](siddhestu) [not](na) [māyā](māyā) [nor](nāpi) [latent-impression](vāsanā)
+[knowledge-superiority](jñānādhikatvāt) [from-proof-but](siddhestu) [not](na) [illusion](māyā) [not-even](nāpi) [latent-impression](vāsanā)
 
 ## mukta-m0-p04-v85
-[imagined-universe-essence](kalpyaviśvātmakatvepi) [that](tad) [transcendence](uttīrṇatayā) [established](sthitam)
+[conceivable-world-self-ness-even](kalpyaviśvātmakatve'pi) [that-transcendence-by](taduttīrṇatayā) [situated](sthitam)
 
 ## mukta-m0-p04-v86
-[that-transcendent-essence](taduttīrṇasvarūpāyāḥ) [its](tasyāḥ) [not-experience](nānubhavaḥ) [then](tadā)
+[that-transcendent-essence-of-her](taduttīrṇasvarūpāyās) [its](tasyā) [non-experience](nānubhavas) [then](tadā)
 
 ## mukta-m0-p04-v87
-[unveiled-essence](nirāvaraṇarūpāyāḥ) [of-consciousness](cito) [universe-essence](viśvātmatā) [whence](kutaḥ)
+[unobscured-essence-of-consciousness](nirāvaraṇarūpāyāścito) [world-self-ness](viśvātmatā) [whence](kutaḥ)
 
 ## mukta-m0-p04-v88
-[blue-mode](nīlaprakāro) [not](na) [indeed](eva) [would-be](syād) [self-consciousness-manifestation-power](ātmasaṃvitprathābalāt)
+[blue-mode](nīlaprakāro) [not-indeed](naiva) [would-be](syād) [self-awareness-appearance-strength](ātmasaṃvitprathābalāt)
 
 ## mukta-m0-p04-v89
-[blue-distinct-manifestation-established](nīlābhinnaprathāsiddhā) [blueness](nīlatāpi) [is-experienced](anubhūyate)
+[blue-non-different-appearance-proved](nīlābhinnaprathāsiddhā) [blueness-even](nīlatāpy) [is-experienced](anubhūyate)
 
 ## mukta-m0-p04-v90
-[manifestation-externality](prathābahiṣṭvepi) [this-very](eṣaiva) [reason-stated](nyāyoktiḥ) [because](yadataḥ) [separate](pṛthak)
+[appearance-outside-even](prathābahiṣṭve'pi) [this-very](eṣaiva) [reasoning](nyāyoktir) [because](yadataḥ) [separate](pṛthak)
 
 ## mukta-m0-p04-v91
-[but](natu) [pure-essence](śuddhasvarūpāyāḥ) [manifestation](prathāyāḥ) [indeed](eva) [expansion](jṛmbhaṇāt)
+[not-but](natu) [pure-essence-of](śuddhasvarūpāyāḥ) [appearance-only](prathāyā eva) [expansion-from](jṛmbhaṇāt)
 
 ## mukta-m0-p04-v92
-[manifestation](prakāśa) [indeed](eva) [universe](viśvaṃ) [tu](tu) [all-experience-perfumed](sarvānubhavavāsitam)
+[light](prakāśa) [indeed](eva) [world](viśvaṃ) [but](tu) [all-experience-perfumed](sarvānubhavavāsitam)
 
 ## mukta-m0-p04-v93
-[because](yadataḥ) [self-manifestation](svapratho) [also](api) [this](eṣa) [established](siddho) [universe-regulated](viśvaniyantritaḥ)
+[because](yadataḥ) [self-appearance-even](svapratho'pyeṣa) [proved](siddho) [world-governed](viśvaniyantritaḥ)
 
 ## mukta-m0-p04-v94
-[is-perceived](sañcetyate) [entering](samāviśya) [universe-experience-ground](viśvānubhavabhūmikām)
+[is-perceived](sañcetyate) [entering](samāviśya) [world-experience-stage](viśvānubhavabhūmikām)
 
 ## mukta-m0-p04-v95
-[nirvikalpa-supreme-i-essence](nirvikalpaparāhantāsvarūpā) [manifests](prathate) [manifestation](prathā)
+[non-conceptual-supreme-i-ness-essence](nirvikalpaparāhantāsvarūpā) [appears](prathate) [appearance](prathā)
 
 ## mukta-m0-p04-v96
-[particular-experience](viśeṣānubhavo) [not](nāsti) [dispute](vivādo) [inner-outer](antarbahiṣṭhayā)
+[particular-experience](viśeṣānubhavo) [not-is](nāsti) [dispute](vivādo) [inside-outside-ness](antarbahiṣṭhayā)
 
 ## mukta-m0-p04-v97
-[inner-facing-manifestation](antarmukhaprakāśo) [yaḥ](yaḥ) [supreme-i-essence](parāhantātmakaḥ) [established](sthitaḥ)
+[inward-facing-light](antarmukhaprakāśo) [which](yaḥ) [supreme-i-nature](parāhantātmakaḥ) [situated](sthitaḥ)
 
 ## mukta-m0-p04-v98
-[otherwise](anyathā) [blue-consciousness](nīlasaṃvittiḥ) [also](api) [not](na) [indeed](eva) [established](prasidhyati)
+[otherwise](anyathā) [blue-awareness-even](nīlasaṃvittirapi) [not-indeed](naiva) [is-established](prasidhyati)
 
 ## mukta-m0-p04-v99
-[reflection](ābhāso) [api](api) [how](kathaṃ) [established](sidhyet) [indeed](kila) [experience](saṃvedanaṃ) [without](vinā)
+[reflection-even](ābhāso'pi) [how](kathaṃ) [would-be](sidhyet) [indeed](kila) [awareness](saṃvedanaṃ) [without](vinā)
 
 ## mukta-m0-p04-v100
-[reflection-independent](ābhāsanirapekṣātra) [to-be-seen](draṣṭavyā) [consciousness](saṃvidaḥ) [established](sthitaḥ)
+[reflection-independent](ābhāsanirapekṣā) [here](atra) [to-be-seen](draṣṭavyā) [consciousness](saṃvidaḥ) [situated](sthitaḥ)

@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p11-v251
-[there](tatra) [as-enjoyer](bhoktṛtayā) [by-enjoyments](bhogaiḥ) [body](śarīra)+[sense](indriya)+[objects](gocaraiḥ)
+there(tatra) as-enjoyer(bhoktṛtayā) by-enjoyments(bhogaiḥ) by-body-sense-objects(śarīra+indriya+gocaraiḥ)
 
 ## mukta-m0-p11-v252
-[cut-off](vicchinnā)+[cover](āvara)+[impurity](malānām)+[indeed](eva) [that](tat)+[origin](saṃbhavāt)
+cut-off(vicchinnā) of-covering(āvaraṇa) of-lotuses(malānām) eva(eva) of-that(tat) origin(saṃbhavāt)
 
 ## mukta-m0-p11-v253
-[māyā](māyā)+[indeed](eva) [cause](kāraṇaṃ) [pure](śuddha)+[impure](aśuddhayoḥ)+[great](mala)+[action](karmaṇoḥ)
+māyā(māyā) eva(eva) cause(kāraṇaṃ) of-pure-impure(śuddha+aśuddhayoḥ) of-black-white-karma(mala+karmaṇoḥ)
 
 ## mukta-m0-p11-v254
-[of-bindu](bindoḥ)+[discrimination](viveke) [suddenly](sahasā) [cut](cchidyate) [impurity-stalk](malakambukaḥ)
+of-drop(binduḥ) in-discrimination(viveke) suddenly(sahasā) is-cut(malakambukaḥ)
 
 ## mukta-m0-p11-v255
-[from-origin](saṃbhavāt)+[also](ca) [authority](adhikāra)+[impurity](mala)+[destruction](kṣayaḥ)+[that](tat)+[discrimination](viveke) [becomes](bhavati)
+from-origin(saṃbhavāt) and(ca) of-authority-mala(ādhikāra+mala) destruction(kṣayaḥ) that-discrimination(tat+viveke) occurs(bhavati)
 
 ## mukta-m0-p11-v256
-[transcended](uttīrṇa)+[māyā](māyām)+[self](ātmānaṃ) [great-māyā](mahāmāyā)+[attached](anuṣaṅgiṇam)
+transcended-māyā(uttīrṇa+māyam) self(ātmānam) great-māyā-attached(mahā+māyā+anuṣaṅgiṇam)
 
 ## mukta-m0-p11-v257
-[body](śarīra)+[etc](ādīni)+[produces](utpādayati)+[thus](iti)+[meaning](arthaḥ)
+body-etc(śarīra+ādīni) produces(utpādayati) thus-meaning(iti+arthaḥ)
 
 ## mukta-m0-p11-v258
-[as-ocean](yathodadhiḥ)+[above](upari)+[indeed](eva) [agitates](vikaroti)+[by-wind](anileraṇāt)
+as-ocean(yathā+udadhiḥ) above(upari) eva(eva) agitates(vikaroti) by-wind(anila+īraṇāt)
 
 ## mukta-m0-p11-v259
-[by-own](sva)+[effect](kārya)+[forms](rūpābhiḥ) [powers](kalābhiḥ) [previously-said](prāguktaṃ) [universe](viśvaṃ) [pervades](vyāpnoti) [thus](ceti)+[meaning](arthaḥ)
+by-own-function-forms(svaka+ārya+rūpābhiḥ) by-powers(kalābhiḥ) previously-said(prāg+uktam) universe(viśvam) pervades(vyāpnoti) thus-meaning(ca+iti+arthaḥ)
 
 ## mukta-m0-p11-v260
-[thus](evaṃ) [māyā](māyā)+[part](ekadeśena) [transforms](vikaroti) [so](tathā)+[all](akhilam)
+thus(evaṃ) by-one-part-of-māyā(māyā+eka+deśena) agitates(vikaroti) so(tathā) all(akhilam)
 
 ## mukta-m0-p11-v261
-[beginning](pragamaḥ) [becomes](saṃbhavatyeva)
+origin(pragamaḥ) occurs(saṃbhavati) eva(eva)
 
 ## mukta-m0-p11-v262
-[there](tatrā)+[unagitated](kṣubdhe) [becomes](bhaved) [enjoyment](bhogaḥ) [in-bindu](bindāv)+[bliss-formed](ānandarūpiṇi)
+there(tatra) unagitated(akṣubdhe) enjoyment(bhogaḥ) in-drop(bindau) bliss-formed(ānanda+rūpiṇi)
 
 ## mukta-m0-p11-v263
-[own-nature](svarūpa)+[abiding](niṣṭhe) [of-power](śakter)+[also](api)+[withdrawn](upasaṃhṛta)+[activity](vyāpāratvāt)+[dissolution](layaḥ)
+own-nature-abiding(svarūpa+niṣṭhe) of-power(śakteḥ) also(api) withdrawn-activity(upasaṃhṛta+vyāpāratvāt) dissolution(layaḥ)
 
 ## mukta-m0-p11-v264
-[one](eka)+[indeed](eva) [certainly](khalu) [consciousness-power](cicchaktiḥ) [of-śiva](śivasya) [inherent](samavāyinī)
+one(ekā) eva(eva) indeed(khalu) consciousness-power(cit+śaktiḥ) of-śiva(śivasya) inherent(samavāyinī)
 
 ## mukta-m0-p11-v265
-[by-her](tayā)+[this](etayā)+[connection](abhisambandhāt)+[one](ekaḥ) [god](devaḥ)+[threefold](tridhā) [becomes](bhavet)
+by-her(by-tayā) by-this(etayā) connection(abhisaṃbandhāt) one(devaḥ) threefold(tridhā) becomes(bhavet)
 
 ## mukta-m0-p11-v266
-[power](śaktiḥ)+[unobstructed](apratigha)+[vast](udāra)+[ray](marīci)+[collection](nicayātmikā)
+power(śaktiḥ) unobstructed(apratigha) abundant(udāra) ray-collection(marīci+nicaya+ātmikā)
 
 ## mukta-m0-p11-v267
-[without-cover](nirāvaraṇa)+[without-duality](nirdvandva)+[without-material](nirupādāna)+[glory](vaibhavā)
+uncovered(nirāvaraṇa) without-dual(nirdvandva) without-material(nirupādāna) glory(vaibhavā)
 
 ## mukta-m0-p11-v268
-[peaceful](śānta)+[risen](udita)+[manifestation](prapañca)+[etc](ādi)+[bindu](bindu)+[pervasion](vyāpti)+[strong](paṭīyasī)
+peaceful-risen-manifestation(śānta+udita+prapañca+ādi) drop-pervasion(bindu+vyāpti) very-strong(paṭīyasī)
 
 ## mukta-m0-p11-v269
-[beginning](ādi)+[middle](madhya)+[end](anta)+[without](rahita) [without](rahita) [all-bonds](sarvabandhanaiḥ)
+beginning-middle-end-less(ādi+madhya+anta+rahita) free(rahita) from-all-bonds(sarva+bandhanaiḥ)
 
 ## mukta-m0-p11-v270
-[consciousness](citiḥ)+[indeed](eva) [thought](matā)+[unfading](amlāna)+[glory](mahimā) [of-supreme](parameṣṭhinaḥ)
+consciousness(citiḥ) eva(eva) known(mata) unblemished(amlāna) glory(mahimā) of-supreme(parameṣṭhinaḥ)
 
 ## mukta-m0-p11-v271
-[by-her](tayā)+[this](etayā)+[special-connection](abhisambandhaviśeṣāt)+[eternal-formed](nityarūpayā)
+by-her(by-tayā) by-this(etayā) special-connection(abhisambandha+viśeṣāt) by-eternal-form(nitya+rūpayā)
 
 ## mukta-m0-p11-v272
-[bindu](binduḥ)+[filling](āpūrayan)+[sounds](nādaiḥ)+[atomic](āṇavaṃ) [consciousness-sky](cinnabhaḥ) [again](muhuḥ)
+drop(binduḥ) filling(āpūrayan) by-sounds(nādaiḥ) atomic(āṇavaṃ) consciousness-sky(cit+nabhaḥ) repeatedly(muhuḥ)
 
 ## mukta-m0-p11-v273
-[transforms](vikaroti) [as](yathā) [by-waves](lolaiḥ) [waves](kallolaiḥ)+[sounding](nādayan)+[sky](nabhaḥ)
+agitates(vikaroti) as(yathā) by-waves(lolaiḥ) by-waves(kallolaiḥ) sounding(nādayan) sky(nabhaḥ)
 
 ## mukta-m0-p11-v274
-[one](eka)+[many](aneka)+[division](vibhāga)+[indeed](eva) [by-effect](kāryabheda)+[is-perceived](vibhāvyate)
+one-many-division(eka+aneka+vibhāga) eva(eva) by-effect-difference(kārya+bhedāt) is-manifested(vibhāvyate)
 
 ## mukta-m0-p11-v275
-[desire](icchā)+[effect](kāryam)+[non-desire](anicchā)+[also](api) [doing](kurvāṇa)+[desire](icchā) [consciousness](cid)+[imperishable](avyayā)
+desire-action(icchā+kāryam) non-desire(api) doing(kurvāṇā) desire(icchā) consciousness(cid) imperishable(avyayā)

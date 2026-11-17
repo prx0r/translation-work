@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p03-v51
-[sarvajñatva](sarvajñatva) [siddhiḥ](siddhiḥ) [iti](iti) [uktaṃ](uktaṃ) [prāk](prāk)
+sarvajñatva-siddhiḥ iti uktaṃ prāk
 
 ## mukta-m0-p03-v52
-[upādāna+nimitta](upādānanimitta) [tu](tu) [phalena](phalena) [ca](ca) [samanvitaṃ](samanvitaṃ)
+upādāna-nimittaiḥ tu phalena ca samanvitam
 
 ## mukta-m0-p03-v53
-[upādāna+nimitta](upādānanimitta) [tu](tu) [phalena](phalena) [ca](ca) [samanvitaḥ](samanvitaḥ)
+upādāna-nimittaiḥ tu phalena ca samanvitaḥ
 
 ## mukta-m0-p03-v54
-[itthaṃ](itthaṃ) [sarva+artha+kāritvāt](sarvārthakāritvād) [dvi+rūpā](dvirūpā) [śaktiḥ](śaktiḥ) [ātmani](ātmani)
+ittham sarva-artha-kāritvāt dvi-rūpā śaktiḥ ātmani
 
 ## mukta-m0-p03-v55
-[yayā](yayā) [yuktaḥ](yukto) [maheśānaḥ](maheśānaḥ) [sarvaṃ](sarvaṃ) [vetti](vetti) [karoti](karoti) [ca](ca)
+yayā yuktaḥ maheśānaḥ sarvam vetti karoti ca
 
 ## mukta-m0-p03-v56
-[na](na) [kalā+piṇḍa+saṃbaddhaḥ](kalāpiṇḍasaṃbaddhaḥ) [saṃbaddhaḥ](saṃbaddho) [asau](asau) [yathā](yathā) [paśuḥ](paśuḥ)
+na kalā-piṇḍa-saṃbaddhaḥ saṃbaddhaḥ asau yathā paśuḥ
 
 ## mukta-m0-p03-v57
-[paśu+vat](paśuvat) [kalā+ādi+ātmaka+śarīra+abhāvāt](kalādyātmakaśarīrābhāvāt) [niṣkalaḥ](niṣkalo) [bhagavān](bhagavān) [iti](ityuktaṃ) [prāk](prāk)
+paśu-vat kalā-ādi-ātmaka-śarīra-abhāvāt niṣkalaḥ bhagavān iti uktaṃ prāk
 
 ## mukta-m0-p03-v58
-[nanu](nanu) [asya](asya) [niṣkalatve](niṣkalatve) [tu](tu) [na](na) [jñānaṃ](jñānaṃ) [na](na) [api](api) [kartṛtā](kartṛtā)
+nanu asya niṣkalatve tu na jñānam na api kartṛtā
 
 ## mukta-m0-p03-v59
-[jñāna+ādi+abhāvaḥ](jñānādyabhāvaḥ)
+jñāna-ādi-abhāvaḥ
 
 ## mukta-m0-p03-v60
-[cit+vyakti+arthaṃ](cidvyaktyarthaṃ) [kalā+yogam](kalāyogam) [apekṣete](apekṣete) [su+saṃsthite](susaṃsthite)
+cit-vyakti-artham kalā-yogam apekṣete su-saṃsthite
 
 ## mukta-m0-p03-v61
-[vyañjaka+apekṣe](vyañjakāpekṣe) [iti](iti) [sarvadā](sarvadā) [sarva+arthe](sarvārthe)
+vyañjaka-apekṣe iti sarvadā sarva-arthe
 
 ## mukta-m0-p03-v62
-[tadā](tadā) [asau](asau) [jāyate](jāyate) [paśuḥ](paśuḥ)
+tadā asau jāyate paśuḥ
 
 ## mukta-m0-p03-v63
-[kalā+ādi+yogāt](kalādiyogād) [devadatta+ādi+vat](devadattādivad) [īśvaraḥ](īśvaraḥ) [paśuḥ](paśuḥ) [prasajyate](prasajyate)
+kalā-ādi-yogāt devadatta-ādi-vat īśvaraḥ paśuḥ prasajyate
 
 ## mukta-m0-p03-v64
-[kalāḥ](kalāḥ) [sṛṣṭvā](sṛṣṭvā) [api](api) [tat+yuktaḥ](tadyuktaḥ) [kārya+kṛt](kāryakṛd) [yadi](yadyasau) [asau](yadyasau) [tataḥ](tataḥ)
+kalāḥ sṛṣṭvā api tat-yuktaḥ kārya-kṛt yadi asau tataḥ
 
 ## mukta-m0-p03-v65
-[karoti](karotītyucyate) [iti](karotītyucyate) [ucyate](karotītyucyate)
+karoti iti ucyate
 
 ## mukta-m0-p03-v66
-[tasmāt](tasmādalaṃ) [alaṃ](tasmādalaṃ) [prasaṅgena](prasaṅgena) [bhoga+mokṣa+prasādhakaḥ](bhogamokṣaprasādhakaḥ)
+tasmāt alam prasaṅgena bhoga-mokṣa-prasādhakaḥ
 
 ## mukta-m0-p03-v67
-[sadā](sadaivārādhyo) [eva](sadaivārādhyo) [ārādhyaḥ](sadaivārādhyo) [na](nānyaḥ) [anyaḥ](nānyaḥ) [iti](ityuktaḥ) [uktaḥ](ityuktaḥ) [sa+sādhanaḥ](sasādhano) [bhogaḥ](bhogaḥ)
+sadā eva ārādhyaḥ na anyaḥ iti uktaḥ sa-sādhanaḥ bhogaḥ
 
 ## mukta-m0-p03-v68
-[mala+ādi+pāśa+vicchittiḥ](malādipāśavicchittiḥ) [sarvajñāna+kriyā+udbhavaḥ](sarvajñānakriyodbhavaḥ)
+mala-ādi-pāśa-vicchittiḥ sarva-jñāna-kriyā-udbhavaḥ
 
 ## mukta-m0-p03-v69
-[paścāt+ātmā](paścātmā) [mocya+mānatvāt](mocyamānatvāt) [karma+kārakaṃ](karmakārakamiṣyate) [iṣyate](karmakārakamiṣyate)
+paśu-ātmā mocyamānatvāt karma-kārakaḥ iṣyate
 
 ## mukta-m0-p03-v70
-[astu](astvātmanīno) [ātmanīnaḥ](astvātmanīno) [mokṣaḥ](mokṣo) [hi](hi) [bhogavat](bhogavat) [pudgalaḥ](pudgalastataḥ) [tataḥ](pudgalastataḥ)
+astu ātmanīnaḥ mokṣaḥ hi bhogavat pudgalaḥ tataḥ
 
 ## mukta-m0-p03-v71
-[sarvajñatā+ādi+rūpa+āvāptitaḥ](sarvajñatādirūpāvāptitaḥ) [sva+ātma+kartṛkaḥ](svātmakartṛka) [eva](eva) [mokṣaḥ](mokṣo) [na](neśvarakartṛkaḥ) [īśvara+kartṛkaḥ](neśvarakartṛkaḥ)
+sarvajñatā-ādi-rūpa-avāptitaḥ sva-ātma-kartṛkaḥ eva mokṣaḥ na īśvara-kartṛkaḥ
 
 ## mukta-m0-p03-v72
-[aviveka+avasāya+utthaṃ](avivekāvasāyottham) [ajñānaṃ](ajñānaṃ) [vinivartate](vinivartate)
+aviveka-avasāya-uttham ajñānam vinivartate
 
 ## mukta-m0-p03-v73
-[sva+kāraṇa+nivṛttyā](svakāraṇanivṛttyaiva) [eva](svakāraṇanivṛttyaiva) [tat](tannivarteta) [nivarteta](tannivarteta) [na](nānyathā) [anyathā](nānyathā)
+sva-kāraṇa-nivṛttyā eva tat nivarteta na anyathā
 
 ## mukta-m0-p03-v74
-[atha](athātmadharmo) [ātma+dharmo](athātmadharmo) [bhāvaḥ](bhāvaḥ) [syāt](syāt) [tucchatve](tucchatve) [tat](tannivartate) [nivartate](tannivartate)
+atha ātma-dharmaḥ bhāvaḥ syāt tucchatve tat nivartate
 
 ## mukta-m0-p03-v75
-[nivartyatve](nivartyatve) [na](nātmadharmaḥ) [ātma+dharmo](nātmadharmaḥ) [syāt](syāt) [tat](tadanādinirodhakam) [anādi+nirodhakam](tadanādinirodhakam)
+nivartyatve na ātma-dharmaḥ syāt tat anādi-nirodhakam

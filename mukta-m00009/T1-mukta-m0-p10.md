@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p10-v226
-[mantra-womb](mantrayoniḥ) [supreme](parā) [māyā](māyā) [eternal](nityā) [kuṇḍalinī](kuṇḍalinī) [but](tu) [which](yā)
+[mantra-yoni](mantrayoniḥ) [para](parā) [māyā](māyā) [nitya](nityā) [kuṇḍalinī](kuṇḍalinī) [tu](tu) [ya](yā)
 
 ## mukta-m0-p10-v227
-[eternal](nityā) [because-supreme-cause](paramakāraṇatvāt)
+[nitya](nityā) [parama-kāraṇa-tva](paramakāraṇatvāt)
 
 ## mukta-m0-p10-v228
-[effect-natured](kāryātmikā) [that](sā) [this-māyā](māyā+iyam) [transformative](pariṇāmavatī) [and](ca) [which](yat)
+[kārya-ātmika](kāryātmikā) [sa](sā) [māyā-idam](māyeyaṃ) [pariṇāma-vat](pariṇāmavatī) [ca](ca) [yat](yat)
 
 ## mukta-m0-p10-v229
-[of-pure-path](viśuddhasyā+adhvanaḥ) [accomplishment](siddhiḥ) [irresistible](anivāryā) [stands](avatiṣṭhate)
+[viśuddha-adhvan](viśuddhasyādhvanaḥ) [siddhi-anivārya](siddhiranivāryā) [ava-sthā](avatiṣṭhate)
 
 ## mukta-m0-p10-v230
-[not](na) [of-them](teṣām) [dark](asitaḥ) [path](mārgaḥ) [by-kalā-purification](kalā+śuddhyā) [becomes-pure](viśuddhyati)
+[na](na) [tad](teṣām) [asita](asito) [mārga](mārgaḥ) [kalā-śuddhi](kalāśuddhyā) [vi-śudh](viśuddhyati)
 
 ## mukta-m0-p10-v231
-[from-principle-etc](tattvādīnām) [from-bindu](bindoḥ) [effect](kāryam) [path](adhvā) [especially](viśeṣataḥ)
+[tattva-ādi](tattvādīnām) [atas](ato) [bindu](bindoḥ) [kārya](kāryam) [adhvan](adhvā) [viśeṣa](viśeṣataḥ)
 
 ## mukta-m0-p10-v232
-[being](bhāvaḥ)
+[bhāva](bhāvaḥ)
 
 ## mukta-m0-p10-v233
-[of-non-material-forms](anupādāna+rūpāṇām) [of-kalās](kalānām) [of-eternal-purities](nitya+śuddhayoḥ)
+[anupādāna-rūpa](anupādānarūpāṇāṃ) [kalā](kalānāṃ) [nitya-śuddhi](nityaśuddhayoḥ)
 
 ## mukta-m0-p10-v234
-[thus-called](ity+ākhyātā) [great-māyā](mahā+māyā) [all-paths-nature](sarvā+adhva+prakṛtiḥ) [supreme](parā)
+[iti-ākhyāta](ityākhyātā) [mahā-māyā](mahāmāyā) [sarva-adhvan-prakṛti](sarvādhvaprakṛtiḥ) [para](parā)
 
 ## mukta-m0-p10-v235
-[others](anye) [but](tu) [say](kathayanti) [here](atra) [māyā](māyā) [path-lord](adhvasva+nāśvarīm)
+[anya](anye) [tu](tu) [kathay](kathayantyatra) [atra](atra) [māyā](māyā) [adhvan](adhvasvanaśvarīm) [svana-śvarī](svanaśvarīm)
 
 ## mukta-m0-p10-v236
-[kalā](kalām) [produced](utpādayāmāsa)
+[kalā](kalāmutpādayāmāsa) [ut-pād](utpādayāmāsa) [iti-ādi](ityādi)
 
 ## mukta-m0-p10-v237
-[purification](śuddhiḥ) [and](ca) [such](tādṛśī) [to-be-known](jñeyā) [by-those-knowing-āgama](tayoḥ+āgama+vedibhiḥ)
+[śuddhi](śuddhiśca) [ca](ca) [tādṛśa](tādṛśī) [jñā](jñeyā) [tad](tayorāgamavedibhiḥ) [āgama](āgamavedibhiḥ) [vedin](vedibhiḥ)
 
 ## mukta-m0-p10-v238
-[mantra-womb](mantrayoniḥ) [great-māyā](mahā+māyā) [which](yā) [possessing-grasp](parigraha+vartinī)
+[mantra-yoni](mantrayonirmahāmāyā) [mahā-māyā](mahāmāyā) [ya](yā) [parigraha-vartin](parigrahavartinī)
 
 ## mukta-m0-p10-v239
-[as-stated](proktavat) [by-nāda-etc](nāda+ādi+dvāreṇa) [presided](adhiṣṭhitāḥ)
+[prokta](proktavannādādidvāreṇā'dhiṣṭhitāḥ) [nāda](nādādidvāreṇā'dhiṣṭhitāḥ) [ādi](ādidvāreṇā'dhiṣṭhitāḥ) [dvāra](dvāreṇā'dhiṣṭhitāḥ) [adhi-sthā](adhiṣṭhitāḥ)
 
 ## mukta-m0-p10-v240
-[this](sā) [activity-natured](kriyā+ātmikā) [power](śaktiḥ) [īśvarī](īśvarī) [always-risen](sarvadā+uditā)
+[sa](seyaṃ) [idam](iyaṃ) [kriyā-ātmika](kriyātmikā) [śakti](śaktirīśvarī) [īśvarī](īśvarī) [sarvadā](sarvadoditā) [udita](uditā)
 
 ## mukta-m0-p10-v241
-[beyond-bonds-śiva-union](pāśa+atīta+śiva+samavāyena) [thus](iti)
+[pāśa](pāśātītaśivasamavāyeneti) [atīta](atītaśivasamavāyeneti) [śiva](śivasamavāyeneti) [samavāya](samavāyeneti) [iti](iti)
 
 ## mukta-m0-p10-v242
-[beings](paśūn) [sustains](vartayate) [eternally](nityam) [in-various-wombs](nānā+yoniṣu) [uncertain](aniścitā)
+[paśu](paśūn) [vart](vartayate) [nitya](nityaṃ) [nānā](nānāyoniṣvaniścitā) [yoni](yoniṣvaniścitā) [aniścita](aniścitā)
 
 ## mukta-m0-p10-v243
-[but](tu) [not-impure-womb-attainment](aśuddha+yoni+prāptiḥ) [meaning](ity+arthaḥ)
+[tu](tu) [na](nāśuddhayoniprāptirityarthaḥ) [aśuddha](aśuddhayoniprāptirityarthaḥ) [yoni](yoniprāptirityarthaḥ) [prāpti](prāptirityarthaḥ) [iti](ityarthaḥ) [artha](arthaḥ)
 
 ## mukta-m0-p10-v244
-[she](sā) [by-means-of-enjoyment-accomplishment](bhoga+sādhana+upāya+pratyaya+udaya+hetunā)
+[sa](sā) [bhoga](bhogasādhanopāyapratyayodayahetunā) [sādhana](sādhanopāyapratyayodayahetunā) [upāya](upāyapratyayodayahetunā) [pratyaya](pratyayodayahetunā) [udaya](udayahetunā) [hetu](hetunā)
 
 ## mukta-m0-p10-v245
-[in-every-way](sarvathā+eva) [immortality-attainment](amṛta+prāpteḥ) [separation](pṛthak+kāram) [extending](pratanvatī)
+[sarvathā](sarvathaivāmṛtaprāpteḥ) [eva](eva) [amṛta](amṛtaprāpteḥ) [prāpti](prāpteḥ) [pṛthak-kāra](pṛthakkāraṃ) [pra-tan](pratanvatī)
 
 ## mukta-m0-p10-v246
-[does](karoti) [meaning](ity+arthaḥ)
+[kṛ](karotītyarthaḥ) [iti](ityarthaḥ) [artha](arthaḥ)
 
 ## mukta-m0-p10-v247
-[knowledge](jñānam) [supreme-immortality-means](parā+amṛta+upāya+hetuḥ) [equipment](parikaraḥ) [of-bound-being](paśoḥ)
+[jñāna](jñānaṃ) [parāmṛta](parāmṛtopāyahetuḥ) [upāya](upāyahetuḥ) [hetu](hetuḥ) [parikara](parikaraḥ) [paśu](paśoḥ)
 
 ## mukta-m0-p10-v248
-[in-seedless-initiation](nirbīja+dīkṣāyām) [also](api) [of-ācārya](ācāryasya) [knowledge-predominance](jñāna+pradhānatvāt)
+[nir-bīja](nirbījadīkṣāyāmapyācāryasya) [dīkṣā](dīkṣāyāmapyācāryasya) [api](apyācāryasya) [ācārya](ācāryasya) [jñāna](jñānapradhānatvāt) [pradhāna-tva](pradhānatvāt)
 
 ## mukta-m0-p10-v249
-[sound-mass](śabda+rāśiḥ) [and](ca) [from-bindu](bindu+utthaḥ) [bindu](binduḥ) [from-nāda](nādāt) [that](asau) [also](api)
+[śabda-rāśi](śabdarāśiśca) [ca](ca) [bindu](bindūttho) [uttha](uttho) [bindu](bindurnādādasāvapi) [nāda](nādādasāvapi) [adas](asāvapi) [api](api)
 
 ## mukta-m0-p10-v250
-[by-nāda-bindu-etc-order](nāda+bindu+ādi+krameṇa) [sound-production](śabda+utpattiḥ) [thus-stated](ity+uktam)
+[nāda](nādabindvādikrameṇa) [bindu](bindvādikrameṇa) [ādi](ādikrameṇa) [krama](krameṇa) [śabda](śabdotpattirityuktam) [utpatti](utpattirityuktam) [iti](ityuktam) [ukta](uktam)
