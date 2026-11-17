@@ -5,61 +5,61 @@
 [ghee-filled](ājyapūrṇaṃ) [thus](tathā) [vessel-for-each](pātramaikaikasya) [should-give](pradāpayet)
 
 ## mukta-m0-p71-v1752
-[fragrance-flowers-offerings](gandhapuṣpopahārāṃśva) [ladle-spoon](sruksruvau) [marked-with-characteristics](lakṣaṇānvitau)
+[fragrant-flower-offerings-and](gandhapuṣpopahārāṃśva) [ladle-and-spoon](sruksruvau) [with-marks](lakṣaṇānvitau)
 
 ## mukta-m0-p71-v1753
-[white-garment-wearing](sitāmbaradharāḥ) [all](sarve) [white-sandal-anointed](sitacandanacarcitāḥ)
+[white-garment-wearers](sitāmbaradharāḥ) [all](sarve) [white-sandal-anointed](sitacandanacarcitāḥ)
 
 ## mukta-m0-p71-v1754
-[having-worshipped-those](tāniṣṭvā) [gold-cloth-etc](svarṇavastrādyaistatastāṃstu) [should-appoint](samādiśet)
+[having-worshipped-those](tāniṣṭvā) [with-gold-cloth-etc](svarṇavastrādyaistatastāṃstu) [should-appoint](samādiśet)
 
 ## mukta-m0-p71-v1755
-[eater](khādakaṃ) [west-and-also](paścime+caiva) [khuri](khuri) [weapon-thus-north](kāstraṃ+tathottare)
+[eater](khādakaṃ) [in-west-and](paścime+caiva) [khuri](khuri) [weapon-thus-north](kāstraṃ+tathottare)
 
 ## mukta-m0-p71-v1756
-[scripture-true-nature-action-knowing](śāstrasadbhāvakarmajñāḥ) [pot-purification-preceded-by](kuṇḍasaṃskārapūrvakam)
+[scripture-reality-action-knowers](śāstrasadbhāvakarmajñāḥ) [with-kunda-purification-first](kuṇḍasaṃskārapūrvakam)
 
 ## mukta-m0-p71-v1757
-[thus](evaṃ) [image-keepers](tu+mūrtipāḥ) [all](sarve) [having-made-altar-libation](kṛtvā+sthaṇḍilatarpaṇam)
+[thus](evaṃ) [image-keepers](mūrtipāḥ) [all](sarve) [having-made-altar-libation](kṛtvā+sthaṇḍilatarpaṇam)
 
 ## mukta-m0-p71-v1758
-[establisher](sthāpakaśca) [head-place](śirodeśe) [east-materials-gathered](pūrvasambhārasaṃbhṛtaḥ)
+[establisher](sthāpakaśca) [in-head-place](śirodeśe) [with-prior-materials-gathered](pūrvasambhārasaṃbhṛtaḥ)
 
 ## mukta-m0-p71-v1759
-[single-minded](ekacitto) [anger-conquered](jitakrodhaḥ) [faithful](śraddadhāno) [senses-controlled](jitendriyaḥ)
+[one-minded](ekacitto) [anger-conquered](jitakrodhaḥ) [faithful](śraddadhāno) [senses-subdued](jitendriyaḥ)
 
 ## mukta-m0-p71-v1760
-[born](janite) [satisfied](tarpite) [fire](vahnau) [should-give-full-offering-then](dadyātpūrṇāhutiṃ+tataḥ)
+[when-born](janite) [when-satisfied](tarpite) [in-fire](vahnau) [should-give-full-offering-then](dadyātpūrṇāhutiṃ+tataḥ)
 
 ## mukta-m0-p71-v1761
-[oblique-upward-going-born-or](tiryagūrdhvāgamotthairvā) [previously-stated-rite-mantra](prāguktavidhimantrataḥ)
+[oblique-upward-going-etc](tiryagūrdhvāgamotthairvā) [previously-stated-rite-mantra](prāguktavidhimantrataḥ)
 
 ## mukta-m0-p71-v1762
-[element](dhātuḥ) [sound-prohibition-purpose](śabdaniṣedhārthaṃ) [should-be-three-hidden-speech](syānmatriguptabhāṣaṇe)
+[of-substance](dhātuḥ) [for-sound-prohibition](śabdaniṣedhārthaṃ) [may-be](syānmatriguptabhāṣaṇe)
 
 ## mukta-m0-p71-v1763
-[placement](nyāsane) [homage-work](homakārye) [tu](tu) [upāṃśu-etc](upāṃścādi) [ca](ca) [teacher](daiśikaḥ)
+[in-seating](nyāsane) [in-homa-work](homakārye) [tu](tu) [upāṃśu-etc](upāṃścādi) [ca](ca) [teacher](daiśikaḥ)
 
 ## mukta-m0-p71-v1764
-[with-obstacle](savighno) [becomes-rite](jāyate+yāgastasmānmūrtidharānyajet)
+[with-obstacle](savighno) [becomes-sacrifice](jāyate+yāgastasmānmūrtidharānyajet)
 
 ## mukta-m0-p71-v1765
-[p.35](p.+35)) [cruel-sound-prohibition-purpose](krūraśabdaniṣedhārthaṃ) [auspicious-purpose](maṅgalārthaṃ) [always](sadaiva) [tu](tu)
+[p.35](p.) [cruel-sound-prohibition](krūraśabdaniṣedhārthaṃ) [for-auspiciousness](maṅgalārthaṃ) [always](sadaiva) [tu](tu)
 
 ## mukta-m0-p71-v1766
-[own-scripture-characteristics-endowed](svaśāstralakṣaṇopetānbrāhmaṇānsusamāhitān)
+[with-own-scripture-marks](svaśāstralakṣaṇopetānbrāhmaṇānsusamāhitān)
 
 ## mukta-m0-p71-v1767
-[four-directions-outside-after](caturdikṣubahiḥ+paścādācāryastānniveśayet)
+[four-directions-outside](caturdikṣubahiḥ) [after](paścādācāryastānniveśayet)
 
 ## mukta-m0-p71-v1768
-[west](paścime) [vājasaneyins](vājasaneyāṃśchandogānuttareṇa) [tu](tu)
+[in-west](paścime) [vājasaneyins](vājasaneyāṃśchandogānuttareṇa) [tu](tu)
 
 ## mukta-m0-p71-v1769
-[having-appointed-then-brahmins](samādiśya+tato+viprānnadyuktāndvā) [display](pradarśanāt)
+[having-appointed](samādiśya) [then-brahmins](tato+viprānnadyuktāndvā) [for-display](pradarśanāt)
 
 ## mukta-m0-p71-v1770
-[vṛṣākapi-and-maitra](vṛṣākapiṃ+ca+maitraṃ+ca) [bahvṛcas](bahvṛcaḥ) [west](paścime) [should-chant](japet)
+[vṛṣākapi-and-maitra](vṛṣākapiṃ+ca+maitraṃ+ca) [bahvṛcas](bahvṛcaḥ) [in-west](paścime) [should-chant](japet)
 
 ## mukta-m0-p71-v1771
 [bhāruṇḍa-sāmans](bhāruṇḍāni+ca+sāmāni) [vāmadeva-thus-also](vāmadevaṃ+tathaiva+ca)
@@ -74,4 +74,4 @@
 [other-doctrine-subject](matāntaraviṣayakamiti)
 
 ## mukta-m0-p71-v1775
-[hymn-mantra-knowing-others](stotramantravidaścānye) [should-chant-right-always](japeyu+dakṣiṇe+sadā)
+[mantra-knowers-other](stotramantravidaścānye) [should-chant](japeyu) [in-south](dakṣiṇe) [always](sadā)

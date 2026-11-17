@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p50-v1226
-[pedestal](pīṭhikāyāḥ) [height](samucchrāyaṃ) [by-part](vikārāṃśena) [divide](bhājayet)
+[pedestal-gen](pīṭhikāyāḥ) [height-acc](samucchrāyaṃ) [part-instr](vikārāṃśena) [divide-opt](bhājayet)
 
 ## mukta-m0-p50-v1227
-[quality-part](guṇābhāge) [thus](tathā) [pot](kumbhaḥ) [pot-band](kumbhapaṭṭi) [by-part](tu) [bhāgataḥ]
+[quality-part-loc](guṇābhāge) [thus](tathā) [pot-nom](kumbhaḥ) [pot-band-nom](kumbhapaṭṭi) [but](tu) [part-abl](bhāgataḥ)
 
 ## mukta-m0-p50-v1228
-[side-part](pakṣabhāge) [water-reservoir](jalādhāra) [one-part](ekāṃśe) [remaining-band](śeṣapaṭṭikā)
+[side-part-loc](pakṣabhāge) [water-holder-nom](jalādhāra) [one-part-loc](ekāṃśe) [remainder-band-nom](śeṣapaṭṭikā)
 
 ## mukta-m0-p50-v1229
-[bāṇa-doctrine](bāṇamatānusāreṇa) [smaller](kanyasī) [thus](tthaṃ) [breast](payodharā)
+[arrow-doctrine-according-instr](bāṇamatānusāreṇa) [smaller-thus](kanyasītthaṃ) [breast-nom](payodharā)
 
 ## mukta-m0-p50-v1230
-[band+sub-band](paṭṭopapaṭṭikā) [neck](kaṇṭho) [neck-band+sub-band](galapaṭṭaṭdayupapaṭṭikā)
+[band-sub-band-nom](paṭṭopapaṭṭikā) [neck-nom](kaṇṭho) [throat-band-sub-band-nom](galapaṭṭaṭdayupapaṭṭikā)
 
 ## mukta-m0-p50-v1231
-[girdle](mekhalā) [band](paṭṭikā) [but](kintu) [by-part](bhāgakena) [above-that](tadūrdhvataḥ)
+[girdle-nom](mekhalā) [band-nom](paṭṭikā) [but](kintu) [part-instr](bhāgakena) [above-that](tadūrdhvataḥ)
 
 ## mukta-m0-p50-v1232
-[height-half](ucchrāyārdha) [pedestal](tu) [pīṭhyāḥ] [rudra-part](rudrabhāge) [two-fold](dvidhā) [made](kṛte)
+[height-half-nom](ucchrāyārdha) [but](tu) [pedestal-gen](pīṭhyāḥ) [be-opt](syāt) [rudra-part-loc](rudrabhāge) [twofold](dvidhā) [made](kṛte)
 
 ## mukta-m0-p50-v1233
-[three](tribhiraljaṃ) [two-band](dvipaṭṭau) [indeed](hi) [two+two](dvābhyāṃ+dvābhyā) [thus](tathā) [lotus](ambujam)
+[three-instr](tribhiḥ) [alja-acc](aljaṃ) [two-band-loc](dvipaṭṭau) [but](tu) [two-instr](dvābhyāṃ) [two-instr](dvābhyā) [thus-lotus-acc](tathāmbujam)
 
 ## mukta-m0-p50-v1234
-[two+two](dvābhyāṃ+dvābhyāṃ) [in-order](kramāt) [path](padyaṃ) [with-half-part](sārdhāśe) [neck-exit](galanirgamaḥ)
+[two-instr](dvābhyāṃ) [two-instr](dvābhyāṃ) [gradual-foot-acc](kramātpadyaṃ) [half-part-loc](sārdhāśe) [throat-exit-nom](galanirgamaḥ)
 
 ## mukta-m0-p50-v1235
-[two-necks](kaṇṭhadvayena) [joined](saṃyuktā) [six](ṣaḍbhiḥ) [lotuses](padmairvibhūṣitā)
+[neck-pair-instr](kaṇṭhadvayena) [joined-nom](saṃyuktā) [six-instr](ṣaḍbhiḥ) [lotus-instr](padmair) [adorned-nom](vibhūṣitā)
 
 ## mukta-m0-p50-v1236
-[samvarta-named](samvartākhyā) [water-reservoir](jalādhārā) [viṣṇu-part-end](viṣṇubhāgāntamucchritā)
+[samvarta-named-nom](samvartākhyā) [water-holder-nom](jalādhārā) [vishnu-part-end-acc](viṣṇubhāgāntam) [raised-nom](ucchritā)
 
 ## mukta-m0-p50-v1237
-[liṅga-struck-three-wrap](liṅganāhatriveṣṭena) [round-indistinct](vṛttāvyaktasya) [mass](piṇḍikā)
+[linga-strike-three-wrap-instr](liṅganāhatriveṣṭena) [round-unclear-gen](vṛttāvyaktasya) [base-nom](piṇḍikā)
 
 ## mukta-m0-p50-v1238
-[that-length-half-width](taddīrghatvārdhavistārāttadardhānnālakocchrayau)
+[that-length-half-width-abl](taddīrghatvārdhavistārāt) [that-half-stalk-heights-nom](tadardhānnālakocchrayau)
 
 ## mukta-m0-p50-v1239
-[height](ucchraye) [ten-divided](daśadhābhakte) [foot](padaṃ) [pot](kumbhaṃ) [thus](tathā) [neck](galam)
+[height-loc](ucchraye) [tenfold-divided-loc](daśadhābhakte) [foot-acc](padaṃ) [pot-acc](kumbhaṃ) [thus](tathā) [throat-acc](galam)
 
 ## mukta-m0-p50-v1240
-[hoof](khuraṃ) [thigh](jaṅyā) [also](ca) [ear](kūrṇauṃ) [ca] [neck](kaṇṭhaṃ) [also-near-neck](caivopakaṇṭhikām)
+[hoof-acc](khuraṃ) [thigh-acc](jaṅyā) [and](ca) [knee-acc](kūrṇauṃ) [and](ca) [neck-acc](kaṇṭhaṃ) [and-indeed-subneck-acc](caivopakaṇṭhikām)
 
 ## mukta-m0-p50-v1241
-[one-pair-one-side-one-pair-one-neck-part](ekayugmaikapakṣaikayugmaikagalāṃśakaiḥ)
+[one-pair-one-side-one-pair-one-throat-part-instr](ekayugmaikapakṣaikayugmaikagalāṃśakaiḥ)
 
 ## mukta-m0-p50-v1242
-[sixteen-part-height](ṣoḍaśāṃśakṛtocchāye) [elders](jyeṣṭhānāmāsane) [always](sadā)
+[sixteen-part-made-height-loc](ṣoḍaśāṃśakṛtocchāye) [elder-gen-pl](jyeṣṭhānām) [seat-loc](āsane) [always](sadā)
 
 ## mukta-m0-p50-v1243
-[foot-band](caraṇapaṭṭikākumbha) [pot](kumbha) [band](paṭṭikā) [neck-band](galapaṭṭikā)
+[foot-band-pot-nom](caraṇapaṭṭikākumbha) [band-nom](paṭṭikā) [throat-band-nom](galapaṭṭikā)
 
 ## mukta-m0-p50-v1244
-[eight-directions-hand](aṣṭadigravihastaiśca) [deficient-middle-excellent](hīnamadhyottamāstribhiḥ)
+[eight-direction-extended-hands-instr-and](aṣṭadigravihastaiśca) [low-middle-high-nom-pl](hīnamadhyottamāḥ) [three-instr](tribhiḥ)
 
 ## mukta-m0-p50-v1245
-[entrance-height-width](praveśogdamabāhulyācchū) [reed-stalk-etc](bhranālādi) [as-before](pūrvavat)
+[entrance-height-width-abl](praveśogdamabāhulyāt) [shu](chū) [bhranala-etc](bhranālādi) [as-before](pūrvavat)
 
 ## mukta-m0-p50-v1246
-[that-third-part-pedestal-width](tattryaṃśātpīṭhavistārastatpādonasamucchrayaḥ)
+[that-third-part-abl](tattryaṃśāt) [pedestal-width-nom](pīṭhavistāraḥ) [that-quarter-less-height-nom](tatpādonasamucchrayaḥ)
 
 ## mukta-m0-p50-v1247
-[with](saha) [pot](kumbho) [neck](galo) [round](vṛtto) [veda-corner](vedāsrā) [band](paṭṭikā) [in-order](kramāt)
+[with](saha) [pot-nom](kumbho) [throat-nom](galo) [round-nom](vṛtto) [veda-corner-nom](vedāsrā) [band-nom](paṭṭikā) [gradually](kramāt)
 
 ## mukta-m0-p50-v1248
-[else-thus-thus](anyatra+tvevamevaṃ) [syāt](syāt) [curved-ear-pedestal](saṃvṛttātkarṇapīṭakam)
+[elsewhere](anyatra) [but-thus-thus](tvevamevaṃ) [be-opt](syāt) [curved-ear-pedestal-nom](saṃvṛttātkarṇapīṭakam)
 
 ## mukta-m0-p50-v1249
-[smooth-tight-joint](suślakṣṇāśliṣṭasandhiśca) [form](rupeṇāmbudharādivat)
+[smooth-tight-joint-nom-and](suślakṣṇāśliṣṭasandhiśca) [form-instr](rupeṇa) [cloud-etc-like](ambudharādivat)
 
 ## mukta-m0-p50-v1250
-[some-opinion](keṣāṃcittu) [manifest-liṅga](mate+vyaktaliṅge) [tu] [umbrella-head](chatramastake)
+[some-gen-pl-but](keṣāṃcittu) [opinion-loc](mate) [manifest-linga-loc](vyaktaliṅge) [but](tu) [umbrella-head-loc](chatramastake)
