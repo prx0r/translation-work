@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p42-v1026
-[arcā-japa-ādi-instr](arcājapādinā) [arcā](arcā) [japa](japa) [ādi](ādi) [instr](inā)
+[worship](arcā) [muttering](japa) [and-so-forth](ādinā)
 
 ## mukta-m0-p42-v1027
-[kāmeśvarī-ādi-nityā-instr](kāmeśvaryādinityānāṃ) [pañcadaśa-gen](pañcadaśānām) [iti](iti) [śeṣaḥ](śeṣaḥ)
+[of-Kāmeśvarī](kāmeśvaryā) [and-so-forth](ādi) [of-the-Nityās](nityānāṃ) [of-the-fifteen](pañcadaśānām) [thus](iti) [ellipsis](śeṣaḥ)
 
 ## mukta-m0-p42-v1028
-[prokta-saṅkhya-akṣara-instr](proktasaṅkhyairakṣaraiḥ)
+[with-the-stated](prokta) [numbers](saṅkhyaiḥ) [with-syllables](akṣaraiḥ)
 
 ## mukta-m0-p42-v1029
-[pradeśa-gati-instr](pradeśagatyā) [vilikhed](vilikhed) [yāvat-saṅkhyam](yāvatsaṅkhyaṃ) [yathā-antaram](yathāntaram)
+[by-going](gatyā) [to-the-place](pradeśa) [one-should-draw](vilikhet) [according-to-the-number](yāvatsaṅkhyaṃ) [as](yathā) [interval](antaram)
 
 ## mukta-m0-p42-v1030
-[avaśiṣṭam](avaśiṣṭaṃ) [bhavet](bhavet) [teṣu](teṣu) [dik-stheṣu](dikstheṣu) [ekīkṛteṣu](ekīkṛteṣu) [ca](ca)
+[remainder](avaśiṣṭaṃ) [should-be](bhavet) [in-those](teṣu) [situated-in-the-directions](dikstheṣu) [when-united](ekīkṛteṣu) [and](ca)
 
 ## mukta-m0-p42-v1031
-[ekona-pañcāśat-koṣṭheṣu](ekonapañcāśatkoṣṭheśvekībhūte) [ekībhūteṣu](ekībhūteṣu) [tatra](tatra) [vai](vai)
+[in-the-forty-nine](ekonapañcāśat) [cells](koṣṭheṣu) [when-united](ekībhūte(na)ṣu) [there](tatra) [indeed](vai)
 
 ## mukta-m0-p42-v1032
-[likhitvā](likhitvā) [karṇikā-madhye](karṇikāmadhye) [yoniṃ](yoniṃ) [māyā-udarāṃ](māyodarāṃ) [likhet](likhet)
+[having-written](likhitvā) [in-the-middle](madhye) [of-the-pericarp](karṇikā) [the-yoni](yoniṃ) [having-Māyā](māyā) [in-the-womb](udarāṃ) [one-should-draw](likhet)
 
 ## mukta-m0-p42-v1033
-[bhaga-mālāṃ](bhagamālāṃ) [madhya-śaktyā](madhyaśaktyā) [āvāhya](āvāhya) [abhyarcayet](abhyarcayed) [bahiḥ](bahiḥ)
+[Bhagamālā](bhagamālāṃ) [in-the-central](madhya) [śakti](śaktyām) [having-invoked](āvāhya) [one-should-worship](abhyarcayet) [outside](bahiḥ)
 
 ## mukta-m0-p42-v1034
-[yathā-kramam](yathākramam) [idam](idaṃ) [cakram](cakram) [āsāṃ](āsāṃ) [sādhāraṇaṃ](sādhāraṇaṃ) [bhavet](bhavet)
+[according-to-order](yathākramam) [this](idaṃ) [diagram](cakram) [of-them](āsāṃ) [common](sādhāraṇaṃ) [should-be](bhavet)
 
 ## mukta-m0-p42-v1035
-[yathā-krameṇa](yathākrameṇa) [citrāntāḥ](citrāntāḥ) [pūjayet](pūjayet) [ukta-vigrahāḥ](uktavigrahāḥ)
+[in-due-order](yathākrameṇa) [ending-with-Citrā](citrāntāḥ) [one-should-worship](pūjayet) [with-the-stated](ukta) [forms](vigrahāḥ)
 
 ## mukta-m0-p42-v1036
-[catuṣka-catuṣṭayeṣu](catuṣkacatuṣṭayeṣu) [ekīkṛteṣu](ekīkṛteṣu) [madhya-rekhā-trayam](madhyarekhātrayam) [ārjana](ārjaneti) [śeṣaḥ](śeṣaḥ)
+[in-the-four](catuṣka) [groups-of-four](catuṣṭayeṣu) [when-united](ekīkṛteṣu) [erasing](mārjana) [the-three](trayam) [middle-lines](madhya+rekhā) [thus](iti) [ellipsis](śeṣaḥ)
 
 ## mukta-m0-p42-v1037
-[dvārāṇāṃ](dvārāṇāṃ) [pārśvayoḥ](pārśvayoḥ) [koṇeṣu](koṇeṣu) [arcayet](arcayet) [dvādaśa](dvādaśa) [kramāt](kramāt)
+[of-the-gates](dvārāṇāṃ) [on-the-sides](pārśvayoḥ) [in-the-corners](koṇeṣu) [one-should-worship](arcayet) [the-twelve](dvādaśa) [in-order](kramāt)
 
 ## mukta-m0-p42-v1038
-[komārīṃ](komārīṃ) [vaiṣṇavīṃ](vaiṣṇavīṃ) [saumye](saumye) [vārāhī](vārāhyaindrīṃ) [aindrīṃ](aindrīṃ) [ca](ca) [pūrvage](pūrvage)
+[Kaumārī](komārīṃ) [Vaiṣṇavī](vaiṣṇavīṃ) [in-the-north](saumye) [Vārāhī](vārāhī) [and](ca) [Aindrī](aindrīṃ) [in-the-east](pūrvage)
 
 ## mukta-m0-p42-v1039
-[deśa-kālau](deśakālau) [tathā](tathā) [ākāra-śabdau](ākāraśabdau) [prokta-krameṇa](proktakrameṇa) [vai](vai)
+[place](deśa) [and-time](kālau) [likewise](tathā) [form](ākāra) [and-sound](śabdau) [in-the-stated](prokta) [order](krameṇa) [indeed](vai)
 
 ## mukta-m0-p42-v1040
-[upacāraiḥ](upacārairāsavaiśca) [āsavaiḥ](āsavaiḥ) [ca](ca) [māṃsaiḥ](māṃsaiḥ) [matsyaiḥ](matsyaiḥ) [susaṃskṛtaiḥ](susaṃskṛtaiḥ)
+[with-offerings](upacāraiḥ) [and-with-liquors](āsavaiḥ) [and](ca) [with-meats](māṃsaiḥ) [with-fishes](matsyaiḥ) [well-prepared](susaṃskṛtaiḥ)
 
 ## mukta-m0-p42-v1041
-[caturdaśa-nityānām](caturdaśanityānām) [pūrvage](pūrvage) [dvāre](dvāre) [iti](iti) [śeṣaḥ](śeṣaḥ)
+[of-the-fourteen](caturdaśa) [Nityās](nityānām) [in-the-eastern](pūrvage) [gate](dvāre) [thus](iti) [ellipsis](śeṣaḥ)
 
 ## mukta-m0-p42-v1042
-[kadalī-panasa-ādyaiḥ](kadalīpanasādyaiśca) [ca](ca) [phalaiḥ](phalaiḥ) [madhubhiḥ](madhubhireva) [eva](eva) [ca](ca)
+[with-plantain](kadalī) [jackfruit](panasa) [and-so-forth](ādyaiḥ) [and](ca) [with-fruits](phalaiḥ) [with-honeys](madhubhiḥ) [indeed](eva) [and](ca)
 
 ## mukta-m0-p42-v1043
-[ekarātraṃ](ekarātraṃ) [trirātraṃ](trirātraṃ) [vā](vā) [pañcarātraṃ](pañcarātraṃ) [tu](tu) [sapta](sapta) [vā](vā)
+[one-night](eka+rātraṃ) [three-nights](tri+rātraṃ) [or](vā) [five-nights](pañca+rātraṃ) [but](tu) [seven](sapta) [or](vā)
 
 ## mukta-m0-p42-v1044
-[varṣaṃ](varṣaṃ) [vā](vā) [phālguna-antaṃ](phālgunāntaṃ) [vā](vā) [syāt](syāt) [samasta-ārti-nāśanam](samastārtināśanam)
+[a-year](varṣaṃ) [or](vā) [until-the-end-of-Phālguna](phālguna+antaṃ) [or](vā) [it-should-be](syāt) [of-all](samasta) [afflictions](ārti) [destruction](nāśanam)
 
 ## mukta-m0-p42-v1045
-[devatānām](devatānāmathotpāte) [athotpāte](athotpāte) [trividhe](trividhe) [tu](tu) [abhicārake](abhicārake)
+[of-the-deities](devatānām) [then](atha) [in-calamity](utpāte) [in-the-threefold](trividhe) [but](tu) [in-sorcery](abhicārake)
 
 ## mukta-m0-p42-v1046
-[kṛcchreṣu](kṛcchreṣvanyeṣu) [anyeṣu](anyeṣu) [ghoreṣu](ghoreṣu) [pūjā](pūjaiṣā) [eṣā](eṣā) [sarva-kāma-dā](sarvakāmadā)
+[in-difficulties](kṛcchreṣu) [in-other](anyeṣu) [terrible](ghoreṣu) [this](eṣā) [worship](pūjā) [all](sarva) [desire](kāma) [granting](dā)
 
 ## mukta-m0-p42-v1047
-[kṛtvā](kṛtvaitatproktarūpaṃ) [etat](etat) [prokta-rūpaṃ](proktarūpaṃ) [ca](ca) [prokta-dravyaiḥ](proktadravyaistathārcayet) [tathā](tathā) [arcayet](arcayet)
+[having-performed](kṛtvā) [this](etat) [of-the-stated](prokta) [form](rūpaṃ) [and](ca) [with-the-stated](prokta) [substances](dravyaiḥ) [thus](tathā) [one-should-worship](arcayet)
 
 ## mukta-m0-p42-v1048
-[tat-pūrva-nityāntaṃ](tatpūrvanityāntaṃ) [tathā](tathā) [arcayet](arcayet) [iti](iti)
+[ending-with](antaṃ) [that](tat) [previous](pūrva) [Nityā](nityā) [thus](tathā) [one-should-worship](arcayet) [thus](iti)
 
 ## mukta-m0-p42-v1049
-[mallikā-mālatī-jātī-śatapatra-utpala-ādibhiḥ](mallikāmālatījātīśatapatrotpalādibhiḥ)
+[with-jasmine](mallikā) [mālatī](mālatī) [jātī](jātī) [hundred-petaled-lotus](śatapatra) [blue-lotus](utpala) [and-so-forth](ādibhiḥ)
 
 ## mukta-m0-p42-v1050
-[etat-vidyā-bhakti-rūpa](etadvidyābhaktirūpāstiyutānanyāṃśca) [āstiyutān](āstiyutān) [anyān](anyāṃśca) [ca](ca) [pūjayet](pūjayet)
+[of-this](etat) [vidyā](vidyā) [devotion](bhakti) [form](rūpāḥ) [endowed-with](asti+yutān) [and](ca) [others](anyān) [not-different](ananyān) [one-should-worship](pūjayet)
