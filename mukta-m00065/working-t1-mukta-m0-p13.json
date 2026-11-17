@@ -56,6 +56,10 @@
 "quick_gloss": "Atri"
 },
 {
+"surface": "kātyāyanaḥ",
+"quick_gloss": "Kātyāyana"
+},
+{
 "surface": "atha",
 "quick_gloss": "then"
 },
@@ -73,8 +77,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "śaṅkha+likhita+hārīta+śātātapa+parāśarāḥ",
-"quick_gloss": "Śaṅkha-Likhita-Hārīta-Śātātapa-Parāśarāḥ"
+"surface": "śaṅkha+likhita",
+"quick_gloss": "Śaṅkha-Likhita"
+},
+{
+"surface": "hārīta",
+"quick_gloss": "Hārīta"
+},
+{
+"surface": "śātātapa",
+"quick_gloss": "Śātātapa"
+},
+{
+"surface": "parāśarāḥ",
+"quick_gloss": "Parāśara"
 }
 ]
 },
@@ -90,19 +106,23 @@
 "quick_gloss": "not"
 },
 {
-"surface": "śaiva+ādi",
-"quick_gloss": "Śaiva-ādi"
+"surface": "śaiva",
+"quick_gloss": "Śaiva"
 },
 {
-"surface": "praṣṭhāyā",
-"quick_gloss": "by-inquiry"
+"surface": "ādi",
+"quick_gloss": "ādi"
+},
+{
+"surface": "praṣṭhāyāḥ",
+"quick_gloss": "by-leaders"
 },
 {
 "surface": "ete",
 "quick_gloss": "these"
 },
 {
-"surface": "ni+prāḥ",
+"surface": "niprāḥ",
 "quick_gloss": "not-leaders"
 },
 {
@@ -119,8 +139,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "devyā",
-"quick_gloss": "by-Durgā"
+"surface": "devyāḥ",
+"quick_gloss": "by-the-goddess"
 },
 {
 "surface": "matam",
@@ -136,11 +156,11 @@
 },
 {
 "surface": "pratiṣṭhā",
-"quick_gloss": "establishment"
+"quick_gloss": "foundation"
 },
 {
 "surface": "pārameśvaram",
-"quick_gloss": "supreme-Śiva-related"
+"quick_gloss": "supreme-Śiva"
 }
 ]
 },
@@ -152,7 +172,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "śakākhyaṃ",
+"surface": "śaka+ākhyaṃ",
 "quick_gloss": "named-Śaka"
 },
 {
@@ -169,7 +189,7 @@
 },
 {
 "surface": "paitāmaham",
-"quick_gloss": "Brahmā-related"
+"quick_gloss": "Paitāmaha"
 },
 {
 "surface": "tathā",
@@ -186,7 +206,7 @@
 "tokens": [
 {
 "surface": "pratiṣṭhā+tantrāṇi",
-"quick_gloss": "establishment-texts"
+"quick_gloss": "foundation-texts"
 },
 {
 "surface": "etāni",
@@ -210,8 +230,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "padmottha+mārkaṇḍeyābhyām",
-"quick_gloss": "from-Padmottha-and-Mārkaṇḍeya"
+"surface": "padma+uttha",
+"quick_gloss": "from-Padmottha"
+},
+{
+"surface": "mārkaṇḍeyābhyām",
+"quick_gloss": "from-Mārkaṇḍeya"
 },
 {
 "surface": "rambhā",
@@ -223,7 +247,7 @@
 },
 {
 "surface": "siddha+ādi",
-"quick_gloss": "Siddhādi"
+"quick_gloss": "beginning-with-Siddha"
 },
 {
 "surface": "rambhataḥ",
@@ -231,7 +255,7 @@
 },
 {
 "surface": "sauryataḥ",
-"quick_gloss": "from-Saura"
+"quick_gloss": "from-Saurya"
 }
 ]
 },
@@ -243,11 +267,15 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "mārtaṇḍa+āhrayataḥ",
-"quick_gloss": "from-Mārtaṇḍa-named"
+"surface": "mārtaṇḍa",
+"quick_gloss": "from-Mārtaṇḍa"
 },
 {
-"surface": "mārkaṇḍā",
+"surface": "āhrayataḥ",
+"quick_gloss": "from-Āhraya"
+},
+{
+"surface": "mārkaṇḍa",
 "quick_gloss": "from-Mārkaṇḍa"
 },
 {
@@ -285,7 +313,7 @@
 },
 {
 "surface": "pratiṣṭhā",
-"quick_gloss": "establishment"
+"quick_gloss": "foundation"
 },
 {
 "surface": "na",
@@ -318,7 +346,7 @@
 },
 {
 "surface": "namasyanti",
-"quick_gloss": "they-revere"
+"quick_gloss": "they-bow"
 },
 {
 "surface": "sthāpitam",
@@ -343,7 +371,7 @@
 "tokens": [
 {
 "surface": "śaiva+saṃskāra+hīnaḥ",
-"quick_gloss": "devoid-of-Śaiva-saṃskāra"
+"quick_gloss": "devoid-of-Śaiva-rites"
 },
 {
 "surface": "tu",
@@ -355,7 +383,7 @@
 },
 {
 "surface": "patati",
-"quick_gloss": "he-falls"
+"quick_gloss": "falls"
 },
 {
 "surface": "dvijaḥ",
@@ -392,7 +420,7 @@
 },
 {
 "surface": "bhavet",
-"quick_gloss": "it-may-become"
+"quick_gloss": "may-be"
 }
 ]
 },
@@ -409,7 +437,7 @@
 },
 {
 "surface": "bhavet",
-"quick_gloss": "it-may-be"
+"quick_gloss": "may-be"
 },
 {
 "surface": "īpsitam",
@@ -428,7 +456,7 @@
 "quick_gloss": "that"
 },
 {
-"surface": "phari+śramaḥ",
+"surface": "phala+iśramaḥ",
 "quick_gloss": "fruitless-effort"
 }
 ]
@@ -495,11 +523,11 @@
 },
 {
 "surface": "doṣa+āḍhyam",
-"quick_gloss": "fault-abounding"
+"quick_gloss": "faulty"
 },
 {
-"surface": "kumāra+ādi+yukta+śāstrataḥ",
-"quick_gloss": "from-texts-joined-with-Kumāra-etc"
+"surface": "kumāra+ādi+ukta+śāstrataḥ",
+"quick_gloss": "from-texts-beginning-with-Kumāra"
 }
 ]
 },
@@ -516,7 +544,7 @@
 },
 {
 "surface": "bhavet",
-"quick_gloss": "it-becomes"
+"quick_gloss": "may-be"
 },
 {
 "surface": "tasya",
@@ -528,7 +556,7 @@
 },
 {
 "surface": "caṇḍālakaḥ",
-"quick_gloss": "and-caṇḍāla-like"
+"quick_gloss": "and-outcaste-like"
 },
 {
 "surface": "ca",
@@ -549,19 +577,19 @@
 "tokens": [
 {
 "surface": "mukti+siddham",
-"quick_gloss": "liberation-attained"
+"quick_gloss": "attained-by-means"
 },
 {
 "surface": "yukti+siddham",
-"quick_gloss": "well-intended"
+"quick_gloss": "attained-by-means"
 },
 {
 "surface": "hitam",
-"quick_gloss": "benefit"
+"quick_gloss": "beneficial"
 },
 {
 "surface": "loke",
-"quick_gloss": "in-world"
+"quick_gloss": "in-the-world"
 },
 {
 "surface": "skanda+uktam",
@@ -590,7 +618,7 @@
 "tokens": [
 {
 "surface": "kriyā",
-"quick_gloss": "rite"
+"quick_gloss": "ritual"
 },
 {
 "surface": "sā",
@@ -602,7 +630,7 @@
 },
 {
 "surface": "bhavet",
-"quick_gloss": "it-becomes"
+"quick_gloss": "may-be"
 },
 {
 "surface": "sādhvī",
@@ -631,11 +659,11 @@
 },
 {
 "surface": "pratiṣṭhā",
-"quick_gloss": "establishment"
+"quick_gloss": "foundation"
 },
 {
 "surface": "īṣyate",
-"quick_gloss": "is-intended"
+"quick_gloss": "is-desired"
 },
 {
 "surface": "tathā",
@@ -652,7 +680,7 @@
 "tokens": [
 {
 "surface": "svarga+loka+phalā",
-"quick_gloss": "heaven-world-fruit"
+"quick_gloss": "heaven-world-fruitful"
 },
 {
 "surface": "sādhvī",
@@ -660,11 +688,11 @@
 },
 {
 "surface": "vijñeyā",
-"quick_gloss": "to-be-known"
+"quick_gloss": "is-to-be-known"
 },
 {
 "surface": "vaidikī+kriyā",
-"quick_gloss": "Vedic-rite"
+"quick_gloss": "Vedic-ritual"
 }
 ]
 },
@@ -714,11 +742,11 @@
 },
 {
 "surface": "sthāvara+ādiṣu",
-"quick_gloss": "among-immovables-etc"
+"quick_gloss": "among-plants-etc"
 },
 {
 "surface": "jāyate",
-"quick_gloss": "he-is-born"
+"quick_gloss": "is-born"
 }
 ]
 },
@@ -735,7 +763,7 @@
 },
 {
 "surface": "te",
-"quick_gloss": "those"
+"quick_gloss": "they"
 },
 {
 "surface": "munayaḥ",
@@ -768,10 +796,10 @@
 "tokens": [
 {
 "surface": "trayāṇām",
-"quick_gloss": "of-three"
+"quick_gloss": "of-the-three"
 },
 {
-"surface": "brahmaṇa+ādīnām",
+"surface": "brahma+ādīnām",
 "quick_gloss": "of-Brahmā-etc"
 },
 {
