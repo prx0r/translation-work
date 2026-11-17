@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p25-v601
-[of-bed](śayyāyāḥ) [on-northern](uttare) [part](bhāge) [having-placed](sthāpayitvā) [ever-nectar](sadā+amṛtam)
+[bed's](śayyāyā) [northern](uttare) [part](bhāge) [having-placed](sthāpayitvā) [ever-nectar](sadā+amṛtam)
 
 ## mukta-m0-p25-v602
-[full-jar](pūrṇa+kuṃbhaṃ) [its](tasya) [on-mouth](mukhe) [lotus](paṭmam) [one](ekaṃ) [one-should-visualize](viciṃtayet)
+[full-jar](pūrṇa+kuṃbhaṃ) [its](tasya) [mouth](mukhe) [lotus](paṭmam) [one](ekaṃ) [should-visualize](viciṃtayet)
 
 ## mukta-m0-p25-v603
-[ever-intoxication-intoxicated-self](sadā+madana+matta+ātmā) [noose-goad-shining-hand](pāśa+aṅkuśa+lasat+karaḥ)
+[ever-intoxication](sadā+madana) [intoxicated-self](matta+ātmā) [noose-goad](pāśa+aṃkuśa) [holding-hands](lasat+karaḥ)
 
 ## mukta-m0-p25-v604
-[on-lap-situated](aṃka+sthitāyāḥ) [of-intoxicated](mattāyāḥ) [siddhi-lakshmi-vulva-interior](siddhilakṣmī+bhaga+aṃtare)
+[lap-situated](aṃka+sthitāyā) [intoxicated-woman's](mattāyāḥ) [siddhi-lakshmi](siddhi+lakṣmī) [vulva-interior](bhaga+aṃtare)
 
 ## mukta-m0-p25-v605
-[and-of-her](tasyāḥ) [ca](ca) [by-hand-lotus](kara+padmena) [new-sprout-beautiful](nava+pallava+cāruṇā)
+[and-her](tasyāḥ+ca) [hand-lotus](kara+padmena) [new-sprout](nava+pallava) [beautiful](cāruṇā)
 
 ## mukta-m0-p25-v606
-[siddhi-lakshmi](siddhilakṣmī) [vulva-stream](bhaga+srotaḥ) [liquor-drinking-intoxication-languid](śīdhu+pāna+mada+ālasaḥ)
+[siddhi-lakshmi](siddhilakṣmī) [vulva-stream](bhaga+srota) [liquor-drinking](śīdhu+pāna) [intoxication-languid](mada+ālasaḥ)
 
 ## mukta-m0-p25-v607
-[siddhi-lakshmi-delight](siddhilakṣmī+rati) [sweat](sveta) [removing-ear-slaps](vinudat+karṇa+tālanaiḥ)
+[siddhi-lakshmi-delight](siddhilakṣmī+rati) [sweat](sveta) [removing](vinuda) [ear-ornaments](karṇa+tālanaiḥ)
 
 ## mukta-m0-p25-v608
-[siddhi-lakshmi](siddhilakṣmī) [lord-god](pate+deva) [shakti-heramba-form](śakti+heramba+vigraha)
+[siddhi-lakshmi](siddhilakṣmī) [lord-god](pate+deva) [shakti-heramba](śakti+heramba) [form](vigraha)
 
 ## mukta-m0-p25-v609
-[thus](iti) [by-this-indeed](anena+eva) [by-mantra](maṃtreṇa) [made-flower-offering](kṛta+puṣpa+añjali) [action](kriyaḥ)
+[thus](iti) [by-this-very](anena+eva) [mantra](maṃtreṇa) [made-flower-offering](kṛta+puṣpa+aṃjali) [rite](kriyaḥ)
 
 ## mukta-m0-p25-v610
-[and-of-messenger](dūtyāḥ) [ca](ca) [on-body](vigrahe) [flower](puṣpam) [one](ekam) [thus](evaṃ) [one-should-place](vinikṣipet)
+[and-messenger's](dūtyāḥ+ca) [body](vigrahe) [flower](puṣpam) [one](ekam) [thus](evaṃ) [should-place](vinikṣipet)
 
 ## mukta-m0-p25-v611
-[self-nature](ātma+svarūpa) [for-accomplishment](saṃsiddhyai) [this](tam) [bliss](ānaṃdam) [here](iha) [bring](ānaye)
+[own-nature](ātma+svarūpa) [for-accomplishment](saṃsiddhyai) [this](tam) [bliss](ānaṃdam) [here](iha) [bring](ānaye)
 
 ## mukta-m0-p25-v612
-[self-nature](ātma+svarūpa) [for-accomplishment](saṃsiddhyai) [this](tam) [bliss](ānaṃdam) [here](iha) [bring](ānaye)
+[own-nature](ātma+svarūpa) [for-accomplishment](saṃsiddhyai) [this](tam) [bliss](ānaṃdam) [here](iha) [bring](ānaye)
 
 ## mukta-m0-p25-v613
-[self-nature](ātma+svarūpa) [for-accomplishment](saṃsiddhyai) [this](tam) [bliss](ānaṃdam) [here](iha) [bring](ānaye)
+[own-nature](ātma+svarūpa) [for-accomplishment](saṃsiddhyai) [this](tam) [bliss](ānaṃdam) [here](iha) [bring](ānaye)
 
 ## mukta-m0-p25-v614
-[of-vasus](vasūnāṃ) [of-vasu-wives](vasu+patnīnāṃ) [which](yaḥ) [bliss](ānaṃdam) [great-lord](aheśvaraḥ)
+[of-the-vasus](vasūnāṃ) [of-the-wives-of-vasus](vasu+patnīnāṃ) [which](ya) [bliss](ānaṃdam) [o-great-lord](aheśvaraḥ)
 
 ## mukta-m0-p25-v615
-[self-nature](ātma+svarūpa) [for-accomplishment](saṃsiddhyai) [this](tam) [bliss](ānaṃdam) [here](iha) [bring](ānaye)
+[own-nature](ātma+svarūpa) [for-accomplishment](saṃsiddhyai) [this](tam) [bliss](ānaṃdam) [here](iha) [bring](ānaye)
 
 ## mukta-m0-p25-v616
-[self-nature](ātma+svarūpa) [for-accomplishment](saṃsiddhyai) [this](tam) [bliss](ānaṃdam) [here](iha) [bring](ānaye)
+[own-nature](ātma+svarūpa) [for-accomplishment](saṃsiddhyai) [this](tam) [bliss](ānaṃdam) [here](iha) [bring](ānaye)
 
 ## mukta-m0-p25-v617
-[self-nature](ātma+svarūpa) [for-accomplishment](saṃsiddhyai) [this](tam) [bliss](ānaṃdam) [here](iha) [bring](ānaye)
+[own-nature](ātma+svarūpa) [for-accomplishment](saṃsiddhyai) [this](tam) [bliss](ānaṃdam) [here](iha) [bring](ānaye)
 
 ## mukta-m0-p25-v618
-[self-nature](ātma+svarūpa) [for-accomplishment](saṃsiddhyai) [this](tam) [bliss](ānaṃdam) [here](iha) [bring](ānaye)
+[own-nature](ātma+svarūpa) [for-accomplishment](saṃsiddhyai) [this](tam) [bliss](ānaṃdam) [here](iha) [bring](ānaye)
 
 ## mukta-m0-p25-v619
-[self-nature](ātma+svarūpa) [for-accomplishment](saṃsiddhyai) [this](tam) [bliss](ānaṃdam) [here](iha) [bring](ānaye)
+[own-nature](ātma+svarūpa) [for-accomplishment](saṃsiddhyai) [this](tam) [bliss](ānaṃdam) [here](iha) [bring](ānaye)
 
 ## mukta-m0-p25-v620
-[self-nature](ātma+svarūpa) [for-accomplishment](saṃsiddhyai) [this](tam) [bliss](ānaṃdam) [here](iha) [bring](ānaye)
+[own-nature](ātma+svarūpa) [for-accomplishment](saṃsiddhyai) [this](tam) [bliss](ānaṃdam) [here](iha) [bring](ānaye)
 
 ## mukta-m0-p25-v621
-[self-nature](ātma+svarūpa) [for-accomplishment](saṃsiddhyai) [this](tam) [bliss](ānaṃdam) [here](iha) [bring](ānaye)
+[own-nature](ātma+svarūpa) [for-accomplishment](saṃsiddhyai) [this](tam) [bliss](ānaṃdam) [here](iha) [bring](ānaye)
 
 ## mukta-m0-p25-v622
-[therefore](tasmāt) [food-consisting](anna+mayaṃ) [sheath](kośaṃ) [to-blissfulness](ānaṃdamayatāṃ) [one-should-lead](nayet)
+[therefore](tasmāt) [food-made](anna+mayaṃ) [sheath](kośaṃ) [bliss-filled](ānaṃda+mayatāṃ) [lead](nayet)
 
 ## mukta-m0-p25-v623
-[therefore](tasmāt) [vital-breath-consisting](prāṇa+mayaṃ) [sheath](krośam) [to-blissfulness](ānaṃdamayatāṃ) [one-should-lead](nayet)
+[therefore](tasmāt) [vital-breath-made](prāṇa+mayaṃ) [sheath](krośam) [bliss-filled](ānaṃda+mayatāṃ) [lead](nayet)
 
 ## mukta-m0-p25-v624
-[therefore](tasmāt) [mind-consisting](manaḥ+mayaṃ) [sheath](kośam) [to-blissfulness](ānaṃdamayatāṃ) [one-should-lead](nayet)
+[therefore](tasmān) [mind-made](mano+mayaṃ) [sheath](kośam) [bliss-filled](ānaṃda+mayatāṃ) [lead](nayet)
 
 ## mukta-m0-p25-v625
-[that](tat) [knowledge-consisting](vijñāna+mayaṃ) [sheath](kośam) [to-blissfulness](anaṃdamayatāṃ) [one-should-lead](nayet)
+[that](tat) [knowledge-made](vijñāna+mayaṃ) [sheath](kośam) [bliss-filled](anaṃda+mayatāṃ) [lead](nayet)

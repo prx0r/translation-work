@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p23-v551
-[in-ānanda-tantra](ānaṃdataṃtre) [and](ca) [indeed](eva) [in-this](asmin) [four](catvāraḥ) [supremely](param) [declared](īritāḥ)
+[in+ānanda-tantra](ānaṃdataṃtre) [and+indeed](ca+eva) [in-this](asmin) [four](catvāraḥ) [supremely-declared](paramīritāḥ)
 
 ## mukta-m0-p23-v552
 [therefore](tasmāt) [four](catvāra) [chapters](ullāsā) [here](iha) [declared](proktā) [o-great-goddess](maheśvari)
 
 ## mukta-m0-p23-v553
-[therefore](tasmāt) [of-ānanda-worship](ānaṃda+pūjāyā) [to-be-resorted-to](ālaṃvyaṃte) [indeed](tu) [not](na) [three](trayaḥ)
+[therefore](tasmāt) [o-ānanda](ānaṃda) [of-worship](pūjāyā) [to-be-relied-upon](mālaṃvyaṃte) [indeed](tu) [not](na) [three](trayaḥ)
 
 ## mukta-m0-p23-v554
-[thus](tathā) [thus](tathā) [supreme-bliss](parānaṃda) [lord-knowledge](nātha+vidyāṃ) [one-should-contemplate](parāmṛśet)
+[thus](tathā) [thus](tathā) [supreme-bliss](parānaṃda) [nātha-knowledge](nāthavidyāṃ) [one-should-contemplate](parāmṛśet)
 
 ## mukta-m0-p23-v555
-[by-the-messenger-woman](dūtyā) [kindled-own-self](saṃdhukṣita+svātmā) [bliss-embodied](naṃda+mūrttiṃ) [guru](guruṃ) [one-should-remember](smaret)
+[by-dūtī](dūtyā) [kindled](saṃdhukṣita) [own-self](svātmā) [bliss-form](naṃdamūrttiṃ) [guru](guruṃ) [one-should-remember](smaret)
 
 ## mukta-m0-p23-v556
-[in-the-twelfth-end](dvādaśāṃta+gate) [red-white](rakta+śukla) [streams](pāde) [one-should-deposit](vinikṣipet)
+[in-twelve-end](dvādaśāṃtagate) [red+white-feet](raktaśuklapāde) [one-should-place](vinikṣipet)
 
 ## mukta-m0-p23-v557
-[in-śiva-hood-sovereignty](śivatva+sāmrājya) [consecrated-to-the-state](padābhiṣiktaṃ) [oneself](svaṃ) [one-should-contemplate](viciṃtayet)
+[śiva-hood+sovereignty](śivatvasāmrājya) [state+consecrated](padābhiṣiktaṃ) [oneself](svaṃ) [one-should-contemplate](viciṃtayet)
 
 ## mukta-m0-p23-v558
-[seeing](paśyan) [in-every-limb](pratyaṃgam) [sprouting-biting](aṃkūra+danaṃ) [with-mind-gone-to-cow](go+ttuṃga+mānasaḥ)
+[seeing](paśyan) [in-each-limb](pratyaṃgamaṃ) [sprout+bite](kūradanaṃ) [with-elevated-mind](gottuṃgamānasaḥ)
 
 ## mukta-m0-p23-v559
-[as](yathā) [youthful-exuberance](yauvanam+ullāsaṃ) [attains](saṃprāpnoti) [o-mother](aṃba) [messenger-woman](dūtikā)
+[as](yathā) [youth+exuberance](yauvanamullāsaṃ) [attains](saṃprāpnoti) [o-mother](aṃba) [dūtī](dūtikā)
 
 ## mukta-m0-p23-v560
-[in-sight](āloke) [delight](neratiḥ) [directly](sākṣāt) [in-smile](smite) [awakens](jāgarti) [jāhnavī](jāhnavī)
+[in-seeing](āloke) [delight](neratiḥ) [directly](sākṣāt) [in-smile](smite) [awakens](jāgarti) [jāhnavī](jāhnavī)
 
 ## mukta-m0-p23-v561
-[the-two-aśvins](aśvinau) [in-the-region-of-nose](nāsikā+bhāge) [and](tu) [on-the-lips](oṣṭhe) [and](ca) [supreme-nectar](paramāmṛtam)
+[two-aśvins](aśvinau) [in-nose-region](nāsikābhāge) [and-in-lips](tvoṣṭhe) [and](ca) [supreme-nectar](paramāmṛtam)
 
 ## mukta-m0-p23-v562
-[in-sweat](svede) [and](ca) [vāruṇī-goddess](vāruṇī+devī) [kāmanātha](kāmanāthaḥ) [indeed](tu) [i](ahaṃ) [in-action](kṛtau)
+[in-sweat](svede) [and](ca) [vāruṇī](vāruṇī) [goddess](devī) [kāmanātha](kāmanāthaḥ) [indeed+I](tu+ahaṃ) [in-action](kṛtau)
 
 ## mukta-m0-p23-v563
-[in-the-two-breasts](stana+dvaye) [meru-mountain](meru+giriḥ) [soundless](niḥ+śabdaṃ) [brahman](brahma) [in-the-middle](madhyame)
+[in-two-breasts](stanadvaye) [meru-mountain](merugiriḥ) [without-sound](nniḥ+śabdaṃ) [brahman](brahma) [in-middle](madhyame)
 
 ## mukta-m0-p23-v564
-[in-the-three-folds](vali+traye) [and](ca) [the-three-worlds](trailokyaṃ) [in-the-navel-womb](nābhi+garbhe) [cave-ambikā](guhā+aṃbikā)
+[in-three-folds](valitraye) [and](ca) [three-worlds](trailokyaṃ) [in-navel-womb](nābhigarbhe) [cave-mother](guhāṃbikā)
 
 ## mukta-m0-p23-v565
-[in-the-nails](nakheṣu) [śītāṃśu](śītāṃśu) [moon-digit](kalā) [and](dor) [at-the-root](mūle) [aṅkuśa-deities](aṃkuśa+devatāḥ)
+[in-nails](nakheṣu) [cool-digit](śītāṃ+śu+kalā) [at-root](dor+mūle) [aṅkuśa-deities](aṃkuśadevatāḥ)
 
 ## mukta-m0-p23-v566
-[kāverī](kāverī) [and](ca) [indeed](eva) [in-breath](niśvāse) [godā](godā) [in-the-act-of-sighing](āsītkāra+karmaṇi)
+[kāverī](kāverī) [and+indeed](ca+eva) [in-breath](niśvāse) [godā](godā) [in-hissing-action](sītkāra+karmaṇi)
 
 ## mukta-m0-p23-v567
-[in-pure-speech-acts](amala+ālāpa+kṛtyeṣu) [mind-rest](citta+viśrāṃti) [leader](nāyakā)
+[in-pure-speech-acts](amalālāpakṛtyeṣu) [mind-rest-lords](cittaviśrāṃti+nāyakā)
 
 ## mukta-m0-p23-v568
-[lord-of-speech](vāk+patiḥ) [in-pleasurable-hum-sound](sukha+huṃkāre) [lord-of-speech](gīṣpatiḥ) [in-cooing-sound](kāku+kā+dhvanau)
+[speech-lord](vākptiḥ) [in-pleasure-hum-sound](sukhahuṃkāre) [speech-lord](gīṣpatiḥ) [in-cooing-sound](kākukādhvanau)
 
 ## mukta-m0-p23-v569
-[indra](iṃdraḥ) [in-elevation-of-mind](citta+samunnatyām) [agni](agniḥ) [in-the-splendor](tviṣi) [that-devours-things](vastu+grasī)
+[indra](iṃdraḥ) [in-mind-elevation](cittasamunnatyām) [agni](agniḥ) [thing-devouring](vastu+grasītviṣi)
 
 ## mukta-m0-p23-v570
-[in-movement-of-hands-etc](hasta+ādi+cālane) [sacrifice](yajñaḥ) [and](tu) [in-embrace](āśleṣe) [sacrifice-person](yajña+pūruṣaḥ)
+[in-hand-etc-movement](hastādicālane) [sacrifice](yajñaḥ) [and-in-embrace](tu+āśleṣe) [sacrifice-person](yajñapūruṣaḥ)
 
 ## mukta-m0-p23-v571
-[gentle-dance](lāsyaṃ) [and](ca) [fierce-dance](tāṃḍavaṃ) [o-goddess](devi) [of-her](tasyā) [in-swaying-of-body-etc](deha+ādi+ghūrṇane)
+[gentle-dance](lāsyaṃ) [and](ca) [fierce-dance](tāṃḍavaṃ) [o-goddess](devi) [of-her](tasyā) [in-body-etc-whirling](dehādi+ghūrṇane)
 
 ## mukta-m0-p23-v572
-[those](tāni) [all](sarvāṇi) [exist](varttate) [in-her-mouthful-substance](tasyā+gaṃḍūṣa+vastuni)
+[those](tānisarvāṇi) [all](varttate) [of-her](tasyā) [in-mouthful-thing](gaṃḍūṣavastuni)
 
 ## mukta-m0-p23-v573
-[that-fruit](tat+phalaṃ) [obtains](labhate) [the-messenger-woman](dūtī) [from-partaking-of-nectar-mouthful](sudhā+gaṃḍūṣa+sevanāt)
+[that-fruit](tatphalaṃ) [obtains](labhate) [dūtī](dūtī) [nectar-mouthful](sudhāgaṃḍūṣa) [by-service](sevanāt)
 
 ## mukta-m0-p23-v574
-[mouthful](gaṃḍūṣam) [first](ādiraṃ) [o-goddess](devī) [of-the-hero](vīrasya) [bliss-increasing](ānaṃda+varddhanam)
+[mouthful](gaṃḍūṣam) [first](ādiraṃ) [o-goddess](devī) [of-hero](vīrasya) [bliss-increasing](ānaṃda+varddhanam)
 
 ## mukta-m0-p23-v575
-[nityaklinnā-nectar](nityaklinnā+sudhā) [o-goddess](devī) [desire](rati) [and](ca) [delight](prītiḥ) [in-her-vulva](tat+bhage)
+[nitya-klinnā-nectar](nityaklinnāsudhā) [o-goddess](devī) [desire](rati) [and-delight](prītiḥ) [and](ca) [in-her-vulva](tadbhage)
