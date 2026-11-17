@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p122-v3026
-[salutation-to-the-mendicant](bhikṣavenamaḥ) [salutation-to-the-form-of-a-mendicant](bhikṣurūpāyanamaḥ) [salutation-to-the-market](vipaṇāyanamaḥ)
+[to-the-beggar-salutation](bhikṣavenamaḥ) [to-the-beggar-form-salutation](bhikṣurūpāyanamaḥ) [to-the-market-salutation](vipaṇāyanamaḥ)
 
 ## mukta-m0-p122-v3027
-[salutation-to-the-thunderbolt-handed-one](vajrahastāyanamaḥ) [salutation-to-the-obstructor](viṣkambhinenamaḥ)
+[to-the-thunderbolt-hand-salutation](vajrahastāyanamaḥ) [to-the-obstacle-remover-salutation](viṣkambhinenamaḥ)
 
 ## mukta-m0-p122-v3028
-[salutation-to-the-army-stopping-one](camūstambhanāyanamaḥ) [salutation-to-the-maker-of-round-and-not-round](vṛttāvṛttakarāyanamaḥ)
+[to-the-army-stopping-salutation](camūstambhanāyanamaḥ) [to-the-round-and-nonround-maker-salutation](vṛttāvṛttakarāyanamaḥ)
 
 ## mukta-m0-p122-v3029
-[salutation-to-the-palm-tree](tālāyanamaḥ) [salutation-to-the-spring](madhavenamaḥ) [salutation-to-the-sweet-eyed-one](madhukalocanāyanamaḥ)
+[to-the-palm-salutation](tālāyanamaḥ) [to-the-spring-salutation](madhavenamaḥ) [to-the-honey-eyed-salutation](madhukalocanāyanamaḥ)
 
 ## mukta-m0-p122-v3030
-[salutation-to-the-lord-of-speech](vācaspatyāyanamaḥ) [salutation-to-the-feathered-one](vājasanāyanamaḥ)
+[to-the-lord-of-speech-salutation](vācaspatyāyanamaḥ) [to-the-sacrificial-salutation](vājasanāyanamaḥ)
 
 ## mukta-m0-p122-v3031
-[salutation-to-the-one-worshipped-in-hermitages](āśramapūjitāyanamaḥ) [salutation-to-the-celibate](brahmacāriṇenamaḥ)
+[to-the-hermitage-honored-salutation](āśramapūjitāyanamaḥ) [to-the-celibate-salutation](brahmacāriṇenamaḥ)
 
 ## mukta-m0-p122-v3032
-[salutation-to-the-world-wanderer](lokacāriṇenamaḥ) [salutation-to-the-all-wanderer](sarvacāriṇenamaḥ) [salutation-to-the-knower-of-inquiry](vicāravidenamaḥ)
+[to-the-world-wandering-salutation](lokacāriṇenamaḥ) [to-the-all-wandering-salutation](sarvacāriṇenamaḥ) [to-the-deliberation-knowing-salutation](vicāravidenamaḥ)
 
 ## mukta-m0-p122-v3033
-[salutation-to-the-ruler](īśānāyanamaḥ) [salutation-to-the-lord](īśvarāyanamaḥ) [salutation-to-time](kālāyanamaḥ)
+[to-the-ruler-salutation](īśānāyanamaḥ) [to-the-lord-salutation](īśvarāyanamaḥ) [to-time-salutation](kālāyanamaḥ)
 
 ## mukta-m0-p122-v3034
-[salutation-to-the-night-wanderer](niśācāriṇenamaḥ) [salutation-to-the-pinaka-holder](pinākadhṛṣenamaḥ) [salutation-to-the-cause-stander](nimittasthāyanamaḥ)
+[to-the-night-wandering-salutation](niśācāriṇenamaḥ) [to-the-pinaka-holder-salutation](pinākadhṛṣenamaḥ) [to-the-omen-standing-salutation](nimittasthāyanamaḥ)
 
 ## mukta-m0-p122-v3035
-[salutation-to-the-cause](nimittāyanamaḥ) [salutation-to-the-delighter](nandayenamaḥ) [salutation-to-the-maker-of-joy](nandikarāyanamaḥ)
+[to-the-omen-salutation](nimittāyanamaḥ) [to-the-delighting-salutation](nandayenamaḥ) [to-the-joy-maker-salutation](nandikarāyanamaḥ)
 
 ## mukta-m0-p122-v3036
-[salutation-to-hara](harayenamaḥ) [salutation-to-the-lord-of-nandi](nandīśvarāyanamaḥ) [salutation-to-nandin](nandinenamaḥ)
+[to-the-tawny-salutation](harayenamaḥ) [to-the-lord-of-joy-salutation](nandīśvarāyanamaḥ) [to-the-joyful-salutation](nandinenamaḥ)
 
 ## mukta-m0-p122-v3037
-[salutation-to-the-slayer](nihantrenamaḥ) [salutation-to-time](kālāyanamaḥ) [salutation-to-brahman](brahmaṇenamaḥ)
+[to-the-slayer-salutation](nihantrenamaḥ) [to-time-salutation](kālāyanamaḥ) [to-the-brahman-salutation](brahmaṇenamaḥ)
 
 ## mukta-m0-p122-v3038
-[salutation-to-the-grandfather](pitāmahāyanamaḥ) [salutation-to-the-four-faced-one](caturmmukhāyanamaḥ)
+[to-the-grandfather-salutation](pitāmahāyanamaḥ) [to-the-four-faced-salutation](caturmmukhāyanamaḥ)
 
 ## mukta-m0-p122-v3039
-[salutation-to-the-great-linga](mahāliṅgāyanamaḥ) [salutation-to-the-beautiful-linga](cāruliṅgāyanamaḥ)
+[to-the-great-lingam-salutation](mahāliṅgāyanamaḥ) [to-the-beautiful-lingam-salutation](cāruliṅgāyanamaḥ)
 
 ## mukta-m0-p122-v3040
-[salutation-to-the-overseer-of-lingas](liṅgādhyakṣāyanamaḥ) [salutation-to-the-overseer-of-gods](surādhyakṣāyanamaḥ)
+[to-the-lingam-superintendent-salutation](liṅgādhyakṣāyanamaḥ) [to-the-god-superintendent-salutation](surādhyakṣāyanamaḥ)
 
 ## mukta-m0-p122-v3041
-[salutation-to-the-overseer-of-yoga](yogādhyakṣāyanamaḥ) [salutation-to-the-yoke-bearer](yugāvahāyanamaḥ)
+[to-the-yoga-superintendent-salutation](yogādhyakṣāyanamaḥ) [to-the-yoke-bearer-salutation](yugāvahāyanamaḥ)
 
 ## mukta-m0-p122-v3042
-[salutation-to-the-overseer-of-seed](bījādhyakṣāyanamaḥ) [salutation-to-the-maker-of-seed](bījakarttrenamaḥ)
+[to-the-seed-superintendent-salutation](bījādhyakṣāyanamaḥ) [to-the-seed-maker-salutation](bījakarttrenamaḥ)
 
 ## mukta-m0-p122-v3043
-[salutation-to-the-one-following-the-self](adhyātmānugatāyanamaḥ) [salutation-to-strength](balāyanamaḥ) [salutation-to-history](itihāsāyanamaḥ)
+[to-the-self-following-salutation](adhyātmānugatāyanamaḥ) [to-strength-salutation](balāyanamaḥ) [to-the-epic-salutation](itihāsāyanamaḥ)
 
 ## mukta-m0-p122-v3044
-[salutation-to-the-subduer](vaśyāyanamaḥ) [salutation-to-the-maker-of-subjection](vaśakarāyanamaḥ) [salutation-to-kala](kalayenamaḥ)
+[to-the-subduing-salutation](vaśyāyanamaḥ) [to-the-subduer-salutation](vaśakarāyanamaḥ) [to-the-counting-salutation](kalayenamaḥ)
 
 ## mukta-m0-p122-v3045
-[salutation-to-the-world-maker](lokakarttrenamaḥ) [salutation-to-the-lord-of-beasts](paśupatayenamaḥ) [salutation-to-the-great-maker](mahākarttrenamaḥ)
+[to-the-world-maker-salutation](lokakarttrenamaḥ) [to-the-lord-of-beasts-salutation](paśupatayenamaḥ) [to-the-great-maker-salutation](mahākarttrenamaḥ)
 
 ## mukta-m0-p122-v3046
-[salutation-to-the-without-medicine-one](anauṣadhāyanamaḥ) [salutation-to-the-imperishable](akṣarāyanamaḥ) [salutation-to-the-supreme-brahman](paramabrahmaṇenamaḥ)
+[to-the-without-medicine-salutation](anauṣadhāyanamaḥ) [to-the-imperishable-salutation](akṣarāyanamaḥ) [to-the-supreme-brahman-salutation](paramabrahmaṇenamaḥ)
 
 ## mukta-m0-p122-v3047
-[salutation-to-the-strong-one](balavatenamaḥ) [salutation-to-indra](śakrāyanamaḥ) [salutation-to-policy](nītayenamaḥ)
+[to-the-mighty-salutation](balavatenamaḥ) [to-Indra-salutation](śakrāyanamaḥ) [to-conduct-salutation](nītayenamaḥ)
 
 ## mukta-m0-p122-v3048
-[salutation-to-the-without-policy-one](anītayenamaḥ) [salutation-to-the-pure-souled-one](śuddhātmanenamaḥ) [salutation-to-the-pure-one](śuddhāyanamaḥ)
+[to-the-without-conduct-salutation](anītayenamaḥ) [to-the-pure-soul-salutation](śuddhātmanenamaḥ) [to-the-pure-salutation](śuddhāyanamaḥ)
 
 ## mukta-m0-p122-v3049
-[salutation-to-the-honored-one](mānyāyanamaḥ) [salutation-to-the-going-and-coming-one](gatāgatāyanamaḥ) [salutation-to-the-much-graceful-one](bahuprasādāyanamaḥ)
+[to-the-honorable-salutation](mānyāyanamaḥ) [to-the-going-and-coming-salutation](gatāgatāyanamaḥ) [to-the-much-grace-salutation](bahuprasādāyanamaḥ)
 
 ## mukta-m0-p122-v3050
-[salutation-to-the-maker-of-the-vedas](vedakārāyanamaḥ) [salutation-to-the-maker-of-mantras](mantrakārāyanamaḥ) [salutation-to-the-knower](viduṣenamaḥ)
+[to-the-veda-maker-salutation](vedakārāyanamaḥ) [to-the-mantra-maker-salutation](mantrakārāyanamaḥ) [to-the-wise-salutation](viduṣenamaḥ)

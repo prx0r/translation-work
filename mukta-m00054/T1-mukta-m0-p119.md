@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p119-v2951
-[beautiful-form+salutation](surūpāyanamaḥ) [radiance+salutation](tejasenamaḥ) [radiance-treasury+salutation](tejaskaranidhayenamaḥ)
+[salutation-to-beautiful-form](surūpāyanamaḥ) [salutation-to-radiance](tejasenamaḥ) [salutation-to-treasury-of-radiance](tejaskaranidhayenamaḥ)
 
 ## mukta-m0-p119-v2952
-[turbaned+salutation](uṣṇīṣiṇenamaḥ) [beautiful-mouth+salutation](suvaktrāyanamaḥ) [exalted+salutation](udagrāyanamaḥ)
+[salutation-to-turbaned-one](uṣṇīṣiṇenamaḥ) [salutation-to-beautiful-mouth](suvaktrāyanamaḥ) [salutation-to-exalted-one](udagrāyanamaḥ)
 
 ## mukta-m0-p119-v2953
-[bowing+salutation](vinatāyanamaḥ) [long+salutation](dīrgghāyanamaḥ) [tawny-haired+salutation](harikeśāyanamaḥ)
+[salutation-to-bowed-one](vinatāyanamaḥ) [salutation-to-tall-one](dīrgghāyanamaḥ) [salutation-to-tawny-haired-one](harikeśāyanamaḥ)
 
 ## mukta-m0-p119-v2954
-[accomplished-aim+salutation](siddhārtthāyanamaḥ) [shaven+salutation](muṇḍāyanamaḥ)
+[salutation-to-accomplished-aim](siddhārtthāyanamaḥ) [salutation-to-shaven-one](muṇḍāyanamaḥ)
 
 ## mukta-m0-p119-v2955
-[all-auspicious-doer+salutation](sarvaśubhaṃkarāyanamaḥ) [unborn+salutation](ajāyanamaḥ) [many-formed+salutation](bahurūpāyanamaḥ)
+[salutation-to-all-auspicious-doer](sarvaśubhaṃkarāyanamaḥ) [salutation-to-unborn-one](ajāyanamaḥ) [salutation-to-many-formed-one](bahurūpāyanamaḥ)
 
 ## mukta-m0-p119-v2956
-[fragrance-bearer+salutation](gandhadhāriṇenamaḥ) [matted-hair+salutation](kaparddinenamaḥ)
+[salutation-to-fragrance-bearer](gandhadhāriṇenamaḥ) [salutation-to-matted-haired-one](kaparddinenamaḥ)
 
 ## mukta-m0-p119-v2957
-[upward-semen+salutation](urddhvaretasenamaḥ) [upward-phallus+salutation](urddhvaliṅgāyanamaḥ)
+[salutation-to-upward-semen](urddhvaretasenamaḥ) [salutation-to-upward-phallus](urddhvaliṅgāyanamaḥ)
 
 ## mukta-m0-p119-v2958
-[upward-lying+salutation](urddhvaśāyinenamaḥ) [sky-place+salutation](nabhasthalāyanamaḥ) [three-braids+salutation](trijaṭāyanamaḥ)
+[salutation-to-upward-lying-one](urddhvaśāyinenamaḥ) [salutation-to-sky-place](nabhasthalāyanamaḥ) [salutation-to-three-braids](trijaṭāyanamaḥ)
 
 ## mukta-m0-p119-v2959
-[mighty+salutation](vibhavenamaḥ) [day-wandering+salutation](ahaścarāyanamaḥ) [night-wandering+salutation](naktañcarāyanamaḥ)
+[salutation-to-mighty-one](vibhavenamaḥ) [salutation-to-day-roamer](ahaścarāyanamaḥ) [salutation-to-night-roamer](naktañcarāyanamaḥ)
 
 ## mukta-m0-p119-v2960
-[sharp-anger+salutation](tigmamanyavenamaḥ) [good-radiance+salutation](suvarccasāyanamaḥ) [elephant-slayer+salutation](gajaghnenamaḥ)
+[salutation-to-sharp-anger](tigmamanyavenamaḥ) [salutation-to-good-radiance](suvarccasāyanamaḥ) [salutation-to-elephant-slayer](gajaghnenamaḥ)
 
 ## mukta-m0-p119-v2961
-[demon-slayer+salutation](daityaghnenamaḥ) [time+salutation](kālāyanamaḥ) [world-sustainer+salutation](lokadhātrenamaḥ)
+[salutation-to-demon-slayer](daityaghnenamaḥ) [salutation-to-time](kālāyanamaḥ) [salutation-to-world-sustainer](lokadhātrenamaḥ)
 
 ## mukta-m0-p119-v2962
-[quality-treasury+salutation](guṇākarāyanamaḥ)
+[salutation-to-treasury-of-qualities](guṇākarāyanamaḥ)
 
 ## mukta-m0-p119-v2963
-[lion-tiger-form+salutation](siṃhaśārddūlarūpāyanamaḥ)
+[salutation-to-lion-tiger-form](siṃhaśārddūlarūpāyanamaḥ)
 
 ## mukta-m0-p119-v2964
-[wet-skin-garment-covered+salutation](ārddracarmāmbarāvṛtāyanamaḥ) [time-yogin+salutation](kālayoginenamaḥ)
+[salutation-to-wet-skin-garment](ārddracarmāmbarāvṛtāyanamaḥ) [salutation-to-time-yogin](kālayoginenamaḥ)
 
 ## mukta-m0-p119-v2965
-[night-wandering+salutation](niśācarāyanamaḥ) [preta-walking+salutation](pretacāriṇenamaḥ)
+[salutation-to-night-roamer](niśācarāyanamaḥ) [salutation-to-ghost-wanderer](pretacāriṇenamaḥ)
 
 ## mukta-m0-p119-v2966
-[gone+salutation](gatayenamaḥ) [dance-loving+salutation](nṛtyapriyāyanamaḥ) [eternal-dancer+salutation](nityanarttāyanamaḥ)
+[salutation-to-gone-one](gatayenamaḥ) [salutation-to-dance-lover](nṛtyapriyāyanamaḥ) [salutation-to-eternal-dancer](nityanarttāyanamaḥ)
 
 ## mukta-m0-p119-v2967
-[dancer+salutation](narttakāyanamaḥ) [all-desiring+salutation](sarvalālasāyanamaḥ) [terrible+salutation](ghorāyanamaḥ)
+[salutation-to-dancer](narttakāyanamaḥ) [salutation-to-all-desired](sarvalālasāyanamaḥ) [salutation-to-terrible-one](ghorāyanamaḥ)
 
 ## mukta-m0-p119-v2968
-[great-ascetic+salutation](mahātapasenamaḥ) [noose+salutation](pāśāyanamaḥ) [eternal+salutation](nityāyanamaḥ)
+[salutation-to-great-ascetic](mahātapasenamaḥ) [salutation-to-noose](pāśāyanamaḥ) [salutation-to-eternal-one](nityāyanamaḥ)
 
 ## mukta-m0-p119-v2969
-[mountain-dwelling+salutation](giriruhāyanamaḥ) [sky+salutation](nabhasenamaḥ) [thousand-handed+salutation](sahasrahastāyanamaḥ)
+[salutation-to-mountain-dweller](giriruhāyanamaḥ) [salutation-to-sky](nabhasenamaḥ) [salutation-to-thousand-handed-one](sahasrahastāyanamaḥ)
 
 ## mukta-m0-p119-v2970
-[victorious+salutation](vijayāyanamaḥ) [exertion+salutation](vyavasāyanamaḥ) [untiring+salutation](atandritāyanamaḥ)
+[salutation-to-victory](vijayāyanamaḥ) [salutation-to-resolve](vyavasāyanamaḥ) [salutation-to-unwearied-one](atandritāyanamaḥ)
 
 ## mukta-m0-p119-v2971
-[unassailable+salutation](adharṣaṇāyanamaḥ) [assailable-self+salutation](dharṣaṇātmanenamaḥ) [sacrifice-slayer+salutation](yajñaghnenamaḥ)
+[salutation-to-unassailable-one](adharṣaṇāyanamaḥ) [salutation-to-self-assailing](dharṣaṇātmanenamaḥ) [salutation-to-sacrifice-slayer](yajñaghnenamaḥ)
 
 ## mukta-m0-p119-v2972
-[desire-destroyer+salutation](kāmanāśakāyanamaḥ) [daksha-sacrifice-remover+salutation](dakṣayāgāpahāriṇenamaḥ)
+[salutation-to-desire-destroyer](kāmanāśakāyanamaḥ) [salutation-to-daksha-sacrifice-remover](dakṣayāgāpahāriṇenamaḥ)
 
 ## mukta-m0-p119-v2973
-[good-endurance+salutation](susahāyanamaḥ) [middle+salutation](madhyamāyanamaḥ) [radiance-remover+salutation](tejopahāriṇenamaḥ)
+[salutation-to-well-enduring](susahāyanamaḥ) [salutation-to-middle-one](madhyamāyanamaḥ) [salutation-to-radiance-remover](tejopahāriṇenamaḥ)
 
 ## mukta-m0-p119-v2974
-[strength-slayer+salutation](balaghnenamaḥ) [joyful+salutation](muditāyanamaḥ) [wealth+salutation](artthāyanamaḥ)
+[salutation-to-strength-slayer](balaghnenamaḥ) [salutation-to-joyful-one](muditāyanamaḥ) [salutation-to-wealth](artthāyanamaḥ)
 
 ## mukta-m0-p119-v2975
-[unconquered+salutation](ajitāyanamaḥ) [inferior+salutation](avarāyanamaḥ) [deep+salutation](gambhīrāyanamaḥ)
+[salutation-to-unconquered-one](ajitāyanamaḥ) [salutation-to-inferior-one](avarāyanamaḥ) [salutation-to-profound-one](gambhīrāyanamaḥ)

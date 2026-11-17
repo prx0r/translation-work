@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p02-v26
-lingam(lingaṃ) ca(ca) dvividham(dvividhaṃ) jñeyam(jñeyaṃ) calaṃ(calaṃ) ca(ca) eva(eva) acalaṃ(acalaṃ) tathā(tathā)
+[liṅga](liṅgaṃ) [ca](ca) [dvividha](dvividhaṃ) [jñeya](jñeyaṃ) [cala](calaṃ) [ca](ca) [eva](eva) [acala](acalaṃ) [tathā](tathā)
 
 ## mukta-m0-p02-v27
-sthira-lakṣmī-pradam(sthiralakṣmīpradaṃ) haimaṃ(haimaṃ) rājataṃ(rājataṃ) ca(ca) eva(eva) rājya-dam(rājyadam)
+[sthira-lakṣmī-prada](sthiralakṣmīpradaṃ) [haima](haimaṃ) [rājata](rājataṃ) [ca](ca) [eva](eva) [rājya-da](rājyadam)
 
 ## mukta-m0-p02-v28
-vidveṣa-kārakaṃ(vidveṣakārakaṃ) kāṃsyaṃ(kāṃsyaṃ) rīti-jaṃ(rītijaṃ) śatru-vālanam(śatruvālanam)
+[vidveṣa-kāraka](vidveṣakārakaṃ) [kāṃsya](kāṃsyaṃ) [rīti-ja](rītijaṃ) [śatru-vālana](śatruvālanam)
 
 ## mukta-m0-p02-v29
-aṣṭa-loha-mayaṃ(aṣṭalohamayaṃ) liṅgaṃ(liṅgaṃ) kuṣṭha-roga-kṣaya-āvaham(kuṣṭharogakṣayāvaham)
+[aṣṭa-loha-maya](aṣṭalohamayaṃ) [liṅga](liṅgaṃ) [kuṣṭha-roga-kṣaya-āvaha](kuṣṭharogakṣayāvaham)
 
 ## mukta-m0-p02-v30
-sikthaṃ(sikthaṃ) kṛtvā(kṛtvā) mṛdā(mṛdā) liptvā(liptvā) taptvā(taptvā) udvāsya(udvāsya) ca(ca) kārukaḥ(kārukaḥ)
+[siktha](sikthaṃ) [kṛtvā](kṛtvā) [mṛdā](mṛdā) [liptvā](liptvā) [taptvā](taptvā) [udvāsya](udvāsya) [ca](ca) [kāruka](kārukaḥ)
 
 ## mukta-m0-p02-v31
-hema-āhibhyāṃ(hemāhibhyāṃ) kramāt(kramāt) ārata-āmra-vaṅga-āraghoṣakaiḥ(āratāmravaṅgāraghoṣakaiḥ)
+[hema](hemā) [ahi](ahibhyāṃ) [kramāt](kramāt) [ārata](ārata) [tāmra](tāmra) [vaṅga](vaṅga) [āraghoṣaka](āraghoṣakaiḥ)
 
 ## mukta-m0-p02-v32
-kāṣṭhaṃ(kāṣṭhaṃ) kṣiptvā(kṣiptvā) dṛḍhaṃ(dṛḍhaṃ) tat(tat) tu(tu) śilā-ghṛṣṭaṃ(śilāghṛṣṭaṃ) sa-vālukaṃ(savālukam)
+[kāṣṭha](kāṣṭhaṃ) [kṣiptvā](kṣiptvā) [dṛḍha](dṛḍhaṃ) [tat](tattu) [śilā-ghṛṣṭa](śilāghṛṣṭaṃ) [sa-vāluka](savālukam)
 
 ## mukta-m0-p02-v33
-tayā(tayā) lavaṇa-pūra-ambu(lavaṇapūrāmbu) yuktayā(yuktayā) lepayet(lepayet) budhaḥ(budhaḥ)
+[tayā](tayā) [lavaṇa-pūra-ambu](lavaṇapūrāmbu) [yuktayā](yuktayā) [lepayet](lepayed) [budha](budhaḥ)
 
 ## mukta-m0-p02-v34
-bāla-kuñcikayā(bālakuñcikayā) sāmyaṃ(sāmyaṃ) nayet(nayet) tat(tat) kramaśaḥ(kramaśaḥ) śanaiḥ(śanaiḥ)
+[bāla-kuñcikayā](bālakuñcikayā) [sāmya](sāmyaṃ) [nayet](nayettat) [kramaśaḥ](kramaśaḥ) [śanaiḥ](śanaiḥ)
 
 ## mukta-m0-p02-v35
-tataḥ(tataḥ) anumārjayet(anumārjayet) yatnāt(yatnāt) maṇinā(maṇinā) madana-ambubhiḥ(madanāmbubhiḥ)
+[tataḥ](tato) [anumārjayet](anumārjayedyatnān) [maṇinā](maṇinā) [madana-ambubhiḥ](madanāmbubhiḥ)
 
 ## mukta-m0-p02-v36
-rasayet(rasayet) tāmra-jaṃ(tāmrajaṃ) śilpī(śilpī) hāṭakena(hāṭakena) su-cārūṇā(sucārūṇā)
+[rasayet](rasayettāmrajaṃ) [tāmra-ja](tāmrajaṃ) [śilpī](śilpī) [hāṭakena](hāṭakena) [su-cāruṇā](sucārūṇā)
 
 ## mukta-m0-p02-v37
-guru(guru) snigdhaṃ(snigdhaṃ) mṛdu-sparśe(mṛdusparśe) ṣaḍvidhaṃ(ṣaḍvidhaṃ) hema-śobhanam(hemaśobhanam)
+[guru](guru) [snigdha](snigdhaṃ) [mṛdu-sparśe](mṛdusparśe) [ṣaḍvidha](ṣaḍvidhaṃ) [hema-śobhana](hemaśobhanam)
 
 ## mukta-m0-p02-v38
-dhātu-udbhavaṃ(dhātūdbhavaṃ) samākhyātaṃ(samākhyātaṃ) ratna-jādi(ratnajādi) vadāmi(vadāmi) ataḥ(ataḥ)
+[dhātu-udbhava](dhātūdbhavaṃ) [samākhyāta](samākhyātaṃ) [ratna-ja-ādi](ratnajādi) [vadāmi](vadāmyataḥ)
 
 ## mukta-m0-p02-v39
-sukha-kṛt(sukhakṛt) puṣpa-rāga-utthaṃ(puṣparāgotthaṃ) vaidūryaṃ(vaidūryaṃ) śatru-darpa-hṛt(śatrudarpahṛt)
+[sukha-kṛt](sukhakṛt) [puṣpa-rāga-uttha](puṣparāgotthaṃ) [vaidūrya](vaidūryaṃ) [śatru-darpa-hṛt](śatrudarpahṛt)
 
 ## mukta-m0-p02-v40
-liṅgaṃ(liṅgaṃ) mārakataṃ(mārakataṃ) puṣṭyai(puṣṭyai) sphaṭikaṃ(sphaṭikaṃ) sarva-kāma-dam(sarvakāmadam)
+[liṅga](liṅgaṃ) [mārakata](mārakataṃ) [puṣṭyai](puṣṭyai) [sphaṭika](sphaṭikaṃ) [sarva-kāma-dam](sarvakāmadam)
 
 ## mukta-m0-p02-v41
-vaidrumaṃ(vaidrumaṃ) vaśya-kam-ārthaṃ(vaśyakamārthaṃ) kārketanaṃ(kārketanam) amitra-hṛt(amitrahṛt)
+[vaidruma](vaidrumaṃ) [vaśya-kamārtha](vaśyakamārthaṃ) [kārketana](kārketanam) [amitra-hṛt](amitrahṛt)
 
 ## mukta-m0-p02-v42
-bala-daṃ(baladaṃ) jīva-jātī-jaṃ(jīvajātījaṃ) ṭaiṭṭibhaṃ(ṭaiṭṭibhaṃ) śatru-mardanam(śatrumardanam)
+[bala-da](baladaṃ) [jīva-jātī-ja](jīvajātījaṃ) [ṭaiṭṭibha](ṭaiṭṭibhaṃ) [śatru-mardana](śatrumardanam)
 
 ## mukta-m0-p02-v43
-iti(iti) prasthāna-liṅgāni(prasthānaliṅgāni) śuddhi-mānāni(śuddhimānānyataḥ) ataḥ(ataḥ) param(param)
+[iti](iti) [prasthāna-liṅgāni](prasthānaliṅgāni) [śuddhi-mānāni](śuddhimānānyataḥ) [ataḥ](ataḥ) [param](param)
 
 ## mukta-m0-p02-v44
-kārukaiḥ(kārukaiḥ) ghaṭitaṃ(ghaṭitaṃ) yat(yat) ca(ca) tat(tat) liṅgaṃ(liṅgaṃ) nirmitaṃ(nirmitaṃ) smṛtam(smṛtam)
+[kārukaiḥ](kārukai) [ghaṭita](ghaṭitaṃ) [yat](yacca) [tat](talliṅgaṃ) [liṅga](liṅgaṃ) [nirmita](nirmitaṃ) [smṛta](smṛtam)
 
 ## mukta-m0-p02-v45
-tat(tat) pūjyaṃ(pūjyaṃ) rājabhiḥ(rājabhiḥ) yatnāt(yatnāt) bhukti-mukti-arthibhiḥ(bhuktimuktyarthibhiḥ) sadā(sadā)
+[tat](tatpūjyaṃ) [pūjya](pūjyaṃ) [rājabhiḥ](rājabhiryatnādbhuktimuktyarthibhiḥ) [yatnāt](yatnāt) [bhukti-mukti-arthibhiḥ](bhuktimuktyarthibhiḥ) [sadā](sadā)
 
 ## mukta-m0-p02-v46
-ūrdhva-adhaḥ-vadanaṃ(ūrdhvādhovadanaṃ) dīrgham(dīrgham) adhaḥ(adhaḥ) sthūlaṃ(sthūlaṃ) ca(ca) niṣprabham(niṣprabham)
+[ūrdhva-adhaḥ-vadana](ūrdhvādhovadanaṃ) [dīrgha](dīrgham) [adhaḥ](adhaḥ) [sthūla](sthūlaṃ) [ca](ca) [niṣprabha](niṣprabham)
 
 ## mukta-m0-p02-v47
-chidraṃ(chidraṃ) ca(ca) sphuṭitaṃ(sphuṭitaṃ) trastaṃ(trastaṃ) śalya-anvitaṃ(śalyānvitaṃ) surojjhitam(surojjhitam)
+[chidra](chidraṃ) [ca](ca) [sphuṭita](sphuṭitaṃ) [trasta](trastaṃ) [śalya-anvita](śalyānvitaṃ) [surojjhita](surojjhitam)
 
 ## mukta-m0-p02-v48
-rāṣṭra-gotra-jana-grāma(rāṣṭragotrajanagrāma) dhana-mitra-sutān(dhanamitrasutān) api(api)
+[rāṣṭra-gotra-jana-grāma](rāṣṭragotrajanagrāma) [dhana-mitra-sutān](dhanamitrasutānapi) [api](api)
 
 ## mukta-m0-p02-v49
-rogaṃ(rogam) parājaya-udvegaṃ(parājayodvegaṃ) jana-dveṣaṃ(janadveṣaṃ) kaliṃ(kaliṃ) tathā(tathā)
+[roga](rogaṃ) [parājaya-udvega](parājayodvegaṃ) [jana-dveṣa](janadveṣaṃ) [kali](kaliṃ) [tathā](tathā)
 
 ## mukta-m0-p02-v50
-tat(tat) syāt(syāt) doṣaiḥ(doṣaiḥ) vinirmuktaṃ(vinirmuktaṃ) dṛḍhaṃ(dṛḍhaṃ) snigdhaṃ(snigdhaṃ) prabhā-anvitam(prabhānvitam)
+[tat](tatsyāddoṣairvinirmuktaṃ) [syāt](syāt) [doṣaiḥ](doṣair) [vinirmukta](vinirmuktaṃ) [dṛḍha](dṛḍhaṃ) [snigdha](snigdhaṃ) [prabhā-anvita](prabhānvitam)

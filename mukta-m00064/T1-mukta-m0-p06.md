@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p06-v126
-kāśyām+ca+na+udeti kadā sandhi+yogāt+varānane
+[in-kashi](kāśyāñca) [not-rises](nodeti) [when](kadā) [from-sandhi-yoga](sandhiyogād) [O-beautiful-faced](varānane)
 
 ## mukta-m0-p06-v127
-āyāma+prasthataḥ devi nityā+iyam nityadā śubhe
+[measure-prastha](āyāmaprasthato) [goddess](devi) [eternal-this](nityeyaṃ) [eternally](nityadā) [auspicious](śubhe)
 
 ## mukta-m0-p06-v128
-brahmāṇḍam sthāpayet+tatra sa+kūṭam vastu+mānavam
+[brahma-egg](brahmāṇḍaṃ) [establishes](sthāpayettatra) [with-peak](sakūṭaṃ) [measure-man](vastumānavam)
 
 ## mukta-m0-p06-v129
-sarvasvena+api kartavyam vārāṇasyām dvija+arpaṇam
+[by-all-wealth](sarvasvenāpi) [should-be-done](kartavyaṃ) [in-varanasi](vārāṇasyāṃ) [brahmin-offering](dvijārpaṇaṃ)
 
 ## mukta-m0-p06-v130
-niṣkāme karmabandhaḥ+ca sarvam nirvāṇa+kāraṇam
+[desireless](niṣkāme) [bond-of-action](karmabandhaśca) [all](sarvaṃ) [cause-of-liberation](nirvāṇakāraṇam)
 
 ## mukta-m0-p06-v131
-mṛtam pūtam nayet kāśyām muktaḥ mama+upadeśataḥ
+[dead](mṛtaṃ) [purified](pūtaṃ) [leads](nayet) [to-kashi](kāśyāṃ) [liberated](mukto) [by-my-teaching](mamopadeśataḥ)
 
 ## mukta-m0-p06-v132
-tatra yat+yat+kṛtam karma tat+ananta+phalam labhet
+[there](tatra) [whatever](yadyatkṛtaṃ) [action](karma) [that](tadanantaphalaṃ) [infinite-fruit](labhet)
 
 ## mukta-m0-p06-v133
-tatra sāṃyogikam puṇyam tatra ca+eva vimucyate
+[there](tatra) [conjunct-merit](sāṃyogikaṃ) [merit](puṇyaṃ) [there](tatra) [indeed](caiva) [is-liberated](vimucyate)
 
 ## mukta-m0-p06-v134
-svalpatve tithi+kāla+tve kriyā+kāla+gatiḥ+bhavet
+[in-smallness](svalpatve) [tithi-time](tithikālatve) [action-time-course](kriyākālagatirbhavet)
 
 ## mukta-m0-p06-v135
-sandhyāyām patitāyām+tu gāyatrīm daśadhā japet
+[at-sandhya](sandhyāyāṃ) [fallen](patitāyāntu) [gayatri](gāyatrīṃ) [ten-times](daśadhā) [chant](japet)
 
 ## mukta-m0-p06-v136
-itaḥ parataram kiñcit tat brūyāḥ+tava mānase
+[beyond-this](itaḥ) [further](parataraṃ) [something](kiñcit) [that](tad) [speak](brūyāstava) [your](mānase)
 
 ## mukta-m0-p06-v137
-yuddhasya vāraṇam deva jvara+ādi+vāraṇam tathā
+[of-war](yuddhasya) [warding](vāraṇaṃ) [god](deva) [of-fever-etc-warding](jvarādivāraṇaṃ) [thus](tathā)
 
 ## mukta-m0-p06-v138
-nāsti ca jagatām tvām vinā parameśvara
+[no-protector](nāśutrātā) [of-worlds](jagatāṃ) [you](tvāṃ) [without](vinā) [supreme-lord](parameśvara)
 
 ## mukta-m0-p06-v139
-prākṛtena+eva vākyena kathayāmi śṛṇuṣva tat
+[by-natural](prākṛtenaiva) [speech](vākyena) [I-speak](kathayāmi) [listen](śṛṇuṣva) [that](tat)
 
 ## mukta-m0-p06-v140
-graha+jvara+ādi+bhūteṣu sarva+karmasu yojayet
+[in-graha-fever-etc-beings](grahajvarādibhūteṣu) [all-actions](sarvakarmasu) [employ](yojayet)
 
 ## mukta-m0-p06-v141
-datte ca siddhi+hāniḥ syāt yoginīnām bhavet paśuḥ
+[given](datte) [loss-of-siddhi](siddhihāniḥ) [would-be](syāt) [of-yoginis](yoginīnāṃ) [becomes-beast](bhavet) [paśuḥ](paśuḥ)
 
 ## mukta-m0-p06-v142
-sadācāra+ratāya ca nirjita+aśeṣa+śatrave
+[always-conduct-devoted](sadācāraratāya) [ca](ca) [conquered-all-enemies](nirjitāśeṣaśatrave)
 
 ## mukta-m0-p06-v143
-idānīm śrotum+icchāmi jagat+vaśya+karam param
+[now](idānīṃ) [to-hear](śrotumicchāmi) [world-subduing](jagadvaśyakaraṃ) [supreme](param)
 
 ## mukta-m0-p06-v144
-nāradena purā puṣṭam mattaḥ kailāsa+mūrdhani
+[by-narada](nāradena) [formerly](purā) [nourished](puṣṭaṃ) [from-me](mattaḥ) [on-kailasa-peak](kailāsamūrdhani)
 
 ## mukta-m0-p06-v145
-tena+eva kavacena+eva nāradaḥ brahma+sambhavaḥ
+[by-that-armor](tenaiva) [kavaca](kavacenaiva) [narada](nārado) [brahma-born](brahmasambhavaḥ)
 
 ## mukta-m0-p06-v146
-tat+asambhavam+ālokya viṣṇuḥ+āha vidheḥ sutam
+[that-impossibility](tadasambhavamālokya) [vishnu-said](viṣṇurāha) [of-creator-son](vidheḥ) [sutam](sutam)
 
 ## mukta-m0-p06-v147
-tat+sarvam+abhavat viṣṇau viṣṇuḥ+āha samudra+jām
+[all-that-became](tatsarvamabhavad) [in-vishnu](viṣṇau) [vishnu-said](viṣṇurāha) [to-ocean-born](samudrajām)
 
 ## mukta-m0-p06-v148
-papraccha nāradaḥ dhīmān sarva+loka+hite rataḥ
+[asked](papraccha) [narada](nārado) [wise](dhīmān) [all-worlds-welfare](sarvalokahite) [devoted](rataḥ)
 
 ## mukta-m0-p06-v149
-kim+etasyāḥ phalam deva kim+etat+mohanam bhavet
+[what-fruit](kimetasyāḥ) [of-this](phalaṃ) [god](deva) [what](kimetanmohanaṃ) [this](bhavet)
 
 ## mukta-m0-p06-v150
-trikāle gopitam devi kāle kāle prakāśitam
+[three-times](trikāle) [hidden](gopitaṃ) [goddess](devi) [time-to-time](kāle) [kāle](kāle) [revealed](prakāśitam)

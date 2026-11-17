@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p128-v3176
-[salutation](ratnāṅgāyanamaḥ) [salutation](mahārṇavanipānavidenamaḥ)
+[ratnāṅgāyanamaḥ](ratnāṅgāyanamaḥ) [mahārṇavanipānavidenamaḥ](mahārṇavanipānavidenamaḥ)
 
 ## mukta-m0-p128-v3177
-[salutation](mūlāyanamaḥ) [salutation](viśālāyanamaḥ) [salutation](amṛtāyanamaḥ)
+[mūlāyanamaḥ](mūlāyanamaḥ) [viśālāyanamaḥ](viśālāyanamaḥ) [amṛtāyanamaḥ](amṛtāyanamaḥ)
 
 ## mukta-m0-p128-v3178
-[salutation](vyaktāvyaktāyanamaḥ) [salutation](taponidhayenamaḥ) [salutation](ārohaṇāyanamaḥ)
+[vyaktāvyaktāyanamaḥ](vyaktāvyaktāyanamaḥ) [taponidhayenamaḥ](taponidhayenamaḥ) [ārohaṇāyanamaḥ](ārohaṇāyanamaḥ)
 
 ## mukta-m0-p128-v3179
-[salutation](adhirodhāyanamaḥ) [salutation](śūladhāriṇenamaḥ)
+[adhirodhāyanamaḥ](adhirodhāyanamaḥ) [śūladhāriṇenamaḥ](śūladhāriṇenamaḥ)
 
 ## mukta-m0-p128-v3180
-[salutation](mahāyaśasenamaḥ) [salutation](senākalpāyanamaḥ) [salutation](mahākalpāyanamaḥ)
+[mahāyaśasenamaḥ](mahāyaśasenamaḥ) [senākalpāyanamaḥ](senākalpāyanamaḥ) [mahākalpāyanamaḥ](mahākalpāyanamaḥ)
 
 ## mukta-m0-p128-v3181
-[salutation](yogāyanamaḥ) [salutation](yugakarāyanamaḥ) [salutation](harayenamaḥ)
+[yogāyanamaḥ](yogāyanamaḥ) [yugakarāyanamaḥ](yugakarāyanamaḥ) [harayenamaḥ](harayenamaḥ)
 
 ## mukta-m0-p128-v3182
-[salutation](yugarūpāyanamaḥ) [salutation](mahārūpāyanamaḥ)
+[yugarūpāyanamaḥ](yugarūpāyanamaḥ) [mahārūpāyanamaḥ](mahārūpāyanamaḥ)
 
 ## mukta-m0-p128-v3183
-[salutation](mahānāgahanāyanamaḥ) [salutation](vadhāyanamaḥ)
+[mahānāgahanāyanamaḥ](mahānāgahanāyanamaḥ) [vadhāyanamaḥ](vadhāyanamaḥ)
 
 ## mukta-m0-p128-v3184
-[salutation](nyāyanirvapaṇāyanamaḥ) [salutation](pādāyanamaḥ) [salutation](paṇḍitāyanamaḥ)
+[nyāyanirvapaṇāyanamaḥ](nyāyanirvapaṇāyanamaḥ) [pādāyanamaḥ](pādāyanamaḥ) [paṇḍitāyanamaḥ](paṇḍitāyanamaḥ)
 
 ## mukta-m0-p128-v3185
-[salutation](acalopamāyanamaḥ) [salutation](bahumālāyanamaḥ)
+[acalopamāyanamaḥ](acalopamāyanamaḥ) [bahumālāyanamaḥ](bahumālāyanamaḥ)
 
 ## mukta-m0-p128-v3186
-[salutation](mahāmālāyanamaḥ) [salutation](śaśiharasulocanāyanamaḥ)
+[mahāmālāyanamaḥ](mahāmālāyanamaḥ) [śaśiharasulocanāyanamaḥ](śaśiharasulocanāyanamaḥ)
 
 ## mukta-m0-p128-v3187
-[salutation](vistāralavaṇakūpāyanamaḥ) [salutation](triyugāyanamaḥ)
+[vistāralavaṇakūpāyanamaḥ](vistāralavaṇakūpāyanamaḥ) [triyugāyanamaḥ](triyugāyanamaḥ)
 
 ## mukta-m0-p128-v3188
-[salutation](maṇividdhāyanamaḥ) [salutation](jaṭādharāyanamaḥ)
+[maṇividdhāyanamaḥ](maṇividdhāyanamaḥ) [jaṭādharāyanamaḥ](jaṭādharāyanamaḥ)
 
 ## mukta-m0-p128-v3189
-[salutation](bindavenamaḥ) [salutation](visargāyanamaḥ) [salutation](sumukhāyanamaḥ)
+[bindavenamaḥ](bindavenamaḥ) [visargāyanamaḥ](visargāyanamaḥ) [sumukhāyanamaḥ](sumukhāyanamaḥ)
 
 ## mukta-m0-p128-v3190
-[salutation](śarāyanamaḥ) [salutation](sarvāyudhāyanamaḥ) [salutation](sahāyanamaḥ)
+[śarāyanamaḥ](śarāyanamaḥ) [sarvāyudhāyanamaḥ](sarvāyudhāyanamaḥ) [sahāyanamaḥ](sahāyanamaḥ)
 
 ## mukta-m0-p128-v3191
-[salutation](nivedanāyanamaḥ) [salutation](sukhājātāyanamaḥ) [salutation](sugandhārāyanamaḥ)
+[nivedanāyanamaḥ](nivedanāyanamaḥ) [sukhājātāyanamaḥ](sukhājātāyanamaḥ) [sugandhārāyanamaḥ](sugandhārāyanamaḥ)
 
 ## mukta-m0-p128-v3192
-[salutation](mahādhanuṣenamaḥ) [salutation](gandhapālibhagavatenamaḥ)
+[mahādhanuṣenamaḥ](mahādhanuṣenamaḥ) [gandhapālibhagavatenamaḥ](gandhapālibhagavatenamaḥ)
 
 ## mukta-m0-p128-v3193
-[salutation](sarvakarmotthānāyanamaḥ) [salutation](manthānabahulavāyavenamaḥ)
+[sarvakarmotthānāyanamaḥ](sarvakarmotthānāyanamaḥ) [manthānabahulavāyavenamaḥ](manthānabahulavāyavenamaḥ)
 
 ## mukta-m0-p128-v3194
-[salutation](sakalāyanamaḥ) [salutation](sarvalocanāyanamaḥ) [salutation](talastālāyanamaḥ)
+[sakalāyanamaḥ](sakalāyanamaḥ) [sarvalocanāyanamaḥ](sarvalocanāyanamaḥ) [talastālāyanamaḥ](talastālāyanamaḥ)
 
 ## mukta-m0-p128-v3195
-[salutation](chatrāyanamaḥ) [salutation](succhatrāyanamaḥ)
+[chatrāyanamaḥ](chatrāyanamaḥ) [succhatrāyanamaḥ](succhatrāyanamaḥ)
 
 ## mukta-m0-p128-v3196
-[salutation](vikhyātalokāyanamaḥ) [salutation](sarvāśrayakramāyanamaḥ)
+[vikhyātalokāyanamaḥ](vikhyātalokāyanamaḥ) [sarvāśrayakramāyanamaḥ](sarvāśrayakramāyanamaḥ)
 
 ## mukta-m0-p128-v3197
-[salutation](muṇḍāyanamaḥ) [salutation](virūpāyanamaḥ) [salutation](vikṛtāyanamaḥ)
+[muṇḍāyanamaḥ](muṇḍāyanamaḥ) [virūpāyanamaḥ](virūpāyanamaḥ) [vikṛtāyanamaḥ](vikṛtāyanamaḥ)
 
 ## mukta-m0-p128-v3198
-[salutation](daṇḍinenamaḥ) [salutation](kuṇḍinenamaḥ) [salutation](vikurvāṇāyanamaḥ)
+[daṇḍinenamaḥ](daṇḍinenamaḥ) [kuṇḍinenamaḥ](kuṇḍinenamaḥ) [vikurvāṇāyanamaḥ](vikurvāṇāyanamaḥ)
 
 ## mukta-m0-p128-v3199
-[salutation](haryakṣāyanamaḥ) [salutation](kakubhāyanamaḥ) [salutation](vajriṇenamaḥ)
+[haryakṣāyanamaḥ](haryakṣāyanamaḥ) [kakubhāyanamaḥ](kakubhāyanamaḥ) [vajriṇenamaḥ](vajriṇenamaḥ)
 
 ## mukta-m0-p128-v3200
-[salutation](śatajihvāyanamaḥ) [salutation](sahasrapatsahasramūrddhnenamaḥ)
+[śatajihvāyanamaḥ](śatajihvāyanamaḥ) [sahasrapatsahasramūrddhnenamaḥ](sahasrapatsahasramūrddhnenamaḥ)

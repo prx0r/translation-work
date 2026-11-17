@@ -8,10 +8,10 @@
 [fortnight-salutation](pakṣāyanamaḥ) [number-completion-salutation](saṅkhyāsamāpanāyanamaḥ) [moment-salutation](kalāyainamaḥ)
 
 ## mukta-m0-p130-v3228
-[time-unit-salutation](kāṣṭhāyainamaḥ) [instant-salutation](lavebhyonamaḥ) [measure-salutation](mātrābhyonamaḥ)
+[time-instant-salutation](kāṣṭhāyainamaḥ) [fraction-salutation](lavebhyonamaḥ) [measure-salutation](mātrābhyonamaḥ)
 
 ## mukta-m0-p130-v3229
-[moment-day-night-salutation](muhūrttāhaḥkṣapābhyonamaḥ) [instant-salutation](kṣaṇebhyonamaḥ)
+[muhurta-day-night-salutation](muhūrttāhaḥkṣapābhyonamaḥ) [instant-salutation](kṣaṇebhyonamaḥ)
 
 ## mukta-m0-p130-v3230
 [beginning-outflow-salutation](ādyanirgamāyanamaḥ) [being-salutation](satenamaḥ) [non-being-salutation](asatenamaḥ)
@@ -29,49 +29,49 @@
 [brahma-world-salutation](brahmalokāyanamaḥ) [supreme-going-salutation](parāgatayenamaḥ)
 
 ## mukta-m0-p130-v3235
-[divine-demonic-creator-salutation](devāsuravinirmātrenamaḥ) [divine-demonic-refuge-salutation](devāsuraparāyaṇāyanamaḥ)
+[deva-asura-creator-salutation](devāsuravinirmātrenamaḥ) [deva-asura-refuge-salutation](devāsuraparāyaṇāyanamaḥ)
 
 ## mukta-m0-p130-v3236
-[divine-demonic-teacher-salutation](devāsuraguravenamaḥ) [divine-salutation](devāyanamaḥ)
+[deva-asura-teacher-salutation](devāsuraguravenamaḥ) [deva-salutation](devāyanamaḥ)
 
 ## mukta-m0-p130-v3237
-[divine-demonic-revered-salutation](devāsuranamaskṛtāyanamaḥ) [divine-demonic-great-minister-salutation](devāsuramahāmātrāyanamaḥ)
+[deva-asura-revered-salutation](devāsuranamaskṛtāyanamaḥ) [deva-asura-great-officer-salutation](devāsuramahāmātrāyanamaḥ)
 
 ## mukta-m0-p130-v3238
-[divine-demonic-troop-leader-salutation](devāsuragaṇāgraṇyenamaḥ) [divine-above-divine-salutation](devātidevāyanamaḥ)
+[deva-asura-host-leader-salutation](devāsuragaṇāgraṇyenamaḥ) [deva-of-devas-salutation](devātidevāyanamaḥ)
 
 ## mukta-m0-p130-v3239
-[divine-sage-salutation](devarṣṣayenamaḥ) [divine-demonic-boon-giver-salutation](devāsuravarapradāyanamaḥ)
+[divine-seer-salutation](devarṣṣayenamaḥ) [deva-asura-boon-giver-salutation](devāsuravarapradāyanamaḥ)
 
 ## mukta-m0-p130-v3240
-[divine-demonic-lord-salutation](devāsureśvarāyanamaḥ) [all-pervading-salutation](viśvāyanamaḥ)
+[deva-asura-lord-salutation](devāsureśvarāyanamaḥ) [universe-salutation](viśvāyanamaḥ)
 
 ## mukta-m0-p130-v3241
-[divine-demonic-great-lord-salutation](devāsuramaheśvarāyanamaḥ) [all-divine-essence-salutation](sarvadevamayāyanamaḥ)
+[deva-asura-great-lord-salutation](devāsuramaheśvarāyanamaḥ) [all-deva-essence-salutation](sarvadevamayāyanamaḥ)
 
 ## mukta-m0-p130-v3242
-[unthinkable-salutation](acintyāyanamaḥ) [divine-self-salutation](devātmanenamaḥ) [self-born-salutation](ātmasambhavāyanamaḥ)
+[unthinkable-salutation](acintyāyanamaḥ) [deva-self-salutation](devātmanenamaḥ) [self-born-salutation](ātmasambhavāyanamaḥ)
 
 ## mukta-m0-p130-v3243
 [dustless-salutation](virajāyanamaḥ) [spotless-salutation](nīrajāyanamaḥ) [immortal-salutation](amarāyanamaḥ)
 
 ## mukta-m0-p130-v3244
-[worthy-salutation](īḍyāyanamaḥ) [elephant-lord-salutation](hastīśvarāyanamaḥ) [tiger-salutation](vyāghrāyanamaḥ)
+[praiseworthy-salutation](īḍyāyanamaḥ) [elephant-lord-salutation](hastīśvarāyanamaḥ) [tiger-salutation](vyāghrāyanamaḥ)
 
 ## mukta-m0-p130-v3245
-[divine-lion-salutation](devasiṃhāyanamaḥ) [man-bull-salutation](nararṣabhāyanamaḥ) [wise-salutation](vibudhāyanamaḥ)
+[deva-lion-salutation](devasiṃhāyanamaḥ) [man-bull-salutation](nararṣabhāyanamaḥ) [wise-salutation](vibudhāyanamaḥ)
 
 ## mukta-m0-p130-v3246
-[foremost-excellent-salutation](agravarāyanamaḥ) [subtle-salutation](sūkṣmāyanamaḥ) [all-divine-salutation](sarvadevāyanamaḥ)
+[foremost-excellent-salutation](agravarāyanamaḥ) [subtle-salutation](sūkṣmāyanamaḥ) [all-deva-salutation](sarvadevāyanamaḥ)
 
 ## mukta-m0-p130-v3247
-[austerity-filled-salutation](tapomayāyanamaḥ) [well-joined-salutation](suyuktāyanamaḥ) [auspicious-salutation](śobhanāyanamaḥ)
+[austerity-filled-salutation](tapomayāyanamaḥ) [well-yoked-salutation](suyuktāyanamaḥ) [auspicious-salutation](śobhanāyanamaḥ)
 
 ## mukta-m0-p130-v3248
-[thunderbolt-bearer-salutation](vajriṇenamaḥ) [weapon-source-salutation](prāsānāmprabhavāyanamaḥ)
+[thunderbolt-bearer-salutation](vajriṇenamaḥ) [prāsāna-source-salutation](prāsānāmprabhavāyanamaḥ)
 
 ## mukta-m0-p130-v3249
 [imperishable-salutation](avyayāyanamaḥ) [cave-salutation](guhāyanamaḥ) [beloved-salutation](kāntāyanamaḥ)
 
 ## mukta-m0-p130-v3250
-[horned-salutation](śṛṅgiṇenamaḥ) [horn-lover-salutation](śṛṅgapriyāyanamaḥ) [tawny-salutation](babhravenamaḥ)
+[horned-salutation](śṛṅgiṇenamaḥ) [horn-lover-salutation](śṛṅgapriyāyanamaḥ) [brown-salutation](babhravenamaḥ)

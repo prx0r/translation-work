@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p15-v351
-[from-movement](calanāt) [of-delusion-form](moharūpasya) [from-progression](kramaṇāt) [of-supreme-consciousness](parasaṃvidaḥ)
+movement delusion-form progression supreme-consciousness
 
 ## mukta-m0-p15-v352
-[transcendence-of-illumination](uddyotātikramaḥ) [and](ca) [also](api) [by-duality](dvaividhyena) [established](vyavasthitaḥ)
+illumination-transcendence and duality established
 
 ## mukta-m0-p15-v353
-[one](ekaḥ) [that-transcendence-self](tadvyukramātmā) [other](anyaḥ) [established-in-supreme-space](parākāśapratiṣṭhitaḥ)
+one that-transcendence-self other supreme-space-established
 
 ## mukta-m0-p15-v354
-[from-desire-contact](kāmasaṃsargataḥ) [of-it](tasya) [by-return](pratyāvṛttyā) [self](+ātma) [all-around](samantataḥ)
+desire-contact its turning-back self-all-around
 
 ## mukta-m0-p15-v355
-[in-nondual-free-from-object-enjoyment](viṣayābhoganirjñātanirvikalpe) [even](api) [that](yat) [clear](sphuṭam)
+object-enjoyment-known-thought-free even that clear
 
 ## mukta-m0-p15-v356
-[in-inwardness](antarmukhatve) [but](tu) [from-illumination](uddyotāt) [consisting-of-awareness-of-being-action](bhāvāmarśakriyātmakāt)
+inwardness but illumination being-reflection-activity
 
 ## mukta-m0-p15-v357
-[thus](evaṃ) [at-time-of-absence-of-outwardness](bahirmukhābhāvāvasare) [indeed](hi) [rising-etc](udayādikam)
+thus outward-absence-occasion indeed rising-etc
 
 ## mukta-m0-p15-v358
-[that](tad) [external-universe](bahirviśvam) [resorting-to](āśritya) [of-action-self](kriyātmanaḥ)
+that external-universe resorting activity-self
 
 ## mukta-m0-p15-v359
-[resorting-completely](samāśritya) [formerly](pūrvaṃ) [by-seat-progression-self](pīṭhakramātmanā)
+resorting first seat-order-self
 
 ## mukta-m0-p15-v360
-[then](tataḥ) [of-universe](viśvasya) [establishment](saṃsthānam) [from-root](āmūlāt) [explained](pratipāditam)
+then universe establishment from-root taught
 
 ## mukta-m0-p15-v361
-[now](idānīṃ) [by-which](yena) [form](rūpeṇa) [all-forms](sarvākāraṃ) [dissolves](vilīyate)
+now by-which form all-forms dissolves
 
 ## mukta-m0-p15-v362
-[in-harmony](sāmarasye) [arisen](pravṛtte) [even](api) [characterized-by-knowledge-union](jñānamelāpalakṣaṇe)
+harmony proceeding even knowledge-union-characterized
 
 ## mukta-m0-p15-v363
-[therefore](ataḥ) [without-action](kriyāṃ vinā) [of-them](teṣāṃ) [indeed](hi) [not](na) [removal](nirharaṇaṃ) [would-be](bhavet)
+therefore activity without their indeed not removal would-be
 
 ## mukta-m0-p15-v364
-[enough](alaṃ) [by-devouring-activity](grāsapravṛttena) [by-action-immersion](kriyāveśena) [in-truth](tattvataḥ)
+enough swallowing-proceeding activity-immersion in-truth
 
 ## mukta-m0-p15-v365
-[consisting-of-Raudreśvarī](raudreśvarīmayaḥ) [sphere](sphāraḥ) [ground-of-supreme-grace](parānugrahabhūmikaḥ)
+raudreshvari-made expansion supreme-grace-ground
 
 ## mukta-m0-p15-v366
-[whose-nature-is-desire-free-from-impressions](nissaṃskāraprakāmātmā) [supreme-power](parāśaktiḥ) [proceeds](pravartate)
+impressionless-desire-self supreme-power proceeds
 
 ## mukta-m0-p15-v367
-[unveiledness](nirāvaraṇatā) [because](yasmāt) [therefore](ataḥ) [arises](sañjāyate) [clearly](sphuṭam)
+unveiledness because therefore arises clearly
 
 ## mukta-m0-p15-v368
-[by-stair-progression-form](sopānakramarūpeṇa) [sixty-four](catuṣṣaṣṭiḥ) [determined](nirūpitāḥ)
+stair-step-order-form sixty-four determined
 
 ## mukta-m0-p15-v369
-[by-nature-of-consciousness-reflection](cidvimarśasvarūpeṇa) [by-forceful-cooking](haṭhapākena) [melting](gālanam)
+consciousness-reflection-nature forceful-cooking melting
 
 ## mukta-m0-p15-v370
-[there](tatra) [Raudreśvarī-form](raudreśvarīrūpaṃ) [first](prathamaṃ) [of-sixteen-self](ṣoḍaśātmanaḥ)
+there raudreshvari-form first sixteen-self
 
 ## mukta-m0-p15-v371
-[to-unveiledness](nirāvaraṇatāṃ) [to-lead](netuṃ) [proceeded](pravṛttaṃ) [from-consciousness-reflection](cidvimarśataḥ)
+to-unveiledness to-lead proceeded consciousness-reflection
 
 ## mukta-m0-p15-v372
-[by-ego](ahaṅkāreṇa) [accomplishment](siddhatvaṃ) [resorting](śritvā) [of-those-rays](tattanmarīcinām)
+by-ego accomplishment having-resorted those-rays
 
 ## mukta-m0-p15-v373
-[entering](āviśya) [circle-of-object-impressions](meyasaṃskāracakraṃ) [there](tatra) [dissolves](pralīyate)
+entering object-impression-circle there dissolves
 
 ## mukta-m0-p15-v374
-[of-mental-impression-circle](mānasaṃskāracakrasya) [of-return-progression-self](pratyāvṛttikramātmanaḥ)
+mind-impression-circle turning-back-order-self
 
 ## mukta-m0-p15-v375
-[by-meditation-protection-dharmas](mananatrāṇadharmābhyāṃ) [mantra-accomplished-nature-selfhood](mantrasiddhamayātmatām)
+thinking-protecting-properties mantra-accomplished-self-nature

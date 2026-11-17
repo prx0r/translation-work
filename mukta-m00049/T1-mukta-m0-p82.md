@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p82-v2026
-[then-and](tatastu) [in-fifth](pañcame) [month](māsi) [give](dadyāt) [five-amṛta](pañcāmṛtam) [to-woman](striyai)
+then-in fifth-month give five-nectars to-woman
 
 ## mukta-m0-p82-v2027
-[five-amṛta](pañcāmṛtam) [this](idam) [said](proktam) [for-body-purification](dehaśuddhau) [is-done](vidhīyate)
+five-nectars-this declared for-body-purification is-performed
 
 ## mukta-m0-p82-v2028
-[having-united](ekīkṛtya) [amṛtas](amṛtāni) [here](atra) [feed](prāśayet) [beloved](dayitām) [husband](patiḥ)
+having-united nectars-here feed beloved wife husband
 
 ## mukta-m0-p82-v2029
-[until](yāvat) [not](na) [is-born](jāyate) [offspring](apatyam) [until-then](tāvat) [sīmantana-rite](sīmantanakriyā)
+until not born offspring until simantana-rite
 
 ## mukta-m0-p82-v2030
-[to-viṣṇu](viṣṇave) [to-bhāsvat](bhāsvate) [to-dhātṛ](dhātre) [to-fire-born](vahnijāyām) [reciting](samuccaran)
+to-Vishnu to-sun to-creator to-fire-wife reciting
 
 ## mukta-m0-p82-v2031
-[sevenfold](saptadhā) [offering](havanam) [do](kuryāt) [soma](somam) [aiming](uddiśya) [man](mānavaḥ)
+seven-times offering do Soma-aiming man
 
 ## mukta-m0-p82-v2032
-[complete](samāpayet) [puṃsavana](puṃsavanam) [rite](karma) [thus](iti) [remainder](śeṣaḥ)
+complete male-child-rite ritual thus remainder
 
 ## mukta-m0-p82-v2033
-[equal-part](samāṃśakam) [equal-share](tulyabhāgam)
+equal-parts equal-share
 
 ## mukta-m0-p82-v2034
-[wife](bhāryām) [here](atra) [in-fifth](pañcame) [month](māsi) [feed](prāśayet)
+wife here fifth month feed
 
 ## mukta-m0-p82-v2035
-[meditating](dhyātvā) [separately](pratyekataḥ) [give](dadyāt) [offerings](āhutīḥ) [fivefold](pañcadhā) [to-śiva](śive)
+meditating individually give oblations fivefold to-Shiva
 
 ## mukta-m0-p82-v2036
-[like-sīmanta](sīmantādvat) [hair-end](keśāntaḥ) [hair-tress](keśapāśe) [place](niveśayet)
+simantana-like hair-end hair-tuft place
 
 ## mukta-m0-p82-v2037
-[śiva](śivam) [viṣṇu](viṣṇum) [vidhi](vidhim) [meditating](dhyāyan) [māyā-bīja](māyābījam) [reciting](samuccaran)
+Shiva Vishnu Brahma meditating maya-seed reciting
 
 ## mukta-m0-p82-v2038
-[well-delivered](suprasūtā) [be](bhava) [pleased](prītā) [by-grace](prasādāt) [viśvakarmaṇaḥ](viśvakarmaṇaḥ)
+well-delivered be pleased by-grace-of-Vishvakarma
 
 ## mukta-m0-p82-v2039
-[then](tataḥ) [complete](samāpayet) [rite](karma) [with-sviṣṭikṛt-offering](sviṣṭikṛddhavanādibhiḥ)
+then complete rite with-svishtikrit-offering etc
 
 ## mukta-m0-p82-v2040
-[by-previous-rite](pūrvoktavidhinā) [wise](dhīraḥ) [dhārā-homa](dhārāhomaṃ) [complete](samāpayet)
+by-previously-said-rite wise stream-offering complete
 
 ## mukta-m0-p82-v2041
-[to-viśvān-devas](viśvān) [and](ca) [brahmā](brahmāṇam) [aiming](uddiśya) [thereafter](tadanantaram)
+all gods and Brahma aiming then-after
 
 ## mukta-m0-p82-v2042
-[vāgbhava](vāgbhavam) [hundredfold](śatadhā) [having-chanted](japtvā) [feed](prāśayet) [son](tanayam) [father](pitā)
+vagbhava hundred-times having-chanted feed son father
 
 ## mukta-m0-p82-v2043
-[life](āyur) [radiance](varco) [strength](balam) [intellect](medhā) [may-increase](varddhatām) [always](sadā) [child](śiśo)
+life luster strength intellect increase your always child
 
 ## mukta-m0-p82-v2044
-[having-done-upanayana](kṛtopanayane) [son](putre) [by-that](tena) [name](nāmnā) [call](samāhvayet)
+after-upanayana son by that name call
 
 ## mukta-m0-p82-v2045
-[cord-cutting](nālachedam) [then](tataḥ) [nurse](dhātrī) [do](kuryāt) [with-enthusiasm](utsāhapūrvakam)
+cord-cutting then nurse do with-enthusiasm
 
 ## mukta-m0-p82-v2046
-[before](prāgeva) [cord-cutting](nāḍikāchedāt) [divine](daivīm) [ancestral](paitrīm) [rite](kriyām) [perform](caret)
+before cord-cutting divine ancestral rites perform
 
 ## mukta-m0-p82-v2047
-[clear-meaning](spaṣṭārthaḥ)
+clear-meaning
 
 ## mukta-m0-p82-v2048
-[with-right-hand-ring-finger](dakṣahastānāmikayāṅgulyā) [honey-ghee](madhusarpis) [to-son](tanayam) [feed](prāśayet)
+right-hand ring-finger with honey-ghee son feed
 
 ## mukta-m0-p82-v2049
-[in-sixth-or-eighth](ṣaṣṭhe-vā-cāṣṭame) [month](māsi) [name](nāma) [do](kuryāt) [openly](prakāśataḥ)
+sixth or eighth month name do publicly
 
 ## mukta-m0-p82-v2050
-[to-husband-side](bhartuḥ-pārśvam) [having-come](samāgatya) [east-facing](prāṅmukham) [place](sthāpayet) [son](sutam)
+husband side having-come east-facing place son

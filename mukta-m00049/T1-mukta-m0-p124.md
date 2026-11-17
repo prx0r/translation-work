@@ -2,7 +2,7 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p124-v3076
-[may-they-be](syātām) [optative](syātām) [3rd-dual](syātām) [verb](syātām)
+[may-they-be](syātām)
 
 ## mukta-m0-p124-v3077
 [that-price](tanmūlyaṃ) [by-king](nṛpeṇa) [not](na) [to-be-made-pay](dāpayitavyam) [thus](iti) [indicated](sūcayāmāsa)
@@ -17,7 +17,7 @@
 [king](nṛpaḥ) [otherwise](tadanyathā) [to-do](kartuṃ) [able](kṣamaḥ) [becomes](bhavati) [o-pārvatī](pārvati)
 
 ## mukta-m0-p124-v3081
-[gift](dānaṃ) [likewise](tathaiva) [of-girl](kanyāyāḥ) [brāhma-marriage](brāhmohvāhaḥ) [once](sakṛt) [once](sakṛt)
+[gift](dānaṃ) [so-too](tathaiva) [of-girl](kanyāyāḥ) [brāhma-marriage](brāhmohvāhaḥ) [once](sakṛt) [once](sakṛt)
 
 ## mukta-m0-p124-v3082
 [fruit](phalam) [thus](ityamaraḥ)
@@ -35,10 +35,10 @@
 [not-one-wife](naikakanyaḥ) [daughter](sutāṃ) [in-śaiva-marriage](śaivodvāhe) [father-benefiting](pitṛhitaḥ) [man](pumān)
 
 ## mukta-m0-p124-v3087
-[whatever](yad) [he-may-do](vidadhyāt) [substitute](pratinidhiḥ) [of-controller](niyantuḥ) [act](kṛtiḥ) [becomes](bhavet)
+[what-he-may-do](yadvidadhyāt) [substitute](pratinidhiḥ) [of-regulator](niyantuḥ) [act](kṛtiḥ) [becomes](bhavet)
 
 ## mukta-m0-p124-v3088
-[of-appointer](niyoktṛ) [act-fault](kṛtadoṣeṇa) [rule](vidhiḥ) [this](eṣa) [eternal](sanātanaḥ)
+[of-appointer](niyoktṛ) [of-fault](kṛtadoṣeṇa) [rule](vidhiḥ) [this](eṣa) [eternal](sanātanaḥ)
 
 ## mukta-m0-p124-v3089
 [whatever](yadyad) [accepted](aṅgīkṛtaṃ) [by-people](lokaiḥ) [that](tad) [to-be-done](kāryaṃ) [dharma-approved](dharmasammatam)
@@ -50,19 +50,19 @@
 [rule](vidhiḥ) [ordinance](vidhānam)
 
 ## mukta-m0-p124-v3092
-[those-fathers](tatpātṝn) [protects](pāti) [all-lord](viśveśaḥ) [therefore](tasmāt) [world-benefiting](lokahitaḥ) [becomes](bhavet)
+[those-protectors](tatpātṝn) [protects](pāti) [lord-of-all](viśveśaḥ) [therefore](tasmāt) [world-benefiting](lokahitaḥ) [becomes](bhavet)
 
 ## mukta-m0-p124-v3093
 [accepted](svīkṛtaṃ) [in-every-way](sarvathā) [of-people](lokānām) [not-to-be-left-undone](akaraṇīyam) [thus](iti) [implied](dhvanitam)
 
 ## mukta-m0-p124-v3094
-[three-worlds-mother](tribhuvanajanamātā) [pārvatī](pārvatī) [spoke](prādda) [with-devotion](bhaktyā)
+[three-worlds-mother](tribhuvanajanamātā) [pārvatī](pārvatī) [said](prādda) [with-devotion](bhaktyā)
 
 ## mukta-m0-p124-v3095
-[of-subtle-very-subtle-being](sūkṣmātisūkṣmabhūtāyāḥ) [how](kathaṃ) [form-determination](rūpanirūpaṇam)
+[of-subtle-most-subtle-being](sūkṣmātisūkṣmabhūtāyāḥ) [how](kathaṃ) [form-determination](rūpanirūpaṇam)
 
 ## mukta-m0-p124-v3096
-[this](etat) [my](me) [doubt](saṃśayaṃ) [o-god](deva) [especially](viśeṣāt) [to-cut](chettum) [you-should](arhasi)
+[this](etan) [my](me) [doubt](saṃśayaṃ) [o-god](deva) [especially](viśeṣāt) [to-cut](chettum) [you-should](arhasi)
 
 ## mukta-m0-p124-v3097
 [firm-minded](dṛḍhamānasā)
@@ -71,7 +71,7 @@
 [she](sā) [great-kālī](mahākālī) [this](etat) [this](etam)
 
 ## mukta-m0-p124-v3099
-[by-quality-action](guṇakriyānusāreṇa) [form](rūpaṃ) [of-goddess](devyāḥ) [is-devised](prakalpitam)
+[according-to-qualities-actions](guṇakriyānusāreṇa) [form](rūpaṃ) [of-goddess](devyāḥ) [is-devised](prakalpitam)
 
 ## mukta-m0-p124-v3100
 [enter](praviśanti) [thus](tathā) [into-kālī](kālyāṃ) [all-beings](sarvabhūtāni) [o-daughter-of-mountain](śailaje)
