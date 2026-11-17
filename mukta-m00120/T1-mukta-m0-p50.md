@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p50-v1226
-[having-worshipped](pūjayitvā) [should-enjoy](ramet) [the-śakti](śaktiṃ) [semen](vīrya) [at-falling](pāte) [emission](visarjanam)
+[having-worshipped](pūjayitvā) [should-enjoy](ramet) [śakti](śaktiṃ) [semen](vīrya) [at-fall](pāte) [emission](visarjanam)
 
 ## mukta-m0-p50-v1227
-[but](tu) [in-union](sambhoge]) [and+indeed](ca+eva) [before-the-goddess](devy+agre) [deity](devatā) [pleasure+partaker+becomes](prīti+bhāk+bhavet)
+[but](tu) [in-union](sambhoge]) [and-also](caiva) [before-goddess](devyagre) [deity](devatā) [obtaining-pleasure](prītibhāgbhavet)
 
 ## mukta-m0-p50-v1228
-[full+bliss](pūrṇa+ānando) [becomes](bhavet) [he+also](saḥ+api) [union](sambhogaṃ) [my](mama) [approved](sammatam)
+[full+bliss](pūrṇānando) [would-be](bhavet) [he](so') [also](pi) [union](sambhogaṃ) [my](mama) [approved](sammatam)
 
 ## mukta-m0-p50-v1229
-[when](yadā) [should-enjoy](ramet)+[in-broken-circle](cakra+bhinne) [guru's+command](guruḥ+ājñā)+[according-to](anusārataḥ)
+[when](yadā) [should-enjoy](rameccakrabhinne) [according-to-guru's-command](gurorājñānusārataḥ)
 
 ## mukta-m0-p50-v1230
-[she](sā) [woman](nārī) [kālikā+form](kālikā+rūpā) [semen](śukra) [falling](pātaṃ) [in-vulva](bhage) [if](yadi)
+[she](sā) [woman](nārī) [having-form-of-Kālī](kālikārūpā) [semen](śukra) [fall](pātaṃ) [in-vulva](bhage) [if](yadi)
 
 ## mukta-m0-p50-v1231
-[then](tadā)+[by-command](ājñayā)+[also](api) [in-her-womb](tat+yonau) [guru](guruḥ)+[and](ca) [intercourse](ramaṇañ)+[should-perform](caret)
+[by-her-command](tadājñayā) [also](api) [in-her-womb](tadyonau) [guru](guruśca) [enjoyment](ramaṇañcaret)
 
 ## mukta-m0-p50-v1232
-[guruship](gurutvaṃ) [indeed](hi) [dissolution](layaṃ) [because](yasmāt) [again](punaḥ)+[and](ca)+[circle](cakraṃ) [should-engage](niyojaye)
+[guruship](gurutvaṃ) [indeed](hi) [dissolution](layaṃ) [because](yasmāt) [again](punaś) [circle](cakraṃ) [should-employ](niyojaye)
 
 ## mukta-m0-p50-v1233
-[intercourse](ramaṇaṃ) [not+indeed](na+eva) [to-be-done](karttavyaṃ) [if-done](kṛte)+[also](api) [fallen](patito) [becomes](bhavet)
+[enjoyment](ramaṇaṃ) [not](na) [indeed](eva) [to-be-done](karttavyaṃ) [even-if-done](kṛte'pi) [fallen](patito) [would-be](bhavet)
 
 ## mukta-m0-p50-v1234
-[therefore](ata) [indeed](eva) [o-great-goddess](mahā+īśāni) [prostitute+śakti+blossoming](veśyā+śakti+praphullikā)
+[therefore](ata) [indeed](eva) [O-great-goddess](maheśāni) [prostitute+śakti+blossoming](veśyāśaktipraphullikā)
 
 ## mukta-m0-p50-v1235
-[by-touch](sparśanāt) [merit+possessing+person](puṇya+bhāk+loko) [and-by-striking](ghātanāt)+[and](ca) [endowed-with-action](kriyā+anvitaḥ)
+[from-touch](sparśanāt) [one-having-merit+in-world](puṇyabhāgloko) [and-from-striking](ghātanācca) [endowed-with-action](kriyānvitaḥ)
 
 ## mukta-m0-p50-v1236
-[purified+self](pūta+ātmā) [merit+possessing](puṇya+bhāgī)+[and](ca) [action+capable](kriyā+śaktaḥ) [śiva](śivaḥ)+[becomes](bhavet)
+[pure+self](pūtātmā) [possessing-merit](puṇyabhāgī) [and](ca) [capable-of-action](kriyāśaktaḥ) [Śiva](śivo) [would-be](bhavet)
 
 ## mukta-m0-p50-v1237
-[from-yoga](yogyāt) [śiva-hood](śivatvaṃ) [union](sāyujyaṃ) [in-śakti](śakre) [liberation](nirvāṇa) [partaker+becomes](bhāk+bhavet)
+[from-yoga](yogyāt) [Śiva-hood](śivatvaṃ) [union](sāyujyaṃ) [in-Śakti](śakre) [obtaining-liberation](nirvāṇa) [would-be](bhāgbhavet)
 
 ## mukta-m0-p50-v1238
-[intercourse](mathunaṃ) [should-perform](kārayed) [the-wise](dhīraḥ)+[in-other-than-that](tat+bhinne) [hell](narakaṃ) [goes](vrajet)
+[copulation](mathunaṃ) [should-cause](kārayed) [wise-one](dhīras) [in-different-from-that](tadbhinne) [to-hell](narakaṃ) [would-go](vrajet)
 
 ## mukta-m0-p50-v1239
-[by-procedure](vidhānena) [o-fair-faced-one](vara+ārohe) [what](kiṃ) [not](na) [succeeds](sidhyati) [on-earth](bhū+tale)
+[by-this-method](vidhānene) [O-beautiful-one](varārohe) [what](kiṃ) [not](na) [is-accomplished](sidhyati) [on-earth](bhūtale)
 
 ## mukta-m0-p50-v1240
-[intercourse](mathunaṃ) [to-hear](śrotum)+[I-desire](icchāmi) [as-prescribed](yathā+vidhi) [procedure](vidhānakam)
+[copulation](mathunaṃ) [to-hear](śrotum) [I-desire](icchāmi) [according-to-rule](yathāvidhi) [procedure](vidhānakam)
 
 ## mukta-m0-p50-v1241
-[by-intercourse](maithunena) [without](vinā) [o-goddess](devi) [all+action](sarva+kāryaṃ) [in-vain](vṛthā) [becomes](bhavet)
+[without-copulation](maithunena) [without](vinā) [O-goddess](devi) [all+action](sarvakāryaṃ) [in-vain](vṛthā) [would-be](bhavet)
 
 ## mukta-m0-p50-v1242
-[otherwise](anyathā)+[also](api) [done](kṛtaṃ) [action](kāryyaṃ) [that](sa) [magnet](cumbako) [not](na) [doubt](saṃśayaḥ)
+[otherwise](anyathā) [also](api) [done](kṛtaṃ) [action](kāryyaṃ) [that](sa) [magnet](cumbako) [not](na) [doubt](saṃśayaḥ)
 
 ## mukta-m0-p50-v1243
-[for-that-purpose](tat+arthe) [intercourse](maithunaṃ) [o-goddess](devi) [declared](proktaṃ) [indeed](hi) [by-rule+taught](vidhi+bodhitam)
+[for-that-purpose](tadarthe) [copulation](maithunaṃ) [O-goddess](devi) [declared](proktaṃ) [indeed](hi) [taught-by-rule](vidhibodhitam)
 
 ## mukta-m0-p50-v1244
-[that](taṃ) [having-seen](dṛṣṭvā) [practitioner](sādhako) [o-goddess](devi) [with-vulva](yonyā) [smelling](ghrāṇaṃ) [should-perform](samācaret)
+[that](taṃ) [having-seen](dṛṣṭvā) [practitioner](sādhako) [O-goddess](devi) [with-vulva](yonyā) [smelling](ghrāṇaṃ) [should-perform](samācaret)
 
 ## mukta-m0-p50-v1245
-[śakti's+command](śakteḥ+ājñāṃ) [without](vinā) [o-goddess](devi) [by-force](valena) [intercourse](maithunaṃ) [should-perform](caret)
+[without-śakti's-command](śakterājñāṃ) [without](vinā) [O-goddess](devi) [by-force](valena) [copulation](maithunaṃ) [should-perform](caret)
 
 ## mukta-m0-p50-v1246
-[he](sa) [deceitful](śaṭhaḥ) [she](sā)+[also](api) [śakti](śaktiḥ)+[and](ca) [at-that-moment](tat+kṣaṇāt)+[him](taṃ) [should-abandon](parityajet)
+[he](sa) [rogue](śaṭhaḥ) [she](sā) [also](api) [śakti](śaktiś) [and](ca) [at-that-moment](tatkṣaṇāt) [him](taṃ) [should-abandon](parityajet)
 
 ## mukta-m0-p50-v1247
-[hypocrite](dāmbhikaṃ) [him](taṃ) [should-know](vijānīyāt) [his](tasyā) [speech](lāpaṃ) [should-abandon](parityajet)
+[hypocrite](dāmbhikaṃ) [him](taṃ) [one-should-know](vijānīyāt) [her](tasyā) [speech](lāpaṃ) [should-abandon](parityajet)
 
 ## mukta-m0-p50-v1248
 [destructive](nāśakam)
 
 ## mukta-m0-p50-v1249
-[intercourse](ramaṇaṃ) [indeed](hi) [to-be-performed](prakarttavyaṃ) [with-good-feeling](sura+bhāvena) [imbued](bhāvitaḥ)
+[enjoyment](ramaṇaṃ) [indeed](hi) [to-be-done](prakarttavyaṃ) [with-good-disposition](surabhāvena) [imbued](bhāvitaḥ)
 
 ## mukta-m0-p50-v1250
-[revelation](prakāśañ)+[and](ca) [I-make](karomi)+[today](adya) [not](na) [to-be-revealed](prakāśyaṃ) [ever](kadācana)
+[revelation](prakāśañ) [and](ca) [I-make](karomy) [today](adya) [not](na) [to-be-revealed](prakāśyaṃ) [ever](kadācana)
