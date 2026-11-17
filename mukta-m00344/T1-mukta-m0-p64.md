@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p64-v1576
-[asti](asti) [vaṅge](vaṅge) [sundarākhyaṃ](sundarākhyaṃ) [puraṃ](puraṃ) [paramapāvanam](paramapāvanam)
+[asti](asti) [vaṅge](vaṅge) [sundara-ākhyaṃ](sundarākhyaṃ) [puraṃ](puraṃ) [parama-pāvanam](paramapāvanam)
 
 ## mukta-m0-p64-v1577
-[paramapāvanaṃ](paramapāvanaṃ) [tīrthabhūtam](tīrthabhūtam)
+[parama-pāvanam](paramapāvanaṃ) [tīrtha-bhūtam](tīrthabhūtam)
 
 ## mukta-m0-p64-v1578
-[tasya](tasya) [bhrātā](bhrātā) [mahāseno](mahāseno) [yavīyān](yavīyān) [priyakṛt](priyakṛt) [sadā](sadā)
+[tasya](tasya) [bhrātā](bhrātā) [mahā-senaḥ](mahāseno) [yavīyān](yavīyān) [priya-kṛt](priyakṛt) [sadā](sadā)
 
 ## mukta-m0-p64-v1579
-[yavīyān](yavīyān) [kaniṣṭhaḥ](kaniṣṭhaḥ) [bhrātuḥ](bhrātuḥ) [priyakṛt](priyakṛt)
+[yavīyān](yavīyān) [kaniṣṭhaḥ](kaniṣṭhaḥ) [bhrātuḥ](bhrātuḥ) [priya-kṛt](priyakṛt)
 
 ## mukta-m0-p64-v1580
-[kadācidaśvamedhaiḥ](kadācidaśvamedhaiḥ) [so'yajad](so'yajad) [devaṃ](devaṃ) [maheśvaram](maheśvaram)
+[kadācid](kadācid) [aśvamedhaiḥ](aśvamedhaiḥ) [saḥ-ayajat](so'yajad) [devam](devaṃ) [maheśvaram](maheśvaram)
 
 ## mukta-m0-p64-v1581
-[mahatyā](mahatyā) [senayā](senayā) [yajñā'śvaṃ](yajñā'śvaṃ) [sarve](sarve) [hyanusaṃyayuḥ](hyanusaṃyayuḥ)
+[mahatyā](mahatyā) [senayā](senayā) [yajña-aśvam](yajñā'śvaṃ) [sarve](sarve) [hi](hi) [anu-saṃyayuḥ](anusaṃyayuḥ)
 
 ## mukta-m0-p64-v1582
-[tatra](tatra) [yajñe](yajñe) [aśvacaryāyāmaśvamanugatāḥ](aśvacaryāyāmaśvamanugatāḥ)
+[tatra](tatra) [yajñe](yajñe) [aśva-caryāyām](aśvacaryāyām) [aśvam](aśvam) [anugatāḥ](anugatāḥ)
 
 ## mukta-m0-p64-v1583
-[yayurairāvatītīramanvaśvaṃ](yayurairāvatītīramanvaśvaṃ) [nṛpateḥ](nṛpateḥ) [sutāḥ](sutāḥ)
+[yayuḥ](yayur) [airāvatī-tīram](airāvatītīram) [anu-aśvam](anvaśvaṃ) [nṛpateḥ](nṛpateḥ) [sutāḥ](sutāḥ)
 
 ## mukta-m0-p64-v1584
-[rodhakān](rodhakān) [śatrūn](śatrūn) [airāvatī](airāvatī) [nadī](nadī) [anvaśvam](anvaśvam) [aśvapṛṣṭhataḥ](aśvapṛṣṭhataḥ)
+[rodhakān](rodhakān) [śatrūn](śatrūn) [airāvatī](airāvatī) [nadī](nadī) [anu-aśvam](anvaśvam) [aśva-pṛṣṭhataḥ](aśvapṛṣṭhataḥ)
 
 ## mukta-m0-p64-v1585
-[baloddhatā](baloddhatā) [avajñāya](avajñāya) [tamasaṅgamya](tamasaṅgamya) [te](te) [yayuḥ](yayuḥ)
+[bala-uddhatāḥ](baloddhatā) [avajñāya](avajñāya) [tam](tam) [asaṅgamya](asaṅgamya) [te](te) [yayuḥ](yayuḥ)
 
 ## mukta-m0-p64-v1586
-[praṇāmādipūrvakaṃ](praṇāmādipūrvakaṃ) [samīpamagatvetyarthaḥ](samīpamagatvetyarthaḥ) [te](te) [rājakumārāḥ](rājakumārāḥ)
+[praṇāma-ādi-pūrvakam](praṇāmādipūrvakaṃ) [samīpam](samīpam) [agatvā](agatvā) [iti](iti) [arthaḥ](arthaḥ) [te](te) [rāja-kumārāḥ](rājakumārāḥ)
 
 ## mukta-m0-p64-v1587
-[jagrāhāśvaṃ](jagrāhāśvaṃ) [yajñiyaṃ](yajñiyaṃ) [taṃ](taṃ) [rājaputran](rājaputran) [hi](hi) [bhartsayan](bhartsayan)
+[jagrāha-aśvam](jagrāhāśvaṃ) [yajñiyam](yajñiyaṃ) [tam](taṃ) [rāja-putram](rājaputran) [hi](hi) [bhartasayan](bhartasayan)
 
 ## mukta-m0-p64-v1588
-[tāvattaṅgaṇaputro'pi](tāvattaṅgaṇaputro'pi) [gaṇḍaśailaṃ](gaṇḍaśailaṃ) [puraḥ](puraḥ) [sthitam](sthitam)
+[tāvat-taṅgaṇa-putraḥ-api](tāvattaṅgaṇaputro'pi) [gaṇḍa-śailam](gaṇḍaśailaṃ) [puraḥ](puraḥ) [sthitam](sthitam)
 
 ## mukta-m0-p64-v1589
-[taṃ](taṃ) [muniputram](muniputram)
+[tam](taṃ) [muni-putram](muniputram)
 
 ## mukta-m0-p64-v1590
-[sāśvaṃ](sāśvaṃ) [śilāvilīnaṃ](śilāvilīnaṃ) [taṃ](taṃ) [dṛṣṭvā](dṛṣṭvā) [rājakumārakāḥ](rājakumārakāḥ)
+[sa-aśvam](sāśvaṃ) [śilā-vilīnam](śilāvilīnaṃ) [tam](taṃ) [dṛṣṭvā](dṛṣṭvā) [rāja-kumārakāḥ](rājakumārakāḥ)
 
 ## mukta-m0-p64-v1591
-[taṃ](taṃ) [muniputram](muniputram)
+[tam](taṃ) [muni-putram](muniputram)
 
 ## mukta-m0-p64-v1592
-[cūrṇitād](cūrṇitād) [gaṇḍaśailāt](gaṇḍaśailāt) [sa](sa) [mahatyā](mahatyā) [senayā](senayā) [vṛtaḥ](vṛtaḥ)
+[cūrṇitāt](cūrṇitād) [gaṇḍa-śailāt](gaṇḍaśailāt) [saḥ](sa) [mahatyā](mahatyā) [senayā](senayā) [vṛtaḥ](vṛtaḥ)
 
 ## mukta-m0-p64-v1593
-[uccāvacairuttamairadhamaiśca](uccāvacairuttamairadhamaiśca) [cūrṇitāt](cūrṇitāt) [cūrṇitaikadeśāt](cūrṇitaikadeśāt)
+[uccāvacaiḥ](uccāvacair) [uttamaiḥ](uttamair) [adhamaiḥ](adhamaiś) [ca](ca) [cūrṇitāt](cūrṇitāt) [cūrṇita-eka-deśāt](cūrṇitaikadeśāt)
 
 ## mukta-m0-p64-v1594
-[nihatya](nihatya) [senāṃ](senāṃ) [sauṣeṇīṃ](sauṣeṇīṃ) [baddhvā](baddhvā) [rājakumārakān](rājakumārakān)
+[nihatya](nihatya) [senām](senāṃ) [sauṣeṇīm](sauṣeṇīṃ) [baddhvā](baddhvā) [rāja-kumārakān](rājakumārakān)
 
 ## mukta-m0-p64-v1595
-[tān](tān) [rājakumārān](rājakumārān)
+[tān](tān) [rāja-kumārān](rājakumārān)
 
 ## mukta-m0-p64-v1596
-[atha](atha) [senābhaṭāḥ](senābhaṭāḥ) [śiṣṭā](śiṣṭā) [gatvā](gatvā) [rājñe](rājñe) [nyavedayan](nyavedayan)
+[atha](atha) [senā-bhaṭāḥ](senābhaṭāḥ) [śiṣṭāḥ](śiṣṭā) [gatvā](gatvā) [rājñe](rājñe) [nyavedayan](nyavedayan)
 
 ## mukta-m0-p64-v1597
-[sundarapuraṃ](sundarapuraṃ) [gatvā](gatvā)
+[sundara-puram](sundarapuraṃ) [gatvā](gatvā)
 
 ## mukta-m0-p64-v1598
-[suṣeṇo](suṣeṇo) [vismito'tyantamuvācāvarajaṃ](vismito'tyantamuvācāvarajaṃ) [svakam](svakam)
+[suṣeṇaḥ](suṣeṇo) [vismitaḥ](vismito) [atyantam](atyantam) [uvāca-avarajam](uvācāvarajaṃ) [svakam](svakam)
 
 ## mukta-m0-p64-v1599
-[tacchrutvā](tacchrutvā) [vismitaḥ](vismitaḥ)
+[tat](tat) [śrutvā](śrutvā) [vismitaḥ](vismitaḥ)
 
 ## mukta-m0-p64-v1600
-[tapasvino'cintyavīryā](tapasvino'cintyavīryā) [ajeyā](ajeyā) [devamānuṣaiḥ](devamānuṣaiḥ)
+[tapasvinaḥ](tapasvino) [acintya-vīryāḥ](acintyavīryā) [ajeyāḥ](ajeyā) [deva-mānuṣaiḥ](devamānuṣaiḥ)

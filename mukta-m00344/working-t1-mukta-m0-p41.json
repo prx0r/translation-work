@@ -8,27 +8,15 @@
 "tokens": [
 {
 "surface": "etadvihāya",
-"quick_gloss": "having-abandoned-this"
+"quick_gloss": "leaving-this"
 },
 {
-"surface": "ca",
-"quick_gloss": "and"
+"surface": "cānyatra",
+"quick_gloss": "and-elsewhere"
 },
 {
-"surface": "anyatra",
-"quick_gloss": "elsewhere"
-},
-{
-"surface": "na",
-"quick_gloss": "not"
-},
-{
-"surface": "asti",
-"quick_gloss": "is"
-},
-{
-"surface": "iṣatphalasambhavaḥ",
-"quick_gloss": "slight-fruit-possibility"
+"surface": "nāstīṣatphalasambhavaḥ",
+"quick_gloss": "not-is-small-fruit-possibility"
 }
 ]
 },
@@ -44,12 +32,8 @@
 "quick_gloss": "only-this-much"
 },
 {
-"surface": "ahetukatvena",
-"quick_gloss": "as-causeless"
-},
-{
-"surface": "upāsanameva",
-"quick_gloss": "worship-only"
+"surface": "ahetukatvenopāsanameva",
+"quick_gloss": "as-causeless-worship"
 },
 {
 "surface": "anyatra",
@@ -70,23 +54,19 @@
 "tokens": [
 {
 "surface": "papraccha",
-"quick_gloss": "asked"
+"quick_gloss": "asked-again"
 },
 {
-"surface": "bhūyastām",
-"quick_gloss": "again-her"
+"surface": "tāṃ",
+"quick_gloss": "her"
 },
 {
 "surface": "kāntām",
 "quick_gloss": "beloved"
 },
 {
-"surface": "atihṛṣṭamanāḥ",
-"quick_gloss": "very-delighted-mind"
-},
-{
-"surface": "tadā",
-"quick_gloss": "then"
+"surface": "atihṛṣṭamanāstadā",
+"quick_gloss": "greatly-delighted-mind-then"
 }
 ]
 },
@@ -110,7 +90,7 @@
 "quick_gloss": "by-whose-power"
 },
 {
-"surface": "niyatam",
+"surface": "niyataṃ",
 "quick_gloss": "regulated"
 },
 {
@@ -131,7 +111,7 @@
 "quick_gloss": "thus"
 },
 {
-"surface": "sūryam",
+"surface": "sūryaṃ",
 "quick_gloss": "sun"
 },
 {
@@ -139,12 +119,12 @@
 "quick_gloss": "nṛsiṃha-etc"
 },
 {
-"surface": "buddham",
+"surface": "buddhaṃ",
 "quick_gloss": "buddha"
 },
 {
 "surface": "sugatameva",
-"quick_gloss": "sugata-only"
+"quick_gloss": "sugata-indeed"
 },
 {
 "surface": "ca",
@@ -160,24 +140,24 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "buddha]",
+"surface": "buddha",
 "quick_gloss": "buddha"
 },
 {
-"surface": "buddham",
-"quick_gloss": "buddha"
+"surface": "buddhaṃ",
+"quick_gloss": "buddha-sugata"
 },
 {
-"surface": "sugatam",
+"surface": "sugataṃ",
 "quick_gloss": "sugata"
 },
 {
 "surface": "ca",
-"quick_gloss": "and"
+"quick_gloss": "ca"
 },
 {
 "surface": "bauddhaikadeśinaḥ",
-"quick_gloss": "partial-buddhists"
+"quick_gloss": "buddhist-partialists"
 }
 ]
 },
@@ -206,7 +186,7 @@
 },
 {
 "surface": "bahudhā",
-"quick_gloss": "in-many-ways"
+"quick_gloss": "many-ways"
 },
 {
 "surface": "jaguḥ",
@@ -226,12 +206,8 @@
 "quick_gloss": "there"
 },
 {
-"surface": "kva",
-"quick_gloss": "where"
-},
-{
-"surface": "īśvarabuddhiḥ",
-"quick_gloss": "god-conception"
+"surface": "kveśvarabuddhiḥ",
+"quick_gloss": "where-ishvara-belief"
 },
 {
 "surface": "tu",
@@ -247,7 +223,7 @@
 },
 {
 "surface": "samīraya",
-"quick_gloss": "explain"
+"quick_gloss": "declare"
 }
 ]
 },
@@ -259,7 +235,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "matabhe]",
+"surface": "matabhe",
 "quick_gloss": "opinion"
 },
 {
@@ -271,8 +247,12 @@
 "quick_gloss": "says"
 },
 {
-"surface": "tatreti",
-"quick_gloss": "there-etc"
+"surface": "tatra",
+"quick_gloss": "there"
+},
+{
+"surface": "iti",
+"quick_gloss": "iti"
 }
 ]
 },
@@ -288,12 +268,12 @@
 "quick_gloss": "because"
 },
 {
-"surface": "sa",
+"surface": "saḥ",
 "quick_gloss": "he"
 },
 {
 "surface": "bhagavān",
-"quick_gloss": "lord"
+"quick_gloss": "bhagavān"
 },
 {
 "surface": "vyāghrapādaḥ",
@@ -334,7 +314,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "priyāmṛtaprabhāṣiṇī]",
+"surface": "priyāmṛtaprabhāṣiṇī",
 "quick_gloss": "beloved-nectar-speaking"
 }
 ]
@@ -348,11 +328,11 @@
 "tokens": [
 {
 "surface": "ataḥ",
-"quick_gloss": "from-this"
+"quick_gloss": "therefore"
 },
 {
 "surface": "tatsambandhāt",
-"quick_gloss": "its-connection"
+"quick_gloss": "from-that-connection"
 }
 ]
 },
@@ -373,7 +353,7 @@
 },
 {
 "surface": "sampravakṣyāmi",
-"quick_gloss": "I-will-declare"
+"quick_gloss": "will-declare"
 },
 {
 "surface": "śṛṇu",
@@ -381,7 +361,7 @@
 },
 {
 "surface": "īśvaravinirṇayam",
-"quick_gloss": "god-determination"
+"quick_gloss": "īśvara-determination"
 }
 ]
 },
@@ -393,7 +373,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "sa",
+"surface": "saḥ",
 "quick_gloss": "he"
 },
 {
@@ -401,7 +381,7 @@
 "quick_gloss": "viṣṇu"
 },
 {
-"surface": "sa",
+"surface": "saḥ",
 "quick_gloss": "he"
 },
 {
@@ -413,7 +393,7 @@
 "quick_gloss": "creator"
 },
 {
-"surface": "sa",
+"surface": "saḥ",
 "quick_gloss": "he"
 },
 {
@@ -422,7 +402,7 @@
 },
 {
 "surface": "somaḥ",
-"quick_gloss": "soma"
+"quick_gloss": "moon"
 },
 {
 "surface": "eva",
@@ -450,8 +430,12 @@
 "quick_gloss": "śiva"
 },
 {
-"surface": "nāpi",
-"quick_gloss": "not-even"
+"surface": "na",
+"quick_gloss": "not"
+},
+{
+"surface": "api",
+"quick_gloss": "api"
 },
 {
 "surface": "viṣṇuḥ",
@@ -459,7 +443,7 @@
 },
 {
 "surface": "vā",
-"quick_gloss": "or"
+"quick_gloss": "vā"
 },
 {
 "surface": "na",
@@ -495,7 +479,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "vāstavam",
+"surface": "vāstavaṃ",
 "quick_gloss": "real"
 },
 {
@@ -504,7 +488,7 @@
 },
 {
 "surface": "iti",
-"quick_gloss": "thus"
+"quick_gloss": "iti"
 },
 {
 "surface": "niṣedhati",
@@ -520,7 +504,7 @@
 },
 {
 "surface": "ityādi",
-"quick_gloss": "etc"
+"quick_gloss": "ityādi"
 }
 ]
 },
@@ -532,7 +516,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "kartāram",
+"surface": "kartāraṃ",
 "quick_gloss": "maker"
 },
 {
@@ -545,10 +529,10 @@
 },
 {
 "surface": "te",
-"quick_gloss": "they"
+"quick_gloss": "te"
 },
 {
-"surface": "pañcavaktram",
+"surface": "pañcavaktraṃ",
 "quick_gloss": "five-faced"
 },
 {
@@ -627,11 +611,11 @@
 },
 {
 "surface": "saśarīraḥ",
-"quick_gloss": "with-body"
+"quick_gloss": "embodied"
 },
 {
 "surface": "hi",
-"quick_gloss": "indeed"
+"quick_gloss": "hi"
 },
 {
 "surface": "dṛśyate",
@@ -664,15 +648,15 @@
 "quick_gloss": "there"
 },
 {
-"surface": "mukhyam",
+"surface": "mukhyaṃ",
 "quick_gloss": "principal"
 },
 {
 "surface": "hi",
-"quick_gloss": "indeed"
+"quick_gloss": "hi"
 },
 {
-"surface": "kartṛtvam",
+"surface": "kartṛtvaṃ",
 "quick_gloss": "agency"
 },
 {
@@ -697,8 +681,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "śarīracetanayormadhye",
-"quick_gloss": "between-body-and-consciousness"
+"surface": "śarīra",
+"quick_gloss": "body"
+},
+{
+"surface": "cetanayoḥ",
+"quick_gloss": "and-consciousness"
+},
+{
+"surface": "madhye",
+"quick_gloss": "between"
 }
 ]
 },
@@ -714,8 +706,12 @@
 "quick_gloss": "consciousness-made-body"
 },
 {
-"surface": "sarvānabhimatān",
-"quick_gloss": "all-desired"
+"surface": "sarvān",
+"quick_gloss": "all"
+},
+{
+"surface": "abhimatān",
+"quick_gloss": "desired"
 },
 {
 "surface": "sṛjet",
@@ -748,7 +744,7 @@
 },
 {
 "surface": "iti",
-"quick_gloss": "thus"
+"quick_gloss": "iti"
 },
 {
 "surface": "āha",
