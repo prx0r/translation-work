@@ -2,49 +2,49 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p108-v2676
-[by-four-parts](caturbhāgaiḥ) [by-four-parts](caturbhāgaiḥ) [remaining](śeṣān) [others](yāḥ) [moon-hall](candraśālikā)
+[four-parts](caturbhāgaiḥ) [four-parts](caturbhāgaiḥ) [remaining-other](śeṣānyāḥ) [moon-hall](candraśālikā)
 
 ## mukta-m0-p108-v2677
 [thus](evaṃ) [fifteen-named](pañcadaśākhyātāḥ) [five-floor-moon-halls](pañcabhūmīnduśālikāḥ)
 
 ## mukta-m0-p108-v2678
-[with-half](sārdhena) [in-middle](madhyataḥ) [there](tatra) [chariot-half](rathakārdhaṃ) [risen](samudgataḥ)
+[with-half](sārdhena) [middle](madhyataḥ) [there](tatra) [chariot-half](rathakārdhaṃ) [risen](samudgataḥ)
 
 ## mukta-m0-p108-v2679
 [sixty-part-height](ṣaṣṭibhāgasamucchāyaṃ) [make](kuryāt) [half-moon-hall](ardhenduśālikām)
 
 ## mukta-m0-p108-v2680
-[pot-band](kumbhapaṭṭīm) [thus](tathā) [neck](kaṇṭham) [by-half](ardhena) [arrange](parikalpayet)
+[pot-band](kumbhapaṭṭīṃ) [thus](tathā) [neck](kaṇṭham) [by-half](ardhena) [arrange](parikalpayet)
 
 ## mukta-m0-p108-v2681
 [thus](tathā) [made](kāryā) [part-by-part](bhāgabhāgena) [created](nirmitā)
 
 ## mukta-m0-p108-v2682
-[of-sky](khaneḥ) [and](ca) [tilaka-endowed](tilakopetaṃ) [outside-it](tadbāhye) [half-moon-hall](ardhenduśālikā)
+[of-pit](khaneḥ) [and](ca) [tilaka-endowed](tilakopetaṃ) [outside-that](tadbāhye) [half-moon-hall](ardhenduśālikā)
 
 ## mukta-m0-p108-v2683
-[in-its-middle](tanmadhye) [peak](śikharī) [two-part](dvyaṃśā) [risen-very-charming](ucchritātimanoramā)
+[in-that-middle](tanmadhye) [peak](śikharī) [two-parts](dvyaṃśā) [risen](ucchritā) [very-beautiful](atimanoramā)
 
 ## mukta-m0-p108-v2684
-[its-side](tatpārśva) [half-chariot](ardhārathe) [also](api) [thus](evaṃ) [make](kartavyā) [half-moon-hall](ardhenduśālikā)
+[at-that-side](tatpārśve) [half-chariot](ardhārathe) [also](api) [thus](evaṃ) [make](kartavyā) [half-moon-hall](ardhenduśālikā)
 
 ## mukta-m0-p108-v2685
-[above-above](uparyupari) [and](ca) [three](trīṇi) [one](ekaṃ) [thus](evaṃ) [ground-thread-equality](bhūsūtratulyataḥ)
+[above-above](uparyupari) [and](ca) [three](trīṇi) [one](ekaṃ) [variants-thus](mū-a-kh-g-ṅ-evaṃ) [earth-thread-equality](bhūsūtratulyataḥ)
 
 ## mukta-m0-p108-v2686
-[middle-chariot's](madhyarathasya) [work](karma) [this](idaṃ) [platform-etc](vedikādyam) [then-said](athocyate)
+[middle-chariot](madhyarathasya) [work](karma) [this](idaṃ) [altar-etc](vedikādyam) [then-said](athocyate)
 
 ## mukta-m0-p108-v2687
-[from-foot](pādāt) [entrance-band](praveśapaṭṭī) [be](syāt) [exit](nirgamā) [band-foot](paṭṭikāṅghritaḥ)
+[from-foot](pādāt) [entrance-band](praveśapaṭṭī) [be](syāt) [exit](nirgamā) [band-footed](paṭṭikāṅghritaḥ)
 
 ## mukta-m0-p108-v2688
-[by-foot](pādena) [square](caturasrā) [be-it](asyāt) [womb-half-extent](garbhārdhapravistarā)
+[by-foot](pādena) [square](caturasrā) [be-that](asyāt-sā) [womb-half-extent](garbhārdhapravistarā)
 
 ## mukta-m0-p108-v2689
-[swan-named-end-half-thread](haṃsākhyāntārdhasūtrāt) [and](ca) [six-part](ṣaḍvibhāgaḥ) [its-height](taducchrayaḥ)
+[swan-named-end-half-thread](haṃsākhyāntārdhasūtrāt) [and](ca) [six-parts](ṣaḍvibhāgaḥ) [that-height](taducchrayaḥ)
 
 ## mukta-m0-p108-v2690
-[cheek-from-bite-exit](kapolādaṃśaniṣkāśāt) [pure-essence-extent](amalāsāravistaraḥ)
+[cheek-from-portion-protrusion](kapolādaṃśaniṣkāśāt) [pure-essence-extent](amalāsāravistaraḥ)
 
 ## mukta-m0-p108-v2691
 [by-half](ardhena) [neck-band](galapaṭṭī) [and](ca) [sub-band-other-half](upapaṭṭyaparārdhataḥ)
@@ -56,22 +56,22 @@
 [by-one](ekena) [square](caturasrā) [be](syāt) [by-two](dvābhyāṃ) [swan-pigeon](haṃsakapotikā)
 
 ## mukta-m0-p108-v2694
-[with-elements-parts](sabhūtāṃśaiḥ) [by-three](tribhiḥ) [made](kāryaḥ) [pot](ghaṭaḥ) [its-double-height](taddviguṇocchrayaḥ)
+[with-being-parts](sabhūtāṃśaiḥ) [three](tribhiḥ) [make](kāryo) [pot](ghaṭaḥ) [that-double-height](taddviguṇocchrayaḥ)
 
 ## mukta-m0-p108-v2695
-[thus](tathā) [and](ca)
+[thus](tathā) [also](eva) [and](ca) [question](?)
 
 ## mukta-m0-p108-v2696
-[somewhere](kvacid) [Bhairava-dance-lord](bhairavanāṭyeśa) [Gauri-sun](gauryarkaḥ) [from-south](dakṣiṇāditaḥ)
+[somewhere](kvacit) [Bhairava-dance-lord](bhairavanāṭyeśa) [Gauri-sun](gauryarkaḥ) [from-south](dakṣiṇāditaḥ)
 
 ## mukta-m0-p108-v2697
-[its-hip-half-height](tatkaṭyardhasamucchrāyaṃ) [divide](pravibhajya) [into-eight-parts](aṣṭabhāgataḥ)
+[that-hip-half-height](tatkaṭyardhasamucchrāyaṃ) [divide](pravibhajya) [eight-parts](aṣṭabhāgataḥ)
 
 ## mukta-m0-p108-v2698
-[by-three-parts](tryaṃśakaiḥ) [moon-hall](candraśālām) [by-two-parts](dvayaṃśataḥ) [middle](madhyataḥ) [city](puram)
+[three-parts](tryaṃśakaiḥ) [moon-hall](candraśālāṃ) [two-parts](dvayaṃśataḥ) [middle](madhyataḥ) [city](puram)
 
 ## mukta-m0-p108-v2699
-[thus](evaṃ) [its-side](tatpārśvataḥ) [made](kāryāḥ) [and](ca) [half-moon-hall-etc](ardhenduśālikādayaḥ)
+[thus](evaṃ) [that-side](tatpārśvataḥ) [make](kāryāḥ) [and](ca) [half-moon-hall-etc](ardhenduśālikādayaḥ)
 
 ## mukta-m0-p108-v2700
-[ornament-of-site](vāstubhūṣaṇam) [stone-born](aśmottham) [said](uktam) [others](anyāni) [and](ca) [say](bruve)
+[Vastu-ornament](vāstubhūṣaṇam) [stone-born](aśmottham) [said](uktam) [other](anyāni) [and](ca) [say](bruve)
