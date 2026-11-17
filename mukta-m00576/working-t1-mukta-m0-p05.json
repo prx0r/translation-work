@@ -36,12 +36,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "oṃ",
+"surface": "oṃ bhūrbhuvasvar",
 "quick_gloss": "oṃ-bhūr-bhuvasvaḥ"
-},
-{
-"surface": "bhūrbhuvasvar",
-"quick_gloss": "bhūr-bhuvasvaḥ"
 },
 {
 "surface": "iti",
@@ -53,7 +49,7 @@
 },
 {
 "surface": "tatsavitur",
-"quick_gloss": "that-of-savitṛ"
+"quick_gloss": "tat-savitur"
 },
 {
 "surface": "iti",
@@ -106,8 +102,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "prāgastamayā",
-"quick_gloss": "before-sunset"
+"surface": "prāk",
+"quick_gloss": "before"
+},
+{
+"surface": "astamayā",
+"quick_gloss": "sunset"
 },
 {
 "surface": "niṣkramya",
@@ -165,7 +165,7 @@
 },
 {
 "surface": "saṃdhyāni",
-"quick_gloss": "twilight-rites"
+"quick_gloss": "twilight-devotions"
 },
 {
 "surface": "smaraṇaṃ",
@@ -223,7 +223,7 @@
 },
 {
 "surface": "ācaraṇaṃ",
-"quick_gloss": "practice"
+"quick_gloss": "wandering"
 },
 {
 "surface": "kartavyam",
@@ -239,11 +239,11 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "agnīṃ",
+"surface": "agni",
 "quick_gloss": "fire"
 },
 {
-"surface": "dhanaṃ",
+"surface": "īṃdhanaṃ",
 "quick_gloss": "kindling"
 },
 {
@@ -268,12 +268,8 @@
 "quick_gloss": "and"
 },
 {
-"surface": "brahma",
-"quick_gloss": "of-brahman"
-},
-{
-"surface": "agneḥ",
-"quick_gloss": "of-fire"
+"surface": "brahma+agneḥ",
+"quick_gloss": "of-brahman-fire"
 },
 {
 "surface": "dīpanaṃ",
@@ -281,7 +277,7 @@
 },
 {
 "surface": "vidheyaṃ",
-"quick_gloss": "to-be-enjoined"
+"quick_gloss": "to-be-prescribed"
 }
 ]
 },
@@ -294,11 +290,11 @@
 "tokens": [
 {
 "surface": "sāyam",
-"quick_gloss": "in-evening"
+"quick_gloss": "in-the-evening"
 },
 {
 "surface": "eva",
-"quick_gloss": "only"
+"quick_gloss": "indeed"
 },
 {
 "surface": "agniḥ",
@@ -323,7 +319,7 @@
 },
 {
 "surface": "ācaraṇa",
-"quick_gloss": "practice"
+"quick_gloss": "wandering"
 },
 {
 "surface": "iti",
@@ -343,24 +339,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": ".......................",
-"quick_gloss": "lacuna"
+"surface": "bhaikṣa+ācaraṇa",
+"quick_gloss": "alms-wandering"
 },
 {
-"surface": "bhaikṣa",
-"quick_gloss": "alms"
-},
-{
-"surface": "ācaraṇa",
-"quick_gloss": "practice"
-},
-{
-"surface": "agnīṃ",
-"quick_gloss": "fire"
-},
-{
-"surface": "dhanī",
-"quick_gloss": "kindling"
+"surface": "agni+īṃdhanī",
+"quick_gloss": "fire-kindling"
 }
 ]
 },
@@ -390,11 +374,11 @@
 "tokens": [
 {
 "surface": "mā",
-"quick_gloss": "not"
+"quick_gloss": "may-not-be"
 },
 {
 "surface": "bhūt",
-"quick_gloss": "may-be"
+"quick_gloss": "bhūt"
 },
 {
 "surface": "iti",
@@ -464,12 +448,8 @@
 "quick_gloss": "which"
 },
 {
-"surface": "veda",
-"quick_gloss": "veda"
-},
-{
-"surface": "brataṃ",
-"quick_gloss": "vow"
+"surface": "veda+brataṃ",
+"quick_gloss": "veda-vow"
 },
 {
 "surface": "tat",
@@ -502,7 +482,7 @@
 },
 {
 "surface": "gṛhītavyam",
-"quick_gloss": "to-be-taken"
+"quick_gloss": "to-be-accepted"
 },
 {
 "surface": "iti",
@@ -594,7 +574,7 @@
 },
 {
 "surface": "āha",
-"quick_gloss": "says"
+"quick_gloss": "he-says"
 }
 ]
 },
@@ -606,11 +586,11 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "apo",
+"surface": "apaḥ",
 "quick_gloss": "water"
 },
 {
-"surface": "śāna",
+"surface": "aśāna",
 "quick_gloss": "sipping"
 }
 ]
@@ -623,16 +603,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "brahma",
-"quick_gloss": "brahman"
-},
-{
-"surface": "jñāna",
-"quick_gloss": "knowledge"
+"surface": "brahma+jñāna",
+"quick_gloss": "brahman-knowledge"
 },
 {
 "surface": "vimarśa",
-"quick_gloss": "inquiry"
+"quick_gloss": "reflection"
 },
 {
 "surface": "dārḍhyaṃ",
@@ -648,7 +624,7 @@
 },
 {
 "surface": "āha",
-"quick_gloss": "says"
+"quick_gloss": "he-says"
 }
 ]
 }
