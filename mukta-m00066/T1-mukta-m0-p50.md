@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p50-v1226
-[three-limbed-desire-possessors](triklabāśayāḥ)
+[pada-gloss](triklabāśayāḥ)
 
 ## mukta-m0-p50-v1227
-[caste-stages](varṇāśrama) [order](vyavasthāṃ) [and](ca) [rules-and](niyamāṃśca) [of-embodied](śarīriṇām)
+[pada-gloss](varṇāśrama) [pada-gloss](vyavasthāṃ) [pada-gloss](ca) [pada-gloss](niyamāṃśca) [pada-gloss](śarīriṇām)
 
 ## mukta-m0-p50-v1228
-[smṛti-by-dharma-śāstras](dharmaśāstraismṛtiḥ) [by-śāstras](śāstrair) [conduct](ācārasya) [establishment](pravarttanam)
+[pada-gloss](dharmaśāstraismṛtiḥ) [pada-gloss](śāstrairācārasya) [pada-gloss](pravarttanam)
 
 ## mukta-m0-p50-v1229
-[according-to-caste-stage](prativarṇāśramaṃ) [and-indeed](caiva) [different-different](bhinnabhinnā) [arrangement](vyavasthitiḥ)
+[pada-gloss](prativarṇāśramaṃ) [pada-gloss](caiva) [pada-gloss](bhinnabhinnā) [pada-gloss](vyavasthitiḥ)
 
 ## mukta-m0-p50-v1230
-[in-adultery-cases](paradāraprasaṃgeṣu) [as-caste](yathā+varṇaṃ) [and](ca) [punishment](daṇḍanam)
+[pada-gloss](paradāraprasaṃgeṣu) [pada-gloss](yathā) [pada-gloss](varṇaṃ) [pada-gloss](ca) [pada-gloss](daṇḍanam)
 
 ## mukta-m0-p50-v1231
-[since](yataḥ) [people-fault](prajāmanodoṣa) [removal](nivṛtyaidaṇḍakalpanam)
+[pada-gloss](yataḥ) [pada-gloss](prajāmanodoṣa) [pada-gloss](nivṛtyaidaṇḍakalpanam)
 
 ## mukta-m0-p50-v1232
-[conciliation-division-gift-punishment-means](sāmabhedaudānadaṇḍaupyupāyā) [world-protection](viśvarakṣaṇe)
+[pada-gloss](sāmabhedaudānadaṇḍaupyupāyā) [pada-gloss](viśvarakṣaṇe)
 
 ## mukta-m0-p50-v1233
-[thereby](tenaiva) [designation](vyapadeśo) [indeed](hi) [of-all](sarvasya) [path-of-policy](nayavartmanaḥ)
+[pada-gloss](tenaiva) [pada-gloss](vyapadeśo) [pada-gloss](hi) [pada-gloss](sarvasya) [pada-gloss](nayavartmanaḥ)
 
 ## mukta-m0-p50-v1234
-[people-fault](prajādoṣasya) [abundance](bāhulyāta) [two-dependence](dvyapekṣā) [indeed](tu) [greater](bhūyasī)
+[pada-gloss](prajādoṣasya) [pada-gloss](bāhulyāta) [pada-gloss](dvyapekṣā) [pada-gloss](tu) [pada-gloss](bhūyasī)
 
 ## mukta-m0-p50-v1235
-[thus](evaṃ) [by-done](kṛtena) [path](mārgeṇa) [limit](maryādā) [soul-nature](kalpanātmanaḥ)
+[pada-gloss](evaṃ) [pada-gloss](kṛtena) [pada-gloss](mārgeṇa) [pada-gloss](maryādā) [pada-gloss](kalpanātmanaḥ)
 
 ## mukta-m0-p50-v1236
-[remain](varttaṃta) [indeed](eva) [in-minds](citteṣu) [faults](doṣāste) [but](tu) [inferior-born](hinātmaje)
+[pada-gloss](varttaṃta) [pada-gloss](eva) [pada-gloss](citteṣu) [pada-gloss](doṣāste) [pada-gloss](tu) [pada-gloss](hinātmaje)
 
 ## mukta-m0-p50-v1237
-[manu-etc-made-śāstras](manvādikṛtaśāstrāṇi) [making-authority](pramāṇīkṛtyabhūrayaḥ)
+[pada-gloss](manvādikṛtaśāstrāṇi) [pada-gloss](pramāṇīkṛtyabhūrayaḥ)
 
 ## mukta-m0-p50-v1238
-[of-them](teṣāṃ) [fear](bhaya) [soldier-row](bhaṭaśreṇi) [island-accomplishment-wealth](dvīpasādhanasaṃpadām)
+[pada-gloss](teṣāṃ) [pada-gloss](bhaya) [pada-gloss](bhaṭaśreṇi) [pada-gloss](dvīpasādhanasaṃpadām)
 
 ## mukta-m0-p50-v1239
-[of-king-etc-unreachable](rājādyagocarāṇāṃ) [but](tu) [of-some](keṣāmapi) [embodied](tanūbhṛtām)
+[pada-gloss](rājādyagocarāṇāṃ) [pada-gloss](tu) [pada-gloss](keṣāmapi) [pada-gloss](tanūbhṛtām)
 
 ## mukta-m0-p50-v1240
-[yama-punishment-etc-śāstras](yamadaṇḍādi+śāstrāṇya) [not-authority](apramāṇī) [making-valued](kṛtyavallatām)
+[pada-gloss](yamadaṇḍādi) [pada-gloss](śāstrāṇya) [pada-gloss](pramāṇī) [pada-gloss](kṛtyavallatām)
 
 ## mukta-m0-p50-v1241
-[by-king-punishment-fear](rājadaṇḍabhayādeke) [by-yama-punishment-fear](yamadaṇḍabhayātpare)
+[pada-gloss](rājadaṇḍabhayādeke) [pada-gloss](yamadaṇḍabhayātpare)
 
 ## mukta-m0-p50-v1242
-[highest](uttamā) [middle](madhyamā) [low](nīcāḥ) [in-that-time](tasmin+kāledha'māḥ) [duties](dhamāḥ)
+[pada-gloss](uttamā) [pada-gloss](madhyamā) [pada-gloss](nīcāḥ) [pada-gloss](tasmin) [pada-gloss](kāledha'māḥ) [pada-gloss](dhamāḥ)
 
 ## mukta-m0-p50-v1243
-[of-them](teṣāṃ) [in-order](krameṇa) [of-all](sarveṣāṃ) [mind-fault-removal](cittadoṣanivāraṇe)
+[pada-gloss](teṣāṃ) [pada-gloss](krameṇa) [pada-gloss](sarveṣāṃ) [pada-gloss](cittadoṣanivāraṇe)
 
 ## mukta-m0-p50-v1244
-[there](tatra) [conciliation-teaching](sāmopadeśasya) [characteristic](lakṣaṇaṃ) [we-declare](saṃpracakṣmahe)
+[pada-gloss](tatra) [pada-gloss](sāmopadeśasya) [pada-gloss](lakṣaṇaṃ) [pada-gloss](saṃpracakṣmahe)
 
 ## mukta-m0-p50-v1245
-[desire](rāgaṃ) [abandons](tyajati) [everywhere](sarvatrasvaiva) [wife-dependence](bhāryāvalaṃbatām)
+[pada-gloss](rāgaṃ) [pada-gloss](tyajati) [pada-gloss](sarvatrasvaiva) [pada-gloss](bhāryāvalaṃbatām)
 
 ## mukta-m0-p50-v1246
-[by-own](ātmīye) [not-indeed](naiva) [by-obtained](labdhena) [thing](vastunā) [heart-satisfaction](hṛditṛptatā)
+[pada-gloss](ātmīye) [pada-gloss](naiva) [pada-gloss](labdhena) [pada-gloss](vastunā) [pada-gloss](hṛditṛptatā)
 
 ## mukta-m0-p50-v1247
-[knowledge](vidyāṃbhajata) [with-conduct](sācārāḥ) [pure-self-examination](śuddhasvātmavimṛṣṭaye)
+[pada-gloss](vidyāṃbhajata) [pada-gloss](sācārāḥ) [pada-gloss](śuddhasvātmavimṛṣṭaye)
 
 ## mukta-m0-p50-v1248
-[thus](iththaṃ) [taken](gṛhīta) [dharma-artha](dharmārthā) [reflecting](vimṛśyan) [by-own-intellect](ātmanodhiyā)
+[pada-gloss](iththaṃ) [pada-gloss](gṛhīta) [pada-gloss](dharmārthā) [pada-gloss](vimṛśyanvātmanodhiyā)
 
 ## mukta-m0-p50-v1249
-[its-root](tanmūlaṃ) [and](ca) [great-suffering](mahāduḥkhaṃ) [reflecting](vimṛśyanyāyamasthitā)
+[pada-gloss](tanmūlaṃ) [pada-gloss](ca) [pada-gloss](mahāduḥkhaṃ) [pada-gloss](vimṛśyanyāyamasthitā)
 
 ## mukta-m0-p50-v1250
-[by-division-teaching-path](bhedopadeśamārgeṇa) [instructing](vyādiśannaramadhyamān)
+[pada-gloss](bhedopadeśamārgeṇa) [pada-gloss](vyādiśannaramadhyamān)

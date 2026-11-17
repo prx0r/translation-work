@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p40-v976
-what-many-here-said(bahunākimihoktena) direct+bliss+giver(sākṣādānaṃdadāyakaḥ)
+[pada](bahunākimihoktena) [pada](sākṣādānaṃdadāyakaḥ)
 
 ## mukta-m0-p40-v977
-thus-second-pāda's-mantra-name-declared(iti dvitīyapātasya maṃtrasannāma īritam)
+[pada](iti) [pada](dvitīyapātasya) [pada](maṃtrasannāma) [pada](īritam)
 
 ## mukta-m0-p40-v978
-eight-bhogavatī-holds(aṣṭabhogavatī dhatte) great-imperial-lordship(mahāsāmrājya nāthatām)
+[pada](aṣṭabhogavatī) [pada](dhatte) [pada](mahāsāmrājya) [pada](nāthatām)
 
 ## mukta-m0-p40-v979
-all-forms-consciousness-dissolution(sarvākāreṇa caitanya layaḥ) all-limbs-beautiful(sarvāṃgasuṃdarī)
+[pada](sarvākāreṇa) [pada](caitanya) [pada](layaḥ) [pada](sarvāṃgasuṃdarī)
 
 ## mukta-m0-p40-v980
-universe-injury(viśvakṣati) whatever-not-goes-crookedly(yatkiṃcinna ca niryāti vakrataḥ)
+[pada](viśvakṣati) [pada](ca) [pada](yatkiṃcinna) [pada](ca) [pada](niryāti) [pada](vakrataḥ)
 
 ## mukta-m0-p40-v981
-no-effort(na ceṣṭā) no-agitation(na ca saṃraṃbho) no-deluding-cry(na ca mohana kūjitam)
+[pada](na) [pada](ceṣṭā) [pada](na) [pada](ca) [pada](saṃraṃbho) [pada](na) [pada](ca) [pada](mohana) [pada](kūjitam)
 
 ## mukta-m0-p40-v982
-no-tooth-falling(na daṃta pātanomuṣṭi) blow-and-grasp(na ca grahaḥ)
+[pada](na) [pada](daṃta) [pada](pātanomuṣṭi) [pada](ghātena) [pada](ca) [pada](ka) [pada](ca) [pada](grahaḥ)
 
 ## mukta-m0-p40-v983
-no-girdle-jingle(na mekhalā kalakvāṇo) no-playful-limb-bending(na līlāsaṃgamaṃgayaḥ)
+[pada](na) [pada](mekhalā) [pada](kalakvāṇo) [pada](na) [pada](līlāsaṃgamaṃgayaḥ)
 
 ## mukta-m0-p40-v984
-heart-place-born-tremor(hṛdayasthāna janitaḥ kaṃpaḥ) other-other-goes(paraparāyate)
+[pada](hṛdayasthāna) [pada](janitaḥ) [pada](kaṃpaḥ) [pada](paraparāyate)
 
 ## mukta-m0-p40-v985
-one-eight-great-sacrifice-pakṣa-drop(ekāṣṭakamahāyāga pakṣebiṃduṃ samutsṛjet)
+[pada](ekāṣṭakamahāyāga) [pada](pakṣebiṃduṃ) [pada](samutsṛjet)
 
 ## mukta-m0-p40-v986
-eight-eight-great-sacrifice-messenger-eight-thence(aṣṭāṣṭakamahāyāge dūtyaṣṭakamataḥ param)
+[pada](aṣṭāṣṭakamahāyāge) [pada](dūtyaṣṭakamataḥ) [pada](param)
 
 ## mukta-m0-p40-v987
-this-only-śakti-and-śambhu-unity(iyameva hi śakteśca śaṃbhorekatayā sthitiḥ)
+[pada](iyameva) [pada](hi) [pada](śakteśca) [pada](śaṃbhorekatayā) [pada](sthitiḥ)
 
 ## mukta-m0-p40-v988
-thus-bliss-sacrifice-this-told-thee-maheśvarī(itthamānaṃda yāgo'yaṃ kathitaste maheśvari)
+[pada](itthamānaṃda) [pada](yāgo'yaṃ) [pada](kathitaste) [pada](maheśvari)
 
 ## mukta-m0-p40-v989
-from-thy-lotus-mouth-well-heard-eight-oblation-order(bhavato vadanāṃbhojāt suśruto'ṣṭāhuti kramaḥ)
+[pada](bhavato) [pada](vadanāṃbhojāt) [pada](suśruto'ṣṭāhuti) [pada](kramaḥ)
 
 ## mukta-m0-p40-v990
-hear-wish-deveśa-post-sacrifice-order(śrotuṃ vāṃcchāmi deveśa yāgānaṃtarajaṃ kramam)
+[pada](śrotuṃ) [pada](vāṃcchāmi) [pada](deveśa) [pada](yāgānaṃtarajaṃ) [pada](kramam)
 
 ## mukta-m0-p40-v991
-hear-devi-great-fortunate-what-me-thou-ask(śṛṇu devi mahābhāge yanmāṃtvaṃ paripṛcchasi)
+[pada](śṛṇu) [pada](devi) [pada](mahābhāge) [pada](yanmāṃtvaṃ) [pada](paripṛcchasi)
 
 ## mukta-m0-p40-v992
-hero-long-dance-tired-liṅga-maheśvara(vīraḥ suciranṛttena śrāṃtaliṃgamaheśvaraḥ)
+[pada](vīraḥ) [pada](suciranṛttena) [pada](śrāṃtaliṃgamaheśvaraḥ)
 
 ## mukta-m0-p40-v993
-then-polluted-pāta-filled-merit-things(atha pradūṣita pāte pūrite puṇyavastubhiḥ)
+[pada](atha) [pada](pradūṣita) [pada](pāte) [pada](pūrite) [pada](puṇyavastubhiḥ)
 
 ## mukta-m0-p40-v994
-ānandanātha's-mantra-twenty-eight-times(ānaṃdanāthasya manuṃcāṣṭāviṃśativārakam)
+[pada](ānaṃdanāthasya) [pada](manuṃcāṣṭāviṃśativārakam)
 
 ## mukta-m0-p40-v995
-right-hand-cup-holding-wise(dakṣahastasya culuke dhārayitvā vicakṣaṇaḥ)
+[pada](dakṣahastasya) [pada](culuke) [pada](dhārayitvā) [pada](vicakṣaṇaḥ)
 
 ## mukta-m0-p40-v996
-with-purity-both-ends-drop-verses-scattering(saśuddhibhyāṃtayorbiṃduṃ kārikāḥ prapaṭhan kiret)
+[pada](saśuddhibhyāṃtayorbiṃduṃ) [pada](kārikāḥ) [pada](prapaṭhan) [pada](kiret)
 
 ## mukta-m0-p40-v997
-with-these-bliss-sacrifice-end-white-red-drops(etairānaṃdayāgāṃta śuklaśoṇitabiṃdubhiḥ)
+[pada](etairānaṃdayāgāṃta) [pada](śuklaśoṇitabiṃdubhiḥ)
 
 ## mukta-m0-p40-v998
-with-these-bliss-sacrifice-end-white-red-drops(etairānaṃdayāgāṃta śuklaśoṇitabiṃdubhiḥ)
+[pada](etairānaṃdayāgāṃta) [pada](śuklaśoṇitabiṃdubhiḥ)
 
 ## mukta-m0-p40-v999
-with-these-bliss-sacrifice-end-white-red-drops(etairānaṃdayāgāṃta śuklaśoṇitabiṃdubhiḥ)
+[pada](etairānaṃdayāgāṃta) [pada](śuklaśoṇitabiṃdubhiḥ)
 
 ## mukta-m0-p40-v1000
-with-these-bliss-sacrifice-end-white-red-drops(etairānaṃdayāgāṃta śuklaśoṇitabiṃdubhiḥ)
+[pada](etairānaṃdayāgāṃta) [pada](śuklaśoṇitabiṃdubhiḥ)

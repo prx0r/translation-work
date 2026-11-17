@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p56-v1376
-[human-goal](puruṣārthaḥ) [but](tu) [chief](mukhyaḥ) [which](yo) [great-sacrifice](mahāyāga) [accomplisher](upapādakaḥ)
+[man-goal-is-indeed](puruṣārthastu) [chief-who](mukhyoyo) [great-sacrifice-causer](mahāyāgopapādakaḥ)
 
 ## mukta-m0-p56-v1377
-[bliss-yoga](ānandayogaḥ) [indeed](hi) [supreme](paramaḥ) [that](tat) [fulfiller](pratisādhakaḥ)
+[bliss-yoga](ānaṃdayogo) [indeed-supreme](hi) [that-accomplisher](paramatastat) [that-accomplisher](pratisādhakaḥ)
 
 ## mukta-m0-p56-v1378
-[dharma](dharmaḥ) [indeed](khalu) [great-sacrifice](mahāyāgaḥ) [seen-unseen](dṛṣṭādṛṣṭa) [fruit-giving](phalapradaḥ)
+[duty-indeed](dharmaḥ) [great-sacrifice](khalu) [great-sacrifice](mahāyāgo) [seen-unseen-result-giver](dṛṣṭādṛṣṭa) [fruit-giver](phalapradaḥ)
 
 ## mukta-m0-p56-v1379
-[that](saḥ) [indeed](eva) [mākṣa](mākṣaḥ) [also](api) [in-śiva](śive) [supreme-bliss-filled](parānandamaya) [lord](patiḥ)
+[that-indeed](sa) [eva](eva) [mākṣa](mākṣopi) [śiva](śive) [supreme-bliss-filled-lord](parānaṃdamayatpataḥ)
 
 ## mukta-m0-p56-v1380
-[dharma-formed](dharmarūpī) [desire-formed](kāmarūpī) [liberation-formed](mokṣarūpī) [also](ca) [person](pūruṣaḥ)
+[duty-formed](dharmarūpī) [desire-formed](kāmarūpī) [liberation-formed](mokṣarūpī) [and](ca) [person](pūruṣaḥ)
 
 ## mukta-m0-p56-v1381
-[wealth](dhanaṃ) [indeed](khalu) [of-great-īśa](maheśasya) [worship](pūjā) [first-means](prathamasaṃdhānam)
+[wealth-indeed](dhanaṃkhalu) [great-lord's](maheśasya) [worship-first-means](pūjāprathamasādhanam)
 
 ## mukta-m0-p56-v1382
-[not](na) [extremely](atyantaṃ) [fragrant](saurabhaṃ) [thing](vastu) [not](na) [or](vā) [finer](sūkṣmataraḥ) [cloth](paṭaḥ)
+[not-at-all](nātyaṃta) [fragrant](saurabhaṃ) [thing](vastu) [not-or](na) [vā](vā) [subtler](sūkṣmataraḥ) [cloth](paṭaḥ)
 
 ## mukta-m0-p56-v1383
-[not](na) [fruits](phalāni) [also](ca) [heart-pleasing](hṛdyāni) [not](na) [ripe](pakvāni) [fruits](phalāni) [also](ca)
+[not](na) [fruits](phalāni) [and](ca) [heart-pleasing](hṛdyāni) [not](na) [ripe](pakvāni) [fruits](phalāni) [and](ca)
 
 ## mukta-m0-p56-v1384
-[wealth](dhanaṃ) [without](vinā) [not](na) [succeed](sidhyanti) [human-goal](puruṣārthaḥ) [that](saḥ) [declared](īritaḥ)
+[wealth-without](dhanaṃ) [vinā](vinā) [not-succeed](na) [sidhyaṃti](sidhyaṃti) [man-goal](puruṣārthaḥ) [that-declared](sa) [īritaḥ](īritaḥ)
 
 ## mukta-m0-p56-v1385
-[that](saḥ) [but](tu) [scriptures](śāstrāṇi) [all](sarvāṇi) [useless](nirarthāni) [also](api) [not](na) [abandon](tyajat)
+[that](sa) [tu](tu) [scriptures](śāstrāṇi) [all](sarvāṇi) [useless](nirarthānyapi) [not-abandon](nātyajat)
 
 ## mukta-m0-p56-v1386
-[logic-etc-scriptures](tarkādiśāstra) [practice](abhyāsa) [wealth-giving](dhanadāya) [charity](dānatām)
+[logic-etc-scripture-practice](tarkādiśāstrābhyāsasya) [wealth-giving-charity-state](dhanadāyānidānatām)
 
 ## mukta-m0-p56-v1387
-[not](na) [other-birth](anyajāti) [enjoying](juṣaḥ) [creature](jaṃtu) [obtainable](sulabhatvataḥ) [food](āhārya)
+[not-other-birth](nānyajāti) [enjoyer-creature](juṣojaṃtorāhārya) [easy-obtainability](sulabhatvataḥ)
 
 ## mukta-m0-p56-v1388
-[human-birth](narajātiḥ) [this](iyam) [by-these](etaiḥ) [refined](saṃskṛtaiḥ) [self-nourishing](ātmapoṣiṇī)
+[human-birth](narajātiriyantvetaiḥ) [refined](saṃskṛtairātmapoṣiṇī)
 
 ## mukta-m0-p56-v1389
-[difficult](duṣkaraṃ) [also](ca) [api](api) [some](kaṃcit) [effort](udyat) [mutual](paraspara) [search](gaveṣaṇam)
+[difficult](duṣkaraṃ) [and](cāpi) [some](kaṃcodyat) [mutual](paraspara) [search](gaveṣaṇam)
 
 ## mukta-m0-p56-v1390
-[very-painful](atikaṣṭhataraṃ) [goddess](devi) [much-sorrow](bahuduḥkha) [single-vessel](ekabhājanam)
+[very-painful](atikaṣṭhataraṃ) [goddess](devi) [much-sorrow-single-vessel](bahuduḥkhaikabhājanam)
 
 ## mukta-m0-p56-v1391
-[of-heroes](vīrāṇāṃ) [self-worship](svātmapūjā) [purpose](artha) [wealth-acquisition](dhanasaṃpādanāya) [and](ca)
+[heroes'](vīrāṇāṃ) [self-worship-purpose](svātmapūjārtha) [wealth-acquisition](dhanasaṃpādanāya) [and](ca)
 
 ## mukta-m0-p56-v1392
-[then](tadā) [also](api) [these](amī) [mountain-daughter](girisute) [others-delusion](paravyāmoha) [cause](hetave)
+[then-also](tadāpyamīgirisute) [others-delusion-cause](paravyāmoha) [hetave](hetave)
 
 ## mukta-m0-p56-v1393
-[I](ahaṃ) [veda-meaning](vedārtha) [truth-knower](tatvajñaḥ) [sacrifice-knowledge](yajñavidyā) [capable](akṣamaḥ) [am-I](asmi) [I](aham)
+[i](ahaṃ) [veda-meaning-knower](vedārtha) [truth-knower](tatvajño) [sacrifice-knowledge-axle-capable](yajñavidyākṣamosmyaham)
 
 ## mukta-m0-p56-v1394
-[six-limbs-veda-truth-knower](ṣaḍaṅgavedatatvajñaḥ) [I](tvam) [indeed](eva) [on-earth](mahītale)
+[six-limbed-veda-truth-knower](ṣaḍaṅgavedatatvajña) [i-indeed-on-earth](stvahameva) [mahītale](mahītale)
 
 ## mukta-m0-p56-v1395
-[up-to-brahma-pure](ābrahmaśuddha) [darling](dāraḥ) [I](aham) [I](aham) [am](asmi) [indeed](hi) [tuṇḍika](tuṇḍikaḥ)
+[brahma-pure-staff-holder](ābrahmaśuddhadāro'hamahamasmyā) [tuṇḍika](hi) [tuṇḍikaḥ](tuṇḍikaḥ)
 
 ## mukta-m0-p56-v1396
-[I](aham) [not](na) [rasa-knower](ādyarasajñaḥ) [in-poetry](kāvyālāpeṣu) [I](aham) [skilled](paṭuḥ)
+[i](ahṃ) [not-taste-knower](nādyarasajñosmi) [poetry-talks-in](kāvyālāpeṣvahaṃ) [skilled](paṭuḥ)
 
 ## mukta-m0-p56-v1397
-[thus](iti) [pride-exalted](garvoddhata) [words](vākyaiḥ) [true-false](satyāsatya) [mixed](vimiśritaiḥ)
+[thus](iti) [pride-exalted](garvoddhatairvākyaiḥ) [true-false](satyāsatya) [mixed](vimiśritaiḥ)
 
 ## mukta-m0-p56-v1398
-[wealthy](dhaninaḥ) [delusion-pride-blind](mohadarpāṃdhāḥ) [worship](arcayante) [with-wealth](vasubhiḥ) [four](cataiḥ)
+[wealthy-delusion-pride-blind](dhaninomohadarpāṃdhā) [worship](arcayaṃte) [wealths](vasubhiścataiḥ)
 
 ## mukta-m0-p56-v1399
-[merely](kevalaṃ) [eating](jagdhi) [ocean-purpose](abdhyarthe) [fools](mūrkhāḥ) [accumulate](samadhicinvate)
+[merely](kevalaṃ) [eating-purpose](jagdhiyabdhyarthe) [fools](mūrkhāḥ) [collect](samadhicinvate)
 
 ## mukta-m0-p56-v1400
-[they](te) [but](tu) [that](tat) [scripture-devoted](tacchāstraniṣṭhāḥ) [for-worship](pūjanārthaṃ) [wealth-acquiring](dhanārjakāḥ)
+[they](te) [tu](tu) [that-scripture-devoted](tat) [tat](tacchāstraniṣṭhāḥ) [worship-purpose](pūjanārthaṃ) [wealth-acquirers](dhanārjakāḥ)
