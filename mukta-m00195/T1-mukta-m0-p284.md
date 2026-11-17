@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p284-v7076
-[should-be-done](kartavyāḥ) [ritual-applications](prayogāḥ) [by-practitioners](sādhakaiḥ) [here](iha)
+[to-be-done](kartavyāḥ) [practices](prayogāḥ) [by-adepts](sādhakaiḥ) [here](iha)
 
 ## mukta-m0-p284-v7077
 [gaṃ](gaṃ) [hrīṃ](hrīṃ) [and](ca) [bring-under-control](vaśamānaya) [svāhā](svāhā) [bhavāṇarkaḥ](bhavāṇarkaḥ)
 
 ## mukta-m0-p284-v7078
-[with-excellent](vara) [sugarcanes](ikṣūn) [with-hands](hasta) [lotuses](paṃkajaiḥ)
+[excellent-sugarcane](varekṣūn) [by-lotus-hands](hastapaṃkajaiḥ)
 
 ## mukta-m0-p284-v7079
-[by-dark-limbed-one](śyāmalāṅgyā) [with-liṅga](liṅga) [and-lotus](padma) [in-hands](hastayā) [one-should-visualize](bhāvayet) [in-heart](hṛdi)
+[dark-limbed](śyāmalāṅgyā) [with-linga-lotus-hand](liṅgapadmahastayā) [meditate-in-heart](bhāvayeddhṛdi)
 
 ## mukta-m0-p284-v7080
-[one-should-offer-oblations](juhuyāt) [libation](tarpaṇa) [and-so-forth](ādi) [then](tataḥ) [one-should-perform](caret)
+[offer](juhuyāt) [tarpaṇa-etc](tarpaṇādi) [then-practice](tataścaret)
 
 ## mukta-m0-p284-v7081
-[desire-oriented](kāmya) [applications](prayogāḥ) [but](tu) [taught-in-that-ritual](tat+kalpa+uktān) [one-should-accomplish](prasādhayet)
+[desire-rites](kāmyaprayogāḥ) [tu](tu) [those-stated-in-that-kalpa](tatkalpoktān) [accomplish](prasādhayet)
 
 ## mukta-m0-p284-v7082
-[gaṇeśa](gaṇeśaḥ) [not](na) [śakti](śaktiḥ) [and-also](ca+api) [not](na) [him](taṃ) [without](vinā)
+[gaṇeśa](gaṇeśaḥ) [not](na) [śakti](śaktiḥ) [ca-api](cāpi) [not](na) [without-him](taṃ vinā)
 
 ## mukta-m0-p284-v7083
-[I-shall-declare](pravakṣyāmi) [śakti](śaktiṃ) [śrī-bhuvaneśvarī](śrī+bhuvaneśvarīm)
+[I-will-declare](pravakṣyāmi) [śakti](śaktiṃ) [śrī-bhuvaneśvarī](śrībhuvaneśvarīm)
 
 ## mukta-m0-p284-v7084
-[śakti](śaktiḥ) [vasiṣṭha](vaśiṣṭhaḥ) [and](ca) [sūta](sūtaḥ) [of-this](asya) [metre](chandaḥ) [is-declared](kathyate)
+[śakti](śaktiḥ) [vaśiṣṭha](vaśiṣṭhaḥ) [ca](ca) [sūta](sūtaḥ) [of-meter](chandasaḥ) [is-said](kathyate)
 
 ## mukta-m0-p284-v7085
-[should-be](bhavet) [seed-syllable](bījam) [īkāra](īkāraḥ) [śakti](śaktiḥ) [is-called](ucyate)
+[becomes-seed](bhavedbījam) [ī-kāra](īkāraḥ) [śakti](śaktiḥ) [is-called](ucyate)
 
 ## mukta-m0-p284-v7086
-[with-seed](bījena) [joined-with-six-long-vowels](ṣaḍ+dīrgha+yukta) [six-limbs](ṣaḍ+aṃgāni) [one-should-perform](samācaret)
+[by-seed-joined-with-six-long](ṣaḍdīrghayuktabījena) [six-limbs](ṣaḍaṃgāni) [perform](samācaret)
 
 ## mukta-m0-p284-v7087
-[for-placing-the-goddess](devī+eka+tā+pādanāya) [mantra-placement](mantra+nyāsaḥ) [now](atha) [will-be-told](vakṣyate)
+[for-establishing-unity-of-goddess](devyekatāpādanāya) [mantra-nyāsa](mantranyāsaḥ) [atha](atha) [will-be-declared](vakṣyate)
 
 ## mukta-m0-p284-v7088
-[in-heart](hṛdaye) [to-be-placed](sthāpyā) [in-anus](gude) [hrīṃ](hrīṃ) [and](ca) [karālikā](karālikā)
+[in-heart](hṛdaye) [to-be-placed](sthāpyā) [in-anus](gude) [hrīṃ](hrīṃ) [ca](ca) [karālikā](karālikā)
 
 ## mukta-m0-p284-v7089
-[in-upper](ūrdhva) [northern](udak) [southern](yāmya) [eastern](pūrva) [directions](āśā) [in-each-location](pratyeka+stheṣu) [and](ca) [in-order](kramāt)
+[upward-northeast-southwest-northwest-directions](ūrdhvodagyāmyapūrvāśā) [in-each-place](pratyekastheṣu) [ca](ca) [in-order](kramāt)
 
 ## mukta-m0-p284-v7090
-[on-right-breast](dakṣa+kuce) [brahmāṇī](brahmāṇīṃ) [on-left-shoulder](vāma+geṃsake)
+[right-breast](dakṣakuce) [brahmāṇī](brahmāṇīm) [left-shoulder](vāmageṃsake)
 
 ## mukta-m0-p284-v7091
-[one-should-place](vinyaset) [on-forehead](bhāle) [with-gāyatrī](gāyatryā) [together](sahitaṃ) [the-wise-one](sudhīḥ)
+[place](vinyaset) [on-forehead](bhāle) [with-gāyatrī](gāyatryā sahitam) [wise-one](sudhīḥ)
 
 ## mukta-m0-p284-v7092
-[on-left-cheek](vāma+gaṇḍe) [and](ca) [with-vāgīśvarī](vāgīśvaryā) [joined](yutaṃ) [one-should-place](nyaset)
+[left-cheek](vāmagaṇḍe) [ca](ca) [with-vāgīśvarī](vāgīśvaryā yutam) [place](nyaset)
 
 ## mukta-m0-p284-v7093
-[on-left](vāme) [dhanapati](dhanapatiṃ) [joined](yuktaṃ) [with-śrī](śriyā) [at-tip-of-ear](śrotra+agrake) [one-should-place](nyaset)
+[left](vāme) [dhanapati](dhanapatiṃ) [joined](yuktam) [with-śrī](śriyā) [at-ear-tip](śrotrāgrake) [place](nyaset)
 
 ## mukta-m0-p284-v7094
-[at-tip-of-right-ear](dakṣa+śrotra+agrake) [the-practitioner](mantrī) [the-two-nidhis](nidhī) [joined-with-śakti](śakti+yutau) [one-should-place](nyaset)
+[right-ear-tip](dakṣaśrotrāgrake) [mantrin](mantrī) [nidhis](nidhī) [joined-with-śakti](śaktiyutau) [place](nyaset)
 
 ## mukta-m0-p284-v7095
-[on-left-shoulder](vāma+aṃse) [on-right-side-of-heart](hṛdi+dakṣiṇe)
+[left-shoulder](vāmāṃse) [heart-right](hṛdidakṣiṇe)
 
 ## mukta-m0-p284-v7096
-[one-should-place](nyaset) [the-eight-mothers](mātṛḥ+aṣṭa) [on-forehead](bhāle) [and](ca) [on-shoulder](aṃse) [on-side](pārśve) [and](tathā) [on-belly](udare)
+[place](nyasyet) [eight-mothers](mātṛraṣṭa) [on-forehead](bhāle) [and-shoulder](cāṃse) [side](pārśve) [and-belly](tathodare)
 
 ## mukta-m0-p284-v7097
-[one-should-pervade](vyāpayet) [with-root-mantra](mūla+mantreṇa) [body](tanuṃ) [the-goddess](devīṃ) [then](tataḥ) [one-should-meditate](smaret)
+[pervade](vyāpayet) [with-root-mantra](mūlamantreṇa) [body](tanuṃ) [goddess](devīṃ) [then-remember](tataḥ smaret)
 
 ## mukta-m0-p284-v7098
-[with-gentle-smile](manda+smita) [shining-face](lasat+mukhīm)
+[with-gentle-smiling-face](mandasmitalasanmukhīm)
 
 ## mukta-m0-p284-v7099
-[six-cornered-figure](ṣaṭ+koṇaṃ) [outside-that](tat+bāhye) [eight-petalled-lotus](aṣṭa+dala+ambujam)
+[six-cornered](ṣaṭkoṇam) [outside-it-eight-petal-lotus](tadbāhyeṣṭadalāmbujam)
 
 ## mukta-m0-p284-v7100
-[endowed-with-four-gates](catur+dvāra+samopetaṃ) [diagram](maṇḍalaṃ) [declared](proktam) [supreme](uttamam)
+[with-four-gates](caturdvārasamopetam) [maṇḍala](maṇḍalaṃ) [declared](proktam) [excellent](uttamam)

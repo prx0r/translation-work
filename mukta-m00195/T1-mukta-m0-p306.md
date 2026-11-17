@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p306-v7626
-[worship-etc](pūjādikaṃ) [all](sarvaṃ) [as-tripurā](tripurāvat) [proclaimed](prakīrtitam)
+[worship-etc](pūjādikaṃ) [all](sarvaṃ) [tripura-like-declared](tripurāvatprakīrtitam)
 
 ## mukta-m0-p306-v7627
-[should-be](syāt) [so-much](tāvat) [mantra](mantrañ) [should-mutter](japet) [in-water](jale)
+[thus](syāt) [then](tāvat) [mantra](mantraṃ) [japa](japej) [in-water](jale)
 
 ## mukta-m0-p306-v7628
-[full-moon](pūrṇacandra) [splendor](prabhā) [shining](bhāntam) [that](amām) [full](pūrṇāṃ) [makes](karoti) [and](ca)
+[full-moon-radiance](pūrṇacandraprabhā) [bright](bhantam) [full](pūrṇāṃ) [makes](karoti) [and](ca)
 
 ## mukta-m0-p306-v7629
-[saffron](kāśmīra) [beautiful](cāru) [ear-ornaments](tāṭaṅkāṃ) [I-meditate](dhyāyāmi) [Śiva’s-beloved](śivavallabhām)
+[saffron-beautiful-earring](kāśmīracārutāṭaṅkāṃ) [meditate](dhyāyāmi) [shiva-beloved](śivavallabhām)
 
 ## mukta-m0-p306-v7630
-[yoginī](yoginī) [indeed](tu) [son](putra) [wife](dāra) [form](rūpa) [bearing](dhāriṇī)
+[yogini](yoginī) [but](tu) [son-wife-form-bearing](putradārūpadhāriṇī)
 
 ## mukta-m0-p306-v7631
-[declared](samākhyātā) [her](tasyāḥ) [practice](sādhanam) [is-stated](ucyate)
+[well-known](samākhyātā) [her](tasyāḥ) [sadhana](sādhanam) [is-said](ucyate)
 
 ## mukta-m0-p306-v7632
-[paṅkti](paṃktiḥ) [meter](chandas) [of-this](asya) [deity](devatā)
+[line](paṃktiḥ) [meter](chandaḥ) [of-it](asya) [deity](devatā)
 
 ## mukta-m0-p306-v7633
-[all](sarve) [to-be-done](kartavyāḥ) [for-attaining-that-fruit](tatphalāptaye)
+[all](sarve) [to-be-done](kartavyāḥ) [that-fruit-attainment](tatphalāptaye)
 
 ## mukta-m0-p306-v7634
-[of-whom](yasyā) [thus](iti) [analysis](vigrahaḥ)
+[whose](yasyāḥ) [thus](iti) [analysis](vigrahaḥ)
 
 ## mukta-m0-p306-v7635
-[of-tripura-bhairavī](tripurabhairavyāḥ) [of-three-syllabled](tryakṣarāyāḥ) [and](ca) [equal-to-that](tatsamam)
+[tripura-bhairavi](tripurabhairavyāḥ) [three-syllable](tryakṣarāyāḥ) [and](ca) [same-as-that](tatsamam)
 
 ## mukta-m0-p306-v7636
-[eternal](nitya) [desired](kāmya) [for-accomplishment](siddhyartham) [is-stated](ucyate)
+[daily](nitya) [desired-accomplishment](kāmyasiddhi) [purpose](artham) [is-said](ucyate)
 
 ## mukta-m0-p306-v7637
-[of-the-deluded](mūḍhasya) [stone](śilā) [formed](rūpasya) [not](na) [otherwise](anyathā)
+[of-fool](mūḍhasya) [stone-form](śilārūpasya) [not-otherwise](nānyathā)
 
 ## mukta-m0-p306-v7638
-[from-oblation](havanāt) [may-delude](mohayet) [practitioner](mantrī) [three-world](lokatraya) [inhabitants](nivāsinaḥ)
+[by-offering](havanāt) [delude](mohayet) [mantrin](mantrī) [three-worlds-dwellers](lokatrayanivāsinaḥ)
 
 ## mukta-m0-p306-v7639
-[prosperity](śriyam) [may-obtain](āpnuyāt)
+[wealth](śriyam) [obtain](āpnuyāt)
 
 ## mukta-m0-p306-v7640
-[of-kings](rāja) [nāgas](nāga) [indra](indra) [gods](devānāṃ) [wives](purandhrīḥ) [may-bring-under-control](vaśamānayet)
+[king-serpent-god](rājanāgendradevānāṃ) [wives](purandhrīḥ) [subjection](vaśam) [bring](ānayet)
 
 ## mukta-m0-p306-v7641
-[with-sacrificial-sticks](samidbhiḥ) [is-produced](jāyate) [milk](kṣīraṃ) [with-honey](madhunā) [death-destruction](mṛtyunāśanam)
+[by-samidhs](samidbhiḥ) [arises](jāyate) [milk](kṣīraṃ) [by-honey](madhunā) [death-destruction](mṛtyunāśanam)
 
 ## mukta-m0-p306-v7642
-[from-kahlāra-oblation](kahlārahavanāt) [fortune](bhāgyaṃ) [three-sweets](madhuratraya) [blood](rakta) [joined](yuk)
+[by-kahlara-offering](kahlārahavanāt) [fortune](bhāgyaṃ) [sweet-three-red-combined](madhuratrayaraktayuk)
 
 ## mukta-m0-p306-v7643
-[offered](hutaṃ) [that](tat) [of-premature-death](alpamṛtyoḥ) [and](ca) [of-diseases](rogāṇāṃ) [also](ca) [destruction](nāśanam)
+[offered](hutaṃ) [that](tad) [little-death](alpamṛtyoḥ) [and](ca) [diseases](rogāṇāṃ) [also](cāpi) [destruction](nāśanam)
 
 ## mukta-m0-p306-v7644
-[with-red-lotuses](raktotpalaiḥ) [world-subjugation](jagadvaśyaṃ) [prosperity](lakṣmīḥ) [fortune](bhāgyaṃ) [with-white-lotuses](sitotpalaiḥ)
+[by-red-lotuses](raktotpalaiḥ) [world-subjection](jagadvaśyaṃ) [lakshmi](lakṣmīḥ) [fortune](bhāgyaṃ) [by-white-lotuses](sitotpalaiḥ)
 
 ## mukta-m0-p306-v7645
 [doubt](saṃśayaḥ)
 
 ## mukta-m0-p306-v7646
-[lac](lākṣā) [siddhayaṣṭī](siddhayaṣṭī) [plantain](kadalī) [fruit](phala) [from-oblation](homataḥ)
+[by-lac-siddhi-stick-banana-fruit-offering](lākṣāsiddhayaṣṭīkadalīphalahomataḥ)
 
 ## mukta-m0-p306-v7647
-[lakh](lakṣaṃ) [if](cet) [offered](hutā) [fire](agniḥ) [like-a-king](nṛpavat) [may-become](bhavet)
+[lakh](lakṣaṃ) [if](ced) [offered-fire](dhutogniḥ) [king-like](nṛpavad) [becomes](bhavet)
 
 ## mukta-m0-p306-v7648
-[with-fruits](phalaiḥ) [from-lakh-oblations](lakṣahomāt) [controllable](vaśyāḥ) [hundred](śataṃ) [kings](nṛpāḥ)
+[by-fruits](phalaiḥ) [lakh-offering](lakṣahomāt) [subdued](vaśyāḥ) [hundred](śataṃ) [kings](nṛpāḥ)
 
 ## mukta-m0-p306-v7649
-[with-sesame-and-ghee](tilājyābhyāṃ) [with-sandalwood](candanena) [indeed](tu) [enemies](śatravaḥ)
+[by-sesame-ghee](tilājyābhyāṃ) [by-sandal](candanena) [but](tu) [enemies](śatravaḥ)
 
 ## mukta-m0-p306-v7650
-[indeed](tu) [by-oblation](homena) [speech-subjugation](vāgvaśyaṃ) [arises](jāyate) [of-men](nṛṇām)
+[by-offering](tu homena) [speech-subjection](vāgvaśyaṃ) [arises](jāyate) [of-men](nṛṇām)

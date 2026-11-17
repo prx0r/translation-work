@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p332-v8276
-[head+beginning](mūrdhā+ādi) [throat+up-to](kaṇṭha+paryyantaṃ) [mantra+syllables](mantra+arṇān) [should-place](vinyaset) [wise-one](sudhīḥ)
+[head+throat+limit](mūrdhādikaṇṭhaparyyantaṃ) [mantra-syllables](mantrārṇān) [should-place](vinyaset) [wise-one](sudhīḥ)
 
 ## mukta-m0-p332-v8277
-[seated](sthitaḥ) [on-lotus](padme) [red-hued](aruṇe) [three-eyed](tryakṣaḥ) [red-color+well-adorned](aruṇa+varṇa+subhūṣaṇaḥ)
+[standing](sthitaḥ) [lotus-red](padmeruṇe) [three-eyed+red-color+ornamented](tryakṣoruṇavarṇasubhūṣaṇaḥ)
 
 ## mukta-m0-p332-v8278
-[previously+mentioned](pūrva+udite) [should-worship](yajet) [on-seat](pīṭhe) [nine+powers+endowed-with](nava+śakti+samanvite)
+[previously-spoken](pūrvodite) [should-worship](yajet) [seat](pīṭhe) [nine-shakti-endowed](navaśaktisamanvite)
 
 ## mukta-m0-p332-v8279
-[with-guardians-of-directions](dikpālaiḥ) [and](ca) [third](tṛtīyaṃ) [should-be](syāt) [fourth](caturtham) [but](tu) [with-their-weapons](tat+āyudhaiḥ)
+[dikpalas+and](dikpālaiśca) [third](tṛtīyaṃ) [should-be](syāt) [fourth+but](caturthantu) [their+weapons](tadāyudhaiḥ)
 
 ## mukta-m0-p332-v8280
-[ghee+smeared](ghṛta+āktaiḥ) [honey+smeared](madhura+āktaiḥ) [and](ca) [barley+foods](yava+annaiḥ) [and](ca) [indeed](eva) [such](tādṛśaiḥ)
+[ghee-anointed+sweet-anointed+and](ghṛtāktamadhurāktaiśca) [barley-foods+and+indeed](yavānnaiścaiva) [such](tādṛśaiḥ)
 
 ## mukta-m0-p332-v8281
-[should-give](dadyāt) [previously+mentioned](pūrva+uditaṃ) [and](ca) [offering](arghyaṃ) [to-sun-god](dineśāya) [good-practitioner](su+sādhakaḥ)
+[should-give](dadyāt) [previously-spoken](pūrvoditaṃ) [arghya](cārghyaṃ) [sun](dineśāya) [good-sadhaka](susādhakaḥ)
 
 ## mukta-m0-p332-v8282
-[makes](karoti) [jewel+garment+etc.](ratna+vastra+ādi) [ornaments](bhūṣaṇāni) [should-increase](vivardhayet)
+[does](karoti) [jewel-cloth-etc-ornaments](ratnavastrādibhūṣaṇāni) [should-increase](vivardhayet)
 
 ## mukta-m0-p332-v8283
-[petal+middle](patra+madhye) [in-pericarp](karṇikāyāṃ) [them](tān) [and](ca) [with-water](toyena) [should-fill](pūrayet)
+[leaf-middle](patramadhye) [pericarp](karṇikāyāṃ) [them+and](tāṃśca) [water](toyena) [should-fill](pūrayet)
 
 ## mukta-m0-p332-v8284
-[having-muttered](prajapya) [in-others](anyeṣu) [his-mantras](tat+mantrān) [hundred+times](śata+kṛtvaḥ) [should-mutter](japet) [wise-one](sudhīḥ)
+[prajapya+others](prajapyānyeṣu) [those-mantras](tanmantrān) [hundred-times](śatakṛtvo) [should-chant](japet) [wise](sudhīḥ)
 
 ## mukta-m0-p332-v8285
-[is-liberated](mucyate) [not](na) [here](atra) [doubt](sandehaḥ) [practitioner](sādhakaḥ) [from-planet+fault](graha+doṣataḥ)
+[is-freed](mucyate) [not+here](nātra) [doubt](sandehaḥ) [sadhaka](sādhako) [planet-defect](grahadoṣataḥ)
 
 ## mukta-m0-p332-v8286
-[planet+oblation](graha+homaḥ) [to-be-performed](prakarttavyaḥ) [of-planets](grahāṇāṃ) [indeed](vai) [for-sake](kṛte) [likewise](tathā)
+[planet-homa](grahahomaḥ) [should-be-done](prakarttavyo) [planets+gen](grahāṇāṃ) [indeed](vai) [for](kṛte) [thus](tathā)
 
 ## mukta-m0-p332-v8287
-[in-conflict+etc.](vigraha+ādau) [in-fear](bhaye) [and](ca) [also](api) [terrible+form](ghora+rūpe) [great+disease](mahā+gade)
+[beginning-of-image](vigrahādau) [fear](bhaye) [and+also](cāpi) [terrible-form](ghorarūpe) [great-disease](mahāgade)
 
 ## mukta-m0-p332-v8288
-[in-own-directions](sva+dikṣu) [and](ca) [fires](agnīn) [having-established](saṃsthāpya) [should-offer](juhuyāt) [and](ca) [with-fuel+best](samid+varaiḥ)
+[own-directions](svadikṣu) [and](cā) [fires](agnīn) [having-established](saṃsthāpya) [should-offer](juhuyāt) [and](ca) [kindling-best](samidvaraiḥ)
 
 ## mukta-m0-p332-v8289
-[śamī+grass](śamī+dūrvā) [kuśa+born-from](kuśa+udbhūtaiḥ) [in-order](kramāt) [oblation](homaḥ) [is-declared](samīritaḥ)
+[shami-durva-kusha-born](śamīdūrvākuśodbhūtaiḥ) [in-order](kramāt) [homa](homaḥ) [is-said](samīritaḥ)
 
 ## mukta-m0-p332-v8290
-[at-end](ante) [and](ca) [with-other+vyāhṛtis](anya+vyāhṛtibhiḥ) [having-offered](hutvā) [oblation](homaṃ) [should-complete](samāpayet)
+[at-end](ante) [and](ca) [other-vyahritis](anyavyāhṛtibhiḥ) [having-offered](hutvā) [homa](homaṃ) [should-complete](samāpayet)
 
 ## mukta-m0-p332-v8291
-[should-give](dadyāt) [and](ca) [should-feed](bhojayet) [brahmins](viprān) [in-battle](saṃgrāme) [victorious](vijayī) [should-become](bhavet)
+[should-give+and](dadyācca) [should-feed](bhojayet) [brahmins](viprān) [in-battle](saṃgrāme) [victorious](vijayī) [should-become](bhavet)
 
 ## mukta-m0-p332-v8292
-[of-sorcery+harm-doers](kṛtyā+drohārikāṇām) [and](ca) [pacification](śāntiḥ) [indeed](eva) [quickly](āśu) [arises](jāyate)
+[witchcraft-hostility-etc+and](kṛtyādrohārikāṇāñca) [peace+indeed+quickly](śāntirevāśu) [arises](jāyate)
 
 ## mukta-m0-p332-v8293
-[now](atha) [another](anyat) [I-shall-declare](sampravakṣyāmi) [battle+victory+named](saṃgrāma+vijaya+abhidham)
+[then+other](athānyat) [I-will-declare](sampravakṣyāmi) [battle-victory-named](saṃgrāmavijayābhidham)
 
 ## mukta-m0-p332-v8294
-[all](sarvaṃ) [worship+etc.](pūjā+ādikam) [and](ca) [of-this](asya) [welfare+producing+mantra+like](śreyaḥ+janaka+mantra+vat)
+[all](sarvaṃ) [worship-etc+and](pūjādikañca) [its](asya) [auspicious-result-mantra-like](śreyojanakamantravat)
 
 ## mukta-m0-p332-v8295
-[Brahmā](brahmā) [sage](muniḥ) [declared](samuddiṣṭaḥ) [Gāyatrī](gāyatraṃ) [metre](chandaḥ) [is-called](ucyate)
+[Brahma](brahmā) [sage](muniḥ) [declared](samuddiṣṭo) [gayatri](gāyatraṃ) [meter](chanda) [is-called](ucyate)
 
 ## mukta-m0-p332-v8296
-[with-six+long](ṣaṭ+dīrgheṇa) [with-letter-sa](sakāreṇa) [with-haṃ+preceded](haṃ+pūrveṇa) [six+limb](ṣaṭ+aṅgakam)
+[six-long](ṣaḍdīrgheṇa) [with-sa](sakāreṇa) [ham-before](haṃpūrveṇa) [six-limbed](ṣaḍaṅgakam)
 
 ## mukta-m0-p332-v8297
-[with-hands](karaiḥ) [holding](dadhānaṃ) [lotus+seated](padma+sthaṃ) [Hara](haraṃ) [Gaurī+lap+gone](gauryyā+aṅka+gam) [I-worship](bhaje)
+[hands-holding](karairdadhānaṃ) [lotus-seated](padmasthaṃ) [Hara](haraṃ) [Gauri-lap-seated](gauryyaṅkagambhaje)
 
 ## mukta-m0-p332-v8298
-[there](tatra) [deity](devaṃ) [should-worship](yajet) [image](mūrtiṃ) [with-root-mantra](mūlena) [having-conceived](ākalpya) [mantra-knower](mantra+vit)
+[there](tatra) [god](devaṃ) [should-worship](yajet) [image](mūrtiṃ) [root-mantra](mūlena) [having-imagined](ākalpya) [mantra-knower](mantravit)
 
 ## mukta-m0-p332-v8299
-[Ṛtu](ṛtuṃ) [Vasu](vasuṃ) [Nara](naraṃ) [and](ca) [also](api) [Para](paraṃ) [and](ca) [in-intermediate-directions](vidiśāsu) [and](ca)
+[season](ṛtuṃ) [wealth](vasuṃ) [man+and](narañcāpi) [supreme](parañca) [intermediate-directions](vidiśāsu) [and](ca)
 
 ## mukta-m0-p332-v8300
-[then](tataḥ) [world+lords](loka+īśvarān) [and](ca) [also](ca) [in-front-of-that](tat+agre) [and](ca) [weapons](āyudhāni) [also](api)
+[then](tato) [world-lords+and+also](lokeśvarāṃścāpi) [their-front+and](tadagre ca) [weapons+also](āyudhānyapi)

@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p321-v8001
-[venerable](śrī)[mātaṅgī](mātaṅgi) [and](tathā)[goddess](īśvari)
+[śrī+mātaṅgī](śrīmātaṅgi) [tathā+īśvarī](thatheśvari) [devī](śrīmātaṅgi) [īśvarī](thatheśvari)
 
 ## mukta-m0-p321-v8002
-[sage](muniḥ)[of-it](asya)[declared](uktaḥ)[anuṣṭup](anuṣṭup)[meter](chandaḥ)[and](ca) [deity](devatā)
+[muniḥ](munirasyoktonuṣṭupcchandaśca) [asya](munirasyoktonuṣṭupcchandaśca) [uktaḥ](munirasyoktonuṣṭupcchandaśca) [anuṣṭup-chandaḥ](munirasyoktonuṣṭupcchandaśca) [ca](munirasyoktonuṣṭupcchandaśca) [devatā](devatā)
 
 ## mukta-m0-p321-v8003
-[with-six](ṣaḍ)[and-eight](aṣṭa)[arms](bāhubhiḥ)[and](ca)[thus](iti) [one-should-meditate-on](dhyāyet)[dark-one](śyāmāṃ) [beautiful](su)[eyed](locanām)
+[ṣaḍ-aṣṭa-bāhubhiḥ](ṣaḍaṣṭabāhubhiśceti) [ca](ṣaḍaṣṭabāhubhiśceti) [iti](ṣaḍaṣṭabāhubhiśceti) [dhyāyet](dhyāyecchyāmāṃ) [śyāmām](dhyāyecchyāmāṃ) [su-locanām](sulocanām)
 
 ## mukta-m0-p321-v8004
-[playing](vādayantīṃ) [that](tāṃ) [mātaṅgī](mātaṅgīṃ) [in-heart](hṛdi) [one-should-contemplate](bhāvayet)
+[vādayantīm](vādayantīṃ) [tām](tāṃ) [mātaṅgīm](mātaṅgīṃ) [hṛdi](hṛdi) [bhāvayet](bhāvayet)
 
 ## mukta-m0-p321-v8005
-[one-should-worship](yajet)[on-pedestal](pīṭhe) [according-to-method](vidhānataḥ)[to-be-stated](vakṣyamāṇa)
+[yajet](yajetpīṭhe) [pīṭhe](yajetpīṭhe) [vakṣyamāṇa-vidhānataḥ](vakṣyamāṇavidhānataḥ)
 
 ## mukta-m0-p321-v8006
-[one-should-worship](yajet)[in-that](tasmin)[pedestal](pīṭha)[powers](śaktīḥ)[nine](nava)[desired](iṣṭa)[giving](dāḥ)
+[yajet](yajettasminpīṭhaśaktīrnaveṣṭadāḥ) [tasmin](yajettasminpīṭhaśaktīrnaveṣṭadāḥ) [pīṭha-śaktīḥ](yajettasminpīṭhaśaktīrnaveṣṭadāḥ) [nava-iṣṭa-dāḥ](yajettasminpīṭhaśaktīrnaveṣṭadāḥ)
 
 ## mukta-m0-p321-v8007
-[tāra](tāra)[māyā](māyā)[vāk](vāk)[rama](rama)[beginning-with](ādyaḥ) [pedestal](pīṭha)[mantra](mantraḥ) [syllable](kalā)[counted](arṇakaḥ)
+[tāra-māyā-vāgra-m-ādyaḥ](tāramāyāvāgramādyaḥ) [pīṭha-mantraḥ](pīṭhamantraḥ) [kalā-arṇakaḥ](kalārṇakaḥ)
 
 ## mukta-m0-p321-v8008
-[pedestal](pīṭha)[worship](pūjā)[at-end](ante) [one-should-perform](kuryāt)[enclosure](āvaraṇa)[worship](arcanam)
+[pīṭha-pūjā-ante](pīṭhapūjānte) [kuryāt](kuryādāvaraṇārcanam) [āvaraṇa-arcanaṃ](kuryādāvaraṇārcanam)
 
 ## mukta-m0-p321-v8009
-[six](ṣaḍ)[limbs](aṃgāni) [mothers](mātṝḥ)[and](ca) [petal](dala)[middle](madhya)[situated](gāḥ)
+[ṣaḍ-aṅgāni](ṣaḍaṃgāni) [mātṝḥ](mātṝśca) [ca](mātṝśca) [dala-madhya-gāḥ](dalamadhyagāḥ)
 
 ## mukta-m0-p321-v8010
-[vāmā](vāmā)[named](ākhyā) [jyeṣṭhā](jyeṣṭhā) [raudrī](raudrī) [praśāntikā](praśāntikā)
+[vāmā-ākhyā](vāmākhyā) [jyeṣṭhā](jyeṣṭhā) [raudrī](raudrī) [praśāntikā](praśāntikā)
 
 ## mukta-m0-p321-v8011
-[sṛṣṭi](sṛṣṭi)[mohinī](mohinyau) [first](prathama)[ācāriṇī](ācāriṇī) [likewise](tathā)
+[sṛṣṭi-mohinyau](sṛṣṭimohinyau) [prathamā-ācāriṇī](prathamācāriṇī) [tathā](tathā)
 
 ## mukta-m0-p321-v8012
-[ṣoḍaśī](ṣoḍaśī) [indeed](tu) [to-be-worshipped](pūjanīyāḥ) [with-effort](prayatnataḥ)
+[ṣoḍaśī](ṣoḍaśī) [tu](tu) [pūjanīyāḥ](pūjanīyāḥ) [prayatnataḥ](prayatnataḥ)
 
 ## mukta-m0-p321-v8013
-[mahā](mahā)[lakṣmī](lakṣmīḥ) [again](punaḥ)[fire](vahni)[etc.](ādi)[from-corners](koṇataḥ)
+[mahā-lakṣmīḥ](mahālakṣmīḥ) [punar](punar) [vahni-ādi-koṇataḥ](vahnyādikoṇataḥ)
 
 ## mukta-m0-p321-v8014
-[all](sarva)[enclosure](āvaraṇa)[powers](śaktīnām) [ṅe](ṅe)[ending](antaṃ) [name](nāma) [hṛd](hṛd)[ending](antakam)
+[sarva-āvaraṇa-śaktīnām](sarvāvaraṇaśaktīnāṃ) [ṅ-entaṃ](ṅentaṃ) [nāma](nāma) [hṛdaṃtakam](hṛdaṃtakam)
 
 ## mukta-m0-p321-v8015
-[to-be-worshipped](pūjanīyāḥ)[they-should-be](syuḥ)[thus](ittham) [success](siddhiḥ)[of-mantra](manoḥ)[would-be](bhavet)
+[pūjanīyāḥ](pūjanīyāssyuritthaṃ) [syuḥ](pūjanīyāssyuritthaṃ) [itthaṃ](pūjanīyāssyuritthaṃ) [siddhiḥ](siddhirmanorbhavet) [manoḥ](siddhirmanorbhavet) [bhavet](siddhirmanorbhavet)
 
 ## mukta-m0-p321-v8016
-[with-fruits](phalaiḥ)[or](vā) [submissive](vaśyā) [would-be](syāt)[people](janatā) [brahma](brahma)[tree](vṛkṣa)[born](jaiḥ)
+[phalaiḥ](phalairvā) [vā](phalairvā) [vaśyā](vaśyā) [syāt](syājjanatā) [janatā](syājjanatā) [brahma-vṛkṣa-jaiḥ](brahmavṛkṣajaiḥ)
 
 ## mukta-m0-p321-v8017
-[with-salts](lavaṇaiḥ)[one-should-know](vidyāt)[with-tagaras](tagaraiḥ)[with-vetasas](vetasaiḥ)[water](jalam)
+[lavaṇaiḥ](lavaṇairvidyāttagarairvetasairjalam) [vidyāt](lavaṇairvidyāttagarairvetasairjalam) [tagaraiḥ](lavaṇairvidyāttagarairvetasairjalam) [vetasaiḥ](lavaṇairvidyāttagarairvetasairjalam) [jalam](lavaṇairvidyāttagarairvetasairjalam)
 
 ## mukta-m0-p321-v8018
-[turmeric](niśā)[powder](cūrṇa)[mixed](yutaiḥ) [with-kāśa-grasses](kāśaiḥ)[from-oblation](homāt)[would-be](syāt)[paralysis](stambhanaṃ) [of-enemies](dviṣām)
+[niśā-cūrṇa-yutaiḥ](niśācūrṇayutaiḥ) [kāśaiḥ](kāśairhomātsyātstambhanaṃ) [homāt](kāśairhomātsyātstambhanaṃ) [syāt](kāśairhomātsyātstambhanaṃ) [stambhanaṃ](kāśairhomātsyātstambhanaṃ) [dviṣām](dviṣām)
 
 ## mukta-m0-p321-v8019
-[fragrance](gandha)[eightfold](aṣṭakam)[declared](udīritam)
+[gandha-aṣṭakam](gandhāṣṭakamudīritam) [udīritam](gandhāṣṭakamudīritam)
 
 ## mukta-m0-p321-v8020
-[this](etat)[having-ground](piṣṭvā)[ten-thousand](ayutaṃ) [having-chanted](japtvā) [with-tilaka](tilakena) [world](jagat)[beloved](priyaḥ)
+[etat](etatpiṣṭvāyutaṃ) [piṣṭvā](etatpiṣṭvāyutaṃ) [yutaṃ](etatpiṣṭvāyutaṃ) [japtvā](japtvā) [tilakena](tilakena) [jagat-priyaḥ](jagatpriyaḥ)
 
 ## mukta-m0-p321-v8021
-[mātaṅgī](mātaṅgī) [worshipped](pūjitā) [desire](kāma)[giving](dā) [of-men](nṛṇām)
+[mātaṅgī](mātaṅgī) [pūjitā](pūjitā) [kāma-dā](kāmadā) [nṛṇām](nṛṇām)
 
 ## mukta-m0-p321-v8022
-[one-should-offer](hūyāt)[eight](aṣṭa)[over](uttara)[hundred](śataṃ) [in-khādira](khādira)[fire](agnau) [man](naraḥ) [at-night](niśi)
+[hūyāt](hūyādaṣṭottaraśataṃ) [aṣṭottara-śataṃ](hūyādaṣṭottaraśataṃ) [khādira-agtau](khādirāgnau) [naraḥ](naro) [niśi](niśi)
 
 ## mukta-m0-p321-v8023
-[on-dark](kṛṣṇa)[bhūta](bhūta)[night](niśi) [crow](dhvāṃkṣa)[belly](udare) [having-thrown](kṣiptvā) [auspicious](śubha)[radiance](prabhām)
+[kṛṣṇa-bhūta-niśi](kṛṣṇabhūtaniśi) [dhvāṃkṣa-udare](dhvāṃkṣodare) [kṣiptvā](kṣiptvā) [śubha-prabhām](śubhaprabhām)
 
 ## mukta-m0-p321-v8024
-[that](tat)[fire](vahniṃ) [to-whom](yasmai) [one-gives](dadyāt)[he](saḥ) [like-servant](dāsa)[like](vat)
+[tat-vahniṃ](tadvahniṃ) [yasmai](yasmai) [dadyāt](dadyātsa) [sa](dadyātsa) [dāsa-vat](dāsavat)
 
 ## mukta-m0-p321-v8025
-[by-sages](muni)[goddesses](devya)[and-others](ādi)[worshipped](sevyānāṃ) [in-kāśī](kāśyāṃ) [number](saṅkhyā) [not](na) [exists](vidyate)
+[muni-devy-ādi-sevyānām](munidevyādisevyānāṃ) [kāśyām](kāśyāṃ) [saṅkhyā](saṅkhyā) [na](na) [vidyate](vidyate)

@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p300-v7476
-[great-sound](mahāśabdaḥ) [pleased-I-am-thus](prasannā+asmi+iti) [auspicious](śobhanaḥ)
+[great-sound](mahāśabdaḥ) [I-am-pleased-thus](prasannāsmīti) [auspicious](śobhanaḥ)
 
 ## mukta-m0-p300-v7477
-[water-mixed](nīra+anvitaṃ) [then](tataḥ) [milk](kṣīraṃ) [becomes](jāyate) [milk](kṣīram) [with-respect](ādarāt)
+[water-devoid](nīrānvitaṃ) [then](tataḥ) [milk](kṣīraṃ) [arises](jāyate) [milk-from-respect](kṣīramādarāt)
 
 ## mukta-m0-p300-v7478
-[having-done](kṛtvā) [in-kāśī](kāśyāṃ) [always](sadā) [devoted](ratā)
+[having-done](kṛtvā) [in-Kashi](kāśyāṃ) [always](sadā) [devoted](ratā)
 
 ## mukta-m0-p300-v7479
-[ṅ-ending](ṅa+antam) [having-uttered](uktvā) [svāhā-ending](svāhā+antaḥ) [eighteen-syllabled](aṣṭādaśa+akṣaraḥ)
+[eighteen-syllable-ending-svaha](ṅentamuktvāsvāhāntoṣṭādaśākṣaraḥ)
 
 ## mukta-m0-p300-v7480
-[preliminary-rite](puraścaraṇam) [of-this](asya) [indeed](tu)
+[preliminary-rite](puraścaraṇam) [of-him](asya) [but](tu)
 
 ## mukta-m0-p300-v7481
-[should-recite](japet) [great-mantrī](mahā+mantrī) [at-night](rātrau) [on-anthill-grounds](valmīka+bhūmiṣu)
+[should-chant](japet) [great-mantra](mahāmantrī) [at-night](rātrau) [in-anthill-grounds](valmīkabhūmiṣu)
 
 ## mukta-m0-p300-v7482
-[all-poison-destroying](samasta+viṣa+nāśinīm)
+[all-poison-destroying](samastaviṣanāśinīm)
 
 ## mukta-m0-p300-v7483
-[maidservant](ceṭī) [its-accomplishment](tat+sādhanaṃ) [I-speak](bruve)
+[female-servant](ceṭī) [that-practice](tatsādhanaṃ) [I-tell](bruve)
 
 ## mukta-m0-p300-v7484
-[seventeen-syllabled](saptadaśa+arṇaḥ) [this](ayam) [should-recite](japet) [thousand-syllables](varṇa+sahasrakam)
+[seventeen-syllable-this](saptadaśārṇoyaṃ) [should-chant](japed) [thousand-letters](varṇasahasrakam)
 
 ## mukta-m0-p300-v7485
-[up-to-throat](kaṇṭha+mātre) [ten-thousand](ayutaṃ) [and](ca) [one](ekaṃ) [meditating-on](dhyāyan) [goddess](devīṃ) [concentrated](samāhitaḥ)
+[throat-Matra-with](kaṇṭhamātreyutaṃ) [and-one](caikaṃ) [meditating-goddess](dhyāyandevīṃ) [concentrated](samāhitaḥ)
 
 ## mukta-m0-p300-v7486
-[rain](vṛṣṭiḥ) [comes](āyāti) [that](sā) [indeed](hi) [up-to-five-days](pañca+dina+avadhi)
+[rain-comes](vṛṣṭirāyāti) [she-indeed](sāhi) [five-days-limit](pañcadināvadhi)
 
 ## mukta-m0-p300-v7487
-[śakti](śaktiḥ) [of-this-mantra](mantra+ādyasya) [is-explained](nirūpyate)
+[power](śaktir) [of-mantra-etc](mantrādyasya) [is-determined](nirūpyate)
 
 ## mukta-m0-p300-v7488
-[virāṭ](virāṭ) [meter](chandaḥ) [deity](devatā) [indeed](tu) [sarasvatī](sarasvatī)
+[virat](virāṭ) [meter](chando) [deity](devatā) [but](tu) [Sarasvati](sarasvatī)
 
 ## mukta-m0-p300-v7489
-[in-ears](śrotrayoḥ) [in-nostrils](nasoḥ) [in-eyes](dṛṣṭayoḥ) [in-cheeks](kapola) [in-mouth](āsye) [and](tathā) [in-sense-organ](indriye)
+[ear-genitals-eyes](śrotrayonasordṛṣṭayoḥ) [cheeks-face](kapolāsye) [and-senses](tathendriye)
 
 ## mukta-m0-p300-v7490
-[speech-goddess](vāk+devīṃ) [moon-crested](candra+śekharām)
+[speech-goddess](vāgdevīṃ) [moon-crested](candraśekharām)
 
 ## mukta-m0-p300-v7491
-[vowel-pair](svara+dvandvaṃ) [then](tataḥ) [one-should-worship](arcayet)
+[vowel-pair](svaradvandvaṃ) [then-worship](tatorcayet)
 
 ## mukta-m0-p300-v7492
-[yogasandhyā](yogasandhyā) [and](ca) [vimalā](vimalā) [jñānavṛddhi](jñānavṛddhiḥ) [memory](smṛtiḥ) [likewise](tathā)
+[yoga-sandhya](yogasandhyā) [and](ca) [pure](vimalā) [knowledge-growth](jñānavṛddhiḥ) [memory](smṛtistathā)
 
 ## mukta-m0-p300-v7493
-[their-weapons](tat+āyudhāni) [to-be-worshipped](pūjyāni) [in-ground-diagram-etc.](bhūpura+ādau) [in-due-order](yathā+kramam)
+[those-weapons](tadāyudhāni) [to-be-worshipped](pūjyāni) [from-bhupura](bhūpurādau) [in-order](yathākramam)
 
 ## mukta-m0-p300-v7494
-[one-should-offer](juhuyāt) [its-tenth-part](tat+daśāṃśaiḥ) [indeed](tu) [with-pure](śuddhaiḥ) [and](ca) [then](atha) [with-sesame-seeds](tilaiḥ) [one-should-offer](hunet)
+[should-offer](juhuyāt) [that-tenth-parts](taddaśāṃśaistu) [pure](śuddhaiś) [and-then-with-sesame-offer](cātha tilairhunet)
 
 ## mukta-m0-p300-v7495
-[in-mantra](manau) [practitioner](mantrī) [in-celibacy-vow](brahmacarya+vrate) [abiding](sthitaḥ)
+[in-gem](manau) [mantra-practitioner](mantrī) [celibacy-vow](brahmacaryavrate) [situated](sthitaḥ)
 
 ## mukta-m0-p300-v7496
-[he-becomes](bhavet) [of-poets](kavīnām) [foremost](agraṇīḥ) [certainly](dhruvam)
+[becomes](bhavet) [of-poets-chief](kavīnāmagraṇīr) [certainly](dhruvam)
 
 ## mukta-m0-p300-v7497
-[doubt](sandehaḥ) [speech-accomplishment](vāk+siddhim) [unequalled](atulāṃ) [man](naraḥ)
+[doubt](sandeho) [speech-accomplishment-incomparable](vāksiddhimatulāṃ) [man](naraḥ)
 
 ## mukta-m0-p300-v7498
-[of-poets](kavīnām) [foremost](agraṇīḥ) [he-becomes](bhavet)
+[of-poets-chief](kavīnāmagraṇīr) [becomes](bhavet)
 
 ## mukta-m0-p300-v7499
-[large-trunked](bṛhat+tuṇḍā) [clapping-devoted](tāla+vādana+tatparā)
+[big-trunk](bṛhattuṇḍā) [cymbal-playing-devoted](tālavādanatatparā)
 
 ## mukta-m0-p300-v7500
-[in-whom](yasyām) [contained-within](antaḥ+gatāḥ) [mantras](mantrāḥ) [thirty-three](trayastriṃśat) [and](ca) [crores](koṭayaḥ)
+[whose-inside](yasyāmantargatā) [mantras](mantrāḥ) [thirty-three](trayastriṃśacca) [crores](koṭayaḥ)

@@ -2,76 +2,52 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p301-v7501
-[all+āgama+mantras](samastāgamamantrāṇāṃ) [giver](dātā) [not](na) [is](asti) [here](atra) [doubt](saṃśayaḥ)
-
+all-agama-mantra-of giver not is here doubt
 ## mukta-m0-p301-v7502
-[goddess](devīṃ) [by-whom](yayā) [all](sarvam) [this](idam) [spread-out](tatam)
-
+goddess by-whom all this spread
 ## mukta-m0-p301-v7503
-[seed-syllables](bījāni) [vowels](acaḥ) [declared](proktāḥ) [powers](śaktayaḥ) [peg](kīlakam) [should-be](bhavet)
-
+seeds etc proclaimed powers pin becomes
 ## mukta-m0-p301-v7504
-[previously+stated](prāguktam) [mātṛkā+installations](ātṛkā+nyāsāḥ) [all](sarve) [primary](mukhyāḥ) [become](bhavanti) [and](ca)
-
+previously-said matrika nyasas all principal become and
 ## mukta-m0-p301-v7505
-[fifty+syllable+pervaded+limbed](pañcāśadarṇa+vyāptāṃgīṃ) [crescent-moon+marked+crested](candrārdhāṃkita+śekharām)
-
+fifty-letter-pervaded-limbed moon-half-marked-crest
 ## mukta-m0-p301-v7506
-[pearl+encircled+shining+ornaments](muktāvṛta+sphuradbhūṣāṃ) [I-worship](bhaje) [mother+sarasvatī](mātṛ+sarasvatīm)
-
+pearl-wreathed-shining-ornament I-worship mother-sarasvati
 ## mukta-m0-p301-v7507
-[auspicious](śubhaṃ) [lotus](padmaṃ) [earth+enclosure+triple+surrounded](bhūpura+tritayāvṛtam)
-
+auspicious lotus bhupura-three-surrounded
 ## mukta-m0-p301-v7508
-[ka+ca+ḍha+etc.+ka+groups](kacaḍhādi+kavargāṃśca) [should-write](likhet) [eight+petals](aṣṭadaleṣu) [and](ca)
-
+ka-ca-etc vargas and write eight-petals and
 ## mukta-m0-p301-v7509
-[worship+seat](pūjāpīṭham) [this](idam) [declared](proktam) [in-the-beginning](ādau) [limbs](aṃgāni) [one-should-worship](saṃyajet)
-
+worship-seat this proclaimed first limbs worship-together
 ## mukta-m0-p301-v7510
-[vowel+pairs](svaradvandvaṃ) [then](tato) [groups](vargān) [on-filaments](keśareṣu) [one-should-worship](yajet) [these](imāḥ)
-
+vowel-pairs then vargas in-filaments worship these
 ## mukta-m0-p301-v7511
-[vidyeśvarī](vidyeśvarī) [middle+end](madhyamāṃte) [to-be-worshipped](pūjyāḥ) [on-seat](pīṭhe) [then](tataḥ) [after](param)
-
+vidyesvari middle-end worshipful seat then beyond
 ## mukta-m0-p301-v7512
-[kleśinī](kleśinī) [and](ca) [also](api) [dhāriṇī](dhāriṇī) [mālinī](mālinī) [likewise](tathā)
-
+klesini and api dharini malini thus
 ## mukta-m0-p301-v7513
-[world-lords](lokeśvarān) [in-front](agre) [in-enclosure](vīthyām) [weapons](astrāṇi) [one-should-worship](pūjayet)
-
+world-lords in-front row weapons worship
 ## mukta-m0-p301-v7514
-[with-pure-offerings](śuddhaiḥ) [libation+etc.](tarpaṇādi) [having-done](kṛtvā) [accomplished](siddhaḥ) [should-become](bhaven) [mantra](manuḥ)
-
+pure tarpana-etc having-done accomplished becomes mantra
 ## mukta-m0-p301-v7515
-[in-battle](saṃgare) [may-be](syāt) [for-victory](jayāya)
-
+in-battle be for-victory
 ## mukta-m0-p301-v7516
-[properly](samyak) [he](sa) [fool](mūrkhaḥ) [even](api) [poetic-skill+possessing](kavitva+bhāk)
-
+rightly even-fool poet-hood-possessor
 ## mukta-m0-p301-v7517
-[eaten](bhakṣitaṃ) [poetry+giving](kavitā+pradam)
-
+eaten poetry-giving
 ## mukta-m0-p301-v7518
-[son+best](sutāgryam)
-
+excellent-son
 ## mukta-m0-p301-v7519
-[destruction](kṣayaḥ) [of-her](asyāḥ) [dwelling](nivāsaḥ)
-
+destruction her [abode]
 ## mukta-m0-p301-v7520
-[to-me](mama) [desired](iṣṭaṃ) [give](dehi) [durbhugnī](durbhugnī) [peacock+beloved](śikhi+vallabhā)
-
+my-desired give unfortunate peacock-consort
 ## mukta-m0-p301-v7521
-[one-should-perform](kuryāt) [in-morning](prātaḥ) [indeed](tu) [waves-light](nīrājjayati) [happiness+causing](sukha+karān) [practitioner+chief](sādhaka+indraḥ) [gone](gataḥ) [he](asau)
-
+do-morning but water-libation conquers happiness-making adepts-lord gone-he
 ## mukta-m0-p301-v7522
-[gives](dadāti) [she](sā) [goddess](devī) [good+wife+wealth+garments+etc.](su+strī+vittāmbarādikam)
-
+gives she goddess good-wife wealth-clothes-etc
 ## mukta-m0-p301-v7523
-[vakratuṇḍa+etc.](vakratuṇḍādyāḥ) [and](ca) [attendant+power+accompanied](iṭī+śakti+samanvitāḥ)
-
+curved-beak-etc attendants-shakti-endowed
 ## mukta-m0-p301-v7524
-[vakratuṇḍa+rite](vakratuṇḍa+vidhiḥ) [previously](pūrvam) [stated](uktaḥ) [of-eight](aṣṭānāṃ) [that](saḥ) [indeed](eva) [certainly](hi)
-
+curved-beak-rite previously-said eight-of that indeed
 ## mukta-m0-p301-v7525
-[yoginī](yoginī) [thus](iti) [give](dehi) [give](dehi) [one-should-say](vadet) [then](tataḥ)
+yogini thus give give say then
