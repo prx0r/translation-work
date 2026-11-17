@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p72-v1776
-[with-lumps](piṇḍaiḥ) [or](vā) [with-own-parts-endowed](svakalānvitaiḥ)
+[with-lumps](piṇḍaiḥ) [or](vā) [with-own+parts+endowed](svakalānvitaiḥ)
 
 ## mukta-m0-p72-v1777
-[blazing-fire-like](jvaladagnisamākāraṃ) [shining](visphurantaṃ) [all-around](samantataḥ)
+[blazing-fire-shaped](jvaladagnisamākāraṃ) [flashing](visphurantaṃ) [all-around](samantataḥ)
 
 ## mukta-m0-p72-v1778
-[everything](sarvaṃ) [becomes-purified](śuddhyati) [by-that-very](tenaiva) [world](jagat) [immovable-and-moving](sthāvarajaṅgamam)
+[all](sarvaṃ) [becomes-pure](śuddhyati) [by-that-very](tenaiva) [world-stationary-moving](jagasthāvarajaṅgamam)
 
 ## mukta-m0-p72-v1779
-[avicī](avicī) [and-raurava](rauravaścaiva) [and-mahāraurava](mahāraurava) [also](eva) [ca](ca)
+[avicī](avicī) [raurava+and+also](rauravaścaiva) [mahāraurava](mahārauravaḥ) [indeed](eva) [and](ca)
 
 ## mukta-m0-p72-v1780
-[named-nitala](nitalāhvaṃ) [named-vara](varāhvaṃ) [ca](ca) [named-ābhāsa](ābhāsākhyaṃ) [ca](ca) [seventh](saptamam)
+[called-nitala](nitalāhvaṃ) [called-vara](varāhvaṃ) [and](ca) [called-ābhāsa](ābhāsākhyaṃ) [and](ca) [seventh](saptamam)
 
 ## mukta-m0-p72-v1781
-[śiva](haraḥ)
+[Hara](haraḥ)
 
 ## mukta-m0-p72-v1782
-[earth-tattva](urvitattvaṃ) [declared](samākhyātaṃ) [water-etc-double](jalādidviguṇaṃ) [in-order](kramāt)
+[earth-principle](urvitattvaṃ) [is-declared](samākhyātaṃ) [water-etc-twofold](jalādidviguṇaṃ) [kh: digguṇaṃ] [in-order](kramāt)
 
 ## mukta-m0-p72-v1783
-[touch](sparśaḥ) [sound](śabdaśca) [and-five](pañcaiva) [tanmātras](tanmātrāṇi) [in-order](yathākramam)
+[touch](sparśaḥ) [sound-and](śabdaśca) [five-indeed](pañcaiva) [subtle-elements](tanmātrāṇi) [in-order](yathākramam)
 
 ## mukta-m0-p72-v1784
-[puruṣa](pumān) [attachment](rāgaśca) [knowledge](vidyā) [ca](ca) [limitation](niyatiśca) [kulāntaka](kulāntakaḥ)
+[puruṣa](pumān) [attachment-and](rāgaśca) [knowledge-and](vidyāca) [limitation-and](niyatiśca) [ender-of-kula](kulāntakaḥ) [mū: kalāntakaḥ]
 
 ## mukta-m0-p72-v1785
-[śakti](śaktiścebhyaḥ) [beyond-them](parastācca) [śiva-named](śivākhyaḥ) [supreme](paramo) [imperishable](avyayaḥ)
+[power-and-from-these](śaktiścebhyaḥ) [beyond-and](parastācca) [called-Śiva](śivākhyaḥ) [supreme-imperishable](paramo'vyayaḥ)
 
 ## mukta-m0-p72-v1786
-[five-elements](pañcabhūtaṃ) [ca](ca) [tanmātra](tanmātraṃ) [intellect](buddhiḥ) [action-organs](karmendriyaṇi) [ca](ca)
+[five-elements](pañcabhūtaṃ) [and](ca) [subtle-element](tanmātraṃ) [intellect](buddhiḥ) [action-organs-and](karmendriyaṇi ca)
 
 ## mukta-m0-p72-v1787
-[twenty-four-tattvas](caturviṃśatitattvāni) [prakṛti](prakṛtirvāmakarṇagāḥ)
+[twenty-four-principles](caturviṃśatitattvāni) [nature](prakṛtiḥ) [left-ear-dwellers](vāmakarṇagāḥ)
 
 ## mukta-m0-p72-v1788
-[declared](samākhyātā) [niyati](niyatirhṛdaye) [in-heart](sthitā)
+[declared](samākhyātā) [limitation](niyatiḥ) [in-heart](hṛdaye) [situated](sthitā)
 
 ## mukta-m0-p72-v1789
-[twenty-five](pañcaviṃśacca) [tattvas](tattvāni) [in-piṇḍīkā](piṇḍīkāyāṃ) [situated](sthitāni) [tu](tu)
+[twenty-five-and](pañcaviṃśacca) [principles](tattvāni) [in-body](piṇḍīkāyāṃ) [situated-indeed](sthitāni tu)
 
 ## mukta-m0-p72-v1790
-[mantra-form](mantrabhūtaṃ) [śiva](śivaṃ) [there](tatra) [install](vinyasetsiddhimuktaye)
+[mantra-formed](mantrabhūtaṃ) [Śiva](śivaṃ) [there](tatra) [should-place](vinyaset) [for-siddhi-liberation](siddhimuktaye)
 
 ## mukta-m0-p72-v1791
-[having-installed](nyasya) [tu](tu) [meditate](bhāvayedvyāptiṃ) [śiva-form](śivarūpaṃ) [ca](ca) [supreme](yatparam)
+[having-placed](nyasya) [indeed](tu) [should-meditate](bhāvayet) [pervasion](vyāptiṃ) [Śiva-form-and](śivarūpaṃ ca) [which-supreme](yatparam)
 
 ## mukta-m0-p72-v1792
-[īśvara-to-śiva](īśvarādiśivāntaṃ) [ca](ca) [triad](tritayaṃ) [offer](homayetkvacit)
+[from-Īśvara-to-Śiva-end](īśvarādiśivāntaṃ) [and](ca) [triad](tritayaṃ) [kh: tritatvaṃ] [should-offer](homayet) [sometimes](kvacit)
 
 ## mukta-m0-p72-v1793
-[with-śiva-pot-water](śivakumbhāmbunā) [similarly](tadvattadūrdhve) [ca](ca) [hari-body](harestanum)
+[with-Śiva-pot-water](śivakumbhāmbunā) [likewise](tadvat) [above-that-and](tadūrdhve ca) [of-Hari-body](harestanum)
 
 ## mukta-m0-p72-v1794
-[letter-rudra-etc-vidyeśas](varṇarudrādividyeśāṃllokeśān) [gaṇa-leaders](gaṇanāyakān)
+[varṇa-Rudra-etc-vidyeśas](varṇarudrādividyeśān) [world-lords](lokeśān) [troop-leaders](gaṇanāyakān)
 
 ## mukta-m0-p72-v1795
-[not](nāpi) [burnt](dagdhaṃ) [ca](ca) [by-śaiva-mantras](śaivairmantraiḥ) [propitiated](prasādhitam)
+[not-even](nāpi) [burnt](dagdhaṃ) [and](ca) [by-Śaiva-mantras](śaivairmantraiḥ) [propitiated](prasādhitam)
 
 ## mukta-m0-p72-v1796
-[full-offering](pūrṇāhutiṃ) [by-śiva](śivenāto) [of-sacrifice](yāgasya) [for-completion](paripūrtaye)
+[full-offering](pūrṇāhutiṃ) [by-Śiva-thence](śivenāto) [of-sacrifice](yāgasya) [for-completion](paripūrtaye)
 
 ## mukta-m0-p72-v1797
-[at-that-time](tasminkāle) [to-guru](gurau) [gift](dānaṃ) [give](dadyādvittānusārataḥ)
+[at-that-time](tasminkāle) [to-guru](gurau) [gift](dānaṃ) [should-give](dadyāt) [according-to-wealth](vittānusārataḥ) [gh: nurūpataḥ]
 
 ## mukta-m0-p72-v1798
-[with-right-half](dakṣiṇārdhena) [hand](hastena) [again](punarhomaṃ) [cause-to-offer](pradāpayet)
+[with-right-half](dakṣiṇārdhena) [gh: ṇendreṇa] [hand](hastena) [again-offering](punarhomaṃ) [should-cause-give](pradāpayet)
 
 ## mukta-m0-p72-v1799
-[for-expiation](prāyaścitte) [tathā](tathā) [obstacle](vighne) [great-astra](mahāstraṃ) [offer](homayettataḥ)
+[for-expiation](prāyaścitte) [thus](tathā) [in-obstacle](vighne) [great-weapon](mahāstraṃ) [should-offer](homayet) [then](tataḥ)
 
 ## mukta-m0-p72-v1800
-[at-night](rātrau) [great-festival](mahotsavaḥ) [be-done](kāryaḥ) [with-conch-drum-etc-sounds](śaṅkhabheryādinisvanaiḥ)
+[at-night](rātrau) [great-festival](mahotsavaḥ) [should-be-done](kāryaḥ) [with-conch-drum-etc-sounds](śaṅkhabheryādinisvanaiḥ)

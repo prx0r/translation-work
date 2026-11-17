@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p82-v2026
-[tejas](tejaś) [caṇḍasya](caṇḍasya) [yāgaḥ](yāgaś) [ca](ca) [sarvaḥ](sarvaḥ) [syāt](syāt) [pūrvavat](pūrvavad) [vidhiḥ](vidhiḥ)
+[tejaḥ](tejaścaṇḍasya) [caṇḍasya](tejaścaṇḍasya) [yāgaḥ](yāgaśca) [ca](yāgaśca) [sarvaḥ](sarvaḥ) [syāt](syātpūrvavadvidhiḥ) [pūrvavat](syātpūrvavadvidhiḥ) [vidhiḥ](syātpūrvavadvidhiḥ)
 
 ## mukta-m0-p82-v2027
-[tat](tat) [nirmālyaṃ](nirmālyaṃ) [kṣipet](kṣiped) [apsu](apsu) [garbhe](garbhe) [ca](ca) [agnau](agnau) [visarjanam](visarjanam)
+[tannirmālyaṃ](tannirmālyaṃ) [kṣipet](kṣipedapsu) [apsu](kṣipedapsu) [garbhe](garbhe) [ca](cāgnau) [agnau](cāgnau) [visarjanam](visarjanam)
 
 ## mukta-m0-p82-v2028
-[rāṣṭra-upadrava-siddhi-artham](rāṣṭropadravasiddhyarthaṃ) [tat](tat) [sthāpyam](sthāpyaṃ) [guhya-deśataḥ](guhyadeśataḥ)
+[rāṣṭra-upadrava-siddhi-artham](rāṣṭropadravasiddhyarthaṃ) [tat](tatsthāpyaṃ) [sthāpyam](tatsthāpyaṃ) [guhya-deśataḥ](guhyadeśataḥ)
 
 ## mukta-m0-p82-v2029
 [phala-dāyakam](phaladāyakam)
 
 ## mukta-m0-p82-v2030
-[svārtha-mantra-sthitiḥ](svārthamantrasthitiḥ) [tena](tena) [caṇḍeśaḥ](caṇḍeśo) [na](na) [sthireṣu](sthireṣv) [api](api)
+[svārtha-mantra-sthitiḥ](svārthamantrasthitistena) [tena](svārthamantrasthitistena) [caṇḍeśaḥ](caṇḍeśo) [na](na) [sthireṣu](sthireṣvapi) [api](sthireṣvapi)
 
 ## mukta-m0-p82-v2031
-[yajet](yajed) [abje](abje) [homa-dāna-ādi](homadānādi) [pūrvavat](pūrvavat)
+[yajet](yajedabje) [abje](yajedabje) [homa-dāna-ādi](homadānādipūrvavat) [pūrvavat](homadānādipūrvavat)
 
 ## mukta-m0-p82-v2032
-[gaṇa-varga-ambikānām](gaṇavargāmbikānāṃ) [ca](ca) [na-nirmālyaṃ](nanirmālyaṃ) [śive](śive) [yathā](yathā)
+[gaṇa-varga-ambikānām](gaṇavargāmbikānāṃ) [ca](ca) [na](nanirmālyaṃ) [nirmālyaṃ](nanirmālyaṃ) [śive](śive) [yathā](yathā)
 
 ## mukta-m0-p82-v2033
 [purī](purī) [sāgara-daitya-ādyāḥ](sāgaradaityādyā) [ṛṣi-dig-devatā-grahāḥ](ṛṣidigdevatāgrahāḥ)
 
 ## mukta-m0-p82-v2034
-[dvaita-advaitāni](dvaitādvaitāni) [tāni](tāny) [atra](atra) [sāmānyāni](sāmānyani) [ca](ca) [siddhaye](siddhaye)
+[dvaita-advaitāni](dvaitādvaitānī) [tāni](tānyatra) [atra](tānyatra) [sāmānyāni](sāmānyani) [ca](ca) [siddhaye](siddhaye)
 
 ## mukta-m0-p82-v2035
-[mārtaṇḍaḥ](mārtaṇḍaś) [ca](ca) [iti](iti) [atha](atha) [advaite](advaite) [nirmālyaṃ](nirmālyaṃ) [caṇḍa-varjitam](caṇḍavarjitam)
+[mārtaṇḍaḥ](mārtaṇḍaścetyathādvaite) [ca](mārtaṇḍaścetyathādvaite) [iti](mārtaṇḍaścetyathādvaite) [atha](mārtaṇḍaścetyathādvaite) [advaite](mārtaṇḍaścetyathādvaite) [nirmālyaṃ](nirmālyaṃ) [caṇḍa-varjitam](caṇḍavarjitam)
 
 ## mukta-m0-p82-v2036
-[sva-iṣṭam](sveṣṭaṃ) [na](na) [darśayet](darśayet) [loke](loke) [advaite](advaite) [vidhi-kalpitam](vidhikalpitam)
+[sveṣṭam](sveṣṭaṃ) [na](na) [darśayet](darśayelloke) [loke](darśayelloke) [advaite](advaite) [vidhi-kalpitam](vidhikalpitam)
 
 ## mukta-m0-p82-v2037
-[divya-toya-ādikam](divyatoyādikaṃ) [teṣām](teṣāṃ) [snāne](snāne) [arghe](arghe) [tarpaṇe](tarpaṇe) [hitam](hitam)
+[divya-toya-ādikam](divyatoyādikaṃ) [teṣām](teṣāṃ) [snāne](snāne'rghe) [arghe](snāne'rghe) [tarpaṇe](tarpaṇe) [hitam](hitam)
 
 ## mukta-m0-p82-v2038
-[naivedyaṃ](naivedyaṃ) [bhrātṛ-putrāṇām](bhrātṛputrāṇāṃ) [bhaginīnām](bhaginīnāṃ) [ca](ca) [dāpayet](dāpayet)
+[naivedyam](naivedyaṃ) [bhrātṛ-putrāṇām](bhrātṛputrāṇāṃ) [bhaginīnām](bhaginīnāṃ) [ca](ca) [dāpayet](dāpayet)
 
 ## mukta-m0-p82-v2039
-[siddhiḥ](siddhirlabheta) [labheta](siddhirlabheta) [no](no) [citraṃ](citraṃ) [liṅga-sannihitaṃ](liṅgasannihitaṃ) [yadā](yadā)
+[siddhiḥ](siddhirlabheta) [labheta](siddhirlabheta) [no](no) [citraṃ](citraṃ) [liṅga-sannihitam](liṅgasannihitaṃ) [yadā](yadā)
 
 ## mukta-m0-p82-v2040
-[jayadratha-ādayaḥ](jayadrathādayo) [api](apy) [anye](anya) [iti](iti) [āha](āha) [bhagavān](bhagavāñ) [śivaḥ](śivaḥ)
+[jayadratha-ādayaḥ](jayadrathādayo'pyanya) [api](jayadrathādayo'pyanya) [anya](jayadrathādayo'pyanya) [iti](ityāha) [āha](ityāha) [bhagavān](bhagavāñchivaḥ) [śivaḥ](bhagavāñchivaḥ)
 
 ## mukta-m0-p82-v2041
 [iti](iti) [lakṣaṇa-samuccaye](lakṣaṇasamuccaye) [caṇḍeśvara-sthāpanam](caṇḍeśvarasthāpanaṃ) [nāma](nāma) [saptadaśaḥ](saptadaśo) [vidhiḥ](vidhiḥ)
 
 ## mukta-m0-p82-v2042
-[nayana-unmīlana-ādyeṣām](nayanonmīlanādyeṣāṃ) [pūrvavat](pūrvavat) [sakalam](sakalaṃ) [bhavet](bhavet)
+[nayana-unmīlana-ādyeṣām](nayanonmīlanādyeṣāṃ) [pūrvavat](pūrvavatsakalaṃ) [sakalam](pūrvavatsakalaṃ) [bhavet](bhavet)
 
 ## mukta-m0-p82-v2043
-[cāhavarjanāt](cāhavarjanāt)
+[ca](cāhavarjanāt) [ahavarjanāt](cāhavarjanāt)
 
 ## mukta-m0-p82-v2044
-[snāna-ādi](snānādi) [mānasaṃ](mānasaṃ) [kāryaṃ](kāryaṃ) [tathā](tathā) [ratna-śilā-ādikam](ratnaśilādikam)
+[snāna-ādi](snānādi) [mānasam](mānasaṃ) [kāryam](kāryaṃ) [tathā](tathā) [ratna-śilā-ādikam](ratnaśilādikam)
 
 ## mukta-m0-p82-v2045
 [nimra-bu-kusumaiḥ](nimrabukusumaiḥ) [pūjā](pūjā) [yayā](yayā) [citraṃ](citraṃ) [na](na) [naśyati](naśyati)
 
 ## mukta-m0-p82-v2046
-[ratna-ādini](ratnādini) [niveśya](niveśya)
+[ratna-ādini](ratnādini) [niveśya](niveśya] [ca](ca)
 
 ## mukta-m0-p82-v2047
-[rnyased](rnyased) [diśāṃ](diśāṃ) [tadva](tadva) [dudumbare](dudumbare)
+[rnyased](rnyaseddiśāṃ) [diśām](rnyaseddiśāṃ) [tadva](tadva] [dudumbare](dudumbare)
 
 ## mukta-m0-p82-v2048
-[śule](śule) [api](pyavaṃ) [avaṃ](pyavaṃ) [yajanti](yajantyaṅgaṃ) [aṅgaṃ](yajantyaṅgaṃ) [yuktā](yuktā) [daṇḍe](daṇḍe) [ca](ca) [dīpanī](dīpanī)
+[śule](śule'pyavaṃ) [api](śule'pyavaṃ) [avam](śule'pyavaṃ) [yajanti](yajantyaṅgaṃ) [aṅgam](yajantyaṅgaṃ) [yuktā](yuktā) [daṇḍe](daṇḍe) [ca](ca) [dīpanī](dīpanī)
 
 ## mukta-m0-p82-v2049
-[eka-dvi-tri-kare](ekadvitrikare) [pūjyaḥ](pūjyaḥ) [śiva-vat](śivavad) [bhagavān](bhagavān) [guruḥ](guruḥ)
+[eka-dvi-tri-kare](ekadvitrikare) [pūjyaḥ](pūjyaḥ) [śiva-vat](śivavadbhagavānguruḥ) [bhagavān](śivavadbhagavānguruḥ) [guruḥ](śivavadbhagavānguruḥ)
 
 ## mukta-m0-p82-v2050
-[aghoraṃ](aghoraṃ) [paścima-āsyam](paścimāsyaṃ) [vā](vā) [hotavyaṃ](hotavyaṃ) [japa-saṃkhyayā](japasaṃṅkhyayā)
+[aghoram](aghoram) [paścima-āsyam](paścimāsyaṃ) [vā](vā) [hotavyam](hotavyaṃ) [japa-saṃkhyayā](japasaṃṅkhyayā)

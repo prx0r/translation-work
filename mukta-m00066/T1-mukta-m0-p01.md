@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p01-v1
-[bliss-deity-abode](ānaṃdadevatāsthānam) [in-this](asmin) [linga](liṃge) [great-lady](maheśvari)
+bliss-deity-abode(in-this) linga O-great-lady
 
 ## mukta-m0-p01-v2
-[when](yadā) [own-power-descent](svaśaktipātena) [awakened](prabuddhaḥ) [he](sa) [reflective](vimarśavān)
+when own-power-descent awakened he reflection-possessing
 
 ## mukta-m0-p01-v3
-[then](tadā) [he](sa) [teacher](deśikaḥ) [of-Śaivī](śaivyā) [by-view](dṛṣṭyā) [his](tasya) [new-self](navātmanaḥ)
+then he teacher by-Shaiva-view of-his new-self
 
 ## mukta-m0-p01-v4
-[another-indeed](anyadeva) [again-become](punarbhūyāt) [of-Kaulika](kaulikasya) [great-soul](mahātmanaḥ)
+another indeed again-become of-Kaulika great-soul
 
 ## mukta-m0-p01-v5
-[clan](kulaṃ) [birth-and](jātiśca) [conduct-and](śīlaṃ) [also-eight](cāpyaṣṭau) [bonds](pāśāḥ) [declared](prakīrtitāḥ)
+family caste and conduct and eight bonds declared
 
 ## mukta-m0-p01-v6
-[his](tasya) [devotee's](bhaktasya) [whole](sakalaṃ) [body](vapuḥ) [good-field-called](sukṣetramucyate)
+of-his devotee whole body good-field called
 
 ## mukta-m0-p01-v7
-[Śākti](śāktiḥ) [by-power-unfolding](śaktyunmīlanena) [mantric](māṃtrī) [by-mantra-instruction](maṃtropadeśataḥ)
+Shakti by-power-unfolding mantra by-mantra-instruction
 
 ## mukta-m0-p01-v8
-[by-these](etābhiḥ) [three-and-indeed](tisṛbhiścaiva) [initiations](dīkṣābhiḥ) [initiated](dīkṣito) [man](naraḥ)
+by-these three also initiations initiated man
 
 ## mukta-m0-p01-v9
-[consciousness-linga-nature](bodhaliṃgasvarūpo) [he](asau) [is-born](jāyate) [from-vasanā-destruction](vāsanākṣayāt)
+knowledge-linga-form he becomes by-vasana-destruction
 
 ## mukta-m0-p01-v10
-[women-hated](stridviṣṭaṃ) [world-hated](lokavidviṣṭam) [laziness](ālasyaṃ) [and-indeed](caiva) [fickleness](cāpalam)
+woman-hated world-hated laziness and fickleness
 
 ## mukta-m0-p01-v11
-[adultery-touch](paradārāvamarśaṃ) [and](ca) [treachery-thought](paradrohasya) [thinking](ciṃtanam)
+other-wife-touching and other-harm thinking
 
 ## mukta-m0-p01-v12
-[excessive-harshness](atiniṣṭuraśīlatvam) [excessive-misery](atidainyam) [excessive-grasping](atigrahaḥ)
+excessive-harsh-conduct excessive-misery excessive-grasping
 
 ## mukta-m0-p01-v13
-[such-etc](ityādayo) [great-faults](mahādoṣāḥ) [of-teacher-indeed](deśikasyaiva) [from-seeing](vīkṣaṇāt)
+such etc great-faults of-teacher indeed by-seeing
 
 ## mukta-m0-p01-v14
-[arts](kalā) [knowledge](vidyā) [and](ca) [attachment-and](rāgaśca) [destiny](niyatiḥ) [time](kāla) [indeed](eva) [and](ca)
+kalā vidyā and rāga and niyati time indeed and
 
 ## mukta-m0-p01-v15
-[by-these-indeed](etābhireva) [intense](tīvrābhiḥ) [powers](śaktibhiḥ) [jackets](kañcukāṭamabhiḥ)
+by-these indeed fierce powers by-jackets
 
 ## mukta-m0-p01-v16
-[by-them](tābhiḥ) [jīva-state-attained](jivatvamāpannaḥ) [like-saṃsārin](saṃsārīva) [struggles](viceṣṭate)
+by-them jiva-hood attained like-samsarin moves
 
 ## mukta-m0-p01-v17
-[from-here-there](itastato) [taken](hṛtaṃ) [jīva](jīvaḥ) [by-himself-indeed](svayameva) [his-own-reflecting](svamāmṛśan)
+from-here-there taken jiva by-himself own-reflecting
 
 ## mukta-m0-p01-v18
-[reflection](pratibimba) [not](na) [due-to-capacity](sāmarthyān) [in-dirty](maline) [mirror](darpaṇe) [as](yathā)
+reflection not by-capacity in-dirty mirror as
 
 ## mukta-m0-p01-v19
-[therefore](tasmāt) [by-impurity-destruction](malapraṇāśena) [Śiva-state-attainment-cause](śivatāpattikāraṇā)
+therefore by-impurity-destruction Shiva-state-attainment-cause
 
 ## mukta-m0-p01-v20
-[beginningless-ignorance-subjection](anādyavidyāvaśato) [impurity-mass-great](malarāśirmahān) [if](yadi)
+beginningless-ignorance-subject impurity-mass great if
 
 ## mukta-m0-p01-v21
-[time-fire-million-like-blazing](kālāgnikoṭivaddīptāṃ) [burning](dahaṃtīṃ) [bond](pāśam) [flaming](ujvalām)
+time-fire-million-like blazing burning bond blazing
 
 ## mukta-m0-p01-v22
-[own](nijāṃ) [power-mantra](śaktimanuṃ) [meditate](dhyāyed) [guru-sight-pure](guruvīkṣaṇanirmalām)
+own power-mantra meditate guru-seeing-pure
 
 ## mukta-m0-p01-v23
-[so-long](tāvad) [meditation-this](dhyānamidaṃ) [to-be-done](kāryaṃ) [all-bad-impurity-cutting](sarvadurmalakartanam)
+so-long meditation this to-be-done all-bad-impurity-cutting
 
 ## mukta-m0-p01-v24
-[by-itself-indeed](svayameva) [shines](prakāśeta) [own-self](svātmā) [fortune-vessel](saubhāgyabhājanam)
+by-himself shines own-self fortune-vessel
 
 ## mukta-m0-p01-v25
-[shines](bhāsate)
+shines

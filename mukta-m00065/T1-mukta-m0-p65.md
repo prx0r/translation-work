@@ -2,52 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p65-v1601
-[pada](sahasrāśāvṛto) [pada](bhānustasmāddaśaśatāvṛtaḥ)
+[thousand-rays-covered](sahasrāśāvṛto) [sun](bhānuḥ) [therefore](tasmāt) [ten-hundred-covered](daśaśatāvṛtaḥ)
+
 ## mukta-m0-p65-v1602
-[pada](kapālādyairyutairbhinne) [pada](puṇyakṛtsa) [pada](mahāghahṛt)
+[skull-etc-with](kapālādyaiḥ) [united](yutaiḥ) [broken](bhinne) [meritorious-one](puṇyakṛt) [great-killer](mahāghahṛt)
+
 ## mukta-m0-p65-v1603
-[pada](tattvabhāgo'rdhavaṃpātādbhavelliṅgaṃ) [pada](śatādhikam)
+[truth-part](tattvabhāgaḥ) [half-fall](ardhavaṃpātāt) [becomes](bhavet) [liṅga](liṅgaṃ) [hundred-excess](śatādhikam)
+
 ## mukta-m0-p65-v1604
-[pada](rekhāmutkirayelliṅge) [pada](uttame) [pada](ca) [pada](yavāṣṭakam)
+[line](rekhām) [carve](utkirayet) [liṅga](liṅge) [excellent](uttame) [and](ca) [eight-barley](yavāṣṭakam)
+
 ## mukta-m0-p65-v1605
-[pada](vastrahīnake)
+[clothless](vastrahīnake)
+
 ## mukta-m0-p65-v1606
-[pada](samaṃ) [pada](samatalaṃ) [pada](tacca) [pada](manojñaṃ) [pada](lakṣaṇānvitam)
+[equal](samaṃ) [level](samatalaṃ) [that](tacca) [pleasing](manojñaṃ) [marked](lakṣaṇānvitam)
+
 ## mukta-m0-p65-v1607
-[pada](madhyasūtraṃ) [pada](samaṃ) [pada](kṛtvā) [pada](lalāṭādavatārayet)
+[middle-thread](madhyasūtraṃ) [equal](samaṃ) [making](kṛtvā) [from-forehead](lalāṭāt) [let-descend](avatārayet)
+
 ## mukta-m0-p65-v1608
-[pada](sarvālakṣaṇanāśāya) [pada](rekhālakṣaṇamucyate)
+[all-mark-destruction](sarvālakṣaṇanāśāya) [line-mark](rekhālakṣaṇam) [is-said](ucyate)
+
 ## mukta-m0-p65-v1609
-[pada](caṇḍā) [pada](lakṣmī) [pada](sumedhā) [pada](ca) [pada](maṇirekhā) [pada](daśoditāḥ)
+[fierce](caṇḍā) [prosperity](lakṣmī) [wise](sumedhā) [jewel-line](maṇirekhā) [ten-declared](daśoditāḥ)
+
 ## mukta-m0-p65-v1610
-[pada](cāntaram)
+[and-interval](cāntaram)
+
 ## mukta-m0-p65-v1611
-[pada](tiryaṅmadhyasthitātsūtrātpakṣasūtrāvatāraṇam)
+[transverse-middle-thread](tiryaṅmadhyasthitāt) [sūtra](sūtrāt) [side-thread-descent](pakṣasūtrāvatāraṇam)
+
 ## mukta-m0-p65-v1612
-[pada](kārayet)
+[let-do](kārayet)
+
 ## mukta-m0-p65-v1613
-[pada](randhraḥ) [pada](ṣaḍasrake)
+[hole](randhraḥ) [six-cornered](ṣaḍasrake)
+
 ## mukta-m0-p65-v1614
-[pada](dīprākhyā) [pada](lakṣya) [pada](rekhā) [pada](ca) [pada](gaditā) [pada](bhogamokṣadā)
+[bright-named](dīprākhyā) [mark](lakṣya) [line](rekhā) [and](ca) [declared](gaditā) [enjoyment-liberation-giving](bhogamokṣadā)
+
 ## mukta-m0-p65-v1615
-[pada](navāṃśo'rdhaparityakte) [pada](ṣaṣṭhe) [pada](bhāge) [pada](tridhā) [pada](kṛte)
+[ninth-part](navāṃśaḥ) [half-abandoned](ardhaparityakte) [sixth](ṣaṣṭhe) [part](bhāge) [threefold](tridhā) [made](kṛte)
+
 ## mukta-m0-p65-v1616
-[pada](yavākārebhanetrābhā) [pada](pakṣasūtraṃ) [pada](vinā) [pada](bhavet)
+[barley-shaped-eye-bright](yavākārebhanetrābhā) [side-thread](pakṣasūtraṃ) [without](vinā) [becomes](bhavet)
+
 ## mukta-m0-p65-v1617
-[pada](tyakttvādho) [pada](dvyekabhāgaṃ) [pada](tu) [pada](dvau) [pada](caivādho'ṣṭadhā) [pada](punaḥ)
+[abandoning-below](tyakttvādho) [two-one-part](dvyekabhāgaṃ) [and](tu) [two](dvau) [also-below](caivādho) [eightfold](aṣṭadhā) [again](punaḥ)
+
 ## mukta-m0-p65-v1618
-[pada](tyaktvaikaṃ) [pada](bhrāmayetsūtraṃ) [pada](yāvatpṛṣṭhāntamāśrite)
+[abandoning-one](tyaktvaikaṃ) [rotate-thread](bhrāmayetsūtraṃ) [until-back-end](yāvatpṛṣṭhāntam) [reached](āśrite)
+
 ## mukta-m0-p65-v1619
-[pada](adho) [pada](bhāgadvayaṃ) [pada](muktvā) [pada](saṅgamaḥ) [pada](pṛṣṭhatastayoḥ)
+[below-two-parts](adho) [bhāgadvayaṃ] [releasing](muktvā) [union](saṅgamaḥ) [from-behind](pṛṣṭhatastayoḥ)
+
 ## mukta-m0-p65-v1620
-[pada](agre) [pada](muniparityakte) [pada](lakṣaṇaṃ) [pada](syātphaṇisthite)
+[front](agre) [sage-abandoned](muniparityakte) [mark](lakṣaṇaṃ) [would-be](syāt) [hood-placed](phaṇisthite)
+
 ## mukta-m0-p65-v1621
-[pada](ṣaḍaṃśādūrdhvatastyakttvā) [pada](kakudbhāge) [pada](ca) [pada](lakṣaṇam)
+[six-part-above](ṣaḍaṃśādūrdhvataḥ) [abandoning](tyakttvā) [hump-part](kakudbhāge) [and](ca) [mark](lakṣaṇam)
+
 ## mukta-m0-p65-v1622
-[pada](āgho) [pada](vihāya) [pada](bhāgau) [pada](dvau) [pada](melakaṃ) [pada](syāttayoḥ) [pada](sadā)
+[āgho](āgho) [leaving](vihāya) [two-parts](bhāgau) [dvau] [union](melakaṃ) [would-be](syāt) [those](tayoḥ) [always](sadā)
+
 ## mukta-m0-p65-v1623
-[pada](pūjābhāge) [pada](vikārāṃśe) [pada](rekhādhaḥ) [pada](saptavarjite)
+[worship-part](pūjābhāge) [distortion-part](vikārāṃśe) [line-below](rekhādhaḥ) [seven-excluded](saptavarjite)
+
 ## mukta-m0-p65-v1624
-[pada](yasyottare) [pada]('bjikākārā) [pada](saṅgati) [pada](pṛṣṭhamadhyataḥ)
+[whose](yasyottare) [lotus-shaped](abjikākārā) [union](saṅgati) [back-middle](pṛṣṭhamadhyataḥ)
+
 ## mukta-m0-p65-v1625
-[pada](pakṣasūtre) [pada](paraṃ) [pada](kāryaṃ) [pada](tadadho) [pada](lambanaṃ) [pada](haret)
+[side-thread](pakṣasūtre) [supreme](paraṃ) [work](kāryaṃ) [that-below](tadadho) [pendant](lambanaṃ) [removes](haret)
