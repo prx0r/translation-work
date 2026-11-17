@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p224-v5576
-[enemy+family](ripukulaṃ) [known+command](jñātājñā) [is-destroyed](vinaśyati)
+[enemy-clan](ripukulaṃ) [known-unknown-perishes](jñātājñāvinaśyati)
 
 ## mukta-m0-p224-v5577
-[people](prajā) [and](ca) [enemy](śatrur) [by-fever](jvareṇa) [is-tormented](paripīḍyate)
+[should-recite](prajapecchatrurjvareṇa) [is-afflicted](paripīḍyate)
 
 ## mukta-m0-p224-v5578
-[son+wife+horse+elephant+and-so-on](putrakalatrāśvagajatādyaṃ) [is-destroyed](vinayaśyati)
+[son-wife-horse-elephant-etc](putrakalatrāśvagajatādyaṃ) [is-subdued](vinayaśyati)
 
 ## mukta-m0-p224-v5579
-[of-god+devotees](devabhaktānāṃ) [ever](jātu) [should-do](kuryāt) [not](na) [displeasure](vipriyam)
+[of-devotees](devabhaktānāṃ) [ever](jātu) [would-do](kuryānna) [displeasure](vipriyam)
 
 ## mukta-m0-p224-v5580
-[prescribed](uddiṣṭaṃ) [application](niyogaḥ) [of-this](asya) [in-enemy+destruction](arināśane)
+[declared](uddiṣṭaṃ) [ordinance-his](niyogosyārināśane)
 
 ## mukta-m0-p224-v5581
-[stands](tiṣṭhati) [in-rite](kṛtye) [wolf](vṛko) [or](vā) [hostile](vimato) [from-house](gṛhāt)
+[stands](tiṣṭhati) [in-rite](kṛtye) [wolf](vṛko) [or](vā) [excluded](vimato) [from-house](gṛhāt)
 
 ## mukta-m0-p224-v5582
-[and](ca) [of-this](asya) [application](niyogaḥ) [for-enemy+flight](aripalāyane)
+[and-his](cāsya) [ordinance](niyogo'ripalāyane)
 
 ## mukta-m0-p224-v5583
-[enemies](śatrūn) [indeed](eva) [strike](abhino) [know](jñehi) [as-thunderbolt](aśaniḥ) [divine+tree](divyāvṛkṣam) [like](iva)
+[enemies-indeed](śatrūnevābhinojñehi) [divine-tree-like-thunderbolt](divyāvṛkṣamivāśaniḥ)
 
 ## mukta-m0-p224-v5584
-[of-elephants+goats+horses+and-so-on](gajā'jaturagādīnāṃ) [application](niyogaḥ) [in-enemy+delusion](ripumohane)
+[of-elephant-horse-etc](gajā'jaturagādīnāṃ) [ordinance](niyogo) [in-enemy-delusion](ripumohane)
 
 ## mukta-m0-p224-v5585
-[behind](paścāt) [bearing](bhara) [to-the-north](uttarato) [in-house](gṛhe)
+[afterwards-bhara](paścādbhara) [from-north](uttarato) [in-house](gṛhe)
 
 ## mukta-m0-p224-v5586
-[application](niyogaḥ) [but](tu) [of-enemies](ripūṇāṃ) [for-terrifying](trāsanāya) [and](ca)
+[ordinance-indeed](niyogastu) [of-enemies](ripūṇāṃ) [for-terrifying](trāsanāya) [and](ca)
 
 ## mukta-m0-p224-v5587
-[deer+enemy](mṛgoriḥ) [eastern+conditions](prāṃtatvāni) [to-do](kartum) [is-fit](arhati)
+[deer-etc](mṛgoriḥ) [boundary-states](prāṃtatvāni) [to-do](kartumarhati)
 
 ## mukta-m0-p224-v5588
-[beginning](samārabhya) [until](yāvat) [bright+eighth-day](śuklāṣṭamī) [may-be](bhavet)
+[beginning](samārabhya) [until-bright-eighth](yāvacchuklāṣṭamī) [may-be](bhavet)
 
 ## mukta-m0-p224-v5589
-[rites+and-so-on](kṛtyādīn) [of-horses](hayānāṃ) [of-elephants](hastinām) [also](api)
+[rites-etc](kṛtyādīnhayānāṃ) [of-elephants](hastināmapi)
 
 ## mukta-m0-p224-v5590
-[one-should-chant](japet) [not](na) [may-perish](aśyet) [enemy](ariḥ) [of-him](tasya) [protected](rakṣitaḥ) [by-Lord](īśvareṇa) [even-if](cet)
+[should-recite](japennaśyedaristasya) [protected-even-by-lord](rakṣitopīśvareṇa) [if](cet)
 
 ## mukta-m0-p224-v5591
-[twenty+days+limit](viṃśaddināvadhi) [likewise](tathā) [of-enemy](ripoḥ)
+[twenty-days-limit](viṃśaddināvadhi) [thus](tathā) [of-enemy](ripoḥ)
 
 ## mukta-m0-p224-v5592
-[should-be-done](kartavyā) [with-Rudra+installation+attention](rudranyāsāvadhānataḥ)
+[should-be-done](kartavyā) [rudra-nyasa](rudranyāsāvadhānataḥ)
 
 ## mukta-m0-p224-v5593
-[of-cities+and-so-on](purādīnāṃ) [application](niyogaḥ) [of-this](asya) [may-be](bhavet) [likewise](tathā)
+[of-city-etc](purādīnāṃ) [ordinance-his](niyogosya) [may-be-thus](bhavettathā)
 
 ## mukta-m0-p224-v5594
-[accept](pratigṛhṇasva) [for-protection](pramādāya) [indeed](hi) [and](ca) [wonderful](adbhutam)
+[receive](pratigṛhṇasva) [for-negligence](pramādāya) [indeed](hi) [wonder](cādbhutam)
 
 ## mukta-m0-p224-v5595
-[of-king+and-so-on](rājādeḥ) [for-anger+pacification](kopaśāntyai) [application](niyojanam)
+[of-king-etc](rājādeḥ) [for-anger-pacification](kopaśāntyai) [appointment](niyojanam)
 
 ## mukta-m0-p224-v5596
-[Rudra](rudraḥ) [and](ca) [Tvaṣṭṛ](tvaṣṭā) [and](ca) [indeed](eva) [Prajāpati](prajāpatiḥ)
+[rudra-and](rudraśca) [tvashta-and-indeed](tvaṣṭā) [prajapati](caiva prajāpatiḥ)
 
 ## mukta-m0-p224-v5597
-[application](niyogaḥ) [but](tu) [quickly](tvaritaṃ) [in-disease+destruction](roganāśane)
+[ordinance-indeed](niyogastu) [quickly](tvaritaṃ) [in-disease-destruction](roganāśane)
 
 ## mukta-m0-p224-v5598
-[day+nights](ahorātrāḥ) [likewise](tathā) [years](abdāḥ) [and](ca) [directions](diśaḥ) [intermediate-directions](pratidiśaḥ) [and](ca) [my](me)
+[days-nights-and-years](ahorātrāstathābdāśca) [directions](diśaḥ) [sub-directions](pratidiśaśca) [to-me](me)
 
 ## mukta-m0-p224-v5599
-[cattle](paśūn) [and](ca) [indeed](eva) [and](ca) [you-produce](utpādayasi) [and](ca) [wonderful](adbhutam)
+[cattle-and-indeed](paśūṃścaiva) [produce](cotpādayasi) [wonder](cādbhutam)
 
 ## mukta-m0-p224-v5600
-[of-anyone](kasyāpi) [for-protection+purpose](rakṣaṇārtham) [declared](udāhṛtam)
+[of-someone](kasyāpi) [for-protection](rakṣaṇārthamudāhṛtam)

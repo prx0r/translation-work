@@ -8,15 +8,11 @@
 "tokens": [
 {
 "surface": "ripukulaṃ",
-"quick_gloss": "enemy+family"
+"quick_gloss": "enemy-clan"
 },
 {
-"surface": "jñātājñā",
-"quick_gloss": "known+command"
-},
-{
-"surface": "vinaśyati",
-"quick_gloss": "is-destroyed"
+"surface": "jñātājñāvinaśyati",
+"quick_gloss": "known-unknown-perishes"
 }
 ]
 },
@@ -28,24 +24,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "prajā",
-"quick_gloss": "people"
-},
-{
-"surface": "ca",
-"quick_gloss": "and"
-},
-{
-"surface": "śatrur",
-"quick_gloss": "enemy"
-},
-{
-"surface": "jvareṇa",
-"quick_gloss": "by-fever"
+"surface": "prajapecchatrurjvareṇa",
+"quick_gloss": "should-recite"
 },
 {
 "surface": "paripīḍyate",
-"quick_gloss": "is-tormented"
+"quick_gloss": "is-afflicted"
 }
 ]
 },
@@ -58,11 +42,11 @@
 "tokens": [
 {
 "surface": "putrakalatrāśvagajatādyaṃ",
-"quick_gloss": "son+wife+horse+elephant+and-so-on"
+"quick_gloss": "son-wife-horse-elephant-etc"
 },
 {
 "surface": "vinayaśyati",
-"quick_gloss": "is-destroyed"
+"quick_gloss": "is-subdued"
 }
 ]
 },
@@ -75,19 +59,15 @@
 "tokens": [
 {
 "surface": "devabhaktānāṃ",
-"quick_gloss": "of-god+devotees"
+"quick_gloss": "of-devotees"
 },
 {
 "surface": "jātu",
 "quick_gloss": "ever"
 },
 {
-"surface": "kuryāt",
-"quick_gloss": "should-do"
-},
-{
-"surface": "na",
-"quick_gloss": "not"
+"surface": "kuryānna",
+"quick_gloss": "would-do"
 },
 {
 "surface": "vipriyam",
@@ -104,19 +84,11 @@
 "tokens": [
 {
 "surface": "uddiṣṭaṃ",
-"quick_gloss": "prescribed"
+"quick_gloss": "declared"
 },
 {
-"surface": "niyogaḥ",
-"quick_gloss": "application"
-},
-{
-"surface": "asya",
-"quick_gloss": "of-this"
-},
-{
-"surface": "arināśane",
-"quick_gloss": "in-enemy+destruction"
+"surface": "niyogosyārināśane",
+"quick_gloss": "ordinance-his"
 }
 ]
 },
@@ -145,7 +117,7 @@
 },
 {
 "surface": "vimato",
-"quick_gloss": "hostile"
+"quick_gloss": "excluded"
 },
 {
 "surface": "gṛhāt",
@@ -161,20 +133,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "ca",
-"quick_gloss": "and"
+"surface": "cāsya",
+"quick_gloss": "and-his"
 },
 {
-"surface": "asya",
-"quick_gloss": "of-this"
-},
-{
-"surface": "niyogaḥ",
-"quick_gloss": "application"
-},
-{
-"surface": "aripalāyane",
-"quick_gloss": "for-enemy+flight"
+"surface": "niyogo'ripalāyane",
+"quick_gloss": "ordinance"
 }
 ]
 },
@@ -186,32 +150,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "śatrūn",
-"quick_gloss": "enemies"
+"surface": "śatrūnevābhinojñehi",
+"quick_gloss": "enemies-indeed"
 },
 {
-"surface": "eva",
-"quick_gloss": "indeed"
-},
-{
-"surface": "abhino",
-"quick_gloss": "strike"
-},
-{
-"surface": "jñehi",
-"quick_gloss": "know"
-},
-{
-"surface": "aśaniḥ",
-"quick_gloss": "as-thunderbolt"
-},
-{
-"surface": "divyāvṛkṣam",
-"quick_gloss": "divine+tree"
-},
-{
-"surface": "iva",
-"quick_gloss": "like"
+"surface": "divyāvṛkṣamivāśaniḥ",
+"quick_gloss": "divine-tree-like-thunderbolt"
 }
 ]
 },
@@ -224,15 +168,15 @@
 "tokens": [
 {
 "surface": "gajā'jaturagādīnāṃ",
-"quick_gloss": "of-elephants+goats+horses+and-so-on"
+"quick_gloss": "of-elephant-horse-etc"
 },
 {
-"surface": "niyogaḥ",
-"quick_gloss": "application"
+"surface": "niyogo",
+"quick_gloss": "ordinance"
 },
 {
 "surface": "ripumohane",
-"quick_gloss": "in-enemy+delusion"
+"quick_gloss": "in-enemy-delusion"
 }
 ]
 },
@@ -244,16 +188,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "paścāt",
-"quick_gloss": "behind"
-},
-{
-"surface": "bhara",
-"quick_gloss": "bearing"
+"surface": "paścādbhara",
+"quick_gloss": "afterwards-bhara"
 },
 {
 "surface": "uttarato",
-"quick_gloss": "to-the-north"
+"quick_gloss": "from-north"
 },
 {
 "surface": "gṛhe",
@@ -269,12 +209,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "niyogaḥ",
-"quick_gloss": "application"
-},
-{
-"surface": "tu",
-"quick_gloss": "but"
+"surface": "niyogastu",
+"quick_gloss": "ordinance-indeed"
 },
 {
 "surface": "ripūṇāṃ",
@@ -299,19 +235,15 @@
 "tokens": [
 {
 "surface": "mṛgoriḥ",
-"quick_gloss": "deer+enemy"
+"quick_gloss": "deer-etc"
 },
 {
 "surface": "prāṃtatvāni",
-"quick_gloss": "eastern+conditions"
+"quick_gloss": "boundary-states"
 },
 {
-"surface": "kartum",
+"surface": "kartumarhati",
 "quick_gloss": "to-do"
-},
-{
-"surface": "arhati",
-"quick_gloss": "is-fit"
 }
 ]
 },
@@ -327,12 +259,8 @@
 "quick_gloss": "beginning"
 },
 {
-"surface": "yāvat",
-"quick_gloss": "until"
-},
-{
-"surface": "śuklāṣṭamī",
-"quick_gloss": "bright+eighth-day"
+"surface": "yāvacchuklāṣṭamī",
+"quick_gloss": "until-bright-eighth"
 },
 {
 "surface": "bhavet",
@@ -348,20 +276,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "kṛtyādīn",
-"quick_gloss": "rites+and-so-on"
+"surface": "kṛtyādīnhayānāṃ",
+"quick_gloss": "rites-etc"
 },
 {
-"surface": "hayānāṃ",
-"quick_gloss": "of-horses"
-},
-{
-"surface": "hastinām",
+"surface": "hastināmapi",
 "quick_gloss": "of-elephants"
-},
-{
-"surface": "api",
-"quick_gloss": "also"
 }
 ]
 },
@@ -373,36 +293,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "japet",
-"quick_gloss": "one-should-chant"
+"surface": "japennaśyedaristasya",
+"quick_gloss": "should-recite"
 },
 {
-"surface": "na",
-"quick_gloss": "not"
-},
-{
-"surface": "aśyet",
-"quick_gloss": "may-perish"
-},
-{
-"surface": "ariḥ",
-"quick_gloss": "enemy"
-},
-{
-"surface": "tasya",
-"quick_gloss": "of-him"
-},
-{
-"surface": "rakṣitaḥ",
-"quick_gloss": "protected"
-},
-{
-"surface": "īśvareṇa",
-"quick_gloss": "by-Lord"
+"surface": "rakṣitopīśvareṇa",
+"quick_gloss": "protected-even-by-lord"
 },
 {
 "surface": "cet",
-"quick_gloss": "even-if"
+"quick_gloss": "if"
 }
 ]
 },
@@ -415,11 +315,11 @@
 "tokens": [
 {
 "surface": "viṃśaddināvadhi",
-"quick_gloss": "twenty+days+limit"
+"quick_gloss": "twenty-days-limit"
 },
 {
 "surface": "tathā",
-"quick_gloss": "likewise"
+"quick_gloss": "thus"
 },
 {
 "surface": "ripoḥ",
@@ -440,7 +340,7 @@
 },
 {
 "surface": "rudranyāsāvadhānataḥ",
-"quick_gloss": "with-Rudra+installation+attention"
+"quick_gloss": "rudra-nyasa"
 }
 ]
 },
@@ -453,23 +353,15 @@
 "tokens": [
 {
 "surface": "purādīnāṃ",
-"quick_gloss": "of-cities+and-so-on"
+"quick_gloss": "of-city-etc"
 },
 {
-"surface": "niyogaḥ",
-"quick_gloss": "application"
+"surface": "niyogosya",
+"quick_gloss": "ordinance-his"
 },
 {
-"surface": "asya",
-"quick_gloss": "of-this"
-},
-{
-"surface": "bhavet",
-"quick_gloss": "may-be"
-},
-{
-"surface": "tathā",
-"quick_gloss": "likewise"
+"surface": "bhavettathā",
+"quick_gloss": "may-be-thus"
 }
 ]
 },
@@ -482,23 +374,19 @@
 "tokens": [
 {
 "surface": "pratigṛhṇasva",
-"quick_gloss": "accept"
+"quick_gloss": "receive"
 },
 {
 "surface": "pramādāya",
-"quick_gloss": "for-protection"
+"quick_gloss": "for-negligence"
 },
 {
 "surface": "hi",
 "quick_gloss": "indeed"
 },
 {
-"surface": "ca",
-"quick_gloss": "and"
-},
-{
-"surface": "adbhutam",
-"quick_gloss": "wonderful"
+"surface": "cādbhutam",
+"quick_gloss": "wonder"
 }
 ]
 },
@@ -511,15 +399,15 @@
 "tokens": [
 {
 "surface": "rājādeḥ",
-"quick_gloss": "of-king+and-so-on"
+"quick_gloss": "of-king-etc"
 },
 {
 "surface": "kopaśāntyai",
-"quick_gloss": "for-anger+pacification"
+"quick_gloss": "for-anger-pacification"
 },
 {
 "surface": "niyojanam",
-"quick_gloss": "application"
+"quick_gloss": "appointment"
 }
 ]
 },
@@ -531,28 +419,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "rudraḥ",
-"quick_gloss": "Rudra"
-},
-{
-"surface": "ca",
-"quick_gloss": "and"
+"surface": "rudraśca",
+"quick_gloss": "rudra-and"
 },
 {
 "surface": "tvaṣṭā",
-"quick_gloss": "Tvaṣṭṛ"
+"quick_gloss": "tvashta-and-indeed"
 },
 {
-"surface": "ca",
-"quick_gloss": "and"
-},
-{
-"surface": "eva",
-"quick_gloss": "indeed"
-},
-{
-"surface": "prajāpatiḥ",
-"quick_gloss": "Prajāpati"
+"surface": "caiva prajāpatiḥ",
+"quick_gloss": "prajapati"
 }
 ]
 },
@@ -564,12 +440,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "niyogaḥ",
-"quick_gloss": "application"
-},
-{
-"surface": "tu",
-"quick_gloss": "but"
+"surface": "niyogastu",
+"quick_gloss": "ordinance-indeed"
 },
 {
 "surface": "tvaritaṃ",
@@ -577,7 +449,7 @@
 },
 {
 "surface": "roganāśane",
-"quick_gloss": "in-disease+destruction"
+"quick_gloss": "in-disease-destruction"
 }
 ]
 },
@@ -589,36 +461,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "ahorātrāḥ",
-"quick_gloss": "day+nights"
-},
-{
-"surface": "tathā",
-"quick_gloss": "likewise"
-},
-{
-"surface": "abdāḥ",
-"quick_gloss": "years"
-},
-{
-"surface": "ca",
-"quick_gloss": "and"
+"surface": "ahorātrāstathābdāśca",
+"quick_gloss": "days-nights-and-years"
 },
 {
 "surface": "diśaḥ",
 "quick_gloss": "directions"
 },
 {
-"surface": "pratidiśaḥ",
-"quick_gloss": "intermediate-directions"
-},
-{
-"surface": "ca",
-"quick_gloss": "and"
+"surface": "pratidiśaśca",
+"quick_gloss": "sub-directions"
 },
 {
 "surface": "me",
-"quick_gloss": "my"
+"quick_gloss": "to-me"
 }
 ]
 },
@@ -630,32 +486,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "paśūn",
-"quick_gloss": "cattle"
+"surface": "paśūṃścaiva",
+"quick_gloss": "cattle-and-indeed"
 },
 {
-"surface": "ca",
-"quick_gloss": "and"
+"surface": "cotpādayasi",
+"quick_gloss": "produce"
 },
 {
-"surface": "eva",
-"quick_gloss": "indeed"
-},
-{
-"surface": "ca",
-"quick_gloss": "and"
-},
-{
-"surface": "utpādayasi",
-"quick_gloss": "you-produce"
-},
-{
-"surface": "ca",
-"quick_gloss": "and"
-},
-{
-"surface": "adbhutam",
-"quick_gloss": "wonderful"
+"surface": "cādbhutam",
+"quick_gloss": "wonder"
 }
 ]
 },
@@ -668,15 +508,11 @@
 "tokens": [
 {
 "surface": "kasyāpi",
-"quick_gloss": "of-anyone"
+"quick_gloss": "of-someone"
 },
 {
-"surface": "rakṣaṇārtham",
-"quick_gloss": "for-protection+purpose"
-},
-{
-"surface": "udāhṛtam",
-"quick_gloss": "declared"
+"surface": "rakṣaṇārthamudāhṛtam",
+"quick_gloss": "for-protection"
 }
 ]
 }

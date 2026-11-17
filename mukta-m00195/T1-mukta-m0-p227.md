@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p227-v5651
-[of-all](sarveṣām) [above](upari) [thirst/craving](tṛṣṇā) [by-that](tena) [suffering](duḥkhaṃ) [is-born](prajāyate)
+[of-all](sarveṣām) [above](upari) [thirst](tṛṣṇā) [by-that](tena) [suffering](duḥkhaṃ) [arises](prajāyate)
 
 ## mukta-m0-p227-v5652
-[veda](veda) [ritual-action](karma) [devoid-of](vihīnaḥ) [but](tu) [to-be-known](vijñeyaḥ) [brahma-demon](brahmarākṣasaḥ)
+[veda+karma+devoid](vedakarmavihīnaḥ) [but](tu) [to-be-known](vijñeyaḥ) [brahma-rakshasa](brahmarākṣasaḥ)
 
 ## mukta-m0-p227-v5653
-[having-subdued](vaśīkṛtya) [well](su) [one-should-serve](seveta) [night-and-day](niśam) [in-meditation](adhyāya) [intent-on](tatparaḥ)
+[having-subdued](vaśīkṛtya) [well-served](suseveta) [night](aniśam) [study-devoted](adhyāyatatparaḥ)
 
 ## mukta-m0-p227-v5654
-[with-vedic](vaidikaiḥ) [with-mantras](mantraiḥ) [not](na) [of-another](anyasya) [but](tu) [ever](kadācana)
+[vaidic](vaidikaiḥ) [mantras](mantraiḥ) [not-other's](nānyasya) [but](tu) [ever](kadācana)
 
 ## mukta-m0-p227-v5655
-[one-should-make](kuryāt) [hrīṃ-sound](hrīṃkāraṃ) [in-the-pericarp](karṇikā) [situated](sthitam)
+[should-make](kuryāt) [hrīṃ-sound](hrīṃkāraṃ) [in-pericarp-situated](karṇikāsthitam)
 
 ## mukta-m0-p227-v5656
-[at-its-tips](tat) [at-tips](agreṣu) [of-gāyatrī](gāyatrī) [syllables](arṇān) [thrice](triśaḥ) [thrice](triśaḥ)
+[there+in-front](tadagreṣu) [gayatri-letters](gāyatryarṇāṃs) [thrice+thrice](triśastriśaḥ)
 
 ## mukta-m0-p227-v5657
-[beginning-with-ka](kakārādyān) [likewise](tathā) [oṃ](um) [waters](āpaḥ) [light](jyotiḥ) [rasa](rasaḥ) [nectar](amṛtaṃ) [brahman](brahma)
+[kakāra-beginning](kakārādyān) [then](tathā) [om+water+light+nectar+brahman](omāpojyotīrasomṛtaṃ) [brahman](brahma)
 
 ## mukta-m0-p227-v5658
-[or](vā) [having-made](kṛtvā) [in-hand](haste) [but](tu) [one-should-bind](bandhayet)
+[or](vā) [having-made](kṛtvā) [in-hand](haste) [but](tu) [should-bind](bandhayet)
 
 ## mukta-m0-p227-v5659
-[of-sarasvatī](sarasvatyā) [great](mahā) [wonder](adbhutam)
+[of-sarasvati](sarasvatyāḥ) [great-wonder](mahādbhutam)
 
 ## mukta-m0-p227-v5660
-[in-the-middle](madhye) [in-the-six-corners](koṇaṣaṭke) [speech](vāk) [seed](bhavaṃ) [seed-syllable](bījam) [one-should-write](ālikhet)
+[in-middle](madhye) [in-six-corners](koṇaṣaṭke) [vāgbhava-seed](vāgbhavaṃ) [seed](bījam) [should-write](ālikhet)
 
 ## mukta-m0-p227-v5661
-[mantra](mendro) [with-wisdom](medhayā) [may-satisfy](spṛṇotu) [of-immortality](amṛtasya) [god-supporting](devadhāraṇo) [may-I-become](bhūyāsam)
+[mendra](mendraḥ) [by-intelligence](medhayā) [may-satisfy](spṛṇotu) [of-nectar](amṛtasya) [god-sustainer](devadhāraṇaḥ) [may-I-become](bhūyāsam)
 
 ## mukta-m0-p227-v5662
-[mantra](mantra) [syllables](varṇān) [or](vā) [outside](bahiḥ) [circle](vṛtra) [fourfold](catuṣṭayam)
+[mantra-letters](mantravarṇān) [or](vā) [outer-vṛtra-fourfold](bahirvṛtracatuṣṭayam)
 
 ## mukta-m0-p227-v5663
-[outer](bahiḥ) [circle](vṛtraṃ) [with-mātṛkā](mātṛkā) [syllables](arṇaiḥ) [one-should-fill](prapūrayet)
+[outer-vṛtra](bahirvṛtram) [with-mātṛkā-letters](mātṛkārṇaiḥ) [should-fill](prapūrayet)
 
 ## mukta-m0-p227-v5664
-[desire](kāmam) [intention](ākūtiṃ) [of-speech](vācaḥ) [truth](satyam) [we-may-attain](asīmahi)
+[desire](kāmam) [intention](ākūtim) [speech](vācaḥ) [truth](satyam) [may-we-be](asīmahi)
 
 ## mukta-m0-p227-v5665
-[unites](saṃyunakti)
+[joins](saṃyunakti)
 
 ## mukta-m0-p227-v5666
-[aiṃ](aiṃ) [klīṃ](klīṃ) [sauṃ](sauṃ) [hrīṃ](hrīṃ) [and](ca) [seed-syllables](bījāni) [on-cloth](paṭa) [gold](svarṇa) [etc.](ādi) [made-of](nirmite)
+[aiṃ+klīṃ+sauṃ+hrīṃ](aiṃklīṃsauṃhrīṃ) [and](ca) [seeds](bījāni) [in-cloth+gold+etc-made](paṭasvarṇādinirmite)
 
 ## mukta-m0-p227-v5667
-[retention-of-hearing](śrutidhārā) [and](ca) [free-from-disease](nīrogaḥ) [and](ca) [pleasant-speaking](priyaṃvadaḥ)
+[stream-of-vedas](śrutidhārā) [and](ca) [disease-free](nīrogaḥ) [and](ca) [pleasant-speaker](priyaṃvadaḥ)
 
 ## mukta-m0-p227-v5668
-[all-knowing](sarvajñaḥ) [you](tu) [by-practice](abhyāsaḥ) [becomes](bhavati) [certainly](dhruvam)
+[all-knowing](sarvajñaḥ) [but](tu) [practice](abhyāsaḥ) [becomes](bhavati) [certainly](dhruvam)
 
 ## mukta-m0-p227-v5669
-[having-drawn](ālikhya) [eight-petaled](aṣṭadalaṃ) [lotus](padmaṃ) [oṃ-syllable](tāraṃ) [in-its-pericarp](tat) [within-pericarp](karṇikāntare)
+[having-drawn](ālikhya) [eight-petaled](aṣṭadalam) [lotus](padmam) [tāra](tāram) [in-its-pericarp](tatkarṇikāntare)
 
 ## mukta-m0-p227-v5670
-[in-the-filaments](keśareṣu) [in-the-necks](galeṣu) [of-tryambaka](tryambaka) [syllables](akṣarān)
+[in-filaments](keśareṣu) [in-throats](galeṣu) [tryambaka-letters](tryambakākṣarān)
 
 ## mukta-m0-p227-v5671
-[to-be-spoken](vakṣyamāṇa) [verse](āmṛcaṃ) [practitioner](sādhyaḥ) [name](nāma) [syllable](varṇa) [adorned-with](vibhūṣitām)
+[to-be-spoken](vakṣyamāṇām) [ṛc](ṛcam) [accomplisher](sādhyaḥ) [name-letter-adorned](nāmavarṇavibhūṣitām)
 
 ## mukta-m0-p227-v5672
-[sage](muniḥ) [gṛtsamada](gṛtsamadaḥ) [triṣṭubh](triṣṭup) [meter](chandaḥ) [rudra](rudraḥ) [but](tu) [deity](devatā)
+[sage](muniḥ) [gṛtsamada](gṛtsamadaḥ) [triṣṭubh-meter](triṣṭupchandaḥ) [rudra](rudraḥ) [but](tu) [deity](devatā)
 
 ## mukta-m0-p227-v5673
 [I-hear](śṛṇomi)
 
 ## mukta-m0-p227-v5674
-[this](etat) [three-eyed](traiyambakaṃ) [diagram](yantraṃ) [to-be-kept-secret](gopanīyaṃ) [with-effort](prayatnataḥ)
+[this](etat) [traiyambaka](traiyambakam) [yantra](yantram) [to-be-concealed](gopanīyam) [with-effort](prayatnataḥ)
 
 ## mukta-m0-p227-v5675
-[longevity](āyuḥ) [health](ārogya) [good-fortune](saubhāgya) [dharma](dharma) [wealth](artha) [happiness](sukha) [liberation](mokṣa) [giving](dam)
+[life+health+prosperity+dharma+wealth+happiness+liberation-giving](āyurārogyasaubhāgyadharmārthasukhamokṣadam)

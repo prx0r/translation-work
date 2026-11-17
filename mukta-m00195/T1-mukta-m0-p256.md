@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p256-v6376
-[of-them](teṣām) [from-middle](madhyāt) [arisen](samudbhūtam) [my](mama) [liṅga](liṅgaṃ) [with-face](mukha+ānvitam)
+[of-them](teṣām) [from-middle](madhyāt) [arisen](samudbhūtam) [my](mama) [linga](liṅgam) [with-faces](mukhānvitam)
 
 ## mukta-m0-p256-v6377
-[of-path](mārgasya) [this](ayaṃ) [transgression](vyatikramaḥ)
+[of-path](mārgasya) [this](ayam) [transgression](vyatikramaḥ)
 
 ## mukta-m0-p256-v6378
-[than-gaṅgā-water](gaṅgā+jalāt) [even](api) [more](adhikam) [purifying](pāvanam) [cause](kāraṇam) [indeed](tu) [this](idam)
+[than-ganga-water](gaṅgājalāt) [even-more](apyadhikam) [purifying](pāvanaṃ) [cause](kāraṇaṃ) [but-this](tvidam)
 
 ## mukta-m0-p256-v6379
-[we](vayaṃ) [give](dadma) [for-deliverance](uddhāra+artham) [of-three-births](tri+janmanām)
+[we](vayaṃ) [give](dadma) [for-deliverance](uddhārārthaṃ) [of-three-births](trijanmanām)
 
 ## mukta-m0-p256-v6380
-[fish](matsyāḥ) [to-them](tān) [to-these](ebhyaḥ) [to-give](dātum) [prepared](udyatāḥ)
+[fishes](matsyāḥ) [to-them](tānebhyaḥ) [to-give](dātum) [ready](udyatāḥ)
 
 ## mukta-m0-p256-v6381
-[by-you](tvayā) [o-god](deva) [by-viṣṇu](viṣṇunā) [in-heart](hṛdaye) [made](kṛtā)
+[by-you](tvayā) [god](deva) [by-vishnu](viṣṇunā) [in-heart](hṛdaye) [done](kṛtā)
 
 ## mukta-m0-p256-v6382
-[compassionate](kāruṇikāḥ) [o-dear](tāta) [indeed](hi) [to-these](etebhyaḥ) [to-give](dātum) [prepared](udyatāḥ)
+[compassionate-ones](kāruṇikāḥ) [father](tāta) [indeed](hi) [to-these](etebhyaḥ) [to-give](dātum) [ready](udyatāḥ)
 
 ## mukta-m0-p256-v6383
-[six-fragrances](ṣaṭ+su+gandhāḥ) [six-tastes](ṣaḍ+rasāḥ) [and](ca) [seals](mudrāḥ) [to-give](dātum) [prepared](samudyatāḥ)
+[six-fragrances](ṣaṭsugandhāḥ) [six-tastes](ṣaḍrasāḥ) [ca](ca) [seals](mudrā) [to-give](dātuṃ) [fully-ready](samudyatāḥ)
 
 ## mukta-m0-p256-v6384
-[in-gold-vessel](svarṇa+pātra+stha) [supreme](paramam) [food](annam) [having-abandoned](hitvā) [grass-eaters](tṛṇa+aśinaḥ)
+[golden-vessel-placed-supreme-food](svarṇapātrasthaparamamannaṃ) [abandoning](hitvā) [grass-eaters](tṛṇāśinaḥ)
 
 ## mukta-m0-p256-v6385
-[my-word](mat+vacaḥ) [o-heroes](vīrāḥ) [with-compassion-for-all-beings](sarva+prāṇi+kṛpā+yutam)
+[my-word](madvacaḥ) [heroes](vīrāḥ) [all-creatures-compassion-filled](sarvaprāṇikṛpāyutam)
 
 ## mukta-m0-p256-v6386
-[from-very-low-wombs](ati+kṣudra+ādi+yonīnām) [one-in-ten](daśasva+ekaḥ) [is-born](prajāyate)
+[very-low-wombs](atikṣudrādiyonīnām) [of-ten](daśasu) [one](ekaḥ) [is-born](prajāyate)
 
 ## mukta-m0-p256-v6387
-[of-condura-and-others](condura+ādīnām) [cat-and-others](viḍāla+ādiḥ) [is-born](prajāyate)
+[of-condura-etc](condurādīnāṃ) [of-cat-etc](viḍālādiḥ) [is-born](prajāyate)
 
 ## mukta-m0-p256-v6388
-[someone](kaścit) [among-deer-species](mṛga+jātiṣu) [is-born](jāyate)
+[someone](kaścit) [in-deer-species](mṛgajātiṣu) [is-born](jāyate)
 
 ## mukta-m0-p256-v6389
-[someone](kaścit) [donkey](kharaḥ) [or](vā) [camel](karabhaḥ) [may-be](bhavet)
+[someone](kaścit) [donkey](kharo) [or](vā) [camel](karabho) [becomes](bhavet)
 
 ## mukta-m0-p256-v6390
-[someone](kaścit) [man](naraḥ) [or](vā) [elephant](kuñjaraḥ) [may-be](bhavet)
+[someone](kaścit) [man](naro) [or](vā) [elephant](kuñjaro) [becomes](bhavet)
 
 ## mukta-m0-p256-v6391
-[among-humans](manuṣyāṇām) [from-middle](madhyāt) [one](ekaḥ) [is-born](prajāyate)
+[of-humans](manuṣyāṇām) [among](madhyāt) [one](ekaḥ) [is-born](prajāyate)
 
 ## mukta-m0-p256-v6392
-[but](tu) [someone](kaścit) [of-class](varṇaḥ) [is-born](prajāyate)
+[but](tu) [someone](kaścit) [varna](varṇaḥ) [is-born](prajāyate)
 
 ## mukta-m0-p256-v6393
-[someone](kaścit) [may-obtain](prāpnuyāt) [twice-born-status](dvijatām) [man](naraḥ)
+[someone](kaścit) [attains](prāpnuyāt) [brahminhood](dvijatāṃ) [man](naraḥ)
 
 ## mukta-m0-p256-v6394
-[someone](kaścit) [devoted-to-ritual-action](karma+niṣṭhaḥ) [is-born](prajāyate)
+[someone](kaścit) [action-devoted](karmaniṣṭhaḥ) [is-born](prajāyate)
 
 ## mukta-m0-p256-v6395
-[someone](kaścit) [yogin](yogī) [becomes](bhavati) [child](bālakaḥ)
+[someone](kaścit) [yogi](yogī) [becomes](bhavati) [child](bālakaḥ)
 
 ## mukta-m0-p256-v6396
-[someone](kaścit) [liberated](muktaḥ) [becomes](bhavati) [or](vā) [not](na) [or](vā)
+[someone](kaścit) [liberated](mukto) [becomes](bhavati) [or](vā) [not](na) [or](vā)
 
 ## mukta-m0-p256-v6397
-[destruction-of-brahma's-creation](brahma+sṛṣṭi+vināśaḥ) [and](ca) [very-quickly](tūrṇam+eva) [will-be](bhaviṣyati)
+[brahma-creation-destruction](brahmasṛṣṭivināśaḥ) [ca](ca) [quickly](tūrṇam) [eva](eva) [will-be](bhaviṣyati)
 
 ## mukta-m0-p256-v6398
-[each-other](anyonyañ) [they-struck](jaghnuḥ) [with-might](ojasā)
+[one-another](anyonyam) [struck](jaghnuḥ) [with-strength](ojasā)
 
 ## mukta-m0-p256-v6399
-[to-supreme-hell](nirayam+paramam) [gone](gatāḥ)
+[to-hell](nirayam) [supreme](paramaṃ) [gone](gatāḥ)
 
 ## mukta-m0-p256-v6400
-[by-delighted](pramuditaiḥ) [by-brahmins](vipraiḥ) [asked](yācitaḥ) [this](ayam) [boon](varaḥ) [then](tadā)
+[rejoicing](pramuditaiḥ) [by-brahmins](vipraiḥ) [requested](yācito) [ayaṃ](ayaṃ) [boon](varaḥ) [then](tadā)

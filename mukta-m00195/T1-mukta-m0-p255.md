@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p255-v6351
-[with-root](mūlena) [separated](antaritāḥ) [and](ca) [indeed](eva) [groups-of-four](catuṣkāḥ) [jina-numbered](jina+saṃkhyakāḥ)
+[by-root](mūlena) [hidden](antaritāḥ) [and](ca) [indeed](eva) [four](catuṣkāḥ) [jina-counted](jinasaṃkhyakāḥ)
 
 ## mukta-m0-p255-v6352
-[vasundharā-and-śaṅkha](vasundharā+śaṃkhau) [to-be-offered](tarpaṇīyau) [and](ca) [as-before](pūrva+vat)
+[earth-conch](vasundharāśaṃkhau) [worthy-of-offering](tarpaṇīyau) [and](ca) [as-before](pūrvavat)
 
 ## mukta-m0-p255-v6353
-[of-padma-and-nidhi](padma+nidhyoḥ) [seed](bījam) [but](tu) [in-offering](tarpaṇe)
+[lotus-treasure's](padmanidhyoḥ) [seed](bījam) [indeed](tu) [in-offering](tarpaṇe)
 
 ## mukta-m0-p255-v6354
-[veda-veda-ocean-numbered](veda+veda+abdhi+saṃkhyakāḥ) [offering-sequences](tarpaṇa+kramāḥ)
+[veda-veda-ocean-counted](vedavedābdhisaṃkhyakāḥ) [offering-sequences](tarpaṇakramāḥ)
 
 ## mukta-m0-p255-v6355
-[own-seed-beginning](sva+bīja+ādi) [svāhā-ending](svāhā+antāni) [in-pairs](yugmāni) [thus](evam) [one-should-offer](pratarpayet)
+[own-seed](svabīja) [etc](ādi) [svaha-ended](svāhāntāni) [pairs](yugmāni) [thus](evam) [one-should-offer](pratarpayet)
 
 ## mukta-m0-p255-v6356
-[light-offering](laghu+tarpaṇam) [declared](īritam)
+[light-offering](laghutarpaṇam) [declared](īritam)
 
 ## mukta-m0-p255-v6357
-[six-gaṇeśas](ṣaṭ+gaṇeśān) [nidhi-pair](nidhi+yugam) [thus](evam) [this](etat) [thirteen](trayodaśa)
+[six-ganesha](ṣaḍgaṇeśān) [treasure-pair](nidhiyugam) [thus](evam) [this](etat) [thirteen](trayodaśa)
 
 ## mukta-m0-p255-v6358
-[two-hundred](dvi+śatam) [and](ca) [eight-more](aṣṭa+adhikam) [at-beginning-and-end](ādi+antayoḥ) [likewise](tathā)
+[two-hundred](dviśatam) [and](ca) [eight-excess](aṣṭādhikam) [beginning-end](ādyantayoḥ) [likewise](tathā)
 
 ## mukta-m0-p255-v6359
-[offering](tarpaṇam) [middle](madhyamam) [and](ca) [this](etat) [of-mahāgaṇapati](mahā+gaṇapateḥ) [opinion](matam)
+[offering](tarpaṇam) [middle](madhyamam) [and](ca) [this](etat) [great-ganapati's](mahāgaṇapateḥ) [opinion](matam)
 
 ## mukta-m0-p255-v6360
-[of-root-mantra](mūla+mantrasya) [and](ca) [with-each-one](eka+ikena) [syllable](akṣareṇa) [and](ca)
+[root-mantra's](mūlamantrasya) [and](ca) [one-by-one](ekaikena) [syllable](akṣareṇa) [and](ca)
 
 ## mukta-m0-p255-v6361
-[elephant-aśvinī-equal](gaja+aśvineya+tulyam) [that](tat) [arises](jāyate) [and](ca) [then](tataḥ) [after](param)
+[elephant-horse-comparable](gajāśvineyatulyam) [end](antam) [arises](jāyate) [and](ca) [thereafter](tataḥ) [supreme](param)
 
 ## mukta-m0-p255-v6362
-[one-should-offer](tarpayet) [to-god](devam) [for-liberation](mokṣa+artham) [with-pure-waters](śuddha+vāribhiḥ)
+[one-should-offer](tarpayed) [god](devam) [for-liberation](mokṣārtham) [with-pure-waters](śuddhavāribhiḥ)
 
 ## mukta-m0-p255-v6363
-[with-honey](madhunā) [for-desire](kāma+artham) [one-should-offer](tarpayet) [to-lord](vibhum)
+[with-honey](madhunā) [for-desire](kāmārtham) [one-should-offer](tarpayed) [lord](vibhum)
 
 ## mukta-m0-p255-v6364
-[for-royal-subjugation](rāja+vaśyāya) [to-god](devam) [on-back](pṛṣṭhe) [one-should-offer](pratarpayet)
+[for-king-subjugation](rājavaśyāya) [god](devam) [on-back](pṛṣṭhe) [one-should-offer](pratarpayet)
 
 ## mukta-m0-p255-v6365
-[for-increase-of-affection](prīteḥ+vivṛddhyai) [on-shoulder](skandhe) [indeed](tu) [with-milk](payobhiḥ) [one-should-offer](tarpayet) [to-lord](vibhum)
+[for-joy-increase](prītervivṛddhyai) [on-shoulder](skandhe) [indeed](tu) [with-milks](payobhiḥ) [one-should-offer](tarpayed) [lord](vibhum)
 
 ## mukta-m0-p255-v6366
-[arises](jāyate) [not](na) [here](atra) [doubt](saṃśayaḥ)
+[arises](jāyate) [not-here](nātra) [doubt](saṃśayaḥ)
 
 ## mukta-m0-p255-v6367
-[path](mārgam) [dear-to-kali-yuga](kali+yuga+priyam)
+[path](mārgam) [kali-age-dear](kaliyugapriyam)
 
 ## mukta-m0-p255-v6368
-[by-people](lokaiḥ) [own-dharma](sva+sva+dharmaḥ) [censured](vigarhitaḥ)
+[by-people](lokaiḥ) [own-own-duty](svasvadharmo) [despised](vigarhitaḥ)
 
 ## mukta-m0-p255-v6369
-[hunger-afflicted](kṣudhā+āturaḥ) [but](tu) [on-ground](bhūmi+stham) [having-placed](dūrī+kṛtya) [kaśeruka](kaśerukam)
+[hunger-afflicted](kṣudhāturaḥ) [indeed](tu) [earth-standing](bhūmiṣṭhaḥ) [removing](dūrīkṛtya) [reed](kaśerukam)
 
 ## mukta-m0-p255-v6370
-[dharma](dharmaḥ) [at-left-end](vāma+ante) [kaulika-etc](kaulika+ādikaḥ)
+[duty](dharmo) [left-side](vāmānte) [kaulika-etc](kaulikādikaḥ)
 
 ## mukta-m0-p255-v6371
-[residence](vasatiḥ) [made](kṛtā) [by-favor-of-son](putra+prasādataḥ)
+[dwelling](vasatiḥ) [made](kṛtā) [son's-grace](putraprasādataḥ)
 
 ## mukta-m0-p255-v6372
-[for-desire-of-entering-kāśī](kāśī+praveśa+kāma+artham) [they](te) [satisfied](santoṣitāḥ) [by-others](paraiḥ)
+[for-kashi-entry](kāśīpraveśa) [desire](kāmārtham) [those](te) [satisfied](santoṣitāḥ) [by-others](paraiḥ)
 
 ## mukta-m0-p255-v6373
-[given](dattam) [in-tantras](tantreṣu) [taught](pratipāditam)
+[given](dattam) [in-tantras](tantreṣu) [established](pratipāditam)
 
 ## mukta-m0-p255-v6374
-[in-veda-path](veda+mārge) [than-prescribed](vihitāt) [and](ca) [twice-born](dvijātayaḥ)
+[veda-path](vedamārge) [ordained](vihitāt) [and](ca) [twice-born](dvijātayaḥ)
 
 ## mukta-m0-p255-v6375
-[by-them](taiḥ) [having-rushed](abhidrutya) [for-destruction-of-dharma](dharma+lopa+artham) [undertaken](udyatam)
+[by-them](taiḥ) [rushing](abhidrutya) [duty-loss](dharmalopa) [purpose](artham) [undertaken](udyatam)

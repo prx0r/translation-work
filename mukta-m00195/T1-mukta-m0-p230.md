@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p230-v5726
-afterwards(paścāt) that+(instrument)(tad)yantram(nikhaned) should-bury(nikhaned) on-earth(bhuvi)
+[afterwards](paścāt) [that+yantra](tadyantraṃ) [should-bury](nikhanet) [in-earth](bhuvi)
 
 ## mukta-m0-p230-v5727
-of-constellations+(planets)+(zodiac-signs)(nakṣatragraharāśīnāṃ) of-world-lords(lokeśānāṃ) offering(baliṃ) should-offer(haret)
+[of-stars+planets+signs](nakṣatragraharāśīnāṃ) [of-world-lords](lokeśānāṃ) [offering](baliṃ) [should-take](haret)
 
 ## mukta-m0-p230-v5728
-by-rule(vidhinā) not(na) here(atra) doubt(saṃśayaḥ)
+[by-rite](vidhinā) [not](na) [here](atra) [doubt](saṃśayaḥ)
 
 ## mukta-m0-p230-v5729
-to-be-done(kartavyam) otherwise(anyathā) sorrow-giving(duḥkhadaṃ) would-be(bhavet)
+[should-be-done](kartavyam) [otherwise](anyathā) [pain-giving](duḥkhadaṃ) [becomes](bhavet)
 
 ## mukta-m0-p230-v5730
-indicated(samuddiṣṭāḥ) of-them(teṣāṃ) yantra(yantraṃ) I-speak(vadāmi) I(aham)
+[described](samuddiṣṭāḥ) [of-them](teṣāṃ) [yantra](yantraṃ) [I-speak](vadāmyaham)
 
 ## mukta-m0-p230-v5731
-clockwise(prādakṣiṇyena) outside-that(tadbāhye) in-the-interval-of-two-circles(vṛttayugmāntare) should-write(likhet)
+[clockwise](prādakṣiṇyena) [in-its-outside](tadbāhye) [between-two-circles](vṛttayugmāntare) [should-draw](likhet)
 
 ## mukta-m0-p230-v5732
-earth-moving-weapon(bhuvicāstram) this(idam) yantra(yantraṃ) spirit+(disease)-removing(bhūtaroganivāraṇam)
+[earth+weapon](bhuvicāstram) [this](idaṃ) [yantra](yantraṃ) [demon+disease+removing](bhūtaroganivāraṇam)
 
 ## mukta-m0-p230-v5733
-one-should-wear(dhārayed) on-arm-root(bāhumūle) and(ca) on-neck(kaṇṭhe) or(vā) on-head(mastake) also(api) or(vā)
+[should-wear](dhārayet) [at-arm-root](bāhumūle) [and](ca) [at-throat](kaṇṭhe) [or](vā) [at-head-even](mastakepi) [or](vā)
 
 ## mukta-m0-p230-v5734
-all-purpose-giving(sarvārthadaṃ) there(tatra) lotus(padmam) eight-petaled(aṣṭadalaṃ) should-write(likhet)
+[all+purpose+giving](sarvārthadaṃ) [there](tatra) [lotus](padmam) [eight+petaled](aṣṭadalaṃ) [should-draw](likhet)
 
 ## mukta-m0-p230-v5735
-of-Śiva-five-syllable(śivapañcākṣarasya) indeed(tu)
+[of-Shiva+five+syllables](śivapañcākṣarasya) [but](tu)
 
 ## mukta-m0-p230-v5736
-of-Jātavedas-mantra(jātavedasamantrasya) first-half(pūrvārdham) indeed(tu) in-second(dvitīyake)
+[of-Jataveda+mantra](jātavedasamantrasya) [first-half+but](pūrvārdhantu) [in-second](dvitīyake)
 
 ## mukta-m0-p230-v5737
-ṭham(ṭhaṃ) cam(caṃ) kam(kaṃ) sam(sam) iti(iti) hyaum(hyauṃ) yam(yaṃ) mam(maṃ) then(tataḥ) pacam(pacam)
+[ṭhaṃ](ṭhaṃ) [caṃ](caṃ) [kaṃ](kaṃ) [samiti](samiti) [hyauṃ](hyauṃ) [yaṃ](yaṃ) [maṃ](maṃ) [then](tataḥ) [fifth](pacam)
 
 ## mukta-m0-p230-v5738
-ya(ya) iti(iti) sam(saṃ) kaṇṭham(kaṇṭhaṃ) tāra(tāro) māyā(māyā) dhruva(dhruvaḥ) likewise(tathā)
+[yeti](yeti) [saṃ](saṃ) [kaṇṭhaṃ](kaṇṭhaṃ) [tāro](tāro) [māyā](māyā) [fixed+thus](dhruvastathā)
 
 ## mukta-m0-p230-v5739
-of-Tryambaka(tryambakasya) latter-half(uttarārdham) indeed(tu) in-fifth(pañcame) also(atha) latter-half(uttarārdhakam)
+[of-Tryambaka](tryambakasya) [northern-half+but](uttarārdhantu) [fifth+but+northern-half](pañcamethottarārdhakam)
 
 ## mukta-m0-p230-v5740
-to-be-written(lekhyam) om(om) āpaḥ(āpaḥ) jyotiḥ(jyotiḥ) iti(iti) also(api)
+[should-write](lekhyam) [Om+Apa+Jyotir](omāpojyotir) [thus](iti) [also](api)
 
 ## mukta-m0-p230-v5741
-should-write(likhet) on-eighth-petal(aṣṭamapatre) indeed(tu) outside(bahiḥ) pair-of-circles(vṛttadvayaṃ) should-write(likhet)
+[should-draw](likhet) [on-eighth-leaf](aṣṭamapatre) [but](tu) [outside+two+circles](bahirvṛttadvayaṃ) [should-draw](likhet)
 
 ## mukta-m0-p230-v5742
-in-corners(koṇeṣu) kūṭa(kūṭaṃ) cintāmaṇi(cintāmaṇiṃ) should-write(likhet)
+[in-corners](koṇeṣu) [peak](kūṭaṃ) [cintamani](cintāmaṇiṃ) [should-draw](likhet)
 
 ## mukta-m0-p230-v5743
-then(tataḥ) beyond(param) with-candras(candraiḥ) kūṭa(kūṭaṃ) of-great-cintāmaṇi(cintāmaṇeḥ) great(mahat)
+[then](tataḥ) [further](paraṃ) [with-moons](candraiḥ) [peak](kūṭaṃ) [of-cintamani](cintāmaṇeḥ) [great](mahat)
 
 ## mukta-m0-p230-v5744
-of-hundred-syllable-mantra(śatākṣaramanor) yantra(yantraṃ) should-be(bhavet) such(īdṛśam) indeed(eva) and(ca)
+[hundred+syllable+mantra+yantra](śatākṣaramanoryantraṃ) [becomes](bhavet) [such](īdṛśam) [even](eva) [and](ca)
 
 ## mukta-m0-p230-v5745
-prosperity(lakṣmīṃ) he(sa) should-live(jīvet) autumns(śaradāṃ) hundred(śatam)
+[Lakshmi](lakṣmīṃ) [he](sa) [live](jīvet) [autumns](śaradāṃ) [hundred](śatam)
 
 ## mukta-m0-p230-v5746
-with-ghee(ghṛtena) so-much(tāvat) indeed(tu) having-done(kṛtvā) sprinkling(sampātam) indeed(eva) and(ca)
+[with-ghee](ghṛtena) [so-much](tāvat) [but](tu) [having-done](kṛtvā) [conjunction](sampātam) [even](eva) [and](ca)
 
 ## mukta-m0-p230-v5747
-this-yantra(yantrametat) indeed(tu) cow+(truth)+(health)+(nourishment)-giving(gosatyārogyapuṣṭidaṃ)
+[yantra](yantram) [this](etat) [but](tu) [cow+truth+health+nourishment+giving](gosatyārogyapuṣṭidaṃ)
 
 ## mukta-m0-p230-v5748
-protection(rakṣaṇaṃ) of-them(teṣāṃ) from-enemy+(tiger)+etc.-fear(vairivyāghrādibhītitaḥ)
+[protection](rakṣaṇaṃ) [of-them](teṣāṃ) [from-enemy+tiger+etc+fear](vairivyāghrādibhītitaḥ)
 
 ## mukta-m0-p230-v5749
-with-the-object(sasādhyaṃ) praṇava(praṇavaṃ) should-write(likhet)
+[with+accomplishment](sasādhyaṃ) [Om](praṇavaṃ) [should-draw](likhet)
 
 ## mukta-m0-p230-v5750
-and(ca) of-this(asya) in-six-corners(koṇaṣaṭke) should-write(likhet) of-mantra(manoḥ)
+[and](ca) [its](asya) [in-six-corners](koṇaṣaṭke) [should-draw](likhet) [of-manu](manoḥ)

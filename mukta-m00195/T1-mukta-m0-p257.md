@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p257-v6401
-[let-delight](ramatām) [mind](manaḥ) [in-own](sva) [non-deviation](avyabhicāritam)
+[delight](ramatām)+[mind](manaḥ)+[own](sva)+[unfaithful](vyabhicāritam)
 
 ## mukta-m0-p257-v6402
-[and](ca) [that](tat) [here](atra) [by-animals](paśubhiḥ) [requested](yācitam) [indeed](tu) [which](yat)
+[that](tad)+[here](atra)+[by-animals](paśubhiḥ)+[requested](yācitam)+[but](tu)+[which](yat)
 
 ## mukta-m0-p257-v6403
-[lords](nāthān) [us](asmān) [having-abandoned](vihāya) [today](adya) [by-animals](paśubhiḥ) [what](kim) [indeed](nu) [is-requested](yācyate)
+[lords](nāthān)+[us](asmān)+[abandoning](vihāya)+[today](adya)+[by-animals](paśubhiḥ)+[why](kinnu)+[requested](yācyate)
 
 ## mukta-m0-p257-v6404
-[abandoned](tyaktā) [by-animals](paśubhiḥ) [by-people](janaiḥ) [thus](iti)
+[abandoned](tyaktā)+[by-animals](paśubhiḥ)+[by-people](janaiḥ)
 
 ## mukta-m0-p257-v6405
-[by-that](tena) [worshipped](arcitaḥ) [inner-self](antarātmā) [this](ayam) [liberated](muktaḥ) [becomes](bhavati) [that](tat) [moment](kṣaṇāt)
+[by-that](tena)+[worshipped](arcitaḥ)+[inner-self](antarātmā)+[this](ayam)+[liberated](muktaḥ)+[becomes](bhavati)+[at-that-moment](tatkṣaṇāt)
 
 ## mukta-m0-p257-v6406
-[but](tu) [satisfied](tuṣṭaḥ) [if](cet) [inner-self](antarātmā) [is-liberated](vimucyate)
+[if](ced)+[pleased](tuṣṭaḥ)+[inner-self](antarātmā)+[is-liberated](vimucyate)
 
 ## mukta-m0-p257-v6407
-[afflictions](kleśānāśaṃ) [destruction](yānti) [is-liberated](vimucyate)
+[afflictions](kleśān)+[destruction](nāśam)+[go](yānti)+[is-liberated](vimucyate)
 
 ## mukta-m0-p257-v6408
-[essence](sāraḥ) [fish](śapharaḥ) [is-proclaimed](parikīrtitaḥ)
+[essence](sāraḥ)+[fish](śapharaḥ)+[is-called](parikīrtitaḥ)
 
 ## mukta-m0-p257-v6409
-[animals](paśavaḥ) [tantra](tantra) [essence](sāram) [this](idaṃ) [speech](vacaḥ)
+[animals](paśavaḥ)+[tantra-essence](tantrasāram)+[this](idam)+[word](vacaḥ)
 
 ## mukta-m0-p257-v6410
-[hundred](śata) [thousand](sahasram) [indeed](tu) [having-done](kṛtvā) [liberation](mokṣam) [obtains](avāpnuyāt)
+[hundred-thousand](śatasahasram)+[but](tu)+[having-done](kṛtvā)+[liberation](mokṣam)+[obtains](avāpnuyāt)
 
 ## mukta-m0-p257-v6411
-[and](ca) [Cāmuṇḍā](amuṇḍā) [and-others](ādyā) [great-goddesses](mahādevyo) [Bhairava](bhairava) [and-others](ādyā) [great-mighty](mahābalāḥ)
+[cāmuṇḍā-etc](cāmuṇḍādyāḥ)+[great-goddesses](mahādevyaḥ)+[bhairava-etc](bhairavādyāḥ)+[great-powerful](mahābalāḥ)
 
 ## mukta-m0-p257-v6412
-[by-that](tena) [by-which](yena) [mudrā](mudrā) [eightfold](aṣṭakaṃ) [done](kṛtam)
+[by-that](tena)+[by-whom](yena)+[mudrā-octad](mudrāṣṭakam)+[done](kṛtam)
 
 ## mukta-m0-p257-v6413
-[would-be](syāt) [thousand](sahasra) [yoni](bhaga) [sight](darśanāt)
+[there-is](syāt)+[thousand-vulva-sight](sahasrabhagadarśanāt)
 
 ## mukta-m0-p257-v6414
-[that](tat) [sin](pātaka) [by-force](vaśāt) [born](jātaḥ) [son-of-Daśaratha](daśarathātmajaḥ) [deluded](mattaḥ)
+[by-that-sin](tatpātakavaśāt)+[born](jātaḥ)+[intoxicated](mattaḥ)+[daśaratha-son](daśarathātmajaḥ)
 
 ## mukta-m0-p257-v6415
-[well-obtained](samanuprāptaṃ) [and](ca) [separation](viyogaḥ) [in-due-time](anukālikaḥ)
+[obtained](samanuprāptam)+[separation](viyogaḥ)+[timely](anukālikaḥ)
 
 ## mukta-m0-p257-v6416
-[born](jātaḥ) [always](sadā) [Śakti](śakti) [devoted-to-worship](niṣevakaḥ)
+[born](jātaḥ)+[always](sadā)+[śakti-servant](śaktiniṣevakaḥ)
 
 ## mukta-m0-p257-v6417
-[sixteen](ṣoḍaśa) [women](strī) [thousands](sahasrāṇāñ) [born](jātaḥ) [he](asau) [yoni](bhaga) [sight](darśanāt)
+[sixteen-thousand-women](ṣoḍaśastrīsahasrāṇām)+[born](jātaḥ)+[that-one](asau)+[by-vulva-sight](bhagadarśanāt)
 
 ## mukta-m0-p257-v6418
-[without](vinā) [meat](māsaṃ) [without](vinā) [fish](matsyaṃ) [and](ca) [sexual-union](maithunam)
+[without](vinā)+[month](māsam)+[without](vinā)+[fish](matsyam)+[and](ca)+[intercourse](maithunam)
 
 ## mukta-m0-p257-v6419
-[by-animals](paśubhiḥ) [requested](yācitaṃ) [which](yat) [indeed](tu) [what](kim) [indeed](u) [this](etat) [that](tat) [indeed](eva) [indeed](hi)
+[by-animals](paśubhiḥ)+[requested](yācitam)+[which](yat)+[but](tu)+[what](kimu)+[this](cait)+[that](tad)+[indeed](eva)+[hi](hi)
 
 ## mukta-m0-p257-v6420
-[with-blossomed](praphulla) [faces](vadanāḥ) [peace](śānti) [preceded-by](pūrvaṃ) [speech](vaco) [spoke](jaguḥ)
+[blossoming-faced](praphullavadanāḥ)+[peace-first](śāntipūrvam)+[word](vaco)+[spoke](jaguḥ)
 
 ## mukta-m0-p257-v6421
-[like-lion](siṃhavat) [and](ca) [always](sadā) [meat](māsa) [devoted-to-consuming](niṣevakāḥ)
+[lion-like](siṃhavat)+[and](ca)+[always](sadā)+[month-servants](māsaniṣevakāḥ)
 
 ## mukta-m0-p257-v6422
-[likewise](tathā) [our](asmākaṃ) [not](na) [meat](māṃsaṃ) [to-eat](bhakṣituṃ) [capable](kṣamāḥ)
+[thus](tathā)+[our](asmākam)+[not](na)+[meat](māṃsam)+[to-eat](bhakṣitum)+[able](kṣamāḥ)
 
 ## mukta-m0-p257-v6423
-[likewise](tathaiva) [of-hero](vīra) [lions](siṃhānāṃ) [to-be-eaten](bhakṣyaṃ) [meat](māṃsa) [and-so-forth](ādikaṃ) [indeed](kila)
+[thus-indeed](tathaiva)+[hero-lions](vīrasiṃhānām)+[edible](bhakṣyam)+[meat-etc](māṃsādikam)+[indeed](kila)
 
 ## mukta-m0-p257-v6424
-[to-serve](sevayitum) [desire](icchanti) [animals](paśavo) [in-brahmin](vipra) [form](rūpiṇaḥ)
+[to-serve](sevayitum)+[wish](icchanti)+[animals](paśavaḥ)+[brahmin-formed](viprarūpiṇaḥ)
 
 ## mukta-m0-p257-v6425
-[having-drunk](pītvā) [liquor](madyaṃ) [intoxicated](mattāḥ) [thus](tathā) [became](abhavan)
+[having-drunk](pītvā)+[liquor](madyam)+[intoxicated](mattāḥ)+[thus](tathā)+[became](abhavan)

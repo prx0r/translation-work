@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p278-v6926
-[intoxication+slow-moving](madamantharagāminyaḥ) [well-adorned](subhūṣāḥ) [and](ca) [beautiful+ornaments](ārubhūṣaṇāḥ)
+[madamanthara-gamin](madamantharagāminyaḥ) [subhūṣā](subhūṣāścārubhūṣaṇāḥ) [ca](ca) [arubhūṣaṇāḥ](arubhūṣaṇāḥ)
 
 ## mukta-m0-p278-v6927
-[ṅe](ṅe) [hṛdantān](hṛdantān) [and](ca) [ananga-etc.](anaṃgādīn) [one-should-worship](pūjayet) [in-order](kramāt)
+[ṅehṛdantān](ṅehṛdantāṃścānaṃgādīnpūjayetkramāt) [ca](ca) [anaṃgādīn](anaṃgādīn) [pūjayet](pūjayet) [kramāt](kramāt)
 
 ## mukta-m0-p278-v6928
-[five-flower-arrows](pañcapuṣpeṣu) [noose](pāśa) [goad](āhva) [and](nāṃkuśa) [sugarcane-bow-bearing](ikṣudhanurbhṛtaḥ)
+[pañca-puṣpa](pañcapuṣpeṣupāśāhvanāṃkuśekṣudhanurbhṛtaḥ) [iṣu](iṣu) [pāśa](pāśa) [aḥva](aḥva) [nāṃkuśa](nāṃkuśa) [ikṣu-dhanur-bhṛtaḥ](ikṣudhanurbhṛtaḥ)
 
 ## mukta-m0-p278-v6929
-[ornament-endowed](bhūṣāyuktāḥ) [one-should-visualize](smaret) [lotus-faced](vaktrakamalāḥ) [well](sādhu) [one-should-worship](pūjayet)
+[bhūṣā-yuktāḥ](bhūṣāyuktāḥ) [smaret](smaredvaktrakamalāḥ) [vaktra-kamalāḥ](vaktrakamalāḥ) [sādhu](sādhu) [pūjayet](pūjayet)
 
 ## mukta-m0-p278-v6930
-[ṣaṇḍa-ending](ṣaṇḍānta) [vowel-less](svarahīnaṃ) [and](ca) [ka-syllable](kakāraṃ) [bindu-adorned](bindubhūṣitat)
+[ṣaṇḍa-anta-svara-hīnañca](ṣaṇḍāntasvarahīnañca) [kakāraṃ](kakāraṃ) [bindu-bhūṣitat](bindubhūṣitat)
 
 ## mukta-m0-p278-v6931
-[worship-mantra](pūjāmantraḥ) [should-be](syāt) [of-all](sarvāsāṃ) [and](ca) [also](api) [in-sequence](anukramāt)
+[pūjā-mantraḥ](pūjāmantraḥ) [syāt](syātsarvāsāṃ) [sarvāsāṃ](sarvāsāṃ) [ca](ca) [api](api) [anukramāt](anukramāt)
 
 ## mukta-m0-p278-v6932
-[durbhati](durbhatiḥ) [nidhṛti](nidhṛtiḥ) [vidhṛti](vidhṛtiḥ) [tuṣṭi](tuṣṭiḥ) [and](ca) [also](api) [vituṣṭikā](vituṣṭikā)
+[durbhatiḥ](durbhatirnidhṛtirvidhṛtistuṣṭiścāpi) [nidhṛtiḥ](nidhṛtiḥ) [vidhṛtiḥ](vidhṛtiḥ) [tuṣṭiḥ](tuṣṭiḥ) [ca](ca) [api](api) [vituṣṭikā](vituṣṭikā)
 
 ## mukta-m0-p278-v6933
-[outside](bāhye) [then](tat) [their-weapons](astrāṇi) [then](tato) [outside](bahiḥ)
+[bāhye](bāhye) [tat](tadastrāṇi) [astrāṇi](astrāṇi) [tataḥ](tato) [bahiḥ](bahiḥ)
 
 ## mukta-m0-p278-v6934
-[libation-etc.](tarpaṇādyaṃ) [and](ca) [having-done](kṛtvā) [having-satisfied](saṃtoṣya) [the-teacher](deśikam)
+[tarpaṇa-ādyaṃ](tarpaṇādyaṃ) [ca](ca) [kṛtvā](kṛtvā) [saṃtoṣya](saṃtoṣya) [deśikam](deśikam)
 
 ## mukta-m0-p278-v6935
-[previously-mantra-declared](pūrvamantroditān) [properly](samyak) [by-previously-stated-method](pūrvoktavidhinā) [the-wise-one](sudhīḥ)
+[pūrva-mantra-uditān](pūrvamantroditānsamyakpūrvoktavidhinā) [samyak](samyak) [pūrva-ukta-vidhinā](pūrvoktavidhinā) [sudhīḥ](sudhīḥ)
 
 ## mukta-m0-p278-v6936
-[with-delighted-women](pramadājanaiḥ)
+[pramadā-janaiḥ](pramadājanaiḥ)
 
 ## mukta-m0-p278-v6937
-[now](atha) [therefore](ataḥ) [of-her](asyāḥ) [I-shall-declare](pravakṣyāmi) [twelve-syllabled](dvādaśārṇaṃ) [great-mantra](mahāmanum)
+[atha](athātosyāḥ) [ato](ato) [asyāḥ](asyāḥ) [pravakṣyāmi](pravakṣyāmi) [dvādaśārṇaṃ](dvādaśārṇaṃ) [mahā-manum](mahāmanum)
 
 ## mukta-m0-p278-v6938
-[mantra](manuḥ) [declared](proktaḥ) [sage](muniḥ) [sammohana](sammohanaḥ) [considered](mataḥ)
+[manuḥ](manuḥ) [prokto](prokto) [muniḥ](muniḥ) [sammohano](sammohano) [mataḥ](mataḥ)
 
 ## mukta-m0-p278-v6939
-[six-limbs](ṣaḍaṃgāni) [having-done](kṛtvā) [the-goddess](devīṃ) [one-should-visualize](vicintayet)
+[ṣaḍ-aṃgāni](ṣaḍaṃgāni) [kṛtvā](kṛtvā) [devīṃ](devīṃ) [vicintayet](vicintayet)
 
 ## mukta-m0-p278-v6940
-[sickle](sṛṇiṃ) [noose](pāśaṃ) [skull](kapālaṃ) [bearing](bibhratīṃ) [with-hands](karaiḥ)
+[sṛṇiṃ](sṛṇiṃ) [pāśaṃ](pāśaṃ) [kapālaṃ](kapālaṃ) [bibhratīṃ](bibhratīṃ) [karaiḥ](karaiḥ)
 
 ## mukta-m0-p278-v6941
-[one-should-worship](yajet) [the-goddess](devīṃ) [declared-limbs](proktāṃgāni) [first](purā) [one-should-worship](yajet)
+[yajed-devīṃ](yajeddevīṃ) [prokta-aṃgāni](proktāṃgāni) [purā](purā) [yajet](yajet)
 
 ## mukta-m0-p278-v6942
-[blue-lotus](nīlakamala) [and-skull](kapāla) [endowed](āḍhya) [lotus-hands](karāmbujā)
+[nīla-kamala-kapāla-āḍhya-kara-ambujā](nīlakamalakapālāḍhyakarāmbujā)
 
 ## mukta-m0-p278-v6943
-[mahākālī](mahākālīṃ) [all-people-deluding](samastajanamohinīm)
+[mahā-kālīṃ](mahākālīṃ) [samasta-jana-mohinīm](samastajanamohinīm)
 
 ## mukta-m0-p278-v6944
-[by-left-hand-path](vāmamārgeṇa) [indeed](hi) [of-her](asyāḥ) [success](siddhiḥ) [is-produced](prajāyate)
+[vāma-mārgeṇa](vāmamārgeṇa) [hi](hyasyāḥ) [asyāḥ](asyāḥ) [siddhiḥ](siddhiḥ) [prajāyate](prajāyate)
 
 ## mukta-m0-p278-v6945
-[svāhā](svāhā) [śakra-syllable](śakravarṇaḥ) [mantra](mantraḥ) [of-kālī](kālyāḥ) [declared](udīritaḥ)
+[svāhā](svāhā) [śakra-varṇo](śakravarṇo) [mantraḥ](mantraḥ) [kālyāḥ](kālyā) [udīritaḥ](udīritaḥ)
 
 ## mukta-m0-p278-v6946
-[with-desired-food-and-drink](yatheṣṭabhakṣyapānābhyāṃ) [by-sexual-union](maithunena) [she-is-pleased](prasīdati)
+[yatheṣṭa-bhakṣya-pānābhyāṃ](yatheṣṭabhakṣyapānābhyāṃ) [maithunena](maithunena) [prasīdati](prasīdati)
 
 ## mukta-m0-p278-v6947
-[with-brāhmī-etc.](brāhmyādibhiḥ) [powers](śaktibhiḥ) [and](ca) [endowed](yuktā) [with-devotion](bhaktyā) [one-should-worship](prapūjayet)
+[brāhmyādibhiḥ](brāhmyādibhiḥ) [śaktibhiḥ](śaktibhiśca) [ca](ca) [yuktā](yuktā) [bhaktyā](bhaktyā) [prapūjayet](prapūjayet)
 
 ## mukta-m0-p278-v6948
-[spear](śakti) [trident](śūla) [bow](dhanuḥ) [arrow](bāṇa) [shield](kheṭa) [sword](khaḍga) [boon](vara) [and-fearlessness](abhayān)
+[śakti-śūla-dhanur-bāṇa-kheṭaka-khaḍga-vara-abhayān](śaktiśūladhanurbāṇakheṭakhaḍgavarābhayān)
 
 ## mukta-m0-p278-v6949
-[having-visualized](dhyātvā) [thus](evaṃ) [the-accomplished-practitioner](siddhakaḥ) [the-object-to-be-accomplished](sādhyaṃ) [should-accomplish](sādhayet) [in-mind](manasi) [situated](sthitam)
+[dhyātvaivaṃ](dhyātvaivaṃ) [siddhakaḥ](siddhakaḥ) [sādhyaṃ](sādhyaṃ) [sādhayet](sādhayenmanasi) [manasi](manasi) [sthitam](sthitam)
 
 ## mukta-m0-p278-v6950
-[and-likewise](tathā) [indrāṇī](indrāṇī) [and](ca) [cāmuṇḍā](cāmuṇḍā) [and](ca) [caṇḍikā](caṇḍikā) [eighth](aṣṭamī)
+[tathā](tathendrāṇī) [indrāṇī](indrāṇī) [ca](ca) [amuṇḍā](amuṇḍā) [caṇḍikā](caṇḍikā) [aṣṭamī](aṣṭamī) || 772 ||

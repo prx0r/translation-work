@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p260-v6476
-[bewildered-one](mugdhayā) [joined](yuktaḥ) [bewilderer](bhrāmakaḥ) [with-delight](ramayā) [joined](yutaḥ)
+[by-innocent](mugdhayā) [joined](yukto) [wanderer](bhrāmako) [with-rama](ramayā) [united](yutaḥ)
 
 ## mukta-m0-p260-v6477
-[delusion+causing](bhramāvahaḥ) [with-restless-one](cañcalayā) [infatuation](mohana) [with-long-tongued-one](udīrghajihvayā)
+[causing-delusion](bhramāvahaḥ) [by-fickle](cañcalayā) [by-delusion+long+tongue](mohanodīrghajihvayā)
 
 ## mukta-m0-p260-v6478
-[infatuation+increasing](mohavardhana) [horned-one](śṛṅgiṇyaḥ) [madana](madanaṃ) [pāṭalā](pāṭalāṃ) [thus](tathā)
+[moha+increasing+horned](mohavardhanaśṛṅgiṇyo) [cupid](madanaṃ) [pāṭalā](pāṭalāṃ) [thus](tathā)
 
 ## mukta-m0-p260-v6479
-[bee+leader](bhṛṅganāyaka) [swan-female](haṃsinyau) [singer](gāyakaṃ) [all+faced-one](viśvatomukhīm)
+[bhṛṅga+leader+swan-women](bhṛṅganāyakahaṃsinyau) [singer](gāyakaṃ) [all-faced](viśvatomukhīm)
 
 ## mukta-m0-p260-v6480
-[radiance+endowed](kāntisaṃyuktaṃ) [and](ca) [frenzied-one](unmattaṃ) [cuckoo-female](kalakaṇṭhikām)
+[beauty+joined](kāntisaṃyuktaṃ) [intoxicated](conmattaṃ) [sweet-throated](kalakaṇṭhikām)
 
 ## mukta-m0-p260-v6481
-[all+supreme](sarvottama) [joined](āyutaṃ) [greed+increasing](lobhavardhanaṃ) [having-placed](nyasya) [one-should-meditate](cintayet)
+[all+best+joined](sarvottamāyutaṃ) [greed+increasing](lobhavardhanaṃ) [placing](nyasya) [should-meditate](cintayet)
 
 ## mukta-m0-p260-v6482
-[to-be-done](kartavyāḥ) [dark](kṛṣṇa) [cowherd+born](gopālasambhavāḥ)
+[to-be-done](kartavyāḥ) [krishna+gopala+born](kṛṣṇagopālasambhavāḥ)
 
 ## mukta-m0-p260-v6483
-[betel](tāmbūlaṃ) [elephant+trunk](gajapuṣkara) [eaten](bhakṣitam)
+[betel](tāmbūlaṃ) [elephant+lotus+eaten](gajapuṣkarabhakṣitam)
 
 ## mukta-m0-p260-v6484
-[renunciation](saṃnyāsa) [one+syllable](ekākṣara) [possessing](vat) [sage](muniḥ) [vātsyāyana](vātsyāyanaḥ) [considered](mataḥ)
+[renunciation+one-syllable+like](saṃnyāsa-ekākṣaravan) [sage-vatsyayana](munirvātsyāyano) [opinion](mataḥ)
 
 ## mukta-m0-p260-v6485
-[may-he-impel](pracodayāt)
+[impel](pracodayāt)
 
 ## mukta-m0-p260-v6486
-[in-the-other-world](paratra) [also](api) [and](ca) [good+state](sadgatim)
+[hereafter+also](paratrāpi) [and](ca) [good-goal](sadgatim)
 
 ## mukta-m0-p260-v6487
 [of-women](nārīṇāṃ) [heart](hṛdayaṃ) [gone](gataḥ)
 
 ## mukta-m0-p260-v6488
-[cursed](śāpitaḥ) [who](yaḥ) [then](tadā) [from-kāśī](kāśyāḥ) [banished](vivāsitaḥ)
+[cursed](śāpito) [who](yas) [then](tadā) [from-kashi](kāśyā) [exiled](vivāsitaḥ)
 
 ## mukta-m0-p260-v6489
-[because](yasmāt) [therefore](tasmāt) [desire](kāmaḥ) [of-the-good](satāṃ) [goal](gatiḥ)
+[therefore](yasmāttasmāt) [desire](kāmaḥ) [of-good](satāṃ) [goal](gatiḥ)
 
 ## mukta-m0-p260-v6490
-[gaṇapa](gaṇapaḥ) [his+help](tatsahāya) [for-the-sake](artham) [prepared](udyataḥ)
+[ganapa](gaṇapas) [for-his-help](tatsahāyārtham) [striving](udyataḥ)
 
 ## mukta-m0-p260-v6491
-[of-those-two](tayoḥ) [by-power](prabhāveṇa) [saw](dṛṣṭavān) [supreme](paramaṃ) [lord](patim)
+[of-them](tayoḥ) [by-power](prabhāveṇa) [seen](dṛṣṭavān) [supreme](paramaṃ) [lord](patim)
 
 ## mukta-m0-p260-v6492
-[chanting](japan) [stood](tasthau) [year+measure](varṣamātraṃ) [from-liberation](vimuktitaḥ)
+[chanting](japaṃs) [stood](tasthau) [for-year](varṣamātraṃ) [from-liberation](vimuktitaḥ)
 
 ## mukta-m0-p260-v6493
-[in-kāśikā](kāśikāyām) [this](asau) [accomplishment+vināyaka](siddhivināyakaḥ)
+[in-kashi](kāśikāyām) [that](asau) [siddhi-vinayaka](siddhivināyakaḥ)
 
 ## mukta-m0-p260-v6494
-[greed+hatred](lobhadveṣa) [and-others](ādikān) [all](sarvān) [made-dwell](vāsayāmāsa) [there](tatra) [indeed](tu)
+[greed+hatred+etc](lobhadveṣādikān) [all](sarvān) [caused-to-dwell](vāsayāmāsa) [there](tatra) [but](tu)
 
 ## mukta-m0-p260-v6495
-[whose+grace](yatprasādāt) [divodāsa](divodāsaḥ) [guptasena](guptasenaḥ) [deceived](prapañcitaḥ)
+[by-whose-grace](yatprasādāt) [divodasa](divodāso) [guptasena](guptasenaḥ) [manifested](prapañcitaḥ)
 
 ## mukta-m0-p260-v6496
-[for-deliverance](uddhārārtham) [of-the-unlearned](aviprāṇāṃ) [gāyatrī](gāyatrī) [this](eṣā) [by-me](mayā) [spoken](uditā)
+[for-uplift](uddhārārtham) [of-non-brahmins](aviprāṇāṃ) [gayatri](gāyatryeṣā) [by-me](mayā) [spoken](uditā)
 
 ## mukta-m0-p260-v6497
-[five](pañca) [mantra](mantraḥ) [which](yaḥ) [for-them](ebhyaḥ) [by-me](mayā) [made](kṛtaḥ)
+[five](pañca) [mantra](mantro) [to-whom](yobhyo) [by-me](mayā) [made](kṛtaḥ)
 
 ## mukta-m0-p260-v6498
-[which](yaḥ) [in-speech](vācī) [he](saḥ) [in-beginning](ādau) [praṇava](praṇavaḥ) [mantra](manuḥ)
+[who](yo) [in-speech](vācī) [he](sa) [first](ādau) [om](praṇavo) [manu](manuḥ)
 
 ## mukta-m0-p260-v6499
-[thus](iti) [two+syllable](dvyakṣaraḥ) [this](ayaṃ) [third](tṛtīyakaḥ)
+[thus](iti) [two-syllable](dvyakṣaro) [this](yaṃ) [third](tṛtīyakaḥ)
 
 ## mukta-m0-p260-v6500
-[and](cet) [two+syllable](dvyarṇaḥ) [mantra](mantraḥ) [fourth](caturthakaḥ)
+[if](ced) [two-syllable](vyarṇo) [mantra](mantraś) [fourth](caturthakaḥ)
