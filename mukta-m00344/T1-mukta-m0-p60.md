@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p60-v1476
-[imagined-city+resembling](saṅkalpanagaraprakhyā) [creation](sṛṣṭiḥ) [of-the-lord](devasya) [accepted](sammatā)
+[thought-city-like](saṅkalpanagaraprakhyā) [creation](sṛṣṭiḥ) [of-god](devasya) [approved](sammatā)
 
 ## mukta-m0-p60-v1477
-[meaning](bhāvaḥ)
+[state](bhāvaḥ)
 
 ## mukta-m0-p60-v1478
-[many+measurers+objects+etc.+abounding](anekamātṛmeyādipracurā) [indeed](hi) [appears](avabhāsate)
+[many-mother-measured-etc-abundant](anekamātṛmeyādipracurā) [indeed-appears](hyavabhāsate)
 
 ## mukta-m0-p60-v1479
-[creation](sṛṣṭiḥ) [imagined-city+abounding](saṅkalpanagarapracurā) [which](yā) [appears](avabhāsate) [that](sā) [mind-made](manomayā) [thus](iti) [connection](sambandhaḥ)
+[creation](sṛṣṭiḥ) [thought-city-abundant](saṅkalpanagarapracurā) [which-appears](yā'vabhāsate) [that](sā) [mind-made](manomayī) [iti](iti) [connection](sambandhaḥ)
 
 ## mukta-m0-p60-v1480
-[arisen](utpanā) [from-mind](manasaḥ) [there](tatra) [situated](sthitā) [there+alone](tatraiva) [dissolves](līyate)
+[born](utpanā) [of-mind](manasas) [there](tatra) [standing](sthitā) [there-only](tatraiva) [dissolves](līyate)
 
 ## mukta-m0-p60-v1481
 [connection](sambandhaḥ)
 
 ## mukta-m0-p60-v1482
-[consciousness+other-than](cidatiriktaḥ) [form](vigrahaḥ) [body](dehaḥ) [of-which](yasyāḥ)
+[consciousness-beyond](cidatirikto) [form](vigraho) [body](deho) [whose](yasyāḥ)
 
 ## mukta-m0-p60-v1483
-[that](sā) [consciousness](citiḥ) [everywhere](sarvataḥ) [full](pūrṇā) [limitation+absence](paricchedavivarjanāt)
+[that](sā) [consciousness](citiḥ) [everywhere](sarvataḥ) [full](pūrṇā) [from-avoidance-of-limitation](paricchedavivarjanāt)
 
 ## mukta-m0-p60-v1484
-[properly](samyak) [to-establish](sādhayitum) [undertakes](upakramate) [that](sā) [consciousness](citiḥ) [thus](iti)
+[well](samyak) [to-accomplish](sādhayitum) [begins](upakramate) [that](sā) [consciousness](citiḥ) [iti](iti)
 
 ## mukta-m0-p60-v1485
-[there](tatra) [form+consisting](ākāramayaḥ) [space](deśaḥ) [time](kālaḥ) [but](tu) [would-be](syāt) [action+consisting](kriyāmayaḥ)
+[there-form-full](tatrākāramayo) [place](deśaḥ) [time](kālas) [but](tu) [would-be](syāt) [action-full](kriyāmayaḥ)
 
 ## mukta-m0-p60-v1486
-[of-that](tasyāḥ) [limiting-nature](paricchedakatvam) [of-these-two](anayoḥ) [would-be](syāt) [how](kathaṃ) [tell](vada)
+[of-that](tasyāḥ) [limiting-ness](paricchedakatvam) [of-these-two](anayoḥ) [would-be](syāt) [how](kathaṃ) [say](vada)
 
 ## mukta-m0-p60-v1487
-[in-some-way](kathañcit) [self+limiting-nature](ātmaparicchedakatvam) [thus](iti) [meaning](arthaḥ)
+[somehow-self-limiting-ness](kathañcidātmaparicchedakatvam) [iti](iti) [meaning](arthaḥ)
 
 ## mukta-m0-p60-v1488
-[where](yatra) [not](na) [would-be](syāt) [consciousness](citiḥ) [that-also](so'pi) [how](kathaṃ) [would-be](syāt) [thus](iti) [indeed](vai) [would-be](bhavet)
+[where](yatra) [not](na) [would-be](syāt) [consciousness](citiḥ) [that-too](so'pi) [how](kathaṃ) [would-be](syāt) [iti](iti) [indeed](vai) [would-be](bhavet)
 
 ## mukta-m0-p60-v1489
-[meaning](bhāvaḥ)
+[state](bhāvaḥ)
 
 ## mukta-m0-p60-v1490
-[light](prakāśaḥ) [but](tu) [consciousness](citiḥ) [declared](proktā) [not+of-non-consciousness](nāciteḥ) [would-be](syāt) [luminosity](prakāśatā)
+[light](prakāśas) [but](tu) [consciousness](citiḥ) [said](proktā) [not](na) [of-consciousness](aciteḥ) [would-be](syāt) [manifestness](prakāśatā)
 
 ## mukta-m0-p60-v1491
-[thus](evam) [existence](astitvam) [thus](iti) [meaning](bhāvaḥ)
+[thus-existence](evāstitvam) [iti](iti) [state](bhāvaḥ)
 
 ## mukta-m0-p60-v1492
-[insentient-things](jaḍāḥ) [not](na) [self-luminous](svaprakāśāḥ) [indeed](hi) [consciousness+contact+illumination](citiyogaprakāśanāt)
+[inert](jaḍā) [not](na) [self-luminous](svaprakāśā) [indeed](hi) [from-consciousness-union-manifestation](citiyogaprakāśanāt)
 
 ## mukta-m0-p60-v1493
-[of-insentient-things](jaḍānāṃ) [independent](svatantraḥ) [light](prakāśaḥ) [thus](iti) [meaning](bhāvaḥ)
+[of-inert](jaḍānāṃ) [independent](svatantraḥ) [light](prakāśa) [iti](iti) [state](bhāvaḥ)
 
 ## mukta-m0-p60-v1494
-[insentient-things](jaḍāḥ) [consciousness](citiṃ) [having-resorted-to](samāśritya) [shine](prakāśante) [not](na) [and](ca) [otherwise](anyathā)
+[inert-ones](jaḍāś) [consciousness](citiṃ) [resorting-to](samāśritya) [manifest](prakāśante) [not](na) [and](ca) [otherwise](anyathā)
 
 ## mukta-m0-p60-v1495
-[exists](asti) [does-not-exist](nāsti) [thus](iti) [in-world](loke) [in-this](asmin) [determination](vyavasthā) [not](na) [indeed](hi) [will-be-established](setsyati)
+[is](asti) [is-not](nāsti) [iti](iti) [in-world](loke'smin) [order](vyavasthā) [not](nahi) [will-be-established](setsyati)
 
 ## mukta-m0-p60-v1496
-[perceivable](dṛśyaḥ) [because-of-perceptibility](pratyakṣatvāt) [thus+etc.](ityādivat) [not](na) [to-be-inferred](iyam) [thus](iti)
+[visible](dṛśyaḥ) [from-perceptibility](pratyakṣatvāt) [etc](ityādi) [like](vanneya) [iti](iti)
 
 ## mukta-m0-p60-v1497
-[just-as](yathā) [indeed](hi) [of-reflections](pratibibimbānāṃ) [existence](sattvaṃ) [in-mirror](darpaṇe) [alone](eva) [indeed](hi)
+[as](yathā) [indeed](hi) [of-reflections](pratibibimbānāṃ) [existence](sattvaṃ) [mirror](darpaṇa) [only](eva) [indeed](hi)
 
 ## mukta-m0-p60-v1498
-[mirror+existence](darpaṇasattvam) [alone](eva) [of-reflections](pratibimbānāṃ) [existence](sattvam) [thus](iti) [meaning](arthaḥ)
+[mirror-existence-only](darpaṇasattvameva) [of-reflections](pratibimbānāṃ) [existence](sattvam) [iti](iti) [meaning](arthaḥ)
 
 ## mukta-m0-p60-v1499
-[more](adhikaṃ) [shines](bhāsate) [which](yat) [but](tu) [that](tat) [spotlessness+greatness](nairmalyamahittvataḥ)
+[more](adhikaṃ) [shines](bhāsate) [which](yattu) [that](tannairmalyamahittvataḥ) [k](k) [mahattvataḥ](mahattvataḥ)
 
 ## mukta-m0-p60-v1500
-[greatness](mahattvataḥ) [from-majesty](māhātmyāt) [thus](iti) [meaning](arthaḥ)
+[from-greatness](mahattvataḥ) [from-glory](māhātmyāt) [iti](iti) [meaning](arthaḥ)

@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p51-v1251
-[seeing](paśyan) [own-self+great+mirror](svātma+mahā+darśe) [reflection](pratibimbaṃ) [indeed](hi) [worldly](jāgatam)
+[seeing](paśyan) [in-great-mirror-of-self](svātmamahādarśe) [reflection](pratibimbaṃ) [indeed](hi) [world](jāgatam)
 
 ## mukta-m0-p51-v1252
-[as](yathā) [familiar+space](paricita+ākāśaḥ) [seeing](paśyan) [space+resting-on](ākāśa+saṃśritam)
+[like](yathā) [accustomed-space](paricitākāśaḥ) [seeing+space-residing](paśyannākāśasaṃśritam)
 
 ## mukta-m0-p51-v1253
-[not](na) [self](ātmānaṃ) [sees](paśyati) [thus](iti) [meaning](bhāvaḥ)
+[not-self](nātmānaṃ) [sees](paśyati) [thus](iti) [meaning](bhāvaḥ)
 
 ## mukta-m0-p51-v1254
-[o-lord](nātha) [subtle+vision](sūkṣma+dṛśā) [see](paśya) [knowledge+knowable+nature](jñāna+jñeya+ātmakaṃ) [world](jagat)
+[lord](nātha) [with-subtle-vision](sūkṣmadṛśā) [see](paśya) [knowledge-and-knowable-self](jñānajñeyātmakaṃ) [world](jagat)
 
 ## mukta-m0-p51-v1255
-[of-means-of-knowledge](pramāṇānāṃ) [means-of-knowledge](pramāṇaṃ) [that](tat) [not-means-of-knowledge](apramāṇaṃ) [by-itself](svataḥ) [would-be](bhavet)
+[of-measures](pramāṇānāṃ) [measure](pramāṇaṃ) [that](tad) [non-measure](apramāṇaṃ) [by-itself](svato) [becomes](bhavet)
 
 ## mukta-m0-p51-v1256
-[in-its-own-existence](sva+sattāyām) [not-other+dependent](ananya+āpekṣam) [thus](iti) [meaning](bhāvaḥ)
+[own-existence](svasattāyām) [non-other-dependent](ananyāpekṣam) [thus](iti) [meaning](bhāvaḥ)
 
 ## mukta-m0-p51-v1257
-[by-accomplishment+accomplisher+state](siddhi+sādhaka+bhāvena) [not](na) [its-accomplishment](tat+siddhiḥ) [ever](kadācana)
+[by-accomplishment-causing](siddhisādhakabhāvena) [not](na) [that-accomplishment](tatsiddhiḥ) [ever](kadācana)
 
 ## mukta-m0-p51-v1258
-[in-the-sūtra](sūtre]) [spread-out](vitānitam)
+[in-sūtra](sūtre) [spread-out](vitānitam)
 
 ## mukta-m0-p51-v1259
-[not+to-be-denied](an+apahnavanīyaṃ) [that](tat) [great+mirror+surface](mahā+darśa+talaṃ) [would-be](bhavet)
+[not-to-be-denied](anapahnavanīyaṃ) [that](tan) [great-mirror-surface](mahādarśatalaṃ) [becomes](bhavet)
 
 ## mukta-m0-p51-v1260
-[that](tat) [great+mirror](mahā+darśa) [thus](iti)
+[that-great-mirror](tanmahādarśa) [thus](iti)
 
 ## mukta-m0-p51-v1261
-[by-space](deśena) [or](vā) [also](api) [by-time](kālena) [limitation](paricchittiḥ) [not](na) [exists](vidyate)
+[by-place](deśena) [or](vā) [by-time](kālena) [limitation](paricchittiḥ) [not](na) [exists](vidyate)
 
 ## mukta-m0-p51-v1262
-[by-space](deśena) [thus](iti)
+[by-place](deśena) [thus](iti)
 
 ## mukta-m0-p51-v1263
-[of-limitation](paricchedasya) [appearance](bhānaṃ) [but](tu) [in-space](gagane) [by-objects](vastubhiḥ) [as](yathā)
+[of-limitation](paricchedasya) [appearance](bhānaṃ) [but](tu) [in-sky](gagane) [by-things](vastubhiḥ) [as](yathā)
 
 ## mukta-m0-p51-v1264
-[thus](eva) [thus](iti) [says](āha) [of-limitation](paricchedasya) [thus](iti) [by-objects](vastubhiḥ) [by-pot+and-others](ghaṭa+ādyaiḥ)
+[thus](evam) [thus-says](ityāha) [of-limitation](paricchedasya) [thus](iti) [by-things](vastubhiḥ) [pot-etc](ghaṭādyaiḥ)
 
 ## mukta-m0-p51-v1265
-[where](yatra) [in-universal+consciousness](sāmānya+caitanye) [world](jagat) [this](etat) [shines](virājate)
+[where](yatra) [common-consciousness](sāmānyacaitanye) [world](jagad) [this](etad) [shines](virājate)
 
 ## mukta-m0-p51-v1266
-[of-that](tasya) [apprehension](upalabdhiṃ) [I-shall-tell](vakṣyāmi) [from-which](yataḥ) [you-attain](prāpnoṣi) [that+state](tat+padam)
+[of-that](tasya) [perception](upalabdhiṃ) [I-will-speak](vakṣyāmi) [because](yataḥ) [you-attain](prāpnoṣi) [that-state](tatpadam)
 
 ## mukta-m0-p51-v1267
-[from-which](yasmād) [my+statement](mat+vacanāt) [that+state](tat+padaṃ) [universal+consciousness+abode](sāmānya+caitanya+sthānam)
+[because](yasmāt) [from-my-speech](madvacanāt) [that-state](tatpadaṃ) [common-consciousness-place](sāmānyacaitanyasthānam)
 
 ## mukta-m0-p51-v1268
-[in-the-middle](madhye) [of-consciousness+and-known](saṃvid+vedyayoḥ) [and](ca) [by-subtle+intellect](sūkṣma+buddhyā) [perceive](abhilakṣaya)
+[in-middle](madhye) [consciousness-and-knowable](saṃvidvedyayoḥ) [ca](ca) [with-subtle-intellect](sūkṣmabuddhyā) [mark](abhilakṣaya)
 
 ## mukta-m0-p51-v1269
-[of-that](tasya) [apprehension+places](upalabdhi+sthānāni) [these](etāni) [thus](iti) [meaning](bhāvaḥ)
+[of-that](tasya) [perception-place](upalabdhisthānāni) [these](etāni) [thus](iti) [meaning](bhāvaḥ)
 
 ## mukta-m0-p51-v1270
-[by-this+ignorance+mere](etat+ajñāna+mātreṇa) [proceeded](pravṛttaṃ) [world](jagat) [such](īdṛśam)
+[by-this-ignorance-alone](etadajñānamātreṇa) [proceeds](pravṛttaṃ) [world](jagad) [such](īdṛśam)
 
 ## mukta-m0-p51-v1271
-[of-visible+appearance](dṛśya+ābhāsasya) [also](api) [thus](iti) [meaning](bhāvaḥ)
+[of-visible-appearance](dṛśyābhāsasya) [also](api) [thus](iti) [meaning](bhāvaḥ)
 
 ## mukta-m0-p51-v1272
-[not](na) [suffering](duḥkhaṃ) [not](na) [happiness](sukhaṃ) [or](vā) [indeed](tu) [not](na) [to-be-grasped](grāhyaṃ) [grasper](grāhakaṃ) [and](ca) [not](na)
+[not](na) [sorrow](duḥkhaṃ) [not](na) [joy](sukhaṃ) [or](vā) [tu](tu) [not](na) [graspable](grāhyaṃ) [grasper](grāhakaṃ) [ca](ca) [not](na)
 
 ## mukta-m0-p51-v1273
-[by-universal+form](sāmānya+rūpeṇa) [negation](niṣedhaḥ) [grasper](grāhakam) [sense-organ+and-others](indriya+ādi)
+[by-common-form](sāmānyarūpeṇa) [negation](niṣedhaḥ) [grasper](grāhakam) [sense-organs-etc](indriyādi)
 
 ## mukta-m0-p51-v1274
-[this](eṣa) [all+lord](sarva+īśvaraḥ) [creator](dhātā) [Viṣṇu](viṣṇuḥ) [Īśa](īśaḥ) [Sadāśiva](sadāśivaḥ)
+[this](eṣa) [all-lord](sarveśvaro) [supporter](dhātā) [viṣṇu](viṣṇur) [īśa](īśaḥ) [sadāśiva](sadāśivaḥ)
 
 ## mukta-m0-p51-v1275
-[all+lord+and-others](sarva+īśvara+ādiḥ) [thus](iti) [meaning](bhāvaḥ)
+[all-lord-etc](sarveśvarādi) [thus](iti) [meaning](bhāvaḥ)

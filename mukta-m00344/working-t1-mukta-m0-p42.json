@@ -7,12 +7,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "jīvānām",
+"surface": "jīvānāṃ",
 "quick_gloss": "of-living-beings"
 },
 {
-"surface": "karaṇa+apekṣā",
-"quick_gloss": "dependence-on-instruments"
+"surface": "karaṇāpekṣā",
+"quick_gloss": "instrument-dependence"
 },
 {
 "surface": "yataḥ",
@@ -36,36 +36,32 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "cinmayam",
-"quick_gloss": "consisting-of-consciousness"
+"surface": "cinmayaṃ",
+"quick_gloss": "conscious"
 },
 {
 "surface": "vā",
 "quick_gloss": "or"
 },
 {
-"surface": "śarīram",
-"quick_gloss": "body"
-},
-{
-"surface": "īśvarasya",
-"quick_gloss": "of-the-Lord"
+"surface": "śarīramīśvarasya",
+"quick_gloss": "body-of-īśvara"
 },
 {
 "surface": "apekṣitam",
-"quick_gloss": "is-required"
+"quick_gloss": "required"
 },
 {
 "surface": "iti",
-"quick_gloss": "thus"
-},
-{
-"surface": "cet",
 "quick_gloss": "if"
 },
 {
+"surface": "cet",
+"quick_gloss": "if-so"
+},
+{
 "surface": "na",
-"quick_gloss": "not"
+"quick_gloss": "no"
 },
 {
 "surface": "iti",
@@ -73,7 +69,7 @@
 },
 {
 "surface": "āha",
-"quick_gloss": "he-says"
+"quick_gloss": "says"
 },
 {
 "surface": "jīvānām",
@@ -97,24 +93,20 @@
 "quick_gloss": "without-depending"
 },
 {
-"surface": "eva",
-"quick_gloss": "indeed"
-},
-{
 "surface": "yatkiñcit",
-"quick_gloss": "anything"
+"quick_gloss": "whatever"
 },
 {
 "surface": "sṛjati",
-"quick_gloss": "he-creates"
+"quick_gloss": "creates"
 },
 {
-"surface": "avikalam",
+"surface": "avikalaṃ",
 "quick_gloss": "unimpaired"
 },
 {
 "surface": "jagat",
-"quick_gloss": "universe"
+"quick_gloss": "world"
 }
 ]
 },
@@ -144,15 +136,19 @@
 },
 {
 "surface": "lokavat",
-"quick_gloss": "like-the-world"
+"quick_gloss": "like-world"
 },
 {
 "surface": "kartuḥ",
-"quick_gloss": "of-the-creator"
+"quick_gloss": "of-maker"
 },
 {
-"surface": "upādāna+āśrayaḥ",
-"quick_gloss": "dependence-on-material-cause"
+"surface": "upādāna",
+"quick_gloss": "material-cause"
+},
+{
+"surface": "āśrayaḥ",
+"quick_gloss": "support"
 },
 {
 "surface": "bhavet",
@@ -169,15 +165,15 @@
 "tokens": [
 {
 "surface": "kartuḥ",
-"quick_gloss": "of-the-creator"
+"quick_gloss": "of-maker"
 },
 {
 "surface": "īśvarasya",
-"quick_gloss": "of-the-Lord"
+"quick_gloss": "of-īśvara"
 },
 {
 "surface": "upādānasya",
-"quick_gloss": "of-the-material-cause"
+"quick_gloss": "of-material-cause"
 },
 {
 "surface": "api",
@@ -185,11 +181,11 @@
 },
 {
 "surface": "āśrayaḥ",
-"quick_gloss": "dependence"
+"quick_gloss": "support"
 },
 {
 "surface": "apekṣā",
-"quick_gloss": "requirement"
+"quick_gloss": "dependence"
 },
 {
 "surface": "bhavet",
@@ -206,27 +202,27 @@
 "tokens": [
 {
 "surface": "jagat",
-"quick_gloss": "universe"
+"quick_gloss": "world"
 },
 {
 "surface": "sṛjan",
 "quick_gloss": "creating"
 },
 {
-"surface": "mahā+īśānaḥ",
-"quick_gloss": "the-great-Lord"
+"surface": "maheśānaḥ",
+"quick_gloss": "great-īśvara"
 },
 {
 "surface": "jīvaḥ",
-"quick_gloss": "individual-soul"
+"quick_gloss": "living-being"
 },
 {
 "surface": "eva",
-"quick_gloss": "indeed"
+"quick_gloss": "even"
 },
 {
 "surface": "bhavet",
-"quick_gloss": "would-become"
+"quick_gloss": "would-be"
 },
 {
 "surface": "tathā",
@@ -250,8 +246,8 @@
 "quick_gloss": "thus"
 },
 {
-"surface": "kulāla+ādivat",
-"quick_gloss": "like-a-potter-etc."
+"surface": "kulālādivat",
+"quick_gloss": "like-potter"
 }
 ]
 },
@@ -264,19 +260,19 @@
 "tokens": [
 {
 "surface": "siddhyet",
-"quick_gloss": "would-be-established"
+"quick_gloss": "would-be-accomplished"
 },
 {
 "surface": "tat",
 "quick_gloss": "that"
 },
 {
-"surface": "sarva+kartṛtvam",
-"quick_gloss": "all-creatorship"
+"surface": "sarvakartṛtvaṃ",
+"quick_gloss": "all-maker-ship"
 },
 {
-"surface": "vihatam",
-"quick_gloss": "would-be-destroyed"
+"surface": "vihataṃ",
+"quick_gloss": "obstructed"
 },
 {
 "surface": "syāt",
@@ -300,28 +296,28 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "tat",
-"quick_gloss": "that"
+"surface": "tattat",
+"quick_gloss": "by-that"
 },
 {
-"surface": "tat",
-"quick_gloss": "that"
+"surface": "mṛdādi",
+"quick_gloss": "clay-etc"
 },
 {
-"surface": "mṛd+ādi+saṃskāra+krameṇa",
-"quick_gloss": "by-the-process-of-fashioning-clay-etc."
+"surface": "saṃskāra",
+"quick_gloss": "purification"
 },
 {
-"surface": "janayet",
-"quick_gloss": "he-would-produce"
+"surface": "krameṇa",
+"quick_gloss": "sequence"
+},
+{
+"surface": "janayed",
+"quick_gloss": "would-produce"
 },
 {
 "surface": "ghaṭam",
 "quick_gloss": "pot"
-},
-{
-"surface": "iti",
-"quick_gloss": "thus"
 }
 ]
 },
@@ -333,19 +329,15 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "na",
+"surface": "nāsti",
 "quick_gloss": "not"
-},
-{
-"surface": "asti",
-"quick_gloss": "exists"
 },
 {
 "surface": "tasmāt",
 "quick_gloss": "therefore"
 },
 {
-"surface": "sthūla+dehaḥ",
+"surface": "sthūladehaḥ",
 "quick_gloss": "gross-body"
 },
 {
@@ -353,8 +345,8 @@
 "quick_gloss": "in-reality"
 },
 {
-"surface": "prāṇa+vallabha",
-"quick_gloss": "O-beloved-of-prāṇa"
+"surface": "prāṇavallabha",
+"quick_gloss": "beloved-of-life"
 }
 ]
 },
@@ -370,12 +362,16 @@
 "quick_gloss": "therefore"
 },
 {
-"surface": "aiśvarya+vihateḥ",
-"quick_gloss": "due-to-the-destruction-of-lordship"
+"surface": "śarīrādyapekṣāyām",
+"quick_gloss": "body-etc-dependence"
 },
 {
-"surface": "śarīra+ādi+apekṣāyām",
-"quick_gloss": "from-the-requirement-of-body-etc."
+"surface": "aiśvarya",
+"quick_gloss": "lordship"
+},
+{
+"surface": "vihateḥ",
+"quick_gloss": "obstruction"
 }
 ]
 },
@@ -387,8 +383,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "bhaktu+yuktāḥ",
-"quick_gloss": "by-devotees"
+"surface": "bhaktuyuktāḥ",
+"quick_gloss": "devoted"
 },
 {
 "surface": "ca",
@@ -400,7 +396,7 @@
 },
 {
 "surface": "dhyātaḥ",
-"quick_gloss": "meditated-upon"
+"quick_gloss": "meditated"
 },
 {
 "surface": "yatra",
@@ -432,8 +428,16 @@
 "quick_gloss": "as"
 },
 {
-"surface": "pañca+vaktra+eka+vaktra+ādi+rūpeṇa",
-"quick_gloss": "in-the-form-of-five-faced-one-faced-etc."
+"surface": "pañcavaktra",
+"quick_gloss": "five-faced"
+},
+{
+"surface": "ekavaktra",
+"quick_gloss": "one-faced"
+},
+{
+"surface": "ādirūpeṇa",
+"quick_gloss": "etc-form"
 }
 ]
 },
@@ -454,15 +458,15 @@
 },
 {
 "surface": "eva",
-"quick_gloss": "indeed"
+"quick_gloss": "even"
 },
 {
 "surface": "īśaḥ",
-"quick_gloss": "Lord"
+"quick_gloss": "īśa"
 },
 {
-"surface": "tat+dehaḥ",
-"quick_gloss": "his-body"
+"surface": "taddehaḥ",
+"quick_gloss": "that-body"
 },
 {
 "surface": "syāt",
@@ -486,12 +490,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "evaṃvidha+dehānām",
-"quick_gloss": "of-such-bodies"
+"surface": "evaṃvidhadehānām",
+"quick_gloss": "thus-formed-bodies"
 },
 {
-"surface": "icchā+mātra+parikalpitatvāt",
-"quick_gloss": "created-by-mere-will"
+"surface": "icchāmātraparikalpitatvāt",
+"quick_gloss": "by-will-only"
 },
 {
 "surface": "parā",
@@ -516,7 +520,7 @@
 "tokens": [
 {
 "surface": "tripurā",
-"quick_gloss": "Tripurā"
+"quick_gloss": "tripurā"
 },
 {
 "surface": "bhāsate",
@@ -527,12 +531,12 @@
 "quick_gloss": "in-whom"
 },
 {
-"surface": "avibhinnam",
+"surface": "avibhinnaṃ",
 "quick_gloss": "undivided"
 },
 {
 "surface": "vibhinnavat",
-"quick_gloss": "as-if-divided"
+"quick_gloss": "divided"
 }
 ]
 },
@@ -545,7 +549,7 @@
 "tokens": [
 {
 "surface": "aviśeṣāt",
-"quick_gloss": "because-of-non-difference"
+"quick_gloss": "without-distinction"
 },
 {
 "surface": "sarvatra",
@@ -556,11 +560,7 @@
 "quick_gloss": "always"
 },
 {
-"surface": "iti",
-"quick_gloss": "thus"
-},
-{
-"surface": "arthaḥ",
+"surface": "ityarthaḥ",
 "quick_gloss": "meaning"
 }
 ]
@@ -573,8 +573,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "tat+rūpa+ekatvāt",
-"quick_gloss": "because-of-identity-with-that-form"
+"surface": "tadrūpa",
+"quick_gloss": "that-form"
+},
+{
+"surface": "ekatvataḥ",
+"quick_gloss": "oneness"
 },
 {
 "surface": "tatra",
@@ -585,8 +589,12 @@
 "quick_gloss": "not"
 },
 {
-"surface": "uttama+adhama+bhāvanā",
-"quick_gloss": "conception-of-higher-and-lower"
+"surface": "uttamādhama",
+"quick_gloss": "high-low"
+},
+{
+"surface": "bhāvanā",
+"quick_gloss": "conception"
 }
 ]
 },
@@ -602,8 +610,12 @@
 "quick_gloss": "not"
 },
 {
-"surface": "uttama+adhama+bhāvanā",
-"quick_gloss": "conception-of-higher-and-lower"
+"surface": "uttamādhama",
+"quick_gloss": "high-low"
+},
+{
+"surface": "bhāvanā",
+"quick_gloss": "conception"
 },
 {
 "surface": "kartavyā",
@@ -624,18 +636,18 @@
 },
 {
 "surface": "prājñaḥ",
-"quick_gloss": "the-wise-one"
+"quick_gloss": "wise"
 },
 {
 "surface": "upāsīta",
 "quick_gloss": "should-worship"
 },
 {
-"surface": "param",
+"surface": "paraṃ",
 "quick_gloss": "supreme"
 },
 {
-"surface": "rūpam",
+"surface": "rūpaṃ",
 "quick_gloss": "form"
 },
 {
@@ -697,12 +709,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "na",
+"surface": "nānyathā",
 "quick_gloss": "not"
-},
-{
-"surface": "anyathā",
-"quick_gloss": "otherwise"
 },
 {
 "surface": "asya",
@@ -710,7 +718,7 @@
 },
 {
 "surface": "gatiḥ",
-"quick_gloss": "attainment"
+"quick_gloss": "path"
 },
 {
 "surface": "kvāpi",
@@ -722,11 +730,11 @@
 },
 {
 "surface": "vai",
-"quick_gloss": "vai"
+"quick_gloss": "even"
 },
 {
-"surface": "koṭi+janmabhiḥ",
-"quick_gloss": "by-millions-of-births"
+"surface": "koṭijanmabhiḥ",
+"quick_gloss": "crore-births"
 }
 ]
 },
@@ -738,11 +746,19 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "para+śreyaḥ+sādhana+prāptiḥ",
-"quick_gloss": "attainment-of-the-means-to-supreme-good"
+"surface": "paraśreyaḥ",
+"quick_gloss": "supreme-welfare"
 },
 {
-"surface": "ṣaṭ+caraṇaḥ",
+"surface": "sādhana",
+"quick_gloss": "means"
+},
+{
+"surface": "prāptiḥ",
+"quick_gloss": "attainment"
+},
+{
+"surface": "ṣaṭcaraṇaḥ",
 "quick_gloss": "six-footed"
 },
 {
@@ -759,16 +775,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "cinmayam",
-"quick_gloss": "consisting-of-consciousness"
+"surface": "traipuraṃ",
+"quick_gloss": "tripurā"
 },
 {
-"surface": "traipuram",
-"quick_gloss": "of-Tripurā"
+"surface": "cinmayaṃ",
+"quick_gloss": "conscious"
 },
 {
-"surface": "hema+lekhā+vākyena",
-"quick_gloss": "by-the-statement-of-the-golden-line"
+"surface": "hemalekhāvākyena",
+"quick_gloss": "by-hemalekhā-sentence"
 },
 {
 "surface": "niścitam",
