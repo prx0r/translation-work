@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p59-v1451
-[thus](evaṃ) [by-means](vidhaiḥ) [by-many-signs](bahuliṅgaiḥ) [to-be-understood](boddhavyaṃ) [by-death-impelled](mṛtyucoditaiḥ)
+[thus](evaṃ) [by-various](vidhaiḥ) [by-many-signs](bahuliṅgaiḥ) [to-be-understood](boddhavyaṃ) [by-death-impelled](mṛtyucoditaiḥ)
 
 ## mukta-m0-p59-v1452
-[this](idaṃ) [O-three-eyed](trinetra) [declared](saṃproktaṃ) [for-yogis](yogino) [at-sunrise](bhāskarodaye)
+[this](idaṃ) [three-eyed](trinetra) [declared](saṃproktaṃ) [yogis](yogino) [at-sunrise](bhāskarodaye)
 
 ## mukta-m0-p59-v1453
-[then](tato) [yogi](yogī) [pure-becoming](śucirbhūtvā) [steadfast](dhīro) [in-yoga-seat](yogāsane) [situated](sthitaḥ)
+[then](tato) [yogi](yogī) [pure](śucirbhūtvā) [steadfast](dhīro) [in-yoga-seat](yogāsane) [situated](sthitaḥ)
 
 ## mukta-m0-p59-v1454
-[careful-always](apramattassadā) [should-stand](tiṣṭhet) [joined](yukto) [sound-unity](nādaikatāṃ) [gone](gataḥ)
+[vigilant](apramattassadā) [always](tiṣṭhet) [should-stand](yukto) [united](nādaikatāṃ) [gone](gataḥ)
 
 ## mukta-m0-p59-v1455
-[nine-powers-thus](navaśaktīti) [transition](saṅkrānti) [at-time](kāle) [indeed](vai) [should-count-always](kalayetsadā)
+[nine-shakti](navaśaktīti) [transit](saṅkrānti) [at-time](kāle) [indeed](vai) [should-calculate](kalayetsadā)
 
 ## mukta-m0-p59-v1456
-[those](ye) [but](tu) [in-transition](saṅkrāntike) [breaths](prāṇā) [central-channel](suṣumnā) [but](tu) [situated](sthito) [should-carry](vahet)
+[those](ye) [but](tu) [in-transit](saṅkrāntike) [pranas](prāṇā) [in-sushumna](suṣumnā) [indeed](tu) [situated](sthito) [should-carry](vahet)
 
 ## mukta-m0-p59-v1457
-[by-day-night](ahorātreṇa) [and](cā) [one-year](bdaikaṃ) [yogi](yogī) [to-live](jīvitum) [desires](icchami)
+[by-day-and-night](ahorātreṇa) [and](cābdaikaṃ) [one-year](yogī) [yogi](jīvitumicchami) [to-live-wishes](icchami)
 
 ## mukta-m0-p59-v1458
-[unknown](**) [should-be-known](vijñeyañ) [by-four](caturbhiś) [four-year](caturabdikam)
+[?](rabdantu) [should-be-known](vijñeyañcaturbhiścaturabdikam)
 
 ## mukta-m0-p59-v1459
-[six-seven-eight-days](ṣaṭsaptāṣṭadine) [deployed](vyūḍhe) [that-many-years](tāvadvarṣāṇi) [lives](jīvati)
+[six-seven-eight-days](ṣaṭsaptāṣṭadine) [arranged](vyūḍhe) [that-many-years](tāvadvarṣāṇi) [lives](jīvati)
 
 ## mukta-m0-p59-v1460
-[sometimes](kadācic) [lord-of-shards](chakaleśānaḥ) [seven-watches-exit](saptapraharanirgamam)
+[sometimes](kadācicchakaleśānaḥ) [lord-of-shakala](saptapraharanirgamam)
 
 ## mukta-m0-p59-v1461
-[five](pañcako) [half](hyardha) [unknown](*) [by-four](caturbhir) [month-living](māsajīvinaḥ)
+[five?](pañcakohyardha) [by-four](caturbhirmāsajīvinaḥ) [months-living](māsajīvinaḥ)
 
 ## mukta-m0-p59-v1462
-[two-watches](praharadvayaṃ) [thus](tathā) [deployed](vyūḍhaṃ) [days-eight](dinānyaṣṭau) [he](sa) [lives](jīvati)
+[two-praharas](praharadvayaṃ) [thus](tathā) [arranged](vyūḍhaṃ) [days-eight](dinānyaṣṭau) [he-lives](sa jīvati)
 
 ## mukta-m0-p59-v1463
-[half-watch](praharārdhaṃ) [carries-whose](vahedyasya) [he](sa) [lives](jīvati) [two-days](dinadvayam)
+[half-prahara](praharārdhaṃ) [carries](vahedyasya) [whose](sa) [he-lives](jīvati) [two-days](dinadvayam)
 
 ## mukta-m0-p59-v1464
-[which](yaṃ) [or](vā) [time](kālaṃ) [ascending](samāruhya) [should-carry](pravahet) [unknown](*) [yam](yam)
+[which](yaṃ) [or](vā) [time](kālaṃ) [having-ascended](samāruhya) [should-carry](pravahet) [?](yam)
 
 ## mukta-m0-p59-v1465
-[northern-course-born](uttarāyaṇaje) [at-time](kāle) [told](kathitaṃ) [to-you](tava) [auspicious-one](śobhane)
+[in-northern-course](uttarāyaṇaje) [time](kāle) [declared](kathitaṃ) [to-you](tava) [auspicious-one](śobhane)
 
 ## mukta-m0-p59-v1466
-[ear-path-made-thumbs](śrotramārgakṛtāṅguṣṭhau) [sound](ghoṣaṃ) [not](na) [hears](śṛṇute) [man](naraḥ)
+[ear-path-made](śrotramārgakṛtāṅguṣṭhau) [thumbs](ghoṣaṃ) [sound](na) [not](śṛṇute) [hears](naraḥ)
 
 ## mukta-m0-p59-v1467
-[kāravam](kāravam)
+[kārava](kāravam)
 
 ## mukta-m0-p59-v1468
-[to-be-produced-and](utpādyañca) [thus-hearing](tathākarṇya) [death-yoga](mṛtyuyogaṃ) [likewise](tathaiva) [and](ca)
+[to-be-produced](utpādyañca) [and](tathākarṇya) [thus-hearing](mṛtyuyogaṃ) [death-yoga](tathaiva) [likewise](ca)
 
 ## mukta-m0-p59-v1469
-[yogi](yogī) [mouth-end-collection](vaktrāntanivahaṃ) [time-transition-five](kālasaṅkrāntipañcakam)
+[yogi](yogī) [mouth-end](vaktrāntanivahaṃ) [multitude](kālasaṅkrāntipañcakam) [time-transit-fivefold](pañcakam)
 
 ## mukta-m0-p59-v1470
-[loss-of-substance](dravyahānir) [mental-agitation](manodvegaṃ) [should-do](kuryād) [disease-increase](rogavivardhanam)
+[loss-of-substance](dravyahānirmanodvegaṃ) [mental-agitation](kuryādrogavivardhanam) [should-do](rogavivardhanam)
 
 ## mukta-m0-p59-v1471
-[in-right-nostril](nāsikādakṣiṇapuṭe) [southern-course-living](dakṣiṇāyanajīvite)
+[in-right-nostril-passage](nāsikādakṣiṇapuṭe) [southern-course-living](dakṣiṇāyanajīvite)
 
 ## mukta-m0-p59-v1472
-[in-left-nostril-cavity-situated](vāmaghrāṇapuṭāntasthaṃ) [transition-eight-five](saṅkrāntyāhyaṣṭapañcakam)
+[in-left-nostril-passage](vāmaghrāṇapuṭāntasthaṃ) [transit-eight-fivefold](saṅkrāntyāhyaṣṭapañcakam)
 
 ## mukta-m0-p59-v1473
-[disease-free](nīroga) [diabetes-and](pramehañca) [urinary-difficulty-causes](mūtrakṛcchrakāpayet)
+[disease-free](nīroga) [diabetes](pramehañca) [and](mūtrakṛcchrakāpayet) [urinary-difficulty](causes)
 
 ## mukta-m0-p59-v1474
-[at-which-time](yatkāle) [carries](vahate) [wind](vāyuḥ) [at-that-time](tatkāle) [next-day](divase) [pare](pare)
+[at-which-time](yatkāle) [carries](vahate) [wind](vāyuḥ) [at-that-time](tatkāle) [day](divase) [next](pare)
 
 ## mukta-m0-p59-v1475
-[above-touch-sign](ator) [hundred-thousand](lakṣaṃ) [nose-below-?](nāsādhastāttu) [ri](ri)
+[above-touch](ator dhvasparśabhaṃ) [hundred-thousand](lakṣaṃ) [nose-below](nāsādhastāttu) [?](ri)

@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p104-v2576
-[remover-of-three-afflictions](tāpatrayaharā) [austere](tāpī) [oil-attached](tailāsaktā) [excellent-sesame](tilottamā)
+[remover-of-three-afflictions](tāpatrayaharā) [ascetic](tāpī) [attached-to-oil](tailāsaktā) [excellent-sesame](tilottamā)
 
 ## mukta-m0-p104-v2577
-[tusked](dantinī) [toothed](danturā) [wooden](dārvī) [divine](devakī) [divine-leader](devanāyikā)
+[tusked](dantinī) [toothed](danturā) [wooden](dārvī) [divine-mother](devakī) [divine-leader](devanāyikā)
 
 ## mukta-m0-p104-v2578
-[irresistible](durvārā) [bad-gait](durgatirdrākṣī) [grape](drākṣā) [dravidian-resident](drāviḍavāsinī)
+[invincible](durvārā) [difficult-course](durgatirdrākṣī) [grape](drākṣā) [dravidian-resident](drāviḍavāsinī)
 
 ## mukta-m0-p104-v2579
-[sorrow-destroyer](duḥkhaghnī) [swift-going](drutagā'duṣṭā) [compassion](dayā) [pride-destroyer](dāmbhikyanāśinī)
+[sorrow-destroyer](duḥkhaghnī) [swift-moving](drutagā) [faultless](aduṣṭā) [compassion](dayā) [destroyer-of-pride](dāmbhikyanāśinī)
 
 ## mukta-m0-p104-v2580
-[bow-holder](dhanurdharā) [bow-creeper](dhanurvallī) [bowman-boon-giver](dhānuṣkavaradāyinī)
+[bow-bearer](dhanurdharā) [bow-creeper](dhanurvallī) [bestower-of-bow-boons](dhānuṣkavaradāyinī)
 
 ## mukta-m0-p104-v2581
-[lotus](nalinī) [dancer](nartakī) [endless](nāntā) [naked](naṅgā) [lotus-eyed](nalinalocanā)
+[lotos-born](nalinī) [dancer](nartakī) [endless](nāntā) [naked](naṅgā) [lotus-eyed](nalinalocanā)
 
 ## mukta-m0-p104-v2582
-[blue-necked](nīlagrīvā) [inactive](nirīhā) [ca](ca) [blue-grove-resident](nīpopavanavāsinī)
+[blue-necked](nīlagrīvā) [inactive](nirīhā) [grove-dweller](nīpopavanavāsinī)
 
 ## mukta-m0-p104-v2583
-[actress](naṭinī) [dance-delighted](nāṭyaniratā) [fresh-butter-lover](navanītapriyā'nilā)
+[actress](naṭinī) [fond-of-dance](nāṭyaniratā) [fond-of-fresh-butter](navanītapriyā) [wind](anilā)
 
 ## mukta-m0-p104-v2584
-[lakshmi](padmāvatī) [lotus-handed](padmakarā) [son-giver](putradā) [son-loving](putravatsalā)
+[lotos-born](padmāvatī) [lotus-handed](padmakarā) [son-giver](putradā) [fond-of-sons](putravatsalā)
 
 ## mukta-m0-p104-v2585
 [flowering](puṣpiṇī) [book-handed](pustakakarā) [clever](paṭuḥ) [fish-vehicle](pāṭhīnavāhanā)
 
 ## mukta-m0-p104-v2586
-[demoness](piśācī) [ca](ca) [demon-slayer](piśācaghnī) [cup-holder](pānapātradharā) [folded](puṭā)
+[demoness](piśācī) [demon-slayer](piśācaghnī) [cup-bearer](pānapātradharā) [purified](puṭā)
 
 ## mukta-m0-p104-v2587
-[five-sacrifices](pañcayajñā) [five-arrows](pañcaśarī) [fifty-beloved](pañcāśatimanupriyā)
+[five-sacrifices](pañcayajñā) [five-arrowed](pañcaśarī) [dear-to-fifty](pañcāśatimanupriyā)
 
 ## mukta-m0-p104-v2588
-[fruitful](phalinī) [fruit-giver](phaladātrī) [ca](ca) [empty-handed](phalguhastā) [snake-lover](phaṇipriyā)
+[fruitful](phalinī) [fruit-giver](phaladātrī) [fruit-handed](phalguhastā) [snake-loving](phaṇipriyā)
 
 ## mukta-m0-p104-v2589
-[illusion-of-strength](balamāyā) [strength-praised](balastutyā) [banyan-army](bilvasenā) [strength-weakness](balābalā)
+[illusion-of-strength](balamāyā) [praised-for-strength](balastutyā) [banyan-army](bilvasenā) [strong-weak](balābalā)
 
 ## mukta-m0-p104-v2590
 [buddha-mother](buddhamātā) [buddhist-minded](bauddhamatirbaddhā) [bondage-releaser](bandhanamocinī)
 
 ## mukta-m0-p104-v2591
-[bhimeshvari](bhīmeśvarī) [ca](ca) [fierce](bheruṇḍā) [bhageshi](bhageśī) [bhaga-creeper](bhagasarpiṇī)
+[bhimeshvari](bhīmeśvarī) [fierce](bheruṇḍā) [bhageshi](bhageśī) [bhaga-creeper](bhagasarpiṇī)
 
 ## mukta-m0-p104-v2592
-[intoxicated](mattā) [charming](manoharā) [fish](mīnā) [mainaka-mother](mainākajananī) [muri](murī)
+[intoxicated](mattā) [mind-stealing](manoharā) [fish](mīnā) [mainaka-mother](mainākajananī) [muri](murī)
 
 ## mukta-m0-p104-v2593
-[elephant-gait](mattamātaṅgagā) [madri](mādrī) [swan-gait](marālagatirañcalā)
+[elephant-gaited](mattamātaṅgagā) [madri](mādrī) [swan-gaited](marālagatirañcalā)
 
 ## mukta-m0-p104-v2594
-[famous](yaśovatī) [ascetic-abiding](yatisthā) [ca](ca) [self-controlled](yatātmā) [ascetic-beloved](yativallabhā)
+[famous](yaśovatī) [ascetic-abiding](yatisthā) [self-controlled](yatātmā) [ascetic-beloved](yativallabhā)
 
 ## mukta-m0-p104-v2595
-[sacrificial-thread-giver](yajñasūtrapradā) [eldest](jyeṣṭhā) [sacrifice-ground-rooted](yajñabhū(900)ryūpamūlinī)
+[sacrificial-thread-giver](yajñasūtrapradā) [eldest](jyeṣṭhā) [sacrificial-ground-rooted](yajñabhūryūpamūlinī)
 
 ## mukta-m0-p104-v2596
-[dusty](ra jovatī) [dust-variegated](rajaścitrā) [kingdom-giver](rājyadā) [kingdom-increaser](rājyavardhinī)
+[dusty](rajovatī) [variegated-dust](rajaścitrā) [kingdom-giver](rājyadā) [kingdom-increaser](rājyavardhinī)
 
 ## mukta-m0-p104-v2597
-[shaken](lulitā) [creeper](latikā) [spoken](lāpyā) [lost](lopā) [woman-desired](lalanalālasā)
+[shaken](lulitā) [creeper](latikā) [spoken](lāpyā) [lost](lopā) [fond-of-women](lalanalālasā)
 
 ## mukta-m0-p104-v2598
-[lanka](laṅkā) [matted-hair](lalajjaṭājūṭā) [transcended](laṅghitā) [world-beautiful](lokasundarī)
+[lanka](laṅkā) [matted-haired](lalajjaṭājūṭā) [transcended](laṅghitā) [world-beautiful](lokasundarī)
 
 ## mukta-m0-p104-v2599
-[altar](vedirvilagnā) [speech](vāṇī) [ca](ca) [veena](vīṇā) [reed](veṇurvaneśvarī)
+[altar](vedirvilagnā) [speech](vāṇī) [lute](vīṇā) [reed](veṇurvaneśvarī)
 
 ## mukta-m0-p104-v2600
-[conch](śaṅkhinī) [conch-bracelet](śaṅkhavalayā) [conch-weapon-holder](śaṅkhāyudhadharā) [calm](śamā)
+[conch-bearing](śaṅkhinī) [conch-braceleted](śaṅkhavalayā) [conch-weaponed](śaṅkhāyudhadharā) [tranquil](śamā)
