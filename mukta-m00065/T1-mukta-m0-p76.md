@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p76-v1876
-[by-union-of-shiva-uma-mantra](śivomāmantrayogena) [joining](sandhānaṃ) [of-those-desiring-prosperity](bhūtikāṅkṣiṇām)
+[śiva-umā-mantra-yoga+ena](śivomāmantrayogena) [sandhāna](sandhānaṃ) [bhūti-kāṅkṣin+ām](bhūtikāṅkṣiṇām)
 
 ## mukta-m0-p76-v1877
-[ending-of-marks-beginning-with-image](mūrtyādyaṅkāvasānaṃ) [but](tu) [again](punarevaṃ) [thus](tu) [should-place](vinyaset)
+[mūrti-ādi-aṅka-avasāna](mūrtyādyaṅkāvasānaṃ) [tu](tu) [punar-evam](punarevaṃ) [tu](tu) [vinyaset](vinyaset)
 
 ## mukta-m0-p76-v1878
-[then](tataḥ)
+[tataḥ](tataḥ)
 
 ## mukta-m0-p76-v1879
-[establishment-of-rudra-and-others](rudrādīnāṃ) [of-all](tu) [truly](sarveṣāṃ) [in-order](sthāpanaṃ) [tathvataḥ](tathvataḥ) [kramāt](kramāt)
+[rudra-ādi+nām](rudrādīnāṃ) [tu](tu) [sarva+eṣām](sarveṣāṃ) [sthāpana](sthāpanaṃ) [tattvataḥ](tathvataḥ) [kramāt](kramāt)
 
 ## mukta-m0-p76-v1880
-[ātma-vidyās](ātmavidyāḥ) [śiva](śivaṃ) [and-indeed](caiva) [should-meditate-in-sequence](bhāvayedanupūrvataḥ)
+[ātma-vidyāḥ](ātmavidyāḥ) [śiva](śivaṃ) [ca-eva](caiva) [bhāvayet](bhāvayed) [anupūrvataḥ](anupūrvataḥ)
 
 ## mukta-m0-p76-v1881
-[established](vyavasthitāḥ)
+[vyavasthitāḥ](vyavasthitāḥ)
 
 ## mukta-m0-p76-v1882
-[in-vidyā-tattva](vidyātattve) [situated](sthitā) [indeed-these](hyete) [with-authority](sādhikāre) [know-the-wise](vidurbudhāḥ)
+[vidyā-tattve](vidyātattve) [sthitāḥ](sthitā) [hi-ete](hyete) [sa-adhikāre](sādhikāre) [viduḥ](vidur) [budhāḥ](budhāḥ)
 
 ## mukta-m0-p76-v1883
-[three-tattva-pervasion-declared](tritattvavyāptirākhyātā) [paths](panthānaḥ) [sixfold-here](ṣaḍvidhāstviha)
+[tri-tattva-vyāptiḥ](tritattvavyāptir) [ākhyātā](ākhyātā) [panthānaḥ](panthānaḥ) [ṣaḍ-vidhāḥ](ṣaḍvidhāḥ) [tu-iha](tviha)
 
 ## mukta-m0-p76-v1884
-[in-order](kramāt)
+[kramāt](kramāt)
 
 ## mukta-m0-p76-v1885
-[thirty-five-tattva](triṃśatpañcādhikaṃ) [tattva](tattvaṃ) [good-path](sanmārgaṃ) [pīṭha-of-īśvara](pīṭhamaiśvaram)
+[triṃśat-pañca-adhika](triṃśatpañcādhikaṃ) [tattva](tattvaṃ) [sat-mārga](sanmārgaṃ) [pīṭha](pīṭham) [aiśvara](aiśvaram)
 
 ## mukta-m0-p76-v1886
-[with-ten-arms](bhujaistu) [ten](daśabhiryuktaṃ) [crowned-with-matted-hair](jaṭāmukuṭamaṇḍitam)
+[bhuja+tū](bhujaistu) [daśabhiḥ](daśabhir) [yukta](yuktaṃ) [jaṭā-mukuṭa-maṇḍita](jaṭāmukuṭamaṇḍitam)
 
 ## mukta-m0-p76-v1887
-[with-gaṇas-gods-and-siddhas](gaṇairdevaistathā) [being-praised](siddhaiḥ) [endowed](stūyamānaiḥ) [together](samāyutam)
+[gaṇaiḥ](gaṇair) [deva+tathā](devaistathā) [siddhaiḥ](siddhaiḥ) [stūyamānaiḥ](stūyamānaiḥ) [samāyuta](samāyutam)
 
 ## mukta-m0-p76-v1888
-[by-sadyojāta](sadyolātena) [should-contemplate](saṃcintya) [by-vāmadeva](vāmadevena) [should-place](vinyaset)
+[sadyojātena](sadyolātena) [saṃcintya](saṃcintya) [vāmadevena](vāmadevena) [vinyaset](vinyaset)
 
 ## mukta-m0-p76-v1889
-[engaged-in-cognition-action](bodhakriyāniviṣṭaṃ) [indeed](tu) [to-be-known](jñeyaṃ) [remember-as-knowledge-refuge](jñānāśritaṃ) [smaret](smaret)
+[bodha-kriyā-niviṣṭa](bodhakriyāniviṣṭaṃ) [tu](tu) [jñeya](jñeyaṃ) [jñāna-āśrita](jñānāśritaṃ) [smaret](smaret)
 
 ## mukta-m0-p76-v1890
-[tārā-in-the-middle-of-sound](dhvanimadhyagatā) [tārā](tārā) [moon-in-the-middle-of-tārā](tārāmadhyagateḥ) [śaśī](śaśī)
+[dhvani-madhya-gatā](dhvanimadhyagatā) [tārā](tārā) [tārā-madhya-gateḥ](tārāmadhyagateḥ) [śaśī](śaśī)
 
 ## mukta-m0-p76-v1891
-[sun-in-the-middle](ravimadhyagataḥ) [peaceful](śāntaḥ) [śiva-in-the-middle-of-peace](śāntamadhyagataḥ) [śivaḥ](śivaḥ)
+[ravi-madhya-gataḥ](ravimadhyagataḥ) [śāntaḥ](śāntaḥ) [śānta-madhya-gataḥ](śāntamadhyagataḥ) [śivaḥ](śivaḥ)
 
 ## mukta-m0-p76-v1892
-[then-homa-to-digdevatā](tadā) [should-be-done](digdevatāhomaḥ) [kāryā](kāryā) [peace-and-removal-of-faults](śāntiśca) [doṣahṛt](doṣahṛt)
+[tadā](tadā) [dig-devatā-homaḥ](digdevatāhomaḥ) [kāryā](kāryā) [śānti+ca](śāntiśca) [doṣa-hṛt](doṣahṛt)
 
 ## mukta-m0-p76-v1893
-[otherwise](anyathā) [would-be-terrible](tu) [bhavedghoraṃ](bhavedghoraṃ) [kartṛ-rāṣṭra-deformity](kartṛrāṣṭravirūpakam)
+[anyathā](anyathā) [tu](tu) [bhavet](bhaved) [ghora](ghoraṃ) [kartṛ-rāṣṭra-virūpaka](kartṛrāṣṭravirūpakam)
 
 ## mukta-m0-p76-v1894
-[elephant-goat-lulāya](gajaṃ) [and](chāgaṃ) [lulāyaṃ](lulāyaṃ) [ca](ca) [female-slave-fish-deer-sheep](dāsīṃ) [matsyaṃ](matsyaṃ) [mṛgāvikam](mṛgāvikam)
+[gaja](gajaṃ) [chāga](chāgaṃ) [lulāya](lulāyaṃ) [ca](ca) [dāsī](dāsīṃ) [matsya](matsyaṃ) [mṛga-avika](mṛgāvikam)
 
 ## mukta-m0-p76-v1895
-[then-thread](pakṣasūtraṃ) [should-give](tato) [dadyādṛjvarthaṃ](dadyādṛjvarthaṃ) [lambasūtrakam](lambasūtrakam)
+[pakṣa-sūtra](pakṣasūtraṃ) [tataḥ](tato) [dadyāt](dadyād) [ṛju-artha](ṛjvarthaṃ) [lamba-sūtraka](lambasūtrakam)
 
 ## mukta-m0-p76-v1896
-[in-moving-sounding-erring](calile) [śabdite](śabdite) [bhrānte](bhrānte) [praṇate](praṇate) [svasthite](svasthite) [in-order](kramāt)
+[calile](calile) [śabdite](śabdite) [bhrānte](bhrānte) [praṇate](praṇate) [svasthite](svasthite) [kramāt](kramāt)
 
 ## mukta-m0-p76-v1897
-[with-auspicious-milk-metal-impurities](kṣīralohamalaiḥ) [śubhaiḥ](śubhaiḥ)
+[kṣīra-loha-malaiḥ](kṣīralohamalaiḥ) [śubhaiḥ](śubhaiḥ)
 
 ## mukta-m0-p76-v1898
-[then-bathing-with-peace-pots](tataḥ) [śāntighaṭāmmobhiḥ](śāntighaṭāmmobhiḥ) [snānaṃ](snānaṃ) [mūrtidharāḥ](mūrtidharāḥ) [svakam](svakam)
+[tataḥ](tataḥ) [śānti-ghaṭa-āmmobhiḥ](śāntighaṭāmmobhiḥ) [snāna](snānaṃ) [mūrti-dharāḥ](mūrtidharāḥ) [svaka](svakam)
 
 ## mukta-m0-p76-v1899
-[with-water-milk-curd-honey-ghee-water](toyakṣīradadhikṣaudraghṛtatoyāntarātmakaiḥ)
+[toya-kṣīra-dadhi-kṣaudra-ghṛta-toya-antar-ātmaka](toyakṣīradadhikṣaudraghṛtatoyāntarātmakaiḥ)
 
 ## mukta-m0-p76-v1900
-[mugdā](mugdā) [dyaṅgulamātrasya](dyaṅgulamātrasya) [calasya](calasya) [sthāpane](sthāpane) [hitam](hitam)
+[mugdā](mugdā) [dyaṅgula-mātrasya](dyaṅgulamātrasya) [calasya](calasya) [sthāpane](sthāpane) [hita](hitam)
