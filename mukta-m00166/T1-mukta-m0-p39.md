@@ -5,73 +5,73 @@
 [battle-desiring](yuddhakāṃkṣiṇī)
 
 ## mukta-m0-p39-v952
-[would-abandon](tyajeyuḥ) [you](tvaṃ) [not](na) [if](cen) [swoon-causing](mūrcchā+kartrī) [would-be](syā) [battle-desiring](yuddha+kāṃkṣiṇī)
+[they-would-abandon](tyajeyuḥ) [you](tvaṃ) [not](na) [if](cen) [fainting-causing](mūrcchākartrī) [would-be](syā) [battle-desiring](yuddhakāṃkṣiṇī)
 
 ## mukta-m0-p39-v953
-[bannered](patākinī)
+[bannered-one](patākinī)
 
 ## mukta-m0-p39-v954
-[position](sthitiṃ) [for-welfare](hitāyāḥ) [let-be](astu) [bannered](patākinī) [she](sā)
+[for-welfare](hitāya) [let-her-be](astu) [bannered-one](patākinī) [she](sā)
 
 ## mukta-m0-p39-v955
-[compassion-beginning](dayā+ārambhā)
+[page-136](p.) [compassion-beginning](dayārambhā)
 
 ## mukta-m0-p39-v956
-[truth](satyaṃ) [she-indeed](sā+eva) [compassion-beginning](dayārambhā) [honored-three-worlds](sambhāvita+jagat+attrayī)
+[truth](satyaṃ) [she-indeed](saiva) [compassion-beginning](dayārambhā) [honored-three-worlds](sambhāvitajagatattrayī)
 
 ## mukta-m0-p39-v957
-[vīṇā-fifth-dear](vipañcī+pañcama+priyā)
+[vīṇā-five-favored](vipañcīpañcamapriyā)
 
 ## mukta-m0-p39-v958
-[how](kathaṃ) [would-be](syuḥ) [would-not-be](syāt+na) [if-not](ced) [goddess](devī) [vīṇā-fifth-dear](vipañcīpañcamapriyā)
+[how](kathaṃ) [would-be](syuḥ) [would-be-not](syānna) [if](ced) [goddess](devī) [vīṇā-five-favored](vipañcīpañcamapriyā)
 
 ## mukta-m0-p39-v959
-[supreme-inferior-art-lovely](parā+apara+kalā+kāntā)
+[supreme-inferior-art-lovely](parāparakalākāntā)
 
 ## mukta-m0-p39-v960
 [supreme-inferior-art-lovely](parāparakalākāntā) [she](sā) [mine](mama) [let-be](astu) [before](agrataḥ) [always](sadā)
 
 ## mukta-m0-p39-v961
-[three-powers](tri+śaktiḥ)
+[three-powers](triśaktiḥ)
 
 ## mukta-m0-p39-v962
-[in-whom](yeṣu) [three-powers](triśaktiḥ) [indeed](kila) [well-pleased](suprasannā)
+[in-whom](yeṣu) [three-powers](triśaktiḥ) [indeed](kila) [very-pleased](suprasannā)
 
 ## mukta-m0-p39-v963
-[liberation-giving](mokṣa+dāyinī)
+[liberation-giving](mokṣadāyinī)
 
 ## mukta-m0-p39-v964
-[alas](vata) [whose](yasya) [goddess](īśvari) [liberation-giving](mokṣadāyinī) [you](tvam)
+[alas](vata) [whose](yasya) [O-goddess](īśvari) [liberation-giving](mokṣadāyinī) [you](tvam)
 
 ## mukta-m0-p39-v965
-[Indra's](aindrī)
+[page-137](p.) [Indra's](aindrī)
 
 ## mukta-m0-p39-v966
-[by-water-removing](jala+tvat+ūrīkaraṇena) [may-become](bhūyāt) [Indra's](aindrī) [elephant-king-upon-going](gajendra+upari+gā) [for-prosperity](śriye) [our](naḥ)
+[water-your-removing](jalatvadūrīkaraṇena) [may-become](bhūyāt) [Indra's](aindrī) [elephant-lord-upon-going](gajendroparigā) [for-prosperity](śriye) [to-us](naḥ)
 
 ## mukta-m0-p39-v967
-[Maheshvara's](māheśvarī)
+[Maheśvarī](māheśvarī)
 
 ## mukta-m0-p39-v968
-[even-so](tathāpi) [trident-bearer](śūlī) [supreme-lord](parameśvaraḥ) [that-Maheshvari-service-born](tan+māheśvarī+sevana+jaḥ) [grace](prasādaḥ)
+[nevertheless](tathāpi) [trident-bearer](śūlī) [supreme-lord](parameśvaraḥ) [that](tan) [Maheśvarī-service-born](māheśvarīsevanajaḥ) [grace](prasādaḥ)
 
 ## mukta-m0-p39-v969
-[Brahma's](brāhmī)
+[Brahmī](brāhmī) [may-be](bhūyāt) [always](sadā) [goddess](devī) [Brahma-creation-sole-witness](brahmasṛṣṭyekasākṣiṇī)
 
 ## mukta-m0-p39-v970
-[Brahma's](brāhmī) [may-be](bhūyāt) [always](sadā) [goddess](devī) [Brahma-creation-sole-witness](brahma+sṛṣṭi+eka+sākṣiṇī)
+[Brahmī](brāhmī) [may-be](bhūyāt) [always](sadā) [goddess](devī) [Brahma-creation-sole-witness](brahmasṛṣṭyekasākṣiṇī)
 
 ## mukta-m0-p39-v971
-[Kumara's](kaumārī)
+[Kaumārī](kaumārī)
 
 ## mukta-m0-p39-v972
-[youth-stealing](kumāra+hāriṇī) [may-be](bhūyāt) [Kumara's](kaumārī) [death-fear-removing](māra+bhīti+hṛt)
+[boy-stealing](kumārahāriṇī) [may-be](bhūyāt) [Kaumārī](kaumārī) [death-fear-removing](mārabhītihṛt)
 
 ## mukta-m0-p39-v973
-[clan-dwelling](kula+vāsinī)
+[clan-dwelling](kulavāsinī)
 
 ## mukta-m0-p39-v974
-[Shiva-giving](śiva+dā) [may-stand](stāt) [clan-dwelling](kulavāsinī) [always](sadā) [our](naḥ)
+[auspicious-giving](śivadā) [let-be](stāt) [clan-dwelling](kulavāsinī) [always](sadā) [to-us](naḥ)
 
 ## mukta-m0-p39-v975
 [desire](icchā)
