@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p404-v10076
-[veda-vyasa](vedavyāso) [sage](muniśchandaḥ) [work](kṛtirgaṅgā) [and](ca) [deity](devatā)
+veda-vyasa sage meter creation ganges and deity
 
 ## mukta-m0-p404-v10077
-[all](nikhilaṃ) [as-before](pūrvavatkuryānnikhilābhīṣṭado) [manu](manuḥ)
+all as-before do all-desired-giving manu
 
 ## mukta-m0-p404-v10078
-[om](oṃ) [hriṃ](hrīṃ) [shriṃ](śrīṃ) [heart-goddess](hṛdbhagavati) [ganga](gaṅge) [beloved](ca) [salutation](dayite) [namaḥ](namaḥ)
+oṃ hrīṃ śrīṃ hṛdbhagavati gaṅge ca dayite namaḥ
 
 ## mukta-m0-p404-v10079
-[three-two-ocean-arrow-five-color](tridvyabdhīṣudvidvivarṇaiḥ) [six-limb-rite](ṣaḍaṅgavidhirīritaḥ)
+three-two-ocean-arrow-two-varna six-limb-rite-declared
 
 ## mukta-m0-p404-v10080
-[letter-lakh](varṇalakṣaṃ) [japa](japeddhomaḥ) [as-before](prāgvatsammatkarastvayam)
+varna-lakh japa homa as-before well-pleasing-hand this
 
 ## mukta-m0-p404-v10081
-[hili-pair](hilidvandvaṃ) [mili-pair](milidvandvaṃ) [ganga](gaṅge) [goddess](devi) [salutation](namastathā)
+hili-pair mili-pair ganges goddess salutation thus
 
 ## mukta-m0-p404-v10082
-[three-two-two-eye-yuga-two-letter](tridvidvyakṣiyugadvyarṇaiḥ) [six-limb-rite](ṣaḍaṅgavidhirīritaḥ)
+three-two-two-eye-yuga-two-varna six-limb-rite-declared
 
 ## mukta-m0-p404-v10083
-[to-narmada](narmadāyai) [salutation](nama) [iti](iti) [six-letter](ṣaḍarṇaḥ) [declared](parikīrtitaḥ)
+to-narmada salutation thus six-syllable proclaimed
 
 ## mukta-m0-p404-v10084
-[page-595](p.) [shining-hand](lasaddhastāṃ) [golden-radiance](svarṇakāntiṃ) [with-ornaments](sālaṅkārāṃ) [i-worship](bhajāmyaham)
+shining-hand golden-radiance ornamented i-worship
 
 ## mukta-m0-p404-v10085
-[six-limbs](ṣaḍaṅgāni) [one-by-one-syllable-heart-etc-nyasa](ekaikākṣarairhṛdayādinyāsāḥ) [as-nahṛdayāya-namaḥ](yathā-nahṛdayāya) [namaḥ](namaḥ) [rmaśirase](rmaśirase) [svāhā](svāhā) [dā](dā) [śikhāyai](śikhāyai) [vaṣaṭ](vaṣaṭ) [etc](ityādi) [ca](ca) [mantra-letters](mantrārṇaiḥ) [japa](prajapedvarṇasaṅkhyayā)
+six-limbs [ekaikaksharairhridayadinyasah yatha-nahridayaya namah rmashirase svaha, da shikhayai vashat ityadi] and mantra-syllables by-varna-count
 
 ## mukta-m0-p404-v10086
-[here](iha) [happiness](saukhyaṃ) [thereafter](paratrāpi) [shiva-world](śivaloke) [exalted](mahīyate)
+here happiness hereafter also shiva-world exalted
 
 ## mukta-m0-p404-v10087
-[sarasvati-bank](sarasvatītaṭe) [japa](japtāstvaritaṃ) [quickly](siddhidāyakāḥ)
+sarasvati-bank chanted quickly accomplishment-giving
 
 ## mukta-m0-p404-v10088
-[ganga-word](gaṅgāśabdasya) [before](pūrve) [they](te) [godā-mantras](godāyā) [remembered](manavaḥ) [smṛtāḥ](smṛtāḥ)
+ganges-word before they goda mantras remembered
 
 ## mukta-m0-p404-v10089
-[shri-krishna-play-river](śrīkṛṣṇakheladyunadi) [save-me](trāhi) [me](māṃ) [you](tvaṃ) [ocean-of-becoming](bhavārṇavāt)
+shri-krishna-play-river save me from ocean-of-becoming
 
 ## mukta-m0-p404-v10090
-[meter-anushtubh](chandonuṣṭup) [six-limbs](ṣaḍaṅgāni) [half-quarter-sequence](pādārdhārdhakrameṇa) [ca](ca)
+meter anushthup six-limbs quarter-half-half-order
 
 ## mukta-m0-p404-v10091
-[sesame-ghee](tilājyābhyāṃ) [offer](hunenmantrī) [bhaskari](bhāskariṃ) [not](naiva) [look](vīkṣate)
+sesame-ghee offer mantra-adept bhaskari not behold
 
 ## mukta-m0-p404-v10092
-[so-and-so-island](amukadvīpāvarakāmukadravyodadhe) [say](vadet)
+such-island-enclosure such-thing-ocean say
 
 ## mukta-m0-p404-v10093
-[ocean-mantra](samudramantra) [declared](uddiṣṭaḥ) [island-sage](sindhudvīpo) [munirmataḥ](munirmataḥ)
+ocean-mantra declared island-sage opinion
 
 ## mukta-m0-p404-v10094
-[words-of-mantra](padairmanoḥ) [six-limbs](ṣaḍaṅgāni) [that-form](tattadrūpaṃ) [contemplate](vicintayet)
+by-words of-mantra six-limbs each-form contemplate
 
 ## mukta-m0-p404-v10095
-[that-thing-within](tattadantargataṃ) [object](vastu) [obtains](labhate) [sadhaka](sādhako) [certainly](dhruvam)
+each-within thing obtain practitioner certainly
 
 ## mukta-m0-p404-v10096
-[tara](tāraṃ) [yaṃ](yaṃ) [vāyu](vāyave) [prāṇa-lord](prāṇādhipataye) [pada](padaṃ) [say](vadet)
+tara [oṃ yaṃ vāyave prāṇādhipataye kṛṣṇavarṇāyāṃkuśahastāya mṛgavāhanāya namaḥ] yaṃ vayave pranadhipati pada say
 
 ## mukta-m0-p404-v10097
-[ya](ya) [salutation](namo) [go-two-color](godvivarṇoyaṃ) [vāyu-mantra](vāyumantra) [declared](udīritaḥ)
+ya salutation god-two-varna ya air-mantra declared
 
 ## mukta-m0-p404-v10098
-[five-limbs](pañcāṅgāni) [of-mantra](manorasya) [om-yaṃ](oṃ) [seed-etc](yaṃ) [bījādikaiḥ](bījādikaiḥ) [padas](padaiḥ)
+five-limbs of-mantra this oṃ yaṃ seed-etc words
 
 ## mukta-m0-p404-v10099
-[noose-goad-hand](pāśāṃkuśakaram) [pretas](pretakṛtyāparisarānvitam)
+noose-goad-hand preta-act-surrounding
 
 ## mukta-m0-p404-v10100
-[siddha-mantra](siddhamantrastu) [then](tatkālambhavedbhūmau) [balādhikaḥ](balādhikaḥ)
+accomplished-mantra then at-that-time become earth strength-greater
