@@ -12,7 +12,7 @@
 },
 {
 "surface": "caṇḍasya",
-"quick_gloss": "of-caṇḍa"
+"quick_gloss": "and-of-caṇḍa"
 },
 {
 "surface": "yāgaḥ",
@@ -123,12 +123,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "sva+artha",
-"quick_gloss": "for-own-purpose"
-},
-{
-"surface": "mantra+sthitiḥ",
-"quick_gloss": "mantra-abiding"
+"surface": "sva+artha+mantra+sthitiḥ",
+"quick_gloss": "own-purpose-mantra-abiding"
 },
 {
 "surface": "tena",
@@ -236,7 +232,7 @@
 "tokens": [
 {
 "surface": "dvaita+advaitāni",
-"quick_gloss": "duality-and-non-duality"
+"quick_gloss": "duality-non-duality"
 },
 {
 "surface": "tāni",
@@ -247,7 +243,7 @@
 "quick_gloss": "here"
 },
 {
-"surface": "sāmānyani",
+"surface": "sāmānyāni",
 "quick_gloss": "common"
 },
 {
@@ -285,15 +281,19 @@
 },
 {
 "surface": "advaite",
-"quick_gloss": "in-non-duality"
+"quick_gloss": "in-duality"
 },
 {
 "surface": "nirmālyaṃ",
 "quick_gloss": "remains"
 },
 {
+"surface": "ca",
+"quick_gloss": "and"
+},
+{
 "surface": "caṇḍa+varjitam",
-"quick_gloss": "except-caṇḍa"
+"quick_gloss": "devoid-of-caṇḍa"
 }
 ]
 },
@@ -306,7 +306,7 @@
 "tokens": [
 {
 "surface": "sva+iṣṭaṃ",
-"quick_gloss": "one's-own-desired"
+"quick_gloss": "one's-own-chosen-deity"
 },
 {
 "surface": "na",
@@ -326,7 +326,7 @@
 },
 {
 "surface": "vidhi+kalpitam",
-"quick_gloss": "prescribed-by-rule"
+"quick_gloss": "prescribed-by-rite"
 }
 ]
 },
@@ -376,7 +376,7 @@
 },
 {
 "surface": "bhrātṛ+putrāṇāṃ",
-"quick_gloss": "of-brothers-and-sons"
+"quick_gloss": "to-brothers-and-sons"
 },
 {
 "surface": "bhaginīnāṃ",
@@ -416,12 +416,12 @@
 "quick_gloss": "wonder"
 },
 {
-"surface": "yadā",
-"quick_gloss": "when"
+"surface": "liṅga+sannihitaṃ",
+"quick_gloss": "near-the-liṅga"
 },
 {
-"surface": "liṅga+sannihitaṃ",
-"quick_gloss": "near-liṅga"
+"surface": "yadā",
+"quick_gloss": "when"
 }
 ]
 },
@@ -491,7 +491,7 @@
 },
 {
 "surface": "vidhiḥ",
-"quick_gloss": "procedure"
+"quick_gloss": "rite"
 }
 ]
 },
@@ -557,7 +557,7 @@
 "quick_gloss": "mental"
 },
 {
-"surface": "kāryaṃ",
+"surface": "kāryam",
 "quick_gloss": "to-be-done"
 },
 {
@@ -579,7 +579,7 @@
 "tokens": [
 {
 "surface": "nimrabu+kusumaiḥ",
-"quick_gloss": "with-immersed-flowers"
+"quick_gloss": "with-unfading-flowers"
 },
 {
 "surface": "pūjā",
@@ -636,7 +636,7 @@
 "quick_gloss": "one-should-place"
 },
 {
-"surface": "diśāṃ",
+"surface": "diśām",
 "quick_gloss": "of-directions"
 },
 {
@@ -665,7 +665,7 @@
 "quick_gloss": "also"
 },
 {
-"surface": "avaṃ",
+"surface": "avam",
 "quick_gloss": "lower-part"
 },
 {
@@ -673,7 +673,7 @@
 "quick_gloss": "they-worship"
 },
 {
-"surface": "aṅgaṃ",
+"surface": "aṅgam",
 "quick_gloss": "limb"
 },
 {
@@ -703,7 +703,7 @@
 "tokens": [
 {
 "surface": "eka+dvi+tri+kare",
-"quick_gloss": "in-one-two-three-hands"
+"quick_gloss": "in-one-two-three-cubits"
 },
 {
 "surface": "pūjyaḥ",
