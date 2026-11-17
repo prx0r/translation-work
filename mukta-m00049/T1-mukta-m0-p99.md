@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p99-v2451
-[by-causes](kāraṇaiḥ) [with-purity-accompanied](śuddhisahitaiḥ) [having-worshipped](abhyarcya) [should-choose](vṛṇuyāt) [guru](gurum)
+[by-causes](kāraṇaiḥ) [pure-accompanied](śuddhisahitaiḥ) [worship](abhyarcya) [choose](vṛṇuyāt) [guru](gurum)
 
 ## mukta-m0-p99-v2452
-[with-variegated-banners+flags](citradhvajapatākābhiḥ) [adorned-with-fruits+sprouts](phalapallavaśobhite)
+[variegated-banners](citradhvajapatākābhiḥ) [fruits-sprouts-beautified](phalapallavaśobhite)
 
 ## mukta-m0-p99-v2453
-[with-ghee-lamp-rows](ghṛtapradīpāvalibhiḥ) [free-from-darkness](tamoleśavivarjite)
+[ghee-lamps](ghṛtapradīpāvalibhiḥ) [darkness-free](tamoleśavivarjite)
 
 ## mukta-m0-p99-v2454
-[with-fans+chamaras+peacock-feathers+mirrors+etc](vyajanaiścāmarairbarhairdarpaṇādyairalaṅkṛte)
+[fans](vyajanaiḥ) [whisks](cāmaraiḥ) [peacock-tails](barhaiḥ) [mirror-etc](darpaṇādyaiḥ) [adorned](alaṅkṛte)
 
 ## mukta-m0-p99-v2455
-[should-make](racayet) [earthen](mṛṇmayīm) [there](tatra) [with-powders+unbroken-rice](cūrṇairakṣatasambhavaiḥ)
+[make](racayet) [clay](mṛṇmayīm) [there](tatra) [powders](cūrṇaiḥ) [unbroken-rice-born](akṣatasambhavaiḥ)
 
 ## mukta-m0-p99-v2456
-[i-will-do](kariṣye) [thus](iti) [resolve](saṅkalpam) [should-perform](ācaret) [should-do](kuryāt)
+[i-will-do](kariṣye) [thus](iti) [resolve](saṅkalpam) [perform](ācaret) [do](kuryāt)
 
 ## mukta-m0-p99-v2457
-[with-cloths+etc](vastrādibhiḥ) [should-choose](vṛṇuyāt)
+[cloths-etc](vastrādibhiḥ) [choose](vṛṇuyāt)
 
 ## mukta-m0-p99-v2458
-[with-variegated-banners+flags](citradhvajapatākābhiḥ) [and](ca) [adorned](śobhite)
+[variegated-banners](citradhvajapatākābhiḥ) [and](ca) [beautified](śobhite)
 
 ## mukta-m0-p99-v2459
-[mandala](maṇḍalam) [all-auspicious](sarvatobhadram) [should-make](vidadyāt) [holy-guru](śrīguruḥ) [then](tataḥ)
+[mandala](maṇḍalam) [all-auspicious](sarvatobhadram) [make](vidadyāt) [holy-guru](śrīguruḥ) [then](tataḥ)
 
 ## mukta-m0-p99-v2460
-[having-done](kṛtvā) [previously-stated-mantra](pūrvoktamantreṇa) [five-elements](pañcatattvāni) [should-purify](śodhayet)
+[having-done](kṛtvā) [aforementioned-mantra](pūrvoktamantreṇa) [five-elements](pañcatattvāni) [purify](śodhayet)
 
 ## mukta-m0-p99-v2461
-[golden](svārṇam) [or](vā) [silver](rājatam) [copper](tāmram) [earthen](mṛṇmayam) [pot-indeed](ghaṭameva) [or](vā)
+[golden](svārṇam) [or](vā) [silver](rājatam) [copper](tāmram) [clay](mṛṇmayam) [pot-indeed](ghaṭameva) [or](vā)
 
 ## mukta-m0-p99-v2462
-[should-place](sthāpayet) [by-brahma-seed](brahmabījena) [with-vermilion](sindūreṇa) [should-mark](aṅkayet) [with-prosperity](śriyā)
+[place](sthāpayet) [brahma-seed](brahmabījena) [vermilion](sindūreṇa) [mark](aṅkayet) [prosperity](śriyā)
 
 ## mukta-m0-p99-v2463
-[by-root-mantra-thrice-recited](mūlamantratrijāpena) [should-fill](pūrayet) [by-cause](kāraṇena) [that](tam)
+[root-mantra-triple-recitation](mūlamantratrijāpena) [fill](pūrayet) [cause](kāraṇena) [that](tam)
 
 ## mukta-m0-p99-v2464
-[nine-gems](navaratnam) [gold](suvarṇam) [or](vā) [into-pot](ghaṭamadhye) [should-insert](viniḥkṣipet)
+[nine-gems](navaratnam) [gold](suvarṇam) [or](vā) [in-pot](ghaṭamadhye) [cast](viniḥkṣipet)
 
 ## mukta-m0-p99-v2465
-[dark+yellowish](śyāmalairharidvarṇaiḥ)
+[dark-green](śyāmalaiḥ) [yellow](haridvarṇaiḥ)
 
 ## mukta-m0-p99-v2466
-[by-previously-stated-mantra](pūrvoktamantreṇa) [wine+etc](madyādīni) [five-elements](pañcatattvāni) [should-purify](śodhayet)
+[aforementioned-mantra](pūrvoktamantreṇa) [wine-etc](madyādīni) [five-elements](pañcatattvāni) [purify](śodhayet)
 
 ## mukta-m0-p99-v2467
-[with-vermilion](sindūreṇa) [should-mark](aṅkayet) [and](ca)
+[vermilion](sindūreṇa) [mark](aṅkayet) [and](ca)
 
 ## mukta-m0-p99-v2468
-[sprout](pallavam) [on-its-mouth](tanmukhe) [should-give](dadyāt) [by-vāgbhava](vāgbhavena) [treasury-of-compassion](kṛpānidhiḥ)
+[sprout](pallavam) [its-mouth](tanmukhe) [give](dadyāt) [speech-born](vāgbhavena) [compassion-treasury](kṛpānidhiḥ)
 
 ## mukta-m0-p99-v2469
-[rāmā](rāmām) [māyā](māyām) [having-uttered](samuccārya) [should-place](sthāpayet) [on-sprout](pallavopari)
+[māyā](māyām) [uttering](samuccārya) [place](sthāpayet) [sprout-upon](pallavopari)
 
 ## mukta-m0-p99-v2470
-[in-śakti](śaktau) [red](raktaṃ) [in-śiva](śive) [in-viṣṇu](viṣṇau) [white-garment](śvetavāsaḥ) [is-declared](prakīrtitam)
+[power](śaktau) [red](raktam) [śiva](śive) [viṣṇu](viṣṇau) [white-garment](śvetavāsaḥ) [declared](prakīrtitam)
 
 ## mukta-m0-p99-v2471
-[having-inserted](niḥkṣipya) [five-elements](pañcatattvāni) [nine-vessels](navapātrāṇi) [should-arrange](vinyaset)
+[having-cast](niḥkṣipya) [five-elements](pañcatattvāni) [nine-vessels](navapātrāṇi) [arrange](vinyaset)
 
 ## mukta-m0-p99-v2472
-[holy-vessel](śrīpātram) [indeed](tu) [great-conch](mahāśaṅkham) [copper-ones](tāmrāṇi) [others](anyāni) [should-prepare](kalpayet)
+[holy-vessel](śrīpātram) [great-conch](mahāśaṅkham) [copper](tāmrāṇi) [others](anyāni) [prepare](kalpayet)
 
 ## mukta-m0-p99-v2473
-[into-pot](ghaṭamadhye) [nine-gems](navaratnam) [gold](suvarṇam) [or](vā) [should-insert](viniḥkṣipet)
+[in-pot](ghaṭamadhye) [nine-gems](navaratnam) [gold](suvarṇam) [or](vā) [cast](viniḥkṣipet)
 
 ## mukta-m0-p99-v2474
-[on-its-mouth](tanmukhe) [pot-mouth](ghaṭamukhe) [by-vāgbhava](vāgbhavena) [aim-iti-mantra](aim-iti-mantreṇa)
+[its-mouth](tanmukhe) [pot-mouth](ghaṭamukhe) [speech-born](vāgbhavena) [aim-mantra](aimiti) [mantra](mantreṇa)
 
 ## mukta-m0-p99-v2475
-[should-place](sthāpayet)
+[place](sthāpayet)
