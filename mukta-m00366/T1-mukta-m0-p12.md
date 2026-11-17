@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p12-v276
-bhaga(bhaga) ūrdhvam(ūrdhvaṃ) ūrdhvoṣṭha(ūrdvhoṣṭhaḥ) kāmarūpa(kāmarūpa) ekāra(ekāraḥ) ca(ca) trikoṇaka(trikoṇakaḥ)
+[bhaga](bhaga) [ūrdhvaṃ](ūrdhvaṃ) [ūrdvhoṣṭhaḥ](ūrdvhoṣṭhaḥ) [kāmarūpa](kāmarūpa) [ekāraśca](ekāraśca) [trikoṇakaḥ](trikoṇakaḥ)
 
 ## mukta-m0-p12-v277
-aṣṭa(8) vāgīśa(vāgīśo) dharma(dharma) bhayada(bhayada) aikāra(aikāraḥ) tripura(tripurastathā)
+[vāgīśo](vāgīśo) [vadha](vadha) [rma](rma) [bhayada](bhayada) [varmebharada](varmebharada) [ai-kārastripurastathā](ai-kārastripurastathā)
 
 ## mukta-m0-p12-v278
-āpyāyanī(āpyāyanī) mantranātha(mantranātha) okāra(okāro) nāgasaṃjñaka(nāgasaṃjñakaḥ)
+[āpyāyanī](āpyāyanī) [mantranātha](mantranātha) [o-kāro](o-kāro) [na](na) [nāgasaṃjñakaḥ](nāgasaṃjñakaḥ)
 
 ## mukta-m0-p12-v279
-dvādaśa(12) adhodantagata(adhodantagato) māyī(māyī) nṛsiṃhāṅga(nṛsiṃhāṅgaṃ) au-svara(au-svaraḥ)
+[adhodantagato](adhodantagato) [māyī](māyī) [nṛsiṃhāṅgaṃ](nṛsiṃhāṅgaṃ) [tathau-svaraḥ](tathau-svaraḥ)
 
 ## mukta-m0-p12-v280
-anusvāra(anusvārastathā) bindu(bindu) aṃkāra(aṃkāraḥ) ca(ca) śirogata(śirogataḥ)
+[anusvārastathā](anusvārastathā) [binduraṃkāraśca](binduraṃkāraśca) [śirogataḥ](śirogataḥ)
 
 ## mukta-m0-p12-v281
-ṣoḍaśa(16) kanyāstana-nibha(kanyāstananibhaḥ) sarga(sargaḥ) visarga(visargaḥ) ca(ca) antimasvara(antimasvaraḥ)
+[kanyāstananibhaḥ](kanyāstananibhaḥ) [sargo](sargo) [visargaścāntimasvaraḥ](visargaścāntimasvaraḥ)
 
 ## mukta-m0-p12-v282
-vargādi(vargādirmāyā) deveśa(deveśaḥ) kakāra(kakāraḥ) kāmaga(kāmagaḥ) smṛta(smṛtaḥ)
+[vargādirmāyā](vargādirmāyā) [deveśaḥ](deveśaḥ) [mo](mo) [yādave](yādave) [ka-kāraḥ](ka-kāraḥ) [kāmagaḥ](kāmagaḥ) [smṛtaḥ](smṛtaḥ)
 
 ## mukta-m0-p12-v283
-kaiṭabha(kaiṭabhaścaiva) mātaṅga(mātaṅgaḥ) saṃhāra(saṃhāraḥ) khārṇaka(khārṇakaḥ) smṛta(smṛtaḥ)
+[kaiṭabhaścaiva](kaiṭabhaścaiva) [bhāriśca](bhāriśca) [mātaṅgaḥ](mātaṅgaḥ) [saṃhāraḥ](saṃhāraḥ) [khārṇakaḥ](khārṇakaḥ) [smṛtaḥ](smṛtaḥ)
 
 ## mukta-m0-p12-v284
-gomukha(gomukho) gajakumbha(gajakumbhaśca) gakāra(gakāraḥ) siṃhasaṃjñaka(siṃhasaṃjñakaḥ)
+[gomukho](gomukho) [gajakumbhaśca](gajakumbhaśca) [ga-kāraḥ](ga-kāraḥ) [siṃhasaṃjñakaḥ](siṃhasaṃjñakaḥ)
 
 ## mukta-m0-p12-v285
-catuḥ(4) ghana(ghano) ghanasvara(ghanasvaraścaiva) ghakāra(ghakāro) ṅādima(ṅādimaḥ) smṛta(smṛtaḥ)
+[ghano](ghano) [ghanasvaraścaiva](ghanasvaraścaiva) [gha-kāro](gha-kāro) [ṅādimaḥ](ṅādimaḥ) [smṛtaḥ](smṛtaḥ)
 
 ## mukta-m0-p12-v286
-klībavaktra(klībavaktrañca) bhādreśa(bhādreśo) ṅakāra(ṅakāraśca) anunāsika(anunāsikaḥ)
+[klībavaktrañca](klībavaktrañca) [bhā](bhā) [bhadreśo](bhadreśo) [ṅa-kāraścānunāsikaḥ](ṅa-kāraścānunāsikaḥ)
 
 ## mukta-m0-p12-v287
-aṣṭa(8) cittācāra(cittācāra) cañcala(cañcalaśca) cakāra(cakāraḥ) saṃsmṛta(saṃsmṛto) budhaiḥ(budhaiḥ)
+[ci](ci) [ttācā](ttācā) [tra-vārī](tra-vārī) [cañcalaśca](cañcalaśca) [ca-kāraḥ](ca-kāraḥ) [saṃsmṛto](saṃsmṛto) [budhaiḥ](budhaiḥ)
 
 ## mukta-m0-p12-v288
-tribinduka(tribindukastathācārī) chakāra(chakāraḥ) prekṣakābhidha(prekṣakābhidhaḥ)
+[tribindukastathācārī](tribindukastathācārī) [cha-kāraḥ](cha-kāraḥ) [prekṣa](prekṣa) [śleṣma](śleṣma) [kābhidhaḥ](kābhidhaḥ)
 
 ## mukta-m0-p12-v289
-dvādaśa(12) maṇibandhagata(maṇibandhagato) vāma(vāmo) jakāra(jakāro) japaka(japako) mata(mataḥ)
+[maṇibandhagato](maṇibandhagato) [vāmo](vāmo) [ja-kāro](ja-kāro) [japa](japa) [na](na) [ko](ko) [mataḥ](mataḥ)
 
 ## mukta-m0-p12-v290
-svasthika(svasthikaḥ) khaṇḍasaṃjña(khaṇḍasaṃjñaśca) jhakāra(jhakāro) jāntasaṃjñaka(jāntasaṃjñakaḥ)
+[svasthikaḥ](svasthikaḥ) [khaṇḍasaṃjñaśca](khaṇḍasaṃjñaśca) [jha-kāro](jha-kāro) [jāntasaṃjñakaḥ](jāntasaṃjñakaḥ)
 
 ## mukta-m0-p12-v291
-ṣoḍaśa(16) jñapriya(jñapriyo) anunāsa(anunāsaśca) ñakāra(ñakāraśca) nirañjana(nirañjanaḥ)
+[jñapriyo](jñapriyo) [ptigo](ptigo) [hyanunāsaśca](hyanunāsaśca) [ña-kāraśca](ña-kāraśca) [nirañjanaḥ](nirañjanaḥ)
 
 ## mukta-m0-p12-v292
-gajāṅkuśa(gajāṅkuśaśca) bālendu(bālenduramṛtādyaṣṭakārakaḥ)
+[gajāṅkuśaśca](gajāṅkuśaśca) [bālenduramṛtādyaṣṭakārakaḥ](bālenduramṛtādyaṣṭakārakaḥ)
 
 ## mukta-m0-p12-v293
-viṃśati(20) dakṣajānuragata(dakṣajānuragataḥ) sthāyī(sthāyī) ṭhakāra(ṭhakāraḥ) sthavira(sthaviraḥ) smṛta(smṛtaḥ)
+[dakṣajānura](dakṣajānura) [ga](ga) [taḥ](taḥ) [sthāyī](sthāyī) [ṭha-kāraḥ](ṭha-kāraḥ) [sthaviraḥ](sthaviraḥ) [smṛtaḥ](smṛtaḥ)
 
 ## mukta-m0-p12-v294
-vyāghrapāda(vyāghrapādaḥ) śubhāṅghri(śubhāṅghriśca) ḍakāra(ḍakāro) bhauaja(bhauajaḥ) smṛta(smṛtaḥ)
+[vyāghrapādaḥ](vyāghrapādaḥ) [śubhāṅghriśca](śubhāṅghriśca) [ḍa-kāro](ḍa-kāro) [bhauajaḥ](bhauajaḥ) [smṛtaḥ](smṛtaḥ)
 
 ## mukta-m0-p12-v295
-dāyāda(dāyādo) aṅgulimūla(aṅgulimūlañca) ḍha(ḍhaḥ) saṅkocakāraka(saṅkocakārakaḥ)
+[dāyādo'ṅgulimūlañca](dāyādo'ṅgulimūlañca) [ḍha-śca](ḍha-śca) [saṅkocakārakaḥ](saṅkocakārakaḥ)
 
 ## mukta-m0-p12-v296
-catuḥ(4) nirvāṇa(nirvāṇastriguṇākārastrirekho) ṇa(ṇaḥ) samīrita(samīritaḥ)
+[nirvāṇastriguṇākārastrirekho](nirvāṇastriguṇākārastrirekho) [ṇaḥ](ṇaḥ) [samīritaḥ](samīritaḥ)
 
 ## mukta-m0-p12-v297
-tīvra(tīvraśca) tarala(taralo) nīla(nīlasta-kāraḥ) kīrtita(kīrtito) budhaiḥ(budhaiḥ)
+[tīvraśca](tīvraśca) [taralo](taralo) [nīlasta-kāraḥ](nīlasta-kāraḥ) [kīrtito](kīrtito) [budhaiḥ](budhaiḥ)
 
 ## mukta-m0-p12-v298
-aṣṭa(8) sauri(sauriścāpi) viśālākṣī(viśālākṣī) thakāra(thakāraḥ) parikīrtita(parikīrtitaḥ)
+[sauriścāpi](sauriścāpi) [viśālākṣī](viśālākṣī) [tha-kāraḥ](tha-kāraḥ) [parikīrtitaḥ](parikīrtitaḥ)
 
 ## mukta-m0-p12-v299
-śūla(śūlaḥ) kuvera(kuvero) dātā(dātā) ca(ca) dakāra(dakāro) dhādima(dhādimaḥ) smṛta(smṛtaḥ)
+[śūlaḥ](śūlaḥ) [kuvero](kuvero) [dātā](dātā) [ca](ca) [da-kāro](da-kāro) [dhādimaḥ](dhādimaḥ) [smṛtaḥ](smṛtaḥ)
 
 ## mukta-m0-p12-v300
-dvādaśa(12) dharmeśa(dharmeśo) dharaṇīśa(dharaṇīśaśca) dhakāra(dhakāro) dāntima(dāntimo) mata(mataḥ)
+[dharme](dharme) [ne](ne) [śo](śo) [dharaṇīśaśca](dharaṇīśaśca) [dha-kāro](dha-kāro) [dāntimo](dāntimo) [mataḥ](mataḥ)

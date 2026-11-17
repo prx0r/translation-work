@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p08-v176
-[madardha-tejasā-yuktā-nārī-lakṣmīḥ-iti-īritā](madardhatejasāyukānārīlakṣmīritīritā) [madardha-tejasā-yuktā-nārī-lakṣmīḥ-iti-īritā](madardhatejasāyukānārīlakṣmīritīritā) [madardha-tejasā-yuktā-nārī-lakṣmīḥ-iti-īritā](madardhatejasāyukānārīlakṣmīritīritā) [madardha-tejasā-yuktā-nārī-lakṣmīḥ-iti-īritā](madardhatejasāyukānārīlakṣmīritīritā)
+[my-half-radiance-joined-woman-lakshmi-thus-spoken](madardhatejasāyukānārīlakṣmīritīritā)
 
 ## mukta-m0-p08-v177
-[dvādaśārṇa-mahāvidyā-rūpo-brahma-bhayo-smi-ahaṃ](dvādaśārṇamahāvidyārūpobrahmabhayosmyahaṃ) [dvādaśārṇa-mahāvidyā-rūpo-brahma-bhayo-smi-ahaṃ](dvādaśārṇamahāvidyārūpobrahmabhayosmyahaṃ) [dvādaśārṇa-mahāvidyā-rūpo-brahma-bhayo-smi-ahaṃ](dvādaśārṇamahāvidyārūpobrahmabhayosmyahaṃ) [dvādaśārṇa-mahāvidyā-rūpo-brahma-bhayo-smi-ahaṃ](dvādaśārṇamahāvidyārūpobrahmabhayosmyahaṃ)
+[twelve-syllable](dvādaśārṇa) [great-knowledge-form](mahāvidyārūpo) [brahma-fear-am-i](brahmabhayosmyahaṃ)
 
 ## mukta-m0-p08-v178
-[ahaṃ-jaganmayatvena-chaṃdasāṃ-jāgataṃ-varaṃ](ahaṃjaganmayatvenachaṃdasāṃjāgataṃvaraṃ) [ahaṃ-jaganmayatvena-chaṃdasāṃ-jāgataṃ-varaṃ](ahaṃjaganmayatvenachaṃdasāṃjāgataṃvaraṃ) [ahaṃ-jaganmayatvena-chaṃdasāṃ-jāgataṃ-varaṃ](ahaṃjaganmayatvenachaṃdasāṃjāgataṃvaraṃ) [ahaṃ-jaganmayatvena-chaṃdasāṃ-jāgataṃ-varaṃ](ahaṃjaganmayatvenachaṃdasāṃjāgataṃvaraṃ)
+[i](ahaṃ) [world-fullness-by](jaganmayatvena) [veda-of](chaṃdasāṃ) [earthly-best](jāgataṃ) [varaṃ](varaṃ)
 
 ## mukta-m0-p08-v179
-[brahmavidyā-iti-vikhyātā-pradānād-ādittastava](brahmavidyetivikhyātāpradānādādittastava) [brahmavidyā-iti-vikhyātā-pradānād-ādittastava](brahmavidyetivikhyātāpradānādādittastava) [brahmavidyā-iti-vikhyātā-pradānād-ādittastava](brahmavidyetivikhyātāpradānādādittastava) [brahmavidyā-iti-vikhyātā-pradānād-ādittastava](brahmavidyetivikhyātāpradānādādittastava)
+[brahma-knowledge-thus](brahmavidyeti) [renowned](vikhyātā) [giving-from](pradānādādittastava)
 
 ## mukta-m0-p08-v180
-[imām-api-mahāvidyāṃ-lakṣmīnārāyaṇābhidhāṃ](imāmapi mahāvidyāṃ lakṣmīnārāyaṇābhidhāṃ) [imām-api-mahāvidyāṃ-lakṣmīnārāyaṇābhidhāṃ](imāmapi mahāvidyāṃ lakṣmīnārāyaṇābhidhāṃ) [imām-api-mahāvidyāṃ-lakṣmīnārāyaṇābhidhāṃ](imāmapi mahāvidyāṃ lakṣmīnārāyaṇābhidhāṃ) [imām-api-mahāvidyāṃ-lakṣmīnārāyaṇābhidhāṃ](imāmapi mahāvidyāṃ lakṣmīnārāyaṇābhidhāṃ)
+[this-also](imāmapi) [great-knowledge](mahāvidyāṃ) [lakshmi-narayana-named](lakṣmīnārāyaṇābhidhāṃ)
 
 ## mukta-m0-p08-v181
-[yosau-virāṅmayaḥ-sākṣāt-puruṣo-haṃ-purātanaḥ](yosau virāṅmayaḥ sākṣātpuruṣohaṃ purātanaḥ) [yosau-virāṅmayaḥ-sākṣāt-puruṣo-haṃ-purātanaḥ](yosau virāṅmayaḥ sākṣātpuruṣohaṃ purātanaḥ) [yosau-virāṅmayaḥ-sākṣāt-puruṣo-haṃ-purātanaḥ](yosau virāṅmayaḥ sākṣātpuruṣohaṃ purātanaḥ) [yosau-virāṅmayaḥ-sākṣāt-puruṣo-haṃ-purātanaḥ](yosau virāṅmayaḥ sākṣātpuruṣohaṃ purātanaḥ)
+[that-this](yosau) [virat-filled](virāṅmayaḥ) [direct](sākṣāt) [person-i](puruṣohaṃ) [ancient](purātanaḥ)
 
 ## mukta-m0-p08-v182
-[sa-eva-vedapuruṣo-vedanārāyaṇo-hmi-ahaṃ](sa eva vedapuruṣo vedanārāyaṇohmyahaṃ) [sa-eva-vedapuruṣo-vedanārāyaṇo-hmi-ahaṃ](sa eva vedapuruṣo vedanārāyaṇohmyahaṃ) [sa-eva-vedapuruṣo-vedanārāyaṇo-hmi-ahaṃ](sa eva vedapuruṣo vedanārāyaṇohmyahaṃ) [sa-eva-vedapuruṣo-vedanārāyaṇo-hmi-ahaṃ](sa eva vedapuruṣo vedanārāyaṇohmyahaṃ)
+[he-indeed](sa eva) [veda-person](vedapuruṣo) [veda-narayana-am-i](vedanārāyaṇohmyahaṃ) [knower](jño) [guru-said](gururukto) [great-this](mahānayaṃ)
 
 ## mukta-m0-p08-v183
-[tatsānnidhyena-vidhānāṃ-kartavyaṃ-grahaṇaṃ-bhuvi](tatsānnidhyenavidhānāṃ kartavyaṃ grahaṇaṃbhuvi) [tatsānnidhyena-vidhānāṃ-kartavyaṃ-grahaṇaṃ-bhuvi](tatsānnidhyenavidhānāṃ kartavyaṃ grahaṇaṃbhuvi) [tatsānnidhyena-vidhānāṃ-kartavyaṃ-grahaṇaṃ-bhuvi](tatsānnidhyenavidhānāṃ kartavyaṃ grahaṇaṃbhuvi) [tatsānnidhyena-vidhānāṃ-kartavyaṃ-grahaṇaṃ-bhuvi](tatsānnidhyenavidhānāṃ kartavyaṃ grahaṇaṃbhuvi)
+[that-presence-by](tatsānnidhyenavidhānāṃ) [rites](vidhānāṃ) [to-be-done](kartavyaṃ) [acceptance](grahaṇaṃ) [on-earth](bhuvi)
 
 ## mukta-m0-p08-v184
-[nyāsānāma-parijñātā-pūjā-yaṃtrādikasya-ca](nyāsānāma parijñātā pūjāyaṃtrādikasya ca) [nyāsānāma-parijñātā-pūjā-yaṃtrādikasya-ca](nyāsānāma parijñātā pūjāyaṃtrādikasya ca) [nyāsānāma-parijñātā-pūjā-yaṃtrādikasya-ca](nyāsānāma parijñātā pūjāyaṃtrādikasya ca) [nyāsānāma-parijñātā-pūjā-yaṃtrādikasya-ca](nyāsānāma parijñātā pūjāyaṃtrādikasya ca)
+[nyasa-of](nyāsānāma) [knower](parijñātā) [worship-yantra-etc](pūjāyaṃtrādikasya) [and](ca)
 
 ## mukta-m0-p08-v185
-[sarvāgamarahasyārthapāragaṃ-śrūti-tatparaṃ](sarvāgamarahasyārthapāragaṃ śrūti tatparaṃ) [sarvāgamarahasyārthapāragaṃ-śrūti-tatparaṃ](sarvāgamarahasyārthapāragaṃ śrūti tatparaṃ) [sarvāgamarahasyārthapāragaṃ-śrūti-tatparaṃ](sarvāgamarahasyārthapāragaṃ śrūti tatparaṃ) [sarvāgamarahasyārthapāragaṃ-śrūti-tatparaṃ](sarvāgamarahasyārthapāragaṃ śrūti tatparaṃ)
+[all-agama-secret-meaning-crossed](sarvāgamarahasyārthapāragaṃ) [shruti-devoted](śrūti tatparaṃ)
 
 ## mukta-m0-p08-v186
-[a****(?)to-nityaṃ-daṃbhalobhādi-saṃyutaḥ](a****(?)to nityaṃ daṃbhalobhādi saṃyutaḥ) [a****(?)to-nityaṃ-daṃbhalobhādi-saṃyutaḥ](a****(?)to nityaṃ daṃbhalobhādi saṃyutaḥ) [a****(?)to-nityaṃ-daṃbhalobhādi-saṃyutaḥ](a****(?)to nityaṃ daṃbhalobhādi saṃyutaḥ) [a****(?)to-nityaṃ-daṃbhalobhādi-saṃyutaḥ](a****(?)to nityaṃ daṃbhalobhādi saṃyutaḥ)
+[daily](nityaṃ) [hypocrisy-greed-etc-joined](daṃbhalobhādi saṃyutaḥ)
 
 ## mukta-m0-p08-v187
-[tamoguṇapradhānaśca-paranārīratassadā](tamoguṇapradhānaśca paranārīratassadā) [tamoguṇapradhānaśca-paranārīratassadā](tamoguṇapradhānaśca paranārīratassadā) [tamoguṇapradhānaśca-paranārīratassadā](tamoguṇapradhānaśca paranārīratassadā) [tamoguṇapradhānaśca-paranārīratassadā](tamoguṇapradhānaśca paranārīratassadā)
+[tamas-quality-principal](tamoguṇapradhānaśca) [and](ca) [other-woman-from-always](paranārīratassadā)
 
 ## mukta-m0-p08-v188
-[jihmaḥ-kaṭhinavittau-sau-satataṃ-krodha-tatparaḥ](jihmaḥ kaṭhinavittau sau satataṃ krodha tatparaḥ) [jihmaḥ-kaṭhinavittau-sau-satataṃ-krodha-tatparaḥ](jihmaḥ kaṭhinavittau sau satataṃ krodha tatparaḥ) [jihmaḥ-kaṭhinavittau-sau-satataṃ-krodha-tatparaḥ](jihmaḥ kaṭhinavittau sau satataṃ krodha tatparaḥ) [jihmaḥ-kaṭhinavittau-sau-satataṃ-krodha-tatparaḥ](jihmaḥ kaṭhinavittau sau satataṃ krodha tatparaḥ)
+[crooked](jihmaḥ) [hard-wealth](kaṭhinavittau) [he](sau) [always](satataṃ) [anger-devoted](krodha tatparaḥ)
 
 ## mukta-m0-p08-v189
-[vadavāhyodurālāpī***(?)-grahakārakaḥ](vadavāhyodurālāpī***(?) grahakārakaḥ) [vadavāhyodurālāpī***(?)-grahakārakaḥ](vadavāhyodurālāpī***(?) grahakārakaḥ) [vadavāhyodurālāpī***(?)-grahakārakaḥ](vadavāhyodurālāpī***(?) grahakārakaḥ) [vadavāhyodurālāpī***(?)-grahakārakaḥ](vadavāhyodurālāpī***(?) grahakārakaḥ)
+[bad-speech](vadavāhyodurālāpī) [planet-maker](grahakārakaḥ)
 
 ## mukta-m0-p08-v190
-[vedādhyayana-kṛnnityaṃ-daṃbhalobha-vivarjitaḥ](vedādhyayana kṛnnityaṃ daṃbhalobha vivarjitaḥ) [vedādhyayana-kṛnnityaṃ-daṃbhalobha-vivarjitaḥ](vedādhyayana kṛnnityaṃ daṃbhalobha vivarjitaḥ) [vedādhyayana-kṛnnityaṃ-daṃbhalobha-vivarjitaḥ](vedādhyayana kṛnnityaṃ daṃbhalobha vivarjitaḥ) [vedādhyayana-kṛnnityaṃ-daṃbhalobha-vivarjitaḥ](vedādhyayana kṛnnityaṃ daṃbhalobha vivarjitaḥ)
+[veda-study-doer](vedādhyayana kṛnnityaṃ) [daily](nityaṃ) [hypocrisy-greed-devoid](daṃbhalobha vivarjitaḥ)
 
 ## mukta-m0-p08-v191
-[satataṃ-vaidikācāra-tatparaḥ-śrutipāragaḥ](satataṃ vaidikācāra tatparaḥ śrutipāragaḥ) [satataṃ-vaidikācāra-tatparaḥ-śrutipāragaḥ](satataṃ vaidikācāra tatparaḥ śrutipāragaḥ) [satataṃ-vaidikācāra-tatparaḥ-śrutipāragaḥ](satataṃ vaidikācāra tatparaḥ śrutipāragaḥ) [satataṃ-vaidikācāra-tatparaḥ-śrutipāragaḥ](satataṃ vaidikācāra tatparaḥ śrutipāragaḥ)
+[always](satataṃ) [vaidika-conduct-devoted](vaidikācāra tatparaḥ) [shruti-crossed](śrutipāragaḥ)
 
 ## mukta-m0-p08-v192
-[piturmātuśca-śuśrū*****(?)-vivarjitaḥ](piturmātuśca śuśrū*****(?) vivarjitaḥ) [piturmātuśca-śuśrū*****(?)-vivarjitaḥ](piturmātuśca śuśrū*****(?) vivarjitaḥ) [piturmātuśca-śuśrū*****(?)-vivarjitaḥ](piturmātuśca śuśrū*****(?) vivarjitaḥ) [piturmātuśca-śuśrū*****(?)-vivarjitaḥ](piturmātuśca śuśrū*****(?) vivarjitaḥ)
+[father-mother-and](piturmātuśca) [service-devoid](śuśrū vivarjitaḥ)
 
 ## mukta-m0-p08-v193
-[anvahaṃ-gurupādābja-śuśrūṣurvītamatsaraḥ](anvahaṃ gurupādābja śuśrūṣurvītamatsaraḥ) [anvahaṃ-gurupādābja-śuśrūṣurvītamatsaraḥ](anvahaṃ gurupādābja śuśrūṣurvītamatsaraḥ) [anvahaṃ-gurupādābja-śuśrūṣurvītamatsaraḥ](anvahaṃ gurupādābja śuśrūṣurvītamatsaraḥ) [anvahaṃ-gurupādābja-śuśrūṣurvītamatsaraḥ](anvahaṃ gurupādābja śuśrūṣurvītamatsaraḥ)
+[daily](anvahaṃ) [guru-lotus-feet](gurupādābja) [service](śuśrūṣur) [free-from-envy](vītamatsaraḥ)
 
 ## mukta-m0-p08-v194
-[sakṛdvā-guruniṃdāyāṃ-samāsaktamanāyadi](sakṛdvā guruniṃdāyāṃ samāsaktamanāyadi) [sakṛdvā-guruniṃdāyāṃ-samāsaktamanāyadi](sakṛdvā guruniṃdāyāṃ samāsaktamanāyadi) [sakṛdvā-guruniṃdāyāṃ-samāsaktamanāyadi](sakṛdvā guruniṃdāyāṃ samāsaktamanāyadi) [sakṛdvā-guruniṃdāyāṃ-samāsaktamanāyadi](sakṛdvā guruniṃdāyāṃ samāsaktamanāyadi)
+[once-or](sakṛdvā) [guru-blame-in](guruniṃdāyāṃ) [attached-mind-if](samāsaktamanāyadi)
 
 ## mukta-m0-p08-v195
-[ākruṣṭastāḍito-vāpikaśābhiḥ-pādatāḍanaiḥ](ākruṣṭastāḍito vāpikaśābhiḥ pādatāḍanaiḥ) [ākruṣṭastāḍito-vāpikaśābhiḥ-pādatāḍanaiḥ](ākruṣṭastāḍito vāpikaśābhiḥ pādatāḍanaiḥ) [ākruṣṭastāḍito-vāpikaśābhiḥ-pādatāḍanaiḥ](ākruṣṭastāḍito vāpikaśābhiḥ pādatāḍanaiḥ) [ākruṣṭastāḍito-vāpikaśābhiḥ-pādatāḍanaiḥ](ākruṣṭastāḍito vāpikaśābhiḥ pādatāḍanaiḥ)
+[abused](ākruṣṭas) [beaten](tāḍito) [or](vā) [whip-by](pikaśābhiḥ) [foot-beating](pādatāḍanaiḥ)
 
 ## mukta-m0-p08-v196
-[avaśyaṃ-tasya-dātavyā-vidyāsvargāpavargadā](avaśyaṃ tasya dātavyā vidyāsvargāpavargadā) [avaśyaṃ-tasya-dātavyā-vidyāsvargāpavargadā](avaśyaṃ tasya dātavyā vidyāsvargāpavargadā) [avaśyaṃ-tasya-dātavyā-vidyāsvargāpavargadā](avaśyaṃ tasya dātavyā vidyāsvargāpavargadā) [avaśyaṃ-tasya-dātavyā-vidyāsvargāpavargadā](avaśyaṃ tasya dātavyā vidyāsvargāpavargadā)
+[necessarily](avaśyaṃ) [his](tasya) [to-be-given](dātavyā) [knowledge-heaven-liberation-giving](vidyāsvargāpavargadā)
 
 ## mukta-m0-p08-v197
-[catvāro-guravaḥ-proktāḥ-pūjyāḥ-pratyahamādarāt](catvāro guravaḥ proktāḥ pūjyāḥ pratyahamādarāt) [catvāro-guravaḥ-proktāḥ-pūjyāḥ-pratyahamādarāt](catvāro guravaḥ proktāḥ pūjyāḥ pratyahamādarāt) [catvāro-guravaḥ-proktāḥ-pūjyāḥ-pratyahamādarāt](catvāro guravaḥ proktāḥ pūjyāḥ pratyahamādarāt) [catvāro-guravaḥ-proktāḥ-pūjyāḥ-pratyahamādarāt](catvāro guravaḥ proktāḥ pūjyāḥ pratyahamādarāt)
+[four](catvāro) [gurus](guravaḥ) [said](proktāḥ) [worship](pūjyāḥ) [daily](pratyaham) [respect](ādarāt)
 
 ## mukta-m0-p08-v198
-[sevyamanvahaṃ-bhaktyāpāda-śuśrūṣaṇādibhiḥ](sevyamanvahaṃ bhaktyāpāda śuśrūṣaṇādibhiḥ) [sevyamanvahaṃ-bhaktyāpāda-śuśrūṣaṇādibhiḥ](sevyamanvahaṃ bhaktyāpāda śuśrūṣaṇādibhiḥ) [sevyamanvahaṃ-bhaktyāpāda-śuśrūṣaṇādibhiḥ](sevyamanvahaṃ bhaktyāpāda śuśrūṣaṇādibhiḥ) [sevyamanvahaṃ-bhaktyāpāda-śuśrūṣaṇādibhiḥ](sevyamanvahaṃ bhaktyāpāda śuśrūṣaṇādibhiḥ)
+[served](sevyam) [daily](anvahaṃ) [devotion](bhaktyā) [foot](pāda) [service-etc](śuśrūṣaṇādibhiḥ)
 
 ## mukta-m0-p08-v199
-[akṣapādakṛtaṃ-śāstraṃ-mīmāṃsā-dvitayaṃ-tathā](akṣapādakṛtaṃ śāstraṃ mīmāṃsā dvitayaṃ tathā) [akṣapādakṛtaṃ-śāstraṃ-mīmāṃsā-dvitayaṃ-tathā](akṣapādakṛtaṃ śāstraṃ mīmāṃsā dvitayaṃ tathā) [akṣapādakṛtaṃ-śāstraṃ-mīmāṃsā-dvitayaṃ-tathā](akṣapādakṛtaṃ śāstraṃ mīmāṃsā dvitayaṃ tathā) [akṣapādakṛtaṃ-śāstraṃ-mīmāṃsā-dvitayaṃ-tathā](akṣapādakṛtaṃ śāstraṃ mīmāṃsā dvitayaṃ tathā)
+[akshapada-made](akṣapādakṛtaṃ) [shastra](śāstraṃ) [mimamsa](mīmāṃsā) [twofold](dvitayaṃ) [and](tathā)
 
 ## mukta-m0-p08-v200
-[śāstraṣaṭkamiti-proktamapavargādikāraṇaṃ](śāstraṣaṭkamiti proktamapavargādikāraṇaṃ) [śāstraṣaṭkamiti-proktamapavargādikāraṇaṃ](śāstraṣaṭkamiti proktamapavargādikāraṇaṃ) [śāstraṣaṭkamiti-proktamapavargādikāraṇaṃ](śāstraṣaṭkamiti proktamapavargādikāraṇaṃ) [śāstraṣaṭkamiti-proktamapavargādikāraṇaṃ](śāstraṣaṭkamiti proktamapavargādikāraṇaṃ)
+[six-shastra](śāstraṣaṭkam) [thus](iti) [said](proktam) [liberation-etc-cause](apavargādikāraṇaṃ)

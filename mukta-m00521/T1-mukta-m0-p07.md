@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p07-v151
-[nārāyaṇaḥ](nārāyaṇosmyahaṃ) [asmi](nārāyaṇosmyahaṃ) [ahaṃ](nārāyaṇosmyahaṃ) [tena](tena) [sarva-lokeśvara-īśvaraḥ](sarvalokeśvareśvaraḥ)
+[narayana](nārāyaṇo) [asmi](smyahaṃ) [tena](tena) [sarva-loka-isvara-isvara](sarvalokeśvareśvaraḥ)
 
 ## mukta-m0-p07-v152
-[grahāṇām](grahāṇatvatsahāyena) [tvat-sahāyena](grahāṇatvatsahāyena) [sṛjati](sṛjatya) [vahanti](vahaṃti) [ca](ca)
+[graha](grahāṇa) [tvat-sahayena](tvatsahāyena) [srjati](sṛjatya) [vahanti](vahaṃti) [ca](ca)
 
 ## mukta-m0-p07-v153
-[etad-ācārya-vadanāt](etadācārya) [vijñāyā](vijñāyā) [arthaḥ](***(?)rthanaḥ)
+[etad-acarya-vadanat](etadācārya vadanād) [vijnaya](vijñāyā) [artha-nah](***(?)rthanaḥ)
 
 ## mukta-m0-p07-v154
-[ahiṃsā](ahiṃsā) [satyam](satyam) [asteyam](asteyaṃ) [śaucam](śaucamiṃdriyanigrahaḥ) [indriya-nigrahaḥ](śaucamiṃdriyanigrahaḥ)
+[ahimsa](ahiṃsā) [satyam](satyam) [asteyam](asteyaṃ) [saucam](śaucam) [indriya-nigrahah](iṃdriyanigrahaḥ)
 
 ## mukta-m0-p07-v155
-[mama](mama) [tādā](tādā**(?) [siddhim](siddhiṃ) [prati](pratyete) [ete](pratyete) [sapta-hetavaḥ](saptahetavaḥ)
+[mama](mama) [tadah](tādā**(?) [siddhim](siddhiṃ) [prati](pratyete) [sapta-hetavah](saptahetavaḥ)
 
 ## mukta-m0-p07-v156
-[antarddhānam](aṃtarddhānaṃ) [jagāma](jagāmāśu) [āśu](jagāmāśu) [nitya-muktaiḥ](nityamuktairamiṣṭutaḥ) [amiṣṭutaḥ](nityamuktairamiṣṭutaḥ)
+[antardhanam](aṃtarddhānaṃ) [jagama](jagāmāśu) [nitya-muktaih](nityamuktair) [amistutah](amiṣṭutaḥ)
 
 ## mukta-m0-p07-v157
-[sṛṣṭvā](sṛṣṭvādau) [ādau](sṛṣṭvādau) [sanaka-ādibhyaḥ](sanakādibhyo) [vaśiṣṭa-ādibhyaḥ](vaśiṣṭāddibhya) [uktavān](uktavān)
+[srstva-adau](sṛṣṭvādau) [sanaka-adibhyah](sanakādibhyo) [vasistha-adibhyah](vaśiṣṭāddibhya) [uktavan](uktavān)
 
 ## mukta-m0-p07-v158
-[brahma-bhūtāḥ](brahmabhūtāstaponiṣṭhā) [tapaḥ-niṣṭhāḥ](brahmabhūtāstaponiṣṭhā) [adya-api](adyāpi) [sukhinaḥ](sukhi***(?))
+[brahma-bhutah](brahmabhūtās) [taponisthah](taponiṣṭhā) [adyapi](adyāpi) [sukhi](sukhi***(?)
 
 ## mukta-m0-p07-v159
-[acintya-śaktitā](aciṃtyaśaktitā) [sarva-mantrāṇām](sarvamaṃtrāṇāṃ) [dvija-puṃgavāḥ](dvijapuṃgavāḥ)
+[acintya-saktita](aciṃtyaśaktitā) [sarva-mantranam](sarvamaṃtrāṇāṃ) [dvija-pungavah](dvijapuṃgavāḥ)
 
 ## mukta-m0-p07-v160
-[śraddhayā](śraddhayācārya) [ācārya-vākyeṣu](vākyeṣu) [sarva-siddhiḥ](sarvasiddhistapodhanāḥ) [tapaḥ-dhanāḥ](tapodhanāḥ)
+[sraddhaya](śraddhayā) [acarya-vakyesu](ācārya vākyeṣu) [sarva-siddhih](sarvasiddhiḥ) [tapodhanah](tapodhanāḥ)
 
 ## mukta-m0-p07-v161
-[kālasya](kālasya) [vaṃcana-upāya-kāraṇam](vaṃcanopāyakāraṇaṃ) [na-anyat](nānyadīṣyate) [īṣyate](nānyadīṣyate)
+[kalasya](kālasya) [vancana-upaya-karanam](vaṃcanopāyakāraṇaṃ) [na-anyat](nānyad) [isyate](īṣyate)
 
 ## mukta-m0-p07-v162
-[jñātvā](jñātvācāryamukhāṃbhojāt) [ācārya-mukha-ambhojāt](jñātvācāryamukhāṃbhojāt) [saṃsevya](saṃsevyācāryamanvahaṃ) [ācāryam](saṃsevyācāryamanvahaṃ) [anvaham](saṃsevyācāryamanvahaṃ)
+[jnatva-acarya-mukha-ambhojat](jñātvācāryamukhāṃbhojāt) [samsevya-acaryam](saṃsevyācāryam) [anvaham](anvahaṃ)
 
 ## mukta-m0-p07-v163
-[parasya](parasya) [brahmaṇaḥ](brahmaṇastatvasvarūpaṃ) [tatva-svarūpam](brahmaṇastatvasvarūpaṃ) [kiṃcit](kiṃcidīritaṃ) [īritam](kiṃcidīritaṃ)
+[parasya](parasya) [brahmanah](brahmaṇas) [tatva-svarupam](tatvasvarūpaṃ) [kincit](kiṃcid) [iritam](īritaṃ)
 
 ## mukta-m0-p07-v164
-[suguptam](suguptamapita) [api](suguptamapita) [tatvam](tatvaṃ) [brāhmaṇaḥ](brāhmaṇaḥ) [paramātmanaḥ](paramātmanaḥ)
+[suguptam](suguptam) [api](apita) [tatvam](tatvaṃ) [brahmanah](brāhmaṇaḥ) [paramatmanah](paramātmanaḥ)
 
 ## mukta-m0-p07-v165
-[ācāryaḥ](ācāryaḥ) [kīdṛśaḥ](kīdṛśo) [loke](lokeśiṣyo) [śiṣyaḥ](lokeśiṣyo) [vā](vāpi) [api](vāpi) [katham](kathaṃ) [mune](mune)
+[acaryah](ācāryaḥ) [kidrsah](kīdṛśo) [lokesi](lokeśi) [sisyah](ṣyo) [va-api](vāpi) [katham](kathaṃ) [mune](mune)
 
 ## mukta-m0-p07-v166
-[tat-pāda-padma-bhaktānām](tatpāda) [asmākam](asmākaṃ) [tadvat](tadvadāśubho) [āśubhaḥ](tadvadāśubho)
+[tat-pada-padma-bhaktanam](tatpāda padmabhaktānām) [asmakam](asmākaṃ) [tadvat](tadvad) [asubho](āśubho)
 
 ## mukta-m0-p07-v167
-[ācārya-caraṇa-ambhoja-śuṣaṇa-vidhi-param](ācāryacaraṇāṃbhojaśuṣaṇavidhiparaṃ)
+[acarya-carana-ambhoja-susana-vidhi-param](ācāryacaraṇāṃbhojaśuṣaṇavidhiparaṃ)
 
 ## mukta-m0-p07-v168
-[satatam](satataṃ) [vaidika-ācāra-nirataḥ](vaidikācāranirataḥ) [śāstra-pāragaḥ](śāstrapāragaḥ)
+[satatam](satataṃ) [vaidika-acara-niratah](vaidikācāranirataḥ) [sastra-paragah](śāstrapāragaḥ)
 
 ## mukta-m0-p07-v169
-[śāntaḥ](śāṃtodāṃtojitāmitrojiteṃdriyaḥ) [dāntaḥ](śāṃtodāṃtojitāmitrojiteṃdriyaḥ) [jita-amitraḥ](śāṃtodāṃtojitāmitrojiteṃdriyaḥ) [jita-indriyaḥ](śāṃtodāṃtojitāmitrojiteṃdriyaḥ) [veda-adhyayana-kṛt](vedādhyayanakṛnnityaṃ) [nityam](vedādhyayanakṛnnityaṃ) [veda-arthasya](vedārthasya) [vicāra-kṛt](vicārakṛt)
+[santah](śāṃto) [dantah](dāṃto) [jita-amitrah](jitāmitro) [jita-indriyah](jiteṃdriyaḥ) [veda-adhyayana-krt](vedādhyayanakṛn) [nityam](nityaṃ) [veda-arthasya](vedārthasya) [vicara-krt](vicārakṛt)
 
 ## mukta-m0-p07-v170
-[ahar-niśam](aharniśaṃ) [śruteḥ](śruterjāmī) [jāmī](śruterjāmī) [śrauta-ācāra-ratasya](śrautācāraratasyadā) [dā](śrautācāraratasyadā)
+[ahar-nisam](aharniśaṃ) [sruteh](śruter) [jamih](jāmī) [srauta-acara-ratasya-da](śrautācāraratasyadā)
 
 ## mukta-m0-p07-v171
-[śiva-viṣṇoḥ](śivaviṣṇorabhedena) [abhedena](śivaviṣṇorabhedena) [nitya-upāhita-rataḥ](nityopāhitarato) [dvijāḥ](dvijāḥ)
+[siva-visnor-abhedena](śivaviṣṇorabhedena) [nitya-upahita-ratah](nityopāhitarato) [dvijah](dvijāḥ)
 
 ## mukta-m0-p07-v172
-[sahasra-kṛtvaḥ](sahasrakṛtto) [gāyatrī](gāyatrī) [japa-kartā](japakartā) [dine](dine) [dine](dine)
+[sahasra-krtto](sahasrakṛtto) [gayatri](gāyatrī) [japa-karta](japakartā) [dine](dine) [dine](dine)
 
 ## mukta-m0-p07-v173
-[dadāmi](dadāmyetāṃ) [etām](dadāmyetāṃ) [mahā-vidyām](mahāvidyāṃmatejaḥ) [mat-tejaḥ](mahāvidyāṃmatejaḥ) [prāptaye](prāptaye) [tava](tava)
+[dadami](dadāmyetāṃ) [etam](mahāvidyāṃ) [matejah](matejaḥ) [praptaye](prāptaye) [tava](tava)
 
 ## mukta-m0-p07-v174
-[chaṃdaḥ](chaṃdaḥsyādasya) [syāt](chaṃdaḥsyādasya) [asya](chaṃdaḥsyādasya) [gāyatrī](gāyatraṃ) [na-anyat](nānyaduktaṃ) [uktam](nānyaduktaṃ) [prajāpate](prajāpate)
+[chandah](chaṃdaḥ) [syat](syād) [asya](asya) [gayatram](gāyatraṃ) [na-anyat](nānyad) [uktam](uktaṃ) [prajapate](prajāpate)
 
 ## mukta-m0-p07-v175
-[mad-daṣṭārṇa-mayī](maddaṣṭārṇamayī) [jñeyā](jñeyā) [mama](mamattejaḥ) [tejaḥ](mamattejaḥ) [kalā-anvitā](kalānvitā)
+[mad-dastarnamayi](maddaṣṭārṇamayī) [jneya](jñeyā) [mamattejah](mamattejaḥ) [kala-anvita](kalānvitā)

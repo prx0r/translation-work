@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p79-v1951
-[kali-bhadri](kālībhadrī) [called](samākhyātaṃ) [kali](kālī) [and-thus-for-life](caivāyunāya) [and](ca)
+[kālībhadrī](kālībhadrī) [samākhyātaṃ](samākhyātaṃ) [kālī](kālī) [ca](ca) [eva](eva) [āyunāya](āyunāya) [ca](ca)
 
 ## mukta-m0-p79-v1952
-[trident](śūlaṃ) [damaru](ḍamarukaṃ) [on-right](savye) [skull](kapālaṃ) [noose-axe](pāśaṭaṅkare)
+[śūlaṃ](śūlaṃ) [ḍamarukaṃ](ḍamarukaṃ) [savye](savye) [kapālaṃ](kapālaṃ) [pāśa](pāśa) [ṭaṅkare](ṭaṅkare)
 
 ## mukta-m0-p79-v1953
-[du](du) [unknown](*) [unknown](*) [unknown](*) [ear-like](?) [terrible](bhīma) [unknown](*) [unknown](*) [unknown](*) [unknown](*) [unknown](?)
+[du](du) [karṇikā](karṇikā) [bhāsāṃ](bhāsāṃ) [bhīma](bhīma)
 
 ## mukta-m0-p79-v1954
-[kalaratri](kālarātri) [in-true-form](svarūpāyāṃ) [cremation-ground](śmaśānaṃ) [god-worship](devamarcayet)
+[kālarātri](kālarātri) [svarūpāyāṃ](svarūpāyāṃ) [śmaśānaṃ](śmaśānaṃ) [devam](devam) [arcayet](arcayet)
 
 ## mukta-m0-p79-v1955
-[middle-to-throat](madhyādi+galaparyantaṃ) [by-vishnu-end](viṣṇunāntaṃ) [well-worship](supūjayet)
+[madhyādi](madhyādi) [galaparyantaṃ](galaparyantaṃ) [viṣṇunā](viṣṇunā) [antaṃ](antaṃ) [supūjayet](supūjayet)
 
 ## mukta-m0-p79-v1956
-[shakti-for-creation-shaiva-purpose](śaktirutpatyaśaivārthaṃ) [by-shakti-arises](śaktyairutpadyate) [shiva](śivaḥ)
+[śaktiḥ](śaktiḥ) [utpati](utpati) [aśaiva](aśaiva) [arthaṃ](arthaṃ) [śaktyā](śaktyā) [utpadyate](utpadyate) [śivaḥ](śivaḥ)
 
 ## mukta-m0-p79-v1957
-[brahma](brahmā) [vishnu](viṣṇu) [rudra](rudraśca) [ishvara](īśvaraśca) [sada-shiva](sadāśivaḥ)
+[brahmā](brahmā) [viṣṇuḥ](viṣṇuḥ) [ca](ca) [rudraḥ](rudraḥ) [ca](ca) [īśvaraḥ](īśvaraḥ) [ca](ca) [sadāśivaḥ](sadāśivaḥ)
 
 ## mukta-m0-p79-v1958
-[will-shakti](icchāśaktiḥ) [action](kriyā) [unknown](*) [unknown](*) [unknown](*) [unknown](*) [unknown](*) [unknown](*) [unknown](*) [unknown](*) [unknown](*) [unknown](?)
+[icchāśaktiḥ](icchāśaktiḥ) [kriyā](kriyā)
 
 ## mukta-m0-p79-v1959
-[brahmi](brāhmī) [on-crown](mūrdhni) [then](tu) [placing](vinyasya) [on-forehead](lalāṭe) [then](tu) [maheshvari](maheśvarīm)
+[brāhmī](brāhmī) [mūrdhni](mūrdhni) [tu](tu) [vinyasya](vinyasya) [lalāṭe](lalāṭe) [tu](tu) [maheśvarīm](maheśvarīm)
 
 ## mukta-m0-p79-v1960
-[varahi](vārāhī) [in-heart](hṛdaye) [and](ca) [eva](eva) [indrani](indrāṇī) [linga-base](liṅgamūlake)
+[vārāhī](vārāhī) [hṛdaye](hṛdaye) [ca](ca) [eva](eva) [indrāṇī](indrāṇī) [liṅgamūlake](liṅgamūlake)
 
 ## mukta-m0-p79-v1961
-[unknown](*) [unknown](*) [unknown](*) [unknown](*) [unknown](*) [unknown](*) [unknown](*) [unknown](*) [worship](?) [as-before](pūrvavadācaret)
+[pūjāṃ](pūjāṃ) [pūrvavad](pūrvavad) [ācaret](ācaret)
 
 ## mukta-m0-p79-v1962
-[varahi](vārāhī) [and](ca) [thus](tathā) [indrani](indrāṇī) [goddess-corner-six](devyāgrādiṣṭa+koṇaṣaṭ)
+[vārāhī](vārāhī) [ca](ca) [tathā](tathā) [indrāṇī](indrāṇī) [devyā](devyā) [agra](agra) [diṣṭa](diṣṭa) [koṇa](koṇa) [ṣaṭ](ṣaṭ)
 
 ## mukta-m0-p79-v1963
-[jambhini](jambhītistambhinī) [and](ca) [eva](eva) [sha](śā*) [unknown](*) [unknown](*) [unknown](*) [unknown](*) [unknown](*) [unknown](?)
+[jambhīti](jambhīti) [stambhinī](stambhinī) [ca](ca) [eva](eva) [śā](śā)
 
 ## mukta-m0-p79-v1964
-[outside-sixteen-part](tadbahiṣṣoḍaśāṃśaiva) [leaf](patraṃ) [sixteen-syllable](ṣoḍaśākṣaram)
+[tadbahiḥ](tadbahiḥ) [ṣoḍaśāṃśa](ṣoḍaśāṃśa) [eva](eva) [patraṃ](patraṃ) [ṣoḍaśākṣaram](ṣoḍaśākṣaram)
 
 ## mukta-m0-p79-v1965
-[noose](pāśā) [and](ca) [in-month](māsi) [joined](saṃyuktaṃ) [vipusha-cchedika](vipuśācchedikaṃ) [thus](tathā)
+[pāśā](pāśā) [ca](ca) [māsi](māsi) [saṃyuktaṃ](saṃyuktaṃ) [vipu](vipu) [śācchedikaṃ](śācchedikaṃ) [tathā](tathā)
 
 ## mukta-m0-p79-v1966
-[unknown](*) [arising](bhodbhavantu) [joined](saṃyuktaṃ) [arising](udbhavaṃ) [and](ca) [eva](eva) [make](kārayet)
+[udbhavantu](udbhavantu) [saṃyuktaṃ](saṃyuktaṃ) [udbhavaṃ](udbhavaṃ) [ca](ca) [eva](eva) [kārayet](kārayet)
 
 ## mukta-m0-p79-v1967
-[vijayi](vijāyī) [and-non-vijayi](cāvijāyī) [ca](ca) [vijayi](vijayītyeva) [jrimbhini](jṛmbhiṇī)
+[vijāyī](vijāyī) [ca](ca) [avijāyī](avijāyī) [ca](ca) [vijayī](vijayī) [iti](iti) [eva](eva) [jṛmbhiṇī](jṛmbhiṇī)
 
 ## mukta-m0-p79-v1968
-[goddess-corner](devyāgrādiṣu) [well-worship](saṃpūjya) [unknown](*) [unknown](*) [unknown](*) [unknown](*) [unknown](*) [unknown](*) [unknown](*) [unknown](?)
+[devyā](devyā) [agra](agra) [diṣu](diṣu) [saṃpūjya](saṃpūjya)
 
 ## mukta-m0-p79-v1969
-[of-honey-meat-fruit](madhumāṃsaphalānāṃ) [tu](tu) [offering](naivedyaṃ) [and](ca) [eva](eva) [worship](pūjayet)
+[madhu](madhu) [māṃsa](māṃsa) [phalānāṃ](phalānāṃ) [tu](tu) [naivedyaṃ](naivedyaṃ) [ca](ca) [eva](eva) [pūjayet](pūjayet)
 
 ## mukta-m0-p79-v1970
-[song-instrument](gītavādyaṃ) [and](ca) [dance](nṛttaṃ) [ca](ca) [all-services](sarvopacāra) [worship](pūjayet)
+[gīta](gīta) [vādyaṃ](vādyaṃ) [ca](ca) [nṛttaṃ](nṛttaṃ) [ca](ca) [sarva](sarva) [upacāra](upacāra) [pūjayet](pūjayet)
 
 ## mukta-m0-p79-v1971
-[unknown](*) [unknown](*) [unknown](*) [unknown](*) [unknown](*) [unknown](*) [unknown](*) [unknown](*) [door-gate](?) [bali-pitha](dvārāre+balipīṭhake)
+[dvārāre](dvārāre) [bali](bali) [pīṭhake](pīṭhake)
 
 ## mukta-m0-p79-v1972
-[god-mother](devamātarakaṃ) [and](ca) [eva](eva) [pishacha-mother](paiśācamātarastathā)
+[devamātarakaṃ](devamātarakaṃ) [ca](ca) [eva](eva) [paiśāca](paiśāca) [mātaras](mātaras) [tathā](tathā)
 
 ## mukta-m0-p79-v1973
-[goat](aja) [cock](kukkuṭamahiṣāṃ) [ca](ca) [horse-elephant-human](aśvagajamānuṣā) [ca](ca) [mu](mu) [unknown](?)
+[aja](aja) [kukkuṭa](kukkuṭa) [mahiṣāṃ](mahiṣāṃ) [ca](ca) [aśva](aśva) [gaja](gaja) [mānuṣā](mānuṣā) [ca](ca) [mu](mu)
 
 ## mukta-m0-p79-v1974
-[preta-vehicle](pretavāhanakaṃ) [and](ca) [eva](eva) [worship-arcana](upāsyārcanakaṃ) [thus](tatha) [unknown](?)
+[pretavāhanakaṃ](pretavāhanakaṃ) [ca](ca) [eva](eva) [upāsya](upāsya) [arcana](arcana) [kaṃ](kaṃ) [tathā](tathā)
 
 ## mukta-m0-p79-v1975
-[of-all](sarveṣāṃ) [served](sevitaṃ) [and](ca) [eva](eva) [camunda-other](cāmuṇḍānyaṃ) [well-worship](samarcayet)
+[sarveṣāṃ](sarveṣāṃ) [sevitaṃ](sevitaṃ) [ca](ca) [eva](eva) [cāmuṇḍā](cāmuṇḍā) [anyaṃ](anyaṃ) [samarcayet](samarcayet)
