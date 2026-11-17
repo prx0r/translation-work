@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p69-v1701
-[twelve+end+one+abode](dvādaśāntaikavasatiḥ) [twelve+soul](dvādaśātmā) [day+lord](divaspatiḥ)
+[twelve-end-one-abode](dvādaśāntaikavasatiḥ) [twelve-self](dvādaśātmā) [day-lord](divaspatiḥ)
 
 ## mukta-m0-p69-v1702
-[hard+to+meditate](durdhyeyaḥ) [destroyer+of+evil+lineage](duṣṭavaṃśaghnaḥ) [compassion+lord](dayānāthaḥ) [compassion+abode](dayākulaḥ)
+[hard-to-meditate](durdhyeyaḥ) [wicked-line-destroyer](duṣṭavaṃśaghnaḥ) [compassion-lord](dayānāthaḥ) [compassion-abode](dayākulaḥ)
 
 ## mukta-m0-p69-v1703
-[dharma+friend](dharmabandhuḥ) [dharma+treasure](dharmanidhiḥ) [dharma+king](dharmarājaḥ) [wealth+giver](dhanapradaḥ)
+[dharma-friend](dharmabandhuḥ) [dharma-treasure](dharmanidhiḥ) [dharma-king](dharmarājaḥ) [wealth-giver](dhanapradaḥ)
 
 ## mukta-m0-p69-v1704
-[three-eyed+dweller](dhūrjaṭīkṣaṇavāsī) [dharma+field](dharmakṣetraḥ) [earth+lord](dharādhipaḥ)
+[śiva-eyed-dweller](dhūrjaṭīkṣaṇavāsī) [ca](ca) [dharma-field](dharmakṣetraḥ) [earth-lord](dharādhipaḥ)
 
 ## mukta-m0-p69-v1705
-[earth+bearer](dharābhṛt) [beloved](vallabhaḥ) [righteous](dharmī) [dha+letter+ornament](dhakārākṣarabhūṣaṇaḥ)
+[earth-bearer](dharābhṛt) [beloved](vallabhaḥ) [righteous](dharmī) [dha-letter-ornament](dhakārākṣarabhūṣaṇaḥ)
 
 ## mukta-m0-p69-v1706
-[lotus+beloved](nalinīvallabhaḥ) [impelled](nunnaḥ) [dance+maker](nāṭyakṛt) [dance+increaser](nāṭyavardhanaḥ)
+[lotus-beloved](nalinīvallabhaḥ) [bowed](nunnaḥ) [dance-maker](nāṭyakṛt) [dance-increaser](nāṭyavardhanaḥ)
 
 ## mukta-m0-p69-v1707
-[bowing](namantaḥ) [subduer+of+foes](namitārātiḥ) [nara+nārāyaṇa+refuge](naranārāyaṇāśrayaḥ)
+[bowing](namantaḥ) [subduer-of-enemies](namitārātiḥ) [nara-nārāyaṇa-refuge](naranārāyaṇāśrayaḥ)
 
 ## mukta-m0-p69-v1708
-[sound+form](nādarūpaḥ) [sound+filled](nādamayaḥ) [sound+bindu+form](nādabindusvarūpakaḥ)
+[sound-form](nādarūpaḥ) [kh: sound-lover](nādapriyaḥ) [sound-full](nādamayaḥ) [sound-bindu-form](nādabindusvarūpakaḥ)
 
 ## mukta-m0-p69-v1709
-[heaven+dweller](nākasthitaḥ) [many+forms](anekavapuḥ) [na+letter+mother](nakārākṣaramātṛkaḥ)
+[heaven-dweller](nākasthitaḥ) [many-formed](anekavapuḥ) [na-letter-mother](nakārākṣaramātṛkaḥ)
 
 ## mukta-m0-p69-v1710
-[love+dear](prītipriyaḥ) [love+maker](premakaraḥ) [bowing+suffering+fear+remover](praṇatārtibhayāpahaḥ)
+[love-dear](prītipriyaḥ) [love-maker](premakaraḥ) [bowing-affliction-fear-remover](praṇatārtibhayāpahaḥ)
 
 ## mukta-m0-p69-v1711
-[full+bliss+filled](pūrṇānandamayaḥ) [full+radiance](pūrṇatejāḥ) [full+īśvarī+lord](pūrṇeśvarīśvaraḥ)
+[full-bliss-full](pūrṇānandamayaḥ) [full-radiance](pūrṇatejāḥ) [full-lord-of-lords](pūrṇeśvarīśvaraḥ)
 
 ## mukta-m0-p69-v1712
-[supreme+lord+form](parameśavapuḥ) [tall](prāṃśuḥ) [intoxicated](pramattaḥ) [bowing+desired+giver](praṇateṣṭadaḥ)
+[supreme-body](parameśavapuḥ) [tall](prāṃśuḥ) [intoxicated](pramattaḥ) [bowing-desired-giver](praṇateṣṭadaḥ)
 
 ## mukta-m0-p69-v1713
-[cooker](pācanaḥ) [picula](piculaḥ) [burnt](pluṣṭaḥ) [women+joy+giver](pramadājanasaukhyadaḥ)
+[cooker](pācanaḥ) [picula](piculaḥ) [burnt](pluṣṭaḥ) [women-happiness-giver](pramadājanasaukhyadaḥ)
 
 ## mukta-m0-p69-v1714
-[fruit+of+enjoyment+liberation](phalaṃ bhogāpavargasya) [fruitful+lord](phalinīśaḥ) [fruit+self](phalātmakaḥ)
+[fruit-of-enjoyment-liberation](phalaṃ bhogāpavargasya) [fruit-lord](phalinīśaḥ) [fruit-natured](phalātmakaḥ)
 
 ## mukta-m0-p69-v1715
-[child](bālaḥ) [strength+dear](balapriyaḥ) [emitted](bāntaḥ) [darkness+remover](biladhvāntaharaḥ) [strong](balī)
+[child](bālaḥ) [strength-lover](balapriyaḥ) [emitted](bāntaḥ) [cave-darkness-remover](biladhvāntaharaḥ) [g, gh: removed](hṛtaḥ) [strong](balī)
 
 ## mukta-m0-p69-v1716
-[wise](budhaḥ) [bṛhaspati](bṛhaspatiḥ) [tree](vṛkṣaḥ) [great+horse](bṛhadaśvaḥ) [great+gait](bṛhadgatiḥ)
+[wise](budhaḥ) [jupiter](bṛhaspatiḥ) [tree](vṛkṣaḥ) [great-horse](bṛhadaśvaḥ) [great-gait](bṛhadgatiḥ)
 
 ## mukta-m0-p69-v1717
-[bhaga](bhagaḥ) [bhṛgu](bhṛguḥ) [bhṛgu+dweller](bhṛgusthāyī) [bhārgava](bhārgavaḥ) [poet+crest](kaviśekharaḥ)
+[bhaga](bhagaḥ) [bhṛgu](bhṛguḥ) [bhṛgu-dweller](bhṛgusthāyī) [bhārgava](bhārgavaḥ) [poet-chief](kaviśekharaḥ)
 
 ## mukta-m0-p69-v1718
-[great+time](mahākālaḥ) [great+overseer](mahādhyakṣaḥ) [great+sound](mahānādaḥ) [great+mind](mahāmatiḥ)
+[great-time](mahākālaḥ) [(800)](800) [great-overseer](mahādhyakṣaḥ) [great-sound](mahānādaḥ) [great-mind](mahāmatiḥ)
 
 ## mukta-m0-p69-v1719
-[honor+giver](mānadaḥ) [wrestler+slayer](mallahā) [wrestler](mallaḥ) [meru+mandara+abode](merumandaramandiraḥ)
+[honor-giver](mānadaḥ) [wrestler-slayer](mallahā) [wrestler](mallaḥ) [meru-mandara-abode](merumandaramandiraḥ)
 
 ## mukta-m0-p69-v1720
-[delighted](moditaḥ) [wine+eater](madirāhāraḥ) [sun](mārtaṇḍaḥ) [shaved+shaved](muṇḍamuṇḍitaḥ)
+[delighted](moditaḥ) [wine-consumer](madirāhāraḥ) [sun](mārtaṇḍaḥ) [shaved-head](muṇḍamuṇḍitaḥ)
 
 ## mukta-m0-p69-v1721
-[delicate](madālasaḥ) [god+praised](amarastutyaḥ) [murāri+boon+giver](murārivaradaḥ) [manu](manuḥ)
+[delicate](madālasaḥ) [god-praised](amarastutyaḥ) [g: impurity-praised](malastutyaḥ) [murāri-boon-giver](murārivaradaḥ) [manu](manuḥ)
 
 ## mukta-m0-p69-v1722
-[garlanded](mālyavān) [medhana](medhanaḥ) [kāma](māraḥ) [wise](medhāvī) [mace+armed](musalāyudhaḥ)
+[garlanded](mālyavān) [medhana](medhanaḥ) [kāma](māraḥ) [wise](medhāvī) [mace-armed](musalāyudhaḥ)
 
 ## mukta-m0-p69-v1723
-[kāma](madanaḥ) [sweet+eater](modakāhāraḥ) [ma+letter+mother](makārākṣaramātṛkaḥ)
+[kāma](madanaḥ) [g: delighter](modanī) [sweet-eater](modakāhāraḥ) [ma-letter-mother](makārākṣaramātṛkaḥ)
 
 ## mukta-m0-p69-v1724
-[pilgrim](yātrikaḥ) [sacrifice+fruit+giver](yajñaphaladaḥ) [goer](yāyī) [yāmala+leader](yāmalanāyakaḥ)
+[pilgrim](yātrikaḥ) [sacrifice-fruit-giver](yajñaphaladaḥ) [goer](yāyī) [yāmala-leader](yāmalanāyakaḥ)
 
 ## mukta-m0-p69-v1725
-[staff+holder](yaṣṭidhārī) [machine+lord](yantreśaḥ) [yoni+circle+middle+dweller](yonimaṇḍalamadhyagaḥ)
+[staff-holder](yaṣṭidhārī) [ca](ca) [machine-lord](yantreśaḥ) [yonimaṇḍala-middle-goer](yonimaṇḍalamadhyagaḥ)
