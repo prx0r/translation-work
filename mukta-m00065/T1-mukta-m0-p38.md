@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p38-v926
-gold-colored-lotus-seated and full-raised-breasts
+[gold-colored-lotus-seated](hemavarṇābjasaṃsthā) [and](ca) [full-raised-breasts](pīnonnatapayodharā)
 
 ## mukta-m0-p38-v927
-always right-hand-lotus left Lakshmi with-sriphala
+[always](sadā) [right-hand-lotus](yāmyakarāmbhojā) [left](vāme) [Lakshmi](śrīḥ) [bilva-fruit-endowed](śrīphalānvitā)
 
 ## mukta-m0-p38-v928
-elephants water-pot-hands and bathing and from-side
+[elephants](gajau) [pitcher-hands](bhṛṅgārahastau) [and](ca) [bathing](snāpayantau) [and](ca) [from-sides](pārśvataḥ)
 
 ## mukta-m0-p38-v929
-book patience-bead-hand lute-bearing or Sarasvati
+[sleeping](suptā) [patience-garland-hand](kṣamālikāhastā) [or](vā) [vina-bearing](vīṇābhṛt) [Sarasvati](sarasvatī)
 
 ## mukta-m0-p38-v930
-pot-blue-lotus-hand and door-standing Janhu-daughter
+[pot-blue-lotus-hand](kumbhendīvarahastā) [and](ca) [door-standing](dvārasthā) [Jahnu-daughter](janhuputrikā)
 
 ## mukta-m0-p38-v931
-blue-lotus-petal-dark beautiful Yamuna likewise
+[blue-lotus-petal-dark](indīvaradalaśyāmā) [beautiful](surūpā) [Yamuna](yamunā) [thus](tathā)
 
 ## mukta-m0-p38-v932
-tiger-skin-wearing make lute-hand and Tumburu
+[tiger-skin-wearing](dvīpicarmadharaṃ) [make](kuryāt) [vina-hand](vīṇāhastaṃ) [and](ca) [Tumburu](tumburum)
 
 ## mukta-m0-p38-v933
-afterwards mothers and Brahmāni-first seven and
+[then](anantaraṃ) [mothers](mātṛśca) [Brahmani-first](brahmāṇyādyāḥ) [seven](sapta) [and](ca)
 
 ## mukta-m0-p38-v934
-pot-ghee-vessel left Brahmāni goose-seated
+[pot-ghee-vessel-hand](kuṇḍyājyapātriṇīṃ) [left](vāme) [Brahmani](brahmāṇīṃ) [swan-seated](haṃsasaṃsthitam)
 
 ## mukta-m0-p38-v935
-skull-garland white Rudrāni bull-seated
+[skull-garland](kapālamālinīṃ) [white](śuklāṃ) [Rudrani](rudrāṇīṃ) [bull-seated](vṛṣasaṃsthitām)
 
 ## mukta-m0-p38-v936
-peacock-back-mounted Kaumāri Skanda-formed
+[peacock-back-mounted](śikhipṛṣṭhasamārūḍhāṃ) [Kaumari](kaumārīṃ) [Skanda-formed](skandarūpiṇīm)
 
 ## mukta-m0-p38-v937
-dark beautiful make Vaishnavi forest-garland
+[dark](śyāmāṃ) [beautiful-formed](surūpiṇīṃ) [make](kuryāt) [Vaishnavi](vaiṣṇavīṃ) [forest-garland](vanamālinīm)
 
 ## mukta-m0-p38-v938
-well-clothed youth-bloomed woman-ornament-adorned
+[well-clothed](suvastrāṃ) [youth-bloomed](yauvanodbhinnāṃ) [woman-ornament-adorned](nāryābharaṇabhūṣitām)
 
 ## mukta-m0-p38-v939
-sword-shield-joined or four-armed
+[sword-shield-equipped](khaḍgakheṭakasaṃyuktām) [or](athavā) [also](api) [four-armed](caturbhujām)
 
 ## mukta-m0-p38-v940
-Indrāni all-success-purpose cloth-ornament-joined
+[Indrani](indrāṇīṃ) [all-accomplishment-for](sarvasiddhyarthaṃ) [cloth-ornament-equipped](vastrālaṅkārasaṃyutām)
 
 ## mukta-m0-p38-v941
-open-mouthed tusk-fierce corpse or skin seated
+[open-mouthed](vivatāsyāṃ) [fang-fierce](tu) [daṃṣṭrogrāṃ) [corpse](śave) [or](vā) [skin](kauśike) [seated](sthitām)
 
 ## mukta-m0-p38-v942
-skull knife right noose trident and left
+[skull](kapālaṃ) [knife](katarīṃ) [right](yāmye) [noose](pāśaṃ) [trident](śūlaṃ) [and](ca) [left](vāmake)
 
 ## mukta-m0-p38-v943
-mother-place or one and end and Ganeshvara
+[mother-place](mātṛsthāne) [or](athavā) [one](ekāṃ) [then](vā) [end](tadante) [and](ca) [Ganesha](gaṇeśvaraḥ)
 
 ## mukta-m0-p38-v944
-elephant-skin-bearing upward two six-arms be Rudracarcika
+[elephant-skin-wearing-upraised](gajacarmabhṛdūrdhvābhyāṃ) [six-armed](ṣaḍdoḥ) [may-be](syāt) [Rudra-Carcika](rudracarcikā)
 
 ## mukta-m0-p38-v945
-therefore she Rudracāmuṇḍā dance-lady then dancing
+[thereby](tena) [she](sā) [Rudra-Camunda](rudracāmuṇḍā) [dance-goddess](nāṭyeśvarī) [then](atha) [dancing](nṛtyatī)
 
 ## mukta-m0-p38-v946
-king-battle-buffalo-elephants and eating if hand situated
+[kings-elephants-buffaloes](nṛpājimahiṣebhāṃśca) [eating](khādantī) [if](cet) [hand](kare) [standing](sthitān)
 
 ## mukta-m0-p38-v947
-one-faced white-color and white-ornament-adorned
+[single-faced](ekāsyā) [white-colored](śvetavarṇā) [and](ca) [white-ornament-adorned](śvetābharaṇabhūṣitā)
 
 ## mukta-m0-p38-v948
-ten-arms three-eyes and weapon-sword drum skull
+[ten-armed](daśabāhu) [three-eyed](trinetrā) [and](ca) [weapons-sword-drum-corpse](śastrāsiṃ ḍamaruṃ nṛkam)
 
 ## mukta-m0-p38-v949
-khatvanga and trident and Siddhacāmuṇḍikā-called
+[skull-staff](khaṭvāṅgaṃ) [and](ca) [trident](triśūlaṃ) [and](ca) [Siddha-Camundika-called](siddhacāmuṇḍikāhvayā)
 
 ## mukta-m0-p38-v950
-this-form be another noose-goad-joined-red
+[this-form](etadrūpā) [may-be](bhaved) [another](anyā) [noose-goad-equipped-red](pāśāṅkuśayutāruṇā)
