@@ -2,31 +2,31 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p34-v826
-[by-hand-blow](karaprahāreṇa) [head-of-chāmara](śiraścāmarasya) [separated](pṛthakkṛtam)
+[by-hand-strike](karaprahāreṇa) [head](śiraḥ) [of-chāmara](cāmarasya) [separated](pṛthakkṛtam)
 
 ## mukta-m0-p34-v827
-[dent-fist-palms](dantamuṣṭitalaiḥ) [and](ca) [indeed](eva) [karāla](karālaḥ) [and](ca) [struck-down](nipātitaḥ)
+[dent-fist-palms](dantamuṣṭitalaiḥ) [and](ca) [indeed](eva) [Karāla](karālaḥ) [and](ca) [struck-down](nipātitaḥ)
 
 ## mukta-m0-p34-v828
-[vāṣkala](vāṣkalaṃ) [by-bhindipāla](bhindipālena) [by-arrows](vāṇaiḥ) [copper](tāmraṃ) [and](tathā) [andhaka](andhakam)
+[Vāṣkala](vāṣkalaṃ) [by-bhindipāla](bhindipālena) [by-arrows](vāṇaiḥ) [Tāmra](tāmraṃ) [and](tathā) [Andhaka](andhakam)
 
 ## mukta-m0-p34-v829
 [three-eyed](trinetrā) [and](ca) [by-trident](triśūlena) [struck](jaghāna) [supreme-goddess](parameśvarī)
 
 ## mukta-m0-p34-v830
-[durdhara](durdharaṃ) [durmukha](durmukhaṃ) [and](ca) [both](ubhau) [by-arrows](śaraiḥ) [sent](ninye) [to-yama's-abode](yamakṣayam)
+[Durdhara](durdharaṃ) [Durmukha](durmukhaṃ) [and](ca) [both](ubhau) [by-arrows](śaraiḥ) [sent](ninye) [to-Yama's-abode](yamakṣayam)
 
 ## mukta-m0-p34-v831
-[by-buffalo](māhiṣeṇa) [by-form](svarūpeṇa) [terrified](trāsayāmāsa) [those-troops](tāngaṇān)
+[by-buffalo](māhiṣeṇa) [form](svarūpeṇa) [terrified](trāsayāmāsa) [those](tān) [troops](gaṇān)
 
 ## mukta-m0-p34-v832
 [by-tail-struck](lāṅgūlatāḍitān) [and](ca) [others](anyān) [by-horns](śṛṅgābhyām) [and](ca) [torn](vidāritān)
 
 ## mukta-m0-p34-v833
-[by-breath-wind](niḥśvāsapavanena) [others](anyān) [caused-to-fall](pātayāmāsa) [on-earth](bhūtale)
+[by-breath-wind](niḥśvāsapavanena) [others](anyān) [caused-to-fall](pātayāmāsa) [on-ground](bhūtale)
 
 ## mukta-m0-p34-v834
-[lion-slayer](siṃhahantam) [of-great-goddess](mahādevyāḥ) [anger](kopaṃ) [made](cakre) [then](tataḥ) [ambikā](ambikā)
+[Simhaṃhanta](siṃhaṃhantaṃ) [of-great-goddess](mahādevyāḥ) [anger](kopaṃ) [made](cakre) [then](tataḥ) [Ambikā](ambikā)
 
 ## mukta-m0-p34-v835
 [by-horns](śṛṅgābhyām) [mountains](parvatān) [high](uccān) [hurled](cikṣepa) [and](ca) [roared](nanāda) [and](ca)
@@ -38,37 +38,37 @@
 [breath-winds](śvāsānilāḥ) [those](tāḥ) [hundreds](śataśaḥ) [fell](nipetuḥ) [from-sky](nabhasaḥ) [mountains](acalāḥ)
 
 ## mukta-m0-p34-v838
-[seeing](dṛṣṭvā) [she](sā) [caṇḍikā](caṇḍikā) [anger](kopaṃ) [for-his-killing](tadbadhāya) [then-did](tadākarot)
+[seeing](dṛṣṭvā) [she](sā) [Caṇḍikā](caṇḍikā) [anger](kopaṃ) [for-his-killing](tadbadhāya) [then-did](tadākarot)
 
 ## mukta-m0-p34-v839
-[abandoned](tatyāja) [buffalo](māhiṣaṃ) [form](rūpaṃ) [he](saḥ) [also](api) [bound](vaddhaḥ) [in-great-battle](mahāmṛdhe)
+[abandoned](tatyāja) [buffalo](māhiṣaṃ) [form](rūpaṃ) [he](saḥ) [but](api) [bound](vaddhaḥ) [in-great-battle](mahāmṛdhe)
 
 ## mukta-m0-p34-v840
-[cutting](chinatti) [then](tāvat) [man](puruṣaḥ) [sword-in-hand](khaḍgapāṇiḥ) [appeared](adṛśyata)
+[cutting](chinatti) [then](tāvat) [man](puruṣaḥ) [sword-handed](khaḍgapāṇiḥ) [appeared](adṛśyata)
 
 ## mukta-m0-p34-v841
-[him](taṃ) [with-sword-and-shield](khaḍgacarmaṇā) [together](sārddhaṃ) [then](tataḥ) [he-became](so'bhūt) [great-elephant](mahāgajaḥ)
+[him](taṃ) [with-sword-shield](khaḍgacarmaṇā) [together](sārddhaṃ) [then](tataḥ) [he-became](so'bhūt) [great-elephant](mahāgajaḥ)
 
 ## mukta-m0-p34-v842
-[pulling](karṣataḥ) [indeed](tu) [trunk](karaṃ) [goddess](devī) [by-sword](khaḍgena) [cut-off](nirakṛntata)
+[dragging](karṣataḥ) [but](tu) [trunk](karaṃ) [goddess](devī) [by-sword](khaḍgena) [cut-off](nirakṛntata)
 
 ## mukta-m0-p34-v843
-[thus](tathaiva) [shook](kṣobhayāmāsa) [three-worlds](trailokyaṃ) [with-moving-and-nonmoving](sacarācaram)
+[thus](tathaiva) [shook](kṣobhayāmāsa) [three-worlds](trailokyaṃ) [with-moving-immoving](sacarācaram)
 
 ## mukta-m0-p34-v844
 [drank](papau) [again](punaḥ) [again](punaḥ) [and](ca) [indeed](eva) [laughed](jahāsa) [red](aruṇa) [eyes](locanā)
 
 ## mukta-m0-p34-v845
-[by-tusks](viṣāṇābhyām) [and](ca) [hurled](cikṣepa) [towards-caṇḍikā](caṇḍikāṃ+prati) [mountains](bhūdharān)
+[by-tusks](viṣāṇābhyām) [and](ca) [hurled](cikṣepa) [towards-Caṇḍikā](caṇḍikāṃ prati) [mountains](bhūdharān)
 
 ## mukta-m0-p34-v846
-[goddess-said](devyuvāca)
+[goddess](devī) [said](uvāca)
 
 ## mukta-m0-p34-v847
 [by-me](mayā) [you](tvayi) [killed](hate) [here](atra) [indeed](eva) [will-roar](garjiṣyanti) [quickly](āśu) [gods](devatāḥ)
 
 ## mukta-m0-p34-v848
-[sage-said](ṛṣiruvāca)
+[sage](ṛṣiḥ) [said](uvāca)
 
 ## mukta-m0-p34-v849
 [by-foot](pādena) [pressing](ākramya) [throat](kaṃṭhe) [and](ca) [by-trident](śūlena) [him](enam) [struck](atāḍayat)

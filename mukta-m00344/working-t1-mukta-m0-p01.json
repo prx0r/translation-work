@@ -16,11 +16,7 @@
 },
 {
 "surface": "citra",
-"quick_gloss": "wondrous"
-},
-{
-"surface": "citra",
-"quick_gloss": "wondrous"
+"quick_gloss": "painting"
 },
 {
 "surface": "darpaṇa",
@@ -40,19 +36,19 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "mātram",
-"quick_gloss": "only"
+"surface": "svātmacittattvamātram",
+"quick_gloss": "self-mind-principle-only"
 },
 {
-"surface": "svātmacittattvam",
-"quick_gloss": "self-truth"
+"surface": "iti",
+"quick_gloss": "thus"
 },
 {
 "surface": "bodhanārtham",
-"quick_gloss": "for-instruction"
+"quick_gloss": "teaching-purpose"
 },
 {
-"surface": "idam",
+"surface": "idaṃ",
 "quick_gloss": "this"
 },
 {
@@ -78,19 +74,15 @@
 },
 {
 "surface": "tripurākhyāyā",
-"quick_gloss": "of-Tripurā"
+"quick_gloss": "of-Tripura-named"
 },
 {
-"surface": "yac",
-"quick_gloss": "which"
-},
-{
-"surface": "śruti",
-"quick_gloss": "by-scripture"
+"surface": "yacchruti",
+"quick_gloss": "which-hearing"
 },
 {
 "surface": "parasādhanam",
-"quick_gloss": "is-established"
+"quick_gloss": "supreme-means"
 }
 ]
 },
@@ -102,8 +94,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "śrotāramabhimukhayituṃ",
-"quick_gloss": "to-make-hearer"
+"surface": "śrotāram",
+"quick_gloss": "listener"
+},
+{
+"surface": "abhimukhayituṃ",
+"quick_gloss": "to-face"
 },
 {
 "surface": "śrutam",
@@ -123,11 +119,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "yac",
-"quick_gloss": "which"
-},
-{
-"surface": "śrutvā",
+"surface": "yacchrutvā",
 "quick_gloss": "having-heard"
 },
 {
@@ -152,7 +144,7 @@
 },
 {
 "surface": "ṛcchati",
-"quick_gloss": "attains"
+"quick_gloss": "obtains"
 }
 ]
 },
@@ -169,7 +161,7 @@
 },
 {
 "surface": "eva",
-"quick_gloss": "thus"
+"quick_gloss": "indeed"
 },
 {
 "surface": "āha",
@@ -177,11 +169,11 @@
 },
 {
 "surface": "yacchrutvā",
-"quick_gloss": "which-having-heard"
+"quick_gloss": "having-heard"
 },
 {
 "surface": "iti",
-"quick_gloss": "thus"
+"quick_gloss": "etc"
 }
 ]
 },
@@ -197,12 +189,8 @@
 "quick_gloss": "knowledge"
 },
 {
-"surface": "samyag",
-"quick_gloss": "well"
-},
-{
-"surface": "ālocya",
-"quick_gloss": "considering"
+"surface": "samyagālocya",
+"quick_gloss": "well-considered"
 },
 {
 "surface": "yadetat",
@@ -210,7 +198,7 @@
 },
 {
 "surface": "praviniścitam",
-"quick_gloss": "decided"
+"quick_gloss": "firmly-determined"
 }
 ]
 },
@@ -222,12 +210,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "ātmatattvaniścāyaka",
-"quick_gloss": "self-truth-determination"
-},
-{
-"surface": "upapattijālam",
-"quick_gloss": "net"
+"surface": "ātmatattvaniścāyakopapattijālam",
+"quick_gloss": "self-principle-determination-proofs-net"
 }
 ]
 },
@@ -244,7 +228,7 @@
 },
 {
 "surface": "śrīdattaguruṇā",
-"quick_gloss": "Śrī-Dattaguru"
+"quick_gloss": "by-śrī-datta-guru"
 },
 {
 "surface": "bhārgavāya",
@@ -252,7 +236,7 @@
 },
 {
 "surface": "nirūpitam",
-"quick_gloss": "expounded"
+"quick_gloss": "explained"
 }
 ]
 },
@@ -265,15 +249,19 @@
 "tokens": [
 {
 "surface": "tathā",
-"quick_gloss": "thus"
+"quick_gloss": "so"
 },
 {
 "surface": "anyad",
 "quick_gloss": "other"
 },
 {
-"surface": "ityarthaḥ",
-"quick_gloss": "thus-meaning"
+"surface": "iti",
+"quick_gloss": "thus"
+},
+{
+"surface": "arthaḥ",
+"quick_gloss": "meaning"
 }
 ]
 },
@@ -285,12 +273,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "atra",
-"quick_gloss": "here"
+"surface": "atroktena",
+"quick_gloss": "here-said"
 },
 {
-"surface": "uktenāpi",
-"quick_gloss": "by-stated"
+"surface": "api",
+"quick_gloss": "even"
 },
 {
 "surface": "no",
@@ -367,12 +355,8 @@
 "quick_gloss": "knowledge"
 },
 {
-"surface": "sākṣāt",
-"quick_gloss": "direct"
-},
-{
-"surface": "śivanirūpitam",
-"quick_gloss": "Śiva-declared"
+"surface": "sākṣācchivanirūpitam",
+"quick_gloss": "direct-śiva-explained"
 }
 ]
 },
@@ -385,7 +369,7 @@
 "tokens": [
 {
 "surface": "aho",
-"quick_gloss": "aho"
+"quick_gloss": "ah"
 },
 {
 "surface": "satām",
@@ -393,7 +377,7 @@
 },
 {
 "surface": "adbhutaṃ",
-"quick_gloss": "wonderful"
+"quick_gloss": "wonder"
 },
 {
 "surface": "hi",
@@ -431,11 +415,11 @@
 "tokens": [
 {
 "surface": "anugrāhakatā",
-"quick_gloss": "grace"
+"quick_gloss": "gracefulness"
 },
 {
 "surface": "ca",
-"quick_gloss": "also"
+"quick_gloss": "and"
 },
 {
 "surface": "eṣā",
@@ -446,8 +430,12 @@
 "quick_gloss": "of-good"
 },
 {
-"surface": "sahajasambhavā",
-"quick_gloss": "innate"
+"surface": "sahaja",
+"quick_gloss": "natural"
+},
+{
+"surface": "sambhavā",
+"quick_gloss": "arising"
 }
 ]
 },
@@ -480,7 +468,7 @@
 "quick_gloss": "thus"
 },
 {
-"surface": "dattātreyamukhāc",
+"surface": "dattātreyamukhāt",
 "quick_gloss": "from-Dattātreya-mouth"
 },
 {
@@ -514,16 +502,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "bhaktyā",
-"quick_gloss": "with-devotion"
-},
-{
-"surface": "apahṛtasaccittas",
-"quick_gloss": "carried-away-pure-mind"
+"surface": "bhaktyāpahṛtasaccittaḥ",
+"quick_gloss": "by-devotion-carried-pure-mind"
 },
 {
 "surface": "tūṣṇīṃ",
-"quick_gloss": "silent"
+"quick_gloss": "silently"
 },
 {
 "surface": "kiñcid",
@@ -559,6 +543,10 @@
 "quick_gloss": "absorbed"
 },
 {
+"surface": "sat",
+"quick_gloss": "true"
+},
+{
 "surface": "śuddhaṃ",
 "quick_gloss": "pure"
 },
@@ -581,11 +569,11 @@
 "tokens": [
 {
 "surface": "romāñcapīvaravapuḥ",
-"quick_gloss": "horripilation-swollen-body"
+"quick_gloss": "goosebumps-stout-body"
 },
 {
 "surface": "svāntarānandanirbharaḥ",
-"quick_gloss": "inner-bliss-full"
+"quick_gloss": "inner-joy-full"
 }
 ]
 },
@@ -619,11 +607,11 @@
 "tokens": [
 {
 "surface": "praṇanāma",
-"quick_gloss": "prostrated"
+"quick_gloss": "bowed"
 },
 {
 "surface": "dattaguruṃ",
-"quick_gloss": "Dattaguru"
+"quick_gloss": "to-Datta-guru"
 },
 {
 "surface": "daṇḍavat",
@@ -631,7 +619,7 @@
 },
 {
 "surface": "caraṇāntike",
-"quick_gloss": "at-feet-near"
+"quick_gloss": "near-feet"
 }
 ]
 },
@@ -643,8 +631,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "romāñcapīvaravapuriti",
-"quick_gloss": "horripilation-swollen-body"
+"surface": "romāñcapīvaravapuḥ",
+"quick_gloss": "goosebumps-stout-body"
+},
+{
+"surface": "iti",
+"quick_gloss": "thus"
 },
 {
 "surface": "sambandhaḥ",
