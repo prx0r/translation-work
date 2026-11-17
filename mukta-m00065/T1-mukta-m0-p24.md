@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p24-v576
-[whatever](yāni) [whatever](yāni) [and](ca) [names](nāmāni) [those](tāni) [those](tāni) [separately-speak](pṛthagbruve)
+[which](yāni) [which](yāni) [and](ca) [names](nāmāni) [those](tāni) [those](tāni) [separately-speak](pṛthagbruve)
 
 ## mukta-m0-p24-v577
-[touch-sound-lord](sparśaśabdeśvaro) [nose](nāsā) [tongue-eye-skin-ear-lords](jihvākṣitvakśrutīśvarāḥ)
+[lord-of-touch-and-sound](sparśaśabdeśvaro) [nose](nāsā) [lords-of-tongue-eye-skin-ear](jihvākṣitvakśrutīśvarāḥ)
 
 ## mukta-m0-p24-v578
-[speech-grasp-release-bliss-progression-lords](vacanagrahaṇotsargānandapragamaneśvarāḥ)
+[lords-of-speech-grasping-release-bliss-progression](vacanagrahaṇotsargānandapragamaneśvarāḥ)
 
 ## mukta-m0-p24-v579
-[nature-lord](prakṛtīśaḥ) [man](pumāṃścaiva) [middle](madhyānāṃ) [ten](daśa) [five](pañca) [and](ca)
+[lord-of-nature](prakṛtīśaḥ) [man](pumāṃścaiva) [middle-ones](madhyānāṃ) [ten-five](daśa+pañca+ca)
 
 ## mukta-m0-p24-v580
-[knowledge-lord](vidyeśvaraḥ) [lord](patiḥ) [creator](sraṣṭā) [garutmān](garutmāna) [whole](sakalo) [partless](akalaḥ)
+[lord](vidyeśvaraḥ) [master](patiḥ) [creator](sraṣṭā) [garutmān](garutmāna) [with-parts](sakalo) [without-parts](akalaḥ)
 
 ## mukta-m0-p24-v581
-[peaceful](śāntaścājo) [great-radiance](mahātejā) [door-measure-best-three](dvārmānāduttamaṃ) [three](trayam)
+[peaceful](śāntaścājo) [great-radiance](mahātejā) [three](trayam) [best](uttamaṃ) [of-doors](dvārmānāduttamaṃ)
 
 ## mukta-m0-p24-v582
-[skanda](skandaḥ) [subtle](sūkṣmo) [ambikā-lord](mbikānāthastrayaṃ) [door-from-thus-lowest-three](dvārāttathādhamam)
+[skanda](skandaḥ) [subtle](sūkṣmo) [ambikā-lord](ambikānāthaḥ) [three](trayaṃ) [from-door](dvārāt) [thus-lowest](tathādhamam)
 
 ## mukta-m0-p24-v583
-[serpent](bhujaṅgī) [bull](vṛṣabhī) [lion](siṃhī) [best](uttamā) [nine](nava) [womb-born](garbhajāḥ)
+[serpent-female](bhujaṅgī) [bull-female](vṛṣabhī) [lion-female](siṃhī) [best](uttamā) [nine](nava) [womb-born](garbhajāḥ)
 
 ## mukta-m0-p24-v584
-[pervading](vyāpī) [trident-bearer](śūlī) [wide](viśālī) [thus-lowest-nine](cetthadhamā) [womb-born](nava) [garbhajāḥ]
+[pervading](vyāpī) [trident-bearer](śūlī) [wide](viśālī) [thus-lowest](cetthadhamā) [nine](nava) [womb-born](garbhajāḥ)
 
 ## mukta-m0-p24-v585
-[all-knowing](sarvajño) [bull-bannered](vṛṣadhvajo) [restrainer](niyāmaḥ) [sin-destroyer](pāpahā) [fixed](dhruvaḥ)
+[all-knowing](sarvajño) [bull-bannered](vṛṣadhvajo) [restrainer](niyāmaḥ) [sin-destroyer](pāpahā) [firm](dhruvaḥ)
 
 ## mukta-m0-p24-v586
-[auspicious](śambhuḥ) [pillar](sthāṇurharo) [ḍiṇḍī](ḍiṇḍī) [taker](hartā) [maker](kartā) [śiva](śivo) [imperishable](avyayaḥ)
+[auspicious](śambhuḥ) [pillar](sthāṇur) [hara](haro) [ḍiṇḍī](ḍiṇḍī) [taker](hartā) [maker](kartā) [śiva](śivo) [imperishable](avyayaḥ)
 
 ## mukta-m0-p24-v587
 [auspicious](bhadro) [pure](vimalo) [eldest](jyeṣṭho) [gāṇḍīva](gāṇḍīvaḥ) [nourishment-increaser](puṣṭivardhanaḥ)
 
 ## mukta-m0-p24-v588
-[nine-these](navaite) [hand-measure](hastamānena) [thus-lowest](tvadhamāḥ) [declared](parikīrtitāḥ)
+[nine-these](navaite) [by-hand-measure](hastamānena) [thus-lowest](tvadhamāḥ) [declared](parikīrtitāḥ)
 
 ## mukta-m0-p24-v589
 [six-beginning-ten-ending](ṣaḍādidaśaparyantaṃ) [moving-linga](calaliṅgaṃ) [and](ca) [middle](madhyamam)
 
 ## mukta-m0-p24-v590
-[best-linga-measure](śreṣṭhaliṅgapramāṇaṃ) [that](tajjyeṣṭhādyaṅgulilakṣitam)
+[best-linga-measure](śreṣṭhaliṅgapramāṇaṃ) [that](taj) [eldest-beginning-finger-marked](jyeṣṭhādyaṅgulilakṣitam)
 
 ## mukta-m0-p24-v591
-[sun-rays-gold-arisen](ravibhirhematārotthaṃ) [linga](liṅgaṃ) [remaining](śeṣai) [five](stripañcabhiḥ)
+[by-suns-gold-star-born](ravibhirhematārotthaṃ) [linga](liṅgaṃ) [by-remainders](śeṣai) [five-three](stripañcabhiḥ)
 
 ## mukta-m0-p24-v592
-[health](ārogyaṃ) [kingdom-happiness](rājyasaukhyaṃ) [and](ca) [king-glory-victory-world-maker](nṛpaśrījayalokakṛt)
+[health](ārogyaṃ) [kingdom-happiness](rājyasaukhyaṃ) [and](ca) [king-splendor-victory-world-maker](nṛpaśrījayalokakṛt)
 
 ## mukta-m0-p24-v593
-[moving-linga-from](calaliṅgādbhavetkāryaṃ) [practitioners](sādhakānāṃ) [sometimes-opinion](kvacinmate)
+[from-moving-linga](calaliṅgādbhavet) [work](kāryaṃ) [of-practitioners](sādhakānāṃ) [sometimes-opinion](kvacinmate)
 
 ## mukta-m0-p24-v594
-[thirty-two-sixteen-parts](dvātriṃśatṣoḍaśāṃśāśca) [corners](koṇayostu) [erase](vilopayet)
+[twenty-two-sixteen-parts](dvātriṃśatṣoḍaśāṃśāśca) [in-corners](koṇayostu) [destroy](vilopayet)
 
 ## mukta-m0-p24-v595
-[sides](pārśvābhyāṃ) [erased](tu) [moving-linga](viluptābhyāṃ) [calaliṅgaṃ] [becomes-best](bhavedvaram)
+[from-sides](pārśvābhyāṃ) [destroyed](tu+viluptābhyāṃ) [moving-linga](calaliṅgaṃ) [becomes-best](bhavedvaram)
 
 ## mukta-m0-p24-v596
-[linga](liṅgaṃ) [door-height-half](dvārocchrayādardhādbhavetpādonataḥ) [gradually](kramāt)
+[linga](liṅgaṃ) [from-door-height-half](dvārocchrayādardhāt) [becomes](bhavet) [quarter-bowed](pādonataḥ) [in-order](kramāt)
 
 ## mukta-m0-p24-v597
-[those-two-middle](tayormadhye) [and](ca) [threads](sūtrāṇi) [seven](sapta) [prepare-evenly](saṃpādayetsamam)
+[of-those-two-middle](tayormadhye) [and](ca) [threads](sūtrāṇi) [seven](sapta) [make-equal](saṃpādayetsamam)
 
 ## mukta-m0-p24-v598
-[two-interval](dvyantare) [rāma-rāma](rāmarāmaṃ) [and](ca) [lingas](liṅgānāṃ) [length](dīrghatā) [nine](nava)
+[two-interval](dvyantare) [rāma-rāma](rāmarāmaṃ) [and](ca) [of-lingas](liṅgānāṃ) [length](dīrghatā) [nine](nava)
 
 ## mukta-m0-p24-v599
-[woman-middle-best](strīya?madhyottamaṃ) [linga](liṅgaṃ) [threefold](trividhaṃ) [threefold-natured](trividhātmakam)
+[female-middle-best](strīya?madhyottamaṃ) [linga](liṅgaṃ) [threefold](trividhaṃ) [threefold-natured](trividhātmakam)
 
 ## mukta-m0-p24-v600
-[lingas](liṅgāni) [join](ghaṭayeddhīmān) [wise](dhīmān) [six](ṣaṭsu) [or](vā) [eight-intervals](aṣṭāntareṣu) [or](vā)
+[lingas](liṅgāni) [join](ghaṭayed) [wise](dhīmān) [in-six-or-eight-intervals](ṣaṭsu+vāṣṭāntareṣu+vā)
