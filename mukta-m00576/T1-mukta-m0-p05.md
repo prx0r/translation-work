@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p05-v101
-vyutthāne(in-rising) vṛtti(activity) kuryā(should-do) iti(thus) bhāvaḥ(meaning)
+[in-rising](vyutthāne) [conduct](vṛtti) [should-do](kuryā) [thus](iti) [meaning](bhāvaḥ)
 
 ## mukta-m0-p05-v102
-oṃ(om) bhūrbhuvasva(earth-air-heaven) ityuktvā(having-said-thus) tatsavitur(of-that-savitṛ) iti(thus) sāvitrī(sāvitrī-mantra) manu(manu) brūyāḥ(should-recite)
+[om](oṃ) [earth-air-heaven](bhūrbhuvasvar) [having-said](ityuktvā) [that-savitṛ](tatsavitur) [thus](iti) [sāvitrī](sāvitrī) [manu-recite](manubrūyāḥ)
 
 ## mukta-m0-p05-v103
-bhāvaye(may-I-contemplate) iti(thus) uktaṃ(said) bhavati(becomes)
+[bhāvayer](bhāvayer) [thus-said](ityuktaṃ) [becomes](bhavati)
 
 ## mukta-m0-p05-v104
-prāk(before) astamayāt(sunset) niṣkramya(having-gone-out) samidhaḥ(fuel-sticks) āhāre(for-offering) hariṇī(tawny-cow) brahmavarcasa(brahmic-luster) kāmaḥ(desiring)
+[before-sunset](prāgastamayā) [having-emerged](niṣkramya) [firewood](samidha) [taking](āhāre) [deer-skin](hariṇī) [brahma-splendor-desiring](brahmavarcasakāmaḥ)
 
 ## mukta-m0-p05-v105
-śrūyate(is-heard)
+[is-heard](śrūyate)
 
 ## mukta-m0-p05-v106
-sāyaṃ(evening) prātaḥ(morning) saṃdhyāni(twilight-rites) smaraṇaṃ(remembrance) kartavyaṃ(to-be-done)
+[evening](sāyaṃ) [morning](prātas) [twilights](saṃdhyāni) [remembrance](smaraṇaṃ) [to-be-done](kartavyaṃ)
 
 ## mukta-m0-p05-v107
-tad(that) ubhaya(both) vyāpakaṃ(pervading) ca(and) paraṃ(supreme) tejaḥ(light)
+[both-pervading](tadubhayavyāpakaṃ) [and](ca) [supreme](paraṃ) [radiance](tejaḥ)
 
 ## mukta-m0-p05-v108
-bhaikṣa(alms)+ācaraṇaṃ(practice) kartavyam(to-be-done)
+[begging-conduct](bhaikṣācaraṇaṃ) [to-be-done](kartavyam)
 
 ## mukta-m0-p05-v109
-agni(fire)+indhanaṃ(kindling) kartavyam(to-be-done)
+[fire-kindling](agnīṃdhanaṃ) [to-be-done](kartavyam)
 
 ## mukta-m0-p05-v110
-tena(by-that) ca(and) brahma(brahma)+agneḥ(of-fire) dīpanaṃ(kindling) vidheyaṃ(to-be-done)
+[by-that](tena) [and](ca) [brahma-fire](brahmāgner) [kindling](dīpanaṃ) [to-be-enjoined](vidheyaṃ)
 
 ## mukta-m0-p05-v111
-sāyam(evening) eva(only) agniṃ(fire) sandhīthāḥ(should-kindling)
+[evening-only](sāyameva) [fire](agniṃ) [kindle](dhīthāḥ)
 
 ## mukta-m0-p05-v112
-bhaikṣasya(of-alms) ācaraṇa(practice) ityādi(etc)
+[begging-conduct-etc](bhaikṣasyācaraṇetyādi)
 
 ## mukta-m0-p05-v113
-bhaikṣa(alms)+ācaraṇa(practice)+agni(fire)+indhana(kindling)
+[ellipsis](.......................) [begging+firewood](bhaikṣācaraṇāgnīṃdhanī)
 
 ## mukta-m0-p05-v114
-saptarātram(seven-nights)
+[seven-nights](saptarātram)
 
 ## mukta-m0-p05-v115
-mā(not) bhūt(be) iti(thus) āśāste(blesses) guruḥ(teacher)
+[may-not-be](mābhūt) [thus-wishes](ityāśāste) [teacher](guruḥ)
 
 ## mukta-m0-p05-v116
-śṛṇu(hear) tu(but) tvā(you) vāk(speech)
+[hear](chṛṇu) [but](tu) [you](tvā) [speech](vāk)
 
 ## mukta-m0-p05-v117
-saṃnamya(bowing) dhārayati(holds)
+[having-bowed](sanamya) [holds](dhārayati)
 
 ## mukta-m0-p05-v118
-yat(which) veda(veda) brataṃ(vow) tat(that) atra(here) bratam(vow)
+[whatever-veda-vow](yadvedabrataṃ) [that-here](tadatra) [vow](bratam)
 
 ## mukta-m0-p05-v119
-bhavati(is) avaśyaṃ(necessarily) gṛhītavyam(to-be-taken) iti(thus) arthaḥ(meaning)
+[becomes](bhavati) [necessarily](avaśyaṃ) [to-be-accepted](gṛhītavyam) [thus-meaning](ityarthaḥ)
 
 ## mukta-m0-p05-v120
-guruḥ(teacher) āha(says)
+[teacher-says](gururāha)
 
 ## mukta-m0-p05-v121
-brahmacārī(brahmacārin) asi(you-are) iti(thus)
+[brahmacārin](brahmacārya) [you-are](asi) [thus](iti)
 
 ## mukta-m0-p05-v122
-paṃca(five) vikārān(modifications) anukramiṣyāmaḥ(will-enumerate)
+[five-modifications](paṃcavikārān) [in-order](anukrami) [we-will-recite](ruṣyāmaḥ)
 
 ## mukta-m0-p05-v123
-na(not) vetyā(or) āśakyā(possible) āha(says)
+[nine](nava) [thus](iti) [āśakyā](āśakyā) [says](āha)
 
 ## mukta-m0-p05-v124
-apośāna(food-offering)
+[food-remainder](apośāna)
 
 ## mukta-m0-p05-v125
-brahma(brahma)+jñāna(knowledge)+vimarśa(reflection)+dārḍhyaṃ(firmness) bhavet(may-be) tatra(there) āha(says)
+[brahma-knowledge-reflection-firmness](brahmajñānavimarśadārḍhyaṃ) [may-become](bhavet) [there](tatra) [says](āha)
