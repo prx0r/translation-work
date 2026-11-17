@@ -8,22 +8,22 @@
 [govarddhanasya](govarddhanasya) [uddharaṇe](uddharaṇe) [tathā](tathā) [kālīya+mardane](kālīyamardane)
 
 ## mukta-m0-p08-v178
-[tena](tena) [indrāya](iṃdrāya) [upadiṣṭā](upadiṣṭeyaṃ) [iyam](iyam) [vidyā+saubhāgya+dāyinī](vidyāsaubhāgyadāyinī)
+[tena](tena) [indrāya](iṃdrāya) [upadiṣṭā](upadiṣṭeyaṃ) [iyam](iyaṃ) [vidyā+saubhāgya+dāyinī](vidyāsaubhāgyadāyinī)
 
 ## mukta-m0-p08-v179
 [evam](evaṃ) [smareṣu](smareṣu) [sarvatra](sarvatra) [sura+dvāra+nareṣu](suradvārānareṣu) [ca](ca)
 
 ## mukta-m0-p08-v180
-[sarva+siddhi+karī](sarvasiddhikarī) [sarva+pāpa+jāla+nikṛntanī](sarvapāpa) [jāla+nikṛntanī](jālanikṛṃtanī)
+[sarva+siddhi+karī](sarvasiddhikarī) [sarva+pāpa+jāla+nikṛṃtanī](sarvapāpa) [jāla+nikṛṃtanī](jālanikṛṃtanī)
 
 ## mukta-m0-p08-v181
 [sarva+tattva+mayī](sarvatatvamayī) [sarva+vyādhi+śaila+mahā+aśaniḥ](sarvavyādhiśaila) [mahā+aśaniḥ](mahāśaniḥ)
 
 ## mukta-m0-p08-v182
-[mārī+cora+vyāghra+bhaye](mārīcoravyāghrabhaye) [ghora+kāntāra+saṅkaṭe](ghorakāṃtārasaṃkaṭe)
+[mārī+cora+vyāghra+bhaye](mārīcoravyāghrabhaye) [ghora+kāntāra+saṃkaṭe](ghorakāṃtārasaṃkaṭe)
 
 ## mukta-m0-p08-v183
-[sakṛt](sakṛt) [kṛtā](kṛteyaṃ) [iyam](iyam) [sat+vidyā](sadvidyā) [sarva+duḥkham](sarvaduḥkhaṃ) [vyapohati](vyapohati)
+[sakṛt](sakṛt) [kṛtā](kṛteyaṃ) [iyam](iyaṃ) [sat+vidyā](sadvidyā) [sarva+duḥkham](sarvaduḥkhaṃ) [vyapohati](vyapohati)
 
 ## mukta-m0-p08-v184
 [kim](kiṃ) [vyastam](vyastaṃ) [kim](kim) [nu](nu) [kūṭam](kūṭaṃ) [vā](vā) [kathayasva](kathayasva) [mama](mama) [prabho](prabho)
@@ -35,13 +35,13 @@
 [prathamam](prathamaṃ) [viśva+rūpam](viśvarūpaṃ) [syāt](syād) [dvitīyam](dvitīyaṃ) [tu](tu) [nava+ātmakam](navātmakam)
 
 ## mukta-m0-p08-v187
-[etat](etat) [nava+ātmakam](navātmakaṃ) [prāhuḥ](prāhuḥ) [kūṭam](kūṭaṃ) [bījam](bījaṃ) [mahat+tarām](mahattaram)
+[etat](etat) [nava+ātmakam](navātmakaṃ) [prāhuḥ](prāhuḥ) [kūṭam](kūṭaṃ) [bījam](bījaṃ) [mahat+taram](mahattaram)
 
 ## mukta-m0-p08-v188
-[bhṛgu](bhṛgu) [śaṃkara](śaṃkara) [saṃvartāḥ](saṃvartā) [bhāṃta](bhāṃta) [*](*) [*](*) [*](*) [*](*) [*](*) [*](*)
+[bhṛgu+śaṃkara+saṃvartāḥ](bhṛguśaṃkara) [śaṃkara+saṃvartāḥ](saṃvartā) [bhāṃtaḥ](bhāṃta) [*](*) [*](*) [*](*) [*](*) [*](*) [*](*)
 
 ## mukta-m0-p08-v189
-[ānanda+valli](ānaṃdavalli) [vidyāyāḥ](vidyāyāḥ) [ṣaṭ+aṅgam](ṣaḍaṃgaṃ) [kathayāmi](kathayāmi) [te](te)
+[ānanda+valli+vidyāyāḥ](ānaṃdavalli) [vidyāyāḥ](vidyāyāḥ) [ṣaḍ+aṅgam](ṣaḍaṃgaṃ) [kathayāmi](kathayāmi) [te](te)
 
 ## mukta-m0-p08-v190
 [tataḥ](tatas) [tu](tu) [navabhiḥ](navabhir) [netram](netraṃ) [dvābhyām](dvābhyām) [astram](astraṃ) [prakīrtitam](prakīrtitam)
@@ -53,7 +53,7 @@
 [karṇayoḥ](karṇayoś) [ca](ca) [bhruvoḥ](bhruvor) [madhye](madhye) [phāla+netre](phālanetre) [śiraḥ+taṭe](śirastaṭe)
 
 ## mukta-m0-p08-v193
-[dvādaśa+anta](dvādaśāṃta) [mahā+sthāne](mahāsthāne) [varṇa+nyāsam](varṇanyāsaṃ) [samācaret](samācaret)
+[dvādaśa+anta+mahā+sthāne](dvādaśāṃta) [mahā+sthāne](mahāsthāne) [varṇa+nyāsam](varṇanyāsaṃ) [samācaret](samācaret)
 
 ## mukta-m0-p08-v194
 [ājñā+cakre](ājñācakre) [anāhate](nāhate) [ca](ca) [tathā](tathā) [nābhi+pade](nābhi) [pade](pade) [api](api) [ca](ca)
@@ -62,16 +62,16 @@
 [nava+akṣarāṇām](navākṣarāṇāṃ) [kathitaḥ](kathito) [nyāsaḥ](nyāsa) [eva](eva) [mahā+īśvari](maheśvari)
 
 ## mukta-m0-p08-v196
-[yoni+mūle](yonimūle) [yoni+madhye](yonimadhye) [yoni+agre](yonyagre) [ca](ca) [api](api) [bhairavi](bhairavī)
+[yoni+mūle](yonimūle) [yoni+madhye](yonimadhye) [yoni+agre](yonyagre) [ca](ca) [api](api) [bhairavī](bhairavī)
 
 ## mukta-m0-p08-v197
 [ayam](aya) [nyāsaḥ](nyāso) [yāga+kāle](yāgakāle) [pravṛtte](pravṛtte) [parama+īśvari](parameśvari)
 
 ## mukta-m0-p08-v198
-[ānanda+nātha](ānaṃdanātha) [pūjāyām](pūjāyāṃ) [yogyatvam](yogyatvaṃ) [sādhakaḥ](sādhako) [aśnute](aśnute)
+[ānanda+nātha+pūjāyām](ānaṃdanātha) [pūjāyām](pūjāyāṃ) [yogyatvam](yogyatvaṃ) [sādhakaḥ](sādhako) [aśnute]('śnute)
 
 ## mukta-m0-p08-v199
 [na](na) [vīkṣitum](vīkṣituṃ) [śaknuvanti](śaknuvaṃtī) [bhaya+ārtāḥ](bhayārtā) [vighna+koṭayaḥ](vighnakoṭayaḥ)
 
 ## mukta-m0-p08-v200
-[ena](ena) [vijñāna+mātreṇa](vijñānamātreṇa) [para+ānanda+tanuḥ](parānaṃda) [tanuḥ](tanur) [bhavet](bhavet)
+[etena](ena) [vijñāna+mātreṇa](vijñānamātreṇa) [para+ānanda+tanuḥ](parānaṃda) [tanuḥ](tanur) [bhavet](bhavet)
