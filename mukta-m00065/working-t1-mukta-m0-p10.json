@@ -8,19 +8,23 @@
 "tokens": [
 {
 "surface": "prāvrājyānnaśyate",
-"quick_gloss": "by-renunciation-perishes"
+"quick_gloss": "renunciation-perishes"
 },
 {
 "surface": "pūrvaṃ",
 "quick_gloss": "first"
 },
 {
-"surface": "strīyogādaparaṃ",
-"quick_gloss": "by-woman-union"
+"surface": "strīyogāt",
+"quick_gloss": "from-woman-union"
+},
+{
+"surface": "aparaṃ",
+"quick_gloss": "afterwards"
 },
 {
 "surface": "tathā",
-"quick_gloss": "thus"
+"quick_gloss": "likewise"
 }
 ]
 },
@@ -32,8 +36,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "trikarṇotthāstrikarṇāśca",
+"surface": "trikarṇotthāḥ",
 "quick_gloss": "three-ear-born"
+},
+{
+"surface": "trikarṇāḥ",
+"quick_gloss": "three-eared"
+},
+{
+"surface": "ca",
+"quick_gloss": "ca"
 },
 {
 "surface": "trikapānātma",
@@ -53,12 +65,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "bhasmāṅkurastu",
+"surface": "bhasmāṅkuraḥ",
 "quick_gloss": "ash-sprout"
 },
 {
-"surface": "katthosthastatsutāḥ",
-"quick_gloss": "boaster-lip-son"
+"surface": "tu",
+"quick_gloss": "tu"
+},
+{
+"surface": "katthosthaḥ",
+"quick_gloss": "boaster-lipped"
+},
+{
+"surface": "tatsutāḥ",
+"quick_gloss": "his-sons"
 },
 {
 "surface": "kauśikādayaḥ",
@@ -74,11 +94,15 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "rāṣṭrakṣayakarā",
-"quick_gloss": "kingdom-destruction-makers"
+"surface": "rāṣṭrakṣayakarāḥ",
+"quick_gloss": "realm-destruction-doers"
 },
 {
-"surface": "hyete",
+"surface": "hi",
+"quick_gloss": "indeed"
+},
+{
+"surface": "ete",
 "quick_gloss": "these"
 },
 {
@@ -90,7 +114,7 @@
 "quick_gloss": "ca"
 },
 {
-"surface": "paṣāṇḍino",
+"surface": "paṣāṇḍinaḥ",
 "quick_gloss": "heretics"
 },
 {
@@ -107,12 +131,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "śāstrāvalokanādeva",
+"surface": "śāstrāvalokanāt",
 "quick_gloss": "by-scripture-viewing"
 },
 {
-"surface": "caṇḍeśastasya",
+"surface": "eva",
+"quick_gloss": "eva"
+},
+{
+"surface": "caṇḍeśaḥ",
 "quick_gloss": "caṇḍeśa"
+},
+{
+"surface": "tasya",
+"quick_gloss": "his"
 },
 {
 "surface": "śāsakaḥ",
@@ -129,19 +161,19 @@
 "tokens": [
 {
 "surface": "sa",
-"quick_gloss": "he-goes"
+"quick_gloss": "he"
 },
 {
 "surface": "yāti",
-"quick_gloss": "to-hell"
+"quick_gloss": "goes"
 },
 {
 "surface": "narakaṃ",
-"quick_gloss": "immediately"
+"quick_gloss": "to-hell"
 },
 {
-"surface": "sadyo",
-"quick_gloss": "sadyo"
+"surface": "sadyaḥ",
+"quick_gloss": "immediately"
 },
 {
 "surface": "yājñikaiḥ",
@@ -149,7 +181,7 @@
 },
 {
 "surface": "saha",
-"quick_gloss": "with"
+"quick_gloss": "saha"
 },
 {
 "surface": "daiśikaḥ",
@@ -165,16 +197,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "teṣāmācaraṇānnityam",
+"surface": "teṣāmācaraṇāt",
 "quick_gloss": "by-their-conduct"
 },
 {
-"surface": "ācārya",
+"surface": "nityam",
+"quick_gloss": "always"
+},
+{
+"surface": "ācāryaḥ",
 "quick_gloss": "ācārya"
 },
 {
 "surface": "iti",
-"quick_gloss": "thus"
+"quick_gloss": "iti"
 },
 {
 "surface": "kīrtyate",
@@ -190,8 +226,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "tasmānna",
+"surface": "tasmāt",
 "quick_gloss": "therefore"
+},
+{
+"surface": "na",
+"quick_gloss": "not"
 },
 {
 "surface": "mānavīṃ",
@@ -199,15 +239,19 @@
 },
 {
 "surface": "buddhiṃ",
-"quick_gloss": "mind"
+"quick_gloss": "intellect"
 },
 {
-"surface": "kārayeddaiśikaṃ",
-"quick_gloss": "should-not-make"
+"surface": "kārayet",
+"quick_gloss": "should-make"
+},
+{
+"surface": "daiśikaṃ",
+"quick_gloss": "towards-teacher"
 },
 {
 "surface": "prati",
-"quick_gloss": "toward-teacher"
+"quick_gloss": "prati"
 }
 ]
 },
@@ -252,11 +296,11 @@
 "quick_gloss": "ca"
 },
 {
-"surface": "sāhasramaṃśuma",
+"surface": "sāhasramaṃśu",
 "quick_gloss": "thousand-rayed"
 },
 {
-"surface": "tsuprabhaṃ",
+"surface": "suprabhaṃ",
 "quick_gloss": "very-bright"
 },
 {
@@ -282,7 +326,7 @@
 },
 {
 "surface": "niśvāsodgītasaṃjñakam",
-"quick_gloss": "exhalation-song-named"
+"quick_gloss": "breath-song-named"
 }
 ]
 },
@@ -295,7 +339,7 @@
 "tokens": [
 {
 "surface": "narasiṃhaṃ",
-"quick_gloss": "narasiṃha"
+"quick_gloss": "man-lion"
 },
 {
 "surface": "candrahāsaṃ",
@@ -306,8 +350,12 @@
 "quick_gloss": "hero"
 },
 {
-"surface": "svāyambhurauravam",
-"quick_gloss": "svāyambhu"
+"surface": "svāyambhu",
+"quick_gloss": "self-born"
+},
+{
+"surface": "ruravam",
+"quick_gloss": "ruru"
 }
 ]
 },
@@ -323,16 +371,16 @@
 "quick_gloss": "rudra-divisions"
 },
 {
-"surface": "samākhyātā",
-"quick_gloss": "declared"
+"surface": "samākhyātāḥ",
+"quick_gloss": "are-declared"
 },
 {
 "surface": "daśāṣṭādaśa",
-"quick_gloss": "eighteen"
+"quick_gloss": "ten-eighteen"
 },
 {
 "surface": "cordhvagāḥ",
-"quick_gloss": "upward-going"
+"quick_gloss": "or-upward"
 }
 ]
 },
@@ -403,19 +451,27 @@
 "tokens": [
 {
 "surface": "gāruḍasya",
-"quick_gloss": "of-gāruḍa"
+"quick_gloss": "of-garuḍa"
 },
 {
-"surface": "tvime",
+"surface": "tu",
+"quick_gloss": "tu"
+},
+{
+"surface": "ime",
 "quick_gloss": "these"
 },
 {
-"surface": "bhedā",
+"surface": "bhedāḥ",
 "quick_gloss": "divisions"
 },
 {
-"surface": "aṣṭāviṃśatirīritāḥ",
+"surface": "aṣṭāviṃśatiḥ",
 "quick_gloss": "twenty-eight"
+},
+{
+"surface": "īritāḥ",
+"quick_gloss": "are-said"
 }
 ]
 },
@@ -486,7 +542,7 @@
 "tokens": [
 {
 "surface": "triśiraṃ",
-"quick_gloss": "triśira"
+"quick_gloss": "three-headed"
 },
 {
 "surface": "ca",
@@ -494,7 +550,7 @@
 },
 {
 "surface": "ekapādaṃ",
-"quick_gloss": "one-foot"
+"quick_gloss": "one-footed"
 },
 {
 "surface": "tu",
@@ -535,16 +591,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "catuḥ",
+"surface": "catuḥṣaṣṭi",
 "quick_gloss": "sixty-four"
 },
 {
-"surface": "ṣaṣṭipramāṇāni",
+"surface": "pramāṇāni",
 "quick_gloss": "measure"
 },
 {
-"surface": "dakṣiṇāsyādbhavāni",
+"surface": "dakṣiṇāsyāt",
 "quick_gloss": "from-southern-face"
+},
+{
+"surface": "bhavāni",
+"quick_gloss": "bhavāni"
 },
 {
 "surface": "ca",
@@ -573,7 +633,7 @@
 },
 {
 "surface": "taduttaram",
-"quick_gloss": "thereafter"
+"quick_gloss": "that-after"
 }
 ]
 },
@@ -586,7 +646,7 @@
 "tokens": [
 {
 "surface": "siddhanityodayaṃ",
-"quick_gloss": "siddha-eternal-rise"
+"quick_gloss": "siddha-daily-rise"
 },
 {
 "surface": "jyeṣṭhaṃ",

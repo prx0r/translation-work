@@ -8,7 +8,7 @@
 "tokens": [
 {
 "surface": "viśrāmyaikāṃ",
-"quick_gloss": "rest-one"
+"quick_gloss": "rest"
 },
 {
 "surface": "tato",
@@ -20,11 +20,11 @@
 },
 {
 "surface": "gomayena",
-"quick_gloss": "with-cow-dung"
+"quick_gloss": "cow-dung"
 },
 {
 "surface": "vilepayet",
-"quick_gloss": "anoint"
+"quick_gloss": "smear"
 }
 ]
 },
@@ -37,7 +37,7 @@
 "tokens": [
 {
 "surface": "śaṇaphalyāṅghikāṣāyai",
-"quick_gloss": "with-hemp-seed-decoction"
+"quick_gloss": "hemp-seed-decoction"
 },
 {
 "surface": "vā",
@@ -45,7 +45,7 @@
 },
 {
 "surface": "stopalatārasena",
-"quick_gloss": "with-stone-resin-juice"
+"quick_gloss": "stopala-resin"
 }
 ]
 },
@@ -62,7 +62,7 @@
 },
 {
 "surface": "māṣatoyena",
-"quick_gloss": "with-bean-water"
+"quick_gloss": "mung-bean-water"
 },
 {
 "surface": "vā",
@@ -70,7 +70,7 @@
 },
 {
 "surface": "svinnabilvāmbunāpi",
-"quick_gloss": "with-steamed-bilva-water"
+"quick_gloss": "steamed-bilva-water"
 }
 ]
 },
@@ -82,12 +82,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "tataśca",
+"surface": "tataścolūkhalādyaistu",
 "quick_gloss": "then"
-},
-{
-"surface": "ulūkhalādyaistu",
-"quick_gloss": "with-mortar-etc"
 },
 {
 "surface": "sthūlacūrṇāni",
@@ -112,10 +108,6 @@
 },
 {
 "surface": "tu",
-"quick_gloss": "tu"
-},
-{
-"surface": "saṃsthāpya",
 "quick_gloss": "placing"
 },
 {
@@ -149,7 +141,7 @@
 },
 {
 "surface": "sarjatailātasīrajaḥ",
-"quick_gloss": "sal-resin-oil"
+"quick_gloss": "sarja-oil"
 }
 ]
 },
@@ -162,7 +154,7 @@
 "tokens": [
 {
 "surface": "āmrātakāmbubhiḥ",
-"quick_gloss": "with-mango-fruit-water"
+"quick_gloss": "amrataka-water"
 },
 {
 "surface": "piṣṭaṃ",
@@ -175,10 +167,6 @@
 {
 "surface": "dugdhi",
 "quick_gloss": "milk-named"
-},
-{
-"surface": "kāhvayā",
-"quick_gloss": "cow"
 }
 ]
 },
@@ -191,11 +179,11 @@
 "tokens": [
 {
 "surface": "kvāthena",
-"quick_gloss": "with-decoction"
+"quick_gloss": "decoction"
 },
 {
 "surface": "meṣaśṛṅgasya",
-"quick_gloss": "of-ram-horn"
+"quick_gloss": "ram-horn"
 },
 {
 "surface": "atasīcūrṇamiśritam",
@@ -215,16 +203,12 @@
 "quick_gloss": "vajra-plaster"
 },
 {
-"surface": "samakhyātaḥ",
-"quick_gloss": "well-known"
-},
-{
-"surface": "tathā",
-"quick_gloss": "thus"
+"surface": "samakhyātastathā",
+"quick_gloss": "declared"
 },
 {
 "surface": "sarjasamanvitaḥ",
-"quick_gloss": "with-sal-resin"
+"quick_gloss": "sarja-accompanied"
 }
 ]
 },
@@ -237,7 +221,7 @@
 "tokens": [
 {
 "surface": "madhūcchiṣṭena",
-"quick_gloss": "with-beeswax"
+"quick_gloss": "beeswax"
 },
 {
 "surface": "kalkaiśca",
@@ -249,7 +233,7 @@
 },
 {
 "surface": "sudṛḍhairnavaiḥ",
-"quick_gloss": "strong"
+"quick_gloss": "strong-new"
 }
 ]
 },
@@ -262,11 +246,11 @@
 "tokens": [
 {
 "surface": "atasītailasammiśraṃ",
-"quick_gloss": "with-flax-oil-mixed"
+"quick_gloss": "flax-oil-mixed"
 },
 {
 "surface": "mardayitvā",
-"quick_gloss": "rubbing"
+"quick_gloss": "rubbed"
 },
 {
 "surface": "supācitam",
@@ -283,7 +267,7 @@
 "tokens": [
 {
 "surface": "suraveśmagṛhādīnāṃ",
-"quick_gloss": "of-gods-house-etc"
+"quick_gloss": "gods-house-etc"
 },
 {
 "surface": "bhūmibandho",
@@ -291,7 +275,7 @@
 },
 {
 "surface": "nigadyate",
-"quick_gloss": "declared"
+"quick_gloss": "said"
 }
 ]
 },
@@ -308,15 +292,11 @@
 },
 {
 "surface": "kāryā",
-"quick_gloss": "be-made"
-},
-{
-"surface": "bhūmiḥ",
 "quick_gloss": "ground"
 },
 {
-"surface": "tu",
-"quick_gloss": "tu"
+"surface": "bhūmistu",
+"quick_gloss": "bhūmi"
 },
 {
 "surface": "sutalā",
@@ -324,7 +304,7 @@
 },
 {
 "surface": "samā",
-"quick_gloss": "even"
+"quick_gloss": "equal"
 }
 ]
 },
@@ -352,12 +332,8 @@
 "quick_gloss": "dried"
 },
 {
-"surface": "piṇḍam",
+"surface": "piṇḍamātape",
 "quick_gloss": "lump"
-},
-{
-"surface": "ātape",
-"quick_gloss": "in-sun"
 }
 ]
 },
@@ -374,7 +350,7 @@
 },
 {
 "surface": "maṇḍena",
-"quick_gloss": "with-gruel"
+"quick_gloss": "with-mandaka"
 },
 {
 "surface": "saṃmardya",
@@ -386,10 +362,6 @@
 },
 {
 "surface": "tu",
-"quick_gloss": "tu"
-},
-{
-"surface": "kārayet",
 "quick_gloss": "make"
 }
 ]
@@ -419,7 +391,7 @@
 },
 {
 "surface": "susthitaṃ",
-"quick_gloss": "well-set"
+"quick_gloss": "stable"
 },
 {
 "surface": "jalapūritam",
@@ -443,12 +415,8 @@
 "quick_gloss": "according-to-time"
 },
 {
-"surface": "yojayet",
+"surface": "yojayedbhāgasammitam",
 "quick_gloss": "apply"
-},
-{
-"surface": "bhāgasammitam",
-"quick_gloss": "proportionate"
 }
 ]
 },
@@ -461,23 +429,15 @@
 "tokens": [
 {
 "surface": "grīyme",
-"quick_gloss": "in-summer"
+"quick_gloss": "summer"
 },
 {
 "surface": "nu",
-"quick_gloss": "nu"
-},
-{
-"surface": "pañcabhāgāḥ",
 "quick_gloss": "five-parts"
 },
 {
-"surface": "syuḥ",
-"quick_gloss": "be"
-},
-{
 "surface": "śītakāle",
-"quick_gloss": "in-cold-season"
+"quick_gloss": "cold-season"
 },
 {
 "surface": "tathā",
@@ -502,14 +462,10 @@
 },
 {
 "surface": "dattvā",
-"quick_gloss": "giving"
+"quick_gloss": "having-given"
 },
 {
 "surface": "tu",
-"quick_gloss": "tu"
-},
-{
-"surface": "yaḥ",
 "quick_gloss": "who"
 },
 {
@@ -517,12 +473,8 @@
 "quick_gloss": "before"
 },
 {
-"surface": "bandho",
+"surface": "bandho'tra",
 "quick_gloss": "bond"
-},
-{
-"surface": "atra",
-"quick_gloss": "here"
 },
 {
 "surface": "kathitaḥ",
@@ -530,7 +482,7 @@
 },
 {
 "surface": "kṣiteḥ",
-"quick_gloss": "of-earth"
+"quick_gloss": "earth"
 }
 ]
 },
@@ -543,7 +495,7 @@
 "tokens": [
 {
 "surface": "toyena",
-"quick_gloss": "with-water"
+"quick_gloss": "water"
 },
 {
 "surface": "hatakūrcaṃ",
@@ -551,10 +503,6 @@
 },
 {
 "surface": "tu",
-"quick_gloss": "tu"
-},
-{
-"surface": "dāpayettadvicakṣaṇaḥ",
 "quick_gloss": "give"
 }
 ]
@@ -568,11 +516,11 @@
 "tokens": [
 {
 "surface": "śālmalītindukādīnāṃ",
-"quick_gloss": "of-śālmalī-tinduka-etc"
+"quick_gloss": "śālmalī-tinduka-etc"
 },
 {
 "surface": "bhūmibandhe",
-"quick_gloss": "in-ground-bond"
+"quick_gloss": "ground-bond"
 },
 {
 "surface": "praśasyate",
@@ -601,7 +549,7 @@
 },
 {
 "surface": "tatpure",
-"quick_gloss": "in-that-city"
+"quick_gloss": "that-city"
 }
 ]
 },
@@ -668,7 +616,7 @@
 },
 {
 "surface": "suragṛhe",
-"quick_gloss": "in-god-house"
+"quick_gloss": "gods-house"
 },
 {
 "surface": "vighnā",
@@ -680,14 +628,10 @@
 },
 {
 "surface": "tu",
-"quick_gloss": "tu"
-},
-{
-"surface": "na",
 "quick_gloss": "not"
 },
 {
-"surface": "pūjitāḥ",
+"surface": "na",
 "quick_gloss": "worshipped"
 }
 ]
