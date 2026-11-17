@@ -20,7 +20,7 @@
 },
 {
 "surface": "śaktipāṇayaḥ",
-"quick_gloss": "power-in-hand"
+"quick_gloss": "shakti-handed"
 }
 ]
 },
@@ -57,16 +57,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "āsamaṃtāt",
-"quick_gloss": "all-around"
-},
-{
-"surface": "saṃcariṣṇuḥ",
-"quick_gloss": "moving"
+"surface": "āsamaṃtātsaṃcariṣṇuḥ",
+"quick_gloss": "all-around-moving"
 },
 {
 "surface": "sutīvragaruḍasthitaḥ",
-"quick_gloss": "very-swift-garuḍa-seated"
+"quick_gloss": "very-swift-garuda-seated"
 }
 ]
 },
@@ -91,8 +87,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "nabhomadhyagatovāyuḥ",
-"quick_gloss": "mid-sky-moving"
+"surface": "nabhomadhyagataḥ",
+"quick_gloss": "sky-centered"
+},
+{
+"surface": "vāyuḥ",
+"quick_gloss": "wind"
 },
 {
 "surface": "vivahaḥ",
@@ -100,7 +100,7 @@
 },
 {
 "surface": "bhūtidostume",
-"quick_gloss": "prosperity-giving"
+"quick_gloss": "prosperity-armed"
 }
 ]
 },
@@ -126,11 +126,19 @@
 "tokens": [
 {
 "surface": "jagatīṃ",
-"quick_gloss": "earth"
+"quick_gloss": "world"
 },
 {
-"surface": "kṣobhayannityamudvahaḥ",
+"surface": "kṣobhayan",
 "quick_gloss": "shaking"
+},
+{
+"surface": "nityam",
+"quick_gloss": "always"
+},
+{
+"surface": "udvahaḥ",
+"quick_gloss": "udvaha"
 },
 {
 "surface": "sevyate",
@@ -164,7 +172,7 @@
 "tokens": [
 {
 "surface": "śītāṃbukaṇasaṃvāhaḥ",
-"quick_gloss": "cool-water-drop-flow"
+"quick_gloss": "cold-water-drop-flow"
 },
 {
 "surface": "saṃvahaḥ",
@@ -172,7 +180,7 @@
 },
 {
 "surface": "sukhadostume",
-"quick_gloss": "pleasant-giving"
+"quick_gloss": "pleasant-armed"
 }
 ]
 },
@@ -235,16 +243,24 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "nityam",
-"quick_gloss": "always"
+"surface": "marutāṃ",
+"quick_gloss": "of-winds"
 },
 {
 "surface": "pravahaṃ",
 "quick_gloss": "pravaha"
 },
 {
-"surface": "āśrayenuvahābhidham",
-"quick_gloss": "resort"
+"surface": "nityam",
+"quick_gloss": "always"
+},
+{
+"surface": "āśraye",
+"quick_gloss": "refuge"
+},
+{
+"surface": "nuvahābhidham",
+"quick_gloss": "uvaha-named"
 }
 ]
 },
@@ -278,7 +294,7 @@
 },
 {
 "surface": "marudvyavahasaṃjñakaḥ",
-"quick_gloss": "wind-called-vyavaha"
+"quick_gloss": "wind-vyavaha-named"
 }
 ]
 },
@@ -291,7 +307,7 @@
 "tokens": [
 {
 "surface": "aruṇavarṇaḥ",
-"quick_gloss": "reddish-colored"
+"quick_gloss": "ruddy-colored"
 }
 ]
 },
@@ -307,8 +323,8 @@
 "quick_gloss": "nivaha"
 },
 {
-"surface": "nuvahaḥ",
-"quick_gloss": "nuvaha"
+"surface": "uvahaḥ",
+"quick_gloss": "uvaha"
 },
 {
 "surface": "ca",
@@ -356,12 +372,20 @@
 "quick_gloss": "of-winds"
 },
 {
-"surface": "uktassaptānāmānu",
+"surface": "uktas",
 "quick_gloss": "spoken"
 },
 {
-"surface": "pūrvyaśaḥ",
+"surface": "saptānām",
+"quick_gloss": "seven"
+},
+{
+"surface": "ānu",
 "quick_gloss": "in-order"
+},
+{
+"surface": "pūrvyaśaḥ",
+"quick_gloss": "successively"
 }
 ]
 },
@@ -579,15 +603,15 @@
 "tokens": [
 {
 "surface": "kirīṭahārakeyūra",
-"quick_gloss": "crown-garland-armlet"
+"quick_gloss": "crown-garland-armlet-bracelet-etc"
 },
 {
 "surface": "kaṭakādi",
-"quick_gloss": "bracelet-etc"
+"quick_gloss": "kaṭakādi"
 },
 {
 "surface": "vibhūṣitāḥ",
-"quick_gloss": "adorned"
+"quick_gloss": "ornamented"
 }
 ]
 },
@@ -640,11 +664,11 @@
 "quick_gloss": "tu"
 },
 {
-"surface": "śarāsanadharā",
+"surface": "śarāsanadharāḥ",
 "quick_gloss": "bow-holding"
 },
 {
-"surface": "ssitāḥ",
+"surface": "sitāḥ",
 "quick_gloss": "white"
 }
 ]
@@ -669,8 +693,8 @@
 "quick_gloss": "ceti"
 },
 {
-"surface": "viśvedevā",
-"quick_gloss": "viśvedevā"
+"surface": "viśvedevāḥ",
+"quick_gloss": "viśvedevāḥ"
 },
 {
 "surface": "daśasmṛtāḥ",
@@ -699,8 +723,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "dakṣekṣamālikāṃvāme",
+"surface": "dakṣe",
 "quick_gloss": "dakṣa"
+},
+{
+"surface": "kṣamālikāṃ",
+"quick_gloss": "akṣa-mālikā"
+},
+{
+"surface": "vāme",
+"quick_gloss": "left"
 },
 {
 "surface": "pātraṃ",

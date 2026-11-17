@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p22-v526
-[door's](dvārasya) [left-side](vāmapārśve) [indeed](tu) [Kālā](kālāṃ) [and](ca) [Yamunā](yamunāṃ) [worship](yajet)
+[of-door](dvārasya) [left-side](vāmapārśve) [indeed](tu) [Kala](kālāṃ) [and](ca) [Yamuna](yamunāṃ) [worship](yajet)
 
 ## mukta-m0-p22-v527
-[right-side](dakṣiṇe) [Bhṛṅgarāja](bhṛṅgarājaṃ) [and](ca) [seven-mothers-group](saptamātṛgaṇaiḥ) [with](yutam)
+[right](dakṣiṇe) [Bhringaraja](bhṛṅgarājaṃ) [and](ca) [seven-mothers-group-with](saptamātṛgaṇairyutam)
 
 ## mukta-m0-p22-v528
-[south-west](nair-ṛtyāṃ) [Vināyaka](vināyakaṃ) [indeed](ca) [eva](eva) [west](vāruṇyāṃ) [Ṣaṇmukha](saṇmukhaṃ) [thus](tathā)
+[southwest](nair-ṛtyāṃ) [Vinayaka](vināyakaṃ) [and-indeed](caiva) [west](vāruṇyāṃ) [Sanmukha](saṇmukhaṃ) [thus](tahā)
 
 ## mukta-m0-p22-v529
-[north-east](aiśānyāṃ) [sun](bhānum) [thus](evaṃ) [syāt](syād) [Bhūtanātha-lord](bhūtanātheśam) [foremost](agrake)
+[northeast](aiśyānyāṃ) [sun](bhānum) [thus](evaṃ) [be](syād) [Bhutanathesha](bhūtanātheśam) [in-front](agrake)
 
 ## mukta-m0-p22-v530
-[gateway](gopuraṃ) [with-music-sound-conch-blast](vādyaniśśabdaśaṅkhaghoṣasamanvitam)
+[gate](gopuraṃ) [with-music-sound-conch-blowing](vādyaniśśabdaśaṅkhaghoṣasamanvitam)
 
 ## mukta-m0-p22-v531
-[Indra](indraṃ) [and](ca) [eva](eva) [thus](tathā) [Agni](agniṃ) [ca](ca) [Yama](yamaś) [ca](ca) [Niṛti](ni-ṛtiḥ) [thus](tathā)
+[Indra](indraṃ) [and-indeed](caiva) [thus](tathā) [Agni](agniṃ) [and](ca) [Yama](yamaś) [and](ca) [Nirrti](ni-ṛtiḥ) [thus](tathā)
 
 ## mukta-m0-p22-v532
-[Niṛti](ni-ṛtiṃ) [south](dakṣiṇe) [Viṣṇu](viṣṇuṃ) [Brahmā](brahmāṇaṃ) [tv](tu) [īśa-left](īśavāmake)
+[Nirrti](ni-ṛtiṃ) [right](dakṣiṇe) [Vishnu](viṣṇuṃ) [Brahma](brahmāṇaṃ) [and-Isha-left](tvīśavāmake)
 
 ## mukta-m0-p22-v533
-[field-lord's](kṣetreśasya) [ba](ba) [nakam](nakam)
+[field-lord's](kṣetreśasya) [ba](ba) [unknown](*) [unknown](*) [unknown](*) [unknown](*) [unknown](*) [unknown](*) [unknown](*) [nakam](nakam)
 
 ## mukta-m0-p22-v534
-[Ananteśa](ananteśaḥ) [thus](tathā) [subtle](sūkṣmaḥ) [Śiva-spoken](śivoktaḥ) [ca](ca) [one-eyed](ekanetrakaḥ)
+[Anantesh](ananteśaḥ) [thus](tathā) [subtle](sūkṣmaḥ) [Shiva-spoken](śivoktaḥ) [and](ca) [one-eyed](ekanetrakaḥ)
 
 ## mukta-m0-p22-v535
 [third-enclosure](tṛtīyāvaraṇaṃ) [declared](proktaṃ) [fourth](caturthaṃ) [enclosure](varaṇaṃ) [hear](śṛṇu)
 
 ## mukta-m0-p22-v536
-[Īśāna](īśānaṃ) [ca](ca) [Mahādeva](mahādevo) [Bhīma](bhīmaś) [ca](ca) [iti](iti) [eighth](aṣṭamaḥ) [thus](tathā)
+[Ishana](īśānaṃ) [and](ca) [Mahadeva](mahādevo) [Bhima-and-thus-eighth](bhīmaścetyaṣṭamastathā)
 
 ## mukta-m0-p22-v537
-[vajra](vajraṃ) [śakti](śaktiṃ) [ca](ca) [daṇḍa](daṇḍaṃ) [ca](ca) [sword](khaḍgaṃ) [noose-goad](pāśāṅkuśaṃ) [thus](tathā)
+[thunderbolt](vajraṃ) [spear](śaktiṃ) [and](ca) [staff](daṇḍaṃ) [and](ca) [sword](khaḍgaṃ) [noose-goad](pāśāṅkuśaṃ) [thus](tathā)
 
 ## mukta-m0-p22-v538
-[thus](evam) [enclosure](āvaraṇaṃ) [ca](ca) [eva](eva) [great-seat](mahāpīṭhaṃ) [separate](pṛthak) [separate](pṛthak)
+[thus-enclosure](evamāvaraṇaṃ) [and-indeed](caiva) [great-seat](mahāpīṭhaṃ) [separate](pṛthak) [separate](pṛthak)
 
 ## mukta-m0-p22-v539
-[separate-place](pṛthagdeśe) [offering](baliṃ) [having-given](dattvā) [ca](ca) [eva](eva) [enclosure](māvaraṇaṃ) [three](trayam)
+[separate-place](pṛthagdeśe) [offering](baliṃ) [having-given](dattvā) [and-indeed](caiva) [enclosure](māvaraṇaṃ) [three](trayam)
 
 ## mukta-m0-p22-v540
-[second](dvitīye) [ca](ca) [great-seat](mahāpīṭhe) [offering](baliṃ) [having-given](datvā) [eight-forms](aṣṭamūrtaye)
+[second](dvitīye) [and](ca) [great-seat](mahāpīṭhe) [offering](baliṃ) [having-given-to-eight-forms](datvāṣṭamūrtaye)
 
 ## mukta-m0-p22-v541
-[image-enclosure](pratimāvaraṇaṃ) [seat](pīṭhaṃ) [great-seat](mahāpīṭhaṃ)
+[image-enclosure](pratimāvaraṇaṃ) [seat](pīṭhaṃ) [great-seat](mahāpīṭhaṃ) [unknown](*) [unknown](*) [unknown](*) [unknown](*)
 
 ## mukta-m0-p22-v542
-[second-enclosure](dvitīyāvaraṇaṃ) [deficient](nyūnaṃ) [first](prathame) [bhūta-seat](bhūtapīṭhake)
+[second-enclosure](dvitīyāvaraṇaṃ) [deficient](nyūnaṃ) [first](prathame) [spirit-seat](bhūtapīṭhake)
 
 ## mukta-m0-p22-v543
-[offering-deity](balidevam) [iti](iti) [declared](proktaṃ) [offering-material](balidravyam) [atha](atha) [hear](śṛṇu)
+[offering-deity-thus](balidevamiti) [declared](proktaṃ) [offering-material](balidravyam) [now](atha) [hear](śṛṇu)
 
 ## mukta-m0-p22-v544
-[nourishing](pauṣṭikaṃ) [ca](ca) [annaliṅga](annaliṅgaṃ) [ca](ca) [peaceful](śāntikaṃ) [ca](ca) [arghya](arghyameva) [ca](ca)
+[nourishing](pauṣṭikaṃ) [and](ca) [food-linga](annaliṅgaṃ) [and](ca) [pacifying](śāntikaṃ) [and](ca) [arghya-indeed](arghyameva) [and](ca)
 
 ## mukta-m0-p22-v545
-[or](athavā) [initiator](deśikaṃ) [ca](ca) [eva](eva) [offering](balidānaṃ)
+[or](athavā) [teacher](deśikaṃ) [and-indeed](caiva) [offering-giving](balidānaṃ) [unknown](*) [unknown](*) [unknown](*) [unknown](*)
 
 ## mukta-m0-p22-v546
-[sandal](gandhaṃ) [six](ṣaṭ) [twelfth-part](dvādaśāṃśaṃ) [tu](tu) [flower](puṣpaṃ) [leaf](patraṃ) [ca](ca) [droṇaka](droṇakam)
+[fragrance](gandhaṃ) [six](ṣaṭ) [twelfth-part](dvādaśāṃśaṃ) [indeed](tu) [flower](puṣpaṃ) [leaf](patraṃ) [and](ca) [droṇaka](droṇakam)
 
 ## mukta-m0-p22-v547
-[morning](prātar) [midday](madhyāhna) [evening](sāyāhne) [three-sandhyā](trisandhyāṃ) [offering](balim) [perform](ācaret)
+[morning-noon-evening](prātarmadhyāhnasāyāhne) [three-junctures](trisandhyāṃ) [offering-perform](balimācaret)
 
 ## mukta-m0-p22-v548
-[bathing](snānaṃ) [tu](tu) [rite](vidhinā) [having-done](kṛtvā) [tripuṇḍra](tripuṇḍrī) [white-garment](śuklavastrakaḥ)
+[bathing](snānaṃ) [indeed](tu) [by-rite](vidhinā) [having-done](kṛtvā) [tripundra](tripuṇḍrī) [white-garment](śuklavastrakaḥ)
 
 ## mukta-m0-p22-v549
-[arghya-vessel](arghyapātraka) [with-sacred-thread-hand](sapavitrakaro) [guru](guruḥ)
+[arghya-vessel](arghyapātraka) [unknown](*) [unknown](*) [unknown](*) [with-sacred-thread-hand](sapavitrakaro) [guru](guruḥ)
 
 ## mukta-m0-p22-v550
-[vehicle](yāne) [vā](vā) [stage](raṅgake) [vā](vā) [api](api) [Candraśekhara-form](candraśekharamūrtinam)
+[in-vehicle](yāne) [or](vā) [in-stage](raṅgake) [or-indeed](vā'pi) [Chandrashekhara-form](candraśekharamūrtinam)
