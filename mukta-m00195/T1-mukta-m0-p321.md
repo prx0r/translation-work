@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p321-v8001
-[glorious-mātaṅgī](śrī+mātaṅgi) [thus-lady](tathā+īśvari) [hail](śrī) [goddess](devī)
+[śrī-mātaṅgī](śrīmātaṅgi) [tathā-īśvarī](tatheśvari)
 
 ## mukta-m0-p321-v8002
-[sage](muni) [of-him](asya) [spoken](ukta) [anuṣṭup-meter](anuṣṭup+cchandaḥ) [and](ca) [deity](devatā)
+[muni](muni) [asya](asya) [ukta](ukta) [anuṣṭup-chandaḥ](anuṣṭupcchandaḥ) [ca](ca) [devatā](devatā)
 
 ## mukta-m0-p321-v8003
-[six-eight-armed](ṣaḍ+aṣṭa+bāhubhiḥ) [thus](ca) [meditate](dhyāyet) [dark](śyāmām) [beautiful-eyed](su+locanām)
+[ṣaḍ-aṣṭa-bāhubhiḥ](ṣaḍaṣṭabāhubhiś) [ca](ca) [iti](iti) [dhyāyet](dhyāyec) [śyāmām](śyāmāṃ) [su-locanām](sulocanām)
 
 ## mukta-m0-p321-v8004
-[playing](vādayantīm) [that](tām) [mātaṅgī](mātaṅgīm) [in-heart](hṛdi) [contemplate](bhāvayet)
+[vādayantīm](vādayantīṃ) [tām](tāṃ) [mātaṅgīm](mātaṅgīṃ) [hṛdi](hṛdi) [bhāvayet](bhāvayet)
 
 ## mukta-m0-p321-v8005
-[worship](yajet) [on-seat](pīṭhe) [as-described](vakṣyamāṇa) [rite](vidhānataḥ)
+[yajet](yajet) [pīṭhe](pīṭhe) [vakṣyamāṇa](vakṣyamāṇa) [vidhānataḥ](vidhānataḥ)
 
 ## mukta-m0-p321-v8006
-[worship](yajet) [in-that](tasmin) [seat-powers](pīṭha+śaktīḥ) [nine-offerings](nava+iṣṭa+dāḥ)
+[yajet](yajettasmin) [tasmin](tasmin) [pīṭha-śaktīḥ](pīṭhaśaktīrnaveṣṭadāḥ) [nava-iṣṭa-dāḥ](naveṣṭadāḥ)
 
 ## mukta-m0-p321-v8007
-[tāra-māyā-agra-first](tāra+māyā+vāgra+mādyaḥ) [seat-mantra](pīṭha+mantraḥ) [kalārṇa](kalārṇakaḥ)
+[tāra-māyā-vāgra-m-ādyaḥ](tāramāyāvāgramādyaḥ) [pīṭha-mantraḥ](pīṭhamantraḥ) [kalā-arṇakaḥ](kalārṇakaḥ)
 
 ## mukta-m0-p321-v8008
-[after-seat-worship](pīṭha+pūjā+ante) [do](kuryāt) [enclosure-worship](āvaraṇa+arcanam)
+[pīṭha-pūjā-ante](pīṭhapūjānte) [kuryāt](kuryād) [āvaraṇa-arcanaṃ](āvaraṇārcanam)
 
 ## mukta-m0-p321-v8009
-[six-limbs](ṣaḍ+aṃgāni) [mothers](mātṝḥ) [ca](ca) [in-petal-middle](dala+madhya+gāḥ)
+[ṣaḍ-aṅgāni](ṣaḍaṃgāni) [mātṝḥ](mātṝśca) [ca](ca) [dala-madhya-gāḥ](dalamadhyagāḥ)
 
 ## mukta-m0-p321-v8010
-[left-named](vāma+ākhyā) [eldest](jyeṣṭhā) [fierce](raudrī) [peaceful](praśāntikā)
+[vāmā-ākhyā](vāmākhyā) [jyeṣṭhā](jyeṣṭhā) [raudrī](raudrī) [praśāntikā](praśāntikā)
 
 ## mukta-m0-p321-v8011
-[creation-deluder](sṛṣṭi+mohinī) [au](au) [first-conductress](prathamā+cāriṇī) [thus](tathā)
+[sṛṣṭi-mohinyau](sṛṣṭimohinyau) [prathamā-ācāriṇī](prathamācāriṇī) [tathā](tathā)
 
 ## mukta-m0-p321-v8012
-[ṣoḍaśī](ṣoḍaśī) [tu](tu) [to-be-worshipped](pūjanīyāḥ) [carefully](prayatnataḥ)
+[ṣoḍaśī](ṣoḍaśī) [tu](tu) [pūjanīyāḥ](pūjanīyāḥ) [prayatnataḥ](prayatnataḥ)
 
 ## mukta-m0-p321-v8013
-[mahālakṣmī](mahālakṣmīḥ) [again](punar) [fire-etc-corner](vahni+ādikoṇataḥ)
+[mahā-lakṣmīḥ](mahālakṣmīḥ) [punar](punar) [vahni-ādikoṇataḥ](vahnyādikoṇataḥ)
 
 ## mukta-m0-p321-v8014
-[all-enclosure-powers](sarva+āvaraṇa+śaktīnām) [ṅ-ending](ṅa+antaṃ) [name](nāma) [heart-ending](hṛdaṃtakam)
+[sarva-āvaraṇa-śaktīnām](sarvāvaraṇaśaktīnāṃ) [ṅ-entaṃ](ṅentaṃ) [nāma](nāma) [hṛdaṃtakam](hṛdaṃtakam)
 
 ## mukta-m0-p321-v8015
-[to-be-worshipped](pūjanīyāḥ) [would-be](syuḥ) [thus](itthaṃ) [success](siddhiḥ) [of-mantra](manoḥ) [becomes](bhavet)
+[pūjanīyāḥ](pūjanīyāssyuritthaṃ) [syuḥ](syuḥ) [itthaṃ](itthaṃ) [siddhiḥ](siddhir) [manoḥ](manorbhavet) [bhavet](bhavet)
 
 ## mukta-m0-p321-v8016
-[with-fruits](phalaiḥ) [or](vā) [subjugation](vaśyā) [becomes](syāt) [people](janatā) [brahmavṛkṣa-born](brahma+vṛkṣa+jaiḥ)
+[phalaiḥ](phalairvā) [vā](vā) [vaśyā](vaśyā) [syāt](syāj) [janatā](janatā) [brahma-vṛkṣa-jaiḥ](brahmavṛkṣajaiḥ)
 
 ## mukta-m0-p321-v8017
-[with-salt](lavaṇaiḥ) [know](vidyāt) [tagara](tagaraiḥ) [vetasa](vetasaiḥ) [water](jalam)
+[lavaṇaiḥ](lavaṇairvidyāttagarairvetasairjalam) [vidyāt](vidyāt) [tagaraiḥ](tagaraiḥ) [vetasaiḥ](vetasaiḥ) [jalam](jalam)
 
 ## mukta-m0-p321-v8018
-[night-powder-mixed](niśā+cūrṇa+yutaiḥ) [kāśa](kāśaiḥ) [homāt](homāt) [stambhana](stambhanaṃ) [of-enemies](dviṣām)
+[niśā-cūrṇa-yutaiḥ](niśācūrṇayutaiḥ) [kāśaiḥ](kāśairhomātsyātstambhanaṃ) [homāt](homāt) [syāt](syāt) [stambhanaṃ](stambhanaṃ) [dviṣām](dviṣām)
 
 ## mukta-m0-p321-v8019
-[eight-scents](gandha+aṣṭakam) [declared](udīritam)
+[gandha-aṣṭakam](gandhāṣṭakam) [udīritam](udīritam)
 
 ## mukta-m0-p321-v8020
-[this](etat) [pounded](piṣṭvā) [ten-thousand](ayutaṃ) [japtvā](japtvā) [with-tilaka](tilakena) [world-beloved](jagat+priyaḥ)
+[etat](etatpiṣṭvāyutaṃ) [piṣṭvā](piṣṭvā) [yutaṃ](yutaṃ) [japtvā](japtvā) [tilakena](tilakena) [jagat-priyaḥ](jagatpriyaḥ)
 
 ## mukta-m0-p321-v8021
-[mātaṅgī](mātaṅgī) [worshipped](pūjitā) [desire-giving](kāma+dā) [of-men](nṛṇām)
+[mātaṅgī](mātaṅgī) [pūjitā](pūjitā) [kāma-dā](kāmadā) [nṛṇām](nṛṇām)
 
 ## mukta-m0-p321-v8022
-[offer](hūyāt) [one-hundred-eight](aṣṭottara+śataṃ) [khadira-fire](khādira+agnau) [man](naraḥ) [at-night](niśi)
+[hūyāt](hūyādaṣṭottaraśataṃ) [aṣṭottara-śataṃ](aṣṭottaraśataṃ) [khādira-agnau](khādirāgnau) [naraḥ](naro) [niśi](niśi)
 
 ## mukta-m0-p321-v8023
-[black-being-night](kṛṣṇa+bhūta+niśi) [crow-belly](dhvāṃkṣa+udare) [thrown](kṣiptvā) [auspicious-radiance](śubha+prabhām)
+[kṛṣṇa-bhūta-niśi](kṛṣṇabhūtaniśi) [dhvāṃkṣa-udare](dhvāṃkṣodare) [kṣiptvā](kṣiptvā) [śubha-prabhām](śubhaprabhām)
 
 ## mukta-m0-p321-v8024
-[that-fire](tad+vahniṃ) [to-whom](yasmai) [give](dadyāt) [he](sa) [like-servant](dāsa+vat)
+[tat-vahniṃ](tadvahniṃ) [yasmai](yasmai) [dadyāt](dadyātsa) [sa](sa) [dāsa-vat](dāsavat)
 
 ## mukta-m0-p321-v8025
-[sage-goddess-etc-served](muni+devyādi+sevyānām) [in-kāśī](kāśyāṃ) [number](saṅkhyā) [not](na) [exists](vidyate)
+[muni-devy-ādi-sevyānām](munidevyādisevyānāṃ) [kāśyāṃ](kāśyāṃ) [saṅkhyā](saṅkhyā) [na](na) [vidyate](vidyate)

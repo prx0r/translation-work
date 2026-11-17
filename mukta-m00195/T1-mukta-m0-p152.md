@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p152-v3776
-[varṇa-āśrama-jñāna-tapaḥ-dharmāṇām](varṇāśramajñānatapodharmāṇāṃ) [ca](ca) [prakāśakaḥ](prakāśakaḥ)
+[varṇa+āśrama+jñāna+tapaḥ+dharma](varṇāśramajñānatapodharmāṇāṃ) [and](ca) [revealer](prakāśakaḥ)
 
 ## mukta-m0-p152-v3777
-[kaulika-ācāryaḥ](kaulikācāryastvanyaḥ) [tu](tu) [anyaḥ](anyaḥ) [kula-viḍambakaḥ](kulaviḍambakaḥ)
+[kaulika-teacher](kaulikācāryaḥ) [but](tu) [another](anyaḥ) [clan-imitator](kulaviḍambakaḥ)
 
 ## mukta-m0-p152-v3778
-[samyak-vijānāti](samyagvijānāti) [saḥ](sa) [guruḥ](guruścoddharetparam) [ca](ca) [uddharet](uddharetparam) [param](param)
+[properly-knows](samyagvijānāti) [he](saḥ) [guru](guruḥ) [ca](ca) [uplifts-supreme](uddharetparam)
 
 ## mukta-m0-p152-v3779
-[yaḥ](yovijānāti) [vijānāti](vijānāti) [saḥ](sa) [guruḥ](guruḥ) [kathitaḥ](kathitaḥ) [priye](priye)
+[who-knows](yovijānāti) [he](saḥ) [guru](guruḥ) [declared](kathitaḥ) [dear-one](priye)
 
 ## mukta-m0-p152-v3780
-[vara-ārohe](varārohe) [saḥ](sa) [guruḥ](guruḥ) [parikīrtitaḥ](parikīrtitaḥ)
+[best-lovely-one](varārohe) [he](saḥ) [guru](guruḥ) [proclaimed](parikīrtitaḥ)
 
 ## mukta-m0-p152-v3781
-[śīlam](śīlaṃ) [tathā](tathā) [śaktiḥ](śaktiraṣṭau) [aṣṭau](aṣṭau) [pāśāḥ](pāśāḥ) [prakīrtitāḥ](prakīrtitāḥ)
+[conduct](śīlaṃ) [thus](tathā) [power](śaktiḥ) [eight](aṣṭau) [bonds](pāśāḥ) [declared](prakīrtitāḥ)
 
 ## mukta-m0-p152-v3782
-[tasmāt](tasmātpāśaharo) [pāśa-haraḥ](pāśaharo) [yaḥ](yotra) [atra](atra) [saḥ](sa) [guruḥ](gururnānya) [na](na) [anyaḥ](anya) [ucyate](ucyate)
+[therefore](tasmāt) [bond-remover](pāśaharaḥ) [who](yaḥ) [atra](atra) [he](saḥ) [guru](guruḥ) [not-other](nānyaḥ) [called](ucyate)
 
 ## mukta-m0-p152-v3783
-[jīva-cāla-phalam](jīvacālaphalaṃ) [vetti](vetti) [saḥ](sa) [guruḥ](gururnāparaḥ) [na](na) [aparaḥ](aparaḥ) [priye](priye)
+[living-conduct-fruit](jīvacālaphalaṃ) [knows](vetti) [he](saḥ) [guru](guruḥ) [not-another](nāparaḥ) [dear-one](priye)
 
 ## mukta-m0-p152-v3784
-[vrata-upavāsa-niyamaiḥ](vratopavāsaniyamairbhiyo) [bhīḥ](bhīyo) [hantā](hantā) [guruḥ](gururmataḥ) [mataḥ](mataḥ)
+[vow-fasting-rules](vratopavāsaniyamaiḥ) [fear](bhiyaḥ) [slayer](hantā) [guru](guruḥ) [opinion](mataḥ)
 
 ## mukta-m0-p152-v3785
-[ādi-rahitaṃ](ādirahitaṃ) [saḥ](sa) [guruḥ](gururdurlabhaḥ) [durlabhaḥ](durlabhaḥ) [kalau](kalau)
+[beginningless](ādirahitaṃ) [he](saḥ) [guru](guruḥ) [rare](durlabhaḥ) [in-kali](kalau)
 
 ## mukta-m0-p152-v3786
-[vṛṇuyāt](vṛṇuyānnāparaṃ) [na](na) [aparam](aparam) [matimān](matimānnaraḥ) [naraḥ](naraḥ)
+[choose](vṛṇuyāt) [not-another](nāparaṃ) [wise](matimān) [man](naraḥ)
 
 ## mukta-m0-p152-v3787
-[bhakṣitā](bhakṣitā) [yena](yena) [saḥ](sa) [guruḥ](gururdurlabhaḥ) [durlabhaḥ](durlabhaḥ) [kṣitau](kṣitau)
+[eaten](bhakṣitā) [by-whom](yena) [he](saḥ) [guru](guruḥ) [rare](durlabhaḥ) [on-earth](kṣitau)
 
 ## mukta-m0-p152-v3788
-[jñāna-lubdhaḥ](jñānalubdhastathā) [tathā](tathā) [śiṣyaḥ](śiṣyo) [guroḥ](gurorgurvantaraṃ) [guru-antaram](gurvantaraṃ) [vrajet](vrajet)
+[knowledge-greedy](jñānalubdhaḥ) [thus](tathā) [disciple](śiṣyaḥ) [guru-to-another-guru](gurorgurvantaraṃ) [goes](vrajet)
 
 ## mukta-m0-p152-v3789
-[pratīkṣya](pratīkṣyaiva) [eva](eva) [paścāt](paścācchiṣye) [śiṣye](śiṣye) [samarpayet](samarpayet)
+[waiting](pratīkṣya) [then](eva) [afterwards](paścāt) [to-disciple](śiṣye) [offer](samarpayet)
 
 ## mukta-m0-p152-v3790
-[sampradāyaḥ](sampradāyosti) [asti](asti) [tāvat](tāvatsyādyoginīpadam) [syāt](syāt) [yoginī-padam](yoginīpadam)
+[tradition](sampradāyaḥ) [is](asti) [so-long](tāvat) [syāt](syāt) [yoginī-place](yoginīpadam)
 
 ## mukta-m0-p152-v3791
-[dadat](dadadgṛhṇanprāpnuyātāṃ) [gṛhṇan](gṛhṇan) [prāpnuyātām](prāpnuyātāṃ) [piśāca-tām](piśācatām)
+[giving-taking](dadadgṛhṇan) [obtain](prāpnuyātām) [demonhood](piśācatām)
 
 ## mukta-m0-p152-v3792
-[tat-mantraḥ](tanmantraḥ) [saikate](saikate) [śāli-bījavat](śālibījavat)
+[that-mantra](tanmantraḥ) [sand](saikate) [rice-seed-like](śālibījavat)
 
 ## mukta-m0-p152-v3793
-[devatā-śāpam](devatāśāpamāpnoti) [āpnoti](āpnoti) [kṛtam](kṛtaṃ) [ca](ca) [viphalaṃ](viphalaṃ) [bhavet](bhavet)
+[deity-curse](devatāśāpam) [obtains](āpnoti) [done](kṛtaṃ) [and](ca) [fruitless](viphalaṃ) [becomes](bhavet)
 
 ## mukta-m0-p152-v3794
-[darśayet](darśayetsamyagdīkṣaiṣā) [samyak](samyag) [dīkṣā](dīkṣaiṣā) [eṣā](eṣā) [kaulikī](kaulikī) [matā](matā)
+[show](darśayet) [properly](samyak) [initiation](dīkṣā) [this](eṣā) [kaulika](kaulikī) [opinion](matā)
 
 ## mukta-m0-p152-v3795
-[abhiṣiñcet](abhiṣiñcetpriyaṃ) [priyaṃ](priyaṃ) [śiṣyaṃ](śiṣyaṃ) [gaṇḍūṣa-ākhyā](gaṇḍuṣākhyeyamīritā) [īritā](īritā)
+[initiate](abhiṣiñcet) [dear](priyaṃ) [disciple](śiṣyaṃ) [mouthful-named](gaṇḍuṣākhyeyam) [declared](īritā)
 
 ## mukta-m0-p152-v3796
-[su-sampūrṇa-śaṅkhena](susampūrṇaśaṅkhena) [kalaśena](kalaśena) [vā](vā)
+[well-filled-conch](susampūrṇaśaṅkhena) [or](vā) [pot](kalaśena)
 
 ## mukta-m0-p152-v3797
-[pūrṇa-abhiṣekaḥ](pūrṇābhiṣekotra) [atra](atra) [kula-mārge](kulamārge) [prakīrtitaḥ](prakīrtitaḥ)
+[full-initiation](pūrṇābhiṣekaḥ) [here](atra) [clan-path](kulamārge) [proclaimed](prakīrtitaḥ)
 
 ## mukta-m0-p152-v3798
-[piśāca-tvam](piśācatvaṃ) [yāvat](yāvadābhūtasamplavam) [ābhūta-samplavam](ābhūtasamplavam)
+[demonhood](piśācatvaṃ) [until](yāvat) [cosmic-dissolution](ābhūtasamplavam)
 
 ## mukta-m0-p152-v3799
-[dīkṣā](dīkṣeyaṃ) [iyam](iyam) [vidhinā](vidhinā) [guruṇā](guruṇā) [kṛtā](kṛtā)
+[initiation](dīkṣā) [this](iyaṃ) [by-rite](vidhinā) [by-guru](guruṇā) [done](kṛtā)
 
 ## mukta-m0-p152-v3800
-[dīkṣā-viddhaḥ](dīkṣāviddhastathā) [tathā](tathā) [hi](hi) [ātmā](ātmā) [śiva-tvam](śivatvaṃ) [labhate](labhate) [drutam](drutam)
+[initiated-thus](dīkṣāviddhaḥ) [then](tathā) [indeed](hi) [self](ātmā) [śiva-state](śivatvaṃ) [obtains](labhate) [quickly](drutam)

@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p278-v6926
-[madamanthara+gāminyaḥ](madamantharagāminyaḥ) [subhūṣāḥ](subhūṣāścārubhūṣaṇāḥ) [cāru+bhūṣaṇāḥ](subhūṣāścārubhūṣaṇāḥ)
+[slow-moving](madamantharagāminyaḥ) [well-adorned](subhūṣāḥ) [beautiful-ornaments](cārubhūṣaṇāḥ)
 
 ## mukta-m0-p278-v6927
-[ṅehṛdantān](ṅehṛdantāṃścānaṃgādīnpūjayetkramāt) [cānaṃgādīn](ṅehṛdantāṃścānaṃgādīnpūjayetkramāt) [pūjayet](ṅehṛdantāṃścānaṃgādīnpūjayetkramāt) [kramāt](ṅehṛdantāṃścānaṃgādīnpūjayetkramāt)
+[heart-teeth](ṅehṛdantāṃś) [and-love-gods](cānaṃgādīn) [worship](pūjayet) [in-order](kramāt)
 
 ## mukta-m0-p278-v6928
-[pañcapuṣpa](pañcapuṣpeṣupāśāhvanāṃkuśekṣudhanurbhṛtaḥ) [iṣu](pañcapuṣpeṣupāśāhvanāṃkuśekṣudhanurbhṛtaḥ) [pāśa](pañcapuṣpeṣupāśāhvanāṃkuśekṣudhanurbhṛtaḥ) [aṅkuśa](pañcapuṣpeṣupāśāhvanāṃkuśekṣudhanurbhṛtaḥ) [iṣu](pañcapuṣpeṣupāśāhvanāṃkuśekṣudhanurbhṛtaḥ) [dhanurbhṛtaḥ](pañcapuṣpeṣupāśāhvanāṃkuśekṣudhanurbhṛtaḥ)
+[five-flowers-arrow-noose-hook-bow-bearing](pañcapuṣpeṣupāśāhvanāṃkuśekṣudhanurbhṛtaḥ)
 
 ## mukta-m0-p278-v6929
-[bhūṣāyuktāḥ](bhūṣāyuktāḥ) [smaret](smaredvaktrakamalāḥ) [vaktra-kamalāḥ](smaredvaktrakamalāḥ) [sādhu](sādhupūjayet) [pūjayet](sādhupūjayet)
+[adorned](bhūṣāyuktāḥ) [remember](smaret) [face-lotuses](vaktrakamalāḥ) [well](sādhu) [worship](pūjayet)
 
 ## mukta-m0-p278-v6930
-[ṣaṇḍānta-svara-hīnaṃ](ṣaṇḍāntasvarahīnañca) [ca](ṣaṇḍāntasvarahīnañca) [kakāraṃ](kakāraṃ) [bindu-bhūṣitam](bindubhūṣitat)
+[eunuch-final-sound-less](ṣaṇḍāntasvarahīnaṃ) [and](ca) [ka-letter](kakāraṃ) [dot-adorned](bindubhūṣitaṃ)
 
 ## mukta-m0-p278-v6931
-[pūjā-mantraḥ](pūjāmantraḥ) [syāt](syātsarvāsāṃ) [sarvāsām](syātsarvāsāṃ) [cāpyanukramāt](cāpyanukramāt)
+[worship-mantra](pūjāmantraḥ) [is](syāt) [of-all](sarvāsāṃ) [and-in-order](cāpyanukramāt)
 
 ## mukta-m0-p278-v6932
-[durbhatiḥ](durbhatirnidhṛtirvidhṛtistuṣṭiścāpi) [nidhṛtiḥ](durbhatirnidhṛtirvidhṛtistuṣṭiścāpi) [vidhṛtiḥ](durbhatirnidhṛtirvidhṛtistuṣṭiścāpi) [tuṣṭiḥ](durbhatirnidhṛtirvidhṛtistuṣṭiścāpi) [ca](durbhatirnidhṛtirvidhṛtistuṣṭiścāpi) [api](durbhatirnidhṛtirvidhṛtistuṣṭiścāpi) [vituṣṭikā](durbhatirnidhṛtirvidhṛtistuṣṭiścāpi)
+[durbhati](durbhatiḥ) [nidhṛti](nidhṛtiḥ) [vidhṛti](vidhṛtiḥ) [tuṣṭi](tuṣṭiḥ) [and](ca) [api](api) [vituṣṭikā](vituṣṭikā)
 
 ## mukta-m0-p278-v6933
-[bāhye](bāhye) [tat-astrāṇi](tadastrāṇi) [tataḥ](tato) [bahiḥ](bahiḥ)
+[outside](bāhye) [those-weapons](tadastrāṇi) [then](tato) [outside](bahiḥ)
 
 ## mukta-m0-p278-v6934
-[tarpaṇa-ādyaṃ](tarpaṇādyaṃ) [ca](ca) [kṛtvā](kṛtvā) [saṃtoṣya](saṃtoṣya) [deśikam](deśikam)
+[libation-etc](tarpaṇādyaṃ) [and](ca) [having-done](kṛtvā) [pleasing](saṃtoṣya) [teacher](deśikam)
 
 ## mukta-m0-p278-v6935
-[pūrva-mantra-uditān](pūrvamantroditānsamyakpūrvoktavidhinā) [samyak](pūrvamantroditānsamyakpūrvoktavidhinā) [pūrva-ukta-vidhinā](pūrvamantroditānsamyakpūrvoktavidhinā) [sudhīḥ](sudhīḥ)
+[previously-mantra-spoken](pūrvamantroditān) [properly](samyak) [previous-described-rite](pūrvoktavidhinā) [wise-one](sudhīḥ)
 
 ## mukta-m0-p278-v6936
-[pramadā-janaiḥ](pramadājanaiḥ)
+[by-women](pramadājanaiḥ)
 
 ## mukta-m0-p278-v6937
-[atha](athātosyāḥ) [ato](athātosyāḥ) [asyāḥ](athātosyāḥ) [pravakṣyāmi](pravakṣyāmi) [dvādaśārṇaṃ](dvādaśārṇaṃ) [mahā-manum](mahāmanum)
+[now](atha) [then](ato) [of-her](asyāḥ) [I-will-declare](pravakṣyāmi) [twelve-syllable](dvādaśārṇaṃ) [great-mantra](mahāmanum)
 
 ## mukta-m0-p278-v6938
-[manuḥ](manuḥ) [prokto](prokto) [muniḥ](muniḥ) [sammohano](sammohano) [mataḥ](mataḥ)
+[mantra](manuḥ) [declared](proktaḥ) [sage](muniḥ) [deluding](sammohano) [considered](mataḥ)
 
 ## mukta-m0-p278-v6939
-[ṣaḍaṃgāni](ṣaḍaṃgāni) [kṛtvā](kṛtvā) [devīṃ](devīṃ) [vicintayet](vicintayet)
+[six-limbs](ṣaḍaṃgāni) [having-done](kṛtvā) [goddess](devīṃ) [meditate](vicintayet)
 
 ## mukta-m0-p278-v6940
-[sṛṇiṃ](sṛṇiṃ) [pāśaṃ](pāśaṃ) [kapālaṃ](kapālaṃ) [bibhratīṃ](bibhratīṃ) [karaiḥ](karaiḥ)
+[goad](sṛṇiṃ) [noose](pāśaṃ) [skull](kapālaṃ) [bearing](bibhratīṃ) [with-hands](karaiḥ)
 
 ## mukta-m0-p278-v6941
-[yajet](yajeddevīṃ) [devīṃ](yajeddevīṃ) [proktāṃgāni](proktāṃgāni) [purā](purā) [yajet](yajet)
+[worship-goddess](yajeddevīṃ) [declared-limbs](proktāṃgāni) [first](purā) [worship](yajet)
 
 ## mukta-m0-p278-v6942
-[nīla-kamala-kapāla-āḍhya-kara-ambujā](nīlakamalakapālāḍhyakarāmbujā)
+[blue-lotus-skull-rich-hand-lotus](nīlakamalakapālāḍhyakarāmbujā)
 
 ## mukta-m0-p278-v6943
-[mahākālīṃ](mahākālīṃ) [samasta-jana-mohinīm](samastajanamohinīm)
+[great-Kali](mahākālīṃ) [all-people-deluding](samastajanamohinīm)
 
 ## mukta-m0-p278-v6944
-[vāma-mārgeṇa](vāmamārgeṇa) [hi](hyasyāḥ) [asyāḥ](hyasyāḥ) [siddhiḥ](siddhiḥ) [prajāyate](prajāyate)
+[left-path](vāmamārgeṇa) [indeed](hi) [of-her](asyāḥ) [success](siddhiḥ) [arises](prajāyate)
 
 ## mukta-m0-p278-v6945
-[svāhā](svāhā) [śakra-varṇo](śakravarṇo) [mantraḥ](mantraḥ) [kālyāḥ](kālyā) [udīritaḥ](udīritaḥ)
+[svaha](svāhā) [Indra-colored](śakravarṇo) [mantra](mantraḥ) [of-Kali](kālyāḥ) [uttered](udīritaḥ)
 
 ## mukta-m0-p278-v6946
-[yatheṣṭa-bhakṣya-pānābhyāṃ](yatheṣṭabhakṣyapānābhyāṃ) [maithunena](maithunena) [prasīdati](prasīdati)
+[as-desired-food-drink](yatheṣṭabhakṣyapānābhyāṃ) [by-intercourse](maithunena) [is-pleased](prasīdati)
 
 ## mukta-m0-p278-v6947
-[brāhmyādibhiḥ](brāhmyādibhiḥ) [śaktibhiḥ](śaktibhiśca) [ca](śaktibhiśca) [yuktā](yuktā) [bhaktyā](bhaktyā) [prapūjayet](prapūjayet)
+[Brahmi-etc](brāhmyādibhiḥ) [powers](śaktibhiḥ) [and](ca) [endowed](yuktā) [with-devotion](bhaktyā) [worship](prapūjayet)
 
 ## mukta-m0-p278-v6948
-[śakti-śūla-dhanur-bāṇa-kheṭaka-khaḍga-vara-abhayān](śaktiśūladhanurbāṇakheṭakhaḍgavarābhayān)
+[power-trident-bow-arrow-shield-sword-boon-fearlessness](śaktiśūladhanurbāṇakheṭakhaḍgavarābhayān)
 
 ## mukta-m0-p278-v6949
-[dhyātvā](dhyātvaivaṃ) [evaṃ](dhyātvaivaṃ) [siddhakaḥ](siddhakaḥ) [sādhyaṃ](sādhyaṃ) [sādhayet](sādhayenmanasi) [manasi](sādhayenmanasi) [sthitam](sthitam)
+[having-meditated](dhyātvā) [thus](evaṃ) [accomplished-one](siddhakaḥ) [goal](sādhyaṃ) [accomplish](sādhayet) [in-mind](manasi) [situated](sthitam)
 
 ## mukta-m0-p278-v6950
-[tathā](tathendrāṇī) [indrāṇī](tathendrāṇī) [ca](cāmuṇḍā) [amuṇḍā](cāmuṇḍā) [caṇḍikā](caṇḍikāṣṭamī) [aṣṭamī](caṇḍikāṣṭamī) || 772 ||
+[thus](tathā) [Indrani](indrāṇī) [and](ca) [Camunda](cāmuṇḍā) [Chandika-eighth](caṇḍikāṣṭamī) [772](772)
