@@ -2,52 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p44-v1076
-[silver-vessel-by](raupyapātreṇa) [having-given](dattvā) [indeed](vai) [Viṣṇu-sacrifice-fruit](viṣṇuyāgaphalaṃ) [obtains](labhet)
+[silver](raupya)[+vessel](pātreṇa) [having-given](dattvā) [indeed](vai) [viṣṇu](viṣṇu)[+worship](yāga)[+fruit](phalaṃ) [one-should-obtain](labhet)
+
 ## mukta-m0-p44-v1077
-[having-given](dattvā) [golden-vessel-by](sauvarṇapātreṇa) [obtains](labhet) [much](bahuḥ) [gold](suvarṇakam)
+[having-given](dattvā) [golden](sauvarṇa)[+vessel](pātreṇa) [one-should-obtain](labhet)[+much](bahuḥ) [gold](suvarṇakam)
+
 ## mukta-m0-p44-v1078
-[five-shrine-worship-in](pañcāyatanapūjāyāṃ) [ten](daśa) [vessels](pātrāṇi) [indeed](vai) [should-throw](kṣipet)
+[five](pañca)[+shrine](āyatana)[+worship](pūjāyāṃ) [ten](daśa) [vessels](pātrāṇi) [indeed](vai) [one-should-place](kṣipet)
+
 ## mukta-m0-p44-v1079
-[offering-vessels](balipātrāṇi) [five](pañca) [are](syuḥ) [blood's-one-vessel](rudhirasyaikapātrakam)
+[offering](bali)[+vessels](pātrāṇi) [five](pañca) [should-be](syuḥ) [of-blood](rudhirasya)[+one](eka)[+vessel](pātrakam)
+
 ## mukta-m0-p44-v1080
-[one](ekaṃ) [cooked](pakvasya) [meat's](māṃsasya)
+[one](ekaṃ) [of-cooked](pakvasya) [of-meat](māṃsasya)
+
 ## mukta-m0-p44-v1081
-[to-be-placed](sthāpanīyāni) [with-effort](yatnena) [if-desires](yadīcchet) [perfection](siddhim) [of-self](ātmanaḥ)
+[to-be-placed](sthāpanīyāni) [with-effort](yatnena) [if](yadi)[+one-desires](icchet) [accomplishment](siddhim)[+of-oneself](ātmanaḥ)
+
 ## mukta-m0-p44-v1082
-[of-yoginīs](yoginīnāṃ) [proper-worship-in](samarcāyāṃ) [fifty](pañcāśan) [couple-worship-in](mithunārcane)
+[of-yoginīs](yoginīnāṃ) [in-worship](samarcāyāṃ) [fifty](pañcāśat)[+couple](mithuna)[+worship](arcane)
+
 ## mukta-m0-p44-v1083
-[guru-circle-worship-in](gurumaṇḍalapūjāyāṃ) [of-day-lords](dineśānāṃ) [and-so](tathaiva) [and](ca)
+[guru](guru)[+maṇḍala](maṇḍala)[+worship](pūjāyāṃ) [of-lords-of-day](dineśānāṃ) [likewise](tathaiva) [and](ca)
+
 ## mukta-m0-p44-v1084
-[syllable-herb-worship-in](akṣarauṣadhipūjāyāṃ) [rosary-proper-worship-in](japamālāprapūjane)
+[syllable](akṣara)[+herb](auṣadhi)[+worship](pūjāyāṃ) [rosary](japa)[+mālā](mālā)[+worship](prapūjane)
+
 ## mukta-m0-p44-v1085
-[water-offering-etc-five-vessels](arghyādipañcapātrāṇi) [to-be-prepared](sampādyāni) [separately](pṛthak) [separately](pṛthak)
+[arghya](arghya)[+etc.](ādi)[+five](pañca)[+vessels](pātrāṇi) [to-be-prepared](sampādyāni) [separately](pṛthak) [separately](pṛthak)
+
 ## mukta-m0-p44-v1086
-[cooked-rice-pot-pair](carusthālīdvayaṃ) [and-indeed](caiva) [consecrated](praṇītā) [sprinkler](prokṣaṇī) [so](tathā)
+[cooked-rice](caru)[+pot](sthālī)[+pair](dvayaṃ) [and](ca)[+indeed](eva) [praṇītā-vessel](praṇītā) [sprinkling-vessel](prokṣaṇī) [likewise](tathā)
+
 ## mukta-m0-p44-v1087
-[principal](mukhyāni) [these](etāni) [vessels](pātrāṇi)
+[principal](mukhyāni)[+these](etāni) [vessels](pātrāṇi)
+
 ## mukta-m0-p44-v1088
-[round](vṛttena) [wrapped](veṣṭitaṃ) [outside](bāhye) [square](caturasreṇa) [and-indeed](caiva) [indeed](hi)
+[with-circle](vṛttena) [surrounded](veṣṭitaṃ) [outside](bāhye) [with-square](caturasreṇa) [and](ca)[+indeed](eva) [indeed](hi)
+
 ## mukta-m0-p44-v1089
-[scent-anointed](gandhalipte) [own-left-front](svavāmāgre) [should-place](vidadhyāt) [fish-seal](matsyamudrayā)
+[with-fragrance](gandha)[+smeared](lipte) [on-own](sva)[+left](vāma)[+front](agre) [one-should-place](vidadhyāt)[+with-fish](matsya)[+gesture](mudrayā)
+
 ## mukta-m0-p44-v1090
-[limbs](aṅgāni) [of-square](caturasrasya) [in-corners](koṇeṣu) [in-front](purataḥ) [so](tathā)
+[limbs](aṅgāni) [of-square](caturasrasya) [in-corners](koṇeṣu) [in-front](purataḥ)[+likewise](tathā)
+
 ## mukta-m0-p44-v1091
-[root](mūlena) [washed](kṣālitaṃ) [conch-support](śaṅkhādhāraṃ) [I-establish](saṃsthāpayāmi)
+[with-root-mantra](mūlena) [washed](kṣālitaṃ) [conch](śaṅkha)[+support](ādhāraṃ) [I-establish](saṃsthāpayāmi)
+
 ## mukta-m0-p44-v1092
-[fire-end](vahnyante) [circle-thus](maṇḍalāyeti) [so](tathā) [dharma-giving-thus](dharmapradeti) [and](ca)
+[vahnyante-maṇḍalāya](vahnyante) [maṇḍalāya](maṇḍalāya)[+iti](iti) [and](tathā) [dharmapradā](dharma)[+pradā](pradā)[+iti](iti) [and](ca)
+
 ## mukta-m0-p44-v1093
-[of-fire-ten](vahnerdaśa) [parts-there](kalāstatra) [clockwise](prādakṣiṇyena) [should-worship](pūjayet)
+[of-fire](vahneḥ)[+ten](daśa) [digits](kalāḥ)[+there](tatra) [clockwise](prādakṣiṇyena) [one-should-worship](pūjayet)
+
 ## mukta-m0-p44-v1094
-[therefore](tasmād) [properly-support](vidhivadādhāraṃ) [should-arrange](kalpayet) [clan-goddess-to](kulanāyike)
+[therefore](tasmād) [according-to-rule](vidhi)[+vat](vat)[+support](ādhāraṃ) [one-should-arrange](kalpayet) [O-lady-of-kula](kula)[+nāyike](nāyike)
+
 ## mukta-m0-p44-v1095
-[or](athavā) [round-shaped](vartulākāraṃ) [should-make](kuryāt) [goddess](devi) [charming](manoharam)
+[or](athavā) [circular](vartula)[+shaped](ākāraṃ) [one-should-make](kuryād) [O-goddess](devi) [charming](manoharam)
+
 ## mukta-m0-p44-v1096
-[Suśrī](suśrīḥ) [own-form](svarūpā) [Kapilā](kapilā) [oblation-offering](havyakavyavahe) [so](tathā)
+[suśrīḥ](suśrīḥ) [svarūpā](svarūpā) [kapilā](kapilā) [havyakavyavahe](havyakavyavahe) [likewise](tathā)
+
 ## mukta-m0-p44-v1097
-[conch-measure](śaṅkhamānaṃ) [but](tu) [span](prādeśaṃ) [four-fingers](caturaṃgulam) [raised](ucchritam)
+[conch](śaṅkha)[+measure](mānaṃ) [indeed](tu) [a-span](prādeśaṃ) [four](catur)[+finger](aṅgulam)[+high](ucchritam)
+
 ## mukta-m0-p44-v1098
-[I-purpose-giving-thus](ahamarthapradāyeti) [should-say](vadeta) [twelve-thus](dvādaśetyapi)
+[ahamarthapradāya](ahamartha)[+pradāya](pradāya)[+iti](iti) [one-should-say](vadeta) [twelve](dvādaśa)[+iti](iti)[+also](api)
+
 ## mukta-m0-p44-v1099
-[by-this](anena) [conch-having-worshipped](śaṅkhamabhyarcya) [parts](kalāḥ) [of-sun](sūryasya) [should-worship](pūjayet)
+[with-this](anena) [conch](śaṅkham)[+having-worshipped](abhyarcya) [digits](kalāḥ) [of-sun](sūryasya) [one-should-worship](pūjayet)
+
 ## mukta-m0-p44-v1100
-[Suṣumnā](suṣumnā) [enjoyment-giving](bhogadā) [universal](viśvā) [awakening](bodhinī) [supporting](dhāriṇī) [forbearing](kṣamā)
+[suṣumnā](suṣumnā) [bhogadā](bhogadā) [viśvā](viśvā) [bodhinī](bodhinī) [dhāriṇī](dhāriṇī) [kṣamā](kṣamā)
