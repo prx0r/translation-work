@@ -8,10 +8,10 @@
 [sadyaḥ+prabhṛti+jau](sadyaḥprabhṛtijau) [dvau](dvau) [dvau](dvau) [tadvat](tadvat) [kuḍya+abja+saṃyutāḥ](kuḍyabjasaṃyutāḥ)
 
 ## mukta-m0-p34-v828
-[vṛṣa+sthāḥ](vṛṣasthā) [vara+dāḥ](varadāḥ) [kuṇḍī+śūla+paṅkaja+pāṇayaḥ](kuṇḍīśūlapaṅkajapāṇayaḥ)
+[vṛṣa+sthāḥ](vṛṣasthāḥ) [vara+dāḥ](varadāḥ) [kuṇḍī+śūla+paṅkaja+pāṇayaḥ](kuṇḍīśūlapaṅkajapāṇayaḥ)
 
 ## mukta-m0-p34-v829
-[śaṅkha+cakra+bhṛtam](śaṅkhacakrabhṛtam) [vāme](vāme) [śeṣe](śeṣe) [śānti+gadā+bhṛtam](śāntigadābhṛtam)
+[śaṅkha+cakra+bhṛtam](śaṅkhacakrabhṛtaṃ) [vāme](vāme) [śeṣe](śeṣe) [śānti+gadā+bhṛtam](śāntigadābhṛtam)
 
 ## mukta-m0-p34-v830
 [śrīvatsa+kaustubha+uras+kam](śrīvatsakaustubhoraskaṃ) [pīna+aṅgam](pīnāṅgaṃ) [pṛthu+vakṣasam](pṛthuvakṣasam)
@@ -26,19 +26,19 @@
 [vāme](vāme) [abhaya+pradam](abhayapradaṃ) [śeṣe](śeṣe) [śaṅkha+hastam](śaṅkhahastaṃ) [dvi+bāhukam](dvibhāhukam)
 
 ## mukta-m0-p34-v834
-[kruddhaḥ](kruddha) [udyata+hastaḥ](udyatahastaḥ) [ca](ca) [prāsāda+sthaḥ](prāsādasthaḥ) [sadā](sadā) [mataḥ](mataḥ)
+[kruddhaḥ](kruddhaḥ) [udyata+hastaḥ](udyatahastaḥ) [ca](ca) [prāsāda+sthaḥ](prāsādasthaḥ) [sadā](sadā) [mataḥ](mataḥ)
 
 ## mukta-m0-p34-v835
 [sandaṣṭa+oṣṭha+puṭaḥ](sandaṣṭauṣṭhapuṭaḥ) [kruddhaḥ](kruddho) [viṣṇuḥ](viṣṇuḥ) [aṣṭa+bhujaḥ](aṣṭabhujo) [mataḥ](mataḥ)
 
 ## mukta-m0-p34-v836
-[cakram](cakraṃ) [ca](ca) [cāpam](cāpaṃ) [ca](ca) [kheṭam](khetaṃ) [ca](ca) [śaṅkham](śaṅkhaṃ) [vāma+kare](vāmakare) [tathā](tathā)
+[cakram](cakraṃ) [ca](ca) [cāpam](cāpaṃ) [ca](ca) [kheṭam](kheṭaṃ) [ca](ca) [śaṅkham](śaṅkhaṃ) [vāma+kare](vāmakare) [tathā](tathā)
 
 ## mukta-m0-p34-v837
 [eka+āsyaḥ](ekāsyaḥ) [catur+āsyaḥ](caturāsyaḥ) [ca](ca) [tri+mukhaḥ](trimukho) [vā](vā) [mayā](maye) [mate](mate)
 
 ## mukta-m0-p34-v838
-[tat+tri+aṃśa+vistaram](tattryaṃśavistaraṃ) [ca](ca) [eva](eva) [pucchaḥ](pucchaḥ) [adham](adhaṃ) [sapta+bhāgaśaḥ](saptabhāgaśaḥ)
+[tat+tri+aṃśa+vistaram](tattryaṃśavistaraṃ) [ca](ca) [eva](eva) [pucchaḥ](puccho) [adham](adhaṃ) [sapta+bhāgaśaḥ](saptabhāgaśaḥ)
 
 ## mukta-m0-p34-v839
 [hastau](hastau) [kroḍa+samīpa+sthau](kroḍasamīpasthau) [pādau](pādau) [jaṭhara+pārśvataḥ](jaṭharapārśvataḥ)
