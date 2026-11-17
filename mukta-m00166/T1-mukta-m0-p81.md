@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p81-v2001
-[water-standing](jalasthā)
+[water](jala)+[abiding](sthā)
 
 ## mukta-m0-p81-v2002
-[always](sadā) [nearness](sannidheḥ) [some](ko) [feeling-power](bhāvānubhāvaḥ)
+[always](sadā)+[of-nearness](sannidheḥ) [some](ko)+[indeed]('pi) [feeling](bhāva)+[experience](anubhāvaḥ)
 
 ## mukta-m0-p81-v2003
-[water-deity](jaladevatā)
+[water](jala)+[deity](devatā)
 
 ## mukta-m0-p81-v2004
-[lotus](kamalaṃ) [that-water-deity-favor](tajjaladevatāprasādaḥ)
+[lotus](kamalaṃ) [that](tat)+[water](jala)+[deity](devatā)+[grace](prasādaḥ)
 
 ## mukta-m0-p81-v2005
-[kurukshetra-land](kurukṣetrāvaniḥ)
+[Kurukshetra](kurukṣetra)+[land](avaniḥ)
 
 ## mukta-m0-p81-v2006
-[of-kauravas](kauravāṇāṃ) [kurukshetra-land](kurukṣetrāvanirmāmavatād) [from-fear](bhayāt)
+[of-the-Kauravas](kauravāṇāṃ) [Kurukshetra](kurukṣetra)+[land](avaniḥ)+[me](mām)+[may-protect](avatād) [from-fear](bhayāt)
 
 ## mukta-m0-p81-v2007
-[kashi](kāśī)
+[Kashi](kāśī)
 
 ## mukta-m0-p81-v2008
-[that](sā) [kashi](kāśī) [shines](parikāśate) [my](mama) [heart-space](hṛdākāśe) [always](sadā) [unbroken](nirbhidā)
+[that](sā) [Kashi](kāśī) [shines-forth](parikāśate) [my](mama) [heart](hṛdā)+[in-sky](kāśe) [always](sadā) [without-division](nirbhidā)
 
 ## mukta-m0-p81-v2009
-[mathura](mathurā)
+[Mathura](mathurā)
 
 ## mukta-m0-p81-v2010
-[steady](sthiraṃ) [rasa-glory](rasaśrīrmathurāsti) [some](kāpi)
+[firm](sthiraṃ) [essence](rasa)+[splendor](śrīḥ)+[Mathura](mathurā)+[is](asti) [some](kāpi)
 
 ## mukta-m0-p81-v2011
-[kanchi](kāñcī)
+[Kanchi](kāñcī)
 
 ## mukta-m0-p81-v2012
-[in-which](yasyāṃ) [golden](kāñcana) [golden-mountain-region](kāñcanādriviṣayāṃ) [kanchi](kāñcī) [give](dadātu) [splendor](śriyam)
+[in-which](yasyāṃ) [golden](kāñcana) [golden-mountain](kāñcanādri)+[pertaining-to](viṣayāṃ) [Kanchi](kāñcī) [may-give](dadātu) [prosperity](śriyam)
 
 ## mukta-m0-p81-v2013
-[avantika](avantikā)
+[p.-244](p.) [244)](244)) [Avanti](avantikā)
 
 ## mukta-m0-p81-v2014
-[which](kā) [eastern-sun-middle-region](pūrbhāskarayānamadhyaviṣayā) [shines](saṃrājate) [avantika](avantikā)
+[which](kā) [city](pūr)+[sun](bhāskara)+[path](yāna)+[in-the-midst](madhyaviṣayā) [shines-forth](saṃrājate)+[Avanti]('vantikā)
 
 ## mukta-m0-p81-v2015
-[ayodhya](ayodhyā)
+[Ayodhya](ayodhyā)
 
 ## mukta-m0-p81-v2016
-[ayodhya](ryodhyā) [people](janāḥ) [is](sāsti) [some](kāpyayodhyā)
+[Ayodhya](ryodhyā) [people](janāḥ) [that](sā)+[is](asti) [and](ca) [some](kāpi)+[Ayodhya](ayodhyā)
 
 ## mukta-m0-p81-v2017
-[dvaraka](dvārakā)
+[Dvaraka](dvārakā)
 
 ## mukta-m0-p81-v2018
-[which](yā) [seen](dṛṣṭā) [or](vāpi) [hidden](gupteva) [becomes](bhavati) [mind](manasaḥ) [pulsation](spandanād) [dvaraka](dvārakā) [that](sā)
+[which](yā) [seen](dṛṣṭā) [or](vāpi) [hidden](gupteva) [becomes](bhavati) [of-the-mind](manasaḥ) [from-vibration](spandanād) [Dvaraka](dvārakā) [that](sā)
 
 ## mukta-m0-p81-v2019
-[maya](māyā)
+[Maya](māyā)
 
 ## mukta-m0-p81-v2020
-[leaving](hitvā) [become](bhavanti) [true-knowers](sadbodhā) [vishnu-maya-lords](viṣṇumāyeśvarāḥ) [themselves](svayam)
+[having-abandoned](hitvā) [they-become](bhavanti) [true](sad)+[knowledge](bodhā) [Vishnu](viṣṇu)+[Maya](māyā)+[lords](īśvarāḥ) [themselves](svayam)
 
 ## mukta-m0-p81-v2021
-[tirtha](tīrthā)
+[holy-places](tīrthā)
 
 ## mukta-m0-p81-v2022
-[tirtha-of](ttīrthyānāṃ) [that](sā) [by-whom](kena) [tirtha](tīrthā) [not](na) [tirtha-of](tīrthyā)
+[of-the-pilgrims](ttīrthyānāṃ) [that](sā) [by-whom](kena) [holy-place](tīrthā) [not](na) [to-be-pilgrimed](tīrthyā)
 
 ## mukta-m0-p81-v2023
-[tirthakara-dear](tīrthakarapriyā)
+[Tirthankara](tīrthakara)+[beloved](priyā)
 
 ## mukta-m0-p81-v2024
-[if-not](na) [beneficial](ceddhitā) [tirthakara-dear](tīrthakarapriyā) [would-be](syāt)
+[not](na) [if](cet)+[beneficial](hitā) [Tirthankara](tīrthakara)+[beloved](priyā) [may-be](syāt)
 
 ## mukta-m0-p81-v2025
-[tripushkara](tripuṣkarā)
+[Tripushkara](tripuṣkarā)
