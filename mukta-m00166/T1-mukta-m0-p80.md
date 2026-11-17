@@ -14,13 +14,13 @@
 [pūrṇa-candra-mukhī](pūrṇacandramukhī)
 
 ## mukta-m0-p80-v1980
-[yadā-asya-induḥ](yadāsyaminduḥ) [kimu](kimu) [pūrṇa-candra-mukhī](pūrṇacandramukhī) [puro](puro) [harṣa-karī](harṣakarī) [sadāstu](sadāstu)
+[yadā-asya-induḥ](yadāsyaminduḥ) [kimu](kimu) [pūrṇa-candra-mukhī](pūrṇacandramukhī) [puras](puro) [harṣa-karī](harṣakarī) [sadā-astu](sadāstu)
 
 ## mukta-m0-p80-v1981
 [śyāmā](śyāmā)
 
 ## mukta-m0-p80-v1982
-[śyāmā](śyāmeha) [netra-andhya](netrāndhyamananyagatvāt)
+[śyāmā-iha](śyāmeha) [netra-andhya](netrāndhyam) [ananya-gatvāt](ananyagatvāt)
 
 ## mukta-m0-p80-v1983
 [smita-āsyā](smitāsyā)
@@ -32,25 +32,25 @@
 [śyāma-kuṇḍalā](śyāmakuṇḍalā)
 
 ## mukta-m0-p80-v1986
-[sa-bhṛṅga-dvaya-bhūmy-abjam](sabhṛṅgadvayabhūmyabjam) [iva](iva) [sā](sā) [śyāma-kuṇḍalā](śyāmakuṇḍalā)
+[sabhṛṅga-dvaya-bhūmy-abja-iva](sabhṛṅgadvayabhūmyabjamiva) [sā](sā) [śyāma-kuṇḍalā](śyāmakuṇḍalā)
 
 ## mukta-m0-p80-v1987
 [maṣī](maṣī)
 
 ## mukta-m0-p80-v1988
-[tadā-api](stadāpi) [tvadīyā](tvadīyā) [guṇāḥ](guṇāḥ) [pāra-hīnāḥ](pārahīnāḥ)
+[tadā](tadā) [api](api) [tvadīyāḥ](tvadīyā) [guṇāḥ](guṇāḥ) [pāra-hīnāḥ](pārahīnāḥ)
 
 ## mukta-m0-p80-v1989
 [lekhinī](lekhinī)
 
 ## mukta-m0-p80-v1990
-[muktaye](muktaye) [ca](ca) [sukha-dāstu](sukhadāstu) [lekhinī](lekhinī)
+[muktaye](muktaye) [ca](ca) [sukha-dā](sukhadā) [astu](astu) [lekhinī](lekhinī)
 
 ## mukta-m0-p80-v1991
 [lekhya](lekhyā)
 
 ## mukta-m0-p80-v1992
-[lekhya-alekhya](lekhyā'lekhye) [ca](ca) [bhūtānāṃ](bhūtānāṃ) [nānā-śāsana-paṭṭake](nānāśāsanapaṭṭake)
+[lekhya](lekhyā) [alekhya](alekhye) [ca](ca) [bhūtānāṃ](bhūtānāṃ) [nānā-śāsana-paṭṭake](nānāśāsanapaṭṭake)
 
 ## mukta-m0-p80-v1993
 [su-lekhā](sulekhā)
@@ -62,7 +62,7 @@
 [lekhaka-priyā](lekhakapriyā)
 
 ## mukta-m0-p80-v1996
-[bhavanti](bhavantīha) [iha](bhavantīha) [janāḥ](janā) [yasya](yasya) [prasannā](prasannā) [lekhaka-priyā](lekhakapriyā)
+[bhavanti](bhavantīha) [iha](bhavantīha) [janāḥ](janā) [yasya](yasya) [prasannāḥ](prasannā) [lekhaka-priyā](lekhakapriyā)
 
 ## mukta-m0-p80-v1997
 [śaṅkhinī](śaṅkhinī)

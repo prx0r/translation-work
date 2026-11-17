@@ -2,37 +2,37 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p97-v2401
-[tripura](tripurā) [if](cet) [companion](sahāyā) [not](na) [following-arrow-feather](bāṇapuṅkhānuvartinī)
+[tripura](tripurā) [if](cet) [companion](sahāyā) [not](na) [arrow+feather+follower](bāṇapuṅkhānuvartinī)
 
 ## mukta-m0-p97-v2402
 [target+attainment](lakṣyaprāptiḥ)
 
 ## mukta-m0-p97-v2403
-[target-making](lakṣyakṛtvo) [conquers](jayatyeṣā) [target+attainment](lakṣyaprāptiḥ) [good-marked](sulakṣaṇā)
+[target-maker](lakṣyakṛtvo) [conquers](jayatyeṣā) [target+attainment](lakṣyaprāptiḥ) [good-marked](sulakṣaṇā)
 
 ## mukta-m0-p97-v2404
 [art](kalā)
 
 ## mukta-m0-p97-v2405
-[time-crow-cry-etc](kālakākakilelālā) [in-time-in-kali-art-art](kāle kalau kalākalā)
+[time+crow+play+saliva](kālakākakilelālā) [in-time](kāle) [in-kali](kalau) [art+art](kalākalā)
 
 ## mukta-m0-p97-v2406
 [unmarked](alakṣyā)
 
 ## mukta-m0-p97-v2407
-[target-mark-duality-target-unmarked](lakṣyalakṣaṇatādvaitalakṣyālakṣyā) [conquers-that](jayatyasau)
+[target+mark+nonduality+target+unmarked](lakṣyalakṣaṇatādvaitalakṣyālakṣyā) [conquers](jayatyasau)
 
 ## mukta-m0-p97-v2408
 [target](lakṣyā)
 
 ## mukta-m0-p97-v2409
-[target-become-one-only](lakṣyabhūtāpi saikaiva) [target](lakṣyā) [all-distinct](sarvavilakṣaṇā)
+[target-become](lakṣyabhūtāpi) [alone](saikaiva) [target](lakṣyā) [all-distinct](sarvavilakṣaṇā)
 
 ## mukta-m0-p97-v2410
 [auspicious-marked](śubhalakṣaṇā)
 
 ## mukta-m0-p97-v2411
-[many-intention](anekakalpasaṃkalpo) [fortunate-moment](dhanyasyāsya kṣaṇāyate)
+[many+aeon+resolve](anekakalpasaṃkalpo) [fortunate](dhanyasyāsya) [moment](kṣaṇāyate)
 
 ## mukta-m0-p97-v2412
 [abiding](vartinī)
@@ -44,34 +44,34 @@
 [good-path-conduct](supathācārā)
 
 ## mukta-m0-p97-v2415
-[that-path](tatpathaṃ) [how](na kathaṃ) [all](sarve) [go](gaccheyurnārthitā api)
+[that-path](tatpathaṃ) [how](na kathaṃ) [all](sarve) [go](gaccheyurnārthitā) [api](api)
 
 ## mukta-m0-p97-v2416
 [moat](parikhā)
 
 ## mukta-m0-p97-v2417
-[that](yā) [stands](tiṣṭhati) [supreme](parā) [limit](niṣṭhā) [moat](parikhā) [remembered](sā smṛtā) [wise](budhaiḥ)
+[which](yā) [stands](tiṣṭhati) [supreme](parā) [limit](niṣṭhā) [moat](parikhā) [remembered](sā smṛtā) [wise](budhaiḥ)
 
 ## mukta-m0-p97-v2418
 [mine](khaniḥ)
 
 ## mukta-m0-p97-v2419
-[fortress-difficulty-cause](durgadurgatvahetuśca) [conquer](jīyāt) [mine-this](khaniriyaṃ) [always](sadā)
+[fortress+fortress-ness+cause](durgadurgatvahetuśca) [conquer](jīyāt) [mine](khaniriyaṃ) [always](sadā)
 
 ## mukta-m0-p97-v2420
-[fence](vṛtiḥ)
+[enclosure](vṛtiḥ)
 
 ## mukta-m0-p97-v2421
-[cows](agāḥ) [nourished](puṣṭāḥ) [how](kathaṃ) [would-be](syuścenna) [would-be](syādrakṣākarī) [fence](vṛtiḥ)
+[cows](agāḥ) [nourished](puṣṭāḥ) [how](kathaṃ) [would-be](syuścenna) [would-not-be](syādrakṣākarī) [enclosure](vṛtiḥ)
 
 ## mukta-m0-p97-v2422
-[wall-circle](prākāravalayā)
+[wall+circle](prākāravalayā)
 
 ## mukta-m0-p97-v2423
-[wall-circle](prākāravalayā) [goddess](devī) [shine](bhāsase) [compassion](dayayā) [own](svayā)
+[wall+circle](prākāravalayā) [goddess](devī) [shine](bhāsase) [compassion](dayayā) [own](svayā)
 
 ## mukta-m0-p97-v2424
 [shore](velā)
 
 ## mukta-m0-p97-v2425
-[delighted-delighted-liberated-etc](ratā ratātāratārasālatālalatālasā)
+[delighted+delighted+tarata+rasa+lata+tala+lata+lasya](ratā ratātāratārasālatālalatālasā)

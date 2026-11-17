@@ -8,7 +8,7 @@
 "tokens": [
 {
 "surface": "viṣāśanena",
-"quick_gloss": "poison-eating"
+"quick_gloss": "poison-eater"
 },
 {
 "surface": "saṃvṛttā",
@@ -19,12 +19,8 @@
 "quick_gloss": "poison-enemy"
 },
 {
-"surface": "sā",
-"quick_gloss": "she"
-},
-{
-"surface": "api",
-"quick_gloss": "api"
+"surface": "sāpi",
+"quick_gloss": "she-too"
 },
 {
 "surface": "viśvasūḥ",
@@ -41,7 +37,19 @@
 "tokens": [
 {
 "surface": "nāgadamanī",
-"quick_gloss": "serpent-subduer"
+"quick_gloss": "serpent+subduer"
+},
+{
+"surface": "nāga",
+"quick_gloss": "serpent"
+},
+{
+"surface": "damanī",
+"quick_gloss": "subduer"
+},
+{
+"surface": "devī",
+"quick_gloss": "goddess"
 }
 ]
 },
@@ -62,11 +70,11 @@
 },
 {
 "surface": "nāgadamanī",
-"quick_gloss": "serpent-subduer"
+"quick_gloss": "serpent+subduer"
 },
 {
 "surface": "śaktiraiśvarī",
-"quick_gloss": "divine-power"
+"quick_gloss": "divine+power"
 }
 ]
 },
@@ -82,28 +90,20 @@
 "quick_gloss": "brotherhood"
 },
 {
-"surface": "samāgate",
+"surface": "samāgate'tra",
 "quick_gloss": "united"
-},
-{
-"surface": "atra",
-"quick_gloss": "here"
 },
 {
 "surface": "daśamī",
 "quick_gloss": "tenth"
 },
 {
-"surface": "bhaktiḥ",
+"surface": "bhaktirvirāmaṃ",
 "quick_gloss": "devotion"
 },
 {
-"surface": "virāmaṃ",
-"quick_gloss": "cessation"
-},
-{
 "surface": "gatā",
-"quick_gloss": "gone"
+"quick_gloss": "ceased"
 }
 ]
 },
@@ -116,7 +116,7 @@
 "tokens": [
 {
 "surface": "mahākāvye",
-"quick_gloss": "great-poem"
+"quick_gloss": "great+poem"
 },
 {
 "surface": "daśamī",
@@ -125,6 +125,14 @@
 {
 "surface": "bhaktiḥ",
 "quick_gloss": "devotion"
+},
+{
+"surface": "kāvya",
+"quick_gloss": "poetry"
+},
+{
+"surface": "daśamī-bhaktiḥ",
+"quick_gloss": "tenth-devotion"
 }
 ]
 },
@@ -137,7 +145,23 @@
 "tokens": [
 {
 "surface": "kurukullā",
-"quick_gloss": "kurukullā"
+"quick_gloss": "red-goddess"
+},
+{
+"surface": "kuru",
+"quick_gloss": "red"
+},
+{
+"surface": "kullā",
+"quick_gloss": "goddess"
+},
+{
+"surface": "devī",
+"quick_gloss": "deity"
+},
+{
+"surface": "śakti",
+"quick_gloss": "power"
 }
 ]
 },
@@ -149,8 +173,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "kulākula",
-"quick_gloss": "family-nonfamily"
+"surface": "kulākulaparijñānadākṣiṇyaprathitodayam",
+"quick_gloss": "family+non-family+knowledge+skill+fame+rise"
+},
+{
+"surface": "kula",
+"quick_gloss": "family"
+},
+{
+"surface": "akula",
+"quick_gloss": "non-family"
 },
 {
 "surface": "parijñāna",
@@ -159,10 +191,6 @@
 {
 "surface": "dākṣiṇya",
 "quick_gloss": "skill"
-},
-{
-"surface": "prathitodayam",
-"quick_gloss": "famous-rise"
 }
 ]
 },
@@ -176,6 +204,22 @@
 {
 "surface": "amṛtodbhavā",
 "quick_gloss": "nectar-born"
+},
+{
+"surface": "amṛta",
+"quick_gloss": "nectar"
+},
+{
+"surface": "udbhavā",
+"quick_gloss": "born"
+},
+{
+"surface": "devī",
+"quick_gloss": "goddess"
+},
+{
+"surface": "amṛta",
+"quick_gloss": "immortal"
 }
 ]
 },
@@ -188,22 +232,18 @@
 "tokens": [
 {
 "surface": "dayayā",
-"quick_gloss": "compassion"
+"quick_gloss": "by-compassion"
 },
 {
-"surface": "bhaktavaryo",
-"quick_gloss": "devotee-best"
-},
-{
-"surface": "ayaṃ",
-"quick_gloss": "this"
+"surface": "bhaktavaryo'yaṃ",
+"quick_gloss": "best-devotee"
 },
 {
 "surface": "sā",
 "quick_gloss": "she"
 },
 {
-"surface": "jīyād",
+"surface": "jīyādamṛtodbhavā",
 "quick_gloss": "may-live"
 },
 {
@@ -226,6 +266,18 @@
 {
 "surface": "rakṣā",
 "quick_gloss": "protection"
+},
+{
+"surface": "bhūta",
+"quick_gloss": "spirit"
+},
+{
+"surface": "bhīti",
+"quick_gloss": "fear"
+},
+{
+"surface": "harā",
+"quick_gloss": "removing"
 }
 ]
 },
@@ -254,7 +306,7 @@
 },
 {
 "surface": "parameśvarī",
-"quick_gloss": "supreme-goddess"
+"quick_gloss": "supreme-lady"
 }
 ]
 },
@@ -268,6 +320,22 @@
 {
 "surface": "bhūtāveśavināśinī",
 "quick_gloss": "spirit-possession-destroying"
+},
+{
+"surface": "bhūta",
+"quick_gloss": "spirit"
+},
+{
+"surface": "āveśa",
+"quick_gloss": "possession"
+},
+{
+"surface": "vināśinī",
+"quick_gloss": "destroying"
+},
+{
+"surface": "devī",
+"quick_gloss": "goddess"
 }
 ]
 },
@@ -280,7 +348,7 @@
 "tokens": [
 {
 "surface": "bhūyād",
-"quick_gloss": "may-be"
+"quick_gloss": "may-she-be"
 },
 {
 "surface": "bhūtipradā",
@@ -291,12 +359,8 @@
 "quick_gloss": "goddess"
 },
 {
-"surface": "bhūtāhantā",
-"quick_gloss": "spirit-slayer"
-},
-{
-"surface": "nivāriṇī",
-"quick_gloss": "restrainer"
+"surface": "bhūtāhantānivāriṇī",
+"quick_gloss": "spirit-slayer-preventer"
 }
 ]
 },
@@ -308,8 +372,24 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
+"surface": "p.",
+"quick_gloss": "page-206"
+},
+{
 "surface": "rakṣoghnī",
-"quick_gloss": "demon-slaying"
+"quick_gloss": "rakshoghni"
+},
+{
+"surface": "rakṣoghnī",
+"quick_gloss": "demon-destroying"
+},
+{
+"surface": "devī",
+"quick_gloss": "goddess"
+},
+{
+"surface": "rakṣā",
+"quick_gloss": "protection"
 }
 ]
 },
@@ -322,7 +402,7 @@
 "tokens": [
 {
 "surface": "rakṣoghnī",
-"quick_gloss": "demon-slaying"
+"quick_gloss": "demon-destroying"
 },
 {
 "surface": "sā",
@@ -356,6 +436,22 @@
 {
 "surface": "rākṣasī",
 "quick_gloss": "demoness"
+},
+{
+"surface": "rākṣasī",
+"quick_gloss": "rakshasi"
+},
+{
+"surface": "rākṣasī",
+"quick_gloss": "female-demon"
+},
+{
+"surface": "devī",
+"quick_gloss": "goddess"
+},
+{
+"surface": "śakti",
+"quick_gloss": "power"
 }
 ]
 },
@@ -402,6 +498,22 @@
 {
 "surface": "rātriḥ",
 "quick_gloss": "night"
+},
+{
+"surface": "rātriḥ",
+"quick_gloss": "night-goddess"
+},
+{
+"surface": "rātri",
+"quick_gloss": "darkness"
+},
+{
+"surface": "rātriḥ",
+"quick_gloss": "time"
+},
+{
+"surface": "devī",
+"quick_gloss": "goddess"
 }
 ]
 },
@@ -418,7 +530,7 @@
 },
 {
 "surface": "priyatamaiḥ",
-"quick_gloss": "beloveds"
+"quick_gloss": "beloved"
 },
 {
 "surface": "sukhadāstu",
@@ -440,6 +552,22 @@
 {
 "surface": "dīrghanidrā",
 "quick_gloss": "long-sleep"
+},
+{
+"surface": "dīrgha",
+"quick_gloss": "long"
+},
+{
+"surface": "nidrā",
+"quick_gloss": "sleep"
+},
+{
+"surface": "devī",
+"quick_gloss": "goddess"
+},
+{
+"surface": "nidrā",
+"quick_gloss": "rest"
 }
 ]
 },
@@ -461,6 +589,10 @@
 {
 "surface": "parānandadāstu",
 "quick_gloss": "supreme-bliss-giving"
+},
+{
+"surface": "śivā",
+"quick_gloss": "goddess"
 }
 ]
 },
@@ -472,8 +604,24 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
+"surface": "p.",
+"quick_gloss": "page-207"
+},
+{
 "surface": "divāgatiḥ",
 "quick_gloss": "day-going"
+},
+{
+"surface": "divā",
+"quick_gloss": "day"
+},
+{
+"surface": "gatiḥ",
+"quick_gloss": "going"
+},
+{
+"surface": "gati",
+"quick_gloss": "path"
 }
 ]
 },
@@ -489,20 +637,20 @@
 "quick_gloss": "day-going"
 },
 {
-"surface": "sā",
-"quick_gloss": "she"
+"surface": "sāstu",
+"quick_gloss": "may-she-be"
 },
 {
 "surface": "śivā",
 "quick_gloss": "auspicious"
 },
 {
-"surface": "gatir",
+"surface": "gatirnaḥ",
 "quick_gloss": "going"
 },
 {
-"surface": "naḥ",
-"quick_gloss": "our"
+"surface": "gati",
+"quick_gloss": "path"
 }
 ]
 },
@@ -516,6 +664,22 @@
 {
 "surface": "candrikā",
 "quick_gloss": "moonlight"
+},
+{
+"surface": "candra",
+"quick_gloss": "moon"
+},
+{
+"surface": "ikā",
+"quick_gloss": "light"
+},
+{
+"surface": "devī",
+"quick_gloss": "goddess"
+},
+{
+"surface": "candrikā",
+"quick_gloss": "radiance"
 }
 ]
 },
@@ -536,7 +700,15 @@
 },
 {
 "surface": "hyayam",
-"quick_gloss": "indeed-this"
+"quick_gloss": "indeed"
+},
+{
+"surface": "candrikā",
+"quick_gloss": "moonlight"
+},
+{
+"surface": "āśraya",
+"quick_gloss": "refuge"
 }
 ]
 }

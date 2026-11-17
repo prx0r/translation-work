@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p81-v2001
-[water-standing](jalasthā)
+[water+standing](jalasthā) [water](jala) [standing](sthā) [always](sadā)
 
 ## mukta-m0-p81-v2002
-[always-nearness](sadāsannidheḥ) [some](ko'pi) [feeling-power](bhāvānubhāvaḥ)
+[always+nearness](sadāsannidheḥ) [some](ko'pi) [feeling+power](bhāvānubhāvaḥ) [some](ko) [also](api)
 
 ## mukta-m0-p81-v2003
-[water-deity](jaladevatā)
+[water+deity](jaladevatā) [water](jala) [deity](devatā) [lotus](kamalaṃ)
 
 ## mukta-m0-p81-v2004
-[lotus](kamalaṃ) [that-water-deity-grace](tajjaladevatāprasādaḥ)
+[lotus](kamalaṃ) [that+water+deity+grace](tajjaladevatāprasādaḥ) [that](tad) [water](jala)
 
 ## mukta-m0-p81-v2005
-[kurukshetra-earth](kurukṣetrāvaniḥ)
+[kuru+field+earth](kurukṣetrāvaniḥ) [kuru](kuru) [field](kṣetra) [earth](avaniḥ)
 
 ## mukta-m0-p81-v2006
-[of-kauravas](kauravāṇāṃ) [kurukshetra-earth](kurukṣetrāvaniḥ) [from-fear](bhayāt)
+[of+kauravas](kauravāṇāṃ) [kuru+field+earth](kurukṣetrāvanirmāmavatād) [fear](bhayāt) [from](bhayāt)
 
 ## mukta-m0-p81-v2007
-[kashi](kāśī)
+[kāśī](kāśī) [that](sā) [kāśī](kāśī) [shines](parikāśate)
 
 ## mukta-m0-p81-v2008
-[that](sā) [kashi](kāśī) [shines](parikāśate) [my](mama) [heart-sky](hṛdākāśe) [always](sadā) [unbroken](nirbhidā)
+[that](sā) [kāśī](kāśī) [shines](parikāśate) [my](mama) [heart+sky](hṛdākāśe)
 
 ## mukta-m0-p81-v2009
-[mathura](mathurā)
+[mathurā](mathurā) [steady](sthiraṃ) [rasa+glory](rasaśrīrmathurāsti) [some](kāpi)
 
 ## mukta-m0-p81-v2010
-[steady](sthiraṃ) [rasa-glory](rasaśrīḥ) [mathura](mathurā) [is](asti) [some](kāpi)
+[steady](sthiraṃ) [rasa+glory](rasaśrīḥ) [mathurā](mathurā) [is](asti) [some](kāpi)
 
 ## mukta-m0-p81-v2011
-[kanchi](kāñcī)
+[kāñcī](kāñcī) [in+which](yasyāṃ) [golden](kāñcana) [golden+mountain+region](kāñcanādriviṣayāṃ)
 
 ## mukta-m0-p81-v2012
-[in-which](yasyāṃ) [golden](kāñcana) [golden-mountain-region](kāñcanādriviṣayāṃ) [kanchi](kāñcī) [give](dadātu) [glory](śriyam)
+[in+which](yasyāṃ) [golden](kāñcana) [golden+mountain+region](kāñcanādriviṣayāṃ) [kāñcī](kāñcī) [give](dadātu)
 
 ## mukta-m0-p81-v2013
-[avantika](avantikā)
+[avantikā](avantikā) [page](p.) [244](244) [which](kā) [eastern+sun+path+middle+region](pūrbhāskarayānamadhyaviṣayā)
 
 ## mukta-m0-p81-v2014
-[which](kā) [eastern-sun-chariot-middle-region](pūrbhāskarayānamadhyaviṣayā) [rules](saṃrājate) [avantika](avantikā)
+[which](kā) [eastern+sun+path+middle+region](pūrbhāskarayānamadhyaviṣayā) [shines](saṃrājate) [avantikā](avantikā)
 
 ## mukta-m0-p81-v2015
-[ayodhya](ayodhyā)
+[ayodhyā](ayodhyā) [people](janāḥ) [that](sā) [is](asti)
 
 ## mukta-m0-p81-v2016
-[ayodhya](ayodhyā) [people](janāḥ) [is](sāsti) [some](kāpi) [ayodhya](ayodhyā)
+[ayodhyā](ryodhyā) [people](janāḥ) [that](sā) [is](asti) [some](kāpyayodhyā)
 
 ## mukta-m0-p81-v2017
-[dwarka](dvārakā)
+[dvārakā](dvārakā) [which](yā) [seen](dṛṣṭā) [or](vāpi) [hidden+like](gupteva)
 
 ## mukta-m0-p81-v2018
-[which](yā) [seen](dṛṣṭā) [or](vāpi) [hidden-like](gupteva) [becomes](bhavati) [of-mind](manasaḥ) [from-pulsation](spandanād) [dwarka](dvārakā) [that](sā)
+[which](yā) [seen](dṛṣṭā) [or](vāpi) [hidden+like](gupteva) [becomes](bhavati) [mind's](manasaḥ)
 
 ## mukta-m0-p81-v2019
-[maya](māyā)
+[māyā](māyā) [abandoning](hitvā) [become](bhavanti) [true+knowers](sadbodhā)
 
 ## mukta-m0-p81-v2020
-[abandoning](hitvā) [become](bhavanti) [true-knowers](sadbodhāḥ) [vishnu-maya-lords](viṣṇumāyeśvarāḥ) [themselves](svayam)
+[abandoning](hitvā) [become](bhavanti) [true+knowers](sadbodhā) [viṣṇu+māyā+lords](viṣṇumāyeśvarāḥ) [themselves](svayam)
 
 ## mukta-m0-p81-v2021
-[tirtha](tīrthā)
+[tīrthā](tīrthā) [of+tīrthas](ttīrthyānāṃ) [that](sā) [by+whom](kena) [tīrthā](tīrthā)
 
 ## mukta-m0-p81-v2022
-[of-tirthas](tīrthyānāṃ) [that](sā) [by-whom](kena) [tirtha](tīrthā) [not](na) [tirtha-goer](tīrthyā)
+[of+tīrthas](ttīrthyānāṃ) [that](sā) [by+whom](kena) [tīrthā](tīrthā) [not](na) [tīrthya](tīrthyā)
 
 ## mukta-m0-p81-v2023
-[tirthakara-dear](tīrthakarapriyā)
+[tīrthakara+dear](tīrthakarapriyā) [tīrthakara](tīrthakara) [dear](priyā) [if](ced) [not](na)
 
 ## mukta-m0-p81-v2024
-[not](na) [if](ced) [beneficial](hitā) [tirthakara-dear](tīrthakarapriyā) [would-be](syāt)
+[if](na) [not](ced) [pleasing](dhitā) [tīrthakara+dear](tīrthakarapriyā) [would+be](syāt)
 
 ## mukta-m0-p81-v2025
-[tripushkara](tripuṣkarā)
+[three+puṣkara](tripuṣkarā) [three](tri) [puṣkara](puṣkarā) [lotus](puṣkara) [three](tri)
