@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p19-v451
-[red](raktā) [yellow](pītā) [and](ca) [king's](bhūpasya) [people's](viśaḥ) [dark-kulattha-colored](śyāmakulatthabhāḥ)
+red yellow and king's people dark-kulattha-colored
 
 ## mukta-m0-p19-v452
-[indra-bow-like-streaks](indrācāpopamārekhāḥ) [all-prosperity-wealth-fortune-giving](sarvāśrīvasubhūtidāḥ)
+rainbow-like-lines all-prosperity-wealth-giver
 
 ## mukta-m0-p19-v453
-[characteristic-rich](lakṣaṇāḍhyā) [few-defects](alpadoṣā) [which](yā) [acceptable](grāhyā) [that](sā) [homa-purified](homaśodhitā)
+mark-rich few-fault she acceptable she fire-purified
 
 ## mukta-m0-p19-v454
-[indra-ishana-moon-wood-directions](indreśānendukāṣṭhāsu) [its](tasyā) [head](mastakam) [is-desired](iṣyate)
+indra-ishana-moon-directions in her head desired
 
 ## mukta-m0-p19-v455
-[in-three-kinds](trividheṣu) [too](api) [in-lingas](liṅgeṣu) [in-stone](śilāyām) [no](na) [other](aparaḥ) [rite](vidhiḥ)
+three-kinds even in-phallus stone no-other rite
 
 ## mukta-m0-p19-v456
-[defects](doṣān) [from-old-etc](vṛddhādikān) [we-state](brūmaḥ) [and](ca) [eighty-eight-kinds](aṣṭāśītiprabhedataḥ)
+faults old-etc we-say eighty-eight varieties-from
 
 ## mukta-m0-p19-v457
-[hollow](śūṣiram) [blister](sphoṭakam) [sky](vyomam) [paste](gārā) [film-net](paṭalajālakam)
+hollow blister sky mortar film-net
 
 ## mukta-m0-p19-v458
-[characteristics](lakṣaṇam) [I-tell](kathayāmi) [of-these](eṣām) [briefly](saṃkṣepeṇa) [by-kinds](prabhedataḥ)
+characteristic I-tell these briefly by-types
 
 ## mukta-m0-p19-v459
-[harsh](niṣṭhurā) [and](ca) [very-rough](atirūkṣā) [ca](ca) [old](vṛddhā) [work-destroying](kāryavināśinī)
+harsh and very-rough and old work-destroying
 
 ## mukta-m0-p19-v460
-[chisel-stroke-intolerant](ṭaṅkaghātāsahiṣṇum) [and](ca) [not](na) [that](tām) [for-deity](devāya) [should-use](yojayet)
+chisel-stroke-intolerant and not her to-deity use
 
 ## mukta-m0-p19-v461
-[therefore](tasmāt) [image-made](bimbātmakam) [stone](aśma) [should-cut](saṃchindyāt) [wood](dāru) [indeed](vai) [so](tathā)
+therefore image-made stone cut wood indeed so
 
 ## mukta-m0-p19-v462
-[seven-other](saptānyāni) [and](ca) [variegated](citrāṇi) [fourfold](caturdhā) [plastering](lepanam) [so](tathā)
+seven-other and variegated fourfold plastering so
 
 ## mukta-m0-p19-v463
-[kapila-colored](kāpilam) [orpiment-like](haritālābham) [pigeon-colored](kāpotamalivarṇakam)
+kapila orpiment-colored pigeon-like bee-color
 
 ## mukta-m0-p19-v464
-[flame-tree-like](kiṃśukābham) [safflower-like](kusumbhābham) [flax-flower-similar](atasīpuṣpasannibham)
+flame-tree-like safflower-like flax-flower-similar
 
 ## mukta-m0-p19-v465
-[champak-like](campakābham) [and](ca) [blue-like](nīlābham) [mixed-red-yellow](miśralohitapītakam)
+campaka-like and blue-like mixed-red-yellow
 
 ## mukta-m0-p19-v466
-[red-or-rough](raktam) [and](ca) [pale](pāṇḍaram) [and-indeed](caiva) [womb-defects](garbhadoṣān) [I-declare](vadāmyaham)
+red and pale and indeed womb-faults I-say
 
 ## mukta-m0-p19-v467
-[jaggery-colored](guḍavarṇe) [stone](śilā) [if](yā) [syāt](syāt) [by-that](tena) [no-rain](avṛṣṭiḥ) [occurs](bhavet) [long](ciram)
+jaggery-colored stone other be by-that no-rain long
 
 ## mukta-m0-p19-v468
-[madder-like](mañjiṣṭhābhe) [becomes](bhavet) [frog](bhekaḥ) [crop-destruction](śasyanāśaḥ) [from-water](jalāt) [fear](bhayam)
+madder-colored be frog crop-destruction water-from-fear
 
 ## mukta-m0-p19-v469
-[yellow](pīte) [lizard](godhā) [king](nṛpam) [kills](hanyāt) [ant-hill](vām) [pain-causing](pīḍākarī) [and](ca) [that](sā)
+yellow lizard king kills ant-hill pain-causing and she
 
 ## mukta-m0-p19-v470
-[palm-like](tālābhe) [crab](karkaṭaḥ) [bile-disease](pittaroga) [famine-causing](darbhikṣakṛt) [and](ca) [that](saḥ)
+palm-colored crab bile-disease miscarriage-maker and he
 
 ## mukta-m0-p19-v471
-[elder](jyeṣṭhā) [pigeon-throat-like](kapotakaṇṭhābhe) [disease-poverty-fear-giving](vyādhidāridryabhītidā)
+elder pigeon-throat-colored disease-poverty-fear-giver
 
 ## mukta-m0-p19-v472
-[blue](nīlake) [fly](makṣikā) [that](sā) [and](ca) [kills](hanyāt) [wife](bhāryām) [with-son-desiring](saputrakām)
+blue fly she and kills wife with-son-desiring
 
 ## mukta-m0-p19-v473
-[king-destruction](nṛpakṣī) [cāṣa-colored](cāṣavarṇe) [if](syāt) [by-that](tena) [maker's-progeny-destruction](kartuḥprajākṣayaḥ)
+king's-eye roller-colored be by-that maker's-progeny-destruction
 
 ## mukta-m0-p19-v474
-[flame-tree](kiṃśuke) [indra's-protector](śakragopaḥ) [if](syāt) [by-that](tena) [king's-wealth-destruction](rājñodhanakṣayaḥ)
+flame-tree indra's-protector be by-that king's wealth-destruction
 
 ## mukta-m0-p19-v475
-[flax-flower-resembling](atasīpuṣpasaṃkāśe) [in-womb](garbhe) [know](vidyāt) [ant](pipīlikā)
+flax-flower-resembling in-womb know ant
