@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p124-v3076
-[may-be](syātām)
+[may-they-be](syātām) [optative](syātām) [3rd-dual](syātām) [verb](syātām)
 
 ## mukta-m0-p124-v3077
-[its](tat) [price](mūlyaṃ) [by-king](nṛpeṇa) [not](na) [to-be-caused-to-give](dāpayitavyam) [thus](iti) [indicated](sūcayāmāsa)
+[that-price](tanmūlyaṃ) [by-king](nṛpeṇa) [not](na) [to-be-made-pay](dāpayitavyam) [thus](iti) [indicated](sūcayāmāsa)
 
 ## mukta-m0-p124-v3078
-[dhārti](dhārti) [thus](iti) [here](atra) [of-ārdhadhātuka](ārdhadhātukasya) [iṭ](iṭ) [beginning-with-ū](ūlādeḥ) [thus](iti) [not](na) [iṭ-augment](iḍāgamaḥ)
+[dhārti](dhārti) [here](atra) [of-ardhadhātuka](ardhadhātukasya) [of-iḍ-ādi](iḍūlādeḥ) [thus](iti) [no-iḍ-āgama](neḍāgamaḥ)
 
 ## mukta-m0-p124-v3079
-[having-died](mṛte) [father](pitari) [of-all](sarveṣām) [sharers](aṃśināṃ) [consent](sammatiṃ) [without](vinā)
+[dead](mṛte) [father](pitari) [of-all](sarveṣām) [of-sharers](aṃśināṃ) [consent](sammatiṃ) [without](vinā)
 
 ## mukta-m0-p124-v3080
-[king](nṛpaḥ) [that](tat) [otherwise](anyathā) [to-do](kartuṃ) [capable](kṣamaḥ) [becomes](bhavati) [O-Pārvatī](pārvati)
+[king](nṛpaḥ) [otherwise](tadanyathā) [to-do](kartuṃ) [able](kṣamaḥ) [becomes](bhavati) [o-pārvatī](pārvati)
 
 ## mukta-m0-p124-v3081
-[giving](dānaṃ) [likewise](tathaiva) [of-daughter](kanyāyāḥ) [brāhma](brāhmaḥ) [marriage](udvāhaḥ) [once](sakṛt) [once](sakṛt)
+[gift](dānaṃ) [likewise](tathaiva) [of-girl](kanyāyāḥ) [brāhma-marriage](brāhmohvāhaḥ) [once](sakṛt) [once](sakṛt)
 
 ## mukta-m0-p124-v3082
-[fruit](phalam) [thus](iti) [Amara](amaraḥ)
+[fruit](phalam) [thus](ityamaraḥ)
 
 ## mukta-m0-p124-v3083
-[for-fruit](phala) [purpose](arthaṃ) [not](na) [indeed](eva) [should-employ](yojayet)
+[for-fruit](phalārthaṃ) [not-indeed](naiva) [should-use](yojayet)
 
 ## mukta-m0-p124-v3084
-[its](tat) [selling](vikrayaṇam) [otherwise](anyathā) [to-do](kartuṃ) [king](nṛpaḥ) [lord-of-men](narādhipaḥ) [capable](kṣamaḥ) [becomes](bhavati)
+[that-sale](tadvikrayaṇam) [otherwise](anyathā) [to-do](kartuṃ) [king](nṛpaḥ) [lord-of-men](narādhipaḥ) [able](kṣamaḥ) [becomes](bhavati)
 
 ## mukta-m0-p124-v3085
-[by-Śaiva](śaiva) [rites](vidhibhiḥ) [but](tu) [again](punar) [marriage](udvāhaḥ) [becomes](bhavati) [indeed](eva) [thus](iti) [indicated](sūcayām) [became](babhūve)
+[by-śaiva-rites](śaivavidhibhiḥ) [but](tu) [again](punar) [remarriage](udvāhaḥ) [becomes-indeed](bhavatyeva) [thus](iti) [indicated](sūcayāmbabhūve)
 
 ## mukta-m0-p124-v3086
-[not](na) [one](eka) [daughter](kanyaḥ) [daughter](sutāṃ) [in-Śaiva](śaiva) [marriage](udvāhe) [father](pitṛ) [beneficial](hitaḥ) [man](pumān)
+[not-one-wife](naikakanyaḥ) [daughter](sutāṃ) [in-śaiva-marriage](śaivodvāhe) [father-benefiting](pitṛhitaḥ) [man](pumān)
 
 ## mukta-m0-p124-v3087
-[whatever](yat) [should-perform](vidadhyāt) [representative](pratinidhiḥ) [that](tat) [of-the-commander](niyantuḥ) [act](kṛtiḥ) [would-be](bhavet)
+[whatever](yad) [he-may-do](vidadhyāt) [substitute](pratinidhiḥ) [of-controller](niyantuḥ) [act](kṛtiḥ) [becomes](bhavet)
 
 ## mukta-m0-p124-v3088
-[by-commissioner](niyoktṛ) [committed](kṛta) [fault](doṣeṇa) [rule](vidhiḥ) [this](eṣaḥ) [eternal](sanātanaḥ)
+[of-appointer](niyoktṛ) [act-fault](kṛtadoṣeṇa) [rule](vidhiḥ) [this](eṣa) [eternal](sanātanaḥ)
 
 ## mukta-m0-p124-v3089
-[whatever](yat) [whatever](yat) [accepted](aṅgīkṛtaṃ) [by-people](lokaiḥ) [that](tat) [to-be-done](kāryaṃ) [by-dharma](dharma) [approved](sammatam)
+[whatever](yadyad) [accepted](aṅgīkṛtaṃ) [by-people](lokaiḥ) [that](tad) [to-be-done](kāryaṃ) [dharma-approved](dharmasammatam)
 
 ## mukta-m0-p124-v3090
-[because](yataḥ) [to-fathers](pitṛbhyaḥ) [beneficial](hitaḥ) [therefore](ataḥ) [not](na) [should-give](dadyāt) [thus](iti) [meaning](arthaḥ)
+[because](yataḥ) [to-ancestors](pitṛbhyaḥ) [beneficial](hitaḥ) [therefore](ataḥ) [not-should-give](na dadyāt) [thus-meaning](ityarthaḥ)
 
 ## mukta-m0-p124-v3091
-[rule](vidhiḥ) [injunction](vidhānam)
+[rule](vidhiḥ) [ordinance](vidhānam)
 
 ## mukta-m0-p124-v3092
-[their](tat) [protectors](pātṝn) [protects](pāti) [lord-of-all](viśveśaḥ) [therefore](tasmāt) [for-world](loka) [beneficial](hitaḥ) [should-be](bhavet)
+[those-fathers](tatpātṝn) [protects](pāti) [all-lord](viśveśaḥ) [therefore](tasmāt) [world-benefiting](lokahitaḥ) [becomes](bhavet)
 
 ## mukta-m0-p124-v3093
-[accepted](svīkṛtaṃ) [in-every-way](sarvathā) [of-people](lokānām) [not-to-be-done](akaraṇīyam) [thus](iti) [indicated](dhvanitam)
+[accepted](svīkṛtaṃ) [in-every-way](sarvathā) [of-people](lokānām) [not-to-be-left-undone](akaraṇīyam) [thus](iti) [implied](dhvanitam)
 
 ## mukta-m0-p124-v3094
-[of-three-worlds](tribhuvana) [people](jana) [mother](mātā) [Pārvatī](pārvatī) [gave](prādda) [with-devotion](bhaktyā)
+[three-worlds-mother](tribhuvanajanamātā) [pārvatī](pārvatī) [spoke](prādda) [with-devotion](bhaktyā)
 
 ## mukta-m0-p124-v3095
-[of-subtle](sūkṣma) [most-subtle](atisūkṣma) [being](bhūtāyāḥ) [how](kathaṃ) [form](rūpa) [determination](nirūpaṇam)
+[of-subtle-very-subtle-being](sūkṣmātisūkṣmabhūtāyāḥ) [how](kathaṃ) [form-determination](rūpanirūpaṇam)
 
 ## mukta-m0-p124-v3096
-[this](etat) [to-me](me) [doubt](saṃśayaṃ) [O-god](deva) [especially](viśeṣāt) [to-remove](chettum) [you-should](arhasi)
+[this](etat) [my](me) [doubt](saṃśayaṃ) [o-god](deva) [especially](viśeṣāt) [to-cut](chettum) [you-should](arhasi)
 
 ## mukta-m0-p124-v3097
-[firm](dṛḍha) [minded](mānasā)
+[firm-minded](dṛḍhamānasā)
 
 ## mukta-m0-p124-v3098
-[she](sā) [Mahākālī](mahākālī) [this](etat) [this](etam)
+[she](sā) [great-kālī](mahākālī) [this](etat) [this](etam)
 
 ## mukta-m0-p124-v3099
-[quality](guṇa) [action](kriyā) [according-to](anusāreṇa) [form](rūpaṃ) [of-goddess](devyāḥ) [fashioned](prakalpitam)
+[by-quality-action](guṇakriyānusāreṇa) [form](rūpaṃ) [of-goddess](devyāḥ) [is-devised](prakalpitam)
 
 ## mukta-m0-p124-v3100
-[enter](praviśanti) [likewise](tathā) [into-Kālī](kālyāṃ) [all](sarva) [beings](bhūtāni) [O-daughter-of-mountain](śailaje)
+[enter](praviśanti) [thus](tathā) [into-kālī](kālyāṃ) [all-beings](sarvabhūtāni) [o-daughter-of-mountain](śailaje)

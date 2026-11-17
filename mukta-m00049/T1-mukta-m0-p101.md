@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p101-v2501
-[faith](śraddhā) [radiance](kāntiḥ)+[compassion](dayā) [peace](śāntiḥ)+[may-they-consecrate](abhiṣiñcantu) [you](te) [always](sadā)
+[faith](śraddhā) [beauty](kānti) [compassion](dayā) [peace](śānti) [consecrate](abhiṣiñcantu) [your](te) [always](sadā)
 
 ## mukta-m0-p101-v2502
-[fierce](ugra)+[terrible](caṇḍā) [very-fierce](pracaṇḍā) [you](tvām)+[may-they-consecrate](abhiṣiñcantu) [always](sarvadā)
+[fierce-chanda](ugracaṇḍā) [very-fierce](pracaṇḍā) [you](tvām) [consecrate](abhiṣiñcantu) [always](sarvadā)
 
 ## mukta-m0-p101-v2503
-[Rāma](rāmo) [Bhārgava](bhārgava)+[Rāma](rāmaḥ)+[you](tvām)+[may-they-consecrate](abhiṣiñcantu) [with-water](vāriṇā)
+[rama](rāmo) [bhargava-rama](bhārgavarāmaḥ) [you](tvām) [consecrate](abhiṣiñcantu) [with-water](vāriṇā)
 
 ## mukta-m0-p101-v2504
-[Kapālī](kapālī) [terrible](bhīṣaṇaḥ)+[and](ca) [you](tvām)+[may-they-consecrate](abhiṣiñcantu) [with-water](vāriṇā)
+[skull-bearer](kapālī) [terrifying](bhīṣaṇaḥ) [and](ca) [you](tvām) [consecrate](abhiṣiñcantu) [with-water](vāriṇā)
 
 ## mukta-m0-p101-v2505
-[Vipracittā](vipracittā) [very-fierce](mahogrā) [you](tvām)+[may-they-consecrate](abhiṣiñcantu) [always](sarvadā)
+[vipracitta](vipracittā) [great-fierce](mahogrā) [you](tvām) [consecrate](abhiṣiñcantu) [always](sarvadā)
 
 ## mukta-m0-p101-v2506
 [you](tvā) [you](tvām)
 
 ## mukta-m0-p101-v2507
-[wealth-giver](dhanadaḥ)+[and](ca) [great-lord](maheśānaḥ) [may-they-sprinkle](siñcantu) [you](tvāṃ) [direction-lords](digīśvarāḥ)
+[wealth-giver](dhanadaḥ) [and](ca) [great-lord](maheśānaḥ) [consecrate](siñcantu) [you](tvāṃ) [quarter-lords](digīśvarāḥ)
 
 ## mukta-m0-p101-v2508
-[Rāhu](rāhuḥ) [Ketu](ketuḥ) [with-constellations](sa)+[nakṣatrā] [may-they-consecrate](abhiṣiñcantu) [you](te) [planets](grahāḥ)
+[rahu](rāhuḥ) [ketu](ketuḥ) [with-stars](sanakṣatrāḥ) [consecrate](abhiṣiñcantu) [your](te) [planets](grahāḥ)
 
 ## mukta-m0-p101-v2509
-[season](ṛtuḥ)+[month](māsaḥ) [year](hāyanaḥ)+[you](tvām)+[may-they-consecrate](abhiṣiñcantu) [always](sarvadā)
+[season](ṛtuḥ) [month](māsaḥ) [year](hāyanaḥ) [you](tvām) [consecrate](abhiṣiñcantu) [always](sarvadā)
 
 ## mukta-m0-p101-v2510
-[oceans](samudrāḥ)+[you](tvā)+[may-they-consecrate](abhiṣiñcantu) [with-mantra](mantra)+[purified](pūtena) [with-water](vāriṇā)
+[oceans](samudrāḥ) [you](tvā) [consecrate](abhiṣiñcantu) [with-mantra-purified-water](mantrapūtena+vāriṇā)
 
 ## mukta-m0-p101-v2511
-[these](etāḥ)+[you](tvām)+[may-they-consecrate](abhiṣiñcantu) [with-mantra](mantra)+[purified](pūtena) [with-water](vāriṇā)
+[these](etāḥ) [you](tvām) [consecrate](abhiṣiñcantu) [with-mantra-purified-water](mantrapūtena+vāriṇā)
 
 ## mukta-m0-p101-v2512
-[trees](taravaḥ) [wish-fulfilling-tree](kalpa)+[vṛkṣa]+[and-others](ādyāḥ) [may-they-sprinkle](siñcantu) [you](tvāṃ) [mountains](mahīdharāḥ)
+[trees](taravaḥ) [kalpa-trees](kalpavṛkṣāḥ) [etc](ādyāḥ) [consecrate](siñcantu) [you](tvāṃ) [mountain-lords](mahīdharāḥ)
 
 ## mukta-m0-p101-v2513
-[by-full](pūrṇa)+[consecration](abhiṣeka)+[satisfied](santuṣṭāḥ)+[you](tvā)+[may-they-consecrate](abhiṣiñcantu) [with-water](pāthasā)
+[full-ablution-satisfied](pūrṇābhiṣekasantuṣṭāḥ) [you](tvā) [consecrate](abhiṣiñcantu) [with-water](pāthasā)
 
 ## mukta-m0-p101-v2514
-[may-they-perish](vinaśyantu)+[by-consecration](abhiṣekena) [supreme](parama)+[brahman](brahma)+[by-power](tejasā)
+[perish](vinaśyantu) [by-ablution](abhiṣekeṇa) [supreme-brahman-radiance](paramabrahmatejasā)
 
 ## mukta-m0-p101-v2515
-[daughter-of-the-sun](sūrya)+[sutā] [daughter-of-the-sun](sūrya)+[putrī] [Yamunā](yamunā)
+[sun-daughter](sūryasutā) [sun-daughter](sūryaputrī) [yamuna](yamunā)
 
 ## mukta-m0-p101-v2516
-[winged-ones](patatriṇaḥ) [birds](pakṣiṇaḥ) || [174](174)
+[winged-ones](patatriṇaḥ) [birds](pakṣiṇaḥ)
 
 ## mukta-m0-p101-v2517
-[may-they-perish](vinaśyantu)+[by-consecration](abhiṣekeṇa) [by-Kālī](kālī)+[seed](bījena) [struck](tāḍitāḥ)
+[perish](vinaśyantu) [by-ablution](abhiṣekeṇa) [struck](tāḍitāḥ) [by-kali-seed](kālībījena)
 
 ## mukta-m0-p101-v2518
-[fled](vidrutāḥ)+[they](te) [may-they-perish](vinaśyantu) [by-Ramā](ramā)+[seed](bījena) [struck](tāḍitāḥ)
+[fled](vidrutāḥ) [those](te) [perish](vinaśyantu) [struck](tāḍitāḥ) [by-rama-seed](ramābījena)
 
 ## mukta-m0-p101-v2519
-[mind](manaḥ)+[speech](vāk)+[body](kāya)+[born](jā) [faults](doṣāḥ) [may-they-perish](vinaśyantu)+[by-sprinkling](abhiṣecanāt)
+[mind-speech-body-born](manovākkāyajāḥ) [faults](doṣāḥ) [perish](vinaśyantu) [by-ablution](abhiṣecanāt)
 
 ## mukta-m0-p101-v2520
-[by-consecration](abhiṣekeṇa) [complete](pūrṇena) [fulfilled](pūrṇāḥ) [may-they-be](santu) [desires](manorathāḥ)
+[by-full-ablution](abhiṣekeṇa) [full](pūrṇena) [full](pūrṇāḥ) [be](santu) [desires](manorathāḥ)
 
 ## mukta-m0-p101-v2521
-[from-animal](paśoḥ)+[mouth](mukhāt)+[received](labdha)+[mantra](mantraṃ) [again](punaḥ) [should-cause-to-hear](saṃśrāvayet) [guru](guruḥ)
+[from-animal-mouth](paśormukhāt) [obtained-mantra](labdhamantraṃ) [again](punaḥ) [make-hear](saṃśrāvayed) [guru](guruḥ)
 
 ## mukta-m0-p101-v2522
-[should-give](dadyāt)+[Ānandanātha](ānanda)+[nātha]+[ending](antam)+[name](ākhyānaṃ) [Kaula](kauliko) [guru](guruḥ)
+[give](dadyāt) [ananda-natha-ending](ānandanāthāntam) [narration](ākhyānaṃ) [kaulika](kaulikaḥ) [guru](guruḥ)
 
 ## mukta-m0-p101-v2523
-[with-five](pañca)+[element](tattva)+[offering](upacāreṇa) [guru](gurum)+[should-worship](abhyarcayet)+[then](tataḥ)
+[with-five-elements-offerings](pañcatattvopacāreṇa) [guru](gurum) [worship](abhyarcayet) [then](tataḥ)
 
 ## mukta-m0-p101-v2524
-[to-guru](gurave) [fee](dakṣiṇāṃ) [having-given](dattvā) [should-worship](yajet) [Kaulas](kaulān) [Śiva](śiva)+[natured](ātmakān)
+[to-guru](gurave) [gift](dakṣiṇāṃ) [having-given](dattvā) [worship](yajet) [kaulas](kaulān) [shiva-natured](śivātmakān)
 
 ## mukta-m0-p101-v2525
-[sorrows](śucaḥ) [griefs](śokāḥ) || [176](176)
+[griefs](śucaḥ) [sorrows](śokāḥ)

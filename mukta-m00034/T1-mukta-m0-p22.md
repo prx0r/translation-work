@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p22-v526
-from-intensity(udrekāt) of-drawing(karṣataḥ) seen(dṛṣṭaḥ) of-time+devouring(kāla+grāsasya) arising(sambhavaḥ)
+[from-excess](udrekāt) [drawing](karṣato) [seen](dṛṣṭaḥ) [of-time-devouring](kālagrāsasya) [arising](sambhavaḥ)
 
 ## mukta-m0-p22-v527
-stability(sthairyam) attains(eti) wonder(camatkāraḥ) without(vinā) object+contact(viṣaya+saṅgatim)
+[steadiness](sthairyam) [attains](eti) [wonder](camatkāro) [without](vinā) [object-attachment](viṣayasaṅgatim)
 
 ## mukta-m0-p22-v528
-measure+ground(pramāṇa+bhūmim) having-resorted-to(āśritya) four(catasraḥ) phases(kālikāḥ) situated(sthitāḥ)
+[measure-ground](pramāṇabhūmim) [resorting-to](āśritya) [four](catasraḥ) [temporal-ones](kālikāḥ) [stand](sthitāḥ)
 
 ## mukta-m0-p22-v529
-by-difference-of-maintenance+creation+etc.(sthiti+sṛṣṭi+ādi+bhedena) fourfold(caturdhā) phase+arising(kālikā+udayaḥ)
+[by-stability-creation-etc-difference](sthitisṛṣṭyādibhedena) [fourfold](caturdhā) [temporal-rising](kālikodayaḥ)
 
 ## mukta-m0-p22-v530
-knower+form(pramātṛ+rūpam) having-entered(āviśya) four(catasraḥ) phases(kālikāḥ) situated(sthitāḥ)
+[knower-form](pramātṛrūpam) [entering](āviśya) [four](catasraḥ) [temporal-ones](kālikāḥ) [stand](sthitāḥ)
 
 ## mukta-m0-p22-v531
-seeing(darśana) touching(sparśa) enjoyment(sambhoga) dispassion(virāma) intensity(udrekatā) considered(matāḥ)
+[seeing](darśana) [touching](sparśa) [enjoyment](sambhoga) [delight-excess](virāmodrekatā) [considered](matāḥ)
 
 ## mukta-m0-p22-v532
-in-woman+wine+meat+enjoyments(strī+madya+māṃsa+bhogeṣu) by-continuation-of-wonder(camatkāra+anuvṛttitaḥ)
+[in-woman-wine-meat-enjoyments](strīmadyamāṃsabhogeṣu) [wonder-continuity](camatkārānuvṛttitaḥ)
 
 ## mukta-m0-p22-v533
-this(etat) retinue(parikaraḥ) but(tu) other(anyaḥ) state+group(bhāva+vargaḥ) established(vyavasthitaḥ)
+[this](etat) [accessory](parikaraḥ) [but-other](tvanyo) [state-group](bhāvavargaḥ) [established](vyavasthitaḥ)
 
 ## mukta-m0-p22-v534
-by-this(anena) indeed(eva) intention(āśayena) indeed(eva) for-attainment-of-supreme-brahman(para+brahma+upalabdhaye)
+[by-this-very-intent](anenaivāśayenaiva) [for-supreme-brahman-realization](parabrahmopalabdhaye)
 
 ## mukta-m0-p22-v535
-therefore(tad) thus(ittham) of-all-states(sarva+bhāvānām) in-all-experience+grounds(sarva+anubhava+bhūmiṣu)
+[thus](taditthaṃ) [of-all-states](sarvabhāvānāṃ) [in-all-experience-grounds](sarvānubhavabhūmiṣu)
 
 ## mukta-m0-p22-v536
-by-proper-thing+investigation(samyak+vastu+vicāreṇa) of-states(bhāvānām) by-non-own-nature(a+svabhāvataḥ)
+[by-proper-thing-inquiry](samyagvastuvicāreṇa) [of-states-non-nature](bhāvānāmāsvabhāvataḥ)
 
 ## mukta-m0-p22-v537
-thus(iti) by-reasoning-of-siddha-mouth-tradition(siddha+mukha+āmnāya+yuktyā) not(na) indeed(eva) exists(asti) in-reality(vastutaḥ)
+[thus](iti) [by-siddha-tradition-reasoning](siddhamukhāmnāyayuktyā) [not-at-all](naivāsti) [in-reality](vastutaḥ)
 
 ## mukta-m0-p22-v538
-own-expansion+consisting(sva+viṣphāra+mayam) all(sarvam) this(idam) constitution(saṃsthānam) of-the-self(ātmanaḥ)
+[self-expansion-filled](svaviṣphāramayaṃ) [all-this](sarvamidaṃ) [arrangement](saṃsthānam) [of-self](ātmanaḥ)
 
 ## mukta-m0-p22-v539
-in-its-devouring+effort-intent(tad+grāsa+saṃrambha+parāḥ) which(yāḥ) and(ca) twelve(dvādaśa) phases(kālikāḥ)
+[by-that-devouring-impetus](tadgrāsasaṃrambhaparā) [and](yāśca) [twelve](dvādaśa) [temporal-ones](kālikāḥ)
 
 ## mukta-m0-p22-v540
-one(ekā) alone(eva) characterized-by-conscious+unconscious+enjoyment+non-enjoyment(cit+acit+bhoga+bhoga+nirbhoga+lakṣaṇā)
+[one-only](ekaiva) [conscious-nonconscious-enjoyment-non-enjoyment-marked](cidacidbhogabhoganirbhogalakṣaṇā)
 
 ## mukta-m0-p22-v541
-of-conceptual+non-conceptual(sa+vikalpa+a+vikalpānām) of-all(sarvāsām) consciousness+abode(saṃvid+ālayaḥ)
+[of-conceptual-nonconceptual](savikalpāvikalpānāṃ) [of-all](sarvāsā) [consciousness-abode](saṃvidālayaḥ)
 
 ## mukta-m0-p22-v542
-unmoving(acalā) vibration+devoid(spanda+rahitā) all-vibration+experiencing(sarva+spanda+upabhoginī)
+[immovable](acalā) [without-spanda](spandarahitā) [all-spanda-enjoyer](sarvaspandopabhoginī)
 
 ## mukta-m0-p22-v543
-likewise(tathā) by-worship+transitions(pūjana+saṅkrāmaiḥ) by-means(upāyaiḥ) characterized(upalakṣitā)
+[thus](tathā) [by-worship-transfers](pūjanasaṅkrāmair) [means](upāyair) [indicated](upalakṣitā)
 
 ## mukta-m0-p22-v544
-thirteenth(trayodaśī) thus(iti) which(yā) goddess(devī) is-called(kathyate) indeed(hi) metaphorically(upacārataḥ)
+[thirteenth](trayodaśī) [thus](iti) [which](yā) [goddess](devī) [said](kathyate) [indeed](hy) [by-courtesy](upacārataḥ)
 
 ## mukta-m0-p22-v545
-designations(abhidhānāni) exist(vartante) by-reasoning-going-to-the-heart(hṛdayaṅgama+yuktitaḥ)
+[names](abhidhānāni) [occur](vartante) [heart-reaching-reasoning](hṛdayaṅgamayuktitaḥ)
 
 ## mukta-m0-p22-v546
-due-to-being-seen-in-the-sequence-of-phases(kālikā+krama+dṛṣṭatvāt) metaphorically(upacāreṇa) they(tāḥ) situated(sthitāḥ)
+[by-temporal-sequence-seenness](kālikākramadṛṣṭatvāt) [by-courtesy](upacāreṇa) [they](tāḥ) [stand](sthitāḥ)
 
 ## mukta-m0-p22-v547
-how(katham) of-mantra(mantrasya) real-existence(sadbhāvaḥ) that(saḥ) perceptible(pratyakṣaḥ) also(api) or(vā) how(katham)
+[how](kathaṃ) [of-mantra](mantrasya) [reality](sadbhāvaḥ) [that](sa) [directly-perceived](pratyakṣo) [or](api) [vā](vā) [how](katham)
 
 ## mukta-m0-p22-v548
-five-point+consisting(pañca+piṇḍa+ātmakaḥ) also(api) may-be(syāt) for-the-seer-of-subtle-perception(sūkṣma+pratyakṣa+darśinaḥ)
+[five-lumps-bodied](pañcapiṇḍātmako) [also](api) [syāt](syāt) [subtle-direct-seer](sūkṣmapratyakṣadarśinaḥ)
 
 ## mukta-m0-p22-v549
-metaphorically(upacāreṇa) its-functioning(tad+vṛtti) phase(kālikā) sequence+accessible(krama+gocarā)
+[by-courtesy](upacāreṇa) [its-function](tadvṛtti) [temporal-sequence-object](kālikākramagocarā)
 
 ## mukta-m0-p22-v550
-all-desire+devoid(sarva+ākāṅkṣā+virahitā) rest(viśrāntiḥ) arises(jāyate) supreme(parā)
+[all-desire-free](sarvākāṅkṣāvirahitā) [rest](viśrāntiḥ) [arises](jāyate) [supreme](parā)

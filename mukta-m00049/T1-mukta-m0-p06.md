@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p06-v126
-[to-be-established](pratipādyaḥ) [am-I](asmi) [not](na) [other](anyaḥ) [is](asti) [lord](prabhuḥ) [in-world](jagati) [me](māṃ) [without](vinā)
+[to-be-explained](pratipādyo'smi) [not-other](nānyo'sti) [lord](prabhur) [in-world](jagati) [except-me](māṃ vinā)
 
 ## mukta-m0-p06-v127
-[truth](satyam) [thus](iti) [indeed](hi) [iti](iti) [in-emphasis](avadhāraṇe)
+[truth](satyam) [thus](iti) [indeed](hi) [ascertainment](avadhāraṇe)
 
 ## mukta-m0-p06-v128
-[by-me](mayā) [alone](eva) [spoken](uktam) [thus](iti) [connection](anvayaḥ)
+[by-me-alone](mayaivoktam) [thus](iti) [connection](anvayaḥ)
 
 ## mukta-m0-p06-v129
 [to-be-instructed](bodhayitavyaḥ)
 
 ## mukta-m0-p06-v130
-[my](mat) [path](mārga) [averse](vimukhāḥ) [people](lokāḥ) [heretics](pāṣaṇḍāḥ) [brahman](brahma) [killers](ghātinaḥ)
+[turned-from-my-path](manmārgavimukhāḥ) [people](lokāḥ) [heretics](pāṣaṇḍāḥ) [brahmin-killers](brahmaghātinaḥ)
 
 ## mukta-m0-p06-v131
-[fruitless](niṣphalaṃ) [that](tat) [would-be](bhavet) [O-goddess](devi) [doer](kartā) [also](api) [hell-dweller](nārakī) [would-be](bhavet)
+[fruitless](niṣphalaṃ) [that](tad) [would-be](bhaved) [goddess](devi) [doer](kartā) [also](api) [hell-dweller](nārakī) [would-become](bhavet)
 
 ## mukta-m0-p06-v132
-[brahman](brahma) [killer](hā) [father](pitṛ) [killer](hā) [woman](strī) [killer](ghnaḥ) [he](saḥ) [would-be](bhavet) [not](na) [here](atra) [doubt](saṃśayaḥ)
+[brahmin-slayer](brahmahā) [father-slayer](pitṛhā) [woman-slayer](strīghnaḥ) [he](sa) [would-become](bhavet) [no](nātra) [doubt](saṃśayaḥ)
 
 ## mukta-m0-p06-v133
-[praised](śastāḥ) [in-actions](karmasu) [in-all](sarveṣu) [recitation](japa) [sacrifice](yajña) [rite](kriyā) [and-so-forth](ādiṣu)
+[praised](śastāḥ) [in-works](karmasu) [all](sarveṣu) [japa-sacrifice-rites](japayajñakriyādiṣu)
 
 ## mukta-m0-p06-v134
-[in-truth-age](satya) [and-so-forth](ādau) [fruitful](saphalāḥ) [were](āsan) [in-kali-age](kalau) [they](te) [dead](mṛtakāḥ) [like](iva)
+[from-truth-onward](satyādau) [fruitful](saphalāḥ) [were](āsan) [in-kali](kalau) [they](te) [like-dead](mṛtakā) [iva](iva)
 
 ## mukta-m0-p06-v135
-[brahman](brahma) [killers](ghātinaḥ) [would-be](bhaveyuḥ) [thus](iti) [remainder](śeṣaḥ)
+[brahmin-killers](brahmaghātinaḥ) [would-become](bhaveyur) [iti](iti) [remainder](śeṣaḥ)
 
 ## mukta-m0-p06-v136
-[of-those](tat) [of-those](tat) [fruit](phala) [giver-ness](pradātṛtvāt) [and](ca) [very-great](ati) [excellence](prāśastyam) [states](āha) [in-kali-age](kalau) [thus](iti) [and-so-forth](ādibhiḥ)
+[thereby-fruit-giving](tattatphalapradātṛtvāt) [and](ca) [excessive-praise](atiprāśastyam) [says](āha) [in-kali](kalau) [ityādibhiḥ](ityādibhiḥ)
 
 ## mukta-m0-p06-v137
-[of-those](tat) [of-those](tat) [fruits](phalāni) [non-producers](aniṣpādakāḥ) [and](ca) [to-be-understood](boddhavyāḥ) [thus](iti) [connection](anvayaḥ)
+[non-fruit-producing](tattatphalāniṣpādakāḥ) [ca](ca) [to-be-understood](boddhavyāḥ) [iti](iti) [anvayaḥ](anvayaḥ)
 
 ## mukta-m0-p06-v138
-[powerless](amūra) [powers](śaktāḥ) [in-actions](kāryeṣu) [likewise](tathā) [others](anye) [mantra](mantra) [multitudes](rāśayaḥ)
+[unwise-powers](amūraśaktāḥ) [in-works](kāryeṣu) [thus](tathā) [other](anye) [mantra-collections](mantrarāśayaḥ)
 
 ## mukta-m0-p06-v139
-[not](na) [there](tatra) [fruit](phala) [accomplishment](siddhiḥ) [would-be](syāt) [effort](śramaḥ) [alone](eva) [indeed](hi) [only](kevalam)
+[not](na) [there](tatra) [fruit-success](phalasiddhiḥ) [would-be](syāt) [toil](śramaḥ) [indeed](eva) [hi](hi) [only](kevalam)
 
 ## mukta-m0-p06-v140
-[thirsty](tṛṣitaḥ) [on-ganges](jāhnavī) [bank](tīre) [well](kūpaṃ) [digs](khanati) [fool](durmatiḥ)
+[thirsty](tṛṣitaḥ) [on-ganges-bank](jāhnavītīre) [well](kūpaṃ) [digs](khanati) [foolish](durmatiḥ)
 
 ## mukta-m0-p06-v141
-[nectar](amṛtaṃ) [in-own-house](sva+gṛhe) [having-abandoned](tyaktvā) [milk](kṣīram) [arka-tree](ārkam) [he](saḥ) [desires](vāñchati)
+[nectar](amṛtaṃ) [in-own-house](svagṛhe) [abandoning](tyaktvā) [milk](kṣīram) [arka](ārkam) [he](sa) [desires](vāñchati)
 
 ## mukta-m0-p06-v142
-[as](yathā) [by-tantra](tantra) [taught](uditaḥ) [path](mārgaḥ) [for-liberation](mokṣāya) [and](ca) [for-happiness](sukhāya) [and](ca)
+[as](yathā) [tantra-declared](tantroditaḥ) [path](mārgaḥ) [for-liberation](mokṣāya) [ca](ca) [for-happiness](sukhāya) [ca](ca)
 
 ## mukta-m0-p06-v143
-[of-accomplished](siddhānāṃ) [of-practitioners](sādhakānām) [and](ca) [methods](vidhānāni) [and](ca) [abundant](bhūriśaḥ)
+[of-accomplished](siddhānāṃ) [of-practitioners](sādhakānāñca) [arrangements](vidhānāni) [ca](ca) [abundant](bhūriśaḥ)
 
 ## mukta-m0-p06-v144
-[ascertained](niścitam) [this](etat)
+[certain](niścitam) [this](etat)
 
 ## mukta-m0-p06-v145
-[desires](vāñchati) [arka-tree-produced](ārkam) [arka](arka) [tree](vṛkṣa) [produced](udbhavam)
+[desires](vāñchati) [arka](ārkam) [from-arka-tree](arkavṛkṣodbhavam)
 
 ## mukta-m0-p06-v146
-[not](na) [other](anyaḥ) [thus](iti) [in-other-world](amutra) [in-higher-world](pare) [in-world](loke)
+[not-other](nānya) [iti](iti) [there](amutra) [other-world](pare loke)
 
 ## mukta-m0-p06-v147
-[kula](kula) [practice](ācāra) [taught](uditam) [dharma](dharmam) [for-secrecy](gupti+artham) [declared](kathitam) [somewhere](kvacit)
+[kula-practice-declared](kulācāroditaṃ) [dharma](dharmaṃ) [for-protection](guptyarthaṃ) [spoken](kathitaṃ) [somewhere](kvacit)
 
 ## mukta-m0-p06-v148
-[gods](devāḥ) [of-various-kinds](nānā+vidhāḥ) [declared](proktāḥ) [goddesses](devyaḥ) [also](api) [in-many-ways](bahudhāḥ) [O-beloved](priye)
+[gods](devāḥ) [various](nānāvidhāḥ) [declared](proktāḥ) [goddesses](devyo'pi) [many](bahudhāḥ) [dear](priye)
 
 ## mukta-m0-p06-v149
-[shaktas](śāktāḥ) [shaivas](śaivāḥ) [vaishnavas](vaiṣṇavāḥ) [and](ca) [sauras](saurāḥ) [ganapatas](gāṇapatāḥ) [and-so-forth](ādayaḥ)
+[shakta](śāktāḥ) [shaiva](śaivāḥ) [vaishnava](vaiṣṇavāśca) [saura](saurāḥ) [ganapatya](gāṇapatādayaḥ)
 
 ## mukta-m0-p06-v150
-[by-much](bhūri) [effort](prayāsa) [to-be-accomplished](sādhyāni) [as-stated](yathā+ukta) [fruit](phala) [giving](dāni) [and](ca)
+[much-effort-achieved](bhūriprayāsasādhyāni) [as-declared-fruit-giving](yathoktaphaladāni) [ca](ca)
