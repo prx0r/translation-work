@@ -20,7 +20,7 @@
 },
 {
 "surface": "navarūpātmikā",
-"quick_gloss": "nine-form-essence"
+"quick_gloss": "nine-form-natured"
 },
 {
 "surface": "parā",
@@ -41,7 +41,7 @@
 },
 {
 "surface": "durgeti",
-"quick_gloss": "Durga-thus"
+"quick_gloss": "Durga"
 },
 {
 "surface": "smṛtā",
@@ -53,7 +53,7 @@
 },
 {
 "surface": "brahmāṇḍodaravartinī",
-"quick_gloss": "Brahma-egg-belly-dwelling"
+"quick_gloss": "Brahmanda-belly-dwelling"
 }
 ]
 },
@@ -65,16 +65,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "mahiṣasya",
-"quick_gloss": "mahiṣa's"
-},
-{
-"surface": "asurendrasya",
-"quick_gloss": "asura-lord's"
+"surface": "mahiṣasyāsurendrasya",
+"quick_gloss": "of-buffalo-demon-lord"
 },
 {
 "surface": "vadhārthāya",
-"quick_gloss": "for-slaying-purpose"
+"quick_gloss": "for-slaying"
 },
 {
 "surface": "avatāritā",
@@ -103,7 +99,7 @@
 },
 {
 "surface": "śrīvidyāṃ",
-"quick_gloss": "Sri-vidya"
+"quick_gloss": "Shri-vidya"
 },
 {
 "surface": "paramāṃ",
@@ -128,23 +124,23 @@
 },
 {
 "surface": "śrutvā",
-"quick_gloss": "having-heard"
+"quick_gloss": "hearing"
 },
 {
 "surface": "sa",
-"quick_gloss": "he"
+"quick_gloss": "that"
 },
 {
-"surface": "śivo",
+"surface": "śivaḥ",
 "quick_gloss": "Shiva"
 },
 {
 "surface": "jātaḥ",
-"quick_gloss": "born"
+"quick_gloss": "became"
 },
 {
 "surface": "pañcanādātmakaḥ",
-"quick_gloss": "five-sound-essence"
+"quick_gloss": "five-sound-natured"
 },
 {
 "surface": "śivaḥ",
@@ -161,11 +157,11 @@
 "tokens": [
 {
 "surface": "sākṣādbhuvanarūpāpi",
-"quick_gloss": "directly-world-form-even"
+"quick_gloss": "directly-world-formed"
 },
 {
 "surface": "mahājyotiḥsvarūpiṇī",
-"quick_gloss": "great-light-essence"
+"quick_gloss": "great-light-form"
 }
 ]
 },
@@ -211,7 +207,7 @@
 },
 {
 "surface": "agramanunāyakaḥ",
-"quick_gloss": "fierce-leader"
+"quick_gloss": "first-leader"
 }
 ]
 },
@@ -228,11 +224,7 @@
 },
 {
 "surface": "jajāpa",
-"quick_gloss": "chanted"
-},
-{
-"surface": "sahasā",
-"quick_gloss": "suddenly"
+"quick_gloss": "suddenly-chanted"
 },
 {
 "surface": "bījaṃ",
@@ -281,16 +273,12 @@
 "quick_gloss": "sound"
 },
 {
-"surface": "sa",
-"quick_gloss": "he"
-},
-{
-"surface": "śuśrāva",
-"quick_gloss": "heard"
+"surface": "sa+śuśrāva",
+"quick_gloss": "he-heard"
 },
 {
 "surface": "duṣṭavarṇavivarjitam",
-"quick_gloss": "evil-letter-devoid"
+"quick_gloss": "free-from-bad-syllables"
 }
 ]
 },
@@ -310,12 +298,8 @@
 "quick_gloss": "having-chanted"
 },
 {
-"surface": "parāṃ",
-"quick_gloss": "supreme"
-},
-{
-"surface": "vidyām",
-"quick_gloss": "vidya"
+"surface": "parāṃ+vidyām",
+"quick_gloss": "supreme-vidya"
 },
 {
 "surface": "asṛjat",
@@ -348,11 +332,11 @@
 },
 {
 "surface": "viśveśvari",
-"quick_gloss": "O-world-mistress"
+"quick_gloss": "of-universe-lord"
 },
 {
 "surface": "carācaram",
-"quick_gloss": "moving-nonmoving"
+"quick_gloss": "moving-immoving"
 }
 ]
 },
@@ -374,10 +358,6 @@
 {
 "surface": "guptavidyāṃ",
 "quick_gloss": "secret-vidya"
-},
-{
-"surface": "tu",
-"quick_gloss": "indeed"
 },
 {
 "surface": "labdhvā",
@@ -405,19 +385,11 @@
 "quick_gloss": "fire"
 },
 {
-"surface": "ca",
-"quick_gloss": "and"
-},
-{
-"surface": "kāmaṃ",
+"surface": "ca+kāmaṃ",
 "quick_gloss": "desire"
 },
 {
-"surface": "ca",
-"quick_gloss": "and"
-},
-{
-"surface": "dhanaṃ",
+"surface": "ca+dhanaṃ",
 "quick_gloss": "wealth"
 },
 {
@@ -425,12 +397,8 @@
 "quick_gloss": "conduct"
 },
 {
-"surface": "ca",
-"quick_gloss": "and"
-},
-{
 "surface": "sādhakaḥ",
-"quick_gloss": "adept"
+"quick_gloss": "practitioner"
 }
 ]
 },
@@ -442,12 +410,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "śrīcakram",
-"quick_gloss": "Sri-chakra"
+"surface": "śrīcakramidam",
+"quick_gloss": "Shri-chakra"
 },
 {
-"surface": "idamādhāraṃ",
-"quick_gloss": "this-foundation"
+"surface": "ādhāraṃ",
+"quick_gloss": "support"
 },
 {
 "surface": "devyā",
@@ -455,7 +423,7 @@
 },
 {
 "surface": "vibhavakāraṇam",
-"quick_gloss": "power-cause"
+"quick_gloss": "of-glory-cause"
 }
 ]
 },
@@ -471,7 +439,7 @@
 "quick_gloss": "chakra"
 },
 {
-"surface": "likhet",
+"surface": "likhen",
 "quick_gloss": "draw"
 },
 {
@@ -501,19 +469,11 @@
 },
 {
 "surface": "saṃpūjayet",
-"quick_gloss": "worship"
-},
-{
-"surface": "yaḥ",
-"quick_gloss": "whoever"
-},
-{
-"surface": "tu",
-"quick_gloss": "tu"
+"quick_gloss": "who-worships"
 },
 {
 "surface": "nīlābhāṃ",
-"quick_gloss": "blue-hued"
+"quick_gloss": "blue"
 },
 {
 "surface": "dāhanīṃ",
@@ -534,19 +494,15 @@
 "tokens": [
 {
 "surface": "lasanmukuṭarociṣṇuḥ",
-"quick_gloss": "shining-crown-radiant"
+"quick_gloss": "shining-crown"
 },
 {
-"surface": "sa",
-"quick_gloss": "he"
-},
-{
-"surface": "bhavet",
-"quick_gloss": "becomes"
+"surface": "sa+bhavet",
+"quick_gloss": "he-becomes"
 },
 {
 "surface": "sādhakottamaḥ",
-"quick_gloss": "best-adept"
+"quick_gloss": "best-practitioner"
 }
 ]
 },
@@ -584,7 +540,7 @@
 },
 {
 "surface": "sādhakasya",
-"quick_gloss": "adept's"
+"quick_gloss": "of-practitioner"
 },
 {
 "surface": "aṅgapūjanāt",
@@ -601,7 +557,7 @@
 "tokens": [
 {
 "surface": "vidrutāḥ",
-"quick_gloss": "fled"
+"quick_gloss": "melted"
 }
 ]
 },
@@ -618,7 +574,7 @@
 },
 {
 "surface": "ratnavatī",
-"quick_gloss": "gem-filled"
+"quick_gloss": "gem-like"
 },
 {
 "surface": "bhūmiḥ",
@@ -663,7 +619,7 @@
 },
 {
 "surface": "durgatināśinīm",
-"quick_gloss": "misery-destroying"
+"quick_gloss": "misery-destroyer"
 }
 ]
 },

@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p49-v1201
-five-acts-having [pañcakṛtyamayī] goddess [devī] all-goddess-having [sarvadevīmayī] auspicious [śivā]
+five-acts-containing [k,kh,g: knowable] goddess all-goddess-containing auspicious
 
 ## mukta-m0-p49-v1202
-great-dark [mahāśyāmā] great-knowledge [mahāvidyā] worship-worthy [pūjanīyā] in-order [yathākramam]
+great-dark great-knowledge worshipful in-order
 
 ## mukta-m0-p49-v1203
-of-gaṇeśa-sun-śiva-durgā [gaṇeśārkaharīśāna+durgāṇāṃ] supreme-truth-knower [paramārthavit]
+Ganesha-sun-Hari-Ishana Durgas' supreme-truth-knower
 
 ## mukta-m0-p49-v1204
-in-goddess-circle [devīcakre] worship [arcayet] all [sarvāṃś] in-śiva-liṅga [śivaliṅge] or [athavā] in-śiva [śive]
+in-goddess-circle worship all in-Shiva-linga or in-Shiva
 
 ## mukta-m0-p49-v1205
-with-śrī-gaṇeśvara-circle [śrīgaṇeśvaracakreṇa] not [ma] difference [bhedaṃ] make [kārayed] wise-one [budhaḥ]
+by-Shri-Ganesha-circle not difference make wise
 
 ## mukta-m0-p49-v1206
-separately [pṛthak] separately [pṛthak] in-śiva [śive] do [kuryād] worship [arcanaṃ] kaula-best [kaulikottamaḥ]
+separately separately in-Shiva do worship Kaulika-best
 
 ## mukta-m0-p49-v1207
-of-śrī-goddess [śrīdevyā] of-fierce-durgā [ugradurgāyā] mantra-knower [mantrī] goddess-secret-knower [devīrahasyavit]
+of-Shri-devi of-ugra-durga mantra-knower goddess-secret-knower [k: vat]
 
 ## mukta-m0-p49-v1208
-secret-victory [rahasyavijayaṃ] named [nāma] tantra [tantraṃ] tantra-uttara-half [tantrottarārdhakam]
+secret-victory named tantra tantra-uttara-half
 
 ## mukta-m0-p49-v1209
-of-gaṇeśa [gaṇeśasya] also [ca] five-limbs [pañcāṅgaṃ] five-limbs [pañcāṅgaṃ] of-savitṛ [savitustathā]
+of-Ganesha and five-limbed five-limbed of-Savitri likewise
 
 ## mukta-m0-p49-v1210
-of-durgā-goddess [durgādevyāśca] five-limbs [pañcāṅgaṃ] durgā-goddess-secret [durgādevīrahasyakam]
+of-Durga-devi and five-limbed Durga-devi-secret
 
 ## mukta-m0-p49-v1211
-all-this [sarvasvametad] O-goddess-lord [deveśi] tantra [tantraṃ] goddess-secret [devīrahasyakam]
+all-this O-goddess-lord tantra goddess-secret
 
 ## mukta-m0-p49-v1212
-first [prathamaṃ] O-goddess [devi] five-limbs [pañcāṅgaṃ] of-great-gaṇapati [mahāgaṇapateḥ] hear [śṛṇu]
+first O-goddess five-limbed of-Mahaganapati hear
 
 ## mukta-m0-p49-v1213
-on-meru-back [merupṛṣṭhe] comfortably-seated [sukhāsīnaṃ] great-god [mahādevaṃ] three-eyed [trilocanam]
+on-Meru-back comfortably-seated great-god three-eyed
 
 ## mukta-m0-p49-v1214
-with-siddha-kinnara-gandharva [siddhakinnaragandharvaiḥ] yakṣa-bhūta-piśāca [yakṣabhūtapiśācakaiḥ]
+with-siddhas-kinnaras-gandharvas-yakshas-bhutas-pishachas
 
 ## mukta-m0-p49-v1215
-smiling [sasmitaṃ] speaking [bhāṣamāṇaṃ] and [ca] with-brahmā [brahmaṇā] with-hari [hariṇā] together [saha]
+smiling speaking and with-Brahma with-Hari together
 
 ## mukta-m0-p49-v1216
-of-work [kāryasya] of-deities [devatānāṃ] and [ca] of-men [manuṣyāṇāṃ] likewise [tathaiva] and [ca]
+of-action of-deities and of-humans likewise and
 
 ## mukta-m0-p49-v1217
-not-to-be-spoken [avaktavyam] to-non-devotees [abhaktebhyo] to-devotees [bhaktebhyo] liberation-means [muktisādhanam]
+not-to-be-spoken to-non-devotees to-devotees liberation-means
 
 ## mukta-m0-p49-v1218
-obstacle-maker [vighnakartā] world-protector [jagattrātā] obstacle-remover [vighnahartā] thus [iti] famous [viśrutaḥ]
+obstacle-maker world-protector obstacle-remover thus famous
 
 ## mukta-m0-p49-v1219
-obstacle [vighno] not [na] afflicts [bādhate] ever [jātu] who [yaḥ] him [taṃ] worships [saṃpūjayet] always [sadā]
+obstacle not afflicts ever [k: his] who him worship always
 
 ## mukta-m0-p49-v1220
-recite [paṭhet] of-names [nāmnāṃ] thousand [sahasraṃ] indeed [tu] hymn [stotraṃ] root-single-means [mūlaikasādhanam]
+read names thousand indeed hymn root-single-means
 
 ## mukta-m0-p49-v1221
-mantra [mantraṃ] yantra [yantraṃ] praise [stavaṃ] armor [varma] of-names [nāmnāṃ] thousand-supreme [sahasramuttamam]
+mantra yantra praise armor names thousand supreme
 
 ## mukta-m0-p49-v1222
-elephant-faced [gajānano] gaṇa-leader [gaṇādhyakṣo] vināyaka [vināyaka] thus [iti] heard [śrutaḥ]
+elephant-faced Gana-leader Vinayaka thus heard
 
 ## mukta-m0-p49-v1223
-there-first [tatrādau] to-you [te] I-will-declare [pravakṣyāmi] mantra-extraction [mantroddhāraṃ] O-goddess-lord [sureśvari]
+there first to-you I-will-declare mantra-extraction O-goddess-lord
 
 ## mukta-m0-p49-v1224
-this [ayaṃ] twenty-eight-lettered [hyaṣṭāviṃśativarṇako] declared [nigadito] vaināyaka [vaināyako] mantra [manuḥ]
+indeed twenty-eight-letter declared Vinayaka this mantra
 
 ## mukta-m0-p49-v1225
-at-banyan [vaṭe] at-crossroads [catuṣpathe] in-empty-house [śūnyagṛhe] in-pretā-abode [pretālaye] perform [caret]
+under-banyan at-crossroads in-empty-house in-ghost-abode practice

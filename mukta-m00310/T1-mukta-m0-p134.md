@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p134-v3326
-[with-lord](seśvarāḥ) [suddenly](sahasā) [his](tasya) [control](vaśam) [will-go](eṣyanti) [undoubtedly](asaṃśayam)
+[with-lords](seśvarāḥ) [suddenly](sahasā) [his](tasya) [into-control](vaśam) [will-go](eṣyanti) [without-doubt](asaṃśayam)
 
 ## mukta-m0-p134-v3327
-[alone](ekākī) [should-recite](prajapet) [there](tatra) [having-made](kṛtvā) [drink-anointing](pānāñjanaṃ) [O-Śiva](śive)
+[single](ekākī) [should-recite](prajapet) [there](tatra) [having-made](kṛtvā) [drink-ointment](pānāñjanam) [in-Shiva](śive)
 
 ## mukta-m0-p134-v3328
-[pyre-charcoal-heap](citāṅgāracaye) [goddess](devi) [of-enemy](ripoḥ) [expulsion](uccāṭanaṃ) [becomes](bhavet)
+[pyre-charcoal-heap](citāṅgāracaye) [goddess](devi) [of-enemy](ripoḥ) [expulsion](uccāṭanam) [becomes](bhavet)
 
 ## mukta-m0-p134-v3329
-[having-gone](gatvā) [temple](devālayaṃ) [goddess](devi) [goddess](devīṃ) [having-meditated](dhyātvā) [according-to-rite](yathāvidhi)
+[having-gone](gatvā) [to-temple](devālayam) [goddess](devi) [goddess](devīm) [having-meditated](dhyātvā) [according-to-rite](yathāvidhi)
 
 ## mukta-m0-p134-v3330
-[there](tatra) [triangular-pit](trikoṇakuṇḍe) [indeed](tu) [should-offer](hunet) [ghee](ājyaṃ) [with-airāvata](samairavam)
+[there](tatra) [in-triangular-pit](trikoṇakuṇḍe) [indeed](tu) [should-offer](hunet) [ghee](ājyam) [with-sesame](samairavam)
 
 ## mukta-m0-p134-v3331
-[immediately](sadyaḥ) [of-all-fears](sarvabhayānāṃ) [and](ca) [peace](śāntiḥ) [becomes](bhavati) [O-Pārvatī](pārvati)
+[immediately](sadyaḥ) [of-all-fears](sarvabhayānām) [and](ca) [peace](śāntiḥ) [becomes](bhavati) [Parvati](pārvati)
 
 ## mukta-m0-p134-v3332
-[should-recite](japet) [ten-thousand-half](ayutamardhaṃ) [or](vā) [should-offer](hunet) [milk-rice-sugar](pāyasaśarkarām)
+[should-recite](japet) [ten-thousand-or-half](ayutamardham) [or](vā) [should-offer](hunet) [rice-pudding-sugar](pāyasaśarkarām)
 
 ## mukta-m0-p134-v3333
 [thus](iti) [this](eṣa) [rite](vidhiḥ) [declared](ākhyātaḥ) [in-all-tantras](sarvatantreṣu) [hidden](gopitaḥ)
 
 ## mukta-m0-p134-v3334
-[secret-become](rahasyabhūtaḥ) [this](ayaṃ) [goddess](devi) [to-be-concealed](gopanīyaḥ) [by-liberation-seekers](mumukṣubhiḥ)
+[secret-become](rahasyabhūtaḥ) [this](ayam) [goddess](devi) [to-be-concealed](gopanīyaḥ) [by-liberation-seekers](mumukṣubhiḥ)
 
 ## mukta-m0-p134-v3335
-[thus](iti) [in-Śrī-Rudrayāmala-tantra](śrīrudrayāmale) [in-tantra](tantre) [in-Daśavidyā-secret](daśavidyārahasye) [chapter-of-Śrī-Śārikā-devī](śrīśārikādevīpaṭalaḥ)
+[thus](iti) [in-Rudrayamala-tantra](śrīrudrayāmale) [in-ten-vidyas-secret](daśavidyārahasye) [chapter-of-Sharika-devi](śrīśārikādevīpaṭalaḥ)
 
 ## mukta-m0-p134-v3336
-[prose-verse-composed](gadyapadyamayīṃ) [secret](gopyāṃ) [all-āgama-determined](sakalāgamaniścitām)
+[prose-verse-composed](gadyapadyamayīm) [secret](gopyām) [all-agamas-established](sakalāgamaniścitām)
 
 ## mukta-m0-p134-v3337
-[its](tasya) [worship](pūjā) [indeed](tu) [fruitless](viphalā) [purity-lacking](śaucahīnā) [like](yathā) [action](kriyā)
+[its](tasya) [worship](pūjā) [indeed](tu) [fruitless](viphalā) [without-purity](śaucahīnā) [like](yathā) [action](kriyā)
 
 ## mukta-m0-p134-v3338
-[thus](iti) [in-Śrī-Rudrayāmala](śrīrudrayāmale) [tantra](tantre) [Daśavidyā-secret](daśavidyārahasye) [method-of-Śrī-Śārikā](śrīśārikāyāḥ) [paddhatiḥ](paddhatiḥ)
+[thus](iti) [in-Rudrayamala](śrīrudrayāmale) [in-ten-vidyas-secret](daśavidyārahasye) [method-of-Sharika](śrīśārikāyāḥ paddhatiḥ)
 
 ## mukta-m0-p134-v3339
-[world-three-enchanting](trailokyamohanaṃ) [named](nāma) [root-mantra-composed](mūlamantramayaṃ) [supreme](param)
+[worlds-bewitching](trailokyamohanam) [named](nāma) [root-mantra-composed](mūlamantramayam) [supreme](param)
 
 ## mukta-m0-p134-v3340
-[all-calamity-crossing](sarvāpattāraṇaṃ) [divine](divyaṃ) [all-siddhi-giving](sarvasiddhipradaṃ) [in-Kali](kalau)
+[all-calamities-crossing](sarvāpattāraṇam) [divine](divyam) [all-accomplishments-giving](sarvasiddhipradam) [in-Kali](kalau)
 
 ## mukta-m0-p134-v3341
-[by-holding](dhāraṇād) [of-this](asya) [goddess-of-gods](deveśi) [by-Viṣṇu](viṣṇunā) [he](sa) [water-born](jalodbhavaḥ)
+[by-holding](dhāraṇād) [of-it](asya) [goddess](deveśi) [by-Vishnu](viṣṇunā) [he](sa) [water-born](jalodbhavaḥ)
 
 ## mukta-m0-p134-v3342
-[by-me-too](mayāpi) [Tripura-overseer](tripurādhyakṣo) [demon](dānavo) [by-Jiṣṇu](jiṣṇunā) [strength](balaḥ)
+[by-me-too](mayāpi) [Tripura-overseer](tripurādhyakṣaḥ) [demon](dānavaḥ) [by-Jishnu](jiṣṇunā) [strength](balaḥ)
 
 ## mukta-m0-p134-v3343
 [of-this-armor](kavacasyāsya) [goddess](deveśi) [seer](ṛṣiḥ) [Bhairava](bhairavaḥ) [declared](īritaḥ)
 
 ## mukta-m0-p134-v3344
-[for-world-three-enchanting-vidyā](trailokyamohavidyārthe) [application](viniyogaḥ) [declared](prakīrtitaḥ)
+[for-worlds-bewitching-vidya](trailokyamohavidyārthe) [application](viniyogaḥ) [proclaimed](prakīrtitaḥ)
 
 ## mukta-m0-p134-v3345
-[mantra](oṃ hrīṃ caṇḍī lalāṭaṃ me jagadullāsarūpiṇī)
+[om-hrim-Chandi](oṃ hrīṃ caṇḍī) [forehead](lalāṭam) [my](me) [world-radiance-form](jagadullāsarūpiṇī)
 
 ## mukta-m0-p134-v3346
-[mantra](oṃ hrīṃ śrīṃ hūṃ ca netre'vyāt sarvamaṅgalamaṅgalā)
+[om-hrim-shrim-hum](oṃ hrīṃ śrīṃ hūṃ) [and](ca) [eyes](netre) [protect](avyāt) [all-auspicious-of-auspicious](sarvamaṅgalamaṅgalā)
 
 ## mukta-m0-p134-v3347
-[mantra](oṃ hrīṃ śrīṃ hūṃ phrāṃ āṃ pātu nāsāṃ nārāyaṇeśvarī)
+[om-hrim-shrim-hum-phram-am](oṃ hrīṃ śrīṃ hūṃ phrāṃ āṃ) [protect](pātu) [nose](nāsām) [Narayanesvari](nārāyaṇeśvarī)
 
 ## mukta-m0-p134-v3348
-[mantra](aṃāṃiṃīṃ radān pātu mātṛkāśekhareśvarī)
+[aṃ-āṃ-iṃ-īṃ](aṃāṃiṃīṃ) [teeth](radān) [protect](pātu) [Matrka-crown-goddess](mātṛkāśekhareśvarī)
 
 ## mukta-m0-p134-v3349
-[mantra](oṃauṃaṃaḥ galaṃ pātu nīlakaṇṭhāsaneśvarī)
+[om-aum-am-ah](oṃauṃaṃaḥ) [throat](galaṃ) [protect](pātu) [Nilakanthasanesvari](nīlakaṇṭhāsaneśvarī)
 
 ## mukta-m0-p134-v3350
-[mantra](caṃchaṃjaṃjhaṃñaṃ me pāyād vakṣo vāmapriyāmbikā)
+[caṃ-chaṃ-jaṃ-jhaṃ-ñaṃ](caṃchaṃjaṃjhaṃñaṃ) [my](me) [protect](pāyāt) [chest](vakṣaḥ) [left-beloved-Ambika](vāmapriyāmbikā)

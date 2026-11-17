@@ -2,52 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p140-v3476
-[pada](jhampā) [pada](jhiṃjheśvarī) [pada](jhāntā) [pada](jhakārākṣaramātṛkā)
+[jumping](jhampā) [mistress-of-jingling](jhiṃjheśvarī) [cleansed](jhāntā) [mother-of-letter-jha](jhakārākṣaramātṛkā)
+
 ## mukta-m0-p140-v3477
-[pada](ñavargabījabhūṣāḍhyā) [pada](ñakārākṣaramātṛkā)
+[adorned-with-seed-ña](ñavargabījabhūṣāḍhyā) [mother-of-letter-ña](ñakārākṣaramātṛkā)
+
 ## mukta-m0-p140-v3478
-[pada](ṭaṅkāyudhā) [pada](ṭalīrūpā) [pada](ṭakārākṣaramātṛkā)
+[weapon-ṭaṅka](ṭaṅkāyudhā) [form-ṭalī](ṭalīrūpā) [mother-of-letter-ṭa](ṭakārākṣaramātṛkā)
+
 ## mukta-m0-p140-v3479
-[pada](ṭhaḥsvarūpā) [pada](ṭhavarṇāḍhyā) [pada](ṭhakārākṣaramātṛkā)
+[form-ṭha](ṭhaḥsvarūpā) [rich-in-ṭha](ṭhavarṇāḍhyā) [mother-of-letter-ṭha](ṭhakārākṣaramātṛkā)
+
 ## mukta-m0-p140-v3480
-[pada](ḍhiṇī) [pada](ḍhehā) [pada](ḍhillahastā) [pada](ḍhakārākṣaramātṛkā)
+[ḍhiṇī](ḍhiṇī) [ḍhehā](ḍhehā) [hand-ḍhilla](ḍhillahastā) [mother-of-letter-ḍha](ḍhakārākṣaramātṛkā)
+
 ## mukta-m0-p140-v3481
-[pada](turī) [pada](turyā) [pada](tulārūpā) [pada](tripurā) [pada](tāmasapriyā)
+[turī](turī) [turyā](turyā) [form-tulā](tulārūpā) [tripurā](tripurā) [dear-to-tamas](tāmasapriyā)
+
 ## mukta-m0-p140-v3482
-[pada](tripurā) [pada](triguṇā) [pada](dhyeyā) [pada](tryambakeśī) [pada](trilokadhṛt)
+[tripurā](tripurā) [three-guṇa](triguṇā) [meditated](dhyeyā) [tryambakeśī](tryambakeśī) [supporter-of-three-worlds](trilokadhṛt)
+
 ## mukta-m0-p140-v3483
-[pada](trilokajananī) [pada](trātā) [pada](tripureśvarapūjitā)
+[mother-of-three-worlds](trilokajananī) [savior](trātā) [worshipped-by-tripureśvara](tripureśvarapūjitā)
+
 ## mukta-m0-p140-v3484
-[pada](trikoṇapūjanatuṣṭā) [pada](trikoṇapūjanaśritā)
+[pleased-by-triangle-worship](trikoṇapūjanatuṣṭā) [resorted-to-triangle-worship](trikoṇapūjanaśritā)
+
 ## mukta-m0-p140-v3485
-[pada](vasukoṇasthitādevī) [pada](vasukoṇārthavādinī)
+[goddess-in-eight-corner](vasukoṇasthitādevī) [speaker-of-eight-corner-meaning](vasukoṇārthavādinī)
+
 ## mukta-m0-p140-v3486
-[pada](nāgapatrasthitā) [pada](śārī) [pada](trivṛttapūjanārthadā)
+[situated-on-snake-leaf](nāgapatrasthitā) [śārī](śārī) [giver-of-three-circle-worship](trivṛttapūjanārthadā)
+
 ## mukta-m0-p140-v3487
-[pada](tāmasī) [pada](tomaraprakhyā) [pada](tumburusvananādinī)
+[tāmasī](tāmasī) [like-tomara](tomaraprakhyā) [sounding-tumburu](tumburusvananādinī)
+
 ## mukta-m0-p140-v3488
-[pada](taralākṣī) [pada](tamohartrī) [pada](tārakāsuraghātinī)
+[restless-eyed](taralākṣī) [destroyer-of-darkness](tamohartrī) [slayer-of-tāraka](tārakāsuraghātinī)
+
 ## mukta-m0-p140-v3489
-[pada](sthalī) [pada](sthavirarūpā) [pada](ca) [pada](sthūlā) [pada](sthālī) [pada](sthalābjinī)
+[sthalī](sthalī) [form-sthavira](sthavirarūpā) [stout](sthūlā) [sthalī](sthālī) [lotus-born-of-earth](sthalābjinī)
+
 ## mukta-m0-p140-v3490
-[pada](dūtikā) [pada](śivadūtī) [pada](ca) [pada](daṇḍāyudhadharā) [pada](dyutiḥ)
+[messenger](dūtikā) [śiva-messenger](śivadūtī) [holder-of-staff](daṇḍāyudhadharā) [radiance](dyutiḥ)
+
 ## mukta-m0-p140-v3491
-[pada](deśānucāriṇī) [pada](drekkā) [pada](drāviḍeśī) [pada](davīyasī)
+[roaming-regions](deśānucāriṇī) [drekkā](drekkā) [drāviḍa-region](drāviḍeśī) [very-swift](davīyasī)
+
 ## mukta-m0-p140-v3492
-[pada](dadhijā) [pada](durlabhā) [pada](devī) [pada](devatā) [pada](paramākṣarā)
+[born-of-curd](dadhijā) [rare](durlabhā) [goddess](devī) [deity](devatā) [supreme-syllable](paramākṣarā)
+
 ## mukta-m0-p140-v3493
-[pada](danuputrī) [pada](vināśā) [pada](ca) [pada](danuputrakulārcitā)
+[daughter-of-danu](danuputrī) [destruction](vināśā) [worshipped-by-danu-lineage](danuputrakulārcitā)
+
 ## mukta-m0-p140-v3494
-[pada](daśadhenusurūpā) [pada](ca) [pada](dakārākṣaramātṛkā)
+[form-of-ten-cows](daśadhenusurūpā) [mother-of-letter-da](dakārākṣaramātṛkā)
+
 ## mukta-m0-p140-v3495
-[pada](dhṛtirdhūrtā) [pada](dhanyavadhūrdhakārākṣaramātṛkā)
+[dhṛti](dhṛtirdhūrtā) [dhūrtā](dhūrtā) [fortunate-bride](dhanyavadhūr) [mother-of-letter-dha](dhakārākṣaramātṛkā)
+
 ## mukta-m0-p140-v3496
-[pada](nīpopavanamadhyasthā) [pada](nāgareśī) [pada](narottamā)
+[midst-of-dark-grove](nīpopavanamadhyasthā) [mistress-of-city](nāgareśī) [best-of-men](narottamā)
+
 ## mukta-m0-p140-v3497
-[pada](nṛpasevyā) [pada](nṛpavandyā) [pada](naranārāyaṇaprasūḥ)
+[served-by-kings](nṛpasevyā) [honored-by-kings](nṛpavandyā) [progenitor-of-nara-nārāyaṇa](naranārāyaṇaprasūḥ)
+
 ## mukta-m0-p140-v3498
-[pada](padmeśvarī) [pada](padmamukhī) [pada](patrayānā) [pada](parāparā)
+[mistress-of-lotus](padmeśvarī) [lotus-faced](padmamukhī) [leaf-vehicle](patrayānā) [beyond-beyond](parāparā)
+
 ## mukta-m0-p140-v3499
-[pada](pūḥ) [pada](purārivadhūḥ) [pada](pampā) [pada](patnī) [pada](patrīśavāhanā)
+[city](pūḥ) [wife-of-enemy-destroyer](purārivadhūḥ) [pampā](pampā) [wife](patnī) [bearer-of-leaf-vehicle](patrīśavāhanā)
+
 ## mukta-m0-p140-v3500
-[pada](pīṭhā) [pada](pīṭhasthitāpīṭhā) [pada](pītālaṅkārabhūṣaṇā)
+[pīṭha](pīṭhā) [seated-on-pīṭha](pīṭhasthitā) [pīṭha](pīṭhā) [adorned-with-yellow](pītālaṅkārabhūṣaṇā)

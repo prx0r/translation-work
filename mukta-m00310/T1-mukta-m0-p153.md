@@ -2,19 +2,19 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p153-v3801
-[golden-uplifted-body](kāñcanobhatanuḥ) [direction](kāṣṭhā) [leprosy-disease-destroying](kuṣṭharogavināśinī)
+[golden-radiant+body](kāñcanobhatanuḥ) [limit](kāṣṭhā) [leprosy-disease+destroyer](kuṣṭharogavināśinī)
 
 ## mukta-m0-p153-v3802
-[skin-garmented](carmāmbarā) [cruel-nailed](krūranakhā) [cakora-eyed](cakorākṣī) [four-armed](caturbhujā)
+[skin-garmented](carmāmbarā) [cruel-nailed](krūranakhā) [partridge-eyed](cakorākṣī) [four-armed](caturbhujā)
 
 ## mukta-m0-p153-v3803
-[brahma-egg-wandering](brahmāṇḍacāriṇī) [manifestation](sphūrtirbrahmāṇī) [brahma-approved](brahmasaṃmatā)
+[brahmāṇḍa-wandering](brahmāṇḍacāriṇī) [manifestation](sphūrtiḥ) [brahmāṇī](brahmāṇī) [brahma-approved](brahmasaṃmatā)
 
 ## mukta-m0-p153-v3804
-[wish-tree-creeper](kalpavallī) [thin-limbed](kṛṣāṅgī) [and](ca) [wish-tree-dwelling](kalpapādapavāsinī)
+[wish-fulfilling-vine](kalpavallī) [thin-limbed](kṛṣāṅgī) [wish-fulfilling-tree-dwelling](kalpapādapavāsinī)
 
 ## mukta-m0-p153-v3805
-[wealth-queen](bhūtirājñī) [universe-queen](viśvarājñī) [world-queen](lokarājñī) [shiva-refuge](śivāśrayā)
+[prosperity-queen](bhūtirājñī) [universe-queen](viśvarājñī) [world-queen](lokarājñī) [śiva-refuge](śivāśrayā)
 
 ## mukta-m0-p153-v3806
 [serpent-queen](nāgarājñī) [lineage-queen](vaṃśarājñī) [hero-queen](vīrarājñī) [dust-loving](rajaḥpriyā)
@@ -23,43 +23,43 @@
 [wealth-queen](vasurājñī) [truth-queen](satyarājñī) [austerity-queen](taporājñī) [japa-loving](japapriyā)
 
 ## mukta-m0-p153-v3808
-[compassion-maker](dayākarā)
+[compassionate-doer](dayākarā)
 
 ## mukta-m0-p153-v3809
-[earth-queen](pṛthvīrājñī) [water-queen](payorājñī) [wind-queen](vāyurājñī) [intoxicated-lazy](madālasā)
+[earth-queen](pṛthvīrājñī) [water-queen](payorājñī) [wind-queen](vāyurājñī) [delicate-slender](madālasā)
 
 ## mukta-m0-p153-v3810
 [truth-queen](tathyarājñī) [victory-queen](jayārājñī) [great-queen](mahārājñī) [clan-formed](kulākṛtiḥ)
 
 ## mukta-m0-p153-v3811
-[supreme-queen](parārājñī) [yaksha-queen](yakṣarājñī) [spirit-queen](bhūtarājñī) [shiva-seated](śivāsanā)
+[supreme-queen](parārājñī) [yakṣa-queen](yakṣarājñī) [bhūta-queen](bhūtarājñī) [śiva-seated](śivāsanā)
 
 ## mukta-m0-p153-v3812
-[sky-queen](ākāśarājñī) [king-lady](rājeśī) [king-of-kings](rājarājñī) [love-pleasing](ratipriyā)
+[ākāśa-queen](ākāśarājñī) [queen-of-kings](rājeśī) [king-of-kings](rājarājñī) [love-pleasing](ratipriyā)
 
 ## mukta-m0-p153-v3813
-[siddha-queen](siddharājñī) [splendor-queen](vibhārājñī) [radiance-queen](tejorājñī) [shining](vibhāmayī)
+[siddha-queen](siddharājñī) [vibhā-queen](vibhārājñī) [radiance-queen](tejorājñī) [illuminating](vibhāmayī)
 
 ## mukta-m0-p153-v3814
 [planet-queen](graharājñī) [creeper-queen](latārājñī) [tree-queen](vṛkṣarājñī) [wisdom-giving](matipradā)
 
 ## mukta-m0-p153-v3815
-[sage-queen](munirājñī) [jewel-queen](ratnarājñī) [age-queen](yugarājñī) [gem-radiance](maṇiprabhā)
+[sage-queen](munirājñī) [jewel-queen](ratnarājñī) [age-queen](yugarājñī) [gem-radiant](maṇiprabhā)
 
 ## mukta-m0-p153-v3816
-[dot-queen](bindurājñī) [sound-queen](nādarājñī) [soul-queen](ātmarājñī) [and](ca) [good-goal](sadgatiḥ)
+[bindu-queen](bindurājñī) [nāda-queen](nādarājñī) [ātma-queen](ātmarājñī) [true-goal](sadgatiḥ)
 
 ## mukta-m0-p153-v3817
-[ishana-queen](īśānarājñī) [king-lady](rājeśī) [svaha-queen](svāhārājñī) [greater](mahattarā)
+[īśāna-queen](īśānarājñī) [queen-of-kings](rājeśī) [svāhā-queen](svāhārājñī) [greater](mahattarā)
 
 ## mukta-m0-p153-v3818
-[world-queen](jagadrājñī) [principle-queen](tattvarājñī) [speech-queen](vāgrājñī) [universe-formed](viśvarūpiṇī)
+[world-queen](jagadrājñī) [tattva-queen](tattvarājñī) [speech-queen](vāgrājñī) [universe-formed](viśvarūpiṇī)
 
 ## mukta-m0-p153-v3819
 [thus-this](itīdaṃ) [mantra-essence](mantrasarvasvaṃ) [queen-names-thousand](rājñīnāmasahasrakam)
 
 ## mukta-m0-p153-v3820
-[all-principle-filled](sarvatattvamayaṃ) [holy](puṇyaṃ) [great-sin-destroying](mahāpātakanāśanam)
+[all-tattva-filled](sarvatattvamayaṃ) [holy](puṇyaṃ) [great-sin-destroying](mahāpātakanāśanam)
 
 ## mukta-m0-p153-v3821
 [all-calamity-pacifying](sarvotpātapraśamanaṃ) [planet-peace-making](grahaśāntikaraṃ) [supreme](param)
@@ -68,10 +68,10 @@
 [all-sorrow-flood-pacifying](sarvaduḥkhaughaśamanaṃ) [all-grief-destroying](sarvaśokavināśanam)
 
 ## mukta-m0-p153-v3823
-[from-far](dūrādeva) [flee](palāyante) [dangers](vipadaḥ) [enemy-fears](śatrubhītayaḥ)
+[from-far-away](dūrādeva) [flee](palāyante) [misfortunes](vipadaḥ) [enemy-fears](śatrubhītayaḥ)
 
 ## mukta-m0-p153-v3824
-[by-recitation](paṭhanādvidravantyāśu) [like-mahakala](mahākālādiva) [people](prajāḥ)
+[by-recitation](paṭhanād) [flee-quickly](vidravantyāśu) [great-kāla-like](mahākālādiva) [creatures](prajāḥ)
 
 ## mukta-m0-p153-v3825
-[ganga-bath-thousand](gaṅgāsnānasahasrasya) [chandrayana-ten-thousand](cāndrāyaṇāyutasya) [and](ca)
+[ganges-bath-thousand](gaṅgāsnānasahasrasya) [cāndrāyaṇa-ten-thousand](cāndrāyaṇāyutasya) [and](ca)

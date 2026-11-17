@@ -41,7 +41,7 @@
 },
 {
 "surface": "puṇyavāsare",
-"quick_gloss": "meritorious-day"
+"quick_gloss": "on-meritorious-day"
 }
 ]
 },
@@ -54,7 +54,7 @@
 "tokens": [
 {
 "surface": "gurureva",
-"quick_gloss": "teacher-alone"
+"quick_gloss": "teacher-only"
 },
 {
 "surface": "paro",
@@ -66,7 +66,7 @@
 },
 {
 "surface": "gurureva",
-"quick_gloss": "teacher-alone"
+"quick_gloss": "teacher-only"
 },
 {
 "surface": "paro",
@@ -94,12 +94,16 @@
 "quick_gloss": "pleased"
 },
 {
-"surface": "gururdevi",
+"surface": "gurur",
 "quick_gloss": "teacher"
 },
 {
+"surface": "devi",
+"quick_gloss": "goddess"
+},
+{
 "surface": "tasya",
-"quick_gloss": "of-him"
+"quick_gloss": "his"
 },
 {
 "surface": "tuṣṭā",
@@ -120,7 +124,7 @@
 "tokens": [
 {
 "surface": "samācaret",
-"quick_gloss": "should-do"
+"quick_gloss": "should-perform"
 }
 ]
 },
@@ -133,15 +137,19 @@
 "tokens": [
 {
 "surface": "gururvadati",
-"quick_gloss": "teacher"
+"quick_gloss": "teacher-says"
 },
 {
 "surface": "yat",
 "quick_gloss": "what"
 },
 {
-"surface": "sadyastat",
+"surface": "sadyas",
 "quick_gloss": "immediately"
+},
+{
+"surface": "tat",
+"quick_gloss": "that"
 },
 {
 "surface": "kuryāt",
@@ -170,15 +178,15 @@
 },
 {
 "surface": "bhajed",
-"quick_gloss": "worship"
+"quick_gloss": "should-worship"
 },
 {
 "surface": "bhaktyā",
-"quick_gloss": "devotion"
+"quick_gloss": "with-devotion"
 },
 {
 "surface": "toṣayet",
-"quick_gloss": "please"
+"quick_gloss": "should-please"
 },
 {
 "surface": "satataṃ",
@@ -207,7 +215,7 @@
 },
 {
 "surface": "pidhātavyau",
-"quick_gloss": "cover"
+"quick_gloss": "should-be-covered"
 },
 {
 "surface": "no",
@@ -223,7 +231,7 @@
 },
 {
 "surface": "palāyanam",
-"quick_gloss": "fleeing"
+"quick_gloss": "flight"
 }
 ]
 },
@@ -235,12 +243,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "gurumabhyarcayennityaṃ",
+"surface": "gurum",
 "quick_gloss": "teacher"
 },
 {
+"surface": "abhyarcayennityaṃ",
+"quick_gloss": "should-worship-always"
+},
+{
 "surface": "yena",
-"quick_gloss": "by-whom"
+"quick_gloss": "by-which"
 },
 {
 "surface": "durgā",
@@ -248,7 +260,7 @@
 },
 {
 "surface": "yena",
-"quick_gloss": "by-whom"
+"quick_gloss": "by-which"
 },
 {
 "surface": "devī",
@@ -256,7 +268,7 @@
 },
 {
 "surface": "prasīdati",
-"quick_gloss": "is-pleased"
+"quick_gloss": "becomes-pleased"
 }
 ]
 },
@@ -269,7 +281,7 @@
 "tokens": [
 {
 "surface": "sārātsārataraṃ",
-"quick_gloss": "essence-of-essence"
+"quick_gloss": "from-essence-more-essential"
 },
 {
 "surface": "devi",
@@ -277,7 +289,7 @@
 },
 {
 "surface": "gopanīyaṃ",
-"quick_gloss": "to-be-hidden"
+"quick_gloss": "to-be-concealed"
 },
 {
 "surface": "mumukṣubhiḥ",
@@ -294,7 +306,7 @@
 "tokens": [
 {
 "surface": "durgārahasyasārāḍhyaṃ",
-"quick_gloss": "durgā-secret-essence-rich"
+"quick_gloss": "rich-in-secret-essence-of-durgā"
 },
 {
 "surface": "guhyaṃ",
@@ -302,7 +314,7 @@
 },
 {
 "surface": "gopyaṃ",
-"quick_gloss": "hidden"
+"quick_gloss": "to-be-concealed"
 },
 {
 "surface": "ca",
@@ -323,7 +335,7 @@
 "tokens": [
 {
 "surface": "siddhiprado",
-"quick_gloss": "accomplishment-giving"
+"quick_gloss": "giver-of-accomplishment"
 },
 {
 "surface": "mahādevi",
@@ -347,16 +359,24 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "yattvayā",
-"quick_gloss": "that"
+"surface": "yat",
+"quick_gloss": "what"
 },
 {
-"surface": "varṇitastantraḥ",
+"surface": "tvayā",
+"quick_gloss": "by-you"
+},
+{
+"surface": "varṇitas",
 "quick_gloss": "described"
 },
 {
+"surface": "tantraḥ",
+"quick_gloss": "tantra"
+},
+{
 "surface": "śrīdurgāyāḥ",
-"quick_gloss": "śrī-durgā"
+"quick_gloss": "of-śrī-durgā"
 },
 {
 "surface": "kuleśvara",
@@ -373,11 +393,11 @@
 "tokens": [
 {
 "surface": "sarvathā",
-"quick_gloss": "always"
+"quick_gloss": "in-all-ways"
 },
 {
 "surface": "rakṣaṇīyāsmi",
-"quick_gloss": "protected"
+"quick_gloss": "to-be-protected-am-I"
 },
 {
 "surface": "kimanyat",
@@ -385,7 +405,7 @@
 },
 {
 "surface": "kathayāmi",
-"quick_gloss": "shall-I-say"
+"quick_gloss": "shall-I-tell"
 },
 {
 "surface": "te",
@@ -401,7 +421,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "adātavyamabhaktebhyo",
+"surface": "adātavyam",
 "quick_gloss": "not-to-be-given"
 },
 {
@@ -446,8 +466,12 @@
 "quick_gloss": "truth"
 },
 {
-"surface": "sarvasvamuttamam",
-"quick_gloss": "all-best"
+"surface": "sarvasvam",
+"quick_gloss": "all-essence"
+},
+{
+"surface": "uttamam",
+"quick_gloss": "supreme"
 }
 ]
 },
@@ -477,7 +501,7 @@
 "tokens": [
 {
 "surface": "śuddhipadapāṭhasumelanādyaiḥ",
-"quick_gloss": "purification-path-reading-union-etc"
+"quick_gloss": "by-purification-word-reading-union-etc"
 }
 ]
 },
@@ -489,8 +513,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "jvālāmukhyāstu",
-"quick_gloss": "jvālāmukhī"
+"surface": "jvālāmukhyās",
+"quick_gloss": "of-jvālāmukhī"
+},
+{
+"surface": "tu",
+"quick_gloss": "indeed"
 },
 {
 "surface": "sarvasvaṃ",
@@ -502,7 +530,7 @@
 },
 {
 "surface": "devadurlabham",
-"quick_gloss": "god-rare"
+"quick_gloss": "rare-for-gods"
 }
 ]
 },
@@ -524,6 +552,10 @@
 {
 "surface": "granthāni",
 "quick_gloss": "texts"
+},
+{
+"surface": "tantrāṇi",
+"quick_gloss": "kh:tantras"
 },
 {
 "surface": "vividhāni",
@@ -552,15 +584,23 @@
 },
 {
 "surface": "me",
-"quick_gloss": "me"
+"quick_gloss": "to-me"
 },
 {
 "surface": "nātha",
 "quick_gloss": "lord"
 },
 {
-"surface": "yadyahaṃ",
+"surface": "śīghraṃ pāṭhaḥ",
+"quick_gloss": "quickly-reading"
+},
+{
+"surface": "yadi",
 "quick_gloss": "if"
+},
+{
+"surface": "ahaṃ",
+"quick_gloss": "I"
 },
 {
 "surface": "preyasī",
@@ -581,7 +621,7 @@
 "tokens": [
 {
 "surface": "prayogasādhanaṃ",
-"quick_gloss": "practice-means"
+"quick_gloss": "application-means"
 },
 {
 "surface": "vakṣye",
@@ -589,11 +629,15 @@
 },
 {
 "surface": "gopyād",
-"quick_gloss": "more-secret-than-secret"
+"quick_gloss": "from-secret"
+},
+{
+"surface": "gopyataraṃ",
+"quick_gloss": "more-secret"
 },
 {
 "surface": "mama",
-"quick_gloss": "gopyataraṃ) [mama"
+"quick_gloss": "my"
 }
 ]
 },
@@ -610,11 +654,15 @@
 },
 {
 "surface": "haṃsarūpeṇa",
-"quick_gloss": "swan-form"
+"quick_gloss": "in-swan-form"
 },
 {
-"surface": "manunāhaṃ",
+"surface": "manunā",
 "quick_gloss": "by-manu"
+},
+{
+"surface": "ahaṃ",
+"quick_gloss": "I"
 },
 {
 "surface": "jagatparam",
@@ -648,6 +696,10 @@
 {
 "surface": "nāmamātrataḥ",
 "quick_gloss": "name-only"
+},
+{
+"surface": "nāda",
+"quick_gloss": "kh:sound"
 }
 ]
 },
@@ -664,7 +716,7 @@
 },
 {
 "surface": "saṃhariṣyāmi",
-"quick_gloss": "I-destroy"
+"quick_gloss": "I-will-destroy"
 },
 {
 "surface": "rakṣāmi",
@@ -676,7 +728,7 @@
 },
 {
 "surface": "divāniśam",
-"quick_gloss": "day-night"
+"quick_gloss": "day-and-night"
 }
 ]
 }

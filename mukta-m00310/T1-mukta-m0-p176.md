@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p176-v4376
-atha-then aham-I tava-your deveśi-goddess varṇānām-of-letters vacmi-I-speak vai-indeed manūn-mantras
+[then+i](atha+aham) [your](tava) [goddess](deveśi) [of-letters](varṇānām) [speak](vacmi) [indeed](vai) [mantras](manūn)
 
 ## mukta-m0-p176-v4377
-yena-by-which vijñānamātreṇa-by-knowledge-alone māntrikaḥ-mantra-knower sādhakaḥ-practitioner bhavet-becomes
+[by-which](yena) [knowledge-only](vijñānamātreṇa) [mantric](māntrikaḥ) [practitioner](sādhakaḥ) [becomes](bhavet)
 
 ## mukta-m0-p176-v4378
-navagrahamantroddhārakośākhyānam-narration-of-mantra-treasury caturthaḥ-fourth kalpaḥ-age
+[nine-planet-mantra-extraction-treasury-named](navagrahamantroddhārakośākhyānaṃ) [fourth](caturthaḥ) [kalpa](kalpaḥ)
 
 ## mukta-m0-p176-v4379
-prasannaḥ-pleased asi-you mahābhāgin-greatly-fortunate asmāsu-to-us kṛpayā-by-grace prabho-lord
+[pleased](prasannaḥ) [are](asi) [greatly-fortunate](mahābhāgin) [toward-us](asmāsu) [by-mercy](kṛpayā) [lord](prabho)
 
 ## mukta-m0-p176-v4380
-varṇānām-of-letters śrotum-to-hear icchāmaḥ-we-desire mantrakośāni-mantra-treasuries ca-and vayam-we
+[of-letters](varṇānām) [to-hear](śrotum) [we-desire](icchāmaḥ) [mantra-treasuries](mantrakośāni) [and](ca) [we](vayam)
 
 ## mukta-m0-p176-v4381
-varṇānām-of-letters mantrakośam-mantra-treasury ca-and niḥsṛtam-emerged tripurāmukhāt-from-Tripura's-mouth
+[of-letters](varṇānām) [mantra-treasury](mantrakośam) [and](ca) [issued](niḥsṛtam) [from-tripura-mouth](tripurāmukhāt)
 
 ## mukta-m0-p176-v4382
-munīnām-of-sages sūcitam-indicated yat-that ca-and dakṣiṇāmūrtinā-by-Dakshinamurti purā-formerly
+[to-sages](munīnām) [indicated](sūcitam) [which](yat) [by-dakṣiṇāmūrti](dakṣiṇāmūrtinā) [formerly](purā)
 
 ## mukta-m0-p176-v4383
-mānasam-mental ca-and manobījam-mind-seed paitāmaham-of-Brahma iti-thus smṛtam-remembered
+[mental](mānasaṃ) [and](ca) [mind-seed](manobījam) [paitāmaha](paitāmaham) [thus](iti) [remembered](smṛtam)
 
 ## mukta-m0-p176-v4384
-śūnyam-void kham-sky ambaraṃ-ether vyomam-space vaiṣṇavam-Vishnu's ceti-and-thus bhāṣitam-spoken
+[void](śūnyam) [sky](kham) [ether](ambaraṃ) [space](vyoma) [vaiṣṇava](vaiṣṇavaṃ) [thus](ca) [spoken](bhāṣitam)
 
 ## mukta-m0-p176-v4385
-indrabījam-Indra's-seed tathā-also jiṣṇuḥ-Vishnu marutvān-wind-god maghavān-Indra hariḥ-Hari
+[indra-seed](indrabījam) [and](tathā) [jiṣṇu](jiṣṇuḥ) [marutvān](marutvān) [maghamā](maghamā) [hari](hariḥ)
 
 ## mukta-m0-p176-v4386
-mayā-by-me proktam-spoken sureśāni-goddess granthe-in-text bhairavatantrake-in-Bhairava-tantra
+[by-me](mayā) [spoken](proktam) [goddess](sureśāni) [in-grantha](grantha) [bhairava-tantra](bhairavatantrake)
 
 ## mukta-m0-p176-v4387
-aindram-Indra's tathaiva-likewise vijñeyam-to-be-known īkārasya-of-ī anṛtam-false param-supreme
+[aindra](aindraṃ) [thus](tathaiva) [to-be-known](vijñeyam) [of-ī](īkārasya) [falsehood](anṛtam) [supreme](param)
 
 ## mukta-m0-p176-v4388
-rutibījam-seed-of-sound tathā-also nandā-Nanda vāmanam-dwarf vītubījakam-seed-of-wind
+[seed-of-sound](rutibījam) [and](tathā) [nandā](nandā) [vāmana](vāmanaṃ) [vītu-seed](vītubījakam)
 
 ## mukta-m0-p176-v4389
-mayā-by-me ākhyātāni-declared sarvasve-in-all kubjikāyāḥ-of-Kubjika sureśvari-goddess
+[by-me](mayā) [told](ākhyātāni) [all](sarvasve) [of-kubjikā](kubjikāyāḥ) [goddess](sureśvari)
 
 ## mukta-m0-p176-v4390
-aindavam-Indra's anṛtam-false anyat-other ūkārasya-of-ū sureśvari-goddess
+[aindava-falsehood](aindavamanṛtam) [other](anyat) [of-ū](ūkārasya) [goddess](sureśvari)
 
 ## mukta-m0-p176-v4391
-ṛkārasya-of-ṛ rahasye-in-secret asmin-this kālyāḥ-of-Kali proktam-spoken mayā-by-me śive-Shiva
+[of-ṛ](ṛkārasya) [in-this-secret](rahasye'smin) [of-kālī](kālyāḥ) [spoken](proktam) [by-me](mayā) [śiva](śive)
 
 ## mukta-m0-p176-v4392
-ṝkārasya-of-ṝ anṛtam-false anyad-other bhāṣitam-spoken viṣṇuyāmale-in-Vishnu-Yamala
+[of-ṝ](ṝkārasya) [falsehood](anṛtam) [other](anyat) [spoken](bhāṣitam) [in-viṣṇuyāmala](viṣṇuyāmale)
 
 ## mukta-m0-p176-v4393
-vyaktabījam-manifest-seed jagadbījam-world-seed gaurvam-Gauri proktam-spoken mayā-by-me śive-Shiva
+[manifest-seed](vyaktabījam) [world-seed](jagadbījam) [gaurva](gaurvaṃ) [spoken](proktam) [by-me](mayā) [śiva](śive)
 
 ## mukta-m0-p176-v4394
-gaṅgābījam-Ganga-seed surnadī-celestial-river ca-and nākavāpī-heavenly-pool ca-and svardhunī-Ganga
+[gangā-seed](gaṅgābījam) [surnadī](surnadī) [and](ca) [nākavāpī](nākavāpī) [and](ca) [svardhunī](svardhunī)
 
 ## mukta-m0-p176-v4395
-granthe-in-text ca-and svakṛtau-self-composed devi-goddess mantrasāgaratantrake-in-Mantrasagara-tantra
+[in-grantha](granthe) [and](ca) [own-work](svakṛtau) [goddess](devi) [mantra-sāgara-tantra](mantrasāgaratantrake)
 
 ## mukta-m0-p176-v4396
-vallībījam-creeper-seed ca-and vārākī-Vārākī cānyat-and-other anṛtam-false āvadet-would-say
+[vallī-seed](vallībījam) [and](ca) [vārākī](vārākī) [other](ca) [falsehood](anṛtam) [speaks](āvadet)
 
 ## mukta-m0-p176-v4397
-kulacūḍāmaṇau-in-Kulachudamani granthe-text racite-composed māntrikottamaiḥ-by-best-mantra-knowers
+[in-kulacūḍāmaṇi-grantha](kulacūḍāmaṇau+grantha) [composed](racite) [by-best-mantrics](māntrikottamaiḥ)
 
 ## mukta-m0-p176-v4398
-caṇḍaḥ-fierce api-also carma-skin vasanam-garment vāsanā-desire ca-and tathaiva-likewise ca-and
+[caṇḍa](caṇḍaḥ) [also](api) [skin](carma) [garment](vasanam) [desire](vāsanā) [and](ca) [thus](tathaiva) [and](ca)
 
 ## mukta-m0-p176-v4399
-rāhu-Rahu khyātam-declared mayā-by-me devi-goddess aikārasya-of-ai anṛtam-false param-supreme
+[rāhu](rāhu) [known](khyātam) [by-me](mayā) [goddess](devi) [of-ai](aikārasya) [falsehood](anṛtam) [supreme](param)
 
 ## mukta-m0-p176-v4400
-praṇavam-Om ca-and tataḥ-then tāram-Tara tryakṣam-three-eyed tomāpi-also tryambakaḥ-Tryambaka
+[praṇava](praṇavaṃ) [and](ca) [then-tāra](tatastāraṃ) [tryakṣa](tryakṣaṃ) [tomā](tomā) [also](api) [tryambaka](tryambakaḥ)

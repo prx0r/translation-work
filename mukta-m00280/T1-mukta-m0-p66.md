@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p66-v1626
-[all](sarva)+[covering](āvaraṇa)+[freed](nirmuktam) [wonderful](adbhuta)+[one](ekam) [eternal](sanātanam)
+[free-from-all-coverings](sarvāvaraṇanirmuktam) [wonderful](adbhutaikaṃ) [eternal](sanātanam)
 
 ## mukta-m0-p66-v1627
-[all-going](sarvagaḥ) [all-going-transcending](sarvagātītaḥ) [of-forms](mūrtīnāṃ) [whole](sakalaḥ) [impurity](malaḥ)
+[all-pervading](sarvagaḥ) [beyond-all-pervading](sarvagātītaḥ) [of-forms](mūrtīnāṃ) [whole](sakalo) [impurity](malaḥ)
 
 ## mukta-m0-p66-v1628
-[higher-lower](parāpara)+[division](vibhāgena) [world-form](viśvamūrtim)+[like](iva)+[imperishable](avyayam)
+[by-superior-inferior-division](parāparavibhāgena) [like-universe-form](viśvamūrtimivāvyayam)
 
 ## mukta-m0-p66-v1629
-[endless](ananta)+[power](śaktiḥ) [endless](ananta)+[self](ātmā) [endless](ananta)+[senses](indriyaḥ) [endless](ananta)+[mouths](vaktrakaḥ)
+[infinite-power](anantaśaktiranantātmānantendryonantavaktrakaḥ)
 
 ## mukta-m0-p66-v1630
-[that-natured](tadātmakam) [this](idam) [all](sarvam) [they](te) [speech-created](vācapraṇitaṃ) [world](jagat)
+[consisting-of-that](tadātmakamidaṃ) [all](sarvaṃ) [by-speech-produced](te+vācapraṇitaṃ) [world](jagat)
 
 ## mukta-m0-p66-v1631
-[unthinkable](acintyaḥ) [all-subtle](sarvasūkṣmaḥ) [considered](mataḥ) [sight](dṛṣṭi)+[devoid](vivarjitaḥ)
+[unthinkable](acintyassarvasūkṣmo) [considered](mato) [devoid-of-sight](dṛṣṭivivarjitaḥ)
 
 ## mukta-m0-p66-v1632
-[this](eṣaḥ) [to-you](te) [told](kathitaḥ) [endless](anantaḥ) [whose](yasya) [end](antaḥ) [not](na) [exists](vidyate)
+[this](eṣa) [to-you](te) [declared](kathito'nanto) [whose](yasyāntastu) [end](na+vidyate)
 
 ## mukta-m0-p66-v1633
-[śiva](śiva)+[worship](yāgaṃ) [does](kurute) [not](na) [he](asau) [liberates](mocayate) [bound-soul](paśum)
+[śiva-worship](śivayāgantu) [does](kurute) [not](nā'sau) [liberates](mocayate) [bound-soul](paśum)
 
 ## mukta-m0-p66-v1634
-[śiva](śiva)+[hand](hasta)+[contact](samāyogāt) [touches](sparśāḥ) [everywhere](sarvatra) [declared](kīrtitāḥ)
+[by-śiva-hand-contact](śivahastasamāyogāt) [touches](sparśāssarvatra) [celebrated](kīrtitāḥ)
 
 ## mukta-m0-p66-v1635
-[all](sarva)+[collection](saṃhita)+[common](sāmānyaṃ) [rule](vidhiḥ) [this](eṣa) [joyfully](mudā)+[spoken](hṛtā)
+[all-collection-common](sarvasaṃhitasāmānyaṃ) [rule](vidhireṣā) [declared](mudāhṛtā)
 
 ## mukta-m0-p66-v1636
-[three](tri) [there](tatra) [deities](devatā)+[placement](nyāsam) [path](adhvānam) [which](yat)+[declared](prakīrtitam)
+[three](tri) [there](tatra) [deities-placement](devatānyāsamadhvānaṃ) [which](yatprakīrtitam)
 
 ## mukta-m0-p66-v1637
-[not](na) [by-sacrifice](yajñena) [rule-knower](vidhijñena) [path](adhvana) [skilled](kuśalena) [and](ca)
+[not](na) [by-sacrifice](yajñena) [rule-knower](vidhijñena) [path](adhvana) [skilled](kuśalena+ca)
 
 ## mukta-m0-p66-v1638
-[grasping](grahaṇe) [joining](yojane) [that-knower](tatjñaḥ) [lifting](utkṣepaḥ) [proper-joining](sanniyojane)
+[in-grasping](grahaṇe) [in-joining](yojane) [that-knower](tatjña) [lifting](utkṣepassanniyojane)
 
 ## mukta-m0-p66-v1639
-[all-knower](sarvajña) [beyond](ati) [truth-knower](tattvajñaḥ) [he](saḥ) [tu](tu) [fit](yogyaḥ) [śiva](śiva)+[sacrifice](adhvare)
+[all-knower](sarvajñānāti) [truth-knower](tattvajñaḥ) [he](sa) [fit](tu+yogyaśśivādhvare)
 
 ## mukta-m0-p66-v1640
-[support](ādhāra)+[supported](ādheya)+[knower](vit) [wise](prājñaḥ) [he](saḥ) [tu](tu) [fit](yogyaḥ) [śiva](śiva)+[sacrifice](adhvare)
+[support-supported-knower](ādhārādheyavit) [wise](prājñaḥ) [he](sa) [fit](tu+yogyaḥ) [śiva-rite](śivādhvare)
 
 ## mukta-m0-p66-v1641
-[he](saḥ) [guru](guruḥ) [of-adepts](sādhakendrāṇāṃ) [remainder](śeṣāḥ) [name](nāma)+[bearers](dhārakāḥ)
+[he](sa) [guru](guruḥ) [of-sādhakas](sādhakendrāṇāṃ) [rest](śeṣā) [name-bearers](yannāmadhārakāḥ)
 
 ## mukta-m0-p66-v1642
-[initiator](dīkṣakaḥ) [of-all-beings](sarvajantūnāṃ) [he](saḥ) [tu](tu) [leader](netā) [supreme](paraṃ) [state](padam)
+[initiator](dīkṣakassarvajantūnāṃ) [he](sa) [tu](tu) [leader](netā) [supreme-state](paraṃ+padam)
 
 ## mukta-m0-p66-v1643
-[in-which](kasmin) [time](kāle) [tu](tu) [lord](bhagavān) [offering](arghyaṃ) [would-give](dadyāt) [supreme](pare) [śiva](śive)
+[in-which](kasmin) [time](kāle) [tu](tu) [lord](bhagavān) [arghya](arghyaṃ) [would-give](dadyātpare) [śiva](śive)
 
 ## mukta-m0-p66-v1644
-[thus](tathā) [you](tvaṃ) [god-of-gods](devadeveśa) [worship](arcanaṃ) [tell](kathayasva) [to-me](me)
+[thus](tathā) [you](tvaṃ) [god-of-gods](devadeveśa) [worship](arcanaṃ) [tell](kathayasva) [me](me)
 
 ## mukta-m0-p66-v1645
-[by-whom](yena) [worshipped](yaṣṭena) [worshipper](yaṣṭā) [tu](tu) [all-worlds](aśeṣabhuvanā)+[lords](adhipāḥ)
+[by-whom](yena) [worshipped](yaṣṭena) [worshipper](yaṣṭāstu) [all-world-lords](aśeṣabhuvanādhipāḥ)
 
 ## mukta-m0-p66-v1646
-[of-ancestors](pitṝṇām) [lordship](ādhipatyena) [to-be-known](jñātavyā) [knowledge-eye](jñānacakṣuṣā)
+[of-ancestors](pitṝṇāmādhipatyena) [to-be-known](jñātavyā) [knowledge-eye](jñānacakṣuṣā)
 
 ## mukta-m0-p66-v1647
-[in-middle](madhye) [raudrī](raudrī) [always](sadā) [know](vidyāt) [of-yogis](yogīnāṃ) [yoga-deity](yogadevatā)
+[middle](madhye) [raudrī](raudrī) [always](sadā) [know](vidyāt) [of-yogis](yogīnāṃ) [yoga-deity](yogadevatā)
 
 ## mukta-m0-p66-v1648
-[suṣumnā](suṣumnāyāṃ) [again](punar) [elder](jyeṣṭhā) [raudrī](raudrī) [tu](tu) [piṅgalā](piṅgalā)+[seated](āśritā)
+[in-suṣumnā](suṣamnāyāṃ) [again](punarjyeṣṭhā) [raudrī](raudrī) [tu](tu) [in-piṅgalā](piṅgalāśritā)
 
 ## mukta-m0-p66-v1649
-[three-channels](nāḍītraya)+[endowed](samāyuktā) [brahma](brahma)+[viṣṇu](viṣṇu)+[īśa](īśa)+[joined](saṃyutāḥ)
+[three-channels](nāḍītrayasamāyuktā) [brahma-viṣṇu-īśa-joined](brahmaviṣṇvīśasaṃyutāḥ)
 
 ## mukta-m0-p66-v1650
-[of-iḍā](iḍāyām) [tu](tu) [upendra](upendraḥ) [vai](vai) [all-works](sarvakāryeṣu) [established](saṃsthitāḥ)
+[in-iḍā](iḍāyāntu) [upendra](upendro) [vai](vai) [in-all-works](sarvakāryeṣu) [established](saṃsthitāḥ)
