@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p25-v601
-[devatā-siddhiḥ](devatāsiddhir) [hāniḥ](hāniḥ) [medhā-vināśanam](medhāvināśanam)
+[deity-accomplishment](devatāsiddhiḥ) [loss](hāniḥ) [intelligence-destruction](medhāvināśanam)
 
 ## mukta-m0-p25-v602
-[pūrṇa-siddhiḥ](pūrṇasiddhiḥ) [pratāpaḥ](pratāpaśca) [ca](ca) [hāniḥ](hāniḥ) [vijñāna-nāśanam](vijñānanāśanam)
+[full-accomplishment](pūrṇasiddhiḥ) [splendor](pratāpaḥ) [and](ca) [knowledge-destruction-loss](hānirvijñānanāśanam)
 
 ## mukta-m0-p25-v603
-[tathā](tathā) [hāniḥ](hānir) [vāminām](vāmināṃ) [mithunam](mithunaṃ) [śubham](śubham)
+[thus](tathā) [loss](hāniḥ) [of-vāmin?](vāmināṃ) [auspicious-pair](mithunaṃ) [auspicious](śubham)
 
 ## mukta-m0-p25-v604
-[tri-ṣaḍ-āya-gatāḥ](triṣaḍāyagatāḥ) [pāpāḥ](pāpāḥ) [śubhāḥ](śubhāḥ) [kendra-trikoṇa-gāḥ](kendratrikoṇagāḥ)
+[three-six-houses-gone](triṣaḍāyagatāḥ) [sinful](pāpāḥ) [auspicious](śubhāḥ) [angular-trinal-gone](kendratrikoṇagāḥ)
 
 ## mukta-m0-p25-v605
-[mantraḥ](mantraścandrabale) [candra-bale](candrabale) [grāhyaḥ](grāhyo) [anyathā](anyathā) [syāt](syāt) [agha-sambhavaḥ](aghasambhavaḥ)
+[mantra](mantraḥ) [by-moon-strength](candrabale) [to-be-taken](grāhyaḥ) [otherwise](anyathā) [sin-born](aghasambhavaḥ)
 
 ## mukta-m0-p25-v606
-[siddhi-pradaḥ](siddhiprado) [madhye](madhyosti) [asti](asti) [nāśa-kṛt](nāśakṛt)
+[accomplishment-giving](siddhipradaḥ) [middle](madhyaḥ) [sti](sti) [destruction-maker](nāśakṛt)
 
 ## mukta-m0-p25-v607
-[dāridryam](dāridryaṃ) [saure](saure) [sarva-samṛddhayaḥ](sarvasamṛddhayaḥ)
+[poverty](dāridryaṃ) [solar](saure) [all-prosperities](sarvasamṛddhayaḥ)
 
 ## mukta-m0-p25-v608
-[prātaḥ-kṛtyam](prātaḥkṛtyaṃ) [nivartya](nivartya) [ca](ca)
+[morning-rite](prātaḥkṛtyaṃ) [having-stopped](nivartya) [and](ca)
 
 ## mukta-m0-p25-v609
-[vidhānena](vidhānena) [puṇyāham](puṇyāhaṃ) [vācayet](vācayettataḥ) [tataḥ](tataḥ)
+[by-rite](vidhānena) [auspicious-day](puṇyāhaṃ) [let-one-recite](vācayet) [then](tataḥ)
 
 ## mukta-m0-p25-v610
-[ācārya-ṛtvik-varaṇa-sambhāraḥ](ācārya-ṛtvigvaraṇasambhāro) [daśadhā](daśadhā) [mataḥ](mataḥ)
+[teacher-priest-selection-materials](ācārya-ṛtvigvaraṇasambhāraḥ) [tenfold](daśadhā) [considered](mataḥ)
 
 ## mukta-m0-p25-v611
-[aṣṭāṅgula-samucchrāya-sahitāni](aṣṭāṅgulasamucchrāyasahitāni) [samāni](samāni) [ca](ca)
+[eight-angula-height](aṣṭāṅgulasamucchrāya) [with](sahitāni) [equal](samāni) [and](ca)
 
 ## mukta-m0-p25-v612
-[viṣṭarāḥ](viṣṭarāḥ) [sarva-yajñeṣu](sarvayajñeṣu) [lakṣaṇam](lakṣaṇaṃ) [parikīrtitam](parikīrtitam)
+[seats](viṣṭarāḥ) [in-all-sacrifices](sarvayajñeṣu) [characteristic](lakṣaṇaṃ) [declared](parikīrtitam)
 
 ## mukta-m0-p25-v613
-[ācā](ācā) [modaka-pūritāḥ](modakapūritāḥ)
+[ācāma](ācāma) [modaka-filled](modakapūritāḥ)
 
 ## mukta-m0-p25-v614
-[madhūka-patra-chatrāṇi](madhūkapatracchatrāṇi) [sa-uṣṇīṣāṇi](soṣṇīṣāṇi) [samācaret](samācaret)
+[madhūka-leaf-umbrellas](madhūkapatracchatrāṇi) [with-turbans](soṣṇīṣāṇi) [one-should-do](samācaret)
 
 ## mukta-m0-p25-v615
-[kṛtvā](kṛtvaitatphalamāpnoti) [etat](etat) [phalam](phalam) [āpnoti](āpnoti) [mahā-yajña-arhaṇa-upamam](mahāyajñārhaṇopamam)
+[having-done-this](kṛtvaitat) [fruit](phalam) [obtains](āpnoti) [great-sacrifice-worship-equal](mahāyajñārhaṇopamam)
 
 ## mukta-m0-p25-v616
-[tat-dviguṇam](taddviguṇaṃ) [dadyāt](dadyādācāryāya) [ācāryāya](ācāryāya) [su-bhaktimān](subhaktimān)
+[twice-that](taddviguṇaṃ) [should-give](dadyāt) [to-teacher](ācāryāya) [devout](subhaktimān)
 
 ## mukta-m0-p25-v617
-[tasmin](tasminyajñaphalaṃ) [yajña-phalam](yajñaphalaṃ) [svalpam](svalpamanāvṛṣṭau) [an-āvṛṣṭau](anāvṛṣṭau) [yathā](yathā) [kṣiteḥ](kṣiteḥ)
+[in-that](tasmin) [sacrifice-fruit](yajñaphalaṃ) [small](svalpam) [in-non-rain](anāvṛṣṭau) [like](yathā) [of-earth](kṣiteḥ)
 
 ## mukta-m0-p25-v618
-[varaṇa-sāmagrīm](varaṇasāmagrīṃ) [saṅkalpya](saṅkalpya) [vṛṇuyāt](vṛṇuyādgurum) [gurum](gurum)
+[selection-materials](varaṇasāmagrīṃ) [having-resolved](saṅkalpya) [let-one-choose](vṛṇuyāt) [teacher](gurum)
 
 ## mukta-m0-p25-v619
-[sambhāṣya](sambhāṣya) [tvām](tvāmahaṃ) [aham](aham) [ca](ca) [tataḥ](tato) [vṛṇe](vṛṇe)
+[having-addressed](sambhāṣya) [you](tvām) [I](aham) [then](ca) [tataḥ?](tato) [choose](vṛṇe)
 
 ## mukta-m0-p25-v620
-[karma](karma) [kuruṣva](kuruṣveti) [iti](iti) [vadet](vadecchiśuḥ) [śiśuḥ](śiśuḥ)
+[work](karma) [do](kuruṣva) [thus](iti) [let-say](vadet) [child](śiśuḥ)
 
 ## mukta-m0-p25-v621
-[brāhmaṇān](brāhmaṇānvṛṇuyādaṣṭau) [vṛṇuyāt](vṛṇuyāt) [aṣṭau](aṣṭau) [veda-vedāṅga-pāragān](vedavedāṅgapāragān)
+[brāhmaṇas](brāhmaṇān) [let-one-choose](vṛṇuyāt) [eight](aṣṭau) [veda-vedāṅga-knowing](vedavedāṅgapāragān)
 
 ## mukta-m0-p25-v622
-[kuṇḍāni](kuṇḍāni) [tadā](tadā) [catvāri](catvāra) [ṛtvijaḥ](ṛtvijo) [matāḥ](matāḥ)
+[kuṇḍas](kuṇḍāni) [then](tadā) [four](catvāraḥ) [priests](ṛtvijaḥ) [considered](matāḥ)
 
 ## mukta-m0-p25-v623
-[tat-dvāre](taddvāre) [parīkṣām](parīkṣāmārabhettataḥ) [ārabhet](ārabhet) [tataḥ](tataḥ)
+[by-that-door](taddvāre) [examination](parīkṣām) [let-one-begin](ārabhet) [then](tataḥ)
 
 ## mukta-m0-p25-v624
-[purataḥ](purataḥ) [sthaṇḍile](sthaṇḍile) [hasta-mātrake](hastamātrake)
+[in-front](purataḥ) [on-altar](sthaṇḍile) [hand-measure](hastamātrake)
 
 ## mukta-m0-p25-v625
-[yat](yaddiśāsaṃsthaṃ) [diśā-saṃstham](diśāsaṃsthaṃ) [tat](tatredaṃ) [atra](atra) [idam](idam) [pūrvataḥ](pūrvataḥ) [phalam](phalam)
+[whichever-direction-placed](yaddiśāsaṃsthaṃ) [there](tatra) [this](idam) [eastward](pūrvataḥ) [fruit](phalam)

@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p60-v1476
-[nr-manyā](nṛmānyā) [prasannā](prasannā) [śivā](śivā) [hṛn-niṣaṇṇā](hṛnniṣaṇṇā)
+[honored-by-men](nṛmānyā) [serene](prasannā) [auspicious](śivā) [seated-in-heart](hṛnniṣaṇṇā)
 
 ## mukta-m0-p60-v1477
-[nrpa-nandinī](nṛpanandinī)
+[daughter-of-king](nṛpanandinī)
 
 ## mukta-m0-p60-v1478
-[yat-cittayātā](yaccittayātā) [nrpa-nandinī](nṛpanandinī) [tvam](tvam)
+[whose-mind-gone](yaccittayātā) [daughter-of-king](nṛpanandinī) [you](tvam)
 
 ## mukta-m0-p60-v1479
-[nrpa-dharma-mayī](nṛpadharmamayī)
+[full-of-king-duty](nṛpadharmamayī)
 
 ## mukta-m0-p60-v1480
-[sadā](sadā) [sukha-mayī](sukhamayī) [jīyāt](jīyānnṛpadharmamayī) [śivā](śivā)
+[always](sadā) [full-of-happiness](sukhamayī) [may-she-live](jīyāt) [full-of-king-duty](nṛpadharmamayī) [auspicious](śivā)
 
 ## mukta-m0-p60-v1481
-[dhanyā](dhanyā)
+[blessed](dhanyā)
 
 ## mukta-m0-p60-v1482
-[dhanyā-arcitā](dhanyārcitā) [yena](yena) [maheśvarī](maheśvarī) [tvam](tvam)
+[blessed-worshipped](dhanyārcitā) [by-whom](yena) [great-lady](maheśvarī) [you](tvam)
 
 ## mukta-m0-p60-v1483
-[dhana-dhānya-vivarddhinī](dhanadhānyavivarddhinī)
+[wealth-grain-increaser](dhanadhānyavivarddhinī)
 
 ## mukta-m0-p60-v1484
-[sannidhim](sannidhiṃ) [sevitā](sevitā) [yena](yena) [dhana-dhānya-vivardhinī](dhanadhānyavivardhinī)
+[presence](sannidhiṃ) [served](sevitā) [by-whom](yena) [wealth-grain-increaser](dhanadhānyavivardhinī)
 
 ## mukta-m0-p60-v1485
-[catur-varṇa-mayī](caturvarṇamayī) [mūrtiḥ](mūrtiḥ)
+[four-varna-formed](caturvarṇamayī) [image](mūrtiḥ)
 
 ## mukta-m0-p60-v1486
-[catur-varṇa-mayī](caturvarṇamayī) [mūrtiḥ](mūrtiḥ) [kīrtanīyā](kīrtanīyā) [na](na) [kasya](kasya) [sā](sā)
+[four-varna-formed](caturvarṇamayī) [image](mūrtiḥ) [praiseworthy](kīrtanīyā) [not](na) [whose](kasya) [she](sā)
 
 ## mukta-m0-p60-v1487
-[catur-varṇaiḥ-ca](caturvarṇaiśca) [pūjitā](pūjitā)
+[by-four-varnas](caturvarṇaiḥ) [and](ca) [worshipped](pūjitā)
 
 ## mukta-m0-p60-v1488
-[vyāpāra-ādyaiḥ-ca](vyāpārādyaiśca) [sevābhiḥ](sevābhiścaturvarṇaiśca) [catur-varṇaiḥ-ca](caturvarṇaiśca) [pūjitā](pūjitā)
+[by-occupations-etc](vyāpārādyaiḥ) [and](ca) [by-services](sevābhiḥ) [by-four-varnas](caturvarṇaiḥ) [and](ca) [worshipped](pūjitā)
 
 ## mukta-m0-p60-v1489
-[sarva-dharma-mayī](sarvadharmamayī) [siddhiḥ](siddhiḥ)
+[all-duty-full](sarvadharmamayī) [perfection](siddhiḥ)
 
 ## mukta-m0-p60-v1490
-[sarva-dharma-mayī](sarvadharmamayī) [siddhiḥ](siddhirbhūyānnāmārthakāriṇī) [bhūyāt](bhūyānnāmārthakāriṇī) [nāma-artha-kāriṇī](nāmārthakāriṇī)
+[all-duty-full](sarvadharmamayī) [perfection](siddhiḥ) [may-be](bhūyāt) [name-meaning-doer](nāmārthakāriṇī)
 
 ## mukta-m0-p60-v1491
-[catur-āśrama-vāsinī](caturāśramavāsinī)
+[four-ashrama-dweller](caturāśramavāsinī)
 
 ## mukta-m0-p60-v1492
-[akrameṇa](akrameṇādbhutā) [adbhutā](adbhutā) [devī](devī) [catur-āśrama-vāsinī](caturāśramavāsinī)
+[non-sequentially](akrameṇa) [wonderful](adbhutā) [goddess](devī) [four-ashrama-dweller](caturāśramavāsinī)
 
 ## mukta-m0-p60-v1493
-[brāhmaṇī](brāhmaṇī)
+[brahmin-woman](brāhmaṇī)
 
 ## mukta-m0-p60-v1494
-[bhūyāt](bhūyādbhūtyai) [bhūtyai](bhūtyai) [brāhmaṇī](brāhmaṇī) [sarva-pūjyā](sarvapūjyā)
+[may-be](bhūyāt) [for-prosperity](bhūtyai) [brahmin-woman](brāhmaṇī) [all-worshippable](sarvapūjyā)
 
 ## mukta-m0-p60-v1495
-[kṣatriyā](kṣatriyā)
+[kshatriya-woman](kṣatriyā)
 
 ## mukta-m0-p60-v1496
-[mām](māṃ) [kṣatriyā](kṣatriyā) [pātu](pātu) [sadā-turatvāt](sadāturatvāt)
+[me](māṃ) [kshatriya-woman](kṣatriyā) [protect](pātu) [always](sadā) [from-distress](āturatvāt)
 
 ## mukta-m0-p60-v1497
-[vaiśyā](vaiśyā)
+[vaishya-woman](vaiśyā)
 
 ## mukta-m0-p60-v1498
-[vaiśyā-vaśyam](vaiśyāvaśyaṃ) [maheśānī](maheśānī) [vaśyā](vaśyā) [bhavatu](bhavatu) [sarvadā](sarvadā)
+[vaishya-certainly](vaiśyāvaśyaṃ) [great-lady](maheśānī) [subdued](vaśyā) [may-be](bhavatu) [always](sarvadā)
 
 ## mukta-m0-p60-v1499
-[śūdrā](śūdrā)
+[shudra-woman](śūdrā)
 
 ## mukta-m0-p60-v1500
-[jayatu](jayatyabhayadā) [abhaya-dā](abhayadā) [vāda-sāda-hīnā](vādasādahīnā) [svabhāvataḥ](svabhāvataḥ)
+[victory](jayati) [fearless-giver](abhayadā) [debate-less](vādasādahīnā) [by-nature](svabhāvataḥ)

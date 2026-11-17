@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p81-v2001
-[water](jala) [standing](sthā) [feminine](ā) [locative](loc)
+[water-standing](jalasthā)
 
 ## mukta-m0-p81-v2002
-[always](sadā) [nearness](sannidheḥ) [some](ko) [api](api) [feeling](bhāva) [manifestation](anubhāvaḥ)
+[always](sadā) [nearness](sannidheḥ) [some](ko) [feeling-power](bhāvānubhāvaḥ)
 
 ## mukta-m0-p81-v2003
-[water](jala) [deity](devatā) [water-deity](jaladevatā) [feminine](ā)
+[water-deity](jaladevatā)
 
 ## mukta-m0-p81-v2004
-[lotus](kamalaṃ) [that](taj) [water-deity](jaladevatā) [grace](prasādaḥ)
+[lotus](kamalaṃ) [that-water-deity-favor](tajjaladevatāprasādaḥ)
 
 ## mukta-m0-p81-v2005
-[kuru-field](kurukṣetra) [earth](avaniḥ) [feminine](ā) [locative](loc)
+[kurukshetra-land](kurukṣetrāvaniḥ)
 
 ## mukta-m0-p81-v2006
-[kauravas](kauravāṇāṃ) [kuru-field](kurukṣetra) [earth](avaniḥ) [from-fear](bhayāt) [protect](māmavatād)
+[of-kauravas](kauravāṇāṃ) [kurukshetra-land](kurukṣetrāvanirmāmavatād) [from-fear](bhayāt)
 
 ## mukta-m0-p81-v2007
-[kashi](kāśī) [feminine](ī) [city](nagara) [holy](puṇya) [place](sthāna)
+[kashi](kāśī)
 
 ## mukta-m0-p81-v2008
 [that](sā) [kashi](kāśī) [shines](parikāśate) [my](mama) [heart-space](hṛdākāśe) [always](sadā) [unbroken](nirbhidā)
 
 ## mukta-m0-p81-v2009
-[mathura](mathurā) [feminine](ā) [city](nagara) [holy](puṇya) [place](sthāna)
+[mathura](mathurā)
 
 ## mukta-m0-p81-v2010
-[firm](sthiraṃ) [rasa-glory](rasaśrīḥ) [mathura](mathurā) [is](asti) [some](kāpi)
+[steady](sthiraṃ) [rasa-glory](rasaśrīrmathurāsti) [some](kāpi)
 
 ## mukta-m0-p81-v2011
-[kanchi](kāñcī) [feminine](ī) [city](nagara) [holy](puṇya) [place](sthāna)
+[kanchi](kāñcī)
 
 ## mukta-m0-p81-v2012
-[in-which](yasyāṃ) [golden](kāñcana) [golden-mountain](kāñcanādri) [domain](viṣayāṃ) [kanchi](kāñcī) [give](dadātu) [glory](śriyam)
+[in-which](yasyāṃ) [golden](kāñcana) [golden-mountain-region](kāñcanādriviṣayāṃ) [kanchi](kāñcī) [give](dadātu) [splendor](śriyam)
 
 ## mukta-m0-p81-v2013
-[avantika](avantikā) [feminine](ā) [city](nagara) [holy](puṇya) [place](sthāna)
+[avantika](avantikā)
 
 ## mukta-m0-p81-v2014
-[which](kā) [eastern-sun-path](pūrbhāskarayāna) [middle-domain](madhyaviṣayā) [rules](saṃrājate) [avantika](avantikā)
+[which](kā) [eastern-sun-middle-region](pūrbhāskarayānamadhyaviṣayā) [shines](saṃrājate) [avantika](avantikā)
 
 ## mukta-m0-p81-v2015
-[ayodhya](ayodhyā) [feminine](ā) [city](nagara) [holy](puṇya) [place](sthāna)
+[ayodhya](ayodhyā)
 
 ## mukta-m0-p81-v2016
-[ayodhya](ryodhyā) [people](janāḥ) [that](sā) [is](asti) [some](kāpi) [ayodhya](ayodhyā)
+[ayodhya](ryodhyā) [people](janāḥ) [is](sāsti) [some](kāpyayodhyā)
 
 ## mukta-m0-p81-v2017
-[dwarka](dvārakā) [feminine](ā) [city](nagara) [holy](puṇya) [place](sthāna)
+[dvaraka](dvārakā)
 
 ## mukta-m0-p81-v2018
-[which](yā) [seen](dṛṣṭā) [or](vāpi) [hidden](gupteva) [becomes](bhavati) [mind](manasaḥ) [pulsation](spandanād) [dwarka](dvārakā) [that](sā)
+[which](yā) [seen](dṛṣṭā) [or](vāpi) [hidden](gupteva) [becomes](bhavati) [mind](manasaḥ) [pulsation](spandanād) [dvaraka](dvārakā) [that](sā)
 
 ## mukta-m0-p81-v2019
-[maya](māyā) [feminine](ā) [illusion](māyā) [power](śakti) [divine](divya) [form](rūpa)
+[maya](māyā)
 
 ## mukta-m0-p81-v2020
-[abandoning](hitvā) [become](bhavanti) [true-knowers](sadbodhā) [vishnu-maya-lords](viṣṇumāyeśvarāḥ) [themselves](svayam)
+[leaving](hitvā) [become](bhavanti) [true-knowers](sadbodhā) [vishnu-maya-lords](viṣṇumāyeśvarāḥ) [themselves](svayam)
 
 ## mukta-m0-p81-v2021
-[tirtha](tīrthā) [feminine](ā) [holy-crossing](tīrtha) [place](sthāna) [sacred](puṇya) [site](kṣetra)
+[tirtha](tīrthā)
 
 ## mukta-m0-p81-v2022
-[tirtha-people](ttīrthyānāṃ) [that](sā) [by-whom](kena) [tirtha](tīrthā) [not](na) [tirtha-people](tīrthyā)
+[tirtha-of](ttīrthyānāṃ) [that](sā) [by-whom](kena) [tirtha](tīrthā) [not](na) [tirtha-of](tīrthyā)
 
 ## mukta-m0-p81-v2023
-[tirthakara-beloved](tīrthakarapriyā) [feminine](ā) [tirthakara](tīrthakara) [beloved](priyā) [dear](priya) [one](eka)
+[tirthakara-dear](tīrthakarapriyā)
 
 ## mukta-m0-p81-v2024
-[not](na) [if](ced) [beneficial](hitā) [tirthakara-beloved](tīrthakarapriyā) [would-be](syāt)
+[if-not](na) [beneficial](ceddhitā) [tirthakara-dear](tīrthakarapriyā) [would-be](syāt)
 
 ## mukta-m0-p81-v2025
-[tripushkara](tripuṣkarā) [feminine](ā) [three](tri) [pushkara](puṣkara) [lotus](puṣkara) [place](sthāna)
+[tripushkara](tripuṣkarā)

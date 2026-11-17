@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p54-v1326
-[time-wish-tree](kālakalpataruṃ) [having-bowed](natvā) [bhūtinī-siddhi-is-declared](bhūtinīsiddhirucyate)
+[kāla-kalpa-taruṃ](kālakalpataruṃ) [natvā](natvā) [bhūti-nī-siddhiḥ](bhūtinīsiddhirucyate) [ucyate](ucyate)
 
 ## mukta-m0-p54-v1327
-[savior](tāriṇī) [lioness](siṃhinī) [and-then](cātho) [swan](haṃsinī) [then](tato) [dancer](naṭī)
+[tāriṇī](tāriṇī) [siṃhinī](siṃhinī) [ca](cātho) [atho](atho) [haṃsinī](haṃsinī) [ca](ca) [tato](tato) [naṭī](naṭī)
 
 ## mukta-m0-p54-v1328
-[wrath-weapon-two-names-end](krodhāstradvayanāmānte) [bhūta-power-triple-kūrca](bhūtavīryastrikūrcataḥ)
+[krodha-astra-dvaya-nāma-ante](krodhāstradvayanāmānte) [bhūta-vīrya-stri-kūrcataḥ](bhūtavīryastrikūrcataḥ)
 
 ## mukta-m0-p54-v1329
-[wrath-two](krodhadvayaṃ) [but](tu) [mantra-this](mantro'yaṃ) [of-vibhūṣiṇī](vibhūṣiṇyāḥ) [is-declared](udāhṛtaḥ)
+[krodha-dvayaṃ](krodhadvayaṃ) [tu](tu) [mantraḥ](mantraḥ) [ayaṃ](ayaṃ) [vibhūṣiṇyāḥ](vibhūṣiṇyā) [udāhṛtaḥ](udāhṛtaḥ)
 
 ## mukta-m0-p54-v1330
-[whose](yasyāḥ) [hair-tangled-all-earth](keśakulākulākhilamahī) [mountain-end](śailāntam) [may-protect](ārakṣatu)
+[yasyāḥ](yasyāḥ) [keśa-kulākulākhila-mahī](keśakulākulākhilamahī) [śailāntam](śailāntam) [ārakṣatu](ārakṣatu)
 
 ## mukta-m0-p54-v1331
-[should-chant-eight-thousand](japedaṣṭasahasraṃ) [but](tu) [meditating-one-pointed-mind](dhyāyannekāgramānasaḥ)
+[japed](japedaṣṭasahasraṃ) [aṣṭa-sahasraṃ](aṣṭasahasraṃ) [tu](tu) [dhyāyan](dhyāyannekāgramānasaḥ) [ekāgra-mānasaḥ](ekāgramānasaḥ)
 
 ## mukta-m0-p54-v1332
-[should-chant-at-midnight](prajapedardharātre) [but](tu) [comes-vibhūṣiṇī](samāyāti vibhūṣiṇī)
+[prajaped](prajapedardharātre) [ardha-rātre](ardharātre) [tu](tu) [samāyāti](samāyāti) [vibhūṣiṇī](vibhūṣiṇī)
 
 ## mukta-m0-p54-v1333
-[mother](mātā) [or](vā) [sister](bhaginī) [wife](bhāryā) [pleased](tuṣṭā) [becomes](bhavati) [desired](kāmitā)
+[mātā](mātā) [vā](vā) [bhaginī](bhaginī) [bhāryā](bhāryā) [tuṣṭā](tuṣṭā) [bhavati](bhavati) [kāmitā](kāmitā)
 
 ## mukta-m0-p54-v1334
-[of-hundred-eight-retinue](śatāṣṭaparivārasya) [gives](dadāty) [collyrium-ornament](añjanabhūṣaṇam)
+[śata-aṣṭa-parivārasya](śatāṣṭaparivārasya) [dadāti](dadātyañjanabhūṣaṇam) [añjana-bhūṣaṇam](añjanabhūṣaṇam)
 
 ## mukta-m0-p54-v1335
-[gives](dadāti) [woman-bringing](striyamānīya) [divine](divyaṃ) [rasa-rasāyana](rasarasāyanam)
+[dadāti](dadāti) [striyam](striyam) [ānīya](ānīya) [divyaṃ](divyaṃ) [rasa-rasāyanam](rasarasāyanam)
 
 ## mukta-m0-p54-v1336
-[of-coins-thousand](dīnārāṇāṃ sahasraṃ) [but](tu) [rasa-and-rasāyana](rasaṃ caiva rasāyanam)
+[dīnārāṇāṃ](dīnārāṇāṃ) [sahasraṃ](sahasraṃ) [tu](tu) [rasaṃ](rasaṃ) [ca](ca) [eva](eva) [rasāyanam](rasāyanam)
 
 ## mukta-m0-p54-v1337
-[certainly-two-wrath-weapons](dhruvamāyāstradvayataḥ) [is-declared](proktā) [earring-wearer](kuṇḍaladhāriṇī)
+[dhruvam](dhruvamāyāstradvayataḥ) [āyāstra-dvayataḥ](āyāstradvayataḥ) [proktā](proktā) [kuṇḍala-dhāriṇī](kuṇḍaladhāriṇī)
 
 ## mukta-m0-p54-v1338
-[may-protect-earring-wearer](pāyātkuṇḍaladhāriṇī) [three-worlds-bliss-abundance](trijagatāmānandasandohabhūḥ)
+[pāyāt](pāyātkuṇḍaladhāriṇī) [kuṇḍala-dhāriṇī](kuṇḍaladhāriṇī) [tri-jagatām](trijagatām) [ānanda-sandoha-bhūḥ](ānandasandohabhūḥ)
 
 ## mukta-m0-p54-v1339
-[comes-with-blood-offering](āyāti rudhireṇārghyo) [should-give](deyastuṣṭo) [gives-also](dadātyapi)
+[āyāti](āyāti) [rudhireṇa](rudhireṇārghyo) [arghyaḥ](arghyaḥ) [deyaḥ](deyastuṣṭo) [tuṣṭaḥ](tuṣṭaḥ) [dadāti](dadātyapi) [api](api)
 
 ## mukta-m0-p54-v1340
-[five-hundred-days](pañcaśatavāsarāṇi) [three-worlds-also](trailokyamapi) [will-give](dāsyati)
+[pañca-śata-vāsarāṇi](pañcaśatavāsarāṇi) [trailokyam](trailokyamapi) [api](api) [dāsyati](dāsyati)
 
 ## mukta-m0-p54-v1341
-[three-kūrca-weapon-proclaimed](kūrcatrayāstrasaṃproktaḥ) [sindūra-taker-mantra](sindūrahāriṇīmanuḥ)
+[kūrca-traya-astra-saṃproktaḥ](kūrcatrayāstrasaṃproktaḥ) [sindūra-hāriṇī-manuḥ](sindūrahāriṇīmanuḥ)
 
 ## mukta-m0-p54-v1342
-[may-protect](pāyād) [beloved-root-rāhu-creeper](vallabhamūlarāhulatikā) [sindūra-taker-this](sindūrahāriṇyasau)
+[pāyāt](pāyād) [vallabha-mūla-rāhu-latikā](vallabhamūlarāhulatikā) [sindūra-hāriṇī](sindūrahāriṇī) [asau](asau)
 
 ## mukta-m0-p54-v1343
-[quickly-comes-arrived](śīghramāyātyāgatā) [she](sā) [wife](bhāryā) [becomes](bhavati) [desired](kāmitā)
+[śīghram](śīghramāyātyāgatā) [āyātyāgatā](āyātyāgatā) [sā](sā) [bhāryā](bhāryā) [bhavati](bhavati) [kāmitā](kāmitā)
 
 ## mukta-m0-p54-v1344
-[protects-twelve-persons](rakṣati dvādaśajanān) [goddess](devī) [sindūra-taker](sindūrahāriṇī)
+[rakṣati](rakṣati) [dvādaśa-janān](dvādaśajanān) [devī](devī) [sindūra-hāriṇī](sindūrahāriṇī)
 
 ## mukta-m0-p54-v1345
-[from-wrath-seed-three-born](krodhabījatrayājjātaḥ) [is-praised](kīrtitaḥ) [lioness-mantra](siṃhinīmanuḥ)
+[krodha-bīja-trayāt](krodhabījatrayājjātaḥ) [jātaḥ](jātaḥ) [kīrtitaḥ](kīrtitaḥ) [siṃhinī-manuḥ](siṃhinīmanuḥ)
 
 ## mukta-m0-p54-v1346
-[may-she-protect](seyaṃ pātu) [all-head-garland-tangled](samastamastakakulavyālambimālākulā)
+[seyam](seyaṃ) [pātu](pātu) [samasta-mastaka-kula-vyālambi-mālākulā](samastamastakakulavyālambimālākulā)
 
 ## mukta-m0-p54-v1347
-[then](tato) [delighted-very-giving](hṛṣṭā'tivaradā) [lioness-comes-worshipped](siṃhinyāyāti pūjitā)
+[tato](tato) [hṛṣṭā](hṛṣṭā'tivaradā) [ati-varadā](ativaradā) [siṃhinyā](siṃhinyāyāti) [āyāti](āyāti) [pūjitā](pūjitā)
 
 ## mukta-m0-p54-v1348
-[coin](dīnāraṃ) [pair-of-cloths](vastrayugalaṃ) [giving](dadhad) [rasa-rasāyana](rasarasāyanam)
+[dīnāraṃ](dīnāraṃ) [vastra-yugalaṃ](vastrayugalaṃ) [dadhat](dadhad) [rasa-rasāyanam](rasarasāyanam)
 
 ## mukta-m0-p54-v1349
-[three-kūrca-weapon](trikūrcāstraṃ) [and](ca) [is-declared](kathito) [swan-mantra-supreme](haṃsi(nī)manuruttamaḥ)
+[tri-kūrca-astraṃ](trikūrcāstraṃ) [ca](ca) [kathito](kathito) [haṃsi(nī)-manuḥ](haṃsi(nī)manuruttamaḥ) [uttamaḥ](uttamaḥ)
 
 ## mukta-m0-p54-v1350
-[pearl-adorned-swinging-garland-creeper](muktāyuktavilolahāralatikā) [śrī-swan](śrīhaṃsinī) [may-protect-you](pātu vaḥ)
+[muktā-yukta-vilola-hāra-latikā](muktāyuktavilolahāralatikā) [śrī-haṃsinī](śrīhaṃsinī) [pātu](pātu) [vaḥ](vaḥ)
