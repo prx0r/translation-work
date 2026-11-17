@@ -2,7 +2,7 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p61-v1501
-[distinct](vibhinne) [family](kula) [to-be-given](dātavyaṃ) [own-family+joy](svakulānanda) [for-sake](hetave)
+[different](vibhinne) [family](kula) [to-be-given](dātavyaṃ) [own-family-joy](svakulānanda) [for-cause](hetave)
 
 ## mukta-m0-p61-v1502
 [women-only](nārīmātreṣu) [to-be-known](vijñeyā) [gods](deveṣu) [family-woman](kulayoṣitā)
@@ -26,52 +26,52 @@
 [family-place](kulasthānam) [this](idaṃ) [to-be-known](jñeyaṃ) [all-seed](sarvabījasya) [seed](bījakam)
 
 ## mukta-m0-p61-v1509
-[that-seed](tadbījaṃ) [what](kiṃ) [great-goddess](maheśāni) [that-distinct](tadbhinnaṃ) [woman](nārī) [or](vā) [how](katham)
+[that-seed](tadbījaṃ) [what](kiṃ) [great-goddess](maheśāni) [that-different](tadbhinnaṃ) [woman](nārī) [or](vā) [how](katham)
 
 ## mukta-m0-p61-v1510
 [family-place](kulasthānaṃ) [without](vinā) [power-knowledge](śaktijñānam) [only](mātraṃ) [not](na) [arises](jāyate)
 
 ## mukta-m0-p61-v1511
-[hips-thighs-plump](nitamba+jaghana+sphītā) [other-flower](parapuṣpa) [vulva](bhaga) [radiance](prabhā)
+[hips](nitamba) [buttocks](jaghana) [plump](sphītā) [other-flower](parapuṣpa) [vulva](bhaga) [radiance](prabhā)
 
 ## mukta-m0-p61-v1512
 [hidden](gopitā)
 
 ## mukta-m0-p61-v1513
-[middle](madhyame) [worshipped](pūjite) [devotion](bhaktiḥ) [deficient](hīne) [api](api) [act](kārya) [accomplishment](sādhanam)
+[middle](madhyame) [worshipped](pūjite) [devotion](bhaktiḥ) [deficient](hīne) [api](api) [work](kārya) [accomplishment](sādhanam)
 
 ## mukta-m0-p61-v1514
-[defeated](parājitā) [flower-form](puṣpa+rūpā) [family-house](kulāgāraṃ) [ca](ca) [middle](madhyagam)
+[defeated](parājitā) [flower](puṣpa) [form](rūpā) [family-house](kulāgārañca) [middle](madhyagam)
 
 ## mukta-m0-p61-v1515
-[egg-born](aṇḍa+jātaṃ) [sweat-born](sveda+jātaṃ) [seed-born](bīja+jātaṃ) [threefold](tridhā) [śiva](śive)
+[egg-born](aṇḍa+jātaṃ) [sweat-born](svedajātaṃ) [seed-born](bīja+jātaṃ) [threefold](tridhā) [śiva](śive)
 
 ## mukta-m0-p61-v1516
-[phallus-middle](liṅga+madhye) [situated](sthitaṃ) [semen](śukraṃ) [womb-middle](yoni+madhye) [ca](ca) [blood](śoṇitam)
+[phallus-middle](liṅgamadhye) [situated](sthitaṃ) [semen](śukraṃ) [womb-middle](yonimadhye) [ca](ca) [blood](śoṇitam)
 
 ## mukta-m0-p61-v1517
 [that-seed](tasya+bījaṃ) [not](na) [would-be-known](vidyeta) [to-tell](gadituṃ) [not](na) [eva](eva) [possible](śakyate)
 
 ## mukta-m0-p61-v1518
-[tejas-excess](teja+adhikye) [seed-born](bīja+jātaṃ) [earth-excess](kṣiti+adhikye) [api](api) [human](mānuṣam)
+[tejas-excess](tejādhikye) [seed-born](bīja+jātaṃ) [earth-excess](kṣityādhikye) [api](api) [human](mānuṣam)
 
 ## mukta-m0-p61-v1519
-[action-yoga](kriyā+yoga) [meditation-yoga](dhyāna+yoga) [devotion-yoga](bhakti+yoga) [will-be](bhaviṣyati)
+[action-yoga](kriyāyogaḥ) [meditation-yoga](dhyāna+yogaḥ) [devotion-yoga](bhakti+yogaḥ) [will-be](bhaviṣyati)
 
 ## mukta-m0-p61-v1520
-[triangle-form](trikoṇa+ākāra+rūpā) [she](sā) [all-gods-abode](sarva+deva+ālayā) [beloved](priye)
+[triangle-form](trikoṇākāra+rūpā) [she](sā) [all-gods-shrine](sarvadevālayā) [beloved](priye)
 
 ## mukta-m0-p61-v1521
-[tripura-lady](tripureśī) [womb-middle](yoni+madhye) [root](mūle) [dwells](vasati) [bhairavi](bhairavī)
+[tripura-lady](tripureśī) [womb-middle](yonimadhye) [root](mūle) [dwells](vasati) [bhairavi](bhairavī)
 
 ## mukta-m0-p61-v1522
 [hair-pore](roma+kūpe) [great-kali](mahākālī) [matangi](mātaṅgī) [girdles](mekhalāsu) [ca](ca)
 
 ## mukta-m0-p61-v1523
-[bindu-flower-tree-root](bindu+puṣpa+taru+mūle) [kundali](kuṇḍalī) [brahma-form](brahma+vigrahā)
+[bindu-flower-tree-root](bindupuṣpatarormūle) [kundali](kuṇḍalī) [brahma-form](brahmavigrahā)
 
 ## mukta-m0-p61-v1524
-[seat](pīṭhaṃ) [kama-form](kāma+svarūpaṃ) [ca](ca) [twofold](dvividhaṃ) [supreme-goddess](parameśvari)
+[seat](pīṭhaṃ) [desire-form](kāma+svarūpañca) [twofold](dvividhaṃ) [supreme-goddess](parameśvari)
 
 ## mukta-m0-p61-v1525
-[om-form](praṇava+ākāra+rūpeṇa) [womb-form](yoni+ākāraṃ) [should-contemplate](vicintayet)
+[om-form](praṇavākāra+rūpeṇa) [womb-form](yonyākāraṃ) [should-contemplate](vicintayet)

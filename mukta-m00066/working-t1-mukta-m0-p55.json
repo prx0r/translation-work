@@ -8,11 +8,11 @@
 "tokens": [
 {
 "surface": "vivecanīye",
-"quick_gloss": "in-investigation"
+"quick_gloss": "in-the-discernible"
 },
 {
 "surface": "saṃprāpte",
-"quick_gloss": "arrived"
+"quick_gloss": "when-attained"
 },
 {
 "surface": "vāda",
@@ -41,19 +41,19 @@
 },
 {
 "surface": "tu",
-"quick_gloss": "indeed"
+"quick_gloss": "but"
 },
 {
-"surface": "samāpto",
-"quick_gloss": "completion"
+"surface": "samāptaḥ",
+"quick_gloss": "completed"
 },
 {
 "surface": "hi",
-"quick_gloss": "indeed"
+"quick_gloss": "hi"
 },
 {
 "surface": "jātinigrahasiddhidā",
-"quick_gloss": "class-refutation-accomplishment-giving"
+"quick_gloss": "gives-jāti-nigraha-siddhi"
 }
 ]
 },
@@ -70,7 +70,7 @@
 },
 {
 "surface": "doṣeṇa",
-"quick_gloss": "fault"
+"quick_gloss": "by-defect"
 },
 {
 "surface": "tena",
@@ -78,7 +78,7 @@
 },
 {
 "surface": "vādena",
-"quick_gloss": "debate"
+"quick_gloss": "by-debate"
 },
 {
 "surface": "darśanam",
@@ -103,7 +103,7 @@
 },
 {
 "surface": "camatkārakāṇinaḥ",
-"quick_gloss": "wonder-makers"
+"quick_gloss": "wonder-workers"
 }
 ]
 },
@@ -120,7 +120,7 @@
 },
 {
 "surface": "khyāti",
-"quick_gloss": "manifestation"
+"quick_gloss": "appears"
 },
 {
 "surface": "vipramapattayaḥ",
@@ -137,19 +137,23 @@
 "tokens": [
 {
 "surface": "pramitānya",
-"quick_gloss": "known-others"
+"quick_gloss": "proved-others"
 },
 {
 "surface": "parastatra",
-"quick_gloss": "other-there"
+"quick_gloss": "there"
 },
 {
 "surface": "pramāṇyaṃ",
 "quick_gloss": "validity"
 },
 {
-"surface": "nāvabudhyate",
-"quick_gloss": "not-understood"
+"surface": "na",
+"quick_gloss": "not"
+},
+{
+"surface": "avabudhyate",
+"quick_gloss": "is-understood"
 }
 ]
 },
@@ -215,12 +219,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "āyāta",
-"quick_gloss": "arrived"
-},
-{
-"surface": "vādinaḥ",
-"quick_gloss": "debaters"
+"surface": "āyāta+vādinaḥ",
+"quick_gloss": "come-debaters"
 },
 {
 "surface": "sarve",
@@ -248,24 +248,24 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "doṣo",
+"surface": "doṣaḥ",
 "quick_gloss": "fault"
 },
 {
-"surface": "guṇaścaiva",
-"quick_gloss": "quality"
+"surface": "guṇaḥ",
+"quick_gloss": "virtue"
 },
 {
-"surface": "samo",
+"surface": "ca+eva",
+"quick_gloss": "and-indeed"
+},
+{
+"surface": "samaḥ",
 "quick_gloss": "equal"
 },
 {
-"surface": "radhraṃ",
-"quick_gloss": "radhra"
-},
-{
-"surface": "cāpi",
-"quick_gloss": "and"
+"surface": "api",
+"quick_gloss": "also"
 },
 {
 "surface": "samaṃ",
@@ -285,7 +285,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "naikaḥ",
+"surface": "na+ekaḥ",
 "quick_gloss": "not-one"
 },
 {
@@ -293,12 +293,8 @@
 "quick_gloss": "to-be-cross-examined"
 },
 {
-"surface": "tādṛg",
-"quick_gloss": "such"
-},
-{
-"surface": "arthavicāraṇe",
-"quick_gloss": "matter-inquiry"
+"surface": "tādṛgarthavicāraṇe",
+"quick_gloss": "in-such-object-inquiry"
 }
 ]
 },
@@ -319,23 +315,23 @@
 },
 {
 "surface": "pradhānānāṃ",
-"quick_gloss": "principal"
+"quick_gloss": "of-principals"
 },
 {
 "surface": "na",
 "quick_gloss": "not"
 },
 {
-"surface": "dveṣo",
+"surface": "dveṣaḥ",
 "quick_gloss": "hatred"
 },
 {
-"surface": "nyatra",
+"surface": "anyatra",
 "quick_gloss": "elsewhere"
 },
 {
 "surface": "yujyate",
-"quick_gloss": "fitting"
+"quick_gloss": "is-fitting"
 }
 ]
 },
@@ -347,12 +343,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "yat",
+"surface": "yat+kiṃcit",
 "quick_gloss": "whatever"
-},
-{
-"surface": "kiṃcit",
-"quick_gloss": "kiṃcit"
 },
 {
 "surface": "karmayā",
@@ -380,12 +372,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "yaḥ",
+"surface": "yaḥ+kopi",
 "quick_gloss": "whoever"
-},
-{
-"surface": "kopi",
-"quick_gloss": "kopi"
 },
 {
 "surface": "mokṣaḥ",
@@ -400,7 +388,7 @@
 "quick_gloss": "in-scripture"
 },
 {
-"surface": "sadṛśa",
+"surface": "sadṛśaḥ",
 "quick_gloss": "similar"
 },
 {
@@ -421,12 +409,8 @@
 "quick_gloss": "this"
 },
 {
-"surface": "prakāratā",
-"quick_gloss": "mode"
-},
-{
-"surface": "pattau",
-"quick_gloss": "attainment"
+"surface": "prakāratā+pattau",
+"quick_gloss": "mode-attainment"
 },
 {
 "surface": "bhavatastu",
@@ -434,7 +418,7 @@
 },
 {
 "surface": "vyadhātkaliḥ",
-"quick_gloss": "strife"
+"quick_gloss": "discord"
 }
 ]
 },
@@ -471,16 +455,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "vicāryamāṇenāstaiva",
+"surface": "vicāryamāṇena",
 "quick_gloss": "being-inquired"
 },
 {
-"surface": "sarvavyavahṛtā",
-"quick_gloss": "all-transaction"
+"surface": "astaiva",
+"quick_gloss": "indeed"
 },
 {
-"surface": "vadhi",
-"quick_gloss": "limit"
+"surface": "sarvavyavahṛtā+vadhi",
+"quick_gloss": "all-conventional-boundary"
 }
 ]
 },
@@ -568,11 +552,11 @@
 "tokens": [
 {
 "surface": "aṃgatāṃ",
-"quick_gloss": "limb-status"
+"quick_gloss": "limbs"
 },
 {
 "surface": "kilayātāni",
-"quick_gloss": "kilayātāni"
+"quick_gloss": "indeed-go"
 },
 {
 "surface": "śāstrāṇi",
@@ -600,8 +584,8 @@
 "quick_gloss": "gradually"
 },
 {
-"surface": "pūjyāś",
-"quick_gloss": "worshipful"
+"surface": "pūjyāḥ",
+"quick_gloss": "venerable"
 },
 {
 "surface": "cārvākādinijāgamāḥ",
@@ -617,12 +601,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "yāni",
+"surface": "yāni+yānyantarasthāni",
 "quick_gloss": "whatever"
-},
-{
-"surface": "yānyantarasthāni",
-"quick_gloss": "yānyantarasthāni"
 },
 {
 "surface": "tānitā",
@@ -646,15 +626,19 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "parivārārakṣakāśca",
-"quick_gloss": "attendants-protectors"
+"surface": "parivārārakṣakāḥ",
+"quick_gloss": "attendants-guards"
+},
+{
+"surface": "ca",
+"quick_gloss": "and"
 },
 {
 "surface": "guptyardāḥ",
-"quick_gloss": "protection-purposes"
+"quick_gloss": "treasury-purposes"
 },
 {
-"surface": "śāstra saṃcayāḥ",
+"surface": "śāstra+saṃcayāḥ",
 "quick_gloss": "scripture-collections"
 }
 ]
@@ -668,19 +652,15 @@
 "tokens": [
 {
 "surface": "śāstramārgabhavantyeva",
-"quick_gloss": "scripture-path"
+"quick_gloss": "scripture-path-become"
 },
 {
 "surface": "vīramārgasya",
 "quick_gloss": "hero-path"
 },
 {
-"surface": "ca",
-"quick_gloss": "and"
-},
-{
-"surface": "aṅgatām",
-"quick_gloss": "limb-status"
+"surface": "cāṅgatām",
+"quick_gloss": "and-limb-status"
 }
 ]
 }

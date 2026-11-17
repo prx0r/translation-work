@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p48-v1176
-[dharma-adharma-vyavastha](dharmādharmavyavasthā) [ca](ca) [veda-shastra-adi-dambara](vedaśāstrādiḍaṃbaraḥ)
+dharma-adharma-vyavasthā ca veda-śāstra-ādi-ḍaṃbaraḥ
 
 ## mukta-m0-p48-v1177
-[atra-karana-matyartham](atrakāraṇamatyarthaṃ) [nishcitya-bruhi](niścityabrūhi) [chinnidhe](cinnidhe)
+atra-kāraṇam-atyarthaṃ niścitya-brūhi cinnidhe
 
 ## mukta-m0-p48-v1178
-[sarvasam-api](sarvāsāmapi) [jatinam](jātīnāṃ) [jagdhiya-abdhi-sushuptayah](jagdhiyābdhisuṣuptayaḥ)
+sarvāsām-api jātīnāṃ jagdhiyā-abdhi-suṣuptayaḥ
 
 ## mukta-m0-p48-v1179
-[etat](etat) [hetukam](hetukaṃ) [devi](devī) [hetuh-tatra-nigadyate](hetustatra nigadyate)
+etat hetukaṃ devī hetuḥ-tatra nigadyate
 
 ## mukta-m0-p48-v1180
-[ishta-sadhana-tantra-jnah](iṣṭasādhanataṃtrajñāḥ) [na](na) [sarvatra-api](sarvatrāpi) [jatishu](jātiṣu)
+iṣṭa-sādhana-tantra-jñāḥ na sarvatra-api jātiṣu
 
 ## mukta-m0-p48-v1181
-[pakshinam-api](pakṣīṇāmapi) [sarvesham](sarveṣāṃ) [svahare](svāhāre) [pota-poshanam](potapoṣaṇam)
+pakṣīṇām-api sarveṣāṃ svāhāre pota-poṣaṇam
 
 ## mukta-m0-p48-v1182
-[ayanti](āyāṃti) [danda-hastam](daṇḍahastaṃ) [tu](tu) [drishtva-mithya-pravartate](dṛṣṭvāmithyā pravarttate)
+āyāṃti daṇḍa-hastaṃ tu dṛṣṭvā-mithyā pravarttate
 
 ## mukta-m0-p48-v1183
-[gamah](gamaḥ)
+gamaḥ
 
 ## mukta-m0-p48-v1184
-[katham](kathaṃ) [jnanasya](jñānasya) [rahityam](rāhityaṃ) [vartate-girinandini](varttate girinaṃdini)
+kathaṃ jñānasya rāhityaṃ varttate giri-nandini
 
 ## mukta-m0-p48-v1185
-[pashvader-api](paśvāderapi) [bodhah-tu](bodhastu) [manushyavad-udikshyate](manuṣyavadudīkṣyate)
+paśu-āder-api bodhaḥ-tu manuṣya-vat-udīkṣyate
 
 ## mukta-m0-p48-v1186
-[tatha-hi](tathā hi) [chunchu-grastaih-tu](cuṃcugrastaistu) [trinaih-nidam-vinirmati](tṛṇairnidaṃvinirmati)
+tathā hi cuṃcu-grastaiḥ-tu tṛṇaiḥ-nidaṃ-vinirmati
 
 ## mukta-m0-p48-v1187
-[antargupta](aṃtargupta) [pradeshatvam](pradeśatvaṃ) [varsha-vata-anupadravam](varṣavātānupadravam)
+aṃtargupta-pradeśatvaṃ varṣa-vāta-anupadravam
 
 ## mukta-m0-p48-v1188
-[tatra](tatra) [pankala-velagne](paṃkalavelagne) [khadyate](khadyate) [nishi-bhasvare](niśibhāsvare)
+tatra paṃkala-velagne khadyate niśi-bhāsvare
 
 ## mukta-m0-p48-v1189
-[pakshini](pakṣiṇī) [bhoga-sahitah](bhogasahitaḥ) [pakshi-nirvishati-dhruvam](pakṣīnirviśatidṛvam)
+pakṣiṇī bhoga-sahitaḥ pakṣī-nirviśati-dhruvam
 
 ## mukta-m0-p48-v1190
-[atana](ātānaṃ) [ca](ca) [vitana](vitānaṃ) [ca](ca) [tat-jnanam-na-adhikan-natam](tat jñānaṃ nādhikānnatām)
+ātānaṃ ca vitānaṃ ca tat jñānaṃ na-adhikān-natām
 
 ## mukta-m0-p48-v1191
-[nivedayati](nivedayati) [sushroni](suśroṇi) [sva-jati](svajāti) [gata-patavam](gatapāṭavam)
+nivedayati su-śroṇi sva-jāti gata-pāṭavam
 
 ## mukta-m0-p48-v1192
-[eka-rupani](ekarūpāṇi) [chakrani](cakrāṇi) [stala-grameshu](stālagrāmeṣu) [tanvatah](tanvataḥ)
+eka-rūpāṇi cakrāṇi stāla-grāmeṣu tanvataḥ
 
 ## mukta-m0-p48-v1193
-[brahmana-api](brahmaṇāpi) [na](na) [tat-shakyam](tacchakyaṃ) [prati-jati-drishi-gatih](pratijātīdṛśīgatiḥ)
+brahmaṇā-api na tat-śakyaṃ prati-jāti-dṛśī-gatiḥ
 
 ## mukta-m0-p48-v1194
-[ratrau-uluka](rātrāvulūka) [sushroni](suśroṇi) [ghatadin-pratipadyate](ghaṭādīnpratipadyate)
+rātrau-ulūka su-śroṇi ghaṭa-ādīn-pratipadyate
 
 ## mukta-m0-p48-v1195
-[anya-jater-ashakyah-ca](anyajāteraśakyaśca) [vartate](varttate) [varavarnini](varavarṇini)
+anya-jāter-aśakyaḥ-ca varttate vara-varṇini
 
 ## mukta-m0-p48-v1196
-[varnayishyati](varṇayiṣyati) [tad-vado](tadvādo) [vritha-sambhuta-dambarah](vṛthāsaṃbhūtaḍaṃbaraḥ)
+varṇayiṣyati tat-vādo vṛthā-saṃbhūta-ḍaṃbaraḥ
 
 ## mukta-m0-p48-v1197
-[aharam](āhāraṃ) [ca-eva](caiva) [nidra](nidrā) [ca](ca) [bhayam](bhayaṃ) [maithunam-eva](maithunameva) [ca](ca)
+āhāraṃ ca-eva nidrā ca bhayaṃ maithunam-eva ca
 
 ## mukta-m0-p48-v1198
-[sarvada-eka](sarvadaika) [svarupa](svarūpā) [syuh](syur) [jatayah](jātayo) [martya-varjitah](martyavarjitāḥ)
+sarvadā-eka svarūpā syuḥ-jātayo-martya-varjitāḥ
 
 ## mukta-m0-p48-v1199
-[krte](kṛte) [sampurna-dharmah](saṃpūrṇadharmāḥ) [syuh-sarve](syuḥsarve) [parvati](pārvati) [manavah](mānavāḥ)
+kṛte saṃpūrṇa-dharmāḥ syuḥ-sarve pārvati mānavāḥ
 
 ## mukta-m0-p48-v1200
-[bhavanti](bhavaṃti) [ca](ca) [viliyante](vilīyaṃte) [pratayante](pratāyaṃte) [punah](punaḥ) [punah](punaḥ)
+bhavaṃti ca vilīyaṃte pratāyaṃte punaḥ punaḥ

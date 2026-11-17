@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p50-v1226
-[having-worshipped](pūjayitvā) [enjoy](ramet) [power](śaktiṃ) [semen](vīrya) [falling](pāte) [emission](visarjanam)
+[pūjayitvā](pūjayitvā) [ramet](ramet) [śaktiṃ](śaktiṃ) [vīrya](vīrya) [pāte](pāte) [visarjanam](visarjanam)
 
 ## mukta-m0-p50-v1227
-[but](tu) [in-union](sambhoge) [indeed](caiva) [before-goddess](devyagre) [deity](devatā) [pleasure-participant](prītibhāg) [becomes](bhavet)
+[tu](tu) [sambhoge](sambhoge) [caiva](caiva) [devyagre](devyagre) [devatā](devatā) [prītibhāgbhavet](prītibhāgbhavet)
 
 ## mukta-m0-p50-v1228
-[full-bliss](pūrṇānandaḥ) [becomes](bhavet) [he-too](so'pi) [union](sambhogaṃ) [my](mama) [approved](sammatam)
+[pūrṇānando](pūrṇānando) [bhavet](bhavet) [so'pi](so'pi) [sambhogaṃ](sambhogaṃ) [mama](mama) [sammatam](sammatam)
 
 ## mukta-m0-p50-v1229
-[when](yadā) [enjoy](rame) [cakra-broken](cakrabhinne) [guru's-command-according-to](gurorājñānusārataḥ)
+[yadā](yadā) [rameccakrabhinne](rameccakrabhinne) [gurorājñānusārataḥ](gurorājñānusārataḥ)
 
 ## mukta-m0-p50-v1230
-[she](sā) [woman](nārī) [Kali-form](kālikārūpā) [semen](śukra) [falling](pātaṃ) [in-vulva](bhage) [if](yadi)
+[sā](sā) [nārī](nārī) [kālikārūpā](kālikārūpā) [śukra](śukra) [pātaṃ](pātaṃ) [bhage](bhage) [bhaved](bhaved)
 
 ## mukta-m0-p50-v1231
-[then-by-command-too](tadājñayāpi) [that-womb](tadyonau) [guru-and](guruśca) [intercourse](ramaṇaṃ) [performs](caret)
+[tadājñayāpi](tadājñayāpi) [tadyonau](tadyonau) [guruśca](guruśca) [ramaṇañcaret](ramaṇañcaret)
 
 ## mukta-m0-p50-v1232
-[guru-ness](gurutvaṃ) [indeed](hi) [dissolution](layaṃ) [because](yasmāt) [again](punaḥ) [cakra](cakraṃ) [employ](niyojaye)
+[gurutvaṃ](gurutvaṃ) [hi](hi) [layaṃ](layaṃ) [yasmāt](yasmāt) [punaścakraṃ](punaścakraṃ) [niyojaye](niyojaye)
 
 ## mukta-m0-p50-v1233
-[intercourse](ramaṇaṃ) [not-indeed](naiva) [to-be-done](karttavyaṃ) [if-done-too](kṛte'pi) [fallen](patitaḥ) [becomes](bhavet)
+[ramaṇaṃ](ramaṇaṃ) [naiva](naiva) [karttavyaṃ](karttavyaṃ) [kṛte'pi](kṛte'pi) [patito](patito) [bhavet](bhavet)
 
 ## mukta-m0-p50-v1234
-[therefore](ata) [indeed](eva) [O-great-lady](maheśāni) [prostitute-power-blossoming](veśyāśaktipraphullikā)
+[ata](ata) [eva](eva) [maheśāni](maheśāni) [veśyāśaktipraphullikā](veśyāśaktipraphullikā)
 
 ## mukta-m0-p50-v1235
-[by-touch](sparśanāt) [merit-part-world](puṇyabhāglokaḥ) [by-killing-and](ghātanācca) [action-endowed](kriyānvitaḥ)
+[sparśanāt](sparśanāt) [puṇyabhāgloko](puṇyabhāgloko) [ghātanācca](ghātanācca) [kriyānvitaḥ](kriyānvitaḥ)
 
 ## mukta-m0-p50-v1236
-[purified-self](pūtātmā) [merit-participant-and](puṇyabhāgīca) [action-powerful](kriyāśaktaḥ) [Shiva-becomes](śivobhavet)
+[pūtātmā](pūtātmā) [puṇyabhāgīca](puṇyabhāgīca) [kriyāśaktaḥ](kriyāśaktaḥ) [śivobhavet](śivobhavet)
 
 ## mukta-m0-p50-v1237
-[from-worthy](yogyāt) [Shiva-hood](śivatvaṃ) [union](sāyujyaṃ) [in-Indra](śakre) [nirvana](nirvāṇa) [part-becomes](bhāgbhavet)
+[yogyāt](yogyāt) [śivatvaṃ](śivatvaṃ) [sāyujyaṃ](sāyujyaṃ) [śakre](śakre) [nirvāṇa](nirvāṇa) [bhāgbhavet](bhāgbhavet)
 
 ## mukta-m0-p50-v1238
-[intercourse](mathunaṃ) [cause-to-do](kārayet) [wise](dhīraḥ) [that-different](tadbhinne) [hell](narakaṃ) [goes](vrajet)
+[mathunaṃ](mathunaṃ) [kārayed](kārayed) [dhīrastadbhinne](dhīrastadbhinne) [narakaṃ](narakaṃ) [vrajet](vrajet)
 
 ## mukta-m0-p50-v1239
-[by-rite](vidhānena) [O-best-ascender](varārohe) [what](kiṃ) [not](na) [succeeds](sidhyati) [on-earth](bhūtale)
+[vidhānene](vidhānene) [varārohe](varārohe) [kiṃ](kiṃ) [na](na) [sidhyati](sidhyati) [bhūtale](bhūtale)
 
 ## mukta-m0-p50-v1240
-[intercourse](mathunaṃ) [to-hear](śrotum) [I-desire](icchāmi) [according-to-rite](yathāvidhi) [rite](vidhānakam)
+[mathunaṃ](mathunaṃ) [śrotumicchāmi](śrotumicchāmi) [yathāvidhi](yathāvidhi) [vidhānakam](vidhānakam)
 
 ## mukta-m0-p50-v1241
-[without-intercourse](maithunena vinā) [O-goddess](devi) [all-work](sarvakāryaṃ) [vain](vṛthā) [becomes](bhavet)
+[maithunena](maithunena) [vinā](vinā) [devi](devi) [sarvakāryaṃ](sarvakāryaṃ) [vṛthā](vṛthā) [bhavet](bhavet)
 
 ## mukta-m0-p50-v1242
-[otherwise-too](anyathāpi) [done](kṛtaṃ) [work](kāryyaṃ) [that](sa) [sucker](cumbakaḥ) [no](na) [doubt](saṃśayaḥ)
+[anyathāpi](anyathāpi) [kṛtaṃ](kṛtaṃ) [kāryyaṃ](kāryyaṃ) [sa](sa) [cumbako](cumbako) [na](na) [saṃśayaḥ](saṃśayaḥ)
 
 ## mukta-m0-p50-v1243
-[for-that](tadarthe) [intercourse](maithunaṃ) [O-goddess](devi) [declared](proktaṃ) [indeed](hi) [rite-instructed](vidhibodhitam)
+[tadarthe](tadarthe) [maithunaṃ](maithunaṃ) [devi](devi) [proktaṃ](proktaṃ) [hi](hi) [vidhibodhitam](vidhibodhitam)
 
 ## mukta-m0-p50-v1244
-[that](taṃ) [seeing](dṛṣṭvā) [practitioner](sādhakaḥ) [O-goddess](devi) [of-vulva](yonyā) [nose](ghrāṇaṃ) [should-perform](samācaret)
+[taṃ](taṃ) [dṛṣṭvā](dṛṣṭvā) [sādhako](sādhako) [devi](devi) [yonyā](yonyā) [ghrāṇaṃ](ghrāṇaṃ) [samācaret](samācaret)
 
 ## mukta-m0-p50-v1245
-[power's-command](śakterājñāṃ) [without](vinā) [O-goddess](devi) [by-force](valena) [intercourse](maithunaṃ) [performs](caret)
+[śakterājñāṃ](śakterājñāṃ) [vinā](vinā) [devi](devi) [valena](valena) [maithunaṃ](maithunaṃ) [caret](caret)
 
 ## mukta-m0-p50-v1246
-[he](sa) [rogue](śaṭhaḥ) [she-too](sāpi) [power-and](śaktiśca) [at-that-moment](tatkṣaṇāt) [him](taṃ) [abandon](parityajet)
+[sa](sa) [śaṭhaḥ](śaṭhaḥ) [sāpi](sāpi) [śaktiśca](śaktiśca) [tatkṣaṇāttaṃ](tatkṣaṇāttaṃ) [parityajet](parityajet)
 
 ## mukta-m0-p50-v1247
-[hypocrite](dāmbhikaṃ) [him](taṃ) [know](vijānīyāt) [her](tasyā) [talk](lāpaṃ) [abandon](parityajet)
+[dāmbhikaṃ](dāmbhikaṃ) [taṃ](taṃ) [vijānīyāt](vijānīyāt) [tasyā](tasyā) [lāpaṃ](lāpaṃ) [parityajet](parityajet)
 
 ## mukta-m0-p50-v1248
-[not-able](nāśakam)
+[nāśakam](nāśakam)
 
 ## mukta-m0-p50-v1249
-[intercourse](ramaṇaṃ) [indeed](hi) [to-be-done](prakarttavyaṃ) [by-divine-mood](surabhāvena) [imbued](bhāvitaḥ)
+[ramaṇaṃ](ramaṇaṃ) [hi](hi) [prakarttavyaṃ](prakarttavyaṃ) [surabhāvena](surabhāvena) [bhāvitaḥ](bhāvitaḥ)
 
 ## mukta-m0-p50-v1250
-[manifestation-and](prakāśañca) [I-do](karomyadya) [not](na) [to-be-manifested](prakāśyaṃ) [ever](kadācana)
+[prakāśañca](prakāśañca) [karomyadya](karomyadya) [na](na) [prakāśyaṃ](prakāśyaṃ) [kadācana](kadācana)
