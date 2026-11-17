@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p79-v1951
-[kālībhadrī](kālībhadrī) [samākhyātaṃ](samākhyātaṃ) [kālī](kālī) [ca](ca) [eva](eva) [āyunāya](āyunāya) [ca](ca)
+[kālī](kālī) [bhadrī](bhadrī) [called](samākhyātaṃ) [kālī](kālī) [and](ca) [indeed](eva) [for-longevity](āyunāya) [and](ca)
 
 ## mukta-m0-p79-v1952
-[śūlaṃ](śūlaṃ) [ḍamarukaṃ](ḍamarukaṃ) [savye](savye) [kapālaṃ](kapālaṃ) [pāśa](pāśa) [ṭaṅkare](ṭaṅkare)
+[trident](śūlaṃ) [drum](ḍamarukaṃ) [in-left-hand](savye) [skull](kapālaṃ) [noose](pāśa) [axe-hand](ṭaṅkare)
 
 ## mukta-m0-p79-v1953
-[du](du) [karṇikā](karṇikā) [bhāsāṃ](bhāsāṃ) [bhīma](bhīma)
+[du](du) [earring-like](karṇikābhāsāṃ) [terrible](bhīma)
 
 ## mukta-m0-p79-v1954
-[kālarātri](kālarātri) [svarūpāyāṃ](svarūpāyāṃ) [śmaśānaṃ](śmaśānaṃ) [devam](devam) [arcayet](arcayet)
+[kālarātri](kālarātri) [in-true-form](svarūpāyāṃ) [cremation-ground](śmaśānaṃ) [deity](devam) [should-worship](arcayet)
 
 ## mukta-m0-p79-v1955
-[madhyādi](madhyādi) [galaparyantaṃ](galaparyantaṃ) [viṣṇunā](viṣṇunā) [antaṃ](antaṃ) [supūjayet](supūjayet)
+[from-middle](madhyādi) [up-to-throat](galaparyantaṃ) [ending-with-viṣṇu](viṣṇunāntaṃ) [should-worship-well](supūjayet)
 
 ## mukta-m0-p79-v1956
-[śaktiḥ](śaktiḥ) [utpati](utpati) [aśaiva](aśaiva) [arthaṃ](arthaṃ) [śaktyā](śaktyā) [utpadyate](utpadyate) [śivaḥ](śivaḥ)
+[power](śakti) [arising](utpati) [non-śaiva](aśaiva) [for-sake](arthaṃ) [by-power](śaktyā) [arises](utpadyate) [śiva](śivaḥ)
 
 ## mukta-m0-p79-v1957
-[brahmā](brahmā) [viṣṇuḥ](viṣṇuḥ) [ca](ca) [rudraḥ](rudraḥ) [ca](ca) [īśvaraḥ](īśvaraḥ) [ca](ca) [sadāśivaḥ](sadāśivaḥ)
+[brahmā](brahmā) [viṣṇu](viṣṇu) [and](śca) [rudra](rudra) [and](ca) [īśvara](īśvara) [and](ca) [sadāśiva](sadāśivaḥ)
 
 ## mukta-m0-p79-v1958
-[icchāśaktiḥ](icchāśaktiḥ) [kriyā](kriyā)
+[will-power](icchāśaktiḥ) [action](kriyā)
 
 ## mukta-m0-p79-v1959
-[brāhmī](brāhmī) [mūrdhni](mūrdhni) [tu](tu) [vinyasya](vinyasya) [lalāṭe](lalāṭe) [tu](tu) [maheśvarīm](maheśvarīm)
+[brāhmī](brāhmī) [on-head](mūrdhni) [and](tu) [placing](vinyasya) [on-forehead](lalāṭe) [and](tu) [maheśvarī](maheśvarīm)
 
 ## mukta-m0-p79-v1960
-[vārāhī](vārāhī) [hṛdaye](hṛdaye) [ca](ca) [eva](eva) [indrāṇī](indrāṇī) [liṅgamūlake](liṅgamūlake)
+[vārāhī](vārāhī) [in-heart](hṛdaye) [and](ca) [indeed](eva) [indrāṇī](indrāṇī) [at-base-of-liṅga](liṅgamūlake)
 
 ## mukta-m0-p79-v1961
-[pūjāṃ](pūjāṃ) [pūrvavad](pūrvavad) [ācaret](ācaret)
+[worship](pūjāṃ) [as-before](pūrvavad) [should-perform](ācaret)
 
 ## mukta-m0-p79-v1962
-[vārāhī](vārāhī) [ca](ca) [tathā](tathā) [indrāṇī](indrāṇī) [devyā](devyā) [agra](agra) [diṣṭa](diṣṭa) [koṇa](koṇa) [ṣaṭ](ṣaṭ)
+[vārāhī](vārāhī) [and](ca) [likewise](tathā) [indrāṇī](indrāṇī) [of-goddess](devyā) [beginning-with-tip](agrādiṣṭa) [corner](koṇa) [six](ṣaṭ)
 
 ## mukta-m0-p79-v1963
-[jambhīti](jambhīti) [stambhinī](stambhinī) [ca](ca) [eva](eva) [śā](śā)
+[jambhīti](jambhīti) [paralyzing](stambhinī) [and](ca) [indeed](eva)
 
 ## mukta-m0-p79-v1964
-[tadbahiḥ](tadbahiḥ) [ṣoḍaśāṃśa](ṣoḍaśāṃśa) [eva](eva) [patraṃ](patraṃ) [ṣoḍaśākṣaram](ṣoḍaśākṣaram)
+[outside-that](tadbahiḥ) [sixteen-parts](ṣoḍaśāṃśa) [indeed](eva) [petal](patraṃ) [sixteen-syllabled](ṣoḍaśākṣaram)
 
 ## mukta-m0-p79-v1965
-[pāśā](pāśā) [ca](ca) [māsi](māsi) [saṃyuktaṃ](saṃyuktaṃ) [vipu](vipu) [śācchedikaṃ](śācchedikaṃ) [tathā](tathā)
+[noose](pāśā) [and](ca) [in-month](māsi) [joined](saṃyuktaṃ) [vipu-śācchedika](vipuśācchedikaṃ) [and](tathā)
 
 ## mukta-m0-p79-v1966
-[udbhavantu](udbhavantu) [saṃyuktaṃ](saṃyuktaṃ) [udbhavaṃ](udbhavaṃ) [ca](ca) [eva](eva) [kārayet](kārayet)
+[may-they-arise](bhodbhavantu) [joined](saṃyuktaṃ) [arising](udbhavaṃ) [and](ca) [indeed](eva) [should-cause](kārayet)
 
 ## mukta-m0-p79-v1967
-[vijāyī](vijāyī) [ca](ca) [avijāyī](avijāyī) [ca](ca) [vijayī](vijayī) [iti](iti) [eva](eva) [jṛmbhiṇī](jṛmbhiṇī)
+[victorious](vijāyī) [and](ca) [non-victorious](avijāyī) [and](ca) [victorious](vijayī) [thus](iti) [indeed](eva) [yawning](jṛmbhiṇī)
 
 ## mukta-m0-p79-v1968
-[devyā](devyā) [agra](agra) [diṣu](diṣu) [saṃpūjya](saṃpūjya)
+[of-goddess](devyā) [beginning-with-tip](agrādiṣu) [having-worshipped](saṃpūjya)
 
 ## mukta-m0-p79-v1969
-[madhu](madhu) [māṃsa](māṃsa) [phalānāṃ](phalānāṃ) [tu](tu) [naivedyaṃ](naivedyaṃ) [ca](ca) [eva](eva) [pūjayet](pūjayet)
+[honey](madhu) [meat](māṃsa) [of-fruits](phalānāṃ) [and](tu) [food-offering](naivedyaṃ) [and](ca) [indeed](eva) [should-worship](pūjayet)
 
 ## mukta-m0-p79-v1970
-[gīta](gīta) [vādyaṃ](vādyaṃ) [ca](ca) [nṛttaṃ](nṛttaṃ) [ca](ca) [sarva](sarva) [upacāra](upacāra) [pūjayet](pūjayet)
+[song](gīta) [music](vādyaṃ) [and](ca) [dance](nṛttaṃ) [and](ca) [all](sarva) [services](upacāra) [should-worship](pūjayet)
 
 ## mukta-m0-p79-v1971
-[dvārāre](dvārāre) [bali](bali) [pīṭhake](pīṭhake)
+[at-door](dvārāre) [offering](bali) [on-seat](pīṭhake)
 
 ## mukta-m0-p79-v1972
-[devamātarakaṃ](devamātarakaṃ) [ca](ca) [eva](eva) [paiśāca](paiśāca) [mātaras](mātaras) [tathā](tathā)
+[divine-mother](devamātarakaṃ) [and](ca) [indeed](eva) [demonic](paiśāca) [mothers](mātara) [and](tathā)
 
 ## mukta-m0-p79-v1973
-[aja](aja) [kukkuṭa](kukkuṭa) [mahiṣāṃ](mahiṣāṃ) [ca](ca) [aśva](aśva) [gaja](gaja) [mānuṣā](mānuṣā) [ca](ca) [mu](mu)
+[goat](aja) [cock](kukkuṭa) [buffalo](mahiṣāṃ) [and](ca) [horse](aśva) [elephant](gaja) [human](mānuṣā) [and](ca) [mu](mu)
 
 ## mukta-m0-p79-v1974
-[pretavāhanakaṃ](pretavāhanakaṃ) [ca](ca) [eva](eva) [upāsya](upāsya) [arcana](arcana) [kaṃ](kaṃ) [tathā](tathā)
+[ghost](preta) [vehicle](vāhanakaṃ) [and](ca) [indeed](eva) [to-be-worshipped](upāsya) [worship](arcanakaṃ) [and](tathā)
 
 ## mukta-m0-p79-v1975
-[sarveṣāṃ](sarveṣāṃ) [sevitaṃ](sevitaṃ) [ca](ca) [eva](eva) [cāmuṇḍā](cāmuṇḍā) [anyaṃ](anyaṃ) [samarcayet](samarcayet)
+[of-all](sarveṣāṃ) [served](sevitaṃ) [and](ca) [indeed](eva) [cāmuṇḍā](cāmuṇḍā) [other](anyaṃ) [should-worship](samarcayet)

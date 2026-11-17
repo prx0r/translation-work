@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p16-v376
-[sarva-mantra-ātmakaṃ](sarvamantrātmakaṃ) [mantraṃ](mantraṃ) [piṇḍa-mantram](piṇḍamantram) [idam](idaṃ) [śubham](śubham)
+[all-mantra-souled](sarvamantrātmakaṃ) [mantra](mantraṃ) [piṇḍa-mantra](piṇḍamantram) [this](idaṃ) [auspicious](śubham)
 
 ## mukta-m0-p16-v377
-[liṅga-bheda-kramaṃ](liṅgabhedakramaṃ) [vakṣye](vakṣye) [viśeṣaṃ](viśeṣaṃ) [tu](tu) [yathā-kramam](yathākramam)
+[linga-difference-order](liṅgabhedakramaṃ) [I-will-speak](vakṣye) [special](viśeṣaṃ) [but](tu) [according-to-order](yathākramam)
 
 ## mukta-m0-p16-v378
-[cala-liṅge](calaliṅge) [sadā-vāsaṃ](sadāvāsaṃ) [pūjayet](pūjayet) [parama-īśvaram](parameśvaram)
+[moving-linga](calaliṅge) [eternal-abode](sadāvāsaṃ) [worship](pūjayet) [supreme-lord](parameśvaram)
 
 ## mukta-m0-p16-v379
-[mantra-saṃskāra-hīne](mantrasaṃskārahīne) [tu](tu) [liṅgam](liṅgam) [ākṛti-mātrakam](ākṛtimātrakam)
+[mantra-purification-devoid](mantrasaṃskārahīne) [but](tu) [linga-form](liṅgamākṛti) [mere](mātrakam)
 
 ## mukta-m0-p16-v380
-[tasmāt](tasmāt) [sarva-prayatnena](sarvaprayatnena) [svāmi-rūpaṃ](svāmirūpaṃ) [sadā-arcayet](sadārcayet)
+[therefore](tasmāt) [all-effort](sarvaprayatnena) [lord-form](svāmirūpaṃ) [always-worship](sadārcayet)
 
 ## mukta-m0-p16-v381
-[satya-vastu](satyavastu) [sva-rūpaṃ](svarūpaṃ) [tu](tu) [paraṃ](paraṃ) [sādākhya](sādākhya) [tat](tat)
+[true-substance](satyavastu) [own-form](svarūpaṃ) [but](tu) [supreme](paraṃ) [sādākhya](sādākhya) [that](tat)
 
 ## mukta-m0-p16-v382
-[pūrva-ākṛtiṃ](pūrvākṛtiṃ) [parityajya](parityajya) [sādākhya-ākṛtiḥ](sādākhyākṛtiḥ) [eva](eva) [ca](ca)
+[previous-form](pūrvākṛtiṃ) [abandoning](parityajya) [sādākhya-form-indeed](sādākhyākṛtireva) [and](ca)
 
 ## mukta-m0-p16-v383
-[nṛtta-rūpaṃ](nṛttarūpaṃ) [sadā](sadā) [dhyātvā](dhyātvā) [dakṣiṇa-ālayam](dakṣiṇālayam) [ādikaḥ](ādikaḥ)
+[dance-form](nṛttarūpaṃ) [always](sadā) [meditating](dhyātvā) [southern-abode-first](dakṣiṇālayamādikaḥ)
 
 ## mukta-m0-p16-v384
-[nava-tatva-mayaṃ](navatatvamayaṃ) [sthānaṃ](sthānaṃ) [sarva-saṃpat-karaṃ](sarvasaṃpatkaraṃ) [param](param)
+[nine-tattva-made](navatatvamayaṃ) [place](sthānaṃ) [all-prosperity-causing](sarvasaṃpatkaraṃ) [supreme](param)
 
 ## mukta-m0-p16-v385
-[śubhaṃ](śubhaṃ) [parama-nirvāṇaṃ](paramanirvāṇaṃ) [sarva-deha](sarvadeha) [sadā-śivam](sadāśivam)
+[auspicious](śubhaṃ) [supreme-nirvana](paramanirvāṇaṃ) [all-body](sarvadeha) [sadashiva](sadāśivam)
 
 ## mukta-m0-p16-v386
-[hṛt-padma-madhye](hṛtpadmamadhye) [saṃsthāpya](saṃsthāpya) [nāda-tantraṃ](nādatantraṃ) [kalā-mayam](kalāmayam)
+[heart-lotus-middle](hṛtpadmamadhye) [establishing](saṃsthāpya) [nada-tantra](nādatantraṃ) [kala-made](kalāmayam)
 
 ## mukta-m0-p16-v387
-[āsīnaṃ](āsīnaṃ) [vā](vā) [su-nṛttaṃ](sunṛttaṃ) [vā](vā) [dhyāyet](dhyāyennityaṃ) [nityaṃ](dhyāyennityaṃ) [maheśvara](maheśvara)
+[seated](āsīnaṃ) [or](vā) [well-dancing](sunṛttaṃ) [or](vā) [meditate-always](dhyāyennityaṃ) [great-lord](maheśvara)
 
 ## mukta-m0-p16-v388
-[aṅguṣṭha-mātram](aṅguṣṭhamātram) [acalaṃ](acalaṃ) [śuddha-tatvaṃ](śuddhatatvaṃ) [nava-ātmakam](navātmakam)
+[thumb-measure-immovable](aṅguṣṭhamātramacalaṃ) [pure-tattva](śuddhatatvaṃ) [nine-souled](navātmakam)
 
 ## mukta-m0-p16-v389
-[ātmānaṃ](ātmānaṃ) [tu](tu) [sa-kārasyaṃ](sakārasyaṃ) [antar-ātmā](antarātmā) [tu](tu) [bindukaḥ](bindukaḥ)
+[self](ātmānaṃ) [but](tu) [with-syllable](sakārasyaṃ) [inner-self](antarātmā) [but](tu) [bindu](bindukaḥ)
 
 ## mukta-m0-p16-v390
-[sarvaṃ](sarvaṃ) [hṛdaya-mantreṇa](hṛdayamantreṇa) [pūjayitvā](pūjayitvā) [yathā-kramam](yathākramam)
+[all](sarvaṃ) [heart-mantra](hṛdayamantreṇa) [having-worshipped](pūjayitvā) [according-to-order](yathākramam)
 
 ## mukta-m0-p16-v391
-[aṣṭa-triṃśat-param](aṣṭatriṃśatparam) [nṛttaṃ](nṛttaṃ) [nyāsa-kāla-kramaṃ](nyāsakālakramaṃ) [śṛṇu](śṛṇu)
+[thirty-eight-supreme](aṣṭatriṃśatparaṃ) [dance](nṛttaṃ) [nyasa-time-order](nyāsakālakramaṃ) [hear](śṛṇu)
 
 ## mukta-m0-p16-v392
-[aṣṭa-triṃśa-ātma-mantrakam](aṣṭatriṃśātmamantrakam)
+[thirty-eight-soul-mantra](aṣṭatriṃśātmamantrakam)
 
 ## mukta-m0-p16-v393
-[deha-śuddhiṃ](dehaśuddhiṃ) [kalā-nyāsaṃ](kalānyāsaṃ) [aṣṭa-triṃśa-ātma-mantrakam](aṣṭatriṃśātmamantrakam)
+[body-purification](dehaśuddhiṃ) [kala-nyasa](kalānyāsaṃ) [thirty-eight-soul-mantra](aṣṭatriṃśātmamantrakam)
 
 ## mukta-m0-p16-v394
-[ātma-śuddhi-kramaṃ](ātmaśuddhikramaṃ) [proktaṃ](proktaṃ) [sthāna-śuddhi-kramaṃ](sthānaśuddhikramaṃ) [śṛṇu](śṛṇu)
+[self-purification-order](ātmaśuddhikramaṃ) [declared](proktaṃ) [place-purification-order](sthānaśuddhikramaṃ) [hear](śṛṇu)
 
 ## mukta-m0-p16-v395
-[kṣya](kṣya) [bahudhā](bahudhā) [loṣṭa-asthi-ādīni](loṣṭāsthyādīni) [varjayet](varjayet)
+[...] (kṣya) [in-many-ways](bahudhā) [clod-bone-etc](loṣṭāsthyādīni) [avoid](varjayet)
 
 ## mukta-m0-p16-v396
-[vitāna](vitāna) [dhvaja-saṃyuktaṃ](dhvajasaṃyuktaṃ) [kadalī-kramuka-anvitam](kadalīkramukānvitam)
+[canopy](vitāna) [flag-endowed](dhvajasaṃyuktaṃ) [banana-areca-included](kadalīkramukānvitam)
 
 ## mukta-m0-p16-v397
-[puṣpa-mālā](puṣpamālā) [samākīrṇaṃ](samākīrṇaṃ) [dīpa-mālā](dīpamālā) [pariṣkṛtam](pariṣkṛtam)
+[flower-garland](puṣpamālā) [strewn](samākīrṇaṃ) [lamp-garland](dīpamālā) [adorned](pariṣkṛtam)
 
 ## mukta-m0-p16-v398
-[śuddha-udakena](śuddhodakena) [saṃpūrya](saṃpūrya) [saura-nyāsaṃ](sauranyāsaṃ) [samācaret](samācaret)
+[pure-water](śuddhodakena) [filling](saṃpūrya) [solar-nyasa](sauranyāsaṃ) [perform](samācaret)
 
 ## mukta-m0-p16-v399
-[sthale](sthale) [pṛṣṭhe](pṛṣṭhe) [ca](ca) [saṃśodhya](saṃśodhya) [karayoḥ](karayordakṣavāmayoḥ) [dakṣa-vāmayoḥ](karayordakṣavāmayoḥ)
+[on-ground](sthale) [back](pṛṣṭhe) [and](ca) [cleansing](saṃśodhya) [hands-right-left](karayordakṣavāmayoḥ)
 
 ## mukta-m0-p16-v400
-[praṇavaṃ](praṇavaṃ) [vahni](vahni) [saṃyuktaṃ](saṃyuktaṃ) [kāra-antāntam](kārāntāntam) [akṣaram](akṣaram)
+[om](praṇavaṃ) [fire](vahni) [joined](saṃyuktaṃ) [kārānta-final-syllable](kārāntāntamakṣaram)
