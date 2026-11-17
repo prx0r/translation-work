@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p141-v3501
-twelve (dvādaśa) together (sambhūya) thirty-eight (aṣṭatriṃśat) vital-points (marmāṇi) | in-these (eṣu) vital-points (marmasu)
+[twelve](dvādaśa) [together](sambhūya) [thirty-eight](aṣṭatriṃśan) [vital-spots](marmāṇi) [in](eṣu) [these](eṣu) [vital-spots](marmasu)
 
 ## mukta-m0-p141-v3502
-disorder (vailomye) deformed-limb-ness (vikṛtāṅgatvāt) by-people (lokaiḥ) for-destruction (nāśāya) is-considered (kalpyate)
+[contrariety](vailomye) [deformed-limbs](vikṛtāṅgatvāt) [by](āt) [people](lokaiḥ) [destruction](nāśāya) [is-considered](kalpyate)
 
 ## mukta-m0-p141-v3503
-yoga (yogaḥ) yoga (yogaḥ) indeed (tu) to-be-known (vijñeyaḥ) its (tasya) limbs (aṅgāni) and (tathā) eight (aṣṭa) indeed (vai)
+[yoga](yogaḥ) [yoga](yogaḥ) [indeed](tu) [is-to-be-known](vijñeyaḥ) [its](tasya) [limbs](aṅgāni) [thus](tathā) [eight](aṣṭa) [indeed](vai)
 
 ## mukta-m0-p141-v3504
-breath-control (prāṇāyāmaḥ) and (tathā) withdrawal (pratyāhāraḥ) then (tadanu) concentration (dhāraṇam)
+[breath-control](prāṇāyāmaḥ) [then](tathā) [withdrawal](pratyāhāraḥ) [then](tadanu) [concentration](dhāraṇam)
 
 ## mukta-m0-p141-v3505
-I-tell (kathayāmi) listen (śṛṇu) wise-one (prājñe) by-whom (yaiḥ) mortal (marttyaḥ) like-me (matsamaḥ) becomes (bhavet)
+[i-tell](kathayāmi) [listen](śṛṇu) [wise-one](prājñe) [by-whom](yaiḥ) [mortal](marttyaḥ) [equal-to-me](matsamaḥ) [becomes](bhavet)
 
 ## mukta-m0-p141-v3506
-greed-delusion (lobha+moha) pride-arrogance (māna+mada) like-fire (vahnivat) all-destroying (sarvanāśakāḥ)
+[greed](lobha) [delusion](moha) [pride](māna) [arrogance](mada) [fire-like](vahnivat) [all-destroying](sarvanāśakāḥ)
 
 ## mukta-m0-p141-v3507
-from-deformed-limb (vikṛtāṅgatvāt) from-harmful-etc (ahitādibhiḥ)
+[deformed-limbs](vikṛtāṅgatvāt) [from-harmful-things](ahitādibhiḥ)
 
 ## mukta-m0-p141-v3508
-eight-limbed-form (aṣṭāṅga+svarūpaiḥ) | like-me (matsamaḥ) my-nature (manmayaḥ) Shiva-form (śivarūpaḥ)
+[eight-limbed-form](aṣṭāṅgasvarūpaiḥ) [equal-to-me](matsamaḥ) [my-natured](manmayaḥ) [shiva-form](śivarūpaḥ)
 
 ## mukta-m0-p141-v3509
-from-efforts (udyogebhyaḥ) cessation (uparamaṇam) restraint (yamaḥ) called-yama (yamākhya) limb (aṅgam)
+[from-efforts](udyogebhyaḥ) [cessation](uparamaṇam) [restraint](yamaḥ) [restraint-limb](yamākhyamaṅgam)
 
 ## mukta-m0-p141-v3510
-and-eleven-formed (tatha+ekādaśa+rūpaḥ) is (syāt) observance (niyamaḥ) declared (parikīrttitaḥ)
+[thus](tathā) [eleven-formed](ekādaśarūpaḥ) [is](syāt) [observance](niyamaḥ) [declared](parikīrttitaḥ)
 
 ## mukta-m0-p141-v3511
-forbearance (kṣamā) compassion (dayā) threefold-purity (tridhā+śaucam) contentment (santoṣaḥ) guru-service (gurusevanam)
+[patience](kṣamā) [compassion](dayā) [threefold-purity](tridhāśaucaṃ) [contentment](santoṣaḥ) [guru-service](gurusevanam)
 
 ## mukta-m0-p141-v3512
-postures (āsanāni) mind-steadiness-making (manaḥ+sthairya+karaṇe) conducive (sādhakāni) indeed (vai)
+[postures](āsanāni) [mind-steadiness](manaḥsthairyakaraṇe) [making](karaṇe) [effective](sādhakāni) [indeed](vai)
 
 ## mukta-m0-p141-v3513
-outer-side-two-touch (bāhya+pārśva+dvaya+sparśāt) that (tat) lotus-posture (padmāsanam) is-called (īritam)
+[outer-side-two-touch](bāhyapārśvadvayasparśāt) [that](tat) [lotus-posture](padmāsanam) [is-called](īritam)
 
 ## mukta-m0-p141-v3514
-swastika-shape (svastikākārataḥ) declared (proktam) that (tat) auspicious-posture (bhadrāsanam) O-goddess (īśvari)
+[swastika-shaped](svastikākārataḥ) [declared](proktam) [that](tat) [auspicious-posture](bhadrāsanam) [goddess](īśvari)
 
 ## mukta-m0-p141-v3515
-mind-speech-body-form (mano+vāk+kāya+rūpataḥ) | contentment (santoṣaḥ) fullness (pūrṇatā)
+[mind-speech-body-form](manovākkāyarūpataḥ) [contentment](santoṣaḥ) [fullness](pūrṇatā)
 
 ## mukta-m0-p141-v3516
-thighs-below-and-above (ūrvoḥ+adhaḥ+tathā+ūrdhve) and (ca) twofold (dvidhā) auspicious-posture (bhadrāsanam) remembered (smṛtam)
+[thighs-below-and-above](ūrvoradhastathorddhe) [thus](ca) [twofold](dvidhā) [auspicious-posture](bhadrāsanam) [remembered](smṛtam)
 
 ## mukta-m0-p141-v3517
-feet-at-knee-region (pādayoḥ+jānu+deśe) indeed (vai) called-vīra (vīrākhyam) yoga-strap (yogapaṭṭataḥ)
+[feet-knee-region](pādayorjānudeśe) [indeed](vai) [hero-named](vīrākhyaṃ) [yoga-band](yogapaṭṭataḥ)
 
 ## mukta-m0-p141-v3518
-lightness (lāghavaḥ) ground-abandonment (bhūtala+tyāgaḥ) supreme (uttame) mind-peace (cittanirvṛtiḥ)
+[lightness](lāghavaḥ) [ground-abandonment](bhūtalatyāgaḥ) [supreme](uttame) [mind-delight](cittanirvṛtiḥ)
 
 ## mukta-m0-p141-v3519
-whole-body-trembling (sarva+aṅga+kampanam) declared (proktam) from-practice (abhyāsāt) time-united (kāla+saṃyutāt)
+[all-limbs-trembling](sarvvāṅgakampanam) [declared](proktam) [practice](abhyāsāt) [time-joined](kālasaṃyutāt)
 
 ## mukta-m0-p141-v3520
-therefore (tasmāt) practice (samabhyaset) morning (prātaḥ) evening (sāyañ) and (ca) with-rule (niyamena) indeed (vai)
+[therefore](tasmāt) [practice-well](samabhyaset) [morning](prātaḥ) [evening](sāyañca) [by-rule](niyamena) [indeed](vai)
 
 ## mukta-m0-p141-v3521
-remembering-water (smaran+ambu) air (marut) afterwards (paścāt) right (dakṣiṇena) should-remove (apasārayet)
+[remembering-water](smarannambu) [air](marut) [afterwards](paścāt) [southward](dakiṇena) [remove](apasārayet)
 
 ## mukta-m0-p141-v3522
-tradition (sampradāyaḥ)
+[tradition](sampradāyaḥ)
 
 ## mukta-m0-p141-v3523
-twofold (dvividham) vīra-posture (vīrāsanam) becomes (bhavati) thus (iti)
+[twofold](dvividhaṃ) [hero-posture](vīrāsanam) [is](bhavati) [thus](iti)
 
 ## mukta-m0-p141-v3524
-hold (dhārayet) that (tat) sixty-four (catuḥṣaṣṭyā) exhale (recayet) that (tat) fourth (turīyataḥ)
+[hold](dhārayet) [that](tat) [sixty-four](catuḥṣaṣṭyā) [exhale](recayet) [that](tat) [fourth](turīyataḥ)
 
 ## mukta-m0-p141-v3525
-likewise (tadvat) radiance-manifestation (kānti+prakāśau) and (ca) yoga-adept's (yogasiddhasya) mark (lakṣaṇam)
+[thus](tadvat) [radiance-manifestation](kāntiprakāśau) [also](ca) [yoga-accomplished](yogasiddhasya) [mark](lakṣaṇam)

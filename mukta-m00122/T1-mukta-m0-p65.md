@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p65-v1601
-[yuga-anurūpa](yugānurūpam) [akṣara-tri-lakṣa-ādikam](akṣaratrilakṣādikaṃ) [prāgvat](prāgvat)
+[yugānurūpam](yugānurūpam) [akṣaratrilakṣādikaṃ](akṣaratrilakṣādikaṃ) [prāgvat](prāgvat)
 
 ## mukta-m0-p65-v1602
-[taila-ājyayoḥ](tailājyayor) [miśrī-bhūtayoḥ](miśrībhūtayor) [iti-śeṣaḥ](itiśeṣaḥ) [anaśnan](anaśnan) [annam](annam) [iti-śeṣaḥ](itiśeṣaḥ)
+[tailājyayor](tailājyayor) [miśrībhūtayor](miśrībhūtayor) [itiśeṣaḥ](itiśeṣaḥ) [anaśnan](anaśnan) [annam](annam) [itiśeṣaḥ](itiśeṣaḥ)
 
 ## mukta-m0-p65-v1603
-[padma-akṣaiḥ](padmākṣair) [havanāt](havanāl) [lakṣmīm](lakṣmīm) [avāpnoti](avāpnoti) [tribhiḥ](tribhiḥ) [dinaiḥ](dinaiḥ)
+[padmākṣair](padmākṣair) [havanāt](havanāt) [lakṣmīm](lakṣmīm) [avāpnoti](avāpnoti) [tribhiḥ](tribhiḥ) [dinaiḥ](dinaiḥ)
 
 ## mukta-m0-p65-v1604
-[śṛṇu](śṛṇu) [teṣu](teṣu) [vidhānāni](vidhānāni) [samāhita-manām](samāhitamanāṃ) [śive](śive)
+[śṛṇu](śṛṇu) [teṣu](teṣu) [vidhānāni](vidhānāni) [samāhitamanāḥ](samāhitamanāḥ) [śive](śive)
 
 ## mukta-m0-p65-v1605
-[taiḥ](taiḥ) [ṣoḍaśa-svara-yutaiḥ](ṣoḍaśasvarayutaiḥ) [ṣaṣṭyā-śatam](ṣaṣṭyāśatam) [udīritaiḥ](udīritaiḥ)
+[taiḥ](taiḥ) [ṣoḍaśasvarayutaiḥ](ṣoḍaśasvarayutaiḥ) [ṣaṣṭyā](ṣaṣṭyā) [śatam](śatam) [udīritaiḥ](udīritaiḥ)
 
 ## mukta-m0-p65-v1606
-[tad-antara-aṣṭa-koṇam](tadantaraṣṭakoṇaṃ) [ca](ca) [tad-antara-vṛtta-yugmakam](tadantarvṛttayugmakam)
+[tadantara](tadantara) [aṣṭakoṇaṃ](aṣṭakoṇaṃ) [ca](ca) [tadantar](tadantar) [vṛttayugmakam](vṛttayugmakam)
 
 ## mukta-m0-p65-v1607
-[vṛttayoḥ](vṛttayor) [antarā-śeṣam](antarāśeṣaṃ) [bahiḥ](bahiḥ) [koṇeṣu](koṇeṣu) [ca](ca) [aṣṭasu](aṣṭasu)
+[vṛttayor](vṛttayor) [antarā](antarā) [aśeṣaṃ](aśeṣaṃ) [bahiḥ](bahiḥ) [koṇeṣu](koṇeṣu) [ca](ca) [aṣṭasu](aṣṭasu)
 
 ## mukta-m0-p65-v1608
-[karma-anurūpān](karmānurūpān) [bhūta-arṇān](bhūtārṇān) [daśa-bhū-pura-madhyataḥ](daśabhūpuramadhyataḥ)
+[karmānurūpān](karmānurūpān) [bhūtārṇān](bhūtārṇān) [daśabhūpuramadhyataḥ](daśabhūpuramadhyataḥ)
 
 ## mukta-m0-p65-v1609
-[antyam](antyaṃ) [caturṣu](caturṣu) [koṇeṣu](koṇeṣu) [śeṣāṇām](śeṣāṇāṃ) [ca](ca) [vilekhane](vilekhane)
+[antyaṃ](antyaṃ) [caturṣu](caturṣu) [koṇeṣu](koṇeṣu) [śeṣāṇāṃ](śeṣāṇāṃ) [ca](ca) [vilekhane](vilekhane)
 
 ## mukta-m0-p65-v1610
-[chāga-māṃsaiḥ](chāgamāṃsair) [iti-anvayaḥ](ityanvayaḥ) [chāga-meṣaḥ](chāgomeṣaḥ)
+[chāgamāṃsair](chāgamāṃsair) [iti](iti) [anvayaḥ](anvayaḥ) [chāgomeṣaḥ](chāgomeṣaḥ)
 
 ## mukta-m0-p65-v1611
-[evam](evaṃ) [yantrāṇi](yantrāṇi) [jāyante](jāyante) [daśa-siddhyā](daśasiddhyā) [spadāni](spadāni) [vai](vai)
+[evaṃ](evaṃ) [yantrāṇi](yantrāṇi) [jāyante](jāyante) [daśasiddhyā](daśasiddhyā) [spadāni](spadāni) [vai](vai)
 
 ## mukta-m0-p65-v1612
-[saptamyām](saptamyāṃ) [triṣu](triṣu) [sandhyāsu](sandhyāsu) [sita-āpūpa-samanvitam](sitāpūpasamanvitam)
+[saptamyāṃ](saptamyāṃ) [triṣu](triṣu) [sandhyāsu](sandhyāsu) [sitāpūpasamanvitam](sitāpūpasamanvitam)
 
 ## mukta-m0-p65-v1613
-[dadhi-bhaktam](dadhibhaktantu) [tu](tu) [sāyam](sāyantu) [kṣīram](kṣīraṃ) [mocā-phalam](mocāphalaṃ) [tathā](tathā)
+[dadhibhaktantu](dadhibhaktantu) [sāyantu](sāyantu) [kṣīraṃ](kṣīraṃ) [mocāphalaṃ](mocāphalaṃ) [tathā](tathā)
 
 ## mukta-m0-p65-v1614
-[vāñcchitam](vāñcchitaṃ) [prāpnuyāt](prāpnuyād) [devyāḥ](devyāḥ) [prasādena](prasādena) [alpa-yatnataḥ](alpayatnataḥ)
+[vāñcchitaṃ](vāñcchitaṃ) [prāpnuyāt](prāpnuyāt) [devyāḥ](devyāḥ) [prasādena](prasādena) [alpayatnataḥ](alpayatnataḥ)
 
 ## mukta-m0-p65-v1615
-[supakvam](supakvaṃ) [chāga-māṃsena](chāgamāṃsena) [kṣaudram](kṣaudram) [annam](annaṃ) [nivedayet](nivedayet)
+[supakvaṃ](supakvaṃ) [chāgamāṃsena](chāgamāṃsena) [kṣaudram](kṣaudram) [annaṃ](annaṃ) [nivedayet](nivedayet)
 
 ## mukta-m0-p65-v1616
-[tathā-eva](tathaiva) [vanitām](vanitāṃ) [hṛdyām](hṛdyāṃ) [vaśayet](vaśayedyāvadāyuṣaḥ) [yāvat-āyuṣaḥ](yāvadāyuṣaḥ)
+[tathaiva](tathaiva) [vanitāṃ](vanitāṃ) [hṛdyāṃ](hṛdyāṃ) [vaśayet](vaśayet) [yāvadāyuṣaḥ](yāvadāyuṣaḥ)
 
 ## mukta-m0-p65-v1617
-[tāvat-dinam](tāvaddinaṃ) [tathā-abhyarcya](tathā'bhyarcya) [vaśayet](vaśayeddvividhān) [dvividhān](dvividhān) [ripūn](ripūn)
+[tāvat](tāvat) [dinaṃ](dinaṃ) [tathā](tathā) [abhyarcya](abhyarcya) [vaśayet](vaśayet) [dvividhān](dvividhān) [ripūn](ripūn)
 
 ## mukta-m0-p65-v1618
-[daśa](daśa) [su-samānīti](susamā(nā)nīti)
+[daśa](daśa) [susamānīti](susamānīti)
 
 ## mukta-m0-p65-v1619
-[saptāhāt](saptāhād) [āpadaḥ](āpadaḥ) [sarvāḥ](sarvāḥ) [prayānti](prayāntyasyāḥ) [asyāḥ](asyāḥ) [prasādataḥ](prasādataḥ)
+[saptāhāt](saptāhāt) [āpadaḥ](āpadaḥ) [sarvāḥ](sarvāḥ) [prayānti](prayānti) [asyāḥ](asyāḥ) [prasādataḥ](prasādataḥ)
 
 ## mukta-m0-p65-v1620
-[kevalam](kevalaṃ) [pāyasam](pāyasaṃ) [mocām](mocāṃ) [sitām](sitāṃ) [ghṛta-samanvitām](ghṛtasamanvitām)
+[kevalaṃ](kevalaṃ) [pāyasaṃ](pāyasaṃ) [mocāṃ](mocāṃ) [sitāṃ](sitāṃ) [ghṛtasamanvitām](ghṛtasamanvitām)
 
 ## mukta-m0-p65-v1621
-[jitvā](jitvā) [sukhī](sukhī) [ciram](ciraṃ) [jīvet](jīveccheṣamāyurnirāmayaḥ) [śeṣam](śeṣam) [āyuḥ](āyurnirāmayaḥ) [nirāmayaḥ](nirāmayaḥ)
+[jitvā](jitvā) [sukhī](sukhī) [ciraṃ](ciraṃ) [jīvet](jīvet) [śeṣam](śeṣam) [āyuḥ](āyuḥ) [nirāmayaḥ](nirāmayaḥ)
 
 ## mukta-m0-p65-v1622
-[kṛtvā](kṛtvā) [tasmai](tasmai) [dakṣiṇām](dakṣiṇāṃ) [ca](ca) [dadyāt](dadyā(ddravyaṃ)dbhūri) [dravyam](dravyaṃ) [bhūri](bhūri) [sva-śaktitaḥ](svaśaktitaḥ)
+[kṛtvā](kṛtvā) [tasmai](tasmai) [dakṣiṇāṃ](dakṣiṇāṃ) [ca](ca) [dadyāt](dadyāt) [dravyaṃ](dravyaṃ) [bhūri](bhūri) [svaśaktitaḥ](svaśaktitaḥ)
 
 ## mukta-m0-p65-v1623
-[yena](yenāsau) [asau](asau) [toṣam](toṣam) [āyāti](āyāti) [tāvat](tāvadvittaṃ) [vittam](vittam) [samarpayet](samarpayet)
+[yena](yena) [asau](asau) [toṣam](toṣam) [āyāti](āyāti) [tāvat](tāvat) [vittaṃ](vittaṃ) [samarpayet](samarpayet)
 
 ## mukta-m0-p65-v1624
-[masṛṇe](masṛṇe) [vā](vā) [śilā-paṭṭe](śilāpaṭṭe) [pīṭhe](pīṭhe) [vā](vā) [saudha-bhū-tale](saudhabhūtale)
+[masṛṇe](masṛṇe) [vā](vā) [śilāpaṭṭe](śilāpaṭṭe) [pīṭhe](pīṭhe) [vā](vā) [saudhabhūtale](saudhabhūtale)
 
 ## mukta-m0-p65-v1625
-[pūjayet](pūjayettriṣu) [triṣu](triṣu) [sandhyāsu](sandhyāsu) [japan](japan) [vidyām](vidyāṃ) [tathā](tathā) [vaśī](vaśī)
+[pūjayet](pūjayet) [triṣu](triṣu) [sandhyāsu](sandhyāsu) [japan](japan) [vidyāṃ](vidyāṃ) [tathā](tathā) [vaśī](vaśī)

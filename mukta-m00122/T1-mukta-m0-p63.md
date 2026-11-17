@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p63-v1551
-[this](etat) [copper-plate](tāmra+tale) [placing](kṛtvā) [establish](sthāpayet) [for-growth](abhivṛddhaye)
+[this](etat) [copper-plate](tāmra-tale) [having-made](kṛtvā) [place](sthāpayet) [for-increase](abhivṛddhaye)
 
 ## mukta-m0-p63-v1552
-[external](bāhye) [placing](kṛtvā) [and](ca) [of-knowledge](vidyāyā) [seed](bījam) [first](ādyam) [then-last](athāntim)
+[outside](bāhye) [having-made](kṛtvā) [of-knowledge](vidyāyāḥ) [seed](bījam) [first](ādyam) [then](atha) [last](antim)
 
 ## mukta-m0-p63-v1553
-[one-one](ekaikam) [side-corners](pārśva+koṇeṣu) [two](dve) [two](dve) [circle-between](vṛtta+antarā) [again](punaḥ)
+[one-by-one](ekaikam) [side-corners](pārśvakoṇeṣu) [two-two](dve dve) [circle-interval](vṛttāntarā) [again](punaḥ)
 
 ## mukta-m0-p63-v1554
-[middle-seed's](madhya+bījasya) [middle-place](madhya+stham) [write](likhet) [that](tam) [own-desired](nija+vāñchitam)
+[middle-seed](madhyabījasya) [middle-placed](madhyastham) [write](likhet) [that](tam) [desired](nijavāñchitam)
 
 ## mukta-m0-p63-v1555
-[neck](kaṇṭhe) [or](vā) [wear](dhārayet) [immediately](sadyo) [beloved](vallabhā) [his](tasya) [becomes](jāyate)
+[neck](kaṇṭhe) [or](vā) [wear](dhārayet) [immediately](sadyaḥ) [beloved](vallabhā) [his](tasya) [becomes](jāyate)
 
 ## mukta-m0-p63-v1556
-[circle-eight-petal-joined](vṛtta+aṣṭa+patra+yuktāni) [sixteen](ṣoḍaśāni) [charming](manoharam)
+[circle-eight-petaled](vṛttāṣṭapatra) [with](yuktāni) [sixteen](ṣoḍaśāni) [charming](manoharam)
 
 ## mukta-m0-p63-v1557
-[its-fruits](tat+phalāni) [and](ca) [teaches](upadiśati) [there](tatra) [bite](daṃśakaḥ) [armor](kavacaḥ) [other](anyat) [easy](sugamam)
+[those-fruits](tatphalāni) [also](ca) [teaches](upadiśati) [there](tatra) [bite](daṃśakaḥ) [armor](kavacaḥ) [other](anyat) [easy](sugamam)
 
 ## mukta-m0-p63-v1558
-[by-ra-syllable](repha+aṃśena) [do](kuryāt) [elsewhere](anyatra) [by-fourth-vowel-syllable](caturtha+svara+aṃśena) [do](kuryāt)
+[by-repha-portion](rephāṃśena) [do](kuryāt) [elsewhere](anyatra) [fourth-vowel-portion](caturthasvarāṃśena) [do](kuryāt)
 
 ## mukta-m0-p63-v1559
-[of-karnikarna](karṇikārṇasya) [middle-place](madhya+stham) [do](kuryāt) [name](nāma) [own-desired](nija+īpsitam)
+[of-karṇikāra](karṇikārṇasya) [middle-placed](madhyastham) [make](kuryāt) [name](nāma) [desired](nijepsitam)
 
 ## mukta-m0-p63-v1560
-[day-night](ahorātram) [sixteen-fold](ṣoḍaśadhā) [making](kṛtvā) [her](tām) [them](teṣu) [join](yojayet)
+[day-night](ahorātram) [sixteen-fold](ṣoḍaśadhā) [having-made](kṛtvā) [that](tām) [those](teṣu) [join](yojayet)
 
 ## mukta-m0-p63-v1561
-[wear](dhārayet) [sprinkle](abhiṣiñcet) [and](ca) [japa](ja) [desired-aim-accomplishment](iṣṭārtha+siddhaye)
+[wear](dhārayet) [consecrate](abhiṣiñcet) [ca](ca) [japa](japed) [desired-goal](iṣṭārthasiddhaye)
 
 ## mukta-m0-p63-v1562
-[cells](koṣṭhāni) [sixteen](ṣoḍaśāni) [are](syuḥ) [in-them](teṣu) [lotuses](padmāni) [make](kārayet)
+[cells](koṣṭhāni) [sixteen](ṣoḍaśāni) [are](syuḥ) [those](teṣu) [lotuses](padmāni) [make](kārayet)
 
 ## mukta-m0-p63-v1563
-[goddess](devīm) [indeed](tu) [place](sthāpayet) [earth](bhūmau) [all-wealth-acquisition](sarva+sampada+avāptaye)
+[goddess](devīm) [but](tu) [place](sthāpayet) [earth](bhūmau) [all-wealth](sarvasampad) [attainment](avāptaye)
 
 ## mukta-m0-p63-v1564
-[her](asyā) [non-fruiting](niṣphālanāt) [from-mind](citte) [that-tattva](tat+tattvam) [self-attained](svātma+sātkṛtam)
+[of-her](asyāḥ) [non-fruition](niṣphālanāt) [in-mind](citte) [that-principle](tattattvam) [self-realized](svātmasātkṛtam)
 
 ## mukta-m0-p63-v1565
-[as-before](prāgvat) [drawing](vilikhya) [worship](pūjanāt) [and](ca) [as-before](prāguktā) [said](uktā) [accomplishment](siddhiḥ) [thus](iti)
+[as-before](prāgvat) [having-drawn](vilikhya) [worship](pūjanāt) [ca](ca) [as-before](prāguktā) [success](siddhiḥ) [iti](iti)
 
 ## mukta-m0-p63-v1566
-[complete](paripūrṇam) [supreme-touched](parāmṛṣṭam)
+[complete](paripūrṇam) [supremely-touched](parāmṛṣṭam)
 
 ## mukta-m0-p63-v1567
-[twelve-chapter](dvādaśa+paṭalam) [complete](paripūrṇam) [supreme-touched](parāmṛṣṭam)
+[twelve-chapter](dvādaśapaṭalam) [complete](paripūrṇam) [supremely-touched](parāmṛṣṭam)
 
 ## mukta-m0-p63-v1568
-[that-rite](tat+vidhānam) [hear](śṛṇu) [wise](prājña) [desired-fruit-giving](samīhita+phala+pradam)
+[that-rite](tadvidhānam) [hear](śṛṇu) [wise](prājña) [desired-fruit-giving](samīhitaphalapradam)
 
 ## mukta-m0-p63-v1569
-[that-enclosure-power](tat+āvaraṇa+śaktiḥ) [and](ca) [that-meditation](tat+dhyānam) [that-worship](tat+prapūjanam)
+[that-covering-power](tadāvaraṇaśaktiḥ) [ca](ca) [that-meditation](taddhyānam) [that-worship](tatprapūjanam)
 
 ## mukta-m0-p63-v1570
-[life-installation](prāṇa+pratiṣṭhām) [knowledge](vidyām) [and](ca) [that-rite](tat+vidhānam) [and](ca) [that-fruit](tat+phalam)
+[life-installation](prāṇapratiṣṭhām) [vidyā](vidyām) [ca](ca) [that-rite](tadvidhānam) [ca](ca) [that-fruit](tatphalam)
 
 ## mukta-m0-p63-v1571
-[by-which-mantras](yaiḥ+mantraiḥ) [in-world](bhuvane) [famous](khyātaḥ) [restraint-grace-capable](nigraha+anugraha+kṣamaḥ)
+[by-which-mantras](yairmantraiḥ) [in-world](bhuvane) [known](khyātaḥ) [restraint-grace-capable](nigrahānugrahakṣamaḥ)
 
 ## mukta-m0-p63-v1572
-[by-that](tena) [very](eva) [wrapped](puṭitaiḥ) [syllables](arṇaiḥ) [place](nyaset) [ear-etc-five](śrotra+ādi+pañcasu)
+[by-that](tenaiva) [wrapped](puṭitaiḥ) [letters](arṇaiḥ) [place](nyaset) [ear-etc-five](śrotrādipañcasu)
 
 ## mukta-m0-p63-v1573
-[as-before](prāgvat) [arghya](arghyam) [described](samuddiṣṭam) [that-power](tat+śaktī) [hear](śṛṇu) [Parvati](pārvati)
+[as-before](prāgvat) [arghya](arghyam) [declared](samuddiṣṭam) [that-power](tacchaktī) [hear](śṛṇu) [pārvati](pārvati)
 
 ## mukta-m0-p63-v1574
-[place](nyaset) [thus-meaning](ity+arthaḥ)
+[place](nyaset) [meaning](ityarthaḥ)
 
 ## mukta-m0-p63-v1575
-[delight](vinodā) [curiosity](kautukā) [meritorious](puṇyā) [ancient](purāṇā) [square](caturasragāḥ)
+[amusement](vinodā) [curiosity](kautukā) [meritorious](puṇyā) [ancient](purāṇā) [four-cornered](caturasragāḥ)
