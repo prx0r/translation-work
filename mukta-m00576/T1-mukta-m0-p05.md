@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p05-v101
-[on-rising](vyutthāne) [activity](vṛtti) [should-do](kuryā) [thus](iti) [meaning](bhāvaḥ)
+[vyutthāne](vyutthāne) [vṛtti](vṛtti) [kuryā](kuryā) [iti](iti) [bhāvaḥ](bhāvaḥ)
 
 ## mukta-m0-p05-v102
-[om](oṃ) [bhūr-bhuvaḥ-svaḥ](bhūrbhuvasvar) [having-said](ityuktvā) [that](tat) [savitṛ](savitur) [sāvitrī](sāvitrī) [mantra](manubrūyāḥ)
+[oṃ](oṃ) [bhūr-bhuvaḥ-svaḥ](bhūrbhuvasvaḥ) [iti](iti) [uktvā](uktvā) [tat-savitur](tatsavitur) [iti](iti) [sāvitrī](sāvitrī) [manu-brūyāḥ](manubrūyāḥ)
 
 ## mukta-m0-p05-v103
-[bhāvaye](bhāvayer) [iti](ityuktaṃ) [bhavati](bhavati)
+[bhāvaye](bhāvaye) [iti](iti) [uktam](uktam) [bhavati](bhavati)
 
 ## mukta-m0-p05-v104
-[before-sunset](prāgastamayā) [having-gone-out](niṣkramya) [fuel](samidha) [for-offering](āhāre) [deer-skin](hariṇī) [desiring-brahman-splendor](brahmavarcasakāmaḥ)
+[prāk](prāg) [astamayāt](astamayā) [niṣkramya](niṣkramya) [samidhaḥ](samidha) [āhāre](āhāre) [hariṇī](hariṇī) [brahma-varcasas](brahmavarcasakāmaḥ) [kāmaḥ](kāmaḥ)
 
 ## mukta-m0-p05-v105
-[is-heard](śrūyate)
+[śrūyate](śrūyate)
 
 ## mukta-m0-p05-v106
-[evening](sāyaṃ) [morning](prātassaṃdhyāni) [remembrance](smaraṇaṃ) [should-be-done](kartavyaṃ)
+[sāyam](sāyaṃ) [prātaḥ](prātaḥ) [saṃdhyāni](saṃdhyāni) [smaraṇam](smaraṇaṃ) [kartavyam](kartavyaṃ)
 
 ## mukta-m0-p05-v107
-[both-pervading](tadubhayavyāpakaṃ) [also](ca) [supreme](paraṃ) [radiance](tejaḥ)
+[tat](tad) [ubhaya](ubhaya) [vyāpakam](vyāpakaṃ) [ca](ca) [param](paraṃ) [tejaḥ](tejaḥ)
 
 ## mukta-m0-p05-v108
-[begging-round](bhaikṣācaraṇaṃ) [should-be-done](kartavyam)
+[bhaikṣa](bhaikṣa) [ācaraṇam](ācaraṇaṃ) [kartavyam](kartavyam)
 
 ## mukta-m0-p05-v109
-[fire-kindling](agnīṃdhanaṃ) [should-be-done](kartavyam)
+[agni](agni) [indhanam](indhanaṃ) [kartavyam](kartavyam)
 
 ## mukta-m0-p05-v110
-[by-that](tena) [also](ca) [brahma-fire](brahmāgner) [kindling](dīpanaṃ) [should-be-done](vidheyaṃ)
+[tena](tena) [ca](ca) [brahma-agneḥ](brahmāgner) [dīpanam](dīpanaṃ) [vidheyam](vidheyaṃ)
 
 ## mukta-m0-p05-v111
-[only-evening](sāyamevāgnirmaṃdhīthāḥ)
+[sāyam](sāyameva) [eva](eva) [agnim](agnim) [sam-dhīthāḥ](maṃdhīthāḥ)
 
 ## mukta-m0-p05-v112
-[begging-round-etc](bhaikṣasyācaraṇetyādi)
+[bhaikṣasya](bhaikṣasya) [ācaraṇa](ācaraṇa) [ityādi](ityādi)
 
 ## mukta-m0-p05-v113
-[begging-round-fire-kindling](bhaikṣācaraṇāgnīṃdhanī)
+[bhaikṣa](bhaikṣa) [ācaraṇa](ācaraṇa) [agni](agni) [indhanī](indhanī)
 
 ## mukta-m0-p05-v114
-[seven-nights](saptarātram)
+[sapta](saptarātram) [rātram](rātram)
 
 ## mukta-m0-p05-v115
-[may-not-be](mābhūd) [thus](ityāśāste) [teacher](guruḥ)
+[mā](mā) [bhūt](bhūd) [iti](ityāśāste) [āśāste](āśāste) [guruḥ](guruḥ)
 
 ## mukta-m0-p05-v116
-[hear](chṛṇu) [indeed](tu) [you](tvā) [speech](vāk)
+[śṛṇu](chṛṇu) [tu](tu) [tvā](tvā) [vāk](vāk)
 
 ## mukta-m0-p05-v117
-[bowing](sanamya) [holds](dhārayati)
+[sanamya](sanamya) [dhārayati](dhārayati)
 
 ## mukta-m0-p05-v118
-[whatever-vedic-vow](yadvedabrataṃ) [that](tadatra) [vow](bratam)
+[yat](yad) [veda](veda) [bratam](brataṃ) [tat](tad) [atra](atra) [bratam](bratam)
 
 ## mukta-m0-p05-v119
-[becomes](bhavati) [certainly](avaśyaṃ) [to-be-accepted](gṛhītavyam) [meaning](ityarthaḥ)
+[bhavati](bhavati) [avaśyam](avaśyaṃ) [gṛhītavyam](gṛhītavyam) [iti](ityarthaḥ) [arthaḥ](arthaḥ)
 
 ## mukta-m0-p05-v120
-[teacher](gurur) [says](āha)
+[guruḥ](gurur) [āha](āha)
 
 ## mukta-m0-p05-v121
-[brahmacārī](brahmacārya) [you-are](asīti)
+[brahmacārī](brahmacārya) [asi](asi) [iti](iti)
 
 ## mukta-m0-p05-v122
-[five-modifications](paṃcavikārānanukramiruṣyāmaḥ)
+[pañca](paṃca) [vikārān](vikārān) [anukramiṣyāmaḥ](anukramiruṣyāmaḥ)
 
 ## mukta-m0-p05-v123
-[nine](navetyāśakyāha)
+[nava](nava) [iti](ityāśakyāha) [āśakyāha](āśakyāha)
 
 ## mukta-m0-p05-v124
-[food-offering](apośāna)
+[apośāna](apośāna)
 
 ## mukta-m0-p05-v125
-[firmness-of-brahma-knowledge-reflection](brahmajñānavimarśadārḍhyaṃ) [may-become](bhavet) [there](tatrāha)
+[brahma](brahma) [jñāna](jñāna) [vimarśa](vimarśa) [dārḍhyam](dārḍhyaṃ) [bhavet](bhavet) [tatra](tatrāha) [āha](āha)
