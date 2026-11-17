@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p29-v701
-[unites](saṃyojayati) [oh](aho) [this](sā) [she](iyam) [earth](pṛthvī) [in-world](jagati) [is-praised](gīyase)
+[unites](saṃyojayati) [oh](aho) [this](sā) [she](iyaṃ) [earth](pṛthvī) [in-world](jagati) [is-praised](gīyase)
 
 ## mukta-m0-p29-v702
-[by-Nārada](nārada) [+served](sevitā)
+[nārada+served](nāradasevitā) [thus](iti) [name](nāma) [celebrated](khyātā)
 
 ## mukta-m0-p29-v703
-[Brahmā's-son](brahma+putraḥ) [he](saḥ) [by-whose-devotion](yad+bhaktyā) [she](sā) [you](tvam) [by-Nārada](nārada) [+served](sevitā)
+[brahmā+son](brahmaputraḥ) [he](sa) [by-whose+devotion](yadbhaktyā) [she](sā) [you](tvaṃ) [nārada+served](nāradasevitā)
 
 ## mukta-m0-p29-v704
-[to-Indra](puruhūta) [+dear](priyā)
+[indra+beloved](puruhūtapriyā) [thus](iti) [name](nāma) [celebrated](khyātā)
 
 ## mukta-m0-p29-v705
-[by-whose-devotee](yad+bhakta) [+cherishing](lālanāya) [went](agāt) [even](api) [Viṣṇu](viṣṇuḥ) [to-Indra-state](upendratām)
+[by-whose+devotee+nurturing](yadbhaktalālanāya) [came](āgāt) [even](api) [viṣṇu](viṣṇuḥ) [to-upendra+state](upendratām)
 
 ## mukta-m0-p29-v706
-[beloved](kāntā)
+[beloved](kāntā) [thus](iti) [name](nāma) [celebrated](khyātā)
 
 ## mukta-m0-p29-v707
-[done-and-misdone](kṛta+duṣkṛta) [+destruction](hāniḥ) [be](astu) [beloved](kāntā) [of-the-virtuous](kṛtinām) [of-peaceful-hearts](śānta+hṛdām) [always](sadā) [on-all-sides](samantāt)
+[done+misdeed+destruction](kṛtaduṣkṛtahāniḥ) [be](astu) [beloved](kāntā) [of-virtuous](kṛtināṃ) [of-peaceful+hearted](śāntahṛdāṃ) [always](sadā) [on-all-sides](samantāt)
 
 ## mukta-m0-p29-v708
-[desirable-woman](kāminī)
+[desirable-woman](kāminī) [thus](iti) [name](nāma) [celebrated](khyātā)
 
 ## mukta-m0-p29-v709
-[done-time](kṛta+kāla) [+blackness](kara+āla) [+fault](doṣa) [+pacification](śāntiḥ) [by-the-wise](matimadbhiḥ) [praised](kalitā) [here](iha) [lovely](kāminīyam)
+[done+time+black+fault+pacification](kṛtakālakarāladoṣaśāntiḥ) [by-wise](matimadbhiḥ) [praised](kalitā) [here](iha) [desirableness](kāminīyam)
 
 ## mukta-m0-p29-v710
-[lotus](padma) [+eyed](locanā)
+[lotus+eyed](padmalocanā) [thus](iti) [name](nāma) [celebrated](khyātā)
 
 ## mukta-m0-p29-v711
-[thus](iti) [seeing](vīkṣya) [in-whose-glance](yad+īkṣaṇe) [of-Śiva](hara) [+within](antaḥ) [+doubt](vicikitsā) [may-protect](avatu) [lotus](padma) [+eyed](locanā) [she](sā)
+[thus](iti) [seeing](vīkṣya) [in-whose+glance](yadīkṣaṇe) [śiva+inner+doubt](harāntarvicikitsā) [may-protect](avatu) [lotus+eyed](padmalocanā) [she](sā)
 
 ## mukta-m0-p29-v712
-[delight-giver](prahlādinī)
+[delight-giver](prahlādinī) [thus](iti) [name](nāma) [celebrated](khyātā)
 
 ## mukta-m0-p29-v713
-[disease](rogaḥ) [without](vinā) [whose-worship](yad+bhajanam) [of-people](janasya) [delight-giver](prahlādinī) [may-gladden](hlādayatām) [heart](hṛdā) [this-one](eṣā)
+[disease](rogaḥ) [without](vinā) [whose+worship](yadbhajanaṃ) [of-people](janasya) [delight-giver](prahlādinī) [may-gladden](hlādayatāṃ) [heart](hṛdā) [this-one](eṣā)
 
 ## mukta-m0-p29-v714
-[great](mahā) [+mother](mātā)
+[great+mother](mahāmātā) [thus](iti) [name](nāma) [celebrated](khyātā)
 
 ## mukta-m0-p29-v715
-[greatness](mahattvam) [renowned](prathitam) [venerable](mānyā) [great](mahā) [+mother](mātā) [not](na) [of-whom](kasya) [she](sā)
+[greatness](mahattvaṃ) [renowned](prathitaṃ) [venerable](mānyā) [great+mother](mahāmātā) [not](na) [of-whom](kasya) [she](sā)
 
 ## mukta-m0-p29-v716
-[Durgā](durgā)
+[difficult-to-approach](durgā) [thus](iti) [name](nāma) [celebrated](khyātā)
 
 ## mukta-m0-p29-v717
-[equally](samam) [with-Yama](yamena) [surpassed](atigata) [+meaning](artha) [+name](nāmā) [among-devotees](bhakteṣu) [she](sā) [to-me](me) [victory-giving](jaya+dā) [be](astu) [Durgā](durgā)
+[equally](samaṃ) [with-yama](yamena) [surpassed+meaning+name](atigatārthanāmā) [among-devotees](bhakteṣu) [she](sā) [to-me](me) [victory-giving](jayadā) [be](astu) [durgā](durgā)
 
 ## mukta-m0-p29-v718
-[bad-destiny](dur+gati) [+destroyer](nāśinī)
+[bad-destiny+destroyer](durgatināśinī) [thus](iti) [name](nāma) [celebrated](khyātā)
 
 ## mukta-m0-p29-v719
-[that](tām) [bad-destiny](dur+gatim) [who](yā) [removes](harati) [in-an-instant](kṣaṇena) [meditated-upon](dhyātā) [indeed](eva) [she](sā) [bad-destiny](dur+gati) [+destroyer](nāśinī) [you](tvam)
+[that](tāṃ) [bad-destiny](durgatiṃ) [who](yā) [removes](harati) [in-moment](kṣaṇena) [meditated](dhyātā) [indeed](eva) [she](sā) [bad-destiny+destroyer](durgatināśinī) [you](tvam)
 
 ## mukta-m0-p29-v720
-[flame](jvālā) [+faced](mukhī)
+[flame+mouthed](jvālāmukhī) [thus](iti) [name](nāma) [celebrated](khyātā)
 
 ## mukta-m0-p29-v721
-[blazing](jājvalyamānā) [unceasingly](aviratam) [may-give](dadātu) [flame](jvālā) [+faced](mukhī) [most-excellent](mukhyatamām) [prosperity](vibhūtim)
+[blazing+unceasingly](jājvalyamānā) [continuously](avirataṃ) [may-give](dadātu) [flame+mouthed](jvālāmukhī) [most-excellent](mukhyatamāṃ) [prosperity](vibhūtim)
 
 ## mukta-m0-p29-v722
-[of-good-lineage](sugotrā)
+[of-good-lineage](sugotrā) [thus](iti) [name](nāma) [celebrated](khyātā)
 
 ## mukta-m0-p29-v723
-[chanted](japtā) [indeed](eva) [who](yā) [molten-gold](tapta+suvarṇa) [+colored](varṇā) [for-prosperity](śriye) [be](astu) [she](sā) [of-hymn-maker](stotra+kṛtaḥ) [of-good-lineage](sugotrā)
+[chanted](japtā) [indeed](eva) [who](yā) [molten+gold+colored](taptasuvarṇavarṇā) [for-prosperity](śriye) [be](astu) [she](sā) [of-hymn+maker](stotrakṛtaḥ) [of-good-lineage](sugotrā)
 
 ## mukta-m0-p29-v724
-[light](jyotiḥ)
+[light](jyotiḥ) [thus](iti) [name](nāma) [celebrated](khyātā)
 
 ## mukta-m0-p29-v725
-[see](paśyanti) [whom](yām) [the-wondering](vismayinaḥ) [by-experience](anubhūtyā) [she](sā) [on-all-sides](sarvataḥ) [light](jyotiḥ) [here](iha) [be](astu) [for-prosperity](bhūtyai)
+[see](paśyanti) [whom](yāṃ) [wonder-struck](vismayinaḥ) [by-experience](anubhūtyā) [she](sā) [from-all-sides](sarvataḥ) [light](jyotiḥ) [here](iha) [be](astu) [for-prosperity](bhūtyai)
