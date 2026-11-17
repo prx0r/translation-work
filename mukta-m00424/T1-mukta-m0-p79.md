@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p79-v1951
-[kālībhadrī](kālībhadrī) [samākhyātaṃ](samākhyātaṃ) [kālī](kālī) [ca](ca) [eva](eva) [āyunāya](āyunāya) [ca](ca)
+[kali-bhadri](kālībhadrī) [well-named](samākhyātaṃ) [kali](kālī) [and-indeed](caiva) [for-ayuna](āyunāya) [and](ca)
 
 ## mukta-m0-p79-v1952
-[śūlaṃ](śūlaṃ) [ḍamarukaṃ](ḍamarukaṃ) [savye](savye) [kapālaṃ](kapālaṃ) [pāśa](pāśa)+[ṭaṅkare](ṭaṅkare)
+[trident](śūlaṃ) [damaru](ḍamarukaṃ) [left](savye) [skull](kapālaṃ) [noose-axe](pāśaṭaṅkare)
 
 ## mukta-m0-p79-v1953
-[du](du) [karṇikā](karṇikā)+[bhāsāṃ](bhāsāṃ) [bhīma](bhīma)
+[damaged](du) [damaged](*) [damaged](*) [damaged](*) [question](?) [ear-like](karṇikābhāsāṃ) [fierce](bhīma) [damaged](*) [damaged](*) [damaged](*) [damaged](*) [damaged](*) [question](?)
 
 ## mukta-m0-p79-v1954
-[kālarātri](kālarātri) [svarūpāyāṃ](svarūpāyāṃ) [śmaśānaṃ](śmaśānaṃ) [devam](devam)+[arcayet](arcayet)
+[kalaratri](kālarātri) [form](svarūpāyāṃ) [cremation-ground](śmaśānaṃ) [god-worship](devamarcayet)
 
 ## mukta-m0-p79-v1955
-[madhyādi](madhyādi) [galaparyantaṃ](galaparyantaṃ) [viṣṇunā](viṣṇunā)+[antaṃ](antaṃ) [supūjayet](supūjayet)
+[middle-to-throat](madhyādi-galaparyantaṃ) [by-vishnu-ended](viṣṇunāntaṃ) [well-worship](supūjayet)
 
 ## mukta-m0-p79-v1956
-[śaktiḥ](śaktiḥ) [utpati](utpati)+[aśaivārthaṃ](aśaivārthaṃ) [śaktyā](śaktyā)+[irutpadyate](irutpadyate) [śivaḥ](śivaḥ)
+[shakti-for-shiva-purpose](śaktirutpatyaśaivārthaṃ) [by-shakti-arises](śaktyairutpadyate) [shiva](śivaḥ)
 
 ## mukta-m0-p79-v1957
-[brahmā](brahmā) [viṣṇuḥ](viṣṇuḥ) [ca](ca) [rudraḥ](rudraḥ) [ca](ca) [īśvaraḥ](īśvaraḥ) [ca](ca) [sadāśivaḥ](sadāśivaḥ)
+[brahma](brahmā) [vishnu](viṣṇu) [rudra](rudra) [ishvara](īśvara) [sadashiva](sadāśivaḥ)
 
 ## mukta-m0-p79-v1958
-[icchā](icchā)+[śaktiḥ](śaktiḥ) [kriyā](kriyā)
+[will-power](icchāśaktiḥ) [action](kriyā) [damaged](*) [damaged](*) [damaged](*) [damaged](*) [damaged](*) [damaged](*) [damaged](*) [damaged](*) [damaged](*) [question](?)
 
 ## mukta-m0-p79-v1959
-[brāhmī](brāhmī) [mūrdhni](mūrdhni) [tu](tu) [vinyasya](vinyasya) [lalāṭe](lalāṭe) [tu](tu) [maheśvarīm](maheśvarīm)
+[brahmi](brāhmī) [on-crown](mūrdhni) [thus-place](tu-vinyasya) [forehead](lalāṭe) [maheshvari](tu-maheśvarīm)
 
 ## mukta-m0-p79-v1960
-[vārāhī](vārāhī) [hṛdaye](hṛdaye) [ca](ca) [eva](eva) [indrāṇī](indrāṇī) [liṅga](liṅga)+[mūlake](mūlake)
+[varahi](vārāhī) [heart](hṛdaye) [indeed](caiva) [indrani](indrāṇī) [linga-base](liṅgamūlake)
 
 ## mukta-m0-p79-v1961
-[pūjāṃ](pūjāṃ) [pūrvavad](pūrvavad)+[ācaret](ācaret)
+[damaged](*) [damaged](*) [damaged](*) [damaged](*) [damaged](*) [damaged](*) [damaged](*) [damaged](*) [question](?) [worship](pūjāṃ) [as-before](pūrvavadācaret)
 
 ## mukta-m0-p79-v1962
-[vārāhī](vārāhī) [ca](ca) [tathā](tathā) [indrāṇī](indrāṇī) [devyā](devyā)+[agrādiṣṭa](agrādiṣṭa) [koṇa](koṇa)+[ṣaṭ](ṣaṭ)
+[varahi](vārāhī) [and](ca) [thus](tathā) [indrani](indrāṇī) [goddess-corner-six](devyāgrādiṣṭa-koṇaṣaṭ)
 
 ## mukta-m0-p79-v1963
-[jambhīti](jambhīti) [stambhinī](stambhinī) [ca](ca) [eva](eva) [śā](śā)
+[jambhini](jambhītistambhinī) [and-indeed](caiva) [damaged](śā*) [damaged](*) [damaged](*) [damaged](*) [damaged](*) [damaged](*) [damaged](?) 
 
 ## mukta-m0-p79-v1964
-[tadbahiḥ](tadbahiḥ) [ṣoḍaśāṃśa](ṣoḍaśāṃśa)+[eva](eva) [patraṃ](patraṃ) [ṣoḍaśākṣaram](ṣoḍaśākṣaram)
+[outside-sixteen-parts](tadbahiṣṣoḍaśāṃśaiva) [leaf](patraṃ) [sixteen-syllabled](ṣoḍaśākṣaram)
 
 ## mukta-m0-p79-v1965
-[pāśā](pāśā) [ca](ca) [māsi](māsi) [saṃyuktaṃ](saṃyuktaṃ) [vipu](vipu)+[śācchedikaṃ](śācchedikaṃ) [tathā](tathā)
+[noose](pāśā) [and](ca) [month](māsi) [joined](saṃyuktaṃ) [vipusha-cchedika](vipuśācchedikaṃ) [thus](tathā)
 
 ## mukta-m0-p79-v1966
-[udbhavantu](udbhavantu) [saṃyuktaṃ](saṃyuktaṃ) [udbhavaṃ](udbhavaṃ) [ca](ca) [eva](eva) [kārayet](kārayet)
+[damaged](*) [question](?) [born-together](bhodbhavantu-saṃyuktaṃ) [birth](udbhavaṃ) [and-indeed](caiva) [make](kārayet)
 
 ## mukta-m0-p79-v1967
-[vijāyī](vijāyī) [ca](ca) [avijāyī](avijāyī) [ca](ca) [vijayī](vijayī) [iti](iti) [eva](eva) [jṛmbhiṇī](jṛmbhiṇī)
+[vijayi-and-avijayi](vijāyīcāvijāyī) [and](ca) [vijayi-thus](vijayītyeva) [jrimbhini](jṛmbhiṇī)
 
 ## mukta-m0-p79-v1968
-[devyā](devyā)+[agrādiṣu](agrādiṣu) [saṃpūjya](saṃpūjya)
+[goddess-corner-worship](devyāgrādiṣu-saṃpūjya) [damaged](*) [damaged](*) [damaged](*) [damaged](*) [damaged](*) [damaged](*) [damaged](*) [damaged](*) [question](?)
 
 ## mukta-m0-p79-v1969
-[madhu](madhu)+[māṃsa](māṃsa)+[phalānāṃ](phalānāṃ) [tu](tu) [naivedyaṃ](naivedyaṃ) [ca](ca) [eva](eva) [pūjayet](pūjayet)
+[of-honey-meat-fruit](madhumāṃsaphalānāṃ) [indeed](tu) [offering](naivedyaṃ) [and-indeed](caiva) [worship](pūjayet)
 
 ## mukta-m0-p79-v1970
-[gīta](gīta)+[vādyaṃ](vādyaṃ) [ca](ca) [nṛttaṃ](nṛttaṃ) [ca](ca) [sarva](sarva)+[upacāra](upacāra) [pūjayet](pūjayet)
+[song-instrument](gītavādyaṃ) [and](ca) [dance](nṛttaṃ) [and](ca) [all-services](sarvopacāra) [worship](pūjayet)
 
 ## mukta-m0-p79-v1971
-[dvārāre](dvārāre) [bali](bali)+[pīṭhake](pīṭhake)
+[damaged](*) [damaged](*) [damaged](*) [damaged](*) [damaged](*) [damaged](*) [damaged](*) [damaged](*) [question](?) [door-gate](dvārāre) [bali-pitha](balipīṭhake)
 
 ## mukta-m0-p79-v1972
-[deva](deva)+[mātarakaṃ](mātarakaṃ) [ca](ca) [eva](eva) [paiśāca](paiśāca)+[mātaras](mātaras) [tathā](tathā)
+[god-mother](devamātarakaṃ) [and-indeed](caiva) [pishacha-mother](paiśācamātarastathā)
 
 ## mukta-m0-p79-v1973
-[aja](aja) [kukkuṭa](kukkuṭa)+[mahiṣāṃ](mahiṣāṃ) [ca](ca) [aśva](aśva)+[gaja](gaja)+[mānuṣā](mānuṣā) [ca](ca) [mu](mu)
+[goat](aja) [cock](kukkuṭa) [buffalo](mahiṣāṃ) [and](ca) [horse-elephant-human](aśvagajamānuṣā) [ca](ca) [mu](mu) [damaged](?)
 
 ## mukta-m0-p79-v1974
-[pretavāhanakaṃ](pretavāhanakaṃ) [ca](ca) [eva](eva) [upāsya](upāsya)+[arcanakaṃ](arcanakaṃ) [tatha](tatha)
+[pretavehicle](pretavāhanakaṃ) [and-indeed](caiva) [worship-arcana](upāsyārcanakaṃ) [thus](tatha) [damaged](?)
 
 ## mukta-m0-p79-v1975
-[sarveṣāṃ](sarveṣāṃ) [sevitaṃ](sevitaṃ) [ca](ca) [eva](eva) [cāmuṇḍā](cāmuṇḍā)+[anyaṃ](anyaṃ) [samarcayet](samarcayet)
+[of-all](sarveṣāṃ) [served](sevitaṃ) [and-indeed](caiva) [camunda-other](cāmuṇḍānyaṃ) [worship](samarcayet)

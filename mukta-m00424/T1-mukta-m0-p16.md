@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p16-v376
-all-mantra-soul mantra piṇḍa-mantra this auspicious
+[all-mantra-essence](sarvamantrātmakaṃ) [mantra](mantraṃ) [piṇḍa-mantra](piṇḍamantram) [this](idaṃ) [auspicious](śubham)
 
 ## mukta-m0-p16-v377
-linga-difference-order will-speak special but according-to-order
+[liṅga-distinction-order](liṅgabhedakramaṃ) [I-will-declare](vakṣye) [particular](viśeṣaṃ) [but](tu) [in-order](yathākramam)
 
 ## mukta-m0-p16-v378
-moving-linga eternal-abode worship supreme-lord
+[movable-liṅga](calaliṅge) [eternal-abode](sadāvāsaṃ) [should-worship](pūjayet) [supreme-lord](parameśvaram)
 
 ## mukta-m0-p16-v379
-mantra-purification-lacking but linga-form mere
+[mantra-consecration-devoid](mantrasaṃskārahīne) [but](tu) [liṅga](liṅgam) [mere-shape](ākṛtimātrakam)
 
 ## mukta-m0-p16-v380
-therefore all-effort lord-form always-worship
+[therefore](tasmāt) [with-all-effort](sarvaprayatnena) [lord-form](svāmirūpaṃ) [should-always-worship](sadārcayet)
 
 ## mukta-m0-p16-v381
-true-substance own-form but supreme sadakhya that
+[true-substance](satyavastu) [own-form](svarūpaṃ) [but](tu) [supreme](paraṃ) [sādākhya](sādākhya) [that](tat)
 
 ## mukta-m0-p16-v382
-previous-form abandoning sadakhya-form indeed and
+[former-form](pūrvākṛtiṃ) [abandoning](parityajya) [sādākhya-form](sādākhyākṛtireva) [and](ca)
 
 ## mukta-m0-p16-v383
-dance-form always meditating right-abode first
+[dance-form](nṛttarūpaṃ) [always](sadā) [meditating](dhyātvā) [southern-abode-first](dakṣiṇālayamādikaḥ)
 
 ## mukta-m0-p16-v384
-nine-principle-made place all-prosperity-making supreme
+[nine-principle-made](navatatvamayaṃ) [place](sthānaṃ) [all-prosperity-making](sarvasaṃpatkaraṃ) [supreme](param)
 
 ## mukta-m0-p16-v385
-auspicious supreme-liberation all-body sadasiva
+[auspicious](śubhaṃ) [supreme-liberation](paramanirvāṇaṃ) [all-body](sarvadeha) [sadāśiva](sadāśivam)
 
 ## mukta-m0-p16-v386
-heart-lotus-middle establishing nada-tantra art-made
+[heart-lotus-middle](hṛtpadmamadhye) [having-established](saṃsthāpya) [nāda-tantra](nādatantraṃ) [kalā-made](kalāmayam)
 
 ## mukta-m0-p16-v387
-seated or good-dance or meditate-always great-lord
+[seated](āsīnaṃ) [or](vā) [good-dance](sunṛttaṃ) [or](vā) [should-meditate](dhyāyennityaṃ) [great-lord](maheśvara)
 
 ## mukta-m0-p16-v388
-thumb-measure immovable pure-principle nine-souled
+[thumb-sized](aṅguṣṭhamātramacalaṃ) [immovable](acalaṃ) [pure-principle](śuddhatatvaṃ) [nine-souled](navātmakam)
 
 ## mukta-m0-p16-v389
-self but with-syllable inner-self but bindu
+[self](ātmānaṃ) [but](tu) [sa-syllable](sakārasyaṃ) [inner-self](antarātmā) [but](tu) [bindu](bindukaḥ)
 
 ## mukta-m0-p16-v390
-all heart-mantra worship according-to-order
+[all](sarvaṃ) [heart-mantra](hṛdayamantreṇa) [having-worshipped](pūjayitvā) [in-order](yathākramam)
 
 ## mukta-m0-p16-v391
-thirty-eight-supreme dance nyasa-time-order hear
+[thirty-eight-fold](aṣṭatriṃśatparaṃ) [dance](nṛttaṃ) [nyāsa-time-order](nyāsakālakramaṃ) [hear](śṛṇu)
 
 ## mukta-m0-p16-v392
-thirty-eight-soul-mantra
+[thirty-eight-self-mantra](aṣṭatriṃśātmamantrakam)
 
 ## mukta-m0-p16-v393
-body-purification art-nyasa thirty-eight-soul-mantra
+[body-purification](dehaśuddhiṃ) [kalā-nyāsa](kalānyāsaṃ) [thirty-eight-self-mantra](aṣṭatriṃśātmamantrakam)
 
 ## mukta-m0-p16-v394
-self-purification-order proclaimed place-purification-order hear
+[self-purification-order](ātmaśuddhikramaṃ) [declared](proktaṃ) [place-purification-order](sthānaśuddhikramaṃ) [hear](śṛṇu)
 
 ## mukta-m0-p16-v395
-... many clod-bone-etc avoid
+[many-ways](bahudhā) [clod-bone-etc](loṣṭāsthyādīni) [should-avoid](varjayet)
 
 ## mukta-m0-p16-v396
-canopy flag-equipped banana-areca-included
+[canopy](vitāna) [banner-joined](dhvajasaṃyuktaṃ) [banana-areca-included](kadalīkramukānvitam)
 
 ## mukta-m0-p16-v397
-flower-garland strewn lamp-garland adorned
+[flower-garland](puṣpamālā) [strewn](samākīrṇaṃ) [lamp-garland](dīpamālā) [adorned](pariṣkṛtam)
 
 ## mukta-m0-p16-v398
-pure-water filling solar-nyasa perform
+[with-pure-water](śuddhodakena) [filling](saṃpūrya) [solar-nyāsa](sauranyāsaṃ) [should-perform](samācaret)
 
 ## mukta-m0-p16-v399
-place back and purifying hands right-left
+[on-ground](sthale) [on-back](pṛṣṭhe) [and](ca) [cleansing](saṃśodhya) [of-hands](karayordakṣavāmayoḥ)
 
 ## mukta-m0-p16-v400
-om fire-joined ... final-letter
+[praṇava](praṇavaṃ) [fire](vahni) [joined](saṃyuktaṃ) [letter](makṣaram)

@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p17-v401
-[from-men](manuṣyebhyaḥ) [is](asti) [non-desire](anīhā) [indeed](eva)
+[pada-one](manuṣyebhyastyanīhā) [pada-two](manuṣyebhyastyanīhā) [pada-three](manuṣyebhyastyanīhā) [pada-four](manuṣyebhyastyanīhā)
 
 ## mukta-m0-p17-v402
-[from-men](manuṣyebhyaḥ) [measurable](meya) [untouchable](apṛśya) [act](karaṇam)
+[pada-one](manuṣyameyāpṛśyakaraṇam) [pada-two](manuṣyameyāpṛśyakaraṇam) [pada-three](manuṣyameyāpṛśyakaraṇam) [pada-four](manuṣyameyāpṛśyakaraṇam)
 
 ## mukta-m0-p17-v403
-[uncooked](apācita) [heat](tapā) [touchable](pṛśyā) [division](partanam)
+[pada-one](apācitatapā) [pada-two](pṛśyā) [pada-three](partanam) [pada-four](apācitatapā)
 
 ## mukta-m0-p17-v404
-[with-om-three-twenty](sapraṇavatrayoviṃśati) [gāyatrī](gāyatrī) [japa](japa) [rite](kā)
+[pada-one](sapraṇavatrayoviṃśatikāgāyatrījapa) [pada-two](sapraṇavatrayoviṃśatikāgāyatrījapa) [pada-three](sapraṇavatrayoviṃśatikāgāyatrījapa) [pada-four](sapraṇavatrayoviṃśatikāgāyatrījapa)
 
 ## mukta-m0-p17-v405
-[secret](guhya) [dharma](dharma) [ten](daśaka) [completion](nirvartanam)
+[pada-one](guhyadharmadaśakanirvartanam) [pada-two](guhyadharmadaśakanirvartanam) [pada-three](guhyadharmadaśakanirvartanam) [pada-four](guhyadharmadaśakanirvartanam)
 
 ## mukta-m0-p17-v406
-[own](sva) [doctrine](mata) [investigation](anusaṃdhānam) [practice](anuṣṭhānam)
+[pada-one](svamatānusaṃdhānam) [pada-two](svamatānusaṃdhānam) [pada-three](svamatānusaṃdhānam) [pada-four](svamatānusaṃdhānam)
 
 ## mukta-m0-p17-v407
-[other](anya) [doctrine](mata) [acceptance](svīkaraṇam) [rite](kriyā)
+[pada-one](anyamatāsvīkaraṇam) [pada-two](anyamatāsvīkaraṇam) [pada-three](anyamatāsvīkaraṇam) [pada-four](anyamatāsvīkaraṇam)
 
 ## mukta-m0-p17-v408
-[this](eṣa) [eternal](nitya) [dharma](dharmaḥ) [rule](vidhiḥ)
+[pada-one](eṣa) [pada-two](nityo) [pada-three](dharmaḥ) [pada-four](eṣa)
 
 ## mukta-m0-p17-v409
-[of-later](auttarasya) [own-eternal-dharma](svanityadharmānuṣṭhāyina) [practitioner](anuṣṭhāyin) [path](mārga)
+[pada-one](auttarasya) [pada-two](svanityadharmānuṣṭhāyina) [pada-three](auttarasya) [pada-four](svanityadharmānuṣṭhāyina)
 
 ## mukta-m0-p17-v410
-[dharma](dharmo) [gaṅgā-bath](gaṅgāsnāna) [ash-smear](bhasmalepana) [sacrifice](yajñādi)
+[pada-one](dharmo) [pada-two](gaṅgāsnānabhasmalepanavihitayajñādistena) [pada-three](kṛtastadabhyudayāya) [pada-four](dharmo)
 
 ## mukta-m0-p17-v411
-[not](na) [growth](ucchryāya) [indeed](ca) [also](api)
+[pada-one](nocchryāya) [pada-two](ca) [pada-three](nocchryāya) [pada-four](ca)
 
 ## mukta-m0-p17-v412
-[not](na) [secret-dharma](guhyadharmaṃ) [in-books](pusteṣu) [write](pralikhenna)
+[pada-one](na) [pada-two](guhyadharmaṃ) [pada-three](pusteṣu) [pada-four](pralikhenna)
 
 ## mukta-m0-p17-v413
-[later-guru-mouth-lotus-known](auttaragurvaktrābjavedyatvād) [secret-dharmas](guhyadharmāṇām) [rule](vidhiḥ) [path](mārga)
+[pada-one](auttaragurvaktrābjavedyatvādguhyadharmāṇām) [pada-two](auttaragurvaktrābjavedyatvādguhyadharmāṇām) [pada-three](auttaragurvaktrābjavedyatvādguhyadharmāṇām) [pada-four](auttaragurvaktrābjavedyatvādguhyadharmāṇām)
 
 ## mukta-m0-p17-v414
-[writing](pralikhan) [secret-dharmas](guhyadharmāṁs) [tu](tu) [raurava](raurava)
+[pada-one](pralikhanguhyadharmāṁstu) [pada-two](raurava) [pada-three](naraka) [pada-four](vrajediti)
 
 ## mukta-m0-p17-v415
-[brahma-slaying-hundred](brahmahatyāśata) [his](tasya) [who-speaks](yo) [to-disciple](śiṣyato)
+[pada-one](brahmahatyāśata) [pada-two](tasya) [pada-three](yo) [pada-four](vadecchiṣyato'nyata)
 
 ## mukta-m0-p17-v416
-[therefore](ata) [sun-stopping-flow](sūryasastambhanapravāha) [attainment](siddhimān) [indeed](eva) [disciple](śiṣya)
+[pada-one](ata) [pada-two](sūryasastambhanapravāhapravartanādisiddhimāneva) [pada-three](śiṣya) [pada-four](kurvīta)
 
 ## mukta-m0-p17-v417
-[so-long](tāvat) [not](na) [disciples](śiṣyān) [make](kurvīta) [later-path](uttarācāramārgavān)
+[pada-one](tāvanna) [pada-two](śiṣyānkurvīta) [pada-three](hyuttarācāramārgavān) [pada-four](kasmiṃścitkathaṃcitkaṃcit)
 
 ## mukta-m0-p17-v418
-[this](aya) [right-left](dakṣavāma) [uninitiated-before](adīkṣitapūrvo) [also](api) [over-them](tayoradhikṛto)
+[pada-one](aya) [pada-two](dakṣavāmayoradīkṣitapūrvo'pi) [pada-three](tayoradhikṛto) [pada-four](bhavati)
 
 ## mukta-m0-p17-v419
-[later](uttare) [men](manuṣyeṣu) [two](dvāveva) [disciples](śiṣyau) [make](kāryau)
+[pada-one](uttare) [pada-two](manuṣyeṣu) [pada-three](dvāveva) [pada-four](śiṣyau)
 
 ## mukta-m0-p17-v420
-[there](tatra) [with-accomplishment](sasiddhaya) [elder](jyeṣṭha) [indeed](eva) [disciple](śiṣyaṃ)
+[pada-one](tatra) [pada-two](sasiddhayoryeṣṭha) [pada-three](eva) [pada-four](śiṣyaṃ)
 
 ## mukta-m0-p17-v421
-[elder-accomplishment-absence](jyeṣṭhasasidhyabhāve) [then-permitted](tadanujñāta) [younger](kaniṣṭha) [accomplished](siddha) [disciple](śiṣyaṃ)
+[pada-one](jyeṣṭhasasidhyabhāve) [pada-two](tadanujñāta) [pada-three](kaniṣṭha) [pada-four](siddha)
 
 ## mukta-m0-p17-v422
-[lamp-peace](dīpaśāṃti) [not](na) [make](kurvīta) [learned](vidvā) [dharma-devoted](dharmaparāyaṇa)
+[pada-one](dīpaśāṃti) [pada-two](na) [pada-three](kurvīta) [pada-four](vidvādharmaparāyaṇa)
 
 ## mukta-m0-p17-v423
-[someone](kaścid) [later](uttare) [right-left-like](dakṣavāmavac) [disciple-abundance](śiṣyabāhulyam) [desires](icchati)
+[pada-one](kaściduttare) [pada-two](dakṣavāmavacchiṣyabāhulyamicchati) [pada-three](kaściduttare) [pada-four](dakṣavāmavacchiṣyabāhulyamicchati)
 
 ## mukta-m0-p17-v424
-[later-path](uttarācāramārgeṇa) [supreme-self-worship](parātmopāsanam) [īśvara-like](īśvaravad) [unmatta-bhairava](unmattabhairavaḥ)
+[pada-one](uttarācāramārgeṇa) [pada-two](parātmopāsanamīśvaravadityunmattabhairavaḥ) [pada-three](uttarācāramārgeṇa) [pada-four](parātmopāsanamīśvaravadityunmattabhairavaḥ)
 
 ## mukta-m0-p17-v425
-[ānanda-ending](ānandaśabdāntaṃ) [name](nāma) [should-give](vidadhyād) [later](uttare)
+[pada-one](ānandaśabdāntaṃ) [pada-two](nāma) [pada-three](vidadhyāduttare) [pada-four](ānandaśabdāntaṃ)

@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p19-v451
-[iti](iti) [pārānanda](pārānanda) [sūtre](sūtre) [pañcama](pañcama) [māhnikam](māhnikam)
+[thus](iti) [supreme-bliss](pārānanda) [in-sūtra](sūtre) [fifth](pañcamam) [chapter](āhnikam)
 
 ## mukta-m0-p19-v452
-[oṃ](oṃ) [atha](atha) [ataḥ](ataḥ) [parama-ānanda-matam](paramānandamataṃ) [vakṣyāmaḥ](vakṣyāmaḥ)
+[om](oṃ) [now](atha) [then](atas) [supreme-bliss](paramānanda) [doctrine](matam) [we-shall-declare](vakṣyāmaḥ)
 
 ## mukta-m0-p19-v453
-[parama-ātmā](paramātmā)
+[supreme](parama) [self](ātmā)
 
 ## mukta-m0-p19-v454
-[īśvarāḥ](īśvarāḥ) [pṛthak](pṛthak) [pṛthak](pṛthak)
+[lords](īśvarāḥ) [separate](pṛthak) [separate](pṛthak)
 
 ## mukta-m0-p19-v455
-[jīvāḥ](jīvāḥ) [pṛthak](pṛthak) [pṛthak](pṛthak)
+[souls](jīvāḥ) [separate](pṛthak) [separate](pṛthak)
 
 ## mukta-m0-p19-v456
-[nitya-ānandaḥ](nityānandaḥ) [sat-cit-ānanda-mayamūrtiḥ](saccidānandamayamūrtiḥ)
+[eternal](nitya) [bliss](ānandaḥ) [being](sat) [consciousness](cit) [bliss](ānanda) [formed](maya) [body](mūrtiḥ)
 
 ## mukta-m0-p19-v457
-[sarvataḥ](sarvataḥ) [su-rūpaḥ](surūpaḥ)
+[everywhere](sarvataḥ) [beautiful](su) [form](rūpaḥ)
 
 ## mukta-m0-p19-v458
-[sarvataḥ](sarvataḥ) [sarva-jñaḥ](sarvajñaḥ)
+[everywhere](sarvataḥ) [all](sarva) [knowing](jñaḥ)
 
 ## mukta-m0-p19-v459
-[sarvataḥ](sarvataḥ) [sarva-īśvaraḥ](sarveśvaraḥ)
+[everywhere](sarvataḥ) [all](sarva) [lord](īśvaraḥ)
 
 ## mukta-m0-p19-v460
-[veda-vāk](vedavāk)
+[Veda](veda) [voice](vāk)
 
 ## mukta-m0-p19-v461
-[sva-abhinna-alaṅkāraḥ](svābhinnālaṅkāraḥ) [sva-abhinna-āyudhaḥ](svābhinnāyudhaḥ) [sva-abhinna-vāhanaḥ](svābhinnavāhanaḥ) [iti](iti) [kāla-śambhuḥ](kālaśambhuḥ)
+[self](sva) [distinct](bhinna) [ornaments](alaṅkāraḥ) [self](sva) [distinct](bhinna) [weapons](āyudhaḥ) [self](sva) [distinct](bhinna) [vehicle](vāhana) [thus](iti) [time](kāla) [auspicious](śambhuḥ)
 
 ## mukta-m0-p19-v462
-[tad-bhinna-anādi-ananta-alaṅkāra-āyudha-vāhanāni](tadbhinnānādyanantālaṅkārāyudhavāhanāni) [iti](iti) [unmatta-bhairavaḥ](unmattabhairavaḥ)
+[his](tad) [distinct](bhinna) [beginningless](anādya) [endless](ananta) [ornaments-weapons-vehicles](alaṅkārāyudhavāhanāni) [thus](iti) [mad](unmatta) [Bhairava](bhairavaḥ)
 
 ## mukta-m0-p19-v463
-[acintya-aiśvaryaḥ](acintyaiśvaryaḥ) [sarvataḥ](sarvataḥ)
+[inconceivable](acintya) [sovereignty](aiśvaryaḥ) [everywhere](sarvataḥ)
 
 ## mukta-m0-p19-v464
-[avedyaḥ](avedyaḥ) [acintyaḥ](acintyaḥ) [adṛśyaḥ](adṛśyaḥ)
+[unknowable](avedyaḥ) [inconceivable](acintyaḥ) [invisible](adṛśyaḥ)
 
 ## mukta-m0-p19-v465
-[su-saṃvedyaḥ](susaṃvedyaḥ) [su-saṃcintyaḥ](susaṃcintyaḥ) [su-saṃdṛśyaḥ](susaṃdṛśyaḥ)
+[well-knowable](susaṃvedyaḥ) [well-conceivable](susaṃcintyaḥ) [well-visible](susaṃdṛśyaḥ)
 
 ## mukta-m0-p19-v466
-[yoga-phala-nirdeṣṭā](yogaphalanirdeṣṭā) [sarvataḥ](sarvataḥ)
+[yoga](yoga) [result](phala) [declarer](nirdeṣṭā) [everywhere](sarvataḥ)
 
 ## mukta-m0-p19-v467
-[sarvataḥ](sarvataḥ) [yoga-phala-daḥ](yogaphaladaḥ)
+[from-everywhere](sarvatas) [yoga](yoga) [result](phala) [giver](daḥ)
 
 ## mukta-m0-p19-v468
-[īśvaraiḥ](īśvaraiḥ) [upāsyaḥ](upāsyaḥ) [sarvataḥ](sarvataḥ)
+[by-lords](īśvaraiḥ) [worshipable](upāsyaḥ) [everywhere](sarvataḥ)
 
 ## mukta-m0-p19-v469
-[īśvara-upāsyaḥ](īśvaropāsyaḥ) [sarvataḥ](sarvataḥ)
+[by-lord](īśvara) [worshipable](upāsyaḥ) [everywhere](sarvataḥ)
 
 ## mukta-m0-p19-v470
-[īśvarāṇām](īśvarāṇāṃ) [sva-bhaktānām](svabhaktānāṃ) [nigraha-anugraha-kṣamaḥ](nigrahānugrahakṣamaḥ)
+[of-lords](īśvarāṇām) [of-own-devotees](svabhaktānām) [capable](kṣamaḥ) [of-restraint](nigraha) [and-grace](anugraha)
 
 ## mukta-m0-p19-v471
-[sarva-gamyaḥ](sarvagamyaḥ)
+[accessible-to-all](sarvagamyaḥ)
 
 ## mukta-m0-p19-v472
-[kleśa-karma-vipāka-aparāmṛṣṭaḥ](kleśakarmavipākā'parāmṛṣṭaḥ) [sarvataḥ](sarvataḥ)
+[untouched](aparāmṛṣṭaḥ) [by-affliction-action-fruit](kleśakarmavipākā) [everywhere](sarvataḥ)
 
 ## mukta-m0-p19-v473
-[sarva-gamyaḥ](sarvagamyaḥ)
+[accessible-to-all](sarvagamyaḥ)
 
 ## mukta-m0-p19-v474
-[sarva-utpatti-kṛt](sarvotpattikṛt)
+[maker](kṛt) [of-all-origination](sarvotpatti)
 
 ## mukta-m0-p19-v475
-[sarva-sthiti-kṛt](sarvasthitikṛt)
+[maker](kṛt) [of-all-maintenance](sarvasthiti)

@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p76-v1876
-[svapna](svapna) [parāvara-darśanaḥ](parāvaradarśanaḥ) [sendriya-atīndriya-jñaḥ](sendriyātīndriyajñaḥ)
+[gloss](svapna]) [gloss](parāvara-darśanaḥ) [gloss](sendriya-atīndriya-jñaḥ)
 
 ## mukta-m0-p76-v1877
-[pṛcchāmi](pṛcchāmi) [yad-ahaṃ](yadahaṃ) [tan-me](tanme) [kṛpayā](kṛpayā) [vaktum-arhasi](vaktumarhasi)
+[gloss](pṛcchāmi) [gloss](yad-ahaṃ) [gloss](tan-me) [gloss](kṛpayā) [gloss](vaktum-arhasi)
 
 ## mukta-m0-p76-v1878
-[ata-eva-āha](ata evāha) [na](na) [ta-iti](ta iti) [leśataḥ-api-aviditam-iti](leśato'pyaviditamiti) [yojanā](yojanā)
+[gloss](ata) [gloss](eva) [gloss](āha) [gloss](na) [gloss]([k: tata]) [gloss](ta) [gloss](iti) [gloss](leśataḥ) [gloss](api) [gloss](aviditam) [gloss](iti) [gloss](yojanā)
 
 ## mukta-m0-p76-v1879
-[bhavet](bhavet) [tat](tat) [katham-iti](kathamiti) [yojanā](yojanā)
+[gloss](bhavet) [gloss](tat) [gloss](katham) [gloss](iti) [gloss](yojanā)
 
 ## mukta-m0-p76-v1880
-[atha-api](athāpi) [deśaḥ](deśaḥ) [kālaḥ-ca](kālaśca) [yugapad](yugapad) [vividhaḥ](vividhaḥ) [katham](katham)
+[gloss](atha) [gloss](api) [gloss](deśaḥ) [gloss](kālaḥ) [gloss](ca) [gloss](yugapat) [gloss](vividhaḥ) [gloss](katham)
 
 ## mukta-m0-p76-v1881
-[vividhaḥ](vividhaḥ) [katham-iti-arthaḥ](kathamityarthaḥ)
+[gloss](vividhaḥ) [gloss](katham) [gloss](iti) [gloss](arthaḥ)
 
 ## mukta-m0-p76-v1882
-[iti](iti) [pṛṣṭaḥ](pṛṣṭo) [munisutaḥ](munisutaḥ) [pravaktum-upacakrame](pravaktumupacakrame)
+[gloss](iti) [gloss](pṛṣṭaḥ) [gloss](munisutaḥ) [gloss](pravaktum) [gloss](upacakrame)
 
 ## mukta-m0-p76-v1883
-[satya-vāsanā-viṣṭaḥ](satyavāsanāviṣṭo) [bhūyaḥ](bhūyaḥ) [pṛcchati](pṛcchati) [anyatarat](anyatarat) [satyaṃ](satyaṃ) [bhavet-iti](bhavediti)
+[gloss](satya-vāsanā-viṣṭaḥ) [gloss](bhūyaḥ) [gloss](pṛcchati) [gloss](anyatarat) [gloss](satyam) [gloss](bhavet) [gloss](iti)
 
 ## mukta-m0-p76-v1884
-[vyākyāta-ṭīkāyām](vyākyātaṣṭīkāyām)
+[gloss](vyākyāta) [gloss](ṭīkāyām)
 
 ## mukta-m0-p76-v1885
-[bhavet-iti](bhavediti) [bhāvaḥ](bhāvaḥ)
+[gloss](bhavet) [gloss](iti) [gloss](bhāvaḥ)
 
 ## mukta-m0-p76-v1886
-[etat](etat) [sarvaiḥ](sarvaiḥ) [satya-rūpaṃ](satyarūpaṃ) [bhāvitaṃ](bhāvitaṃ) [su-dṛḍhatvataḥ](sudṛḍhatvataḥ)
+[gloss](etat) [gloss](sarvaiḥ) [gloss](satya-rūpam) [gloss](bhāvitam) [gloss](su-dṛḍhatvataḥ)
 
 ## mukta-m0-p76-v1887
-[satya-rūpaṃ](satyarūpaṃ) [bhāvitam](bhāvitam) [ataḥ](ataḥ) [sarva-sādhāraṇaṃ](sarvasādhāraṇaṃ) [satyatvena](satyatvena) [bhāsate](bhāsata) [iti](iti) [śeṣaḥ](śeṣaḥ)
+[gloss](satya-rūpam) [gloss](bhāvitam) [gloss](ataḥ) [gloss](sarva-sādhāraṇam) [gloss](satyatvena) [gloss](bhāsate) [gloss](iti) [gloss](śeṣaḥ)
 
 ## mukta-m0-p76-v1888
-[vikalpa-sambhedaḥ](vikalpasambheda) [eṣaḥ-asiddhā](eṣo'siddhā) [tasmāt-vibhāvanā](tasmādvibhāvanā)
+[gloss](vikalpa-sambhedaḥ) [gloss](eṣaḥ) [gloss](asiddhā) [gloss](tasmāt) [gloss](vibhāvanā)
 
 ## mukta-m0-p76-v1889
-[janmanā](janmanā) [maṇinā](maṇinā) [tadvat-auṣadhena](tadvadauṣadhena) [ca](ca) [yogataḥ](yogataḥ)
+[gloss](janmanā) [gloss](maṇinā) [gloss](tadvat) [gloss](auṣadhena) [gloss](ca) [gloss](yogataḥ)
 
 ## mukta-m0-p76-v1890
-[janmanā](janmanā) [brahmaṇaḥ](brahmaṇaḥ) [sā](sā) [vai](vai) [maṇinā](maṇinā) [yakṣa-rakṣasām](yakṣarakṣasām)
+[gloss](janmanā) [gloss](brahmaṇaḥ) [gloss](sā) [gloss](vai) [gloss](maṇinā) [gloss](yakṣa-rakṣasām)
 
 ## mukta-m0-p76-v1891
-[tapasā](tapasā) [tāpasānāṃ](tāpasānāṃ) [sā](sā) [māntrikāṇāṃ](māntrikāṇāṃ) [tu](tu) [mantrataḥ](mantrataḥ)
+[gloss](tapasā) [gloss](tāpasānām) [gloss](sā) [gloss](māntrikāṇām) [gloss](tu) [gloss](mantrataḥ)
 
 ## mukta-m0-p76-v1892
-[auṣadhena](auṣadhena) [amṛtena](amṛtena)
+[gloss](auṣadhena) [gloss](amṛtena)
 
 ## mukta-m0-p76-v1893
-[saṅkalpitaṃ](saṅkalpitaṃ) [tathā](tathā) [bhāvyaṃ](bhāvyaṃ) [pūrva-vismaraṇe](pūrvavismaraṇe) [sati](sati)
+[gloss](saṅkalpitam) [gloss](tathā) [gloss](bhāvyam) [gloss](pūrva-vismaraṇe) [gloss](sati)
 
 ## mukta-m0-p76-v1894
-[bhāvaḥ](bhāvaḥ)
+[gloss](bhāvaḥ)
 
 ## mukta-m0-p76-v1895
-[evam-eva](evameva) [nirvikalpa-bhāvanā](nirvikalpabhāvanā) [yadi](yadi) [su-thirā](suthirā)
+[gloss](evam) [gloss](eva) [gloss](nirvikalpa-bhāvanā) [gloss](yadi) [gloss](su-thirā)
 
 ## mukta-m0-p76-v1896
-[su-sthirā](susthirā) [tadā](tadā) [mahā-phalaṃ](mahāphalaṃ) [sādhayet-iti](sādhayediti) [vyavahitena](vyavahitena) [sambandhaḥ](sambandhaḥ)
+[gloss](su-sthirā) [gloss](tadā) [gloss](mahā-phalam) [gloss](sādhayet) [gloss](iti) [gloss](vyavahitena) [gloss](sambandhaḥ)
 
 ## mukta-m0-p76-v1897
-[tāvat](tāvat) [sā](sā) [bhāvanā](bhāvanā) [siddhā](siddhā) [sādhayet-vai](sādhayedvai) [mahā-phalam](mahāphalam)
+[gloss](tāvat) [gloss](sā) [gloss](bhāvanā) [gloss](siddhā) [gloss](sādhayet) [gloss](vai) [gloss](mahā-phalam)
 
 ## mukta-m0-p76-v1898
-[bhāvanāṃ](bhāvanāṃ) [sādhaya](sādhaya) [kṣipraṃ](kṣipraṃ) [yadi](yadi) [sraṣṭuṃ](sraṣṭuṃ) [samīhasi](samīhasi)
+[gloss](bhāvanām) [gloss](sādhaya) [gloss](kṣipram) [gloss](yadi) [gloss](sraṣṭum) [gloss](samīhasi)
 
 ## mukta-m0-p76-v1899
-[tava](tava) [tu](tu) [vikalpa-sambhedāt](vikalpasambhedād) [bhāvanā](bhāvanā) [na](na) [siddhetyāha](siddhetyāha) [sambhedād-iti](sambhedāditi)
+[gloss](tava) [gloss](tu) [gloss](vikalpa-sambhedāt) [gloss](bhāvanā) [gloss](na) [gloss](siddhā) [gloss](iti) [gloss](āha) [gloss](sambhedāt) [gloss](iti)
 
 ## mukta-m0-p76-v1900
-[avyutpannaḥ-asi](avyutpanno'si) [lokasya](lokasya) [vyavahāre](vyavahāre) [tataḥ-tava](tatastava)
+[gloss](avyutpannaḥ) [gloss](asi) [gloss](lokasya) [gloss](vyavahāre) [gloss]([k: hāraihyata]) [gloss](tataḥ) [gloss](tava)
