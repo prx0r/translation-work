@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p61-v1501
-[vibhinne](vibhinne) [kula](kula) [dātavyaṃ](dātavyaṃ) [svakulānanda](svakulānanda) [hetave](hetave)
+[different](vibhinne) [clan](kula) [to-be-given](dātavyaṃ) [for-own-clan-joy](svakulānanda) [cause](hetave)
 
 ## mukta-m0-p61-v1502
-[nārīmātreṣu](nārīmātreṣu) [vijñeyā](vijñeyā) [deveṣu](deveṣu) [kulayoṣitā](kulayoṣitā)
+[women-only](nārīmātreṣu) [to-be-known](vijñeyā) [among-gods](deveṣu) [clan-woman](kulayoṣitā)
 
 ## mukta-m0-p61-v1503
-[ata](ata) [eva](eva) [mahāvīraḥ](mahāvīraḥ) [tadanyāṃ](tadanyāṃ) [naiva](naiva) [laṅghayet](laṅghayet)
+[therefore](ata) [indeed](eva) [great-hero](mahāvīraḥ) [another](tadanyāṃ) [not](na) [eva](eva) [would-cross](laṅghayet)
 
 ## mukta-m0-p61-v1504
-[kulaṃ](kulaṃ) [kiñca](kiñca) [mahādevi](mahādevi) [mama](mama) [sthāne](sthāne) [prakāśaya](prakāśaya)
+[clan](kulaṃ) [what](kiñca) [great-goddess](mahādevi) [my](mama) [place](sthāne) [reveal](prakāśaya)
 
 ## mukta-m0-p61-v1505
-[parapuṣpākṛti](parapuṣpākṛti) [sthānaṃ](sthānaṃ) [kulāgāraṃ](kulāgāraṃ) [prakāśitam](prakāśitam)
+[other-flower-form](parapuṣpākṛti) [place](sthānaṃ) [clan-house](kulāgāraṃ) [revealed](prakāśitam)
 
 ## mukta-m0-p61-v1506
-[paścimānanam](paścimānanam)
+[western-face](paścimānanam)
 
 ## mukta-m0-p61-v1507
-[tathā](tathā)
+[thus](tathā)
 
 ## mukta-m0-p61-v1508
-[kulasthānam](kulasthānam) [idaṃ](idaṃ) [jñeyaṃ](jñeyaṃ) [sarvabījasya](sarvabījasya) [bījakam](bījakam)
+[clan-place](kulasthānam) [this](idaṃ) [to-be-known](jñeyaṃ) [of-all-seed](sarvabījasya) [seed](bījakam)
 
 ## mukta-m0-p61-v1509
-[tadbījaṃ](tadbījaṃ) [kiṃ](kiṃ) [maheśāni](maheśāni) [tadbhinnaṃ](tadbhinnaṃ) [nārī](nārī) [vā](vā) [katham](katham)
+[that-seed](tadbījaṃ) [what](kiṃ) [O-great-goddess](maheśāni) [that-different](tadbhinnaṃ) [woman](nārī) [or](vā) [how](katham)
 
 ## mukta-m0-p61-v1510
-[kulasthānaṃ](kulasthānaṃ) [vinā](vinā) [śaktijñānamātraṃ](śaktijñānamātraṃ) [na](na) [jāyate](jāyate)
+[without-clan-place](kulasthānaṃ) [vinā](vinā) [power-knowledge-only](śaktijñānamātraṃ) [not](na) [arises](jāyate)
 
 ## mukta-m0-p61-v1511
-[nitamba](nitamba) [jaghana](jaghana) [sphītā](sphītā) [parapuṣpa](parapuṣpa) [bhaga](bhaga) [prabhā](prabhā)
+[hips-thighs-broad](nitamba+jaghana+sphītā) [other-flower](parapuṣpa) [yoni-radiance](bhaga+prabhā)
 
 ## mukta-m0-p61-v1512
-[gopitā](gopitā)
+[hidden](gopitā)
 
 ## mukta-m0-p61-v1513
-[madhyame](madhyame) [pūjite](pūjite) [bhaktiḥ](bhaktiḥ) [hīne](hīne) [api](api) [kārya](kārya) [sādhanam](sādhanam)
+[middle](madhyame) [worshipped](pūjite) [devotion](bhaktiḥ) [even-in-deficiency](hīne+api) [work](kārya) [accomplishment](sādhanam)
 
 ## mukta-m0-p61-v1514
-[parājitā](parājitā) [puṣpa](puṣpa) [rūpā](rūpā) [kulāgārañca](kulāgārañca) [madhyagam](madhyagam)
+[defeated](parājitā) [flower-form](puṣpa+rūpā) [clan-house](kulāgāraṃ) [and-middle](ca+madhyagam)
 
 ## mukta-m0-p61-v1515
-[aṇḍa](aṇḍa) [jātaṃ](jātaṃ) [svedajātaṃ](svedajātaṃ) [bīja](bīja) [jātaṃ](jātaṃ) [tridhā](tridhā) [śive](śive)
+[egg-born](aṇḍa+jātaṃ) [sweat-born](sveda+jātaṃ) [seed-born](bīja+jātaṃ) [threefold](tridhā) [O-Śiva](śive)
 
 ## mukta-m0-p61-v1516
-[liṅgamadhye](liṅgamadhye) [sthitaṃ](sthitaṃ) [śukraṃ](śukraṃ) [yonimadhye](yonimadhye) [ca](ca) [śoṇitam](śoṇitam)
+[phallus-middle](liṅga+madhye) [situated](sthitaṃ) [semen](śukraṃ) [yoni-middle](yoni+madhye) [ca](ca) [menstrual-blood](śoṇitam)
 
 ## mukta-m0-p61-v1517
-[tasya](tasya) [bījaṃ](bījaṃ) [na](na) [vidyeta](vidyeta) [gadituṃ](gadituṃ) [naiva](naiva) [śakyate](śakyate)
+[of-that](tasya) [seed](bījaṃ) [not](na) [is-known](vidyeta) [to-speak](gadituṃ) [not](na) [eva](eva) [possible](śakyate)
 
 ## mukta-m0-p61-v1518
-[tejādhikye](tejādhikye) [bīja](bīja) [jātaṃ](jātaṃ) [kṣityādhikye](kṣityādhikye) [api](api) [mānuṣam](mānuṣam)
+[by-tejas-excess](tejādhikye) [seed-born](bīja+jātaṃ) [by-earth-excess](kṣityādhikye+api) [human](mānuṣam)
 
 ## mukta-m0-p61-v1519
-[kriyāyogo](kriyāyogo) [dhyāna](dhyāna) [yogo](yogo) [bhakti](bhakti) [yogo](yogo) [bhaviṣyati](bhaviṣyati)
+[action-yoga](kriyā+yoga) [meditation-yoga](dhyāna+yoga) [devotion-yoga](bhakti+yoga) [will-be](bhaviṣyati)
 
 ## mukta-m0-p61-v1520
-[trikoṇākāra](trikoṇākāra) [rūpā](rūpā) [sā](sā) [sarvadevālayā](sarvadevālayā) [priye](priye)
+[triangle-form](trikoṇākāra+rūpā) [she](sā) [all-gods-abode](sarvadevālayā) [beloved](priye)
 
 ## mukta-m0-p61-v1521
-[tripureśī](tripureśī) [yonimadhye](yonimadhye) [mūle](mūle) [vasati](vasati) [bhairavī](bhairavī)
+[Tripurā-lady](tripureśī) [yoni-middle](yoni+madhye) [at-root](mūle) [dwells](vasati) [Bhairavī](bhairavī)
 
 ## mukta-m0-p61-v1522
-[roma](roma) [kūpe](kūpe) [mahākālī](mahākālī) [mātaṅgī](mātaṅgī) [mekhalāsu](mekhalāsu) [ca](ca)
+[hair-pore](roma+kūpe) [great-Kālī](mahākālī) [Mātaṅgī](mātaṅgī) [in-girdles](mekhalāsu) [ca](ca)
 
 ## mukta-m0-p61-v1523
-[bindupuṣpatarormūle](bindupuṣpatarormūle) [kuṇḍalī](kuṇḍalī) [brahmavigrahā](brahmavigrahā)
+[bindu-flower-tree-root](bindu+puṣpa+taror+mūle) [Kuṇḍalinī](kuṇḍalī) [Brahma-form](brahma+vigrahā)
 
 ## mukta-m0-p61-v1524
-[pīṭhaṃ](pīṭhaṃ) [kāma](kāma) [svarūpañca](svarūpañca) [dvividhaṃ](dvividhaṃ) [parameśvari](parameśvari)
+[seat](pīṭhaṃ) [desire-form](kāma+svarūpaṃ) [ca](ca) [twofold](dvividhaṃ) [O-supreme-goddess](parameśvari)
 
 ## mukta-m0-p61-v1525
-[praṇavākāra](praṇavākāra) [rūpeṇa](rūpeṇa) [yonyākāraṃ](yonyākāraṃ) [vicintayet](vicintayet)
+[praṇava-form](praṇavākāra+rūpeṇa) [yoni-form](yonyākāraṃ) [should-contemplate](vicintayet)

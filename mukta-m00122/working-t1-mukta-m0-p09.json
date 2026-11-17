@@ -16,7 +16,7 @@
 },
 {
 "surface": "nityam",
-"quick_gloss": "eternal"
+"quick_gloss": "constant"
 },
 {
 "surface": "avicchinnaṃ",
@@ -70,11 +70,11 @@
 "tokens": [
 {
 "surface": "nyasecca",
-"quick_gloss": "should-place-and"
+"quick_gloss": "should-place"
 },
 {
 "surface": "mātṛkāsthāne",
-"quick_gloss": "matrika-place"
+"quick_gloss": "mātṛkā-place"
 },
 {
 "surface": "tadā",
@@ -82,7 +82,7 @@
 },
 {
 "surface": "taddehasiddhaye",
-"quick_gloss": "body-perfection"
+"quick_gloss": "that-body-perfection"
 }
 ]
 },
@@ -95,23 +95,19 @@
 "tokens": [
 {
 "surface": "kuhūprāptau",
-"quick_gloss": "kuhu-arrival"
+"quick_gloss": "on-kuhū-arrival"
 },
 {
 "surface": "ripukleśe",
 "quick_gloss": "enemy-distress"
 },
 {
-"surface": "kuryād",
+"surface": "kuryāt",
 "quick_gloss": "should-do"
 },
 {
-"surface": "eva",
-"quick_gloss": "eva"
-},
-{
-"surface": "abhiṣecanam",
-"quick_gloss": "consecration"
+"surface": "evābhiṣecanam",
+"quick_gloss": "indeed-abhiṣecana"
 }
 ]
 },
@@ -132,7 +128,7 @@
 },
 {
 "surface": "kṛtyāśca",
-"quick_gloss": "witchcrafts-and"
+"quick_gloss": "witchcrafts"
 },
 {
 "surface": "ripukalpitāḥ",
@@ -149,7 +145,7 @@
 "tokens": [
 {
 "surface": "śrīcakre",
-"quick_gloss": "sri-cakra"
+"quick_gloss": "śrīcakra"
 },
 {
 "surface": "ekaṃ",
@@ -165,11 +161,11 @@
 },
 {
 "surface": "pakṣaḥ",
-"quick_gloss": "side"
+"quick_gloss": "pakṣa"
 },
 {
 "surface": "kāmyaviṣayaḥ",
-"quick_gloss": "desired-object"
+"quick_gloss": "desirable-object"
 }
 ]
 },
@@ -182,7 +178,7 @@
 "tokens": [
 {
 "surface": "śrīvidyāṃ",
-"quick_gloss": "sri-vidya"
+"quick_gloss": "śrīvidyā"
 },
 {
 "surface": "nyased",
@@ -215,7 +211,7 @@
 "tokens": [
 {
 "surface": "saṃkucitatvaduḥkhārttiḥ",
-"quick_gloss": "contraction-pain"
+"quick_gloss": "contracted-state-distress"
 }
 ]
 },
@@ -243,12 +239,16 @@
 "quick_gloss": "by-which"
 },
 {
-"surface": "kleśā",
-"quick_gloss": "afflictions"
+"surface": "kleśāḥ",
+"quick_gloss": "distresses"
 },
 {
-"surface": "naśyantyaśeṣataḥ",
-"quick_gloss": "perish-completely"
+"surface": "naśyanti",
+"quick_gloss": "perish"
+},
+{
+"surface": "aśeṣataḥ",
+"quick_gloss": "entirely"
 }
 ]
 },
@@ -260,8 +260,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "naśyantyaśeṣato",
-"quick_gloss": "perish-completely"
+"surface": "naśyanti",
+"quick_gloss": "perish"
+},
+{
+"surface": "aśeṣataḥ",
+"quick_gloss": "entirely"
 },
 {
 "surface": "doṣāḥ",
@@ -273,7 +277,7 @@
 },
 {
 "surface": "sekasamo",
-"quick_gloss": "consecration-equal"
+"quick_gloss": "abhiṣecana-equal"
 },
 {
 "surface": "na",
@@ -293,20 +297,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "tasmād",
+"surface": "tasmāt",
 "quick_gloss": "therefore"
 },
 {
 "surface": "aśeṣaduḥkhārtiśāntyai",
-"quick_gloss": "all-pain-peace"
+"quick_gloss": "all-distress-peace"
 },
 {
-"surface": "syād",
+"surface": "syāt",
 "quick_gloss": "should-be"
 },
 {
 "surface": "abhiṣecanam",
-"quick_gloss": "consecration"
+"quick_gloss": "abhiṣecana"
 }
 ]
 },
@@ -323,7 +327,7 @@
 },
 {
 "surface": "sadakṣiṇāṃ",
-"quick_gloss": "with-dakshina"
+"quick_gloss": "with-dakṣiṇā"
 },
 {
 "surface": "pūjāṃ",
@@ -331,11 +335,11 @@
 },
 {
 "surface": "guroḥ",
-"quick_gloss": "guru"
+"quick_gloss": "guru's"
 },
 {
 "surface": "pratyabdameva",
-"quick_gloss": "annually"
+"quick_gloss": "yearly"
 },
 {
 "surface": "vā",
@@ -352,23 +356,23 @@
 "tokens": [
 {
 "surface": "abhiṣiktastu",
-"quick_gloss": "consecrated-but"
+"quick_gloss": "abhiṣikta"
 },
 {
 "surface": "vidhinā",
 "quick_gloss": "by-rite"
 },
 {
-"surface": "pradadyād",
+"surface": "pradadyāt",
 "quick_gloss": "should-give"
 },
 {
 "surface": "dakṣiṇāṃ",
-"quick_gloss": "dakshina"
+"quick_gloss": "dakṣiṇā"
 },
 {
 "surface": "guroḥ",
-"quick_gloss": "guru"
+"quick_gloss": "guru's"
 }
 ]
 },
@@ -389,15 +393,15 @@
 },
 {
 "surface": "ca",
-"quick_gloss": "and"
+"quick_gloss": "ca"
 },
 {
 "surface": "svāgrato",
-"quick_gloss": "before-from"
+"quick_gloss": "before-self"
 },
 {
 "surface": "labdhavidyakāt",
-"quick_gloss": "obtained-knowledge"
+"quick_gloss": "from-knowledge-gained"
 }
 ]
 },
@@ -447,7 +451,7 @@
 },
 {
 "surface": "vidadhyāt",
-"quick_gloss": "should-arrange"
+"quick_gloss": "should-make"
 },
 {
 "surface": "sarvatra",
@@ -455,7 +459,7 @@
 },
 {
 "surface": "gurumaṇḍalakalpanam",
-"quick_gloss": "guru-mandala-conception"
+"quick_gloss": "guru-maṇḍala-arrangement"
 }
 ]
 },
@@ -505,7 +509,7 @@
 },
 {
 "surface": "lakṣmīṃ",
-"quick_gloss": "lakshmi"
+"quick_gloss": "prosperity"
 },
 {
 "surface": "rasasyāt",
@@ -555,11 +559,11 @@
 "tokens": [
 {
 "surface": "devyātmatvaṃ",
-"quick_gloss": "goddess-selfness"
+"quick_gloss": "guru's-devi-selfhood"
 },
 {
 "surface": "guror",
-"quick_gloss": "guru"
+"quick_gloss": "guru-from"
 },
 {
 "surface": "labdhvā",
@@ -571,7 +575,7 @@
 },
 {
 "surface": "japet",
-"quick_gloss": "should-recite"
+"quick_gloss": "should-chant"
 }
 ]
 },
@@ -584,7 +588,7 @@
 "tokens": [
 {
 "surface": "devīṃ",
-"quick_gloss": "goddess"
+"quick_gloss": "devī"
 },
 {
 "surface": "mantramayīṃ",
@@ -592,15 +596,15 @@
 },
 {
 "surface": "naumi",
-"quick_gloss": "I-salute"
+"quick_gloss": "salute"
 },
 {
 "surface": "mātṛkāṃ",
-"quick_gloss": "matrika"
+"quick_gloss": "mātṛkā"
 },
 {
 "surface": "pīṭharūpiṇīm",
-"quick_gloss": "pedestal-formed"
+"quick_gloss": "pīṭha-formed"
 }
 ]
 },
@@ -613,7 +617,7 @@
 "tokens": [
 {
 "surface": "kālahallohalollolakalanāśamakāriṇīm",
-"quick_gloss": "time-destroyer"
+"quick_gloss": "time-destroying"
 }
 ]
 },
@@ -634,7 +638,7 @@
 },
 {
 "surface": "iti",
-"quick_gloss": "thus"
+"quick_gloss": "iti"
 },
 {
 "surface": "arthaḥ",
@@ -650,36 +654,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "ravi",
-"quick_gloss": "sun"
-},
-{
-"surface": "tārkṣya",
-"quick_gloss": "garuda"
-},
-{
-"surface": "indu",
-"quick_gloss": "moon"
-},
-{
-"surface": "kandarpa",
-"quick_gloss": "kama"
-},
-{
-"surface": "śaṅkara",
-"quick_gloss": "shankara"
-},
-{
-"surface": "anala",
-"quick_gloss": "fire"
-},
-{
-"surface": "viṣṇu",
-"quick_gloss": "vishnu"
-},
-{
-"surface": "bhiḥ",
-"quick_gloss": "by"
+"surface": "ravitārkṣyendukandarpaśaṅkarānalaviṣṇubhiḥ",
+"quick_gloss": "sun-garuḍa-moon-cupid-śaṅkara-fire-viṣṇu"
 }
 ]
 },
@@ -692,19 +668,19 @@
 "tokens": [
 {
 "surface": "vande",
-"quick_gloss": "I-salute"
+"quick_gloss": "salute"
 },
 {
 "surface": "sarveśvarīṃ",
-"quick_gloss": "all-lady"
+"quick_gloss": "all-lordess"
 },
 {
 "surface": "devīṃ",
-"quick_gloss": "goddess"
+"quick_gloss": "devī"
 },
 {
 "surface": "mahāśrīsiddhamātṛkām",
-"quick_gloss": "great-sri-siddha-matrika"
+"quick_gloss": "great-śrī-siddha-mātṛkā"
 }
 ]
 }

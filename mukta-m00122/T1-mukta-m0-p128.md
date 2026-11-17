@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p128-v3176
-[asyā](asyā) [niphālanāt](niphālanāccitte) [citte](citte) [tattattvam](tattattvaṃ) [svātmasātkṛtam](svātmasātkṛtam)
+[of-this](asyā) [by-accomplishment](niphālanāt) [in-mind](citte) [that-principle](tattattvaṃ) [made-one's-self](svātmasātkṛtam)
 
 ## mukta-m0-p128-v3177
-[paripūrṇam](paripūrṇaṃ) [parāmṛṣṭam](parāmṛṣṭam)
+[fully-complete](paripūrṇaṃ) [supremely-touched](parāmṛṣṭam)
 
 ## mukta-m0-p128-v3178
-[varṇaiḥ](varṇaistajjanitairmmantrairyantraiḥ) [tajjanitaiḥ](tajjanitaiḥ) [mantraiḥ](mantraiḥ) [yantraiḥ](yantraiḥ) [kālātmatām](kālātmatāṃ) [kramāt](kramāt)
+[by-letters](varṇaiḥ) [born-from-that](tajjanitaiḥ) [mantras](mantraiḥ) [yantras](yantraiḥ) [time-nature](kālātmatāṃ) [gradually](kramāt)
 
 ## mukta-m0-p128-v3179
-[yat](yajjñānopāstibhedābhyāṃ) [jñāna](jñāna) [upāsti](upāsti) [bhedābhyām](bhedābhyāṃ) [mantrāḥ](mantrāḥ) [sidhyanti](sidhyanti) [varṇinaḥ](varṇinaḥ)
+[by-knowledge-and-worship-difference](yajjñānopāstibhedābhyāṃ) [mantras](mantrāḥ) [succeed](sidhyanti) [possessing-letters](varṇinaḥ)
 
 ## mukta-m0-p128-v3180
-[teṣu](teṣu) [tattvāni](tattvāni) [ṣaḍviṃśat](ṣaḍviṃśadvargā) [vargāḥ](vargāḥ) [nātha](nāthanavātmikāḥ) [navātmikāḥ](navātmikāḥ)
+[in-them](teṣu) [principles](tattvāni) [twenty-six-groups](ṣaḍviṃśadvargāḥ) [lord-nine-souled](nāthanavātmikāḥ)
 
 ## mukta-m0-p128-v3181
-[vāsanā](vāsanāpaṭalavakṣyamāṇāḥ) [paṭala](paṭala) [vakṣyamāṇāḥ](vakṣyamāṇāḥ) [sattva](sattvādivihīnāḥ) [ādi](ādi) [vihīnāḥ](vihīnāḥ)
+[latent-impression-layer-to-be-described](vāsanāpaṭalavakṣyamāṇāḥ) [devoid-of-sattva-etc](sattvādivihīnāḥ)
 
 ## mukta-m0-p128-v3182
-[mātṛkāyāḥ](mātṛkāyā) [navātmakāḥ](navātmakā) [vargāḥ](vargāsta) [te](te) [eva](eva) [navātmakāḥ](navātmakā) [nāthāḥ](nāthāḥ) [syuḥ](syuriti) [iti](iti)
+[of-mātṛkā](mātṛkāyāḥ) [nine-souled](navātmakāḥ) [groups](vargāḥ) [those](te) [indeed](eva) [nine-souled](navātmakāḥ) [lords](nāthāḥ) [would-be](syuḥ) [thus](iti)
 
 ## mukta-m0-p128-v3183
-[mātṝṇām](mātṝṇāntu) [tu](tu) [svaraiḥ](svaraireko) [ekaḥ](ekaḥ) [vargaḥ](vargaḥ) [pūrvavat](pūrvavaduttaram) [uttaram](uttaram)
+[of-mothers](mātṝṇām) [tu](tu) [by-vowels](svaraiḥ) [one](ekaḥ) [group](vargaḥ) [as-before](pūrvavat) [uttaram](uttaram)
 
 ## mukta-m0-p128-v3184
-[ṣaṭsaptatyā](ṣaṭsaptatyā) [pañcaśatam](pañcaśataṃ) [tat](tatsaṃkhyābdaistu) [saṃkhyā](saṃkhyā) [abdaiḥ](abdaiḥ) [tu](tu) [pūrṇatā](pūrṇatā)
+[by-seventy-six](ṣaṭsaptatyā) [five-hundred](pañcaśatam) [that-number-years](tatsaṃkhyābdaiḥ) [tu](tu) [fullness](pūrṇatā)
 
 ## mukta-m0-p128-v3185
-[pūrṇakāla](pūrṇakālasamāvṛttiryugakalpādināmabhāk) [samāvṛttiḥ](samāvṛttiḥ) [yuga](yuga) [kalpa](kalpa) [ādi](ādi) [nāma](nāma) [bhāk](bhāk)
+[full-time-completion](pūrṇakālasamāvṛttiḥ) [yuga-kalpa-etc-name-bearing](yugakalpādināmabhāk)
 
 ## mukta-m0-p128-v3186
-[tasya](tasya) [turya](turyyāṃśaturyyāṃśahānyā) [aṃśa](aṃśa) [turya](turya) [aṃśa](aṃśa) [hānyā](hānyā) [tretā](tretādisambhavaḥ) [ādi](ādi) [sambhavaḥ](sambhavaḥ)
+[of-that](tasya) [fourth-part-fourth-part-loss](turyyāṃśaturyyāṃśahānyā) [tretā-etc-birth](tretādisambhavaḥ)
 
 ## mukta-m0-p128-v3187
-[yuga](yugakalpādiamabhāk) [kalpa](kalpa) [ādi](ādi) [amabhāk](amabhāk) [yugakalpādi](yugakalpādisaṃjñā) [saṃjñā](saṃjñā) [bhavati](bhavati)
+[yuga-kalpa-etc-name-bearing](yugakalpādiamabhāk) [yuga-kalpa-etc-designation](yugakalpādisaṃjñā) [becomes](bhavati)
 
 ## mukta-m0-p128-v3188
-[tān](tān) [dina](dinākṣarasaṃyuktānmadhyayonau) [akṣara](akṣara) [saṃyuktān](saṃyuktān) [madhya](madhya) [yonau](yonau) [samālikhet](samālikhet)
+[those](tān) [day-letters-joined](dinākṣarasaṃyuktān) [in-middle-womb](madhyayonau) [should-write](samālikhet)
 
 ## mukta-m0-p128-v3189
-[vāma](vāmordhvadakṣapārśveṣu) [ūrdhva](ūrdhva) [dakṣa](dakṣa) [pārśveṣu](pārśveṣu) [pañca](pañca) [pañca](pañca) [samīritāḥ](samīritāḥ)
+[in-left-up-right-sides](vāmordhvadakṣapārśveṣu) [five](pañca) [five](pañca) [declared](samīritāḥ)
 
 ## mukta-m0-p128-v3190
-[vyañjaneṣu](vyañjaneṣu) [tu](tu) [sarvatra](sarvvatra) [suśliṣṭāḥ](suśliṣṭāḥ) [svena](svena) [saṃyutāḥ](saṃyutāḥ)
+[in-consonants](vyañjaneṣu) [tu](tu) [everywhere](sarvvatra) [well-joined](suśliṣṭāḥ) [by-own](svena) [joined](saṃyutāḥ)
 
 ## mukta-m0-p128-v3191
-[rekaḥ](rekaścaturyugo) [caturyugaḥ](caturyugaḥ) [bhavati](bhavatīti) [iti](iti)
+[reka-four-yuga](rekaścaturyugaḥ) [becomes](bhavati) [thus](iti)
 
 ## mukta-m0-p128-v3192
-[nigrahe](nigrahe) [vāstu](vāstuvinyāse) [vinyāse](vinyāse) [garbha](garbhanyāseṣṭasiddhikṛt) [nyāse](nyāse) [iṣṭa](iṣṭa) [siddhi](siddhi) [kṛt](kṛt)
+[in-restraint](nigrahe) [site-arrangement](vāstuvinyāse) [embryo-arrangement](garbhanyāse) [desired-accomplishment-doing](iṣṭasiddhikṛt)
 
 ## mukta-m0-p128-v3193
-[ekaikam](ekaikaṃ) [mātṛkā](mātṛkāvarṇapañcāśatparivṛttitaḥ) [varṇa](varṇa) [pañcāśat](pañcāśat) [parivṛttitaḥ](parivṛttitaḥ)
+[one-by-one](ekaikam) [mātṛkā-letter-fifty-rotation](mātṛkāvarṇapañcāśatparivṛttitaḥ)
 
 ## mukta-m0-p128-v3194
-[sa](savisarjanīyamitareṣu) [visarjanīya](visarjanīya) [itareṣu](itareṣu) [sa](sa) [vinduka](vindukaṃ) [likhet](likhediti) [iti](iti)
+[with-visarga](savisarjanīyam) [in-others](itareṣu) [with-bindu](savindukam) [should-write](likhet) [thus](iti)
 
 ## mukta-m0-p128-v3195
-[padacchedaḥ](padacchedaḥ) [āgamānām](āgamānāṃ) [sandhiḥ](sandhirdivyatvādasmābhirna) [divyatvāt](divyatvāt) [asmābhiḥ](asmābhirna) [na](na) [vicāraṇīyaḥ](vicāraṇīyaḥ)
+[word-separation](padacchedaḥ) [of-āgamas](āgamānām) [sandhi](sandhiḥ) [divine](divyatvāt) [by-us](asmābhiḥ) [not](na) [to-be-examined](vicāraṇīyaḥ)
 
 ## mukta-m0-p128-v3196
-[evam](evaṃ) [yuga](yugādimārabhya) [ādi](ādi) [ārabhya](ārabhya) [kāla](kālātmārṇaiḥ) [ātma](ātma) [arṇaiḥ](arṇaiḥ) [pravartate](pravarttate)
+[thus](evaṃ) [from-yuga-etc-beginning](yugādimārabhya) [time-self-letters](kālātmārṇaiḥ) [proceeds](pravarttate)
 
 ## mukta-m0-p128-v3197
-[teṣu](teṣu) [paryāya](paryyāyanityārṇavarṇānālikhya) [nitya](nitya) [arṇa](arṇa) [varṇān](varṇān) [ālikhya](ālikhya) [bāhyataḥ](bāhyataḥ)
+[in-them](teṣu) [cyclic-eternal-letters](paryyāyanityārṇavarṇān) [having-written](ālikhya) [outside](bāhyataḥ)
 
 ## mukta-m0-p128-v3198
-[nityāḥ](nityāḥ) [ṣoḍaśa](ṣoḍhaśa) [deveśi](deveśi) [pūjayet](pūjayennityamarccakaḥ) [nityam](nityam) [arcakaḥ](arcakaḥ)
+[eternal](nityāḥ) [sixteen](ṣoḍhaśa) [goddess](deveśi) [should-worship](pūjayet) [eternal-worshipper](nityamarccakaḥ)
 
 ## mukta-m0-p128-v3199
-[ṣaṭ](ṣaṭṣaḍāvṛttayaḥ) [ṣaṭ](ṣaṭ) [āvṛttayaḥ](āvṛttayaḥ) [sambhavanti](sambhavantīti) [iti](iti)
+[six-six-rotations](ṣaṭṣaḍāvṛttayaḥ) [occur](sambhavanti) [thus](iti)
 
 ## mukta-m0-p128-v3200
-[adhamā](adhamā) [māsa](māsamātreṇa) [mātreṇa](mātreṇa) [māsāt](māsādūrddhvamayogyatā) [ūrddhvam](ūrddhvam) [ayogyatā](ayogyatā)
+[lowest](adhamā) [month-measure](māsamātreṇa) [from-month-upward](māsādūrddhvam) [unfitness](ayogyatā)

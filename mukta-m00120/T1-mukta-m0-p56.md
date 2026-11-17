@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p56-v1376
-[bhoga](bhogaś) [ca](ca) [mokṣa](mokṣaś) [ca](ca) [kara-stha](karastha) [eva](eva)
+[enjoyment-and](bhogaśca) [liberation-and](mokṣaśca) [in-hand](karastha) [indeed](eva)
 
 ## mukta-m0-p56-v1377
-[kaula-dharma](kaula) [parama](parama) [gahana](gahano) [yoginām](yoginām) [api](api) [agamya](agamyaḥ)
+[kaula](kaula) [dharma](dharmmaḥ) [supreme](parama) [profound](gahano) [for-yogis-even-unreachable](yogināmapyagamyaḥ)
 
 ## mukta-m0-p56-v1378
-[bhukti](bhuktiṃ) [vrajet](vrajet)
+[devotion-and](bhaktiñca) [enjoyment](bhuktiṃ) [may-go](vrajet)
 
 ## mukta-m0-p56-v1379
-[gaṅgā](gaṅgāṃ) [pivāmi](pivāmi) [yamunā](yamunāṃ) [saha](saha) [sāgara](sāgareṇa)
+[gaṅgā](gaṅgāṃ) [I-drink](pivāmi) [yamunā](yamunāṃ) [with](saha) [ocean](sāgareṇa)
 
 ## mukta-m0-p56-v1380
-[mūrdhni](mūrdhni) [śrī-nātha](śrīnātha) [pādābja](pādābjaṃ) [smaraṇa](smaraṇaṃ) [kim](kim) [ataḥ](ataḥ) [param](param)
+[crown](mūrdhni) [śrīnātha](śrīnātha) [lotus-feet](pādābjaṃ) [remembrance](smaraṇaṃ) [what-than](kimataḥ) [supreme](param)
 
 ## mukta-m0-p56-v1381
-[kula-strī](kula) [saṅga](strī) [nirata](saṅga) [kula-kārya](nirataḥ) [samācaret](kulakāryaṃ)
+[clan](kula) [woman](strī) [association](saṅga) [devoted](nirataḥ) [clan-duty](kulakāryaṃ) [should-perform](samācaret)
 
 ## mukta-m0-p56-v1382
-[pāna](pānañca) [ca](ca) [viṣa-pāna](viṣa) [syāt](pānaṃ) [maithuna](syāt) [pāpa-dāyaka](maithunaṃ)
+[drinking-and](pānañca) [poison](viṣa) [drinking](pānaṃ) [may-be](syāt) [intercourse](maithunaṃ) [sin-giving](pāpadāyakam)
 
 ## mukta-m0-p56-v1383
-[catvāri](catvāri) [tasya](tasya) [naśyanti](naśyanti) [āyuḥ](āyur) [vidyā](vidyā) [yaśas](yaśo) [bala](valam)
+[four](catvāri) [of-him](tasya) [perish](naśyanti) [life](āyur) [knowledge](vidyā) [fame](yaśo) [strength](valam)
 
 ## mukta-m0-p56-v1384
-[abhiṣeka](abhiṣekaṃ) [pravakṣyāmi](pravakṣyāmi) [sarva-siddhi](sarvasiddhi) [pradāyaka](pradāyakam)
+[abhiṣeka](abhiṣekaṃ) [I-will-declare](pravakṣyāmi) [all-siddhi](sarvasiddhi) [giving](pradāyakam)
 
 ## mukta-m0-p56-v1385
-[sarvāśā](sarvāśā) [pūraka](pūrakaṃ) [sarva](sarva) [mantra](mantra) [doṣa](doṣa) [vināśana](vināśanam)
+[all-desires](sarvāśā) [fulfilling](pūrakaṃ) [all-mantra](sarva mantra) [fault](doṣa) [destroying](vināśanam)
 
 ## mukta-m0-p56-v1386
-[abhicāra](abhicāra) [hara](haraṃ) [sarva](sarvaṃ) [graha-doṣa](grahadoṣa) [vināśana](vināśanam)
+[abhicāra](abhicāra) [removing](haraṃ) [all](sarvaṃ) [planet-fault](grahadoṣa) [destroying](vināśanam)
 
 ## mukta-m0-p56-v1387
-[takṣaka](takṣakeṇāpi) [daṣṭa](daṣṭasya) [viṣa-pīḍā](viṣapīḍā) [vināśana](vināśanam)
+[by-Takṣaka-even](takṣakeṇāpi) [bitten](daṣṭasya) [poison-affliction](viṣapīḍā) [destroying](vināśanam)
 
 ## mukta-m0-p56-v1388
-[strī-kṛta](strīkṛteṣvapi) [doṣa](doṣeṣu) [śarīra](śarīre) [mānasa](mānase) [tathā](tathā)
+[by-women-caused](strīkṛteṣvapi) [faults](doṣeṣu) [in-body](śarīre) [in-mind](mānase) [and](tathā)
 
 ## mukta-m0-p56-v1389
-[asaubhāgya](asaubhāgye) [ca](ca) [nārīṇām](nārīṇām) [abhiṣeka](abhiṣekaḥ) [pravarttate](pravarttate)
+[in-infortune](asaubhāgye) [and](ca) [of-women](nārīṇām) [abhiṣeka](abhiṣekaḥ) [proceeds](pravarttate)
 
 ## mukta-m0-p56-v1390
-[nadī](nadī) [tīra](tīre) [deva](deva) [bhūmi](bhūmau) [taru](taru) [mūla](mūle) [catuṣpatha](catuṣpathe)
+[river](nadī) [bank](tīre) [god](deva) [ground](bhūmau) [tree](taru) [root](mūle) [crossroads](catuṣpathe)
 
 ## mukta-m0-p56-v1391
-[mantra](mantreṇānena) [deveśi](deveśi) [tīrtha](tīrthānyāvāhayettataḥ)
+[by-this-mantra](mantreṇānena) [O-goddess](deveśi) [tīrthas](tīrthāni) [should-invoke](āvāhayet) [then](tataḥ)
 
 ## mukta-m0-p56-v1392
-[sarve](sarve) [samudrāḥ](samudrāḥ) [saritaḥ](saritaḥ) [sarāṃsi](sarāṃsi) [jaladā](jaladā) [hradāḥ](hradāḥ)
+[all](sarve) [oceans](samudrāḥ) [rivers](saritaḥ) [lakes](sarāṃsi) [clouds](jaladā) [pools](hradāḥ)
 
 ## mukta-m0-p56-v1393
-[sarva-tīrtha](sarvetīrthāni) [puṇya](puṇyāni) [ghaṭe](ghaṭe) [kurvantu](kurvantu) [sannidhi](sannidhim)
+[all-tīrthas](sarvetīrthāni) [holy](puṇyāni) [in-pot](ghaṭe) [let-make](kurvantu) [presence](sannidhim)
 
 ## mukta-m0-p56-v1394
-[sthira-ākṛti](sthirākṛtiḥ)
+[steady](sthirā) [form](kṛtiḥ)
 
 ## mukta-m0-p56-v1395
-[mūla](mūlena) [dūrvā](dūrvāṃ) [praṇava](praṇavaiḥ) [kuryāt](kuryād) [abhyukṣaṇa](abhyukṣaṇaṃ) [tataḥ](tataḥ)
+[root](mūlena) [dūrvā](dūrvāṃ) [with-oṃs](praṇavaiḥ) [should-do](kuryāt) [sprinkling](abhyukṣaṇaṃ) [then](tataḥ)
 
 ## mukta-m0-p56-v1396
-[tatra](tatrāvāhya) [āvāhya](āvāhya) [prapūjayet](prapūjayet)
+[there](tatra) [having-invoked](āvāhya) [should-worship](prapūjayet)
 
 ## mukta-m0-p56-v1397
-[mantra](mantreṇānena) [deśika](deśikaḥ)
+[by-this-mantra](mantreṇānena) [teacher](deśikaḥ)
 
 ## mukta-m0-p56-v1398
-[vā-mūtra-nirghoṣa](vāmutranirghoṣaḥ)
+[or](vā) [urine](mutra) [sound](nirghoṣaḥ)
 
 ## mukta-m0-p56-v1399
-[yaśas](yaśo) [dhana](dhanāyustejaḥsu) [tejas](tejaḥsu) [śrī-phala](śrīphalasyāpi) [pallava](pallavaiḥ)
+[fame](yaśo) [wealth](dhanāyu) [strength](tejaḥsu) [of-śrīphala](śrīphalasya) [also](api) [sprouts](pallavaiḥ)
 
 ## mukta-m0-p56-v1400
-[dṛśyate](dṛśyate)
+[is-seen](dṛśyate)
