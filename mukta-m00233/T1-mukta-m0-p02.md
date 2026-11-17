@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p02-v26
-[that](sa) [to-be-known](vijñeyaḥ) [pearl+pillar](muktā+stambhaḥ) [with-pearls](samauktikaḥ)
+[that](sa) [to-be-known](vijñeyaḥ) [pearl+pillar](muktā+stambhaḥ) [pearl-like](samauktikaḥ)
 
 ## mukta-m0-p02-v27
-[in-middle](madhye) [sixteen+sided](ṣoḍaśa+aśraḥ) [decorated](alaṅkṛtaḥ)
+[in-middle](madhye) [with-sixteen-angles](ṣoḍaśa+aśraiḥ) [adorned](alaṅkṛtaḥ)
 
 ## mukta-m0-p02-v28
-[thus](evā) [eight+sided](aṣṭa+aśrakaḥ) [in-middle](madhye) [śrīkhaṇḍa](śrīkhaṇḍaḥ) [having-band+binding](paṭṭa+bandhavān)
+[thus](eva) [octagonal](aṣṭāśrakaḥ) [in-middle](madhye) [auspicious+section](śrī+khaṇḍaḥ) [having+band](paṭṭa+bandhavān)
 
 ## mukta-m0-p02-v29
-[paṭṭakṣepaṇa+named](paṭṭakṣepaṇa+saṃjñaḥ) [should-be](syāt) [four+sided](catur+aśraḥ) [three+band+holding](tri+paṭṭa+dhṛk)
+[named+paṭṭa+kṣepaṇa](paṭṭa+kṣepaṇa+saṃjñaḥ) [is](syāt) [square](caturaśraḥ) [bearing+three+bands](tri+paṭṭa+dhṛk)
 
 ## mukta-m0-p02-v30
-[daṇḍapāda+named](daṇḍapāda+ākhyaḥ) [vajrapāda](vajrapādaḥ) [sixteen+sided](kalā+aśrakaḥ)
+[called+staff+foot](daṇḍa+pāda+ākhyaḥ) [diamond+foot](vajra+pādaḥ) [angle+of+art](kalā+āśrakaḥ)
 
 ## mukta-m0-p02-v31
-[three+part](tri+bhāgaṃ) [and](ca) [wall+pillar+projection](bhitti+stambha+vinirgamaḥ)
+[three+parts](tri+bhāgam) [and](ca) [exit+of+wall+pillar](bhitti+stambha+vinirgamaḥ)
 
 ## mukta-m0-p02-v32
-[base+ground+pillar+width](mūla+bhū+stambha+vistāraḥ) [indeed](hi) [twenty-eight+aṅgulas](aṣṭāviṃśati+kāṅgulaḥ)
+[base+ground+pillar+width](mūla+bhū+stambha+vistāraḥ) [indeed](hi) [twenty-eight+fingers](aṣṭāviṃśatika+aṅgulaḥ)
 
 ## mukta-m0-p02-v33
-[from-taken+base+height](ātta+adhiṣṭhāna+tuṅgāt) [but](tu) [pillar+height](stambha+utsedhaḥ) [twofold](dvidhā) [considered](mataḥ)
+[from+taken+pedestal+height](ātta+adhiṣṭhāna+tuṅgāt) [but](tu) [pillar+height](stambha+utsedhaḥ) [twofold](dvidhā) [considered](mataḥ)
 
 ## mukta-m0-p02-v34
-[of-base+and-top+width+height](mūla+agrayoḥ+vyāsa+tuṅgatā) [of-pillar+and-wall](stambha+kuḍyayoḥ)
+[of+base+and+top](mūla+agra+yoḥ) [diameter+height](vyāsa+tuṅgatā) [of+pillar+and+wall](stambha+kuḍyayoḥ)
 
 ## mukta-m0-p02-v35
-[to-be-made](kartavyāḥ) [to-be-placed](sthāpyāḥ) [all](sarve) [likewise](tathā) [in-stones](aśmasu)
+[to-be-done](kartavyā) [to-be-placed](sthāpyāḥ) [all](sarve) [thus](tathā) [on+stones](aśmasu)
 
 ## mukta-m0-p02-v36
-[from-pillar+height+nine+part](pāda+uccana+nava+bhāgāt) [or](vā) [from-eight+part](vasu+aṃśāt) [platform+height](vedikā+ucchrayaḥ)
+[from+foot+high+joy+part](pāda+ucca+nanda+bhāgāt) [or](vā) [from+eighth+part](vasu+aṃśāt) [railing+height](vedikā+ucchrayaḥ)
 
 ## mukta-m0-p02-v37
-[citrakhaṇḍā](citrakhaṇḍā) [śaivalā](śaivalā) [citraśaivalā](citraśaivalā)
+[painted+section](citra+khaṇḍā) [mossy](śaivalā) [painted+mossy](citra+śaivalā)
 
 ## mukta-m0-p02-v38
-[platform](vediḥ) [puṣpakhaṇḍā+thus](puṣpakhaṇḍā+iti) [is-called](kathyate)
+[altar](vediḥ) [flower+section](puṣpa+khaṇḍa) [thus](iti) [is+called](kathyate)
 
 ## mukta-m0-p02-v39
-[citrakhaṇḍā](citrakhaṇḍā) [is-designated](abhidhīyate)
+[painted+section](citra+khaṇḍa) [is+called](abhidhīyate)
 
 ## mukta-m0-p02-v40
-[above+below+lotus+petal+endowed](ūrdhva+adhaḥ+padma+patra+āḍhyā) [at-foot](pāde) [at-foot+interval](pāda+antare) [also](api) [and](ca)
+[rich+in+upper+lower+lotus+petals](ūrdhva+adhaḥ+padma+patra+āḍhyā) [in+foot](pāde) [between+feet](pāda+antare) [also](api) [and](ca)
 
 ## mukta-m0-p02-v41
-[that-same](sā+eva) [of-lower+upper+lotuses](adhara+ūrdhva+ambujayoḥ) [cane+pair+charming](vetra+yugma+manoramā)
+[that](sā) [same](eva) [of+lower+upper+lotuses](adhara+ūrdhva+ambuja+yoḥ) [pair+of+canes](vetra+yugma) [charming](manoramā)
 
 ## mukta-m0-p02-v42
-[platform](vedikāṃ) [not+indeed](na+eva) [one-should-cut](chindyāt) [elsewhere](anyatra) [than-gateway](toraṇāt)
+[railing](vedikām) [not](na) [indeed](eva) [should+cut](chindyāt) [except](anyatra) [from+gateway](toraṇāt)
 
 ## mukta-m0-p02-v43
-[puṣpakhaṇḍā](puṣpakhaṇḍā) [citrakhaṇḍā](citrakhaṇḍā) [of-men](nṛṇāṃ) [two](dve) [platforms](vedike) [remembered](smṛte)
+[flower+section](puṣpa+khaṇḍā) [painted+section](citra+khaṇḍā) [of+men](nṛṇām) [two](dve) [railings](vedike) [remembered](smṛte)
 
 ## mukta-m0-p02-v44
-[in-three+part](tri+bhāge) [should-be](syāt) [four+sided](veda+aśraḥ) [part](aṃśaḥ) [but](tu) [from-base](mūlataḥ)
+[in+third+part](tri+bhāge) [is](syāt) [angle+part+of+railing](vedāśra+aṃśaḥ) [but](tu) [from+base](mūlataḥ)
 
 ## mukta-m0-p02-v45
-[top+part](agra+bhāgaḥ) [also](api) [four+sided](veda+aśraḥ) [should-be](bhavet) [in-pillars](stambheṣu) [in-some](keṣucit)
+[top+part](agra+bhāgaḥ) [also](api) [railing+angle](vedāśraḥ) [becomes](bhavet) [in+pillars](stambheṣu) [in+some](keṣucit)
 
 ## mukta-m0-p02-v46
-[last+part](antya+aṃśaḥ) [by-seventh+part+less](saptama+aṃśa+ūnaḥ) [than-base+width](mūla+vistāritaḥ) [should-be](bhavet)
+[last+part](antya+aṃśaḥ) [minus+seventh+part](saptama+aṃśa+ūnaḥ) [expanded+from+base](mūla+vistāritaḥ) [becomes](bhavet)
 
 ## mukta-m0-p02-v47
-[with-half-more](sa+adhyardhāḥ) [by-quarter+less](pāda+hīnāḥ) [or](vā) [twofold](dviguṇāḥ) [or](vā) [they-are](bhavanti) [indeed](hi)
+[half+to+be+accomplished](sādhya+ardhāḥ) [minus+foot](pāda+hīnāḥ) [or](vā) [double](dvi+guṇāḥ) [or](vā) [become](bhavanti) [indeed](hi)
 
 ## mukta-m0-p02-v48
-[potikas](kumbhāḥ) [fourfold](caturdhā) [should-be](syuḥ) [of-round-ones](vṛttānāṃ) [śrīkara](śrīkaraḥ) [should-be](bhavet)
+[pots](kumbhāḥ) [fourfold](caturdhā) [are](syuḥ) [of+round+ones](vṛttānām) [auspicious+maker](śrī+karaḥ) [becomes](bhavet)
 
 ## mukta-m0-p02-v49
-[of-pillars](stambhānāṃ) [of-four+sided](catur+aśrāṇāṃ) [saumukhya](saumukhyaḥ) [potika](kumbhaḥ) [is-desired](iṣyate)
+[of+pillars](stambhānām) [of+square+ones](caturaśrāṇām) [favorable+faced](saumukhyaḥ) [pot](kumbhaḥ) [is+desired](iṣyate)
 
 ## mukta-m0-p02-v50
-[in-potika+part](kumbha+bhāge) [in-nine+parts](nava+aṃśe) [but](tu) [by-one+part](dhṛk+ekena) [is-prescribed](vidhīyate)
+[in+pot+part](kumbha+bhāge) [in+ninth+part](nava+aṃśe) [but](tu) [by+one+support](dhṛg+ekena) [is+prescribed](vidhīyate)

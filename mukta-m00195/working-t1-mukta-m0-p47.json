@@ -8,27 +8,31 @@
 "tokens": [
 {
 "surface": "arcayet",
-"quick_gloss": "should-worship"
+"quick_gloss": "worship"
 },
 {
-"surface": "gandha+puṣpa+ādyaiḥ",
-"quick_gloss": "with-fragrance+flower+etc."
+"surface": "gandhapuṣpādyaiḥ",
+"quick_gloss": "fragrance-flowers-etc"
 },
 {
-"surface": "bāhyaiḥ",
-"quick_gloss": "with-external"
+"surface": "bāhya",
+"quick_gloss": "external"
+},
+{
+"surface": "sthaiḥ",
+"quick_gloss": "situated"
+},
+{
+"surface": "mānasaiḥ",
+"quick_gloss": "mental"
+},
+{
+"surface": "tu",
+"quick_gloss": "but"
 },
 {
 "surface": "vā",
 "quick_gloss": "or"
-},
-{
-"surface": "mānasaiḥ",
-"quick_gloss": "with-mental"
-},
-{
-"surface": "tu",
-"quick_gloss": "indeed"
 }
 ]
 },
@@ -40,20 +44,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "hṛt+manunā",
-"quick_gloss": "with-heart+mantra"
+"surface": "hṛnmanunā",
+"quick_gloss": "heart-mantra"
 },
 {
 "surface": "bhāvayet",
-"quick_gloss": "one-should-contemplate"
+"quick_gloss": "meditate"
 },
 {
-"surface": "tat+layam",
-"quick_gloss": "its+dissolution"
+"surface": "tallayaṃ",
+"quick_gloss": "dissolution"
 },
 {
 "surface": "hṛdi",
-"quick_gloss": "in-the-heart"
+"quick_gloss": "in-heart"
 }
 ]
 },
@@ -65,12 +69,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "suṣumṇā+antam",
-"quick_gloss": "up-to-suṣumṇā"
+"surface": "suṣumṇāṃtaṃ",
+"quick_gloss": "suṣumṇā-end"
 },
 {
-"surface": "sahasra+visa+sannibham",
-"quick_gloss": "resembling-thousand+rays"
+"surface": "sahasravisasannibham",
+"quick_gloss": "thousand-petaled"
 }
 ]
 },
@@ -83,19 +87,27 @@
 "tokens": [
 {
 "surface": "viciṃtya",
-"quick_gloss": "having-visualized"
+"quick_gloss": "contemplate"
 },
 {
 "surface": "atha",
 "quick_gloss": "then"
 },
 {
-"surface": "prāṇāyāma+trayam",
-"quick_gloss": "breath+control+three"
+"surface": "prāṇāyāma",
+"quick_gloss": "prāṇāyāma"
+},
+{
+"surface": "tra",
+"quick_gloss": "there"
+},
+{
+"surface": "yaṃ",
+"quick_gloss": "which"
 },
 {
 "surface": "caret",
-"quick_gloss": "one-should-perform"
+"quick_gloss": "practice"
 }
 ]
 },
@@ -116,15 +128,15 @@
 },
 {
 "surface": "hṛdi",
-"quick_gloss": "in-the-heart"
+"quick_gloss": "in-heart"
 },
 {
-"surface": "devam",
-"quick_gloss": "the-deity"
+"surface": "devaṃ",
+"quick_gloss": "deity"
 },
 {
 "surface": "vicintayet",
-"quick_gloss": "one-should-contemplate"
+"quick_gloss": "meditate"
 }
 ]
 },
@@ -136,20 +148,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "dharām",
-"quick_gloss": "on-the-earth"
+"surface": "dharāṃ",
+"quick_gloss": "earth"
 },
 {
-"surface": "śvāsa+yuktam",
-"quick_gloss": "with-breath+joined"
+"surface": "śvāsayuktaṃ",
+"quick_gloss": "with-breath"
 },
 {
-"surface": "pādam",
+"surface": "pādaṃ",
 "quick_gloss": "foot"
 },
 {
 "surface": "nidhāpayet",
-"quick_gloss": "one-should-place"
+"quick_gloss": "place"
 }
 ]
 },
@@ -161,16 +173,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "pāda+sparśam",
-"quick_gloss": "touching-of-foot"
+"surface": "pādasparśaṃ",
+"quick_gloss": "foot-touch"
 },
 {
-"surface": "kṣamasva",
-"quick_gloss": "forgive"
-},
-{
-"surface": "me",
-"quick_gloss": "me"
+"surface": "kṣamasvame",
+"quick_gloss": "forgive-me"
 }
 ]
 },
@@ -183,27 +191,23 @@
 "tokens": [
 {
 "surface": "smaret",
-"quick_gloss": "one-should-remember"
+"quick_gloss": "remember"
 },
 {
-"surface": "astram",
-"quick_gloss": "weapon"
+"surface": "astrandūre",
+"quick_gloss": "weapon-mantra"
 },
 {
-"surface": "dūre",
-"quick_gloss": "at-a-distance"
-},
-{
-"surface": "phaṭ iti mantram |",
-"quick_gloss": "phaṭ iti mantram |"
+"surface": "phaṭ iti mantram",
+"quick_gloss": "phaṭ-iti-mantram"
 },
 {
 "surface": "yāyāt",
-"quick_gloss": "one-should-go"
+"quick_gloss": "go"
 },
 {
-"surface": "dvija+ālayāt",
-"quick_gloss": "from-brahmin+abode"
+"surface": "dvijālayāt",
+"quick_gloss": "to-brāhmaṇa-house"
 }
 ]
 },
@@ -215,12 +219,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "kīṭa+yoṣā+ādi+rahitam",
-"quick_gloss": "free-from-insects+moths+etc."
+"surface": "kīṭayoṣādirahitaṃ",
+"quick_gloss": "insect-urine-free"
 },
 {
-"surface": "śauca+sthānam",
-"quick_gloss": "purification+place"
+"surface": "śaucasthānam",
+"quick_gloss": "clean-place"
 },
 {
 "surface": "idam",
@@ -228,7 +232,7 @@
 },
 {
 "surface": "paṭhet",
-"quick_gloss": "one-should-recite"
+"quick_gloss": "recite"
 }
 ]
 },
@@ -240,24 +244,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "paritaḥ",
-"quick_gloss": "all-around"
+"surface": "paritastyajyatāṃ",
+"quick_gloss": "around"
 },
 {
-"surface": "tyajyatām",
-"quick_gloss": "let-be-abandoned"
-},
-{
-"surface": "sthānam",
+"surface": "sthānaṃ",
 "quick_gloss": "place"
 },
 {
-"surface": "viṇ+mūtra+utsarjanāya",
-"quick_gloss": "for-feces+urine+discharge"
+"surface": "viṇmūtrotsarjanāya",
+"quick_gloss": "for-feces-urine-release"
 },
 {
 "surface": "me",
-"quick_gloss": "of-me"
+"quick_gloss": "to-me"
 }
 ]
 },
@@ -274,19 +274,19 @@
 },
 {
 "surface": "vāsasā",
-"quick_gloss": "with-garment"
+"quick_gloss": "with-cloth"
 },
 {
-"surface": "kam",
+"surface": "kaṃ",
 "quick_gloss": "water"
 },
 {
-"surface": "jalam |",
-"quick_gloss": "jalam |"
+"surface": "jalam",
+"quick_gloss": "jalam"
 },
 {
 "surface": "praviśya",
-"quick_gloss": "having-entered"
+"quick_gloss": "entering"
 },
 {
 "surface": "ca",
@@ -303,11 +303,11 @@
 "tokens": [
 {
 "surface": "liṅge",
-"quick_gloss": "on-genitals"
+"quick_gloss": "in-liṅga"
 },
 {
 "surface": "gude",
-"quick_gloss": "on-anus"
+"quick_gloss": "in-anus"
 },
 {
 "surface": "sapta",
@@ -318,12 +318,16 @@
 "quick_gloss": "ten"
 },
 {
-"surface": "vāma+kare",
-"quick_gloss": "on-left+hand"
+"surface": "vā",
+"quick_gloss": "or"
+},
+{
+"surface": "vāmakare",
+"quick_gloss": "left-hand"
 },
 {
 "surface": "tathā",
-"quick_gloss": "likewise"
+"quick_gloss": "thus"
 }
 ]
 },
@@ -335,8 +339,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "kara+dvaye",
-"quick_gloss": "on-both-hands"
+"surface": "karadvaye",
+"quick_gloss": "both-hands"
 },
 {
 "surface": "ca",
@@ -348,19 +352,15 @@
 },
 {
 "surface": "pādayoḥ",
-"quick_gloss": "on-both-feet"
+"quick_gloss": "feet"
 },
 {
-"surface": "atha",
+"surface": "athavā",
 "quick_gloss": "or"
 },
 {
-"surface": "vā",
-"quick_gloss": "alternatively"
-},
-{
 "surface": "caret",
-"quick_gloss": "one-should-perform"
+"quick_gloss": "practice"
 }
 ]
 },
@@ -376,12 +376,12 @@
 "quick_gloss": "mouthfuls"
 },
 {
-"surface": "pūrīṣa+utsarjana+antare",
-"quick_gloss": "at-end-of-feces+discharge"
+"surface": "pūrīṣotsarjanāntare",
+"quick_gloss": "between-feces-release"
 },
 {
-"surface": "viṣṭhātyage |",
-"quick_gloss": "viṣṭhātyage |"
+"surface": "viṣṭhātyage",
+"quick_gloss": "viṣṭhātyage"
 }
 ]
 },
@@ -393,20 +393,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "danta+dhāvana+kāṣṭham",
-"quick_gloss": "tooth+cleaning+stick"
+"surface": "dantadhāvanakāṣṭhaṃ",
+"quick_gloss": "tooth-cleaning-stick"
 },
 {
 "surface": "tu",
 "quick_gloss": "indeed"
 },
 {
-"surface": "proktam",
+"surface": "proktaṃ",
 "quick_gloss": "declared"
 },
 {
-"surface": "tantra+vicakṣaṇaiḥ",
-"quick_gloss": "by-tantra+experts"
+"surface": "tantravicakṣaṇaiḥ",
+"quick_gloss": "tantra-experts"
 }
 ]
 },
@@ -418,20 +418,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "mūla+anunā",
-"quick_gloss": "with-root+mantra"
+"surface": "mūlānuno",
+"quick_gloss": "root-mantra"
 },
 {
-"surface": "nityam",
+"surface": "nityaṃ",
 "quick_gloss": "daily"
 },
 {
 "surface": "lakṣayet",
-"quick_gloss": "one-should-mark"
+"quick_gloss": "observe"
 },
 {
-"surface": "siddhi+hetave",
-"quick_gloss": "for-siddhi+cause"
+"surface": "siddhihetave",
+"quick_gloss": "for-siddhi"
 }
 ]
 },
@@ -444,11 +444,11 @@
 "tokens": [
 {
 "surface": "yāyāt",
-"quick_gloss": "one-should-go"
+"quick_gloss": "go"
 },
 {
-"surface": "jala+niketanam",
-"quick_gloss": "to-water+abode"
+"surface": "jalaniketanam",
+"quick_gloss": "water-reservoir"
 }
 ]
 },
@@ -464,7 +464,7 @@
 "quick_gloss": "having-made"
 },
 {
-"surface": "taṭam",
+"surface": "taṭaṃ",
 "quick_gloss": "bank"
 },
 {
@@ -476,12 +476,12 @@
 "quick_gloss": "and"
 },
 {
-"surface": "eka+bhāge",
-"quick_gloss": "in-one+part"
+"surface": "ekabhāge",
+"quick_gloss": "one-part"
 },
 {
 "surface": "vicakṣaṇaḥ",
-"quick_gloss": "the-skilled-one"
+"quick_gloss": "expert"
 }
 ]
 },
@@ -493,24 +493,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "mattikā+gomayābhyām",
-"quick_gloss": "with-clay+cow-dung"
+"surface": "mattikāgomayābhyāñca",
+"quick_gloss": "with-clay-cow-dung"
 },
 {
-"surface": "ca",
-"quick_gloss": "and"
-},
-{
-"surface": "kaṭi+antam",
-"quick_gloss": "up-to-waist"
+"surface": "kaṭyantaṃ",
+"quick_gloss": "to-waist"
 },
 {
 "surface": "snānam",
-"quick_gloss": "bath"
+"quick_gloss": "bathing"
 },
 {
 "surface": "ācaret",
-"quick_gloss": "one-should-perform"
+"quick_gloss": "practice"
 }
 ]
 },
@@ -522,20 +518,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "vaidika+snānam",
-"quick_gloss": "vedic+bath"
+"surface": "vaidikasnānaṃ",
+"quick_gloss": "vedic-bath"
 },
 {
-"surface": "tat+aṅgam",
-"quick_gloss": "its+limb"
+"surface": "tadaṅgaṃ",
+"quick_gloss": "that-limb"
 },
 {
-"surface": "tarpaṇam",
-"quick_gloss": "libation"
+"surface": "tarpaṇaṃ",
+"quick_gloss": "oblation"
 },
 {
 "surface": "tathā",
-"quick_gloss": "likewise"
+"quick_gloss": "and"
 }
 ]
 },
@@ -551,16 +547,16 @@
 "quick_gloss": "having-taken"
 },
 {
-"surface": "astra+mantreṇa",
-"quick_gloss": "with-weapon+mantra"
+"surface": "astramantreṇa",
+"quick_gloss": "weapon-mantra"
 },
 {
 "surface": "mantrayitvā",
-"quick_gloss": "having-consecrated"
+"quick_gloss": "having-mantra'd"
 },
 {
-"surface": "tṛṇa+ādikam",
-"quick_gloss": "grass+etc."
+"surface": "tṛṇādikam",
+"quick_gloss": "grass-etc"
 }
 ]
 },
@@ -572,16 +568,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "mūrddha+ādi+pāda+paryantam",
-"quick_gloss": "from-head+to-feet"
+"surface": "mūrddhādipādaparyantaṃ",
+"quick_gloss": "from-head-to-feet"
 },
 {
 "surface": "vilipya",
-"quick_gloss": "having-smeared"
+"quick_gloss": "anoint"
 },
 {
 "surface": "praṇamet",
-"quick_gloss": "one-should-bow-to"
+"quick_gloss": "bow"
 },
 {
 "surface": "jalam",
@@ -597,8 +593,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "tataḥ",
-"quick_gloss": "from-that"
+"surface": "tato",
+"quick_gloss": "then"
 },
 {
 "surface": "jātāḥ",
@@ -614,7 +610,7 @@
 },
 {
 "surface": "praṇamāmi",
-"quick_gloss": "I-bow"
+"quick_gloss": "bow"
 },
 {
 "surface": "aham",
@@ -635,11 +631,11 @@
 },
 {
 "surface": "utthāya",
-"quick_gloss": "having-risen"
+"quick_gloss": "rising"
 },
 {
-"surface": "nābhi+mātre",
-"quick_gloss": "in-navel+deep"
+"surface": "nābhimātre",
+"quick_gloss": "navel-deep"
 },
 {
 "surface": "jale",
@@ -647,7 +643,7 @@
 },
 {
 "surface": "naraḥ",
-"quick_gloss": "a-man"
+"quick_gloss": "man"
 }
 ]
 },
@@ -659,16 +655,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "mūla+mantreṇa",
-"quick_gloss": "with-root+mantra"
+"surface": "mūlamantreṇa",
+"quick_gloss": "root-mantra"
 },
 {
-"surface": "prāṇāyāma+trayam",
-"quick_gloss": "breath+control+three"
+"surface": "prāṇāyāmatrayaṃ",
+"quick_gloss": "prāṇāyāma-trio"
 },
 {
 "surface": "caret",
-"quick_gloss": "one-should-perform"
+"quick_gloss": "practice"
 }
 ]
 }

@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p03-v51
-[always](nityaṃ) [wealth](dhanaṃ) [wealth+increase+giving](dhana+vivṛddhi+dam)
+[eternal](nityaṃ) [wealth](dhanaṃ) [wealth-increase-giving](dhanavivṛddhidam)
 
 ## mukta-m0-p03-v52
-[son](putra) [increase](vivṛddhiḥ) [may-be](syād) [in-kinsman](bandhau) [like-kinsman](bāndhava+vat) [dear](priyam)
+[son](putra) [increase](vivṛddhiḥ) [syāt](syād) [kinsman](bandhau) [kinsman-like-dear](bāndhavavatpriyam)
 
 ## mukta-m0-p03-v53
-[likewise](tathā) [in-rudra](rudre) [in-planet](grahe) [in-eyes](netre) [in-pair](yuge) [in-sun](ravau)
+[thus](tathā) [rudra](rudre) [planet](grahe) [eye](netre) [age](yuge) [sun](ravau)
 
 ## mukta-m0-p03-v54
-[and](ca) [in-arrow+moon](śara+candre) [in-thirteenth](trayodaśe)
+[and](ca) [autumn-moon](śaracandre) [thirteenth](trayodaśe)
 
 ## mukta-m0-p03-v55
-[the-wise-one](matimān) [should-know](vidyāt) [siddha+etc.](siddha+ādikaṃ) [then](tataḥ)
+[wise](matimān) [know](vidyāt) [accomplished-etc](siddhādikaṃ) [then](tataḥ)
 
 ## mukta-m0-p03-v56
-[mantra+initial+syllable](mantra+ādi+arṇa) [four+cell](catuḥ+koṣṭha) [up-to](paryantaṃ) [should-count](gaṇayet) [the-wise](budhaḥ)
+[mantra-etc-letter-four-chamber-limit](mantrādyarṇacatuḥkoṣṭhaparyantaṃ) [count](gaṇayed) [wise](budhaḥ)
 
 ## mukta-m0-p03-v57
-[by-time](kālena) [to-be-accomplished](sādhyaḥ) [but](tu) [by-recitation+oblation](japa+homa+taḥ)
+[by-time](kālena) [accomplishable](sādhyastu) [japa-homa](japahomataḥ)
 
 ## mukta-m0-p03-v58
-[should-count](gaṇayet) [the-practitioner](mantrī) [name+cell](nāma+koṣṭha) [according-to](anusārataḥ)
+[count](gaṇayenmantrī) [name-chamber-according](nāmakoṣṭhānusārataḥ)
 
 ## mukta-m0-p03-v59
-[as-stated](yathā+uktena) [by-double](dvi+guṇāt) [siddha+sādhya](siddha+sādhyakaḥ)
+[as-stated](yathoktena) [double](dviguṇāt) [accomplished-accomplishable](siddhasādhyakaḥ)
 
 ## mukta-m0-p03-v60
-[by-double](dvi+guṇāt) [sādhya+siddha](sādhya+siddhaḥ) [but](tu) [sādhya+sādhya](sādhya+sādhyaḥ) [useless](nirarthakaḥ)
+[double](dviguṇāt) [accomplishable-accomplished](sādhyasiddhastu) [accomplishable-unaccomplishable](sādhyasādhyo) [useless](nirarthakaḥ)
 
 ## mukta-m0-p03-v61
-[from-chariot](rathāt) [great](mahā)
+[chariot-self](rathātmahā)
 
 ## mukta-m0-p03-v62
-[zodiac-sign+purity](rāśi+śuddhiḥ) [may-be](syāt) [Vārāhī-tantra](vārāhī+tantram) [spoke](abravīt)
+[purity-of-sign](rāśiśuddhiḥsyāda) [vārāhī-tantra](vārāhītantram) [said](abravīt)
 
 ## mukta-m0-p03-v63
-[by-the-wise](dhīmadbhiḥ) [fruitlessness](vaiphalyaṃ) [because](yat) [therefore](ataḥ) [otherwise](anyathā)
+[by-wise](dhīmadbhirvaiphalyaṃ) [what-from-otherwise](yadato'nyathā)
 
 ## mukta-m0-p03-v64
-[westward-going](pratyag+āyatāḥ) [and](ca) [thus](evaṃ) [sun+lines](bhānu+rekhāḥ) [one-should-arrange](prakalpayet)
+[and-thus](pratyagāyatāścaivaṃ) [sun-lines](bhānurekhāḥ) [should-construct](prakalpayet)
 
 ## mukta-m0-p03-v65
-[six](ṣaṭ) [one](sva) [one](ekam) [one](ekam) [having-written](ālikhya) [beginning-with-ka](ka+ādi) [ending-with-ha](ha+antaṃ) [then](tataḥ) [syllable](akṣaram)
+[six-in-one-one-write](ṣaṭsvekamekamālikhya) [ka-to-ha-letter](kādihāntaṃ) [then-letter](tato'kṣaram)
 
 ## mukta-m0-p03-v66
-[directions](dik) [earths](bhū) [mountains](giri) [vedas](śruti) [elephants](gaja) [rāma](rāma) [seers](ṛṣiṣu) [oceans](abdhi) [six](ṣaṭ) [triads](trikaiḥ)
+[dig-bhū-giri-śruti-gaja-rāma-ṛṣi-abdhi-ṣaṭ-tri](digbhūgiriśrutigajarāmarṣiṣvabdhiṣaṭatrikaiḥ)
 
 ## mukta-m0-p03-v67
-[indra](indra) [constellations](nakṣatra) [eyes](nayana) [suns](ravi) [five](pañca) [ten](daśa) [four](turbhiḥ)
+[indra-nakṣatra-eye-sun-fifteen-four](indranakṣatranayanaravipañcadaśaturbhiḥ)
 
 ## mukta-m0-p03-v68
-[name+syllable+cell+number](nāma+arṇa+koṣṭha+aṅkam) [then](athaḥ) [beginning+end+placed](ādi+anta+nihitaṃ) [in-order](kramāt)
+[name-letter-chamber-number-then](nāmārṇakoṣṭhāṅkamatho) [first-last-placed](ādyāntanihitaṃ) [in-order](kramāt)
 
 ## mukta-m0-p03-v69
-[ending](paryavasannāḥ) [they](te) [multiplier+numbers](guṇaka+aṅkāḥ) [in-brief](samāsataḥ)
+[ended-those](paryavasannāste) [quality-number](guṇakāṅkāḥ) [in-summary](samāsataḥ)
 
 ## mukta-m0-p03-v70
-[that+that](tat+tat) [mountain](naga) [earth](bhū) [sun](bhānu) [rivers](nimnagāḥ)
+[that-that-mountain-earth-sun-river](tattattu nagabhūbhānunimnagāḥ)
 
 ## mukta-m0-p03-v71
-[having-known](jñātvā) [of-both](ubhayoḥ) [debt](ṛṇaṃ) [one-should-know](vidyāt) [greater](adhikaṃ) [remainder](śeṣam) [number+knower](aṅka+vit)
+[knowing-both-debt](jñātvobhayor-ṛṇaṃ) [know](vidyāt) [greater-remainder](adhikaṃ śeṣamaṅkavit)
 
 ## mukta-m0-p03-v72
-[may-be-seen](dṛśyeta) [he](saḥ) [lesser+debt](adhama+ṛṇaḥ) [declared](prakīrtitaḥ)
+[seen](dṛśyeta) [that-debtor](so'dhamarṇaḥ) [declared](prakīrtitaḥ)
 
 ## mukta-m0-p03-v73
-[in-that-state](tad+bhāve) [equal+wealth](sama+dhanaṃ) [wealthy](dhanikaṃ) [not](na) [ever](kadācana)
+[in-that-state](tadbhāve) [equal-wealth](samadhanaṃ) [creditor](dhanikaṃ) [never](na kadācana)
 
 ## mukta-m0-p03-v74
-[syllable](varṇam) [having-taken](ādāya) [highest](paramaṃ) [but](tu) [those-who](ye)
+[letter-taking](varṇamādāya) [supreme](paramaṃ) [tu](tu) [those](ye)
 
 ## mukta-m0-p03-v75
-[by-seven](saptabhiḥ) [to-be-multiplied](guṇanīyāḥ) [but](tu) [to-be-divided](haraṇīyāḥ) [by-three+by-three](tribhiḥ+tribhiḥ)
+[by-seven-multiplied](saptabhirguṇanīyāstu) [divisible-by-three-three](haraṇīyāstribhistribhiḥ)

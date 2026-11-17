@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p474-v11826
-[fire-circle-principle-to](agnimaṇḍalatattvāya) [ṅa-ending](ṅento) [nārāyaṇa](nārāyaṇo) [considered](mataḥ)
+[fire-circle-principle](agnimaṇḍalatattvāya) [entering](ṅento) [Narayana](nārāyaṇo) [considered](mataḥ)
 
 ## mukta-m0-p474-v11827
-[saṃkarṣaṇa-named-principle-to](saṃkarṣaṇākhyatattvāya) [in-liṅga](liṅge) [should-be](syād) [to-viṣṇu](viṣṇave) [obeisance](namaḥ)
+[as-Sankarshana-principle](saṃkarṣaṇākhyatattvāya) [in-linga](liṅge) [may-be](syād) [to-Vishnu](viṣṇave) [salutation](namaḥ)
 
 ## mukta-m0-p474-v11828
-[right-foot-on](dakṣapāde) [and](ca) [on-left](vāmeniruddhatattvātmane) [niruddha-principle-nature-to](niruddhatattvātmane) [one-should-place](nyaset)
+[on-right-foot](dakṣapāde) [and](ca) [as-Vamana-Aniruddha-principle-self](vāmeniruddhatattvātmane) [place](nyaset)
 
 ## mukta-m0-p474-v11829
-[mūrti-cage-named](mūrttipañjaranāmānaṃ) [keśava-etc](keśavādikam) [one-should-perform](ācaret)
+[form-cage-named](mūrttipañjaranāmānaṃ) [Kesha-etc](keśavādikam) [perform](ācaret)
 
 ## mukta-m0-p474-v11830
-[milk-ocean-in](dugdhāmbhodhau) [white-island-on](sitadvīpe) [divine-women-resplendent-in](divyayoṣāvirājite)
+[in-milk-ocean](dugdhāmbhodhau) [on-white-island](sitadvīpe) [divine-women-radiant](divyayoṣāvirājite)
 
 ## mukta-m0-p474-v11831
-[there](tatra) [wish-tree-beneath](kalpadrumādhastād) [jewel-couch-on](ratnamaṃce) [indeed](tu) [lotus](paṅkajam)
+[there](tatra) [under-wish-tree](kalpadrumādhastāt) [on-gem-throne](ratnamaṃce) [lotus](tu+paṅkajam)
 
 ## mukta-m0-p474-v11832
-[moon-lustre](candrakāntiṃ) [conch-disc-club-lotus-shining-hands](śaṅkhacakragadāpadmalasatkaram)
+[moon-bright](candrakāntiṃ) [conch-disc-club-lotus-shining-hand](śaṃkhacakragadāpadmalasatkaram)
 
 ## mukta-m0-p474-v11833
-[with-kaustubha](sakaustubhaṃ) [yellow-garment](pītavastraṃ) [wearing-necklace](dhṛtagraiveyakaṃ) [ornament](kaṇam)
+[with-Kaustubha](sakaustubhaṃ) [yellow-garment](pītavastraṃ) [wearing-necklace](dhṛtagraiveyakaṃ) [necklace](kaṇam)
 
 ## mukta-m0-p474-v11834
-[one-should-worship](yajet) [in-nārāyaṇa](nārāyaṇe) [on-throne](pīṭhe) [form](mūrttiṃ) [with-root-mantra](mūlena) [one-should-visualize](kalpayet)
+[worship](yajet) [Narayana](nārāyaṇe) [on-seat](pīṭhe) [image](mūrttiṃ) [by-root-mantra](mūlena) [establish](kalpayet)
 
 ## mukta-m0-p474-v11835
-[that-thousand](tatsahasraṃ) [and](ca) [with-lotuses](kamalair) [one-should-offer](juhuyān) [with-sweet-substances-soaked](madhuraplutaiḥ)
+[that-thousand](tatsahasraṃ) [and](ca) [with-lotuses](kamalair) [offer](juhuyāt) [honey-soaked](madhuraplutaiḥ)
 
 ## mukta-m0-p474-v11836
-[milk-tree-fuel-sticks-with](kṣīravṛkṣasamidbhiśca) [oblation](homaḥ) [should-be](syāt) [for-sin-liberation](pāpamuktaye)
+[with-milk-tree-twigs](kṣīravṛkṣasamidbhiḥ) [ca](ca) [homa](homaḥ) [may-be](syāt) [sin-release](pāpamuktaye)
 
 ## mukta-m0-p474-v11837
-[by-nārāyaṇa-declared](nārāyaṇoktān) [all](nikhilān) [rituals](prayogān) [one-should-perform](ācaret) [then](tataḥ)
+[Narayana-spoken](nārāyaṇoktān) [all](nikhilān) [rites](prayogān) [perform](ācaret) [then](tataḥ)
 
 ## mukta-m0-p474-v11838
-[praṇava](tāraṃ) [māyā-two](māyādvayaṃ) [lakṣmī-two](lakṣmīdvayaṃ) [lakṣmī-word](lakṣmīpadaṃ) [one-should-say](vadet)
+[tāra](tāraṃ) [māyā-two](māyādvayaṃ) [Lakshmi-two](lakṣmīdvayaṃ) [Lakshmi-foot](lakṣmīpadaṃ) [say](vadet)
 
 ## mukta-m0-p474-v11839
-[seer](ṛṣiḥ) [prajāpati](prajāpatiś) [metre](chando) [gāyatrī](gāyatrī) [seed-syllable](bījakaṃ) [praṇava](dhruvaḥ)
+[seer](ṛṣiḥ) [Prajapati](prajāpatiḥ) [meter](chando) [Gayatri](gāyatrī) [seed](bījakaṃ) [Dhruva](dhruvaḥ)
 
 ## mukta-m0-p474-v11840
-[two-two-five-two-with](dvidvidvīṣudvibhir) [with-syllables](varṇes) [beginning-with-praṇava](tārādyair) [limb-assignment](aṅgakalpanam)
+[two-two-five-six-two](dvidvidvīṣudvibhir) [syllables](varṇaiḥ) [tāra-etc](tārādyaiḥ) [limb-formation](aṅgakalpanam)
 
 ## mukta-m0-p474-v11841
-[by-lakṣmī-embraced](lakṣmyāliṅganataś) [and](ca) [become-one](ekībhūtaṃ) [and](ca) [on-lap-seated](aṅkagatāṃ) [her](tām)
+[Lakshmi-embrace](lakṣmyāliṅganataḥ) [and](ca) [united](ekībhūtaṃ) [ca](ca) [limb-gone](aṅkagatāṃ) [seeing](paśyantam) [iti-remainder](iti+śeṣaḥ) [hi](hi) [her](tām)
 
 ## mukta-m0-p474-v11842
-[holding](dadhatīṃ) [conch-disc-lotus-club-hands](śaṃkhacakrābjagadāhastaṃ) [club-bearer](gadādharam)
+[bearing](dadhatīṃ) [conch-disc-lotus-club-hand](śaṃkhacakrābjagadāhastaṃ) [club-holder](gadādharam)
 
 ## mukta-m0-p474-v11843
-[tenth-part](daśāṃśaṃ) [with-lotuses](paṅkajair) [oblation](homo) [sweet-triad-combined-with](madhuratrayasaṃyutaiḥ)
+[ten-part](daśāṃśaṃ) [with-lotuses](paṅkajair) [homa](homaḥ) [honey-three-united](madhuratrayasaṃyutaiḥ)
 
 ## mukta-m0-p474-v11844
-[with-sweet-substances-smeared](madhurāktais) [with-sesame](tilair) [having-offered](hutvā) [all-tasks](sarvakāryāṇi) [one-should-accomplish](sādhayet)
+[honey-anointed](madhurāktaiḥ) [sesames](tilair) [offering](hutvā) [all-works](sarvakāryāṇi) [accomplish](sādhayet)
 
 ## mukta-m0-p474-v11845
-[klīṃ](klīṃ) [to-pradyumna](pradyumnāya) [heart](hṛdayaṃ) [mantra](manuḥ) [seven-syllabled](saptākṣaro) [considered](mataḥ)
+[klīṃ](klīṃ) [to-Pradyumna](pradyumnāya) [heart](hṛdayaṃ) [mantra](manuḥ) [seven-syllabled](saptākṣaro) [considered](mataḥ)
 
 ## mukta-m0-p474-v11846
-[application](niyogaḥ) [in-battle](samare) [to-conquer](jetuṃ) [in-love-battle](kāmayuddhe) [likewise](tathā) [of-woman](striyāḥ)
+[commission](niyogaḥ) [in-battle](samare) [to-conquer](jetuṃ) [love-war](kāmayuddhe) [thus](tathā) [of-woman](striyāḥ)
 
 ## mukta-m0-p474-v11847
-[embraced](āliṅgitaṃ) [by-prabhāvatī](prabhāvatyā) [of-various-forms](nānārūpaṃ) [well-adorned](subhūṣitam)
+[embraced](āliṅgitaṃ) [by-Prabhavati](prabhāvatyā) [various-form](nānārūpaṃ) [well-adorned](subhūṣitam)
 
 ## mukta-m0-p474-v11848
-[by-gandharvas](gandharvair) [on-all-sides](abhito) [sung](gītaṃ) [serene-lotus-face](prasannamukhapaṃkajam)
+[by-gandharvas](gandharvair) [around](abhito) [sung](gītaṃ) [pleased-lotus-face](prasannamukhapaṃkajam)
 
 ## mukta-m0-p474-v11849
-[in-autumn](śaratkāle) [in-spring](vasante) [or](vā) [of-days](dinānām) [twenty-one](ekaviṃśatim)
+[autumn-season](śaratkāle) [or](vā) [spring](vasante) [days](dinānām) [twenty-one](ekaviṃśatim)
 
 ## mukta-m0-p474-v11850
-[thus](evaṃ) [is-accomplished](sidhyati) [mantra-this](mantroyaṃ) [all-desires-granting](sarvābhīṣṭapradāyakaḥ)
+[thus](evaṃ) [succeeds](sidhyati) [mantra](mantroyaṃ) [all-desires-giving](sarvābhīṣṭapradāyakaḥ)

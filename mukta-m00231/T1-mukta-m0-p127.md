@@ -2,76 +2,52 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p127-v3151
-[all-scripture-meaning-knower](sarvaśāstra+artha+vettā) [and](ca) [all-going](sarvagaḥ) [all-knowing](sarvavit) [lord](prabhuḥ)
-
+[all-scripture-meaning-knower](sarvaśāstrārthavettā) [and](ca) [all-going](sarvagaḥ) [all-knowing](sarvavit) [lord](prabhuḥ)
 ## mukta-m0-p127-v3152
-[of-women](yoṣitāṃ) [womb](yonim) [having-resorted-to](āsthāya) [all-accomplishment](sarva+siddhiḥ) [no](na) [doubt](saṃśayaḥ)
-
+[women's](yoṣitāṃ) [womb](yonim) [having-entered](āsthāya) [all-accomplishment](sarvasiddhiḥ) [not](na) [doubt](saṃśayaḥ)
 ## mukta-m0-p127-v3153
-[thus](itthaṃ) [worship-method](pūjā+vidhiṃ) [having-done](kṛtvā) [all-accomplishment-endowed](sarva+siddhi+yutaḥ) [one-becomes](bhavet)
-
+[thus](itthaṃ) [worship-rite](pūjāvidhiṃ) [having-done](kṛtvā) [all-accomplishment-endowed](sarvasiddhiyuto) [may-become](bhavet)
 ## mukta-m0-p127-v3154
-[sovereignty](aiśvaryam) [unequalled](atulaṃ) [having-obtained](prāpya) [one-should-subjugate](vaśīkuryāt) [three-worlds](jagat+trayam)
-
+[incomparable-lordship](aiśvaryamatulaṃ) [having-obtained](prāpya) [may-subjugate](vaśīkuryāt) [three-worlds](jagattrayam)
 ## mukta-m0-p127-v3155
-[by-demons](rākṣasaiḥ) [by-humans](manujaiḥ) [always](nityaṃ) [worshipped](pūjyaḥ) [becomes](bhavati) [practitioner](sādhakaḥ)
-
+[by-rakshasas](rākṣasaiḥ) [by-men](manujaiḥ) [always](nityaṃ) [worshipful](pūjyo) [becomes](bhavati) [practitioner](sādhakaḥ)
 ## mukta-m0-p127-v3156
-[in-the-end](ante) [and](ca) [delights](ramate) [with-goddess](devyā) [visibly](sākṣāt) [cupid-destroyer-equal](smara+hara+upamaḥ)
-
+[at-end](ante) [and](ca) [enjoys](ramate) [with-goddess](devyā) [directly](sākṣāt) [Shiva-like](smaraharopamaḥ)
 ## mukta-m0-p127-v3157
-[all-sins-freed-from](sarva+pāpa+vinirmuktaḥ) [enjoys](ramet) [ten-thousand-kalpas](kalpa+ayutaṃ) [on-earth](bhuvi)
-
+[all-sin-freed](sarvapāpavinirmukto) [may-enjoy](ramet) [ten-thousand-aeons](kalpāyutaṃ) [on-earth](bhuvi)
 ## mukta-m0-p127-v3158
-[unequalled](atulāṃ) [prosperity](śriyam) [obtains](āpnoti) [he](sa) [goes-to](gacchet) [Pārvatī-foot](pārvatī+padam)
-
+[incomparable-prosperity](atulāṃ śriyam) [obtains](āpnoti) [he](sa) [may-go](gacchet) [Parvati's-abode](pārvatīpadam)
 ## mukta-m0-p127-v3159
-[one-feeds](bhojayet) [young-woman](yuvatīṃ) [who](yaḥ) [indeed](tu) [he](sa) [becomes](bhavet) [earth-lord](pṛthivī+patiḥ)
-
+[may-feed](bhojayet) [young-woman](yuvatīṃ) [who](yaḥ) [indeed](tu) [he](sa) [becomes](bhavet) [earth-lord](pṛthivīpatiḥ)
 ## mukta-m0-p127-v3160
-[he](sa) [becomes](bhavet) [practitioner-best](sādhaka+śreṣṭhaḥ) [of-mothers](mātṝṇāñ) [and](ca) [becomes](bhavet) [dear](priyaḥ)
-
+[he](sa) [becomes](bhavet) [practitioner-best](sādhakaśreṣṭho) [and](ca) [of-mothers](mātṝṇāṃ) [becomes](bhavet) [dear](priyaḥ)
 ## mukta-m0-p127-v3161
-[then](tadā) [then](tadā) [should-be-worshipped](prapūjyeta) [goddess](devīṃ) [having-meditated](dhyātvā) [according-to-rule](yathā+vidhi)
-
+[then](tadā) [then](tadā) [should-be-worshipped](prapūjyeta) [goddess](devīṃ) [having-meditated](dhyātvā) [according-to-rite](yathāvidhi)
 ## mukta-m0-p127-v3162
-[this](etat) [indeed](tu) [of-all-beings](sarva+bhūtānāṃ) [of-tantras](tantrāṇāṃ) [hidden](gopitaṃ) [on-earth](bhuvi)
-
+[this](etat) [indeed](tu) [of-all-beings](sarvabhūtānāṃ) [of-tantras](tantrāṇāṃ) [hidden](gopitaṃ) [on-earth](bhuvi)
 ## mukta-m0-p127-v3163
-[free-from-conceptualization](nirvikalpaḥ) [indeed](tu) [mantra-knower](mantra+jñaḥ) [becomes](bhaved) [verily](vai) [practitioner](sādhakaḥ) [always](sadā)
-
+[without-doubt](nirvikalpaḥ) [indeed](tu) [mantra-knower](mantrajño) [becomes](bhaved) [indeed](vai) [practitioner](sādhakaḥ) [always](sadā)
 ## mukta-m0-p127-v3164
-[of-initiated](dīkṣitasya) [authority](adhikāraḥ) [here](atra) [not](na) [of-another](anyasya) [indeed](eva) [ever](kadācana)
-
+[of-initiated](dīkṣitasya) [authority](adhikāraḥ) [here](atra) [not-of-other](nānyasya) [indeed](eva) [ever](kadācana)
 ## mukta-m0-p127-v3165
-[nectar-triad-conjunction](amṛta+traya+saṃyogāt) [evil-mantra](duṣṭa+mantraḥ) [even](api) [succeeds](sidhyati)
-
+[from-three-nectars-union](amṛtatrayasaṃyogāt) [even-bad-mantra](duṣṭamantro'pi) [succeeds](sidhyati)
 ## mukta-m0-p127-v3166
-[with-three-nectars](tryamṛtena) [having-enveloped](puṭīkṛtya) [who](yaḥ) [mantra](mantraṃ) [worships](bhajate) [quickly](acirāt)
-
+[with-three-nectars](tryamṛtena) [having-enclosed](puṭīkṛtya) [who](yaḥ) [mantra](mantraṃ) [worships](bhajate) [soon](acirāt)
 ## mukta-m0-p127-v3167
-[five-short-vowels](pañca+hrasvāḥ) [junction-letters](sandhi+varṇāḥ) [space-fire-water-jalandhara](vyoma+īrā+agni+jalandharā)
-
+[five-short-vowels](pañcahrasvāḥ) [junction-letters](sandhivarṇāḥ) [sky-fire-water-bearer](vyomerāgnijalandharā)
 ## mukta-m0-p127-v3168
-[five](pañca) [class-letters](varga+akṣarāṇi) [are](syuḥ) [vānta](vāntaṃ) [with-white-moon](śveta+indubhiḥ) [together](saha)
-
+[five](pañca) [class-letters](vargākṣarāṇi) [may-be](syuḥ) [with-vau](vāntaṃ) [with-white-moon](śvetendubhiḥ) [together](saha)
 ## mukta-m0-p127-v3169
-[by-preliminary-rites-etc](puraścaryā+ādibhiḥ) [mantra](mantraḥ) [if](yadi) [accomplished](siddhaḥ) [becomes](bhavet) [not](na) [indeed](hi)
-
+[with-preliminaries-etc](puraścaryādibhiḥ) [mantra](mantraḥ) [if](yadi) [accomplished](siddho) [becomes](bhavet) [not](na) [indeed](hi)
 ## mukta-m0-p127-v3170
-[melting](drāvaṇaṃ) [awakening](bodhanaṃ) [subjugation](vaśyaṃ) [tormenting](pīḍanaṃ) [nourishing-withering](poṣa+śoṣaṇam)
-
+[melting](drāvaṇaṃ) [awakening](bodhanaṃ) [subjugation](vaśyaṃ) [tormenting](pīḍanaṃ) [nourishing-drying](poṣaśoṣaṇam)
 ## mukta-m0-p127-v3171
-[by-water-seed](vāruṇena) [indeed](eva) [by-seed](bījena) [stringing](grathanaṃ) [one-should-make](kārayet) [mantra](manum)
-
+[with-varuna](vāruṇena) [indeed](eva) [seed](bījena) [binding](grathanaṃ) [should-make](kārayet) [mantra](manum)
 ## mukta-m0-p127-v3172
-[with-uśīra-rocanā-called](uṣīra+rocanā+ākhyābhiḥ) [mantra](mantraṃ) [strung](saṃgrathitaṃ) [one-should-write](likhet)
-
+[with-ushira-rochana-named](uṣīrarocanākhyābhiḥ) [mantra](mantraṃ) [bound](saṃgrathitaṃ) [should-write](likhet)
 ## mukta-m0-p127-v3173
-[by-worship](pūjanāt) [by-recitation](japanāt) [by-honoring](arcanāt) [melted](drāvitaḥ) [accomplishment-giving](siddhi+daḥ) [mantra](manuḥ)
-
+[from-worship](pūjanāt) [from-recitation](japanāt) [from-arcana](arcanāt) [melted](drāvitaḥ) [accomplishment-giving](siddhido) [mantra](manuḥ)
 ## mukta-m0-p127-v3174
-[with-sarasvatī-seed](sārasvatena) [by-seed](bīje) [having-enveloped](sampuṭīkṛtya) [that](taṃ) [one-should-recite](japet)
-
+[with-sarasvati](sārasvatena) [seed](bīje) [having-enclosed](sampuṭīkṛtya) [that](taṃ) [should-recite](japet)
 ## mukta-m0-p127-v3175
-[red-sandalwood](ārakta+candanaṃ) [costus](kuṣṭhaṃ) [turmeric](haridrā) [madana](madanaṃ) [manśil](śilā)
+[red-sandalwood](āraktacandanaṃ) [costus](kuṣṭhaṃ) [turmeric](haridrā) [madana](madanaṃ) [stone](śilā)
