@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p45-v1101
-[piṅgākṣī](piṅgākṣī) [cākṣayākṣapā](cākṣayākṣapā) [ilā](ilā) [līlā](līlā) [layā](layā) [tathā](tathā)
+[epithet](piṅgākṣī) [epithet](cākṣayākṣapā) [epithet](ilā) [epithet](līlā) [epithet](layā) [epithet](tathā)
 
 ## mukta-m0-p45-v1102
-[hutāśā](hutāśā) [ca](ca) [viśālākṣī](viśālākṣī) [huṅkārā](huṅkārā) [vaḍavāmukhī](vaḍavāmukhī)
+[epithet](hutāśā) [epithet](ca) [epithet](viśālākṣī) [epithet](huṅkārā) [epithet](vaḍavāmukhī)
 
 ## mukta-m0-p45-v1103
-[sarbajñā](sarbajñā) [taralā](taralā) [tārā](tārā) [ṛgvedā](ṛgvedā) [tu](tu) [hayānanā](hayānanā)
+[epithet](sarbajñā) [epithet](taralā) [epithet](tārā) [epithet](ṛgvedā) [epithet](tu) [epithet](hayānanā)
 
 ## mukta-m0-p45-v1104
-[raktākṣī](raktākṣī) [suprasiddhā](suprasiddhā) [tu](tu) [vidmujjihvā](vidmujjihvā) [karaṅkiṇī](karaṅkiṇī)
+[epithet](raktākṣī) [epithet](suprasiddhā) [epithet](tu) [epithet](vidmujjihvā) [epithet](karaṅkiṇī)
 
 ## mukta-m0-p45-v1105
-[candrā](candrā) [candravalī](candravalī) [caiva](caiva) [prapañcā](prapañcā) [pralayāntikā](pralayāntikā)
+[epithet](candrā) [epithet](candravalī) [epithet](caiva) [epithet](prapañcā) [epithet](pralayāntikā)
 
 ## mukta-m0-p45-v1106
-[yamanī](yamanī) [tapanī](tapanī) [caiva](caiva) [vāmanī](vāmanī) [vikṛtānanā](vikṛtānanā)
+[epithet](yamanī) [epithet](tapanī) [epithet](caiva) [epithet](vāmanī) [epithet](vikṛtānanā)
 
 ## mukta-m0-p45-v1107
-[yamajihvā](yamajihvā) [jayantī](jayantī) [ca](ca) [durjayā](durjayā) [ca](ca) [yamāntikā](yamāntikā)
+[epithet](yamajihvā) [epithet](jayantī) [epithet](ca) [epithet](durjayā) [epithet](ca) [epithet](yamāntikā)
 
 ## mukta-m0-p45-v1108
-[catuḥ](catuḥ) [ṣaṣṭiriyaṃ](ṣaṣṭiriyaṃ) [devyā](devyā) [mūrtibhedā](mūrtibhedā) [nigadyate](nigadyate)
+[epithet](catuḥ) [epithet](ṣaṣṭiriyaṃ) [epithet](devyā) [epithet](mūrtibhedā) [epithet](nigadyate)
 
 ## mukta-m0-p45-v1109
-[hemābhā](hemābhā) [bhūṣaṇāḍhyā](bhūṣaṇāḍhyā) [syādakṣobhyā](syādakṣobhyā) [karisaṃsthitā](karisaṃsthitā)
+[epithet](hemābhā) [epithet](bhūṣaṇāḍhyā) [epithet](syādakṣobhyā) [epithet](karisaṃsthitā)
 
 ## mukta-m0-p45-v1110
-[dhanuḥ](dhanuḥ) [kapābhṛtsaumye](kapābhṛtsaumye) [ṝkṣasthā](ṝkṣasthā) [tarjanīyutā](tarjanīyutā)
+[epithet](dhanuḥ) [epithet](kapābhṛtsaumye) [epithet](ṝkṣasthā) [epithet](tarjanīyutā)
 
 ## mukta-m0-p45-v1111
-[pretasthā](pretasthā) [rāghasī](rāghasī) [gaurī](gaurī) [kārdhakatarikānvitā](kārdhakatarikānvitā)
+[epithet](pretasthā) [epithet](rāghasī) [epithet](gaurī) [epithet](kārdhakatarikānvitā)
 
 ## mukta-m0-p45-v1112
-[kapālaṃ](kapālaṃ) [ca](ca) [phalaṃ](phalaṃ) [saumye](saumye) [dhatte](dhatte) [kubjanṛsaṃsthitā](kubjanṛsaṃsthitā)
+[epithet](kapālaṃ) [epithet](ca) [epithet](phalaṃ) [epithet](saumye) [epithet](dhatte) [epithet](kubjanṛsaṃsthitā)
 
 ## mukta-m0-p45-v1113
-[vāme](vāme) [kapālapicchī](kapālapicchī) [bhṛtsarvālaṅkāramaṇḍitā](bhṛtsarvālaṅkāramaṇḍitā)
+[epithet](vāme) [epithet](kapālapicchī) [epithet](bhṛtsarvālaṅkāramaṇḍitā)
 
 ## mukta-m0-p45-v1114
-[kauśeyapāśabhṛdyāmye](kauśeyapāśabhṛdyāmye) [vāme](vāme) [cāṅkuśakheṭinī](cāṅkuśakheṭinī)
+[epithet](kauśeyapāśabhṛdyāmye) [epithet](vāme) [epithet](cāṅkuśakheṭinī)
 
 ## mukta-m0-p45-v1115
-[kuṭhārāśanibhṛdyāmye](kuṭhārāśanibhṛdyāmye) [saumye](saumye) [pāśāṅkuśānvitā](pāśāṅkuśānvitā)
+[epithet](kuṭhārāśanibhṛdyāmye) [epithet](saumye) [epithet](pāśāṅkuśānvitā)
 
 ## mukta-m0-p45-v1116
-[yāmye](yāmye) [ḍamaruśūleṣumastahastākṣapā](ḍamaruśūleṣumastahastākṣapā) [matā](matā)
+[epithet](yāmye) [epithet](ḍamaruśūleṣumastahastākṣapā) [epithet](matā)
 
 ## mukta-m0-p45-v1117
-[raktā](raktā) [bahirsthitā](bahirsthitā) [tvīlā](tvīlā) [krīḍantī](krīḍantī) [dahanaiḥ](dahanaiḥ) [saha](saha)
+[epithet](raktā) [epithet](bahirsthitā) [epithet](tvīlā) [epithet](krīḍantī) [epithet](dahanaiḥ) [epithet](saha)
 
 ## mukta-m0-p45-v1118
-[bibhrāṇā](bibhrāṇā) [paṭṭiśaṃ](paṭṭiśaṃ) [pāśaṃ](pāśaṃ) [vāme](vāme) [mastārdhamambujam](mastārdhamambujam)
+[epithet](bibhrāṇā) [epithet](paṭṭiśaṃ) [epithet](pāśaṃ) [epithet](vāme) [epithet](mastārdhamambujam)
 
 ## mukta-m0-p45-v1119
-[kartarīkārdhabhṛdvāme](kartarīkārdhabhṛdvāme) [tarjanyākṛṣṭasṛkkikā](tarjanyākṛṣṭasṛkkikā)
+[epithet](kartarīkārdhabhṛdvāme) [epithet](tarjanyākṛṣṭasṛkkikā)
 
 ## mukta-m0-p45-v1120
-[śūlaṃ](śūlaṃ) [ruruyutaṃ](ruruyutaṃ) [dvābhyāṃ](dvābhyāṃ) [dhatte](dhatte) [lolā](lolā) [sūsārase](sūsārase)
+[epithet](śūlaṃ) [epithet](ruruyutaṃ) [epithet](dvābhyāṃ) [epithet](dhatte) [epithet](lolā) [epithet](sūsārase)
 
 ## mukta-m0-p45-v1121
-[laṅkeśorusthitā](laṅkeśorusthitā) [laṅkā](laṅkā) [carvantīṃ](carvantīṃ) [piśitaṃ](piśitaṃ) [ghanam](ghanam)
+[epithet](laṅkeśorusthitā) [epithet](laṅkā) [epithet](carvantīṃ) [epithet](piśitaṃ) [epithet](ghanam)
 
 ## mukta-m0-p45-v1122
-[śoṇā](śoṇā) [laṅkeśvarī](laṅkeśvarī) [kuṇḍe](kuṇḍe) [ūrdhvabālāṃ](ūrdhvabālāṃ) [ca](ca) [bibhratī](bibhratī)
+[epithet](śoṇā) [epithet](laṅkeśvarī) [epithet](kuṇḍe) [epithet](ūrdhvabālāṃ) [epithet](ca) [epithet](bibhratī)
 
 ## mukta-m0-p45-v1123
-[bibhrāṇā](bibhrāṇā) [kolagā](kolagā) [raktā](raktā) [lālāsṛglālāsā](lālāsṛglālāsā) [matā](matā)
+[epithet](bibhrāṇā) [epithet](kolagā) [epithet](raktā) [epithet](lālāsṛglālāsā) [epithet](matā)
 
 ## mukta-m0-p45-v1124
-[kartarīkumbhabhṛdyāme](kartarīkumbhabhṛdyāme) [saumye](saumye) [pāśakapālinī](pāśakapālinī)
+[epithet](kartarīkumbhabhṛdyāme) [epithet](saumye) [epithet](pāśakapālinī)
 
 ## mukta-m0-p45-v1125
-[vāme](vāme) [cābhayahastā](cābhayahastā) [syādviṣṭarājyaghaṭānvitā](syādviṣṭarājyaghaṭānvitā)
+[epithet](vāme) [epithet](cābhayahastā) [epithet](syādviṣṭarājyaghaṭānvitā)

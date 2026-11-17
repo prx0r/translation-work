@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p42-v1026
-[eighteen-armed](aṣṭādaśa) [bhuja](bhujo) [fierce](bhīmo) [blazing-weapon-handed](jvaladāyudhapāṇikaḥ)
+[eighteen](aṣṭādaśa) [arm](bhujo) [terrible](bhīmo) [flaming+weapon+handed](jvaladāyudhapāṇikaḥ)
 
 ## mukta-m0-p42-v1027
-[striking](ninghandakṣiṇāhastaiśca) [sin-disease](pāparogamadhaḥ) [standing](sthitam)
+[downward](ningha) [right-hands](dakṣiṇāhastaiś) [and](ca) [sin+disease](pāparoga) [below](madhaḥ) [standing](sthitam)
 
 ## mukta-m0-p42-v1028
-[bell-axe](ghaṇṭākuṭhārakaṃ) [left](vāmaiḥ) [holding-two](vibhṛddvābhyāṃ) [trident](triśūlakam)
+[bell+axe](ghaṇṭākuṭhārakaṃ) [left](vāmaiḥ) [holding+two](vibhṛddvābhyāṃ) [trident](triśūlakam)
 
 ## mukta-m0-p42-v1029
-[bell-garlanded](ghaṇṭāmālākulo) [god](devaḥ) [lotus-skin-garmented](puṇḍarīkājināmbaraḥ)
+[bell+garlanded](ghaṇṭāmālākulo) [god](devaḥ) [lotus-skin+garment](puṇḍarīkājināmbaraḥ)
 
 ## mukta-m0-p42-v1030
-[with-seven-horses](turagaiḥ) [yoked](saptabhiryukta) [above](ūrdhvaṃ) [there](tatrāsthito) [sun](raviḥ)
+[horses](turagaiḥ) [seven](saptabhir) [yoked](yukta) [above](ūrdhvaṃ) [there](tatrā) [standing](sthito) [sun](raviḥ)
 
 ## mukta-m0-p42-v1031
-[kapila](kapilo) [golden-auspicious](hemabhadraśca) [bhavasena](bhavaseno) [horses](hayāḥ) [sometimes](kvacit)
+[kapila](kapilo) [golden+bhadra](hemabhadraś) [ca](ca) [bhavasena](bhavaseno) [horses](hayāḥ) [sometimes](kvacit)
 
 ## mukta-m0-p42-v1032
-[anuṣṭubh-meter](anuṣṭuppaṅktirityuktāśchandāṃsi) [horses](harayo) [of-sun](raveḥ)
+[anuṣṭubh+meter](anuṣṭuppaṅktir) [thus](ity) [said](uktāś) [meters](chandāṃsi) [horses](harayo) [of-sun](raveḥ)
 
 ## mukta-m0-p42-v1033
-[thousand-rayed](sahasrāṃśurmahātejā) [jewel-earring-adorned](maṇikuṇḍalamaṇḍitaḥ)
+[thousand-rayed](sahasrāṃśur) [great-splendor](mahātejā) [jewel+earring+adorned](maṇikuṇḍalamaṇḍitaḥ)
 
 ## mukta-m0-p42-v1034
-[on-lotus-leaf](sanālapatre) [lotus](rājīve) [bearing](bibhratskandhe) [hand](kare) [in-order](kramāt)
+[lotus-leaf](sanālapatre) [lotus](rājīve) [bearing](bibhrat) [shoulder](skandhe) [hand](kare) [in-order](kramāt)
 
 ## mukta-m0-p42-v1035
-[ink-vessel-pen](masībhājanalekhanyau) [holding](dhārayanhastayordvayoḥ)
+[ink-vessel+pen](masībhājanalekhanyau) [holding](dhārayan) [hands](hastayoḥ) [two](dvayoḥ)
 
 ## mukta-m0-p42-v1036
-[fan-bearing](bālavyajanadhāriṇyau) [queen-shadow](rājñīchāye) [indeed-good-reading](saṃjñāchāye) [iti-sādhu-pāṭho-bhavet](iti) [sādhu](sādhu) [pāṭha](pāṭho) [bhavet](bhavet) [sides](tu) [pārśvayoḥ](pārśvayoḥ)
+[fan-bearing](bālavyajanadhāriṇyau) [queen+shadow](rājñīchāye) [side](pārśvayoḥ)
 
 ## mukta-m0-p42-v1037
-[drawn-arrow](ākṛṣṭakaṇabāṇāca) [side](pārśce) [right](dakṣiṇake) [standing](sthitā)
+[drawn+arrow](ākṛṣṭakaṇabāṇāca) [side](pārśce) [right](dakṣiṇake) [standing](sthitā)
 
 ## mukta-m0-p42-v1038
-[or-horse-mounted](athavāśvasamārūḍhaḥ) [one](kārya) [indeed](ekastu) [sun](bhāskaraḥ)
+[or](athavā) [horse-mounted](aśvasamārūḍhaḥ) [one](kārya) [only](ekastu) [sun](bhāskaraḥ)
 
 ## mukta-m0-p42-v1039
-[middle](madhye) [kuṇḍa-yakṣa-mālā-bearing](kuṇḍayakṣamālāvān) [eastern-half](pūrvārdhe) [altar-maker](vedikākaraḥ)
+[middle](madhye) [kuṇḍa+yakṣa+garland](kuṇḍayakṣamālāvān) [eastern-half](pūrvārdhe) [altar-maker](vedikākaraḥ)
 
 ## mukta-m0-p42-v1040
-[others](anye) [yama-etc](yamādivanyahyantā) [four-armed](caturhastā) [twelve-petaled](dviṣaḍdale)
+[others](anye) [yama+etc](yamādivanyahyantā) [four-armed](caturhastā) [twelve-petaled](dviṣaḍdale)
 
 ## mukta-m0-p42-v1041
-[mace-sṛṇi-disc-srug-bearing](mudgarasṛṇicakrasrugbhuṃto) [fire-etc]('gnyādividiksthitāḥ)
+[club+sickle+discus+spoon-bearing](mudgarasṛṇicakrasrugbhuṃto) [fire+etc](agnyādividiksthitāḥ)
 
 ## mukta-m0-p42-v1042
-[varuṇa](varuṇaḥ) [sun-named](sūryaṃnāmā) [ca](ca) [thousand-rayed](sahasrāṃśustathāparaḥ)
+[varuṇa](varuṇaḥ) [sun-named](sūryaṃnāmā) [ca](ca) [thousand-rayed](sahasrāṃśus) [thus](tathā) [another](aparaḥ)
 
 ## mukta-m0-p42-v1043
-[these-twelve-suns](eter'kā) [dvādaśa](dvādaśa) [known](jñeyā) [aries-etc](meṣādi) [rāśi-situated](rāśisaṃsthitāḥ)
+[these](eter) [sun](rkā) [twelve](dvādaśa) [known](jñeyā) [aries+etc](meṣādi) [zodiac-placed](rāśisaṃsthitāḥ)
 
 ## mukta-m0-p42-v1044
-[kapila](kapilaḥ) [yellow-colored](pītavarṇaśca) [parrot-like](śukābho) [white](dhavalastathā)
+[kapila](kapilaḥ) [yellow-colored](pītavarṇaś) [ca](ca) [parrot-like](śukābho) [white](dhavalas) [thus](tathā)
 
 ## mukta-m0-p42-v1045
-[iḍā](iḍā) [suṣumnā](suṣumnā) [viśvārcis](viśvārcirbindu) [bindu](bindu) [named](saṃjñā) [pramardinī](pramardinī)
+[iḍā](iḍā) [suṣumnā](suṣumnā) [all-radiant](viśvārcir) [bindu](bindu) [named](saṃjñā) [crusher](pramardinī)
 
 ## mukta-m0-p42-v1046
-[blue-garmented](nīlāmbarā) [wealth-within](dhanāntaḥ) [sthā](sthā) [amṛtāhvā](amṛtāhvā) [ca](ca) [śaktis](śaktayaḥ)
+[blue-garmented](nīlāmbarā) [wealth-end](dhanāntaḥ) [standing](sthā) [nectar-named](amṛtāhvā) [ca](ca) [powers](śaktayaḥ)
 
 ## mukta-m0-p42-v1047
-[own-deity-form-color](svadevarupavarṇāṃstāḥ) [on-filament-tips](kesarāgreṣu) [place](vinyaset)
+[own+deity+form+color](svadevarupavarṇāṃstāḥ) [filament-tips](kesarāgreṣu) [place](vinyaset)
 
 ## mukta-m0-p42-v1048
 [right](dakṣiṇo) [trident-bearing](śūladhārī) [ca](ca) [left-hand](vāmahaste) [skull-bearing](kapālabhṛt)
 
 ## mukta-m0-p42-v1049
-[holding](dhārayannitare) [haste](haste) [two](dvābhyāmabjau) [hands](karānakaiḥ)
+[holding](dhārayan) [other](nitare) [hand](haste) [two](dvābhyām) [lotuses](abjau) [fingers](karānakaiḥ)
 
 ## mukta-m0-p42-v1050
-[with-four-or-eight](caturbhiraṣṭabhirvāpi) [middle](madhye'bje'ṣṭada) [lānvitam](lānvitam)
+[four+or+eight](caturbhiraṣṭabhir) [or](vāpi) [middle](madhye) [lotus](abje) [eight-petaled](aṣṭada) [with](lānvitam)

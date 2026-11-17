@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p46-v1126
-[kartari-abhaya-bhrt-yamye](kartaryabhayabhṛdyāmye) [vame](vāme) [kantakapalini](kaṇṭākapālinī)
+[kartari](kartari) [abhayabhṛt](abhayabhṛt) [yāmye](yāmye) [vāme](vāme) [kaṇṭākapālinī](kaṇṭākapālinī)
 
 ## mukta-m0-p46-v1127
-[musalam](musalaṃ) [bibhrati](bibhratī) [yamye](yāmye) [somye](somye) [ca](ca) [phala-pallavau](phalapallavau)
+[musalaṃ](musalaṃ) [bibhratī](bibhratī) [yāmye](yāmye) [somye](somye) [ca](ca) [phalapallavau](phalapallavau)
 
 ## mukta-m0-p46-v1128
-[samatsya](samatsya) [kardha-bhrt-vame](kārdhabhṛdvāme) [matsyam](matsyam) [anyatra](anyatra) [vasita](vāsitā)
+[samatse](samatse) [kārdhabhṛt](kārdhabhṛt) [vāme](vāme) [matsyam](matsyam) [anyatra](anyatra) [vāsitā](vāsitā)
 
 ## mukta-m0-p46-v1129
-[haharava](hāhāravā) [sita](sitā) [krura](krūrā) [rasabhasya](rāsabhāsyā) [kharasana](kharāsanā)
+[hāhāravā](hāhāravā) [sitā](sitā) [krūrā](krūrā) [rāsabhāsyā](rāsabhāsyā) [kharānanā](kharānanā)
 
 ## mukta-m0-p46-v1130
-[vame](vāme) [masi-ghati](masīghaṭīṃ) [pasa](pāśaṃ) [lekhanidaṇḍa-bhrt-tatah](lekhanīdaṇḍabhṛttataḥ)
+[vāme](vāme) [masīghaṭīṃ](masīghaṭīṃ) [pāśaṃ](pāśaṃ) [lekhanīdaṇḍabhṛt](lekhanīdaṇḍabhṛt) [tataḥ](tataḥ)
 
 ## mukta-m0-p46-v1131
-[vame](vāme) [samadiram](samadiraṃ) [patram](pātraṃ) [bibhrati](bibhratī) [jambuke](jambuke) [sthita](sthitā)
+[vāme](vāme) [samadiraṃ](samadiraṃ) [pātraṃ](pātraṃ) [bibhratī](bibhratī) [jambuke](jambuke) [sthitā](sthitā)
 
 ## mukta-m0-p46-v1132
-[yamye-asyah](yāmye'syāḥ) [khinkhiri](khiṅkhirīṃ) [sulam](śūlaṃ) [kharparam](kharparaṃ) [leliha-anyatah](lelihānyataḥ)
+[yāmye](yāmye) [asyāḥ](asyāḥ) [khiṅkhirīṃ](khiṅkhirīṃ) [śūlaṃ](śūlaṃ) [kharparaṃ](kharparaṃ) [lelihānyataḥ](lelihānyataḥ)
 
 ## mukta-m0-p46-v1133
-[bibhrana-ubhajina](bibhrāṇobhājina) [dvabhyam](dvābhyāṃ) [sarvajna](sarvajñā) [preta-gasita](pretagāsitā)
+[bibhrāṇa](bibhrāṇa) [ibha+arjinam](ibha+arjinam) [dvābhyāṃ](dvābhyāṃ) [sarvajñā](sarvajñā) [pretagāsitā](pretagāsitā)
 
 ## mukta-m0-p46-v1134
-[sala-damaru-hasta](śalaḍamaruhastā) [ca](ca) [godha-ga](godhāgā) [tarala-sita](taralāsitā)
+[śalaḍamaruhastā](śalaḍamaruhastā) [ca](ca) [godhāgā](godhāgā) [taralāsitā](taralāsitā)
 
 ## mukta-m0-p46-v1135
-[savardham](śavārdhaṃ) [bibhrati](bibhratī) [saumye](saumye) [sulam](śūlaṃ) [mugdaram-anyatah](mugdaramanyataḥ)
+[śavārdhaṃ](śavārdhaṃ) [bibhratī](bibhratī) [saumye](saumye) [śūlaṃ](śūlaṃ) [mugdaram](mugdaram) [anyataḥ](anyataḥ)
 
 ## mukta-m0-p46-v1136
-[daksino](dakṣiṇo) [japyayamala](jāpyayāmālāṃ) [ca](ca) [vame](vāme) [pusta](pusta) [kamandalum](kamaṇḍalum)
+[dakṣiṇo](dakṣiṇo) [jāpyayāmālāṃ](jāpyayāmālāṃ) [ca](ca) [vāme](vāme) [pusta](pusta) [kamaṇḍalum](kamaṇḍalum)
 
 ## mukta-m0-p46-v1137
-[surpa-munda-kara](śūrpamuṇḍakarā) [yamye-anyatra](yāmye'nyatra) [sephalika-ka-bhrt](śephālikākabhṛt)
+[śūrpamuṇḍakarā](śūrpamuṇḍakarā) [yāmye](yāmye) [anyatra](anyatra) [śephālikākabhṛt](śephālikākabhṛt)
 
 ## mukta-m0-p46-v1138
-[khadvangam](khadvāṅgaṃ) [rurukam](rurukaṃ) [saumye](saumye) [sulolke](śūlolke) [bibhrati](bibhratī) [tatah](tataḥ)
+[khadvāṅgaṃ](khadvāṅgaṃ) [rurukaṃ](rurukaṃ) [saumye](saumye) [śūlolke](śūlolke) [bibhratī](bibhratī) [tataḥ](tataḥ)
 
 ## mukta-m0-p46-v1139
-[kasulandhaka-kankala-bhrd-advayo](kaśūlāndhakakaṅkālabhṛdadvayo) [scama-vasini](ścamavāsinī)
+[kaśūlāndhakakaṅkālabhṛt](kaśūlāndhakakaṅkālabhṛt) [advayo](advayo) [ścamavāsinī](ścamavāsinī)
 
 ## mukta-m0-p46-v1140
-[vame](vāme) [karogha-dhapa-sam](karoghadhāpāśaṃ) [ghante-sulka-dhara-anyatha](ghaṇṭeśūlkadharānyathaḥ)
+[vāme](vāme) [karoghadhāpāśaṃ](karoghadhāpāśaṃ) [ghaṇṭeśūlkadharānyathaḥ](ghaṇṭeśūlkadharānyathaḥ)
 
 ## mukta-m0-p46-v1141
-[sankha-khetaka-hasta-ugra](śaṅkhakheṭakahastogrā) [yamye](yāmye) [svastika-khadga-bhrt](svastikakhaḍgabhṛt)
+[śaṅkhakheṭakahastogrā](śaṅkhakheṭakahastogrā) [yāmye](yāmye) [svastikakhaḍgabhṛt](svastikakhaḍgabhṛt)
 
 ## mukta-m0-p46-v1142
-[gada-dhvaja-dhara](gadādhvajadharā) [yamye](yāmye) [vame](vāme) [pasa-kapala-bhrt](pāśakapālabhṛt)
+[gadādhvajadharā](gadādhvajadharā) [yāmye](yāmye) [vāme](vāme) [pāśakapālabhṛt](pāśakapālabhṛt)
 
 ## mukta-m0-p46-v1143
-[cakra-stha](cakrasthā) [cakra-kattari-dharini](cakrakaṭṭārīdhārīṇī) [daksine](dakṣiṇe) [kare](kare)
+[cakrasthā](cakrasthā) [cakrakaṭṭārīdhārīṇī](cakrakaṭṭārīdhārīṇī) [dakṣiṇe](dakṣiṇe) [kare](kare)
 
 ## mukta-m0-p46-v1144
-[kumbha-pasa-dhara-sveta](kumbhapāśadharāśvetā) [kroda-putra](kroḍaputrā) [karankini](karaṅkiṇī)
+[kumbhapāśadharā](kumbhapāśadharā) [śvetā](śvetā) [kroḍaputrā](kroḍaputrā) [karaṅkiṇī](karaṅkiṇī)
 
 ## mukta-m0-p46-v1145
-[jalair-vrta](jalairvṛtā) [ghana-aruda](ghanārūḍhā) [tadin-mandala-mandita](taḍinmaṇḍalamaṇḍitā)
+[jalairvṛtā](jalairvṛtā) [ghanārūḍhā](ghanārūḍhā) [taḍinmaṇḍalamaṇḍitā](taḍinmaṇḍalamaṇḍitā)
 
 ## mukta-m0-p46-v1146
-[kapalam](kapālaṃ) [mundam-anyatra](muṇḍamanyatra) [satrughnah](śatrughnāḥ) [sphatika-tvisah](sphaṭikatviṣaḥ)
+[kapālaṃ](kapālaṃ) [muṇḍam](muṇḍam) [anyatra](anyatra) [śatrughnāḥ](śatrughnāḥ) [sphaṭikatviṣaḥ](sphaṭikatviṣaḥ)
 
 ## mukta-m0-p46-v1147
-[kalakarni](kālakarṇī) [jagat-khyata](jagatkhyātā) [karne](karṇe) [kala-vibhusana](kālavibhūṣaṇā)
+[kālakarṇī](kālakarṇī) [jagatkhyātā](jagatkhyātā) [karṇe](karṇe) [kālavibhūṣaṇā](kālavibhūṣaṇā)
 
 ## mukta-m0-p46-v1148
-[kartari-abhaya-bhrad-yamye](kartaryabhayabhradyāmye) [sula](śūla) [pasa-dhara-anyatah](pāśadharānyataḥ)
+[kartaryabhayabhradyāmye](kartaryabhayabhradyāmye) [śūla](śūla) [pāśadharānyataḥ](pāśadharānyataḥ)
 
 ## mukta-m0-p46-v1149
-[kamandalu-kusa-vyagra](kamaṇḍalukuśavyagrā) [ca-atra-sutra-sruva-anvita](cātrasūtrasruvānvitā)
+[kamaṇḍalukuśavyagrā](kamaṇḍalukuśavyagrā) [cātrasūtrasruvānvitā](cātrasūtrasruvānvitā)
 
 ## mukta-m0-p46-v1150
-[candravali](candrāvalī) [ca](ca) [hema-bha](hemābhā) [krsna-saramrga-asana](kṛṣṇasāramṛgāsanā)
+[candrāvalī](candrāvalī) [ca](ca) [hemābhā](hemābhā) [kṛṣṇasāramṛgāsanā](kṛṣṇasāramṛgāsanā)

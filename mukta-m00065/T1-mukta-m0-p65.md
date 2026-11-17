@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p65-v1601
-[sun](bhānuḥ) [therefore](tasmāt) [ten-hundred-covered](daśaśatāvṛtaḥ)
+sahasra-āśā-āvṛtaḥ bhānuḥ tasmāt daśa-śata-āvṛtaḥ
 
 ## mukta-m0-p65-v1602
-[skull-etc](kapālādyaiḥ) [with-united](yutaiḥ) [broken](bhinne) [meritorious-friend](puṇyakṛtsuhṛt)
+kapāla-ādyaiḥ yutaiḥ bhinne puṇya-kṛt sa mahā-gha-hṛt
 
 ## mukta-m0-p65-v1603
-[truth-part](tattvabhāgaḥ) [half-fall](ardhavaṃpātāt) [becomes](bhavet) [linga](liṅgaṃ) [hundred-excess](śatādhikam)
+tattva-bhāgaḥ ardha-vaṃpātāt bhavet liṅgaṃ śata-adhikam
 
 ## mukta-m0-p65-v1604
-[line](rekhām) [carve](utkirayet) [linga](liṅge) [best](uttame) [eight-barley](yavāṣṭakam)
+rekhām utkirayet liṅge uttame ca yava-aṣṭakam
 
 ## mukta-m0-p65-v1605
-[without-cloth](vastrahīnake)
+vastra-hīnake
 
 ## mukta-m0-p65-v1606
-[equal](samaṃ) [level](samatalaṃ) [that](tacca) [pleasing](manojñaṃ) [marked](lakṣaṇānvitam)
+samaṃ sama-talaṃ tat ca manojñaṃ lakṣaṇa-anvitam
 
 ## mukta-m0-p65-v1607
-[middle-thread](madhyasūtraṃ) [equal](samaṃ) [making](kṛtvā) [from-forehead](lalāṭāt) [lower](avatārayet)
+madhya-sūtraṃ samaṃ kṛtvā lalāṭāt avatārayet
 
 ## mukta-m0-p65-v1608
-[all-mark-destruction](sarvālakṣaṇanāśāya) [line-mark](rekhālakṣaṇam) [is-said](ucyate)
+sarva-alakṣaṇa-nāśāya rekhā-lakṣaṇam ucyate
 
 ## mukta-m0-p65-v1609
-[fierce](caṇḍā) [fortune](lakṣmī) [wise](sumedhā) [jewel-line](maṇirekhā) [ten-declared](daśoditāḥ)
+caṇḍā lakṣmī sumedhā ca maṇi-rekhā daśa-uditāḥ
 
 ## mukta-m0-p65-v1610
-[inner](cāntaram)
+cāntaram
 
 ## mukta-m0-p65-v1611
-[transverse-middle](tiryaṅmadhyasthitāt) [thread](sūtrāt) [side-thread](pakṣasūtrāt) [descent](avatāraṇam)
+tiryaṅ-madhya-sthitāt sūtrāt pakṣa-sūtra-avatāraṇam
 
 ## mukta-m0-p65-v1612
-[should-do](kārayet)
+kārayet
 
 ## mukta-m0-p65-v1613
-[hole](randhraḥ) [six-cornered](ṣaḍasrake)
+randhraḥ ṣaḍ-asrake
 
 ## mukta-m0-p65-v1614
-[bright-named](dīprākhyā) [mark](lakṣya) [line](rekhā) [said](gaditā) [enjoyment-liberation-giving](bhogamokṣadā)
+dīpra-ākhyā lakṣya rekhā ca gaditā bhoga-mokṣa-dā
 
 ## mukta-m0-p65-v1615
-[ninth-part](navāṃśaḥ) [half-abandoned](ardhaparityakte) [sixth](ṣaṣṭhe) [part](bhāge) [threefold](tridhā) [made](kṛte)
+nava-aṃśaḥ ardha-parityakte ṣaṣṭhe bhāge tridhā kṛte
 
 ## mukta-m0-p65-v1616
-[barley-shaped-eye-bright](yavākārebhanetrābhā) [side-thread](pakṣasūtraṃ) [without](vinā) [becomes](bhavet)
+yava-ākāra-ibha-netra-ābhā pakṣa-sūtraṃ vinā bhavet
 
 ## mukta-m0-p65-v1617
-[abandoning-below](tyakttvādho) [two-one-part](dvyekabhāgaṃ) [two](dvau) [also-below](caivādho) [eightfold](aṣṭadhā) [again](punaḥ)
+tyaktvā adhaḥ dvi-eka-bhāgaṃ tu dvau ca eva adhaḥ aṣṭadhā punaḥ
 
 ## mukta-m0-p65-v1618
-[abandoning-one](tyaktvaikaṃ) [rotate-thread](bhrāmayetsūtraṃ) [until-back-end](yāvatpṛṣṭhāntamāśrite)
+tyaktvā ekam bhrāmayet sūtraṃ yāvat pṛṣṭha-antam āśrite
 
 ## mukta-m0-p65-v1619
-[below-two-parts](adho bhāgadvayaṃ) [releasing](muktvā) [union](saṅgamaḥ) [from-behind](pṛṣṭhatastayoḥ)
+adhaḥ bhāga-dvayaṃ muktvā saṅgamaḥ pṛṣṭhataḥ tayoḥ
 
 ## mukta-m0-p65-v1620
-[front](agre) [sage-abandoned](muniparityakte) [mark](lakṣaṇaṃ) [would-be](syāt) [hood-placed](phaṇisthite)
+agre muni-parityakte lakṣaṇaṃ syāt phaṇi-sthite
 
 ## mukta-m0-p65-v1621
-[six-part-above](ṣaḍaṃśādūrdhvataḥ) [abandoning](tyakttvā) [hump-part](kakudbhāge) [mark](lakṣaṇam)
+ṣaḍ-aṃśāt ūrdhvataḥ tyaktvā kakud-bhāge ca lakṣaṇam
 
 ## mukta-m0-p65-v1622
-[above](āgho) [leaving](vihāya) [two-parts](bhāgau dvau) [meeting](melakaṃ) [would-be](syāt) [those](tayoḥ) [always](sadā)
+āgho vihāya bhāgau dvau melakaṃ syāt tayoḥ sadā
 
 ## mukta-m0-p65-v1623
-[worship-part](pūjābhāge) [distortion-part](vikārāṃśe) [line-below](rekhādhaḥ) [seven-excluded](saptavarjite)
+pūjā-bhāge vikāra-aṃśe rekhā-adhaḥ sapta-varjite
 
 ## mukta-m0-p65-v1624
-[whose-north](yasyottare) [lotus-shaped](abjikākārā) [union](saṅgati) [back-middle](pṛṣṭhamadhyataḥ)
+yasya uttare abjikā-ākārā saṅgati pṛṣṭha-madhyataḥ
 
 ## mukta-m0-p65-v1625
-[side-thread](pakṣasūtre) [supreme](paraṃ) [work](kāryaṃ) [that-below](tadadho) [hanging](lambanaṃ) [removes](haret)
+pakṣa-sūtre paraṃ kāryaṃ tat adhaḥ lambanaṃ haret
