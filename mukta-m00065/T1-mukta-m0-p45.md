@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p45-v1101
-[epithet](piṅgākṣī) [epithet](cākṣayākṣapā) [epithet](ilā) [epithet](līlā) [epithet](layā) [epithet](tathā)
+[tawny-eyed](piṅgākṣī) [and](ca) [imperishable-eyed+guardian](akṣaya+akṣapā) [Ilā](ilā) [Līlā](līlā) [Layā](layā) [likewise](tathā)
 
 ## mukta-m0-p45-v1102
-[epithet](hutāśā) [epithet](ca) [epithet](viśālākṣī) [epithet](huṅkārā) [epithet](vaḍavāmukhī)
+[fire](hutāśā) [and](ca) [wide-eyed](viśāla+akṣī) [Huṅkārā](huṅkārā) [mare-faced](vaḍavā+mukhī)
 
 ## mukta-m0-p45-v1103
-[epithet](sarbajñā) [epithet](taralā) [epithet](tārā) [epithet](ṛgvedā) [epithet](tu) [epithet](hayānanā)
+[all-knowing](sarba+jñā) [trembling](taralā) [Tārā](tārā) [Ṛgveda](ṛg+vedā) [indeed](tu) [horse-faced](haya+ānanā)
 
 ## mukta-m0-p45-v1104
-[epithet](raktākṣī) [epithet](suprasiddhā) [epithet](tu) [epithet](vidmujjihvā) [epithet](karaṅkiṇī)
+[red-eyed](rakta+akṣī) [well-accomplished](su+prasiddhā) [indeed](tu) [lightning-tongued](vidmut+jihvā) [skeleton-like](karaṅkiṇī)
 
 ## mukta-m0-p45-v1105
-[epithet](candrā) [epithet](candravalī) [epithet](caiva) [epithet](prapañcā) [epithet](pralayāntikā)
+[Candrā](candrā) [moon-creeper](candra+valī) [and](ca) [indeed](eva) [Prapañcā](prapañcā) [dissolution-end](pralaya+antikā)
 
 ## mukta-m0-p45-v1106
-[epithet](yamanī) [epithet](tapanī) [epithet](caiva) [epithet](vāmanī) [epithet](vikṛtānanā)
+[Yamanī](yamanī) [Tapanī](tapanī) [and](ca) [indeed](eva) [Vāmanī](vāmanī) [deformed-faced](vikṛta+ānanā)
 
 ## mukta-m0-p45-v1107
-[epithet](yamajihvā) [epithet](jayantī) [epithet](ca) [epithet](durjayā) [epithet](ca) [epithet](yamāntikā)
+[Yama-tongued](yama+jihvā) [Jayantī](jayantī) [and](ca) [unconquerable](dur+jayā) [and](ca) [Yama-end](yama+antikā)
 
 ## mukta-m0-p45-v1108
-[epithet](catuḥ) [epithet](ṣaṣṭiriyaṃ) [epithet](devyā) [epithet](mūrtibhedā) [epithet](nigadyate)
+[sixty-four](catuḥ+ṣaṣṭiḥ) [this](iyam) [of-the-goddess](devyāḥ) [form-divisions](mūrti+bhedāḥ) [is-declared](nigadyate)
 
 ## mukta-m0-p45-v1109
-[epithet](hemābhā) [epithet](bhūṣaṇāḍhyā) [epithet](syādakṣobhyā) [epithet](karisaṃsthitā)
+[golden-hued](hema+ābhā) [adorned-with-ornaments](bhūṣaṇa+āḍhyā) [should-be](syāt) [Akṣobhyā](akṣobhyā) [seated-on-elephant](kari+saṃsthitā)
 
 ## mukta-m0-p45-v1110
-[epithet](dhanuḥ) [epithet](kapābhṛtsaumye) [epithet](ṝkṣasthā) [epithet](tarjanīyutā)
+[bow](dhanuḥ) [skull-bearing](kapāla+bhṛt) [on-the-left](saumye) [seated-on-bear](ṛkṣa+sthā) [endowed-with-threatening-finger](tarjanī+yutā)
 
 ## mukta-m0-p45-v1111
-[epithet](pretasthā) [epithet](rāghasī) [epithet](gaurī) [epithet](kārdhakatarikānvitā)
+[seated-on-corpse](preta+sthā) [Rāghasī](rāghasī) [white](gaurī) [endowed-with-half-scissors](kārdha+katarikā+anvitā)
 
 ## mukta-m0-p45-v1112
-[epithet](kapālaṃ) [epithet](ca) [epithet](phalaṃ) [epithet](saumye) [epithet](dhatte) [epithet](kubjanṛsaṃsthitā)
+[skull](kapālaṃ) [and](ca) [fruit](phalaṃ) [on-the-left](saumye) [holds](dhatte) [seated-on-dwarf-man](kubja+nṛ+saṃsthitā)
 
 ## mukta-m0-p45-v1113
-[epithet](vāme) [epithet](kapālapicchī) [epithet](bhṛtsarvālaṅkāramaṇḍitā)
+[in-left-hand](vāme) [skull-tuft-bearing](kapāla+picchī+bhṛt) [adorned-with-all-ornaments](sarva+alaṅkāra+maṇḍitā)
 
 ## mukta-m0-p45-v1114
-[epithet](kauśeyapāśabhṛdyāmye) [epithet](vāme) [epithet](cāṅkuśakheṭinī)
+[silken-noose-bearing](kauśeya+pāśa+bhṛt) [on-the-right](yāmye) [in-left-hand](vāme) [and](ca) [goad-shield-holder](aṅkuśa+kheṭinī)
 
 ## mukta-m0-p45-v1115
-[epithet](kuṭhārāśanibhṛdyāmye) [epithet](saumye) [epithet](pāśāṅkuśānvitā)
+[axe-thunderbolt-bearing](kuṭhāra+aśani+bhṛt) [on-the-right](yāmye) [on-the-left](saumye) [endowed-with-noose-goad](pāśa+aṅkuśa+anvitā)
 
 ## mukta-m0-p45-v1116
-[epithet](yāmye) [epithet](ḍamaruśūleṣumastahastākṣapā) [epithet](matā)
+[on-the-right](yāmye) [drum-trident-arrow-skull-hands](ḍamaru+śūla+iṣu+masta+hasta) [eye-guardian](akṣa+pā) [is-considered](matā)
 
 ## mukta-m0-p45-v1117
-[epithet](raktā) [epithet](bahirsthitā) [epithet](tvīlā) [epithet](krīḍantī) [epithet](dahanaiḥ) [epithet](saha)
+[red](raktā) [standing-outside](bahis+sthitā) [indeed](tu) [Ilā](īlā) [playing](krīḍantī) [with-fires](dahanaiḥ) [with](saha)
 
 ## mukta-m0-p45-v1118
-[epithet](bibhrāṇā) [epithet](paṭṭiśaṃ) [epithet](pāśaṃ) [epithet](vāme) [epithet](mastārdhamambujam)
+[bearing](bibhrāṇā) [spear](paṭṭiśaṃ) [noose](pāśaṃ) [in-left-hand](vāme) [skull-half](masta+ardham) [lotus](ambujam)
 
 ## mukta-m0-p45-v1119
-[epithet](kartarīkārdhabhṛdvāme) [epithet](tarjanyākṛṣṭasṛkkikā)
+[scissors-half-bearing](kartarī+kārdha+bhṛt) [in-left-hand](vāme) [with-threatening-finger-drawn-lips](tarjanī+ākṛṣṭa+sṛkkikā)
 
 ## mukta-m0-p45-v1120
-[epithet](śūlaṃ) [epithet](ruruyutaṃ) [epithet](dvābhyāṃ) [epithet](dhatte) [epithet](lolā) [epithet](sūsārase)
+[trident](śūlaṃ) [endowed-with-antelope](ruru+yutaṃ) [with-two-hands](dvābhyāṃ) [holds](dhatte) [Lolā](lolā) [in-lotus](su+sārase)
 
 ## mukta-m0-p45-v1121
-[epithet](laṅkeśorusthitā) [epithet](laṅkā) [epithet](carvantīṃ) [epithet](piśitaṃ) [epithet](ghanam)
+[seated-on-Laṅkeśa's-thigh](laṅkeśa+uru+sthitā) [Laṅkā](laṅkā) [chewing](carvantīṃ) [flesh](piśitaṃ) [dense](ghanam)
 
 ## mukta-m0-p45-v1122
-[epithet](śoṇā) [epithet](laṅkeśvarī) [epithet](kuṇḍe) [epithet](ūrdhvabālāṃ) [epithet](ca) [epithet](bibhratī)
+[red](śoṇā) [Laṅkeśvarī](laṅkeśvarī) [in-bowl](kuṇḍe) [upraised-hair](ūrdhva+bālāṃ) [and](ca) [bearing](bibhratī)
 
 ## mukta-m0-p45-v1123
-[epithet](bibhrāṇā) [epithet](kolagā) [epithet](raktā) [epithet](lālāsṛglālāsā) [epithet](matā)
+[bearing](bibhrāṇā) [seated-on-boar](kola+gā) [red](raktā) [delighting-in-saliva-blood](lālā+asṛk+lālā+sā) [is-considered](matā)
 
 ## mukta-m0-p45-v1124
-[epithet](kartarīkumbhabhṛdyāme) [epithet](saumye) [epithet](pāśakapālinī)
+[scissors-pot-bearing](kartarī+kumbha+bhṛt) [on-the-right](yāme) [on-the-left](saumye) [noose-skull-holder](pāśa+kapālinī)
 
 ## mukta-m0-p45-v1125
-[epithet](vāme) [epithet](cābhayahastā) [epithet](syādviṣṭarājyaghaṭānvitā)
+[in-left-hand](vāme) [and](ca) [fearlessness-hand](abhaya+hastā) [should-be](syāt) [endowed-with-seat-kingdom-pot](viṣṭara+ājya+ghaṭa+anvitā)

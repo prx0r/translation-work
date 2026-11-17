@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p46-v1126
-[kartari](kartari) [abhayabhṛt](abhayabhṛt) [yāmye](yāmye) [vāme](vāme) [kaṇṭākapālinī](kaṇṭākapālinī)
+[scissors](kartary) + [fearlessness](abhaya) + [bearing](bhṛd) + [on-right](yāmye) [on-left](vāme) [skull](kaṇṭā) + [holder](kapālinī)
 
 ## mukta-m0-p46-v1127
-[musalaṃ](musalaṃ) [bibhratī](bibhratī) [yāmye](yāmye) [somye](somye) [ca](ca) [phalapallavau](phalapallavau)
+[pestle](musalaṃ) [holding](bibhratī) [on-right](yāmye) [on-left](somye) [and](ca) [fruit](phala) + [sprouts](pallavau)
 
 ## mukta-m0-p46-v1128
-[samatse](samatse) [kārdhabhṛt](kārdhabhṛt) [vāme](vāme) [matsyam](matsyam) [anyatra](anyatra) [vāsitā](vāsitā)
+[with-fish](samatsya) [gh:]( [gh:) [with-fish](samatse) [](]) + [half](kārdha) + [bearing](bhṛd) + [on-left](vāme) [fish](matsyam) + [elsewhere](anyatra) [clothed](vāsitā)
 
 ## mukta-m0-p46-v1129
-[hāhāravā](hāhāravā) [sitā](sitā) [krūrā](krūrā) [rāsabhāsyā](rāsabhāsyā) [kharānanā](kharānanā)
+[hāhā-sound](hāhāravā) [white](sitā) [fierce](krūrā) [donkey](rāsabha) + [faced](āsyā) [donkey](khara) + [seated](āsanā) [mū,]( [mū,) [a,](a,) [g,](g,) [gh:](gh:) [donkey-faced](kharānanā) [](])
 
 ## mukta-m0-p46-v1130
-[vāme](vāme) [masīghaṭīṃ](masīghaṭīṃ) [pāśaṃ](pāśaṃ) [lekhanīdaṇḍabhṛt](lekhanīdaṇḍabhṛt) [tataḥ](tataḥ)
+[on-left](vāme) [ink](masī) + [pot](ghaṭīṃ) [noose](pāśaṃ) [stylus](lekhanī) + [staff](daṇḍa) + [bearing](bhṛt) + [then](tataḥ)
 
 ## mukta-m0-p46-v1131
-[vāme](vāme) [samadiraṃ](samadiraṃ) [pātraṃ](pātraṃ) [bibhratī](bibhratī) [jambuke](jambuke) [sthitā](sthitā)
+[on-left](vāme) [with-wine](samadiraṃ) [vessel](pātraṃ) [g:]( [g:) [spear](śūlaṃ) [](]) [holding](bibhratī) [on-jackal](jambuke) [seated](sthitā)
 
 ## mukta-m0-p46-v1132
-[yāmye](yāmye) [asyāḥ](asyāḥ) [khiṅkhirīṃ](khiṅkhirīṃ) [śūlaṃ](śūlaṃ) [kharparaṃ](kharparaṃ) [lelihānyataḥ](lelihānyataḥ)
+[on-right](yāmye) + [her](asyāḥ) [bell](khiṅkhirīṃ) [(?)]( (?)) [spear](śūlaṃ) [skull-cup](kharparaṃ) [licking](lelihā) + [elsewhere](anyataḥ)
 
 ## mukta-m0-p46-v1133
-[bibhrāṇa](bibhrāṇa) [ibha+arjinam](ibha+arjinam) [dvābhyāṃ](dvābhyāṃ) [sarvajñā](sarvajñā) [pretagāsitā](pretagāsitā)
+[bearing](bibhrāṇa) + [elephant](ubha) + [skin](ajina) [with-two-hands](dvābhyāṃ) [all-knowing](sarvajñā) [on-corpse](preta) + [seated](gāsitā)
 
 ## mukta-m0-p46-v1134
-[śalaḍamaruhastā](śalaḍamaruhastā) [ca](ca) [godhāgā](godhāgā) [taralāsitā](taralāsitā)
+[trident](śala) + [ḍamaru](ḍamaru) + [handed](hastā) [and](ca) [on-lizard](godhā) + [going](gā) [trembling](taralā) + [seated](sitā)
 
 ## mukta-m0-p46-v1135
-[śavārdhaṃ](śavārdhaṃ) [bibhratī](bibhratī) [saumye](saumye) [śūlaṃ](śūlaṃ) [mugdaram](mugdaram) [anyataḥ](anyataḥ)
+[corpse](śava) + [half](ardhaṃ) [holding](bibhratī) [on-left](saumye) [spear](śūlaṃ) [hammer](mugdaram) + [elsewhere](anyataḥ)
 
 ## mukta-m0-p46-v1136
-[dakṣiṇo](dakṣiṇo) [jāpyayāmālāṃ](jāpyayāmālāṃ) [ca](ca) [vāme](vāme) [pusta](pusta) [kamaṇḍalum](kamaṇḍalum)
+[on-right](dakṣiṇo) [rosary](jāpya) + [garland](yāmālāṃ) [and](ca) [on-left](vāme) [book](pusta) [water-pot](kamaṇḍalum)
 
 ## mukta-m0-p46-v1137
-[śūrpamuṇḍakarā](śūrpamuṇḍakarā) [yāmye](yāmye) [anyatra](anyatra) [śephālikākabhṛt](śephālikākabhṛt)
+[winnowing-basket](śūrpa) + [skull](muṇḍa) + [handed](karā) [on-right](yāmye) + [elsewhere](anyatra) [śephālikā-flower](śephālikā) + [bearing](kabhṛt)
 
 ## mukta-m0-p46-v1138
-[khadvāṅgaṃ](khadvāṅgaṃ) [rurukaṃ](rurukaṃ) [saumye](saumye) [śūlolke](śūlolke) [bibhratī](bibhratī) [tataḥ](tataḥ)
+[skull-staff](khadvāṅgaṃ) [antelope](rurukaṃ) [on-left](saumye) [spear](śūla) + [meteors](ulke) [holding](bibhratī) [then](tataḥ)
 
 ## mukta-m0-p46-v1139
-[kaśūlāndhakakaṅkālabhṛt](kaśūlāndhakakaṅkālabhṛt) [advayo](advayo) [ścamavāsinī](ścamavāsinī)
+[whip](kaśūla) + [blind](andhaka) + [skeleton](kaṅkāla) + [bearing](bhṛd) + [two](advayo) [on-cremation-ground](ścama) + [dwelling](vāsinī)
 
 ## mukta-m0-p46-v1140
-[vāme](vāme) [karoghadhāpāśaṃ](karoghadhāpāśaṃ) [ghaṇṭeśūlkadharānyathaḥ](ghaṇṭeśūlkadharānyathaḥ)
+[on-left](vāme) [hand](kara) + [aghadhā](oghadhā) + [noose](pāśaṃ) [k,]( [k,) [kh,](kh,) [g:](g:) [dyathānāsaṃ](dyathānāsaṃ;) [gh:](gh:) [pavānāsaṃ](pavānāsaṃ) [](]) [bell](ghaṇṭe) + [spear](śūlka) + [holding](dharā) + [elsewhere](nyathaḥ)
 
 ## mukta-m0-p46-v1141
-[śaṅkhakheṭakahastogrā](śaṅkhakheṭakahastogrā) [yāmye](yāmye) [svastikakhaḍgabhṛt](svastikakhaḍgabhṛt)
+[conch](śaṅkha) + [shield](kheṭaka) + [handed](hasta) + [fierce](ugrā) [on-right](yāmye) [svastika](svastika) + [sword](khaḍga) + [bearing](bhṛt)
 
 ## mukta-m0-p46-v1142
-[gadādhvajadharā](gadādhvajadharā) [yāmye](yāmye) [vāme](vāme) [pāśakapālabhṛt](pāśakapālabhṛt)
+[mace](gadā) + [banner](dhvaja) + [holding](dharā) [on-right](yāmye) [on-left](vāme) [noose](pāśa) + [skull-cup](kapāla) + [bearing](bhṛt)
 
 ## mukta-m0-p46-v1143
-[cakrasthā](cakrasthā) [cakrakaṭṭārīdhārīṇī](cakrakaṭṭārīdhārīṇī) [dakṣiṇe](dakṣiṇe) [kare](kare)
+[on-discus](cakrasthā) [discus](cakra) + [scissors](kaṭṭārī) + [holding](dhārīṇī) [kh:]( [kh:) [cakravāka-bird](cakravākaśca) [on-discus](cakrasthā) [](]) [on-right](dakṣiṇe) [hand](kare)
 
 ## mukta-m0-p46-v1144
-[kumbhapāśadharā](kumbhapāśadharā) [śvetā](śvetā) [kroḍaputrā](kroḍaputrā) [karaṅkiṇī](karaṅkiṇī)
+[pot](kumbha) + [noose](pāśa) + [holding](dharā) + [white](aśvetā) [boar](kroḍa) + [daughter](putrā) [skeleton](karaṅkiṇī)
 
 ## mukta-m0-p46-v1145
-[jalairvṛtā](jalairvṛtā) [ghanārūḍhā](ghanārūḍhā) [taḍinmaṇḍalamaṇḍitā](taḍinmaṇḍalamaṇḍitā)
+[with-waters](jalair) + [surrounded](vṛtā) [on-cloud](ghana) + [mounted](ārūḍhā) [lightning](taḍin) + [circle](maṇḍala) + [adorned](maṇḍitā)
 
 ## mukta-m0-p46-v1146
-[kapālaṃ](kapālaṃ) [muṇḍam](muṇḍam) [anyatra](anyatra) [śatrughnāḥ](śatrughnāḥ) [sphaṭikatviṣaḥ](sphaṭikatviṣaḥ)
+[skull-cup](kapālaṃ) [skull](muṇḍam) + [elsewhere](anyatra) [enemy](śatru) + [slayers](ghnāḥ) [crystal](sphaṭika) + [complexioned](tviṣaḥ)
 
 ## mukta-m0-p46-v1147
-[kālakarṇī](kālakarṇī) [jagatkhyātā](jagatkhyātā) [karṇe](karṇe) [kālavibhūṣaṇā](kālavibhūṣaṇā)
+[Kālakarṇī](kālakarṇī) [world](jagat) + [renowned](khyātā) [in-ear](karṇe) [black](kāla) + [ornament](vibhūṣaṇā)
 
 ## mukta-m0-p46-v1148
-[kartaryabhayabhradyāmye](kartaryabhayabhradyāmye) [śūla](śūla) [pāśadharānyataḥ](pāśadharānyataḥ)
+[scissors](kartary) + [fearlessness](abhaya) + [bearing](bhrad) + [on-right](yāmye) [spear](śūla) [gh:]( [gh:) [full](pūra) [](]) [noose](pāśa) + [holding](dharā) + [elsewhere](nyataḥ)
 
 ## mukta-m0-p46-v1149
-[kamaṇḍalukuśavyagrā](kamaṇḍalukuśavyagrā) [cātrasūtrasruvānvitā](cātrasūtrasruvānvitā)
+[water-pot](kamaṇḍalu) + [kuśa-grass](kuśa) + [engaged](vyagrā) [and](ca) + [sacred-thread](atrasūtra) + [ladle](sruva) + [endowed](anvitā)
 
 ## mukta-m0-p46-v1150
-[candrāvalī](candrāvalī) [ca](ca) [hemābhā](hemābhā) [kṛṣṇasāramṛgāsanā](kṛṣṇasāramṛgāsanā)
+[Candrāvalī](candrāvalī) [and](ca) [golden](hema) + [complexioned](ābhā) [black-antelope](kṛṣṇasāra) + [deer](mṛga) + [seated](āsanā)
