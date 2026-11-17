@@ -11,8 +11,8 @@
 "quick_gloss": "middle"
 },
 {
-"surface": "?bhā-]",
-"quick_gloss": "?"
+"surface": "*?bhā-",
+"quick_gloss": "light?"
 }
 ]
 },
@@ -36,12 +36,8 @@
 "quick_gloss": "with-many"
 },
 {
-"surface": "bahuru",
-"quick_gloss": "?"
-},
-{
-"surface": "?bhā-]",
-"quick_gloss": "?"
+"surface": "guṇaiḥ",
+"quick_gloss": "qualities"
 }
 ]
 },
@@ -115,6 +111,10 @@
 "quick_gloss": "of-age"
 },
 {
+"surface": "tāruṇyaṃ",
+"quick_gloss": "youth"
+},
+{
 "surface": "pratipadyate",
 "quick_gloss": "attains"
 }
@@ -134,6 +134,14 @@
 {
 "surface": "yānamiṃdriyāṇāmarogatā",
 "quick_gloss": "going"
+},
+{
+"surface": "iṃdriyāṇām",
+"quick_gloss": "senses"
+},
+{
+"surface": "arogatā",
+"quick_gloss": "health"
 }
 ]
 },
@@ -178,12 +186,12 @@
 "quick_gloss": "subtle-subtle"
 },
 {
-"surface": "bhaktadehe",
-"quick_gloss": "in-devotee-body"
+"surface": "ākāreṇa",
+"quick_gloss": "form"
 },
 {
-"surface": "vyavasthitāḥ",
-"quick_gloss": "situated"
+"surface": "bhaktadehe",
+"quick_gloss": "in-devotee-body"
 }
 ]
 },
@@ -196,19 +204,15 @@
 "tokens": [
 {
 "surface": "sutalaṃ",
-"quick_gloss": "bottom-world"
+"quick_gloss": "sutala"
 },
 {
 "surface": "jānusīmasthaṃ",
-"quick_gloss": "at-knees"
+"quick_gloss": "knee-placed"
 },
 {
 "surface": "jaṃghāyāṃ",
-"quick_gloss": "in-calf"
-},
-{
-"surface": "tu",
-"quick_gloss": "tu"
+"quick_gloss": "calf"
 },
 {
 "surface": "talātalam",
@@ -225,19 +229,19 @@
 "tokens": [
 {
 "surface": "pādayostu",
-"quick_gloss": "on-feet"
+"quick_gloss": "feet"
 },
 {
 "surface": "tale",
-"quick_gloss": "sole"
+"quick_gloss": "below"
 },
 {
 "surface": "proktā",
-"quick_gloss": "called"
+"quick_gloss": "said"
 },
 {
 "surface": "mahāpātālasaṃjñikaḥ",
-"quick_gloss": "great-pātāla"
+"quick_gloss": "mahāpātāla"
 }
 ]
 },
@@ -250,15 +254,19 @@
 "tokens": [
 {
 "surface": "maṇipūre",
-"quick_gloss": "in-maṇipūra"
+"quick_gloss": "maṇipūra"
 },
 {
 "surface": "suvarlokaḥ",
-"quick_gloss": "suvar-loka"
+"quick_gloss": "svarga"
 },
 {
 "surface": "maharlokastvanāhate",
-"quick_gloss": "mahar-loka"
+"quick_gloss": "maharloka"
+},
+{
+"surface": "anāhate",
+"quick_gloss": "anāhata"
 }
 ]
 },
@@ -308,7 +316,7 @@
 },
 {
 "surface": "ca",
-"quick_gloss": "ca"
+"quick_gloss": "also"
 },
 {
 "surface": "tīrthāni",
@@ -320,7 +328,7 @@
 },
 {
 "surface": "tu",
-"quick_gloss": "tu"
+"quick_gloss": "indeed"
 }
 ]
 },
@@ -334,6 +342,10 @@
 {
 "surface": "badaryāśramamuṣṇāṃbu",
 "quick_gloss": "badarī-āśrama"
+},
+{
+"surface": "uṣṇāṃbu",
+"quick_gloss": "hot-water"
 },
 {
 "surface": "śītāṃbu",
@@ -362,7 +374,7 @@
 },
 {
 "surface": "ca",
-"quick_gloss": "ca"
+"quick_gloss": "also"
 },
 {
 "surface": "piṭhāni",
@@ -374,7 +386,7 @@
 },
 {
 "surface": "ca",
-"quick_gloss": "ca"
+"quick_gloss": "also"
 }
 ]
 },
@@ -416,7 +428,7 @@
 "tokens": [
 {
 "surface": "astipaṃcadaśāloka",
-"quick_gloss": "there-is-fifteen-worlds"
+"quick_gloss": "there-is-fifteen-loka"
 },
 {
 "surface": "ānaṃdamaya",
@@ -437,7 +449,7 @@
 "tokens": [
 {
 "surface": "sadāśṛṃgāra",
-"quick_gloss": "always-śṛṅgāra"
+"quick_gloss": "ever-ornamented"
 },
 {
 "surface": "saṃpannaḥ",
@@ -445,7 +457,7 @@
 },
 {
 "surface": "sadā",
-"quick_gloss": "always"
+"quick_gloss": "ever"
 },
 {
 "surface": "bhoga+parāyaṇaḥ",
@@ -462,11 +474,11 @@
 "tokens": [
 {
 "surface": "tatrānaṃda",
-"quick_gloss": "there"
+"quick_gloss": "there-bliss"
 },
 {
 "surface": "mahāloke",
-"quick_gloss": "great-world"
+"quick_gloss": "great-loka"
 },
 {
 "surface": "paramāmṛtarūpadhṛk",
@@ -491,7 +503,11 @@
 },
 {
 "surface": "samākrāṃtadigaṃtaraḥ",
-"quick_gloss": "pervading-digantara"
+"quick_gloss": "pervading"
+},
+{
+"surface": "digaṃtaraḥ",
+"quick_gloss": "directions"
 }
 ]
 },
@@ -533,7 +549,7 @@
 },
 {
 "surface": "jagadānaṃdadāyakaḥ",
-"quick_gloss": "world-bliss-giver"
+"quick_gloss": "world-bliss-giving"
 }
 ]
 },
@@ -578,12 +594,16 @@
 "quick_gloss": "devotee-body"
 },
 {
+"surface": "naiva",
+"quick_gloss": "not"
+},
+{
 "surface": "nindanīyaṃ",
-"quick_gloss": "not-to-be-blamed"
+"quick_gloss": "blamable"
 },
 {
 "surface": "jaḍātmabhiḥ",
-"quick_gloss": "by-inert-souls"
+"quick_gloss": "by-dull-souls"
 }
 ]
 },
@@ -612,7 +632,7 @@
 },
 {
 "surface": "padāṃ+padam",
-"quick_gloss": "step-by-step"
+"quick_gloss": "foot-by-foot"
 }
 ]
 }

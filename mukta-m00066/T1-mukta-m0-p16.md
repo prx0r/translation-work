@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p16-v376
-[unafflictedness](akliṣṭatā) [nourishment](puṣṭatā) [and](ca) [chariot](ratha)+[rim](nemi)+[evenness](samānatā)
+unblemishedness fullness and wheel-rim-evenness
 
 ## mukta-m0-p16-v377
-[serpent-hood](phaṇiśīrṣa)+[evenness](samānatvaṃ) [clarity](prasanna)+[fluidity](dravatā) [and](tathā)
+snake-hood-evenness clarity-fluidity and-so
 
 ## mukta-m0-p16-v378
-[all](sarva)+[marks](lakṣaṇa)+[endowment](yuktatvaṃ) [family-mark](kulakṣaṇa)+[absence](vihīnatā)
+all-marks endowedness family-mark-absence
 
 ## mukta-m0-p16-v379
-[of-refinement](saṃskārasya) [greatness](mahimneva) [shine](bhāsaṃte) [those](te) [qualities](guṇāḥ) [beloved](priye)
+of-refinement greatness-as shine they qualities dear
 
 ## mukta-m0-p16-v380
-[refinement](saṃskāropi) [all](samastāni) [things](vastūninyāvasetpriye)
+refinement-even all things places dear
 
 ## mukta-m0-p16-v381
-[all-auspiciousness](sarvasaubhāgyajanakaṃ) [all-accomplishment](sarvasiddhi)+[great-foot](mahāpadaṃ)
+all-auspiciousness-causing all-accomplishment-great-step
 
 ## mukta-m0-p16-v382
-[bliss](ānaṃda) [bhairava](bhairavasya)+[worship](arcā)+[means](sādhanaṃ) [world-enchanting](viśvamohanam)
+bliss-bhairava worship-means world-enchanting
 
 ## mukta-m0-p16-v383
-[beautiful](suśobhadakramagrāsī) [all](samastāpannikṛṃtanam)
+beautiful-tooth-row all-pain-cutting
 
 ## mukta-m0-p16-v384
-[of-house](veśmacaṃdrakalānāṃ) [ca](ca) [dwelling](sadma)+[auspiciousness](saubhāgya)+[prosperity](saṃpadām)
+house-moon-crescents and abode-auspiciousness-prosperity
 
 ## mukta-m0-p16-v385
-[all-disease](samastarogajanakaṃ) [misfortune](daurbhāgyasyapravartakam)
+all-disease-causing misfortune-promoting
 
 ## mukta-m0-p16-v386
-[people](loka)+[reproach](upakrośa)+[causing](janakaṃ) [world](loka)+[contempt](dhikkāra)+[giving](dāyakam)
+people-reproach-causing people-contempt-giving
 
 ## mukta-m0-p16-v387
-[foamy](phelinaṃ) [destroyed](naṣṭam)+[leftover](ucchiṣṭam)+[degraded](apakṛṣṭaṃ) [rubbed](vicarcitam)
+foamy lost leavings degraded rubbed
 
 ## mukta-m0-p16-v388
-[inside](aṃtaḥ) [rough](karkkaśa)+[skin](carmāḍhyamaṃtargojihvayānvitam)
+inside rough-skin-rich inside-tongue-having
 
 ## mukta-m0-p16-v389
-[itch](pāma)+[itching](kaṇḍū)+[abundant](pracuritaṃ) [sinful](pāpiṣṭaṃ) [called](kathitaṃ) [fluid](dravam)
+itch-scabies-abundant sinful said liquid
 
 ## mukta-m0-p16-v390
-[own](svakīya) [body](vapure) [vai](vai) [that](tat) [worship](pūjā)+[means](sādhanamiṣyate)
+own body indeed that worship-means desired
 
 ## mukta-m0-p16-v391
-[approaches](sannidhatte) [supreme](paraḥ)+[directly](sākṣād)+[bliss](ānaṃda)+[non-dual](advaita)+[form-bearing](rūpadhṛt)
+present supreme directly bliss-nondual form-bearing
 
 ## mukta-m0-p16-v392
-[of-messenger](dūtī) [mouth](mukhasya) [refinement](saṃskāraḥ) [is-said](kathyate) [listen](śṛṇusaṃdari)
+messenger-mouth refinement said listen beautiful
 
 ## mukta-m0-p16-v393
-[stimulation](uttejanaṃ) [ca](ca) [by-weapon](śastreṇa) [purification](nirmalīkaraṇaṃ) [again](punaḥ)
+stimulation and by-weapon purification again
 
 ## mukta-m0-p16-v394
-[oil](taila)+[gargling](gaṇḍuṣaṇāt) [beauty](kāṃtirdaṃtānāmupajāyate)
+oil-gargling by teeth radiance arises
 
 ## mukta-m0-p16-v395
-[three-pungents](trikaṭu) [three-fruits](triphalāmāṃsi) [jaggery](guḍa)+[bark](tvak)+[leaves](patra)+[filaments](kesaraiḥ)
+trikatu triphala meats gud-tvak-patra-kesara
 
 ## mukta-m0-p16-v396
-[making](kṛtvākṣa) [eye-like](sadṛśān) [balls](piṇḍān) [that](taṃ) [first](pūrvaṃ) [messenger](dūtikāgilet)
+making pea-sized pills that first messenger swallows
 
 ## mukta-m0-p16-v397
-[by-impurity](malenaivāpa) [created](sṛṣṭānāṃ) [all](sarveṣāṃ) [pacification](śamanaṃ) [becomes](bhavet)
+by-filth-created all pacification becomes
 
 ## mukta-m0-p16-v398
-[to-be-rubbed](mardaniyaṃ) [with-effort](prayatnena) [pill](guṭikākārayedbudhaḥ)
+rubbing carefully pill make wise
 
 ## mukta-m0-p16-v399
-[messenger](pūtikāmati) [fragrance](saurabhya) [saliva-mouth](śālivaktraṃ) [arranges](prakalpayet)
+messenger fragrance salivary-mouth prepares
 
 ## mukta-m0-p16-v400
-[thus](itthaṃ) [body-refinement](śarīrasaṃskāro) [external-internal](bāhyābhyaṃtara) [declared](īritaḥ)
+thus body-refinement external-internal declared
