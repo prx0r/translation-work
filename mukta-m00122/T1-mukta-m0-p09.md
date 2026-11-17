@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p09-v201
-[thus](evaṃ) [occasional](naimittikaṃ) [perpetual](nityam) [uninterrupted](avicchinnaṃ) [should-practice](samācaret)
+[thus](evaṃ) [occasional](naimittikaṃ) [eternal](nityam) [uninterrupted](avicchinnaṃ) [should-practice](samācaret)
 
 ## mukta-m0-p09-v202
 [in-support](ādhāre) [heart](hṛdaye) [head](śīrṣe) [fire](vahnau) [sun](sūrye) [moon](niśākare)
 
 ## mukta-m0-p09-v203
-[should-place](nyasecca) [mātṛkā-place](mātṛkāsthāne) [then](tadā) [body-perfection](taddehasiddhaye)
+[should-place-and](nyasecca) [mother-letter-place](mātṛkāsthāne) [then](tadā) [body-perfection-for](taddehasiddhaye)
 
 ## mukta-m0-p09-v204
-[at-kuhū](kuhūprāptau) [enemy-distress](ripukleśe) [should-do](kuryāt) [eva](evā) [consecration](abhiṣecanam)
+[kuhū-arrival](kuhūprāptau) [enemy-distress](ripukleśe) [should-do-indeed](kuryādeva) [consecration](abhiṣecanam)
 
 ## mukta-m0-p09-v205
-[small](kṣudrāṇi) [cruel-acts](krūrakarmāṇi) [witchcrafts](kṛtyāśca) [enemy-devised](ripukalpitāḥ)
+[small](kṣudrāṇi) [cruel-acts](krūrakarmāṇi) [witchcrafts-and](kṛtyāśca) [enemy-devised](ripukalpitāḥ)
 
 ## mukta-m0-p09-v206
-[śrī-cakra](śrīcakre) [one](ekaṃ) [or](veti) [side](pakṣaḥ) [desired-object](kāmyaviṣayaḥ)
+[in-sri-cakra](śrīcakre) [one](ekaṃ) [or-thus](veti) [side](pakṣaḥ) [desired-object](kāmyaviṣayaḥ)
 
 ## mukta-m0-p09-v207
-[śrīvidyā](śrīvidyāṃ) [should-place](nyased) [iti](itya) [also](pi) [upakrama](upakvaraḥ) [tradition](sampradāyaḥ)
+[sri-vidya](śrīvidyāṃ) [place-thus-also](nyasedityapyupakvaraḥ) [tradition](sampradāyaḥ)
 
 ## mukta-m0-p09-v208
-[contraction-sorrow](saṃkucitatvaduḥkhārttiḥ)
+[contractedness-suffering-distress](saṃkucitatvaduḥkhārttiḥ)
 
 ## mukta-m0-p09-v209
-[tell](brūhi) [me](me) [that](tad) [power](balaṃ) [by-which](yena) [distresses](kleśāḥ) [perish](naśyanti) [entirely](aśeṣataḥ)
+[tell](brūhi) [me](me) [that-power](tadbalaṃ) [by-which](yena) [afflictions](kleśā) [perish-completely](naśyantyaśeṣataḥ)
 
 ## mukta-m0-p09-v210
-[perish](naśyanti) [entirely](aśeṣataḥ) [faults](doṣāḥ) [therefore](tasmāt) [consecration-like](sekasamo) [not](na) [indeed](hi)
+[perish-completely](naśyantyaśeṣato) [faults](doṣāḥ) [therefore](tasmāt) [consecration-equal](sekasamo) [not-indeed](na hi)
 
 ## mukta-m0-p09-v211
-[therefore](tasmāt) [all-sorrow](aśeṣaduḥkhārti) [pacification](śāntyai) [should-be](syāt) [consecration](abhiṣecanam)
+[therefore](tasmāt) [all-suffering-distress-peace-for](aśeṣaduḥkhārtiśāntyai) [should-be](syāt) [consecration](abhiṣecanam)
 
 ## mukta-m0-p09-v212
-[should-do](kuryāt) [with-dakṣiṇā](sadakṣiṇāṃ) [worship](pūjāṃ) [guru's](guroḥ) [yearly](pratyabdameva) [or](vā)
+[should-do](kuryāt) [with-dakshina](sadakṣiṇāṃ) [worship](pūjāṃ) [guru](guroḥ) [yearly-or](pratyabdameva vā)
 
 ## mukta-m0-p09-v213
-[consecrated](abhiṣiktastu) [by-rite](vidhinā) [should-give](pradadyāt) [dakṣiṇā](dakṣiṇāṃ) [guru's](guroḥ)
+[consecrated-but](abhiṣiktastu) [by-rite](vidhinā) [should-give](pradadyāt) [dakshina](dakṣiṇāṃ) [to-guru](guroḥ)
 
 ## mukta-m0-p09-v214
-[guru's-guru](gurorguruṃ) [that-guru](tadguruṃ) [ca](ca) [before-self](svāgrato) [from-knowledge-gained](labdhavidyakāt)
+[guru's-guru](gurorguruṃ) [that-guru](tadguruṃ) [and](ca) [from-own-front](svāgrato) [obtained-knowledge-from](labdhavidyakāt)
 
 ## mukta-m0-p09-v215
 [should-please](toṣayed) [otherwise](anyathā) [power](śaktiḥ) [own](svīyā) [that-going](tadgāminī) [becomes](bhavet)
 
 ## mukta-m0-p09-v216
-[with-clay](paṅkair) [should-make](vidadhyāt) [everywhere](sarvatra) [guru-maṇḍala](gurumaṇḍalakalpanam)
+[with-mud](paṅkair) [should-make](vidadhyāt) [everywhere](sarvatra) [guru-mandala-construction](gurumaṇḍalakalpanam)
 
 ## mukta-m0-p09-v217
 [mind-following](cittānuvṛttiḥ) [own](svīyā) [disciple-gone](śiṣyagatā) [that-going](tadgāminī) [guru-going](gurugāminī)
 
 ## mukta-m0-p09-v218
-[should-hold](dhārayet) [everywhere](sarvato) [prosperity](lakṣmīṃ) [from-rasa](rasasyāt) [supreme-goddess](parameśvarī)
+[should-hold](dhārayet) [everywhere](sarvato) [lakshmi](lakṣmīṃ) [from-essence](rasasyāt) [supreme-goddess](parameśvarī)
 
 ## mukta-m0-p09-v219
-[declared](proktāni) [those](tāni) [all](sarvāṇi) [lotuses](padmāni) [should-arrange](parikalpayet)
+[spoken](proktāni) [those](tāni) [all](sarvāṇi) [lotuses](padmāni) [should-arrange](parikalpayet)
 
 ## mukta-m0-p09-v220
-[guru's-divine-self](devyātmatvaṃ) [having-obtained](gurorlabdhvā) [twelve-verse](ślokadvādaśakaṃ) [should-chant](japet)
+[goddess-selfhood](devyātmatvaṃ) [guru's](guror) [having-obtained](labdhvā) [twelve-verse](ślokadvādaśakaṃ) [should-chant](japet)
 
 ## mukta-m0-p09-v221
-[goddess](devīṃ) [mantra-formed](mantramayīṃ) [I-bow](naumi) [mātṛkā](mātṛkāṃ) [pīṭha-formed](pīṭharūpiṇīm)
+[goddess](devīṃ) [mantra-formed](mantramayīṃ) [I-salute](naumi) [mother-letter](mātṛkāṃ) [pedestal-formed](pīṭharūpiṇīm)
 
 ## mukta-m0-p09-v222
-[time-destroying](kālahallohalollolakalanāśamakāriṇīm)
+[time-destruction-causing](kālahallohalollolakalanāśamakāriṇīm)
 
 ## mukta-m0-p09-v223
 [supreme-meaning](paramārthaṃ) [having-understood](budhvā) [thus-meaning](ityarthaḥ)
 
 ## mukta-m0-p09-v224
-[sun-garuḍa-moon-cupid-śaṅkara-fire-viṣṇu](ravitārkṣyendukandarpaśaṅkarānalaviṣṇubhiḥ)
+[sun](ravitārkṣyendukandarpaśaṅkarānalaviṣṇubhiḥ)
 
 ## mukta-m0-p09-v225
-[I-bow](vande) [all-lady](sarveśvarīṃ) [goddess](devīṃ) [great-śrī-siddha-mātṛkā](mahāśrīsiddhamātṛkām)
+[I-salute](vande) [all-lady](sarveśvarīṃ) [goddess](devīṃ) [great-sri-siddha-mother-letter](mahāśrīsiddhamātṛkām)

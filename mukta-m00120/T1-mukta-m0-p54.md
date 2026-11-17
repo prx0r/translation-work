@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p54-v1326
-śiva-i-am thus having-thought and sexual-union my approved
+[śivaḥ-aham](śivo'ham) [iti](iti) [matvā](matvā) [ca](ca) [ramaṇam](ramaṇaṃ) [mama](mama) [sammatam](sammatam)
 
 ## mukta-m0-p54-v1327
-yoni knowledge without deva sexual-union not auspicious-giving
+[yoniḥ](yoni) [jñānam](jñānaṃ) [vinā](vinā) [deva](deva) [maithunam](maithunaṃ) [na](na) [śubha-pradam](śubha pradam)
 
 ## mukta-m0-p54-v1328
-middle goddess worship song drink dance japa-practice
+[madhye](madhye) [devīm](devīṃ) [yajet](yajed) [gānam](gānaṃ) [pānam](pānaṃ) [nṛtyam](nṛtyaṃ) [japaṃ+caret](japañcaret)
 
 ## mukta-m0-p54-v1329
-whose awakening in-body embodied brahma-filled becomes
+[yasya-avabodhanāt](yasyāvabodhanāt) [dehe](dehe) [dehī](dehī) [brahma-mayaḥ](brahma mayo) [bhavet](bhavet)
 
 ## mukta-m0-p54-v1330
-not to-be-spoken ever to-pashanda atheist man
+[na](na) [vaktavyam](vaktavyaṃ) [kadācit](kadācit) [tu](tu) [pāṣaṇḍe](pāṣaṇḍe) [nāstike](nāstike) [nare](nare)
 
 ## mukta-m0-p54-v1331
-by-recitation deva liberated-while-living also becomes
+[asya](asya) [prapaṭhanāt](prapaṭhanāt) [deva](deva) [jīvanmuktaḥ+api](jīvanmukto'pi) [jāyate](jāyate)
 
 ## mukta-m0-p54-v1332
-ten-vidyas form self yoni me protect always
+[daśa-vidyā-svarūpa-ātmā](daśavidyāsvarūpātmā) [yoniḥ](yoniḥ) [mām](māṃ) [pātu](pātu) [sarvadā](sarvadā)
 
 ## mukta-m0-p54-v1333
-world-bliss born yoni me protect always
+[jagad-ānanda-saṃbhūtā](jagadānanda saṃbhūtā) [yoniḥ](yoniḥ) [mām](māṃ) [pātu](pātu) [sarvadā](sarvadā)
 
 ## mukta-m0-p54-v1334
-brahma vishnu shiva life-breaths yoni me protect always
+[brahma-viṣṇu-śiva-prāṇāḥ](brahma viṣṇu śiva prāṇā) [yoniḥ](yoniḥ) [mām](māṃ) [pātu](pātu) [sarvadā](sarvadā)
 
 ## mukta-m0-p54-v1335
-enjoyment liberation giving yoni yoni me protect always
+[bhukti-mukti-pradā](bhukti mukti pradā) [yoniḥ](yoniḥ) [yoniḥ+mām](yonirmāṃ) [pātu](pātu) [sarvadā](sarvadā)
 
 ## mukta-m0-p54-v1336
-always
+[sarvadā](sarvadā)
 
 ## mukta-m0-p54-v1337
-pleasure-giving love-house yoni me protect always
+[sukha-dā](sukhadā) [madana-āgārā](madanāgārā) [yoniḥ](yoniḥ) [mām](māṃ) [pātu](pātu) [sarvadā](sarvadā)
 
 ## mukta-m0-p54-v1338
-mind-stealing sorrow-giving yoni me protect always
+[mano-harā](manoharā) [duḥkha-labhā](duḥkha labhā) [yoniḥ](yoniḥ) [mām](māṃ) [pātu](pātu) [sarvadā](sarvadā)
 
 ## mukta-m0-p54-v1339
-all birth-maker you yoni me protect always
+[sarva-prasava-kartrī](sarva prasavakartrī) [tvam](tvaṃ) [yoniḥ](yoniḥ) [mām](māṃ) [pātu](pātu) [sarvadā](sarvadā)
 
 ## mukta-m0-p54-v1340
-all house-body situated yoni yoni me protect always
+[sarva-gehe](sarva gehe) [sthitā](sthitā) [yoniḥ+yoniḥ+mām](yoniryonirmāṃ) [pātu](pātu) [sarvadā](sarvadā)
 
 ## mukta-m0-p54-v1341
-health-giving hero devoted five elements joined always
+[ārogya-dā](ārogyadā) [vīra-ratā](vīra ratā) [pañca-tatva-yutā](pañca tatva yutā) [sadā](sadā)
 
 ## mukta-m0-p54-v1342
-shakti-form great-goddess his house always firm
+[śakti-rūpā](śaktirūpā) [mahādevī](mahādevī) [tasya](tasya) [gehe](gehe) [sadā](sadā) [sthirā](sthirā)
 
 ## mukta-m0-p54-v1343
-liberation unbroken
+[muktiḥ-akhaṇḍitā](muktirakhaṇḍitā)
 
 ## mukta-m0-p54-v1344
-truth truth again truth my-word vain not
+[satyam](satyaṃ) [satyam](satyaṃ) [punaḥ](punaḥ) [satyam](satyaṃ) [mama-vākyam](mamavākyaṃ) [vṛthā](vṛthā) [na+hi](nahi)
 
 ## mukta-m0-p54-v1345
-folded-hands cup becoming recite hymn sky-clad
+[kṛta-añjali-puṭaḥ+bhūtvā](kṛtāñjali puṭobhūtvā) [paṭhet](paṭhet) [stotram](stotraṃ) [digambara](digambara)
 
 ## mukta-m0-p54-v1346
-or-otherwise
+[cānyathā](cānyathā)
 
 ## mukta-m0-p54-v1347
-otherwise worship deva sexual-union death becomes
+[anyathā](anyathā) [pūjanāt](pūjanāt) [deva](deva) [ramaṇam](ramaṇaṃ) [maraṇam](maraṇaṃ) [bhavet](bhavet)
 
 ## mukta-m0-p54-v1348
-night before shakti he shiva no here doubt
+[niśāyām](niśāyāṃ) [sammukhe](sammukhe) [śaktyāḥ](śaktyāḥ) [saḥ](sa) [śivaḥ](śivaḥ) [na+atra](nātra) [saṃśayaḥ](saṃśayaḥ)
 
 ## mukta-m0-p54-v1349
-left-hand to-be-given secret etc mantra preceded
+[vāma-haste](vāmahaste) [pradātavyam](pradātavyaṃ) [guhya-ādi-mantra-pūrvakam](guhyā di mantra pūrvakam)
 
 ## mukta-m0-p54-v1350
-pilgrimage bath thousand crore fruit-giving shrichakra foot-water
+[tīrtha-snāna-sahasra-koṭi-phaladam](tīrtha snāna sahasra koṭi phaladaṃ) [śrīcakra-pādodakam](śrīcakra pādodakam)

@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p70-v1726
-[of-the-indifferent](udāsināṃ) [cremation-ground-and](śmaśānañca) [of-householders](gṛhiṇām) [should-worship](arccayed) [yoni](bhagam)
+[udāsinām](udāsināṃ) [śmaśānañca](śmaśānañca) [gṛhiṇām](gṛhiṇām) [arcayet+bhagam](arccayedbhagam)
 
 ## mukta-m0-p70-v1727
-[from-corpse-mounted](śavārūḍhāt) [likewise](tathā) [O-goddess](devi) [entitled-to-mount-the-yoni](bhagārūḍhādhikārakaḥ)
+[śava-ārūḍhāt](śavārūḍhāt) [tathā](tathā) [devi](devi) [bhaga-ārūḍha-adhikārakaḥ](bhagārūḍhādhikārakaḥ)
 
 ## mukta-m0-p70-v1728
-[pyre](citā) [manifest](vyaktā) [even](api) [O-lord-of-gods](deveśi) [hidden-yoni](guptayonī) [thus](iti) [proclaimed](kīrtitā)
+[citā](citā) [vyaktā](vyaktā) [api](api) [deveśi](deveśi) [gupta-yoni+iti](guptayonīti) [kīrtitā](kīrtitā)
 
 ## mukta-m0-p70-v1729
-[by-kalā-liquor-union](kalāvāsava+yogena) [digit](kalā) [worship](pūjāṃ) [should-arrange](prakalpayet)
+[kalā-vāsava-yogena](kalāvāsava yogena) [kalā-pūjām](kalā pūjāṃ) [prakalpayet](prakalpayet)
 
 ## mukta-m0-p70-v1730
-[without-intercourse](maithunena+vinā) [O-goddess](devi) [wine-drinking](madyapānaṃ) [not](na) [should-practice](cācaret)
+[maithunena](maithunena) [vinā](vinā) [devi](devi) [madya-pānam](madyapānaṃ) [na](na) [ca-ācaret](cācaret)
 
 ## mukta-m0-p70-v1731
-[corpse-of-the-dead](gatāsūnaśavaḥ) [declared](prokto) [wine](madya) [drink-liquor](pānāsavaḥ) [beloved](priye)
+[gata-asūna-śavaḥ](gatāsūnaśavaḥ) [proktaḥ](prokto) [madya-pāna-āsavaḥ](madya pānāsavaḥ) [priye](priye)
 
 ## mukta-m0-p70-v1732
-[on-corpse-seat](śavāsane) [act-of-difference](bhedakāryam) [non-difference](abhedam) [on-liquor-seat](āsavāsane)
+[śava-āsane](śavāsane) [bheda-kāryam](bhedakāryam) [abheda+āsava-āsane](abhedamāsavāsane)
 
 ## mukta-m0-p70-v1733
-[by-merely-seeing-śakti](śaktidarśanamātreṇa) [even](api) [of-the-indifferent](udāsināṃ) [action](kriyā) [destruction](kṣayaḥ)
+[śakti-darśana-mātreṇa-api](śaktidarśanamātreṇāpy) [udāsinām](udāsināṃ) [kriyā](kriyā) [kṣayaḥ](kṣayaḥ)
 
 ## mukta-m0-p70-v1734
-[of-man](puruṣasya) [seat](āsanaṃ) [śakti](śaktiḥ) [of-śakti](śakteḥ) [man](puruṣa) [body](dehakam)
+[puruṣasya-āsanam](puruṣasyāsanaṃ) [śaktiḥ](śaktiḥ) [śakteḥ](śakteḥ) [puruṣa-dehakam](puruṣa dehakam)
 
 ## mukta-m0-p70-v1735
-[thus](iti) [by-Śrī-Sarvānandanātha](śrīsarvānandanātha) [composed](viracite) [in-Sarvollāsa](sarvollāse) [sixty-first-chapter](ekaṣaṣṭyullāsaḥ)
+[iti](iti) [śrī-sarvānanda-nātha](śrīsarvānandanātha) [viracite](viracite) [sarvollāse](sarvollāse) [eka-ṣaṣṭi-ullāsaḥ](ekaṣaṣṭyullāsaḥ)
 
 ## mukta-m0-p70-v1736
-[vain](vṛthā) [worship](pūjā) [becomes](bhavet) [his](tasya) [not](na) [seed](bījaṃ) [water](jala) [sprinkling](secanam)
+[vṛthā](vṛthā) [pūjā](pūjā) [bhavet+tasya](bhavettasya) [na](na) [bījam](bījaṃ) [jala-secanam](jala secanam)
 
 ## mukta-m0-p70-v1737
-[union-with-śakti](śaktisaṅgamam)
+[śakti-saṅgamam](śaktisaṅgamam)
 
 ## mukta-m0-p70-v1738
-[vain](vṛthā) [knowledge](jñānaṃ) [becomes](bhavet) [his](tasya) [among-śaktis](śaktiṣu) [union-with-śakti](śaktisaṅgamam)
+[vṛthā](vṛthā) [jñānam](jñānaṃ) [bhavet+tasya](bhavettasya) [śaktiṣu](śaktiṣu) [śakti-saṅgamam](śaktisaṅgamam)
 
 ## mukta-m0-p70-v1739
-[they](te) [knowers-of-Brahman](brahmajñāninaḥ) [being](santaḥ) [Prakṛti](prakṛtiṃ) [of-soul-nature](puruṣātmakam)
+[te](te) [brahma-jñāninaḥ](brahmajñāninaḥ) [santaḥ](santaḥ) [prakṛtim](prakṛtiṃ) [puruṣa-ātmakam](puruṣātmakam)
 
 ## mukta-m0-p70-v1740
-[of-both](ubhayoḥ) [by-knowledge-yoga](jñānayogena) [knower-of-Brahman](brahmajānī) [thus](iti) [certain](niścitam)
+[ubhayoḥ-jñāna-yogena](ubhayorjñānayogena) [brahma-jānīti](brahmajānīti) [niścitam](niścitam)
 
 ## mukta-m0-p70-v1741
-[of-both](ubhayoḥ) [by-one-nature](ekabhāvena) [knower-of-Brahman](brahmajñānī) [thus](iti) [certain](niścitam)
+[ubhayoḥ-eka-bhāvena](ubhayorekabhāvena) [brahma-jñānīti](brahmajñānīti) [niścitam](niścitam)
 
 ## mukta-m0-p70-v1742
-[that-itself](saiva) [yoni](yoni) [nature](svarūpā) [and](ca) [world-creation](jagadutpatti) [doer](kāriṇī)
+[sa-eva](saiva) [yoni](yoni) [svarūpā](svarūpā) [ca](ca) [gh: sā](gh: sā) [jagad-utpatti-kāriṇī](jagadutpatti kāriṇī)
 
 ## mukta-m0-p70-v1743
-[Brahmā](brahma) [Viṣṇu](viṣṇu) [etc-of-Śiva](śivādīnāṃ) [roots](mūlāḥ) [sattva-etc](sattvādayo) [qualities](guṇāḥ)
+[brahma](brahma) [viṣṇu](viṣṇu) [śiva-ādīnām](śivādīnāṃ) [mūlāḥ](mūlāḥ) [sattva-ādayaḥ](sattvādayo) [guṇāḥ](guṇāḥ)
 
 ## mukta-m0-p70-v1744
-[gross](sthūla) [subtle-made](sūkṣmamayaṃ) [light](jyotir) [pervaded](vyāpitā) [Prakṛti](prakṛtiḥ) [situated](sthitā)
+[sthūla](sthūla) [sūkṣma-mayam](sūkṣmamayaṃ) [jyotiḥ-vyāpitā](jyotirvyāpitā) [prakṛtiḥ](prakṛtiḥ) [sthitā](sthitā)
 
 ## mukta-m0-p70-v1745
-[denotative](vācakam)
+[vācakam](vācakam)
 
 ## mukta-m0-p70-v1746
-[again](punaḥ) [dissolves](pralīyate) [of-whom](yasyā) [in-her](tasyāṃ) [and-of-her](tasyāśca) [is-born](jāyate) [again](punaḥ)
+[punaḥ](punaḥ) [pralīyate](pralīyate) [yasyā](yasyā) [gh, j: tasyāṃ](gh, j: tasyāṃ) [tasyāḥ-ca](tasyāśca) [jāyate](jāyate) [punaḥ](punaḥ)
 
 ## mukta-m0-p70-v1747
-[modification](vikṛtiḥ) [Prakṛti](prakṛtim) [having-attained](āpanne) [then](tataḥ) [nothing](kiñcinna) [sees](paśyati)
+[vikṛtiḥ](vikṛtiḥ) [prakṛtim-āpanne](prakṛtimāpanne) [tataḥ](tataḥ) [kiñcit-na](kiñcinna) [paśyati](paśyati)
 
 ## mukta-m0-p70-v1748
-[not-entitled](nādhikāritāḥ)
+[nādhikāritāḥ](nādhikāritāḥ) [j: nādhikāriṇaḥ](j: nādhikāriṇaḥ)
 
 ## mukta-m0-p70-v1749
-[in-three-guṇas](triguṇe) [even](api) [one-nature](ekabhāvo) [even](api) [and-guṇa](guṇaśca) [by-whom](kena) [arises](jāyate)
+[tri-guṇe-api](triguṇe'py) [eka-bhāvaḥ-api](ekabhāvo'pi) [guṇaḥ-ca](guṇaśca) [kena](kena) [jāyate](jāyate)
 
 ## mukta-m0-p70-v1750
-[by-one-nature](ekabhāvena) [Prakṛti](prakṛtiḥ) [chickpea-shaped](caṇakākāra) [form](rūpakaḥ)
+[eka-bhāvena](ekabhāvena) [prakṛtiḥ+caṇaka-ākāra](prakṛtiścaṇakākāra) [rūpakaḥ](rūpakaḥ)

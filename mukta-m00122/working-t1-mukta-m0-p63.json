@@ -11,20 +11,20 @@
 "quick_gloss": "this"
 },
 {
-"surface": "tāmra-tale",
-"quick_gloss": "copper-plate"
+"surface": "tāmra",
+"quick_gloss": "copper"
+},
+{
+"surface": "tale",
+"quick_gloss": "on-plate"
 },
 {
 "surface": "kṛtvā",
-"quick_gloss": "having-made"
+"quick_gloss": "having-done"
 },
 {
-"surface": "sthāpayet",
-"quick_gloss": "place"
-},
-{
-"surface": "abhivṛddhaye",
-"quick_gloss": "for-increase"
+"surface": "sthāpayet+abhivṛddhaye",
+"quick_gloss": "establish-for-growth"
 }
 ]
 },
@@ -41,7 +41,11 @@
 },
 {
 "surface": "kṛtvā",
-"quick_gloss": "having-made"
+"quick_gloss": "having-done"
+},
+{
+"surface": "ca",
+"quick_gloss": "and"
 },
 {
 "surface": "vidyāyāḥ",
@@ -81,7 +85,7 @@
 "quick_gloss": "side-corners"
 },
 {
-"surface": "dve dve",
+"surface": "dve+dve",
 "quick_gloss": "two-two"
 },
 {
@@ -139,12 +143,8 @@
 "quick_gloss": "or"
 },
 {
-"surface": "dhārayet",
-"quick_gloss": "wear"
-},
-{
-"surface": "sadyaḥ",
-"quick_gloss": "immediately"
+"surface": "dhārayet+sadyo",
+"quick_gloss": "wear-immediately"
 },
 {
 "surface": "vallabhā",
@@ -169,7 +169,7 @@
 "tokens": [
 {
 "surface": "vṛttāṣṭapatra",
-"quick_gloss": "circle-eight-petaled"
+"quick_gloss": "circle-eight-petal"
 },
 {
 "surface": "yuktāni",
@@ -235,7 +235,7 @@
 "tokens": [
 {
 "surface": "rephāṃśena",
-"quick_gloss": "by-repha-portion"
+"quick_gloss": "by-ra"
 },
 {
 "surface": "kuryāt",
@@ -247,7 +247,7 @@
 },
 {
 "surface": "caturthasvarāṃśena",
-"quick_gloss": "fourth-vowel-portion"
+"quick_gloss": "by-fourth-vowel"
 },
 {
 "surface": "kuryāt",
@@ -264,7 +264,7 @@
 "tokens": [
 {
 "surface": "karṇikārṇasya",
-"quick_gloss": "of-karṇikāra"
+"quick_gloss": "karṇikā-ear"
 },
 {
 "surface": "madhyastham",
@@ -272,7 +272,7 @@
 },
 {
 "surface": "kuryāt",
-"quick_gloss": "make"
+"quick_gloss": "do"
 },
 {
 "surface": "nāma",
@@ -301,7 +301,7 @@
 },
 {
 "surface": "kṛtvā",
-"quick_gloss": "having-made"
+"quick_gloss": "having-done"
 },
 {
 "surface": "tām",
@@ -309,7 +309,7 @@
 },
 {
 "surface": "teṣu",
-"quick_gloss": "those"
+"quick_gloss": "to-them"
 },
 {
 "surface": "yojayet",
@@ -330,7 +330,7 @@
 },
 {
 "surface": "abhiṣiñcet",
-"quick_gloss": "consecrate"
+"quick_gloss": "anoint"
 },
 {
 "surface": "ca",
@@ -341,8 +341,12 @@
 "quick_gloss": "japa"
 },
 {
-"surface": "iṣṭārthasiddhaye",
-"quick_gloss": "desired-goal"
+"surface": "iṣṭārtha",
+"quick_gloss": "desired-aim"
+},
+{
+"surface": "siddhaye",
+"quick_gloss": "for-accomplishment"
 }
 ]
 },
@@ -355,7 +359,7 @@
 "tokens": [
 {
 "surface": "koṣṭhāni",
-"quick_gloss": "cells"
+"quick_gloss": "compartments"
 },
 {
 "surface": "ṣoḍaśāni",
@@ -367,7 +371,7 @@
 },
 {
 "surface": "teṣu",
-"quick_gloss": "those"
+"quick_gloss": "in-them"
 },
 {
 "surface": "padmāni",
@@ -392,23 +396,23 @@
 },
 {
 "surface": "tu",
-"quick_gloss": "but"
+"quick_gloss": "tu"
 },
 {
 "surface": "sthāpayet",
-"quick_gloss": "place"
+"quick_gloss": "establish"
 },
 {
 "surface": "bhūmau",
-"quick_gloss": "earth"
+"quick_gloss": "on-ground"
 },
 {
-"surface": "sarvasampad",
-"quick_gloss": "all-wealth"
+"surface": "sarvasampada",
+"quick_gloss": "all-prosperity"
 },
 {
 "surface": "avāptaye",
-"quick_gloss": "attainment"
+"quick_gloss": "for-obtaining"
 }
 ]
 },
@@ -421,7 +425,7 @@
 "tokens": [
 {
 "surface": "asyāḥ",
-"quick_gloss": "of-her"
+"quick_gloss": "of-this"
 },
 {
 "surface": "niṣphālanāt",
@@ -466,11 +470,11 @@
 },
 {
 "surface": "prāguktā",
-"quick_gloss": "as-before"
+"quick_gloss": "previously-said"
 },
 {
 "surface": "siddhiḥ",
-"quick_gloss": "success"
+"quick_gloss": "accomplishment"
 },
 {
 "surface": "iti",
@@ -699,7 +703,7 @@
 },
 {
 "surface": "ityarthaḥ",
-"quick_gloss": "meaning"
+"quick_gloss": "iti-meaning"
 }
 ]
 },

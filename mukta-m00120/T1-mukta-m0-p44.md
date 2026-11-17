@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p44-v1076
-[then-by-command](tadājñayā) [enjoy](ramet) [power](śaktiṃ) [motherhood](mātṛbhāvaṃ) [abandon](parityajet)
+[then-by-command](tadājñayā) [let-him-enjoy](ramet) [power](śaktiṃ) [motherhood](mātṛbhāvaṃ) [let-him-abandon](parityajet)
 
 ## mukta-m0-p44-v1077
-[holy-teacher's-foot](śrīguroścaraṇaṃ) [meditating](dhyāyan) [own-head](svamūrdhni) [teacher-sandal](gurupādukām)
+[holy-teacher's](śrīguroś) [foot](caraṇaṃ) [meditating](dhyāyan) [own-head](svamūrdhni) [teacher's-sandal](gurupādukām)
 
 ## mukta-m0-p44-v1078
-[bliss-bhairava](ānandabhairavaṃ) [god](devaṃ) [chosen-knowledge](sveṣṭavidyāṃ) [indeed](hi) [satisfy](tarpayet)
+[bliss-bhairava](ānandabhairavaṃ) [god](devaṃ) [own-desired-vidyā](sveṣṭavidyāṃ) [indeed](hi) [let-him-satisfy](tarpayet)
 
 ## mukta-m0-p44-v1079
-[thousand-petaled](sahasrāre) [with-chosen-knowledge](sveṣṭavidyāsahitaṃ) [satisfy](tarpayed) [teacher](gurum)
+[in-thousand-petaled](sahasrāre) [own-desired-vidyā-with](sveṣṭavidyāsahitaṃ) [let-him-satisfy](tarpayed) [teacher](gurum)
 
 ## mukta-m0-p44-v1080
-[non-difference](abhede) [satisfy](tarpayed) [auspicious-one](bhadre) [thousand-petaled](sahasrāre) [great-city](mahāpure)
+[in-identity](abhede) [let-him-satisfy](tarpayed) [blessed-one](bhadre) [in-thousand-petaled](sahasrāre) [great-city](mahāpure)
 
 ## mukta-m0-p44-v1081
-[therefore](ataśca) [satisfy-gods](tarpayeddevān) [tantric](tāntrike) [vedic](vaidikeṣu) [and](ca)
+[therefore](ataśca) [let-him-satisfy-gods](tarpayeddevān) [in-tantric](tāntrike) [in-vedic](vaidikeṣu) [and](ca)
 
 ## mukta-m0-p44-v1082
-[holy-sandal](śrīpādukāṃ) [I-satisfy](tarpayāmi) [I-worship-thus](pūjayāmīti) [or](vā) [beloved](priye)
+[holy-sandal](śrīpādukāṃ) [i-satisfy](tarpayāmi) [i-worship](pūjayāmīti) [or](vā) [beloved](priye)
 
 ## mukta-m0-p44-v1083
-[supreme-teacher](parameṣṭhiguruṃ) [goddess](devi) [satisfy](tarpayet) [thrice-three-times](tritrivārakam)
+[supreme-teacher](parameṣṭhiguruṃ) [goddess](devi) [let-him-satisfy](tarpayet) [thrice-thrice](tritrivārakam)
 
 ## mukta-m0-p44-v1084
-[transcendent-immanent-teacher](parāparaguruḥ) [who](ko) [or](vā) [supreme-teacher-and](parameṣṭhiguruśca) [who](kaḥ)
+[para-apara-teacher](parāparaguruḥ) [who](ko) [or](vā) [supreme-teacher](parameṣṭhiguruśca) [who](kaḥ)
 
 ## mukta-m0-p44-v1085
-[many-forms](nānārūpaṃ) [gross-only](sthūlamātraṃ) [as-fire](yathāgniḥ) [joined-with-wood](kāṣṭhasaṃyutaḥ)
+[various-forms](nānārūpaṃ) [gross-only](sthūlamātraṃ) [as-fire](yathāgniḥ) [with-wood](kāṣṭhasaṃyutaḥ)
 
 ## mukta-m0-p44-v1086
 [unity](aikyaṃ) [having-made](kṛtvā) [gross-subtle](sthūlasūkṣmaṃ) [all-this](sarvametat) [manifested](prakāśitam)
 
 ## mukta-m0-p44-v1087
-[transcendent-immanent-teacher-you](parāparagurustvaṃ) [indeed](hi) [supreme-teacher-I](parameṣṭhigururhyaham)
+[para-apara-teacher](parāparagurustvaṃ) [indeed](hi) [supreme-teacher](parameṣṭhigururhyaham)
 
 ## mukta-m0-p44-v1088
-[with-vehicle](savāhanāṃ) [chosen-goddess](sveṣṭadevīṃ) [I-satisfy](tarpayāmi) [twofold-end](dvidhāantakaḥ)
+[with-vehicle](savāhanāṃ) [own-desired-goddess](sveṣṭadevīṃ) [i-satisfy](tarpayāmi) [twofold-ending](dvidhāantakaḥ)
 
 ## mukta-m0-p44-v1089
-[if-satisfy](tarpayeccet) [from-attachment-to-action](kriyāsaṅgād) [with-teacher](guruṇā) [together](saha) [future-one](bhāvinīm)
+[if-he-satisfies](tarpayeccet) [by-rite-attachment](kriyāsaṅgād) [with-teacher](guruṇā) [together](saha) [future-one](bhāvinīm)
 
 ## mukta-m0-p44-v1090
 [white-colored](śvetavarṇā) [two-armed](dvibhujāktā) [two-eyed](dvinetrā) [with-that](tatsamāyutam)
 
 ## mukta-m0-p44-v1091
-[joined-with-that](tatsaṃyuktaṃ) [teacher](guruṃ) [meditate](dhyāyet) [perform-offering-etc](tarpaṇādikamācaret)
+[with-that](tatsaṃyuktaṃ) [teacher](guruṃ) [let-him-meditate](dhyāyet) [tarpaṇa-etc](tarpaṇādikam) [let-him-perform](ācaret)
 
 ## mukta-m0-p44-v1092
-[from-thumb-index-union](aṃguṣṭhatarjanīyogād) [right](dakṣiṇe) [flower-falling](puṣpapātanam)
+[by-thumb-index-union](aṃguṣṭhatarjanīyogād) [on-right](dakṣiṇe) [flower-falling](puṣpapātanam)
 
 ## mukta-m0-p44-v1093
-[by-union-of-these-only](anayoryogamātreṇa) [substance](dravyaṃ) [flower](puṣpaṃ) [mind-charming](manoharam)
+[by-their-union-only](anayoryogamātreṇa) [substance](dravyaṃ) [flower](puṣpaṃ) [charming](manoharam)
 
 ## mukta-m0-p44-v1094
-[from-thumb-union](aṃguṣṭhayogāt) [she](sā) [goddess](devī) [flowered](puṣpitā) [love-overwhelmed](kāmavihvalā)
+[by-thumb-union](aṃguṣṭhayogāt) [that](sā) [goddess](devī) [flowered](puṣpitā) [love-overwhelmed](kāmavihvalā)
 
 ## mukta-m0-p44-v1095
-[satisfy](tarpayed) [in-yoni-middle](yonimadhye) [indeed](tu) [yoni](yoniṃ) [having-grasped](saṃgṛhya) [intent-on-that](tatparam)
+[let-him-satisfy](tarpayed) [in-yoni-middle](yonimadhye) [tu](tu) [yoni](yoniṃ) [having-grasped](saṃgṛhya) [intent](tatparam)
 
 ## mukta-m0-p44-v1096
-[by-drop-only](bindumātreṇa) [by-substance](dravyeṇa) [satisfied](tuṣṭā) [becomes](bhavati) [passionate-woman](kāminī)
+[by-bindu-only](bindumātreṇa) [by-substance](dravyeṇa) [satisfied](tuṣṭā) [becomes](bhavati) [beloved-woman](kāminī)
 
 ## mukta-m0-p44-v1097
-[offering-etc](tarpaṇādi) [to-be-done](prakartavyaṃ) [water-illusion](jalamāyā) [eternal](sanātanī)
+[tarpaṇa-etc](tarpaṇādi) [to-be-performed](prakartavyaṃ) [water-born](jalamāyā) [eternal](sanātanī)
 
 ## mukta-m0-p44-v1098
-[thus](tathā) [water](toyaṃ) [worshipable-by-all](sarvapūjyaṃ) [of-all](sarvasya) [bondage-liberation-giving](bandhamuktidam)
+[thus](tathā) [water](toyaṃ) [all-worshipful](sarvapūjyaṃ) [of-all](sarvasya) [bond-liberation-giving](bandhamuktidam)
 
 ## mukta-m0-p44-v1099
-[satisfy](tarpayed) [knower](jñānavān) [goddess](devi) [own-head](svamūrdhni) [heart](hṛdaye) [and](ca) [or](vā)
+[let-him-satisfy](tarpayed) [wise](jñānavān) [goddess](devi) [own-head](svamūrdhni) [heart](hṛdaye) [or](ca) [vā](vā)
 
 ## mukta-m0-p44-v1100
-[of-three-gunas](guṇatrayasya) [and-in-unity](caikatve) [offering](tarpaṇaṃ) [and-one-time](caikavārakam)
+[of-three-guṇas](guṇatrayasya) [and](ca) [in-unity](ekatve) [tarpaṇa](tarpaṇaṃ) [and](ca) [once](ekavārakam)

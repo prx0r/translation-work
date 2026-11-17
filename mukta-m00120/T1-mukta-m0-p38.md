@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p38-v926
-[of-knowers](jñānināṃ) [knowledge+difference](jñānabhedena) [manifold+form](nānārūpā) [and](ca) [consciousness](samvidā)
+[jñāninām](jñānināṃ) [jñāna-bhedena](jñānabhedena) [nānā-rūpā](nānārūpā) [ca](ca) [samvidā](samvidā)
 
 ## mukta-m0-p38-v927
-[defect](dūṣaṇaṃ) [indeed](hi) [fruit-smeared](phalāktasya) [quality](guṇaṃ) [to-be-known](jñeyaṃ) [indeed](hi) [his](tasya) [but](tu)
+[dūṣaṇam](dūṣaṇaṃ) [hi](hi) [phala-aktasya](phalāktasya) [guṇam](guṇaṃ) [jñeyam](jñeyaṃ) [hi](hi) [tasya](tasya) [tu](tu)
 
 ## mukta-m0-p38-v928
-[mark](lakṣaṇaṃ) [indeed](hi) [thus](tathā) [hymn](stotraṃ) [my](mama) [place](sthāne) [reveal](prakāśaya)
+[lakṣaṇam](lakṣaṇaṃ) [hi](hi) [tathā](tathā) [stotram](stotraṃ) [mama](mama) [sthāne](sthāne) [prakāśaya](prakāśaya)
 
 ## mukta-m0-p38-v929
-[otherwise](anyathā) [of-consciousnesses](samvidāṃ) [knowledge](vidyāṃ) [drink](piveda) [bliss+cause](ānandahetave)
+[anyathā](anyathā) [samvidām](samvidāṃ) [vidyām](vidyāṃ) [pivedānanda-hetave](pivedānandahetave)
 
 ## mukta-m0-p38-v930
-[flower+difference](puṣpabhedena) [goddess](deveśi) [birth+difference](jātibhedaṃ) [consider](vicintayet)
+[puṣpa-bhedena](puṣpabhedena) [deveśi](deveśi) [jāti-bhedam](jātibhedam) [vicintayet](vicintayet)
 
 ## mukta-m0-p38-v931
-[karma+lost](karmanaṣṭe) [birth+lost+even](jātinaṣṭe'pi) [liberation+possessor](muktibhāk)
+[karma-naṣṭe](karmanaṣṭe) [jāti-naṣṭe](jātinaṣṭe) [api](api) [mukti-bhāk](muktibhāk)
 
 ## mukta-m0-p38-v932
-[with-sugar](sitayātha) [with-jaggery+even](guḍenāpi) [with-ripe](pakvaiḥ) [with-bananas+even](kadalikairapi)
+[sitayā](sitayā) [atha](atha) [guḍena](guḍenāpi) [api](guḍenāpi) [pakvaiḥ](pakvaiḥ) [kadalikaiḥ](kadalikairapi) [api](kadalikairapi)
 
 ## mukta-m0-p38-v933
-[by-that](tena) [all](sarveṇa) [vijaya](vijayāṃ) [accept](svīkuryāt) [best-practitioner](sādhakottamaḥ)
+[tena](tena) [sarveṇa](sarveṇa) [vijayām](vijayāṃ) [svīkuryāt](svīkuryāt) [sādhaka-uttamaḥ](sādhakottamaḥ)
 
 ## mukta-m0-p38-v934
-[great-radiance-making](mahātejaskarī) [eye+defect+etc+destroying](cakṣurdoṣādikavināśinī)
+[mahā-tejaskarī](mahātejaskarī) [cakṣuḥ-doṣa-ādika-vināśinī](cakṣurdoṣādikavināśinī)
 
 ## mukta-m0-p38-v935
-[with-ghee](ghṛtena) [with-honey](madhunā) [holds](dhatte) [speech-goddess-subduing](vāgdevīvaśakāriṇī)
+[ghṛtena](ghṛtena) [madhunā](madhunā) [dhatte](dhatte) [vāgdevī-vaśa-kāriṇī](vāgdevīvaśakāriṇī)
 
 ## mukta-m0-p38-v936
-[bile+defects](pittadoṣān) [phlegm+defects](śleṣmadoṣān) [with-honey](madhunā) [with](saha) [destroy](nāśayet)
+[pitta-doṣān](pittadoṣān) [śleṣma-doṣān](śleṣmadoṣān) [madhunā](madhunā) [saha](saha) [nāśayet](nāśayet)
 
 ## mukta-m0-p38-v937
-[with-sugar](sitayātha) [with-jaggery+indeed](guḍenaiva) [colic-killing](śūlaghnī) [bile-destroying](pittanāśinī)
+[sitayā](sitayā) [atha](atha) [guḍena](guḍenaiva) [eva](guḍenaiva) [śūla-ghnī](śūlaghnī) [pitta-nāśinī](pittanāśinī)
 
 ## mukta-m0-p38-v938
-[āma-vāta-born](āmavātasamudbhūta) [intestine+removing](grahaṇīvinivāriṇī)
+[āma-vāta-samudbhūta-grahaṇī-vinivāriṇī](āmavātasamudbhūtagrahaṇīvinivāriṇī)
 
 ## mukta-m0-p38-v939
-[strength+nourishment+giving](valapuṣṭipradā) [and+indeed](caiva) [sweet+voice+giving](madhurasvaradāyinī)
+[vala-puṣṭi-pradā](valapuṣṭipradā) [ca](ca) [eva](eva) [madhura-svara-dāyinī](madhurasvaradāyinī)
 
 ## mukta-m0-p38-v940
-[revealed](prakāśitaṃ) [your](tava) [affection](snehāt) [in-all-āgamas](sarvāgameṣu) [hidden](gopitam)
+[prakāśitam](prakāśitaṃ) [tava](tava) [snehāt](snehāt) [sarva-āgameṣu](sarvāgameṣu) [gopitam](gopitam)
 
 ## mukta-m0-p38-v941
-[guru-mantra](gurumantraṃ) [uttering](samuccārya) [ending-in-fourth](caturthyantaṃ) [offer](nivedayet)
+[guru-mantram](gurumantraṃ) [samuccārya](samuccārya) [caturthy-antam](caturthyantaṃ) [nivedayet](nivedayet)
 
 ## mukta-m0-p38-v942
-[desired-deity](iṣṭadevasya) [that-mantra](tanmantraṃ) [repeating](prajapan) [wander](viharet) [accomplished](kṛtī)
+[iṣṭa-devasya](iṣṭadevasya) [tat-mantram](tanmantraṃ) [prajapan](prajapan) [viharet](viharet) [kṛtī](kṛtī)
 
 ## mukta-m0-p38-v943
-[radiant](tejasvī) [strong](valavān) [eloquent](vāgmī) [intelligent](medhāvī) [pleasant-looking](priyadarśanaḥ)
+[tejasvī](tejasvī) [valavān](valavān) [vāgmī](vāgmī) [medhāvī](medhāvī) [priya-darśanaḥ](priyadarśanaḥ)
 
 ## mukta-m0-p38-v944
-[will-be](bhaviṣyati) [not](na) [doubt](sandeho) [of-substance](dravyasyāsya) [from-use](niṣevaṇāt)
+[bhaviṣyati](bhaviṣyati) [na](na) [sandehaḥ](sandeho) [dravyasya](dravyasyāsya) [asya](dravyasyāsya) [niṣevaṇāt](niṣevaṇāt)
 
 ## mukta-m0-p38-v945
-[consciousness](samvit) [application](prayogastenaiva) [to-be-done](kartavyaḥ) [best-practitioner](sādhakottamaḥ)
+[samvit](samvit) [prayogaḥ](prayogastenaiva) [tena](prayogastenaiva) [eva](prayogastenaiva) [kartavyaḥ](kartavyaḥ) [sādhaka-uttamaḥ](sādhakottamaḥ)
 
 ## mukta-m0-p38-v946
-[one-tola](tolakambā) [two-tola](dvitolambā) [three-tola+indeed](tolakatrayameva) [or](vā)
+[tolakambā](tolakambā) [dvitolambā](dvitolambā) [tolaka-trayam](tolakatrayameva) [eva](tolakatrayameva) [vā](vā)
 
 ## mukta-m0-p38-v947
-[therefore](tasmāt) [measure+only](pramāṇamātrāhi) [to-be-done](kartavyā) [desiring-success](siddhimicchatā)
+[tasmāt](tasmāt) [pramāṇa-mātrā](pramāṇamātrāhi) [hi](pramāṇamātrāhi) [kartavyā](kartavyā) [siddhim](siddhimicchatā) [icchatā](siddhimicchatā)
 
 ## mukta-m0-p38-v948
-[by-grace](prasādādacirādasyāḥ) [success](siddhirbhavati) [desired](vāñchitā)
+[prasādāt](prasādādacirādasyāḥ) [acirāt](prasādādacirādasyāḥ) [asyāḥ](prasādādacirādasyāḥ) [siddhiḥ](siddhirbhavati) [bhavati](siddhirbhavati) [vāñchitā](vāñchitā)
 
 ## mukta-m0-p38-v949
-[goddess](devi) [by-you+also](tvayāpi) [by-rite](vidhinā) [let-be-performed](pravidhīyatāṃ) [that](tat)
+[devi](devi) [tvayā](tvayāpi) [api](tvayāpi) [vidhinā](vidhinā) [pravidhīyatām](pravidhīyatāṃ) [tat](tat)
 
 ## mukta-m0-p38-v950
-[these](etāni) [equal-parts](samabhāgāni) [in-fire](raudre) [dry](śuṣkāṇi) [powder](cūrṇayet)
+[etāni](etāni) [samabhāgāni](samabhāgāni) [raudre](raudre) [śuṣkāṇi](śuṣkāṇi) [cūrṇayet](cūrṇayet)

@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p65-v1601
-[yugānurūpam](yugānurūpam) [akṣaratrilakṣādikaṃ](akṣaratrilakṣādikaṃ) [prāgvat](prāgvat)
+according-to-age(yugānurūpam) imperishable-three-hundred-thousand-etc(akṣaratrilakṣādikaṃ) formerly(prāgvat)
 
 ## mukta-m0-p65-v1602
-[tailājyayor](tailājyayor) [miśrībhūtayor](miśrībhūtayor) [itiśeṣaḥ](itiśeṣaḥ) [anaśnan](anaśnan) [annam](annam) [itiśeṣaḥ](itiśeṣaḥ)
+oil-ghee-mixture(tailājyayor) mixed(tailājyayormiśrībhūtayor) iti-remainder(itiśeṣaḥ) not-eating-food(anaśnan) food(annam) iti-remainder(itiśeṣaḥ)
 
 ## mukta-m0-p65-v1603
-[padmākṣair](padmākṣair) [havanāt](havanāt) [lakṣmīm](lakṣmīm) [avāpnoti](avāpnoti) [tribhiḥ](tribhiḥ) [dinaiḥ](dinaiḥ)
+lotus-eyed(havanāllakṣmīm) from-offering(havanāllakṣmīm) lakshmi(avāpnoti) in-three-days(tribhirdinaiḥ)
 
 ## mukta-m0-p65-v1604
-[śṛṇu](śṛṇu) [teṣu](teṣu) [vidhānāni](vidhānāni) [samāhitamanāḥ](samāhitamanāḥ) [śive](śive)
+hear(śṛṇu) their(teṣu) rites(vidhānāni) fixed-minded(samāhitamanāṃ) shiva(śive)
 
 ## mukta-m0-p65-v1605
-[taiḥ](taiḥ) [ṣoḍaśasvarayutaiḥ](ṣoḍaśasvarayutaiḥ) [ṣaṣṭyā](ṣaṣṭyā) [śatam](śatam) [udīritaiḥ](udīritaiḥ)
+by-them(taiḥ) sixteen-vowels(ṣoḍaśasvarayutaiḥ) sixty-hundred-uttered(ṣaṣṭyāśatamudīritaiḥ)
 
 ## mukta-m0-p65-v1606
-[tadantara](tadantara) [aṣṭakoṇaṃ](aṣṭakoṇaṃ) [ca](ca) [tadantar](tadantar) [vṛttayugmakam](vṛttayugmakam)
+between-that(tadantara) eight-cornered(aṣṭakoṇaṃ) and(tadantarvṛttayugmakam) two-circles(tadantarvṛttayugmakam)
 
 ## mukta-m0-p65-v1607
-[vṛttayor](vṛttayor) [antarā](antarā) [aśeṣaṃ](aśeṣaṃ) [bahiḥ](bahiḥ) [koṇeṣu](koṇeṣu) [ca](ca) [aṣṭasu](aṣṭasu)
+between-circles(vṛttayorantarāśeṣaṃ) outside(bahiḥ) corners(koṇeṣu) and(cāṣṭasu) eight(cāṣṭasu)
 
 ## mukta-m0-p65-v1608
-[karmānurūpān](karmānurūpān) [bhūtārṇān](bhūtārṇān) [daśabhūpuramadhyataḥ](daśabhūpuramadhyataḥ)
+according-to-action(karmānurūpān) element-syllables(bhūtārṇān) ten-cities(daśabhūpuramadhyataḥ) middle(daśabhūpuramadhyataḥ)
 
 ## mukta-m0-p65-v1609
-[antyaṃ](antyaṃ) [caturṣu](caturṣu) [koṇeṣu](koṇeṣu) [śeṣāṇāṃ](śeṣāṇāṃ) [ca](ca) [vilekhane](vilekhane)
+last(antyaṃ) in-four-corners(caturṣu) corners(koṇeṣu) of-remainders(śeṣāṇāṃ) and(ca) drawing(vilekhane)
 
 ## mukta-m0-p65-v1610
-[chāgamāṃsair](chāgamāṃsair) [iti](iti) [anvayaḥ](anvayaḥ) [chāgomeṣaḥ](chāgomeṣaḥ)
+goat-flesh(chāgamāṃsair) thus(anvayaḥ) goat-sheep(chāgomeṣaḥ)
 
 ## mukta-m0-p65-v1611
-[evaṃ](evaṃ) [yantrāṇi](yantrāṇi) [jāyante](jāyante) [daśasiddhyā](daśasiddhyā) [spadāni](spadāni) [vai](vai)
+thus(evaṃ) yantras(jāyante) ten-accomplishments(daśasiddhyā) with-feet(spadāni) indeed(vai)
 
 ## mukta-m0-p65-v1612
-[saptamyāṃ](saptamyāṃ) [triṣu](triṣu) [sandhyāsu](sandhyāsu) [sitāpūpasamanvitam](sitāpūpasamanvitam)
+on-seventh(saptamyāṃ) in-three-twilight(triṣu) sandhyāsu(sandhyāsu) white-cake(sitāpūpasamanvitam) with(sitāpūpasamanvitam)
 
 ## mukta-m0-p65-v1613
-[dadhibhaktantu](dadhibhaktantu) [sāyantu](sāyantu) [kṣīraṃ](kṣīraṃ) [mocāphalaṃ](mocāphalaṃ) [tathā](tathā)
+curd-rice(dadhibhaktantu) evening(sāyantu) milk(kṣīraṃ) banana-fruit(mocāphalaṃ) and(tathā)
 
 ## mukta-m0-p65-v1614
-[vāñcchitaṃ](vāñcchitaṃ) [prāpnuyāt](prāpnuyāt) [devyāḥ](devyāḥ) [prasādena](prasādena) [alpayatnataḥ](alpayatnataḥ)
+desired(vāñcchitaṃ) obtains(prāpnuyāddevyāḥ) by-goddess-grace(prasādenālpayatnataḥ) little-effort(prasādenālpayatnataḥ)
 
 ## mukta-m0-p65-v1615
-[supakvaṃ](supakvaṃ) [chāgamāṃsena](chāgamāṃsena) [kṣaudram](kṣaudram) [annaṃ](annaṃ) [nivedayet](nivedayet)
+well-cooked(supakvaṃ) goat-flesh(chāgamāṃsena) honeyed-food(kṣaudramannaṃ) offer(nivedayet)
 
 ## mukta-m0-p65-v1616
-[tathaiva](tathaiva) [vanitāṃ](vanitāṃ) [hṛdyāṃ](hṛdyāṃ) [vaśayet](vaśayet) [yāvadāyuṣaḥ](yāvadāyuṣaḥ)
+likewise(tathaiva) woman(vanitāṃ) pleasing(hṛdyāṃ) subdue(vaśayedyāvadāyuṣaḥ) for-life(vaśayedyāvadāyuṣaḥ)
 
 ## mukta-m0-p65-v1617
-[tāvat](tāvat) [dinaṃ](dinaṃ) [tathā](tathā) [abhyarcya](abhyarcya) [vaśayet](vaśayet) [dvividhān](dvividhān) [ripūn](ripūn)
+that-long(tāvaddinaṃ) thus(tathā) worship(abhyarcya) subdue(vaśayeddvividhān) two-kinds(vaśayeddvividhān) enemies(ripūn)
 
 ## mukta-m0-p65-v1618
-[daśa](daśa) [susamānīti](susamānīti)
+ten-well-matched(daśa) susamānīti(susamānīti) etc(31-36)
 
 ## mukta-m0-p65-v1619
-[saptāhāt](saptāhāt) [āpadaḥ](āpadaḥ) [sarvāḥ](sarvāḥ) [prayānti](prayānti) [asyāḥ](asyāḥ) [prasādataḥ](prasādataḥ)
+in-seven-days(saptāhād) all-calamities(āpadaḥ) go(prayāntyasyāḥ) by-her-grace(prasādataḥ)
 
 ## mukta-m0-p65-v1620
-[kevalaṃ](kevalaṃ) [pāyasaṃ](pāyasaṃ) [mocāṃ](mocāṃ) [sitāṃ](sitāṃ) [ghṛtasamanvitām](ghṛtasamanvitām)
+only(kevalaṃ) milk-rice(pāyasaṃ) banana(mocāṃ) sugar(sitāṃ) ghee-samanvitām(ghṛtasamanvitām)
 
 ## mukta-m0-p65-v1621
-[jitvā](jitvā) [sukhī](sukhī) [ciraṃ](ciraṃ) [jīvet](jīvet) [śeṣam](śeṣam) [āyuḥ](āyuḥ) [nirāmayaḥ](nirāmayaḥ)
+conquering(jitvā) happy(sukhī) long-live(ciraṃ) jīvet(jīveccheṣamāyurnirāmayaḥ) remaining-life(jīveccheṣamāyurnirāmayaḥ) disease-free(jīveccheṣamāyurnirāmayaḥ)
 
 ## mukta-m0-p65-v1622
-[kṛtvā](kṛtvā) [tasmai](tasmai) [dakṣiṇāṃ](dakṣiṇāṃ) [ca](ca) [dadyāt](dadyāt) [dravyaṃ](dravyaṃ) [bhūri](bhūri) [svaśaktitaḥ](svaśaktitaḥ)
+having-done(kṛtvā) to-him(tasmai) gift(dakṣiṇāṃ) give(dadyā) wealth(dravyaṃ) abundant(bhūri) according-to-ability(svaśaktitaḥ)
 
 ## mukta-m0-p65-v1623
-[yena](yena) [asau](asau) [toṣam](toṣam) [āyāti](āyāti) [tāvat](tāvat) [vittaṃ](vittaṃ) [samarpayet](samarpayet)
+by-which(yenāsau) satisfaction(toṣamāyāti) so-long(tāvadvittaṃ) wealth(samarpayet)
 
 ## mukta-m0-p65-v1624
-[masṛṇe](masṛṇe) [vā](vā) [śilāpaṭṭe](śilāpaṭṭe) [pīṭhe](pīṭhe) [vā](vā) [saudhabhūtale](saudhabhūtale)
+on-smooth(masṛṇe) or(vā) stone-slab(śilāpaṭṭe) seat(pīṭhe) or(vā) palace-floor(saudhabhūtale)
 
 ## mukta-m0-p65-v1625
-[pūjayet](pūjayet) [triṣu](triṣu) [sandhyāsu](sandhyāsu) [japan](japan) [vidyāṃ](vidyāṃ) [tathā](tathā) [vaśī](vaśī)
+worship(pūjayettriṣu) in-three-twilight(sandhyāsu) recite(japanvidyāṃ) and(tathā) subdue(vaśī)
