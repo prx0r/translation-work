@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p13-v301
-[traditions](saṃpradāyāḥ) [tu](tu) [yoginīs](yoginyaḥ) [tripurā](tripurā) [śrī](śrī) [ca](ca) [cakriṇī](cakriṇī)
+traditions+are yoginis Tripura Sri and wheel-bearer
 
 ## mukta-m0-p13-v302
-[all-siddhi-etc](sarvasidhyādikāḥ) [śakti](śaktiḥ) [transcending-kula](kulottirṇā) [tu](tu) [yoginī](yoginī)
+all-accomplishments-etc power transcending-family indeed yogini
 
 ## mukta-m0-p13-v303
-[inner-decade-goddesses](aṃtardaśāredevyaḥ) [tu](tu) [all-knowing-etc](sarvajñādyāḥ) [proclaimed](prakīrtitāḥ)
+inner-ten-spoke-goddesses indeed all-knowing-etc proclaimed
 
 ## mukta-m0-p13-v304
-[great-goad](mahāṃkuśā) [ca](ca) [mudrā](mudrā) [asya](asya) [atha](atha) [eight-petaled](aṣṭāra) [great-circle](mahāvṛtau)
+great-goad and seal her then eight-spoke great-circle
 
 ## mukta-m0-p13-v305
-[cakriṇī](cakriṇī) [tripurā](tripurā) [siddhā](siddhā) [mudrā](mudrā) [becomes](bhavati) [khecarī](khecarī)
+wheel-bearer Tripura accomplished seal becomes sky-goer
 
 ## mukta-m0-p13-v306
-[three-cornered](tryaśe) [kāmeśvarī](kāmeśvarī) [vajreśvarī](vajreśvarī) [ca](ca) [bhagamālinī](bhagamālinī)
+three-cornered Kameshvari Vajreshvari and Bhagamalini
 
 ## mukta-m0-p13-v307
-[yoginī](yoginī) [ati-secret](ati-rahasyā) [ca](ca) [tripurāmbā](tripurāṃbā) [ca](ca) [cakriṇī](cakriṇī)
+yogini very secret and Tripuramba and wheel-bearer
 
 ## mukta-m0-p13-v308
-[bindu-form](biṃdurūpe) [great-delight](mahollāse) [lalitā](lalitāṃ) [supreme-goddess](parameśvarīm)
+bindu-form great-delight Lalita supreme-goddess
 
 ## mukta-m0-p13-v309
-[her](tasyāḥ) [single-seat](ekāsane) [deva](deva) [mind-joined-body](matisaṃsaktavigraham)
+her single-seat god mind-united-body
 
 ## mukta-m0-p13-v310
-[kandarpa](kaṃdarpa) [crore-beauty](koṭilāvaṇyaṃ) [flower-arrow-bow-bearing](puṣpabāṇadhanurddharam)
+Kandarpa million-beauty flower-arrow-bow-bearing
 
 ## mukta-m0-p13-v311
-[ha-syllable-etc](hakārādyena) [mantra](maṃtreṇa) [kāmeśvara](kāmeśvaram) [worship](upācaret)
+ha-syllable-beginning mantra Kameshvara worship
 
 ## mukta-m0-p13-v312
-[thus](itthaṃ) [nine-circles](navāvṛtiṃ) [goddess](devīṃ) [having-worshipped](pūjayitvā) [duly](vidhānataḥ)
+thus nine-circle goddess worship according-to-rite
 
 ## mukta-m0-p13-v313
-[saubhāgya-heart](saubhāgyahṛdayaṃ) [having-chanted](japtvā) [meditate](dhyāyet) [kāmakalā](kāmakalām) [then](atha)
+Saubhagyahrdaya chant meditate Kama-kala then
 
 ## mukta-m0-p13-v314
-[then](atha) [satisfying](saṃtarpya) [roots](mūlābhyāṃ) [god](devaṃ) [goddess](devīṃ) [ca](ca) [worship](pūjayet)
+then satisfying roots god goddess and worship
 
 ## mukta-m0-p13-v315
-[united](ekībhūte) [their-bodies](tayordehe) [worship](yajet) [ānanda-bhairava](ānaṃda-bhairavam)
+united their-body worship Ananda Bhairava
 
 ## mukta-m0-p13-v316
-[bindus](bindubhiḥ) [satisfy](tarpayet) [lord](nātham) [ānanda](ānaṃda) [supreme-lord](parameśvaram)
+bindus satisfy lord Ananda Parameshvara
 
 ## mukta-m0-p13-v317
-[yāga-king-rite](yāgarājakramasya) [iti](iti) [nāndi-worship](nāṃdi-pūjā) [remembered](smṛtā) [by-wise](budhaiḥ)
+Yagaraja-sequence thus Nandi worship remembered by-wise
 
 ## mukta-m0-p13-v318
-[whom](yaṃ) [having-heard](śrutvā) [with-siddhi](sahā-siddhi) [worship](pūjayet) [if](yadi) [man](mānavaḥ)
+which hearing with siddhi worship if man
 
 ## mukta-m0-p13-v319
-[thus-in-ānanda-tantra](ityānaṃdataṃtre) [sixth](ṣaṣṭhaḥ) [chapter](paṭalaḥ)
+thus Anandatantra sixth chapter
 
 ## mukta-m0-p13-v320
-[yāga-king-rite](yāgarājavidhānaṃ) [ca](ca) [even-for-winds](marutāmapi) [rare](durlabham)
+Yagaraja-rite and wind-gods even rare
 
 ## mukta-m0-p13-v321
-[supreme-bliss-fortune](paramānaṃdasaubhāgya) [cause](nimittaṃ) [all-siddhi-giving](sarvasiddhidam)
+supreme-bliss-auspiciousness cause all-accomplishments-giving
 
 ## mukta-m0-p13-v322
-[yearly](prativarṣaṃ) [tu](tu) [prescribed](vihitaṃ) [arranged](kalpitaṃ) [its](tasya) [siddhi](siddhaye)
+every-year indeed prescribed arranged his accomplishment
 
 ## mukta-m0-p13-v323
-[festival-being-done](parvasukriyamāṇastu) [kadācidapi](kadācidapi) [desired](vāṃcchitam)
+festival well-done indeed sometimes desired
 
 ## mukta-m0-p13-v324
-[brahma-form](brahmarūpeṇa) [fair-hipped](suśroṇimayā) [created](sṛṣṭā) [three-worlds](jagattraye)
+Brahma-form beautiful-hipped created three-worlds
 
 ## mukta-m0-p13-v325
-[of-scattered-and-combined](vyastānāṃ-ca-samastānāṃ) [by-essence](rasena) [made](kriyate) [honey](madhu)
+scattered and all nectar made honey
