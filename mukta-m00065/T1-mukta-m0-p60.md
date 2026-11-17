@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p60-v1476
-[pratyūṣaḥ](pratyūṣaḥ) [ca](ca) [prabhāsaḥ](prabhāsaḥ) [ca](ca) [ete](ete) [aṣṭau](aṣṭau) [vasavaḥ](vasavaḥ) [smṛtāḥ](smṛtāḥ)
+[dawn+and](pratyūṣaśca) [shining+and](prabhāsaśca) [these+eight](ete'ṣṭau) [vasus](vasavaḥ) [remembered](smṛtāḥ)
 
 ## mukta-m0-p60-v1477
-[traitāyuge](traitāyuge) [tu](tu) [anattā+ākhyaḥ](anattākhyaḥ) [kalau](kalau) [svāmī](svāmī) [sadāśivaḥ](sadāśivaḥ)
+[traitāyuga+in](traitāyuge) [named+anatta](tvanattākhyaḥ) [kalau](kalau) [lord](svāmī) [sadāśiva](sadāśivaḥ)
 
 ## mukta-m0-p60-v1478
-[mīna+ādīnāṃ](mīnādīnāṃ) [ca](ca) [rāśīnāṃ](rāśīnāṃ) [tritayaṃ](tritayaṃ) [tritayaṃ](tritayaṃ) [kramāt](kramāt)
+[of+fish+etc](mīnādīnāṃ) [and](ca) [of+signs](rāśīnāṃ) [triad](tritayaṃ) [triad](tritayaṃ) [in+order](kramāt)
 
 ## mukta-m0-p60-v1479
-[īśvara+avyaṃ](īśvarāvyaṃ) [ca](ca) [rudraṃ](rudraṃ) [śaṅkaraṃ](śaṅkaraṃ) [śambhu+jñakam](śambhujñakam)
+[īśvara+and](īśvarāvyaṃ) [rudra](rudraṃ) [śaṅkara](śaṅkaraṃ) [śambhu+known](śambhujñakam)
 
 ## mukta-m0-p60-v1480
-[viṣṇu+arkayoḥ](viṣṇvarkayoḥ) [pratiṣṭhāne](prathiṣṭhāne) [viṣṇu+indra+ādīn](viṣṇvindradīn) [prakalpayet](prakalpayet)
+[of+viṣṇu+and+sun](viṣṇvarkayoḥ) [in+place](prathiṣṭhāne) [viṣṇu+indra+etc](viṣṇvindradīnprakalpayet)
 
 ## mukta-m0-p60-v1481
-[pūrvādi+toranāḥ](pūrvāditoraṇā) [dhyakṣāḥ](dhyakṣaścatvāro) [catvāraḥ](catvāro) [mī+aprakīrtitāḥ](mī'prakīrtitāḥ)
+[from+east+etc](pūrvāditoraṇā) [superintendent](dhyakṣaścatvāromī'prakīrtitāḥ)
 
 ## mukta-m0-p60-v1482
-[bahiḥ](bahirevamalaṅkṛtya) [eva](eva) [alaṅkṛtya](alaṅkṛtya) [tataḥ](tataścābhyantare) [ca](ca) [abhyantare](abhyantare) [punaḥ](punaḥ)
+[outside+thus](bahirevamalaṅkṛtya) [then+inside+again](tataścābhyantare) [again](punaḥ)
 
 ## mukta-m0-p60-v1483
-[su+ratnau](suratnau) [ṣaḍ+ghigarbhāḥ](ṣaghigarbhāśca) [ca](ca) [saṃpūrṇāḥ](saṃpūrṇā) [gandha+vāriṇāḥ](gandhavāriṇāḥ)
+[with+jewels](suratnau) [mū+a+kh: with+jewels](saratnau) [with+seeds](ṣaghigarbhāśca) [filled](saṃpūrṇā) [with+fragrant+water](gandhavāriṇāḥ)
 
 ## mukta-m0-p60-v1484
-[dīpa+akṣata+phalaiḥ](dīpākṣataphalairyuktā) [yuktāḥ](yuktā) [dvāḥ](dvāḥ) [pāla+aṣṭaka+mantritāḥ](pālāṣṭakamantritāḥ)
+[with+lamp+rice+fruit](dīpākṣataphalairyuktā) [two](dvāḥ) [door+guardians+eight+mantra](pālāṣṭakamantritāḥ) [kh: eight+accompanied](ṣṭasamanvitāḥ)
 
 ## mukta-m0-p60-v1485
-[rudra+vīra](rūdrovīra) [iti](iti) [jñeyāḥ](jñeyā) [aṣṭau](aṣṭau) [kalaśa+devatāḥ](kalaśadevatāḥ)
+[rudra+vīra](rūdrovīra) [k: vīta](vīta) [thus+known](iti) [jñeyā](jñeyā) [eight](aṣṭau) [pot+deities](kalaśadevatāḥ)
 
 ## mukta-m0-p60-v1486
-[pañcamaḥ](pañcamaḥ) [śaṅku+karṇa+ākhyaḥ](śaṅkukarṇākhyaḥ) [sarva+netraḥ](sarvanetraḥ) [tathā](tathā) [aparaḥ](aparaḥ)
+[fifth](pañcamaḥ) [śaṅku](śaṅku) [k,g: śambhu](śambhu) [named+karna](karṇākhyaḥ) [all+eyed](sarvanetrastathāparaḥ)
 
 ## mukta-m0-p60-v1487
-[ekaika+bhūta+koṭībhiḥ](ekaikabhūtakoṭībhirāvṛtā) [āvṛtāḥ](āvṛtā) [dhvaja+devatāḥ](dhvajadevatāḥ)
+[by+one+one+element+crores](ekaikabhūtakoṭībhirāvṛtā) [flag+deities](dhvajadevatāḥ)
 
 ## mukta-m0-p60-v1488
-[dāraḥ](dāraḥ) [sita+asitaḥ](sitāsitaśceti) [ca](ca) [iti](iti) [vijñeyāḥ](vijñeyā) [dvāra+pālakāḥ](dvārapālakāḥ)
+[door](dāraḥ) [white+black](sitāsitaśceti) [thus+known](vijñeyā) [door+keepers](dvārapālakāḥ)
 
 ## mukta-m0-p60-v1489
-[rambhā+aṣṭaka+samāyukta](rambhāṣṭakasamāyukta) [kṣetra+pāla+aṣṭaka+anvitam](kṣetrapālāṣṭakanvitam)
+[with+rambhā+eight](rambhāṣṭakasamāyukta) [with+field+protector+eight](kṣetrapālāṣṭakanvitam)
 
 ## mukta-m0-p60-v1490
-[kālaḥ](kālaḥ) [karālika+eka+āṅghriḥ](karālikaikāṅghrirbhīmo) [bhīmaḥ](bhīmo) [aṣṭau](aṣṭau) [kṣetra+pālakāḥ](kṣetrapālakāḥ)
+[time](kālaḥ) [karālika+one+foot](karālikaikāṅghrirbhīmo'ṣṭau) [field+protectors](kṣetrapālakāḥ)
 
 ## mukta-m0-p60-v1491
-[baddha+dvāra+traye](baddhadvāratraye) [tasmin](tasmin) [bāhayet](bāhayet) [paścima+ānanam](paścimānanam)
+[bound+door+three](baddhadvāratraye) [in+that](tasmin) [expel+west+facing](bāhayetpaścimānanam)
 
 ## mukta-m0-p60-v1492
-[praveśayet](praveśayenna) [na](na) [tatra+eva](tatraiva) [kuryāt](kuryādyāgasya) [yāgasya](yāgasya) [rakṣaṇam](rakṣaṇam)
+[enter+not](praveśayenna) [mū: tu](ttu) [there+only](tatraiva) [do+of+sacrifice+protection](kuryādyāgasya) [rakṣaṇam](rakṣaṇam) [kh: pavilion](maṇḍapam)
 
 ## mukta-m0-p60-v1493
-[prāsādasya](prāsādasya) [pramāṇena](pramāmena) [sa+pīṭhaṃ](sapīṭhaṃ) [dvi+cchada+anvitam](dvicchadānvitam)
+[of+shrine](prāsādasya) [by+measure](pramāmena) [with+seat](sapīṭhaṃ) [two+roofed](dvicchadānvitam) [k: two+handed](dvikarānvitam)
 
 ## mukta-m0-p60-v1494
-[catuḥ+cchadaṃ](catuśchadaṃ) [catuḥ+koṇaṃ](catuṣkoṇaṃ) [vīraṃ](vīraṃ) [vimala+mānataḥ](vimalamānataḥ)
+[four+roofed](catuśchadaṃ) [four+cornered](catuṣkoṇaṃ) [hero](vīraṃ) [pure](vimalamānataḥ)
 
 ## mukta-m0-p60-v1495
-[koṇe](koṇe) [dhvaja+vitāna+āḍyaṃ](dhvajavitānāḍyaṃ) [kadalī+cūta+maṇḍitam](kadalīcūtamaṇḍitam)
+[in+corner](koṇe) [flag+canopy+adorned](dhvajavitānāḍyaṃ) [banana+mango+decorated](kadalīcūtamaṇḍitam)
 
 ## mukta-m0-p60-v1496
-[maṇḍapa+ardha+pratāṇena](maṇḍapārdhapratāṇena) [catur+yāṃśa+samucchritām](caturyāṃśasamucchritām)
+[by+pavilion+half+measure](maṇḍapārdhapratāṇena) [fourth+part+raised](caturyāṃśasamucchritām) [kh,gh: own+fourth+part+raised](svacaturthāṃśamucchritam)
 
 ## mukta-m0-p60-v1497
-[kurvīta](kurvīta) [vā](vā) [atha](atha) [sāmānyaṃ](sāmānyaṃ) [maṇḍape](maṇḍape) [vedikā+dvayam](vedikādvayam)
+[do+or+common](kurvīta) [vātha](vātha) [common](sāmānyaṃ) [in+pavilion](maṇḍape) [altars+two](vedikādvayam)
 
 ## mukta-m0-p60-v1498
-[kuryāt](kuryāttantadhyataḥ) [tat](tat) [adhyataḥ](adhyataḥ) [pīṭhaṃ](pīṭhaṃ) [bhadra+ākhyaṃ](bhadrākhyaṃ) [kṣīra+vṛkṣa+jam](kṣīravṛkṣajam)
+[do+that+meditation](kuryāttantadhyataḥ) [seat](pīṭhaṃ) [named+bhadra](bhadrākhyaṃ) [milk+tree+born](kṣīravṛkṣajam)
 
 ## mukta-m0-p60-v1499
-[vistāra+dviguṇaṃ](vistāradviguṇaṃ) [dairghyaṃ](dairghyaṃ) [kanyasānāṃ](kanyasānāṃ) [sadaiva](sadaiva) [tu](tu)
+[width+double](vistāradviguṇaṃ) [length](dairghyaṃ) [of+young+ones](kanyasānāṃ) [always+indeed](sadaiva) [tu](tu)
 
 ## mukta-m0-p60-v1500
-[pīṭha+mānam](pīṭhamānam) [iti](iti) [proktaṃ](proktaṃ) [kuṭī+mānam](kuṭīmānam) [ataḥ](ato) [bruve](bruve)
+[seat+measure](pīṭhamānamiti) [proclaimed](proktaṃ) [hut+measure+therefore](kuṭīmānamato) [speak](bruve)

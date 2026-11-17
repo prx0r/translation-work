@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p69-v1701
-[with-salmali](sa+śālmalena) [and-fire](cāgneyaṃ) [heart-mantras](hṛn+mantrai) [bathing-best](snānam+uttaman)
+[with-salmali](saśālmalena) [and-fiery](cāgneyaṃ) [heart-mantras](hṛnmantrai) [excellent-bathing](snānamuttaman)
 
 ## mukta-m0-p69-v1702
-[with-ashoka](sāśokena) [but-demon-born](tu+rakṣojaṃ) [crest-mantra-endowed](śikha+mantrānvitaṃ) [better](varam)
+[with-ashoka](sāśokena) [but](tu) [demon-born](rakṣojaṃ) [crest-mantras-endowed](śikhamantrānvitaṃ) [best](varam)
 
 ## mukta-m0-p69-v1703
-[mango-mouth](cūtāsyena) [but-wind](tu+vāyavyaṃ) [bathing](snānaṃ) [armor-endowed](varma+samanvitam)
+[with-mango-face](cūtāsyena) [but](tu) [airy](vāyavyaṃ) [bathing](snānaṃ) [armor-endowed](varmasamanvitam)
 
 ## mukta-m0-p69-v1704
-[with-ash-bilva-leaf-mouth](sabhasma+bilva+patrāsya) [bathing-ish](snānam+aiśaṃ) [head-endowed](śiro'nvitan)
+[with-ash-bilva-leaf-face-bathing-ish](sabhasmabilvapatrāsyasnānamaiśaṃ) [head-endowed](śiro'nvitan)
 
 ## mukta-m0-p69-v1705
-[brahma-leaf-having](brahma+patravatā) [brahma](brāhmaṃ) [with-kusha](sakuśena) [endowed](samanvitam)
+[with-brahma-leaf](brahmapatravatā) [brahma](brāhmaṃ) [with-kusha](sakuśena) [endowed](samanvitam)
 
 ## mukta-m0-p69-v1706
-[women-auspicious-singing](varastrī+maṅgala+udgītaiḥ) [bathe](snāpayet) [bull-banner](vṛṣabha+dhvajam)
+[with-women-auspicious-songs](varastrīmaṅgalodgītaiḥ) [bathe](snāpayed) [bull-bannered](vṛṣabhadhvajam)
 
 ## mukta-m0-p69-v1707
-[offering-given](arghaṃ+dattvā) [but-mouth](tu+vaktreṇa) [cloth-draw-water](vastreṇa+ākarṣayet+jalam)
+[offering](arghaṃ) [having-given](dattvā) [but](tu) [by-mouth](vaktreṇa) [by-cloth](vastreṇa) [draw-water](ākarṣayejjalam)
 
 ## mukta-m0-p69-v1708
-[bathing-etc](snānādi) [own-own-mantras](svaisvakair+mantrai) [four-clay-bathing-etc](catur+mṛtsnā+spvihā+adhikāḥ)
+[bathing-etc](snānādi) [by-own-mantras](svaisvakairmantraiñcaturmṛtsnāspvihādhikāḥ)
 
 ## mukta-m0-p69-v1709
-[various-previously-said-clay](nāne+pūrvokta+mṛtsnāñca) [praised-twelve-vishnus](śastā+dvādaśa+viṣṇubhiḥ)
+[various](nāne) [previously-said-clay](pūrvoktamṛtsnāñca) [praised](śastā) [by-twelve-vishnus](dvādaśaviṣṇubhiḥ)
 
 ## mukta-m0-p69-v1710
-[moving-images](calārcāsu) [carefully](prayatnena) [fixed-double](sthāvare+dvīguṇaṃ) [in-order](kramāt)
+[moving-images](calārcāsu) [carefully](prayatnena) [fixed](sthāvare) [double](dvīguṇaṃ) [in-order](kramāt)
 
 ## mukta-m0-p69-v1711
-[giving](dattvā) [but-artisan-image](tu+śilpinām+arcā) [consecrating](abhimantrya) [then-worship](tato'rcayet)
+[having-given](dattvā) [but](tu) [to-artisan](śilpināmarcābhimantrya) [then](tato) [worship](arcayet)
 
 ## mukta-m0-p69-v1712
-[painting-etc-drawing](citrādi+lepya) [manuscripts](pustānāṃ) [mirror-bathing](darpaṇa+snānam+iṣyate)
+[painted-etc](citrādilepya) [of-books](pustānāṃ) [mirror-bathing](darpaṇasnānamiṣyate)
 
 ## mukta-m0-p69-v1713
-[sound-touch-form-taste-smell](śabdāt+sparśāt+ca+rūpāt+ca+rasāt+gandhāt+ca) [in-order](vai+kramāt)
+[from-sound](śabdātsparśācca) [from-touch](rūpācca) [from-form](rasādgandhācca) [from-taste](vai) [from-smell](kramāt)
 
 ## mukta-m0-p69-v1714
-[purifying](viśodhya) [space-etc-elements](khādi+bhūtāni) [then-image](tato+mūrtiṃ) [make](tu+kārayet)
+[purifying](viśodhya) [elements-from-space](khādibhūtāni) [then](tato) [image](mūrtiṃ) [make](tu) [kārayet]
 
 ## mukta-m0-p69-v1715
-[five-brahma](pañca+brahma) [then-limbs](tato'ṅgāni) [powers-all](kalāḥ+sarvāḥ) [of-shiva](śivasya+ca)
+[five-brahmans](pañcabrahma) [then](tato) [limbs](aṅgāni) [powers](kalāḥ) [all](sarvāḥ) [of-shiva](śivasya) [and](ca)
 
 ## mukta-m0-p69-v1716
-[offering-as-before](naivedyaṃ+pūrvavat+dadyāt) [turmeric-head-mantra](rocanāṃ+mūrdha+mantritām)
+[offering](naivedyaṃ) [as-before](pūrvavaddadyādrocanāṃ) [head-mantra-endowed](mūrdhamantritām)
 
 ## mukta-m0-p69-v1717
-[umbrella-ishana-god](chatram+īśāna+devena) [whisk-man-mantra](cāmaraṃ+nara+mantrataḥ)
+[umbrella](chatramīśānadevena) [by-ishana](cāmaraṃ) [chowrie](naramantrataḥ)
 
 ## mukta-m0-p69-v1718
-[sand-scatter-seat](bālukā+vikiret+pīṭhe) [grass-hair-etc-free](tṛṇa+keśa+ādi+varjitāḥ)
+[sand](bālukā) [scatter](vikiretpīṭhe) [on-seat](tṛṇakeśādivarjitāḥ)
 
 ## mukta-m0-p69-v1719
-[east-tips-grass](prāg+agrān+tṛṇuyāt+darbhān) [goat-born-north-tips](ajātena+uttarāgrakān)
+[east-tipped](prāgagrāṃstṛṇuyāddarbhānajātenottarāgrakān)
 
 ## mukta-m0-p69-v1720
-[dharma-etc-feet-shambhu](dharmādi+caraṇān+śambhoḥ) [thus-adharma-etc-limbs](tathā+adharmādi+gātrakān)
+[dharma-etc-feet](dharmādicaraṇāñchambhośtathādharmādigātrakān)
 
 ## mukta-m0-p69-v1721
-[vidyesvara-petal](vidyeśvara+dalaṃ) [there-mandala](tatra+maṇḍala) [three-karnika](traya+karṇikam)
+[vidyeshvara-petal](vidyeśvaradalaṃ) [there](tatra) [mandala](maṇḍala) [three-karnika](trayakarṇikam)
 
 ## mukta-m0-p69-v1722
-[good-omens](sunimittaiḥ+śubhaiḥ) [instruments](vādyaiḥ) [auspicious](maṅgalaiḥ) [praise-speakers](stuti+vācakaiḥ)
+[good-omens](sunimittaiḥ) [auspicious](śubhairvādyairmaṅgalaiḥ) [praises](stutivācakaiḥ)
 
 ## mukta-m0-p69-v1723
-[front-pitcher-streams](agre+bhṛṅgāra+dhārāḥ+ca) [sprinkling-gurus](mucchadbhiḥ+gurubhiḥ+tathā)
+[before](agre) [pitcher-streams](bhṛṅgāradhārāśca) [sprinkling](mucchadbhirgurubhiśtathā)
 
 ## mukta-m0-p69-v1724
-[bed-east-head](talpe+prāk+śirasaṃ) [sleep-pot](nidrā+kumbhaṃ) [that-head](tac+chīrṣake) [place](nyaset)
+[on-bed](talpe) [head-east](prākśirasaṃ) [sleep-pot](nidrākumbhaṃ) [that-head](tacchīrṣake) [place](nyaset)
 
 ## mukta-m0-p69-v1725
-[thanu-nilakantha](thāṇuḥ+ca+nīlakaṇṭhaḥ+ca) [mahadeva-shiva](mahādevaḥ+śivaḥ+tathā)
+[thanu](thāṇuśca) [blue-throated](nīlakaṇṭhaśca) [great-god](mahādevaḥ) [shiva](śivastathā)

@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p67-v1651
-[offering](naivedyāni) [third](tṛtīyena) [unspoken](anuktaṃ) [heart](hṛdayena) [but](tu)
+[offerings](naivedyāni) [third](tṛtīyena) [unspoken](anuktaṃ) [heart](hṛdayena) [but](tu)
 
 ## mukta-m0-p67-v1652
-[head](mūrdhni) [sleep-pot](nidrāghaṭaḥ) [to-be-placed](sthāpyo) [Rudra-chanted](rudrajaptaḥ) [well-worshipped](supūjitaḥ)
+[head](mūrdhni) [sleep-pot](nidrāghaṭaḥ) [placed](sthāpyo) [rudra-chanted](rudrajaptaḥ) [well-worshipped](supūjitaḥ)
 
 ## mukta-m0-p67-v1653
-[four-gates](caturdvāreṣu) [and-Īśāna](ceśāne) [that-milk](tatkṣīreṇa) [oblation](caruṃ) [cook](śrapet)
+[four-gates](caturdvāreṣu) [ca](ce) [īśāna](īśāne) [that-milk](tatkṣīreṇa) [porridge](caruṃ) [cook](śrapet)
 
 ## mukta-m0-p67-v1654
-[guru-form-bearers](gurūmūrtidharaiḥ) [doer-with](kartāsahitaḥ) [kuśa-strewing](kuśasaṃstare)
+[guru-form-bearers](gurūmūrtidharaiḥ) [with-actor](kartāsahitaḥ) [kuśa-mat](kuśasaṃstare)
 
 ## mukta-m0-p67-v1655
-[second-day](dvitīye'hni) [bathed](kṛtasnānaḥ) [should-do](karyā) [wife-accompanied](patnyanvito) [vow-keeper](vratī)
+[second-day](dvitīye'hni) [done-bath](kṛtasnānaḥ) [do](karyā) [wife-accompanied](patnyanvito) [vow-keeper](vratī)
 
 ## mukta-m0-p67-v1656
-[done-auspicious-sounds](kṛtamaṅgalanirghoṣair) [god-bathing-etc](devasnānādikaṃ) [perform](caret)
+[done-auspicious-sound](kṛtamaṅgalanirghoṣair) [divine-bath-etc](devasnānādikaṃ) [perform](caret)
 
 ## mukta-m0-p67-v1657
-[clearly](sphuṭam) [teacher-form](ācāryarūpeṇa) [mantra-power](mantraśattyā) [moving-immoving](carācaram)
+[clearly](sphuṭam) [teacher-form](ācāryarūpeṇa) [mantra-power](mantraśattyā) [moving-still](carācaram)
 
 ## mukta-m0-p67-v1658
-[for-grace](anugrahāya) [worlds](lokānāṃ) [guru-ness](gurutvaṃ) [may-be](syāt) [Śiva-will](śivecchayā)
+[for-grace](anugrahāya) [worlds](lokānāṃ) [guru-ness](gurutvaṃ) [be](syāt) [śiva-will](śivecchayā)
 
 ## mukta-m0-p67-v1659
-[that-ten-thousand](tadayutaiñca) [sons-called](putrāhva) [those-many](staistāvadbhiñca) [adept](sādhakaḥ)
+[that-ten-thousand](tadayutaiñca) [sons-called](putrāhva) [those-many](taistāvadbhiñca) [accomplisher](sādhakaḥ)
 
 ## mukta-m0-p67-v1660
-[music-rite](vādyakarma) [father](tāt)
+[music-rite](vādyakarma) [that](tāt)
 
 ## mukta-m0-p67-v1661
-[then-sprinkling](tatañcābhyukṣaṇaṃ) [in-liṅga](liṅge) [argha-flowers-incense](arghapūṣpākidhūpanaiḥ)
+[then](tatañca) [sprinkling](abhyukṣaṇaṃ) [liṅga](liṅge) [arghya-flower-incense](arghapūṣpākidhūpanaiḥ)
 
 ## mukta-m0-p67-v1662
-[right-left-thread](savyāpasavyasūtreṇa) [touch](saṃspṛśeyuḥ) [kuśa](kuśena) [or](vā)
+[left-right-thread](savyāpasavyasūtreṇa) [touch](saṃspṛśeyuḥ) [kuśa](kuśena) [or](vā)
 
 ## mukta-m0-p67-v1663
-[by-rite](vidhinā) [bathing](snapanaṃ) [five](pañcā) [perform](ācaret) [teacher](daiśikaḥ) [himself](svayam)
+[rite](vidhinā) [bathing](snapanaṃ) [five-do](pañcādācareddaiśikaḥ) [himself](svayam)
 
 ## mukta-m0-p67-v1664
 [five-cow-products](pañcagavyena) [curd](daghnā) [or](vā) [honey](madhunā) [five-barks](pañcavalkalaiḥ)
 
 ## mukta-m0-p67-v1665
-[bathe](snāpayet) [secret-mantra](guhyamantreṇa) [Rudras](rudrairvā) [or](vā) [heart](hṛdayena) [or](vā)
+[bathe](snāpayed) [secret-mantra](guhyamantreṇa) [rudras](rudrairvā) [or](vā) [heart](hṛdayena) [or](vā)
 
 ## mukta-m0-p67-v1666
-[rubbing](udvartya) [bathe](snāpayet) [five](pañcāt) [pure](svacchena) [scented-water](gandhavāriṇā)
+[rub](udvartya) [bathe-five](snāpayetpañcātsvacchena) [fragrant-water](gandhavāriṇā)
 
 ## mukta-m0-p67-v1667
-[thus](tathā) [golden-water](kāñcanatoyena) [cow-horn-water](gośṛṅgasalilena) [and](ca)
+[so](tathā) [golden-water](kāñcanatoyena) [cow-horn-water](gośṛṅgasalilena) [and](ca)
 
 ## mukta-m0-p67-v1668
 [white-cloth](sitavastreṇa) [lord](deveśaṃ) [wipe](parimṛjya) [fragrant](sugandhinā)
 
 ## mukta-m0-p67-v1669
-[own](svaiḥ) [own](svair) [mantras](mantrair) [Hara-etc](harādīnāṃ) [mixed](miśrāṇam) [also](api) [always](sarvadā)
+[own](svaiḥ) [own](svair) [mantras](mantrair) [hara-etc](harādīnāṃ) [mixed](miśrāṇam) [also](api) [always](sarvadā)
 
 ## mukta-m0-p67-v1670
-[clay-decoction-herbs](mṛtkaṣāyauṣadhībhiśca) [best](dhāgryā) [sacred-river-water](tīrthadhunījalaiḥ)
+[clay-decoction-herbs](mṛtkaṣāyauṣadhībhiśca) [best](dhāgryā) [tirtha-river-water](tīrthadhunījalaiḥ)
 
 ## mukta-m0-p67-v1671
-[great-bathing](mahāsnānena) [direction-bathings](diksnānaiḥ) [bathe](snāpyaṃ) [sixteen](ṣoḍaśabhiḥ) [in-order](kramāt)
+[great-bath](mahāsnānena) [direction-baths](diksnānaiḥ) [bathe](snāpyaṃ) [sixteen](ṣoḍaśabhiḥ) [order](kramāt)
 
 ## mukta-m0-p67-v1672
-[milk](kṣīraṃ) [red-cow](gostāmravarṇāyā) [by-Īśa](īśena) [five-parts](bhāgapañcakam)
+[milk](kṣīraṃ) [red-cow](gostāmravarṇāyā) [īśa](īśena) [five-parts](bhāgapañcakam)
 
 ## mukta-m0-p67-v1673
-[tawny-cow](kapilāyā) [ghee](ghṛtaṃ) [cow](gośca) [by-Aghora](aghoreṇa) [fire-portion](agnibhāgikam)
+[brown-cow](kapilāyā) [ghee](ghṛtaṃ) [cow](gośca) [aghora](aghoreṇāgnibhāgikam)
 
 ## mukta-m0-p67-v1674
-[black-cow](kṛṣṇayā) [cow-dung](gomayaṃ) [sky-placed](khastham) [by-Aja](ajena) [always](sarvadā) [pure](śuci)
+[black-cow](kṛṣṇayā) [dung](gomayaṃ) [sky-placed](khasthamajena) [always](sarvadā) [pure](śuci)
 
 ## mukta-m0-p67-v1675
-[by-Śiva](śivena) [one-ness](ekattvam) [churning](āloḍya) [five](pañcabhir) [or](vā) [then](atha) [Kāpila](kāpilam)
+[śiva](śivenaikattvamāloḍya) [five](pañcabhirvātha) [kapila](kāpilam)
