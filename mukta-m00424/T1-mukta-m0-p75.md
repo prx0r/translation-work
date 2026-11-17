@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p75-v1851
-then(tataḥ) three-times(triguṇī+kṛtya) to-Śiva(śivāya) one-should-offer(vinivedayet)
+[then](tatas) [three-times](tri) [having-made](guṇīkṛtya) [to-śiva](śivāya) [should-offer](vinivedayet)
 
 ## mukta-m0-p75-v1852
-tarāṣṭaṃ(tarāṣṭaṃ) and(ca) defect-arising(dūṣaṇa+utpatti) taduvyantuvyayohya(taduvyantuvyayohya) and(ca)
+[tarāṣṭaṃ](tarāṣṭaṃ) [and](ca) [defect](dūṣaṇa) [arising](utpatti) [taduvyantuvyayohya](taduvyantuvyayohya) [and](ca)
 
 ## mukta-m0-p75-v1853
-pacification-oblation(śānti+homam) then(tataḥ) one-should-perform(kuryāt) as-before(pūrva+vat) one-should-cook(pācayet) auspicious(śubham)
+[peace](śānti) [oblation](homaṃ) [then](tataḥ) [should-perform](kuryāt) [as-before](pūrvavat) [should-cook](pācayet) [auspicious](śubham)
 
 ## mukta-m0-p75-v1854
-in-joining(sandhāti) in-sequence(kramaṇe) when-arrived(prāpte) by-enemies(śatrubhiḥ) fear(bhayam) one-should-indicate(ādiśet)
+[sandhāti](sandhāti) [in-sequence](kramaṇe) [when-arrived](prāpte) [by-enemies](śatrubhiḥ) [fear](bhayam) [should-indicate](ādiśet)
 
 ## mukta-m0-p75-v1855
-by-transgression(vyatikrameṇa) of-mantras(mantrāṇām) that-all(tat+sarva*(?)) one-should-effect(prabhāvayet)
+[by-transgression](vyatikrameṇa) [of-mantras](mantrāṇāṃ) [that](tat) [all*(?)](sarva*(?)) [should-effect](prabhāvayet)
 
 ## mukta-m0-p75-v1856
-of-offering(naivedya) in-placing(sthāpane) at-time(kāle) in-transgression(laṅghane) also(api) by-men(naraiḥ) likewise(tathā)
+[of-food-offering](naivedya) [in-placing](sthāpane) [at-time](kāle) [in-transgression](laṅghane) [also](api) [by-men](narais) [likewise](tathā)
 
 ## mukta-m0-p75-v1857
-that-substance(tat+dravyam) having-discarded(varjayitvā) but(tu) afterwards(paścāt) cooked(pakvam) one-should-offer(nivedayet)
+[that](tat) [substance](dravyaṃ) [having-abandoned](varjayitvā) [but](tu) [afterwards](paścāt) [cooked](pakvaṃ) [should-offer](nivedayet)
 
 ## mukta-m0-p75-v1858
-jāyāja**(?)na(jāyāja**(?)na) pro******(?)taṃ(pro******(?)tam) one-should-recite(japet)
+[jāyāja**(?)](jāyāja**(?)) [na](na) [pro******(?)](pro******(?)) [taṃ](taṃ) [should-recite](japet)
 
 ## mukta-m0-p75-v1859
-in-bathing-limb(snapana+aṅga) in-absence(vihīne) and(ca) great-epidemic(mahā+mārī) arises(pravartate)
+[bathing](snapana) [limb](aṅga) [in-absence](vihīne) [and](ca) [great-epidemic](mahāmārī) [arises](pravartate)
 
 ## mukta-m0-p75-v1860
-by-placed(sthāpitaiḥ) by-pots(kalaśaiḥ) by-broken(bhinnaiḥ) when-cracked(sphuṭite) when-fallen(patite) likewise(tathā)
+[by-placed](sthāpitaiḥ) [by-pots](kalaśaiḥ) [broken](bhinnaiḥ) [cracked](sphuṭite) [fallen](patite) [likewise](tathā)
 
 ## mukta-m0-p75-v1861
-*(* ) *(* ) *(* ) *(* ) *(* ) *(* ) *(* ) *(*) (?)(?) with-very-pleased(suprasannena) ratnakā(ratnakā)
+[lacuna](*) [lacuna](*) [lacuna](*) [lacuna](*) [lacuna](*) [lacuna](*) [lacuna](*) [lacuna](*) [(?)](?) [with-very-pleased](suprasannena) [jewel-born](ratnakā)
 
 ## mukta-m0-p75-v1862
-boon-fearlessness-endowed(varada+abhaya+saṃyuktā) noose-goad-bearing(pāśa+aṅguśa+dhara+anvitā)
+[boon](varada) [fearlessness](abhaya) [endowed-with](saṃyuktā) [noose](pāśa) [goad](aṅguśa) [bearing](dharā) [possessed-of](anvitā)
 
 ## mukta-m0-p75-v1863
-lotus-hand-etc(padma+hasta+ādi) peaceful(śāntā) and(ca) goddess(devī) and(ca) golden-luster(kanaka+prabhā)
+[lotus](padma) [hand](hasta) [and-so-forth](ādi) [peaceful](śāntā) [and](ca) [goddess](devī) [and](ca) [golden](kanaka) [splendor](prabhā)
 
 ## mukta-m0-p75-v1864
-***(?)ñcāpi(***(?)ñcāpi) or(vā) conch(śaṅkham) discus(cakra) ha*(?)tu(ha*(?)tu) six-armed(ṣaḍ+bhujā)
+[***(?)ñcāpi](***(?)ñcāpi) [or](vā) [conch](śaṅkhaṃ) [discus](cakra) [ha*(?)tu](ha*(?)tu) [six-armed](ṣaḍbhujā)
 
 ## mukta-m0-p75-v1865
-with-fiery-weapon(tejaḥ+arcā+astra) endowed(samāyuktā) in-embracing-the-god(deva+āliṅgana) intent(tat+parā)
+[splendor](tejas) [weapon](arcā) [astra](astra) [endowed-with](samāyuktā) [god](deva) [embracing](āliṅgana) [intent-on](tatparā)
 
 ## mukta-m0-p75-v1866
-hanging(pralambā) la*(?)pā*(?)bālambitā(la*(?)pā*(?)bālambitā) parivādakā(parivādakā)
+[hanging-down](pralambā) [la*(?)pā*(?)bālambitā](la*(?)pā*(?)bālambitā) [parivādakā](parivādakā)
 
 ## mukta-m0-p75-v1867
-dark(śyāmā) or-horse-faced(aśvena+atha+vaktā) and(ca) on-practitioner(sādhake) and(ca) not(na) falling(pātata)
+[dark](śyāmā) [or-horse](aśvena) [or-face](atha) [vaktā](vaktā) [and](ca) [for-practitioner](sādhake) [and](ca) [not](na) [falls](pātata)
 
 ## mukta-m0-p75-v1868
-eight-arm-endowed(aṣṭa+bāhu+samāyuktam) upward-hair(ūrdhva+keśam) own-tusked(sva+daṃṣṭrakam)
+[eight](aṣṭa) [arm](bāhu) [endowed-with](samāyuktaṃ) [upward](ūrdhva) [hair](keśaṃ) [own](sva) [tusk](daṃṣṭrakam)
 
 ## mukta-m0-p75-v1869
-with-bell-garland(kiṅkiṇī+mālayā) encircled(veṣṭā) with-anklet(pāda+nūpura) endowed(saṃyutam)
+[small-bell](kiṅkiṇī) [garland](mālā) [by-which-surrounded](eveṣṭā) [foot](pāda) [anklet](nūpura) [endowed-with](saṃyutam)
 
 ## mukta-m0-p75-v1870
-*(* ) *(* ) *(*) (?)(?) sacred-thread(jña+upavītam) and(ca) with-red-flower-adorned(rakta+puṣpa+upaśobhitam)
+[lacuna](*) [lacuna](*) [lacuna](*) [(?)](?) [sacred-thread](jñopavītaṃ) [and](ca) [red](rakta) [flower](puṣpa) [adorned-with](upaśobhitam)
 
 ## mukta-m0-p75-v1871
-in-both-ears(karṇayoḥ+ubhayoḥ) and(ca) indeed(ca+eva) in-both-hands(hastayoḥ+ubhayoḥ) also(api)
+[in-ears](karṇayoḥ) [in-both](ubhayoḥ) [and](ca) [indeed](eva) [in-hands](hastayoḥ) [in-both](ubhayoḥ) [also](api)
 
 ## mukta-m0-p75-v1872
-with-spider-scorpion(lūta+vṛścika+saṃyuktam) with-ear-garland(karṇa+mālā) adorned(vibhūṣitam)
+[spider](lūta) [scorpion](vṛścika) [endowed-with](saṃyuktaṃ) [ear](karṇa) [garland](mālā) [adorned](vibhūṣitam)
 
 ## mukta-m0-p75-v1873
-trident(śūlam) and(ca) vetāla(vetālam) sword(khaḍgam) and(ca) indeed(ca+eva) but(tu) on-right(dakṣiṇe)
+[spear](śūlaṃ) [and](ca) [vetāla](vetālaṃ) [sword](khaḍgaṃ) [and](ca) [indeed](eva) [but](tu) [in-right](dakṣiṇe)
 
 ## mukta-m0-p75-v1874
-bell(ghaṇṭā) shield(kheṭaka) noose(pāśam) and(ca) with-anklet(pāda+nūpura) situated(saṃsthitam)
+[bell](ghaṇṭā) [shield](kheṭaka) [noose](pāśaṃ) [and](ca) [foot](pāda) [anklet](nūpura) [situated-in](saṃsthitam)
 
 ## mukta-m0-p75-v1875
-thus(evam) form-bearing(rūpa+dharam) god(devam) of-Aghora-weapon(aghora+astra+adhi) presiding-deity(daivatam)
+[thus](evaṃ) [form](rūpa) [bearing](dharaṃ) [god](devaṃ) [aghora](aghora) [weapon](astra) [presiding](adhi) [deity](daivatam)
