@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p493-v12301
-[anaṅga-flower](anaṅgakusumā) [you-first](tvādyā) [second-cupid-girdle](dvitīyānaṅgamekhalā)
+[anaṅga-flower](anaṅgakusumā) [you-first](tvādyā) [second](dvitīyā) [anaṅga-girdle](anaṅgamekhalā)
 
 ## mukta-m0-p493-v12302
-[cupid-line](anaṅgalekhā) [and](ca) [cupid-speed](anaṅgavegā) [cupid-goad](anaṅgāṃkuśā) [thus](tathā)
+[anaṅga-line](anaṅgalekhā) [and](ca) [anaṅga-speed](anaṅgavegā) [anaṅga-goad](anaṅgāṃkuśā) [thus](tathā)
 
 ## mukta-m0-p493-v12303
-[thereafter-front](tadagre) [sixteen-spoked](ṣoḍaśāre) [but](tu) [westward-reverse](paścimādivilomataḥ)
+[that-before](tadagre) [sixteen-spoked](ṣoḍaśāre) [tu](tu) [westward-reverse](paścimādivilomataḥ)
 
 ## mukta-m0-p493-v12304
-[ego-attractor](ahaṅkārākarṣiṇī) [and](ca) [sound-attractor](śabdākarṣiṇikā) [thus](tathā)
+[egoism-attractor](ahaṅkārākarṣiṇī) [ca](ca) [sound-attractor](śabdākarṣiṇikā) [thus](tathā)
 
 ## mukta-m0-p493-v12305
-[taste-attractor](rasākarṣiṇikā) [declared](proktā) [smell-attractor](gandhākarṣiṇikā) [held](matā)
+[taste-attractor](rasākarṣiṇikā) [proclaimed](proktā) [smell-attractor](gandhākarṣiṇikā) [considered](matā)
 
 ## mukta-m0-p493-v12306
-[name-attractor](nāmākarṣiṇikā) [and-indeed](caiva) [seed-attractor](bījākarṣiṇikā) [thus](tathā)
+[name-attractor](nāmākarṣiṇikā) [ca](ca) [eva](eva) [seed-attractor](bījākarṣiṇikā) [thus](tathā)
 
 ## mukta-m0-p493-v12307
-[body-attractor](śarīrākarṣiṇī) [afterward](paścād) [self-attractor](ātmākarṣiṇikā) [thus](tathā)
+[body-attractor](śarīrākarṣiṇī) [afterwards](paścād) [self-attractor](ātmākarṣiṇikā) [thus](tathā)
 
 ## mukta-m0-p493-v12308
-[agitation-dissolution-attraction-mind-madness-great-goad](kṣobhaṇadrāvaṇākarṣamanonmādamahāṃkuśāḥ)
+[agitation](kṣobhaṇa) [melting](drāvaṇa) [attractor](ākarṣa) [mind-maddening](manonmāda) [great-goad](mahāṃkuśāḥ)
 
 ## mukta-m0-p493-v12309
-[likewise-below](tadvaccādhaḥ) [well-worship](samabhyarcya) [that-outside-enclosure](tadbahirbhūpure) [sacrifice](yajet)
+[thus](tadvat) [ca](ca) [below](adhaḥ) [worship](samabhyarcya) [that-outside](tadbahir) [enclosure](bhūpure) [sacrifice](yajet)
 
 ## mukta-m0-p493-v12310
-[gate-two](dvāre+dvayaṃ) [eastward-anima](prāgaṇimā) [mahima](mahimā) [laghima-ishita](laghimeśitā)
+[gate](dvāre) [two](dvayaṃ) [east](prāg) [minuteness](aṇimā) [greatness](mahimā) [lightness](laghimeśitā)
 
 ## mukta-m0-p493-v12311
-[taste-accomplishment](rasasiddhiśca) [tenth](daśamī) [worship-thus](saparyyaivaṃ) [declared](samīritā)
+[taste-accomplishment](rasasiddhiḥ) [ca](ca) [tenth](daśamī) [worship](saparyyā) [thus](evaṃ) [declared](samīritā)
 
 ## mukta-m0-p493-v12312
-[libation-etc](tarppaṇādi) [then](tataḥ) [do](kuryyān) [mantra-accomplished](mantrasiddhaḥ) [born](prajāyate)
+[libation-etc](tarppaṇādi) [then](tataḥ) [do](kuryyāt) [mantra-accomplished](mantrasiddhaḥ) [born](prajāyate)
 
 ## mukta-m0-p493-v12313
-[oleander-jasmine-flowers](karavīrajapuṣpaiśca) [oblation](homān) [delude](mohayate) [world](jagat)
+[oleander-flower](karavīra) [japa](japa) [flowers](puṣpaiḥ) [ca](ca) [homa](homāt) [delude](mohayate) [world](jagat)
 
 ## mukta-m0-p493-v12314
-[champaka-patala-bilva](campakaiḥ+pāṭalair+bilvair) [subdue-long](vaśamānayate+cirāt)
+[champaka](campakaiḥ) [pāṭala](pāṭalaiḥ) [bilva](bilvaiḥ) [subdue](vaśam) [bring](ānayate) [long](cirāt)
 
 ## mukta-m0-p493-v12315
-[bilva](bilvaiḥ) [be-incomparable](syādatulā) [lakshmi](lakṣmī) [sugar-cane-pieces](ikṣukhaṇḍaistathā) [subdued](vaśāḥ)
+[bilva](bilvaiḥ) [syāt](syāt) [incomparable](atulā) [lakṣmī](lakṣmīḥ) [sugar-cane-pieces](ikṣukhaṇḍaiḥ) [thus](tathā) [subdued](vaśāḥ)
 
 ## mukta-m0-p493-v12316
-[night](niśi) [gold-fruit](svarṇaphalair) [homa](homo) [enemy-army-destruction](ripusenāvināśakṛt)
+[night](niśi) [gold-fruit](svarṇaphalaiḥ) [homa](homo) [enemy-army](ripusenā) [destroyer](vināśakṛt)
 
 ## mukta-m0-p493-v12317
 [health](ārogyaṃ) [prosperity](sampadaṃ) [desire](kāmaṃ) [wealth](dhanaṃ) [sugar](śarkkarayā) [happiness](sukham)
 
 ## mukta-m0-p493-v12318
-[kshatriya](kṣatriyo) [citron](mātuluṅgaiśca) [vaishya](vaiśyo) [orange](nāriṅgajaiḥ) [fruits](phalaiḥ)
+[kṣatriya](kṣatriyo) [citron](mātuluṅgaiḥ) [ca](ca) [vaiśya](vaiśyo) [orange](nāriṅgajaiḥ) [fruits](phalaiḥ)
 
 ## mukta-m0-p493-v12319
-[jackfruit](panasānāṃ) [lakh-homa](lakṣahomād) [subdued](vaśyāḥ) [be](syuś) [emperors](cakravartinaḥ)
+[jackfruit](panasānāṃ) [lakh-homa](lakṣahomāt) [subdued](vaśyāḥ) [syuḥ](syuḥ) [emperors](cakravartinaḥ)
 
 ## mukta-m0-p493-v12320
-[coconut](nārikeraistu) [learning](pāṇḍityaṃ) [sesame](tilaiḥ) [all-desires-accomplishment](sarveṣṭasiddhayaḥ)
+[coconut](nārikeraistu) [learning](pāṇḍityaṃ) [sesame](tilaiḥ) [all-desires](sarveṣṭa) [accomplishment](siddhayaḥ)
 
 ## mukta-m0-p493-v12321
-[milk-rice](pāyasair) [wealth-grain-etc](dhanadhānyādi) [bandhuka](bandhūkaiḥ) [beings](prāṇino) [subdued](vaśāḥ)
+[milk-rice](pāyasaiḥ) [wealth-grain-etc](dhanadhānyādi) [bandhūka](bandhūkaiḥ) [beings](prāṇino) [subdued](vaśāḥ)
 
 ## mukta-m0-p493-v12322
-[salt](lavaṇai) [mustard-seed-combined](rājikāyuktair) [homa](homād) [wicked-destruction](duṣṭavināśanam)
+[salt](lavaṇaiḥ) [mustard-mixed](rājikāyuktaiḥ) [homa](homāt) [wicked-destroyer](duṣṭavināśanam)
 
 ## mukta-m0-p493-v12323
-[ghee](ghṛtahe) [desired-attainment](mādīpsitāptiḥ) [power](śaktiḥ) [be](syāt) [sesame-rice](tilataṇḍulaiḥ)
+[ghee](ghṛta) [he](he) [desired-attainment](mādīpsitāptiḥ) [power](śaktiḥ) [syāt](syāt) [sesame-rice](tilataṇḍulaiḥ)
 
 ## mukta-m0-p493-v12324
-[krishna](kṛṣṇasya) [power](śaktiṃ) [fair-faced](sumukhīṃ) [brahmins](dvijānāṃ) [not-authority](nādhikāritā)
+[kṛṣṇa](kṛṣṇasya) [power](śaktiṃ) [fair-faced](sumukhīṃ) [brahmins](dvijānāṃ) [not-authority](nādhikāritā)
 
 ## mukta-m0-p493-v12325
 [cini](cini) [hrīṃ](hrīṃ) [ṭha](ṭha) [caṭha](caṭha) [ṭha](ṭha) [ca](ca) [twenty-two-syllable](dvāviṃśatyakṣaro) [mantra](manuḥ)
