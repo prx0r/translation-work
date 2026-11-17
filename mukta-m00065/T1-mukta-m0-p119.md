@@ -8,70 +8,70 @@
 [with-hemp+fruit+foot+decoction](śaṇaphalyāṅghikāṣāyai) [or](vā) [with-stone+creeper+juice](stopalatārasena)
 
 ## mukta-m0-p119-v2953
-[with-steamed+bean+water](utsvinnamāṣatoyena) [or](vā) [with-boiled+bilva+water](svinnabilvāmbunāpi)
+[with-steamed+bean+water](utsvinna+māṣatoyena) [or](vā) [with-steamed+bilva+water](svinnabilvāmbunāpi)
 
 ## mukta-m0-p119-v2954
 [then](tataḥ) [with-mortar+and-others](colūkhalādyaistu) [coarse+powders](sthūlacūrṇāni) [one-should-make](kārayet)
 
 ## mukta-m0-p119-v2955
-[in-vessel+interior](sthālyāgarbhe) [indeed](tu) [having-placed](saṃsthāpya) [then](tato) [substances](drayāṇi) [one-should-put-in](niḥkṣipet)
+[in-pot+interior](sthālyāgarbhe) [indeed](tu) [having-placed](saṃsthāpya) [then](tato) [substances](drayāṇi) [one-should-put](niḥkṣipet)
 
 ## mukta-m0-p119-v2956
-[wax](sikrāta) [cow+milks](gavyadugdhāni) [sala-resin+oil+flax+born](sarjatailātasīrajaḥ)
+[wax](sikrāta) [cow+milks](gavyadugdhāni) [sala-resin+oil+linseed+produced](sarjatailātasīrajaḥ)
 
 ## mukta-m0-p119-v2957
-[with-hog-plum+waters](āmrātakāmbubhiḥ) [ground](piṣṭaṃ) [with-large-mouthed](sthūlāsyā) [milk-plant+called](dugdhikāhvayā)
+[with-hog-plum+waters](āmrātakāmbubhiḥ) [ground](piṣṭaṃ) [with-large-mouthed](sthūlāsyā) [milk-plant+called](dugdhi+kāhvayā)
 
 ## mukta-m0-p119-v2958
-[with-decoction](kvāthena) [of-ram+horn](meṣaśṛṅgasya) [with-flax+powder+mixed](atasīcūrṇamiśritam)
+[with-decoction](kvāthena) [of-ram+horn](meṣaśṛṅgasya) [with-linseed+powder+mixed](atasīcūrṇamiśritam)
 
 ## mukta-m0-p119-v2959
 [diamond+plaster](vajralepaḥ) [is-called](samakhyātaḥ) [likewise](tathā) [with-sala-resin+endowed](sarjasamanvitaḥ)
 
 ## mukta-m0-p119-v2960
-[with-beeswax](madhūcchiṣṭena) [and-with-pastes](kalkaiśca) [hemp-made](śāṇajaiḥ) [very-firm](sudṛḍhaiḥ) [new](navaiḥ)
+[with-beeswax](madhūcchiṣṭena) [and-with-pastes](kalkaiśca) [of-hemp](śāṇajaiḥ) [very-firm](sudṛḍhaiḥ) [new](navaiḥ)
 
 ## mukta-m0-p119-v2961
-[with-flax+oil+mixed](atasītailasammiśraṃ) [having-kneaded](mardayitvā) [well-cooked](supācitam)
+[with-linseed+oil+mixed](atasītailasammiśraṃ) [having-kneaded](mardayitvā) [well-cooked](supācitam)
 
 ## mukta-m0-p119-v2962
 [of-god+mansions+houses+and-others](suraveśmagṛhādīnāṃ) [floor+binding](bhūmibandho) [is-declared](nigadyate)
 
 ## mukta-m0-p119-v2963
-[like-still+water](sthiratoyopamā) [should-be-made](kāryā) [ground](bhūmiḥ) [indeed](tu) [well-leveled](sutalā) [even](samā)
+[like-still+water](sthiratoyopamā) [should-be-made](kāryā) [floor](bhūmiḥ) [indeed](tu) [well-leveled](sutalā) [even](samā)
 
 ## mukta-m0-p119-v2964
 [that+paste](tatkalkaṃ) [one-should-make](kārayet) [into-a-ball](piṇḍaṃ) [to-be-dried](viśoṣyaṃ) [ball](piṇḍam) [in-the-sun](ātape)
 
 ## mukta-m0-p119-v2965
-[then](tato) [with-scum](maṇḍena) [having-rubbed](saṃmardya) [floor+binding](bhūmibandhaṃ) [indeed](tu) [one-should-make](kārayet)
+[then](tato) [with-scum](maṇḍena) [having-kneaded](saṃmardya) [floor+binding](bhūmibandhaṃ) [indeed](tu) [one-should-make](kārayet)
 
 ## mukta-m0-p119-v2966
-[one-should-make](kuryād) [ground](bhūmiṃ) [even](samaṃ) [delightful](ramyaṃ) [well-set](susthitaṃ) [water+filled](jalapūritam)
+[one-should-make](kuryād) [floor](bhūmiṃ) [even](samaṃ) [pleasing](ramyaṃ) [well-set](susthitaṃ) [water+filled](jalapūritam)
 
 ## mukta-m0-p119-v2967
-[substance](dravyaṃ) [according-to-time](kālānurūpeṇa) [one-should-apply](yojayed) [by-part+measured](bhāgasammitam)
+[substance](dravyaṃ) [according-to-time](kālānurūpeṇa) [one-should-apply](yojayet) [by-part+measured](bhāgasammitam)
 
 ## mukta-m0-p119-v2968
-[in-summer](grīṣme) [indeed](nu) [five+parts](pañcabhāgāḥ) [should-be](syuḥ) [in-cold+season](śītakāle) [likewise](tathā) [three](trayaḥ)
+[in-summer](grīyme) [indeed](nu) [five+parts](pañcabhāgāḥ) [should-be](syuḥ) [in-cold+season](śītakāle) [likewise](tathā) [three](trayaḥ)
 
 ## mukta-m0-p119-v2969
-[thus](evaṃ) [having-given](dattvā) [indeed](tu) [which](yaḥ) [previously](pūrvaṃ) [binding](bandhaḥ) [here](atra) [declared](kathitaḥ) [of-the-ground](kṣiteḥ)
+[thus](evaṃ) [having-given](dattvā) [indeed](tu) [which](yaḥ) [previously](pūrvaṃ) [binding](bandhaḥ) [here](atra) [declared](kathitaḥ) [of-earth](kṣiteḥ)
 
 ## mukta-m0-p119-v2970
-[with-water](toyena) [struck+brush](hatakūrcaṃ) [indeed](tu) [should-apply](dāpayet) [that](tat) [the-wise-one](vicakṣaṇaḥ)
+[with-water](toyena) [struck+brush](hatakūrcaṃ) [indeed](tu) [one-should-apply](dāpayet) [that](tat) [wise-one](vicakṣaṇaḥ)
 
 ## mukta-m0-p119-v2971
 [of-silk-cotton-tree+tinduka+and-others](śālmalītindukādīnāṃ) [in-floor+binding](bhūmibandhe) [is-recommended](praśasyate)
 
 ## mukta-m0-p119-v2972
-[for-so-many](tāvad) [year+thousands](varṣasahasrāṇi) [the-maker](kartā) [rejoices](nandati) [in-that+city](tatpure)
+[for-so-many](tāvat) [year+thousands](varṣasahasrāṇi) [maker](kartā) [rejoices](nandati) [in-that+city](tatpure)
 
 ## mukta-m0-p119-v2973
 [fifth](pañcamaḥ) [time-rod+named](kāladaṇḍākhyaḥ) [with-descendants](sānvayāḥ) [fruit+givers](phaladāyakāḥ)
 
 ## mukta-m0-p119-v2974
-[confusion](vibhrāntiṃ) [vibhrama](vibhramaḥ) [may-cause](kuryāt) [the-punisher](śāsakaḥ) [may-punish](śāsayet) [always](sadā)
+[confusion](vibhrāntiṃ) [Vibhrama](vibhramaḥ) [may-cause](kuryāt) [Śāsaka](śāsakaḥ) [may-rule](śāsayet) [always](sadā)
 
 ## mukta-m0-p119-v2975
 [these](ete) [in-god+house](suragṛhe) [obstacles](vighnā) [as-long-as](yāvat) [they](te) [indeed](tu) [not](na) [worshipped](pūjitāḥ)
