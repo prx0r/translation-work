@@ -2,52 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p404-v10076
-[veda-vyasa](vedavyāso) [sage-meter](muniśchandaḥ) [work-ganga](kṛtirgaṅgā) [and](ca) [deity](devatā)
+vedavyāsa (vedavyāsaḥ) muni (muniḥ) chandaḥ (chandaḥ) kṛti (kṛtiḥ) gaṅgā (gaṅgā) ca (ca) devatā (devatā)
+
 ## mukta-m0-p404-v10077
-[all](nikhilaṃ) [as-before](pūrvavat) [do](kuryān) [all-desires-giving](nikhilābhīṣṭado) [manu](manuḥ)
+nikhilaṃ (nikhilaṃ) pūrvavat (pūrvavat) kuryāt (kuryāt) nikhilābhīṣṭadaḥ (nikhilābhīṣṭadaḥ) manuḥ (manuḥ)
+
 ## mukta-m0-p404-v10078
-[om](oṃ) [hriim](hrīṃ) [shriim](śrīṃ) [heart-goddess-ganga-dear](hṛdbhagavati) [ganga](gaṅge) [obeisance](ca) [nama](dayite) [nama](namaḥ)
+oṃ (oṃ) hrīṃ (hrīṃ) śrīṃ (śrīṃ) hṛd (hṛd) bhagavati (bhagavati) gaṅge (gaṅge) ca (ca) dayite (dayite) namaḥ (namaḥ)
+
 ## mukta-m0-p404-v10079
-[three-two-ocean-arrow-five-color](tridvyabdhīṣudvidvivarṇaiḥ) [six-limb-rite](ṣaḍaṅgavidhirīritaḥ)
+tridvyabdhīṣudvidvivarṇaiḥ (tridvyabdhīṣudvidvivarṇaiḥ) ṣaḍaṅgavidhiḥ (ṣaḍaṅgavidhiḥ) īritaḥ (īritaḥ)
+
 ## mukta-m0-p404-v10080
-[letter-lakh](varṇalakṣaṃ) [japa](japed) [homa](dhomaḥ) [as-before](prāgvat) [well-pleasing-hand](sammatkarastvayam)
+varṇalakṣaṃ (varṇalakṣaṃ) japed (japed) homaḥ (homaḥ) prāgvat (prāgvat) sammatkaraḥ (sammatkaraḥ) tvayam (tvayam)
+
 ## mukta-m0-p404-v10081
-[hili-pair](hilidvandvaṃ) [mili-pair](milidvandvaṃ) [ganga](gaṅge) [goddess](devi) [salutation](namas) [thus](tathā)
+hilidvandvaṃ (hilidvandvaṃ) milidvandvaṃ (milidvandvaṃ) gaṅge (gaṅge) devi (devi) namaḥ (namaḥ) tathā (tathā)
+
 ## mukta-m0-p404-v10082
-[three-two-two-akshi-yuga-two-letter](tridvidvyakṣiyugadvyarṇaiḥ) [six-limb-rite](ṣaḍaṅgavidhirīritaḥ)
+tridvidvyakṣiyugadvyarṇaiḥ (tridvidvyakṣiyugadvyarṇaiḥ) ṣaḍaṅgavidhiḥ (ṣaḍaṅgavidhiḥ) īritaḥ (īritaḥ)
+
 ## mukta-m0-p404-v10083
-[to-narmada](narmadāyai) [nama](nama) [iti](iti) [six-letter](ṣaḍarṇaḥ) [proclaimed](parikīrtitaḥ)
+narmadāyai (narmadāyai) namaḥ (namaḥ) iti (iti) ṣaḍarṇaḥ (ṣaḍarṇaḥ) parikīrtitaḥ (parikīrtitaḥ)
+
 ## mukta-m0-p404-v10084
-[shining-hand](lasaddhastāṃ) [golden-radiance](svarṇakāntiṃ) [with-ornaments](sālaṅkārāṃ) [worship-i](bhajāmyaham)
+lasaddhastāṃ (lasaddhastāṃ) svarṇakāntiṃ (svarṇakāntiṃ) sālaṅkārāṃ (sālaṅkārāṃ) bhajāmi (bhajāmi) aham (aham)
+
 ## mukta-m0-p404-v10085
-[six-limbs](ṣaḍaṅgāni) [one-by-one-syllable-heart-etc-nyasas](ekaikākṣarairhṛdayādinyāsāḥ) [as](yathā) [heart-nama](nahṛdayāya) [nama](namaḥ) [ra-head-svaha](rmaśirase) [svaha](svāhā) [da-crown-vasat](dā) [shikha-vasat](śikhāyai) [vasat](vaṣaṭ) [etc](ityādi) [ca](ca) [mantra-syllables](mantrārṇaiḥ) [japa](prajaped) [letter-count](varṇasaṅkhyayā)
+ṣaḍaṅgāni (ṣaḍaṅgāni) ca (ca) mantrārṇaiḥ (mantrārṇaiḥ) prajaped (prajaped) varṇasaṅkhyayā (varṇasaṅkhyayā)
+
 ## mukta-m0-p404-v10086
-[here](iha) [happiness](saukhyaṃ) [other-world](paratrāpi) [shiva-world](śivaloke) [exalted](mahīyate)
+iha (iha) saukhyaṃ (saukhyaṃ) paratrāpi (paratrāpi) śivaloke (śivaloke) mahīyate (mahīyate)
+
 ## mukta-m0-p404-v10087
-[sarasvati-bank](sarasvatītaṭe) [japa](japtāḥ) [quickly](tvaritaṃ) [siddhi-giving](siddhidāyakāḥ)
+sarasvatītaṭe (sarasvatītaṭe) japtāḥ (japtāḥ) tvaritaṃ (tvaritaṃ) siddhidāyakāḥ (siddhidāyakāḥ)
+
 ## mukta-m0-p404-v10088
-[ganga-word](gaṅgāśabdasya) [before](pūrve) [they](te) [god-giving](godāyā) [mantras](manavaḥ) [remembered](smṛtāḥ)
+gaṅgāśabdasya (gaṅgāśabdasya) pūrve (pūrve) te (te) godāyāḥ (godāyāḥ) manavaḥ (manavaḥ) smṛtāḥ (smṛtāḥ)
+
 ## mukta-m0-p404-v10089
-[shri-krishna-play-river](śrīkṛṣṇakheladyunadi) [save-me](trāhi) [me](māṃ) [you](tvaṃ) [ocean-of-becoming](bhavārṇavāt)
+śrīkṛṣṇakheladyunadi (śrīkṛṣṇakheladyunadi) trāhi (trāhi) māṃ (māṃ) tvaṃ (tvaṃ) bhavārṇavāt (bhavārṇavāt)
+
 ## mukta-m0-p404-v10090
-[meter-anushtubh](chandonuṣṭup) [six-limbs](ṣaḍaṅgāni) [half-half-quarter-order](pādārdhārdhakrameṇa) [ca](ca)
+chandaḥ (chandaḥ) anuṣṭup (anuṣṭup) ṣaḍaṅgāni (ṣaḍaṅgāni) pādārdhārdhakrameṇa (pādārdhārdhakrameṇa) ca (ca)
+
 ## mukta-m0-p404-v10091
-[sesame-ghee](tilājyābhyāṃ) [offer](hunen) [mantrin](mantrī) [bhaskari](bhāskariṃ) [not](naiva) [look](vīkṣate)
+tilājyābhyāṃ (tilājyābhyāṃ) hunet (hunet) mantrī (mantrī) bhāskariṃ (bhāskariṃ) na (na) eva (eva) vīkṣate (vīkṣate)
+
 ## mukta-m0-p404-v10092
-[so-and-so-island-varaka-so-and-so-dravya-ocean](amukadvīpāvarakāmukadravyodadhe) [say](vadet)
+amukadvīpāvarakāmukadravyodadhe (amukadvīpāvarakāmukadravyodadhe) vadet (vadet)
+
 ## mukta-m0-p404-v10093
-[ocean-mantra](samudramantra) [declared](uddiṣṭaḥ) [sindhu-island](sindhudvīpo) [sage-opinion](munirmataḥ)
+samudramantraḥ (samudramantraḥ) uddiṣṭaḥ (uddiṣṭaḥ) sindhudvīpaḥ (sindhudvīpaḥ) muniḥ (muniḥ) mataḥ (mataḥ)
+
 ## mukta-m0-p404-v10094
-[words-of-mantra](padairmanoḥ) [six-limbs](ṣaḍaṅgāni) [that-that-form](tattadrūpaṃ) [contemplate](vicintayet)
+padaiḥ (padaiḥ) manoḥ (manoḥ) ṣaḍaṅgāni (ṣaḍaṅgāni) tattadrūpaṃ (tattadrūpaṃ) vicintayet (vicintayet)
+
 ## mukta-m0-p404-v10095
-[that-that-inner](tattadantargataṃ) [thing](vastu) [obtain](labhate) [sadhaka](sādhako) [certainly](dhruvam)
+tattadantargataṃ (tattadantargataṃ) vastu (vastu) labhate (labhate) sādhakaḥ (sādhakaḥ) dhruvam (dhruvam)
+
 ## mukta-m0-p404-v10096
-[tara](tāraṃ) [ya](yaṃ) [vayu](vāyave) [prana-lord](prāṇādhipataye) [pada](padaṃ) [say](vadet)
+tāraṃ (tāraṃ) yaṃ (yaṃ) vāyave (vāyave) prāṇādhipataye (prāṇādhipataye) padaṃ (padaṃ) vadet (vadet)
+
 ## mukta-m0-p404-v10097
-[ya](ya) [nama](namo) [go-two-color-ya](godvivarṇoyaṃ) [vayu-mantra](vāyumantra) [declared](udīritaḥ)
+ya (ya) namaḥ (namaḥ) godvivarṇoyaṃ (godvivarṇoyaṃ) vāyumantraḥ (vāyumantraḥ) udīritaḥ (udīritaḥ)
+
 ## mukta-m0-p404-v10098
-[five-limbs](pañcāṅgāni) [of-mantra](manorasya) [om](oṃ) [ya](yaṃ) [bija-etc](bījādikaiḥ) [words](padaiḥ)
+pañcāṅgāni (pañcāṅgāni) manoḥ (manoḥ) asya (asya) oṃ (oṃ) yaṃ (yaṃ) bījādikaiḥ (bījādikaiḥ) padaiḥ (padaiḥ)
+
 ## mukta-m0-p404-v10099
-[noose-goad-hand-preta-act-surrounding](pāśāṃkuśakarampretakṛtyāparisarānvitam)
+pāśāṃkuśakaram (pāśāṃkuśakaram) pretakṛtyāparisarānvitam (pretakṛtyāparisarānvitam)
+
 ## mukta-m0-p404-v10100
-[siddha-mantra](siddhamantrastu) [that-time](tatkālambhavedbhūmau) [strength-greater](balādhikaḥ)
+siddhamantraḥ (siddhamantraḥ) tu (tu) tatkālam (tatkālam) bhaved (bhaved) bhūmau (bhūmau) balādhikaḥ (balādhikaḥ)

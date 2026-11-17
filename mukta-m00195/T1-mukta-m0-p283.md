@@ -2,19 +2,19 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p283-v7051
-[fixed](niyato) [having-become](bhūtvā) [deity+meditation+intent](devatādhyānatatparaḥ)
+[fixed](niyato) [having-become](bhūtvā) [deity](devatā) [meditation](dhyāna) [intent](tatparaḥ)
 
 ## mukta-m0-p283-v7052
-[after-seven-days](saptāhāt) [arises](jāyate) [quickly](śīghram) [another](aparaḥ) [speech-lord](vākpatiḥ) [like](yathā)
+[seven-days](saptāhāt) [quickly](śīghram) [is-born](jāyate) [another](aparaḥ) [speech-lord](vākpatiḥ) [like](yathā)
 
 ## mukta-m0-p283-v7053
-[by-half-niṣka-foot-measure](niṣkārdhapādamānena) [saffron](haridrām) [rock-salt](saindhavam) [calamus](vacām)
+[half-karṣa](niṣkārdha) [foot-measure](pādamānena) [turmeric](haridrāṃ) [rock-salt](saindhavaṃ) [calamus](vacām)
 
 ## mukta-m0-p283-v7054
-[with-good-foods](subhakṣyabhojyaiḥ) [and](ca) [having-fed](bhojayitvā) [and](ca) [girls](kanyakāḥ)
+[well-food](subhakṣya) [eatables](bhojyaiḥ) [and](ca) [having-fed](bhojayitvā) [and](ca) [girls](kanyakāḥ)
 
 ## mukta-m0-p283-v7055
-[she](sā) [obtains](labhate) [son](putram) [endowed-with-all-marks](sarvalakṣaṇasaṃyutam)
+[she](sā) [obtains](labhate) [son](putraṃ) [all-marks](sarvalakṣaṇa) [endowed](saṃyutam)
 
 ## mukta-m0-p283-v7056
 [declared](nigaditaḥ) [meter](chandaḥ) [gāyatrī](gāyatram) [is-called](ucyate)
@@ -23,55 +23,55 @@
 [six-limbs](ṣaḍaṃgāni) [meditation](dhyānam) [its](asya) [is-determined](nirūpyate)
 
 ## mukta-m0-p283-v7058
-[holding](dhārayantam) [noose+rosary+teeth](pāśākṣasūtradaśanān) [and](tathā) [goad](aṃkuśam)
+[noose](pāśa) [rosary](akṣasūtra) [teeth](daśanān) [bearing](dhārayantaṃ) [and](tathā) [goad](aṃkuśam)
 
 ## mukta-m0-p283-v7059
-[midday-sun-like](madhyāhnādityasaṃkāśam) [beautiful-shakti-endowed](cāruśaktyā) [with](samanvitam)
+[midday-sun](madhyāhnāditya) [resembling](saṃkāśaṃ) [beautiful](cāru) [power](śaktyā) [endowed](samanvitam)
 
 ## mukta-m0-p283-v7060
-[first-circuit](prathamāvṛttiḥ) [with-limbs](aṃgaiḥ) [may-be](syāt) [in-six-petals](dalaṣaṭke) [then](tataḥ) [beyond](param)
+[first-revolution](prathamāvṛttiḥ) [with-limbs](aṃgaiḥ) [may-be](syāt) [petal-six](dalaṣaṭke) [then](tataḥ) [after](param)
 
 ## mukta-m0-p283-v7061
-[worship](pūjayet) [outside](bāhye) [in-earth-square](bhūpure) [world-guardians](lokapālakān)
+[should-worship](pūjayet) [outside](bāhye) [bhūpura](bhūpure) [world-guardians](lokapālakān)
 
 ## mukta-m0-p283-v7062
-[recite](japet) [mantra](mantram) [its-tenth-part](taddaśāṃśam) [concentrated](samāhitaḥ)
+[should-chant](japet) [mantra](mantraṃ) [that-tenth-part](taddaśāṃśaṃ) [concentrated](samāhitaḥ)
 
 ## mukta-m0-p283-v7063
-[do](kuryāt) [thus](evam) [perfected](siddhaḥ) [becomes](bhavet) [mantra](manuḥ)
+[should-do](kuryāt) [thus](evaṃ) [accomplished](siddhaḥ) [becomes](bhavet) [mantra](manuḥ)
 
 ## mukta-m0-p283-v7064
-[with-ghee](ājyāt) [offerings](nair) [daily](nityam) [food-increases](annavān) [from-year](vatsarāt) [becomes](bhavet)
+[with-ghee](ājyāt) [daily](nityam) [should-offer](juhuyāt) [food](anna) [year](vatsarāt) [becomes](bhavet)
 
 ## mukta-m0-p283-v7065
-[obtains](labhet) [girl](kanyām) [this-one](enam) [who](yaḥ) [worships](bhajate) [man](naraḥ)
+[obtains](labhet) [girl](kanyā) [this](enaṃ) [who](yaḥ) [worships](bhajate) [man](naraḥ)
 
 ## mukta-m0-p283-v7066
-[and](ca) [great](mahā) [thus-saying](ityuktavā) [gaṇapati](gaṇapatim) [again](punaḥ)
+[and](ca) [great](mahā) [thus-said](uktvā) [gaṇapati](gaṇapatiṃ) [again](punaḥ)
 
 ## mukta-m0-p283-v7067
-[declared](ākhyātaḥ) [god](devaḥ) [shakti-vinayaka](śaktivināyakaḥ)
+[declared](ākhyātaḥ) [god](devaḥ) [power-vināyaka](śaktivināyakaḥ)
 
 ## mukta-m0-p283-v7068
-[by-mantra-syllables](mantrārṇaiḥ) [limb-arrangement](aṅgakḷptiḥ) [here](iha) [stated](uditā)
+[mantra-syllables](mantrārṇaiḥ) [limb-arrangement](aṅgakḷptiḥ) [here](iha) [is-stated](uditā)
 
 ## mukta-m0-p283-v7069
-[lotus-goad](padmasṛṇī) [holding](dadhānam) [left](vāma) [upper](ūrdhvake)
+[lotus-goad](padmasṛṇī) [holding](dadhānaṃ) [left](vāma) [upward](ūrdhvake)
 
 ## mukta-m0-p283-v7070
-[jewel-made](maṇimayam) [crown](mukuṭam) [bearing](bibhratam) [lord](prabhum)
+[jewel](maṇimayaṃ) [crown](mukuṭaṃ) [wearing](bibhrataṃ) [lord](prabhum)
 
 ## mukta-m0-p283-v7071
-[on-seat](pīṭhe) [vighnesha-path](virivighneśavartmanā)
+[seat](pīṭhe) [obstacle-remover](virivighneśa) [path](vartmanā)
 
 ## mukta-m0-p283-v7072
-[with-cakes](apūpaiḥ) [ghee-mixed](ghṛtasaṃyuktaiḥ) [duly](vidhivat) [worshiped](pūjitena) [in-fire](ale)
+[with-cakes](apūpaiḥ) [ghee-mixed](ghṛtasaṃyuktaiḥ) [duly](vidhivat) [worshipped](pūjita) [fire](nale)
 
 ## mukta-m0-p283-v7073
-[perfected](siddham) [mantra](manuḥ) [mantra-knower](mantrī) [rites](prayogān) [duly](vidhivat) [performs](caret)
+[accomplished-mantra](siddhamanuḥ) [mantrin](mantrī) [rites](prayogān) [duly](vidhivat) [should-perform](caret)
 
 ## mukta-m0-p283-v7074
-[with-coconuts](nārikelaiḥ) [and](ca) [homa](homaḥ) [world-subduing](lokavaśaṅkaraḥ)
+[with-coconuts](nārikelaiḥ) [and](ca) [offering](homaḥ) [world-subduing](lokavaśaṅkaraḥ)
 
 ## mukta-m0-p283-v7075
-[with-parched-grain](saktubhiḥ) [and](ca) [done](kṛtaḥ) [homa](homaḥ) [brahmins](brāhmaṇānām) [subduing](vaśaṅkaraḥ)
+[with-roasted-grain](saktubhiḥ) [and](ca) [done](kṛtaḥ) [offering](homaḥ) [brahmins](brāhmaṇānāṃ) [subduing](vaśaṅkaraḥ)

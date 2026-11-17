@@ -8,7 +8,11 @@
 "tokens": [
 {
 "surface": "na",
-"quick_gloss": "not-indeed"
+"quick_gloss": "not"
+},
+{
+"surface": "hi",
+"quick_gloss": "indeed"
 },
 {
 "surface": "tathā",
@@ -32,7 +36,7 @@
 },
 {
 "surface": "kiñcitkartumahati",
-"quick_gloss": "anything-do"
+"quick_gloss": "able-to-do-anything"
 }
 ]
 },
@@ -44,12 +48,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "tasmāt",
-"quick_gloss": "therefore"
-},
-{
-"surface": "puṃśatkisaṃyogaṃ",
-"quick_gloss": "man-woman-union"
+"surface": "tasmātpuṃśatkisaṃyogaṃ",
+"quick_gloss": "therefore-male-power-union"
 },
 {
 "surface": "kṛtvā",
@@ -86,7 +86,7 @@
 },
 {
 "surface": "śaktirūpiṇīm",
-"quick_gloss": "śakti-form"
+"quick_gloss": "power-form"
 }
 ]
 },
@@ -156,7 +156,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "dadyāt",
+"surface": "dadyād",
 "quick_gloss": "give"
 },
 {
@@ -173,7 +173,7 @@
 },
 {
 "surface": "prabravīmyaham",
-"quick_gloss": "I-speak"
+"quick_gloss": "i-speak"
 }
 ]
 },
@@ -198,7 +198,7 @@
 },
 {
 "surface": "uttarottarasaṅkhyakān",
-"quick_gloss": "increasing-count"
+"quick_gloss": "increasing-counts"
 }
 ]
 },
@@ -223,7 +223,7 @@
 },
 {
 "surface": "vargau",
-"quick_gloss": "groups"
+"quick_gloss": "classes"
 },
 {
 "surface": "saṅketavācakau",
@@ -243,12 +243,16 @@
 "quick_gloss": "vowels"
 },
 {
-"surface": "tat-krameṇa",
+"surface": "tat",
 "quick_gloss": "that-order"
 },
 {
+"surface": "krameṇa",
+"quick_gloss": "krameṇa"
+},
+{
 "surface": "paścimottaradevayoḥ",
-"quick_gloss": "west-north-deities"
+"quick_gloss": "western-northern-deities"
 }
 ]
 },
@@ -289,12 +293,12 @@
 "quick_gloss": "to-be-taken"
 },
 {
-"surface": "varṇāḥ",
+"surface": "varṇā",
 "quick_gloss": "letters"
 },
 {
 "surface": "ekādisaṅkhyakāḥ",
-"quick_gloss": "one-etc-count"
+"quick_gloss": "one-etc-counts"
 }
 ]
 },
@@ -344,7 +348,7 @@
 },
 {
 "surface": "āmāṅkayojanam",
-"quick_gloss": "name-mark-joining"
+"quick_gloss": "name-marking"
 }
 ]
 },
@@ -373,7 +377,7 @@
 },
 {
 "surface": "nāśako",
-"quick_gloss": "destroyer"
+"quick_gloss": "not-destroyer"
 },
 {
 "surface": "bhavet",
@@ -390,7 +394,7 @@
 "tokens": [
 {
 "surface": "yathā",
-"quick_gloss": "thus"
+"quick_gloss": "as"
 }
 ]
 },
@@ -403,7 +407,7 @@
 "tokens": [
 {
 "surface": "lekhya",
-"quick_gloss": "written"
+"quick_gloss": "to-be-written"
 },
 {
 "surface": "udaṅmadhye",
@@ -435,12 +439,8 @@
 "quick_gloss": "after"
 },
 {
-"surface": "aśvagatyā",
-"quick_gloss": "horse-gait"
-},
-{
-"surface": "eva",
-"quick_gloss": "eva"
+"surface": "aśvagatyeva",
+"quick_gloss": "horse-gait-thus"
 },
 {
 "surface": "pūrvavat",
@@ -464,7 +464,7 @@
 "quick_gloss": "eastward"
 },
 {
-"surface": "vad",
+"surface": "vat",
 "quick_gloss": "like"
 },
 {
@@ -515,7 +515,7 @@
 "tokens": [
 {
 "surface": "prakalpya",
-"quick_gloss": "having-arranged"
+"quick_gloss": "having-devised"
 },
 {
 "surface": "atha",
@@ -544,7 +544,7 @@
 "tokens": [
 {
 "surface": "vāyavyāṃ",
-"quick_gloss": "northwest"
+"quick_gloss": "northwestern"
 },
 {
 "surface": "tu",

@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p385-v9601
-[having-offered](hutvā) [accomplished](siddha)+[mantra](manur)+[reciter](mantrī) [in-rites](prayogeṣu) [hundred](śataṃ) [should-chant](japet)
+[hutvā](hutvā) [siddham](siddham) [anurmantrī](anurmantrī) [prayogeṣu](prayogeṣu) [śataṃ](śataṃ) [japet](japet)
 
 ## mukta-m0-p385-v9602
-[should-destroy](vināśayet) [others'-made](parakṛtaṃ) [yantra](yantra)+[mantra](mantra)+[etc](ādi)+[means](sādhanam)
+[vināśayet](vināśayet) [parakṛtaṃ](parakṛtaṃ) [yantra-mantra-ādi-sādhanam](yantramantrādisādhanam)
 
 ## mukta-m0-p385-v9603
-[nine-durga-natured](navadurgātmakaṃ) [whose](yasya) [by-service](sevanāt) [enjoyment](bhukti)+[liberation](muktike)
+[navadurgā-ātmakaṃ](navadurgātmakaṃ) [yasya](yasya) [sevanāt](sevanāt) [bhukti-muktike](bhuktimuktike)
 
 ## mukta-m0-p385-v9604
-[samsara](saṃsāra)+[bond](bandha)+[destruction](nirnāśi) [knowledge](jñānam)+[obtained](āptaṃ) [by-samadhi](samādhinā)
+[saṃsāra-bandha-nirnāśi](saṃsārabandhanirnāśi) [jñānam](jñānam) [āptaṃ](āptaṃ) [samādhinā](samādhinā)
 
 ## mukta-m0-p385-v9605
-[of-chanting-etc](japādyasya) [fruit](phalaṃ) [should-give](dadyāt) [that](taṃ) [mantra](manuṃ) [I-speak](vacmi) [now](sāmpratam)
+[japāt](japāt) [yasya](yasya) [phalaṃ](phalaṃ) [dadyāt](dadyāt) [taṃ](taṃ) [manuṃ](manuṃ) [vacmi](vacmi) [sāmpratam](sāmpratam)
 
 ## mukta-m0-p385-v9606
-[vicce](vicce) [nine-syllable-mantra](navārṇamantro) [this](ayaṃ) [shakti-mantra-supreme-supreme](śaktimantrottamottamaḥ)
+[vicce](vicce) [navārṇa-mantraḥ](navārṇamantroyaṃ) [śakti-mantra-uttama-uttamaḥ](śaktimantrottamottamaḥ)
 
 ## mukta-m0-p385-v9607
-[gayatri](gāyatṛ) [ushnik](uṣṇik) [anustubh](anuṣṭup) [and](ca) [meters-three](cchandastrayam) [declared](udīritam)
+[gāyatrī](gāyatryuṣṇiganuṣṭup) [uṣṇik](gāyatryuṣṇiganuṣṭup) [anuṣṭup](gāyatryuṣṇiganuṣṭup) [ca](ca) [chandaḥ-trayam](cchandastrayamudīritam) [udīritam](cchandastrayamudīritam)
 
 ## mukta-m0-p385-v9608
-[nanda](nandā) [shakambhari](śākambharī) [bhima](bhīmā) [shakti-triad](śaktitrayam) [called](udāhṛtam)
+[nandā](nandāśākambharībhīmāśaktitrayamudāhṛtam) [śākambharī](nandāśākambharībhīmāśaktitrayamudāhṛtam) [bhīmā](nandāśākambharībhīmāśaktitrayamudāhṛtam) [śakti-trayam](nandāśākambharībhīmāśaktitrayamudāhṛtam) [udāhṛtam](nandāśākambharībhīmāśaktitrayamudāhṛtam)
 
 ## mukta-m0-p385-v9609
-[agni](agni) [vayu](vāyu) [bhaga](bhagāḥ) [tattva](tattvaṃ) [as-before](prāgvat) [rishi-etc](ṛṣyādikaṃ) [should-place](nyaset)
+[agni](agnivāyubhagāstattvaṃ) [vāyu](agnivāyubhagāstattvaṃ) [bhagāḥ](agnivāyubhagāstattvaṃ) [tattvaṃ](agnivāyubhagāstattvaṃ) [prāgvat](prāgvadṛṣyādikaṃ) [ṛṣyādikaṃ](prāgvadṛṣyādikaṃ) [nyaset](nyaset)
 
 ## mukta-m0-p385-v9610
-[then](tata) [eleven-nyasas](ekādaśanyāsān) [should-do](kuryyāt) [desired-fruit-giving](iṣṭaphalapradān)
+[tataḥ](tata) [ekādaśa-nyāsān](ekādaśanyāsānkuryyādiṣṭaphalapradān) [kuryyāt](kuryyādiṣṭaphalapradān) [iṣṭa-phala-pradān](kuryyādiṣṭaphalapradān)
 
 ## mukta-m0-p385-v9611
-[by-done](kṛtena) [by-which](yena) [of-deity](devasya) [same-form](sārūpyaṃ) [attains](yāti) [man](mānavaḥ)
+[kṛtena](kṛtena) [yena](yena) [devasya](devasya) [sārūpyaṃ](sārūpyaṃ) [yāti](yāti) [mānavaḥ](mānavaḥ)
 
 ## mukta-m0-p385-v9612
-[seed-triad](bījatrayaṃ) [oṃ aiṃ hrīṃ klīṃ namaḥ kaniṣṭhāyugme, oṃ aiṃ hrīṃ klīṃ namaḥ anāmikāyugme, oṃ aiṃ hrīṃ klīṃ namaḥ madhyamāyugme, asyaiva ṣaḍakṣarasya nyāsāccheṣasthāneṣvapi kuryyāt || ] [tu](tu) [mantra-beginning](mantrādyaṃ) [tara-etc-heart-ending](tārādihṛdayāntakam)
+[bīja-trayaṃ](bījatrayaṃ) [oṃ aiṃ hrīṃ klīṃ namaḥ kaniṣṭhā-yugme](oṃ aiṃ hrīṃ klīṃ namaḥ kaniṣṭhāyugme) [oṃ aiṃ hrīṃ klīṃ namaḥ anāmikā-yugme](oṃ aiṃ hrīṃ klīṃ namaḥ anāmikāyugme) [oṃ aiṃ hrīṃ klīṃ namaḥ madhyamā-yugme](oṃ aiṃ hrīṃ klīṃ namaḥ madhyamāyugme) [asya-eva ṣaḍakṣarasya nyāsāt śeṣa-sthāneṣu api kuryyāt](asyaiva ṣaḍakṣarasya nyāsāccheṣasthāneṣvapi kuryyāt) [tu](tu) [mantra-ādyaṃ](mantrādyaṃ) [tārā-ādi-hṛdaya-antakam](tārādihṛdayāntakam)
 
 ## mukta-m0-p385-v9613
-[little-finger](kaniṣṭhā)+[ring-finger](anāmikā)+[middle](madhyā)+[index](tarjanyaṃ)+[thumb](aṃguṣṭha)+[pairs](yugmake)
+[kaniṣṭhā-anāmikā-madhyā-tarjanya-aṅguṣṭha-yugmake](kaniṣṭhānāmikāmadhyātarjanyaṃguṣṭhayugmake)
 
 ## mukta-m0-p385-v9614
-[heart-etc-six-limbs](hṛdayādiṣaḍaṅgeṣu) [caste-endowed](jātiyuktaṃ) [again-place](punarnyaset)
+[hṛdaya-ādi-ṣaḍaṅgeṣu](hṛdayādiṣaḍaṅgeṣu) [jāti-yuktaṃ](jātiyuktaṃ) [punar](punar) [nyaset](nyaset)
 
 ## mukta-m0-p385-v9615
-[nyasa](nyāsaḥ) [should-be-done](kāryaḥ) [of-saptashati](saptaśatyāḥ) [should-recite](paṭhet) [according-to-desire-specifically](kāmaviśeṣataḥ)
+[nyāsaḥ](nyāsaḥ) [kāryaḥ](kāryaḥ) [saptaśatyāḥ](saptaśatyāḥ) [paṭhet](paṭhet) [kāma-viśeṣataḥ](kāmaviśeṣataḥ)
 
 ## mukta-m0-p385-v9616
-[maya-bija-etc](māyābījādikā) [hlīṃ brāhmī māṃ pūrvataḥ pātu, hrīṃ māheśvarī āgneyyāṃ pātu evamanyatranyasyet || ] [brahmi](brāhmī) [from-east](pūrvataḥ) [protect](pātu) [me](māṃ) [always](sadā)
+[māyā-bīja-ādikā](māyābījādikā) [hlīṃ brāhmī māṃ pūrvataḥ pātu](hlīṃ brāhmī māṃ pūrvataḥ pātu) [hrīṃ māheśvarī āgneyyāṃ pātu evam anyatra nyasyet](hrīṃ māheśvarī āgneyyāṃ pātu evamanyatranyasyet) [brāhmī](brāhmī) [pūrvataḥ](pūrvataḥ) [pātu](pātu) [māṃ](māṃ) [sadā](sadā)
 
 ## mukta-m0-p385-v9617
-[in-northeast](aiśānye) [tu](tu) [mahalakshmi](mahālakṣmī) [above](ūrdhvaṃ) [vyomeshvari](vyomeśvarī) [and](tathā)
+[aiśānye](aiśānye) [tu](tu) [mahālakṣmī](mahālakṣmīrūrdhvaṃ) [ūrdhvaṃ](mahālakṣmīrūrdhvaṃ) [vyomeśvarī](vyomeśvarī) [tathā](tathā)
 
 ## mukta-m0-p385-v9618
-[in-third](tṛtīye) [in-this-done](asmin kṛte) [nyasa](nyāse) [in-three-worlds](trailokye) [victorious](vijayī) [becomes](bhavet)
+[tṛtīye](tṛtīyesminkṛte) [asmin](tṛtīyesminkṛte) [kṛte](tṛtīyesminkṛte) [nyāse](nyāse) [trailokye](trailokye) [vijayī](vijayī) [bhavet](bhavet)
 
 ## mukta-m0-p385-v9619
-[nanda-born](nandajā) [protect](pātu) [front-limb](pūrvāṅgaṃ) [lotus-goad-adorned](kamalāṃkuśamaṇḍitā)
+[nandajā](nandajā) [pātu](pātu) [pūrvāṅgaṃ](pūrvāṅgaṃ) [kamalā-aṃkuśa-maṇḍitā](kamalāṃkuśamaṇḍitā)
 
 ## mukta-m0-p385-v9620
-[at-back](pṛṣṭhe) [shakambhari](śākambharī) [protect](pātu) [flower-sprout-endowed](puṣpapallavasaṃyutā)
+[pṛṣṭhe](pṛṣṭhe) [śākambharī](śākambharī) [pātu](pātu) [puṣpa-pallava-saṃyutā](puṣpapallavasaṃyutā)
 
 ## mukta-m0-p385-v9621
-[head-vessel-handed](śiraḥpātrakarā) [bhima](bhīmā) [from-head-to-feet](mastakāccaraṇāvadhi)
+[śiraḥ-pātra-karā](śiraḥpātrakarā) [bhīmā](bhīmā) [mastakāt](mastakāccaraṇāvadhi) [caraṇa-avadhi](mastakāccaraṇāvadhi)
 
 ## mukta-m0-p385-v9622
-[fourth](turyyaṃ) [nyasa](nyāsaṃ) [man](naraḥ) [doing](kurvan) [old-age-death](jarāmṛtyuṃ) [removes](vyapohati)
+[turyyaṃ](turyyaṃ) [nyāsaṃ](nyāsaṃ) [naraḥ](naraḥ) [kurvañ](kurvañ) [jarā-mṛtyuṃ](jarāmṛtyuṃ) [vyapohati](vyapohati)
 
 ## mukta-m0-p385-v9623
-[from-feet-to-navel](pādādinābhiparyantaṃ) [brahma](brahmā) [protect](pātu) [eternal](sanātanaḥ)
+[pādāt](pādādinābhiparyantaṃ) [ādi](pādādinābhiparyantaṃ) [nābhi-paryantaṃ](pādādinābhiparyantaṃ) [brahmā](brahmā) [pātu](pātu) [sanātanaḥ](sanātanaḥ)
 
 ## mukta-m0-p385-v9624
-[from-vishuddhi-to-brahmarandhra](viśuddherbrahmarandhrāntam) [protect](pātu) [rudra](rudraḥ) [three-eyed](trilocanaḥ)
+[viśuddheḥ](viśuddherbrahmarandhrāntampātu) [brahma-randhra-antam](viśuddherbrahmarandhrāntampātu) [pātu](viśuddherbrahmarandhrāntampātu) [rudraḥ](rudrastrilocanaḥ) [tri-locanaḥ](rudrastrilocanaḥ)
 
 ## mukta-m0-p385-v9625
-[eyes](cakṣuṣī) [vrishabha](vṛṣabhaḥ) [protect](pātu) [all-limbs](sarvāṅgāni) [gajanana](gajānanaḥ)
+[cakṣuṣī](cakṣuṣī) [vṛṣabhaḥ](vṛṣabhaḥ) [pātu](pātu) [sarvāṅgāni](sarvāṅgāni) [gajānanaḥ](gajānanaḥ)

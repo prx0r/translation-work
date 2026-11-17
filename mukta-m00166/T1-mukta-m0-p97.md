@@ -8,70 +8,70 @@
 [target-attainment](lakṣyaprāptiḥ)
 
 ## mukta-m0-p97-v2403
-[target-maker](lakṣyakṛtvo) [victorious](jayatyeṣā) [target-attainment](lakṣyaprāptiḥ) [well-marked](sulakṣaṇā)
+[target-maker](lakṣyakṛtvo) [conquers](jayatyeṣā) [target-attainment](lakṣyaprāptiḥ) [good-marked](sulakṣaṇā)
 
 ## mukta-m0-p97-v2404
 [art](kalā)
 
 ## mukta-m0-p97-v2405
-[mantra](kālakākakilelālā) [in-time](kāle) [in-kali](kalau) [art-art](kalākalā)
+kālakākakilelālā kāle kalau kalākalā
 
 ## mukta-m0-p97-v2406
 [unmarked](alakṣyā)
 
 ## mukta-m0-p97-v2407
-[target-mark-duality-target-unmarked](lakṣyalakṣaṇatādvaitalakṣyālakṣyā) [victorious](jayatyasau)
+[target-mark-duality-target-unmarked](lakṣyalakṣaṇatādvaitalakṣyālakṣyā) [conquers-that](jayatyasau)
 
 ## mukta-m0-p97-v2408
 [target](lakṣyā)
 
 ## mukta-m0-p97-v2409
-[target-become](lakṣyabhūtāpi) [one](saikaiva) [target](lakṣyā) [all-distinct](sarvavilakṣaṇā)
+[target-become-even-one](lakṣyabhūtāpi) [alone](saikaiva) [target](lakṣyā) [all-distinguished](sarvavilakṣaṇā)
 
 ## mukta-m0-p97-v2410
-[auspicious-mark](śubhalakṣaṇā)
+[auspicious-marked](śubhalakṣaṇā)
 
 ## mukta-m0-p97-v2411
-[many-intention](anekakalpasaṃkalpo) [fortunate](dhanyasyāsya) [moment](kṣaṇāyate)
+[many-kalpa-intention](anekakalpasaṃkalpo) [fortunate-one's](dhanyasyāsya) [moment-becomes](kṣaṇāyate)
 
 ## mukta-m0-p97-v2412
-[follower](vartinī)
+[abiding](vartinī)
 
 ## mukta-m0-p97-v2413
-[follower](vartinī) [deity](devatā) [may-be](bhūyānnityaṃ) [heart-dweller](hṛdayavartinī)
+[abiding](vartinī) [deity](devatā) [may-be](bhūyānnityaṃ) [heart-abiding](hṛdayavartinī)
 
 ## mukta-m0-p97-v2414
 [good-path-conduct](supathācārā)
 
 ## mukta-m0-p97-v2415
-[that-path](tatpathaṃ) [how](na kathaṃ) [all](sarve) [go](gaccheyurnārthitā) [api](api)
+[that-path](tatpathaṃ) [not](na) [how](kathaṃ) [all](sarve) [would-go](gaccheyurnārthitā) [even](api)
 
 ## mukta-m0-p97-v2416
 [moat](parikhā)
 
 ## mukta-m0-p97-v2417
-[which](yā) [stands](tiṣṭhati) [supreme](parā) [limit](niṣṭhā) [moat](parikhā) [remembered](sā smṛtā) [wise](budhaiḥ)
+[who](yā) [stands](tiṣṭhati) [supreme](parā) [limit](niṣṭhā) [moat](parikhā) [that](sā) [remembered](smṛtā) [by-wise](budhaiḥ)
 
 ## mukta-m0-p97-v2418
 [mine](khaniḥ)
 
 ## mukta-m0-p97-v2419
-[fortress-cause](durgadurgatvahetuśca) [victorious](jīyāt) [mine](khaniriyaṃ) [always](sadā)
+[fortress-difficulty-cause](durgadurgatvahetuśca) [may-conquer](jīyāt) [mine-this](khaniriyaṃ) [always](sadā)
 
 ## mukta-m0-p97-v2420
 [enclosure](vṛtiḥ)
 
 ## mukta-m0-p97-v2421
-[cows](agāḥ) [nourished](puṣṭāḥ) [how](kathaṃ) [would-be](syuścenna) [would-be](syādrakṣākarī) [enclosure](vṛtiḥ)
+[houses](agāḥ) [nourished](puṣṭāḥ) [how](kathaṃ) [would-be](syuścenna) [would-be-protector](syādrakṣākarī) [enclosure](vṛtiḥ)
 
 ## mukta-m0-p97-v2422
 [wall-circle](prākāravalayā)
 
 ## mukta-m0-p97-v2423
-[wall-circle](prākāravalayā) [goddess](devī) [shine](bhāsase) [compassion](dayayā) [own](svayā)
+[wall-circle](prākāravalayā) [goddess](devī) [shine](bhāsase) [by-compassion](dayayā) [by-own](svayā)
 
 ## mukta-m0-p97-v2424
 [shore](velā)
 
 ## mukta-m0-p97-v2425
-[delighted](ratā) [delighted](ratātāratārasālatālalatālasā)
+ratā ratātāratārasālatālalatālasā

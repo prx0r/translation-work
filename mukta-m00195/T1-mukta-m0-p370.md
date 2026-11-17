@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p370-v9226
-[of-tarpana](tarppaṇasya) [of-rite](vidhānena) [suddenly](haṭhāt) [accomplished](siddhaḥ) [is-born](prajāyate)
+[tarppaṇa-genitive](tarppaṇasya) [vidhāna-instrumental](vidhānena) [suddenly](haṭhāt) [accomplished](siddhaḥ) [is-born](prajāyate)
 
 ## mukta-m0-p370-v9227
-[of-bilva-fruits](śrīphalānāṃ) [and](ca) [by-offering](homena) [thus](tathā) [also](eva) [of-udumbara](udumbarasya) [and](ca)
+[śrīphala-genitive-plural](śrīphalānāṃ) [and](ca) [oblation-instrumental](homena) [thus](tathā) [eva](eva) [udumbara-genitive](udumbarasya) [and](ca)
 
 ## mukta-m0-p370-v9228
-[hundred-eight](śatamaṣṭottaraṃ) [having-made](kṛtvā) [japa-remainder](japamiti) [śeṣaḥ] [should-offer](juhuyāt) [after-tarpana](tarppaṇottaram)
+[hundred-eight](śatamaṣṭottaraṃ) [having-made](kṛtvā) [japa-accusative](japam) [iti](iti) [remainder](śeṣaḥ) [should-offer](juhuyāt) [tarppaṇa-ablative](tarppaṇottaram)
 
 ## mukta-m0-p370-v9229
 [daily](nityam) [hundred-eight](aṣṭottaraśataṃ) [six-months](māsaṣaṭkaṃ) [should-practice](samācaret)
 
 ## mukta-m0-p370-v9230
-[with-ghee](ājyayuktaḥ) [with-flesh](sāmiṣaśca) [at-end-of-homa](homānte) [daily](pratyahaṃ) [offering](baliḥ)
+[ghee-joined](ājyayuktaḥ) [with-flesh](sāmiṣaśca) [oblation-end](homānte) [daily](pratyahaṃ) [offering](baliḥ)
 
 ## mukta-m0-p370-v9231
-[with-honey-anointed-sesame-flowers](madhvaktatilapuṣpaistu) [becomes](bhavet) [prosperity](sampattiḥ) [best](uttamā)
+[honey-anointed](madhvaktatilapuṣpaistu) [becomes](bhavet) [prosperity](sampattir) [best](uttamā)
 
 ## mukta-m0-p370-v9232
-[with-ghee-bandhuka-flowers](sājyairbandhūkakusumairayutaiḥ) [beloved](subhago) [becomes](bhavet)
+[with-ghee](sājyair) [bandhūka-flowers](bandhūkakusumair) [ten-thousand](ayutaiḥ) [auspicious](subhago) [becomes](bhavet)
 
 ## mukta-m0-p370-v9233
-[with-red-sandal-red-horse-flower](raktacandanaraktāśvamārapuṣpairnṛpo) [subject](vaśaḥ)
+[red-sandalwood](raktacandanaraktāśvamārapuṣpairnṛpo) [king](nṛpo) [subdued](vaśaḥ)
 
 ## mukta-m0-p370-v9234
-[properly](samyak) [from-guru-mouth](gurumukhāt) [obtained](prāptān) [by-left-practice](vāmācāreṇa) [accomplished](sādhitān)
+[properly](samyak) [guru-mouth-from](gurumukhāt) [obtained](prāptān) [left-hand-practice](vāmācāreṇa) [accomplished](sādhitān)
 
 ## mukta-m0-p370-v9235
-[to-eldest-son](jyeṣṭhaputrāya) [should-be-given](dātavyo) [not-to-others](nānyebhyaśca) [ever](kadācana)
+[eldest-son-to](jyeṣṭhaputrāya) [should-be-given](dātavyo) [not](nānyebhyaśca) [ever](kadācana)
 
 ## mukta-m0-p370-v9236
-[to-own-son-first](svaputrādau) [should-be-given](pradātavyā) [dakshina](dakṣiṇā) [not-ever](na) [kadācana]
+[own-son-first](svaputrādau) [should-be-given](pradātavyā) [dakṣiṇā](dakṣiṇā) [not](na) [ever](kadācana)
 
 ## mukta-m0-p370-v9237
-[left-path-worship](vāmamārgopāsanantu) [those-two](tau) [dvau] [from-two-worlds](lokadvayāccyutau)
+[left-path-worship](vāmamārgopāsanantu) [those](tau) [two](dvau) [worlds-from](lokadvayāccyutau)
 
 ## mukta-m0-p370-v9238
-[sage](munir) [akshobhya-named](akṣobhyasaṃjñosya) [brihati](bṛhatī) [meter](chanda) [declared](īritam)
+[sage](munir) [akṣobhya-named](akṣobhyasaṃjñosya) [bṛhatī](bṛhatī) [meter](chanda) [declared](īritam)
 
 ## mukta-m0-p370-v9239
-[six-long-syllable-pairs](ṣaḍdīrghayuglajjayātra) [hrāṃhrīṃhrūṃhraiṃhrauṃhraḥ] [eṣvekaikena] [ṣaḍaṅganyāsaṃ] [kuryyāt] [ṣaḍaṅga-rite](ṣaḍaṅgavidhirīritaḥ)
+[six-long-syllable-pair](ṣaḍdīrghayuglajjayātra) [hrāṃhrīṃhrūṃhraiṃhrauṃhraḥ](hrāṃhrīṃhrūṃhraiṃhrauṃhraḥ) [in-these-each](eṣvekaikena) [six-limb-nyāsa](ṣaḍaṅganyāsaṃ) [should-do](kuryyāt) [six-limb-rite](ṣaḍaṅgavidhirīritaḥ)
 
 ## mukta-m0-p370-v9240
-[there-first](tatrādau) [first](prathamo) [nyasa](nyāsaḥ) [śrīkaṇṭhādi](śrīkaṇṭhādiḥ) [previously-declared](puroditaḥ)
+[there-first](tatrādau) [first](prathamo) [nyāsa](nyāsaḥ) [śrīkaṇṭha-etc](śrīkaṇṭhādiḥ) [previously-declared](puroditaḥ)
 
 ## mukta-m0-p370-v9241
-[śrīkaṇṭha-with-consort](śrīkaṇṭhādisapatnīkaṃ) [ending-namah](namontaṃ) [on-matrika-place](mātṛkāsthale)
+[śrīkaṇṭha-with-consort](śrīkaṇṭhādisapatnīkaṃ) [namah-ending](namontaṃ) [mātṛkā-place](mātṛkāsthale)
 
 ## mukta-m0-p370-v9242
-[in-this-nyasa](asminnyāse) [being-done](kriyamāṇe) [goddess](devīm) [thus](evaṃvidhā) [should-remember](smaret)
+[in-this-nyāsa](asminnyāse) [being-done](kriyamāṇe) [goddess](devīmevaṃvidhā) [thus](evaṃvidhā) [remember](smaret)
 
 ## mukta-m0-p370-v9243
-[half-moon-crested](ardhenduśekharāṃ) [adorned-with-various-ornaments](nānābhūṣaṇāḍhyāṃ) [four-armed](caturbhujām)
+[half-moon-crested](ardhenduśekharāṃ) [various-ornament-rich](nānābhūṣaṇāḍhyāṃ) [four-armed](caturbhujām)
 
 ## mukta-m0-p370-v9244
-[with-three-seed-syllables](tribījasvarapūrvaṃ) [tu] [red](raktaṃ) [sun](sūryyaṃ) [in-heart](hṛdi) [should-place](nyaset)
+[three-bīja-svara-before](tribījasvarapūrvaṃ) [tu](tu) [red](raktaṃ) [sun](sūryyaṃ) [heart-in](hṛdi) [should-place](nyaset)
 
 ## mukta-m0-p370-v9245
-[thus](evam) [mantra-rite-knower](mantravidhānajñaḥ) [kavarga-etc](kavargādyañca) [auspicious](maṅgalam)
+[thus](evam) [mantra-rite-knower](mantravidhānajñaḥ) [ka-varga-first](kavargādyañca) [auspicious](maṅgalam)
 
 ## mukta-m0-p370-v9246
-[mercury](budhaṃ) [dark](śyāmaṃ) [should-place](nyaset) [yellow](pītaṃ) [ṭavarga-etc](ṭavargādyaṃ) [in-throat](gale) [guru](gurum)
+[mercury](budhaṃ) [dark](śyāmaṃ) [should-place](nyaset) [yellow](pītaṃ) [ṭa-varga-first](ṭavargādyaṃ) [throat](gale) [guru](gurum)
 
 ## mukta-m0-p370-v9247
-[blue-colored](nīlavarṇaṃ) [pavarga-etc](pavargādyaṃ) [at-navel-place](nābhideśe) [saturn](śanaiścaram)
+[blue-colored](nīlavarṇaṃ) [pa-varga-first](pavargādyaṃ) [navel-region](nābhideśe) [saturn](śanaiścaram)
 
 ## mukta-m0-p370-v9248
-[laksha-etc](lakṣādyaṃ) [smoke-colored](dhūmravarṇābhaṃ) [ketu](ketuṃ) [at-navel](nābhau) [again](punar) [should-place](nyaset)
+[lakṣa-first](lakṣādyaṃ) [smoke-colored](dhūmravarṇābhaṃ) [ketu](ketuṃ) [navel](nābhau) [again](punarnyaset)
 
 ## mukta-m0-p370-v9249
-[same-colored](samānavarṇānuccāryya) [hrīṃ trīṃ huṃ aṃ iṃ uṃ ṛṃ ḷṃ aiṃ oṃ aṃ mūrdhniṃ pūrve indrāya namaḥ, hrīṃ trīṃ huṃ āṃ īṃ ūṃ ṝṃ ḹṃ aiṃ auṃ aḥ mūrdhnyāgneyyāmagnaye namaḥ, hrīṃ trīṃ huṃ kaṃ khaṃ gaṃ ghaṃ ṅaṃ dakṣiṇe yamāya namo mukhe, ityādi] [prāgindrāya](prāgindrāya) [namostu](namostu) [ke]
+[same-color](samānavarṇānuccāryya) [hrīṃ trīṃ huṃ aṃ iṃ uṃ ṛṃ ḷṃ aiṃ oṃ aṃ mūrdhniṃ pūrve indrāya namaḥ, hrīṃ trīṃ huṃ āṃ īṃ ūṃ ṝṃ ḹṃ aiṃ auṃ aḥ mūrdhnyāgneyyāmagnaye namaḥ, hrīṃ trīṃ huṃ kaṃ khaṃ gaṃ ghaṃ ṅaṃ dakṣiṇe yamāya namo mukhe, ityādi](hrīṃ trīṃ huṃ aṃ iṃ uṃ ṛṃ ḷṃ aiṃ oṃ aṃ mūrdhniṃ pūrve indrāya namaḥ, hrīṃ trīṃ huṃ āṃ īṃ ūṃ ṝṃ ḹṃ aiṃ auṃ aḥ mūrdhnyāgneyyāmagnaye namaḥ, hrīṃ trīṃ huṃ kaṃ khaṃ gaṃ ghaṃ ṅaṃ dakṣiṇe yamāya namo mukhe, ityādi) [east-to-Indra](prāgindrāya) [homage](namostu) [ke](ke)
 
 ## mukta-m0-p370-v9250
-[to-right](dakṣiṇe) [to-yama](yamāya) [namaḥ](namaḥ) [kavarga-etc](kavargādyaṃ) [on-forehead](lalāṭake)
+[south](dakṣiṇe) [to-Yama](yamāya) [homage](namaḥ) [ka-varga-first](kavargādyaṃ) [forehead](lalāṭake)

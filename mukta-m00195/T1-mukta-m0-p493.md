@@ -2,52 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p493-v12301
-[anaṅga-kusumā](anaṅgakusumā) [tvā](tvā) [ādyā](ādyā) [dvitīyā](dvitīyā) [anaṅga-mekhalā](anaṅgamekhalā)
+[limbless-flower](anaṅgakusumā) [you-first](tvādyā) [second-limb-girdle](dvitīyānaṅgamekhalā)
+
 ## mukta-m0-p493-v12302
-[anaṅga-lekhā](anaṅgalekhā) [ca](cā) [anaṅga-vega](anaṅgavegā) [anaṅga-aṃkuśā](anaṅgāṃkuśā) [tathā](tathā)
+[limbless-line](anaṅgalekhā) [and](ca) [limbless-speed](anaṅgavegā) [limbless-goad](anaṅgāṃkuśā) [thus](tathā)
+
 ## mukta-m0-p493-v12303
-[tad-agre](tadagre) [ṣoḍaśāre](ṣoḍaśāre) [tu](tu) [paścima-ādi](paścimādi) [vilomataḥ](vilomataḥ)
+[that-before](tadagre) [sixteen-spoked](ṣoḍaśāre) [but](tu) [from-west-reverse](paścimādivilomataḥ)
+
 ## mukta-m0-p493-v12304
-[ahaṅkāra-ākarṣiṇī](ahaṅkārākarṣiṇī) [ca](ca) [śabda-ākarṣiṇikā](śabdākarṣiṇikā) [tathā](tathā)
+[ego-attractor](ahaṅkārākarṣiṇī) [and](ca) [sound-attractor](śabdākarṣiṇikā) [thus](tathā)
+
 ## mukta-m0-p493-v12305
-[rasa-ākarṣiṇikā](rasākarṣiṇikā) [proktā](proktā) [gandha-ākarṣiṇikā](gandhākarṣiṇikā) [matā](matā)
+[taste-attractor](rasākarṣiṇikā) [declared](proktā) [smell-attractor](gandhākarṣiṇikā) [considered](matā)
+
 ## mukta-m0-p493-v12306
-[nāma-ākarṣiṇikā](nāmākarṣiṇikā) [ca-eva](caiva) [bīja-ākarṣiṇikā](bījākarṣiṇikā) [tathā](tathā)
+[name-attractor](nāmākarṣiṇikā) [and-indeed](caiva) [seed-attractor](bījākarṣiṇikā) [thus](tathā)
+
 ## mukta-m0-p493-v12307
-[śarīra-ākarṣiṇī](śarīrākarṣiṇī) [paścāt](paścād) [ātma-ākarṣiṇikā](ātmākarṣiṇikā) [tathā](tathā)
+[body-attractor](śarīrākarṣiṇī) [afterwards](paścād) [self-attractor](ātmākarṣiṇikā) [thus](tathā)
+
 ## mukta-m0-p493-v12308
-[kṣobhaṇa](kṣobhaṇa) [drāvaṇa](drāvaṇa) [ākarṣa](ākarṣa) [mano-unmāda](manonmāda) [mahā-aṃkuśāḥ](mahāṃkuśāḥ)
+[agitation-dissolution-attraction-mind-intoxication-great-goad](kṣobhaṇadrāvaṇākarṣamanonmādamahāṃkuśāḥ)
+
 ## mukta-m0-p493-v12309
-[tadvat](tadvat) [ca](cā) [adhaḥ](adhaḥ) [samabhyarcya](samabhyarcya) [tat](tad) [bahiḥ](bahir) [bhūpure](bhūpure) [yajet](yajet)
+[likewise-below](tadvaccādhaḥ) [well-worship](samabhyarcya) [that-outside-city-gate](tadbahirbhūpure) [sacrifice](yajet)
+
 ## mukta-m0-p493-v12310
-[dvāre](dvāre) [dvayaṃ](dvayaṃ) [prāk](prāg) [aṇimā](aṇimā) [mahimā](mahimā) [laghimā](laghime) [īśitā](śitā)
+[gate-two](dvāre+dvayaṃ) [eastern-minuteness](prāgaṇimā) [greatness](mahimā) [lightness](laghimeśitā)
+
 ## mukta-m0-p493-v12311
-[rasa-siddhi](rasasiddhi) [ca](śca) [daśamī](daśamī) [saparyā](saparyya) [evaṃ](ivaṃ) [samīritā](samīritā)
+[taste-accomplishment](rasasiddhiśca) [tenth](daśamī) [worship-thus](saparyyaivaṃ) [declared](samīritā)
+
 ## mukta-m0-p493-v12312
-[tarppaṇa-ādi](tarppaṇādi) [tataḥ](tataḥ) [kuryāt](kuryyān) [mantra-siddhaḥ](mantrasiddhaḥ) [prajāyate](prajāyate)
+[libation-etc](tarppaṇādi) [then](tataḥ) [do](kuryyān) [mantra-accomplished](mantrasiddhaḥ) [born](prajāyate)
+
 ## mukta-m0-p493-v12313
-[karavīra-ja](karavīraja) [puṣpaiḥ](puṣpaiśca) [ca](ca) [homāt](homān) [mohayate](mohayate) [jagat](jagat)
+[oleander-flower-homa](karavīrajapuṣpaiśca) [deludes](homānmohayate) [world](jagat)
+
 ## mukta-m0-p493-v12314
-[campakaiḥ](campakaiḥ) [pāṭalaiḥ](pāṭalair) [bilvaiḥ](bilvair) [vaśam](vaśam) [ānayate](ānayate) [cirāt](cirāt)
+[champaka-patala-bilva](campakaiḥ+pāṭalairbilvair) [subdues](vaśamānayate) [long](cirāt)
+
 ## mukta-m0-p493-v12315
-[bilvaiḥ](bilvaiḥ) [syāt](syād) [atulā](atulā) [lakṣmī](lakṣmī) [ikṣu-khaṇḍaiḥ](ikṣukhaṇḍaistathā) [tathā](tathā) [vaśāḥ](vaśāḥ)
+[bilva](bilvaiḥ) [becomes-incomparable](syādatulā) [lakshmi](lakṣmī) [sugar-cane-pieces](ikṣukhaṇḍaistathā) [subdued](vaśāḥ)
+
 ## mukta-m0-p493-v12316
-[niśi](niśi) [svarṇa-phalaiḥ](svarṇaphalair) [homaḥ](homo) [ripu-senā](ripusenā) [vināśa-kṛt](vināśakṛt)
+[night](niśi) [gold-fruit-homa](svarṇaphalairhomo) [enemy-army-destroyer](ripusenāvināśakṛt)
+
 ## mukta-m0-p493-v12317
-[ārogyaṃ](ārogyaṃ) [sampadaṃ](sampadaṃ) [kāmaṃ](kāmaṃ) [dhanaṃ](dhanaṃ) [śarkkarayā](śarkkarayā) [sukham](sukham)
+[health](ārogyaṃ) [prosperity](sampadaṃ) [desire](kāmaṃ) [wealth](dhanaṃ) [sugar](śarkkarayā) [happiness](sukham)
+
 ## mukta-m0-p493-v12318
-[kṣatriyaḥ](kṣatriyo) [mātuluṅgaiḥ](mātuluṅgaiśca) [ca](ca) [vaiśyaḥ](vaiśyo) [nāriṅgajaiḥ](nāriṅgajaiḥ) [phalaiḥ](phalaiḥ)
+[kshatriya](kṣatriyo) [citron](mātuluṅgaiśca) [vaishya](vaiśyo) [orange-fruit](nāriṅgajaiḥ+phalaiḥ)
+
 ## mukta-m0-p493-v12319
-[panasānāṃ](panasānāṃ) [lakṣa-homāt](lakṣahomād) [vaśyāḥ](vaśyāḥ) [syuḥ](syuś) [cakravartinaḥ](cakravartinaḥ)
+[jackfruit-hundred-thousand-homa](panasānāṃ+lakṣahomād) [subdued](vaśyāḥ) [become](syuś) [emperors](cakravartinaḥ)
+
 ## mukta-m0-p493-v12320
-[nārikeraiḥ](nārikeraistu) [tu](tu) [pāṇḍityaṃ](pāṇḍityaṃ) [tilaiḥ](tilaiḥ) [sarva-iṣṭa-siddhayaḥ](sarveṣṭasiddhayaḥ)
+[coconut](nārikeraistu) [scholarship](pāṇḍityaṃ) [sesame](tilaiḥ) [all-desires-accomplishment](sarveṣṭasiddhayaḥ)
+
 ## mukta-m0-p493-v12321
-[pāyasaiḥ](pāyasair) [dhana-dhānya-ādi](dhanadhānyādi) [bandhūkaiḥ](bandhūkaiḥ) [prāṇinaḥ](prāṇino) [vaśāḥ](vaśāḥ)
+[milk-rice](pāyasair) [wealth-grain-etc](dhanadhānyādi) [bandhuka](bandhūkaiḥ) [beings](prāṇino) [subdued](vaśāḥ)
+
 ## mukta-m0-p493-v12322
-[lavaṇaiḥ](lavaṇai) [rājikā-yuktaiḥ](rājikāyuktair) [homāt](homād) [duṣṭa-vināśanam](duṣṭavināśanam)
+[salt](lavaṇai) [with-mustard](rājikāyuktair) [homa](homād) [wicked-destruction](duṣṭavināśanam)
+
 ## mukta-m0-p493-v12323
-[ghṛta-homa](ghṛtahe) [ādīpsita-āptiḥ](mādīpsitāptiḥ) [śaktiḥ](śaktiḥ) [syāt](syāt) [tila-taṇḍulaiḥ](tilataṇḍulaiḥ)
+[ghee](ghṛtahe) [desired-attainment](mādīpsitāptiḥ) [power](śaktiḥ) [becomes](syāt) [sesame-rice](tilataṇḍulaiḥ)
+
 ## mukta-m0-p493-v12324
-[kṛṣṇasya](kṛṣṇasya) [śaktiṃ](śaktiṃ) [sumukhīṃ](sumukhīṃ) [dvijānāṃ](dvijānāṃ) [na](nā) [adhikāritā](dhikāritā)
+[krishna-power](kṛṣṇasya+śaktiṃ) [fair-faced](sumukhīṃ) [brahmins](dvijānāṃ) [not-authority](nādhikāritā)
+
 ## mukta-m0-p493-v12325
-[cini](cini) [hrīṃ](hrīṃ) [ṭhaḥ](ṭhaś) [ca](caṭhaḥ) [ṭhaḥ](ṭhaś) [ca](ca) [dvāviṃśati-akṣaraḥ](dvāviṃśatyakṣaro) [manuḥ](manuḥ)
+[cini-hrim-mantra](cini+hrīṃ+ṭhaścaṭhaḥṭhaśca+dvāviṃśatyakṣaro+manuḥ)

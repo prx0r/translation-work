@@ -2,70 +2,70 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p93-v2301
-[external+flowing](bahiḥ+prasraviṇī) [three+days](tri+aham)
+[outside+flowing](bahiḥprasraviṇī) [three+days](tryaham)
 
 ## mukta-m0-p93-v2302
-[self+self](sva+sva) [time](kāle) [conquers](jayati) [this](eṣā) [external+flowing](bahiḥ+prasraviṇī) [three+days](tri+aham)
+[own+own-time](svasvakāle) [conquers](jayati) [this](eṣā) [outside+flowing](bahiḥprasraviṇī) [three+days](tryaham)
 
 ## mukta-m0-p93-v2303
-[dust+sperm+bearing](rajaḥ+śukra+dhārā) [power](śaktiḥ)
+[menstrual-blood+sperm-bearing](rajaḥśukradharā) [power](śaktiḥ)
 
 ## mukta-m0-p93-v2304
-[dust+sperm+bearing](rajaḥ+śukra+dhārā) [power](śaktiḥ) [power+attachment](śakti+saktiṃ) [give](dadātu) [us](naḥ)
+[menstrual-blood+sperm-bearing](rajaḥśukradharā) [power](śaktiḥ) [power+attachment](śaktisaktiṃ) [give](dadātu) [to-us](naḥ)
 
 ## mukta-m0-p93-v2305
 [placenta](jarāyuḥ)
 
 ## mukta-m0-p93-v2306
-[she](sā) [placenta](jarāyuḥ) [ageless](ajarāyuḥ) [imperishable](akṣayaṃ) [quickly](kṣipram) [eva](eva) [bestow](vitaratu) [strength](alam) [dense](ghanam)
+[she](sā) [placenta](jarāyuḥ) [ageless](ajarāyuḥ) [imperishable](akṣayaṃ) [quickly](kṣipram) [eva](eva) [bestow](vitaratu) [strength](alaṃ) [dense](ghanam)
 
 ## mukta-m0-p93-v2307
-[womb+bearing](garbha+dhāriṇī)
+[womb-bearing](garbhadhāriṇī)
 
 ## mukta-m0-p93-v2308
-[uncommon](asāmānyā) [not](na) [she](sā) [honorable](mānyā) [whose](kasya) [or](vā) [womb+bearing](garbha+dhāriṇī)
+[not-ordinary](asāmānyā) [not](na) [she](sā) [honorable](mānyā) [whose](kasya) [or](vā) [womb-bearing](garbhadhāriṇī)
 
 ## mukta-m0-p93-v2309
-[three+time+knower](tri+kāla+jñā)
+[three-times-knowing](trikālajñā)
 
 ## mukta-m0-p93-v2310
-[three+time+knower](tri+kāla+jñā) [conquers](jayati) [this](eṣā) [three+goddess+time+conscious](tri+devī+kāla+cetanā)
+[three-times-knowing](trikālajñā) [conquers](jayati) [this](eṣā) [three-goddess-time-conscious](tridevīkālacetanā)
 
 ## mukta-m0-p93-v2311
-[three+gendered](tri+liṅgā)
+[three-gendered](triliṅgā)
 
 ## mukta-m0-p93-v2312
-[separate+fame](pṛthak+prathā) [having+resorted](yad+āśrityā) [three+gendered](tri+liṅgā) [conquers](jayatādi) [this](iyam)
+[separate-fame](pṛthakprathā) [having-recourse](yadāśrityā) [three-gendered](triliṅgā) [conquers](jayatādiyam)
 
 ## mukta-m0-p93-v2313
-[three+form](tri+mūrtiḥ)
+[page-274](p. 274)) [three-form](trimūrtiḥ)
 
 ## mukta-m0-p93-v2314
-[people](janaḥ) [so+also](so+api) [mind+protection](manas+trāṇaṃ) [three+form](tri+mūrtiḥ) [conquers](jayatān) [mine](mama)
+[people](janaḥ) [so](so) [api](api) [mind-protection](manastrāṇaṃ) [three-form](trimūrtiḥ) [conquers](jayatān) [mine](mama)
 
 ## mukta-m0-p93-v2315
-[three+city+dwelling](tri+pura+vāsinī)
+[tripura-dwelling](tripuravāsinī)
 
 ## mukta-m0-p93-v2316
-[speech+desire+lord](vāk+kāma+nāthaḥ) [may+be](syāt) [she+this](seyaṃ) [three+city+dwelling](tri+pura+vāsinī)
+[speech-desire-attached-lord](vākkāmasaktināthaḥ) [may-be](syāt) [she-this](seyaṃ) [tripura-dwelling](tripuravāsinī)
 
 ## mukta-m0-p93-v2317
-[without+passion](a+rāgā)
+[without-passion](arāgā)
 
 ## mukta-m0-p93-v2318
-[self+self+independence+art+tala+lalita](sva+sva+ātantrya+kalā+tāla+lalitāṃ) [bow](naumi) [her](tāṃ) [auspicious](śivām)
+[own-independence-art-playful](svasvātantryakalātālalalitāṃ) [bow](naumi) [her](tāṃ) [auspicious](śivām)
 
 ## mukta-m0-p93-v2319
-[auspicious+principle](śiva+tattvā)
+[shiva-principle](śivatattvā)
 
 ## mukta-m0-p93-v2320
-[thus+also](tathā+api) [who](yā) [own+nature+standing](sva+śīla+sthā) [auspicious+principle](śiva+tattva) [thus](iti) [she](sā) [thought](matā)
+[thus-also](tathāpi) [who](yā) [own-nature-staying](svaśīlasthā) [shiva-principle](śivatattvā) [thus](iti) [she](sā) [considered](matā)
 
 ## mukta-m0-p93-v2321
-[desire+principle+attached](kāma+tattva+anurāgiṇī)
+[desire-principle-devoted](kāmatatvānurāgiṇī)
 
 ## mukta-m0-p93-v2322
-[desire+enemy+conqueror](kāma+ari+dayitā) [may+conquer](jīyāt) [desire+principle+attached](kāma+tattva+anurāgiṇī)
+[desire-enemy-victor](kāmāridayitā) [conquer](jīyāt) [desire-principle-devoted](kāmatattvānurāgiṇī)
 
 ## mukta-m0-p93-v2323
 [eastern](prācī)
@@ -74,4 +74,4 @@
 [eastern](prācī) [sorrow](śucaṃ) [pluck](luñcatu) [everywhere](sarvato) [us](naḥ)
 
 ## mukta-m0-p93-v2325
-[not+eastern](a+vācī)
+[page-275](p. 275)) [not-eastern](avācī)
