@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p01-v1
-[gloss](virājate) [gloss](jagat+citra+citra+darpaṇa+rūpiṇī)
+[shines](virājate) [world+picture+mirror+form](jagaccitracitradarpaṇarūpiṇī)
 
 ## mukta-m0-p01-v2
-[gloss](svātma+citta+tattva+mātram) [gloss](iti) [gloss](bodhana+artham) [gloss](idam) [gloss](prakaraṇam) [gloss](iti)
+[self+mind+truth+only](svātmacittattvamātram) [thus](iti) [for-instruction](bodhanārtham) [this](idaṃ) [treatise](prakaraṇam) [thus](iti)
 
 ## mukta-m0-p01-v3
-[gloss](māhātmyam) [gloss](tripurā+ākhyāyāḥ) [gloss](yat) [gloss](śruti+para+sādhanam)
+[greatness](māhātmyaṃ) [of-tripura](tripurākhyāyā) [which](yac) [heard](śruti) [proof](parasādhanam)
 
 ## mukta-m0-p01-v4
-[gloss](śrotāram) [gloss](abhimukhayitum) [gloss](śrutam) [gloss](ityādi)
+[listener](śrotāram) [toward](abhimukhayituṃ) [heard](śrutam) [etc](ityādi)
 
 ## mukta-m0-p01-v5
-[gloss](yat) [gloss](śrutvā) [gloss](na) [gloss](punaḥ) [gloss](kvāpi) [gloss](manuṣyaḥ) [gloss](śokam) [gloss](ṛcchati)
+[which](yac) [having-heard](śrutvā) [not](na) [again](punaḥ) [anywhere](kvāpi) [man](manuṣyaḥ) [grief](śokam) [obtains](ṛcchati)
 
 ## mukta-m0-p01-v6
-[gloss](mahā+adbhuta+tvam) [gloss](eva) [gloss](āha) [gloss](yat+śrutvā+iti)
+[great-wonder](mahādbhutatvam) [indeed](eva) [says](āha) [which-having-heard](yacchrutveti)
 
 ## mukta-m0-p01-v7
-[gloss](vijñānam) [gloss](samyak+ālocya) [gloss](yat) [gloss](etat) [gloss](praviniścitam)
+[knowledge](vijñānaṃ) [well](samyag) [considering](ālocya) [this](yadetat) [ascertained](praviniścitam)
 
 ## mukta-m0-p01-v8
-[gloss](ātma+tattva+niścāya+ka+upapatti+jālam)
+[self-truth-determination-net](ātmatattvaniścāyakopapattijālam) [truth](tattvaṃ) [ascertainment](niścā-)
 
 ## mukta-m0-p01-v9
-[gloss](mayā) [gloss](śrī+datta+guruṇā) [gloss](bhārgavāya) [gloss](nirūpitam)
+[by-me](mayā) [śrī-datta-guru](śrīdattaguruṇā) [to-bhārgava](bhārgavāya) [explained](nirūpitam)
 
 ## mukta-m0-p01-v10
-[gloss](tathā) [gloss](anyat) [gloss](iti) [gloss](arthaḥ)
+[thus](tathā) [other](anyad) [meaning](ityarthaḥ)
 
 ## mukta-m0-p01-v11
-[gloss](atra+uktena+api) [gloss](no) [gloss](veda) [gloss](yadi) [gloss](kaścit) [gloss](vimūḍha+dhīḥ)
+[here](atra) [by-stated](uktenāpi) [not](no) [knows](veda) [if](yadi) [someone](kaścid) [deluded-mind](vimūḍhadhīḥ)
 
 ## mukta-m0-p01-v12
-[gloss](vyatireka+mukhena) [gloss](draḍhayati) [gloss](atra+iti)
+[contrast](vyatirekamukhena) [strengthens](draḍhayati) [here](atra) [thus](iti)
 
 ## mukta-m0-p01-v13
-[gloss](na) [gloss](tasya) [gloss](syāt) [gloss](api) [gloss](jñānam) [gloss](sākṣāt+śiva+nirūpitam)
+[not](na) [his](tasya) [would-be](syād) [even](api) [knowledge](jñānaṃ) [directly](sākṣāt) [śiva-explained](śivanirūpitam)
 
 ## mukta-m0-p01-v14
-[gloss](aho) [gloss](satām) [gloss](adbhutam) [gloss](hi) [gloss](vṛttam) [gloss](sarva+guṇa+uttaram)
+[aho](aho) [of-good](satām) [wonder](adbhutaṃ) [indeed](hi) [conduct](vṛttaṃ) [all-qualities-supreme](sarvaguṇottaram)
 
 ## mukta-m0-p01-v15
-[gloss](śreṣṭham)
+[best](śreṣṭham)
 
 ## mukta-m0-p01-v16
-[gloss](anugrāhakatā) [gloss](ca) [gloss](eṣā) [gloss](satām) [gloss](sahaja+sambhavā)
+[grace](anugrāhakatā) [and](caiṣā) [of-good](satāṃ) [innate](sahajasambhavā)
 
 ## mukta-m0-p01-v17
-[gloss](eṣā) [gloss](śuśruṣā)
+[this](eṣā) [listening](śuśruṣā)
 
 ## mukta-m0-p01-v18
-[gloss](evam) [gloss](dattātreya+mukhāt) [gloss](śrutvā) [gloss](māhātmya+vaibhavam)
+[thus](evaṃ) [from-dattātreya-mouth](dattātreyamukhāc) [heard](śrutvā) [greatness-glory](māhātmyavaibhavam)
 
 ## mukta-m0-p01-v19
-[gloss](draṣṭavyam)
+[to-be-seen](draṣṭavyam)
 
 ## mukta-m0-p01-v20
-[gloss](bhaktyā) [gloss](apahṛta+sat+cittaḥ) [gloss](tūṣṇīm) [gloss](kiñcit) [gloss](babhūva) [gloss](ha)
+[with-devotion](bhaktyā) [taken-away-pure-mind](apahṛtasaccittastūṣṇīṃ) [silent](tūṣṇīṃ) [somewhat](kiñcid) [became](babhūva) [indeed](ha)
 
 ## mukta-m0-p01-v21
-[gloss](bhaktyā) [gloss](apahṛtam) [gloss](nilīnam) [gloss](sat) [gloss](śuddham) [gloss](cittam) [gloss](yasya)
+[by-devotion](bhaktyā) [taken-away](apahṛtaṃ) [absorbed](nilīnaṃ) [sat](sat) [pure](śuddhaṃ) [mind](cittaṃ) [whose](yasya)
 
 ## mukta-m0-p01-v22
-[gloss](romāñca+pīvara+vapuḥ) [gloss](sva+antara+ānanda+nirbharaḥ)
+[horripilation-stout-body](romāñcapīvaravapuḥ) [inner-bliss-full](svāntarānandanirbharaḥ)
 
 ## mukta-m0-p01-v23
-[gloss](tena) [gloss](nirbharaḥ) [gloss](pūrṇaḥ)
+[by-that](tena) [full](nirbharaḥ) [complete](pūrṇaḥ)
 
 ## mukta-m0-p01-v24
-[gloss](praṇanāma) [gloss](datta+gurum) [gloss](daṇḍavat) [gloss](caraṇa+antike)
+[prostrated](praṇanāma) [datta-guru](dattaguruṃ) [like-staff](daṇḍavat) [at-feet-near](caraṇāntike)
 
 ## mukta-m0-p01-v25
-[gloss](romāñca+pīvara+vapuḥ) [gloss](iti) [gloss](sambandhaḥ)
+[horripilation-stout-body](romāñcapīvaravapuriti) [connection](sambandhaḥ)

@@ -8,11 +8,11 @@
 "tokens": [
 {
 "surface": "kṛtārthaḥ",
-"quick_gloss": "achieved"
+"quick_gloss": "accomplished"
 },
 {
 "surface": "bandhanirmuktaḥ",
-"quick_gloss": "free-from-bondage"
+"quick_gloss": "freed-from-bondage"
 },
 {
 "surface": "bhavati",
@@ -40,28 +40,12 @@
 "quick_gloss": "again"
 },
 {
-"surface": "abādhita",
-"quick_gloss": "uncontradicted"
+"surface": "abādhitavikalpānudayena",
+"quick_gloss": "by-non-contradicted-conceptualization"
 },
 {
-"surface": "vikalpa",
-"quick_gloss": "conceptualization"
-},
-{
-"surface": "anudayena",
-"quick_gloss": "non-arising"
-},
-{
-"surface": "aprāmāṇya",
-"quick_gloss": "non-validity"
-},
-{
-"surface": "graha",
-"quick_gloss": "grasp"
-},
-{
-"surface": "anudayāt",
-"quick_gloss": "non-arising"
+"surface": "aprāmāṇyagrahānudayāt",
+"quick_gloss": "by-non-validity-grasp"
 },
 {
 "surface": "iti",
@@ -181,11 +165,11 @@
 },
 {
 "surface": "hi",
-"quick_gloss": "indeed"
+"quick_gloss": "hi"
 },
 {
 "surface": "bhrāntiḥ",
-"quick_gloss": "illusion"
+"quick_gloss": "error"
 },
 {
 "surface": "yathā",
@@ -268,11 +252,11 @@
 "tokens": [
 {
 "surface": "tāvat",
-"quick_gloss": "by-that-much"
+"quick_gloss": "so-much-only"
 },
 {
 "surface": "eva",
-"quick_gloss": "only"
+"quick_gloss": "indeed"
 },
 {
 "surface": "tu",
@@ -288,7 +272,7 @@
 },
 {
 "surface": "bhrāntiḥ",
-"quick_gloss": "illusion"
+"quick_gloss": "error"
 },
 {
 "surface": "abhidhīyate",
@@ -303,6 +287,10 @@
 "quick_english": "",
 "quick_english_source": "t1parse",
 "tokens": [
+{
+"surface": "gaganatva",
+"quick_gloss": "sky-ness"
+},
 {
 "surface": "nīlaṃ",
 "quick_gloss": "blue"
@@ -334,7 +322,7 @@
 },
 {
 "surface": "jīvaṃ",
-"quick_gloss": "living-being"
+"quick_gloss": "jīva"
 },
 {
 "surface": "tajjñānaṃ",
@@ -342,7 +330,7 @@
 },
 {
 "surface": "mṛtamahāhivat",
-"quick_gloss": "dead-great-snake-like"
+"quick_gloss": "dead-great-snake"
 }
 ]
 },
@@ -366,7 +354,11 @@
 "quick_gloss": "and"
 },
 {
-"surface": "apyataḥ",
+"surface": "api",
+"quick_gloss": "also"
+},
+{
+"surface": "ataḥ",
 "quick_gloss": "from-that"
 },
 {
@@ -421,7 +413,7 @@
 },
 {
 "surface": "eva",
-"quick_gloss": "only"
+"quick_gloss": "indeed"
 },
 {
 "surface": "syāt",
@@ -437,7 +429,7 @@
 },
 {
 "surface": "vyavahārakaḥ",
-"quick_gloss": "practical-activity"
+"quick_gloss": "practice"
 }
 ]
 },
@@ -483,7 +475,7 @@
 "tokens": [
 {
 "surface": "abhijñānām",
-"quick_gloss": "of-experienced-ones"
+"quick_gloss": "of-experienced"
 },
 {
 "surface": "ataḥ",
@@ -499,11 +491,11 @@
 },
 {
 "surface": "bhrānteḥ",
-"quick_gloss": "of-illusion"
+"quick_gloss": "of-error"
 },
 {
 "surface": "samudbhavaḥ",
-"quick_gloss": "origin"
+"quick_gloss": "arising"
 }
 ]
 },
@@ -516,7 +508,7 @@
 "tokens": [
 {
 "surface": "jñānamātrarūpatvena",
-"quick_gloss": "knowledge-only-form"
+"quick_gloss": "as-mere-knowledge-form"
 },
 {
 "surface": "na",
@@ -528,7 +520,7 @@
 },
 {
 "surface": "bhrāntitvam",
-"quick_gloss": "illusion-ness"
+"quick_gloss": "error-ness"
 },
 {
 "surface": "iti",
@@ -569,7 +561,7 @@
 },
 {
 "surface": "jñānamātrataḥ",
-"quick_gloss": "knowledge-only"
+"quick_gloss": "mere-knowledge"
 }
 ]
 },
@@ -614,8 +606,8 @@
 "quick_gloss": "tu"
 },
 {
-"surface": "karmadoṣasamudbhavaḥ",
-"quick_gloss": "karma-defect-origin"
+"surface": "karmados'samudbhavaḥ",
+"quick_gloss": "karma-defect-arising"
 }
 ]
 },
@@ -644,7 +636,7 @@
 },
 {
 "surface": "advayacinmayam",
-"quick_gloss": "non-dual-consciousness-full"
+"quick_gloss": "non-dual-consciousness-form"
 }
 ]
 },
@@ -677,7 +669,7 @@
 "quick_gloss": "having-heard"
 },
 {
-"surface": "punar",
+"surface": "punaḥ",
 "quick_gloss": "again"
 },
 {
@@ -703,15 +695,11 @@
 "tokens": [
 {
 "surface": "bhrāntisambhavaḥ",
-"quick_gloss": "illusion-origin"
+"quick_gloss": "error-arising"
 },
 {
-"surface": "karmaśeṣa",
-"quick_gloss": "karma-remainder"
-},
-{
-"surface": "advaitābhāsaḥ",
-"quick_gloss": "non-dual-appearance"
+"surface": "karmaśeṣādvaitābhāsaḥ",
+"quick_gloss": "karma-remainder-non-dual-appearance"
 },
 {
 "surface": "iti",
@@ -732,7 +720,7 @@
 "tokens": [
 {
 "surface": "jñānāgnisaṃsparśane",
-"quick_gloss": "knowledge-fire-contact"
+"quick_gloss": "knowledge-fire-touch"
 },
 {
 "surface": "api",

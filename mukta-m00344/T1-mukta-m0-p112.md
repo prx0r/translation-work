@@ -14,7 +14,7 @@
 [sā'pyapūrṇatvavikhyātiryā'vidyā](sā'pyapūrṇatvavikhyātiryā'vidyā) [parigīyate](parigīyate)
 
 ## mukta-m0-p112-v2780
-[[k:]( [k:) [pūrṇā]](pūrṇā])
+[pūrṇā](pūrṇā)
 
 ## mukta-m0-p112-v2781
 [svātmānamanudāhṛtya](svātmānamanudāhṛtya) [bahirdṛṣṭitayā](bahirdṛṣṭitayā) [sthiteḥ](sthiteḥ)
@@ -44,7 +44,7 @@
 [jaḍāścidātmaviśrāntāścidatmani](jaḍāścidātmaviśrāntāścidatmani) [vibhāsataḥ](vibhāsataḥ)
 
 ## mukta-m0-p112-v2790
-[bhavediti](bhavediti) [śeṣaḥ](śeṣaḥ) [|](|) [jaḍānāṃ](jaḍānāṃ) [na](na) [svātmaviśrāntirityāha](svātmaviśrāntirityāha) [-]( -) [jaḍā](jaḍā) [iti](iti)
+[bhavediti](bhavediti) [śeṣaḥ](śeṣaḥ) [jaḍānāṃ](jaḍānāṃ) [na](na) [svātmaviśrāntirityāha](svātmaviśrāntirityāha) [jaḍā](jaḍā) [iti](iti)
 
 ## mukta-m0-p112-v2791
 [citestu](citestu) [kevalaṃ](kevalaṃ) [svasminnananyāpekṣayā](svasminnananyāpekṣayā) [sadā](sadā)
@@ -56,13 +56,13 @@
 [pūrṇāhantā](pūrṇāhantā) [parā](parā) [seyaṃ](seyaṃ) [yā](yā) [jaḍeṣu](jaḍeṣu) [na](na) [vidyate](vidyate)
 
 ## mukta-m0-p112-v2794
-[svātmaviśrama](svātmaviśrama) [iti](iti) [bhāvaḥ](bhāvaḥ) [|](|) [seyaṃ](seyaṃ) [svatmaviśrāntireva](svatmaviśrāntireva) [pūrṇāhantā](pūrṇāhantā)
+[svātmaviśrama](svātmaviśrama) [iti](iti) [bhāvaḥ](bhāvaḥ) [seyaṃ](seyaṃ) [svatmaviśrāntireva](svatmaviśrāntireva) [pūrṇāhantā](pūrṇāhantā)
 
 ## mukta-m0-p112-v2795
 [sarvamasyāṃ](sarvamasyāṃ) [yataḥ](yataḥ) [saṃsthamādarśe](saṃsthamādarśe) [nagaraṃ](nagaraṃ) [yathā](yathā)
 
 ## mukta-m0-p112-v2796
-[[k,]( [k,) [kh:](kh:) [paricchinnā]](paricchinnā]) [vyāvṛttisparśo](vyāvṛttisparśo) [nāstīti](nāstīti)
+[paricchinnā](paricchinnā) [vyāvṛttisparśo](vyāvṛttisparśo) [nāstīti](nāstīti)
 
 ## mukta-m0-p112-v2797
 [evaṃ](evaṃ) [pūrṇasvarūpāyāḥ](pūrṇasvarūpāyāḥ) [pūrṇaṃ](pūrṇaṃ) [yatsphuraṇaṃ](yatsphuraṇaṃ) [sthitam](sthitam)
@@ -74,4 +74,4 @@
 [akhaṇḍaikarasaṃ](akhaṇḍaikarasaṃ) [hyetadetāvad](hyetadetāvad) [rāma](rāma) [vai](vai) [bhavet](bhavet)
 
 ## mukta-m0-p112-v2800
-[dvayamapyetadakhaṇḍaikarasam](dvayamapyetadakhaṇḍaikarasam) [|](|) [akhaṇḍamekam](akhaṇḍamekam) [ekarasaṃ](ekarasaṃ) [cinmātram](cinmātram)
+[dvayamapyetadakhaṇḍaikarasam](dvayamapyetadakhaṇḍaikarasam) [akhaṇḍamekam](akhaṇḍamekam) [ekarasaṃ](ekarasaṃ) [cinmātram](cinmātram)

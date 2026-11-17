@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p143-v3551
-[those](tāneva) [questions](praśnān) [says](āha) [space](ākāśād) [etc](ityādi) [that](sā) [question-form](pṛṣṭarūpā)
+[gloss](tāneva) [gloss](praśnān) [gloss](āha) [gloss](ākāśādityādi) [gloss](sā) [gloss](pṛṣṭarūpā)
 
 ## mukta-m0-p143-v3552
-[shining-form](sphuradrūpā) [self-abiding](svātmasaṃsthā) [hear](śṛṇu) [you](tvaṃ) [brahma-rākṣasa](brahmarākṣasa)
+[gloss](sphuradrūpā) [gloss](svātmasaṃsthā) [gloss](śṛṇu) [gloss](tvaṃ) [gloss](brahmarākṣasa)
 
 ## mukta-m0-p143-v3553
-[all-inner](sarvāntaratvāt) [and](ca) [unperceived](agocaratvāt) [subtlety](sūkṣmatvam) [self-abiding](svātmasaṃsthā) [own-form](svarūpa) [indeed](eva) [established](sthitā)
+[gloss](sarvāntaratvāt) [gloss](agocaratvāt) [gloss](ca) [gloss](sūkṣmatvam) [gloss](svātmasaṃsthā) [gloss](svarūpa) [gloss](eva) [gloss](sthitā)
 
 ## mukta-m0-p143-v3554
-[shiningness](sphurattvaṃ) [what](kiṃ) [what](kiṃ) [self](ātmā) [and](ca) [say](vadaitat) [prince's-son](nṛpanandana)
+[gloss](sphurattvaṃ) [gloss](kiṃ) [gloss](kimātmā) [gloss](ca) [gloss](vadaitannṛpanandana)
 
 ## mukta-m0-p143-v3555
-[spread](vitatā) [subtle](sūkṣmā) [also](api) [one](ekā) [and](ca) [how](kathaṃ) [becomes](bhavet)
+[gloss](vitatā) [gloss](sūkṣmā) [gloss](api) [gloss](ekā) [gloss](ca) [gloss](kathaṃ) [gloss](bhavet)
 
 ## mukta-m0-p143-v3556
-[shiningness](sphurattvam) [self](ātmā) [and](ca) [consciousness](citiḥ) [hear](śṛṇu) [you](tvaṃ) [brahma-rākṣasa](brahmarākṣasa)
+[gloss](sphurattvam) [gloss](ātmā) [gloss](ca) [gloss](citiḥ) [gloss](śṛṇu) [gloss](tvaṃ) [gloss](brahmarākṣasa)
 
 ## mukta-m0-p143-v3557
-[consciousness-only](cinmātrameva) [not](na) [from-that](tato) [more](adhikam) [meaning](iti) [purport](tātparyam)
+[gloss](cinmātram) [gloss](eva) [gloss](na) [gloss](tataḥ) [gloss](adhikam) [gloss](iti) [gloss](tātparyam)
 
 ## mukta-m0-p143-v3558
-[by-perception](upalabdhyā) [and](ca) [what](kiṃ) [or](vā) [would-be](syād) [say](vadaitat) [prince's-son](nṛpanandana)
+[gloss](upalabdhyā) [gloss](ca) [gloss](kiṃ) [gloss](vā) [gloss](syāt) [gloss](vadaitannṛpanandana)
 
 ## mukta-m0-p143-v3559
-[by-perception](upalabdhyā) [birth](janir) [not](na) [would-be](syāt) [hear](śṛṇu) [you](tvaṃ) [brahma-rākṣasa](brahmarākṣasa)
+[gloss](upalabdhyā) [gloss](janir) [gloss](na) [gloss](syāt) [gloss](śṛṇu) [gloss](tvaṃ) [gloss](brahmarākṣasa)
 
 ## mukta-m0-p143-v3560
-[self-consciousness-only-form-attainment](svātmacinmātrākāratāsampattiḥ) [by-this](etena) [deluded-samādhi](mūḍhasamādhiḥ) [removed](vyāvṛttaḥ)
+[gloss](svātmacinmātrākāratāsampattiḥ) [gloss](etena) [gloss](mūḍhasamādhiḥ) [gloss](vyāvṛttaḥ)
 
 ## mukta-m0-p143-v3561
-[birth](janir) [or](vā) [also](api) [would-be](bhavet) [what](kā) [that](sā) [say](vadaitat) [prince's-son](nṛpanandana)
+[gloss](janir) [gloss](vā) [gloss](api) [gloss](bhavet) [gloss](kā) [gloss](sā) [gloss](vadaitannṛpanandana)
 
 ## mukta-m0-p143-v3562
-[birth](janir) [body-self-idea](dehātmatābuddhiḥ) [hear](śṛṇu) [you](tvaṃ) [brahma-rākṣasa](brahmarākṣasa)
+[gloss](janir) [gloss](dehātmatābuddhiḥ) [gloss](śṛṇu) [gloss](tvaṃ) [gloss](brahmarākṣasa)
 
 ## mukta-m0-p143-v3563
-[object-facingness](dṛśyānunmukhatvam)
+[gloss](dṛśyānunmukhatvam)
 
 ## mukta-m0-p143-v3564
-[birth](janiḥ) [how](kathaṃ) [or](vā) [obtained](samprāptā) [say](vadaitat) [prince's-son](nṛpanandana)
+[gloss](janiḥ) [gloss](kathaṃ) [gloss](vā) [gloss](samprāptā) [gloss](vadaitannṛpanandana)
 
 ## mukta-m0-p143-v3565
-[from-what-cause](kasmānnimittāt) [by-what-instrument](kena+karaṇena) [kāra](kāra)
+[gloss](kasmāt) [gloss](nimittāt) [gloss](kena) [gloss](karaṇena)
 
 ## mukta-m0-p143-v3566
-[birth](janiḥ) [doership-ego](kartṛtvābhimānāt) [hear](śṛṇu) [you](tvaṃ) [brahma-rākṣasa](brahmarākṣasa)
+[gloss](janiḥ) [gloss](kartṛtvābhimānāt) [gloss](śṛṇu) [gloss](tvaṃ) [gloss](brahmarākṣasa)
 
 ## mukta-m0-p143-v3567
-[by-self](ātmanā) [by-own](svenaiva) [instrument-independence](karaṇāntaranairapekṣyeṇa) [iti](eti) [as-far](yāvat)
+[gloss](ātmanā) [gloss](svena) [gloss](eva) [gloss](karaṇāntaranairapekṣyeṇa) [gloss](iti) [gloss](yāvat)
 
 ## mukta-m0-p143-v3568
-[who](ko) [or](vā) [doership-ego](kartṛtvābhimāno) [say](vadaitat) [prince's-son](nṛpanandana)
+[gloss](ko) [gloss](vā) [gloss](kartṛtvābhimāno) [gloss](vadaitannṛpanandana)
 
 ## mukta-m0-p143-v3569
-[that-impression-ego](tadvāsanābhimānaḥ) [would-be](syāt) [hear](śṛṇu) [you](tvaṃ) [brahma-rākṣasa](brahmarākṣasa)
+[gloss](tadvāsanābhimānaḥ) [gloss](syāt) [gloss](śṛṇu) [gloss](tvaṃ) [gloss](brahmarākṣasa)
 
 ## mukta-m0-p143-v3570
-[saṃskāra](saṃskāraḥ)
+[gloss](saṃskāraḥ)
 
 ## mukta-m0-p143-v3571
-[of-that](tasyāpi) [what](kiṃ) [cause](kāraṇaṃ) [would-be](syād) [say](vadaitat) [prince's-son](nṛpanandana)
+[gloss](tasya) [gloss](api) [gloss](kiṃ) [gloss](kāraṇaṃ) [gloss](syāt) [gloss](vadaitannṛpanandana)
 
 ## mukta-m0-p143-v3572
-[of-that](tasya) [non-discrimination-destroyer](avivekanāśakasya) [of-that-too](tasyāpi) [of-its-cause-too](tatkāraṇasyāpi)
+[gloss](tasya) [gloss](avivekanāśakasya) [gloss](tasya) [gloss](api) [gloss](tatkāraṇasya) [gloss](api)
 
 ## mukta-m0-p143-v3573
-[its-cause](tatkāraṇaṃ) [fault-view](doṣadṛṣṭiḥ) [hear](śṛṇu) [you](tvaṃ) [brahma-rākṣasa](brahmarākṣasa)
+[gloss](tatkāraṇaṃ) [gloss](doṣadṛṣṭiḥ) [gloss](śṛṇu) [gloss](tvaṃ) [gloss](brahmarākṣasa)
 
 ## mukta-m0-p143-v3574
-[object-fault-view](viṣayadoṣadṛṣṭiḥ)
+[gloss](viṣayadoṣadṛṣṭiḥ)
 
 ## mukta-m0-p143-v3575
-[fault-view](doṣadṛṣṭiḥ) [and](ca) [what](kā) [called](proktā) [say](vadaitat) [prince's-son](nṛpanandana)
+[gloss](doṣadṛṣṭiḥ) [gloss](ca) [gloss](kā) [gloss](proktā) [gloss](vadaitannṛpanandana)
