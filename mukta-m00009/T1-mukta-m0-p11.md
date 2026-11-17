@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p11-v251
-[there](tatra) [as-enjoyer](bhoktṛtayā) [by-enjoyments](bhogaiḥ) [with-body-sense-objects](śarīrendriyagocaraiḥ)
+[there](tatra) [by-enjoyer-ship](bhoktṛtayā) [by-enjoyments](bhogaiḥ) [by-body+sense+objects](śarīrendriyagocaraiḥ)
 
 ## mukta-m0-p11-v252
-[cut-off](vicchinnā) [veil](āvāraka) [lotuses](malānām) [indeed](eva) [from-that-birth](tatsaṃbhavāt)
+[cut-off+coverings](vicchinnāvārakamalānāmeva) [of-those](tatsaṃbhavāt)
 
 ## mukta-m0-p11-v253
-[māyā](māyā) [indeed](eva) [cause](kāraṇaṃ) [pure-impure](śuddhāśuddhayoḥ) [of-merit-demerit](malakarmaṇoḥ)
+[māyā](māyaiva) [cause](kāraṇaṃ) [of-pure+impure](śuddhāśuddhayormalakarmaṇoḥ)
 
 ## mukta-m0-p11-v254
-[of-bindu](bindoḥ) [in-discrimination](viveke) [suddenly](sahasā) [is-cut](cchidyate) [impurity-stalk](malakambukaḥ)
+[of-bindu](bindorviveke) [suddenly](sahasā) [cut](cchidyate) [impurity-stalk](malakambukaḥ)
 
 ## mukta-m0-p11-v255
-[from-birth](saṃbhavāt) [also](ca) [of-authority](adhikāra) [impurity-destruction](malakṣayaḥ) [that-discrimination](tadviveke) [occurs](bhavati)
+[from-origination](saṃbhavāccādhikāramalakṣayastadviveke) [becomes](bhavati)
 
 ## mukta-m0-p11-v256
-[transcended-māyā](uttīrṇamāyam) [self](ātmānaṃ) [great-māyā-attached](mahāmāyānuṣaṅgiṇam)
+[transcended-māyā](uttīrṇamāyamātmānaṃ) [great-māyā-attached](mahāmāyānuṣaṅgiṇam)
 
 ## mukta-m0-p11-v257
-[body-etc](śarīrādīni) [produces](utpādayati) [thus-meaning](ityarthaḥ)
+[body-etc](śarīrādīnyutpādayatītyarthaḥ)
 
 ## mukta-m0-p11-v258
-[as-ocean](yathodadhiḥ) [above](upari) [indeed](eva) [agitates](vikaroti) [by-wind-impulsion](anileraṇāt)
+[as-ocean](yathodadhiruparyeva) [stirs](vikarotyanileraṇāt)
 
 ## mukta-m0-p11-v259
-[by-own-work-forms](svakāryarūpābhiḥ) [by-powers](kalābhiḥ) [previously-stated](prāguktaṃ) [universe](viśvaṃ) [pervades](vyāpnoti) [thus-meaning](cetyarthaḥ)
+[by-own-effect-forms](svakāryarūpābhiḥ) [powers](kalābhiḥ) [previously-said](prāguktaṃ) [universe](viśvaṃ) [pervades](vyāpnoti) [thus-meaning](cetyarthaḥ)
 
 ## mukta-m0-p11-v260
-[thus](evaṃ) [māyā-one-part](māyaikadeśena) [agitates](vikaroti) [so](tathā) [all](akhilam)
+[thus](evaṃ) [māyā-one-part](māyaikadeśena) [transforms](vikaroti) [so-all](tathākhilam)
 
 ## mukta-m0-p11-v261
-[progression](pragamaḥ) [occurs-indeed](saṃbhavatyeva)
+[origination](pragamaḥ) [indeed-becomes](saṃbhavatyeva)
 
 ## mukta-m0-p11-v262
-[there](tatra) [unagitated](akṣubdhe) [would-be-enjoyment](bhaved bhogaḥ) [in-bindu](bindau) [bliss-formed](ānandarūpiṇi)
+[there](tatrākṣubdhe) [enjoyment](bhaved) [bhoga](bhogo) [in-bindu-bliss-formed](bindāvānandarūpiṇi)
 
 ## mukta-m0-p11-v263
-[own-nature-established](svarūpaniṣṭhe) [of-power](śakteḥ) [also](api) [withdrawn-activity](upasaṃhṛtavyāpāratvāt) [dissolution](layaḥ)
+[own-nature-abiding](svarūpaniṣṭhe) [of-power](śakterapyupasaṃhṛtavyāpāratvāllayaḥ)
 
 ## mukta-m0-p11-v264
-[one-indeed](ekaiva) [truly](khalu) [consciousness-power](cicchaktiḥ) [of-śiva](śivasya) [inherent](samavāyinī)
+[one-indeed](ekaiva) [consciousness-power](cicchaktiḥ) [of-śiva](śivasya) [inherent](samavāyinī)
 
 ## mukta-m0-p11-v265
-[by-her](tayā) [by-this](etayā) [by-connection](abhisambandhāt) [one](ekaḥ) [god](devaḥ) [threefold](tridhā) [becomes](bhavet)
+[by-that](tayaitayā'bhisaṃbandhādeko) [deva](devastridhā) [threefold](bhavet)
 
 ## mukta-m0-p11-v266
-[power](śaktiḥ) [unobstructed](apratigha) [vast](udāra) [ray-collection](marīcinicayātmikā)
+[power](śaktirapratighodāramarīcinicayātmikā)
 
 ## mukta-m0-p11-v267
-[unveiled](nirāvaraṇa) [dualless](nirdvandva) [without-material](nirupādāna) [glory](vaibhavā)
+[uncovered](nirāvaraṇanirdvandvanirupādānavaibhavā)
 
 ## mukta-m0-p11-v268
-[peaceful-risen-manifestation-etc](śāntoditaprapañcādi) [bindu-pervasion](binduvyāpti) [very-strong](paṭīyasī)
+[peaceful-risen-manifestation-etc](śāntoditaprapañcādibinduvyāptipaṭīyasī)
 
 ## mukta-m0-p11-v269
-[beginning-middle-end-less](ādimadhyāntarahitā) [devoid](rahitā) [all-bonds](sarvabandhanaiḥ)
+[beginning-middle-end-free](ādimadhyāntarahitā) [free](rahitā) [all-bonds](sarvabandhanaiḥ)
 
 ## mukta-m0-p11-v270
-[consciousness-indeed](citir) [eva](eva) [thought](matā) [unfading](amlāna) [glory](mahimā) [of-supreme-lord](parameṣṭhinaḥ)
+[consciousness-indeed](citireva) [unfailing-glory](matāmlānamahimā) [of-supreme-lord](parameṣṭhinaḥ)
 
 ## mukta-m0-p11-v271
-[by-her](tayā) [by-this](etayā) [by-special-connection](abhisambandhaviśeṣāt) [eternal-formed](nityarūpayā)
+[by-that](tayaitayā'bhisambandhaviśeṣānnityarūpayā)
 
 ## mukta-m0-p11-v272
-[bindu](binduḥ) [filling](āpūrayan) [by-sounds](nādaiḥ) [atomic](āṇavaṃ) [consciousness-sky](cinnabhaḥ) [repeatedly](muhuḥ)
+[bindu](bindurāpūrayannādairāṇavaṃ) [consciousness-space](cinnabho) [repeatedly](muhuḥ)
 
 ## mukta-m0-p11-v273
-[agitates](vikaroti) [as](yathā) [by-waves](lolaiḥ kallolaiḥ) [sounding](nādayan) [sky](nabhaḥ)
+[transforms](vikaroti) [as](yathā) [waves](lolaiḥ) [waves](kallolairnādayannabhaḥ)
 
 ## mukta-m0-p11-v274
-[one-many-division-indeed](ekānekavibhāgeva) [by-work-difference](kāryabhedāt) [is-perceived](vibhāvyate)
+[one-many-division](ekānekavibhāgeva) [by-effect-difference](kāryabhedād) [is-manifested](vibhāvyate)
 
 ## mukta-m0-p11-v275
-[desire-work](icchākāryam) [non-desire](anicchā) [also](api) [doing](kurvāṇā) [desire](icchā) [consciousness](cid) [imperishable](avyayā)
+[desire-effect](icchākāryamanicchāpi) [doing](kurvāṇecchā) [consciousness-imperishable](cidavyayā)
