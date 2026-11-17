@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p09-v201
-[all+action](sarvakṛtya) [in-engagement](pravṛttau) [or](vā) [not](na) [that](asā) [state](avasti) [thus](iti) [should-be-described](varṇyatām)
+[sarvakṛtyapravṛttau](sarvakṛtyapravṛttau) [vā](vā) [na](na) [asau](asau) [asti](asti) [iti](iti) [varṇyatām](varṇyatām)
 
 ## mukta-m0-p09-v202
-[omniscience](sarvajñatva) [omnipotence](sarvakartṛtva) [characterized-by](lakṣaṇatā) [indeed](eva) [liberation](muktiḥ) [to-be-accepted](abhyupagantavyā)
+[sarvajñatva](sarvajñatva) [sarvakartṛtva](sarvakartṛtva) [lakṣaṇatā](lakṣaṇatā) [eva](eva) [muktiḥ](muktir) [abhyupagantavyā](abhyupagantavyā)
 
 ## mukta-m0-p09-v203
-[in-liberation](vimokṣe) [quality](guṇa) [in-transfer](saṃkrāntau) [lord](īśaḥ) [non-lordship](anīśvaratāṃ) [would-attain](vrajet)
+[vimokṣe](vimokṣe) [guṇasaṃkrāntau](guṇasaṃkrāntau) [īśaḥ](īśo) [anīśvaratām](anīśvaratāṃ) [vrajet](vrajet)
 
 ## mukta-m0-p09-v204
-[having-abandoned](tyaktvā) [own+possessor-of-quality](svaguṇinaṃ) [go](yānti) [not](na) [and](ca) [another+possessor](guṇyantaraṃ) [qualities](guṇāḥ)
+[tyaktvā](tyaktvā) [svaguṇinam](svaguṇinaṃ) [yānti](yānti) [na](na) [ca](ca) [guṇyantaram](guṇyantaraṃ) [guṇāḥ](guṇāḥ)
 
 ## mukta-m0-p09-v205
-[quality](guṇa) [transfer](saṃkrānti) [non-establishment](anupapatteḥ) [not](na) [by-that](tayā) [equality-with-Śiva](śivasamatvam) [to-be-accepted](abhyupagantavyam) [thus](iti)
+[guṇasaṃkrānti](guṇasaṃkrānti) [anupapatter](anupapatter) [na](na) [tayā](tayā) [śivasamatvam](śivasamatvam) [abhyupagantavyam](abhyupagantavyam) [iti](iti)
 
 ## mukta-m0-p09-v206
-[previously+stated](prāgukta) [fault](doṣa) [tainted+nature](duṣṭātmā) [supreme+self](paramātmā) [as](yathā) [so](tathā)
+[prāguktadoṣaduṣṭātmā](prāguktadoṣaduṣṭātmā) [paramātmā](paramātmā) [yathā](yathā) [tathā](tathā)
 
 ## mukta-m0-p09-v207
-[of-that+established](tatsiddhasya) [also](api) [due-to-non-difference-from-that](tadabhedāt) [would-follow](prasajyati) [thus](iti) [non-dualism](advaitam) [indeed](eva) [liberation](mokṣaḥ) [of-you](bhavatām)
+[tatsiddhasyāpi](tatsiddhasyā'pi) [tadabhedāt](tadabhedāt) [prasajyate](prasajyata) [iti](iti) [advaitam](advaitameva) [eva](eva) [mokṣaḥ](mokṣo) [bhavatām](bhavatām)
 
 ## mukta-m0-p09-v208
-[oneness](ekatva) [vision](darśanaṃ) [of-liberation](mukteḥ) [means](sādhanaṃ) [own-self](svātma) [contradicted](bādhitam)
+[ekatvadarśanam](ekatvadarśanaṃ) [mukteḥ](mukteḥ) [sādhanam](sādhanaṃ) [svātmabādhitam](svātmabādhitam)
 
 ## mukta-m0-p09-v209
-[goal](sādhya) [means](sādhana) [relation](bhāvaḥ) [goal](sādhya) [means](sādhana) [relation](bhāve) [or](vā) [non-oneness](aneka+tvam) [thus](iti)
+[sādhyasādhanabhāvaḥ](sādhyasādhanabhāvaḥ) [sādhyasādhanabhāve](sādhyasādhanabhāve) [vā](vā) [anekatvam](anekatvam) [iti](iti)
 
 ## mukta-m0-p09-v210
-[in-difference](bhede) [being](sati) [of-means-of-knowledge](pramāṇānāṃ) [operation](pravṛttiḥ) [not](na) [otherwise](anyathā) [accepted](matā)
+[bhede](bhede) [sati](sati) [pramāṇānām](pramāṇānāṃ) [pravṛttiḥ](pravṛttir) [na](na) [anyathā](anyathā) [matā](matā)
 
 ## mukta-m0-p09-v211
-[having-released](muktvā) [yoga](yoga) [fruit](phalaṃ) [delightful](ramyaṃ) [enjoyments](bhogān) [worldly](sāṃsārikān) [also](api)
+[muktvā](muktvā) [yogaphalam](yogaphalaṃ) [ramyam](ramyaṃ) [bhogān](bhogān) [sāṃsārikān](sāṃsārikān) [api](api)
 
 ## mukta-m0-p09-v212
-[not](na) [and](ca) [in-that](tasmin) [not-human-goal](apuruṣārtha) [being](bhūte) [of-anyone](kasyacit) [engagement](pravṛttiḥ) [is-possible](upapadyate)
+[na](na) [ca](ca) [tasmin](tasmin) [apuruṣārthabhūte](apuruṣārthabhūte) [kasyacit](kasyacit) [pravṛttiḥ](pravṛttir) [upapadyate](upapadyate)
 
 ## mukta-m0-p09-v213
-[own](sva) [consciousness](caitanya) [for-destruction](vināśāya) [good-people](santaḥ) [good-people](santaḥ) [how](kathaṃ) [indeed](ca) [they](te)
+[svacaitanyavināśāya](svacaitanyavināśāya) [santaḥ](santaḥ) [santaḥ](santaḥ) [kathaṃ](kathaṃ) [ca](ca) [te](te)
 
 ## mukta-m0-p09-v214
-[knowledge](jñāna) [yoga](yoga) [practice](abhyāsa) [etc.](ādi) [effort](prayāsaṃ) [would-make](kuryuḥ)
+[jñānayogābhyāsādi](jñānayogābhyāsādi) [prayāsam](prayāsaṃ) [kuryuḥ](kuryuḥ)
 
 ## mukta-m0-p09-v215
-[discrimination](vivekaḥ) [indeed](nāma) [from-difference-of-nature](vaidharmyāt) [of-qualities](guṇānāṃ) [of-spirit](puruṣasya) [and](ca)
+[vivekaḥ](viveko) [nāma](nāma) [vaidharmyāt](vaidharmyād) [guṇānām](guṇānāṃ) [puruṣasya](puruṣasya) [ca](ca)
 
 ## mukta-m0-p09-v216
-[agent](kartṛ) [emanation](prasava) [mixed](saṃkīrṇa) [natured](dharmakāḥ) [indeed](hi) [qualities](guṇāḥ) [we](vayam)
+[kartṛprasavasaṃkīrṇadharmakāḥ](kartṛprasavasaṃkīrṇadharmakā) [hi](hi) [guṇāḥ](guṇā) [vayam](vayam)
 
 ## mukta-m0-p09-v217
-[thus](tathā) [shown](darśita) [seen-ness](darśitve) [false-seer](mithyādarśī) [spirit](pumān) [would-be](bhavet)
+[tathā](tathā) [darśitadarśitve](darśitadarśitve) [mithyādarśī](mithyādarśī) [pumān](pumān) [bhavet](bhavet)
 
 ## mukta-m0-p09-v218
-[blue](nīla) [conditioned](upādhau) [in-snowy-mountain](himavati) [that](tat) [cognition](pratipattiḥ) [false](mithyā) [indeed](eva) [not](na) [and](ca) [from-false-knowledge](mithyājñānāt) [liberation](mokṣaḥ) [because-of-unsuitability](ayuktatvāt)
+[nīlopādhau](nīlopādhau) [himavati](himavati) [tatpratipattiḥ](tatpratipattir) [mithyā](mithyaiva) [eva](eva) [na](na) [ca](ca) [mithyājñānāt](mithyājñānāt) [mokṣaḥ](mokṣaḥ) [ayuktatvāt](ayuktatvāt)
 
 ## mukta-m0-p09-v219
-[agency](kartṛtva) [etc.](ādi) [qualities](guṇāḥ) [indeed](hi) [these](ete) [qualities](guṇāḥ) [not](na) [I](aham) [thus](iti) [such](īdṛśī)
+[kartṛtvādi](kartṛtvādi) [guṇāḥ](guṇā) [hyete](hyete) [guṇāḥ](guṇā) [na](na) [aham](aham) [iti](iti) [idṛśī](idṛśī)
 
 ## mukta-m0-p09-v220
-[own-self](svātma) [distinct](vivikta) [quality](guṇa) [seer-ness](draṣṭṛtve) [of-spirit](puruṣasya) [being-assumed](kalpyamāne) [contradicted](vyāhatam)
+[svātmaviviktaguṇadraṣṭṛtve](svātmaviviktaguṇadraṣṭṛtve) [puruṣasya](puruṣasya) [kalpyamāne](kalpyamāne) [vyāhatam](vyāhatam)
 
 ## mukta-m0-p09-v221
-[others](anye) [qualities](guṇāḥ) [spirit](pumān) [other](anyaḥ) [thus](iti) [not](no) [show](darśayanti) [they](te)
+[anye](anye) [guṇāḥ](guṇāḥ) [pumān](pumān) [anyaḥ](anyaḥ) [iti](iti) [no](no) [darśayanti](darśayanti) [te](te)
 
 ## mukta-m0-p09-v222
-[not](na) [and](ca) [also](api) [object](viṣayaḥ) [of-them](teṣām) [atom](aṇuḥ) [thus](iti) [stated](uditam) [before](purā)
+[na](na) [ca](ca) [api](api) [viṣayaḥ](viṣayaḥ) [teṣām](teṣām) [aṇuḥ](aṇuḥ) [iti](iti) [uditaṃ](uditaṃ) [purā](purā)
 
 ## mukta-m0-p09-v223
-[as-stated](yathokta) [soul](paśu) [bond](pāśa) [etc.](ādiṣu) [goal](sādhya) [means](sādhana) [due-to-absence](varjanāt)
+[yathoktapaśupāśeṣu](yathoktapaśupāśeṣu) [sādhyasādhanavarjanāt](sādhyasādhanavarjanāt)
 
 ## mukta-m0-p09-v224
-[therefore](ataḥ) [other](anya) [proponent](vādi) [views](dṛṣṭayaḥ) [non-good](aśreyaḥ) [resulting](phalāḥ) [by-good-seekers](śreyo'rthibhiḥ) [to-be-avoided](parihāryāḥ)
+[ataḥ](ato) [anyavādidṛṣṭayaḥ](anyavādidṛṣṭayo) [aśreyaḥphalāḥ](aśreyaḥphalāḥ) [śreyo'rthibhiḥ](śreyo'rthibhiḥ) [parihāryāḥ](parihāryāḥ)
 
 ## mukta-m0-p09-v225
-[soul](paśu) [bond](pāśa) [etc.](ādi) [distinction](vaiśiṣṭya) [illuminating](prakāśakam) [uncontradicted](abādhitam)
+[paśupāśādivaiśiṣṭyaprakāśakam](paśupāśādivaiśiṣṭyaprakāśakam) [abādhitam](abādhitam)

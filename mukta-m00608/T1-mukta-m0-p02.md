@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p02-v26
-[eighteen-aṅgula](aṣṭādaśā"ṅgulaṃ) [or](vāpi) [nineteen-aṅgula](navadaśā"ṅgulaṃ) [indeed](tu) [or](vā)
+[eighteen-angula](aṣṭādaśā"ngulaṃ) [or](vā) [also](api) [nineteen-angula](navadaśā"ngulaṃ) [but](tu) [or](vā)
 
 ## mukta-m0-p02-v27
-[twenty-two](dvāviṃśatir) [or](vā) [o-best-of-twice-born](viprendra) [should-make](kārayet) [o-best-teacher](deśikottamaḥ)
+[twenty-two](dvāviṃśatiḥ) [or](vā) [best-of-brahmins](viprendra) [should-make](kārayet) [best-teacher](deśikottamaḥ)
 
 ## mukta-m0-p02-v28
-[height](utsedhaṃ) [into-eight-parts](cāṣṭadhā) [having-divided](hitvā) [one-part](ekāṃśaṃ) [and](ca) [indeed](eva) [width](vistaram)
+[height](utsedhaṃ) [and](ca) [in-eight-parts](aṣṭadhā) [abandoning](hitvā) [one-part](ekāṃśaṃ) [and](ca) [indeed](eva) [width](vistaram)
 
 ## mukta-m0-p02-v29
-[three-parts](tribhāgaṃ) [indeed](tu) [four-parts](caturbhāgaṃ) [in-middle](madhye) [good-hole](suṣuram) [is-called](ucyate)
+[one-third](tribhāgaṃ) [but](tu) [one-fourth](caturbhāgaṃ) [in-middle](madhye) [hole](suṣuraṃ) [is-said](ucyate)
 
 ## mukta-m0-p02-v30
-[obtained-height](labdhauccaṃ) [and](ca) [indeed](eva) [o-best-of-twice-born](viprendra) [by-measure-aṅgula](mānā"ṅgulena) [one-should-divide](bhājayet)
+[obtained-height](labdhauccaṃ) [and](ca) [indeed](eva) [best-of-brahmins](viprendra) [measure-angula](mānā"ngulana) [divide](bhājayet)
 
 ## mukta-m0-p02-v31
-[equal](samaṃ) [if](cet) [that](tat) [should-be-accepted](parigrāhyam) [income-expenditure](āyavyayam) [here](iha) [is-stated](ucyate)
+[equal](samaṃ) [if](cet) [that-accepted](tatparigrāhyaṃ) [income-expenditure](āyavyayaṃ) [here](iha) [is-said](ucyate)
 
 ## mukta-m0-p02-v32
-[remainder](śeṣam) [income](āyam) [this](idaṃ) [declared](proktaṃ) [by-multiplier](guṇena) [indeed](eva) [one-should-multiply](vivardhayet)
+[remainder-income](śeṣamāyaṃ) [this](idaṃ) [declared](proktaṃ) [by-quality](guṇena) [indeed](eva) [increase](vivardhayet)
 
 ## mukta-m0-p02-v33
-[foot](padaṃ) [per](prati) [by-groups](gaṇaiḥ) [increase](vṛddhiḥ) [by-eight](aṣṭabhiḥ) [one-should-divide](grāsayet) [then](tataḥ)
+[step](padaṃ) [each](prati) [by-counts](gaṇaiḥ) [increase](vṛddhiḥ) [by-eight](aṣṭabhiḥ) [swallow](grāsayet) [then](tataḥ)
 
 ## mukta-m0-p02-v34
-[by-twenty-seven](saptaviṃśatibhiḥ) [division](grāsaṃ) [obtained](labdham) [desired](iṣṭam) [thus](iti) [remembered](smṛtam)
+[by-twenty-seven](saptaviṃśatibhiḥ) [swallow](grāsaṃ) [obtained](labdhaṃ) [desired](iṣṭaṃ) [thus](iti) [remembered](smṛtam)
 
 ## mukta-m0-p02-v35
-[by-thirty](triṃśadbhiḥ) [one-should-subtract](hāsayet) [stated](uktāni) [remainder](śeṣaṃ) [duration](sthitiḥ) [here](iha) [is-called](ucyate)
+[by-thirty](triṃśadbhiḥ) [diminish](hāsaya) [said](uktāni) [remainder](śeṣaṃ) [stability](sthitiḥ) [here](iha) [is-said](ucyate)
 
 ## mukta-m0-p02-v36
-[remainder](śeṣaṃ) [day](vāram) [thus](iti) [declared](proktaṃ) [income-expenditure](āyavyaya) [and-loss](caya) [thus](iti) [and](ca)
+[remainder](śeṣaṃ) [times](vāraṃ) [thus](iti) [declared](proktaṃ) [income-expenditure](āyavyaya) [accumulation](caya) [and](ca)
 
 ## mukta-m0-p02-v37
-[income-greater](āyādhikaṃ) [expenditure](vyayaṃ) [less](hīnaṃ) [prosperity-causing](saṃpatkaram) [here](iha) [is-called](ucyate)
+[income-excess](āyādhikaṃ) [expenditure](vyayaṃ) [deficient](hīnaṃ) [prosperity-causing](saṃpatkaraṃ) [here](iha) [is-said](ucyate)
 
 ## mukta-m0-p02-v38
-[therefore](tasmāt) [with-all-effort](sarvaprayatnena) [income-deficient](āyahīnam) [not](na) [one-should-make](kārayet)
+[therefore](tasmāt) [all-effort](sarvaprayatnena) [income-deficient](āyahīnaṃ) [not](na) [should-make](kārayet)
 
 ## mukta-m0-p02-v39
-[dhūmra](dhūmraḥ) [and](ca) [donkey](gardabhaḥ) [crow](kākaḥ) [faults](doṣāṇi) [these](etāni) [one-should-avoid](varjayet)
+[smoky](dhūmraḥ) [and](ca) [donkey](gardabhaḥ) [crow](kākaḥ) [defects](doṣāṇi) [these](etāni) [avoid](varjayet)
 
 ## mukta-m0-p02-v40
-[thus](evaṃ) [having-examined](parīkṣya) [in-many-ways](bahudhā) [should-be-made](kartavyaṃ) [manuscript](pustakaṃ) [supreme](param)
+[thus](evaṃ) [examining](parīkṣya) [in-many-ways](bahudhā) [should-do](kartavyaṃ) [book](pustakaṃ) [supreme](param)
 
 ## mukta-m0-p02-v41
-[Viśvāmitra](viśvāmitraḥ) [then](atha) [Vālmīki](bālmīkiḥ) [Kaśyapa](kāśyapān) [and](ca) [Aṅgiras](āṅgiraḥ) [likewise](tathā)
+[vishvamitra](viśvāmitraḥ) [then](atha) [valmiki](bālmīkiḥ) [kashyapas](kāśyapān) [and](ca) [angiras](aṅgiraḥ) [also](tathā)
 
 ## mukta-m0-p02-v42
-[beginning-with-fourteen-aṅgulas](caturdaśā"ṅgulādīni) [in-order](kramāt) [having-arranged](vinyasya) [teacher](deśikaḥ)
+[fourteen-angula-etc](caturdaśā"ngulādīni) [in-order](kramāt) [placing](vinyasya) [teacher](deśikaḥ)
 
 ## mukta-m0-p02-v43
-[gati](gati) [fourteen](catvāridaśa) [and](ca) [indeed](eva) [kati](kati) [four](catvāri) [indeed](eva) [and](ca)
+[fourteen](catvāridaśa) [and](ca) [indeed](eva) [how-many](kati) [four](catvāri) [indeed](eva) [and](ca)
 
 ## mukta-m0-p02-v44
-[Brahmā](brahmā) [Viṣṇu](viṣṇuḥ) [and](ca) [Rudra](rudraḥ) [and](ca) [Īśvara](īśvaraḥ) [Śiva](śivaḥ) [indeed](eva) [and](ca)
+[brahma](brahmā) [vishnu](viṣṇuḥ) [and](ca) [rudra](rudraḥ) [and](ca) [ishvara](īśvaraḥ) [shiva](śivaḥ) [indeed](eva) [and](ca)
 
 ## mukta-m0-p02-v45
-[* * *]( * * * ) [beginning-with-aṅgulas](śāṃgulādīni) [by-names](vedanāmi) [here](iha) [is-stated](cocyate)
+[stars](*) [stars](*) [stars](*) [angula-etc](śāṃgulādīni) [pain](vedanāṃ) [here](iha) [and](ca) [is-said](ucyate)
 
 ## mukta-m0-p02-v46
-[with-six-lines](ṣaṭpatir) [or](vā) [then](atha) [with-five](pañcaiḥ) [or](vā) [one-should-write](lekhayet) [manuscript](pustakaṃ) [then](tataḥ)
+[six-leaves](ṣaṭpatiḥ) [or](vā) [then](atha) [five](pañcaiḥ) [or](vā) [write](lekhayet) [book](pustakaṃ) [then](tataḥ)
 
 ## mukta-m0-p02-v47
-[row](pa"ṅktiḥ) [thus](evaṃ) [is-designated](samākhyātaṃ) [by-their-respective-names](tattannāmnā) [presiding-deity](adhidaivataḥ)
+[row](paṅktiḥ) [thus](evaṃ) [called](samākhyātaṃ) [that-that-name](tattannāmnā) [presiding-deity](adhidaivataḥ)
 
 ## mukta-m0-p02-v48
-[of-sages](ṛṣīṇaṃ) [on-palm-leaf](bhujapatre) [indeed](tu) [one-should-write](lekhayet) [indeed](tu) [o-best-of-twice-born](dvijottamaḥ)
+[of-sages](ṛṣīṇāṃ) [on-palm-leaf](bhujapatre) [but](tu) [write](lekhayet) [but](tu) [best-brahmin](dvijottamaḥ)
 
 ## mukta-m0-p02-v49
-[two](dvau) [sides](pārśve) [kaḥ](kaḥ) [pa](pa) [* * *]( * * * ) [of-manuscript-length](pustakāyāma) [equal-to-that](tatsamam)
+[two](dvau) [sides](pārśve) [who](kaḥ) [pa](pa) [stars](*) [stars](*) [stars](*) [book-length](pustakāyāma) [that-equal](tatsamam)
 
 ## mukta-m0-p02-v50
-[in-front-of-Śiva](śivāgre) [pavilion](maṇṭapaṃ) [one-should-make](kuryāt) [in-northeast](īśāne) [in-south](dakṣiṇe) [or](api) [or](vā)
+[before-shiva](śivāgre) [pavilion](maṇṭapaṃ) [should-make](kuryāt) [in-northeast](īśāne) [right](dakṣiṇe) [also](api) [or](vā)

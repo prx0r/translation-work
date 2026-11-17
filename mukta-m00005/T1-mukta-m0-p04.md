@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p04-v76
-[cognition](bodha) [manifestation](vyakti) [ground-state](bhūmitayā) [of-the-bound-soul](paśoḥ) [thus](iti)
+[by-manifestation-of-knowledge](bodhavyaktibhūmitayā) [of-bound-soul](paśoḥ) [thus](iti)
 
 ## mukta-m0-p04-v77
-[desire](icchā) [effort](saṃrambha) [cognition](bodha) [called](ākhyāḥ) [by-that](tena) [internal-organ](antaḥkaraṇam) [threefold](tridhā)
+[desire-agitation-knowledge-named](icchāsaṃrambhabodhākhyāḥ) [by-that](tena) [internal-organ](antaḥkaraṇa) [threefold](tridhā)
 
 ## mukta-m0-p04-v78
-[functions](vṛttayaḥ) [due-to-different-objects](bhinna+arthatvāt) [having-different-causes](bhinna+kāraṇāḥ) [thus](iti) [meaning](bhāvaḥ)
+[functions](vṛttayaḥ) [due-to-different-meanings](bhinnārthatvāt) [different-causes](bhinnakāraṇāḥ) [thus](iti) [meaning](bhāvaḥ)
 
 ## mukta-m0-p04-v79
-[intellect](buddhiḥ) [and](ca) [also](api) [indeed](hi) [unperceived](asaṃvedyā) [blessed](dhanyā) [logician-hood](tārkikatā) [your](tava)
+[intellect](buddhiḥ) [also](ca) [api](api) [indeed](hi) [not-perceptible](asaṃvedyā) [fortunate](dhanyā) [logician-ness](tārkikatā) [your](tava)
 
 ## mukta-m0-p04-v80
-[object](viṣaya) [determination](adhyavasāya) [causality](hetutvāt) [established](siddham) [thus](iti) [stated](uktam)
+[object-determination-causality](viṣayādhyavasāyahetutvāt) [established](siddham) [thus](iti) [said](uktam)
 
 ## mukta-m0-p04-v81
-[enjoyable-object](bhogyam) [without](vinā) [not](na) [enjoyment](bhogaḥ) [exists](asti) [therefore](iti+ataḥ) [of-enjoyment](bhogasya) [instrument](sādhanam)
+[enjoyable](bhogyam) [without](vinā) [not](na) [enjoyment](bhogaḥ) [exists](asti) [therefore](iti) [of-enjoyment](bhogasya) [means](sādhanam)
 
 ## mukta-m0-p04-v82
-[pleasure-etc.](sukha+ādi) [determination](adhyavasāyasya) [also](api) [instrument](sādhanam) [is-accepted](iṣyate)
+[of-pleasure-etc-determination](sukhādyadhyavasāyasya) [also](api) [means](sādhanam) [is-desired](iṣyate)
 
 ## mukta-m0-p04-v83
-[employs](prayuṅkte) [the-great-principle-etc.](mahat+ādīni) [for-cognition-etc.](bodha+ādi+artham) [atomic-soul](aṇuḥ) [likewise](tathā)
+[employs](prayuṅkte) [great-etc](mahadādīni) [for-knowledge-etc-purpose](bodhādyartham) [atom](aṇuḥ) [thus](tathā)
 
 ## mukta-m0-p04-v84
-[in-intellect-etc.](buddhi+ādi+saṃsthe) [in-cognition-etc.](bodha+ādau) [of-the-self](puṃsaḥ) [agency](kartṛtvam) [is-accepted](iṣyate)
+[in-intellect-etc-situated](buddhyādisaṃsthe) [in-knowledge-etc](bodhādau) [of-person](puṃsaḥ) [agency](kartṛtvam) [is-desired](iṣyate)
 
 ## mukta-m0-p04-v85
-[instrument](sādhanam) [of-victory](vijayasya) [desired](iṣṭāḥ) [likewise](tathā+eva) [the-great-principle-etc.](mahat+ādayaḥ)
+[means](sādhanam) [of-victory](vijayasya) [desired](iṣṭāḥ) [thus](tathā) [also](eva) [great-etc](mahadādayaḥ)
 
 ## mukta-m0-p04-v86
-[therefore](tataḥ) [of-cognition-etc.](bodha+ādi) [functions](vṛttīnām) [instrument](sādhanam) [the-great-principle-etc.](mahat+ādayaḥ)
+[then](tataḥ) [of-knowledge-etc-functions](bodhādivṛttīnām) [means](sādhanam) [great-etc](mahadādayaḥ)
 
 ## mukta-m0-p04-v87
-[intellectual](bauddhaḥ) [cognition](bodhaḥ) [supreme](param) [enjoyable](bhogyam) [māyā-etc.](māyā+ādi) [and](ca) [for-that-purpose](tat+arthataḥ)
+[intellectual](bauddhaḥ) [knowledge](bodhaḥ) [supreme](param) [enjoyable](bhogyam) [māyā-etc](māyādi) [and](ca) [for-that-purpose](tadarthataḥ)
 
 ## mukta-m0-p04-v88
-[by-that-state](tvāt) [indirectly](paramparayā) [enjoyable](bhogyam) [thus](iti)
+[from-you](tvāt) [by-succession](paramparayā) [enjoyable](bhogyam) [thus](iti)
 
 ## mukta-m0-p04-v89
-[darkness](tamas) [passion](rajaḥ) [goodness](sattva) [consisting-of](mayam) [form](rūpam) [born-of-its-karma](tat+karma+jam) [in-the-intellect](matau)
+[of-tamas-rajas-sattva-composed](tamorajaḥsattvamayam) [form](rūpam) [that-karma-born](tatkarmajam) [in-opinion](matau)
 
 ## mukta-m0-p04-v90
-[cloth-etc.](paṭa+ādi) [cognition](bodha) [non-pervasiveness](avaitatyāt) [of-the-self](ātmanaḥ) [not](na) [qualities](guṇāḥ) [qualities](guṇāḥ)
+[from-cloth-etc-knowledge](paṭādibodhāt) [non-eternality](anityatvāt) [of-self](ātmanaḥ) [not](na) [qualities](guṇāḥ) [qualities](guṇāḥ)
 
 ## mukta-m0-p04-v91
-[material](prākṛtaḥ) [body](deha) [in-conjunction](saṃyoge) [manifested](vyaktaḥ) [like-dream-etc.](svapna+ādi) [cognition](bodha+vat) [thus](iti)
+[material](prākṛtaḥ) [in-body-union](dehasaṃyoge) [manifest](vyaktaḥ) [like-dream-knowledge](svapnādibodhavat) [thus](iti)
 
 ## mukta-m0-p04-v92
-[heaven](svargaḥ) [liberation](muktiḥ) [absorption-in-nature](prakṛti+bhāvaḥ) [obstruction](vighātaḥ) [and](ca) [results](phalāni) [and](ca)
+[heaven](svargaḥ) [liberation](muktiḥ) [material-nature-state](prakṛtibhāvaḥ) [obstruction](vighātaḥ) [and](ca) [fruits](phalāni) [and](ca)
 
 ## mukta-m0-p04-v93
-[control](vaśya) [higher-state](ūrdhva+sthitiḥ) [possession-of-right-view](sat+dṛṣṭi+bhṛttvam) [non-desire-for-enjoyment](bhoga+aspṛhā) [result](phalam)
+[control](vaśya) [upward-station](ūrdhvasthitiḥ) [true-view-bearing](saddṛṣṭibhṛttvam) [dispassion-for-enjoyment](bhogāspṛhā) [fruit](phalam)
 
 ## mukta-m0-p04-v94
-[in-discipline](vinaya) [in-material-form](prākṛte) [form](rūpe) [previously-stated](pūrva+ukta) [collection-of-results](phala+saṃgrahaḥ)
+[in-humble-material](vinayaprākṛte) [form](rūpe) [collection-of-previously-stated-fruits](pūrvoktaphalasaṃgrahaḥ)
 
 ## mukta-m0-p04-v95
-[by-mere-passion](rāga+mātra) [smeared-limb](anulipta+aṅgāt) [from-dharma-etc.](dharma+ādi) [aggregate](samudāyataḥ)
+[from-attachment-only-smeared-limbs](rāgamātrānuliptāṅgāt) [from-virtue-etc-aggregate](dharmādisamudāyataḥ)
 
 ## mukta-m0-p04-v96
-[contentment](tuṣṭiḥ) [knowledge-of-accomplishment](kṛtārtha+vijñānam) [by-this](anayā) [in-self-apprehension](ātma+grahe) [when-present](sati)
+[satisfaction](tuṣṭiḥ) [knowledge-of-accomplished-purpose](kṛtārthavijñānam) [by-this](anayā) [in-self-grasp](ātmagrahe) [being](sati)
 
 ## mukta-m0-p04-v97
-[accomplished](kṛtārthaḥ) [I-am](asmi) [thus](iti) [which](yā) [cognition](matiḥ) [thus](iti)
+[accomplished](kṛtārthaḥ) [I-am](asmi) [thus](iti) [which](yā) [opinion](matiḥ) [thus](iti)
 
 ## mukta-m0-p04-v98
-[incapacity](aśaktiḥ) [due-to-defect-of-organs](deva+vaikalyāt) [inability](asāmarthyam) [in-auspicious-etc.](śubha+ādiṣu)
+[incapacity](aśaktiḥ) [divine-deficiency](devavaikalyāt) [inability](asāmarthyam) [in-auspicious-etc](śubhādiṣu)
 
 ## mukta-m0-p04-v99
-[of-the-passionate](rājasya) [also](api) [quality](guṇaḥ) [seen](dṛṣṭaḥ) [in-effect](kārye) [dependence-on-cause](kāraṇa+saṃśrayaḥ) [thus](iti)
+[of-rajas](rājasya) [also](api) [quality](guṇaḥ) [seen](dṛṣṭaḥ) [in-effect](kārye) [cause-dependence](kāraṇasaṃśrayaḥ) [thus](iti)
 
 ## mukta-m0-p04-v100
-[slightly](īṣat) [with-dharma-etc.](dharma+ādi) [mixed](saṃpṛktāt) [manifested](abhivyaktaḥ) [error](viparyayaḥ)
+[slightly](īṣat) [from-virtue-etc-mixed](dharmādisaṃpṛktāt) [manifested](abhivyaktaḥ) [inversion](viparyayaḥ)

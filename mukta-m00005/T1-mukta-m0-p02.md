@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p02-v26
-[quality](guṇa) [apprehension](grahaṇa) [preceded-by-ness](pūrvakatvaṃ) [established](siddham) [indeed](eva) [therefore](ataḥ) [of-this](asya) [reason](hetoḥ) [not](na) [unestablishedness](asiddhatā) [thus](iti)
+[quality-grasping-prior-ness](guṇagrahaṇapūrvakatvaṃ) [established-indeed](siddhameva) [therefore](ato) [of-this](asya) [reason](hetoḥ) [not-unestablished-thus](nāsiddhateti)
 
 ## mukta-m0-p02-v27
-[earth](kṣiti) [etc.](ādi) [up-to-kalā](kakalā) [ending](antānāṃ) [to-be-applied](yojyaḥ) [for-cause](kāraṇa) [establishment](siddhaye)
+[earth-etc-element-limit](kṣityādikakalāntānāṃ) [to-be-joined](yojyaḥ) [for-cause-establishment](kāraṇasiddhaye)
 
 ## mukta-m0-p02-v28
-[for-each-person](pratipuruṣa) [fixedness](niyatatvena) [in-non-consciousness](acaitanye) [being](sati) [because-of-multiplicity](anekatvāt) [cause](kāraṇa) [preceded-by-ness](pūrvakatvaṃ) [is-established](siddhyati) [thus](iti)
+[per-person-fixed-ness](pratipuruṣaniyatatvena) [non-conscious](acaitanye) [being](satya) [many-ness](anekatvāt) [cause-prior-ness](kāraṇapūrvakatvaṃ) [is-established-thus](siddhyatīti)
 
 ## mukta-m0-p02-v29
-[sources](yonayaḥ) [of-ether](gagana) [etc.](ādīnāṃ) [in-order](kramam) [desire](icchanti) [of-attribute-possessors](dharmiṇām)
+[sources](yonayaḥ) [of-sky-etc](gaganādīnāṃ) [in-order](kramam) [they-desire](icchanti) [of-substrata](dharmiṇām)
 
 ## mukta-m0-p02-v30
-[they-make](kurvanti) [thus](iti) [meaning](arthaḥ)
+[they-do-thus-meaning](kurvantītyarthaḥ)
 
 ## mukta-m0-p02-v31
-[in-mātrā](mātrā) [etc.](ādyāsu) [of-human-purpose](pumarthasya) [instrumentality](sādhanatvaṃ) [ascertained](viniścitam)
+[measure-etc](mātrādyāsu) [of-puruṣa-aim](pumarthasya) [instrumentality](sādhanatvaṃ) [ascertained](viniścitam)
 
 ## mukta-m0-p02-v32
-[by-that](tat) [fulfillment](āpūrakatayā) [and](ca) [enjoyability](bhogatvaṃ) [established](siddham)
+[as-filling-that](tadāpūrakatayā) [and](ca) [enjoyment-ness](bhogatvaṃ) [established](siddham)
 
 ## mukta-m0-p02-v33
-[organ-of-generation](upastha) [foot](pāda) [anus](pāyu) [mouth](āsya) [hand](pāṇi) [names](nāmāni) [indeed](vai) [separately](pṛthak)
+[upastha-foot-mouth-hand-names](upasthapādapāyvāsyapāṇināmāni) [indeed](vai) [separate](pṛthak)
 
 ## mukta-m0-p02-v34
-[in-locations](sthāneṣu) [being-present](satsu) [those](tāni) [here](iha) [five](pañca) [organs-of-action](karmendriyāṇi) [indeed](tu)
+[in-places](sthāneṣu) [being](satsu) [those-here](tānīha) [five](pañca) [action-organs](karmendriyāṇi) [but](tu)
 
 ## mukta-m0-p02-v35
-[not](na) [desire](icchanti) [naiyāyikas](naiyāyika) [etc.](ādayaḥ) [they](te) [refuted](pratikṣiptāḥ)
+[not-desire](necchanti) [naiyāyika-etc](naiyāyikādayaḥ) [they](te) [rejected](pratikṣiptāḥ)
 
 ## mukta-m0-p02-v36
-[organs-of-action](karmendriyāṇi) [therefore](ataḥ) [not](na) [of-them](eṣām) [unlimitedness](ānantyaṃ) [by-actions](karmaṇāṃ) [by-force](vaśāt)
+[action-organs](karmendriyāṇi) [therefore](ato) [of-these](naiṣām) [limitlessness](ānantyaṃ) [of-actions](karmaṇāṃ) [from-control](vaśāt)
 
 ## mukta-m0-p02-v37
-[specific](viśeṣa) [substratum](adhiṣṭhānāt) [thus](iti) [non-contradiction](avirodhaḥ)
+[from-special-abode](viśeṣādhiṣṭhānāt) [thus](iti) [non-contradiction](avirodhaḥ)
 
 ## mukta-m0-p02-v38
-[not](na) [and](ca) [single-instrument](ekakaraṇāḥ) [because](yasmāt) [dependence](apekṣā) [not](na) [ceases](nivartate)
+[not](na) [and-single-instrument](caikakaraṇā) [because](yasmāt) [dependence](apekṣā) [not](na) [ceases](nivartate)
 
 ## mukta-m0-p02-v39
-[is-seen](dṛśyate) [thus](iti) [meaning](bhāvaḥ)
+[is-seen-thus](dṛśyata) [iti](iti) [meaning](bhāvaḥ)
 
 ## mukta-m0-p02-v40
-[sound](śabda) [etc.](ādi) [perception](ālocanaṃ) [of-them](teṣāṃ) [function](vṛttiḥ) [in-sound](śabda) [etc.](ādi) [proximity](sannidhau)
+[sound-etc-perception](śabdādyālocanaṃ) [of-them](teṣāṃ) [function](vṛttiḥ) [in-sound-etc-presence](śabdādisannidhau)
 
 ## mukta-m0-p02-v41
-[to-be-seen](draṣṭavyā) [by-intellect](buddhyā) [determined](adhvavasitam) [object](arthaṃ) [person](puruṣaḥ) [cognizes](cetayate) [thus](iti)
+[to-be-seen](draṣṭavyā) [by-intellect](buddhyā) [ascertained-object](adhvavasitamarthaṃ) [puruṣa](puruṣaḥ) [experiences](cetayate) [thus](iti)
 
 ## mukta-m0-p02-v42
-[in-locations](sthāneṣu) [being-present](satsu) [due-to-defect](vaikalyāt) [not](na) [is-cognized](saṃvijjñāyate) [because](yataḥ)
+[in-places](sthāneṣu) [being](satsu) [from-defect](vaikalyāt) [not](na) [is-known](saṃvijjñāyate) [because](yataḥ)
 
 ## mukta-m0-p02-v43
-[in-its-establishment](tatsiddhau) [instruments](karaṇāni) [internal](antaḥ) [mind](manaḥ) [ego](ahaṅkāra) [intellect](buddhayaḥ)
+[that-establishment](tatsiddhau) [organs](karaṇāni) [inner](antar) [mind-ego-intellect](mano'haṅkārabuddhayaḥ)
 
 ## mukta-m0-p02-v44
 [will-be-elaborated](prapañcayiṣyate)
 
 ## mukta-m0-p02-v45
-[palanquin](śibikā) [carriers](udvāhi) [men](naravat) [by-one](eka) [loss](apāyena) [then](tātaḥ) [then](tataḥ)
+[like-palanquin-lifters](śibikodvāhinaravat) [by-one-fall](ekāpāyena) [they](tāḥ) [therefore](tataḥ)
 
 ## mukta-m0-p02-v46
-[external](bāhya) [object](arthaṃ) [with-intellects](buddhibhiḥ) [together](sārdhaṃ) [not](na) [would-be](syuḥ) [desire](icchā) [etc.](ādikāḥ) [activities](kriyāḥ)
+[external-object](bāhyārthaṃ) [with-intellects](buddhibhiḥ) [sārdhaṃ](sārdhaṃ) [not](na) [would-be](syuḥ) [desire-etc](icchādikāḥ) [actions](kriyāḥ)
 
 ## mukta-m0-p02-v47
-[without-efforts](prayatnaiḥ) [not](na) [without](vinā) [that](saḥ) [exists](asti) [in-its-establishment](tatsiddhau) [instrument](karaṇaṃ) [but](tu) [what](kim)
+[by-efforts](prayatnaiḥ) [not](na) [without](vinā) [that](saḥ) [is](asti) [that-establishment](tatsiddhau) [organ](karaṇaṃ) [but](tu) [what](kim)
 
 ## mukta-m0-p02-v48
-[exertion](saṃrambhaḥ) [of-ego](ahaṅkṛteḥ) [function](vṛttiḥ) [verse](ślo0) [33](33) [thus](iti)
+[excitement](saṃrambhaḥ) [of-ego](ahaṅkṛteḥ) [function](vṛttiḥ) [verse-33](ślo0) [33](33) [thus](iti)
 
 ## mukta-m0-p02-v49
-[manifest](vyaktaṃ) [not](na) [and](ca) [of-this](asya) [consciousness](caitanyaṃ) [because-of-airness](vāyutvāt) [like-external-air](bāhyavāyuvat)
+[manifest](vyaktaṃ) [not](na) [and](ca) [of-this](asya) [consciousness](caitanyaṃ) [from-air-ness](vāyutvāt) [like-external-air](bāhyavāyuvat)
 
 ## mukta-m0-p02-v50
-[consciousness](caitanyaṃ) [because-of-airness](vāyutvāt) [like-external-air](bāhyavāyuvat) [thus](iti)
+[consciousness](caitanyaṃ) [from-air-ness](vāyutvāt) [like-external-air](bāhyavāyuvat) [thus](iti)
