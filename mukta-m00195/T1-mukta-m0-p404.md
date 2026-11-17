@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p404-v10076
-[veda-vyāsa](vedavyāso) [sage](muni)+[meter](chandaḥ) [work](kṛtiḥ)+[ganges](gaṅgā) [and](ca) [deity](devatā)
+[veda-vyāsaḥ](vedavyāso) [muniḥ](muniś) [chandaḥ](chandaḥ) [kṛtiḥ](kṛtir) [gaṅgā](gaṅgā) [ca](ca) [devatā](devatā)
 
 ## mukta-m0-p404-v10077
-[all](nikhilaṃ) [as-before](pūrvavat) [let-do](kuryāt) [all-desires-giving](nikhilābhīṣṭadaḥ) [manu](manuḥ)
+[nikhilam](nikhilaṃ) [pūrva-vat](pūrvavat) [kuryāt](kuryān) [nikhila+abhīṣṭa+daḥ](nikhilābhīṣṭado) [manuḥ](manuḥ)
 
 ## mukta-m0-p404-v10078
-[oṃ](oṃ) [hrīṃ](hrīṃ) [śrīṃ](śrīṃ) [heart-goddess](hṛdbhagavati) [ganges](gaṅge) [beloved](dayite) [salutation](namaḥ)
+[oṃ hrīṃ śrīṃ hṛdbhagavati gaṅge ca dayite namaḥ](oṃ hrīṃ śrīṃ hṛdbhagavati gaṅge ca dayite namaḥ)
 
 ## mukta-m0-p404-v10079
-[three-two-ocean-arrow-five-color](tridvyabdhīṣudvidvivarṇaiḥ) [six-limb-rite](ṣaḍaṅgavidhiḥ) [declared](īritaḥ)
+[tri+dvi+abdhi+iṣu+dvi+dvi+varṇaiḥ](tridvyabdhīṣudvidvivarṇaiḥ) [ṣaḍ+aṅga+vidhiḥ](ṣaḍaṅgavidhir) [īritaḥ](īritaḥ)
 
 ## mukta-m0-p404-v10080
-[letter-lakh](varṇalakṣaṃ) [japa](japet) [homa](homaḥ) [as-before](prāgvat) [well-accepted-hand](sammatkarastvayam)
+[varṇa+lakṣam](varṇalakṣaṃ) [japet](japed) [homaḥ](dhomaḥ) [prāk-vat](prāgvats) [sammata+karaḥ](ammatkaras) [tu](tv) [ayam](ayam)
 
 ## mukta-m0-p404-v10081
-[hili-pair](hilidvandvaṃ) [mili-pair](milidvandvaṃ) [ganges](gaṅge) [goddess](devi) [salutation](namaḥ) [thus](tathā)
+[hili+dvandvam](hilidvandvaṃ) [mili+dvandvam](milidvandvaṃ) [gaṅge](gaṅge) [devi](devi) [namaḥ](namas) [tathā](tathā)
 
 ## mukta-m0-p404-v10082
-[three-two-two-eye-yuga-two-letter](tridvidvyakṣiyugadvyarṇaiḥ) [six-limb-rite](ṣaḍaṅgavidhiḥ) [declared](īritaḥ)
+[tri+dvi+dvi+akṣi+yuga+dvi+arṇaiḥ](tridvidvyakṣiyugadvyarṇaiḥ) [ṣaḍ+aṅga+vidhiḥ](ṣaḍaṅgavidhir) [īritaḥ](īritaḥ)
 
 ## mukta-m0-p404-v10083
-[to-narmadā](narmadāyai) [salutation](namaḥ) [iti](iti) [six-letter](ṣaḍarṇaḥ) [proclaimed](parikīrtitaḥ)
+[narmadāyai nama iti](narmadāyai nama iti) [ṣaḍ+arṇaḥ](ṣaḍarṇaḥ) [parikīrtitaḥ](parikīrtitaḥ)
 
 ## mukta-m0-p404-v10084
-[shining-hand](lasaddhastāṃ) [golden-radiance](svarṇakāntiṃ) [with-ornaments](sālaṅkārāṃ) [I-worship](bhajāmyaham)
+[p. 595)](p. 595)) [lasat+hastām](lasaddhastāṃ) [svarṇa+kāntim](svarṇakāntiṃ) [sa+alaṅkārām](sālaṅkārāṃ) [bhajāmi](bhajāmy) [aham](aham)
 
 ## mukta-m0-p404-v10085
-[six-limbs](ṣaḍaṅgāni) [mantra-letters](mantrārṇaiḥ) [japa](prajapet) [letter-count](varṇasaṅkhyayā)
+[ṣaḍ+aṅgāni](ṣaḍaṅgāni) [ekaikākṣarairhṛdayādinyāsāḥ yathā-nahṛdayāya namaḥ rmaśirase svāhā, dā śikhāyai vaṣaṭ ityādi ||]([ekaikākṣarairhṛdayādinyāsāḥ yathā-nahṛdayāya namaḥ rmaśirase svāhā, dā śikhāyai vaṣaṭ ityādi ||]) [ca](ca) [mantra+arṇaiḥ](mantrārṇaiḥ) [prajapet](prajaped) [varṇa+saṅkhyayā](varṇasaṅkhyayā)
 
 ## mukta-m0-p404-v10086
-[here](iha) [happiness](saukhyaṃ) [beyond-too](paratrāpi) [śiva-world](śivaloke) [exalted](mahīyate)
+[iha](iha) [saukhyam](saukhyaṃ) [paratra](paratrāpi) [api](paratrāpi) [śiva+loke](śivaloke) [mahīyate](mahīyate)
 
 ## mukta-m0-p404-v10087
-[sarasvatī-bank](sarasvatītaṭe) [japed](japtāḥ) [quickly](tvaritaṃ) [accomplishment-giving](siddhidāyakāḥ)
+[sarasvatī+taṭe](sarasvatītaṭe) [japtāḥ](japtās) [tvaritam](tvaritaṃ) [siddhi+dāyakāḥ](siddhidāyakāḥ)
 
 ## mukta-m0-p404-v10088
-[ganges-word](gaṅgāśabdasya) [before](pūrve) [they](te) [godā](godāyā) [mantras](manavaḥ) [remembered](smṛtāḥ)
+[gaṅgā+śabdasya](gaṅgāśabdasya) [pūrve](pūrve) [te](te) [godāyāḥ](godāyā) [manavaḥ](manavaḥ) [smṛtāḥ](smṛtāḥ)
 
 ## mukta-m0-p404-v10089
-[śrī-kṛṣṇa-play-river](śrīkṛṣṇakheladyunadi) [save-me](trāhi) [me](māṃ) [you](tvaṃ) [ocean-of-becoming](bhavārṇavāt)
+[śrī+kṛṣṇa+khela+dyu+nadi](śrīkṛṣṇakheladyunadi) [trāhi](trāhi) [mām](māṃ) [tvam](tvaṃ) [bhava+arṇavāt](bhavārṇavāt)
 
 ## mukta-m0-p404-v10090
-[meter-anuṣṭup](chandonuṣṭup) [six-limbs](ṣaḍaṅgāni) [half-half-sequence](pādārdhārdhakrameṇa) [and](ca)
+[chandaḥ](chandon) [anuṣṭup](uṣṭup) [ṣaḍ+aṅgāni](ṣaḍaṅgāni) [pāda+ardha+ardha+krameṇa](pādārdhārdhakrameṇa) [ca](ca)
 
 ## mukta-m0-p404-v10091
-[sesame-ghee](tilājyābhyāṃ) [offer](hunet) [mantrin](mantrī) [bhāskarī](bhāskariṃ) [not](naiva) [behold](vīkṣate)
+[tila+ājyābhyām](tilājyābhyāṃ) [hunet](hunen) [mantrī](mantrī) [bhāskarim](bhāskariṃ) [na](na) [eva](eva) [vīkṣate](vīkṣate)
 
 ## mukta-m0-p404-v10092
-[such-island-enclosed-such-substance-ocean](amukadvīpāvarakāmukadravyodadhe) [say](vadet)
+[amuka+dvīpa+āvaraka+amuka+dravya+udadhe](amukadvīpāvarakāmukadravyodadhe) [vadet](vadet)
 
 ## mukta-m0-p404-v10093
-[ocean-mantra](samudramantraḥ) [declared](uddiṣṭaḥ) [island-sage](sindhudvīpo) [muni-opinion](munirmataḥ)
+[samudra+mantraḥ](samudramantra) [uddiṣṭaḥ](uddiṣṭaḥ) [sindhu+dvīpaḥ](sindhudvīpo) [muniḥ](munir) [mataḥ](mataḥ)
 
 ## mukta-m0-p404-v10094
-[words-of-mantra](padairmanoḥ) [six-limbs](ṣaḍaṅgāni) [that-form](tattadrūpaṃ) [contemplate](vicintayet)
+[padaiḥ](padair) [manoḥ](manoḥ) [ṣaḍ+aṅgāni](ṣaḍaṅgāni) [tat+tat+rūpam](tattadrūpaṃ) [vicintayet](vicintayet)
 
 ## mukta-m0-p404-v10095
-[that-contained-object](tattadantargataṃ) [substance](vastu) [obtains](labhate) [sādhaka](sādhako) [certainly](dhruvam)
+[tat+tat+antargatam](tattadantargataṃ) [vastu](vastu) [labhate](labhate) [sādhakaḥ](sādhako) [dhruvam](dhruvam)
 
 ## mukta-m0-p404-v10096
-[tāra](tāraṃ) [yaṃ](yaṃ) [to-wind](vāyave) [life-lord](prāṇādhipataye) [pada](padaṃ) [say](vadet)
+[tāram](tāraṃ) [oṃ yaṃ vāyave prāṇādhipataye kṛṣṇavarṇāyāṃkuśahastāya mṛgavāhanāya namaḥ ||]([oṃ yaṃ vāyave prāṇādhipataye kṛṣṇavarṇāyāṃkuśahastāya mṛgavāhanāya namaḥ ||]) [yam](yaṃ) [vāyave](vāyave) [prāṇa+adhipataye](prāṇādhipataye) [padam](padaṃ) [vadet](vadet)
 
 ## mukta-m0-p404-v10097
-[ya](ya) [salutation](namo) [go-two-color](godvivarṇoyaṃ) [wind-mantra](vāyumantraḥ) [declared](udīritaḥ)
+[ya](ya) [namaḥ](namo) [go+dvi+varṇaḥ](godvivarṇoyaṃ) [ayam](godvivarṇoyaṃ) [vāyu+mantraḥ](vāyumantra) [udīritaḥ](udīritaḥ)
 
 ## mukta-m0-p404-v10098
-[five-limbs](pañcāṅgāni) [of-mantra](manorasya) [oṃ](oṃ) [yaṃ](yaṃ) [seed-etc](bījādikaiḥ) [words](padaiḥ)
+[pañca+aṅgāni](pañcāṅgāni) [manoḥ](manorasya) [asya](manorasya) [oṃ](oṃ) [yam](yaṃ) [bīja+ādikaiḥ](bījādikaiḥ) [padaiḥ](padaiḥ)
 
 ## mukta-m0-p404-v10099
-[noose-goad-hand-preta-act-surrounding](pāśāṃkuśakarampretakṛtyāparisarānvitam)
+[pāśa+aṅkuśa+karam](pāśāṃkuśakaramp) [preta+kṛtyā+parisara+anvitam](retakṛtyāparisarānvitam)
 
 ## mukta-m0-p404-v10100
-[accomplished-mantra](siddhamantraḥ) [then](tu) [that-time](tatkālam) [becomes](bhaved) [earth](bhūmau) [strength-greater](balādhikaḥ)
+[siddha+mantraḥ](siddhamantras) [tu](tu) [tat+kālam](tatkālamb) [bhavet](haved) [bhūmau](bhūmau) [bala+adhikaḥ](balādhikaḥ)
