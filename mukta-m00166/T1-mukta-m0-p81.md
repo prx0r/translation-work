@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p81-v2001
-[water](jala) [standing](sthā) [water-standing](jalasthā) [abiding-in-water](jalasthā)
+[water-standing](jalasthā)
 
 ## mukta-m0-p81-v2002
-[always](sadā) [nearness](sannidheḥ) [some](ko'pi) [feeling](bhāva) [power](anubhāvaḥ)
+[always-nearness](sadāsannidheḥ) [some](ko'pi) [feeling-power](bhāvānubhāvaḥ)
 
 ## mukta-m0-p81-v2003
-[water](jala) [deity](devatā) [water-deity](jaladevatā) [goddess-of-waters](jaladevatā)
+[water-deity](jaladevatā)
 
 ## mukta-m0-p81-v2004
-[lotus](kamalaṃ) [that](tad) [water-deity](jaladevatā) [grace](prasādaḥ) [lotus-grace](kamalaṃ)
+[lotus](kamalaṃ) [that-water-deity-grace](tajjaladevatāprasādaḥ)
 
 ## mukta-m0-p81-v2005
-[kuru](kuru) [field](kṣetra) [earth](avaniḥ) [kuru-field-earth](kurukṣetrāvaniḥ)
+[kurukshetra-earth](kurukṣetrāvaniḥ)
 
 ## mukta-m0-p81-v2006
-[of-kauravas](kauravāṇāṃ) [kuru-field-earth](kurukṣetrāvaniḥ) [from-fear](bhayāt) [protection](māmavatād)
+[of-kauravas](kauravāṇāṃ) [kurukshetra-earth](kurukṣetrāvaniḥ) [from-fear](bhayāt)
 
 ## mukta-m0-p81-v2007
-[kāśī](kāśī) [shining-city](kāśī) [holy-kāśī](kāśī) [luminous-place](kāśī)
+[kashi](kāśī)
 
 ## mukta-m0-p81-v2008
-[that](sā) [kāśī](kāśī) [shines](parikāśate) [my](mama) [heart-space](hṛdākāśe) [always](sadā) [unbroken](nirbhidā)
+[that](sā) [kashi](kāśī) [shines](parikāśate) [my](mama) [heart-sky](hṛdākāśe) [always](sadā) [unbroken](nirbhidā)
 
 ## mukta-m0-p81-v2009
-[mathurā](mathurā) [holy-mathurā](mathurā) [rasa-city](mathurā) [divine-mathurā](mathurā)
+[mathura](mathurā)
 
 ## mukta-m0-p81-v2010
-[firm](sthiraṃ) [rasa-glory](rasaśrīḥ) [mathurā](mathurā) [is](asti) [some](kāpi)
+[steady](sthiraṃ) [rasa-glory](rasaśrīḥ) [mathura](mathurā) [is](asti) [some](kāpi)
 
 ## mukta-m0-p81-v2011
-[kāñcī](kāñcī) [golden-city](kāñcī) [sacred-kāñcī](kāñcī) [prosperity-place](kāñcī)
+[kanchi](kāñcī)
 
 ## mukta-m0-p81-v2012
-[in-which](yasyāṃ) [golden](kāñcana) [golden-mountain-region](kāñcanādriviṣayāṃ) [kāñcī](kāñcī) [give](dadātu) [prosperity](śriyam)
+[in-which](yasyāṃ) [golden](kāñcana) [golden-mountain-region](kāñcanādriviṣayāṃ) [kanchi](kāñcī) [give](dadātu) [glory](śriyam)
 
 ## mukta-m0-p81-v2013
-[page](p.) [244](244) [avantikā](avantikā) [western-city](avantikā)
+[avantika](avantikā)
 
 ## mukta-m0-p81-v2014
-[which](kā) [sun-path-region](pūrbhāskarayānamadhyaviṣayā) [shines](saṃrājate) [avantikā](avantikā)
+[which](kā) [eastern-sun-chariot-middle-region](pūrbhāskarayānamadhyaviṣayā) [rules](saṃrājate) [avantika](avantikā)
 
 ## mukta-m0-p81-v2015
-[ayodhyā](ayodhyā) [unconquerable-city](ayodhyā) [holy-ayodhyā](ayodhyā) [divine-city](ayodhyā)
+[ayodhya](ayodhyā)
 
 ## mukta-m0-p81-v2016
-[ayodhyā](ryodhyā) [people](janāḥ) [is](sāsti) [and](ca) [some](kāpi) [ayodhyā](ayodhyā)
+[ayodhya](ayodhyā) [people](janāḥ) [is](sāsti) [some](kāpi) [ayodhya](ayodhyā)
 
 ## mukta-m0-p81-v2017
-[dvārakā](dvārakā) [gate-city](dvārakā) [holy-dvārakā](dvārakā) [divine-city](dvārakā)
+[dwarka](dvārakā)
 
 ## mukta-m0-p81-v2018
-[which](yā) [seen](dṛṣṭā) [or](vāpi) [hidden-like](gupteva) [becomes](bhavati) [mind](manasaḥ) [from-pulsation](spandanād) [dvārakā](dvārakā) [that](sā)
+[which](yā) [seen](dṛṣṭā) [or](vāpi) [hidden-like](gupteva) [becomes](bhavati) [of-mind](manasaḥ) [from-pulsation](spandanād) [dwarka](dvārakā) [that](sā)
 
 ## mukta-m0-p81-v2019
-[māyā](māyā) [illusion](māyā) [divine-māyā](māyā) [mystic-power](māyā)
+[maya](māyā)
 
 ## mukta-m0-p81-v2020
-[abandoning](hitvā) [become](bhavanti) [true-knowers](sadbodhā) [viṣṇu-māyā-lords](viṣṇumāyeśvarāḥ) [themselves](svayam)
+[abandoning](hitvā) [become](bhavanti) [true-knowers](sadbodhāḥ) [vishnu-maya-lords](viṣṇumāyeśvarāḥ) [themselves](svayam)
 
 ## mukta-m0-p81-v2021
-[tīrthā](tīrthā) [holy-ford](tīrthā) [sacred-tīrthā](tīrthā) [pilgrimage-place](tīrthā)
+[tirtha](tīrthā)
 
 ## mukta-m0-p81-v2022
-[of-tīrtha-people](ttīrthyānāṃ) [that](sā) [by-whom](kena) [tīrthā](tīrthā) [not](na) [tīrtha-person](tīrthyā)
+[of-tirthas](tīrthyānāṃ) [that](sā) [by-whom](kena) [tirtha](tīrthā) [not](na) [tirtha-goer](tīrthyā)
 
 ## mukta-m0-p81-v2023
-[tīrtha-maker](tīrthakara) [dear](priyā) [tīrthakara-dear](tīrthakarapriyā) [beloved-of-tīrthakaras](tīrthakarapriyā)
+[tirthakara-dear](tīrthakarapriyā)
 
 ## mukta-m0-p81-v2024
-[if-not](na ced) [beneficial](hitā) [tīrthakara-dear](tīrthakarapriyā) [would-be](syāt)
+[not](na) [if](ced) [beneficial](hitā) [tirthakara-dear](tīrthakarapriyā) [would-be](syāt)
 
 ## mukta-m0-p81-v2025
-[three](tri) [lotus](puṣkara) [three-lotus](tripuṣkarā) [triple-lotus-place](tripuṣkarā)
+[tripushkara](tripuṣkarā)

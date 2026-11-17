@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p378-v9426
-[he](sa) [goes](yāti) [supreme](paramāṃ) [accomplishment](siddhiṃ) [by-gods](devairapi) [even](api) [very-difficult](sudurlabhām)
+[he-goes](sa) [supreme](paramāṃ) [accomplishment](siddhiṃ) [by-gods-even](devairapi) [very-difficult](sudurlabhām)
 
 ## mukta-m0-p378-v9427
-[in-cremation-ground](śmaśāne'bhyarcayeddevīṃ) [should-worship-goddess](śmaśāne'bhyarcayeddevīṃ) [equality-with-speech-lord](vāgīśasamatāṃ) [may-attain](vrajet)
+[in-cremation-ground](śmaśāne) [worship-goddess](abhyarcayeddevīṃ) [speech-lord-equality](vāgīśasamatāṃ) [attain](vrajet)
 
 ## mukta-m0-p378-v9428
-[in-cremation-ground](śmaśāne'bhyarcayeddevīṃ) [should-worship-goddess](śmaśāne'bhyarcayeddevīṃ) [all](sarvāṃ) [accomplishment](siddhiṃ) [he](sa) [obtains](vindati)
+[in-cremation-ground](śmaśāne) [worship-goddess](abhyarcayeddevīṃ) [all](sarvāṃ) [accomplishment](siddhiṃ) [he](sa) [obtains](vindati)
 
 ## mukta-m0-p378-v9429
-[happy](sukhī) [may-be](syānnātra) [no-here](nātra) [doubt](sandeho) [great-time-word](mahākālavaco) [as](yathā)
+[happy](sukhī) [be](syāt) [no-doubt](nātra) [here](sandeho) [great-time-word](mahākālavaco) [as](yathā)
 
 ## mukta-m0-p378-v9430
-[red-sandal+anointed-limbed](raktacandanadigdhāṅgīṃ) [red-flowers+adorned](raktapuṣpairalaṅkṛtām)
+[red-sandal-anointed-limbed](raktacandanadigdhāṅgīṃ) [red-flowers-adorned](raktapuṣpairalaṅkṛtām)
 
 ## mukta-m0-p378-v9431
-[then-going](tato) [may-obtain](gatvāpnuyādrājyaṃ) [kingdom](rājyaṃ) [if](yadyasau) [not](na) [fears](bibheti) [indeed](vai)
+[then](tato) [going](gatvā) [obtain-kingdom](āpnuyādrājyaṃ) [if](yadi) [he](asau) [not](na) [fears](bibheti) [indeed](vai)
 
 ## mukta-m0-p378-v9432
-[repeatedly](asakṛttu) [should-chant](japenmantraṃ) [all-accomplishment-giving](sarvasiddhiprado) [mantra](mantra) [becomes](bhavet)
+[repeatedly](asakṛt) [chant](japenmantraṃ) [all-accomplishment-giving](sarvasiddhiprado) [mantra iti vā puruṣaḥ iti vā śiṣyate mantraśeṣapakṣe tasyetyarghyāhāryamiti gauravam 2 || tadanyatra neti jñeyam || ?](mantra iti vā puruṣaḥ iti vā śiṣyate mantraśeṣapakṣe tasyetyarghyāhāryamiti gauravam 2 || tadanyatra neti jñeyam || ?) [becomes](bhavet)
 
 ## mukta-m0-p378-v9433
-[thrice-thrice](tristrirmantrānudīryyaivaṃ) [mantras](mantrān) [having-uttered](udīryya) [thus](evaṃ) [all-accomplishment](sarvasiddhirbhavettataḥ) [becomes](bhavet) [then](tataḥ)
+[thrice](tris) [thrice](tris) [mantra](mantrān) [utter](udīryya) [thus](evaṃ) [all-accomplishment](sarvasiddhir) [becomes](bhavet) [then](tataḥ)
 
 ## mukta-m0-p378-v9434
-[with-semen](retobhiśca) [and](ca) [so](tathā) [likewise](tadvat) [with-own](svakīyena) [hair](kacena) [and](ca)
+[with-semen](retobhiś) [and](ca) [so](tathā) [likewise](tadvat) [own](svakīyena) [hair](kacena) [and](ca)
 
 ## mukta-m0-p378-v9435
-[with-mouse-cat-blood](mūṣamārjjāraraktena) [eloquence](vāgmitvaṃ) [his](tasya) [arises](jāyate)
+[mouse-cat-blood](mūṣamārjjāraraktena) [eloquence](vāgmitvaṃ) [his](tasya) [arises](jāyate)
 
 ## mukta-m0-p378-v9436
-[by-speech](vacasā) [he](sa) [becomes](bhavejjīvo) [living](jīvo) [by-wealth](dhanena) [and](ca) [wealth-lord](dhanādhipaḥ)
+[by-speech](vacasā) [he](sa) [becomes](bhavej) [alive](jīvo) [by-wealth](dhanena) [and](ca) [wealth-lord](dhanādhipaḥ)
 
 ## mukta-m0-p378-v9437
-[by-strength](balena) [wind](pavano) [elder](jyeṣṭhassarvatattvārthasādhakaḥ) [all-principles-meaning-accomplisher](sarvatattvārthasādhakaḥ)
+[by-strength](balena) [wind](pavano) [eldest](jyeṣṭhaḥ) [all-principle-meaning-accomplisher](sarvatattvārthasādhakaḥ)
 
 ## mukta-m0-p378-v9438
-[mouse-flesh](mūṣamāṃsaṃ) [sheep-flesh](meṣamāṃsaṃ) [goat](chāgaṃ) [buffalo](māhiṣameva) [also](eva) [and](ca)
+[mouse-flesh](mūṣamāṃsaṃ) [sheep-flesh](meṣamāṃsaṃ) [goat](chāgaṃ) [buffalo](māhiṣam) [indeed](eva) [and](ca)
 
 ## mukta-m0-p378-v9439
-[should-offer](nivedayecchamaśāne) [in-cremation-ground](śamaśāne) [that](tatsarvasiddhiprado) [all-accomplishment-giving](sarvasiddhiprado) [becomes](bhavet)
+[offer](nivedayet) [in-cremation-ground](śmaśāne) [that](tat) [all-accomplishment-giving](sarvasiddhiprado) [karmeti śeṣaḥ || ](karmeti śeṣaḥ || ) [becomes](bhavet)
 
 ## mukta-m0-p378-v9440
-[separately](pratyekaṃ) [should-chant](prajapenmantraṃ) [mantra](mantraṃ) [then](tatastaddhomayedbudhaḥ) [that](tad) [should-offer](homayed) [wise-one](budhaḥ)
+[each](pratyekaṃ) [chant](prajapenmantraṃ) [then](tataḥ) [that](tat) [offer-wise](dhomayedbudhaḥ)
 
 ## mukta-m0-p378-v9441
-[all-accomplishment](sarvasiddhirbhavettasya) [becomes](bhavet) [his](tasya) [eloquent](vāgmī) [steadfast](dhīrassa) [he](sa) [becomes](jāyate)
+[all-accomplishment](sarvasiddhir) [becomes](bhavet) [his](tasya) [eloquent](vāgmī) [wise](dhīraḥ) [arises](jāyate)
 
 ## mukta-m0-p378-v9442
-[yoni-form](yonirūpaṃ) [having-made](hi) [indeed](kṛtvā) [tu](tu) [pit](kuṇḍaṃ) [span-measured](vitastyaratnitaḥ)
+[yoni-form](yonirūpaṃ) [indeed](hi) [making](kṛtvā) [but](tu) [pit](kuṇḍaṃ) [span-jeweled](vitastyaratnitaḥ)
 
 ## mukta-m0-p378-v9443
-[there](tatra) [should-be-done](kāryyā) [indeed](hi) [with-mantra](mantreṇa) [fire-establishing](vahnisthāpanikāḥ) [acts](kriyāḥ)
+[there](tatra) [to-be-done](kāryyā) [indeed](hi) [by-mantra](mantreṇa) [fire-establishing](vahnisthāpanikāḥ) [rites](kriyāḥ)
 
 ## mukta-m0-p378-v9444
-[with-ladle](sruveṇājyena) [with-ghee](ājyena) [with-flesh](māṃsena) [with-rice](bhaktena) [with-blood](rudhireṇa) [and](ca)
+[with-ladle](sruveṇa) [ghee](ājyena) [flesh](māṃsena) [rice](bhaktena) [blood](rudhireṇa) [and](ca)
 
 ## mukta-m0-p378-v9445
-[with-meat-etc](āmiṣādibhirapyevaṃ) [also](api) [thus](evaṃ) [should-offer](juhuyācca) [and](ca) [in-cremation-ground](śmaśānake)
+[with-meat-etc](āmiṣādibhir) [also](api) [thus](evaṃ) [offer](juhuyāt) [and](ca) [in-cremation-ground](śmaśānake)
 
 ## mukta-m0-p378-v9446
-[by-day](divā) [all](sarvaṃ) [should-do](prakurvīta) [for-all-desires-wealth-accomplishment](sarvakāmārthasiddhaye)
+[by-day](divā) [all](sarvaṃ) [perform](prakurvīta) [for-all-desire-purpose-accomplishment](sarvakāmārthasiddhaye)
 
 ## mukta-m0-p378-v9447
-[should-do](prakurvīta) [with-effort](prayatnena) [for-all-desires-wealth-accomplishment](sarvakāmārthasiddhaye)
+[perform](prakurvīta) [with-effort](prayatnena) [for-all-desire-purpose-accomplishment](sarvakāmārthasiddhaye)
 
 ## mukta-m0-p378-v9448
-[of-shudras](śūdrāṇāṃ) [and](ca) [indeed](eva) [declared](saṃprokto) [at-night](rātrāveva) [only](eva) [rite](vidhirmayā) [by-me](mayā)
+[of-shudras](śūdrāṇāṃ) [and](ca) [indeed](eva) [declared](saṃprokto) [at-night](rātrāv) [indeed](eva) [rite](vidhiḥ) [by-me](mayā)
 
 ## mukta-m0-p378-v9449
-[in-three](tridhā) [dividing](vibhajya) [mantra-etc](mantrādyairyatnātsādhakasattamaḥ) [with-effort](yatnāt) [practitioner-best](sādhakasattamaḥ)
+[in-three](tridhā) [dividing](vibhajya) [mantra-etc](mantrādyaiḥ) [with-effort](yatnāt) [practitioner-best](sādhakasattamaḥ)
 
 ## mukta-m0-p378-v9450
-[ghee](ājyaṃ) [and](ceti) [with-effort](prayatnena) [should-be-offered](hotavyaṃ) [for-all-accomplishment](sarvasiddhaye)
+[ghee](ājyaṃ) [and-thus](ceti) [with-effort](prayatnena) [to-be-offered](hotavyaṃ) [for-all-accomplishment](sarvasiddhaye)

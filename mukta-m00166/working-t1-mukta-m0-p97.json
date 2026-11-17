@@ -24,7 +24,7 @@
 },
 {
 "surface": "bāṇapuṅkhānuvartinī",
-"quick_gloss": "arrow-feather-follower"
+"quick_gloss": "following-arrow-feather"
 }
 ]
 },
@@ -37,7 +37,7 @@
 "tokens": [
 {
 "surface": "lakṣyaprāptiḥ",
-"quick_gloss": "target-attainment"
+"quick_gloss": "target+attainment"
 }
 ]
 },
@@ -50,7 +50,7 @@
 "tokens": [
 {
 "surface": "lakṣyakṛtvo",
-"quick_gloss": "target-maker"
+"quick_gloss": "target-making"
 },
 {
 "surface": "jayatyeṣā",
@@ -58,7 +58,7 @@
 },
 {
 "surface": "lakṣyaprāptiḥ",
-"quick_gloss": "target-attainment"
+"quick_gloss": "target+attainment"
 },
 {
 "surface": "sulakṣaṇā",
@@ -85,7 +85,16 @@
 "verse": 2405,
 "quick_english": "",
 "quick_english_source": "t1parse",
-"tokens": []
+"tokens": [
+{
+"surface": "kālakākakilelālā",
+"quick_gloss": "time-crow-cry-etc"
+},
+{
+"surface": "kāle kalau kalākalā",
+"quick_gloss": "in-time-in-kali-art-art"
+}
+]
 },
 {
 "verse_id": "mukta-m0-p97-v2406",
@@ -138,12 +147,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "lakṣyabhūtāpi",
-"quick_gloss": "target-become-even-one"
-},
-{
-"surface": "saikaiva",
-"quick_gloss": "alone"
+"surface": "lakṣyabhūtāpi saikaiva",
+"quick_gloss": "target-become-one-only"
 },
 {
 "surface": "lakṣyā",
@@ -151,7 +156,7 @@
 },
 {
 "surface": "sarvavilakṣaṇā",
-"quick_gloss": "all-distinguished"
+"quick_gloss": "all-distinct"
 }
 ]
 },
@@ -177,15 +182,11 @@
 "tokens": [
 {
 "surface": "anekakalpasaṃkalpo",
-"quick_gloss": "many-kalpa-intention"
+"quick_gloss": "many-intention"
 },
 {
-"surface": "dhanyasyāsya",
-"quick_gloss": "fortunate-one's"
-},
-{
-"surface": "kṣaṇāyate",
-"quick_gloss": "moment-becomes"
+"surface": "dhanyasyāsya kṣaṇāyate",
+"quick_gloss": "fortunate-moment"
 }
 ]
 },
@@ -252,11 +253,7 @@
 "quick_gloss": "that-path"
 },
 {
-"surface": "na",
-"quick_gloss": "not"
-},
-{
-"surface": "kathaṃ",
+"surface": "na kathaṃ",
 "quick_gloss": "how"
 },
 {
@@ -264,12 +261,8 @@
 "quick_gloss": "all"
 },
 {
-"surface": "gaccheyurnārthitā",
-"quick_gloss": "would-go"
-},
-{
-"surface": "api",
-"quick_gloss": "even"
+"surface": "gaccheyurnārthitā api",
+"quick_gloss": "go"
 }
 ]
 },
@@ -295,7 +288,7 @@
 "tokens": [
 {
 "surface": "yā",
-"quick_gloss": "who"
+"quick_gloss": "that"
 },
 {
 "surface": "tiṣṭhati",
@@ -314,16 +307,12 @@
 "quick_gloss": "moat"
 },
 {
-"surface": "sā",
-"quick_gloss": "that"
-},
-{
-"surface": "smṛtā",
+"surface": "sā smṛtā",
 "quick_gloss": "remembered"
 },
 {
 "surface": "budhaiḥ",
-"quick_gloss": "by-wise"
+"quick_gloss": "wise"
 }
 ]
 },
@@ -353,7 +342,7 @@
 },
 {
 "surface": "jīyāt",
-"quick_gloss": "may-conquer"
+"quick_gloss": "conquer"
 },
 {
 "surface": "khaniriyaṃ",
@@ -374,7 +363,7 @@
 "tokens": [
 {
 "surface": "vṛtiḥ",
-"quick_gloss": "enclosure"
+"quick_gloss": "fence"
 }
 ]
 },
@@ -387,7 +376,7 @@
 "tokens": [
 {
 "surface": "agāḥ",
-"quick_gloss": "houses"
+"quick_gloss": "cows"
 },
 {
 "surface": "puṣṭāḥ",
@@ -403,11 +392,11 @@
 },
 {
 "surface": "syādrakṣākarī",
-"quick_gloss": "would-be-protector"
+"quick_gloss": "would-be"
 },
 {
 "surface": "vṛtiḥ",
-"quick_gloss": "enclosure"
+"quick_gloss": "fence"
 }
 ]
 },
@@ -445,11 +434,11 @@
 },
 {
 "surface": "dayayā",
-"quick_gloss": "by-compassion"
+"quick_gloss": "compassion"
 },
 {
 "surface": "svayā",
-"quick_gloss": "by-own"
+"quick_gloss": "own"
 }
 ]
 },
@@ -472,6 +461,11 @@
 "verse": 2425,
 "quick_english": "",
 "quick_english_source": "t1parse",
-"tokens": []
+"tokens": [
+{
+"surface": "ratā ratātāratārasālatālalatālasā",
+"quick_gloss": "delighted-delighted-liberated-etc"
+}
+]
 }
 ]

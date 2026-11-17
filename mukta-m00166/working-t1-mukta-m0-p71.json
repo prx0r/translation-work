@@ -16,11 +16,7 @@
 },
 {
 "surface": "vibhāvinī",
-"quick_gloss": "manifesting"
-},
-{
-"surface": "ī",
-"quick_gloss": "feminine"
+"quick_gloss": "discerning"
 }
 ]
 },
@@ -32,6 +28,10 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
+"surface": "ato",
+"quick_gloss": "therefore"
+},
+{
 "surface": "anyaḥ",
 "quick_gloss": "other"
 },
@@ -41,7 +41,7 @@
 },
 {
 "surface": "sadādyantaḥ",
-"quick_gloss": "beginning-end"
+"quick_gloss": "always-beginning-end"
 },
 {
 "surface": "tvāṃ",
@@ -132,8 +132,12 @@
 "quick_gloss": "if"
 },
 {
-"surface": "nābhaviṣyaḥ",
-"quick_gloss": "not-become"
+"surface": "na",
+"quick_gloss": "not"
+},
+{
+"surface": "abhaviṣyaḥ",
+"quick_gloss": "would-be"
 }
 ]
 },
@@ -150,7 +154,7 @@
 },
 {
 "surface": "prabodhikā",
-"quick_gloss": "awakening"
+"quick_gloss": "awakener"
 }
 ]
 },
@@ -196,7 +200,7 @@
 "tokens": [
 {
 "surface": "dakṣiṇā",
-"quick_gloss": "southern"
+"quick_gloss": "right-generous"
 }
 ]
 },
@@ -216,12 +220,16 @@
 "quick_gloss": "thence"
 },
 {
-"surface": "tata-prajñaiḥ",
+"surface": "tat",
+"quick_gloss": "that"
+},
+{
+"surface": "prajñaiḥ",
 "quick_gloss": "wise"
 },
 {
 "surface": "dakṣiṇā",
-"quick_gloss": "southern"
+"quick_gloss": "right-generous"
 },
 {
 "surface": "iti",
@@ -229,7 +237,7 @@
 },
 {
 "surface": "prakīrtyase",
-"quick_gloss": "proclaimed"
+"quick_gloss": "you-are-praised"
 }
 ]
 },
@@ -242,7 +250,7 @@
 "tokens": [
 {
 "surface": "dakṣiṇāmūrtiḥ",
-"quick_gloss": "southern-form"
+"quick_gloss": "right-generous-form"
 }
 ]
 },
@@ -259,7 +267,7 @@
 },
 {
 "surface": "dakṣiṇāmūrtiḥ",
-"quick_gloss": "southern-form"
+"quick_gloss": "right-generous-form"
 },
 {
 "surface": "iti",
@@ -280,7 +288,7 @@
 "tokens": [
 {
 "surface": "sudakṣiṇā",
-"quick_gloss": "very-southern"
+"quick_gloss": "very-right-generous"
 }
 ]
 },
@@ -305,7 +313,7 @@
 },
 {
 "surface": "sudakṣiṇā",
-"quick_gloss": "very-southern"
+"quick_gloss": "very-right-generous"
 },
 {
 "surface": "asi",
@@ -339,7 +347,7 @@
 },
 {
 "surface": "yaddayayā",
-"quick_gloss": "by-mercy"
+"quick_gloss": "by-whose-compassion"
 },
 {
 "surface": "devī",
@@ -347,7 +355,7 @@
 },
 {
 "surface": "kīrtitā",
-"quick_gloss": "called"
+"quick_gloss": "praised"
 },
 {
 "surface": "sā",
@@ -380,8 +388,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "rogaśokavinivartitāśayā",
+"surface": "rogaśokavinivartitā",
 "quick_gloss": "disease-sorrow-removed"
+},
+{
+"surface": "āśayā",
+"quick_gloss": "mind"
 },
 {
 "surface": "yoginī",
@@ -393,7 +405,7 @@
 },
 {
 "surface": "astu",
-"quick_gloss": "let-be"
+"quick_gloss": "may-she-be"
 },
 {
 "surface": "sā",
@@ -422,20 +434,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "cidānanda",
-"quick_gloss": "consciousness-bliss"
-},
-{
-"surface": "eva",
-"quick_gloss": "indeed"
+"surface": "cidānandaiva",
+"quick_gloss": "consciousness-bliss-only"
 },
 {
 "surface": "yat",
-"quick_gloss": "which"
+"quick_gloss": "because"
 },
 {
 "surface": "nityaṃ",
-"quick_gloss": "always"
+"quick_gloss": "eternally"
 },
 {
 "surface": "yogayuktā",
@@ -443,11 +451,11 @@
 },
 {
 "surface": "tataḥ",
-"quick_gloss": "then"
+"quick_gloss": "therefore"
 },
 {
 "surface": "svataḥ",
-"quick_gloss": "by-self"
+"quick_gloss": "by-herself"
 }
 ]
 },
@@ -493,7 +501,7 @@
 },
 {
 "surface": "kīrtitā",
-"quick_gloss": "called"
+"quick_gloss": "praised"
 },
 {
 "surface": "yogināthaiḥ",
@@ -523,7 +531,11 @@
 "tokens": [
 {
 "surface": "sarvadhyeyā",
-"quick_gloss": "all-meditatable"
+"quick_gloss": "all-meditation-worthy"
+},
+{
+"surface": "api",
+"quick_gloss": "although"
 },
 {
 "surface": "sarvā",

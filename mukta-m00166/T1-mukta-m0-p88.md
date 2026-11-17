@@ -2,43 +2,43 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p88-v2176
-[eldest](jyeṣṭhā) [vasiṣṭhā-is](vasiṣṭhāsti) [always](sadāpi) [she-herself](saiva)
+[eldest](jyeṣṭhā) [vasiṣṭha-is](vasiṣṭhāsti) [always](sadāpi) [that-very](saiva)
 
 ## mukta-m0-p88-v2177
 [best](śreṣṭhā)
 
 ## mukta-m0-p88-v2178
-[best](śreṣṭhāstu) [our](naḥ) [wish-maker](sveṣṭakarī) [most-exalted](sthaviṣṭhā)
+[best](śreṣṭhāstu) [to-us](naḥ) [wish-doer](sveṣṭakarī) [most-excellent](sthaviṣṭhā)
 
 ## mukta-m0-p88-v2179
 [pātāla-dweller](pātālavāsinī)
 
 ## mukta-m0-p88-v2180
-[all-highest](sarvoccaiḥ) [what](kiṃ) [of-strength](balerbhūtā) [for-satisfaction](tuṣṭyai) [pātāla-dweller](pātālavāsinī)
+[by-all-highest](sarvoccaiḥ) [what](kiṃ) [of-strength](balerbhūtā) [for-satisfaction](tuṣṭyai) [pātāla-dweller](pātālavāsinī)
 
 ## mukta-m0-p88-v2181
 [inquiry](mīmāṃsā)
 
 ## mukta-m0-p88-v2182
-[inquiry](mīmāṃsaiṣā) [wise-work](manīṣiprakaraṇaraṇitaṃ) [speech-play](vāgvilāsaṃ) [may-give](dadātu)
+[this-inquiry](mīmāṃsaiṣā) [wise-expounders](manīṣiprakaraṇaraṇitaṃ) [speech-play](vāgvilāsaṃ) [may-give](dadātu)
 
 ## mukta-m0-p88-v2183
-[logic-science](tarkavidyā)
+[logic-knowledge](tarkavidyā)
 
 ## mukta-m0-p88-v2184
-[that](sā) [logic-science](tarkavidyā) [known-blameless](viditānavadyā)
+[that](sā) [logic-knowledge](tarkavidyā) [known-blameless](viditānavadyā)
 
 ## mukta-m0-p88-v2185
-[good-devotion](subhaktiḥ)
+[page-261](p.) [261)](261)) [good-devotion](subhaktiḥ)
 
 ## mukta-m0-p88-v2186
-[remembered](smṛtā) [not](na) [until](yāvat) [wise](sudhiyā) [good-devotion](subhaktiḥ)
+[remembered](smṛtā) [not](na) [until](yāvat) [wise-ones](sudhiyā) [good-devotion](subhaktiḥ)
 
 ## mukta-m0-p88-v2187
 [devotee-loving](bhaktavatsalā)
 
 ## mukta-m0-p88-v2188
-[reveres](añcate) [deceit-free](vañcanāhīnaḥ) [she](sā) [clearly](vyaktaṃ) [devotee-loving](bhaktavatsalā)
+[bows](añcate) [deceit-free](vañcanāhīnaḥ) [she](sā) [clearly](vyaktaṃ) [devotee-loving](bhaktavatsalā)
 
 ## mukta-m0-p88-v2189
 [good-navel](sunābhiḥ)
@@ -50,10 +50,10 @@
 [torment](yātanā)
 
 ## mukta-m0-p88-v2192
-[in-me](mayyastu) [māyā](māyātatkāryadāridryeṇaiva) [śāṅkarī](śāṅkarī)
+[in-me](mayyastu) [illusion](māyātatkāryadāridryeṇaiva) [śāṅkarī](śāṅkarī)
 
 ## mukta-m0-p88-v2193
-[species](jātiḥ)
+[birth](jātiḥ)
 
 ## mukta-m0-p88-v2194
 [not](na) [if](cejjātirbhavet) [some](kācidekānekatvabodhinī)
@@ -65,10 +65,10 @@
 [deep](rgambhīrā) [may-be](syāt) [self-luminous](svaprakāśā) [hopeless](nirāśā)
 
 ## mukta-m0-p88-v2197
-[being-devoid](bhāvavarjitā)
+[devoid-of-bhāva](bhāvavarjitā)
 
 ## mukta-m0-p88-v2198
-[being-formed](bhāvarūpāpyaho) [being-devoid](bhāvavarjitā) [she](sā) [by-nature](svabhāvataḥ)
+[bhāva-formed](bhāvarūpāpyaho) [devoid-of-bhāva](bhāvavarjitā) [she](sā) [by-nature](svabhāvataḥ)
 
 ## mukta-m0-p88-v2199
 [serpent-noose-bearer](nāgapāśadharā) [form](mūrtiḥ)
