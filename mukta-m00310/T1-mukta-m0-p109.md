@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p109-v2701
-[mantra+vidyā+nirūpaṇam](mantravidyānirūpaṇam) [eka+pañcāśattamaḥ](ekapañcāśattamaḥ) [paṭalaḥ](paṭalaḥ)
+[mantra](mantra)+[science](vidyā)+[description](nirūpaṇam) [fifty-first](ekapañcāśattamaḥ) [chapter](paṭalaḥ)
 
 ## mukta-m0-p109-v2702
-[yena](yena) [sādhana+mātreṇa](sādhanamātreṇa) [mantraḥ](mantraḥ) [siddhim](siddhim) [upaiṣyati](upaiṣyati)
+[by-which](yena) [accomplishment](sādhanam)+[mere](mātreṇa) [mantra](mantraḥ) [attainment](siddhim)+[will-reach](upaiṣyati)
 
 ## mukta-m0-p109-v2703
-[vinā](vinā) [sañjīvanena](sañjīvanenāpi) [api](api) [saṃpuṭena](saṃpuṭena) [vinā](vinā) [śive](śive)
+[without](vinā) [revival](sañjīvanena)+[even](api) [with-conjunction](saṃpuṭena) [without](vinā) [O-Śiva](śive)
 
 ## mukta-m0-p109-v2704
-[manuḥ](manur) [utkīlana+ākhyaḥ](utkīlanākhyo') [ayam](ayaṃ) [sarva+siddhi+pradaḥ](sarvasiddhipradaḥ) [śive](śive)
+[mantra](manuḥ)+[uprooting](utkīlana)+[named](ākhyaḥ)+[this](ayaṃ) [all](sarva)+[accomplishment](siddhi)+[giving](pradaḥ) [O-Śiva](śive)
 
 ## mukta-m0-p109-v2705
-[tat+agre](tadagre) [nāma](nāma) [vinyasya](vinyasya) [tāram](tāram) [āye](āye) [tat+agrataḥ](tadagrataḥ)
+[there](tad)+[before](agre) [name](nāma) [placing](vinyasya) [tāra](tāra)+[māyā](māye) [there](tad)+[before](agrataḥ)
 
 ## mukta-m0-p109-v2706
-[tataḥ](tataḥ) [siddha+manum](siddhamanuṃ) [devi](devi) [japet](japen) [māntrika+sattamaḥ](māntrikasattamaḥ)
+[then](tataḥ) [accomplished](siddha)+[mantra](manuṃ) [goddess](devi) [should-chant](japet) [mantra-practitioner-best](māntrikasattamaḥ)
 
 ## mukta-m0-p109-v2707
-[tāram](tāraṃ) [parām](parāṃ) [cakri+bījam](cakribījaṃ) [viśvam](viśvam) [ante](ante') [abhidhām](abhidhaṃ) [nyaset](nyaset)
+[tāra](tāraṃ) [supreme](parāṃ) [cakra-seed](cakribījaṃ) [universe](viśvam)+[end](ante)+[named](abhidhaṃ) [should-place](nyaset)
 
 ## mukta-m0-p109-v2708
-[evam](evaṃ) [saṃskṛtam](saṃskṛtam) [īśāni](īśāni) [manum](manuṃ) [devyāḥ](devyā) [japet](japet) [sadā](sadā)
+[thus](evaṃ) [consecrated](saṃskṛtam) [O-īśānī](īśāni) [mantra](manuṃ) [goddess](devyā) [should-chant](japet) [always](sadā)
 
 ## mukta-m0-p109-v2709
-[guhya+ati+guhya+guptam](guhyātiguhyaguptaṃ) [ca](ca) [goptavyam](goptavyaṃ) [sādhaka+uttamaiḥ](sādhakottamaiḥ)
+[secret](guhyāt)+[more-secret](iguhyaguptaṃ) [and](ca) [to-be-guarded](goptavyaṃ) [by-best-practitioners](sādhakottamaiḥ)
 
 ## mukta-m0-p109-v2710
-[dvi+pañcāśattamaḥ](dvipañcāśattamaḥ) [paṭalaḥ](paṭalaḥ)
+[fifty-second](dvipañcāśattamaḥ) [chapter](paṭalaḥ)
 
 ## mukta-m0-p109-v2711
-[sarva+vidyā+mayīm](sarvavidyāmayīṃ) [sādhyām](sādhyāṃ) [sarva+tantreṣu](sarvatantreṣu) [gopitām](gopitām)
+[all](sarva)+[science](vidyā)+[consisting](mayīṃ) [to-be-accomplished](sādhyāṃ) [in-all-tantras](sarvatantreṣu) [hidden](gopitām)
 
 ## mukta-m0-p109-v2712
-[janma+koṭiṣu](janmakoṭiṣu) [japtaḥ](japto') [api](api) [na](naṃ) [manuḥ](manuḥ) [siddhi+bhāk](siddhibhāg) [bhavet](bhavet)
+[births](janma)+[crores](koṭiṣu) [chanted](japto)+[even](api) [not](naṃ) [mantra](manuḥ) [accomplishment-having](siddhibhāg)+[becomes](bhavet)
 
 ## mukta-m0-p109-v2713
-[tena](tena) [vidyā](vidyā) [mahā+devi](mahādevi) [kalau](kalau) [siddhyati](siddhyati) [satvaram](satvaram)
+[by-that](tena) [science](vidyā) [great-goddess](mahādevi) [in-Kali](kalau) [accomplishes](siddhyati) [quickly](satvaram)
 
 ## mukta-m0-p109-v2714
-[kāmeśvaraḥ](kāmeśvaras) [tri+kūṭāyāḥ](trikūṭāyāḥ) [śivaḥ](śiva) [iti](iti) [evam](evam) [īśvari](īśvari)
+[Kāmeśvara](kāmeśvaraḥ)+[of-trikūṭā](trikūṭāyāḥ) [Śiva](śivaḥ) [thus](ity)+[O-goddess](evamīśvari)
 
 ## mukta-m0-p109-v2715
-[śrī+bhairavaḥ](śrībhairavaḥ) [kāla+rātryāḥ](kālarātryāḥ) [śivaḥ](śiva) [iti](iti) [evam](evam) [īśvari](īśvari)
+[Śrī-Bhairava](śrībhairavaḥ)+[of-Kālarātrī](kālarātryāḥ) [Śiva](śivaḥ) [thus](ity)+[O-goddess](evamīśvari)
 
 ## mukta-m0-p109-v2716
-[īśvaraḥ](īśvaro) [bhuvaneśvaryāḥ](bhuvaneśvaryyāḥ) [śivaḥ](śiva) [iti](iti) [evam](evam) [īśvari](īśvari)
+[Īśvara](īśvaraḥ)+[of-Bhuvaneśvarī](bhuvaneśvaryyāḥ) [Śiva](śivaḥ) [thus](ity)+[O-goddess](evamīśvari)
 
 ## mukta-m0-p109-v2717
-[bhīḍāyāḥ](bhīḍāyās) [tu](tu) [virūpākṣaḥ](virūpākṣaḥ) [śivaḥ](śiva) [iti](iti) [evam](evam) [īśvari](īśvari)
+[of-Bhīḍā](bhīḍāyāḥ)+[tu](tu) [Virūpākṣa](virūpākṣaḥ) [Śiva](śivaḥ) [thus](ity)+[O-goddess](evamīśvari)
 
 ## mukta-m0-p109-v2718
-[śilāyāḥ](śilāyā) [vāma+devaḥ](vāmadevas) [tu](tu) [śivaḥ](śivaḥ) [proktaḥ](proktaḥ) [sura+īśvari](sureśvari)
+[of-Śilā](śilāyāḥ) [Vāmadeva](vāmadevaḥ)+[tu](tu) [Śiva](śivaḥ) [said](proktaḥ) [O-goddess-of-gods](sureśvari)
 
 ## mukta-m0-p109-v2719
-[adya](adya) [durgā+śivasya](durgāśivasyādau) [ādau](ādau) [vakṣye](vakṣye) [mūla+manum](mūlamanuṃ) [param](param)
+[today](adya) [Durgā-Śiva](durgāśivasya)+[at-beginning](ādau) [will-speak](vakṣye) [root-mantra](mūlamanuṃ) [supreme](param)
 
 ## mukta-m0-p109-v2720
-[śrī+nīlakaṇṭha+mantrasya](śrīnīlakaṇṭhamantrasya) [dakṣiṇā+mūrtiḥ](dakṣiṇāmūrtir) [īśvaraḥ](īśvaraḥ)
+[Śrī-Nīlakaṇṭha-mantra](śrīnīlakaṇṭhamantrasya) [Dakṣiṇāmūrti](dakṣiṇāmūrtiḥ)+[Īśvara](īśvaraḥ)
 
 ## mukta-m0-p109-v2721
-[durgā+īśvaraḥ](durgeśvaro) [nīla+kaṇṭhaḥ](nīlakaṇṭho) [devatā](devatā) [kathitaḥ](kathito) [mayā](mayā)
+[Durgeśvara](durgesvaraḥ) [Nīlakaṇṭha](nīlakaṇṭhaḥ) [deity](devatā) [told](kathito) [by-me](mayā)
 
 ## mukta-m0-p109-v2722
-[kīlakam](kīlakaṃ) [viśvam](viśvam) [ākhyātam](ākhyātaṃ) [niyogaḥ](niyogo) [manu+siddhaye](manusiddhaye)
+[pin](kīlakaṃ) [universe](viśvam)+[named](ākhyātaṃ) [rule](niyogaḥ) [for-mantra-accomplishment](manusiddhaye)
 
 ## mukta-m0-p109-v2723
-[dhyānam](dhyānam) [asya](asya) [śivasya](śivasyādya) [adya](adya) [śrutvā](śrutvā) [gupta+tamam](guptatamaṃ) [kuru](kuru)
+[meditation](dhyānam)+[of-this](asya) [Śiva](śivasya)+[today](ādya) [having-heard](śrutvā) [most-secret](guptatamaṃ) [do](kuru)
 
 ## mukta-m0-p109-v2724
-[śritam](śritam) [āśrayāmi](āśrayāmi)
+[refuge](śritam)+[I-take-refuge](āśrayāmi)
 
 ## mukta-m0-p109-v2725
-[durgā+rahasya+bhūtam](durgārahasyabhūtaṃ) [ca](ca) [śṛṇu](śṛṇu) [pārvati](pārvati) [satvaram](satvaram)
+[Durgā-secret](durgārahasya)+[become](bhūtaṃ) [and](ca) [hear](śṛṇu) [Pārvatī](pārvati) [quickly](satvaram)

@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p190-v4726
-on-the-crest(śikhāyāṃ) sword+placement(khaḍga+vinyāsaṃ) on-the-forehead(lalāṭe) jaga(jagavam) indeed(eva) and(ca)
+[crest-loc](śikhāyāṃ) [sword-placement](khaḍgavinyāsaṃ) [forehead-loc](lalāṭe) [world-even](jagavameva) [and](ca)
 
 ## mukta-m0-p190-v4727
-laga(lagaṃ) and(ca) mace(musalaṃ) and(ca) indeed(eva) outside(bāhi) thus(iti) one-by-one(eka+uda+anantaram)
+[thigh](lagaṃ) [pestle](musalaṃ) [external-then-one-after](bāhyetyekodanantaram)
 
 ## mukta-m0-p190-v4728
-with-obeisance(namaskāreṇa) with-mantra(mantreṇa) navel(nābhī) belly(jaṭhara) on-the-backs(pṛṣṭhayoḥ)
+[salutation-mantra](namaskāreṇa) [mantra](mantreṇa) [navel](nābhī) [belly](jaṭhara) [back](pṛṣṭhayoḥ)
 
 ## mukta-m0-p190-v4729
-guru(guruṃ) conch(śaṃkhaṃ) and(ca) śi(śi) *(* ) *(* ) *(* ) *(* ) *(* ) *(* ) *(* ) *(* ) *(* )
+[teacher](guruṃ) [conch](śaṃkhaṃ) [and](ca) [śi](śi)
 
 ## mukta-m0-p190-v4730
-preceded-by-oṃ(tāra+pūrvaṃ) śvaṃ(śvaṃ) ḍhaṃ(ḍhaṃ) pāṣaṃ(pāṣaṃ) to-the-mace(gadāyai) and(ca) with-the-namaḥ-syllable(namaḥ+aṇunā)
+[tāra-first](tārapūrvaṃ) [śvaṃ](śvaṃ) [ḍhaṃ](ḍhaṃ) [noose](pāṣaṃ) [mace-dat](gadāyai) [and](ca) [namoṇunā](namoṇunā)
 
 ## mukta-m0-p190-v4731
-*(* ) *(* ) *(* ) *(* ) *(* ) *(* ) *(* ) *(* ) *(* ) *(* ) on-the-feet(pādeṣu) one-should-place(nikṣipet)
+[feet-loc](pādeṣu) [place](nikṣipet)
 
 ## mukta-m0-p190-v4732
-Viṣṇu(viṣṇuṃ) and(ca) on-the-spine(pṛṣṭha+vaṃśe) but(tu) likewise(tathā) evaṃ(evaṃ) Madhusūdana(madhusūdanam)
+[viṣṇu](viṣṇuṃ) [and](ca) [spine-loc](pṛṣṭhavaṃśe) [thus](tu) [madhusūdana](tathavaṃ) [madhusūdanam](madhusūdanam)
 
 ## mukta-m0-p190-v4733
-Śrīdhara(śrīdharaṃ) on-the-shanks(jaṃghanaiḥ) and(ca) indeed(eva) Hṛṣīkeśa(hṛṣīkeśam) thereafter(anantaram)
+[śrīdhara](śrīdharaṃ) [calves-and](jaṃghanaiñcaiva) [hṛṣīkeśa](hṛṣīkeśamanantaram)
 
 ## mukta-m0-p190-v4734
-*(* ) *(* ) *(* ) *(* ) *(* ) with-kṣā-mantras(kṣā+mantraiḥ) beginning-with-protection(akṣaṇa+ādi) by-own-name(sva+saṃjñayā)
+[kṣa-mantras](kṣāmantrairakṣaṇādi) [own-name](svasaṃjñayā)
 
 ## mukta-m0-p190-v4735
-ending-with-namaḥ(namaḥ+antaram) with-heart-etc.(hṛdaya+ādyaiḥ) and(ca) oṃ-hrīm-etc.(oṃ hrīm+iti+ādikāḥ) likewise(tathā)
+[nama-between](namontaraṃ) [heart-etc](hṛdayādyaiśca) [oṃ-hrīm-etc](oṃ) [hrīmityādikāstathā](hrīmityādikāstathā)
 
 ## mukta-m0-p190-v4736
-head+designating(śiraḥ+abhidhāyi) mantra(tomantra) with-the-well-known(prasiddhaiḥ) O-Nandikeśvara(nandikeśvara)
+[head-called-mantra](śiro'bhidhāyitomantra) [famous](prasiddhairnandikeśvara)
 
 ## mukta-m0-p190-v4737
-crest(śikhāṃ) in-the-order-of-armor(varma+kramāt) weapon(astram) oṃ-cakra(oṃ cakra) ending-with-recitation(iti paṭhantikam)
+[crest](śikhāṃ) [armor-sequence](varmakramādastramoṃ) [cakrīti](cakrīti) [recite](paṭhantikam)
 
 ## mukta-m0-p190-v4738
-Gāyatrī(gāyatrīṃ) and(ca) also(api) Sāvitrī(sāvitrīṃ) beginning-with-praṇava(praṇava+ādi) ending-with-namaḥ(namaḥ+antakam)
+[gāyatrī](gāyatrīṃ) [and](cāpi) [sāvitrī](sāvitrīṃ) [praṇava-etc](praṇavādi) [nama-end](namo'ntakam)
 
 ## mukta-m0-p190-v4739
-seven-syllabled(sapta+arṇaṃ) called-piṇḍa(piṇḍam+ākhyaṃ) and(ca) mantra(mantraḥ) this(ayam) giver-of-all-success(sarva+siddhi+daḥ)
+[seven-syllable](saptārṇaṃ) [piṇḍa-named](piṇḍamākhyaṃ) [and](ca) [mantra](mantro'yaṃ) [all-accomplishing](sarvasiddhidaḥ)
 
 ## mukta-m0-p190-v4740
-Gāyatrī(gāyatrīṃ) and(ca) also(api) Sāvitrī(sāvitrīṃ) in-the-two-eyes(netrayoḥ) left-and-right(vāma+dakṣayoḥ)
+[gāyatrī](gāyatrīṃ) [and](cāpi) [sāvitrī](sāvitrīṃ) [eyes-loc](netrayorvāmadakṣayoḥ)
 
 ## mukta-m0-p190-v4741
-oṃ(oṃ) kṣaṃ(kṣaṃ) to-the-tawny-eyed-form(piṅgala+akṣa+rūpāya) obeisance(namaḥ)
+[oṃ-kṣaṃ-piṃgalā-letter-form-namaḥ](oṃ) [kṣaṃ](kṣaṃ) [piṃgalākṣarūpāya](piṃgalākṣarūpāya) [namaḥ](namaḥ)
 
 ## mukta-m0-p190-v4742
-in-its-middle(tat+madhye) and(ca) again(punaḥ) O-god(deva) which(yat) eight-petaled-lotus(padma+aṣṭa+dalaṃ) may-be(bhavet)
+[that-middle](tanmadhye) [and](ca) [again](punardeva) [yaṃ](yaṃ) [eight-petal-lotus](padmāṣṭadalaṃ) [becomes](bhavet)
 
 ## mukta-m0-p190-v4743
-on-the-left-petal(savye dale) crest(śikhāṃ) and(ca) also(api) on-the-western(paścime) armor(kavacaṃ) one-should-place(nyaset)
+[left-petal](savye) [crest](dale) [and](śikhāṃ) [west](cāpi) [armor](paścime) [place](kavacaṃ) [nyaset](nyaset)
 
 ## mukta-m0-p190-v4744
-on-the-northeastern-petal(aiśe dale) and(ca) Sāvitrī(sāvitrīṃ) fierce(rākṣasaṃ) eye-mantra(netra+mantrakam)
+[aiśa-petal](aiśe) [and](dale) [ca](ca) [sāvitrī](sāvitrīṃ) [rākṣasa](rākṣasaṃ) [eye-mantra](netramantrakam)
 
 ## mukta-m0-p190-v4745
-then(atha) second-enclosure(dvitīya+āvaraṇaṃ) in-the-circle(cakre) indeed(vai) at-the-door-region(dvāra+deśake)
+[then](atha) [second-enclosure](dvitīyāvaraṇaṃ) [cakra](cakre) [vai](vai) [door-place](dvāradeśake)
 
 ## mukta-m0-p190-v4746
-with-mantras-ending-in-Dāmodara(dāmodara+anta+mantre) and(ca) in-the-east-etc.(pūrva+ādiṣu) according-to-order(yathā kramam)
+[dāmodara-end-mantra](dāmodarāntamantre) [ca](ca) [east-etc](pūrvādiṣu) [as-order](yathā) [kramam](kramam)
 
 ## mukta-m0-p190-v4747
-mace(gadāṃ) and(ca) discus(cakraṃ) conch(śaṃkhaṃ) and(ca) lotus(padmaṃ) and(ca) plough(halam) indeed(eva) and(ca)
+[mace](gadāṃ) [and](ca) [discus](cakraṃ) [conch](śaṃkhaṃ) [and](ca) [lotus](padmaṃ) [and](ca) [plough](halameva) [ca](ca)
 
 ## mukta-m0-p190-v4748
-with-fragrances(gandhaiḥ) with-flowers(puṣpaiḥ) and(ca) with-food-offerings(naivedyaiḥ) with-garments+ornaments-etc.(vastra+alaṃkaraṇa+ādibhiḥ)
+[perfumes](gandhaiḥ) [flowers](puṣpaiśca) [and](naivedyairvastrālaṃkaraṇādibhiḥ)
 
 ## mukta-m0-p190-v4749
-in-placement(nyāse) but(tu) at-the-end-of-five-forms(pañca+mūrtti+ante) root-mantra(mūla+mantraḥ) should-be(bhavet) as(yathā)
+[nyāsa](nyāse) [tu](tu) [five-forms-end](pañcamūrttyante) [root-mantra](mūlamantro) [becomes](bhavedyathā)
 
 ## mukta-m0-p190-v4750
-oṃ-hāṃ-rīṃ-raṃ-aṃ(oṃ hāṃ rīṃ raṃ aṃ) likewise(tathā) oṃ-aṃ-oṃ(oṃ aṃ oṃ) preceded-by-the-pair(yugmaka+pūrvakā)
+[oṃ-hāṃ-rīṃ-raṃ-aṃ-thus](oṃ) [hāṃ](hāṃ) [rīṃ](rīṃ) [raṃ](raṃ) [aṃ](aṃ) [tathā](tathā) [oṃ-aṃ-oṃ-pair-first](oṃ) [aṃ](aṃ) [oṃ](oṃ) [yugmakapūrvakā](yugmakapūrvakā)

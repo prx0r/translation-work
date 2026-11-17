@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p22-v526
-[of-door](dvārasya) [on-left+side](vāma+pārśve) [indeed](tu) [Kālā](kālāṃ) [and](ca) [Yamunā](yamunāṃ) [one-should-worship](yajet)
+[dvārasya](dvārasya) [vāma-pārśve](vāmapārśve) [tu](tu) [kālām](kālāṃ) [ca](ca) [yamunām](yamunāṃ) [yajet](yajet)
 
 ## mukta-m0-p22-v527
-[on-right](dakṣiṇe) [Bhṛṅgarāja](bhṛṅgarājaṃ) [and](ca) [with-group+of-seven+mothers](sapta+mātṛ+gaṇaiḥ+yutam)
+[dakṣiṇe](dakṣiṇe) [bhṛṅgarājam](bhṛṅgarājaṃ) [ca](ca) [saptamātṛ-gaṇaiḥ](saptamātṛgaṇairyutam) [yutam](yutam)
 
 ## mukta-m0-p22-v528
-[in-southwest](nair-ṛtyāṃ) [Vināyaka](vināyakaṃ) [and+indeed](ca+eva) [in-west](vāruṇyāṃ) [Ṣaṇmukha](saṇmukhaṃ) [likewise](tahā)
+[nairṛtyām](nair-ṛtyāṃ) [vināyakam](vināyakaṃ) [ca-eva](caiva) [vāruṇyām](vāruṇyāṃ) [saṇmukham](saṇmukhaṃ) [tathā](tahā)
 
 ## mukta-m0-p22-v529
-[in-northeast](aiśyānyāṃ) [Bhānu](bhānum) [thus](evaṃ) [should-be](syād) [Bhūtanātha+lord](bhūta+nātha+īśam) [in-front](agrake)
+[aiśānyām](aiśyānyāṃ) [bhānum](bhānumevaṃ) [evam](evaṃ) [syāt](syād) [bhūtanātha-īśam](bhūtanātheśamagrake) [agrake](agrake)
 
 ## mukta-m0-p22-v530
-[gopura](gopuraṃ) [endowed-with+sound+of-instruments+and+conch+blast](vādya+niśśabda+śaṅkha+ghoṣa+samanvitam)
+[gopuram](gopuraṃ) [vādya-niḥśabda-śaṅkha-ghoṣa-samanvitam](vādyaniśśabdaśaṅkhaghoṣasamanvitam)
 
 ## mukta-m0-p22-v531
-[Indra](indraṃ) [and+indeed](ca+eva) [likewise](tathā) [Agni](agniṃ) [and](ca) [Yama](yamaḥ) [and](ca) [Nirṛti](ni-ṛtiḥ) [likewise](tathā)
+[indram](indraṃ) [ca-eva](caiva) [tathā](tathā) [agnim](agniṃ) [ca](ca) [yamah](yamaśca) [ca](ca) [nirṛtiḥ](ni-ṛtistathā) [tathā](tathā)
 
 ## mukta-m0-p22-v532
-[Nirṛti](ni-ṛtiṃ) [on-south](dakṣiṇe) [Viṣṇu](viṣṇuṃ) [Brahmā](brahmāṇaṃ) [and](tu) [on-left+of-Īśa](īśa+vāmake)
+[nirṛtim](ni-ṛtiṃ) [dakṣiṇe](dakṣiṇe) [viṣṇum](viṣṇuṃ) [brahmāṇam](brahmāṇaṃ) [tu](tvīśavāmake) [īśa-vāmake](īśavāmake)
 
 ## mukta-m0-p22-v533
-[of-Kṣetreśa](kṣetreśasya) [ba](ba) [*](*) [*](*) [*](*) [*](*) [*](*) [*](*) [*](*) [nakam](nakam)
+[kṣetreśasya](kṣetreśasya) [ba](ba) [*](*) [*](*) [*](*) [*](*) [*](*) [*](*) [*](*) [nakam](nakam)
 
 ## mukta-m0-p22-v534
-[Ananteśa](ananteśaḥ) [likewise](tathā) [Sūkṣma](sūkṣmaḥ) [Śivokta](śiva+uktaḥ) [and](ca) [Ekanetraka](eka+netrakaḥ)
+[ananteśaḥ](ananteśastathā) [tathā](tathā) [sūkṣmaḥ](sūkṣmaśśivoktaścaikanetrakaḥ) [śiva-uktaḥ](śivoktaścaikanetrakaḥ) [ca](ca) [eka-netrakaḥ](eka-netrakaḥ)
 
 ## mukta-m0-p22-v535
-[third+enclosure](tṛtīya+āvaraṇaṃ) [declared](proktaṃ) [fourth](caturthaṃ) [enclosure](varaṇaṃ) [hear](śṛṇu)
+[tṛtīya-āvaraṇam](tṛtīyāvaraṇaṃ) [proktam](proktaṃ) [caturtham](caturthaṃ) [varaṇam](varaṇaṃ) [śṛṇu](śṛṇu)
 
 ## mukta-m0-p22-v536
-[Īśāna](īśānaṃ) [and](ca) [Mahādeva](mahādevaḥ) [Bhīma](bhīmaḥ) [and](ca) [thus](iti) [eighth](aṣṭamaḥ) [likewise](tathā)
+[īśānam](īśānaṃ) [ca](ca) [mahādevaḥ](mahādevo) [bhīmaḥ](bhīmaścetyaṣṭamastathā) [ca](ca) [iti](iti) [aṣṭamaḥ](aṣṭamastathā) [tathā](tathā)
 
 ## mukta-m0-p22-v537
-[vajra](vajraṃ) [śakti](śaktiṃ) [and](ca) [daṇḍa](daṇḍaṃ) [and](ca) [sword](khaḍgaṃ) [noose+and+goad](pāśa+aṅkuśaṃ) [likewise](tathā)
+[vajram](vajraṃ) [śaktim](śaktiṃ) [ca](ca) [daṇḍam](daṇḍaṃ) [ca](ca) [khaḍgam](khaḍgaṃ) [pāśa-aṅkuśam](pāśāṅkuśaṃ) [tathā](tathā)
 
 ## mukta-m0-p22-v538
-[thus](evam) [enclosure](āvaraṇaṃ) [and+indeed](ca+eva) [great+pedestal](mahā+pīṭhaṃ) [separately](pṛthak) [separately](pṛthak)
+[evam](evamāvaraṇaṃ) [āvaraṇam](āvaraṇaṃ) [ca-eva](caiva) [mahāpīṭham](mahāpīṭhaṃ) [pṛthak](pṛthak) [pṛthak](pṛthak)
 
 ## mukta-m0-p22-v539
-[in-separate+place](pṛthak+deśe) [offering](baliṃ) [having-given](dattvā) [and+indeed](ca+eva) [enclosure](māvaraṇaṃ) [three](trayam)
+[pṛthak-deśe](pṛthagdeśe) [balim](baliṃ) [dattvā](dattvā) [ca-eva](caiva) [māvaraṇam](māvaraṇaṃ) [trayam](trayam)
 
 ## mukta-m0-p22-v540
-[in-second](dvitīye) [and](ca) [great+pedestal](mahā+pīṭhe) [offering](baliṃ) [having-given](dattvā) [to-eight+forms](aṣṭa+mūrtaye)
+[dvitīye](dvitīye) [ca](ca) [mahāpīṭhe](mahāpīṭhe) [balim](baliṃ) [datvā](datvāṣṭamūrtaye) [aṣṭamūrtaye](aṣṭamūrtaye)
 
 ## mukta-m0-p22-v541
-[image+enclosure](pratimā+āvaraṇaṃ) [pedestal](pīṭhaṃ) [great+pedestal](mahā+pīṭhaṃ) [*](*) [*](*) [*](*) [*](*)
+[pratimā-āvaraṇam](pratimāvaraṇaṃ) [pīṭham](pīṭhaṃ) [mahāpīṭham](mahāpīṭhaṃ) [*](*) [*](*) [*](*) [*](*) 
 
 ## mukta-m0-p22-v542
-[second+enclosure](dvitīya+āvaraṇaṃ) [deficient](nyūnaṃ) [in-first](prathame) [on-bhūta+pedestal](bhūta+pīṭhake)
+[dvitīya-āvaraṇam](dvitīyāvaraṇaṃ) [nyūnam](nyūnaṃ) [prathame](prathame) [bhūta-pīṭhake](bhūtapīṭhake)
 
 ## mukta-m0-p22-v543
-[offering+deity](bali+devam) [thus](iti) [declared](proktaṃ) [offering+substance](bali+dravyam) [now](atha) [hear](śṛṇu)
+[bali-devam](balidevamiti) [iti](iti) [proktam](proktaṃ) [bali-dravyam](balidravyamatha) [atha](atha) [śṛṇu](śṛṇu)
 
 ## mukta-m0-p22-v544
-[nourishing](pauṣṭikaṃ) [and](ca) [food+liṅga](anna+liṅgaṃ) [and](ca) [pacifying](śāntikaṃ) [and](ca) [arghya](arghyam) [only](eva) [and](ca)
+[pauṣṭikam](pauṣṭikaṃ) [ca](cānnaliṅgaṃ) [anna-liṅgam](annaliṅgaṃ) [ca](ca) [śāntikam](śāntikaṃ) [ca](cārghyameva) [arghyam](arghyameva) [eva](eva) [ca](ca)
 
 ## mukta-m0-p22-v545
-[or](athavā) [teacher](deśikaṃ) [and+indeed](ca+eva) [giving+of-offering](bali+dānaṃ) [*](*) [*](*) [*](*) [*](*)
+[athavā](athavā) [deśikam](deśikaṃ) [ca-eva](caiva) [bali-dānam](balidānaṃ) [*](*) [*](*) [*](*) [*](*) 
 
 ## mukta-m0-p22-v546
-[fragrance](gandhaṃ) [six](ṣaṭ) [twelve+parts](dvādaśa+aṃśaṃ) [indeed](tu) [flower](puṣpaṃ) [leaf](patraṃ) [and](ca) [droṇa-measure](droṇakam)
+[gandham](gandhaṃ) [ṣaṭ](ṣaṭ) [dvādaśa-aṃśam](dvādaśāṃśaṃ) [tu](tu) [puṣpam](puṣpaṃ) [patram](patraṃ) [ca](ca) [droṇakam](droṇakam)
 
 ## mukta-m0-p22-v547
-[at-morning+midday+evening](prātar+madhyāhna+sāyāhne) [at-three+junctures](tri+sandhyāṃ) [offering](balim) [one-should-perform](ācaret)
+[prātar-madhyāhna-sāyāhne](prātarmadhyāhnasāyāhne) [tri-sandhyām](trisandhyāṃ) [balim](balimācaret) [ācaret](ācaret)
 
 ## mukta-m0-p22-v548
-[bath](snānaṃ) [indeed](tu) [according-to-rule](vidhinā) [having-done](kṛtvā) [wearing-tripuṇḍra](tri+puṇḍrī) [wearing-white+garment](śukla+vastrakaḥ)
+[snānam](snānaṃ) [tu](tu) [vidhinā](vidhinā) [kṛtvā](kṛtvā) [tripuṇḍrī](tripuṇḍrī) [śukla-vastrakaḥ](śuklavastrakaḥ)
 
 ## mukta-m0-p22-v549
-[arghya+vessel](arghya+pātraka) [*](*) [*](*) [*](*) [with-pavitra+in-hand](sa+pavitra+karaḥ) [teacher](guruḥ)
+[arghya-pātraka](arghyapātraka) [*](*) [*](*) [*](*) [sa-pavitra-karaḥ](sapavitrakaro) [guruḥ](guruḥ)
 
 ## mukta-m0-p22-v550
-[on-vehicle](yāne) [or](vā) [on-stage](raṅgake) [or](vā) [also](api) [Candraśekhara+form](candra+śekhara+mūrtinam)
+[yāne](yāne) [vā](vā) [raṅgake](raṅgake) [vā-api](vā'pi) [candraśekhara-mūrtinam](candraśekharamūrtinam)

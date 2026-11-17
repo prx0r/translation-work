@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p117-v2901
-[great](mahā)+[goddess](īś)+[feminine](va)+[vocative](ri)
+[great-lady](maheśvari)
 
 ## mukta-m0-p117-v2902
-[who](yaḥ) [thus](evaṃ) [should-worship](pūjayet) [o-goddess](devi) [own](sva)+[guru](guruṃ) [on-meritorious](puṇya)+[day](vāsare)
+[who](ya) [thus](evaṃ) [would-worship](pūjayed) [goddess](devi) [own-teacher](svaguruṃ) [meritorious-day](puṇyavāsare)
 
 ## mukta-m0-p117-v2903
-[guru](guruḥ)+[indeed](eva) [supreme](paraḥ) [mantra](mantraḥ) [guru](guruḥ)+[indeed](eva) [supreme](paraḥ) [recitation](japaḥ)
+[teacher-alone](gurureva) [supreme](paro) [mantra](mantro) [teacher-alone](gurureva) [supreme](paro) [japa](japaḥ)
 
 ## mukta-m0-p117-v2904
-[of-whom](yasya) [satisfied](tuṣṭaḥ) [guru](guruḥ)+[o-goddess](devi) [of-him](tasya) [satisfied](tuṣṭā) [great-goddess](maheśvarī)
+[whose](yasya) [pleased](tuṣṭo) [teacher](gururdevi) [of-him](tasya) [pleased](tuṣṭā) [great-lady](maheśvarī)
 
 ## mukta-m0-p117-v2905
-[one-should-practice](samācaret) [thus](iti) [duly](samyak) [always](sadā)
+[should-do](samācaret)
 
 ## mukta-m0-p117-v2906
-[guru](guruḥ)+[speaks](vadati) [what](yat) [immediately](sadyas)+[that](tat) [should-do](kuryāt) [best](uttamaḥ)+[practitioner](sādhakaḥ)
+[teacher](gururvadati) [what](yat) [immediately](sadyastat) [should-do](kuryāt) [best-practitioner](sādhakottamaḥ)
 
 ## mukta-m0-p117-v2907
-[therefore](tasmāt) [guru](guruṃ) [one-should-honor](bhajet) [with-devotion](bhaktyā) [one-should-please](toṣayet) [always](satataṃ) [guru](gurum)
+[therefore](tasmād) [teacher](guruṃ) [worship](bhajed) [devotion](bhaktyā) [please](toṣayet) [always](satataṃ) [teacher](gurum)
 
 ## mukta-m0-p117-v2908
-[ears](karṇau) [there](tatra) [to-be-covered](pidhātavyau) [not](no) [or](vā) [far](dūraṃ) [running-away](palāyanam)
+[ears](karṇau) [there](tatra) [cover](pidhātavyau) [not](no) [or](vā) [far](dūraṃ) [fleeing](palāyanam)
 
 ## mukta-m0-p117-v2909
-[guru](gurum)+[one-should-worship](abhyarcayet)+[daily](nityaṃ) [by-which](yena) [goddess](devī) [is-pleased](prasīdati)
+[teacher](gurumabhyarcayennityaṃ) [by-whom](yena) [durgā](durgā) [by-whom](yena) [goddess](devī) [is-pleased](prasīdati)
 
 ## mukta-m0-p117-v2910
-[essence](sārāt)+[more-essential](sārataraṃ) [o-goddess](devi) [to-be-concealed](gopanīyaṃ) [by-those-desiring-liberation](mumukṣubhiḥ)
+[essence-of-essence](sārātsārataraṃ) [goddess](devi) [to-be-hidden](gopanīyaṃ) [by-liberation-seekers](mumukṣubhiḥ)
 
 ## mukta-m0-p117-v2911
-[Durgā](durgā)+[secret](rahasya)+[essence](sāra)+[endowed](āḍhyaṃ) [secret](guhyaṃ) [to-be-guarded](gopyaṃ) [and](ca) [by-practitioners](sādhakaiḥ)
+[durgā-secret-essence-rich](durgārahasyasārāḍhyaṃ) [secret](guhyaṃ) [hidden](gopyaṃ) [and](ca) [by-practitioners](sādhakaiḥ)
 
 ## mukta-m0-p117-v2912
-[accomplishment](siddhi)+[giving](pradaḥ) [o-great-goddess](mahādevi) [to-be-worshipped](pūjanīyaḥ)+[is](asti) [by-practitioners](sādhakaiḥ)
+[accomplishment-giving](siddhiprado) [great-goddess](mahādevi) [to-be-worshipped](pūjanīyo'sti) [by-practitioners](sādhakaiḥ)
 
 ## mukta-m0-p117-v2913
-[which](yat)+[by-you](tvayā) [described](varṇitaḥ)+[tantra](tantraḥ) [of-Śrī-Durgā](śrīdurgāyāḥ) [o-lord-of-the-family](kuleśvara)
+[that](yattvayā) [described](varṇitastantraḥ) [śrī-durgā](śrīdurgāyāḥ) [lord-of-family](kuleśvara)
 
 ## mukta-m0-p117-v2914
-[in-every-way](sarvathā) [to-be-protected](rakṣaṇīyā)+[I-am](asmi) [what](kim)+[else](anyat) [shall-I-tell](kathayāmi) [to-you](te)
+[always](sarvathā) [protected](rakṣaṇīyāsmi) [what-else](kimanyat) [shall-I-say](kathayāmi) [to-you](te)
 
 ## mukta-m0-p117-v2915
-[not-to-be-given](adātavyam)+[to-non-devotees](abhaktebhyaḥ) [to-evil-souls](durātmabhyaḥ) [o-great-goddess](maheśvari)
+[not-to-be-given](adātavyamabhaktebhyo) [to-non-devotees](abhaktebhyo) [to-wicked](durātmabhyo) [great-lady](maheśvari)
 
 ## mukta-m0-p117-v2916
-[this](idam) [indeed](hi) [essence](sāraṃ) [of-tantras](tantrāṇāṃ) [truth](tattvaṃ) [all](sarva)+[wealth](svam)+[supreme](uttamam)
+[this](idaṃ) [indeed](hi) [essence](sāraṃ) [of-tantras](tantrāṇāṃ) [truth](tattvaṃ) [all-best](sarvasvamuttamam)
 
 ## mukta-m0-p117-v2917
-[sixtieth](ṣaṣṭitamaḥ) [chapter](paṭalaḥ) [thus](iti) [completed](samāptaḥ)
+[sixtieth](ṣaṣṭitamaḥ) [chapter](paṭalaḥ)
 
 ## mukta-m0-p117-v2918
-[purification](śuddhi)+[word](pada)+[reading](pāṭha)+[collation](sumelanā)+[and-so-forth](ādyaiḥ) [by-means-of](iti) [prepared](kṛtam)
+[purification-path-reading-union-etc](śuddhipadapāṭhasumelanādyaiḥ)
 
 ## mukta-m0-p117-v2919
-[of-Jvālāmukhī](jvālāmukhyāḥ)+[indeed](tu) [whole-essence](sarvasvaṃ) [chapter](paṭalaṃ) [by-gods](deva)+[hard-to-obtain](durlabham)
+[jvālāmukhī](jvālāmukhyāstu) [all-essence](sarvasvaṃ) [chapter](paṭalaṃ) [god-rare](devadurlabham)
 
 ## mukta-m0-p117-v2920
-[heard](śrutāni) [from-your](tvat)+[lotus](mukha)+[mouth](ambhojāt) [texts](granthāni) [various](vividhāni) [and](ca)
+[heard](śrutāni) [from-your-lotus-mouth](tvanmukhāmbhojād) [texts](granthāni) [various](vividhāni) [and](ca)
 
 ## mukta-m0-p117-v2921
-[of-dissolution](laya)+[limb](aṅgaṃ) [tell](vada) [to-me](me) [o-lord](nātha) [if](yadi)+[I](aham) [beloved](preyasī) [of-you](tava)
+[dissolution-limb](layāṅgaṃ) [tell](vada) [me](me) [lord](nātha) [if](yadyahaṃ) [beloved](preyasī) [your](tava)
 
 ## mukta-m0-p117-v2922
-[practice](prayoga)+[accomplishment](sādhanaṃ) [I-shall-tell](vakṣye) [than-secret](gopyāt) [more-secret](gopyataraṃ) [of-me](mama)
+[practice-means](prayogasādhanaṃ) [I-will-speak](vakṣye) [more-secret-than-secret](gopyād) [gopyataraṃ) [mama](mama)
 
 ## mukta-m0-p117-v2923
-[once](ekadā) [in-swan](haṃsa)+[form](rūpeṇa) [by-mantra](manunā)+[I](aham) [world](jagat)+[supreme](param)
+[once](ekadā) [swan-form](haṃsarūpeṇa) [by-manu](manunāhaṃ) [world-supreme](jagatparam)
 
 ## mukta-m0-p117-v2924
-[of-Jvālāmukhī](jvālāmukhyāḥ) [by-that](tayā) [mantra](mantraḥ) [described](varṇitaḥ) [by-name](nāma)+[only](mātrataḥ)
+[jvālāmukhī](jvālāmukhyā) [by-her](tayā) [mantra](mantro) [described](varṇito) [name-only](nāmamātrataḥ)
 
 ## mukta-m0-p117-v2925
-[I-create](sṛjāmi) [I-shall-destroy](saṃhariṣyāmi) [I-protect](rakṣāmi) [and](ca) [day](divā)+[and-night](niśam)
+[I-create](sṛjāmi) [I-destroy](saṃhariṣyāmi) [I-protect](rakṣāmi) [and](ca) [day-night](divāniśam)

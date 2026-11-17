@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p23-v551
-[yogins](yoginaḥ) [and](ca) [likewise](tathā) [others](ca+anye) [on-bad-paths](kupatheṣu) [even](api) [who](ye) [situated](sthitāḥ)
+[yogins](yoginaḥ) [and](ca) [so](tathā) [and](ca) [others](anye) [in-wrong-paths](kupatheṣu) [even](api) [who](ye) [are-situated](sthitāḥ)
 
 ## mukta-m0-p23-v552
-[they](te) [also](api) [indeed](ca) [here](atra) [speak](bruvanti) [indeed](eva) [goal](gatiḥ) [here](atra) [whence](kutaḥ) [otherwise](anyataḥ)
+[they](te) [even](api) [and](ca) [here](atra) [say](bruvanti) [indeed](eva) [path](gatiḥ) [here](atra) [whence](kutaḥ) [from-elsewhere](anyataḥ)
 
 ## mukta-m0-p23-v553
-[thus](evaṃ) [my](me) [doubt](saṃśayaḥ) [O-god](deva) [what](yat) [truth](satyaṃ) [that](tat) [tell](bravīhi) [me](me)
+[thus](evaṃ) [my](me) [doubt](saṃśayaḥ) [god](deva) [what](yat) [truth](satyaṃ) [that](tat) [speak](bravīhi) [to-me](me)
 
 ## mukta-m0-p23-v554
-[mātṛkā](mātṛkā) [in-Śiva-form](śiva+rūpeṇa) [intellect-origin-tree](buddhi+saṃbhava+pādapam)
+[mother-goddess](mātṛkā) [by-Shiva-form](śivarūpeṇa) [intelligence-origin-tree](buddhisaṃbhavapādapam)
 
 ## mukta-m0-p23-v555
-[my](mama) [seed-born](bīja+udbhavāḥ) [all](sarve) [your](tava) [womb-emerged](yoni+vinirgatāḥ)
+[my](mama) [seed-born](bījodbhavāḥ) [all](sarve) [your](tava) [womb-emerged](yonivinirgatāḥ)
 
 ## mukta-m0-p23-v556
-[Sanskrit](saṃskṛtaṃ) [Prakrit](prākṛtaṃ) [and](ca) [indeed](eva) [Apabhraṃśa](apabhraṃśa) [nasalized](anunāsikam)
+[Sanskrit](saṃskṛtaṃ) [Prakrit](prākṛtaṃ) [and](ca) [indeed](eva) [corrupt-nasal](apabhraṃśānunāsikam)
 
 ## mukta-m0-p23-v557
-[you](tvaṃ) [always](sadā) [proud](darpiṇī) [goddess](devī) [in-ego-delighting](ahaṃkāra+ratā) [always](sadā)
+[you](tvaṃ) [always](sadā) [mirror](darpiṇī) [goddess](devī) [ego-attached](ahaṃkāraratā) [always](sadā)
 
 ## mukta-m0-p23-v558
-[unchanging](avikāraṃ) [therefore](tataḥ) [world](loko) [my-change](mat+vikāram) [rejected](apāsitam)
+[unchanging](avikāraṃ) [then](tataḥ) [world](lokaḥ) [my-change](madvikāram) [discarded](apāsitam)
 
 ## mukta-m0-p23-v559
-[eating](bhuñjatāṃ) [six-taste-food](ṣaḍ+rasa+āhāraṃ) [die](mriyante) [all-beings](sarva+jantavaḥ)
+[of-eaters](bhuñjatāṃ) [six-taste-food](ṣaḍrasāhāraṃ) [die](mriyante) [all-beings](sarvajantavaḥ)
 
 ## mukta-m0-p23-v560
-[in-clay-lumps](mṛt+piṇḍeṣu) [pot](ghaṭo) [as](yadvat) [in-threads](tantuṣu) [indeed](eva) [cloth](paṭo) [as](yathā)
+[in-clay-lumps](mṛtpiṇḍeṣu) [pot](ghaṭaḥ) [as](yadvat) [in-threads](tantuṣu) [indeed](eva) [cloth](paṭaḥ) [as](yathā)
 
 ## mukta-m0-p23-v561
-[root-knowledge](mūla+jñānaṃ) [having-recited](japitvā) [indeed](tu) [engaged](yuktā) [meditate](dhyāyanti) [yogins](yoginaḥ)
+[root-knowledge](mūlajñānaṃ) [having-chanted](japitvā) [then](tu) [united](yuktāḥ) [meditate](dhyāyanti) [yogins](yoginaḥ)
 
 ## mukta-m0-p23-v562
-[having-renounced](pravṛjya) [is-obtained](labhyate) [liberation](mokṣaḥ) [by-conduct](caryayā) [or](atha) [O-great-lord](maheśvara)
+[by-renunciation](pravṛjya) [obtained](labhyate) [liberation](mokṣaḥ) [by-practice](caryayā) [then](atha) [great-lord](maheśvara)
 
 ## mukta-m0-p23-v563
-[by-knowledge](jñānena) [is-obtained](labhyate) [O-god](deva) [that](tat) [of-knowledge](jñānasya) [illuminator](prakāśakaḥ)
+[by-knowledge](jñānena) [obtained](labhyate) [god](deva) [that](tat) [of-knowledge](jñānasya) [revealer](prakāśakaḥ)
 
 ## mukta-m0-p23-v564
-[that](tat) [to-me](mama) [explain](ācakṣva) [O-lord-of-gods](deveśa) [here](atra) [my](me) [doubt](saṃśayaḥ) [great](mahān)
+[that](tat) [to-me](mama) [tell](ācakṣva) [lord-of-gods](deveśa) [here](atra) [my](me) [doubt](saṃśayaḥ) [great](mahān)
 
 ## mukta-m0-p23-v565
-[by-destruction](kṣapaṇāt) [and](ca) [indeed](eva) [of-body](dehasya) [liberation](mokṣam) [desire](icchanti) [unwise-ones](abuddhayaḥ)
+[by-destruction](kṣapaṇāt) [and](ca) [indeed](eva) [of-body](dehasya) [liberation](mokṣam) [desire](icchanti) [unwise](abuddhayaḥ)
 
 ## mukta-m0-p23-v566
-[hungry](kṣut+pipāsī) [likewise](tathā) [rained-upon](varṣī) [liberation-seeker](mokṣa+arthī) [wise-one](subudhaḥ) [should-endure](sahet)
+[hungry-thirsty](kṣutpipāsī) [and](tathā) [rainy](varṣī) [liberation-seeker](mokṣārthī) [wise](subudhaḥ) [endure](sahet)
 
 ## mukta-m0-p23-v567
-[not](na) [this](etat) [indeed](vai) [birth](jananaṃ) [statement](vākyaṃ) [world-pervasion](jagat+vyāptiṃ) [not](na) [for-liberation](muktaye)
+[not](na) [this](etat) [indeed](vai) [birth](jananaṃ) [statement](vākyaṃ) [world-pervasion](jagadvyāptiṃ) [not](na) [for-liberation](muktaye)
 
 ## mukta-m0-p23-v568
-[liberation](mokṣo) [is](bhavati) [by-knowledge](jñānena) [embodied-one](dehī) [released-alone](nirmukta+kevalam)
+[liberation](mokṣaḥ) [becomes](bhavati) [by-knowledge](jñānena) [embodied](dehī) [freed-pure](nirmuktakevalam)
 
 ## mukta-m0-p23-v569
-[well-trained-chariot-mounted](vinīta+ratha+ārūḍha) [having-eyes](cakṣuḥ) [like](iva) [charioteer](sārathiḥ)
+[controlled-chariot-mounted-chariot-eye](vinītarathamārūḍharacakṣuḥ) [like](iva) [charioteer](sārathiḥ)
 
 ## mukta-m0-p23-v570
-[Pañcarātra-knowers](pañcarātri+vidaḥ) [who](ye) [indeed](tu) [with-others](anyaiḥ) [with-sinful-ones](pāpādukaiḥ) [together](saha)
+[Pañcaratra-knowers](pañcarātrividaḥ) [who](ye) [but](tu) [with](saha) [other](anyaiḥ) [sinners](pāpādukaissaha)
 
 ## mukta-m0-p23-v571
-[fire](agniḥ) [in-fire](agnau) [as](yathā) [thrown](kṣiptaṃ) [in-water](toye) [water](toyam) [as](iva) [placed](arpitam)
+[fire](agniḥ) [in-fire](agnau) [as](yathā) [thrown](kṣiptaṃ) [water](toye) [in-water](toyam) [like](iva) [offered](arpitam)
 
 ## mukta-m0-p23-v572
-[of-nirvāṇa](nirvāṇasya) [indeed](tu) [to-be-known](vijñeyaḥ) [pleasure-pain-devoid](sukha+duḥkha+vivarjitam)
+[nirvana](nirvāṇaḥ) [that](sa) [indeed](tu) [to-be-known](vijñeyaḥ) [pleasure-pain-devoid](sukhaduḥkhavivarjitam)
 
 ## mukta-m0-p23-v573
-[all](sarve) [afflicted](kliṣṭāḥ) [likewise](tathā) [extremely](atyantaṃ) [liberation-truth-not-knowing](mokṣa+tatvam+ajānataḥ)
+[all](sarve) [afflicted](kliṣṭāḥ) [so](tathā) [extremely](atyantaṃ) [liberation-truth](mokṣatatvam) [not-knowing](ajānataḥ)
 
 ## mukta-m0-p23-v574
-[life-destruction](jīva+nāśo) [would-be](bhavet) [where](yatra) [without-happiness](niḥ+sukhaṃ) [without-consciousness](niṣ+pracetanam)
+[soul-destruction](jīvanāśaḥ) [would-be](bhaved) [where](yatra) [without-pleasure](nissukhaṃ) [unconscious](niṣpracetanam)
 
 ## mukta-m0-p23-v575
-[of-them](teṣāṃ) [māyā-womb](māyā+udaro) [liberation](mokṣaḥ) [that](sa) [consciousness](caitanyam) [by-state](avasthayā)
+[their](teṣāṃ) [maya-womb](māyodaraḥ) [liberation](mokṣaḥ) [that](sa) [consciousness](caitanyam) [by-state](avasthayā)

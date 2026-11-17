@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p04-v76
-[rising+setting](udayāsta) [mind](manaṃ) [indeed](hi) [this](etan) [not](na) [other](anyaṃ) [I-consider](manye) [O-Śikhidhvaja](śikhidhvaja)
+[rising-setting](udayāsta) [mind](manaṃ) [indeed-this](hyetan) [not-other](nānyaṃ) [think](manye) [peacock-banner](śikhidhvaja)
 
 ## mukta-m0-p04-v77
-[shines](tapate) [constantly](satataṃ) [O-child](vatsa) [universe](viśvaṃ) [direction+path+looking](diṅmārgavīkṣaṇe)
+[burns](tapate) [constantly](satataṃ) [child](vatsa) [universe](viśvaṃ) [direction-path-seeing](diṅmārgavīkṣaṇe)
 
 ## mukta-m0-p04-v78
-[which](yaṃ) [having-known](jñātvā) [is-attained](prāpyate) [liberation](mokṣo) [by-which](yena) [again](bhūyo) [not](na) [is-born](jāyate)
+[whom](yaṃ) [knowing](jñātvā) [obtained](prāpyate) [liberation](mokṣo) [by-whom](yena) [again](bhūyo) [not](na) [born](jāyate)
 
 ## mukta-m0-p04-v79
-[day+night](ahorātraṃ) [made](kṛtaṃ) [and+indeed](caiva) [solstice](saṅkrānti) [equinox](viṣvavad) [pair](dvayam)
+[day-night](ahorātraṃ) [made](kṛtaṃ) [and-also](caiva) [transit](saṅkrānti) [universe-like](viṣvavad) [pair](dvayam)
 
 ## mukta-m0-p04-v80
-[which](yat) [by-you](tvayā) [asked](coditaṃ) [question](praśnam) [unnamed](anākhyaṃ) [I-tell](kathayāmi) [to-you](te)
+[what](yat) [by-you](tvayā) [asked](coditaṃ) [question-unnamed](praśnamanākhyaṃ) [tell-will-I](kathayāmite)
 
 ## mukta-m0-p04-v81
-[of-that](tasya) [power](śaktir) [may-be](bhaved) [this](eṣā) [rising+setting](udayāsta) [mind](manaṃ) [towards](prati)
+[its](tasya) [power](śaktirbhavedeṣā) [rising-setting](udayāsta) [mind](manaṃ) [toward](prati)
 
 ## mukta-m0-p04-v82
-[without-mark](aliṅgaṃ) [with-mark+form](liṅgarūpeṇa) [unmanifest](avyaktaṃ) [manifest+perceptible](vyaktagocaram)
+[unmarked](aliṅgaṃ) [marked-form](liṅgarūpeṇa) [unmanifest](avyaktaṃ) [manifest-range](vyaktagocaram)
 
 ## mukta-m0-p04-v83
-[earth](pṛthivy) [water](āpas) [likewise](tathā) [fire](tejo) [air](vāyur) [ether](ākāśa) [indeed](eva) [and](ca)
+[earth](pṛthivyāpastathā) [water](tejo) [thus](vāyurākāśa) [fire](eva) [air](ca) [space](ākāśaṃ)
 
 ## mukta-m0-p04-v84
-[ether](ākāśaṃ) [swallows](grasate) [power](śaktir) [as](yathā) [swallowed+entire](grastākhilaṃ) [world](jagat)
+[space](ākāśaṃ) [swallows](grasate) [power](śaktiryathāgrastākhilaṃ) [as-swallowed-all](jagat)
 
 ## mukta-m0-p04-v85
-[dissolution](pralayaṃ) [of-all+beings](sarvabhūtānāṃ) [by-me](mayā) [to-you](te) [told](kathitaṃ) [O-son](suta)
+[dissolution](pralayaṃ) [all-beings](sarvabhūtānāṃ) [by-me](mayā) [to-you](te) [told](kathitaṃ) [son](suta)
 
 ## mukta-m0-p04-v86
-[form](ākāraṃ) [in-Brahman+established](brahmasaṃsthitam)
+[*](*) [*](*) [*](*) [*](*) [*](*) [*](*) [*](*) [*](*) [form](ākāraṃ) [brahma-established](brahmasaṃsthitam)
 
 ## mukta-m0-p04-v87
-[that](tat) [all](sarvaṃ) [I-shall-tell](kathayiṣyāmi) [listen](śṛṇuṣvā) [attentive](avahitaṃ) [thus](tathā)
+[that](tat) [all](sarvaṃ) [will-tell](kathayiṣyāmi) [listen-please](śṛṇuṣvā) [attentive](vahitaṃ) [thus](tathā)
 
 ## mukta-m0-p04-v88
-[from-void](śūnyāc) [more-void](chūnyataraṃ) [void](śūnyaṃ) [that](tac) [void](chūnyaṃ) [void](śūnyam) [indeed](eva) [and](ca)
+[from-void](śūnyācchūnyataraṃ) [more-void](śūnyaṃ) [void](tacchūnyaṃ) [that-void](śūnyameva) [void-indeed](ca)
 
 ## mukta-m0-p04-v89
-[of-void](śūnyasyā) [voidness](śūnyatāṃ) [tell](brūhi) [if](yadi) [pleased](tuṣṭosi) [of-me](me) [O-lord](prabho)
+[of-void](śūnyasyā) [voidness](śūnyatāṃ) [speak](brūhi) [if](yadi) [pleased-are](tuṣṭosi) [you](me) [lord](prabho)
 
 ## mukta-m0-p04-v90
-[non-void](aśūnyaṃ) [that](taṃ) [one-should-know](vijānīyāt) [all+voids](sarvaśūnyā) [dissolution](layaṃ) [beneficial](hitam)
+[non-void](aśūnyaṃ) [him](taṃ) [know](vijānīyāt) [all-void](sarvaśūnyā) [dissolution](layaṃ) [beneficial](hitam)
 
 ## mukta-m0-p04-v91
-[not](na) [indeed](tu) [they-know](jānanti) [that](taṃ) [void](śūnyam) [non-void](aśūnyā) [by-which](yena) [they](te) [made](kṛtāḥ)
+[not](na) [but](tu) [know](jānanti) [him](taṃ) [void](śūnyamaśūnyā) [non-void](yena) [by-whom](te) [they](kṛtāḥ)
 
 ## mukta-m0-p04-v92
-[non-void](aśūnyaṃ) [of-them](teṣv) [this](amī) [form](rūpaṃ) [all-pervading](sarvagaṃ) [consciousness+nature](cetanātmakam)
+[non-void](aśūnyaṃ) [in-them](teṣvamīrūpaṃ) [formless](sarvagaṃ) [all-pervading](cetanātmakam)
 
 ## mukta-m0-p04-v93
-[consciousness](vijñānaṃ) [making-known](jñāpakaṃ) [void](śūnyaṃ) [without-support](nirālambā) [supported](balambhitam)
+[consciousness](vijñānaṃ) [knowing](jñāpakaṃ) [void](śūnyaṃ) [supportless-supported](nirālambābalambhitam)
 
 ## mukta-m0-p04-v94
-[that](taṃ) [void](śūnyaṃ) [void](śūnyam) [thus](ity) [they-call](āhur) [they-say](vadanti) [knowledge+wise](jñānabuddhayaḥ)
+[that](taṃ) [void](śūnyaṃ) [void-thus](śūnyamityāhurvadanti) [say](jñānabuddhayaḥ)
 
 ## mukta-m0-p04-v95
-[creation+dissolution](sṛṣṭipralaya) [transcending](rohitvā) [of-void](cchūnyasyā) [non-voidness](śūnyatāṃ) [they-know](viduḥ)
+[creation-dissolution](sṛṣṭipralaya) [having-left](rohitvā) [void's](cchūnyasyāśūnyatāṃ) [non-voidness](viduḥ)
 
 ## mukta-m0-p04-v96
-[therefore](tasmād) [non-voidness](aśūnyatā) [in-void](śūnye) [without-support](nirālambhā) [supported](valambhinam)
+[therefore](tasmādaśūnyatā) [non-voidness](śūnye) [in-void](nirālambhāvalambhinam)
 
 ## mukta-m0-p04-v97
-[consciousness+knowledge+yoga](vijñānajñānayogena) [void](śūnyaṃ) [to-be-known](jñeyaṃ) [you-will-attain](labheṣyasi)
+[consciousness-knowledge-yoga](vijñānajñānayogena) [void](śūnyaṃ) [knowable](jñeyaṃ) [will-obtain](labheṣyasi)
 
 ## mukta-m0-p04-v98
-[of-them](teṣāṃ) [void](śūnyam) [this](idaṃ) [void](śūnyam) [ignorance](ajñānā) [in-whom](yeṣu) [conception](bhāvanā)
+[their](teṣāṃ) [void-this](śūnyamidaṃ) [void](śūnyamajñānā) [ignorance](yeṣu) [in-whom](bhāvanā)
 
 ## mukta-m0-p04-v99
-[from-Brahmā](brahmādi) [up-to-grass-blade](stambhaparyantaṃ) [all](sarvaṃ) [by-void](śūnyena) [filled](pūritam)
+[brahma-etc](brahmādi) [pillar-end](stambhaparyantaṃ) [all](sarvaṃ) [void](śūnyena) [by](pūritam)
 
 ## mukta-m0-p04-v100
-[as](yathā) [consciousness+nature](caitanya) [by-state](bhāvena) [illuminated](bodhitaṃ) [world+triad](bhuvana) [three](trayam)
+[as](yathā) [consciousness](caitanya) [nature](bhāvena) [by](bodhitaṃ) [awakened](bhuvana) [world](trayam)

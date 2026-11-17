@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p100-v2476
-[that](tām) [thus](evaṃ) [should-hold](dhārayed) [O-goddess](devi) [having-written](likhitvā) [on-birch-leaf](bhūrja+patrake)
+[that](tām) [thus](evaṃ) [should-hold](dhārayed) [goddess](devi) [having-written](likhitvā) [birch-leaf](bhūrjapatrake)
 
 ## mukta-m0-p100-v2477
-[with-gold](suvarṇena) [then](atha) [having-enwrapped](saṃveṣṭya) [should-hold](dhārayed) [with-red-thread](rakta+rajjunā)
+[with-gold](suvarṇenātha) [then](atha) [having-wrapped](saṃveṣṭya) [should-hold](dhārayed) [with-red-cord](raktarajjunā)
 
 ## mukta-m0-p100-v2478
-[of-this-amulet](kavacasya+asya) [pill](guṭikā) [held](dhṛtā) [liberation-bestowing](mukti+pradāyinī)
+[of-armor](kavacasyāsya) [pill](guṭikā) [held](dhṛtā) [liberation-giving](muktipradāyinī)
 
 ## mukta-m0-p100-v2479
-[greatness](mahimā) [and](ca) [O-great-goddess](mahā+devi) [even-with-hundred-crores-of-tongues](jihvā+koṭi+śataiḥ+api)
+[greatness](mahimā) [and](ca) [great-goddess](mahādevi) [even-with-hundred-crore-tongues](jihvākoṭiśatairapi)
 
 ## mukta-m0-p100-v2480
-[unspeakable](avaktavyaṃ) [greatly-meritorious](mahā+puṇyaṃ) [bestowing-all-essence-of-sarasvatī](sarva+sārasvata+pradam)
+[unspeakable](avaktavyaṃ) [great-merit](mahāpuṇyaṃ) [bestowing-all-eloquence](sarvasārasvatapradam)
 
 ## mukta-m0-p100-v2481
-[to-another-disciple](anya+śiṣyāya) [wicked](duṣṭāya) [to-slanderer](nindakāya) [of-those-seeking-the-lineage](kula+arthinām)
+[to-other-disciple](anyaśiṣyāya) [to-wicked](duṣṭāya) [to-slanderer](nindakāya) [of-family-seekers](kulārthinām)
 
 ## mukta-m0-p100-v2482
-[to-the-peaceful](śāntāya) [devoted-to-the-lineage](kula+saktāya) [to-the-śākta](śāktāya) [desiring-the-lineage](kula+kāmine)
+[to-peaceful](śāntāya) [to-family-devoted](kulasaktāya) [to-śākta](śāktāya) [to-family-desiring](kulakāmine)
 
 ## mukta-m0-p100-v2483
-[secret](guhyaṃ) [most-secret](gopyatamaṃ) [to-be-concealed](gopyaṃ) [to-be-protected](gopanīyaṃ) [like-one's-own-womb](sva+yoni+vat)
+[secret](guhyaṃ) [most-secret](gopyatamaṃ) [to-be-hidden](gopyaṃ) [to-be-concealed](gopanīyaṃ) [like-own-womb](svayonivat)
 
 ## mukta-m0-p100-v2484
 [chapter](paṭalaḥ)
 
 ## mukta-m0-p100-v2485
-[secret](rahasyaṃ) [of-me](mama) [of-the-gods](devānāṃ) [difficult-to-obtain](durlabhaṃ) [even-for-mortals](janminām+api)
+[secret](rahasyaṃ) [my](mama) [of-gods](devānāṃ) [rare](durlabhaṃ) [even-for-born-ones](janmināmapi)
 
 ## mukta-m0-p100-v2486
-[thousand-names-mantra](mantra+nāma+sahasraṃ) [and](ca) [of-durgā](durgāyāḥ) [merit-giving](puṇya+daṃ) [supreme](param)
+[thousand-mantra-names](mantranāmasahasraṃ) [and](ca) [of-durgā](durgāyāḥ) [merit-giving](puṇyadaṃ) [supreme](param)
 
 ## mukta-m0-p100-v2487
-[here](iha) [enjoyer](bhogī) [in-the-other-world](paratra+api) [liberated-while-living](jīvan+muktaḥ) [becomes](bhavet) [a-person](naraḥ)
+[here](iha) [enjoyer](bhogī) [there-too](paratrāpi) [liberated-while-living](jīvanmukto) [man-becomes](bhavennaraḥ)
 
 ## mukta-m0-p100-v2488
-[than-ten-thousand-horse-sacrifices](aśvamedha+ayutāt) [merit](puṇyaṃ) [in-the-world](loke) [increasing-good-fortune](saubhāgya+vardhanam)
+[from-ten-thousand-horse-sacrifices](aśvamedhāyutāt) [merit](puṇyaṃ) [in-world](loke) [increasing-fortune](saubhāgyavardhanam)
 
 ## mukta-m0-p100-v2489
-[secret](guhyaṃ) [most-secret](gopyatamaṃ) [O-goddess](devi) [by-recitation](paṭhanāt) [granting-accomplishment](siddhi+dāyakam)
+[secret](guhyaṃ) [most-secret](gopyatamaṃ) [goddess](devi) [by-recitation](paṭhanāt) [granting-powers](siddhidāyakam)
 
 ## mukta-m0-p100-v2490
-[fierce](pracaṇḍā) [caṇḍikā](caṇḍikā) [caṇḍī](caṇḍī) [destroyer-of-caṇḍa-and-muṇḍa](caṇḍa+muṇḍa+nisūdinī)
+[fierce](pracaṇḍā) [caṇḍikā](caṇḍikā) [caṇḍī](caṇḍī) [slayer-of-caṇḍa-and-muṇḍa](caṇḍamuṇḍanisūdinī)
 
 ## mukta-m0-p100-v2491
-[dissolution](pralayā) [stability](sthitiḥ) [origin](saṃbhūtiḥ) [manifestation](vibhūtiḥ) [destroyer-of-fear](bhaya+nāśinī)
+[dissolution](pralayā) [preservation](sthitiḥ) [creation](saṃbhūtirvibhūtirbhayanāśinī)
 
 ## mukta-m0-p100-v2492
-[languid-with-intoxication](mada+alasā) [lofty-with-intoxication](mada+uttuṅgā) [intoxicating-liquor](madirā) [fond-of-love](madana+priyā)
+[intoxicated-sluggish](madālasā) [exalted-with-pride](madottuṅgā) [wine](madirā) [beloved-of-love](madanapriyā)
 
 ## mukta-m0-p100-v2493
-[primordial-goddess](ādi+devī) [art](kalā) [lovely](kāntā) [tripurā](tripurā) [sovereign-of-the-world](jagat+īśvarī)
+[primordial-goddess](ādidevī) [art](kalā) [beloved](kāntā) [tripurā](tripurā) [world-mistress](jagadīśvarī)
 
 ## mukta-m0-p100-v2494
-[river](sarit) [kādambarī](kādambarī) [monitor-lizard](godhā) [secret-kālī](guhya+kālī) [mistress-of-the-gaṇas](gaṇa+īśvarī)
+[river](saritkādambarī) [iguana](godhā) [secret-kālī](guhyakālī) [mistress-of-gaṇas](gaṇeśvarī)
 
 ## mukta-m0-p100-v2495
-[consisting-of-austerity](tapaḥ+mayī) [difficult-to-support](durālamvā) [remover-of-evil-planets](duṣṭa+graha+nivāriṇī)
+[composed-of-austerity](tapomayī) [hard-to-attain](durālamvā) [remover-of-evil-planets](duṣṭagrahanivāriṇī)
 
 ## mukta-m0-p100-v2496
-[nectar](sudhā) [abode-of-the-moon](sudhāṃśu+nilayā) [resembling-the-fire-of-dissolution](pralaya+anala+saṃnibhā)
+[nectar](sudhā) [abode-of-moon](sudhāṃśunilayā) [resembling-doom-fire](pralayānalasaṃnibhā)
 
 ## mukta-m0-p100-v2497
-[mistress-of-knowledge](vidyā+īśvarī) [consisting-of-the-universe](viśva+mayī) [cosmic-form](virāṭ) [meter](chandaḥ) [path](gatiḥ) [intellect](matiḥ)
+[mistress-of-knowledge](vidyeśvarī) [all-pervading](viśvamayī) [cosmic-form](virāṭ) [meter](chando) [refuge](gatirmatiḥ)
 
 ## mukta-m0-p100-v2498
-[most-venerable](gariṣṭhā) [destroyer-of-misfortune](ariṣṭa+hā) [faultless](aduṣṭā) [compassion](kṛpā) [kāśī](kāśī) [kula-and-akula](kula+akulā)
+[heaviest](gariṣṭhāriṣṭahā'duṣṭā) [compassion](kṛpā) [kāśī](kāśī) [beyond-clans](kulākulā)
 
 ## mukta-m0-p100-v2499
-[odd-eyed](virūpa+akṣī) [hollow-eyed](koṭara+akṣī) [beloved-of-the-lineage](kula+kāntā) [unconquered](aparājitā)
+[odd-eyed](virūpākṣī) [hollow-eyed](koṭarākṣī) [beloved-of-family](kulakāntāparājitā)
 
 ## mukta-m0-p100-v2500
-[threefold](tritayī) [arrangement-of-the-vedas](veda+vinyāsā) [renunciation](saṃnyāsā) [good-minded](su+matiḥ) [fear](bhayā)
+[triad](tritayī) [arranger-of-vedas](vedavinyāsā) [renunciation](saṃnyāsā) [good-wisdom](sumatirbhayā)

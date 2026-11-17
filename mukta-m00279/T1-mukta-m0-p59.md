@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p59-v1451
-[thus] (evaṃ) [of-such-kinds+by-many+signs] (vidhaiḥ+bahu+liṅgaiḥ) [to-be-known] (boddhavyaṃ) [by-death+impelled] (mṛtyu+coditaiḥ)
+[thus](evaṃ) [by-various](vidhaiḥ) [many](bahu) [signs](liṅgaiḥ) [to-be-understood](boddhavyaṃ) [death](mṛtyu) [impelled](coditaiḥ)
 
 ## mukta-m0-p59-v1452
-[this] (idaṃ) [o-three+eyed-one] (tri+netra) [declared] (saṃproktaṃ) [at-sun+rise] (bhāskara+udaye) [of-the-yogin] (yoginaḥ)
+[this](idaṃ) [three-eyed](trinetra) [declared](saṃproktaṃ) [yogis](yoginaḥ) [at-sunrise](bhāskarodaye)
 
 ## mukta-m0-p59-v1453
-[then] (tataḥ) [the-yogin] (yogī) [pure+having-become] (śuciḥ+bhūtvā) [steadfast] (dhīraḥ) [in-yoga+seat] (yoga+āsane) [seated] (sthitaḥ)
+[then](tataḥ) [yogi](yogī) [pure](śuciḥ) [becoming](bhūtvā) [steadfast](dhīraḥ) [in-yoga-seat](yogāsane) [standing](sthitaḥ)
 
 ## mukta-m0-p59-v1454
-[un-distracted+always] (apramattaḥ+sadā) [should-remain] (tiṣṭhet) [engaged] (yuktaḥ) [to-sound+oneness] (nāda+ekatāṃ) [gone] (gataḥ)
+[not-careless](apramattaḥ) [always](sadā) [let-stand](tiṣṭhet) [joined](yuktaḥ) [to-sound-unity](nādaikatāṃ) [gone](gataḥ)
 
 ## mukta-m0-p59-v1455
-[nine+powers+thus] (nava+śakti+iti) [transition] (saṅkrānti) [at-time] (kāle) [indeed] (vai) [should-observe+always] (kalayet+sadā)
+[nine](nava) [powers](śaktī) [thus](iti) [transit](saṅkrānti) [at-time](kāle) [vai](vai) [let-count](kalayet) [always](sadā)
 
 ## mukta-m0-p59-v1456
-[which] (ye) [indeed] (tu) [at-transition] (saṅkrāntike) [vital-breaths] (prāṇāḥ) [in-suṣumnā] (suṣumnā) [indeed] (tu) [situated] (sthitaḥ) [flows] (vahet)
+[those](ye) [tu](tu) [at-transit](saṅkrāntike) [prāṇas](prāṇāḥ) [suṣumnā](suṣumnā) [tu](tu) [standing](sthitaḥ) [let-carry](vahet)
 
 ## mukta-m0-p59-v1457
-[by-day+night] (aho+rātreṇa) [and+year+one] (ca+abda+ekaṃ) [the-yogin] (yogī) [to-live+I-wish] (jīvitum+icchāmi)
+[by-day-and-night](ahorātreṇa) [ca](ca) [one-year](abdaikaṃ) [yogi](yogī) [to-live](jīvitum) [wishes](icchami)
 
 ## mukta-m0-p59-v1458
-[?] (**?) [rabdantu] (rabdantu) [to-be-known+by-four+four+years] (vijñeyaṃ+caturbhiḥ+catur+abdikam)
+[?](?) [to-be-known](vijñeyaṃ) [by-four](caturbhiḥ) [four-year](caturabdikam)
 
 ## mukta-m0-p59-v1459
-[six+seven+eight+day] (ṣaṭ+sapta+aṣṭa+dine) [elapsed] (vyūḍhe) [that-many+years] (tāvat+varṣāṇi) [lives] (jīvati)
+[six-seven-eight](ṣaṭsaptāṣṭa) [day](dine) [deployed](vyūḍhe) [so-many](tāvat) [years](varṣāṇi) [lives](jīvati)
 
 ## mukta-m0-p59-v1460
-[sometimes+o-lord-of-parts] (kadācit+śakala+īśānaḥ) [seven+watch+departure] (sapta+prahara+nirgamam)
+[sometimes](kadācit) [lord](śakaleśānaḥ) [seven-watch](saptaprahara) [exit](nirgamam)
 
 ## mukta-m0-p59-v1461
-[five+upward] (pañcakaḥ+ūrdha) [*] (*) [*] (*) [*?] (*?) [by-four+month+living] (caturbhiḥ+māsa+jīvinaḥ)
+[five](pañcakaḥ) [?](?) [?](?) [by-four](caturbhiḥ) [months](māsa) [living](jīvinaḥ)
 
 ## mukta-m0-p59-v1462
-[watch+two] (prahara+dvayaṃ) [likewise] (tathā) [elapsed] (vyūḍhaṃ) [days+eight] (dināni+aṣṭau) [he] (saḥ) [lives] (jīvati)
+[watch-two](praharadvayaṃ) [thus](tathā) [deployed](vyūḍhaṃ) [days](dināni) [eight](aṣṭau) [he](saḥ) [lives](jīvati)
 
 ## mukta-m0-p59-v1463
-[watch+half] (prahara+ardhaṃ) [flows+for-whom] (vahet+yasya) [he] (saḥ) [lives] (jīvati) [day+two] (dina+dvayam)
+[watch-half](praharārdhaṃ) [let-carry](vahet) [whose](yasya) [he](saḥ) [lives](jīvati) [two-days](dinadvayam)
 
 ## mukta-m0-p59-v1464
-[which] (yaṃ) [or] (vā) [time] (kālaṃ) [having-mounted] (samāruhya) [flows] (pravahet) [*] (*) [*] (*) [*] (*) [*] (*) [?] (?) [which] (yam)
+[which](yaṃ) [or](vā) [time](kālaṃ) [having-ascended](samāruhya) [let-carry](pravahet) [?](?) [?](?) [?](?) [?](?) [yam](yam)
 
 ## mukta-m0-p59-v1465
-[northern+course+born] (uttara+ayana+je) [at-time] (kāle) [told] (kathitaṃ) [to-you] (tava) [o-beautiful-one] (śobhane)
+[northern-course](uttarāyaṇa) [time](kāle) [told](kathitaṃ) [your](tava) [beautiful](śobhane)
 
 ## mukta-m0-p59-v1466
-[ear+path+made+thumbs] (śrotra+mārga+kṛta+aṅguṣṭhau) [sound] (ghoṣaṃ) [not] (na) [hears] (śṛṇute) [man] (naraḥ)
+[ear-path](śrotramārga) [made-thumbs](kṛtāṅguṣṭhau) [sound](ghoṣaṃ) [not](na) [hears](śṛṇute) [man](naraḥ)
 
 ## mukta-m0-p59-v1467
-[kāravam] (kāravam)
+[kāravam](kāravam)
 
 ## mukta-m0-p59-v1468
-[having-produced+and] (utpādya+ca) [likewise+having-heard] (tathā+ākarṇya) [death+yoga] (mṛtyu+yogaṃ) [likewise+indeed] (tathā+eva) [and] (ca)
+[to-be-produced](utpādyaṃ) [ca](ca) [thus](tathā) [having-heard](ākarṇya) [death-yoga](mṛtyuyogaṃ) [thus](tathā) [eva](eva) [ca](ca)
 
 ## mukta-m0-p59-v1469
-[yogin] (yogī) [mouth+inner+multitude] (vaktra+anta+nivahaṃ) [time+transition+fivefold] (kāla+saṅkrānti+pañcakam)
+[yogi](yogī) [mouth-end](vaktrānta) [multitude](nivahaṃ) [time-transit](kālasaṅkrānti) [five](pañcakam)
 
 ## mukta-m0-p59-v1470
-[wealth+loss+mind+agitation] (dravya+hāniḥ+manaḥ+udvegaṃ) [may-cause+disease+increase] (kuryāt+roga+vivardhanam)
+[loss-of-substance](dravyahāniḥ) [mind-distress](manodvegaṃ) [let-do](kuryāt) [disease-increase](rogavivardhanam)
 
 ## mukta-m0-p59-v1471
-[nostril+right+opening] (nāsikā+dakṣiṇa+puṭe) [southern+course+life] (dakṣiṇa+ayana+jīvite)
+[right-nostril](nāsikādakṣiṇapuṭe) [southern-course](dakṣiṇāyana) [living](jīvite)
 
 ## mukta-m0-p59-v1472
-[left+nostril+opening+situated-within] (vāma+ghrāṇa+puṭa+antasthaṃ) [by-transition+indeed+eight+fivefold] (saṅkrāntyā+hi+aṣṭa+pañcakam)
+[left-nostril-inside](vāmaghrāṇapuṭāntasthaṃ) [transit](saṅkrāntyā) [eight-five](aṣṭapañcakam)
 
 ## mukta-m0-p59-v1473
-[disease-free] (nīroga) [urinary-disorder+and] (prameha+ca) [urine+difficulty+may-cause] (mūtra+kṛcchra+kāpayet)
+[disease-free](nīroga) [diabetes](pramehaṃ) [ca](ca) [urinary-obstruction](mūtrakṛcchraṃ) [let-cause](kāpayet)
 
 ## mukta-m0-p59-v1474
-[at-which+time] (yat+kāle) [flows] (vahate) [wind] (vāyuḥ) [at-that+time] (tat+kāle) [on-day] (divase) [next] (pare)
+[which-time](yatkāle) [carries](vahate) [wind](vāyuḥ) [that-time](tatkāle) [day](divase) [next](pare)
 
 ## mukta-m0-p59-v1475
-[then+upward+touch+appearing] (ataḥ+ūrdhva+sparśa+bhaṃ) [sign] (lakṣaṃ) [nose+below+indeed] (nāsā+adhastāt+tu) [**?] (**?) [ri] (ri)
+[above-touch](atordhvasparśabhaṃ) [lakh](lakṣaṃ) [nose-below](nāsādhastāt) [?](?) [ri](ri)
