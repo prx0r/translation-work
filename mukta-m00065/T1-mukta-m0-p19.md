@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p19-v451
-red (raktā) yellow (pītā) and (ca) king's (bhūpasya) people's (viśaḥ) dark-kulattha-colored (śyāma-kulattha-bhāḥ)
+[red](raktā) [yellow](pītā) [and](ca) [of-king](bhūpasya) [people](viśaḥ) [dark](śyāma)+[horse-gram](kulattha)+[colored](bhāḥ)
 
 ## mukta-m0-p19-v452
-rainbow-like-streaks (indra-cāpa-upamā-rekhāḥ) all-prosperity-wealth-fortune-giving (sarva-āśrī-vasu-bhūti-dāḥ)
+[indra](indra)+[bow](cāpa)+[like](upama)+[streaks](rekhāḥ) [all](sarvā)+[beauty](śrī)+[wealth](vasu)+[prosperity](bhūti)+[giving](dāḥ)
 
 ## mukta-m0-p19-v453
-mark-rich (lakṣaṇa-āḍhyā) few-faults (alpa-doṣā) which (yā) acceptable (grāhyā) that (sā) homa-purified (homa-śodhitā)
+[marks](lakṣaṇa)+[rich](āḍhyā) [few](alpa)+[faults](doṣā) [which](yā) [acceptable](grāhyā) [that](sā) [homa](homa)+[purified](śodhitā)
 
 ## mukta-m0-p19-v454
-in Indra-Ishana-moon-directions (indreśāna-indu-kāṣṭhāsu) its (tasyā) head (mastaka) desired (iṣyate)
+[indra](indra)+[īśāna](īśāna)+[moon](indu)+[eighth](aṣṭha)+[in](su) [its](tasyā) [head](mastaka) [desired](iṣyate)
 
 ## mukta-m0-p19-v455
-in three-kinds (trividheṣu-api) in lingas (liṅgeṣu) in stone (śilāyām) no-other (na-aparaḥ) rite (vidhiḥ)
+[three](trividheṣu) [api](api) [liṅgeṣu](liṅgeṣu) [stone](śilāyāṃ) [no](na) [other](aparaḥ) [rite](vidhiḥ)
 
 ## mukta-m0-p19-v456
-faults (doṣān) old-etc (vṛddha-ādikān) we-say (brūmaḥ) and (ca) eighty-eight (aṣṭāśīti) varieties (prabhedataḥ)
+[faults](doṣān) [old-etc](vṛddhādikān) [we-say](brūmaḥ) [eighty-eight](aṣṭāśīti)+[kinds](prabhedataḥ)
 
 ## mukta-m0-p19-v457
-hollow (śūṣiram) blister (sphoṭakam) sky (vyomam) paste (gārā) film-net (paṭala-jālakam)
+[hollow](śūṣiraṃ) [blister](sphoṭakaṃ) [sky](vyomaṃ) [mud](gārā) [patch](paṭala)+[net](jālakam)
 
 ## mukta-m0-p19-v458
-characteristics (lakṣaṇam) I-tell (kathayāmi) of-these (eṣām) briefly (saṃkṣepeṇa) by-types (prabhedataḥ)
+[marks](lakṣaṇaṃ) [I-tell](kathayāmi) [these](eṣāṃ) [briefly](saṃkṣepeṇa) [by-kinds](prabhedataḥ)
 
 ## mukta-m0-p19-v459
-harsh (niṣṭhurā) and (ca) very-rough (ati-rūkṣā) and (ca) old (vṛddhā) work-destroying (kārya-vināśinī)
+[harsh](niṣṭhurā) [very-rough](atirūkṣā) [old](vṛddhā) [work-destroying](kāryavināśinī)
 
 ## mukta-m0-p19-v460
-chisel-strike-intolerant (ṭaṅka-ghāta-asahiṣṇum) and (ca) not (na) that (tām) to-deity (devāya) use (yojayet)
+[hammer-blow](ṭaṅkaghāta)+[intolerant](asahiṣṇuṃ) [ca](ca) [not](na) [that](tāṃ) [to-deity](devāya) [use](yojayet)
 
 ## mukta-m0-p19-v461
-therefore (tasmāt) image-made (bimba-ātmakam) and (ca) stone (aśma) cut (saṃchindyāt) wood (dāru) indeed (vai) likewise (tathā)
+[therefore](tasmāt) [image-made](bimbātmakaṃ) [stone](aśma) [cut](saṃchindyāt) [wood](dāru) [so](vai) [thus](tathā)
 
 ## mukta-m0-p19-v462
-seven-other (sapta-anyāni) and (ca) colors (citrāṇi) fourfold (caturdhā) plastering (lepanam) likewise (tathā)
+[seven](sapta) [other](anyāni) [variegated](citrāṇi) [ca](ca) [fourfold](caturdhā) [plastering](lepanaṃ) [tathā](tathā)
 
 ## mukta-m0-p19-v463
-brown (kāpilam) orpiment-colored (haritāla-ābham) pigeon-colored (kāpota) bee-color (ali-varṇakam)
+[kapila](kāpilaṃ) [orpiment-colored](haritālābhaṃ) [pigeon](kāpota) [dark-colored](alivarṇakam)
 
 ## mukta-m0-p19-v464
-flame-tree-colored (kiṃśuka-ābham) safflower-colored (kusumbha-ābham) flax-flower-similar (atasī-puṣpa-sannibham)
+[kiṃśuka-colored](kiṃśukābhaṃ) [safflower-colored](kusumbhābhaṃ) [flax-flower](atasīpuṣpa)+[similar](sannibham)
 
 ## mukta-m0-p19-v465
-champak-colored (campaka-ābham) and (ca) blue-colored (nīla-ābham) mixed-red-yellow (miśra-lohita-pītakam)
+[champaka-colored](campakābhaṃ) [ca](ca) [blue-colored](nīlābhaṃ) [mixed-red-yellow](miśralohitapītakam)
 
 ## mukta-m0-p19-v466
-red (raktaṃ) and (ca) pale (pāṇḍaram) and-indeed (ca-eva) womb-faults (garbha-doṣān) I-say (vadāmi) ata
+[red](raktaṃ) [ca](ca) [pale](pāṇḍaraṃ) [ca](ca) [eva](eva) [womb-faults](garbhadoṣān) [I-say](vadāmi) [ataḥ](ataḥ)
 
 ## mukta-m0-p19-v467
-jaggery-colored (guḍa-varṇe) stone (śilā) other (anyā) is (syāt) by-that (tena) no-rain (an-āvṛṣṭiḥ) becomes (bhavet) long (ciram)
+[jaggery-colored](guḍavarṇe) [stone](śilā) [other](anyā) [syāt](syāt) [tena](tena) [no-rain](avṛṣṭiḥ) [becomes](bhavet) [long](ciram)
 
 ## mukta-m0-p19-v468
-madder-colored (mañjiṣṭhā-ābhe) becomes (bhavet) frog (bhekaḥ) crop-destruction (śasya-nāśaḥ) from-water (jalāt) fear (bhayam)
+[madder-colored](mañjiṣṭhābhe) [frog](bhekaḥ) [crop-destruction](śasyanāśaḥ) [water-fear](jalādbhayam)
 
 ## mukta-m0-p19-v469
-in-yellow (pīte) lizard (godhā) king (nṛpam) kills (hanyāt) ant (aṅṭavām) pain-causing (pīḍā-karī) and (ca) that (sā)
+[yellow](pīte) [iguana](godhā) [king](nṛpaṃ) [kills](hanyāt) [pain-causing](pīḍākarī) [ca](ca) [sā](sā)
 
 ## mukta-m0-p19-v470
-palm-colored (tāla-ābhe) crab (karkaṭaḥ) bile-disease (pitta-roga) famine-causing (darbha-ikṣa-kṛt) and (ca) that (saḥ)
+[palm-colored](tālābhe) [crab](karkaṭaḥ) [bile-disease](pittaroga) [famine](darbhikṣa)+[maker](kṛt) [ca](ca) [saḥ](saḥ)
 
 ## mukta-m0-p19-v471
-elder (jyeṣṭhā) pigeon-throat-colored (kapota-kaṇṭha-ābhe) disease-poverty-fear-giving (vyādhi-dāridrya-bhīti-dā)
+[eldest](jyeṣṭhā) [pigeon-throat-colored](kapotakaṇṭhābhe) [disease](vyādhi)+[poverty](dāridrya)+[fear](bhīti)+[giving](dā)
 
 ## mukta-m0-p19-v472
-in-blue (nīlake) fly (makṣikā) that (sā) and (ca) kills (hanyāt) wife (bhāryām) with-son-desiring (sa-putra-kām)
+[blue](nīlake) [fly](makṣikā) [sā](sā) [ca](ca) [kills](hanyāt) [wife](bhāryāṃ) [with-sons](saputrakām)
 
 ## mukta-m0-p19-v473
-king's-destruction (nṛpa-kṣī) blue-jay-colored (cāṣa-varṇe) is (syāt) by-that (tena) maker's-progeny-destruction (kartuḥ-prajā-kṣayaḥ)
+[king-vulture](nṛpakṣī) [ca](ca) [crow-colored](aṣavarṇe) [syāt](syāt) [tena](tena) [maker's](kartuḥ) [progeny-destruction](prajākṣayaḥ)
 
 ## mukta-m0-p19-v474
-in-flame-tree (kiṃśuke) indra's-protector (śakragopaḥ) is (syāt) by-that (tena) king's (rājñaḥ) wealth-destruction (dhana-kṣayaḥ)
+[kiṃśuka](kiṃśuke) [indra's-protector](śakragopaḥ) [syāt](syāt) [tena](tena) [king's](rājñaḥ) [wealth-destruction](dhanakṣayaḥ)
 
 ## mukta-m0-p19-v475
-flax-flower-like (atasī-puṣpa-saṃkāśe) in-womb (garbhe) know (vidyāt) ant (pipīlikā)
+[flax-flower-similar](atasīpuṣpasaṃkāśe) [in-womb](garbhe) [know](vidyāt) [ant](pipīlikā)

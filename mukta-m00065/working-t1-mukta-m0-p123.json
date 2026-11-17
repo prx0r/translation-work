@@ -32,7 +32,7 @@
 },
 {
 "surface": "pavitrakam",
-"quick_gloss": "purifier"
+"quick_gloss": "sacred-thread"
 }
 ]
 },
@@ -49,7 +49,7 @@
 },
 {
 "surface": "nivedayen",
-"quick_gloss": "should-offer"
+"quick_gloss": "offer"
 },
 {
 "surface": "mūrdhni",
@@ -61,7 +61,7 @@
 },
 {
 "surface": "āmṛtīkṛtam",
-"quick_gloss": "made-nectar"
+"quick_gloss": "nectar-made"
 }
 ]
 },
@@ -94,7 +94,7 @@
 },
 {
 "surface": "kuryāt",
-"quick_gloss": "should-do"
+"quick_gloss": "do"
 },
 {
 "surface": "svavittataḥ",
@@ -122,12 +122,8 @@
 "quick_gloss": "bathing"
 },
 {
-"surface": "jalāntaraiḥ",
-"quick_gloss": "with-water-pours"
-},
-{
-"surface": "virukṣaṇam",
-"quick_gloss": "sprinkling"
+"surface": "jalāntarairvirukṣaṇam",
+"quick_gloss": "with-water-purification"
 }
 ]
 },
@@ -160,7 +156,7 @@
 },
 {
 "surface": "prapūjayet",
-"quick_gloss": "should-worship"
+"quick_gloss": "worship"
 }
 ]
 },
@@ -181,7 +177,7 @@
 },
 {
 "surface": "veśma",
-"quick_gloss": "house"
+"quick_gloss": "dwelling"
 },
 {
 "surface": "ghaṭācāmarabhūṣaṇaiḥ",
@@ -202,7 +198,7 @@
 },
 {
 "surface": "jātabījasarocakaiḥ",
-"quick_gloss": "born-seed-pleasing"
+"quick_gloss": "born-seed-fragrant"
 }
 ]
 },
@@ -227,7 +223,7 @@
 },
 {
 "surface": "nayedrātriṃ",
-"quick_gloss": "should-spend-night"
+"quick_gloss": "spend-night"
 },
 {
 "surface": "mahotsavaiḥ",
@@ -248,7 +244,7 @@
 },
 {
 "surface": "santoṣayet",
-"quick_gloss": "should-please"
+"quick_gloss": "please"
 },
 {
 "surface": "sarvān",
@@ -293,12 +289,8 @@
 "quick_gloss": "false-speech-on-bed"
 },
 {
-"surface": "strīyātrā",
-"quick_gloss": "woman-travel"
-},
-{
-"surface": "miṣavarjakaḥ",
-"quick_gloss": "meat-avoider"
+"surface": "strīyātrāmiṣavarjakaḥ",
+"quick_gloss": "women-travel-meat-avoider"
 }
 ]
 },
@@ -327,11 +319,15 @@
 },
 {
 "surface": "pavitraṃ",
-"quick_gloss": "purifier"
+"quick_gloss": "sacred-thread"
+},
+{
+"surface": "ca",
+"quick_gloss": "and"
 },
 {
 "surface": "visarjayet",
-"quick_gloss": "should-release"
+"quick_gloss": "release"
 }
 ]
 },
@@ -348,11 +344,11 @@
 },
 {
 "surface": "kṣipet",
-"quick_gloss": "should-cast"
+"quick_gloss": "throw"
 },
 {
 "surface": "pavitrāṇi",
-"quick_gloss": "purifiers"
+"quick_gloss": "sacred-threads"
 },
 {
 "surface": "śivāgnau",
@@ -376,8 +372,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "syātprāyaścittyadhogāmī",
-"quick_gloss": "should-be-expiation-descending"
+"surface": "syāt",
+"quick_gloss": "becomes"
+},
+{
+"surface": "prāyaścittyadhogāmī",
+"quick_gloss": "expiation-descending"
 },
 {
 "surface": "kṛtaḥ",
@@ -389,7 +389,7 @@
 },
 {
 "surface": "koṭiśaḥ",
-"quick_gloss": "crores"
+"quick_gloss": "ten-million"
 }
 ]
 },
@@ -427,7 +427,7 @@
 },
 {
 "surface": "dguhyakāḥ",
-"quick_gloss": "yakṣas"
+"quick_gloss": "goblins"
 },
 {
 "surface": "sarve",
@@ -460,15 +460,15 @@
 },
 {
 "surface": "ca",
-"quick_gloss": "and"
+"quick_gloss": "ca"
 },
 {
-"surface": "indranīlārcanāt",
-"quick_gloss": "from-sapphire-worship"
+"surface": "indranīlāt",
+"quick_gloss": "from-sapphire"
 },
 {
 "surface": "hariḥ",
-"quick_gloss": "hari"
+"quick_gloss": "viṣṇu"
 }
 ]
 },
@@ -480,24 +480,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "vaidrumāsyāt",
-"quick_gloss": "from-coral-mouth"
-},
-{
-"surface": "arcana",
-"quick_gloss": "worship"
+"surface": "vaidrumāt",
+"quick_gloss": "from-coral"
 },
 {
 "surface": "nāgāḥ",
-"quick_gloss": "nāgas"
+"quick_gloss": "serpents"
 },
 {
 "surface": "śukraḥ",
-"quick_gloss": "śukra"
+"quick_gloss": "mercury"
 },
 {
 "surface": "kārketanāt",
-"quick_gloss": "from-carnelian"
+"quick_gloss": "from-crystal"
 },
 {
 "surface": "sadā",
@@ -518,7 +514,7 @@
 },
 {
 "surface": "jīvajātibhyaḥ",
-"quick_gloss": "from-jīva-births"
+"quick_gloss": "from-jīva-species"
 },
 {
 "surface": "aṣṭai",
@@ -555,7 +551,7 @@
 },
 {
 "surface": "dārasambhavāt",
-"quick_gloss": "from-wife-birth"
+"quick_gloss": "from-wood"
 }
 ]
 },
@@ -568,11 +564,15 @@
 "tokens": [
 {
 "surface": "kūrmakauśi",
-"quick_gloss": "kūrma-kuśi"
+"quick_gloss": "from-tortoise-kauśika"
 },
 {
-"surface": "kasabhūtāt",
+"surface": "kasi",
 "quick_gloss": "from-kasi"
+},
+{
+"surface": "bhūtāt",
+"quick_gloss": "from-earth"
 },
 {
 "surface": "vāsukinayināyakaḥ",
@@ -589,7 +589,7 @@
 "tokens": [
 {
 "surface": "liṅgasaṃsthāpanārcanāt",
-"quick_gloss": "from-liṅga-establishment-worship"
+"quick_gloss": "from-liṅga-installation-worship"
 }
 ]
 },
@@ -602,7 +602,7 @@
 "tokens": [
 {
 "surface": "somapāḥ",
-"quick_gloss": "somapas"
+"quick_gloss": "somapāḥ"
 }
 ]
 },
@@ -648,11 +648,11 @@
 },
 {
 "surface": "ca",
-"quick_gloss": "and"
+"quick_gloss": "ca"
 },
 {
-"surface": "śacīśo",
-"quick_gloss": "śacī-lord"
+"surface": "śacīśaḥ",
+"quick_gloss": "śacīśa"
 },
 {
 "surface": "lavaṇo",

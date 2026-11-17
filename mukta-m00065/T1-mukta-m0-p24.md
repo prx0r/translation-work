@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p24-v576
-[yāni](yāni) [yāni](yāni) [ca](ca) [nāmāni](nāmāni) [tāni](tāni) [tāni](tāni) [pṛthak](pṛthak) [bruve](bruve)
+[which](yāni) [which](yāni) [and](ca) [names](nāmāni) [those](tāni) [those](tāni) [separately](pṛthag) [speaks](bruve)
 
 ## mukta-m0-p24-v577
-[sparśa](sparśa) [śabda](śabda) [īśvaraḥ](īśvaraḥ) [nāsā](nāsā) [jihvā](jihvā) [akṣi](akṣi) [tvak](tvak) [śruti](śruti) [īśvarāḥ](īśvarāḥ)
+[touch-sound-lord](sparśaśabdeśvaro) [nose](nāsā) [tongue-eye-skin-ear-lords](jihvākṣitvakśrutīśvarāḥ)
 
 ## mukta-m0-p24-v578
-[vacana](vacana) [grahaṇa](grahaṇa) [utsarga](utsarga) [ānanda](ānanda) [pragamana](pragamana) [īśvarāḥ](īśvarāḥ)
+[speech-grasping-release-joy-progression-lords](vacanagrahaṇotsargānandapragamaneśvarāḥ)
 
 ## mukta-m0-p24-v579
-[prakṛti](prakṛti) [īśaḥ](īśaḥ) [pumān](pumān) [ca](ca) [eva](eva) [madhyānām](madhyānām) [daśa](daśa) [pañca](pañca) [ca](ca)
+[nature-lord](prakṛtīśaḥ) [man](pumāṃs) [and](ca) [indeed](eva) [of-middle](madhyānāṃ) [ten](daśa) [five](pañca) [and](ca)
 
 ## mukta-m0-p24-v580
-[vidyā](vidyā) [īśvaraḥ](īśvaraḥ) [patiḥ](patiḥ) [sraṣṭā](sraṣṭā) [garutmān](garutmān) [sakalaḥ](sakalaḥ) [akalaḥ](akalaḥ)
+[knowledge-lord](vidyeśvaraḥ) [lord](patiḥ) [creator](sraṣṭā) [winged](garutmāna) [whole](sakalaḥ) [partless](akalaḥ)
 
 ## mukta-m0-p24-v581
-[śāntaḥ](śāntaḥ) [ca](ca) [ajaḥ](ajaḥ) [mahā](mahā) [tejā](tejā) [dvār](dvār) [māna](māna) [āt](āt) [uttamam](uttamam) [trayam](trayam)
+[peaceful](śāntaḥ) [and](ca) [unborn](ajaḥ) [great-radiance](mahātejā) [door-measure](dvārmāna) [supreme](uttamam) [three](trayam)
 
 ## mukta-m0-p24-v582
-[skandaḥ](skandaḥ) [sūkṣmaḥ](sūkṣmaḥ) [ambikā](ambikā) [nāthaḥ](nāthaḥ) [trayam](trayam) [dvārāt](dvārāt) [tathā](tathā) [adhamam](adhamam)
+[skanda](skandaḥ) [subtle](sūkṣmaḥ) [mother-lord](ambikānāthaḥ) [three](trayaṃ) [from-door](dvārāt) [thus](tathā) [lowest](adhamam)
 
 ## mukta-m0-p24-v583
-[bhujaṅgī](bhujaṅgī) [vṛṣabhī](vṛṣabhī) [siṃhī](siṃhī) [uttamā](uttamā) [nava](nava) [garbha](garbha) [jāḥ](jāḥ)
+[serpent-female](bhujaṅgī) [bull-female](vṛṣabhī) [lion-female](siṃhī) [supreme](uttamā) [nine](nava) [womb-born](garbhajāḥ)
 
 ## mukta-m0-p24-v584
-[vyāpī](vyāpī) [śūlī](śūlī) [viśālī](viśālī) [cet](cet) [adhamā](adhamā) [nava](nava) [garbha](garbha) [jāḥ](jāḥ)
+[pervading](vyāpī) [trident-bearer](śūlī) [wide](viśālī) [thus](cet) [lowest](adhamā) [nine](nava) [womb-born](garbhajāḥ)
 
 ## mukta-m0-p24-v585
-[sarvajñaḥ](sarvajñaḥ) [atha](atha) [vṛṣa](vṛṣa) [dhvajaḥ](dhvajaḥ) [niyāmaḥ](niyāmaḥ) [pāpa](pāpa) [hā](hā) [dhruvaḥ](dhruvaḥ)
+[all-knowing](sarvajñaḥ) [then](atha) [bull-bannered](vṛṣadhvajaḥ) [restrainer](niyāmaḥ) [sin-destroyer](pāpahā) [fixed](dhruvaḥ)
 
 ## mukta-m0-p24-v586
-[śambhuḥ](śambhuḥ) [sthāṇuḥ](sthāṇuḥ) [haraḥ](haraḥ) [ḍiṇḍī](ḍiṇḍī) [hartā](hartā) [kartā](kartā) [śivaḥ](śivaḥ) [avyayaḥ](avyayaḥ)
+[auspicious](śambhuḥ) [pillar](sthāṇuḥ) [hara](haro) [ḍiṇḍī](ḍiṇḍī) [taker](hartā) [doer](kartā) [śiva](śivaḥ) [imperishable](avyayaḥ)
 
 ## mukta-m0-p24-v587
-[bhadraḥ](bhadraḥ) [atha](atha) [vimalaḥ](vimalaḥ) [jyeṣṭhaḥ](jyeṣṭhaḥ) [gāṇḍīvaḥ](gāṇḍīvaḥ) [puṣṭi](puṣṭi) [vardhanaḥ](vardhanaḥ)
+[auspicious](bhadraḥ) [then](atha) [spotless](vimalaḥ) [eldest](jyeṣṭhaḥ) [gāṇḍīva](gāṇḍīvaḥ) [nourishment-increaser](puṣṭivardhanaḥ)
 
 ## mukta-m0-p24-v588
-[nava](nava) [ete](ete) [hasta](hasta) [mānena](mānena) [tu](tu) [adhamāḥ](adhamāḥ) [parikīrtitāḥ](parikīrtitāḥ)
+[nine](nava) [these](ete) [hand-measure](hastamānena) [you-lowest](tvadhamāḥ) [declared](parikīrtitāḥ)
 
 ## mukta-m0-p24-v589
-[ṣaḍ](ṣaḍ) [ādi](ādi) [daśa](daśa) [paryantam](paryantam) [cala](cala) [liṅgam](liṅgam) [ca](ca) [madhyamam](madhyamam)
+[six-beginning-ten-end](ṣaḍādidaśaparyantam) [movable-linga](calaliṅgaṃ) [and](ca) [middle](madhyamam)
 
 ## mukta-m0-p24-v590
-[śreṣṭha](śreṣṭha) [liṅga](liṅga) [pramāṇam](pramāṇam) [tat](tat) [jyeṣṭha](jyeṣṭha) [ādi](ādi) [aṅguli](aṅguli) [lakṣitam](lakṣitam)
+[best-linga-measure](śreṣṭhaliṅgapramāṇaṃ) [that](tad) [eldest-beginning-finger-marked](jyeṣṭhādyaṅgulilakṣitam)
 
 ## mukta-m0-p24-v591
-[ravibhiḥ](ravibhiḥ) [hema](hema) [tāra](tāra) [uttham](uttham) [liṅgam](liṅgam) [śeṣaiḥ](śeṣaiḥ) [strī](strī) [pañcabhiḥ](pañcabhiḥ)
+[by-suns](ravibhiḥ) [gold-star-risen](hematārotthaṃ) [linga](liṅgaṃ) [by-remainders](śeṣaiḥ) [women-five](stripañcabhiḥ)
 
 ## mukta-m0-p24-v592
-[ārogyam](ārogyam) [rājya](rājya) [saukhyam](saukhyam) [ca](ca) [nṛpa](nṛpa) [śrī](śrī) [jaya](jaya) [loka](loka) [kṛt](kṛt)
+[health](ārogyaṃ) [kingdom-happiness](rājyasaukhyaṃ) [and](ca) [king-glory-victory-world-maker](nṛpaśrījayalokakṛt)
 
 ## mukta-m0-p24-v593
-[cala](cala) [liṅgāt](liṅgāt) [bhavet](bhavet) [kāryam](kāryam) [sādhakānām](sādhakānām) [kvacit](kvacit) [mate](mate)
+[from-movable-linga](calaliṅgāt) [becomes](bhavet) [work](kāryaṃ) [of-practitioners](sādhakānāṃ) [sometimes](kvacin) [opinion](mate)
 
 ## mukta-m0-p24-v594
-[dvātriṃśat](dvātriṃśat) [ṣoḍaśa](ṣoḍaśa) [aṃśāḥ](aṃśāḥ) [ca](ca) [koṇayoḥ](koṇayoḥ) [tu](tu) [vilopayet](vilopayet)
+[thirty-two-sixteen-parts](dvātriṃśatṣoḍaśāṃśāḥ) [and](ca) [in-corners](koṇayoḥ) [indeed](tu) [remove](vilopayet)
 
 ## mukta-m0-p24-v595
-[pārśvābhyām](pārśvābhyām) [tu](tu) [viluptābhyām](viluptābhyām) [cala](cala) [liṅgam](liṅgam) [bhaved](bhaved) [varam](varam)
+[by-sides](pārśvābhyāṃ) [indeed](tu) [removed](viluptābhyāṃ) [movable-linga](calaliṅgaṃ) [becomes](bhaved) [excellent](varam)
 
 ## mukta-m0-p24-v596
-[liṅgam](liṅgam) [dvāra](dvāra) [ucchrayāt](ucchrayāt) [ardhāt](ardhāt) [bhavet](bhavet) [pāda](pāda) [onataḥ](onataḥ) [kramāt](kramāt)
+[linga](liṅgaṃ) [from-door-height-half](dvārocchrayādardhāt) [becomes](bhavet) [quarter-bent](pādonataḥ) [in-order](kramāt)
 
 ## mukta-m0-p24-v597
-[tayoḥ](tayoḥ) [madhye](madhye) [ca](ca) [sūtrāṇi](sūtrāṇi) [sapta](sapta) [saṃpādayet](saṃpādayet) [samam](samam)
+[between-them](tayormadhye) [and](ca) [threads](sūtrāṇi) [seven](sapta) [accomplish](saṃpādayet) [evenly](samam)
 
 ## mukta-m0-p24-v598
-[dvi](dvi) [antare](antare) [rāma](rāma) [rāmam](rāmam) [ca](ca) [liṅgānām](liṅgānām) [dīrghatā](dīrghatā) [nava](nava)
+[two-interval](dvyantare) [rama-rama](rāmarāmaṃ) [and](ca) [of-lingas](liṅgānāṃ) [length](dīrghatā) [nine](nava)
 
 ## mukta-m0-p24-v599
-[strī](strī) [madhya](madhya) [uttamam](uttamam) [liṅgam](liṅgam) [trividham](trividham) [trividha](trividha) [ātmakam](ātmakam)
+[woman-middle-supreme](strīya?madhyottamaṃ) [linga](liṅgaṃ) [threefold](trividhaṃ) [threefold-natured](trividhātmakam)
 
 ## mukta-m0-p24-v600
-[liṅgāni](liṅgāni) [ghaṭayet](ghaṭayet) [dhīmān](dhīmān) [ṣaṭsu](ṣaṭsu) [vā](vā) [aṣṭa](aṣṭa) [antareṣu](antareṣu) [vā](vā)
+[lingas](liṅgāni) [fit](ghaṭayet) [wise](dhīmān) [in-six](ṣaṭsu) [or-eight-intervals](vāṣṭāntareṣu) [or](vā)

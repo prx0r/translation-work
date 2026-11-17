@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p22-v526
-[other](anya) [work](karma) [purpose](artha) [proud-madness-producing](mānin+unmāda+niṣpatti+kāriṇī)
+[other-work-purpose-intended-madness-accomplishment-doing](anyakarmārthamānītonmādāniṣpattikāriṇī)
 
 ## mukta-m0-p22-v527
-[last-born](antyajā) [stone](śilā) [known](jñeyā) [despised-by-twice-born](dvijādīnāṃ+vigarhitā)
+[outcaste](antyajā) [that](sā) [stone](śilā) [known](jñeyā) [twice-born-etc](dvijādīnāṃ) [condemned](vigarhitā)
 
 ## mukta-m0-p22-v528
-[various](nāna) [colors](varṇā) [caṇḍālī](cāṇḍalī) [family-destroying](kulanāśinī)
+[various](nāna) [color](varṇā) [and](ca) [caṇḍālī](cāṇḍalī) [that](sā) [maker](kartuḥ) [family-destroying](kulanāśinī)
 
 ## mukta-m0-p22-v529
-[for-primitive-beings](prākṛtānāṃ) [benefit](hitārthāya) [desire](kāmaṃ) [for-liberation-seekers](muktyarthināṃ+nṛṇām)
+[ordinary](prākṛtānāṃ) [for-benefit](hitārthāya) [desire](kāmaṃ) [liberation-seeking](muktyarthināṃ) [men](nṛṇām)
 
 ## mukta-m0-p22-v530
-[small](svalpa) [faults](doṣā) [these](ime) [known](khyātā) [twenty](viṃśatiḥ) [lakṣa-varieties](lakṣabhedataḥ)
+[small-faults](svalpadoṣā) [these](ime) [known](khyātā) [twenty-lakh-difference](viṃśatirlakṣabhedataḥ)
 
 ## mukta-m0-p22-v531
-[earth-born](sad-bhūmi-bhūta) [stone](pāṣāṇa) [tree](druma) [and](ca)
+[know](jñaya) [real-earth-being](sadbhūmibhūtasya) [stone](pāṣāṇasya) [tree](drumasya) [and](ca)
 
 ## mukta-m0-p22-v532
-[born-from-that](tajja) [by-mantra](tīśena+mantreṇa) [birth-of-that-kind](tajjāti+jananaṃ) [becomes](bhavet)
+[that-born](tajja) [by-that](tīśena) [mantra](mantreṇa) [that-birth-generation](tajjātijananaṃ) [becomes](bhavet)
 
 ## mukta-m0-p22-v533
-[marking](lāñcha) [properly](yathānyāyaṃ) [should-make](kartayet) [and-purify](śodhayed+api)
+[mark](lāñcha) [having-made](yatvā) [according-to-rule](yathānyāyaṃ) [cause-make](kartayec) [purify-also](chodhayedapi)
 
 ## mukta-m0-p22-v534
-[with-pedestal](piṇḍikā+sahitaṃ) [that](tacca) [up-to-viṣṇu-portion](viṣṇubhāgāntam) [raised](unnatam)
+[pedestal-with](piṇḍikāsahitaṃ) [that](tacca) [viṣṇu-part-end](viṣṇubhāgāntam) [elevated](unnatam)
 
 ## mukta-m0-p22-v535
-[single-piece](ekakhaṇḍa+eva) [should-be-made](kartavyā) [pedestal](piṇḍikā) [of-śiva](śivasya+tu)
+[one-piece-indeed](ekakhaṇḍaiva) [to-be-made](kartavyā) [pedestal](piṇḍikā) [indeed](vai) [of-śiva](śivasya) [but](tu)
 
 ## mukta-m0-p22-v536
-[spout-east-or-north](praṇāla+aindra+saumye+vā) [water-reservoir](jalādhāra) [below](adhastathā)
+[spout](praṇālam) [indra-saumya](aindrasaumye) [or](vā) [water-reservoir](jalādhāram) [below](adhastathā)
 
 ## mukta-m0-p22-v537
-[not-brahma-stone](na+tu+brahmaśilā) [by-wise](prājñair) [thus](iti) [in-scriptures](śāstreṣu)
+[not](na) [but](tu) [brahma-stone](brahmaśilā) [by-wise](prājñairiti) [in-scriptures](śāstreṣu) [spoken](bhāṣitam)
 
 ## mukta-m0-p22-v538
-[liṅga-cut-upper-part](liṅgacheda+ūrdhvabhāga+sthā) [or-lower-part](tathādho+bhāgagā+api+vā)
+[liṅga-cut-upper-part-standing](liṅgachedordhvabhāgasthā) [thus](tathādho) [below-part-going-or](bhāgagāpi) [or](vā)
 
 ## mukta-m0-p22-v539
-[by-height](ucchrāyena+tu) [of-liṅgas](liṅgānām) [single-piece](ekakhaṇḍaḥ) [prescribed](vidhīyate)
+[by-height](ucchrāyena) [but](tu) [of-liṅgas](liṅgānām) [one-piece](ekakhaṇḍo) [prescribed](vidhīyate)
 
 ## mukta-m0-p22-v540
-[of-other-liṅgas](anyeṣām+api+liṅgānāṃ) [in-order](krameṇa) [one-finger-more](ekāṅgulādhilā)
+[of-others](anyeṣāmapi) [also](api) [of-liṅgas](liṅgānāṃ) [in-order](krameṇa) [one-finger-excess](ekāṅgulādhilā)
 
 ## mukta-m0-p22-v541
-[own-measure](svamānāt) [girdle](mekhalā) [its](tasyāḥ) [trench](khātaṃ) [or](vā) [that-measure](tatpramāṇataḥ)
+[own-measure](svamānānmekhalā) [girdle](mekhalā) [its](tasyāḥ) [pit](khātaṃ) [or](vā) [that-measure](tatpramāṇataḥ)
 
 ## mukta-m0-p22-v542
-[greater-than-brahma-portion](brahmāṃśād+adhikaḥ) [trench](khātaḥ) [six](ṣaḍbhiḥ) [fingers](yavaiḥ) [width](pravistaraḥ)
+[brahma-part-excess](brahmāṃśādadhikaḥ) [pit](khāto) [barley](yavai) [six](ṣaḍbhiḥ) [breadth](pravistaraḥ)
 
 ## mukta-m0-p22-v543
-[jewel-receptacles](ratnādhārāṇi) [in-middle](tanmadhye) [round](vṛttāni) [nine](nava) [should-make](kalpayet)
+[jewel-holders](ratnādhārāṇi) [in-middle](tanmadhye) [round](vṛttāni) [nine](nava) [should-make](kalpayet)
 
 ## mukta-m0-p22-v544
-[own-measure-width-half](svamāna+vistara+ardhena) [thickness](bāhulyena) [endowed](samanvitā)
+[own-measure](svamānavistarārdhena) [breadth-half](vistarārdhena) [thickness](bāhulyena) [endowed](samanvitā)
 
 ## mukta-m0-p22-v545
-[wooden](vārkṣī) [brahma-stone](brahmaśilā) [or-wooden](vārkṣe) [liṅga](liṅge) [pedestal](piṇḍikā) [so](tathā)
+[wooden](vārkṣī) [brahma-stone](brahmaśilā) [wooden](vārkṣe) [liṅga](liṅge) [may-be](syāt) [pedestal](piṇḍikā) [thus](tathā)
 
 ## mukta-m0-p22-v546
-[worship](arcayet) [weapon/umbrella](astra) [flowers-etc](puṣpādyaiḥ) [to-bring](ānetuṃ) [mantra-knower](mantravittamaḥ)
+[worship](arcayedastra) [weapon-umbrella](astra) [flowers-etc](puṣpādyairānetuṃ) [to-bring](ānetuṃ) [mantra-knower](mantravittamaḥ)
 
 ## mukta-m0-p22-v547
-[ascetics](tāpasān) [śiva-devotees](śivabhaktān) [and](ca) [satisfying](tarpayitvā) [bring](ānayed) [chariot](ratham)
+[ascetics](tāpasāñchivabhaktāṃśca) [śiva-devotees](śivabhaktāṃśca) [and](ca) [having-satisfied](tarpayitvānayedratham) [bring-chariot](ratham)
 
 ## mukta-m0-p22-v548
-[in-chariot](rathe) [placing](kṛtvā) [lord](deveśaṃ) [worshiping](pūjayitvā) [bring](tam+ānayet)
+[in-chariot](rathe) [having-made](kṛtvā) [and](ca) [lord](deveśaṃ) [worship](pūjayitvā) [having](tamānayet) [bring](ānayet)
 
 ## mukta-m0-p22-v549
-[when](yadā) [in-chariot](rathe) [chariot-wheels](rathāṅgānāṃ) [by-negligence](pramādāt) [slip](skhalitaṃ) [occurs](bhavet)
+[when](yadā) [in-chariot](rathe) [chariot-parts](rathāṅgānāṃ) [by-negligence](pramādātskhalitaṃ) [stumbling](skhalitaṃ) [becomes](bhavet)
 
 ## mukta-m0-p22-v550
-[hundred-eight](śatamaṣṭottaraṃ) [offering](hutvā) [freed](mucyate) [all-sins](sarvaduṣkṛtaiḥ)
+[hundred-eight-offered](śatamaṣṭottaraṃ) [having-offered](hutvā) [freed](mucyate) [all-sins](sarvaduṣkṛtaiḥ)
