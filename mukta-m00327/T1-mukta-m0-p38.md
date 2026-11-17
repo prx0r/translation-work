@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p38-v926
-five-night(pañcarātraṃ) three-night(trirātraṃ) or(vā) having-spent(kṣapayitvā) six-faced(ṣaḍānana)
+[five-nights](pañcarātraṃ) [three-nights](trirātraṃ) [or](vā) [having-spent](kṣapayitvā) [six-faced](ṣaḍānana)
 
 ## mukta-m0-p38-v927
-again(bhūyaḥ) + also(api) + eight-thousand(aṣṭasahasraṃ) indeed(tu) with-root-mantra(mūlamantreṇa) one-should-offer(homayet)
+[again](bhūyo) [also](api) [eight-thousand](aṣṭasahasraṃ) [indeed](tu) [with-root-mantra](mūlamantreṇa) [let-one-offer](homayet)
 
 ## mukta-m0-p38-v928
-perpetual-vow-holder(naiṣṭhikaḥ) initiated(dīkṣitaḥ) + by-this(tena) always(nityam) + even(api) + from-sorcery(abhicārataḥ)
+[steadfast-initiate](naiṣṭhiko) [initiated-one](dīkṣitastvena) [always](nityam) [also](api) [from-sorcery](abhicārataḥ)
 
 ## mukta-m0-p38-v929
-śiva-worshipper(śivārcanaḥ) śiva-meditator(śivadhyāyī) śiva-reciter(śivajāpi) always(sadā) one-should-be(bhavet)
+[śiva-worship](śivārcana) [śiva-meditator](śivadhyāyī) [śiva-chanting](śivajāpi) [always](sadā) [let-be](bhavet)
 
 ## mukta-m0-p38-v930
-two(dvau) + only(eva) + āśrama-dwellers(āśramiṇau) in-śaiva-system(śaive) householder(gṛhasthaḥ) celibate-student(brahmacārī) + and(au)
+[two-only](dvāvevāśramiṇau) [in-śaiva](śaive) [householder](gṛhastha) [brahmacārin](brahmacāriṇau)
 
 ## mukta-m0-p38-v931
-thus(evam) duty-eligibility(kāryādhikāraḥ) + this(ayam) as-long-as(yāvat) passes-over(saṃkrāmataḥ) otherwise(nyataḥ)
+[thus](evaṃ) [duty-authority](kāryādhikāroyaṃ) [as-long-as](yāvat) [transferring](saṃkrāmato) [elsewhere](nyataḥ)
 
 ## mukta-m0-p38-v932
-householder-state(gṛhastha) celibate-student-state(brahmacāritvaṃ) name-only(saṃjñāmātraṃ) indeed(tu) merely(kevalam)
+[householder-brahmacārin-state](gṛhastha+brahmacāritvaṃ) [name-only](saṃjñāmātraṃ) [indeed](tu) [mere](kevalam)
 
 ## mukta-m0-p38-v933
-for-which-purpose(yadarthaṃ) done(kṛta) actions(karmāṇaḥ) appointed(niyuktau) in-supreme(parame) state(pade)
+[for-which-purpose](yadarthaṃ) [done-deeds](kṛta+karmāṇo) [appointed](niyuktau) [supreme-state](parame+pade)
 
 ## mukta-m0-p38-v934
-morning-twilight(pūrvasandhyā) recitation(japaṃ) oblation(homaṃ) and(yat) + and(ca) action(karma) traditionally-transmitted(kramāgataḥ)
+[former-sandhyā](pūrvasandhyā) [japa](japaṃ) [homa](homaṃ) [and](yacca) [rite](karma) [in-order](kramāgataḥ)
 
 ## mukta-m0-p38-v935
-in-which(yasmin) class(varṇaḥ) situated(sthitaḥ) initiation(dīkṣāṃ) obtained(prāptaḥ) embodied-being(dehī) śiva-natured(śivātmikām)
+[in-which](yasmin) [varṇa](varṇo) [stood](sthito) [initiation](dīkṣāṃ) [obtained](prāpto) [embodied-one](dehī) [śiva-natured](śivātmikām)
 
 ## mukta-m0-p38-v936
-what(yat) + declared(uktam) in-śiva-scripture(śivaśāstre) + in-this(asmin) enjoined(nyuktam) action(karma) + six-faced(ṣaḍānana)
+[what-is-said](yaduktaṃ) [in-śiva-śāstra](śivaśāstre'smin) [appointed](nyuktaṃ) [rite](karma) [six-faced](ṣaḍānana)
 
 ## mukta-m0-p38-v937
-to-be-known(ājñeyam) as-cause(kāraṇāt) to-be-understood(jñeyā) not(na) + to-be-altered(vikalpyā) ever(kadācana)
+[to-be-commanded](ājñeyaṃ) [cause](kāraṇā) [to-be-known](jñeyā) [not-to-be-doubted](novikalpyā) [ever](kadācana)
 
 ## mukta-m0-p38-v938
-not(na) indeed(puṃ) hi(hi) * * statement(vākyaṃ) divine(daivikaṃ) of-seer(ṛṣiḥ) + likewise(tathā)
+[not](na) [indeed](puṃ) [hi](hi) [?](ya*(?)rṣakaṃ) [statement](vākyaṃ) [divine](daivikaṃ) [harm](riṣistathā)
 
 ## mukta-m0-p38-v939
-not(na) śaiva(śaivam) by-viṣṇu(viṣṇunā) statement(vākyaṃ) is-contradicted(bādhyate) indeed(tu) ever(kadācana)
+[not](na) [śaiva](śaivaṃ) [by-viṣṇu](viṣṇunā) [statement](vākyaṃ) [obstructed](bādhyate) [indeed](tu) [ever](kadācana)
 
 ## mukta-m0-p38-v940
-successively-superior(uttarottara) excellence(vaiśiṣṭyam) of-all(sarveṣām) declared(parikīrtitam)
+[successive-superiority](uttarottara+vaiśiṣṭyaṃ) [of-all](sarveṣāṃ) [declared](parikīrtitam)
 
 ## mukta-m0-p38-v941
-* * class-and-stage-conduct(varṇāśramācārāḥ) expiations(prāyaścittāḥ) + and(ca) worldly(laukikāḥ)
+[*](*) [*](*) [varṇa-āśrama-conduct](varṇāśramācāra) [expiations](prāyaścittāśca) [worldly](laukikāḥ)
 
 ## mukta-m0-p38-v942
-beginning-with-conception(garbhādhānāditaḥ) having-done(kṛtvā) as-far-as(yāvat) + up-to-marriage(udvāham) + only(eva) or(vā)
+[from-garbhādhāna](garbhādhānāditaḥ) [having-done](kṛtvā) [until](yāvadud) [bāhama](bāhameva) [or](vā)
 
 ## mukta-m0-p38-v943
-not(na) by-primary(mukhyayā) practice(pravṛttyā) and(ca) skanda(skanda) in-world(lokaṃ) duties(dharmān) one-should-practice(samācaret)
+[not](na) [main](mukhya) [pravatyā](pravatyā) [ca](ca) [skanda](skanda) [world](lokaṃ) [duties](dharmān) [let-perform](samācaret)
 
 ## mukta-m0-p38-v944
-with-pure(viśuddha) contemplation(bhāvanā) endowed(yuktaḥ) solely-in-śiva(śivaika) fixed(gata) mind(mānasaḥ)
+[pure](viśuddha) [bhāvanā](bhāvanā) [endowed](yukta) [śiva-only](śivaika) [minded](gata+mānasaḥ)
 
 ## mukta-m0-p38-v945
-mixed(śabalam) action-doubt(karmasandeham) what(yat) + done(kṛtam) from-done-action(kṛtakodbhavam)
+[mixed](śabalaṃ) [karma-doubt](karmasandeha) [dyatkṛtaṃ](dyatkṛtaṃ) [kṛtakodbhavam](kṛtakodbhavam)
 
 ## mukta-m0-p38-v946
-which(yam) + only(eva) + desires(icchati) having-attained(saṃprāptaḥ) pure-action(śuddhakarma) one-should-resort-to(samāśrayet)
+[whom](yamevecchati) [obtained](saṃprāpta) [pure-karma](śuddhakarma) [resort](samāśrayet)
 
 ## mukta-m0-p38-v947
-of-scripture(śāstrasya) + only(eva) without-contradiction(avirodhena) pure(śuddha) action(karma) + with-senses-controlled(ajitendriyaḥ)
+[by-śāstra](śāstrasyaivā) [indeed](virodhena) [pure](śuddha) [karma](karmājitendriyaḥ)
 
 ## mukta-m0-p38-v948
-brāhmaṇas(brāhmaṇāḥ) kṣatriyas(kṣatriyāḥ) vaiśyas(vaiśyāḥ) + śūdras(śūdrāḥ) + pure(śuddhaḥ) + indeed(tu) practitioners(sādhakāḥ)
+[brāhmaṇas](brāhmaṇāḥ) [kṣatriyas](kṣatriyā) [vaiśyas](vaiśyāśśūdrāśuddhastu) [sādhakas](sādhakāḥ)
 
 ## mukta-m0-p38-v949
-faithful(śraddadhānāḥ) + not-envious(anasūyāḥ) + and(ca) action-knowing(karmajñāḥ) action(karma) devoted(tatparāḥ)
+[faithful](śraddhadhānāna) [sūyāśca](sūyāśca) [karma-knowers](karmajñāḥ) [karma-devoted](karma+tatparāḥ)
 
 ## mukta-m0-p38-v950
-black-colored(kṛṣṇavarṇaḥ) + deer(mṛgaḥ) in-which(yasmin) wanders(carate) indeed(tu) six-faced(ṣaḍānana)
+[black-deer](kṛṣṇavarṇamṛgo) [in-which](yasmin) [wanders](carate) [indeed](tu) [six-faced](ṣaḍānana)

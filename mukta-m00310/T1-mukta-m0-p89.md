@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p89-v2201
-[shoulders](skandhau) [shoulder-father](skandapitā) [may-protect](pātu) [hands](hastau) [my](me) [mountain-lord](giriśaḥ) [may-protect](avatu)
+[shoulders](skandhau) [skanda's-father](skandapitā) [protect](pātu) [hands](hastau) [me](me) [mountain-lord](giriśaḥ)+[protect](avatu)
 
 ## mukta-m0-p89-v2202
-[breasts](stanau) [star-lord](tārāpatiḥ) [may-protect](pātu) [chest](vakṣaḥ) [beast-lord](paśupatiḥ) [my](mama)
+[breasts](stanau) [moon's-lord](tārāpatiḥ) [protect](pātu) [chest](vakṣaḥ) [cattle-lord](paśupatiḥ)+[me](mama)
 
 ## mukta-m0-p89-v2203
-[Śarva](śarvaḥ) [may-protect](pātu) [likewise](tathā) [navel](nābhiṃ) [trident-bearer](śūlī) [back](pṛṣṭhaṃ) [my](mama) [may-protect](avatu)
+[śarva](śarvaḥ) [protect](pātu) [thus](tathā) [navel](nābhim) [trident-bearer](śūlī) [back](pṛṣṭham) [me](mama)+[protect](avatu)
 
 ## mukta-m0-p89-v2204
-[hips](kaṭiṃ) [end-of-time](kālāntakaḥ) [may-protect](pāyāt) [thighs](ūrū) [my](me) [Andhaka-slayer](andhakaghātakaḥ)
+[hips](kaṭim) [death-ender](kālāntakaḥ) [protect](pāyāt) [thighs](ūrū) [me](me)+[demon-slayer](andhakaghātakaḥ)
 
 ## mukta-m0-p89-v2205
-[ankles](gulphau) [matted-hair-bearer](jaṭādhārī) [may-protect](pāyāt) [feet](pādau) [death-conqueror](mṛtyuñjayaḥ) [may-protect](avatu)
+[ankles](gulphau) [protect](pāyāt)+[matted-hair-bearer](jaṭādhārī) [feet](pādau) [death-conqueror](mṛtyuñjayaḥ)+[protect](avatu)
 
 ## mukta-m0-p89-v2206
-[from-head](śirasaḥ) [foot-limit](pādaparyantaṃ) [Sadyojāta](sadyojātaḥ) [my](mama) [may-protect](avatu)
+[head](śirasaḥ) [feet](pāda)+[limit](paryantam) [sadyojāta](sadyojātaḥ) [me](mama)+[protect](avatu)
 
 ## mukta-m0-p89-v2207
-[in-east](pūrve) [Balavikaraṇa](balavikaraṇaḥ) [in-south](dakṣiṇe) [Kālaśāsana](kālaśāsanaḥ)
+[east](pūrve) [strength-doer](balavikaraṇaḥ) [south](dakṣiṇe) [time-ruler](kālaśāsanaḥ)
 
 ## mukta-m0-p89-v2208
-[in-northeast](aiśānyām) [Īśvara](īśvaraḥ) [may-protect](pāyāt) [in-southeast](āgneyyām) [fire-eyed](agnilocanaḥ)
+[northeast](aiśānyām) [īśvara](īśvaraḥ) [protect](pāyāt) [southeast](āgneyyām) [fire-eyed](agnilocanaḥ)
 
 ## mukta-m0-p89-v2209
-[above](ūrdhve) [Balapramathana](balapramathanaḥ) [in-netherworld](pātāle) [supreme-lord](parameśvaraḥ)
+[above](ūrdhve) [strength-crusher](balapramathanaḥ) [below](pātāle) [supreme-lord](parameśvaraḥ)
 
 ## mukta-m0-p89-v2210
-[in-battle](raṇe) [in-royal-court](rājakule) [in-gambling](dyūte) [in-danger](viṣame) [in-life-peril](prāṇasaṃśaye)
+[battle](raṇe) [royal-house](rājakule) [dice](dyūte) [danger](viṣame) [life-peril](prāṇasaṃśaye)
 
 ## mukta-m0-p89-v2211
-[in-morning](prabhāte) [may-protect](pātu) [me](māṃ) [Brahmā](brahmā) [at-midday](madhyāhne) [Bhairava](bhairavaḥ) [may-protect](avatu)
+[dawn](prabhāte) [protect](pātu) [me](mām) [brahmā](brahmā) [noon](madhyāhne) [bhairava](bhairavaḥ)+[protect](avatu)
 
 ## mukta-m0-p89-v2212
-[at-midnight](ardharātre) [Mahādeva](mahādevaḥ) [at-dawn](niśānte) [me](māṃ) [consisting-of-great-light](mahomayaḥ)
+[midnight](ardharātre) [great-god](mahādevaḥ) [night-end](niśānte) [me](mām) [great-om](mahomayaḥ)
 
 ## mukta-m0-p89-v2213
-[thus](iti) [this](idaṃ) [armor](kavacaṃ) [holy](puṇyaṃ) [in-three](triṣu) [worlds](lokeṣu) [hard-to-obtain](durlabham)
+[thus](iti) [this](idam) [armor](kavacam) [holy](puṇyam) [three](triṣu) [worlds](lokeṣu) [rare](durlabham)
 
 ## mukta-m0-p89-v2214
-[holy](puṇyaṃ) [merit-giving](puṇyapradaṃ) [divine](divyaṃ) [god-of-gods+deity](devadevādhidaivatam)
+[holy](puṇyam) [holy-giving](puṇyapradaṃ) [divine](divyaṃ) [god-of-gods](devadeva)+[supreme-deity](adhidaivatam)
 
 ## mukta-m0-p89-v2215
-[of-him](tasya) [in-hand](haste) [O-great-goddess](mahādevi) [of-Tryambaka](tryambakasya) [eight](aṣṭa) [siddhis](siddhayaḥ)
+[its](tasya) [hand](haste) [great-goddess](mahādevi) [three-eyed](tryambakasya) [eight](aṣṭa) [powers](siddhayaḥ)
 
 ## mukta-m0-p89-v2216
-[victory](jayaṃ) [having-made](kṛtvā) [home](gṛhaṃ) [O-goddess](devi) [will-reach](saṃprāpsyati) [happy](sukhī) [again](punaḥ)
+[victory](jayam) [making](kṛtvā) [home](gṛham) [goddess](devi) [obtain](saṃprāpsyati) [happy](sukhī) [again](punaḥ)
 
 ## mukta-m0-p89-v2217
-[in-famine](durbhikṣe) [in-enemy-destruction](śatrusaṃhāre) [should-recite](paṭhet) [armor](kavacam) [with-reverence](ādarāt)
+[famine](durbhikṣe) [enemy-destruction](śatrusaṃhāre) [read](paṭhet) [armor](kavacam)+[respectfully](ādarāt)
 
 ## mukta-m0-p89-v2218
-[wealth](dhanaṃ) [sons](putrān) [happiness](sukhaṃ) [prosperity](lakṣmīm) [health](ārogyaṃ) [all-prosperities](sarvasaṃpadaḥ)
+[wealth](dhanaṃ) [sons](putrān) [happiness](sukhaṃ) [lakṣmī](lakṣmīm) [health](ārogyaṃ) [all-prosperity](sarvasaṃpadaḥ)
 
 ## mukta-m0-p89-v2219
-[to-be-kept-secret](gopyaṃ) [siddhi-giving](siddhipradaṃ) [secret](guhyaṃ) [to-be-guarded](gopanīyaṃ) [like-one's-own-womb](svayonivat)
+[secret](gopyaṃ) [power-giving](siddhipradaṃ) [hidden](guhyaṃ) [to-be-concealed](gopanīyaṃ) [like-own-source](svayonivat)
 
 ## mukta-m0-p89-v2220
 [forty-third](trayaścatvāriṃśaḥ) [chapter](paṭalaḥ)
 
 ## mukta-m0-p89-v2221
-[of-this](asya) [Mahāmṛtyuñjaya](mahāmṛtyuñjayasya) [from-essence](sārāt) [best-of-the-best-essence](sārottamottamam)
+[great-death-conqueror's](mahāmṛtyuñjayasya) [this](asya) [essence](sārāt) [essence-best-best](sārottamottamam)
 
 ## mukta-m0-p89-v2222
-[proud](mānī) [charming-limbed](manoramāṅgaḥ) [and](ca) [wise](manasvī) [honor-increaser](mānavardhanaḥ)
+[proud](mānī) [mind-pleasing-limbed](manoramāṅgaḥ)+[ca](ca) [mindful](manasvī) [human-increaser](mānavardhanaḥ)
 
 ## mukta-m0-p89-v2223
-[great-lord](maheśvaraḥ) [greatly-honorable](mahāmānyaḥ) [counselor](mantrī) [mantra-people+dear](mantrijanapriyaḥ)
+[great-lord](maheśvaraḥ) [great-honored](mahāmānyaḥ) [minister](mantrī) [minister-people-dear](mantrijanapriyaḥ)
 
 ## mukta-m0-p89-v2224
-[Mātaṅgaka](mātaṅgakaḥ) [intoxicated-minded](mattacittaḥ) [intoxicated-consciousness+intoxicated-state-contemplator](mattacinmattabhāvanaḥ)
+[elephant](mātaṅgakaḥ) [intoxicated-mind](mattacittaḥ) [intoxicated-consciousness](mattacin)+[intoxicated-thought](mattabhāvanaḥ)
 
 ## mukta-m0-p89-v2225
-[senses-conquered](jitendriyaḥ)
+[sense-conquered](jitendriyaḥ)

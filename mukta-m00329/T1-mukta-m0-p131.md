@@ -1,4 +1,4 @@
 # mukta-m00329 mukta-m0-p131
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
-Please provide the verse text (Devanagari/IAST and pada splits, if available) for each labeled verse of **mukta-m00329 mukta-m0-p131** so I can draft the T1 pada-glosses in the requested format.
+I don't have the verse text for mukta-m00329 / mukta-m0-p131 in my context, so I can't produce byte-exact pada-glosses without fabricating. Please paste the labeled verses (with verse numbers and surfaces) and I'll gloss each separately per the exact format.

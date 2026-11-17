@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p82-v2026
-[world-illumination-maker](jagat+dīpti+karo) [worshipped-by-vedas](veda+upāsito) [lord-of-the-world](jagat+īśvaraḥ)
+[world+illuminating](jagaddīptikaro) [veda+worshipped](vedopāsito) [world+lord](jagadīśvaraḥ)
 
 ## mukta-m0-p82-v2027
-[served-by-the-world](jagat+sevyo) [beloved-of-the-world](jagat+prīto) [desired-by-the-world](jagat+iṣṭo) [consisting-of-the-world](jagat+mayaḥ)
+[world+served](jagatsevyo) [world+pleased](jagatprīto) [world+desired](jagadiṣṭo) [world+formed](jaganmayaḥ)
 
 ## mukta-m0-p82-v2028
-[son-in-law](jāmātā) [of-the-ocean](jaladher) [knower](jānto) [adorned-with-matted-hair-crown](jaṭā+mukuṭa+maṇḍitaḥ)
+[son-in-law](jāmātā) [ocean+end](jaladherjānto) [matted-crown+jeweled](jaṭāmukuṭamaṇḍitaḥ)
 
 ## mukta-m0-p82-v2029
-[seated-on](āsīno) [slope-of-Lakshmi's-breasts](lakṣmī+kuca+taṭa) [within-range-of-Lakshmi's-eyes](lakṣmī+nayana+gocaraḥ)
+[lakshmi+breast+seated](lakṣmīkucataṭāsīno) [lakshmi+eye+visible](lakṣmīnayanagocaraḥ)
 
 ## mukta-m0-p82-v2030
-[making-jhāṅkāra-sound](jhāṅkārī) [jingling-sound](jhaṅkṛtir) [cricket-chirp](jhillī+ravo) [with-jingling-anklets](jhāṅkāri+nūpuraḥ)
+[jingling](jhāṅkārī) [tinkling](jhaṅkṛtir) [cricket+sound](jhillīravo) [jingling+anklet](jhāṅkārinūpuraḥ)
 
 ## mukta-m0-p82-v2031
-[syllable-ña](ñakāro) [having-ña-sound](ñāralo) [lord-of-ña](ñeśo) [having-form-of-nectar-of-letter-ña](ña+varṇa+amṛta+rūpavān)
+[letter-nu](ñakāro) [nu+sound](ñāralo) [nu+lord](ñeśo) [nu+letter+nectar+form](ñavarṇāmṛtarūpavān)
 
 ## mukta-m0-p82-v2032
-[making-ṭīt-sound](ṭānta+ṣṭīt+kāra+kūjitaḥ)
+[ta-ending+tinkling+moaning](ṭāntaṣṭītkārakūjitaḥ)
 
 ## mukta-m0-p82-v2033
-[lord](ṭhakuro) [deceiver](ṭhālako) [to-be-established](ṭhāsyo) [treasure-of-beauty-of-letter-ṭha](ṭha+varṇa+suṣamā+nidhiḥ)
+[tha-lord](ṭhakuro) [tha-bowl](ṭhālako) [tha-seated](ṭhāsyo) [tha+letter+splendor+treasure](ṭhavarṇasuṣamānidhiḥ)
 
 ## mukta-m0-p82-v2034
-[having-speech-of-syllable-ḍa](ḍakāra+vāg) [pierced-by-drum](ḍhakka+bhedyo) [slayer-of-demon-ḍhakkā](ḍhakkā+asura+nisūdanaḥ)
+[da-letter+speech](ḍakāravāg) [drum+piercing](ḍhakkabhedyo) [drum+asura+slayer](ḍhakkāsuranisūdanaḥ)
 
 ## mukta-m0-p82-v2035
-[foundation-of-Lakshmi's-world](lakṣmī+jagat+sthitir) [Lakshmi's-Śauri](lakṣmī+śaurir) [bearer-of-Lakshmi's-mace](lakṣmī+gadā+dharaḥ)
+[lakshmi+world+abode](lakṣmījagatsthitir) [lakshmi+auspicious](lakṣmīśaurir) [lakshmi+mace+bearer](lakṣmīgadādharaḥ)
 
 ## mukta-m0-p82-v2036
-[Lakshmi's-Dāmodara](lakṣmī+dāmodaro) [Lakshmi's-life](lakṣmī+prāṇo) [bearer-of-Lakshmi's-discus](lakṣmī+rathāṅga+bhṛt)
+[lakshmi+damodara](lakṣmīdāmodaro) [lakshmi+life](lakṣmīprāṇo) [lakshmi+wheel+bearer](lakṣmīrathāṅgabhṛt)
 
 ## mukta-m0-p82-v2037
-[balance](totulas) [lord-of-tulasī](tulasī+nāthas) [knower-of-tantras](tantra+jño) [leader-of-mantras](mantra+nāyakaḥ)
+[tulasi+lord](totulastulasīnāthas) [tantra+knower](tantrajño) [mantra+leader](mantranāyakaḥ)
 
 ## mukta-m0-p82-v2038
-[of-the-form-of-a-moment](tuṭi+rūpas) [moving-in-a-moment](tuṭi+gatis) [ascetic](tapasvī) [dear-to-ascetics](tāpasa+priyaḥ)
+[tu+form](tuṭirūpas) [tu+motion](tuṭigatis) [ascetic](tapasvī) [ascetic+dear](tāpasapriyaḥ)
 
 ## mukta-m0-p82-v2039
-[served-in-the-fourth-state](turī+sevyaḥ) [resemblance](tulā+bhaś) [adorned-with-syllable-ta](ta+kāra+akṣara+maṇḍanaḥ)
+[turi+served](turīsevyas) [tula+like](tulābhaśca) [ta+letter+ornament](takārākṣaramaṇḍanaḥ)
 
 ## mukta-m0-p82-v2040
-[ancient](sthaviraḥ) [large-bodied](sthūla+gātraś) [served-by-Śiva](sthāṇu+sevyaḥ) [maker-of-sound-stha](stha+śabda+kṛt)
+[ancient](sthaviraḥ) [thick-limbed](sthūlagātraśca) [pillar+served](sthāṇusevyas) [tha+sound+maker](sthaśabdakṛt)
 
 ## mukta-m0-p82-v2041
-[lord-of-Lakshmi's-life](lakṣmī+jīva+īśvaro) [bearer-of-Lakshmi](lakṣmī+dharo) [Lakshmi's-Nṛsiṃha](lakṣmī+nṛsiṃhakaḥ)
+[lakshmi+life+lord](lakṣmījīveśvaro) [lakshmi+bearer](lakṣmīdharo) [lakshmi+narasimha](lakṣmīnṛsiṃhakaḥ)
 
 ## mukta-m0-p82-v2042
-[remover-of-poverty](dāridrya+hā) [remover-of-sorrow](duḥkha+hartā) [destroyer-of-misfortune](daurbhāgya+kṣaya+kṛd) [compassionate](dayī)
+[poverty+remover](dāridryahā) [sorrow+remover](duḥkhahartā) [misfortune+destroyer](daurbhāgyakṣayakṛd) [compassionate](dayī)
 
 ## mukta-m0-p82-v2043
-[giver-of-gifts](dāna+kṛd) [giver-of-fruit-to-givers](dātṛ+phala+do) [destroyer-of-demon-chiefs](danuja+indra+kṣayaṅ+karaḥ)
+[gift+maker](dānakṛd) [giver+fruit+giver](dātṛphalado) [demon+lord+destroyer](danujendrakṣayaṅkaraḥ)
 
 ## mukta-m0-p82-v2044
-[fond-of-wife](dāra+priyo) [long-nailed](dīrgha+nakho) [slayer-of-wicked-demons](duṣṭa+asura+nisūdanaḥ)
+[wife+dear](dārapriyo) [long-nailed](dīrghanakho) [wicked+asura+slayer](duṣṭāsuranisūdanaḥ)
 
 ## mukta-m0-p82-v2045
-[bestower-of-Lakshmi's-compassion](lakṣmī+dayā+karo) [Lakshmi's-god](lakṣmī+devo) [treasure-of-Lakshmi's-compassion](lakṣmī+dayā+nidhiḥ)
+[lakshmi+compassion+maker](lakṣmīdayākaro) [lakshmi+god](lakṣmīdevo) [lakshmi+compassion+treasure](lakṣmīdayānidhiḥ)
 
 ## mukta-m0-p82-v2046
-[steadfast](dhṛtimān) [virtuous](dharmavān) [righteous](dharmī) [skilled-in-righteous-acts](dharma+karma+vicakṣaṇaḥ)
+[steadfast](dhṛtimān) [righteous](dharmavān) [dharma+possessor](dharmī) [dharma+action+expert](dharmakarmavicakṣaṇaḥ)
 
 ## mukta-m0-p82-v2047
-[firm](dhīro) [giver-of-courage](dhairya+karo) [expert-in-dharma](dharma+dakṣo) [worshipped-by-Kubera](dhanada+pūjitaḥ)
+[brave](dhīro) [courage+maker](dhairyakaro) [dharma+skilled](dharmadakṣo) [wealth+lord+worshipped](dhanadapūjitaḥ)
 
 ## mukta-m0-p82-v2048
-[new](navīno) [fresh](nūtano) [humble](namro) [dancer](naṭano) [pleased-by-dance](nāṭya+toṣitaḥ)
+[new](navīno) [fresh](nūtano) [humble](namro) [dancer](naṭano) [drama+pleased](nāṭyatoṣitaḥ)
 
 ## mukta-m0-p82-v2049
-[man-lion](nṛ+siṃho) [best-of-men](nṛ+varaḥ) [endless](ananto) [Nara-and-Nārāyaṇa](nara+nārāyaṇo) [new](navaḥ)
+[narasimha](nṛsiṃho) [best+man](nṛvaro) [endless](ananto) [nara+narayana](naranārāyaṇo) [new](navaḥ)
 
 ## mukta-m0-p82-v2050
-[mounted-on-mountain](naga+ārūḍho) [deep-naveled](nimna+nābhir) [served-by-Nandin](nandi+sevyo) [lord-of-dance](naṭa+īśvaraḥ)
+[mountain+mounted](nagārūḍho) [deep-navel](nimnanābhir) [nandi+served](nandisevyo) [dance+lord](naṭeśvaraḥ)

@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p01-v1
-[shines-forth](virājate) [world](jagat)+[picture](citra)+[variegated](citra)+[mirror](darpaṇa)+[having-form](rūpiṇī)
+[shines](virājate) [world](jagat) [variegated](citra) [mirror-form](citra+darpaṇa+rūpiṇī)
 
 ## mukta-m0-p01-v2
-[own](sva)+[self](ātma)+[consciousness](citta)+[principle](tattva)+[mere](mātram)+[thus](iti) [instruction](bodhana)+[for-the-sake-of](artham)+[this](idaṃ) [treatise](prakaraṇam)+[thus](iti)
+[self-mind-truth-only](svātma+citta+tattva+mātram) [thus](iti) [for-instruction](bodhana+artham) [this](idam) [treatise](prakaraṇam) [thus](iti)
 
 ## mukta-m0-p01-v3
-[greatness](māhātmyaṃ) [tripurā](tripurā)+[called](ākhyāyā) [which](yat)+[in-scripture](śruti) [supreme](para)+[means](sādhanam)
+[greatness](māhātmyam) [of-tripura-named](tripurā+ākhyāyāḥ) [which](yat) [hearing](śruti) [best-means](para+sādhanam)
 
 ## mukta-m0-p01-v4
-[listener](śrotāram)+[to-incline](abhimukhayituṃ) [heard](śrutam)+[thus](iti)+[and-so-forth](ādi)
+[listener](śrotāram) [to-face](abhimukhayitum) [heard](śrutam) [etc](ityādi)
 
 ## mukta-m0-p01-v5
-[which](yat)+[having-heard](śrutvā) [not](na) [again](punaḥ) [anywhere](kvāpi) [human](manuṣyaḥ) [sorrow](śokam)+[obtains](ṛcchati)
+[which-hearing](yat+śrutvā) [not](na) [again](punaḥ) [anywhere](kvāpi) [man](manuṣyaḥ) [grief](śokam) [obtains](ṛcchati)
 
 ## mukta-m0-p01-v6
-[great](mahā)+[wonderfulness](adbhutatvam)+[indeed](eva)+[says](āha) [which](yat)+[having-heard](śrutvā)+[thus](iti)
+[great-wonder-nature-only](mahā+adbhuta+tvam+eva) [says](āha) [which-hearing-thus](yat+śrutvā+iti)
 
 ## mukta-m0-p01-v7
-[knowledge](vijñānaṃ) [thoroughly](samyak)+[having-considered](ālocya) [which](yat)+[this](etat) [well-ascertained](praviniścitam)
+[knowledge](vijñānam) [well-considering](samyak+ālocya) [this](yat+etat) [firmly-decided](praviniścitam)
 
 ## mukta-m0-p01-v8
-[self](ātma)+[principle](tattva)+[ascertaining](niścāyaka)+[reasoning](upapatti)+[net](jālam) [variant](k:)+[principle](tattvaṃ)+[ascertaining](niścā-)
+[self-truth-determination-net](ātma+tattva+niścāya+ka+upapatti+jālam)
 
 ## mukta-m0-p01-v9
-[by-me](mayā) [śrī](śrī)+[datta](datta)+[guru](guruṇā) [to-bhārgava](bhārgavāya) [explained](nirūpitam)
+[by-me](mayā) [śrī-datta-guru](śrī+datta+guruṇā) [to-bhārgava](bhārgavāya) [explained](nirūpitam)
 
 ## mukta-m0-p01-v10
-[thus](tathā)+[other](anyat)+[thus](iti)+[meaning](arthaḥ)
+[thus-other](tathā+anyat) [thus-meaning](iti+arthaḥ)
 
 ## mukta-m0-p01-v11
-[here](atra)+[by-what-is-said](uktena)+[even](api) [not](no) [knows](veda) [if](yadi) [someone](kaścit)+[deluded](vimūḍha)+[intellect](dhīḥ)
+[here-stated-also](atra+uktam+api) [not](no) [knows](veda) [if](yadi) [someone](kaścit) [deluded-mind](vimūḍha+dhīḥ)
 
 ## mukta-m0-p01-v12
-[by-contrary](vyatireka)+[manner](mukhena) [strengthens](draḍhayati) [here](atra)+[thus](iti)
+[by-contrast](vyatireka+mukhena) [strengthens](draḍhayati) [here-thus](atra+iti)
 
 ## mukta-m0-p01-v13
-[not](na) [of-him](tasya) [would-be](syāt)+[even](api) [knowledge](jñānaṃ) [directly](sākṣāt)+[śiva](śiva)+[taught](nirūpitam)
+[not](na) [his](tasya) [would-be](syāt) [even](api) [knowledge](jñānam) [directly-śiva-declared](sākṣāt+śiva+nirūpitam)
 
 ## mukta-m0-p01-v14
-[ah](aho) [of-the-good](satām)+[wondrous](adbhutaṃ) [indeed](hi) [conduct](vṛttaṃ) [all](sarva)+[quality](guṇa)+[supreme](uttaram)
+[aho](aho) [of-good-ones](satām) [wonder](adbhutam) [indeed](hi) [deed](vṛttam) [all-virtue-supreme](sarva+guṇa+uttaram)
 
 ## mukta-m0-p01-v15
 [best](śreṣṭham)
 
 ## mukta-m0-p01-v16
-[graciousness](anugrāhakatā) [and](ca)+[this](eṣā) [of-the-good](satāṃ) [innate](sahaja)+[born](sambhavā)
+[grace-nature](anugrāhakatā) [and-this](ca+eṣā) [of-good-ones](satām) [innate](sahaja+sambhavā)
 
 ## mukta-m0-p01-v17
-[this](eṣā) [service](śuśruṣā)
+[this](eṣā) [listening](śuśruṣā)
 
 ## mukta-m0-p01-v18
-[thus](evaṃ) [dattātreya](dattātreya)+[mouth](mukhāt)+[having-heard](śrutvā) [greatness](māhātmya)+[glory](vaibhavam)
+[thus](evam) [from-dattātreya-mouth](dattātreya+mukhāt) [hearing](śrutvā) [greatness-glory](māhātmya+vaibhavam)
 
 ## mukta-m0-p01-v19
 [to-be-seen](draṣṭavyam)
 
 ## mukta-m0-p01-v20
-[with-devotion](bhaktyā)+[captivated](apahṛta)+[true](sat)+[mind](cittaḥ)+[silent](tūṣṇīṃ) [for-a-while](kiñcit) [became](babhūva) [indeed](ha)
+[by-devotion](bhaktyā) [carried-away-pure-mind](apahṛta+sat+cittaḥ) [silent](tūṣṇīm) [somewhat](kiñcit) [became](babhūva) [indeed](ha)
 
 ## mukta-m0-p01-v21
-[by-devotion](bhaktyā) [taken-away](apahṛtaṃ) [absorbed](nilīnaṃ) [being](sat) [pure](śuddhaṃ) [mind](cittaṃ) [whose](yasya)
+[by-devotion](bhaktyā) [carried-away](apahṛtam) [absorbed](nilīnam) [true](sat) [pure](śuddham) [mind](cittam) [whose](yasya)
 
 ## mukta-m0-p01-v22
-[horripilation](romāñca)+[swollen](pīvara)+[body](vapuḥ) [inner](sva)+[heart](āntara)+[bliss](ānanda)+[filled](nirbharaḥ)
+[goosebumps-stout-body](romāñca+pīvara+vapuḥ) [inner-bliss-full](sva+antara+ānanda+nirbharaḥ)
 
 ## mukta-m0-p01-v23
-[by-that](tena) [filled](nirbharaḥ) [full](pūrṇaḥ)
+[by-that](tena) [full](nirbharaḥ) [complete](pūrṇaḥ)
 
 ## mukta-m0-p01-v24
-[bowed-down](praṇanāma) [datta](datta)+[guru](guruṃ) [like-a-staff](daṇḍavat)+[at-the-feet](caraṇa)+[near](antike)
+[bowed](praṇanāma) [to-datta-guru](dattagurum) [staff-like](daṇḍavat) [at-feet-near](caraṇa+antike)
 
 ## mukta-m0-p01-v25
-[horripilation](romāñca)+[swollen](pīvara)+[body](vapuḥ)+[thus](iti) [connection](sambandhaḥ)
+[goosebumps-stout-body-thus](romāñca+pīvara+vapuḥ+iti) [connection](sambandhaḥ)

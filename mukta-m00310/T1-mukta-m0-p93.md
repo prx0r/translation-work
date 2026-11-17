@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p93-v2301
-[righteous](dharmī) [skin+garment](carma+ambaraḥ) [beautiful+form](cāru+rūpaḥ) [beautiful+ornament](cāru+vibhūṣaṇaḥ)
+[righteous](dharmī) [skin-garment](carmāmbaraḥ) [beautiful-form](cārurūpaḥ) [beautiful-ornament](cāruvibhūṣaṇaḥ)
 
 ## mukta-m0-p93-v2302
-[controllable](vaśyaḥ) [subduing+maker](vaśya+karaḥ) [ash+lying](bhasma+śāyī) [ash+smeared](bhasma+vilepanaḥ)
+[obedient](vaśyaḥ) [obedience-maker](vaśyakaraḥ) [ash-sleeper](bhasmaśāyī) [ash-anointed](bhasmavilepanaḥ)
 
 ## mukta-m0-p93-v2303
-[attendant+work](gaṇa+kāryaḥ) [family+conduct](kula+ācāraḥ) [all+conduct](sarva+ācāraḥ) [friend](sakhā) [equal](samaḥ)
+[gaṇa-servant](gaṇakāryaḥ) [family-conduct](kulācāraḥ) [all-conduct](sarvācāraḥ) [friend-equal](sakhā-samaḥ)
 
 ## mukta-m0-p93-v2304
-[reddish](aruṇaḥ) [one+to-be-contemplated](ca+eka+cintyaḥ) [Triśaṅku](ca+triśaṅkuḥ) [staff+holder](śaṅku+dhāraṇaḥ)
+[ruddy](aruṇaḥ) [one-thought](caikacintyaḥ) [triśaṅku](triśaṅkuḥ) [śaṅku-bearer](śaṅkudhāraṇaḥ)
 
 ## mukta-m0-p93-v2305
-[merchant](vaiśyaḥ) [servant](śūdraḥ) [pigeon+seated](kapota+sthaḥ) [Tvaṣṭṛ](tvaṣṭā) [satisfied](tuṣṭo) [anger+agitated](ruṣā+kulaḥ)
+[vaiśya](vaiśyaḥ) [śūdra](śūdraḥ) [pigeon-seated](kapotasthaḥ) [tvaṣṭṛ](tvaṣṭā) [content](tuṣṭaḥ) [anger-afflicted](ruṣākulaḥ)
 
 ## mukta-m0-p93-v2306
-[trident-holder](pinākī) [eight+formed](ca+aṣṭa+mūrtiḥ) [earth-possessing](ca+kṣitimān) [firmness-possessing](dhṛtimān) [thus](tathā)
+[pināka-bearer](pinākī) [eight-formed](cāṣṭamūrtiḥ) [earth-possessor](kṣitimān) [steadfast](dhṛtimān)
 
 ## mukta-m0-p93-v2307
-[sun+god](sūrya+devo) [sacrificer](yajamāna) [sky](ākāśaḥ) [supreme+lord](parama+īśvaraḥ)
+[sun-god](sūryadevaḥ) [sacrificer](yajamānaḥ) [sky](ākāśaḥ) [supreme-lord](parameśvaraḥ)
 
 ## mukta-m0-p93-v2308
-[existence](bhavaḥ) [arrow](śarvaḥ) [thus](tathā) [Rudra](rudraḥ) [beings+lord](paśu+nāthaḥ) [beneficent](ca+śaṅkaraḥ)
+[bhava](bhavaḥ) [śarva](śarvaḥ) [rudra](rudraḥ) [paśu-lord](paśunāthaḥ) [śaṅkara](śaṅkaraḥ)
 
 ## mukta-m0-p93-v2309
-[mountain+lord](girīśaḥ) [broken+hand](khaṇḍa+hastaḥ) [and](ca) [great+fierce](mahā+ugro) [attendants+lord](gaṇa+īśvaraḥ)
+[mountain-lord](girīśaḥ) [broken-hand](khaṇḍahastaḥ) [great-fierce](mahānugraḥ) [gaṇa-lord](gaṇeśvaraḥ)
 
 ## mukta-m0-p93-v2310
-[attendants+lord](gaṇeśvaro) [virtuous](guṇī) [Nandī](nandī) [dharma+king](dharma+rājo) [hard+to-overcome](durantakaḥ)
+[gaṇa-lord](gaṇeśvaraḥ) [virtuous](guṇī) [nandī](nandī) [dharma-king](dharmarājaḥ) [endless](durantakaḥ)
 
 ## mukta-m0-p93-v2311
-[immortal](amṛtaḥ) [time+Rudra](kāla+rudraḥ) [and](ca) [time+fire](kāla+agniḥ) [moon+crested](śaśi+śekharaḥ)
+[immortal](amṛtaḥ) [time-rudra](kālarudraḥ) [time-fire](kālāgniḥ) [moon-crested](śaśiśekharaḥ)
 
 ## mukta-m0-p93-v2312
-[bad-dream+remover](duḥsvapna+hṛt) [forbearing](prasahano) [virtuous](guṇinā) [sound+established](āda+pratiṣṭhitaḥ)
+[bad-dream-remover](duḥsvapnahṛt) [overpowering](prasahanaḥ) [virtue-sound-established](guṇinādapratiṣṭhitaḥ)
 
 ## mukta-m0-p93-v2313
-[sacrifice+form](yajña+rūpo) [sacrifice+face](yajña+mukho) [sacrificers+desired+giver](yajamāna+iṣṭa+daḥ) [pure](śuciḥ)
+[sacrifice-form](yajñarūpaḥ) [sacrifice-mouth](yajñamukhaḥ) [sacrificer-desired-giver](yajamāneṣṭadaḥ) [pure](śuciḥ)
 
 ## mukta-m0-p93-v2314
-[serpent+seizer](nāga+hārī) [ash+wearer](bhasma+dhārī) [ashes+adorned+body](bhūti+bhūṣita+vigrahaḥ)
+[serpent-taker](nāgahārī) [ash-bearer](bhasmadhārī) [ash-ornamented-form](bhūtibhūṣitavigrahaḥ)
 
 ## mukta-m0-p93-v2315
-[bull+bannered](vṛṣa+dhvajo) [bull+mounted](vṛṣa+ārūḍho) [dharma+bull+increaser](dharma+vṛṣa+vivardhakaḥ)
+[bull-banner](vṛṣadhvajaḥ) [bull-rider](vṛṣārūḍhaḥ) [dharma-bull-increaser](dharmavṛṣavivardhakaḥ)
 
 ## mukta-m0-p93-v2316
-[thousand+armed](sahasra+bāhuḥ) [all+limbed](sarva+aṅgaḥ) [refuge-worthy](śaraṇyaḥ) [all+worlds+maker](sarva+loka+kṛt)
+[thousand-armed](sahasrabāhuḥ) [all-limbed](sarvāṅgaḥ) [refuge](śaraṇyaḥ) [all-world-maker](sarvalokakṛt)
 
 ## mukta-m0-p93-v2317
-[Brahma+staff+creator](brahma+daṇḍa+vinirmātā) [hundred-slayer+noose+power-possessing](śataghnī+pāśa+śaktimān)
+[brahmā-daṇḍa-maker](brahmadaṇḍavinirmātā) [śataghnī-pāśa-śakti-possessor](śataghnīpāśaśaktimān)
 
 ## mukta-m0-p93-v2318
-[gods+demons+creator](deva+asura+vinirmātā) [gods+demons+supreme-resort](deva+asura+parāyaṇaḥ)
+[deva-asura-maker](devāsuravinirmātā) [deva-asura-refuge](devāsuraparāyaṇaḥ)
 
 ## mukta-m0-p93-v2319
-[Guha+dear](guha+priyo) [attendants+served](gaṇa+sevyaḥ) [pure](pavitraḥ) [all+purifier](sarva+pāvanaḥ)
+[guha-dear](guhapriyaḥ) [gaṇa-served](gaṇasevyaḥ) [pure](pavitraḥ) [all-purifier](sarvapāvanaḥ)
 
 ## mukta-m0-p93-v2320
-[liberation](vimuktiḥ) [liberation+splendor](mukti+tejasko) [devotees+of](bhaktānāṃ) [supreme+goal](paramā+gatiḥ)
+[liberation](vimuktiḥ) [liberated-radiance](muktitejaskaḥ) [devotees-supreme-goal](bhaktānāṃ-paramā-gatiḥ)
 
 ## mukta-m0-p93-v2321
-[Kailāsa+mountain+dweller](kailāsa+giri+vāsī) [and](ca) [Himavat+mountain+resorting](himavad+giri+saṃśrayaḥ)
+[kailāsa-mountain-dweller](kailāsagirivāsī) [himavat-mountain-refuge](himavadgirisaṃśrayaḥ)
 
 ## mukta-m0-p93-v2322
-[matted-hair](kapardī) [wish-fulfilling+maker](kalpa+kṛd) [Rudra](rudraḥ) [good-minded](sumanā) [dharma+fond](dharma+vatsalaḥ)
+[matted-hair](kapardī) [kalpa-maker](kalpakṛt) [rudra](rudraḥ) [good-minded](sumanāḥ) [dharma-loving](dharmavatsalaḥ)
 
 ## mukta-m0-p93-v2323
-[blue+throated](nīla+kaṇṭho) [wealth+lord](dhana+adhyakṣo) [lord](nāthaḥ) [Pramathas+leader](pramatha+nāyakaḥ)
+[blue-throated](nīlakaṇṭhaḥ) [wealth-superintendent](dhanādhyakṣaḥ) [lord](nāthaḥ) [pramatha-leader](pramathanāyakaḥ)
 
 ## mukta-m0-p93-v2324
-[army+arranger](senā+kalpo) [great+arranger](mahā+kalpo) [yoga](yogo) [age+maker](yuga+karo) [Hari](hariḥ)
+[army-kalpa](senākalpaḥ) [great-kalpa](mahākalpaḥ) [yoga](yogaḥ) [yuga-maker](yugakaraḥ) [hari](hariḥ)
 
 ## mukta-m0-p93-v2325
-[emission](visargo) [liṅga+form](liṅga+rūpaḥ) [and](ca) [pure](pavitraḥ) [sin+destroyer](pāpa+nāśanaḥ)
+[emission](visargaḥ) [liṅga-form](liṅgarūpaḥ) [pure](pavitraḥ) [sin-destroyer](pāpanāśanaḥ)

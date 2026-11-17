@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p43-v1051
-[cāmuṇḍā](cāmuṇḍā) [iti](iti) [then](tato) [in-world](loke) [famous](khyātā) [goddess](devi) [you-will-be](bhaviṣyasi) [oṃ](oṃ)
+[cāmuṇḍā-thus](cāmuṇḍeti) [then](tato) [world](loke) [famous](khyātā) [goddess](devi) [you-will-be](bhaviṣyasi) [om](oṃ)
 
 ## mukta-m0-p43-v1052
-[thus](evam) [beginning-with](āditaḥ)
+[thus-from-beginning](evamāditaḥ)
 
 ## mukta-m0-p43-v1053
-[aṇimā+etc.](aṇimādibhir) [surrounded](āvṛtāṃ) [with-rays](mayūkhair) [I](aham) [thus](iti) [indeed](eva) [I-should-contemplate](vibhāvaye) [you](bhavānīm)
+[aṇimā+ādi+bhiḥ+āvṛtām](aṇimādibhirāvṛtāṃ) [rays+I+thus+indeed](mayūkhairahamityeva) [I-contemplate](vibhāvaye) [bhavānī](bhavānīm)
 
 ## mukta-m0-p43-v1054
-[the-seer](ṛṣiḥ) [said](uvāca)
+[sage-said](ṛṣiruvāca)
 
 ## mukta-m0-p43-v1055
-[many](bahuleṣu) [and](ca) [in-armies](sainyeṣu) [destroyed](kṣayiteṣu) [demon-lord](asureśvaraḥ)
+[in-numerous](bahuleṣu) [and](ca) [armies](sainyeṣu) [destroyed](kṣayiteṣvasureśvaraḥ)
 
 ## mukta-m0-p43-v1056
-[effort](udyogaṃ) [of-all-armies](sarvasainyānāṃ) [of-demons](daityānām) [commanded](ādideśa) [indeed](ha)
+[mobilization](udyogaṃ) [all-armies](sarvasainyānāṃ) [daityas](daityānām) [commanded](ādideśaha)
 
 ## mukta-m0-p43-v1057
-[of-Kambus](kambūnāṃ) [eighty-four](caturaśītir) [let-them-go-forth](niryāntu) [with-own-forces](svabalair) [surrounded](vṛtāḥ)
+[of-kambus](kambūnāṃ) [eighty-four](caturaśītiḥ) [let-them-march](niryāntu) [with-own-forces](svabalairvṛtāḥ)
 
 ## mukta-m0-p43-v1058
-[hundred](śataṃ) [families](kulāni) [of-Dhaumras](dhaumrāṇāṃ) [let-them-go-forth](nirgacchantu) [by-my-command](mamājñayā)
+[hundred](śataṃ) [clans](kulāni) [of-dhaumras](dhaumrāṇāṃ) [let-them-go](nirgacchantu) [by-my-command](mamājñayā)
 
 ## mukta-m0-p43-v1059
-[for-battle](yudhāya) [prepared](sajjā) [let-them-go-forth](niryāntu) [by-command](ājñayā) [swift](tvaritā) [my](mama)
+[for-battle](yudhāya) [ready](sajjā) [let-them-march](niryāntu) [by-command](ājñayā) [hurried](tvaritā) [my](mama)
 
 ## mukta-m0-p43-v1060
-[went-forth](nirjagāma) [with-great-army+thousands](mahāsainyasahasrair) [with-many](bahubhir) [surrounded](vṛtaḥ)
+[marched-out](nirjagāma) [great-army-thousands](mahāsainyasahasrairbahubhirvṛtaḥ)
 
 ## mukta-m0-p43-v1061
-[with-bowstring-sounds](jyāsvanaiḥ) [filled](pūrayāmāsa) [earth+sky+interval](dharaṇīgaganāntaram)
+[bowstring-sounds](jyāsvanaiḥ) [filled](pūrayāmāsa) [earth-sky-interval](dharaṇīgaganāntaram)
 
 ## mukta-m0-p43-v1062
-[with-bell-sound](ghaṇṭāsvanena) [those-sounds](tānnādān) [Ambikā](ambikā) [and](ca) [augmented](upabṛṃhayat)
+[bell-sound](ghaṇṭāsvanena) [those-sounds](tānnādān) [ambikā](ambikā) [amplified](copabṛṃhayat)
 
 ## mukta-m0-p43-v1063
-[with-roars](ninādair) [terrible](bhīṣaṇaiḥ) [Kālī](kālī) [conquered](jigye) [with-mouth-wide-open](vistāritānanā)
+[terrifying-roars](ninādairbhīṣaṇaiḥ) [kālī](kālī) [conquered](jigye) [expanded-face](vistāritānanā)
 
 ## mukta-m0-p43-v1064
-[the-goddess](devī) [lion](siṃhas) [and-also](tathā) [Kālī](kālī) [by-angry-ones](saroṣaiḥ) [surrounded](parivāritāḥ)
+[goddess](devī) [lion](siṃhastathā) [kālī](kālī) [angry](saroṣaiḥ) [surrounded](parivāritāḥ)
 
 ## mukta-m0-p43-v1065
-[of-Bhavā’s+immortal+lions](bhavāyāmarasiṃhānām) [with-exceeding-heroism+strength](ativīryabalānvitāḥ)
+[for-welfare](bhavāya) [immortal-lions](amarasiṃhānām) [great-strength](ativīryabalānvitāḥ)
 
 ## mukta-m0-p43-v1066
-[standing-in-chariot](vimānasthā) [with-rosary+water-pot](sākṣasūtrakamaṇḍaluḥ)
+[in-chariot](vimānasthā) [with-rosary-waterpot](sākṣasūtrakamaṇḍaluḥ)
 
 ## mukta-m0-p43-v1067
-[having-great-serpent-bracelets](mahāhivalayā) [terrible](raudrā) [from-matted-hair+circle+glance](jaṭāmaṇḍalinīkṣaṇāt)
+[great-snake-bracelets](mahāhivalayā) [fierce](raudrā) [matted-hair-circle](jaṭāmaṇḍalinīkṣaṇāt)
 
 ## mukta-m0-p43-v1068
-[arose](samudbhūtā) [and](ca) [O-divine-seer](devarṣe) [peacock](mayūra) [having-excellent-mount](varavāhanā)
+[arisen](samudbhūtā) [and](ca) [divine-sage](devarṣe) [peacock](mayūra) [excellent-vehicle](varavāhanā)
 
 ## mukta-m0-p43-v1069
-[bearing-Śārṅga-bow+arrows](śārṅgavāṇadharā) [born](jātā) [Vaiṣṇavī](vaiṣṇavī) [beautiful-in-form](rūpaśālinī)
+[bow-arrow-bearer](śārṅgavāṇadharā) [born](jātā) [vaiṣṇavī](vaiṣṇavī) [beautiful](rūpaśālinī)
 
 ## mukta-m0-p43-v1070
-[Vārāhī](vārāhī) [from-behind](pṛṣṭhato) [born](jātā) [on-Śeṣa-serpent+seated](śeṣanāgoparisthitā)
+[vārāhī](vārāhī) [from-behind](pṛṣṭhato) [born](jātā) [on-śeṣa-serpent](śeṣanāgoparisthitā)
 
 ## mukta-m0-p43-v1071
-[born+on-elephant-lord+seated](jātāgajendrapṛṣṭhasthā) [Māhendrī](māhendrī) [from-breast-region](stanamaṃḍalāt)
+[born](jātā) [on-elephant-king-back](gajendrapṛṣṭhasthā) [māhendrī](māhendrī) [from-breast-circle](stanamaṃḍalāt)
 
 ## mukta-m0-p43-v1072
-[from-bodies](śarīrebhyo) [having-come-forth](viniṣkramya) [with-those-forms](tadrūpaiś) [to-Caṇḍikā](caṃḍikāṃ) [went](yayuḥ)
+[from-bodies](śarīrebhyo) [emerging](viniṣkramya) [with-those-forms](tadrūpaiścaṃḍikāṃ) [went](yayuḥ)
 
 ## mukta-m0-p43-v1073
-[in-that-manner](tadvad) [indeed](eva) [verily](hi) [her-power](tacchaktir) [demons](asurān) [to-fight](yoddhum) [came](āyayau)
+[similarly](tadvadeva) [indeed](hi) [that-power](tacchaktiḥ) [to-fight-asuras](asurānyoddhum) [went](āyayau)
 
 ## mukta-m0-p43-v1074
-[she](sā) [is-called](abhidhīyate)
+[she-is-called](sābhidhīyate)
 
 ## mukta-m0-p43-v1075
-[having-great-serpent-bracelets](mahāhivalayā) [obtained](prāptā) [crescent-moon](candrarekhā) [ornament](vibhūṣaṇā)
+[great-snake-bracelets](mahāhivalayā) [obtained](prāptā) [moon-crescent](candrarekhā) [ornament](vibhūṣaṇā)

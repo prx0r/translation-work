@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p08-v176
-[thus](tathaiva) [of-mantra](mantrasya) [and](ca) [to-be-known](veditavyaṃ) [another-birth](jāti+antaraṃ) [indeed](hi) [one](ekam) [of-many-forms](aneka+rūpam)
+[thus-also](tathaiva) [of-mantra](mantrasya) [and](ca) [to-be-known](veditavyaṃ) [birth-difference](jātyantaraṃ) [indeed-one-form](hyekamenaka) [form](rūpam)
 
 ## mukta-m0-p08-v177
-[of-that-nature](tat+ātmaka) [remembered](smṛtā) [indeed](hi) [limbs](aṅgā) [placed-outside](bahir+āhita) [having-two-divisions](dvi+bhāga+hāḥ)
+[that-natured](tadātmaka) [remembered](smṛtā) [indeed-limbs](hyaṅgā) [external-placed](bahirāhita) [two-part-destroyers](dvibhāgahāḥ)
 
 ## mukta-m0-p08-v178
-[of-such-kind](tādṛśaḥ) [also](api) [figurative-application](upacāraḥ) [indeed](tu) [according-to-mantra-and-deity](mantra+deva+anurūpataḥ)
+[such-worship](tādṛśopyupacārastu) [mantra-deity-according](mantradevānurūpataḥ)
 
 ## mukta-m0-p08-v179
-[of-such-form](tathā+rūpaḥ) [may-become](bhavet) [mantra](mantraḥ) [then](tataḥ) [action](karma) [may-accomplish](prasādhayet)
+[thus](tathā) [form](rūpo) [becomes-mantra](bhavenmantrastataḥ) [action-accomplishes](karmaprasādhayet)
 
 ## mukta-m0-p08-v180
-[endowed-with-all-supports](sarva+upāśraya+sampannaṃ) [like](yathā) [crystal](sphaṭikaḥ) [or-stone](upa+lava+vat)
+[all-refuge](sarvopāśraya) [endowed](sampannaṃ) [crystal](sphaṭiko) [like-pebble](kopalavadyathā)
 
 ## mukta-m0-p08-v181
-[all-knowing](sarva+jñaḥ) [all-going](sarva+gaḥ) [and](ca) [indeed](eva) [consisting-of-all-forms](sarva+rūpa+mayaḥ) [indeed](hi) [he](saḥ)
+[all-knowing](sarvajñaḥ) [all-pervading-and](sarvagaścaiva) [all-form](sarvarūpa) [full-indeed](mayo) [he](hi) [he](saḥ)
 
 ## mukta-m0-p08-v182
-[free-from-disease](nir+āmayaṃ) [without-support](nir+ādhāraṃ) [devoid-of-color-and-form](varṇa+rūpa+vivarjitam)
+[diseaseless](nirāmayaṃ) [supportless](nirādhāraṃ) [sound-form](varṇarūpa) [devoid](vivarjitam)
 
 ## mukta-m0-p08-v183
-[beyond-senses](atīndriyaḥ) [without-support](nir+ālambaḥ) [very-subtle](su+sūkṣmaḥ) [eternal](śāśvataḥ) [unmoving](avyathaḥ)
+[beyond-senses](atīndriyo) [supportless](nirālambaḥ) [very-subtle](susūkṣmaḥ) [eternal](śāśvato) [pain](vyathaḥ)
 
 ## mukta-m0-p08-v184
-[incomparable](niraupamyaḥ) [and](ca) [immeasurable](aprameyaḥ) [and](ca) [supreme-self](para+ātmā) [is-declared](prakīrtitaḥ)
+[formless-two](niraupaumyau) [measurable-and](prameyaśca) [supreme-self](parātmā) [proclaimed](prakīrtitaḥ)
 
 ## mukta-m0-p08-v185
-[in-one-way](eka+dhā) [in-many-ways](bahu+dhā) [and](ca) [indeed](eva) [and](tathā) [indeed](eva) [is-attained](pratipadyate)
+[one-way](ekadhā) [many-way-and](bahudhā) [caiva](caiva) [thus](tathaiva) [attains](pratipadyate)
 
 ## mukta-m0-p08-v186
-[granting-all-desires](sarva+kāma+pradaḥ) [indeed](hi) [self](ātmā) [declared](proktaḥ) [with-sixfold-division-expanded](ṣaḍ+bheda+vistaraḥ)
+[all-desire-giving](sarvakāmaprado) [indeed-self](hyātmā) [spoken-six-division](proktaṣṣaḍbheda) [expansion](vistaraḥ)
 
 ## mukta-m0-p08-v187
-[of-mantra-nature](mantra+ātmā) [called-supreme](para+ākhyāḥ) [and](ca) [though-one](ekaḥ) [also](api) [existing-in-many-ways](bahu+dhā+sthitaḥ)
+[mantra-self](mantrātmā) [supreme-named-and](paramākhyāśca) [one-also](ekopi) [many-way](bahudhā) [stands](sthitaḥ)
 
 ## mukta-m0-p08-v188
-[of-mantra-nature](mantra+ātmā) [mantra](mantraṃ) [who](yaḥ) [to-be-known](jñeyaḥ) [indeed](hi) [inner-self](antar+ātmā) [endowed-with-speech](girā+anvitaḥ)
+[mantra-self](mantrātmā) [mantra](mantraṃ) [who](yo) [to-be-known](jñeyo) [indeed-inner-self-speech-possessed](hyantarātmāgirānvitaḥ)
 
 ## mukta-m0-p08-v189
-[having-conquered](jitvā) [own-world](sva+bhuvanaṃ) [of-them](teṣām) [by-these](ebhiḥ) [liberated](muktaḥ) [supreme](paraḥ) [indeed](tu)
+[having-conquered](jitvā) [own-world](svabhuvanaṃ) [of-them](teṣāmebhirmuktaḥ) [supreme-then](parastuḥ)
 
 ## mukta-m0-p08-v190
-[even-when-attained](prāptaḥ) [also](api) [he](saḥ) [in-two-ways](dvi+dhā) [being](bhāvī) [again-becoming](punar+bhāvam) [may-obtain](avāpnuyāt)
+[obtained-also](prāptopi) [he](sa) [two-fold](dvidhā) [becoming](bhāvi) [again-birth](punarbhāvamavāpnuyāt)
 
 ## mukta-m0-p08-v191
-[at-time-of-separation-of-principles](tatva+viśleṣa+kāle) [and](ca) [non-duality](advaitaṃ) [attains](pratipadyate)
+[truth-separation](tatvaviśleṣa) [time-and](kāle) [cādvaitaṃ](cādvaitaṃ) [attains](pratipadyate)
 
 ## mukta-m0-p08-v192
-[of-one](ekasya) [many-names](bahu+nāmāni) [separately-existing](pṛthak+bhūtāni) [by-millions](koṭibhiḥ)
+[of-one](ekasya) [many-names](bahunāmāni) [distinct-beings](pṛthagbhūtānya) [by-millions](koṭibhiḥ)
 
 ## mukta-m0-p08-v193
-[as](yathā) [is-manifested](abhivyajyate) [knowledge](jñānaṃ) [stainless](vimalaṃ) [facing-all-directions](sarvataḥ+mukham)
+[as-manifested](yathābhivyajyate) [knowledge](jñānaṃ) [pure](vimalaṃ) [all-faced](sarvatomukham)
 
 ## mukta-m0-p08-v194
-[I](aham) [alone](eva) [supreme](paraḥ) [indeed](hi) [self](ātmā) [person](puruṣaḥ) [cause](kāraṇaḥ) [remembered](smṛtaḥ)
+[I-indeed](ahameva) [supreme-indeed-self](parohyātmā) [person](puruṣaḥ) [cause](kāraṇaḥ) [remembered](smṛtaḥ)
 
 ## mukta-m0-p08-v195
-[all](sarve) [states-of-destruction](vināśaka+bhāvāḥ) [mind](manaḥ) [alone](eva) [of-various-kinds](pṛthak+vidhāḥ)
+[all](sarve) [destruction-absence](vināśakābhāvāṃ) [mind-indeed](mana) [eva](eva) [distinct-kinds](pṛthagvidhāḥ)
 
 ## mukta-m0-p08-v196
-[one-who-has-renounced-action-through-yoga](yoga+saṃnyasta+karmā) [who](yaḥ) [one-whose-doubts-are-cleft-by-knowledge](jñāna+saṃbhinna+saṃśayaḥ)
+[yoga-renounced](yogasaṃnyasta) [action-and](karmāyo) [knowledge-mixed](jñānasaṃbhinna) [doubt](saṃśayaḥ)
 
 ## mukta-m0-p08-v197
-[filled-with-many-objects](padārtha+aneka+sampūrṇa) [means-of-all-speech](sarva+vāṅmaya+sādhanam)
+[meaning-objects](padārthāneka) [complete](sampūrṇa) [all-speech-essence](sarvavāṅmaya) [means](sādhanam)
 
 ## mukta-m0-p08-v198
-[who](yaḥ) [that](asau) [beyond-senses](atīndriyaḥ) [to-be-grasped](grāhyaḥ) [beyond-principles](tatva+atītaḥ) [stainless](niraṃjanaḥ)
+[who-this](yo'sāvatīndriyo) [graspable](grāhyastatvātīto) [stainless](niraṃjanaḥ)
 
 ## mukta-m0-p08-v199
-[therefore](tasmāt) [scripture](śāstraṃ) [issued-forth](viniṣkrāntaṃ) [of-sound-form](nāda+rūpaṃ) [free-from-disease](nir+āmayam)
+[therefore-scripture](tasmācchāstraṃ) [issued](viniṣkrāntaṃ) [sound-form](nādarūpaṃ) [diseaseless](nirāmayam)
 
 ## mukta-m0-p08-v200
-[supreme-unification](parama+īkaraṇaṃ) [and](ca) [indeed](eva) [tell](brūhi) [in-truth](tatvena) [O-Śaṅkara](śaṅkara)
+[supreme-making-and](paramīkaraṇaṃ) [caiva](caiva) [speak](brūhi) [in-truth](tatvena) [shankara](śaṅkara)

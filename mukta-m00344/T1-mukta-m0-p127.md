@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p127-v3151
-[sanaka-etc.](sanakādyā) [vasiṣṭha](vasiṣṭhaḥ) [and](ca) [pulastya](pulastyaḥ) [pulaha](pulahaḥ) [kratu](kratuḥ)
+[sanaka-and-others](sanakādyā) [vasiṣṭha-and](vasiṣṭhaśca) [pulastya](pulastyaḥ) [pulaha](pulahaḥ) [kratu](kratuḥ)
 
 ## mukta-m0-p127-v3152
-[subtle](sūkṣma) [thus](iti) [of-very-subtle-inquiry-nature](atisūkṣma+vicāra+rūpaḥ) [sanaka-etc.](sanakādyāḥ) [assembled](samuditāḥ) [thus](iti) [construction](anvayaḥ)
+[subtle-thus](sūkṣmeti) [very-subtle-inquiry-form](atisūkṣmavicārarūpaḥ) [sanaka-and-others-gathered-thus-connection](sanakādyāḥ+samuditā+ityanvayaḥ)
 
 ## mukta-m0-p127-v3153
-[cyavana](cyavanaḥ) [vāmadeva](vāmadevaḥ) [and](ca) [viśvāmitra](viśvāmitraḥ) [then](atha) [gautama](gautamaḥ)
+[cyavana](cyavano) [vāmadeva-and](vāmadevaśca) [viśvāmitra-then](viśvāmitro'tha) [gautama](gautamaḥ)
 
 ## mukta-m0-p127-v3154
-[dakṣa](dakṣaḥ) [sumantu](sumantuḥ) [śaṅkha](śaṅkhaḥ) [and](ca) [likhita](likhitaḥ) [devala](devalaḥ) [also](api) [and](ca)
+[dakṣa](dakṣaḥ) [sumantu](sumantuḥ) [śaṅkha-and](śaṅkhaśca) [likhita](likhito) [devala-also](devalo'pi) [and](ca)
 
 ## mukta-m0-p127-v3155
-[all](sarve) [assembled](samuditāḥ) [there](tatra) [in-brahma-sacrifice](brahma+satre) [very-great](mahattare)
+[all-gathered-there](sarve+samuditāstatra) [brahma-sacrifice](brahmasatre) [great](mahattare)
 
 ## mukta-m0-p127-v3156
-[in-brahma-sacrifice](brahma+satre) [in-knowledge-sacrifice-context](jñāna+yajña+prasaṅge)
+[brahma-sacrifice](brahmasatre) [knowledge-sacrifice-context](jñānayajñaprasaṅge)
 
 ## mukta-m0-p127-v3157
-[brahmā](brahmāṇaṃ) [there](tatra) [asked](papracchuḥ) [sages](ṛṣayaḥ) [all](sarve) [indeed](eva) [they](te)
+[brahmā](brahmāṇaṃ) [there](tatra) [asked](papracchur) [sages](ṛṣayaḥ) [all-indeed-they](sarva+eva+te)
 
 ## mukta-m0-p127-v3158
-[of-them](teṣāṃ) [to-us](naḥ) [various](vividhā) [appears](bhāti) [state](sthitiḥ) [due-to-nature-difference](prakṛti+bhedataḥ)
+[their](teṣāṃ) [no](no) [various](vividhā) [appears](bhāti) [state](sthitiḥ) [from-nature-difference](prakṛtibhedataḥ)
 
 ## mukta-m0-p127-v3159
-[due-to-nature-difference](prakṛti+bhedataḥ) [due-to-natural-disposition-difference](prākṛta+saṃskāra+bhedāt)
+[from-nature-difference](prakṛtibhedataḥ) [from-prakṛti-saṃskāra-difference](prākṛtasaṃskārabhedāt)
 
 ## mukta-m0-p127-v3160
-[some](apare) [immersed-in-devotion](bhakti+nirmagnāḥ) [and](ca) [others](anye) [resorting-to-action](karma+samāśrayāḥ)
+[others](apare) [devotion-immersed](bhaktinirmagnāś) [and-others](cānye) [karma-refuge](karmasamāśrayāḥ)
 
 ## mukta-m0-p127-v3161
-[that](tat) [indeed](eva) [says](āha) [some](kecit) [thus](iti)
+[that-indeed-says](tadevāha) [some-thus](keciditi)
 
 ## mukta-m0-p127-v3162
-[among-them](teṣu) [superior](śreyān) [indeed](hi) [which](katamaḥ) [this](etat) [to-us](naḥ) [to-tell](vaktum) [you-should](arhasi)
+[among-them](teṣu) [better-indeed](śreyān+hi) [which](katama) [this](etat) [no](no) [to-speak](vaktum) [you-should](arhasi)
 
 ## mukta-m0-p127-v3163
-[among-them](teṣu) [those-established-in-absorption-etc.](samādhistha+ādiṣu) [superior](śreyān) [best](śreṣṭhaḥ)
+[among-them](teṣu) [samādhi-etc](samādhisthādiṣu) [better](śreyān) [best](śreṣṭhaḥ)
 
 ## mukta-m0-p127-v3164
-[thus](iti) [asked](pṛṣṭaḥ) [said](avadat) [brahmā](brahmā) [thinking](matvā) [of-unconfident-minds](anāśvasta+mānasān)
+[thus](iti) [asked](pṛṣṭo) [said](avadad) [brahmā](brahmā) [thinking](matvā) [unsteady-minded](anāśvastamānasān)
 
 ## mukta-m0-p127-v3165
-[they-will-grasp](grahīṣyanti) [thus](iti) [thinking](matvā) [thus](iti) [sense](bhāvaḥ)
+[will-grasp-thus](grahīṣyantīti) [thinking-thus](mattveti) [meaning](bhāvaḥ)
 
 ## mukta-m0-p127-v3166
-[one-should-know](jānīyāt) [this](imam) [matter](artham) [but](tu) [all-knowing](sarva+jñaḥ) [supreme-lord](parama+īśvaraḥ)
+[to-know-this-meaning](jānīyādimamarthaṃ) [but](tu) [all-knowing](sarvajñaḥ) [supreme-lord](parameśvaraḥ)
 
 ## mukta-m0-p127-v3167
-[having-met](saṅgamya) [lord-of-gods](deva+deva+īśam) [by-viṣṇu-approached](viṣṇunā+abhisamāgatam)
+[approaching](saṅgamya) [god-of-gods](devadeveśaṃ) [viṣṇu-nābhi-met](viṣṇunābhisamāgatam)
 
 ## mukta-m0-p127-v3168
-[mahādeva](mahādevam) [having-met](saṅgamya) [having-reached](prāpya)
+[great-god](mahādevaṃ) [approaching](saṅgamya) [obtaining](prāpya)
 
 ## mukta-m0-p127-v3169
-[question](praśnam) [having-heard](niśamya) [and](ca) [śiva](śivaḥ) [having-known](jñātvā) [brahmā-not-approached](vidhim+anogatam)
+[question](praśnaṃ) [hearing](niśamya) [and](ca) [śiva](śivo) [knowing](jñātvā) [brahmā-mind-gone](vidhimanogatam)
 
 ## mukta-m0-p127-v3170
-[brahmā-not-approached](vidhim+anogatam) [unconfident](anāśvastāḥ) [these](ete) [my-word](mat+vacaḥ) [not](na) [they-will-grasp](grahīṣyanti) [thus](iti)
+[brahmā-mind-gone](vidhimanogatam) [unsteady](anāśvastā) [these](ete) [my-word](madvaco) [not](na) [will-grasp-thus](grahīṣyantīti)
 
 ## mukta-m0-p127-v3171
-[in-the-present-question-subject](prakṛta+praśna+viṣaye) [nanu-particle](nanu) [thus](iti) [indicating-supposition-etc.](sambhāvanā+dyotakaḥ)
+[topic-question-subject](prakṛtapraśnaviṣaye) [nanu](nanviti) [possibility-indicator](sambhāvanādyotakaḥ)
 
 ## mukta-m0-p127-v3172
-[thus](iti) [having-thought](matvā) [replied](pratyuvāca) [god-of-gods](deva+devaḥ) [great-lord](mahā+īśvaraḥ)
+[thus](iti) [thinking](matvā) [replied](pratyuvāca) [god-of-gods](devadevo) [great-lord](maheśvaraḥ)
 
 ## mukta-m0-p127-v3173
-[it-may-be](bhavet) [thus](iti) [having-thought](matvā)
+[will-be-thus](bhavediti) [thinking](matvā)
 
 ## mukta-m0-p127-v3174
-[therefore](ataḥ) [knowledge](vidyām) [divine](bhagavatīm) [we-meditate-on](dhyāyāmaḥ) [supreme-goddess](parama+īśvarīm)
+[therefore](ato) [knowledge](vidyāṃ) [goddess](bhagavatīṃ) [meditate](dhyāyāmaḥ) [supreme-goddess](parameśvarīm)
 
 ## mukta-m0-p127-v3175
-[by-being-endowed-with-complete-independence](pūrṇa+svātantrya+yuktatvena) [in-cutting-our-doubt](asmat+saṃśaya+chedane) [capable](samarthā) [indeed](eva) [thus](iti) [sense](bhāvaḥ)
+[full-independence-endowed](pūrṇasvātantryayuktatvena) [our-doubt-cutting](asmatsaṃśayacchedane) [capable-indeed-thus](samarthaiveti) [meaning](bhāvaḥ)

@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p79-v1951
-[immovable](sthāṇu)+[form](rūpaḥ) [moving](cara)+[gait](gatiḥ) [lovely](cāru)+[faced](vaktraḥ) [victorious](jayī) [leader](nayī)
+[pillar+form](sthāṇurūpaḥ) [moving+gait](caragatiḥ) [beautiful+face](cāruvaktro) [victorious](jayī) [leader](nayī)
 
 ## mukta-m0-p79-v1952
-[lakṣmī](lakṣmī)+[eye](netra)+[controlled](vaśī) [lakṣmī](lakṣmī)+[smile](hāsa)+[subject](vaśyaḥ) [dancer](vinartakaḥ)
+[lakshmi+eye+controlled](lakṣmīnetravaśī) [lakshmi+smile+controlled](lakṣmīhāsavaśyo) [dancer](vinartakaḥ)
 
 ## mukta-m0-p79-v1953
-[vāsava](vāsavaḥ) [secret](gopya)+[path](mārga)+[desired](iṣṭaḥ) [vaiṣṇava](vaiṣṇava)+[conduct](ācāra)+[devoted](tatparaḥ)
+[indra](vāsavo) [secret+path+desired](gopyamārgeṣṭo) [vaishnava+conduct+devoted](vaiṣṇavācāratatparaḥ)
 
 ## mukta-m0-p79-v1954
-[truth](satyaḥ) [praiseworthy](stutyaḥ) [pure](śuciḥ) [eternal](nityaḥ) [eternal](nitya)+[self](ātmā) [eternal](nitya)+[vision](darśanaḥ)
+[true](satyaḥ) [praiseworthy](stutyaḥ) [pure](śucirnityo) [eternal+self](nityātmā) [eternal+vision](nityadarśanaḥ)
 
 ## mukta-m0-p79-v1955
-[fifth](pañcama)+[note](svara)+[sung](saṅgītaḥ) [fame](kīrti)+[giver](daḥ) [delusion](moha)+[destroyer](nāśanaḥ)
+[fifth+tone+music](pañcamasvarasaṅgītaḥ) [fame+giver](kīrtido) [delusion+destroyer](mohanāśanaḥ)
 
 ## mukta-m0-p79-v1956
-[lakṣmī](lakṣmī)+[lord-of-yogis](yogīśvaraḥ) [variant-lord-of-yogis]([kh: yogeśvaraḥ]) [lakṣmī](lakṣmī)+[yoga](yoga)+[giver](daḥ) [enjoyer](bhogi)+[lord](nāyakaḥ)
+[lakshmi+yoga+lord](lakṣmīyogīśvaro) [kh: yogeśvaraḥ](kh: yogeśvaraḥ) [lakshmi+yoga+giver](lakṣmīyogado) [enjoyment+leader](bhogināyakaḥ)
 
 ## mukta-m0-p79-v1957
-[inconceivable](acintya)+[greatness](mahimā) [inconceivable](acintya)+[gravity](garimā) [terrible](ghora)+[sound](nisvanaḥ)
+[unthinkable+glory](acintyamahimā) [unthinkable+weight](acintyagarimā) [terrible+sound](ghoranisvanaḥ)
 
 ## mukta-m0-p79-v1958
-[love-god](kāma-devaḥ) [physician-of-physicians](vaidya-vaidyaḥ) [knower-of-veda](veda-vid) [leader-of-veda](veda-nāyakaḥ)
+[love+god](kāmadevo) [physician+physician](vaidyavaidyo) [veda+knower](vedavid) [veda+leader](vedanāyakaḥ)
 
 ## mukta-m0-p79-v1959
-[fit-for-sacrifice](yājñikaḥ) [of-self-controlled](yaminām)+[protector](trātā) [three-worlds](tri-loka)+[father](janakaḥ)+[unaging](ajaraḥ)
+[sacrificer](yājñiko) [ascetics+protector](yamināṃ trātā) [three+worlds+father](trilokajanako) [ageless](ajaraḥ)
 
 ## mukta-m0-p79-v1960
-[lakṣmī](lakṣmī)+[broad](pṛthuḥ) [good-wealth](vasu)+[pleased](prītaḥ) [lakṣmī](lakṣmī)+[fortune](śrī)+[giver](daḥ) [of-fortune](śriyaḥ)+[lord](patiḥ)
+[lakshmi+broad+pleased](lakṣmīpṛthurvasuprīto) [lakshmi+glory+giver](lakṣmīśrīdaḥ) [beauty+lord](śriyaḥpatiḥ)
 
 ## mukta-m0-p79-v1961
-[unfailing](anirvartī) [and](ca) [unattached](niḥsaṅgaḥ) [fearless](nirbhayaḥ) [without-calamity](nirupadravaḥ)
+[irreversible](anirvartī) [detached](niḥsaṅgo) [fearless](nirbhayo) [untroubled](nirupadravaḥ)
 
 ## mukta-m0-p79-v1962
-[without-support](nirāśrayaḥ) [without-qualities](nirguṇaḥ)+[and](ca) [beyond-qualities](guṇa-atītaḥ) [lord-of-troops](gaṇa-īśvaraḥ)
+[supportless](nirāśrayo) [qualityless](nirguṇaśca) [beyond+qualities](guṇātīto) [troop+lord](gaṇeśvaraḥ)
 
 ## mukta-m0-p79-v1963
-[great-sacrifice](mahā-kratuḥ) [sacrifice](yajña)+[body](vapuḥ) [boar-form](vara-āhaḥ) [sacrifice](yajña)+[leader](nāyakaḥ)
+[great+sacrifice](mahākraturyajñavapurvarāho) [sacrifice+leader](yajñanāyakaḥ)
 
 ## mukta-m0-p79-v1964
-[lakṣmī](lakṣmī)+[stainless](nirañjanaḥ) [lakṣmī](lakṣmī)+[accomplishment](siddhi)+[giver](daḥ) [accomplishment](siddhi)+[increaser](vardhanaḥ)
+[lakshmi+stainless](lakṣmīnirañjano) [lakshmi+perfection+giver](lakṣmīsiddhidaḥ) [perfection+increaser](siddhivardhanaḥ)
 
 ## mukta-m0-p79-v1965
-[all-worlds](sarva-loka)+[supporter](dharaḥ) [subdued](dāntaḥ) [elephant-tusk](danti-danta)+[weapon](āyudhaḥ) [self-controlled](damī)
+[all+worlds+bearer](sarvalokadharo) [controlled](dānto) [elephant+tusk+weapon](dantidantāyudho) [subduer](damī)
 
 ## mukta-m0-p79-v1966
-[great-deed](mahā-karma) [great-chinese](mahā-cīnaḥ) [makara](makāra)+[śiva](śiva)+[worshipped](pūjitaḥ)
+[great+action](mahākarmā) [great+china](mahācīno) [ma+siva+worshipped](makāraśivapūjitaḥ)
 
 ## mukta-m0-p79-v1967
-[flesh-eater](māṃsa-āhārī) [eternal-companion](nitya-saṅgī) [fish](mīna)+[liquor](āsava)+[essence](rasa)+[crowded](ākulaḥ)
+[meat+eater](māṃsāhārī) [eternal+companion](nityasaṅgī) [fish+essence+filled](mīnāsavarasākulaḥ)
 
 ## mukta-m0-p79-v1968
-[terrible-god](aghora-devaḥ) [demon-enemy](daitya-ariḥ) [conquered-god](jita-devaḥ) [sun](divākaraḥ)
+[not+terrible+god](aghoradevo) [demon+enemy](daityārirjitadevo) [sun](divākaraḥ)
 
 ## mukta-m0-p79-v1969
-[true-nature](sat-svarūpaḥ) [odd-eyed](virūpa-akṣaḥ) [sun](vibhākara)+[hundred-radiance](śata-prabhaḥ)
+[true+form](satsvarūpo) [odd+eyed](virūpākṣo) [radiant+maker+hundred+radiance](vibhākaraśataprabhaḥ)
 
 ## mukta-m0-p79-v1970
-[firm-armed](pīna-bāhuḥ) [thick-footed](sthūla-pādaḥ) [long-eyed](dīrgha-cakṣuḥ) [long-armed](alaṃ-bhujaḥ)
+[stout+arm](pīnabāhuḥ) [thick+foot](sthūlapādo) [long+eyed](dīrghacakṣuralaṃbhujaḥ)
 
 ## mukta-m0-p79-v1971
-[lakṣmī](lakṣmī)+[eternal](sanātanaḥ) [lakṣmī](lakṣmī)+[dharma](dharma)+[overseer](adhyakṣaḥ) [lord-of-wealth](dhana-īśvaraḥ)
+[lakshmi+eternal](lakṣmīsanātano) [lakshmi+dharma+overseer](lakṣmīdharmādhyakṣo) [wealth+lord](dhaneśvaraḥ)
 
 ## mukta-m0-p79-v1972
-[hero-slayer](vīra-haḥ) [lotus-eyed](puṇḍarīka-akṣaḥ) [lotus-naveled](padma-nābhaḥ) [world-lord](jagat-prabhuḥ)
+[hero+slayer](vīrahaḥ) [lotus+eyed](puṇḍarīkākṣaḥ) [lotus+naveled](padmanābho) [world+lord](jagatprabhuḥ)
 
 ## mukta-m0-p79-v1973
-[thousand-armed](sahasra-bāhuḥ) [lord-of-warriors](kṣatra-īśaḥ) [brahmin](brāhmaṇaḥ) [of-merchants](vaṇijām)+[lord](patiḥ)
+[thousand+armed](sahasrabāhuḥ) [kshatriya+lord](kṣatreśo) [brahmin](brāhmaṇo) [merchants+lord](vaṇijāṃ patiḥ)
 
 ## mukta-m0-p79-v1974
-[disk](cakra)+[worshipped](arcitaḥ) [crocodile-lord](nakra-patiḥ) [varuṇa](varuṇaḥ) [śakra-brother](śakra-sodaraḥ)
+[wheel+worshipped](cakrārcito) [crocodile+lord](nakrapatirvaruṇaḥ) [indra+brother](śakrasodaraḥ)
 
 ## mukta-m0-p79-v1975
-[without-pride](amānī) [giver-of-honor](māna-daḥ) [honorable](mānyaḥ) [lord-of-men](mānava-indraḥ) [best-of-manu](manu-uttamaḥ)
+[not+proud](amānī) [honor+giver](mānado) [honorable](mānyo) [man+lord](mānavendro) [manu+best](manūttamaḥ)

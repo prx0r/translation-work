@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p90-v2226
-[ḍāmara+lord](ḍāmareśo) [odd-eyed](virūpākṣo) [universe+enjoyer](viśvabhoktā) [radiant-one](vibhāvasuḥ)
+[lord-of-ḍāmaras](ḍāmareśo) [odd-eyed](virūpākṣo) [world-enjoyer](viśvabhoktā) [fire/sun](vibhāvasuḥ)
 
 ## mukta-m0-p90-v2227
-[leader](vinetā) [disciplined](vinayī) [speaker](vādī) [desire+giver](vāntado) [speech+born](vāgbhavo) [youth](vaṭuḥ)
+[guide](vinetā) [humble](vinayī) [speaker](vādī) [vomit-giver](vāntado) [speech-born/speech-giver](vāgbhavo) [brahmacarin](vaṭuḥ)
 
 ## mukta-m0-p90-v2228
-[worthy-of-worship](virādheyo) [detached](virāgīno) [playful](vilāsī) [dance+delighting](lāsyalālasaḥ)
+[slayer-of-Virādha](virādheyo) [dispassionate](virāgīno) [sportive](vilāsī) [fond-of-dance](lāsyalālasaḥ)
 
 ## mukta-m0-p90-v2229
-[wealthy](dhanī) [to-be-meditated](dhyeyo) [and](api) [not-to-be-meditated](adhyeyaś) [and](ca) [righteous](dharmyo) [dharma+made](dharmamayo) [compassion](dayaḥ)
+[wealthy](dhanī) [meditable-and-unmeditable](dhyeyo'pyadhyeyaśca) [righteous](dharmyo) [embodiment-of-dharma](dharmamayo) [compassion](dayaḥ)
 
 ## mukta-m0-p90-v2230
-[trembling+eyed](ḍulicakṣur) [cave+dwelling](darīvāso) [proud](dambhī) [god+consisting+self](devamayātmakaḥ)
+[dweller-in-cave-with-...-eye](ḍulicakṣurdarīvāso) [proud/hypocrite](dambhī) [self-made-of-gods](devamayātmakaḥ)
 
 ## mukta-m0-p90-v2231
-[slow+mover](śanaiścaro) [speed+going](vegagatir) [talkative](vācālo) [Rahu](rāhur) [imperishable](avyayaḥ)
+[Saturn](śanaiścaro) [swift-moving](vegagati) [talkative](vācālo) [Rahu-imperishable](rāhuravyayaḥ)
 
 ## mukta-m0-p90-v2232
-[Bharga+form+bearing](bhargarūpabhṛt)
+[bearing-form-of-Bharga](bhargarūpabhṛt)
 
 ## mukta-m0-p90-v2233
-[elephant+faced+dear](gajānanapriyo) [sung](gīto) [singer](gānī) [bathing+worship+fond](snānārcanapriyaḥ)
+[fond-of-elephant-faced](gajānanapriyo) [sung](gīto) [singer](gānī) [fond-of-bathing/worship](snānārcanapriyaḥ)
 
 ## mukta-m0-p90-v2234
-[supreme+self](parātmako) [cosmic+dwelling](virāḍvāso) [monkey](vānaro) [immeasurable+deed+doer](amitakarmakṛt)
+[supreme-self](parātmako) [cosmic-garment/priest](virāḍvāso) [monkey-doer-of-boundless-deeds](vānaro'mitakarmakṛt)
 
 ## mukta-m0-p90-v2235
-[Nandin+lord](nandīśvaro) [conduct](nayo) [serpent](nāgo) [serpent+ornament+adorned](nāgālaṅkāramaṇḍitaḥ)
+[lord-Nandi](nandīśvaro) [policy](nayo) [serpent](nāgo) [adorned-with-serpent-ornaments](nāgālaṅkāramaṇḍitaḥ)
 
 ## mukta-m0-p90-v2236
-[three+eyed](trilocanas) [three+world+lord](trilokeśas) [three+form](trimūrtis) [Tripura+destroyer](tripurāntakaḥ)
+[three-eyed](trilocana) [lord-of-three-worlds](trilokeśa) [three-formed](trimūrti) [destroyer-of-Tripura](tripurāntaka)
 
 ## mukta-m0-p90-v2237
-[addicted](vyasanī) [satisfied](toṣitaḥ) [Śambhu](śambhus) [three+stream+form](tridhārūpas) [three+color+partaking](trivarṇabhāk)
+[addicted](vyasanī) [pleased](toṣita) [Shambhu](śambhu) [three-stream-form](tridhārūpa) [possessing-three-colors](trivarṇabhāk)
 
 ## mukta-m0-p90-v2238
-[threefold+quality+possessing](tridhāguṇī) [universe+maker](viśvakartā) [universe+supporter](viśvabhartā) [supreme+person](ādhipūruṣaḥ)
+[having-three-gunas](tridhāguṇī) [world-maker](viśvakartā) [world-sustainer](viśvabhartā) [supreme-person](adhipūruṣa)
 
 ## mukta-m0-p90-v2239
-[discernment+eyed](vivekākṣo) [wide+eyed](viśālākṣo) [without-rule](avidhir) [rule](vidhir) [unsurpassed](anuttamaḥ)
+[eye-of-discernment](vivekākṣo) [wide-eyed](viśālākṣo) [not-rule](avidhi) [rule](vidhi) [unsurpassed](anuttama)
 
 ## mukta-m0-p90-v2240
-[endowed-with-memory](smṛtimān) [memory+giver](smṛtidaḥ) [versed-in-smṛti](smārto) [Brahmā](brahmā) [Brahman+knowers+among+best](brahmavidāṃ) [best](varaḥ)
+[possessing-memory](smṛtimān) [giver-of-memory](smṛtida) [smarta](smārto) [Brahma](brahmā) [best-among-knowers-of-Brahman](brahmavidāṃ vara)
 
 ## mukta-m0-p90-v2241
-[moving+and+unmoving](calācalo) [unmoving+going](acalagatir) [swift](vegī) [hero+lord](vīrādhipo) [excellent](varaḥ)
+[moving/immovable](calācalo) [immovable-motion](acalagati) [swift](vegī) [lord-of-heroes](vīrādhipo) [boon](vara)
 
 ## mukta-m0-p90-v2242
-[all+pervading](sarvavyāpī) [all+form](sarvarūpaḥ) [ocean](sāgaraś) [and](ca) [equal+lord](sameśvaraḥ)
+[all-pervading](sarvavyāpī) [all-formed](sarvarūpa) [ocean](sāgara) [equal-lord](sameśvara)
 
 ## mukta-m0-p90-v2243
-[endowed-with-essence](sarasvān) [true+speech](satyavāk) [true](satyaḥ) [truth+form](satyarūpaḥ) [wise](sudhīḥ) [happy](sukhī)
+[possessing-Sarasvati](sarasvān) [truth-speaking](satyavāk) [truth](satya) [truth-formed](satyarūpa) [wise](sudhī) [happy](sukhī)
 
 ## mukta-m0-p90-v2244
-[endowed-with-wealth](vasumān) [earth+lord](vasudhānātho) [wealth+form](vasurūpo) [wealth+giver](vasupradaḥ)
+[possessing-wealth](vasumān) [lord-of-earth](vasudhānātho) [wealth-formed](vasurūpo) [giver-of-wealth](vasuprada)
 
 ## mukta-m0-p90-v2245
-[lord](īśo) [without-remainder](avaśeṣo) [possessing-parts](avayavī) [Śeṣa+reclining](śeṣaśāyī) [Śrī+of+husband](śriyaḥ) [husband](patiḥ)
+[lord](īśo) [remainder](avaśeṣo) [having-limbs](avayavī) [reclining-on-Shesha](śeṣaśāyī) [lord-of-Lakshmi](śriyaḥ pati)
 
 ## mukta-m0-p90-v2246
-[firm](sthiraḥ) [pillar](sthāṇur) [subtle](aṇuḥ) [stout](pīnaḥ) [stout+chest](pīnavakṣāḥ) [beyond+the-beyond](parātparaḥ)
+[firm](sthira) [pillar](sthāṇu) [atom](aṇu) [fat](pīna) [broad-chested](pīnavakṣā) [beyond-beyond](parātpara)
 
 ## mukta-m0-p90-v2247
-[beast+form](paśurūpaḥ) [beast+lord](paśupatiḥ) [beast+knower](paśujñānī) [milk+ocean](payonidhiḥ)
+[animal-formed](paśurūpa) [lord-of-beasts](paśupati) [knower-of-beasts](paśujñānī) [ocean-of-milk](payonidhi)
 
 ## mukta-m0-p90-v2248
-[trident-bearer](śūlī) [auspicious+maker](śubhaṅkaraḥ) [splendid](śobhyaḥ) [auspicious+doer](śubhakartā) [Śacī+lord](śacīpatiḥ)
+[trident-bearer](śūlī) [maker-of-auspicious](śubhaṅkara) [radiant](śobhya) [doer-of-good](śubhakartā) [lord-of-Shachi](śacīpati)
 
 ## mukta-m0-p90-v2249
-[four+armed](caturbhujaś) [eight+armed](cāṣṭabhujaḥ) [thousand+arm+adorned](sahasrabhujamaṇḍitaḥ)
+[four-armed](caturbhuja) [and-eight-armed](cāṣṭabhuja) [adorned-with-thousand-arms](sahasrabhujamaṇḍita)
 
 ## mukta-m0-p90-v2250
-[god](devo) [great+ocean](mahodadhir) [divine](divyo) [divine+fame](divyakīrtir) [day+maker](divākaraḥ)
+[god](devo) [great-ocean](mahodadhi) [divine](divyo) [divine-fame](divyakīrti) [sun](divākara)
