@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p50-v1226
-[trident](triśūlaṃ) [protect](pātu) [us](no) [from fear](bhīteḥ) [Bhadrakali](bhadrakāli) [salutation](namo) [be](astu) [to you](te)
+[trident](triśūlaṃ) [protect+us+from-fear+bhadrakali](pātunobhīterbhadrakāli) [salutation+to-you](namo'stute)
 
 ## mukta-m0-p50-v1227
-[that](sā) [bell](ghaṇṭā) [protect](pātu) [us](no) [goddess](devi) [from sins](pāpebhyaḥ) [our](naḥ) [sons](sutān) [like](iva)
+[that](sā) [bell](ghaṇṭā) [protect](pātu) [us](no) [goddess](devi) [from-sins](pāpebhyo) [like-sons](sutāniva)
 
 ## mukta-m0-p50-v1228
-[for auspiciousness](śubhāya) [sword](khaḍgaḥ) [be](bhavatu) [Caṇḍikā](caṇḍike) [you](tvāṃ) [bowed](natāḥ) [we](vayam)
+[for-auspiciousness](śubhāya) [sword](khaḍgo) [be](bhavatu) [caṇḍikā](caṇḍike) [to-you](tvāṃ) [we-bow](natā) [we](vayam)
 
 ## mukta-m0-p50-v1229
-[forms](rūpaiḥ) [many](anekaiḥ) [in many ways](bahudhā) [own form](ātmamūrtim) [having made](kṛtvā) [Ambikā](ambike) [that](tat) [does](prakaroti) [who else](kā anyā)
+[forms](rūpair) [many](anekair) [in-many-ways](bahudhā) [own-form](ātmamūrtiṃ) [having-made](kṛtvā) [mother](ambike) [that](tat) [does](prakaroti) [who-other](kānyā)
 
 ## mukta-m0-p50-v1230
-[ego-pit](mamatvagarte) [great darkness](mahāndhakāre) [illuminates](vibhāmayati) [this](etat) [world](viśvam)
+[in-egotism-pit](mamatvagarte) [great-darkness](ati-mahāndhakāre) [illuminates](vibhāmayati) [this](etat) [without-end](atāva) [universe](viśvam)
 
 ## mukta-m0-p50-v1231
-[forest fire](dāvānalaḥ) [where](yatra) [ocean middle](abdhimadhye) [there](tatra) [situated](sthitā) [you](tvaṃ) [protect](paripāsi) [world](viśvam)
+[forest-fire](dāvānalo) [where](yatra) [and](tathā) [ocean-middle](abdhimadhye) [there](tatra) [standing](sthitā) [you](tvaṃ) [protect](paripāsi) [universe](viśvam)
 
 ## mukta-m0-p50-v1232
-[by all lords worshipped](viśveśavandyā) [become](bhavati) [world refuge](viśvāśrayā) [those](ye) [in you](tvayi) [devotion-bowed](bhaktinamrāḥ)
+[by-all-lords-worshipped](viśveśavandyā) [become](bhavati) [those](ye) [in-you](tvayi) [devotion-bowed](bhaktinamrāḥ) [world-refuge](viśvāśrayā)
 
 ## mukta-m0-p50-v1233
-[great afflictions](mahopasargān)
+[great-afflictions](mahopasargān)
 
 ## mukta-m0-p50-v1234
-[three-worlds dwellers](trailokyavāsinām) [praised](īḍye) [worlds](lokānām) [boon-giver](varadā) [be](bhava)
+[of-three-worlds-dwellers](trailokyavāsinām) [praised](īḍye) [of-worlds](lokānāṃ) [boon-giver](varadā) [be](bhava)
 
 ## mukta-m0-p50-v1235
-[Devi said](devyuvāca)
+[the-goddess-said](devyuvāca)
 
 ## mukta-m0-p50-v1236
-[that](taṃ) [choose](vṛṇudhvam) [I give](prayacchāmi) [worlds](jagatām) [benefactor](upakārakam)
+[that](taṃ) [choose](vṛṇudhvaṃ) [I-give](prayacchāmi) [of-worlds](jagatām) [beneficial](upakārakam)
 
 ## mukta-m0-p50-v1237
-[gods said](devā ūcuḥ)
+[the-gods-said](devā+ūcuḥ)
 
 ## mukta-m0-p50-v1238
-[thus](evameva) [by you](tvayā) [to be done](kāryam) [our enemies destruction](asmadvairivināśanam)
+[thus](evameva) [by-you](tvayā) [to-be-done](kāryam) [our-enemy-destruction](asmadvairivināśanam)
 
 ## mukta-m0-p50-v1239
-[Devi said](devyuvāca)
+[the-goddess-said](devyuvāca)
 
 ## mukta-m0-p50-v1240
-[Śumbha](śumbhaḥ) [Niśumbha](niśumbhaḥ) [and others](ca eva anyau) [will arise](utpatsyete) [great asuras](mahāsurau)
+[śumbha](śumbho) [niśumbha](niśumbhaś) [and](ca) [eva](eva) [others](anyāv) [will-arise](utpatsyete) [great-demons](mahāsurau)
 
 ## mukta-m0-p50-v1241
-[then](tataḥ) [those](tau) [I will destroy](nāśayiṣyāmi) [Vindhya-dwelling](vindhyācalanivāsinī)
+[then](tatastau) [I-will-destroy](nāśayiṣyāmi) [vindhya-residing](vindhyācalanivāsinī)
 
 ## mukta-m0-p50-v1242
-[descending](avatīrya) [I will kill](haniṣyāmi) [Vaipracitta](vaipracittān) [demons](dānavān)
+[descending](avatīrya) [I-will-kill](haniṣyāmi) [vaipracitta](vaipracittāṃs) [demons](tu+dānavān)
 
 ## mukta-m0-p50-v1243
-[red teeth](raktadantāḥ) [will be](bhaviṣyanti) [pomegranate flower like](dāḍimīkusumopamāḥ)
+[red-teeth](raktādantā) [will-become](bhaviṣyanti) [pomegranate-flower-like](dāḍimīkusumopamāḥ)
 
 ## mukta-m0-p50-v1244
-[praising](stuvantaḥ) [will call](vyāhāraṣyanti) [always](satatam) [Raktadantikā](raktadantikām)
+[praising](stuvanto) [will-utter](vyāhāraṣyanit) [always](satataṃ) [red-toothed-one](raktadantikām)
 
 ## mukta-m0-p50-v1245
-[by sages](munibhiḥ) [praised](saṃstutā) [on earth](bhūmau) [I will be born](saṃbhaviṣyāmi) [not womb-born](ayonijā)
+[by-sages](munibhiḥ) [praised](saṃstutā) [on-earth](bhūmau) [I-will-be-born](saṃbhaviṣyāmy) [not-womb-born](ayonijā)
 
 ## mukta-m0-p50-v1246
-[will praise](kīrtayiṣyanti) [humans](manujāḥ) [Śatākṣī](śatākṣīm) [thus](iti) [me](mām) [then](tataḥ)
+[will-praise](kīrtayiṣyanti) [humans](manujāḥ) [hundred-eyed](śatākṣīm) [thus](iti) [me](māṃ) [then](tataḥ)
 
 ## mukta-m0-p50-v1247
-[I will nourish](bhariṣyāmi) [gods](surāḥ) [with vegetables](śākaiḥ) [from drought](āvṛṣṭeḥ) [life-sustaining](prāṇadhārakaiḥ)
+[I-will-nourish](bhariṣyāmi) [gods](surāḥ) [vegetables](śākair) [from-drought](āvṛṣṭeḥ) [life-sustaining](prāṇadhārakaiḥ)
 
 ## mukta-m0-p50-v1248
-[Durgama-named great asura](durgamākhyaṃmahāsuram)
+[durgama-named-great-demon](durgamākhyaṃ+mahāsuram)
 
 ## mukta-m0-p50-v1249
-[again](punaḥ) [and I](ca aham) [when](yadā) [terrible](bhīmam) [form](rūpam) [having made](kṛtvā) [on Himalaya](himācale)
+[again](punaś) [and](cāhaṃ) [when](yadā) [fierce](bhīmaṃ) [form](rūpaṃ) [having-made](kṛtvā) [on-himalaya](himācale)
 
 ## mukta-m0-p50-v1250
-[then](tadā) [me](mām) [sages](munayaḥ) [all](sarve) [will praise](stoṣyanti) [with bowed forms](ānamramūrtayaḥ)
+[then](tadā) [me](māṃ) [sages](munayaḥ) [all](sarve) [will-praise](stoṣyanty) [with-bowed-forms](ānamramūrtayaḥ)

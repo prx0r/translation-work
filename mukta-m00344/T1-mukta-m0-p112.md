@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p112-v2776
-[various](vicitram) [thus](iti) [meaning](arthaḥ)
+[vicitram](vicitram) [ity-arthaḥ](ityarthaḥ)
 
 ## mukta-m0-p112-v2777
-[many-ways](anekadhā) [divided](paricchinnaṃ) [shining](bhāsitaṃ) [bhṛgu-son](bhṛgunandana)
+[anekadhā](anekadhā) [paricchinnam](paricchinnaṃ) [bhāsitam](bhāsitaṃ) [bhṛgunandana](bhṛgunandana)
 
 ## mukta-m0-p112-v2778
-[thus](evaṃ) [said-reasoning](proktopapattyā)
+[evam](evaṃ) [prokta-upapattyā](proktopapattyā)
 
 ## mukta-m0-p112-v2779
-[that](sā) [also](api) [incompleteness](apūrṇatva) [fame](vikhyātiḥ) [which](yā) [ignorance](avidyā) [is-sung](parigīyate)
+[sā-api-apūrṇatva-vikhyātiḥ](sā'pyapūrṇatvavikhyātir) [yā-avidyā](yā'vidyā) [parigīyate](parigīyate)
 
 ## mukta-m0-p112-v2780
-[full](pūrṇā)
+[pūrṇā](pūrṇā)
 
 ## mukta-m0-p112-v2781
-[self](svātmānam) [not-citing](anudāhṛtya) [outward-vision](bahirdṛṣṭitayā) [standing](sthiteḥ)
+[sva-ātmānam](svātmānam) [anudāhṛtya](anudāhṛtya) [bahirdṛṣṭitayā](bahirdṛṣṭitayā) [sthiteḥ](sthiteḥ)
 
 ## mukta-m0-p112-v2782
-[there](tatrāpi) [cause](hetuḥ) [outward-vision](bahirdṛṣṭitayā) [standing](sthiteḥ) [thus](iti)
+[tatra-api](tatrāpi) [hetuḥ](hetuḥ) [bahirdṛṣṭitayā](bahirdṛṣṭitayā) [sthiteḥ](sthiter) [iti](iti)
 
 ## mukta-m0-p112-v2783
-[not-citing](anudāhṛtya) [and](ca) [self](ātmānaṃ) [until](yāvat) [not](na) [hi](hi) [behold](avalokayet)
+[anudāhṛtya](anudāhṛtya) [ca](ca) [ātmānam](ātmānaṃ) [yāvat](yāvat) [na](na) [hi](hi) [avalokayet](avalokayet)
 
 ## mukta-m0-p112-v2784
-[light-etc-form](prakāśādirūpatā) [or](vā) [other-unreal](itaradasat) [or](vā) [not-prior-light-form](aprākśādirūpatā) [or](vā)
+[prakāśa-ādi-rūpatā](prakāśādirūpatā) [vā](vā) [itarat-asat-vā](itaradasadvā) [aprākśādi-rūpatā](aprākśādirūpatā) [vā](vā)
 
 ## mukta-m0-p112-v2785
-[therefore](ato) [by-me](mayā) [said](uktaṃ) [rāma](rāma) [you](tvaṃ) [see-well](sampaśya) [in-self](ātmani) [like-real](saddṛśā)
+[ataḥ](ato) [mayā-uktam](mayoktaṃ) [rāma](rāma) [tvam](tvaṃ) [sampaśya](sampaśya) [ātmani](ātmani) [sat-dṛśā](saddṛśā)
 
 ## mukta-m0-p112-v2786
-[abandoning-outward-facing-vision](tyaktabahirmukhatvadṛṣṭyā)
+[tyakta-bahirmukhatva-dṛṣṭyā](tyaktabahirmukhatvadṛṣṭyā)
 
 ## mukta-m0-p112-v2787
-[that](sā) [light-filled](prakāśamayī) [because](yasmāt) [inert-removed-form](jaḍavyāvṛttarūpiṇī)
+[sā](sā) [prakāśamayī](prakāśamayī) [yasmāt](yasmāj) [jaḍa-vyāvṛtta-rūpiṇī](jaḍavyāvṛttarūpiṇī)
 
 ## mukta-m0-p112-v2788
-[lamp-etc-inert-removed-light-filled-thus-meaning](dīpādijaḍavyāvṛttaprakāśamayītyarthaḥ)
+[dīpa-ādi-jaḍa-vyāvṛtta-prakāśamayī](dīpādijaḍavyāvṛttaprakāśamayī) [iti-arthaḥ](ityarthaḥ)
 
 ## mukta-m0-p112-v2789
-[inert](jaḍāḥ) [consciousness-self-resting](cidātmaviśrāntāḥ) [consciousness](cit) [in-self](ātmani) [shine](vibhāsataḥ)
+[jaḍāḥ](jaḍāḥ) [cit-ātma-viśrāntāḥ](cidātmaviśrāntāḥ) [cit](cit) [ātmani](ātmani) [vibhāsataḥ](vibhāsataḥ)
 
 ## mukta-m0-p112-v2790
-[let-it-be](bhavet) [thus](iti) [remainder](śeṣaḥ) [of-inert](jaḍānāṃ) [not](na) [self-rest](svātmaviśrāntiḥ) [thus-says](ityāha) [inert](jaḍāḥ) [thus](iti)
+[bhavet](bhavet) [iti](iti) [śeṣaḥ](śeṣaḥ) [jaḍānām](jaḍānāṃ) [na](na) [sva-ātma-viśrāntiḥ](svātmaviśrāntir) [ityāha](ityāha) [jaḍāḥ](jaḍāḥ) [iti](iti)
 
 ## mukta-m0-p112-v2791
-[of-consciousness](citaḥ) [but](tu) [only](kevalaṃ) [in-self](svasmin) [without-other-dependence](ananyāpekṣayā) [always](sadā)
+[citeḥ](citestu) [tu](tu) [kevalam](kevalaṃ) [svasmin](svasmin) [ananya-apekṣayā](ananyāpekṣayā) [sadā](sadā)
 
 ## mukta-m0-p112-v2792
-[shining](bhāsamānatvāt) [in-self](svasmin) [rest](viśrāntiḥ) [is-possible](upapadyate) [thus](iti) [connection](sambandhaḥ)
+[bhāsamānatvāt](bhāsamānatvāt) [svasmin](svasmin) [viśrāntiḥ](viśrāntir) [upapadyate](upapadyata) [iti](iti) [sambandhaḥ](sambandhaḥ)
 
 ## mukta-m0-p112-v2793
-[full-i-am-ness](pūrṇāhantā) [supreme](parā) [that](seyam) [which](yā) [in-inert](jaḍeṣu) [not](na) [is](vidyate)
+[pūrṇa-ahantā](pūrṇāhantā) [parā](parā) [seyam](seyam) [yā](yā) [jaḍeṣu](jaḍeṣu) [na](na) [vidyate](vidyate)
 
 ## mukta-m0-p112-v2794
-[self-rest](svātmaviśramaḥ) [thus](iti) [sense](bhāvaḥ) [that](seyam) [self-rest-only](svātmaviśrāntiḥ) [indeed](eva) [full-i-am-ness](pūrṇāhantā)
+[sva-ātma-viśramaḥ](svātmaviśramaḥ) [iti](iti) [bhāvaḥ](bhāvaḥ) [seyam](seyam) [sva-ātma-viśrāntiḥ](svatmaviśrāntir) [eva](eva) [pūrṇa-ahantā](pūrṇāhantā)
 
 ## mukta-m0-p112-v2795
-[all](sarvam) [in-this](asyāṃ) [since](yataḥ) [situated](saṃstham) [in-mirror](ādarśe) [city](nagaraṃ) [as](yathā)
+[sarvam](sarvam) [asyām](asyāṃ) [yataḥ](yataḥ) [saṃstham](saṃstham) [ādarśe](ādarśe) [nagaram](nagaraṃ) [yathā](yathā)
 
 ## mukta-m0-p112-v2796
-[divided](paricchinnā) [contact-of-distinction](vyāvṛttisparśaḥ) [not](na) [is](asti) [thus](iti)
+[paricchinnā](paricchinnā) [vyāvṛtti-sparśaḥ](vyāvṛttisparśo) [na](na) [asti](nāsti) [iti](iti)
 
 ## mukta-m0-p112-v2797
-[thus](evaṃ) [full-nature](pūrṇasvarūpāyāḥ) [full](pūrṇaṃ) [which](yat) [shining](sphuraṇaṃ) [stands](sthitam)
+[evam](evaṃ) [pūrṇa-svarūpāyāḥ](pūrṇasvarūpāyāḥ) [pūrṇam](pūrṇaṃ) [yat](yat) [sphuraṇam](sphuraṇaṃ) [sthitam](sthitam)
 
 ## mukta-m0-p112-v2798
-[full](pūrṇam) [undivided](aparicchinnaṃ) [which](yat) [own-nature-shining](svarūpasphuraṇaṃ) [that](tat) [indeed](eva) [is-said](kathyate) [thus](iti) [connection](sambandhaḥ)
+[pūrṇam](pūrṇam) [aparicchinnam](aparicchinnaṃ) [yat](yat) [svarūpa-sphuraṇam](svarūpasphuraṇaṃ) [tat](tad) [eva](eva) [kathyate](kathyata) [iti](iti) [sambandhaḥ](sambandhaḥ)
 
 ## mukta-m0-p112-v2799
-[undivided-one-taste](akhaṇḍaikarasaṃ) [indeed](hi) [this](etat) [so-much](etāvat) [rāma](rāma) [indeed](vai) [let-it-be](bhavet)
+[akhaṇḍa-eka-rasam](akhaṇḍaikarasaṃ) [hi](hi) [etat](etad) [etāvat](etāvad) [rāma](rāma) [vai](vai) [bhavet](bhavet)
 
 ## mukta-m0-p112-v2800
-[two](dvayam) [also](api) [this](etat) [undivided-one-taste](akhaṇḍaikarasam) [undivided](akhaṇḍam) [one](ekam) [one-taste](ekarasaṃ) [consciousness-only](cinmātram)
+[dvayam](dvayam) [api](apy) [etat](etad) [akhaṇḍa-eka-rasam](akhaṇḍaikarasam) [akhaṇḍam](akhaṇḍam) [ekam](ekam) [eka-rasam](ekarasaṃ) [cit-mātram](cinmātram)

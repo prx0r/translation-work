@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p47-v1151
-[gloss](draḍhayati) [gloss](nūnamiti)
+[strengthens](draḍhayati) [certainly](nūnam) [thus](iti)
 
 ## mukta-m0-p47-v1152
-[gloss](iti) [gloss](niścitya) [gloss](dadhyau) [gloss](taṃ) [gloss](dehaṃ) [gloss](rājakumārakaḥ)
+[thus](iti) [having-decided](niścitya) [meditated](dadhyau) [that](taṃ) [body](dehaṃ) [prince](rājakumārakaḥ)
 
 ## mukta-m0-p47-v1153
-[gloss](ahanteti) [gloss](tathaite) [gloss](dehātmānaḥ) [gloss](eva) [gloss](dehamātmatvena) [gloss](dadhyau) [gloss](cintayāmāsa)
+[i-am](ahanteti) [thus](tathaite) [bodies-selves](dehātmānaḥ) [indeed](eva) [body](deham) [as-self](ātmatvena) [meditated](dadhyau) [thought](cintayāmāsa)
 
 ## mukta-m0-p47-v1154
-[gloss](aho) [gloss](kathaṃ) [gloss](dehaḥ) [gloss](eṣa) [gloss](mamatāyāḥ) [gloss](samāśrayaḥ)
+[alas](aho) [how](kathaṃ) [body](dehaḥ) [this](eṣa) [of-mine-ness](mamatāyāḥ) [refuge](samāśrayaḥ)
 
 ## mukta-m0-p47-v1155
-[gloss](hemalekhoktaṃ) [gloss](smṛtvāha) [gloss](aho) [gloss](iti)
+[remembering](smṛtvā) [said](āha) [alas](aho) [thus](iti)
 
 ## mukta-m0-p47-v1156
-[gloss](mama) [gloss](rūpaṃ) [gloss](bhavennūnaṃ) [gloss](chinnametattu) [gloss](lakṣyate)
+[my](mama) [form](rūpaṃ) [would-be](bhavet) [certainly](nūnaṃ) [cut](chinnam) [this](etat) [is-seen](lakṣyate)
 
 ## mukta-m0-p47-v1157
-[gloss](kathaṃ) [gloss](mama) [gloss](rūpaṃ) [gloss](bhavet) [gloss](hetvantaramapyāha) [gloss](chinnamiti)
+[how](kathaṃ) [my](mama) [form](rūpaṃ) [would-be](bhavet) [another-reason](hetvantaram) [also](api) [said](āha) [cut](chinnam) [thus](iti)
 
 ## mukta-m0-p47-v1158
-[gloss](nāhaṃ) [gloss](deho'nya) [gloss](eva) [gloss](syāṃ) [gloss](prāṇo'pyeṣa) [gloss](tathāvidhaḥ)
+[not](nāhaṃ) [body](deho) [other](anyaḥ) [indeed](eva) [would-be](syāṃ) [breath](prāṇaḥ) [also](api) [such](eṣa) [tathāvidhaḥ)
 
 ## mukta-m0-p47-v1159
-[gloss](ādipadena) [gloss](suṣuptirjanmāntaraṃ) [gloss](vā) [gloss](tathāvidho) [gloss](mamatvādyāśrayaḥ)
+[by-initial-word](ādipadena) [deep-sleep](suṣuptiḥ) [another-birth](janmāntaram) [or](vā) [such](tathāvidhaḥ) [of-mine-ness](mamatvāt) [etc-refuge](ādyāśrayaḥ)
 
 ## mukta-m0-p47-v1160
-[gloss](ato) [gloss](dehādibuddhyantādanya) [gloss](eva) [gloss](na) [gloss](saṃśayaḥ)
+[therefore](ato) [from-body-etc-cognition-end](dehādibuddhyantāt) [other](anyaḥ) [indeed](eva) [no](na) [doubt](saṃśayaḥ)
 
 ## mukta-m0-p47-v1161
-[gloss](mameritaṃ) [gloss](mamatvenoktam) [gloss](ato) [gloss](dehādermamatvāśrayatvāt)
+[my](mama) [uttered](īritaṃ) [as-mine-ness](mamatvena) [said](uktam) [therefore](ato) [from-body-etc](dehāder) [mine-ness-refuge](mamatvāśrayatvāt)
 
 ## mukta-m0-p47-v1162
-[gloss](sarvadā'haṃ) [gloss](bhāsamānaḥ) [gloss](sthitaḥ) [gloss](eva) [gloss](na) [gloss](saṃśayaḥ)
+[always](sarvadā) [i](ahaṃ) [shining](bhāsamānaḥ) [standing](sthitaḥ) [indeed](eva) [no](na) [doubt](saṃśayaḥ)
 
 ## mukta-m0-p47-v1163
-[gloss](nahi) [gloss](jānāmi) [gloss](tat) [gloss](kasmādetanna) [gloss](viditaṃ) [gloss](mayā)
+[not](nahi) [i-know](jānāmi) [that](tat) [why](kasmāt) [this](etat) [not](na) [known](viditaṃ) [by-me](mayā)
 
 ## mukta-m0-p47-v1164
-[gloss](kasmānnimittānna) [gloss](viditam)
+[why](kasmāt) [from-cause](nimittāt) [not](na) [known](viditam)
 
 ## mukta-m0-p47-v1165
-[gloss](prāṇastvacā) [gloss](vibhātyeṣa) [gloss](mano) [gloss](jñānena) [gloss](cohitam)
+[breath](prāṇaḥ) [skin](tvacā) [shines](vibhāti) [this](eṣa) [mind](manaḥ) [by-knowledge](jñānena) [also](ca) [inferred](ūhitam)
 
 ## mukta-m0-p47-v1166
-[gloss](jñānena) [gloss](jñānātmakakāryahetunā) [gloss](ūhitaṃ) [gloss](kāryakāraṇatvenānumitam)
+[by-knowledge](jñānena) [knowledge-natured-cause](jñānātmakakāryahetunā) [inferred](ūhitaṃ) [as-cause-effect](kāryakāraṇatvena) [inferred](anumitam)
 
 ## mukta-m0-p47-v1167
-[gloss](athaiṣāṃ) [gloss](bhāsanādeva) [gloss](nātmā) [gloss](bhāseta) [gloss](me) [gloss](yadi)
+[then](atha) [of-these](eṣām) [from-shining](bhāsanāt) [eva](eva) [not](nātmā) [would-shine](bhāseta) [to-me](me) [if](yadi)
 
 ## mukta-m0-p47-v1168
-[gloss](eṣāmiti)
+[of-these](eṣām) [thus](iti)
 
 ## mukta-m0-p47-v1169
-[gloss](iti) [gloss](niścitya) [gloss](manasā) [gloss](jahau) [gloss](mānasagocaram)
+[thus](iti) [having-decided](niścitya) [by-mind](manasā) [abandoned](jahau) [mind-object](mānasagocaram)
 
 ## mukta-m0-p47-v1170
-[gloss](mānasollekham)
+[mind-description](mānasollekham)
 
 ## mukta-m0-p47-v1171
-[gloss](idaṃ) [gloss](mamātmano) [gloss](rūpamiti) [gloss](niścitamānasaḥ)
+[this](idaṃ) [my-self](mamātmanaḥ) [form](rūpam) [thus](iti) [decided-mind](niścitamānasaḥ)
 
 ## mukta-m0-p47-v1172
-[gloss](mānasaṃ) [gloss](manovikārātmaka) [gloss](tamo) [gloss](yena)
+[mind](mānasaṃ) [mind-modification-natured](manovikārātmaka) [darkness](tamo) [by-which](yena)
 
 ## mukta-m0-p47-v1173
-[gloss](nūnaṃ) [gloss](punaḥ) [gloss](prapaśyāmītyevaṃ) [gloss](cittaṃ) [gloss](rurodha) [gloss](vai)
+[certainly](nūnaṃ) [again](punaḥ) [will-see](prapaśyāmi) [thus](iti) [mind](cittaṃ) [restrained](rurodha) [indeed](vai)
 
 ## mukta-m0-p47-v1174
-[gloss](praharṣam) [gloss](ātmā) [gloss](dṛṣṭa) [gloss](iti) [gloss](bhramajanitam)
+[joy](praharṣam) [self](ātmā) [seen](dṛṣṭaḥ) [thus](iti) [delusion-born](bhramajanitam)
 
 ## mukta-m0-p47-v1175
-[gloss](tejaḥpuñjamanādyantaṃ) [gloss](bhāsvaraṃ) [gloss](kṣaṇamātrataḥ)
+[light-mass](tejaḥpuñjam) [beginningless-endless](anādyantaṃ) [shining](bhāsvaraṃ) [for-a-moment](kṣaṇamātrataḥ)
