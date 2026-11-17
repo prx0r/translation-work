@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p125-v3101
-[salutation-to-the-imitator](anukāriṇenamaḥ) [salutation-to-the-good-relative](subāndhavāyanamaḥ) [salutation-to-the-gourd-vina-player](tumbavīṇāyanamaḥ)
+[to-imitator](anukāriṇe) [salutation](namaḥ) [to-good-relative](subāndhavāya) [salutation](namaḥ) [to-gourd-lute](tumbavīṇāya) [salutation](namaḥ)
 
 ## mukta-m0-p125-v3102
-[salutation-to-the-great-wrathful](mahākrodhāyanamaḥ) [salutation-to-the-upward-semen](ūrddhvaretasenamaḥ)
+[to-great-wrath](mahākrodhāya) [salutation](namaḥ) [to-upward-semen](ūrddhvaretase) [salutation](namaḥ)
 
 ## mukta-m0-p125-v3103
-[salutation-to-the-water-lord](jaleśāyanamaḥ) [salutation-to-the-fierce](ugrāyanamaḥ) [salutation-to-the-bamboo-maker](vaṃśakarāyanamaḥ)
+[to-water-lord](jaleśāya) [salutation](namaḥ) [to-fierce](ugrāya) [salutation](namaḥ) [to-bamboo-maker](vaṃśakarāya) [salutation](namaḥ)
 
 ## mukta-m0-p125-v3104
-[salutation-to-the-bamboo](vaṃśāyanamaḥ) [salutation-to-the-bamboo-sound](vaṃśanādāyanamaḥ) [salutation-to-the-blameless](aninditāyanamaḥ)
+[to-bamboo](vaṃśāya) [salutation](namaḥ) [to-bamboo-sound](vaṃśanādāya) [salutation](namaḥ) [to-blameless](aninditāya) [salutation](namaḥ)
 
 ## mukta-m0-p125-v3105
-[salutation-to-the-all-limbed-form](sarvāṅgarūpāyanamaḥ) [salutation-to-the-illusionist](māyāvinenamaḥ)
+[to-all-limb-form](sarvāṅgarūpāya) [salutation](namaḥ) [to-illusionist](māyāvine) [salutation](namaḥ)
 
 ## mukta-m0-p125-v3106
-[salutation-to-the-good-friend](suhṛdāyanamaḥ) [salutation-to-the-wind](anilāyanamaḥ) [salutation-to-the-fire](analāyanamaḥ)
+[to-good-friend](suhṛdāya) [salutation](namaḥ) [to-wind](anilāya) [salutation](namaḥ) [to-fire](analāya) [salutation](namaḥ)
 
 ## mukta-m0-p125-v3107
-[salutation-to-the-bond](bandhanāyanamaḥ) [salutation-to-the-bond-maker](bandhakartrenamaḥ)
+[to-bondage](bandhanāya) [salutation](namaḥ) [to-bond-maker](bandhakartre) [salutation](namaḥ)
 
 ## mukta-m0-p125-v3108
-[salutation-to-the-good-bond-releaser](subandhanavimocanāyanamaḥ) [salutation-to-the-sacrifice-accompanier](sayajñārayenamaḥ)
+[to-good-bondage-releaser](subandhanavimocanāya) [salutation](namaḥ) [to-sacrifice-friend](sayajñāraye) [salutation](namaḥ)
 
 ## mukta-m0-p125-v3109
-[salutation-to-the-desire-accompanier](sakāmārayenamaḥ) [salutation-to-the-great-tusked](mahādaṃṣṭrāyanamaḥ)
+[to-desire-friend](sakāmāraye) [salutation](namaḥ) [to-great-tusk](mahādaṃṣṭrāya) [salutation](namaḥ)
 
 ## mukta-m0-p125-v3110
-[salutation-to-the-immortal-lord](amareśāyanamaḥ) [salutation-to-the-great-god](mahādevāyanamaḥ)
+[to-immortal-lord](amareśāya) [salutation](namaḥ) [to-great-god](mahādevāya) [salutation](namaḥ)
 
 ## mukta-m0-p125-v3111
-[salutation-to-the-universe-god](viśvadevāyanamaḥ) [salutation-to-the-demon-slayer](surārighnenamaḥ) [salutation-to-ahirbudhnya](ahirbbudhnyāayanamaḥ)
+[to-universe-god](viśvadevāya) [salutation](namaḥ) [to-demon-slayer](surārighne) [salutation](namaḥ) [to-serpent-foundation](ahirbbudhnyāya) [salutation](namaḥ)
 
 ## mukta-m0-p125-v3112
-[salutation-to-the-wind-like](anilābhāyanamaḥ) [salutation-to-the-moving](cekitāyanamaḥ) [salutation-to-the-oblation](haviṣenamaḥ)
+[to-wind-radiance](anilābhāya) [salutation](namaḥ) [to-awakened](cekitāya) [salutation](namaḥ) [to-oblation](haviṣe) [salutation](namaḥ)
 
 ## mukta-m0-p125-v3113
-[salutation-to-the-one-footed-goat](ajaikapadenamaḥ) [salutation-to-the-skull-bearer](kapālinenamaḥ) [salutation-to-triśaṅku](triśaṅkavenamaḥ)
+[to-one-footed-goat](ajaikapade) [salutation](namaḥ) [to-skull-bearer](kapāline) [salutation](namaḥ) [to-triśaṅku](triśaṅkave) [salutation](namaḥ)
 
 ## mukta-m0-p125-v3114
-[salutation-to-the-unconquered](ajitāyanamaḥ) [salutation-to-śiva](śivāyanamaḥ)
+[to-unconquered](ajitāya) [salutation](namaḥ) [to-auspicious](śivāya) [salutation](namaḥ)
 
 ## mukta-m0-p125-v3115
-[salutation-to-dhanvantari](dhanvantarayenamaḥ) [salutation-to-the-smoke-bannered](dhūmaketavenamaḥ)
+[to-dhanvantari](dhanvantaraye) [salutation](namaḥ) [to-smoke-banner](dhūmaketave) [salutation](namaḥ)
 
 ## mukta-m0-p125-v3116
-[salutation-to-skanda](skandāyanamaḥ) [salutation-to-vaiśravaṇa](vaiśravaṇāyanamaḥ) [salutation-to-the-creator](dhātrenamaḥ)
+[to-skanda](skandāya) [salutation](namaḥ) [to-vaiśravaṇa](vaiśravaṇāya) [salutation](namaḥ) [to-creator](dhātre) [salutation](namaḥ)
 
 ## mukta-m0-p125-v3117
-[salutation-to-śakra](śakrāyanamaḥ) [salutation-to-viṣṇu](viṣṇavenamaḥ) [salutation-to-mitra](mitrāyanamaḥ)
+[to-indra](śakrāya) [salutation](namaḥ) [to-viṣṇu](viṣṇave) [salutation](namaḥ) [to-mitra](mitrāya) [salutation](namaḥ)
 
 ## mukta-m0-p125-v3118
-[salutation-to-tvaṣṭṛ](tvaṣṭrenamaḥ) [salutation-to-the-pole-star](dhruvāyanamaḥ) [salutation-to-the-earth](dharāyanamaḥ)
+[to-tvaṣṭṛ](tvaṣṭre) [salutation](namaḥ) [to-pole-star](dhruvāya) [salutation](namaḥ) [to-earth](dharāya) [salutation](namaḥ)
 
 ## mukta-m0-p125-v3119
-[salutation-to-the-mighty](prabhāvāyanamaḥ) [salutation-to-the-all-goer](sarvagavenamaḥ) [salutation-to-aryaman](aryamṇenamaḥ)
+[to-might](prabhāvāya) [salutation](namaḥ) [to-all-cow](sarvagave) [salutation](namaḥ) [to-aryaman](aryamṇe) [salutation](namaḥ)
 
 ## mukta-m0-p125-v3120
-[salutation-to-savitṛ](savitrenamaḥ) [salutation-to-the-sun](ravayenamaḥ) [salutation-to-uṣaṅgava](uṣaṅgavenamaḥ)
+[to-savitṛ](savitre) [salutation](namaḥ) [to-sun](ravaye) [salutation](namaḥ) [to-uṣaṅgu](uṣaṅgave) [salutation](namaḥ)
 
 ## mukta-m0-p125-v3121
-[salutation-to-the-ordainer](vidhātrenamaḥ) [salutation-to-māndhātṛ](māndhātrenamaḥ) [salutation-to-the-being-creator](bhūtabhāvanāyanamaḥ)
+[to-vidhātṛ](vidhātre) [salutation](namaḥ) [to-māndhātṛ](māndhātre) [salutation](namaḥ) [to-being-nourisher](bhūtabhāvanāya) [salutation](namaḥ)
 
 ## mukta-m0-p125-v3122
-[salutation-to-the-all-pervader](vibhavenamaḥ) [salutation-to-the-varṇa-distributor](varṇavibhāvinenamaḥ)
+[to-glory](vibhave) [salutation](namaḥ) [to-varṇa-distributor](varṇavibhāvine) [salutation](namaḥ)
 
 ## mukta-m0-p125-v3123
-[salutation-to-the-all-desire-quality-bringer](sarvakāmaguṇāvahāyanamaḥ) [salutation-to-the-lotus-navel](padmanābhāyanamaḥ)
+[to-all-desire-quality-bringer](sarvakāmaguṇāvahāya) [salutation](namaḥ) [to-lotus-navel](padmanābhāya) [salutation](namaḥ)
 
 ## mukta-m0-p125-v3124
-[salutation-to-the-great-womb](mahāgarbbhāyanamaḥ) [salutation-to-the-moon-faced](candravaktrāyanamaḥ) [salutation-to-the-wind](anilāyanamaḥ)
+[to-great-womb](mahāgarbbhāya) [salutation](namaḥ) [to-moon-face](candravaktrāya) [salutation](namaḥ) [to-wind](anilāya) [salutation](namaḥ)
 
 ## mukta-m0-p125-v3125
-[salutation-to-the-fire](analāyanamaḥ) [salutation-to-the-strong](balavatenamaḥ) [salutation-to-the-pacified](upaśāntāyanamaḥ)
+[to-fire](analāya) [salutation](namaḥ) [to-strong](balavate) [salutation](namaḥ) [to-pacified](upaśāntāya) [salutation](namaḥ)

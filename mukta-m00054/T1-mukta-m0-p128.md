@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p128-v3176
-[ratna-anga-ayana-namaha](ratnāṅgāyanamaḥ) [maharnava-nipana-videnamaha](mahārṇavanipānavidenamaḥ)
+[salutation](ratnāṅgāyanamaḥ) [salutation](mahārṇavanipānavidenamaḥ)
 
 ## mukta-m0-p128-v3177
-[mula-ayana-namaha](mūlāyanamaḥ) [visala-ayana-namaha](viśālāyanamaḥ) [amrita-ayana-namaha](amṛtāyanamaḥ)
+[salutation](mūlāyanamaḥ) [salutation](viśālāyanamaḥ) [salutation](amṛtāyanamaḥ)
 
 ## mukta-m0-p128-v3178
-[vyakta-avyakta-ayana-namaha](vyaktāvyaktāyanamaḥ) [taponidhi-enamaha](taponidhayenamaḥ) [arohana-ayana-namaha](ārohaṇāyanamaḥ)
+[salutation](vyaktāvyaktāyanamaḥ) [salutation](taponidhayenamaḥ) [salutation](ārohaṇāyanamaḥ)
 
 ## mukta-m0-p128-v3179
-[adhiroda-ayana-namaha](adhirodhāyanamaḥ) [sula-dharine-namaha](śūladhāriṇenamaḥ)
+[salutation](adhirodhāyanamaḥ) [salutation](śūladhāriṇenamaḥ)
 
 ## mukta-m0-p128-v3180
-[maha-yasas-enamaha](mahāyaśasenamaḥ) [sena-kalpa-ayana-namaha](senākalpāyanamaḥ) [maha-kalpa-ayana-namaha](mahākalpāyanamaḥ)
+[salutation](mahāyaśasenamaḥ) [salutation](senākalpāyanamaḥ) [salutation](mahākalpāyanamaḥ)
 
 ## mukta-m0-p128-v3181
-[yoga-ayana-namaha](yogāyanamaḥ) [yuga-kara-ayana-namaha](yugakarāyanamaḥ) [hara-enamaha](harayenamaḥ)
+[salutation](yogāyanamaḥ) [salutation](yugakarāyanamaḥ) [salutation](harayenamaḥ)
 
 ## mukta-m0-p128-v3182
-[yuga-rupa-ayana-namaha](yugarūpāyanamaḥ) [maha-rupa-ayana-namaha](mahārūpāyanamaḥ)
+[salutation](yugarūpāyanamaḥ) [salutation](mahārūpāyanamaḥ)
 
 ## mukta-m0-p128-v3183
-[maha-naga-hana-ayana-namaha](mahānāgahanāyanamaḥ) [vada-ayana-namaha](vadhāyanamaḥ)
+[salutation](mahānāgahanāyanamaḥ) [salutation](vadhāyanamaḥ)
 
 ## mukta-m0-p128-v3184
-[nyaya-nirvapana-ayana-namaha](nyāyanirvapaṇāyanamaḥ) [pada-ayana-namaha](pādāyanamaḥ) [pandita-ayana-namaha](paṇḍitāyanamaḥ)
+[salutation](nyāyanirvapaṇāyanamaḥ) [salutation](pādāyanamaḥ) [salutation](paṇḍitāyanamaḥ)
 
 ## mukta-m0-p128-v3185
-[acalopama-ayana-namaha](acalopamāyanamaḥ) [bahu-mala-ayana-namaha](bahumālāyanamaḥ)
+[salutation](acalopamāyanamaḥ) [salutation](bahumālāyanamaḥ)
 
 ## mukta-m0-p128-v3186
-[maha-mala-ayana-namaha](mahāmālāyanamaḥ) [sasi-hara-su-locana-ayana-namaha](śaśiharasulocanāyanamaḥ)
+[salutation](mahāmālāyanamaḥ) [salutation](śaśiharasulocanāyanamaḥ)
 
 ## mukta-m0-p128-v3187
-[vistara-lavana-kupa-ayana-namaha](vistāralavaṇakūpāyanamaḥ) [tri-yuga-ayana-namaha](triyugāyanamaḥ)
+[salutation](vistāralavaṇakūpāyanamaḥ) [salutation](triyugāyanamaḥ)
 
 ## mukta-m0-p128-v3188
-[mani-viddha-ayana-namaha](maṇividdhāyanamaḥ) [jata-dhara-ayana-namaha](jaṭādharāyanamaḥ)
+[salutation](maṇividdhāyanamaḥ) [salutation](jaṭādharāyanamaḥ)
 
 ## mukta-m0-p128-v3189
-[bindu-enamaha](bindavenamaḥ) [visarga-ayana-namaha](visargāyanamaḥ) [su-mukha-ayana-namaha](sumukhāyanamaḥ)
+[salutation](bindavenamaḥ) [salutation](visargāyanamaḥ) [salutation](sumukhāyanamaḥ)
 
 ## mukta-m0-p128-v3190
-[sara-ayana-namaha](śarāyanamaḥ) [sarva-ayudha-ayana-namaha](sarvāyudhāyanamaḥ) [saha-ayana-namaha](sahāyanamaḥ)
+[salutation](śarāyanamaḥ) [salutation](sarvāyudhāyanamaḥ) [salutation](sahāyanamaḥ)
 
 ## mukta-m0-p128-v3191
-[nivedana-ayana-namaha](nivedanāyanamaḥ) [sukha-jata-ayana-namaha](sukhājātāyanamaḥ) [su-gandhara-ayana-namaha](sugandhārāyanamaḥ)
+[salutation](nivedanāyanamaḥ) [salutation](sukhājātāyanamaḥ) [salutation](sugandhārāyanamaḥ)
 
 ## mukta-m0-p128-v3192
-[maha-dhanus-enamaha](mahādhanuṣenamaḥ) [gandha-pali-bhagavate-namaha](gandhapālibhagavatenamaḥ)
+[salutation](mahādhanuṣenamaḥ) [salutation](gandhapālibhagavatenamaḥ)
 
 ## mukta-m0-p128-v3193
-[sarva-karma-utthana-ayana-namaha](sarvakarmotthānāyanamaḥ) [manthana-bahula-vayave-namaha](manthānabahulavāyavenamaḥ)
+[salutation](sarvakarmotthānāyanamaḥ) [salutation](manthānabahulavāyavenamaḥ)
 
 ## mukta-m0-p128-v3194
-[sakala-ayana-namaha](sakalāyanamaḥ) [sarva-locana-ayana-namaha](sarvalocanāyanamaḥ) [tala-stala-ayana-namaha](talastālāyanamaḥ)
+[salutation](sakalāyanamaḥ) [salutation](sarvalocanāyanamaḥ) [salutation](talastālāyanamaḥ)
 
 ## mukta-m0-p128-v3195
-[chatra-ayana-namaha](chatrāyanamaḥ) [su-chatra-ayana-namaha](succhatrāyanamaḥ)
+[salutation](chatrāyanamaḥ) [salutation](succhatrāyanamaḥ)
 
 ## mukta-m0-p128-v3196
-[vikhyata-loka-ayana-namaha](vikhyātalokāyanamaḥ) [sarva-asraya-krama-ayana-namaha](sarvāśrayakramāyanamaḥ)
+[salutation](vikhyātalokāyanamaḥ) [salutation](sarvāśrayakramāyanamaḥ)
 
 ## mukta-m0-p128-v3197
-[munda-ayana-namaha](muṇḍāyanamaḥ) [virupa-ayana-namaha](virūpāyanamaḥ) [vikrita-ayana-namaha](vikṛtāyanamaḥ)
+[salutation](muṇḍāyanamaḥ) [salutation](virūpāyanamaḥ) [salutation](vikṛtāyanamaḥ)
 
 ## mukta-m0-p128-v3198
-[dandine-namaha](daṇḍinenamaḥ) [kundine-namaha](kuṇḍinenamaḥ) [vikurvāna-ayana-namaha](vikurvāṇāyanamaḥ)
+[salutation](daṇḍinenamaḥ) [salutation](kuṇḍinenamaḥ) [salutation](vikurvāṇāyanamaḥ)
 
 ## mukta-m0-p128-v3199
-[haryaksa-ayana-namaha](haryakṣāyanamaḥ) [kakubha-ayana-namaha](kakubhāyanamaḥ) [vajrine-namaha](vajriṇenamaḥ)
+[salutation](haryakṣāyanamaḥ) [salutation](kakubhāyanamaḥ) [salutation](vajriṇenamaḥ)
 
 ## mukta-m0-p128-v3200
-[sata-jihva-ayana-namaha](śatajihvāyanamaḥ) [sahasra-pat-sahasra-murddhne-namaha](sahasrapatsahasramūrddhnenamaḥ)
+[salutation](śatajihvāyanamaḥ) [salutation](sahasrapatsahasramūrddhnenamaḥ)
