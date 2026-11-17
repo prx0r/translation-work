@@ -5,73 +5,73 @@
 [seventh](saptamī) [devotion](bhaktiḥ)
 
 ## mukta-m0-p42-v1027
-[fair-faced](sumukhī)
+[good+face](sumukhī)
 
 ## mukta-m0-p42-v1028
-[good-word](suśabda)+[precedence](pūrvatvam)+[therefore](ataḥ) [very-firm](sudṛbdhaṃ) [whose](yasyā) [in-mouth](mukhe) [may-stand](stāt) [fair-faced](sumukhī) [always](sadā) [to-us](naḥ)
+[good+sound+precedence](suśabdapūrvatvam) [therefore](ataḥ) [firm](sudṛbdhaṃ) [whose](yasyā) [mouth](mukhe) [may+stand](stāt) [good+face](sumukhī) [always](sadā) [us](naḥ)
 
 ## mukta-m0-p42-v1029
-[slender](kṣāmā)
+[emaciated](kṣāmā)
 
 ## mukta-m0-p42-v1030
-[slender](kṣāmā) [she](sā) [me](mā) [supreme-goddess](pareśānī) [in-difficult](viṣame) [in-object](viṣaye) [may-protect](avatu)
+[emaciated](kṣāmā) [she](sā) [me](mā) [supreme+lady](pareśānī) [in+difficulty](viṣame) [in+object](viṣaye) [protect](avatu)
 
 ## mukta-m0-p42-v1031
-[root-nature](mūlaprakṛtiḥ)
+[root+nature](mūlaprakṛtiḥ)
 
 ## mukta-m0-p42-v1032
-[states](bhāvāḥ) [by-Kapila](kāpila)+[known](vedyā)+[this](iyaṃ) [root-nature](mūlaprakṛtiḥ)+[wondrous](adbhutā)
+[states](bhāvāḥ) [kapila+known](kāpilavedyeyaṃ) [root+nature](mūlaprakṛtir) [wondrous](adbhutā)
 
 ## mukta-m0-p42-v1033
-[sovereign-goddess](īśvarī)
+[lady](īśvarī)
 
 ## mukta-m0-p42-v1034
-[this](eṣā) [goddess](devī) [proclaimed](kīrtitā) [with-lord](sa)+[sovereign](īśvarā)+[thus](iti)
+[this](eṣā) [goddess](devī) [praised](kīrtitā) [with+lady](seśvarī) [thus](iti)
 
 ## mukta-m0-p42-v1035
-(p. 145) [unborn](ajā)
+[page](p.) [145](145) [unborn](ajā)
 
 ## mukta-m0-p42-v1036
-[of-born](jātasya) [like-that](tadvat) [outside](bahis)+[inside](antarasya) [situated](sthitā)+[although](api) [goddess](devī) [renowned](prathitā)+[indeed](asi)+[unborn](ajā) [you](tvam)
+[born](jātasya) [thus](tadvad) [outside+inside](bahirantarasya) [standing](sthitāpi) [goddess](devī) [famous](prathitā) [unborn](asyajā) [you](tvam)
 
 ## mukta-m0-p42-v1037
-[many-colored](bahuvarṇā)
+[many+colored](bahuvarṇā)
 
 ## mukta-m0-p42-v1038
-[very-independent](susvatantrā) [good-color](suvarṇaṃ) [to-us](no) [many-coloredness](bahuvarṇyaṃ) [may-give](dadātu) [she](sā)
+[very+independent](susvatantrā) [gold](suvarṇaṃ) [us](no) [many+colored](bahuvarṇyaṃ) [give](dadātu) [she](sā)
 
 ## mukta-m0-p42-v1039
-[human-goals](puruṣārtha)+[promoter](pravartinī)
+[puruṣa+aim+causing](puruṣārthapravartinī)
 
 ## mukta-m0-p42-v1040
-[of-devotee](bhaktasya) [she](sā) [always](sadā)+[in-front](agre)+[may-be](astu) [human-goals](puruṣārtha)+[promoter](pravartinī)
+[devotee](bhaktasya) [she](sā) [always+before](sadāgre) [be](astu) [puruṣa+aim+causing](puruṣārthapravartinī)
 
 ## mukta-m0-p42-v1041
 [red](raktā)
 
 ## mukta-m0-p42-v1042
-[red](raktā) [goddess](devī) [red](rakta)+[state](bhāva)+[established](pratiṣṭhā)
+[red](raktā) [goddess](devī) [red+bhava+established](raktabhāvapratiṣṭhā)
 
 ## mukta-m0-p42-v1043
 [blue](nīlā)
 
 ## mukta-m0-p42-v1044
-[among-red](rakteṣu) [who](yā) [as-chief](mukhyatayā) [shines](vibhāti) [among-blue](nīleṣu) [blue](nīlā)+[may-be](astu) [for-welfare](hitāya) [goddess](devī)
+[among+reds](rakteṣu) [who](yā) [principally](mukhyatayā) [shines](vibhāti) [among+blues](nīleṣu) [blue](nīlā) [be](astu) [for+welfare](hitāya) [goddess](devī)
 
 ## mukta-m0-p42-v1045
 [white](sitā)
 
 ## mukta-m0-p42-v1046
-[of-Śiva](harasya) [in-pearls](muktādiṣu) [and](ca) [preeminent](pradhānā) [white](sitā) [white](sitaṃ) [mind](svāntam)+[this](iyaṃ) [may-make](karotu)
+[of+Hara](harasya) [pearl+etc](muktādiṣu) [and](ca) [principal](pradhānā) [white](sitā) [white](sitaṃ) [mind](svāntam) [this](iyaṃ) [make](karotu)
 
 ## mukta-m0-p42-v1047
-(p. 146) [dark](śyāmā)
+[page](p.) [146](146) [dark](śyāmā)
 
 ## mukta-m0-p42-v1048
-[dark](cchyāmā) [she](sā) [desire](māra)+[delighting](āma)+[desire](kāmaṃ) [may-do](karotu)
+[dark](śyāmā) [she](sā) [me](mā) [love+desire](mārāmakāmaṃ) [make](karotu)
 
 ## mukta-m0-p42-v1049
 [black](kṛṣṇā)
 
 ## mukta-m0-p42-v1050
-[black](kṛṣṇā)+[also](api) [blackness](kṛṣṇatva)+[removing](harā) [desireless](vitṛṣṇā) [blackness](kṛṣṇatva)+[giving](dā) [to-best-devotee](bhakta)+[to-excellent](varāya) [may-be](bhūyāt)
+[black](kṛṣṇā) [also](api) [blackness+removing](kṛṣṇatvaharā) [desireless](vitṛṣṇā) [blackness+giving](kṛṣṇatvadā) [devotee+best](bhaktavarāya) [be](bhūyāt)

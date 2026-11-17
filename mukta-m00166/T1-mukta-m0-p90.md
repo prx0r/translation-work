@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p90-v2226
-[sports](ramate) [some](kācit) [one](ekā) [alone](eva) [mother](mātṛ)+[circle](maṇḍala)+[dwelling](vāsinī)
+[delights](ramate) [some+one-only](kācidekaiva) [mother+circle+dwelling](mātṛmaṇḍalavāsinī)
 
 ## mukta-m0-p90-v2227
-[kumāra](kumāra)+[mother](jananī)
+[mother-of-kumāra](kumārajananī)
 
 ## mukta-m0-p90-v2228
-[death](māraka)+[time](kāla)+[reckoning](kalana)+[sole](eka)+[bond](bandhanaṃ) [she](sā) [kumāra](kumāra)+[mother](jananī) [maiden](kumārikā)
+[death-time+bond+one](mārakālakalanaikabandhanaṃ) [she](sā) [mother-of-kumāra](kumārajananī) [maiden](kumārikā)
 
 ## mukta-m0-p90-v2229
 [cruel](krūrā)
 
 ## mukta-m0-p90-v2230
-[full-moon](rākā)+[form](kara)+[ray](kara)+[form](ākāraṃ) [maker](kārā)+[ray](kīḥ) [doer](kārakaṃ) [in-hand](kare)
+[terrible-form](rākākarākarākāraṃ) [prisoners](kārākīḥ) [maker](kārakaṃ) [hand](kare)
 
 ## mukta-m0-p90-v2231
-[beautiful](su)+[faced](mukhī)
+[fair-faced](sumukhī)
 
 ## mukta-m0-p90-v2232
-[face](mukhaṃ) [auspicious](śivā) [she](sā) [beautiful](su)+[faced](mukhī) [thus](iti) [chief](mukhyā)
+[face](mukhaṃ) [auspicious](śivā) [she](sā) [fair-faced](sumukhī) [thus](iti) [chief](mukhyā)
 
 ## mukta-m0-p90-v2233
-[fever](jvara)+[destroyer](nāśinī)
+[fever-destroying](jvaranāśinī)
 
 ## mukta-m0-p90-v2234
-[fever](jvara)+[destroyer](nāśinī) [thus](iti) [indeed](kila) [she](sā) [lalitā](lalitā)
+[fever-destroying](jvaranāśinī) [thus](iti) [indeed](kila) [she](sā) [lalitā](lalitā)
 
 ## mukta-m0-p90-v2235
-[picture](citra)+[end](ante) [here](iha) [sport](vilāsa)+[named](nāmni) [cessation](viratiṃ) [devotion](bhaktiḥ)+[thirteenth](trayodaśī) [went](agāt)
+[wonderful+end+here+sport+name](citrānteha) [vilāsanāmni](vilāsanāmni) [cessation](viratiṃ) [devotion+thirteenth](bhaktistrayodaśyagāt)
 
 ## mukta-m0-p90-v2236
 [thirteenth](trayodaśī) [devotion](bhaktiḥ)
 
 ## mukta-m0-p90-v2237
-[passed](atītā)
+[past](atītā)
 
 ## mukta-m0-p90-v2238
-[that](tā) [when](yadā) [not](no) [spoken](ānuditaḥ) [speakers](vādinaḥ)+[before](agre) [what](kim) [I-knew](āvidi)
+[those](tā) [when](yadā) [not](no) [honored](mānudito) [disputants+before](vādino'gre) [what](kim) [we-know](āvidi)
 
 ## mukta-m0-p90-v2239
 [existing](vidyamānā)
 
 ## mukta-m0-p90-v2240
-[by-fate](diṣṭe) [blameless](anavadya)+[clarity](vaiṣadya)+[heart](hṛdyā) [at-once](sadyaḥ) [may-be-pleased](prasīdatāt)
+[destined+blameless+clarity+heartfelt](diṣṭe'navadyavaiṣadyahṛdyā) [immediately](sadyaḥ) [be-pleased](prasīdatāt)
 
 ## mukta-m0-p90-v2241
 [future](bhāvinī)
 
 ## mukta-m0-p90-v2242
-[bhavānī](bhavānī) [future](bhāvinī) [various](nānā)+[in-existence](bhave) [ever](nava)+[new](nave) [forest](vana)
+[bhavānī](bhavānī) [future](bhāvinī) [various+births](nānābhave) [new+new](navanave) [forest](vana)
 
 ## mukta-m0-p90-v2243
-[love](prīti)+[blossom](mañjarī)
+[love-bud](prītimañjarī)
 
 ## mukta-m0-p90-v2244
-[by-whom](yayā) [unpleasant](apriyaṃ) [pleasant](priyaṃ) [various](nānā)+[unpleasant](nānāpriyam) [even](api) [pleasant](priyam)
+[by-whom+dear](yayāpriyaṃ) [dear](priyaṃ) [various+various+dear](nānānānāpriyamapi) [dear](priyam)
 
 ## mukta-m0-p90-v2245
-[all](sarva)+[happiness](saukhya)+[possessing](vatī) [means](yuktiḥ)
+[all+comfort+possessing](sarvasaukhyavatī) [method](yuktiḥ)
 
 ## mukta-m0-p90-v2246
-[all](sarva)+[happiness](saukhya)+[possessing](vatī) [means](yuktiḥ) [triumphs](jayati) [this](eṣā) [alone](eva) [knowledge](vid)+[form](vapuḥ)
+[all+comfort+possessing](sarvasaukhyavatī) [method](yuktirjayatyeṣaiva) [vidvapuḥ](vidvapuḥ)
 
 ## mukta-m0-p90-v2247
-[food](āhāra)+[transforming](pariṇāminī)
+[food+transforming](āhārapariṇāminī)
 
 ## mukta-m0-p90-v2248
-[she](sā) [some](kāpi) [is-sung](gīyate) [by-knowers](tat)+[jñaiḥ](jñaiḥ) [food](āhāra)+[transforming](pariṇāminī)
+[she](sā) [some](kāpi) [is-sung](gīyate) [by-knowers](tajjñairāhārapariṇāminī)
 
 ## mukta-m0-p90-v2249
-[cause](nidānaṃ) [five](pañca)+[elements](bhūtānām)
+[cause](nidānaṃ) [five+elements](pañcabhūtānām)
 
 ## mukta-m0-p90-v2250
-[cause](nidānaṃ) [five](pañca)+[elements](bhūtānām) [triumphs](jayati) [nature](prakṛti)+[splendor](prabhā)
+[cause](nidānaṃ) [five+elements](pañcabhūtānāṃ) [conquers](jayati) [nature+radiance](prakṛtiprabhā)

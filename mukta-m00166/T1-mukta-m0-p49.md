@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p49-v1201
-[pregnant-within](antarvatnī) [she](sā) [is](asti) [goddess](devī)
+[pregnant-one](antarvatnī)
 
 ## mukta-m0-p49-v1202
-[by-reflection](vimarśanena) [in-the-self](ātmani) [consciousness-made](cinmaye) [pregnant-within](antarvatnī) [auspicious-she](śivā) [this](iyam) [by-the-wise](matimadbhiḥ) [praiseworthy](īḍyā)
+[by-reflection](vimarśanena) [in-self](ātmani) [conscious-form](cinmaye) [pregnant](antarvatnī) [auspicious](śivā) [this](iyam) [by-the-wise](matimadbhiḥ) [venerable](īḍyā)
 
 ## mukta-m0-p49-v1203
-[veda-power](vedaśaktiḥ) [she](sā) [is](asti) [goddess](devī)
+[veda-power](vedaśaktiḥ)
 
 ## mukta-m0-p49-v1204
-[knowable](vedyā) [not](na) [or](vā) [she](sā) [may-protect](avatu) [veda-power](vedaśaktiḥ)
+[knowable](vedyā) [not](na) [or](vā) [may-she-protect](sāvatu) [veda-power](vedaśaktiḥ)
 
 ## mukta-m0-p49-v1205
-[boon-giver](varadā) [she](sā) [is](asti) [goddess](devī)
+[boon-giver](varadā)
 
 ## mukta-m0-p49-v1206
-[boon-giver](varadā) [indeed](tu) [this](iyam) [alone](eva) [always](sadā) [renowned](prathitā) [two-feet](caraṇau) [as-refuge](śaraṇau) [let-resort](śrayatām) [with-compassion](dayayā)
+[boon-giver](varadā) [indeed-this](tviyam) [ever](eva) [always](sadā) [renowned](prathitā) [feet](caraṇau) [refuge](śaraṇau) [may-she-shelter](śrayatām) [by-compassion](dayayā)
 
 ## mukta-m0-p49-v1207
-[boon-holder](varadhāriṇī) [she](sā) [is](asti) [goddess](devī)
+[boon-bearer](varadhāriṇī)
 
 ## mukta-m0-p49-v1208
-[are-praised](saṃkīrtyase) [you](tvam) [boon-holder](varadhāriṇī) [thus](iti)
+[you-are-praised](saṃkīrtyase) [you](tvaṃ) [boon-bearer](varadhāriṇī) [thus](iti)
 
 ## mukta-m0-p49-v1209
-[cool-one](śītalā) [she](sā) [is](asti) [goddess](devī)
+[cool](śītalā)
 
 ## mukta-m0-p49-v1210
-[anger-heat-destroyer](krodha+uṣma+hantrī) [own-knowledge-creator](nija+bodha+kartrī) [she](sā) [is](asti)
+[anger-heat-destroyer](krodhoṣmahantrī) [self-knowledge-doer](nijabodhakartrī)
 
 ## mukta-m0-p49-v1211
-[good-natured](suśīlā) [she](sā) [is](asti) [goddess](devī)
+[good-natured](suśīlā)
 
 ## mukta-m0-p49-v1212
-[may-protect](sāvyāt) [good-natured](suśīlā) [by-own-sport](nija+līlayā) [this-one](enam)
+[may-she-protect](sāvyāt) [good-natured](suśīlā) [by-her-own-play](nijalīlayā) [him](enam)
 
 ## mukta-m0-p49-v1213
-[child-demon-destroyer](bāla+graha+vināśinī) [she](sā) [is](asti) [goddess](devī)
+[child-planet-destroyer](bālagrahavināśinī)
 
 ## mukta-m0-p49-v1214
-[yogins](yoginaḥ) [even](api) [therefore](tataḥ) [I-know](jāne) [to-obtain](labdhum) [desire](vāñchanti) [childhood](śaiśavam)
+[yogis](yoginaḥ) [also](api) [then](tataḥ) [I-know](jāne) [to-obtain](labdhum) [desire](vāñchanti) [childhood](śaiśavam)
 
 ## mukta-m0-p49-v1215
-[young-maiden](kumārī) [she](sā) [is](asti) [goddess](devī)
+[maiden](kumārī)
 
 ## mukta-m0-p49-v1216
-[goddess](devī) [sung](gītā) [she](sā) [young-maiden](kumārī) [ancient](purāṇā)
+[goddess](devī) [sung](gītā) [she](sā) [maiden](kumārī) [ancient](purāṇā)
 
 ## mukta-m0-p49-v1217
-[of-good-festivals](suparvā) [she](sā) [is](asti) [goddess](devī)
+[good-joint](suparvā)
 
 ## mukta-m0-p49-v1218
-[in-giving-etc-acts](dāna+ādi+kṛtyeṣu) [of-good-merit-form](su+puṇya+rūpā) [renowned](khyātā) [of-good-festivals](suparvā) [may-be](astu) [for-happiness](sukhāya) [complete](sārvā)
+[in-gifts-and-rites](dānādikṛtyeṣu) [very-meritorious-form](supuṇyarūpā) [renowned](khyātā) [good-joint](suparvā) [may-be](astu) [for-happiness](sukhāya) [universal](sārvā)
 
 ## mukta-m0-p49-v1219
-[named-Kāmākhyā](kāmākhyā) [she](sā) [is](asti) [goddess](devī)
+[desire-named](kāmākhyā)
 
 ## mukta-m0-p49-v1220
-[named-Kāmākhyā](kāmākhyā) [this](iyam) [some](kāpi) [desireless-action](niṣkāma+karma) [to-be-known](jñeyā) [may-protect](pāyāt) [goddess](devatā) [me](mām) [may-protect](apāyāt)
+[desire-named-this](kāmākhyeyam) [some](kāpi) [desireless-action-knower](niṣkāmakarmajñeyā) [may-protect-goddess](pāyāddevatā) [me](mām) [may-she-protect](apāyāt)
 
 ## mukta-m0-p49-v1221
-[adored-by-Kāma](kāmavanditā) [she](sā) [is](asti) [goddess](devī)
+[desire-worshipped](kāmavanditā)
 
 ## mukta-m0-p49-v1222
-[knowing](viti) [having-thought](matvā) [indeed](kila) [adored-by-Kāma](kāmavanditā) [you](tvam)
+[thus](viti) [thinking](matvā) [indeed](kila) [desire-worshipped](kāmavanditā) [you](tvam)
 
 ## mukta-m0-p49-v1223
-[bearer-of-Jālandhara](jālandhara+dharā) [she](sā) [is](asti) [goddess](devī)
+[jalandhara-bearer](jālandharadharā)
 
 ## mukta-m0-p49-v1224
-[bearer-of-Jālandhara](jālandhara+dharā) [she-alone](sā+eva) [only](kevalā) [god-of-gods](deva+devatā)
+[jalandhara-bearer](jālandharadharā) [she-indeed](saiva) [alone](kevalā) [god-of-gods](devadevatā)
 
 ## mukta-m0-p49-v1225
-[endless-one](anantā) [she](sā) [is](asti) [goddess](devī)
+[endless](anantā)

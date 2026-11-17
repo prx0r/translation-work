@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p61-v1501
-[lower](avara)+[caste](varṇa)+[born](jā) [lower](avara)+[caste](varṇa)+[born](jā) [lower](avara)+[caste](varṇa)+[born](jā) [lower](avara)+[caste](varṇa)+[born](jā)
+[born-of-lower-varna](avara)+[varna](varṇa)+[born](jā)
 
 ## mukta-m0-p61-v1502
-[reflection](vicāra)+[delight](ruci)+[having-locks](rālakāḥ)+[those](tu)+[lower](avara)+[caste](varṇa)+[born](jā) [for-us](naḥ) [for-prosperity](śriye) [be](astu)
+[beautiful-curls](vicāra-rucira-alakā)+[born-of-lower-varna](avara-varṇa-jā)+[to-us](naḥ)+[for-glory](śriye)
 
 ## mukta-m0-p61-v1503
-[veda](veda)+[path](mārga)+[devoted](ratā) [veda](veda)+[path](mārga)+[devoted](ratā) [veda](veda)+[path](mārga)+[devoted](ratā) [veda](veda)+[path](mārga)+[devoted](ratā)
+[devoted-to-vedic-path](veda-mārga-ratā)
 
 ## mukta-m0-p61-v1504
-[oh](aho) [she](sā)+[also](api) [herself](svayaṃ) [goddess](devī) [veda](veda)+[path](mārga)+[devoted](ratā) [supreme](parā)
+[ah](aho)+[she-too](sā-api)+[herself](svayaṃ)+[goddess](devī)+[devoted-to-vedic-path](veda-mārga-ratā)+[supreme](parā)
 
 ## mukta-m0-p61-v1505
-[sacrifices](yajñā) [sacrifices](yajñā) [sacrifices](yajñā) [sacrifices](yajñā)
+[sacrifices](yajñā)
 
 ## mukta-m0-p61-v1506
-[they-go](gacchanti) [to-accomplishment](siddhiṃ) [auspiciousness](śiva)+[giving](dāḥ)+[let-them-be](astu) [sacrifices](yajñā)
+[attain](gacchanti)+[perfection](siddhiṃ)+[auspicious-giving](śiva-dāstu)+[sacrifices](yajñā)
 
 ## mukta-m0-p61-v1507
-[veda](veda)+[universe](viśva)+[illuminating](vibhāvinī) [veda](veda)+[universe](viśva)+[illuminating](vibhāvinī) [veda](veda)+[universe](viśva)+[illuminating](vibhāvinī) [veda](veda)+[universe](viśva)+[illuminating](vibhāvinī)
+[veda-world-manifesting](veda-viśva-vibhāvinī)
 
 ## mukta-m0-p61-v1508
-[by-whom](yayā) [illuminated](vibhāvitaḥ) [she](sā)+[this](iyaṃ) [veda](veda)+[universe](viśva)+[illuminating](vibhāvinī)
+[by-whom](yayā)+[manifested](vibhāvitaḥ)+[this](seyam)+[veda-world-manifesting](veda-viśva-vibhāvinī)
 
 ## mukta-m0-p61-v1509
-[missile](astra)+[weapon](śastra)+[consisting-of](mayī) [knowledge](vidyā) [missile](astra)+[weapon](śastra)+[consisting-of](mayī) [knowledge](vidyā)
+[weapon-armed-knowledge](astra-śastra-mayī-vidyā)
 
 ## mukta-m0-p61-v1510
-[missile](astra)+[weapon](śastra)+[consisting-of](mayī) [knowledge](vidyā) [not](na) [by-them](taiḥ)+[if](cet) [would-be](syād) [subdued](vaśīkṛtā)
+[weapon-armed-knowledge](astra-śastra-mayī-vidyā)+[not](na)+[by-them](taiḥ-cet)+[would-be](syād)+[subdued](vaśīkṛtā)
 
 ## mukta-m0-p61-v1511
-[boon](vara)+[weapon](śastra)+[missile](astra)+[bearing](dhāriṇī) [boon](vara)+[weapon](śastra)+[missile](astra)+[bearing](dhāriṇī) [boon](vara)+[weapon](śastra)+[missile](astra)+[bearing](dhāriṇī) [boon](vara)+[weapon](śastra)+[missile](astra)+[bearing](dhāriṇī)
+[bearer-of-excellent-weapons](vara-śastra-astra-dhāriṇī)
 
 ## mukta-m0-p61-v1512
-[bliss](ānanda)+[causing](kāriṇī)+[supreme-goddess](īśānī) [boon](vara)+[weapon](śastra)+[missile](astra)+[bearing](dhāriṇī)
+[bliss-causing](ānanda-kāriṇī)+[īśānī](īśānī)+[bearer-of-excellent-weapons](vara-śastra-astra-dhāriṇī)
 
 ## mukta-m0-p61-v1513
-[of-good-intellect](sumedhāḥ) [of-good-intellect](sumedhāḥ) [of-good-intellect](sumedhāḥ) [of-good-intellect](sumedhāḥ)
+[wise-one](sumedhāḥ)
 
 ## mukta-m0-p61-v1514
-[she](sā) [to-me](me) [helper](sahāyā)+[let-be](astu) [always](sadā) [of-good-intellect](sumedhāḥ)
+[she](sā)+[to-me](me)+[companion](sahāyāstu)+[always](sadā)+[wise-one](sumedhāḥ)
 
 ## mukta-m0-p61-v1515
-[of-true-intellect](satyamedhā) [of-true-intellect](satyamedhā) [of-true-intellect](satyamedhā) [of-true-intellect](satyamedhā)
+[truth-minded](satya-medhā)
 
 ## mukta-m0-p61-v1516
-[gone](gatā) [always](sadā)+[even](api)+[is](asti) [indeed](hi) [of-true-intellect](satyamedhā)
+[gone](gatā)+[always](sadā-api)+[indeed](asti-hi)+[truth-minded](satya-medhā)
 
 ## mukta-m0-p61-v1517
-[auspicious-kālī](bhadrakālī) [auspicious-kālī](bhadrakālī) [auspicious-kālī](bhadrakālī) [auspicious-kālī](bhadrakālī)
+[bhadrakālī](bhadrakālī)
 
 ## mukta-m0-p61-v1518
-[of-devotees](bhaktānāṃ) [she](sā) [let-be](bhavatu) [of-the-prosperous](bhavināṃ) [auspicious](bhadra)+[kālī](kālī) [for-prosperity](śriye) [of-you](vaḥ)
+[of-devotees](bhaktānāṃ)+[she](sā)+[be](bhavatu)+[of-beings](bhavināṃ)+[bhadrakālī](bhadrakālī)+[for-glory](śriye-vaḥ)
 
 ## mukta-m0-p61-v1519
-[unconquered](aparājitā) [unconquered](aparājitā) [unconquered](aparājitā) [unconquered](aparājitā)
+[invincible](aparājitā)
 
 ## mukta-m0-p61-v1520
-[śakra](śakraḥ) [victorious](jiṣṇuḥ)+[and](ca) [world](lokaṃ) [she](sā) [for-welfare](hitāya)+[let-be](astu)+[unconquered](aparājitā)
+[indra](śakro)+[victorious](jiṣṇuś-ca)+[world](lokaṃ)+[she](sā)+[for-welfare](hitāyāstu-aparājitā)
 
 ## mukta-m0-p61-v1521
-[gāyatrī](gāyatrī) [gāyatrī](gāyatrī) [gāyatrī](gāyatrī) [gāyatrī](gāyatrī)
+[gāyatrī](gāyatrī)
 
 ## mukta-m0-p61-v1522
-[gāyatrī](gāyatrī) [not](na) [and](ca) [by-whom](kena) [by-whom](kena) [always](satataṃ) [who](ke) [who](ke) [not](na) [or](vā)+[worship](arcanti) [him](tam)
+[gāyatrī](gāyatrī)+[not](na-ca)+[by-whom](kena-kena)+[always](satataṃ)+[who-who](ke-ke-na)+[or](vā)+[praise](arcanti-tam)
 
 ## mukta-m0-p61-v1523
-[good-action](satkṛtiḥ) [good-action](satkṛtiḥ) [good-action](satkṛtiḥ) [good-action](satkṛtiḥ)
+[good-rite](satkṛtiḥ)
 
 ## mukta-m0-p61-v1524
-[rudrahood](rudratvam)+[wondrous](adbhuta)+[art](kalāṃ) [of-the-tawny](haritāṃ) [own-state](svatāṃ) [or](vā)
+[rudra-nature](rudratvam)+[wonderful-art](adbhuta-kalāṃ)+[green](haritāṃ)+[own](svatāṃ-vā)
 
 ## mukta-m0-p61-v1525
-[twilight](sandhyā) [twilight](sandhyā) [twilight](sandhyā) [twilight](sandhyā)
+[twilight](sandhyā)

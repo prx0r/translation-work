@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p79-v1951
-[name](paṭāsā)
+[cloth-possessing](paṭāsā)
 
 ## mukta-m0-p79-v1952
-[good-honor-made-dwelling](sanmāna-sakṛta-āvāsā) [cloth-banner](paṭāsā) [she](sā) [may-burn](dahatv) [sin](agham)
+[good-mind-made-abode](sanmānasakṛtāvāsā) [cloth-possessing](paṭāsā) [she](sā) [burn-sin](dahatvagham)
 
 ## mukta-m0-p79-v1953
-[page](p.) [238](238)) [kashmiri](kāśmīrī)
+[page-238](p. 238) [kashmiri](kāśmīrī)
 
 ## mukta-m0-p79-v1954
-[kashmiri](kāśmīrī) [me](mām) [may-please](sukhayatu) [full-one-dwelling-experience](supūrṇa-eka-vāsa-anubhūtyā)
+[kashmiri](kāśmīrī) [me](māṃ) [gladden](sukhayatu) [full-single-abode-experience](supūrṇaikavāsānubhūtyā)
 
 ## mukta-m0-p79-v1955
-[saffron-beloved](kuṅkuma-priyā)
+[saffron-loving](kuṅkumapriyā)
 
 ## mukta-m0-p79-v1956
-[wounded-blood](kṣata-raktam) [indeed](kimu) [saffron-beloved](kuṅkuma-priyā) [she](sā)
+[wound-blood](kṣataraktaṃ) [what](kimu) [saffron-loving](kuṅkumapriyā) [she](sā)
 
 ## mukta-m0-p79-v1957
 [patience](kṣāntiḥ)
 
 ## mukta-m0-p79-v1958
-[patience](kṣāntiḥ) [wound-delusion](kṣata-bhrāntibhiḥ) [to-be-praised](īḍanīyā)
+[patience](kṣāntiḥ) [wound-delusion-praiseworthy](kṣatabhrāntibhirīḍanīyā)
 
 ## mukta-m0-p79-v1959
-[much-gold](bahu-suvarṇā)
+[many-gold](bahusuvarṇā)
 
 ## mukta-m0-p79-v1960
-[of-all-auspicious-nature](sarva-maṅgala-śīlasya) [of-monk](bhikṣoḥ) [good-all-auspicious](sat-sarva-maṅgalā)
+[all-auspicious-nature](sarvāmaṅgalaśīlasya) [monk](bhikṣoḥ) [true-all-auspicious](satsarvamaṅgalā)
 
 ## mukta-m0-p79-v1961
-[desire](ratiḥ)
+[love](ratiḥ)
 
 ## mukta-m0-p79-v1962
-[subordinate](adhīnaḥ) [he-also](saḥ-api) [lord-of-beings](bhūteśaḥ) [of-whom](yasyāḥ) [she](sā) [indeed](hi) [in-desire](rate) [desire](ratiḥ)
+[dependent](adhīnaḥ) [he-too](so'pi) [lord-of-beings](bhūteśo) [whose](yasyāḥ) [she](sā) [indeed](hi) [in-love](rate) [love](ratiḥ)
 
 ## mukta-m0-p79-v1963
-[page](p.) [239](239)) [much-gold-giver](bahu-suvarṇa-dā)
+[page-239](p. 239) [many-gold-giving](bahusuvarṇadā)
 
 ## mukta-m0-p79-v1964
-[aparṇa-also](aparṇā-api) [then](tataḥ) [truly](satyam) [become](bhūtā) [here](iha) [goddess](īśvarī)
+[leafless-even](aparṇāpi) [then](tataḥ) [truth](satyaṃ) [being](bhūtā) [self-here-lord](svayamiheśvarī)
 
 ## mukta-m0-p79-v1965
-[elephant-woman](mātaṅginī)
+[elephant-goddess](mātaṅginī)
 
 ## mukta-m0-p79-v1966
-[elephant-woman](mātaṅginī) [breaking-remover](bhaṅga-harī) [may-be](bhavet) [hail](astu)
+[elephant-goddess](mātaṅginī) [break-removing](bhaṅgaharī) [be](bhave'stu)
 
 ## mukta-m0-p79-v1967
-[beautiful-hipped](varārohā)
+[excellent-ascent](varārohā)
 
 ## mukta-m0-p79-v1968
-[beautiful-hipped](varārohā) [service-hundred-hundred-arts](sevā-śata-śata-kalām) [not-deserves](na-arhati) [a-part](kalām)
+[excellent-ascent-service-hundred-hundred-art](varārohāsevāśataśatakalāṃ) [not-deserve](nārhati) [art](kalām)
 
 ## mukta-m0-p79-v1969
-[intoxicated-elephant-going](matta-mātaṅga-gāminī)
+[intoxicated-elephant-going](mattamātaṅgagāminī)
 
 ## mukta-m0-p79-v1970
-[not](na) [of-him](tasya) [mind-state](citta-vṛttiḥ) [would-be](syāt) [other-state-going](anya-bhāva-abhigāminī)
+[not](na) [his](tasya) [mind-fluctuation](cittavṛttiḥ) [be](syādanyabhāvābhigāminī)
 
 ## mukta-m0-p79-v1971
 [violence](hiṃsā)
 
 ## mukta-m0-p79-v1972
-[victory-immutable](jayāvyaye) [she](sā) [may-be](astu) [for-welfare](hitāya) [violence](hiṃsā)
+[victory-loss](jayāvyaye) [she-be](sāstu) [benefit](hitāya) [violence](hiṃsā)
 
 ## mukta-m0-p79-v1973
-[page](p.) [240](240)) [swan-gait](haṃsa-gatiḥ)
+[page-240](p. 240) [swan-gait](haṃsagatiḥ)
 
 ## mukta-m0-p79-v1974
-[may-be](bhavet) [swan-gait](haṃsa-gatiḥ) [rightly](samyak) [always](sadā) [very-steady](sthiratarā) [supreme](parā)
+[be-swan-gait](bhaveddhaṃsagatiḥ) [properly](samyak) [always](sadā) [firmer](sthiratarā) [supreme](parā)
 
 ## mukta-m0-p79-v1975
 [swan-female](haṃsī)

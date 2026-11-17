@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p83-v2051
-[excellent-balance](to) [balance](tulā)
+[totulā](totulā) [to](to) [tulā](tulā) [measure](measure) [full](full)
 
 ## mukta-m0-p83-v2052
-[excellent-balance](totulā) [balance](tulā) [art](kalā) [art](kalā) [be](astu) [she](sā)
+[totulā](totulā) [tulā](tulā) [kalā](kalā) [kalāḥ](kalāḥ) [sā](sā)
 
 ## mukta-m0-p83-v2053
-[balance](tulā) [tip](koṭiḥ)
+[tulā](tulā) [koṭiḥ](koṭiḥ) [crore](crore) [balance](balance)
 
 ## mukta-m0-p83-v2054
-[may-give](deyāt) [balance](tulā) [tip](koṭiḥ) [this](iyam) [balance](tulāṃ) [own](nijām)
+[deyāt](deyāt) [tulākoṭiḥ](tulākoṭiḥ) [iyaṃ](iyaṃ) [tulām](tulām) [nijām](nijām)
 
 ## mukta-m0-p83-v2055
-[unchanging](kūṭa) [abiding](sthā)
+[kūṭasthā](kūṭasthā) [kūṭa](kūṭa) [stha](stha) [abiding](abiding)
 
 ## mukta-m0-p83-v2056
-[is-tainted](lipyate) [ever](jātucit) [any](kācit) [unchanging](kūṭa) [abiding](sthā) [consciousness-made](cinmayī) [here](iha) [she](sā)
+[lipyate](lipyate) [jātucit](jātucit) [kācit](kācit) [kūṭasthā](kūṭasthā) [cinmayī](cinmayī) [iha](iha) [sā](sā)
 
 ## mukta-m0-p83-v2057
-[hollow](koṭara) [dwelling](āśrayā)
+[koṭarāśrayā](koṭarāśrayā) [koṭara](koṭara) [āśrayā](āśrayā) [refuge](refuge)
 
 ## mukta-m0-p83-v2058
-[with-refuge](śrayā) [with-glory](śriyā) [eternal](nitya) [own](nija) [seat](āsana) [prosperity](ṛddhayā)
+[śrayā](śrayā) [śriyā](śriyā) [nitya](nitya) [nija](nija) [āsana](āsana) [uddhayā](uddhayā)
 
 ## mukta-m0-p83-v2059
-[self](svayam) [born](bhūḥ)
+[svayambhūḥ](svayambhūḥ) [sva](sva) [yam](yam) [bhūḥ](bhūḥ) [self-born](self-born)
 
 ## mukta-m0-p83-v2060
-[how](kathaṃ) [she](sā) [self](svayam) [born](bhūḥ) [by-dull](jaḍaiḥ) [by-logic](nyāyya) [to-be-conceived](bhāvyā)
+[kathaṃ](kathaṃ) [sā](sā) [svayambhūḥ](svayambhūḥ) [jaḍaiḥ](jaḍaiḥ) [nyāyya](nyāyya) [bhāvyā](bhāvyā)
 
 ## mukta-m0-p83-v2061
-[good](su) [form](rūpā)
+[surūpā](surūpā) [su](su) [rūpā](rūpā) [beautiful](beautiful) [form](form)
 
 ## mukta-m0-p83-v2062
-[of-person](janasya) [takes-away](harate) [she](sā) [indeed](eva) [good](su) [form](rūpā) [thus](iti) [ascertained](nirūpitā)
+[janasya](janasya) [harate](harate) [saiva](saiva) [surūpā](surūpā) [iti](iti) [nirūpitā](nirūpitā)
 
 ## mukta-m0-p83-v2063
-[own](sva) [form](rūpā)
+[svarūpā](svarūpā) [sva](sva) [rūpā](rūpā) [own-form](own-form)
 
 ## mukta-m0-p83-v2064
-[moves](ccalati) [therefore](ataḥ) [she](sā) [indeed](hi) [always](sadā) [own](sva) [form](rūpā)
+[ccalatyataḥ](ccalatyataḥ) [sā](sā) [hi](hi) [sadā](sadā) [svarūpā](svarūpā)
 
 ## mukta-m0-p83-v2065
-[form](rūpa) [increasing](varddhinī)
+[rūpavarddhinī](rūpavarddhinī) [rūpa](rūpa) [varddhinī](varddhinī) [form-increasing](form-increasing)
 
 ## mukta-m0-p83-v2066
-[as-long-as](yāvat) [not](na) [this](iyam) [pleased](prasannā) [may-be](syāt) [formless](nīrūpā) [form](rūpa) [increasing](varddhinī)
+[yāvann](yāvann) [eyaṃ](eyaṃ) [prasannā](prasannā) [syāt](syāt) [nīrūpā](nīrūpā) [rūpavarddhinī](rūpavarddhinī)
 
 ## mukta-m0-p83-v2067
-[splendor](tejas) [possessing](vinī)
+[tejasvinī](tejasvinī) [tejas](tejas) [vinī](vinī) [radiant](radiant)
 
 ## mukta-m0-p83-v2068
-[splendor](tejas) [possessing](vinī) [of-whom](yasya) [always](sadā) [pleased](prasannā)
+[tejasvinī](tejasvinī) [yasya](yasya) [sadā](sadā) [prasannā](prasannā)
 
 ## mukta-m0-p83-v2069
-[good](su) [abundance](bhikṣā)
+[subhikṣā](subhikṣā) [su](su) [bhikṣā](bhikṣā) [abundance](abundance)
 
 ## mukta-m0-p83-v2070
-[who](kaḥ) [may-be](syāt) [then](tadā) [giver](dātṛ) [art](kalā) [strength](bala) [knower](jñaḥ)
+[kaḥ](kaḥ) [syāt](syāt) [tadā](tadā) [dātṛ](dātṛ) [kalā](kalā) [bala](bala) [jñaḥ](jñaḥ)
 
 ## mukta-m0-p83-v2071
-[strength](bala) [giving](dā)
+[baladā](baladā) [bala](bala) [dā](dā) [strength-giving](strength-giving)
 
 ## mukta-m0-p83-v2072
-[everywhere](sarvatra) [strength](bala) [giving](dā) [she](sā) [be](astu) [independence](svātantrya) [strength](bala) [giving](dā) [always](sadā)
+[sarvatra](sarvatra) [baladā](baladā) [sāstu](sāstu) [svātantrya](svātantrya) [baladā](baladā) [sadā](sadā)
 
 ## mukta-m0-p83-v2073
-[strength](bala) [giving](dāyinī)
+[baladāyinī](baladāyinī) [bala](bala) [dāyinī](dāyinī) [strength-bestowing](strength-bestowing)
 
 ## mukta-m0-p83-v2074
-[may-be](bhavatu) [always](sadā) [strength](bala) [giving](dāyinī) [leading](vinetrī)
+[bhavatu](bhavatu) [sadā](sadā) [baladāyinī](baladāyinī) [vinetrī](vinetrī)
 
 ## mukta-m0-p83-v2075
-[great](mahā) [treasury](kośī)
+[mahākośī](mahākośī) [mahā](mahā) [kośī](kośī) [great-treasury](great-treasury)

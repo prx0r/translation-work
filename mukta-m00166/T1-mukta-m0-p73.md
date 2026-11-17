@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p73-v1801
-[page](p.) [222](222)) [skillful](dakṣā) [capable-one](dakṣā)
+[skillful](dakṣā)
 
 ## mukta-m0-p73-v1802
-[skillful](dakṣā) [other-than-that](tadanyā) [which](katamā) [that](tat) [exists](asti)
+[skillful](dakṣā) [that+other](tadanyā) [which](katamā) [that+is](tadasti)
 
 ## mukta-m0-p73-v1803
-[Dakṣa-born](dakṣa+jā) [daughter-of-Dakṣa](dakṣajā) [goddess](dakṣajā) [she](dakṣajā)
+[born+of+dakṣa](dakṣajā)
 
 ## mukta-m0-p73-v1804
-[not](na) [indeed](tu) [from-whom](yasmāt) [therefore](tataḥ) [truly](satyaṃ) [Dakṣa-born](dakṣa+jā) [you-are](asi) [world-mother](jagat+prasūḥ)
+[not](na) [because](tu) [from+that](yasmāt) [truth](satyaṃ) [born+of+dakṣa](dakṣajāsi) [world+mother](jagatprasūḥ)
 
 ## mukta-m0-p73-v1805
-[crore-formed](koṭi+rūpiṇī) [having-crore-forms](koṭirūpiṇī) [manifold](koṭirūpiṇī) [goddess](koṭirūpiṇī)
+[having+crore+forms](koṭirūpiṇī)
 
 ## mukta-m0-p73-v1806
-[crore-form-ness](koṭi+rūpitvam) [having-attained](āptaḥ) [being](san) [one](ekaḥ) [I-am](asmi) [even-today](adya+api) [certainly](niścitam)
+[having+crore+form](koṭirūpitvamāptaḥ) [being](san) [one](eko) [am](asmi) [today+even](adyāpi) [certainly](niścitam)
 
 ## mukta-m0-p73-v1807
-[sacrifice](kratuḥ) [ritual](kratuḥ) [will](kratuḥ) [action](kratuḥ)
+[sacrifice](kratuḥ)
 
 ## mukta-m0-p73-v1808
-[became](abhūt) [preparation-girdle](sambhāra+nīvī) [also](api) [of-sacrifices](kratūnām) [even](api) [she](sā) [sacrifice](kratuḥ)
+[became](abhūt) [provision+encompassing](sambhāranīvyāpi) [of+sacrifices](kratūnāmapi) [that](sā) [sacrifice](kratuḥ)
 
 ## mukta-m0-p73-v1809
-[Kātyāyanī](kātyāyanī) [daughter-of-Katyayana](kātyāyanī) [goddess](kātyāyanī) [she](kātyāyanī)
+[kātyāyanī](kātyāyanī)
 
 ## mukta-m0-p73-v1810
-[Kātyāyanī](kātyāyanī) [may-protect](pātu) [from-death-accomplishment](kṛtānta+siddhāt) [from-fatal-end](kṛtāntasiddhāt)
+[kātyāyanī](kātyāyanī) [may+protect](pātu) [from+death+established](kṛtāntasiddhāt)
 
 ## mukta-m0-p73-v1811
-[page](p.) [223](223)) [pure](svacchā) [clear](svacchā)
+[pure](svacchā)
 
 ## mukta-m0-p73-v1812
-[pure](svacchā) [trivial-ego-remover](tuccha+ahantva+hartrī) [of-you](tava) [may-be](astu)
+[pure](svacchā) [vain](tucchā) [slayer+of+ego](ahantvahartrī) [yours](tavāstu)
 
 ## mukta-m0-p73-v1813
-[free-willed](svacchandā) [independent](svacchandā) [self-willed](svacchandā) [goddess](svacchandā)
+[self-willed](svacchandā)
 
 ## mukta-m0-p73-v1814
-[free-willed](svacchandā) [may-be](syāt) [not](na) [by-self-sound](ātma+nā) [non-dual-accessible](advaita+gamyā)
+[self-willed](svacchandā) [may+be](syā) [not+by+self](nātmanā) [non-dual+attainable](advaitagamyā)
 
 ## mukta-m0-p73-v1815
-[poet-dear](kavi+priyā) [beloved-of-poets](kavipriyā) [goddess](kavipriyā) [she](kavipriyā)
+[dear+to+poets](kavipriyā)
 
 ## mukta-m0-p73-v1816
-[celebrated](prathitaṃ) [who](yaḥ) [indeed](hi) [poet-dear-beloved](kavi+priyā+priyaḥ) [may-be](syāt)
+[renowned](prathitaṃ) [who](yo) [indeed](hi) [dear+to+poets+dear](kavipriyāpriyaḥ) [may+be](syāt)
 
 ## mukta-m0-p73-v1817
-[true-tradition](satya+āgamā) [true-scripture](satyāgamā) [goddess](satyāgamā) [she](satyāgamā)
+[true+scripture](satyāgamā)
 
 ## mukta-m0-p73-v1818
-[going-and-coming](gamā+agamaṃ) [without-confusion](nirbhramam) [you-spread](ātanoṣi) [fully](ātanoṣi)
+[going+coming](gamā'gamaṃ) [without+delusion](nirbhramamātanoṣi)
 
 ## mukta-m0-p73-v1819
-[page](p.) [224](224)) [external](bahiḥsthā) [outside-standing](bahiḥsthā)
+[outside+standing](bahiḥsthā)
 
 ## mukta-m0-p73-v1820
-[all-one-stream-flow](sarva+eka+dhārā+prasarā) [external](bahiḥsthā) [outside-standing](bahiḥsthā) [she](bahiḥsthā)
+[all+one+stream+flow](sarvaikadhārāprasarā) [outside+standing](bahiḥsthā)
 
 ## mukta-m0-p73-v1821
-[poetry-power](kāvya+śaktiḥ) [poetic-energy](kāvyaśaktiḥ) [goddess](kāvyaśaktiḥ) [she](kāvyaśaktiḥ)
+[poetic+power](kāvyaśaktiḥ)
 
 ## mukta-m0-p73-v1822
-[as-long-as](yāvat) [not](na) [this](eṣā) [shines](vilasati) [in-own](nije) [mind-sky](citta+khe) [poetry-power](kāvya+śaktiḥ)
+[as+long+as](yāvannaiṣā) [shines](vilasati) [in+own](nije) [mind+sky](cittakhe) [poetic+power](kāvyaśaktiḥ)
 
 ## mukta-m0-p73-v1823
-[poet-hood-giver](kavitva+dā) [bestower-of-poetry](kavitvadā) [goddess](kavitvadā) [she](kavitvadā)
+[poetry+giving](kavitvadā)
 
 ## mukta-m0-p73-v1824
-[having-heard](śrutvā) [mindless](a+manāḥ) [may-be](syāt) [good-minded-group](su+manaḥ+gaṇaḥ) [even](api)
+[having+heard](cchrutvāmanāḥ) [may+be](syāt) [good+mind+group+even](sumanogaṇo'pi)
 
 ## mukta-m0-p73-v1825
-[Menā-daughter](menā+putrī) [daughter-of-Menā](menāputrī) [Pārvatī](menāputrī) [goddess](menāputrī)
+[menā's+daughter](menāputrī)

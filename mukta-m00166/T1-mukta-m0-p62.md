@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p62-v1526
-[twilight](sandhyā) [thus](iti) [some](kācana) [supreme](parā) [declared](gaditā) [by-those-devoted-to-one-juncture](eka+sandhaiḥ)
+[sandhya](sandhyeti) [some](kācana) [supreme](parā) [spoken-single-bond](gaditaikasandhaiḥ)
 
 ## mukta-m0-p62-v1527
-[sāvitrī](sāvitrī) [sāvitrī](sāvitrī) [sāvitrī](sāvitrī) [sāvitrī](sāvitrī)
+[savitri](sāvitrī)
 
 ## mukta-m0-p62-v1528
-[sāvitrī](sāvitrī) [she](sā) [proclaimed](kīrtitā) [by-knowers-of-essence](sāra+vidbhiḥ)
+[savitri](sāvitrī) [she](sā) [praised](kīrtitā) [by-knowers-of-essence](sāravidbhiḥ)
 
 ## mukta-m0-p62-v1529
-[resting-on-three-words](tri+pada+āśrayā) [resting-on-three-words](tri+pada+āśrayā) [resting-on-three-words](tri+pada+āśrayā) [resting-on-three-words](tri+pada+āśrayā)
+[three-foot-refuge](tripadāśrayā)
 
 ## mukta-m0-p62-v1530
-[by-whom](yena) [this](iyam) [with-certainty](niścitam) [known](jñātā) [fearless](nirbhayā) [resting-on-three-words](tri+pada+āśrayā)
+[by-whom-this](yeneyaṃ) [certainly](niścitaṃ) [known](jñātā) [fearless](nirbhayā) [three-foot-refuge](tripadāśrayā)
 
 ## mukta-m0-p62-v1531
-[three-junctures](tri+sandhyā) [three-junctures](tri+sandhyā) [three-junctures](tri+sandhyā) [three-junctures](tri+sandhyā)
+[three-sandhyas](trisandhyā)
 
 ## mukta-m0-p62-v1532
-[three-junctures](tri+sandhyā) [thus](iti) [sung](gītā) [for-welfare](hitāya) [may-be](astu) [mother](mātā)
+[three-sandhyas](trisandhyeti) [sung](gītā) [for-welfare](hitāyāstu) [mother](mātā)
 
 ## mukta-m0-p62-v1533
-[three-footed](tri+padī) [three-footed](tri+padī) [three-footed](tri+padī) [three-footed](tri+padī)
+[three-footed](tripadī)
 
 ## mukta-m0-p62-v1534
-[goddess](devī) [triumphs](jayati) [exceedingly](atitarām) [three-footed](tri+padī) [great-goddess](mahā+īśī)
+[goddess](devī) [excels-greatly](jayatyatitarāṃ) [three-footed](tripadī) [great-lady](maheśī)
 
 ## mukta-m0-p62-v1535
-[supporter](dhātrī) [supporter](dhātrī) [supporter](dhātrī) [supporter](dhātrī)
+[nourisher](dhātrī)
 
 ## mukta-m0-p62-v1536
-[uniter](sandhātrī) [of-the-milk-of-knowledge](bodha+dugdhasya) [nourisher](dhātrī) [us](naḥ) [with-compassion](kṛpayā) [may-protect](avatāt)
+[joiner](sandhātrī) [of-knowledge-milk](bodhadugdhasya) [nourisher](dhātrī) [us](naḥ) [may-she-protect-with-grace](kṛpayāvatāt)
 
 ## mukta-m0-p62-v1537
-[having-fine-joints](su+parvā) [having-fine-joints](su+parvā) [having-fine-joints](su+parvā) [having-fine-joints](su+parvā)
+[good-joint](suparvā)
 
 ## mukta-m0-p62-v1538
-[lovely](kāmanīyā) [triumphs](jayati) [this](eṣā) [having-fine-joints](su+parvā) [ground-of-the-pride-of-the-lowly](akharva+garva+bhūḥ)
+[desirable](kāmanīyā) [excels-this](jayatyeṣā) [good-joint-dwarf-pride-destroyer](suparvākharvagarvabhūḥ)
 
 ## mukta-m0-p62-v1539
-[singer-of-sāman](sāma+gāyanī) [singer-of-sāman](sāma+gāyanī) [singer-of-sāman](sāma+gāyanī) [singer-of-sāman](sāma+gāyanī)
+[sama-singer](sāmagāyanī)
 
 ## mukta-m0-p62-v1540
-[fragile-by-contact-with-the-mass-of-notes](svara+saṃghama+asaṅga+bhaṅguram) [who](yā) [dwelling-in-the-heart](hṛdaya+sthā) [my](mama) [singer-of-sāman](sāma+gāyanī) [she](sā)
+[melody-union-detachment-breaking](svarasaṃghamasaṅgabhaṅguraṃ) [who](yā) [heart-seated](hṛdayasthā) [my](mama) [sama-singer](sāmagāyanī) [she](sā)
 
 ## mukta-m0-p62-v1541
-[pāñcālī](pāñcālī) [pāñcālī](pāñcālī) [pāñcālī](pāñcālī) [pāñcālī](pāñcālī)
+[pancali](pāñcālī)
 
 ## mukta-m0-p62-v1542
-[for-delight](prītaye) [may-lead](nayatu) [to-steadiness](sthairyam) [pāñcālī](pāñcālī) [fickle](cañcalam) [mind](manaḥ)
+[for-delight](prītaye) [may-lead](nayatu) [steadiness](sthairyaṃ) [pancali](pāñcālī) [restless](cañcalaṃ) [mind](manaḥ)
 
 ## mukta-m0-p62-v1543
-[young-girl](bālikā) [young-girl](bālikā) [young-girl](bālikā) [young-girl](bālikā)
+[young-girl](bālikā)
 
 ## mukta-m0-p62-v1544
-[plays](khelati) [herself](svayam) [having-come-to-this-state](idantvam+āgatā) [who](yā) [strength](balam) [my](mama) [may-make](karotu) [young-girl](bālikā)
+[plays](khelati) [by-herself-this-arrived](svayamidantvamāgatā) [who](yā) [strength](balaṃ) [my](mama) [may-make](karotu) [young-girl](bālikā)
 
 ## mukta-m0-p62-v1545
-[young-girl](bālā) [young-girl](bālā) [young-girl](bālā) [young-girl](bālā)
+[young](bālā)
 
 ## mukta-m0-p62-v1546
-[young-girl](bālā) [treasure-of-strength-and-weakness](bala+abala+nidhiḥ) [giver-of-happiness](pariśarma+dā) [may-be](astu)
+[young](bālā) [strength-weakness-treasure](balābalanidhiḥ) [may-give-rest](pariśarmadāstu)
 
 ## mukta-m0-p62-v1547
-[child’s-play](bāla+krīḍā) [child’s-play](bāla+krīḍā) [child’s-play](bāla+krīḍā) [child’s-play](bāla+krīḍā)
+[child-play](bālakrīḍā)
 
 ## mukta-m0-p62-v1548
-[spotless](niṣkalaṅkam) [renowned](prasiddhā) [here](iha) [child’s-play](bāla+krīḍā) [triumphs](jayati) [this](asau)
+[spotless](niṣkalaṅkaṃ) [famous-here](prasiddheha) [child-play](bālakrīḍā) [excels-that](jayatyasau)
 
 ## mukta-m0-p62-v1549
-[eternal](sanātanī) [eternal](sanātanī) [eternal](sanātanī) [eternal](sanātanī)
+[eternal](sanātanī)
 
 ## mukta-m0-p62-v1550
-[of-brahmā-and-others](brahma+ādīnām) [herself](svayam) [by-truth](tattā) [chosen](varjitā) [she](sā) [eternal](sanātanī)
+[of-brahma-etc](brahmādīnāṃ) [by-herself](svayaṃ) [that-essence-bestowed](tattāvarjitā) [she](sā) [eternal](sanātanī)

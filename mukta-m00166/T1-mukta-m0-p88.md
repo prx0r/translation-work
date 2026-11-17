@@ -2,76 +2,52 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p88-v2176
-[eldest](jyeṣṭhā) [most-excellent](vasiṣṭhā) [is](asti) [always](sadā) [indeed](api) [she](sā) [alone](eva)
-
+[eldest](jyeṣṭhā) [vasiṣṭha](vasiṣṭhā) [is](asti) [always](sadāpi) [that](saiva)
 ## mukta-m0-p88-v2177
-[most-excellent](śreṣṭhā) [supreme](śreṣṭhā) [best](śreṣṭhā) [preeminent](śreṣṭhā)
-
+[best](śreṣṭhā)
 ## mukta-m0-p88-v2178
-[most-excellent](śreṣṭhā) [may-be](astu) [for-us](naḥ) [desired+doing](sva+iṣṭa+karī) [most-firm](sthaviṣṭhā)
-
+[best](śreṣṭhā) [may-be](stu) [our](naḥ) [wish-doer](sveṣṭakarī) [most-stable](sthaviṣṭhā)
 ## mukta-m0-p88-v2179
-[netherworld+dwelling](pātāla+vāsinī) [dweller-in-pātāla](pātālavāsinī) [subterranean](pātālavāsinī) [goddess](pātālavāsinī)
-
+[pātāla-dweller](pātālavāsinī)
 ## mukta-m0-p88-v2180
-[most-highly](sarvoccaiḥ) [why](kiṃ) [of-bali](baleḥ) [became](bhūtā) [for-satisfaction](tuṣṭyai) [netherworld+dwelling](pātāla+vāsinī)
-
+[by-all-highest](sarvoccaiḥ) [what](kiṃ) [of-strength](baler) [born](bhūtā) [for-satisfaction](tuṣṭyai) [pātāla-dweller](pātālavāsinī)
 ## mukta-m0-p88-v2181
-[investigation](mīmāṃsā) [exegesis](mīmāṃsā) [inquiry](mīmāṃsā) [reflection](mīmāṃsā)
-
+[inquiry](mīmāṃsā)
 ## mukta-m0-p88-v2182
-[investigation](mīmāṃsā) [this](eṣā) [wise-men+section+resounded](manīṣi+prakaraṇa+raṇitaṃ) [speech+play](vāg+vilāsaṃ) [may-give](dadātu)
-
+[inquiry](mīmāṃsā) [this](eṣā) [wise-one's-treatise](manīṣiprakaraṇa) [resounding](raṇitaṃ) [speech-play](vāgvilāsaṃ) [may-give](dadātu)
 ## mukta-m0-p88-v2183
-[logic+science](tarka+vidyā) [reasoning](tarkavidyā) [dialectics](tarkavidyā) [knowledge](tarkavidyā)
-
+[logic-science](tarkavidyā)
 ## mukta-m0-p88-v2184
-[she](sā) [logic+science](tarka+vidyā) [known+faultless](vidita+anavadyā) [blameless](anavadyā)
-
+[that](sā) [logic-science](tarkavidyā) [known](viditā) [faultless](anavadyā)
 ## mukta-m0-p88-v2185
-[page](p.) [261)](261)) [good+devotion](su+bhaktiḥ) [excellent-devotion](subhaktiḥ)
-
+[good-devotion](subhaktiḥ)
 ## mukta-m0-p88-v2186
-[remembered](smṛtā) [not](na) [as-long-as](yāvat) [by-wise-one](sudhiyā) [good+devotion](su+bhaktiḥ)
-
+[remembered](smṛtā) [not](na) [until](yāvat) [by-wise](sudhiyā) [good-devotion](subhaktiḥ)
 ## mukta-m0-p88-v2187
-[devotee+kind](bhakta+vatsalā) [affectionate-to-devotees](bhaktavatsalā) [compassionate](bhaktavatsalā) [loving](bhaktavatsalā)
-
+[devotee-loving](bhaktavatsalā)
 ## mukta-m0-p88-v2188
-[honors](añcate) [deceit+without](vañcanā+hīnaḥ) [she](sā) [manifestly](vyaktaṃ) [devotee+kind](bhakta+vatsalā)
-
+[reveres](añcate) [deceit-free](vañcanāhīnaḥ) [she](sā) [clearly](vyaktaṃ) [devotee-loving](bhaktavatsalā)
 ## mukta-m0-p88-v2189
-[beautiful-naveled](sunābhiḥ) [good-nave](sunābhiḥ) [well-centered](sunābhiḥ) [auspicious-navel](sunābhiḥ)
-
+[good-navel](sunābhiḥ)
 ## mukta-m0-p88-v2190
-[beautiful-naveled](sunābhiḥ) [this](eṣā) [may-be](astu) [my](mama) [protector](abhigoptrī)
-
+[good-navel](sunābhiḥ) [may-she-be](eṣāstu) [my-protector](mamābhigoptrī)
 ## mukta-m0-p88-v2191
-[torment](yātanā) [suffering](yātanā) [agony](yātanā) [punishment](yātanā)
-
+[torment](yātanā)
 ## mukta-m0-p88-v2192
-[in-me](mayi) [may-be](astu) [illusion+its-effect+poverty](māyā+tat+kārya+dāridryeṇa) [indeed](eva) [belonging-to-śaṅkara](śāṅkarī)
-
+[in-me](mayyastu) [māyā](māyā) [that-work](tatkārya) [poverty](dāridryeṇa) [indeed](eva) [śāṅkarī](śāṅkarī)
 ## mukta-m0-p88-v2193
-[genus](jātiḥ) [class](jātiḥ) [universal](jātiḥ) [category](jātiḥ)
-
+[genus](jātiḥ)
 ## mukta-m0-p88-v2194
-[not](na) [if](cet) [genus](jātiḥ) [would-be](bhavet) [any](kācit) [one+multiplicity+apprehending](eka+aneka+tva+bodhinī)
-
+[not](na) [if](cet) [genus](jātiḥ) [would-be](bhavet) [some](kācid) [one-many-knowledge](ekānekatvabodhinī)
 ## mukta-m0-p88-v2195
-[profound](gambhīrā) [deep](gambhīrā) [solemn](gambhīrā) [unfathomable](gambhīrā)
-
+[deep](gambhīrā)
 ## mukta-m0-p88-v2196
-[profound](rgambhīrā) [may-be](syāt) [self+luminous](sva+prakāśā) [desireless](nirāśā)
-
+[deep](gambhīrā) [may-be](syāt) [self-luminous](svaprakāśā) [hopeless](nirāśā)
 ## mukta-m0-p88-v2197
-[existence+devoid](bhāva+varjitā) [without-being](bhāvavarjitā) [devoid-of-bhāva](bhāvavarjitā) [free-from-existence](bhāvavarjitā)
-
+[being-free](bhāvavarjitā)
 ## mukta-m0-p88-v2198
-[existence+form](bhāva+rūpā) [although](api) [ah](aho) [existence+devoid](bhāva+varjitā) [she](sā) [by-own-nature](svabhāvataḥ)
-
+[being-formed](bhāvarūpā) [alas](apyaho) [being-free](bhāvavarjitā) [she](sā) [by-nature](svabhāvataḥ)
 ## mukta-m0-p88-v2199
-[snake+noose+holding](nāga+pāśa+dharā) [form](mūrtiḥ) [serpent-noose-bearer](nāgapāśadharā) [image](mūrtiḥ)
-
+[serpent-noose-bearer](nāgapāśadharā) [form](mūrtiḥ)
 ## mukta-m0-p88-v2200
-[snake+noose+holding](nāga+pāśa+dharā) [form](mūrtiḥ) [may-shine](sphuratāt) [battle+crisis](raṇa+saṃkaṭe)
+[serpent-noose-bearer](nāgapāśadharā) [form](mūrtiḥ) [shining](sphuratā) [mountain](adraṇa) [strait](saṃkaṭe)
