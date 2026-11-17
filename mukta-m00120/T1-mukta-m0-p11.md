@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p11-v251
-liberation(mokṣaṃ) contemplate(bhāvanti) excellent(uttamāḥ) and(ca) state-transcended(bhāva+atītāḥ) therefore(tad) most-excellent(uttamāḥ)
+[mokṣam](mokṣaṃ) [bhāvanty](bhāvanty) [uttamāḥ](uttamāś) [ca](ca) [bhāva-atītāḥ](bhāvātītāḥ) [tat-uttamāḥ](taduttamāḥ)
 
 ## mukta-m0-p11-v252
-excellent(uttamāḥ) liberation-giving-conduct(mokṣa+dā+ācārāḥ) own-will-conduct(sva+icchā+ācārāḥ) therefore(tad) most-excellent(uttamāḥ)
+[uttamāḥ](uttamā) [mokṣa-dā-ācārāḥ](mokṣadācārāḥ) [sva-icchā-ācārāḥ](svecchācārāḥ) [tat-uttamāḥ](taduttamāḥ)
 
 ## mukta-m0-p11-v253
-liberation(mokṣaṃ) see(paśyanti) excellent(uttamāḥ) and(ca) not(na) see(apaśyanti) most-excellent(uttama+uttamāḥ)
+[mokṣam](mokṣaṃ) [paśyanti](paśyanty) [uttamāḥ](uttamāś) [ca](ca) [na-paśyanti](nāpaśyanty) [uttama-uttamāḥ](uttamottamāḥ)
 
 ## mukta-m0-p11-v254
-excellent(uttamāḥ) liberation-fearing(mokṣa+bhītāḥ) and(ca) fear(bhītaḥ) not(na) exists(asti) most-excellent(uttama+uttamāḥ)
+[uttamāḥ](uttamā) [mokṣa-bhītāḥ](mokṣabhītāś) [ca](ca) [bhītaḥ](bhīto) [na-asti](nāsty) [uttama-uttamāḥ](uttamottamāḥ)
 
 ## mukta-m0-p11-v255
-knower(jñānī) birth-excellent(janma+uttamaḥ) liberated(moktaḥ) birth(janma) not(na) exists(asti) most-excellent(uttama+uttamaḥ)
+[jñānī](jñānī) [janma-uttamaḥ](janmottamaḥ) [muktaḥ](mokto) [janma](janma) [na-asti](nāsty) [uttama-uttamaḥ](uttamottamaḥ)
 
 ## mukta-m0-p11-v256
-excellent(uttamaḥ) and(ca) one-birth(eka+janmā) even(api) birth(janma) not(na) exists(asti) most-excellent(uttama+uttamaḥ)
+[uttamaḥ](uttamaś) [ca](ca) [eka-janmā](ekajanmā) [api](api) [janma](janma) [na-asti](nāsty) [uttama-uttamaḥ](uttamottamaḥ)
 
 ## mukta-m0-p11-v257
-excellent(uttamaṃ) womb-instrument(yoni+yantraḥ) and(ca) all-instruments-most-excellent(sarva+yantra+uttama+uttamam)
+[uttamam](uttamaṃ) [yoni-yantraḥ](yoniyantraś) [ca](ca) [sarva-yantra-uttama-uttamam](sarvayantottamottamam)
 
 ## mukta-m0-p11-v258
-seventh(saptamaḥ) chapter(ullāsaḥ)
+[saptama](saptama) [ullāsaḥ](ullāsaḥ)
 
 ## mukta-m0-p11-v259
-conduct(ācāraḥ) threefold(trividhaḥ) O-goddess(devi) in-sequence(krameṇa) declared(udāhṛtaḥ) by-me(mayā)
+[ācāraḥ](ācārastrividho) [trividhaḥ](trividho) [devi](devi) [krameṇa](krameṇa) [udāhṛtaḥ](udāhṛto) [mayā](mayā)
 
 ## mukta-m0-p11-v260
-one-state(eka+bhāvaḥ) supreme(paraṃ) brahman(brahma) all-obstacles-destroying(sarva+vighna+praṇāśakam)
+[eka-bhāvaḥ](ekabhāvaḥ) [param](paraṃ) [brahma](brahma) [sarva-vighna-praṇāśakam](sarvavighnapraṇāśakam)
 
 ## mukta-m0-p11-v261
-one-state(eka+bhāvaḥ) how(kathaṃ) O-god(deva) in-my(mama) place(sthāne) reveal(prakāśaya)
+[eka-bhāvaḥ](ekabhāvaḥ) [katham](kathaṃ) [deva](deva) [mama](mama) [sthāne](sthāne) [prakāśaya](prakāśaya)
 
 ## mukta-m0-p11-v262
-virgin(kumārī) there(tatra) renowned(vikhyātā) yantra-mantra-fruit-giving(yantra+tantra+phala+pradā)
+[kumārī](kumārī) [tatra](tatra) [vikhyātā](vikhyātā) [yantra-tantra-phala-pradā](yantra-tantraphalapradā)
 
 ## mukta-m0-p11-v263
-there(tatra) state(bhāvaḥ) manifestation(prakāśaḥ) which(yaḥ) that(saḥ) state(bhāvaḥ) supreme(paramaḥ) considered(mataḥ)
+[tatra](tatra) [bhāvaḥ](bhāvaḥ) [prakāśaḥ](prakāśo) [yaḥ](yaḥ) [sa](sa) [bhāvaḥ](bhāvaḥ) [paramaḥ](paramo) [mataḥ](mataḥ)
 
 ## mukta-m0-p11-v264
-so-long(tāvat) young-woman(yuvatī) renowned(vikhyātā) in-her(tasyāṃ) worship(pūjā) great-fruit(mahā+phalā)
+[tāvat](tāvad) [yuvatī](yuvatī) [vikhyātā](vikhyātā) [tasyām](tasyāṃ) [pūjā](pūjā) [mahā-phalā](mahāphalā)
 
 ## mukta-m0-p11-v265
-after-that(tad+ante) sixteenth-year(ṣoḍaśa+abde) and(ca) digit(kalā) to-be-accomplished-digit(sādhya+kalā) O-Śiva(śive)
+[tad-ante](tadante) [ṣoḍaśa-abde](ṣoḍaśābde) [ca](ca) [kalā](kalā) [sādhya-kalā](sādhyakalā) [śive](śive)
 
 ## mukta-m0-p11-v266
-digit(kalā) what(kā) O-supreme-lord(parameśāna) in-my(mama) place(sthāne) reveal(prakāśaya)
+[kalā](kalā) [kā](kā) [parameśāna](parameśāna) [mama](mama) [sthāne](sthāne) [prakāśaya](prakāśaya)
 
 ## mukta-m0-p11-v267
-desire-wind-abandoned(kāma+vāyu+ujjhitāyāḥ) in-worship(pūjane) not(na) exists(asti) fitness(yogyatā)
+[kāma-vāyu-mujjhitāyāḥ](kāmavāyumujjhitāyāḥ) [pūjane](pūjane) [na-asti](nāsti) [yogyatā](yogyatā)
 
 ## mukta-m0-p11-v268
-virgin(kumārīṃ) one-should-worship(pūjayet) O-goddess(devi) with-desire-attitude(kāma+bhāvena) one-should-worship(pūjayet)
+[kumārīm](kumārīṃ) [pūjayet](pūjayed) [devi](devi) [kāma-bhāvena](kāmabhāvena) [pūjayet](pūjayet)
 
 ## mukta-m0-p11-v269
-eighth(aṣṭamaḥ) chapter(ullāsaḥ)
+[aṣṭama](aṣṭama) [ullāsaḥ](ullāsaḥ)
 
 ## mukta-m0-p11-v270
-siddhānta(siddhāntaṃ) or(vā) O-great-goddess(maheśāni) kaula-state(kaula+bhāvaṃ) resorted-to(samāśritam)
+[siddhāntam](siddhāntaṃ) [vā](vā) [maheśāni](maheśāni) [kaula-bhāvam](kaulabhāvaṃ) [samāśritam](samāśritam)
 
 ## mukta-m0-p11-v271
-divine(divyaḥ) siddhānta(siddhantaḥ) kaula(kaulaḥ) and(ca) sixfold(ṣaṭ+prakāraḥ) how(kathaṃ) tell(vada)
+[divyaḥ](divyaḥ) [siddhantaḥ](siddhantaḥ) [kaulaḥ](kaulaś) [ca](ca) [ṣaṭ-prakāraḥ](ṣaṭprakāraḥ) [katham](kathaṃ) [vada](vada)
 
 ## mukta-m0-p11-v272
-fourfold(caturdhā) divine(divyaḥ) kaula(kaulaḥ) and(ca) of-śakti(śakteḥ) and(ca) of-puruṣa(puruṣasya) and(ca)
+[caturdhā](caturdhā) [divyaḥ](divyaḥ) [kaulaḥ](kaulaś) [ca](ca) [śakteḥ](śakteś) [ca](ca) [puruṣasya](puruṣasya) [ca](ca)
 
 ## mukta-m0-p11-v273
-six-conducts(ṣaṭ+ācāraṃ) four-states(catur+bhāvaṃ) kaula-knowledge(kaula+jñānaṃ) and(ca) what(kiṃ) tell(vada)
+[ṣaḍ-ācāram](ṣaḍācāraṃ) [catur-bhāvam](caturbhāvaṃ) [kaula-jñānam](kauljñānañ) [ca](ca) [kim](kiṃ) [vada](vada)
 
 ## mukta-m0-p11-v274
-fourfold-state-endowed(caturdhā+bhāva+saṃyutāt)
+[caturdhā-bhāva-saṃyutāt](caturdhābhāvasaṃyutāt)
 
 ## mukta-m0-p11-v275
-hero(vīraḥ) and(ca) twofold(dvividhaḥ) O-goddess(devi) without-state(vibhāvaḥ) and(ca) with-state(sabhāvakaḥ)
+[vīraḥ](vīraś) [ca](ca) [dvividhaḥ](dvividho) [devi](devi) [vibhāvaḥ](vibhāvaś) [ca](ca) [sa-bhāvakaḥ](sabhāvakaḥ)

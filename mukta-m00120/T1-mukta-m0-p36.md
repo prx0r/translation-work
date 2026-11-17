@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p36-v876
-[with-red-flower](raktapuṣpeṇa) [having-cleansed](nirmañjya) [in-yoni-place](yonideśe) [one-should-place](niyojayet)
+[with-red-flower](raktapuṣpeṇa) [having-wiped](nirmañjya) [in-vulva-place](yonideśe) [should-place](niyojayet)
 
 ## mukta-m0-p36-v877
-[my](mama) [power](śaktiṃ) [make](kuru) [union](dvandvaṃ) [svāhā-thus](svāheti) [ten-times](daśadhā) [one-should-recite](japet)
+[my](mama) [power](śaktiṃ) [make](kuru) [pair](dvandvaṃ) [svāhā-thus](svāheti) [ten-times](daśadhā) [should-chant](japet)
 
 ## mukta-m0-p36-v878
-[enjoyment-vessel](bhogapātraṃ) [when](yadā) [to-be-given](deyaṃ) [then](tadā) [sexual-union](ramaṇam) [one-should-perform](ācaret)
+[enjoyment-vessel](bhogapātraṃ) [when](yadā) [should-be-given](deyaṃ) [then](tadā) [enjoyment+should-practice](ramaṇamācaret)
 
 ## mukta-m0-p36-v879
-[by-that](tena) [indeed](eva) [by-mantra](manunā) [O-goddess](devi) [in-six-limbs](ṣaḍaṅge) [placement](nyāsam) [one-should-perform](ācaret)
+[by-that-mantra](tenaiva) [manunā](manunā) [goddess](devi) [six-limbed](ṣaḍaṅge) [nyāsa+should-practice](nyāsamācaret)
 
 ## mukta-m0-p36-v880
-[seventy-times](saptatiḥ) [consecrated](mantritaṃ) [having-made](kṛtvā) [pure](pūtaṃ) [all](sarvaṃ) [becomes](bhavet) [certainly](dhruvam)
+[seventy-times](saptatirmantritaṃ) [having-made](kṛtvā) [purified](pūtaṃ) [all](sarvaṃ) [becomes](bhaved) [certainly](dhruvam)
 
 ## mukta-m0-p36-v881
-[one-should-offer](juhuyāt) [in-kuṇḍalinī-mouth](kuṇḍalīvaktre) [with-root-mantra](mūlamantreṇa) [O-beautiful-one](sundari)
+[should-offer](juhuyāt) [in-kundali-mouth](kuṇḍalīvaktre) [root-mantra](mūlamantreṇa) [beautiful-one](sundari)
 
 ## mukta-m0-p36-v882
-[at-enjoyment-time](bhogakāle) [O-great-goddess](maheśāni) [up-to-tongue-tip](ājihvāntaṃ) [one-should-visualize](vibhāvayet)
+[at-enjoyment-time](bhogakāle) [great-goddess](maheśāni) [up-to-tongue-tip](ājihvāntaṃ) [should-visualize](vibhāvayet)
 
 ## mukta-m0-p36-v883
-[root-mantra](mūlamantraṃ) [having-uttered](samuccārya) [one-should-offer](juhuyāt) [in-kuṇḍalinī-mouth](kuṇḍalīmukhe)
+[root-mantra](mūlamantraṃ) [having-uttered](samuccārya) [should-offer](juhuyāt) [in-kundali-mouth](kuṇḍalīmukhe)
 
 ## mukta-m0-p36-v884
-[eating-desire](bhojanecchā) [would-be](bhavet) [of-her](tasyā) [unstained](nirlipto) [living-being-named](jīvasaṃjñakaḥ)
+[desire-to-eat](bhojanecchā) [arises](bhavettasyā) [unattached](nirlipto) [soul-named](jīvasaṃjñakaḥ)
 
 ## mukta-m0-p36-v885
-[goes](prayāti) [to-hell](narakaṃ) [terrible](ghoram) [with-twenty-one-families](ekaviṃśakulaiḥ) [with](saha)
+[goes](prayāti) [to-terrible-hell](narakaṃ) [ghoram](ghoramekaviṃśakulaiḥ) [with-twenty-one-families](saḥa)
 
 ## mukta-m0-p36-v886
-[guru](guruṃ) [remembering](smaran) [one-may-drink-wine](pivenmadyaṃ) [eating](khādan) [meat](māṃsaṃ) [not](na) [fault-partaker](doṣabhāk)
+[remembering-guru](guruṃ) [smaran](smaran) [should-drink-wine](pivenmadyaṃ) [should-eat-meat](khādan) [māṃsaṃ](māṃsaṃ) [no-sin](na) [doṣabhāk](doṣabhāk)
 
 ## mukta-m0-p36-v887
-[thus](iti) [in-śrī-sarvānandanātha-composed](śrīsarvānandanāthaviracite) [in-sarvollāsa](sarvollāse) [twenty-ninth-chapter](ūnatriṃśadullāsaḥ)
+[thus](iti) [śrī-sarvānandanātha-composed](śrīsarvānandanāthaviracite) [sarvollāsa](sarvollāse) [thirty-ninth-ullāsa](ūnatriṃśadullāsaḥ)
 
 ## mukta-m0-p36-v888
-[of-cause](kāraṇasya) [cause](kāraṇaṃ) [indeed](hi) [consciousness](sambid) [thus](iti) [conceived](prakalpitam)
+[cause](kāraṇasya) [cause](kāraṇaṃ) [indeed](hi) [consciousness](sambideti) [is-imagined](prakalpitam)
 
 ## mukta-m0-p36-v889
-[why](kasmāt) [drinking](pānaṃ) [cause](kāraṇaṃ) [indeed](hi) [consciousness-bliss-partaker](sambidānandabhāk) [man](naraḥ)
+[why](kasmāt) [drinking](pānaṃ) [cause](kāraṇaṃ) [indeed](hi) [consciousness-bliss-partaking](sambidānandabhāk) [man](naraḥ)
 
 ## mukta-m0-p36-v890
-[by-contemplation-colored](bhāvāktaṃ) [consciousness-bliss](sambidānandaṃ) [wine-bliss](madyānandam) [non-different](abhedakam)
+[with-bhāva](bhāvāktaṃ) [consciousness-bliss](sambidānandaṃ) [wine-bliss](madyānandam) [non-different](abhedakam)
 
 ## mukta-m0-p36-v891
-[in-contemplation-blisses](bhāvānandeṣu) [O-lord-of-gods](deveśi) [liberation-sharer](muktibhāg) [becomes](jāyate) [man](naraḥ)
+[in-bhāva-blisses](bhāvānandeṣu) [goddess](deveśi) [liberation-share](muktibhāg) [becomes](jāyate) [man](naraḥ)
 
 ## mukta-m0-p36-v892
-[then](tadā) [absolute-liberation](kaivalyamuktiḥ) [would-be](syāt) [truth](satyaṃ) [truth](satyaṃ) [no](na) [doubt](saṃśayaḥ)
+[then](tadā) [kaivalya-liberation](kaivalyamuktiḥ) [would-be](syāt) [true](satyaṃ) [true](satyaṃ) [no-doubt](na) [saṃśayaḥ](saṃśayaḥ)
 
 ## mukta-m0-p36-v893
-[this](idaṃ) [knowledge](jñānaṃ) [consciousness-born](sambidotthaṃ) [for-liberation](muktyartham) [endowed-with-both](ubhayānvitam)
+[this](idaṃ) [knowledge](jñānaṃ) [consciousness-born](sambidotthaṃ) [for-liberation](muktyartham) [both-endowed](ubhayānvitam)
 
 ## mukta-m0-p36-v894
-[eternal-bliss](sadānanda]) [bestowing](pradāyakam)
+[always-bliss](sadānanda) [giving](pradāyakam)
 
 ## mukta-m0-p36-v895
-[therefore](ata) [indeed](eva) [O-great-god](mahādeva) [grasping-of-consciousness](sambidāgrahaṇañ) [one-should-practice](caret)
+[therefore](ata) [indeed](eva) [great-god](mahādeva) [consciousness-grasping](sambidāgrahaṇañcaret)
 
 ## mukta-m0-p36-v896
-[always](sarvadā) [O-supreme-lord](parameśāna) [accomplishment-bliss](siddhyānandaṃ) [sometimes](kvacit) [sometimes](kvacit)
+[always](sarvadā) [supreme-lord](parameśāna) [accomplishment-bliss](siddhyānandaṃ) [sometimes](kvacit) [kvacit](kvacit)
 
 ## mukta-m0-p36-v897
-[wine-bliss](madyānandaṃ) [sometimes](kvacid) [O-god](deva) [on-festival](parvaṇi) [endowed-with-wine-drinking](madhupānayuk)
+[wine-bliss](madyānandaṃ) [sometimes](kvacid) [god](deva) [at-festival](parvaṇi) [with-honey-drinking](madhupānayuk)
 
 ## mukta-m0-p36-v898
-[in-bright-fortnight](śukle) [if](yadi) [one-drinks-wine](pivenmadyaṃ) [at-beginning-and-end](ādyante) [consciousness](sambidāṃ) [one-should-drink](pivet)
+[if-white](śukle) [if-drinks-wine](yadi) [pivenmadyaṃ](pivenmadyaṃ) [at-beginning-end](ādyante) [consciousness](sambidāṃ) [should-drink](pivet)
 
 ## mukta-m0-p36-v899
-[in-bright-fortnight](śukle) [and-first](cādyaṃ) [one-should-drink](pivet) [accomplishment](siddhiṃ) [in-dark-fortnight](kṛṣṇe) [and-first](cādyaṃ) [one-should-drink](pivet) [wine](madhu)
+[white](śukle) [and-beginning](cādyaṃ) [should-drink](pivet) [accomplishment](siddhiṃ) [black](kṛṣṇe) [and-beginning](cādyaṃ) [should-drink-honey](pivenmadhu)
 
 ## mukta-m0-p36-v900
-[of-tvaritā](tvaritāyās) [born-from-darkness](tamodbhūtam) [thus](iti) [of-bliss](ānandasya) [characteristic](lakṣaṇam)
+[quickly-arisen](tvaritāyāstamodbhūtamityānandasya) [lakṣaṇam](lakṣaṇam)

@@ -2,76 +2,52 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p51-v1251
-[listen](śṛṇu) [your](te) [that+speech+wonder](tat+vacaḥ+matkaṃ) [o+o](bho+bho) [men+middling](puruṣa+madhyamāḥ)
-
+hear [kh: hear] your that-word O among-men
 ## mukta-m0-p51-v1252
-[in-self+ground](ātma+bhūmau) [and](ca) [let-them-abide](tiṣṭhaṃtāṃ) [in-good+own](satsu+sviyyeṣu) [things](vastuṣu)
-
+in-self-ground and standing good-own-things in-things
 ## mukta-m0-p51-v1253
-[was](asti) [Rāma+named](rāma+nāmā) [king](ahan+sūrya+vaṃśe) [in-sun+dynasty](mahīpatiḥ)
-
+unsteady-name-hansa-sun-lineage earth-lord
 ## mukta-m0-p51-v1254
-[him](tam) [followed](anvagāt) [younger-brother](yau+rāma+anujaḥ) [virtuous](dharma+śālinam)
-
+him followed Rama younger-brother dharma-possessing
 ## mukta-m0-p51-v1255
-[with-her](tayā) [and](ca) [together+Rāma](sahitaḥ+rāmaḥ) [with-younger](kaniṣṭhena) [and](ca) [in-forest](kānane)
-
+with-her and Rama with-younger-brother in-forest
 ## mukta-m0-p51-v1256
-[by-ear](karṇā) [by-pericarp](karṇikayā) [worthy-of-ear](karṇya) [Sītā](sītāṃ) [beauty+possessing](saundarya+śālinīm)
-
+ear ear-ring ear-possessing Sita beauty-possessing
 ## mukta-m0-p51-v1257
-[with-root+uprooted](samūla+unmūlitaḥ) [in-battle](saṃkhye) [by-Rāghava](rāghaveṇa) [alone+wandering](eka+cāriṇā)
-
+rooted-up in-battle by-Raghava alone-wandering
 ## mukta-m0-p51-v1258
-[in-other+land](para+bhūmi) [attachment](prasaktiḥ) [and](ca) [not+by-you+gone](na+tvayā+tāṃ) [anywhere](kvacit) [anywhere](kvacit)
-
+foreign-land attachment and not-went sometimes sometimes
 ## mukta-m0-p51-v1259
-[alone](ekākī) [on-foot+walking](pāda+cārī) [and](ca) [of-vultures](gṛdhrāṇām) [became](abhavat) [strong](baliḥ)
-
+alone foot-walking and vulture-of became-strength
 ## mukta-m0-p51-v1260
-[such](etādṛśa) [downfall](vinīpātam) [reached](agamat) [Dhṛtarāṣṭra+son](dhṛtarāṣṭra+jaḥ)
-
+such-fall reached Dhritarashtra-born
 ## mukta-m0-p51-v1261
-[cast-away](nikṣipasva) [here](iha) [conduct](ācāram) [without-restraint+gone+fever](anuniṣṭha+gata+jvaraḥ)
-
+deposit here conduct fever-gone-by-discipline
 ## mukta-m0-p51-v1262
-[by-fear+instruction+pierced](bheta+upadeśa+nirbhiṇāḥ) [mind+faults](citta+doṣa) [without-attachment](nirāgrahāḥ)
-
+fear-instruction-pierced mind-fault without-attachment
 ## mukta-m0-p51-v1263
-[now](atha) [of-low](nīca) [men](narāṇāṃ) [indeed](tu) [by-gift+form+instruction](dāna+rūpa+upadeśataḥ)
-
+then low men of by-gift-form-instruction
 ## mukta-m0-p51-v1264
-[gift](dānaṃ) [named](nāma) [of-desired+things](iṣṭa+vastūnāṃ) [true+untrue+natured](satya+asatya+svarūpiṇām)
-
+gift named desired-things truth-untruth-form
 ## mukta-m0-p51-v1265
-[there](tatra) [Vyāsa+and-others](vyāsa+ādayaḥ) [said](procuḥ) [thus](evaṃ) [toward-low+men](nīca+narān+prati)
-
+there Vyasa-etc said thus to-low-men
 ## mukta-m0-p51-v1266
-[from-another+wife+approach](para+dāra+anuṣaṃ) [and](ca) [by-abstention](viratyā) [merit+wealth](puṇya+saṃpadaḥ)
-
+others-wives going-away by-renunciation merit-wealth
 ## mukta-m0-p51-v1267
-[from-another+thing](para+vastu) [from-seizing](grahaṇataḥ) [by-abstention](nirutyā) [wealth](saṃpat) [would-arise](udbhavet)
-
+other-thing by-taking by-non-attachment wealth-arises
 ## mukta-m0-p51-v1268
-[by-this](anena) [merit+path](puṇya+mārgeṇa) [your](tava) [happiness](saukhyaṃ) [at-step](pade) [at-step](pade)
-
+by-this merit-path your happiness step by-step
 ## mukta-m0-p51-v1269
-[you-will-obtain](samāpsyasi)
-
+you-will-complete
 ## mukta-m0-p51-v1270
-[having-enticed](vipralobhya) [good+conducts](sat+ācārān) [Vyāsa+and-others+taught](vyāsa+ādhyātān) [they-led](vininvire)
-
+tempting good-conduct Vyasa-etc led
 ## mukta-m0-p51-v1271
-[severe+fasting](tīvra+upavāsa) [suffering+and-so-on](duḥkha+ādyam) [even](api) [do](kurvaṃti) [people](mānavāḥ)
-
+severe-fasting suffering-etc even do men
 ## mukta-m0-p51-v1272
-[therefore](ataḥ) [gift+instruction](dāna+upadeśaḥ) [this](ayaṃ) [among-low+mortals](nica+martyeṣu) [enjoined](coditaḥ)
-
+therefore gift-instruction this low-mortals urged
 ## mukta-m0-p51-v1273
-[of-many+faults+seizing](bahu+doṣa+grahavatāṃ) [three+stages](kakṣyā+traya) [of-transgressors](vilaṃghinām)
-
+many-fault-grasping three-enclosure transgressing
 ## mukta-m0-p51-v1274
-[among-them](teṣu) [that+path](tat+mārgam) [having-resorted-to](ālambya) [they-instruct](śikṣayanti) [lowest+of-low](adhama+adhamān)
-
+in-them that-path adopting teach lowest-low
 ## mukta-m0-p51-v1275
-[by-hand+cuttings](hasta+cchedaiḥ) [by-foot+cuttings](pada+cchedaiḥ) [by-beatings](tāḍanaiḥ) [by-needle+piercings](sūci+vedhanaiḥ)
+hand-cutting foot-cutting beatings needle-piercings

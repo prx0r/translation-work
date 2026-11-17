@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p09-v201
-[by-illusion](māyayā) [covered+self](ācchādita+ātmānaṃ) [in-its-midst](tanmadhye) [of-equal-nature](samabhāvataḥ)
+by-māyā-covered-self (māyayācchāditātmānaṃ) in-middle (tanmadhye) with-equal-nature (samabhāvataḥ)
 
 ## mukta-m0-p09-v202
-[great+brahman](mahā+brahmā) [he](saḥ) [alone](eva) [self](ātmā) [name+mere+differentiated](nāma+mātra+vibhedakaḥ)
+great-brahmā (mahābrahmā) he (sa) indeed-self (evātmā) name-only-differentiator (nāmamātravibhedakaḥ)
 
 ## mukta-m0-p09-v203
-[manifold+state+mind](nānā+bhāva+manaḥ) [of-whom](yasya) [of-him](tasya) [liberation](muktiḥ) [not](na) [exists](vidyate)
+various-nature-mind (nānābhāvamano) whose (yasya) his (tasya) liberation-not (muktirna) exists (vidyate)
 
 ## mukta-m0-p09-v204
-[there](tatra) [brahmā](brahmā) [there](tatra) [viṣṇu](viṣṇuḥ) [there](tatra) [rudra](rudraḥ) [one-should-place](pravinyaset)
+there (tatra) brahmā (brahmā) there (tatra) viṣṇu (viṣṇuḥ) there (tatra) rudra (rudraḥ) should-be-placed (pravinyaset)
 
 ## mukta-m0-p09-v205
-[some](kecid) [say](vadanti) [rudra](rudraḥ) [he](saḥ) [one](ekaḥ) [god](devaḥ) [stainless](nirañjanaḥ)
+some-say (kecidvadanti) rudra (rudraḥ) he (sa) one (ekaḥ) god (devo) stainless (nirañjanaḥ)
 
 ## mukta-m0-p09-v206
-[there+indeed](tatra+eva) [abides](vartate) [eternally](nityaḥ) [chickpea+shape+formed](caṇaka+ākāra+rūpakaḥ)
+there-indeed (tatraiva) abides (vartate) eternal (nityaḥ) chickpea-shaped-form (caṇakākārarūpakaḥ)
 
 ## mukta-m0-p09-v207
-[eternal+bliss+causing](nitya+ānanda+karā) [goddess](devi) [kālikā](kālikā) [in-the-south](dakṣiṇe) [situated](sthitā)
+eternal-bliss-giving (nityānandakarā) goddess (devi) kālikā (kālikā) right-side (dakṣiṇe) situated (sthitā)
 
 ## mukta-m0-p09-v208
-[is-born](jāyate) [and](ca) [on-earth](kṣitau) [tree](vṛkṣaḥ) [as](yathā) [in-earth](pṛthvyāṃ) [dissolves](pralīyate)
+is-born (jāyate) and (ca) on-earth (kṣitau) tree (vṛkṣaḥ) as (yathā) in-earth (pṛthvyāṃ) dissolves (pralīyate)
 
 ## mukta-m0-p09-v209
-[in-cloud](jalade) [lightning+arising](taḍit+utpattiḥ) [as](yathā) [in-cloud](meghe) [dissolves](pralīyate)
+in-cloud (jalade) lightning-birth (taḍitutpattiḥ) as (yathā) in-cloud (meghe) dissolves (pralīyate)
 
 ## mukta-m0-p09-v210
-[so](tathā) [at-dissolution+time](pralaya+kāle) [indeed](tu) [again](punaḥ) [in-her](tasyāṃ) [dissolves](pralīyate)
+thus (tathā) at-dissolution-time (pralayakāle) tu (tu) again (punar) in-her (tasyāṃ) dissolves (pralīyate)
 
 ## mukta-m0-p09-v211
-[by-one+part](eka+aṃśena) [becomes](bhavet) [brahmā](brahmā) [by-one+part](eka+aṃśena) [janārdana](janārdanaḥ)
+by-one-part (ekāṃśena) becomes-brahmā (bhavedbrahmā) by-one-part (ekāṃśena) janārdana (janārdanaḥ)
 
 ## mukta-m0-p09-v212
-[other](aparā) [she](sā) [mahākālī](mahākālī) [of-rivers+and-others](nadī+ādīnāṃ) [like-ocean](samudravat)
+other (aparā) she (sā) mahākālī (mahākālī) of-rivers-etc (nadyādīnāṃ) like-ocean (samudravat)
 
 ## mukta-m0-p09-v213
-[in-cow's-hoofprint](goṣpade) [how](kiṃ) [one-could-know](vijānīyāt) [of-ocean](samudrasya) [water](jalaṃ) [o-śivā](śive)
+in-cow-hoof (goṣpade) what (kiṃ) know (vijānīyāt) of-ocean (samudrasya) water (jalaṃ) O-śiva (śive)
 
 ## mukta-m0-p09-v214
-[by-creation+doer](sṛṣṭi+kartryā) [when](yadā) [by-kālī](kālyā) [are-protected](pālyante) [and](ca) [gods+and-others](sura+ādayaḥ)
+by-creator (sṛṣṭikartryā) when (yadā) by-kālī (kālyā) are-protected (pālyante) and (ca) gods-etc (surādayaḥ)
 
 ## mukta-m0-p09-v215
-[therefore](ataḥ) [liberation+giving](nirvāṇa+dā) [kālī](kālī) [of-man](puruṣasya) [and](ca) [happiness+giving](śarma+dā)
+therefore (ato) liberation-giving (nirvāṇadā) kālī (kālī) of-man (puruṣasya) and (ca) comfort-giving (śarmadā)
 
 ## mukta-m0-p09-v216
-[as](yathā) [sun](sūryaḥ) [world](jagat) [illuminates](bhāti) [to-be-known](jñeyam) [and](ca) [for-a-moment](kṣaṇakaṃ) [so](tathā)
+as (yathā) sun (sūryaḥ) world-illuminates (jagadbhāti) knowable (jñeyaṃ) and (ca) momentary (kṣaṇakaṃ) thus (tathā)
 
 ## mukta-m0-p09-v217
-[again](punaḥ) [at-dissolution+time](pralīna+kāle) [also](api) [twofold+one](dvidhā+ekaṃ) [by-spirit+hidden](puṃsā+gopitam)
+again (punaḥ) at-dissolution-time (pralīna-kāle) api (api) two-one (dvidhaikaṃ) man-hidden (puṃsagopitam)
 
 ## mukta-m0-p09-v218
-[eternal+non-eternal](nitya+anityaṃ) [when](yadā) [one+self](eka+ātmā) [then](tadā) [one](ekaṃ) [brahman+form](brahma+vigraham)
+eternal-non-eternal (nityānityaṃ) when-one-self (yadaikātmā) then-one (tadaikaṃ) brahma-form (brahmavigraham)
 
 ## mukta-m0-p09-v219
-[sixth](ṣaṣṭhaḥ) [chapter](ullāsaḥ)
+sixth-ullāsa (ṣaṣṭhollāsaḥ)
 
 ## mukta-m0-p09-v220
-[indicated](sūcitaṃ) [o-supreme-goddess](parameśāni) [tell](kathayasva) [out-of-compassion](anukampayā)
+indicated (sūcitaṃ) O-parameshānī (parameśāni) tell (kathayasva) with-compassion (anukampayā)
 
 ## mukta-m0-p09-v221
-[nevertheless](tathāpi) [in-śakti+tantras](śakti+tantreṣu) [special](viśeṣaṃ) [all+accomplishment](sarva+sādhanam)
+thus-too (tathāpi) in-śakti-tantras (śaktitantreṣu) special (viśeṣaṃ) all-means (sarvasādhanam)
 
 ## mukta-m0-p09-v222
-[by-conduct](ācāreṇa) [without](vinā) [disposition](bhāvaṃ) [ever](kadācit) [not+indeed](na+eva) [arises](jāyate)
+by-conduct (ācāreṇa) without (vinā) bhāva (bhāvaṃ) never (kadācinnaiva) arises (jāyate)
 
 ## mukta-m0-p09-v223
-[one-having-disposition](bhāvavān) [fruit+partaker](phala+bhāk) [or](kim) [or](vā) [by-what](kena) [or](vā) [one-having-conduct](ācāravān) [becomes](bhavet)
+bhāva-possessor (bhāvavān) fruit-receiver (phalabhāk) or (kimbā) by-what (kena) or-conduct-possessor (vācāravān) becomes (bhavet)
 
 ## mukta-m0-p09-v224
-[something](kiñcit) [disposition](bhāvaṃ) [to-be-spoken](pravaktavyaṃ) [direction+mere+showing](dik+mātra+darśanaṃ) [as](yathā)
+some (kiñcid) bhāva (bhāvaṃ) to-be-spoken (pravaktavyaṃ) direction-only-view (diṅmātradarśanaṃ) as (yathā)
 
 ## mukta-m0-p09-v225
-[so](tathā) [disposition](bhāvaṃ) [o-great-god](mahādeva) [by-mind](manasā) [is-conceived](paribhāvyate)
+thus (tathā) bhāva (bhāvaṃ) O-mahādeva (mahādeva) by-mind (manasā) is-contemplated (paribhāvyate)

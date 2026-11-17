@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p33-v801
-[by-water](jalena) [water-form](jala+rūpaṃ) [would-be](syāt) [thus-etc.](iti+ādyaiḥ) [by-statements](vacanaiḥ) [remembered](smṛtam)
+[by-water](jalena) [water-form](jalarūpaṃ) [would-be](syād) [by-such-words](ityādyaiḥ) [by-sayings](vacanaiḥ) [remembered](smṛtam)
 
 ## mukta-m0-p33-v802
-[world-controllability](jagat+vidheyatā) [is-attained](eti) [how-much-more](kimuta) [one-body](eka+śarīrakam)
+[world-subjection](jagadvidheyatām) [attains](eti) [what](kim) [moreover](uta) [one-bodied](ekaśarīrakam)
 
 ## mukta-m0-p33-v803
-[I-alone](aham+eva) [my-superior](mat+paraḥ) [not](na) [would-be](bhavet) [attraction-process](ākarṣaṇa+kramaḥ)
+[I-alone](ahameva) [my-devotee](matparo) [not](na) [would-be](bhaved) [attraction-sequence](ākarṣaṇakramaḥ)
 
 ## mukta-m0-p33-v804
-[of-me-alone](mama+eva) [he](asau) [and](ca) [to-be-hated](vidveṣyaḥ) [hated](vidviṣṭaḥ) [becomes](jāyate) [then](tataḥ)
+[mine-indeed-that](mamaivāsau) [and](ca) [hateful](vidveṣyo) [hated](vidviṣṭo) [becomes](jāyate) [then](tataḥ)
 
 ## mukta-m0-p33-v805
-[melted](vidrutaṃ) [mounted-on-hand](kara+bhā+rūḍhaṃ) [universe](viśvam) [driven-away](ucāṭitaṃ) [would-be](bhavet)
+[fled](vidrutaṃ) [camel-mounted](karabhārūḍhaṃ) [world-uprooted](viśvamucāṭitaṃ) [would-be](bhavet)
 
 ## mukta-m0-p33-v806
-[inert-form](jaḍa+rūpaḥ) [I-become](bhavāmi) [thus](iti) [by-thought](cintayā) [death](maraṇaṃ) [is-established](sthitam)
+[inert-form](jaḍarūpo) [I-become](bhavāmīti) [thus](cintayā) [by-thought](maraṇaṃ) [death](sthitam)
 
 ## mukta-m0-p33-v807
-[having-contemplated](vicintya) [flowing-forth](prasravantaṃ) [for-whom](ke) [of-anyone](kasya+api) [nourishment](āpyāyanaṃ) [would-be](bhavet)
+[having-thought](vicintya) [flowing](prasravantaṃ) [who](ke) [of-anyone](kasyāpyāpyāyanaṃ) [nourishment](bhavet)
 
 ## mukta-m0-p33-v808
-[in-indestructible](avināśye) [single-body](eka+piṇḍe) [or](vā) [he](saḥ) [would-be](bhavet) [free-from-old-age-and-death](ajara+amaraḥ)
+[indestructible-one-lump](avināśyekapiṇḍe) [or](vā) [he](sa) [would-be](bhaved) [ageless-immortal](ajarāmaraḥ)
 
 ## mukta-m0-p33-v809
-[of-one-meditating](dhyāyataḥ) [young](bālam) [self](ātmānaṃ) [that](sā) [old-age](jarā) [completely-dissolves](saṃpralīyate)
+[meditating](dhyāyato) [child-self](bālamātmānaṃ) [that](sā) [old-age](jarā) [dissolves](saṃpralīyate)
 
 ## mukta-m0-p33-v810
-[by-contemplation-eye](bhāvanā+cakṣuṣā) [virtuous](sādhvī) [that](sā) [thought](cintā) [all-seeing](sarva+darśinī)
+[by-meditation-eye](bhāvanācakṣuṣā) [virtuous](sādhvī) [that](sā) [thought](cintā) [all-seeing](sarvadarśinī)
 
 ## mukta-m0-p33-v811
-[Śiva-ness](śivatā) [perceived](lakṣitā) [true](satyā) [that-meditation](tat+dhyānam) [also](api) [is-described](varṇyate)
+[Shiva-ness](śivatā) [indicated](lakṣitā) [true](satyā) [that-meditation](taddhyānamapi) [described](varṇyate)
 
 ## mukta-m0-p33-v812
-[in-that](tasyāṃ) [in-such](tathā+eva) [thought](cintāyāṃ) [that-meditation](tat+dhyānam) [also](api) [is-spoken](jalpitam)
+[in-that](tasyāṃ) [likewise](tathaiva) [in-thought](cintāyāṃ) [that-meditation](taddhyānamapi) [spoken](jalpitam)
 
 ## mukta-m0-p33-v813
-[of-one-running](dhāvataḥ) [of-one-eating](khādataḥ) [or](vā) [also](api) [that](saḥ) [yoga](yogaḥ) [of-the-supreme-yogin](para+yoginaḥ)
+[running](dhāvataḥ) [eating](khādato) [or](vāpi) [that](sa) [yoga](yogaḥ) [of-supreme-yogin](parayoginaḥ)
 
 ## mukta-m0-p33-v814
-[always](sarvadā) [with-firmness-equal-to-father-mother-etc.](pitṛ+mātṛ+ādi+taulya+dārḍhyena) [state-of-being-a-yogin](yogitā)
+[always](sarvadā) [father-mother-etc-equality-firmness](pitṛmātrāditaulyadārḍhyena) [yogi-ness](yogitā)
 
 ## mukta-m0-p33-v815
-[Śiva-I-am](śivaḥ+asmi) [thus](iti) [from-my-will](mat+icchātaḥ) [setting-forth-of-all-states](sarva+bhāva+pravartanam)
+[I-am-Shiva](śivo'smīti) [by-my-will](madicchātaḥ) [all-being-proceeding](sarvabhāvapravartanam)
 
 ## mukta-m0-p33-v816
-[continuously](santataṃ) [by-expansion-of-stream-of-powers](śakti+santāna+prasareṇa) [always](sadā+eva) [of-me](me)
+[continuously](santataṃ) [by-Shakti-continuum-expansion](śaktisantānaprasareṇa) [always](sadaiva) [to-me](me)
 
 ## mukta-m0-p33-v817
-[with-various-forms](nānā+ākāraiḥ) [always](sadā) [doing](kurvan) [arising](udayan) [present-in-all-things](sarva+vastu+gaḥ)
+[in-various-forms](nānākāraiḥ) [always](sadā) [doing](kurvannudayan) [all-objects-going](sarvavastugaḥ)
 
 ## mukta-m0-p33-v818
-[intentions](saṃkalpān) [generating](janayan) [I-am](asmi) [situated](sthitaḥ) [from-sound](śabdānataḥ) [in-the-mouth](mukhe)
+[by-resolve-anointing](saṃkalpāñjanayannasmi) [I-am](sthitaḥ) [situated](śabdānato) [by-sounds](mukhe)
 
 ## mukta-m0-p33-v819
-[for-me](me) [not](na) [bondage](bandhaḥ) [not](na) [for-me](me) [liberation](mokṣaḥ) [those-two](tau) [as-impurity](malatvena) [established](saṃsthitau)
+[not](name) [bondage](bandho) [not](na) [to-me](me) [liberation](mokṣastau) [as-impurity](malatvena) [established](saṃsthitau)
 
 ## mukta-m0-p33-v820
-[in-pain](duḥkhe) [or](vā) [also](api) [in-pleasure](sukhe) [or](vā) [also](api) [in-all](sarvāsu) [conditions](pratipattiṣu)
+[in-pain](duḥkhe) [or](vāpi) [in-pleasure](sukhe) [or](vāpi) [in-all](sarvāsu) [experiences](pratipattiṣu)
 
 ## mukta-m0-p33-v821
-[consciousness-pure](cit+nirmalā) [consisting-of-that](tanmayaṃ) [indeed](hi) [world](jagat) [I-am](asmi) [of-such-nature](tathāvidhaḥ)
+[consciousness-pure](cinnirmalā) [that-made](tanmayaṃ) [indeed](hi) [world](jagadasmi) [I-am](tathāvidhaḥ)
 
 ## mukta-m0-p33-v822
-[all-states](sarva+bhāvāḥ) [Śiva-formed](śiva+ākārāḥ) [contained-within](antarbhūtāḥ) [in-the-fire-of-Śiva](śiva+anale)
+[all-beings](sarvabhāvāḥ) [Shiva-formed](śivākārā) [included](antarbhūtāḥ) [in-Shiva-fire](śivānale)
 
 ## mukta-m0-p33-v823
-[in-this-form](atra+ākāre) [not](na) [what](yat) [of-me](me) [is](asti) [in-that-other-form](tat+ākāra+antare) [is](asti) [of-me](me)
+[in-this-form](atrākāre) [not](na) [what-to-me-is](yanme'sti) [that-form-other](tadākārāntare'sti) [is](me)
 
 ## mukta-m0-p33-v824
-[from-worship](pūjanāt) [not](na) [is](asti) [of-me](me) [satisfaction](tuṣṭiḥ) [not](na) [is](asti) [distress](khedaḥ) [indeed](hi) [from-non-worship](apūjanāt)
+[from-worship](pūjanānnāsti) [not](me) [to-me](tuṣṭirnāsti) [satisfaction](khedo) [not](hyapūjanāt) [grief](pūjanānnāsti)
 
 ## mukta-m0-p33-v825
-[in-this-form](atra+ākāre) [and](ca) [of-me](me) [worship](pūjā) [which](yā) [may-be](syāt) [in-the-Sadāśiva-self](sādāśiva+ātmani)
+[in-this-form](atrākāre) [and](ca) [my](me) [worship](pūjā) [which](yā) [would-be](syāt) [in-Sadashiva-self](sādāśivātmani)
