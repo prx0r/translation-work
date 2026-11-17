@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p04-v76
-[knowledge-channel](jñāna+nāḍī) [should-be](bhavet) [o-goddess](devī) [of-yogins](yogināṃ) [success-giving](siddhi+dāyinī)
+[knowledge-channel](jñānanāḍī) [becomes-goddess](bhaveddevī) [of-yogis](yogināṃ) [siddhi-giving](siddhidāyinī)
 
 ## mukta-m0-p04-v77
-[three](trayaḥ) [gods](devāḥ) [how](kathaṃ) [o-god](deva) [three](trayaḥ) [states](bhāvāḥ) [three](trayaḥ) [qualities](guṇāḥ)
+[three](trayo) [gods](devā) [how](kathaṃ) [god](deva) [three](trayo) [states](bhāvās) [three](trayo) [qualities](guṇāḥ)
 
 ## mukta-m0-p04-v78
-[in-anger-state](krodha+bhāva+sthitaḥ) [Rudra](rudraḥ) [three](trayaḥ) [gods](devāḥ) [three](trayaḥ) [qualities](guṇāḥ)
+[anger-state-situated](krodhabhāvasthito) [rudra](rudraḥ) [three](trayo) [gods](devāḥ) [three](trayo) [qualities](guṇāḥ)
 
 ## mukta-m0-p04-v79
-[various-state](nānā+bhāvaṃ) [mind](manaḥ) [of-whom](yasya) [of-him](tasya) [liberation](muktiḥ) [not](na) [is-born](jāyate)
+[various-states](nānābhāvaṃ) [mind](mano) [whose](yasya) [his](tasya) [liberation](muktir) [not](na) [arises](jāyate)
 
 ## mukta-m0-p04-v80
-[in-mind-form](manaḥ+rūpaḥ) [situated](sthitaḥ) [Rudra](rudraḥ) [three](trayaḥ) [gods](devāḥ) [three](trayaḥ) [qualities](guṇāḥ)
+[mind-formed](manorūpaḥ) [situated](sthito) [rudra](rudraḥ) [three](trayo) [gods](devāḥ) [three](trayo) [qualities](guṇāḥ)
 
 ## mukta-m0-p04-v81
-[in-fire-state](agni+bhāva+sthitaḥ) [Rudra](rudraḥ) [three](trayaḥ) [gods](devāḥ) [three](trayaḥ) [qualities](guṇāḥ)
+[fire-state-situated](agnibhāvasthito) [rudra](rudraḥ) [three](trayo) [gods](devāḥ) [three](trayo) [qualities](guṇāḥ)
 
 ## mukta-m0-p04-v82
-[various-state](nānā+bhāvaṃ) [mind](manaḥ) [of-whom](yasya) [of-him](tasya) [liberation](muktiḥ) [not](na) [is-born](jāyate)
+[various-states](nānābhāvaṃ) [mind](mano) [whose](yasya) [his](tasya) [liberation](muktir) [not](na) [arises](jāyate)
 
 ## mukta-m0-p04-v83
-[I](ahaṃ) [Rudra](rudraḥ) [also](api) [I](ahaṃ) [void](śūnyam) [I](ahaṃ) [all-pervading](vyāpī) [stainless](nirañjanam)
+[I](ahaṃ) [rudra](rudraḥ) [also](api) [I](ahaṃ) [void](śūnyam) [I](ahaṃ) [pervading](vyāpī) [stainless](nirañjanam)
 
 ## mukta-m0-p04-v84
-[by-own-nature-pure](sva+bhāva+nirmalaṃ) [inner-self](svāntaṃ) [that](saḥ) [indeed](eva) [I](ahaṃ) [not](na) [doubt](saṃśayaḥ)
+[own-nature-pure](svabhāvanirmalaṃ) [mind](svāntaṃ) [he](saḥ) [indeed](eva) [I](ahaṃ) [no](na) [doubt](saṃśayaḥ)
 
 ## mukta-m0-p04-v85
-[truth-speaker](satya+vādī) [should-be](bhavet) [devotee](bhaktaḥ) [giver](dātā) [steadfast](dhīraḥ) [devoted-to-welfare](hita+īrataḥ)
+[truth-speaker](satyavādī) [becomes](bhaved) [devotee](bhaktaḥ) [giver](dātā) [steadfast](dhīraḥ) [welfare-devoted](hiterataḥ)
 
 ## mukta-m0-p04-v86
-[therefore](tasmāt) [with-all-effort](sarva+prayatnena) [compassion-dharma](dayā+dharmam) [one-should-resort-to](samāśrayet)
+[therefore](tasmāt) [all-effort](sarvaprayatnena) [compassion-duty](dayādharmaṃ) [resort-to](samāśrayet)
 
 ## mukta-m0-p04-v87
-[Veda-twilight-rites](veda+sandhyā) [austerity](tapaḥ) [meditation](dhyānaṃ) [fire-ritual](homa+karma) [family-rites](kulaṃ) [how](katham)
+[veda-sandhyā](vedasandhyā) [austerity](tapo) [meditation](dhyānaṃ) [homa-rite](homakarma) [lineage](kulaṃ) [how](katham)
 
 ## mukta-m0-p04-v88
-[to-Brahman-knowledge-equal](brahma+jñāna+samaṃ) [merit](puṇyaṃ) [a-part](kalāṃ) [not](na) [deserves](arhati) [sixteenth](ṣoḍaśīm)
+[brahma-knowledge-equal](brahmajñānasamaṃ) [merit](puṇyaṃ) [sixteenth](ṣoḍaśīm) [part](kalāṃ) [not](nārhati)
 
 ## mukta-m0-p04-v89
-[to-Brahman-knowledge-equal](brahma+jñāna+samaṃ) [merit](puṇyaṃ) [a-part](kalāṃ) [not](na) [deserves](arhati) [sixteenth](ṣoḍaśīm)
+[brahma-knowledge-equal](brahmajñānasamaṃ) [merit](puṇyaṃ) [sixteenth](ṣoḍaśīm) [part](kalāṃ) [not](nārhati)
 
 ## mukta-m0-p04-v90
-[not](na) [lord](svāmī) [and](ca) [to-guru-equal](guroḥ+tulyaṃ) [by-whom](yat) [seen](dṛṣṭaṃ) [supreme](paramaṃ) [state](padam)
+[not](na) [master](svāmī) [also](ca) [guru-equal](gurostulyaṃ) [what](yaddṛṣṭaṃ) [supreme](paramaṃ) [state](padam)
 
 ## mukta-m0-p04-v91
-[to-guru-equal](guroḥ+tulyaṃ) [not](na) [indeed](vai) [anyone](kaḥ+api) [by-whom](yat) [seen](dṛṣṭaṃ) [supreme](paramaṃ) [state](padam)
+[guru-equal](gurostulyaṃ) [not](na) [indeed](vai) [anyone](ko'pi) [what](yaddṛṣṭaṃ) [supreme](paramaṃ) [state](padam)
 
 ## mukta-m0-p04-v92
-[on-earth](pṛthivyāṃ) [not](na) [exists](asti) [that-thing](tat+dravyam) [which-having-given](yat+dattvā) [and](ca) [free-from-debt](anṛṇī) [one-may-be](bhavet)
+[on-earth](pṛthivyāṃ) [not](nāsti) [that](taddravyaṃ) [substance](dravyaṃ) [giving-which](yaddattvā) [also](ca) [debt-free](anṛṇī) [becomes](bhavet)
 
 ## mukta-m0-p04-v93
-[of-whomever](yasya+kasyāpi) [devotee](bhaktasya) [true-guru](sat+guruḥ) [to-him](tasya) [is-given](dīyate)
+[whose](yasya) [any](kasyāpi) [devotee](bhaktasya) [true-guru](sadguruḥ) [to-him](tasya) [is-given](dīyate)
 
 ## mukta-m0-p04-v94
-[renunciation](saṃnyāsaṃ) [all-actions](sarva+karmāṇi) [worldly](laukikāni) [should-abandon](tyajet) [the-wise](budhaḥ)
+[renunciation](saṃnyāsaṃ) [all-actions](sarvakarmāṇi) [worldly](laukikāni) [abandon](tyajed) [wise](budhaḥ)
 
 ## mukta-m0-p04-v95
-[therefore](tasmāt) [with-all-effort](sarva+prayatnena) [ascetic](yatiḥ) [attachment](saṅgaṃ) [should-abandon](parityajet)
+[therefore](tasmāt) [all-effort](sarvaprayatnena) [ascetic](yatiḥ) [attachment](saṅgaṃ) [renounce](parityajet)
 
 ## mukta-m0-p04-v96
-[the-syllable-ma](ma+kāraḥ) [tamas-natured](tāmasaḥ) [declared](proktaḥ) [by-three](tribhiḥ) [primordial-nature](prakṛtiḥ) [is-called](ucyate)
+[makāra](makāraḥ) [tamasic](tāmasaḥ) [called](proktaḥ) [by-three](tribhiḥ) [nature](prakṛtiḥ) [is-said](ucyate)
 
 ## mukta-m0-p04-v97
-[from-the-Lord](īśvarāt) [emerged](nirgatā) [she](sā) [indeed](hi) [primordial-nature](prakṛtiḥ) [bound-by-qualities](guṇa+bandhanā)
+[from-īśvara](īśvarāt) [emerged](nirgatā) [she](sā) [indeed](hi) [nature](prakṛtiḥ) [quality-bound](guṇabandhanā)
 
 ## mukta-m0-p04-v98
-[ignorance](avidyā) [deluding](mohinī) [which](yā) [she](sā) [of-sound-form](śabda+rūpā) [glorious](yaśasvinī)
+[ignorance](avidyā) [deluding](mohinī) [which](yā) [she](sā) [sound-formed](śabdarūpā) [glorious](yaśasvinī)
 
 ## mukta-m0-p04-v99
-[the-syllable-ma](ma+kāraḥ) [Sama-Veda](sāma+vedaḥ) [indeed](tu) [in-three](triṣu) [joined](yuktaḥ) [also](api) [of-Atharva](atharvaṇaḥ)
+[makāra](makāraḥ) [sāmaveda](sāmavedaḥ) [indeed](tu) [in-three](triṣu) [joined](yuktaḥ) [also](api) [atharvaṇa](atharvaṇaḥ)
 
 ## mukta-m0-p04-v100
-[the-syllable-a](a+kāraḥ) [indeed](tu) [also](atha) [Bhurloka](bhūḥ+lokaḥ) [the-syllable-u](u+kāraḥ) [Bhuvarloka](bhuvaḥ) [is-called](ucyate)
+[a-kāra](akāraḥ) [then](tu) [atha](atha) [bhūr-loka](bhūrlokaḥ) [u-kāra](ukāraḥ) [bhuvaḥ](bhuvaḥ) [is-said](ucyate)

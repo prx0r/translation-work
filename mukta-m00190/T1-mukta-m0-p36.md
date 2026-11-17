@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p36-v876
-[water-natured](toyātmikā) [again-eternal](punar+nityā) [compassionate](dayāvatī) [remover](apahāriṇī)
+water-natured again-eternal compassionate-removing
 
 ## mukta-m0-p36-v877
-[to-be-worshipped](samārādhyā) [delighting](nandanī) [and](ca) [supreme](parā) [world-crushing](viśva+vimardinī)
+well-worshipped delighting and supreme world-crushing
 
 ## mukta-m0-p36-v878
-[faultless](niravadyā) [wide-eyed](viśāla+akṣī) [breath-carrying](śvāsa+udvāhā) [and](ca) [sounding](nādinī)
+faultless wide-eyed breath-raising and sounding
 
 ## mukta-m0-p36-v879
-[foremost](dhuryā) [unbearable](durviṣahā) [afterwards-mountain-born](paścāt+adrijā) [pain-removing](tāpa+hāriṇī)
+chief unbearable after-mountain-born heat-removing
 
 ## mukta-m0-p36-v880
-[world-guardians](lokapālāṃs) [then](tathā) [one-should-worship](abhyarcet) [thunderbolt-etc-weapon-endowed](braja+ādi+āyudha+saṃyutān)
+world-guardians thus worship cowherd-etc-weapon-armed
 
 ## mukta-m0-p36-v881
-[fire-weapon-authorized](āgneya+astra+adhikarī) [one-should-be](syāt) [its-procedure](tat+vidhānam) [is-declared](udīryate)
+fire-weapon-master would-be that-rite declared
 
 ## mukta-m0-p36-v882
-[previously-stated](pūrva+uktāḥ) [indeed](eva) [sage-etc](ṛṣi+ādyāḥ) [of-the-mantra](mantrasya) [are-declared](parikīrtitāḥ)
+previously-said indeed seer-etc of-mantra proclaimed
 
 ## mukta-m0-p36-v883
-[mantra-placement-and-word-placement](mantra+nyāsa+pada+nyāsau) [one-should-perform](vidadhyāt) [in-reverse-order](pratilomataḥ)
+mantra-nyasa pada-nyasa should-do reverse
 
 ## mukta-m0-p36-v884
-[as-before-recitation-arrangement](pūrva+vat+japa+kḷptiḥ) [should-be](syāt) [one-should-offer-oblation](juhuyāt) [with-previous-number](pūrva+saṃkhyayā)
+as-before japa-arrangement would-be offer with-previous-number
 
 ## mukta-m0-p36-v885
-[worship](arcanaṃ) [as-before](pūrva+vat) [one-should-do](kuryāt) [its-powers](tat+śaktīḥ) [in-reverse-order](pratilomataḥ)
+worship as-before do that powers reverse
 
 ## mukta-m0-p36-v886
-[cruel-acts](krūra+karmāṇi) [one-should-perform](kurvīta) [by-reverse-procedure](pratiloma+vidhānataḥ)
+cruel-acts should-do reverse-rite
 
 ## mukta-m0-p36-v887
-[at-time-of-application](prayoga+kāle) [one-should-recite](prajapet) [eight](aṣṭau) [quarters](pādān) [in-reverse-order](vilomataḥ)
+at-application-time recite eight feet reverse
 
 ## mukta-m0-p36-v888
-[śrī-etc](śrī+ādiḥ) [five-syllabled](pañca+akṣaraḥ) [quarter](pādaḥ) [to-be-known](jñeyaḥ) [knowledge-sense-natured](jñāna+indriya+ātmakaḥ)
+śrī-etc five-syllable foot known knowledge-sense-natured
 
 ## mukta-m0-p36-v889
-[ca-etc](ca+ādiḥ) [third](tṛtīyaḥ) [five-syllabled](pañca+arṇaḥ) [five-element-consisting](pañca+bhūta+mayaḥ) [is-remembered](smṛtaḥ)
+c-etc third five-letter five-element-made remembered
 
 ## mukta-m0-p36-v890
-[da-beginning](daḥ+pūrvaḥ) [fifth](pañcamaḥ) [quarter](pādaḥ) [wave-form](ūrmi+rūpaḥ) [six-syllabled](ṣaḍ+akṣaraḥ)
+da first fifth foot wave-form six-syllable
 
 ## mukta-m0-p36-v891
-[sa-beginning](sa+pūrvaḥ) [five-syllabled](pañca+varṇaḥ) [another](anyaḥ) [sound-etc-consisting](śabda+ādi+mayaḥ) [is-declared](īritaḥ)
+with-first five-letter other sound-etc-made declared
 
 ## mukta-m0-p36-v892
-[thus](evaṃ) [by-principle-combination](tattva+samāyogāt) [quarter-arrangement](pāda+kḷptiḥ) [is-explained](udāhṛtā)
+thus principle-combination foot-arrangement stated
 
 ## mukta-m0-p36-v893
-[principal-form-images](pradhāna+mūrti+pratimāḥ) [with-own-color-indicated-splendor](sva+sva+varṇa+uṃdita+prabhāḥ)
+principal-image-forms own-own-color-risen-splendor
 
 ## mukta-m0-p36-v894
-[deities](devatāḥ) [sense-born](indriya+utpannāḥ) [upward-gazing](ūrdhva+dṛṣṭayaḥ) [are-declared](īritāḥ)
+deities sense-born upward-gazed declared
 
 ## mukta-m0-p36-v895
-[element-form-syllable-born](dhātu+rūpa+akṣara+utpannāḥ) [with-rising-fire-shining](udaya+anala+śobhitāḥ)
+element-form-letter-born rising-fire-beautified
 
 ## mukta-m0-p36-v896
-[these](etāḥ) [all](sarvāḥ) [are-remembered](smṛtāḥ) [neuter](klībāḥ) [sense-object-born](indriya+artha+udbhavāḥ) [female](striyaḥ)
+these all remembered neuter sense-object-born women
 
 ## mukta-m0-p36-v897
-[facing-oneself](sva+abhimukhyaḥ) [are-remembered](smṛtāḥ) [in-gentle-rite](saumye) [facing-away](parāṅmukhyaḥ) [in-other-acts](anya+karmaṇi)
+self-facing remembered gentle opposite-facing other-act
 
 ## mukta-m0-p36-v898
-[by-whom](yābhiḥ) [the-practitioner](mantrī) [may-burn](dahet) [of-enemy](śatroḥ) [kingdom](rājyaṃ) [with-mountains-and-forests](sa+giri+kānanam)
+by-whom mantra-user burns enemy kingdom with-mountain-forest
 
 ## mukta-m0-p36-v899
-[against-demons](āsureṣu) [one-should-employ](prayuñjīta) [against-deities](devatāsu) [and](ca) [one-should-withdraw](saṃharet)
+in-demons should-use in-deities and destroy
 
 ## mukta-m0-p36-v900
-[these](imāni) [human](mānuṣāṇi) [they-call](āhuḥ) [constellations](nakṣatrāṇi) [the-wise](manīṣiṇaḥ)
+these human say constellations wise

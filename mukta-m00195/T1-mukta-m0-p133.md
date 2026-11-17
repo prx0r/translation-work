@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p133-v3301
-[ruci-karaṃ](rucikaraṃ) [sa-āmodaṃ](sāmodaṃ) [ca](ca) [mano-haram](manoharam)
+[pleasure-causing](rucikaraṃ) [with-fragrance](sāmodaṃ) [and](ca) [mind-stealing](manoharam)
 
 ## mukta-m0-p133-v3302
-[deyāḥ](deyāḥ) [tataḥ](tataḥ) [arcayet](arcayet) [evam](evam)
+[should-be-given+then+worship](deyāstatorcayet)
 
 ## mukta-m0-p133-v3303
-[vatsa-vṛkṣasya](vatsavṛkṣasya) [ca](ca) [tu](tu) [valkalam](valkalam)
+[of-calf-tree+bark](vatsavṛkṣasya+ca+tu+valkalam)
 
 ## mukta-m0-p133-v3304
-[binduḥ](binduḥ) [ca](ca) [aṣṭa-gandha-abhidhānaḥ](aṣṭagandhābhidhāno) [devatā-priyaḥ](devatāpriyaḥ)
+[drop+eight-scents+deity-pleasing](binduścāṣṭagandhābhidhāno+devatāpriyaḥ)
 
 ## mukta-m0-p133-v3305
-[kuryāt](kuryāt) [etat](etat) [karma](karma) [na](na) [lopayet](lopayet)
+[should-do+this+rite+not+omit](kuryādetatkarma+na+lopayet)
 
 ## mukta-m0-p133-v3306
-[dravaiḥ](dravaiḥ) [vā](vā) [atha](atha) [abhāve](abhāve) [tarpaṇam](tarpaṇam) [ācaret](ācaret)
+[with-liquids+or+in-absence+libation+perform](dravairvāthābhāve+tarpaṇamācaret)
 
 ## mukta-m0-p133-v3307
-[kaulika-vāmānām](kaulikavāmānāṃ) [mantra-devāḥ](mantradevāḥ) [śrama-āturāḥ](śramāturāḥ) [smṛtāḥ](smṛtāḥ)
+[of-kaula-left+mantra-deities+tired-by-exertion](kaulikavāmānāṃ+mantradevāḥ+śramāturāḥ)
 
 ## mukta-m0-p133-v3308
-[ca](ca) [bhaktebhyaḥ](bhaktebhyo) [mantrāḥ](mantrā) [yacchanti](yacchanti) [tam](taṃ) [vinā](vinā)
+[and+to-devotees+mantras+give+that+without](ca+bhaktebhyo+mantrā+yacchanti+taṃ+vinā)
 
 ## mukta-m0-p133-v3309
-[vāme](vāme) [kṣudrāḥ](kṣudrā) [api](api) [vicārataḥ](vicārataḥ)
+[in-left+small+also+by-inquiry](vāme+kṣudrā+api+vicārataḥ)
 
 ## mukta-m0-p133-v3310
-[eka-ekam](mekaikaṃ) [tu](tu) [tarpaṇāya](tarpaṇāya) [prayojayet](prayojayet)
+[one-by-one+libation+employ](mekāikaṃ+tarpaṇāya+prayojayet)
 
 ## mukta-m0-p133-v3311
-[gandha-puṣpa-akṣataiḥ](gandhapuṣpākṣataiḥ) [pūjā](pūjā) [ca](ca) [anyathā](anyathā) [narakam](narakaṃ) [vrajet](vrajet)
+[with-scent+flowers+unbroken-rice+worship+otherwise+hell+go](gandhapuṣpākṣataiḥ+pūjā+cānyathā+narakaṃ+vrajet)
 
 ## mukta-m0-p133-v3312
-[paśo](paśo) [tvaṃ](tvaṃ) [hi](hi) [na-aśivaḥ+tvaṃ](nāśivastvaṃ) [śivaḥ](śivo) [hi+asi](hyasi)
+[beasthood+indeed+not-shiva-hood+shiva+indeed+you-are](paśotvaṃ+hi+nāśivastvaṃ+śivo+hyasi)
 
 ## mukta-m0-p133-v3313
-[tadā](tadā) [ānande](ānande) [tasmāt](tasmāt) [sevyam](sevyam) [idam](idaṃ) [priye](priye)
+[then+in-bliss+therefore+serve+this+beloved](tadānande+tasmātsevyamidaṃ+priye)
 
 ## mukta-m0-p133-v3314
-[vā](vā) [atha](atha) [vaṭakāḥ](vaṭakā) [masūrāṇām](masūrāṇāntathaiva) [tathā-eva](tathaiva) [ca](ca)
+[or+then+vataka+lentils+likewise+and](vātha+vaṭakā+masūrāṇāntathaiva+ca)
 
 ## mukta-m0-p133-v3315
-[kuryāt](kuryāt) [māṃsa-matsyābhyām](māṃsamatsyābhyāṃ) [vinā](vinā) [dravyeṇa](dravyeṇa) [pūjanam](pūjanam)
+[should-do+meat+fish+without+substance+worship](kuryānmāṃsamatsyābhyāṃ+vinā+dravyeṇa+pūjanam)
 
 ## mukta-m0-p133-v3316
-[devatā-bhāvaḥ](devatābhāvaḥ) [anyathā](anyathā) [preta-vibhāvanam](pretavibhāvanam) [bhavet](bhavet)
+[deity-bhava+otherwise+preta-conception](devatābhāvonyathā+pretavibhāvanam)
 
 ## mukta-m0-p133-v3317
-[vaiśyaiḥ](vaiśyaiḥ) [go-lambhane](golambhane) [peyam](peyaṃ) [śūdraiḥ](śūdraiḥ) [strī-rati-karmaṇi](strīratikarmaṇi)
+[vaisya+golambhane+drinkable+by-shudras+in-woman-pleasure-rite](vaiśyirgolambhane+peyaṃ+śūdraiḥ+strīratikarmaṇi)
 
 ## mukta-m0-p133-v3318
-[smaran](smaran) [pibet](piben) [madyaṃ](madyaṃ) [khādet](khāden) [māsaṃ](māsaṃ) [na](na) [doṣa-bhāk](doṣa-bhāk)
+[remembering+drink+liquor+eat+meat+not+sin+partake](smaranpibenmadyaṃ+khādenmāsaṃ+na+doṣa+bhāk)
 
 ## mukta-m0-p133-v3319
-[madhu-māṃsāni](madhumāṃsāni) [tṛptaye](tṛptaye) [cet](cet) [saḥ](sa) [pātakī](pātakī)
+[honey+meats+for-satisfaction+if+that+sinner](madhumāṃsāni+tṛptaye+cetsa+pātakī)
 
 ## mukta-m0-p133-v3320
-[vinā](vinā) [anyatra](anyatra) [saḥ](sa) [mahā-pātakī](mahāpātakī) [bhavet](bhavet)
+[without+elsewhere+that+great-sinner+become](vinānyatra+sa+mahāpātakī+bhavet)
 
 ## mukta-m0-p133-v3321
-[kaulānām](kaulānāṃ) [pūjā-ante](pūjānte) [na](na) [vigarhitam](vigarhitam)
+[of-kaulas+worship+end+not+blameworthy](kaulānāṃ+pūjānte+na+vigarhitam)
 
 ## mukta-m0-p133-v3322
-[niṣavyante](niṣavyante) [ca](ca) [anyathā](anyathā) [patitaḥ](patito) [bhavet](bhavet)
+[are-attained+otherwise+fallen+become](niṣavyante+cānyathā+patito+bhavet)
 
 ## mukta-m0-p133-v3323
-[pānāt](pānāt) [devatā-śāpam](devatāśāpam) [naraḥ](naraḥ) [āpnuyāt](āpnuyāt)
+[from-drinking+deity-curse+obtain](pānāddevatāśāpamāpnuyāt)
 
 ## mukta-m0-p133-v3324
-[tat-skandhe](tatskandhe) [citām](citāṃ) [veṣṭum](veṣṭuṃ) [samudyataḥ](samudyataḥ)
+[that+shoulder+pyre+to-wrap+prepared](tatskandhe+citāṃ+veṣṭuṃ+samudyataḥ)
 
 ## mukta-m0-p133-v3325
-[śakreṇa](śakreṇa) [tūrṇam](tūrṇa) [nirvāpitaḥ](nirvāpito) [jalaiḥ](jalaiḥ)
+[by-indra+quickly+extinguished+with-waters](śakreṇa+tūrṇa+nirvāpito+jalaiḥ)

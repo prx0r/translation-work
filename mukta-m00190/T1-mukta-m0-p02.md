@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p02-v26
-[trembling-eyed](lolākṣī) [round-eyed](vartulākṣī) [and](ca) [long-nosed](dīrgha+ghoṇā) [likewise](tathā) [indeed](eva) [and](ca)
+[rolling+eyed](lolākṣī) [round+eyed](vartulākṣī) [and](ca) [long+nosed](dīrghaghoṇā) [likewise](tathaiva) [and](ca)
 
 ## mukta-m0-p02-v27
-[pot-bellied](kuṇḍa+udarī) [upward-haired](ūrdhva+keśī) [and](ca) [then](tatas) [distorted-faced](vikṛta+mukhī) [also](api)
+[pot+bellied](kuṇḍodarī) [upward+haired](ūrdhvakeśī) [and](ca) [then](tato) [deformed+faced](vikṛtamukhī) [also](api)
 
 ## mukta-m0-p02-v28
-[knowledge-faced](vidyā+mukhī) [vowel-born](svara+utpannāḥ) [these](etāḥ) [should-be](syuḥ) [vowel-powers](svara+śaktayaḥ)
+[mantra+faced](vidyāmukhī) [sound+born](svarotpannāḥ) [these](etāḥ) [would+be](syuḥ) [sound+powers](svaraśaktayaḥ)
 
 ## mukta-m0-p02-v29
-[Gaurī](gaurī) [three-world-conquering](trailokya+vijayā) [likewise](tathā) [mantra-end-power](mantra+anta+śaktikā)
+[gaurī](gaurī) [triple+world+victorious](trailokyavijayā) [likewise](tathā) [mantra+end+power](mantrāntaśaktikā)
 
 ## mukta-m0-p02-v30
-[sky-moving](khecarī) [Majjarī](majjarī) [and](ca) [indeed](eva) [form-possessing](rūpiṇī) [heroic](vīriṇī) [likewise](tathā)
+[sky+going](khecarī) [marrow+like](majjarī) [and+indeed](caiva) [formed](rūpiṇī) [heroic](vīriṇī) [likewise](tathā)
 
 ## mukta-m0-p02-v31
-[conch-bearing](śaṅkhinī) [thundering](gajjinī) [Kālarātrī](kāla+rātrī) [hunchbacked](kubjinī) [indeed](eva) [and](ca)
+[conch+bearing](śaṅkhinī) [elephant+conquering](gajjinī) [dark+night](kālarātrī) [hunchbacked](kubjinī) [indeed](eva) [and](ca)
 
 ## mukta-m0-p02-v32
-[Revatī](revatī) [Mādhavī](mādhavī) [and](ca) [indeed](eva) [of-Varuṇa](vāruṇī) [of-Vāyu](vāyavī) [likewise](tathā)
+[revatī](revatī) [mādhavī](mādhavī) [and+indeed](caiva) [varuṇī](vāruṇī) [vāyavī](vāyavī) [likewise](tathā)
 
 ## mukta-m0-p02-v33
-[Lakṣmī](lakṣmīḥ) [and](ca) [pervading](vyāpinī) [Māyā](māyā) [known](khyātāḥ) [indeed](tu) [Śiva-powers](śiva+śaktayaḥ)
+[lakṣmī](lakṣmī) [and](ca) [pervading](vyāpinī) [māyā](māyā) [known](khyātāḥ) [tu](tu) [śiva+powers](śivaśaktayaḥ)
 
 ## mukta-m0-p02-v34
-[with-red-lotus-and-skull](rakta+utpala+kapālābhyāṃ) [bound-arms](vibaddha+bāhavaḥ) [likewise](tathā)
+[red+lotus+skull](raktotpalakapāla) [by+two](abhyāṃ) [bound+armed](vibaddhabāhavaḥ) [likewise](tathā)
 
 ## mukta-m0-p02-v35
-[by-mother-known-three-gender-etc.](mātrā+ājñātāḥ+tri+liṅga+ādyaiḥ) [distinguished](bhinnāḥ) [fierce](krūrāḥ) [and](ca) [by-names](nāmabhiḥ)
+[measure+known](mātrājñāta) [three+linga+etc](triliṅgādyaiḥ) [divided](bhinnāḥ) [cruel](krūrāḥ) [and](ca) [by+names](nāmabhiḥ)
 
 ## mukta-m0-p02-v36
-[neuter](napuṃsakāḥ) [namas-ending](namaḥ+antāḥ) [and](ca) [thus](iti) [declared](uktāḥ) [mantras](manavaḥ) [threefold](tridhā)
+[neuter](napuṃsakā) [namo+ending](namo'ntāḥ) [and](ca) [thus](iti) [said](uktā) [mantras](manavaḥ) [threefold](tridhā)
 
 ## mukta-m0-p02-v37
-[they](te) [should-be](syuḥ) [male-deity](puṃ+devatāḥ) [mantras](mantrāḥ) [knowledges](vidyāḥ) [female-deity](strī+devatāḥ) [likewise](tathā)
+[they](te) [would+be](syuḥ) [masculine+deity](puṃdevatā) [mantras](mantrāḥ) [vidyās](vidyāḥ) [feminine+deity](strīdevatāḥ) [likewise](tathā)
 
 ## mukta-m0-p02-v38
-[in-peace-and-aggressive-rites](śānti+abhicārayoḥ) [to-be-taken](grāhyāḥ) [as](yathā) [to-be-recited](japyantu) [by-mantra-practitioners](mantribhiḥ)
+[for+peace+and+abhicāra](śāntyabhicārayoḥ) [to+be+grasped](grāhyā) [as](yathā) [to+be+chanted](japyantu) [by+mantra+holders](mantribhiḥ)
 
 ## mukta-m0-p02-v39
-[was](āsīt) [mantra](mantraḥ) [indeed](tu) [haṃsa-named](haṃsa+ākhyaḥ) [syllable](varṇaḥ) [indeed](tu) [of-supreme-self](parama+ātmanaḥ)
+[was](āsīt) [mantra](mantraḥ) [tu](tu) [haṃsa+named](haṃsākhyaḥ) [syllable](varṇaḥ) [tu](tu) [supreme+self](paramātmanaḥ)
 
 ## mukta-m0-p02-v40
-[throat](kaṇṭhaṃ) [having-pierced](bhittvā) [issued-forth](viniryātaḥ) [by-haṃsa-syllable-elision](haṃsa+varṇa+vilopataḥ)
+[throat](kaṇṭhaṃ) [piercing](bhittvā) [went+out](viniryātaḥ) [from+haṃsa+syllable+disappearance](haṃsavarṇavilopataḥ)
 
 ## mukta-m0-p02-v41
-[in-three-worlds](trailokye) [also](api) [then](tatas) [born](jātāḥ) [three](trayaḥ) [Vedas](vedāḥ) [qualities](guṇāḥ) [three](trayaḥ)
+[in+three+worlds](trailokye) [api](api) [then](tato) [born](jātāḥ) [three](trayaḥ) [vedas](vedāḥ) [qualities](guṇāḥ) [three](trayaḥ)
 
 ## mukta-m0-p02-v42
-[to-excellence-of-syllables](prakarṣa+arṇavatāṃ) [attained](prāptāḥ) [in-great-path](mahā+adhvani) [Dhruva-and-others](dhruva+ādayaḥ)
+[to+excellence+ocean](prakarṣārṇavatāṃ) [having+reached](prāptā) [great+sound](mahādhvani) [dhruva+etc](dhruvādayaḥ)
 
 ## mukta-m0-p02-v43
-[of-Indra](aindraḥ) [strong](balī) [letter-la](la+kāraḥ) [and](ca) [haṃsa](haṃsaḥ) [also](api) [then](atha) [ha](ha) [is-called](ucyate)
+[indra](aindraḥ) [strong](balī) [la+syl](lakāraḥ) [ca](ca) [haṃsa](haṃsaḥ) [api](api) [atha](atha) [ha](ha) [is+said](ucyate)
 
 ## mukta-m0-p02-v44
-[māyā](māyā) [lajjā](lajjā) [and](ca) [krīṃ-syllable](krīṃ+kāraḥ) [huṃ-syllable](huṃ+kāraḥ) [kūrca](kūrcaḥ) [is-called](ucyate)
+[māyā](māyā) [shame](lajjā) [ca](ca) [krīṃ+kāra](krīṃkāraḥ) [huṃ+kāra](huṃkāraḥ) [kūrca](kūrcaḥ) [is+said](ucyate)
 
 ## mukta-m0-p02-v45
-[weapon](astraṃ) [phaṭ](phaḍ) [thus](iti) [then](atas) [Brahmā](brahmā) [from-right-ear-etc.](dakṣa+karṇa+āditaḥ) [Śiva](śivaḥ)
+[weapon](astraṃ) [phaṭ](phaḍ) [thus](ityataḥ) [brahmā](brahmā) [from+right+ear](dakṣakarṇāditaḥ) [śiva](śivaḥ)
 
 ## mukta-m0-p02-v46
-[lord-of-serpents](nāga+īśaḥ) [blazing](ujjvalanaḥ) [letter-ra](rephaḥ) [letter-ra](ra+kāraḥ) [indeed](tu) [with-bindu](induḥ) [is-said](īritaḥ)
+[nāgeśa](nāgeśaḥ) [bright](ujjvalanaḥ) [repha](rephaḥ) [rakāra](rakāraḥ) [tu](tu) [by+moon](indurīritaḥ)
 
 ## mukta-m0-p02-v47
-[right-and-left](dakṣa+vāmau) [thus](iti) [declared](proktau) [noose-bearer](pāśī) [ṛ](ṛḥ) [is-called](parikīrtitaḥ)
+[right+left](dakṣavāmau) [iti](iti) [proclaimed](proktau) [pāśī](pāśī) [ṛḥ](ṛḥ) [declared](parikīrtitaḥ)
 
 ## mukta-m0-p02-v48
-[seated-on-Indra's-throne](indra+āsana+gataḥ) [Brahmā](brahmā) [he](saḥ) [three-formed](tri+mūrtiḥ) [and](ca) [Manmatha](manmathaḥ)
+[indra+seat](indrāsana) [situated](gataḥ) [brahmā](brahmā) [sa](sa) [trimūrti](trimūrtiḥ) [ca](ca) [manmatha](manmathaḥ)
 
 ## mukta-m0-p02-v49
-[Vāyu](vāyuḥ) [letter-ya](ya+kāraḥ) [is-known](vikhyātaḥ) [cloud](jīmūtaḥ) [is-spoken](kathitaḥ) [by-the-wise](budhaiḥ)
+[wind](vāyuḥ) [yakāra](yakāraḥ) [known](vikhyātaḥ) [cloud](jīmūtaḥ) [said](kathitaḥ) [by+wise](budhaiḥ)
 
 ## mukta-m0-p02-v50
-[in-fear-of-ghosts-spirits-goblins-and-ceṭakas](bhūta+preta+piśāca+ceṭaka+bhaye) [protection](rakṣā) [should-be](bhavet) [uttered](vyāhṛtam)
+[ghost+preta+piśāca+servant+fear](bhūtapretapiśācaceṭakabhaye) [protection](rakṣā) [would+be](bhaved) [uttered](vyāhṛtam)
