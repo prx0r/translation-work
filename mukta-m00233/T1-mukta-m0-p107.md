@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p107-v2651
-[sarva-vid](sarvavid) [gaura](gauraḥ) [kāma-rūpī](kāmarūpī) [virūpa-vān](virūpavān)
+all-knowing(sarvavid) fair(gauraḥ) desire-form(kāmarūpī) deformed(virūpavān)
 
 ## mukta-m0-p107-v2652
-[madana](madanaścaiva) [vāruṇa](vāruṇo) [vasu-reva](vasureva) [ca](ca)
+cupid(madanaḥ) and(ca) eva(eva) vāruṇaḥ(vāruṇaḥ) vasureva(vasureva) ca(ca)
 
 ## mukta-m0-p107-v2653
-[varuṇa](varuṇa) [iti-ete](ityete) [nair-ṛte](nair-ṛte) [sthitāḥ](sthitāḥ)
+varuṇa(varuṇa) iti(iti) ete(ete) nair-ṛte(nair-ṛte) sthitāḥ(sthitāḥ)
 
 ## mukta-m0-p107-v2654
-[pāśa-pāṇi](pāśapāṇirānando'mbupatiḥ) [śiva](śivaḥ)
+noose-handed(pāśapāṇiḥ) ānanda(ānandaḥ) water-lord(ambupatiḥ) śiva(śivaḥ)
 
 ## mukta-m0-p107-v2655
-[pratyaṅ-nivāsa](pratyaṅnivāso) [jalada](jalado) [jīvana](jīvano) [nakra-vāhana](nakravāhanaḥ)
+west-dwelling(pratyaṅnivāsaḥ) cloud(jaladaḥ) life-giving(jīvanaḥ) crocodile-vehicle(nakravāhanaḥ)
 
 ## mukta-m0-p107-v2656
-[kṣobhaṇa](kṣobhaṇaścaiva) [pāśī](pāśī) [pāśa-dhara](pāśadharo) [guru](guruḥ)
+agitating(kṣobhaṇaḥ) and(ca) eva(eva) noose-bearer(pāśī) noose-holder(pāśadharaḥ) guru(guruḥ)
 
 ## mukta-m0-p107-v2657
-[bhadra](bhadro) [vaikuṇṭha](vaikuṇṭhaḥ) [parama](paramaḥ) [para](paraḥ)
+auspicious(bhadraḥ) vaikuṇṭha(vaikuṇṭhaḥ) supreme(paramaḥ) highest(paraḥ)
 
 ## mukta-m0-p107-v2658
-[vānara](vānarastārakaścaiva) [śaśaka](śaśakaḥ) [śākala](śākalaḥ) [śala](śalaḥ)
+monkey(vānaraḥ) tāraka(tārakaḥ) and(ca) eva(eva) hare(śaśakaḥ) śākala(śākalaḥ) śala(śalaḥ)
 
 ## mukta-m0-p107-v2659
-[kh-vaḥ](vaḥ) [kurava](kuravaścaiva) [vajra-nābha](vajranābho) [vināyaka](vināyakaḥ)
+[kh: vaḥ](vaḥ) kuravaḥ(kuravaḥ) and(ca) eva(eva) vajranābha(vajranābhaḥ) vināyaka(vināyakaḥ)
 
 ## mukta-m0-p107-v2660
-[rodhana](rodhano) [rodha](rodhastārkṣyo) [garuḍa](garuḍa) [eva-ca](eva ca)
+restrainer(rodhanaḥ) restraint(rodhaḥ) tārkṣya(tārkṣyaḥ) garuḍa(garuḍa) eva(eva) ca(ca)
 
 ## mukta-m0-p107-v2661
-[vāyu](vāyurgandhavahaḥ) [sūkṣma](sūkṣmaḥ) [sparśana](sparśanaśca) [prabhañjana](prabhañjanaḥ)
+wind(vāyuḥ) scent-bearer(gandhavahaḥ) subtle(sūkṣmaḥ) touch(sparśanaḥ) and(ca) storm(prabhañjanaḥ)
 
 ## mukta-m0-p107-v2662
-[kūrma](kūrmo'tha) [kṛkara](kṛkaro) [devadatta](devadatto) [dhanañjaya](dhanañjayaḥ)
+tortoise(kūrmaḥ) then(atha) kṛkara(kṛkaraḥ) devadatta(devadattaḥ) dhanañjaya(dhanañjayaḥ)
 
 ## mukta-m0-p107-v2663
-[marut-māruta](marunmārutaśca) [vāta](vāto) [vahni-sakha](vahnisakho) [hari](hariḥ)
+wind(marut) māruta(mārutaḥ) and(ca) vāta(vātaḥ) fire-friend(vahnisakhaḥ) hari(hariḥ)
 
 ## mukta-m0-p107-v2664
-[baladhī](baladhirvīro) [dvidhīra](dvidhīro) [rodhaka](rodhako'pi) [ca](ca)
+strong(baladhīḥ) hero(vīraḥ) double-hero(dvidhīraḥ) restrainer(rodhakaḥ) also(api) ca(ca)
 
 ## mukta-m0-p107-v2665
-[sudhī](sudhīścaiva) [samartha](samarthaḥ) [sāhasa](sāhaso) [dhara](dharaḥ)
+wise(sudhīḥ) and(ca) eva(eva) capable(samarthaḥ) bold(sāhasaḥ) bearer(dharaḥ)
 
 ## mukta-m0-p107-v2666
-[rāgī](rāgī) [secana](secano'secanaḥ) [svana](svanaḥ)
+passionate(rāgī) secanasvana(secanaḥ) [g: secanasvanaḥ](svanaḥ) svana(svanaḥ)
 
 ## mukta-m0-p107-v2667
-[karaṇa](karaṇaṃ) [kartā](kartā) [parādhīna](parādhīno) [bala-abala](balo'balaḥ)
+instrument(karaṇaṃ) doer(kartā) dependent(parādhīnaḥ) strong(balaḥ) weak(abalaḥ)
 
 ## mukta-m0-p107-v2668
-[soma](somo) [māṇibhadra](māṇibhadro'tha) [guhyaka](guhyakaḥ)
+soma(somaḥ) māṇibhadra(māṇibhadraḥ) then(atha) guhyaka(guhyakaḥ)
 
 ## mukta-m0-p107-v2669
-[kinnareśa](kinnareśaścailabilirdhanadaśca) [dhanādhipa](dhanādhipaḥ)
+kinnara-lord(kinnareśaḥ) and(ca) ailabili(ailabiliḥ) dhanada(dhanadaḥ) and(ca) wealth-lord(dhanādhipaḥ)
 
 ## mukta-m0-p107-v2670
-[uttarāśā-nivāsa](uttarāśānivāsaśca) [tataḥ](tataḥ) [syāt-eka-kuṇḍala](syādekakuṇḍalaḥ)
+north-quarter-dwelling(uttarāśānivāsaḥ) and(ca) then(tataḥ) be(syāt) one-earring(ekakuṇḍalaḥ)
 
 ## mukta-m0-p107-v2671
-[bhaṅgīra](bhaṅgīraḥ) [surāṣṭra](surāṣṭraḥ) [kāṣṭhali](kāṣṭhaliḥ) [kali](kaliḥ)
+bhaṅgīra(bhaṅgīraḥ) surāṣṭra(surāṣṭraḥ) kāṣṭhali(kāṣṭhaliḥ) kali(kaliḥ)
 
 ## mukta-m0-p107-v2672
-[cāmṛteśa](cāmṛteśo'mbhaḥ) [keyurī](keyurī) [kevalī](kevalī) [valī](valī)
+cāmṛteśa(cāmṛteśaḥ) water(ambhaḥ) keyurī(keyurī) kevalī(kevalī) valī(valī)
 
 ## mukta-m0-p107-v2673
-[nalaka](nalakaḥ) [śunaka](śunakaḥ) [krātha](krāthaḥ) [śyena](śyenaḥ) [śyena-mukha](śyenamukho'ruṇaḥ)
+nalaka(nalakaḥ) śunaka(śunakaḥ) krātha(krāthaḥ) hawk(śyenaḥ) hawk-faced(śyenamukhaḥ) aruṇa(aruṇaḥ)
 
 ## mukta-m0-p107-v2674
-[viśleṣa](viśleṣaḥ) [kardama](kardamaḥ) [pūti-vigraha](pūtivigrahaḥ)
+separation(viśleṣaḥ) kardama(kardamaḥ) foul-bodied(pūtivigrahaḥ)
 
 ## mukta-m0-p107-v2675
-[uttarāśā-sthitā](uttarāśāsthitā) [hy-ete](hyete) [gaṇā](gaṇā) [hara-harau](haraharau) [smṛtāḥ](smṛtāḥ)
+north-quarter-stationed(uttarāśāsthitāḥ) indeed(hi) these(ete) hosts(gaṇāḥ) hara-harau(haraharau) remembered(smṛtāḥ)

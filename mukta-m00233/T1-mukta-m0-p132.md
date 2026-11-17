@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p132-v3276
-[not-born+field+protector+army+named](assaṃbhavakṣetrepālasenasaṃjñaḥ) [and](ca) [middle](madhyamaḥ)
+[non-born+field-protector+named+and](assaṃbhavakṣetrepālasenasaṃjñaśca) [middle](madhyamaḥ)
 
 ## mukta-m0-p132-v3277
-[dog-marked](sārameyāṅkaṃ) [banner](dhvajam) [raising](ucchritya) [worship](pūjayet)
+[dog-marked+banner](sārameyāṅkaṃ) [raising](ucchritya) [worship](pūjayet)
 
 ## mukta-m0-p132-v3278
-[field-protector's](kṣetrapālasya) [which-beings](yebhūtā) [indeed](vai) [front-seated](purassadaḥ)
+[field-protector+beings](kṣetrapālasya) [who+before+seated](yebhūtā) [indeed](vai) [in-front](purassadaḥ)
 
 ## mukta-m0-p132-v3279
-[then](tataḥ) [third-garland](tṛtīyahārāyāṃ) [heruka-etc](herukādyāḥ) [boundary-outside](vṛterbahiḥ)
+[then+third+garland](tatastṛtīyahārāyāṃ) [heruka+etc](herukādyā) [enclosure+outside](vṛterbahiḥ)
 
 ## mukta-m0-p132-v3280
-[donkey](kharaḥ) [scent-loving](gandhapriyaḥ) [bell-sound](ghaṇṭāravaḥ) [and-so](tathā)
+[donkey](kharo) [scent-loving](gandhapriyo) [bell-sound+thus](ghaṇṭāravastathā)
 
 ## mukta-m0-p132-v3281
-[jingling-voiced](jhaṅkāramukharaḥ) [jingling-maker](ñoṅgaṣṭaṅkārī) [thundering](ṭhamayaḥ) [and-so](tathā)
+[jingling-voiced](jhaṅkāramukharo) [oṃ?](ñoṅgaṣṭaṅkārī) [ṭha-sounds+thus](ṭhamayastathā)
 
 ## mukta-m0-p132-v3282
-[form](mūrtiḥ) [toothed](danturaḥ) [and-so](caiva) [wealth-protector](dhanapālaḥ) [and](ca) [nandaka](nandakaḥ)
+[form](mūrtiḥ) [tusked+and](danturaścaiva) [wealth-guardian](dhanapālaḥ) [and](ca) [nandaka](nandakaḥ)
 
 ## mukta-m0-p132-v3283
-[yaksha-lord](yakṣeśaḥ) [rakshasa](rākṣasaḥ) [hanging](lambanaḥ) [and-so](tathā)
+[yaksha-lord](yakṣeśo) [rakshasa](rākṣaso) [hanging+thus](lambanastathā)
 
 ## mukta-m0-p132-v3284
-[offering](balim) [throwing](kṣiptvā) [then-upward](athordhvāyāṃ) [direction-downward](diśyadhastathā)
+[offering+throwing+then+upward](baliṃ) [direction+downward+thus](kṣiptvāthordhvāyāṃ) [diśyadhastathā]
 
 ## mukta-m0-p132-v3285
-[tara-etc](tārādyaiḥ) [fourth-ending](caturthyantaiḥ) [own-names](svanāmabhiḥ)
+[modification?](vikārā) [tārā+etc+fourth-ending](tārādyaiścaturthyantaiḥ) [own-names](svanāmabhiḥ)
 
 ## mukta-m0-p132-v3286
 [all](sarve) [field-lords](kṣetreśāḥ) [field-protector-like](kṣetrapopamāḥ)
 
 ## mukta-m0-p132-v3287
-[outer-directions](bahirdikṣu) [as-before](yathāpūrvaṃ) [in-order](anukramāt)
+[outer-directions](bahirdikṣu) [as-before](yathāpūrvam) [in-order](anukramāt)
 
 ## mukta-m0-p132-v3288
-[thus-etc](ityādibhiḥ) [as-before](yathāpūrvaṃ) [mantras](mantraiḥ) [indeed](tu) [scatter](vikired) [offering](balim)
+[thus+etc](ityādibhir) [as-before](yathāpūrvaṃ) [mantras+indeed](mantraistu) [scatter](vikired) [offering](balim)
 
 ## mukta-m0-p132-v3289
-[completing](samāpya) [then](atha) [bathing](snapayitvā) [from-occurrence](upapattitaḥ)
+[completing+then](samāpyātha) [sprinkling](snapayitvā) [from-occurrence](upapattitaḥ)
 
 ## mukta-m0-p132-v3290
-[gifts](dakṣiṇāṃś) [and](ca) [to-be-given](pradeyāni) [giving](dattvā) [food](annādyaṃ) [and](ca) [abundant](puṣkalam)
+[southern+and](dakṣiṇāṃśca) [to-be-given](pradeyāni) [giving+food+and](dattvānnādyaṃ) [ca](ca) [abundant](puṣkalam)
 
 ## mukta-m0-p132-v3291
-[phalguna](phālgune) [month](māse) [new-offering](navanaivedyam) [is-desired](iṣyate)
+[phalguna+month](phālgune) [māse](māse) [new-offering+desired](navanaivedyamiṣyate)
 
 ## mukta-m0-p132-v3292
-[favorable-constellation-ascendant-etc](anukūlarkṣalagnādau) [sprout-offering-prior](aṅkurārpaṇapūrvakam)
+[favorable+asterism+ascendant+etc](anukūlarkṣalagnādāvaṅkurārpaṇapūrvakam)
 
 ## mukta-m0-p132-v3293
-[music-song-etc-sound](tūryagītādinirghoṣaiḥ) [bathed](snātaiḥ) [workers](karmakaraiḥ) [guru](guruḥ)
+[music+song+etc+noise](tūryagītādinirghoṣaiḥ) [bathed](snātaiḥ) [workers](karmakarair) [guru](guruḥ)
 
 ## mukta-m0-p132-v3294
-[circumambulating](pradakṣiṇīkṛtya) [curd-rice](dadhyannena) [offering](balim) [throw](kṣipet)
+[circumambulating](pradakṣiṇīkṛtya) [curd-rice](dadhyannena) [offering](baliṃ) [throw](kṣipet)
 
 ## mukta-m0-p132-v3295
-[weapon](śastreṇa) [east-facing](prāṅmukhaḥ) [or](vā) [north-facing](udaṅmukhaḥ)
+[weapon](śastreṇa) [east-facing](prāṅmukho) [or](vā) [north-facing](apyudaṅmukhaḥ)
 
 ## mukta-m0-p132-v3296
-[mung-bean-black-gram-etc](mudgamāṣādikaṃ) [and-so](caiva) [fist-grasped](muṣṭigrāhyaṃ) [collect](samāharet)
+[mung+black-gram+etc](mudgamāṣādikaṃ) [ca](ca) [indeed](eva) [fist-grasped](muṣṭigrāhyaṃ) [collect](samāharet)
 
 ## mukta-m0-p132-v3297
-[and](ca) [others](anyāni) [carry](vaheyuḥ) [workers](karmacāriṇaḥ)
+[other+things](cānyāni) [carry](vaheyuḥ) [workers](karmacāriṇaḥ)
 
 ## mukta-m0-p132-v3298
-[taking](nītvā) [inside](antaḥ) [recite](paṭhanti) [well-being](svasti) [hymn](sūktakam)
+[leading+inside](nītvāntaḥ) [recite](paṭhanti) [well-being](svasti) [hymn](sūktakam)
 
 ## mukta-m0-p132-v3299
-[flour](piṣṭaiḥ) [pavilion](maṇḍape) [svastika-lotus](svastikāmbuje)
+[flour](piṣṭair) [pavilion](maṇḍape) [svastika+lotus](svastikāmbuje)
 
 ## mukta-m0-p132-v3300
-[waters](jalaiḥ) [worship](pūjyaḥ) [soma](somaḥ) [there](tatra) [herb-lord](oṣadhīśvaraḥ)
+[waters](jalaiḥ) [worship](pūjyaḥ) [soma](somastatrauṣadhīśvaraḥ)

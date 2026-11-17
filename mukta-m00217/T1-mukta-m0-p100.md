@@ -5,73 +5,73 @@
 [to-deity](devatāyai) [having-offered](nivedya) [then](atha) [that](taṃ) [japa](japaṃ) [for-prosperity](saṃpade) [then](tataḥ)
 
 ## mukta-m0-p100-v2477
-[with-gold-cloth](suvarṇavastrasaṃyuktaṃ) [water-filled](jalapūritam) [vessel](karakaṃ)
+[golden-cloth-joined](suvarṇa+vastra+saṃyuktaṃ) [water-pot](karakaṃ) [water-filled](jala+pūritam)
 
 ## mukta-m0-p100-v2478
-[west-facing](paścimāsyāṃ) [sword-shield-bearing](khaḍgakheṭadhāriṇīṃ) [lion-seated](siṃhasaṃsthitām)
+[west-facing](paścimāsyāṃ) [sword-shield-bearing](khaḍga+kheṭa+dhāriṇīṃ) [lion-seated](siṃha+saṃsthitām)
 
 ## mukta-m0-p100-v2479
-[may-she-protect](rakṣeti) [within](antastu) [wandering](bhramed) [of-world-lords](lokeśānām) [thus-saying](itīrayan)
+[let-him-roam](bhramet) [inside](antas) [but](tu) [protect](rakṣa) [thus](iti) [of-world-lords](lokeśānām) [thus](iti) [saying](īrayan)
 
 ## mukta-m0-p100-v2480
-[in-own-place](svasthāne) [let-him-place](sthāpayet) [that](taṃ) [tu](tu) [then](tataḥ) [with-phaṇ-mantra](phaṇmantreṇa) [let-him-worship](arcayet)
+[in-own-place](sva+sthāne) [let-him-place](sthāpayet) [that](taṃ) [but](tu) [with-phaṇ-mantra](phaṇ+mantreṇa) [then](tatas) [let-him-worship](arcayet)
 
 ## mukta-m0-p100-v2481
-[then](tato) [fire](vahniṃ) [well-prepared](susaṃskṛtya) [caru](caruṃ) [with-milk](gopayasā) [let-him-cook](pacet)
+[then](tatas) [fire](vahniṃ) [well-prepared](su+saṃskṛtya) [caru](caruṃ) [with-cow-milk](go+payasā) [let-him-cook](pacet)
 
 ## mukta-m0-p100-v2482
-[with-root-mantra](mūlāṇunā) [having-enchanted](abhimantryātha) [rice-grains](taṇḍulāñ) [born-of-śāli](śālisambhavān)
+[with-root-mantra](mūla+aṇunā) [having-enchanted](abhimantrya) [then](atha) [rice-grains](taṇḍulān) [rice-born](śāli+sambhavān)
 
 ## mukta-m0-p100-v2483
-[with-washed](prakṣālitena) [vessel](pātreṇa) [vessel-mouth](pātravaktraṃ) [having-covered](pidhāya) [and](ca)
+[with-washed](prakṣālitena) [vessel](pātreṇa) [vessel-mouth](pātra+vaktraṃ) [covering](pidhāya) [and](ca)
 
 ## mukta-m0-p100-v2484
-[let-the-guru-cook](paced) [guruḥ](guruḥ) [east-facing](prāṅmukhastu) [cooked](svinne) [that](tam) [let-him-hold](abhidhārayet)
+[let-him-cook](pacet) [guru](guruḥ) [east-facing](prāṅ+mukhas+tu) [when-cooked](svinne) [that](taṃ) [let-him-hold](abhidhārayet)
 
 ## mukta-m0-p100-v2485
-[with-huṃ-mantra](huṃmantreṇa) [weapon-enchanted](astrasaṃjapte) [on-kuśa-strewn](kuśāstīrṇe) [having-divided](vibhajya) [that](tat)
+[with-huṃ-mantra](huṃ+mantreṇa) [weapon-enchanted](astra+saṃjapte) [kuśa-spread](kuśa+āstīrṇe) [dividing](vibhajya) [that](tat)
 
 ## mukta-m0-p100-v2486
-[remainder](śiṣṭaṃ) [with-disciple](śiṣyeṇa) [sahita](sahito) [guru](gururbhuñjīta) [mantra-knower](mantravit)
+[remainder](śiṣṭaṃ) [with-disciple](śiṣyeṇa+sahitas) [guru](guruḥ) [let-him-eat](bhuñjīta) [mantra-knower](mantra+vit)
 
 ## mukta-m0-p100-v2487
-[prādeśa-measure](prādeśamātraṃ) [hṛṃ-enchanted](hṛñjaptaṃ) [as-stated](yathoktaṃ) [tooth-cleanser](dantadhāvanam)
+[finger-length](prādeśa+mātraṃ) [hṛṃ-enchanted](hṛṃ+japtaṃ) [as-stated](yathā+uktaṃ) [tooth-cleaning](danta+dhāvanam)
 
 ## mukta-m0-p100-v2488
-[adhivāsa](adhivāsaḥ) [is-declared](gadito)
+[spoken](gaditas) [adhivāsa](adhivāsaḥ)
 
 ## mukta-m0-p100-v2489
-[earthen-or-udumbara](mṛṇmayyaudumbarī) [or](vāpi) [caru-pot](carusthālī) [is-praised](praśasyate)
+[clay-or-udumbara](mṛṇmayī+audumbarī) [or](vāpi) [caru-vessel](caru+sthālī) [is-praised](praśasyate)
 
 ## mukta-m0-p100-v2490
-[not-too-loose](nacātiśithilaḥ) [to-be-cooked](pācyo) [not](na) [ca](ca) [devoid-of-juice](vītaraso) [let-it-be](bhavet)
+[not-too-loose](na+ca+ati+śithilaḥ) [to-be-cooked](pācyaḥ) [not](na) [and](ca) [juiceless](vīta+rasaḥ) [let-it-be](bhavet)
 
 ## mukta-m0-p100-v2491
-[completed](niṣpannasya) [and](ca) [those](te) [all](sarve) [to-be-done](vidheyāḥ) [syuḥ](syuḥ) [in-order](krameṇa) [vai](vai)
+[of-completed](niṣpannasya) [and](ca) [those](te) [all](sarve) [to-be-done](vidheyāḥ) [may-be](syuḥ) [in-order](krameṇa) [indeed](vai)
 
 ## mukta-m0-p100-v2492
-[well-prepared](susaṃskṛte) [guru's](guroḥ) [kuṇḍa](kuṇḍe) [with-purifications](saṃskāraiśca) [as-prescribed](yathāvidhi)
+[well-prepared](su+saṃskṛte) [guru's](guroḥ) [kuṇḍa](kuṇḍe) [with-purifications](saṃskāraiḥ+ca) [according-to-rule](yathā+vidhi)
 
 ## mukta-m0-p100-v2493
-[with-root-mantra](mūlāṇunā) [ca](ca) [having-observed](saṃvīkṣya) [having-sprinkled](saṃprokṣyāstrāṇunā) [then](tataḥ)
+[with-root-mantra](mūla+aṇunā) [and](ca) [having-inspected](saṃvīkṣya) [having-sprinkled](saṃprokṣya) [with-weapon-mantra](astra+aṇunā) [then](tataḥ)
 
 ## mukta-m0-p100-v2494
-[digging](khananaṃ) [syāt](syāc) [with-arrow](shareṇātha) [by-that](tenaivoddhāra) [īritaḥ](īritaḥ)
+[digging](khananaṃ) [may-be](syāt) [with-arrow](śareṇa) [then](atha) [by-that-same](tena+eva) [extraction](uddhāraḥ) [declared](īritaḥ)
 
 ## mukta-m0-p100-v2495
-[with-armor](kavacenātha) [with-weapon](śastreṇa) [pounding](kuṭṭanaṃ) [with-mail](varmaṇā) [is-considered](matam)
+[with-armor](kavacena) [then](atha) [with-weapon](śastreṇa) [pounding](kuṭṭanaṃ) [with-armor](varmaṇā) [considered](matam)
 
 ## mukta-m0-p100-v2496
-[let-him-do](kuryāt) [three-threading](trisūtrīkaraṇaṃ) [with-namo-mantra](namomantreṇa) [let-him-fill](pūrayet)
+[let-him-do](kuryāt) [three-thread-making](tri+sūtrī+karaṇaṃ) [with-nama-mantra](namaḥ+mantreṇa) [let-him-fill](pūrayet)
 
 ## mukta-m0-p100-v2497
-[with-armor](kavacenendriyāṇāṃ) [of-senses](cāpyudghāṭanamathācaret)
+[with-armor](kavacena) [of-senses](indriyāṇāṃ) [and](ca) [api](api) [opening](udghāṭanam) [then](atha) [let-him-do](ācaret)
 
 ## mukta-m0-p100-v2498
-[let-him-purify](saṃskuryādathavā) [those](tāni) [with-four](caturbhiḥ) [first-mentioned](prathamoditaiḥ)
+[let-him-purify](saṃskuryāt) [or](athavā) [those](tāni) [with-four](caturbhiḥ) [first-mentioned](prathama+uditaiḥ)
 
 ## mukta-m0-p100-v2499
-[with-thumb-and-ring-finger](aṃguṣṭhānāmikābhyāṃ) [tu](tu) [with-heart](hṛdayenātha) [let-him-fill](pūrayet)
+[with-thumb-and-ring-finger](aṃguṣṭha+anāmikābhyāṃ) [but](tu) [with-heart](hṛdayena) [then](atha) [let-him-fill](pūrayet)
 
 ## mukta-m0-p100-v2500
-[three-thread-wearing](trisūtrīparidhānaṃ) [ca](ca) [with-armor](varmaṇābhyukṣaṇaṃ) [with-heart](hṛdā)
+[three-thread-wearing](tri+sūtrī+paridhānaṃ) [and](ca) [with-armor](varmaṇā) [sprinkling](abhyukṣaṇaṃ) [with-heart](hṛdā)

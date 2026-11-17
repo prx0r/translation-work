@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p138-v3426
-[let-rise](udīratām) [from-below](avarataḥ) [fathers](pitaraḥ) [sound-joined](śabdasaṃyutān)
+[let-be-raised](udīratām) [from-below](avarataḥ) [ancestors](pitaraḥ) [sound-accompanied](śabda+saṃyutān)
 
 ## mukta-m0-p138-v3427
-[south-tips](dakṣiṇāgreṣu) [in-darbha](darbheṣu) [separately](pṛthak) [vessels](pātrāṇi) [place](sādayet)
+[south-tipped](dakṣiṇāgreṣu) [darbha-grass](darbheṣu) [separately](pṛthak) [vessels](pātrāṇi) [place](sādayet)
 
 ## mukta-m0-p138-v3428
-[in-vessels](pātreṣu) [to-fathers-etc](pitrādibhyaḥ) [svadha](svadhām) [in-order](kramāt)
+[in-vessels](pātreṣu) [to-ancestors-etc](pitrādibhyaḥ) [svadhā](svadhāṃ) [in-order](kramāt)
 
 ## mukta-m0-p138-v3429
-[honey](madhu) [of-soma](somasya) [splendor](tviṣiḥ) [from-beginning](āditaḥ)
+[honey](madhu) [of-soma](somasya) [radiance-from-beginning](tviṣiḥ+āditaḥ)
 
 ## mukta-m0-p138-v3430
-[let-come](āgacchantu) [by-east](pūrveṇa) [fathers-etc-named](pitrādyākhyā) [leading](purassaram)
+[let-come](āgacchantu) [by-east](pūrveṇa) [ancestors-etc-named-foremost](pitrādyākhyā+purassaram)
 
 ## mukta-m0-p138-v3431
-[honoring](saṃpūjya) [with-darbha](darbhaiḥ) [covering](ācchādya) [washed-feet](dhautapādān) [brahmins](dvijān) [indeed](tu) [those](tān)
+[having-worshipped](saṃpūjya) [with-darbha](darbhaiḥ) [covering](ācchādya) [washed-feet](dhauta+pādān) [brahmins](dvijān) [those](tān)
 
 ## mukta-m0-p138-v3432
-[on-darbha-seats](darbhāsaneṣu) [seating](upaveśya) [all](sarvān) [those](tān) [north-facing](uttarāmukhān)
+[on-darbha-seats](darbhāsaneṣu) [seating](upaveśya) [all](sarvān) [those](tān) [north-facing](uttarā+mukhān)
 
 ## mukta-m0-p138-v3433
-[southern](yāmye) [fire](agni) [kindled](āviddha) [fire-mouth](agnimukha) [between](antaram)
+[in-south](yāmye) [fire-kindled](agni+āviddha) [fire-mouth-interval](agni+mukha+antaram)
 
 ## mukta-m0-p138-v3434
-[cake](apūpam) [eightfold](aṣṭadhā) [making](kṛtvā) [to-soma](somāya) [etc](ityādinā) [by-portions](aṃśataḥ)
+[cake](apūpam) [eightfold](aṣṭadhā) [making](kṛtvā) [for-soma-etc](somāya+ityādi) [portion](aṃśataḥ)
 
 ## mukta-m0-p138-v3435
 [three-pieces](trikhaṇḍāni) [ladle](srucam) [taking](ādāya) [indeed](vai) [then](tataḥ)
 
 ## mukta-m0-p138-v3436
-[offer](juhuyāt) [ancestor-libation](pitṛtarpaṇa) [preceded-by](pūrvakaiḥ)
+[offer](juhuyāt) [with-ancestor-satisfaction-preceded](pitṛ+tarpaṇa+pūrvakaiḥ)
 
 ## mukta-m0-p138-v3437
-[of-relatives](bandhūnām) [year-year](varṣe+varṣe) [indeed](tu) [that-day](taddine)
+[of-relatives](bandhūnām) [year](varṣe) [year](varṣe) [but](tu) [that-day](tad+dine)
 
 ## mukta-m0-p138-v3438
-[now](atha) [aṣṭakā-śrāddha](aṣṭakāśrāddha) [rite](vidhiḥ) [is-told](kathyate) [here](atra) [composed](samāhitaḥ)
+[now](atha) [ashtaka-shraddha-rite](aṣṭakā+śrāddha+vidhiḥ) [is-told](kathyate) [here](atra) [well-composed](samāhitaḥ)
 
 ## mukta-m0-p138-v3439
-[of-nitya-naimittika](nityanaimittikānām) [indeed](tu) [expiation](prāyaścittam) [is-declared](nigadyate)
+[of-nitya-and-naimittika](nitya+naimittikānām) [but](tu) [expiation](prāyaścittam) [is-declared](nigadyate)
 
 ## mukta-m0-p138-v3440
-[younger](kaniṣṭha) [with-bathing](snapanaiḥ) [bathe](snapayet) [worship](pūjayet) [also](api)
+[with-younger-bathing](kaniṣṭha+snapanaiḥ) [bathe](snapayet) [worship](pūjayet) [also](api)
 
 ## mukta-m0-p138-v3441
-[destroys](hanti) [of-god](devasya) [of-king](rājñaḥ) [power](śaktim) [and](ca) [causes-loss](hāpayet)
+[destroys](hanti) [of-god](devasya) [king's](rājñaḥ) [power](śaktim) [and](ca) [diminishes](hāpayet)
 
 ## mukta-m0-p138-v3442
-[incense](dhūpa) [lamp](dīpa) [lacking](vihīnam) [which](yat) [worship](arcanam) [disease](roga) [pain-giving](duḥkhadam)
+[incense-lamp-devoid](dhūpa+dīpa+vihīnam) [which-worship](yad+arcanaṃ) [disease-sorrow-giving](roga+duḥkha+dam)
 
 ## mukta-m0-p138-v3443
-[in-realm](rāṣṭre) [offering](bali) [on-cutting](chede) [subjects](prajā) [destruction](kṣayaḥ)
+[in-kingdom](rāṣṭre) [offering-interruption](bali+cchede) [people-destruction](prajā+kṣayaḥ)
 
 ## mukta-m0-p138-v3444
-[on-interruption](vicchede) [of-king](rājñaḥ) [of-doer](kartuḥ) [and](ca) [destruction](nāśanam)
+[in-interruption](vicchede) [of-king](rājñaḥ) [of-doer](kartuḥ) [and](ca) [destruction](nāśanam)
 
 ## mukta-m0-p138-v3445
-[from-joy](pramodāt) [or](vā) [or](athavā) [from-obstacle](vighnāt) [worship](pūjā) [give](dehi) [here](iha) [fallen](vicyutau)
+[from-joy](pramodāt) [or](vā) [from-obstacle](vighnāt) [worship-here](pūjā+dehi+ha) [fall-away](vicyutau)
 
 ## mukta-m0-p138-v3446
-[bull](vṛṣa) [sacrifice](yāga) [lacking](vihīne) [indeed](tu) [of-cows](gavām) [destruction](nāśaḥ) [would-be](bhaved) [because](yataḥ)
+[bull-sacrifice-devoid](vṛṣa+yāga+vihīne) [but](tu) [of-cows](gavām) [destruction](nāśaḥ) [would-be](bhaved) [because](yataḥ)
 
 ## mukta-m0-p138-v3447
-[banner](dhvaja) [lacking](hīna) [in-festival](utsave) [of-king](rājñaḥ) [enemy](śatru) [affliction](pīḍā) [would-be](bhaved) [because](yataḥ)
+[flag-devoid-festival](dhvaja+hīna+utsave) [king's](rājñaḥ) [enemy-affliction](śatru+pīḍā) [would-be](bhaved) [because](yataḥ)
 
 ## mukta-m0-p138-v3448
-[indeed](tu) [of-banner](dhvajasya) [in-īśa](aiśe) [in-pit](kuṇḍe) [in-fire](agnau) [bull](vṛṣa) [by-mantra](mantrataḥ)
+[but](tu) [of-flag](dhvajasya) [lord](īśe) [in-pit](kuṇḍe) [fire](agnau) [with-bull-mantra](vṛṣa+mantrataḥ)
 
 ## mukta-m0-p138-v3449
-[would-be](syāt) [of-king-etc](rājādīnām) [inauspicious](amaṅgalam)
+[would-be](syāt) [of-king-etc](rājā+ādīnām) [inauspiciousness](amaṅgalam)
 
 ## mukta-m0-p138-v3450
-[indeed](tu) [in-realm](rāṣṭre) [protection](rakṣā) [perishes](vinaśyati)
+[but](tu) [in-kingdom](rāṣṭre) [protection](rakṣā) [perishes](vinaśyati)

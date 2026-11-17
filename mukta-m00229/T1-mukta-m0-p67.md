@@ -2,28 +2,28 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p67-v1651
-[of-khārīs](khārīṇāṃ) [three](tritayaṃ) [load](bhāra) [declared](uditaḥ) [by-scripture](śāstrataḥ) [in-order](kramāt)
+[of-kharis](khārīṇāṃ) [three](tritayaṃ) [load](bhāra) [stated](uditaḥ) [from-scripture](śāstrataḥ) [in-order](kramāt)
 
 ## mukta-m0-p67-v1652
-[by-tenth-part](daśamāṃśena) [necklace](hāram) [desire](icchanti) [some](kecana)
+[by-tenth-part](daśamāṃśena) [desire-necklace](hāramicchanti) [some](kecana)
 
 ## mukta-m0-p67-v1653
-[eight-fistfuls+becomes+kuñca](aṣṭamuṣṭirbhavetkuñcaḥ) [of-kuñca](kuñceraṣṭau) [eight](tu) [puṣkala](puṣkalam)
+[eight-fistfuls](aṣṭamuṣṭirbhavetkuñcaḥ) [eight-kuñcas](kuñceraṣṭau) [puṣkala](tu) [puṣkalam](puṣkalam)
 
 ## mukta-m0-p67-v1654
-[puṣkalas](puṣkalānyevaṃ) [full-vessel](pūrṇapātram) [then](athocire)
+[puṣkalas](puṣkalānyevaṃ) [full-vessel](pūrṇapātramathocire)
 
 ## mukta-m0-p67-v1655
-[twice-stated](dviṣṭaṃ) [prastha](prasthaṃ) [vessel](pātram) [in-sequence](anukramāt)
+[twice-stated](dviṣṭaṃ) [prastha](prasthaṃ) [vessel](pātramanukramāt)
 
 ## mukta-m0-p67-v1656
-[becomes-māṣa](bhavenmāṣaḥ) [that-akṣa](te'kṣaḥ) [karṣa](karṣastu) [sixteen](ṣoḍaśa)
+[becomes-masha](bhavenmāṣaḥ) [that-aksha](te'kṣaḥ) [karsha-sixteen](karṣastu) [sixteen](ṣoḍaśa)
 
 ## mukta-m0-p67-v1657
-[definition](paribhāṣaiṣā) [not-in-āgamas](nāgameṣūpayujyate)
+[definition-this](paribhāṣaiṣā) [not-in-agamas](nāgameṣūpayujyate)
 
 ## mukta-m0-p67-v1658
-[that-to-be-accepted](tadupādeyamiti) [and](cāgamavedinaḥ)
+[that-to-be-taken](tadupādeyamiti) [and](cāgamavedinaḥ)
 
 ## mukta-m0-p67-v1659
 [according-to-homa](homānusāratastacca) [according-to-desire](kāmanāvaśatastathā)
@@ -32,46 +32,46 @@
 [briefly](saṃkṣepādyathāśāstraṃ) [is-declared](prakāśyate)
 
 ## mukta-m0-p67-v1661
-[desiring-that-fruit](tatphalākāṃkṣī) [auspicious-ends](śubhārthasiddhayaḥ) [in-order](kramāt)
+[desiring-fruit](tatphalākāṃkṣī) [auspicious-ends](śubhārthasiddhayaḥ) [in-order](kramāt)
 
 ## mukta-m0-p67-v1662
-[in-brief](samāsena) [throat-navel-measurement](kaṇṭhanābhisameṣaṇam) [pit](khalam)
+[briefly](samāsena) [throat-navel-measurement](kaṇṭhanābhisameṣaṇam) [khalam](khalam)
 
 ## mukta-m0-p67-v1663
-[its](tasyoktā) [many-faults](bhūridoṣā) [by-experts](viśāradaiḥ)
+[its-stated](tasyoktā) [many-faults](bhūridoṣā) [by-experts](viśāradaiḥ)
 
 ## mukta-m0-p67-v1664
 [becomes-diseased](bhavedrogī) [deficient](hīne) [cow-wealth-loss](dhenudhanakṣayaḥ)
 
 ## mukta-m0-p67-v1665
-[grief](śoko'tyadhike) [wealth-loss](vittasaṃkṣayaḥ)
+[grief](śoko'tyadhike) [excessive](atyadhike) [wealth-loss](vittasaṃkṣayaḥ)
 
 ## mukta-m0-p67-v1666
-[destruction-of-offspring](apatyadhvaṃsanaṃ) [declared](proktaṃ) [kuṇḍa](kuṇḍaṃ) [throat-devoid](yatkaṇṭhavarjitam)
+[offspring-destruction](apatyadhvaṃsanaṃ) [stated](proktaṃ) [kuṇḍa](kuṇḍaṃ) [throat-devoid](yatkaṇṭhavarjitam)
 
 ## mukta-m0-p67-v1667
-[declared](proktāḥ) [kuṇḍa-faults](kuṇḍadoṣāḥ) [carefully](prayatnataḥ)
+[stated](proktāḥ) [kuṇḍa-faults](kuṇḍadoṣāḥ) [carefully](prayatnataḥ)
 
 ## mukta-m0-p67-v1668
-[throat-devoid](kaṇṭhahīne) [non-success](syādasiddhirnyūnamekhale)
+[throat-devoid](kaṇṭhahīne) [failure](syādasiddhirnyūnamekhale)
 
 ## mukta-m0-p67-v1669
 [having-made-first](vidhāyādau) [digging-etc](khananādi) [according-to-rule](vidhānataḥ)
 
 ## mukta-m0-p67-v1670
-[pure-declared](śuddhoktaḥ) [equal-making](sāmyakaraṇe) [method](prakāraḥ) [is-devised](kalpyate) [by-me](mayā)
+[pure-stated](śuddhoktaḥ) [equal-making](sāmyakaraṇe) [method](prakāraḥ) [is-devised](kalpyate) [by-me](mayā)
 
 ## mukta-m0-p67-v1671
 [of-sticks](daṇḍayoragranaikaṭye'rnyastiryak) [middle-marked](madhyacihnitaḥ)
 
 ## mukta-m0-p67-v1672
-[its-thread](svasūtramaspṛśadbhāravadgurum)
+[own-thread](svasūtramaspṛśadbhāravadgurum)
 
 ## mukta-m0-p67-v1673
-[having-dug](khātvā) [thorn-removal](tuśalyoddhāraṃ) [then](tu) [should-do](kārayet)
+[having-dug](khātvā) [thorn-removal](tuśalyoddhāraṃ) [tu](tu) [cause](kārayet)
 
 ## mukta-m0-p67-v1674
-[in-lap](aṅke) [as-far-as-thread-goes](yāvatsūtrameti) [earth-thus](bhūrevaṃ) [levelness](samatāṃ) [attains](vrajet)
+[in-lap](aṅke) [as-far-as-thread](yāvatsūtrameti) [earth-thus](bhūrevaṃ) [levelness](samatāṃ) [goes](vrajet)
 
 ## mukta-m0-p67-v1675
-[having-dug](khātvā) [thorn-removal](tuśalyoddhāraṃ) [then](tu) [should-do](kārayet)
+[having-dug](khātvā) [thorn-removal](tuśalyoddhāraṃ) [tu](tu) [cause](kārayet)

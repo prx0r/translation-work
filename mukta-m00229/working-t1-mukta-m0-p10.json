@@ -15,12 +15,12 @@
 "quick_gloss": "other"
 },
 {
-"surface": "anveṣitum",
+"surface": "anveṣituṃ",
 "quick_gloss": "to-seek"
 },
 {
 "surface": "bhavet",
-"quick_gloss": "should-be"
+"quick_gloss": "be"
 }
 ]
 },
@@ -36,12 +36,16 @@
 "quick_gloss": "all"
 },
 {
-"surface": "anantaphaladam",
-"quick_gloss": "endless+fruit+giving"
+"surface": "ananta",
+"quick_gloss": "endless"
+},
+{
+"surface": "phaladam",
+"quick_gloss": "fruit-giving"
 },
 {
 "surface": "bhavet",
-"quick_gloss": "should-be"
+"quick_gloss": "be"
 }
 ]
 },
@@ -53,12 +57,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "gṛhītam",
+"surface": "gṛhītaṃ",
 "quick_gloss": "taken"
 },
 {
 "surface": "yat",
-"quick_gloss": "which"
+"quick_gloss": "that"
 },
 {
 "surface": "tasmin",
@@ -70,7 +74,7 @@
 },
 {
 "surface": "guror",
-"quick_gloss": "of-teacher"
+"quick_gloss": "of-guru"
 },
 {
 "surface": "nṛṣu",
@@ -86,8 +90,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "dīkṣādi",
-"quick_gloss": "initiation+etc"
+"surface": "dīkṣā",
+"quick_gloss": "initiation"
+},
+{
+"surface": "ādi",
+"quick_gloss": "etc"
 },
 {
 "surface": "sati",
@@ -107,12 +115,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "prakurvāṇaḥ",
+"surface": "prakurvāṇo",
 "quick_gloss": "performing"
 },
 {
-"surface": "māsarkṣādi",
-"quick_gloss": "month+constellation+etc"
+"surface": "māsa",
+"quick_gloss": "month"
+},
+{
+"surface": "arkṣa",
+"quick_gloss": "asterism"
+},
+{
+"surface": "ādi",
+"quick_gloss": "etc"
 },
 {
 "surface": "na",
@@ -120,7 +136,7 @@
 },
 {
 "surface": "śodhayet",
-"quick_gloss": "should-purify"
+"quick_gloss": "purify"
 }
 ]
 },
@@ -133,15 +149,11 @@
 "tokens": [
 {
 "surface": "yat",
-"quick_gloss": "what"
+"quick_gloss": "that"
 },
 {
 "surface": "kaiścit",
 "quick_gloss": "by-some"
-},
-{
-"surface": "iti",
-"quick_gloss": "thus"
 },
 {
 "surface": "uktam",
@@ -153,11 +165,11 @@
 },
 {
 "surface": "amūlakam",
-"quick_gloss": "baseless"
+"quick_gloss": "rootless"
 },
 {
 "surface": "iṣyate",
-"quick_gloss": "is-held"
+"quick_gloss": "is-intended"
 }
 ]
 },
@@ -170,15 +182,27 @@
 "tokens": [
 {
 "surface": "sadyaḥ",
-"quick_gloss": "immediately"
+"quick_gloss": "immediate"
 },
 {
-"surface": "adhivāsavidhinā",
-"quick_gloss": "consecration+rite"
+"surface": "adhivāsa",
+"quick_gloss": "residence"
 },
 {
-"surface": "sarvaśiṣṭānusārataḥ",
-"quick_gloss": "all+remaining+following"
+"surface": "vidhinā",
+"quick_gloss": "by-rite"
+},
+{
+"surface": "sarva",
+"quick_gloss": "all"
+},
+{
+"surface": "śiṣṭa",
+"quick_gloss": "remaining"
+},
+{
+"surface": "anusārataḥ",
+"quick_gloss": "according-to"
 }
 ]
 },
@@ -216,11 +240,15 @@
 "tokens": [
 {
 "surface": "kuryāt",
-"quick_gloss": "should-do"
+"quick_gloss": "do"
 },
 {
-"surface": "pāpakṣayam",
-"quick_gloss": "sin+destruction"
+"surface": "pāpa",
+"quick_gloss": "sin"
+},
+{
+"surface": "kṣayam",
+"quick_gloss": "destruction"
 },
 {
 "surface": "yataḥ",
@@ -236,19 +264,23 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "dīkṣāyāgavihīnaḥ",
-"quick_gloss": "initiation+sacrifice+devoid"
+"surface": "dīkṣā",
+"quick_gloss": "initiation"
+},
+{
+"surface": "yāga",
+"quick_gloss": "sacrifice"
+},
+{
+"surface": "vihīno",
+"quick_gloss": "devoid"
 },
 {
 "surface": "api",
 "quick_gloss": "even"
 },
 {
-"surface": "iti",
-"quick_gloss": "thus"
-},
-{
-"surface": "ādau",
+"surface": "ityādau",
 "quick_gloss": "etc"
 },
 {
@@ -260,12 +292,12 @@
 "quick_gloss": "or"
 },
 {
-"surface": "gatiḥ",
+"surface": "gatir",
 "quick_gloss": "course"
 },
 {
 "surface": "bhavet",
-"quick_gloss": "should-be"
+"quick_gloss": "be"
 }
 ]
 },
@@ -281,20 +313,16 @@
 "quick_gloss": "thus"
 },
 {
-"surface": "ca",
-"quick_gloss": "and"
-},
-{
-"surface": "idam",
-"quick_gloss": "this"
+"surface": "cedam",
+"quick_gloss": "if-this"
 },
 {
 "surface": "pravarteta",
-"quick_gloss": "would-proceed"
+"quick_gloss": "proceed"
 },
 {
 "surface": "guror",
-"quick_gloss": "of-teacher"
+"quick_gloss": "of-guru"
 },
 {
 "surface": "api",
@@ -314,16 +342,20 @@
 "quick_gloss": "initiation"
 },
 {
-"surface": "iti",
-"quick_gloss": "thus"
-},
-{
-"surface": "ādi",
+"surface": "ityādi",
 "quick_gloss": "etc"
 },
 {
-"surface": "śiṣyavākyavirodhataḥ",
-"quick_gloss": "disciple+statement+contradiction"
+"surface": "śiṣya",
+"quick_gloss": "disciple"
+},
+{
+"surface": "vākya",
+"quick_gloss": "speech"
+},
+{
+"surface": "virodhataḥ",
+"quick_gloss": "contradiction"
 }
 ]
 },
@@ -339,8 +371,12 @@
 "quick_gloss": "and"
 },
 {
-"surface": "vidhābupalakṣaṇam",
-"quick_gloss": "rite+indication"
+"surface": "vidhā",
+"quick_gloss": "rite"
+},
+{
+"surface": "upalakṣaṇam",
+"quick_gloss": "indication"
 },
 {
 "surface": "ucyate",
@@ -376,8 +412,8 @@
 "quick_gloss": "my"
 },
 {
-"surface": "guruḥ",
-"quick_gloss": "teacher"
+"surface": "gurur",
+"quick_gloss": "guru"
 },
 {
 "surface": "bhava",
@@ -393,8 +429,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "dīkṣāsāmānyakālaḥ",
-"quick_gloss": "initiation+common+time"
+"surface": "dīkṣā",
+"quick_gloss": "initiation"
+},
+{
+"surface": "sāmānya",
+"quick_gloss": "common"
+},
+{
+"surface": "kālaḥ",
+"quick_gloss": "time"
 },
 {
 "surface": "atha",
@@ -423,11 +467,15 @@
 },
 {
 "surface": "guror",
-"quick_gloss": "of-teacher"
+"quick_gloss": "of-guru"
 },
 {
-"surface": "ājñānurūpataḥ",
-"quick_gloss": "command+according"
+"surface": "ājñā",
+"quick_gloss": "command"
+},
+{
+"surface": "anurūpataḥ",
+"quick_gloss": "according-to"
 }
 ]
 },
@@ -440,23 +488,35 @@
 "tokens": [
 {
 "surface": "kāraṇam",
-"quick_gloss": "reason"
+"quick_gloss": "cause"
 },
 {
 "surface": "kintu",
 "quick_gloss": "but"
 },
 {
-"surface": "svecchāvāpte",
-"quick_gloss": "own+wish+obtained"
+"surface": "sva",
+"quick_gloss": "own"
+},
+{
+"surface": "icchā",
+"quick_gloss": "will"
+},
+{
+"surface": "āvāpte",
+"quick_gloss": "obtained"
 },
 {
 "surface": "tu",
-"quick_gloss": "indeed"
+"quick_gloss": "but"
 },
 {
-"surface": "sadgurau",
-"quick_gloss": "true+teacher"
+"surface": "sat",
+"quick_gloss": "good"
+},
+{
+"surface": "gurau",
+"quick_gloss": "guru"
 }
 ]
 },
@@ -477,7 +537,7 @@
 },
 {
 "surface": "pravarttayet",
-"quick_gloss": "should-conduct"
+"quick_gloss": "cause-to-proceed"
 }
 ]
 },
@@ -489,16 +549,24 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "gandhapuṣpābhyām",
-"quick_gloss": "by-sandal+flowers"
+"surface": "gandha",
+"quick_gloss": "incense"
+},
+{
+"surface": "puṣpābhyām",
+"quick_gloss": "flowers"
 },
 {
 "surface": "arcitam",
 "quick_gloss": "worshipped"
 },
 {
-"surface": "vastrabhūṣitam",
-"quick_gloss": "cloth+ornamented"
+"surface": "vastra",
+"quick_gloss": "cloth"
+},
+{
+"surface": "bhūṣitam",
+"quick_gloss": "ornamented"
 }
 ]
 },
@@ -515,11 +583,11 @@
 },
 {
 "surface": "hunet",
-"quick_gloss": "should-offer"
+"quick_gloss": "offer"
 },
 {
-"surface": "aṣṭottaram",
-"quick_gloss": "eight+plus+hundred"
+"surface": "aṣṭottaraṃ",
+"quick_gloss": "hundred-plus"
 },
 {
 "surface": "jepedityarthaḥ",
@@ -539,12 +607,24 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "prokṣaṇītoyaiḥ",
-"quick_gloss": "consecration+waters"
+"surface": "prokṣaṇī",
+"quick_gloss": "sprinkling"
 },
 {
-"surface": "śāntikumbhajalaiḥ",
-"quick_gloss": "peace+pot+waters"
+"surface": "toyaiḥ",
+"quick_gloss": "waters"
+},
+{
+"surface": "śānti",
+"quick_gloss": "peace"
+},
+{
+"surface": "kumbha",
+"quick_gloss": "pot"
+},
+{
+"surface": "jalaiḥ",
+"quick_gloss": "waters"
 },
 {
 "surface": "tathā",
@@ -597,12 +677,16 @@
 "quick_gloss": "costus"
 },
 {
-"surface": "śaileyam",
-"quick_gloss": "rock+resin"
+"surface": "śaileyaṃ",
+"quick_gloss": "rock-resin"
 },
 {
-"surface": "rajanīdvayam",
-"quick_gloss": "two+turmeric"
+"surface": "rajanī",
+"quick_gloss": "turmeric"
+},
+{
+"surface": "dvayam",
+"quick_gloss": "two"
 }
 ]
 },
@@ -615,10 +699,10 @@
 "tokens": [
 {
 "surface": "kaścit",
-"quick_gloss": "someone"
+"quick_gloss": "some"
 },
 {
-"surface": "cet",
+"surface": "ced",
 "quick_gloss": "if"
 },
 {
@@ -648,7 +732,7 @@
 "tokens": [
 {
 "surface": "japet",
-"quick_gloss": "should-chant"
+"quick_gloss": "chant"
 },
 {
 "surface": "karṇe",
@@ -657,10 +741,6 @@
 {
 "surface": "upadeśe",
 "quick_gloss": "instruction"
-},
-{
-"surface": "tu",
-"quick_gloss": "indeed"
 },
 {
 "surface": "ayam",

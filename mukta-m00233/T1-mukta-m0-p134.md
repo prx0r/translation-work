@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p134-v3326
-[singing](gīta)+[dancing](nṛtta)+[etc](ādi)+[instrument](tūrya)+[sound](ghoṣa)+[preceded](purassaram)
+[song-dance-etc-trumpet-sound-preceded](gīta+nṛtta+ādi+tūrya+ghoṣa+purassaram)
 
 ## mukta-m0-p134-v3327
-[great](mahā)+[bowl](śarāvaṃ)+[but](tu)+[three-two-one](tridvyekaṃ)+[śiva-worshipped](śivapūjitam)
+[great-bowl](mahā+śarāva) [three-two-one](tridvyeka) [śiva-worshipped](śiva+pūjitam)
 
 ## mukta-m0-p134-v3328
-[oil](tailena)+[in-that](tasmin)+[wick](varti)+[and](ca)+[place](nikṣipet)
+[oil](tailena) [in-that](tasmin) [wick](varti) [ca](ca) [place](nikṣipet)
 
 ## mukta-m0-p134-v3329
-[corner-pavilion-altars](koṇamaṇḍapakuṇḍeṣu)+[altar-fire](sthaṇḍilāgniṃ)+[dividing](vibhajya)+[but](tu)
+[corner-pavilion-altars](koṇa+maṇḍapa+kuṇḍeṣu) [hearth-fire](sthaṇḍila+agnim) [dividing](vibhajya) [tu](tu)
 
 ## mukta-m0-p134-v3330
-[palāśa-banyan-arka-twigs](pālāśavaṭaśamyarkasamidhaśca)+[ghee](ghṛtaṃ)+[oblation](carum)
+[palāśa-vaṭa-arka-twigs](pālāśa+vaṭa+śamī+arka+samidhaḥ) [ca](ca) [ghee](ghṛtam) [caru](carum)
 
 ## mukta-m0-p134-v3331
-[cloth-etc](vastrādyair)+[lamp-tree](dīpavṛkṣasya)+[from-root](mūlataḥ)
+[cloth-etc](vastra+ādyaiḥ) [lamp-tree](dīpa+vṛkṣasya) [from-root](mūlataḥ)
 
 ## mukta-m0-p134-v3332
-[to-śiva](śivāya)+[then](atha)+[permission-obtained](labdhānujñaḥ)+[then](tato)+[guru](guruḥ)
+[to-śiva](śivāya) [atha](atha) [permission-obtained](labdha+anujñaḥ) [then](tataḥ) [guru](guruḥ)
 
 ## mukta-m0-p134-v3333
-[mind-manifest-bowl-state](manonmanīśarāvasthān)+[leading](nītvā)+[lamp-tree-below](dīpataroradhaḥ)
+[mind-manifest-bowl-state](manonmanī+śarāva+sthān) [having-brought](nītvā) [lamp-tree-below](dīpa+taru+adhaḥ)
 
 ## mukta-m0-p134-v3334
-[power-lamp](śaktidīpaṃ)+[taking](gṛhītvā)+[upward](ūrdhvam)+[ascend](ārohed)+[lamp-tree](dīpapādapam)
+[power-lamp](śakti+dīpam) [taking](gṛhītvā) [upward](ūrdhvam) [ascend](ārohet) [lamp-tree](dīpa+pādapam)
 
 ## mukta-m0-p134-v3335
-[then](tataḥ)+[beginning](prārabhya)+[all-those](sarvāstāḥ)+[lamp-garlands](dīpamālāḥ)+[all-around](samantataḥ)
+[then](tataḥ) [beginning](prārabhya) [all-those](sarvāḥ+tāḥ) [lamp-garlands](dīpa+mālāḥ) [all-around](samantataḥ)
 
 ## mukta-m0-p134-v3336
-[temple-parts](prāsādāṅgeṣu)+[all](sarveṣu)+[attendant-shrines](parivārālayeṣu)+[and](ca)
+[temple-parts](prāsāda+aṅgeṣu) [all](sarveṣu) [attendant-shrines](parivāra+ālayeṣu) [ca](ca)
 
 ## mukta-m0-p134-v3337
-[having-worshipped](saṃpūjya)+[song-instrument-etc-auspicious](gītavādyādimaṅgalaiḥ)
+[having-worshipped](saṃpūjya) [song-instrument-etc-auspicious](gīta+vādya+ādi+maṅgalaiḥ)
 
 ## mukta-m0-p134-v3338
-[circumambulation](pradakṣiṇaṃ)+[all-lamps](sarvadīpānām)+[from-shrine-outside](ālayād bahiḥ)
+[circumambulation](pradakṣiṇam) [all-lamps](sarva+dīpānām) [from-shrine-outside](ālayāt+bahiḥ)
 
 ## mukta-m0-p134-v3339
-[to-lord](deveśaṃ)+[then](tato)+[element-offering](bhūtabaliṃ)+[cast](kṣipet)
+[to-deveśa](deveśam) [then](tato) [bhūta-offering](bhūta+balim) [cast](kṣipet)
 
 ## mukta-m0-p134-v3340
-[seven-nights-end](saptarātrāntakaṃ)+[low-youngest-etc-highest-festival](nīcakaniṣṭhādyuttamotsave)
+[seven-night-end](sapta+rātra+antakam) [low-youngest-etc-highest-festival](nīca+kaniṣṭha+ādi+uttama+utsave)
 
 ## mukta-m0-p134-v3341
-[as-before](yathāpūrvaṃ)+[village-etc](grāmādestu)+[circumambulation](pradakṣiṇam)
+[as-before](yathā+pūrvam) [village-etc](grāma+ādeḥ) [tu](tu) [circumambulation](pradakṣiṇam)
 
 ## mukta-m0-p134-v3342
-[dakṣiṇā](dakṣiṇāṃ)+[give](dadyāt)+[food-etc](annādyaṃ)+[and](ca)+[unrestricted](avāritam)
+[dakṣiṇā](dakṣiṇām) [give](dadyāt) [food-etc](anna+ādyam) [ca](ca) [apy](api) [unrestricted](avāritam)
 
 ## mukta-m0-p134-v3343
-[enjoyments](bhogān)+[having-obtained](saṃprāpya)+[heaven](svargaṃ)+[go](yānti)
+[enjoyments](bhogān) [having-obtained](saṃprāpya) [heaven](svargam) [go](yānti) [they](te)
 
 ## mukta-m0-p134-v3344
-[to-brahman](brahmaṇaḥ)+[equal](tulyaṃ)+[eloquence](vaktṛtvaṃ)+[and](ca)+[bṛhaspati](bṛhaspateḥ)
+[to-brahman](brahmaṇaḥ) [equal](tulyam) [eloquence](vaktṛtvam) [ca](ca) [bṛhaspati](bṛhaspateḥ)
 
 ## mukta-m0-p134-v3345
-[of-lamps](dīpānāṃ)+[fruit](phalaṃ)+[to-speak](vaktuṃ)+[how](kutaḥ)+[able](kṣamam)
+[of-lamps](dīpānām) [fruit](phalam) [to-speak](vaktum) [whence](kutaḥ) [capable](kṣamam)
 
 ## mukta-m0-p134-v3346
-[but](tu)+[all](sarveṣām)+[final-rite](antyeṣṭiḥ)+[is-said](kathyate)+[now](adhunā)
+[tu](tu) [all](sarveṣām) [final-rite](antyeṣṭiḥ) [is-said](kathyate) [now](adhunā)
 
 ## mukta-m0-p134-v3347
-[prāṇa-etc](prāṇamityādīn)+[with-root](mūlena)+[bound](grathitān)+[in-order](kramāt)
+[prāṇa-etc](prāṇa+ādi) [with-root](mūlena) [strung](grathitān) [in-order](kramāt)
 
 ## mukta-m0-p134-v3348
-[bathe](snapayet)+[disciple](śiṣyaḥ)+[or](athavā)+[wife](patnī)+[or](athavā)+[son](sutaḥ)
+[bathe](snapayet) [disciple](śiṣyaḥ) [or](athavā) [wife](patnī) [or](athavā) [son](sutaḥ)
 
 ## mukta-m0-p134-v3349
-[with-kuśa](darbheṇa)+[thumbs](aṅguṣṭhayoḥ)+[bound](baddhvā)+[ghee-curd-rice-grains-sesame](ghṛtadadhyakṣatāṃstilān)
+[with-kuśa](darbheṇa) [thumbs](aṅguṣṭhayoḥ) [bound](baddhvā) [ghee-curd-akṣata-tila](ghṛta+dadhi+akṣatān+tilān)
 
 ## mukta-m0-p134-v3350
-[bamboo-wood-made](vaṃśadārvādiracitāṃ)+[firm](sudṛḍhāṃ)+[palanquin](śibikāṃ)+[new](navām)
+[bamboo-wood-made](vaṃśa+dāru+ādi+racitām) [firm](sudṛḍhām) [palanquin](śibikām) [new](navām)
