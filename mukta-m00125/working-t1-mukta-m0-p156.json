@@ -20,11 +20,11 @@
 },
 {
 "surface": "kṣatriyaṃ",
-"quick_gloss": "warrior"
+"quick_gloss": "kshatriya"
 },
 {
 "surface": "vaiśyameva",
-"quick_gloss": "merchant-indeed"
+"quick_gloss": "vaishya-indeed"
 },
 {
 "surface": "ca",
@@ -53,11 +53,11 @@
 },
 {
 "surface": "vārayed",
-"quick_gloss": "restrain"
+"quick_gloss": "should-restrain"
 },
 {
 "surface": "acireṇa",
-"quick_gloss": "quickly"
+"quick_gloss": "without-delay"
 },
 {
 "surface": "tān",
@@ -77,8 +77,12 @@
 "quick_gloss": "king's"
 },
 {
-"surface": "vijayadañcāyurvṛddhidaṃ",
+"surface": "vijayadaṃ",
 "quick_gloss": "victory-giving"
+},
+{
+"surface": "āyurvṛddhidaṃ",
+"quick_gloss": "life-increasing"
 },
 {
 "surface": "paladaṃ",
@@ -99,15 +103,23 @@
 "tokens": [
 {
 "surface": "ābhicārakaliṅgādyaṃ",
-"quick_gloss": "evil-spell-signs"
+"quick_gloss": "abhicara-linga-etc"
 },
 {
 "surface": "rodraiśca",
-"quick_gloss": "by-rudras"
+"quick_gloss": "by-rudras-and"
 },
 {
-"surface": "sthāpitañcayat",
+"surface": "sthāpitaṃ",
 "quick_gloss": "established"
+},
+{
+"surface": "ca",
+"quick_gloss": "and"
+},
+{
+"surface": "yat",
+"quick_gloss": "yat"
 }
 ]
 },
@@ -127,12 +139,16 @@
 "quick_gloss": "place"
 },
 {
-"surface": "saṃpraviśyātha",
+"surface": "saṃpraviśya",
 "quick_gloss": "entering"
 },
 {
+"surface": "atha",
+"quick_gloss": "then"
+},
+{
 "surface": "mṛdbhāṇḍāṃśca",
-"quick_gloss": "clay-vessels"
+"quick_gloss": "clay-vessels-and"
 },
 {
 "surface": "vivarjayet",
@@ -153,7 +169,7 @@
 },
 {
 "surface": "sudhāyālipya",
-"quick_gloss": "with-lime"
+"quick_gloss": "plastering"
 },
 {
 "surface": "sthalaṃ",
@@ -174,7 +190,7 @@
 "tokens": [
 {
 "surface": "paryagnikaraṇaṃ",
-"quick_gloss": "purification-by-fire"
+"quick_gloss": "fire-circumambulation"
 },
 {
 "surface": "kṛtvā",
@@ -185,7 +201,7 @@
 "quick_gloss": "again"
 },
 {
-"surface": "puṇyāha",
+"surface": "puṇyāhaṃ",
 "quick_gloss": "auspicious-day"
 },
 {
@@ -232,11 +248,11 @@
 "tokens": [
 {
 "surface": "mahājālaprayogeṇa",
-"quick_gloss": "great-net"
+"quick_gloss": "great-net-rite"
 },
 {
 "surface": "sarvamantrāśca",
-"quick_gloss": "all-mantras"
+"quick_gloss": "all-mantras-and"
 },
 {
 "surface": "saṃharet",
@@ -253,15 +269,19 @@
 "tokens": [
 {
 "surface": "talliṅgādyaṃ",
-"quick_gloss": "those-signs-etc"
+"quick_gloss": "that-linga-etc"
 },
 {
 "surface": "ca",
+"quick_gloss": "and"
+},
+{
+"surface": "saṃśodhya",
 "quick_gloss": "purifying"
 },
 {
 "surface": "kuśabhasmamṛdāmbhasā",
-"quick_gloss": "kuśa-ash-clay-water"
+"quick_gloss": "kusha-ash-clay-water"
 }
 ]
 },
@@ -274,11 +294,11 @@
 "tokens": [
 {
 "surface": "kaṣāyodakasaṃyuktaṃ",
-"quick_gloss": "astringent-water"
+"quick_gloss": "astringent-water-mixed"
 },
 {
 "surface": "gomūtreṇodakāntaram",
-"quick_gloss": "cow-urine"
+"quick_gloss": "cow-urine-water-interval"
 }
 ]
 },
@@ -291,7 +311,7 @@
 "tokens": [
 {
 "surface": "liṅgasthaśambare",
-"quick_gloss": "linga-stationed-cloth"
+"quick_gloss": "linga-staying-cloth"
 },
 {
 "surface": "jñāte",
@@ -299,7 +319,7 @@
 },
 {
 "surface": "pūrvavanmantrasaṃhṛtiḥ",
-"quick_gloss": "as-before"
+"quick_gloss": "as-before-mantra-withdrawal"
 }
 ]
 },
@@ -312,10 +332,14 @@
 "tokens": [
 {
 "surface": "jantukalpadravārthaṃ",
-"quick_gloss": "for-creature-formula-purpose"
+"quick_gloss": "creature-creation-fluid-purpose"
 },
 {
 "surface": "tu",
+"quick_gloss": "indeed"
+},
+{
+"surface": "mantramastraṃ",
 "quick_gloss": "mantra-weapon"
 },
 {
@@ -337,11 +361,11 @@
 },
 {
 "surface": "samuddhareddipaṃ",
-"quick_gloss": "extract"
+"quick_gloss": "extract-lamp"
 },
 {
 "surface": "talliṅgāṇubhiranvitam",
-"quick_gloss": "that-sign-atoms"
+"quick_gloss": "that-linga-particles-accompanied"
 }
 ]
 },
@@ -353,16 +377,24 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "punassaṃśoddhyataṃ",
-"quick_gloss": "again"
+"surface": "punaḥsaṃśodhyataṃ",
+"quick_gloss": "again-purify"
 },
 {
 "surface": "liṅgaṃ",
 "quick_gloss": "linga"
 },
 {
-"surface": "pūrvadravyai",
-"quick_gloss": "previous-materials"
+"surface": "pūrvadravyaiḥ",
+"quick_gloss": "previous-substances"
+},
+{
+"surface": "śśareṇa",
+"quick_gloss": "arrow-and"
+},
+{
+"surface": "ca",
+"quick_gloss": "ca"
 }
 ]
 },
@@ -375,11 +407,11 @@
 "tokens": [
 {
 "surface": "svasvamantrasamopetaṃ",
-"quick_gloss": "own-mantra-endowed"
+"quick_gloss": "own-mantra-accompanied"
 },
 {
-"surface": "svasva",
-"quick_gloss": "own-homa-included"
+"surface": "svasvahomasamanvitam",
+"quick_gloss": "own-homa-accompanied"
 }
 ]
 },
@@ -392,11 +424,11 @@
 "tokens": [
 {
 "surface": "lakṣaṇoddhāraṇanneṣṭaṃ",
-"quick_gloss": "mark-extraction"
+"quick_gloss": "mark-extraction-desired"
 },
 {
 "surface": "jalecaivādhivāsanam",
-"quick_gloss": "in-water"
+"quick_gloss": "water-and-indeed-consecration"
 }
 ]
 },
@@ -409,19 +441,19 @@
 "tokens": [
 {
 "surface": "garbhagehetha",
-"quick_gloss": "womb-house"
+"quick_gloss": "womb-house-there"
 },
 {
 "surface": "tatsarvaṃ",
-"quick_gloss": "that-all"
+"quick_gloss": "all-that"
 },
 {
 "surface": "maṇḍape",
-"quick_gloss": "pavilion"
+"quick_gloss": "pavilion-or"
 },
 {
 "surface": "vā",
-"quick_gloss": "or"
+"quick_gloss": "vā"
 },
 {
 "surface": "samācaret",
@@ -441,16 +473,24 @@
 "quick_gloss": "self-born"
 },
 {
+"surface": "bhūrdaivike",
+"quick_gloss": "divine"
+},
+{
 "surface": "bāṇe",
 "quick_gloss": "arrow"
 },
 {
+"surface": "cārṣe",
+"quick_gloss": "and-vedic"
+},
+{
 "surface": "gāṇādhipe",
-"quick_gloss": "gaṇādhipa"
+"quick_gloss": "ganadhipe"
 },
 {
 "surface": "tathā",
-"quick_gloss": "thus"
+"quick_gloss": "so"
 }
 ]
 },
@@ -463,11 +503,15 @@
 "tokens": [
 {
 "surface": "diśāhomantataḥ",
-"quick_gloss": "direction-homa"
+"quick_gloss": "direction-homa-then"
 },
 {
-"surface": "kuryādṛgādyaddhyanantathā",
+"surface": "kuryād",
 "quick_gloss": "do"
+},
+{
+"surface": "ṛgādyaddhyanantathā",
+"quick_gloss": "rig-etc-study-and"
 }
 ]
 },
@@ -480,7 +524,7 @@
 "tokens": [
 {
 "surface": "śāntihomantataḥ",
-"quick_gloss": "peace-homa"
+"quick_gloss": "peace-homa-then"
 },
 {
 "surface": "kṛtvā",
@@ -491,8 +535,12 @@
 "quick_gloss": "bathing"
 },
 {
-"surface": "kārayettataḥ",
-"quick_gloss": "cause-do"
+"surface": "kārayet",
+"quick_gloss": "cause"
+},
+{
+"surface": "tataḥ",
+"quick_gloss": "then"
 }
 ]
 },
@@ -512,8 +560,16 @@
 "quick_gloss": "giving"
 },
 {
-"surface": "tāmbūlandāpayettataḥ",
+"surface": "tāmbūlaṃ",
 "quick_gloss": "betel"
+},
+{
+"surface": "dāpayet",
+"quick_gloss": "cause-give"
+},
+{
+"surface": "tataḥ",
+"quick_gloss": "then"
 }
 ]
 },
@@ -530,11 +586,15 @@
 },
 {
 "surface": "pāyasaṃ",
-"quick_gloss": "milk-pudding"
+"quick_gloss": "milk-rice"
+},
+{
+"surface": "gaulaṃ",
+"quick_gloss": "gaula"
 },
 {
 "surface": "kadalīphalasaṃyutam",
-"quick_gloss": "banana-fruit"
+"quick_gloss": "banana-fruit-accompanied"
 }
 ]
 },
@@ -551,11 +611,15 @@
 },
 {
 "surface": "pūjayennityaṃ",
-"quick_gloss": "worship"
+"quick_gloss": "worship-always"
 },
 {
-"surface": "svarṇavastrādibhistataḥ",
+"surface": "svarṇavastrādibhiḥ",
 "quick_gloss": "gold-cloth-etc"
+},
+{
+"surface": "tataḥ",
+"quick_gloss": "then"
 }
 ]
 },
@@ -567,12 +631,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "sarveraṃgairviśīrṇañjet",
+"surface": "sarveraṃgair",
 "quick_gloss": "all-limbs"
 },
 {
-"surface": "punassaṃsthāpayennavam",
-"quick_gloss": "again"
+"surface": "viśīrṇaṃ",
+"quick_gloss": "scattered"
+},
+{
+"surface": "jet",
+"quick_gloss": "conquer"
+},
+{
+"surface": "punaḥsaṃsthāpayennavam",
+"quick_gloss": "again-establish-new"
 }
 ]
 }

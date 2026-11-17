@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p37-v901
-[sarayū](sarayū) [mānasa](mānasa) [udbhūtā](udbhūtā) [mānasa](mānasa) [udbhūta](udbhūta) [vikriyām](vikriyām)
+[sarayu](sarayū) [mind-born](mānasodbhūtā) [mind-born](mānasodbhūta) [transformation](vikriyām)
 
 ## mukta-m0-p37-v902
-[candrabhāgā](candrabhāgā)
+[moon](candra) [bhaga](bhāgā) [feminine](ā) [river](nadī)
 
 ## mukta-m0-p37-v903
-[yuṣmān](yuṣmān) [mahābhāgatayā](mahābhāgatayā) [yunaktu](yunaktu)
+[you](yuṣmān) [great-fortune](mahābhāgatayā) [join](yunaktu) [blessing](āśīḥ)
 
 ## mukta-m0-p37-v904
-[kauśikī](kauśikī)
+[kushika-born](kauśikī) [river](nadī) [holy](pavitratā) [flow](pravāha)
 
 ## mukta-m0-p37-v905
-[vitaratu](vitaratu) [varakośaṃ](varakośaṃ) [kauśikī](kauśikī) [suprakāśā](suprakāśā)
+[grant](vitaratu) [treasure](varakośaṃ) [kushika-born](kauśikī) [radiant](suprakāśā)
 
 ## mukta-m0-p37-v906
-[gaṇḍakī](gaṇḍakī)
+[gandaki](gaṇḍakī) [river](nadī) [holy](pavitratā) [flow](pravāha)
 
 ## mukta-m0-p37-v907
-[śuciḥ](śuciḥ)
+[page](p) [132](132) [pure](śuciḥ) [sacred](pavitra) [water](jala)
 
 ## mukta-m0-p37-v908
-[rucirā](rucirā) [asucirāt](asucirāt) [astu](astu) [śuciḥ](śuciḥ) [sva-ākāraṇa-artha-kṛt](svākāraṇārthakṛt)
+[beautiful](rucirā) [impure](asucirād) [be](astu) [pure](śuciḥ) [self-cause](svākāraṇārthakṛt)
 
 ## mukta-m0-p37-v909
-[narmadā](narmadā)
+[narmada](narmadā) [river](nadī) [holy](pavitratā) [flow](pravāha)
 
 ## mukta-m0-p37-v910
-[sā](sā) [narmadā](narmadā) [narmasu](narmasu) [dakṣiṇatvam](dakṣiṇatvam)
+[she](sā) [narmada](narmadā) [sports](narmasu) [southern-ness](dakṣiṇatvam) [grace](anugraha)
 
 ## mukta-m0-p37-v911
-[karmanāśā](karmanāśā)
+[karmanasha](karmanāśā) [river](nadī) [holy](pavitratā) [flow](pravāha)
 
 ## mukta-m0-p37-v912
-[naiṣkarmyam](naiṣkarmyam) [eṣā](eṣā) [kila](kila) [karmanāśā](karmanāśā)
+[actionlessness](naiṣkarmyam) [this](eṣā) [indeed](kila) [karmanasha](karmanāśā) [grace](anugraha)
 
 ## mukta-m0-p37-v913
-[carmaṇvatī](carmaṇvatī)
+[charmanvati](carmaṇvatī) [river](nadī) [holy](pavitratā) [flow](pravāha)
 
 ## mukta-m0-p37-v914
-[carmaṇvatī](carmaṇvatī) [sadā](sadā) [bhūyāt](bhūyāt) [carma-dṛṣṭi-harā](carmadṛṣṭiharā) [tava](tava)
+[charmanvati](carmaṇvatī) [always](sadā) [be](bhūyāt) [skin-sight-removing](carmadṛṣṭiharā) [your](tava)
 
 ## mukta-m0-p37-v915
-[devikā](devikā)
+[devika](devikā) [river](nadī) [holy](pavitratā) [flow](pravāha)
 
 ## mukta-m0-p37-v916
-[brahmādi-kādhikā](brahmādikādhikā) [devī](devī) [devikā](devikā) [deva-viśrutā](devaviśrutā)
+[brahma-first](brahmādikādhikā) [goddess](devī) [devika](devikā) [god-famous](devaviśrutā)
 
 ## mukta-m0-p37-v917
-[vetravatī](vetravatī)
+[page](p) [133](133) [vetravati](vetravatī) [river](nadī) [holy](pavitratā)
 
 ## mukta-m0-p37-v918
-[tri-vetra-dhāribhiḥ](trivetradhāribhir) [gītā](gītā) [bhavet](bhaved) [vetravatī](vetravatī) [śivā](śivā)
+[three-vetra-bearing](trivetradhāribhir) [sung](gītā) [be](bhaved) [vetravati](vetravatī) [auspicious](śivā)
 
 ## mukta-m0-p37-v919
-[vitastā](vitastā)
+[vitasta](vitastā) [river](nadī) [holy](pavitratā) [flow](pravāha)
 
 ## mukta-m0-p37-v920
-[saṃjīvayantī](saṃjīvayanty) [adbhuta-jīvanasya](adbhutajīvanasya) [dhyānāt](dhyānāt) [api](api) [iyaṃ](iyaṃ) [sukhadā](sukhadā) [vitastā](vitastā)
+[reviving](saṃjīvayanty) [wonder-life](adbhutajīvanasya) [meditation](dhyānād) [this](iyam) [bliss-giving](sukhadā) [vitasta](vitastā)
 
 ## mukta-m0-p37-v921
-[varadā](varadā)
+[varada](varadā) [river](nadī) [holy](pavitratā) [flow](pravāha)
 
 ## mukta-m0-p37-v922
-[varadā](varadā) [iti](iti) [kathaṃ](kathaṃ) [gītā](gītā) [vara-dhībhiḥ](varadhībhir) [vara-īśvarī](vareśvarī)
+[varada](varadā) [thus](iti) [how](kathaṃ) [sung](gītā) [boon-wise](varadhībhir) [boon-lady](vareśvarī)
 
 ## mukta-m0-p37-v923
-[naravāhanā](naravāhanā)
+[naravahana](naravāhanā) [river](nadī) [holy](pavitratā) [flow](pravāha)
 
 ## mukta-m0-p37-v924
-[naravāhana-saṃślāghyā](naravāhanasaṃślāghyā) [śriye](śriye) [astu](astu) [naravāhanā](naravāhanā)
+[naravahana-praised](naravāhanasaṃślāghyā) [prosperity](śriye) [be](astu) [naravahana](naravāhanā)
 
 ## mukta-m0-p37-v925
-[satī](satī)
+[sati](satī) [goddess](devī) [holy](pavitratā) [grace](anugraha) [flow](pravāha)

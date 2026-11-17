@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p38-v926
-[yā](yā) [vaḥ](vaḥ) [satī](satī) [sā](sā) [śataśo](śataśo) [dadātu](dadātu) [satīm](satīṃ) [matim](matiṃ) [kevala+nirṇaya+sthām](kevalanirṇayasthām)
+[that](yā) [your](vaḥ) [true](satī) [she](sā) [hundreds](śataśo) [give](dadātu) [true](satīṃ) [mind](matiṃ) [firm-decision](kevalanirṇayasthām)
 
 ## mukta-m0-p38-v927
-[pati+vratā](pativratā)
+[devoted-wife](pativratā)
 
 ## mukta-m0-p38-v928
-[patiḥ](patir) [vrataṃ](vrataṃ) [te](te) [asti](asti) [kimu](kimu) [tvam](tvam) [eva](eva) [patyuḥ](patyur) [vrataṃ](vrataṃ) [sakta+hṛdaḥ](saktahṛdaḥ) [sadā](sadā) [iti](iti)
+[husband-vow](pativratam) [your](te) [is](asti) [whether](kimu) [you](tvam) [eva](eva) [husband-vow](patyurvrataṃ) [attached-heart](saktahṛdaḥ) [good](sadā) [iti](iti)
 
 ## mukta-m0-p38-v929
-[sādhvī](sādhvī)
+[p.](p.) [134](134) [good-woman](sādhvī)
 
 ## mukta-m0-p38-v930
-[prāpayantī](prāpayantī) [asurān](asurān) [eṣā](eṣā) [kācit](kācit) [sādhvī](sādhvī) [matā](matā) [adbhutā](adbhutā)
+[leading](prāpayantī) [demons](asurān) [this](eṣā) [some](kācit) [good-woman](sādhvī) [esteemed](matā) [wonderful](adbhutā)
 
 ## mukta-m0-p38-v931
-[su+cakṣuḥ](sucakṣuḥ)
+[good-eye](sucakṣuḥ)
 
 ## mukta-m0-p38-v932
-[cakṣuḥ](cakṣur) [āptvā](āptvā) [paraṃ](paraṃ) [sarve](sarve) [tena](tena) [sat+cakṣuṣaḥ](saccakṣuṣaḥ) [kṛtāḥ](kṛtāḥ)
+[eye](cakṣuḥ) [having-obtained](āptvā) [supreme](paraṃ) [all](sarve) [by-that](tena) [true-eyed](saccakṣuṣaḥ) [made](kṛtāḥ)
 
 ## mukta-m0-p38-v933
-[kuṇḍa+vāsinī](kuṇḍavāsinī)
+[pot-dweller](kuṇḍavāsinī)
 
 ## mukta-m0-p38-v934
-[soṣma+tva+śāntim](soṣmatvaśāntiṃ) [kurute](kurute) [kācit](kācit) [sā](sā) [kuṇḍa+vāsinī](kuṇḍavāsinī)
+[heat-removal](soṣmatvaśāntiṃ) [does](kurute) [some](kācit) [she](sā) [pot-dweller](kuṇḍavāsinī)
 
 ## mukta-m0-p38-v935
-[eka+cakṣuḥ](ekacakṣuḥ)
+[one-eyed](ekacakṣuḥ)
 
 ## mukta-m0-p38-v936
-[yat](yat) [kṛpāyāḥ](kṛpāyāḥ) [sā](sā) [eka+cakṣuḥ](ekacakṣuḥ) [ekya+cakṣuḥ](ekyacakṣuḥ) [dadātu](dadātu) [vaḥ](vaḥ)
+[whose-compassion](yatkṛpāyāḥ) [one-eyed](saikacakṣuḥ) [one-eyed](aikyacakṣuḥ) [give](dadātu) [you](vaḥ)
 
 ## mukta-m0-p38-v937
-[sahasra+akṣī](sahasrākṣī)
+[thousand-eyed](sahasrākṣī)
 
 ## mukta-m0-p38-v938
-[tadā](tadā) [sā](sā) [api](api) [sahasra+akṣī](sahasrākṣī) [bhūtā](bhūtā) [kiṃ](kiṃ) [bhakta+vatsalā](bhaktavatsalā)
+[then](tadā) [she-too](sāpi) [thousand-eyed](sahasrākṣī) [became](bhūtā) [whether](kiṃ) [devotee-loving](bhaktavatsalā)
 
 ## mukta-m0-p38-v939
-[su+śroṇiḥ](suśroṇiḥ)
+[beautiful-hipped](suśroṇiḥ)
 
 ## mukta-m0-p38-v940
-[ūṣmāṇam](ūṣmāṇam) [āptā](āptā) [hima+tām](himatāṃ) [tadā+ādi](tadādi) [su+śroṇiḥ](suśroṇiḥ) [eṣā](eṣā) [hara](hara) [yoni+vāsam](yonivāsam)
+[heat](ūṣmāṇam) [obtained](āptā) [coldness](himatāṃ) [then](tadādi) [beautiful-hipped](suśroṇiḥ) [this](eṣā) [hara](hara) [womb-abode](yonivāsam)
 
 ## mukta-m0-p38-v941
-[bhaga+mālinī](bhagamālinī)
+[fortune-garlanded](bhagamālinī)
 
 ## mukta-m0-p38-v942
-[sā](sā) [durbhaga+tva+hati+kṛt](durbhagatvahatikṛd) [bhaga+mālinī](bhagamālinī) [naḥ](naḥ)
+[she](sā) [misfortune-destroying](durbhagatvahatikṛd) [fortune-garlanded](bhagamālinī) [us](naḥ)
 
 ## mukta-m0-p38-v943
-[senā](senā)
+[army](senā)
 
 ## mukta-m0-p38-v944
-[siddheḥ](siddher) [īśā](īśā) [bhāratī+īśā](bhāratīśā) [mateḥ+īśā](mateśā) [jñānī+īśā](jñānīśā) [vā](vā) [mānave+īśā](mānaveśā) [dhanī+īśāḥ](dhanīśāḥ)
+[perfection-lord](siddherīśā) [speech-lord](bhāratīśā) [mind-lord](mateśā) [knowledge-lord](jñānīśā) [or](vā) [human-lord](mānaveśā) [wealth-lord](dhanīśāḥ)
 
 ## mukta-m0-p38-v945
-[śreṇiḥ](śreṇiḥ)
+[row](śreṇiḥ)
 
 ## mukta-m0-p38-v946
-[tadā](tadā) [tadā](tadā) [sa](sa) [sarvaḥ](sarvo) [api](api) [sargaḥ](sargaḥ) [sarga+tva+bhāg](sargatvabhāg) [bhavet](bhavet)
+[then](tadā) [then](tadā) [he](sa) [all](sarvaḥ) [api](api) [creation](sargaḥ) [creation-portion](sargatvabhāg) [becomes](bhavet)
 
 ## mukta-m0-p38-v947
-[patākā](patākā)
+[banner](patākā)
 
 ## mukta-m0-p38-v948
-[yat](yat) [agrayānataḥ](agrayānato) [devī](devī) [patākā](patākeyaṃ) [iyaṃ](iyaṃ) [śriye](śriye) [astu](astu) [vaḥ](vaḥ)
+[whose-front](yadagrayānato) [goddess](devī) [banner](patākā) [this](eyaṃ) [prosperity](śriye) [be](astu) [you](vaḥ)
 
 ## mukta-m0-p38-v949
-[su+vyūhā](suvyūhā)
+[well-arrayed](suvyūhā)
 
 ## mukta-m0-p38-v950
-[vāhinīnām](vāhinīnāṃ) [yadā](yadā) [tuṣṭā](tuṣṭā) [su+vyūhā](suvyūhā) [syāt](syā) [na](na) [yuktitaḥ](yuktitaḥ)
+[armies](vāhinīnāṃ) [when](yadā) [pleased](tuṣṭā) [well-arrayed](suvyūhā) [be](syā) [not](na) [by-strategy](yuktitaḥ)

@@ -2,19 +2,19 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p28-v676
-[sacrifice](yajña)+[knowledge](vidyā)
+[sacrifice+knowledge](yajñavidyā)
 
 ## mukta-m0-p28-v677
-[sacrifices](yajati) [by-life-sacrifice-etc](prāṇayajñādyaiḥ) [someone](ko'pi) [skill-merit-possessor](naipuṇyapuṇyabhāk)
+[sacrifices](yajati) [by-breath-sacrifice-etc](prāṇayajñādyaiḥ) [someone](ko'pi) [skill-merit-possessor](naipuṇyapuṇyabhāk)
 
 ## mukta-m0-p28-v678
-[great](mahā)+[illusion](māyā)
+[great+illusion](mahāmāyā)
 
 ## mukta-m0-p28-v679
-[creation-etc](sṛṣṭyādi) [fashions](racayati) [this](eṣā) [great-illusion](mahāmāyā)+[thus](iti) [is-sung](gīyate)
+[creation-etc](sṛṣṭyādi) [creates](racayati) [this](eṣā) [great-illusion](mahāmāyā) [is-called](iti) [is-sung](gīyate)
 
 ## mukta-m0-p28-v680
-[veda](veda)+[mother](mātā)
+[veda+mother](vedamātā)
 
 ## mukta-m0-p28-v681
 [sent](prāhiṇod) [to-brahman](brahmaṇe) [pleased](tuṣṭā) [veda-mother](vedamātā) [triumphs](jayati) [she](asau)
@@ -23,13 +23,13 @@
 [nectar](sudhā)
 
 ## mukta-m0-p28-v683
-[obstacle-indeed](vighnameva) [immortals](amarā) [by-devotion](bhaktyā) [nectar](sudhā) [that](sā)+[let-be-tasted](asvādyatāṃ) [wise-ones](budhāḥ)
+[obstacle-indeed](vighnameva) [immortals](amarāḥ) [by-devotion](bhaktyā) [nectar](sudhā) [let-it-be-tasted](sā'svādyatāṃ) [wise-ones](budhāḥ)
 
 ## mukta-m0-p28-v684
 [steadiness](dhṛtiḥ)
 
 ## mukta-m0-p28-v685
-[of-skillful-ones](kṛtināṃ) [own](svaṃ) [having-resorted](yadāśrityā) [steadiness](dhṛtiḥ)+[is-obtained](labhyā) [how](kathaṃ) [by-unsteady-ones](calaiḥ)
+[of-skilled-ones](kṛtināṃ) [own](svaṃ) [having-resorted](yadāśrityā) [steadiness](dhṛtiḥ) [is-obtained](labhyā) [how](kathaṃ) [by-unsteady-ones](calaiḥ)
 
 ## mukta-m0-p28-v686
 [love](prītiḥ)
@@ -41,13 +41,13 @@
 [fame](prathā)
 
 ## mukta-m0-p28-v689
-[which](yā)+[to-remove](apahnotuṃ) [self-manifest](svayaṃbhātā) [fame](prathā) [accomplished](siddhā) [where](kva) [not-indeed](naiva) [she](sā)
+[to-remove](apahnotuṃ) [self-manifest](svayaṃbhātā) [fame](prathā) [accomplished](siddhā) [where](kva) [not-indeed](naiva) [she](sā)
 
 ## mukta-m0-p28-v690
-[renowned](prasiddhā)
+[well-known](prasiddhā)
 
 ## mukta-m0-p28-v691
-[by-own-single-form](nijaikavapuṣā)+[here](iha) [renowned](prasiddhā) [grant-success](siddhidāḥ)+[to-us](tu) [naḥ](naḥ)
+[by-own-single-form](nijaikavapuṣā) [here](iha) [well-known](prasiddhā) [grant-success](siddhidāstu) [to-us](naḥ)
 
 ## mukta-m0-p28-v692
 [parvati](mṛḍānī)
@@ -65,13 +65,13 @@
 [accomplished-knowledge](siddhavidyā)
 
 ## mukta-m0-p28-v697
-[universe-wonder-creation-cause](viśvavaicitryanirmāṇahetuḥ)+[triumphs](jayati) [she](sā) [supreme](parā)
+[universe-wonder-creation-cause](viśvavaicitryanirmāṇahetuḥ) [triumphs](jayati) [she](sā) [supreme](parā)
 
 ## mukta-m0-p28-v698
 [great-power](mahāśaktiḥ)
 
 ## mukta-m0-p28-v699
-[this](idaṃ) [how](kathaṃ) [great-power-attachment](mahāśaktisaktiḥ) [pashupati](paśupatiḥ)+[not](na) [if](cet)
+[this](idaṃ) [how](kathaṃ) [great-power-attachment](mahāśaktisaktiḥ) [lord-of-beasts](paśupatiḥ) [not](na) [if](cet)
 
 ## mukta-m0-p28-v700
 [earth](pṛthvī)

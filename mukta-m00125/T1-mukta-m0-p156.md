@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p156-v3876
-[minister](amātyaṃ) [counselor](mantriṇaṃ) [brahmins](viprān) [warrior](kṣatriyaṃ) [merchant-indeed](vaiśyameva) [and](ca)
+[minister](amātyaṃ) [counselor](mantriṇaṃ) [brahmins](viprān) [kshatriya](kṣatriyaṃ) [vaishya-indeed](vaiśyameva) [and](ca)
 
 ## mukta-m0-p156-v3877
-[therefore](tasmād) [king](rājā) [effort](prayatnena) [restrain](vārayed) [quickly](acireṇa) [them](tān)
+[therefore](tasmād) [king](rājā) [effort](prayatnena) [should-restrain](vārayed) [without-delay](acireṇa) [them](tān)
 
 ## mukta-m0-p156-v3878
-[king's](rājño) [victory-giving](vijayadañcāyurvṛddhidaṃ) [fruit-giving](paladaṃ) [always](sadā)
+[king's](rājño) [victory-giving](vijayadaṃ) [life-increasing](āyurvṛddhidaṃ) [fruit-giving](paladaṃ) [always](sadā)
 
 ## mukta-m0-p156-v3879
-[evil-spell-signs](ābhicārakaliṅgādyaṃ) [by-rudras](rodraiśca) [established](sthāpitañcayat)
+[abhicara-linga-etc](ābhicārakaliṅgādyaṃ) [by-rudras-and](rodraiśca) [established](sthāpitaṃ) [and](ca) [yat](yat)
 
 ## mukta-m0-p156-v3880
-[that](tat) [place](sthānaṃ) [entering](saṃpraviśyātha) [clay-vessels](mṛdbhāṇḍāṃśca) [avoid](vivarjayet)
+[that](tat) [place](sthānaṃ) [entering](saṃpraviśya) [then](atha) [clay-vessels-and](mṛdbhāṇḍāṃśca) [avoid](vivarjayet)
 
 ## mukta-m0-p156-v3881
-[wall-etc](kuḍyādyaṃ) [with-lime](sudhāyālipya) [ground](sthalaṃ) [cow-dung-water](gomayavāriṇā)
+[wall-etc](kuḍyādyaṃ) [plastering](sudhāyālipya) [ground](sthalaṃ) [cow-dung-water](gomayavāriṇā)
 
 ## mukta-m0-p156-v3882
-[purification-by-fire](paryagnikaraṇaṃ) [having-done](kṛtvā) [again](punaḥ) [auspicious-day](puṇyāha) [perform](mācaret)
+[fire-circumambulation](paryagnikaraṇaṃ) [having-done](kṛtvā) [again](punaḥ) [auspicious-day](puṇyāhaṃ) [perform](mācaret)
 
 ## mukta-m0-p156-v3883
 [plowing-etc](karṣaṇādi) [installation-end](pratiṣṭhānta) [in-rite](kriyāyāṃ) [who](ye) [placed](niveśitāḥ)
 
 ## mukta-m0-p156-v3884
-[great-net](mahājālaprayogeṇa) [all-mantras](sarvamantrāśca) [withdraw](saṃharet)
+[great-net-rite](mahājālaprayogeṇa) [all-mantras-and](sarvamantrāśca) [withdraw](saṃharet)
 
 ## mukta-m0-p156-v3885
-[those-signs-etc](talliṅgādyaṃ) [purifying](ca) [saṃśodhya] [kuśa-ash-clay-water](kuśabhasmamṛdāmbhasā)
+[that-linga-etc](talliṅgādyaṃ) [and](ca) [purifying](saṃśodhya) [kusha-ash-clay-water](kuśabhasmamṛdāmbhasā)
 
 ## mukta-m0-p156-v3886
-[astringent-water](kaṣāyodakasaṃyuktaṃ) [cow-urine](gomūtreṇodakāntaram)
+[astringent-water-mixed](kaṣāyodakasaṃyuktaṃ) [cow-urine-water-interval](gomūtreṇodakāntaram)
 
 ## mukta-m0-p156-v3887
-[linga-stationed-cloth](liṅgasthaśambare) [known](jñāte) [as-before](pūrvavanmantrasaṃhṛtiḥ)
+[linga-staying-cloth](liṅgasthaśambare) [known](jñāte) [as-before-mantra-withdrawal](pūrvavanmantrasaṃhṛtiḥ)
 
 ## mukta-m0-p156-v3888
-[for-creature-formula-purpose](jantukalpadravārthaṃ) [mantra-weapon](tu) [mantramastraṃ] [employ](niyojayet)
+[creature-creation-fluid-purpose](jantukalpadravārthaṃ) [indeed](tu) [mantra-weapon](mantramastraṃ) [employ](niyojayet)
 
 ## mukta-m0-p156-v3889
-[remembering](smaran) [extract](samuddhareddipaṃ) [that-sign-atoms](talliṅgāṇubhiranvitam)
+[remembering](smaran) [extract-lamp](samuddhareddipaṃ) [that-linga-particles-accompanied](talliṅgāṇubhiranvitam)
 
 ## mukta-m0-p156-v3890
-[again](punassaṃśoddhyataṃ) [linga](liṅgaṃ) [previous-materials](pūrvadravyai) [śśareṇa] [ca]
+[again-purify](punaḥsaṃśodhyataṃ) [linga](liṅgaṃ) [previous-substances](pūrvadravyaiḥ) [arrow-and](śśareṇa) [ca](ca)
 
 ## mukta-m0-p156-v3891
-[own-mantra-endowed](svasvamantrasamopetaṃ) [own-homa-included](svasva) [homa] [samanvitam]
+[own-mantra-accompanied](svasvamantrasamopetaṃ) [own-homa-accompanied](svasvahomasamanvitam)
 
 ## mukta-m0-p156-v3892
-[mark-extraction](lakṣaṇoddhāraṇanneṣṭaṃ) [in-water](jalecaivādhivāsanam)
+[mark-extraction-desired](lakṣaṇoddhāraṇanneṣṭaṃ) [water-and-indeed-consecration](jalecaivādhivāsanam)
 
 ## mukta-m0-p156-v3893
-[womb-house](garbhagehetha) [that-all](tatsarvaṃ) [pavilion](maṇḍape) [or](vā) [perform](samācaret)
+[womb-house-there](garbhagehetha) [all-that](tatsarvaṃ) [pavilion-or](maṇḍape) [vā](vā) [perform](samācaret)
 
 ## mukta-m0-p156-v3894
-[self-born](svayaṃ) [bhūrdaivike] [arrow](bāṇe) [ārṣe] [gaṇādhipa](gāṇādhipe) [thus](tathā)
+[self-born](svayaṃ) [divine](bhūrdaivike) [arrow](bāṇe) [and-vedic](cārṣe) [ganadhipe](gāṇādhipe) [so](tathā)
 
 ## mukta-m0-p156-v3895
-[direction-homa](diśāhomantataḥ) [do](kuryādṛgādyaddhyanantathā)
+[direction-homa-then](diśāhomantataḥ) [do](kuryād) [rig-etc-study-and](ṛgādyaddhyanantathā)
 
 ## mukta-m0-p156-v3896
-[peace-homa](śāntihomantataḥ) [having-done](kṛtvā) [bathing](snapanaṃ) [cause-do](kārayettataḥ)
+[peace-homa-then](śāntihomantataḥ) [having-done](kṛtvā) [bathing](snapanaṃ) [cause](kārayet) [then](tataḥ)
 
 ## mukta-m0-p156-v3897
-[abundant-offering](prabhūtahaviṣaṃ) [giving](datvā) [betel](tāmbūlandāpayettataḥ)
+[abundant-offering](prabhūtahaviṣaṃ) [giving](datvā) [betel](tāmbūlaṃ) [cause-give](dāpayet) [then](tataḥ)
 
 ## mukta-m0-p156-v3898
-[mung-rice](mutgānnaṃ) [milk-pudding](pāyasaṃ) [gaulaṃ] [banana-fruit](kadalīphalasaṃyutam)
+[mung-rice](mutgānnaṃ) [milk-rice](pāyasaṃ) [gaula](gaulaṃ) [banana-fruit-accompanied](kadalīphalasaṃyutam)
 
 ## mukta-m0-p156-v3899
-[teacher](ācāryaṃ) [worship](pūjayennityaṃ) [gold-cloth-etc](svarṇavastrādibhistataḥ)
+[teacher](ācāryaṃ) [worship-always](pūjayennityaṃ) [gold-cloth-etc](svarṇavastrādibhiḥ) [then](tataḥ)
 
 ## mukta-m0-p156-v3900
-[all-limbs](sarveraṃgairviśīrṇañjet) [again](punassaṃsthāpayennavam)
+[all-limbs](sarveraṃgair) [scattered](viśīrṇaṃ) [conquer](jet) [again-establish-new](punaḥsaṃsthāpayennavam)
