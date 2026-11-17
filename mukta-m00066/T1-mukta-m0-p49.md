@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p49-v1201
-[as](yathā) [by-dharma](dharmeṇa) [stand](tiṣṭhaṃti) [kṛta-etc](kṛtādi) [in-time](samaye) [men](narāḥ)
+[pada-gloss](yathā) [pada-gloss](dharmeṇa) [pada-gloss](tiṣṭhaṃti) [pada-gloss](kṛtādi) [pada-gloss](samaye) [pada-gloss](narāḥ)
 
 ## mukta-m0-p49-v1202
-[not](navā) [impotence](klabyaṃ) [not](navādainyaṃ) [poverty](na) [not](dhairyaṃ) [courage](na) [not](ca) [and](matsaraḥ) [envy](matsaraḥ)
+[pada-gloss](navā) [pada-gloss](klabyaṃ) [pada-gloss](navādainyaṃ) [pada-gloss](na) [pada-gloss](dhairyaṃ) [pada-gloss](na) [pada-gloss](ca) [pada-gloss](matsaraḥ)
 
 ## mukta-m0-p49-v1203
-[these-too](etepi) [faults](doṣā) [not](na) [in-kṛta](kṛte) [merit-mass](puṇyarāśiḥ) [increases](pravarddhate)
+[pada-gloss](etepi) [pada-gloss](doṣā) [pada-gloss](na) [pada-gloss](kṛte) [pada-gloss](puṇyarāśiḥ) [pada-gloss](pravarddhate)
 
 ## mukta-m0-p49-v1204
-[there-only-inner-self](tatrakevalamadhyātma) [for-thought](ciṃtārthaṃ) [in-own-powers](svasvaśaktiṣu)
+[pada-gloss](tatrakevalamadhyātma) [pada-gloss](ciṃtārthaṃ) [pada-gloss](svasvaśaktiṣu)
 
 ## mukta-m0-p49-v1205
-[then](tadā) [of-animals](paśūnāṃ) [exclusion-removal-devoid](vyāvṛttirūhāpohavivarjjitā)
+[pada-gloss](tadā) [pada-gloss](paśūnāṃ) [pada-gloss](vyāvṛttirūhāpohavivarjjitā)
 
 ## mukta-m0-p49-v1206
-[in-that-kṛta-time](tasminkṛtādisamaye) [what-in-own](yannije) [in-mind](cetase) [situated](sthitam)
+[pada-gloss](tasminkṛtādisamaye) [pada-gloss](yannije) [pada-gloss](cetase) [pada-gloss](sthitam)
 
 ## mukta-m0-p49-v1207
-[therefore](ata) [indeed](eva) [conduct-of-three](samācārastisṝṇāmapi) [also](pārvati) [O-Pārvatī](pārvati)
+[pada-gloss](ata) [pada-gloss](eva) [pada-gloss](samācārastisṝṇāmapi) [pada-gloss](pārvati)
 
 ## mukta-m0-p49-v1208
-[uncovered](anāvṛtāḥ) [women](striyaḥ) [all](sarvāḥ) [then-were](tadāsan) [free-conduct](svairavṛttayaḥ)
+[pada-gloss](anāvṛtāḥ) [pada-gloss](striyaḥ) [pada-gloss](sarvāḥ) [pada-gloss](tadāsan) [pada-gloss](svairavṛttayaḥ)
 
 ## mukta-m0-p49-v1209
-[when](yadā) [sometime](kadācit) [for-merit](puṇyārthamapatyārthaṃ) [for-offspring](pravarttate) [proceeds](pravarttate)
+[pada-gloss](yadā) [pada-gloss](kadācit) [pada-gloss](puṇyārthamapatyārthaṃ) [pada-gloss](pravarttate)
 
 ## mukta-m0-p49-v1210
-[there-offspring](tatrāpatyaṃ) [having-produced](samutpādya) [own-desire](nijavāṃchāṃ) [fulfilling](prapūrayan)
+[pada-gloss](tatrāpatyaṃ) [pada-gloss](samutpādya) [pada-gloss](nijavāṃchāṃ) [pada-gloss](prapūrayan)
 
 ## mukta-m0-p49-v1211
-[enjoyed](upabhuktāmaye) [whom](yaṃ) [woman](stritya) [pride](abhimāno) [not](na) [anyone](kaścana)
+[pada-gloss](upabhuktāmaye) [pada-gloss](yaṃ) [pada-gloss](stritya) [pada-gloss](abhimāno) [pada-gloss](na) [pada-gloss](kaścana)
 
 ## mukta-m0-p49-v1212
-[all-caste](samastajāti) [by-equality](sāmyena) [then](tadā) [all](sarve) [stood-men](sthitānarāḥ)
+[pada-gloss](samastajāti) [pada-gloss](sāmyena) [pada-gloss](tadā) [pada-gloss](sarve) [pada-gloss](sthitānarāḥ)
 
 ## mukta-m0-p49-v1213
-[in-forest](araṇyorvyāmivoddīptau) [blazing](rāgadveṣa) [desire-hatred](hutāśanau) [fires](hutāśanau)
+[pada-gloss](araṇyorvyāmivoddīptau) [pada-gloss](rāgadveṣa) [pada-gloss](hutāśanau)
 
 ## mukta-m0-p49-v1214
-[which](yat) [in-all](samasteṣu) [in-mortals](martyeṣu) [from-nature](svabhāvādupajāyate) [arises](svabhāvādupajāyate)
+[pada-gloss](yat) [pada-gloss](samasteṣu) [pada-gloss](martyeṣu) [pada-gloss](svabhāvādupajāyate)
 
 ## mukta-m0-p49-v1215
-[desire-hatred](rāgadveṣa) [great-forest-fire](mahādāvadahyamāna) [burning](itastataḥ) [hither-thither](itastataḥ)
+[pada-gloss](rāgadveṣa) [pada-gloss](mahādāvadahyamāna) [pada-gloss](itastataḥ)
 
 ## mukta-m0-p49-v1216
-[in-dvāpara-beginning](dvāparādyeṣu) [in-times](kāleṣu) [desire-hatred](rāgadveṣa) [intensified](vimūrchitaḥ)
+[pada-gloss](dvāparādyeṣu) [pada-gloss](kāleṣu) [pada-gloss](rāgadveṣa) [pada-gloss](vimūrchitaḥ)
 
 ## mukta-m0-p49-v1217
-[my-only-all-earth](mamaivasakalābhūmi) [as-object](viṣayatvena) [let-stand](tiṣṭhatu)
+[pada-gloss](mamaivasakalābhūmi) [pada-gloss](viṣayatvena) [pada-gloss](tiṣṭhatu)
 
 ## mukta-m0-p49-v1218
-[my-only](mamaiva) [all-women](sakalānārīrati) [in-pleasure-act](karmaṇi) [let-stand](tiṣṭhatu)
+[pada-gloss](mamaiva) [pada-gloss](sakalānārīrati) [pada-gloss](karmaṇi) [pada-gloss](tiṣṭhatu)
 
 ## mukta-m0-p49-v1219
-[therefore](ato'sya) [his](śāsanaṃ) [rule](kāryameṣaduṣṭo) [to-be-done](nihanyatām) [this-wicked](nihanyatām) [let-be-killed](nihanyatām)
+[pada-gloss](ato'sya) [pada-gloss](śāsanaṃ) [pada-gloss](kāryameṣaduṣṭo) [pada-gloss](nihanyatām)
 
 ## mukta-m0-p49-v1220
-[this](imaṃ) [but](tu) [weak](durbalaṃ) [having-killed](hatvā) [enjoyments](bhogān) [I-enjoy](bhuṃje) [charming](manoharān)
+[pada-gloss](imaṃ) [pada-gloss](tu) [pada-gloss](durbalaṃ) [pada-gloss](hatvā) [pada-gloss](bhogān) [pada-gloss](bhuṃje) [pada-gloss](manoharān)
 
 ## mukta-m0-p49-v1221
-[mutual-quarrel](anyonyakalahaṃ) [having-done](kṛtvā) [mutual](paraspara) [by-crushings](vimardanaiḥ)
+[pada-gloss](anyonyakalahaṃ) [pada-gloss](kṛtvā) [pada-gloss](paraspara) [pada-gloss](vimardanaiḥ)
 
 ## mukta-m0-p49-v1222
-[no-preventer](nivārakonako'pyasti) [also-is](sarvepyuddāna) [all](buddhayaḥ) [uplifted](buddhayaḥ) [minds](buddhayaḥ)
+[pada-gloss](nivārakonako'pyasti) [pada-gloss](sarvepyuddāna) [pada-gloss](buddhayaḥ)
 
 ## mukta-m0-p49-v1223
-[not](na) [head-body](mūrdhnodeha) [pain](pīḍāṃvānātmaśṛṃgasya) [of-self-horn](moṭanam) [breaking](moṭanam)
+[pada-gloss](na) [pada-gloss](mūrdhnodeha) [pada-gloss](pīḍāṃvānātmaśṛṃgasya) [pada-gloss](moṭanam)
 
 ## mukta-m0-p49-v1224
-[by-vain-hatred](vṛthādveṣeṇa) [loss](kinnāśaṃ) [we-spend](vyayaṃyāma) [thus](iti) [dear](priye)
+[pada-gloss](vṛthādveṣeṇa) [pada-gloss](kinnāśaṃ) [pada-gloss](vyayaṃyāma) [pada-gloss](iti) [pada-gloss](priye)
 
 ## mukta-m0-p49-v1225
-[therefore](ato'nyonyasya) [of-each-other](hananamanyonyasya) [killing](ca) [of-each-other](māraṇam) [and](māraṇam) [slaying](māraṇam)
+[pada-gloss](ato'nyonyasya) [pada-gloss](hananamanyonyasya) [pada-gloss](ca) [pada-gloss](māraṇam)

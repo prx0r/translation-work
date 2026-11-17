@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p50-v1226
-[three-desire-having](triklabāśayāḥ)
+[tri-klaba-asayah](triklabāśayāḥ)
 
 ## mukta-m0-p50-v1227
-[varṇa-āśrama](varṇāśrama) [vyavasthām](vyavasthāṃ) [ca](ca) [niyamān](niyamāṃśca) [śarīriṇām](śarīriṇām)
+[varna-ashrama-vyavastham](varṇāśrama) [ca](ca) [niyaman](niyamāṃśca) [sharirinam](śarīriṇām)
 
 ## mukta-m0-p50-v1228
-[dharma-śāstraiḥ](dharmaśāstraismṛtiḥ) [smṛtiḥ](smṛtiḥ) [śāstraiḥ](śāstrairācārasya) [ācārasya](ācārasya) [pravarttanam](pravarttanam)
+[dharma-shastraismritih](dharmaśāstraismṛtiḥ) [shastrair](śāstrair) [acharasya](ācārasya) [pravarttanam](pravarttanam)
 
 ## mukta-m0-p50-v1229
-[prati-varṇa-āśramam](prativarṇāśramaṃ) [ca](ca) [eva](eva) [bhinnabhinnā](bhinnabhinnā) [vyavasthitiḥ](vyavasthitiḥ)
+[prati-varnashramam](prativarṇāśramaṃ) [ca](ca) [eva](eva) [bhinna-bhinna](bhinnabhinnā) [vyavasthitiḥ](vyavasthitiḥ)
 
 ## mukta-m0-p50-v1230
-[para-dāra-prasaṅgeṣu](paradāraprasaṃgeṣu) [yathā](yathā) [varṇam](varṇaṃ) [ca](ca) [daṇḍanam](daṇḍanam)
+[para-dara-prasangeshu](paradāraprasaṃgeṣu) [yatha](yathā) [varnam](varṇaṃ) [ca](ca) [dandanam](daṇḍanam)
 
 ## mukta-m0-p50-v1231
-[yataḥ](yataḥ) [prajā-āmanodoṣa](prajāmanodoṣa) [nivṛtyai](nivṛtyaidaṇḍakalpanam) [daṇḍa-kalpanam](daṇḍakalpanam)
+[yatah](yataḥ) [praja-manodoṣa](prajāmanodoṣa) [nivṛtyai](nivṛtyaidaṇḍakalpanam) [danda-kalpanam](dvyapekṣā)
 
 ## mukta-m0-p50-v1232
-[sāma-bheda-udāna-daṇḍa-upāyāḥ](sāmabhedaudānadaṇḍaupyupāyā) [viśva-rakṣaṇe](viśvarakṣaṇe)
+[sama-bheda-udana-danda-upaya](sāmabhedaudānadaṇḍaupyupāyā) [vishva-rakshane](viśvarakṣaṇe)
 
 ## mukta-m0-p50-v1233
-[tena](tena) [eva](eva) [vyapadeśaḥ](vyapadeśo) [hi](hi) [sarvasya](sarvasya) [naya-vartmanaḥ](nayavartmanaḥ)
+[tena](tena) [eva](eva) [vyapadeshaḥ](vyapadeśo) [hi](hi) [sarvasya](sarvasya) [naya-vartmanah](nayavartmanaḥ)
 
 ## mukta-m0-p50-v1234
-[prajā-doṣasya](prajādoṣasya) [bāhulyāt](bāhulyāta) [dvi-apekṣā](dvyapekṣā) [tu](tu) [bhūyasī](bhūyasī)
+[praja-doshasya](prajādoṣasya) [bahulyata](bāhulyāta) [dvi-apeksha](dvyapekṣā) [tu](tu) [bhuyasi](bhūyasī)
 
 ## mukta-m0-p50-v1235
-[evaṃ](evaṃ) [kṛtena](kṛtena) [mārgeṇa](mārgeṇa) [maryādā](maryādā) [kalpanā-ātmanaḥ](kalpanātmanaḥ)
+[evam](evaṃ) [kṛtena](kṛtena) [margena](mārgeṇa) [maryada](maryādā) [kalpana-atmanah](kalpanātmanaḥ)
 
 ## mukta-m0-p50-v1236
-[varttante](varttaṃta) [eva](eva) [citteṣu](citteṣu) [doṣāḥ](doṣāste) [tu](tu) [hinātmaje](hinātmaje)
+[varttante](varttaṃta) [eva](eva) [citteshu](citteṣu) [dosah](doṣāste) [tu](tu) [hina-atmaje](hinātmaje)
 
 ## mukta-m0-p50-v1237
-[manu-ādi-kṛta-śāstrāṇi](manvādikṛtaśāstrāṇi) [pramāṇī-kṛtya](pramāṇīkṛtyabhūrayaḥ) [bhūrayaḥ](bhūrayaḥ)
+[manvadi-kṛta-shastrani](manvādikṛtaśāstrāṇi) [pramanikṛtya](pramāṇīkṛtya) [bhurayah](bhūrayaḥ)
 
 ## mukta-m0-p50-v1238
-[teṣām](teṣāṃ) [bhaya](bhaya) [bhaṭa-śreṇi](bhaṭaśreṇi) [dvīpa-sādhana-saṃpadām](dvīpasādhanasaṃpadām)
+[tesham](teṣāṃ) [bhaya](bhaya) [bhata-shreni](bhaṭaśreṇi) [dvipa-sadhana-sampadam](dvīpasādhanasaṃpadām)
 
 ## mukta-m0-p50-v1239
-[rāja-ādi-agocarāṇām](rājādyagocarāṇāṃ) [tu](tu) [keṣām](keṣāmapi) [api](api) [tanū-bhṛtām](tanūbhṛtām)
+[raja-adya-agocaranam](rājādyagocarāṇāṃ) [tu](tu) [kesham](keṣām) [api](api) [tanu-bhṛtam](tanūbhṛtām)
 
 ## mukta-m0-p50-v1240
-[yama-daṇḍa-ādi](yamadaṇḍādi) [śāstrāṇi](śāstrāṇya) [pramāṇī](pramāṇī) [kṛtya](kṛtyavallatām) [vallatām](vallatām)
+[yama-danda-adi](yamadaṇḍādi) [shastranya](śāstrāṇya) [pramani](pramāṇī) [kṛtya](kṛtya) [vallatam](vallatām)
 
 ## mukta-m0-p50-v1241
-[rāja-daṇḍa-bhayāt](rājadaṇḍabhayādeke) [eke](eke) [yama-daṇḍa-bhayāt](yamadaṇḍabhayātpare) [pare](pare)
+[raja-danda-bhayat](rājadaṇḍabhayādeke) [eke](eke) [yama-danda-bhayat](yamadaṇḍabhayātpare) [pare](pare)
 
 ## mukta-m0-p50-v1242
-[uttamāḥ](uttamā) [madhyamāḥ](madhyamā) [nīcāḥ](nīcāḥ) [tasmin](tasmin) [kāle](kāledha'māḥ) [dharmāḥ](dhamāḥ)
+[uttama](uttamā) [madhyama](madhyamā) [nica](nīcāḥ) [tasmin](tasmin) [kaledha](kāledha) [māḥ](māḥ) [dhamāḥ](dhamāḥ)
 
 ## mukta-m0-p50-v1243
-[teṣām](teṣāṃ) [krameṇa](krameṇa) [sarveṣām](sarveṣāṃ) [citta-doṣa-nivāraṇe](cittadoṣanivāraṇe)
+[tesham](teṣāṃ) [kramena](krameṇa) [sarvesham](sarveṣāṃ) [citta-dosha-nivarane](cittadoṣanivāraṇe)
 
 ## mukta-m0-p50-v1244
-[tatra](tatra) [sāma-upadeśasya](sāmopadeśasya) [lakṣaṇam](lakṣaṇaṃ) [saṃpracakṣmahe](saṃpracakṣmahe)
+[tatra](tatra) [sama-upadeshasya](sāmopadeśasya) [lakshanam](lakṣaṇaṃ) [sampracakshmahe](saṃpracakṣmahe)
 
 ## mukta-m0-p50-v1245
-[rāgam](rāgaṃ) [tyajati](tyajati) [sarvatra](sarvatrasvaiva) [sva-eva](svaiva) [bhāryā-avalambatām](bhāryāvalaṃbatām)
+[ragam](rāgaṃ) [tyajati](tyajati) [sarvatra](sarvatrasvaiva) [bharyavalambatam](bhāryāvalaṃbatām)
 
 ## mukta-m0-p50-v1246
-[ātmīye](ātmīye) [na](naiva) [eva](eva) [labdhena](labdhena) [vastunā](vastunā) [hṛdi-tṛptatā](hṛditṛptatā)
+[atmiye](ātmīye) [na](na) [eva](eva) [labdhena](labdhena) [vastuna](vastunā) [hṛdi-tṛptata](hṛditṛptatā)
 
 ## mukta-m0-p50-v1247
-[vidyām](vidyāṃbhajata) [bhajata](bhajata) [sācārāḥ](sācārāḥ) [śuddha-sva-ātma-vimṛṣṭaye](śuddhasvātmavimṛṣṭaye)
+[vidyam](vidyāṃ) [bhajata](bhajata) [sacharah](sācārāḥ) [shuddha-svatma-vimṛṣṭaye](śuddhasvātmavimṛṣṭaye)
 
 ## mukta-m0-p50-v1248
-[iththam](iththaṃ) [gṛhīta](gṛhīta) [dharma-arthāḥ](dharmārthā) [vimṛśyan](vimṛśyanvātmanodhiyā) [ātmanā](ātmanā) [udhiyā](udhiyā)
+[iththam](iththaṃ) [gṛhita](gṛhīta) [dharma-arthā](dharmārthā) [vimṛśyan](vimṛśyan) [atmanodhiya](ātmanodhiyā)
 
 ## mukta-m0-p50-v1249
-[tan-mūlam](tanmūlaṃ) [ca](ca) [mahā-duḥkham](mahāduḥkhaṃ) [vimṛśya](vimṛśyanyāyamasthitā) [nyāyam](nyāyam) [asthitā](asthitā)
+[tan-mulam](tanmūlaṃ) [ca](ca) [maha-duḥkham](mahāduḥkhaṃ) [vimṛśyanyayamasthita](vimṛśyanyāyamasthitā)
 
 ## mukta-m0-p50-v1250
-[bheda-upadeśa-mārgeṇa](bhedopadeśamārgeṇa) [vyādiśan](vyādiśannaramadhyamān) [nara-madhyamān](naramadhyamān)
+[bheda-upadesha-margena](bhedopadeśamārgeṇa) [vyadishan](vyādiśan) [nara-madhyaman](naramadhyamān)
