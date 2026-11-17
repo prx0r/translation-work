@@ -20,13 +20,13 @@
 [to-be-placed](sthāpanīyāni) [with-effort](yatnena) [if](yadi) [one-desires](icchet) [accomplishment](siddhim) [of-oneself](ātmanaḥ)
 
 ## mukta-m0-p44-v1082
-[of-yoginīs](yoginīnāṃ) [in-worship](samarcāyāṃ) [fifty+couple+worship](pañcāśanmithunārcane)
+[of-yoginīs](yoginīnāṃ) [in-worship](samarcāyāṃ) [in-fifty+couples+worship](pañcāśanmithunārcane)
 
 ## mukta-m0-p44-v1083
-[guru+circle+worship](gurumaṇḍalapūjāyāṃ) [of-lords-of-day](dineśānāṃ) [likewise](tathaiva) [and](ca)
+[in-guru+circle+worship](gurumaṇḍalapūjāyāṃ) [of-lords-of-day](dineśānāṃ) [likewise](tathaiva) [and](ca)
 
 ## mukta-m0-p44-v1084
-[syllable+herb+worship](akṣarauṣadhipūjāyāṃ) [rosary+worship](japamālāprapūjane)
+[in-syllable+herb+worship](akṣarauṣadhipūjāyāṃ) [in-rosary+worship](japamālāprapūjane)
 
 ## mukta-m0-p44-v1085
 [arghya+etc.+five+vessels](arghyādipañcapātrāṇi) [to-be-prepared](sampādyāni) [separately](pṛthak) [separately](pṛthak)
@@ -41,7 +41,7 @@
 [with-circle](vṛttena) [surrounded](veṣṭitaṃ) [outside](bāhye) [with-square](caturasreṇa) [and](ca) [indeed](eva) [indeed](hi)
 
 ## mukta-m0-p44-v1089
-[perfume+smeared](gandhalipte) [own+left+front](svavāmāgre) [one-should-place](vidadhyāt) [with-fish+gesture](matsyamudrayā)
+[in-fragrance+smeared](gandhalipte) [on-own+left+front](svavāmāgre) [one-should-place](vidadhyāt) [with-fish+gesture](matsyamudrayā)
 
 ## mukta-m0-p44-v1090
 [limbs](aṅgāni) [of-square](caturasrasya) [in-corners](koṇeṣu) [in-front](purataḥ) [likewise](tathā)
@@ -50,16 +50,16 @@
 [with-root-mantra](mūlena) [washed](kṣālitaṃ) [conch+support](śaṅkhādhāraṃ) [I-establish](saṃsthāpayāmi)
 
 ## mukta-m0-p44-v1092
-[vahnyante-maṇḍalāya](vahnyante) [maṇḍalāya](maṇḍalāya) [thus](iti) [likewise](tathā) [dharmapradā](dharmapradā) [thus](iti) [and](ca)
+[vahnyante maṇḍalāya](vahnyante) [maṇḍalāya](maṇḍalāya) [iti](iti) [likewise](tathā) [dharmapradāya](dharmapradeti) [and](ca)
 
 ## mukta-m0-p44-v1093
-[of-fire](vahneḥ) [ten](daśa) [kalās](kalāḥ) [there](tatra) [in-clockwise-order](prādakṣiṇyena) [one-should-worship](pūjayet)
+[of-fire](vahneḥ) [ten](daśa) [digits](kalāḥ) [there](tatra) [clockwise](prādakṣiṇyena) [one-should-worship](pūjayet)
 
 ## mukta-m0-p44-v1094
-[therefore](tasmād) [according-to-rule](vidhivat) [support](ādhāraṃ) [one-should-arrange](kalpayet) [O-lady-of-kula](kulanāyike)
+[from-that](tasmād) [according-to-rule](vidhivat) [support](ādhāraṃ) [one-should-arrange](kalpayet) [O-lady-of-kula](kulanāyike)
 
 ## mukta-m0-p44-v1095
-[or](athavā) [circular+form](vartulākāraṃ) [one-should-make](kuryāt) [O-goddess](devi) [charming](manoharam)
+[or](athavā) [circular+form](vartulākāraṃ) [one-should-make](kuryād) [O-goddess](devi) [charming](manoharam)
 
 ## mukta-m0-p44-v1096
 [suśrīḥ](suśrīḥ) [svarūpā](svarūpā) [kapilā](kapilā) [havyakavyavahe](havyakavyavahe) [likewise](tathā)
@@ -68,10 +68,10 @@
 [conch+measure](śaṅkhamānaṃ) [indeed](tu) [span-length](prādeśaṃ) [four+finger](caturaṃgulam) [raised](ucchritam)
 
 ## mukta-m0-p44-v1098
-[ahamarthapradāya](ahamarthapradāya) [thus](iti) [one-should-say](vadet) [twelve](dvādaśa) [thus](iti) [also](api)
+[ahamarthapradāya](ahamarthapradāya) [iti](iti) [one-should-say](vadeta) [twelve](dvādaśa) [iti](iti) [also](api)
 
 ## mukta-m0-p44-v1099
-[with-this](anena) [conch](śaṅkham) [having-worshipped](abhyarcya) [kalās](kalāḥ) [of-sun](sūryasya) [one-should-worship](pūjayet)
+[with-this](anena) [conch](śaṅkham) [having-worshipped](abhyarcya) [digits](kalāḥ) [of-sun](sūryasya) [one-should-worship](pūjayet)
 
 ## mukta-m0-p44-v1100
 [suṣumnā](suṣumnā) [bhogadā](bhogadā) [viśvā](viśvā) [bodhinī](bodhinī) [dhāriṇī](dhāriṇī) [kṣamā](kṣamā)
