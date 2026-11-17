@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p17-v401
-[which](yāṃ) [without](vināpi) [of-this](nayasyāsya) [distinctness](vailakṣaṇyaṃ) [not](na) [arises](jāyate)
+[which](yāṃ) [without](vinā) [also](api) [of-system](nayasya) [of-this](asya) [difference](vailakṣaṇyaṃ) [not](na) [arises](jāyate)
 
 ## mukta-m0-p17-v402
-[on-lip](lipau) [to-cast](pātayituṃ) [by-power](śaktyā) [not](na) [properly-speaks](samyagvadate) [a-little](manāk)
+[lip](lipau) [to-drop](pātayituṃ) [by-power](śaktyā) [not](na) [properly-speaks](samyagvadate) [a-little](manāk)
 
 ## mukta-m0-p17-v403
-[from-direct-experience](pratyakṣānubhavādasyā) [difference-grasping](bhedagrāso) [indeed](hi) [carefully](yatnataḥ)
+[from-direct-experience](pratyakṣānubhavād) [of-her](asyā) [grasping-difference](bhedagrāsaḥ) [indeed](hi) [carefully](yatnataḥ)
 
 ## mukta-m0-p17-v404
-[from-sign](apaṭāṭaṅkasaṅketāt) [from-body-form](kāyasaṃsthānataḥ) [established](sthitā)
+[from-sign-of-fearlessness](apaṭāṭaṅkasaṅketāt) [from-bodily-form](kāyasaṃsthānataḥ) [established](sthitā)
 
 ## mukta-m0-p17-v405
-[from-skull-experience](karaṅkānubhavātmatvāt) [first](prathamaṃ) [with-skull](sākaraṃkiṇī)
+[from-skull-experience-selfhood](karaṅkānubhavātmatvāt) [first](prathamaṃ) [with-skull-bells](sākaraṃkiṇī)
 
 ## mukta-m0-p17-v406
-[from-anger](saṃrabhāt) [angry-form](krodhinīrūpamasāvāśritya) [abides](vartate)
+[from-anger](saṃrabhāt) [wrathful-form](krodhinīrūpam) [having-resorted](āśritya) [exists](vartate)
 
 ## mukta-m0-p17-v407
-[as-appropriate](yathāyathaṃ) [from-gathering](sambharaṇād) [bhairavi](bhairavīti) [is-called](prakīrtitā)
+[as-appropriate](yathāyathaṃ) [from-gathering](sambharaṇāt) [Bhairavi](bhairavī) [thus](iti) [proclaimed](prakīrtitā)
 
 ## mukta-m0-p17-v408
-[from-great-dissolution-form](mahāvilayarūpatvāllelihāneti) [is-said](kathyate)
+[from-great-dissolution-form](mahāvilayarūpatvāt) [Lelihana](lelihānā) [thus](iti) [said](kathyate)
 
 ## mukta-m0-p17-v409
-[from-uncovered-form](nirāvaraṇarūpatvāt) [sky-goer-form](khecarīrūpamāsthitā)
+[from-unveiled-form](nirāvaraṇarūpatvāt) [Khechari-form](khecarīrūpam) [established](āsthitā)
 
 ## mukta-m0-p17-v410
-[having-satisfied](tarpayitvā) [whole-world](jagatkṛtsnaṃ) [from-own-abode](nijasaṃsthānataḥ) [established](sthitā)
+[having-satiated](tarpayitvā) [whole-world](jagatkṛtsnaṃ) [from-own-form](nijasaṃsthānataḥ) [established](sthitā)
 
 ## mukta-m0-p17-v411
-[from-word-self-form](vācakātmasvarūpāntaradhyastaṃ) [mantra-form](mantrarūpataḥ)
+[spoken-self-form-other-superimposed](vācakātmasvarūpāntaradhyastaṃ) [mantra-form](mantrarūpataḥ)
 
 ## mukta-m0-p17-v412
-[vowel-less-speech](avarṇamayavāk) [kalpa](kalpa) [as](kāratayā) [established](sthitaḥ)
+[letterless-speech](avarṇamayavāk) [kalpa](kalpa) [by-doing](kāratayā) [established](sthitaḥ)
 
 ## mukta-m0-p17-v413
-[own-form-stamp](nijasvarūpaṭaṅkāntapañcamudrātmakaṃ) [world](jagat)
+[own-form-stamp-end-five-seals](nijasvarūpaṭaṅkāntapañcamudrātmakaṃ) [world](jagat)
 
 ## mukta-m0-p17-v414
-[difference-expansion-cessation](bhedaprapañcopaśamaḥ) [limit](parāmarśāntakoṭigaḥ)
+[difference-manifestation-cessation](bhedaprapañcopaśamaḥ) [reflection-end-limit](parāmarśāntakoṭiḥ)
 
 ## mukta-m0-p17-v415
-[in-effortless-form](nirīharūpe) [rest](viśrāntiḥ) [supreme-rest-mark](paraviśrāntilakṣaṇe)
+[in-effortless-form](nirīharūpe) [rest](viśrāntiḥ) [supreme-rest-marked](paraviśrāntilakṣaṇe)
 
 ## mukta-m0-p17-v416
-[uncoveredness](nirāvaraṇatā) [because](yasmāt) [established](sthitā) [there](tatrāpi) [in-reality](vastutaḥ)
+[unveiledness](nirāvaraṇatā) [because](yasmāt) [established](sthitā) [there-too](tatrāpi) [in-reality](vastutaḥ)
 
 ## mukta-m0-p17-v417
-[not-also](nacāpi) [not](na) [established](sthitau) [because](yasmāt) [on-path-of-experience](pratītipathi) [abides](vartate)
+[not-also](nacāpi) [not](na) [in-establishment](sthitau) [because](yasmāt) [path-of-cognition](pratītipathi) [exists](vartate)
 
 ## mukta-m0-p17-v418
-[self-experience-accomplished](svasaṃvedanasaṃsiddhaṃ) [similarly](tadvadevānayorna) [what](kim)
+[self-cognition-accomplished](svasaṃvedanasaṃsiddhaṃ) [likewise-both-not-what](tadvadevānayorna kim)
 
 ## mukta-m0-p17-v419
-[hair-ball-appearance](keśoṇḍukābhāsasamaṃ) [that-uncovered](tannirāvaraṇaṃ) [again](punaḥ)
+[hair-ball-appearance-like](keśoṇḍukābhāsasamaṃ) [that-unveiled](tannirāvaraṇaṃ) [again](punaḥ)
 
 ## mukta-m0-p17-v420
-[supreme-reflection](parāmarśaḥ) [again](punaḥ) [goddess](devī) [supreme-grace-stage](parānugrahabhūmikā)
+[reflection](parāmarśaḥ) [again](punar) [goddess](devī) [supreme-grace-level](parānugrahabhūmikā)
 
 ## mukta-m0-p17-v421
-[of-these-two](anayoḥ) [equality](samatāmeti) [of-yogin](yoginaḥ) [in-reality](prati) [vastutaḥ](vastutaḥ)
+[of-these-two](anayoḥ) [equality](samatām) [attains](eti) [for-yogin](yoginaḥ prati) [in-reality](vastutaḥ)
 
 ## mukta-m0-p17-v422
-[effortless-self](nirīhātmā) [consciousness](saṃvideva) [manifests](prathate) [of-unusable](anupayoginaḥ)
+[effortless-self](nirīhātmā) [consciousness-indeed](saṃvideva) [appears](prathate) [useless](anupayoginaḥ)
 
 ## mukta-m0-p17-v423
-[together](aikadhyamanayā) [by-mode](bhaṅgyā) [manifestation](pratibhāvaṃ) [is-established](vyavasthitam)
+[together](aikadhyaṃ) [by-this](anayā) [manner](bhaṅgyā) [manifestation](pratibhāvam) [established](vyavasthitam)
 
 ## mukta-m0-p17-v424
-[transition](saṃkrāmaśca) [effortless-self](nirīhātmā) [three](trayamekatayāpyadaḥ)
+[transition](saṃkrāmaḥ) [and](ca) [effortless-self](nirīhātmā) [three](trayam) [as-one](ekatayā) [also-that](apyadaḥ)
 
 ## mukta-m0-p17-v425
-[consciousness-abode](saṃvitsaṃsthānamāśrityā) [vowel-self-born](varṇātmājo) [shines](virājate)
+[consciousness-abode](saṃvitsaṃsthānam) [having-resorted](āśritya) [letter-self-born](varṇātmājaḥ) [shines](virājate)
