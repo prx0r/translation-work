@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p35-v851
-[that-chest](tadvakṣo) [tearing](dārayantaṃ) [and](ca) [flashing-disc-mace-bearing](sphuraccakragadādharam)
+[tad-vakṣaḥ](tadvakṣo) [dārayantam](dārayantaṃ) [ca](ca) [sphurat-cakra-gadā-dharam](sphuraccakragadādharam)
 
 ## mukta-m0-p35-v852
-[garland-wreathed](vanamālānvitaṃ) [should-make](kuryāt) [man-lion](narasiṃhaṃ) [world-lord](jagatprabhum)
+[vanamālā-anvitam](vanamālānvitaṃ) [kuryāt-narasiṃham](kuryānnarasiṃhaṃ) [jagat-prabhum](jagatprabhum)
 
 ## mukta-m0-p35-v853
-[matted-haired](jaṭilaṃ) [water-pot-equipped](kuṇḍikāyuktaṃ) [fair](gauraṃ) [dark-red-eyed](śyāmāruṇekṣaṇam)
+[jaṭilam](jaṭilaṃ) [kuṇḍikā-yuktam](kuṇḍikāyuktaṃ) [gauram](gauraṃ) [śyāma-aruṇa-īkṣaṇam](śyāmāruṇekṣaṇam)
 
 ## mukta-m0-p35-v854
-[left-foot-trodden-world](vāmāṅghryākrāntaviśvaṃ) [and](ca) [that-form](tadbhedaṃ) [but](tu) [trivikrama](trivikramam)
+[vāma-aṅghri-ākrānta-viśvam](vāmāṅghryākrāntaviśvaṃ) [ca](ca) [tat-bhedam](tadbhedaṃ) [tu](tu) [trivikramam](trivikramam)
 
 ## mukta-m0-p35-v855
-[dark-colored](śyāmavarṇo) [broad-chested](bṛhadvakṣo) [rama](rāmaḥ) [kshatriya-ender](kṣatrāntakārakaḥ)
+[śyāma-varṇaḥ](śyāmavarṇo) [bṛhat-vakṣaḥ](bṛhadvakṣo) [rāmaḥ](rāmaḥ) [kṣatra-anta-kārakaḥ](kṣatrāntakārakaḥ)
 
 ## mukta-m0-p35-v856
-[matted](jaṭī) [bow-arrow-handed](cāpeṣuhastaḥ) [and](ca) [rama](rāmaḥ) [to-be-made](kāryo) [ten-headed-seizer](daśāsyahṛt)
+[jaṭī](jaṭī) [cāpa-iṣu-hastaḥ-ca](cāpeṣuhastaśca) [rāmaḥ](rāmaḥ) [kāryaḥ](kāryo) [daśāsya-hṛt](daśāsyahṛt)
 
 ## mukta-m0-p35-v857
-[mace-plow-bearer](gadālāṅgaladhārī) [and](ca) [rama](rāmaḥ) [kamsa-ender](kaṃsāntakārakaḥ)
+[gadā-lāṅgala-dhārī](gadālāṅgaladhārī) [ca](ca) [rāmaḥ](rāmaḥ) [kaṃsa-anta-kārakaḥ](kaṃsāntakārakaḥ)
 
 ## mukta-m0-p35-v858
-[upward-lotus-seated](ūrdhvapadmasthito) [buddha](buddho) [boon-fear-acting](varadābhayakārakaḥ)
+[ūrdhva-padma-sthitaḥ](ūrdhvapadmasthito) [buddhaḥ](buddho) [vara-dā-abhaya-kārakaḥ](varadābhayakārakaḥ)
 
 ## mukta-m0-p35-v859
-[fair](gauro) [horse-seated](vājisthitaḥ) [sword-bearer](khaḍgī) [sometimes](kvacit) [tawny-eyed](piṅgalalocanaḥ)
+[gauraḥ](gauro) [vāji-sthitaḥ](vājisthitaḥ) [khaḍgī](khaḍgī) [kvacit-piṅgala-locanaḥ](kvacitpiṅgalalocanaḥ)
 
 ## mukta-m0-p35-v860
-[rama](rāmo) [rama](rāmaś) [and](ca) [rama](rāmaś) [and](ca) [buddha](buddhaḥ) [kalki](kalkī) [and](ca) [those](te) [ten](daśa)
+[rāmaḥ](rāmo) [rāmaḥ-ca](rāmaśca) [rāmaḥ-ca](rāmaśca) [buddhaḥ](buddhaḥ) [kalkī](kalkī) [ca](ca) [te](te) [daśa](daśa)
 
 ## mukta-m0-p35-v861
-[up-down](ūrdhvādhaḥ) [hands](karayoḥ) [conch-lotus](śaṅkhapadme) [right-side](dakṣiṇato) [opinion](mate)
+[ūrdhva-adhaḥ](ūrdhvādhaḥ) [karayoḥ](karayoḥ) [śaṅkha-padme](śaṅkhapadme) [dakṣiṇataḥ](dakṣiṇato) [mate](mate)
 
 ## mukta-m0-p35-v862
-[blazing-fire-like](jvaladagnisamākāraṃ) [should-make](kuryāt) [kesava-form](keśavarūpakam)
+[jvalat-agni-samākāram](jvaladagnisamākāraṃ) [kuryāt-keśava-rūpakam](kuryātkeśavarūpakam)
 
 ## mukta-m0-p35-v863
-[left-two](vāmayoś) [and](ca) [mace-disc](gadācakre) [blue](nīlaṃ) [narayana](nārāyaṇaṃ) [body](vapuḥ)
+[vāmayoḥ-ca](vāmayośca) [gadā-cakre](gadācakre) [nīlam](nīlaṃ) [nārāyaṇam](nārāyaṇaṃ) [vapuḥ](vapuḥ)
 
 ## mukta-m0-p35-v864
-[right-two](savyayoḥ) [conch-lotus](kambupadme) [and](ca) [madhava](mādhave) [gold-like](rukmasannibhe)
+[savyayoḥ](savyayoḥ) [kambu-padme](kambupadme) [ca](ca) [mādhave](mādhave) [rukma-sannibhe](rukmasannibhe)
 
 ## mukta-m0-p35-v865
-[up-down-lotus](ūrdhvādhobjaṃ) [and](ca) [conch](śaṅkhaṃ) [and](ca) [govinda](govinde) [tawny-bodied](piṅgalātmake)
+[ūrdhva-adhaḥ-ubjam](ūrdhvādhobjaṃ) [ca](ca) [śaṅkham](śaṅkhaṃ) [ca](ca) [govinde](govinde) [piṅgala-ātmake](piṅgalātmake)
 
 ## mukta-m0-p35-v866
-[left-right](vāmadakṣiṇayoḥ) [should-make](kuryāt) [white](site) [vishnu](viṣṇau) [sometimes](kvacin) [opinion](mate)
+[vāma-dakṣiṇayoḥ](vāmadakṣiṇayoḥ) [kuryāt-site](kuryātsite) [viṣṇau](viṣṇau) [kvacit-mate](kvacinmate)
 
 ## mukta-m0-p35-v867
-[left-two](vāmayoś) [and](ca) [mace-lotus](gadāpadme) [moon-like](candrābhe) [madhusudana](madhusūdane)
+[vāmayoḥ-ca](vāmayośca) [gadā-padme](gadāpadme) [candrābhe](candrābhe) [madhusūdane](madhusūdane)
 
 ## mukta-m0-p35-v868
-[disc-up](cakramūrdhvam) [below](adhaḥ) [conch](śaṅkhaṃ) [fair](gaure) [former-trivikrama](pūrvatrivikrame)
+[cakra-mūrdhvam-adhaḥ](cakramūrdhvamadhaḥ) [śaṅkham](śaṅkhaṃ) [gaure](gaure) [pūrva-trivikrame](pūrvatrivikrame)
 
 ## mukta-m0-p35-v869
-[mace-lotus](gadābje) [remaining-two](śeṣayoḥ) [yellow](pīte) [vamana](vāmane) [former-form](pūrvarūpake)
+[gadā-abje](gadābje) [śeṣayoḥ](śeṣayoḥ) [pīte](pīte) [vāmane](vāmane) [pūrva-rūpake](pūrvarūpake)
 
 ## mukta-m0-p35-v870
-[mace-conch](gadāśaṅkhaṃ) [thus](tathā) [left](vāme) [shridhara](śrīdhare) [coral-like](vidrumopame)
+[gadā-śaṅkham](gadāśaṅkhaṃ) [tathā](tathā) [vāme](vāme) [śrīdhare](śrīdhare) [vidruma-upame](vidrumopame)
 
 ## mukta-m0-p35-v871
-[gold-like](suvarṇābhe) [hrishikesha](hṛṣīkeśe) [hands](pāṇyoḥ) [right-left](savyāpasavyayoḥ)
+[suvarṇa-ābhe](suvarṇābhe) [hṛṣīkeśe](hṛṣīkeśe) [pāṇyoḥ](pāṇyoḥ) [savya-apasavyayoḥ](savyāpasavyayoḥ)
 
 ## mukta-m0-p35-v872
-[mace-below](gadādhaḥ) [disc-above](cakramūrdhvaṃ) [and](ca) [padmanabha](padmanābhe) [white-radiant](sitaprabhe)
+[gadā-adhaḥ-cakram-ūrdhvam](gadādhaścakramūrdhvaṃ) [ca](ca) [padmanābhe](padmanābhe) [sita-prabhe](sitaprabhe)
 
 ## mukta-m0-p35-v873
-[right](dakṣiṇe) [and](ca) [left](uttare) [hand](haste) [god](deve) [damodara](dāmodare) [red](aruṇe)
+[dakṣiṇe](dakṣiṇe) [ca-uttare](cottare) [haste](haste) [deve](deve) [dāmodare-aruṇe](dāmodare'ruṇe)
 
 ## mukta-m0-p35-v874
-[from-pradyumna](pradyumnāt) [and](ca) [from-aniruddha](aniruddhāt) [and](ca) [to-be-known](vijñātavyāḥ) [three-three](trayastrayaḥ)
+[pradyumnāt-ca-aniruddhāt-ca](pradyumnāccāniruddhācca) [vijñātavyāḥ-trayaḥ-trayaḥ](vijñātavyāstrayastrayaḥ)
 
 ## mukta-m0-p35-v875
-[from-marga-to-kartika](mārgādikārtikāntaṃ) [and](ca) [declared](proktā) [twelve-forms](dvādaśamūrtayaḥ)
+[mārga-ādi-kārtika-antam](mārgādikārtikāntaṃ) [ca](ca) [proktāḥ](proktā) [dvādaśa-mūrtayaḥ](dvādaśamūrtayaḥ)
