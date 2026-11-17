@@ -8,19 +8,19 @@
 "tokens": [
 {
 "surface": "dharmī",
-"quick_gloss": "dharma-possessor"
+"quick_gloss": "righteous"
 },
 {
 "surface": "carmāmbaraḥ",
-"quick_gloss": "skin-garment"
+"quick_gloss": "skin+garment"
 },
 {
 "surface": "cārurūpaḥ",
-"quick_gloss": "beautiful-form"
+"quick_gloss": "beautiful+form"
 },
 {
 "surface": "cāruvibhūṣaṇaḥ",
-"quick_gloss": "beautiful-ornament"
+"quick_gloss": "beautiful+ornamented"
 }
 ]
 },
@@ -33,19 +33,19 @@
 "tokens": [
 {
 "surface": "vaśyaḥ",
-"quick_gloss": "subdued"
+"quick_gloss": "controllable"
 },
 {
 "surface": "vaśyakaraḥ",
-"quick_gloss": "subduer"
+"quick_gloss": "controller"
 },
 {
 "surface": "bhasmaśāyī",
-"quick_gloss": "ash-sleeper"
+"quick_gloss": "ash+reclining"
 },
 {
 "surface": "bhasmavilepanaḥ",
-"quick_gloss": "ash-smeared"
+"quick_gloss": "ash+smeared"
 }
 ]
 },
@@ -58,19 +58,23 @@
 "tokens": [
 {
 "surface": "gaṇakāryaḥ",
-"quick_gloss": "attendant-of-troops"
+"quick_gloss": "troop+purpose"
 },
 {
 "surface": "kulācāraḥ",
-"quick_gloss": "family-practice"
+"quick_gloss": "family+conduct"
 },
 {
 "surface": "sarvācāraḥ",
-"quick_gloss": "all-practice"
+"quick_gloss": "all+conduct"
 },
 {
-"surface": "sakhāsamaḥ",
-"quick_gloss": "friend-equal"
+"surface": "sakhā",
+"quick_gloss": "friend"
+},
+{
+"surface": "samaḥ",
+"quick_gloss": "equal"
 }
 ]
 },
@@ -83,11 +87,19 @@
 "tokens": [
 {
 "surface": "aruṇaḥ",
-"quick_gloss": "ruddy"
+"quick_gloss": "reddish"
+},
+{
+"surface": "ca",
+"quick_gloss": "and"
 },
 {
 "surface": "ekacintyaḥ",
-"quick_gloss": "single-thought"
+"quick_gloss": "solely+thinkable"
+},
+{
+"surface": "ca",
+"quick_gloss": "and"
 },
 {
 "surface": "triśaṅkuḥ",
@@ -95,7 +107,7 @@
 },
 {
 "surface": "śaṅkudhāraṇaḥ",
-"quick_gloss": "śaṅku-bearer"
+"quick_gloss": "spike+bearing"
 }
 ]
 },
@@ -108,15 +120,15 @@
 "tokens": [
 {
 "surface": "vaiśyaḥ",
-"quick_gloss": "vaiśya"
+"quick_gloss": "merchant"
 },
 {
 "surface": "śūdraḥ",
-"quick_gloss": "śūdra"
+"quick_gloss": "servant"
 },
 {
 "surface": "kapotasthaḥ",
-"quick_gloss": "pigeon-seated"
+"quick_gloss": "dove+seated"
 },
 {
 "surface": "tvaṣṭā",
@@ -124,11 +136,11 @@
 },
 {
 "surface": "tuṣṭaḥ",
-"quick_gloss": "content"
+"quick_gloss": "satisfied"
 },
 {
 "surface": "ruṣākulaḥ",
-"quick_gloss": "anger-afflicted"
+"quick_gloss": "anger+filled"
 }
 ]
 },
@@ -141,19 +153,31 @@
 "tokens": [
 {
 "surface": "pinākī",
-"quick_gloss": "pināka-bearer"
+"quick_gloss": "trident-holder"
+},
+{
+"surface": "ca",
+"quick_gloss": "and"
 },
 {
 "surface": "aṣṭamūrtiḥ",
-"quick_gloss": "eight-formed"
+"quick_gloss": "eight+formed"
+},
+{
+"surface": "ca",
+"quick_gloss": "and"
 },
 {
 "surface": "kṣitimān",
-"quick_gloss": "earth-possessor"
+"quick_gloss": "earth-possessing"
 },
 {
 "surface": "dhṛtimān",
-"quick_gloss": "steadfast"
+"quick_gloss": "steadfastness-possessing"
+},
+{
+"surface": "tathā",
+"quick_gloss": "likewise"
 }
 ]
 },
@@ -166,7 +190,7 @@
 "tokens": [
 {
 "surface": "sūryadevaḥ",
-"quick_gloss": "sun-god"
+"quick_gloss": "sun+god"
 },
 {
 "surface": "yajamānaḥ",
@@ -178,7 +202,7 @@
 },
 {
 "surface": "parameśvaraḥ",
-"quick_gloss": "supreme-lord"
+"quick_gloss": "supreme+lord"
 }
 ]
 },
@@ -191,11 +215,15 @@
 "tokens": [
 {
 "surface": "bhavaḥ",
-"quick_gloss": "bhava"
+"quick_gloss": "existence"
 },
 {
 "surface": "śarvaḥ",
-"quick_gloss": "śarva"
+"quick_gloss": "arrow"
+},
+{
+"surface": "tathā",
+"quick_gloss": "likewise"
 },
 {
 "surface": "rudraḥ",
@@ -203,11 +231,15 @@
 },
 {
 "surface": "paśunāthaḥ",
-"quick_gloss": "lord-of-beasts"
+"quick_gloss": "beasts+lord"
+},
+{
+"surface": "ca",
+"quick_gloss": "and"
 },
 {
 "surface": "śaṅkaraḥ",
-"quick_gloss": "śaṅkara"
+"quick_gloss": "beneficent"
 }
 ]
 },
@@ -220,19 +252,23 @@
 "tokens": [
 {
 "surface": "girīśaḥ",
-"quick_gloss": "mountain-lord"
+"quick_gloss": "mountain+lord"
 },
 {
 "surface": "khaṇḍahastaḥ",
-"quick_gloss": "fragment-handed"
+"quick_gloss": "broken+sword+handed"
+},
+{
+"surface": "ca",
+"quick_gloss": "and"
 },
 {
 "surface": "mahānugraḥ",
-"quick_gloss": "great-fierce"
+"quick_gloss": "greatly+fierce"
 },
 {
 "surface": "gaṇeśvaraḥ",
-"quick_gloss": "troop-lord"
+"quick_gloss": "troop+lord"
 }
 ]
 },
@@ -245,7 +281,7 @@
 "tokens": [
 {
 "surface": "gaṇeśvaraḥ",
-"quick_gloss": "troop-lord"
+"quick_gloss": "troop+lord"
 },
 {
 "surface": "guṇī",
@@ -257,11 +293,11 @@
 },
 {
 "surface": "dharmarājaḥ",
-"quick_gloss": "dharma-king"
+"quick_gloss": "dharma+king"
 },
 {
 "surface": "durantakaḥ",
-"quick_gloss": "limitless"
+"quick_gloss": "hard+to+overcome"
 }
 ]
 },
@@ -278,15 +314,19 @@
 },
 {
 "surface": "kālarudraḥ",
-"quick_gloss": "time-rudra"
+"quick_gloss": "time+rudra"
+},
+{
+"surface": "ca",
+"quick_gloss": "and"
 },
 {
 "surface": "kālāgniḥ",
-"quick_gloss": "time-fire"
+"quick_gloss": "time+fire"
 },
 {
 "surface": "śaśiśekharaḥ",
-"quick_gloss": "moon-crested"
+"quick_gloss": "moon+crested"
 }
 ]
 },
@@ -299,15 +339,15 @@
 "tokens": [
 {
 "surface": "duḥsvapnahṛt",
-"quick_gloss": "bad-dream-remover"
+"quick_gloss": "bad+dream+remover"
 },
 {
 "surface": "prasahanaḥ",
-"quick_gloss": "overpowering"
+"quick_gloss": "forbearing"
 },
 {
 "surface": "guṇinādapratiṣṭhitaḥ",
-"quick_gloss": "quality-established"
+"quick_gloss": "virtuous+sound+established"
 }
 ]
 },
@@ -320,15 +360,15 @@
 "tokens": [
 {
 "surface": "yajñarūpaḥ",
-"quick_gloss": "sacrifice-formed"
+"quick_gloss": "sacrifice+form"
 },
 {
 "surface": "yajñamukhaḥ",
-"quick_gloss": "sacrifice-faced"
+"quick_gloss": "sacrifice+face"
 },
 {
 "surface": "yajamāneṣṭadaḥ",
-"quick_gloss": "sacrificer-desired-giver"
+"quick_gloss": "sacrificer+desire+giver"
 },
 {
 "surface": "śuciḥ",
@@ -345,15 +385,15 @@
 "tokens": [
 {
 "surface": "nāgahārī",
-"quick_gloss": "serpent-taker"
+"quick_gloss": "snake+seizer"
 },
 {
 "surface": "bhasmadhārī",
-"quick_gloss": "ash-bearer"
+"quick_gloss": "ash+wearer"
 },
 {
 "surface": "bhūtibhūṣitavigrahaḥ",
-"quick_gloss": "ash-ornamented-form"
+"quick_gloss": "ashes+adorned+body"
 }
 ]
 },
@@ -366,15 +406,15 @@
 "tokens": [
 {
 "surface": "vṛṣadhvajaḥ",
-"quick_gloss": "bull-bannered"
+"quick_gloss": "bull+bannered"
 },
 {
 "surface": "vṛṣārūḍhaḥ",
-"quick_gloss": "bull-mounted"
+"quick_gloss": "bull+mounted"
 },
 {
 "surface": "dharmavṛṣavivardhakaḥ",
-"quick_gloss": "dharma-bull-increaser"
+"quick_gloss": "dharma+bull+increaser"
 }
 ]
 },
@@ -387,19 +427,19 @@
 "tokens": [
 {
 "surface": "sahasrabāhuḥ",
-"quick_gloss": "thousand-armed"
+"quick_gloss": "thousand+armed"
 },
 {
 "surface": "sarvāṅgaḥ",
-"quick_gloss": "all-limbed"
+"quick_gloss": "all+limbed"
 },
 {
 "surface": "śaraṇyaḥ",
-"quick_gloss": "refuge-worthy"
+"quick_gloss": "refuge"
 },
 {
 "surface": "sarvalokakṛt",
-"quick_gloss": "all-world-maker"
+"quick_gloss": "all+world+maker"
 }
 ]
 },
@@ -412,11 +452,11 @@
 "tokens": [
 {
 "surface": "brahmadaṇḍavinirmātā",
-"quick_gloss": "brahmā-staff-maker"
+"quick_gloss": "brahmā+staff+creator"
 },
 {
 "surface": "śataghnīpāśaśaktimān",
-"quick_gloss": "śataghnī-noose-spear-possessor"
+"quick_gloss": "hundred+slayer+noose+power+possessing"
 }
 ]
 },
@@ -429,11 +469,11 @@
 "tokens": [
 {
 "surface": "devāsuravinirmātā",
-"quick_gloss": "god-demon-maker"
+"quick_gloss": "gods+demons+creator"
 },
 {
 "surface": "devāsuraparāyaṇaḥ",
-"quick_gloss": "god-demon-refuge"
+"quick_gloss": "gods+demons+supreme+resort"
 }
 ]
 },
@@ -446,11 +486,11 @@
 "tokens": [
 {
 "surface": "guhapriyaḥ",
-"quick_gloss": "guha-beloved"
+"quick_gloss": "guha+dear"
 },
 {
 "surface": "gaṇasevyaḥ",
-"quick_gloss": "troop-served"
+"quick_gloss": "troop+served"
 },
 {
 "surface": "pavitraḥ",
@@ -458,7 +498,7 @@
 },
 {
 "surface": "sarvapāvanaḥ",
-"quick_gloss": "all-purifier"
+"quick_gloss": "all+purifier"
 }
 ]
 },
@@ -475,11 +515,19 @@
 },
 {
 "surface": "muktitejaskaḥ",
-"quick_gloss": "liberation-radiant"
+"quick_gloss": "liberation+splendor"
 },
 {
-"surface": "bhaktānāṃparamāgatiḥ",
-"quick_gloss": "devotees-supreme-goal"
+"surface": "bhaktānāṃ",
+"quick_gloss": "of-devotees"
+},
+{
+"surface": "paramā",
+"quick_gloss": "supreme"
+},
+{
+"surface": "gatiḥ",
+"quick_gloss": "goal"
 }
 ]
 },
@@ -492,11 +540,15 @@
 "tokens": [
 {
 "surface": "kailāsagirivāsī",
-"quick_gloss": "kailāsa-mountain-dweller"
+"quick_gloss": "kailāsa+mountain+dweller"
+},
+{
+"surface": "ca",
+"quick_gloss": "and"
 },
 {
 "surface": "himavadgirisaṃśrayaḥ",
-"quick_gloss": "himavat-mountain-refuge"
+"quick_gloss": "himavat+mountain+resorting"
 }
 ]
 },
@@ -509,11 +561,11 @@
 "tokens": [
 {
 "surface": "kapardī",
-"quick_gloss": "matted-haired"
+"quick_gloss": "matted-hair"
 },
 {
 "surface": "kalpakṛt",
-"quick_gloss": "kalpa-maker"
+"quick_gloss": "kalpa+maker"
 },
 {
 "surface": "rudraḥ",
@@ -521,11 +573,11 @@
 },
 {
 "surface": "sumanāḥ",
-"quick_gloss": "good-minded"
+"quick_gloss": "good+minded"
 },
 {
 "surface": "dharmavatsalaḥ",
-"quick_gloss": "dharma-loving"
+"quick_gloss": "dharma+fond"
 }
 ]
 },
@@ -538,11 +590,11 @@
 "tokens": [
 {
 "surface": "nīlakaṇṭhaḥ",
-"quick_gloss": "blue-throated"
+"quick_gloss": "blue+throated"
 },
 {
 "surface": "dhanādhyakṣaḥ",
-"quick_gloss": "wealth-superintendent"
+"quick_gloss": "wealth+lord"
 },
 {
 "surface": "nāthaḥ",
@@ -550,7 +602,7 @@
 },
 {
 "surface": "pramathanāyakaḥ",
-"quick_gloss": "pramatha-leader"
+"quick_gloss": "pramatha+leader"
 }
 ]
 },
@@ -563,11 +615,11 @@
 "tokens": [
 {
 "surface": "senākalpaḥ",
-"quick_gloss": "army-aeon"
+"quick_gloss": "army+arranger"
 },
 {
 "surface": "mahākalpaḥ",
-"quick_gloss": "great-aeon"
+"quick_gloss": "great+kalpa"
 },
 {
 "surface": "yogaḥ",
@@ -575,7 +627,7 @@
 },
 {
 "surface": "yugakaraḥ",
-"quick_gloss": "age-maker"
+"quick_gloss": "age+maker"
 },
 {
 "surface": "hariḥ",
@@ -596,7 +648,11 @@
 },
 {
 "surface": "liṅgarūpaḥ",
-"quick_gloss": "liṅga-formed"
+"quick_gloss": "liṅga+form"
+},
+{
+"surface": "ca",
+"quick_gloss": "and"
 },
 {
 "surface": "pavitraḥ",
@@ -604,7 +660,7 @@
 },
 {
 "surface": "pāpanāśanaḥ",
-"quick_gloss": "sin-destroyer"
+"quick_gloss": "sin+destroyer"
 }
 ]
 }
