@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p67-v1651
-[alasa-tulasī-sevya-stuṣṭaḥ](alasastulasīsevyastuṣṭā) [roga-nivarhaṇaḥ](roganivarhaṇaḥ)
+[word](alasastulasīsevyastuṣṭā) [word](roganivarhaṇaḥ)
 
 ## mukta-m0-p67-v1652
-[vairāgya-daḥ](vairāgyado) [vimāna-sthaḥ](vimānastho) [ratna-kumbha-dhara-āyudhaḥ](ratnakumbhadharāyudhaḥ)
+[word](vairāgyado) [word](vimānastho) [word](ratnakumbhadharāyudhaḥ)
 
 ## mukta-m0-p67-v1653
-[ṛg-yajuḥ-sāma-rūpaḥ](ṛgyajuḥsāmarūpaśca) [ca](ca) [tvaṣṭā](tvaṣṭā) [atharvaṇa-śākhilaḥ](atharvaṇaśākhilaḥ)
+[word](ṛgyajuḥsāmarūpaśca) [word](tvaṣṭātharvaṇaśākhilaḥ)
 
 ## mukta-m0-p67-v1654
-[kalpa-vṛkṣaḥ](kalpavṛkṣaśca) [ca](ca) [mandāraḥ](mandāro) [mandāra-acala-śobhanaḥ](mandārācalaśobhanaḥ)
+[word](kalpavṛkṣaśca) [word](mandāro) [word](mandārācalaśobhanaḥ)
 
 ## mukta-m0-p67-v1655
-[santāna-kusuma-cchannaḥ](santānakusumacchannaḥ) [santāna-phala-daḥ](santānaphalado) [virāṭ](virāṭ)
+[word](santānakusumacchannaḥ) [word](santānaphalado) [word](virāṭ)
 
 ## mukta-m0-p67-v1656
-[varṣā-kālaḥ](varṣākālo) [varṣa-patiḥ](varṣapatiḥ) [śarad-ambhoja-vallabhaḥ](śaradambhojavallabhaḥ)
+[word](varṣākālo) [word](varṣapatiḥ) [word](śaradambhojavallabhaḥ)
 
 ## mukta-m0-p67-v1657
-[sumatiḥ](sumatiḥ) [sugatiḥ](sugatiḥ) [sādhuḥ](sādhurviṣṇuḥ) [viṣṇuḥ](viṣṇuḥ) [sāmbaḥ](sāmbo) [ambikā-sutaḥ](ambikāsutaḥ)
+[word](sumatiḥ) [word](sugatiḥ) [word](sādhurviṣṇuḥ) [word](sāmbo'mbikāsutaḥ)
 
 ## mukta-m0-p67-v1658
-[sumeru-śikhara-āvāsī](sumeruśikharāvāsī) [sapta-pātāla-gocaraḥ](saptapātālagocaraḥ)
+[word](sumeruśikharāvāsī) [word](saptapātālagocaraḥ)
 
 ## mukta-m0-p67-v1659
-[surathaḥ](surathaḥ) [sugata-stutyaḥ](sugatastutyo) [veṇu-vādana-tatparaḥ](veṇuvādanatatparaḥ)
+[word](surathaḥ) [word](sugatastutyo) [word](veṇuvādanatatparaḥ)
 
 ## mukta-m0-p67-v1660
-[āvedanīyaḥ](āvedanīyo) [veda-akṣaḥ](vedākṣo) [mahā-divya-vapuḥ](mahādivyavapuḥ) [surāṭ](surāṭ)
+[word](āvedanīyo) [word](vedākṣo) [word](mahādivyavapuḥ) [word](surāṭ)
 
 ## mukta-m0-p67-v1661
-[vasu-rāvartanaḥ](vasurāvartano) [nityaḥ](nityaḥ) [sarva-āmnāya-prabhuḥ](sarvāmnāyaprabhuḥ) [sudhīḥ](sudhīḥ)
+[word](vasurāvartano) [word](nityaḥ) [word](sarvāmnāyaprabhuḥ) [word](sudhīḥ)
 
 ## mukta-m0-p67-v1662
-[trikoṇa-nilayaḥ](trikoṇanilayaścetyo) [ca](ca) [ityaḥ](ityaḥ) [bindu-maṇḍala-madhyagaḥ](bindumaṇḍalamadhyagaḥ)
+[word](trikoṇanilayaścetyo) [word](bindumaṇḍalamadhyagaḥ)
 
 ## mukta-m0-p67-v1663
-[japā-kusuma-saṅkāśaḥ](japākusumasaṅkāśo) [japa-pūjā-phala-pradaḥ](japapūjāphalapradaḥ)
+[word](japākusumasaṅkāśo) [word](japapūjāphalapradaḥ)
 
 ## mukta-m0-p67-v1664
-[sarva-tattva-āśrayaḥ](sarvatattvāśrayo) [bradhnaḥ](bradhno) [vīra-vandyaḥ](vīravandyo) [vibhāvasuḥ](vibhāvasuḥ)
+[word](sarvatattvāśrayo) [word](bradhno) [word](vīravandyo) [word](vibhāvasuḥ)
 
 ## mukta-m0-p67-v1665
-[ādi-āditya-lokeśaḥ](ādirādityalokeśaḥ) [sarva-gāmī](sarvagāmī) [kalā-āśrayaḥ](kalāśrayaḥ)
+[word](ādirādityalokeśaḥ) [word](sarvagāmī) [word](kalāśrayaḥ)
 
 ## mukta-m0-p67-v1666
-[vidyādhara-īśaḥ](vidyādhareśo) [vidyeśaḥ](vidyeśo) [yakṣeśaḥ](yakṣeśo) [rakṣaṇaḥ](rakṣaṇo) [guruḥ](guruḥ)
+[word](vidyādhareśo) [word](vidyeśo) [word](yakṣeśo) [word](rakṣaṇo) [word](guruḥ)
 
 ## mukta-m0-p67-v1667
-[apsaraḥ-vanditaḥ](apsarovandito) [ajayyaḥ](ajayyo) [jetā](jetā) [daitya-nivarhaṇaḥ](daityanivarhaṇaḥ)
+[word](apsarovandito'jayyo) [word](jetā) [word](daityanivarhaṇaḥ)
 
 ## mukta-m0-p67-v1668
-[siddha-sevyaḥ](siddhasevyaḥ) [samāmnāyaḥ](samāmnāyaḥ) [sādhu-sevyaḥ](sādhusevyaḥ) [sarit-patiḥ](saritpatiḥ)
+[word](siddhasevyaḥ) [word](samāmnāyaḥ) [word](sādhusevyaḥ) [word](saritpatiḥ)
 
 ## mukta-m0-p67-v1669
-[arkaḥ](arko) [arka-kānta-ratneśaḥ](arkakāntaratneśo) [ananta-bāhuḥ](anantabāhuralopakaḥ) [alopakaḥ](alopakaḥ)
+[word](arko'rkakāntaratneśo'nantabāhuralopakaḥ)
 
 ## mukta-m0-p67-v1670
-[akāra-mātṛkā-nāthaḥ](akāramātṛkānātho) [devānām-ādiḥ](devānāmādirākṛtiḥ) [ākṛtiḥ](ākṛtiḥ)
+[word](akāramātṛkānātho) [word](devānāmādirākṛtiḥ)
 
 ## mukta-m0-p67-v1671
-[āloka-kṛt](ālokakṛt) [tathā-ādityaḥ](tathādityo) [vīra-ādityaḥ](vīrādityaḥ) [prajā-adhipaḥ](prajādhipaḥ)
+[word](ālokakṛt) [word](tathādityo) [word](vīrādityaḥ) [word](prajādhipaḥ)
 
 ## mukta-m0-p67-v1672
-[indirā-pūjitaḥ](indirāpūjitaścendurindralokāśrayastvinaḥ) [ca](ca) [induḥ](induḥ) [indra-loka-āśrayaḥ](indralokāśrayaḥ) [tu](tu) [inaḥ](inaḥ)
+[word](indirāpūjitaścendurindralokāśrayastvinaḥ)
 
 ## mukta-m0-p67-v1673
-[unnata-āsyaḥ](unnatāsyo) [api](api) [uru-vapuḥ](uruvapurunnatādricaro) [unnata-adri-caraḥ](unnatādricaro) [guruḥ](guruḥ)
+[word](unnatāsyo'pyuruvapurunnatādricaro) [word](guruḥ)
 
 ## mukta-m0-p67-v1674
-[ukāra-ākāra-sukhitaḥ](ukārākārasukhitastathoṣmā) [tathā](tathā) [ūṣmā](ūṣmā) [nidhi-rūṣaṇaḥ](nidhirūṣaṇaḥ)
+[word](ukārākārasukhitastathoṣmā) [word](nidhirūṣaṇaḥ)
 
 ## mukta-m0-p67-v1675
-[ṛṇa-hartā](ṛṇahartā) [ṝ-liha-staḥ](ṝlihasta) [ṝ-ṛbhūṣaṇa-bhūṣitaḥ](ṝṛbhūṣaṇabhūṣitaḥ)
+[word](ṛṇahartā) [word](ṝlihasta) [word](ṝṛbhūṣaṇabhūṣitaḥ)

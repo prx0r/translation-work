@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p79-v1951
-[sthāṇu-rūpaḥ](sthāṇurūpaḥ) [cara-gatiḥ](caragatiḥ) [cāru-vaktraḥ](cāruvaktro) [jayī](jayī) [nayī](nayī)
+[pillar-form](sthāṇurūpaḥ) [moving-gait](caragatiḥ) [beautiful-face](cāruvaktro) [victorious](jayī) [leader](nayī)
 
 ## mukta-m0-p79-v1952
-[lakṣmī-netra-vaśī](lakṣmīnetravaśī) [lakṣmī-hāsa-vaśyaḥ](lakṣmīhāsavaśyo) [vinartakaḥ](vinartakaḥ)
+[lakshmi-eyed](lakṣmīnetravaśī) [lakshmi-smile-subject](lakṣmīhāsavaśyo) [dancer](vinartakaḥ)
 
 ## mukta-m0-p79-v1953
-[vāsavaḥ](vāsavo) [gopya-mārga-iṣṭaḥ](gopyamārgeṣṭo) [vaiṣṇava-ācāra-tatparaḥ](vaiṣṇavācāratatparaḥ)
+[indra-like](vāsavo) [hidden-path-desired](gopyamārgeṣṭo) [vaishnava-conduct-devoted](vaiṣṇavācāratatparaḥ)
 
 ## mukta-m0-p79-v1954
-[satyaḥ](satyaḥ) [stutyaḥ](stutyaḥ) [śuciḥ](śucirnityo) [nitya-ātmā](nityātmā) [nitya-darśanaḥ](nityadarśanaḥ)
+[true](satyaḥ) [praiseworthy](stutyaḥ) [pure](śucirnityo) [eternal-self](nityātmā) [eternal-vision](nityadarśanaḥ)
 
 ## mukta-m0-p79-v1955
-[pañcama-svara-saṅgītaḥ](pañcamasvarasaṅgītaḥ) [kīrti-daḥ](kīrtido) [mohana-aśanaḥ](mohanāśanaḥ)
+[fifth-note-singer](pañcamasvarasaṅgītaḥ) [fame-giver](kīrtido) [delusion-destroyer](mohanāśanaḥ)
 
 ## mukta-m0-p79-v1956
-[lakṣmī-yogeśvaraḥ](lakṣmīyogīśvaro) [lakṣmī-yoga-daḥ](lakṣmīyogado) [bhogināyakaḥ](bhogināyakaḥ)
+[lakshmi-yoga-lord](lakṣmīyogīśvaro) [lakshmi-yoga-giver](lakṣmīyogado) [enjoyment-leader](bhogināyakaḥ)
 
 ## mukta-m0-p79-v1957
-[acintya-mahimā](acintyamahimā) [acintya-garimā](acintyagarimā) [ghora-nisvanaḥ](ghoranisvanaḥ)
+[unthinkable-glory](acintyamahimā) [unthinkable-weight](acintyagarimā) [terrible-sound](ghoranisvanaḥ)
 
 ## mukta-m0-p79-v1958
-[kāmadevaḥ](kāmadevo) [vaidya-vaidyaḥ](vaidyavaidyo) [veda-vid](vedavid) [veda-nāyakaḥ](vedanāyakaḥ)
+[love-god](kāmadevo) [physician-of-physicians](vaidyavaidyo) [veda-knower](vedavid) [veda-leader](vedanāyakaḥ)
 
 ## mukta-m0-p79-v1959
-[yājñikaḥ](yājñiko) [yamināṃ-trātā](yamināṃtrātā) [triloka-janakaḥ](trilokajanako) [ajaraḥ](ajaraḥ)
+[sacrificer](yājñiko) [ascetics-protector](yamināṃ+trātā) [three-worlds-father](trilokajanako) [ageless](ajaraḥ)
 
 ## mukta-m0-p79-v1960
-[lakṣmī-pṛthu-vasu-prītaḥ](lakṣmīpṛthurvasuprīto) [lakṣmī-śrī-daḥ](lakṣmīśrīdaḥ) [śriyaḥ-patiḥ](śriyaḥpatiḥ)
+[lakshmi-broad](lakṣmīpṛthurvasuprīto) [lakshmi-glory-giver](lakṣmīśrīdaḥ) [beauty-lord](śriyaḥpatiḥ)
 
 ## mukta-m0-p79-v1961
-[anirvartī](anirvartī) [ca](ca) [niḥsaṅgaḥ](niḥsaṅgo) [nirbhayaḥ](nirbhayo) [nirupadravaḥ](nirupadravaḥ)
+[irreversible](anirvartī) [detached](niḥsaṅgo) [fearless](nirbhayo) [untroubled](nirupadravaḥ)
 
 ## mukta-m0-p79-v1962
-[nirāśrayaḥ](nirāśrayo) [nirguṇaḥ](nirguṇaśca) [guṇa-atītaḥ](guṇātīto) [gaṇeśvaraḥ](gaṇeśvaraḥ)
+[supportless](nirāśrayo) [qualityless](nirguṇaśca) [beyond-qualities](guṇātīto) [troop-lord](gaṇeśvaraḥ)
 
 ## mukta-m0-p79-v1963
-[mahā-kratuḥ](mahākraturyajñavapurvarāho) [yajña-vapuḥ](yajñavapurvarāho) [varāhaḥ](varāho) [yajña-nāyakaḥ](yajñanāyakaḥ)
+[great-sacrifice](mahākraturyajñavapurvarāho) [sacrifice-leader](yajñanāyakaḥ)
 
 ## mukta-m0-p79-v1964
-[lakṣmī-nirañjanaḥ](lakṣmīnirañjano) [lakṣmī-siddhi-daḥ](lakṣmīsiddhidaḥ) [siddhi-vardhanaḥ](siddhivardhanaḥ)
+[lakshmi-unstained](lakṣmīnirañjano) [lakshmi-success-giver](lakṣmīsiddhidaḥ) [success-increaser](siddhivardhanaḥ)
 
 ## mukta-m0-p79-v1965
-[sarva-loka-dharaḥ](sarvalokadharo) [dāntaḥ](dānto) [danti-danta-āyudhaḥ](dantidantāyudho) [damī](damī)
+[all-worlds-bearer](sarvalokadharo) [self-controlled](dānto) [elephant-tusk-armed](dantidantāyudho) [subduer](damī)
 
 ## mukta-m0-p79-v1966
-[mahā-karmā](mahākarmā) [mahā-cīnaḥ](mahācīno) [makāra-śiva-pūjitaḥ](makāraśivapūjitaḥ)
+[great-actor](mahākarmā) [great-china](mahācīno) [ma-syllable-shiva-worshipped](makāraśivapūjitaḥ)
 
 ## mukta-m0-p79-v1967
-[māṃsa-āhārī](māṃsāhārī) [nitya-saṅgī](nityasaṅgī) [mīna-asava-rasa-ākulaḥ](mīnāsavarasākulaḥ)
+[meat-eater](māṃsāhārī) [eternal-companion](nityasaṅgī) [fish-essence-filled](mīnāsavarasākulaḥ)
 
 ## mukta-m0-p79-v1968
-[aghora-devaḥ](aghoradevo) [daitya-ariḥ](daityārirjitadevo) [jita-devaḥ](jitadevo) [divākaraḥ](divākaraḥ)
+[non-terrible-god](aghoradevo) [demon-enemy](daityārirjitadevo) [sun](divākaraḥ)
 
 ## mukta-m0-p79-v1969
-[sat-svarūpaḥ](satsvarūpo) [virūpākṣaḥ](virūpākṣo) [vibhākara-śata-prabhaḥ](vibhākaraśataprabhaḥ)
+[true-form](satsvarūpo) [odd-eyed](virūpākṣo) [radiant-sun-hundred-rays](vibhākaraśataprabhaḥ)
 
 ## mukta-m0-p79-v1970
-[pīna-bāhuḥ](pīnabāhuḥ) [sthūla-pādaḥ](sthūlapādo) [dīrgha-cakṣuḥ](dīrghacakṣuralaṃbhujaḥ) [alaṃ-bhujaḥ](alaṃbhujaḥ)
+[stout-armed](pīnabāhuḥ) [thick-footed](sthūlapādo) [long-eyed](dīrghacakṣuralaṃbhujaḥ)
 
 ## mukta-m0-p79-v1971
-[lakṣmī-sanātanaḥ](lakṣmīsanātano) [lakṣmī-dharma-adhyakṣaḥ](lakṣmīdharmādhyakṣo) [dhaneśvaraḥ](dhaneśvaraḥ)
+[lakshmi-eternal](lakṣmīsanātano) [lakshmi-dharma-overseer](lakṣmīdharmādhyakṣo) [wealth-lord](dhaneśvaraḥ)
 
 ## mukta-m0-p79-v1972
-[vīra-haḥ](vīrahaḥ) [puṇḍarīkākṣaḥ](puṇḍarīkākṣaḥ) [padma-nābhaḥ](padmanābho) [jagat-prabhuḥ](jagatprabhuḥ)
+[hero-slayer](vīrahaḥ) [lotus-eyed](puṇḍarīkākṣaḥ) [lotus-navel](padmanābho) [world-lord](jagatprabhuḥ)
 
 ## mukta-m0-p79-v1973
-[sahasra-bāhuḥ](sahasrabāhuḥ) [kṣatra-īśaḥ](kṣatreśo) [brāhmaṇaḥ](brāhmaṇo) [vaṇijāṃ-patiḥ](vaṇijāṃpatiḥ)
+[thousand-armed](sahasrabāhuḥ) [kshatriya-lord](kṣatreśo) [brahmin](brāhmaṇo) [merchants-lord](vaṇijāṃ+patiḥ)
 
 ## mukta-m0-p79-v1974
-[cakra-arcitaḥ](cakrārcito) [nakra-patiḥ](nakrapatirvaruṇaḥ) [varuṇaḥ](varuṇaḥ) [śakra-sodaraḥ](śakrasodaraḥ)
+[wheel-worshipped](cakrārcito) [crocodile-lord](nakrapatirvaruṇaḥ) [indra-brother](śakrasodaraḥ)
 
 ## mukta-m0-p79-v1975
-[amānī](amānī) [māna-daḥ](mānado) [mānyaḥ](mānyo) [mānava-indraḥ](mānavendro) [manu-uttamaḥ](manūttamaḥ)
+[not-proud](amānī) [honor-giver](mānado) [honored](mānyo) [man-lord](mānavendro) [best-manu](manūttamaḥ)

@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p90-v2226
-[lord-of-damaru](ḍāmareśo) [odd-eyed](virūpākṣo) [all-enjoyer](viśvabhoktā) [fire-god](vibhāvasuḥ)
+damara-lord odd-eyed all-enjoyer fire
 
 ## mukta-m0-p90-v2227
-[guide](vinetā) [humble](vinayī) [speaker](vādī) [vomiting](vāntado) [speech-born](vāgbhavo) [youth](vaṭuḥ)
+trainer humble disputer vomit-free speech-born brahmacarin
 
 ## mukta-m0-p90-v2228
-[enemy-of-viradha](virādheyo) [dispassionate](virāgīno) [playful](vilāsī) [eager-for-dance](lāsyalālasaḥ)
+enemy-of-viradha dispassionate playful dance-desirous
 
 ## mukta-m0-p90-v2229
-[wealthy](dhanī) [meditable](dhyeyo) [unmeditable](adhyeyaśca) [righteous](dharmyo) [full-of-dharma](dharmamayo) [compassion](dayaḥ)
+wealthy meditable unmeditable righteous dharma-filled compassionate
 
 ## mukta-m0-p90-v2230
-[eye-of-dulika](ḍulicakṣurdarīvāso) [hypocrite](dambhī) [divine-self](devamayātmakaḥ)
+cave-eyed cave-dweller hypocrite god-filled-self
 
 ## mukta-m0-p90-v2231
-[saturn](śanaiścaro) [swift-moving](vegagati) [talkative](vācālo) [rahu](rāhuravyayaḥ)
+saturn swift-moving talkative rahu imperishable
 
 ## mukta-m0-p90-v2232
-[bearing-form-of-bhaga](bhargarūpabhṛt)
+bharga-formed
 
 ## mukta-m0-p90-v2233
-[dear-to-ganesha](gajānanapriyo) [sung](gīto) [singer](gānī) [fond-of-bathing-worship](snānārcanapriyaḥ)
+ganesha-beloved sung singer bath-worship-beloved
 
 ## mukta-m0-p90-v2234
-[supreme-self](parātmako) [cosmic-garment](virāḍvāso) [monkey](vānaro) [doer-of-boundless-deeds](amitakarmakṛt)
+supreme-self virat-garmented monkey unlimited-actor
 
 ## mukta-m0-p90-v2235
-[lord-of-nandi](nandīśvaro) [leader](nayo) [serpent](nāgo) [adorned-with-serpent-ornaments](nāgālaṅkāramaṇḍitaḥ)
+nandishvara leader serpent serpent-ornamented
 
 ## mukta-m0-p90-v2236
-[three-eyed](trilocanastrilokeśastrimūrtistripurāntakaḥ)
+three-eyed three-world-lord three-formed tripura-destroyer
 
 ## mukta-m0-p90-v2237
-[addicted](vyasanī) [pleased](toṣitaḥ) [shambhu](śambhustridhārūpastrivarṇabhāk)
+addicted pleased shambhu three-stream-formed three-varna-bearing
 
 ## mukta-m0-p90-v2238
-[three-guna](tridhāguṇī) [creator-of-universe](viśvakartā) [sustainer-of-universe](viśvabhartā) [supreme-person](adhipūruṣaḥ)
+three-gunaed world-maker world-sustainer supreme-person
 
 ## mukta-m0-p90-v2239
-[discriminating-eye](vivekākṣo) [wide-eyed](viśālākṣo) [not-vidhi](avidhirvidhiranuttamaḥ)
+discriminating-eyed wide-eyed non-vidhi vidhi unsurpassed
 
 ## mukta-m0-p90-v2240
-[remembering](smṛtimān) [giver-of-memory](smṛtidaḥ) [scriptural](smārto) [brahma](brahmā) [best-of-knowers-of-brahma](brahmavidāṃvaraḥ)
+remembering memory-giver smarta brahma best-of-brahma-knowers
 
 ## mukta-m0-p90-v2241
-[moving-and-still](calācalo) [immovable-moving](acalagatirvegī) [hero-lord](vīrādhipo) [boon](varaḥ)
+moving-immovable immovable-going swift hero-lord best
 
 ## mukta-m0-p90-v2242
-[all-pervading](sarvavyāpī) [all-formed](sarvarūpaḥ) [ocean](sāgaraśca) [equal-lord](sameśvaraḥ)
+all-pervading all-formed ocean same-lord
 
 ## mukta-m0-p90-v2243
-[possessing-sarasvati](sarasvān) [truth-speaking](satyavāk) [truth](satyaḥ) [truth-formed](satyarūpaḥ) [good-intellect](sudhīḥ) [happy](sukhī)
+sarasvat possessor-of-true-speech true true-formed wise happy
 
 ## mukta-m0-p90-v2244
-[possessing-wealth](vasumān) [lord-of-earth](vasudhānātho) [wealth-formed](vasurūpo) [giver-of-wealth](vasupradaḥ)
+wealthy earth-lord wealth-formed wealth-giver
 
 ## mukta-m0-p90-v2245
-[lord](īśo) [remainder](avaśeṣo) [having-parts](avayavī) [shesha-reclining](śeṣaśāyī) [lord-of-shri](śriyaḥpatiḥ)
+lord remainder-bodied composite shesha-reclining shri-lord
 
 ## mukta-m0-p90-v2246
-[firm](sthiraḥ) [pillar](sthāṇuraṇuḥ) [minute](pīnaḥ) [fat](pīnavakṣāḥ) [beyond-beyond](parātparaḥ)
+firm pillar subtle fat broad-chested beyond-beyond
 
 ## mukta-m0-p90-v2247
-[animal-formed](paśurūpaḥ) [lord-of-beasts](paśupatiḥ) [knower-of-beasts](paśujñānī) [ocean-of-milk](payonidhiḥ)
+beast-formed beast-lord beast-knower ocean-of-milk
 
 ## mukta-m0-p90-v2248
-[trident-bearer](śūlī) [auspicious-doer](śubhaṅkaraḥ) [splendid](śobhyaḥ) [good-doer](śubhakartā) [lord-of-shachi](śacīpatiḥ)
+trident-holder auspicious-maker splendid auspicious-doer indra-lord
 
 ## mukta-m0-p90-v2249
-[four-armed](caturbhujaścāṣṭabhujaḥ) [thousand-armed-adorned](sahasrabhujamaṇḍitaḥ)
+four-armed eight-armed thousand-armed-ornamented
 
 ## mukta-m0-p90-v2250
-[god](devo) [great-ocean](mahodadhirdivyo) [divine](divyakīrtirdivākaraḥ)
+god great-ocean divine divine-famed sun-return
