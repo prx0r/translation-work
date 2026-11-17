@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p36-v876
-[not](na) [anything](kiṃcid) [even](api) [I-know](jānāmi) [lord-awaken-awaken](nāthabodhayabodhaya)
+[not](na) [anything+even](kiṃcid+api) [I-know](jānāmi) [lord+awaken+awaken](nātha+bodhaya+bodhaya)
 
 ## mukta-m0-p36-v877
-[for-this](etat) [bliss-cause](saukhyanidānāya) [well-being-sign](svastiliṃgāya) [to-śambhu](śaṃbhave)
+[this](etat) [happiness+source](saukhya+nidānāya) [auspicious+mark](svasti+liṃgāya) [to-Śambhu](śaṃbhave)
 
 ## mukta-m0-p36-v878
-[śiva-offering](śivārpaṇam) [this](idaṃ) [may-be](bhūyāt) [again](punar) [be](astu) [śiva-offering](śivārpaṇam)
+[to-Śiva+offered](śiva+arpaṇam) [this](idam) [may-be](bhūyāt) [again](punar) [may-be](astu) [to-Śiva+offered](śiva+arpaṇam)
 
 ## mukta-m0-p36-v879
-[withered](mlānā) [lotus-stalk](padmamṛṇālī) [like](iva) [garland](mālike) [of-him](asya) [chest](vakṣasi)
+[withered](mlānā) [lotus+fiber](padma+mṛṇālī) [like](va) [garland+like](mālikā+iva) [of-him](asya) [on-chest](vakṣasi)
 
 ## mukta-m0-p36-v880
-[absorbed-absorbed](līnalīnā) [letter](akṣaraṃ) [afterwards](paścāt) [slow-slow](maṃdamaṃdā) [letter](akṣaraṃ) [again](punaḥ)
+[dissolved+merged+syllable](līna+līna+akṣaraṃ) [afterwards](paścāt) [soft+soft+syllable](maṃda+maṃda+akṣaraṃ) [again](punaḥ)
 
 ## mukta-m0-p36-v881
-[thus-etc](evamādi) [qualities-messenger](guṇādūtyāḥ) [sixth-offering](ṣaḍāhuti) [great-festival](mahotsave)
+[thus+beginning+quality](evam+ādi+guṇāt) [of-messenger-woman](dūtyāḥ) [six+offering](ṣaḍ+āhuti) [in-great-festival](mahotsave)
 
 ## mukta-m0-p36-v882
-[sixth-six-tastes-endowed](ṣaṣṭhiṣaḍrasasaṃpanna) [much-food-giving](bahubhojanadāyinī)
+[sixty+six+taste+endowed](ṣaṣṭi+ṣaḍ+rasa+saṃpanna) [much+food+giving](bahu+bhojana+dāyinī)
 
 ## mukta-m0-p36-v883
-[six-limbed-deity-form](ṣaḍaṃgadevatārūpā) [by-all-liquid-makers](sarvadākriyatāṃbudhaiḥ)
+[six+limb+deity](ṣaḍ+aṃga+devatā) [form](rūpā) [always](sarvadā) [should-be-done](kriyatām) [by-wise](budhaiḥ)
 
 ## mukta-m0-p36-v884
-[of-heroine](nāyikāyāḥ) [and](ca) [opening](vidṛtyā) [comfort-rest](sukhaśrāṃtiḥ) [proceeds](pravartate)
+[of-heroine](nāyikāyāḥ) [and](ca) [of-messenger-woman](vidṛtyā) [pleasure+rest](sukha+śrāṃtiḥ) [arises](pravartate)
 
 ## mukta-m0-p36-v885
-[sugar-nectar-mixed](śarkarāmṛtasaṃmiśraṃ) [purified-soup-seasoned](śuddhiyūṣasanādhitam)
+[sugar+nectar+mixed](śarkarā+amṛta+saṃmiśraṃ) [pure+soup+accompanied](śuddhi+yūṣa+sanādhitam)
 
 ## mukta-m0-p36-v886
-[himself](svayaṃ) [that-remainder](tadavaśiṣṭaṃ) [and](ca) [let-drink](pibed) [devotion](bhakti) [bowed](bharānataḥ)
+[by-herself](svayam) [that+leftover](tat+avaśiṣṭaṃ) [and](ca) [should-drink](pibet) [devotion+fullness+bent](bhakti+bhara+ānataḥ)
 
 ## mukta-m0-p36-v887
-[mantra](maṃtraṃ) [and](ca) [of-ānandadeva](ānaṃdadevasya) [hundreds](śataśaḥ) [or](vā) [thousands](sahasraśaḥ)
+[mantra](maṃtraṃ) [and](ca) [of-Anna-deva](anaṃda+devasya) [hundreds](śataśaḥ) [or](vā) [thousands](sahasraśaḥ)
 
 ## mukta-m0-p36-v888
-[unfit-instrument](ayuktayaṃtraḥ) [let-recite](prajaped) [deity-curse](devatāśāpam) [may-obtain](āpnuyāt)
+[without-proper+method](ayukta+yaṃtraḥ) [should-mutter](prajaped) [deity+curse](devatā+śāpam) [obtains](āpnuyāt)
 
 ## mukta-m0-p36-v889
-[thus](evaṃ) [recited](japte) [supreme-bliss-form](parānaṃdarūpi) [liṅga-great-lord](liṃgamaheśvaraḥ)
+[thus](evaṃ) [when-muttered](japte) [supreme+bliss+form](para+ānaṃda+rūpi) [liṅga+great-lord](liṃga+maheśvaraḥ)
 
 ## mukta-m0-p36-v890
-[as-long-as](yāvat) [recites](japati) [hero](vīraḥ) [ayaṃ](ayaṃ) [messenger-rest](dūtiviśrāṃti) [for-cause](hetave)
+[as-long-as](yāvat) [mutters](japati) [hero+this](vīraḥ+ayam) [messenger-woman+rest](dūti+viśrāṃti) [for-sake](hetave)
 
 ## mukta-m0-p36-v891
-[thus](iththaṃ) [by-steps](krameṇa) [rest](viśrāṃtiṃ) [having-gone](gatāyāṃ) [messenger-body](dūtikātanau)
+[thus](iththaṃ) [in-order](krameṇa) [rest](viśrāṃtiṃ) [having-gone](gatāyāṃ) [messenger-woman+body](dūtikā+tanau)
 
 ## mukta-m0-p36-v892
-[moon-ray](caṃdrarekhā) [for-purpose](arthāṃ) [by-gu](gulinā) [raised](pronnatā) [moon-moonlight](caṃdracaṃdrikā)
+[moon+digit+for-sake](caṃdra+rekhā+arthāṃ) [by-finger](gulinā) [elevated](pronnatā) [moon+moonlight](caṃdra+caṃdrikā)
 
 ## mukta-m0-p36-v893
-[atasī](atasī) [flower-like](puṣpasaṃkāśā) [triangle-form](trikoṇākāratāṃ) [having-gone](gatā)
+[flax+flower+resembling](atasī+puṣpa+saṃkāśā) [triangle+form](trikoṇa+ākāratāṃ) [having-gone](gatā)
 
 ## mukta-m0-p36-v894
-[long-flowing](ciradravā) [api](api) [lord-one](nāthaika) [arranged](kluptaiḥ) [thumb](aṃguṣṭha) [kisses](cuṃbanaiḥ)
+[long-time+flowing+even](cira+dravā+api) [lord+alone](nātha+eka) [arranged](kluptaiḥ) [thumb+kisses](aṃguṣṭha+cuṃbanaiḥ)
 
 ## mukta-m0-p36-v895
-[navel-slap](nābhaucapeṭa) [fallings](patanaiḥ) [buttock](nitaṃbe) [hand-rubbings](hastamardanaiḥ)
+[on-navel](nābhau) [and](ca) [slap+fallings](apeṭa+patanair) [on-hips](nitaṃbe) [hand+rubbings](hasta+mardanaiḥ)
 
 ## mukta-m0-p36-v896
-[own-essence](nijaṃrasaṃ) [flowing-indeed](sravaṃtyeva) [heroine](nāyikā) [moon-moonlight](caṃdracaṃdrikā)
+[own](nijaṃ) [juice](rasaṃ) [flows](sravaṃti) [indeed](eva) [heroine+moon+moonlight](nāyikā+caṃdra+caṃdrikā)
 
 ## mukta-m0-p36-v897
-[peṣṭi-wine-same-delight](paiṣṭimadyasamāmodaṃ) [arrow-flower-abundant-splendor](bāṇapuṣpolbaṇadyuti)
+[flour+liquor+fragrance](paiṣṭi+madya+samāmodaṃ) [arrow+flower+intense+splendor](bāṇa+puṣpa+ulbaṇa+dyuti)
 
 ## mukta-m0-p36-v898
-[attainment-success-procreation](prāptisiddhiprajananaṃ) [all-sovereignty-named-speech](sarvaiśvaryākhyavāṅmayam)
+[attainment+power+producing](prāpti+siddhi+prajananaṃ) [all+sovereignty+called+speech](sarva+aiśvarya+ākhya+vāṅmayam)
 
 ## mukta-m0-p36-v899
-[all-disease-pacifying](samastavyādhiśamanaṃ) [light-cool-pure](laghuśītalanirmalam)
+[all+disease+soothing](samasta+vyādhi+śamanaṃ) [light+cool+clear](laghu+śītala+nirmalam)
 
 ## mukta-m0-p36-v900
-[then](tadā) [recited](japeditaṃ) [mantra](maṃtraṃ) [ca](ca) [pālāmbā-presiding-deity](palāṃbādhidaivatam)
+[then+muttered+uttered](tadā+japet+itaṃ) [mantra](maṃtraṃ) [and](ca) [Palāmbā+presiding-deity](palāṃbā+adhidaivatam)

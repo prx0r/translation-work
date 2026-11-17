@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p41-v1001
-[by-these-bliss-sacrifice-end](etairānaṃdayāgāṃta) [with-white-red-drops](śuklaśoṇitabiṃdubhiḥ)
+[with-these](etaiḥ) [bliss](ānanda)+[sacrifice](yāga)+[end](aṃta) [white](śukla)+[red](śoṇita)+[drops](biṃdubhiḥ)
 
 ## mukta-m0-p41-v1002
-[by-these-bliss-sacrifice-end](etairānaṃdayāgāṃta) [with-white-red-drops](śuklaśoṇitabiṃdubhiḥ)
+[with-these](etaiḥ) [bliss](ānanda)+[sacrifice](yāga)+[end](aṃta) [white](śukla)+[red](śoṇita)+[drops](biṃdubhiḥ)
 
 ## mukta-m0-p41-v1003
-[by-these-bliss-sacrifice-end](etairānaṃdayāgāṃta) [with-white-red-drops](śuklaśoṇita) [biṃdubhiḥ](biṃdubhiḥ)
+[with-these](etaiḥ) [bliss](ānanda)+[sacrifice](yāga)+[end](aṃta) [white](śukla)+[red](śoṇita) [drops](biṃdubhiḥ)
 
 ## mukta-m0-p41-v1004
-[satisfy-all-universe](tarpayedakhilaṃ) [viśvaṃ](viśvaṃ) [own-bliss-great-goddess](svātmānaṃdamaheśvari)
+[one-should-satisfy](tarpayet) [entire](akhilaṃ) [universe](viśvaṃ) [own-self](svātmā)+[bliss](ānaṃda) [o-great-goddess](maheśvari)
 
 ## mukta-m0-p41-v1005
-[then-messenger-desire](athatāṃdūtikāmastaceṣṭāṃ) [breath-only](niśvāsamātriṇīm)
+[then](atha) [her](tāṃ) [messenger-woman](dūtikām) [whose-activity](asta)+[ceṣṭāṃ] [breath](niśvāsa)+[measure-only](mātriṇīm)
 
 ## mukta-m0-p41-v1006
-[bliss-only-immersed](ānaṃdamātranirmagnāṃ) [ineffable-rasa](anivācye) [established](rase) [sthitām](sthitām)
+[bliss](ānaṃda)+[measure-only](mātra)+[immersed](nirmagnāṃ) [in-ineffable](anivācye) [essence](rase) [situated](sthitām)
 
 ## mukta-m0-p41-v1007
-[navel-root](nābhimūlaṃ) [thigh-root](sakthimūlaṃ) [foot-tender](padapallavakomalam)
+[navel](nābhi)+[root](mūlaṃ) [thigh](sakthi)+[root](mūlaṃ) [foot](pada)+[sprout](pallava)+[tender](komalam)
 
 ## mukta-m0-p41-v1008
-[below-shoulder](adhiskaṃdhaṃ) [falls-her](patedasyā) [making-hand-rubbing](vidhāyakaramarddanāt)
+[upon-shoulder](adhiskaṃdhaṃ) [may-fall](patet) [of-her](asyā) [by-method](vidhāya)+[hand](kara)+[pressing](marddanāt)
 
 ## mukta-m0-p41-v1009
-[especially](viśeṣāt) [love-house](smaragehasya) [around-soft-hand](paritomṛdupāṇinā)
+[especially](viśeṣāt) [of-love](smara)+[abode](gehasya) [all-around](parito) [with-soft](mṛdu)+[hand](pāṇinā)
 
 ## mukta-m0-p41-v1010
-[arise](uttiṣṭhot) [tiṣṭha](tiṣṭhakalyāṇi) [auspicious](kalyāṇi) [sacrifice-accomplished](yāgo'yaṃ) [caritārthakaḥ](caritārthakaḥ)
+[arise](uttiṣṭhot) [stand](tiṣṭha) [o-auspicious-one](kalyāṇi) [sacrifice](yāgaḥ) [this](ayaṃ) [fulfilled-in-purpose](caritārthakaḥ)
 
 ## mukta-m0-p41-v1011
-[śirīṣa-petal-heart](śirīṣadalahṛdyāni) [your-limbs](tavāṃgāni) [slender-bellied](talodari)
+[śirīṣa-flower](śirīṣa)+[petal](dala)+[tender](hṛdyāni) [your](tava) [limbs](aṃgāni) [o-slender-waisted-one](talodari)
 
 ## mukta-m0-p41-v1012
-[forgive-all](kṣamasvatāni) [sarvāṇi](sarvāṇi) [again-knowledge-obtain](bhūyo) [bodhamavāpnuyāt](bodhamavāpnuyāt)
+[may-endure](kṣamasva) [them](tāni) [all](sarvāṇi) [again](bhūyo) [awakening](bodham) [may-attain](avāpnuyāt)
 
 ## mukta-m0-p41-v1013
-[then-rising](tadutthāya) [great-embrace](mahotsaṃga) [make-instruct](maṃgī) [kurvītibodhayet](kurvītibodhayet)
+[then](tat) [having-risen](utthāya) [great-embrace](mahotsaṃga) [limb](maṃgī) [make](kurvīti) [one-should-instruct](bodhayet)
 
 ## mukta-m0-p41-v1014
-[excessive-bliss](atyānaṃdāt) [subjection](pāravaśyaṃ) [manifests-own-body](vyaṃjatī) [nijavarṣmaṇā](nijavarṣmaṇā)
+[from-excessive-bliss](atyānaṃdāt) [helplessness](pāravaśyaṃ) [manifesting](vyaṃjatī) [with-own](nija)+[body](varṣmaṇā)
 
 ## mukta-m0-p41-v1015
-[aho-bliss](ahonānaṃda) [all-self-experienced](sarvasvamanubhūtaṃ) [by-me-now](mayādhunā)
+[oh](aho) [bliss](nānaṃda) [whole-essence](sarvasvam) [experienced](anubhūtaṃ) [by-me](mayā) [now](adhunā)
 
 ## mukta-m0-p41-v1016
-[aho-liṅga-great-lord](aholiṃgamaheśasya) [satisfaction-great-sacrifice](saṃtarpaṇamahāmakhaḥ)
+[oh](aho) [of-liṅga-maheśa](liṃga)+[maheśasya] [satisfaction](saṃtarpaṇa)+[great-sacrifice](mahāmakhaḥ)
 
 ## mukta-m0-p41-v1017
-[aho-satisfied-intoxicated](ahotṛptāsmimattāsmi) [accomplished](caritārthāsmi) [abundantly](bhūyasā)
+[oh](aho) [satisfied](tṛptā) [I-am](asmi) [intoxicated](mattā) [I-am](asmi) [fulfilled-in-purpose](caritārthā) [I-am](asmi) [abundantly](bhūyasā)
 
 ## mukta-m0-p41-v1018
-[from-birth-death](ājanmamaraṇaṃ) [your-feet](tvatkaṃ) [caraṇaṃ](caraṇaṃ) [refuge-mine](śaraṇaṃ) [mama](mama)
+[from-birth](ājanma)+[to-death](maraṇaṃ) [your](tvatkaṃ) [feet](caraṇaṃ) [refuge](śaraṇaṃ) [my](mama)
 
 ## mukta-m0-p41-v1019
-[self-embrace](svayaṃ) [gṛhasamāśleṣāṃ](gṛhasamāśleṣāṃ) [māmathāpyurarīkuru](māmathāpyurarīkuru)
+[oneself](svayaṃ) [house](gṛha)+[embrace](samāśleṣāṃ) [of-love-god](māmathā) [also](api) [thighs](urarī) [make](kuru)
 
 ## mukta-m0-p41-v1020
-[self-also-embracing](svayamapyayamāśliṣya) [hero-night](vīrastāṃrajanīṃ) [leads](nayet)
+[oneself](svayam) [also](api) [this](ayam) [having-embraced](āśliṣya) [hero](vīraḥ) [that](tāṃ) [night](rajanīṃ) [should-spend](nayet)
 
 ## mukta-m0-p41-v1021
-[greatness](māhātmyaṃ) [all-than](sakalebhyo'pi) [sacrifices-than](kratubhyo'pyadhikaṃ) [fruit](phalam)
+[greatness](māhātmyaṃ) [than-all](sakalebhyaḥ) [also](api) [than-sacrifices](kratubhyaḥ) [also](api) [greater](adhikaṃ) [fruit](phalam)
 
 ## mukta-m0-p41-v1022
-[love-sacrifice](ratādhvarojīvanmuktirmahāhutiritīśvarī)
+[love](rata)+[sacrifice](adhvaraḥ) [liberation-while-living](jīvan)+[muktiḥ] [great-oblation](mahāhutiḥ) [thus](iti) [o-goddess](īśvarī)
 
 ## mukta-m0-p41-v1023
-[fruit-bound-beings](phalenibaddhabhāvānāmatyeṃdra) [pada-saṃbhavaḥ](padasaṃbhavaḥ)
+[by-fruit](phale) [bound](nibaddha)+[dispositions](bhāvānām) [beyond-Indra](atyeṃdra) [state](pada)+[attainment](saṃbhavaḥ)
 
 ## mukta-m0-p41-v1024
-[indra's-indrahood](iṃdrasyeṃdratvametena) [great-sacrifice](mahāyāgena) [beautiful](suṃdari)
+[of-Indra](indrasya) [Indra-hood](indratvam) [by-this](etena) [great-sacrifice](mahāyāgena) [o-beautiful-one](suṃdari)
 
 ## mukta-m0-p41-v1025
-[rudra's-rudra-authority](rudrasya) [rudrādhikṛtirjaleśatvaṃ](rudrādhikṛtirjaleśatvaṃ) [pracetasaḥ](pracetasaḥ)
+[of-Rudra](rudrasya) [Rudra-sovereignty](rudra)+[adhikṛtiḥ] [lordship-over-waters](jaleśatvaṃ) [of-Varuṇa](pracetasaḥ)
