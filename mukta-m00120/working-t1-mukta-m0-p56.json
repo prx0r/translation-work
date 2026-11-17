@@ -16,7 +16,7 @@
 },
 {
 "surface": "karastha",
-"quick_gloss": "in-hand"
+"quick_gloss": "hand-standing"
 },
 {
 "surface": "eva",
@@ -45,7 +45,7 @@
 },
 {
 "surface": "gahano",
-"quick_gloss": "profound"
+"quick_gloss": "deep"
 },
 {
 "surface": "yogināmapyagamyaḥ",
@@ -61,12 +61,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
+"surface": "bhaktiñca",
+"quick_gloss": "variant+bhakti+and"
+},
+{
 "surface": "bhuktiṃ",
 "quick_gloss": "enjoyment"
 },
 {
 "surface": "vrajet",
-"quick_gloss": "may-go"
+"quick_gloss": "go"
 }
 ]
 },
@@ -79,15 +83,15 @@
 "tokens": [
 {
 "surface": "gaṅgāṃ",
-"quick_gloss": "ganges"
+"quick_gloss": "Ganga"
 },
 {
 "surface": "pivāmi",
-"quick_gloss": "i-drink"
+"quick_gloss": "drink"
 },
 {
 "surface": "yamunāṃ",
-"quick_gloss": "yamuna"
+"quick_gloss": "Yamuna"
 },
 {
 "surface": "saha",
@@ -108,11 +112,11 @@
 "tokens": [
 {
 "surface": "mūrdhni",
-"quick_gloss": "on-crown"
+"quick_gloss": "on-head"
 },
 {
 "surface": "śrīnātha",
-"quick_gloss": "lord"
+"quick_gloss": "Sri-natha"
 },
 {
 "surface": "pādābjaṃ",
@@ -123,12 +127,8 @@
 "quick_gloss": "remembrance"
 },
 {
-"surface": "kimataḥ",
-"quick_gloss": "what+then"
-},
-{
-"surface": "param",
-"quick_gloss": "supreme"
+"surface": "kimataḥ param",
+"quick_gloss": "what+than+supreme"
 }
 ]
 },
@@ -140,8 +140,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "kula+strī",
-"quick_gloss": "kula-woman"
+"surface": "kula",
+"quick_gloss": "kula"
+},
+{
+"surface": "strī",
+"quick_gloss": "woman"
 },
 {
 "surface": "saṅga",
@@ -149,7 +153,7 @@
 },
 {
 "surface": "nirataḥ",
-"quick_gloss": "engaged"
+"quick_gloss": "devoted"
 },
 {
 "surface": "kulakāryaṃ",
@@ -157,7 +161,7 @@
 },
 {
 "surface": "samācaret",
-"quick_gloss": "should-perform"
+"quick_gloss": "perform"
 }
 ]
 },
@@ -182,15 +186,11 @@
 },
 {
 "surface": "syāt",
-"quick_gloss": "may-be"
+"quick_gloss": "be"
 },
 {
-"surface": "maithunaṃ",
-"quick_gloss": "intercourse"
-},
-{
-"surface": "pāpadāyakam",
-"quick_gloss": "sin-giving"
+"surface": "maithunaṃ pāpadāyakam",
+"quick_gloss": "sexual-sin+causing"
 }
 ]
 },
@@ -207,15 +207,15 @@
 },
 {
 "surface": "tasya",
-"quick_gloss": "his"
+"quick_gloss": "of-him"
 },
 {
 "surface": "naśyanti",
 "quick_gloss": "perish"
 },
 {
-"surface": "āyurvidyā+yaśo+valam",
-"quick_gloss": "life+knowledge+fame+strength"
+"surface": "āyurvidyā yaśo valam",
+"quick_gloss": "lifespan+knowledge+fame+strength"
 }
 ]
 },
@@ -232,15 +232,11 @@
 },
 {
 "surface": "pravakṣyāmi",
-"quick_gloss": "i-will-declare"
+"quick_gloss": "I-will-declare"
 },
 {
-"surface": "sarvasiddhi",
-"quick_gloss": "all-siddhi"
-},
-{
-"surface": "pradāyakam",
-"quick_gloss": "giving"
+"surface": "sarvasiddhi pradāyakam",
+"quick_gloss": "all-siddhi+giving"
 }
 ]
 },
@@ -252,28 +248,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "sarvāśā",
-"quick_gloss": "all-desires"
+"surface": "sarvāśā pūrakaṃ",
+"quick_gloss": "all-desires+fulfilling"
 },
 {
-"surface": "pūrakaṃ",
-"quick_gloss": "fulfilling"
-},
-{
-"surface": "sarva",
-"quick_gloss": "all"
-},
-{
-"surface": "mantra",
-"quick_gloss": "mantra"
-},
-{
-"surface": "doṣa",
-"quick_gloss": "fault"
-},
-{
-"surface": "vināśanam",
-"quick_gloss": "destroying"
+"surface": "sarva mantra doṣa vināśanam",
+"quick_gloss": "all+mantra+fault+destroying"
 }
 ]
 },
@@ -285,24 +265,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "abhicāra",
-"quick_gloss": "abhicara"
-},
-{
-"surface": "haraṃ",
-"quick_gloss": "removing"
+"surface": "abhicāra haraṃ",
+"quick_gloss": "sorcery+removing"
 },
 {
 "surface": "sarvaṃ",
 "quick_gloss": "all"
 },
 {
-"surface": "grahadoṣa",
-"quick_gloss": "planet-fault"
-},
-{
-"surface": "vināśanam",
-"quick_gloss": "destroying"
+"surface": "grahadoṣa vināśanam",
+"quick_gloss": "planet-fault+destroying"
 }
 ]
 },
@@ -315,19 +287,15 @@
 "tokens": [
 {
 "surface": "takṣakeṇāpi",
-"quick_gloss": "by-takshaka+even"
+"quick_gloss": "by-Takshaka+even"
 },
 {
 "surface": "daṣṭasya",
 "quick_gloss": "bitten"
 },
 {
-"surface": "viṣapīḍā",
-"quick_gloss": "poison-affliction"
-},
-{
-"surface": "vināśanam",
-"quick_gloss": "destroying"
+"surface": "viṣapīḍā vināśanam",
+"quick_gloss": "poison-affliction+destroying"
 }
 ]
 },
@@ -340,7 +308,7 @@
 "tokens": [
 {
 "surface": "strīkṛteṣvapi",
-"quick_gloss": "in-woman-caused+even"
+"quick_gloss": "woman-caused+even"
 },
 {
 "surface": "doṣeṣu",
@@ -348,15 +316,15 @@
 },
 {
 "surface": "śarīre",
-"quick_gloss": "in-body"
+"quick_gloss": "body"
 },
 {
 "surface": "mānase",
-"quick_gloss": "in-mind"
+"quick_gloss": "mind"
 },
 {
 "surface": "tathā",
-"quick_gloss": "thus"
+"quick_gloss": "and"
 }
 ]
 },
@@ -369,7 +337,7 @@
 "tokens": [
 {
 "surface": "asaubhāgye",
-"quick_gloss": "in-misfortune"
+"quick_gloss": "inauspiciousness"
 },
 {
 "surface": "ca",
@@ -439,15 +407,19 @@
 },
 {
 "surface": "deveśi",
-"quick_gloss": "goddess"
+"quick_gloss": "O-goddess"
 },
 {
 "surface": "tīrthāni",
 "quick_gloss": "tirthas"
 },
 {
-"surface": "āvāhayettataḥ",
-"quick_gloss": "invoke+then"
+"surface": "āvāhayet",
+"quick_gloss": "invoke"
+},
+{
+"surface": "tataḥ",
+"quick_gloss": "then"
 }
 ]
 },
@@ -501,7 +473,7 @@
 },
 {
 "surface": "ghaṭe",
-"quick_gloss": "in-pot"
+"quick_gloss": "pot"
 },
 {
 "surface": "kurvantu",
@@ -522,7 +494,7 @@
 "tokens": [
 {
 "surface": "sthirākṛtiḥ",
-"quick_gloss": "firm-form"
+"quick_gloss": "steady-form"
 }
 ]
 },
@@ -543,11 +515,11 @@
 },
 {
 "surface": "praṇavaiḥ",
-"quick_gloss": "with-om"
+"quick_gloss": "by-om"
 },
 {
 "surface": "kuryādabhyukṣaṇaṃ",
-"quick_gloss": "let-sprinkle"
+"quick_gloss": "make+sprinkling"
 },
 {
 "surface": "tataḥ",
@@ -564,11 +536,11 @@
 "tokens": [
 {
 "surface": "tatrāvāhya",
-"quick_gloss": "there+invoking"
+"quick_gloss": "there"
 },
 {
 "surface": "prapūjayet",
-"quick_gloss": "let-worship"
+"quick_gloss": "worship"
 }
 ]
 },
@@ -615,15 +587,19 @@
 },
 {
 "surface": "dhanāyustejaḥsu",
-"quick_gloss": "wealth+strength"
+"quick_gloss": "wealth+and"
 },
 {
 "surface": "śrīphalasyāpi",
-"quick_gloss": "of-bilva"
+"quick_gloss": "in"
 },
 {
 "surface": "pallavaiḥ",
-"quick_gloss": "with-shoots"
+"quick_gloss": "bael-fruit+also"
+},
+{
+"surface": "pallavaiḥ",
+"quick_gloss": "sprouts"
 }
 ]
 },

@@ -7,8 +7,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "triklabāśayāḥ",
-"quick_gloss": "three-fold-desire"
+"surface": "triklabāśayāḥ]",
+"quick_gloss": "three-fold-abode"
 }
 ]
 },
@@ -21,7 +21,7 @@
 "tokens": [
 {
 "surface": "varṇāśrama",
-"quick_gloss": "varṇa-āśrama"
+"quick_gloss": "varna-ashrama"
 },
 {
 "surface": "vyavasthāṃ",
@@ -37,7 +37,7 @@
 },
 {
 "surface": "śarīriṇām",
-"quick_gloss": "of"
+"quick_gloss": "of-embodied"
 }
 ]
 },
@@ -50,23 +50,15 @@
 "tokens": [
 {
 "surface": "dharmaśāstraismṛtiḥ",
-"quick_gloss": "dharma-śāstra"
-},
-{
-"surface": "smṛtiḥ",
-"quick_gloss": "smṛti"
+"quick_gloss": "smriti"
 },
 {
 "surface": "śāstrairācārasya",
-"quick_gloss": "by-śāstras"
-},
-{
-"surface": "ācārasya",
-"quick_gloss": "conduct"
+"quick_gloss": "scriptures+conduct"
 },
 {
 "surface": "pravarttanam",
-"quick_gloss": "establishment"
+"quick_gloss": "propagation"
 }
 ]
 },
@@ -79,15 +71,11 @@
 "tokens": [
 {
 "surface": "prativarṇāśramaṃ",
-"quick_gloss": "according-to-varṇa-āśrama"
+"quick_gloss": "according-to-varna-ashrama"
 },
 {
-"surface": "ca",
+"surface": "caiva",
 "quick_gloss": "and"
-},
-{
-"surface": "eva",
-"quick_gloss": "indeed"
 },
 {
 "surface": "bhinnabhinnā",
@@ -116,7 +104,7 @@
 },
 {
 "surface": "varṇaṃ",
-"quick_gloss": "varṇa"
+"quick_gloss": "varna"
 },
 {
 "surface": "ca",
@@ -137,23 +125,15 @@
 "tokens": [
 {
 "surface": "yataḥ",
-"quick_gloss": "since"
+"quick_gloss": "because"
 },
 {
 "surface": "prajāmanodoṣa",
-"quick_gloss": "people's"
-},
-{
-"surface": "doṣa",
-"quick_gloss": "fault"
+"quick_gloss": "people-fault"
 },
 {
 "surface": "nivṛtyaidaṇḍakalpanam",
-"quick_gloss": "removal"
-},
-{
-"surface": "daṇḍakalpanam",
-"quick_gloss": "penalty-arrangement"
+"quick_gloss": "removal+penalty"
 }
 ]
 },
@@ -166,23 +146,7 @@
 "tokens": [
 {
 "surface": "sāmabhedaudānadaṇḍaupyupāyā",
-"quick_gloss": "conciliation"
-},
-{
-"surface": "bhedaudānadaṇḍaupyupāyā",
-"quick_gloss": "division"
-},
-{
-"surface": "udānadaṇḍaupyupāyā",
-"quick_gloss": "gift"
-},
-{
-"surface": "daṇḍaupyupāyā",
-"quick_gloss": "punishment"
-},
-{
-"surface": "upāyā",
-"quick_gloss": "means"
+"quick_gloss": "conciliation+division+gift+penalty+means"
 },
 {
 "surface": "viśvarakṣaṇe",
@@ -228,7 +192,7 @@
 "tokens": [
 {
 "surface": "prajādoṣasya",
-"quick_gloss": "people's-fault"
+"quick_gloss": "people-fault"
 },
 {
 "surface": "bāhulyāta",
@@ -269,11 +233,11 @@
 },
 {
 "surface": "maryādā",
-"quick_gloss": "boundary"
+"quick_gloss": "limit"
 },
 {
 "surface": "kalpanātmanaḥ",
-"quick_gloss": "of-soul-nature"
+"quick_gloss": "of-soul"
 }
 ]
 },
@@ -286,7 +250,7 @@
 "tokens": [
 {
 "surface": "varttaṃta",
-"quick_gloss": "remain"
+"quick_gloss": "proceed"
 },
 {
 "surface": "eva",
@@ -306,7 +270,7 @@
 },
 {
 "surface": "hinātmaje",
-"quick_gloss": "in-inferior-son"
+"quick_gloss": "in-low-born"
 }
 ]
 },
@@ -319,15 +283,11 @@
 "tokens": [
 {
 "surface": "manvādikṛtaśāstrāṇi",
-"quick_gloss": "manu-etc-made-śāstras"
+"quick_gloss": "manu-etc-scriptures"
 },
 {
 "surface": "pramāṇīkṛtyabhūrayaḥ",
-"quick_gloss": "making-authoritative"
-},
-{
-"surface": "bhūrayaḥ",
-"quick_gloss": "many"
+"quick_gloss": "making-authority"
 }
 ]
 },
@@ -340,7 +300,7 @@
 "tokens": [
 {
 "surface": "teṣāṃ",
-"quick_gloss": "of-them"
+"quick_gloss": "their"
 },
 {
 "surface": "bhaya",
@@ -365,7 +325,7 @@
 "tokens": [
 {
 "surface": "rājādyagocarāṇāṃ",
-"quick_gloss": "of-kings-etc-unreachable"
+"quick_gloss": "of-king-etc-objects"
 },
 {
 "surface": "tu",
@@ -390,19 +350,11 @@
 "tokens": [
 {
 "surface": "yamadaṇḍādiśāstrāṇya",
-"quick_gloss": "yama-punishment-etc-śāstras"
-},
-{
-"surface": "na",
-"quick_gloss": "not"
+"quick_gloss": "yama-penalty-etc-scriptures"
 },
 {
 "surface": "pramāṇīkṛtyavallatām",
-"quick_gloss": "making-authoritative"
-},
-{
-"surface": "vallatām",
-"quick_gloss": "flourishing"
+"quick_gloss": "not-making-authority"
 }
 ]
 },
@@ -415,19 +367,11 @@
 "tokens": [
 {
 "surface": "rājadaṇḍabhayādeke",
-"quick_gloss": "by-king-punishment-fear"
-},
-{
-"surface": "eke",
-"quick_gloss": "some"
+"quick_gloss": "by-king-penalty-fear"
 },
 {
 "surface": "yamadaṇḍabhayātpare",
-"quick_gloss": "by-yama-punishment-fear"
-},
-{
-"surface": "pare",
-"quick_gloss": "others"
+"quick_gloss": "by-yama-penalty-fear"
 }
 ]
 },
@@ -452,15 +396,15 @@
 },
 {
 "surface": "tasmin",
-"quick_gloss": "in-that"
+"quick_gloss": "in-that-time"
 },
 {
 "surface": "kāledha'māḥ",
-"quick_gloss": "time"
+"quick_gloss": "dharma"
 },
 {
 "surface": "dhamāḥ",
-"quick_gloss": "duties"
+"quick_gloss": "dharma"
 }
 ]
 },
@@ -473,7 +417,7 @@
 "tokens": [
 {
 "surface": "teṣāṃ",
-"quick_gloss": "of-them"
+"quick_gloss": "their"
 },
 {
 "surface": "krameṇa",
@@ -481,7 +425,7 @@
 },
 {
 "surface": "sarveṣāṃ",
-"quick_gloss": "of-all"
+"quick_gloss": "all"
 },
 {
 "surface": "cittadoṣanivāraṇe",
@@ -502,7 +446,7 @@
 },
 {
 "surface": "sāmopadeśasya",
-"quick_gloss": "conciliation-instruction"
+"quick_gloss": "conciliation-teaching"
 },
 {
 "surface": "lakṣaṇaṃ",
@@ -548,7 +492,7 @@
 "tokens": [
 {
 "surface": "ātmīye",
-"quick_gloss": "by-own"
+"quick_gloss": "in-own"
 },
 {
 "surface": "naiva",
@@ -564,7 +508,7 @@
 },
 {
 "surface": "hṛditṛptatā",
-"quick_gloss": "heart-satisfaction"
+"quick_gloss": "heart-contentment"
 }
 ]
 },
@@ -581,11 +525,11 @@
 },
 {
 "surface": "sācārāḥ",
-"quick_gloss": "with-good-conduct"
+"quick_gloss": "with-conduct"
 },
 {
 "surface": "śuddhasvātmavimṛṣṭaye",
-"quick_gloss": "for-pure-self-examination"
+"quick_gloss": "pure-self-examination"
 }
 ]
 },
@@ -610,11 +554,7 @@
 },
 {
 "surface": "vimṛśyanvātmanodhiyā",
-"quick_gloss": "examining"
-},
-{
-"surface": "vātmanodhiyā",
-"quick_gloss": "by-own-intellect"
+"quick_gloss": "reflecting"
 }
 ]
 },
@@ -627,23 +567,15 @@
 "tokens": [
 {
 "surface": "tanmūlaṃ",
-"quick_gloss": "its-root"
+"quick_gloss": "that-root"
 },
 {
-"surface": "ca",
-"quick_gloss": "and"
-},
-{
-"surface": "mahāduḥkhaṃ",
+"surface": "ca mahāduḥkhaṃ",
 "quick_gloss": "great-suffering"
 },
 {
 "surface": "vimṛśyanyāyamasthitā",
-"quick_gloss": "examining"
-},
-{
-"surface": "nyāyamasthitā",
-"quick_gloss": "established-in-justice"
+"quick_gloss": "reflecting"
 }
 ]
 },
@@ -656,15 +588,11 @@
 "tokens": [
 {
 "surface": "bhedopadeśamārgeṇa",
-"quick_gloss": "by-distinction-instruction-path"
+"quick_gloss": "division-teaching"
 },
 {
 "surface": "vyādiśannaramadhyamān",
-"quick_gloss": "addressing"
-},
-{
-"surface": "naramadhyamān",
-"quick_gloss": "middle-men"
+"quick_gloss": "instructing"
 }
 ]
 }
