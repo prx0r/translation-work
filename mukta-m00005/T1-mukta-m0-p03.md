@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p03-v51
-[mind](mano) [whose](yasya) [inauspiciousness](aśubhāvāt) [and](ca) [of-agent](kartuḥ) [not](na) [simultaneously](yugapad) [cognition](matiḥ)
+[mind](mano) [of-which](yasya) [inauspicious+nature](aśubhāvāc) [and](ca) [of-agent](kartur) [not](na) [simultaneously](yugapan) [cognition](matiḥ)
 
 ## mukta-m0-p03-v52
-[therefore](ata) [thus](eva) [this](etad) [quickly](āśu) [moving](saṃcāri) [thus](iti) [said](uktam)
+[therefore](ata) [indeed](eva) [this](etad) [quickly](āśu) [moving](saṃcārī) [thus](ity) [stated](uktam)
 
 ## mukta-m0-p03-v53
-[another](anyaḥ) [object-cognition](arthapratyayaḥ) [another](aparaḥ)
+[other](anyo) [object+cognition](rthapratyayo) [another](paraḥ)
 
 ## mukta-m0-p03-v54
-[ego-function](ahaṅkāravṛtti) [nature](ātmaka) [cognition](pratyayaḥ) [object-cognition](arthapratyayāt) [other](anyaḥ) [meaning](ityarthaḥ)
+[ego+sense+modification+nature+cognition](ahaṅkāravṛttyātmakapratyayo) [object+cognition](rthapratyayād) [other](anya) [thus+meaning](ityarthaḥ)
 
 ## mukta-m0-p03-v55
-[since](yataḥ) [of-one](anyatama) [deficiency](vaikalye) [arises](jāyate) [true](saty) [ego](ahaṅkṛtiḥ)
+[because](yato) [one-of-them+deficiency](nyatamavaikalye) [arises](jāyate) [being+ego-making](satyahaṅkṛtiḥ)
 
 ## mukta-m0-p03-v56
-[arising](jāyamānaḥ) [this](ayaṃ) [agitation](saṃrambhaḥ) [i-cognition](ahaṃpratyayaḥ) [or](vā) [of-ego](ahaṅkārasya) [indeed](eva) [effect](kārya) [meaning](ityarthaḥ)
+[arising](jāyamāno) [this](yaṃ) [agitation](saṃrambho) [I-notion](haṃpratyayo) [or](vā) [of-ego-sense](haṅkārasya) [indeed](eva) [effect](kārya) [thus+meaning](ityarthaḥ)
 
 ## mukta-m0-p03-v57
-[taijasa-etc](taijasādikanāmānaḥ) [gradually](kramaśaḥ) [sattvic-etc](sāttvikādayaḥ)
+[taijasa+etc+named](taijasādikanāmānaḥ) [successively](kramaśaḥ) [sāttvika+etc](sāttvikādayaḥ)
 
 ## mukta-m0-p03-v58
-[from-sattva-etc](sattvādiguṇabāhulyāt)
+[sattva+etc+quality+abundance](sattvādiguṇabāhulyāt)
 
 ## mukta-m0-p03-v59
-[therefore](tasmāt) [that](sa) [sattvic](sāttvikāt) [born](jātaḥ) [own-similar](svānurūpāt) [ego](ahaṅkṛtaḥ)
+[therefore](tasmāt) [that](sa) [from-sāttvika](sāttvikāj) [born](jātaḥ) [own+conformable](svānurūpād) [from-ego-making](ahaṅkṛtaḥ)
 
 ## mukta-m0-p03-v60
-[objects](viṣayāṇāṃ) [but](tu) [restriction](niyamāt) [unproved](asiddhāt) [indeed](eva) [cause](hetutaḥ)
+[of-objects](viṣayāṇāṃ) [but](tu) [by-restriction](niyamād) [from-unaccomplished](asiddhād) [indeed](eva) [from-cause](hetutaḥ)
 
 ## mukta-m0-p03-v61
 [are-grasped](gṛhyante)
 
 ## mukta-m0-p03-v62
-[substances](dravyāṇi) [not-restricted](aniyataṃ) [and](ca) [indeed](eva) [grasps](gṛhṇāti) [wind](marutā) [with](samam)
+[objects](dravyāṇy) [unrestrictedly](aniyataṃ) [and](ca) [indeed](eva) [grasps](gṛhṇāti) [with-wind](marutā) [together](samam)
 
 ## mukta-m0-p03-v63
-[there](tad) [located](gatān) [and](ca) [touches](sparśān) [grasps](gṛhṇāti)
+[located-in-that](tadgatāṃś) [and](ca) [touches](sparśān) [grasps](gṛhṇāti)
 
 ## mukta-m0-p03-v64
-[therefore](ato) [not](na) [restriction](niyamaḥ) [of-senses](akṣāṇāṃ) [of-objects](viṣayāṇāṃ) [and](ca) [is-imagined](kalpyate)
+[therefore](ato) [not](na) [restriction](niyamo) [of-sense-organs](kṣāṇāṃ) [of-objects](viṣayāṇāṃ) [and](ca) [is-postulated](kalpyate)
 
 ## mukta-m0-p03-v65
-[from-gods](devebhyaḥ) [intellects](buddhayaḥ) [not](na) [would-be](syuḥ) [conjunction](samavāye) [and](ca) [of-embodied](dehinām)
+[for-gods](devebhyo) [cognitions](buddhayo) [not](na) [would-be](syuḥ) [in-conjunction](samavāye) [and](ca) [of-embodied-beings](dehinām)
 
 ## mukta-m0-p03-v66
-[of-meanings](padārthānāṃ) [intellects](buddhayaḥ) [from-them](tebhyaḥ) [arising](jāyamānāḥ) [not](na) [would-be](bhaveyuḥ)
+[of-objects](padārthānāṃ) [cognitions](buddhayas) [from-them](tebhyo) [arising](jāyamānā) [not](na) [would-be](bhaveyuḥ)
 
 ## mukta-m0-p03-v67
-[purusha-purpose-giver](pumarthadātṛ) [which](yat) [action](karma) [cause](kāraṇaṃ) [that](tad) [is-said](bhaveritam)
+[human-purpose+giver](pumarthadātṛ) [which](yat) [action](karma) [cause](kāraṇaṃ) [that](tad) [should-be-stated](bhaveritam)
 
 ## mukta-m0-p03-v68
-[and-meaning](cetyarthaḥ)
+[thus+meaning](cetyarthaḥ)
 
 ## mukta-m0-p03-v69
-[of-sound-enjoyment](śabdabhogasya) [restriction](niyame) [that-giving](tatpradaṃ) [action](karma) [is-said](bhāṣitam)
+[of-sound+experience](śabdabhogasya) [in-restriction](niyame) [that+giver](tatpradaṃ) [action](karma) [is-stated](bhāṣitam)
 
 ## mukta-m0-p03-v70
-[action](karma) [indeed](eva) [cause](kāraṇaṃ) [becomes](bhavatā) [also](api) [is-desired](īṣyata) [thus](ityanvayaḥ)
+[action](karma) [indeed](eva) [cause](kāraṇaṃ) [by-you](bhavatā) [also](pi) [is-accepted](ṣyata) [thus+connection](ityanvayaḥ)
 
 ## mukta-m0-p03-v71
-[born](jātaḥ) [of-effect](kāryasya) [by-which](yena) [here](iha) [of-cause](kāraṇānuvidhāyitā)
+[born](jātaḥ) [of-effect](kāryasya) [by-which](yeneha) [cause+conformity](kāraṇānuvidhāyitā)
 
 ## mukta-m0-p03-v72
-[action-sense-group](karmendriyavargaḥ) [born](jātaḥ) [because](yasmāt) [cause-following](kāraṇānuvidhāyitvaṃ) [in-effect](kārye) [is-seen](dṛśyate)
+[of-action-organs+group](karmendriyavargo) [born](jātaḥ) [because](yasmāt) [cause+conformity](kāraṇānuvidhāyitvaṃ) [in-effect](kārye) [is-seen](dṛśyate)
 
 ## mukta-m0-p03-v73
-[sattvic](sāttvikāt) [from-birth](saṃbhave) [assumed](kḷpte) [sattva-rajas-groups](sāttvarājasavargayoḥ)
+[from-sāttvika](sāttvikāt) [in-arising](saṃbhave) [being-established](kḷpte) [of-sāttvika+rājasa+groups](sāttvarājasavargayoḥ)
 
 ## mukta-m0-p03-v74
-[manifest](prakāśyaḥ) [tamasic](tāmasaḥ) [therefore](tasmāt) [born](jātaḥ) [from-bhutadi](bhūtādisaṃjñakāt)
+[to-be-illuminated](prakāśyas) [of-tāmasa](tāmasas) [therefore](tasmāj) [born](jāto) [from-bhūtādi+named](bhūtādisaṃjñakāt)
 
 ## mukta-m0-p03-v75
-[purusha-knowable-manifest-ground](puṃbodhavyaktibhūmitvāt) [knowledge](bodhaḥ) [function](vṛttiḥ) [of-mind](mater) [opinion](matā)
+[of-person+cognition+manifestation+ground](puṃbodhavyaktibhūmitvād) [cognition](bodho) [modification](vṛttir) [of-intellect](mater) [is-considered](matā)
