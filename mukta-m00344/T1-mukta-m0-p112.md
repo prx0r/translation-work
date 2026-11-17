@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p112-v2776
-[wonderful](vicitram) [thus](iti) [meaning](arthaḥ)
+[wonderful-thus](vicitramiti) [meaning](arthaḥ)
 
 ## mukta-m0-p112-v2777
-[by-many](anekadhā) [divided](paricchinnam) [shining](bhāsitam) [O-Bhṛgu-descendant](bhṛgunandana)
+[in-many-ways](anekadhā) [limited](paricchinnaṃ) [shone](bhāsitaṃ) [O-son-of-Bhrgu](bhṛgunandana)
 
 ## mukta-m0-p112-v2778
-[thus](evam) [stated](prokta) [by-reasoning](upapattyā)
+[thus](evaṃ) [said-by-reasoning](proktopapattyā)
 
 ## mukta-m0-p112-v2779
-[that](sā) [also](api) [incompleteness](apūrṇatva) [fame](vikhyātiḥ) [which](yā) [ignorance](avidyā) [is-declared](parigīyate)
+[that-also](sā'pi) [incompleteness-fame](apūrṇatvavikhyātiḥ) [which](yā) [nescience](avidyā) [is-sung](parigīyate)
 
 ## mukta-m0-p112-v2780
-[full](pūrṇā)
+[variant-k-full](pūrṇā)
 
 ## mukta-m0-p112-v2781
-[self](svātmānam) [not-having-cited](anudāhṛtya) [outside](bahis) [seeing](dṛṣṭitayā) [of-standing](sthiteḥ)
+[oneself](svātmānam) [not-having-cited](anudāhṛtya) [by-outward-seeing](bahirdṛṣṭitayā) [of-standing](sthiteḥ)
 
 ## mukta-m0-p112-v2782
-[there](tatra) [also](api) [reason](hetuḥ) [outside](bahis) [seeing](dṛṣṭitayā) [of-standing](sthiteḥ) [thus](iti)
+[there-also](tatrāpi) [cause](hetuḥ) [by-outward-seeing](bahirdṛṣṭitayā) [of-standing](sthiteḥ) [thus](iti)
 
 ## mukta-m0-p112-v2783
-[not-having-cited](anudāhṛtya) [and](ca) [self](ātmānam) [as-long-as](yāvat) [not](na) [indeed](hi) [would-see](avalokayet)
+[not-having-cited](anudāhṛtya) [and](ca) [self](ātmānaṃ) [as-long-as-not-indeed](yāvanna-hi) [would-see](avalokayet)
 
 ## mukta-m0-p112-v2784
-[light-etc](prakāśa+ādi) [nature](rūpatā) [or](vā) [other](itarat) [not-being](asat) [or](vā) [before-light-etc](aprāk+śa+ādi) [nature](rūpatā) [or](vā)
+[light-etc-form](prakāśādirūpatā) [or](vā) [other-non-existent](itaradasadvā) [or-not-light-etc-form](aprākśādirūpatā) [or](vā)
 
 ## mukta-m0-p112-v2785
-[therefore](ataḥ) [by-me](mayā) [said](uktam) [O-Rāma](rāma) [you](tvam) [see](sampaśya) [in-self](ātmani) [like-real](sat+dṛśā)
+[therefore](ataḥ) [by-me-said](mayoktaṃ) [O-Rama](rāma) [you](tvaṃ) [see](sampaśya) [in-self](ātmani) [by-real-vision](saddṛśā)
 
 ## mukta-m0-p112-v2786
-[having-abandoned](tyakta) [outward-facing](bahis+mukhatva) [seeing](dṛṣṭyā)
+[by-abandoned-outwardness-view](tyaktabahirmukhatvadṛṣṭyā)
 
 ## mukta-m0-p112-v2787
-[that](sā) [light-made](prakāśamayī) [since](yasmāt) [inert-exclusion](jaḍa+vyāvṛtta) [nature](rūpiṇī)
+[she](sā) [light-made](prakāśamayī) [because-of](yasmāj) [inert-excluded-formed](jaḍavyāvṛttarūpiṇī)
 
 ## mukta-m0-p112-v2788
-[lamp-etc](dīpa+ādi) [inert-exclusion](jaḍa+vyāvṛtta) [light-made](prakāśamayī) [thus](iti) [meaning](arthaḥ)
+[lamp-etc-inert-excluded-light-made](dīpādijaḍavyāvṛttaprakāśamayī) [thus](iti) [meaning](arthaḥ)
 
 ## mukta-m0-p112-v2789
-[inert](jaḍāḥ) [consciousness-self](cit+ātma) [resting](viśrāntāḥ) [in-consciousness-self](cit+ātmani) [shine](vibhāsataḥ)
+[inerts](jaḍāḥ) [consciousness-self-rested](cidātmaviśrāntāḥ) [in-consciousness-self](cidatmani) [shine](vibhāsataḥ)
 
 ## mukta-m0-p112-v2790
-[may-be](bhavet) [thus](iti) [remainder](śeṣaḥ) [of-inert](jaḍānām) [not](na) [self-resting](sva+ātma+viśrāntiḥ) [thus](iti) [says](āha) [inert](jaḍāḥ) [thus](iti)
+[may-be](bhavet) [thus](iti) [remainder](śeṣaḥ) [of-inerts](jaḍānāṃ) [not](na) [self-rest](svātmaviśrāntiḥ) [thus](iti) [says](āha) [inerts](jaḍā) [thus](iti)
 
 ## mukta-m0-p112-v2791
-[of-consciousness](citeḥ) [but](tu) [only](kevalam) [in-self](svasmin) [not-other-dependence](ananya+apekṣayā) [always](sadā)
+[of-consciousness-but](citeḥ-tu) [only](kevalaṃ) [in-self](svasmin) [no-other-dependence](ananyāpekṣayā) [always](sadā)
 
 ## mukta-m0-p112-v2792
-[shining](bhāsamānatvāt) [in-self](svasmin) [resting](viśrāntiḥ) [is-fitting](upapadyate) [thus](iti) [connection](sambandhaḥ)
+[from-shining](bhāsamānatvāt) [in-self](svasmin) [rest](viśrāntiḥ) [is-established](upapadyate) [thus](iti) [connection](sambandhaḥ)
 
 ## mukta-m0-p112-v2793
-[full](pūrṇā) [I-ness](ahantā) [supreme](parā) [this](sā) [iyam](iyam) [which](yā) [in-inert](jaḍeṣu) [not](na) [is](vidyate)
+[full-I-ness](pūrṇāhantā) [supreme](parā) [that-this](sā-iyam) [which](yā) [in-inerts](jaḍeṣu) [not](na) [is-found](vidyate)
 
 ## mukta-m0-p112-v2794
-[self-resting](sva+ātma+viśramaḥ) [thus](iti) [feeling](bhāvaḥ) [this](sā) [iyam](iyam) [self-resting](sva+ātma+viśrāntiḥ) [alone](eva) [full](pūrṇā) [I-ness](ahantā)
+[self-rest](svātmaviśrama) [thus](iti) [meaning](bhāvaḥ) [that-this](sā-iyam) [self-rest-only](svatmaviśrāntiḥ-eva) [full-I-ness](pūrṇāhantā)
 
 ## mukta-m0-p112-v2795
-[all](sarvam) [in-this](asyām) [where](yataḥ) [situated](saṃstham) [in-mirror](ādarśe) [city](nagaram) [like](yathā)
+[all](sarvam) [in-this](asyāṃ) [since](yataḥ) [situated](saṃstham) [in-mirror](ādarśe) [city](nagaraṃ) [as](yathā)
 
 ## mukta-m0-p112-v2796
-[divided](paricchinnā) [exclusion-touch](vyāvṛtti+sparśaḥ) [not](na) [is](asti) [thus](iti)
+[variant-k-kh-limited](paricchinnā) [exclusion-touch](vyāvṛttisparśaḥ) [not-is](nāsti) [thus](iti)
 
 ## mukta-m0-p112-v2797
-[thus](evam) [of-full-nature](pūrṇa+svarūpāyāḥ) [full](pūrṇam) [that](yat) [shining](sphuraṇam) [is-established](sthitam)
+[thus](evaṃ) [of-full-nature](pūrṇasvarūpāyāḥ) [full](pūrṇaṃ) [which-manifestation](yat-sphuraṇaṃ) [is](sthitam)
 
 ## mukta-m0-p112-v2798
-[full](pūrṇam) [unlimited](aparicchinnam) [that](yat) [own-form-shining](svarūpa+sphuraṇam) [that](tat) [alone](eva) [is-declared](kathyate) [thus](iti) [connection](sambandhaḥ)
+[full-unbounded](pūrṇam-aparicchinnaṃ) [which-self-form-manifestation](yat-svarūpasphuraṇaṃ) [that-only](tad-eva) [is-called](kathyate) [thus](iti) [connection](sambandhaḥ)
 
 ## mukta-m0-p112-v2799
-[unbroken-one-taste](akhaṇḍa+eka+rasaṃ) [indeed](hi) [this](etat) [this-much](etāvat) [O-Rāma](rāma) [indeed](vai) [may-be](bhavet)
+[undivided-one-taste](akhaṇḍaikarasaṃ) [indeed-this](hi-etat) [so-much](etāvat) [O-Rama](rāma) [verily](vai) [may-be](bhavet)
 
 ## mukta-m0-p112-v2800
-[two](dvayam) [also](api) [this](etat) [unbroken-one-taste](akhaṇḍa+eka+rasam) [unbroken](akhaṇḍam) [one](ekam) [one-taste](ekarasam) [consciousness-alone](cin+mātram)
+[both-also](dvayam-api) [this](etat) [undivided-one-taste](akhaṇḍaikarasam) [undivided-one](akhaṇḍam-ekam) [one-taste](eka-rasaṃ) [consciousness-only](cinmātram)
