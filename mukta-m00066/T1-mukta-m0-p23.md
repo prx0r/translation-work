@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p23-v551
-[ānanda-tantra](ānaṃdataṃtre) [ca](ca) [eva](eva) [asmin](āsmin) [catvāraḥ](catvāraḥ) [param](param) [īritāḥ](īritāḥ)
+in-this-bliss-tantra indeed four supreme-declared
 
 ## mukta-m0-p23-v552
-[tasmāt](tasmāt) [catvāraḥ](catvāraḥ) [ullāsāḥ](ullāsā) [iha](iha) [proktāḥ](proktā) [maheśvari](maheśvari)
+therefore four delights here proclaimed O-great-lady
 
 ## mukta-m0-p23-v553
-[tasmāt](tasmāt) [ānanda](ānaṃda) [pūjāyāḥ](pūjāyā) [mālaṃvyante](mālaṃvyaṃte) [tu](tu) [na](na) [trayaḥ](trayaḥ)
+therefore in-bliss-worship garlanded indeed not three
 
 ## mukta-m0-p23-v554
-[tathā tathā](tathā tathā) [parānanda](parānaṃda) [nātha-vidyām](nāthavidyāṃ) [parāmṛśet](parāmṛśet)
+thus thus supreme-bliss lord-knowledge one-should-touch
 
 ## mukta-m0-p23-v555
-[dūtyā](dūtyā) [saṃdhukṣita](saṃdhukṣita) [svātmā](svātmā) [naṃda-mūrttim](naṃdamūrttiṃ) [guruṃ](guruṃ) [smaret](smaret)
+by-messenger kindled self bliss-form guru remember
 
 ## mukta-m0-p23-v556
-[dvādaśāṃta](dvādaśāṃta) [gate](gate) [rakta](rakta) [śukla](śukla) [pāde](pāde) [vinikṣipet](vinikṣipet)
+at-twelfth-end red-white-foot place
 
 ## mukta-m0-p23-v557
-[śivatva](śivatva) [sāmrājya](sāmrājya) [pada](pada) [abhiṣiktam](abhiṣiktaṃ) [svam](svaṃ) [viciṃtayet](viciṃtayet)
+Shiva-state-empire foot-consecrated own contemplate
 
 ## mukta-m0-p23-v558
-[paśyan](paśyan) [pratyaṃgam](pratyaṃgamaṃ) [aṃkūra](aṃkūra) [danaṃ](danaṃ) [gottuṃga](gottuṃga) [mānasaḥ](mānasaḥ)
+seeing limb-sprout-tooth mountain-going mind
 
 ## mukta-m0-p23-v559
-[yathā](yathā) [yauvanam](yauvanam) [ullāsam](ullāsaṃ) [saṃprāpnoti](saṃprāpnoti) [aṃba](aṃba) [dūtikā](dūtikā)
+as youth-delight obtains O-mother messenger
 
 ## mukta-m0-p23-v560
-[ālokane](ālokane) [ratiḥ](ratiḥ) [sākṣāt](sākṣāt) [smite](smite) [jāgarti](jāgarti) [jāhnavī](jāhnavī)
+gazing-pleasure directly in-smile awakens Ganges
 
 ## mukta-m0-p23-v561
-[aśvinau](aśvinau) [nāsikā](nāsikā) [bhāge](bhāge) [tu](tu) [oṣṭhe](oṣṭhe) [ca](ca) [parama](parama) [amṛtam](amṛtam)
+Ashvins nose-region and-lip supreme-nectar
 
 ## mukta-m0-p23-v562
-[svede](svede) [ca](ca) [vāruṇī](vāruṇī) [devī](devī) [kāma](kāma) [nāthaḥ](nāthaḥ) [tu](tu) [aham](ahaṃ) [kṛtau](kṛtau)
+in-sweat Varuni goddess desire-lord I in-act
 
 ## mukta-m0-p23-v563
-[stanadvaye](stanadvaye) [meru](meru) [giriḥ](giriḥ) [niḥśabdam](niḥśabdaṃ) [brahma](brahma) [madhyame](madhyame)
+in-two-breasts Meru-mountain soundless in-Brahma-middle
 
 ## mukta-m0-p23-v564
-[valitraye](valitraye) [ca](ca) [trailokyam](trailokyaṃ) [nābhi](nābhi) [garbhe](garbhe) [guhāṃbikā](guhāṃbikā)
+in-three-folds and three-worlds in-navel-womb cave-mother
 
 ## mukta-m0-p23-v565
-[nakheṣu](nakheṣu) [śītām](śītāṃ) [śu](śu) [kalā](kalā) [dormūle](dormmūle) [aṃkuśa](aṃkuśa) [devatāḥ](devatāḥ)
+in-nails cool white digit-arm-root hook-deities
 
 ## mukta-m0-p23-v566
-[kāverī](kāverī) [ca](ca) [eva](eva) [niśvāse](niśvāse) [godā](godā) [sītkāra](sītkāra) [karmaṇi](karmaṇi)
+Kaveri indeed in-exhalation cow-gift-act in-action
 
 ## mukta-m0-p23-v567
-[amala](amala) [ālāpa](ālāpa) [kṛtyeṣu](kṛtyeṣu) [citta](citta) [viśrāṃti](viśrāṃti) [nāyakā](nāyakā)
+in-pure-saliva-acts mind-rest leader
 
 ## mukta-m0-p23-v568
-[vāk](vāk) [patiḥ](patiḥ) [sukha](sukha) [huṃkāre](huṃkāre) [gīṣpati](gīṣpati) [kākuka](kākuka) [dhvanau](dhvanau)
+speech-power in-pleasant-hum in-Indra-peak-sound
 
 ## mukta-m0-p23-v569
-[iṃdraḥ](iṃdraḥ) [citta](citta) [samunnatyām](samunnatyām) [agniḥ](agniḥ) [vastu](vastu) [grasīt](grasīt) [viṣi](viṣi)
+Indra in-mind-elevation Agni substance swallows in-ray
 
 ## mukta-m0-p23-v570
-[hastādi](hastādi) [cālane](cālane) [yajñaḥ](yajñaḥ) [tu](tu) [āśleṣe](āśleṣe) [yajña](yajña) [pūruṣaḥ](pūruṣaḥ)
+in-hand-movement sacrifice in-embrace sacrifice-person
 
 ## mukta-m0-p23-v571
-[lāsyam](lāsyaṃ) [ca](ca) [tāṃḍavam](tāṃḍavaṃ) [devi](devi) [tasyāḥ](tasyā) [deha](deha) [ādi](ādi) [ghūrṇane](ghūrṇane)
+lasya and tandava goddess her body-etc whirling
 
 ## mukta-m0-p23-v572
-[tāni](tāni) [sarvāṇi](sarvāṇi) [varttate](varttate) [tasyāḥ](tasyā) [gaṃḍūṣa](gaṃḍūṣa) [vastuni](vastuni)
+those-all occur in-her-mouthful-substance
 
 ## mukta-m0-p23-v573
-[tat](tat) [phalam](phalaṃ) [labhate](labhate) [dūtī](dūtī) [sudhā](sudhā) [gaṃḍūṣa](gaṃḍūṣa) [sevanāt](sevanāt)
+that-fruit obtains messenger nectar-mouthful by-consuming
 
 ## mukta-m0-p23-v574
-[gaṃḍūṣam](gaṃḍūṣam) [ādiram](ādiraṃ) [devī](devī) [vīrasya](vīrasya) [ānaṃda](ānaṃda) [varddhanam](varddhanam)
+mouthful-first goddess hero's-bliss increasing
 
 ## mukta-m0-p23-v575
-[nitya](nitya) [klinnā](klinnā) [sudhā](sudhā) [devī](devī) [rati](rati) [prītiḥ](prītiḥ) [ca](ca) [tat](tat) [bhage](bhage)
+ever-moist-nectar goddess love delight and in-that-part
