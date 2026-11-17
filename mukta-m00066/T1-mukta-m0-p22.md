@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p22-v526
-[ignorance](avidyā) [enveloped](parirabdhasya) [living-being](jīvasya) [these](ite) [great-diseases](mahāgadāḥ)
+[ignorance](avidyā) [enveloped](parirabdhasya) [of-soul](jīvasya) [these](ete) [great-diseases](mahāgadāḥ)
 
 ## mukta-m0-p22-v527
-[cast-down](pātayaṃti) [and](ca) [in-visible-ones](dṛṣṭeṣu) [suffering-pathways](duḥkhasaṃkramavarttmasu)
+[cause-to-fall](pātayaṃti) [and](ca) [in-seen](dṛṣṭeṣu) [pain-transmission-paths](duḥkhasaṃkramavarttmasu)
 
 ## mukta-m0-p22-v528
-[skill](pāṭava) [also](api) [in-things](vidhāvastu) [powers](śaktayaḥ) [where](yatra) [spoken](bhāṣitāḥ)
+[skill](pāṭavaḥ) [also](api) [in-ritual](vidhau) [thing](astu) [powers](śaktayaḥ) [where](yatra) [spoken](bhāṣitāḥ)
 
 ## mukta-m0-p22-v529
-[therefore](tasmāt) [by-this-substance](anenadravyeṇa) [not](nā) [medicine-essence-self](nauṣadhirasātmanā)
+[therefore](tasmāt) [by-this-substance](anenadravyeṇa) [not-many-medicine-essence-self](nānauṣadhirasātmanā)
 
 ## mukta-m0-p22-v530
-[as](yathā) [living-being-body](jīvaśarīrasya) [living-being-purification](jīvasaṃskāraḥ) [inner](āṃtaraḥ)
+[as](yathā) [of-soul-body](jīvaśarīrasya) [soul-purification](jīvasaṃskāraḥ) [inner](āṃtaraḥ)
 
 ## mukta-m0-p22-v531
-[so](tathā) [messenger](dūti) [body-seated](śarīrasthā) [living-being-god](jīvadeva) [refuge](samāśrayā)
+[so](tathā) [messenger](dūti) [body-dwelling](śarīrasthā) [soul-god](jīvadeva) [refuge](samāśrayā)
 
 ## mukta-m0-p22-v532
-[naturally](svabhāvataḥ) [mind-of-women](manasttrīṇāṃ) [shame-stupidity-vessel](vrīḍājaḍimabhājanam)
+[naturally](svabhāvataḥ) [of-women-mind](manasttrīṇāṃ) [shame-stupidity-vessel](vrīḍājaḍimabhājanam)
 
 ## mukta-m0-p22-v533
-[restless](caṃcalaṃ) [momentary](kṣaṇikaṃ) [and](ca) [indeed](eva) [crooked](kuṭilaṃ) [by-nature](svabhāvataḥ)
+[fickle](caṃcalaṃ) [momentary](kṣaṇikaṃ) [and](ca) [indeed](eva) [crooked](kuṭilaṃ) [and](ca) [by-nature](svabhāvataḥ)
 
 ## mukta-m0-p22-v534
-[very-fickle-mind-of-women](atilolamanastrīṇāṃ) [easily-grief](sulabhaglāni) [and](ca) [by-itself](svataḥ)
+[very-fickle-mind-of-women](atilolamanastrīṇāṃ) [easily-obtained-languor](sulabhaglāni) [and](ca) [by-itself](svataḥ)
 
 ## mukta-m0-p22-v535
-[perish](naśyaṃti) [thing-powers](vastuśaktīnāṃ) [for-man](manuṣe) [by-attachment-holding](vaṇadhārayā)
+[perish](naśyaṃti) [of-thing-powers](vastuśaktīnāṃ) [for-man](manuṣe) [by-merchant-bearing](vaṇadhārayā)
 
 ## mukta-m0-p22-v536
-[bolt](argalā) [desire-all](kāmasarvasva) [door](dvārasya) [quickly-dissolves](aśuvilīyate)
+[bar-desire-all](argalākāmasarvasva) [of-door](dvārasya) [quickly-dissolves](āśuvilīyate)
 
 ## mukta-m0-p22-v537
-[at-enjoyment-time](abhogasamaye) [again](bhūya) [to-obtain](prāptuṃ) [somewhere](kutrāpi) [dissolves](līyate)
+[at-enjoyment-time](abhogasamaye) [again](bhūya) [to-obtain](prāptuṃ) [anywhere](kutrāpi) [dissolves](līyate)
 
 ## mukta-m0-p22-v538
 [bliss-lord](ānaṃdanātha) [for-worship](pūjārthaṃ) [attendants](parivārāṃ) [troops](ganā) [like](iva)
 
 ## mukta-m0-p22-v539
-[once](sakṛto) [glance-movement](dṛṣṭisaṃcāra) [smile](smita) [delight](ullāsa) [fleshy](māṃsalam)
+[once](sakṛt) [glance-movement-smile-exhilaration-flesh](dṛṣṭisaṃcārasmitamullāsamāṃsalam)
 
 ## mukta-m0-p22-v540
-[playfully](līlāvaśena) [of-body](dehasya) [swaying](ghūrṇanaṃ) [flattering-speech](cāṭubhāṣaṇam)
+[by-play](līlāvaśena) [of-body](dehasya) [rolling](ghūrṇanaṃ) [flattering-speech](cāṭubhāṣaṇam)
 
 ## mukta-m0-p22-v541
-[of-intention](ākūtasya) [of-all](samastasya) [by-own-will](svecchayaiva) [manifestation](prakāśanam)
+[of-intention](ākūtasya) [all](samastasya) [by-own-will-indeed](svecchayaiva) [manifestation](prakāśanam)
 
 ## mukta-m0-p22-v542
-[jesting-talk](parīhāsakathālāpaḥ) [somewhat](kiṃcid) [revealed](āviṣkṛta) [shame](trapā)
+[jesting-talk-conversation](parīhāsakathālāpaḥ) [somewhat-revealed-shame](kiṃcidāviṣkṛtātrapā)
 
 ## mukta-m0-p22-v543
-[kilikincita](kilikiṃcita) [movement](saṃcāraḥ) [play-like](krīḍāprāya) [gestures](viceṣṭitaḥ)
+[kilikilincita](kilikiṃcita) [movement](saṃcāraḥ) [play-mostly-action](krīḍāprāyaviceṣṭitaḥ)
 
 ## mukta-m0-p22-v544
-[limb-by-limb](pratyaṃga) [hair-raising](pulakodbhedaḥ) [limb-by-limb](pratyaṃga) [sweat-drops](svedabindavaḥ)
+[limb-goosebumps-eruption](pratyaṃgapulakodbhedaḥ) [limb-sweat-drops](pratyaṃgasvedabindavaḥ)
 
 ## mukta-m0-p22-v545
-[these](etā) [visible](dṛśā) [qualities](guṇā) [in-messenger](dūtyām) [arise](udbhavaṃti) [clan-nectar](kulāmṛtaiḥ)
+[these](etā) [sight-quality-messenger](dṛśāguṇādūtyām) [arise](udbhavaṃti) [clan-nectars](kulāmṛtaiḥ)
 
 ## mukta-m0-p22-v546
-[then](athā) [in-self](svātmani) [arrangement](vinyāsam) [bliss](ānaṃdasya) [also](api) [should-imagine](kalpayet)
+[then](atha) [in-self](āsvātmani) [placement](vinyāsam) [of-bliss](ānandasya) [also](api) [should-imagine](kalpayet)
 
 ## mukta-m0-p22-v547
 [as](yathā) [consciousness-only](cinmātra) [form-ness](rūpatvaṃ) [so](tathā) [thing](vastu) [should-imagine](prakalpayet)
 
 ## mukta-m0-p22-v548
-[living-being-form](jīvarūpasya) [great](mahatā) [consciousness-fire](cidvahneḥ) [blazing-body](prajvalattanoḥ)
+[of-soul-form](jīvarūpasya) [great](mahatā) [consciousness-fire](cidvahneḥ) [blazing-body](prajvalattanoḥ)
 
 ## mukta-m0-p22-v549
-[therefore](tasmāt) [meritorious](puṇyam) [this](idaṃ) [should-be-served](sevyaṃ) [sweet-form](madhurūpaṃ) [elixir](rasāyanam)
+[therefore](tasmāt) [meritorious](puṇyam) [this](idaṃ) [to-be-served](sevyaṃ) [sweet-form](madhurūpaṃ) [elixir](rasāyanam)
 
 ## mukta-m0-p22-v550
-[supreme-nectar](parāmṛtasya) [offering-like](āhutivat) [should-practice](śīlayet) [gradual-order](sarakakramam)
+[of-supreme-nectar](parāmṛtasya) [like-offering](āhutivat) [should-practice](śīlayet) [with-sequence](sarakakramam)

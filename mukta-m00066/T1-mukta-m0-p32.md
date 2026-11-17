@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p32-v776
-[arcayet](arcayet) [liṅgam](liṃgam) [īśānam](īśānam) [iyamādyā](iyamādyā) [mayā](mayā) [āhutiḥ](āhutiḥ)
+[arcayet](arcayelliṃgamīśānamiyamādyā) [liṅgam](liṃgam) [īśānam](īśānam) [iyamādyā](iyamādyā) [mayā](mayā) [āhutiḥ](āhutiḥ)
 
 ## mukta-m0-p32-v777
-[caṃdragarbha](caṃdragarbha) [iti](iti) [kā](kā) [api](api) [asti](asti) [nāḍī](nāḍī) [nalinī](nalinī) [locane](locane)
+[caṃdragarbha](caṃdragarbheti) [iti](iti) [kā](kā) [api](api) [asti](asti) [nāḍī](nāḍī) [nali](nali) [nalocane](nalocane)
 
 ## mukta-m0-p32-v778
-[tatratyam](tatratyam) [amṛtam](amṛtam) [viddhi](viddhi) [kāmeśvarī](kāmeśvarī) [uktibhūtidam](uktibhūtidam)
+[tatratyam](tatratyam) [amṛtam](amṛtaṃ) [viddhi](viddhi) [kāmeśvarī](kāmeśvaryuktibhūtidam) [ukti](ukti) [bhūtidam](bhūtidam)
 
 ## mukta-m0-p32-v779
-[īṣat](īṣat) [pāṭala](pāṭala) [varṇam](varṇam) [ca](ca) [yūthikā](yūthikā) [sama](sama) [saurabham](saurabham)
+[īṣat](īṣat) [pāṭala](pāṭalavarṇaṃ) [varṇam](varṇaṃ) [ca](ca) [yūthikā](yūthikāsamasaurabham) [sama](sama) [saurabham](saurabham)
 
 ## mukta-m0-p32-v780
-[sabhavatyam](sabhavatyam) [samāpannaḥ](samāpanno) [jalada](jalada) [tvaṃ](tvaṃ) [vaśīkriyāt](vaśīkriyāt)
+[sabhavatyam](sabhavatyaṃ) [samāpannaḥ](samāpanno) [jalada](jaladatvaṃ) [tvaṃ](tvaṃ) [vaśīkriyāt](vaśīkriyāt)
 
 ## mukta-m0-p32-v781
-[na](na) [sarodeva](sarodeva) [svāteṣu](svāteṣu) [skhalitam](skhalitaṃ) [gamanam](gamanam) [bhavet](bhavet)
+[na](na) [sarodeva](sarodeva) [svāteṣu](svāteṣu) [skhalitam](skhalitaṃ) [gamanam](gamanaṃ) [bhavet](bhavet)
 
 ## mukta-m0-p32-v782
 [caṃdonmattā](caṃdonmattā) [padasthāne](padasthāne) [caṃdragarbhā](caṃdragarbhā) [prakīrttitā](prakīrttitā)
 
 ## mukta-m0-p32-v783
-[atra](atra) [dūtyāḥ](dūtyāḥ) [śarīrasya](śarīrasya) [pūrvatrāpi](pūrvatrāpi) [daśā](daśā) [bruve](bruve)
+[atradūtyāḥ](atradūtyāḥ) [śarīrasya](śarīrasya) [pūrvatrāpi](pūrvatrāpi) [daśā](daśā) [bruve](bruve)
 
 ## mukta-m0-p32-v784
-[īṣat](īṣat) [āraktatā](āraktatā) [netre](netre) [kiṃcit](kiṃcid) [bhū](bhū) [vallitā](vallitā) [aṃḍavaṃ](aṃḍavaṃ)
+[īṣad](īṣad) [āraktatā](āraktatā) [netre](netre) [kiṃcit](kiṃcid) [bhū](bhū) [vallitāṃḍavaṃ](vallitāṃḍavaṃ)
 
 ## mukta-m0-p32-v785
 [ānaṃdanātha](ānaṃdanātha) [bhavana](bhavana) [bāhyakakṣyā](bāhyakakṣyā) [vigāhanam](vigāhanam)
 
 ## mukta-m0-p32-v786
-[stanayoḥ](stanayoḥ) [pulakāṃkūraḥ](pulakāṃkūraḥ) [gaṃḍayoḥ](gaṃḍayoḥ) [ca](ca) [anuraktatā](anuraktatā)
+[stanayoḥ](stanayoḥ) [pulakāṃkūraḥ](pulakāṃkūraḥ) [gaṃḍayoḥ](gaṃḍayoś) [ca](ca) [anuraktatā](anuraktatā)
 
 ## mukta-m0-p32-v787
-[evaṃ](evaṃ) [prakārā](prakārā) [sā](sā) [dūtī](dūtī) [caṃdragarbhā](caṃdragarbhā) [amṛta](amṛta) [dravaiḥ](dravaiḥ)
+[evaṃ](evaṃ) [prakārā](prakārā) [sā](sā) [dūtī](dūtī) [caṃdragarbhā](caṃdragarbhā) [amṛtadravaiḥ](amṛtadravaiḥ)
 
 ## mukta-m0-p32-v788
-[yajet](yajet) [ānaṃdanātham](ānaṃdanātham) [sā](sā) [vīravat](vīravat) [phalam](phalam) [aśnute](aśnute)
+[yajed](yajed) [ānaṃdanāthaṃ](ānaṃdanāthaṃ) [sā](sā) [vīravat](vīravat) [phalam](phalamaśnute) [aśnute](aśnute)
 
 ## mukta-m0-p32-v789
-[arthāṃguli](arthāṃguli) [samunnamra](samunnamra) [taptakāṃcana](taptakāṃcana) [sannibhā](sannibhā)
+[arthāṃguli](arthāṃguli) [samunnamra](samunnamra) [taptakāṃcana](taptakāṃcanasannibhā) [sannibhā](sannibhā)
 
 ## mukta-m0-p32-v790
-[tasyāḥ](tasyāḥ) [caṃdriṇikā](caṃdriṇikā) [nāḍyāḥ](nāḍyāḥ) [bhūyoliṃgeśa](bhūyoliṃgeśa) [tāḍavāt](tāḍavāt)
+[tasyāḥ](tasyāś) [caṃdriṇikā](caṃdriṇikā) [nāyā](nāyā) [bhūyoliṃgeśa](bhūyoliṃgeśatāḍavāt) [tāḍavāt](tāḍavāt)
 
 ## mukta-m0-p32-v791
-[kādaṃbarī](kādaṃbarī) [rasa](rasa) [āmodīmān](āmodīmān) [madaṃta](madaṃta) [udbhavet](udbhavet)
+[kādaṃbarī](kādaṃbarī) [rasāmodī](rasāmodīmānmadaṃtoya) [mān](mān) [madaṃ](madaṃ) [toya](toya) [mudbhavet](mudbhavet)
 
 ## mukta-m0-p32-v792
-[godāvarī](godāvarī) [tīrthamayī](tīrthamayī) [tayā](tayā) [siṃcet](siṃcet) [maheśvaram](maheśvaram)
+[godāvarī](godāvarī) [tīrthamayī](tīrthamayī) [tayā](tayā) [siṃcet](siṃcenmaheśvaram) [maheśvaram](maheśvaram)
 
 ## mukta-m0-p32-v793
-[rudratva](rudratva) [sīmā](sīmā) [bhaktasya](bhaktasya) [vahni](vahni) [tattva](tattva) [vaśīkṛtim](vaśīkṛtim)
+[rudratva](rudratvasīmābhaktasya) [sīmā](sīmā) [bhaktasya](bhaktasya) [vahni](vahnitattva) [tattva](tattva) [vaśīkṛtim](vaśīkṛtim)
 
 ## mukta-m0-p32-v794
-[tanoti](tanoti) [bhagavān](bhagavān) [eṣaḥ](eṣaḥ) [mahānaṃda](mahānaṃda) [maheśvaraḥ](maheśvaraḥ)
+[tanoti](tanoti) [bhagavān](bhagavāneṣaḥ) [eṣaḥ](eṣaḥ) [mahānaṃda](mahānaṃda) [maheśvaraḥ](maheśvaraḥ)
 
 ## mukta-m0-p32-v795
-[umedāham](umedāham) [prayacchaṃti](prayacchaṃti) [svayam](svayam) [agni](agni) [mayoyataḥ](mayoyataḥ)
+[umedāham](umedāhaṃ) [prayacchaṃti](prayacchaṃti) [svayam](svayam) [agni](agni) [mayoyataḥ](mayoyataḥ)
 
 ## mukta-m0-p32-v796
-[asya](asya) [mantraḥ](mantraḥ) [tu](tu) [suśroṇī](suśroṇī) [śrūyatām](śrūyatām) [abhidhīyate](abhidhīyate)
+[asya](asyāmaṃtrastu) [maṃtraḥ](maṃtraḥ) [tu](tu) [suśroṇī](suśroṇī) [śrūyatām](śrūyatām) [abhidhīyate](abhidhīyate)
 
 ## mukta-m0-p32-v797
 [arcayāmi](arcayāmi) [bhavadgātra](bhavadgātra) [mataḥ](mataḥ) [siddhiṃ](siddhiṃ) [prayacchame](prayacchame)
 
 ## mukta-m0-p32-v798
-[atha](atha) [anya](anya) [nāḍikā](nāḍikā) [devī](devī) [yā](yā) [sā](sā) [caṃdramahodayā](caṃdramahodayā)
+[atha](athānyanāḍikādevī) [anya](anya) [nāḍikā](nāḍikā) [devī](devī) [yā](yā) [sā](sā) [caṃdramahodayā](caṃdramahodayā)
 
 ## mukta-m0-p32-v799
-[antaḥ](antaḥ) [kiṃcit](kiṃcit) [śyāma](śyāma) [varṇā](varṇā) [triṣu](triṣu) [sthāneṣu](sthāneṣu) [vakritā](vakritā)
+[aṃtaḥ](aṃtaḥ) [kiṃcit](kiṃcic) [śyāma](śyāmavarṇā) [varṇā](varṇā) [triṣu](triṣu) [sthāneṣu](sthāneṣu) [vakritā](vakritā)
 
 ## mukta-m0-p32-v800
-[līlānamrita](līlānamrita) [gaurāṃgī](gaurāṃgī) [valadbhrū](valadbhrū) [vallibhāsurā](vallibhāsurā)
+[līlānamrita](līlānamrita) [gaurāṃgī](gaurāṃgī) [valadbhrū](valadbhrūvallibhāsurā) [valli](valli) [bhāsurā](bhāsurā)
