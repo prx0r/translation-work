@@ -11,8 +11,16 @@
 "quick_gloss": "repel"
 },
 {
-"surface": "ducchanām",
-"quick_gloss": "evil"
+"surface": "aducchanām",
+"quick_gloss": "non-shining"
+},
+{
+"surface": "tad",
+"quick_gloss": "that"
+},
+{
+"surface": "eva",
+"quick_gloss": "indeed"
 }
 ]
 },
@@ -28,11 +36,11 @@
 "quick_gloss": "place"
 },
 {
-"surface": "oṣa",
-"quick_gloss": "strength"
+"surface": "yoṣa",
+"quick_gloss": "light"
 },
 {
-"surface": "rayim",
+"surface": "rayiṃ",
 "quick_gloss": "wealth"
 },
 {
@@ -54,11 +62,15 @@
 },
 {
 "surface": "trivarūtha",
-"quick_gloss": "threefold"
+"quick_gloss": "three-fold"
 },
 {
 "surface": "udbhau",
 "quick_gloss": "rising"
+},
+{
+"surface": "eva",
+"quick_gloss": "indeed"
 }
 ]
 },
@@ -72,6 +84,18 @@
 {
 "surface": "sapatnān",
 "quick_gloss": "rivals"
+},
+{
+"surface": "apākuru",
+"quick_gloss": "remove"
+},
+{
+"surface": "sarva",
+"quick_gloss": "all"
+},
+{
+"surface": "adhunā",
+"quick_gloss": "now"
 }
 ]
 },
@@ -92,7 +116,11 @@
 },
 {
 "surface": "bhavet",
-"quick_gloss": "be"
+"quick_gloss": "become"
+},
+{
+"surface": "tathā",
+"quick_gloss": "thus"
 }
 ]
 },
@@ -104,7 +132,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "vṛtrahan",
+"surface": "vṛtrahañ",
 "quick_gloss": "vṛtra-slayer"
 },
 {
@@ -162,12 +190,12 @@
 "quick_gloss": "sunset"
 },
 {
-"surface": "sarva",
-"quick_gloss": "all"
+"surface": "sarvapāpa",
+"quick_gloss": "all-sins"
 },
 {
-"surface": "pāpagūṃsamūhatām",
-"quick_gloss": "sin-removing"
+"surface": "samūhatām",
+"quick_gloss": "remove"
 }
 ]
 },
@@ -187,20 +215,16 @@
 "quick_gloss": "fire"
 },
 {
-"surface": "tatas",
+"surface": "tataḥ",
 "quick_gloss": "then"
 },
 {
-"surface": "tyāga",
-"quick_gloss": "renunciation"
-},
-{
-"surface": "agnaye",
-"quick_gloss": "fire"
+"surface": "tyāgognaye",
+"quick_gloss": "release-fire"
 },
 {
 "surface": "bhavet",
-"quick_gloss": "be"
+"quick_gloss": "become"
 }
 ]
 },
@@ -212,7 +236,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "prakṣāyataḥ",
+"surface": "prakṣāyato",
 "quick_gloss": "washing"
 },
 {
@@ -237,20 +261,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "asmāt",
-"quick_gloss": "from-us"
+"surface": "asmān",
+"quick_gloss": "us"
 },
 {
-"surface": "diśāḥ",
+"surface": "diśāś",
 "quick_gloss": "directions"
 },
 {
-"surface": "sarvāḥ",
+"surface": "sarvā",
 "quick_gloss": "all"
-},
-{
-"surface": "tān",
-"quick_gloss": "those"
 },
 {
 "surface": "apākuru",
@@ -271,7 +291,7 @@
 },
 {
 "surface": "antime",
-"quick_gloss": "final"
+"quick_gloss": "last"
 },
 {
 "surface": "vaiśvānarāya",
@@ -303,10 +323,6 @@
 "quick_gloss": "whose"
 },
 {
-"surface": "aham",
-"quick_gloss": "I"
-},
-{
 "surface": "purohitaḥ",
 "quick_gloss": "priest"
 }
@@ -329,11 +345,7 @@
 },
 {
 "surface": "unnuyāmi",
-"quick_gloss": "overcome"
-},
-{
-"surface": "svāṃ",
-"quick_gloss": "own"
+"quick_gloss": "drive"
 },
 {
 "surface": "aham",
@@ -350,7 +362,7 @@
 "tokens": [
 {
 "surface": "punarādhītaṃ",
-"quick_gloss": "re-studied"
+"quick_gloss": "again-studied"
 },
 {
 "surface": "ma",
@@ -416,11 +428,7 @@
 },
 {
 "surface": "duritāt",
-"quick_gloss": "from-distress"
-},
-{
-"surface": "avadyāt",
-"quick_gloss": "from-fault"
+"quick_gloss": "from-harm"
 }
 ]
 },
@@ -444,7 +452,7 @@
 "quick_gloss": "asking"
 },
 {
-"surface": "yat",
+"surface": "yad",
 "quick_gloss": "what"
 },
 {
@@ -452,12 +460,8 @@
 "quick_gloss": "here"
 },
 {
-"surface": "enaḥ",
+"surface": "eno",
 "quick_gloss": "sin"
-},
-{
-"surface": "ava",
-"quick_gloss": "ava"
 },
 {
 "surface": "tat",
@@ -465,7 +469,7 @@
 },
 {
 "surface": "suvāmi",
-"quick_gloss": "we-own"
+"quick_gloss": "purify"
 }
 ]
 },
@@ -477,12 +481,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "yat",
+"surface": "yac",
 "quick_gloss": "what"
 },
 {
-"surface": "śatām",
-"quick_gloss": "they-give"
+"surface": "chatām",
+"quick_gloss": "give"
 },
 {
 "surface": "etat",
@@ -502,7 +506,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "pracyutaḥ",
+"surface": "pracyuto",
 "quick_gloss": "fallen"
 },
 {
@@ -519,7 +523,7 @@
 },
 {
 "surface": "anuṣva",
-"quick_gloss": "after"
+"quick_gloss": "follow"
 }
 ]
 },
@@ -531,15 +535,11 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "jāyā",
-"quick_gloss": "wife"
+"surface": "jāyāparīkṣa",
+"quick_gloss": "wife-examination"
 },
 {
-"surface": "parīkṣa",
-"quick_gloss": "examination"
-},
-{
-"surface": "gūṃrabhethāḥ",
+"surface": "abhethāḥ",
 "quick_gloss": "approach"
 }
 ]
@@ -557,7 +557,7 @@
 },
 {
 "surface": "cakṛma",
-"quick_gloss": "we-did"
+"quick_gloss": "done"
 },
 {
 "surface": "karotu",
@@ -604,6 +604,18 @@
 {
 "surface": "kṛṇotu",
 "quick_gloss": "make"
+},
+{
+"surface": "eva",
+"quick_gloss": "indeed"
+},
+{
+"surface": "tathā",
+"quick_gloss": "thus"
+},
+{
+"surface": "adhunā",
+"quick_gloss": "now"
 }
 ]
 },
@@ -619,8 +631,8 @@
 "quick_gloss": "by-mantra"
 },
 {
-"surface": "tyāga",
-"quick_gloss": "renunciation"
+"surface": "tyāgo",
+"quick_gloss": "release"
 },
 {
 "surface": "vaiśvānarāya",
