@@ -2,52 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p80-v1976
-[workers](karmakarāṃścānyān) [poor](dīnānāthāṃstathārthinaḥ)
+[karma-worker](karmakarān) [ca-and](ca) [anya-other](anyān) [dīna-poor](dīnān) [ānātha-lordless](ānāthāṃs) [tathā-thus](tathā) [arthin-seeker](arthinaḥ)
+
 ## mukta-m0-p80-v1977
-[beginning](samārabhya) [bathing-end-days](snapanāntadineṣvapi)
+[samārabhya-beginning](samārabhya) [snapana-bathing](snapana) [anta-end](anta) [dineṣu-days](dineṣu) [api-also](api)
+
 ## mukta-m0-p80-v1978
-[give](pradadyādannapānādi) [excellent-sauce](suvyañjanarasottaram)
+[pradadyāt-give](pradadyād) [anna-food](anna) [pāna-drink](pāna) [ādi-etc](ādi) [su-vyañjana-good-condiment](suvyañjana) [rasa-taste](rasa) [uttara-best](uttaram)
+
 ## mukta-m0-p80-v1979
-[all](sarve) [become](bhavanti) [leaders](gaṇanāyakāḥ)
+[sarve-all](sarve) [bhavanti-become](bhavanti) [gaṇa-group](gaṇa) [nāyakāḥ-leaders](nāyakāḥ)
+
 ## mukta-m0-p80-v1980
-[with-daughter-of-mountain-king](śailādhirājasutayā) [with-gaṇendra](sahito) [gaṇendraiḥ](gaṇendraiḥ)
+[śaila-mountain](śaila) [adhirāja-king](adhirāja) [sutayā-daughter](sutayā) [sahita-with](sahitaḥ) [gaṇa-group](gaṇa) [indraiḥ-lords](indraiḥ)
+
 ## mukta-m0-p80-v1981
-[and](ca) [three](trīṇi) [best](śreṣṭhaṃ) [and](ca) [three-bathings](snapanatrayam)
+[ca-and](ca) [trīṇi-three](trīṇi) [śreṣṭhaṃ-best](śreṣṭhaṃ) [ca-and](ca) [snapana-bathing](snapana) [trayam-triad](trayam)
+
 ## mukta-m0-p80-v1982
-[with-eighty-eight](ekāśītyāṣṭayuktena) [hundred](śatena) [two-hundred](dviśatena) [and](ca)
+[ekāśītyā-eighty-one](ekāśītyā) [aṣṭa-eight](aṣṭa) [yuktena-joined](yuktena) [śatena-hundred](śatena) [dviśatena-two-hundred](dviśatena) [ca-and](ca)
+
 ## mukta-m0-p80-v1983
-[hundreds](śataistathaiveṣuśataiḥ) [seven-hundreds](saptaśatairapi)
+[śataiḥ-hundreds](śataiḥ) [tathā-thus](tathā) [eva-only](eva) [iṣu-arrow](iṣu) [śataiḥ-hundreds](śataiḥ) [saptaśataiḥ-seven-hundreds](saptaśataiḥ) [api-also](api)
+
 ## mukta-m0-p80-v1984
-[or-thousand-plus-eight](aṣṭottarasahasrairvā) [then](tataḥ) [thousand-pots](sahasrakalaśaistataḥ)
+[aṣṭottara-eight-plus](aṣṭottara) [sahasraiḥ-thousands](sahasraiḥ) [vā-or](vā) [sahasra-thousand](sahasra) [kalaśaiḥ-pots](kalaśaiḥ) [tataḥ-then](tataḥ)
+
 ## mukta-m0-p80-v1985
-[beginning-hundred-eight](aṣṭottaraśatādīnāṃ) [beyond](paraḥ)
+[aṣṭottara-eight-plus](aṣṭottara) [śatādīnāṃ-hundreds-etc](śatādīnāṃ) [paraḥ-beyond](paraḥ)
+
 ## mukta-m0-p80-v1986
-[with-nine-pots](kalaśairnavabhiḥ) [first](pūrvam) [small-named](alpākhyaṃ) [bathing](snapanaṃ) [remembered](smṛtam)
+[kalaśaiḥ-pots](kalaśaiḥ) [navabhiḥ-nine](navabhiḥ) [pūrvam-first](pūrvam) [alpa-small](alpa) [ākhyaṃ-named](ākhyaṃ) [snapanaṃ-bathing](snapanaṃ) [smṛtam-remembered](smṛtam)
+
 ## mukta-m0-p80-v1987
-[beginning-hundred-eight](aṣṭhottaraśatādyaistu)
+[aṣṭottara-eight-plus](aṣṭottara) [śatādyaiḥ-hundreds-etc](śatādyaiḥ) [tu-but](tu)
+
 ## mukta-m0-p80-v1988
-[from-pavilion](maṇḍapāt) [separate-indeed](pṛthageva) [hi](hi)
+[maṇḍapāt-pavilion](maṇḍapāt) [pṛthak-separate](pṛthak) [eva-only](eva) [hi-indeed](hi)
+
 ## mukta-m0-p80-v1989
-[with-atidhṛti-meters](atiśakarikātyaṣṭikarairatidhṛtermitaiḥ)
+[atiśakarikā-atiśakari](atiśakarikā) [tyaṣṭikaraiḥ-tyaṣṭikara](tyaṣṭikaraiḥ) [atidhṛti-atidhṛti](atidhṛti) [ermitaiḥ-mita](ermitaiḥ)
+
 ## mukta-m0-p80-v1990
-[thousand-pot](sahasrakalaśasyātha) [middle](mādhamāḥ)
+[sahasra-thousand](sahasra) [kalaśasya-pot](kalaśasya) [atha-then](atha) [mādhamāḥ-middle](mādhamāḥ)
+
 ## mukta-m0-p80-v1991
-[then](tu) [of-hands](hastānāṃ) [thirty-three](trayastriṃśadbiruttamaḥ)
+[tu-but](tu) [hastānāṃ-hands](hastānāṃ) [trayastriṃśadbhiḥ-thirty-three](trayastriṃśadbhiḥ) [uttamaḥ-best](uttamaḥ)
+
 ## mukta-m0-p80-v1992
-[should-be](syuḥ) [well-equal](susamāḥ) [all](sarve'pyekajātitarūdbhavāḥ)
+[syuḥ-be](syuḥ) [susamāḥ-well-equal](susamāḥ) [sarve-all](sarve) [api-also](api) [ekajāti-one-class](ekajāti) [taru-tree](taru) [udbhavāḥ-born](udbhavāḥ)
+
 ## mukta-m0-p80-v1993
-[with-rudra-jagatī-counts](rudrātijagatīsaṃkhyaiścātiśakvarikāmitaiḥ)
+[rudra-rudra](rudra) [atiśakvarī-atiśakvarī](atiśakvarī) [saṃkhyaiḥ-numbers](saṃkhyaiḥ) [ca-and](ca) [atiśakvarikā-atiśakvarikā](atiśakvarikā) [mitaiḥ-measured](mitaiḥ)
+
 ## mukta-m0-p80-v1994
-[that-cord](tannāho'rkāṅgulairalpe) [then](tato) [two-three-four-fold](dvitricaturguṇaiḥ)
+[tan-nāha-that-nāha](tannāha) [arka-sun](arka) [aṅgulaiḥ-fingers](aṅgulaiḥ) [alpe-small](alpe) [tataḥ-then](tataḥ) [dvitri-dvi-tri](dvitri) [catur-four](catur) [guṇaiḥ-times](guṇaiḥ)
+
 ## mukta-m0-p80-v1995
-[roof-covering](lupāvaṃśānuvaṃśādyamūrdhvapracchādanaṃ) [and](tathā)
+[lupā-lupa](lupā) [vaṃśa-bamboo](vaṃśa) [anuvaṃśa-descendant](anuvaṃśa) [ādya-beginning](ādya) [ūrdhva-upward](ūrdhva) [pracchādanaṃ-covering](pracchādanaṃ) [tathā-thus](tathā)
+
 ## mukta-m0-p80-v1996
-[should-be-done](vidheyaṃ) [syād](syād) [as-suitable](yathāyuktyupapattitaḥ)
+[vidheyaṃ-to-be-done](vidheyaṃ) [syād-be](syād) [yathāyukti-as-fitting](yathāyukti) [upapattitaḥ-according](upapattitaḥ)
+
 ## mukta-m0-p80-v1997
-[all](sarve) [to-be-made](kartavyā) [pavilions](maṇḍapāḥ) [in-order](kramāt)
+[sarve-all](sarve) [kartavyā-to-be-done](kartavyā) [maṇḍapāḥ-pavilions](maṇḍapāḥ) [kramāt-in-order](kramāt)
+
 ## mukta-m0-p80-v1998
-[with-bricks-wood-clay](iṣṭakādārumṛtsnābhiḥ) [around](parito) [bound-platform](baddhakuṭṭimam)
+[iṣṭakā-brick](iṣṭakā) [dāru-wood](dāru) [mṛtsnābhiḥ-clay](mṛtsnābhiḥ) [paritaḥ-around](paritaḥ) [baddha-bound](baddha) [kuṭṭimam-floor](kuṭṭimam)
+
 ## mukta-m0-p80-v1999
-[having-recited](vācayitvā) [tu](tu) [vāstu-homa](vāstuhomaṃ) [ca](ca) [should-do](kārayet)
+[vācayitvā-recite](vācayitvā) [tu-but](tu) [vāstu-vāstu](vāstu) [homaṃ-homa](homaṃ) [ca-and](ca) [kārayet-cause](kārayet)
+
 ## mukta-m0-p80-v2000
-[that-half](tadardhaṃ) [or](vā) [then-half](tato'rdhaṃ) [or](vā) [as-rite](yathāvidhi)
+[tadardhaṃ-half](tadardhaṃ) [vā-or](vā) [tataḥ-then](tataḥ) [ardhaṃ-half](ardhaṃ) [vā-or](vā) [yathāvidhi-according-to-rule](yathāvidhi)

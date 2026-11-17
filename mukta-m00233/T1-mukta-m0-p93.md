@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p93-v2301
-[by-mantra](mantreṇa) [bilva+five-limbs+waters](bilvapañcāṅgavāribhiḥ)
+[by-mantra](mantreṇa) [bilva-five-limb-waters](bilvapañcāṅgavāribhiḥ)
 
 ## mukta-m0-p93-v2302
-[with-eyes](cakṣuṣeti) [bathe](snapayet) [sprout-waters](pallavāmbubhiḥ)
+[eye-thus](cakṣuṣeti) [bathe](snapayet) [sprout-waters](pallavāmbubhiḥ)
 
 ## mukta-m0-p93-v2303
-[jātavedaḥ-pavitra-etc](jātavedaḥpavitrādyairanuvākāntataḥ) [in-order](kramāt)
+[fire-purifier-etc](jātavedaḥpavitrādyair) [recitation-end](anuvākāntataḥ) [in-order](kramāt)
 
 ## mukta-m0-p93-v2304
-[thus-etc](ityādyāddhaimāstrasalilairapi)
+[thus-etc](ityādyāt) [golden-weapon-waters](haimāstrasalilair) [also](api)
 
 ## mukta-m0-p93-v2305
-[bathe](abhiṣiñcen) [great-god](mahādevaṃ) [flower-incense-water-interval](puṣpadhūpajalāntaram)
+[bathe](abhiṣiñcet) [great-god](mahādevam) [flower-incense-water-interval](puṣpadhūpajalāntaram)
 
 ## mukta-m0-p93-v2306
-[by-direction-yoga](digvidigyogāt) [pots](kalaśaiḥ) [bathe-śiva](snapayecchivam)
+[direction-knowledge-yoga](digvidigyogāt) [pots](kalaśaiḥ) [bathe](snapayet) [Shiva](śivam)
 
 ## mukta-m0-p93-v2307
-[with-flowers-cold-waters](sapuṣpaiḥśītavāribhiḥ)
+[with-flowers](sapuṣpaiḥ) [cold-waters](śītavāribhiḥ)
 
 ## mukta-m0-p93-v2308
-[pots](kumbhānāṃ) [having-bathed](snapayitvoditakramāt)
+[pots](kumbhānām) [having-bathed](snapayitvā) [risen-order](uditakramāt)
 
 ## mukta-m0-p93-v2309
-[vaiṣṇavī](vaiṣṇavīṃ) [raudrī](raudrīṃ) [vimalā](vimalāṃ) [ca](ca) [joined-palms](kṛtāñjalim)
+[Vaishnavi](vaiṣṇavīm) [Raudri](raudrīm) [Vimala](vimalām) [and](ca) [joined-palms](kṛtāñjalim)
 
 ## mukta-m0-p93-v2310
-[kuśa-tips](kuśāgrāṇi) [having-united](militvā) [purify-śiva](mārjayecchivam)
+[kusha-tips](kuśāgrāṇi) [having-united](militvā) [cleanse](mārjayet) [Shiva](śivam)
 
 ## mukta-m0-p93-v2311
-[bathe-with-waters](snapayeccādbhiḥ) [then-do-ārati](kuryānnīrājanaṃ) [tataḥ](tataḥ)
+[bathe](snapayet) [and](ca) [waters](adbhiḥ) [do](kuryāt) [lamp-waving](nīrājanam) [then](tataḥ)
 
 ## mukta-m0-p93-v2312
-[god-eight-auspicious](devāṣṭamaṅgalaiścānyairlokapālāyudhairapi)
+[god-eight-auspicious](devāṣṭamaṅgalaiḥ) [and](ca) [others](anyaiḥ) [world-guardian-weapons](lokapālāyudhaiḥ) [also](api)
 
 ## mukta-m0-p93-v2313
-[curds-akṣata](dadhyakṣataiśca) [well-placed](sunyastaiḥ) [by-man](puṃsā) [wave-light-lord](nīrājayed) [vibhum](vibhum)
+[curd-rice](dadhyakṣataiḥ) [and](ca) [well-placed](sunyastaiḥ) [by-man](puṃsā) [wave-lamp](nīrājayet) [lord](vibhum)
 
 ## mukta-m0-p93-v2314
-[timiḷa-drum-etc](timilānakabheryādyairninadadbhiranāratam)
+[drums-etc](timilānakabheryādyaiḥ) [resounding](ninadadbhiḥ) [unceasingly](anāratam)
 
 ## mukta-m0-p93-v2315
-[bathe](snapayet) [then-middle-pot](tato) [madhyaghaṭena] [tu](tu)
+[bathe](snapayet) [then](tato) [middle-pot](madhyaghaṭena) [indeed](tu)
 
 ## mukta-m0-p93-v2316
-[very-fine-unworn-cotton](susūkṣmairahatairau(kṣṇaiḥ? rṇaiḥ)) [kārpāsikairapi](kārpāsikairapi)
+[very-fine](susūkṣmaiḥ) [unworn](ahataiḥ) [cotton](kārpāsikaiḥ) [also](api)
 
 ## mukta-m0-p93-v2317
-[in-faces-arghya](mukheṣvarghyaṃ) [by-eye-ācamana](netreṇācamanaṃ) [tathā](tathā)
+[faces](mukheṣu) [arghya](arghyam) [eye](netreṇa) [sipping](ācamanam) [thus](tathā)
 
 ## mukta-m0-p93-v2318
-[crown-etc](makuṭādyairyathāśobhaṃ) [pedestal-ornament-end](piṇḍikābhūṣaṇāntakaiḥ)
+[crown-etc](makuṭādyaiḥ) [as-beauty](yathāśobham) [pedestal-ornament-end](piṇḍikābhūṣaṇāntakaiḥ)
 
 ## mukta-m0-p93-v2319
 [well-ground](supiṣṭena) [with-camphor-cool-water](sakarpūrahimāmbhasā)
 
 ## mukta-m0-p93-v2320
-[garlands](mālābhiralaṅkuryādajātataḥ)
+[garlands](mālābhiḥ) [adorn](alaṅkuryāt) [from-unborn](ajātataḥ)
 
 ## mukta-m0-p93-v2321
-[śambhu](śambhuṃ) [lamp](dīpaṃ) [give](dadyācca) [varma-from](varmataḥ)
+[Shambhu](śambhum) [lamp](dīpam) [give](dadyāt) [and](ca) [armor](varmataḥ)
 
 ## mukta-m0-p93-v2322
-[ārātrika](ārātrikamathāstreṇa) [having-rotated](bhramayitvāvatārayet)
+[lamp-waving](ārātrikam) [then](atha) [weapon](astreṇa) [having-circled](bhramayitvā) [lower](avatārayet)
 
 ## mukta-m0-p93-v2323
-[with-rice-grains](śālijaistaṇḍulaprasthaistato'rdhairvāpyato'rdhataḥ)
+[rice-born](śālijaiḥ) [rice-measure](taṇḍulaprasthaiḥ) [then](tato) [halves](ardhaiḥ) [or](vā) [from-half](apyato'rdhataḥ)
 
 ## mukta-m0-p93-v2324
-[and-curd-rice-with-turmeric-well-cooked](cātha) [dadhyanna] [saharidraṃ] [susādhitam]
+[and](ca) [then](atha) [curd-rice](dadhyannam) [with-turmeric](saharidram) [well-cooked](susādhitam)
 
 ## mukta-m0-p93-v2325
-[in-īśāna-etc-faces](īśānādimukhāgreṣu) [abundant-ghee-anointed](prājyājyāktaṃ) [offer](nivedayet)
+[Ishana-etc-faces](īśānādimukhāgreṣu) [abundant-ghee-anointed](prājyājyāktam) [offer](nivedayet)

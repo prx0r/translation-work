@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p33-v801
-[jīva](jīvastṛṇajadūkeva) [dehāt](dehāddehāṃ) [viśet](viśetkramāt)
+[jiva](jīvaḥ) [like-straw-in-water](tṛṇajadūkeva) [from-body](dehāt) [into-body](dehāṃ) [may-enter](viśet) [gradually](kramāt)
 
 ## mukta-m0-p33-v802
-[nānā-vyādhi-samākīrṇe](nānāvyādhisamākīrṇe) [viṣaya-uraga-bhūṣite](viṣayoragabhūṣite)
+[with-various-diseases](nānāvyādhisamākīrṇe) [with-sense-objects-as-serpents](viṣayoragabhūṣite)
 
 ## mukta-m0-p33-v803
-[kāma-krodha-bhavaiḥ-tāpaiḥ](kāmakrodhabhavaistāpaiḥ) [muhur-muhur-ātāpitaḥ](muhurmuhuratāpitaḥ)
+[by-desire-anger-birth-pains](kāmakrodhabhavaistāpaiḥ) [again-and-again](muhurmuhuḥ) [burned](atāpitaḥ)
 
 ## mukta-m0-p33-v804
-[cintā-śoka-saṃpūrṇe](cintāśokasusaṃpūrṇe) [aho](aho) [devi](devi) [su-duḥkhitaḥ](suduḥkhitaḥ)
+[full-of-thought-grief](cintāśokasusaṃpūrṇe) [alas](aho) [devi](devi) [very-sorrowful](suduḥkhitaḥ)
 
 ## mukta-m0-p33-v805
-[viṇ-mūtra-retas-saṃpūrṇe](viṇmūtraretassaṃpūrṇe) [katham](katham) [atra](atra) [ramāmi](ramāmyaham) [aham](aham)
+[full-of-feces-urine-semen](viṇmūtraretassaṃpūrṇe) [how](katham) [here](atra) [may-i-delight](ramāmyaham)
 
 ## mukta-m0-p33-v806
-[anarthāni](anarthāni) [manojñāni](manojñāni) [tadvat](tadvadetaccharīrakam) [etat](etat) [śarīrakam](śarīrakam)
+[useless](anarthāni) [pleasing](manojñāni) [likewise](tadvat) [this-body](etaccharīrakam)
 
 ## mukta-m0-p33-v807
-[tattva-grāha-samākīrṇe](tatvagrāhasamākīrṇe) [plava-uda-jñāna-sāgare](plavodajñānasāgare)
+[full-of-truth-grasping](tatvagrāhasamākīrṇe) [in-ocean-of-ignorance](plavodajñānasāgare)
 
 ## mukta-m0-p33-v808
-[su-ciram](suciraṃ) [dīrgha-niśvāsam](dīrghaniśvāsam) [utsṛjya](utsṛjya) [parivedya](parivedya) [ca](ca)
+[for-long](suciraṃ) [deep-sigh](dīrghaniśvāsam) [releasing](utsṛjya) [and-lamenting](parivedya) [ca](ca)
 
 ## mukta-m0-p33-v809
-[putra-āgāra-ādi-kaiśvarya](putrāgārādikaiśvarya) [vyākulīkṛta-mānasaḥ](vyākulīkṛtamānasaḥ)
+[by-sons-house-wealth](putrāgārādikaiśvarya) [mind-agitated](vyākulīkṛtamānasaḥ)
 
 ## mukta-m0-p33-v810
-[tvacā-arthāḥ](tvacārthāḥ) [tva](tva) [ca](ca) [mitrāṇi](mitrāṇi) [bāndhavāḥ](bāndhavāḥ) [tva](tva) [gṛhāṇi](gṛhāṇi) [vai](vai)
+[skins](tvacārthāḥ) [and](tva) [friends](ca) [mitrāṇi](mitrāṇi) [relatives](bāndhavāḥ) [and](tva) [houses](gṛhāṇi) [indeed](vai)
 
 ## mukta-m0-p33-v811
-[putra-dāra-kuṭuṃba-arthāḥ](putradārakuṭuṃbārthāḥ) [śatṛ-vat](śatṛvat) [pratibhānti](pratibhānti) [me](me)
+[for-sons-wife-family](putradārakuṭuṃbārthāḥ) [like-enemies](śatṛvat) [appear](pratibhānti) [to-me](me)
 
 ## mukta-m0-p33-v812
-[tasya-anusadṛśam](tasyānusadṛśaṃ) [bhuṅkte](bhuṅkte) [phalam](phalameko'nyajanmani) [ekaḥ](ekaḥ) [anya-janmani](anyajanmani)
+[according-to-that](tasyānusadṛśaṃ) [enjoys](bhuṅkte) [fruit](phalam) [alone](ekaḥ) [in-another-birth](anyajanmani)
 
 ## mukta-m0-p33-v813
-[eṣām-āśritya](eṣāmāśritya) [bhogāya](bhogāya) [kalpitāḥ](kalpitāstena) [tena](tena) [duḥkhitāḥ](duḥkhitāḥ)
+[relying-on-these](eṣāmāśritya) [for-enjoyment](bhogāya) [created](kalpitāḥ) [by-him](tena) [sorrowful](duḥkhitāḥ)
 
 ## mukta-m0-p33-v814
-[sahāyāḥ](sahāyā) [na](na) [bhavanti](bhavantyete) [ete](ete) [na](na) [anugacchanti](anugacchanti) [gacchatām](gacchatām)
+[companions](sahāyāḥ) [not](na) [become](bhavanti) [these](ete) [nor](nā) [follow](anugacchanti) [going](gacchatām)
 
 ## mukta-m0-p33-v815
-[ekaḥ](ekaḥ) [su-kṛtam](sukṛtamaśnāti) [aśnāti](aśnāti) [tathā](tathā) [duṣ-kṛtam](duṣkṛtameva) [eva](eva) [ca](ca)
+[one](ekaḥ) [good-deed](sukṛtam) [eats](aśnāti) [thus](tathā) [bad-deed](duṣkṛtam) [indeed](eva) [ca](ca)
 
 ## mukta-m0-p33-v816
-[vairāgyam](vairāgyamaparamāsthāya) [aparam](aparam) [āsthāya](āsthāya) [mṛgayati](mṛgayatyātmano) [ātmanaḥ](ātmano) [gatim](gatim)
+[renunciation](vairāgyam) [supreme](aparam) [resorting](āsthāya) [seeks](mṛgayati) [soul's](ātmanaḥ) [course](gatim)
 
 ## mukta-m0-p33-v817
-[santariṣye](santariṣye) [sukhena](sukhenāhamacirādaśubhārṇavam) [aham](aham) [acirāt](acirāt) [aśubha-arṇavam](aśubhārṇavam)
+[i-will-cross](santariṣye) [easily](sukhena) [i](aham) [soon](acirāt) [inauspicious-ocean](aśubhārṇavam)
 
 ## mukta-m0-p33-v818
-[nauḥ-iva](naurivottāraṇāyedaṃ) [uttāraṇāya](uttāraṇāya) [idam](idam) [saṃsāra-ambho-nidhe](saṃsārāṃbhonidhe) [smṛtaḥ](smṛtaḥ)
+[like-boat](nauḥ+iva) [for-crossing](uttāraṇāya) [this](idaṃ) [ocean-of-samsara](saṃsārāṃbhonidhe) [remembered](smṛtaḥ)
 
 ## mukta-m0-p33-v819
-[tad-asya-api](tadasyāpyupabhogena) [upabhogena](upabhogena) [kṣayam](kṣayamāyātyaśeṣataḥ) [āyāti](āyāti) [aśeṣataḥ](aśeṣataḥ)
+[by-its-enjoyment](tadasyāpyupabhogena) [to-decay](kṣayam) [comes](āyāti) [completely](aśeṣataḥ)
 
 ## mukta-m0-p33-v820
-[karmataḥ](karmataḥ) [svargataḥ](svargato) [yasmāt](yasmāt) [tasmāt](tasmādāvartanaṃ) [āvartanam](āvartanam) [punaḥ](punaḥ)
+[by-karma](karmataḥ) [to-heaven](svargataḥ) [since](yasmāt) [therefore](tasmāt) [return](āvartanaṃ) [again](punaḥ)
 
 ## mukta-m0-p33-v821
-[saṃpradṛṣṭā](saṃpradṛṣṭā) [gatiḥ](gatiriyaṃ) [iyam](iyam) [sarve](sarve) [te](te) [kṣaya-dharmiṇaḥ](kṣayadharmiṇaḥ)
+[seen](saṃpradṛṣṭā) [course](gatir) [this](iyaṃ) [all](sarve) [they](te) [perishable](kṣayadharmiṇaḥ)
 
 ## mukta-m0-p33-v822
-[bahavaḥ](bahavaḥ) [kṣayam](kṣayamatra) [atra](atra) [viśāradāḥ](viśāradāḥ)
+[many](bahavaḥ) [perish](kṣayam) [here](atra) [skilled](viśāradāḥ)
 
 ## mukta-m0-p33-v823
-[sanyastam](sanyastamapyavijñānādupa) [api](api) [avijñānāt](avijñānāt) [upa](upa)
+[renounced](sanyastam) [even](api) [without-knowledge](avijñānāt) [upa](upa)
 
 ## mukta-m0-p33-v824
-[vairāgya-vṛttiḥ](vairāgyavṛttiraparā) [aparā](aparā) [jñāna-vṛttiḥ](jñānavṛttistathā) [tathā](tathā) [parā](parā)
+[renunciation-course](vairāgyavṛttiḥ) [another](aparā) [knowledge-course](jñānavṛttiḥ) [thus](tathā) [another](parā)
 
 ## mukta-m0-p33-v825
-[guṇa-lakṣaṇāḥ](guṇalakṣaṇāḥ)
+[with-qualities](guṇalakṣaṇāḥ)

@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p50-v1226
-[śrīśailesvāmiśaile](at-śrīśaila-or-śaile) [vā](or) [godāvaryāṃ](on-godāvarī) [sarasvatau](on-sarasvatī)
+[at-shrishaila-or-shaile](śrīśailesvāmiśaile) [or](vā) [in-godavari](godāvaryāṃ) [in-sarasvati](sarasvatau)
 
 ## mukta-m0-p50-v1227
-[sindhusarastīre](on-sindhu-lake-shore) [vā](or) [sarasvatyāstaṭepi](on-sarasvatī-bank-too) [vā](or)
+[sindhu-lake-shore](sindhusarastīre) [or](vā) [on-sarasvati-bank-too](sarasvatyāstaṭepi) [or](vā)
 
 ## mukta-m0-p50-v1228
-[brāhmaṇasya](of-brāhmaṇa) [mahīśvetā](white-earth) [raktabhūmistu](red-earth-but) [bhūpateḥ](of-king)
+[brahmin's](brāhmaṇasya) [white-earth](mahīśvetā) [red-land-but](raktabhūmistu) [king's](bhūpateḥ)
 
 ## mukta-m0-p50-v1229
-[viprasya](of-brāhmaṇa) [ghṛtagandhātu](ghee-scented) [raktagandhā](blood-scented) [nṛpasya](of-king) [tu](but)
+[brahmin's](viprasya) [ghee-scented-but](ghṛtagandhātu) [red-scented](raktagandhā) [king's](nṛpasya) [but](tu)
 
 ## mukta-m0-p50-v1230
-[varṇaṃ](color) [gandhaṃ](scent) [rasaṃ](taste) [jñātvā](having-known) [yogaveśma](yoga-house) [samārabhet](should-begin)
+[color](varṇaṃ) [scent](gandhaṃ) [taste](rasaṃ) [knowing](jñātvā) [yoga-house](yogaveśma) [begin](samārabhet)
 
 ## mukta-m0-p50-v1231
-[yogasthānāni](yoga-places) [sarvāṇi](all) [vidhireṣa](this-rule) [prakīrtitaḥ](declared)
+[yoga-places](yogasthānāni) [all](sarvāṇi) [rule-this](vidhireṣa) [declared](prakīrtitaḥ)
 
 ## mukta-m0-p50-v1232
-[tribhūmiṃ](three-storied) [vā](or) [dvibhūmiṃ](two-storied) [vā](or) [ekabhūmimathāpi](one-storied-also) [vā](or)
+[three-storied](tribhūmiṃ) [or](vā) [two-storied](dvibhūmiṃ) [or](vā) [one-storied-too](ekabhūmimathāpi) [or](vā)
 
 ## mukta-m0-p50-v1233
-[kavāṭārgalasaṃyuktaṃ](with-doors-and-bolts) [prākārairdīrghakairyutam](with-long-walls)
+[door-bolt-fitted](kavāṭārgalasaṃyuktaṃ) [walls-long-equipped](prākārairdīrghakairyutam)
 
 ## mukta-m0-p50-v1234
-[nālikeraiḥ](with-coconuts) [kamukaiśca](and-areca) [puṃnāgavakulairyutam](with-punnaga-and-bakula)
+[with-coconut-palms](nālikeraiḥ) [with-areca-palms](kamukaiśca) [with-punnaga-vakula](puṃnāgavakulairyutam)
 
 ## mukta-m0-p50-v1235
-[gāvo](cows) [vaseyuḥ](should-dwell) [saptāhaṃ](seven-days) [mapatirdaśabhirnava](lord-for-ten-or-nine)
+[cows-dwell-seven-days](gāvo) [vaseyuḥ](vaseyuḥ) [saptāhaṃ](saptāhaṃ) [mapati-nine-ten](mapatirdaśabhirnava)
 
 ## mukta-m0-p50-v1236
-[uttare](north) [tu](but) [jalagrāmaṃ](water-village) [paścime](west) [padmamaṇḍapam](lotus-pavilion)
+[north-water-village](uttare) [tu](tu) [jalagrāmaṃ](jalagrāmaṃ) [west-lotus-pavilion](paścime) [padmamaṇḍapam](padmamaṇḍapam)
 
 ## mukta-m0-p50-v1237
-[barbaraiśca](and-barbaras) [pulindaiśca](and-pulindas) [kirātaiśca](and-kiratas) [vivarjitam](free-from)
+[barbarians](barbaraiśca) [pulindas](pulindaiśca) [kiratas](kirātaiśca) [avoided](vivarjitam)
 
 ## mukta-m0-p50-v1238
-[*](unknown) [sti?](unknown) [tvāsanaṃ](posture) [baddhā](having-bound) [nāḍīśodhanamārabhet](begin-nadi-purification)
+[seat-bound](tvāsanaṃ) [baddhā](baddhā) [nāḍī-purification-begin](nāḍīśodhanamārabhet)
 
 ## mukta-m0-p50-v1239
-[tālusthā](palate-seated) [calajihvā](moving-tongue) [ca](and) [saṃvṛtāsyaḥ](closed-mouth) [suniścayaḥ](firm-resolve)
+[palate-seated](tālusthā) [moving-tongue](calajihvā) [closed-mouth](saṃvṛtāsyaḥ) [firm-resolve](suniścayaḥ)
 
 ## mukta-m0-p50-v1240
-[praṇipatya](having-bowed) [śivaṃ](śiva) [śāntaṃ](peaceful) [yogīndraḥ](yoga-lord) [śaśiśekharam](moon-crested)
+[bowing](praṇipatya) [to-shiva](śivaṃ) [peaceful](śāntaṃ) [yogi-lord](yogīndraḥ) [moon-crested](śaśiśekharam)
 
 ## mukta-m0-p50-v1241
-[nāsāgre](at-nose-tip) [śaśabhṛdbimbaṃvat](like-moon-disc) [jyotsnājālavitānitam](spread-moonlight-net)
+[nose-tip](nāsāgre) [moon-disk](śaśabhṛdbimbaṃvat) [moonlight-net-spread](jyotsnājālavitānitam)
 
 ## mukta-m0-p50-v1242
-[pañcākṛtyātha](after-five-acts) [niṣkramya](having-exited) [iḍayā](by-iḍā) [varmaṇā](with-armor) [saha](with)
+[five-acts](pañcākṛtyātha) [exiting](niṣkramya) [iḍā](iḍayā) [with-armor](varmaṇā) [with](saha)
 
 ## mukta-m0-p50-v1243
-[yaddvitīyaṃ](second-that) [binduyuktaṃ](with-bindu) [trikoṇe](in-triangle) [analāyute](with-fire)
+[that-second](yaddvitīyaṃ) [bindu-joined](binduyuktaṃ) [triangle](trikoṇe) [fire-endowed](analāyute)
 
 ## mukta-m0-p50-v1244
-[pūrvavatpūrayennāḍyā](fill-nadi-as-before) [prāṇaṃ](prana) [dakṣiṇayā](by-right) [guha](O-guha)
+[as-before](pūrvavat) [fill-nāḍī](pūrayennāḍyā) [prāṇa](prāṇaṃ) [right](dakṣiṇayā) [guha](guha)
 
 ## mukta-m0-p50-v1245
-[tricatuḥ](three-four) [savanaṃ](libation) [māsaṃ](month) [pakṣaṃ](fortnight) [vai](indeed) [māsamabhyaset](practice-month)
+[three-four-libations](tricatuḥ) [savana](savanaṃ) [month](māsaṃ) [fortnight](pakṣaṃ) [vai](vai) [month-practice](māsamabhyaset)
 
 ## mukta-m0-p50-v1246
-[īṣadvaiśeṣikopāyaṃ](slightly-special-means) [mānasapraṇavena](with-mental-om) [ca](and)
+[slightly-special-means](īṣadvaiśeṣikopāyaṃ) [mental-praṇava](mānasapraṇavena) [ca](ca)
 
 ## mukta-m0-p50-v1247
-[māsatrikaṃ](three-months) [triṣavaṇeṣvanayā](by-this-thrice-daily) [śuddhirīritā](purification-declared)
+[three-months](māsatrikaṃ) [three-libations](triṣavaṇeṣvanayā) [purification-declared](śuddhirīritā)
 
 ## mukta-m0-p50-v1248
-[jñānābhivyaktirityetacchinnaṃ](manifestation-of-knowledge-thus-cut) [tacchuddhisūcakam](that-purification-indicator)
+[knowledge-manifestation](jñānābhivyaktirityetacchinnaṃ) [that-purification-indicator](tacchuddhisūcakam)
 
 ## mukta-m0-p50-v1249
-[*](unknown) [*](unknown) [*](unknown) [na?](unknown) [samānastu](samana-but) [vyāno'thodāna](vyana-then-udana) [eva](indeed) [ca](and)
+[samāna](samānastu) [vyāna](vyāno'thodāna) [udāna](eva) [ca](ca)
 
 ## mukta-m0-p50-v1250
-[eteṣāṃ](of-these) [vijayaṃ](victory) [vatsa](child) [*](unknown) [*](unknown) [*](unknown) [*](unknown) [*](unknown) [*](unknown) [rṇakān](debts)
+[their-victory](eteṣāṃ) [vijayaṃ](vijayaṃ) [child](vatsa) [remaining](rṇakān)

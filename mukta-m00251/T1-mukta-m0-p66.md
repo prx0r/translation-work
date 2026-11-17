@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p66-v1626
-[endless](anantaḥ) [end](nidhanaḥ) [and](ca) [indeed](eva) [ever-content](nityatṛptaḥ) [supportless](nirāśrayaḥ)
+[anantaḥ](ananto) [nidhanaḥ](nidhanaścaiva) [nitya-tṛptaḥ](nityatṛpto) [nirāśrayaḥ](nirāśrayaḥ)
 
 ## mukta-m0-p66-v1627
-[beginningless](anādiḥ) [one](ekaḥ) [to-be-restrained](niyamyaḥ) [conscious](cetanaḥ) [all-heart](sarvahṛt) [śiva](śivaḥ)
+[anādiḥ](anādireko) [ekaḥ](eko) [niyamyaḥ](niyamyaścetanassarvahṛt) [śivaḥ](śivaḥ)
 
 ## mukta-m0-p66-v1628
-[by-all](sarvaiḥ) [causer](kārayitā) [doer](kartā) [by-him](tena) [all](sarvam) [this](idam) [spread](tatam)
+[sarvaiḥ](sarvaiḥ) [kārayitā](kārayitākartā) [kartā](kartā) [tena](tena) [sarvam](sarvamidaṃ) [tatam](tatam)
 
 ## mukta-m0-p66-v1629
-[all-principles-transcended](sarvatatvapadātītam) [unborn](ajam) [lord](īśānam) [imperishable](avyayam)
+[sarva-tattva-pada-atītam](sarvatatvapadātītaṃ) [ajam](ajamīśānamavyayam) [īśānam](īśānam) [avyayam](avyayam)
 
 ## mukta-m0-p66-v1630
-[all-coverings-freed](sarvāvaraṇanirmuktam) [wonderful-one](adbhutaikam) [eternal](sanātanam)
+[sarva-āvaraṇa-nirmuktam](sarvāvaraṇanirmuktamadbhutaikaṃ) [adbhuta-ekam](adbhutaikaṃ) [sanātanam](sanātanam)
 
 ## mukta-m0-p66-v1631
-[all-going](sarvagaḥ) [all-going-transcended](sarvagātītaḥ) [of-forms](mūrtīnām) [whole](sakalaḥ) [impurity](malaḥ)
+[sarvagaḥ](sarvagaḥ) [sarvaga-atītaḥ](sarvagātītaḥ) [mūrtīnām](mūrtīnāṃ) [sakalaḥ](sakalo) [malaḥ](malaḥ)
 
 ## mukta-m0-p66-v1632
-[higher-lower-division](parāparavibhāgena) [world-form-like](viśvamūrtim+iva) [imperishable](avyayam)
+[parāpara-vibhāgena](parāparavibhāgena) [viśva-mūrtim](viśvamūrtimivāvyayam) [iva](iva) [avyayam](avyayam)
 
 ## mukta-m0-p66-v1633
-[endless-power](anantaśaktiḥ) [endless-self](anantātmā) [endless-senses](anantendriyaḥ) [endless-mouths](anantavaktrakaḥ)
+[ananta-śaktiḥ](anantaśaktiranantātmānantendryonantavaktrakaḥ) [ananta-ātmā](anantātmā) [ananta-indriyaḥ](anantendriyaḥ) [ananta-vaktrakaḥ](anantavaktrakaḥ)
 
 ## mukta-m0-p66-v1634
-[that-natured](tadātmakam) [this](idam) [all](sarvam) [they](te) [speech-led](vācapraṇitam) [world](jagat)
+[tad-ātmakam](tadātmakamidaṃ) [idaṃ](idaṃ) [sarvam](sarvam) [te](te) [vāca-praṇitam](vācapraṇitaṃ) [jagat](jagat)
 
 ## mukta-m0-p66-v1635
-[unthinkable](acintyaḥ) [all-subtle](sarvasūkṣmaḥ) [esteemed](mataḥ) [sight-devoid](dṛṣṭivivarjitaḥ)
+[acintyaḥ](acintyassarvasūkṣmo) [sarva-sūkṣmaḥ](sarvasūkṣmo) [mataḥ](mato) [dṛṣṭi-vivarjitaḥ](dṛṣṭivivarjitaḥ)
 
 ## mukta-m0-p66-v1636
-[this](eṣaḥ) [to-you](te) [told](kathitaḥ) [endless](anantaḥ) [whose](yasya) [end](antaḥ) [not](tu) [known](vidyate)
+[eṣaḥ](eṣa) [te](te) [kathitaḥ](kathito'nanto) [anantaḥ](anantaḥ) [yasya](yasyāntastu) [antaḥ](antaḥ) [tu](tu) [na](na) [vidyate](vidyate)
 
 ## mukta-m0-p66-v1637
-[śiva-worship](śivayāgam) [does](kurute) [not](na) [he](asau) [liberates](mocayate) [bound-soul](paśum)
+[śiva-yāgam](śivayāgantu) [tu](tu) [kurute](kurute) [na](nā'sau) [asau](asau) [mocayate](mocayate) [paśum](paśum)
 
 ## mukta-m0-p66-v1638
-[śiva-hand-union](śivahastasamāyogāt) [touches](sparśāḥ) [everywhere](sarvatra) [celebrated](kīrtitāḥ)
+[śiva-hasta-samāyogāt](śivahastasamāyogāt) [sparśāḥ](sparśāssarvatra) [sarvatra](sarvatra) [kīrtitāḥ](kīrtitāḥ)
 
 ## mukta-m0-p66-v1639
-[all-compilation-common](sarvasaṃhitasāmānyam) [rule](vidhiḥ) [this](eṣaḥ) [joyfully](mudā) [declared](hṛtā)
+[sarva-saṃhita-sāmānyam](sarvasaṃhitasāmānyaṃ) [vidhiḥ](vidhireṣā) [eṣā](eṣā) [mudā-hṛtā](mudāhṛtā)
 
 ## mukta-m0-p66-v1640
-[three](tri) [there](tatra) [deities](devatā) [placement](nyāsam) [path](adhvānam) [which](yat) [celebrated](prakīrtitam)
+[tri](tri) [tatra](tatra) [devatā-nyāsam](devatānyāsamadhvānaṃ) [adhvānam](adhvānam) [yat](yat) [prakīrtitam](prakīrtitam)
 
 ## mukta-m0-p66-v1641
-[not](na) [by-sacrifice](yajñena) [rule-knower](vidhijñena) [path](adhvana) [skilled](kuśalena) [and](ca)
+[na](na) [yajñena](yajñena) [vidhi-jñena](vidhijñena) [adhvana](adhvana) [kuśalena](kuśalena) [ca](ca)
 
 ## mukta-m0-p66-v1642
-[grasping](grahaṇe) [joining](yojane) [that-knower](tatjñaḥ) [lifting](utkṣepaḥ) [proper-joining](sanniyojane)
+[grahaṇe](grahaṇe) [yojane](yojane) [tat-jñaḥ](tatjña) [utkṣepaḥ](utkṣepassanniyojane) [sanniyojane](sanniyojane)
 
 ## mukta-m0-p66-v1643
-[all-knowledge-transcended](sarvajñānāti) [principle-knower](tattvajñaḥ) [he](saḥ) [fit](tu) [yogyaḥ) [śiva-sacrifice](śivādhvare)
+[sarva-jñānāti](sarvajñānāti) [tattva-jñaḥ](tattvajñaḥ) [saḥ](sa) [tu](tu) [yogyaḥ](yogyaśśivādhvare) [śiva-adhvare](śivādhvare)
 
 ## mukta-m0-p66-v1644
-[support-supported-knower](ādhārādheyavit) [wise](prājñaḥ) [he](saḥ) [fit](tu) [yogyaḥ) [śiva-sacrifice](śivādhvare)
+[ādhāra-ādheya-vit](ādhārādheyavit) [prājñaḥ](prājñaḥ) [saḥ](sa) [tu](tu) [yogyaḥ](yogyaḥ) [śiva-adhvare](śivādhvare)
 
 ## mukta-m0-p66-v1645
-[he](saḥ) [guru](guruḥ) [of-adepts](sādhakendrāṇām) [rest](śeṣāḥ) [name-bearers](yannāmadhārakāḥ)
+[saḥ](sa) [guruḥ](guruḥ) [sādhaka-indrāṇām](sādhakendrāṇāṃ) [śeṣāḥ](śeṣā) [yan-nāma-dhārakāḥ](yannāmadhārakāḥ)
 
 ## mukta-m0-p66-v1646
-[initiator](dīkṣakaḥ) [of-all-beings](sarvajantūnām) [he](saḥ) [tu](tu) [leader](netā) [supreme](paraṃ) [state](padam)
+[dīkṣakaḥ](dīkṣakassarvajantūnāṃ) [sarva-jantūnām](sarvajantūnām) [saḥ](sa) [tu](tu) [netā](netā) [paraṃ](paraṃ) [padam](padam)
 
 ## mukta-m0-p66-v1647
-[when](kasmin) [time](kāle) [tu](tu) [lord](bhagavān) [arghya](arghyam) [give](dadyāt) [supreme](pare) [śiva](śive)
+[kasmin](kasmin) [kāle](kāle) [tu](tu) [bhagavān](bhagavān) [arghyam](arghyaṃ) [dadyāt](dadyātpare) [pare](pare) [śive](śive)
 
 ## mukta-m0-p66-v1648
-[so](tathā) [you](tvam) [god-of-gods](devadeveśa) [worship](arcanaṃ) [tell](kathayasva) [me](me)
+[tathā](tathā) [tvam](tvaṃ) [deva-deveśa](devadeveśa) [arcanam](arcanaṃ) [kathayasva](kathayasva) [me](me)
 
 ## mukta-m0-p66-v1649
-[by-whom](yena) [worshipped](yaṣṭena) [worshipper](yaṣṭā) [tu](tu) [all-world-lords](aśeṣabhuvanādhipāḥ)
+[yena](yena) [yaṣṭena](yaṣṭena) [yaṣṭā](yaṣṭāstu) [tu](tu) [aśeṣa-bhuvana-adhipāḥ](aśeṣabhuvanādhipāḥ)
 
 ## mukta-m0-p66-v1650
-[of-ancestors](pitṝṇām) [lordship](ādhipatyena) [to-be-known](jñātavyā) [knowledge-eye](jñānacakṣuṣā)
+[pitṝṇām](pitṝṇāmādhipatyena) [ādhipatyena](ādhipatyena) [jñātavyāḥ](jñātavyā) [jñāna-cakṣuṣā](jñānacakṣuṣā)
