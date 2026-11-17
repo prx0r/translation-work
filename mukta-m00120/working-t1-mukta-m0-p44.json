@@ -20,7 +20,7 @@
 },
 {
 "surface": "mātṛbhāvaṃ",
-"quick_gloss": "mother-attitude"
+"quick_gloss": "mother-state"
 },
 {
 "surface": "parityajet",
@@ -124,7 +124,7 @@
 },
 {
 "surface": "bhadre",
-"quick_gloss": "o-good-one"
+"quick_gloss": "o-fair-one"
 },
 {
 "surface": "sahasrāre",
@@ -148,20 +148,24 @@
 "quick_gloss": "and-therefore"
 },
 {
-"surface": "tarpayeddevān",
+"surface": "tarpayed",
 "quick_gloss": "one-should-satisfy"
 },
 {
-"surface": "tāntrike",
+"surface": "devān",
 "quick_gloss": "the-gods"
 },
 {
+"surface": "tāntrike",
+"quick_gloss": "in-tāntric"
+},
+{
 "surface": "vaidikeṣu",
-"quick_gloss": "in-tantric"
+"quick_gloss": "and-in-vedic"
 },
 {
 "surface": "ca",
-"quick_gloss": "and-in-vedic-rites"
+"quick_gloss": "and"
 }
 ]
 },
@@ -181,8 +185,12 @@
 "quick_gloss": "I-satisfy"
 },
 {
-"surface": "pūjayāmīti",
+"surface": "pūjayāmi",
 "quick_gloss": "I-worship"
+},
+{
+"surface": "iti",
+"quick_gloss": "thus"
 },
 {
 "surface": "vā",
@@ -264,11 +272,11 @@
 "quick_gloss": "gross-only"
 },
 {
-"surface": "yathāgniḥ",
+"surface": "yathā",
 "quick_gloss": "just-as"
 },
 {
-"surface": "kāṣṭhasaṃyutaḥ",
+"surface": "agniḥ",
 "quick_gloss": "fire"
 },
 {
@@ -314,20 +322,28 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "parāparagurustvaṃ",
+"surface": "parāparagurus",
 "quick_gloss": "the-higher-lower-guru"
 },
 {
-"surface": "hi",
-"quick_gloss": "you-indeed"
+"surface": "tvaṃ",
+"quick_gloss": "you"
 },
 {
-"surface": "parameṣṭhigururhyaham",
+"surface": "hi",
+"quick_gloss": "indeed"
+},
+{
+"surface": "parameṣṭhigurur",
 "quick_gloss": "and-the-supreme-guru"
 },
 {
-"surface": "hyaham",
-"quick_gloss": "I-indeed"
+"surface": "aham",
+"quick_gloss": "I"
+},
+{
+"surface": "hi",
+"quick_gloss": "indeed"
 }
 ]
 },
@@ -352,7 +368,7 @@
 },
 {
 "surface": "dvidhāantakaḥ",
-"quick_gloss": "ending-in-two-ways"
+"quick_gloss": "ending-in-twofold"
 }
 ]
 },
@@ -364,8 +380,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "tarpayeccet",
+"surface": "tarpayec",
 "quick_gloss": "one-should-satisfy"
+},
+{
+"surface": "cet",
+"quick_gloss": "if"
 },
 {
 "surface": "kriyāsaṅgād",
@@ -406,7 +426,7 @@
 },
 {
 "surface": "tatsamāyutam",
-"quick_gloss": "united-with-him"
+"quick_gloss": "joined-with-him"
 }
 ]
 },
@@ -419,7 +439,7 @@
 "tokens": [
 {
 "surface": "tatsaṃyuktaṃ",
-"quick_gloss": "united-with-him"
+"quick_gloss": "joined-with-him"
 },
 {
 "surface": "guruṃ",
@@ -430,8 +450,8 @@
 "quick_gloss": "one-should-meditate-on"
 },
 {
-"surface": "tarpaṇādikamācaret",
-"quick_gloss": "libation-and-so-forth"
+"surface": "tarpaṇādikam",
+"quick_gloss": "satisfaction-and-so-forth"
 },
 {
 "surface": "ācaret",
@@ -456,7 +476,7 @@
 },
 {
 "surface": "puṣpapātanam",
-"quick_gloss": "falling-of-a-flower"
+"quick_gloss": "falling-of-flower"
 }
 ]
 },
@@ -531,7 +551,7 @@
 },
 {
 "surface": "tu",
-"quick_gloss": "indeed"
+"quick_gloss": "but"
 },
 {
 "surface": "yoniṃ",
@@ -585,7 +605,7 @@
 "tokens": [
 {
 "surface": "tarpaṇādi",
-"quick_gloss": "libation-and-so-forth"
+"quick_gloss": "satisfaction-and-so-forth"
 },
 {
 "surface": "prakartavyaṃ",
@@ -621,12 +641,8 @@
 "quick_gloss": "worshipful-to-all"
 },
 {
-"surface": "sarvasya",
-"quick_gloss": "of-all"
-},
-{
-"surface": "bandhamuktidam",
-"quick_gloss": "giver-of-bondage-and-liberation"
+"surface": "sarvasya+bandhamuktidam",
+"quick_gloss": "giving-bondage-and-liberation-to-all"
 }
 ]
 },
@@ -655,7 +671,7 @@
 },
 {
 "surface": "hṛdaye",
-"quick_gloss": "in-the-heart"
+"quick_gloss": "or-in-the-heart"
 },
 {
 "surface": "ca",
@@ -679,15 +695,15 @@
 "quick_gloss": "of-the-three-guṇas"
 },
 {
-"surface": "caikatve",
+"surface": "ca+ekatve",
 "quick_gloss": "and-in-oneness"
 },
 {
 "surface": "tarpaṇaṃ",
-"quick_gloss": "libation"
+"quick_gloss": "satisfaction"
 },
 {
-"surface": "caikavārakam",
+"surface": "ca+ekavārakam",
 "quick_gloss": "and-only-once"
 }
 ]

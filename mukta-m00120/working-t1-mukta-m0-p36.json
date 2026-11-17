@@ -86,7 +86,7 @@
 },
 {
 "surface": "ramaṇam",
-"quick_gloss": "sexual-enjoyment"
+"quick_gloss": "sexual-union"
 },
 {
 "surface": "ācaret",
@@ -177,7 +177,7 @@
 },
 {
 "surface": "kuṇḍalī+vaktre",
-"quick_gloss": "in-kuṇḍalinī-mouth"
+"quick_gloss": "in-Kuṇḍalī-mouth"
 },
 {
 "surface": "mūla+mantreṇa",
@@ -235,7 +235,7 @@
 },
 {
 "surface": "kuṇḍalī+mukhe",
-"quick_gloss": "in-kuṇḍalinī-mouth"
+"quick_gloss": "in-Kuṇḍalī-mouth"
 }
 ]
 },
@@ -293,7 +293,7 @@
 },
 {
 "surface": "saha",
-"quick_gloss": "with"
+"quick_gloss": "together"
 }
 ]
 },
@@ -346,12 +346,8 @@
 "quick_gloss": "thus"
 },
 {
-"surface": "śrī+sarvānandanātha+viracite",
+"surface": "śrī+sarvānanda+nātha+viracite sarva+ullāse",
 "quick_gloss": "in-the-Sarvollāsa"
-},
-{
-"surface": "śrī+sarvānandanātha+viracite",
-"quick_gloss": "composed-by-Śrī-Sarvānandanātha"
 },
 {
 "surface": "ūnatriṃśat+ullāsaḥ",
@@ -417,7 +413,7 @@
 },
 {
 "surface": "sambid+ānanda+bhāk",
-"quick_gloss": "partaker-of-consciousness-bliss"
+"quick_gloss": "consciousness-bliss-partaking"
 },
 {
 "surface": "naraḥ",
@@ -434,15 +430,19 @@
 "tokens": [
 {
 "surface": "bhāva+āktaṃ",
-"quick_gloss": "tinged-with-feeling"
+"quick_gloss": "imbued-with-feeling"
 },
 {
 "surface": "sambid+ānandaṃ",
 "quick_gloss": "consciousness-bliss"
 },
 {
-"surface": "madya+ānandam+abhedakam",
-"quick_gloss": "non-different-from-wine-bliss"
+"surface": "madya+ānandam",
+"quick_gloss": "wine-bliss"
+},
+{
+"surface": "abhedakam",
+"quick_gloss": "non-different"
 }
 ]
 },
@@ -455,7 +455,7 @@
 "tokens": [
 {
 "surface": "bhāva+ānandeṣu",
-"quick_gloss": "in-blisses-of-feeling"
+"quick_gloss": "in-feeling-blisses"
 },
 {
 "surface": "deveśi",
@@ -549,8 +549,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "sadānanda+pradāyakam",
-"quick_gloss": "bestower-of-eternal-bliss"
+"surface": "sadā+ānanda",
+"quick_gloss": "eternal-bliss"
+},
+{
+"surface": "pradāyakam",
+"quick_gloss": "bestowing"
 }
 ]
 },
@@ -562,12 +566,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "ataḥ",
+"surface": "ataḥ eva",
 "quick_gloss": "therefore"
-},
-{
-"surface": "eva",
-"quick_gloss": "indeed"
 },
 {
 "surface": "mahādeva",
@@ -603,11 +603,7 @@
 "quick_gloss": "bliss-of-accomplishment"
 },
 {
-"surface": "kvacit",
-"quick_gloss": "sometimes"
-},
-{
-"surface": "kvacit",
+"surface": "kvacit kvacit",
 "quick_gloss": "sometimes"
 }
 ]
@@ -621,7 +617,7 @@
 "tokens": [
 {
 "surface": "madya+ānandaṃ",
-"quick_gloss": "bliss-of-wine"
+"quick_gloss": "wine-bliss"
 },
 {
 "surface": "kvacit",
@@ -657,7 +653,7 @@
 "quick_gloss": "if"
 },
 {
-"surface": "pibet+madyam",
+"surface": "pivet+madyam",
 "quick_gloss": "one-drinks-wine"
 },
 {
@@ -669,7 +665,7 @@
 "quick_gloss": "consciousness"
 },
 {
-"surface": "pibet",
+"surface": "pivet",
 "quick_gloss": "one-should-drink"
 }
 ]
@@ -706,12 +702,12 @@
 "quick_gloss": "and-first"
 },
 {
-"surface": "pibet",
+"surface": "pivet",
 "quick_gloss": "one-should-drink"
 },
 {
 "surface": "madhu",
-"quick_gloss": "wine"
+"quick_gloss": "honey-wine"
 }
 ]
 },
@@ -727,7 +723,7 @@
 "quick_gloss": "of-Tvaritā"
 },
 {
-"surface": "tamas+udbhūtam",
+"surface": "tamaḥ+udbhūtam",
 "quick_gloss": "arisen-from-darkness"
 },
 {

@@ -8,16 +8,16 @@
 [woman+mere](nārīmātreṣu) [to-be-known](vijñeyā) [among-gods](deveṣu) [kula+woman](kulayoṣitā)
 
 ## mukta-m0-p61-v1503
-[therefore](ata) [indeed](eva) [great+hero](mahāvīras) [other-than-that](tadanyāṃ) [not](na) [indeed](eva) [should-transgress](laṅghayet)
+[therefore](ata) [indeed](eva) [great+hero](mahāvīras) [that+other](tadanyāṃ) [not](na) [indeed](eva) [should-transgress](laṅghayet)
 
 ## mukta-m0-p61-v1504
-[kula](kulaṃ) [what](kiñca) [great+goddess](mahādevi) [my](mama) [in-place](sthāne) [reveal](prakāśaya)
+[kula](kulaṃ) [something](kiñca) [great+goddess](mahādevi) [my](mama) [in-place](sthāne) [reveal](prakāśaya)
 
 ## mukta-m0-p61-v1505
 [other+flower+form](parapuṣpākṛti) [place](sthānaṃ) [kula+abode](kulāgāraṃ) [revealed](prakāśitam)
 
 ## mukta-m0-p61-v1506
-[western+face](paścimānanam)
+[western+facing](paścimānanam)
 
 ## mukta-m0-p61-v1507
 [thus](tathā)
@@ -26,28 +26,28 @@
 [kula+place](kulasthānam) [this](idaṃ) [to-be-known](jñeyaṃ) [all+seed](sarvabījasya) [seed-source](bījakam)
 
 ## mukta-m0-p61-v1509
-[that+seed](tadbījaṃ) [what](kiṃ) [great+goddess](maheśāni) [different-from-that](tadbhinnaṃ) [woman](nārī) [or](vā) [how](katham)
+[that+seed](tadbījaṃ) [what](kiṃ) [great+goddess](maheśāni) [that+different](tadbhinnaṃ) [woman](nārī) [or](vā) [how](katham)
 
 ## mukta-m0-p61-v1510
 [kula+place](kulasthānaṃ) [without](vinā) [śakti+knowledge](śaktijñānamātraṃ) [not](na) [arises](jāyate)
 
 ## mukta-m0-p61-v1511
-[buttocks](nitamba) [hips](jaghana) [full](sphītā) [other+flower](parapuṣpa) [vulva](bhaga) [radiance](prabhā)
+[buttocks](nitamba) [hips](jaghana) [full](sphītā) [other+flower](parapuṣpa) [vulva](bhaga) [splendor](prabhā)
 
 ## mukta-m0-p61-v1512
 [concealed](gopitā)
 
 ## mukta-m0-p61-v1513
-[in-middle](madhyame) [worshipped](pūjite) [devotion](bhaktir) [in-devoid](hīne) [even](api) [task+accomplishment](kārya+sādhanam)
+[in-middle](madhyame) [worshipped](pūjite) [devotion](bhaktir) [without](hīne) [even](api) [task+accomplishment](kārya+sādhanam)
 
 ## mukta-m0-p61-v1514
-[defeated](parājitā) [flower+form](puṣpa+rūpā) [kula+abode](kulāgārañ) [and](ca) [middle](madhyagam)
+[supreme](parājitā) [flower+form](puṣpa+rūpā) [kula+abode](kulāgārañ) [and](ca) [middle](madhyagam)
 
 ## mukta-m0-p61-v1515
 [egg+born](aṇḍa+jātaṃ) [sweat+born](svedajātaṃ) [seed+born](bīja+jātaṃ) [threefold](tridhā) [O-Śiva](śive)
 
 ## mukta-m0-p61-v1516
-[liṅga+middle](liṅgamadhye) [situated](sthitaṃ) [semen](śukraṃ) [yoni+middle](yonimadhye) [and](ca) [blood](śoṇitam)
+[liṅga+middle](liṅgamadhye) [situated](sthitaṃ) [semen](śukraṃ) [yoni+middle](yonimadhye) [and](ca) [menstrual-blood](śoṇitam)
 
 ## mukta-m0-p61-v1517
 [its](tasya) [seed](bījaṃ) [not](na) [is-known](vidyeta) [to-tell](gadituṃ) [not](na) [indeed](eva) [is-possible](śakyate)
@@ -59,19 +59,19 @@
 [action+yoga](kriyāyogo) [meditation+yoga](dhyāna+yogo) [devotion+yoga](bhakti+yogo) [will-be](bhaviṣyati)
 
 ## mukta-m0-p61-v1520
-[triangle+form](trikoṇākāra+rūpā) [she](sā) [all+god+abode](sarvadevālayā) [beloved](priye)
+[triangle+form](trikoṇākāra+rūpā) [she](sā) [all+god+abode](sarvadevālayā) [O-beloved](priye)
 
 ## mukta-m0-p61-v1521
-[Tripureśī](tripureśī) [yoni+middle](yonimadhye) [in-root](mūle) [dwells](vasati) [Bhairavī](bhairavī)
+[Tripureśī](tripureśī) [yoni+middle](yonimadhye) [at-root](mūle) [dwells](vasati) [Bhairavī](bhairavī)
 
 ## mukta-m0-p61-v1522
-[hair+pore](roma+kūpe) [Mahākālī](mahākālī) [Mātaṅgī](mātaṅgī) [in-girdles](mekhalāsu) [and](ca)
+[hair+pore](roma+kūpe) [Mahākālī](mahākālī) [Mātaṅgī](mātaṅgī) [in-girdle-regions](mekhalāsu) [and](ca)
 
 ## mukta-m0-p61-v1523
 [bindu+flower+tree](bindupuṣpataror) [at-root](mūle) [Kuṇḍalī](kuṇḍalī) [Brahman+form](brahmavigrahā)
 
 ## mukta-m0-p61-v1524
-[seat](pīṭhaṃ) [desire+form](kāma+svarūpañ) [and](ca) [twofold](dvividhaṃ) [supreme+goddess](parameśvari)
+[seat](pīṭhaṃ) [desire+form](kāma+svarūpañ) [and](ca) [twofold](dvividhaṃ) [O-supreme-goddess](parameśvari)
 
 ## mukta-m0-p61-v1525
 [praṇava+form](praṇavākāra+rūpeṇa) [yoni+form](yonyākāraṃ) [one-should-contemplate](vicintayet)
