@@ -5,52 +5,52 @@
 [alas](aho) [people](janā) [suffering+pleasure+discrimination+knowledge+devoid](duḥkha+sukha+viveka+jñāna+varjitāḥ)
 
 ## mukta-m0-p53-v1302
-[suffering](duḥkham) [alone](eva) [they-experience](anubhavanti) [thus](iti) [he-says](āha) [alas](aho) [thus](iti)
+[suffering](duḥkham) [alone](eva) [experience](anubhavanti) [thus](iti) [says](āha) [alas](aho) [thus](iti)
 
 ## mukta-m0-p53-v1303
-[therefore](tat) [enough](alam) [with-experience-of-suffering](duḥkha+bhogena) [by-own-effort+obtained](sva+yatna+āsāditena) [indeed](vai)
+[therefore](tat) [enough](alam) [with-suffering+experience](duḥkha+bhogena) [by-own+effort+obtained](sva+yatna+āsāditena) [indeed](vai)
 
 ## mukta-m0-p53-v1304
-[suffering+mass](duḥkha+saṅghaṃ) [suffering+means+net](duḥkha+sādhana+jālaṃ) [wealth+house+and-so-on](dhana+gṛha+ādikam)
+[suffering+mass](duḥkha+saṅghaṃ) [suffering+means+net](duḥkha+sādhana+jālaṃ) [wealth+house+etc](dhana+gṛha+ādikam)
 
 ## mukta-m0-p53-v1305
 [rest](viśrāntim) [I-desire](abhivāñchāmi) [for-long](ciraṃ) [in-own](svasmin) [bliss+self](sukha+ātmani)
 
 ## mukta-m0-p53-v1306
-[rest](viśrāntiṃ) [declared+bliss+nature+own+form+abiding+consisting-of](prokta+sukha+ātmaka+sva+svarūpa+avasthāna+ātmakaṃ) [absorption](samādhim)
+[rest](viśrāntiṃ) [declared+bliss+nature+own+form+abiding+consisting](prokta+sukha+ātmaka+sva+svarūpa+avasthāna+ātmakaṃ) [absorption](samādhim)
 
 ## mukta-m0-p53-v1307
 [you-strive](ceṣṭasi)
 
 ## mukta-m0-p53-v1308
-[you-strive](ceṣṭase) [kh-g-gh:](kh,) [you-strive](g,) [you-strive](gh:) [you-strive](ceṣṭasi) [activity+engaged](vyavahāra+parāsi)
+[you-strive](ceṣṭase) [variant-ceṣṭasi](ceṣṭasi) [worldly-activity+engaged](vyavahāra+parāsi)
 
 ## mukta-m0-p53-v1309
 [O-lord](nātha) [by-you](te) [that](tat) [not](na) [known](viditaṃ) [state](padaṃ) [supremely+pure](parama+pāvanam)
 
 ## mukta-m0-p53-v1310
-[I](aham) [am](asmi) [thus](iti) [not](na) [recognized](pratyabhijñātam) [supremely+pure](parama+pāvanaṃ) [duality+impurity+trace+devoid](dvaita+mala+leśa+rahitam)
+[I](aham) [am](asmi) [thus](iti) [not](na) [recognized](pratyabhijñātam) [supremely+pure](parama+pāvanaṃ) [duality+impurity+trace+free](dvaita+mala+leśa+rahitam)
 
 ## mukta-m0-p53-v1311
-[that](tat) [state](padaṃ) [far](dūrataḥ) [from-you](te) [is](asti) [on-earth+standing](bhū+sthasya) [as](iva) [sky+surface](nabhaḥ+talam)
+[that](tat) [state](padaṃ) [far](dūrataḥ) [from-you](te) [is](asti) [on-earth+standing](bhūsthasya) [like](iva) [sky+surface](nabhas+talam)
 
 ## mukta-m0-p53-v1312
-[having-closed](nimīlya) [or-having-opened](unmīlya) [or](vā) [eyes](netre) [that](tat) [state](padaṃ) [not](na) [is-seen](samīkṣyate)
+[closing](nimīlya) [opening](unmīlya) [or](vā) [eyes](netre) [that](tat) [state](padaṃ) [not](na) [is-seen](samīkṣyate)
 
 ## mukta-m0-p53-v1313
-[if](cet) [he-says](āha) [having-closed](nimīlya) [thus](iti)
+[if](cet) [says](āha) [closing](nimīlya) [thus](iti)
 
 ## mukta-m0-p53-v1314
-[not-having-gone](agatvā) [and](ca) [also](api) [or](vā) [having-gone](gatvā) [not](na) [that](tat) [one-would-attain](āsādayet) [state](padam)
+[not-going](agatvā) [and](ca) [also](api) [or](vā) [going](gatvā) [not](na) [that](tat) [would-attain](āsādayet) [state](padam)
 
 ## mukta-m0-p53-v1315
-[in-that+nature](tat+svarūpe) [closing+doing+going+and-so-on](nimīlana+karaṇa+gamana+ādibhiḥ) [not](na) [difference](viśeṣaḥ) [thus](iti) [meaning](bhāvaḥ)
+[in-that+nature](tat+svarūpe) [closing+doing+going+etc](nimīlana+karaṇa+gamana+ādibhiḥ) [not](na) [difference](viśeṣaḥ) [thus](iti) [meaning](bhāvaḥ)
 
 ## mukta-m0-p53-v1316
-[barley+eight+measured](yava+aṣṭaka+mitena) [indeed](eva) [by-eyelash](pakṣmaṇā) [opened](unmīlitena) [but](tu)
+[barley+eight+measured](yava+aṣṭaka+mitena) [indeed](eva) [eyelash](pakṣmaṇaḥ) [opened](unmīlitena) [but](tu)
 
 ## mukta-m0-p53-v1317
-[with-mockery](sa+upahāsam) [he-says](āha) [barley+eight](yava+aṣṭaka) [thus](iti)
+[with-mockery](sa+upahāsam) [says](āha) [barley+eight](yava+aṣṭaka) [thus](iti)
 
 ## mukta-m0-p53-v1318
 [alas](aho) [your](te) [delusion+greatness](moha+māhātmyam) [wonder](āścaryaṃ) [what](kim) [I](aham) [say](bruve)
@@ -68,10 +68,10 @@
 [there](tatra) [own-nature+non-apprehension](svarūpa+asaṃvittiḥ) [delusion+rope](moha+rajjuḥ) [declared](udīritā)
 
 ## mukta-m0-p53-v1323
-[delusion+rope](moha+rajjuḥ) [thus](iti) [if](cet) [he-says](āha) [there](tatra) [thus](iti)
+[delusion+rope](moha+rajjuḥ) [thus](iti) [if](cet) [says](āha) [there](tatra) [thus](iti)
 
 ## mukta-m0-p53-v1324
-[there](tatra) [first](ādyā) [in-body+chief-things](deha+mukhyeṣu) [should-be](bhavet) [selfhood+certainty](ātmatva+niścayaḥ)
+[there](tatra) [first](ādyā) [in-body+chief+etc](deha+mukhyeṣu) [should-be](bhavet) [selfhood+certainty](ātmatva+niścayaḥ)
 
 ## mukta-m0-p53-v1325
 [difficult+to-remove](duḥ+pariharaḥ) [thus](iti) [of-this](asya) [knot-ness](granthitvaṃ) [to-be-known](jñeyam)

@@ -27,8 +27,12 @@
 "quick_gloss": "not"
 },
 {
+"surface": "asti",
+"quick_gloss": "exists"
+},
+{
 "surface": "īṣat",
-"quick_gloss": "even-a-little"
+"quick_gloss": "even-slight"
 },
 {
 "surface": "phala",
@@ -57,7 +61,7 @@
 },
 {
 "surface": "ahetukatvena",
-"quick_gloss": "as-causeless"
+"quick_gloss": "by-causelessness"
 },
 {
 "surface": "upāsanam",
@@ -101,12 +105,16 @@
 "quick_gloss": "beloved"
 },
 {
-"surface": "atihṛṣṭa",
-"quick_gloss": "with-very-delighted"
+"surface": "ati",
+"quick_gloss": "very"
+},
+{
+"surface": "hṛṣṭa",
+"quick_gloss": "delighted"
 },
 {
 "surface": "manāḥ",
-"quick_gloss": "mind"
+"quick_gloss": "minded"
 },
 {
 "surface": "tadā",
@@ -204,6 +212,14 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
+"surface": "buddha",
+"quick_gloss": "Buddha"
+},
+{
+"surface": "ca",
+"quick_gloss": "and"
+},
+{
 "surface": "buddhaṃ",
 "quick_gloss": "Buddha"
 },
@@ -220,8 +236,12 @@
 "quick_gloss": "Buddhist"
 },
 {
-"surface": "ekadeśinaḥ",
-"quick_gloss": "one-sided-adherents"
+"surface": "eka",
+"quick_gloss": "one-sided"
+},
+{
+"surface": "deśinaḥ",
+"quick_gloss": "adherents"
 }
 ]
 },
@@ -250,7 +270,7 @@
 },
 {
 "surface": "ādi",
-"quick_gloss": "and-so-forth"
+"quick_gloss": "and-so-on"
 },
 {
 "surface": "bahudhā",
@@ -311,12 +331,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
+"surface": "mata",
+"quick_gloss": "view"
+},
+{
+"surface": "bhe",
+"quick_gloss": "difference"
+},
+{
 "surface": "ataḥ",
 "quick_gloss": "therefore"
 },
 {
 "surface": "āha",
-"quick_gloss": "he-says"
+"quick_gloss": "says"
 },
 {
 "surface": "tatra",
@@ -379,6 +407,10 @@
 {
 "surface": "pitā",
 "quick_gloss": "father"
+},
+{
+"surface": "hi",
+"quick_gloss": "indeed"
 }
 ]
 },
@@ -400,6 +432,10 @@
 {
 "surface": "prabhāṣiṇī",
 "quick_gloss": "speaking"
+},
+{
+"surface": "sā",
+"quick_gloss": "one"
 }
 ]
 },
@@ -421,6 +457,10 @@
 {
 "surface": "sambandhāt",
 "quick_gloss": "connection"
+},
+{
+"surface": "hi",
+"quick_gloss": "indeed"
 }
 ]
 },
@@ -433,7 +473,7 @@
 "tokens": [
 {
 "surface": "nātha",
-"quick_gloss": "O-lord"
+"quick_gloss": "lord"
 },
 {
 "surface": "te",
@@ -584,7 +624,7 @@
 },
 {
 "surface": "niṣedhati",
-"quick_gloss": "he-negates"
+"quick_gloss": "negates"
 },
 {
 "surface": "na",
@@ -600,7 +640,7 @@
 },
 {
 "surface": "ādi",
-"quick_gloss": "and-so-forth"
+"quick_gloss": "and-so-on"
 }
 ]
 },
@@ -699,7 +739,7 @@
 "tokens": [
 {
 "surface": "loke",
-"quick_gloss": "in-the-world"
+"quick_gloss": "in-world"
 },
 {
 "surface": "api",
@@ -740,7 +780,15 @@
 },
 {
 "surface": "ādiḥ",
-"quick_gloss": "and-so-forth"
+"quick_gloss": "and-so-on"
+},
+{
+"surface": "hi",
+"quick_gloss": "indeed"
+},
+{
+"surface": "iti",
+"quick_gloss": "thus"
 }
 ]
 },
@@ -769,7 +817,7 @@
 },
 {
 "surface": "cetanasya",
-"quick_gloss": "of-the-conscious"
+"quick_gloss": "of-conscious-being"
 },
 {
 "surface": "eva",
@@ -798,7 +846,11 @@
 },
 {
 "surface": "madhye",
-"quick_gloss": "in-the-midst"
+"quick_gloss": "in-middle"
+},
+{
+"surface": "hi",
+"quick_gloss": "indeed"
 }
 ]
 },
@@ -811,7 +863,7 @@
 "tokens": [
 {
 "surface": "caitanya",
-"quick_gloss": "with-consciousness"
+"quick_gloss": "consciousness"
 },
 {
 "surface": "maya",
@@ -819,7 +871,7 @@
 },
 {
 "surface": "dehena",
-"quick_gloss": "body"
+"quick_gloss": "with-body"
 },
 {
 "surface": "sarvān",
@@ -864,11 +916,11 @@
 },
 {
 "surface": "āha",
-"quick_gloss": "he-says"
+"quick_gloss": "says"
 },
 {
 "surface": "caitanya",
-"quick_gloss": "with-consciousness"
+"quick_gloss": "consciousness"
 },
 {
 "surface": "iti",
