@@ -11,16 +11,12 @@
 "quick_gloss": "much"
 },
 {
-"surface": "kim",
-"quick_gloss": "what"
-},
-{
-"surface": "iha",
-"quick_gloss": "here"
+"surface": "kim+iha",
+"quick_gloss": "what+here"
 },
 {
 "surface": "uktena",
-"quick_gloss": "by-said"
+"quick_gloss": "by-saying"
 },
 {
 "surface": "sākṣāt",
@@ -28,7 +24,7 @@
 },
 {
 "surface": "ānaṃda+dāyakaḥ",
-"quick_gloss": "bliss+giver"
+"quick_gloss": "bliss+giving"
 }
 ]
 },
@@ -45,11 +41,11 @@
 },
 {
 "surface": "dvitīya+pātasya",
-"quick_gloss": "of-second+section"
+"quick_gloss": "of-second+vessel"
 },
 {
 "surface": "maṃtra+sat",
-"quick_gloss": "mantra+six"
+"quick_gloss": "mantra+sat"
 },
 {
 "surface": "nāma",
@@ -107,7 +103,7 @@
 },
 {
 "surface": "sarva+aṃga+suṃdarī",
-"quick_gloss": "all+limb+beautiful"
+"quick_gloss": "all+limbs+beautiful"
 }
 ]
 },
@@ -189,7 +185,7 @@
 },
 {
 "surface": "kūjitam",
-"quick_gloss": "murmuring"
+"quick_gloss": "cooing"
 }
 ]
 },
@@ -230,7 +226,7 @@
 },
 {
 "surface": "grahaḥ",
-"quick_gloss": "seizure"
+"quick_gloss": "seizing"
 }
 ]
 },
@@ -250,8 +246,8 @@
 "quick_gloss": "girdle"
 },
 {
-"surface": "kalakvāṇaḥ",
-"quick_gloss": "soft-sound"
+"surface": "kala+kvāṇaḥ",
+"quick_gloss": "soft+sound"
 },
 {
 "surface": "na",
@@ -296,12 +292,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "eka+aṣṭaka",
-"quick_gloss": "one+eight"
-},
-{
-"surface": "mahā+yāga",
-"quick_gloss": "great+sacrifice"
+"surface": "eka+aṣṭaka+mahā+yāga",
+"quick_gloss": "one+eight+great+sacrifice"
 },
 {
 "surface": "pakṣe",
@@ -325,16 +317,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "aṣṭa+aṣṭaka",
-"quick_gloss": "eight+eight"
+"surface": "aṣṭa+aṣṭaka+mahā+yāge",
+"quick_gloss": "eight+eight+great+sacrifice"
 },
 {
-"surface": "mahā+yāge",
-"quick_gloss": "in-great+sacrifice"
-},
-{
-"surface": "dūty+aṣṭakam",
-"quick_gloss": "messenger+eight"
+"surface": "dūtī+aṣṭakam",
+"quick_gloss": "messenger+group-of-eight"
 },
 {
 "surface": "ataḥ",
@@ -379,7 +367,7 @@
 },
 {
 "surface": "ekatayā",
-"quick_gloss": "by-oneness"
+"quick_gloss": "in-oneness"
 },
 {
 "surface": "sthitiḥ",
@@ -399,8 +387,12 @@
 "quick_gloss": "thus"
 },
 {
-"surface": "ānaṃda+yāgaḥ",
-"quick_gloss": "bliss+sacrifice"
+"surface": "ānaṃda",
+"quick_gloss": "bliss"
+},
+{
+"surface": "yāgaḥ",
+"quick_gloss": "sacrifice"
 },
 {
 "surface": "ayam",
@@ -415,7 +407,7 @@
 "quick_gloss": "to-you"
 },
 {
-"surface": "maheśvari",
+"surface": "mahā+īśvari",
 "quick_gloss": "o-great-goddess"
 }
 ]
@@ -436,7 +428,7 @@
 "quick_gloss": "face+lotus"
 },
 {
-"surface": "suśrutaḥ",
+"surface": "su+śrutaḥ",
 "quick_gloss": "well-heard"
 },
 {
@@ -445,7 +437,7 @@
 },
 {
 "surface": "kramaḥ",
-"quick_gloss": "sequence"
+"quick_gloss": "procedure"
 }
 ]
 },
@@ -465,16 +457,16 @@
 "quick_gloss": "I-desire"
 },
 {
-"surface": "deveśa",
+"surface": "deva+īśa",
 "quick_gloss": "o-lord-of-gods"
 },
 {
-"surface": "yāga+antara+jaṃ",
-"quick_gloss": "sacrifice+after+born"
+"surface": "yāga+anantara+jaṃ",
+"quick_gloss": "sacrifice+after+arising"
 },
 {
 "surface": "kramam",
-"quick_gloss": "sequence"
+"quick_gloss": "procedure"
 }
 ]
 },
@@ -487,19 +479,19 @@
 "tokens": [
 {
 "surface": "śṛṇu",
-"quick_gloss": "listen"
+"quick_gloss": "hear"
 },
 {
 "surface": "devi",
 "quick_gloss": "o-goddess"
 },
 {
-"surface": "mahābhāge",
-"quick_gloss": "o-greatly-fortunate"
+"surface": "mahā+bhāge",
+"quick_gloss": "o-greatly-fortunate-one"
 },
 {
 "surface": "yat",
-"quick_gloss": "what"
+"quick_gloss": "which"
 },
 {
 "surface": "māṃ",
@@ -527,11 +519,15 @@
 "quick_gloss": "hero"
 },
 {
-"surface": "sucira+nṛttena",
-"quick_gloss": "by-very-long+dancing"
+"surface": "sucira",
+"quick_gloss": "for-long-time"
 },
 {
-"surface": "śrāṃta+liṃga+maheśvaraḥ",
+"surface": "nṛttena",
+"quick_gloss": "by-dancing"
+},
+{
+"surface": "śrāṃta+liṃga+mahā+īśvaraḥ",
 "quick_gloss": "fatigued+linga+great-lord"
 }
 ]
@@ -561,7 +557,7 @@
 },
 {
 "surface": "puṇya+vastubhiḥ",
-"quick_gloss": "with-merit+substances"
+"quick_gloss": "with-meritorious+substances"
 }
 ]
 },
@@ -573,7 +569,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "ānaṃdanāthasya",
+"surface": "ānaṃda+nāthasya",
 "quick_gloss": "of-ānandanātha"
 },
 {
@@ -585,7 +581,7 @@
 "quick_gloss": "and"
 },
 {
-"surface": "aṣṭāviṃśati+vārakam",
+"surface": "aṣṭā+viṃśati+vārakam",
 "quick_gloss": "twenty-eight+times"
 }
 ]
@@ -623,7 +619,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "saśuddhibhyām",
+"surface": "sa+śuddhibhyām",
 "quick_gloss": "with-two-purifications"
 },
 {
@@ -636,7 +632,7 @@
 },
 {
 "surface": "kārikāḥ",
-"quick_gloss": "verses"
+"quick_gloss": "kārikās"
 },
 {
 "surface": "prapaṭhan",
@@ -644,7 +640,7 @@
 },
 {
 "surface": "kiret",
-"quick_gloss": "should-scatter"
+"quick_gloss": "should-pour"
 }
 ]
 },
@@ -665,7 +661,7 @@
 },
 {
 "surface": "śukla+śoṇita+biṃdubhiḥ",
-"quick_gloss": "white+red+drop"
+"quick_gloss": "white+red+drops"
 }
 ]
 },
@@ -686,7 +682,7 @@
 },
 {
 "surface": "śukla+śoṇita+biṃdubhiḥ",
-"quick_gloss": "white+red+drop"
+"quick_gloss": "white+red+drops"
 }
 ]
 },
@@ -707,7 +703,7 @@
 },
 {
 "surface": "śukla+śoṇita+biṃdubhiḥ",
-"quick_gloss": "white+red+drop"
+"quick_gloss": "white+red+drops"
 }
 ]
 },
@@ -728,7 +724,7 @@
 },
 {
 "surface": "śukla+śoṇita+biṃdubhiḥ",
-"quick_gloss": "white+red+drop"
+"quick_gloss": "white+red+drops"
 }
 ]
 }
