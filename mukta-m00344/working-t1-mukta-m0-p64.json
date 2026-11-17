@@ -8,7 +8,7 @@
 "tokens": [
 {
 "surface": "asti",
-"quick_gloss": "there-is"
+"quick_gloss": "is"
 },
 {
 "surface": "vaṅge",
@@ -23,8 +23,12 @@
 "quick_gloss": "city"
 },
 {
-"surface": "paramapāvanam",
-"quick_gloss": "very-holy"
+"surface": "parama",
+"quick_gloss": "supreme"
+},
+{
+"surface": "pāvanam",
+"quick_gloss": "purifying"
 }
 ]
 },
@@ -36,12 +40,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "paramapāvanaṃ",
-"quick_gloss": "very-holy"
+"surface": "parama",
+"quick_gloss": "supreme"
 },
 {
-"surface": "tīrthabhūtam",
+"surface": "pāvanam",
+"quick_gloss": "purifying"
+},
+{
+"surface": "tīrtha",
 "quick_gloss": "pilgrimage-site"
+},
+{
+"surface": "bhūtam",
+"quick_gloss": "become"
 }
 ]
 },
@@ -54,7 +66,7 @@
 "tokens": [
 {
 "surface": "tasya",
-"quick_gloss": "of-him"
+"quick_gloss": "his"
 },
 {
 "surface": "bhrātā",
@@ -62,7 +74,7 @@
 },
 {
 "surface": "mahāseno",
-"quick_gloss": "mahasena"
+"quick_gloss": "great-army"
 },
 {
 "surface": "yavīyān",
@@ -70,7 +82,7 @@
 },
 {
 "surface": "priyakṛt",
-"quick_gloss": "pleasing"
+"quick_gloss": "dear-doer"
 },
 {
 "surface": "sadā",
@@ -99,7 +111,7 @@
 },
 {
 "surface": "priyakṛt",
-"quick_gloss": "pleasing"
+"quick_gloss": "dear-doer"
 }
 ]
 },
@@ -112,18 +124,22 @@
 "tokens": [
 {
 "surface": "kadācid",
-"quick_gloss": "sometimes"
+"quick_gloss": "sometime"
 },
 {
 "surface": "aśvamedhaiḥ",
 "quick_gloss": "with-horse-sacrifices"
 },
 {
-"surface": "so'yajad",
-"quick_gloss": "he-worshipped"
+"surface": "saḥ",
+"quick_gloss": "he"
 },
 {
-"surface": "devaṃ",
+"surface": "ayajat",
+"quick_gloss": "worshipped"
+},
+{
+"surface": "devam",
 "quick_gloss": "god"
 },
 {
@@ -140,16 +156,24 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "mahatyā+senayā",
-"quick_gloss": "with-great-army"
+"surface": "mahatyā",
+"quick_gloss": "with-great"
 },
 {
-"surface": "yajñā'śvaṃ",
+"surface": "senayā",
+"quick_gloss": "army"
+},
+{
+"surface": "yajñāśvam",
 "quick_gloss": "sacrificial-horse"
 },
 {
-"surface": "sarve+hi",
-"quick_gloss": "all-indeed"
+"surface": "sarve",
+"quick_gloss": "all"
+},
+{
+"surface": "hi",
+"quick_gloss": "indeed"
 },
 {
 "surface": "anusaṃyayuḥ",
@@ -165,16 +189,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "tatra+yajñe",
-"quick_gloss": "there-in-sacrifice"
+"surface": "tatra",
+"quick_gloss": "there"
+},
+{
+"surface": "yajñe",
+"quick_gloss": "in-sacrifice"
 },
 {
 "surface": "aśvacaryāyām",
-"quick_gloss": "in-horse-procession"
+"quick_gloss": "horse-rite"
 },
 {
 "surface": "aśvamanugatāḥ",
-"quick_gloss": "followed-horse"
+"quick_gloss": "horse-followed"
 }
 ]
 },
@@ -190,11 +218,15 @@
 "quick_gloss": "went"
 },
 {
-"surface": "airāvatītīram",
-"quick_gloss": "airavati-bank"
+"surface": "airāvatī",
+"quick_gloss": "airāvatī"
 },
 {
-"surface": "anvaśvaṃ",
+"surface": "tīram",
+"quick_gloss": "bank"
+},
+{
+"surface": "anvaśvam",
 "quick_gloss": "following-horse"
 },
 {
@@ -216,15 +248,19 @@
 "tokens": [
 {
 "surface": "rodhakān",
-"quick_gloss": "obstructors"
+"quick_gloss": "obstructers"
 },
 {
 "surface": "śatrūn",
 "quick_gloss": "enemies"
 },
 {
-"surface": "airāvatī+nadī",
-"quick_gloss": "airavati-river"
+"surface": "airāvatī",
+"quick_gloss": "airāvatī"
+},
+{
+"surface": "nadī",
+"quick_gloss": "river"
 },
 {
 "surface": "anvaśvam",
@@ -232,7 +268,7 @@
 },
 {
 "surface": "aśvapṛṣṭhataḥ",
-"quick_gloss": "from-horse-back"
+"quick_gloss": "horse-back"
 }
 ]
 },
@@ -245,19 +281,27 @@
 "tokens": [
 {
 "surface": "baloddhatāḥ",
-"quick_gloss": "powerful"
+"quick_gloss": "power-maddened"
 },
 {
 "surface": "avajñāya",
 "quick_gloss": "disregarding"
 },
 {
-"surface": "tamasaṅgamya",
+"surface": "tam",
+"quick_gloss": "him"
+},
+{
+"surface": "asaṅgamya",
 "quick_gloss": "not-approaching"
 },
 {
-"surface": "te+yayuḥ",
-"quick_gloss": "they-went"
+"surface": "te",
+"quick_gloss": "they"
+},
+{
+"surface": "yayuḥ",
+"quick_gloss": "went"
 }
 ]
 },
@@ -269,12 +313,24 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "praṇāmādipūrvakaṃ+samīpamagatvetyarthaḥ",
-"quick_gloss": "meaning-not-approaching"
+"surface": "praṇāmādipūrvakam",
+"quick_gloss": "with-bowing-etc"
 },
 {
-"surface": "te+rājakumārāḥ",
-"quick_gloss": "those-princes"
+"surface": "samīpam",
+"quick_gloss": "near"
+},
+{
+"surface": "agatvetyarthaḥ",
+"quick_gloss": "not-going"
+},
+{
+"surface": "te",
+"quick_gloss": "they"
+},
+{
+"surface": "rājakumārāḥ",
+"quick_gloss": "princes"
 }
 ]
 },
@@ -286,8 +342,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "jagrāhāśvaṃ",
+"surface": "jagrāha",
 "quick_gloss": "seized"
+},
+{
+"surface": "aśvam",
+"quick_gloss": "horse"
 },
 {
 "surface": "yajñiyaṃ",
@@ -298,8 +358,12 @@
 "quick_gloss": "that"
 },
 {
-"surface": "rājaputran+hi",
-"quick_gloss": "prince-indeed"
+"surface": "rājaputraṃ",
+"quick_gloss": "prince"
+},
+{
+"surface": "hi",
+"quick_gloss": "indeed"
 },
 {
 "surface": "bhartsayan",
@@ -319,12 +383,16 @@
 "quick_gloss": "then"
 },
 {
-"surface": "taṅgaṇaputro'pi",
-"quick_gloss": "son-of-taṅgaṇa"
+"surface": "taṅgaṇaputraḥ",
+"quick_gloss": "taṅgaṇa-son"
 },
 {
-"surface": "gaṇḍaśailaṃ",
-"quick_gloss": "gandhaśaila"
+"surface": "api",
+"quick_gloss": "also"
+},
+{
+"surface": "gaṇḍaśailam",
+"quick_gloss": "gaṇḍa-mountain"
 },
 {
 "surface": "puraḥ",
@@ -344,8 +412,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "taṃ+muniputram",
-"quick_gloss": "that-sage-son"
+"surface": "taṃ",
+"quick_gloss": "him"
+},
+{
+"surface": "muniputram",
+"quick_gloss": "sage-son"
 }
 ]
 },
@@ -357,12 +429,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "sāśvaṃ",
+"surface": "sāśvam",
 "quick_gloss": "with-horse"
 },
 {
-"surface": "śilāvilīnaṃ",
-"quick_gloss": "dissolved-in-stone"
+"surface": "śilāvilīnam",
+"quick_gloss": "stone-dissolved"
 },
 {
 "surface": "taṃ",
@@ -386,8 +458,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "taṃ+muniputram",
-"quick_gloss": "that-sage-son"
+"surface": "taṃ",
+"quick_gloss": "him"
+},
+{
+"surface": "muniputram",
+"quick_gloss": "sage-son"
 }
 ]
 },
@@ -399,20 +475,24 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "cūrṇitād",
-"quick_gloss": "crushed"
+"surface": "cūrṇitāt",
+"quick_gloss": "powdered"
 },
 {
 "surface": "gaṇḍaśailāt",
-"quick_gloss": "from-gandhaśaila"
+"quick_gloss": "from-gaṇḍa-mountain"
 },
 {
-"surface": "sa",
+"surface": "saḥ",
 "quick_gloss": "he"
 },
 {
-"surface": "mahatyā+senayā",
-"quick_gloss": "with-great-army"
+"surface": "mahatyā",
+"quick_gloss": "with-great"
+},
+{
+"surface": "senayā",
+"quick_gloss": "army"
 },
 {
 "surface": "vṛtaḥ",
@@ -428,16 +508,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "uccāvacairuttamairadhamaiśca",
-"quick_gloss": "high-and-low"
+"surface": "uccāvacaiḥ",
+"quick_gloss": "high-low"
+},
+{
+"surface": "uttamairadhamaiśca",
+"quick_gloss": "best-worst"
 },
 {
 "surface": "cūrṇitāt",
-"quick_gloss": "crushed"
+"quick_gloss": "powdered"
 },
 {
 "surface": "cūrṇitaikadeśāt",
-"quick_gloss": "partly-crushed"
+"quick_gloss": "powdered-one-part"
 }
 ]
 },
@@ -450,19 +534,19 @@
 "tokens": [
 {
 "surface": "nihatya",
-"quick_gloss": "killing"
+"quick_gloss": "having-killed"
 },
 {
-"surface": "senāṃ",
+"surface": "senām",
 "quick_gloss": "army"
 },
 {
 "surface": "sauṣeṇīṃ",
-"quick_gloss": "sauṣeṇī"
+"quick_gloss": "sauṣeṇīm"
 },
 {
 "surface": "baddhvā",
-"quick_gloss": "binding"
+"quick_gloss": "having-bound"
 },
 {
 "surface": "rājakumārakān",
@@ -478,8 +562,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "tān+rājakumārān",
-"quick_gloss": "those-princes"
+"surface": "tān",
+"quick_gloss": "them"
+},
+{
+"surface": "rājakumārān",
+"quick_gloss": "princes"
 }
 ]
 },
@@ -495,12 +583,16 @@
 "quick_gloss": "then"
 },
 {
-"surface": "senābhaṭāḥ+śiṣṭā",
-"quick_gloss": "remaining-soldiers"
+"surface": "senābhaṭāḥ",
+"quick_gloss": "army-soldiers"
+},
+{
+"surface": "śiṣṭāḥ",
+"quick_gloss": "remaining"
 },
 {
 "surface": "gatvā",
-"quick_gloss": "going"
+"quick_gloss": "having-gone"
 },
 {
 "surface": "rājñe",
@@ -520,8 +612,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "sundarapuraṃ+gatvā",
-"quick_gloss": "going-to-sundarapura"
+"surface": "sundarapuraṃ",
+"quick_gloss": "sundara-city"
+},
+{
+"surface": "gatvā",
+"quick_gloss": "having-gone"
 }
 ]
 },
@@ -537,16 +633,24 @@
 "quick_gloss": "suṣeṇa"
 },
 {
-"surface": "vismito'tyantam",
-"quick_gloss": "greatly-astonished"
+"surface": "vismitaḥ",
+"quick_gloss": "astonished"
 },
 {
-"surface": "uvācāvarajaṃ",
+"surface": "atyantam",
+"quick_gloss": "greatly"
+},
+{
+"surface": "uvāca",
 "quick_gloss": "said"
 },
 {
+"surface": "avarajam",
+"quick_gloss": "younger-brother"
+},
+{
 "surface": "svakam",
-"quick_gloss": "to-younger-brother"
+"quick_gloss": "own"
 }
 ]
 },
@@ -558,8 +662,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "tacchrutvā",
-"quick_gloss": "hearing-that"
+"surface": "tac",
+"quick_gloss": "that"
+},
+{
+"surface": "śrutvā",
+"quick_gloss": "having-heard"
 },
 {
 "surface": "vismitaḥ",
@@ -575,20 +683,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "tapasvino",
+"surface": "tapasvinaḥ",
 "quick_gloss": "ascetics"
 },
 {
-"surface": "acintyavīryā",
+"surface": "acintyavīryāḥ",
 "quick_gloss": "inconceivable-power"
 },
 {
-"surface": "ajeyā",
-"quick_gloss": "invincible"
+"surface": "ajeyāḥ",
+"quick_gloss": "unconquerable"
 },
 {
 "surface": "devamānuṣaiḥ",
-"quick_gloss": "by-gods-and-men"
+"quick_gloss": "by-gods-men"
 }
 ]
 }

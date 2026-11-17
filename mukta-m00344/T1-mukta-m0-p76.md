@@ -23,7 +23,7 @@
 [iti](iti) [pṛṣṭaḥ](pṛṣṭo) [munisutaḥ](munisutaḥ) [pravaktum-upacakrame](pravaktumupacakrame)
 
 ## mukta-m0-p76-v1883
-[satyavāsanā-viṣṭaḥ](satyavāsanāviṣṭo) [bhūyaḥ](bhūyaḥ) [pṛcchati](pṛcchati) [anyatarat](anyatarat) [satyaṃ](satyaṃ) [bhavet-iti](bhavediti)
+[satya-vāsanā-viṣṭaḥ](satyavāsanāviṣṭo) [bhūyaḥ](bhūyaḥ) [pṛcchati](pṛcchati) [anyatarat](anyatarat) [satyaṃ](satyaṃ) [bhavet-iti](bhavediti)
 
 ## mukta-m0-p76-v1884
 [vyākyāta-ṭīkāyām](vyākyātaṣṭīkāyām)
@@ -38,7 +38,7 @@
 [satya-rūpaṃ](satyarūpaṃ) [bhāvitam](bhāvitam) [ataḥ](ataḥ) [sarva-sādhāraṇaṃ](sarvasādhāraṇaṃ) [satyatvena](satyatvena) [bhāsate](bhāsata) [iti](iti) [śeṣaḥ](śeṣaḥ)
 
 ## mukta-m0-p76-v1888
-[vikalpa-sambhedaḥ](vikalpasambhedaḥ) [eṣaḥ-asiddhā](eṣo'siddhā) [tasmāt-vibhāvanā](tasmādvibhāvanā)
+[vikalpa-sambhedaḥ](vikalpasambheda) [eṣaḥ-asiddhā](eṣo'siddhā) [tasmāt-vibhāvanā](tasmādvibhāvanā)
 
 ## mukta-m0-p76-v1889
 [janmanā](janmanā) [maṇinā](maṇinā) [tadvat-auṣadhena](tadvadauṣadhena) [ca](ca) [yogataḥ](yogataḥ)
@@ -62,16 +62,16 @@
 [evam-eva](evameva) [nirvikalpa-bhāvanā](nirvikalpabhāvanā) [yadi](yadi) [su-thirā](suthirā)
 
 ## mukta-m0-p76-v1896
-[su-thirā](susthirā) [tadā](tadā) [mahā-phalaṃ](mahāphalaṃ) [sādhayet-iti](sādhayediti) [vyavahitena](vyavahitena) [sambandhaḥ](sambandhaḥ)
+[su-sthirā](susthirā) [tadā](tadā) [mahā-phalaṃ](mahāphalaṃ) [sādhayet-iti](sādhayediti) [vyavahitena](vyavahitena) [sambandhaḥ](sambandhaḥ)
 
 ## mukta-m0-p76-v1897
-[tāvat](tāvat) [sā](sā) [bhāvanā](bhāvanā) [siddhā](siddhā) [sādhayet-vai](sādhayetvai) [mahā-phalam](mahāphalam)
+[tāvat](tāvat) [sā](sā) [bhāvanā](bhāvanā) [siddhā](siddhā) [sādhayet-vai](sādhayedvai) [mahā-phalam](mahāphalam)
 
 ## mukta-m0-p76-v1898
 [bhāvanāṃ](bhāvanāṃ) [sādhaya](sādhaya) [kṣipraṃ](kṣipraṃ) [yadi](yadi) [sraṣṭuṃ](sraṣṭuṃ) [samīhasi](samīhasi)
 
 ## mukta-m0-p76-v1899
-[tava](tava) [tu](tu) [vikalpa-sambhedāt](vikalpasambhedād) [bhāvanā](bhāvanā) [na](na) [siddhi-iti-āha](siddhetyāha) [sambhedāt-iti](sambhedāditi)
+[tava](tava) [tu](tu) [vikalpa-sambhedāt](vikalpasambhedād) [bhāvanā](bhāvanā) [na](na) [siddhetyāha](siddhetyāha) [sambhedād-iti](sambhedāditi)
 
 ## mukta-m0-p76-v1900
 [avyutpannaḥ-asi](avyutpanno'si) [lokasya](lokasya) [vyavahāre](vyavahāre) [tataḥ-tava](tatastava)

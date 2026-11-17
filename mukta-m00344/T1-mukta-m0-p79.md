@@ -2,67 +2,67 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p79-v1951
-[this-form](etadrūpād) [without](ṛte) [something](kiñcid) [if](yadi) [they-say](brūyus) [that-small](tadalpakam)
+[this+form+without](etadrūpādṛte) [something](kiñcid) [if](yadi) [they-would-say-that-small](brūyustadalpakam)
 
 ## mukta-m0-p79-v1952
-[therefore](tasmāt) [by-names-like-tripura](tripurādināmnā) [also](api) [this-only](etadeva) [principal](mukhyam) [iti](iti) [to-be-said](vaktavyam) [iti](iti) [meaning](bhāvaḥ)
+[therefore](tasmāt) [by-names-like-tripura](tripurādināmnāpyetadeva) [principal](mukhyam) [to-be-said](iti) [meaning](bhāvaḥ)
 
 ## mukta-m0-p79-v1953
-[of-it](tasya) [commentator](bhāsyakṛtaṃ) [illumination](bhāsakatvaṃ) [and](ca) [not](na) [by-itself](svataḥ) [established](sthitam)
+[of-it](tasya) [commentator's](bhāsyakṛtaṃ) [illuminating](bhāsakatvaṃ) [and](ca) [not](na) [by-itself](svataḥ) [established](sthitam)
 
 ## mukta-m0-p79-v1954
-[crystal-situated](sphaṭikastha) [hibiscus-flower](japākusuma) [redness](lauhitya) [like](vat) [that-also](tadapi) [reflection-nature](pratibimbātmakam) [only](eva) [iti](iti) [meaning](bhāvaḥ)
+[crystal-like](sphaṭikasthajapākusumalauhityavat) [that-too](tadapi) [reflection-natured](pratibimbātmakameveti) [meaning](bhāvaḥ)
 
 ## mukta-m0-p79-v1955
-[in-mirror](darpaṇe) [city](nagaraṃ) [as](yadvad) [from-mirror](darpaṇāt) [not-exceeds](nātiricyate)
+[in-mirror](darpaṇe) [city](nagaraṃ) [as](yadvad) [from-mirror](darpaṇānnātiricyate)
 
 ## mukta-m0-p79-v1956
-[of-manifestation](prapañcasya) [consciousness](cit) [non-difference](avyatiriktatvam) [iti](iti) [says](āha) [mirror](darpaṇa) [iti](iti)
+[of-world](prapañcasya) [consciousness-not-different](cidavyatiriktatvamityāha) [mirror](darpaṇa) [thus](iti)
 
 ## mukta-m0-p79-v1957
-[in-mirror](darpaṇātmani) [complete](sampūrṇe) [dense](nibiḍe) [ca](ca) [one-formed](ekarūpiṇi)
+[in-mirror-self](darpaṇātmani) [complete](sampūrṇe) [dense](nibiḍe) [one-formed](caikarūpiṇi)
 
 ## mukta-m0-p79-v1958
-[by-not-such-nature](tvanaivaṃvidhatvāt) [mirror-etc](darpa'nadibhinnasya) [there](tatra) [appearance](bhānaṃ) [not-possible](nopapadyata) [iti](iti) [meaning](bhāvaḥ)
+[by-not-such-nature](tvanaivaṃvidhatvāddarpa'nadibhinnasya) [there](tatra) [appearance](bhānaṃ) [not-possible](nopapadyata) [meaning](iti) [bhāvaḥ)
 
 ## mukta-m0-p79-v1959
-[so](tathā) [full](pūrṇe) [very-dense](sunibiḍe) [one-formed](caikarūpe) [consciousness-self](cidātmani)
+[so](tathā) [full](pūrṇe) [dense](sunibiḍe) [one-formed](caikarūpe) [consciousness-self](cidātmani)
 
 ## mukta-m0-p79-v1960
-[also](api) [favored](anugṛhītā) [may-be](bhaveran) [iti](iti) [to-be-contemplated](dhyeyam)
+[also](apyanugṛhītā) [you-would-be](bhaveranni) [to-be-contemplated](yuri) [dhyeyam](dhyeyam)
 
 ## mukta-m0-p79-v1961
-[space](ākāśaḥ) [however](tu) [space-nature](avakāśātmā) [emptiness-form](śūnyarūpatva) [cause](hetutaḥ)
+[space](ākāśastvavakāśātmā) [empty-form-cause](śūnyarūpatvahetutaḥ)
 
 ## mukta-m0-p79-v1962
-[iti](iti) [purport](tātparyam)
+[thus](iti) [purport](tātparyam)
 
 ## mukta-m0-p79-v1963
-[existing](satī) [consciousness](cit) [non-empty](aśūnyātma) [form](rūpiṇī) [one-taste](ekarasā) [how](katham)
+[being](satī) [consciousness](citiraśūnyātmarūpiṇyekarasā) [how](katham)
 
 ## mukta-m0-p79-v1964
-[by-being-form](sadrūpatvāt) [eva](eva) [non-empty-self-form](aśūnyātmarūpatvam) [one-taste](ekarasatvaṃ) [dense-own-form](nibiḍasvarūpatā)
+[by-being-form](sadrūpatvādevāśūnyātmarūpatvam) [one-taste](ekarasatvaṃ) [dense-own-form](nibiḍasvarūpatā)
 
 ## mukta-m0-p79-v1965
-[therefore](tasmāt) [mirror-like](ādarśavat) [consciousness](saṃvit) [by-freedom-abundance-glory](svātantryabharavaibhavāt)
+[therefore](tasmādādarśavat) [consciousness](saṃvit) [by-freedom-abundance-glory](svātantryabharavaibhavāt)
 
 ## mukta-m0-p79-v1966
-[by-freedom-abundance-glory](svātantryabharavaibhavāt) [in-self-nondual](ātmanyadvitīye) [illuminates](avabhāsayet) [iti](iti) [connection](sambandhaḥ)
+[by-freedom-abundance-glory](svātantryabharavaibhavādātmanyadvitīye'vabhāsayediti) [connection](sambandhaḥ)
 
 ## mukta-m0-p79-v1967
-[cause-instrument-material-less](nimittopādānahīnaṃ) [second](dvitīyam) [very-variegated](aticitritam)
+[without-cause-material](nimittopādānahīnaṃ) [second](dvitīyamaticitritam) [very-variegated](aticitritaṃ)
 
 ## mukta-m0-p79-v1968
-[very-variegated](aticitritaṃ) [mutually-distinct](parasparavilakṣaṇaṃ) [illuminates](bhāsayet)
+[mutually-distinct](parasparavilakṣaṇaṃ) [would-illuminate](bhāsayet)
 
 ## mukta-m0-p79-v1969
-[oneness](ekatvaṃ) [appears](bhāsate) [clear](spaṣṭam) [without-distinction](aviśeṣāt) [unaffected](adūṣitam)
+[oneness](ekatvaṃ) [appears](bhāsate) [clear](spaṣṭamaviśeṣādadūṣitam)
 
 ## mukta-m0-p79-v1970
-[mirror-generality-form](darpaṇasāmānyarūpāt) [adūṣitam](adūṣitam) [unrefuted](abādhitam)
+[from-mirror-generality](darpaṇasāmānyarūpāt) [undamaged](adūṣitamabādhitam)
 
 ## mukta-m0-p79-v1971
-[by-inquiry-accomplished](anusandhānasaṃsiddham) [one](ekaṃ) [faultless](doṣavivarjjitam)
+[by-inquiry-accomplished](anusandhānasaṃsiddhamekaṃ) [faultless](doṣavivarjjitam)
 
 ## mukta-m0-p79-v1972
 [own-form](svarūpam)
@@ -71,7 +71,7 @@
 [many-variegated-body](anekavaicitryavapurapi) [consciousness-only](caitanyamātrakam)
 
 ## mukta-m0-p79-v1974
-[clay-lump-facing](mṛtpiṇḍasāmmukhye) [api](api) [mirror](darpaṇe) [pot-reflection](ghaṭapratibimbāpatteḥ)
+[even-clay-lump-facing](mṛtpiṇḍasāmmukhye'pi) [in-mirror](darpaṇe) [pot-reflection-occurrence](ghaṭapratibimbāpatteḥ)
 
 ## mukta-m0-p79-v1975
-[of-reflection](pratibimbasya) [in-being](bhāve) [vā](vā) [api](api) [in-non-being](abhāve) [eva](eva) [mirror](darpaṇaḥ)
+[of-reflection](pratibimbasya) [in-being](bhāve) [or](vāpyabhāve) [veva](veva) [mirror](darpaṇaḥ)

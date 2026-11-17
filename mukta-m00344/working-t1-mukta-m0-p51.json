@@ -41,14 +41,14 @@
 },
 {
 "surface": "paricitākāśaḥ",
-"quick_gloss": "well-acquainted-space"
+"quick_gloss": "accustomed-space"
 },
 {
 "surface": "paśyan",
 "quick_gloss": "seeing"
 },
 {
-"surface": "ākāśasaṃśritam",
+"surface": "nākāśasaṃśritam",
 "quick_gloss": "space-residing"
 }
 ]
@@ -61,12 +61,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "nā",
-"quick_gloss": "not"
-},
-{
-"surface": "ātmānaṃ",
-"quick_gloss": "self"
+"surface": "nātmānaṃ",
+"quick_gloss": "not-self"
 },
 {
 "surface": "paśyati",
@@ -78,7 +74,7 @@
 },
 {
 "surface": "bhāvaḥ",
-"quick_gloss": "sense"
+"quick_gloss": "meaning"
 }
 ]
 },
@@ -95,7 +91,7 @@
 },
 {
 "surface": "sūkṣmadṛśā",
-"quick_gloss": "subtle-vision"
+"quick_gloss": "subtle-vision-by"
 },
 {
 "surface": "paśya",
@@ -120,23 +116,19 @@
 "tokens": [
 {
 "surface": "pramāṇānāṃ",
-"quick_gloss": "measures"
+"quick_gloss": "measures-of"
 },
 {
 "surface": "pramāṇaṃ",
 "quick_gloss": "measure"
 },
 {
-"surface": "tat",
-"quick_gloss": "that"
+"surface": "tadapramāṇaṃ",
+"quick_gloss": "that-non-measure"
 },
 {
-"surface": "apramāṇaṃ",
-"quick_gloss": "non-measure"
-},
-{
-"surface": "svataḥ",
-"quick_gloss": "from-itself"
+"surface": "svato",
+"quick_gloss": "by-itself"
 },
 {
 "surface": "bhavet",
@@ -157,7 +149,7 @@
 },
 {
 "surface": "ananyāpekṣam",
-"quick_gloss": "non-other-dependence"
+"quick_gloss": "without-other-dependence"
 },
 {
 "surface": "iti",
@@ -165,7 +157,7 @@
 },
 {
 "surface": "bhāvaḥ",
-"quick_gloss": "sense"
+"quick_gloss": "meaning"
 }
 ]
 },
@@ -178,7 +170,7 @@
 "tokens": [
 {
 "surface": "siddhisādhakabhāvena",
-"quick_gloss": "accomplishment-accomplishing-state"
+"quick_gloss": "accomplishment-means-as"
 },
 {
 "surface": "na",
@@ -203,11 +195,11 @@
 "tokens": [
 {
 "surface": "sūtre",
-"quick_gloss": "thread"
+"quick_gloss": "thread-in"
 },
 {
 "surface": "vitānitam",
-"quick_gloss": "spread-out"
+"quick_gloss": "spread"
 }
 ]
 },
@@ -223,12 +215,8 @@
 "quick_gloss": "not-to-be-denied"
 },
 {
-"surface": "tan",
-"quick_gloss": "that"
-},
-{
-"surface": "mahādarśatalaṃ",
-"quick_gloss": "great-mirror-surface"
+"surface": "tanmahādarśatalaṃ",
+"quick_gloss": "that-great-mirror-surface"
 },
 {
 "surface": "bhavet",
@@ -269,7 +257,7 @@
 "quick_gloss": "by-time"
 },
 {
-"surface": "paricchittiḥ",
+"surface": "paricchittir",
 "quick_gloss": "limitation"
 },
 {
@@ -278,7 +266,7 @@
 },
 {
 "surface": "vidyate",
-"quick_gloss": "is"
+"quick_gloss": "exists"
 }
 ]
 },
@@ -304,7 +292,7 @@
 "tokens": [
 {
 "surface": "paricchedasya",
-"quick_gloss": "limitation"
+"quick_gloss": "of-limitation"
 },
 {
 "surface": "bhānaṃ",
@@ -319,7 +307,7 @@
 "quick_gloss": "in-sky"
 },
 {
-"surface": "vastubhiḥ",
+"surface": "vastubhir",
 "quick_gloss": "by-things"
 },
 {
@@ -336,12 +324,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "evetyāha",
+"surface": "evam",
 "quick_gloss": "thus"
 },
 {
+"surface": "āha",
+"quick_gloss": "says"
+},
+{
 "surface": "paricchedasyeti",
-"quick_gloss": "limitation-thus"
+"quick_gloss": "of-limitation-thus"
 },
 {
 "surface": "vastubhiḥ",
@@ -369,12 +361,8 @@
 "quick_gloss": "common-consciousness"
 },
 {
-"surface": "jagad",
-"quick_gloss": "world"
-},
-{
-"surface": "etad",
-"quick_gloss": "this"
+"surface": "jagadetad",
+"quick_gloss": "world-this"
 },
 {
 "surface": "virājate",
@@ -391,19 +379,19 @@
 "tokens": [
 {
 "surface": "tasya",
-"quick_gloss": "its"
+"quick_gloss": "of-it"
 },
 {
 "surface": "upalabdhiṃ",
-"quick_gloss": "attainment"
+"quick_gloss": "perception"
 },
 {
 "surface": "vakṣyāmi",
-"quick_gloss": "I-will-speak"
+"quick_gloss": "will-say"
 },
 {
 "surface": "yataḥ",
-"quick_gloss": "from-which"
+"quick_gloss": "because"
 },
 {
 "surface": "prāpnoṣi",
@@ -424,7 +412,11 @@
 "tokens": [
 {
 "surface": "yasmād",
-"quick_gloss": "from-my-word"
+"quick_gloss": "because"
+},
+{
+"surface": "madvacanāt",
+"quick_gloss": "my-word-from"
 },
 {
 "surface": "tatpadaṃ",
@@ -432,7 +424,7 @@
 },
 {
 "surface": "sāmānyacaitanyasthānam",
-"quick_gloss": "common-consciousness-place"
+"quick_gloss": "common-consciousness-abode"
 }
 ]
 },
@@ -445,15 +437,15 @@
 "tokens": [
 {
 "surface": "madhye",
-"quick_gloss": "middle"
+"quick_gloss": "in-middle"
 },
 {
-"surface": "saṃvidvedyayoḥ",
-"quick_gloss": "consciousness-and-knowable"
+"surface": "saṃvidvedyayoś",
+"quick_gloss": "consciousness-and-knowable-between"
 },
 {
 "surface": "sūkṣmabuddhyā",
-"quick_gloss": "subtle-intellect"
+"quick_gloss": "subtle-intellect-by"
 },
 {
 "surface": "abhilakṣaya",
@@ -470,11 +462,11 @@
 "tokens": [
 {
 "surface": "tasya",
-"quick_gloss": "its"
+"quick_gloss": "of-it"
 },
 {
 "surface": "upalabdhisthānāni",
-"quick_gloss": "attainment-places"
+"quick_gloss": "perception-places"
 },
 {
 "surface": "etāni",
@@ -486,7 +478,7 @@
 },
 {
 "surface": "bhāvaḥ",
-"quick_gloss": "sense"
+"quick_gloss": "meaning"
 }
 ]
 },
@@ -498,24 +490,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "etad",
-"quick_gloss": "this"
-},
-{
-"surface": "ajñānamātreṇa",
-"quick_gloss": "ignorance-only"
+"surface": "etadajñānamātreṇa",
+"quick_gloss": "this-ignorance-by-only"
 },
 {
 "surface": "pravṛttaṃ",
 "quick_gloss": "proceeds"
 },
 {
-"surface": "jagad",
-"quick_gloss": "world"
-},
-{
-"surface": "īdṛśam",
-"quick_gloss": "such"
+"surface": "jagadīdṛśam",
+"quick_gloss": "world-such"
 }
 ]
 },
@@ -528,7 +512,7 @@
 "tokens": [
 {
 "surface": "dṛśyābhāsasya",
-"quick_gloss": "visible-appearance"
+"quick_gloss": "of-visible-appearance"
 },
 {
 "surface": "api",
@@ -540,7 +524,7 @@
 },
 {
 "surface": "bhāvaḥ",
-"quick_gloss": "sense"
+"quick_gloss": "meaning"
 }
 ]
 },
@@ -565,11 +549,15 @@
 },
 {
 "surface": "sukhaṃ",
-"quick_gloss": "joy"
+"quick_gloss": "pleasure"
 },
 {
 "surface": "vā",
 "quick_gloss": "or"
+},
+{
+"surface": "tu",
+"quick_gloss": "not"
 },
 {
 "surface": "na",
@@ -602,7 +590,7 @@
 "tokens": [
 {
 "surface": "sāmānyarūpeṇa",
-"quick_gloss": "common-form"
+"quick_gloss": "common-form-by"
 },
 {
 "surface": "niṣedhaḥ",
@@ -635,7 +623,7 @@
 },
 {
 "surface": "dhātā",
-"quick_gloss": "supporter"
+"quick_gloss": "creator"
 },
 {
 "surface": "viṣṇur",
@@ -659,12 +647,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "sarveśvarādiriti",
+"surface": "sarveśvarādir",
 "quick_gloss": "all-lord-etc"
 },
 {
+"surface": "iti",
+"quick_gloss": "thus"
+},
+{
 "surface": "bhāvaḥ",
-"quick_gloss": "sense"
+"quick_gloss": "meaning"
 }
 ]
 }

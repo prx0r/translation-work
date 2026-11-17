@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p69-v1701
-[near-moon-orb](candramaṇḍalasamīpe) [having-come](āgatya) [king](rājā) [by-cold](śītena) [made-stiff-became](jaḍīkṛto'bhavat)
+[moon-orb-near](candramaṇḍalasamīpe) [having-come](āgatya) [king](rājā) [by-cold](śītena) [made-stiff](jaḍīkṛto) [became](abhavat)
 
 ## mukta-m0-p69-v1702
-[then](atha) [having-reached](prāpya) [sun-world](sūryalokaṃ) [by-its-rays-heated](tatkarairabhitāpitaḥ)
+[then](atha) [having-reached](prāpya) [sun-world](sūryalokaṃ) [by-its-rays](tatkaraiḥ) [heated](abhitāpitaḥ)
 
 ## mukta-m0-p69-v1703
-[saw](apaśyal) [world](lokam) [all](akhilaṃ) [like-celestial-world-reflection](svarlokapratibimbavat)
+[saw](apaśyat) [world](lokam) [all](akhilaṃ) [heaven-world-reflection-like](svarlokapratibimbavat)
 
 ## mukta-m0-p69-v1704
 [sage-shown](munipradarśitaṃ) [all](sarvam) [saw](apaśyat) [earth-lord](pṛthvīpatiḥ)
 
 ## mukta-m0-p69-v1705
-[saw](apaśyad) [vali-self](valyātmānaṃ) [mountain-called-loka-aloka](lokālokākhyaparvatam)
+[saw](apaśyat) [vali-self](valyātmānaṃ) [lokāloka-named-mountain](lokālokākhyaparvatam)
 
 ## mukta-m0-p69-v1706
-[auspicious-eyed](śubhekṣaṇo) [unobstructed-eye](apratihatanetraḥ)
+[beautiful-eyed](śubhekṣaṇaḥ) [unobstructed-eyed](apratihatanetraḥ)
 
 ## mukta-m0-p69-v1707
-[oceans](samudrān) [seven-islands](saptadvīpāṃś) [and](ca) [rivers-mountains-crowded](nadīgirisamākulān)
+[oceans](samudrān) [seven-islands](saptadvīpān) [and](ca) [rivers-mountains-crowded](nadīgirisamākulān)
 
 ## mukta-m0-p69-v1708
-[outside-that](tadvahiḥ) [outside-loka-aloka](lokālokabahiḥ) [inside](antaḥ) [inside-loka-aloka](lokālokāntaḥ)
+[outside](tadvahiḥ) [lokāloka-outside](lokālokabahiḥ) [inside](antaḥ) [lokāloka-inside](lokālokāntaḥ)
 
 ## mukta-m0-p69-v1709
-[demons](daityān) [humans](manuṣyān) [rakshasas](rakṣāṃsi) [yakshas-kimpurushas-etc](yakṣakimpuruṣādikān)
+[demons](daityān) [men](manuṣyān) [rākṣasas](rakṣāṃsi) [yakṣas-kinnaras-etc](yakṣakimpuruṣādikān)
 
 ## mukta-m0-p69-v1710
-[then](athā) [saw](paśyad) [on-earth-region](bhūvibhāge) [having-made](kṛtvā) [other-form](rūpāntaraṃ) [thus](tathā)
+[then](atha) [saw](apaśyat) [earth-region](bhūvibhāge) [having-made](kṛtvā) [other-form](rūpāntaraṃ) [thus](tathā)
 
 ## mukta-m0-p69-v1711
 [earth-region](bhūvibhāge) [earth-world](bhūloke)
 
 ## mukta-m0-p69-v1712
-[thus](evaṃ) [sage-youth's](munikumārasya) [having-seen](dṛṣṭvā) [supreme-yoga-power](yogarddhimuttamām)
+[thus](evaṃ) [sage-youth](munikumārasya) [having-seen](dṛṣṭvā) [yoga-power-excellent](yogarddhimuttamām)
 
 ## mukta-m0-p69-v1713
-[yoga-power](yogarddhi) [yoga-lordship](yogaiśvaryam)
+[yoga-power](yogarddhi) [yoga-sovereignty](yogaiśvaryam)
 
 ## mukta-m0-p69-v1714
-[o-king](rājan) [this-world-born](etallokajātaṃ) [while-seeing](paśyataḥ) [time](kāla) [passed](atyagāt)
+[king](rājan) [this](etat) [world-born](lokajātaṃ) [seeing](paśyataḥ) [time](kālaḥ) [passed](atyagāt)
 
 ## mukta-m0-p69-v1715
-[then](tataḥ) [after-showing-celestial-world](svarlokapradarśanānantaram)
+[then](tataḥ) [after-heaven-world-showing](svarlokapradarśanānantaram)
 
 ## mukta-m0-p69-v1716
-[let-us-go](gacchāvo) [outer-world](bāhyalokaṃ) [that](taṃ) [where-dwells](yatrāste) [father](janako) [my](mama)
+[let-us-go](gacchāvaḥ) [outer-world](bāhyalokaṃ) [that](taṃ) [where](yatra) [dwells](āste) [father](janakaḥ) [my](mama)
 
 ## mukta-m0-p69-v1717
-[outer-world](bahirloke) [twelve-arbuda-years](dvādaśārbudavarṣamitaḥ) [even-here](apyatra) [world](loke) [one-day-nature](ekadinātmakaḥ)
+[outer-world](bahirloke) [twelve-arbuda-years](dvādaśārbudavarṣamitaḥ) [even](api) [here](atra) [world](loke) [one-day-nature](ekadinātmakaḥ)
 
 ## mukta-m0-p69-v1718
-[as-before](pūrvavat) [from-that-ganda-mountain](tadgaṇḍaśailāt) [having-exited](nirgatya) [went-out](abhyāyayau) [outside](bahiḥ)
+[as-before](pūrvavat) [that-gaṇḍaśaila-from](tadgaṇḍaśailāt) [having-gone-out](nirgatya) [went-outside](abhyāyayau) [outside](bahiḥ)
 
 ## mukta-m0-p69-v1719
 [by-mountain](bhūbhṛtā) [by-king](rājñā)
 
 ## mukta-m0-p69-v1720
-[having-made](vidhāya) [fainted](mūrcchitaṃ) [subtle-body](liṅgadehaṃ) [mere-impression](saṃskāramātrakam)
+[having-made](vidhāya) [fainted](mūrcchitaṃ) [liṅga-body](liṅgadehaṃ) [mere-impression](saṃskāramātrakam)
 
 ## mukta-m0-p69-v1721
-[gross-senses-etc-absence](sthūlendriyādyabhāvāt) [like-deep-sleep](suṣuptāviva) [mere-impression](saṃskāramātrakam)
+[gross-senses-etc-absence](sthūlendriyādyabhāvāt) [as-in-deep-sleep](suṣuptāviva) [mere-impression](saṃskāramātrakam)
 
 ## mukta-m0-p69-v1722
-[raised](utthāpyāmāsa) [but](tu) [him](taṃ) [worn-body-attached](jīrṇadehasusaṅgatam)
+[raised](utthāpyāmāsa) [but](tu) [him](taṃ) [worn-body-well-joined](jīrṇadehasusaṅgatam)
 
 ## mukta-m0-p69-v1723
-[from-mountain](śailād) [having-exited](vinirgatya) [in-that-body](taccharīrake) [before](prāk) [grass-hollow-placed](tṛṇakoṭaranyaste) [him](taṃ) [king](rājānam)
+[from-mountain](śailāt) [having-gone-out](vinirgatya) [that-little-body](taccharīrake) [before](prāk) [grass-hollow-placed](tṛṇakoṭaranyaste) [that](taṃ) [king](rājānam)
 
 ## mukta-m0-p69-v1724
-[earth](bhuvaṃ) [people](janāṃs) [trees](tarūn) [streams-pools-etc](srotohradādīṃś) [and](ca) [api](api) [new](nūtanān)
+[earth](bhuvaṃ) [people](janān) [trees](tarūn) [streams-lakes-etc](srotohradādīn) [also](ca) [api](api) [new](nūtanān)
 
 ## mukta-m0-p69-v1725
-[new](nūtanān) [other-transformation](pariṇāmāntaraṃ) [gone](gatān)
+[new](nūtanān) [transformation-other](pariṇāmāntaraṃ) [gone](gatān)
