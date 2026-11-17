@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p404-v10076
-[veda-vyāsaḥ](vedavyāso) [sage](muniḥ)+[meter](chandaḥ) [composition](kṛtiḥ)+[gaṅgā](gaṅgā) [and](ca) [deity](devatā)
+[veda-vyāsa](vedavyāso) [muni](muniḥ) [meter](chandaḥ) [composition](kṛtiḥ) [gaṅgā](gaṅgā) [and](ca) [deity](devatā)
 
 ## mukta-m0-p404-v10077
-[all](nikhilaṃ) [as-before](pūrvavat)+[one-should-do](kuryāt) [all-desired-giver](nikhilābhīṣṭado) [mantra](manuḥ)
+[all](nikhilaṃ) [as-before](pūrvavat) [do](kuryāt) [all-desires-giving](nikhilābhīṣṭadaḥ) [manu](manuḥ)
 
 ## mukta-m0-p404-v10078
-[oṃ](oṃ) [hrīṃ](hrīṃ) [śrīṃ](śrīṃ) [hṛdbhagavati-gaṅge-ca-dayite-namaḥ](hṛdbhagavati gaṅge ca dayite namaḥ)
+[oṃ](oṃ) [hrīṃ](hrīṃ) [śrīṃ](śrīṃ) [heart-goddess](hṛdbhagavati) [gaṅgā](gaṅge) [beloved](dayite) [salutation](namaḥ)
 
 ## mukta-m0-p404-v10079
-[three-two-ocean-five-two-two-letters](tridvyabdhīṣudvidvivarṇaiḥ) [six-limb-procedure](ṣaḍaṅgavidhir)+[is-declared](īritaḥ)
+[three-two-ocean-arrow-five-varṇa](tridvyabdhīṣudvidvivarṇaiḥ) [six-limb-rite](ṣaḍaṅgavidhiḥ) [declared](īritaḥ)
 
 ## mukta-m0-p404-v10080
-[letter-hundred-thousand](varṇalakṣaṃ) [one-should-repeat](japet)+[oblation](dhomaḥ) [as-before](prāgvat)+[agreeable-fruit](sammatkaras)+[indeed](tu)+[this](ayam)
+[varṇa-lakh](varṇalakṣaṃ) [japa](japet) [homa](homaḥ) [as-before](prāgvat) [well-accepted-hand](sammatkarastvayam)
 
 ## mukta-m0-p404-v10081
-[hili-pair](hilidvandvaṃ) [mili-pair](milidvandvaṃ) [gaṅge](gaṅge) [devi](devi) [salutation](namas)+[thus](tathā)
+[hili-pair](hilidvandvaṃ) [mili-pair](milidvandvaṃ) [gaṅgā](gaṅge) [goddess](devi) [salutation](namaḥ) [thus](tathā)
 
 ## mukta-m0-p404-v10082
-[three-two-two-syllable-pair-two-letters](tridvidvyakṣiyugadvyarṇaiḥ) [six-limb-procedure](ṣaḍaṅgavidhir)+[is-declared](īritaḥ)
+[three-two-two-eye-yuga-two-varṇa](tridvidvyakṣiyugadvyarṇaiḥ) [six-limb-rite](ṣaḍaṅgavidhiḥ) [declared](īritaḥ)
 
 ## mukta-m0-p404-v10083
-[narmadāyai-nama-iti](narmadāyai nama iti) [six-syllabled](ṣaḍarṇaḥ) [is-proclaimed](parikīrtitaḥ)
+[to-narmadā](narmadāyai) [salutation](namaḥ) [iti](iti) [six-syllable](ṣaḍarṇaḥ) [proclaimed](parikīrtitaḥ)
 
 ## mukta-m0-p404-v10084
-[shining-handed](lasaddhastāṃ) [golden-complexioned](svarṇakāntiṃ) [adorned](sālaṅkārāṃ) [I-worship](bhajāmyaham)
+[shining-hand](lasaddhastāṃ) [golden-radiance](svarṇakāntiṃ) [with-ornaments](sālaṅkārāṃ) [I-worship](bhajāmyaham)
 
 ## mukta-m0-p404-v10085
-[six-limbs](ṣaḍaṅgāni) [and](ca) [by-mantra-syllables](mantrārṇaiḥ) [one-should-repeat](prajapet)+[by-letter-number](varṇasaṅkhyayā)
+[six-limbs](ṣaḍaṅgāni) [mantra-syllables](mantrārṇaiḥ) [japa](prajapet) [varṇa-count](varṇasaṅkhyayā)
 
 ## mukta-m0-p404-v10086
-[here](iha) [happiness](saukhyaṃ) [in-the-other-world](paratrāpi) [in-śiva’s-world](śivaloke) [one-is-honored](mahīyate)
+[here](iha) [happiness](saukhyaṃ) [there-too](paratrāpi) [śiva-world](śivaloke) [exalted](mahīyate)
 
 ## mukta-m0-p404-v10087
-[on-sarasvatī-bank](sarasvatītaṭe) [repeated](japtās)+[quickly](tvaritaṃ) [success-giving](siddhidāyakāḥ)
+[sarasvatī-bank](sarasvatītaṭe) [japa](japtāḥ) [quickly](tvaritaṃ) [siddhi-giving](siddhidāyakāḥ)
 
 ## mukta-m0-p404-v10088
-[of-gaṅgā-word](gaṅgāśabdasya) [before](pūrve) [they](te) [of-godā](godāyā) [mantras](manavaḥ) [are-remembered](smṛtāḥ)
+[gaṅgā-word](gaṅgāśabdasya) [before](pūrve) [they](te) [godā-mantras](godāyā) [mantras](manavaḥ) [remembered](smṛtāḥ)
 
 ## mukta-m0-p404-v10089
-[śrī-kṛṣṇa-sporting-river](śrīkṛṣṇakheladyunadi) [protect](trāhi) [me](māṃ) [you](tvaṃ) [from-world-ocean](bhavārṇavāt)
+[śrī-kṛṣṇa-play-river](śrīkṛṣṇakheladyunadi) [protect-me](trāhi) [me](māṃ) [you](tvaṃ) [ocean-of-becoming](bhavārṇavāt)
 
 ## mukta-m0-p404-v10090
-[meter](chandas)+[anuṣṭup](anuṣṭup)+[six-limbs](ṣaḍaṅgāni) [by-quarter-half-half](pādārdhārdha)+[sequence](krameṇa) [and](ca)
+[meter-anuṣṭup](chandonuṣṭup) [six-limbs](ṣaḍaṅgāni) [half-quarter-sequence](pādārdhārdhakrameṇa) [and](ca)
 
 ## mukta-m0-p404-v10091
-[with-sesame-and-ghee](tilājyābhyāṃ) [should-offer-oblation](hunet)+[practitioner](mantrī) [sun](bhāskariṃ) [not](na)+[indeed](eva) [sees](vīkṣate)
+[sesame-ghee](tilājyābhyāṃ) [offer](hunet) [mantrin](mantrī) [bhāskarī](bhāskariṃ) [not](naiva) [look](vīkṣate)
 
 ## mukta-m0-p404-v10092
-[such-and-such-island-surrounding](amukadvīpāvaraka)+[such-and-such-substance-ocean](amukadravyodadhe) [one-should-say](vadet)
+[such-island](amukadvīpā) [enclosure](varaka) [such-thing](amukadravya) [ocean](udadhe) [speak](vadet)
 
 ## mukta-m0-p404-v10093
-[ocean-mantra](samudramantra) [is-declared](uddiṣṭaḥ) [sindhudvīpa](sindhudvīpo) [sage](munir)+[is-considered](mataḥ)
+[ocean-mantra](samudramantraḥ) [declared](uddiṣṭaḥ) [sindhu-island](sindhudvīpaḥ) [muni-opinion](munirmataḥ)
 
 ## mukta-m0-p404-v10094
-[by-words](padaiḥ)+[of-mantra](manoḥ) [six-limbs](ṣaḍaṅgāni) [that-form](tattadrūpaṃ) [one-should-meditate](vicintayet)
+[words-of-mantra](padairmanoḥ) [six-limbs](ṣaḍaṅgāni) [that-form](tattadrūpaṃ) [contemplate](vicintayet)
 
 ## mukta-m0-p404-v10095
-[that-within-situated](tattadantargataṃ) [thing](vastu) [obtains](labhate) [practitioner](sādhako) [certainly](dhruvam)
+[that-contained-object](tattadantargataṃ) [thing](vastu) [obtains](labhate) [sādhaka](sādhako) [certainly](dhruvam)
 
 ## mukta-m0-p404-v10096
-[praṇava](tāraṃ) [yaṃ](yaṃ) [vāyave](vāyave) [prāṇādhipataye](prāṇādhipataye) [word](padaṃ) [one-should-say](vadet)
+[tāra](tāraṃ) [yaṃ](yaṃ) [to-vāyu](vāyave) [prāṇa-lord](prāṇādhipataye) [word](padaṃ) [speak](vadet)
 
 ## mukta-m0-p404-v10097
-[ya](ya) [namaḥ](namo) [two-two-syllabled](godvivarṇo)+[this](yaṃ) [vāyu-mantra](vāyumantra) [is-declared](udīritaḥ)
+[ya](ya) [salutation](namo) [go-two-varṇa](godvivarṇoyaṃ) [vāyu-mantra](vāyumantraḥ) [declared](udīritaḥ)
 
 ## mukta-m0-p404-v10098
-[five-limbs](pañcāṅgāni) [of-mantra](manorasya) [oṃ-yaṃ-seed-etc.](oṃ yaṃ bījādikaiḥ) [with-words](padaiḥ)
+[five-limbs](pañcāṅgāni) [of-mantra](manorasya) [oṃ-yaṃ-seed-etc](oṃ yaṃ bījādikaiḥ) [words](padaiḥ)
 
 ## mukta-m0-p404-v10099
-[noose-hook-handed](pāśāṃkuśakaram)+[corpse](preta)+[magical-figure](kṛtyā)+[attended-by](parisarānvitam)
+[noose-goad-hand-preta-act-surrounding](pāśāṃkuśakarampretakṛtyāparisarānvitam)
 
 ## mukta-m0-p404-v10100
-[accomplished-mantra](siddhamantras)+[indeed](tu) [at-that-time](tatkālam)+[becomes](bhavet)+[on-earth](bhūmau) [strong](balādhikaḥ)
+[siddha-mantra](siddhamantraḥ) [then](tu) [that-time](tatkālam) [becomes](bhaved) [earth](bhūmau) [strength-greater](balādhikaḥ)

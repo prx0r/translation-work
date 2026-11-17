@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p365-v9101
-[with-cake](pūreṇa) [with-various](vividhaiḥ) + [meats](māṃsaiḥ) [one-should-offer](juhuyāt) [for-desired](iṣṭa) + [accomplishment](siddhaye)
+[with-full](pūreṇa) [various](vividhaiḥ) [meats](māṃsaiḥ) [should-offer](juhuyāt) [for-desired-accomplishment](iṣṭasiddhaye)
 
 ## mukta-m0-p365-v9102
-[with-crystal](sphāṭikaiḥ) [with-lotus](padma) + [seeds](bījaiḥ) + [and](ca) [with-rudrākṣa-beads](rudrākṣaiḥ) [in-auspicious](śubha) + [rite](karmmaṇi)
+[crystal](sphāṭikaiḥ) [lotus-seeds](padmabījaiḥ) [and](ca) [rudrākṣas](rudrākṣaiḥ) [for-auspicious-rite](śubhakarmaṇi)
 
 ## mukta-m0-p365-v9103
-[Vārāhī](vārāhīṃ) [one-should-satisfy](tarppayet) [all](sarva) + [desire](kāmaṃ) [should-fulfill](sampūrayet) [a-person](naraḥ)
+[to-vārāhī](vārāhīm) [should-satisfy](tarppayet) [all-desires](sarvakāmam) [fulfill](sampūrayet) [man](naraḥ)
 
 ## mukta-m0-p365-v9104
-[with-parched-rice](lāja) + [powder](cūrṇa) + [and-sesame](tilaiḥ) [one-should-perform](kuryyāt) [with-boar](vara) + [and-sheep](meṣa) + [blood](asṛk) + [accompanied](anvitaiḥ)
+[parched-rice-powder](lājacūrṇa) [sesame](tilaiḥ) [should-do](kuryyāt) [boon](vara) [with-blood](asṛganvitaiḥ)
 
 ## mukta-m0-p365-v9105
-[endowed-with](sampanna) + [love](madanaṃ) [with-limbs](sāṅgam) [to-her](etasyai) [one-should-offer](vinivedayet)
+[accomplished](sampannam) [love-rite](madanam) [with-limbs](sāṅgam) [to-her](etasyai) [should-offer](vinivedayet)
 
 ## mukta-m0-p365-v9106
-[in-twenty-one](ekaviṃśati) + [nights](rātrīṣu) [with-parched-rice](lājai) [with-blood](rakta) + [accompanied](samanvitaiḥ)
+[twenty-one-nights](ekaviṃśatirātrīṣu) [with-parched-rice](lājaiḥ) [with-blood](raktasamanvitaiḥ)
 
 ## mukta-m0-p365-v9107
-[thus](evaṃ) [of-Vārttālikā](vārttālikāyāḥ) + [indeed](tu) [practice](sādhanaṃ) [according-to-left-hand-path](vāma) + [mārga] + [gone](gataḥ)
+[thus](evaṃ) [of-vārttālikā](vārttālikāyāḥ) [tu](tu) [sādhana](sādhanaṃ) [left-path](vāmamārgataḥ)
 
 ## mukta-m0-p365-v9108
-[oṃ](oṃ) [oṃ hrīṃ namo vārāhighore svapnaṃ ṭhaḥṭhaḥ svāhā ||]( [oṃ hrīṃ namo vārāhighore svapnaṃ ṭhaḥṭhaḥ svāhā || ]) [hrīṃ](hrīṃ) [obeisance](namaḥ) + [and](ca) [O-Vārāhī](vārāhi) [O-terrible-one](ghore) [dream](svapnaṃ) [with-visarga](visarga) + [joined](yuk)
+[oṃ](oṃ) [hrīṃ](hrīṃ) [salutation](namaḥ) [ca](ca) [to-vārāhī](vārāhi) [fierce](ghore) [dream](svapnam) [visarga-joined](visargayuk)
 
 ## mukta-m0-p365-v9109
-[Īśvara](īśvaraḥ) + [its](asya) [sage](muniḥ) [declared](proktaḥ) [jagatī](jagatī) [metre](chandaḥ) [stated](īritam)
+[īśvara](īśvaraḥ) [of-this](asya) [sage](muniḥ) [proclaimed](proktaḥ) [jagatī](jagatī) [meter](chandaḥ) [declared](īritam)
 
 ## mukta-m0-p365-v9110
-[hṛllekhā](hṛllekhā) + [power](śaktiḥ) [designated](uddiṣṭā) [ṭha](ṭha) + [pair](dvayaṃ) [peg](kīlakaṃ) [considered](matam)
+[heart-line](hṛllekhā) [śakti](śaktiḥ) [indicated](uddiṣṭā) [two](dvayaṃ) [kīlaka](kīlakaṃ) [considered](matam)
 
 ## mukta-m0-p365-v9111
-[on-the-feet](pādayoḥ) [on-the-private-parts](vyañjane) [on-the-hips](kaṭyoḥ) [on-the-throat](kaṇṭhe) [on-the-two-cheeks](gaṇḍa) + [pair](dvaye) [likewise](tathā)
+[at-feet](pādayoḥ) [in-genitals](vyañjane) [at-hips](kaṭyoḥ) [at-throat](kaṇṭhe) [at-cheeks](gaṇḍadvaye) [and](tathā)
 
 ## mukta-m0-p365-v9112
-[then](tataḥ) [one-should-meditate](dhyāyet) [cloud](ghana) + [dark](śyāmāṃ) [three](tri) + [eyed](netrām) [with-raised](unnata) + [breasts](stanīm)
+[then](tataḥ) [should-meditate](dhyāyet) [dense-dark](ghanaśyāmām) [three-eyed](trinetrām) [high-breasted](unnatastanīm)
 
 ## mukta-m0-p365-v9113
-[horse](aśva) + [mounted](ārūḍhāṃ) [and](ca) [boar](kola) + [faced](āsyāṃ) [with-various](nānā) + [ornaments](alaṃkāra) + [adorned](bhūṣitām)
+[horse-mounted](aśvārūḍhām) [ca](ca) [boar-faced](kolāsyām) [various-ornaments](nānālaṃkāra) [adorned](bhūṣitām)
 
 ## mukta-m0-p365-v9114
-[in-the-sixteen-petalled-lotus](ṣoḍaśa) + [are](are) [one-should-worship](yajet) [powers](śaktīḥ) [to-be-described](vakṣyamāṇāḥ) + [and](ca) [sixteen](ṣoḍaśa)
+[sixteen-petalled](ṣoḍaśāre) [should-worship](yajet) [śaktis](śaktīḥ) [to-be-spoken](vakṣyamāṇāḥ) [ca](ca) [sixteen](ṣoḍaśa)
 
 ## mukta-m0-p365-v9115
-[Māraṇī](māraṇī) [Māriṇīśī](māriṇīśī) [and](ca) [Bhīṣaṇī](bhīṣaṇī) [Bhīṣaṇīśvarī](bhīṣaṇīśvarī)
+[māraṇī](māraṇī) [māriṇī](māriṇī) [śī](śī) [ca](ca) [bhīṣaṇī](bhīṣaṇī) [bhīṣaṇīśvarī](bhīṣaṇīśvarī)
 
 ## mukta-m0-p365-v9116
-[Āśāvivartinī](āśāvivartinī) [then](paścāt) [Āśāvivartinīśvarī](āśāvivarttinīśvarī)
+[āśāvivartinī](āśāvivartinī) [afterwards](paścāt) [āśāvivartinīśvarī](āśāvivarttinīśvarī)
 
 ## mukta-m0-p365-v9117
-[these](etāḥ) [to-be-worshipped](pūjyāḥ) [ending-in-dative](caturthī) + [ending](antāḥ) [beginning-with-praṇava](praṇava) + [beginning](ādyāḥ) [ending-with-namas](namaḥ) + [ending](antakāḥ)
+[these](etāḥ) [worshipful](pūjyāḥ) [ending-in-caturthī](caturthyantāḥ) [from-praṇava](praṇavādyāḥ) [ending-in-namaḥ](namontakāḥ)
 
 ## mukta-m0-p365-v9118
-[world-guardians](loka) + [pālān] [in-the-ten-petalled-lotus](daśa) + [dale) [in-the-two](dvitaye) [with-weapons](heti) + [joined](saṃyutān)
+[world-guardians](lokapālān) [ten-petalled](daśadale) [two](dvitaye) [with-weapons](hetisaṃyutān)
 
 ## mukta-m0-p365-v9119
-[thus](evaṃ) [with-accomplished](siddha) + [mantra](manuḥ) [mantrin](mantrī) [desired](kāmya) + [rites](karmmāṇi) [should-accomplish](sādhayet)
+[thus](evaṃ) [accomplished-mantra](siddhamanuḥ) [mantrin](mantrī) [desired-rites](kāmyakarmmāṇi) [accomplishes](sādhayet)
 
 ## mukta-m0-p365-v9120
-[one-should-bring](ānayet) [a-young-woman](taruṇīṃ) [in-a-year](varṣāt) [for-all](sarva) + [desire](kāma) + [prosperity](samṛddhaye)
+[should-bring](ānayet) [maiden](taruṇīm) [from-year](varṣāt) [for-all-desires-fulfillment](sarvakāmasamṛddhaye)
 
 ## mukta-m0-p365-v9121
-[from-a-crossroads](catuṣpathāt) [from-a-river](nadī) + [bank](kūla) + [pair](dvayāt) [from-a-potter's](kulāla) + [house](veśmanaḥ)
+[from-crossroads](catuṣpathāt) [from-river-bank](nadīkūlāt) [two](dvayāt) [from-potter-house](kulālaveśmanaḥ)
 
 ## mukta-m0-p365-v9122
-[one-should-make](racayet) [a-doll](puttalīṃ) [charming](ramyāṃ) [with-the-target's](sādhya) + [life-breath](asu) + [installation](sthāpana) + [endowed](anvitām)
+[should-make](racayet) [doll](puttalīm) [lovely](ramyām) [with-sādhya-placement](sādhyāsusthāpanānvitām)
 
 ## mukta-m0-p365-v9123
-[with-yellow](pīta) + [and-red](aṅga) + [joined](rayujā) [a-yonī](yoniṃ) [six](ṣaṭ) + [cornered](koṇaṃ) [with-earth-square](bhū) + [enclosure](pura) + [endowed](anvitam)
+[yellow-limbed](pītāṅgāra) [with-yoni](yoniṃ) [six-angled](ṣaṭkoṇaṃ) [with-bhūpura](bhūpurānvitam)
 
 ## mukta-m0-p365-v9124
-[a-thousand](sahasraṃ) [and](ca) [eight](aṣṭakaṃ) [again](bhūyaḥ) [one-should-worship](pūjayet) [her](tāṃ) [concentrated](samāhitaḥ)
+[thousand](sahasraṃ) [and-eight](cāṣṭakaṃ) [again](bhūyaḥ) [should-worship](pūjayet) [her](tām) [concentrated](samāhitaḥ)
 
 ## mukta-m0-p365-v9125
-[lions](siṃhāḥ) [elephants](gajāḥ) [deer](mṛgāḥ) [fierce-beasts](krūrāḥ) [would-become](bhaveyuḥ) [submissive](vaśa) + [gone](gāḥ) [certainly](dhruvam)
+[lions](siṃhāḥ) [elephants](gajāḥ) [deer](mṛgāḥ) [cruel](krūrāḥ) [would-become](bhaveyuḥ) [subjugated](vaśagāḥ) [certainly](dhruvam)

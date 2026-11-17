@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p378-v9426
-[he](sa) [goes](yāti) [supreme](paramāṃ) [success](siddhiṃ) [by-gods](devaiḥ) [even](api) [very-difficult-to-obtain](su+durlabhām)
+[he](sa) [goes](yāti) [supreme](paramāṃ) [success](siddhiṃ) [even-by-gods](devairapi) [very-difficult](sudurlabhām)
 
 ## mukta-m0-p378-v9427
-[in-cremation-ground](śmaśāne) [should-worship](abhyarcayet) [goddess](devīṃ) [lord-of-speech](vāg+īśa) [equality](samatāṃ) [would-attain](vrajet)
+[in-cremation-ground](śmaśāne) [worship-goddess](abhyarcayeddevīṃ) [speech-lord+equality](vāgīśa+samatāṃ) [attains](vrajet)
 
 ## mukta-m0-p378-v9428
-[in-cremation-ground](śmaśāne) [should-worship](abhyarcayet) [goddess](devīṃ) [all](sarvāṃ) [success](siddhiṃ) [he](sa) [obtains](vindati)
+[in-cremation-ground](śmaśāne) [worship-goddess](abhyarcayeddevīṃ) [all+success](sarva+siddhiṃ) [he-finds](sa+vindati)
 
 ## mukta-m0-p378-v9429
-[happy](sukhī) [he-would-be](syāt) [not](na) [here](atra) [doubt](sandehaḥ) [Mahākāla](mahākāla) [word](vacaḥ) [as](yathā)
+[happy](sukhī) [is](syāt) [no](na) [doubt](atra+sandeho) [great-time's-word](mahākāla+vaco) [as](yathā)
 
 ## mukta-m0-p378-v9430
-[red-sandalwood](rakta+candana) [smeared-body](digdha+aṅgīṃ) [with-red-flowers](rakta+puṣpaiḥ) [adorned](alaṅkṛtām)
+[red-sandal-anointed-limbs](raktacandana+digdhāṅgīṃ) [red-flowers-adorned](raktapuṣpaiḥ+alaṅkṛtām)
 
 ## mukta-m0-p378-v9431
-[then](tataḥ) [having-gone](gatvā) [would-obtain](āpnuyāt) [kingdom](rājyaṃ) [if](yadi) [he](asau) [not](na) [fears](bibheti) [indeed](vai)
+[then-going](tato+gatvā) [obtains-kingdom](āpnuyād+rājyaṃ) [if](yadi) [he](asau) [not-fears](na+bibheti) [indeed](vai)
 
 ## mukta-m0-p378-v9432
-[repeatedly](asakṛt) [indeed](tu) [should-recite](japet) [mantra](mantraṃ) [all-success](sarva+siddhi) [giver](pradaḥ) [would-be](bhavet)
+[repeatedly](asakṛt) [jap-mantra](tu+japen+mantraṃ) [all-success-giving](sarva+siddhi+prado) [mantra](mantra) [becomes](bhavet)
 
 ## mukta-m0-p378-v9433
-[three-times](triḥ+triḥ) [mantras](mantrān) [having-uttered](udīryya) [thus](evaṃ) [all-success](sarva+siddhiḥ) [would-be](bhavet) [then](tataḥ)
+[thrice-thrice](tris+tris) [mantras-uttering](mantrān+udīryya) [thus](evaṃ) [all-success](sarva+siddhiḥ) [becomes](bhavet) [then](tataḥ)
 
 ## mukta-m0-p378-v9434
-[with-semen](retobhiḥ) [and](ca) [likewise](tathā) [in-that-way](tadvat) [with-own](svakīyena) [with-hair](kacena) [and](ca)
+[with-semen](retobhiḥ+ca) [and](tathā) [so](tadvat) [own](svakīyena) [hair](kacena) [ca](ca)
 
 ## mukta-m0-p378-v9435
-[with-mouse](mūṣa) [cat](mārjjāra) [blood](raktena) [eloquence](vāgmitvaṃ) [of-him](tasya) [arises](jāyate)
+[mouse-cat-blood](mūṣa+mārjjāra+raktena) [eloquence](vāgmitvaṃ) [his](tasya) [arises](jāyate)
 
 ## mukta-m0-p378-v9436
-[by-speech](vacasā) [he](sa) [would-be](bhavet) [Jīva](jīvaḥ) [by-wealth](dhanena) [and](ca) [lord-of-wealth](dhana+adhipaḥ)
+[by-speech](vacasā) [he-becomes](sa+bhavet) [living](jīvaḥ) [by-wealth](dhanena) [ca](ca) [wealth-lord](dhanādhipaḥ)
 
 ## mukta-m0-p378-v9437
-[by-strength](balena) [wind](pavanaḥ) [eldest](jyeṣṭhaḥ) [all-principle](sarva+tattva) [meaning](artha) [accomplisher](sādhakaḥ)
+[by-strength](balena) [wind](pavanaḥ) [eldest](jyeṣṭhaḥ) [all-principles-goal-accomplisher](sarva+tattva+artha+sādhakaḥ)
 
 ## mukta-m0-p378-v9438
-[mouse-flesh](mūṣa+māṃsaṃ) [sheep-flesh](meṣa+māṃsaṃ) [goat](chāgaṃ) [buffalo](māhiṣam) [indeed](eva) [and](ca)
+[mouse-flesh](mūṣa+māṃsaṃ) [sheep-flesh](meṣa+māṃsaṃ) [goat](chāgaṃ) [buffalo](māhiṣam) [eva](eva) [ca](ca)
 
 ## mukta-m0-p378-v9439
-[one-should-offer](nivedayet) [in-cremation-ground](śmaśāne) [that](tat) [all-success](sarva+siddhi) [giver](pradaḥ) [would-be](bhavet)
+[offer](nivedayet) [in-cremation-ground](śamaśāne) [that-all-success-giving](tatsarva+siddhi+prado) [becomes](bhavet)
 
 ## mukta-m0-p378-v9440
-[each](pratyekaṃ) [should-recite](prajapet) [mantra](mantraṃ) [then](tataḥ) [that](tat) [should-offer-in-fire](homayet) [wise-one](budhaḥ)
+[separately](pratyekaṃ) [jap-mantra](prajapen+mantraṃ) [then](tataḥ) [that-homa](tad+homayet) [wise](budhaḥ)
 
 ## mukta-m0-p378-v9441
-[all-success](sarva+siddhiḥ) [would-be](bhavet) [of-him](tasya) [eloquent](vāgmī) [wise](dhīraḥ) [he](sa) [becomes](jāyate)
+[all-success](sarva+siddhiḥ) [becomes-his](bhavet+tasya) [eloquent](vāgmī) [steadfast](dhīraḥ) [he-becomes](sa+jāyate)
 
 ## mukta-m0-p378-v9442
-[vulva-form](yoni+rūpaṃ) [indeed](hi) [having-made](kṛtvā) [then](tu) [fire-pit](kuṇḍaṃ) [span-cubit](vitasti+ratnitaḥ)
+[yoni-form](yonirūpaṃ) [indeed](hi) [having-made](kṛtvā) [tu](tu) [pit](kuṇḍaṃ) [hand-span-measured](vitastyaratnitaḥ)
 
 ## mukta-m0-p378-v9443
-[there](tatra) [to-be-done](kāryyāḥ) [indeed](hi) [by-mantra](mantreṇa) [fire](vahni) [establishment](sthāpanikāḥ) [rites](kriyāḥ)
+[there](tatra) [done](kāryyā) [hi](hi) [by-mantra](mantreṇa) [fire-establishing](vahnisthāpanikāḥ) [acts](kriyāḥ)
 
 ## mukta-m0-p378-v9444
-[with-ladle](sruveṇa) [with-ghee](ājyena) [with-flesh](māṃsena) [with-food](bhaktena) [with-blood](rudhireṇa) [and](ca)
+[with-ladle](sruveṇa) [ghee](ājyena) [flesh](māṃsena) [food](bhaktena) [blood](rudhireṇa) [ca](ca)
 
 ## mukta-m0-p378-v9445
-[with-meat](āmiṣa) [etc.](ādibhiḥ) [also](api) [thus](evaṃ) [one-should-offer](juhuyāt) [and](ca) [in-cremation-ground](śmaśānake)
+[meat-etc](āmiṣādibhiḥ) [api](api) [evaṃ](evaṃ) [offer](juhuyāt) [ca](ca) [in-cremation-ground](śmaśānake)
 
 ## mukta-m0-p378-v9446
-[by-day](divā) [all](sarvaṃ) [one-should-perform](prakurvīta) [for-all-desire](sarva+kāma) [purpose](artha) [accomplishment](siddhaye)
+[by-day](divā) [all](sarvaṃ) [do](prakurvīta) [all-desires-goals-success](sarva+kāma+artha+siddhaye)
 
 ## mukta-m0-p378-v9447
-[one-should-perform](prakurvīta) [with-effort](prayatnena) [for-all-desire](sarva+kāma) [purpose](artha) [accomplishment](siddhaye)
+[do](prakurvīta) [effort](prayatnena) [all-desires-goals-success](sarva+kāma+artha+siddhaye)
 
 ## mukta-m0-p378-v9448
-[of-śūdras](śūdrāṇāṃ) [and](ca) [indeed](eva) [declared](saṃproktaḥ) [at-night](rātrau) [only](eva) [rite](vidhiḥ) [by-me](mayā)
+[of-shudras](śūdrāṇāṃ) [ca](ca) [eva](eva) [declared](saṃprokto) [at-night](rātrau) [eva](eva) [rite](vidhiḥ) [by-me](mayā)
 
 ## mukta-m0-p378-v9449
-[threefold](tridhā) [having-divided](vibhajya) [with-mantra](mantra) [etc.](ādyaiḥ) [with-effort](yatnāt) [best-practitioner](sādhaka+sattamaḥ)
+[threefold](tridhā) [dividing](vibhajya) [mantra-etc](mantrādyaiḥ) [effort](yatnāt) [practitioner-best](sādhaka+sattamaḥ)
 
 ## mukta-m0-p378-v9450
-[ghee](ājyaṃ) [and](ca) [thus](iti) [with-effort](prayatnena) [to-be-offered](hotavyaṃ) [for-all-success](sarva+siddhaye)
+[ghee](ājyaṃ) [ca](ca) [iti](iti) [effort](prayatnena) [offered](hotavyaṃ) [all-success](sarva+siddhaye)

@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p364-v9076
-[womb](yoni) [five-cornered](pañcāsra) [six-angled](ṣaṭkoṇa) [eight-petaled](aṣṭapatra) [hundred-petaled](śatapatrakam)
+[yoni-pañcāsra-ṣaṭkoṇa-aṣṭapatra-śatapatrakam](yonipañcāsraṣaṭkoṇāṣṭapatraśatapatrakam)
 
 ## mukta-m0-p364-v9077
-[Kailāsa-mountain](kailāsa+acala) [in-the-middle-situated](madhya+stham) [seat](pīṭham) [this](etat) [one-should-contemplate](vicintayet)
+[kailāsa-mountain-middle-situated](kailāsācalamadhyasthaṃ) [pedestal-this-contemplate](pīṭhametadvicintayet)
 
 ## mukta-m0-p364-v9078
-[in-the-triangle-middle](trikoṇa+madhye) [goddess-lady](deveśīm) [six-limbs](ṣaḍ+aṅgāni) [also](api) [there](tatra) [indeed](tu)
+[triangle-middle](trikoṇamadhye) [goddess](deveśīṃ) [six-limbs-also](ṣaḍaṅgānyapi) [there-indeed](tatra tu)
 
 ## mukta-m0-p364-v9079
-[Jṛmbhiṇī](jṛmbhiṇī) [Mohinī](mohinī) [and](ca) [indeed](eva) [Stambhinī](stambhinī) [in-the-five-cornered](pañca+koṇake)
+[yawning](jṛmbhiṇī) [deluding](mohinī) [and-also](caiva) [stunning](stambhinī) [five-angle-in](pañcakoṇake)
 
 ## mukta-m0-p364-v9080
-[Ḍākinī-and-others](ḍākinī+ādyāḥ) [on-both-sides](pārśvayoḥ) [and](ca) [Stambhinī](stambhinīm) [Krodhinī](krodhinīm) [also](api)
+[ḍākinī-etc](ḍākinyādyāḥ) [side-also](pārśvayośca) [stunning](stambhinīṃ) [angry-also](krodhinīmapi)
 
 ## mukta-m0-p364-v9081
-[trident](śūlaṃ) [skull](muṇḍañ) [and](ca) [drum](ḍamaruṃ) [skull-cup](kapālaṃ) [holding](dadhataṃ) [with-hands](karaiḥ)
+[trident](śūlaṃ) [skull-and](muṇḍañca) [drum](ḍamaruṃ) [skull](kapālaṃ) [holding](dadhataṃ) [hands](karaiḥ)
 
 ## mukta-m0-p364-v9082
-[in-the-eight-petals](aṣṭa+patre) [indeed](tu) [Vārtālī-faced](vārtālī+mukhaṃ) [group-of-eight-goddesses](devī+aṣṭakaṃ) [one-should-worship](yajet)
+[eight-petal-in](aṣṭapatre tu) [vārtālī-face](vārtālīmukhaṃ) [goddess-octad](devyaṣṭakaṃ) [worship](yajet)
 
 ## mukta-m0-p364-v9083
-[in-front-of-the-hundred-corners](śata+koṇa+agrataḥ) [lion](siṃhaḥ) [to-be-worshipped](pūjyaḥ) [with-buffalo](mahiṣa+saṃyutaḥ)
+[hundred-angle-front](śatakoṇāgrataḥ) [lion](siṃhaḥ) [worship](pūjyo) [buffalo-accompanied](mahiṣasaṃyutaḥ)
 
 ## mukta-m0-p364-v9084
-[kroṃ](kroṃ) [to-Vārāhī](vārāhyai) [salutation](nama) [thus](iti) [worship-mantra](pūjā+mantraḥ) [six-syllabled](ṣaḍ+akṣaraḥ)
+[kroṃ vārāhyai nama iti](kroṃ vārāhyai nama iti) [worship-mantra](pūjāmantraḥ) [six-syllable](ṣaḍakṣaraḥ)
 
 ## mukta-m0-p364-v9085
-[Yoginī](yoginīṃ) [lord-of-gaṇas](gaṇa+nāthañ) [and](ca) [with-their-respective-mantras](tat+tat+mantraiḥ) [one-should-worship](prapūjayet)
+[yogini](yoginīṃ) [gaṇanātha-and](gaṇanāthañca) [each-mantra-with](tattanmantraiḥ) [worship](prapūjayet)
 
 ## mukta-m0-p364-v9086
-[kṣeṃ](kṣeṃ) [to-the-field-protector](kṣetrapālāya) [salutation](namaḥ) [eight-syllabled](aṣṭa+arṇaḥ) [in-the-worship-of-the-field-protector](kṣetra+papūjane)
+[kṣeṃ kṣetrapālāya namoṣṭārṇaḥ](kṣeṃ kṣetrapālāya namoṣṭārṇaḥ) [field-protector-worship](kṣetrapapūjane)
 
 ## mukta-m0-p364-v9087
-[gaṃ](gaṃ) [to-Gaṇapati](gaṇapataye) [salutation](namaḥ) [eight-syllabled](aṣṭa+varṇaḥ) [this](ayam) [of-the-lord-of-gaṇas](gaṇa+īśituḥ)
+[gaṃ gaṇapataye namoṣṭavarṇoyaṃ](gaṃ gaṇapataye namoṣṭavarṇoyaṃ) [gaṇeśa-lord](gaṇeśituḥ)
 
 ## mukta-m0-p364-v9088
-[at-the-end-of-worship](pūjā+ante) [to-Baṭuka-and-others](baṭuka+ādibhyaḥ) [with-offering-mantras](bali+mantraiḥ) [offering](balim) [one-should-present](haret)
+[worship-end](pūjānte) [batuka-etc-to](baṭukādibhyo) [offering-mantra](balimantraibaliṃ) [carry](haret)
 
 ## mukta-m0-p364-v9089
-[kapilajaṭābhāra](kapilajaṭābhāra) [thus](iti) [bhāsura](bhāsura) [thus](iti) [one-should-say](vadet) [then](tataḥ)
+[kapila-matted-hair-shining](kapilajaṭābhāreti) [radiant](bhāsureti) [say-then](vadettataḥ)
 
 ## mukta-m0-p364-v9090
-[destroy](nāśaya) [twice](dvitayaṃ) [with-all-offerings](sarva+upacāra+sahitaṃ) [offering](balim)
+[destroy-two](nāśayadvitayaṃ) [all-offerings-accompanied](sarvopacārasahitaṃ) [offering](balim)
 
 ## mukta-m0-p364-v9091
-[of-Baṭuka](baṭukasya) [offering](balim) [one-should-give](dadyāt) [with-this](anena) [endowed-with-faith](śraddhayā+anvitaḥ)
+[batuka-offering](baṭukasya baliṃ) [give](dadyādanena) [faith-endowed](śraddhayānvitaḥ)
 
 ## mukta-m0-p364-v9092
-[ending-with-svāhā](svāhā+antaḥ) [joined-with-six-long-vowels](ṣaḍ+dīrgha+yuktaḥ) [beginning-with-kṣa](kṣa+ādyaḥ) [of-three-and-two-syllables](tri+dvi+mita+arṇakaḥ)
+[svāhā-ended](svāhāntaḥ) [six-long-with](ṣaḍdīrghayuktaḥ) [kṣa-etc-three-two-measure-syllable](kṣādyastridvimitārṇakaḥ)
 
 ## mukta-m0-p364-v9093
-[gāṃ gīṃ gūṃ gaṃ gaṇapataye varavarada sarvajanaṃ me vaśamānaya sarvopacārasahitaṃ baliṃ gṛhṇagṛhṇa svāhā](gāṃgīṃgūṃgamiti [gāṃ gīṃ gūṃ gaṃ gaṇapataye varavarada sarvajanaṃ me vaśamānaya sarvopacārasahitaṃ baliṃ gṛhṇagṛhṇa svāhā || ]) [having-said](procya) [ending-in-ṅa](ṅa+antam) [Gaṇapati](gaṇapatim) [likewise](tathā)
+[gāṃgīṃgūṃgamiti](gāṃgīṃgūṃgamiti) [mantra-bracket]( [gāṃ gīṃ gūṃ gaṃ gaṇapataye varavarada sarvajanaṃ me vaśamānaya sarvopacārasahitaṃ baliṃ gṛhṇagṛhṇa svāhā || ] ) [saying](procya) [ṅenta-gaṇapati-thus](ṅentaṃ gaṇapatiṃ tathā)
 
 ## mukta-m0-p364-v9094
-[with-all-offerings](sarva+upacāra+sahitaṃ) [offering](balim) [take-take](gṛhṇa+yugam) [again](punaḥ)
+[all-offerings-accompanied](sarvopacārasahitaṃ) [offering](baliṃ) [accept-pair](gṛhṇayugaṃ) [again](punaḥ)
 
 ## mukta-m0-p364-v9095
-[thus](evam) [to-them](tebhyaḥ) [offering](balim) [having-given](dattvā) [their-respective-mudrās](sva+sva+mudrāḥ) [one-should-display](pradarśayet)
+[thus](evaṃ) [to-them](tebhyo) [offering](baliṃ) [giving](dattvā) [own-mudras](svasvamudrāḥ) [show](pradarśayet)
 
 ## mukta-m0-p364-v9096
-[somewhat-bent](kiñcit+vakrī+kṛtā) [middle-finger](madhyā) [in-the-offering-to-the-lord-of-gaṇas](gaṇa+nātha+balau) [is-remembered](smṛtā)
+[slightly-curved](kiñcidvakrīkṛtā) [middle](madhyā) [gaṇanātha-offerings](gaṇanāthabalau) [remembered](smṛtā)
 
 ## mukta-m0-p364-v9097
-[of-the-Yoginīs](yoginīnām) [of-the-offering](baleḥ) [mantra](mantram) [at-the-end-of-the-practice](sādhanā+ante) [one-should-recite](paṭhet) [this](imam)
+[yoginis](yoginīnāṃ) [offering-mantra](balermantraṃ) [practice-end](sādhanānte) [read-this](paṭhedimam)
 
 ## mukta-m0-p364-v9098
-[yoṃ yoginībhyaḥ svāhā](yoṃ yoginībhyaḥ svāheti) [seven-syllabled](sapta+arṇaḥ) [garland-bearing](srag+dharā) [indeed](tu) [this](iyam)
+[yoṃ yoginībhyaḥ svāheti](yoṃ yoginībhyaḥ svāheti) [seven-syllable](saptārṇaḥ) [sragdharā-this](sragdharā tviyam)
 
 ## mukta-m0-p364-v9099
-[in-the-field](kṣetre) [in-the-seat-and-subsidiary-seats-etc](pīṭha+upapīṭha+ādiṣu) [and](ca) [having-taken-place](kṛta+padāḥ) [with-incense-lamp-etc](dhūpa+dīpa+ādikena) [pleased](prītāḥ) [goddesses](devyaḥ) [always](sadā) [for-us](naḥ) [with-auspicious-rite](śubha+yuta+vidhinā) [may-depart](yāntu) [adored-by-the-lord-of-heroes](vīra+indra+vandyāḥ)
+[field](kṣetre) [pedestal-subpedestal-etc-in](pīṭhopapīṭhādiṣu ca) [done-foot](kṛtapadā) [incense-lamp-etc](dhūpadīpādikena) [pleased](prītā) [goddesses](devyassadā) [us](naḥ) [auspicious-rite-by](śubhayutavidhinā) [go](yāntu) [hero-lord-venerable](vīrendravandyāḥ)
 
 ## mukta-m0-p364-v9100
-[one-who-has-accomplished-the-mantra](siddha+mantraḥ) [should-perform](prakarvīta) [applications](prayogān) [spoken-by-Śiva](śiva+bhāṣitān)
+[accomplished-mantra](siddhamantraḥ) [perform](prakarvīta) [applications](prayogāñchivabhāṣitān)
