@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p38-v926
-[who](yā) [to-you](vaḥ) [virtuous-one](satī) [she](sā) [hundredfold](śataśo) [may-give](dadātu) [pure](satīṃ) [mind](matiṃ) [established-in-sole-determination](kevala+nirṇaya+sthām)
+[that](yā) [you](vaḥ) [virtuous](satī) [she](sā) [hundredfold](śataśo) [may-give](dadātu) [virtuous](satīṃ) [mind](matiṃ) [sole+decision+abiding](kevala+nirṇaya+sthām)
 
 ## mukta-m0-p38-v927
-[devoted-to-husband](pati+vratā)
+[virtuous-wife](pativratā)
 
 ## mukta-m0-p38-v928
-[devoted-to-husband](pati+vratā) [vow](vrataṃ) [of-you](te) [is](asti) [what](kimu) [you](tvam) [indeed](eva) [of-husband](patyuḥ) [vow](vrataṃ) [with-attached-heart](sakta+hṛdaḥ) [always](sadā) [thus](iti)
+[husband-vow](pati+vrataṃ) [your](te) [is](asti) [whether](kimu) [you](tvam) [eva](eva) [of-husband](patyuḥ) [vow](vrataṃ) [attached-heart](sakta+hṛdaḥ) [good](sad) [iti](iti)
 
 ## mukta-m0-p38-v929
-[chaste-woman](sādhvī)
+[p. 134)](p. 134)) [virtuous](sādhvī)
 
 ## mukta-m0-p38-v930
-[leading](prāpayantī) [demons](asurān) [this](eṣā) [some](kācit) [chaste-woman](sādhvī) [by-thought](matā) [wondrous](adbhutā)
+[leading](prāpayantī) [demons](asurān) [this](eṣā) [some](kācit) [virtuous](sādhvī) [considered](matā) [wonderful](adbhutā)
 
 ## mukta-m0-p38-v931
-[beautiful-eyed](su+cakṣuḥ)
+[good-eye](sucakṣuḥ)
 
 ## mukta-m0-p38-v932
-[eye](cakṣuḥ) [having-obtained](āptvā) [supreme](paraṃ) [all](sarve) [by-that](tena) [possessing-true-eyes](sat+cakṣuṣaḥ) [made](kṛtāḥ)
+[eye](cakṣuḥ) [having-obtained](āptvā) [supreme](paraṃ) [all](sarve) [by-that](tena) [true-eyed](sat+cakṣuṣaḥ) [made](kṛtāḥ)
 
 ## mukta-m0-p38-v933
-[dwelling-in-the-pit](kuṇḍa+vāsinī)
+[pot-dwelling](kuṇḍa+vāsinī)
 
 ## mukta-m0-p38-v934
-[of-that](sā) [heat](uṣma+tva) [pacification](śāntiṃ) [makes](kurute) [some](kācit) [she](sā) [dwelling-in-the-pit](kuṇḍa+vāsinī)
+[heat-peace](uṣma+śāntiṃ) [makes](kurute) [some](kācit) [she](sā) [pot-dwelling](kuṇḍa+vāsinī)
 
 ## mukta-m0-p38-v935
 [one-eyed](eka+cakṣuḥ)
 
 ## mukta-m0-p38-v936
-[of-whose](yat) [compassion](kṛpāyāḥ) [that](sā) [one-eyed](eka+cakṣuḥ) [unity-of-vision](aikya+cakṣuḥ) [may-give](dadātu) [to-you](vaḥ)
+[by-compassion](kṛpāyāḥ) [one-eyed](eka+cakṣuḥ) [unity-eyed](ekya+cakṣuḥ) [may-give](dadātu) [you](vaḥ)
 
 ## mukta-m0-p38-v937
 [thousand-eyed](sahasra+akṣī)
 
 ## mukta-m0-p38-v938
-[then](tadā) [she](sā) [also](api) [thousand-eyed](sahasra+akṣī) [became](bhūtā) [how](kiṃ) [kind-to-devotees](bhakta+vatsalā)
+[then](tadā) [she](sā) [api](api) [thousand-eyed](sahasra+akṣī) [became](bhūtā) [what](kiṃ) [devotee-loving](bhakta+vatsalā)
 
 ## mukta-m0-p38-v939
 [beautiful-hipped](su+śroṇiḥ)
 
 ## mukta-m0-p38-v940
-[heat](ūṣmāṇam) [having-attained](āptā) [coolness](himatāṃ) [from-that-time](tad+ādi) [beautiful-hipped](su+śroṇiḥ) [this](eṣā) [O-Hara](hara) [womb-dwelling](yoni+vāsam)
+[heat](ūṣmāṇam) [obtained](āptā) [coldness](himatāṃ) [then](tadā) [adi](ādi) [beautiful-hipped](su+śroṇiḥ) [this](eṣā) [Hara](hara) [womb-abode](yoni+vāsam)
 
 ## mukta-m0-p38-v941
-[garlanded-with-fortune](bhaga+mālinī)
+[fortune-garlanded](bhaga+mālinī)
 
 ## mukta-m0-p38-v942
-[she](sā) [of-misfortune](durbhaga+tva) [destroyer](hati+kṛt) [garlanded-with-fortune](bhaga+mālinī) [to-us](naḥ)
+[she](sā) [misfortune-destroying](durbhaga+tva+hani+kṛt) [fortune-garlanded](bhaga+mālinī) [us](naḥ)
 
 ## mukta-m0-p38-v943
 [army](senā)
 
 ## mukta-m0-p38-v944
-[of-powers](siddheḥ) [lordess](īśā) [of-speech](bhāratī+īśā) [of-thought](mateḥ+īśā) [of-knowledge](jñāna+īśā) [or](vā) [of-humans](mānava+īśā) [of-wealth](dhana+īśāḥ)
+[perfection-lord](siddhi+īśā) [speech-lord](bhāratī+īśā) [mind-lord](mati+īśā) [knowledge-lord](jñānī+īśā) [or](vā) [human-lord](mānava+īśā) [wealth-lord](dhanī+īśā)
 
 ## mukta-m0-p38-v945
 [row](śreṇiḥ)
 
 ## mukta-m0-p38-v946
-[then](tadā) [then](tadā) [that](saḥ) [all](sarvaḥ) [also](api) [creation](sargaḥ) [state-of-creation](sarga+tva) [sharing](bhāk) [may-be](bhavet)
+[then](tadā) [then](tadā) [he](saḥ) [all](sarvaḥ) [api](api) [creation](sargaḥ) [creation-ness](sarga+tva+bhāg) [becomes](bhavet)
 
 ## mukta-m0-p38-v947
-[flag](patākā)
+[banner](patākā)
 
 ## mukta-m0-p38-v948
-[by-bowing-to-whose-front](yat+agra+yānataḥ) [goddess](devī) [this-flag](patākā) [this](iyaṃ) [for-prosperity](śriye) [may-be](astu) [to-you](vaḥ)
+[whose](yad) [foremost](agrayā) [bowing](nataḥ) [goddess](devī) [banner](patākā) [this](iyaṃ) [prosperity](śriye) [be](astu) [you](vaḥ)
 
 ## mukta-m0-p38-v949
 [well-arrayed](su+vyūhā)
 
 ## mukta-m0-p38-v950
-[of-armies](vāhinīnāṃ) [when](yadā) [pleased](tuṣṭā) [well-arrayed](su+vyūhā) [may-be](syāt) [not](na) [by-reasoning](yuktitaḥ)
+[of-armies](vāhinīnāṃ) [when](yadā) [pleased](tuṣṭā) [well-arrayed](su+vyūhā) [be](syā) [not](na) [by-strategy](yuktitaḥ)

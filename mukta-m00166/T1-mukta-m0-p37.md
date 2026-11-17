@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p37-v901
-[river-sarayū](sarayūḥ) [mind-born](mānasa+udbhūtā) [mind-born](mānasa+udbhūta) [modification](vikriyām)
+[sarayūḥ](sarayūrmānasodbhūtā) [mānasa-udbhūtā](mānasodbhūtā) [vikriyām](vikriyām) [iti](iti)
 
 ## mukta-m0-p37-v902
-[moon+part](candra+bhāgā) [holy](puṇyā) [river](nadī) [great](mahā)
+[candrabhāgā](candrabhāgā) [devī](devī) [śubhā](śubhā) [bhavatu](bhavatu)
 
 ## mukta-m0-p37-v903
-[you-acc-pl](yuṣmān) [great+fortune+by](mahā+bhāgatayā) [may-join](yunaktu) [you-all](vaḥ)
+[yuṣmān](yuṣmān) [mahābhāgatayā](mahābhāgatayā) [yunaktu](yunaktu) [devaḥ](devaḥ)
 
 ## mukta-m0-p37-v904
-[kauśikī](kauśikī) [goddess](devī) [sacred](puṇyā) [river](nadī)
+[kauśikī](kauśikī) [devī](devī) [śubhā](śubhā) [bhavatu](bhavatu)
 
 ## mukta-m0-p37-v905
-[may-give](vitaratu) [boon+treasure-acc](vara+kośaṃ) [kauśikī](kauśikī) [well+shining](su+prakāśā)
+[vitaratu](vitaratu) [varakośam](varakośaṃ) [kauśikī](kauśikī) [suprakāśā](suprakāśā)
 
 ## mukta-m0-p37-v906
-[gaṇḍakī](gaṇḍakī) [river](nadī) [holy](puṇyā) [sacred](śubhā)
+[gaṇḍakī](gaṇḍakī) [devī](devī) [śubhā](śubhā) [bhavatu](bhavatu)
 
 ## mukta-m0-p37-v907
-[page](p.) [number](132)) [pure](śuciḥ) [holy](śuddha)
+[śuciḥ](śuciḥ) [pāvanaḥ](pāvanaḥ) [devaḥ](devaḥ) [bhavatu](bhavatu)
 
 ## mukta-m0-p37-v908
-[shining](rucirā) [from+not+pure](a+sucirāt) [let-be](astu) [pure](śuciḥ) [self+cause+purpose+doer](sva+ākāraṇa+artha+kṛt)
+[rucirā](rucirā) [asucirāt](asucirād) [astu](astu) [śuciḥ](śuciḥ)
 
 ## mukta-m0-p37-v909
-[narmadā](narmadā) [river](nadī) [joy-giving](narma+dā) [sacred](puṇyā)
+[narmadā](narmadā) [devī](devī) [śubhā](śubhā) [bhavatu](bhavatu)
 
 ## mukta-m0-p37-v910
-[she](sā) [narmadā](narmadā) [in-joys](narmasu) [southernness](dakṣiṇa+tvaṃ)
+[sā](sā) [narmadā](narmadā) [narmasu](narmasu) [dakṣiṇatvam](dakṣiṇatvam)
 
 ## mukta-m0-p37-v911
-[karma+destruction](karma+nāśā) [river](nadī) [holy](puṇyā) [name](nāma)
+[karmanāśā](karmanāśā) [devī](devī) [śubhā](śubhā) [bhavatu](bhavatu)
 
 ## mukta-m0-p37-v912
-[non-action](naiṣ+karmyam) [this](eṣā) [indeed](kila) [karma+destruction](karma+nāśā)
+[naiṣkarmyam](naiṣkarmyameṣā) [eṣā](eṣā) [kila](kila) [karmanāśā](karmanāśā)
 
 ## mukta-m0-p37-v913
-[carmaṇvatī](carmaṇvatī) [river](nadī) [leather-having](carmaṇ+vatī) [sacred](śubhā)
+[carmaṇvatī](carmaṇvatī) [devī](devī) [śubhā](śubhā) [bhavatu](bhavatu)
 
 ## mukta-m0-p37-v914
-[carmaṇvatī](carmaṇvatī) [always](sadā) [may-be](bhūyāt) [skin+sight+removing](carma+dṛṣṭi+harā) [your](tava)
+[carmaṇvatī](carmaṇvatī) [sadā](sadā) [bhūyāt](bhūyāccarmadṛṣṭiharā) [tava](tava)
 
 ## mukta-m0-p37-v915
-[devikā](devikā) [goddess](devī) [little-goddess](devi+kā) [sacred](puṇyā)
+[devikā](devikā) [devī](devī) [śubhā](śubhā) [bhavatu](bhavatu)
 
 ## mukta-m0-p37-v916
-[brahma+beginning+surpassing](brahma+ādikā+adhikā) [goddess](devī) [devikā](devikā) [god+famous](deva+viśrutā)
+[brahmādikā](brahmādikā) [adhikā](adhikā) [devī](devī) [devikā](devikā)
 
 ## mukta-m0-p37-v917
-[page](p.) [number](133)) [vetravatī](vetravatī) [reed-having](vetra+vatī)
+[vetravatī](vetravatī) [devī](devī) [śubhā](śubhā) [bhavatu](bhavatu)
 
 ## mukta-m0-p37-v918
-[three+staff+bearers-by](tri+vetra+dhāribhiḥ) [sung](gītā) [may-be](bhavet) [vetravatī](vetravatī) [auspicious](śivā)
+[trivetradhāribhiḥ](trivetradhāribhirgītā) [gītā](gītā) [bhaved](bhaved) [vetravatī](vetravatī)
 
 ## mukta-m0-p37-v919
-[vitastā](vitastā) [river](nadī) [span-named](vitasta+ā) [sacred](puṇyā)
+[vitastā](vitastā) [devī](devī) [śubhā](śubhā) [bhavatu](bhavatu)
 
 ## mukta-m0-p37-v920
-[reviving](saṃ+jīvayantī) [wonderful+of-life](adbhuta+jīvanasya) [from-meditation](dhyānāt) [even](api) [this](iyaṃ) [joy+giving](sukha+dā) [vitastā](vitastā)
+[saṃjīvayantī](saṃjīvayantyadbhutajīvanasya) [adbhutajīvanasya](adbhutajīvanasya) [dhyānāt](dhyānādapīyaṃ) [sukhadā](sukhadā)
 
 ## mukta-m0-p37-v921
-[varadā](varadā) [boon-giving](vara+dā) [goddess](devī) [gracious](prasannā)
+[varadā](varadā) [devī](devī) [śubhā](śubhā) [bhavatu](bhavatu)
 
 ## mukta-m0-p37-v922
-[boon+giving](vara+dā) [thus](iti) [how](katham) [sung](gītā) [boon+minds-by](vara+dhībhiḥ) [boon+goddess](vara+īśvarī)
+[varadā](varadā) [iti](iti) [kathaṃ](kathaṃ) [gītā](gītā)
 
 ## mukta-m0-p37-v923
-[nara+vāhanā](nara+vāhanā) [man+vehicle](nara+vāhana) [goddess](devī) [sacred](puṇyā)
+[naravāhanā](naravāhanā) [devī](devī) [śubhā](śubhā) [bhavatu](bhavatu)
 
 ## mukta-m0-p37-v924
-[man+vehicle+praised](nara+vāhana+saṃślāghyā) [for-prosperity](śriye) [let-be](astu) [nara+vāhanā](nara+vāhanā)
+[naravāhanasaṃślāghyā](naravāhanasaṃślāghyā) [śriye](śriye'stu) [astu](astu) [naravāhanā](naravāhanā)
 
 ## mukta-m0-p37-v925
-[satī](satī) [true](satī) [chaste](sati) [goddess](devī)
+[satī](satī) [devī](devī) [śubhā](śubhā) [bhavatu](bhavatu)

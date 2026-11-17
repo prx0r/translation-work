@@ -2,55 +2,55 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p73-v1801
-[then](tadā) [liberation](muktim) [obtains](avāpno) [when](yadā) [brahman](brahma) [attains](pravindati)
+tadā[then] muktim[liberation] avāpno[obtains] yadā[when] brahma[Brahman] pravindati[knows]
 
 ## mukta-m0-p73-v1802
-[cause](prakāraṇam)
+prakāraṇam[cause] (gh: prakāśakam[illuminator])
 
 ## mukta-m0-p73-v1803
-[laughter](hāsya) [curiosity](kautūhala) [and-so-forth](ādikam)
+hāsya[laughter] kautūhala[curiosity] ādikam[etc]
 
 ## mukta-m0-p73-v1804
-[by-play](līlayā) [of-brahman](brahmaṇaḥ) [all](sarvaṃ) [laughter](hāsya) [curiosity](kautūhala) [and-so-forth](ādikam)
+līlayā[by-play] brahmaṇaḥ[of-Brahman] sarvaṃ[all] hāsya[laughter] kautūhala[curiosity] ādikam[etc]
 
 ## mukta-m0-p73-v1805
-[in-divine](divye) [body](śarīre) [that](saḥ) [also](api) [exists](asti) [likewise](tathā) [in-insects](kīṭa+ādikeṣu) [and](ca)
+divye[divine] śarīre[body] so'pi[he-too] asti[is] tathā[so] kīṭa[insect]+ādikeṣu[etc] ca[and]
 
 ## mukta-m0-p73-v1806
-[himself](svayaṃ) [all-pervading](vibhuḥ)
+svayaṃ[self] vibhuḥ[all-pervading]
 
 ## mukta-m0-p73-v1807
-[beings](bhūta) [nature](prakṛtim) [having-resorted-to](āśritya) [of-embodied-beings](dehināṃ) [body](deha) [destroyer](nāśakṛt)
+bhūta[elements] prakṛtim[prakriti] āśritya[depending] dehināṃ[of-embodied] deha[body]+nāśa[destruction]+kṛt[maker]
 
 ## mukta-m0-p73-v1808
-[without-mine-ness](nirmamaḥ) [without-ego](nirahaṅkāraḥ) [always](sadā) [light](jyotiḥ) [consisting-of](mayaḥ) [remembered](smṛtaḥ)
+nirmamaḥ[without-mine] (j: nirmalaḥ[pure]) nirahaṅkāraḥ[without-ego] sadā[always] jyotirmayaḥ[full-of-light] smṛtaḥ[remembered]
 
 ## mukta-m0-p73-v1809
-[love](madanaṃ) [form](rūpam) [having-assumed](āśritya) [person](puruṣo) [becomes-agitated](vihvalāyate)
+madanam[love] rūpam[form] āśritya[depending] puruṣaḥ[man] vihvalāyate[becomes-agitated]
 
 ## mukta-m0-p73-v1810
-[by-own](ātma) [will](icchayā) [done](kṛtaṃ) [action](karma) [fault](doṣa) [and-non-fault](adoṣaṃ) [not](na) [should-perform](cācaret)
+ātma[self]+icchayā[by-will] kṛtaṃ[done] karma[action] doṣa[fault]+adoṣaṃ[non-fault] na[not] ca[and] ācaret[performs]
 
 ## mukta-m0-p73-v1811
-[in-upper](ūrddha) [void](śūnye) [movement](gatiḥ) [of-him](tasya) [in-middle](madhya) [void](śūnye) [situated](vyavasthitaḥ)
+ūrddha[upper]+śūnye[void] gatiḥ[movement] tasya[his] madhya[middle]+śūnye[void] vyavasthitaḥ[situated]
 
 ## mukta-m0-p73-v1812
-[in-upper](ūrddha) [void](śūnye) [dream](svapna) [state](bhāvaṃ) [brahman](brahma) [aperture](randhraṃ) [is-declared](prakīrtitam)
+ūrddha[upper] śūnye[void] svapna[dream] bhāvaṃ[state] brahma[Brahman] randhraṃ[aperture] prakīrtitam[declared]
 
 ## mukta-m0-p73-v1813
-[in-root](mūla) [support](ādhāre) [lower](adhaḥ) [void](śūnyaṃ) [there](tatra) [desire](kāma) [and-so-forth](ādi) [thinking](cintanam)
+mūlādhāre[root-support] adhaḥ[below] śūnyaṃ[void] tatra[there] kāma[desire]+ādi[etc] cintanam[thought]
 
 ## mukta-m0-p73-v1814
-[he](sa) [abides](tiṣṭhati) [supreme](paraṃ) [brahman](brahma) [by-own-will](sva+icchayā) [by-play](līlayā) [also](api) [and](ca)
+sa[he] tiṣṭhati[stands] paraṃ[supreme] brahma[Brahman] sva[self]+icchayā[by-will] līlayā[by-play] api[also] ca[and]
 
 ## mukta-m0-p73-v1815
-[meditation](dhyāna) [worship](pūjā) [and-so-forth](ādikaṃ) [all](sarvaṃ) [of-him](tasya) [accomplishment](siddhiḥ) [not](na) [arises](jāyate)
+dhyāna[meditation] pūjā[worship]+ādikaṃ[etc] sarvaṃ[all] tasya[his] siddhiḥ[perfection] na[not] jāyate[arises]
 
 ## mukta-m0-p73-v1816
-[therefore](ataḥ) [indeed](eva) [o-great-lord](maheśāna) [in-kali-age](kalau) [accomplishment](siddhiḥ) [not](na) [arises](jāyate)
+ata[therefore] eva[thus] maheśāna[O-Maheshana] kalau[in-Kali] siddhiḥ[perfection] na[not] jāyate[arises]
 
 ## mukta-m0-p73-v1817
-[who](yaḥ) [knows](vijānāti) [in-truth](tattvena) [at-body's-end](deha+ante) [brahman](brahma) [partaking](bhāg) [becomes](bhavet)
+yo[who] vijānāti[knows] tattvena[truly] deha[body]+ante[end] brahma[Brahman]+bhāg[share] bhavet[becomes]
 
 ## mukta-m0-p73-v1818
-[thus](iti) [by-śrī-sarvānandanātha](śrī+sarvānandanātha) [composed](viracite) [in-sarvollāsa](sarva+ullāse) [sixty-third](triṣaṣṭi) [chapter](ullāsaḥ)
+iti[thus] śrī[auspicious] sarvānanda[nātha] viracite[composed] sarvollāse[in-Sarvollasa] triṣaṣṭi[63] ullāsaḥ[chapter]

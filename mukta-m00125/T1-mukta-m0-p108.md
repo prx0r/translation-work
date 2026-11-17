@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p108-v2676
-[should-give](dadyāt) [but](tu) [sweet+food](madhura+annam) [indeed](tu) [with-puruṣa-mantra](puruṣeṇa) [ghee+flooded](ghṛta+plutam)
+[should-give](dadyāt) [indeed](tu) [sweet](madhura)+[rice](annam) [indeed](tu) [by-man](puruṣeṇa) [ghee](ghṛta)+[soaked](plutam)
 
 ## mukta-m0-p108-v2677
-[for-purification](pavitrīkaraṇāya) [thus](iti) [then](tatas) [leftward](savyam) [downward+facing](adho+mukham)
+[purification](pavitrīkaraṇāya) [thus](iti) [then](tatas) [left](savya) [downward-faced](adhomukham)
 
 ## mukta-m0-p108-v2678
-[secret+mantra](guhya+mantram) [should-mutter](japet) [or](vā) [this](ayam) [death+conquering+mantra](mṛtyu+jit+mantram) [indeed](eva) [or](vā)
+[secret-mantra](guhyamantram) [should-chant](japed) [or](vā) [death-conquering-mantra](yamṛtyujinmantram) [indeed](eva) [or](vā)
 
 ## mukta-m0-p108-v2679
-[for-sipping-water](āpośana+artham) [with-first](ādyena) [should-offer](pradadyāt) [in-hand+lotus](pāṇi+paṅkaje)
+[for-āpośana](āpośanārtham) [by-first](ādyena) [should-give](pradadyāt) [in-lotus-hand](pāṇipaṅkaje)
 
 ## mukta-m0-p108-v2680
-[guest](atithim) [should-feed](bhojayet) [according-to-ability](śaktyā) [at-that-time](tat+kāle) [not](na) [should-inquire](vicārayet)
+[guest](atithim) [should-feed](bhojayet) [according-to-ability](śaktyā) [at-that-time](tatkāle) [not](na) [should-deliberate](vicārayet)
 
 ## mukta-m0-p108-v2681
-[they-wander](caranti) [in-guest+form](atithi+rūpeṇa) [therefore](tasmāt) [them](tān) [not](na) [should-inquire](vicārayet)
+[moving](caranty) [as-guest](atithirūpeṇa) [therefore](tasmāt) [them](tān) [not](na) [should-deliberate](vicārayet)
 
 ## mukta-m0-p108-v2682
-[satisfied](tṛptāḥ) [are-you](stha) [thus](iti) [by-offered+food](bhṛta+annaḥ) [satisfied](santṛptāḥ) [we-are](sma) [thus](iti) [when-declared](kīrtite)
+[satisfied](tṛptāḥ) [are](santi) [fed-rice](bhṛtānnāḥ) [satisfied](santṛptāḥ) [we-are](sma) [thus](iti) [declared](kīrtite)
 
 ## mukta-m0-p108-v2683
-[in-remnants+vicinity](ucchiṣṭa+sannidhau) [should-make](kuryāt) [with-cow-dung](gomayena) [indeed](eva) [circle](maṇḍalam)
+[remnant](ucchiṣṭa) [presence](sannidhau) [should-make](kuryāt) [with-cow-dung](gomayena) [indeed](eva) [circle](maṇḍalam)
 
 ## mukta-m0-p108-v2684
-[with-left](vāmena) [with-sesame+mixed](tila+saṃyuktam) [with-all+rice](sarva+audana) [endowed](samanvitam)
+[with-left](vāmena) [sesame-joined](tilasaṃyuktam) [all-rice](sarvaudana) [accompanied](samanvitam)
 
 ## mukta-m0-p108-v2685
-[with-honey+ghee+sesame+mixed](madhu+ājya+tila+saṃyuktam) [ground+standing](bhūmi+sthaḥ) [with-left+knee](savya+jānunā)
+[honey-ghee-sesame-joined](madhvājyatilasaṃyuktam) [standing-on-ground](bhūmiṣṭhaḥ) [right-knee](savyajānunā)
 
 ## mukta-m0-p108-v2686
-[having-made](vidhāya) [of-water](vāriṇaḥ) [stream](dhārām) [Vāmadeva-mantra](vāmadevam) [uttering](udīrayan)
+[having-made](vidhāya) [of-water](vāriṇaḥ) [streams](dhārām) [vāmadeva](vāmadevam) [uttering](udīrayan)
 
 ## mukta-m0-p108-v2687
-[having-worshipped](saṃpūjya) [with-fragrance+flower+etc.](gandha+puṣpa+ādyaiḥ) [having-bowed](praṇipatya) [should-beg-pardon](kṣamāpayet)
+[having-worshipped](saṃpūjya) [with-sandal-flowers-etc](gandhapuṣpādyaiḥ) [having-bowed](praṇipatya) [should-ask-forgiveness](kṣamāpayet)
 
 ## mukta-m0-p108-v2688
-[first](pūrvam) [sipping-water](ācamanam) [to-three](tribhyaḥ) [to-two](dvābhyām) [should-give](dadyāt) [afterwards](anantaram)
+[before](pūrvam) [ācamana](ācamanam) [to-three](tribhyaḥ) [to-two](dvābhyām) [should-give](dadyāt) [afterwards](anantaram)
 
 ## mukta-m0-p108-v2689
-[with-camphor](sa+karpūram) [that+limb](tat+aṅgam) [good](sat) [household+utensil](gṛha+upakaraṇam) [likewise](tathā)
+[with-camphor](sakarpūram) [that-limb](tadaṅgam) [good](sat) [household-utensil](gṛhopakaraṇam) [thus](tathā)
 
 ## mukta-m0-p108-v2690
-[vardhanī-vessel](vardhanīm) [with-water+filled](udaka+āpūrṇām) [śrāddha+performer](śrāddha+kṛt) [south+facing](dakṣiṇa+ānanaḥ)
+[vardhanī](varddhanīm) [water-filled](udakāpūrṇām) [śrāddha-doer](śrāddhakṛt) [south-facing](dakṣiṇānanaḥ)
 
 ## mukta-m0-p108-v2691
-[beginning-with-Īśāna](īśa+ādi) [triad](tritayam) [afterwards](paścāt) [ending-in-fourth-case](caturthī+antam) [should-utter](udīrayet)
+[īśa-etc-triad](īśāditritayam) [afterwards](paścāt) [to-fourth-ending](caturthyantam) [should-utter](udīrayet)
 
 ## mukta-m0-p108-v2692
-[be-it](astu) [svadhā](svadhā) [thus](iti) [should-say](brūyuḥ) [they](te) [on-ground](bhūmau) [should-pour](siñcet) [then](tatas) [water](jalam)
+[may-it-be-svadhā](astu svadheti) [should-say](brūyuḥ) [they](te) [on-earth](bhūmau) [should-pour](siñcet) [then](tatas) [water](jalam)
 
 ## mukta-m0-p108-v2693
-[gods](devāḥ) [and-Rudras](rudrāḥ) [ca](ca) [may-be-satisfied](tṛpyantām) [thus](iti) [these](ete) [and](ca) [himself](svayam) [recites](paṭhat)
+[gods](devāḥ) [rudras](rudrāḥ) [ca](ca) [may-be-satisfied](tṛptyantām) [thus](iti) [these](ete) [ca](ca) [oneself](svayaṃ) [should-recite](paṭhat)
 
 ## mukta-m0-p108-v2694
-[thus](iti) [when-said](ukte) [by-them](taiḥ) [this](idam) [speech](vākyam) [in-reply](prati) [O-twice-born+best](dvija+sattamāḥ)
+[thus-spoken](ityukte) [by-them](taiḥ) [this](idaṃ) [speech](vākyam) [to](prati) [best-brāhmaṇas](dvijasattamāḥ)
 
 ## mukta-m0-p108-v2695
-[faith](śraddhā) [and](ca) [of-us](naḥ) [not](mā) [may-depart](vyavagāt) [much+to-be-given](bahu+deyam) [and](ca) [of-us](naḥ) [be-it](astu) [thus](iti)
+[faith](śraddhā) [ca](ca) [our](no) [mā](mā) [may-depart](vyavagāt) [much-gift](bahudeyam) [ca](ca) [our](no) [astu](astu) [iti](iti)
 
 ## mukta-m0-p108-v2696
-[in-which](yasmin) [those](te) [streams](saṃsravāḥ) [previously](pūrvam) [in-arghya+vessel](arghya+pātre) [placed](niveśitāḥ)
+[in-whom](yasmin) [those](te) [libations](saṃsravāḥ) [before](pūrvam) [in-arghya-vessel](arghyapātre) [placed](niveśitāḥ)
 
 ## mukta-m0-p108-v2697
-[with-Sadyojāta](sadyojātena) [mantra](mantreṇa) [beginning-with-pitṛs](pitṛ+pūrvam) [should-follow](anuvrajet)
+[by-sadyojāta-mantra](sadyojātena mantreṇa) [pitṛ-first](pitṛpūrvam) [should-follow](anuvrajet)
 
 ## mukta-m0-p108-v2698
-[with-desired-ones](iṣṭaiḥ) [together](saha) [to-be-eaten](upabhoktavyam) [thus](iti) [they](te) [should-say](brūyuḥ) [wish+givers](iṣṭa+dāḥ)
+[with-desired-ones](iṣṭaiḥ) [with](saha) [should-be-enjoyed](upabhoktavyam) [thus](iti) [they](te) [should-say](brūyur) [desired-givers](iṣṭadāḥ)
 
 ## mukta-m0-p108-v2699
-[should-cast](prakṣipet) [family+wife](kula+patnī) [or](vā) [middle](madhyamam) [ball](piṇḍam) [should-eat](aśruyāt)
+[should-throw](prakṣipet) [clan-wife](kulapatnī) [or](vā) [middle](madhyamam) [piṇḍa](piṇḍam) [having-heard](aśruyāt)
 
 ## mukta-m0-p108-v2700
-[wise](dhīraḥ) [prosperous](śrīmān) [famous](yaśasvī) [and](ca) [in-learning+lineage+accomplished](vidyā+santāna+pāragaḥ)
+[steady](dhīraḥ) [glorious](śrīmān) [famous](yaśasvī) [ca](ca) [learned](vidyā) [progeny-crossing](santānapāragaḥ)

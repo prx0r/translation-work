@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p53-v1301
-[not](na) [ever+indeed](kadācittu) [she](sā) [declared](proktā) [that](tāṃ) [to-me](me) [tell](brūhi) [great-lord](maheśvara) [!](!)
+[word](na) [word](kadācittu) [word](sā) [word](proktā) [word](tāṃ) [word](me) [word](brūhi) [word](maheśvara)
 
 ## mukta-m0-p53-v1302
-[pervading+form](vyāptarūpaṃ) [I-shall-declare](pravakṣyāmi) [hear](śṛṇu) [you](tvam) [this](idam) [wonderful](adbhutam)
+[word](vyāptarūpaṃ) [word](pravakṣyāmi) [word](śṛṇu) [word](tvamidamadbhutam)
 
 ## mukta-m0-p53-v1303
-[they-worship](bhajanti) [this](enaṃ) [as](yathā) [me](māṃ) [you](tvaṃ) [by-that+application+power](tatprayogabalāt) [certainly](dhruvam)
+[word](bhajantyenaṃ) [word](yathā) [word](māṃ) [word](tvaṃ) [word](tatprayogabalāddhruvam)
 
 ## mukta-m0-p53-v1304
-[each](pratyekaṃ) [enveloped](puṭitān) [having-made](kṛtvā) [mantras](mantrān) [knowledges](vidyāḥ) [then](atha) [or](api) [or](ca) [(vā)]((vā))
+[word](pratyekaṃ) [word](puṭitān) [word](kṛtvā) [word](mantrānvidyā) [word](athāpi) [word](ca) [word](vā)
 
 ## mukta-m0-p53-v1305
-[declared](proktaṃ) [that](tat) [diagram+ninefold](yantranavakaṃ) [in-jar](kumbhe) [having-established](saṃsthāpya) [and+by-this](ca+etayā)
+[word](proktaṃ) [word](tadyantranavakaṃ) [word](kumbhe) [word](saṃsthāpya) [word](caitayā)
 
 ## mukta-m0-p53-v1306
-[easy](sugamaḥ) [||](||) [64](64) [||](||) [65](65) [||](||) [66](66) [||](||) [67](67) [||](||) [68](68) [||](||) [69](69) [||](||) [70](70) [||](||) [71](71) [||](||) [72](72) [||](||) [73](73) [||](||) [74](74) [||](||) [75](75) [||](||) [76](76) [||](||) [77](77)
+[word](sugamaḥ) [word](||) [word](64) [word](||) [word](65) [word](||) [word](66) [word](||) [word](67) [word](||) [word](68) [word](||) [word](69) [word](||) [word](70) [word](||) [word](71) [word](||) [word](72) [word](||) [word](73) [word](||) [word](74) [word](||) [word](75) [word](||) [word](76) [word](||) [word](77)
 
 ## mukta-m0-p53-v1307
-[easy](sugamaḥ)
+[word](sugamaḥ)
 
 ## mukta-m0-p53-v1308
-[with-good+sandalwood](kucandanaiḥ) [with-red-chalk](gairikaiḥ) [or](vā) [with-cinnabar](daradaiḥ) [and+with-sandalwood](ca+andanaiḥ) [thus](tathā)
+[word](kucandanairgairikairvā) [word](daradaiścandanestathā)
 
 ## mukta-m0-p53-v1309
-[of-nine](navānāṃ) [with-nine](navabhiḥ) [one-should-make](kuryāt) [with-these](ebhiḥ) [diagram+arrangement](yantraprakalpanam)
+[word](navānāṃ) [word](navabhiḥ) [word](kuryādebhiryantraprakalpanam)
 
 ## mukta-m0-p53-v1310
-[in-rakṣā+and-uttarā+nakṣatras](rakṣottarākṣayoḥ) [in-birth+triad](janmatritaye) [in-years](varṣayoḥ) [in-order](kramāt)
+[word](rakṣottarākṣayorjanmatritaye) [word](varṣayoḥ) [word](kramāt)
 
 ## mukta-m0-p53-v1311
-[another](anyaḥ) [or](vā) [devotion+nature+endowed](aśa(bha)ktiśīlāḍhyaḥ) [should-cause](kārayet) [consecration](abhiṣecanam)
+[word](anyovāśa(bha)ktiśīlāḍhyaḥ) [word](kārayedabhiṣecanam)
 
 ## mukta-m0-p53-v1312
-[wealth+dishonesty](vittaśāṭhyaṃ) [not](na) [one-should-do](kurvīta) [if](yadi) [one-should-do](kurvīta) [from-greed](lobhataḥ)
+[word](vittaśāṭhyaṃ) [word](na) [word](kurvīta) [word](yadi) [word](kurvīta) [word](lobhataḥ)
 
 ## mukta-m0-p53-v1313
-[therefore](tasmāt) [everywhere](sarvatra) [in-tantra](tantre) [this](asmin) [wealth+dishonesty](vittaśāṭhyaṃ) [not](na) [one-should-contemplate](cintayet)
+[word](tasmātsarvatra) [word](tantre'smin) [word](vittaśāṭhyaṃ) [word](na) [word](cintayet)
 
 ## mukta-m0-p53-v1314
-[by-moon+sun+fire+form](somasūryāgnirūpeṇa) [with-water](jalena) [desired+by-mantra](īpsitamantrataḥ)
+[word](somasūryāgnirūpeṇa) [word](jalenepsitamantrataḥ)
 
 ## mukta-m0-p53-v1315
-[as+in-order](yathākramaṃ) [nine](nava) [and](ca) [teaches](upadiśati) [|](|) [there](tatra) [by-this](etayā) [three-world+enchanting+knowledge](trailokyamohanīvidyayā) [||](||) [85](85)
+[word](yathākramaṃ) [word](nava) [word](copadiśati) [word](|) [word](tatra) [word](etayā) [word](trailokyamohanīvidyayā) [word](||) [word](85)
 
 ## mukta-m0-p53-v1316
-[of-nine](navānāṃ) [diagram+arrangement](yantraprakalpanam) [thus](iti) [by-independence](svātantryāt)
+[word](navānāṃ) [word](yantraprakalpanamiti) [word](svātantryāt)
 
 ## mukta-m0-p53-v1317
-[from-bad+signs+arisen](durlakṣaṇasamutthāni) [likewise](tathā) [from-bad+deeds+born](duṣkarmajāni) [and](ca)
+[word](durlakṣaṇasamutthāni) [word](tathā) [word](duṣkarmajāni) [word](ca)
 
 ## mukta-m0-p53-v1318
-[destroys](nāśayet) [that+in-an-instant](tatkṣaṇāt) [goddess](devī) [with-waters](salilaiḥ) [as](iva) [fire](pāvakaḥ)
+[word](nāśayettatkṣaṇāddevī) [word](salilairiva) [word](pāvakaḥ)
 
 ## mukta-m0-p53-v1319
-[obtains](labhate) [and](ca) [many](bahūn) [sons](putrān) [happy](sukhī) [and](ca) [for-long](ciram) [prospers](edhate)
+[word](labhate) [word](ca) [word](bahūn) [word](putrān) [word](sukhī) [word](ca) [word](ciramedhate)
 
 ## mukta-m0-p53-v1320
-[who](yaḥ) [exceedingly](bhṛśaṃ) [daily](nityadā) [should-know](vidyāt) [afflicted](kliṣṭaḥ) [he](saḥ) [even](api) [with-prosperity](śriyā) [prospers](edhate)
+[word](yobhṛśaṃ) [word](nityadā) [word](vidyāt) [word](kliṣṭaḥ) [word](so'pi) [word](śriyaidhate)
 
 ## mukta-m0-p53-v1321
-[by-injustice](anītyā) [by-enemy+done](vairivihitaiḥ) [by-sorcery+and-so-forth](abhicārādibhiḥ) [indeed](tu) [or](vā)
+[word](anītyā) [word](vairivihitairabhicārādibhistu) [word](vā)
 
 ## mukta-m0-p53-v1322
-[with-beauty+prosperity+wealth+health+knowledge+victory+fame](kāntilakṣmīdhanārogyavidyāvijayakīrtibhiḥ)
+[word](kāntilakṣmīdhanārogyavidyāvijayakīrtibhiḥ)
 
 ## mukta-m0-p53-v1323
-[nine+consecration](navābhiṣekaṃ) [in-nine](navasu) [in-declared](prokteṣu) [by-rule](vidhinā) [performing](caran)
+[word](navābhiṣekaṃ) [word](navasu) [word](prokteṣu) [word](vidhinā) [word](caran)
 
 ## mukta-m0-p53-v1324
-[living+liberated](jīvanmuktaḥ) [for-long](ciraṃ) [yogin](yogī) [on-earth](bhuvi) [lives](jīvati) [love-god](manmathaḥ)
+[word](jīvanmuktaściraṃ) [word](yogī) [word](bhuvi) [word](jīvati) [word](manmathaḥ)
 
 ## mukta-m0-p53-v1325
-[of-this](asyāḥ) [by-accomplishment](niṣphālanāt) [in-mind](citte) [that+truth](tattatvaṃ) [by-own-self+made-one's-own](svātmasātkṛtam)
+[word](asyā) [word](niṣphālanāt) [word](citte) [word](tattatvaṃ) [word](svātmasātkṛtam)

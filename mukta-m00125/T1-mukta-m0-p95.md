@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p95-v2351
-[other](itaraṃ) [if](cet) [by-departure](ayotkrāntyā) [situated](saṃsthitaṃ) [śiva-yogin](śiva+yoginam)
+[other](itaraṃ) [by-awakening-and-transcendence](cedayotkrāntyā) [situated](saṃsthitaṃ) [śiva-yogin](śivayoginam)
 
 ## mukta-m0-p95-v2352
-[palanquin](śibikāṃ) [veda-like](vedṛśīṃ) [pure](śuddhām) [having-brought](ānīya) [should-place](āropayet) [śiva](śivam)
+[palanquin](śibikāṃ) [such](vedṛśīṃ) [pure](śuddhām) [having-brought](ānīya) [place](āropayet) [śiva](śivam)
 
 ## mukta-m0-p95-v2353
-[by-assembly](saṃghena) [of-those-abiding-in-vow](samaya+sthānāṃ) [from-behind](pṛṣṭhataḥ) [and](ca) [praised](abhinanditam)
+[by-the-assembly](saṃghena) [of-vow-keepers](samayasthānāṃ) [from-behind](pṛṣṭhataḥ) [and-praised](cābhinanditam)
 
 ## mukta-m0-p95-v2354
-[his-relatives](tat+jñātayaḥ) [should-follow](anugaccheyuḥ) [with-uncovered-heads](amudghāṭita+mastakāḥ)
+[his-relatives](tajjñātayaḥ) [should-follow](anugaccheyuḥ) [with-uncovered-heads](amudghāṭitamastakāḥ)
 
 ## mukta-m0-p95-v2355
-[south-facing-head](dakṣiṇasya+śiraḥ+yuktaṃ) [bound-two-thumbs](baddha+aṅguṣṭha+dvaya+anvitam)
+[with-right-shoulder-yoked](dakṣiṇasyaśiroyuktaṃ) [with-joined-thumbs-both](baddhāṅguṣṭhadvayānvitam)
 
 ## mukta-m0-p95-v2356
-[by-initiated](dīkṣitaiḥ) [of-equal-lineage](tulya+jñātīyaiḥ) [with-sacred-thread-on-right-shoulder](apasavya+upavītakaiḥ)
+[by-initiates](dīkṣitaiḥ) [equal-relatives](tulyajñātīyaiḥ) [with-left-sacred-thread](apasavyopavītakaiḥ)
 
 ## mukta-m0-p95-v2357
-[fire](vahniṃ) [and](ca) [before-him](tat+puraḥ) [by-another](anyena) [with-smoke](sa+dhūmaṃ) [placed-at-hips](trikaṭi+sthitam)
+[fire](vahniṃ) [and-that-before](ca tatpuro) [by-another](anyena) [with-smoke](sadhūmaṃ) [triangularly-placed](trikaṭisthitam)
 
 ## mukta-m0-p95-v2358
-[on-very-pure](suviśuddhe) [surface-of-earth](bhuvaḥ+pṛṣṭhe) [dead-body](mṛtaṃ) [south-facing-head](dakṣiṇam+mastakam)
+[on-very-pure](suviśuddhe) [of-earth](bhuvaḥ) [surface](pṛṣṭhe) [dead](mṛtaṃ) [right-headed](dakṣiṇamastakam)
 
 ## mukta-m0-p95-v2359
-[deceased](vipannaṃ) [who](yaḥ) [carries](vahet) [of-him](tasya) [not-untimely-death](na+akāla+maraṇaṃ) [should-be](bhavet)
+[who-carries](yo vahet) [the-deceased](tasya) [not-untimely-death](nākālamaraṇaṃ) [becomes](bhavet)
 
 ## mukta-m0-p95-v2360
-[desired](īpsitaṃ) [happiness](sukham) [obtains](āpnoti) [in-other-world](paratra) [here](iha) [and](ca) [honored](bhāvitaḥ)
+[desired](īpsitaṃ) [happiness](sukham) [obtains](āpnoti) [in-other-world-and-here](paratreha) [cultivated](ca bhāvitaḥ)
 
 ## mukta-m0-p95-v2361
-[having-followed](anugamya) [in-water](ambhasi) [having-bathed](snātvā) [mantra-of-own-lineage-lord](sa+jātīśaṃ) [hundred](śataṃ) [should-recite](japet)
+[following](anugamya) [in-water](ambhasi) [having-bathed](snātvā) [same-caste-lord](sajātīśaṃ) [hundred](śataṃ) [japet](japet)
 
 ## mukta-m0-p95-v2362
-[having-carried](nītvā) [who](yaḥ) [performs-funeral-rites](saṃskārayet) [he](saḥ) [from-calamities](ariṣṭhaiḥ) [is-freed](viprayujyate)
+[having-carried](nītvā) [having-performed-rites](saṃskārayet) [who](yaḥ) [tu](tu) [so](so) [from-calamiities-freed](ariṣṭhairviprayujyate)
 
 ## mukta-m0-p95-v2363
-[now](atha) [place](sthānam) [not-far](adūrastham) [of-water](udakasya) [level](samaṃ) [pure](śuci)
+[then](atha) [place](sthānam) [not-far](adūrastham) [of-water](udakasya) [equal](samaṃ) [pure](śuci)
 
 ## mukta-m0-p95-v2364
-[six-fingers-high](ṣaḍ+aṅgula+ucchraya+upetaṃ) [with-one-ridge](mekhalā+ekaṃ) [square](yuga+āśrakam)
+[six-fingers-high](ṣaḍaṅgulocchrapopetaṃ) [single-girdle](mekhalaikaṃ) [yoke-cornered](yugāśrakam)
 
 ## mukta-m0-p95-v2365
-[having-prepared](saṃkalpya) [altar](sthaṇḍilaṃ) [likewise](tadvat) [pyre-pit](citā+khātaṃ) [four-cubits](catuḥ+karam)
+[having-resolved](saṃkalpya) [altar](sthaṇḍilaṃ) [thus](tadvat) [pit-dug](citākhātaṃ) [four-cubits](catuṣkaram)
 
 ## mukta-m0-p95-v2366
-[fire-pit](kuṇḍam) [to-the-south](dakṣiṇataḥ) [should-make](kuryāt) [having-accomplished](niṣpādya) [thus](evaṃ) [three](trayaṃ) [teacher](guruḥ)
+[fire-pit](kuṇḍaṃ) [to-the-right](dakṣiṇataḥ) [should-make](kuryāt) [having-accomplished](niṣpādya) [thus](evaṃ) [three](trayaṃ) [guru](guruḥ)
 
 ## mukta-m0-p95-v2367
-[pure](śuciḥ) [bathed](snātaḥ) [teacher](guruḥ) [with-mantra-body](mantra+kāyaḥ) [and](ca) [with-weapon-finger-guard](astra+alukīkaraḥ)
+[pure](śuciḥ) [bathed](snāto) [guru](gurur) [mantra-bodied](mantrakāyaḥ) [weapon-protected](cāstrālukīkaraḥ)
 
 ## mukta-m0-p95-v2368
-[with-reversed-nyāsa](viparīta+kṛta+nyāsaḥ) [by-weapon-mantra](heti+mantreṇa) [protected](rakṣitaḥ)
+[reverse-made](viparītakṛta) [nyāsa](nyāso) [weapon-mantra](hetimantreṇa) [protected](rakṣitaḥ)
 
 ## mukta-m0-p95-v2369
-[by-those-water-sprinkled](tat+jala+prokṣitaiḥ) [with-materials](dravyaiḥ) [worship](pūjāṃ) [having-prepared](saṃkalpya) [and](ca) [of-himself](ātmanaḥ)
+[by-that-water-sprinkled](tajjalaprokṣitaiḥ) [things](dravyaiḥ) [worship](pūjāṃ) [having-resolved](saṃkalpya) [and-of-self](cātmanaḥ)
 
 ## mukta-m0-p95-v2370
-[with-brahmā-and-other-causes](brahma+ādi+kāraṇa+upetāḥ) [in-himself](svasmin) [having-placed](vinyasya) [teacher](deśikaḥ)
+[beginning-with-brahmā](brahmādikāraṇopetāḥ) [in-self](svasmin) [having-placed](vinyasya) [teacher](deśikaḥ)
 
 ## mukta-m0-p95-v2371
-[having-scattered](vikīrya) [scattering-materials](vikirān) [there](tatra) [kuśa-grass](kuśān) [ashes](bhasma) [sesame-seeds](tilān) [then](atha)
+[having-scattered](vikīrya) [scatterings](vikirāṃs) [there](tatra) [kuśa-grass](kuśān) [ashes](bhasma) [sesame](tilān) [atha](atha)
 
 ## mukta-m0-p95-v2372
-[divided-into-five-parts](pañca+bhāgī+kṛte) [in-field](kṣetre) [with-five-times-five-cells](pañca+pañcaka+koṣṭhake)
+[five-parted](pañcabhāgīkṛte) [field](kṣetre) [five-five-cell](pañcapañcakakoṣṭhake)
 
 ## mukta-m0-p95-v2373
-[endowed-with-bamboo-cords-etc](vaṃśa+rajjvā+ādi+saṃpannai) [should-place](vinyaset) [vāstu-deities](vāstu+devatāḥ)
+[bamboo-rope-etc-equipped](vaṃśarajjvādisaṃpannai) [should-place](vinyaset) [site-deities](vāstudevatāḥ)
 
 ## mukta-m0-p95-v2374
-[in-southwest](naiṛtyāṃ) [endowed-with-water](vāriṇā+saṃpanne) [viṣṇu](viṣṇuṃ) [in-four-cells](koṣṭha+catuṣṭaye)
+[southwest](naiṛtyāṃ) [by-water](vāriṇā) [equipped](saṃpanne) [viṣṇu](viṣṇuṃ) [in-four-cells](koṣṭhacatuṣṭaye)
 
 ## mukta-m0-p95-v2375
-[in-northwest-corner](vāyu+koṇe) [in-four-cells](catuḥ+koṣṭhe) [with-wind](vāyunā) [together](samam) [īśvara](īśvaram)
+[wind-corner](vāyukoṇe) [four-cells](catuṣkoṣṭhe) [by-wind](vāyunā) [equal](samam) [īśvara](īśvaram)

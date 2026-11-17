@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p40-v976
-[may-you-be](bhaveḥ) [O-auspicious-one](śive) [all](sarva)[+arts-lord’s](+kaleśvarī)[+desire](+icchā)
+[of-becoming](bhaveḥ) [in-auspicious](śive) [all](sarva)+[time-lady](kaleśvarī)+[wish](cchā)
 
 ## mukta-m0-p40-v977
-[venerable](bhaga)[+goddess](+vatī) [supreme](parā) [divine](divyā) [mother](mātā)
+[goddess](bhagavatī)
 
 ## mukta-m0-p40-v978
-[mendicant](bhikṣu)[+lord](+nātho) [not](na) [if](ced)[+goddess](+devī) [may-be](bhaved) [venerable-goddess](bhagavatī) [in-house](gṛhe)
+[beggar-lord](bhikṣunātho) [not](na) [if](ced) [goddess](devī) [would-be](bhaved) [goddess](bhagavatī) [in-house](gṛhe)
 
 ## mukta-m0-p40-v979
-[power](śak)[+tiḥ](+tiḥ) [divine](divyā) [supreme](parā) [energy](ūrjā)
+[power](śaktiḥ)
 
 ## mukta-m0-p40-v980
-[O-power](śaktiḥ) [power](saktiṃ) [in-transmigration](saṃsṛtau) [withdraw](saṃharasva)
+[power](śaktiḥ) [attachment](saktiṃ) [in-saṃsāra](saṃsṛtau) [withdraw](saṃharasva)
 
 ## mukta-m0-p40-v981
-[wish](kāma)[+cow](+dhenuḥ) [divine](divyā) [giver](dātrī) [mother](mātā)
+[wish-cow](kāmadhenuḥ)
 
 ## mukta-m0-p40-v982
-[may-she-give](dadyā) [because](yataḥ) [all](sarva)[+desire](+sukāma)[+fulfillment](+siddhiḥ)
+[let-give](dadyā) [because](yataḥ) [all-desire-fulfillment](sarvasukāmasiddhiḥ)
 
 ## mukta-m0-p40-v983
-[compassion](kṛpā)[+possessing](+vatī) [merciful](dayāluḥ) [goddess](devī) [mother](mātā)
+[compassionate-one](kṛpāvatī)
 
 ## mukta-m0-p40-v984
-[compassion](kṛpāṃ) [bestows](vidhatte) [she](sā) [some](kāpi) [praised](kīrtitā)[+this](+eṣā) [compassionate-one](kṛpāvatī)
+[compassion](kṛpāṃ) [bestows](vidhatte) [she](sā) [some](kāpi) [praised](kīrtitā) [this](eṣā) [compassionate-one](kṛpāvatī)
 
 ## mukta-m0-p40-v985
-[thunderbolt](vajra)[+weaponed](+āyudhā) [mighty](prabalā) [goddess](devī) [supreme](parā)
+[vajra-weaponed](vajrāyudhā)
 
 ## mukta-m0-p40-v986
-[may-come](agacchat) [renowned](prathitām)[+may-be](+astu) [she](sā)[+this](+iyaṃ) [thunderbolt-weaponed](vajrāyudhā) [for-prosperity](śriye)
+[went](agacchat) [renowned](prathitā) [let-be](astu) [this](seyam) [vajra-weaponed](vajrāyudhā) [for-glory](śriye)
 
 ## mukta-m0-p40-v987
-[thunderbolt](vajra)[+handed](+hastā) [mighty](prabalā) [goddess](devī) [supreme](parā)
+[vajra-handed](vajrahastā)
 
 ## mukta-m0-p40-v988
-[of-non-devotees](abhaktānāṃ) [supreme](paraṃ) [whose](yasyā) [thunderbolt-handed](vajrahastā) [victorious-is](jayati)[+she](+asau)
+[of-non-devotees](abhaktānāṃ) [supreme](paraṃ) [whose](yasyā) [vajra-handed](vajrahastā) [conquers](jayatyasau)
 
 ## mukta-m0-p40-v989
-[fierce-goddess](caṇḍī) [mighty](prabalā) [divine](divyā) [mother](mātā)
+[fierce-one](caṇḍī)
 
 ## mukta-m0-p40-v990
-[as-Caṇḍī](caṇḍī)[+thus](+iti) [sung](gītā) [auspicious](subhagā) [Bhavānī](bhavānī)
+[fierce-one](caṇḍī) [thus](iti) [sung](gītā) [auspicious](subhagā) [bhavānī](bhavānī)
 
 ## mukta-m0-p40-v991
-[fierce](caṇḍa)[+valor](+parākramā) [mighty](prabalā) [goddess](devī) [supreme](parā)
+[fierce-valor](caṇḍaparākramā)
 
 ## mukta-m0-p40-v992
-[self](sva)[+purposed](+arthā) [of-fierce-valor](caṇḍaparākramā) [victorious-is](jayati) [she](sā) [effort](yatnaṃ) [without](vinā) [goddess](devatā)
+[for-own-purpose](svārthā) [fierce-valor](caṇḍaparākramā) [conquers](jayati) [she](sā) [without-effort](yatnaṃ+vinā) [deity](devatā)
 
 ## mukta-m0-p40-v993
-[fair-goddess](gaurī) [radiant](śubhā) [divine](divyā) [mother](mātā)
+[golden-one](gaurī)
 
 ## mukta-m0-p40-v994
-[may-be](bhūyād) [Gaurī](gaurī) [for-greatness](gurutva)[+attainment](+āptyai) [by-herself](svataḥ) [renowned](prathita)[+dignity](+gauravā)
+[may-be](bhūyād) [gaurī](gaurī) [for-weightiness](gurutvāptyai) [by-herself](svataḥ) [renowned-weight](prathitagauravā)
 
 ## mukta-m0-p40-v995
-[golden](suvarṇa)[+colored](+varṇā) [radiant](śubhā) [goddess](devī) [supreme](parā)
+[gold-colored](suvarṇavarṇā)
 
 ## mukta-m0-p40-v996
-[indescribable](avarṇya)[+colored](+varṇā)[+though](+api) [as-golden-colored](suvarṇa)[+varṇā](+varṇā)[+thus](+iti)[+invocation](+āhvāna)[+sung](+gītā) [made](kṛta)[+form](+rūpa)[+description](+varṇam)
+[unutterable-colored](avarṇyavarṇāpi) [gold-colored](suvarṇavarṇetyāhvānagītā) [made-form-color](kṛtarūpavarṇam)
 
 ## mukta-m0-p40-v997
-[preservation](sthiti)[+destruction](+saṃhāra)[+causing](+kāriṇī) [mighty](prabalā) [goddess](devī) [supreme](parā)
+[station-destruction-doer](sthitisaṃhārakāriṇī)
 
 ## mukta-m0-p40-v998
-[simultaneously](yugapat) [indeed](tu) [independent](svatantrā)[+this](+iyaṃ) [preservation-destruction-causing](sthiti)[+saṃhāra](+saṃhāra)[+kāriṇī](+kāriṇī)
+[simultaneously](yugapat) [but](tu) [self-dependent](svatantreyaṃ) [station-destruction-doer](sthitisaṃhārakāriṇī)
 
 ## mukta-m0-p40-v999
-[one](ekā) [unique](advitīyā) [supreme](parā) [goddess](devī)
+[one](ekā)
 
 ## mukta-m0-p40-v1000
-[by-herself](svayaṃ) [how](kathaṃ) [may-be](syāt) [to-be-described](parivarṇanīyā)
+[by-herself](svayaṃ) [how](kathaṃ) [would-be](syāt) [describable](parivarṇanīyā)

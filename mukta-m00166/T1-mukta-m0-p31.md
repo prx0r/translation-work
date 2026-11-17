@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p31-v751
-[moist](klinnā) [not](na) [if](ced) [goddess](bhagavatī) [world+one+mother](jagadekamātā)
+[wet](klinnā) [not](na) [if](ced) [goddess](bhagavatī) [world-mother](jagadekamātā)
 
 ## mukta-m0-p31-v752
-[slender+bellied](kṛśodarī)
+[slender-bellied](kṛśodarī)
 
 ## mukta-m0-p31-v753
-[fulfilled+desires](sampūritāśā) [of+virtuous+ones](kṛtināṃ) [then](tadā) [she+would+be](syāḥ) [slender+bellied](kṛśodarī) [thus](iti) [famous](prathitā) [how](kathaṃ) [indeed](nu)
+[fulfilled-desires](sampūritāśā) [of-the-virtuous](kṛtināṃ) [then](tadā) [would-be](syāḥ) [slender-bellied](kṛśodarī) [thus](iti) [famous](prathitā) [how](kathaṃ) [indeed](nu)
 
 ## mukta-m0-p31-v754
-[desire+lord](kāmeśvarī)
+[lady-of-desire](kāmeśvarī)
 
 ## mukta-m0-p31-v755
-[of+devotee](bhaktasya) [sprinkled](siktasya) [supreme+self+knowledge](parātmabodhapīyūṣadhārānikareṇa) [goddess](devi)
+[of-the-devotee](bhaktasya) [of-the-sprinkled](siktasya) [supreme-self-knowledge-nectar-stream](parātmabodhapīyūṣadhārānikareṇa) [goddess](devi)
 
 ## mukta-m0-p31-v756
 [blue](nīlā)
 
 ## mukta-m0-p31-v757
-[this](sā) [once](eṣā) [once](ekadā) [blue+necked](nīlagalasya) [blue](nīlā) [become](bhūtā) [all+limbs](akhilāṅgaiḥ) [whether](kimu) [crooked+limbed](bhaṅgurāṅgī)
+[this-one](saiṣa) [once](ekadā) [of-the-blue-throated](nīlagalasya) [blue](nīlā) [became](bhūtā) [with-all-limbs](akhilāṅgaiḥ) [how](kimu) [fragile-limbed](bhaṅgurāṅgī)
 
 ## mukta-m0-p31-v758
-[terrible+bird](bhīruṇḍā)
+[fierce-crow](bhīruṇḍā)
 
 ## mukta-m0-p31-v759
-[to+stand](sthātuṃ) [of+whom](yasyāḥ) [fierce+eyes+shining](krūratārojjvalāyā) [terrible+bird](bhīruṇḍā) [she](sā) [skull+handed](muṇḍahastā) [may+protect](avatānnaḥ)
+[to-stand](sthātuṃ) [whose](yasyāḥ) [cruel-radiant](krūratārojjvalāyā) [fierce-crow](bhīruṇḍā) [she](sā) [skull-handed](muṇḍahastā) [protect-us](avatānnaḥ)
 
 ## mukta-m0-p31-v760
-[fire+dwelling](vahnivāsinī)
+[fire-dwelling](vahnivāsinī)
 
 ## mukta-m0-p31-v761
-[who](yā) [fire+dwelling](vahnivāsinī) [she](sā) [to+us](naḥ) [may+make](kuryāt) [devoid+of+desires](nirvāsanaṃ) [mind](manaḥ)
+[who](yā) [fire-dwelling](vahnivāsinī) [she](sā) [to-us](naḥ) [may-make](kuryāt) [desireless](nirvāsanaṃ) [mind](manaḥ)
 
 ## mukta-m0-p31-v762
-[pot+bellied](lambodarī)
+[page](p.) [118](118)) [pot-bellied](lambodarī)
 
 ## mukta-m0-p31-v763
-[pot+bellied](lambodarī) [thus](iti) [famous](prathitā) [then](tataḥ) [may+be](stād) [support](ālambanaṃ) [world+cycle+hard+to+bear](saṃsṛtidurbhṛgau) [she](sā)
+[pot-bellied](lambodarī) [thus](iti) [famous](prathitā) [then](tataḥ) [support](stādālambanaṃ) [world-cycle-hardship](saṃsṛtidurbhṛgau) [she](sā)
 
 ## mukta-m0-p31-v764
-[great+kālī](mahākālī)
+[great-black](mahākālī)
 
 ## mukta-m0-p31-v765
-[great+kālī](mahākālī) [time](kālyaṃ) [may+remove](haratu) [by+compassion](dayayā) [she](sā) [to+those+who+worship](abhibhajatām)
+[great-black](mahākālī) [time](kālyaṃ) [may-remove](haratu) [with-compassion](dayayā) [she](sā) [of-the-worshippers](abhibhajatām)
 
 ## mukta-m0-p31-v766
-[knowledge+and+non-knowledge+mistress](vidyāvidyeśvarī)
+[knowledge-ignorance-lady](vidyāvidyeśvarī)
 
 ## mukta-m0-p31-v767
-[knowledge+and+non-knowledge+mistress](vidyāvidyeśvarī) [that+one](sā) [alone](ekā) [causes](vidhatte) [wonder](vismitaṃ) [not](na) [what](kim)
+[knowledge-ignorance-lady](vidyāvidyeśvarī) [alone](saikā) [does](vidhatte) [wonder](vismitaṃ) [not](na) [what](kim)
 
 ## mukta-m0-p31-v768
-[king+mistress](nareśvarī)
+[lady-of-men](nareśvarī)
 
 ## mukta-m0-p31-v769
-[king+mistress](nareśvarī) [welfare+making](śarmakarī) [always](sadā) [her](tām) [may+reveal](āviṣkarotu) [self+state](ātmagatiṃ) [everywhere](samantāt)
+[lady-of-men](nareśvarī) [bliss-giving](śarmakarī) [always](sadā) [her](tām) [may-reveal](āviṣkarotu) [self-course](ātmagatiṃ) [all-around](samantāt)
 
 ## mukta-m0-p31-v770
 [truth](satyā)
 
 ## mukta-m0-p31-v771
-[truth](satyā) [thus](iti) [her](tām) [with+joy](mudā) [meditating](dhyāyan) [done+duty](kṛtakṛtyo) [not](na) [who](kaḥ) [may+become](bhavet)
+[truth](satyeti) [her](tāṃ) [with-joy](mudā) [meditating](dhyāyan) [accomplished](kṛtakṛtyo) [not](na) [who](ko) [becomes](bhavet)
 
 ## mukta-m0-p31-v772
-[all+good+fortune+increasing](sarvasaubhāgyavardhinī)
+[all-auspiciousness-increasing](sarvasaubhāgyavardhinī)
 
 ## mukta-m0-p31-v773
-[all](sarvam) [alone](ekaḥ) [indeed](api) [she](sā) [goddess](devī) [all+good+fortune+increasing](sarvasaubhāgyavardhinī)
+[all-one-even](sarvameko'pi) [she](sā) [goddess](devī) [all-auspiciousness-increasing](sarvasaubhāgyavardhinī)
 
 ## mukta-m0-p31-v774
-[saṃkarṣaṇa](saṃkarṣaṇī)
+[page](p.) [119](119)) [drawing-together](saṃkarṣaṇī)
 
 ## mukta-m0-p31-v775
-[thus+meditating](adhyāyan) [done+evil+destroyed](kṛtaduṣkṛtāhatim) [this](amūṃ) [delusion+uprooting](durmohanirmūlinīm)
+[meditating](tyadhyāyan) [evil-deed-destroying](kṛtaduṣkṛtāhatimamūṃ) [delusion-root-removing](durmohanirmūlinīm)

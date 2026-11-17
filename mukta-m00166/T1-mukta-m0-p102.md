@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p102-v2526
-[for-a-moment](kṣaṇaṃ) [it-may-be](bhavet) [how](kathaṃ) [not](na) + [indeed](eva) [he](sa) [of-teachers](gurūṇāṃ) [teacher](guruḥ) [for-long](ciram)
+[moment](kṣaṇaṃ) [would-be](bhavet) [how](kathaṃ) [not-indeed](naiva) [he](sa) [of-teachers](gurūṇāṃ) [teacher-long](guruściram)
 
 ## mukta-m0-p102-v2527
-[page](p.) [293](293)) [motionless](sthāvarā) [immovable](sthāvarā)
+[stationary](sthāvarā)
 
 ## mukta-m0-p102-v2528
-[even](api) [she](sā) [motionless](sthāvarā) [having-become](bhūtā) [may-make](kriyāt) [our](naḥ) [motionless](sthāvaraṃ) [mind](manaḥ)
+[even](api) [she](sā) [stationary](sthāvarā) [become](bhūtā) [action-our](kriyānnaḥ) [stationary](sthāvaraṃ) [mind](manaḥ)
 
 ## mukta-m0-p102-v2529
-[moving](jaṅgamā) [mobile](jaṅgamā) [moving](jaṅgamā) [mobile](jaṅgamā)
+[moving](jaṅgamā)
 
 ## mukta-m0-p102-v2530
-[great](mahat) [wonder](citraṃ) [than-you](tvad) + [other](anyat) [what](kiṃ) [because](yat) [by-meditation](dhyānāt) [you-are](asi) [moving](jaṅgamā)
+[great-wonder](mahaccitraṃ) [other-than-you](tvadanyat) [what](kiṃ) [by-meditation](yaddhyānādasi) [moving](jaṅgamā)
 
 ## mukta-m0-p102-v2531
-[goddess](devī) [divine](devī) [goddess](devī) [divine](devī)
+[goddess](devī)
 
 ## mukta-m0-p102-v2532
-[in-going](gatau) [even](api) [supreme](parā) [goddess](devī) [alone](kevalā) [indeed](eva) [shines](virājate)
+[in-going](gatāvapi) [supreme](parā) [goddess](devī) [alone-indeed](kevalaiva) [shines](virājate)
 
 ## mukta-m0-p102-v2533
-[done](kṛta) + [action](karma) + [fruit](phala) + [giver](pradā) [bestower](pradā) [of-results](phala) [of-actions](karma)
+[giver-of-action-fruit](kṛtakarmaphalapradā)
 
 ## mukta-m0-p102-v2534
-[wonder](citraṃ) [of-those-without-action](niṣkarmiṇām) [that](yat) [and](ca) [done](kṛta) + [action](karma) + [fruit](phala) + [giver](pradā)
+[wonder](citraṃ) [of-actionless-ones](niṣkarmiṇāṃ) [and](yacca) [giver-of-action-fruit](kṛtakarmaphalapradā)
 
 ## mukta-m0-p102-v2535
-[object](viṣaya) + [overpowered](ākrānta) + [body](dehā) [embodied](dehā) [seized](ākrānta) [by-objects](viṣaya)
+[sense-object-overcome-body](viṣayākrāntadehā)
 
 ## mukta-m0-p102-v2536
-[Hara](haraṃ) [skull-bearer](kapālinaṃ) [and](ca) [one](ekaṃ) [lord-of-mountains](girīśaṃ) [how](katham) [you-resort-to](āśrayeḥ)
+[Shiva](haraṃ) [skull-bearer](kapālinaṃ) [and-one](caikaṃ) [mountain-lord](girīsaṃ) [how-resort](kathamāśrayeḥ)
 
 ## mukta-m0-p102-v2537
-[without-distinction](nirviśeṣā) [undifferentiated](nirviśeṣā) [without-distinction](nirviśeṣā) [undifferentiated](nirviśeṣā)
+[without-distinction](nirviśeṣā)
 
 ## mukta-m0-p102-v2538
-[without-distinction](nirviśeṣā) [auspicious](śivā) [all](sarva) + [distinctions](viśeṣā) [triumphs](jayati) [by-herself](svataḥ)
+[without-distinction](nirviśeṣā) [auspicious](śivā) [all-distinctions](sarvaviśeṣā) [conquers](jayati) [by-herself](svataḥ)
 
 ## mukta-m0-p102-v2539
-[senses-conquered](jitendriyā) [self-controlled](jitendriyā) [senses-conquered](jitendriyā) [self-controlled](jitendriyā)
+[conquered-senses](jitendriyā)
 
 ## mukta-m0-p102-v2540
-[for-austerity](tapase) [supreme](parama) + [lord](īśāna) + [for-fruit](phalāya) [therefore](ataḥ) [conquered](jita) + [senses](indriyā)
+[for-austerity](tapase) [supreme-lord-fruit](parameśānaphalāyāto) [conquered-senses](jitendriyā)
 
 ## mukta-m0-p102-v2541
-[page](p.) [294](294)) [universe](viśva) + [form](rūpā) [cosmic-form](rūpā)
+[universal-form](viśvarūpā)
 
 ## mukta-m0-p102-v2542
-[universe](viśva) + [form](rūpā) [supreme](parā) [some](kācit) [consciousness](cit) + [nature](svarūpā) [triumphs](jayati) [she](asau)
+[universal-form](viśvarūpā) [supreme](parā) [some](kācit) [consciousness-form](citsvarūpā) [conquers-that-one](jayatyasau)
 
 ## mukta-m0-p102-v2543
-[consciousness](cit) + [bliss](ānandā) [blissful-awareness](ānandā) [consciousness](cit) [bliss](ānandā)
+[consciousness-bliss](cidānandā)
 
 ## mukta-m0-p102-v2544
-[Indra's](purandara) + [consort](indirā) [even](api) [of-him](asya) [barren](vandhyā) [indeed](eva) [in-heart](svānta) + [caressing](lālane)
+[Indra-Lakshmi-even](purandarendirāpyasya) [barren-indeed](vandhyaiva) [in-mind-soothing](svāntalālane)
 
 ## mukta-m0-p102-v2545
-[supreme-Brahman](parabrahma) + [awakener](prabodhinī) [enlightener](prabodhinī) [of-supreme-Brahman](parabrahma) [awakener](prabodhinī)
+[supreme-Brahman-awakener](parabrahmaprabodhinī)
 
 ## mukta-m0-p102-v2546
-[obstructer](rodhinī) [of-all](sarva) + [desires](kāmānāṃ) [supreme-Brahman](parabrahma) + [awakener](prabodhinī)
+[obstructress](rodhinī) [of-all-desires](sarvakāmānāṃ) [supreme-Brahman-awakener](parabrahmaprabodhinī)
 
 ## mukta-m0-p102-v2547
-[unchanging](nirvikārā) [immutable](nirvikārā) [unchanging](nirvikārā) [immutable](nirvikārā)
+[without-change](nirvikārā)
 
 ## mukta-m0-p102-v2548
-[there](tatra) [self](svaṃ) [having-placed](viniveśya) [one](ekā) [unchanging](nirvikārā) [indeed](eva) [some](kācana)
+[there](tatra) [self](svaṃ) [having-placed](viniveśyaikā) [without-change-indeed](nirvikāraiva) [some](kācana)
 
 ## mukta-m0-p102-v2549
-[without-enmity](nirvairā) [free-from-hostility](nirvairā) [without-enmity](nirvairā) [free-from-hostility](nirvairā)
+[without-enmity](nirvairā)
 
 ## mukta-m0-p102-v2550
-[even](api) [of-husband](patyuḥ) [on-head](śiraḥ) [by-standing](sthityā) [without-enmity](nirvairā) [triumphs](jayati) [goddess](īśvarī)
+[even](api) [of-husband](patyuḥ) [head](śiraḥ) [by-standing](sthityā) [without-enmity](nirvairā) [conquers-goddess](jayatīśvarī)
