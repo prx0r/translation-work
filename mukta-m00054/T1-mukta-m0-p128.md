@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p128-v3176
-[homage-to-jewel-limbed-path](ratnāṅgāyanamaḥ) [homage-to-great-ocean-drinker](mahārṇavanipānavidenamaḥ)
+[ratna-anga-ayana-namaha](ratnāṅgāyanamaḥ) [maharnava-nipana-videnamaha](mahārṇavanipānavidenamaḥ)
 
 ## mukta-m0-p128-v3177
-[homage-to-root-path](mūlāyanamaḥ) [homage-to-vast-path](viśālāyanamaḥ) [homage-to-nectar-path](amṛtāyanamaḥ)
+[mula-ayana-namaha](mūlāyanamaḥ) [visala-ayana-namaha](viśālāyanamaḥ) [amrita-ayana-namaha](amṛtāyanamaḥ)
 
 ## mukta-m0-p128-v3178
-[homage-to-manifest-unmanifest-path](vyaktāvyaktāyanamaḥ) [homage-to-austerity-treasury](taponidhayenamaḥ) [homage-to-ascent-path](ārohaṇāyanamaḥ)
+[vyakta-avyakta-ayana-namaha](vyaktāvyaktāyanamaḥ) [taponidhi-enamaha](taponidhayenamaḥ) [arohana-ayana-namaha](ārohaṇāyanamaḥ)
 
 ## mukta-m0-p128-v3179
-[homage-to-overlord-path](adhirodhāyanamaḥ) [homage-to-trident-bearer](śūladhāriṇenamaḥ)
+[adhiroda-ayana-namaha](adhirodhāyanamaḥ) [sula-dharine-namaha](śūladhāriṇenamaḥ)
 
 ## mukta-m0-p128-v3180
-[homage-to-great-glory](mahāyaśasenamaḥ) [homage-to-army-arrangement-path](senākalpāyanamaḥ) [homage-to-great-age-path](mahākalpāyanamaḥ)
+[maha-yasas-enamaha](mahāyaśasenamaḥ) [sena-kalpa-ayana-namaha](senākalpāyanamaḥ) [maha-kalpa-ayana-namaha](mahākalpāyanamaḥ)
 
 ## mukta-m0-p128-v3181
-[homage-to-yoga-path](yogāyanamaḥ) [homage-to-age-maker-path](yugakarāyanamaḥ) [homage-to-hari](harayenamaḥ)
+[yoga-ayana-namaha](yogāyanamaḥ) [yuga-kara-ayana-namaha](yugakarāyanamaḥ) [hara-enamaha](harayenamaḥ)
 
 ## mukta-m0-p128-v3182
-[homage-to-age-form-path](yugarūpāyanamaḥ) [homage-to-great-form-path](mahārūpāyanamaḥ)
+[yuga-rupa-ayana-namaha](yugarūpāyanamaḥ) [maha-rupa-ayana-namaha](mahārūpāyanamaḥ)
 
 ## mukta-m0-p128-v3183
-[homage-to-great-serpent-slayer-path](mahānāgahanāyanamaḥ) [homage-to-slaying-path](vadhāyanamaḥ)
+[maha-naga-hana-ayana-namaha](mahānāgahanāyanamaḥ) [vada-ayana-namaha](vadhāyanamaḥ)
 
 ## mukta-m0-p128-v3184
-[homage-to-justice-offering-path](nyāyanirvapaṇāyanamaḥ) [homage-to-foot-path](pādāyanamaḥ) [homage-to-scholar-path](paṇḍitāyanamaḥ)
+[nyaya-nirvapana-ayana-namaha](nyāyanirvapaṇāyanamaḥ) [pada-ayana-namaha](pādāyanamaḥ) [pandita-ayana-namaha](paṇḍitāyanamaḥ)
 
 ## mukta-m0-p128-v3185
-[homage-to-immovable-likeness-path](acalopamāyanamaḥ) [homage-to-many-garland-path](bahumālāyanamaḥ)
+[acalopama-ayana-namaha](acalopamāyanamaḥ) [bahu-mala-ayana-namaha](bahumālāyanamaḥ)
 
 ## mukta-m0-p128-v3186
-[homage-to-great-garland-path](mahāmālāyanamaḥ) [homage-to-moon-hara-beautiful-eye-path](śaśiharasulocanāyanamaḥ)
+[maha-mala-ayana-namaha](mahāmālāyanamaḥ) [sasi-hara-su-locana-ayana-namaha](śaśiharasulocanāyanamaḥ)
 
 ## mukta-m0-p128-v3187
-[homage-to-vast-salt-well-path](vistāralavaṇakūpāyanamaḥ) [homage-to-three-age-path](triyugāyanamaḥ)
+[vistara-lavana-kupa-ayana-namaha](vistāralavaṇakūpāyanamaḥ) [tri-yuga-ayana-namaha](triyugāyanamaḥ)
 
 ## mukta-m0-p128-v3188
-[homage-to-jewel-pierced-path](maṇividdhāyanamaḥ) [homage-to-matted-hair-path](jaṭādharāyanamaḥ)
+[mani-viddha-ayana-namaha](maṇividdhāyanamaḥ) [jata-dhara-ayana-namaha](jaṭādharāyanamaḥ)
 
 ## mukta-m0-p128-v3189
-[homage-to-bindu](bindavenamaḥ) [homage-to-emission-path](visargāyanamaḥ) [homage-to-beautiful-face-path](sumukhāyanamaḥ)
+[bindu-enamaha](bindavenamaḥ) [visarga-ayana-namaha](visargāyanamaḥ) [su-mukha-ayana-namaha](sumukhāyanamaḥ)
 
 ## mukta-m0-p128-v3190
-[homage-to-arrow-path](śarāyanamaḥ) [homage-to-all-weapon-path](sarvāyudhāyanamaḥ) [homage-to-companion-path](sahāyanamaḥ)
+[sara-ayana-namaha](śarāyanamaḥ) [sarva-ayudha-ayana-namaha](sarvāyudhāyanamaḥ) [saha-ayana-namaha](sahāyanamaḥ)
 
 ## mukta-m0-p128-v3191
-[homage-to-offering-path](nivedanāyanamaḥ) [homage-to-happy-born-path](sukhājātāyanamaḥ) [homage-to-fragrant-path](sugandhārāyanamaḥ)
+[nivedana-ayana-namaha](nivedanāyanamaḥ) [sukha-jata-ayana-namaha](sukhājātāyanamaḥ) [su-gandhara-ayana-namaha](sugandhārāyanamaḥ)
 
 ## mukta-m0-p128-v3192
-[homage-to-great-bow](mahādhanuṣenamaḥ) [homage-to-fragrance-lord](gandhapālibhagavatenamaḥ)
+[maha-dhanus-enamaha](mahādhanuṣenamaḥ) [gandha-pali-bhagavate-namaha](gandhapālibhagavatenamaḥ)
 
 ## mukta-m0-p128-v3193
-[homage-to-all-action-rising-path](sarvakarmotthānāyanamaḥ) [homage-to-churner-many-wind](manthānabahulavāyavenamaḥ)
+[sarva-karma-utthana-ayana-namaha](sarvakarmotthānāyanamaḥ) [manthana-bahula-vayave-namaha](manthānabahulavāyavenamaḥ)
 
 ## mukta-m0-p128-v3194
-[homage-to-all-path](sakalāyanamaḥ) [homage-to-all-eye-path](sarvalocanāyanamaḥ) [homage-to-palm-clap-path](talastālāyanamaḥ)
+[sakala-ayana-namaha](sakalāyanamaḥ) [sarva-locana-ayana-namaha](sarvalocanāyanamaḥ) [tala-stala-ayana-namaha](talastālāyanamaḥ)
 
 ## mukta-m0-p128-v3195
-[homage-to-parasol-path](chatrāyanamaḥ) [homage-to-good-parasol-path](succhatrāyanamaḥ)
+[chatra-ayana-namaha](chatrāyanamaḥ) [su-chatra-ayana-namaha](succhatrāyanamaḥ)
 
 ## mukta-m0-p128-v3196
-[homage-to-famous-world-path](vikhyātalokāyanamaḥ) [homage-to-all-refuge-order-path](sarvāśrayakramāyanamaḥ)
+[vikhyata-loka-ayana-namaha](vikhyātalokāyanamaḥ) [sarva-asraya-krama-ayana-namaha](sarvāśrayakramāyanamaḥ)
 
 ## mukta-m0-p128-v3197
-[homage-to-shaved-head-path](muṇḍāyanamaḥ) [homage-to-deformed-path](virūpāyanamaḥ) [homage-to-distorted-path](vikṛtāyanamaḥ)
+[munda-ayana-namaha](muṇḍāyanamaḥ) [virupa-ayana-namaha](virūpāyanamaḥ) [vikrita-ayana-namaha](vikṛtāyanamaḥ)
 
 ## mukta-m0-p128-v3198
-[homage-to-staff](daṇḍinenamaḥ) [homage-to-pot](kuṇḍinenamaḥ) [homage-to-transforming-path](vikurvāṇāyanamaḥ)
+[dandine-namaha](daṇḍinenamaḥ) [kundine-namaha](kuṇḍinenamaḥ) [vikurvāna-ayana-namaha](vikurvāṇāyanamaḥ)
 
 ## mukta-m0-p128-v3199
-[homage-to-green-eyed-path](haryakṣāyanamaḥ) [homage-to-quarter-path](kakubhāyanamaḥ) [homage-to-thunderbolt-bearer](vajriṇenamaḥ)
+[haryaksa-ayana-namaha](haryakṣāyanamaḥ) [kakubha-ayana-namaha](kakubhāyanamaḥ) [vajrine-namaha](vajriṇenamaḥ)
 
 ## mukta-m0-p128-v3200
-[homage-to-hundred-tongues](śatajihvāyanamaḥ) [homage-to-thousand-feet-thousand-headed](sahasrapatsahasramūrddhnenamaḥ)
+[sata-jihva-ayana-namaha](śatajihvāyanamaḥ) [sahasra-pat-sahasra-murddhne-namaha](sahasrapatsahasramūrddhnenamaḥ)
