@@ -8,7 +8,7 @@
 [obeisance](vajra-hastāya) [obeisance](namaḥ) [obeisance](viṣkambhine) [obeisance](namaḥ)
 
 ## mukta-m0-p122-v3028
-[obeisance](camū-stambhanāya) [obeisance](namaḥ) [obeisance](vṛtta-avṛtta-karāya) [obeisance](namaḥ)
+[obeisance](camū-stambhanāya) [obeisance](namaḥ) [obeisance](vṛtta-āvṛtta-karāya) [obeisance](namaḥ)
 
 ## mukta-m0-p122-v3029
 [obeisance](tālāya) [obeisance](namaḥ) [obeisance](madhave) [obeisance](namaḥ) [obeisance](madhu-kalocanāya) [obeisance](namaḥ)
@@ -38,7 +38,7 @@
 [obeisance](nihantr̥e) [obeisance](namaḥ) [obeisance](kālāya) [obeisance](namaḥ) [obeisance](brahmaṇe) [obeisance](namaḥ)
 
 ## mukta-m0-p122-v3038
-[obeisance](pitāmahāya) [obeisance](namaḥ) [obeisance](catur-mukhāya) [obeisance](namaḥ)
+[obeisance](pitā-mahāya) [obeisance](namaḥ) [obeisance](catur-mukhāya) [obeisance](namaḥ)
 
 ## mukta-m0-p122-v3039
 [obeisance](mahā-liṅgāya) [obeisance](namaḥ) [obeisance](cāru-liṅgāya) [obeisance](namaḥ)
