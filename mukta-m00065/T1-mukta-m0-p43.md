@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p43-v1051
-vedāṃśa-pātanāt(from-falling-of-vedic-parts) koṇa(corner) marṭāśaiḥ(with-mortal-ashes) atha(and) kambalam(blanket)
+[from-veda-portion-falling](vedāṃśapātanāt) [corner](koṇa) [by-mortals](marṭāśair) [then](atha) [blanket](kambalam)
 
 ## mukta-m0-p43-v1052
-tryaṃśa-praveśanāt(from-entering-of-three-parts) kaṇṭhāt(from-throat) ekaika-nirgamaṃ(one-by-one-exit) khuram(hoof)
+[from-three-part-entry](tryaṃśapraveśanāt) [from-throat](kaṇṭhād) [one-by-one-exit](ekaikanirgamaṃ) [hoof](khuram)
 
 ## mukta-m0-p43-v1053
-ghaṇṭāṃ(bell) ca(and) mekhalāṃ(girdle) ca(and) eva(indeed) kuryāt(should-make) śṛṅgāṇi(horns) koṇataḥ(from-corner)
+[bell](ghaṇṭāṃ) [and](ca) [girdle](mekhalāṃ) [and-also](caiva) [make](kuryāt) [horns](śṛṅgāṇi) [from-corner](koṇataḥ)
 
 ## mukta-m0-p43-v1054
-prālambya-āsakta(hanging-attached) revanta(Revanta) chatra-dhāra-ādibhiḥ(with-umbrella-bearing-etc) yutaḥ(accompanied)
+[pendant-attached](prālambyāsakta) [revanta](revanta) [with-umbrella-stream-etc](chatradhārādibhir) [joined](yutaḥ)
 
 ## mukta-m0-p43-v1055
-nānā-ratna-su-veśa-āḍhyāḥ(rich-in-various-gem-beautiful-dress) caṇḍa-tejāḥ(fierce-radiance) svabhāva-jāḥ(nature-born)
+[various-gem-beautiful-rich](nānāratnasuveśāḍhyā) [fierce-radiance](caṇḍatejāḥ) [natural-born](svabhāvajāḥ)
 
 ## mukta-m0-p43-v1056
-somaṃ(Soma) saumyaṃ(gentle) tathā(and) śvetaṃ(white) kuṇḍikā-jāpya-mālinam(holding-kundika-and-prayer-garland)
+[soma](somaṃ) [gentle](saumyaṃ) [and](tathā) [white](śvetaṃ) [waterpot-prayer-garlanded](kuṇḍikājāpyamālinam)
 
 ## mukta-m0-p43-v1057
-budhaṃ(Mercury) śyāmaṃ(dark) yuvānaṃ(youthful) ca(and) rūpiṇaṃ(form-bearing) cāpa-pāṇinam(bow-in-hand)
+[mercury](budhaṃ) [dark](śyāmaṃ) [young](yuvānaṃ) [and](ca) [embodied](rūpiṇaṃ) [bow-handed](cāpapāṇinam)
 
 ## mukta-m0-p43-v1058
-yāmya-eka-akṣaṃ(southern-one-eyed) sitaṃ(white) śukraṃ(Venus) kuṇḍikā-mantra-mālikam(kundika-mantra-garland)
+[yama-one-eyed](yāmyekākṣaṃ) [white](sitaṃ) [venus](śukraṃ) [waterpot-mantra-garlanded](kuṇḍikāmantramālikam)
 
 ## mukta-m0-p43-v1059
-vyāvṛtta-āsyaṃ(turning-face) sa-hāsyaṃ(with-smile) ca(and) piṅga-bhrū-śmaśru-locanam(tawny-brow-beard-eye)
+[turned-face](vyāvṛttāsyaṃ) [smiling](sahāsyaṃ) [and](ca) [tawny-brow-beard-eye](piṅgabhrūśmaśrulocanam)
 
 ## mukta-m0-p43-v1060
-triphaṇaṃ(three-hooded) dhūmra-varṇa-ābhaṃ(smoke-colored) nara-nāga-ardha-rūpiṇam(half-man-half-serpent-form)
+[three-hooded](triphaṇaṃ) [smoke-colored](dhūmravarṇābhaṃ) [man-serpent-half-formed](naranāgārdharūpiṇam)
 
 ## mukta-m0-p43-v1061
-etān(these) tu(indeed) dvibhujān(two-armed) sarvān(all) bhūṣaṇa-ambara-saṃyutān(adorned-with-ornaments-and-garments)
+[these-but](etāṃstu) [two-armed](dvibhujān) [all](sarvān) [ornament-cloth-endowed](bhūṣaṇāmbarasaṃyutān)
 
 ## mukta-m0-p43-v1062
-śakaṭaṃ(cart) medham(these) eteṣām(of-them) adhaḥ(below) yānaṃ(vehicle) kramāt(in-order) sadā(always)
+[cart](śakaṭaṃ) [sacrifice](medham) [of-these](eteṣām) [below](adho) [vehicle](yānaṃ) [in-order](kramāt) [always](sadā)
 
 ## mukta-m0-p43-v1063
-sitaḥ(white) sahasra-bhogaḥ(thousand-hoods) hi(indeed) īśvaraḥ(lord) kuvalaya-anvitaḥ(with-blue-lotus)
+[white](sitaḥ) [thousand-hooded](sahasrabhogo) [lord](hīśvaraḥ) [blue-lotus-endowed](kuvalayānvitaḥ)
 
 ## mukta-m0-p43-v1064
-kṛṣṇaḥ(black) karkoṭakaḥ(Karkotaka) kaṇṭhe(on-neck) śulka-rekhā-traya-anvitaḥ(with-three-stripe-lines)
+[black](kṛṣṇaḥ) [karkotaka](karkoṭakaḥ) [throat](kaṇṭhe) [white-stripe-three-endowed](śulkarekhātrayānvitaḥ)
 
 ## mukta-m0-p43-v1065
-śaṅkha-varṇaḥ(conch-colored) mahāpadmaḥ(Mahapadma) mastake(on-head) kṛṣṇa-śūla-dhṛk(holding-black-trident)
+[conch-colored](śaṅkhavarṇo) [great-lotus](mahāpadmo) [on-head](mastake) [black-trident-bearing](kṛṣṇaśūladhṛk)
 
 ## mukta-m0-p43-v1066
-kulikaḥ(Kulika) rakta-dehaḥ(red-body) tu(indeed) candra-ardha-kṛta-mastakaḥ(half-moon-made-head)
+[kulika](kuliko) [red-bodied](raktadehastu) [half-moon](candrārdha) [made-head](kṛtamastakaḥ)
 
 ## mukta-m0-p43-v1067
-akṣa-sūtra-dharāḥ(rosary-holders) sarve(all) kuṇḍikā-puccha-saṃyutāḥ(with-kundika-and-tail)
+[rosary-holders](akṣasūtradharāḥ) [all](sarve) [waterpot-tail-endowed](kuṇḍikāpucchasaṃyutāḥ)
 
 ## mukta-m0-p43-v1068
-bhṛtyāḥ(servants) ca(and) eka-phaṇāḥ(one-hooded) kāryāḥ(should-be-made) tad-rūpāḥ(that-form) maṇi-varjitāḥ(jewel-less)
+[servants](bhṛtyāś) [and](ca) [one-hooded](ekaphaṇāḥ) [to-be-made](kāryās) [same-form](tadrūpā) [gem-devoid](maṇivarjitāḥ)
 
 ## mukta-m0-p43-v1069
-hāra-kuṇḍala-keyūraiḥ(with-necklace-earring-armlet) sadā(always) bharaṇa-bhūṣitā(adorned-with-ornaments)
+[necklace-earring-armlet](hārakuṇḍalakeyūraiḥ) [always-ornament-adorned](sadābharaṇabhūṣitā)
 
 ## mukta-m0-p43-v1070
-īdṛśī(such) manasā(by-mind) kāryā(should-be-made) śrīkaṇṭha-manasambhavā(born-from-Shrikantha's-mind)
+[such](īdṛśī) [by-mind](manasā) [to-be-made](kāryā) [srikantha-mind-born](śrīkaṇṭhamanasambhavā)
 
 ## mukta-m0-p43-v1071
-yoga-paṭṭa-āvṛtaḥ(covered-with-yoga-band) abja-sthaḥ(lotus-seated) kuṇḍikā(kundika) ca(and) akṣa-sūtra-bhṛt(rosary-bearing)
+[yoga-band-wrapped](yogapaṭṭāvṛto) [lotus-seated]('bjasthaḥ) [waterpot](kuṇḍikā) [and-rosary-bearing](cākṣasūtrabhṛt)
 
 ## mukta-m0-p43-v1072
-nānā-alaṅkāra-saṃyuktāḥ(adorned-with-various-ornaments) utpala-maṇi-bhṛt-karau(lotus-gem-bearing-hands)
+[various-ornament-endowed](nānālaṅkārasaṃyuktāv) [blue-lotus-gem](utpalamaṇi) [bearing-hands](bhṛtkarau)
 
 ## mukta-m0-p43-v1073
-sudṛṣṭā(well-seen) jalpamānā(speaking) ca(and) svotsaṅge(on-own-lap) putra-dhāriṇī(child-bearing)
+[well-seen](sudṛṣṭā) [speaking](jalpamānā) [and](ca) [own-lap](svotsaṅge) [son-bearing](putradhāriṇī)
 
 ## mukta-m0-p43-v1074
-padmā(Lotus) nandana-padmastha(lotus-seated-in-Nandana) svāṅgā-devī(own-limb-goddess) prakīrtitā(declared)
+[lotus](padmā) [nanda-lotus-seated](nandanapadmastha) [own-limb-goddess](svāṅgādevī) [proclaimed](prakīrtitā)
 
 ## mukta-m0-p43-v1075
-basuka(basuka) kapidvikṣa(kapidviksha) vyāghra-vyāghra-āsyakaṃ(tiger-tiger-faced) kramāt(in-order)
+[basu](basukoka) [capi](kapidvikṣa) [tiger](vyāghra) [tiger-faced](vyāghrāsyakaṃ) [in-order](kramāt)
