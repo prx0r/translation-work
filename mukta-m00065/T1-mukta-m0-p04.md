@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p04-v76
-sthaṇḍile (on-ground) maṇḍale (circle) pūjya (worshipable) syāt (may-be) dīkṣā (initiation) sthāpana (installation) ādike (etc)
+[sthaṇḍile](loc.sg) [maṇḍale](loc.sg) [pūjya](ger) [syāt](opt) [dīkṣā](comp) [sthāpana](comp) [ādike](loc.sg)
 
 ## mukta-m0-p04-v77
-prabhu (lord) māna (honor) pradaṃ (giving) śāṅkhaṃ (conch) sainya (army) chinnā (cut) aga (mountain) danta (tusk) jam (born)
+[prabhu](comp) [māna](comp) [pradaṃ](acc.sg) [śāṅkhaṃ](acc.sg) [sainya](comp) [chinna](comp) [aga](comp) [danta](comp) [jam](acc.sg)
 
 ## mukta-m0-p04-v78
-aṇimā (minuteness) ādi (etc) nṛ (man) kulya (lineage) uttha (arisen) anyonya (mutual) abda (year) ardha (half) taḥ (from) sadā (always)
+[aṇimā](comp) [ādi](comp) [nṛ](comp) [kulya](comp) [utthaṃ](acc.sg) [anyonya](comp) [abda](comp) [ardhataḥ](adv) [sadā](adv)
 
 ## mukta-m0-p04-v79
-śāli (rice) piṣṭa (flour) udbhavaṃ (born) puṣṭyai (for-nourishment) ṣāṣṭikaṃ (sixty-day-rice) puṣṭi (nourishment) vardhanaṃ (increasing)
+[śāli](comp) [piṣṭa](comp) [udbhavaṃ](acc.sg) [puṣṭyai](dat.sg) [ṣāṣṭikaṃ](acc.sg) [puṣṭi](comp) [vardhanaṃ](acc.sg)
 
 ## mukta-m0-p04-v80
-ripu (enemy) bhedakaraṃ (splitting) maudgaṃ (mung-born) strī (woman) daṃ (giving) śyāmāka (millet) sambhavam (originated)
+[ripu](comp) [bheda](comp) [karaṃ](acc.sg) [maudgaṃ](acc.sg) [strī](comp) [daṃ](acc.sg) [śyāmāka](comp) [sambhavaṃ](acc.sg)
 
 ## mukta-m0-p04-v81
-sukha (comfort) kṛt (doing) nāvanītaṃ (not-churned) tu (but) gomayaṃ (cow-dung) roga (disease) nāśanam (destroying)
+[sukha](comp) [kṛt](acc.sg) [nāvanītaṃ](acc.sg) [tu](part) [gomayaṃ](acc.sg) [roga](comp) [nāśanaṃ](acc.sg)
 
 ## mukta-m0-p04-v82
-nānā (various) phala (fruit) udbhavaṃ (born) liṅgaṃ (linga) nānā (various) kāma (desire) pradāyakam (giving)
+[nānā](comp) [phala](comp) [udbhavaṃ](acc.sg) [liṅgaṃ](acc.sg) [nānā](comp) [kāma](comp) [pradāyakaṃ](acc.sg)
 
 ## mukta-m0-p04-v83
-uccāṭane (in-eradication) tu (but) pāṃśavyaṃ (dust-born) maulaṃ (root) śatru (enemy) kṣaya (destruction) āvaham (bringing)
+[uccāṭane](loc.sg) [tu](part) [pāṃśavyaṃ](acc.sg) [maulaṃ](acc.sg) [śatru](comp) [kṣaya](comp) [āvahaṃ](acc.sg)
 
 ## mukta-m0-p04-v84
-pura (city) kṣobha (agitation) karaṃ (making) pauraṃ (city-born) rāmaṭhaṃ (asafoetida) ca (and) augrya (fierceness) kārakam (causing)
+[pura](comp) [kṣobha](comp) [karaṃ](acc.sg) [pauraṃ](acc.sg) [rāmaṭhaṃ](acc.sg) [ca](part) [ugrya](comp) [kārakaṃ](acc.sg)
 
 ## mukta-m0-p04-v85
-mṛd (clay) bimba (image) udbhava (born) iṣṭa (desired) arthaṃ (purpose) lepāt (by-smearing) syuḥ (may-be) sarva (all) saṃpadaḥ (wealths)
+[mṛt](comp) [bimba](comp) [udbhavaṃ](acc.sg) [iṣṭa](comp) [arthaṃ](acc.sg) [lepāt](abl.sg) [syuḥ](opt) [sarva](comp) [saṃpadaḥ](nom.pl)
 
 ## mukta-m0-p04-v86
-tāvat (so-long) kāla (time) tu (but) saṃpūya (worshipping) visṛjya (releasing) tāni (those) ke (who) kṣipet (would-throw)
+[tāvat](adv) [kālaṃ](acc.sg) [tu](part) [saṃpūya](ger) [visṛjya](ger) [tāni](acc.pl) [ke](nom.pl) [kṣipet](opt)
 
 ## mukta-m0-p04-v87
-niṣkvāthya (boiling-down) paṭa (cloth) mā (measure) lepya (smearing) saṃśoṣya (drying) pāri (around) mārjya (wiping) ca (and)
+[niṣkvāthya](ger) [paṭa](comp) [mālā](comp) [ālepya](ger) [saṃśoṣya](ger) [pāri](comp) [mārjya](ger) [ca](part)
 
 ## mukta-m0-p04-v88
-dhātu (metal) bilva (bilva) rasaiḥ (with-juices) lekhyaṃ (to-be-drawn) tridhā (in-three-ways) liṅgaṃ (linga) paṭa (cloth) ādike (etc)
+[dhātu](comp) [bilva](comp) [rasaiḥ](inst.pl) [lekhyaṃ](acc.sg) [tridhā](adv) [liṅgaṃ](acc.sg) [paṭa](comp) [ādike](loc.sg)
 
 ## mukta-m0-p04-v89
-bala (strength) saṃvartanī (revolving) icchāyā (by-desire) dṛṣṭi (sight) bhāva (state) āśritā (dependent) sadā (always)
+[bala](comp) [saṃvartanī](comp) [icchāyāḥ](gen.sg) [dṛṣṭi](nom.sg) [bhāva](comp) [āśritā](nom.sg) [sadā](adv)
 
 ## mukta-m0-p04-v90
-karuṇā (compassion) adbhuta (wonder) śāntāḥ (peaceful) ca (and) nava (nine) bhāva (mood) ātmikāḥ (souled) kvacit (sometimes)
+[karuṇā](comp) [adbhuta](comp) [śāntāḥ](nom.pl) [ca](part) [nava](comp) [bhāva](comp) [ātmikāḥ](nom.pl) [kvacit](adv)
 
 ## mukta-m0-p04-v91
-sva (own) icchayā (by-will) pūjayet (should-worship) etat (this) mṛn (clay) mayāni (made-of) ucyate (is-said) adhunā (now)
+[sva](comp) [icchayā](inst.sg) [pūjayet](opt) [etat](acc.sg) [mṛnmayāni](acc.pl) [ucyate](pres) [adhunā](adv)
 
 ## mukta-m0-p04-v92
-sadyas (immediately) mantreṇa (by-mantra) ca (and) apakvaṃ (unripe) kramāt (in-order) nava (nine) kara (hand) ādikam (etc)
+[sadyas](comp) [mantreṇa](inst.sg) [ca](part) [apakvaṃ](acc.sg) [kramāt](adv) [nava](comp) [kara](comp) [ādikaṃ](acc.sg)
 
 ## mukta-m0-p04-v93
-dvija (twice-born) ādi (etc) jātibhiḥ (by-castes) mṛdbhiḥ (by-clays) avyakta (unmanifest) ādi (etc) ca (and) kāmataḥ (by-desire)
+[dvija](comp) [ādi](comp) [jāti](comp) [bhiḥ](inst.pl) [mṛdbhiḥ](inst.pl) [avyakta](comp) [ādi](comp) [ca](part) [kāmataḥ](adv)
 
 ## mukta-m0-p04-v94
-vāpī (well) kūpa (well) taḍāgeṣu (in-ponds) dīrghikāyāḥ (of-reservoir) samāharet (should-collect)
+[vāpī](comp) [kūpa](comp) [taḍāgeṣu](loc.pl) [dīrghikāyāḥ](gen.sg) [samāharet](opt)
 
 ## mukta-m0-p04-v95
-puṣṭyai (for-nourishment) triloha (three-metals) garbhaṃ (womb) ca (and) dhana (wealth) koṣa (treasury) vivṛddhaye (for-increase)
+[puṣṭyai](dat.sg) [tri](comp) [loha](comp) [garbhaṃ](acc.sg) [ca](part) [dhana](comp) [koṣa](comp) [vivṛddhaye](dat.sg)
 
 ## mukta-m0-p04-v96
-vāmā (left) ākhyena (named) citāṃ (pyre) kṛtvā (having-made) ghoreṇa (fiercely) paridāhya (burning-around) ca (and)
+[vāma](comp) [ākhyena](inst.sg) [citāṃ](acc.sg) [kṛtvā](ger) [ghoreṇa](inst.sg) [paridāhya](ger) [ca](part)
 
 ## mukta-m0-p04-v97
-īśānena (by-īśāna) gṛhītvā (taking) tu (but) tataḥ (then) saṃskṛtya (purifying) pūjayet (should-worship)
+[īśānena](inst.sg) [gṛhītvā](ger) [tu](part) [tataḥ](adv) [saṃskṛtya](ger) [pūjayet](opt)
 
 ## mukta-m0-p04-v98
-sarja (sal-tree) hiṅgu (asafoetida) pura (bdellium) bola (gum-resin) mata (thought) sī (sesame) taila (oil) meva (indeed) ca (and)
+[sarja](comp) [hiṅgu](comp) [puraṃ](comp) [bola](comp) [mata](comp) [sī](comp) [tailaṃ](acc.sg) [eva](part) [ca](part)
 
 ## mukta-m0-p04-v99
-mṛdi (in-clay) kṣiptvā (having-thrown) vyavasthāpya (arranging) māsaṃ (month) tāṃ (that) parimṛdya (rubbing) ca (and)
+[mṛdi](loc.sg) [kṣiptvā](ger) [vyavasthāpya](ger) [māsaṃ](acc.sg) [tāṃ](acc.sg) [parimṛdya](ger) [ca](part)
 
 ## mukta-m0-p04-v100
-śaṇa (hemp) tatva (essence) nvitaṃ (endowed) katvā (having-made) mṛnmayaṃ (clay-made) ghaṭayet (should-form) śubham (auspicious)
+[śaṇa](comp) [tatva](comp) [nvitaṃ](acc.sg) [katvā](ger) [mṛnmayaṃ](acc.sg) [ghaṭayet](opt) [śubhaṃ](acc.sg)
