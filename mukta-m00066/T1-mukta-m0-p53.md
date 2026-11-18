@@ -2,76 +2,52 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p53-v1301
-[there](tatrāpi) [causes](hetavastīvrāḥ) [more](bhūyasyoyuktayo'pi) [and](ca)
-
+there+also causes+intense more+and+arguments+also and
 ## mukta-m0-p53-v1302
-[confusion](vyāmohe) [arises](jāyate) [far](dūraṃ) [of-those-two](tayorālokanānṛṇām)
-
+confusion arises far of-those+seeing+of-debtors
 ## mukta-m0-p53-v1303
-[in-place](sthāne) [back](pṛṣṭhaṃ) [by-you](tvayādevi) [properly](samyage) [that](tadvivicyate)
-
+place back by-you goddess rightly that+is-discriminated
 ## mukta-m0-p53-v1304
-[not](na) [only](kevalaṃ) [intellect-play](dhīvilāso) [speech-power](vaikharyapi) [also](ca) [cause](kāraṇam)
-
+not only intellect+play speech+also and cause
 ## mukta-m0-p53-v1305
-[by-intention](saṅkalpena) [by-doubt](vikalpena) [human-born-single-dwelling](narajātyekavāsinā)
-
+by-intention by-doubt human-birth-one-dweller
 ## mukta-m0-p53-v1306
-[of-them](teṣāṃ) [tu](tu) [of-views](darśanānāṃ) [yo](yo) [vedaḥ](vedaḥ) [first-view](prathamadarśanam)
-
+of-them but of-views who veda first+seeing
 ## mukta-m0-p53-v1307
-[there](tatrodāsīna) [conducts](vṛttīnicānyāni) [supreme-lady](parameśvarī)
-
+there indifferent practices other goddess
 ## mukta-m0-p53-v1308
-[not](na) [tu](tu) [rest](viśrāṃti) [news](vārttāpi) [of-anyone](kasyacidvādavartmanaḥ)
-
+not but rest news+also of-anyone debate+path
 ## mukta-m0-p53-v1309
-[by-taste](rucināmiha) [vai](vai) [from-variety](citryād) [many](bahudhāśāstrakoṭayaḥ)
-
+by-tastes here indeed by-variety many+scripture+millions
 ## mukta-m0-p53-v1310
-[political-science](arthaśāstraṃ) [ca](ca) [fair-hipped](suśroṇi) [from-those-two](tābhyāṃ) [scripture-emergence](śāstrasamudgamaḥ)
-
+political-science and beautiful-hipped from-those two scripture+emergence
 ## mukta-m0-p53-v1311
-[direct-perception-etc](pratyakṣādi) [means-of-knowledge](pramāṇāni) [in-all-ways](sarvathā) [cause](kāraṇaṃ) [indeed-this](tvidam)
-
+perception+etc proof+all in-every-way cause indeed this
 ## mukta-m0-p53-v1312
-[of-someone](kasyāpi) [equality](samatā) [devi](devi) [threefold](trividhoyaṃ) [pramā-sequence](pramākramaḥ)
-
+of-any equality goddess threefold this proof+sequence
 ## mukta-m0-p53-v1313
-[buddhists](saugatāścaiva) [and](ca) [atomists](kāṇādā) [perception-inference](pratyakṣānumitījaguḥ)
-
+buddhists and also kanada-s perception+inference declared
 ## mukta-m0-p53-v1314
-[nyāya-partialists](nyāyaika) [and-others](deśinaścānye) [like-sāṃkhya](sāṃkhyavat) [declared](samudīritāḥ)
-
+nyaya-one partisans and others like-sankhya declared
 ## mukta-m0-p53-v1315
-[by-inference-of-absence](arthāpatyā) [with-these](sahaitāni) [four](catvāryapara) [others-said](ūcire)
-
+by-implication with-these four others said
 ## mukta-m0-p53-v1316
-[possibility](saṃbhavaitīha) [with-these](yuktaiḥ) [with-six](ṣaḍbhirmānaiśca) [some](kecana)
-
+possibility here by-those six proofs and some
 ## mukta-m0-p53-v1317
-[here](atrāntarbbhāvamanyonyaṃ) [disputants](vādinoyuktapaṇḍitāḥ)
-
+here mutual-inclusion mutual debaters skilled-pandits
 ## mukta-m0-p53-v1318
-[again](bhūyaḥ) [acceptance](parigraho) [of-whom](yasya) [yasya](yasya) [small-acceptance](svalpaparigrahaḥ)
-
+more acceptance of-whom of-whom small+acceptance
 ## mukta-m0-p53-v1319
-[those](ye) [do](kurvantī) [following](hamanvānāḥ) [in-scriptures](śāstreṣvalpaparigraham)
-
+who do following scriptures small+acceptance
 ## mukta-m0-p53-v1320
-[their](teṣāṃ) [view](mataṃ) [ca](ca) [shaking](dhūnvānāstarka) [with-bright-knots](granthibhirujvalaiḥ)
-
+their view and shaking logic knots by-bright
 ## mukta-m0-p53-v1321
-[thus](evaṃ) [sati](sati) [in-all](samasteṣu) [scriptures](śāstreṣu) [dispute](kalahaṃ) [order](kramaḥ)
-
+thus being in-all scriptures quarrel sequence
 ## mukta-m0-p53-v1322
-[superimposition-born](āropajaṃ) [reject](nirasyaṃti) [some](kecit) [self-taste-disputants](svarasavādinaḥ)
-
+superimposition-born reject some own-taste debaters
 ## mukta-m0-p53-v1323
-[of-superimposition](āropasya) [nature](svarūpantu) [I-will-tell](kathayāminagātmaje)
-
+of-superimposition nature but tell mountain+daughter
 ## mukta-m0-p53-v1324
-[clay](mṛttikākhalu) [indeed](sarveyaṃ) [earth](bhūmirnnānāvidhākṛtiḥ)
-
+clay indeed all this earth various+forms
 ## mukta-m0-p53-v1325
-[this](etat) [earth](bhūmī) [clay](mṛttikaivakuṃbhakṛtpāṇimardditā)
+this earth clay indeed potter hand+rubbed

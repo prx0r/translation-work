@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p51-v1251
-hear [kh: hear] your that-word-mine O middle-men
+[hear](śṛṇu) [your](te) [that-speech](tadvacomatkaṃ) [oh](bhobho) [middle-men](puruṣamadhyamāḥ)
 
 ## mukta-m0-p51-v1252
-in-self-ground and standing good-own-things in-things
+[in-self-ground](ātmabhūmau) [and](ca) [standing](tiṣṭhaṃtāṃ) [in-own-things](satsusviyyeṣu) [things](vastuṣu)
 
 ## mukta-m0-p51-v1253
-Astirama no-maha sun-lineage earth-lord
+[immovable](astirāmonāmahansūryavaṃśe) [king](mahīpatiḥ)
 
 ## mukta-m0-p51-v1254
-him followed Rama younger-brother dharma-possessing
+[him](tamanvagāyayaurāmamanujo) [righteous](dharmaśālinam)
 
 ## mukta-m0-p51-v1255
-with-her and accompanied-Rama youngest and in-forest
+[with-her](tayā) [and](ca) [with-Rama](sahitorāmaḥ) [with-younger](kaniṣṭhena) [and](ca) [in-forest](kānane)
 
 ## mukta-m0-p51-v1256
-ear by-ear-ornament Sita beauty-possessing
+[ears](karṇā) [with-karnika](karṇikayā) [made-ear](karṇyasītāṃ) [beauty-possessing](saundaryaśālinīm)
 
 ## mukta-m0-p51-v1257
-rooted-uprooted in-battle [kh: born] by-Raghava-alone-wandering
+[rooted-out](samūlonmūlito) [in-battle](saṃkhye) [by-Raghava](rāghaveṇaikacāriṇā)
 
 ## mukta-m0-p51-v1258
-foreign-land attachment-and not-went [kh: satva-] sometimes sometimes
+[foreign-land](parabhūmi) [attachment](prasaktiśca) [not-gone](natvayātāṃ) [somewhere](kvacit) [somewhere](kvacit)
 
 ## mukta-m0-p51-v1259
-alone foot-walking and vulture's became-Bali
+[alone](ekākī) [foot-walker](pādacārī) [and](ca) [of-vultures](gṛdhrāṇāmabhavadbaliḥ)
 
 ## mukta-m0-p51-v1260
-such-fall went Dhritarashtra's-son
+[such-fall](etādṛśavinīpātamagamaddhṛtarāṣṭrajaḥ)
 
 ## mukta-m0-p51-v1261
-deposit-here conduct firm-devotion-gone-fever
+[deposit-here-conduct](nikṣipasvamihācāramanuniṣṭhagatajvaraḥ)
 
 ## mukta-m0-p51-v1262
-fear-instruction-pierced mind-fault [kh: -split-mind-] without-agitation
+[fear-teaching-broken](bhetopadeśanirbhiṇāścittadoṣa) [without-grasping](nirāgrahāḥ)
 
 ## mukta-m0-p51-v1263
-then low men's indeed gift-form-instruction-from
+[then](atha) [low](nīca) [of-men](narāṇāṃ) [indeed](tu) [from-gift-form-teaching](dānarūpopadeśataḥ)
 
 ## mukta-m0-p51-v1264
-gift named desired-things' true-false-form-possessing
+[gift](dānaṃ) [named](nāmeṣṭavastūnāṃ) [true-false-form](satyāsatyasvarūpiṇām)
 
 ## mukta-m0-p51-v1265
-there Vyasa-etc said thus to-low-men
+[there](tatra) [Vyasa-etc](vyāsādayaḥ) [said-thus](procuevaṃ) [to-low-men](nīcanarānprati)
 
 ## mukta-m0-p51-v1266
-other's-wife go abstinence [kh: -tyat] merit-wealth
+[other-wives](paradārānuṣaṃ) [go](gācca) [from-abstinence](viratyā) [merit-wealth](puṇyasaṃpadaḥ)
 
 ## mukta-m0-p51-v1267
-other-thing from-grasping nirutyā [kh: nirantyā] wealth-arises
+[other-thing](paravastu) [from-grasping](grahaṇato) [without-end](nirutyā) [wealth-arises](saṃpadudbhavet)
 
 ## mukta-m0-p51-v1268
-by-this merit-path your happiness step step
+[by-this](anena) [merit-path](puṇyamārgeṇa) [your](tava) [happiness](saukhyaṃ) [step](pade) [step](pade)
 
 ## mukta-m0-p51-v1269
-you-will-attain
+[you-will-attain](samāpsyasi)
 
 ## mukta-m0-p51-v1270
-enticing good-conducts Vyasa-taught [kh: -taught-placed] placed
+[enticing](vipralobhya) [good-conduct](sadācārān) [Vyasa-taught](vyāsādhyātānvininvire)
 
 ## mukta-m0-p51-v1271
-severe-fasting [k: ...sa] suffering-etc also do men
+[severe-fasting](tīvropavāsa) [suffering-etc](duḥkhādyamapi) [do](kurvaṃti) [men](mānavāḥ)
 
 ## mukta-m0-p51-v1272
-therefore gift-instruction this low-mortals among urged
+[therefore-gift-teaching](atodānopadeśo'yaṃ) [low-mortals](nicamartyeṣu) [urged](coditaḥ)
 
 ## mukta-m0-p51-v1273
-many-fault-grasping's three-enclosure transgressing
+[many-fault-grasping](bahudoṣagrahavatāṃ) [three-enclosures](kakṣyātraya) [transgressing](vilaṃghinām)
 
 ## mukta-m0-p51-v1274
-among-them that-path adopting teach lowest-lowest
+[among-them](teṣu) [that-path](tanmārgamālambya) [teach](śikṣayantyadhamādhamān)
 
 ## mukta-m0-p51-v1275
-hand-cuttings foot-cuttings [kh: -dais] beatings needle-piercings
+[hand-cuttings](hastacchedaiḥ) [foot-cuttings](padacchedaiḥ) [beatings](tāḍanaiḥ) [needle-piercings](sūcivedhanaiḥ)
