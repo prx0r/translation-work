@@ -8,7 +8,7 @@
 "tokens": [
 {
 "surface": "ḍāmareśo",
-"quick_gloss": "lord-of-damara"
+"quick_gloss": "lord-of-ḍāmaras"
 },
 {
 "surface": "virūpākṣo",
@@ -70,7 +70,7 @@
 },
 {
 "surface": "virāgīno",
-"quick_gloss": "detached"
+"quick_gloss": "dispassionate"
 },
 {
 "surface": "vilāsī",
@@ -78,7 +78,7 @@
 },
 {
 "surface": "lāsyalālasaḥ",
-"quick_gloss": "eager-for-dance"
+"quick_gloss": "fond-of-dance"
 }
 ]
 },
@@ -98,7 +98,7 @@
 "quick_gloss": "meditable"
 },
 {
-"surface": "adhyeyaḥ",
+"surface": "adhyeyaśca",
 "quick_gloss": "unmeditable"
 },
 {
@@ -107,7 +107,7 @@
 },
 {
 "surface": "dharmamayo",
-"quick_gloss": "dharma-filled"
+"quick_gloss": "full-of-dharma"
 },
 {
 "surface": "dayaḥ",
@@ -123,12 +123,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "ḍulicakṣur",
-"quick_gloss": "cave-eyed"
-},
-{
-"surface": "darīvāso",
-"quick_gloss": "cave-dweller"
+"surface": "ḍulicakṣurdarīvāso",
+"quick_gloss": "ḍulicakṣu-resident"
 },
 {
 "surface": "dambhī",
@@ -136,7 +132,7 @@
 },
 {
 "surface": "devamayātmakaḥ",
-"quick_gloss": "god-filled-self"
+"quick_gloss": "divine-self"
 }
 ]
 },
@@ -152,7 +148,7 @@
 "quick_gloss": "saturn"
 },
 {
-"surface": "vegagatiḥ",
+"surface": "vegagati",
 "quick_gloss": "swift-moving"
 },
 {
@@ -160,12 +156,8 @@
 "quick_gloss": "talkative"
 },
 {
-"surface": "rāhuḥ",
-"quick_gloss": "rahu"
-},
-{
-"surface": "avyayaḥ",
-"quick_gloss": "imperishable"
+"surface": "rāhuravyayaḥ",
+"quick_gloss": "rāhu"
 }
 ]
 },
@@ -178,7 +170,7 @@
 "tokens": [
 {
 "surface": "bhargarūpabhṛt",
-"quick_gloss": "bearer-of-bhargas-form"
+"quick_gloss": "bhārgava-form"
 }
 ]
 },
@@ -191,7 +183,7 @@
 "tokens": [
 {
 "surface": "gajānanapriyo",
-"quick_gloss": "ganesha-lover"
+"quick_gloss": "gajānana-lover"
 },
 {
 "surface": "gīto",
@@ -220,15 +212,15 @@
 },
 {
 "surface": "virāḍvāso",
-"quick_gloss": "virat-garment"
+"quick_gloss": "virāṭ-resident"
 },
 {
-"surface": "vānaraḥ",
+"surface": "vānaro",
 "quick_gloss": "monkey"
 },
 {
 "surface": "amitakarmakṛt",
-"quick_gloss": "doer-of-boundless-deeds"
+"quick_gloss": "doer-of-endless-deeds"
 }
 ]
 },
@@ -241,7 +233,7 @@
 "tokens": [
 {
 "surface": "nandīśvaro",
-"quick_gloss": "nandishvara"
+"quick_gloss": "nandīśvara"
 },
 {
 "surface": "nayo",
@@ -265,20 +257,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "trilocanaḥ",
+"surface": "trilocanastrilokeśastrimūrtistripurāntakaḥ",
 "quick_gloss": "three-eyed"
-},
-{
-"surface": "trilokeśaḥ",
-"quick_gloss": "three-worlds-lord"
-},
-{
-"surface": "trimūrtiḥ",
-"quick_gloss": "three-formed"
-},
-{
-"surface": "tripurāntakaḥ",
-"quick_gloss": "tripura-destroyer"
 }
 ]
 },
@@ -298,16 +278,8 @@
 "quick_gloss": "pleased"
 },
 {
-"surface": "śambhuḥ",
-"quick_gloss": "shambhu"
-},
-{
-"surface": "tridhārūpaḥ",
-"quick_gloss": "three-stream-formed"
-},
-{
-"surface": "trivarṇabhāk",
-"quick_gloss": "three-varna-bearing"
+"surface": "śambhustridhārūpastrivarṇabhāk",
+"quick_gloss": "śambhu"
 }
 ]
 },
@@ -320,7 +292,7 @@
 "tokens": [
 {
 "surface": "tridhāguṇī",
-"quick_gloss": "three-guna-possessing"
+"quick_gloss": "three-guṇa"
 },
 {
 "surface": "viśvakartā",
@@ -352,16 +324,8 @@
 "quick_gloss": "wide-eyed"
 },
 {
-"surface": "avidhiḥ",
-"quick_gloss": "not-vidhi"
-},
-{
-"surface": "vidhiḥ",
-"quick_gloss": "vidhi"
-},
-{
-"surface": "anuttamaḥ",
-"quick_gloss": "unsurpassed"
+"surface": "avidhirvidhiranuttamaḥ",
+"quick_gloss": "not-unregulated"
 }
 ]
 },
@@ -382,15 +346,15 @@
 },
 {
 "surface": "smārto",
-"quick_gloss": "smarta"
+"quick_gloss": "smārta"
 },
 {
 "surface": "brahmā",
-"quick_gloss": "brahma"
+"quick_gloss": "brahmā"
 },
 {
-"surface": "brahmavidāṃvaraḥ",
-"quick_gloss": "best-of-brahma-knowers"
+"surface": "brahmavidāṃ varaḥ",
+"quick_gloss": "best-of-knowers"
 }
 ]
 },
@@ -402,16 +366,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "calācalaḥ",
+"surface": "calācalo",
 "quick_gloss": "moving-and-still"
 },
 {
-"surface": "acalagatiḥ",
-"quick_gloss": "motionless-moving"
-},
-{
-"surface": "vegī",
-"quick_gloss": "swift"
+"surface": "acalagatirvegī",
+"quick_gloss": "immobile-moving"
 },
 {
 "surface": "vīrādhipo",
@@ -419,7 +379,7 @@
 },
 {
 "surface": "varaḥ",
-"quick_gloss": "boon"
+"quick_gloss": "best"
 }
 ]
 },
@@ -439,7 +399,7 @@
 "quick_gloss": "all-formed"
 },
 {
-"surface": "sāgaraḥ",
+"surface": "sāgaraśca",
 "quick_gloss": "ocean"
 },
 {
@@ -457,7 +417,7 @@
 "tokens": [
 {
 "surface": "sarasvān",
-"quick_gloss": "wealthy-in-waters"
+"quick_gloss": "possessing-wealth"
 },
 {
 "surface": "satyavāk",
@@ -473,7 +433,7 @@
 },
 {
 "surface": "sudhīḥ",
-"quick_gloss": "good-minded"
+"quick_gloss": "wise"
 },
 {
 "surface": "sukhī",
@@ -490,7 +450,7 @@
 "tokens": [
 {
 "surface": "vasumān",
-"quick_gloss": "wealthy"
+"quick_gloss": "possessing-vasus"
 },
 {
 "surface": "vasudhānātho",
@@ -498,11 +458,11 @@
 },
 {
 "surface": "vasurūpo",
-"quick_gloss": "wealth-formed"
+"quick_gloss": "vasu-formed"
 },
 {
 "surface": "vasupradaḥ",
-"quick_gloss": "wealth-giver"
+"quick_gloss": "vasu-giver"
 }
 ]
 },
@@ -514,7 +474,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "īśaḥ",
+"surface": "īśo",
 "quick_gloss": "lord"
 },
 {
@@ -527,11 +487,11 @@
 },
 {
 "surface": "śeṣaśāyī",
-"quick_gloss": "remainder-sleeper"
+"quick_gloss": "śeṣa-reclining"
 },
 {
-"surface": "śriyaḥpatiḥ",
-"quick_gloss": "wealth-lord"
+"surface": "śriyaḥ patiḥ",
+"quick_gloss": "husband-of-śrī"
 }
 ]
 },
@@ -547,16 +507,12 @@
 "quick_gloss": "firm"
 },
 {
-"surface": "sthāṇuḥ",
+"surface": "sthāṇuraṇuḥ",
 "quick_gloss": "pillar"
 },
 {
-"surface": "aṇuḥ",
-"quick_gloss": "atom"
-},
-{
 "surface": "pīnaḥ",
-"quick_gloss": "fat"
+"quick_gloss": "slender"
 },
 {
 "surface": "pīnavakṣāḥ",
@@ -581,11 +537,11 @@
 },
 {
 "surface": "paśupatiḥ",
-"quick_gloss": "beast-lord"
+"quick_gloss": "paśupati"
 },
 {
 "surface": "paśujñānī",
-"quick_gloss": "beast-knower"
+"quick_gloss": "knower-of-beasts"
 },
 {
 "surface": "payonidhiḥ",
@@ -606,7 +562,7 @@
 },
 {
 "surface": "śubhaṅkaraḥ",
-"quick_gloss": "auspicious-doer"
+"quick_gloss": "auspicious-maker"
 },
 {
 "surface": "śobhyaḥ",
@@ -618,7 +574,7 @@
 },
 {
 "surface": "śacīpatiḥ",
-"quick_gloss": "shachi-lord"
+"quick_gloss": "śacī-lord"
 }
 ]
 },
@@ -630,16 +586,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "caturbhujaḥ",
+"surface": "caturbhujaścāṣṭabhujaḥ",
 "quick_gloss": "four-armed"
 },
 {
-"surface": "aṣṭabhujaḥ",
-"quick_gloss": "eight-armed"
-},
-{
 "surface": "sahasrabhujamaṇḍitaḥ",
-"quick_gloss": "thousand-armed-adorned"
+"quick_gloss": "thousand-armed-ornamented"
 }
 ]
 },
@@ -655,20 +607,12 @@
 "quick_gloss": "god"
 },
 {
-"surface": "mahodadhiḥ",
+"surface": "mahodadhirdivyo",
 "quick_gloss": "great-ocean"
 },
 {
-"surface": "divyo",
+"surface": "divyakīrtirdivākaraḥ",
 "quick_gloss": "divine"
-},
-{
-"surface": "divyakīrtiḥ",
-"quick_gloss": "divine-fame"
-},
-{
-"surface": "divākaraḥ",
-"quick_gloss": "sun"
 }
 ]
 }

@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p69-v1701
-[dwelling-at-twelve-end](dvādaśāntaikavasatiḥ) [twelve-souled](dvādaśātmā) [lord-of-days](divaspatiḥ)
+[twelve-end-one-abode](dvādaśāntaikavasatiḥ) [twelve-self](dvādaśātmā) [day-lord](divaspatiḥ)
 
 ## mukta-m0-p69-v1702
-[hard-to-meditate](durdhyeyaḥ) [destroyer-of-wicked-lineage](duṣṭavaṃśaghnaḥ) [lord-of-compassion](dayānāthaḥ) [abode-of-compassion](dayākulaḥ)
+[hard-to-meditate](durdhyeyaḥ) [wicked-line-destroyer](duṣṭavaṃśaghnaḥ) [compassion-lord](dayānāthaḥ) [compassion-abode](dayākulaḥ)
 
 ## mukta-m0-p69-v1703
-[friend-of-dharma](dharmabandhuḥ) [treasure-of-dharma](dharmanidhiḥ) [king-of-dharma](dharmarājaḥ) [giver-of-wealth](dhanapradaḥ)
+[dharma-friend](dharmabandhuḥ) [dharma-treasure](dharmanidhiḥ) [dharma-king](dharmarājaḥ) [wealth-giver](dhanapradaḥ)
 
 ## mukta-m0-p69-v1704
-[dwelling-in-dhūrjaṭi's-eye](dhūrjaṭīkṣaṇavāsī) [ca](ca) [field-of-dharma](dharmakṣetraḥ) [lord-of-earth](dharādhipaḥ)
+[śiva-eyed-resident](dhūrjaṭīkṣaṇavāsī) [dharma-field](dharmakṣetraḥ) [earth-lord](dharādhipaḥ)
 
 ## mukta-m0-p69-v1705
-[supporter-of-earth](dharābhṛt) [beloved](vallabhaḥ) [righteous](dharmī) [ornament-of-dhakāra](dhakārākṣarabhūṣaṇaḥ)
+[earth-bearer](dharābhṛt) [beloved](vallabhaḥ) [righteous](dharmī) [dha-letter-ornament](dhakārākṣarabhūṣaṇaḥ)
 
 ## mukta-m0-p69-v1706
-[beloved-of-lotus](nalinīvallabhaḥ) [impelled](nunnaḥ) [maker-of-dance](nāṭyakṛt) [increaser-of-dance](nāṭyavardhanaḥ)
+[lotus-beloved](nalinīvallabhaḥ) [bowed](nunnaḥ) [dance-maker](nāṭyakṛt) [dance-increaser](nāṭyavardhanaḥ)
 
 ## mukta-m0-p69-v1707
-[bowing](namantaḥ) [subduer-of-foes](namitārātiḥ) [refuge-of-nara-nārāyaṇa](naranārāyaṇāśrayaḥ)
+[bowing](namantaḥ) [enemy-bender](namitārātiḥ) [nara-nārāyaṇa-refuge](naranārāyaṇāśrayaḥ)
 
 ## mukta-m0-p69-v1708
-[sound-form](nādarūpaḥ) [sound-filled](nādamayaḥ) [essence-of-sound-bindu](nādabindusvarūpakaḥ)
+[sound-form](nādarūpaḥ) [sound-filled](nādamayaḥ) [sound-bindu-form](nādabindusvarūpakaḥ)
 
 ## mukta-m0-p69-v1709
-[abiding-in-heaven](nākasthitaḥ) [many-formed](anekavapuḥ) [mother-of-nakāra](nakārākṣaramātṛkaḥ)
+[heaven-dweller](nākasthitaḥ) [many-bodied](anekavapuḥ) [na-letter-mother](nakārākṣaramātṛkaḥ)
 
 ## mukta-m0-p69-v1710
-[dear-to-love](prītipriyaḥ) [maker-of-affection](premakaraḥ) [remover-of-fear-of-devotees](praṇatārtibhayāpahaḥ)
+[love-dear](prītipriyaḥ) [love-maker](premakaraḥ) [bowed-affliction-fear-remover](praṇatārtibhayāpahaḥ)
 
 ## mukta-m0-p69-v1711
-[full-of-bliss](pūrṇānandamayaḥ) [full-of-radiance](pūrṇatejāḥ) [lord-of-full-īśvarī](pūrṇeśvarīśvaraḥ)
+[full-bliss-filled](pūrṇānandamayaḥ) [full-splendor](pūrṇatejāḥ) [full-lord-of-lords](pūrṇeśvarīśvaraḥ)
 
 ## mukta-m0-p69-v1712
-[supreme-body](parameśavapuḥ) [tall](prāṃśuḥ) [intoxicated](pramattaḥ) [giver-of-desired-to-devotees](praṇateṣṭadaḥ)
+[supreme-lord-body](parameśavapuḥ) [tall](prāṃśuḥ) [intoxicated](pramattaḥ) [bowed-desired-giver](praṇateṣṭadaḥ)
 
 ## mukta-m0-p69-v1713
-[cooker](pācanaḥ) [picula](piculaḥ) [burnt](pluṣṭaḥ) [giver-of-joy-to-women](pramadājanasaukhyadaḥ)
+[cooker](pācanaḥ) [sticky](piculaḥ) [burnt](pluṣṭaḥ) [women-happiness-giver](pramadājanasaukhyadaḥ)
 
 ## mukta-m0-p69-v1714
-[fruit-of-enjoyment-and-liberation](phalaṃ-bhogāpavargasya) [lord-of-phalinī](phalinīśaḥ) [essence-of-fruit](phalātmakaḥ)
+[fruit-of-enjoyment-liberation](phalaṃ bhogāpavargasya) [fruit-tree-lord](phalinīśaḥ) [fruit-natured](phalātmakaḥ)
 
 ## mukta-m0-p69-v1715
-[child](bālaḥ) [lover-of-strength](balapriyaḥ) [emitted](bāntaḥ) [remover-of-cave-darkness](biladhvāntaharaḥ) [strong](balī)
+[child](bālaḥ) [strength-dear](balapriyaḥ) [emitted](bāntaḥ) [cave-darkness-remover](biladhvāntaharaḥ) [strong](balī)
 
 ## mukta-m0-p69-v1716
-[wise](budhaḥ) [bṛhaspati](bṛhaspatiḥ) [tree](vṛkṣaḥ) [great-horse](bṛhadaśvaḥ) [great-course](bṛhadgatiḥ)
+[wise](budhaḥ) [jupiter](bṛhaspatiḥ) [tree](vṛkṣaḥ) [great-horse](bṛhadaśvaḥ) [great-course](bṛhadgatiḥ)
 
 ## mukta-m0-p69-v1717
-[bhaga](bhagaḥ) [bhṛgu](bhṛguḥ) [abiding-in-bhṛgu](bhṛgusthāyī) [bhārgava](bhārgavaḥ) [crest-of-poets](kaviśekharaḥ)
+[fortune](bhagaḥ) [bhṛgu](bhṛguḥ) [bhṛgu-dweller](bhṛgusthāyī) [bhārgava](bhārgavaḥ) [poet-chief](kaviśekharaḥ)
 
 ## mukta-m0-p69-v1718
-[great-time](mahākālaḥ) [great-superintendent](mahādhyakṣaḥ) [great-sound](mahānādaḥ) [great-intellect](mahāmatiḥ)
+[great-time](mahākālaḥ) [great-superintendent](mahādhyakṣaḥ) [great-sound](mahānādaḥ) [great-mind](mahāmatiḥ)
 
 ## mukta-m0-p69-v1719
-[giver-of-honor](mānadaḥ) [slayer-of-wrestlers](mallahā) [wrestler](mallaḥ) [abode-of-meru-mandara](merumandaramandiraḥ)
+[honor-giver](mānadaḥ) [wrestler-slayer](mallahā) [wrestler](mallaḥ) [meru-mandara-abode](merumandaramandiraḥ)
 
 ## mukta-m0-p69-v1720
-[delighted](moditaḥ) [consumer-of-wine](madirāhāraḥ) [sun](mārtaṇḍaḥ) [shaven-head](muṇḍamuṇḍitaḥ)
+[delighted](moditaḥ) [wine-consumer](madirāhāraḥ) [sun](mārtaṇḍaḥ) [shaved-head](muṇḍamuṇḍitaḥ)
 
 ## mukta-m0-p69-v1721
-[lazy-intoxicated](madālasaḥ) [praised-by-immortals](amarastutyaḥ) [bestower-of-murāri's-boon](murārivaradaḥ) [manu](manuḥ)
+[delicate](madālasaḥ) [god-praised](amarastutyaḥ) [murāri-boon-giver](murārivaradaḥ) [manu](manuḥ)
 
 ## mukta-m0-p69-v1722
-[garlanded](mālyavān) [medhana](medhanaḥ) [kāma](māraḥ) [intelligent](medhāvī) [mace-armed](musalāyudhaḥ)
+[garlanded](mālyavān) [medha](medhanaḥ) [love-god](māraḥ) [wise](medhāvī) [mace-armed](musalāyudhaḥ)
 
 ## mukta-m0-p69-v1723
-[cupid](madanaḥ) [consumer-of-sweets](modakāhāraḥ) [mother-of-makāra](makārākṣaramātṛkaḥ)
+[love-god](madanaḥ) [sweet-food-consumer](modakāhāraḥ) [ma-letter-mother](makārākṣaramātṛkaḥ)
 
 ## mukta-m0-p69-v1724
-[pilgrim](yātrikaḥ) [giver-of-sacrifice-fruit](yajñaphaladaḥ) [moving](yāyī) [leader-of-yāmala](yāmalanāyakaḥ)
+[pilgrim](yātrikaḥ) [sacrifice-fruit-giver](yajñaphaladaḥ) [goer](yāyī) [yāmala-leader](yāmalanāyakaḥ)
 
 ## mukta-m0-p69-v1725
-[staff-bearer](yaṣṭidhārī) [ca](ca) [lord-of-machines](yantreśaḥ) [situated-in-yoni-circle](yonimaṇḍalamadhyagaḥ)
+[staff-holder](yaṣṭidhārī) [yantra-lord](yantreśaḥ) [yoni-circle-middle-goer](yonimaṇḍalamadhyagaḥ)

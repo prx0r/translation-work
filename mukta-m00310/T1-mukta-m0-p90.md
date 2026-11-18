@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p90-v2226
-[lord-of-damara](ḍāmareśo) [odd-eyed](virūpākṣo) [world-enjoyer](viśvabhoktā) [fire](vibhāvasuḥ)
+[lord-of-ḍāmaras](ḍāmareśo) [odd-eyed](virūpākṣo) [world-enjoyer](viśvabhoktā) [fire](vibhāvasuḥ)
 
 ## mukta-m0-p90-v2227
 [guide](vinetā) [humble](vinayī) [speaker](vādī) [vomiter](vāntado) [speech-born](vāgbhavo) [youth](vaṭuḥ)
 
 ## mukta-m0-p90-v2228
-[enemy-of-virādha](virādheyo) [detached](virāgīno) [playful](vilāsī) [eager-for-dance](lāsyalālasaḥ)
+[enemy-of-virādha](virādheyo) [dispassionate](virāgīno) [playful](vilāsī) [fond-of-dance](lāsyalālasaḥ)
 
 ## mukta-m0-p90-v2229
-[wealthy](dhanī) [meditable](dhyeyo) [unmeditable](adhyeyaḥ) [righteous](dharmyo) [dharma-filled](dharmamayo) [compassion](dayaḥ)
+[wealthy](dhanī) [meditable](dhyeyo) [unmeditable](adhyeyaśca) [righteous](dharmyo) [full-of-dharma](dharmamayo) [compassion](dayaḥ)
 
 ## mukta-m0-p90-v2230
-[cave-eyed](ḍulicakṣur) [cave-dweller](darīvāso) [hypocrite](dambhī) [god-filled-self](devamayātmakaḥ)
+[ḍulicakṣu-resident](ḍulicakṣurdarīvāso) [hypocrite](dambhī) [divine-self](devamayātmakaḥ)
 
 ## mukta-m0-p90-v2231
-[saturn](śanaiścaro) [swift-moving](vegagatiḥ) [talkative](vācālo) [rahu](rāhuḥ) [imperishable](avyayaḥ)
+[saturn](śanaiścaro) [swift-moving](vegagati) [talkative](vācālo) [rāhu](rāhuravyayaḥ)
 
 ## mukta-m0-p90-v2232
-[bearer-of-bhargas-form](bhargarūpabhṛt)
+[bhārgava-form](bhargarūpabhṛt)
 
 ## mukta-m0-p90-v2233
-[ganesha-lover](gajānanapriyo) [sung](gīto) [singer](gānī) [bath-worship-lover](snānārcanapriyaḥ)
+[gajānana-lover](gajānanapriyo) [sung](gīto) [singer](gānī) [bath-worship-lover](snānārcanapriyaḥ)
 
 ## mukta-m0-p90-v2234
-[supreme-self](parātmako) [virat-garment](virāḍvāso) [monkey](vānaraḥ) [doer-of-boundless-deeds](amitakarmakṛt)
+[supreme-self](parātmako) [virāṭ-resident](virāḍvāso) [monkey](vānaro) [doer-of-endless-deeds](amitakarmakṛt)
 
 ## mukta-m0-p90-v2235
-[nandishvara](nandīśvaro) [leader](nayo) [serpent](nāgo) [serpent-ornamented](nāgālaṅkāramaṇḍitaḥ)
+[nandīśvara](nandīśvaro) [leader](nayo) [serpent](nāgo) [serpent-ornamented](nāgālaṅkāramaṇḍitaḥ)
 
 ## mukta-m0-p90-v2236
-[three-eyed](trilocanaḥ) [three-worlds-lord](trilokeśaḥ) [three-formed](trimūrtiḥ) [tripura-destroyer](tripurāntakaḥ)
+[three-eyed](trilocanastrilokeśastrimūrtistripurāntakaḥ)
 
 ## mukta-m0-p90-v2237
-[addicted](vyasanī) [pleased](toṣitaḥ) [shambhu](śambhuḥ) [three-stream-formed](tridhārūpaḥ) [three-varna-bearing](trivarṇabhāk)
+[addicted](vyasanī) [pleased](toṣitaḥ) [śambhu](śambhustridhārūpastrivarṇabhāk)
 
 ## mukta-m0-p90-v2238
-[three-guna-possessing](tridhāguṇī) [world-creator](viśvakartā) [world-sustainer](viśvabhartā) [supreme-person](adhipūruṣaḥ)
+[three-guṇa](tridhāguṇī) [world-creator](viśvakartā) [world-sustainer](viśvabhartā) [supreme-person](adhipūruṣaḥ)
 
 ## mukta-m0-p90-v2239
-[discriminating-eyed](vivekākṣo) [wide-eyed](viśālākṣo) [not-vidhi](avidhiḥ) [vidhi](vidhiḥ) [unsurpassed](anuttamaḥ)
+[discriminating-eyed](vivekākṣo) [wide-eyed](viśālākṣo) [not-unregulated](avidhirvidhiranuttamaḥ)
 
 ## mukta-m0-p90-v2240
-[remembering](smṛtimān) [memory-giver](smṛtidaḥ) [smarta](smārto) [brahma](brahmā) [best-of-brahma-knowers](brahmavidāṃvaraḥ)
+[remembering](smṛtimān) [memory-giver](smṛtidaḥ) [smārta](smārto) [brahmā](brahmā) [best-of-knowers](brahmavidāṃ varaḥ)
 
 ## mukta-m0-p90-v2241
-[moving-and-still](calācalaḥ) [motionless-moving](acalagatiḥ) [swift](vegī) [hero-lord](vīrādhipo) [boon](varaḥ)
+[moving-and-still](calācalo) [immobile-moving](acalagatirvegī) [hero-lord](vīrādhipo) [best](varaḥ)
 
 ## mukta-m0-p90-v2242
-[all-pervading](sarvavyāpī) [all-formed](sarvarūpaḥ) [ocean](sāgaraḥ) [same-lord](sameśvaraḥ)
+[all-pervading](sarvavyāpī) [all-formed](sarvarūpaḥ) [ocean](sāgaraśca) [same-lord](sameśvaraḥ)
 
 ## mukta-m0-p90-v2243
-[wealthy-in-waters](sarasvān) [truth-speaking](satyavāk) [truth](satyaḥ) [truth-formed](satyarūpaḥ) [good-minded](sudhīḥ) [happy](sukhī)
+[possessing-wealth](sarasvān) [truth-speaking](satyavāk) [truth](satyaḥ) [truth-formed](satyarūpaḥ) [wise](sudhīḥ) [happy](sukhī)
 
 ## mukta-m0-p90-v2244
-[wealthy](vasumān) [earth-lord](vasudhānātho) [wealth-formed](vasurūpo) [wealth-giver](vasupradaḥ)
+[possessing-vasus](vasumān) [earth-lord](vasudhānātho) [vasu-formed](vasurūpo) [vasu-giver](vasupradaḥ)
 
 ## mukta-m0-p90-v2245
-[lord](īśaḥ) [remainder](avaśeṣo) [having-parts](avayavī) [remainder-sleeper](śeṣaśāyī) [wealth-lord](śriyaḥpatiḥ)
+[lord](īśo) [remainder](avaśeṣo) [having-parts](avayavī) [śeṣa-reclining](śeṣaśāyī) [husband-of-śrī](śriyaḥ patiḥ)
 
 ## mukta-m0-p90-v2246
-[firm](sthiraḥ) [pillar](sthāṇuḥ) [atom](aṇuḥ) [fat](pīnaḥ) [broad-chested](pīnavakṣāḥ) [beyond-beyond](parātparaḥ)
+[firm](sthiraḥ) [pillar](sthāṇuraṇuḥ) [slender](pīnaḥ) [broad-chested](pīnavakṣāḥ) [beyond-beyond](parātparaḥ)
 
 ## mukta-m0-p90-v2247
-[beast-formed](paśurūpaḥ) [beast-lord](paśupatiḥ) [beast-knower](paśujñānī) [milk-ocean](payonidhiḥ)
+[beast-formed](paśurūpaḥ) [paśupati](paśupatiḥ) [knower-of-beasts](paśujñānī) [milk-ocean](payonidhiḥ)
 
 ## mukta-m0-p90-v2248
-[trident-bearer](śūlī) [auspicious-doer](śubhaṅkaraḥ) [shining](śobhyaḥ) [good-doer](śubhakartā) [shachi-lord](śacīpatiḥ)
+[trident-bearer](śūlī) [auspicious-maker](śubhaṅkaraḥ) [shining](śobhyaḥ) [good-doer](śubhakartā) [śacī-lord](śacīpatiḥ)
 
 ## mukta-m0-p90-v2249
-[four-armed](caturbhujaḥ) [eight-armed](aṣṭabhujaḥ) [thousand-armed-adorned](sahasrabhujamaṇḍitaḥ)
+[four-armed](caturbhujaścāṣṭabhujaḥ) [thousand-armed-ornamented](sahasrabhujamaṇḍitaḥ)
 
 ## mukta-m0-p90-v2250
-[god](devo) [great-ocean](mahodadhiḥ) [divine](divyo) [divine-fame](divyakīrtiḥ) [sun](divākaraḥ)
+[god](devo) [great-ocean](mahodadhirdivyo) [divine](divyakīrtirdivākaraḥ)
