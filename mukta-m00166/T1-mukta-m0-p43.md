@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p43-v1051
-[yellow](pītā) [feminine](pītā) [nominative](pītā) [singular](pītā)
+[yellow](pītā) [yellow](pītā) [yellow](pītā) [yellow](pītā)
 
 ## mukta-m0-p43-v1052
 [sung](gītā) [yellow](pītā) [for-welfare](hitāyāstu) [mother](mātā) [brother](bhātā) [of-good](satāṃ) [in-heart](hṛdi)
 
 ## mukta-m0-p43-v1053
-[mottled](karburā) [goddess](devatā) [may-be](bhūyād) [burden-removing](bhavabhārāpahāriṇī)
+[variegated](karburā) [variegated](karburā) [variegated](karburā) [variegated](karburā)
 
 ## mukta-m0-p43-v1054
-[mottled](karburā) [goddess](devatā) [may-be](bhūyād) [burden-removing](bhavabhārāpahāriṇī)
+[variegated](karburā) [goddess](devatā) [may-be](bhūyād) [existence](bhava)+[burden](bhāra)+[removing](apahāriṇī)
 
 ## mukta-m0-p43-v1055
-[hunger](kṣudhā) [goddess](devī) [conquers](jayatyeṣā) [all-elements-single-seed](sarvadhātvekabījabhūḥ)
+[hunger](kṣudhā) [hunger](kṣudhā) [hunger](kṣudhā) [hunger](kṣudhā)
 
 ## mukta-m0-p43-v1056
-[hunger](kṣudhā) [goddess](devī) [conquers](jayatyeṣā) [all-elements-single-seed](sarvadhātvekabījabhūḥ)
+[hunger](kṣudhā) [goddess](devī) [conquers](jayatyeṣā) [all-tissues-single-seed](sarvadhātvekabījabhūḥ)
 
 ## mukta-m0-p43-v1057
-[thirst](tṛṣṇā) [conquers](jayatyasau) [ocean-drying-cause](yannunno'bdhiviśoṣaikahetustṛṣṇā)
+[thirst](tṛṣṇā) [thirst](tṛṣṇā) [thirst](tṛṣṇā) [thirst](tṛṣṇā)
 
 ## mukta-m0-p43-v1058
-[thirst](tṛṣṇā) [conquers](jayatyasau) [ocean-drying-cause](yannunno'bdhiviśoṣaikahetustṛṣṇā)
+[that](yannunno) [ocean-drying](abdhi+viśoṣa)+[sole-cause](ekahetuḥ) [thirst](tṛṣṇā) [conquers](jayatyasau)
 
 ## mukta-m0-p43-v1059
-[old-age-grown](jarāvṛddhā) [wonder](citraṃ) [that-too](sāpi) [makes-old](kriyānmama) [old-age](jarājarām)
+[old-age](jarā)+[aged](vṛddhā) [old-age](jarā)+[aged](vṛddhā) [old-age](jarā)+[aged](vṛddhā) [old-age](jarā)+[aged](vṛddhā)
 
 ## mukta-m0-p43-v1060
-[old-age-grown](jarāvṛddhā) [wonder](citraṃ) [that-too](sāpi) [makes-old](kriyānmama) [old-age](jarājarām)
+[wonderful](citraṃ) [she-too](sāpi) [old-age](jarā)+[aged](vṛddhā) [acts](kriyān)+[my](mama)+[old-age](jarājarām)
 
 ## mukta-m0-p43-v1061
-[young-woman](taruṇī) [beyond](paraṃ) [laughter-only](hāsyamātraprasādaḥ)
+[youthful](taruṇī) [youthful](taruṇī) [youthful](taruṇī) [youthful](taruṇī)
 
 ## mukta-m0-p43-v1062
-[young-woman](taruṇī) [beyond](paraṃ) [laughter-only](hāsyamātraprasādaḥ)
+[of-youthful](taruṇyāḥ) [supreme](paraṃ) [laughter-only](hāsyamātra)+[grace](prasādaḥ)
 
 ## mukta-m0-p43-v1063
-[compassion-abode](karuṇālayā) [you-remove](dūrīkaroṣi) [not-from](yannāto) [sung](gīyase)
+[compassion-abode](karuṇālayā) [compassion-abode](karuṇālayā) [compassion-abode](karuṇālayā) [compassion-abode](karuṇālayā)
 
 ## mukta-m0-p43-v1064
-[compassion-abode](karuṇālayā) [you-remove](dūrīkaroṣi) [not-from](yannāto) [sung](gīyase)
+[you-remove](dūrīkaroṣi) [since](yannāto) [sung](gīyase) [compassion-abode](karuṇālayā)
 
 ## mukta-m0-p43-v1065
-[art](kalā) [all](sakalā) [not](na) [under-control](vaśe) [what](kiṃ) [syuḥ](syuḥ) [hand-garland](karamālātulāḥ) [arts](kalāḥ)
+[art](kalā) [art](kalā) [art](kalā) [art](kalā)
 
 ## mukta-m0-p43-v1066
-[art](kalā) [all](sakalā) [not](na) [under-control](vaśe) [what](kiṃ) [syuḥ](syuḥ) [hand-garland](karamālātulāḥ) [arts](kalāḥ)
+[all](sakalā) [not](na) [under-control](vaśe) [what](kiṃ) [syuḥ](syuḥ) [hand-garland](karamālā)+[equal](tulāḥ) [arts](kalāḥ)
 
 ## mukta-m0-p43-v1067
-[wood](kāṣṭhā) [perish](naśyet) [moment](kṣaṇena) [of-devotees](bhaktānāṃ) [by-grace](prasādataḥ)
+[limit](kāṣṭhā) [limit](kāṣṭhā) [limit](kāṣṭhā) [limit](kāṣṭhā)
 
 ## mukta-m0-p43-v1068
-[wood](kāṣṭhā) [perish](naśyet) [moment](kṣaṇena) [of-devotees](bhaktānāṃ) [by-grace](prasādataḥ)
+[perish](naśyet) [moment](kṣaṇena) [of-devotees](bhaktānāṃ) [limit](kāṣṭhā)+[this](etyasyāḥ) [grace](prasādataḥ)
 
 ## mukta-m0-p43-v1069
-[moment](muhūrtā) [form](svarūpaṃ) [famous](prathitā) [on-earth](bhūmau) [auspicious](śivāya) [to-you](vaḥ)
+[moment](muhūrtā) [moment](muhūrtā) [moment](muhūrtā) [moment](muhūrtā)
 
 ## mukta-m0-p43-v1070
-[moment](muhūrtā) [form](svarūpaṃ) [famous](prathitā) [on-earth](bhūmau) [auspicious](śivāya) [to-you](vaḥ)
+[own-form](svarūpaṃ) [renowned](prathitā) [on-earth](bhūmau) [moments](muhūrtāstu) [auspicious](śivāya) [to-you](vaḥ)
 
 ## mukta-m0-p43-v1071
-[blink](nimeṣā) [supreme-lady](pareśānī) [all-special-boon-giving](viśeṣāśeṣabhūtidā)
+[blink](nimeṣā) [blink](nimeṣā) [blink](nimeṣā) [blink](nimeṣā)
 
 ## mukta-m0-p43-v1072
-[blink](nimeṣā) [supreme-lady](pareśānī) [all-special-boon-giving](viśeṣāśeṣabhūtidā)
+[blinks](nimeṣāstu) [supreme-lady](pareśānī) [special](viśeṣa)+[all](aśeṣa)+[prosperity-giving](bhūtidā)
 
 ## mukta-m0-p43-v1073
-[time-formed](kālarūpiṇī) [planet-sign-circle-inferable](graharāśibhacakrakānumeyā) [famous](prathitā) [indeed](sā) [that](kila) [time-formed](kālarūpiṇīti)
+[time-formed](kālarūpiṇī) [time-formed](kālarūpiṇī) [time-formed](kālarūpiṇī) [time-formed](kālarūpiṇī)
 
 ## mukta-m0-p43-v1074
-[time-formed](kālarūpiṇī) [planet-sign-circle-inferable](graharāśibhacakrakānumeyā) [famous](prathitā) [indeed](sā) [that](kila) [time-formed](kālarūpiṇīti)
+[planet-sign](graha+rāśi)+[zodiac](bhacakra)+[inferable](anumeyā) [renowned](prathitā) [she](sā) [indeed](kila) [time-formed](kālarūpiṇī)+[thus](ti)
 
 ## mukta-m0-p43-v1075
-[good-ear-tongue](sukarṇarasanā) [good-ear-tongue](sukarṇarasanā) [good-ear-tongue](sukarṇarasanā) [good-ear-tongue](sukarṇarasanā)
+[good-ear](sukarṇa)+[tongue](rasanā) [good-ear](sukarṇa)+[tongue](rasanā) [good-ear](sukarṇa)+[tongue](rasanā) [good-ear](sukarṇa)+[tongue](rasanā)
