@@ -2,52 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p72-v1776
-earth water so fire air space indeed and
+[earth](kṣitirjalaṃ) [water](jalaṃ) [and](tathā) [fire](tejo) [air](vāyurākāśa) [space](ākāśa) [indeed](eva) [and](ca)
+
 ## mukta-m0-p72-v1777
-hearing seeing smelling touching taste awakening
+[hearing](śravaṇaṃ) [seeing](darśanaṃ) [smelling](ghrāṇaṃ) [touching](sparśanaṃ) [taste](rasa) [knowledge](bodhanam)
+
 ## mukta-m0-p72-v1778
-twenty-four principles power here separate separate
+[twenty-four](caturviṃśati) [principles](tattvāni) [power](śaktiratra) [here](atra) [separate](pṛthak) [separate](pṛthak)
+
 ## mukta-m0-p72-v1779
-now hear desire I various power enumeration
+[now](adhunā) [to-hear](śrotumicchāmi) [I-desire](icchāmi) [that-that](tattat) [power-praise](śaktyanukīrttanam)
+
 ## mukta-m0-p72-v1780
-to-speak not indeed able brahma-world-end even parvati
+[to-tell](gadituṃ) [not-indeed](naiva) [I-am-able](śaknomi) [at-end-of-brahma-world](brahmāṇḍānte'pi) [even](api) [O-Parvati](pārvati)
+
 ## mukta-m0-p72-v1781
-among them best [creation] form fourteen supreme-soul
+[among-them](tāsāṃ) [middle](madhye) [best](śreṣṭha) [form](rūpā) [fourteen](caturddaśa) [supreme-soul](parātmikā)
+
 ## mukta-m0-p72-v1782
-power said great-lady
+[power](śaktiruktā) [said](uktā) [O-Maheshvari](maheśvari)
+
 ## mukta-m0-p72-v1783
-threefold-one-said [threefold-one-soul] action-soul
+[threefold-one-said](tridhaikoktā) [action-soul](kriyātmikā)
+
 ## mukta-m0-p72-v1784
-without ego-only a-little not arises
+[without-ego-only](vināhaṅkāramātreṇa) [a-little](kiñcinmātraṃ) [only](mātraṃ) [not](na) [arises](jāyate)
+
 ## mukta-m0-p72-v1785
-ego's stainlessness I brahman thus spoken
+[of-ego](ahaṅkārasya) [from-stainlessness](nirlepādahaṃ) [I](ahaṃ) [am-Brahman](brahmeti) [thus](iti) [is-spoken](bhāṣyate)
+
 ## mukta-m0-p72-v1786
-as
+[as](yathā)
+
 ## mukta-m0-p72-v1787
-so body great-lady embodied-within manifested
+[thus](tathā) [body](deho) [O-Maheshani](maheśāni) [in-body-middle](dehimadhye) [manifested](prakāśitaḥ)
+
 ## mukta-m0-p72-v1788
-wave bubble destruction water-only no doubt
+[wave](taraṅga) [bubble](budbudau) [in-destruction](nāśe) [water-only](toyamātraṃ) [not](na) [doubt](saṃśayaḥ)
+
 ## mukta-m0-p72-v1789
-body-destruction so body alone-I stainless
+[body-destruction](dehanāśe) [thus](tathā) [body](deho) [alone-I](kevalo'haṃ) [stainless](nirañjanaḥ)
+
 ## mukta-m0-p72-v1790
-awakening but supreme principle alone-I stainless
+[awakening](prabodhe) [but](tu) [supreme](pare) [principle](tattve) [alone-I](kevalo'haṃ) [stainless](nirañjanaḥ)
+
 ## mukta-m0-p72-v1791
-established
+[established](saṃsthitam)
+
 ## mukta-m0-p72-v1792
-dissolved indeed again in-that earth tree-like [brahman-like] parvati
+[dissolved](pralīnaṃ) [indeed](hi) [again](punastasmin) [in-that](tasmin) [earth](kṣitau) [like-tree](vṛkṣeva) [O-Parvati](pārvati)
+
 ## mukta-m0-p72-v1793
-created and again from-that by-own-will own illusion
+[is-created](sṛjyate) [and](ca) [again](punastasmāt) [from-that](tasmāt) [by-own-will](svecchayā) [own](nija) [by-maya](māyayā)
+
 ## mukta-m0-p72-v1794
-all indeed truly this brahman other not-exists anything
+[all](sarvaṃ) [indeed](hi) [truly](khalvidaṃ) [this](idaṃ) [Brahman](brahma) [other-not-is](tadanyannāsti) [anything](kiñcana)
+
 ## mukta-m0-p72-v1795
-immovable movable pervaded I-bow world-filled
+[immovable](sthāvaraṃ) [movable](jaṅgamaṃ) [pervaded](vyāptaṃ) [I-bow](praṇamāmi) [world-filled](jaganmayam)
+
 ## mukta-m0-p72-v1796
-action-transcended action-endowed all pervading-one established
+[beyond-action](kriyātītaṃ) [action-endowed](kriyāyuktaṃ) [all](sarvaṃ) [pervading-one](vyāpyaika) [established](saṃsthitam)
+
 ## mukta-m0-p72-v1797
-changeless change-affected all pervading-one established
+[changeless](nirvikāraṃ) [change-affected](vikārāktaṃ) [all](sarvaṃ) [pervading-one](vyāpyaika) [established](saṃsthitam)
+
 ## mukta-m0-p72-v1798
-sacrifice-knowledge than-other not knowledge that-brahman thus ascertain
+[from-sacrificial-knowledge](yajajñānānnāparaṃ) [no-other](nāparaṃ) [knowledge](jñānaṃ) [that-Brahman](tadbrahme) [thus](tyavadhārayet) [ascertain](avadhārayet)
+
 ## mukta-m0-p72-v1799
-sun dissolves in-air air dissolves and in-space
+[sun](ravirvilīyate) [dissolves](vilīyate) [in-air](vāyau) [air](vāyurvilīyate) [dissolves](vilīyate) [and](ca) [in-space](khe)
+
 ## mukta-m0-p72-v1800
-shiva dissolves in-power then brahman determination
+[Shiva](śivo) [dissolves](vilīyate) [in-power](śaktau) [then](tato) [Brahman](brahma) [determination](nirūpaṇam)
