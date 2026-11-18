@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p64-v1576
-[chief+artisan-acc](pradhānaśilpinaṃ) [likewise](tadvat) [fragrance+flower-ins-pl](dandhapuṣpais) [and](tathā) [others-acc-pl](itarān)
+[chief](pradhāna)+[artisan](śilpinaṃ) [likewise](tadvat) [staff](daṇḍa)+[flowers](puṣpaiḥ) [and-so](tathā) [others](itarān)
 
 ## mukta-m0-p64-v1577
-[your+foot+grace-abl](bhavatpādaprasādān) [to-me](me) [entire-acc](kṛtsnaṃ) [sacrifice+fruit-nom](yāgaphalaṃ) [may-be](bhavet)
+[your](bhavat)+[foot](pāda)+[grace](prasādāt) [to-me](me) [entire](kṛtsnaṃ) [sacrifice](yāga)+[fruit](phalaṃ) [may-be](bhavet)
 
 ## mukta-m0-p64-v1578
-[foot+clinging-nom](pādalagno) [should-say](vadet) [doer-nom](kartā) [do-imp](kuru) [action](karma) [your+command-ins](tvadājñayā)
+[foot](pāda)+[clinging](lagno) [should-say](vadet) [doer](kartā) [do](kuru) [gh:](kuyuḥ) [(rve)](rve) [action](karma) [your](tvat)+[command](ājñayā)
 
 ## mukta-m0-p64-v1579
-[having-washed](prakṣālya) [hand+foot-acc](pāṇipādaṃ) [and](ca) [thrice](triḥ) [should-drink](pibed) [water-acc](ambu) [strained-acc](vītritam)
+[having-washed](prakṣālya) [hand](pāṇi)+[foot](pādaṃ) [and](ca) [thrice](triḥ) [should-drink](pibet) [water](ambu) [strained](vītritam)
 
 ## mukta-m0-p64-v1580
-[saṃhitā-ins-pl](saṃhitābhis) [three-ins](tribhiḥ) [first](pūrvam) [mouth-acc](āsyam) [thus](evam) [should-sip](upaspṛśet)
+[with-saṃhitās](saṃhitābhiḥ) [three](tribhiḥ) [first](pūrvam) [mouth](āsyam) [thus](evam) [should-touch](upaspṛśet)
 
 ## mukta-m0-p64-v1581
-[thumb+ring-finger-ins-du](aṅgūṣṭhānāmikābhyāṃ) [and](tu) [eye+ear-acc-du](cakṣuḥśrotre) [again](punaḥ) [again](punaḥ)
+[thumb](aṅgūṣṭha)+[ring-finger](anāmikābhyāṃ) [but](tu) [eye](cakṣuḥ)+[ear](śrotre) [again](punaḥ) [again](punaḥ)
 
 ## mukta-m0-p64-v1582
-[all-ins-pl](sarvābhis) [and](tu) [head-acc](śiraḥ) [afterwards](paścād) [arm-acc-du](vāhū) [and](ca) [tip-ins](agreṇa) [should-touch](saṃspṛśet)
+[with-all](sarvābhiḥ) [but](tu) [head](śiraḥ) [afterwards](paścāt) [arms](vāhū) [and](ca) [with-tip](agreṇa) [should-touch](saṃspṛśet)
 
 ## mukta-m0-p64-v1583
-[sacrifice+abode-acc](yāgālayaṃ) [having-entered](praviśya) [then](atha) [sword+seed-ins-pl](khaḍgabījaiḥ) [well-arranged-ins-pl](surecitaiḥ)
+[sacrifice](yāga)+[abode](ālayaṃ) [having-entered](praviśya) [then](atha) [sword](khaḍga)+[seeds](bījaiḥ) [well](su)+[recited](recitaiḥ)
 
 ## mukta-m0-p64-v1584
-[element+purification-acc](bhūtaśuddhiṃ) [then](tataḥ) [should-do](kuryān) [form+etc](mūrtyādi) [made-complete-acc](sakalīkṛtam)
+[element](bhūta)+[purification](śuddhiṃ) [then](tataḥ) [should-perform](kuryāt) [form](mūrti)+[etc](ādi)+[made-complete](sakalī+kṛtam)
 
 ## mukta-m0-p64-v1585
-[twelve+finger-acc](dvādaśāṅgulam) [raised-acc](utsiktaṃ) [white+turban](sitoṣṇīṣa) [wearer-nom](vidhārakaḥ)
+[twelve](dvādaśa)+[finger](aṅgulam) [raised](utsiktaṃ) [white](sita)+[turban](uṣṇīṣa)+[wearer](vidhārakaḥ)
 
 ## mukta-m0-p64-v1586
-[should-be](bhaved) [in-sacrifice-loc](yajñe) [always+teacher-nom](sadācāryaḥ) [śrīkaṇṭha+form](śrīkaṇṭharūpa) [bearer-nom](dhārakaḥ)
+[should-be](bhavet) [in-sacrifice](yajñe) [always](sadā) [teacher](ācāryaḥ) [Śrīkaṇṭha](śrīkaṇṭha)+[form](rūpa)+[bearer](dhārakaḥ)
 
 ## mukta-m0-p64-v1587
-[thus](ityevaṃ) [non-conceptual-ins](nirvikalpena) [mind-ins](cetasā) [should-contemplate](cintayet) [always](sadā)
+[thus](iti) [in-this-way](evaṃ) [with-undivided](nirvikalpena) [mind](cetasā) [should-contemplate](cintayet) [always](sadā)
 
 ## mukta-m0-p64-v1588
-[with-that](tena) [half+water-ins](ardhavāriṇā) [having-sprinkled](prokṣya) [all-acc](sarvaṃ) [flower+fruit+etc-acc](puṣpaphalādikam)
+[with-that](tena) [half](ardha)+[water](vāriṇā) [having-sprinkled](prokṣya) [all](sarvaṃ) [flower](puṣpa)+[fruit](phala)+[etc](ādikam)
 
 ## mukta-m0-p64-v1589
-[armor-mantra-ins](varmaṇā) [should-gather](saṅgahet) [afterwards](paścāc) [chowrie-ins-pl](cāmarair) [or](vā) [then](atha) [fan-ins-pl](picchakaiḥ)
+[with-armor](varmaṇā) [should-cover](saṅgahet) [afterwards](paścāt) [with-yak-tail-fans](cāmaraiḥ) [or](vā) [then](atha) [with-peacock-feathers](picchakaiḥ) [gh:](piñjakaiḥ)
 
 ## mukta-m0-p64-v1590
-[fragrance+water](gandhāmbu) [fruit+jewel+rich-acc](phalaratnāḍhyam) [herb+cloth](oṣadhīvastra) [endowed-acc](saṃyutam)
+[fragrance](gandha)+[water](ambu)+[fruit](phala)+[gem](ratna)+[rich](āḍhyam) [herb](oṣadhī)+[cloth](vastra)+[endowed](saṃyutam) [gh:](maṇḍitam)
 
 ## mukta-m0-p64-v1591
-[northeast-loc](aiśyāṃ) [direction-loc](diśi) [weapon+joined-acc](astrasaṃyuktaṃ) [should-place](sthāpayed) [cloth+upon](ambaropari)
+[in-northeast](aiśyāṃ) [direction](diśi) [weapon](astra)+[joined](saṃyuktaṃ) [should-place](sthāpayet) [cloth](ambara)+[upon](upari)
 
 ## mukta-m0-p64-v1592
-[having-arranged](vinyasya) [pot-acc-pl](kalaśāṃs) [there](tatra) [them-acc-pl](tāṃś) [and](ca) [south-from](dakṣiṇato) [should-worship](’rcayet)
+[having-arranged](vinyasya) [gh:](nyastvā) [jars](kalaśāṃs) [there](tatra) [them](tān) [and](ca) [to-the-south](dakṣiṇataḥ) [should-worship](arcayet)
 
 ## mukta-m0-p64-v1593
-[canopy-acc](vitānaṃ) [platform+part-ins](mañcamāṃśena) [previously+said-ins-pl](prāguktair) [flag+arch-acc-pl](dhvajatoraṇān)
+[canopy](vitānaṃ) [platform](mañca)+[portion](māṃśena) [gh:](māsyena) [previously](prāk)+[stated](uktaiḥ) [flag](dhvaja)+[arches](toraṇān)
 
 ## mukta-m0-p64-v1594
-[together](saṃ) [stand](sthi) [past-participle](ta) [acc](m)
+[well](saṃ)+[situated](sthitam)
 
 ## mukta-m0-p64-v1595
-[indra+indu+īśa+tip](indrendviśāgradarbhāśva) [should-spread](stṛṇīyād) [unbroken-rice-acc-pl](akṣatāṃ) [pure-acc-pl](śucīn)
+[Indra](indra)+[Indu](indu)+[Īśa](īśa)+[tipped](agra)+[kuśa-grass](darbhān) [should-spread](stṛṇīyāt) [unbroken](akṣatāṃ) [pure](śucīn)
 
 ## mukta-m0-p64-v1596
-[arghya-acc](arghaṃ) [having-given](datvā) [and](tu) [face-mantra-ins](vaktreṇa) [incense-acc](dhūpaṃ) [indeed](vai) [middle-mantra-ins](madhyagena) [and](tu)
+[argha](arghaṃ) [having-given](datvā) [but](tu) [with-face-mantra](vaktreṇa) [incense](dhūpaṃ) [indeed](vai) [with-middle-mantra](madhyagena) [but](tu)
 
 ## mukta-m0-p64-v1597
-[unmanifest+etc-acc-pl](avyaktādīni) [liṅga-acc-pl](liṅgāni) [east+indu+īśa+head-acc-pl](prāgindvīśaśirāṃsi) [and](ca)
+[unmanifest](avyakta)+[etc](ādīni) [liṅgas](liṅgāni) [east](prāk)+[north](indu)+[northeast](īśa)+[headed](śirāṃsi) [and](ca)
 
 ## mukta-m0-p64-v1598
-[uneven](viṣama) [thread](sūtra) [ins-pl](kaiḥ)
+[uneven](viṣama)+[threads](sūtrakaiḥ)
 
 ## mukta-m0-p64-v1599
-[above+below+part+abandonment-abl](ūrdhvādhoṃśaparityāgāt) [again+turning-acc](punarvṛttiṃ) [twofold](dvidhā) [part-from](aṃśataḥ)
+[upper](ūrdhva)+[lower](adhaḥ)+[part](aṃśa)+[abandonment](parityāgāt) [again](punaḥ)+[turning](vṛttiṃ) [twofold](dvidhā) [by-parts](aṃśataḥ)
 
 ## mukta-m0-p64-v1600
-[inside+having-divided](antarluptvā) [thousand-acc-pl](sahasrāṇi) [becomes](bhavaty) [interposed-ins-pl](antaritaiḥ) [always](sadā)
+[inside](antaḥ) [having-elided](luptvā) [thousands](sahasrāṇi) [becomes](bhavati) [with-intervals](antaritaiḥ) [always](sadā)
