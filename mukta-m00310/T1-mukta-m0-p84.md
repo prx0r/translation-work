@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p84-v2076
-[indra](śakraḥ) [enemy-destruction-maker](śatrukṣayakaraḥ) [enemy-death-maker](śatrukālakaraḥ) [auspicious](śivaḥ)
+indra enemy-destruction-maker enemy-death-maker auspicious
 
 ## mukta-m0-p84-v2077
-[sixteen-vowel-form](ṣoḍaśasvararūpaḥ) [and](ca) [sixteen-ocean-ornament](ṣoḍaśārṇavibhūṣaṇaḥ)
+sixteen-vowel-form and sixteen-syllable-ornament
 
 ## mukta-m0-p84-v2078
-[lakshmi-six-limb-bearer](lakṣmīṣaḍaṅgadhārī) [and](ca) [lakshmi-sixteen-letter-bearer](lakṣmīṣoḍaśavarṇabhṛt)
+lakshmi-six-limb-bearer and lakshmi-sixteen-letter-bearer
 
 ## mukta-m0-p84-v2079
-[seven-horsed](saptasaptiḥ) [good-conduct](sadācāraḥ) [saint](sādhuḥ) [saint-people-dear](sādhujanapriyaḥ)
+seven-horsed always-conduct saint saint-people-dear
 
 ## mukta-m0-p84-v2080
-[seven-island-lord](saptadvīpavatīnāthaḥ) [seven-ocean-leader](saptasāgaranāyakaḥ)
+seven-island-lord seven-ocean-leader
 
 ## mukta-m0-p84-v2081
-[sattvic](sāttvikaḥ) [endowed-with-sattva](sattvasaṃpannaḥ) [all-sin-remover](samastaduritāpahaḥ)
+sattvic endowed-with-sattva all-sin-remover
 
 ## mukta-m0-p84-v2082
-[all-sin-destroyer](samastapātakadhvaṃsī) [all-god-worshipped](samastasuravanditaḥ)
+all-sin-destroyer all-god-worshipped
 
 ## mukta-m0-p84-v2083
-[hari](harir) [hara](haro) [hari-hara](hariharo) [golden-lord](hāṭakeśo) [obstacle-remover](haṭāpahaḥ)
+hari hara hari-hara golden-haired violence-remover
 
 ## mukta-m0-p84-v2084
-[lakshmi-hari](lakṣmīharir) [hṛṣīkeśa](hṛṣīkeśo) [lakshmi-garland-bearer](lakṣmīhāradharo) [sinless](anaghaḥ)
+lakshmi-hari senses-lord lakshmi-garland-bearer sinless
 
 ## mukta-m0-p84-v2085
-[moment-maker](kṣaṇakṛt) [night-lord](kṣaṇadānāthaḥ) [patient](kṣamāvān) [agitated-asura](kṣubhitāsuraḥ)
+moment-maker night-giver-lord patient agitated-asura
 
 ## mukta-m0-p84-v2086
-[endless](ananto) [endlessly-worshipped](anantapūjyaḥ) [and](ca) [api](api) [sun-like](ādirādityasaṃnnibhaḥ)
+endless endless-worshipped and primal-sun-like
 
 ## mukta-m0-p84-v2087
-[heat-radiant](ūṣmojjvalo) [api](api) [debt-destroyer](ṛṇahā) [ṝ-radiant-mother](ṝkārojjvalamātṛkaḥ)
+heat-radiant also debt-destroyer long-r-radiant-mother
 
 ## mukta-m0-p84-v2088
-[with-prosperity](aiśvaryasahitaḥ) [and](ca) [lip](oṣṭhaḥ) [thus](tathā) [mad-sound-worshipped](unmattasvarārcitaḥ)
+with-prosperity eight-lipped and mad-sound-worshipped
 
 ## mukta-m0-p84-v2089
-[oṃhrīṃhasauḥ](oṃhrīṃhasauḥ) [hrīṃśrīṃ-deva](hrīṃśrīṃdevo) [lakshmi-narayana](lakṣmīnārāyaṇaḥ) [shiva](śivaḥ) [thousand](1000)
+mantra mantra-deva lakshmi-narayana auspicious
 
 ## mukta-m0-p84-v2090
-[a-to-ksha-ending](akārādikṣakārānta) [knowledge-abode](vidyānilaya) [goddess](mīśvari)
+from-a-to-ksha abode-of-knowledge goddess
 
 ## mukta-m0-p84-v2091
-[horse-sacrifice-thousands](aśvamedhasahasrāṇi) [vajapeya](vājipeyasya) [crores](koṭayaḥ)
+thousand-horse-sacrifices vajipeya millions
 
 ## mukta-m0-p84-v2092
-[mantra-name-thousand](mantranāmasahasrasya) [sixteenth-part](kalāṃ) [not-worth](nārghanti) [sixteenth](ṣoḍaśīm)
+thousand-mantra-names sixteenth-part not-equal
 
 ## mukta-m0-p84-v2093
-[dream](svapne) [lakshmi-dear](lakṣmīpriyaṃ) [god](devaṃ) [boon-giver](varadaṃ) [he](so) [api](api) [sees](paśyati)
+in-dream lakshmi-dear god boon-giver he also sees
 
 ## mukta-m0-p84-v2094
-[hundred-year-thousands](śatavarṣasahasrāṇi) [worship](pūjāyāḥ) [fruit](phalam) [obtains](āpnuyāt)
+hundred-thousand-years worship fruit obtains
 
 ## mukta-m0-p84-v2095
-[he](sa) [becomes](bhavet) [adept](sādhakaḥ) [prosperous](śrīmān) [beyond](paratra) [heaven](tridivaṃ) [goes](vrajet)
+he becomes practitioner glorious beyond heaven goes
 
 ## mukta-m0-p84-v2096
-[yogis](yogināṃ) [yoga-giver](yogadaṃ) [worshipful](pūjyaṃ) [enjoyers](bhogināṃ) [enjoyment-increaser](bhogavardhanam)
+of-yogis yoga-giver worshippable of-enjoyers enjoyment-increaser
 
 ## mukta-m0-p84-v2097
-[vaishnavas](vaiṣṇavānāṃ) [dearer](priyataraṃ) [liberated](muktānāṃ) [supreme-meaning-giver](paramārthadam)
+of-vaishnavas dearer of-liberated supreme-meaning-giver
 
 ## mukta-m0-p84-v2098
-[without](vinā) [gift](dānaṃ) [not](na) [accept](gṛhṇīyāt) [not](na) [give](dadyāt) [fee](dakṣiṇāṃ) [without](vinā)
+without gift not accept not give dakshina without
 
 ## mukta-m0-p84-v2099
-[your](tava) [devotion](bhaktyā) [by-me-told](mayākhyātaṃ) [secret](gopanīyaṃ) [like-own-womb](svayonivat)
+your devotion by me-told secret like-own-source
 
 ## mukta-m0-p84-v2100
-[lakshmi-narayana-thousand-names](lakṣmīnārāyaṇasahasranāma) [description](nirūpaṇam) [forty-first](ekonacatvāriṃśaḥ) [chapter](paṭalaḥ)
+lakshmi-narayana-thousand-names-description forty-first chapter
