@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p82-v2026
-[bright](tejaḥ) [of-caṇḍa](caṇḍasya) [sacrifice](yāgaḥ) [and](ca) [all](sarvaḥ) [should-be](syāt) [as-before](pūrvavat) [rule](vidhiḥ)
+[tejas](tejaś) [ca](ca) [caṇḍasya](caṇḍasya) [yāgaḥ](yāgaś) [ca](ca) [sarvaḥ](sarvaḥ) [syāt](syāt) [pūrvavat](pūrvavad) [vidhiḥ](vidhiḥ)
 
 ## mukta-m0-p82-v2027
-[that-remnant](tannirmālyaṃ) [should-throw](kṣiped) [in-waters](apsu) [in-womb](garbhe) [and](ca) [in-fire](agnau) [dismissal](visarjanam)
+[tat](tannirmālyaṃ) [nirmālyaṃ](nirmālyaṃ) [kṣipet](kṣiped) [apsu](apsu) [garbhe](garbhe) [ca](ca) [agnau](agnau) [visarjanam](visarjanam)
 
 ## mukta-m0-p82-v2028
-[for-removal-of-country-calamity](rāṣṭropadravasiddhyarthaṃ) [that-should-be-placed](tatsthāpyaṃ) [from-secret-place](guhyadeśataḥ)
+[rāṣṭra-upadrava-siddhi-artham](rāṣṭropadravasiddhyarthaṃ) [tat](tat) [sthāpyam](sthāpyaṃ) [guhya-deśataḥ](guhyadeśataḥ)
 
 ## mukta-m0-p82-v2029
-[fruit-giving](phaladāyakam)
+[phala-dāyakam](phaladāyakam)
 
 ## mukta-m0-p82-v2030
-[self-mantra-status](svārthamantrasthitiḥ) [by-that](tena) [caṇḍeśa](caṇḍeśaḥ) [not](na) [in-steady-ones](sthireṣu) [also](api)
+[svārtha-mantra-sthitiḥ](svārthamantrasthitistena) [tena](tena) [caṇḍeśaḥ](caṇḍeśo) [na](na) [sthireṣu](sthireṣvapi) [api](api)
 
 ## mukta-m0-p82-v2031
-[should-worship](yajet) [in-lotus](abje) [with-homa-gift-etc](homadānādi) [as-before](pūrvavat)
+[yajet](yajedabje) [abje](abje) [homa-dāna-ādi](homadānādipūrvavat) [pūrvavat](pūrvavat)
 
 ## mukta-m0-p82-v2032
-[of-gaṇa-group-ambikās](gaṇavargāmbikānāṃ) [and](ca) [not-remnant](nanirmālyaṃ) [to-śiva](śive) [as](yathā)
+[gaṇa-varga-ambikānām](gaṇavargāmbikānāṃ) [ca](ca) [na](nanirmālyaṃ) [nirmālyaṃ](nirmālyaṃ) [śive](śive) [yathā](yathā)
 
 ## mukta-m0-p82-v2033
-[city](purī) [ocean-demon-etc](sāgaradaityādyāḥ) [sage-direction-deity-planet](ṛṣidigdevatāgrahāḥ)
+[purī](purī) [sāgara-daitya-ādyāḥ](sāgaradaityādyā) [ṛṣi-dig-devatā-grahāḥ](ṛṣidigdevatāgrahāḥ)
 
 ## mukta-m0-p82-v2034
-[dual-non-dual-things](dvaitādvaitāni) [those](tāni) [there](atra) [common](sāmānyāni) [and](ca) [for-accomplishment](siddhaye)
+[dvaita-advaitāni](dvaitādvaitānī) [tāni](tānyatra) [atra](atra) [sāmānyāni](sāmānyani) [ca](ca) [siddhaye](siddhaye)
 
 ## mukta-m0-p82-v2035
-[sun-etc](mārtaṇḍaścetyathādvaite) [remnant](nirmālyaṃ) [caṇḍa-excluded](caṇḍavarjitam)
+[mārtaṇḍaḥ](mārtaṇḍaścetyathādvaite) [ca](ca) [iti](iti) [atha](atha) [dvaite](dvaite) [nirmālyaṃ](nirmālyaṃ) [caṇḍa-varjitam](caṇḍavarjitam)
 
 ## mukta-m0-p82-v2036
-[desired](sveṣṭaṃ) [not](na) [should-show](darśayet) [in-world](loke) [in-non-dual](advaite) [rule-appointed](vidhikalpitam)
+[sveṣṭam](sveṣṭaṃ) [na](na) [darśayet](darśayelloke) [loke](loke) [advaite](advaite) [vidhi-kalpitam](vidhikalpitam)
 
 ## mukta-m0-p82-v2037
-[divine-water-etc](divyatoyādikaṃ) [their](teṣāṃ) [for-bathing](snāne) [for-argha](arghe) [for-tarpaṇa](tarpaṇe) [suitable](hitam)
+[divya-toya-ādikam](divyatoyādikaṃ) [teṣām](teṣāṃ) [snāne](snāne) [arghe](arghe) [tarpaṇe](tarpaṇe) [hitam](hitam)
 
 ## mukta-m0-p82-v2038
-[food-offering](naivedyaṃ) [of-brothers-sons](bhrātṛputrāṇāṃ) [of-sisters](bhaginīnāṃ) [and](ca) [should-give](dāpayet)
+[naivedyaṃ](naivedyaṃ) [bhrātṛ-putrāṇām](bhrātṛputrāṇāṃ) [bhaginīnām](bhaginīnāṃ) [ca](ca) [dāpayet](dāpayet)
 
 ## mukta-m0-p82-v2039
-[accomplishment](siddhiḥ) [would-obtain](labheta) [not](no) [wonder](citraṃ) [liṅga-near](liṅgasannihitaṃ) [when](yadā)
+[siddhiḥ](siddhirlabheta) [labheta](labheta) [na](no) [citram](citraṃ) [liṅga-sannihitam](liṅgasannihitaṃ) [yadā](yadā)
 
 ## mukta-m0-p82-v2040
-[jayadratha-etc-others](jayadrathādayo'pyanya) [thus-says](ityāha) [blessed](bhagavān) [śiva](śivaḥ)
+[jayadratha-ādayaḥ](jayadrathādayo'pyanya) [api](api) [anya](anya) [iti](ityāha) [āha](āha) [bhagavān](bhagavāñ) [śivaḥ](śivaḥ)
 
 ## mukta-m0-p82-v2041
-[thus](iti) [in-characteristic-collection](lakṣaṇasamuccaye) [caṇḍeśvara-installation](caṇḍeśvarasthāpanaṃ) [named](nāma) [seventeenth](saptadaśaḥ) [rite](vidhiḥ)
+[iti](iti) [lakṣaṇa-samuccaye](lakṣaṇasamuccaye) [caṇḍeśvara-sthāpanam](caṇḍeśvarasthāpanaṃ) [nāma](nāma) [saptadaśaḥ](saptadaśo) [vidhiḥ](vidhiḥ)
 
 ## mukta-m0-p82-v2042
-[eye-opening-etc](nayanonmīlanādyeṣāṃ) [as-before](pūrvavat) [all](sakalaṃ) [becomes](bhavet)
+[nayana-unmīlana-ādyeṣām](nayanonmīlanādyeṣāṃ) [pūrvavat](pūrvavatsakalaṃ) [sakalam](sakalaṃ) [bhavet](bhavet)
 
 ## mukta-m0-p82-v2043
-[from-cāha-avoidance](cāhavarjanāt)
+[cāhavarjanāt](cāhavarjanāt)
 
 ## mukta-m0-p82-v2044
-[bathing-etc](snānādi) [mental](mānasaṃ) [should-be-done](kāryaṃ) [so](tathā) [gem-stone-etc](ratnaśilādikam)
+[snāna-ādi](snānādi) [mānasam](mānasaṃ) [kāryam](kāryaṃ) [tathā](tathā) [ratna-śilā-ādikam](ratnaśilādikam)
 
 ## mukta-m0-p82-v2045
-[with-humble-flowers](nimrabukusumaiḥ) [worship](pūjā) [by-which](yayā) [wonder](citraṃ) [not](na) [perishes](naśyati)
+[nimra-bu-kusumaiḥ](nimrabukusumaiḥ) [pūjā](pūjā) [yayā](yayā) [citram](citraṃ) [na](na) [naśyati](naśyati)
 
 ## mukta-m0-p82-v2046
-[gems-etc](ratnādini) [having-placed](niveśya) [and](ca)
+[ratna-ādini](ratnādini) [niveśya](niveśya) [ca](ca)
 
 ## mukta-m0-p82-v2047
-[should-place-directions](rnyaseddiśāṃ) [that](tadva) [udumbara](dudumbare)
+[rnyased](rnyaseddiśāṃ) [diśām](diśāṃ) [tadva](tadva) [dudumbare](dudumbare)
 
 ## mukta-m0-p82-v2048
-[on-śūla](śule) [also](api) [thus](avaṃ) [worship-limb](yajantyaṅgaṃ) [joined](yuktā) [on-staff](daṇḍe) [and](ca) [lamp](dīpanī)
+[śule](śule'pyavaṃ) [api](api) [avaṃ](avaṃ) [yajanti](yajantyaṅgaṃ) [aṅgam](aṅgaṃ) [yuktā](yuktā) [daṇḍe](daṇḍe) [ca](ca) [dīpanī](dīpanī)
 
 ## mukta-m0-p82-v2049
-[one-two-three-handed](ekadvitrikare) [worshipful](pūjyaḥ) [like-śiva](śivavad) [blessed-guru](bhagavānguruḥ)
+[eka-dvi-tri-kare](ekadvitrikare) [pūjyaḥ](pūjyaḥ) [śiva-vat](śivavadbhagavānguruḥ) [bhagavān](bhagavān) [guruḥ](guruḥ)
 
 ## mukta-m0-p82-v2050
-[fierce](aghoraṃ) [western-face](paścimāsyaṃ) [or](vā) [should-be-offered](hotavyaṃ) [with-japa-count](japasaṃṅkhyayā)
+[aghoraṃ](aghoraṃ) [paścima-āsyam](paścimāsyaṃ) [vā](vā) [hotavyam](hotavyaṃ) [japa-saṃkhyayā](japasaṃṅkhyayā)
