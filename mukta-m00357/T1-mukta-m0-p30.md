@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p30-v726
-[earth+standing](kṣiti+sthāḥ)
+[earth](kṣiti)+[dwelling](sthāḥ) [earth-dwelling](kṣitisthāḥ) [plural](sthāḥ) [locative](kṣiti)
 
 ## mukta-m0-p30-v727
-[especially](viśeṣato) [names](nāmāni) [spoken](uktāni) [of-animals](tiraścīnānām)
+[especially](viśeṣataḥ)+[names](nāmāni) [spoken](uktāni) [animals](tiraścīnānām) [of-animals](tiraścīnānām)
 
 ## mukta-m0-p30-v728
-[by-all](sarvaiḥ) [words](śabdaiḥ) [expressible](vācyāḥ) [animals](tiraścīnāḥ)
+[by-all](sarvaiḥ)+[words](śabdaiḥ) [expressible](vācyāḥ) [animals](tiraścīnāḥ) [all-words](sarvaiḥ-śabdaiḥ)
 
 ## mukta-m0-p30-v729
 [graspable](grāhyāḥ) [meanings](padārthāḥ) [things](vastūni) [forms](ākṛtayaḥ)
 
 ## mukta-m0-p30-v730
-[especially](viśeṣato) [names](nāmāni) [spoken](uktāni) [of-meanings](padārthānām)
+[especially](viśeṣataḥ)+[names](nāmāni) [spoken](uktāni) [of-meanings](padārthānām) [word-meanings](padārthānām)
 
 ## mukta-m0-p30-v731
-[by-all](sarvaiḥ) [words](śabdaiḥ) [expressible](vācyāḥ) [meanings](padārthāḥ)
+[by-all](sarvaiḥ)+[words](śabdaiḥ) [expressible](vācyāḥ) [meanings](padārthāḥ) [all-words](sarvaiḥ-śabdaiḥ)
 
 ## mukta-m0-p30-v732
-[all](sarve) [words](śabdāḥ) [all-meaning-expressing](sarvārtha+vācakāḥ)
+[all](sarve) [words](śabdāḥ) [all-meanings](sarvārtha)+[expressing](vācakāḥ) [universal](sarve-śabdāḥ)
 
 ## mukta-m0-p30-v733
-[word](śabdaḥ) [many-meaning-expressing](anekārtha+vācakaḥ) [even](api) [one-meaning](ekārtham) [only](eva) [speaks](vakti)
+[word](śabdaḥ)+[many-meanings](anekārtha)+[expressing](vācakaḥ)+[even](api) [one-meaning](ekārtham)+[only](eva) [speaks](vakti) [single-meaning](ekārthameva)
 
 ## mukta-m0-p30-v734
-[perception](pratyakṣa) [inference](anumāna) [scripture](āgama) [proofs](pramāṇāni)
+[perception](pratyakṣa)+[inference](anumāna)+[scripture](āgama) [proofs](pramāṇāni) [three-proofs](pratyakṣānumānāgamāḥ) [valid-means](pramāṇāni)
 
 ## mukta-m0-p30-v735
-[perception+scripture](pratyakṣa+āgamaḥ) [proof](pramāṇam) [thus](iti) [others](apare)
+[perception](pratyakṣa)+[scripture](āgama) [proof](pramāṇam) [thus](iti)+[others](apare) [two-proofs](pratyakṣāgamaḥ)
 
 ## mukta-m0-p30-v736
-[scripture](āgamaḥ) [only](eva) [proof](pramāṇam) [thus](iti) [some](eke)
+[scripture](āgama) [only](eva) [proof](pramāṇam) [thus](iti)+[some](eke) [one-proof](āgama-eva)
 
 ## mukta-m0-p30-v737
-[thus](iti) [in-Pārānanda-sūtra](pārānanda+sūtre) [sixth-chapter](ṣaṣṭham+āhnikam)
+[thus](iti) [pārānanda-sūtra](pārānandasūtre) [sixth](ṣaṣṭham) [chapter](āhnikam) [closing](iti)
 
 ## mukta-m0-p30-v738
-[om](oṃ) [now](atha) [salutation-order](abhivādana+kramam) [we-will-speak](vakṣyāmaḥ)
+[om](oṃ) [now](atha) [salutation-order](abhivādanakramam) [we-will-speak](vakṣyāmaḥ) [ritual-order](abhivādanakramaṃ)
 
 ## mukta-m0-p30-v739
-[great-association-elder](mahat+saṃprayoga+jyeṣṭhāḥ) [great-ones](mahāntaḥ) [and-these](ca+ete) [salutable](abhivādyāḥ)
+[great](mahat)+[association](saṃprayoga)+[eldest](jyeṣṭhāḥ) [great-ones](mahāntaḥ) [these](caite) [to-be-saluted](abhivādyāḥ) [great-association](mahatsaṃprayoga)
 
 ## mukta-m0-p30-v740
-[of-kṣatriyas](kṣatriyāṇām) [salutable](abhivādyāḥ) [brāhmaṇas](brāhmaṇāḥ) [because-womb-elder](yona+jyeṣṭhatvāt)
+[brahmins](brāhmaṇāḥ) [to-be-saluted](abhivādyāḥ) [of-kṣatriyas](kṣaprāṇām) [by-birth-eldest](yonajyeṣṭhatvāt) [kṣatriya-eldest](kṣaprāṇām)
 
 ## mukta-m0-p30-v741
-[thus](evam) [even](eva) [lower](avarāṇām) [of-varṇas](varṇānām) [before](pūrvam)
+[thus](evam)+[even](eva) [lower](avarāṇām) [varṇas](varṇānām) [before](pūrvaṃ) [former](pūrvasmāt) [lower-varṇas](avarāṇām-varṇānām)
 
 ## mukta-m0-p30-v742
-[age-elder](vayo+jyeṣṭhāḥ) [salutable](abhivādyāḥ) [womb-elder-or](yona+jyeṣṭha+nvā+eva) [of-these](eteṣām)
+[age-eldest](vayojyeṣṭhāḥ) [to-be-saluted](abhivādyāḥ) [by-birth-eldest](yonajyeṣṭhanvādevaiteṣām) [these](eteṣām) [age-eldest](vayojyeṣṭhāḥ)
 
 ## mukta-m0-p30-v743
-[learned](vidvāṃsaḥ) [salutable](abhivādyāḥ) [because-elder](jyeṣṭhatvāt) [of-these](eteṣām)
+[learned](vidvāṃsaḥ) [to-be-saluted](abhivādyāḥ) [by-eldest](jyeṣṭhatvādeteṣām) [these](eteṣām) [learned-ones](vidvāṃso)
 
 ## mukta-m0-p30-v744
-[ascetics](tapasvinaḥ) [salutable](abhivādyāḥ) [because-austerity-elder](tapo+jyeṣṭhatvāt) [of-these](eteṣām)
+[ascetics](tapasvinaḥ) [to-be-saluted](abhivādyāḥ) [by-ascetic-eldest](tapojyeṣṭhatvādeteṣām) [these](eteṣām) [ascetics](tapasvinaḥ)
 
 ## mukta-m0-p30-v745
-[great-association-elder](mahat+saṃprayoga+jyeṣṭhatvāt) [of-these](eteṣām)
+[great](mahat)+[association](saṃprayoga)+[eldest](jyeṣṭhatvādeteṣām) [these](eteṣām) [great-association](mahatsaṃprayoga) [eldest](jyeṣṭhatvāt)
 
 ## mukta-m0-p30-v746
-[supreme-self-lord-teachers](parātma+īśvara+guravaḥ) [salutable](abhivādyāḥ) [because-greatness](mahattvāt) [of-these](eteṣām)
+[supreme-self](parātma)+[lord](īśvara)+[teacher](guru) [to-be-saluted](abhivādyāḥ) [by-greatness](mahattvādeteṣām) [these](eteṣām) [supreme-teachers](parātmeśvaraguravaḥ)
 
 ## mukta-m0-p30-v747
-[in-āśrama](āśrame) [from-previous](pūrvasmāt) [later](uttaraḥ) [great](mahān)
+[in-stage](āśrame) [from-previous](pūrvasmāt) [later](uttaraḥ) [greater](mahān) [stage-greater](āśrame-mahān) [previous-stage](pūrvasmāt)
 
 ## mukta-m0-p30-v748
-[in-great-association](mahat+saṃprayoge) [from-later-associated](paścāt+saṃyuktāt) [earlier-associated](pūrva+saṃyuktaḥ) [great](mahān)
+[great](mahat)+[association](saṃprayoga) [after](paścāt)+[joined](saṃyuktāt) [before](pūrva)+[joined](saṃyuktaḥ) [greater](mahān) [association-greater](mahatsaṃprayoge)
 
 ## mukta-m0-p30-v749
-[by-brāhmaṇa-varṇa](vipra+varṇaiḥ) [knowers-of-knowledge](vidyā+vidaḥ) [salutable](abhivādyāḥ)
+[brahmin-varṇas](vipravarṇaiḥ) [knowers](vidyāvidaḥ) [to-be-saluted](abhivādyāḥ) [brahmin-knowers](vipravarṇaiḥ-vidyāvidaḥ) [saluted](abhivādyāḥ)
 
 ## mukta-m0-p30-v750
-[by-knowers](vidyāvadbhiḥ) [physicians](vaidyāḥ) [ascetics](tapasvinaḥ) [and](ca) [who](ye) [are](syuḥ) [they](te) [salutable](abhivādyāḥ)
+[by-knowers](vidyāvadbhiḥ) [physicians](vaidyāḥ) [ascetics](tapasvinaḥ) [and](ca) [those](ye) [they](te) [to-be-saluted](abhivādyāḥ) [knowers-saluted](vidyāvadbhiḥ-abhivādyāḥ)
