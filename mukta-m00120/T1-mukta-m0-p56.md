@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p56-v1376
-bhogaḥ+ca mokṣaḥ+ca kara-sthaḥ eva
+[enjoyment-and](bhogaśca) [liberation-and](mokṣaśca) [hand-residing](karastha) [indeed](eva)
 
 ## mukta-m0-p56-v1377
-kaula-dharmaḥ parama-gahanaḥ yoginām+api+agamyaḥ
+[kaula-dharma](kaula dharmmaḥ) [supreme](parama) [deep](gahano) [yogis-even-unattainable](yogināmapyagamyaḥ)
 
 ## mukta-m0-p56-v1378
-bhuktiṃ vrajet
+[enjoyment](bhuktiṃ) [goes](vrajet)
 
 ## mukta-m0-p56-v1379
-gaṅgāṃ pivāmi yamunāṃ saha sāgareṇa
+[ganges](gaṅgāṃ) [drink](pivāmi) [yamuna](yamunāṃ) [with](saha) [ocean](sāgareṇa)
 
 ## mukta-m0-p56-v1380
-mūrdhni śrī-nātha pāda-abjaṃ smaraṇaṃ kim ataḥ param
+[on-head](mūrdhni) [sri-natha](śrīnātha) [lotus-feet](pādābjaṃ) [remembrance](smaraṇaṃ) [what](kim) [than-superior](ataḥ param)
 
 ## mukta-m0-p56-v1381
-kula-strī saṅga nirataḥ kula-kāryaṃ samācaret
+[kula-woman](kula strī) [association](saṅga) [devoted](nirataḥ) [kula-rite](kulakāryaṃ) [perform](samācaret)
 
 ## mukta-m0-p56-v1382
-pānaṃ+ca viṣa-pānaṃ syāt maithunaṃ pāpa-dāyakam
+[drinking-and](pānañca) [poison](viṣa) [drinking](pānaṃ) [be](syāt) [sexual-intercourse](maithunaṃ) [sin-giving](pāpadāyakam)
 
 ## mukta-m0-p56-v1383
-catvāri tasya naśyanti āyuḥ vidyā yaśaḥ balam
+[four](catvāri) [of-him](tasya) [perish](naśyanti) [lifespan-knowledge-fame-strength](āyurvidyā yaśo valam)
 
 ## mukta-m0-p56-v1384
-abhiṣekaṃ pravakṣyāmi sarva-siddhi pradāyakam
+[consecration](abhiṣekaṃ) [I-will-declare](pravakṣyāmi) [all-accomplishment](sarvasiddhi) [giving](pradāyakam)
 
 ## mukta-m0-p56-v1385
-sarva-āśā pūrakaṃ sarva-mantra doṣa vināśanam
+[all-desires](sarvāśā) [fulfilling](pūrakaṃ) [all](sarva) [mantra](mantra) [fault](doṣa) [destroying](vināśanam)
 
 ## mukta-m0-p56-v1386
-abhicāra-haraṃ sarvaṃ graha-doṣa vināśanam
+[sorcery](abhicāra) [removing](haraṃ) [all](sarvaṃ) [planet-fault](grahadoṣa) [destroying](vināśanam)
 
 ## mukta-m0-p56-v1387
-takṣakeṇa+api daṣṭasya viṣa-pīḍā vināśanam
+[by-takshaka](takṣakeṇāpi) [even-bitten](daṣṭasya) [poison-affliction](viṣapīḍā) [destroying](vināśanam)
 
 ## mukta-m0-p56-v1388
-strī-kṛteṣu+api doṣeṣu śarīre mānase tathā
+[woman-caused](strīkṛteṣvapi) [even](api) [faults](doṣeṣu) [in-body](śarīre) [in-mind](mānase) [and](tathā)
 
 ## mukta-m0-p56-v1389
-asaubhāgye ca nārīṇām abhiṣekaḥ pravarttate
+[inauspiciousness](asaubhāgye) [and](ca) [of-women](nārīṇām) [consecration](abhiṣekaḥ) [proceeds](pravarttate)
 
 ## mukta-m0-p56-v1390
-nadī-tīre deva-bhūmau taru-mūle catuṣpathe
+[river](nadī) [bank](tīre) [divine](deva) [ground](bhūmau) [tree](taru) [root](mūle) [crossroads](catuṣpathe)
 
 ## mukta-m0-p56-v1391
-mantreṇa+anena deveśi tīrthāni āvāhayet tataḥ
+[by-this-mantra](mantreṇānena) [goddess](deveśi) [tirthas](tīrthānyāvāhayettataḥ) [invoke-then](tataḥ)
 
 ## mukta-m0-p56-v1392
-sarve samudrāḥ saritaḥ sarāṃsi jaladāḥ hradāḥ
+[all](sarve) [oceans](samudrāḥ) [rivers](saritaḥ) [lakes](sarāṃsi) [clouds](jaladā) [ponds](hradāḥ)
 
 ## mukta-m0-p56-v1393
-sarva-tīrthāni puṇyāni ghaṭe kurvantu sannidhim
+[all-tirthas](sarvetīrthāni) [holy](puṇyāni) [in-pot](ghaṭe) [make](kurvantu) [presence](sannidhim)
 
 ## mukta-m0-p56-v1394
-sthirā-kṛtiḥ
+[stable-form](sthirākṛtiḥ)
 
 ## mukta-m0-p56-v1395
-mūlena dūrvāṃ praṇavaiḥ kuryāt abhyukṣaṇaṃ tataḥ
+[by-root](mūlena) [durva](dūrvāṃ) [with-om](praṇavaiḥ) [make-sprinkling](kuryādabhyukṣaṇaṃ) [then](tataḥ)
 
 ## mukta-m0-p56-v1396
-tatra āvāhya prapūjayet
+[there](tatrāvāhya) [invoke](prapūjayet)
 
 ## mukta-m0-p56-v1397
-mantreṇa+anena deśikaḥ
+[by-this-mantra](mantreṇānena) [teacher](deśikaḥ)
 
 ## mukta-m0-p56-v1398
-vā-mūtra-nirghoṣaḥ
+[urine-sound](vāmutranirghoṣaḥ)
 
 ## mukta-m0-p56-v1399
-yaśaḥ dhana-āyuḥ tejaḥsu śrī-phalasya+api pallavaiḥ
+[fame](yaśo) [wealth-glory](dhanāyustejaḥsu) [sri-fruit](śrīphalasyāpi) [also](api) [sprouts](pallavaiḥ)
 
 ## mukta-m0-p56-v1400
-dṛśyate
+[is-seen](dṛśyate)
