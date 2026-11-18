@@ -7,12 +7,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "tām",
-"quick_gloss": "that"
-},
-{
-"surface": "evaṃ",
-"quick_gloss": "thus"
+"surface": "tāmevaṃ",
+"quick_gloss": "that-thus"
 },
 {
 "surface": "dhārayed",
@@ -28,7 +24,7 @@
 },
 {
 "surface": "bhūrjapatrake",
-"quick_gloss": "on-birch-leaf"
+"quick_gloss": "birch-leaf"
 }
 ]
 },
@@ -57,7 +53,7 @@
 },
 {
 "surface": "raktarajjunā",
-"quick_gloss": "with-red-cord"
+"quick_gloss": "red-cord"
 }
 ]
 },
@@ -69,8 +65,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "kavacasyāsya",
-"quick_gloss": "of-this-armor"
+"surface": "kavacasya",
+"quick_gloss": "of-kavaca"
+},
+{
+"surface": "asya",
+"quick_gloss": "this"
 },
 {
 "surface": "guṭikā",
@@ -106,8 +106,12 @@
 "quick_gloss": "great-goddess"
 },
 {
-"surface": "jihvākoṭiśatairapi",
-"quick_gloss": "even-with-hundred-crore-tongues"
+"surface": "jihvākoṭiśatair",
+"quick_gloss": "tongue-crores"
+},
+{
+"surface": "api",
+"quick_gloss": "even"
 }
 ]
 },
@@ -128,7 +132,7 @@
 },
 {
 "surface": "sarvasārasvatapradam",
-"quick_gloss": "bestowing-all-eloquence"
+"quick_gloss": "all-sarasvatī-giving"
 }
 ]
 },
@@ -145,15 +149,15 @@
 },
 {
 "surface": "duṣṭāya",
-"quick_gloss": "to-wicked"
+"quick_gloss": "wicked"
 },
 {
 "surface": "nindakāya",
-"quick_gloss": "to-slanderer"
+"quick_gloss": "slanderer"
 },
 {
 "surface": "kulārthinām",
-"quick_gloss": "of-family-seekers"
+"quick_gloss": "of-kula-seekers"
 }
 ]
 },
@@ -166,19 +170,19 @@
 "tokens": [
 {
 "surface": "śāntāya",
-"quick_gloss": "to-peaceful"
+"quick_gloss": "peaceful"
 },
 {
 "surface": "kulasaktāya",
-"quick_gloss": "devoted-to-family"
+"quick_gloss": "kula-devoted"
 },
 {
 "surface": "śāktāya",
-"quick_gloss": "to-śākta"
+"quick_gloss": "śākta"
 },
 {
 "surface": "kulakāmine",
-"quick_gloss": "to-family-desiring"
+"quick_gloss": "kula-desiring"
 }
 ]
 },
@@ -207,7 +211,7 @@
 },
 {
 "surface": "svayonivat",
-"quick_gloss": "like-own-source"
+"quick_gloss": "like-own-womb"
 }
 ]
 },
@@ -237,7 +241,7 @@
 },
 {
 "surface": "mama",
-"quick_gloss": "my"
+"quick_gloss": "mine"
 },
 {
 "surface": "devānāṃ",
@@ -249,7 +253,7 @@
 },
 {
 "surface": "janmināmapi",
-"quick_gloss": "even-for-births"
+"quick_gloss": "even-for-born"
 }
 ]
 },
@@ -262,7 +266,7 @@
 "tokens": [
 {
 "surface": "mantranāmasahasraṃ",
-"quick_gloss": "thousand-mantra-names"
+"quick_gloss": "mantra-name-thousand"
 },
 {
 "surface": "ca",
@@ -299,11 +303,11 @@
 },
 {
 "surface": "paratrāpi",
-"quick_gloss": "there-too"
+"quick_gloss": "thereafter"
 },
 {
 "surface": "jīvanmukto",
-"quick_gloss": "liberated-while-living"
+"quick_gloss": "living-liberated"
 },
 {
 "surface": "bhavennaraḥ",
@@ -320,7 +324,7 @@
 "tokens": [
 {
 "surface": "aśvamedhāyutāt",
-"quick_gloss": "from-ten-thousand-horse-sacrifices"
+"quick_gloss": "ashvamedha-ten-thousand"
 },
 {
 "surface": "puṇyaṃ",
@@ -386,7 +390,7 @@
 },
 {
 "surface": "caṇḍamuṇḍanisūdinī",
-"quick_gloss": "slayer-of-caṇḍa-muṇḍa"
+"quick_gloss": "caṇḍa-muṇḍa-slayer"
 }
 ]
 },
@@ -403,11 +407,19 @@
 },
 {
 "surface": "sthitiḥ",
-"quick_gloss": "preservation"
+"quick_gloss": "existence"
 },
 {
-"surface": "saṃbhūtirvibhūtirbhayanāśinī",
-"quick_gloss": "origin-manifestation-fear-destroying"
+"surface": "saṃbhūtiḥ",
+"quick_gloss": "origin"
+},
+{
+"surface": "vibhūtiḥ",
+"quick_gloss": "manifestation"
+},
+{
+"surface": "bhayanāśinī",
+"quick_gloss": "fear-destroying"
 }
 ]
 },
@@ -420,11 +432,11 @@
 "tokens": [
 {
 "surface": "madālasā",
-"quick_gloss": "delicate-with-intoxication"
+"quick_gloss": "madālasā"
 },
 {
 "surface": "madottuṅgā",
-"quick_gloss": "high-with-intoxication"
+"quick_gloss": "mad-uddhā"
 },
 {
 "surface": "madirā",
@@ -473,8 +485,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "saritkādambarī",
-"quick_gloss": "river-kādambarī"
+"surface": "sarit",
+"quick_gloss": "river"
+},
+{
+"surface": "kādambarī",
+"quick_gloss": "kādambarī"
 },
 {
 "surface": "godhā",
@@ -482,7 +498,7 @@
 },
 {
 "surface": "guhyakālī",
-"quick_gloss": "secret-kālī"
+"quick_gloss": "guhyakālī"
 },
 {
 "surface": "gaṇeśvarī",
@@ -499,15 +515,15 @@
 "tokens": [
 {
 "surface": "tapomayī",
-"quick_gloss": "austerity-filled"
+"quick_gloss": "penance-filled"
 },
 {
 "surface": "durālamvā",
-"quick_gloss": "hard-to-grasp"
+"quick_gloss": "hard-to-attain"
 },
 {
 "surface": "duṣṭagrahanivāriṇī",
-"quick_gloss": "evil-planet-removing"
+"quick_gloss": "wicked-graha-removing"
 }
 ]
 },
@@ -528,7 +544,7 @@
 },
 {
 "surface": "pralayānalasaṃnibhā",
-"quick_gloss": "like-dissolution-fire"
+"quick_gloss": "dissolution-fire-like"
 }
 ]
 },
@@ -541,11 +557,11 @@
 "tokens": [
 {
 "surface": "vidyeśvarī",
-"quick_gloss": "knowledge-lady"
+"quick_gloss": "vidyeśvarī"
 },
 {
 "surface": "viśvamayī",
-"quick_gloss": "universe-filled"
+"quick_gloss": "all-pervading"
 },
 {
 "surface": "virāṭ",
@@ -594,7 +610,7 @@
 },
 {
 "surface": "kulākulā",
-"quick_gloss": "kulākulā"
+"quick_gloss": "kula-akula"
 }
 ]
 },
@@ -607,15 +623,19 @@
 "tokens": [
 {
 "surface": "virūpākṣī",
-"quick_gloss": "odd-eyed"
+"quick_gloss": "deformed-eyed"
 },
 {
 "surface": "koṭarākṣī",
 "quick_gloss": "hollow-eyed"
 },
 {
-"surface": "kulakāntāparājitā",
-"quick_gloss": "family-beloved-unconquered"
+"surface": "kulakāntā",
+"quick_gloss": "kula-beloved"
+},
+{
+"surface": "parājitā",
+"quick_gloss": "unconquered"
 }
 ]
 },
@@ -628,11 +648,7 @@
 "tokens": [
 {
 "surface": "tritayī",
-"quick_gloss": "threefold"
-},
-{
-"surface": "100",
-"quick_gloss": "100"
+"quick_gloss": "triple"
 },
 {
 "surface": "vedavinyāsā",
@@ -643,8 +659,12 @@
 "quick_gloss": "renunciation"
 },
 {
-"surface": "sumatirbhayā",
-"quick_gloss": "good-mind-fear"
+"surface": "sumatiḥ",
+"quick_gloss": "good-mind"
+},
+{
+"surface": "bhayā",
+"quick_gloss": "fear"
 }
 ]
 }
