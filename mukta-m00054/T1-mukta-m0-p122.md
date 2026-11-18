@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p122-v3026
-[salutation-to-mendicant](bhikṣavenamaḥ) [salutation-to-mendicant-form](bhikṣurūpāyanamaḥ) [salutation-to-market](vipaṇāyanamaḥ)
+[to-mendicant](bhikṣavenamaḥ) [mendicant+form+homage](bhikṣurūpāyanamaḥ) [market+homage](vipaṇāyanamaḥ) [homage](namaḥ)
 
 ## mukta-m0-p122-v3027
-[salutation-to-thunderbolt-holder](vajrahastāyanamaḥ) [salutation-to-obstructor](viṣkambhinenamaḥ)
+[diamond+hand+homage](vajrahastāyanamaḥ) [obstacle+homage](viṣkambhinenamaḥ) [homage](namaḥ) [homage](namaḥ)
 
 ## mukta-m0-p122-v3028
-[salutation-to-army-stopper](camūstambhanāyanamaḥ) [salutation-to-round-and-nonround-maker](vṛttāvṛttakarāyanamaḥ)
+[army+stopping+homage](camūstambhanāyanamaḥ) [round+non-round+maker+homage](vṛttāvṛttakarāyanamaḥ) [homage](namaḥ) [homage](namaḥ)
 
 ## mukta-m0-p122-v3029
-[salutation-to-palm](tālāyanamaḥ) [salutation-to-spring](madhavenamaḥ) [salutation-to-honey-eyed](madhukalocanāyanamaḥ)
+[palm+homage](tālāyanamaḥ) [madhu+homage](madhavenamaḥ) [madhu+eye+homage](madhukalocanāyanamaḥ) [homage](namaḥ)
 
 ## mukta-m0-p122-v3030
-[salutation-to-speech-lord](vācaspatyāyanamaḥ) [salutation-to-feast-giver](vājasanāyanamaḥ)
+[speech+lord+homage](vācaspatyāyanamaḥ) [vāja+sanctuary+homage](vājasanāyanamaḥ) [homage](namaḥ) [homage](namaḥ)
 
 ## mukta-m0-p122-v3031
-[salutation-to-hermitage-honored](āśramapūjitāyanamaḥ) [salutation-to-celibate](brahmacāriṇenamaḥ)
+[hermitage+honored+homage](āśramapūjitāyanamaḥ) [brahmacārin+homage](brahmacāriṇenamaḥ) [homage](namaḥ) [homage](namaḥ)
 
 ## mukta-m0-p122-v3032
-[salutation-to-world-wanderer](lokacāriṇenamaḥ) [salutation-to-all-wanderer](sarvacāriṇenamaḥ) [salutation-to-discerning-knower](vicāravidenamaḥ)
+[world+wanderer+homage](lokacāriṇenamaḥ) [all+wanderer+homage](sarvacāriṇenamaḥ) [discrimination+knower+homage](vicāravidenamaḥ) [homage](namaḥ)
 
 ## mukta-m0-p122-v3033
-[salutation-to-ruler](īśānāyanamaḥ) [salutation-to-lord](īśvarāyanamaḥ) [salutation-to-time](kālāyanamaḥ)
+[īśāna+homage](īśānāyanamaḥ) [īśvara+homage](īśvarāyanamaḥ) [time+homage](kālāyanamaḥ) [homage](namaḥ)
 
 ## mukta-m0-p122-v3034
-[salutation-to-night-wanderer](niśācāriṇenamaḥ) [salutation-to-pinaka-holder](pinākadhṛṣenamaḥ) [salutation-to-omen-abider](nimittasthāyanamaḥ)
+[night+wanderer+homage](niśācāriṇenamaḥ) [pināka+holder+homage](pinākadhṛṣenamaḥ) [omen+abode+homage](nimittasthāyanamaḥ) [homage](namaḥ)
 
 ## mukta-m0-p122-v3035
-[salutation-to-omen](nimittāyanamaḥ) [salutation-to-delighter](nandayenamaḥ) [salutation-to-joy-maker](nandikarāyanamaḥ)
+[omen+homage](nimittāyanamaḥ) [delight+homage](nandayenamaḥ) [nandi+maker+homage](nandikarāyanamaḥ) [homage](namaḥ)
 
 ## mukta-m0-p122-v3036
-[salutation-to-hara](harayenamaḥ) [salutation-to-joy-lord](nandīśvarāyanamaḥ) [salutation-to-joy](nandinenamaḥ)
+[hara+homage](harayenamaḥ) [nandīśvara+homage](nandīśvarāyanamaḥ) [nandin+homage](nandinenamaḥ) [homage](namaḥ)
 
 ## mukta-m0-p122-v3037
-[salutation-to-slayer](nihantrenamaḥ) [salutation-to-time](kālāyanamaḥ) [salutation-to-brahman](brahmaṇenamaḥ)
+[slayer+homage](nihantrenamaḥ) [time+homage](kālāyanamaḥ) [brahma+homage](brahmaṇenamaḥ) [homage](namaḥ)
 
 ## mukta-m0-p122-v3038
-[salutation-to-grandfather](pitāmahāyanamaḥ) [salutation-to-four-faced](caturmmukhāyanamaḥ)
+[grandfather+homage](pitāmahāyanamaḥ) [four-faced+homage](caturmmukhāyanamaḥ) [homage](namaḥ) [homage](namaḥ)
 
 ## mukta-m0-p122-v3039
-[salutation-to-great-linga](mahāliṅgāyanamaḥ) [salutation-to-beautiful-linga](cāruliṅgāyanamaḥ)
+[great+liṅga+homage](mahāliṅgāyanamaḥ) [beautiful+liṅga+homage](cāruliṅgāyanamaḥ) [homage](namaḥ) [homage](namaḥ)
 
 ## mukta-m0-p122-v3040
-[salutation-to-linga-overseer](liṅgādhyakṣāyanamaḥ) [salutation-to-god-overseer](surādhyakṣāyanamaḥ)
+[liṅga+superintendent+homage](liṅgādhyakṣāyanamaḥ) [gods+superintendent+homage](surādhyakṣāyanamaḥ) [homage](namaḥ) [homage](namaḥ)
 
 ## mukta-m0-p122-v3041
-[salutation-to-yoga-overseer](yogādhyakṣāyanamaḥ) [salutation-to-yuga-bearer](yugāvahāyanamaḥ)
+[yoga+superintendent+homage](yogādhyakṣāyanamaḥ) [yuga+bearer+homage](yugāvahāyanamaḥ) [homage](namaḥ) [homage](namaḥ)
 
 ## mukta-m0-p122-v3042
-[salutation-to-seed-overseer](bījādhyakṣāyanamaḥ) [salutation-to-seed-maker](bījakarttrenamaḥ)
+[seed+superintendent+homage](bījādhyakṣāyanamaḥ) [seed+maker+homage](bījakarttrenamaḥ) [homage](namaḥ) [homage](namaḥ)
 
 ## mukta-m0-p122-v3043
-[salutation-to-inner-self-follower](adhyātmānugatāyanamaḥ) [salutation-to-strength](balāyanamaḥ) [salutation-to-history](itihāsāyanamaḥ)
+[self+inherent+homage](adhyātmānugatāyanamaḥ) [strength+homage](balāyanamaḥ) [itihāsa+homage](itihāsāyanamaḥ) [homage](namaḥ)
 
 ## mukta-m0-p122-v3044
-[salutation-to-subduer](vaśyāyanamaḥ) [salutation-to-subjugator](vaśakarāyanamaḥ) [salutation-to-time](kalayenamaḥ)
+[subject+homage](vaśyāyanamaḥ) [subject-maker+homage](vaśakarāyanamaḥ) [time+homage](kalayenamaḥ) [homage](namaḥ)
 
 ## mukta-m0-p122-v3045
-[salutation-to-world-maker](lokakarttrenamaḥ) [salutation-to-pashupati](paśupatayenamaḥ) [salutation-to-great-maker](mahākarttrenamaḥ)
+[world+maker+homage](lokakarttrenamaḥ) [paśupati+homage](paśupatayenamaḥ) [great+maker+homage](mahākarttrenamaḥ) [homage](namaḥ)
 
 ## mukta-m0-p122-v3046
-[salutation-to-without-medicine](anauṣadhāyanamaḥ) [salutation-to-imperishable](akṣarāyanamaḥ) [salutation-to-supreme-brahman](paramabrahmaṇenamaḥ)
+[without+medicine+homage](anauṣadhāyanamaḥ) [imperishable+homage](akṣarāyanamaḥ) [supreme+brahman+homage](paramabrahmaṇenamaḥ) [homage](namaḥ)
 
 ## mukta-m0-p122-v3047
-[salutation-to-strong](balavatenamaḥ) [salutation-to-indra](śakrāyanamaḥ) [salutation-to-policy](nītayenamaḥ)
+[strong+homage](balavatenamaḥ) [śakra+homage](śakrāyanamaḥ) [policy+homage](nītayenamaḥ) [homage](namaḥ)
 
 ## mukta-m0-p122-v3048
-[salutation-to-non-policy](anītayenamaḥ) [salutation-to-pure-soul](śuddhātmanenamaḥ) [salutation-to-pure](śuddhāyanamaḥ)
+[without+policy+homage](anītayenamaḥ) [pure+self+homage](śuddhātmanenamaḥ) [pure+homage](śuddhāyanamaḥ) [homage](namaḥ)
 
 ## mukta-m0-p122-v3049
-[salutation-to-honorable](mānyāyanamaḥ) [salutation-to-going-and-coming](gatāgatāyanamaḥ) [salutation-to-much-grace](bahuprasādāyanamaḥ)
+[honorable+homage](mānyāyanamaḥ) [going+coming+homage](gatāgatāyanamaḥ) [much+grace+homage](bahuprasādāyanamaḥ) [homage](namaḥ)
 
 ## mukta-m0-p122-v3050
-[salutation-to-veda-maker](vedakārāyanamaḥ) [salutation-to-mantra-maker](mantrakārāyanamaḥ) [salutation-to-knower](viduṣenamaḥ)
+[veda+maker+homage](vedakārāyanamaḥ) [mantra+maker+homage](mantrakārāyanamaḥ) [learned+homage](viduṣenamaḥ) [homage](namaḥ)

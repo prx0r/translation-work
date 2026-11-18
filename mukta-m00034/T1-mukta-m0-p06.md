@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p06-v126
-[would-arise](sambhaveyuḥ) [how](kathaṃ) [there](tatra) [nondual](nirvikalpa)+[established](pratiṣṭhitau)
+[term](sambhaveyuḥ) [term](kathaṃ) [term](tatra) [term](nirvikalpapratiṣṭhitau)
 
 ## mukta-m0-p06-v127
-[from-contradiction](virodhāt) [then-oneness](tāvadekatvaṃ) [would-be](syāt) [of-inert-and-noninert](jaḍājaḍayoḥ) [how](katham)
+[term](virodhāt) [term](tāvadekatvaṃ) [term](syājjaḍājaḍayoḥ) [term](katham)
 
 ## mukta-m0-p06-v128
-[with-limbs](sāṅgaḥ) [and](ca) [dependent-on-other-appearance](anyaprathādhīnaḥ) [even](api) [practice](abhyāsaḥ) [real](tāttvikaḥ) [opined](mataḥ)
+[term](sāṅgaścānyaprathādhīno'pyabhyāsastāttviko) [term]([-bhāsastāttviko]) [term](mataḥ)
 
 ## mukta-m0-p06-v129
-[from-being-one-and-many-nature](ekānekasvabhāvatvāt) [nature](svabhāvaḥ) [not](na) [is-destroyed](nirudhyate)
+[term](ekānekasvabhāvatvāt) [term](svabhāvo) [term](na) [term](nirudhyate)
 
 ## mukta-m0-p06-v130
-[that](tat) [self-established-light](svasiddhaprakāśaḥ) [cause-of-state-of-other-duality](anyadvayavasthāhetutām) [would-attain](iyāt)
+[term](tat) [term](svasiddhaprakāśo'nyavya) [term]((-śo'nyadvaya)vasthāhetutāmiyāt)
 
 ## mukta-m0-p06-v131
-[then](tato) [analogy-of-red-water](raktodakanyāyaḥ) [inapplicable](asaṅgataḥ) [here](atra) [how](kathaṃ) [would-be](bhavet)
+[term](tato) [term](raktodakanyāyo'saṅgato'tra) [term](kathaṃ) [term](bhavet)
 
 ## mukta-m0-p06-v132
-[from-disappearance-of-reflection](ābhāsavigamāt) [pure](acchāt) [liberation-become](muktibhūtā) [appearance](prathā) [would-be](bhavet)
+[term](ābhāsavigamādacchānmuktibhūtā) [term](prathā) [term](bhavet)
 
 ## mukta-m0-p06-v133
-[of-establishment-of-māyā-reflection](māyābhāsapratiṣṭhiteḥ)
+[term](* * * * * * * *) [term](māyābhāsapratiṣṭhiteḥ)
 
 ## mukta-m0-p06-v134
-[even-in-disappearance-of-light](prakāśavigame'pi) [would-be](syāt) [of-which-cause](yaddhetoḥ) [destruction-of-impressions](vāsanākṣayaḥ)
+[term](prakāśavigame'pi) [term](syād) [term](yaddhetorvāsanākṣayaḥ)
 
 ## mukta-m0-p06-v135
-[not-self-attained](nasvaprāptāsya) [of-lax-own-cause](vikalasvahetoḥ) [from-non-cessation](avirāmataḥ)
+[term](nasvaprāptāsya) [term]((?)) [term](vikalasvahetoravirāmataḥ)
 
 ## mukta-m0-p06-v136
-[not](na) [that](tat) [seed-of-omniscience](sarvajñatābījam) [by-reasoning](yuktitaḥ) [culminates](paryavasyati)
+[term](na) [term](tat) [term](sarvajñatābījaṃ) [term](yuktitaḥ) [term](paryavasyati)
 
 ## mukta-m0-p06-v137
-[even-in-identity](tādātmye'pi) [how](kathaṃ) [indeed](nāma) [establishment](pratiṣṭhām) [attains](adhigacchati)
+[term](tādātmye'pi) [term](kathaṃ) [term](nāma) [term](pratiṣṭhāmadhigacchati)
 
 ## mukta-m0-p06-v138
-[towards-that-condition](tadupādhiṃ) [towards](prati) [how](kathaṃ) [even-in-measure](mātrayāpi) [spreads](prasarpati)
+[term](tadupādhiṃ) [term](prati) [term](kathaṃ) [term](mātrayāpi) [term](prasarpati)
 
 ## mukta-m0-p06-v139
-[vessel-of-appearance](pratītibhājanam) [just-as](yadvat) [by-silver-etc](maṇiraupyādikaiḥ) [enough](alam)
+[term](pratītibhājanaṃ) [term](yadvanmaṇiraupyādikairalam)
 
 ## mukta-m0-p06-v140
-[tinged-by-light-object](prakāśārthoparaktaḥ) [even](api) [crystal-etc](sphaṭikādi) [like-inert](jaḍopamaḥ)
+[term](prakāśārthoparakto'pi) [term](sphaṭikādi) [term](jālomapam(?)) [term]([jaḍopamaḥ])
 
 ## mukta-m0-p06-v141
-[to-deny](apahnotum) [how](kathaṃ) [possible](śakyaḥ) [dependent-illusion-appearance](paratantramayaprathaḥ)
+[term](apahnotuṃ) [term](kathaṃ) [term](śakyaḥ) [term](paratantramaya(ḥ?)) [term](prathaḥ)
 
 ## mukta-m0-p06-v142
-[appears](bhāsate) [and](ca) [more](adhikam) [thus](iti) [mutually-inconsistent](parasparamasaṅgatam)
+[term](bhāsate) [term](cādhikañceti) [term](parasparamasaṅgatam)
 
 ## mukta-m0-p06-v143
-[thus](evaṃ) [and](ca) [consisting-of-various-experiences](nānānubhavamayī) [would-perish](naśyet) [world-condition](jagatsthitiḥ)
+[term](evaño) [term](nānānubhavamayī) [term](naśyejjagatsthitiḥ)
 
 ## mukta-m0-p06-v144
-[there](tatra) [but](tu) [thus](ittham) [justification](samarthanā)
+[term](* * * * * * * *) [term](tatra) [term](tvitthaṃ) [term](samarthanā)
 
 ## mukta-m0-p06-v145
-[unlimited-form-ness](anavacchinnarūpatvam) [then](tadā) [its](tasya) [own](nijam) [towards](prati)
+[term](anavacchinnarūpatvaṃ) [term](tadā) [term](tasya) [term](nijaṃ) [term](prati)
 
 ## mukta-m0-p06-v146
-[from-consciousness-impression](cidullekhāt) [not-more](anadhikam) [worldly-practice-accomplishing](lokayātrāprasādhakam)
+[term](cidullekhādanadhikaṃ) [term](lokayātrāprasādhakam)
 
 ## mukta-m0-p06-v147
-[this](iyam) [that](sā) [of-thing](vastunaḥ) [accomplishment](siddhiḥ) [real](tāttvikī) [of-knowers](viduṣām) [opined](matā)
+[term](iyaṃ) [term](sā) [term](vastunaḥ) [term](siddhistāttvikī) [term](viduṣāṃ) [term](matā)
 
 ## mukta-m0-p06-v148
-[essence-of-self-impression-agency](svollekhakartṛtāsārā) [from-direct-experience](pratyakṣānubhavāt) [established](sthitā)
+[term](svollekhakartṛtāsārā) [term](pratyakṣānubhavāt) [term](sthitā)
 
 ## mukta-m0-p06-v149
-[from-independence](svatantratvāt) [unbroken](anunbhagnam) [immersed](unmagnam) [as-if](iva) [would-illumine](bhāsayet)
+[term](svatantratvādanunbhagnamunmagnamiva) [term](bhāsayet)
 
 ## mukta-m0-p06-v150
-[by-harmony](sāmarasyena) [everywhere](sarvatra) [established-consciousness-only-essence](sthitaṃcinmātrasārataḥ)
+[term](sāmarasyena) [term](sarvatra) [term](sthitaṃcinmātrasārataḥ) [term]((sthitaści-))
