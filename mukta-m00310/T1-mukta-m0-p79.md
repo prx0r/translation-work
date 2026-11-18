@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p79-v1951
-[divine-epithet](sthāṇurūpaścaragatiścāruvaktro) [divine-epithet](jayī) [divine-epithet](nayī)
+[pillar+form](sthāṇurūpaḥ) [moving+gait](caragatiḥ) [beautiful+face](cāruvaktraḥ) [victorious](jayī) [leader](nayī)
 
 ## mukta-m0-p79-v1952
-[divine-epithet](lakṣmīnetravaśī) [divine-epithet](lakṣmīhāsavaśyo) [divine-epithet](vinartakaḥ)
+[lakshmi+eye+subduer](lakṣmīnetravaśī) [lakshmi+smile+subdued](lakṣmīhāsavaśyo) [dancer](vinartakaḥ)
 
 ## mukta-m0-p79-v1953
-[divine-epithet](vāsavo) [divine-epithet](gopyamārgeṣṭo) [divine-epithet](vaiṣṇavācāratatparaḥ)
+[indra](vāsavaḥ) [desired+on+secret+path](gopyamārgeṣṭo) [devoted+to+vaishnava+conduct](vaiṣṇavācāratatparaḥ)
 
 ## mukta-m0-p79-v1954
-[divine-epithet](satyaḥ) [divine-epithet](stutyaḥ) [divine-epithet](śucirnityo) [divine-epithet](nityātmā) [divine-epithet](nityadarśanaḥ)
+[true](satyaḥ) [praiseworthy](stutyaḥ) [pure+eternal](śucirnityo) [eternal+soul](nityātmā) [eternal+vision](nityadarśanaḥ)
 
 ## mukta-m0-p79-v1955
-[divine-epithet](pañcamasvarasaṅgītaḥ) [divine-epithet](kīrtido) [divine-epithet](mohanāśanaḥ)
+[fifth+note+music](pañcamasvarasaṅgītaḥ) [fame+giver](kīrtido) [delusion+destroyer](mohanāśanaḥ)
 
 ## mukta-m0-p79-v1956
-[divine-epithet](lakṣmīyogīśvaro) [divine-epithet](lakṣmīyogado) [divine-epithet](bhogināyakaḥ)
+[lakshmi+yoga+lord](lakṣmīyogīśvaro) [lakshmi+yoga+giver](lakṣmīyogado) [lord+of+enjoyers](bhogināyakaḥ)
 
 ## mukta-m0-p79-v1957
-[divine-epithet](acintyamahimā) [divine-epithet](acintyagarimā) [divine-epithet](ghoranisvanaḥ)
+[inconceivable+glory](acintyamahimā) [inconceivable+weight](acintyagarimā) [terrible+sound](ghoranisvanaḥ)
 
 ## mukta-m0-p79-v1958
-[divine-epithet](kāmadevo) [divine-epithet](vaidyavaidyo) [divine-epithet](vedavid) [divine-epithet](vedanāyakaḥ)
+[love+god](kāmadevo) [physician+of+physicians](vaidyavaidyo) [veda+knower](vedavid) [leader+of+vedas](vedanāyakaḥ)
 
 ## mukta-m0-p79-v1959
-[divine-epithet](yājñiko) [divine-epithet](yamināṃ) [divine-epithet](trātā) [divine-epithet](trilokajanako) [divine-epithet](ajaraḥ)
+[sacrificer](yājñiko) [protector+of+ascetics](yamināṃ trātā) [three+worlds+begetter](trilokajanako) [ageless](ajaraḥ)
 
 ## mukta-m0-p79-v1960
-[divine-epithet](lakṣmīpṛthurvasuprīto) [divine-epithet](lakṣmīśrīdaḥ) [divine-epithet](śriyaḥpatiḥ)
+[lakshmi+wide+vasu+pleased](lakṣmīpṛthurvasuprīto) [lakshmi+śrī+giver](lakṣmīśrīdaḥ) [lord+of+śrī](śriyaḥpatiḥ)
 
 ## mukta-m0-p79-v1961
-[divine-epithet](anirvartī) [divine-epithet](ca) [divine-epithet](niḥsaṅgo) [divine-epithet](nirbhayo) [divine-epithet](nirupadravaḥ)
+[irreversible](anirvartī) [and](ca) [unattached](niḥsaṅgo) [fearless](nirbhayo) [untroubled](nirupadravaḥ)
 
 ## mukta-m0-p79-v1962
-[divine-epithet](nirāśrayo) [divine-epithet](nirguṇaśca) [divine-epithet](guṇātīto) [divine-epithet](gaṇeśvaraḥ)
+[refugeless](nirāśrayo) [qualityless+and](nirguṇaśca) [beyond+qualities](guṇātīto) [lord+of+hosts](gaṇeśvaraḥ)
 
 ## mukta-m0-p79-v1963
-[divine-epithet](mahākraturyajñavapurvarāho) [divine-epithet](yajñanāyakaḥ)
+[great+sacrifice](mahākraturyajñavapurvarāho) [sacrifice+leader](yajñanāyakaḥ)
 
 ## mukta-m0-p79-v1964
-[divine-epithet](lakṣmīnirañjano) [divine-epithet](lakṣmīsiddhidaḥ) [divine-epithet](siddhivardhanaḥ)
+[lakshmi+unstained](lakṣmīnirañjano) [lakshmi+siddhi+giver](lakṣmīsiddhidaḥ) [siddhi+increaser](siddhivardhanaḥ)
 
 ## mukta-m0-p79-v1965
-[divine-epithet](sarvalokadharo) [divine-epithet](dānto) [divine-epithet](dantidantāyudho) [divine-epithet](damī)
+[all+worlds+bearer](sarvalokadharo) [self+controlled](dānto) [elephant+tusk+armed](dantidantāyudho) [subduer](damī)
 
 ## mukta-m0-p79-v1966
-[divine-epithet](mahākarmā) [divine-epithet](mahācīno) [divine-epithet](makāraśivapūjitaḥ)
+[great+deed](mahākarmā) [great+china](mahācīno) [ma+letter+shiva+worshipped](makāraśivapūjitaḥ)
 
 ## mukta-m0-p79-v1967
-[divine-epithet](māṃsāhārī) [divine-epithet](nityasaṅgī) [divine-epithet](mīnāsavarasākulaḥ)
+[flesh+eater](māṃsāhārī) [ever+associated](nityasaṅgī) [fish+nectar+juice+abundant](mīnāsavarasākulaḥ)
 
 ## mukta-m0-p79-v1968
-[divine-epithet](aghoradevo) [divine-epithet](daityārirjitadevo) [divine-epithet](divākaraḥ)
+[aghora+god](aghoradevo) [demon+enemy](daityāri) [conquered+god](jitadevo) [sun](divākaraḥ)
 
 ## mukta-m0-p79-v1969
-[divine-epithet](satsvarūpo) [divine-epithet](virūpākṣo) [divine-epithet](vibhākaraśataprabhaḥ)
+[true+form](satsvarūpo) [odd+eyed](virūpākṣo) [sun+maker+hundred+radiance](vibhākaraśataprabhaḥ)
 
 ## mukta-m0-p79-v1970
-[divine-epithet](pīnabāhuḥ) [divine-epithet](sthūlapādo) [divine-epithet](dīrghacakṣuralaṃbhujaḥ)
+[stout+armed](pīnabāhuḥ) [thick+footed](sthūlapādo) [long+eyed](dīrghacakṣu) [pendant+armed](ralaṃbhujaḥ)
 
 ## mukta-m0-p79-v1971
-[divine-epithet](lakṣmīsanātano) [divine-epithet](lakṣmīdharmādhyakṣo) [divine-epithet](dhaneśvaraḥ)
+[lakshmi+eternal](lakṣmīsanātano) [lakshmi+dharma+superintendent](lakṣmīdharmādhyakṣo) [wealth+lord](dhaneśvaraḥ)
 
 ## mukta-m0-p79-v1972
-[divine-epithet](vīrahaḥ) [divine-epithet](puṇḍarīkākṣaḥ) [divine-epithet](padmanābho) [divine-epithet](jagatprabhuḥ)
+[hero](vīrahaḥ) [lotus+eyed](puṇḍarīkākṣaḥ) [lotus+navel](padmanābho) [world+lord](jagatprabhuḥ)
 
 ## mukta-m0-p79-v1973
-[divine-epithet](sahasrabāhuḥ) [divine-epithet](kṣatreśo) [divine-epithet](brāhmaṇo) [divine-epithet](vaṇijāṃ) [divine-epithet](patiḥ)
+[thousand+armed](sahasrabāhuḥ) [kshatriya+lord](kṣatreśo) [brahmin](brāhmaṇo) [merchants+lord](vaṇijāṃ patiḥ)
 
 ## mukta-m0-p79-v1974
-[divine-epithet](cakrārcito) [divine-epithet](nakrapatirvaruṇaḥ) [divine-epithet](śakrasodaraḥ)
+[wheel+worshipped](cakrārcito) [crocodile+lord](nakrapatirvaruṇaḥ) [indra's+brother](śakrasodaraḥ)
 
 ## mukta-m0-p79-v1975
-[divine-epithet](amānī) [divine-epithet](mānado) [divine-epithet](mānyo) [divine-epithet](mānavendro) [divine-epithet](manūttamaḥ)
+[prideless](amānī) [honor+giver](mānado) [honorable](mānyo) [man+lord](mānavendro) [manu+best](manūttamaḥ)
