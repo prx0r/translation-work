@@ -2,52 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p32-v776
-[pada](arcayelliṃgamīśānamiyamādyā) [pada](mayāhutiḥ)
+arcayet(liṅgam) īśānam(iyamādyā) mayā(āhutiḥ)
+
 ## mukta-m0-p32-v777
-[pada](caṃdragarbheti) [pada](kāpyasti) [pada](nāḍīnalinalocane)
+caṃdragarbha(iti) kā(api) asti(nāḍī) nalina(locane)
+
 ## mukta-m0-p32-v778
-[pada](tatratyamamṛtaṃ) [pada](viddhi) [pada](kāmeśvaryuktibhūtidam)
+tatratyam(amṛtam) viddhi(kāmeśvarī) ukti(bhūtidam)
+
 ## mukta-m0-p32-v779
-[pada](īṣatpāṭalavarṇaṃ) [pada](ca) [pada](yūthikāsamasaurabham)
+īṣat(pāṭala) varṇam(ca) yūthikā(sama) saurabham
+
 ## mukta-m0-p32-v780
-[pada](sabhavatyaṃ) [pada](samāpanno) [pada](jaladatvaṃ) [pada](vaśīkriyāt)
+sabhavatyam(samāpannaḥ) jalada(tvaṃ) vaśīkriyāt
+
 ## mukta-m0-p32-v781
-[pada](na) [pada](sarodeva) [pada](svāteṣu) [pada](skhalitaṃ) [pada](gamanaṃ) [pada](bhavet)
+na(saras) deva(svāteṣu) skhalitam(gamanam) bhavet
+
 ## mukta-m0-p32-v782
-[pada](caṃdonmattā) [pada](padasthāne) [pada](caṃdragarbhā) [pada](prakīrttitā)
+caṃdonmattā(padasthāne) caṃdragarbhā(prakīrttitā)
+
 ## mukta-m0-p32-v783
-[pada](atradūtyāḥ) [pada](śarīrasya) [pada](pūrvatrāpi) [pada](daśābruve)
+atra(dūtyāḥ) śarīrasya(pūrvatrāpi) daśā(abruve)
+
 ## mukta-m0-p32-v784
-[pada](īṣadāraktatānetre) [pada](kiṃcidbhūvallitāṃḍavaṃ)
+īṣat(āraktatā) netre(kiṃcit) bhū(vallitā) aṃḍavaṃ
+
 ## mukta-m0-p32-v785
-[pada](ānaṃdanātha) [pada](bhavana) [pada](bāhyakakṣyā) [pada](vigāhanam)
+ānandanātha(bhavana) bāhya(kakṣyā) vigāhanam
+
 ## mukta-m0-p32-v786
-[pada](stanayoḥ) [pada](pulakāṃkūraḥ) [pada](gaṃḍayoścānuraktatā)
+stanayoḥ(pulaka) aṃkūraḥ(gaṃḍayoḥ) ca(anuraktatā)
+
 ## mukta-m0-p32-v787
-[pada](evaṃ) [pada](prakārā) [pada](sā) [pada](dūtī) [pada](caṃdragarbhāmṛtadravaiḥ)
+evaṃ(prakārā) sā(dūtī) caṃdragarbhā(amṛta) dravaiḥ
+
 ## mukta-m0-p32-v788
-[pada](yajedānaṃdanāthaṃ) [pada](sā) [pada](vīravatphalamaśnute)
+yajet(ānandanātham) sā(vīravat) phalam(aśnute)
+
 ## mukta-m0-p32-v789
-[pada](arthāṃguli) [pada](samunnamra) [pada](taptakāṃcanasannibhā)
+arthā(aṃguli) samunnamra(taptakāṃcana) sannibhā
+
 ## mukta-m0-p32-v790
-[pada](tasyāścaṃdriṇikānāyā) [pada](bhūyoliṃgeśatāḍavāt)
+tasyāḥ(caṃdriṇikā) nāyā(bhūyo) liṅgeśa(tāḍavāt)
+
 ## mukta-m0-p32-v791
-[pada](kādaṃbarī) [pada](rasāmodīmānmadaṃtoya) [pada](mudbhavet)
+kādaṃbarī(rasa) āmodī(mān) mada(toya) udbhavet
+
 ## mukta-m0-p32-v792
-[pada](godāvarī) [pada](tīrthamayī) [pada](tayā) [pada](siṃcenmaheśvaram)
+godāvarī(tīrtha) mayī(tayā) siṃcet(maheśvaram)
+
 ## mukta-m0-p32-v793
-[pada](rudratvasīmābhaktasya) [pada](vahnitattva) [pada](vaśīkṛtim)
+rudra(tva) sīmā(bhaktasya) vahni(tattva) vaśīkṛtim
+
 ## mukta-m0-p32-v794
-[pada](tanoti) [pada](bhagavāneṣaḥ) [pada](mahānaṃda) [pada](maheśvaraḥ)
+tanoti(bhagavān) eṣaḥ(mahānanda) maheśvaraḥ
+
 ## mukta-m0-p32-v795
-[pada](umedāhaṃ) [pada](prayacchaṃti) [pada](svayamagni) [pada](mayoyataḥ)
+umedāham(prayacchanti) svayam(agni) maya(yataḥ)
+
 ## mukta-m0-p32-v796
-[pada](asyāmaṃtrastu) [pada](suśroṇī) [pada](śrūyatāmabhidhīyate)
+asya(mantra) tu(suśroṇī) śrūyatām(abhidhīyate)
+
 ## mukta-m0-p32-v797
-[pada](arcayāmi) [pada](bhavadgātra) [pada](mataḥ) [pada](siddhiṃ) [pada](prayacchame)
+arcayāmi(bhavadgātra) mataḥ(siddhim) prayaccha(me)
+
 ## mukta-m0-p32-v798
-[pada](athānyanāḍikādevī) [pada](yā) [pada](sā) [pada](caṃdramahodayā)
+atha(anyanāḍikā) devī(yā) sā(caṃdra) mahodayā
+
 ## mukta-m0-p32-v799
-[pada](aṃtaḥ) [pada](kiṃcicchyāmavarṇātriṣu) [pada](sthāneṣu) [pada](vakritā)
+antaḥ(kiṃcit) śyāma(varṇā) triṣu(sthāneṣu) vakritā
+
 ## mukta-m0-p32-v800
-[pada](līlānamrita) [pada](gaurāṃgī) [pada](valadbhrūvallibhāsurā)
+līlā(amṛta) gaurāṃgī(valat) bhrū(vallī) bhāsurā

@@ -24,7 +24,7 @@
 },
 {
 "surface": "kathaya",
-"quick_gloss": "speak"
+"quick_gloss": "tell"
 },
 {
 "surface": "prabho",
@@ -57,7 +57,7 @@
 },
 {
 "surface": "bhajaṃte",
-"quick_gloss": "worship"
+"quick_gloss": "enjoy"
 },
 {
 "surface": "narmakarmaṇi",
@@ -115,7 +115,7 @@
 },
 {
 "surface": "dātuṃ",
-"quick_gloss": "to-give"
+"quick_gloss": "give"
 },
 {
 "surface": "tadvilaṃbāt",
@@ -152,7 +152,7 @@
 },
 {
 "surface": "ratādhvare",
-"quick_gloss": "pleasure-rite"
+"quick_gloss": "love-rite"
 }
 ]
 },
@@ -169,7 +169,7 @@
 },
 {
 "surface": "udravati",
-"quick_gloss": "runs"
+"quick_gloss": "rushes"
 },
 {
 "surface": "bahuśaḥ",
@@ -180,11 +180,7 @@
 "quick_gloss": "like-butter"
 },
 {
-"surface": "ivā",
-"quick_gloss": "iva"
-},
-{
-"surface": "agninā",
+"surface": "ivāgninā",
 "quick_gloss": "by-fire"
 }
 ]
@@ -214,7 +210,7 @@
 },
 {
 "surface": "ghaṭṭalayaṃ",
-"quick_gloss": "striking-dissolution"
+"quick_gloss": "pot-dissolution"
 },
 {
 "surface": "priye",
@@ -243,7 +239,7 @@
 },
 {
 "surface": "nayet",
-"quick_gloss": "leads"
+"quick_gloss": "lead"
 }
 ]
 },
@@ -284,8 +280,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "nityānaṃdamayaṃ",
-"quick_gloss": "eternal-blissful"
+"surface": "nitya",
+"quick_gloss": "eternal"
+},
+{
+"surface": "ānaṃdamayaṃ",
+"quick_gloss": "blissful"
 },
 {
 "surface": "tatvaṃ",
@@ -309,16 +309,24 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "ayameva",
+"surface": "ayam",
 "quick_gloss": "this"
+},
+{
+"surface": "eva",
+"quick_gloss": "indeed"
 },
 {
 "surface": "mahāyajñaḥ",
 "quick_gloss": "great-sacrifice"
 },
 {
-"surface": "tapaśca",
+"surface": "tapaḥ",
 "quick_gloss": "austerity"
+},
+{
+"surface": "ca",
+"quick_gloss": "and"
 },
 {
 "surface": "idam",
@@ -351,7 +359,7 @@
 },
 {
 "surface": "ānaṃdādvaitadāyakaṃ",
-"quick_gloss": "bliss-nondual-giving"
+"quick_gloss": "bliss-nonduality-giving"
 }
 ]
 },
@@ -364,7 +372,7 @@
 "tokens": [
 {
 "surface": "biṃduvikṣaraṇaṃ",
-"quick_gloss": "bindu-shedding"
+"quick_gloss": "drop-emission"
 },
 {
 "surface": "nāma",
@@ -372,7 +380,7 @@
 },
 {
 "surface": "yajñāvabhṛtha",
-"quick_gloss": "sacrificial-bath"
+"quick_gloss": "sacrifice-concluding-rite"
 },
 {
 "surface": "ucyate",
@@ -479,24 +487,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "atyaṃtāścarya",
+"surface": "atyaṃta",
 "quick_gloss": "extremely"
 },
 {
-"surface": "janakaṃ",
-"quick_gloss": "wonder-causing"
+"surface": "āścaryajanakaṃ",
+"quick_gloss": "wonder-producing"
 },
 {
 "surface": "yadi",
 "quick_gloss": "if"
 },
 {
-"surface": "śuklasya",
-"quick_gloss": "of-white"
-},
-{
-"surface": "dhāraṇā",
-"quick_gloss": "holding"
+"surface": "śuklasya dhāraṇā",
+"quick_gloss": "white-retention"
 }
 ]
 },
@@ -508,16 +512,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "natu",
+"surface": "na",
 "quick_gloss": "not"
 },
 {
-"surface": "kenāpi",
-"quick_gloss": "even"
-},
-{
-"surface": "yatnena",
-"quick_gloss": "effort"
+"surface": "tukenāpi yatnena",
+"quick_gloss": "even-by-effort"
 },
 {
 "surface": "jāyate",
@@ -525,7 +525,7 @@
 },
 {
 "surface": "śukladhāraṇā",
-"quick_gloss": "white-holding"
+"quick_gloss": "white-retention"
 }
 ]
 },
@@ -566,12 +566,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "tadvadāmi",
+"surface": "tad",
 "quick_gloss": "that"
 },
 {
+"surface": "vadāmi",
+"quick_gloss": "I-speak"
+},
+{
 "surface": "mahābhāge",
-"quick_gloss": "great-fortunate"
+"quick_gloss": "great-fortunate-one"
 },
 {
 "surface": "staṃbhanaṃ",
@@ -579,7 +583,7 @@
 },
 {
 "surface": "rasasaṃpadām",
-"quick_gloss": "rasa-excellence"
+"quick_gloss": "essence-accomplishment"
 }
 ]
 },
@@ -591,20 +595,32 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "naṃdavyate",
-"quick_gloss": "delights"
+"surface": "na",
+"quick_gloss": "not"
+},
+{
+"surface": "vyate",
+"quick_gloss": "attained"
 },
 {
 "surface": "kathamapi",
-"quick_gloss": "somehow"
+"quick_gloss": "howsoever"
 },
 {
 "surface": "prauḍham",
-"quick_gloss": "mature"
+"quick_gloss": "matured"
 },
 {
-"surface": "ekorasobudhaiḥ",
+"surface": "eka",
 "quick_gloss": "one"
+},
+{
+"surface": "rasaḥ",
+"quick_gloss": "essence"
+},
+{
+"surface": "budhaiḥ",
+"quick_gloss": "by-wise"
 }
 ]
 },
@@ -616,11 +632,15 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "sarvepi",
+"surface": "sarve",
 "quick_gloss": "all"
 },
 {
-"surface": "dhātavo",
+"surface": "api",
+"quick_gloss": "api"
+},
+{
+"surface": "dhātavaḥ",
 "quick_gloss": "tissues"
 },
 {
@@ -653,12 +673,16 @@
 "quick_gloss": "all"
 },
 {
-"surface": "vasannapi",
+"surface": "vasan",
 "quick_gloss": "dwelling"
 },
 {
+"surface": "api",
+"quick_gloss": "api"
+},
+{
 "surface": "raseśvaraḥ",
-"quick_gloss": "rasa-lord"
+"quick_gloss": "mercury-lord"
 }
 ]
 },
@@ -687,7 +711,7 @@
 },
 {
 "surface": "hṛdiparemaṇau",
-"quick_gloss": "in-heart-jewel"
+"quick_gloss": "in-heart-gem"
 }
 ]
 },
@@ -699,7 +723,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "decid",
+"surface": "kecid",
 "quick_gloss": "some"
 },
 {
@@ -711,7 +735,7 @@
 "quick_gloss": "goddess"
 },
 {
-"surface": "decid",
+"surface": "kecid",
 "quick_gloss": "some"
 },
 {
