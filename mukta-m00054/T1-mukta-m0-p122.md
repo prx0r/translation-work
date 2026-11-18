@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p122-v3026
-[salutation-to-mendicant](bhikṣavenamaḥ) [salutation-to-mendicant-form](bhikṣurūpāyanamaḥ) [salutation-to-merchant](vipaṇāyanamaḥ)
+[to-beggar](bhikṣave) [salutation](namaḥ) [to-beggar-form](bhikṣurūpāya) [salutation](namaḥ) [to-market](vipaṇāya) [salutation](namaḥ)
 
 ## mukta-m0-p122-v3027
-[salutation-to-vajra-hand](vajrahastāyanamaḥ) [salutation-to-viṣkambhin](viṣkambhinenamaḥ)
+[to-thunderbolt-holder](vajrahastāya) [salutation](namaḥ) [to-obstacle](viṣkambhine) [salutation](namaḥ)
 
 ## mukta-m0-p122-v3028
-[salutation-to-army-stopping](camūstambhanāyanamaḥ) [salutation-to-round-and-nonround-maker](vṛttāvṛttakarāyanamaḥ)
+[to-army-stopping](camūstambhanāya) [salutation](namaḥ) [to-round-and-unround-maker](vṛttāvṛttakarāya) [salutation](namaḥ)
 
 ## mukta-m0-p122-v3029
-[salutation-to-palm](tālāyanamaḥ) [salutation-to-madhava](madhavenamaḥ) [salutation-to-sweet-eyed](madhukalocanāyanamaḥ)
+[to-palm](tālāya) [salutation](namaḥ) [to-spring](madhave) [salutation](namaḥ) [to-honey-eyed](madhukalocanāya) [salutation](namaḥ)
 
 ## mukta-m0-p122-v3030
-[salutation-to-vācaspati](vācaspatyāyanamaḥ) [salutation-to-vājasana](vājasanāyanamaḥ)
+[to-speech-lord](vācaspatyāya) [salutation](namaḥ) [to-sacrificial-food](vājasanāya) [salutation](namaḥ)
 
 ## mukta-m0-p122-v3031
-[salutation-to-āśrama-honored](āśramapūjitāyanamaḥ) [salutation-to-brahmacārin](brahmacāriṇenamaḥ)
+[to-hermitage-honored](āśramapūjitāya) [salutation](namaḥ) [to-celibate](brahmacāriṇe) [salutation](namaḥ)
 
 ## mukta-m0-p122-v3032
-[salutation-to-world-wanderer](lokacāriṇenamaḥ) [salutation-to-all-wanderer](sarvacāriṇenamaḥ) [salutation-to-inquiry-knower](vicāravidenamaḥ)
+[to-world-wanderer](lokacāriṇe) [salutation](namaḥ) [to-all-wanderer](sarvacāriṇe) [salutation](namaḥ) [to-inquiry-knower](vicāravide) [salutation](namaḥ)
 
 ## mukta-m0-p122-v3033
-[salutation-to-īśāna](īśānāyanamaḥ) [salutation-to-īśvara](īśvarāyanamaḥ) [salutation-to-time](kālāyanamaḥ)
+[to-lord](īśānāya) [salutation](namaḥ) [to-controller](īśvarāya) [salutation](namaḥ) [to-time](kālāya) [salutation](namaḥ)
 
 ## mukta-m0-p122-v3034
-[salutation-to-night-wanderer](niśācāriṇenamaḥ) [salutation-to-pināka-holder](pinākadhṛṣenamaḥ) [salutation-to-omen-abiding](nimittasthāyanamaḥ)
+[to-night-wanderer](niśācāriṇe) [salutation](namaḥ) [to-pinaka-holder](pinākadhṛṣe) [salutation](namaḥ) [to-omen-established](nimittasthāya) [salutation](namaḥ)
 
 ## mukta-m0-p122-v3035
-[salutation-to-omen](nimittāyanamaḥ) [salutation-to-delighter](nandayenamaḥ) [salutation-to-nandikara](nandikarāyanamaḥ)
+[to-omen](nimittāya) [salutation](namaḥ) [to-delighter](nandaye) [salutation](namaḥ) [to-joy-maker](nandikarāya) [salutation](namaḥ)
 
 ## mukta-m0-p122-v3036
-[salutation-to-hara](harayenamaḥ) [salutation-to-nandīśvara](nandīśvarāyanamaḥ) [salutation-to-nandin](nandinenamaḥ)
+[to-hara](haraye) [salutation](namaḥ) [to-joy-lord](nandīśvarāya) [salutation](namaḥ) [to-joy](nandine) [salutation](namaḥ)
 
 ## mukta-m0-p122-v3037
-[salutation-to-slayer](nihantrenamaḥ) [salutation-to-time](kālāyanamaḥ) [salutation-to-brahman](brahmaṇenamaḥ)
+[to-slayer](nihantre) [salutation](namaḥ) [to-time](kālāya) [salutation](namaḥ) [to-brahman](brahmaṇe) [salutation](namaḥ)
 
 ## mukta-m0-p122-v3038
-[salutation-to-pitāmaha](pitāmahāyanamaḥ) [salutation-to-four-faced](caturmmukhāyanamaḥ)
+[to-grandfather](pitāmahāya) [salutation](namaḥ) [to-four-faced](caturmmukhāya) [salutation](namaḥ)
 
 ## mukta-m0-p122-v3039
-[salutation-to-great-liṅga](mahāliṅgāyanamaḥ) [salutation-to-beautiful-liṅga](cāruliṅgāyanamaḥ)
+[to-great-linga](mahāliṅgāya) [salutation](namaḥ) [to-beautiful-linga](cāruliṅgāya) [salutation](namaḥ)
 
 ## mukta-m0-p122-v3040
-[salutation-to-liṅga-superintendent](liṅgādhyakṣāyanamaḥ) [salutation-to-god-superintendent](surādhyakṣāyanamaḥ)
+[to-linga-overseer](liṅgādhyakṣāya) [salutation](namaḥ) [to-god-overseer](surādhyakṣāya) [salutation](namaḥ)
 
 ## mukta-m0-p122-v3041
-[salutation-to-yoga-superintendent](yogādhyakṣāyanamaḥ) [salutation-to-yuga-bearer](yugāvahāyanamaḥ)
+[to-yoga-overseer](yogādhyakṣāya) [salutation](namaḥ) [to-yuga-bearer](yugāvahāya) [salutation](namaḥ)
 
 ## mukta-m0-p122-v3042
-[salutation-to-seed-superintendent](bījādhyakṣāyanamaḥ) [salutation-to-seed-maker](bījakarttrenamaḥ)
+[to-seed-overseer](bījādhyakṣāya) [salutation](namaḥ) [to-seed-maker](bījakarttre) [salutation](namaḥ)
 
 ## mukta-m0-p122-v3043
-[salutation-to-inner-self-follower](adhyātmānugatāyanamaḥ) [salutation-to-strength](balāyanamaḥ) [salutation-to-itihāsa](itihāsāyanamaḥ)
+[to-inner-self-follower](adhyātmānugatāya) [salutation](namaḥ) [to-strength](balāya) [salutation](namaḥ) [to-history](itihāsāya) [salutation](namaḥ)
 
 ## mukta-m0-p122-v3044
-[salutation-to-subduing](vaśyāyanamaḥ) [salutation-to-subduer](vaśakarāyanamaḥ) [salutation-to-kalā](kalayenamaḥ)
+[to-subduing](vaśyāya) [salutation](namaḥ) [to-subduer](vaśakarāya) [salutation](namaḥ) [to-time](kalaye) [salutation](namaḥ)
 
 ## mukta-m0-p122-v3045
-[salutation-to-world-maker](lokakarttrenamaḥ) [salutation-to-paśupati](paśupatayenamaḥ) [salutation-to-great-maker](mahākarttrenamaḥ)
+[to-world-maker](lokakarttre) [salutation](namaḥ) [to-pashupati](paśupataye) [salutation](namaḥ) [to-great-maker](mahākarttre) [salutation](namaḥ)
 
 ## mukta-m0-p122-v3046
-[salutation-to-without-medicine](anauṣadhāyanamaḥ) [salutation-to-imperishable](akṣarāyanamaḥ) [salutation-to-supreme-brahman](paramabrahmaṇenamaḥ)
+[to-without-medicine](anauṣadhāya) [salutation](namaḥ) [to-imperishable](akṣarāya) [salutation](namaḥ) [to-supreme-brahman](paramabrahmaṇe) [salutation](namaḥ)
 
 ## mukta-m0-p122-v3047
-[salutation-to-strong](balavatenamaḥ) [salutation-to-śakra](śakrāyanamaḥ) [salutation-to-policy](nītayenamaḥ)
+[to-strong](balavate) [salutation](namaḥ) [to-indra](śakrāya) [salutation](namaḥ) [to-policy](nītaye) [salutation](namaḥ)
 
 ## mukta-m0-p122-v3048
-[salutation-to-without-policy](anītayenamaḥ) [salutation-to-pure-soul](śuddhātmanenamaḥ) [salutation-to-pure](śuddhāyanamaḥ)
+[to-non-policy](anītaye) [salutation](namaḥ) [to-pure-soul](śuddhātmane) [salutation](namaḥ) [to-pure](śuddhāya) [salutation](namaḥ)
 
 ## mukta-m0-p122-v3049
-[salutation-to-honorable](mānyāyanamaḥ) [salutation-to-going-and-coming](gatāgatāyanamaḥ) [salutation-to-much-grace](bahuprasādāyanamaḥ)
+[to-honorable](mānyāya) [salutation](namaḥ) [to-going-and-coming](gatāgatāya) [salutation](namaḥ) [to-much-grace](bahuprasādāya) [salutation](namaḥ)
 
 ## mukta-m0-p122-v3050
-[salutation-to-veda-maker](vedakārāyanamaḥ) [salutation-to-mantra-maker](mantrakārāyanamaḥ) [salutation-to-learned](viduṣenamaḥ)
+[to-veda-maker](vedakārāya) [salutation](namaḥ) [to-mantra-maker](mantrakārāya) [salutation](namaḥ) [to-knower](viduṣe) [salutation](namaḥ)

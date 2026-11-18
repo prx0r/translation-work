@@ -7,12 +7,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "dhyātvā",
-"quick_gloss": "having-meditated"
-},
-{
-"surface": "evaṃ",
-"quick_gloss": "thus"
+"surface": "dhyātvaivaṃ",
+"quick_gloss": "meditating-thus"
 },
 {
 "surface": "prāñjaliḥ",
@@ -23,16 +19,12 @@
 "quick_gloss": "having-become"
 },
 {
-"surface": "avāhayet",
+"surface": "āvāhayet",
 "quick_gloss": "should-invoke"
 },
 {
-"surface": "havya",
-"quick_gloss": "oblation"
-},
-{
-"surface": "vāhanam",
-"quick_gloss": "carrier"
+"surface": "havyavāhanam",
+"quick_gloss": "fire-god"
 }
 ]
 },
@@ -44,12 +36,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "adhvaram",
-"quick_gloss": "oblation"
-},
-{
-"surface": "rakṣa",
-"quick_gloss": "protect"
+"surface": "adhvaraṃ+rakṣa",
+"quick_gloss": "protect-the-sacrifice"
 },
 {
 "surface": "rakṣa",
@@ -141,7 +129,7 @@
 "tokens": [
 {
 "surface": "yathopacāraiḥ",
-"quick_gloss": "as-with-offerings"
+"quick_gloss": "as-per-offerings"
 },
 {
 "surface": "sampūjya",
@@ -198,12 +186,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "uttarāntam",
+"surface": "uttarāntaṃ",
 "quick_gloss": "up-to-northern-end"
 },
 {
 "surface": "maheśāni",
-"quick_gloss": "o-great-goddess"
+"quick_gloss": "o-great-lady"
 },
 {
 "surface": "tridhā",
@@ -215,7 +203,7 @@
 },
 {
 "surface": "ācaret",
-"quick_gloss": "should-do"
+"quick_gloss": "should-perform"
 }
 ]
 },
@@ -231,7 +219,7 @@
 "quick_gloss": "threefold"
 },
 {
-"surface": "paryukṣaṇam",
+"surface": "paryukṣaṇaṃ",
 "quick_gloss": "circum-sprinkling"
 },
 {
@@ -243,12 +231,8 @@
 "quick_gloss": "then"
 },
 {
-"surface": "yajñīya",
-"quick_gloss": "sacrificial"
-},
-{
-"surface": "vastunaḥ",
-"quick_gloss": "substance"
+"surface": "yajñīyavastunaḥ",
+"quick_gloss": "sacrificial-material"
 }
 ]
 },
@@ -295,7 +279,7 @@
 },
 {
 "surface": "ācaret",
-"quick_gloss": "should-do"
+"quick_gloss": "should-perform"
 }
 ]
 },
@@ -311,7 +295,7 @@
 "quick_gloss": "threefold-indeed"
 },
 {
-"surface": "paryukṣaṇam",
+"surface": "paryukṣaṇaṃ",
 "quick_gloss": "circum-sprinkling"
 },
 {
@@ -353,8 +337,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "vāmāṅguṣṭhakaniṣṭhābhyām",
-"quick_gloss": "left-thumb-little-finger"
+"surface": "vāmāṅguṣṭhakaniṣṭhābhyāṃ",
+"quick_gloss": "by-left-thumb-and-little-finger"
 },
 {
 "surface": "brahmaṇaḥ",
@@ -375,14 +359,14 @@
 "tokens": [
 {
 "surface": "ityuktvā",
-"quick_gloss": "thus-having-said"
+"quick_gloss": "thus-saying"
 },
 {
 "surface": "agner",
 "quick_gloss": "of-fire"
 },
 {
-"surface": "dakṣiṇasyām",
+"surface": "dakṣiṇasyāṃ",
 "quick_gloss": "to-south"
 },
 {
@@ -403,12 +387,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "sīdāmīti",
-"quick_gloss": "sīdāmi"
+"surface": "sīdāmi",
+"quick_gloss": "sitting"
+},
+{
+"surface": "iti",
+"quick_gloss": "thus-saying"
 },
 {
 "surface": "vadan",
-"quick_gloss": "saying"
+"quick_gloss": "vadan"
 },
 {
 "surface": "brahmā",
@@ -444,7 +432,7 @@
 "quick_gloss": "with-sandal-flowers-etc"
 },
 {
-"surface": "brahmāṇam",
+"surface": "brahmāṇaṃ",
 "quick_gloss": "brahma"
 },
 {
@@ -473,7 +461,7 @@
 "quick_gloss": "ca"
 },
 {
-"surface": "yajñapatim",
+"surface": "yajñapatiṃ",
 "quick_gloss": "sacrifice-lord"
 },
 {
@@ -482,19 +470,15 @@
 },
 {
 "surface": "karmasākṣin",
-"quick_gloss": "action-witness"
+"quick_gloss": "sacrifice-witness"
 },
 {
 "surface": "namaḥ",
 "quick_gloss": "salutation"
 },
 {
-"surface": "astu",
+"surface": "astu+te",
 "quick_gloss": "to-you"
-},
-{
-"surface": "te",
-"quick_gloss": "te"
 }
 ]
 },
@@ -515,14 +499,14 @@
 },
 {
 "surface": "kuśaiḥ",
-"quick_gloss": "kuśa-grass"
+"quick_gloss": "kuśa"
 },
 {
-"surface": "sthaṇḍilam",
+"surface": "sthaṇḍilaṃ",
 "quick_gloss": "altar"
 },
 {
-"surface": "paristaret",
+"surface": "paristared",
 "quick_gloss": "should-spread"
 },
 {
@@ -547,7 +531,7 @@
 "quick_gloss": "of-fire"
 },
 {
-"surface": "dakṣiṇasyām",
+"surface": "dakṣiṇasyāṃ",
 "quick_gloss": "to-south"
 },
 {
@@ -581,8 +565,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "tamevedaṃ",
-"quick_gloss": "that-very-this"
+"surface": "tameva",
+"quick_gloss": "that-very"
+},
+{
+"surface": "idaṃ",
+"quick_gloss": "this"
 },
 {
 "surface": "prārthayet",
@@ -619,11 +607,11 @@
 "quick_gloss": "there"
 },
 {
-"surface": "darbhamayam",
+"surface": "darbhamayaṃ",
 "quick_gloss": "darbha-made"
 },
 {
-"surface": "vipram",
+"surface": "vipraṃ",
 "quick_gloss": "brahmin"
 },
 {
