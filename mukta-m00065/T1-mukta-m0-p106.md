@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p106-v2626
-[karṇikā](karṇikā) [śaśibhāgena](śaśibhāgena) [vistārāt](vistārāt) [ca](ca) [adhunā](adhunā) [ucyate](ucyate)
+karṇikā śaśibhāgena vistārāt ca adhunā ucyate
 
 ## mukta-m0-p106-v2627
-[tanmadhye](tanmadhye) [tu](tu) [dvibhāgābhyām](dvibhāgābhyām) [praveśaḥ](praveśaḥ) [gṛha/graha](gṛha) [hetave](hetave)
+tanmadhye tu dvibhāgābhyām praveśaḥ gṛha hetave
 
 ## mukta-m0-p106-v2628
-[evameva](evameva) [tu](tu) [jaṅghā](jaṅghā) [yāma](yāma) [añjaryā](añjaryā) [vedikāvadhiḥ](vedikāvadhiḥ)
+evameva tu jaṅghāyām añjaryā vedikāvadhiḥ
 
 ## mukta-m0-p106-v2629
-[prāsāda](prāsāda) [śikharam](śikharam) [vā](vā) [api](api) [brūyām](brūyām) [uparathā](uparathā) [ādikān](ādikān)
+prāsādaśikharam vā api brūyām uparathādikān
 
 ## mukta-m0-p106-v2630
-[pīṭha](pīṭha) [ādi](ādi) [abja](abja) [antam](antam) [ucchrāye](ucchrāye) [praveśaḥ](praveśaḥ) [ca](ca) [nigadyate](nigadyate)
+pīṭhādi-abjāntam ucchrāye praveśaḥ ca nigadyate
 
 ## mukta-m0-p106-v2631
-[ardhena](ardhena) [paṭṭikām](paṭṭikām) [kuryāt](kuryāt) [dvābhyām](dvābhyām) [kaṇṭha](kaṇṭha) [praveśakam](praveśakam)
+ardhena paṭṭikām kuryāt dvābhyām kaṇṭhapraveśakam
 
 ## mukta-m0-p106-v2632
-[ardhāṃśena](ardhāṃśena) [tadūrdhve](tadūrdhve) [tu](tu) [kāryā](kāryā) [ca](ca) [eva](eva) [upapaṭṭikā](upapaṭṭikā)
+ardhāṃśena tatūrdhve tu kāryā ca eva upapaṭṭikā
 
 ## mukta-m0-p106-v2633
-[tryāṅghri](tryāṅghri) [praveśaḥ](praveśaḥ) [haṃsa/dvyaṃśa](haṃsa) [tat](tat) [paṭṭi](paṭṭi) [ardha](ardha) [praveśataḥ](praveśataḥ)
+tryāṅghripraveśaḥ haṃsa statpaṭṭyardhapraveśataḥ
 
 ## mukta-m0-p106-v2634
-[sandhi](sandhi) [patra](patra) [anvitaṃ/ṅkita](anvitaṃ) [padmam](padmam) [vidadhīta](vidadhīta) [suśobhanam](suśobhanam)
+sandhipatrānvitam padmam vidadhīta suśobhanam
 
 ## mukta-m0-p106-v2635
-[śilotthaṃ](śilotthaṃ) [pada](pada) [pīṭham](pīṭham) [syāt](syāt) [evam](evam) [dārviṣṭakā](dārviṣṭakā) [maye](maye)
+śilottham padapīṭham syāt evam dārviṣṭakāmaye
 
 ## mukta-m0-p106-v2636
-[tad](tad) [ucchrayaṃ](ucchrayaṃ) [grahaṃ](grahaṃ) [kṛtvā](kṛtvā) [jaṅghā](jaṅghā) [tanmadhyataḥ](tanmadhyataḥ) [guṇaiḥ](guṇaiḥ)
+tatucchrayam graham kṛtvā jaṅghā tanmadhyataḥ guṇaiḥ
 
 ## mukta-m0-p106-v2637
-[vedibandha](vedibandha) [varaṇḍā/vavaṇḍā](varaṇḍā) [din](din) [nigadāmi](nigadāmi) [anupūrvaśaḥ](anupūrvaśaḥ)
+vedibandhavaraṇḍā dinnigadāmi anupūrvaśaḥ
 
 ## mukta-m0-p106-v2638
-[ucchraye](ucchraye) [dhāma](dhāma) [turyāṃśāt](turyāṃśāt) [tasmin](tasmin) [nidrā](nidrā) [aṃśake](aṃśake) [kṛte](kṛte)
+ucchraye dhāmaturyāṃśāt tasmin nidrāṃśakekṛte
 
 ## mukta-m0-p106-v2639
-[sārdhatrayeṇa](sārdhatrayeṇa) [kumbhaḥ](kumbhaḥ) [syāt](syāt) [tadardhe](tadardhe) [kumbhapaṭṭikā](kumbhapaṭṭikā)
+sārdhatrayeṇa kumbhaḥ syāt tadardhe kumbhapaṭṭikā
 
 ## mukta-m0-p106-v2640
-[bhāga](bhāga) [ardhena](ardhena) [tu](tu) [kaṇṭhaḥ](kaṇṭhaḥ) [syāt](syāt) [kalaśaḥ](kalaśaḥ) [ca](ca) [guṇa](guṇa) [aṃśataḥ](aṃśataḥ)
+bhāgārdhena tu kaṇṭhaḥ syāt kalaśaḥ ca guṇāṃśataḥ
 
 ## mukta-m0-p106-v2641
-[praveśāt](praveśāt) [ca](ca) [ekataḥ](ekataḥ) [kaṇṭhāḥ](kaṇṭhāḥ) [ca](ca) [ardhe/sārdhe](ardhe) [nirgama](nirgama) [paṭṭikā](paṭṭikā)
+praveśāt ca ekataḥ kaṇṭhāḥ ca ardhe nirgamapaṭṭikā
 
 ## mukta-m0-p106-v2642
-[kumbhapaṭṭī](kumbhapaṭṭī) [tu](tu) [pādena](pādena) [kupālyā](kupālyā) [dyaṃśataḥ](dyaṃśataḥ) [sthitā](sthitā)
+kumbhapaṭṭī tu pādena kupālyā dyaṃśataḥ sthitā
 
 ## mukta-m0-p106-v2643
-[tribhiḥ](tribhiḥ) [khura](khura) [ādibhiḥ](ādibhiḥ) [yuktam](yuktam) [vedībandha](vedībandha) [abhidhānakam](abhidhānakam)
+tribhiḥ khurādibhiḥ yuktam vedībandhābhidhānakam
 
 ## mukta-m0-p106-v2644
-[kṛteṣu](kṛteṣu) [triṣu](triṣu) [bhāgeṣu](bhāgeṣu) [pādonāṃśāt](pādonāṃśāt) [praveśikān](praveśikān)
+kṛteṣu triṣu bhāgeṣu pādonāṃśāt praveśikān
 
 ## mukta-m0-p106-v2645
-[bhāgena](bhāgena) [caturasra](caturasra) [ākhyā](ākhyā) [paṭṭikā](paṭṭikā) [sārdhataḥ](sārdhataḥ) [sthitā](sthitā)
+bhāgena caturasrākhyā paṭṭikā sārdhataḥ sthitā
 
 ## mukta-m0-p106-v2646
-[khuṃra](khuṃra) [kumbhavatī](kumbhavatī) [jaṅghā](jaṅghā) [jyeṣṭhānām](jyeṣṭhānām) [pāda](pāda) [mānataḥ](mānataḥ)
+khuṃrakumbhavatī jaṅghā jyeṣṭhānām pādamānataḥ
 
 ## mukta-m0-p106-v2647
-[yāvat](yāvat) [chinnava](chinnava) [kām](kām) [vā](vā) [api](api) [patravali](patravali) [athavā](athavā) [varā](varā)
+yāvat cinnvakām vā api patravalyā athavā varā
 
 ## mukta-m0-p106-v2648
-[caturthāṃśaḥ](caturthāṃśaḥ) [ca](ca) [jaṅgha](jaṅgha) [ūrdhve](ūrdhve) [vibhajya](vibhajya) [vasu](vasu) [bhāgataḥ](bhāgataḥ)
+caturthāṃśaḥ ca jaṅghordhve vibhajya vasubhāgataḥ
 
 ## mukta-m0-p106-v2649
-[tatra](tatra) [ardhena](ardhena) [praveśa](praveśa) [ākhyaṃ](ākhyaṃ) [paṭṭikām](paṭṭikām) [tu](tu) [vi/bhuvi](vi) [vartayet](vartayet)
+tatrārdhena praveśākhyaṃ paṭṭikām tu vi vartayet
 
 ## mukta-m0-p106-v2650
-[pādonāṃśena](pādonāṃśena) [haṃsa/hasta](haṃsa) [ākhyā](ākhyā) [paṭṭī](paṭṭī) [tat](tat) [padato](padato) [bhavet](bhavet)
+pādonāṃśena haṃsākhyā paṭṭī tatpadato bhavet

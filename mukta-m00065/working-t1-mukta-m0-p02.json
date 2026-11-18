@@ -24,11 +24,19 @@
 },
 {
 "surface": "calaṃ",
-"quick_gloss": "mobile"
+"quick_gloss": "movable"
 },
 {
-"surface": "caivācalaṃ",
-"quick_gloss": "and-immobile"
+"surface": "ca",
+"quick_gloss": "and"
+},
+{
+"surface": "eva",
+"quick_gloss": "indeed"
+},
+{
+"surface": "acalaṃ",
+"quick_gloss": "immovable"
 },
 {
 "surface": "tathā",
@@ -132,7 +140,7 @@
 },
 {
 "surface": "mṛdā",
-"quick_gloss": "with-clay"
+"quick_gloss": "clay"
 },
 {
 "surface": "liptvā",
@@ -164,16 +172,32 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "hemāhibhyāṃ",
-"quick_gloss": "with-gold-and-snake"
+"surface": "hemā",
+"quick_gloss": "gold"
+},
+{
+"surface": "ahibhyāṃ",
+"quick_gloss": "snake"
 },
 {
 "surface": "kramāt",
 "quick_gloss": "in-order"
 },
 {
-"surface": "āratāmravaṅgāraghoṣakaiḥ",
-"quick_gloss": "silver-copper-lead-iron-brass"
+"surface": "ārata",
+"quick_gloss": "silver"
+},
+{
+"surface": "tāmra",
+"quick_gloss": "copper"
+},
+{
+"surface": "vaṅga",
+"quick_gloss": "lead"
+},
+{
+"surface": "āraghoṣakaiḥ",
+"quick_gloss": "iron"
 }
 ]
 },
@@ -248,19 +272,15 @@
 "tokens": [
 {
 "surface": "bālakuñcikayā",
-"quick_gloss": "with-small-key"
+"quick_gloss": "young-key"
 },
 {
 "surface": "sāmyaṃ",
 "quick_gloss": "equality"
 },
 {
-"surface": "nayet",
+"surface": "nayettat",
 "quick_gloss": "should-bring"
-},
-{
-"surface": "tat",
-"quick_gloss": "that"
 },
 {
 "surface": "kramaśaḥ",
@@ -285,19 +305,15 @@
 },
 {
 "surface": "anumā",
-"quick_gloss": "anumā"
+"quick_gloss": "inner-measure"
 },
 {
-"surface": "rjayet",
-"quick_gloss": "should-polish"
-},
-{
-"surface": "yatnāt",
-"quick_gloss": "with-effort"
+"surface": "rjayedyatnān",
+"quick_gloss": "should-measure"
 },
 {
 "surface": "maṇinā",
-"quick_gloss": "with-gem"
+"quick_gloss": "gem"
 },
 {
 "surface": "madanāmbubhiḥ",
@@ -313,10 +329,6 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "rasayet",
-"quick_gloss": "should-dye"
-},
-{
 "surface": "tāmrajaṃ",
 "quick_gloss": "copper-born"
 },
@@ -325,12 +337,16 @@
 "quick_gloss": "artisan"
 },
 {
+"surface": "rasaye",
+"quick_gloss": "should-dye"
+},
+{
 "surface": "hāṭakena",
-"quick_gloss": "with-gold"
+"quick_gloss": "gold"
 },
 {
 "surface": "sucārūṇā",
-"quick_gloss": "beautifully"
+"quick_gloss": "beautiful"
 }
 ]
 },
@@ -372,15 +388,15 @@
 "tokens": [
 {
 "surface": "dhātūdbhavaṃ",
-"quick_gloss": "from-metals"
+"quick_gloss": "element-born"
 },
 {
 "surface": "samākhyātaṃ",
-"quick_gloss": "called"
+"quick_gloss": "declared"
 },
 {
 "surface": "ratnajādi",
-"quick_gloss": "from-gems-etc"
+"quick_gloss": "gem-born"
 },
 {
 "surface": "vadāmyataḥ",
@@ -409,7 +425,7 @@
 },
 {
 "surface": "śatrudarpahṛt",
-"quick_gloss": "enemy-pride-removing"
+"quick_gloss": "enemy-pride-taking"
 }
 ]
 },
@@ -455,7 +471,7 @@
 },
 {
 "surface": "vaśyakamārthaṃ",
-"quick_gloss": "for-subjugation-wealth"
+"quick_gloss": "for-subjugation"
 },
 {
 "surface": "kārketanam",
@@ -509,7 +525,7 @@
 },
 {
 "surface": "śuddhimānānyataḥ",
-"quick_gloss": "purified"
+"quick_gloss": "pure"
 },
 {
 "surface": "param",
@@ -566,11 +582,11 @@
 "quick_gloss": "worshipful"
 },
 {
-"surface": "rājabhiḥ",
+"surface": "rājabhir",
 "quick_gloss": "by-kings"
 },
 {
-"surface": "yatnāt",
+"surface": "yatnād",
 "quick_gloss": "with-effort"
 },
 {
@@ -625,7 +641,7 @@
 "tokens": [
 {
 "surface": "chidraṃ",
-"quick_gloss": "perforated"
+"quick_gloss": "hole"
 },
 {
 "surface": "ca",
@@ -641,7 +657,7 @@
 },
 {
 "surface": "śalyānvitaṃ",
-"quick_gloss": "with-splinters"
+"quick_gloss": "with-thorn"
 },
 {
 "surface": "surojjhitam",
@@ -658,7 +674,7 @@
 "tokens": [
 {
 "surface": "rāṣṭragotrajanagrāma",
-"quick_gloss": "country-lineage-village"
+"quick_gloss": "kingdom-lineage-village"
 },
 {
 "surface": "dhanamitrasutānapi",
@@ -683,7 +699,7 @@
 },
 {
 "surface": "parājayodvegaṃ",
-"quick_gloss": "defeat-agitation"
+"quick_gloss": "defeat"
 },
 {
 "surface": "janadveṣaṃ",
@@ -707,16 +723,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "tat",
+"surface": "tatsyād",
 "quick_gloss": "that"
 },
 {
-"surface": "syāt",
-"quick_gloss": "should-be"
+"surface": "doṣair",
+"quick_gloss": "from-defects"
 },
 {
-"surface": "doṣairvinirmuktaṃ",
-"quick_gloss": "free-from-defects"
+"surface": "vinirmuktaṃ",
+"quick_gloss": "free"
 },
 {
 "surface": "dṛḍhaṃ",
