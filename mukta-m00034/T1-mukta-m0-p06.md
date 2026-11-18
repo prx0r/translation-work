@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p06-v126
-[could-arise](sambhaveyuḥ) [how](kathaṃ) [there](tatra) [nondual](nirvikalpa)+[established](pratiṣṭhitau)
+[would-arise](sambhaveyuḥ) [how](kathaṃ) [there](tatra) [nirvikalpa](nirvikalpa)+[established](pratiṣṭhitau)
 
 ## mukta-m0-p06-v127
-[from-contradiction](virodhāt) [then](tāvat) [oneness](ekatvaṃ) [would-be](syāt) [inert](jaḍa)+[noninert](ajaḍayoḥ) [how](katham)
+[contradiction](virodhāt) [oneness](ekatvaṃ) [of-inert-and-non-inert](jaḍa+ajaḍayoḥ) [how](katham)
 
 ## mukta-m0-p06-v128
-[with-limbs](sāṅgaḥ)+[and](ca) [dependent-on-other-appearance](anyaprathādhīnaḥ)+[even](api) [practice](abhyāsaḥ) [real](tāttvikaḥ) [opinion](mataḥ)
+[with-limbs](sāṅgaḥ) [other-appearance-dependent](anya+prathā+adhīnaḥ) [practice](abhyāsaḥ) [real](tāttvikaḥ) [considered](mataḥ)
 
 ## mukta-m0-p06-v129
-[of-one-and-many-nature](ekānekasvabhāvatvāt) [nature](svabhāvaḥ) [not](na) [is-destroyed](nirudhyate)
+[one-and-many-nature](eka+aneka+svabhāvatvāt) [nature](svabhāvaḥ) [not-ceases](na+nirudhyate)
 
 ## mukta-m0-p06-v130
-[that](tat) [self-established-light](svasiddhaprakāśaḥ) [other](anya)+[duality](dvaya)+[state](vasthā)+[causality](hetutām)+[would-attain](iyāt)
+[that](tat) [self-established-light](sva+siddha+prakāśaḥ) [other-duality](anya+dvaya) [cause-of-state](vasthā+hetutām) [would-attain](iyāt)
 
 ## mukta-m0-p06-v131
-[then](tato) [red-water-analogy](raktodakanyāyaḥ) [inapplicable](asaṅgataḥ) [here](atra) [how](kathaṃ) [would-be](bhavet)
+[then](tataḥ) [red-water-analogy](rakta+udaka+nyāyaḥ) [inapplicable](asaṅgataḥ) [here](atra) [how](kathaṃ) [would-be](bhavet)
 
 ## mukta-m0-p06-v132
-[from-appearance-disappearance](ābhāsavigamāt) [clear](acchāt) [liberated](muktibhūtā) [appearance](prathā) [would-become](bhavet)
+[appearance-disappearance](ābhāsa+vigamāt) [clear](acchāt) [liberated](mukti+bhūtā) [appearance](prathā) [would-be](bhavet)
 
 ## mukta-m0-p06-v133
-[māyā-appearance-established](māyābhāsapratiṣṭhiteḥ)
+[māyā-appearance-established](māyā+bhāsa+pratiṣṭhiteḥ)
 
 ## mukta-m0-p06-v134
-[in-light-disappearance](prakāśavigame) [even](api) [would-be](syāt) [from-which-cause](yaddhetoḥ) [vasanā-destruction](vāsanākṣayaḥ)
+[light-disappearance](prakāśa+vigame) [also](api) [would-be](syāt) [from-cause](yat+hetor) [vasanā-destruction](vāsanā+kṣayaḥ)
 
 ## mukta-m0-p06-v135
-[not](na) [self-attained](svaprāptāsya) [lax](vikala)+[self-cause](svahetoḥ) [uninterrupted](avirāmataḥ)
+[not-self-obtained](na+sva+prāpta) [its](asya) [languid-cause](vikala+sva+hetor) [without-cessation](avirāmataḥ)
 
 ## mukta-m0-p06-v136
-[not](na) [that](tat) [omniscience-seed](sarvajñatābījam) [by-reason](yuktitaḥ) [culminates](paryavasyati)
+[not](na) [that](tat) [omniscience-seed](sarvajñatā+bījaṃ) [by-reason](yuktitaḥ) [ends](paryavasyati)
 
 ## mukta-m0-p06-v137
-[in-identity](tādātmye) [even](api) [how](kathaṃ) [indeed](nāma) [establishment](pratiṣṭhām) [attains](adhigacchati)
+[in-identity](tādātmye) [also](api) [how](kathaṃ) [name](nāma) [establishment](pratiṣṭhām) [would-attain](adhigacchati)
 
 ## mukta-m0-p06-v138
-[that-condition](tadupādhim) [toward](prati) [how](kathaṃ) [even-by-measure](mātrayāpi) [spreads](prasarpati)
+[that-condition](tad+upādhim) [toward](prati) [how](kathaṃ) [even-slightly](mātrayā+api) [spreads](prasarpati)
 
 ## mukta-m0-p06-v139
-[appearance-vessel](pratītibhājanam) [just-as](yadvat) [gem-silver-etc](maṇiraupyādikaiḥ) [enough](alam)
+[appearance-vessel](pratīti+bhājanaṃ) [as](yadvat) [gem-silver-etc](maṇi+raupya+ādikaiḥ) [enough](alam)
 
 ## mukta-m0-p06-v140
-[light-object-colored](prakāśārthoparaktaḥ) [even](api) [crystal-etc](sphaṭikādi) [net-like](jālomapam) [inert-like](jaḍopamaḥ)
+[light-object-colored](prakāśa+artha+uparaktaḥ) [also](api) [crystal-etc](sphaṭika+ādi) [net-like](jāla+upamaḥ) [inert-like](jaḍa+upamaḥ)
 
 ## mukta-m0-p06-v141
-[to-deny](apahnotum) [how](kathaṃ) [possible](śakyaḥ) [dependent-appearance](paratantramaya) [appearance](prathaḥ)
+[to-deny](apahnotuṃ) [how](kathaṃ) [possible](śakyaḥ) [dependent-appearance](paratantra+maya+prathaḥ)
 
 ## mukta-m0-p06-v142
-[appears](bhāsate) [and](ca) [more](adhikam) [etc](iti) [mutually](parasparam) [inconsistent](asaṅgatam)
+[appears](bhāsate) [and-more](ca+adhikaṃ) [etc](iti) [mutually-inconsistent](parasparam+asaṅgatam)
 
 ## mukta-m0-p06-v143
-[thus](evam) [ca](ca) [manifold-experience-filled](nānānubhavamayī) [would-perish](naśyet) [world-status](jagatsthitiḥ)
+[thus](evaṃ) [ca](ca) [various-experience-filled](nānā+anubhava+mayī) [would-perish](naśyet) [world-status](jagat+sthitiḥ)
 
 ## mukta-m0-p06-v144
-[there](tatra) [thus](tvittham) [justification](samarthanā)
+[there](tatra) [thus](tvitthaṃ) [justification](samarthanā)
 
 ## mukta-m0-p06-v145
-[unlimited-form](anavacchinnarūpatvam) [then](tadā) [its](tasya) [own](nijaṃ) [toward](prati)
+[unlimited-form](anavacchinna+rūpatvaṃ) [then](tadā) [its](tasya) [own](nijaṃ) [toward](prati)
 
 ## mukta-m0-p06-v146
-[consciousness-indication](cidullekhāt) [not-more](anadhikam) [worldly-practice](lokayātrā)+[accomplishing](prasādhakam)
+[consciousness-indication](cid+ullekha) [not-more](an+adhikaṃ) [worldly-conduct-accomplishing](loka+yātrā+prasādhakam)
 
 ## mukta-m0-p06-v147
-[this](iyam) [sā](sā) [of-thing](vastunaḥ) [accomplishment](siddhiḥ) [real](tāttvikī) [of-knowers](viduṣām) [opinion](matā)
+[this](iyaṃ) [sā](sā) [thing's-accomplishment](vastunaḥ+siddhiḥ) [real](tāttvikī) [of-knowers](viduṣāṃ) [opinion](matā)
 
 ## mukta-m0-p06-v148
-[self-indication-agent-essence](svollekhakartṛtāsārā) [direct-experience](pratyakṣānubhavāt) [established](sthitā)
+[self-indication-agent-essence](sva+ullekha+kartṛtā+sāra) [direct-experience](pratyakṣa+anubhavāt) [established](sthitā)
 
 ## mukta-m0-p06-v149
-[from-independence](svatantratvāt) [unbroken](anunbhagna)+[immersed](unmagna)+[as-if](iva) [would-illumine](bhāsayet)
+[independence](svatantratvāt) [unbroken](an+unbhagna) [immersed](unmagna+iva) [would-illumine](bhāsayet)
 
 ## mukta-m0-p06-v150
-[by-harmony](sāmarasyena) [everywhere](sarvatra) [established](sthitaṃ)+[consciousness-only-essence](cinmātrasārataḥ) (sthitaści-)
+[harmony](sāmarasyena) [everywhere](sarvatra) [established](sthitaṃ) [consciousness-only-essence](cin+mātra+sārataḥ) (sthitaści-)
