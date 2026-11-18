@@ -2,73 +2,73 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p124-v3076
-[stem](vaṃśāṅkurotthaliṅgācca) [sagara](sagaro) [named](nāma) [king](pārthivaḥ)
+[vaṃśa](vaṃśāṅkurotthaliṅgācca) [aṅkura](vaṃśāṅkurotthaliṅgācca) [uttha](vaṃśāṅkurotthaliṅgācca) [liṅga](vaṃśāṅkurotthaliṅgācca) [ca](vaṃśāṅkurotthaliṅgācca) [sagara](sagaro) [nāma](nāma) [pārthiva](pārthivaḥ)
 
 ## mukta-m0-p124-v3077
-[from-wax](sikthasambhavāt)
+[siktha](sikthasambhavāt) [sambhava](sikthasambhavāt) [āt](sikthasambhavāt)
 
 ## mukta-m0-p124-v3078
-[worldly](aihikasyāśrayātsiddhā) [written](likhitā) [from-many-scriptures](bahuśāstrataḥ)
+[aihika](aihikasyāśrayātsiddhā) [āśraya](aihikasyāśrayātsiddhā) [siddha](aihikasyāśrayātsiddhā) [likhita](likhitā) [bahu](bahuśāstrataḥ) [śāstra](bahuśāstrataḥ) [taḥ](bahuśāstrataḥ)
 
 ## mukta-m0-p124-v3079
-[from-siddhi-giving-śiva-words](siddhidānīśavākyataḥ)
+[siddhi](siddhidānīśavākyataḥ) [dā](siddhidānīśavākyataḥ) [īśa](siddhidānīśavākyataḥ) [vākya](siddhidānīśavākyataḥ) [taḥ](siddhidānīśavākyataḥ)
 
 ## mukta-m0-p124-v3080
-[established](sthāpitaṃ) [vidhi](vidhi) [mantras](mantraistu) [dharma-kāma-artha-mokṣa-giving](dharmakāmārthamokṣadam)
+[sthāpita](sthāpitaṃ) [vidhi](vidhi) [mantra](mantraistu) [tu](mantraistu) [dharma](dharmakāmārthamokṣadam) [kāma](dharmakāmārthamokṣadam) [artha](dharmakāmārthamokṣadam) [mokṣa](dharmakāmārthamokṣadam) [da](dharmakāmārthamokṣadam)
 
 ## mukta-m0-p124-v3081
-[worshipped](pūjitāḥ) [established](sthāpitāśca) [are](syuḥ) [worshipable](pūjyaṃ) [establishable](sthāpyaṃ) [truly](ca tattvataḥ)
+[pūjita](pūjitāḥ) [sthāpita](sthāpitāśca) [ca](sthāpitāśca) [syuḥ](syuḥ) [pūjya](pūjyaṃ) [sthāpya](sthāpyaṃ) [ca](ca) [tattva](tattvataḥ)
 
 ## mukta-m0-p124-v3082
-[that-fruit](tatphalaṃ) [million-fold](koṭiguṇitaṃ) [having-established](sthāpya) [liṅga](liṅgaṃ) [obtains-fruit](labhetphalam)
+[tat](tatphalaṃ) [phala](tatphalaṃ) [koṭi](koṭiguṇitaṃ) [guṇita](koṭiguṇitaṃ) [sthāpya](sthāpya) [liṅga](liṅgaṃ) [labh](labhetphalam) [phala](labhetphalam)
 
 ## mukta-m0-p124-v3083
-[liṅga-marked](liṅgāṅkitaṃ) [whole-world](jagatkṛtsnaṃ) [bhaga-marked](bhagāṅkaṃ) [not-even](nāpi) [sees](paśyati)
+[liṅga](liṅgāṅkitaṃ) [aṅkita](liṅgāṅkitaṃ) [jagat](jagatkṛtsnaṃ) [kṛtsna](jagatkṛtsnaṃ) [bhaga](bhagāṅkaṃ) [aṅka](bhagāṅkaṃ) [na](nāpi) [api](nāpi) [paśyati](paśyati)
 
 ## mukta-m0-p124-v3084
-[having-taken](gṛhītvāgamataḥ) [all](sarvaṃ) [written](likhataṃ) [śikha-spoken](śikhabhāṣitam)
+[gṛhītvā](gṛhītvāgamataḥ) [āgama](gṛhītvāgamataḥ) [taḥ](gṛhītvāgamataḥ) [sarva](sarvaṃ) [likhataṃ](likhataṃ) [śikha](śikhabhāṣitam) [bhāṣita](śikhabhāṣitam)
 
 ## mukta-m0-p124-v3085
-[from-extent](vistarādbhīśca) [delusion](mohaḥ) [is](syāttamānmadhyataraṃ) [done](kṛtam)
+[vistara](vistarādbhīśca) [āt](vistarādbhīśca) [bhī](vistarādbhīśca) [ca](vistarādbhīśca) [moha](mohaḥ) [syāt](syāttamānmadhyataraṃ) [tamāt](syāttamānmadhyataraṃ) [madhya](syāttamānmadhyataraṃ) [tara](syāttamānmadhyataraṃ) [kṛta](kṛtam)
 
 ## mukta-m0-p124-v3086
-[if](yadi) [goes](vrajati) [indeed](vai) [tārkṣya](tārkṣyaḥ) [why](kiṃ) [not](na) [go](yāntīha) [bees](ṣaṭpadāḥ)
+[yadi](yadi) [vrajati](vrajati) [vai](vai) [tārkṣya](tārkṣyaḥ) [kiṃ](kiṃ) [na](na) [yānti](yāntīha) [iha](yāntīha) [ṣaṭpada](ṣaṭpadāḥ)
 
 ## mukta-m0-p124-v3087
-[for-destroying-ignorance-cold](ajñānaśītanāśāya) [kaṇṭha-ācārya](kaṇṭhācāryai) [spoken](dīritāḥ)
+[ajñāna](ajñānaśītanāśāya) [śīta](ajñānaśītanāśāya) [nāśa](ajñānaśītanāśāya) [āya](ajñānaśītanāśāya) [kaṇṭha](kaṇṭhācāryai) [ācārya](kaṇṭhācāryai) [dīrita](dīritāḥ)
 
 ## mukta-m0-p124-v3088
-[is-seen](palakṣyate)
+[palakṣyate](palakṣyate)
 
 ## mukta-m0-p124-v3089
-[five-faced-sung](pañcavaktropagītam)
+[pañca](pañcavaktropagītam) [vaktra](pañcavaktropagītam) [upagīta](pañcavaktropagītam)
 
 ## mukta-m0-p124-v3090
-[knowledge-īśāna-śiva](jñānīśānaśivastadaṅghrijanito) [vairocana](vairocano) [teacher](daiśikaḥ)
+[jñānīśāna](jñānīśānaśivastadaṅghrijanito) [śiva](jñānīśānaśivastadaṅghrijanito) [tad](jñānīśānaśivastadaṅghrijanito) [aṅghri](jñānīśānaśivastadaṅghrijanito) [janita](jñānīśānaśivastadaṅghrijanito) [vairocana](vairocano) [daiśika](daiśikaḥ)
 
 ## mukta-m0-p124-v3091
-[who](yastatasyāhaṃ) [I-bow](namāmi) [head-placed-on-earth](kṣitinihitaśirāḥ) [lotus-feet](pādapadmaṃ) [of-my-guru](gurorme)
+[yaḥ](yastatasyāhaṃ) [tataḥ](yastatasyāhaṃ) [asya](yastatasyāhaṃ) [ahaṃ](yastatasyāhaṃ) [namāmi](namāmi) [kṣiti](kṣitinihitaśirāḥ) [nihita](kṣitinihitaśirāḥ) [śiras](kṣitinihitaśirāḥ) [pāda](pādapadmaṃ) [padma](pādapadmaṃ) [guru](gurorme)
 
 ## mukta-m0-p124-v3092
-[this](so'yaṃ) [mad-elephant-pride-crusher](mattamṛgebhadarpadalano) [by-earth](bhūkānena) [wanders](bhrāmyati)
+[saḥ](so'yaṃ) [ayaṃ](so'yaṃ) [matta](mattamṛgebhadarpadalano) [mṛga](mattamṛgebhadarpadalano) [bhada](mattamṛgebhadarpadalano) [darpa](mattamṛgebhadarpadalano) [dalana](mattamṛgebhadarpadalano) [bhū](bhūkānena) [kāna](bhūkānena) [ena](bhūkānena) [bhrāmyati](bhrāmyati)
 
 ## mukta-m0-p124-v3093
-[that-vidyā-ācārya-śaiva](tadvidyācāryaśaivāya) [intellect-meditation-doer](buddhimedhākaro) [quality](guṇaḥ)
+[tat](tadvidyācāryaśaivāya) [vidyā](tadvidyācāryaśaivāya) [ācārya](tadvidyācāryaśaivāya) [śaiva](tadvidyācāryaśaivāya) [āya](tadvidyācāryaśaivāya) [buddhi](buddhimedhākaro) [medhā](buddhimedhākaro) [kara](buddhimedhākaro) [guṇa](guṇaḥ)
 
 ## mukta-m0-p124-v3094
-[remaining](śeṣāścānuṣṭubho) [in-middle](madhye) [thousand-quality](guṇasāhasrikaṃ) [done](kṛtam)
+[śeṣa](śeṣāścānuṣṭubho) [ca](śeṣāścānuṣṭubho) [anuṣṭubh](śeṣāścānuṣṭubho) [madhye](madhye) [guṇa](guṇasāhasrikaṃ) [sāhasrika](guṇasāhasrikaṃ) [kṛta](kṛtam)
 
 ## mukta-m0-p124-v3095
-[sūkta](sūktamājñāya) [that](tatkariṣyanti) [scholars](paṇḍitāḥ)
+[sūkta](sūktamājñāya) [ājñāya](sūktamājñāya) [tat](tatkariṣyanti) [kariṣyanti](tatkariṣyanti) [paṇḍita](paṇḍitāḥ)
 
 ## mukta-m0-p124-v3096
-[to-śaivas](śaivebhya) [this](etaddātavyamarthataḥ) [always](śāstrataḥsadā)
+[śaiva](śaivebhya) [ebhya](śaivebhya) [etat](etaddātavyamarthataḥ) [dātavya](etaddātavyamarthataḥ) [artha](etaddātavyamarthataḥ) [taḥ](etaddātavyamarthataḥ) [śāstra](śāstrataḥsadā) [taḥ](śāstrataḥsadā) [sadā](śāstrataḥsadā)
 
 ## mukta-m0-p124-v3097
-[so-long](tāvadvairocanasya) [may-wander](pravicaratu) [guru's](guroḥ) [book-vessel](pustarupātra) [fame](kīrtiḥ)
+[tāvat](tāvadvairocanasya) [vairocana](tāvadvairocanasya) [asya](tāvadvairocanasya) [pravicaratu](pravicaratu) [guru](guroḥ) [pusta](pustarupātra) [rūpa](pustarupātra) [ātra](pustarupātra) [kīrti](kīrtiḥ)
 
 ## mukta-m0-p124-v3098
-[so-long](tāvadvairocanīyā) [in-world](jagati) [long](ciramiyaṃ) [book-vessel](pustarupāstu) [fame](kīrtiḥ)
+[tāvat](tāvadvairocanīyā) [vairocanīya](tāvadvairocanīyā) [jagati](jagati) [cira](ciramiyaṃ) [miyaṃ](ciramiyaṃ) [pusta](pustarupāstu) [rūpa](pustarupāstu) [astu](pustarupāstu) [kīrti](kīrtiḥ)
 
 ## mukta-m0-p124-v3099
-[name](nāma) [thirty-second](dvātriṃśo) [rite](vidhiḥ)
+[nāma](nāma) [dvātriṃśa](dvātriṃśo) [vidhi](vidhiḥ)

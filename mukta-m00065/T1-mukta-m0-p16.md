@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p16-v376
-[māhendra-born](māhendrī) [vāruṇa-born](vāruṇī) [born](jātāḥ) [weapons](śastrāḥ) [and](ca) [others](anye) [and](ca) [condemned](garhitāḥ)
+[māhendra+vāruṇa-born](māhendrīvāruṇījātāḥ) [weapons](śastrāḥ) [and](ca) [others](anye) [and](ca) [condemned](garhitāḥ)
 
 ## mukta-m0-p16-v377
-[śamī](śamī) [grape](drākṣā) [surā-named](surāhvaḥ) [and](ca) [these-nine](navaite) [brāhmaṇa-peace-giving](vipraśāntidāḥ)
+[śamī+grape](śamīdrākṣā) [surā-named](surāhvaḥ) [and](ca) [nine](nava) [these](ete) [brahmin-peace-giving](vipraśāntidāḥ)
 
 ## mukta-m0-p16-v378
 [kadara](kadarā) [śoka-vegetable](śokaśākaṃ) [and](ca) [śṛṅgī](śṛṅgī) [and](ca) [king-prosperity-giving](nṛpabhūtidā)
 
 ## mukta-m0-p16-v379
-[sarala](saralaḥ) [jackfruit](panaso) [seed](bīja) [thus-these](ityete) [vaiśya-growth-giving](vaiśyavṛddhidāḥ)
+[sarala](saralaḥ) [jackfruit](panasaḥ) [seed](bījaḥ) [thus](iti) [these](ete) [vaiśya-growth-giving](vaiśyavṛddhidāḥ)
 
 ## mukta-m0-p16-v380
 [kāñcana-asana](kāñcanāsana) [lodhra](lodhrāḥ) [and](ca) [sāla](sāla) [śūdra-nourishment-giving](śūdrasyapuṣṭidāḥ)
 
 ## mukta-m0-p16-v381
-[well-rooted](subhūsthāḥ) [beautiful](śobhanā) [heart-pleasing](hṛdyā) [healthy](ārogyā) [youth-bearing](yauvanodvahāḥ)
+[well-placed](subhūsthāḥ) [beautiful](śobhanā) [pleasing](hṛdyā) [healthy](ārogyā) [youth-bearing](yauvanodvahāḥ)
 
 ## mukta-m0-p16-v382
-[heart-middle](sāramadhyā) [very-firm](draḍhīyāṃso) [not-other-works](nānyakāryeṣu) [employed](yojitāḥ)
+[heartwood-centered](sāramadhyā) [very-firm](draḍhīyāṃso) [not](nā) [for-other-works](anyakāryeṣu) [employed](yojitāḥ)
 
 ## mukta-m0-p16-v383
-[knot-equal-vein-possessing](granthitulyaśirāyuktān) [old-child-sick](bṛddhabālāturāṃs) [trees](tarūn)
+[knot-like-veined](granthitulyaśirāyuktān) [old-child-sick](bṛddhabālāturāṃs) [trees](tarūn)
 
 ## mukta-m0-p16-v384
-[ant-hill-born](valmikotthān) [cremation-ground-born](śmaśānotthān) [fruit-water](phalāmbhaḥ) [used](sevitāṃs) [abandon](tyajet)
+[ant-hill-born](valmikotthān) [cremation-ground-born](śmaśānotthān) [fruit-water](phalāmbhaḥ) [used](sevitān) [abandon](tyajet)
 
 ## mukta-m0-p16-v385
-[rough-contact-god-born](kharitsaṅgamadevotthān) [ascetic-hermitage-born](tāpasāśramajān) [abandon](tyajet)
+[donkey-contact-god-born](kharitsaṅgamadevotthān) [ascetic-hermitage-born](tāpasāśramajān) [abandon](tyajet)
 
 ## mukta-m0-p16-v386
-[quickly-indeed](acireṇaiva) [time](kālena) [movable](cālako) [not](na) [becomes-that](bhavedasau)
+[quickly](acireṇa) [indeed](eva) [in-time](kālena) [movable](cālakaḥ) [not](na) [becomes](bhaved) [that](asau)
 
 ## mukta-m0-p16-v387
-[god-work](devakārye) [not](na) [fault](doṣaḥ) [be](syād) [thus-said](ityuktaṃ) [in-Parameshvara](pārameśvare)
+[in-divine-work](devakārye) [no](na) [fault](doṣaḥ) [would-be](syāt) [thus](iti) [said](uktaṃ) [in-pārameśvara](pārameśvare)
 
 ## mukta-m0-p16-v388
-[purify](śodhayet) [land-portion](bhūmibhāgaṃ) [but](tu) [four-directions](caturdikṣu) [all-around](samantataḥ)
+[purify](śodhayed) [land-portion](bhūmibhāgaṃ) [but](tu) [in-four-directions](caturdikṣu) [all-around](samantataḥ)
 
 ## mukta-m0-p16-v389
-[then](tataḥ) [artisan-chief](śilpipradhānāḥ) [and](ca) [helpers](sahāyāḥ) [flowers-etc](kusumādibhiḥ)
+[then](tataḥ) [chief-artisans](śilpipradhānāḥ) [and](ca) [assistants](sahāyāḥ) [with-flowers-etc](kusumādibhiḥ)
 
 ## mukta-m0-p16-v390
-[opposite](viparīta) [then](tadā) [mantrin](mantrī) [from-far](dūrataḥ) [that](taṃ) [avoid](vivarjayet)
+[opposite](viparīta) [then](tadā) [priest](mantrī) [from-afar](dūrataḥ) [him](taṃ) [avoid](vivarjayet)
 
 ## mukta-m0-p16-v391
-[cow-dung](gomayena) [then](tato) [earth](bhūmi) [smearing](lepayitvā) [guru](guruḥ) [then](tadā)
+[with-cow-dung](gomayena) [then](tato) [ground](bhūmi) [having-smeared](lepayitvā) [teacher](guruḥ) [then](tadā)
 
 ## mukta-m0-p16-v392
-[meditating](dhyātvā) [god](devaṃ) [and](ca) [informing](vijñāpya) [making-arghya](kṛtvācārghyaṃ) [wise](vicakṣaṇaḥ)
+[meditating](dhyātvā) [god](devaṃ) [and](ca) [informing](vijñāpya) [having-made](kṛtvā) [offering](arghyaṃ) [wise](vicakṣaṇaḥ)
 
 ## mukta-m0-p16-v393
-[weapon](astraṃ) [meditating](dhyātvā) [worship](yajet) [mantrin](mantrī) [armor](varmaṇā) [wrap](pariveṣṭayet)
+[weapon](astraṃ) [meditating](dhyātvā) [worship/recite](yajet/japet) [priest](mantrī) [with-armor/skin](varmaṇā/carmaṇā) [surround](pariveṣṭayet)
 
 ## mukta-m0-p16-v394
-[Śiva](śiva) [worshiping](saṃpūjya) [fire-placed](vahnistha) [new-offering](navadyaṃ) [offer](ḍhaukayet) [caru](carum)
+[śiva](śiva) [worshipping](saṃpūjya) [fire-placed](vahnistha) [new](navadyaṃ) [offer](ḍhaukayet) [oblation](carum)
 
 ## mukta-m0-p16-v395
-[informing](vijñāpya) [work-weapons](karmaśastrāṇi) [worship](pūjayet) [satisfy](tarpayet) [also](api)
+[informing](vijñāpya) [ritual-weapons](karmaśastrāṇi) [worship](pūjayet) [satisfy](tarpayet/darpayet) [also](api)
 
 ## mukta-m0-p16-v396
-[then](tato) [informing](vijñāpya) [lord-of-gods](deveśa) [do](kuryāt) [ālambhana](ālaṃbhanaṃ) [again](punaḥ)
+[then](tato) [informing](vijñāpya) [lord-of-gods](deveśa) [do](kuryāt) [touching](ālaṃbhanaṃ) [again](punaḥ)
 
 ## mukta-m0-p16-v397
-[beating](tāḍanaṃ) [ashes-with-weapon](bhasmanāstreṇa) [sprinkling](prokṣaṇaṃ) [Śiva-water](śivavāriṇā)
+[striking](tāḍanaṃ) [with-ash](bhasmanā) [with-weapon](astreṇa) [sprinkling](prokṣaṇaṃ) [with-śiva-water](śivavāriṇā)
 
 ## mukta-m0-p16-v398
-[cloth](vastraṃ) [three-thread](trisūtraṃ) [tree's](vṛkṣasya) [stone's](śilāyāḥ) [and](ca) [kuśa-accompanied](kuśānvitam)
+[cloth](vastraṃ) [three-thread](trisūtraṃ) [of-tree](vṛkṣasya) [of-stone](śilāyāḥ) [and](ca) [with-kuśa](kuśānvitam)
 
 ## mukta-m0-p16-v399
-[saṃhitā-said](saṃhitoktena) [mantra](mantreṇa) [bath-cloth-etc](snānavastrādikaṃ) [be](bhavet)
+[by-saṃhitā-said](saṃhitoktena) [by-mantra](mantreṇa) [bathing-cloth-etc](snānavastrādikaṃ) [becomes](bhavet)
 
 ## mukta-m0-p16-v400
-[give](dadyāt) [offering](baliṃ) [and](ca) [black-gram-food](māṣānnaiḥ) [meat-liquor-accompanied](āmiṣāsavasaṃyutaiḥ)
+[give](dadyāt) [offering](baliṃ) [and](ca) [with-bean-foods](māṣānnaiḥ) [with-meat-liquor-mixed](āmiṣāsavasaṃyutaiḥ)

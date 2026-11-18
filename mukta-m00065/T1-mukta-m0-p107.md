@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p107-v2651
-[that-strip](tatpaṭṭī) [from-foot](pādataḥ) [should-be-made](kāryā) [by-quarter-part](pādonāṃśena) [exit](nirgamā)
+[that-strip](tatpaṭṭī) [from-foot](pādataḥ) [to-be-made](kāryā) [quarter-part-by](pādonāṃśena) [exit](nirgamā)
 
 ## mukta-m0-p107-v2652
-[share-one](bhāgamekaṃ) [threefold](tridhā) [having-made](kṛtvā) [entry](praveśaścaika) [from-share](bhāgataḥ)
+[one-part](bhāgamekaṃ) [into-three](tridhā) [having-made](kṛtvā) [entry-and-one](praveśaścaika) [from-part](bhāgataḥ)
 
 ## mukta-m0-p107-v2653
-[strip](paṭṭikā) [indeed](tu) [should-be-made](prakartavyā) [by-second](dvitīyenopanirgamā)
+[strip](paṭṭikā) [indeed](tu) [to-be-made](prakartavyā) [second-by](dvitīyenopanirgamā) [exit](nirgamā)
 
 ## mukta-m0-p107-v2654
-[balita-named](balitāhvaṃ) [by-three](tribhi) [parts](bhāgairgrahāṃśaistu) [waist](kaṭirbhavet)
+[balita-named](balitāhvaṃ) [three](tribhi) [by-parts](bhāgair) [planetary-parts](grahāṃśaiḥ) [and](tu) [waist-becomes](kaṭirbhavet)
 
 ## mukta-m0-p107-v2655
-[from-neck-string](kaṇṭhasūtrādviśetkaṭho) [from-share](bhāgāttatpaṭṭikordhvaḥ)
+[from-throat-string](kaṇṭhasūtrād) [enters](viśet) [waist](kaṭhaḥ) [part](bhāgāt) [that-strip-above](tatpaṭṭikordhvaḥ)
 
 ## mukta-m0-p107-v2656
-[of-earth](bhūmerjaṅghānitambau) [and](ca) [declared](kīrtitau) [by-text](tvaṣṭṭaśāstrataḥ)
+[of-earth](bhūmer) [calf-hip](jaṅghānitambau) [and](ca) [proclaimed](kīrtitau) [by-craftsman](tvaṣṭā) [according-to-scripture](śāstrataḥ)
 
 ## mukta-m0-p107-v2657
-[below-that](tadadhaḥ) [one-and-half-part](sārdhapakṣāṃśaṃ) [in-width](vistāreṇa) [should-make](tu kārayet)
+[below-that](tadadhaḥ) [one-and-half-wing-part](sārdhapakṣāṃśaṃ) [by-width](vistāreṇa) [indeed](tu) [to-be-made](kārayet)
 
 ## mukta-m0-p107-v2658
-[one-by-one](ekaikena) [by-share](tu bhāgega) [should-enter](viśetkaṇṭhaka) [from-neck-string](sūtrataḥ)
+[one-by-one](ekaikena) [indeed](tu) [by-part](bhāgena) [enters](viśet) [throat-string](kaṇṭhasūtrataḥ)
 
 ## mukta-m0-p107-v2659
-[becomes-anuratha](bhavedanurathaḥ) [by-six](ṣadbhiḥ) [by-seventh](saptamenodakāntaram)
+[becomes](bhaved) [anuratha](anurathaḥ) [by-six](ṣaḍbhiḥ) [seventh-by](saptamena) [water-interval](udakāntaram)
 
 ## mukta-m0-p107-v2660
-[of-corner-anuratha-etc](koṇānurathakādīnāṃ) [circular-entry](vṛttapraveśa) [is-said](ucyate)
+[of-corner-anuratha-etc](koṇānurathakādīnāṃ) [circular-entry](vṛttapraveśaḥ) [is-said](ucyate)
 
 ## mukta-m0-p107-v2661
-[likewise](tadvaccaturthabhāgena) [entry](praveśo'nurathasya) [and](ca)
+[likewise](tadvat) [fourth-part-by](caturthabhāgena) [entry](praveśaḥ) [of-anuratha](anurathasya) [and](ca)
 
 ## mukta-m0-p107-v2662
-[removing](luptvā) [shares](bhāgān) [of-earth](bhuvāṃ) [own-own](svāṃ svāṃ) [all](sarvāsāṃ) [in-order](ca yathākramam)
+[having-omitted](luptvā) [parts](bhāgān) [of-lands](bhuvāṃ) [own](svāṃ) [own](svāṃ) [all](sarvāsāṃ) [and](ca) [in-order](yathākramam)
 
 ## mukta-m0-p107-v2663
-[by-quarter-two-part](pādonadvyaṃśataḥ) [pot](kumbhastatpaṭṭī) [from-foot](pādato) [becomes](bhavet)
+[quarter-two-part-by](pādonadvyaṃśataḥ) [pot](kumbhaḥ) [that-strip](tatpaṭṭī) [from-foot](pādataḥ) [becomes](bhavet)
 
 ## mukta-m0-p107-v2664
-[pot-like](kumbhopame) [and](ca) [those](te) [should-be-made](kārye) [knife-wings](churikāpakṣayostathā)
+[pot-like](kumbhopame) [and](ca) [those](te) [to-be-made](kārye) [knife-wing-and-so](churikāpakṣayostathā)
 
 ## mukta-m0-p107-v2665
-[by-foot](pādena) [pot-strip](kumbhapaṭṭī) [indeed](tu) [half](cārdhena) [neck-strip](galapaṭṭikā)
+[by-foot](pādena) [pot-strip](kumbhapaṭṭī) [indeed](tu) [half-by](cārdhena) [throat-strip](galapaṭṭikā)
 
 ## mukta-m0-p107-v2666
-[by-pot-half](kumbhārdhena) [thus](tathā) [strip](paṭṭī) [neck](kaṇṭhastatpaṭṭīkārdhataḥ)
+[pot-half-by](kumbhārdhena) [likewise](tathā) [strip](paṭṭī) [throat](kaṇṭhaḥ) [that-strip-half-by](tatpaṭṭīkārdhataḥ)
 
 ## mukta-m0-p107-v2667
-[three-neck-projection](trikaṇṭhakocchrayaṃ) [by-two](dvābhyāṃ) [wings](pakṣayostatra) [should-turn](vartayet)
+[three-throat-height](trikaṇṭhakocchrayaṃ) [by-two](dvābhyāṃ) [wings](pakṣayoḥ) [there](tatra) [to-be-turned](vartayet)
 
 ## mukta-m0-p107-v2668
-[head](mastaṃ) [like-lavali-fruit](lavalīphalavadbhavet)
+[head](mastaṃ) [like-lavali-fruit](lavalīphalavad) [becomes](bhavet)
 
 ## mukta-m0-p107-v2669
-[exit-named](nirgamākhyā) [by-other-part](parāṃśena) [square-part](caturasrāṃśato) [becomes](bhavet)
+[exit-named](nirgamākhyā) [upper-part](parāṃśena) [by](caturasrāṃśataḥ) [quarter-square-part](bhavet)
 
 ## mukta-m0-p107-v2670
-[in-middle](tanmadhye) [tilaka](tilakaṃ) [should-make](kāryamevaṃ) [by-three-parts](tryaṃśairvaraṇḍikā)
+[in-middle](tanmadhye) [mark](tilakaṃ) [to-be-made](kāryam) [thus](evaṃ) [three-parts-by](tryaṃśaiḥ) [varandika](varaṇḍikā)
 
 ## mukta-m0-p107-v2671
-[form](rūpaṃ) [of-corner-chariot](koṇarathasyaivaṃ) [will-speak](vakṣye) [and](coparathaṃ) [from-that](tvataḥ)
+[form](rūpaṃ) [of-corner-chariot](koṇarathasya) [thus](evaṃ) [I-will-say](vakṣye) [and](ca) [upper-chariot](uparathaṃ) [from-this](tvataḥ)
 
 ## mukta-m0-p107-v2672
-[by-pot-half](kumbhaikenārdhataḥ) [strip](paṭṭī) [neck](kaṇṭhaścārdhāṃśatastathā)
+[by-pot](kumbhaikena) [half-by](ārdhataḥ) [strip](paṭṭī) [throat](kaṇṭhaḥ) [and](ca) [half-part-by](ārdhāṃśataḥ) [likewise](tathā)
 
 ## mukta-m0-p107-v2673
-[circular-strip](vṛttapaṭṭī) [and](ca) [exited](niṣkrāntā) [by-share-share](bhāgabhāgena) [should-arrange](kalpayet)
+[circular-strip](vṛttapaṭṭī) [and](ca) [exited](niṣkrāntā) [part-by-part](bhāgabhāgena) [to-be-arranged](kalpayet)
 
 ## mukta-m0-p107-v2674
-[in-part](aṃśe) [pit-mark](gartālakaṃ) [knower](tajña) [its-sides](tatpārśvayorguṇāṃśataḥ)
+[in-part](aṃśe) [pit-mark](gartālakaṃ) [knower](tajña) [that-sides](tatpārśvayoḥ) [by-virtue-part](guṇāṃśataḥ)
 
 ## mukta-m0-p107-v2675
-[above-below-tilaka-covered](ūrdhvādhastilakākrāntā) [middle-place-above](madhyasthānordhvataḥ) [situated](sthitā)
+[upper-lower](ūrdhvādhaḥ) [mark-covered](tilakākrāntā) [middle-place](madhyasthāna) [above](ūrdhvataḥ) [situated](sthitā)
