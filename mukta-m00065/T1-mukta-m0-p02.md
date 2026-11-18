@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p02-v26
-liṅgaṃ (phallus) ca (and) dvividhaṃ (two-fold) jñeyaṃ (to-be-known) calaṃ (movable) ca (and) eva (indeed) acalaṃ (immovable) tathā (thus)
+[lingam](liṅgaṃ) [and](ca) [two-fold](dvividhaṃ) [to-be-known](jñeyaṃ) [mobile](calaṃ) [and](ca) [immobile](acalaṃ) [thus](tathā)
 
 ## mukta-m0-p02-v27
-sthiralakṣmīpradaṃ (bestowing-steady-prosperity) haimaṃ (golden) rājataṃ (silver) ca (and) eva (indeed) rājyadaṃ (kingdom-giving)
+[firm-luster-giving](sthiralakṣmīpradaṃ) [golden](haimaṃ) [silver](rājataṃ) [and](ca) [eva](eva) [kingdom-giving](rājyadam)
 
 ## mukta-m0-p02-v28
-vidveṣakārakaṃ (causing-hatred) kāṃsyaṃ (bronze) rītijaṃ (brass-born) śatruvālanam (enemy-strengthening)
+[enmity-causing](vidveṣakārakaṃ) [bronze](kāṃsyaṃ) [brass-born](rītijaṃ) [enemy-repelling](śatruvālanam)
 
 ## mukta-m0-p02-v29
-aṣṭalohamayaṃ (made-of-eight-metals) liṅgaṃ (phallus) kuṣṭharogakṣayāvaham (bringing-leprosy-disease-destruction)
+[eight-metal](aṣṭalohamayaṃ) [lingam](liṅgaṃ) [leprosy-disease-destroying](kuṣṭharogakṣayāvaham)
 
 ## mukta-m0-p02-v30
-sikthaṃ (wax) kṛtvā (having-made) mṛdā (with-clay) liptvā (having-smeared) taptvā (having-heated) udvāsya (having-removed) ca (and) kārukaḥ (artisan)
+[wax](sikthaṃ) [having-made](kṛtvā) [clay](mṛdā) [having-smeared](liptvā) [having-heated](taptvā) [having-removed](udvāsya) [and](ca) [artisan](kārukaḥ)
 
 ## mukta-m0-p02-v31
-hemāhibhyāṃ (with-gold-and-tin) kramāt (in-order) tāratāmravaṅgāraghoṣakaiḥ (with-silver-copper-lead-iron-etc)
+[gold](hemā) [snake](hibhyāṃ) [by-steps](kramāt) [silver](ārata) [copper](tāmra) [lead](vaṅga) [iron](āraghoṣakaiḥ)
 
 ## mukta-m0-p02-v32
-kāṣṭhaṃ (wood) kṣiptvā (having-thrown) dṛḍhaṃ (firm) tat (that) tu (but) śilāghṛṣṭaṃ (rubbed-with-stone) savālukam (with-sand)
+[wood](kāṣṭhaṃ) [having-thrown](kṣiptvā) [firm](dṛḍhaṃ) [that](tattu) [stone-rubbed](śilāghṛṣṭaṃ) [with-sand](savālukam)
 
 ## mukta-m0-p02-v33
-tayā (with-that) lavaṇapūrāmbu (salt-filled-water) yuktayā (joined) lepayet (should-smear) budhaḥ (wise)
+[by-that](tayā) [salt-filled-water](lavaṇapūrāmbu) [endowed](yuktayā) [would-smear](lepayed) [wise-one](budhaḥ)
 
 ## mukta-m0-p02-v34
-bālakuñcikayā (with-young-key) sāmyaṃ (equality) nayet (should-bring) tat (that) kramaśaḥ (gradually) śanaiḥ (slowly)
+[by-small-key](bālakuñcikayā) [equality](sāmyaṃ) [would-bring](nayet) [that](tatkramaśaḥ) [gradually](śanaiḥ)
 
 ## mukta-m0-p02-v35
-tato (then) anumārjayet (should-polish) yatnāt (with-effort) maṇinā (with-gem) madanāmbubhiḥ (with-love-water)
+[then](tato) [inner-measure](numā) [would-measure](rjayet) [carefully](yatnāt) [by-gem](maṇinā) [madana-waters](madanāmbubhiḥ)
 
 ## mukta-m0-p02-v36
-rasayet (should-color) tāmrajaṃ (copper-born) śilpī (artisan) hāṭakena (with-gold) sucārūṇā (beautifully)
+[would-dye](rasayet) [copper-born](tāmrajaṃ) [artisan](śilpī) [by-gold](hāṭakena) [beautifully](sucārūṇā)
 
 ## mukta-m0-p02-v37
-guru (heavy) snigdhaṃ (unctuous) mṛdusparśe (soft-to-touch) ṣaḍvidhaṃ (six-fold) hemaśobhanam (gold-beautiful)
+[heavy](guru) [unctuous](snigdhaṃ) [soft-to-touch](mṛdusparśe) [six-fold](ṣaḍvidhaṃ) [gold-beautiful](hemaśobhanam)
 
 ## mukta-m0-p02-v38
-dhātūdbhavaṃ (metal-born) samākhyātaṃ (declared) ratnajādi (gem-born-etc) vadāmi (I-say) ataḥ (therefore)
+[from-metals](dhātūdbhavaṃ) [declared](samākhyātaṃ) [from-gems](ratnajādi) [i-speak](vadāmyataḥ)
 
 ## mukta-m0-p02-v39
-sukhakṛt (happiness-making) puṣparāgotthaṃ (arising-from-ruby) vaidūryaṃ (cat's-eye) śatrudarpahṛt (enemy-pride-removing)
+[pleasure-causing](sukhakṛt) [ruby-born](puṣparāgotthaṃ) [cat's-eye](vaidūryaṃ) [enemy-pride-seizing](śatrudarpahṛt)
 
 ## mukta-m0-p02-v40
-liṅgaṃ (phallus) mārakataṃ (emerald) puṣṭyai (for-nourishment) sphaṭikaṃ (crystal) sarvakāmadam (all-desire-giving)
+[lingam](liṅgaṃ) [emerald](mārakataṃ) [for-nourishment](puṣṭyai) [crystal](sphaṭikaṃ) [all-desires-giving](sarvakāmadam)
 
 ## mukta-m0-p02-v41
-vaidrumaṃ (coral) vaśyakamārthaṃ (for-subjugation) kārketanam (agate) amitrahṛt (enemy-removing)
+[coral](vaidrumaṃ) [for-subjugation](vaśyakam) [for-wealth](ārthaṃ) [agate](kārketanam) [enemy-seizing](amitrahṛt)
 
 ## mukta-m0-p02-v42
-baladaṃ (strength-giving) jīvajātījaṃ (life-born) ṭaiṭṭibhaṃ (jet) śatrumardanam (enemy-crushing)
+[strength-giving](baladaṃ) [pearl-born](jīvajātījaṃ) [jet](ṭaiṭṭibhaṃ) [enemy-crushing](śatrumardanam)
 
 ## mukta-m0-p02-v43
-iti (thus) prasthānaliṅgāni (processional-phalli) śuddhimānāni (pure-ones) ataḥ (then) param (beyond)
+[thus](iti) [processional-lingams](prasthānaliṅgāni) [purified](śuddhimānānyataḥ) [beyond](param)
 
 ## mukta-m0-p02-v44
-kārukaiḥ (by-artisans) ghaṭitaṃ (fashioned) yat (which) ca (and) tat (that) liṅgaṃ (phallus) nirmitaṃ (made) smṛtam (remembered)
+[by-artisans](kārukai) [joined](ghaṭitaṃ) [what](yacca) [that-lingam](talliṅgaṃ) [made](nirmitaṃ) [remembered](smṛtam)
 
 ## mukta-m0-p02-v45
-tat (that) pūjyaṃ (worshipful) rājabhiḥ (by-kings) yatnāt (with-effort) bhuktimuktyarthibhiḥ (desiring-enjoyment-liberation) sadā (always)
+[that](tat) [worshipful](pūjyaṃ) [by-kings](rājabhiḥ) [carefully](yatnāt) [enjoyment-liberation-desiring](bhuktimuktyarthibhiḥ) [always](sadā)
 
 ## mukta-m0-p02-v46
-ūrdhvādhovadanaṃ (up-down-faced) dīrghaṃ (long) adhaḥ (below) sthūlaṃ (thick) ca (and) niṣprabhaṃ (lustreless)
+[upward-downward-faced](ūrdhvādhovadanaṃ) [long](dīrgham) [below](adhaḥ) [thick](sthūlaṃ) [and](ca) [lustreless](niṣprabham)
 
 ## mukta-m0-p02-v47
-chidraṃ (perforated) ca (and) sphuṭitaṃ (cracked) trastaṃ (frightened) śalyānvitaṃ (thorn-possessed) surojjhitam (god-abandoned)
+[holed](chidraṃ) [and](ca) [cracked](sphuṭitaṃ) [frightened](trastaṃ) [with-splinter](śalyānvitaṃ) [god-abandoned](surojjhitam)
 
 ## mukta-m0-p02-v48
-rāṣṭragotrajanagrāma (kingdom-clan-people-village) dhanamitrasutān (wealth-friend-sons) api (also)
+[kingdom-lineage-village](rāṣṭragotrajanagrāma) [wealth-friend-son](dhanamitrasutānapi) [and](api)
 
 ## mukta-m0-p02-v49
-rogaṃ (disease) parājayodvegaṃ (defeat-agitation) janadveṣaṃ (people-hatred) kaliṃ (strife) tathā (thus)
+[disease](rogaṃ) [defeat](parājayam) [agitation](udvegaṃ) [people-hatred](janadveṣaṃ) [strife](kaliṃ) [thus](tathā)
 
 ## mukta-m0-p02-v50
-tat (that) syāt (should-be) doṣaiḥ (from-faults) vinirmuktaṃ (free) dṛḍhaṃ (firm) snigdhaṃ (unctuous) prabhānvitam (lustre-possessed)
+[that](tatsyāt) [from-defects](doṣair) [free](vinirmuktaṃ) [firm](dṛḍhaṃ) [unctuous](snigdhaṃ) [lustrous](prabhānvitam)

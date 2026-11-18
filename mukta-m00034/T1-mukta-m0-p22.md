@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p22-v526
-[from-excess](udrekāt) [attracting](karṣato) [seen](dṛṣṭaḥ) [of-time-devouring](kālagrāsasya) [origin](sambhavaḥ)
+[from-excess](udrekāt) [attracting](karṣato) [seen](dṛṣṭaḥ) [of-time-devourer](kālagrāsasya) [origin](sambhavaḥ)
 
 ## mukta-m0-p22-v527
-[steadiness](sthairyam) [goes](eti) [wonder](camatkāro) [without](vinā) [object-attachment](viṣayasaṅgatim)
+[steadiness-attains](sthairyameti) [wonder](camatkāro) [without](vinā) [object-attachment](viṣayasaṅgatim)
 
 ## mukta-m0-p22-v528
-[measure-ground](pramāṇabhūmim) [relying-on](āśritya) [four](catasraḥ) [times](kālikāḥ) [situated](sthitāḥ)
+[measure-ground-taking-refuge](pramāṇabhūmimāśritya) [four](catasraḥ) [time-powers](kālikāḥ) [established](sthitāḥ)
 
 ## mukta-m0-p22-v529
-[by-distinction-of-stability-creation-etc](sthitisṛṣṭyādibhedena) [fourfold](caturdhā) [time-rise](kālikodayaḥ)
+[stability-creation-etc-difference](sthitisṛṣṭyādibhedena) [fourfold](caturdhā) [time-powers-rise](kālikodayaḥ)
 
 ## mukta-m0-p22-v530
-[knower-form](pramātṛrūpam) [entering](āviśya) [four](catasraḥ) [times](kālikāḥ) [situated](sthitāḥ)
+[knower-form-entering](pramātṛrūpamāviśya) [four](catasraḥ) [time-powers](kālikāḥ) [established](sthitāḥ)
 
 ## mukta-m0-p22-v531
-[seen](darśana)+[touch](sparśa)+[enjoyment](sambhoga)+[cessation](virāma)+[excess](udrekatā) [considered](matāḥ)
+[seeing-touching-enjoyment-detachment-excess](darśanasparśasambhogavirāmodrekatā) [considered](matāḥ)
 
 ## mukta-m0-p22-v532
-[women](strī)+[wine](madya)+[meat](māṃsa)+[in-enjoyments](bhogeṣu) [wonder](camatkāra)+[following](anuvṛttitaḥ)
+[women-wine-meat-enjoyments](strīmadyamāṃsabhogeṣu) [wonder-continuation](camatkārānuvṛttitaḥ)
 
 ## mukta-m0-p22-v533
-[this](etat) [retinue](parikaras) [but](tu) [other](anyo) [group-of-states](bhāvavargas) [established](vyavasthitaḥ)
+[this](etat) [retinue](parikaraḥ) [but-other](tvanyo) [state-group](bhāvavargaḥ) [established](vyavasthitaḥ)
 
 ## mukta-m0-p22-v534
-[by-this](anena) [indeed](eva) [intention](āśayena) [indeed](eva) [supreme-brahman](parabrahma) [for-obtaining](upalabdhaye)
+[by-this-very-intention](anenaivāśayenaiva) [supreme-brahman-attainment](parabrahmopalabdhaye)
 
 ## mukta-m0-p22-v535
-[that](tad) [thus](ittham) [of-all-states](sarvabhāvānām) [in-all-experience-grounds](sarvānubhavabhūmiṣu)
+[thus](taditthaṃ) [all-states](sarvabhāvānāṃ) [all-experience-grounds](sarvānubhavabhūmiṣu)
 
 ## mukta-m0-p22-v536
-[by-proper-investigation-of-thing](samyagvastuvicāreṇa) [of-states](bhāvānām) [non-essentiality](āsvabhāvataḥ)
+[proper-object-inquiry](samyagvastuvicāreṇa) [states-non-nature](bhāvānāmāsvabhāvataḥ)
 
 ## mukta-m0-p22-v537
-[thus](iti) [established-face-tradition](siddhamukhāmnāya) [by-reasoning](yuktyā) [not](na) [indeed](eva) [is](asti) [in-reality](vastutaḥ)
+[thus](iti) [accomplished-mouth-tradition-reasoning](siddhamukhāmnāyayuktyā) [not-at-all-is](naivāsti) [in-reality](vastutaḥ)
 
 ## mukta-m0-p22-v538
-[self-expansion-filled](svaviṣphāramayam) [all](sarvam) [this](idam) [arrangement](saṃsthānam) [of-self](ātmanaḥ)
+[self-expansion-filled](svaviṣphāramayaṃ) [all-this](sarvamidaṃ) [arrangement-of-self](saṃsthānamātmanaḥ)
 
 ## mukta-m0-p22-v539
-[intent-on-that-devouring](tadgrāsasaṃrambhaparā) [which](yāḥ) [and](ca) [twelve](dvādaśa) [times](kālikāḥ)
+[that-devouring-zeal-supreme](tadgrāsasaṃrambhaparā) [and-which](yāśca) [twelve](dvādaśa) [time-powers](kālikāḥ)
 
 ## mukta-m0-p22-v540
-[one](eka) [indeed](eva) [consciousness-nonconsciousness-enjoyment](cidacidbhoga)+[enjoyment](bhoga)+[non-enjoyment](nirbhoga)+[characteristic](lakṣaṇā)
+[one-only](ekaiva) [consciousness-nonconsciousness-enjoyment-enjoyment-non-enjoyment-characterized](cidacidbhogabhoganirbhogalakṣaṇā)
 
 ## mukta-m0-p22-v541
-[with-conceptual](savikalpa) [without-conceptual](avikalpa) [of-all](sarvāsām) [consciousness](saṃvid) [abode](ālayaḥ)
+[with-concept-without-concept](savikalpāvikalpānāṃ) [all](sarvāsā) [consciousness-abode](saṃvidālayaḥ)
 
 ## mukta-m0-p22-v542
 [immovable](acalā) [vibration-free](spandarahitā) [all-vibration-enjoyer](sarvaspandopabhoginī)
 
 ## mukta-m0-p22-v543
-[thus](tathā) [worship](pūjana) [transitions](saṅkrāmaiḥ) [means](upāyaiḥ) [indicated](upalakṣitā)
+[thus](tathā) [worship-transitions](pūjanasaṅkrāmair) [means](upāyair) [indicated](upalakṣitā)
 
 ## mukta-m0-p22-v544
-[thirteenth](trayodaśī) [thus](iti) [which](yā) [goddess](devī) [is-called](kathyate) [indeed](hi) [by-convention](upacārataḥ)
+[thirteenth-thus](trayodaśīti) [which](yā) [goddess](devī) [is-said](kathyate) [indeed](hi) [by-convention](upacārataḥ)
 
 ## mukta-m0-p22-v545
-[names](abhidhānāni) [occur](vartante) [heart-reaching](hṛdayaṅgama) [by-reasoning](yuktitaḥ)
+[names](abhidhānāni) [occur](vartante) [heart-reaching-reasoning](hṛdayaṅgamayuktitaḥ)
 
 ## mukta-m0-p22-v546
-[time-sequence](kālikākrama) [from-being-seen](dṛṣṭatvāt) [by-convention](upacāreṇa) [those](tāḥ) [situated](sthitāḥ)
+[time-power-sequence-seen-ness](kālikākramadṛṣṭatvāt) [by-convention](upacāreṇa) [those](tāḥ) [established](sthitāḥ)
 
 ## mukta-m0-p22-v547
-[how](katham) [of-mantra](mantrasya) [reality](sadbhāvaḥ) [that](sa) [perceptible](pratyakṣaḥ) [also](api) [or](vā) [how](katham)
+[how](kathaṃ) [of-mantra](mantrasya) [reality](sadbhāvaḥ) [that](sa) [direct](pratyakṣaḥ) [also](api) [or](vā) [how](katham)
 
 ## mukta-m0-p22-v548
-[five-lump-bodied](pañcapiṇḍātmakaḥ) [also](api) [may-be](syāt) [subtle](sūkṣma) [perception](pratyakṣa) [for-seer](darśinaḥ)
+[five-lumps-bodied](pañcapiṇḍātmako) [also](api) [may-be](syāt) [subtle-direct-seer](sūkṣmapratyakṣadarśinaḥ)
 
 ## mukta-m0-p22-v549
-[by-convention](upacāreṇa) [its-function](tadvṛtti) [time](kālikā) [sequence-accessible](kramagocarā)
+[by-convention](upacāreṇa) [that-function-time-power](tadvṛttikālikā) [sequence-accessible](kramagocarā)
 
 ## mukta-m0-p22-v550
-[all-desire](sarvākāṅkṣā) [free-from](virahitā) [rest](viśrāntiḥ) [arises](jāyate) [supreme](parā)
+[all-desire-free](sarvākāṅkṣāvirahitā) [rest](viśrāntiḥ) [arises](jāyate) [supreme](parā)
