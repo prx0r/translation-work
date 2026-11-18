@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p68-v1676
-[momentary](kṣaṇikam)+[in-deep](agādhe)+[in-water](ambhasi) [one-should-throw](nikṣipet)
+[instantaneous+deep+water](kṣaṇikamagādhe'mbhasi) [should-place](nikṣipet) [in](i) [water](ambhasi)
 
 ## mukta-m0-p68-v1677
-[great](mahā)+[festival](utsava)+[rite](vidhiḥ) [of-śambhu](śambhoḥ) [is-told](kathyate) [by-which](yena) [satisfied](tarpitāḥ)
+[great+festival+rite](mahotsavavidhiḥ) [of-śambhu](śambhoḥ) [is-told](kathyate) [by-which](yena) [satisfied](tarpitāḥ)
 
 ## mukta-m0-p68-v1678
-[every](prati)+[year](saṃvatsaraṃ) [or](vā)+[also](api) [every](prati)+[six](ṣaṇ)+[months](māsam)+[indeed](eva) [or](vā)
+[every-year](pratisaṃvatsaraṃ) [or](vā) [every-six-months](pratiṣaṇmāsameva) [or](vā)
 
 ## mukta-m0-p68-v1679
-[by-chariot](rathena) [it-may-be](syāt)+[or](atha)+[else](vā) [by-palanquin](śibikā)+[and-so-forth](ādinā)
+[by-chariot](rathena) [or](syādathavā) [by-palanquin-etc](śibikādinā) [thus](athavā)
 
 ## mukta-m0-p68-v1680
-[chariot](ratha)+[and-so-forth](ādyaṃ) [and](ca) [vehicle](yānaṃ) [bedstead](khaṭvā)+[and-so-forth](ādikaṃ) [but](tu) [which](yat)
+[chariot-etc](rathādyaṃ) [vehicle](ca) [yānaṃ] [cot-etc](khaṭvādikaṃ) [that](tu) [which](yat)
 
 ## mukta-m0-p68-v1681
-[peaked](śaikharī) [shaven-topped](mauṇḍī) [threefold](trividhā) [palanquin](śibikā) [should-be](bhavet)
+[peak-shaped](śaikharī) [shaved](mauṇḍī) [threefold](trividhā) [palanquin](śibikā) [becomes](bhavet)
 
 ## mukta-m0-p68-v1682
-[pillar](stambha)+[crossbeam](uttara)+[ending](antā) [but](tu) [hall](śālā)+[roof](cchādana)+[provided-with](saṃyutā)
+[pillar+end](stambhottarāntā) [with-roof](tu) [hall+covered](śālācchādanasaṃyutā)
 
 ## mukta-m0-p68-v1683
-[three](tri)+[vitasti](vitastika)+[wide](vistārā) [long](dīrghā) [five](pañca)+[vitastis](vitastikam)
+[three-spans](trivitastikavistārā) [long](dīrghā) [five-spans](pañcavitastikam)
 
 ## mukta-m0-p68-v1684
-[or](vā)+[extended](āyatā) [than-width](vyāsāt) [own](sva)+[ear](karṇa)+[length](āyāmataḥ)+[also](api) [or](vā)
+[wide](vāyatā) [from-diameter](vyāsāt) [from-own-ear-length](svakarṇāyāmato'pi) [or](vā)
 
 ## mukta-m0-p68-v1685
-[image](mūrti)+[finger](aṅgula)+[devoid](vihīna)+[in-height](ucce) [best](mukhya)+[middle](madhya)+[lowest](adhama)+[in-order](kramāt)
+[without-image-fingers](mūrtyaṅgulavihīnocce) [chief+middle+low](mukhyamadhyādhamakramāt)
 
 ## mukta-m0-p68-v1686
-[own](sva)+[width](vyāsa)+[half](ardham)+[high](uccā) [should-be](syāt) [ivory](danta)+[wood](dāru)+[and-so-forth](ādi)+[made](nirmitā)
+[own-diameter-half](svavyāsārdhamuccā) [made-of-ivory-wood-etc](syād) [dantadārvādinirmitā)
 
 ## mukta-m0-p68-v1687
-[and](ca)+[thus](ittham)+[pole](īṣikā)+[decoration](alaṅkṛtiḥ)+[should-be](bhavet)
+[thus](cettham) [decoration](īṣikālaṅkṛtirbhavet)
 
 ## mukta-m0-p68-v1688
-[with-half](sārdha)+[two](dvi)+[measure](mātra)+[third-part](tri+aṃśaḥ)+[and](ca) [widths](vistārau) [middle](madhyama)+[best](uttamau)
+[one-and-half-matra-third](sārdhadvimātratryaṃśaśca) [widths](vistārau) [middle+high](madhyamottamau)
 
 ## mukta-m0-p68-v1689
-[or](vā) [umbrella](chatra)+[resembling](ābhaḥ) [hand](hastaḥ) [ivory](danta)+[and-so-forth](ādi)+[made](nirmitaḥ)
+[or](vā) [umbrella-like](chatrābho) [hand](hasto) [made-of-ivory-etc](dantādinirmitaḥ)
 
 ## mukta-m0-p68-v1690
-[of-two-parts](bhāgayoḥ)+[from-middle](madhyataḥ)+[at-end](ante) [and](ca)+[also](api)+[at-beginning](ādau) [should-be](syuḥ)+[four](veda)+[crossbars](kampakāḥ)
+[in-middle+ends](bhāgayormadhyato'nte) [and](cāpyādau) [syuḥ](syurvedakampakāḥ)
 
 ## mukta-m0-p68-v1691
-[*](*) [two-parts](bhāgau) [knob](galikā)+[plank](phalaka)+[provided-with](anvitau)
+[parts](bhāgau) [with-neck-plate](galikāphalakānvitau)
 
 ## mukta-m0-p68-v1692
-[man](nara)+[woman](nārī)+[drama](nāṭaka)+[and-so-forth](ādyaiḥ)+[one-should-decorate](alaṅkuryāt) [but](tu) [suitably](yuktitaḥ)
+[men+women+dance-etc](naranārīnāṭakādyairalaṅkuryāt) [with-skill](tu) [yuktitaḥ)
 
 ## mukta-m0-p68-v1693
-[*](*) [*](*) [*](*) [*](*) [*](*) [*](*) [*](*) [*](*) [they](tāḥ)
+[those](tāḥ)
 
 ## mukta-m0-p68-v1694
-[or](vā) [width](vyāsa)+[length](āyāma)+[situated](stha)+[by-divisions](bhaktayā)(?)
+[or](vā) [from-diameter-stay](vyāsāyāmasthabhaktayā(?))
 
 ## mukta-m0-p68-v1695
-[of-pillars](stambhānāṃ) [but](tu) [thickness](ghana)+[widths](vyāsau) [of-crossbars](kampānāṃ) [and](ca) [equal](samau) [are-remembered](smṛtau)
+[of-pillars](stambhānāṃ) [dense+diameter](tu) [ghanavyāsau) [of-shafts](kampānāṃ) [equal](ca) [remembered](samau) [smṛtau)
 
 ## mukta-m0-p68-v1696
-[six](ṣaṭ)+[seven](sapta)+[eight](aṣṭa)+[finger](aṅgula)+[raised](ucchritāḥ)
+[six-seven-eight-fingers](ṣaṭsaptāṣṭāṅgulocchritāḥ)
 
 ## mukta-m0-p68-v1697
-[peg](kīla)+[straps](paṭṭaiḥ)+[suitably](yuktyā) [should-be](syuḥ) [on-all-sides](sarvataḥ) [firm](dṛḍhāḥ)
+[with-pegs+plates](kīlapaṭṭairyuktyā) [should-be](syuḥ) [all-around](sarvato) [firm](dṛḍhāḥ)
 
 ## mukta-m0-p68-v1698
-[one-should-make](kuryāt)+[by-this](anena) [method](mārgeṇa) [distinction](viśeṣaḥ)+[but](tu) [is-stated](nigadyate)
+[should-do](kuryādanena) [by-this](mārgeṇa) [special](viśeṣastu) [is-said](nigadyate)
 
 ## mukta-m0-p68-v1699
-[lattice](jāla)+[wall](bhitti)+[covered-with](samāvṛtā)
+[with-lattice-wall](jālabhittisamāvṛtā)
 
 ## mukta-m0-p68-v1700
-[in-the-middle](madhyataḥ) [measurement](mānaṃ) [of-palanquins](śibikānāṃ) [is-prescribed](vidhīyate)
+[in-middle](madhyato) [measure](mānaṃ) [of-palanquins](śibikānāṃ) [is-prescribed](vidhīyate)

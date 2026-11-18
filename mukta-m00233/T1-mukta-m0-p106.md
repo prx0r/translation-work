@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p106-v2626
-[pale-backed](pāṇḍu+pṛṣṭhaḥ)+[and](ca) [bad-day](durdinaḥ) [good-day](sudinaḥ)+[likewise](tathā)
+[sanskrit-term](pāṇḍupṛṣṭhaśca) [sanskrit-term](durdinaḥ) [sanskrit-term](sudinastathā)
 
 ## mukta-m0-p106-v2627
-[causer-of-existence](bhāvanaḥ) [lord](bhagavān) [existence](bhavaḥ)
+[sanskrit-term](bhāvano) [sanskrit-term](bhagavān) [sanskrit-term](bhavaḥ)
 
 ## mukta-m0-p106-v2628
-[all-army](viśva+senaḥ)+[and](ca) [all-pervading-lord](viṣvak+senaḥ) [spreader](visāraṇaḥ)
+[sanskrit-term](viśvasenaśca) [sanskrit-term](viṣvakseno) [sanskrit-term](visāraṇaḥ)
 
 ## mukta-m0-p106-v2629
-[desirous](kāmukaḥ)+[non-desirous](akāmukaḥ)+[and](ca)+[indeed](eva) [desire-remover](kāma+hṛt) [desire-destroyer](kāma+nāśanaḥ)
+[sanskrit-term](kāmuko'kāmukaścaiva) [sanskrit-term](kāmahṛt) [sanskrit-term](kāmanāśanaḥ)
 
 ## mukta-m0-p106-v2630
-[fire](agniḥ)+[fire-equal](agni+samānaḥ)+[and](ca) [flame-garlanded](jvālā+mālī) [and](ca) [all-devourer](viśva+bhuk)
+[sanskrit-term](agniragnisamānaśca) [sanskrit-term](jvālāmālī) [sanskrit-term](ca) [sanskrit-term](viśvabhuk)
 
 ## mukta-m0-p106-v2631
-[red-bodied](rakta+vapūḥ)+[smoky](dhūmraḥ) [seven-flamed](sapta+arciḥ)+[universal-medicine](viśva+bheṣajaḥ)
+[sanskrit-term](raktavapūrdhūmraḥ) [sanskrit-term](saptārcirviśvabheṣajaḥ)
 
 ## mukta-m0-p106-v2632
-[yoga-lover](yoga+priyaḥ) [wood-born](dāru+jaḥ)+[and](ca)+[also](api)+[fiery](āgneyaḥ) [destruction](nidhanaḥ)+[likewise](tathā)
+[sanskrit-term](yogapriyo) [sanskrit-term](dārujaścāpyāgneyo) [sanskrit-term](nidhanastathā)
 
 ## mukta-m0-p106-v2633
-[frog](maṇḍūḥ)+[frog-crow-faced](maṇḍūka+kāka+āsyau) [god](devaḥ) [temple-priest](devalakaḥ)+[likewise](tathā)
+[sanskrit-term](maṇḍūrmaṇḍūkakākāsyau) [sanskrit-term](devo) [sanskrit-term](devalakastathā)
 
 ## mukta-m0-p106-v2634
-[droṇa-mārīca](droṇa+mārīcaḥ) [buffalo](mahiṣaḥ) [terrible](bhīṣaṇaḥ)+[likewise](tathā)
+[sanskrit-term](droṇamārīco) [sanskrit-term](mahiṣo) [sanskrit-term](bhīṣaṇastathā)
 
 ## mukta-m0-p106-v2635
-[and](ca)+[indeed](eva) [envious](matsarī) [deceiver](maskaraḥ)+[likewise](tathā)
+[sanskrit-term](caiva) [sanskrit-term](matsarī) [sanskrit-term](maskarastathā)
 
 ## mukta-m0-p106-v2636
-[lion-faced](siṃha+mukhaḥ)+[and](ca)+[indeed](eva) [man-lion](nāra+siṃhaḥ) [man](naraḥ)+[likewise](tathā)
+[sanskrit-term](siṃhamukhaścaiva) [sanskrit-term](nārasiṃho) [sanskrit-term](narastathā)
 
 ## mukta-m0-p106-v2637
-[reed-eared](nāla+karṇaḥ)+[and](ca)+[thus](iti)+[in-the-southeastern](āgneyyām) [direction](diśi) [seventy](saptatiḥ)
+[sanskrit-term](nālakarṇaścetyāgneyyāṃ) [sanskrit-term](diśi) [sanskrit-term](saptatiḥ)
 
 ## mukta-m0-p106-v2638
-[lord-of-the-dead](preta+adhipaḥ) [dharma](dharmaḥ) [dark](kṛṣṇaḥ) [dark-eyed](kṛṣṇa+akṣaḥ) [indeed](eva) [and](ca)
+[sanskrit-term](pretādhipo) [sanskrit-term](dharmaḥ) [sanskrit-term](kṛṣṇaḥ) [sanskrit-term](kṛṣṇākṣa) [sanskrit-term](eva) [sanskrit-term](ca)
 
 ## mukta-m0-p106-v2639
-[death](kṛtāntaḥ)+[and](ca) [truth](satyaḥ) [truth-lover](satya+priyaḥ) [friend](suhṛt)
+[sanskrit-term](kṛtāntaśca) [sanskrit-term](satyaḥ) [sanskrit-term](satyapriyaḥ) [sanskrit-term](suhṛt)
 
 ## mukta-m0-p106-v2640
-[dharma-born](dharma+jaḥ)+[and](ca)+[also](api) [bowman](dhanvī) [and](ca) [humility](praśrayaḥ) [conduct](nayaḥ)
+[sanskrit-term](dharmajaścāpi) [sanskrit-term](dhanvī) [sanskrit-term](ca) [sanskrit-term](praśrayo) [sanskrit-term](nayaḥ)
 
 ## mukta-m0-p106-v2641
-[merciless](niranukrośaḥ) [hunchbacked](kubjaḥ) [dust-crusher](pāṃsu+vimardanaḥ)
+[sanskrit-term](niranukrośaḥ) [sanskrit-term](kubjaḥ) [sanskrit-term](pāṃsuvimardanaḥ)
 
 ## mukta-m0-p106-v2642
-[protector](saṃrakṣaṇaḥ)+[likewise](tathā)
+[sanskrit-term](saṃrakṣaṇastathā)
 
 ## mukta-m0-p106-v2643
-[very-auspicious](su+bhadraḥ)+[and](ca) [horn-bearer](śārṅgī) [horn-holder](śārṅga+dharaḥ)+[likewise](tathā)
+[sanskrit-term](subhadraśca) [sanskrit-term](śārṅgī) [sanskrit-term](śārṅgadharastathā)
 
 ## mukta-m0-p106-v2644
-[lute-in-hand](vallakī+hastaḥ) [two-tusked](dviradaḥ) [body](vigrahaḥ)+[sky](ambaraḥ)
+[sanskrit-term](vallakīhasto) [sanskrit-term](dvirado) [sanskrit-term](vigraho'mbaraḥ)
 
 ## mukta-m0-p106-v2645
-[demon](rākṣasaḥ)+[and](ca)+[demon](asuraḥ) [flesh-eater](kravyād) [hero-slayer](vīra+hā) [destruction](nir-ṛtiḥ)+[likewise](tathā)
+[sanskrit-term](rākṣasaścāsuraḥ) [sanskrit-term](kravyād) [sanskrit-term](vīrahā) [sanskrit-term](nir-ṛtistathā)
 
 ## mukta-m0-p106-v2646
-[son-of-kaikasī](kaikaseyaḥ) [cruel](krūraḥ) [cruel-bodied](krūra+vapuḥ)+[likewise](tathā)
+[sanskrit-term](kaikaseyaḥ) [sanskrit-term](krūraḥ) [sanskrit-term](krūravapustathā)
 
 ## mukta-m0-p106-v2647
-[odd-eyed](vīrūpa+akṣaḥ)+[then](atha) [ash-limbed](bhasma+aṅgaḥ) [well-made](su+kṛtiḥ)+[deformed](vi+kṛtiḥ)+[likewise](tathā)
+[sanskrit-term](vīrūpākṣo'tha) [sanskrit-term](bhasmāṅgaḥ) [sanskrit-term](sukṛtirvikṛtistathā)
 
 ## mukta-m0-p106-v2648
-[fleshly](māṃsakaḥ)+[and](ca)+[indeed](iva) [demon](rākṣasaḥ) [protector](rakṣakaḥ)+[likewise](tathā)
+[sanskrit-term](māṃsakaściva) [sanskrit-term](rākṣaso) [sanskrit-term](rakṣakastathā)
 
 ## mukta-m0-p106-v2649
-[hero-army](vīra+senaḥ)+[imperishable-eater](akṣara+aśaḥ)+[and](ca) [life-giver](prāṇa+daḥ) [sacred-syllable](praṇavaḥ)+[likewise](tathā)
+[sanskrit-term](vīraseno'kṣarāśaśca) [sanskrit-term](prāṇadaḥ) [sanskrit-term](praṇavastathā)
 
 ## mukta-m0-p106-v2650
-[wide-eyed](viśāla+akṣaḥ) [red-tongued](rakta+jihvaḥ) [crooked](vijihmakaḥ)
+[sanskrit-term](viśālākṣo) [sanskrit-term](raktajihvo) [sanskrit-term](vijihmakaḥ)
