@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p55-v1351
-[discernible](vivecanīye) [obtained](saṃprāpte) [dispute](vāda) [indeed](eva) [proceeds](pravarttate)
+[vivecanīye](vivecanīye) [saṃprāpte](saṃprāpte) [vāda](vāda) [eva](eva) [pravarttate](pravarttate)
 
 ## mukta-m0-p55-v1352
-[dispute](vādasya) [but](tu) [completed](samāpto) [indeed](hi) [refutation-success-giving](jātinigrahasiddhidā)
+[vādasya](vādasya) [tu](tu) [samāptaḥ](samāptaḥ) [hi](hi) [jātinigraha](jātinigraha) [siddhi](siddhi) [dā](dā)
 
 ## mukta-m0-p55-v1353
-[mutual-dependence](anyonyāśraya) [fault](doṣeṇa) [by-that](tena) [dispute](vādena) [view](darśanam)
+[anyonya](anyonya) [āśraya](āśraya) [doṣeṇa](doṣeṇa) [tena](tena) [vādena](vādena) [darśanam](darśanam)
 
 ## mukta-m0-p55-v1354
-[mutually-contradictory](parasparavyāhatāni) [not](na) [wonder-causing](camatkārakāṇinaḥ)
+[paraspara](paraspara) [vyāhatāni](vyāhatāni) [na](na) [camatkāra](camatkāra) [kāṇinaḥ](kāṇinaḥ)
 
 ## mukta-m0-p55-v1355
-[mutual-invalidity](anyonyamapramāṇatva) [fame](khyāti) [contrary-assertions](vipramapattayaḥ)
+[anyonyam](anyonyam) [apramāṇatva](apramāṇatva) [khyāti](khyāti) [vipramapattayaḥ](vipramapattayaḥ)
 
 ## mukta-m0-p55-v1356
-[measured-others](pramitānya) [other-there](parastatra) [validity](pramāṇyaṃ) [not-understood](nāvabudhyate)
+[pramitāni](pramitāni) [aparaḥ](aparaḥ) [tatra](tatra) [pramāṇyam](pramāṇyam) [na](na) [avabudhyate](avabudhyate)
 
 ## mukta-m0-p55-v1357
-[near-object](sannikṛṣṭārtha) [form-ness](rūpatvaṃ) [there](tatra) [neutral](madhyastha) [sight-splendor](dṛkprabhā)
+[sannikṛṣṭa](sannikṛṣṭa) [artha](artha) [rūpatvam](rūpatvam) [tatra](tatra) [madhyastha](madhyastha) [dṛk](dṛk) [prabhā](prabhā)
 
 ## mukta-m0-p55-v1358
-[that-disputant](tadvādi) [opponent-spoken](prativādyukta) [logic-erudition](yuktipāṇḍitya) [truth-knower](tatvavit)
+[tad](tad) [vādi](vādi) [prativādi](prativādi) [ukta](ukta) [yukti](yukti) [pāṇḍitya](pāṇḍitya) [tatvavit](tatvavit)
 
 ## mukta-m0-p55-v1359
-[come](āyāta) [disputants](vādinaḥ) [all](sarve) [their](teṣāṃ) [and](ca) [opponents](prativādinaḥ)
+[āyāta](āyāta) [vādinaḥ](vādinaḥ) [sarve](sarve) [teṣām](teṣām) [ca](ca) [prativādinaḥ](prativādinaḥ)
 
 ## mukta-m0-p55-v1360
-[fault-virtue](doṣoguṇaścaiva) [equal-support](samoradhraṃ) [and](cāpi) [equal](samaṃ) [remembered](smṛtam)
+[doṣa](doṣa) [guṇa](guṇa) [ca](ca) [eva](eva) [sama](sama) [radhra](radhra) [ca](ca) [api](api) [sama](sama) [smṛtam](smṛtam)
 
 ## mukta-m0-p55-v1361
-[not-one](naikaḥ) [to-be-questioned](paryanuyoktavyaḥ) [such-meaning-inquiry](tādṛgarthavicāraṇe)
+[na](na) [ekaḥ](ekaḥ) [paryanuyoktavyaḥ](paryanuyoktavyaḥ) [tādṛśa](tādṛśa) [artha](artha) [vicāraṇe](vicāraṇe)
 
 ## mukta-m0-p55-v1362
-[therefore](ataḥ) [equality](sāmya) [principal](pradhānānāṃ) [not](na) [hatred](dveṣonyatra) [fits](yujyate)
+[ataḥ](ataḥ) [sāmya](sāmya) [pradhānānām](pradhānānām) [na](na) [dveṣaḥ](dveṣaḥ) [anyatra](anyatra) [yujyate](yujyate)
 
 ## mukta-m0-p55-v1363
-[whatever](yat) [something](kiṃcit) [by-action](karmayā) [some-deity](kāciddevatā) [whatever](yaccakiṃcana)
+[yat](yat) [kiṃcit](kiṃcit) [karma](karma) [yā](yā) [kācit](kācit) [devatā](devatā) [yat](yat) [kiṃcana](kiṃcana)
 
 ## mukta-m0-p55-v1364
-[whoever](yaḥ) [some](kopi) [liberation](mokṣaḥ) [everywhere](sarvatra) [scripture](śāstre) [similar](sadṛśa) [declared](īritaḥ)
+[yaḥ](yaḥ) [kopi](kopi) [mokṣaḥ](mokṣaḥ) [sarvatra](sarvatra) [śāstre](śāstre) [sadṛśaḥ](sadṛśaḥ) [īritaḥ](īritaḥ)
 
 ## mukta-m0-p55-v1365
-[this](etat) [mode-ness](prakāratā) [attainment](pattau) [of-yours](bhavatastu) [discord](vyadhātkaliḥ)
+[etat](etat) [prakāratā](prakāratā) [pattau](pattau) [bhavataḥ](bhavataḥ) [tu](tu) [vyadhāt](vyadhāt) [kaliḥ](kaliḥ)
 
 ## mukta-m0-p55-v1366
-[all](sarveṣvapi) [and](ca) [scriptures](śāstreṣu) [knowledge-measure-circle-mark](jñānamānaṃdalakṣaṇam)
+[sarveṣu](sarveṣu) [api](api) [ca](ca) [śāstreṣu](śāstreṣu) [jñāna](jñāna) [māna](māna) [dalakṣaṇam](dalakṣaṇam)
 
 ## mukta-m0-p55-v1367
-[being-inquired](vicāryamāṇenāstaiva) [all-convention](sarvavyavahṛtā) [limit](vadhi)
+[vicāryamāṇena](vicāryamāṇena) [asta](asta) [eva](eva) [sarva](sarva) [vyavahṛtā](vyavahṛtā) [vadhi](vadhi)
 
 ## mukta-m0-p55-v1368
-[knowledge-measure-circle-form](jñānamānaṃdarūpaṃ) [that](tat) [all-pervading](sarvagaṃ) [all-born](sarvajātikam)
+[jñāna](jñāna) [māna](māna) [darūpam](darūpam) [tat](tat) [sarvagam](sarvagam) [sarvajātikam](sarvajātikam)
 
 ## mukta-m0-p55-v1369
-[thus](iti) [neutral-form](madhyastarūpasya) [own-self-bliss-great-lord](svātmānaṃdamaheśi) [tuḥ](tuḥ)
+[iti](iti) [madhyasta](madhyasta) [rūpasya](rūpasya) [svātmāna](svātmāna) [da](da) [maheśi](maheśi) [tuḥ](tuḥ)
 
 ## mukta-m0-p55-v1370
-[so](tatheti) [accept](pratipadyaṃte) [scriptures](śāstraiḥ) [with-own-new](sahanijairnnavaiḥ)
+[tathā](tathā) [iti](iti) [pratipadyante](pratipadyante) [śāstraiḥ](śāstraiḥ) [saha](saha) [nijaiḥ](nijaiḥ) [navaiḥ](navaiḥ)
 
 ## mukta-m0-p55-v1371
-[limb-hood](aṃgatāṃ) [indeed](kilayātāni) [scriptures](śāstrāṇi) [various](vividhānyapi)
+[aṃgatām](aṃgatām) [kilayātāni](kilayātāni) [śāstrāṇi](śāstrāṇi) [vividhāni](vividhāni) [api](api)
 
 ## mukta-m0-p55-v1372
-[entry](praveśaḥ) [gradually](kramataḥ) [venerable](pūjyāścārvākādinijāgamāḥ)
+[praveśaḥ](praveśaḥ) [kramataḥ](kramataḥ) [pūjyāḥ](pūjyāḥ) [ca](ca) [ārvāka](ārvāka) [ādi](ādi) [nijāgamāḥ](nijāgamāḥ)
 
 ## mukta-m0-p55-v1373
-[which](yāni) [which](yānyantarasthāni) [those](tānitā) [strong](vudbalāni) [indeed](vai)
+[yāni](yāni) [yāni](yāni) [antarasthāni](antarasthāni) [tāni](tāni) [tā](tā) [vudbalāni](vudbalāni) [vai](vai)
 
 ## mukta-m0-p55-v1374
-[attendants-guards](parivārārakṣakāśca) [protection-wealth](guptyardāḥ) [scripture](śāstra) [collections](saṃcayāḥ)
+[parivāra](parivāra) [rakṣakāḥ](rakṣakāḥ) [ca](ca) [gupti](gupti) [ardhāḥ](ardhāḥ) [śāstra](śāstra) [saṃcayāḥ](saṃcayāḥ)
 
 ## mukta-m0-p55-v1375
-[scripture-path-become](śāstramārgabhavantyeva) [hero-path](vīramārgasya) [limb-hood](cāṅgatām)
+[śāstra](śāstra) [mārga](mārga) [bhavanti](bhavanti) [eva](eva) [vīra](vīra) [mārgasya](mārgasya) [ca](ca) [aṃgatām](aṃgatām)

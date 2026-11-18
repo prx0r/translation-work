@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p32-v776
-arcayet(liṅgam) īśānam(iyamādyā) mayā(āhutiḥ)
+[worship](arcayelliṃgam) [īśāna](īśānamiyamādyā) [mayā-huti](mayāhutiḥ)
 
 ## mukta-m0-p32-v777
-caṃdragarbha(iti) kā(api) asti(nāḍī) nalina(locane)
+[moon-womb](caṃdragarbheti) [some](kāpyasti) [nāḍī](nāḍī) [eye](nalinalocane)
 
 ## mukta-m0-p32-v778
-tatratyam(amṛtam) viddhi(kāmeśvarī) ukti(bhūtidam)
+[there](tatratyam) [nectar](amṛtaṃ) [know](viddhi) [kāmeśvarī-utterance](kāmeśvaryuktibhūtidam)
 
 ## mukta-m0-p32-v779
-īṣat(pāṭala) varṇam(ca) yūthikā(sama) saurabham
+[slightly-pink](īṣatpāṭalavarṇaṃ) [jasmine-like](ca) [fragrance](yūthikāsamasaurabham)
 
 ## mukta-m0-p32-v780
-sabhavatyam(samāpannaḥ) jalada(tvaṃ) vaśīkriyāt
+[with](sabhavatyaṃ) [completion](samāpanno) [water-state](jaladatvaṃ) [subjugates](vaśīkriyāt)
 
 ## mukta-m0-p32-v781
-na(saras) deva(svāteṣu) skhalitam(gamanam) bhavet
+[not](na) [lake-god](sarodeva) [own](svāteṣu) [stumbling](skhalitaṃ) [going](gamanaṃ) [becomes](bhavet)
 
 ## mukta-m0-p32-v782
-caṃdonmattā(padasthāne) caṃdragarbhā(prakīrttitā)
+[moon-intoxicated](caṃdonmattā) [foot-place](padasthāne) [moon-womb](caṃdragarbhā) [proclaimed](prakīrttitā)
 
 ## mukta-m0-p32-v783
-atra(dūtyāḥ) śarīrasya(pūrvatrāpi) daśā(abruve)
+[here-messenger](atradūtyāḥ) [body](śarīrasya) [before-too](pūrvatrāpi) [ten-states](daśābruve)
 
 ## mukta-m0-p32-v784
-īṣat(āraktatā) netre(kiṃcit) bhū(vallitā) aṃḍavaṃ
+[slightly-reddish](īṣadāraktatā) [eyes](netre) [somewhat](kiṃcid) [earth-winding](bhūvallitāṃḍavaṃ)
 
 ## mukta-m0-p32-v785
-ānandanātha(bhavana) bāhya(kakṣyā) vigāhanam
+[ānandanātha](ānaṃdanātha) [mansion](bhavana) [outer-corridor](bāhyakakṣyā) [entering](vigāhanam)
 
 ## mukta-m0-p32-v786
-stanayoḥ(pulaka) aṃkūraḥ(gaṃḍayoḥ) ca(anuraktatā)
+[breasts](stanayoḥ) [hair-erect](pulakāṃkūraḥ) [cheeks](gaṃḍayoś) [reddishness](cānuraktatā)
 
 ## mukta-m0-p32-v787
-evaṃ(prakārā) sā(dūtī) caṃdragarbhā(amṛta) dravaiḥ
+[thus](evaṃ) [manner](prakārā) [that](sā) [messenger](dūtī) [moon-womb-nectar-fluids](caṃdragarbhāmṛtadravaiḥ)
 
 ## mukta-m0-p32-v788
-yajet(ānandanātham) sā(vīravat) phalam(aśnute)
+[worship](yajedānaṃdanāthaṃ) [she](sā) [heroic-fruit](vīravatphalamaśnute)
 
 ## mukta-m0-p32-v789
-arthā(aṃguli) samunnamra(taptakāṃcana) sannibhā
+[meaning-finger](arthāṃguli) [raised](samunnamra) [heated-gold-like](taptakāṃcanasannibhā)
 
 ## mukta-m0-p32-v790
-tasyāḥ(caṃdriṇikā) nāyā(bhūyo) liṅgeśa(tāḍavāt)
+[her](tasyāś) [caṃdrinikā-nāḍī](caṃdriṇikānāyā) [more](bhūyo) [liṅga-striking](liṃgeśatāḍavāt)
 
 ## mukta-m0-p32-v791
-kādaṃbarī(rasa) āmodī(mān) mada(toya) udbhavet
+[kādamba](kādaṃbarī) [rasa-fragrant](rasāmodīmānmadaṃtoya) [arises](mudbhavet)
 
 ## mukta-m0-p32-v792
-godāvarī(tīrtha) mayī(tayā) siṃcet(maheśvaram)
+[godāvarī](godāvarī) [tīrtha-filled](tīrthamayī) [by-her](tayā) [sprinkle](siṃcen) [maheśvara](maheśvaram)
 
 ## mukta-m0-p32-v793
-rudra(tva) sīmā(bhaktasya) vahni(tattva) vaśīkṛtim
+[rudra-limit](rudratvasīmābhaktasya) [fire-principle](vahnitattva) [subjugation](vaśīkṛtim)
 
 ## mukta-m0-p32-v794
-tanoti(bhagavān) eṣaḥ(mahānanda) maheśvaraḥ
+[expands](tanoti) [bhagavān](bhagavāneṣaḥ) [mahānanda](mahānaṃda) [maheśvara](maheśvaraḥ)
 
 ## mukta-m0-p32-v795
-umedāham(prayacchanti) svayam(agni) maya(yataḥ)
+[umā-burning](umedāhaṃ) [gives](prayacchaṃti) [self-fire](svayamagni) [from](mayoyataḥ)
 
 ## mukta-m0-p32-v796
-asya(mantra) tu(suśroṇī) śrūyatām(abhidhīyate)
+[its-mantra](asyāmaṃtrastu) [fair-hipped](suśroṇī) [hear](śrūyatāmabhidhīyate)
 
 ## mukta-m0-p32-v797
-arcayāmi(bhavadgātra) mataḥ(siddhim) prayaccha(me)
+[worship](arcayāmi) [your-limb](bhavadgātra) [from-me](mataḥ) [success](siddhiṃ) [give](prayacchame)
 
 ## mukta-m0-p32-v798
-atha(anyanāḍikā) devī(yā) sā(caṃdra) mahodayā
+[then-other-nāḍikā-devī](athānyanāḍikādevī) [she](yā) [sā](sā) [moon-rising](caṃdramahodayā)
 
 ## mukta-m0-p32-v799
-antaḥ(kiṃcit) śyāma(varṇā) triṣu(sthāneṣu) vakritā
+[inside](aṃtaḥ) [somewhat](kiṃcic) [dark-colored](chyāmavarṇā) [three-places](triṣu) [locations](sthāneṣu) [curved](vakritā)
 
 ## mukta-m0-p32-v800
-līlā(amṛta) gaurāṃgī(valat) bhrū(vallī) bhāsurā
+[play-nectar](līlānamrita) [golden-limbed](gaurāṃgī) [eyebrow-creeper-radiant](valadbhrūvallibhāsurā)

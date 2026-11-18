@@ -2,13 +2,13 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p40-v976
-[by-much](bahunā) [what](kim) [here](iha) [said](uktena) [directly](sākṣāt) [bliss](ānanda) [giver](dāyakaḥ)
+[much](bahunā) [what](kim) [here](iha) [said](uktena) [directly](sākṣāt) [bliss](ānanda) [giving](dāyakaḥ)
 
 ## mukta-m0-p40-v977
-[thus](iti) [second](dvitīya) [part](pātasya) [mantra](maṃtra) [name](sannāma) [declared](īritam)
+[thus](iti) [second](dvitīya) [pāta](pātasya) [mantra](maṃtra) [name](sannāma) [declared](īritam)
 
 ## mukta-m0-p40-v978
-[eight-bhogavatī](aṣṭabhogavatī) [holds](dhatte) [great-sovereignty](mahāsāmrājya) [lordship](nāthatām)
+[eight-bhogavatī](aṣṭabhogavatī) [bears](dhatte) [great-sovereignty](mahāsāmrājya) [lordship](nāthatām)
 
 ## mukta-m0-p40-v979
 [all-forms](sarvākāreṇa) [consciousness](caitanya) [dissolution](layaḥ) [all-limbs-beautiful](sarvāṃgasuṃdarī)
@@ -26,16 +26,16 @@
 [not](na) [girdle](mekhalā) [tinkling](kalakvāṇo) [not](na) [play-union](līlāsaṃgamaṃgayaḥ)
 
 ## mukta-m0-p40-v984
-[heart-place](hṛdayasthāna) [born](janitaḥ) [trembling](kaṃpaḥ) [paraparāyate](paraparāyate)
+[heart-place](hṛdayasthāna) [born](janitaḥ) [trembling](kaṃpaḥ) [to-another](paraparāyate)
 
 ## mukta-m0-p40-v985
 [one-eight-great-sacrifice](ekāṣṭakamahāyāga) [wing-drop](pakṣebiṃduṃ) [release](samutsṛjet)
 
 ## mukta-m0-p40-v986
-[eight-eight-great-sacrifice](aṣṭāṣṭakamahāyāge) [messenger-eight](dūtyaṣṭakamataḥ) [then](param)
+[eight-eight-great-sacrifice](aṣṭāṣṭakamahāyāge) [messenger-eight](dūtyaṣṭakam) [thereafter](ataḥ param)
 
 ## mukta-m0-p40-v987
-[this](iyameva) [indeed](hi) [of-śakti](śakteśca) [of-śambhu](śaṃbhorekatayā) [state](sthitiḥ)
+[this-very](iyameva) [indeed](hi) [of-śakti](śakteśca) [of-śambhu](śaṃbhorekatayā) [state](sthitiḥ)
 
 ## mukta-m0-p40-v988
 [thus](itthamānaṃda) [sacrifice](yāgo'yaṃ) [told](kathitaste) [great-lady](maheśvari)
@@ -53,25 +53,25 @@
 [hero](vīraḥ) [long-dance](suciranṛttena) [tired-lord](śrāṃtaliṃgamaheśvaraḥ)
 
 ## mukta-m0-p40-v993
-[then](atha) [defiled](pradūṣita) [fall](pāte) [filled](pūrite) [merit-things](puṇyavastubhiḥ)
+[then](atha) [defiled](pradūṣita) [fall](pāte) [filled](pūrite) [meritorious-things](puṇyavastubhiḥ)
 
 ## mukta-m0-p40-v994
-[of-ānandanātha](ānaṃdanāthasya) [mantra](manuṃcāṣṭāviṃśativārakam)
+[of-ānandanātha](ānaṃdanāthasya) [mantra](manuṃ) [twenty-eight-times](cāṣṭāviṃśativārakam)
 
 ## mukta-m0-p40-v995
 [right-hand](dakṣahastasya) [palm](culuke) [holding](dhārayitvā) [wise](vicakṣaṇaḥ)
 
 ## mukta-m0-p40-v996
-[pure-both](saśuddhibhyāṃtayorbiṃduṃ) [verses](kārikāḥ) [reciting](prapaṭhan) [scatter](kiret)
+[pure-two](saśuddhibhyāṃtayorbiṃduṃ) [verses](kārikāḥ) [reciting](prapaṭhan) [sprinkle](kiret)
 
 ## mukta-m0-p40-v997
-[by-these](etairānaṃdayāgāṃta) [white-semen-drop](śuklaśoṇitabiṃdubhiḥ)
+[by-these](etairānaṃdayāgāṃta) [white-red-drops](śuklaśoṇitabiṃdubhiḥ)
 
 ## mukta-m0-p40-v998
-[by-these](etairānaṃdayāgāṃta) [white-semen-drop](śuklaśoṇitabiṃdubhiḥ)
+[by-these](etairānaṃdayāgāṃta) [white-red-drops](śuklaśoṇitabiṃdubhiḥ)
 
 ## mukta-m0-p40-v999
-[by-these](etairānaṃdayāgāṃta) [white-semen-drop](śuklaśoṇitabiṃdubhiḥ)
+[by-these](etairānaṃdayāgāṃta) [white-red-drops](śuklaśoṇitabiṃdubhiḥ)
 
 ## mukta-m0-p40-v1000
-[by-these](etairānaṃdayāgāṃta) [white-semen-drop](śuklaśoṇitabiṃdubhiḥ)
+[by-these](etairānaṃdayāgāṃta) [white-red-drops](śuklaśoṇitabiṃdubhiḥ)

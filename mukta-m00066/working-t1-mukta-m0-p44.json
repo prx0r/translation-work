@@ -20,7 +20,7 @@
 },
 {
 "surface": "sarvaiḥ",
-"quick_gloss": "all"
+"quick_gloss": "by-all"
 },
 {
 "surface": "akṛtvā",
@@ -28,7 +28,7 @@
 },
 {
 "surface": "duṣkṛtaṃ",
-"quick_gloss": "evil-deed"
+"quick_gloss": "evil"
 },
 {
 "surface": "tapaḥ",
@@ -56,7 +56,7 @@
 "quick_gloss": "should-tell"
 },
 {
-"surface": "doṣā",
+"surface": "doṣāḥ",
 "quick_gloss": "faults"
 },
 {
@@ -172,7 +172,7 @@
 },
 {
 "surface": "prāṇināṃ",
-"quick_gloss": "of-beings"
+"quick_gloss": "of-living-beings"
 },
 {
 "surface": "dayām",
@@ -188,12 +188,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "yāgakāla",
-"quick_gloss": "at-sacrifice-time"
-},
-{
-"surface": "viyoge",
-"quick_gloss": "even-in-separation"
+"surface": "yāgakālaviyoge",
+"quick_gloss": "even-at-sacrifice-time"
 },
 {
 "surface": "api",
@@ -221,7 +217,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "tayāvinā",
+"surface": "tayā+vinā",
 "quick_gloss": "without-her"
 },
 {
@@ -230,15 +226,19 @@
 },
 {
 "surface": "japed",
-"quick_gloss": "should-chant"
+"quick_gloss": "japed"
 },
 {
 "surface": "anaṃga",
-"quick_gloss": "limbless"
+"quick_gloss": "an-aṅga"
 },
 {
-"surface": "madalolayā",
-"quick_gloss": "madalolayā"
+"surface": "madana",
+"quick_gloss": "madana"
+},
+{
+"surface": "lolayā",
+"quick_gloss": "lolayā"
 }
 ]
 },
@@ -299,7 +299,7 @@
 "quick_gloss": "heard"
 },
 {
-"surface": "śrotṛrasāyanam",
+"surface": "śrotṛ+rasāyanam",
 "quick_gloss": "ear-nectar"
 }
 ]
@@ -312,7 +312,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "ka-upāyo",
+"surface": "ka+upāyaḥ",
 "quick_gloss": "ka-upāya"
 },
 {
@@ -333,7 +333,7 @@
 },
 {
 "surface": "siddhitāḥ",
-"quick_gloss": "accomplished"
+"quick_gloss": "perfected"
 }
 ]
 },
@@ -346,7 +346,7 @@
 "tokens": [
 {
 "surface": "anuraktābhiḥ",
-"quick_gloss": "with-affectionate-ones"
+"quick_gloss": "with-devoted-ones"
 },
 {
 "surface": "etābhiḥ",
@@ -387,7 +387,7 @@
 },
 {
 "surface": "upahatāśayāḥ",
-"quick_gloss": "afflicted-mind"
+"quick_gloss": "corrupted-mind"
 }
 ]
 },
@@ -407,7 +407,7 @@
 "quick_gloss": "means"
 },
 {
-"surface": "vade",
+"surface": "vada",
 "quick_gloss": "speak"
 },
 {
@@ -453,7 +453,7 @@
 },
 {
 "surface": "parigrahāḥ",
-"quick_gloss": "possessing"
+"quick_gloss": "possessed"
 }
 ]
 },
@@ -503,11 +503,11 @@
 "tokens": [
 {
 "surface": "bahumāyā",
-"quick_gloss": "much-deceit"
+"quick_gloss": "much-māyā"
 },
 {
 "surface": "kalāvatyo",
-"quick_gloss": "arts"
+"quick_gloss": "skilled"
 },
 {
 "surface": "bahu",
@@ -515,7 +515,7 @@
 },
 {
 "surface": "nāyaka",
-"quick_gloss": "leader"
+"quick_gloss": "nāyaka"
 },
 {
 "surface": "laṃpaṭāḥ",
@@ -544,7 +544,7 @@
 },
 {
 "surface": "tucchānāṃ",
-"quick_gloss": "low"
+"quick_gloss": "lowly"
 },
 {
 "surface": "tu",
@@ -577,7 +577,7 @@
 },
 {
 "surface": "sannibhaḥ",
-"quick_gloss": "resembling"
+"quick_gloss": "like"
 }
 ]
 },
@@ -589,7 +589,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "raktā",
+"surface": "raktāḥ",
 "quick_gloss": "red"
 },
 {
@@ -605,7 +605,7 @@
 "quick_gloss": "would-be"
 },
 {
-"surface": "viraktā",
+"surface": "viraktāḥ",
 "quick_gloss": "dispassionate"
 },
 {
@@ -652,10 +652,10 @@
 },
 {
 "surface": "patyā",
-"quick_gloss": "husband"
+"quick_gloss": "by-husband"
 },
 {
-"surface": "pūritā",
+"surface": "pūritāḥ",
 "quick_gloss": "filled"
 },
 {
@@ -696,7 +696,7 @@
 "quick_gloss": "not"
 },
 {
-"surface": "avirodhana",
+"surface": "avirodha",
 "quick_gloss": "by-non-opposition"
 },
 {
@@ -717,8 +717,8 @@
 "quick_gloss": "by-sorrow"
 },
 {
-"surface": "nipīḍyaṃte",
-"quick_gloss": "are-pressed"
+"surface": "nipīḍyante",
+"quick_gloss": "are-oppressed"
 },
 {
 "surface": "sukhaṃ",
@@ -759,11 +759,11 @@
 },
 {
 "surface": "śaradāṃ",
-"quick_gloss": "of-autumns"
+"quick_gloss": "hundred"
 },
 {
 "surface": "śatam",
-"quick_gloss": "hundred"
+"quick_gloss": "śatam"
 }
 ]
 },
@@ -784,23 +784,23 @@
 },
 {
 "surface": "vidyānāṃ",
-"quick_gloss": "of-knowledges"
+"quick_gloss": "of-vidyās"
 },
 {
 "surface": "mukhaṃ",
 "quick_gloss": "face"
 },
 {
-"surface": "kair",
+"surface": "kaiḥ",
 "quick_gloss": "by-whom"
 },
 {
 "surface": "na",
-"quick_gloss": "not"
+"quick_gloss": "na"
 },
 {
 "surface": "abhicuṃbitam",
-"quick_gloss": "is-kissed"
+"quick_gloss": "abhicuṃbitam"
 }
 ]
 }

@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p23-v551
-[anya-ācāra-kṛtaḥ](anyācārakṛto) [yena](yena) [tad-vadāmi](tadvadāmi) [priyambade](priyambade)
+other-practice-done by-whom so-I-say dear-one [variant beautiful-faced]
 
 ## mukta-m0-p23-v552
-[eteṣām](eteṣāṃ) [jñāna-mātreṇa](jñānamātreṇa) [kaulikasya](kaulikasya) [kriyā-kṣayaḥ](kriyākṣayaḥ)
+these-of knowledge-only by kaulika's action-destruction
 
 ## mukta-m0-p23-v553
-[sa](sa) [paśuḥ](paśuḥ) [parameśāni](parameśāni) [pacyate](pacyate) [narake](narake) [dhruvam](dhruvam)
+he beast supreme-goddess cooked in-hell certainly
 
 ## mukta-m0-p23-v554
-[kadācit](kadāccinnaiva) [na](na) [eva](eva) [kartavyaḥ](kartavyaḥ) [śūdrasya](śūdrasya) [veda-pāṭha-vat](vedapāṭhavat)
+never-not-to-be-done [variant to-be-spoken] of-shudra Veda-recitation-like
 
 ## mukta-m0-p23-v555
-[aṣṭādaśa-ullasaḥ](aṣṭādaśollasaḥ)
+eighteen-shining
 
 ## mukta-m0-p23-v556
-[jñāpitam](jñāpitaṃ) [parama-ānanda](paramānanda) [mama](mama) [sthāne](sthāne) [prakāśaya](prakāśaya)
+taught supreme-bliss my place reveal
 
 ## mukta-m0-p23-v557
-[tat-pānam](tatpānaṃ) [tri-vidham](trividhaṃ) [proktam](proktaṃ) [divya-vīra-paśu-kramāt](divya-vīra-paśu-kramāt)
+that-drinking threefold said divine-hero-beast-order
 
 ## mukta-m0-p23-v558
-[sva-icchayā](svecchayāpi) [api](api) [paśoḥ](paśoḥ) [pānam](pānam) [iti](iti) [pānam](pānam) [udāhṛtam](udāhṛtam)
+by-own-will-even beast's drinking thus drinking-called
 
 ## mukta-m0-p23-v559
-[paśu-pānam](paśupānaṃ) [naraka-dam](narakadam) [iti](iti) [pāna-phalam](pānaphalaṃ) [śṛṇu](śṛṇu)
+beast-drinking hell-giving thus drinking-fruit hear
 
 ## mukta-m0-p23-v560
-[paśu-pānam](paśupānam) [a-kartavyam](akartavyaṃ) [śakti-bhaktyā](śaktibhaktyā) [āśritaḥ](āśritaḥ) [pivet](pivet)
+beast-drinking-not-to-be-done Shakti-devotion-refuge drinks
 
 ## mukta-m0-p23-v561
-[kena](kena) [rūpeṇa](rūpeṇa) [vā](vā) [deva](deva) [devy-agre](devyagre) [pāna-bhāg](pānabhāg) [naraḥ](naraḥ)
+by-what form or god goddess-before drinking-share man
 
 ## mukta-m0-p23-v562
-[sā](sā) [sva-icchā](svecchā) [dvi-vidhā](dvividhā) [jñeyā](jñeyā) [ajñāni-jñāni-vibhedataḥ](ajñānijñānivibhedataḥ)
+that own-will twofold known ignorant-wise-distinction
 
 ## mukta-m0-p23-v563
-[cakram](cakraṃ) [kṛtvā](kṛtvā) [piven](piven) [madyam](madyaṃ) [cakram](cakraṃ) [hi](hi) [śakti-saṃyutam](śaktisaṃyutam)
+circle having-made drink-wine circle indeed Shakti-united
 
 ## mukta-m0-p23-v564
-[phalam](phalaṃ) [kim](kiṃ) [prāṇa-nātha-īśa](prāṇanātheśa) [kathaya](kathaya) [siddhi-hetave](siddhihetave)
+fruit what life-lord tell [variant speak] accomplishment-cause
 
 ## mukta-m0-p23-v565
-[ṣaṭ-karmaṇaḥ](ṣaṭkarmaṇo) [api](api) [sādhanam](sādhanam)
+variant six-rites-of and accomplishment; variant six-rites'-also accomplishment
 
 ## mukta-m0-p23-v566
-[bhogena](bhogena) [labhate](labhate) [muktim](muktiṃ) [siddhim](siddhiṃ) [śrī-cakra-sevanāt](śrīcakrasevanāt)
+by-enjoyment obtains liberation accomplishment Sri-circle-service
 
 ## mukta-m0-p23-v567
-[eka-vāra-japena](ekavārajapena) [eva](eva) [lakṣa-vāra-phalam](lakṣavāraphalaṃ) [labhet](labhet)
+one-time-chanting-only hundred-thousand-time-fruit obtains
 
 ## mukta-m0-p23-v568
-[cakram](cakrañca) [ca](ca) [dvi-vidham](dvividhaṃ) [proktam](proktaṃ) [divya-vīra-matam](divya-vīra-mataṃ) [śive](śive)
+circle-and twofold said divine-hero-opinion O-Shiva
 
 ## mukta-m0-p23-v569
-[divya-cakram](divyacakram) [idam](idaṃ) [proktam](proktaṃ) [vīra-cakram](vīracakraṃ) [tataḥ](tataḥ) [śṛṇu](śṛṇu)
+divine-circle-this said hero-circle then hear
 
 ## mukta-m0-p23-v570
-[ata](ata) [eva](eva) [maheśāni](maheśāni) [śakti-yuktam](śaktiyuktaṃ) [piven](piven) [madhu](madhu)
+therefore indeed great-goddess Shakti-united [variant Shakti-united] drink-honey
 
 ## mukta-m0-p23-v571
-[vīra-cakram](vīracakraṃ) [ramet](ramet) [śaktim](śaktiṃ) [gandha-puṣpa-ādinā](gandhapuṣpādinā) [api](api) [vā](vā)
+hero-circle enjoy [variant worship] Shakti incense-flowers-etc-or
 
 ## mukta-m0-p23-v572
-[divya-cakram](divyacakram) [idam](idaṃ) [proktam](proktaṃ) [vīra-cakram](vīracakraṃ) [tataḥ](tataḥ) [śṛṇu](śṛṇu)
+divine-circle-this said hero-circle then [variant this] hear
 
 ## mukta-m0-p23-v573
-[bhogaḥ](bhogaśca) [ca](ca) [mokṣaḥ](mokṣaśca) [ca](ca) [kara-sthaḥ](karastha) [eva](eva)
+enjoyment-and liberation-and hand-placed indeed
 
 ## mukta-m0-p23-v574
-[bhogena](bhogena) [madyena](madyena) [kara-stha-muktiḥ](karasthamuktiḥ)
+by-enjoyment by-wine hand-placed-liberation
 
 ## mukta-m0-p23-v575
-[tadā](tadā) [cakre](cakre) [maheśāni](maheśāni) [piven](piven) [madyam](madyaṃ) [ramet](ramet) [striyam](striyam)
+then [variant when] in-circle great-goddess drink-wine enjoy woman

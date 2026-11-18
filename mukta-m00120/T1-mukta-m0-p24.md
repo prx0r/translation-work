@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p24-v576
-[in-the-śrī-cakra](śrīcakre)+[also](api) [let-one-drink](piven)+[wine](madyaṃ) [endowed-with-śakti](śaktiyuktaṃ) [O-maheśvarī](maheśvari)
+[in-śrīcakra-also](śrīcakre'pi) [drink-wine](pivenmadyaṃ) [śakti-united](śaktiyuktaṃ) [O-maheśvarī](maheśvari)
 
 ## mukta-m0-p24-v577
-[best](uttamaṃ)+[middle](madhyamaṃ)+[least](adhamaṃ)+[least-of-least](adhama-adhamam) [to-be-known](jñeyaṃ)
+[best](cottamaṃ) [middle](madhyamaṃ) [to-be-known](jñeyaṃ) [and-lowest-and-lowest-of-low](cādhamañcādhamādhamam)
 
 ## mukta-m0-p24-v578
-[this-cakra](cakram)+[this](idam) [to-be-known](jñeyaṃ) [she-is-kālī](sā-kālī) [he-is-śaṅkara](sa-ca-śaṅkaraḥ)
+[this-cakra](cakromamidaṃ) [to-be-known](jñeyaṃ) [she-Kālī](sā+kālī) [he-Śaṅkara](sa+ca+śaṅkaraḥ)
 
 ## mukta-m0-p24-v579
-[one-śakti](ekāṃ-śaktiṃ) [having-brought-together](samānīya) [each-sādhaka](ekaikaḥ-sādhakaḥ) [always](sadā)
+[one-śakti](ekāṃ+śaktiṃ) [having-brought](samānīya) [each](ekaikaḥ) [sādhaka](sādhakaḥ) [always](sadā)
 
 ## mukta-m0-p24-v580
 [bhairavī](bhairavī)
 
 ## mukta-m0-p24-v581
-[least-cakra](adhamaṃ-cakraṃ) [to-be-known](vijñeyaṃ) [she-is-sādhyā](sā-sādhyā) [he-is-sādhaka](sa-ca-sādhakaḥ)
+[lowest](adhamaṃ) [cakra](cakra) [to-be-known](vijñeyaṃ) [she-sādhyā](sā+sādhyā) [he-sādhaka](sa+ca+sādhakaḥ)
 
 ## mukta-m0-p24-v582
-[devoid-of-śakti](śakti-hīnaṃ)+[and](ca) [which-cakra](yat-cakraṃ) [mere-intoxicant](kevalaṃ-madakaṃ) [O-śive](śive)
+[śakti-less](śaktihīnañca) [which-cakra](yat+cakraṃ) [mere](kevalaṃ) [intoxicating](madakaṃ) [O-Śive](śive)
 
 ## mukta-m0-p24-v583
-[in-the-middle](madhyame) [nine-śaktis](nava-śaktiṃ)+[ca](ca) [in-the-deficient](hīne)+[api](api) [mere-śakti](śakti-mātrakam)
+[in-middle](madhyame) [nine-śaktis](navaśaktiñca) [in-deficient](hīne'pi) [śakti-only](śaktimātrakam)
 
 ## mukta-m0-p24-v584
-[in-that-cakra](tasmin-cakre) [sādhaka](sādhakaḥ)+[api](api) [ever](kadācit)+[na](na) [let-one-enter](praveśayet)
+[in-that-cakra](tasmin+cakre) [sādhaka](sādhako'pi) [ever](kadācinna) [enter](praveśayet)
 
 ## mukta-m0-p24-v585
-[in-śrī-cakra](śrīcakre) [sexual-union](maithunaṃ) [auspicious](bhadraṃ) [sādhaka-becomes-śiva](śivatvaṃ-yāti-sādhakaḥ)
+[in-śrīcakra](śrīcakre) [sexual-union](maithunaṃ) [auspicious](bhadraṃ) [śiva-state](śivatvaṃ) [attains](yāti) [sādhaka](sādhakaḥ)
 
 ## mukta-m0-p24-v586
-[vīra-cakra](vīracakraṃ)+[this](idam) [declared](proktaṃ) [deva-cakra](devacakraṃ) [then](tataḥ) [hear](śṛṇu)
+[vīra-cakra](vīracakramidaṃ) [declared](proktaṃ) [deva-cakra](devacakraṃ) [then](tataḥ) [hear](śṛṇu)
 
 ## mukta-m0-p24-v587
-[creation-form](sṛṣṭi-rūpaṃ) [great-cakra](mahācakraṃ) [śrī-cakra](śrīcakraṃ) [O-paramēśvarī](parameśvari)
+[creation-form](sṛṣṭirūpaṃ) [great-cakra](mahācakraṃ) [śrīcakra](śrīcakraṃ) [O-supreme-goddess](parameśvari)
 
 ## mukta-m0-p24-v588
-[thus](iti) [śrī-sarvānandanātha-composed](śrī-sarvānandanātha-viracite) [sarvollāsa](sarvollāse) [twenty-first-ullāsa](unviṃśatyullāsaḥ)
+[thus](iti) [śrī-sarvānandanātha-composed](śrīsarvānandanāthaviracite) [sarvollāsa](sarvollāse) [twenty-first-ullāsa](unviṃśatyullāsaḥ)
 
 ## mukta-m0-p24-v589
-[there](tatra) [in-place](sthāne) [let-one-practice-cakra](carec-cakraṃ) [where](yatra) [there-is](syād) [deity-house](devatā-gṛha)
+[there](tatra) [place](sthāne) [perform-cakra](careccakraṃ) [where](yatra) [be](syād) [deity-house](devatāgṛha)
 
 ## mukta-m0-p24-v590
-[at-deity-trees-roots](devatā-vṛkṣa-mūleṣu) [place](sthānaṃ) [let-one-make](kuryāt) [with-effort](prayatnataḥ)
+[deity-trees](devatāvṛkṣamūleṣu) [place](sthānaṃ) [make](kuryāt) [carefully](prayatnataḥ)
 
 ## mukta-m0-p24-v591
-[of-sādhaka](sādhakasya) [house](gṛhaṃ) [O-bhadre](bhadre) [śrī-cakra-place](śrīcakra-sthānam) [best](uttamam)
+[of-sādhaka](sādhakasya) [house](gṛhaṃ) [O-bhadre](bhadre) [śrīcakra-place](śrīcakrasthānam) [best](uttamam)
 
 ## mukta-m0-p24-v592
-[or](athavā) [whose](yasya) [which-place](yat-sthānaṃ) [by-his-command](tasya-ājñayā) [let-one-arrange](prakalpayet)
+[or](athavā) [whose](yasya) [which-place](yatsthānaṃ) [by-his-command](tasyājñayā) [arrange](prakalpayet)
 
 ## mukta-m0-p24-v593
-[of-that-distress](tad-udvegasya) [which-sin](yat-pāpaṃ) [that-sin](tat-pāpaṃ) [there](tatra) [goes](gacchati)
+[that-distress](tadudvegasya) [which-sin](yatpāpaṃ) [that-sin](tatpāpaṃ) [there](tatra) [goes](gacchati)
 
 ## mukta-m0-p24-v594
-[greater-than-śavāsana](śavāsana-adhikaṃ) [to-be-known](jñeyaṃ) [entering-lata-house](latā-gṛha-praveśanam)
+[śava-āsana](śavāsanādhikaṃ) [to-be-known](jñeyaṃ) [creeper-house-entry](latāgehapraveśanam)
 
 ## mukta-m0-p24-v595
-[in-absence-of-yoni](yoni-abhāve) [O-maheśāni](maheśāni) [triangle](trikoṇaṃ)+[ca](ca) [seat](āsanaṃ) [auspicious](śubham)
+[in-absence-of-yoni](yonyabhāve) [O-maheśāni](maheśāni) [triangle](trikoṇañcāsanaṃ) [auspicious](śubham)
 
 ## mukta-m0-p24-v596
-[in-absence-of-corpse](śava-abhāve) [seat](viṣṭaraṃ) [hi](hi) [vīrāsana](vīrāsanaṃ) [declared](udīritam)
+[in-absence-of-corpse](śavābhāve) [seat](viṣṭaraṃ) [indeed](hi) [vīra-āsana](vīrāsanamudīritam)
 
 ## mukta-m0-p24-v597
-[one-corpse-seat](śava-eka-āsanaṃ) [O-bhadre](bhadre) [seat](viṣṭaraṃ) [pair-seat](yugma-āsanam)
+[one-corpse](śavaikamāsanaṃ) [O-bhadre](bhadre) [seat](viṣṭaraṃ) [pair-seat](yugmamāsanam)
 
 ## mukta-m0-p24-v598
-[other-seat](anya-āsanaṃ) [four-cornered](catuṣkoṇaṃ) [triangle](trikoṇaṃ) [arranged](parikalpitam)
+[other-seat](anyāsanaṃ) [square](catuṣkoṇaṃ) [triangle](trikoṇaṃ) [arranged](parikalpitam)
 
 ## mukta-m0-p24-v599
-[on-black-antelope-skin](kṛṣṇājine) [knowledge-siddhi](jñāna-siddhiḥ) [and-liberation](mokṣaṃ)+[ca](ca) [on-tiger-skin](vyāghra-carmaṇi)
+[on-black-antelope-skin](kṛṣṇājine) [knowledge-siddhi](jñānasiddhirmokṣañca) [and-liberation](vyāghracarmaṇi)
 
 ## mukta-m0-p24-v600
-[this-other-than](etad-bhinnaṃ)+[ca](ca) [seat](āsanaṃ) [hi](hi) [variegated](citra-citra-ādi) [joined](saṃyutam)
+[this-other](etadbhinnañcāsanaṃ) [indeed](hi) [variegated](citrācitrādi) [joined](saṃyutam)
