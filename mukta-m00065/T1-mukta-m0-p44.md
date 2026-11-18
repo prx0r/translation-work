@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p44-v1076
-[rakṣaḥ-dvitaya-kumbhīra](rakṣodvitayakumbhīra) [sarpa-cakra-āsyakaṃ](sarpacakrāsyakaṃ) [ca](ca) [bham](bham)
+[demon](rakṣo)+[pair](dvitaya)+[crocodile](kumbhīra) [serpent](sarpa)+[wheel](cakra)+[mouthed](āsyakaṃ) [and](ca) [asterism](bham)
 
 ## mukta-m0-p44-v1077
-[aśvinau](aśvinau) [ca](ca) [yamaḥ](yamaḥ) [vahniḥ](vahniḥ) [prajā-indra-indu-haraḥ](prajendrenduharo) [aditiḥ](aditiḥ)
+[two-aśvins](aśvinau) [and](ca) [yama](yamo) [fire-god](vahniḥ) [prajāpati](praj)+[indra](endr)+[moon](endu)+[śiva](haro)+[aditi]('ditiḥ)
 
 ## mukta-m0-p44-v1078
-[tvaṣṭā](tvaṣṭā) [vāyuḥ](vāyuḥ) [surendraḥ](surendro) [agniḥ](agnir) [mitra-indrau](mitrendrau) [yāvat](yāvat) [pām-patiḥ](pāmpatiḥ)
+[tvaṣṭṛ](tvaṣṭā) [wind-god](vāyuḥ) [lord-of-gods](surendro)+[fire-god]('gnir) [mitra](mitr)+[indra](endrau) [lord-of-demons](yāvatpāmpatiḥ)
 
 ## mukta-m0-p44-v1079
-[viṣṇuḥ](viṣṇur) [vasuḥ](vasur) [aja-eka-ādi-pāda-hirbudhna](ajaikādipādahirbudhna) [pūṣakāḥ](pūṣakāḥ)
+[viṣṇu](viṣṇur) [vasu](vasur) [aja](aja)+[one-footed](ikādipād) [ahirbudhnya](ahirbudhna) [pūṣans](pūṣakāḥ)
 
 ## mukta-m0-p44-v1080
-[pumān](pumān) [gadī](gadī) [savīṇā](savīṇā) [ca](ca) [yoṣit](yoṣitta) [mithunaṃ](mithunaṃ) [dhanuḥ](dhanuḥ)
+[man](pumān) [mace-bearer](gadī) [with](sa)+[lute](vīṇā) [and](ca) [woman](yoṣitta) [pair](nmithunaṃ) [bow](dhanuḥ)
 
 ## mukta-m0-p44-v1081
-[strī](strī) [nauḥ](naustholkāsibhṛtkanyā) [tulā-dhāraḥ](tulādhāro) [naraḥ](narastulā) [tulā](tulā)
+[woman](strī) [boat](naus) [torch](stholkā)+[sword](si)+[bearing](bhṛt)+[maiden](kanyā) [scale](tulā)+[holder](dhāro) [man](naras)+[scale](tulā)
 
 ## mukta-m0-p44-v1082
-[meṣa-ādyāḥ](meṣādyāḥ) [pañca](pañca) [ca](ca) [eva](caivānye) [anya](anya) [sva-nāma-tulya-rūpakāḥ](svanāmatulyarūpakāḥ)
+[aries](meṣā)+[beginning-with](dyāḥ) [five](pañca) [and](cai)+[indeed](vā)+[others](nye) [own](sva)+[name](nāma)+[similar](tulya)+[forms](rūpakāḥ)
 
 ## mukta-m0-p44-v1083
-[hema-ābhaḥ](hemābhaḥ) [sa-kirīṭaḥ](sakirīṭaśca) [devarājaḥ](devarājaḥ) [surāvṛtaḥ](surāvṛtaḥ)
+[golden](hemā)+[hued](bhaḥ) [with](sa)+[diadem](kirīṭaś)+[and](ca) [god](deva)+[king](rājaḥ) [gods](surā)+[surrounded-by](vṛtaḥ)
 
 ## mukta-m0-p44-v1084
-[chāga-sthaḥ](chāgasthaḥ) [sākṣa-sūtra-ugraḥ](sākṣasūtrograḥ) [sapta-arcis](saptārciḥ) [śakti-dhārakaḥ](śaktidhārakaḥ)
+[goat](chāga)+[mounted](sthaḥ) [with](sā)+[rosary](kṣasūtro)+[fierce](graḥ) [seven](saptā)+[flamed](rciḥ) [spear](śakti)+[bearer](dhārakaḥ)
 
 ## mukta-m0-p44-v1085
-[rakta-hṛt-pāśa-bhṛt-kṛṣṇaḥ](raktahṛkpāśabhṛtkṛṣṇo) [mahiṣa-sthaḥ](mahiṣasthogradūtavān) [ugra-dūtavān](ugradūtavān)
+[red](rakta)+[heart](hṛk)+[noose](pāśa)+[bearing](bhṛt)+[dark](kṛṣṇo) [buffalo](mahiṣa)+[standing](stho)+[fierce](gra)+[messenger](dūtavān)
 
 ## mukta-m0-p44-v1086
-[puṃ-sthita](puṃsthita) [khaḍga-hastaḥ](khaḍgahastaśca) [ca](ca) [nīla-ābhaḥ](nīlābho) [rākṣasa-āvṛtaḥ](rākṣasāvṛtaḥ)
+[man](puṃ)+[standing](sthita) [sword](khaḍga)+[in-hand](hastaś)+[and](ca) [blue](nīlā)+[hued](bho) [demons](rākṣasā)+[surrounded-by](vṛtaḥ)
 
 ## mukta-m0-p44-v1087
-[sarva-ābharaṇa-saṃyuktaḥ](sarvābharaṇasaṃyukto) [varūṇaḥ](varūṇaḥ) [pīta-vastra-bhṛt](pītavastrabhṛt)
+[all](sarvā)+[ornaments](bharaṇa)+[adorned](saṃyukto) [varuṇa](varūṇaḥ) [yellow](pīta)+[garment](vastra)+[wearing](bhṛt)
 
 ## mukta-m0-p44-v1088
-[rakta-akṣaḥ](raktakṣo) [rakta-vāsaḥ](raktavāsaśca) [ca](ca) [mṛga-sthaḥ](mṛgasthaścaṅkuśī) [aṅkuśī](aṅkuśī) [dhvajī](dhvajī)
+[red](raktā)+[eyed](kṣo) [red](rakta)+[clad](vāsaś)+[and](ca) [deer](mṛga)+[mounted](sthaś)+[and](ca)+[goad-holder](ṅkuśī) [banner-holder](dhvajī)
 
 ## mukta-m0-p44-v1089
-[dhaneśaḥ](dhaneśo) [varadaḥ](varadaḥ) [kāryaḥ](kāryo) [nānā-ābharaṇa-maṇḍitaḥ](nānābharaṇamaṇḍitaḥ)
+[wealth](dhan)+[lord](eśo) [boon](vara)+[giver](daḥ) [to-be-made](kāryo) [various](nānā)+[ornaments](bharaṇa)+[adorned](maṇḍitaḥ)
 
 ## mukta-m0-p44-v1090
-[īśānaḥ](īśāno) [ahi-indu-bhṛt](ahīndubhṛccaite) [ca](ca) [ete](ete) [lokapālāḥ](lokapālā) [dvi-bāhavaḥ](dvibāhavaḥ)
+[īśāna](īśāno)+[snake]('hī)+[moon](ndu)+[bearing](bhṛc)+[and](cai)+[these](te) [world](loka)+[guardians](pālā) [two](dvi)+[armed](bāhavaḥ)
 
 ## mukta-m0-p44-v1091
-[viśvakarmā](viśvakarmā) [sadā](sadā) [gauraḥ](gauro) [jñāna-mudrā-akṣa-sūtra-bhṛt](jñānamudrākṣasūtrabhṛt)
+[viśvakarman](viśvakarmā) [always](sadā) [white](gauro) [knowledge](jñāna)+[gesture](mudrā)+[rosary](kṣasūtra)+[bearing](bhṛt)
 
 ## mukta-m0-p44-v1092
-[ālīḍha-karaṇa-āsaktaṃ](ālīḍhakaraṇāsaktaṃ) [mahā-kāyaṃ](mahākāyaṃ) [su-bhīṣaṇam](subhīṣaṇam)
+[ālīḍha](ālīḍha)+[posture](karaṇā)+[engaged](saktaṃ) [great](mahā)+[bodied](kāyaṃ) [very](su)+[terrifying](bhīṣaṇam)
 
 ## mukta-m0-p44-v1093
-[pīta-dhvaja-dharaṃ](pītadhvajadharaṃ) [vāme](vāme) [tarjanīṃ](tarjanīṃ) [vā](vā) [hṛt-agrataḥ](hṛdagrataḥ)
+[yellow](pīta)+[banner](dhvaja)+[holding](dharaṃ) [in-left](vāme) [forefinger](tarjanīṃ) [or](vā) [heart](hṛd)+[in-front](agrataḥ)
 
 ## mukta-m0-p44-v1094
-[saṃpīḍya](saṃpīḍya) [rākasān](rākasān) [padbhyāṃ](padbhyāṃ) [muñcan](muñcannādaṃ) [nādaṃ](nādaṃ) [marut-sutam](marutsutam)
+[having-crushed](saṃpīḍya) [demons](rākasān) [with-feet](padbhyāṃ) [emitting](muñcann)+[sound](ādaṃ)+[wind-god](marut)+[son](sutam)
 
 ## mukta-m0-p44-v1095
-[skandha-yakṣa-anvitāḥ](skandhayakṣānvitā) [nityaṃ](nityaṃ) [kartavyāḥ](kartavyā) [yoṣit-anvitāḥ](yoṣidanvitāḥ)
+[skanda](skandha)+[yakṣas](yakṣā)+[accompanied-by](nvitā) [always](nityaṃ) [to-be-made](kartavyā) [women](yoṣid)+[accompanied-by](anvitāḥ)
 
 ## mukta-m0-p44-v1096
-[mālā-bhṛtaḥ](mālābhṛto) [athavā](athavā) [hṛṣṭāḥ](hṛṣṭāḥ) [kha-sthāḥ](khasthā) [vidyādharāḥ](vidyādharāḥ) [sadā](sadā)
+[garland](mālā)+[bearers](bhṛto)+[or]('thavā) [joyful](hṛṣṭāḥ) [sky](kha)+[dwelling](sthā) [vidyādharas](vidyādharāḥ) [always](sadā)
 
 ## mukta-m0-p44-v1097
-[piṅga-varvara-keśa-aśva](piṅgavarvara) [vetālāḥ](vetālā) [vikṛta-ānanāḥ](vikṛtānanāḥ)
+[tawny](piṅga)+[woolly](varvara)+[haired](keśāś)+[and](va) [vetālas](vetālā) [deformed](vikṛtā)+[faced](nanāḥ)
 
 ## mukta-m0-p44-v1098
-[kapāla-mālinaḥ](kapālamālinaḥ) [śūla-dhāriṇaḥ](śūladhārīṇaḥ) [kṣetra-pālakāḥ](kṣetrapālakāḥ)
+[skull](kapāla)+[garlanded](mālinaḥ) [trident](śūla)+[holders](dhārīṇaḥ) [field](kṣetra)+[guardians](pālakāḥ)
 
 ## mukta-m0-p44-v1099
-[kṛśāḥ](kṛśā) [mahā-udarāḥ](mahodarāḥ) [pretāḥ](pretā) [khalu-gallāḥ](khalvagallāśca) [ca](ca) [lomaśāḥ](lomaśāḥ)
+[emaciated](kṛśā) [big](maho)+[bellied](darāḥ) [pretas](pretā) [bald](khalva)+[cheeked](gallāś)+[and](ca) [hairy](lomaśāḥ)
 
 ## mukta-m0-p44-v1100
-[sva-aṅga-varṇa-dharāḥ](svāṅgavarṇadharāḥ) [sarvāḥ](sarvā) [yathā-uktaṃ](yathoktaṃ) [brahma-yāmale](brahmayāmale)
+[own](svā)+[body](ṅga)+[color](varṇa)+[bearing](dharāḥ) [all](sarvā) [as](yathā)+[stated](uktaṃ) [in-brahmayāmala](brahmayāmale)
