@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p69-v1701
-[twelve-end-one-abode](dvādaśa+anta+eka+vasatiḥ) [twelve-self](dvādaśa+ātmā) [day-lord](divas+patiḥ)
+[twelve-end-one-abode](dvādaśāntaikavasatiḥ) [twelve-self](dvādaśātmā) [day-lord](divaspatiḥ)
 
 ## mukta-m0-p69-v1702
-[hard-to-meditate](dur+dhyeyaḥ) [wicked-lineage-destroyer](duṣṭa+vaṃśa+ghnaḥ) [compassion-lord](dayā+nāthaḥ) [compassion-abode](dayā+ākulaḥ)
+[hard-to-meditate](durdhyeyaḥ) [wicked-lineage-destroyer](duṣṭavaṃśaghnaḥ) [compassion-lord](dayānāthaḥ) [compassion-abode](dayākulaḥ)
 
 ## mukta-m0-p69-v1703
-[dharma-friend](dharma+bandhuḥ) [dharma-treasure](dharma+nidhiḥ) [dharma-king](dharma+rājaḥ) [wealth-giver](dhana+pradaḥ)
+[dharma-friend](dharmabandhuḥ) [dharma-treasure](dharmanidhiḥ) [dharma-king](dharmarājaḥ) [wealth-giver](dhanapradaḥ)
 
 ## mukta-m0-p69-v1704
-[three-matted-knower-abode](dhūrjaṭi+īkṣaṇa+vāsī) [dharma-field](dharma+kṣetraḥ) [earth-lord](dharā+adhipaḥ)
+[with-matted-hair-eye-dweller](dhūrjaṭīkṣaṇavāsī) [dharma-field](dharmakṣetraḥ) [earth-lord](dharādhipaḥ)
 
 ## mukta-m0-p69-v1705
-[earth-bearer](dharā+bhṛt) [beloved](vallabhaḥ) [righteous](dharmī) [dha-letter-ornament](dhakāra+akṣara+bhūṣaṇaḥ)
+[earth-bearer](dharābhṛt) [beloved](vallabhaḥ) [righteous](dharmī) [dha-letter-ornament](dhakārākṣarabhūṣaṇaḥ)
 
 ## mukta-m0-p69-v1706
-[lotus-beloved](nalinī+vallabhaḥ) [bowed](nunnaḥ) [dance-maker](nāṭya+kṛt) [dance-increaser](nāṭya+vardhanaḥ)
+[lotus-beloved](nalinīvallabhaḥ) [bowed](nunnaḥ) [dance-maker](nāṭyakṛt) [dance-increaser](nāṭyavardhanaḥ)
 
 ## mukta-m0-p69-v1707
-[bowing](namantaḥ) [enemy-bender](namita+arātiḥ) [nara-narayana-refuge](nara+nārāyaṇa+āśrayaḥ)
+[bowing](namantaḥ) [enemy-bower](namitārātiḥ) [nara-narayana-refuge](naranārāyaṇāśrayaḥ)
 
 ## mukta-m0-p69-v1708
-[sound-form](nāda+rūpaḥ) [sound-lover](nāda+priyaḥ) [sound-filled](nāda+mayaḥ) [sound-bindu-form](nāda+bindu+svarūpakaḥ)
+[sound-form](nādarūpaḥ) [sound-filled](nādamayaḥ) [sound-bindu-form](nādabindusvarūpakaḥ)
 
 ## mukta-m0-p69-v1709
-[heaven-dweller](nāka+sthitaḥ) [many-bodied](aneka+vapuḥ) [na-letter-mother](nakāra+akṣara+mātṛkā)
+[heaven-dweller](nākasthitaḥ) [many-formed](anekavapuḥ) [na-letter-mother](nakārākṣaramātṛkaḥ)
 
 ## mukta-m0-p69-v1710
-[love-beloved](prīti+priyaḥ) [love-maker](prema+karaḥ) [surrendered-suffering-fear-remover](praṇata+ārti+bhaya+apahaḥ)
+[love-dear](prītipriyaḥ) [love-maker](premakaraḥ) [surrendered-suffering-fear-remover](praṇatārtibhayāpahaḥ)
 
 ## mukta-m0-p69-v1711
-[full-bliss-filled](pūrṇa+ānanda+mayaḥ) [full-radiance](pūrṇa+tejāḥ) [full-lady-lord](pūrṇa+īśvarī+īśvaraḥ)
+[full-bliss-filled](pūrṇānandamayaḥ) [full-radiance](pūrṇatejāḥ) [full-lord-of-lords](pūrṇeśvarīśvaraḥ)
 
 ## mukta-m0-p69-v1712
-[supreme-body](parama+īśa+vapuḥ) [tall](prāṃśuḥ) [intoxicated](pramattaḥ) [surrendered-desired-giver](praṇata+iṣṭa+daḥ)
+[supreme-body](parameśavapuḥ) [tall](prāṃśuḥ) [intoxicated](pramattaḥ) [surrendered-desired-giver](praṇateṣṭadaḥ)
 
 ## mukta-m0-p69-v1713
-[cooker](pācanaḥ) [sticky](piculaḥ) [burnt](pluṣṭaḥ) [women-happiness-giver](pramadā+jana+saukhya+daḥ)
+[cooker](pācanaḥ) [sticky](piculaḥ) [burnt](pluṣṭaḥ) [women-happiness-giver](pramadājanasaukhyadaḥ)
 
 ## mukta-m0-p69-v1714
-[fruit-of-enjoyment-liberation](phalaṃ+bhoga+apavargasya) [fruitful-lord](phalinī+īśaḥ) [fruit-natured](phala+ātmakaḥ)
+[fruit-of-enjoyment-liberation](phalaṃ+ bhogāpavargasya) [fruit-tree-lord](phalinīśaḥ) [fruit-natured](phalātmakaḥ)
 
 ## mukta-m0-p69-v1715
-[child](bālaḥ) [strength-lover](bala+priyaḥ) [emitted](bāntaḥ) [cave-darkness-remover](bila+dhvānta+haraḥ) [strong](balī)
+[child](bālaḥ) [strength-dear](balapriyaḥ) [emitted](bāntaḥ) [cave-darkness-remover](biladhvāntaharaḥ) [strong](balī)
 
 ## mukta-m0-p69-v1716
-[wise](budhaḥ) [jupiter](bṛhaspatiḥ) [tree](vṛkṣaḥ) [great-horse](bṛhat+aśvaḥ) [great-path](bṛhat+gatiḥ)
+[wise](budhaḥ) [jupiter](bṛhaspatiḥ) [tree](vṛkṣaḥ) [great-horse](bṛhadaśvaḥ) [great-course](bṛhadgatiḥ)
 
 ## mukta-m0-p69-v1717
-[bhaga](bhagaḥ) [bhṛgu](bhṛguḥ) [bhṛgu-abiding](bhṛgu+sthāyī) [bhārgava](bhārgavaḥ) [poet-chief](kavi+śekharaḥ)
+[bhaga](bhagaḥ) [bhṛgu](bhṛguḥ) [bhṛgu-dweller](bhṛgusthāyī) [bhārgava](bhārgavaḥ) [poet-chief](kaviśekharaḥ)
 
 ## mukta-m0-p69-v1718
-[great-time](mahā+kālaḥ) [great-superintendent](mahā+adhyakṣaḥ) [great-sound](mahā+nādaḥ) [great-mind](mahā+matiḥ)
+[great-time](mahākālaḥ) [great-superintendent](mahādhyakṣaḥ) [great-sound](mahānādaḥ) [great-mind](mahāmatiḥ)
 
 ## mukta-m0-p69-v1719
-[honor-giver](māna+daḥ) [wrestler-slayer](malla+hā) [wrestler](mallaḥ) [meru-mandara-abode](meru+mandara+mandiraḥ)
+[honor-giver](mānadaḥ) [wrestler-slayer](mallahā) [wrestler](mallaḥ) [meru-mandara-abode](merumandaramandiraḥ)
 
 ## mukta-m0-p69-v1720
-[delighted](moditaḥ) [wine-food](madirā+āhāraḥ) [sun](mārtaṇḍaḥ) [shaved-head](muṇḍa+muṇḍitaḥ)
+[delighted](moditaḥ) [wine-consumer](madirāhāraḥ) [sun](mārtaṇḍaḥ) [shaved-head](muṇḍamuṇḍitaḥ)
 
 ## mukta-m0-p69-v1721
-[delicate](madālasaḥ) [god-praised](amara+stutyaḥ) [murari-boon-giver](murāri+vara+daḥ) [manu](manuḥ)
+[delicate](madālasaḥ) [god-praised](amarastutyaḥ) [murari-boon-giver](murārivaradaḥ) [manu](manuḥ)
 
 ## mukta-m0-p69-v1722
-[garlanded](mālyavān) [medhana](medhanaḥ) [kama](māraḥ) [wise](medhāvī) [mace-armed](musala+āyudhaḥ)
+[garlanded](mālyavān) [medhana](medhanaḥ) [kama](māraḥ) [wise](medhāvī) [mace-armed](musalāyudhaḥ)
 
 ## mukta-m0-p69-v1723
-[cupid](madanaḥ) [sweet-food](modaka+āhāraḥ) [ma-letter-mother](makāra+akṣara+mātṛkā)
+[cupid](madanaḥ) [sweet-food-eater](modakāhāraḥ) [ma-letter-mother](makārākṣaramātṛkaḥ)
 
 ## mukta-m0-p69-v1724
-[pilgrim](yātrikaḥ) [sacrifice-fruit-giver](yajña+phala+daḥ) [goer](yāyī) [yamala-leader](yāmala+nāyakaḥ)
+[pilgrim](yātrikaḥ) [sacrifice-fruit-giver](yajñaphaladaḥ) [goer](yāyī) [yamala-leader](yāmalanāyakaḥ)
 
 ## mukta-m0-p69-v1725
-[staff-holder](yaṣṭi+dhārī) [machine-lord](yantra+īśaḥ) [yoni-circle-middle-goer](yoni+maṇḍala+madhya+gaḥ)
+[staff-holder](yaṣṭidhārī) [machine-lord](yantreśaḥ) [yonimandala-middle-dweller](yonimaṇḍalamadhyagaḥ)
