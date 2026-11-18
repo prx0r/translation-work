@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p125-v3101
-[salutation](anukāriṇenamaḥ) [salutation](subāndhavāyanamaḥ) [salutation](tumbavīṇāyanamaḥ)
+[salutation-to-anukārin](anukāriṇenamaḥ) [salutation-to-subāndhava](subāndhavāyanamaḥ) [salutation-to-tumbavīṇā](tumbavīṇāyanamaḥ)
 
 ## mukta-m0-p125-v3102
-[salutation](mahākrodhāyanamaḥ) [salutation](ūrddhvaretasenamaḥ)
+[salutation-to-mahākrodha](mahākrodhāyanamaḥ) [salutation-to-ūrddhvaretas](ūrddhvaretasenamaḥ)
 
 ## mukta-m0-p125-v3103
-[salutation](jaleśāyanamaḥ) [salutation](ugrāyanamaḥ) [salutation](vaṃśakarāyanamaḥ)
+[salutation-to-jaleśa](jaleśāyanamaḥ) [salutation-to-ugra](ugrāyanamaḥ) [salutation-to-vaṃśakara](vaṃśakarāyanamaḥ)
 
 ## mukta-m0-p125-v3104
-[salutation](vaṃśāyanamaḥ) [salutation](vaṃśanādāyanamaḥ) [salutation](aninditāyanamaḥ)
+[salutation-to-vaṃśa](vaṃśāyanamaḥ) [salutation-to-vaṃśanāda](vaṃśanādāyanamaḥ) [salutation-to-anindita](aninditāyanamaḥ)
 
 ## mukta-m0-p125-v3105
-[salutation](sarvāṅgarūpāyanamaḥ) [salutation](māyāvinenamaḥ)
+[salutation-to-sarvāṅgarūpa](sarvāṅgarūpāyanamaḥ) [salutation-to-māyāvin](māyāvinenamaḥ)
 
 ## mukta-m0-p125-v3106
-[salutation](suhṛdāyanamaḥ) [salutation](anilāyanamaḥ) [salutation](analāyanamaḥ)
+[salutation-to-suhṛd](suhṛdāyanamaḥ) [salutation-to-anila](anilāyanamaḥ) [salutation-to-anala](analāyanamaḥ)
 
 ## mukta-m0-p125-v3107
-[salutation](bandhanāyanamaḥ) [salutation](bandhakartrenamaḥ)
+[salutation-to-bandhana](bandhanāyanamaḥ) [salutation-to-bandhakartṛ](bandhakartrenamaḥ)
 
 ## mukta-m0-p125-v3108
-[salutation](subandhanavimocanāyanamaḥ) [salutation](sayajñārayenamaḥ)
+[salutation-to-subandhanavimocana](subandhanavimocanāyanamaḥ) [salutation-to-sayajñāra](sayajñārayenamaḥ)
 
 ## mukta-m0-p125-v3109
-[salutation](sakāmārayenamaḥ) [salutation](mahādaṃṣṭrāyanamaḥ)
+[salutation-to-sakāmāra](sakāmārayenamaḥ) [salutation-to-mahādaṃṣṭra](mahādaṃṣṭrāyanamaḥ)
 
 ## mukta-m0-p125-v3110
-[salutation](amareśāyanamaḥ) [salutation](mahādevāyanamaḥ)
+[salutation-to-amareśa](amareśāyanamaḥ) [salutation-to-mahādeva](mahādevāyanamaḥ)
 
 ## mukta-m0-p125-v3111
-[salutation](viśvadevāyanamaḥ) [salutation](surārighnenamaḥ) [salutation](ahirbbudhnyāayanamaḥ)
+[salutation-to-viśvadeva](viśvadevāyanamaḥ) [salutation-to-surārighna](surārighnenamaḥ) [salutation-to-ahirbbudhnya](ahirbbudhnyāayanamaḥ)
 
 ## mukta-m0-p125-v3112
-[salutation](anilābhāyanamaḥ) [salutation](cekitāyanamaḥ) [salutation](haviṣenamaḥ)
+[salutation-to-anilābha](anilābhāyanamaḥ) [salutation-to-cekitā](cekitāyanamaḥ) [salutation-to-haviṣ](haviṣenamaḥ)
 
 ## mukta-m0-p125-v3113
-[salutation](ajaikapadenamaḥ) [salutation](kapālinenamaḥ) [salutation](triśaṅkavenamaḥ)
+[salutation-to-ajaikapada](ajaikapadenamaḥ) [salutation-to-kapālin](kapālinenamaḥ) [salutation-to-triśaṅku](triśaṅkavenamaḥ)
 
 ## mukta-m0-p125-v3114
-[salutation](ajitāyanamaḥ) [salutation](śivāyanamaḥ)
+[salutation-to-ajita](ajitāyanamaḥ) [salutation-to-śiva](śivāyanamaḥ)
 
 ## mukta-m0-p125-v3115
-[salutation](dhanvantarayenamaḥ) [salutation](dhūmaketavenamaḥ)
+[salutation-to-dhanvantari](dhanvantarayenamaḥ) [salutation-to-dhūmaketu](dhūmaketavenamaḥ)
 
 ## mukta-m0-p125-v3116
-[salutation](skandāyanamaḥ) [salutation](vaiśravaṇāyanamaḥ) [salutation](dhātrenamaḥ)
+[salutation-to-skanda](skandāyanamaḥ) [salutation-to-vaiśravaṇa](vaiśravaṇāyanamaḥ) [salutation-to-dhātṛ](dhātrenamaḥ)
 
 ## mukta-m0-p125-v3117
-[salutation](śakrāyanamaḥ) [salutation](viṣṇavenamaḥ) [salutation](mitrāyanamaḥ)
+[salutation-to-śakra](śakrāyanamaḥ) [salutation-to-viṣṇu](viṣṇavenamaḥ) [salutation-to-mitra](mitrāyanamaḥ)
 
 ## mukta-m0-p125-v3118
-[salutation](tvaṣṭrenamaḥ) [salutation](dhruvāyanamaḥ) [salutation](dharāyanamaḥ)
+[salutation-to-tvaṣṭṛ](tvaṣṭrenamaḥ) [salutation-to-dhruva](dhruvāyanamaḥ) [salutation-to-dharā](dharāyanamaḥ)
 
 ## mukta-m0-p125-v3119
-[salutation](prabhāvāyanamaḥ) [salutation](sarvagavenamaḥ) [salutation](aryamṇenamaḥ)
+[salutation-to-prabhāva](prabhāvāyanamaḥ) [salutation-to-sarvaga](sarvagavenamaḥ) [salutation-to-aryaman](aryamṇenamaḥ)
 
 ## mukta-m0-p125-v3120
-[salutation](savitrenamaḥ) [salutation](ravayenamaḥ) [salutation](uṣaṅgavenamaḥ)
+[salutation-to-savitṛ](savitrenamaḥ) [salutation-to-ravi](ravayenamaḥ) [salutation-to-uṣaṅgava](uṣaṅgavenamaḥ)
 
 ## mukta-m0-p125-v3121
-[salutation](vidhātrenamaḥ) [salutation](māndhātrenamaḥ) [salutation](bhūtabhāvanāyanamaḥ)
+[salutation-to-vidhātṛ](vidhātrenamaḥ) [salutation-to-māndhātṛ](māndhātrenamaḥ) [salutation-to-bhūtabhāvana](bhūtabhāvanāyanamaḥ)
 
 ## mukta-m0-p125-v3122
-[salutation](vibhavenamaḥ) [salutation](varṇavibhāvinenamaḥ)
+[salutation-to-vibhava](vibhavenamaḥ) [salutation-to-varṇavibhāvin](varṇavibhāvinenamaḥ)
 
 ## mukta-m0-p125-v3123
-[salutation](sarvakāmaguṇāvahāyanamaḥ) [salutation](padmanābhāyanamaḥ)
+[salutation-to-sarvakāmaguṇāvaha](sarvakāmaguṇāvahāyanamaḥ) [salutation-to-padmanābha](padmanābhāyanamaḥ)
 
 ## mukta-m0-p125-v3124
-[salutation](mahāgarbbhāyanamaḥ) [salutation](candravaktrāyanamaḥ) [salutation](anilāyanamaḥ)
+[salutation-to-mahāgarbha](mahāgarbbhāyanamaḥ) [salutation-to-candravaktra](candravaktrāyanamaḥ) [salutation-to-anila](anilāyanamaḥ)
 
 ## mukta-m0-p125-v3125
-[salutation](analāyanamaḥ) [salutation](balavatenamaḥ) [salutation](upaśāntāyanamaḥ)
+[salutation-to-anala](analāyanamaḥ) [salutation-to-balavat](balavatenamaḥ) [salutation-to-upaśānta](upaśāntāyanamaḥ)

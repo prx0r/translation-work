@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p75-v1851
-[meditating-thus](dhyātvaivaṃ) [with-joined-palms](prāñjaliḥ) [having-become](bhūtvā) [should-invoke](āvāhayet) [fire-god](havyavāhanam)
+[meditate-thus](dhyātvaivaṃ) [with-joined-palms](prāñjalirbhūtvā) [invoke](avāhayeddhavyavāhanam)
 
 ## mukta-m0-p75-v1852
-[protect-the-sacrifice](adhvaraṃ+rakṣa) [protect](rakṣa) [thus](iti) [salutation](namaḥ) [svāhā](svāhā) [then](tataḥ) [should-say](vadet)
+[protect-sacrifice](adhvaraṃ) [protect](rakṣa) [protect](rakṣeti) [salutation](namaḥ) [svāhā](svāhā) [then](tato) [speak](vadet)
 
 ## mukta-m0-p75-v1853
-[should-meditate](dhyāyet)
+[meditate](dhyāyet)
 
 ## mukta-m0-p75-v1854
-[thus-become](tathābhūtam)
+[thus-formed](tathābhūtam)
 
 ## mukta-m0-p75-v1855
-[salutation](namaḥ) [svāhā](svāhā) [thus](iti) [mantra](mantraḥ) [born](jātaḥ)
+[salutation](namaḥ) [svāhā](svāheti) [mantra](mantro) [born](jātaḥ)
 
 ## mukta-m0-p75-v1856
-[as-per-offerings](yathopacāraiḥ) [having-worshipped](sampūjya) [seven](sapta) [tongues](jihvāḥ) [should-worship](prapūjayet)
+[as-with-offerings](yathopacāraiḥ) [worship](sampūjya) [seven](sapta) [tongues](jihvāḥ) [fully-worship](prapūjayet)
 
 ## mukta-m0-p75-v1857
-[flickering](lelāyamānā) [thus](iti) [ca](ca) [seven](sapta) [tongues](jihvāḥ)
+[flashing](lelāyamāneti) [and](ca) [seven](sapta) [tongues](jihvāḥ)
 
 ## mukta-m0-p75-v1858
-[up-to-northern-end](uttarāntaṃ) [o-great-lady](maheśāni) [threefold](tridhā) [sprinkling](prokṣaṇam) [should-perform](ācaret)
+[up-to-end](uttarāntaṃ) [great-goddess](maheśāni) [threefold](tridhā) [sprinkling](prokṣaṇamācaret)
 
 ## mukta-m0-p75-v1859
-[threefold](tridhā) [circum-sprinkling](paryukṣaṇaṃ) [should-do](kuryāt) [then](tataḥ) [sacrificial-material](yajñīyavastunaḥ)
+[threefold](tridhā) [circum-sprinkling](paryukṣaṇaṃ) [do](kuryāttato) [sacrificial-thing](yajñīyavastunaḥ)
 
 ## mukta-m0-p75-v1860
-[tongues](jihvāḥ) [should-worship](prapūjayet)
+[tongues](jihvāḥ) [fully-worship](prapūjayet)
 
 ## mukta-m0-p75-v1861
 [seven-tongues](saptajihvāḥ)
 
 ## mukta-m0-p75-v1862
-[sprinkling](prokṣaṇam) [should-perform](ācaret)
+[sprinkling](prokṣaṇamācaret)
 
 ## mukta-m0-p75-v1863
-[threefold-indeed](tridhaiva) [circum-sprinkling](paryukṣaṇaṃ) [should-do](kuryāt)
+[threefold-indeed](tridhaiva) [circum-sprinkling](paryukṣaṇaṃ) [do](kuryāt)
 
 ## mukta-m0-p75-v1864
-[north-placed](udaksaṃsthair) [north-pointed](uttarāgraiḥ) [east-pointed](prāgagraiḥ) [other-direction-placed](anyadiksthitaiḥ)
+[north-placed](udaksaṃsthairuttarāgraiḥ) [east-tipped](prāgagrairanyadiksthitaiḥ)
 
 ## mukta-m0-p75-v1865
-[by-left-thumb-and-little-finger](vāmāṅguṣṭhakaniṣṭhābhyāṃ) [of-brahma](brahmaṇaḥ) [fashioned-seat](kalpitāsanāt)
+[left-thumb-little-finger](vāmāṅguṣṭhakaniṣṭhābhyāṃ) [of-brahma](brahmaṇaḥ) [appointed-seat](kalpitāsanāt)
 
 ## mukta-m0-p75-v1866
-[thus-saying](ityuktvā) [of-fire](agner) [to-south](dakṣiṇasyāṃ) [should-place](nikṣipet) [with-utkara-etc](utkarādinā)
+[thus-saying](ityuktvāgnerdakṣiṇasyāṃ) [place](nikṣipedutkarādinā)
 
 ## mukta-m0-p75-v1867
-[sitting](sīdāmi) [thus-saying](iti) [vadan](vadan) [brahma](brahmā) [should-enter](viśet) [there](tatra) [north-facing](uttarāmukhaḥ)
+[sit-I](sīdāmīti) [saying](vadan) [brahma](brahmā) [enter](viśettatrottarāmukhaḥ)
 
 ## mukta-m0-p75-v1868
-[having-worshipped](sampūjya) [with-sandal-flowers-etc](gandhapuṣpādyair) [brahma](brahmāṇaṃ) [should-request](prārthayed) [this](idam)
+[worship](sampūjya) [sandal-flowers-etc](gandhapuṣpādyairbrahmāṇaṃ) [request](prārthayedidam)
 
 ## mukta-m0-p75-v1869
-[me](mām) [ca](ca) [sacrifice-lord](yajñapatiṃ) [protect](pāhi) [sacrifice-witness](karmasākṣin) [salutation](namaḥ) [to-you](astu+te)
+[me](māñca) [sacrifice-lord](yajñapatiṃ) [protect](pāhi) [act-witness](karmasākṣinnamo'stu) [to-you](te)
 
 ## mukta-m0-p75-v1870
-[east-pointed](prāgagraiḥ) [darbha-grass](darbhaiḥ) [kuśa](kuśaiḥ) [altar](sthaṇḍilaṃ) [should-spread](paristared) [should-cover](ācchādayet)
+[east-tipped](prāgagrairdarbhaiḥ) [kuśa-grass](kuśaiḥ) [altar](sthaṇḍilaṃ) [spread](paristaredācchādayet)
 
 ## mukta-m0-p75-v1871
-[kuśa-leaf](kuśapatram) [of-fire](agner) [to-south](dakṣiṇasyāṃ) [direction](diśi) [should-place](nikṣipet)
+[kuśa-leaf](kuśapatramagnerdakṣiṇasyāṃ) [direction](diśi) [place](nikṣipet)
 
 ## mukta-m0-p75-v1872
-[should-enter](viśet)
+[enter](viśet)
 
 ## mukta-m0-p75-v1873
-[that-very](tameva) [this](idaṃ) [should-request](prārthayet)
+[that-indeed](tamevedaṃ) [request](prārthayet)
 
 ## mukta-m0-p75-v1874
 [protect](gopāya) [protect](rakṣa)
 
 ## mukta-m0-p75-v1875
-[there](tatra) [darbha-made](darbhamayaṃ) [brahmin](vipraṃ) [should-appoint](kalpayet) [for-sacrifice-success](yajñasiddhaye)
+[there](tatra) [darbha-made](darbhamayaṃ) [brahmin](vipraṃ) [appoint](kalpayet) [sacrifice-success](yajñasiddhaye)
