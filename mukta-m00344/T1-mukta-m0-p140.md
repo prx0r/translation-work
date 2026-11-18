@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p140-v3476
-full-consciousness-only-form-of(pūrṇacinmātrarūpiṇaḥ)
+[full](pūrṇa)+[consciousness](cin)+[mere](mātra)+[whose-form](rūpiṇaḥ)
 
 ## mukta-m0-p140-v3477
-experiencing-pleasure-pain(sukhaduḥkhajuṣaḥ) extremely(atyantaṃ) by-animal-likeness(paśutulyatayā) situated(sthitāḥ)
+[pleasure+pain+experiencing+exceedingly](sukhaduḥkhajuṣo'tyantaṃ) [beast](paśu)+[likeness+by](tulyatayā) [situated](sthitāḥ)
 
 ## mukta-m0-p140-v3478
-averse-to-inquiry(vicāravimukhāḥ) abandoned-investigation(tyaktānusandhānāḥ)
+[inquiry](vicāra)+[turned-away](vimukhās)+[abandoned](tyaktā)+[recollection](nusandhānāḥ)
 
 ## mukta-m0-p140-v3479
-of-them(teṣāṃ) which(yā) that(sā) animal-state(paśudaśā) occurring-in-interval-of-true-reflection(sadvimarśāntarālagā)
+[of-them](teṣāṃ) [which](yā) [that](sā) [beast+state](paśudaśā) [true+awareness+interval+going](sadvimarśāntarālagā)
 
 ## mukta-m0-p140-v3480
-occurring-in-interval-of-full-state(pūrṇadaśāntarālagā) animal-condition(paśusthitir) not(na) for-bondage(bandhāya) thus(iti) says(āha) of-them(teṣām) thus(iti)
+[full+state+interval+going](pūrṇadaśāntarālagā) [beast+state+not](paśusthitirna) [for-bondage+thus+says](bandhāyetyāha) [dash](-) [thus-teṣām+iti](teṣāmiti)
 
 ## mukta-m0-p140-v3481
-by-lac-dye(lākṣārasaiḥ) when(yadā) pair-of-cloth-ends(vastraprāntayugmaṃ) well-dyed(surañjitam)
+[lac+dye+juices](lākṣārasair)+[when](yadā) [cloth+edge+pair](vastraprāntayugmaṃ) [well+colored](surañjitam)
 
 ## mukta-m0-p140-v3482
-lac(lākṣā) thus(iti)
+[dash](-) [lac](lā)+[kṣe](kṣe)+[iti](ti)
 
 ## mukta-m0-p140-v3483
-thus(evaṃ) his(tasya) conduct(vyavahṛtiḥ) situated-in-middle-of-consciousness-reflection(cidāmarśanamadhyagā)
+[thus](evaṃ) [of-him](tasya) [activity](vyavahṛtiś)+[consciousness](cid)+[awareness+middle+going](āmarśanamadhyagā)
 
 ## mukta-m0-p140-v3484
-for-bondage(bandhanāya) thus(iti) meaning(bhāvaḥ)
+[for-bondage](bandhanāy)+[iti](eti) [sense](bhā)+[vaḥ](vaḥ)
 
 ## mukta-m0-p140-v3485
-of-middle-knowers(madhyavijñānināṃ) bodily-connection(dehasaṃyogaḥ) not(nāsti) in-every-way(sarvathā)
+[middle+knowers+of](madhyavijñānināṃ) [body+connection](dehasaṃyogo) [not](nāsti) [at-all](sarvathā)
 
 ## mukta-m0-p140-v3486
-of-middle-knowers(madhyajñānināṃ) state(sthitim) says(āha) middle(madhyā) thus(iti)
+[middle+knowers+of](madhyajñānināṃ) [state+describes](sthitimāha) [dash](-) [madhya+iti](madhyeti)
 
 ## mukta-m0-p140-v3487
-he(sa) not(nāsti) of-middle-knower(madhyavijñānavataḥ) Rama(rāma) ever(kadācana)
+[that](sa) [not](nāsti) [middle+knowledge+possessor+of](madhyavijñānavato) [Rama](rāma) [ever](kadācana)
 
 ## mukta-m0-p140-v3488
-always(sadā) with-composed-mind(samāhitasvāntaḥ) activity(vyavahāraḥ) not(na) his(tasya) indeed(hi)
+[always](sadā) [composed+mind](samāhitasvānto) [activity](vyavahāro) [not](na) [of-him](tasya) [indeed](hi)
 
 ## mukta-m0-p140-v3489
-restrained(niruddham) his(tasya) of-middle-knower(madhyajñāninaḥ)
+[restrained](niruddham) [|](|) [of-him](tasya) [middle+knower+of](madhyajñāninaḥ)
 
 ## mukta-m0-p140-v3490
-as(yathā) someone(kaścit) in-deep-sleep(suṣuptisthaḥ) by-mere-latent-impression(vāsanāmātrataḥ) sometimes(kvacit)
+[as](yathā) [someone](kaścit) [deep-sleep+abiding](suṣuptistho) [impression+merely+from](vāsanāmātrataḥ) [sometimes](kvacit)
 
 ## mukta-m0-p140-v3491
-if(cet) its(tasya) due-to-appearing(ābhāsatvāt) thus(iti) with-example(sadṛṣṭāntam) says(āha) as(yathā) thus(iti) latent-impression(vāsanā) impression(saṃskāraḥ)
+[consciousness+its+non-appearance+because+thus](cettasyābhāsatvāditi) [with+example+says](sadṛṣṭāntamāha) [dash](-) [yathā+iti](yatheti) [|](|) [impression](vāsanā) [latent-tendency](saṃskāraḥ)
 
 ## mukta-m0-p140-v3492
-as(yathā) and(ca) drunk-with-wine(madirāmattaḥ) speaking(vadan) doing(kurvan) not(na) knows(veda) indeed(vai)
+[as](yathā) [and](ca) [liquor+intoxicated](madirāmatto) [speaking](vadan) [doing+not](kurvanna) [knows](veda) [indeed](vai)
 
 ## mukta-m0-p140-v3493
-another-example(dṛṣṭāntāntaram) as(yathā) thus(iti)
+[example+another](dṛṣṭāntāntaram) [dash](-) [yathā](yath)+[iti](eti)
 
 ## mukta-m0-p140-v3494
-something(kiñcit) sometimes(kadācit) doing(kurvan) and(ca) not(na) knows(vijānāti) that(tat) again(punaḥ)
+[something](kiñcit) [sometimes](kadācit) [doing+and](kurvaṃśca) [not](na) [knows](vijānāti) [that+again](tatpunaḥ)
 
 ## mukta-m0-p140-v3495
-not(na) recollects(anusandhatte)
+[not](nā)+[anu](nu)+[sandha](sandha)+[tte](tte)
 
 ## mukta-m0-p140-v3496
-but-he-who(yastu) highest(uttamaḥ) well-knower(suvijñānī) body(dehaḥ) his(tasya) even(api) not(na) is(asti) indeed(hi)
+[who+but+highest](yastūttamaḥ) [well+knower](suvijñānī) [variant]([k: ttamaḥ sa vi]) [body+of-him+also](dehastasyāpi) [not](nāsti) [indeed](hi)
 
 ## mukta-m0-p140-v3497
-in-milk-drinking(stanyapāne) activity(pravṛttiḥ) thus(evam) thus(iti) meaning(bhāvaḥ) of-highest(uttamasya) state(sthitim) says(āha) but-he-who(yastu) thus(iti)
+[breast+drinking+in](stanyapāne) [engagement+thus+iti](pravṛttirevamiti) [meaning](bhāvaḥ) [|](|) [of-highest](uttamasya) [state+describes](sthitimāha) [dash](-) [yaḥ+tu+iti](yastviti)
 
 ## mukta-m0-p140-v3498
-as(yathā) by-chariot(rathena) activity(vyāpāram) doing(kurvan) not(na) chariot-bodied(rathadehakaḥ)
+[as](yathā) [with-chariot](rathena) [activity](vyāpāraṃ) [doing](kurvan) [not](na) [chariot+bodied](rathadehakaḥ)
 
 ## mukta-m0-p140-v3499
-if(ced) says(āha) chariot(ratha) thus(iti) this(etat) indeed(eva) explains(upapādayati) as(yathā) thus(iti)
+[if+says](cedāha) [dash](-) [ratha+iti](ratheti) [|](|) [this+alone+establishes](etadevopapādayati) [dash](-) [yathā+iti](yatheti)
 
 ## mukta-m0-p140-v3500
-not(na) embodied(dehī) not(na) also(api) agent(vyāpārī) of-pure-consciousness-nature(śuddhasaṃvedanātmakaḥ)
+[not](na) [embodied](dehī) [not+also](nāpi) [agent](vyāpārī) [pure+consciousness+natured](śuddhasaṃvedanātmakaḥ)
