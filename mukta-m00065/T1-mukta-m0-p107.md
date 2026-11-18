@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p107-v2651
-[that-fillet](tatpaṭṭī) [by-quarter](pādataḥ) [to-be-made](kāryā) [by-quarter+part](pādonāṃśena) [projection](nirgamā)
+[that-plate](tatpaṭṭī) [from-foot](pādataḥ) [to-be-done](kāryā) [with-exit-part](pādonāṃśena) [nirgamā](nirgamā)
 
 ## mukta-m0-p107-v2652
-[part](bhāgam) [one](ekaṃ) [threefold](tridhā) [having-made](kṛtvā) [recess](praveśaḥ) [and](ca) [by-one+part](eka) [from-part](bhāgataḥ)
+[share-one](bhāgamekaṃ) [threefold](tridhā) [having-made](kṛtvā) [entry](praveśaḥ) [ca-one](caika) [from-share](bhāgataḥ)
 
 ## mukta-m0-p107-v2653
-[fillet](paṭṭikā) [but](tu) [to-be-made](prakartavyā) [by-second](dvitīyena) [projection](upanirgamā)
+[plate](paṭṭikā) [tu](tu) [to-be-made](prakartavyā) [second](dvitīyena) [upanirgamā](upanirgamā)
 
 ## mukta-m0-p107-v2654
-[called-balita](balitāhvaṃ) [by-three](tribhi) [by-parts](rbhāgaiḥ) [by-planet-parts](grahāṃśaiḥ) [but](tu) [hip-moulding](kaṭiḥ) [should-be](bhavet)
+[balitāhva](balitāhvaṃ) [with-three](tribhi) [parts](bhāgaiḥ) [graha-parts](grahāṃśaiḥ) [tu](tu) [waist](kaṭiḥ) [bhavet](bhavet)
 
 ## mukta-m0-p107-v2655
-[from-neck-thread](kaṇṭhasūtrāt) [should-enter](viśet) [hip](kaṭhaḥ) [by-part](bhāgāt) [that-fillet+above](tatpaṭṭikordhvaḥ)
+[from-neck-thread](kaṇṭhasūtrāt) [viśet](viśet) [kaṭha](kaṭhaḥ) [part](bhāgāt) [that-plate-above](tatpaṭṭikordhvaḥ)
 
 ## mukta-m0-p107-v2656
-[of-base](bhūmeḥ) [shin](jaṅghā) [and-hip](nitambau) [and](ca) [declared](kīrtitau) [by-carpenter+scripture](tvaṣṭṭa) [from-treatise](śāstrataḥ)
+[of-earth](bhūmeḥ) [shanks](jaṅghā) [buttocks](nitambau) [ca](ca) [kīrtitau](kīrtitau) [tvaṣṭa](tvaṣṭa) [by-śāstra](śāstrataḥ)
 
 ## mukta-m0-p107-v2657
-[below-that](tadadhaḥ) [with-half+side-part](sārdhapakṣāṃśaṃ) [in-width](vistāreṇa) [but](tu) [one-should-make](kārayet)
+[below-that](tadadhaḥ) [one-and-half-part](sārdhapakṣāṃśaṃ) [in-breadth](vistāreṇa) [tu](tu) [kārayet](kārayet)
 
 ## mukta-m0-p107-v2658
-[by-one-each](ekaikena) [but](tu) [by-part](bhāgega) [should-enter](viśet) [from-neck+thread](kaṇṭhaka) [from-line](sūtrataḥ)
+[one-by-one](ekaikena) [tu](tu) [part](bhāgega) [viśet](viśet) [kaṇṭhaka](kaṇṭhaka) [from-thread](sūtrataḥ)
 
 ## mukta-m0-p107-v2659
-[should-be](bhavet) [minor-projection](anurathaḥ) [by-six](ṣadbhiḥ) [by-seventh](saptamena) [water-interval](udakāntaram)
+[bhaved](bhaved) [anuratha](anurathaḥ) [with-six](ṣadbhiḥ) [seventh](saptamena) [water-interval](udakāntaram)
 
 ## mukta-m0-p107-v2660
-[of-corner+minor-projection+and-others](koṇānurathakādīnāṃ) [circular+recess](vṛttapraveśaḥ) [is-stated](ucyate)
+[of-corner-anuratha-etc](koṇānurathakādīnāṃ) [circular-entry](vṛttapraveśaḥ) [ucyate](ucyate)
 
 ## mukta-m0-p107-v2661
-[likewise](tadvac) [by-fourth+part](caturthabhāgena) [recess](praveśaḥ) [of-minor-projection](anurathasya) [and](ca)
+[tadvat](tadvat) [fourth-part](caturthabhāgena) [entry](praveśaḥ) [anurathasya](anurathasya) [ca](ca)
 
 ## mukta-m0-p107-v2662
-[having-divided](luptvā) [parts](bhāgān) [of-levels](bhuvāṃ) [own](svāṃ) [own](svāṃ) [of-all](sarvāsāṃ) [and](ca) [in-due-order](yathākramam)
+[having-omitted](luptvā) [parts](bhāgān) [of-earth](bhuvāṃ) [own-own](svāṃ svāṃ) [all](sarvāsāṃ) [ca](ca) [in-order](yathākramam)
 
 ## mukta-m0-p107-v2663
-[by-quarter+less+two-parts](pādonadvyaṃśataḥ) [pitcher](kumbhaḥ) [its-fillet](tatpaṭṭī) [by-quarter](pādataḥ) [should-be](bhavet)
+[foot-two-part](pādonadvyaṃśataḥ) [kumbha](kumbhaḥ) [that-plate](tatpaṭṭī) [from-foot](pādataḥ) [bhavet](bhavet)
 
 ## mukta-m0-p107-v2664
-[like-pitcher](kumbhopame) [and](ca) [those-two](te) [to-be-made](kārye) [of-knife-and-side](churikāpakṣayoḥ) [likewise](tathā)
+[kumbha-like](kumbhopame) [ca](ca) [they](te) [to-be-made](kārye) [churikā-wings](churikāpakṣayostathā)
 
 ## mukta-m0-p107-v2665
-[by-quarter](pādena) [pitcher-fillet](kumbhapaṭṭī) [but](tu) [and-by-half](cārdhena) [neck-fillet](galapaṭṭikā)
+[by-foot](pādena) [kumbha-plate](kumbhapaṭṭī) [tu](tu) [half](cārdhena) [neck-plate](galapaṭṭikā)
 
 ## mukta-m0-p107-v2666
-[by-half-pitcher](kumbhārdhena) [likewise](tathā) [fillet](paṭṭī) [neck](kaṇṭhaḥ) [by-that-fillet+half](tatpaṭṭīkārdhataḥ)
+[by-kumbha-half](kumbhārdhena) [tathā](tathā) [plate](paṭṭī) [neck](kaṇṭhaḥ) [that-plate-half](tatpaṭṭīkārdhataḥ)
 
 ## mukta-m0-p107-v2667
-[three-neck+height](trikaṇṭhakocchrayaṃ) [by-two](dvābhyāṃ) [on-sides](pakṣayoḥ) [there](tatra) [one-should-shape](vartayet)
+[three-neck-projection](trikaṇṭhakocchrayaṃ) [with-two](dvābhyāṃ) [wings](pakṣayostatra) [vartayet](vartayet)
 
 ## mukta-m0-p107-v2668
-[top](mastaṃ) [like-lavalī+fruit](lavalīphalavat) [should-be](bhavet)
+[head](mastaṃ) [lavalī-fruit-like](lavalīphalavadbhavet)
 
 ## mukta-m0-p107-v2669
-[called-projection](nirgamākhyā) [by-further-part](parāṃśena) [from-four+parts](caturasrāṃśataḥ) [should-be](bhavet)
+[nirgamā-called](nirgamākhyā) [other-part](parāṃśena) [square-part](caturasrāṃśataḥ) [bhavet](bhavet)
 
 ## mukta-m0-p107-v2670
-[in-its-middle](tanmadhye) [forehead-mark](tilakaṃ) [to-be-made](kāryam) [thus](evaṃ) [by-three-parts](tryaṃśaiḥ) [varaṇḍikā](varaṇḍikā)
+[therein](tanmadhye) [tilaka](tilakaṃ) [to-be-made](kāryam) [evaṃ](evaṃ) [three-parts](tryaṃśaiḥ) [varaṇḍikā](varaṇḍikā)
 
 ## mukta-m0-p107-v2671
-[form](rūpaṃ) [of-corner-projection](koṇarathasya) [thus](evaṃ) [I-shall-tell](vakṣye) [and](ca) [upper-projection](uparathaṃ) [then](tvataḥ)
+[form](rūpaṃ) [corner-ratha](koṇarathasya) [evaṃ](evaṃ) [vakṣye](vakṣye) [coparatha](coparathaṃ) [tvataḥ](tvataḥ)
 
 ## mukta-m0-p107-v2672
-[by-one-pitcher](kumbhaikena) [by-half](ardhataḥ) [fillet](paṭṭī) [neck](kaṇṭhaḥ) [and](ca) [by-half-part](ardhāṃśataḥ) [likewise](tathā)
+[by-kumbha-half](kumbhaikenārdhataḥ) [plate](paṭṭī) [neck](kaṇṭhaḥ) [ca-half-part](cārdhāṃśatastathā)
 
 ## mukta-m0-p107-v2673
-[circular-fillet](vṛttapaṭṭī) [and](ca) [projecting](niṣkrāntā) [by-part+by-part](bhāgabhāgena) [one-should-design](kalpayet)
+[circular-plate](vṛttapaṭṭī) [ca](ca) [niṣkrāntā](niṣkrāntā) [part-by-part](bhāgabhāgena) [kalpayet](kalpayet)
 
 ## mukta-m0-p107-v2674
-[in-part](aṃśe) [cavity](gartālakaṃ) [O-knower](tajña) [on-its-sides](tatpārśvayoḥ) [by-quality-parts](guṇāṃśataḥ)
+[part](aṃśe) [gartālaka](gartālakaṃ) [tajña](tajña) [that-side](tatpārśvayoḥ) [guṇa-part](guṇāṃśataḥ)
 
 ## mukta-m0-p107-v2675
-[above-below+covered-by-tilaka](ūrdhvādhastilakākrāntā) [of-middle-ones](madhyasthānoḥ) [above](ūrdhvataḥ) [situated](sthitā)
+[above-below-tilaka-covered](ūrdhvādhastilakākrāntā) [middle-place-above](madhyasthānordhvataḥ) [sthitā](sthitā)

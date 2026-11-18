@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p119-v2951
-[having-rested](viśrāmya) [one](ekāṃ) [then](tato) [night](rātriṃ) [with-cow-dung](gomayena) [one-should-smear](vilepayet)
+viśrāmya (resting) ekām (one) tataḥ (then) rātrim (night) gomayena (with-cow-dung) vilepayet (smear)
 
 ## mukta-m0-p119-v2952
-[with-hemp+fruit+foot+decoction](śaṇaphalyāṅghikāṣāyai) [or](vā) [with-stone+creeper+juice](stopalatārasena)
+śaṇa-phala-aṅghi-kāṣāyaiḥ (with-hemp-fruit-root-decoction) stopala-tāra-sena (with-stone-lotus-juice) vā (or)
 
 ## mukta-m0-p119-v2953
-[with-steamed+bean+water](utsvinna+māṣatoyena) [or](vā) [with-steamed+bilva+water](svinnabilvāmbunāpi)
+utsvinna (steamed) māṣa-toyena (with-bean-water) svinnabilva-ambunā (with-steamed-bilva-water) api (also) vā (or)
 
 ## mukta-m0-p119-v2954
-[then](tataḥ) [with-mortar+and-others](colūkhalādyaistu) [coarse+powders](sthūlacūrṇāni) [one-should-make](kārayet)
+tataḥ (then) ulūkhala-ādyaiḥ (with-mortar-etc) sthūla-cūrṇāni (coarse-powders) kārayet (make)
 
 ## mukta-m0-p119-v2955
-[in-pot+interior](sthālyāgarbhe) [indeed](tu) [having-placed](saṃsthāpya) [then](tato) [substances](drayāṇi) [one-should-put](niḥkṣipet)
+sthālyā-garbhe (in-pot-interior) tu (but) saṃsthāpya (placing) tataḥ (then) dravyāṇi (substances) niḥkṣipet (put-in)
 
 ## mukta-m0-p119-v2956
-[wax](sikrāta) [cow+milks](gavyadugdhāni) [sala-resin+oil+linseed+produced](sarjatailātasīrajaḥ)
+sikatā (sand) gavya-dugdhāni (cow-milks) sarja-taila-atasī-rajaḥ (resin-oil-flax-powder)
 
 ## mukta-m0-p119-v2957
-[with-hog-plum+waters](āmrātakāmbubhiḥ) [ground](piṣṭaṃ) [with-large-mouthed](sthūlāsyā) [milk-plant+called](dugdhi+kāhvayā)
+āmrātaka-ambubhiḥ (with-hog-plum-water) piṣṭam (ground) sthūlāsya (coarse-mouthed) dugdhikā (milk-plant) āhvayā (called)
 
 ## mukta-m0-p119-v2958
-[with-decoction](kvāthena) [of-ram+horn](meṣaśṛṅgasya) [with-linseed+powder+mixed](atasīcūrṇamiśritam)
+kvāthena (by-decoction) meṣa-śṛṅgasya (of-ram-horn) atasī-cūrṇa-miśritam (flax-powder-mixed)
 
 ## mukta-m0-p119-v2959
-[diamond+plaster](vajralepaḥ) [is-called](samakhyātaḥ) [likewise](tathā) [with-sala-resin+endowed](sarjasamanvitaḥ)
+vajra-lepaḥ (diamond-plaster) samakhyātaḥ (well-known) tathā (thus) sarja-samanvitaḥ (with-resin)
 
 ## mukta-m0-p119-v2960
-[with-beeswax](madhūcchiṣṭena) [and-with-pastes](kalkaiśca) [of-hemp](śāṇajaiḥ) [very-firm](sudṛḍhaiḥ) [new](navaiḥ)
+madhūcchiṣṭena (with-beeswax) kalkaiḥ (with-pastes) ca (and) śāṇa-jaiḥ (from-hemp) sudṛḍhaiḥ (strong) navaiḥ (new)
 
 ## mukta-m0-p119-v2961
-[with-linseed+oil+mixed](atasītailasammiśraṃ) [having-kneaded](mardayitvā) [well-cooked](supācitam)
+atasī-taila-sammiśram (flax-oil-mixed) mardayitvā (rubbing) su-pācitam (well-cooked)
 
 ## mukta-m0-p119-v2962
-[of-god+mansions+houses+and-others](suraveśmagṛhādīnāṃ) [floor+binding](bhūmibandho) [is-declared](nigadyate)
+suraveśma-gṛha-ādīnām (of-temples-houses-etc) bhūmi-bandhaḥ (ground-bond) nigadyate (is-said)
 
 ## mukta-m0-p119-v2963
-[like-still+water](sthiratoyopamā) [should-be-made](kāryā) [floor](bhūmiḥ) [indeed](tu) [well-leveled](sutalā) [even](samā)
+sthira-toya-upamā (like-stable-water) kāryā (to-be-made) bhūmiḥ (ground) tu (but) sutalā (level) samā (even)
 
 ## mukta-m0-p119-v2964
-[that+paste](tatkalkaṃ) [one-should-make](kārayet) [into-a-ball](piṇḍaṃ) [to-be-dried](viśoṣyaṃ) [ball](piṇḍam) [in-the-sun](ātape)
+tat-kalkam (that-paste) kārayet (make) piṇḍam (lump) viśoṣyam (to-be-dried) piṇḍam (lump) ātape (in-sun)
 
 ## mukta-m0-p119-v2965
-[then](tato) [with-scum](maṇḍena) [having-kneaded](saṃmardya) [floor+binding](bhūmibandhaṃ) [indeed](tu) [one-should-make](kārayet)
+tataḥ (then) maṇḍena (with-gruel) saṃmardya (rubbing) bhūmi-bandham (ground-bond) tu (but) kārayet (make)
 
 ## mukta-m0-p119-v2966
-[one-should-make](kuryād) [floor](bhūmiṃ) [even](samaṃ) [pleasing](ramyaṃ) [well-set](susthitaṃ) [water+filled](jalapūritam)
+kuryāt (make) bhūmim (ground) samam (even) ramyam (pleasant) susthitam (well-set) jala-pūritam (water-filled)
 
 ## mukta-m0-p119-v2967
-[substance](dravyaṃ) [according-to-time](kālānurūpeṇa) [one-should-apply](yojayet) [by-part+measured](bhāgasammitam)
+dravyam (substance) kāla-anurūpeṇa (according-to-season) yojayet (apply) bhāga-sammitam (proportionate)
 
 ## mukta-m0-p119-v2968
-[in-summer](grīyme) [indeed](nu) [five+parts](pañcabhāgāḥ) [should-be](syuḥ) [in-cold+season](śītakāle) [likewise](tathā) [three](trayaḥ)
+grīṣme (in-summer) nu (indeed) pañca-bhāgāḥ (five-parts) syuḥ (are) śīta-kāle (in-cold-season) tathā (thus) trayaḥ (three)
 
 ## mukta-m0-p119-v2969
-[thus](evaṃ) [having-given](dattvā) [indeed](tu) [which](yaḥ) [previously](pūrvaṃ) [binding](bandhaḥ) [here](atra) [declared](kathitaḥ) [of-earth](kṣiteḥ)
+evam (thus) dattvā (giving) tu (but) yaḥ (who) pūrvam (before) bandhaḥ (bond) atra (here) kathitaḥ (said) kṣiteḥ (of-earth)
 
 ## mukta-m0-p119-v2970
-[with-water](toyena) [struck+brush](hatakūrcaṃ) [indeed](tu) [one-should-apply](dāpayet) [that](tat) [wise-one](vicakṣaṇaḥ)
+toyena (with-water) hata-kūrcam (beaten-brush) tu (but) dāpayet (give) tat (that) vicakṣaṇaḥ (expert)
 
 ## mukta-m0-p119-v2971
-[of-silk-cotton-tree+tinduka+and-others](śālmalītindukādīnāṃ) [in-floor+binding](bhūmibandhe) [is-recommended](praśasyate)
+śālmalī-tinduka-ādīnām (of-silk-cotton-ebony-etc) bhūmi-bandhe (in-ground-bond) praśasyate (is-praised)
 
 ## mukta-m0-p119-v2972
-[for-so-many](tāvat) [year+thousands](varṣasahasrāṇi) [maker](kartā) [rejoices](nandati) [in-that+city](tatpure)
+tāvat (so-long) varṣa-sahasrāṇi (thousand-years) kartā (maker) nandati (rejoices) tat-pure (in-that-city)
 
 ## mukta-m0-p119-v2973
-[fifth](pañcamaḥ) [time-rod+named](kāladaṇḍākhyaḥ) [with-descendants](sānvayāḥ) [fruit+givers](phaladāyakāḥ)
+pañcamaḥ (fifth) kāla-daṇḍa-ākhyaḥ (named-time-rod) sa-anvayāḥ (with-descendants) phala-dāyakāḥ (fruit-giving)
 
 ## mukta-m0-p119-v2974
-[confusion](vibhrāntiṃ) [Vibhrama](vibhramaḥ) [may-cause](kuryāt) [Śāsaka](śāsakaḥ) [may-rule](śāsayet) [always](sadā)
+vibhrāntim (confusion) vibhramaḥ (delusion) kuryāt (makes) śāsakaḥ (ruler) śāsayet (punishes) sadā (always)
 
 ## mukta-m0-p119-v2975
-[these](ete) [in-god+house](suragṛhe) [obstacles](vighnā) [as-long-as](yāvat) [they](te) [indeed](tu) [not](na) [worshipped](pūjitāḥ)
+ete (these) sura-gṛhe (in-divine-house) vighnāḥ (obstacles) yāvat (until) te (they) tu (but) na (not) pūjitāḥ (worshipped)
