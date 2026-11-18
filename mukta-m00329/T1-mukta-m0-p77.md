@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p77-v1901
-with-tuft(sa+kūrcaṃ) having-wrapped-with-cloth(vastra+saṃveṣṭya) head-to-east(prāk+cchiraḥ) face-upward(ca+ūrdhva+vaktrakam)
+with-kūrca (sakūrcaṃ) cloth-wrapped (vastrasaṃveṣṭya) east-head (prākcchiraḥ) upward-face (ūrdhvavaktrakam)
 
 ## mukta-m0-p77-v1902
-with-fragrances-etc(gandha+ādibhiḥ) having-worshipped-well(samabhyarcya) with-heart-mantra(hṛdayena) indeed(tu) according-to-mantra(mantrataḥ)
+with-perfumes-etc (gandhādibhiḥ) worship (samabhyarcya) by-heart (hṛdayena) but (tu) by-mantra (mantrataḥ)
 
 ## mukta-m0-p77-v1903
-of-that(tasyai) and(ca) in-northern-direction(uttara+dik+bhāge) vardhanī-vessel(vardhanīṃ) and(ca) indeed(eva) one-should-place(vinyaset)
+to-her (tasyai) and (ca) north-direction (uttaradigbhāge) vardhanī (vardhanīṃ) indeed (eva) place (vinyaset)
 
 ## mukta-m0-p77-v1904
-that-respective-power(tat+tat+śakti) having-invoked(samādāya) that-respective(tat+tat) goddess(devīṃ) one-should-worship(samācaret)
+those-powers (tattacchakti) taking (samādāya) those (tattad) goddess (devīṃ) worship (samācaret)
 
 ## mukta-m0-p77-v1905
-with-fruits-and-sprouts(fala+pallava+saṃyuktaṃ) with-all-fragrances(sarva+gandha+samāyutam)
+fruit-twig-endowed (phalapallavasaṃyuktaṃ) all-perfume-possessed (sarvagandhasamāyutam)
 
 ## mukta-m0-p77-v1906
-three-eyed(tri+netraṃ) and(ca) four-armed(catur+bāhuṃ) radiant-with-crescent-moon-crown(bāla+indu+makuṭa+ujvalam)
+three-eyed (triṇetraṃ) and (ca) four-armed (caturbāhuṃ) young-moon-crown-shining (bālendumakuṭojvalam)
 
 ## mukta-m0-p77-v1907
-adorned-with-all-ornaments(sarva+ābharaṇa+saṃyuktaṃ) seated-in-bound-lotus-posture(baddha+padma+āsana+sthitam)
+all-ornament-endowed (sarvābharaṇasaṃyuktaṃ) bound (baddha) lotus-seat-situated (padmāsanasthitam)
 
 ## mukta-m0-p77-v1908
-in-vardhanī(varddhanyāṃ) vardhanī-seed(varddhanī+bījaṃ) having-meditated(dhyātvā) and(ca) indeed(eva) Manonmanī(manonmanīm)
+in-vardhanī (varddhanyāṃ) vardhanī (varddhanī) seed (bījaṃ) meditating (dhyātvā) and (ca) indeed (eva) manonmanī (manonmanīm)
 
 ## mukta-m0-p77-v1909
-adorned-with-all-ornaments(sarva+ābharaṇa+saṃyuktāṃ) two(dvau) hands(hastau) holding-lotuses(padma+saṃyutām)
+all-ornament-endowed (sarvābharaṇasaṃyuktāṃ) two (dvau) hands (hastau) lotus-endowed (padmasaṃyutām)
 
 ## mukta-m0-p77-v1910
-with-manifest-unmanifest-great-arms(vyakta+avyakta+mahā+bāhuṃ) blue-throated(nīla+grīva) of-great-splendor(mahā+dyutiḥ)
+manifest-unmanifest-great-armed (vyaktāvyaktamahābāhuṃ) blue-neck (nīlagrīva) great-splendor (mahādyutiḥ)
 
 ## mukta-m0-p77-v1911
-three-eyed(tri+akṣaṃ) and(ca) four-armed(catur+bhujaṃ) and(ca) indeed(eva) lord-clad-in-tiger-skin(vyāghra+carma+ambara+prabhum)
+three-eyed (trayakṣaṃ) four-armed (caturbhujaṃ) and (ca) indeed (eva) tiger-skin-garment-lord (vyāghracarmāmbaraprabhum)
 
 ## mukta-m0-p77-v1912
-endowed-with-all-marks(sarva+lakṣaṇa+saṃyuktaṃ) adorned-with-all-ornaments(sarva+ābharaṇa+bhūṣitam)
+all-mark-endowed (sarvalakṣaṇasaṃyuktaṃ) all-ornament-adorned (sarvābharaṇabhūṣitam)
 
 ## mukta-m0-p77-v1913
-wearing-divine-garments(divya+ambara+dharaṃ) goddess(devīṃ) two-eyed(dvi+netrā) radiant-with-two-arms(dvi+bhuja+ujvalām)
+divine-garment-wearing (divyāmbaradharaṃ) goddess (devīṃ) two-eyed (dvinetrā) two-armed-shining (dvibhujojvalām)
 
 ## mukta-m0-p77-v1914
-slender-waisted(madhya+kṣāmā) graceful(avilāsāṃ) and(ca) holding-red-lotus(rakta+utphala+karā) auspicious(śubhām)
+middle-slender-graceful (madhyakṣāmavilāsāṃ) and (ca) red-lotus-handed (raktotphalakarā) auspicious (śubhām)
 
 ## mukta-m0-p77-v1915
-on-neck(grive) with-auspicious-thread(maṅgala+sūtreṇa) adorned-with-all-ornaments(sarva+bhūṣaṇa+bhūṣitām)
+neck (grive) by-auspicious-thread (maṅgalasūtreṇa) all-ornament-adorned (sarvabhūṣaṇabhūṣitām)
 
 ## mukta-m0-p77-v1916
-Kumāra(kumāraṃ) Manonmā(manonmā) should-make(kuryāt) endowed-with-all-marks(sarva+lakṣaṇa+saṃyutam)
+Kumāra (kumāraṃ) manonmā (manonmā) make (kuryāt) all-mark-endowed (sarvalakṣaṇasaṃyutam)
 
 ## mukta-m0-p77-v1917
-seated-on-one-seat(eka+āsana+samāsīnaṃ) two-armed(dvi+bhujā) two-eyed(locana+dvayam)
+single-seat-seated (ekāsanasamāsīnaṃ) two-armed (dvibhujā) two-eyes (locanadvayam)
 
 ## mukta-m0-p77-v1918
-Kumāra(kumāraṃ) united-with-consorts(ramaṇaiḥ+yuktaṃ) commander-of-divine-army(deva+senā+patiṃ) likewise(tathā)
+Kumāra (kumāraṃ) with-lovers (ramaṇairyuktaṃ) army-lord (devasenāpatiṃ) thus (tathā)
 
 ## mukta-m0-p77-v1919
-holding-chisel-in-hand(ṭaṅka+hasta+samāyuktaṃ) one-should-place(nyaset) in-middle-of-pot(kumbhasya+madhyame)
+axe-hand-endowed (ṭaṅkahastasamāyuktaṃ) place (nyaset) of-pot (kumbhasya) in-middle (madhyame)
 
 ## mukta-m0-p77-v1920
-resembling-dark-cloud(nīla+jīmūta+saṃkāśaṃ) holding-staff-in-hand(daṇḍa+hastaṃ) three-eyed(tri+locanam)
+blue-cloud-like (nīlajīmūtasaṃkāśaṃ) staff-handed (daṇḍahastaṃ) three-eyed (trilocanam)
 
 ## mukta-m0-p77-v1921
-with-that-respective(tat+tat) seed-syllable(bījena) with-mantra(mantreṇa) that-respective(tat+tat) seed(bījaṃ) one-should-worship-well(supūjayet)
+that (tat) that (tad) by-seed (bījena) by-mantra (mantreṇa) that (tat) that (tad) seed (bījaṃ) worship-well (supūjayet)
 
 ## mukta-m0-p77-v1922
-filled-with-droṇa-measure-of-water(droṇa+artha+toya+saṃpūrṇān) together-with-gold(sa+haimān) accompanied-by-cloth(vastra+saṃyutān)
+trough-purpose-water-filled (droṇārthatoyasaṃpūrṇān) with-gold (sahaimān) cloth-endowed (vastrasaṃyutān)
 
 ## mukta-m0-p77-v1923
-with-that(tat) tan(tan) *ma*(*ma*) *kai*(*kai*) bibai(bibai) one-should-worship(pūjayet) supreme-lord(parameśvaram)
+that (tat) that (tan) * (ma) * (kai) bibai (bibai) worship (pūjayet) supreme-lord (parameśvaram)
 
 ## mukta-m0-p77-v1924
-outside-the-altar(vedi+bāhye) indeed(tu) all-around(paritaḥ) eight-auspicious-objects(aṣṭa+maṅgali) one-should-place(vinyaset)
+outside-altar (vedibāhye) but (tu) around (paritaḥ) eight-auspicious (aṣṭamaṅgali) place (vinyaset)
 
 ## mukta-m0-p77-v1925
-ten-weapons(daśa+āyudhāni) up-to(paryantaṃ) in-their-respective(sve+sve) places(sthāneṣu) one-should-place(vinyaset)
+ten-weapons (daśāyudhāni) around (paryantaṃ) own (sve) own (sve) places (sthāneṣu) place (vinyaset)

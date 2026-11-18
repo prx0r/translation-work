@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p56-v1376
-right-hand(dakṣa+pāṇi) on-palm(tale+thārya) sight-offering(darśana+arghyaṃ) but(tu) should-sprinkle(secayet)
+[right-hand](dakṣapāṇi) [then-offer](talethārya) [sight-offering](darśanārghyaṃ) [and](tu) [sprinkle](secayet)
 
 ## mukta-m0-p56-v1377
-abundant-seat(prabhūta+āsana) having-arranged(saṅkalpya) the-two-pure(vimalau) solar(sauram) indeed(eva) and(ca)
+[abundant-seat](prabhūtāsana) [resolve](saṅkalpya) [pure](vimalau) [solar](saurameva) [and](ca)
 
 ## mukta-m0-p56-v1378
-radiant-etc.(dīpta+āti) facing-all-directions(sarvataḥ+mukhyā) sun-seat(arka+āsana) khaṣolkaka(khaṣolkaka)
+[blazing](dīptāti) [all-facing](sarvatomukhyā) [sun-seat](arkāsana) [eclipse-planet](khaṣolkaka)
 
 ## mukta-m0-p56-v1379
-with-bindu-and-nāda(bindu+nāda+samāyuktam) the-infinite(anantaṃ) with-rudra(rudra+saṃyutam)
+[bindu-sound-joined](bindunādasamāyuktam) [endless](anantaṃ) [rudra-joined](rudra+saṃyutam)
 
 ## mukta-m0-p56-v1380
-ending-with-namas(namaḥ+uttam) sun(sūryam) having-uttered(uccārya) solar-worship(saura+saṃpūjanaṃ) do(kuru)
+[salutation-high](namottaṃ) [sun](sūryam) [utter](uccārya) [solar-worship](saurasaṃpūjanaṃ) [do](kuru)
 
 ## mukta-m0-p56-v1381
-two-eyed(dvi+netraṃ) beautiful-faced(cāru+vadanaṃ) with-red-garland-and-unguent(rakta+mālā+anulepanam)
+[two-eyed](dvinetraṃ) [beautiful-faced](cāruvadanaṃ) [red-garland-anointed](raktamālānulepanam)
 
 ## mukta-m0-p56-v1382
-endowed-with-fearlessness-and-boon(abhayaṃ+varada+upetaṃ) adorned-with-halo(prabhā+maṇḍala+maṇḍitam)
+[fearless](abhayaṃ) [boon-giving](varadopetaṃ) [radiance-orb-decorated](prabhāmaṇḍalamaṇḍitam)
 
 ## mukta-m0-p56-v1383
-lotus-seated(padma+sthaṃ) or(vā) mounted-on-chariot(ratha+āroham) accompanied-by-aruṇa(aruṇena+samanvitam)
+[lotus-seated](padmasthaṃ) [or](vā) [chariot-mounted](rathāroham) [ruddy](aruṇena) [accompanied](samanvitam)
 
 ## mukta-m0-p56-v1384
-moon(soma) mars(aṅgāraka) mercury(saumyāḥ) and(ca) jupiter(guru) venus(śukra) saturn(śanaiścarān)
+[moon-mars-mercury](somāṅgārakasaumyāśca) [jupiter-venus-saturn](guruśukraśanaiścarān)
 
 ## mukta-m0-p56-v1385
-milk-rice(kṣīra+anna) one-should-offer(dāpayet) afterwards(paścāt) incense-lamp-etc.(dhūpa+dīpa+ādikaṃ) should-give(dadet)
+[milk-rice](kṣīrānna) [give](dāpayet) [after](paścād) [incense-lamp-etc](dhūpadīpādikaṃ) [give](dadet)
 
 ## mukta-m0-p56-v1386
-foot-washing(pāda+prakṣālanaṃ) having-done(kṛtvā) before-the-deity(deva+agre) maṇḍala(maṇḍalaṃ) make(kuru)
+[foot-washing](pādaprakṣālanaṃ) [do](kṛtvā) [before-deity](devāgre) [circle](maṇḍalaṃ) [make](kuru)
 
 ## mukta-m0-p56-v1387
-sixteen-fingers-measure(ṣoḍaśa+aṅgula+māyāmaṃ) endowed-with-square-shape(caturaśra+samanvitam)
+[sixteen-angula-measure](ṣoḍaśāṅgulamāyāmaṃ) [square-endowed](caturaśrasamanvitam)
 
 ## mukta-m0-p56-v1388
-place-purification(sthāna+śuddhiṃ) and(ca) should-be-done(kartavyaṃ) with-mantra(bhūmiḥ+bhūmne+iti+mantrataḥ)
+[place-purification](sthānaśuddhiṃ) [and](ca) [do](kartavyaṃ) [earth-earth](bhūmirbhūmneti) [mantra](mantrataḥ)
 
 ## mukta-m0-p56-v1389
-of-the-deity(devasya) on-right-side(dakṣiṇe+pārśve) as-desired(yathā+iṣṭaṃ) mentally(mānasaṃ) one-should-place(nyaset)
+[of-deity](devasya) [right-side](dakṣiṇe) [side](pārśve) [as-desired](yatheṣṭaṃ) [mental](mānasaṃ) [place](nyaset)
 
 ## mukta-m0-p56-v1390
-ash-nyāsa(bhasma+nyāsaṃ) hand-nyāsa(kara+nyāsaṃ) limb-nyāsa(aṅga+nyāsaṃ) indeed(tu) one-should-perform(kārayet)
+[ash-nyasa](bhasmanyāsaṃ) [hand-nyasa](karanyāsaṃ) [limb-nyasa](aṅganyāsaṃ) [and](tu) [do](kārayet)
 
 ## mukta-m0-p56-v1391
-or(athavā) one-vessel(pātram+ekaṃ) indeed(tu) for-foot-water-sipping-and-arghya(pādyam+ācamana+arghyakam)
+[or](athavā) [vessel-one](pātramekaṃ) [tu](tu) [foot-water-mouth-water-offering](pādyamācamanārghyakam)
 
 ## mukta-m0-p56-v1392
-above-tripod(tri+pāda+ūrdhve) standing(sthitaṃ) conch(śaṅkham) inversion(avakuṇḍanam) one-should-perform(ācaret)
+[three-above](tripādūrdhve) [standing](sthitaṃ) [conch](śaṅkham) [bathing-rite](avakuṇḍanam) [perform](ācaret)
 
 ## mukta-m0-p56-v1393
-with-consecration-by-left-hand(savya+hasta+abhimantreṇa) śiva-gāyatrī(śiva+gāyatrikaṃ) one-should-recite(japet)
+[left-hand-mantra](savyahastābhimantreṇa) [shiva-gayatri](śivagāyatrikaṃ) [chant](japet)
 
 ## mukta-m0-p56-v1394
-conch-base(śaṅkha+mūlaṃ) dddharādevi(dddharādevi) of-mrakṣāṇāṃ(mrakṣāṇāṃ) having-viṣṇu-as-deity(viṣṇu+devatam)
+[conch-root](śaṅkhamūlaṃ) [dddharā-devi](dddharādevi) [of-unguents](mrakṣāṇāṃ) [vishnu-deity](viṣṇudevatam)
 
 ## mukta-m0-p56-v1395
-in-mouth(mukhe) and(ca) seven-holy-waters(sapta+tīrthāni) one-should-cause-to-enter(praveśet) having-moon-as-deity(candra+devatā)
+[in-mouth](mukhe) [ca](ca) [seven-tirthas](saptatīrthāni) [enter](praveśeccandradevatā)
 
 ## mukta-m0-p56-v1396
-circular(vṛttam) support-power(ādhāra+śaktiḥ) and(ca) thus(iti) these(ete) presiding-deities(adhi+devatā)
+[circle-support-power](vṛttamādhāraśaktiśca) [these](ityete) [presiding-deities](adhidevatā)
 
 ## mukta-m0-p56-v1397
-vṛṣeśvara(vṛṣeśvaraṃ) likewise(tathā) in-east(pūrve) on-left-of-bull(vṛṣa+vāme) indeed(tu) in-sun(bhāskare)
+[bull-lord](vṛṣeśvaraṃ) [and](tathā) [east](pūrve) [bull-left](vṛṣavāme) [tu](tu) [sun](bhāskare)
 
 ## mukta-m0-p56-v1398
-in-gaṇeśa(gaṇeśe) in-southwest-direction(nai-ṛte+deśe) on-his-left(tat+vāme) in-lotus-born(kamala+udbhave)
+[ganesh](gaṇeśe) [southwest](nai-ṛte) [region](deśe) [that-left](tadvāme) [lotus-born](kamalodbhave)
 
 ## mukta-m0-p56-v1399
-in-north(saumye) indeed(tu) dancing-form(nṛtta+mūrtiṃ) and(ca) in-northeast(īśāne) kṣetrapālaka(kṣetra+pālakam)
+[auspicious](saumye) [tu](tu) [dance-form](nṛttamūrtiṃ) [ca](ca) [northeast](īśāne) [field-protector](kṣetrapālakam)
 
 ## mukta-m0-p56-v1400
-between-soma-and-śaṅkara(soma+śaṅkarayoḥ+madhye) devotees-etc.(bhakta+ādīn) one-should-place(vinyaset) in-order(kramāt)
+[moon-shankara-middle](somaśaṅkarayormadhye) [devotees-etc](bhaktādīnvinyaset) [in-order](kramāt)

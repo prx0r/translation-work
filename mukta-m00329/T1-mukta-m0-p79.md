@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p79-v1951
-bath+pit+of(east)(snānaśvabhrasya) then(establishment)(sthāpana) in+order(kramaḥ)(kramataḥ) should+place(nyaset)
+[bathing-pit-gen](snānaśvabhrasya) [east-loc](pūrve) [indeed](tu) [installation](sthāpana) [in-order](kramato) [should-place](nyaset)
 
 ## mukta-m0-p79-v1952
-in+good+moment(sumuhūrte) in+good+auspicious+time(sulagne) then(with+mantra+placement)(mantranyāsena) wise+one(buddhimān)
+[auspicious-moment-loc](sumuhūrte) [good-ascendant-loc](sulagne) [tu](tu) [mantra-nyāsa](mantranyāsena) [wise-one](buddhimān)
 
 ## mukta-m0-p79-v1953
-abundant+oblation(prabhūtahaviṣam) having+given(datvā) betel+leaf(tāmbūlam) and(ca) with+heart(hṛdā) gives(dadet)
+[abundant-offering](prabhūtahaviṣaṃ) [having-given](datvā) [betel](tāmbūlaṃ) [ca](ca) [heart-instr](hṛdā) [should-give](dadet)
 
 ## mukta-m0-p79-v1954
-village+procession(grāmapradakṣiṇam) having+done(kṛtvā) all+ornament+endowed(sarvālaṅkārasaṃyutam)
+[village-circumambulation](grāmapradakṣiṇaṃ) [having-done](kṛtvā) [all-ornaments-endowed](sarvālaṅkārasaṃyutam)
 
 ## mukta-m0-p79-v1955
-great+element+appeasement(mahābhūtapraśamanam) enemy+army+from+flight(parasenapalāyanam)
+[great-elements-pacification](mahābhūtapraśamanaṃ) [enemy-gen](parasena) [flight](palāyanam)
 
 ## mukta-m0-p79-v1956
-untimely+death+appeasement(akālamṛtyuśamanam) nine+planet+destruction(navagrahavināśanam)
+[untimely-death-pacification](akālamṛtyuśamanaṃ) [nine-planets-destruction](navagrahavināśanam)
 
 ## mukta-m0-p79-v1957
-on+fourteenth(caturdaśyām) or(eva) on+eighth(aṣṭamyām) in+fortnights+both(pakṣayoḥ)(pakṣayorubhayorapi)
+[fourteenth-tithi-loc](caturdaśyām) [or](atha) [eighth-loc](aṣṭamyāṃ) [fortnights-both-loc](pakṣayorubhayorapi)
 
 ## mukta-m0-p79-v1958
-nakṣatra+worship(nakṣatrayajanam) should+do(kuryāt) all+desired+accomplishment(sakalābhiṣṭasiddhaye)
+[constellation-worship](nakṣatrayajanaṃ) [should-do](kuryāt) [all-desires-accomplishment-dat](sakalābhiṣṭasiddhaye)
 
 ## mukta-m0-p79-v1959
-in+that+middle(tanmadhye) altar(vedikām) should+make(kuryāt) quality+part+one+part(guṇabhāgaikabhāgataḥ)
+[that-middle-loc](tanmadhye) [altar](vedikāṃ) [should-make](kuryād) [quality-share-one-share-abl](guṇabhāgaikabhāgataḥ)
 
 ## mukta-m0-p79-v1960
-with+niśibhadra+joined(niśibhadrasamāyuktam) uneven+high+low+devoid(nimnonnatavivarjitam)
+[night-bhadra-endowed](niśibhadrasamāyuktaṃ) [low-high-devoid](nimnonnatavivarjitam)
 
 ## mukta-m0-p79-v1961
-horse(turagam) or(eva) then(vā) bull(vṛṣabham) should+fashion(kalpayed) at+front+sides(agrapārśvayoḥ)
+[horse](turagaṃ) [or](vā) [bull](vṛṣabhaṃ) [should-arrange](kalpayet) [front-sides-loc](agrapārśvayoḥ)
 
 ## mukta-m0-p79-v1962
-kailāsa(kailāsam) should+fashion(kalpayet) in+middle(madhye) rice+flour+made(śālipiṣṭamayena) that(tu)
+[kailāsa](kailāsaṃ) [should-make](kalpayen) [middle-loc](madhye) [rice-flour-made-instr](śālipiṣṭamayena) [tu](tu)
 
 ## mukta-m0-p79-v1963
-four+finger+height(caturaṅgulam)(caturaṅgulamutsedham) uneven+high+low+devoid(nimnonnatavivarjitam)
+[four-fingers-height](caturaṅgulamutsedhaṃ) [low-high-devoid](nimnonnatavivarjitam)
 
 ## mukta-m0-p79-v1964
-sun+number(bhānusaṅkhyā) great+lotus(mahābjam) and(ca) linga+ninety+six(liṅgaṣaṇṇavati) they+know(viduḥ)
+[sun-number](bhānusaṅkhyā) [great-lotus](mahābjaṃ) [ca](ca) [liṅga-sixty-nine](liṅgaṣaṇṇavati) [know](viduḥ)
 
 ## mukta-m0-p79-v1965
-white+color+in+order(śuklavarṇakrameṇa) indeed(eva) should+fashion(kalpayet) former+path(pūrvavartmanā)
+[white-color-order-instr](śuklavarṇakrameṇaiva) [should-make](kalpayet) [previous-path-instr](pūrvavartmanā)
 
 ## mukta-m0-p79-v1966
-having+ascertained(niścitya) from+day(divasāt) before(pūrve) in+ninth(navame) in+seventh(saptame) or(atha)(athavā)
+[having-decided](niścitya) [days-abl](divasāt) [before](pūrve) [ninth-loc](navame) [seventh-loc](saptame) [or](athavā)
 
 ## mukta-m0-p79-v1967
-from+that+before(tatpūrvāt) in+all+directions(paritaḥ) straw+etc(straṇādini)(straṇādini) having+removed(vyapohya) and(ca)
+[that-before-etc](tatpūrvādini) [around](paritaḥ) [straw-etc](straṇādini) [having-removed](vyapohya) [ca](ca)
 
 ## mukta-m0-p79-v1968
-at+sunset(astamātreṇa) at+that+base(tanmūle) around(paritaḥ) four+cornered(caturaśrakam)
+[sunset-measure-instr](astamātreṇa) [that-root-loc](tanmūle) [around](paritaḥ) [square](ścaturaśrakam)
 
 ## mukta-m0-p79-v1969
-with+fragrance+etc(gandhādibhiḥ)(gandhādibhisamabhyarcya) with+root+mantra(mūlamantreṇa) of+good+vow(suvrata)
+[sandal-etc-instr](gandhādibhisamabhyarcya) [root-mantra-instr](mūlamantreṇa) [good-vow](suvrata)
 
 ## mukta-m0-p79-v1970
-curd+rice(daddhyodanam)(daddhyodana) bali(balim) having+given(datvā) to+forest+deity(vanadevāya) for+satisfaction(tṛptaye)
+[curd-rice](daddhyodana) [offering](baliṃ) [having-given](datvā) [forest-deity-dat](vanadevāya) [satisfaction-dat](tṛptaye)
 
 ## mukta-m0-p79-v1971
-at+japa+end(japānte) should+gather(saṅgrahet) learned+one(vidvān) bilva+tree(bilvavṛkṣam) with+root(samūlakam)
+[japa-end-loc](japānte) [should-gather](saṅgrahed) [learned-one](vidvān) [bilva-tree](bilvavṛkṣaṃ) [with-root](samūlakam)
 
 ## mukta-m0-p79-v1972
-with+newly+born(sadyojātena) having+joined(saṃyojya) root+form+rite+endowed(mūlamūrtikriyānvitam)
+[sadyojāta-instr](sadyojātena) [joining](saṃyojya) [root-image-rite-endowed](mūlamūrtikriyānvitam)
 
 ## mukta-m0-p79-v1973
-fruit(phalam) with+face(vaktreṇa) should+be+grasped(saṅgrāhyā) in+Īśāna(īśāne) flower(kusumam) should+take(gṛhet)
+[fruit](phalaṃ) [mouth-instr](vaktreṇa) [should-take](saṅgrāhyā) [īśāna-loc](īśāne) [flower](kusumaṃ) [should-take](gṛhet)
 
 ## mukta-m0-p79-v1974
-all+ornament+endowed(sarvālaṅkārasaṃyuktam) svasti+sūkta+accompanied(svastisūktasamanvitam)
+[all-ornaments-endowed](sarvālaṅkārasaṃyuktaṃ) [svasti-sūkta-endowed](svastisūktasamanvitam)
 
 ## mukta-m0-p79-v1975
-cow+dung+smearing(gomayālepanam) having+done(kṛtvā) with+rice+flour+powders(piṣṭacūrṇaiḥ)(piṣṭacūrṇervicitrayet)
+[cow-dung-smearing](gomayālepanaṃ) [having-done](kṛtvā) [flour-powder-instr](piṣṭacūrṇervicitrayet)

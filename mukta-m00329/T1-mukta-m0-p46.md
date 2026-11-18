@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p46-v1126
-[three-eyed](tri+netrāḥ) [and](ca) [four-armed](catur+bāhuṃ) [with-crescent-moon-made-crest](bāla+indu+kṛta+śekharaḥ)
+[three+eyed+and](triṇetrāśca) [four+armed](caturbāhuṃ) [crescent+moon+made+crown](bālendukṛtaśekharaḥ)
 
 ## mukta-m0-p46-v1127
-[endowed-with-sacred-thread](yajñopavīta+saṃyuktā) [adorned](alaṅkṛtam) [with-two-earrings](kuṇḍalābhyām)
+[sacred+thread+joined](yajñopavītasaṃyuktā) [earrings+by+adorned](kuṇḍalābhyamalaṅkṛtam)
 
 ## mukta-m0-p46-v1128
-[with-boon-granting-and-fear-dispelling-hands](varada+abhaya+hastābhyāṃ) [holding-black-antelope-skin-and-axe](kṛṣṇa+aparaśu+dhāriṇaḥ)
+[boon+and+fear+handed](varadābhayahastābhyāṃ) [black+axe+bearing](kṛṣṇāparaśudhāriṇaḥ)
 
 ## mukta-m0-p46-v1129
-[special-rule](viśeṣaṃ) [but](tu) [I-shall-declare](pravakṣyāmi) [in-Umā-Skanda-Maheśvara](umā+skanda+maheśvare)
+[distinction+but+will+declare](viśeṣaṃ) [tu](tu) [pravakṣyāmi](pravakṣyāmi) [umā+skanda+maheshvara](umāskandamaheśvare)
 
 ## mukta-m0-p46-v1130
-[by-the-aforementioned-measure](pūrva+uktena) [by-standard](pramāṇena) [endowed-with-five-seats](pañca+āsana) [united](samāyutam)
+[previously+stated+measure](pūrvoktena) [pramāṇena](pramāṇena) [five+seated+with](pañcāsana) [samāyutam](samāyutam)
 
 ## mukta-m0-p46-v1131
-[auspicious-and-inauspicious](śubha+aśubhaṃ) [should-observe](nirīkṣantu) [properly-done](samyak+kṛtvaṃ) [indeed](tu) [the-wise-one](buddhimān)
+[auspicious+inauspicious](śubhāśubhaṃ) [inspect](nirīkṣantu) [well+done](samyakkṛtvaṃ) [tu](tu) [intelligent](buddhimān)
 
 ## mukta-m0-p46-v1132
-[by-Umā's-arm-measure](umāya) [by-measure](bāhu+mānena) [Skanda's-measure](skanda+mānaṃ) [they-declare](pracakṣate)
+[mumāya](mumāya) [arm+measure](bāhumānena) [skanda+measure](skandamānaṃ) [declare](pracakṣate)
 
 ## mukta-m0-p46-v1133
-[by-the-deity's-primary-measure](devasya+ādya+pramāṇena) [the-seat](āsanaṃ) [indeed](tu) [especially](viśeṣataḥ)
+[god+first+measure](devasyādyapramāṇena) [seat+but+especially](āsanaṃ) [tu](tu) [viśeṣataḥ](viśeṣataḥ)
 
 ## mukta-m0-p46-v1134
-[by-three-divisions](tri+bhāge) [inferior](adhamaṃ) [one-should-know](vidyāt) [threefold-seat](trividham+āsana) [is-remembered](smṛtam)
+[three+part+lowest](tribhāgeradhamaṃ) [know](vidyāt) [threefold+seat+remembered](trividhamāsanasmṛtam)
 
 ## mukta-m0-p46-v1135
-[face-part](mukha+bhāgaṃ) [having-determined](viniścitya) [with-twenty-four-hundred-aṅgulas](caturviṃśat+śata+aṅgulaiḥ)
+[face+part](mukhabhāgaṃ) [determining](viniścitya) [twenty+four+hundred+finger](caturviṃśacchatāṅgulaiḥ)
 
 ## mukta-m0-p46-v1136
-[by-nine-and-a-half-measure](nuva+ardha+kāla+mānena) [the-form-of-Skanda](skanda+rūpaṃ) [indeed](tu) [one-should-make](kārayet)
+[skanda+form+make](nuvāddhakālamānena) [skandarūpaṃ](skandarūpaṃ) [tu](tu) [kārayet](kārayet)
 
 ## mukta-m0-p46-v1137
-[one-faced](eka+vaktraṃ) [great-armed](mahā+bāhu) [blue-throated-Śiva](nila+śiva) [of-great-splendor](mahā+dyutiḥ)
+[one+faced](ekavaktraṃ) [great+armed](mahābāhu) [blue+shiva+great+radiance](nilaśiva) [mahadyutiḥ](mahadyutiḥ)
 
 ## mukta-m0-p46-v1138
-[on-the-right](dakṣiṇe) [hanging-foot](lambitaṃ) [foot](padam) [left-foot](vāma+pādaṃ) [seated-evenly](samāsanam)
+[right+hanging+foot](dakṣiṇe) [lambitaṃ](lambitaṃ) [padaṃ](padaṃ) [left+foot+seated](vāmapādaṃ) [samāsanam](samāsanam)
 
 ## mukta-m0-p46-v1139
-[hand-granting-boon-with-flower](sa+puṣpa+varadaṃ) [hand](hastaṃ) [with-Gaurī](gauri+samyag) [especially](viśeṣataḥ)
+[flower+boon+hand](sapuṣpavaradaṃ) [hastaṃ](hastaṃ) [gauri+properly+especially](gaurisamyagviśeṣataḥ)
 
 ## mukta-m0-p46-v1140
-[this](idaṃ) [in-gentle-form](saumya+prakāreṇa) [granting-all-success](sarva+siddhi+karaṃ) [auspicious](śubham)
+[this](idaṃ) [gentle+manner](saumyaprakāreṇa) [all+success+making](sarvasiddhikaraṃ) [auspicious](śubham)
 
 ## mukta-m0-p46-v1141
-[endowed-with-various-ornaments](nānā+alaṅkāra+saṃyuktaṃ) [adorned-with-various-jewels](nānā+ābharaṇa+bhūṣitam)
+[various+ornament+joined](nānālaṅkārasaṃyuktaṃ) [various+jewel+adorned](nānābharaṇabhūṣitam)
 
 ## mukta-m0-p46-v1142
-[the-fierce-form](raudram+eva) [is-declared](samākhyātaṃ) [by-Pāśupata-and-other-forms](pāśupata+ādi+mūrtinā)
+[fierce+indeed+seat+called](raudramevāsamākhyātaṃ) [pashupata+etc+form](pāśupatādimūrtinā)
 
 ## mukta-m0-p46-v1143
-[right](dakṣiṇaṃ) [foot-seated](pādam+āsinaṃ) [Umā-devī](umā+devīṃ) [likewise](tatha+eva) [and](ca)
+[right+foot+seated](dakṣiṇaṃ) [pādamāsinaṃ](pādamāsinaṃ) [mumādevīṃ](mumādevīṃ) [tathaiva](tathaiva) [ca](ca)
 
 ## mukta-m0-p46-v1144
-[thus](evam) [mixed-form](iśraṃ) [is-declared](samākhyātaṃ) [in-the-Lākula](lākule) [not](na+eva) [one-should-make](kārayet)
+[thus+mixed+called](evamiśraṃ) [samākhyātaṃ](samākhyātaṃ) [lakula+not+make](lākule) [naiva](naiva) [kārayet](kārayet)
 
 ## mukta-m0-p46-v1145
-[then](tataḥ) [according-to-the-path-taught-in-scripture](śāstra+ukta+mārgeṇa) [Paśupada-and-others](paśupada+ādi) [one-should-make](kārayet)
+[then+scripture+path](tataḥ) [śāstroktamārgeṇa](śāstroktamārgeṇa) [pashupata+etc+make](paśupadādi) [kārayet](kārayet)
 
 ## mukta-m0-p46-v1146
-[therefore](tasmāt) [with-all-effort](sarva+prayatnena) [one-should-make](kārayet) [endowed-with-characteristics](lakṣaṇa+anvitam)
+[therefore+all+effort](tasmātsarvaprayatnena) [make+with+marks](kārayellakṣaṇānvitam)
 
 ## mukta-m0-p46-v1147
-[the-characteristics-of-the-image](pratimā+lakṣaṇaṃ) [declared](proktaṃ) [the-rule-of-Manonmanī](manonmani) [rite](vidhi) [listen](śṛṇu)
+[image+marks+declared](pratimālakṣaṇaṃ) [proktaṃ](proktaṃ) [manonmani](manonmani) [vidhi](vidhi) [śṛṇu](śṛṇu)
 
 ## mukta-m0-p46-v1148
-[first](prathamaṃ) [the-element-hall](bhūta+sālā) [and](ca) [second](dvitīyaṃ) [the-deity-hall](mūrti+sālakam)
+[first](prathamaṃ) [bhūtasālā](bhūtasālā) [ca](ca) [second](dvitīyaṃ) [mūrtisālakam](mūrtisālakam)
 
 ## mukta-m0-p46-v1149
-[fifth](pañcamaṃ) [the-scripture-hall](śāstra+sālā) [and](ca) [sixth](ṣaṣṭhaṃ) [the-serpent-hall](pannaka+sālakā)
+[fifth](pañcamaṃ) [śāstrasālā](śāstrasālā) [ca](ca) [sixth](ṣaṣṭhaṃ) [pannakasālakā](pannakasālakā)
 
 ## mukta-m0-p46-v1150
-[for-their-worship](tāsāṃ) [indeed](hi) [for-the-purpose-of-worship](pūjana+arthāya) [an-enclosure](prākāraṃ) [the-wise-one-should-construct](kalpayet) [wise-one](budhaḥ)
+[their](tāsāṃ) [hi](hi) [worship+for](pūjanārthāya) [wall](prākāraṃ) [arrange](kalpayed) [wise](budhaḥ)

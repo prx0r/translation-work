@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p32-v776
-[fuel-stick+ghee+rice-oblation+parched-grain](samidājya+caru+lājān) [each](pratyekaṃ) [and](ca) [specifically](viśeṣataḥ)
+[samidā](samidā) [ājya](ājya) [caru](caru) [ulājān](ulājān) [pratyekaṃ](pratyekaṃ) [ca](ca) [viśeṣataḥ](viśeṣataḥ)
 
 ## mukta-m0-p32-v777
-[of-that](tasya) [at-end](ante) [if](cet) [oblation](savam) [one-should-do](kuryāt) [with-all+ornaments+endowed](sarva+alaṅkāra+saṃyutam)
+[tasya](tasya) [ante](ante) [cet](cet) [savaṃ](savaṃ) [kuryāt](kuryāt) [sarva](sarva) [alaṅkāra](alaṅkāra) [saṃyutam](saṃyutam)
 
 ## mukta-m0-p32-v778
-[in-evening+time](sāyaṃ+kāle) [also](api) [to-be-done](kartavyaṃ) [in-morning+time](prātaḥ+kāle) [or](athavā) [it-may-be](bhavet)
+[sāyaṃkāle](sāyaṃkāle) [api](api) [kartavyaṃ](kartavyaṃ) [prātaḥkāle](prātaḥkāle) [athavā](athavā) [bhavet](bhavet)
 
 ## mukta-m0-p32-v779
-[afterwards](paścāt) [but](tu) [one-should-cause-to-do](kārayet) [at-night](naktaṃ) [with-all+ornaments+endowed](sarva+alaṅkāra+saṃyutam)
+[paścāt](paścāt) [tu](tu) [kārayet](kārayet) [naktaṃ](naktaṃ) [sarva](sarva) [alaṅkāra](alaṅkāra) [saṃyutam](saṃyutam)
 
 ## mukta-m0-p32-v780
-[thus](evam) [indeed](eva) [by-method](vidhānena) [one-should-cause-to-do](kārayet) [at-festival+end](utsava+antake)
+[evameva](evameva) [vidhānena](vidhānena) [kārayet](kārayet) [utsava](utsava) [antake](antake)
 
 ## mukta-m0-p32-v781
-[here](iha) [indeed](eva) [wealthy](dhanavān) [prosperous](śrīmān) [in-śiva+world](śiva+loke) [is-honored](mahīyate)
+[hi](hi) [eva](eva) [dhanavān](dhanavān) [śrīmān](śrīmān) [śivaloke](śivaloke) [mahīyate](mahīyate)
 
 ## mukta-m0-p32-v782
-[devotee+festival+end](bhakta+utsava+anta) [to-be-done](kartavyaṃ) [in-māgha](mādau) [also](api) [and](ca) [one-should-cause-to-do](kārayet)
+[bhakta](bhakta) [utsava](utsava) [antaka](antaka) [kartavyaṃ](kartavyaṃ) [mādāvapi](mādāvapi) [ca](ca) [kārayet](kārayet)
 
 ## mukta-m0-p32-v783
-[by-sacrifice+pavilion+way](yāga+maṇḍapa+mārgeṇa) [one-should-cause-to-do](kārayet) [by-eastern+way](pūrva+mārgataḥ)
+[yāga](yāga) [maṇḍapa](maṇḍapa) [mārgeṇa](mārgeṇa) [kārayet](kārayet) [pūrva](pūrva) [mārgataḥ](mārgataḥ)
 
 ## mukta-m0-p32-v784
-[twelve+finger](dvādaśa+aṅgula) [height](utsedhaṃ) [mirror+belly+resembling](darpaṇa+udara+sannibham)
+[dvādaśa](dvādaśa) [aṅgula](aṅgula) [utsedhaṃ](utsedhaṃ) [darpaṇa](darpaṇa) [udara](udara) [sannibham](sannibham)
 
 ## mukta-m0-p32-v785
-[weapon](astraṃ) [and](ca) [protective-thread](kautukaṃ) [and](ca) [indeed](eva) [in-west](paścime) [should-place](sthāpayet) [the-wise-one](budhaḥ)
+[astraṃ](astraṃ) [ca](ca) [kautukaṃ](kautukaṃ) [ca](ca) [eva](eva) [paścime](paścime) [sthāpayet](sthāpayet) [budhaḥ](budhaḥ)
 
 ## mukta-m0-p32-v786
-[with-five-products-of-cow](pañcagavyena) [having-sprinkled](saṃprokṣya) [with-pavamāna](pāvamānena) [one-should-sprinkle](prokṣayet)
+[pañcagavyena](pañcagavyena) [saṃprokṣya](saṃprokṣya) [pāvamānena](pāvamānena) [prokṣayet](prokṣayet)
 
 ## mukta-m0-p32-v787
-[altar](sthaṇḍilaṃ) [one-should-make](kārayed) [on-platform](vedyāṃ) [nine+pots](nava+kumbhāni) [one-should-place](sthāpayet)
+[sthaṇḍilaṃ](sthaṇḍilaṃ) [kārayet](kārayet) [vedyāṃ](vedyāṃ) [nava](nava) [kumbhāni](kumbhāni) [sthāpayet](sthāpayet)
 
 ## mukta-m0-p32-v788
-[with-fragrance+flower+etc.](gandha+puṣpa+ādinā) [having-worshipped](pūjya) [ten+weapons](daśa+āyudhāni) [one-should-arrange](vinyaset)
+[gandha](gandha) [puṣpa](puṣpa) [ādinā](ādinā) [pūjya](pūjya) [daśa](daśa) [āyudhāni](āyudhāni) [vinyaset](vinyaset)
 
 ## mukta-m0-p32-v789
-[thus](evam) [indeed](eva) [by-method](vidhānena) [one-should-cause-to-do](kārayet) [teacher+best](deśika+uttamaḥ)
+[evameva](evameva) [vidhānena](vidhānena) [kārayet](kārayet) [deśika](deśika) [uttamaḥ](uttamaḥ)
 
 ## mukta-m0-p32-v790
-[at-night](rātrau) [thus](evaṃ) [to-be-done](prakartavyaṃ) [in-morning+time](prātaḥ+kāle) [śiva](śivaṃ) [one-should-worship](yajet)
+[rātrau](rātrau) [hevaṃ](hevaṃ) [prakartavyaṃ](prakartavyaṃ) [prātaḥkāle](prātaḥkāle) [śivaṃ](śivaṃ) [yajet](yajet)
 
 ## mukta-m0-p32-v791
-[weapon](astraṃ) [and](ca) [protective-thread](kautukaṃ) [and](ca) [indeed](eva) [according-to+availability](yathā+lābhaṃ) [in-measure](pramāṇataḥ)
+[astraṃ](astraṃ) [ca](ca) [kautukaṃ](kautukaṃ) [ca](ca) [eva](eva) [yathālābhaṃ](yathālābhaṃ) [pramāṇataḥ](pramāṇataḥ)
 
 ## mukta-m0-p32-v792
-[abundant+oblation](prabhūta+haviṣaṃ) [one-should-give](dadyād) [to-devotees](bhaktānāṃ) [one-should-distribute](dāpayet) [in-order](kramāt)
+[prabhūta](prabhūta) [haviṣaṃ](haviṣaṃ) [dadyād](dadyād) [bhaktānāṃ](bhaktānāṃ) [dāpayet](dāpayet) [kramāt](kramāt)
 
 ## mukta-m0-p32-v793
-[with-sandhyā+omission](sadhyā+lopam) [not](na) [to-be-done](kartavyaṃ) [on-flower+etc.](puṣpa+āhi) [upon](upari) [one-should-worship](pūjayet)
+[sadhyālopaṃ](sadhyālopaṃ) [na](na) [kartavyaṃ](kartavyaṃ) [puṣpa](puṣpa) [āhyopari](āhyopari) [pūjayet](pūjayet)
 
 ## mukta-m0-p32-v794
-[full+offering](pūrṇa+āhutiṃ) [then](tato) [one-should-give](dadyāt) [with-prāsāda](prāsādena) [indeed](tu) [with-mantra](mantrataḥ)
+[pūrṇāhutiṃ](pūrṇāhutiṃ) [tato](tato) [dadyāt](dadyāt) [prāsādena](prāsādena) [tu](tu) [mantrataḥ](mantrataḥ)
 
 ## mukta-m0-p32-v795
-[in-nine+days](nava+ahe) [and](ca) [indeed](eva) [in-seven+days](sapta+ahe) [in-five+days](pañca+ahe) [in-three+days](tri+ahe) [or](atha) [or](vā)
+[navāhe](navāhe) [ca](ca) [eva](eva) [saptāhe](saptāhe) [pañcāhe](pañcāhe) [triyahe](triyahe) [adha](adha) [vā](vā)
 
 ## mukta-m0-p32-v796
-[in-one+day](eka+ahe) [one-should-cause-to-do](kārayet) [the-wise-one](dhīmān) [flower+powder](puṣpa+cūrṇaṃ) [with-characteristics](sa+lakṣaṇaṃ)
+[ekāhe](ekāhe) [kārayet](kārayet) [dhīmān](dhīmān) [puṣpa](puṣpa) [cūrṇaṃ](cūrṇaṃ) [salakṣaṇaṃ](salakṣaṇaṃ)
 
 ## mukta-m0-p32-v797
-[expiation](prāyaḥ+cittam) [thus](iti) [said](uktaṃ) [mind](cittaṃ) [arising-from-that](mudbhavam) [is-called](ucyate)
+[prāyaprahiṇam](prāyaprahiṇam) [ityuktaṃ](ityuktaṃ) [cittaṃ](cittaṃ) [mudbhavam](mudbhavam) [ucyate](ucyate)
 
 ## mukta-m0-p32-v798
-[of-ācārya+etc.](ācārya+ādi) [of-four](caturṇāṃ) [indeed](tu) [expiation](prāyaścittaṃ) [is-prescribed](vidhīyate)
+[ācāryādi](ācāryādi) [caturṇāṃ](caturṇāṃ) [tu](tu) [prāyaścittaṃ](prāyaścittaṃ) [vidhīyate](vidhīyate)
 
 ## mukta-m0-p32-v799
-[with-aghora+weapon](āghora+astreṇa) [with-mantra](mantreṇa) [thirty+oblations](triṃśati+āhutiḥ) [should-be](bhavet)
+[āghorāstreṇa](āghorāstreṇa) [mantreṇa](mantreṇa) [triṃśatyā](triṃśatyā) [āhutir](āhutir) [bhavet](bhavet)
 
 ## mukta-m0-p32-v800
-[brahmins](brahmaṇān) [one-should-feed](bhojayet) [there](tatra) [then](tataḥ) [rite](karma) [one-should-begin](samārabhet)
+[brahmaṇān](brahmaṇān) [bhojayet](bhojayet) [tatra](tatra) [tataḥ](tataḥ) [karma](karma) [samārabhet](samārabhet)

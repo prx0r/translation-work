@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p28-v676
-in-morning-time(prātaḥ+kāle) having-worshipped(samabhyarcya) having-brought(ānīya) in-pavilion(maṇḍape) auspicious(śubhe)
+[morning-time](prātaḥkāle) [worship](samabhyarcya) [bring](ānīyā) [pavilion](maṇḍape) [auspicious](śubhe)
 
 ## mukta-m0-p28-v677
-with-Tryambaka-mantra(triyambakena+mantreṇa) one-should-worship(arcayet) dancing-image(nṛtta+bimbakam)
+[with-triyambaka](triyambakena) [mantra](mantreṇa) [worship](arcayennṛttabimbakam)
 
 ## mukta-m0-p28-v678
-afterwards(paścāt) of-the-goddess(devyāḥ) likewise(tathā) with-gaze(dṛṣṭyā) to-the-teacher(ācāryāya) one-should-give(pradāpayet)
+[afterwards](paścād) [of-goddess](devyāstathā) [by-sight](dṛṣṭyā) [to-teacher](ācāryāya) [give](pradāpayet)
 
 ## mukta-m0-p28-v679
-auspicious-day-declaration(puṇyāham) one-should-cause-to-recite(vācayet) there(tatra) brahmins(brāhmaṇān) one-should-feed(bhojayet) then(tataḥ)
+[auspicious-day](puṇyāhaṃ) [recite](vācayet) [there](tatra) [brahmins](brāhmaṇān) [feed](bhojayet) [then](tataḥ)
 
 ## mukta-m0-p28-v680
-by-method-of-fragrance-preparation(gandha+yukti+vidhānena) one-should-make(kārayet) fragrance(gandham) excellent(uttamam)
+[scent-rite-procedure](gandhayuktividhānena) [make](kārayedgandhamuttamam)
 
 ## mukta-m0-p28-v681
-with-heart-mantra(hṛdayena+eva+mantreṇa) one-should-sprinkle(prokṣayet) with-fragrant-water(gandha+vāriṇā)
+[by-heart](hṛdayenaiva) [mantra](mantreṇa) [sprinkle](prokṣayed) [scent-water](gandhavāriṇā)
 
 ## mukta-m0-p28-v682
-of-the-weapon-mantra(astrasya) of-the-initiated(dīkṣitasya) indeed(eva) of-the-root-liṅga(mūla+liṅgasya) one-should-give(dāpayet)
+[of-weapon](astrasya) [of-initiated](dīkṣitasyaiva) [of-root-linga](mūlaliṅgasya) [give](dāpayet)
 
 ## mukta-m0-p28-v683
-endowed-with-all-ornaments(sarva+alaṅkāra+saṃyuktam) accompanied-by-all-musical-instruments(sarva+ātodya+samanvitam)
+[all-ornament-endowed](sarvālaṅkārasaṃyuktaṃ) [all-instrument-accompanied](sarvātodyasamanvitam)
 
 ## mukta-m0-p28-v684
-slowly(śanaiḥ) circumambulation(pradakṣiṇam) one-should-perform(kuryāt) not-far(na+dūram) not(na) near(samīpataḥ)
+[slowly](śanaiḥ) [circumambulation](pradakṣiṇaṃ) [do](kuryānnadūraṃ) [not](na) [near](samīpataḥ)
 
 ## mukta-m0-p28-v685
-if-intact(saṃhite) intact(saṃhitam) one-should-make(kuryāt) if-broken(bhinne) broken(bhinnam) one-should-do(samācaret)
+[in-united](saṃhite) [united](saṃhitaṃ) [do](kuryād) [in-divided](bhinne) [divided](bhinnaṃ) [perform](samācaret)
 
 ## mukta-m0-p28-v686
-afterwards(paścāt) fire-offering(homam) bali-offering(balim) one-should-perform(kuryāt) festival(utsavam) after-that(tadanu) one-should-proceed(vrajet)
+[afterwards](paścāddhomaṃ) [offering](baliṃ) [do](kuryādutsavaṃ) [festival](tadanu) [go](vrajet)
 
 ## mukta-m0-p28-v687
-at-night(rātrau) thus(evam) should-be-done(prakartavyam) after-sunrise(udayāt+aparena) indeed(hi)
+[at-night](rātrāvevaṃ) [thus](prakartavyamudayādaparena) [indeed](hi)
 
 ## mukta-m0-p28-v688
-of-the-god(devasya) one-should-dismiss(visṛjet) the-constellation-offering(ṛkṣām) and(ca) fragrance(gandham) indeed(eva) but(tu) one-should-omit(varjayet)
+[of-god](devasya) [release](visṛjedṛkṣāṃ) [scent](gandhaṃ) [and](caiva) [but](tu) [avoid](varjayet)
 
 ## mukta-m0-p28-v689
-for-the-goddess(devyām) and(ca) one-should-perform(kārayet) likewise(tadvat) with-śakti-mantra(śakti+mantreṇa) the-wise-one(buddhimān)
+[in-goddess](devyāṃ) [and](ca) [do](kārayet) [likewise](tadvacchaktimantreṇa) [wise](buddhimān)
 
 ## mukta-m0-p28-v690
-afterwards(paścāt) waving-of-lights(nirañjanam) one-should-perform(kuryāt) by-rite-seen-in-scripture(śāstra+dṛṣṭena+karmaṇā)
+[afterwards](paścānnirañjanaṃ) [do](kuryācchāstradṛṣṭena) [rite](karmaṇā)
 
 ## mukta-m0-p28-v691
-abundant(prabhūtam) and(ca) food-offering(haviḥ) one-should-give(dadyāt) with-all-condiments(saha+sarva+upadaṃśakaiḥ)
+[abundant](prabhūtaṃ) [and](ca) [oblation](havirdadyāt) [with-all-side-dishes](sahasarvopadaṃśakaiḥ)
 
 ## mukta-m0-p28-v692
-order-of-serving(pariveṣa+kramam) one-should-perform(kuryāt) in-the-evening(sāye) and(ca) indeed(eva) especially(viśeṣataḥ)
+[serving-order](pariveṣakramaṃ) [do](kuryāt) [at-evening](sāye) [and](caiva) [especially](viśeṣataḥ)
 
 ## mukta-m0-p28-v693
-afterwards(paścāt) offering-to-Caṇḍeśa(caṇḍeśakam) one-should-perform(kuryāt) endowed-with-all-ornaments(sarva+alaṅkāra+saṃyutam)
+[afterwards](paścācchaṇḍeśakaṃ) [do](kuryāt) [all-ornament-endowed](sarvālaṅkārasaṃyutam)
 
 ## mukta-m0-p28-v694
-the-temple(ālayam) one-should-enter(praviśet) the-wise-one(dhīmān) in-the-Brāhma-muhūrta(brāhme) and(ca) indeed(eva) at-the-moment(muhūrtake)
+[temple](ālayaṃ) [enter](praviśeddhīmān) [brahma](brāhmai) [and](caiva) [moment](muhūrtake)
 
 ## mukta-m0-p28-v695
-afterwards(paścāt) having-removed(visṛjya) the-used-offerings(nirmālyam) ablution(abhiṣekam) indeed(hi) one-should-perform(kārayet)
+[afterwards](paścādvisṛjya) [faded-flowers](nirmālyam) [bathing](abhiṣekaṃ) [indeed](hi) [do](kārayet)
 
 ## mukta-m0-p28-v696
-afterwards(paścāt) waving-of-lights(nirañjanam) one-should-perform(kuryāt) abundant(prabhūtam) food-offering(haviṣam) one-should-give(dadet)
+[afterwards](paścānirañjanaṃ) [do](kuryāt) [abundant](prabhūtaṃ) [oblation](haviṣandadet)
 
 ## mukta-m0-p28-v697
-in-this-very-manner(evam+eva) by-procedure(vidhānena) one-should-perform(kārayet) the-best-teacher(deśika+uttamaḥ)
+[thus](evameva) [procedure](vidhānena) [do](kārayed) [best-teacher](deśikottamaḥ)
 
 ## mukta-m0-p28-v698
-the-root-image(mūla+bimbam) especially(viśeṣeṇa) one-should-worship(pūjayet) according-to-the-previous-method(pūrva+mārgataḥ)
+[root-image](mūlabimbaṃ) [especially](viśeṣeṇa) [worship](pūjayet) [former-path](pūrvamārgataḥ)
 
 ## mukta-m0-p28-v699
-the-teacher(ācāryam) one-should-honor(pūjayet) there(tatra) with-garments-gold-and-rings(vastra+hema+aṅgulīyakaiḥ)
+[teacher](ācāryaṃ) [worship](pūjayet) [there](tatra) [cloth-gold-ring](vastrahemāṅgulīyakaiḥ)
 
 ## mukta-m0-p28-v700
-beginning-with-tīrtha(tīrtha+ādi) in-the-previous-night(pūrva+rātrau) but(tu) protective-thread(kautukam) one-should-bind(bandhayet) with-the-heart-mantra(hṛdā)
+[tirtha-etc](tīrthādi) [previous-night](pūrvarātrau) [but](tu) [festival](kautukaṃ) [bind](bandhayeddhṛdā)
