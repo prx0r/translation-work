@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p17-v401
-[of-that](tasyāpi) [goddess](devi) [rite](saṃskāraṃ) [I-speak](bruve)+[external](bāhyam)+[then](atha)+[internal](aṃtaram)
+his+also goddess ritual tell external+then+internal
 
 ## mukta-m0-p17-v402
-[messenger](dūtikā) [life-lord](jīvanātha)+[also](api) [rite](saṃskāraṃ) [supremely-deserves](paramarhati)
+messenger life+lord+also ritual supreme+deserves
 
 ## mukta-m0-p17-v403
-[when](yad)+[not-attached](asaṃge)+[even](api) [called-life](jīvākhye) [in-Shiva](śive) [plays](khelati) [fearless](nirbhayā)
+that+unsullied+even life-named shiva plays fearless
 
 ## mukta-m0-p17-v404
-[own-life-called](svajīvākhya) [of-Mahesha](maheśasya) [instrument](bādya) [knowledge-obstructed](vidyāvakuṃṭhitaḥ)
+own+life-named great+lord's sound [kh: not+sound] knowledge+obstructed
 
 ## mukta-m0-p17-v405
-[impurity-removing](malāpanodikāḥ) [but](kiṃtu) [all](samastāḥ) [worship-procedures](pūjanakramāḥ)
+impurity-removing indeed all worship-rites
 
 ## mukta-m0-p17-v406
-[that](tat) [by-association](saṃsargavaśāt)+[pure](śuddha) [own-self](svātmā)+[also](api) [impure](malinī) [becomes](bhavet)
+that association+by pure self+even impure becomes
 
 ## mukta-m0-p17-v407
-[hearing-of-convention](samayaśravaṇaṃ) [of-her](tasyāḥ) [first](prathamaṃ) [declared](parikīrtitam)
+agreement+hearing her first declared
 
 ## mukta-m0-p17-v408
-[with-few-letters](alpavarṇena) [by-mantra](maṃtreṇa) [bond-burning](pāśanirdahakāriṇā)
+few+letters [kh: few+group] mantra bond+burning
 
 ## mukta-m0-p17-v409
-[not](na) [from-passion](rāgāt)+[not](na) [and](ca) [from-greed](lobhāt)+[or](vā) [not](na) [and](ca) [from-delusion](mohāt) [greater](mahīyasaḥ)
+not passion not greed nor delusion greater
 
 ## mukta-m0-p17-v410
-[by-nature](prakṛtyā)+[bewildered-mind](mugdhamanasaḥ)+[women](striyaḥ) [truth](tatvaṃ) [not](na) [know](jānate)
+nature+by bewildered+minded women truth not know
 
 ## mukta-m0-p17-v411
-[lying](śayāḥ)
+sleeping
 
 ## mukta-m0-p17-v412
-[breast-firming](stanottaṃbhana) [seen](dṛṣṭena) [youth](yauvanena) [intoxicated](madoddhatāḥ)
+breast+uplifted seen youth pride+intoxicated
 
 ## mukta-m0-p17-v413
-[distrust](aviśvāsaḥ) [in-all](samasteṣu) [faith](pratyaya)+[not](na) [of-guru](guror)+[mountain](giri)
+distrust all trust not guru mountain
 
 ## mukta-m0-p17-v414
-[thinking](manyamānāḥ)+[bad-conduct](durācārāḥ) [fall](pataṃti)+[in-hell](narake) [women](striyaḥ)
+thinking bad+conduct fall hell women
 
 ## mukta-m0-p17-v415
-[betel](tāṃbūlam)+[anointing](anulepaṃ) [and](ca) [garment](vāsaḥ)+[and](ca) [mouth-perfume](mukhavāsikā)
+betel anointing garment mouth+perfume
 
 ## mukta-m0-p17-v416
-[all-this](sarvametan) [of-Mahesha](maheśasya) [worship-means](pūjāsādhanam) [as](yathā)
+all this great+lord's worship+means as
 
 ## mukta-m0-p17-v417
-[our-body](asmadvapuḥ)+[this](idaṃ) [worthless](tucchaṃ) [for-worship](pūjāsādhanituṃ) [by-wise](budhaiḥ)
+our body this trivial worship+means wise
 
 ## mukta-m0-p17-v418
-[salvation](sālabheda)+[best](uttamān)+[worlds](lokān) [by-practitioner](sādhakena) [great-soul](mahātmanā)
+sal+division best worlds [kh: best+worlds] adept great+soul
 
 ## mukta-m0-p17-v419
-[in-Vishnu-world](viṣṇuloke) [in-Rudra-world](rudraloke) [play](krīḍaṃti) [with-many-delights](bahuvibhramāḥ)
+vishnu+world shiva+world play many+charms
 
 ## mukta-m0-p17-v420
-[thus](ityādibhiḥ)+[reason](yūkti) [endowed](yuktaiḥ)+[words](vacanaiḥ) [scripture-concordant](śāstrasammitaiḥ)
+thus+etc reasons words scripture+consistent
 
 ## mukta-m0-p17-v421
-[Anandabhairavi](ānaṃdabhairavīṃ) [and](ca)+[also](api) [by-mantra](maṃtreṇa)+[external](abāhya) [practitioner](sādhakaḥ)
+bliss+bhairavi also mantra external adept [kh: adepts]
 
 ## mukta-m0-p17-v422
-[in-triangle](tryaśre) [situated](sthitāḥ) [again](punaḥ) [worshipful](pūjyā) [desire](rati) [love](prīti) [mind-born](manobhavāḥ)
+triangle situated again worship desire pleasure love+god
 
 ## mukta-m0-p17-v423
-[Dravini](drāviṇī) [drying](śoṣiṇī) [and](ca)+[thus](evaṃ) [binding](baṃdhinī) [deluding](mohinī) [so](tathā)
+dravini drying indeed [kh: indeed] binding deluding thus
 
 ## mukta-m0-p17-v424
-[in-five-arrows](paṃcārasyāṃ) [movable](cale) [worshipful](pūjyāḥ) [Kamaraja-Maheshvari](kāmarājomaheśvarī)
+five+arrows in moving worship desire+king great+goddess [kh: great+lord]
 
 ## mukta-m0-p17-v425
-[mind-born](manobhavaḥ) [fifth](paṃcamaḥ)+[and](ca) [world-agitating](jagatkṣobhakarāḥ) [these](ime)
+love+god fifth and world+shaking these

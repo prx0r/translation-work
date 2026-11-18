@@ -2,16 +2,16 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p32-v776
-[arcayelliṃgam](arcayelliṃgam) [īśānam](īśānam) [iyamādyā](iyamādyā) [mayāhutiḥ](mayāhutiḥ)
+[arcayelliṃgam](arcayelliṃgam) [īśāna](īśāna) [miyamādyā](miyamādyā) [mayāhutiḥ](mayāhutiḥ)
 
 ## mukta-m0-p32-v777
-[caṃdragarbheti](caṃdragarbheti) [kāpyasti](kāpyasti) [nāḍīnalinalocane](nāḍīnalinalocane)
+[caṃdragarbha](caṃdragarbheti) [kāpyasti](kāpyasti) [nāḍī](nāḍī) [nalinalocane](nalinalocane)
 
 ## mukta-m0-p32-v778
-[tatratyamamṛtaṃ](tatratyamamṛtaṃ) [viddhi](viddhi) [kāmeśvaryuktibhūtidam](kāmeśvaryuktibhūtidam)
+[tatratyam](tatratyam) [amṛtaṃ](amṛtaṃ) [viddhi](viddhi) [kāmeśvaryuktibhūtidam](kāmeśvaryuktibhūtidam)
 
 ## mukta-m0-p32-v779
-[īṣatpāṭalavarṇaṃ](īṣatpāṭalavarṇaṃ) [ca](ca) [yūthikāsamasaurabham](yūthikāsamasaurabham)
+[īṣatpāṭala](īṣatpāṭalavarṇaṃ) [varṇaṃ](varṇaṃ) [ca](ca) [yūthikā](yūthikāsamasaurabham)
 
 ## mukta-m0-p32-v780
 [sabhavatyaṃ](sabhavatyaṃ) [samāpanno](samāpanno) [jaladatvaṃ](jaladatvaṃ) [vaśīkriyāt](vaśīkriyāt)
@@ -26,7 +26,7 @@
 [atradūtyāḥ](atradūtyāḥ) [śarīrasya](śarīrasya) [pūrvatrāpi](pūrvatrāpi) [daśābruve](daśābruve)
 
 ## mukta-m0-p32-v784
-[īṣadāraktatānetre](īṣadāraktatānetre) [kiṃcidbhūvallitāṃḍavaṃ](kiṃcidbhūvallitāṃḍavaṃ)
+[īṣadāraktatā](īṣadāraktatā) [netre](netre) [kiṃcidbhūvallitāṃḍavaṃ](kiṃcidbhūvallitāṃḍavaṃ)
 
 ## mukta-m0-p32-v785
 [ānaṃdanātha](ānaṃdanātha) [bhavana](bhavana) [bāhyakakṣyā](bāhyakakṣyā) [vigāhanam](vigāhanam)

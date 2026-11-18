@@ -2,52 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p40-v976
-bahu-nā-ki-miha-uktena sākṣāt-ānanda-dāyakaḥ
+[by-much](bahunākimihoktena) [direct-giver](sākṣādānaṃdadāyakaḥ)
+
 ## mukta-m0-p40-v977
-iti dvitīya-pātasya maṃtra-sannāma īritam
+[thus](iti) [second](dvitīya) [pāda](pātasya) [mantra-name](maṃtrasannāma) [declared](īritam)
+
 ## mukta-m0-p40-v978
-aṣṭa-bhoga-vatī dhatte mahā-sāmrājya nātha-tām
+[eight-bhogavatī](aṣṭabhogavatī) [bears](dhatte) [great-sovereignty](mahāsāmrājya) [lordship](nāthatām)
+
 ## mukta-m0-p40-v979
-sarva-ākāreṇa caitanya layaḥ sarva-aṃga-sundarī
+[all-forms](sarvākāreṇa) [consciousness](caitanya) [dissolution](layaḥ) [all-limbed-beautiful](sarvāṃgasuṃdarī)
+
 ## mukta-m0-p40-v980
-viśva-kṣati ca yat-kiṃcit-na ca nir-yāti vakrataḥ
+[universe](viśvakṣati) [whatever](yatkiṃcinna) [not](ca) [goes-out](niryāti) [crookedly](vakrataḥ)
+
 ## mukta-m0-p40-v981
-na ceṣṭā na ca saṃraṃbhaḥ na ca mohana kūjitam
+[not](na) [effort](ceṣṭā) [not](na) [ca](ca) [agitation](saṃraṃbho) [not](na) [ca](ca) [delusion](mohana) [cry](kūjitam)
+
 ## mukta-m0-p40-v982
-na daṃta-pātana-muṣṭi-ghātena ca ka ca grahaḥ
+[not](na) [tooth](daṃta) [falling](pātanomuṣṭi) [blow](ghātena) [and](ca) [ka](ka) [ca](ca) [graha](grahaḥ)
+
 ## mukta-m0-p40-v983
-na mekhalā-kala-kvāṇaḥ na līlā-saṃgama-bhaṃgayaḥ
+[not](na) [girdle](mekhalā) [sound](kalakvāṇo) [not](na) [play](līlāsaṃgamaṃgayaḥ)
+
 ## mukta-m0-p40-v984
-hṛdaya-sthāna janitaḥ kaṃpaḥ para-parāyate
+[heart-place](hṛdayasthāna) [born](janitaḥ) [trembling](kaṃpaḥ) [goes-beyond](paraparāyate)
+
 ## mukta-m0-p40-v985
-eka-aṣṭaka-mahā-yāga pakṣe-biṃduṃ sam-utsṛjet
+[one-eight](ekāṣṭakamahāyāga) [great-sacrifice](pakṣebiṃduṃ) [release](samutsṛjet)
+
 ## mukta-m0-p40-v986
-aṣṭa-aṣṭaka-mahā-yāge dūtya-aṣṭakam-ataḥ param
+[eight-eight](aṣṭāṣṭakamahāyāge) [messenger-eight](dūtyaṣṭakamataḥ) [then](param)
+
 ## mukta-m0-p40-v987
-iyam-eva hi śakteḥ-ca śaṃbhor-ekatayā sthitiḥ
+[this](iyameva) [indeed](hi) [of-śakti](śakteśca) [of-śambhu](śaṃbhorekatayā) [state](sthitiḥ)
+
 ## mukta-m0-p40-v988
-ittha-ānanda-yāgaḥ-ayaṃ kathitaḥ-te maheśvari
+[thus](itthamānaṃda) [sacrifice](yāgo'yaṃ) [told](kathitaste) [great-lady](maheśvari)
+
 ## mukta-m0-p40-v989
-bhavataḥ vadanāṃbhojāt su-śrutaḥ-aṣṭa-āhuti kramaḥ
+[from-your](bhavato) [lotus-mouth](vadanāṃbhojāt) [well-heard](suśruto'ṣṭāhuti) [order](kramaḥ)
+
 ## mukta-m0-p40-v990
-śrotuṃ vāṃcchāmi deveśa yāga-anantara-jaṃ kramam
+[to-hear](śrotuṃ) [desire](vāṃcchāmi) [lord](deveśa) [after-sacrifice](yāgānaṃtarajaṃ) [order](kramam)
+
 ## mukta-m0-p40-v991
-śṛṇu devi mahā-bhāge yat-māṃ-tvaṃ pari-pṛcchasi
+[hear](śṛṇu) [goddess](devi) [great-fortunate](mahābhāge) [what](yanmāṃtvaṃ) [ask](paripṛcchasi)
+
 ## mukta-m0-p40-v992
-vīraḥ su-cira-nṛttena śrāṃta-liṃga-maheśvaraḥ
+[hero](vīraḥ) [long-dance](suciranṛttena) [tired-lord](śrāṃtaliṃgamaheśvaraḥ)
+
 ## mukta-m0-p40-v993
-atha pradūṣita-pāte pūrite puṇya-vastubhiḥ
+[then](atha) [defiled](pradūṣita) [fall](pāte) [filled](pūrite) [meritorious-things](puṇyavastubhiḥ)
+
 ## mukta-m0-p40-v994
-ānanda-nāthasya manuṃ-ca-aṣṭā-viṃśati-vārakam
+[of-ānandanātha](ānaṃdanāthasya) [mantra](manuṃcāṣṭāviṃśativārakam)
+
 ## mukta-m0-p40-v995
-dakṣa-hastasya culuke dhārayitvā vicakṣaṇaḥ
+[right-hand](dakṣahastasya) [palm](culuke) [holding](dhārayitvā) [wise](vicakṣaṇaḥ)
+
 ## mukta-m0-p40-v996
-sa-śuddhi-bhyāṃ-tayoḥ-biṃduṃ kārikāḥ pra-paṭhan kiret
+[pure-ends](saśuddhibhyāṃtayorbiṃduṃ) [verses](kārikāḥ) [reciting](prapaṭhan) [sprinkle](kiret)
+
 ## mukta-m0-p40-v997
-etaiḥ-ānanda-yāga-anta śukla-śoṇita-biṃdubhiḥ
+[by-these](etairānaṃdayāgāṃta) [white-red-drops](śuklaśoṇitabiṃdubhiḥ)
+
 ## mukta-m0-p40-v998
-etaiḥ-ānanda-yāga-anta śukla-śoṇita-biṃdubhiḥ
+[by-these](etairānaṃdayāgāṃta) [white-red-drops](śuklaśoṇitabiṃdubhiḥ)
+
 ## mukta-m0-p40-v999
-etaiḥ-ānanda-yāga-anta śukla-śoṇita-biṃdubhiḥ
+[by-these](etairānaṃdayāgāṃta) [white-red-drops](śuklaśoṇitabiṃdubhiḥ)
+
 ## mukta-m0-p40-v1000
-etaiḥ-ānanda-yāga-anta śukla-śoṇita-biṃdubhiḥ
+[by-these](etairānaṃdayāgāṃta) [white-red-drops](śuklaśoṇitabiṃdubhiḥ)
