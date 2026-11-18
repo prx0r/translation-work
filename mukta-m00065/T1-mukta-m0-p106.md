@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p106-v2626
-[spire](karṇikā) [moon-part](śaśibhāgena) [from-width](vistārāccādhunocyate)
+karṇikā (filament) śaśibhāgena (by-moon-part) vistārāt (from-expansion) ca (and) adhunā (now) ucyate (is-said)
 
 ## mukta-m0-p106-v2627
-[there-middle](tanmadhye) [two-parts](dvibhāgābhyāṃ) [entrance](praveśo) [house](gṛha)
+tanmadhye (in-its-middle) tu (but) dvibhāgābhyām (by-two-parts) praveśaḥ (entrance) gṛha (house) hetave (for-cause)
 
 ## mukta-m0-p106-v2628
-[thus](evameva) [thigh-length](jaṅghāyāmañjaryā) [altar-limit](vedikāvadhiḥ)
+evameva (thus) tu (but) jaṅghāyām (in-shank) añjaryā (of-anklet) vedikāvadhiḥ (boundary-of-platform)
 
 ## mukta-m0-p106-v2629
-[temple-spire](prāsādaśikharaṃ) [or](vāpi) [say](brūyāmuparathādikān)
+prāsādaśikharaṃ (temple-spire) vā (or) api (also) brūyām (I-would-say) uparathādikān (chariot-et-cetera)
 
 ## mukta-m0-p106-v2630
-[base-lotus-end](pīṭhādyabjāntamucchrāye) [entrance](praveśaśca) [declared](nigadyate)
+pīṭhādyabjāntam (from-base-to-lotus-end) ucchrāye (in-height) praveśaḥ (entrance) ca (and) nigadyate (is-declared)
 
 ## mukta-m0-p106-v2631
-[half](ardhena) [band](paṭṭikāṃ) [make](kuryāddvābhyāṃ) [neck-entrance](kaṇṭhapraveśakam)
+ardhena (by-half) paṭṭikāṃ (band) kuryāt (should-make) dvābhyām (by-two) kaṇṭhapraveśakam (throat-entrance)
 
 ## mukta-m0-p106-v2632
-[half-part](ardhāṃśena) [above](tadūrdhve) [make](tu) [sub-band](kāryā+caivopapaṭṭikā)
+ardhāṃśena (by-half-part) tadūrdhve (above-that) tu (but) kāryā (to-be-made) ca (and) eva (indeed) upapaṭṭikā (sub-band)
 
 ## mukta-m0-p106-v2633
-[three-foot-entrance](tryāṅghripraveśo) [swan](haṃsa) [that-band-half-entrance](statpaṭṭyardhapraveśataḥ)
+tryāṅghripraveśaḥ (three-foot-entrance) haṃsa (swan) statpaṭṭyardhapraveśataḥ (from-half-entrance-of-that-band)
 
 ## mukta-m0-p106-v2634
-[joint-leaf](sandhipatrānvitaṃ) [lotus](padmaṃ) [make](vidadhīta) [beautiful](suśobhanam)
+sandhipatrānvitaṃ (joined-with-leaf) padmaṃ (lotus) vidadhīta (should-place) suśobhanam (very-beautiful)
 
 ## mukta-m0-p106-v2635
-[stone-born](śilotthaṃ) [foot-base](padapīṭhaṃ) [be](syādevaṃ) [wood-brick](dārviṣṭakāmaye)
+śilotthaṃ (stone-born) padapīṭhaṃ (foot-base) syāt (should-be) evaṃ (thus) dārviṣṭakāmaye (in-wooden-brick)
 
 ## mukta-m0-p106-v2636
-[that-height](taducchrayaṃ) [graha](grahaṃ) [make](kṛtvā) [thigh](jaṅghā) [middle](tanmadhyato) [qualities](guṇaiḥ)
+taducchrayaṃ (its-height) grahaṃ (graha) kṛtvā (having-made) jaṅghā (shank) tanmadhyato (from-its-middle) guṇaiḥ (by-qualities)
 
 ## mukta-m0-p106-v2637
-[base-band-cornice](vedibandhavaraṇḍā) [declare](dinnigadāmyanupūrvaśaḥ)
+vedibandhavaraṇḍā (platform-band-coping) dinnigadāmyanupūrvaśaḥ (I-declare-in-order)
 
 ## mukta-m0-p106-v2638
-[height](ucchraye) [fourth-part](dhāmaturyāṃśāttasminnidrāṃśakekṛte)
+ucchraye (in-height) dhāmaturyāṃśāt (from-fourth-part-of-dhama) tasmin (in-that) nidrāṃśakekṛte (made-sleep-part)
 
 ## mukta-m0-p106-v2639
-[one-half-three](sārdhatrayeṇa) [pot](kumbhaḥ) [be](syāttadardhe) [pot-band](kumbhapaṭṭikā)
+sārdhatrayeṇa (by-three-and-half) kumbhaḥ (pot) syāt (should-be) tadardhe (in-its-half) kumbhapaṭṭikā (pot-band)
 
 ## mukta-m0-p106-v2640
-[half-part](bhāgārdhena) [neck](tu) [be](kaṇṭhaḥ) [syātkalaśaśca] [quality-part](guṇāṃśataḥ)
+bhāgārdhena (by-half-part) tu (but) kaṇṭhaḥ (neck) syāt (should-be) kalaśaśca (and-pot) guṇāṃśataḥ (from-quality-part)
 
 ## mukta-m0-p106-v2641
-[entrance](praveśāccaikataḥ) [necks](kaṇṭhāścārdhe) [exit-band](nirgamapaṭṭikā)
+praveśāccaikataḥ (from-entrance-and-one-side) kaṇṭhāścārdhe (and-necks-in-half) nirgamapaṭṭikā (exit-band)
 
 ## mukta-m0-p106-v2642
-[pot-band](kumbhapaṭṭī) [foot](tu) [pādena] [cup](kupālyā) [two-part](dyaṃśataḥ) [stood](sthitā)
+kumbhapaṭṭī (pot-band) tu (but) pādena (by-foot) kupālyā (of-kupali) dyaṃśataḥ (from-two-parts) sthitā (placed)
 
 ## mukta-m0-p106-v2643
-[three](tribhiḥ) [hoof-etc](khurādibhiryuktaṃ) [base-band-named](vedībandhābhidhānakam)
+tribhiḥ (by-three) khurādibhiryuktaṃ (joined-with-hoof-et-cetera) vedībandhābhidhānakam (named-platform-band)
 
 ## mukta-m0-p106-v2644
-[made](kṛteṣu) [three](triṣu) [parts](bhāgeṣu) [quarter-part](pādonāṃśātpraveśikān)
+kṛteṣu (in-made) triṣu (three) bhāgeṣu (parts) pādonāṃśāt (from-quarter-part) praveśikān (entrances)
 
 ## mukta-m0-p106-v2645
-[part](bhāgena) [square-named](caturasrākhyā) [band](paṭṭikā) [one-half](sārdhataḥ) [stood](sthitā)
+bhāgena (by-part) caturasrākhyā (named-square) paṭṭikā (band) sārdhataḥ (from-half) sthitā (placed)
 
 ## mukta-m0-p106-v2646
-[pot-thigh](khuṃrakumbhavatī) [thigh](jaṅghā) [elders](jyeṣṭhānāṃ) [foot-measure](pādamānataḥ)
+khuṃrakumbhavatī (with-khumra-pot) jaṅghā (shank) jyeṣṭhānāṃ (of-elders) pādamānataḥ (from-foot-measure)
 
 ## mukta-m0-p106-v2647
-[until-cut](yāvaccinnavakāṃ) [or](vāpi) [leaf-garland](patravalyāthavā) [best](varā)
+yāvaccinnavakāṃ (up-to-cut) vā (or) api (also) patravalyāthavā (or-leaf-creeper) varā (excellent)
 
 ## mukta-m0-p106-v2648
-[quarter](caturthāṃśaśca) [thigh-above](jaṅghordhve) [divide](vibhajya) [eight-part](vasubhāgataḥ)
+caturthāṃśaśca (and-fourth-part) jaṅghordhve (above-shank) vibhajya (dividing) vasubhāgataḥ (from-eight-part)
 
 ## mukta-m0-p106-v2649
-[there](tatrārdhena) [entrance-named](praveśākhyaṃ) [band](paṭṭikāṃ) [tu](tu) [vi](vi) [vartayet](vartayet)
+tatrārdhena (there-by-half) praveśākhyaṃ (named-entrance) paṭṭikāṃ (band) tu (but) vi (on-earth) vartayet (should-turn)
 
 ## mukta-m0-p106-v2650
-[quarter-part](pādonāṃśena) [swan-named](haṃsākhyā) [band](paṭṭī) [that-foot](tatpadato) [be](bhavet)
+pādonāṃśena (by-quarter-part) haṃsākhyā (named-swan) paṭṭī (band) tatpadato (from-that-foot) bhavet (should-be)

@@ -19,7 +19,7 @@
 "quick_gloss": "worship"
 },
 {
-"surface": "syāddīkṣāsthāpanādike",
+"surface": "dīkṣāsthāpanādike",
 "quick_gloss": "initiation-establishment-etc"
 }
 ]
@@ -53,8 +53,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "aṇimādinṛkulyotthamanyonyabdārdhataḥ",
-"quick_gloss": "anima-etc-king-lineage-born-mutual-year-half"
+"surface": "aṇimādinṛkulyottham",
+"quick_gloss": "animā-etc-king-lineage-born"
+},
+{
+"surface": "anyonyabdārdhataḥ",
+"quick_gloss": "mutual-month-half-from"
 },
 {
 "surface": "sadā",
@@ -100,7 +104,7 @@
 },
 {
 "surface": "maudgaṃ",
-"quick_gloss": "mung-born"
+"quick_gloss": "mung-bean"
 },
 {
 "surface": "strīdaṃ",
@@ -121,7 +125,7 @@
 "tokens": [
 {
 "surface": "sukhakṛnnāvanītaṃ",
-"quick_gloss": "happiness-making-not-churned"
+"quick_gloss": "pleasure-making-not-churned"
 },
 {
 "surface": "tu",
@@ -167,7 +171,7 @@
 "tokens": [
 {
 "surface": "uccāṭane",
-"quick_gloss": "in-expulsion"
+"quick_gloss": "in-uprooting"
 },
 {
 "surface": "tu",
@@ -175,7 +179,7 @@
 },
 {
 "surface": "pāṃśavyaṃ",
-"quick_gloss": "dust-made"
+"quick_gloss": "dust-like"
 },
 {
 "surface": "maulaṃ",
@@ -200,7 +204,7 @@
 },
 {
 "surface": "pauraṃ",
-"quick_gloss": "city-born"
+"quick_gloss": "citizen"
 },
 {
 "surface": "rāmaṭhaṃ",
@@ -208,7 +212,7 @@
 },
 {
 "surface": "caugryakārakam",
-"quick_gloss": "harshness-causing"
+"quick_gloss": "fierceness-causing"
 }
 ]
 },
@@ -220,12 +224,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "mṛdbimbodbhavamiṣṭārthaṃ",
-"quick_gloss": "clay-image-born-desired-purpose"
+"surface": "mṛdbimbodbhavaṃ",
+"quick_gloss": "clay-image-born"
 },
 {
-"surface": "lepātsyuḥ",
-"quick_gloss": "by-smearing-arise"
+"surface": "miṣṭārthaṃ",
+"quick_gloss": "desired-purpose"
+},
+{
+"surface": "lepāt",
+"quick_gloss": "by-smearing"
+},
+{
+"surface": "syuḥ",
+"quick_gloss": "would-be"
 },
 {
 "surface": "sarvasaṃpadaḥ",
@@ -242,7 +254,7 @@
 "tokens": [
 {
 "surface": "tāvatkāla",
-"quick_gloss": "that-time"
+"quick_gloss": "that-much-time"
 },
 {
 "surface": "tu",
@@ -250,11 +262,11 @@
 },
 {
 "surface": "saṃpūya",
-"quick_gloss": "worship"
+"quick_gloss": "worshipping"
 },
 {
 "surface": "visṛjya",
-"quick_gloss": "release"
+"quick_gloss": "releasing"
 },
 {
 "surface": "tāni",
@@ -266,7 +278,7 @@
 },
 {
 "surface": "kṣipet",
-"quick_gloss": "throw"
+"quick_gloss": "throws"
 }
 ]
 },
@@ -279,19 +291,19 @@
 "tokens": [
 {
 "surface": "niṣkvāthya",
-"quick_gloss": "boil"
+"quick_gloss": "boiling-down"
 },
 {
 "surface": "paṭamālepya",
-"quick_gloss": "cloth-smear"
+"quick_gloss": "cloth-smearing"
 },
 {
 "surface": "saṃśoṣya",
-"quick_gloss": "dry"
+"quick_gloss": "drying"
 },
 {
 "surface": "pārimārjya",
-"quick_gloss": "clean"
+"quick_gloss": "wiping"
 },
 {
 "surface": "ca",
@@ -307,8 +319,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "dhātubilvarasairlekhyaṃ",
-"quick_gloss": "metal-bilva-juice-write"
+"surface": "dhātubilvarasair",
+"quick_gloss": "metals-bilva-juices-with"
+},
+{
+"surface": "lekhyaṃ",
+"quick_gloss": "drawing"
 },
 {
 "surface": "tridhā",
@@ -333,15 +349,15 @@
 "tokens": [
 {
 "surface": "balasaṃvartanīcchāyā",
-"quick_gloss": "strength-revival-desire"
+"quick_gloss": "strength-revolving-desire"
 },
 {
 "surface": "dṛṣṭi",
-"quick_gloss": "vision"
+"quick_gloss": "sight"
 },
 {
 "surface": "bhāvāśritā",
-"quick_gloss": "emotion-dependent"
+"quick_gloss": "emotion-refuge"
 },
 {
 "surface": "sadā",
@@ -357,7 +373,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "karuṇādbhutaśāntāśca",
+"surface": "karuṇādbhutaśāntāś",
 "quick_gloss": "compassion-wonder-peace-and"
 },
 {
@@ -382,8 +398,16 @@
 "quick_gloss": "by-own-will"
 },
 {
-"surface": "pūjayedetanmṛnmayānyucyate",
-"quick_gloss": "worship-this-clay-made-called"
+"surface": "pūjayedetan",
+"quick_gloss": "worship-this"
+},
+{
+"surface": "mṛnmayāni",
+"quick_gloss": "clay-made"
+},
+{
+"surface": "ucyate",
+"quick_gloss": "is-said"
 },
 {
 "surface": "adhunā",
@@ -400,15 +424,15 @@
 "tokens": [
 {
 "surface": "sadyomantreṇa",
-"quick_gloss": "instant-mantra"
+"quick_gloss": "immediate-mantra-with"
 },
 {
 "surface": "cāpakvaṃ",
-"quick_gloss": "and-uncooked"
+"quick_gloss": "and-unripe"
 },
 {
 "surface": "kramānnavakarādikam",
-"quick_gloss": "order-nine-hand-etc"
+"quick_gloss": "sequence-nine-hand-etc"
 }
 ]
 },
@@ -420,8 +444,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "dvijādijātibhirmṛdbhiravyaktādi",
-"quick_gloss": "twice-born-etc-castes-clay-unmanifest-etc"
+"surface": "dvijādijātibhiḥ",
+"quick_gloss": "twice-born-etc-castes"
+},
+{
+"surface": "mṛdbhiḥ",
+"quick_gloss": "clays"
+},
+{
+"surface": "avyaktādi",
+"quick_gloss": "unmanifest-etc"
 },
 {
 "surface": "ca",
@@ -442,11 +474,11 @@
 "tokens": [
 {
 "surface": "vāpīkūpataḍāgeṣu",
-"quick_gloss": "wells-ponds-tanks"
+"quick_gloss": "wells-cisterns-ponds"
 },
 {
 "surface": "dīrghikāyāḥ",
-"quick_gloss": "of-pond"
+"quick_gloss": "from-long-tank"
 },
 {
 "surface": "samāharet",
@@ -475,7 +507,7 @@
 },
 {
 "surface": "dhanakoṣavivṛddhaye",
-"quick_gloss": "treasury-increase"
+"quick_gloss": "wealth-treasury-increase"
 }
 ]
 },
@@ -504,7 +536,7 @@
 },
 {
 "surface": "paridāhya",
-"quick_gloss": "burn"
+"quick_gloss": "burning-around"
 },
 {
 "surface": "ca",
@@ -537,7 +569,7 @@
 },
 {
 "surface": "saṃskṛtya",
-"quick_gloss": "purify"
+"quick_gloss": "purifying"
 },
 {
 "surface": "pūjayet",
@@ -557,8 +589,12 @@
 "quick_gloss": "sal-resin-asafoetida-puram-bola"
 },
 {
-"surface": "matasītailameva",
-"quick_gloss": "sesame-oil-only"
+"surface": "matasītailam",
+"quick_gloss": "sesame-oil"
+},
+{
+"surface": "eva",
+"quick_gloss": "indeed"
 },
 {
 "surface": "ca",
@@ -583,7 +619,7 @@
 },
 {
 "surface": "vyavasthāpya",
-"quick_gloss": "arrange"
+"quick_gloss": "arranging"
 },
 {
 "surface": "māsaṃ",
@@ -595,7 +631,7 @@
 },
 {
 "surface": "parimṛdya",
-"quick_gloss": "rub"
+"quick_gloss": "rubbing"
 },
 {
 "surface": "ca",
@@ -624,7 +660,7 @@
 },
 {
 "surface": "ghaṭayecchubham",
-"quick_gloss": "make-auspicious"
+"quick_gloss": "fashion-auspicious"
 }
 ]
 }
