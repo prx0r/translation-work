@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p62-v1526
-[of-manifest](vyaktāyāḥ) [and](ca) [indeed](eva) [of-hidden](guptāyāḥ) [mark](lakṣaṇam) [what](kim) [reveal](prakāśaya)
+[manifest-of](vyaktāyāścaiva) [hidden-of](guptāyā) [mark](lakṣaṇaṃ) [what](kiṃ) [reveal](prakāśaya)
 
 ## mukta-m0-p62-v1527
-[of-hidden](guptā) [worship](arccane) [also](api) [liberation](muktiḥ) [be](syād) [devotion](bhakti) [feeling](bhāva) [endowed](yuto) [if](yadi)
+[hidden-worship-in](guptārccane) [also](api) [liberation](muktiḥ) [is](syād) [devotion](bhakti) [feeling](bhāva) [endowed](yuto) [if](yadi)
 
 ## mukta-m0-p62-v1528
-[from-seeing](darśanāt) [mark](lakṣa) [seats](pīṭhānāṃ) [fruit](phalaṃ) [which](yad) [best-colored-one](varavarṇini)
+[from-seeing](darśanāt) [of-lakṣa-pīṭhas](lakṣa+pīṭhānāṃ) [fruit](phalaṃ) [which](yad) [O-excellent-colored-one](varavarṇini)
 
 ## mukta-m0-p62-v1529
-[from-touching](sparśanāt) [all](sarva) [seats](pīṭhānāṃ) [fruit](phalam) [obtains](āpnoti) [practitioner](sādhakaḥ)
+[from-touching](sparśanāt) [of-all-pīṭhas](sarva+pīṭhānāṃ) [fruit](phalam) [obtains](āpnoti) [sādhaka](sādhakaḥ)
 
 ## mukta-m0-p62-v1530
-[stand](tiṣṭhanti) [those](tāni) [tirthas](tīrthāni) [yoni](yoni) [seats](pīṭheṣu) [beautiful-one](sundari)
+[stand](tiṣṭhanti) [those](tāni) [tīrthas](tīrthāni) [in-yoni-pīṭhas](yoni+pīṭheṣu) [beautiful-one](sundari)
 
 ## mukta-m0-p62-v1531
-[sarasvati](sarasvatī) [middle-part](madhyabhāge) [left-ones](vāmeṣu) [jahnavi](jāhnavī) [supreme](parā)
+[Sarasvatī](sarasvatī) [middle-part](madhyabhāge) [left-side](vāmeṣu) [Jāhnavī](jāhnavī) [supreme](parā)
 
 ## mukta-m0-p62-v1532
-[in-field](kṣetre) [tirthas](tīrthāni) [stand](tiṣṭhanti) [all](sarvāṇi) [supreme-goddess](parameśvari)
+[in-field](kṣetre) [tīrthas](tīrthāni) [stand](tiṣṭhanti) [all](sarvāṇi) [O-supreme-lady](parameśvari)
 
 ## mukta-m0-p62-v1533
-[now](adhunā) [hear](śrotum) [wish](icchāmi) [mark](lakṣaṇaṃ) [kula-women](kula+yoṣitām)
+[now](adhunā) [to-hear](śrotum) [I-desire](icchāmi) [mark](lakṣaṇaṃ) [of-kula-women](kula+yoṣitām)
 
 ## mukta-m0-p62-v1534
-[that-mark-endowed](tallakṣaṇānvito) [known](jñeyaḥ) [practitioner](sādhakaḥ) [kula-woman](kula+yoṣitaḥ)
+[that-mark-endowed](tallakṣaṇānvito) [to-be-known](jñeyaḥ) [sādhaka](sādhakaḥ) [kula-woman](kula+yoṣitaḥ)
 
 ## mukta-m0-p62-v1535
-[of-knowers](jñānināṃ) [knowledge-form](jñānarūpedaṃ) [of-kula](kulasya) [mark](lakṣaṇaṃ) [shive](śive)
+[of-knowers](jñānināṃ) [knowledge-form](jñānarūpa) [this](idaṃ) [of-kula](kulasya) [mark](lakṣaṇaṃ) [O-Śiva](śive)
 
 ## mukta-m0-p62-v1536
-[thus](iti) [shri-sarvanandanatha](śrīsarvānandanātha) [composed](viracite) [sarvollasa](sarvollāse) [fiftieth](pañcāśadullāsaḥ)
+[thus](iti) [Śrī-Sarvānandanātha](śrīsarvānandanātha) [composed](viracite) [Sarvollāsa](sarvollāse) [fiftieth-ullāsa](pañcāśadullāsaḥ)
 
 ## mukta-m0-p62-v1537
-[your](tava) [pleasing](prītikarī) [goddess](devi) [spoken](ucyatāṃ) [bondage](bhava) [from-bondage](bandhanāt)
+[your](tava) [pleasing](prītikarī) [goddess](devi) [let-it-be-spoken](ucyatāṃ) [from-world-bondage](bhava+bandhanāt)
 
 ## mukta-m0-p62-v1538
-[yoni](yoni) [principle](tattvaṃ) [without](vinā) [not](na) [indeed](eva) [kula-dharma](kula+dhana) [devoted](parāyaṇaḥ)
+[yoni-principle](yoni+tattvaṃ) [without](vinā) [not](na) [indeed](eva) [kula-dharma](kula+dharma) [devoted](parāyaṇaḥ)
 
 ## mukta-m0-p62-v1539
-[forgotten](vismṛtaṃ) [again](punar) [spoken](ucyeta) [oath](śapathaṃ) [me](me) [again](punaḥ) [again](punaḥ)
+[forgotten](vismṛtaṃ) [again-spoken](punarucyeta) [oath](śapathaṃ) [me](me) [again](punaḥ) [again](punaḥ)
 
 ## mukta-m0-p62-v1540
-[not](na) [spoken](vaktavyaṃ) [again](punar) [indeed-this](hyetat) [oath](śapathaṃ) [me](me) [again](punaḥ) [again](punaḥ)
+[not](na) [to-be-spoken](vaktavyaṃ) [again](punar) [indeed-this](hyetat) [oath](śapathaṃ) [me](me) [again](punaḥ) [again](punaḥ)
 
 ## mukta-m0-p62-v1541
-[menstrual](rajojjvalā)
+[menstrual-blood-bright](rajojjvalā)
 
 ## mukta-m0-p62-v1542
-[semen-born](śukrikā) [semen](śukra) [mother](jananī) [in-her](tasyāṃ) [worship](pūjā) [great-fruit](mahāphalā)
+[semen-producing](śukrikā) [semen](śukra) [mother](jananī) [in-her](tasyāṃ) [worship](pūjā) [great-fruit](mahāphalā)
 
 ## mukta-m0-p62-v1543
-[meditating](dhyātvā) [do](kuryāt) [always](sadā) [union](saṅgaṃ) [in-semen](śukre) [seed](bīja) [emission](prapātanam)
+[having-meditated](dhyātvā) [should-do](kuryāt) [always](sadā) [union](saṅgaṃ) [in-semen](śukre) [seed](bīja) [emission](prapātanam)
 
 ## mukta-m0-p62-v1544
-[only](kevalaṃ) [or](vāpi) [with-flower](puṣpeṇa) [purified](śodhitaṃ) [that](tad) [offer](nivedayet)
+[only](kevalaṃ) [or](vāpi) [with-flower](puṣpeṇa) [purified](śodhitaṃ) [that](tat) [should-be-offered](nivedayet)
 
 ## mukta-m0-p62-v1545
-[then](tadā) [with-semen](śukreṇa) [give](dātavyaṃ) [alternative](cānukalpaṃ) [kuleshvari](kuleśvari)
+[then](tadā) [with-semen](śukreṇa) [to-be-given](dātavyaṃ) [according-to-alternative](cānukalpaṃ) [O-lady-of-kula](kuleśvari)
 
 ## mukta-m0-p62-v1546
-[direct](pratyakṣasyāpi) [fitness](yogyatvaṃ) [in-alternatives](cānukalpeṣu) [established](saṃsthitam)
+[of-direct](pratyakṣasyāpi) [fitness](yogyatvaṃ) [in-alternatives](cānukalpeṣu) [established](saṃsthitam)
 
 ## mukta-m0-p62-v1547
-[own-varna-endowed](svasvavarṇayutaṃ) [substance](dravyaṃ) [that](tad) [substance-alternative](dravyasyānukalpanam)
+[own-varṇa-endowed](svasvavarṇayutaṃ) [substance](dravyaṃ) [that](tad) [of-substance](dravyasya) [alternative](anukalpanam)
 
 ## mukta-m0-p62-v1548
-[meditating](dhyātvā) [worship](yajet) [maheshani](maheśāni) [middle](madhye) [semen](śukra) [emission](prapātanam)
+[having-meditated](dhyātvā) [should-worship](yajen) [O-great-goddess](maheśāni) [middle](madhye) [semen](śukra) [emission](prapātanam)
 
 ## mukta-m0-p62-v1549
-[thus](tathā) [beloved](priye)
+[thus](tathā) [dear-one](priye)
 
 ## mukta-m0-p62-v1550
-[mutually](parasparaṃ) [be](bhaved) [seed](bījaṃ) [wind](vāyu) [space](ākāśa) [as](yathā)
+[mutually](parasparaṃ) [becomes-seed](bhaved+bījaṃ) [as](yathā) [wind](vāyu) [space](ākāśayoḥ)

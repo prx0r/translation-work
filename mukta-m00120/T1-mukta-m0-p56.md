@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p56-v1376
-enjoyment-and liberation-and hand-held indeed
+bhogaḥ+ca mokṣaḥ+ca kara-sthaḥ eva
 
 ## mukta-m0-p56-v1377
-kaula doctrine supreme profound yogis-even inaccessible
+kaula-dharmaḥ parama-gahanaḥ yoginām+api+agamyaḥ
 
 ## mukta-m0-p56-v1378
-enjoyment goes
+bhuktiṃ vrajet
 
 ## mukta-m0-p56-v1379
-Ganges drink I Yamuna with ocean
+gaṅgāṃ pivāmi yamunāṃ saha sāgareṇa
 
 ## mukta-m0-p56-v1380
-on head Sri-natha lotus-feet remembrance what than that supreme
+mūrdhni śrī-nātha pāda-abjaṃ smaraṇaṃ kim ataḥ param
 
 ## mukta-m0-p56-v1381
-clan woman association devoted clan-rite perform
+kula-strī saṅga nirataḥ kula-kāryaṃ samācaret
 
 ## mukta-m0-p56-v1382
-drinking-and poison drinking be sexual-intercourse sin-giving
+pānaṃ+ca viṣa-pānaṃ syāt maithunaṃ pāpa-dāyakam
 
 ## mukta-m0-p56-v1383
-four of-him perish life knowledge fame strength
+catvāri tasya naśyanti āyuḥ vidyā yaśaḥ balam
 
 ## mukta-m0-p56-v1384
-consecration I-will-declare all-accomplishment giving
+abhiṣekaṃ pravakṣyāmi sarva-siddhi pradāyakam
 
 ## mukta-m0-p56-v1385
-all-desires fulfilling all mantra fault destroying
+sarva-āśā pūrakaṃ sarva-mantra doṣa vināśanam
 
 ## mukta-m0-p56-v1386
-sorcery removing all planet-fault destroying
+abhicāra-haraṃ sarvaṃ graha-doṣa vināśanam
 
 ## mukta-m0-p56-v1387
-by-Takshaka even bitten poison-affliction destroying
+takṣakeṇa+api daṣṭasya viṣa-pīḍā vināśanam
 
 ## mukta-m0-p56-v1388
-woman-made even faults in-body in-mind and
+strī-kṛteṣu+api doṣeṣu śarīre mānase tathā
 
 ## mukta-m0-p56-v1389
-inauspiciousness and of-women consecration proceeds
+asaubhāgye ca nārīṇām abhiṣekaḥ pravarttate
 
 ## mukta-m0-p56-v1390
-river bank god ground tree root crossroads
+nadī-tīre deva-bhūmau taru-mūle catuṣpathe
 
 ## mukta-m0-p56-v1391
-by-mantra this goddess-of-gods tirthas invoke then
+mantreṇa+anena deveśi tīrthāni āvāhayet tataḥ
 
 ## mukta-m0-p56-v1392
-all oceans rivers lakes clouds pools
+sarve samudrāḥ saritaḥ sarāṃsi jaladāḥ hradāḥ
 
 ## mukta-m0-p56-v1393
-all-tirthas holy in-pot make presence
+sarva-tīrthāni puṇyāni ghaṭe kurvantu sannidhim
 
 ## mukta-m0-p56-v1394
-stable-form
+sthirā-kṛtiḥ
 
 ## mukta-m0-p56-v1395
-by-root durva with-om make sprinkling then
+mūlena dūrvāṃ praṇavaiḥ kuryāt abhyukṣaṇaṃ tataḥ
 
 ## mukta-m0-p56-v1396
-there invoke worship
+tatra āvāhya prapūjayet
 
 ## mukta-m0-p56-v1397
-by-mantra this teacher
+mantreṇa+anena deśikaḥ
 
 ## mukta-m0-p56-v1398
-urine-sound
+vā-mūtra-nirghoṣaḥ
 
 ## mukta-m0-p56-v1399
-fame wealth life splendor with bilva leaves
+yaśaḥ dhana-āyuḥ tejaḥsu śrī-phalasya+api pallavaiḥ
 
 ## mukta-m0-p56-v1400
-is-seen
+dṛśyate
