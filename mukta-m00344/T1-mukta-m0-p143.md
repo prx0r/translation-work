@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p143-v3551
-tān-eva praśnān-āha ākāśāt-ityādi sā pṛṣṭa-rūpā
+[those](tān) [indeed](eva) [questions](praśnān) [says](āha) [from-space-etc](ākāśādityādi) [that](sā) [asked](pṛṣṭa) [form](rūpā)
 
 ## mukta-m0-p143-v3552
-sphurat-rūpā svātma-saṃsthā śṛṇu tvaṃ brahma-rākṣasa
+[shining-form](sphuradrūpā) [self-abiding](svātmasaṃsthā) [hear](śṛṇu) [you](tvaṃ) [brahma-rakshasa](brahmarākṣasa)
 
 ## mukta-m0-p143-v3553
-sarva-antaratvāt agocaratvāt ca sūkṣmatvam svātma-saṃsthā svarūpa eva sthitā
+[from-being-innermost](sarvāntaratvāt) [and-from-being-unperceived](agocaratvācca) [subtlety](sūkṣmatvam) [self-abiding](svātmasaṃsthā) [own-form](svarūpa) [indeed](eva) [abides](sthitā)
 
 ## mukta-m0-p143-v3554
-sphurat-tvaṃ kiṃ kim-ātmā ca vada etat nṛpa-nandana
+[shining](sphurattvaṃ) [what](kiṃ) [what-self](kimātmā) [and](ca) [say](vada) [this](etat) [prince's-son](nṛpanandana)
 
 ## mukta-m0-p143-v3555
-vitatā sūkṣmā api ekā ca kathaṃ bhavet
+[pervasive](vitatā) [subtle](sūkṣmā) [also-one](apyekā) [and](ca) [how](kathaṃ) [be](bhavet)
 
 ## mukta-m0-p143-v3556
-sphurat-tvam ātmā ca citiḥ śṛṇu tvaṃ brahma-rākṣasa
+[shining](sphurattvam) [self](ātmā) [and](ca) [consciousness](citiḥ) [hear](śṛṇu) [you](tvaṃ) [brahma-rakshasa](brahmarākṣasa)
 
 ## mukta-m0-p143-v3557
-cin-mātram eva na tataḥ adhikam iti tātparyam
+[consciousness-only](cinmātram) [indeed](eva) [not](na) [beyond-that](tato'dhikam) [thus](iti) [purport](tātparyam)
 
 ## mukta-m0-p143-v3558
-upalabdhyā ca kiṃ vā syāt vada etat nṛpa-nandana
+[by-perception](upalabdhyā) [and](ca) [what](kiṃ) [or](vā) [be](syād) [say](vada) [this](etat) [prince's-son](nṛpanandana)
 
 ## mukta-m0-p143-v3559
-upalabdhyā janir na syāt śṛṇu tvaṃ brahma-rākṣasa
+[by-perception](upalabdhyā) [birth](janir) [not](na) [be](syāt) [hear](śṛṇu) [you](tvaṃ) [brahma-rakshasa](brahmarākṣasa)
 
 ## mukta-m0-p143-v3560
-svātma-cin-mātra-ākāra-tā-sampattiḥ etena mūḍha-samādhiḥ vyāvṛttaḥ
+[self-consciousness-form-attainment](svātmacinmātrākāratāsampattiḥ) [by-this](etena) [deluded-samadhi](mūḍhasamādhiḥ) [excluded](vyāvṛttaḥ)
 
 ## mukta-m0-p143-v3561
-janir vā api bhavet kā sā vada etat nṛpa-nandana
+[birth](janir) [or](vā) [also](api) [be](bhavet) [what](kā) [that](sā) [say](vada) [this](etat) [prince's-son](nṛpanandana)
 
 ## mukta-m0-p143-v3562
-janir deha-ātma-tā-buddhiḥ śṛṇu tvaṃ brahma-rākṣasa
+[birth](janir) [body-self-notion](dehātmatābuddhiḥ) [hear](śṛṇu) [you](tvaṃ) [brahma-rakshasa](brahmarākṣasa)
 
 ## mukta-m0-p143-v3563
-dṛśya-anunmukhatvam
+[object-directedness](dṛśyānunmukhatvam)
 
 ## mukta-m0-p143-v3564
-janiḥ kathaṃ vā samprāptā vada etat nṛpa-nandana
+[birth](janiḥ) [how](kathaṃ) [or](vā) [obtained](samprāptā) [say](vada) [this](etat) [prince's-son](nṛpanandana)
 
 ## mukta-m0-p143-v3565
-kasmāt nimittāt kena karaṇena
+[from-what](kasmāt) [cause](nimittāt) [by-what](kena) [instrument](karaṇena)
 
 ## mukta-m0-p143-v3566
-janiḥ kartṛtva-abhimānāt śṛṇu tvaṃ brahma-rākṣasa
+[birth](janiḥ) [from-doership-egoism](kartṛtvābhimānāt) [hear](śṛṇu) [you](tvaṃ) [brahma-rakshasa](brahmarākṣasa)
 
 ## mukta-m0-p143-v3567
-ātmanā svena eva karaṇa-antara-nairapekṣyeṇa iti yāvat
+[by-self](ātmanā) [by-own](svena) [indeed](eva) [without-other-instrument](karaṇāntaranairapekṣyeṇa) [thus](iti) [as-far](yāvat)
 
 ## mukta-m0-p143-v3568
-ko vā kartṛtva-abhimānaḥ vada etat nṛpa-nandana
+[what](ko) [or](vā) [doership-egoism](kartṛtvābhimāno) [say](vada) [this](etat) [prince's-son](nṛpanandana)
 
 ## mukta-m0-p143-v3569
-tat-vāsanā-abhimānaḥ syāt śṛṇu tvaṃ brahma-rākṣasa
+[that-latent-impression-egoism](tadvāsanābhimānaḥ) [be](syāt) [hear](śṛṇu) [you](tvaṃ) [brahma-rakshasa](brahmarākṣasa)
 
 ## mukta-m0-p143-v3570
-saṃskāraḥ
+[impression](saṃskāraḥ)
 
 ## mukta-m0-p143-v3571
-tasya api kiṃ kāraṇaṃ syāt vada etat nṛpa-nandana
+[of-that](tasya) [also](api) [what](kiṃ) [cause](kāraṇaṃ) [be](syād) [say](vada) [this](etat) [prince's-son](nṛpanandana)
 
 ## mukta-m0-p143-v3572
-tasya aviveka-nāśakasya tasya api tat-kāraṇasya api
+[of-that](tasya) [of-ignorance-destroyer](avivekanāśakasya) [of-that](tasya) [also](api) [of-its-cause](tatkāraṇasya) [also](api)
 
 ## mukta-m0-p143-v3573
-tat-kāraṇaṃ doṣa-dṛṣṭiḥ śṛṇu tvaṃ brahma-rākṣasa
+[its-cause](tatkāraṇaṃ) [fault-view](doṣadṛṣṭiḥ) [hear](śṛṇu) [you](tvaṃ) [brahma-rakshasa](brahmarākṣasa)
 
 ## mukta-m0-p143-v3574
-viṣaya-doṣa-dṛṣṭiḥ
+[object-fault-view](viṣayadoṣadṛṣṭiḥ)
 
 ## mukta-m0-p143-v3575
-doṣa-dṛṣṭiḥ ca kā proktā vada etat nṛpa-nandana
+[fault-view](doṣadṛṣṭiḥ) [and](ca) [what](kā) [declared](proktā) [say](vada) [this](etat) [prince's-son](nṛpanandana)
