@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p22-v526
-[other-work-purpose-proud-madness-producing](anyakarmārthamānītonmādāniṣpattikāriṇī)
+[anya](anya) [karma](karma) [artha](artha) [māninī](mānī) [unmāda](unmāda) [niṣpatti](niṣpatti) [kāriṇī](kāriṇī)
 
 ## mukta-m0-p22-v527
-[low-born-she-stone-known](antyajā) [sā](sā) [śilā](śilā) [jñeyā](jñeyā) [dvijādīnāṃ](dvijādīnāṃ) [vigarhitā](vigarhitā)
+[antyajā](antyajā) [sā](sā) [śilā](śilā) [jñeyā](jñeyā) [dvijādīnām](dvijādīnām) [vigarhitā](vigarhitā)
 
 ## mukta-m0-p22-v528
-[not-varṇa-and-caṇḍālī](nāna) [varṇā](varṇā) [ca](ca) [cāṇḍalī](cāṇḍalī) [sā](sā) [kartuḥ](kartuḥ) [kulanāśinī](kulanāśinī)
+[nānā-varṇā](nāna) [ca](ca) [cāṇḍalī](cāṇḍalī) [sā](sā) [kartuḥ](kartuḥ) [kula-nāśinī](kulanāśinī)
 
 ## mukta-m0-p22-v529
-[ordinary-benefit-for](prākṛtānāṃ) [hitārthāya](hitārthāya) [desire](kāmaṃ) [liberation-seeking-men](muktyarthināṃ) [nṛṇām](nṛṇām)
+[prākṛtānām](prākṛtānām) [hita-arthāya](hitārthāya) [kāmam](kāmaṃ) [mukti-arthinām](muktyarthināṃ) [nṛṇām](nṛṇām)
 
 ## mukta-m0-p22-v530
-[small-faults](svalpadoṣā) [these](ime) [known](khyātā) [twenty-lakh-varieties](viṃśatirlakṣabhedataḥ)
+[svalpa-doṣāḥ](svalpadoṣā) [ime](ime) [khyātāḥ](khyātā) [viṃśatiḥ](viṃśatir) [lakṣa-bhedataḥ](lakṣabhedataḥ)
 
 ## mukta-m0-p22-v531
-[earth-born-stone-tree](jñaya) [sadbhūmibhūtasya](sadbhūmibhūtasya) [pāṣāṇasya](pāṣāṇasya) [drumasya](drumasya) [ca](ca)
+[jñaya](jñaya) [sad-bhūmi-bhūtasya](sadbhūmibhūtasya) [pāṣāṇasya](pāṣāṇasya) [drumasya](drumasya) [ca](ca)
 
 ## mukta-m0-p22-v532
-[that-born](tajja) [tīśa-mantra](tīśena) [mantra](mantreṇa) [that-birth-becoming](tajjātijananaṃ) [bhavet](bhavet)
+[taj-ja](tajja) [tīśena](tīśena) [mantreṇa](mantreṇa) [taj-jāti-jananaṃ](tajjātijananaṃ) [bhavet](bhavet)
 
 ## mukta-m0-p22-v533
-[marking](lāñcha) [yatvā](yatvā) [properly](yathānyāyaṃ) [make-purify](kartayecchodhayedapi)
+[lāñcha](lāñcha) [yatvā](yatvā) [yathā-nyāyaṃ](yathānyāyaṃ) [kartaye](kartayec) [chodhayed](chodhayed) [api](api)
 
 ## mukta-m0-p22-v534
-[pedestal-with](piṇḍikāsahitaṃ) [that](tacca) [viṣṇu-part-end-elevated](viṣṇubhāgāntamunnatam)
+[piṇḍikā-sahitaṃ](piṇḍikāsahitaṃ) [tat](tacca) [ca](ca) [viṣṇu-bhāga-antam](viṣṇubhāgāntam) [unnatam](unnatam)
 
 ## mukta-m0-p22-v535
-[single-piece](ekakhaṇḍaiva) [make](kartavyā) [pedestal](piṇḍikā) [vai](vai) [śiva's](śivasya) [tu](tu)
+[eka-khaṇḍa-eva](ekakhaṇḍaiva) [kartavyā](kartavyā) [piṇḍikā](piṇḍikā) [vai](vai) [śivasya](śivasya) [tu](tu)
 
 ## mukta-m0-p22-v536
-[spout-indra-soma-or](praṇālamaindrasaumye) [vā](vā) [water-reservoir-below-thus](jalādhāramadhastathā)
+[praṇāla-maindra-saumye](praṇālamaindrasaumye) [vā](vā) [jala-ādhāram](jalādhāram) [adhastathā](adhastathā)
 
 ## mukta-m0-p22-v537
-[not-brahma-stone](na) [tu](tu) [brahmaśilā](brahmaśilā) [wise](prājñairiti) [scriptures](śāstreṣu) [spoken](bhāṣitam)
+[na](na) [tu](tu) [brahma-śilā](brahmaśilā) [prājñair](prājñair) [iti](iti) [śāstreṣu](śāstreṣu) [bhāṣitam](bhāṣitam)
 
 ## mukta-m0-p22-v538
-[liṅga-cut-upper-part-there](liṅgachedordhvabhāgasthā) [tathādho](tathādho) [part-gone-or](bhāgagāpi) [vā](vā)
+[liṅga-cheda-ūrdhva-bhāga-sthā](liṅgachedordhvabhāgasthā) [tathā-adho](tathādho) [bhāga-gā-api](bhāgagāpi) [vā](vā)
 
 ## mukta-m0-p22-v539
-[height-by](ucchrāyena) [tu](tu) [liṅgas'](liṅgānām) [single-piece](ekakhaṇḍo) [prescribed](vidhīyate)
+[ucchrāyena](ucchrāyena) [tu](tu) [liṅgānām](liṅgānām) [eka-khaṇḍaḥ](ekakhaṇḍo) [vidhīyate](vidhīyate)
 
 ## mukta-m0-p22-v540
-[others'-also-liṅgas'](anyeṣāmapi) [liṅgānāṃ](liṅgānāṃ) [in-order-one-finger-more](krameṇaikāṅgulādhilā)
+[anyeṣām](anyeṣām) [api](api) [liṅgānām](liṅgānām) [krameṇa](krameṇa) [eka-aṅgula-adhilā](ekāṅgulādhilā)
 
 ## mukta-m0-p22-v541
-[self-measure](svamānānmekhalā) [tasyāḥ](tasyāḥ) [pit](khātaṃ) [vā](vā) [that-measure](tatpramāṇataḥ)
+[sva-mānāt](svamānānmekhalā) [mekhalā](mekhalā) [tasyāḥ](tasyāḥ) [khātaṃ](khātaṃ) [vā](vā) [tat-pramāṇataḥ](tatpramāṇataḥ)
 
 ## mukta-m0-p22-v542
-[brahma-part-more](brahmāṃśādadhikaḥ) [pit](khāto) [yavai](yavai) [six-breadth](ṣaḍbhiḥ) [pravistaraḥ](pravistaraḥ)
+[brahmāṃśāt](brahmāṃśādadhikaḥ) [adhikaḥ](adhikaḥ) [khātaḥ](khāto) [yavaiḥ](yavaiḥ) [ṣaḍbhiḥ](ṣaḍbhiḥ) [pravistaraḥ](pravistaraḥ)
 
 ## mukta-m0-p22-v543
-[jewel-receptacles](ratnādhārāṇi) [therein](tanmadhye) [round](vṛttāni) [nine](nava) [kalpayet](kalpayet)
+[ratna-ādhārāṇi](ratnādhārāṇi) [tan-madhye](tanmadhye) [vṛttāni](vṛttāni) [nava](nava) [kalpayet](kalpayet)
 
 ## mukta-m0-p22-v544
-[self-measure-breadth-half](svamānavistarārdhena) [thickness](bāhulyena) [endowed](samanvitā)
+[sva-māna-vistara-ardhena](svamānavistarārdhena) [bāhulyena](bāhulyena) [samanvitā](samanvitā)
 
 ## mukta-m0-p22-v545
-[wooden](vārkṣī) [brahma-stone](brahmaśilā) [vārkṣe](vārkṣe) [liṅge](liṅge) [syātpiṇḍikā](syātpiṇḍikā) [tathā](tathā)
+[vārkṣī](vārkṣī) [brahma-śilā](brahmaśilā) [vārkṣe](vārkṣe) [liṅge](liṅge) [syāt](syāt) [piṇḍikā](piṇḍikā) [tathā](tathā)
 
 ## mukta-m0-p22-v546
-[worship](arcayedastra) [puṣpa-etc](puṣpādyairānetuṃ) [mantra-knower](mantravittamaḥ)
+[arcayet](arcayedastra) [astra](astra) [puṣpa-ādyaiḥ](puṣpādyair) [ānetuṃ](ānetuṃ) [mantra-vittamaḥ](mantravittamaḥ)
 
 ## mukta-m0-p22-v547
-[ascetics](tāpasāñchivabhaktāṃśca) [śiva-devotees](śivabhaktāṃśca) [satisfy](tarpayitvānayedratham)
+[tāpasān](tāpasāñ) [śiva-bhaktāṃś](śivabhaktāṃś) [ca](ca) [tarpayitvā](tarpayitvā) [ānayed](ānayed) [ratham](ratham)
 
 ## mukta-m0-p22-v548
-[chariot](rathe) [making](kṛtvā) [ca](ca) [deveśaṃ](deveśaṃ) [worship](pūjayitvā) [tamānayet](tamānayet)
+[rathe](rathe) [kṛtvā](kṛtvā) [ca](ca) [deveśaṃ](deveśaṃ) [pūjayitvā](pūjayitvā) [tam](tam) [ānayet](ānayet)
 
 ## mukta-m0-p22-v549
-[when](yadā) [chariot](rathe) [chariot-parts'](rathāṅgānāṃ) [negligence-slip](pramādātskhalitaṃ) [bhavet](bhavet)
+[yadā](yadā) [rathe](rathe) [ratha-aṅgānām](rathāṅgānām) [pramādāt](pramādāt) [skhalitaṃ](skhalitaṃ) [bhavet](bhavet)
 
 ## mukta-m0-p22-v550
-[hundred-eight](śatamaṣṭottaraṃ) [hutvā](hutvā) [freed](mucyate) [all-sins](sarvaduṣkṛtaiḥ)
+[śatam](śatam) [aṣṭottaraṃ](aṣṭottaraṃ) [hutvā](hutvā) [mucyate](mucyate) [sarva-duṣkṛtaiḥ](sarvaduṣkṛtaiḥ)

@@ -8,7 +8,7 @@
 "tokens": [
 {
 "surface": "vedāṃśapātanāt",
-"quick_gloss": "veda-part-falling"
+"quick_gloss": "from-veda-part-falling"
 },
 {
 "surface": "koṇa",
@@ -16,7 +16,7 @@
 },
 {
 "surface": "marṭāśairatha",
-"quick_gloss": "mortal"
+"quick_gloss": "with-mortals-thus"
 },
 {
 "surface": "kambalam",
@@ -33,7 +33,7 @@
 "tokens": [
 {
 "surface": "tryaṃśapraveśanāt",
-"quick_gloss": "three-part-entry"
+"quick_gloss": "by-three-part-entry"
 },
 {
 "surface": "kaṇṭhāt",
@@ -74,11 +74,11 @@
 },
 {
 "surface": "eva",
-"quick_gloss": "indeed"
+"quick_gloss": "eva"
 },
 {
 "surface": "kuryāt",
-"quick_gloss": "should-make"
+"quick_gloss": "make"
 },
 {
 "surface": "śṛṅgāṇi",
@@ -106,12 +106,8 @@
 "quick_gloss": "revanta"
 },
 {
-"surface": "śchatradhārādibhir",
-"quick_gloss": "umbrella-holder-etc"
-},
-{
-"surface": "yutaḥ",
-"quick_gloss": "with"
+"surface": "śchatradhārādibhiryutaḥ",
+"quick_gloss": "with-umbrella-ray-etc"
 }
 ]
 },
@@ -123,8 +119,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "nānāratnasuveśāḍhyāḥ",
-"quick_gloss": "various-gem-beautiful-rich"
+"surface": "nānāratnasuveśāḍhyā",
+"quick_gloss": "with-various-gem-beauty-rich"
 },
 {
 "surface": "caṇḍatejāḥ",
@@ -132,7 +128,7 @@
 },
 {
 "surface": "svabhāvajāḥ",
-"quick_gloss": "natural"
+"quick_gloss": "natural-born"
 }
 ]
 },
@@ -153,7 +149,7 @@
 },
 {
 "surface": "tathā",
-"quick_gloss": "and"
+"quick_gloss": "thus"
 },
 {
 "surface": "śvetaṃ",
@@ -265,7 +261,7 @@
 },
 {
 "surface": "naranāgārdharūpiṇam",
-"quick_gloss": "man-naga-half-formed"
+"quick_gloss": "half-man-serpent-formed"
 }
 ]
 },
@@ -277,16 +273,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "etāṃs",
+"surface": "etāṃstu",
 "quick_gloss": "these"
 },
 {
-"surface": "tu+dvibhujān+sarvān",
-"quick_gloss": "two-armed-all"
+"surface": "dvibhujān",
+"quick_gloss": "two-armed"
+},
+{
+"surface": "sarvān",
+"quick_gloss": "all"
 },
 {
 "surface": "bhūṣaṇāmbarasaṃyutān",
-"quick_gloss": "ornament-garment-equipped"
+"quick_gloss": "with-ornament-garment"
 }
 ]
 },
@@ -310,7 +310,7 @@
 "quick_gloss": "of-these"
 },
 {
-"surface": "adhaḥ",
+"surface": "adho",
 "quick_gloss": "below"
 },
 {
@@ -318,8 +318,12 @@
 "quick_gloss": "vehicle"
 },
 {
-"surface": "kramātsadā",
-"quick_gloss": "in-order-always"
+"surface": "kramāt",
+"quick_gloss": "in-order"
+},
+{
+"surface": "sadā",
+"quick_gloss": "always"
 }
 ]
 },
@@ -339,12 +343,12 @@
 "quick_gloss": "thousand-hooded"
 },
 {
-"surface": "hīśvaraḥ",
+"surface": "īśvaraḥ",
 "quick_gloss": "lord"
 },
 {
 "surface": "kuvalayānvitaḥ",
-"quick_gloss": "blue-lotus-equipped"
+"quick_gloss": "with-blue-lotus"
 }
 ]
 },
@@ -361,15 +365,15 @@
 },
 {
 "surface": "karkoṭakaḥ",
-"quick_gloss": "karkotaka"
+"quick_gloss": "karkoṭaka"
 },
 {
 "surface": "kaṇṭhe",
-"quick_gloss": "throat"
+"quick_gloss": "at-throat"
 },
 {
 "surface": "śulkarekhātrayānvitaḥ",
-"quick_gloss": "three-stripe-marked"
+"quick_gloss": "with-three-stripe-line"
 }
 ]
 },
@@ -394,7 +398,7 @@
 },
 {
 "surface": "kṛṣṇaśūladhṛk",
-"quick_gloss": "black-trident-holder"
+"quick_gloss": "black-trident-bearer"
 }
 ]
 },
@@ -440,7 +444,7 @@
 },
 {
 "surface": "kuṇḍikāpucchasaṃyutāḥ",
-"quick_gloss": "pitcher-tail-equipped"
+"quick_gloss": "pitcher-tail-joined"
 }
 ]
 },
@@ -452,20 +456,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "bhṛtyāś",
+"surface": "bhṛtyāśca",
 "quick_gloss": "servants"
 },
 {
-"surface": "caikaphaṇāḥ",
-"quick_gloss": "one-hooded"
+"surface": "ekaphaṇāḥ",
+"quick_gloss": "single-hooded"
 },
 {
-"surface": "kāryās",
-"quick_gloss": "should-be"
-},
-{
-"surface": "tadrūpā",
-"quick_gloss": "that-formed"
+"surface": "kāryāstadrūpā",
+"quick_gloss": "to-be-made"
 },
 {
 "surface": "maṇivarjitāḥ",
@@ -482,7 +482,7 @@
 "tokens": [
 {
 "surface": "hārakuṇḍalakeyūraiḥ",
-"quick_gloss": "garland-earring-armlet"
+"quick_gloss": "with-garland-earring-armlet"
 },
 {
 "surface": "sadābharaṇabhūṣitā",
@@ -499,7 +499,7 @@
 "tokens": [
 {
 "surface": "īdṛśī",
-"quick_gloss": "thus"
+"quick_gloss": "such"
 },
 {
 "surface": "manasā",
@@ -507,11 +507,11 @@
 },
 {
 "surface": "kāryā",
-"quick_gloss": "should-be-made"
+"quick_gloss": "to-be-made"
 },
 {
 "surface": "śrīkaṇṭhamanasambhavā",
-"quick_gloss": "srikantha-mind-born"
+"quick_gloss": "śrīkaṇṭha-mind-born"
 }
 ]
 },
@@ -540,7 +540,7 @@
 },
 {
 "surface": "akṣasūtrabhṛt",
-"quick_gloss": "rosary-holder"
+"quick_gloss": "rosary-bearer"
 }
 ]
 },
@@ -553,11 +553,15 @@
 "tokens": [
 {
 "surface": "nānālaṅkārasaṃyuktāv",
-"quick_gloss": "various-ornament-equipped"
+"quick_gloss": "with-various-ornaments"
 },
 {
-"surface": "utpalamaṇi+bhṛtkarau",
-"quick_gloss": "lotus-gem-holder-hands"
+"surface": "utpalamaṇi",
+"quick_gloss": "lotus-gem"
+},
+{
+"surface": "bhṛtkarau",
+"quick_gloss": "bearer-hands"
 }
 ]
 },
@@ -582,11 +586,11 @@
 },
 {
 "surface": "svotsaṅge",
-"quick_gloss": "own-lap"
+"quick_gloss": "on-lap"
 },
 {
 "surface": "putradhāriṇī",
-"quick_gloss": "son-holding"
+"quick_gloss": "son-bearing"
 }
 ]
 },
