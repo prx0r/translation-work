@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p29-v701
-[by-much](bahunā) [what](kim) [here](iha) [by-said](uktena) [two](dvau) [mind](mānasa) [winds](samīraṇau)
+[bahunā](bahunā) [kim](kim) [iha](iha) [uktena](uktena) [dvau](dvau) [mānasa](mānasa) [samīraṇau](samīraṇau)
 
 ## mukta-m0-p29-v702
-[of-them](tayoḥ) [union](saṃyojanaṃ) [I-will-speak](vakṣye) [attentive](sāvadhānā) [listen](śruṇu) [beloved](priye)
+[tayoḥ](tayoḥ) [saṃyojanaṃ](saṃyojanaṃ) [vakṣye](vakṣye) [sāvadhānā](sāvadhānā) [śruṇu](śruṇu) [priye](priye)
 
 ## mukta-m0-p29-v703
-[by-sixty-four](catuḥṣaṣṭyā) [but](tu) [of-measures](mātrāṇāṃ) [fill](pūrayet) [lord-of-wind](māruta+īśvaram)
+[catuḥṣaṣṭyā](catuḥṣaṣṭyā) [tu](tu) [mātrāṇāṃ](mātrāṇāṃ) [pūrayet](pūrayet) [māruteśvaram](māruteśvaram)
 
 ## mukta-m0-p29-v704
-[five](paṃca) [light](laghu) [syllable](akṣara) [utterance](uccāra) [time](kāla) [measure](mātrā) [thus](iti) [is-called](kathyate)
+[paṃca](paṃca) [laghu](laghu) [akṣara](akṣara) [uccāra](uccāra) [kālaḥ](kālaḥ) [mātrā](mātrā) [iti](iti) [kathyate](kathyate)
 
 ## mukta-m0-p29-v705
-[in-breath](pūrakaḥ) [retention](kuṃbhakaḥ) [and](ca) [eva](eva) [out-breath](recakaḥ) [ca](ca) [O-great-lady](maheśvari)
+[pūrakaḥ](pūrakaḥ) [kuṃbhakaḥ](kuṃbhakaḥ) [ca](ca) [eva](eva) [recakaḥ](recakaḥ) [ca](ca) [maheśvari](maheśvari)
 
 ## mukta-m0-p29-v706
-[crow-faced](kākola+mukhaḥ) [ca](ca) [va](va) [wind-filling](vāyu+pūraṇa) [born](bhadajāḥ)
+[kākolaka](kākolaka) [mukhaḥ](mukhaḥ) [ca](ca) [eva](eva) [vāyu](vāyu) [pūraṇa](pūraṇa) [bhadajāḥ](bhadajāḥ)
 
 ## mukta-m0-p29-v707
-[fitting](yuktaṃ) [fitting](yuktaṃ) [ca](ca) [grasp](gṛhṇīyā) [god](devaṃ) [perfection](siddhim) [obtain](avāpnuyāt)
+[yuktaṃ](yuktaṃ) [yuktaṃ](yuktaṃ) [ca](ca) [gṛhṇīyāt](gṛhṇīyāt) [devaṃ](devaṃ) [siddhim](siddhim) [avāpnuyāt](avāpnuyāt)
 
 ## mukta-m0-p29-v708
-[slowly](śanaiḥ) [again](punar) [release](mokṣaṇaṃ) [be](syāt) [whence](yataḥ) [wind](vāyu) [victory](jayo) [become](bhavet)
+[śanaiḥ](śanaiḥ) [punar](punar) [mokṣaṇaṃ](mokṣaṇaṃ) [syāt](syāt) [yataḥ](yataḥ) [vāyu](vāyu) [jayaḥ](jayaḥ) [bhavet](bhavet)
 
 ## mukta-m0-p29-v709
-[all](sarvaṃ) [pervade](vyāpnoti) [ca](ca) [body](vapuḥ) [pleasure-causing](sukha+kārī) [subdued](vaśīkṛtaḥ)
+[sarvaṃ](sarvaṃ) [vyāpnoti](vyāpnoti) [ca](ca) [vapuḥ](vapuḥ) [sukha](sukha) [kārī](kārī) [vaśīkṛtaḥ](vaśīkṛtaḥ)
 
 ## mukta-m0-p29-v710
-[in-all](sarveṣu) [api](api) [means](upāyeṣu) [of-wind-control](marut+dhāraṇa) [action](karmaṇaḥ)
+[sarveṣu](sarveṣu) [api](api) [upāyeṣu](upāyeṣu) [marut](marut) [dhāraṇa](dhāraṇa) [karmaṇaḥ](karmaṇaḥ)
 
 ## mukta-m0-p29-v711
-[door-vision](dvāra+dṛṣṭiḥ) [wakefulness](jāgarīka) [reflection](vimarśaḥ) [ca](ca) [api](api) [running](dhāvanam)
+[dvāra](dvāra) [dṛṣṭiḥ](dṛṣṭiḥ) [jāgarīka](jāgarīka) [vimarśaḥ](vimarśaḥ) [ca](ca) [api](api) [dhāvanam](dhāvanam)
 
 ## mukta-m0-p29-v712
-[door-vision](cāra+dṛṣṭiṃ) [when](yadā) [do](kuryāt) [then](tadā) [wind](vāyu) [victory](jayo) [become](bhavet)
+[cāra](cāra) [dṛṣṭiṃ](dṛṣṭiṃ) [yadā](yadā) [kuryāt](kuryāt) [tadā](tadā) [vāyu](vāyu) [jayaḥ](jayaḥ) [bhavet](bhavet)
 
 ## mukta-m0-p29-v713
-[then](tadā) [thievishness](coratvam) [abandoning](ujjhitvā) [wind](pavanaḥ) [friendship](sakhyam) [seeks](īhate)
+[tadā](tadā) [coratvam](coratvam) [ujjhitvā](ujjhitvā) [pavanaḥ](pavanaḥ) [sakhyam](sakhyam) [īhate](īhate)
 
 ## mukta-m0-p29-v714
-[householder](gṛhaḥ) [become](bhavati) [life](jīvaḥ) [this](ayaṃ) [householder](gṛhamedhī) [consciousness](cit) [limb](aṃganaḥ)
+[gṛhaḥ](gṛhaḥ) [bhavati](bhavati) [jīvaḥ](jīvaḥ) [ayaṃ](ayaṃ) [gṛhamedhī](gṛhamedhī) [cit](cit) [aṃganaḥ](aṃganaḥ)
 
 ## mukta-m0-p29-v715
-[cause](hetu) [end](antaṃ) [seeks](īhate) [wind](vāyuḥ) [hidden](mitatva) [thief](taskaraḥ)
+[hetu](hetu) [antam](antam) [īhate](īhate) [vāyuḥ](vāyuḥ) [mitra](mitra) [tvac](tvac) [channaḥ](channaḥ) [taskaraḥ](taskaraḥ)
 
 ## mukta-m0-p29-v716
-[hole](raṃdhra) [striker](prahārī) [to-steal](hartuṃ) [then](tadā) [life-wealth](āyur+vittaṃ) [seeks](samīhate)
+[raṃdhra](raṃdhra) [prahārī](prahārī) [hartuṃ](hartuṃ) [tadā](tadā) [āyuḥ](āyuḥ) [vittaṃ](vittaṃ) [samīhate](samīhate)
 
 ## mukta-m0-p29-v717
-[real](tātvikī) [tu](tu) [become](bhaven) [friendship](maitrī) [of-yogins](yogināṃ) [of-intellect](dhī) [and-wind](samīrayoḥ)
+[tātvikī](tātvikī) [tu](tu) [bhavet](bhavet) [maitrī](maitrī) [yogināṃ](yogināṃ) [dhī](dhī) [samīrayoḥ](samīrayoḥ)
 
 ## mukta-m0-p29-v718
-[therefore](ataḥ) [thief](coraḥ) [wind](samīrayaḥ) [guard](pratipālya) [carefully](prayatnataḥ)
+[ataḥ](ataḥ) [coraḥ](coraḥ) [samīraḥ](samīraḥ) [yaḥ](yaḥ) [pratipālya](pratipālya) [prayatnataḥ](prayatnataḥ)
 
 ## mukta-m0-p29-v719
-[protects](rakṣati) [iva](iva) [body](vapuḥ) [house](gehaṃ) [by-deceit](kāpaṭyāt) [wind-thief](vāyu+taskaraḥ)
+[rakṣati](rakṣati) [va](va) [vapuḥ](vapuḥ) [gehaṃ](gehaṃ) [kāpaṭyāt](kāpaṭyāt) [vāyu](vāyu) [taskaraḥ](taskaraḥ)
 
 ## mukta-m0-p29-v720
-[mind](manaḥ) [negligence](pramādam) [seeing](ālokya) [sometimes](kadācit) [plunders](luṃṭate) [day](dinam)
+[manaḥ](manaḥ) [pramādam](pramādam) [ālokya](ālokya) [kadācit](kadācit) [luṃṭate](luṃṭate) [dinam](dinam)
 
 ## mukta-m0-p29-v721
-[therefore](ataḥ) [nature](prakṛti) [thief](coraḥ) [tu](tu) [from-root](samūlam) [cuts](avakṛṃtati)
+[ataḥ](ataḥ) [prakṛti](prakṛti) [coraḥ](coraḥ) [tu](tu) [samūlam](samūlam) [avakṛṃtati](avakṛṃtati)
 
 ## mukta-m0-p29-v722
-[inner](antaḥ) [nature](prakṛti) [thief](coraḥ) [tu](tu) [nature-action](prakṛti+kāram) [deserves](arhati)
+[antaḥ](antaḥ) [prakṛti](prakṛti) [coraḥ](coraḥ) [tu](tu) [prakṛtī](prakṛtī) [kāram](kāram) [arhati](arhati)
 
 ## mukta-m0-p29-v723
-[not-to-be-released](amoktavyaḥ) [he](saḥ) [with-effort](yatnāt) [vā](vā) [api](api) [pekṣya](pekṣya) [eva](eva) [other-goal](parāṃ+gatim)
+[amoktavyaḥ](amoktavyaḥ) [saḥ](saḥ) [yatnāt](yatnāt) [vā](vā) [api](api) [pekṣya](pekṣya) [eva](eva) [parāṃ](parāṃ) [gatim](gatim)
 
 ## mukta-m0-p29-v724
-[he](satu) [thief](coraḥ) [api](api) [hold](dharttavyaḥ) [observing](samavekṣya) [step](pade) [step](pade)
+[saḥ](saḥ) [tu](tu) [coraḥ](coraḥ) [api](api) [dharttavyaḥ](dharttavyaḥ) [samavekṣya](samavekṣya) [pade](pade) [pade](pade)
 
 ## mukta-m0-p29-v725
-[without-observing](anavekṣya) [outward](bahis) [goes](yāti) [then](tadā) [thief](coraḥ) [wishes-to-steal](jihīrṣati)
+[anavekṣya](anavekṣya) [bahiḥ](bahiḥ) [yāti](yāti) [tadā](tadā) [coraḥ](coraḥ) [jihīrṣati](jihīrṣati)
