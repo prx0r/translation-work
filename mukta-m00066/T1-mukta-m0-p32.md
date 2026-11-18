@@ -2,22 +2,22 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p32-v776
-[arcayet](arcayet) [liṅgam](liṃgam) [īśānam](īśānam) [iyamādyā](iyamādyā) [mayāhutiḥ](mayāhutiḥ)
+[arcayelliṃgamīśānamiyamādyā](arcayelliṃgamīśānamiyamādyā) [mayāhutiḥ](mayāhutiḥ)
 
 ## mukta-m0-p32-v777
-[caṃdragarbha](caṃdragarbha) [iti](iti) [kā](kā) [api](api) [asti](asti) [nāḍī](nāḍī) [nalina](nalina) [locane](locane)
+[caṃdragarbheti](caṃdragarbheti) [kāpyasti](kāpyasti) [nāḍīnalinalocane](nāḍīnalinalocane)
 
 ## mukta-m0-p32-v778
-[tatratyam](tatratyam) [amṛtam](amṛtaṃ) [viddhi](viddhi) [kāmeśvarī](kāmeśvarī) [uktibhūtidam](uktibhūtidam)
+[tatratyamamṛtaṃ](tatratyamamṛtaṃ) [viddhi](viddhi) [kāmeśvaryuktibhūtidam](kāmeśvaryuktibhūtidam)
 
 ## mukta-m0-p32-v779
-[īṣatpāṭala](īṣatpāṭala) [varṇam](varṇaṃ) [ca](ca) [yūthikā](yūthikā) [sama](sama) [saurabham](saurabham)
+[īṣatpāṭalavarṇaṃ](īṣatpāṭalavarṇaṃ) [ca](ca) [yūthikāsamasaurabham](yūthikāsamasaurabham)
 
 ## mukta-m0-p32-v780
-[sabhavatyam](sabhavatyaṃ) [samāpannaḥ](samāpanno) [jaladatvam](jaladatvaṃ) [vaśīkriyāt](vaśīkriyāt)
+[sabhavatyaṃ](sabhavatyaṃ) [samāpanno](samāpanno) [jaladatvaṃ](jaladatvaṃ) [vaśīkriyāt](vaśīkriyāt)
 
 ## mukta-m0-p32-v781
-[na](na) [sarodeva](sarodeva) [svāteṣu](svāteṣu) [skhalitam](skhalitaṃ) [gamanam](gamanaṃ) [bhavet](bhavet)
+[na](na) [sarodeva](sarodeva) [svāteṣu](svāteṣu) [skhalitaṃ](skhalitaṃ) [gamanaṃ](gamanaṃ) [bhavet](bhavet)
 
 ## mukta-m0-p32-v782
 [caṃdonmattā](caṃdonmattā) [padasthāne](padasthāne) [caṃdragarbhā](caṃdragarbhā) [prakīrttitā](prakīrttitā)
@@ -26,7 +26,7 @@
 [atradūtyāḥ](atradūtyāḥ) [śarīrasya](śarīrasya) [pūrvatrāpi](pūrvatrāpi) [daśābruve](daśābruve)
 
 ## mukta-m0-p32-v784
-[īṣadāraktatā](īṣadāraktatā) [netre](netre) [kiṃcidbhūvallitāṃḍavaṃ](kiṃcidbhūvallitāṃḍavaṃ)
+[īṣadāraktatānetre](īṣadāraktatānetre) [kiṃcidbhūvallitāṃḍavaṃ](kiṃcidbhūvallitāṃḍavaṃ)
 
 ## mukta-m0-p32-v785
 [ānaṃdanātha](ānaṃdanātha) [bhavana](bhavana) [bāhyakakṣyā](bāhyakakṣyā) [vigāhanam](vigāhanam)
