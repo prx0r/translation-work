@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p84-v2076
-[goddess](devī) [indeed](tu) [this](eṣā) [great](mahā)+[treasury](kośī) [gives](dadāti) [produces](utpādayati) [also](api)
+[goddess](devī) [but-this](tveṣā) [great-sheath](mahākośī) [gives](dadāti) [produces](utpādayati) [also](api)
 
 ## mukta-m0-p84-v2077
-[great](mahā)+[whirlpool](āvartā)
+[great-whirlpool](mahāvartā)
 
 ## mukta-m0-p84-v2078
-[in-the-end](ante) [unconfined](asaṃbādham) [indeed](eva) [let-it-be](astu) [great](mahā)+[whirlpool](āvartā) [greatness](mahattva)+[giver](dā)
+[at-end](ante) [unobstructed](asaṃbādha) [indeed](eva) [let-it-be](astu) [great-whirlpool](mahāvartā) [greatness-giver](mahattvadā)
 
 ## mukta-m0-p84-v2079
-[intellect](buddhiḥ) [existent](sat)+[non-existent](asat)+[natured](ātmikā)
+[intellect](buddhiḥ) [being-nonbeing-self](sadasadātmikā)
 
 ## mukta-m0-p84-v2080
-[this](idam) [she](sā) [I](aham) [self](svayaṃ)+[accomplished](siddhiḥ) [intellect](buddhiḥ) [existent](sat)+[non-existent](asat)+[natured](ātmikā)
+[this](idaṃ) [she-I](sāhaṃ) [self-accomplishment](svayaṃsiddhiḥ) [intellect](buddhiḥ) [being-nonbeing-self](sadasadātmikā)
 
 ## mukta-m0-p84-v2081
-[great](mahā)+[seizer](graha)+[remover](harā)
+[great-graha-remover](mahāgrahaharā)
 
 ## mukta-m0-p84-v2082
-[ever](kadāpi) [not](na) [seizure](āgrahaḥ) [of-whom](yasyāḥ) [great](mahā)+[seizer](graha)+[remover](harā) [is](asti) [she](sā)
+[never](kadāpi) [no-graha](nāgraho) [whose](yasyā) [great-graha-remover](mahāgrahaharā) [is](asti) [she](sā)
 
 ## mukta-m0-p84-v2083
 [gentle](saumyā)
 
 ## mukta-m0-p84-v2084
-[moon](soma)+[faced](ānanāṃ) [moon](soma)+[digit](kalā)+[crested](avataṃsām)
+[moon-faced](somānanāṃ) [moon-crescent-ornamented](somakalāvataṃsām)
 
 ## mukta-m0-p84-v2085
 [sorrowless](viśokā)
 
 ## mukta-m0-p84-v2086
-[beholds](vilokayati) [this](etat) [therefore](ataḥ) [sorrowless](viśokā)
+[beholds](vilokayati) [this](etad) [therefore](ato) [sorrowless](viśokā)
 
 ## mukta-m0-p84-v2087
-[sorrow](śoka)+[destroyer](nāśinī)
+[page-252](p. 252)) [sorrow-destroyer](śokanāśinī)
 
 ## mukta-m0-p84-v2088
-[hear](niśam) [here](iha) [of-whom](yasya) [indeed](hi) [sorrow](śoka)+[destroyer](nāśinī) [you](tvam)
+[hear-here](niśamiha) [whose](yasya) [indeed](hi) [sorrow-destroyer](śokanāśinī) [you](tvam)
 
 ## mukta-m0-p84-v2089
-[sāttvic](sāttvikī)
+[sattvic](sāttvikī)
 
 ## mukta-m0-p84-v2090
-[all](sarva)+[essence](sāta)+[rasa](kara)+[true](sanmat)+[course](kramaḥ) [in-the-heart](cetasi) [shines](sphurati) [of-whom](yasya) [sāttvic](sāttvikī)
+[all-sattva-essence-mind](sarvasātakarasanmatakramaścetasi) [flashes](sphurati) [whose](yasya) [sattvic](sāttvikī)
 
 ## mukta-m0-p84-v2091
-[sattva](sattva)+[abiding](saṃsthā)
+[sattva-established](sattvasaṃsthā)
 
 ## mukta-m0-p84-v2092
-[equally](samam) [which](yat) [by-compassion](dayayā) [being](sattvam) [sattva](sattva)+[abiding](saṃsthā) [may-she-give](dadātu) [she](sā)
+[equally](samaṃ) [by-compassion](dayayā) [sattva](sattvaṃ) [sattva-established](sattvasaṃsthā) [let-give](dadātu) [she](sā)
 
 ## mukta-m0-p84-v2093
-[rājasic](rājasī)
+[rajasic](rājasī)
 
 ## mukta-m0-p84-v2094
-[venerability](pūjyatvam) [of-kings](rāja)+[of-kings](rājānām) [rājasic](rājasī) [this](iyam) [may-she-give](dadātu) [to-us](naḥ)
+[worshipfulness](pūjyatvaṃ) [of-kings-of-kings](rājarājānāṃ) [rajasic-this](rājasīyaṃ) [let-give](dadātu) [to-us](naḥ)
 
 ## mukta-m0-p84-v2095
-[rajas](rajaḥ)+[enveloped](vṛtā)
+[rajo-enveloped](rajovṛtā)
 
 ## mukta-m0-p84-v2096
-[for-a-moment](kṣaṇābhyastāt) [always](sadā) [she](sā) [also](api) [wondrously](citram) [by-her-own](svena) [rajas](rajaḥ)+[enveloped](vṛtā)
+[momentarily](kṣaṇābhyastāt) [always](sadā) [she-also](sāpi) [wonder](citraṃ) [by-own](svena) [rajo-enveloped](rajovṛtā)
 
 ## mukta-m0-p84-v2097
-[tāmasic](tāmasī)
+[tamasic](tāmasī)
 
 ## mukta-m0-p84-v2098
-[that](saḥ) [tāmasic](tāmasī)+[meditation](dhyāna)+[born](bhavaḥ) [power](anubhāvaḥ)
+[he](sa) [tamasic-meditation-born-power](tāmasīdhyānabhavo'nubhāvaḥ)
 
 ## mukta-m0-p84-v2099
-[tamas](tamaḥ)+[joined](yuktā)
+[page-253](p. 253)) [tamo-united](tamoyuktā)
 
 ## mukta-m0-p84-v2100
-[strength](balam) [of-whom](yasyāḥ) [having-taken](samādāya) [tamas](tamaḥ)+[joined](yuktā) [is](asti) [she](sā) [auspicious](śivā)
+[strength](balaṃ) [whose](yasyāḥ) [taking](samādāya) [tamo-united](tamoyuktā) [is](asti) [she](sā) [auspicious](śivā)
