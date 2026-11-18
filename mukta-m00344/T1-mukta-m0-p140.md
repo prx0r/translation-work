@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p140-v3476
-[pūrṇa-cin-mātra-rūpiṇaḥ](pūrṇacinmātrarūpiṇaḥ)
+[full+consciousness+only+form](pūrṇacinmātrarūpiṇaḥ)
 
 ## mukta-m0-p140-v3477
-[sukha-duḥkha-juṣaḥ](sukhaduḥkhajuṣo) [atyantam](atyantaṃ) [paśu-tulya-tayā](paśutulyatayā) [sthitāḥ](sthitāḥ)
+[pleasure+pain+experiencing+completely](sukhaduḥkhajuṣo'tyantaṃ) [animal+likeness+in+state](paśutulyatayā) [standing](sthitāḥ)
 
 ## mukta-m0-p140-v3478
-[vicāra-vimukhāḥ](vicāravimukhāḥ) [tyakta-anusandhānāḥ](tyaktānusandhānāḥ)
+[inquiry+averse](vicāravimukhāḥ) [abandoned+investigation](tyaktānusandhānāḥ)
 
 ## mukta-m0-p140-v3479
-[teṣām](teṣāṃ) [yā](yā) [sā](sā) [paśu-daśā](paśudaśā) [sad-vimarśa-antarāla-gā](sadvimarśāntarālagā)
+[their](teṣāṃ) [which](yā) [that](sā) [animal+state](paśudaśā) [true+reflection+between+space](sadvimarśāntarālagā)
 
 ## mukta-m0-p140-v3480
-[pūrṇa-daśā-antarāla-gā](pūrṇadaśāntarālagā) [paśu-sthitiḥ](paśusthitirna) [na](na) [bandhāya](bandhāyetyāha) [iti](iti) [āha](āha) [teṣām](teṣāmiti)
+[full+state+between+space](pūrṇadaśāntarālagā) [animal+standing](paśusthitirna) [bondage+for](bandhāyetyāha) [their+thus](teṣāmiti)
 
 ## mukta-m0-p140-v3481
-[lākṣā-rasaiḥ](lākṣārasairyadā) [yadā](yadā) [vastra-prānta-yugmam](vastraprāntayugmaṃ) [su-rañjitam](suranjitam)
+[lac+juice+by](lākṣārasairyadā) [cloth+edge+pair](vastraprāntayugmaṃ) [well+dyed](surañjitam)
 
 ## mukta-m0-p140-v3482
-[lākṣā-iti](lākṣeti)
+[lac+thus](lākṣeti)
 
 ## mukta-m0-p140-v3483
-[evam](evaṃ) [tasya](tasya) [vyavahṛtiḥ](vyavahṛtiścidāmarśanamadhyagā) [cit-āmarśana-madhya-gā](citāmarśanamadhyagā)
+[thus](evaṃ) [his](tasya) [transaction](vyavahṛtiścidāmarśanamadhyagā)
 
 ## mukta-m0-p140-v3484
-[bandhanāya](bandhanāyeti) [iti](iti) [bhāvaḥ](bhāvaḥ)
+[bondage+for+thus+sense](bandhanāyeti) [bhāvaḥ](bhāvaḥ)
 
 ## mukta-m0-p140-v3485
-[madhya-vijñāninām](madhyavijñānināṃ) [deha-saṃyogaḥ](dehasaṃyogo) [na](nāsti) [asti](asti) [sarvathā](sarvathā)
+[middle+knower+of](madhyavijñānināṃ) [body+union](dehasaṃyogo) [not+is](nāsti) [in+any+way](sarvathā)
 
 ## mukta-m0-p140-v3486
-[madhya-jñāninām](madhyajñānināṃ) [sthitim](sthitimāha) [āha](āha) [madhya-iti](madhyeti)
+[middle+knower+state](madhyajñānināṃ) [states](sthitimāha) [middle+thus](madhyeti)
 
 ## mukta-m0-p140-v3487
-[saḥ](sa) [na](nāsti) [asti](asti) [madhya-vijñānavataḥ](madhyavijñānavato) [rāma](rāma) [kadācana](kadācana)
+[he](sa) [not+is](nāsti) [middle+knower+possessing](madhyavijñānavato) [Rama](rāma) [ever](kadācana)
 
 ## mukta-m0-p140-v3488
-[sadā](sadā) [samāhita-svāntaḥ](samāhitasvānto) [vyavahāraḥ](vyavahāro) [na](na) [tasya](tasya) [hi](hi)
+[always](sadā) [collected+mind](samāhitasvānto) [transaction](vyavahāro) [not+his](na) [indeed](tasya) [hi](hi)
 
 ## mukta-m0-p140-v3489
-[niruddham](niruddham) [tasya](tasya) [madhya-jñāninaḥ](madhyajñāninaḥ)
+[restrained](niruddham) [his](tasya) [middle+knower](madhyajñāninaḥ)
 
 ## mukta-m0-p140-v3490
-[yathā](yathā) [kaścit](kaścit) [suṣupti-sthaḥ](suṣuptistho) [vāsanā-mātrataḥ](vāsanāmātrataḥ) [kvacit](kvacit)
+[as](yathā) [someone](kaścit) [deep+sleep+situated](suṣuptistho) [latent+impression+only](vāsanāmātrataḥ) [somewhere](kvacit)
 
 ## mukta-m0-p140-v3491
-[cet](cet) [tasya](tasya) [ābhāsatvāt](ābhāsatvāditi) [iti](iti) [sadṛṣṭāntam](sadṛṣṭāntamāha) [āha](āha) [yathā-iti](yatheti) [vāsanā](vāsanā) [saṃskāraḥ](saṃskāraḥ)
+[if+its+appearance+because](cettasyābhāsatvāditi) [with+example+says](sadṛṣṭāntamāha) [as+thus](yatheti) [latent+impression](vāsanā) [saṃskāraḥ](saṃskāraḥ)
 
 ## mukta-m0-p140-v3492
-[yathā](yathā) [ca](ca) [madirā-mattaḥ](madirāmatto) [vadan](vadan) [kurvan](kurvanna) [na](na) [veda](veda) [vai](vai)
+[as](yathā) [and](ca) [wine+intoxicated](madirāmatto) [speaking](vadan) [doing+not+knows](kurvanna) [indeed](veda) [vai](vai)
 
 ## mukta-m0-p140-v3493
-[dṛṣṭānta-antaram](dṛṣṭāntāntaram) [yathā-iti](yatheti)
+[example+another](dṛṣṭāntāntaram) [as+thus](yatheti)
 
 ## mukta-m0-p140-v3494
-[kiñcit](kiñcit) [kadācit](kadācit) [kurvan](kurvaṃśca) [ca](ca) [na](na) [vijānāti](vijānāti) [tat](tat) [punaḥ](punaḥ)
+[something](kiñcit) [sometimes](kadācit) [doing+and](kurvaṃśca) [not+knows](na) [that+again](vijānāti) [tatpunaḥ](tatpunaḥ)
 
 ## mukta-m0-p140-v3495
-[na](nānusandhatte) [anusandhatte](anusandhatte)
+[not+recollects](nānusandhatte)
 
 ## mukta-m0-p140-v3496
-[yaḥ](yastūttamaḥ) [tu](tu) [uttamaḥ](uttamaḥ) [su-vijñānī](suvijñānī) [dehaḥ](dehastasyāpi) [tasya](tasya) [api](api) [na](nāsti) [asti](asti) [hi](hi)
+[who+but+highest](yastūttamaḥ) [well+knower](suvijñānī) [body+his+also+not+is](dehastasyāpi) [indeed](nāsti) [hi](hi)
 
 ## mukta-m0-p140-v3497
-[stanya-pāne](stanyapāne) [pravṛttiḥ](pravṛttirevamiti) [evam](evam) [iti](iti) [bhāvaḥ](bhāvaḥ) [uttamasya](uttamasya) [sthitim](sthitimāha) [āha](āha) [yaḥ](yastviti) [tu](tu) [iti](iti)
+[milk+drinking+activity+thus+sense](stanyapāne) [pravṛttirevamiti) [bhāvaḥ](bhāvaḥ) [highest+state](uttamasya) [sthitimāha](sthitimāha) [who+but+thus](yastviti)
 
 ## mukta-m0-p140-v3498
-[yathā](yathā) [rathena](rathena) [vyāpāram](vyāpāraṃ) [kurvan](kurvan) [na](na) [ratha-dehakaḥ](rathadehakaḥ)
+[as](yathā) [chariot+by](rathena) [activity](vyāpāraṃ) [doing](kurvan) [not](na) [chariot+body](rathadehakaḥ)
 
 ## mukta-m0-p140-v3499
-[ced](ced) [āha](āha) [ratha-iti](ratheti) [etat](etadevopapādayati) [eva](eva) [upapādayati](upapādayati) [yathā-iti](yatheti)
+[if+says](cedāha) [chariot+thus](ratheti) [this+indeed+establishes](etadevopapādayati) [as+thus](yatheti)
 
 ## mukta-m0-p140-v3500
-[na](na) [dehī](dehī) [na](nāpi) [api](api) [vyāpārī](vyāpārī) [śuddha-saṃvedana-ātmakaḥ](śuddhasaṃvedanātmakaḥ)
+[not](na) [embodied](dehī) [nor](nāpi) [agent](vyāpārī) [pure+consciousness+nature](śuddhasaṃvedanātmakaḥ)

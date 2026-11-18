@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p143-v3551
-[tān-eva](tāneva) [praśnān-āha](praśnānāha) [ākāśa-ādi-ityādi](ākāśādityādi) [sā](sā) [pṛṣṭa-rūpā](pṛṣṭarūpā)
+[those](tān) [indeed](eva) [questions](praśnān) [says](āha) [from-space-etc](ākāśādityādi) [she](sā) [question-form](pṛṣṭarūpā)
 
 ## mukta-m0-p143-v3552
-[sphurat-rūpā](sphuradrūpā) [svātma-saṃsthā](svātmasaṃsthā) [śṛṇu](śṛṇu) [tvaṃ](tvaṃ) [brahma-rākṣasa](brahmarākṣasa)
+[shining-form](sphuradrūpā) [self-abiding](svātmasaṃsthā) [hear](śṛṇu) [you](tvaṃ) [brahma-rakshasa](brahmarākṣasa)
 
 ## mukta-m0-p143-v3553
-[sarva-antaratvāt](sarvāntaratvāt) [agocaratvāt](agocaratvāt) [ca](ca) [sūkṣmatvam](sūkṣmatvam) [svātma-saṃsthā](svātmasaṃsthā) [svarūpa](svarūpa) [eva](eva) [sthitā](sthitā)
+[all-inner-ness](sarvāntaratvāt) [and](ca) [non-graspability](agocaratvāt) [subtlety](sūkṣmatvam) [self-abiding](svātmasaṃsthā) [own-form](svarūpa) [indeed](eva) [established](sthitā)
 
 ## mukta-m0-p143-v3554
-[sphurat-tvam](sphurattvaṃ) [kim](kiṃ) [kim-ātmā](kimātmā) [ca](ca) [vada](vada) [etat](etat) [nṛpa-nandana](nṛpanandana)
+[shining-ness](sphurattvaṃ) [what](kiṃ) [what-self](kimātmā) [and](ca) [tell](vada) [this](etat) [prince-delight](nṛpanandana)
 
 ## mukta-m0-p143-v3555
-[vitatā](vitatā) [sūkṣmā](sūkṣmā) [api](api) [ekā](ekā) [ca](ca) [kathaṃ](kathaṃ) [bhavet](bhavet)
+[spread](vitatā) [subtle](sūkṣmā) [also](api) [one](ekā) [and](ca) [how](kathaṃ) [becomes](bhavet)
 
 ## mukta-m0-p143-v3556
-[sphurat-tvam](sphurattvam) [ātmā](ātmā) [ca](ca) [citiḥ](citiḥ) [śṛṇu](śṛṇu) [tvaṃ](tvaṃ) [brahma-rākṣasa](brahmarākṣasa)
+[shining-ness](sphurattvam) [self](ātmā) [and](ca) [consciousness](citiḥ) [hear](śṛṇu) [you](tvaṃ) [brahma-rakshasa](brahmarākṣasa)
 
 ## mukta-m0-p143-v3557
-[cin-mātram](cinmātram) [eva](eva) [na](na) [tatas](tato) [adhikam](adhikam) [iti](iti) [tātparyam](tātparyam)
+[consciousness-only](cinmātram) [indeed](eva) [not](na) [from-that](tataḥ) [more](adhikam) [meaning](iti) [purport](tātparyam)
 
 ## mukta-m0-p143-v3558
-[upalabdhyā](upalabdhyā) [ca](ca) [kim](kiṃ) [vā](vā) [syāt](syād) [vada](vada) [etat](etat) [nṛpa-nandana](nṛpanandana)
+[by-perception](upalabdhyā) [and](ca) [what](kiṃ) [or](vā) [may-be](syād) [tell](vada) [this](etat) [prince-delight](nṛpanandana)
 
 ## mukta-m0-p143-v3559
-[upalabdhyā](upalabdhyā) [janiḥ](janir) [na](na) [syāt](syāc) [śṛṇu](śṛṇu) [tvaṃ](tvaṃ) [brahma-rākṣasa](brahmarākṣasa)
+[by-perception](upalabdhyā) [birth](janir) [not](na) [may-be](syāt) [hear](śṛṇu) [you](tvaṃ) [brahma-rakshasa](brahmarākṣasa)
 
 ## mukta-m0-p143-v3560
-[svātma-cin-mātra-ākāra-tā-sampattiḥ](svātmacinmātrākāratāsampattiḥ) [etena](etena) [mūḍha-samādhiḥ](mūḍhasamādhir) [vyāvṛttaḥ](vyāvṛttaḥ)
+[self-consciousness-only-form-attainment](svātmacinmātrākāratāsampattiḥ) [by-this](etena) [deluded-samadhi](mūḍhasamādhiḥ) [removed](vyāvṛttaḥ)
 
 ## mukta-m0-p143-v3561
-[janiḥ](janir) [vā](vā) [api](api) [bhavet](bhavet) [kā](kā) [sā](sā) [vada](vada) [etat](etat) [nṛpa-nandana](nṛpanandana)
+[birth](janir) [or](vā) [also](api) [may-be](bhavet) [what](kā) [that](sā) [tell](vada) [this](etat) [prince-delight](nṛpanandana)
 
 ## mukta-m0-p143-v3562
-[janiḥ](janir) [deha-ātmatā-buddhiḥ](dehātmatābuddhiḥ) [śṛṇu](śṛṇu) [tvaṃ](tvaṃ) [brahma-rākṣasa](brahmarākṣasa)
+[birth](janir) [body-self-ness-buddhi](dehātmatābuddhiḥ) [hear](śṛṇu) [you](tvaṃ) [brahma-rakshasa](brahmarākṣasa)
 
 ## mukta-m0-p143-v3563
-[dṛśya-anunmukhatvam](dṛśyānunmukhatvam)
+[object-facing-ness](dṛśyānunmukhatvam)
 
 ## mukta-m0-p143-v3564
-[janiḥ](janiḥ) [kathaṃ](kathaṃ) [vā](vā) [samprāptā](samprāptā) [vada](vada) [etat](etat) [nṛpa-nandana](nṛpanandana)
+[birth](janiḥ) [how](kathaṃ) [or](vā) [obtained](samprāptā) [tell](vada) [this](etat) [prince-delight](nṛpanandana)
 
 ## mukta-m0-p143-v3565
-[kasmāt](kasmāt) [nimittāt](nimittāt) [kena](kena) [karaṇena](karaṇena)
+[from-what-cause](kasmānnimittāt) [by-what-instrument](kena+karaṇena) [kāra](kāra)
 
 ## mukta-m0-p143-v3566
-[janiḥ](janiḥ) [kartṛtva-abhimānāt](kartṛtvābhimānāt) [śṛṇu](śṛṇu) [tvaṃ](tvaṃ) [brahma-rākṣasa](brahmarākṣasa)
+[birth](janiḥ) [doership-identification](kartṛtvābhimānāt) [hear](śṛṇu) [you](tvaṃ) [brahma-rakshasa](brahmarākṣasa)
 
 ## mukta-m0-p143-v3567
-[ātmanā](ātmanā) [svena](svena) [eva](eva) [karaṇa-antara-nairapekṣyeṇa](karaṇāntaranairapekṣyeṇa) [eti](eti) [yāvat](yāvat)
+[by-self](ātmanā) [by-own](svena) [indeed](eva) [instrument-other-independence](karaṇāntaranairapekṣyeṇa) [iti](iti) [as-far](yāvat)
 
 ## mukta-m0-p143-v3568
-[kaḥ](ko) [vā](vā) [kartṛtva-abhimānaḥ](kartṛtvābhimāno) [vada](vada) [etat](etat) [nṛpa-nandana](nṛpanandana)
+[who](ko) [or](vā) [doership-identification](kartṛtvābhimāno) [tell](vada) [this](etat) [prince-delight](nṛpanandana)
 
 ## mukta-m0-p143-v3569
-[tat-vāsanā-abhimānaḥ](tadvāsanābhimānaḥ) [syāt](syāc) [śṛṇu](śṛṇu) [tvaṃ](tvaṃ) [brahma-rākṣasa](brahmarākṣasa)
+[that-vasana-identification](tadvāsanābhimānaḥ) [may-be](syāt) [hear](śṛṇu) [you](tvaṃ) [brahma-rakshasa](brahmarākṣasa)
 
 ## mukta-m0-p143-v3570
-[saṃskāraḥ](saṃskāraḥ)
+[impression](saṃskāraḥ)
 
 ## mukta-m0-p143-v3571
-[tasya](tasyā) [api](api) [kim](kiṃ) [kāraṇam](kāraṇaṃ) [syāt](syād) [vada](vada) [etat](etat) [nṛpa-nandana](nṛpanandana)
+[of-that](tasyā) [also](api) [what](kiṃ) [cause](kāraṇaṃ) [may-be](syād) [tell](vada) [this](etat) [prince-delight](nṛpanandana)
 
 ## mukta-m0-p143-v3572
-[tasya](tasya) [aviveka-nāśakasya](avivekanāśakasya) [tasya](tasyāpi) [api](api) [tat-kāraṇasya](tatkāraṇasyāpi) [api](api)
+[of-that](tasya) [non-discrimination-destroyer](avivekanāśakasya) [of-that-also](tasyāpi) [of-that-cause-also](tatkāraṇasyāpi)
 
 ## mukta-m0-p143-v3573
-[tat-kāraṇam](tatkāraṇaṃ) [doṣa-dṛṣṭiḥ](doṣadṛṣṭiḥ) [śṛṇu](śṛṇu) [tvaṃ](tvaṃ) [brahma-rākṣasa](brahmarākṣasa)
+[that-cause](tatkāraṇaṃ) [fault-seeing](doṣadṛṣṭiḥ) [hear](śṛṇu) [you](tvaṃ) [brahma-rakshasa](brahmarākṣasa)
 
 ## mukta-m0-p143-v3574
-[viṣaya-doṣa-dṛṣṭiḥ](viṣayadoṣadṛṣṭiḥ)
+[object-fault-seeing](viṣayadoṣadṛṣṭiḥ)
 
 ## mukta-m0-p143-v3575
-[doṣa-dṛṣṭiḥ](doṣadṛṣṭiś) [ca](ca) [kā](kā) [proktā](proktā) [vada](vada) [etat](etat) [nṛpa-nandana](nṛpanandana)
+[fault-seeing](doṣadṛṣṭiḥ) [and](ca) [what](kā) [declared](proktā) [tell](vada) [this](etat) [prince-delight](nṛpanandana)
