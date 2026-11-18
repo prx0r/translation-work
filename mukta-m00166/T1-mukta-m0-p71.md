@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p71-v1751
-bhūta-bhāvi-vibhāvinī(bhūtabhāvivibhāvinī)
+[revealer](bhūtabhāvivibhāvinī) [of](bhūta) [beings](bhāvi) [future](vibhāvinī)
 
 ## mukta-m0-p71-v1752
-ataḥ-anyaḥ-kaḥ-sadā-ādi-antaḥ-tvām-vibhāvayitum-kṣamaḥ(ato'nyaḥ kaḥ sadādyantastvāṃ vibhāvayituṃ kṣamaḥ)
+[who](kaḥ) [else](anyaḥ) [beginning](ādi) [end](antaḥ)
 
 ## mukta-m0-p71-v1753
-maṅgalā(maṅgalā)
+[auspicious](maṅgalā) [one](sā) [always](sadā) [companion](sahāyā)
 
 ## mukta-m0-p71-v1754
-sā-maṅgalā-astu-asya-sadā-sahāyā(sā maṅgalāstvasya sadā sahāyā)
+[that](sā) [auspicious](maṅgalā) [always](sadā) [companion](sahāyā)
 
 ## mukta-m0-p71-v1755
-su-śīlā(suśīlā)
+[good-character](suśīlā) [if](yadi) [not](na) [would-be](abhaviṣyaḥ)
 
 ## mukta-m0-p71-v1756
-svayam-su-śīlā-yadi-na-abhaviṣyaḥ(svayaṃ suśīlā yadi nābhaviṣyaḥ)
+[self](svayaṃ) [good-character](suśīlā) [if](yadi) [not](na)
 
 ## mukta-m0-p71-v1757
-parama-artha-prabodhikā(paramārthaprabodhikā)
+[ultimate](paramārtha) [awakener](prabodhikā) [truth](parama) [meaning](artha)
 
 ## mukta-m0-p71-v1758
-yadā-āptyā-bhrāmakān-anya-anarthān-jānāmi-śaṣpavat(yadāptyā bhrāmakānanyānarthāñ jānāmi śaṣpavat)
+[by](yadā) [attainment](āptyā) [wanderers](bhrāmakān) [other](anyān) [harms](arthān)
 
 ## mukta-m0-p71-v1759
-dakṣiṇā(dakṣiṇā)
+[southern](dakṣiṇā) [facing](dakṣiṇa) [right](dakṣiṇa) [gift](dakṣiṇā)
 
 ## mukta-m0-p71-v1760
-yataḥ-tataḥ-tata-prajñaiḥ-dakṣiṇā-iti-prakīrtyase(yatastatastataprajñairdakṣiṇeti prakīrtyase)
+[therefore](yataḥ) [there](tataḥ) [wise](prajñaiḥ) [called](prakīrtyase)
 
 ## mukta-m0-p71-v1761
-dakṣiṇā-mūrtiḥ(dakṣiṇāmūrtiḥ)
+[south-facing](dakṣiṇāmūrtiḥ) [form](mūrtiḥ) [auspicious](dakṣiṇa) [teacher](guru)
 
 ## mukta-m0-p71-v1762
-sā-dakṣiṇā-mūrtiḥ-iti-prasiddhā(sā dakṣiṇāmūrtiriti prasiddhā)
+[that](sā) [south-facing-form](dakṣiṇāmūrtiḥ) [indeed](iti) [famous](prasiddhā)
 
 ## mukta-m0-p71-v1763
-su-dakṣiṇā(sudakṣiṇā)
+[very-auspicious](sudakṣiṇā) [truth](satyaṃ) [then](tataḥ) [goddess](devi)
 
 ## mukta-m0-p71-v1764
-satyam-tataḥ-devi-su-dakṣiṇā-asi(satyaṃ tato devi sudakṣiṇāsi)
+[truth](satyaṃ) [then](tataḥ) [goddess](devi) [very-auspicious](sudakṣiṇā)
 
 ## mukta-m0-p71-v1765
-hari-priyā(haripriyā)
+[beloved-of-hari](haripriyā) [hari](hari) [beloved](priyā) [goddess](devī)
 
 ## mukta-m0-p71-v1766
-śauriḥ-yat-dayayā-devī-kīrtitā-sā-hari-priyā(śauriryaddayayā devī kīrtitā sā haripriyā)
+[hari](śauriḥ) [by](yad) [compassion](dayayā) [goddess](devī) [called](kīrtitā)
 
 ## mukta-m0-p71-v1767
-yoginī(yoginī)
+[yoginī](yoginī) [disease](roga) [sorrow](śoka) [remover](vinivartitā)
 
 ## mukta-m0-p71-v1768
-roga-śoka-vinivartita-āśayā-yoginī-subhaga-yoga-dā-astu-sā(rogaśokavinivartitāśayā yoginī subhagayogadāstu sā)
+[disease](roga) [sorrow](śoka) [remover](vinivartitā) [yoginī](yoginī)
 
 ## mukta-m0-p71-v1769
-yoga-yuktā(yogayuktā)
+[yoga-united](yogayuktā) [consciousness-bliss](cidānanda) [always](nityaṃ) [by-self](svataḥ)
 
 ## mukta-m0-p71-v1770
-cit-ānanda-eva-yat-nityam-yoga-yuktā-tataḥ-svataḥ(cidānandaiva yannityaṃ yogayuktā tataḥ svataḥ)
+[consciousness-bliss](cidānanda) [always](nityaṃ) [yoga-united](yogayuktā) [by-self](svataḥ)
 
 ## mukta-m0-p71-v1771
-yoga-aṅgā(yogāṅgā)
+[yoga-limb](yogāṅga) [afflicted](āpannānām) [single-cause](ekahetuḥ) [called](kīrtitā)
 
 ## mukta-m0-p71-v1772
-āpannānām-āpad-anta-eka-hetuḥ-yoga-aṅgā-iyam-kīrtitā-yogināthaiḥ(āpannānāmāpadantaikaheturyogāṅgeyaṃ kīrtitā yogināthaiḥ)
+[afflicted](āpannānām) [single-cause](ekahetuḥ) [yoga-limb](yogāṅga) [called](kīrtitā)
 
 ## mukta-m0-p71-v1773
-dhyāna-śālinī(dhyānaśālinī)
+[meditation-possessing](dhyānaśālinī) [all](sarva) [meditable](dhyeya) [you](tvaṃ) [always](sarvadā)
 
 ## mukta-m0-p71-v1774
-sarva-dhyeyā-api-sarvā-asi-tvam-yasya-dhyāna-śālinī(sarvadhyeyāpi sarvāsi tvaṃ yasya dhyānaśālinī)
+[all](sarva) [meditable](dhyeya) [you](tvaṃ) [meditation-possessing](dhyānaśālinī)
 
 ## mukta-m0-p71-v1775
-yoga-paṭṭa-dharā(yogapaṭṭadharā)
+[yoga-band-wearer](yogapaṭṭadharā) [yoga](yoga) [band](paṭṭa) [wearer](dharā)
