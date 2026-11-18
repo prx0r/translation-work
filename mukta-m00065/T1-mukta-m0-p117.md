@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p117-v2901
-[high+wall+giving](uccaprākāradānena) [that+breach+removal](tacchedoddharaṇena) [or](vā)
+high-wall-gift / that-cut-uplifting / or
 
 ## mukta-m0-p117-v2902
-[spike+standing](śalyasthā) [or](vā) [very+high](atyuccā) [maker](kartāraṃ) [kills](hanti) [threshold](dehalī)
+thorn-standing / or-very-high / maker / kills / threshold
 
 ## mukta-m0-p117-v2903
-[linga+half+raising](liṅgārdhocchayanī) [should+be+done](kāryā) [with+image](sārcāyāṃ) [pedestal+raising](pīṭhikocchrayā)
+linga-half-raising / to-be-done / with-image / pedestal-raising
 
 ## mukta-m0-p117-v2904
-[below](adhaśca) [spread](vistṛte) [door](dvāre) [disease](ruk) [may+be](syāt) [woman+or](strīvātha) [fickle](cañcalā)
+below-and / wide / door / disease / may-be / woman-or / fickle
 
 ## mukta-m0-p117-v2905
-[decay](kṣayaṃ) [ants+middle](pipīlikāmadhyaṃ) [family+destroying](kulaghnaṃ) [conch+thorn](śaṅkhakaṇṭhakam)
+decay / ant-middle / family-destroying / conch-thorn
 
 ## mukta-m0-p117-v2906
-[broken](bhinna) [branch](śākhe) [decay+door](kṣayodvāre) [direction+confused](digbhrānte) [place+confusion](sthānavibhramaḥ)
+broken / branch / decay-door / direction-confused / place-confusion
 
 ## mukta-m0-p117-v2907
-[decrepit](jarjare) [reversed](viparīte) [or](vā) [wealth+loss](dhananāśaḥ) [always](sadā) [man](nare)
+decayed / reversed / or / wealth-loss / always / man
 
 ## mukta-m0-p117-v2908
-[self+opened](svayamudvāṭite) [likewise](tadvat) [afflicted](pīḍitā) [enemy+state](hitatā) [nanāt](nanāt)
+self-opened / likewise / afflicted-enemy-state / not
 
 ## mukta-m0-p117-v2909
-[door](dvāra) [pierced](biddhaṃ) [abandon](tyajed) [house](veśma) [family+decay+fear](kulakṣayabhayāt) [always](sadā)
+door / pierced / abandon-house / family-decay-fear / always
 
 ## mukta-m0-p117-v2910
-[pierced+unpierced](bedhyabedhakayor) [sites](vāstvoḥ) [abandoning](tyaktvā) [double](dviguṇam) [interval](antaram)
+pierceable-nonpiercer / of-sites / abandoning / double / interval
 
 ## mukta-m0-p117-v2911
-[all](sarveṣāṃ) [auspicious+giving](śubhadā) [which](yāśca) [door+etc](dvārādīnāṃ) [those](ca) [I+say](bruve)
+all / auspicious-giving / which-and / door-etc / and / those / I-say
 
 ## mukta-m0-p117-v2912
-[those+uniting](tāvekīkṛtya) [cut](saṃchindyāt) [three](trīṣu) [or](vā) [eight](aṣṭābhireva)
+those-unifying / cut / in-three / mountain-eight / indeed / or
 
 ## mukta-m0-p117-v2913
-[sorrow](viṣādaśceti) [and](ca) [mountain+part](adryaṃśe) [fruit](phalaṃ) [seven](saptasu) [embodied](dehinām)
+sorrow-and / thus / mountain-part / result / in-seven / embodied
 
 ## mukta-m0-p117-v2914
-[unequal](viṣamāḥ) [auspicious+giving](śubhadāstatra) [equal](samāścā) [inauspicious+acts](aniṣṭakarmasu)
+uneven / auspicious-giving / there / even / inauspicious-acts
 
 ## mukta-m0-p117-v2915
-[smoke](dhūmaḥścā) [and](ca) [harsh](kharo) [crow](dhvāṅkṣaḥ) [equal](samā) [these](ete) [diagonal](vidik) [standing](sthitāḥ)
+smoke-and / and / donkey / crow / even / these / intermediate-direction / situated
 
 ## mukta-m0-p117-v2916
-[banner](dhvajaḥ)
+banner
 
 ## mukta-m0-p117-v2917
-[woman+son+wealth](strīputrārthān) [bull](vṛṣo) [gives](dadyāt) [all+pleasure+giving](aśeṣasukhadaḥ) [elephant](karī)
+woman-son-wealth / bull / may-give / all-happiness-giving / elephant
 
 ## mukta-m0-p117-v2918
-[disease+death+giving](vyādhimṛtyupradātā) [said](uktaḥ) [dog](sārameyaḥ) [wealth+family+taking](arthagotrahṛt)
+disease-death-giving / said / dog / wealth-clan-seizing
 
 ## mukta-m0-p117-v2919
-[thinness](kṛśatā) [roughness](raukṣya) [poverty](dāridryaṃ) [all+inauspicious+doing](sarvāniṣṭakaraḥ) [donkey](kharaḥ)
+thinness-roughness-poverty / all-inauspicious-doing / donkey
 
 ## mukta-m0-p117-v2920
-[sorrow](śoka) [delusion](moha) [quarrel](kali) [disease](vyādhi) [bondage+etc+doing](bandhādikṛcca) [crow](vāyasaḥ)
+sorrow-delusion-strife-disease-bondage-etc-doing / and / crow
 
 ## mukta-m0-p117-v2921
-[measures](āyāṃśca) [and](ca) [join](yojayet) [knowing](jñātvā) [may+be](syād) [income](āyaśca) [best](uttamo) [as](yathā)
+income-and / join / knowing / may-be / income / best / as
 
 ## mukta-m0-p117-v2922
-[having+done](kṛtvaivaṃ) [establish](sthāpayed) [door](dvāraṃ) [previously+said+rite+before](prāguktavidhipūrvakam)
+having-done / thus / establish / door / previously-said-rite-prior
 
 ## mukta-m0-p117-v2923
-[others](itareṣāṃ) [and](ca) [acts+etc](karmādyair) [not](nottamānāṃ) [equal](samaṇḍapaiḥ)
+others / and / acts-etc / not-best / with-pavilions
 
 ## mukta-m0-p117-v2924
-[pillar+from](stambhāddhinādayaśca) [syuḥ](syuḥ) [seven](sapta) [twenty+indeed](viṃśatirevahi)
+from-pillar / etc / and / may-be / seven / twenty / indeed
 
 ## mukta-m0-p117-v2925
-[rucaka+named](rucakākhyaśca) [veda+corner](vedāsraḥ) [eight+cornered](aṣṭāsro) [vajra+named](vajrasaṃjñakaḥ)
+rucaka-named / and / four-cornered / eight-cornered / vajra-named
