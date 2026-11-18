@@ -2,73 +2,73 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p124-v3076
-bamboo-shoot-risen-linga+and sagara named king
+[stem](vaṃśāṅkurotthaliṅgācca) [sagara](sagaro) [named](nāma) [king](pārthivaḥ)
 
 ## mukta-m0-p124-v3077
-wax-born+from
+[from-wax](sikthasambhavāt)
 
 ## mukta-m0-p124-v3078
-worldly-shelter+from accomplished written many-scriptures+from
+[worldly](aihikasyāśrayātsiddhā) [written](likhitā) [from-many-scriptures](bahuśāstrataḥ)
 
 ## mukta-m0-p124-v3079
-accomplishment-now-lord-word+from
+[from-siddhi-giving-śiva-words](siddhidānīśavākyataḥ)
 
 ## mukta-m0-p124-v3080
-established ritual [kh: shiva] mantras+indeed dharma-desire-wealth-liberation-giving
+[established](sthāpitaṃ) [vidhi](vidhi) [mantras](mantraistu) [dharma-kāma-artha-mokṣa-giving](dharmakāmārthamokṣadam)
 
 ## mukta-m0-p124-v3081
-worshipped established+and be worship-worthy establishable+and truly
+[worshipped](pūjitāḥ) [established](sthāpitāśca) [are](syuḥ) [worshipable](pūjyaṃ) [establishable](sthāpyaṃ) [truly](ca tattvataḥ)
 
 ## mukta-m0-p124-v3082
-that-fruit million-multiplied establishing linga obtain-fruit
+[that-fruit](tatphalaṃ) [million-fold](koṭiguṇitaṃ) [having-established](sthāpya) [liṅga](liṅgaṃ) [obtains-fruit](labhetphalam)
 
 ## mukta-m0-p124-v3083
-linga-marked world-entire bhaga-marked not-even sees
+[liṅga-marked](liṅgāṅkitaṃ) [whole-world](jagatkṛtsnaṃ) [bhaga-marked](bhagāṅkaṃ) [not-even](nāpi) [sees](paśyati)
 
 ## mukta-m0-p124-v3084
-having-taken-agama all written crest-spoken
+[having-taken](gṛhītvāgamataḥ) [all](sarvaṃ) [written](likhataṃ) [śikha-spoken](śikhabhāṣitam)
 
 ## mukta-m0-p124-v3085
-from-extensiveness fear+and delusion be that+from middle-made
+[from-extent](vistarādbhīśca) [delusion](mohaḥ) [is](syāttamānmadhyataraṃ) [done](kṛtam)
 
 ## mukta-m0-p124-v3086
-if goes indeed tarksya why not go-here six-footed
+[if](yadi) [goes](vrajati) [indeed](vai) [tārkṣya](tārkṣyaḥ) [why](kiṃ) [not](na) [go](yāntīha) [bees](ṣaṭpadāḥ)
 
 ## mukta-m0-p124-v3087
-ignorance-cold-destruction+for throat-teacher [kh, g, ṅ: vācyatyu] spoken
+[for-destroying-ignorance-cold](ajñānaśītanāśāya) [kaṇṭha-ācārya](kaṇṭhācāryai) [spoken](dīritāḥ)
 
 ## mukta-m0-p124-v3088
-is-seen
+[is-seen](palakṣyate)
 
 ## mukta-m0-p124-v3089
-five-faced-sung
+[five-faced-sung](pañcavaktropagītam)
 
 ## mukta-m0-p124-v3090
-knowledge-lord-shiva that-foot-born vairocana teacher
+[knowledge-īśāna-śiva](jñānīśānaśivastadaṅghrijanito) [vairocana](vairocano) [teacher](daiśikaḥ)
 
 ## mukta-m0-p124-v3091
-who that+to I bow earth-placed-head lotus-foot guru+my
+[who](yastatasyāhaṃ) [I-bow](namāmi) [head-placed-on-earth](kṣitinihitaśirāḥ) [lotus-feet](pādapadmaṃ) [of-my-guru](gurorme)
 
 ## mukta-m0-p124-v3092
-this intoxicated-elephant-pride-crusher earth-channel by wanders
+[this](so'yaṃ) [mad-elephant-pride-crusher](mattamṛgebhadarpadalano) [by-earth](bhūkānena) [wanders](bhrāmyati)
 
 ## mukta-m0-p124-v3093
-that-knowledge-teacher-shaiva+for intelligence-memory-making virtue
+[that-vidyā-ācārya-śaiva](tadvidyācāryaśaivāya) [intellect-meditation-doer](buddhimedhākaro) [quality](guṇaḥ)
 
 ## mukta-m0-p124-v3094
-remainders+and anustubh middle virtue-thousand made
+[remaining](śeṣāścānuṣṭubho) [in-middle](madhye) [thousand-quality](guṇasāhasrikaṃ) [done](kṛtam)
 
 ## mukta-m0-p124-v3095
-auspicious-hymn knowing that will-do scholars
+[sūkta](sūktamājñāya) [that](tatkariṣyanti) [scholars](paṇḍitāḥ)
 
 ## mukta-m0-p124-v3096
-to-shaivas this given purpose+from scripture+from always
+[to-śaivas](śaivebhya) [this](etaddātavyamarthataḥ) [always](śāstrataḥsadā)
 
 ## mukta-m0-p124-v3097
-so-long vairocana's may-circulate guru vessel-form glory
+[so-long](tāvadvairocanasya) [may-wander](pravicaratu) [guru's](guroḥ) [book-vessel](pustarupātra) [fame](kīrtiḥ)
 
 ## mukta-m0-p124-v3098
-so-long vairocana's in-world long this vessel-form be glory
+[so-long](tāvadvairocanīyā) [in-world](jagati) [long](ciramiyaṃ) [book-vessel](pustarupāstu) [fame](kīrtiḥ)
 
 ## mukta-m0-p124-v3099
-name thirty-second rite
+[name](nāma) [thirty-second](dvātriṃśo) [rite](vidhiḥ)
