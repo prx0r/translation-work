@@ -8,11 +8,11 @@
 "tokens": [
 {
 "surface": "mṛṇālavilasadbāhuḥ",
-"quick_gloss": "lotus+stalk+shining+arm"
+"quick_gloss": "lotus-stalk-shining-arm"
 },
 {
 "surface": "pāśāṅkuśadhanurdharā",
-"quick_gloss": "noose+goad+bow+bearer"
+"quick_gloss": "noose-goad-bow-bearer"
 }
 ]
 },
@@ -25,11 +25,11 @@
 "tokens": [
 {
 "surface": "tāmrapaṅkajapāṇiśrīḥ",
-"quick_gloss": "copper+lotus+hand+splendor"
+"quick_gloss": "copper-lotus-hand-splendor"
 },
 {
 "surface": "nakharatnaprabhāvatī",
-"quick_gloss": "nail+jewel+radiance+possessing"
+"quick_gloss": "nail-gem-radiant"
 }
 ]
 },
@@ -42,11 +42,11 @@
 "tokens": [
 {
 "surface": "mandāradvandvasukucā",
-"quick_gloss": "mandara+pair+beautiful+breasts"
+"quick_gloss": "mandara-pair-lovely-breast"
 },
 {
 "surface": "romarājībhujaṅgakā",
-"quick_gloss": "hairline+serpent+possessing"
+"quick_gloss": "hair-line-serpent"
 }
 ]
 },
@@ -59,11 +59,11 @@
 "tokens": [
 {
 "surface": "raṇatkāñcīguṇonnaddhā",
-"quick_gloss": "jingling+girdle+cord+raised"
+"quick_gloss": "jingling-girdle-cord-tied"
 },
 {
 "surface": "paṭṭāṃśukasunīvikā",
-"quick_gloss": "silk+garment+well+tied"
+"quick_gloss": "silk-garment-fine-waist"
 }
 ]
 },
@@ -75,12 +75,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "sujānumandarāsaktā",
-"quick_gloss": "beautiful+knee+mandara+attached"
-},
-{
-"surface": "lasajjaṅghādvayānvitā",
-"quick_gloss": "shining+shank+pair+endowed"
+"surface": "sujānumandarāsaktalasajjaṅghādvayānvitā",
+"quick_gloss": "beautiful-knee-mandara-attached-shining-shin-pair"
 }
 ]
 },
@@ -93,11 +89,11 @@
 "tokens": [
 {
 "surface": "yogidhyeyapadadvandvā",
-"quick_gloss": "yogi+meditated+foot+pair"
+"quick_gloss": "yogi-meditated-foot-pair"
 },
 {
 "surface": "sudhāmā'mṛtasāriṇī",
-"quick_gloss": "nectar+immortal+flowing"
+"quick_gloss": "nectar-immortal-flowing"
 }
 ]
 },
@@ -109,16 +105,24 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "sādhusiddhā subuddhā",
-"quick_gloss": "good+siddha+good+buddha"
+"surface": "sādhusiddhā",
+"quick_gloss": "good-siddha-good-buddha"
 },
 {
-"surface": "cāyudhā ca",
-"quick_gloss": "and+weapon+and"
+"surface": "subuddhā",
+"quick_gloss": "good-weapon"
 },
 {
-"surface": "budhā vṛndārakodayā",
-"quick_gloss": "buddha+host+rising"
+"surface": "ca",
+"quick_gloss": "and"
+},
+{
+"surface": "budhā",
+"quick_gloss": "wise"
+},
+{
+"surface": "vṛndārakodayā",
+"quick_gloss": "god-host-rising"
 }
 ]
 },
@@ -131,11 +135,11 @@
 "tokens": [
 {
 "surface": "rasagambhīrasarasīpadminī",
-"quick_gloss": "rasa+deep+saraswati+lotus"
+"quick_gloss": "deep-rasa-lotus-lake"
 },
 {
 "surface": "rasasārasā",
-"quick_gloss": "rasa+essence+possessing"
+"quick_gloss": "essence-rasa"
 }
 ]
 },
@@ -148,15 +152,15 @@
 "tokens": [
 {
 "surface": "naṭarājapriyā",
-"quick_gloss": "dance+king+beloved"
+"quick_gloss": "dance-king-beloved"
 },
 {
 "surface": "viśvanāṭyā",
-"quick_gloss": "universe+dance"
+"quick_gloss": "universe-dance"
 },
 {
 "surface": "nartakanartakī",
-"quick_gloss": "dancer+dancing"
+"quick_gloss": "dancer-dancing"
 }
 ]
 },
@@ -169,19 +173,23 @@
 "tokens": [
 {
 "surface": "kūṭārakūṭā",
-"quick_gloss": "peak+peak"
+"quick_gloss": "peak-peak"
 },
 {
 "surface": "kūṭasthā",
-"quick_gloss": "abiding+peak"
+"quick_gloss": "peak-abiding"
 },
 {
 "surface": "pañcakūṭā",
-"quick_gloss": "five+peak"
+"quick_gloss": "five-peaks"
 },
 {
-"surface": "ca pañcamī",
-"quick_gloss": "and+fifth"
+"surface": "ca",
+"quick_gloss": "and"
+},
+{
+"surface": "pañcamī",
+"quick_gloss": "fifth"
 }
 ]
 },
@@ -194,11 +202,15 @@
 "tokens": [
 {
 "surface": "kūṭaṣoḍaśasaṃpannā",
-"quick_gloss": "sixteen+syllable+endowed"
+"quick_gloss": "sixteen-syllable-accomplished"
 },
 {
-"surface": "turīyā paramākalā",
-"quick_gloss": "fourth+supreme+art"
+"surface": "turīyā",
+"quick_gloss": "fourth"
+},
+{
+"surface": "paramākalā",
+"quick_gloss": "supreme-art"
 }
 ]
 },
@@ -211,15 +223,19 @@
 "tokens": [
 {
 "surface": "ṣoḍaśārṇā",
-"quick_gloss": "sixteen+letters"
+"quick_gloss": "sixteen-letters"
 },
 {
-"surface": "trivarṇā ca",
-"quick_gloss": "three+colors"
+"surface": "trivarṇā",
+"quick_gloss": "three-colors"
+},
+{
+"surface": "ca",
+"quick_gloss": "and"
 },
 {
 "surface": "bindunādasvarūpiṇī",
-"quick_gloss": "bindu+nada+form"
+"quick_gloss": "bindu-nada-form"
 }
 ]
 },
@@ -232,11 +248,11 @@
 "tokens": [
 {
 "surface": "caitanyavallī",
-"quick_gloss": "consciousness+creeper"
+"quick_gloss": "consciousness-vine"
 },
 {
 "surface": "kūṭātmā",
-"quick_gloss": "peak+self"
+"quick_gloss": "peak-self"
 },
 {
 "surface": "kāmeśī",
@@ -244,7 +260,7 @@
 },
 {
 "surface": "svapnadṛśyagā",
-"quick_gloss": "dream+visible+going"
+"quick_gloss": "dream-visible"
 }
 ]
 },
@@ -257,19 +273,23 @@
 "tokens": [
 {
 "surface": "svapnāśrayā",
-"quick_gloss": "dream+support"
+"quick_gloss": "dream-refuge"
 },
 {
 "surface": "suṣuptiśca",
-"quick_gloss": "deep+sleep"
+"quick_gloss": "deep-sleep"
 },
 {
 "surface": "tandrāmuktā",
-"quick_gloss": "drowsiness+freed"
+"quick_gloss": "drowsiness-freed"
 },
 {
-"surface": "ca mādhavī",
-"quick_gloss": "and+madhavi"
+"surface": "ca",
+"quick_gloss": "and"
+},
+{
+"surface": "mādhavī",
+"quick_gloss": "madhavi"
 }
 ]
 },
@@ -286,11 +306,11 @@
 },
 {
 "surface": "nandividyā",
-"quick_gloss": "nandi+vidya"
+"quick_gloss": "nandi-vidya"
 },
 {
 "surface": "bhāsvadvidyotamālinī",
-"quick_gloss": "shining+garlanded"
+"quick_gloss": "shining-garland"
 }
 ]
 },
@@ -303,7 +323,7 @@
 "tokens": [
 {
 "surface": "sādhakendragatiḥ",
-"quick_gloss": "sadhaka+lord+path"
+"quick_gloss": "sadhaka-leader-path"
 },
 {
 "surface": "sādhvī",
@@ -311,11 +331,11 @@
 },
 {
 "surface": "sulabhā",
-"quick_gloss": "easily+obtained"
+"quick_gloss": "easily-obtained"
 },
 {
 "surface": "siddhikandarā",
-"quick_gloss": "siddhi+cave"
+"quick_gloss": "siddhi-cave"
 }
 ]
 },
@@ -327,15 +347,15 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "puṣṭir",
+"surface": "puṣṭiḥ",
 "quick_gloss": "nourishment"
 },
 {
 "surface": "vighnaharī",
-"quick_gloss": "obstacle+remover"
+"quick_gloss": "obstacle-remover"
 },
 {
-"surface": "bhūtir",
+"surface": "bhūtiḥ",
 "quick_gloss": "prosperity"
 },
 {
@@ -344,7 +364,7 @@
 },
 {
 "surface": "pūjyakāmadhuk",
-"quick_gloss": "worshipful+kamadhenu"
+"quick_gloss": "worshipable-kamadhenu"
 }
 ]
 },
@@ -357,7 +377,7 @@
 "tokens": [
 {
 "surface": "sarvasīmantinī",
-"quick_gloss": "all+parted+hair"
+"quick_gloss": "all-parted-hair"
 },
 {
 "surface": "mokṣā",
@@ -369,7 +389,7 @@
 },
 {
 "surface": "dīkṣitamātṛkā",
-"quick_gloss": "initiated+mother"
+"quick_gloss": "initiated-mother"
 }
 ]
 },
@@ -382,19 +402,19 @@
 "tokens": [
 {
 "surface": "yauvanonmādinī",
-"quick_gloss": "youth+intoxicating"
+"quick_gloss": "youth-maddening"
 },
 {
 "surface": "tuṅgā",
-"quick_gloss": "lofty"
+"quick_gloss": "tall"
 },
 {
-"surface": "suśroṇir",
-"quick_gloss": "beautiful+hips"
+"surface": "suśroṇiḥ",
+"quick_gloss": "beautiful-hips"
 },
 {
 "surface": "madamantharā",
-"quick_gloss": "love+sluggish"
+"quick_gloss": "love-sluggish"
 }
 ]
 },
@@ -407,11 +427,15 @@
 "tokens": [
 {
 "surface": "raktamālāruciḥ",
-"quick_gloss": "red+garland+radiance"
+"quick_gloss": "red-garland-radiance"
 },
 {
-"surface": "śikāśikhaṇḍinyatisundarī",
-"quick_gloss": "crest+crest+possessing"
+"surface": "śikāśikhaṇḍinī",
+"quick_gloss": "crest-crest"
+},
+{
+"surface": "atisundarī",
+"quick_gloss": "very-beautiful"
 }
 ]
 },
@@ -424,11 +448,11 @@
 "tokens": [
 {
 "surface": "surabhī",
-"quick_gloss": "wish+cow"
+"quick_gloss": "wish-cow"
 },
 {
 "surface": "kāmadā",
-"quick_gloss": "desire+giver"
+"quick_gloss": "desire-giver"
 },
 {
 "surface": "kāmyā",
@@ -436,7 +460,7 @@
 },
 {
 "surface": "kamanīyārthakāmadā",
-"quick_gloss": "lovely+meaning+desire+giver"
+"quick_gloss": "lovely-object-desire-giver"
 }
 ]
 },
@@ -449,15 +473,15 @@
 "tokens": [
 {
 "surface": "golokadevī",
-"quick_gloss": "goloka+goddess"
+"quick_gloss": "goloka-goddess"
 },
 {
-"surface": "lokaśrīr",
-"quick_gloss": "world+splendor"
+"surface": "lokaśrīḥ",
+"quick_gloss": "world-splendor"
 },
 {
 "surface": "golokaparipālikā",
-"quick_gloss": "goloka+protectress"
+"quick_gloss": "goloka-protector"
 }
 ]
 },
@@ -470,15 +494,19 @@
 "tokens": [
 {
 "surface": "rudrapatnī",
-"quick_gloss": "rudra+wife"
+"quick_gloss": "rudra-consort"
 },
 {
 "surface": "bhadramātā",
-"quick_gloss": "auspicious+mother"
+"quick_gloss": "auspicious-mother"
 },
 {
-"surface": "sudhādhārā'mbuvikṣatiḥ",
-"quick_gloss": "nectar+stream+water+seeing"
+"surface": "sudhādhārā",
+"quick_gloss": "nectar-stream"
+},
+{
+"surface": "ambuvikṣatiḥ",
+"quick_gloss": "water-seer"
 }
 ]
 },
@@ -491,15 +519,15 @@
 "tokens": [
 {
 "surface": "kṣīrapūrṇārṇavagatiḥ",
-"quick_gloss": "milk+full+ocean+going"
+"quick_gloss": "milk-full-ocean-going"
 },
 {
 "surface": "sudhāyoniḥ",
-"quick_gloss": "nectar+womb"
+"quick_gloss": "nectar-womb"
 },
 {
 "surface": "sulocanā",
-"quick_gloss": "beautiful+eyes"
+"quick_gloss": "beautiful-eye"
 }
 ]
 },
@@ -512,19 +540,19 @@
 "tokens": [
 {
 "surface": "sucāritrā",
-"quick_gloss": "good+conduct"
+"quick_gloss": "good-character"
 },
 {
 "surface": "sutripurā",
-"quick_gloss": "good+tripura"
+"quick_gloss": "good-tripura"
 },
 {
 "surface": "sustanī",
-"quick_gloss": "good+breasts"
+"quick_gloss": "good-breast"
 },
 {
 "surface": "stanavatsalā",
-"quick_gloss": "breast+affectionate"
+"quick_gloss": "breast-affectionate"
 }
 ]
 }

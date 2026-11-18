@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p90-v2226
-[lord-of-ḍāmaras](ḍāmareśo) [odd-eyed](virūpākṣo) [all-enjoyer](viśvabhoktā) [fire](vibhāvasuḥ)
+[shiva-epithet](ḍāmareśo) [shiva-epithet](virūpākṣo) [shiva-epithet](viśvabhoktā) [shiva-epithet](vibhāvasuḥ)
 
 ## mukta-m0-p90-v2227
-[guide](vinetā) [humble](vinayī) [speaker](vādī) [vomiter](vāntado) [speech-born](vāgbhavo) [brahmacārin](vaṭuḥ)
+[shiva-epithet](vinetā) [shiva-epithet](vinayī) [shiva-epithet](vādī) [shiva-epithet](vāntado) [shiva-epithet](vāgbhavo) [shiva-epithet](vaṭuḥ)
 
 ## mukta-m0-p90-v2228
-[enemy-of-Virādha](virādheyo) [detached](virāgīno) [playful](vilāsī) [eager-for-dance](lāsyalālasaḥ)
+[shiva-epithet](virādheyo) [shiva-epithet](virāgīno) [shiva-epithet](vilāsī) [shiva-epithet](lāsyalālasaḥ)
 
 ## mukta-m0-p90-v2229
-[wealthy](dhanī) [meditable](dhyeyo) [to-be-studied](adhyeyaśca) [righteous](dharmyo) [full-of-dharma](dharmamayo) [compassion](dayaḥ)
+[shiva-epithet](dhanī) [shiva-epithet](dhyeyo'pyadhyeyaśca) [shiva-epithet](dharmyo) [shiva-epithet](dharmamayo) [shiva-epithet](dayaḥ)
 
 ## mukta-m0-p90-v2230
-[eye-in-cave-dwelling](ḍulicakṣurdarīvāso) [hypocrite](dambhī) [god-filled-self](devamayātmakaḥ)
+[shiva-epithet](ḍulicakṣurdarīvāso) [shiva-epithet](dambhī) [shiva-epithet](devamayātmakaḥ)
 
 ## mukta-m0-p90-v2231
-[Saturn](śanaiścaro) [swift-moving](vegagati) [talkative](vācālo) [imperishable-Rahu](rāhuravyayaḥ)
+[shiva-epithet](śanaiścaro) [shiva-epithet](vegagati(100)) [shiva-epithet](vācālo) [shiva-epithet](rāhuravyayaḥ)
 
 ## mukta-m0-p90-v2232
-[bearer-of-Bhargas-form](bhargarūpabhṛt)
+[shiva-epithet](bhargarūpabhṛt)
 
 ## mukta-m0-p90-v2233
-[elephant-faced-loved](gajānanapriyo) [sung](gīto) [singer](gānī) [bath-worship-loved](snānārcanapriyaḥ)
+[shiva-epithet](gajānanapriyo) [shiva-epithet](gīto) [shiva-epithet](gānī) [shiva-epithet](snānārcanapriyaḥ)
 
 ## mukta-m0-p90-v2234
-[supreme-self](parātmako) [cosmic-garment](virāḍvāso) [monkey](vānaro) [doer-of-unlimited-deeds](amitakarmakṛt)
+[shiva-epithet](parātmako) [shiva-epithet](virāḍvāso) [shiva-epithet](vānaro'mitakarmakṛt)
 
 ## mukta-m0-p90-v2235
-[Nandishvara](nandīśvaro) [leader](nayo) [serpent](nāgo) [adorned-with-serpent-ornaments](nāgālaṅkāramaṇḍitaḥ)
+[shiva-epithet](nandīśvaro) [shiva-epithet](nayo) [shiva-epithet](nāgo) [shiva-epithet](nāgālaṅkāramaṇḍitaḥ)
 
 ## mukta-m0-p90-v2236
-[three-eyed](trilocanastrilokeśastrimūrtistripurāntakaḥ)
+[shiva-epithet](trilocanastrilokeśastrimūrtistripurāntakaḥ)
 
 ## mukta-m0-p90-v2237
-[addicted](vyasanī) [pleased](toṣitaḥ) [Shambhu](śambhustridhārūpastrivarṇabhāk)
+[shiva-epithet](vyasanī) [shiva-epithet](toṣitaḥ) [shiva-epithet](śambhustridhārūpastrivarṇabhāk)
 
 ## mukta-m0-p90-v2238
-[three-guna](tridhāguṇī) [world-maker](viśvakartā) [world-sustainer](viśvabhartā) [supreme-person](adhipūruṣaḥ)
+[shiva-epithet](tridhāguṇī) [shiva-epithet](viśvakartā) [shiva-epithet](viśvabhartā''dhipūruṣaḥ)
 
 ## mukta-m0-p90-v2239
-[discrimination-eyed](vivekākṣo) [wide-eyed](viśālākṣo) [not-ritual](avidhir) [ritual](vidhir) [unsurpassed](anuttamaḥ)
+[shiva-epithet](vivekākṣo) [shiva-epithet](viśālākṣo'vidhirvidhiranuttamaḥ)
 
 ## mukta-m0-p90-v2240
-[mindful](smṛtimān) [memory-giver](smṛtidaḥ) [smarta](smārto) [Brahma](brahmā) [best-of-Brahma-knowers](brahmavidāṃ varaḥ)
+[shiva-epithet](smṛtimān) [shiva-epithet](smṛtidaḥ) [shiva-epithet](smārto) [shiva-epithet](brahmā) [shiva-epithet](brahmavidāṃ) [shiva-epithet](varaḥ)
 
 ## mukta-m0-p90-v2241
-[moving-immovable](calācalo) [immovable-motion](acalagatir) [swift](vegī) [lord-of-heroes](vīrādhipo) [boon](varaḥ)
+[shiva-epithet](calācalo'calagatirvegī) [shiva-epithet](vīrādhipo) [shiva-epithet](varaḥ)
 
 ## mukta-m0-p90-v2242
-[all-pervading](sarvavyāpī) [all-formed](sarvarūpaḥ) [ocean](sāgaraśca) [equal-lord](sameśvaraḥ)
+[shiva-epithet](sarvavyāpī) [shiva-epithet](sarvarūpaḥ) [shiva-epithet](sāgaraśca) [shiva-epithet](sameśvaraḥ)
 
 ## mukta-m0-p90-v2243
-[eloquent](sarasvān) [truth-speaking](satyavāk) [truth](satyaḥ) [truth-formed](satyarūpaḥ) [wise](sudhīḥ) [happy](sukhī)
+[shiva-epithet](sarasvān) [shiva-epithet](satyavāk) [shiva-epithet](satyaḥ) [shiva-epithet](satyarūpaḥ) [shiva-epithet](sudhīḥ) [shiva-epithet](sukhī)
 
 ## mukta-m0-p90-v2244
-[wealthy](vasumān) [earth-lord](vasudhānātho) [wealth-formed](vasurūpo) [wealth-giver](vasupradaḥ)
+[shiva-epithet](vasumān) [shiva-epithet](vasudhānātho) [shiva-epithet](vasurūpo) [shiva-epithet](vasupradaḥ)
 
 ## mukta-m0-p90-v2245
-[lord](īśo) [remainder](avaśeṣo) [having-parts](avayavī) [resting-on-Shesha](śeṣaśāyī) [lord-of-Shri](śriyaḥ patiḥ)
+[shiva-epithet](īśo'vaśeṣo'vayavī) [shiva-epithet](śeṣaśāyī) [shiva-epithet](śriyaḥ) [shiva-epithet](patiḥ)
 
 ## mukta-m0-p90-v2246
-[firm](sthiraḥ) [pillar](sthāṇuraṇuḥ) [atom](pīnaḥ) [stout](pīnavakṣāḥ) [broad-chested](parātparaḥ)
+[shiva-epithet](sthiraḥ) [shiva-epithet](sthāṇuraṇuḥ) [shiva-epithet](pīnaḥ) [shiva-epithet](pīnavakṣāḥ) [shiva-epithet](parātparaḥ)
 
 ## mukta-m0-p90-v2247
-[beast-formed](paśurūpaḥ) [lord-of-beasts](paśupatiḥ) [beast-knower](paśujñānī) [ocean-of-milk](payonidhiḥ)
+[shiva-epithet](paśurūpaḥ) [shiva-epithet](paśupatiḥ) [shiva-epithet](paśujñānī) [shiva-epithet](payonidhiḥ)
 
 ## mukta-m0-p90-v2248
-[trident-bearer](śūlī) [auspicious-maker](śubhaṅkaraḥ) [splendid](śobhyaḥ) [good-doer](śubhakartā) [lord-of-Shachi](śacīpatiḥ)
+[shiva-epithet](śūlī) [shiva-epithet](śubhaṅkaraḥ) [shiva-epithet](śobhyaḥ) [shiva-epithet](śubhakartā) [shiva-epithet](śacīpatiḥ)
 
 ## mukta-m0-p90-v2249
-[four-armed](caturbhujaścāṣṭabhujaḥ) [adorned-with-thousand-arms](sahasrabhujamaṇḍitaḥ)
+[shiva-epithet](caturbhujaścāṣṭabhujaḥ) [shiva-epithet](sahasrabhujamaṇḍitaḥ)
 
 ## mukta-m0-p90-v2250
-[god](devo) [great-ocean](mahodadhirdivyo) [divine](divyakīrtirdivākaraḥ)
+[shiva-epithet](devo) [shiva-epithet](mahodadhirdivyo) [shiva-epithet](divyakīrtirdivākaraḥ)

@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p108-v2676
-there-indeed resides durga nine-form-essence supreme
+[there-indeed](tatraiva) [dwells](vasate) [durga](durgā) [nine-form-essenced](navarūpātmikā) [supreme](parā)
 
 ## mukta-m0-p108-v2677
-she durga-thus remembered world brahmanda-womb-dwelling
+[who](yā) [as-durga](durgeti) [remembered](smṛtā) [in-world](loke) [brahmanda-belly-dwelling](brahmāṇḍodaravartinī)
 
 ## mukta-m0-p108-v2678
-buffalo-demon-lord's killing-purpose descended
+[of-mahisha](mahiṣasya) [of-asura-lord](asurendrasya) [for-slaying-purpose](vadhārthāya) [descended](avatāritā)
 
 ## mukta-m0-p108-v2679
-her-indeed day-night meditate sri-vidya supreme chant
+[her](tām) [indeed](eva) [day-night](aharniśaṃ) [meditate](dhyāye) [sri-vidya](śrīvidyāṃ) [supreme](paramāṃ) [chant](jape)
 
 ## mukta-m0-p108-v2680
-whom hearing he shiva born five-sound-essence shiva
+[whom](yāṃ) [having-heard](śrutvā) [he](sa) [shiva](śivo) [born](jātaḥ) [five-sound-essenced](pañcanādātmakaḥ) [shiva](śivaḥ)
 
 ## mukta-m0-p108-v2681
-directly-world-form-even great-light-essence
+[directly](sākṣāt) [world-form](bhuvanarūpā) [even](api) [great-light-essence](mahājyotiḥsvarūpiṇī)
 
 ## mukta-m0-p108-v2682
-shiva radiance-orb from emerged unconscious lord
+[shiva](śivaḥ) [from-light-orb](prabhāmaṇḍalato) [emerged](nirgato) [unconscious](acetano) [lord](vibhuḥ)
 
 ## mukta-m0-p108-v2683
-created-first-guide
+[created-first-guide](sṛṣṭo'gramanunāyakaḥ)
 
 ## mukta-m0-p108-v2684
-shiva chanted suddenly seed three-worlds shive
+[shiva](śivo) [chanted](jajāpa) [suddenly](sahasā) [seed](bījaṃ) [of-three-worlds](trijagatāṃ) [to-shiva](śive)
 
 ## mukta-m0-p108-v2685
-eternal-bliss-abode supreme
+[eternal-bliss-abode](sadānandālayaṃ) [supreme](param)
 
 ## mukta-m0-p108-v2686
-then sound he heard evil-syllable-devoid
+[then](tato) [sound](nādaṃ) [he](sa) [heard](śuśrāva) [devoid-of-bad-letters](duṣṭavarṇavivarjitam)
 
 ## mukta-m0-p108-v2687
-then chanting supreme vidya created world-mother
+[then](tato) [having-chanted](japtvā) [supreme](parāṃ) [vidya](vidyām) [created](asṛjat) [world-mother](jagadambike)
 
 ## mukta-m0-p108-v2688
-will-only shive universe world-lady movable-immovable
+[mere-will](icchāmātraṃ) [in-shiva](śive) [universe](viśvaṃ) [world-lady](viśveśvari) [moving-immoving](carācaram)
 
 ## mukta-m0-p108-v2689
-thus this secret-vidya but obtained guru-feet-worship from
+[thus](iti) [this](imāṃ) [secret-vidya](guptavidyāṃ) [indeed](tu) [having-obtained](labdhvā) [from-guru-feet-worship](gurupadārcanāt)
 
 ## mukta-m0-p108-v2690
-cloth fire and desire and wealth conduct and practitioner
+[cloth](vastraṃ) [fire](vahniṃ) [and](ca) [desire](kāmaṃ) [and](ca) [wealth](dhanaṃ) [conduct](vṛttaṃ) [and](ca) [practitioner](sādhakaḥ)
 
 ## mukta-m0-p108-v2691
-sri-chakra this-support goddess's power-cause
+[sri-chakra](śrīcakram) [this](idam) [support](ādhāraṃ) [of-goddess](devyāḥ) [cause-of-manifestation](vibhavakāraṇam)
 
 ## mukta-m0-p108-v2692
-chakra draw great-goddess worship-worthy lotus-sun petals
+[chakra](cakraṃ) [should-draw](likhet) [great-goddess](mahādevi) [worshipful](pūjyam) [lotus-sun-petals](abjārkayordalaiḥ)
 
 ## mukta-m0-p108-v2693
-in-chakra worship whoever blue-shining burning radiance
+[in-chakra](cakre) [should-worship](saṃpūjayet) [who](yaḥ) [indeed](tu) [blue-shining](nīlābhāṃ) [burning](dāhanīṃ) [radiance](dyutim)
 
 ## mukta-m0-p108-v2694
-shining-crown-radiant he becomes practitioner-best
+[shining-crown-radiant](lasanmukuṭarociṣṇuḥ) [he](sa) [becomes](bhavet) [best-practitioner](sādhakottamaḥ)
 
 ## mukta-m0-p108-v2695
-great-goddess
+[great-lady](maheśvari)
 
 ## mukta-m0-p108-v2696
-weapons his pleased practitioner limb-worship from
+[weapons](kheṭakāḥ) [his](tasya) [are-pleased](tuṣyanti) [of-practitioner](sādhakasya) [from-limb-worship](aṅgapūjanāt)
 
 ## mukta-m0-p108-v2697
-fled
+[fled](vidrutāḥ)
 
 ## mukta-m0-p108-v2698
-durga jewel-possessing earth his seat charming
+[durga](durgā) [jeweled](ratnavatī) [earth](bhūmiḥ) [his](tasya) [seat](pīṭham) [charming](manoharam)
 
 ## mukta-m0-p108-v2699
-thus meditate great-goddess durga distress-destroyer
+[thus](evam) [should-meditate](dhyāyet) [great-goddess](mahādevīm) [durga](durgām) [destroyer-of-distress](durgatināśinīm)
 
 ## mukta-m0-p108-v2700
-unspeakable not-givable secret own-source-like
+[unspeakable](avaktavyam) [not-givable](adātavyam) [secret](gopanīyam) [like-own-womb](svayonivat)

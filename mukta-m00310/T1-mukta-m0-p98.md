@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p98-v2426
-[stambhana](stambhanaṃ) [jāyate](jāyate) [kṣipram](kṣipraṃ) [vādi-kāmi-jana-ambhasām](vādikāmijanāmbhasām)
+[stopping](stambhanaṃ) [arises](jāyate) [quickly](kṣipraṃ) [of-speakers-desiring-water](vādikāmijanāmbhasām)
 
 ## mukta-m0-p98-v2427
-[homa](homo) [daśāṃśataḥ](daśāṃśataḥ) [kāryaḥ](kāryo) [ghṛta-padma-akṣa-paṅkajaiḥ](ghṛtapadmākṣapaṅkajaiḥ)
+[homa](homo) [one-tenth](daśāṃśataḥ) [should-be-done](kāryo) [with-ghee-lotus-eye-lotus](ghṛtapadmākṣapaṅkajaiḥ)
 
 ## mukta-m0-p98-v2428
-[devānām](devānāṃ) [dānavānām](dānavānāṃ) [ca](ca) [kā](kā) [kathā](kathā) [alpa-dhiyām](alpadhiyāṃ) [nṛṇām](nṛṇām)
+[of-gods](devānāṃ) [of-demons](dānavānāṃ) [and](ca) [what-need](kā) [talk](kathā) [for-small-minded](alpadhiyāṃ) [humans](nṛṇām)
 
 ## mukta-m0-p98-v2429
-[vetasī-mūla-gaḥ](vetasīmūlago) [vā](vā) [api](api) [hunet](hunet) [tatra](tatra) [daśāṃśataḥ](daśāṃśataḥ)
+[with-vetas-root](vetasīmūlago) [or](vāpi) [should-offer](hunet) [there](tatra) [one-tenth](daśāṃśataḥ)
 
 ## mukta-m0-p98-v2430
-[ayutam](ayutaṃ) [prajapet](prajaped) [rātrau](rātrau) [śūnya-āgāre](śūnyāgāre) [kuleśvari](kuleśvari)
+[ten-thousand](ayutaṃ) [should-recite](prajaped) [at-night](rātrau) [in-empty-house](śūnyāgāre) [o-lady-of-family](kuleśvari)
 
 ## mukta-m0-p98-v2431
-[kapi-bījaiḥ](kapibījairapi) [api](api) [prātaḥ](prātar) [bhavet](bhaved) [ākarṣaṇam](ākarṣaṇaṃ) [striyām](striyām)
+[with-monkey-seeds](kapibījairapi) [in-morning](prātar) [there-is](bhaved) [attraction](ākarṣaṇaṃ) [of-women](striyām)
 
 ## mukta-m0-p98-v2432
-[ājya-abja-kṣura-pāṣāṇḍa](ājyābjakṣurapāṣāṇḍa) [rakta-puṣpāṇi](raktapuṣpāṇi) [pārvati](pārvati)
+[ghee-lotus-sugarcane-stone](ājyābjakṣurapāṣāṇḍa) [red-flowers](raktapuṣpāṇi) [o-pārvatī](pārvati)
 
 ## mukta-m0-p98-v2433
-[ayutam](ayutaṃ) [prajapet](prajapen) [mūlam](mūlaṃ) [sādhakaḥ](sādhako) [aśvattha-mūla-gaḥ](aśvatthamūlagaḥ)
+[ten-thousand](ayutaṃ) [should-recite-root](prajapenmūlaṃ) [sādhaka](sādhako) [at-aśvattha-root](aśvatthamūlagaḥ)
 
 ## mukta-m0-p98-v2434
-[ripum](ripum) [uccāṭayet](uccāṭayet) [śīghram](śīghraṃ) [yadi](yadi) [śakra-samaḥ](śakrasamo) [bhavet](bhavet)
+[enemy](ripum) [should-uproot](uccāṭayet) [quickly](śīghraṃ) [if](yadi) [indra-like](śakrasamo) [becomes](bhavet)
 
 ## mukta-m0-p98-v2435
 [pracchakaḥ](pracchakaḥ)
 
 ## mukta-m0-p98-v2436
-[ayutam](ayutaṃ) [prajapet](prajapen) [mūlam](mūlaṃ) [līlā-upavana-maṇḍale](līlopavanamaṇḍale)
+[ten-thousand](ayutaṃ) [should-recite-root](prajapenmūlaṃ) [in-play-grove-circle](līlopavanamaṇḍale)
 
 ## mukta-m0-p98-v2437
-[pādaiḥ](pādairaṣṭabhirīśāni) [aṣṭabhiḥ](aṣṭabhiḥ) [īśāni](īśāni) [sadyaḥ](sadyaḥ) [puṣṭiḥ](puṣṭiḥ) [prajāyate](prajāyate)
+[with-eight-feet](pādairaṣṭabhirīśāni) [immediately](sadyaḥ) [nourishment](puṣṭiḥ) [arises](prajāyate)
 
 ## mukta-m0-p98-v2438
-[durgā-rahasya-bhūtaḥ](durgārahasyabhūto) [api](api) [gopanīyaḥ](gopanīyo) [mumukṣubhiḥ](mumukṣubhiḥ)
+[even-secret-of-durgā](durgārahasyabhūto'pi) [should-be-hidden](gopanīyo) [by-liberation-seekers](mumukṣubhiḥ)
 
 ## mukta-m0-p98-v2439
-[ṣaṭ-catvāriṃśaḥ](ṣaṭcatvāriṃṣaḥ) [paṭalaḥ](paṭalaḥ)
+[forty-sixth](ṣaṭcatvāriṃṣaḥ) [chapter](paṭalaḥ)
 
 ## mukta-m0-p98-v2440
-[yasyāḥ](yasyāḥ) [śravaṇa-mātreṇa](śravaṇamātreṇa) [koṭi-yajña-phalam](koṭiyajñaphalaṃ) [labhet](labhet)
+[whose](yasyāḥ) [by-merely-hearing](śravaṇamātreṇa) [ten-million-sacrifice-fruit](koṭiyajñaphalaṃ) [obtains](labhet)
 
 ## mukta-m0-p98-v2441
-[sapta-catvāriṃśaḥ](saptacatvāriṃśaḥ) [paṭalaḥ](paṭalaḥ)
+[forty-seventh](saptacatvāriṃśaḥ) [chapter](paṭalaḥ)
 
 ## mukta-m0-p98-v2442
-[durgāyāḥ](durgāyāḥ) [sāra-sarvasvam](sārasarvasvaṃ) [kavaceśvara-saṃjñakam](kavaceśvarasaṃjñakam)
+[of-durgā](durgāyāḥ) [essence-of-all](sārasarvasvaṃ) [named-armor-lord](kavaceśvarasaṃjñakam)
 
 ## mukta-m0-p98-v2443
-[yogi-priyam](yogipriyaṃ) [yoga-gamyam](yogagamyaṃ) [devānām](devānām) [api](api) [durlabham](durlabham)
+[dear-to-yogis](yogipriyaṃ) [attainable-by-yoga](yogagamyaṃ) [even-for-gods](devānāmapi) [rare](durlabham)
 
 ## mukta-m0-p98-v2444
-[dhāraṇāt](dhāraṇādasya) [asya](asya) [deveśi](deveśi) [śivaḥ](śivastrailokyanāyakaḥ) [trailokya-nāyakaḥ](trailokyanāyakaḥ)
+[by-wearing](dhāraṇādasya) [o-goddess](deveśi) [śiva](śivastrailokyanāyakaḥ)
 
 ## mukta-m0-p98-v2445
-[brahmā](brahmā) [pārvati](pārvati) [lokeśaḥ](lokeśo) [vighna-dhvaṃsī](vighnadhvaṃsī) [gajānanaḥ](gajānanaḥ)
+[brahmā](brahmā) [o-pārvatī](pārvati) [world-lord](lokeśo) [obstacle-destroyer](vighnadhvaṃsī) [gajānana](gajānanaḥ)
 
 ## mukta-m0-p98-v2446
-[sūryaḥ](sūryastamopahaścaiva) [tamaḥ-apahaḥ](tamopahaḥ) [ca](ca) [eva](eva) [candraḥ](candro) [amṛta-nidhiḥ](amṛtanidhiḥ) [tathā](tathā)
+[sun](sūryastamopahaścaiva) [moon](candro'mṛtanidhistathā)
 
 ## mukta-m0-p98-v2447
-[martyaḥ](martyo) [api](api) [amara-tām](amaratāṃ) [yāti](yāti) [sādhakaḥ](sādhako) [mantra-sādhakaḥ](mantrasādhakaḥ)
+[mortal](martyo'pyamaratāṃ) [attains](yāti) [sādhaka](sādhako) [mantra-sādhaka](mantrasādhakaḥ)
 
 ## mukta-m0-p98-v2448
-[chandaḥ](chando) [anuṣṭup](anuṣṭup) [priye](priye) [durgā](durgā) [devatā](devatā) [aṣṭākṣarā](aṣṭākṣarā) [smṛtā](smṛtā)
+[meter-anuṣṭubh](chando'nuṣṭup) [dear](priye) [durgā](durgā) [deity-eight-syllable](devatāṣṭākṣarā) [remembered](smṛtā)
 
 ## mukta-m0-p98-v2449
-[dharma-artha-kāma-mokṣa-arthe](dharmārthakāmamokṣārthe) [viniyogaḥ](viniyoga) [iti](iti) [smṛtaḥ](smṛtaḥ)
+[for-dharma-artha-kāma-mokṣa](dharmārthakāmamokṣārthe) [viniyoga](viniyoga) [thus](iti) [remembered](smṛtaḥ)
 
 ## mukta-m0-p98-v2450
-[duṃ](duṃ) [netre](netre) [aṣṭākṣarā](aṣṭākṣarā) [pātu](pātu) [cakrī](cakrī) [pātu](pātu) [śrutī](śrutī) [mama](mama)
+[duṃ](duṃ) [eyes-eight-syllable](netre'ṣṭākṣarā) [protect](pātu) [cakrī](cakrī) [protect](pātu) [ears](śrutī) [mine](mama)
