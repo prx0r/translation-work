@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p62-v1526
-[manifest-of+and+indeed](vyaktāyāścaiva) [hidden-of](guptāyāḥ) [characteristic](lakṣaṇaṃ) [what](kiṃ) [reveal](prakāśaya)
+[manifest-one's]+[and]+[also] [hidden-one's] [characteristic] [what] [reveal]
 
 ## mukta-m0-p62-v1527
-[hidden-worship+even](guptārccane'pi) [liberation](muktiḥ) [would-be](syād) [devotion](bhakti) [feeling](bhāva) [endowed](yuto) [if](yadi)
+[hidden-worship] [even] [liberation] [would-be] [devotion-mood] [endowed] [if]
 
 ## mukta-m0-p62-v1528
-[from-seeing](darśanāt) [mark+seat-of](lakṣapīṭhānāṃ) [fruit](phalaṃ) [which](yad) [best-color-lady](varavarṇini)
+[from-seeing] [laksha-seat's] [fruit] [which] [excellent-colored-one]
 
 ## mukta-m0-p62-v1529
-[from-touching](sparśanāt) [all+seat-of](sarvapīṭhānāṃ) [fruit+obtains](phalamāpnoti) [practitioner](sādhakaḥ)
+[from-touching] [all-seat's] [fruit] [obtains] [practitioner]
 
 ## mukta-m0-p62-v1530
-[stand](tiṣṭhanti) [those](tāni) [fords](tīrthāni) [womb+seat-in](yonipīṭheṣu) [beautiful](sundari)
+[stand] [those] [tirthas] [yoni-seats] [beautiful-one]
 
 ## mukta-m0-p62-v1531
-[Sarasvati](sarasvatī) [middle-part](madhyabhāge) [left-in](vāmeṣu) [Jahnavi](jāhnavī) [other](parā)
+[Sarasvati] [middle-part] [on-lefts] [Jahnavi] [supreme]
 
 ## mukta-m0-p62-v1532
-[field](kṣetre) [fords](tīrthāni) [stand](tiṣṭhanti) [all](sarvāṇi) [or+others](cānyāni) [supreme-lady](parameśvari)
+[in-field] [tirthas] [stand] [all] [and-others] [supreme-lady]
 
 ## mukta-m0-p62-v1533
-[now](adhunā) [to-hear+desire](śrotumicchāmi) [characteristic](lakṣaṇaṃ) [clan+women-of](kulayoṣitām)
+[now] [to-hear-desire] [characteristic] [kula-women's]
 
 ## mukta-m0-p62-v1534
-[that+characteristic+endowed](tallakṣaṇānvito) [to-be-known](jñeyaḥ) [practitioner](sādhakaḥ) [clan+woman](kulayoṣitaḥ)
+[that-characteristic-endowed] [to-be-known] [practitioner] [kula-woman]
 
 ## mukta-m0-p62-v1535
-[of-knowers](jñānināṃ) [knowledge-formed](jñānarūpedaṃ) [of-clan](kulasya) [characteristic](lakṣaṇaṃ) [Shiva](śive)
+[of-knowers] [knowledge-formed] [this] [of-kula] [characteristic] [Shive]
 
 ## mukta-m0-p62-v1536
-[thus](iti) [Shri-Sarvanandanatha](śrīsarvānandanātha) [composed](viracite) [Sarvollasa](sarvollāse) [fiftieth-chapter](pañcāśadullāsaḥ)
+[thus] [Shri-Sarvananda-natha] [composed] [in-Sarvollasa] [fiftieth-ullasa]
 
 ## mukta-m0-p62-v1537
-[your](tava) [pleasing](prītikarī) [goddess](devi) [be-spoken](cocyatāṃ) [existence+bondage-from](bhavabandhanāt)
+[your] [pleasure-making] [goddess] [let-be-spoken] [from-world-bondage]
 
 ## mukta-m0-p62-v1538
-[womb+principle](yonitattvaṃ) [without](vinā) [not+indeed](naiva) [clan+duty](kuladhana) [devoted](parāyaṇaḥ)
+[yoni-principle] [without] [not-indeed] [kula-duty] [devoted]
 
 ## mukta-m0-p62-v1539
-[forgotten](vismṛtaṃ) [again+be-said](punarucyeta) [oath](śapathaṃ) [my](me) [again](punaḥ) [again](punaḥ)
+[forgotten] [again-be-spoken] [oath] [my] [again] [again]
 
 ## mukta-m0-p62-v1540
-[not](na) [to-be-spoken](vaktavyaṃ) [again+indeed+this](punarhyetat) [oath](śapathaṃ) [my](me) [again](punaḥ) [again](punaḥ)
+[not] [to-be-spoken] [again-indeed-this] [oath] [my] [again] [again]
 
 ## mukta-m0-p62-v1541
-[menstrual-radiant](rajojjvalā)
+[menstrual-bright]
 
 ## mukta-m0-p62-v1542
-[semen-related](śukrikā) [semen](śukra) [mother](jananī) [in-that](tasyāṃ) [worship](pūjā) [great-fruit](mahāphalā)
+[semen-woman] [semen] [mother] [in-her] [worship] [great-fruit]
 
 ## mukta-m0-p62-v1543
-[having-meditated](dhyātvā) [should-do](kuryāt) [always](sadā) [union](saṅgaṃ) [in-semen](śukre) [seed](bīja) [emission](prapātanam)
+[having-meditated] [should-do] [always] [union] [in-semen] [seed-emission]
 
 ## mukta-m0-p62-v1544
-[only](kevalaṃ) [or+even](vāpi) [by-flower](puṣpeṇa) [purified](śodhitaṃ) [that+offer](tannivedayet)
+[only] [or] [even] [by-flower] [purified] [that-offer]
 
 ## mukta-m0-p62-v1545
-[then](tadā) [by-semen](śukreṇa) [to-be-given](dātavyaṃ) [and+substitute](cānukalpaṃ) [clan-lady](kuleśvari)
+[then] [by-semen] [to-be-given] [and-alternative] [kuleshvari]
 
 ## mukta-m0-p62-v1546
-[of-direct+even](pratyakṣasyāpi) [fitness](yogyatvaṃ) [and+in-substitutes](cānukalpeṣu) [established](saṃsthitam)
+[of-direct's] [even] [fitness] [in-alternatives] [established]
 
 ## mukta-m0-p62-v1547
-[own+own+color+endowed](svasvavarṇayutaṃ) [substance](dravyaṃ) [that](tad) [of-substance+substitution](dravyasyānukalpanam)
+[own-own-varna-endowed] [substance] [that] [of-substance] [alternative-making]
 
 ## mukta-m0-p62-v1548
-[having-meditated](dhyātvā) [should-sacrifice](yajen) [Maheshani](maheśāni) [middle](madhye) [semen](śukra) [emission](prapātanam)
+[having-meditated] [should-worship] [Maheshani] [in-middle] [semen-emission]
 
 ## mukta-m0-p62-v1549
-[thus](tathā) [beloved](priye)
+[thus] [beloved]
 
 ## mukta-m0-p62-v1550
-[mutually](parasparaṃ) [would-be+seed](bhavedbījaṃ) [wind+space+as](vāyurākāśayoryathā)
+[mutually] [would-be] [seed] [like-wind-space]

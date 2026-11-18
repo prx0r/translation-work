@@ -32,8 +32,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "kaula dharmmaḥ",
-"quick_gloss": "kaula-dharma"
+"surface": "kaula",
+"quick_gloss": "kaula"
+},
+{
+"surface": "dharmmaḥ",
+"quick_gloss": "dharma"
 },
 {
 "surface": "parama",
@@ -45,7 +49,7 @@
 },
 {
 "surface": "yogināmapyagamyaḥ",
-"quick_gloss": "yogis-even-unattainable"
+"quick_gloss": "for-yogis-even-unreachable"
 }
 ]
 },
@@ -57,12 +61,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
+"surface": "bhaktiñca",
+"quick_gloss": "devotion-and"
+},
+{
 "surface": "bhuktiṃ",
 "quick_gloss": "enjoyment"
 },
 {
 "surface": "vrajet",
-"quick_gloss": "goes"
+"quick_gloss": "may-go"
 }
 ]
 },
@@ -79,7 +87,7 @@
 },
 {
 "surface": "pivāmi",
-"quick_gloss": "drink"
+"quick_gloss": "i-drink"
 },
 {
 "surface": "yamunāṃ",
@@ -108,7 +116,7 @@
 },
 {
 "surface": "śrīnātha",
-"quick_gloss": "sri-natha"
+"quick_gloss": "lord-natha"
 },
 {
 "surface": "pādābjaṃ",
@@ -119,12 +127,12 @@
 "quick_gloss": "remembrance"
 },
 {
-"surface": "kim",
-"quick_gloss": "what"
+"surface": "kimataḥ",
+"quick_gloss": "what-beyond"
 },
 {
-"surface": "ataḥ param",
-"quick_gloss": "than-superior"
+"surface": "param",
+"quick_gloss": "supreme"
 }
 ]
 },
@@ -136,8 +144,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "kula strī",
-"quick_gloss": "kula-woman"
+"surface": "kula+strī",
+"quick_gloss": "clan-woman"
 },
 {
 "surface": "saṅga",
@@ -149,11 +157,11 @@
 },
 {
 "surface": "kulakāryaṃ",
-"quick_gloss": "kula-rite"
+"quick_gloss": "clan-rite"
 },
 {
 "surface": "samācaret",
-"quick_gloss": "perform"
+"quick_gloss": "should-perform"
 }
 ]
 },
@@ -166,23 +174,19 @@
 "tokens": [
 {
 "surface": "pānañca",
-"quick_gloss": "drinking-and"
-},
-{
-"surface": "viṣa",
-"quick_gloss": "poison"
-},
-{
-"surface": "pānaṃ",
 "quick_gloss": "drinking"
 },
 {
+"surface": "viṣa+pānaṃ",
+"quick_gloss": "poison-drinking"
+},
+{
 "surface": "syāt",
-"quick_gloss": "be"
+"quick_gloss": "may-be"
 },
 {
 "surface": "maithunaṃ",
-"quick_gloss": "sexual-intercourse"
+"quick_gloss": "intercourse"
 },
 {
 "surface": "pāpadāyakam",
@@ -210,8 +214,20 @@
 "quick_gloss": "perish"
 },
 {
-"surface": "āyurvidyā yaśo valam",
-"quick_gloss": "lifespan-knowledge-fame-strength"
+"surface": "āyur",
+"quick_gloss": "life"
+},
+{
+"surface": "vidyā",
+"quick_gloss": "knowledge"
+},
+{
+"surface": "yaśo",
+"quick_gloss": "fame"
+},
+{
+"surface": "valam",
+"quick_gloss": "strength"
 }
 ]
 },
@@ -228,11 +244,11 @@
 },
 {
 "surface": "pravakṣyāmi",
-"quick_gloss": "I-will-declare"
+"quick_gloss": "i-will-declare"
 },
 {
 "surface": "sarvasiddhi",
-"quick_gloss": "all-accomplishment"
+"quick_gloss": "all-siddhi"
 },
 {
 "surface": "pradāyakam",
@@ -256,12 +272,8 @@
 "quick_gloss": "fulfilling"
 },
 {
-"surface": "sarva",
-"quick_gloss": "all"
-},
-{
-"surface": "mantra",
-"quick_gloss": "mantra"
+"surface": "sarva+mantra",
+"quick_gloss": "all-mantra"
 },
 {
 "surface": "doṣa",
@@ -282,7 +294,7 @@
 "tokens": [
 {
 "surface": "abhicāra",
-"quick_gloss": "sorcery"
+"quick_gloss": "abhicara"
 },
 {
 "surface": "haraṃ",
@@ -315,7 +327,7 @@
 },
 {
 "surface": "daṣṭasya",
-"quick_gloss": "even-bitten"
+"quick_gloss": "bitten"
 },
 {
 "surface": "viṣapīḍā",
@@ -336,11 +348,7 @@
 "tokens": [
 {
 "surface": "strīkṛteṣvapi",
-"quick_gloss": "woman-caused"
-},
-{
-"surface": "api",
-"quick_gloss": "even"
+"quick_gloss": "in-woman-caused"
 },
 {
 "surface": "doṣeṣu",
@@ -356,7 +364,7 @@
 },
 {
 "surface": "tathā",
-"quick_gloss": "and"
+"quick_gloss": "thus"
 }
 ]
 },
@@ -369,7 +377,7 @@
 "tokens": [
 {
 "surface": "asaubhāgye",
-"quick_gloss": "inauspiciousness"
+"quick_gloss": "in-infortune"
 },
 {
 "surface": "ca",
@@ -397,28 +405,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "nadī",
-"quick_gloss": "river"
+"surface": "nadī+tīre",
+"quick_gloss": "river-bank"
 },
 {
-"surface": "tīre",
-"quick_gloss": "bank"
+"surface": "deva+bhūmau",
+"quick_gloss": "god-ground"
 },
 {
-"surface": "deva",
-"quick_gloss": "divine"
-},
-{
-"surface": "bhūmau",
-"quick_gloss": "ground"
-},
-{
-"surface": "taru",
-"quick_gloss": "tree"
-},
-{
-"surface": "mūle",
-"quick_gloss": "root"
+"surface": "taru+mūle",
+"quick_gloss": "tree-root"
 },
 {
 "surface": "catuṣpathe",
@@ -435,18 +431,18 @@
 "tokens": [
 {
 "surface": "mantreṇānena",
-"quick_gloss": "by-this-mantra"
+"quick_gloss": "by-mantra"
 },
 {
 "surface": "deveśi",
 "quick_gloss": "goddess"
 },
 {
-"surface": "tīrthānyāvāhayettataḥ",
+"surface": "tīrthāni",
 "quick_gloss": "tirthas"
 },
 {
-"surface": "tataḥ",
+"surface": "āvāhayettataḥ",
 "quick_gloss": "invoke-then"
 }
 ]
@@ -459,12 +455,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "sarve",
-"quick_gloss": "all"
-},
-{
-"surface": "samudrāḥ",
-"quick_gloss": "oceans"
+"surface": "sarve+samudrāḥ",
+"quick_gloss": "all-oceans"
 },
 {
 "surface": "saritaḥ",
@@ -480,7 +472,7 @@
 },
 {
 "surface": "hradāḥ",
-"quick_gloss": "ponds"
+"quick_gloss": "pools"
 }
 ]
 },
@@ -505,7 +497,7 @@
 },
 {
 "surface": "kurvantu",
-"quick_gloss": "make"
+"quick_gloss": "let-make"
 },
 {
 "surface": "sannidhim",
@@ -522,7 +514,7 @@
 "tokens": [
 {
 "surface": "sthirākṛtiḥ",
-"quick_gloss": "stable-form"
+"quick_gloss": "firm-form"
 }
 ]
 },
@@ -547,7 +539,7 @@
 },
 {
 "surface": "kuryādabhyukṣaṇaṃ",
-"quick_gloss": "make-sprinkling"
+"quick_gloss": "let-do-sprinkling"
 },
 {
 "surface": "tataḥ",
@@ -564,11 +556,11 @@
 "tokens": [
 {
 "surface": "tatrāvāhya",
-"quick_gloss": "there"
+"quick_gloss": "there-invoking"
 },
 {
 "surface": "prapūjayet",
-"quick_gloss": "invoke"
+"quick_gloss": "let-worship"
 }
 ]
 },
@@ -581,7 +573,7 @@
 "tokens": [
 {
 "surface": "mantreṇānena",
-"quick_gloss": "by-this-mantra"
+"quick_gloss": "by-mantra"
 },
 {
 "surface": "deśikaḥ",
@@ -615,19 +607,15 @@
 },
 {
 "surface": "dhanāyustejaḥsu",
-"quick_gloss": "wealth-glory"
+"quick_gloss": "wealth"
 },
 {
 "surface": "śrīphalasyāpi",
-"quick_gloss": "sri-fruit"
-},
-{
-"surface": "api",
-"quick_gloss": "also"
+"quick_gloss": "splendor"
 },
 {
 "surface": "pallavaiḥ",
-"quick_gloss": "sprouts"
+"quick_gloss": "shoots"
 }
 ]
 },

@@ -11,12 +11,16 @@
 "quick_gloss": "hear"
 },
 {
+"surface": "śruṇu",
+"quick_gloss": "kh: hear"
+},
+{
 "surface": "te",
 "quick_gloss": "your"
 },
 {
 "surface": "tadvacomatkaṃ",
-"quick_gloss": "that-speech"
+"quick_gloss": "that-speech-matka"
 },
 {
 "surface": "bhobho",
@@ -24,7 +28,7 @@
 },
 {
 "surface": "puruṣamadhyamāḥ",
-"quick_gloss": "men"
+"quick_gloss": "men-middle"
 }
 ]
 },
@@ -52,8 +56,12 @@
 "quick_gloss": "in-own-things"
 },
 {
+"surface": "sat * svīyeṣu",
+"quick_gloss": "k: sat * svīyeṣu"
+},
+{
 "surface": "vastuṣu",
-"quick_gloss": "objects"
+"quick_gloss": "things"
 }
 ]
 },
@@ -83,11 +91,11 @@
 "tokens": [
 {
 "surface": "tamanvagāyayaurāmamanujo",
-"quick_gloss": "him"
+"quick_gloss": "him-followed"
 },
 {
 "surface": "dharmaśālinam",
-"quick_gloss": "righteous"
+"quick_gloss": "dharma-possessing"
 }
 ]
 },
@@ -108,7 +116,7 @@
 },
 {
 "surface": "sahitorāmaḥ",
-"quick_gloss": "together-Rama"
+"quick_gloss": "with-Rama"
 },
 {
 "surface": "kaniṣṭhena",
@@ -137,11 +145,15 @@
 },
 {
 "surface": "karṇikayā",
-"quick_gloss": "with-ear-ornament"
+"quick_gloss": "with-karṇikā"
 },
 {
 "surface": "karṇyasītāṃ",
-"quick_gloss": "eared"
+"quick_gloss": "ear-possessing"
+},
+{
+"surface": "karṇyā -",
+"quick_gloss": "kh: karṇyā -"
 },
 {
 "surface": "saundaryaśālinīm",
@@ -165,6 +177,10 @@
 "quick_gloss": "in-battle"
 },
 {
+"surface": "jajñe",
+"quick_gloss": "kh: born"
+},
+{
 "surface": "rāghaveṇaikacāriṇā",
 "quick_gloss": "by-Raghava-alone-wandering"
 }
@@ -179,7 +195,7 @@
 "tokens": [
 {
 "surface": "parabhūmi",
-"quick_gloss": "foreign-land"
+"quick_gloss": "other-land"
 },
 {
 "surface": "prasaktiśca",
@@ -190,12 +206,12 @@
 "quick_gloss": "not-went"
 },
 {
-"surface": "kvacit",
-"quick_gloss": "somewhere"
+"surface": "satva-",
+"quick_gloss": "kh: satva-"
 },
 {
-"surface": "kvacit",
-"quick_gloss": "somewhere"
+"surface": "kvacit kvacit",
+"quick_gloss": "somewhere-somewhere"
 }
 ]
 },
@@ -259,7 +275,11 @@
 "tokens": [
 {
 "surface": "bhetopadeśanirbhiṇāścittadoṣa",
-"quick_gloss": "by-advice-split"
+"quick_gloss": "fear-instruction-pierced"
+},
+{
+"surface": "-rbhinnāścitta-",
+"quick_gloss": "kh: -rbhinnāścitta-"
 },
 {
 "surface": "nirāgrahāḥ",
@@ -292,7 +312,7 @@
 },
 {
 "surface": "dānarūpopadeśataḥ",
-"quick_gloss": "by-gift-form-advice"
+"quick_gloss": "by-gift-form-instruction"
 }
 ]
 },
@@ -312,8 +332,12 @@
 "quick_gloss": "named"
 },
 {
-"surface": "satyāsatyasvarūpiṇām",
+"surface": "iṣṭavastūnāṃ",
 "quick_gloss": "of-desired-things"
+},
+{
+"surface": "satyāsatyasvarūpiṇām",
+"quick_gloss": "of-true-false-form"
 }
 ]
 },
@@ -333,8 +357,8 @@
 "quick_gloss": "Vyasa-etc"
 },
 {
-"surface": "procuevaṃ",
-"quick_gloss": "spoke-thus"
+"surface": "procurevaṃ",
+"quick_gloss": "said"
 },
 {
 "surface": "nīcanarānprati",
@@ -351,7 +375,7 @@
 "tokens": [
 {
 "surface": "paradārānuṣaṃ",
-"quick_gloss": "from-others-wives"
+"quick_gloss": "other-wives"
 },
 {
 "surface": "gācca",
@@ -360,6 +384,10 @@
 {
 "surface": "viratyā",
 "quick_gloss": "by-abstinence"
+},
+{
+"surface": "-tyāt",
+"quick_gloss": "kh: -tyāt"
 },
 {
 "surface": "puṇyasaṃpadaḥ",
@@ -376,7 +404,7 @@
 "tokens": [
 {
 "surface": "paravastu",
-"quick_gloss": "from-others-thing"
+"quick_gloss": "other-thing"
 },
 {
 "surface": "grahaṇato",
@@ -385,6 +413,10 @@
 {
 "surface": "nirutyā",
 "quick_gloss": "by-non-continuity"
+},
+{
+"surface": "nirantyā",
+"quick_gloss": "kh: nirantyā"
 },
 {
 "surface": "saṃpadudbhavet",
@@ -416,12 +448,8 @@
 "quick_gloss": "happiness"
 },
 {
-"surface": "pade",
-"quick_gloss": "step"
-},
-{
-"surface": "pade",
-"quick_gloss": "step"
+"surface": "pade pade",
+"quick_gloss": "step-by-step"
 }
 ]
 },
@@ -455,7 +483,11 @@
 },
 {
 "surface": "vyāsādhyātānvininvire",
-"quick_gloss": "Vyasa-led"
+"quick_gloss": "Vyasa-taught"
+},
+{
+"surface": "-dyātānvininyire",
+"quick_gloss": "kh: -dyātānvininyire"
 }
 ]
 },
@@ -469,6 +501,10 @@
 {
 "surface": "tīvropavāsa",
 "quick_gloss": "severe-fasting"
+},
+{
+"surface": "* * * *sa",
+"quick_gloss": "k: * * * *sa"
 },
 {
 "surface": "duḥkhādyamapi",
@@ -493,7 +529,7 @@
 "tokens": [
 {
 "surface": "atodānopadeśo'yaṃ",
-"quick_gloss": "therefore-gift-advice"
+"quick_gloss": "therefore-gift-instruction"
 },
 {
 "surface": "nicamartyeṣu",
@@ -561,6 +597,10 @@
 {
 "surface": "padacchedaiḥ",
 "quick_gloss": "foot-cuttings"
+},
+{
+"surface": "-dais",
+"quick_gloss": "kh: -dais"
 },
 {
 "surface": "tāḍanaiḥ",

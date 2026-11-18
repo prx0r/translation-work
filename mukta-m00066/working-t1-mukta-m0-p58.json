@@ -32,7 +32,7 @@
 },
 {
 "surface": "bhavat",
-"quick_gloss": "occurs"
+"quick_gloss": "becomes"
 }
 ]
 },
@@ -45,15 +45,31 @@
 "tokens": [
 {
 "surface": "tritvantu",
-"quick_gloss": "threefold"
+"quick_gloss": "three-ness"
 },
 {
-"surface": "vyavahārasyāpyapekṣaivātra",
+"surface": "vyavahārasya",
 "quick_gloss": "of-practice"
 },
 {
+"surface": "api",
+"quick_gloss": "also"
+},
+{
+"surface": "apekṣā",
+"quick_gloss": "expectation"
+},
+{
+"surface": "eva",
+"quick_gloss": "indeed"
+},
+{
+"surface": "atra",
+"quick_gloss": "here"
+},
+{
 "surface": "sammatam",
-"quick_gloss": "accepted"
+"quick_gloss": "agreed"
 }
 ]
 },
@@ -70,15 +86,23 @@
 },
 {
 "surface": "śivatatvaṃ",
-"quick_gloss": "śiva-principle"
+"quick_gloss": "shiva-principle"
 },
 {
 "surface": "tu",
 "quick_gloss": "but"
 },
 {
-"surface": "śabdabhāvyamihādhunā",
-"quick_gloss": "by-sound"
+"surface": "śabdabhāvyam",
+"quick_gloss": "word-born"
+},
+{
+"surface": "iha",
+"quick_gloss": "here"
+},
+{
+"surface": "adhunā",
+"quick_gloss": "now"
 }
 ]
 },
@@ -90,16 +114,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
+"surface": "śabdabhāsyatvam",
+"quick_gloss": "word-born-ness"
+},
+{
 "surface": "ujhitvā",
 "quick_gloss": "abandoning"
 },
 {
-"surface": "śabdabhāsyatvam",
-"quick_gloss": "sound-manifestation"
-},
-{
 "surface": "svādhyakṣeṇa",
-"quick_gloss": "by-direct-perception"
+"quick_gloss": "by-self-witness"
 },
 {
 "surface": "sabhāsate",
@@ -116,7 +140,7 @@
 "tokens": [
 {
 "surface": "svāśrayo",
-"quick_gloss": "one-support"
+"quick_gloss": "self-support"
 },
 {
 "surface": "marudekasya",
@@ -145,7 +169,7 @@
 "tokens": [
 {
 "surface": "śivastu",
-"quick_gloss": "śiva"
+"quick_gloss": "shiva"
 },
 {
 "surface": "sarvāśrayaḥ",
@@ -153,7 +177,7 @@
 },
 {
 "surface": "syāt",
-"quick_gloss": "would-be"
+"quick_gloss": "may-be"
 },
 {
 "surface": "tatra",
@@ -161,7 +185,7 @@
 },
 {
 "surface": "samyagvivicyate",
-"quick_gloss": "properly"
+"quick_gloss": "rightly-distinguished"
 }
 ]
 },
@@ -178,7 +202,7 @@
 },
 {
 "surface": "siddhādirūpeṇa",
-"quick_gloss": "as-siddhi-form"
+"quick_gloss": "siddha-beginning-form"
 },
 {
 "surface": "vāyaumeghahimātmatā",
@@ -195,15 +219,11 @@
 "tokens": [
 {
 "surface": "śabdemaṃghījalamarut",
-"quick_gloss": "by-sound-this-water-air"
-},
-{
-"surface": "saṃśrayaḥ",
-"quick_gloss": "support"
+"quick_gloss": "word-this-refuge"
 },
 {
 "surface": "kathitaḥ",
-"quick_gloss": "said"
+"quick_gloss": "told"
 },
 {
 "surface": "priye",
@@ -228,7 +248,7 @@
 },
 {
 "surface": "śarīratvena",
-"quick_gloss": "as-body"
+"quick_gloss": "body-ness"
 },
 {
 "surface": "kīrtyate",
@@ -253,15 +273,19 @@
 },
 {
 "surface": "yat",
+"quick_gloss": "what"
+},
+{
+"surface": "tat",
 "quick_gloss": "that"
 },
 {
 "surface": "sacit",
-"quick_gloss": "sentient"
+"quick_gloss": "conscious"
 },
 {
 "surface": "kamihocyate",
-"quick_gloss": "here"
+"quick_gloss": "here-called"
 }
 ]
 },
@@ -274,7 +298,7 @@
 "tokens": [
 {
 "surface": "manaḥsaṃsrayaṇaṃ",
-"quick_gloss": "mind-support"
+"quick_gloss": "mind-refuge"
 },
 {
 "surface": "prāṇi",
@@ -282,7 +306,7 @@
 },
 {
 "surface": "sacit",
-"quick_gloss": "sentient"
+"quick_gloss": "conscious"
 },
 {
 "surface": "kavapuṣismṛtam",
@@ -298,12 +322,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "sarveṣāmihatatvānāṃ",
-"quick_gloss": "of-all-here-principles"
+"surface": "sarveṣām",
+"quick_gloss": "of-all"
 },
 {
-"surface": "vikṛtirguṇabhedajā",
+"surface": "ihatatvānāṃ",
+"quick_gloss": "here-principles"
+},
+{
+"surface": "vikṛtir",
 "quick_gloss": "modification"
+},
+{
+"surface": "guṇabhedajā",
+"quick_gloss": "guna-difference-born"
 }
 ]
 },
@@ -316,15 +348,19 @@
 "tokens": [
 {
 "surface": "saṃghātajāśca",
-"quick_gloss": "aggregates-born"
+"quick_gloss": "aggregate-born"
 },
 {
 "surface": "saṃghātā",
 "quick_gloss": "aggregates"
 },
 {
-"surface": "bahavonaikarūpiṇaḥ",
+"surface": "bahavo",
 "quick_gloss": "many"
+},
+{
+"surface": "naikarūpiṇaḥ",
+"quick_gloss": "not-one-formed"
 }
 ]
 },
@@ -336,12 +372,28 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "bahunā kimihoktena",
-"quick_gloss": "why-much-here-said"
+"surface": "bahunā",
+"quick_gloss": "by-much"
 },
 {
-"surface": "kintatvairaparairjaḍaiḥ",
-"quick_gloss": "what-principle-other-inert"
+"surface": "kim",
+"quick_gloss": "what"
+},
+{
+"surface": "ihoktena",
+"quick_gloss": "here-said"
+},
+{
+"surface": "kintatvaiḥ",
+"quick_gloss": "what-principles"
+},
+{
+"surface": "aparaiḥ",
+"quick_gloss": "other"
+},
+{
+"surface": "jaḍaiḥ",
+"quick_gloss": "inert"
 }
 ]
 },
@@ -354,23 +406,31 @@
 "tokens": [
 {
 "surface": "acchedyo",
-"quick_gloss": "uncut"
+"quick_gloss": "un-cuttable"
 },
 {
-"surface": "yamadāhoya",
-"quick_gloss": "unburnable"
+"surface": "yam",
+"quick_gloss": "this"
 },
 {
-"surface": "makledyośoṣya",
-"quick_gloss": "unwettable"
+"surface": "adāhyo",
+"quick_gloss": "un-burnable"
+},
+{
+"surface": "akledyo",
+"quick_gloss": "un-wettable"
+},
+{
+"surface": "aśoṣya",
+"quick_gloss": "un-dryable"
 },
 {
 "surface": "eva",
-"quick_gloss": "and"
+"quick_gloss": "indeed"
 },
 {
 "surface": "ca",
-"quick_gloss": "ca"
+"quick_gloss": "and"
 }
 ]
 },
@@ -383,7 +443,7 @@
 "tokens": [
 {
 "surface": "sarvaviśvasya",
-"quick_gloss": "of-all-world"
+"quick_gloss": "of-all-universe"
 },
 {
 "surface": "janakaḥ",
@@ -391,7 +451,7 @@
 },
 {
 "surface": "sarvaviśvasya",
-"quick_gloss": "of-all-world"
+"quick_gloss": "of-all-universe"
 },
 {
 "surface": "pālakaḥ",
@@ -408,7 +468,7 @@
 "tokens": [
 {
 "surface": "sa",
-"quick_gloss": "that"
+"quick_gloss": "he"
 },
 {
 "surface": "giridvīpajaladhikānanā",
@@ -437,11 +497,11 @@
 },
 {
 "surface": "saṃkhyātā",
-"quick_gloss": "counted"
+"quick_gloss": "indeed-counted"
 },
 {
 "surface": "vasudhāvāsavārcite",
-"quick_gloss": "earth-abode-worshipped"
+"quick_gloss": "earth-dwelling-worshipped"
 }
 ]
 },
@@ -462,7 +522,7 @@
 },
 {
 "surface": "ca",
-"quick_gloss": "ca"
+"quick_gloss": "and"
 },
 {
 "surface": "vāyu",
@@ -470,7 +530,7 @@
 },
 {
 "surface": "naiva",
-"quick_gloss": "not"
+"quick_gloss": "not-indeed"
 },
 {
 "surface": "pracālyate",
@@ -503,7 +563,7 @@
 },
 {
 "surface": "ca",
-"quick_gloss": "ca"
+"quick_gloss": "and"
 },
 {
 "surface": "sthimitaḥ",
@@ -539,8 +599,12 @@
 "quick_gloss": "with-sound"
 },
 {
-"surface": "tatodyate",
-"quick_gloss": "then"
+"surface": "tat",
+"quick_gloss": "that"
+},
+{
+"surface": "udyate",
+"quick_gloss": "impelled"
 }
 ]
 },
@@ -557,19 +621,27 @@
 },
 {
 "surface": "tu",
-"quick_gloss": "tu"
+"quick_gloss": "but"
 },
 {
 "surface": "tattvaṃ",
 "quick_gloss": "principle"
 },
 {
-"surface": "kathitamasyaivānyā",
-"quick_gloss": "said"
+"surface": "kathitam",
+"quick_gloss": "told"
+},
+{
+"surface": "asya",
+"quick_gloss": "of-him"
+},
+{
+"surface": "anyā",
+"quick_gloss": "other"
 },
 {
 "surface": "vibhūtayaḥ",
-"quick_gloss": "vibhūtayaḥ"
+"quick_gloss": "powers"
 }
 ]
 },
@@ -586,7 +658,7 @@
 },
 {
 "surface": "tacchāstra",
-"quick_gloss": "tacchāstra"
+"quick_gloss": "that-scripture"
 },
 {
 "surface": "sthitiḥ",
@@ -598,11 +670,11 @@
 },
 {
 "surface": "kathitā",
-"quick_gloss": "said"
+"quick_gloss": "told"
 },
 {
 "surface": "girinaṃdini",
-"quick_gloss": "girinaṃdini"
+"quick_gloss": "mountain-daughter"
 }
 ]
 },
@@ -627,15 +699,19 @@
 },
 {
 "surface": "kiṃcit",
-"quick_gloss": "kiṃcit"
+"quick_gloss": "something"
 },
 {
 "surface": "praṣṭavyaṃ",
-"quick_gloss": "askable"
+"quick_gloss": "to-be-asked"
 },
 {
-"surface": "spṛṣṭamāśaye",
-"quick_gloss": "touched-in-mind"
+"surface": "spṛṣṭam",
+"quick_gloss": "touched"
+},
+{
+"surface": "āśaye",
+"quick_gloss": "in-mind"
 }
 ]
 },

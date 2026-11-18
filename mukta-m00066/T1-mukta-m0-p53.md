@@ -2,76 +2,52 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p53-v1301
-[there-also](tatrāpi) [causes](hetavaḥ) [intense](tīvrāḥ) [more-over](bhūyasyaḥ) [reasons](yuktayaḥ) [also](api) [and](ca)
-
+there-indeed causes-intense [kh: -vrā] more-and-arguments-also and
 ## mukta-m0-p53-v1302
-[confusion](vyāmohe) [arises](jāyate) [far](dūraṃ) [of-those-two](tayoḥ) [by-seeing](ālokanāt) [of-non-debtors](anṛṇām)
-
+in-confusion arises far of-those-two seeing of-debtors
 ## mukta-m0-p53-v1303
-[in-place](sthāne) [back](pṛṣṭhaṃ) [by-you](tvayā) [devi](devi) [properly](samyak) [that](tat) [is-distinguished](vivicyate)
-
+in-place back by-you goddess properly that-is-distinguished
 ## mukta-m0-p53-v1304
-[not](na) [only](kevalaṃ) [intellect-play](dhīvilāsaḥ) [speech-power](vaikharyā) [also](api) [ca](ca) [cause](kāraṇam)
-
+not only intellect-play speech-also and cause
 ## mukta-m0-p53-v1305
-[by-intention](saṅkalpena) [by-doubt](vikalpena) [human-born](narajātyā) [one-dwelling](ekavāsinā)
-
+by-intention by-doubt human-birth-single-dweller
 ## mukta-m0-p53-v1306
-[of-those](teṣāṃ) [tu](tu) [of-views](darśanānāṃ) [yo](yo) [vedaḥ](vedaḥ) [first-view](prathamadarśanam)
-
+of-them but of-views who veda first-view
 ## mukta-m0-p53-v1307
-[there](tatra) [indifferent](udāsīna) [conducts](vṛttīni) [other](anyāni) [supreme-lady](parameśvarī)
-
+there-neutral practices-other and supreme-goddess
 ## mukta-m0-p53-v1308
-[not](na) [tu](tu) [rest](viśrāṃti) [news](vārttā) [api](api) [of-anyone](kasyacid) [of-dispute-path](vādavartmanaḥ)
-
+not but rest news-also of-anyone debate-path [kh: -cidvātha-]
 ## mukta-m0-p53-v1309
-[by-taste](rucinām) [iha](iha) [vai](vai) [from-variety](citryāt) [in-many-ways](bahudhā) [scripture-millions](śāstrakoṭayaḥ)
-
+of-tastes here indeed from-variety [kh: citryā] in-many-ways scripture-millions
 ## mukta-m0-p53-v1310
-[political-science](arthāśāstraṃ) [ca](ca) [fair-hipped](suśroṇi) [from-those-two](tābhyāṃ) [scripture-emergence](śāstrasamudgamaḥ)
-
+political-science and beautiful-hipped from-those two scripture-emergence
 ## mukta-m0-p53-v1311
-[direct-perception-etc](pratyakṣādi) [means-of-knowledge](pramāṇāni) [in-all-ways](sarvathā) [cause](kāraṇaṃ) [tu](tu) [idam](idam)
-
+perception-etc means-of-knowledge in-all-ways [kh: -dhā] cause indeed-this
 ## mukta-m0-p53-v1312
-[of-anyone](kasyāpi) [equality](samatā) [devi](devi) [threefold](trividhaḥ) [this](ayaṃ) [pramāṇa-order](pramākramaḥ)
-
+of-any equality goddess [kh: -vī] threefold-this means-of-knowledge-sequence
 ## mukta-m0-p53-v1313
-[buddhists](saugatāḥ) [ca](ca) [eva](eva) [atomists](kāṇādāḥ) [perception-inference](pratyakṣānumitī) [said](jaguḥ)
-
+buddhists-and-also kanada-perception-inference-declared
 ## mukta-m0-p53-v1314
-[nyāya-partialists](nyāyaikadeśinaḥ) [ca](ca) [others](anye) [like-sāṃkhya](sāṃkhyavat) [declared](samudīritāḥ)
-
+nyaya-one-partisans-and-others like-samkhya [kh: sāṃkhyā-] declared
 ## mukta-m0-p53-v1315
-[by-implication](arthāpattyā) [with-those](sahaitāni) [four](catvāri) [another](aparaḥ) [said](ūcire)
-
+by-implication with-these four others said
 ## mukta-m0-p53-v1316
-[possibility](saṃbhava) [iti](iti) [iha](iha) [by-suitable-ones](yuktaiḥ) [taiḥ](taiḥ) [six](ṣaḍbhiḥ) [means](mānaiḥ) [ca](ca) [some](kecana)
-
+arises-here by-those six means-of-knowledge-and some
 ## mukta-m0-p53-v1317
-[there](atra) [mutual-inclusion](antarbbhāvam) [anyonyam](anyonyaṃ) [disputants](vādinaḥ) [reasoned-scholars](yuktapaṇḍitāḥ)
-
+here mutual-inclusion mutually debaters-arguing-scholars
 ## mukta-m0-p53-v1318
-[again](bhūyaḥ) [grasp](parigrahaḥ) [yasya](yasya) [yasya](yasya) [small-grasp](svalpaparigrahaḥ)
-
+more possession of-whom of-whom small-possession [kh: -he]
 ## mukta-m0-p53-v1319
-[those](ye) [do](kurvanti) [i](ham) [anvānāḥ](anvānāḥ) [in-scriptures](śāstreṣu) [small-grasp](alpaparigraham)
-
+who do [kh: kurvaṃti] following scriptures-small-possession
 ## mukta-m0-p53-v1320
-[of-them](teṣāṃ) [view](mataṃ) [ca](ca) [shaking](dhūnvānāḥ) [logic](tarka) [knots](granthibhiḥ) [bright](ujvalaiḥ)
-
+their opinion and shaking logic knots-by-bright [kh: graṃddhi-]
 ## mukta-m0-p53-v1321
-[thus](evaṃ) [being](sati) [in-all](samasteṣu) [scriptures](śāstreṣu) [dispute](kalahaṃ) [order](kramaḥ)
-
+thus being in-all scriptures quarrel sequence [kh: -ha]
 ## mukta-m0-p53-v1322
-[superimposition-born](āropajaṃ) [reject](nirasyanti) [some](kecit) [self-taste-disputants](svarasavādinaḥ)
-
+superimposition-born reject some self-taste-debaters
 ## mukta-m0-p53-v1323
-[of-superimposition](āropasya) [nature](svarūpaṃ) [tu](tu) [i-will-tell](kathayāmi) [mountain-daughter](nagātmaje)
-
+of-superimposition nature-but I-will-tell mountain-daughter
 ## mukta-m0-p53-v1324
-[clay](mṛttikā) [indeed](khalu) [all](sarvā) [this](iyam) [earth](bhūmiḥ) [various-forms](nānāvidhākṛtiḥ)
-
+clay indeed all this earth various-forms
 ## mukta-m0-p53-v1325
-[this](etat) [earth](bhūmi) [clay](mṛttikā) [eva](eva) [kuṃbha-maker](kuṃbhakṛt) [by-hand-rubbed](pāṇimardditā)
+this earth clay-only potter-hand-kneaded
