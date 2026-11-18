@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p20-v476
-[pūrva-uktaṃ](pūrvokta) [yat](yattu) [tu](yattu) [hṛt-cakraṃ](hṛccakraṃ) [dūtikāyāḥ](dūtikāyāḥ) [pra-kīrtitam](prakīrttitam)
+[previously-spoken](pūrvokta) [indeed](yattu) [heart-wheel](hṛccakraṃ) [of-messenger](dūtikāyāḥ) [declared](prakīrttitam)
 
 ## mukta-m0-p20-v477
-[evaṃ](evaṃ) [yoni-gataṃ](yonigataṃ) [cakraṃ](cakraṃ) [pūjayitvā](pūjayitvā) [vi-cakṣaṇaḥ](vicakṣaṇaḥ)
+[thus](evaṃ) [in-yoni](yonigataṃ) [wheel](cakraṃ) [having-worshipped](pūjayitvā) [wise-one](vicakṣaṇaḥ)
 
 ## mukta-m0-p20-v478
-[cakra-pūjena](cakrapūjena) [śuddhena](śuddhena) [tripurā-arghyeṇa](tripurārghyeṇa) [bhāsvatā](bhāsvatā)
+[by-pure-wheel-worship](cakrapūjena) [pure](śuddhena) [with-tripura-offering](tripurārghyeṇa) [shining](bhāsvatā)
 
 ## mukta-m0-p20-v479
-[tat-codhitena](taccodhitena) [dravyeṇa](dravyeṇa) [pūritaṃ](pūritaṃ) [sa](sa) [dvitīyakam](dvitīyakam)
+[by-that-purified](taccodhitena) [substance](dravyeṇa) [filled](pūritaṃ) [he](sa) [second](dvitīyakam)
 
 ## mukta-m0-p20-v480
-[dūtī-hasta-gate](dūtīhastagate) [tasmin](tasmin) [pātre](pātre) [pūrita-sīdhuni](pūritasīdhuni)
+[in-messenger-hand](dūtīhastagate) [in-that](tasmin) [vessel](pātre) [filled-with-sidhu](pūritasīdhuni)
 
 ## mukta-m0-p20-v481
-[mukhaṃ](mukhaṃ) [biṃduṃ](biṃduṃ) [vidhāya-atha](vidhāyātha) [biṃdu-yugmena](biṃduyugmena) [tat](tat) [kucau](kucau)
+[face](mukhaṃ) [bindu](biṃduṃ) [having-made](vidhāyātha) [by-two-bindus](biṃduyugmena) [that](tat) [breasts](kucau)
 
 ## mukta-m0-p20-v482
-[jvalat-kāma-kalā-ākāra-asyaṃdamāna-amṛta-dravaiḥ](jvalatkāmakalākārāsyaṃdamānāmṛtadravaiḥ)
+[blazing-kama-kala-form](jvalatkāmakalākārāsyaṃdamānāmṛtadravaiḥ)
 
 ## mukta-m0-p20-v483
-[dhyāta-kāma-kalā-pūtayeta](dhyātakāmakalāpūtayeta) [dravyaṃ](dravyaṃ) [pibaṃtitāḥ](pibaṃtitāḥ)
+[meditated-kama-kala-purified](dhyātakāmakalāpūtayeta) [substance](dravyaṃ) [drinking](pibaṃtitāḥ)
 
 ## mukta-m0-p20-v484
-[pra-dravaṃti](pradravaṃti) [ca](ca) [mūrcchaṃti](mūrcchaṃti) [layaṃ](layaṃ) [yāṃti](yāṃti) [pade](pade) [pade](pade)
+[they-flow](pradravaṃti) [and](ca) [they-faint](mūrcchaṃti) [they-enter-dissolution](layaṃ) [yāṃti] [step-by-step](pade) [pade]
 
 ## mukta-m0-p20-v485
-[dūtikā-jīva-nāthasya](dūtikājīvanāthasya) [yā](yā) [sā](sā) [saṃskṛtiḥ](saṃskṛtirāṃtarī) [āṃtarī](saṃskṛtirāṃtarī)
+[of-messenger-life-lord](dūtikājīvanāthasya) [which](yā) [that](sā) [inner-purification](saṃskṛtirāṃtarī)
 
 ## mukta-m0-p20-v486
-[ayam](ayamābhyaṃtaraḥ) [ābhyaṃtaraḥ](ayamābhyaṃtaraḥ) [proktaḥ](proktaḥ) [saṃskāraḥ](saṃskārojīvaśodhakaḥ) [jīva-śodhakaḥ](saṃskārojīvaśodhakaḥ)
+[this](ayam) [inner](ābhyaṃtaraḥ) [declared](proktaḥ) [purification](saṃskāro) [life-purifying](jīvaśodhakaḥ)
 
 ## mukta-m0-p20-v487
-[jīva-nāthasya](jīvanāthasya) [devasya](devasya) [sūcito](sūcitonopapāditaḥ) [na](sūcitonopapāditaḥ) [upapāditaḥ](sūcitonopapāditaḥ)
+[of-life-lord](jīvanāthasya) [of-god](devasya) [indicated](sūcito) [not-established](nopapāditaḥ)
 
 ## mukta-m0-p20-v488
-[kiṃ](kiṃkaroti) [karoti](kiṃkaroti) [ca](ca) [dehasya](dehasya) [pra-viśan](praviśannaṃtaraṃ) [antaraṃ](praviśannaṃtaraṃ) [guṇam](guṇam)
+[what](kiṃ) [does](karoti) [and](ca) [of-body](dehasya) [entering-inner](praviśannaṃtaraṃ) [quality](guṇam)
 
 ## mukta-m0-p20-v489
-[idaṃ](idaṃ) [pavitram](pavitramamṛtaṃ) [amṛtaṃ](pavitramamṛtaṃ) [bhava-bheṣajam](bhavabheṣajamūciret) [ūciret](bhavabheṣajamūciret)
+[this](idaṃ) [pure](pavitram) [nectar](amṛtaṃ) [world-medicine](bhavabheṣajam) [they-said](ūciret)
 
 ## mukta-m0-p20-v490
-[pratyakṣa-saukhya-janakaṃ](pratyakṣasaukhyajanakaṃ) [bahu-pratyaya-dāyakam](bahupratyayadāyakam)
+[directly-pleasant](pratyakṣasaukhyajanakaṃ) [much-faith-giving](bahupratyayadāyakam)
 
 ## mukta-m0-p20-v491
-[nānā-vidhānāṃ](nānāvidhānāṃ) [vasudhā-janmanāṃ](vasudhājanmanāṃ) [puṇya-vīrudhām](puṇyavīrudhām)
+[of-various](nānāvidhānāṃ) [of-earth-born](vasudhājanmanāṃ) [of-meritorious-herbs](puṇyavīrudhām)
 
 ## mukta-m0-p20-v492
-[ṣaḍbhiḥ](ṣaḍbhiśca) [ca](ṣaḍbhiśca) [nānā-vidhatāṃ](nānāvidhatāṃ) [prāptaiḥ](prāptairasakadaṃbakaiḥ) [asaka-daṃbakaiḥ](prāptairasakadaṃbakaiḥ)
+[by-six](ṣaḍbhiśca) [various-states](nānāvidhatāṃ) [obtained](prāptair) [with-clusters](asakadaṃbakaiḥ)
 
 ## mukta-m0-p20-v493
-[kaṣāyaṃ](kaṣāyaṃ) [khalu](khalurogārtaḥ) [roga-ārtaḥ](khalurogārtaḥ) [pibati](pibatyauṣadhavīrudhām) [auṣadha-vīrudhām](pibatyauṣadhavīrudhām)
+[astringent](kaṣāyaṃ) [indeed](khalu) [disease-afflicted](rogārtaḥ) [drinks](pibaty) [medicinal-herbs](auṣadhavīrudhām)
 
 ## mukta-m0-p20-v494
-[namo](namoyasya) [yasya](namoyasya) [tu](tvanirvācyā) [anirvācyā](tvanirvācyā) [śaktiḥ](śaktiḥ) [śaila-tanū-bhavet](śailatanūbhavet)
+[salutation](namo) [whose](yasya) [tv](tv) [ineffable](anirvācyā) [power](śaktiḥ) [mountain-bodied](śailatanūbhavet)
 
 ## mukta-m0-p20-v495
-[tathā](tathauṣadhānāṃ) [auṣadhānāṃ](tathauṣadhānāṃ) [ca](ca) [śiva-śaktiḥ](śiveśaktiḥ) [pratyaya-kāriṇī](pratyayakāriṇī)
+[thus](tathauṣadhānāṃ) [of-herbs](ca) [o-śiva](śive) [power](śaktiḥ) [cause-of-proof](pratyayakāriṇī)
 
 ## mukta-m0-p20-v496
-[tanu-paryanuyojyatvā](tanuparyanuyojyatvā) [mātṛkasya](mātṛkasyāpi) [api](mātṛkasyāpi) [vādinaḥ](vādinaḥ)
+[by-body-attachment](tanuparyanuyojyatvā) [of-mātṛkā](mātṛkasyāpi) [or](vā) [of-speaker](vādinaḥ)
 
 ## mukta-m0-p20-v497
-[atas](atastathauṣadhānāṃ) [tathā](atastathauṣadhānāṃ) [auṣadhānāṃ](atastathauṣadhānāṃ) [ca](ca) [śaktiḥ](śaktirasyeva) [asya](śaktirasyeva) [iva](śaktirasyeva) [pārvati](pārvati)
+[therefore](atastathauṣadhānāṃ) [and](ca) [power](śaktir) [of-her](asyeva) [o-pārvatī](pārvati)
 
 ## mukta-m0-p20-v498
-[pratyauṣadhaṃ](pratyauṣadhaṃ) [bhinnabhinnāḥ](bhinnabhinnāḥ) [śaktayaḥ](śaktayastatra) [tatra](śaktayastatra) [pārvati](pārvati)
+[per-herb](pratyauṣadhaṃ) [different-different](bhinnabhinnāḥ) [powers](śaktayastatra) [o-pārvatī](pārvati)
 
 ## mukta-m0-p20-v499
-[anyonyāḥ](anyonyāḥ) [śaktayaḥ](śaktayonūnamāvisyaṃtyeva) [ūnam](śaktayonūnamāvisyaṃtyeva) [āvisyaṃti](śaktayonūnamāvisyaṃtyeva) [eva](śaktayonūnamāvisyaṃtyeva) [vīrudhām](vīrudhām)
+[mutually](anyonyāḥ) [powers](śaktayo) [indeed](nūnam) [enter](āvisyaṃtyeva) [herbs](vīrudhām)
 
 ## mukta-m0-p20-v500
-[svataṃtrāḥ](svataṃtrāstvekayā) [tu](svataṃtrāstvekayā) [ekayā](svataṃtrāstvekayā) [śaktyā](śaktyā) [nikṛtaṃti](nikṛtaṃti) [mahā-gadān](mahāgadān)
+[independent](svataṃtrāstvekayā) [by-one-power](śaktyā) [they-overcome](nikṛtaṃti) [great-diseases](mahāgadān)
