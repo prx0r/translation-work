@@ -2,34 +2,34 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p61-v1501
-[expanded](vibhinne) [kula](kula) [to-be-given](dātavyaṃ) [own-kula+joy+cause](svakulānanda) [for-the-sake](hetave)
+[expanded](vibhinne) [family](kula) [to-be-given](dātavyaṃ) [own-family+bliss](svakulānanda) [for-the-sake-of](hetave)
 
 ## mukta-m0-p61-v1502
-[among-women+mere](nārīmātreṣu) [to-be-known](vijñeyā) [among-gods](deveṣu) [kula+woman](kulayoṣitā)
+[woman+mere](nārīmātreṣu) [to-be-known](vijñeyā) [among-gods](deveṣu) [family+woman](kulayoṣitā)
 
 ## mukta-m0-p61-v1503
 [therefore](ata) [indeed](eva) [great+hero](mahāvīras) [that+other](tadanyāṃ) [not](na) [indeed](eva) [should-transgress](laṅghayet)
 
 ## mukta-m0-p61-v1504
-[kula](kulaṃ) [something](kiñca) [great+goddess](mahādevi) [my](mama) [in-place](sthāne) [reveal](prakāśaya)
+[family](kulaṃ) [what](kiñca) [great+goddess](mahādevi) [my](mama) [in-place](sthāne) [reveal](prakāśaya)
 
 ## mukta-m0-p61-v1505
-[other+flower+form](parapuṣpākṛti) [place](sthānaṃ) [kula+abode](kulāgāraṃ) [revealed](prakāśitam)
+[other+flower+form](parapuṣpākṛti) [place](sthānaṃ) [family+abode](kulāgāraṃ) [revealed](prakāśitam)
 
 ## mukta-m0-p61-v1506
-[western](paścima) [face](ānanam)
+[west+facing](paścimānanam)
 
 ## mukta-m0-p61-v1507
 [thus](tathā)
 
 ## mukta-m0-p61-v1508
-[kula+place](kulasthānam) [this](idaṃ) [to-be-known](jñeyaṃ) [all+seed](sarvabījasya) [seed-source](bījakam)
+[family+place](kulasthānam) [this](idaṃ) [to-be-known](jñeyaṃ) [all+seed](sarvabījasya) [seed-source](bījakam)
 
 ## mukta-m0-p61-v1509
 [that+seed](tadbījaṃ) [what](kiṃ) [great+goddess](maheśāni) [that+different](tadbhinnaṃ) [woman](nārī) [or](vā) [how](katham)
 
 ## mukta-m0-p61-v1510
-[kula+place](kulasthānaṃ) [without](vinā) [śakti+knowledge](śaktijñānamātraṃ) [not](na) [arises](jāyate)
+[family+place](kulasthānaṃ) [without](vinā) [power+knowledge](śaktijñānamātraṃ) [not](na) [arises](jāyate)
 
 ## mukta-m0-p61-v1511
 [buttocks](nitamba) [hips](jaghana) [full](sphītā) [other+flower](parapuṣpa) [vulva](bhaga) [radiance](prabhā)
@@ -38,19 +38,19 @@
 [concealed](gopitā)
 
 ## mukta-m0-p61-v1513
-[in-the-middle](madhyame) [when-worshipped](pūjite) [devotion](bhaktir) [in-the-devoid](hīne) [even](api) [task+accomplishment](kārya) [accomplishment](sādhanam)
+[in-the-middle](madhyame) [worshipped](pūjite) [devotion](bhaktir) [without](hīne) [even](api) [purpose+accomplishment](kārya) [accomplishment](sādhanam)
 
 ## mukta-m0-p61-v1514
-[defeated](parājitā) [flower+form](puṣpa) [form](rūpā) [kula+abode](kulāgārañ) [and](ca) [middle-going](madhyagam)
+[defeated](parājitā) [flower+form](puṣpa) [form](rūpā) [family+abode](kulāgārañ) [and](ca) [middle-situated](madhyagam)
 
 ## mukta-m0-p61-v1515
 [egg+born](aṇḍa) [born](jātaṃ) [sweat+born](svedajātaṃ) [seed+born](bīja) [born](jātaṃ) [threefold](tridhā) [O-Śiva](śive)
 
 ## mukta-m0-p61-v1516
-[liṅga+middle](liṅgamadhye) [situated](sthitaṃ) [semen](śukraṃ) [yoni+middle](yonimadhye) [and](ca) [menstrual-blood](śoṇitam)
+[linga+middle](liṅgamadhye) [situated](sthitaṃ) [semen](śukraṃ) [womb+middle](yonimadhye) [and](ca) [blood](śoṇitam)
 
 ## mukta-m0-p61-v1517
-[of-that](tasya) [seed](bījaṃ) [not](na) [is-known](vidyeta) [to-tell](gadituṃ) [not](na) [indeed](eva) [is-possible](śakyate)
+[its](tasya) [seed](bījaṃ) [not](na) [is-known](vidyeta) [to-tell](gadituṃ) [not](na) [indeed](eva) [is-possible](śakyate)
 
 ## mukta-m0-p61-v1518
 [fire+predominance](tejādhikye) [seed+born](bīja) [born](jātaṃ) [earth+predominance](kṣityādhikye) [also](api) [human](mānuṣam)
@@ -62,16 +62,16 @@
 [triangle+shape](trikoṇākāra) [form](rūpā) [she](sā) [all+god+abode](sarvadevālayā) [O-beloved](priye)
 
 ## mukta-m0-p61-v1521
-[Tripureśī](tripureśī) [yoni+middle](yonimadhye) [at-root](mūle) [dwells](vasati) [Bhairavī](bhairavī)
+[Tripureśī](tripureśī) [womb+middle](yonimadhye) [in-root](mūle) [dwells](vasati) [Bhairavī](bhairavī)
 
 ## mukta-m0-p61-v1522
 [hair+pore](roma) [in-pore](kūpe) [Mahākālī](mahākālī) [Mātaṅgī](mātaṅgī) [in-girdles](mekhalāsu) [and](ca)
 
 ## mukta-m0-p61-v1523
-[bindu+flower+tree](bindupuṣpataror) [at-root](mūle) [Kuṇḍalī](kuṇḍalī) [Brahman+form](brahmavigrahā)
+[drop+flower+tree](bindupuṣpataror) [at-root](mūle) [Kuṇḍalī](kuṇḍalī) [Brahman+form](brahmavigrahā)
 
 ## mukta-m0-p61-v1524
 [seat](pīṭhaṃ) [desire+form](kāma) [form](svarūpañ) [and](ca) [twofold](dvividhaṃ) [O-supreme+goddess](parameśvari)
 
 ## mukta-m0-p61-v1525
-[praṇava+shape](praṇavākāra) [by-form](rūpeṇa) [yoni+shape](yonyākāraṃ) [one-should-contemplate](vicintayet)
+[praṇava+shape](praṇavākāra) [in-form](rūpeṇa) [womb+shape](yonyākāraṃ) [one-should-contemplate](vicintayet)
