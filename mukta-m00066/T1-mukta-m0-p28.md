@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p28-v676
-[other](anye) [say](vadaṃti) [mind](manasi) [supreme-air](paremāruta) [said](ūcire)
+[term](anye) [term](vadaṃti) [term](manasi) [term](paremāruta) [term](ūcire)
 
 ## mukta-m0-p28-v677
-[opinions](matāni) [other](anyetāni) [beautiful](acāruṇi) [inquiry](vicāre) [begun](saṃpravarttite)
+[term](matānyetānyacāruṇi) [term](vicāre) [term](saṃpravarttite)
 
 ## mukta-m0-p28-v678
-[mind](manaso) [air](marutaś) [and](ca) [eva](eva) [union](saṃghaṭṭe) [power-reliance](vīryasaṃśrayā)
+[term](manaso) [term](marutaścaiva) [term](saṃghaṭṭe) [term](vīryasaṃśrayā)
 
 ## mukta-m0-p28-v679
-[their](tayoḥ) [tu](tu) [union-purpose](ghaṭanārthaṃ) [ca](ca) [yoga-tantra](yogataṃtraṃ) [by-me-made](mayākṛtam)
+[term](tayostu) [term](ghaṭanārthaṃ) [term](ca) [term](yogataṃtraṃ) [term]([kh:) [term](-tra]) [term](mayākṛtam)
 
 ## mukta-m0-p28-v680
-[by-passion](rajasā) [to-join](vāyojayituṃ) [wise-air-union](dhīmarudghaṭanaṃ) [lord](prabhu)
+[term](rajasā) [term](vāyojayituṃ) [term](dhīmarudghaṭanaṃ) [term](prabhu)
 
 ## mukta-m0-p28-v681
-[their](taṣāmaṃto) [not](na) [ca](ca) [asya](asya) [eva](eva) [taiḥ](taiḥ) [fruit](phalaṃ) [not](na) [hi](hi) [possible](saṃbhavet)
+[term](taṣāmaṃto) [term](na) [term](cāsyevataiḥ) [term](phalaṃ) [term](na) [term](hi) [term](saṃbhavet)
 
 ## mukta-m0-p28-v682
-[fierce-power](ugraśakti) [honey-sweet](madhusvādair) [uttarottaram](uttarottaram) [uttaraiḥ](uttaraiḥ)
+[term](ugraśakti) [term](madhusvādairuttarottaramuttaraiḥ)
 
 ## mukta-m0-p28-v683
-[gaulī](gaulī) [contact-strength](saṃparkabalinā) [wise-air-union-self](dhīmarudghaṭanātmanā)
+[term](gaulī) [term](saṃparkabalinā) [term](dhīmarudghaṭanātmanā)
 
 ## mukta-m0-p28-v684
-[existing](vidyamāne) [tu](tu) [heart](hṛdaye) [abode](nilaye) [union](ghaṭane) [again](punaḥ)
+[term](vidyamāne) [term](tu) [term](hṛdaye) [term](nilaye) [term](ghaṭane) [term](punaḥ)
 
 ## mukta-m0-p28-v685
-[slightly](īṣaddhi) [vāyu-union](vāyughaṭanā) [sasona](sasona) [eva](eva) [cause](prayojakaḥ)
+[term](īṣaddhivāyughaṭanā) [term](sasonaiva) [term](prayojakaḥ)
 
 ## mukta-m0-p28-v686
-[therefore](ataś) [mind](cittasya) [air](maruto) [yoga](yogaḥ) [first](prathamam) [called](ucyate)
+[term](ataścittasya) [term](maruto) [term](yogaḥ) [term](prathamamucyate)
 
 ## mukta-m0-p28-v687
-[pādāṃjali](pādāṃjaliṃ) [vā](vā) [dhātu](dhātuḥ) [sa](sa) [in-yoga](yoge) [that-difficult](taddurllabho) [becomes](bhavet)
+[term](pādāṃjaliṃ) [term](vā) [term](dhātuḥ) [term](sa) [term](yoge) [term](taddurllabho) [term](bhavet)
 
 ## mukta-m0-p28-v688
-[sounds](nādaiś) [ca](ca) [gorakṣa-faced](gorakṣamukhaiḥ) [tantra](taṃtram) [this](etad) [spread](vitānatam)
+[term](nādaiścagorakṣamukhaistaṃtrametadvitānatam)
 
 ## mukta-m0-p28-v689
-[by-yoga](yogena) [stiffened-power](stabdhavīryāś) [ca](ca) [always](sadā) [enjoyment](bhogān) [worship](upāsate)
+[term](yogena) [term](stabdhavīryāśca) [term](sadābhogānupāsate)
 
 ## mukta-m0-p28-v690
-[matsyendra](matsyeṃdranāgorakṣaś) [ca](ca) [caturaṃgī](caturaṃgī) [ca](ca) [kaṃdalī](kaṃdalī)
+[term](matsyeṃdranāgorakṣaścaturaṃgī) [term]([kh:) [term](-nāthagorakṣaśca-]) [term](ca) [term](kaṃdalī)
 
 ## mukta-m0-p28-v691
-[capeṭika](capeṭiko) [cūḍabāla](cūḍabālaḥ) [tathā](tathā) [gobāla](gobāla) [eva](eva) [ca](ca)
+[term](capeṭiko) [term](cūḍabālastathā) [term](gobāla) [term]([kh:) [term](gopāla]) [term](eva) [term](ca)
 
 ## mukta-m0-p28-v692
-[vyāla](vyālo) [heraṇḍa](heraṇḍa) [named](nāmā) [ca](ca) [śūrpapāyī](śūrpapāyī) [tathā](tathā) [paraḥ](paraḥ)
+[term](vyāloheraṇḍa) [term](nāmā) [term](ca) [term](śūrpapāyī) [term](tathā) [term](paraḥ)
 
 ## mukta-m0-p28-v693
-[these](ete) [wise](dhīr) [air](maruto) [union](ghaṭṭaṃ) [time-drawing](kālasaṃkarṣaṇa) [capable](kṣamam)
+[term](etedhīrmaruto) [term](ghaṭṭaṃ) [term](kālasaṃkarṣaṇakṣamam)
 
 ## mukta-m0-p28-v694
-[breaking](khaṇḍayitvā) [time-staff](kāladaṇḍaṃ) [in-brahmāṇḍas](brahmāṃḍeṣu) [move](caraṃti) [they](te)
+[term](khaṇḍayitvā) [term](kāladaṇḍaṃ) [term](brahmāṃḍeṣu) [term](caraṃti) [term](te)
 
 ## mukta-m0-p28-v695
-[that-essence](tatsārabhūtaṃ) [that-power](tadvīrya) [protection-purpose](rakṣārthaṃ) [opinion](matam) [called](ucyate)
+[term](tatsārabhūtaṃ) [term](tadvīryarakṣārthaṃ) [term](matamucyate)
 
 ## mukta-m0-p28-v696
-[that](tameva) [yoga](yogaṃ) [supreme](paramaṃ) [yogins](yoginaḥ) [regard](samacakṣate)
+[term](tameva) [term](yogaṃ) [term](paramaṃ) [term](yoginaḥ) [term](samacakṣate)
 
 ## mukta-m0-p28-v697
-[both](ubhau) [world-creation](jagatsṛṣṭikarau) [yan](yan) [mind-air-lords](manomāruteśvarau)
+[term](ubhaujagatsṛṣṭikarau) [term](yanmanomāruteśvarau)
 
 ## mukta-m0-p28-v698
-[great-consciousness](mahāsaṃvit) [manifestation-self](prakāśātma) [own-form](svarūpa) [vasu-control](vasunigrahau)
+[term](mahāsaṃvit) [term](prakāśātma) [term](svarūpavasunigrahau)
 
 ## mukta-m0-p28-v699
-[both](ubhau) [destroy](nāśayato) [body](deha) [gradually](krameṇa) [practiced](pariśīlitau)
+[term](ubhau) [term](nāśayato) [term](deha) [term](krameṇa) [term](pariśīlitau)
 
 ## mukta-m0-p28-v700
-[death-become](mṛtyubhūtā) [vimā](vimā) [eva](eva) [prāṇa-become](prāṇabhūtā) [vimau](vimau) [again](punaḥ)
+[term](mṛtyubhūtā) [term](vimāveva) [term](prāṇabhūtā) [term](vimau) [term](punaḥ)

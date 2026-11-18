@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p40-v976
-[by-much](bahunākimihoktena) [direct-giver](sākṣādānaṃdadāyakaḥ)
+[much-what-here-said](bahunākimihoktena) [direct+bliss+giver](sākṣādānaṃdadāyakaḥ)
 
 ## mukta-m0-p40-v977
-[thus](iti) [second](dvitīya) [pāda](pātasya) [mantra-name](maṃtrasannāma) [declared](īritam)
+[thus](iti) [second+pada](dvitīyapātasya) [mantra+name](maṃtrasannāma) [declared](īritam)
 
 ## mukta-m0-p40-v978
-[eight-bhogavatī](aṣṭabhogavatī) [bears](dhatte) [great-sovereignty](mahāsāmrājya) [lordship](nāthatām)
+[eight+bhoga+possessing](aṣṭabhogavatī) [bears](dhatte) [great+sovereignty](mahāsāmrājya) [lordship](nāthatām)
 
 ## mukta-m0-p40-v979
-[all-forms](sarvākāreṇa) [consciousness](caitanya) [dissolution](layaḥ) [all-limbed-beautiful](sarvāṃgasuṃdarī)
+[with+all+forms](sarvākāreṇa) [consciousness](caitanya) [dissolution](layaḥ) [all+limbs+beautiful](sarvāṃgasuṃdarī)
 
 ## mukta-m0-p40-v980
-[universe](viśvakṣati) [whatever](yatkiṃcinna) [not](ca) [goes-out](niryāti) [crookedly](vakrataḥ)
+[universe+injury](viśvakṣati) [and](ca) [whatever](yatkiṃcinna) [not](na) [goes+out](niryāti) [crookedly](vakrataḥ)
 
 ## mukta-m0-p40-v981
 [not](na) [effort](ceṣṭā) [not](na) [ca](ca) [agitation](saṃraṃbho) [not](na) [ca](ca) [delusion](mohana) [cry](kūjitam)
 
 ## mukta-m0-p40-v982
-[not](na) [tooth](daṃta) [falling](pātanomuṣṭi) [blow](ghātena) [and](ca) [ka](ka) [ca](ca) [graha](grahaḥ)
+[not](na) [tooth+falling](daṃta+pātanomuṣṭi) [fist+blow](ghātena) [and](ca) [ka](ka) [ca](ca) [graha](grahaḥ)
 
 ## mukta-m0-p40-v983
-[not](na) [girdle](mekhalā) [sound](kalakvāṇo) [not](na) [play](līlāsaṃgamaṃgayaḥ)
+[not](na) [girdle](mekhalā) [tinkling](kalakvāṇo) [not](na) [play+union](līlāsaṃgamaṃgayaḥ)
 
 ## mukta-m0-p40-v984
-[heart-place](hṛdayasthāna) [born](janitaḥ) [trembling](kaṃpaḥ) [goes-beyond](paraparāyate)
+[heart+place+born](hṛdayasthāna+janitaḥ) [trembling](kaṃpaḥ) [becomes+other](paraparāyate)
 
 ## mukta-m0-p40-v985
-[one-eight](ekāṣṭakamahāyāga) [great-sacrifice](pakṣebiṃduṃ) [release](samutsṛjet)
+[one+eight+maha+yaga](ekāṣṭakamahāyāga) [wing+drop](pakṣebiṃduṃ) [release](samutsṛjet)
 
 ## mukta-m0-p40-v986
-[eight-eight](aṣṭāṣṭakamahāyāge) [messenger-eight](dūtyaṣṭakamataḥ) [then](param)
+[eight+eight+maha+yaga](aṣṭāṣṭakamahāyāge) [messenger+eight](dūtyaṣṭakamataḥ) [then](param)
 
 ## mukta-m0-p40-v987
-[this](iyameva) [indeed](hi) [of-śakti](śakteśca) [of-śambhu](śaṃbhorekatayā) [state](sthitiḥ)
+[this+indeed](iyameva) [hi](hi) [of+shakti](śakteśca) [of+shambhu](śaṃbhorekatayā) [state](sthitiḥ)
 
 ## mukta-m0-p40-v988
-[thus](itthamānaṃda) [sacrifice](yāgo'yaṃ) [told](kathitaste) [great-lady](maheśvari)
+[thus+bliss](itthamānaṃda) [sacrifice+this](yāgo'yaṃ) [told+to+you](kathitaste) [great+lady](maheśvari)
 
 ## mukta-m0-p40-v989
-[from-your](bhavato) [lotus-mouth](vadanāṃbhojāt) [well-heard](suśruto'ṣṭāhuti) [order](kramaḥ)
+[from+your+lotus+mouth](bhavato+vadanāṃbhojāt) [well+heard](suśruto'ṣṭāhuti) [sequence](kramaḥ)
 
 ## mukta-m0-p40-v990
-[to-hear](śrotuṃ) [desire](vāṃcchāmi) [lord](deveśa) [after-sacrifice](yāgānaṃtarajaṃ) [order](kramam)
+[to+hear](śrotuṃ) [desire](vāṃcchāmi) [lord](deveśa) [after+sacrifice+born](yāgānaṃtarajaṃ) [sequence](kramam)
 
 ## mukta-m0-p40-v991
-[hear](śṛṇu) [goddess](devi) [great-fortunate](mahābhāge) [what](yanmāṃtvaṃ) [ask](paripṛcchasi)
+[hear](śṛṇu) [goddess](devi) [great+fortunate](mahābhāge) [what](yanmāṃtvaṃ) [ask](paripṛcchasi)
 
 ## mukta-m0-p40-v992
-[hero](vīraḥ) [long-dance](suciranṛttena) [tired-lord](śrāṃtaliṃgamaheśvaraḥ)
+[hero](vīraḥ) [long+dance](suciranṛttena) [tired+linga+great+lord](śrāṃtaliṃgamaheśvaraḥ)
 
 ## mukta-m0-p40-v993
-[then](atha) [defiled](pradūṣita) [fall](pāte) [filled](pūrite) [meritorious-things](puṇyavastubhiḥ)
+[then](atha) [defiled](pradūṣita) [pada](pāte) [filled](pūrite) [merit+things](puṇyavastubhiḥ)
 
 ## mukta-m0-p40-v994
-[of-ānandanātha](ānaṃdanāthasya) [mantra](manuṃcāṣṭāviṃśativārakam)
+[of+ananda+natha](ānaṃdanāthasya) [mantra](manuṃcāṣṭāviṃśativārakam)
 
 ## mukta-m0-p40-v995
-[right-hand](dakṣahastasya) [palm](culuke) [holding](dhārayitvā) [wise](vicakṣaṇaḥ)
+[right+hand](dakṣahastasya) [palm](culuke) [holding](dhārayitvā) [wise](vicakṣaṇaḥ)
 
 ## mukta-m0-p40-v996
-[pure-ends](saśuddhibhyāṃtayorbiṃduṃ) [verses](kārikāḥ) [reciting](prapaṭhan) [sprinkle](kiret)
+[with+purities](saśuddhibhyāṃtayorbiṃduṃ) [verses](kārikāḥ) [reciting](prapaṭhan) [scatters](kiret)
 
 ## mukta-m0-p40-v997
-[by-these](etairānaṃdayāgāṃta) [white-red-drops](śuklaśoṇitabiṃdubhiḥ)
+[with+these](etairānaṃdayāgāṃta) [white+seed+drop](śuklaśoṇitabiṃdubhiḥ)
 
 ## mukta-m0-p40-v998
-[by-these](etairānaṃdayāgāṃta) [white-red-drops](śuklaśoṇitabiṃdubhiḥ)
+[with+these](etairānaṃdayāgāṃta) [white+seed+drop](śuklaśoṇitabiṃdubhiḥ)
 
 ## mukta-m0-p40-v999
-[by-these](etairānaṃdayāgāṃta) [white-red-drops](śuklaśoṇitabiṃdubhiḥ)
+[with+these](etairānaṃdayāgāṃta) [white+seed+drop](śuklaśoṇitabiṃdubhiḥ)
 
 ## mukta-m0-p40-v1000
-[by-these](etairānaṃdayāgāṃta) [white-red-drops](śuklaśoṇitabiṃdubhiḥ)
+[with+these](etairānaṃdayāgāṃta) [white+seed+drop](śuklaśoṇitabiṃdubhiḥ)

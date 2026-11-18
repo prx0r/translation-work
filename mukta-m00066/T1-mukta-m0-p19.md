@@ -5,7 +5,7 @@
 [kuṃkuma-drava-saṃkāśaṃ](kuṃkumadravasaṃkāśaṃ) [vilīna-aśeṣa-ceṣṭitam](vilīnāśeṣa ceṣṭitam)
 
 ## mukta-m0-p19-v452
-[rakṣitaṃ](rakṣitaṃ) [bhāvayed](bhāvayed) [devī](devī) [tasyāḥ-caṃdra-kala-udaye](tasyāścaṃdrakalodaye)
+[rakṣitaṃ](rakṣitaṃ) [bhāvayet](bhāvayed) [devī](devī) [tasyāḥ-caṃdra-kala-udaye](tasyāścaṃdrakalodaye)
 
 ## mukta-m0-p19-v453
 [sadyaḥ](sadyaḥ) [pulakita-ākāraḥ](pulakitākāro) [bhāvaḥ](bhāvaḥ) [kaḥ-api](ko'pi) [vijṛṃbhate](vijṛṃbhate)
@@ -26,7 +26,7 @@
 [viśva-saṃohana-ākārā](viśvasaṃohanākārā) [viśva-janma-mahā-sthali](viśvajanmamahāsthali)
 
 ## mukta-m0-p19-v459
-[kāla-rūpā-kāla-karī](kālarūpākālakarī) [kāla-grasana-lālasā](kālagrasanalālasā)
+[kāla-rūpā-akāla-karī](kālarūpākālakarī) [kāla-grasana-lālasā](kālagrasanalālasā)
 
 ## mukta-m0-p19-v460
 [samasteṣu](samasteṣu) [śarīreṣu](śarīreṣu) [puṃsāṃ-strīṇām-atha-api-vā](puṃsāṃstrīṇāmathāpivā)
@@ -56,10 +56,10 @@
 [tripurā-arghya-ambunā](tripurārghyāṃbunā) [prokṣya](prokṣya) [dūtyāḥ](dūtyāḥ) [smara-niketanam](smaraniketanam)
 
 ## mukta-m0-p19-v469
-[tri-koṇaṃ](trikoṇaṃ) [paṃca-koṇaṃ](paṃcakoṇaṃ) [ca](ca) [sāṣṭāraka-catur-dalam](sāṣṭārakacaturddalam)
+[trikoṇaṃ](trikoṇaṃ) [paṃcakoṇaṃ](paṃcakoṇaṃ) [ca](ca) [sāṣṭāraka-caturddalam](sāṣṭārakacaturddalam)
 
 ## mukta-m0-p19-v470
-[madhye](madhye) [jayet-mahā-devīṃ](jayenmahādevīṃ) [mādyaṃtīṃ](mādyaṃtīṃ) [bhaga-mālinīm](bhagamālinīm)
+[madhye](madhye) [jayet](jayen) [mahādevīṃ](mahādevīṃ) [mādyantīṃ](mādyaṃtīṃ) [bhaga-mālinīm](bhagamālinīm)
 
 ## mukta-m0-p19-v471
 [bhaga-guhyaṃ](bhagaguhyaṃ) [bhaga-yoniṃ](bhagayoniṃ) [tathā](tathā) [bhaga-nipātinīm](bhaganipātinīm)
@@ -68,7 +68,7 @@
 [bhaga-rūpāṃ](bhagarūpāṃ) [tadā](tadā) [devīṃ](devīṃ) [nitya-klinna-ambikām-api](nityaklinnāmbikāmapi)
 
 ## mukta-m0-p19-v473
-[bhaga-klinna-aṣṭamīṃ](bhagaklinnāmaṣṭamīṃ) [ca](ca) [sādhaka-vidhi-varttanā](sādhakovidhivarttanā)
+[bhaga-klinnām-aṣṭamīṃ](bhagaklinnāmaṣṭamīṃ) [ca](ca) [sādhaka-vidhi-varttanā](sādhakovidhivarttanā)
 
 ## mukta-m0-p19-v474
 [amogha-bhaga-vidyā](amoghabhagavidyā) [ca](ca) [caturthī](caturthi) [tu](tu) [bhaga-īśvarī](bhageśvarī)

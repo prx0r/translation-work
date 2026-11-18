@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p53-v1301
-[there-too](tatrāpi) [causes](hetavaḥ) [intense](tīvrāḥ) [more](bhūyasya) [arguments](uktayaḥ) [also](api) [and](ca)
+[there-in](tatrāpi) [causes](hetavastīvrāḥ) [moreover](bhūyasyoyuktayo'pi) [and](ca)
 
 ## mukta-m0-p53-v1302
-[confusion](vyāmohe) [arises](jāyate) [far](dūraṃ) [of-those-two](tayoḥ) [seeing](ālokanāt) [of-non-knowers](anṛṇām)
+[confusion](vyāmohe) [arises](jāyate) [far](dūraṃ) [of-those-two](tayorālokanānṛṇām)
 
 ## mukta-m0-p53-v1303
-[in-place](sthāne) [back](pṛṣṭhaṃ) [by-you](tvayā) [devi](devi) [properly](samyak) [that](tat) [is-distinguished](vivicyate)
+[in-place](sthāne) [back](pṛṣṭhaṃ) [by-you](tvayādevi) [well](samyage) [that](tadvivicyate)
 
 ## mukta-m0-p53-v1304
-[not](na) [only](kevalaṃ) [intellect-play](dhīvilāsaḥ) [vaikhari](vaikharyapi) [also](ca) [cause](kāraṇam)
+[not](na) [only](kevalaṃ) [intellect-play](dhīvilāso) [speech-power](vaikharyapi) [also](ca) [cause](kāraṇam)
 
 ## mukta-m0-p53-v1305
-[by-intention](saṅkalpena) [by-doubt](vikalpena) [human-born](narajātyā) [single-dwelling](ekavāsinā)
+[by-intention](saṅkalpena) [by-doubt](vikalpena) [human-born-single-dwelling](narajātyekavāsinā)
 
 ## mukta-m0-p53-v1306
-[of-those](teṣāṃ) [tu](tu) [of-views](darśanānāṃ) [yo](yo) [vedaḥ](vedaḥ) [first-view](prathamadarśanam)
+[of-them](teṣāṃ) [tu](tu) [of-views](darśanānāṃ) [yo](yo) [veda](vedaḥ) [first-view](prathamadarśanam)
 
 ## mukta-m0-p53-v1307
-[there](tatra) [indifferent](udāsīna) [conduct](vṛttīni) [other](anyāni) [supreme-goddess](parameśvarī)
+[there](tatrodāsīna) [conduct](vṛttīnicānyāni) [supreme-lady](parameśvarī)
 
 ## mukta-m0-p53-v1308
-[not](na) [tu](tu) [rest](viśrāṃti) [news](vārttā) [api](api) [of-anyone](kasyacid) [path-of-dispute](vādavartmanaḥ)
+[not](na) [tu](tu) [rest](viśrāṃti) [news](vārttāpi) [of-anyone](kasyacidvādavartmanaḥ)
 
 ## mukta-m0-p53-v1309
-[by-taste](rucinām) [iha](iha) [vai](vai) [from-variety](citryāt) [in-many-ways](bahudhā) [scripture-millions](śāstrakoṭayaḥ)
+[by-taste](rucināmiha) [vai](vai) [from-variety](citryād) [many](bahudhāśāstrakoṭayaḥ)
 
 ## mukta-m0-p53-v1310
-[science-of-wealth](arthāśāstraṃ) [ca](ca) [fair-hipped](suśroṇi) [from-those-two](tābhyāṃ) [scripture-origin](śāstrasamudgamaḥ)
+[science-of-wealth](arthaśāstraṃ) [ca](ca) [fair-hipped](suśroṇi) [from-those-two](tābhyāṃ) [scripture-emergence](śāstrasamudgamaḥ)
 
 ## mukta-m0-p53-v1311
-[direct-perception-etc](pratyakṣādi) [means-of-knowledge](pramāṇāni) [in-all-ways](sarvathā) [cause](kāraṇaṃ) [tu](tu) [this](idam)
+[direct-perception-etc](pratyakṣādi) [means-of-knowledge](pramāṇāni) [in-every-way](sarvathā) [cause](kāraṇaṃ) [indeed-this](tvidam)
 
 ## mukta-m0-p53-v1312
-[of-someone](kasyāpi) [equality](samatā) [devi](devi) [threefold](trividhaḥ) [this](ayaṃ) [pramāṇa-order](pramākramaḥ)
+[of-someone](kasyāpi) [equality](samatā) [goddess](devi) [threefold](trividhoyaṃ) [knowledge-order](pramākramaḥ)
 
 ## mukta-m0-p53-v1313
-[buddhists](saugatāḥ) [ca](ca) [eva](eva) [atomists](kāṇādāḥ) [direct-perception-inference](pratyakṣānumitī) [said](jaguḥ)
+[buddhists](saugatāścaiva) [and](ca) [atomists](kāṇādā) [direct-inference](pratyakṣānumitījaguḥ)
 
 ## mukta-m0-p53-v1314
-[nyāya-partialists](nyāyaikadeśinaḥ) [ca](ca) [others](anye) [like-sāṃkhya](sāṃkhyavat) [declared](samudīritāḥ)
+[nyaya-partialists](nyāyaika) [and-others](deśinaścānye) [like-samkhya](sāṃkhyavat) [declared](samudīritāḥ)
 
 ## mukta-m0-p53-v1315
-[by-inference](arthāpatyā) [with](saha) [these](etāni) [four](catvāri) [another](aparaḥ) [said](ūcire)
+[by-presumption](arthāpatyā) [with-these](sahaitāni) [four](catvāryapara) [others](ūcire)
 
 ## mukta-m0-p53-v1316
-[possibility](saṃbhava) [here](iha) [with-reasoning](yuktaiḥ) [with-those](taiḥ) [six](ṣaḍbhiḥ) [means](mānaiḥ) [ca](ca) [some](kecana)
+[possibility](saṃbhavaitīha) [with-those](yuktaiḥ) [six](ṣaḍbhirmānaiśca) [some](kecana)
 
 ## mukta-m0-p53-v1317
-[here](atra) [mutual-inclusion](antarbbhāvam) [anyonyaṃ](anyonyaṃ) [of-disputants](vādinaḥ) [reasoned-scholars](yuktapaṇḍitāḥ)
+[here](atrāntarbbhāvamanyonyaṃ) [of-disputants](vādinoyuktapaṇḍitāḥ)
 
 ## mukta-m0-p53-v1318
-[again](bhūyaḥ) [grasping](parigrahaḥ) [of-whom](yasya) [yasya](yasya) [small-grasping](svalpaparigrahaḥ)
+[again](bhūyaḥ) [acceptance](parigraho) [of-whom](yasya) [yasya](yasya) [small-acceptance](svalpaparigrahaḥ)
 
 ## mukta-m0-p53-v1319
-[those](ye) [do](kurvanti) [i](aham) [anvānāḥ](anvānāḥ) [in-scriptures](śāstreṣu) [small-grasping](alpaparigraham)
+[those](ye) [do](kurvantī) [following](hamanvānāḥ) [in-scriptures](śāstreṣvalpaparigraham)
 
 ## mukta-m0-p53-v1320
-[of-them](teṣāṃ) [opinion](mataṃ) [ca](ca) [shaking](dhūnvānāḥ) [logic](tarka) [knots](granthibhiḥ) [bright](ujvalaiḥ)
+[their](teṣāṃ) [view](mataṃ) [ca](ca) [shaking](dhūnvānāstarka) [with-bright-knots](granthibhirujvalaiḥ)
 
 ## mukta-m0-p53-v1321
-[thus](evaṃ) [being](sati) [in-all](samasteṣu) [scriptures](śāstreṣu) [quarrel](kalahaṃ) [order](kramaḥ)
+[thus](evaṃ) [sati](sati) [in-all](samasteṣu) [scriptures](śāstreṣu) [dispute](kalahaṃ) [order](kramaḥ)
 
 ## mukta-m0-p53-v1322
-[superimposition-born](āropajaṃ) [reject](nirasyanti) [some](kecit) [self-taste-disputants](svarasavādinaḥ)
+[superimposition-born](āropajaṃ) [reject](nirasyaṃti) [some](kecit) [self-taste-disputants](svarasavādinaḥ)
 
 ## mukta-m0-p53-v1323
-[of-superimposition](āropasya) [nature](svarūpaṃ) [tu](tu) [i-will-tell](kathayāmi) [mountain-daughter](nagātmaje)
+[of-superimposition](āropasya) [nature](svarūpantu) [i-will-tell](kathayāminagātmaje)
 
 ## mukta-m0-p53-v1324
-[earth](mṛttikā) [indeed](khalu) [all](sarvā) [this](iyaṃ) [earth](bhūmiḥ) [various-forms](nānāvidhākṛtiḥ)
+[clay](mṛttikākhalu) [indeed](sarveyaṃ) [earth](bhūmirnnānāvidhākṛtiḥ)
 
 ## mukta-m0-p53-v1325
-[this](etat) [earth](bhūmī) [clay-only](mṛttikaivakuṃbhakṛtpāṇimardditā)
+[this](etat) [earth](bhūmī) [clay](mṛttikaivakuṃbhakṛtpāṇimardditā)

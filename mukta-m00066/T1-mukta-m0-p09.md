@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p09-v201
-[on-the-upper-surface](uttaraṃge) [in-great-accomplishment](mahāsiddhau) [covered-by-foam-net](phenajālasamāvṛte)
+uttaraṃge (upper-part) mahāsiddhau (in-great-accomplishment) phenajālasamāvṛte (covered-by-foam-net)
 
 ## mukta-m0-p09-v202
-[repeatedly-resounding](muhuḥśabdāyamāne) [and](ca) [full-of-rivers-and-streams](nadīnadasamākule)
+muhuḥśabdāyamāne (resounding-again-and-again) ca (and) nadīnadasamākule (crowded-with-rivers-and-streams)
 
 ## mukta-m0-p09-v203
-[of-various-flowers](nānāpuṣpagaṇāmoda) [wandering-bee](bhrāṃtapuṣpaṃdhayabrajam)
+nānāpuṣpagaṇāmoda (fragrance-of-various-flower-groups) bhrāṃtapuṣpaṃdhayabrajam (swarm-of-bees-drinking-wandering-flowers)
 
 ## mukta-m0-p09-v204
-[should-contemplate](viciṃtayen) [o-great-goddess](maheśāni) [in-its-middle](tanmadhye) [golden-temple](hemamaṃdiram)
+viciṃtayen (should-meditate) maheśāni (O-great-lady) tanmadhye (in-its-middle) hemamaṃdiram (golden-temple)
 
 ## mukta-m0-p09-v205
-[for-attainment-of-four-aims](caturvarga+phalaprāpti) [remover-of-sorrow](kāraṇaṃśokavāraṇam)
+caturvarga (fourfold-aims) phalaprāpti (attainment-of-fruits) kāraṇaṃ (cause) śokavāraṇam (removal-of-sorrow)
 
 ## mukta-m0-p09-v206
-[of-various-gems](nānāmaṇi) [of-wondrous-ones](vicitrāṇāṃ) [of-pillars](staṃbhānāṃ) [by-new-splendor](navaśobhayā)
+nānāmaṇi (various-jewels) vicitrāṇāṃ (of-variegated) staṃbhānāṃ (of-pillars) navaśobhayā (with-new-splendor)
 
 ## mukta-m0-p09-v207
-[surrounded-by-moonlight](caṃdrikābhiḥ+parivṛtaṃ) [reddened-by-tender-sunlight](bālātapavilohitam)
+caṃdrikābhiḥ (by-moonbeams) parivṛtaṃ (surrounded) bālātapavilohitam (reddened-by-tender-sunlight)
 
 ## mukta-m0-p09-v208
-[protected-here-and-there](rakṣyamāṇamitastataḥ) [by-desire-with-bow](sajjacāpenakāmena)
+sajjacāpena (with-bow-ready) kāmena (by-Kama) rakṣyamāṇam (being-protected) itastataḥ (here-and-there)
 
 ## mukta-m0-p09-v209
-[longing](utkaṇṭhā) [divinely-given](devatādatta) [fanning-with-chowries](vālavyajanavījanam)
+utkaṇṭhā (longing) devatādatta (given-by-gods) vālavyajanavījanam (fanning-with-fly-whisk)
 
 ## mukta-m0-p09-v210
-[equipped-with-enjoyment-utensils](bhogopakaraṇairyuktaṃ) [and-with-various-drinks](vividhaiśca+prapānakaiḥ)
+bhogopakaraṇaiḥ (with-enjoyment-accessories) yuktaṃ (endowed) vividhaiḥ (various) ca (and) prapānakaiḥ (with-drinks)
 
 ## mukta-m0-p09-v211
-[delightful](manoharam) [with-clever-banter-companions](narmālāpakasābhijñaiśceṭi+vargair)
+narmālāpakasābhijñaiḥ (with-experts-in-playful-conversation) ceṭi (servant) vargaiḥ (groups) manoharam (charming)
 
 ## mukta-m0-p09-v212
-[adorned-with-silk-garments](paṭṭāṃśukapariṣkṛtam) [joined-with-treasure-deity](nidhidevatayāyuktaṃ)
+nidhidevatayā (with-treasure-deity) yuktaṃ (endowed) paṭṭāṃśuka (silk-cloth) pariṣkṛtam (adorned)
 
 ## mukta-m0-p09-v213
-[studded-with-various-gems](nānāratnasamākīrṇaṃ) [beautified-by-four-pillars](catustaṃbhopaśobhitām)
+nānāratna (various-gems) samākīrṇaṃ (scattered) catustaṃbha (four-pillars) upaśobhitām (adorned)
 
 ## mukta-m0-p09-v214
-[attached-to-two-pillars-there](tatrastaṃbhadvayāsakta) [hung-crosswise-of-wood-and-stone](tiryagdārupalaṃbite)
+tatrastaṃbhadvaya (two-pillars-there) āsakta (attached) tiryagdāru (horizontal-wood) palaṃbite (suspended)
 
 ## mukta-m0-p09-v215
-[couch](maṃcam) [high-and-low](uccāvaca) [jewel-light](maṇijyotiḥ) [cage-facing-directions](piṃjaradiṅmukham)
+maṃca (couch) uccāvaca (various) maṇi (jewel) jyotiḥ (light) piṃjara (cage) diṅmukham (facing-direction)
 
 ## mukta-m0-p09-v216
-[form-of-sadashiva](sadāśivavapuḥ) [thrown](kṣipta) [shining-with-excellent-plank](sujātaphalakojvalam)
+sadāśiva (Sadashiva) vapuḥ (body) kṣipta (placed) sujāta (well-born) phalaka (plank) ujvalam (shining)
 
 ## mukta-m0-p09-v217
-[extremely-soft](atyaṃta+mṛdulaṃ) [pleasing](hṛdyaṃ) [milk-ocean-white-luster](kṣīrābdhi+dhavalacchaviḥ)
+atyaṃta (extremely) mṛdulaṃ (soft) hṛdyaṃ (pleasing) kṣīrābdhi (milk-ocean) dhavala (white) chaviḥ (complexion)
 
 ## mukta-m0-p09-v218
-[new-saffron-garment](kausuṃbhavasanaṃ+navyaṃ) [like-tender-sun](bālārka+sadṛśaṃ) [should-remember](smaret)
+kausuṃbha (saffron) vasanaṃ (garment) navyaṃ (new) bālārka (young-sun) sadṛśaṃ (like) smaret (should-remember)
 
 ## mukta-m0-p09-v219
-[with-raised-braid](unnaddhakabarīpāśaṃ) [shining-with-musk-tilaka](kastūrītilakojvalam)
+unnaddha (tied) kabarī (braid) pāśaṃ (knot) kastūrī (musk) tilaka (mark) ujvalam (shining)
 
 ## mukta-m0-p09-v220
-[with-pearl-necklace](muktāhāreṇaramyeṇa) [adorned-neck](vibhūṣitaśirodharam)
+muktāhāreṇa (by-pearl-necklace) ramyeṇa (charming) vibhūṣita (adorned) śirodharam (neck)
 
 ## mukta-m0-p09-v221
-[always-with-yoked-instrument](satataṃ+yuktayaṃtratvādanaṃbara) [own-form](nijākṛtim)
+satataṃ (always) yukta (endowed) yaṃtra (yantra) tvāt (because) anaṃbara (sky) nijākṛtim (own-form)
 
 ## mukta-m0-p09-v222
-[with-various-nail-marks](nakhakṣataiśca+vividhaiś) [and-with-hundreds-of-kisses](cuṃbanaiśca+paraḥśataiḥ)
+nakhakṣataiḥ (by-nail-marks) ca (and) vividhaiḥ (various) cuṃbanaiḥ (by-kisses) ca (and) paraḥśataiḥ (hundreds)
 
 ## mukta-m0-p09-v223
-[with-many-arrangements-of-organs](karaṇairbahuvinyāsai) [with-embraces-of-many-kinds](rāśleṣairbahubhedibhiḥ)
+karaṇaiḥ (by-senses/actions) bahu (many) vinyāsaiḥ (arrangements) rāśleṣaiḥ (by-embraces) bahu (many) bhedibhiḥ (varieties)
 
 ## mukta-m0-p09-v224
-[that-goddess](tāṃ+devīm) [by-that-meditation-sequence](apitaddhyāna+krameṇamatimān) [should-remember](smaret)
+tāṃ (that) devīm (goddess) api (also) tad (that) dhyāna (meditation) krameṇa (in-order) matimān (wise-one) smaret (should-remember)
 
 ## mukta-m0-p09-v225
-[having-become-unagitated](svayamavyākulobhūtvā) [with-steady-senses-and-mind](niścalendriyamānasaḥ)
+svayam (oneself) avyākula (unagitated) bhūtvā (having-become) niścala (steady) indriya (senses) mānasaḥ (mind)
