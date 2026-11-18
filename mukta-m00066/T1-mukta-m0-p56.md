@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p56-v1376
-[man](puruṣa) [aim](arthastu) [chief](mukhyoyo) [great-sacrifice](mahāyāgopapādakaḥ)
+[puruṣārthaḥ](puruṣārthastu) [mukhyaḥ](mukhyoyo) [mahāyāga-upapādakaḥ](mahāyāgopapādakaḥ)
 
 ## mukta-m0-p56-v1377
-[bliss-yoga](ānaṃdayogo) [indeed](hi) [supreme](paramatastat) [accomplisher](pratisādhakaḥ)
+[ānanda-yogaḥ](ānaṃdayogo) [hi](hi) [paramataḥ](paramatastat) [pratisādhakaḥ](pratisādhakaḥ)
 
 ## mukta-m0-p56-v1378
-[dharma](dharmaḥ) [indeed](khalu) [great-sacrifice](mahāyāgo) [seen-unseen](dṛṣṭādṛṣṭa) [fruit-giving](phalapradaḥ)
+[dharmaḥ](dharmaḥ) [khalu](khalu) [mahāyāgaḥ](mahāyāgo) [dṛṣṭa-adṛṣṭa-phalapradaḥ](dṛṣṭādṛṣṭa [kh: dṛṣṭhā-] phalapradaḥ)
 
 ## mukta-m0-p56-v1379
-[that](sa) [indeed](eva) [liberation](mākṣopi) [in-shiva](śive) [supreme-bliss-filled](parānaṃdamayatpataḥ)
+[saḥ](sa) [eva](eva) [mākṣaḥ](mākṣopi) [api](api) [śive](śive) [parānanda-maya-pataḥ](parānaṃdamayatpataḥ)
 
 ## mukta-m0-p56-v1380
-[dharma-formed](dharmarūpī) [desire-formed](kāmarūpī) [liberation-formed](mokṣarūpī) [and](ca) [person](pūruṣaḥ)
+[dharma-rūpī](dharmarūpī) [kāma-rūpī](kāmarūpī) [mokṣa-rūpī](mokṣarūpī) [ca](ca) [pūruṣaḥ](pūruṣaḥ)
 
 ## mukta-m0-p56-v1381
-[wealth](dhanaṃ) [indeed](khalu) [of-great-lord](maheśasya) [worship](pūjā) [first-means](prathamasādhanam)
+[dhanaṃ](dhanaṃkhalu) [khalu](khalu) [maheśasya](maheśasya) [pūjā-prathama-sādhanam](pūjāprathamasādhanam)
 
 ## mukta-m0-p56-v1382
-[not](nātyaṃta) [fragrant](saurabhaṃ) [thing](vastu) [not](na) [or](vā) [finer](sūkṣmataraḥ) [cloth](paṭaḥ)
+[na](na) [atyanta-saurabhaṃ](atyanta saurabhaṃ) [vastu](vastu) [na](na) [vā](vā) [sūkṣmataraḥ](sūkṣmataraḥ) [paṭaḥ](paṭaḥ)
 
 ## mukta-m0-p56-v1383
-[not](na) [fruits](phalāni) [and](ca) [pleasing](hṛdyāni) [not](na) [ripe](pakvāni) [fruits](phalāni) [and](ca)
+[na](na) [phalāni](phalāni) [ca](ca) [hṛdyāni](hṛdyāni) [na](na) [pakvāni](pakvāni) [phalāni](phalāni) [ca](ca)
 
 ## mukta-m0-p56-v1384
-[wealth](dhanaṃ) [without](vinā) [not](na) [succeed](sidhyaṃti) [human-aim](puruṣārthaḥ) [that](sa) [declared](īritaḥ)
+[dhanaṃ](dhanaṃ) [vinā](vinā) [na](na) [sidhyaṃti](sidhyaṃti) [puruṣārthaḥ](puruṣārthaḥ) [saḥ](sa) [īritaḥ](īritaḥ)
 
 ## mukta-m0-p56-v1385
-[that](sa) [but](tu) [scriptures](śāstrāṇi) [all](sarvāṇi) [useless](nirarthānyapi) [not](nātyajat)
+[saḥ](sa) [tu](tu) [śāstrāṇi](śāstrāṇi) [sarvāṇi](sarvāṇi) [nirarthāni](nirarthānyapi) [api](api) [na](na) [atyajat](atyajat)
 
 ## mukta-m0-p56-v1386
-[logic-etc-scriptures](tarkādiśāstrābhyāsasya) [wealth-giving](dhanadāyānidānatām)
+[tarka-ādi-śāstra-abhyāsasya](tarkādiśāstrābhyāsasya) [dhana-dāya-anidānatām](dhanadāyānidānatām)
 
 ## mukta-m0-p56-v1387
-[not](nānyajāti) [enjoyer](juṣojaṃtorāhārya) [easy](sulabhatvataḥ)
+[na](na) [anya-jāti-juṣaḥ](anya jāti juṣojaṃtorāhārya) [sulabhatvataḥ](sulabhatvataḥ)
 
 ## mukta-m0-p56-v1388
-[human-birth](narajātiriyantvetaiḥ) [refined](saṃskṛtairātmapoṣiṇī)
+[nara-jātiḥ](narajātiriyantvetaiḥ) [saṃskṛtaiḥ](saṃskṛtairātmapoṣiṇī) [ātma-poṣiṇī](ātmapoṣiṇī)
 
 ## mukta-m0-p56-v1389
-[difficult](duṣkaraṃ) [and](cāpi) [some](kaṃcodyat) [mutual](paraspara) [search](gaveṣaṇam)
+[duṣkaraṃ](duṣkaraṃ) [ca](ca) [api](api) [kaṃcit](kaṃcodyat) [udyat](udyat) [paraspara-gaveṣaṇam](paraspara gaveṣaṇam)
 
 ## mukta-m0-p56-v1390
-[very-painful](atikaṣṭhataraṃ) [goddess](devi) [much-sorrow](bahuduḥkhaikabhājanam)
+[ati-kaṣṭhataraṃ](atikaṣṭhataraṃ) [devi](devi) [bahu-duḥkha-eka-bhājanam](bahuduḥkhaikabhājanam)
 
 ## mukta-m0-p56-v1391
-[of-heroes](vīrāṇāṃ) [self-worship](svātmapūjārtha) [wealth-acquisition](dhanasaṃpādanāya) [and](ca)
+[vīrāṇāṃ](vīrāṇāṃ) [svātma-pūjā-artha](svātmapūjārtha) [dhana-saṃpādanāya](dhanasaṃpādanāya) [ca](ca)
 
 ## mukta-m0-p56-v1392
-[then](tadāpyamīgirisute) [others-delusion](paravyāmoha) [cause](hetave)
+[tadā](tadāpyamīgirisute) [api](api) [amī](amī) [giri-sute](girisute) [para-vyāmoha-hetave](paravyāmoha hetave)
 
 ## mukta-m0-p56-v1393
-[i](ahaṃ) [veda-meaning](vedārtha) [knower](tatvajño) [sacrifice-knowledge](yajñavidyākṣamosmyaham)
+[ahaṃ](ahaṃ) [veda-artha-tattvajñaḥ](vedārtha tatvajño) [yajña-vidyā-kṣamaḥ](yajñavidyākṣamosmyaham) [asmi](asmi) [aham](aham)
 
 ## mukta-m0-p56-v1394
-[six-limbs-veda-knower](ṣaḍaṅgavedatatvajña) [i](stvahameva) [on-earth](mahītale)
+[ṣaḍaṅga-veda-tattvajñaḥ](ṣaḍaṅgavedatatvajña) [stvahameva](stvahameva) [mahītale](mahītale)
 
 ## mukta-m0-p56-v1395
-[pure-brahmin](ābrahmaśuddhadāro'hamahamasmyā) [indeed](hi) [tuṇḍika](tuṇḍikaḥ)
+[ābrahma-śuddha-dāraḥ](ābrahmaśuddhadāro'hamahamasmyā) [aham](aham) [asmi](asmi) [hi](hi) [tuṇḍikaḥ](tuṇḍikaḥ)
 
 ## mukta-m0-p56-v1396
-[i](ahṃ) [taste-knower](nādyarasajñosmi) [in-poetry](kāvyālāpeṣvahaṃ) [skilled](paṭuḥ)
+[aham](ahṃ) [nāḍya-rasa-jñaḥ](nādyarasajñosmi) [kāvya-ālāpeṣu](kāvyālāpeṣvahaṃ) [aham](aham) [paṭuḥ](paṭuḥ)
 
 ## mukta-m0-p56-v1397
-[thus](iti) [pride-inflated](garvoddhatairvākyaiḥ) [true-false](satyāsatya) [mixed](vimiśritaiḥ)
+[iti](iti) [garva-uddhataiḥ](garvoddhatairvākyaiḥ) [vākyaiḥ](vākyaiḥ) [satyā-asatyaiḥ](satyāsatya) [vimiśritaiḥ](vimiśritaiḥ)
 
 ## mukta-m0-p56-v1398
-[wealthy](dhaninomohadarpāṃdhā) [worship](arcayaṃte) [with-gems](vasubhiścataiḥ)
+[dhaninaḥ](dhaninomohadarpāṃdhā) [moha-darpa-andhāḥ](mohadarpāṃdhā) [arcayante](arcayaṃte) [vasubhiḥ](vasubhiścataiḥ) [cataiḥ](cataiḥ)
 
 ## mukta-m0-p56-v1399
-[only](kevalaṃ) [eating](jagdhiyabdhyarthe) [fools](mūrkhāḥ) [accumulate](samadhicinvate)
+[kevalaṃ](kevalaṃ) [jagdhi-yabdhi-arthe](jagdhiyabdhyarthe) [mūrkhāḥ](mūrkhāḥ) [samadhicinvate](samadhicinvate)
 
 ## mukta-m0-p56-v1400
-[they](te) [but](tu) [that](tat) [scripture-devoted](tacchāstraniṣṭhāḥ) [for-worship](pūjanārthaṃ) [wealth-seekers](dhanārjakāḥ)
+[te](te) [tu](tu) [tat-tat-śāstra-niṣṭhāḥ](tat tacchāstraniṣṭhāḥ) [pūjanārthaṃ](pūjanārthaṃ) [dhana-arjakāḥ](dhanārjakāḥ)
