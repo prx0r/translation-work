@@ -8,7 +8,7 @@
 "tokens": [
 {
 "surface": "vyutthāne",
-"quick_gloss": "on-rising"
+"quick_gloss": "in-rising"
 },
 {
 "surface": "vṛtti",
@@ -16,7 +16,7 @@
 },
 {
 "surface": "kuryā",
-"quick_gloss": "one-should-do"
+"quick_gloss": "should-do"
 },
 {
 "surface": "iti",
@@ -36,20 +36,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "oṃ bhūrbhuvasvar",
-"quick_gloss": "oṃ-bhūrbhuvasvaḥ"
+"surface": "oṃ",
+"quick_gloss": "om"
 },
 {
-"surface": "ityuktvā",
-"quick_gloss": "thus-having-said"
+"surface": "bhūrbhuvasvarityuktvā",
+"quick_gloss": "bhūr-bhuvaḥ-svaḥ"
 },
 {
-"surface": "tatsavitur",
-"quick_gloss": "tat-savituḥ"
-},
-{
-"surface": "iti",
-"quick_gloss": "thus"
+"surface": "tatsavituriti",
+"quick_gloss": "that-savitṛ"
 },
 {
 "surface": "sāvitrī",
@@ -57,7 +53,7 @@
 },
 {
 "surface": "manubrūyāḥ",
-"quick_gloss": "you-should-recite"
+"quick_gloss": "mantra-recite"
 }
 ]
 },
@@ -69,20 +65,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "bhāvayer",
-"quick_gloss": "one-should-meditate"
-},
-{
-"surface": "iti",
-"quick_gloss": "thus"
-},
-{
-"surface": "uktaṃ",
-"quick_gloss": "said"
+"surface": "bhāvayerityuktaṃ",
+"quick_gloss": "is-said"
 },
 {
 "surface": "bhavati",
-"quick_gloss": "it-becomes"
+"quick_gloss": "becomes"
 }
 ]
 },
@@ -94,28 +82,28 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "prāg+astamayā",
+"surface": "prāgastamayā",
 "quick_gloss": "before-sunset"
 },
 {
 "surface": "niṣkramya",
-"quick_gloss": "having-gone-out"
+"quick_gloss": "going-out"
 },
 {
 "surface": "samidha",
-"quick_gloss": "fuel-sticks"
+"quick_gloss": "fuel"
 },
 {
 "surface": "āhāre",
-"quick_gloss": "one-should-bring"
+"quick_gloss": "gathering"
 },
 {
 "surface": "hariṇī",
-"quick_gloss": "tawny"
+"quick_gloss": "deer-skin"
 },
 {
-"surface": "brahma+varcasa+kāmaḥ",
-"quick_gloss": "desiring-brahmanic-splendor"
+"surface": "brahmavarcasakāmaḥ",
+"quick_gloss": "brahman-splendor-desiring"
 }
 ]
 },
@@ -128,7 +116,7 @@
 "tokens": [
 {
 "surface": "śrūyate",
-"quick_gloss": "it-is-heard"
+"quick_gloss": "is-heard"
 }
 ]
 },
@@ -141,15 +129,11 @@
 "tokens": [
 {
 "surface": "sāyaṃ",
-"quick_gloss": "evening"
+"quick_gloss": "evening-morning"
 },
 {
-"surface": "prātaḥ",
-"quick_gloss": "morning"
-},
-{
-"surface": "saṃdhyāni",
-"quick_gloss": "twilight-rites"
+"surface": "prātassaṃdhyāni",
+"quick_gloss": "twilight"
 },
 {
 "surface": "smaraṇaṃ",
@@ -157,7 +141,7 @@
 },
 {
 "surface": "kartavyaṃ",
-"quick_gloss": "to-be-done"
+"quick_gloss": "should-be-done"
 }
 ]
 },
@@ -169,16 +153,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "tat",
-"quick_gloss": "that"
-},
-{
-"surface": "ubhaya+vyāpakaṃ",
-"quick_gloss": "pervading-both"
+"surface": "tadubhayavyāpakaṃ",
+"quick_gloss": "both-pervading"
 },
 {
 "surface": "ca",
-"quick_gloss": "and"
+"quick_gloss": "also"
 },
 {
 "surface": "paraṃ",
@@ -186,7 +166,7 @@
 },
 {
 "surface": "tejaḥ",
-"quick_gloss": "light"
+"quick_gloss": "radiance"
 }
 ]
 },
@@ -198,12 +178,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "bhaikṣa+ācaraṇaṃ",
-"quick_gloss": "begging-alms"
+"surface": "bhaikṣācaraṇaṃ",
+"quick_gloss": "begging-round"
 },
 {
 "surface": "kartavyam",
-"quick_gloss": "to-be-done"
+"quick_gloss": "should-be-done"
 }
 ]
 },
@@ -215,12 +195,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "agnīṃ+dhanaṃ",
+"surface": "agnīṃdhanaṃ",
 "quick_gloss": "fire-kindling"
 },
 {
 "surface": "kartavyam",
-"quick_gloss": "to-be-done"
+"quick_gloss": "should-be-done"
 }
 ]
 },
@@ -237,19 +217,15 @@
 },
 {
 "surface": "ca",
-"quick_gloss": "and"
+"quick_gloss": "also"
 },
 {
-"surface": "brahma+agneḥ",
-"quick_gloss": "of-brahman-fire"
-},
-{
-"surface": "dīpanaṃ",
-"quick_gloss": "kindling"
+"surface": "brahmāgnerdīpanaṃ",
+"quick_gloss": "brahma-fire"
 },
 {
 "surface": "vidheyaṃ",
-"quick_gloss": "to-be-enjoined"
+"quick_gloss": "should-be-performed"
 }
 ]
 },
@@ -261,20 +237,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "sāyam",
-"quick_gloss": "in-the-evening"
-},
-{
-"surface": "eva",
-"quick_gloss": "indeed"
-},
-{
-"surface": "agniḥ",
-"quick_gloss": "fire"
-},
-{
-"surface": "maṃdhīthāḥ",
-"quick_gloss": "you-should-kindled"
+"surface": "sāyamevāgnirmaṃdhīthāḥ",
+"quick_gloss": "in-evening"
 }
 ]
 },
@@ -286,16 +250,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "bhaikṣasya",
-"quick_gloss": "of-alms"
-},
-{
-"surface": "ācaraṇa",
-"quick_gloss": "practice"
-},
-{
-"surface": "iti+ādi",
-"quick_gloss": "and-so-forth"
+"surface": "bhaikṣasyācaraṇetyādi",
+"quick_gloss": "begging-round-etc"
 }
 ]
 },
@@ -307,12 +263,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "bhaikṣa+ācaraṇa",
-"quick_gloss": "alms-practice"
-},
-{
-"surface": "agnīṃ+dhanī",
-"quick_gloss": "fire-kindling"
+"surface": "bhaikṣācaraṇāgnīṃdhanī",
+"quick_gloss": "begging-round-fire-kindling"
 }
 ]
 },
@@ -324,7 +276,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "sapta+rātram",
+"surface": "saptarātram",
 "quick_gloss": "seven-nights"
 }
 ]
@@ -337,16 +289,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "mā+bhūt",
+"surface": "mābhūdityāśāste",
 "quick_gloss": "may-not-be"
-},
-{
-"surface": "iti",
-"quick_gloss": "thus"
-},
-{
-"surface": "āśāste",
-"quick_gloss": "wishes"
 },
 {
 "surface": "guruḥ",
@@ -363,19 +307,19 @@
 "tokens": [
 {
 "surface": "chṛṇu",
-"quick_gloss": "hear"
+"quick_gloss": "listen"
 },
 {
 "surface": "tu",
-"quick_gloss": "indeed"
+"quick_gloss": "to-you"
 },
 {
 "surface": "tvā",
-"quick_gloss": "you"
+"quick_gloss": "speech"
 },
 {
 "surface": "vāk",
-"quick_gloss": "speech"
+"quick_gloss": "vāk"
 }
 ]
 },
@@ -388,7 +332,7 @@
 "tokens": [
 {
 "surface": "sanamya",
-"quick_gloss": "having-bowed"
+"quick_gloss": "bowing"
 },
 {
 "surface": "dhārayati",
@@ -404,20 +348,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "yat",
-"quick_gloss": "which"
+"surface": "yadvedabrataṃ",
+"quick_gloss": "whatever-veda-vow"
 },
 {
-"surface": "veda+brataṃ",
-"quick_gloss": "veda-vow"
-},
-{
-"surface": "tat",
-"quick_gloss": "that"
-},
-{
-"surface": "atra",
-"quick_gloss": "here"
+"surface": "tadatra",
+"quick_gloss": "that-here"
 },
 {
 "surface": "bratam",
@@ -434,23 +370,15 @@
 "tokens": [
 {
 "surface": "bhavati",
-"quick_gloss": "it-is"
+"quick_gloss": "becomes"
 },
 {
 "surface": "avaśyaṃ",
-"quick_gloss": "necessarily"
+"quick_gloss": "certainly"
 },
 {
-"surface": "gṛhītavyam",
-"quick_gloss": "to-be-taken"
-},
-{
-"surface": "iti",
-"quick_gloss": "thus"
-},
-{
-"surface": "arthaḥ",
-"quick_gloss": "meaning"
+"surface": "gṛhītavyamityarthaḥ",
+"quick_gloss": "to-be-accepted"
 }
 ]
 },
@@ -462,12 +390,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "guruḥ",
-"quick_gloss": "teacher"
-},
-{
-"surface": "āha",
-"quick_gloss": "said"
+"surface": "gururāha",
+"quick_gloss": "teacher-says"
 }
 ]
 },
@@ -479,16 +403,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "brahmacārya",
-"quick_gloss": "brahmacarya"
-},
-{
-"surface": "asi",
-"quick_gloss": "you-are"
-},
-{
-"surface": "iti",
-"quick_gloss": "thus"
+"surface": "brahmacārya'sīti",
+"quick_gloss": "brahmacārin-you-are"
 }
 ]
 },
@@ -500,12 +416,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "paṃca+vikārān",
+"surface": "paṃcavikārānanukramiruṣyāmaḥ",
 "quick_gloss": "five-modifications"
-},
-{
-"surface": "anukramiṣyāmaḥ",
-"quick_gloss": "we-shall-enumerate"
 }
 ]
 },
@@ -517,20 +429,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "na",
-"quick_gloss": "not"
-},
-{
-"surface": "iti",
-"quick_gloss": "thus"
-},
-{
-"surface": "aśakya",
-"quick_gloss": "unable"
-},
-{
-"surface": "āha",
-"quick_gloss": "he-said"
+"surface": "navetyāśakyāha",
+"quick_gloss": "nine-etc"
 }
 ]
 },
@@ -542,8 +442,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "apaḥ+āśāna",
-"quick_gloss": "sipping-water"
+"surface": "apośāna",
+"quick_gloss": "food-offering"
 }
 ]
 },
@@ -555,24 +455,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "brahma+jñāna",
-"quick_gloss": "brahman-knowledge"
-},
-{
-"surface": "vimarśa+dārḍhyaṃ",
-"quick_gloss": "firmness-of-reflection"
+"surface": "brahmajñānavimarśadārḍhyaṃ",
+"quick_gloss": "brahma-knowledge-reflection-firmness"
 },
 {
 "surface": "bhavet",
-"quick_gloss": "may-be"
+"quick_gloss": "becomes"
 },
 {
-"surface": "tatra",
-"quick_gloss": "there"
-},
-{
-"surface": "āha",
-"quick_gloss": "he-says"
+"surface": "tatrāha",
+"quick_gloss": "there-says"
 }
 ]
 }

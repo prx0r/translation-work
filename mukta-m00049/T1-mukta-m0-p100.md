@@ -2,76 +2,52 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p100-v2476
-[neck](grīvāṃ) [one-should-bind](badhnīyāt) [thus](iti) [in-expectation](apekṣāyām) [says](āha) [in-capability](śaktau) [blood](raktam) [etc.](ityādi)
-
+neck should-bind thus in-expectation says in-power red etc
 ## mukta-m0-p100-v2477
-[nine](nava) [vessels](pātrāṇi) [one-should-arrange](vinyaset) [one-should-place](sthāpayet)
-
+new-vessels arrange place
 ## mukta-m0-p100-v2478
-[silver](rājatam) [etc.](ityādi) [great](mahā) [conch](śaṅkhaṃ) [human](nara) [skull](kapālam)
-
+silver etc great-conch hell-skull
 ## mukta-m0-p100-v2479
-[with-capability](śaktyā) [one-should-prepare](prakalpayet) [vessel](pātraṃ) [of-great-goddess](mahādevyāḥ) [in-worship](prapūjane)
-
+by-power arrange vessel great-goddess worship
 ## mukta-m0-p100-v2480
-[then](tatas) [with-nectar](amṛta) [filled](sampūrṇa) [pot](ghaṭam) [one-should-worship](abhyarcayet) [wise-one](sudhīḥ)
-
+then nectar-filled-pot worship wise-one
 ## mukta-m0-p100-v2481
-[seat](pīṭha) [deities](devān) [having-worshipped](pūjayitvā) [six](ṣaḍ) [limb](aṅga) [installation](nyāsam) [one-should-perform](ācaret)
-
+seat-gods worship six-limb-nyasa perform
 ## mukta-m0-p100-v2482
-[with-own](sva) [power](śaktyā) [one-should-worship](pūjayet) [chosen-deity](iṣṭāṃ) [wealth](vitta) [stinginess](śāṭhyaṃ) [one-should-abandon](vivarjayet)
-
+by-own-power worship desired wealth-stinginess avoid
 ## mukta-m0-p100-v2483
-[with-flower](puṣpa) [sandal](candana) [garments](vāsobhis) [one-should-worship](arcayet) [true](sat) [guru](guruḥ) [O-Śiva](śive)
-
+flowers-sandal-garments worship true-guru Shiva
 ## mukta-m0-p100-v2484
-[full](pūrṇa) [consecration](abhiṣeka) [in-rite](saṃskāre) [by-you](bhavadbhis) [it-should-be-approved](anumanyatām)
-
+full-ablution-rite by-you consent
 ## mukta-m0-p100-v2485
-[disciple](śiṣyo) [may-become](bhavatu) [complete](pūrṇas) [your](te) [supreme](para) [principle](tattva) [devoted](parāyaṇaḥ)
-
+disciple be full you supreme-reality-devoted
 ## mukta-m0-p100-v2486
-[one-should-satisfy](pratarpayet) [by-aforementioned](pūrvoktena) [by-that](tat) [by-mantra](tanmantreṇa)
-
+satisfy previously-said each-mantra
 ## mukta-m0-p100-v2487
-[by-aforementioned](pūrvokta) [by-mantra](mantreṇa) [to-all](sarva) [beings](bhūta) [offering](baliṃ) [one-should-remove](haret) [one-should-give](dadyāt)
-
+previous-mantra all-beings-offering take give
 ## mukta-m0-p100-v2488
-[having-accomplished](sādhayitvā)
-
+having-accomplished
 ## mukta-m0-p100-v2489
-[supreme](para) [principle](tattva) [devoted](parāyaṇaḥ) [supreme](para) [brahman](brahma) [intent](tatparaḥ)
-
+supreme-reality-devoted supreme-brahma-devoted
 ## mukta-m0-p100-v2490
-[kāmaṃ](kāmaṃ) [māyāṃ](māyāṃ) [ramāṃ](ramāṃ) [having-muttered](japtvā) [one-should-move](cālayet) [spotless](vimalaṃ) [pot](ghaṭam)
-
+desire illusion Lakshmi chant move pure pot
 ## mukta-m0-p100-v2491
-[by-your](tvat) [water](toya) [sprouts](pallavaiḥ) [sprinkled](siktaḥ) [disciple](śiṣyo) [in-brahman](brahma) [delighting](ratas) [may-be](astu) [my](me)
-
+your-water-leaves sprinkled disciple brahma-delighted be mine
 ## mukta-m0-p100-v2492
-[with-mantras](mantrair) [these](etair) [to-be-spoken](vakṣyamāṇair) [one-should-sprinkle](abhiṣiñcet) [endowed-with-compassion](kṛpānvitaḥ)
-
+mantras these forthcoming sprinkle compassionate
 ## mukta-m0-p100-v2493
-[auspicious](śubha) [full](pūrṇa) [consecration](abhiṣeka) [for-purpose](arthe) [application](viniyogaḥ) [is-declared](prakīrtitaḥ)
-
+auspicious-full-ablution-purpose application declared
 ## mukta-m0-p100-v2494
-[by-to-be-spoken](vakṣyamāṇa) [by-mantra](mantreṇa) [spotless](vimalaṃ) [pot](ghaṭaṃ) [one-should-move](cālayet)
-
+forthcoming-mantra pure pot move
 ## mukta-m0-p100-v2495
-[pot](ghaṭa) [moving](cālana) [mantra](mantram) [indeed](eva) [says](āha) [uttiṣṭha](uttiṣṭha) [etc.](ityādyam)
-
+pot-moving-mantra indeed says arise etc
 ## mukta-m0-p100-v2496
-[of-sages](ṛṣi) [installation](nyāso) [should-be-performed](vidhātavyaḥ)
-
+seer-nyasa should-be-done
 ## mukta-m0-p100-v2497
-[Durgā](durgā) [Lakṣmī](lakṣmī) [Bhavānī](bhavānyas) [you](tvām) [may-consecrate](abhiṣiñcantu) [mothers](mātaraḥ)
-
+Durga-Lakshmi-Bhavani you sprinkle mothers
 ## mukta-m0-p100-v2498
-[these](etās) [you](tvām) [may-consecrate](abhiṣiñcantu) [by-mantra](mantra) [purified](pūtena) [by-water](vāriṇā)
-
+these you sprinkle mantra-purified water
 ## mukta-m0-p100-v2499
-[these](etās) [you](tvām) [may-consecrate](abhiṣiñcantu) [Bagalā](vagalā) [boon-giving](varadā) [auspicious](śivā)
-
+these you sprinkle Vagala boon-giver Shiva
 ## mukta-m0-p100-v2500
-[Indrāṇī](indrāṇī) [Vāruṇī](vāruṇī) [Raudrī](raudrī) [you](tvā) [may-consecrate](abhiṣiñcantu) [powers](śaktayaḥ)
+Indrani Varuni Rudri you sprinkle powers

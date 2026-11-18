@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p17-v401
-[which](yāṃ) [without+even](vinā+api) [of-method+of-this](nayasya+asya) [distinctiveness](vailakṣaṇyaṃ) [not](na) [arises](jāyate)
+[which](yāṃ) [without](vināpi) [of-this-doctrine](nayasyāsya) [distinctness](vailakṣaṇyaṃ) [not](na) [arises](jāyate)
 
 ## mukta-m0-p17-v402
-[in-writing](lipau) [to-cause-to-fall](pātayituṃ) [by-power](śaktyā) [not](na) [properly+speaks](samyak+vadate) [even-a-little](manāk)
+[on-the-lip](lipau) [to-drop](pātayituṃ) [by-power](śaktyā) [not](na) [speaks-correctly](samyagvadate) [a-little](*)
 
 ## mukta-m0-p17-v403
-[from-direct+experience](pratyakṣa+anubhavāt) [of-this](asyā) [difference+devouring](bheda+grāsaḥ) [indeed](hi) [by-effort](yatnataḥ)
+[by-direct-experience](pratyakṣānubhavādasyā) [difference-grasping](bhedagrāso) [indeed](hi) [carefully](yatnataḥ)
 
 ## mukta-m0-p17-v404
-[from-unstruck+sound+indication](apaṭa+āṭaṅka+saṅketāt) [from-body+state](kāya+saṃsthānataḥ) [situated](sthitā)
+[from-the-sign-of-the-uncovered](apaṭāṭaṅkasaṅketāt) [from-bodily-form](kāyasaṃsthānataḥ) [established](sthitā)
 
 ## mukta-m0-p17-v405
-[from-skeleton+experience+nature](karaṅka+anubhava+ātmatvāt) [first](prathamaṃ) [with-rattling](sākaraṃkiṇī)
+[from-skull-experience](karaṅkānubhavātmatvāt) [first](prathamaṃ) [with-skull](sākaraṃkiṇī)
 
 ## mukta-m0-p17-v406
-[from-impetuosity](saṃrabhāt) [angry-one+form](krodhinī+rūpam) [she](asau) [having-assumed](āśritya) [abides](vartate)
+[from-anger](saṃrabhāt) [angry-form](krodhinīrūpamasāvāśritya) [exists](vartate)
 
 ## mukta-m0-p17-v407
-[as+as](yathā+yathaṃ) [from-sustaining](sambharaṇāt) [as-Bhairavī](bhairavī+iti) [is-proclaimed](prakīrtitā)
+[as-appropriate](yathāyathaṃ) [from-gathering](sambharaṇād) [bhairavi](bhairavīti) [is-proclaimed](prakīrtitā)
 
 ## mukta-m0-p17-v408
-[from-great+dissolution+nature](mahā+vilaya+rūpatvāt) [as-Lelihānā](lelihānā+iti) [is-called](kathyate)
+[from-great-dissolution-form](mahāvilayarūpatvāllelihāneti) [is-called](kathyate)
 
 ## mukta-m0-p17-v409
-[from-uncovered+nature](nirāvaraṇa+rūpatvāt) [sky-moving+form](khecarī+rūpam) [having-assumed](āsthitā)
+[from-uncovered-form](nirāvaraṇarūpatvāt) [sky-goer-form](khecarīrūpamāsthitā)
 
 ## mukta-m0-p17-v410
-[having-satisfied](tarpayitvā) [world+entire](jagat+kṛtsnaṃ) [in-own+state](nija+saṃsthānataḥ) [situated](sthitā)
+[having-satisfied](tarpayitvā) [whole-world](jagatkṛtsnaṃ) [from-own-abode](nijasaṃsthānataḥ) [established](sthitā)
 
 ## mukta-m0-p17-v411
-[of-expressor+nature+own-form+within](vācaka+ātma+svarūpa+antar) [superimposed](adhyastaṃ) [in-mantra+form](mantra+rūpataḥ)
+[from-word-self-form](vācakātmasvarūpāntaradhyastaṃ) [mantra-form](mantrarūpataḥ)
 
 ## mukta-m0-p17-v412
-[not-letter+consisting+speech](avarṇa+maya+vāk) [imagined](kalpa) [*](*) [*](*) [by-making-nature](kāratayā) [situated](sthitaḥ)
+[vowel-less-speech](avarṇamayavāk) [kalpa](kalpa) [standing](sthitaḥ)
 
 ## mukta-m0-p17-v413
-[own+nature+stamp+marked+five+seal+consisting](nija+svarūpa+ṭaṅka+ānta+pañca+mudrā+ātmakaṃ) [world](jagat)
+[own-form-stamp](nijasvarūpaṭaṅkāntapañcamudrātmakaṃ) [world](jagat)
 
 ## mukta-m0-p17-v414
-[difference+expansion+cessation](bheda+prapañca+upaśamaḥ) [supreme-awareness+end+point+gone](parāmarśa+anta+koṭi+gaḥ)
+[difference-expansion-cessation](bhedaprapañcopaśamaḥ) [limit-of-reflection](parāmarśāntakoṭigaḥ)
 
 ## mukta-m0-p17-v415
-[in-effortless+form](nirīha+rūpe) [rest](viśrāntiḥ) [in-supreme+rest+characterized](para+viśrānti+lakṣaṇe)
+[rest-in-formless](nirīharūpe) [rest](viśrāntiḥ) [supreme-rest-marked](paraviśrāntilakṣaṇe)
 
 ## mukta-m0-p17-v416
-[uncoveredness](nirāvaraṇatā) [because](yasmāt) [situated](sthitā) [there+also](tatra+api) [in-reality](vastutaḥ)
+[uncoveredness](nirāvaraṇatā) [because](yasmāt) [established](sthitā) [there](tatrāpi) [in-reality](vastutaḥ)
 
 ## mukta-m0-p17-v417
-[and+not+also](na+ca+api) [not](na) [in-state](sthitau) [because](yasmāt) [in-cognition+path](pratīti+pathi) [exists](vartate)
+[not-also](nacāpi) [not-established](na) [because](yasmāt) [on-path-of-experience](pratītipathi) [moves](vartate)
 
 ## mukta-m0-p17-v418
-[own+consciousness+accomplished](sva+saṃvedana+saṃsiddhaṃ) [that+indeed](tat+vat+eva) [of-these-two](anayoḥ) [not](na) [what](kim)
+[self-experienced-established](svasaṃvedanasaṃsiddhaṃ) [likewise](tadvadevānayorna) [what](kim)
 
 ## mukta-m0-p17-v419
-[hair+ball+appearance+equal](keśa+oṇḍuka+ābhāsa+samaṃ) [that](tat) [uncovered](nirāvaraṇaṃ) [again](punaḥ)
+[hair-ball-appearance-like](keśoṇḍukābhāsasamaṃ) [that-uncovered](tannirāvaraṇaṃ) [again](punaḥ)
 
 ## mukta-m0-p17-v420
-[supreme-awareness](parāmarśaḥ) [again](punaḥ) [goddess](devī) [supreme+grace+level](para+anugraha+bhūmikā)
+[reflection](parāmarśaḥ) [again](punaḥ) [goddess](devī) [supreme-grace-ground](parānugrahabhūmikā)
 
 ## mukta-m0-p17-v421
-[of-these-two](anayoḥ) [equality](samatā) [comes](eti) [of-yogin](yoginaḥ) [towards](prati) [in-reality](vastutaḥ)
+[of-these-two](anayoḥ) [equality](samatāmeti) [of-yogin](yoginaḥ) [in-reality](prati) [vastutaḥ](vastutaḥ)
 
 ## mukta-m0-p17-v422
-[effortless+nature](nirīha+ātmā) [consciousness+alone](saṃvit+eva) [spreads-forth](prathate) [for-non-practitioner](anupayoginaḥ)
+[formless-self](nirīhātmā) [consciousness-indeed](saṃvideva) [appears](prathate) [useless](anupayoginaḥ)
 
 ## mukta-m0-p17-v423
-[one-pointedness](aikadhyam) [by-this](anayā) [manner](bhaṅgyā) [in-each-manifestation](prati+bhāvaṃ) [established](vyavasthitam)
+[together](aikadhyamanayā) [by-mode](bhaṅgyā) [manifestation](pratibhāvaṃ) [established](vyavasthitam)
 
 ## mukta-m0-p17-v424
-[transition](saṃkrāmaḥ) [and](ca) [effortless+nature](nirīha+ātmā) [triad](trayam) [by-oneness+also+this](ekatayā+api+adaḥ)
+[transmission](saṃkrāmaśca) [formless-self](nirīhātmā) [three](trayamekatayāpyadaḥ)
 
 ## mukta-m0-p17-v425
-[consciousness+state](saṃvit+saṃsthānam) [having-resorted-to](āśritya) [letter+nature+unborn](varṇa+ātmā+ajaḥ) [shines-forth](virājate)
+[consciousness-abode](saṃvitsaṃsthānamāśrityā) [vowel-self-born](varṇātmājo) [shines](virājate)

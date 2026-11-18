@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p05-v101
-[on-rising](vyutthāne) [activity](vṛtti) [one-should-do](kuryā) [thus](iti) [meaning](bhāvaḥ)
+[in-rising](vyutthāne) [activity](vṛtti) [should-do](kuryā) [thus](iti) [meaning](bhāvaḥ)
 
 ## mukta-m0-p05-v102
-[oṃ-bhūrbhuvasvaḥ](oṃ bhūrbhuvasvar) [thus-having-said](ityuktvā) [tat-savituḥ](tatsavitur) [thus](iti) [sāvitrī](sāvitrī) [you-should-recite](manubrūyāḥ)
+[om](oṃ) [bhūr-bhuvaḥ-svaḥ](bhūrbhuvasvarityuktvā) [that-savitṛ](tatsavituriti) [sāvitrī](sāvitrī) [mantra-recite](manubrūyāḥ)
 
 ## mukta-m0-p05-v103
-[one-should-meditate](bhāvayer) [thus](iti) [said](uktaṃ) [it-becomes](bhavati)
+[is-said](bhāvayerityuktaṃ) [becomes](bhavati)
 
 ## mukta-m0-p05-v104
-[before-sunset](prāg+astamayā) [having-gone-out](niṣkramya) [fuel-sticks](samidha) [one-should-bring](āhāre) [tawny](hariṇī) [desiring-brahmanic-splendor](brahma+varcasa+kāmaḥ)
+[before-sunset](prāgastamayā) [going-out](niṣkramya) [fuel](samidha) [gathering](āhāre) [deer-skin](hariṇī) [brahman-splendor-desiring](brahmavarcasakāmaḥ)
 
 ## mukta-m0-p05-v105
-[it-is-heard](śrūyate)
+[is-heard](śrūyate)
 
 ## mukta-m0-p05-v106
-[evening](sāyaṃ) [morning](prātaḥ) [twilight-rites](saṃdhyāni) [remembrance](smaraṇaṃ) [to-be-done](kartavyaṃ)
+[evening-morning](sāyaṃ) [twilight](prātassaṃdhyāni) [remembrance](smaraṇaṃ) [should-be-done](kartavyaṃ)
 
 ## mukta-m0-p05-v107
-[that](tat) [pervading-both](ubhaya+vyāpakaṃ) [and](ca) [supreme](paraṃ) [light](tejaḥ)
+[both-pervading](tadubhayavyāpakaṃ) [also](ca) [supreme](paraṃ) [radiance](tejaḥ)
 
 ## mukta-m0-p05-v108
-[begging-alms](bhaikṣa+ācaraṇaṃ) [to-be-done](kartavyam)
+[begging-round](bhaikṣācaraṇaṃ) [should-be-done](kartavyam)
 
 ## mukta-m0-p05-v109
-[fire-kindling](agnīṃ+dhanaṃ) [to-be-done](kartavyam)
+[fire-kindling](agnīṃdhanaṃ) [should-be-done](kartavyam)
 
 ## mukta-m0-p05-v110
-[by-that](tena) [and](ca) [of-brahman-fire](brahma+agneḥ) [kindling](dīpanaṃ) [to-be-enjoined](vidheyaṃ)
+[by-that](tena) [also](ca) [brahma-fire](brahmāgnerdīpanaṃ) [should-be-performed](vidheyaṃ)
 
 ## mukta-m0-p05-v111
-[in-the-evening](sāyam) [indeed](eva) [fire](agniḥ) [you-should-kindled](maṃdhīthāḥ)
+[in-evening](sāyamevāgnirmaṃdhīthāḥ)
 
 ## mukta-m0-p05-v112
-[of-alms](bhaikṣasya) [practice](ācaraṇa) [and-so-forth](iti+ādi)
+[begging-round-etc](bhaikṣasyācaraṇetyādi)
 
 ## mukta-m0-p05-v113
-[alms-practice](bhaikṣa+ācaraṇa) [fire-kindling](agnīṃ+dhanī)
+[begging-round-fire-kindling](bhaikṣācaraṇāgnīṃdhanī)
 
 ## mukta-m0-p05-v114
-[seven-nights](sapta+rātram)
+[seven-nights](saptarātram)
 
 ## mukta-m0-p05-v115
-[may-not-be](mā+bhūt) [thus](iti) [wishes](āśāste) [teacher](guruḥ)
+[may-not-be](mābhūdityāśāste) [teacher](guruḥ)
 
 ## mukta-m0-p05-v116
-[hear](chṛṇu) [indeed](tu) [you](tvā) [speech](vāk)
+[listen](chṛṇu) [to-you](tu) [speech](tvā) [vāk](vāk)
 
 ## mukta-m0-p05-v117
-[having-bowed](sanamya) [holds](dhārayati)
+[bowing](sanamya) [holds](dhārayati)
 
 ## mukta-m0-p05-v118
-[which](yat) [veda-vow](veda+brataṃ) [that](tat) [here](atra) [vow](bratam)
+[whatever-veda-vow](yadvedabrataṃ) [that-here](tadatra) [vow](bratam)
 
 ## mukta-m0-p05-v119
-[it-is](bhavati) [necessarily](avaśyaṃ) [to-be-taken](gṛhītavyam) [thus](iti) [meaning](arthaḥ)
+[becomes](bhavati) [certainly](avaśyaṃ) [to-be-accepted](gṛhītavyamityarthaḥ)
 
 ## mukta-m0-p05-v120
-[teacher](guruḥ) [said](āha)
+[teacher-says](gururāha)
 
 ## mukta-m0-p05-v121
-[brahmacarya](brahmacārya) [you-are](asi) [thus](iti)
+[brahmacārin-you-are](brahmacārya'sīti)
 
 ## mukta-m0-p05-v122
-[five-modifications](paṃca+vikārān) [we-shall-enumerate](anukramiṣyāmaḥ)
+[five-modifications](paṃcavikārānanukramiruṣyāmaḥ)
 
 ## mukta-m0-p05-v123
-[not](na) [thus](iti) [unable](aśakya) [he-said](āha)
+[nine-etc](navetyāśakyāha)
 
 ## mukta-m0-p05-v124
-[sipping-water](apaḥ+āśāna)
+[food-offering](apośāna)
 
 ## mukta-m0-p05-v125
-[brahman-knowledge](brahma+jñāna) [firmness-of-reflection](vimarśa+dārḍhyaṃ) [may-be](bhavet) [there](tatra) [he-says](āha)
+[brahma-knowledge-reflection-firmness](brahmajñānavimarśadārḍhyaṃ) [becomes](bhavet) [there-says](tatrāha)
