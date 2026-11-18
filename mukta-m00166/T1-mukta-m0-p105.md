@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p105-v2601
-[hero+ground](vīrabhūḥ)
+[vira-bhu](vīrabhūḥ)
 
 ## mukta-m0-p105-v2602
-[rest+supreme+ground+hero-ground+earth+worshipped](viśrānteḥ+paramā+bhūmir+vīrabhūr+bhuvi+pūjitā)
+[visranti-parama-bhumi](viśrānteḥ) [parama](paramā) [bhumi](bhūmir) [vira-bhu](vīrabhūr) [bhuvi](bhuvi) [pujita](pūjitā)
 
 ## mukta-m0-p105-v2603
-[hero+mother](vīramātā)
+[vira-mata](vīramātā)
 
 ## mukta-m0-p105-v2604
-[heroes+who+protects+fallen+causeless+love+filled](vīrān+yā+pāti+niṣpātān+nirhetu+prema+nirbhṛtā)
+[viran](vīrān) [ya](yā) [pati](pāti) [nispata](niṣpātān) [nirhetu-prema-nirbhrita](nirhetupremanirbhṛtā)
 
 ## mukta-m0-p105-v2605
-[hero+born](vīrasūḥ)
+[vira-su](vīrasūḥ)
 
 ## mukta-m0-p105-v2606
-[heroes+bears+of-men+she+hero-born+some+is-sung](vīrān+sūte+janānāṃ+sā+vīrasūḥ+kāpi+gīyate)
+[viran](vīrān) [sute](sūte) [jananam](janānāṃ) [sa](sā) [vira-su](vīrasūḥ) [kapi](kāpi) [giyate](gīyate)
 
 ## mukta-m0-p105-v2607
-[hero+delighter](vīranandinī)
+[vira-nandini](vīranandinī)
 
 ## mukta-m0-p105-v2608
-[whose+devotees+abandoned+five-ness+fear+she+hero-delighter](yad+bhaktāḥ+tyakta+pañcatva+bhayāḥ+sā+vīranandinī)
+[yat-bhakta-tyakta-pancatva-bhaya](yadbhaktāstyaktapañcatvabhayāḥ) [sa](sā) [vira-nandini](vīranandinī)
 
 ## mukta-m0-p105-v2609
-[victory+glory](jayaśrīḥ)
+[jaya-sri](jayaśrīḥ)
 
 ## mukta-m0-p105-v2610
-[victory-glory+that+indeed+to-us+may-be+presence+everywhere+always](jayaśrīḥ+sa+eva+naḥ+bhūyāt+saṃnidhau+sarvataḥ+sadā)
+[jaya-sri](jayaśrīḥ) [sa-eva](saiva) [na](no) [bhyat](bhūyāt) [samnidhau](saṃnidhau) [sarvatah](sarvataḥ) [sada](sadā)
 
 ## mukta-m0-p105-v2611
-[victory+initiation](jayadīkṣā)
+[jaya-diksa](jayadīkṣā)
 
 ## mukta-m0-p105-v2612
-[whose+initiated+people+shine+victory-initiation+thus+she+auspicious](yad+dīkṣitā+janāḥ+bhānti+jayadīkṣā+iti+sā+śivā)
+[yat-diksita-jana-bhanti](yaddīkṣitā) [jana](janā) [bhanti](bhānti) [jaya-diksa-iti](jayadīkṣeti) [sa](sā) [siva](śivā)
 
 ## mukta-m0-p105-v2613
-[victory+giver](jayadā)
+[jaya-da](jayadā)
 
 ## mukta-m0-p105-v2614
-[as+wealth-victory+state+not+may-manifest+unartificial](yathā+dhanaṃjaya+tvaṃ+na+āvirbhūyāt+akṛtrimam)
+[yatha](yathā) [dhana-jayatvam](dhanaṃjayatvaṃ) [na](na) [avirbhuyad-akritrimam](āvirbhūyādakṛtrimam)
 
 ## mukta-m0-p105-v2615
-[victory+increaser](jayavardhinī)
+[jaya-vardhini](jayavardhinī)
 
 ## mukta-m0-p105-v2616
-[if+would+always+truth+companion+victory-increaser](yadi+syāt+sarvadā+satyaṃ+sahāyā+jayavardhinī)
+[yadi](yadi) [syat](syāt) [sarvada](sarvadā) [satyam](satyaṃ) [sahaya](sahāyā) [jaya-vardhini](jayavardhinī)
 
 ## mukta-m0-p105-v2617
-[fortune+auspicious+form](saubhāgya+subhagā+ākārā)
+[saubhagya-subhaga-akara](saubhāgyasubhagākārā)
 
 ## mukta-m0-p105-v2618
-[within-cave+entered+mind+motionless+makes+who](kāreva+antargataṃ+cittaṃ+niścalaṃ+vidadhāti+yā)
+[kareva-antargatam](kārevāntargataṃ) [cittam](cittaṃ) [niscalam](niścalaṃ) [vidadhiti](vidadhāti) [ya](yā)
 
 ## mukta-m0-p105-v2619
-[all-fortune+increaser](sarva+saubhāgya+vardhinī)
+[sarva-saubhagya-vardhini](sarvasaubhāgyavardhinī)
 
 ## mukta-m0-p105-v2620
-[companion+always+she+may-be+all-fortune-increaser](sahāyā+sarvadā+sā+astu+sarvasaubhāgyavardhinī)
+[sahaya](sahāyā) [sarvada](sarvadā) [sa-astu](sāstu) [sarva-saubhagya-vardhini](sarvasaubhāgyavardhinī)
 
 ## mukta-m0-p105-v2621
-[welfare+making](kṣema+ṅkarī)
+[ksama-kari](kṣemaṅkarī)
 
 ## mukta-m0-p105-v2622
-[today+I+happy+possessor+immediately+seen+welfare-making+when](adya+asmi+sukha+bhāk+sadyo+dṛṣṭā+kṣemaṅkarī+yadā)
+[adya-asmi](adyāsmi) [sukha-bhak](sukhabhāk) [sadyo](sadyo) [drsta](dṛṣṭā) [ksama-kari](kṣemaṅkarī) [yada](yadā)
 
 ## mukta-m0-p105-v2623
-[perfection+form](siddhi+rūpā)
+[siddhi-rupa](siddhirūpā)
 
 ## mukta-m0-p105-v2624
-[otherwise+all-perfection+lord+how+I+would-be+self-perfection+from](anyathā+akhila+siddhi+īśaḥ+kathaṃ+syāṃ+svātma+siddhi+taḥ)
+[anyatha-akhila-siddhi-isa](anyathākhilasiddhīśaḥ) [katham](kathaṃ) [syam](syāṃ) [svatma-siddhita](svātmasiddhitaḥ)
 
 ## mukta-m0-p105-v2625
-[good+fame](sat+kīrtiḥ)
+[sat-kirti](satkīrtiḥ)
