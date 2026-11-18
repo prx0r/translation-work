@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p39-v951
-[vetala+witch+vulture+owl-crow+parvati+crowded](vetālaśākinīgṛdhrakākolūkaśivākulā)
+[vampire](vetāla) [witch](śākinī) [vulture](gṛdhra) [crow-owl](kākolūka) [jackal](śivā) [crowded](ākulā)
 
 ## mukta-m0-p39-v952
-[first+eight+this+called+remainder+difference+but+expansion](ādyāṣṭakamidaṃ khyātaṃ śeṣabhedastu vistaraḥ)
+[first-eight](ādyāṣṭakam) [this](idaṃ) [called](khyātaṃ) [remainder-difference](śeṣabhedas) [but](tu) [detail](vistaraḥ)
 
 ## mukta-m0-p39-v953
-[toothed+beneficent+should-be+on-earth+knee-hand-seated](danturākṣemakarī syādbhūmau jānukarāsthitā)
+[toothed](danturā) [harm-causing](akṣemakarī) [would-be](syāt) [on-earth](bhūmau) [knee-hand](jānukarā) [standing](sthitā)
 
 ## mukta-m0-p39-v954
-[laughing+great-bellied+forms+apsaras+always](eṅgā (?) hāsyā mahodaryo rūpiṇyo'psarasaḥ sadā)
+[?] (eṅgā) [laughing](hāsyā) [big-bellied](mahodaryo) [formed](rūpiṇyo) [apsaras](apsarasaḥ) [always](sadā)
 
 ## mukta-m0-p39-v955
-[lord-of-yoga+chariot+hero+and+crescent-seat+seated](yogeśvaroratha vīraśca ardhacandrāsane sthitaḥ)
+[lord-of-yoga](yogeśvaro) [chariot](ratha) [hero](vīraś) [ca](ca) [half-moon-seat](ardhacandrāsane) [standing](sthitaḥ)
 
 ## mukta-m0-p39-v956
-[binding+placing+heart+or+upturned-two-hands](badhdvā vinyasya hṛdaye'thavottānakaradvayam)
+[binding](badhdvā) [placing](vinyasya) [heart](hṛdaye) [or](athavā) [upturned-two-hands](uttānakaradvayam)
 
 ## mukta-m0-p39-v957
-[fierce+staff-bearer+and+work+fierce-lord+great](pracaṇḍo daṇḍadhārī ca kāryaścaṇḍeśvaro mahān)
+[fierce](pracaṇḍo) [staff-bearer](daṇḍadhārī) [ca](ca) [work](kāryaś) [caṇḍeśvara](caṇḍeśvaro) [great](mahān)
 
 ## mukta-m0-p39-v958
-[great-bellied+large-bodied+single-tusk+three-eyed](mahodaro vṛhaddeha ekadantastrilocanaḥ)
+[big-bellied](mahodaro) [large-bodied](vṛhaddeha) [single-tusk](ekadantas) [three-eyed](trilocanaḥ)
 
 ## mukta-m0-p39-v959
-[divine-garment-wearer+should-be+snake-sacrificial-thread-possessing](divyāmbaradharaḥ kāryo nāgayajñopavītavān)
+[divine-garment-wearing](divyāmbaradharaḥ) [to-be-made](kāryo) [snake-sacrificial-thread-wearing](nāgayajñopavītavān)
 
 ## mukta-m0-p39-v960
-[sixteen-fingers+length+trunk+six-thirty-six-fingers](ṣoḍaśāṅgulakaṃ dairghyācchuṇḍaṃ ṣaḍtriṃśadaṅgulam)
+[sixteen-angula](ṣoḍaśāṅgulakaṃ) [in-length](dairghyāt) [trunk](śuṇḍaṃ) [thirty-six-angula](ṣaḍtriṃśadaṅgulam)
 
 ## mukta-m0-p39-v961
-[plump+raised-chest+should-be-made+troop-leader](pīnaḥ samunnatoraskaḥ kartavyo gaṇanāyakaḥ)
+[plump](pīnaḥ) [raised-chest](samunnatoraskaḥ) [to-be-made](kartavyo) [troop-leader](gaṇanāyakaḥ)
 
 ## mukta-m0-p39-v962
-[throat-cavity+interval+should-be-made+equal+thirty-two-fingers](kaṇṭhaguhayāntaraṃ kāryaṃ samaṃ dvātriṃśadaṅgulam)
+[throat-cavity](kaṇṭhaguhayā) [between](antaraṃ) [to-be-made](kāryaṃ) [equal](samaṃ) [thirty-two-angula](dvātriṃśadaṅgulam)
 
 ## mukta-m0-p39-v963
-[head+dense+scattered+left+pot-raised](mastakaṃ niviḍaṃ vyastaṃ vāma kumbhasamunnatam)
+[head](mastakaṃ) [dense](niviḍaṃ) [spread](vyastaṃ) [left](vāma) [pot-raised](kumbhasamunnatam)
 
 ## mukta-m0-p39-v964
-[hole+hole-finger+pot+in-middle+thread-measured](randhraṃ randhrāṅgulau kumbhau tanmadhye sūtramānataḥ)
+[hole](randhraṃ) [hole-angula](randhrāṅgulau) [pots](kumbhau) [between-them](tanmadhye) [thread-measure](sūtramānataḥ)
 
 ## mukta-m0-p39-v965
-[one-by-one+by-reduction+until+veda-fingers+position](ekaikaṃ hrāsayogena yāvadvedāṅgulasthitiḥ)
+[one-by-one](ekaikaṃ) [by-reduction](hrāsayogena) [until](yāvat) [veda-angula](vedāṅgulasthitiḥ)
 
 ## mukta-m0-p39-v966
-[five-palms+length+and+four-palms+entry](pañcatālapradairghyaṃ ca catustālaviveśanam)
+[page-115](p. 115) [five-tāla-length](pañcatālapradairghyaṃ) [ca](ca) [four-tāla-entry](catustālaviveśanam)
 
 ## mukta-m0-p39-v967
-[own-tusk+right+hand+left+hand+ladduka](svadantaṃ dakṣiṇe pāṇau vāmahaste ca laḍḍukam)
+[own-tusk](svadantaṃ) [right](dakṣiṇe) [hand](pāṇau) [left](vāmahaste) [ca](ca) [ladduka](laḍḍukam)
 
 ## mukta-m0-p39-v968
-[ganesha-mark+declared+four-handed+not+otherwise](gaṇeśalakṣaṇaṃ proktaṃ caturhastaṃ tu nānyathā)
+[gaṇeśa-mark](gaṇeśalakṣaṇaṃ) [declared](proktaṃ) [four-handed](caturhastaṃ) [tu](tu) [not-otherwise](nānyathā)
 
 ## mukta-m0-p39-v969
-[by-arms+more+should-make+six-armed+as-before+him](bhujābhyāmadhikaṃ kuryātṣaḍbhujaṃ pūrvavacca tam)
+[by-arms](bhujābhyām) [more](adhikaṃ) [should-make](kuryāt) [six-armed](ṣaḍbhujaṃ) [as-before](pūrvavac) [ca](ca) [him](tam)
 
 ## mukta-m0-p39-v970
-[left+and+fearless-giving+hand+auspicious+eight-armed-endowed](vāmaṃ cābhayadaṃ hastaṃ śubhaṃ cāṣṭabhujānvitam)
+[left](vāmaṃ) [ca](ca) [fearless-giving](abhayadaṃ) [hand](hastaṃ) [auspicious](śubhaṃ) [ca](ca) [eight-armed](aṣṭabhujānvitam)
 
 ## mukta-m0-p39-v971
-[below-lotus+should-be-made+great-rat+beautiful-form](padmādhastāttu kartavyo mahākhu ścārurūpavān)
+[lotus-below](padmādhastāt) [tu](tu) [to-be-made](kartavyo) [great-rat](mahākhu) [beautiful-formed](cārurūpavān)
 
 ## mukta-m0-p39-v972
-[six-armed+and+eight-armed+delighted+tandava-busy](ṣaḍbhujaścāṣṭabāhuśca prahṛṣṭastāṇḍavākulaḥ)
+[six-armed](ṣaḍbhujaś) [ca](ca) [eight-armed](aṣṭabāhuś) [ca](ca) [delighted](prahṛṣṭas) [tāṇḍava-crowded](tāṇḍavākulaḥ)
 
 ## mukta-m0-p39-v973
-[first+white+in-house+desired+threefold+in-temple](ādyaṃ sitaṃ gṛhe'bhīṣṭaṃ trividhaṃ suramandire)
+[first](ādyaṃ) [white](sitaṃ) [in-house](gṛhe) [desired](abhīṣṭaṃ) [threefold](trividhaṃ) [in-temple](suramandire)
 
 ## mukta-m0-p39-v974
-[twelve-armed+skanda+chief+handsome](bhujairdvādaśabhiryuktaḥ skando mukhyaḥ surūpakaḥ)
+[twelve-arms](bhujairdvādaśabhir) [yuktaḥ](yuktaḥ) [skanda](skando) [chief](mukhyaḥ) [well-formed](surūpakaḥ)
 
 ## mukta-m0-p39-v975
-[peace+and+right+hand+six+left+hand+so](śāntyā ca dakṣiṇe haste ṣaḍbhirvāmakare tathā)
+[by-peace](śāntyā) [ca](ca) [right](dakṣiṇe) [hand](haste) [six](ṣaḍbhir) [left-hand](vāmakare) [tathā](tathā)
