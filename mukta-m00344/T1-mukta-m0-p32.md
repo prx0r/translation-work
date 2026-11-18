@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p32-v776
-[weapons](āyudhaiḥ) [man-horn-risen](nara+śṛṅga+utthaiḥ) [having-fought](yudhvā) [sky-forest](gaganakānane)
+[gloss](āyudhaiḥ) [gloss](nara) [gloss](śṛṅga) [gloss](utthaiḥ) [gloss](yudhvā) [gloss](gagana) [gloss](kānane)
 
 ## mukta-m0-p32-v777
-[ray-stream](marīcisrotasi) [dream-desiring-women](svāpna+kāminībhiḥ) [indeed](hi) [plays](khelati)
+[gloss](marīci) [gloss](srotasi) [gloss](svāpna) [gloss](kāminībhiḥ) [gloss](hi) [gloss](khelati)
 
 ## mukta-m0-p32-v778
-[having-heard](śrutvā) [thus](evam) [dear-speech](priya+vākyam) [she](sā) [clever](caturā) [said](prāha) [him](tam) [again](punaḥ)
+[gloss](śrutvā) [gloss](evaṃ) [gloss](priya) [gloss](vākyaṃ) [gloss](sā) [gloss](caturā) [gloss](prāha) [gloss](taṃ) [gloss](punaḥ)
 
 ## mukta-m0-p32-v779
-[thus](tathā) [spoken-vidūṣaka-speech-like](prokta+vidūṣaka+vākya+vat) [inconsistent](asaṅgatam)
+[gloss](tathā) [gloss](prokta) [gloss](vidūṣaka) [gloss](vākya) [gloss](vat) [gloss](asaṅgatam)
 
 ## mukta-m0-p32-v780
-[not](na) [of-such-as-me](mādṛśānām) [speech](vacanam) [unsupported](nirālambam) [anywhere](kvacid) [would-be](bhavet)
+[gloss](na) [gloss](mādṛśānāṃ) [gloss](vacanaṃ) [gloss](nirālambaṃ) [gloss](kvacid) [gloss](bhavet)
 
 ## mukta-m0-p32-v781
-[thus-meaning](ityarthaḥ) [beautiful](saundaryavat) [would-be](bhavet)
+[gloss](ityarthaḥ) [gloss](saundaryavat) [gloss](bhavet)
 
 ## mukta-m0-p32-v782
-[his](tasya) [not](na) [above](ūrdhvam) [nor](na) [below](adhastāt) [world](lokaḥ) [is](asti) [happiness-means](sukha+sādhanam)
+[gloss](tasya) [gloss](na) [gloss](ūrdhvaṃ) [gloss](na) [gloss](ca) [gloss](adhastāt) [gloss](lokaḥ) [gloss](asti) [gloss](sukha) [gloss](sādhanam)
 
 ## mukta-m0-p32-v783
-[meaningless-speech](apārtha+vacasā) [from-falsehood](asatyāt) [not](na) [world](lokaḥ)
+[gloss](apārtha) [gloss](vacasā) [gloss](asatyāt) [gloss](na) [gloss](lokaḥ)
 
 ## mukta-m0-p32-v784
-[equal-vision](samadṛṣṭim) [not](na) [attains](naiti) [quickly](śīghram) [collyrium-men](añjanānām) [speech-troops](vacogaṇaiḥ)
+[gloss](samadṛṣṭiṃ) [gloss](na) [gloss](eti) [gloss](śīghram) [gloss](añjanānāṃ) [gloss](vaco) [gloss](gaṇaiḥ)
 
 ## mukta-m0-p32-v785
-[to-know](jñātum) [impossible](aśakyam) [with-intent](ityāśayena) [said](āha) [listen](śṛṇu) [iti](iti)
+[gloss](jñātum) [gloss](aśakyam) [gloss](ityāśayena) [gloss](āha) [gloss](śṛṇu) [gloss](iti)
 
 ## mukta-m0-p32-v786
-[inquirer](jijñāsuḥ) [with-falsehoods](asatyaiḥ) [shall-I-join](yojayāmi) [kim](kim) [not](na) [I-join-indeed](yojayāmyeva) [thus-meaning](ityarthaḥ)
+[gloss](jijñāsuḥ) [gloss](asatyaiḥ) [gloss](yojayāmi) [gloss](kim) [gloss](na) [gloss](yojayāmi) [gloss](eva) [gloss](ityarthaḥ)
 
 ## mukta-m0-p32-v787
-[in-world](loke) [indeed](hi) [skillful](kuśalaḥ) [mortal](martyaḥ) [all-dealings](sarva+vyavahṛtau) [surely](nanu)
+[gloss](loke) [gloss](hi) [gloss](kuśalaḥ) [gloss](martyaḥ) [gloss](sarva) [gloss](vyavahṛtau) [gloss](nanu)
 
 ## mukta-m0-p32-v788
-[skillful](kuśalaḥ) [even](api) [past-meaning](atīta+artham) [your-speech](tvad+vacanam) [how](katham) [shall-I-examine](parīkṣiṣyāmi) [thus-if](ced) [said](āha) [world](loka) [iti](iti)
+[gloss](kuśalaḥ) [gloss](api) [gloss](atīta) [gloss](arthaṃ) [gloss](tvat) [gloss](vacanaṃ) [gloss](kathaṃ) [gloss](parīkṣiṣyāmi) [gloss](iti) [gloss](ced) [gloss](āha) [gloss](loka) [gloss](iti)
 
 ## mukta-m0-p32-v789
-[example](nidarśanam) [I-will-give](pradāsyāmi) [to-you](tubhyam) [here](atra) [with-examination](samīkṣayā)
+[gloss](nidarśanaṃ) [gloss](pradāsyāmi) [gloss](tubhyam) [gloss](atra) [gloss](samīkṣaya)
 
 ## mukta-m0-p32-v790
-[example](nidarśanam) [I-will-give](pradāsyāmi) [experienced](anubhūtam) [I-remind](smārayāmi) [here](atra) [my-speech-examination](mad+vacana+parīkṣāyām)
+[gloss](nidarśanaṃ) [gloss](pradāsyāmi) [gloss](anubhūtaṃ) [gloss](smārayāmi) [gloss](atra) [gloss](mad) [gloss](vacana) [gloss](parīkṣāyām)
 
 ## mukta-m0-p32-v791
-[long-ago](cirāt) [my-speech](mad+vacanāt) [he](saḥ) [today](adya) [whence](kutaḥ) [not](na) [happiness-means](sukha+sādhanam)
+[gloss](cirāt) [gloss](mad) [gloss](vacanāt) [gloss](saḥ) [gloss](adya) [gloss](kutaḥ) [gloss](na) [gloss](sukha) [gloss](sādhanam)
 
 ## mukta-m0-p32-v792
-[would-be-indeed](bhavedeva) [know](jānīhi) [thus-sense](iti+bhāvaḥ)
+[gloss](bhaved) [gloss](eva) [gloss](iti) [gloss](jānīhi) [gloss](iti) [gloss](bhāvaḥ)
 
 ## mukta-m0-p32-v793
-[this-example](etan+nidarśanena) [indeed](eva) [own-view](svam+matam) [to-know](vettum) [you-should](arhasi)
+[gloss](etad) [gloss](nidarśanena) [gloss](eva) [gloss](sva) [gloss](mataṃ) [gloss](vettum) [gloss](arhasi)
 
 ## mukta-m0-p32-v794
-[proof](pramāṇam) [or](vā) [non-proof](apramāṇam) [or](veti) [to-know](vettum)
+[gloss](pramāṇam) [gloss](apramāṇaṃ) [gloss](vā) [gloss](iti) [gloss](vettum)
 
 ## mukta-m0-p32-v795
-[enemy](ripuḥ) [in-world](loke) [would-be](bhavet) [reliable-speeches](āpta+uktiṣu) [steadfast](sthiraḥ)
+[gloss](ripuḥ) [gloss](loke) [gloss](bhavet) [gloss](āpta) [gloss](uktiṣu) [gloss](sthiraḥ)
 
 ## mukta-m0-p32-v796
-[non-reassurance](anāśvāsaḥ) [distrust](aśraddhā)
+[gloss](anāśvāsaḥ) [gloss](aśraddhā)
 
 ## mukta-m0-p32-v797
-[protects](rakṣati) [from-great-fears](prauḍha+bhītibhyaḥ) [in-every-way](sarvathā) [not](na) [doubt](saṃśayaḥ)
+[gloss](rakṣati) [gloss](prauḍha) [gloss](bhītibhyaḥ) [gloss](sarvathā) [gloss](na) [gloss](hi) [gloss](saṃśayaḥ)
 
 ## mukta-m0-p32-v798
-[he](saḥ) [would-be](bhavet) [in-every-way](sarvataḥ) [deficient](hīnaḥ) [who](yaḥ) [faithless](śraddhā+rahitaḥ) [man](naraḥ)
+[gloss](saḥ) [gloss](bhavet) [gloss](sarvataḥ) [gloss](hīnaḥ) [gloss](yaḥ) [gloss](śraddhā) [gloss](rahitaḥ) [gloss](naraḥ)
 
 ## mukta-m0-p32-v799
-[therefore](ataḥ) [indeed](eva) [in-every-way](sarvataḥ) [deficient](hīnaḥ) [would-be](bhavet)
+[gloss](ataḥ) [gloss](eva) [gloss](sarvataḥ) [gloss](hīnaḥ) [gloss](bhavet)
 
 ## mukta-m0-p32-v800
-[faithless](aśraddhaḥ) [in-mother-matter](mātṛ+viṣaye) [child](bālaḥ) [would-live](jīvet) [how](katham) [say](vada)
+[gloss](aśraddhaḥ) [gloss](mātṛ) [gloss](viṣaye) [gloss](bālaḥ) [gloss](jīvet) [gloss](kathaṃ) [gloss](vada)
