@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p100-v2476
-[that](tām) [thus](evam) [should-wear](dhārayed) [O-goddess](devi) [having-written](likhitvā) [birch+bark](bhūrja+patrake)
+[tām](tām) [evam](evaṃ) [dhārayet](dhārayed) [devi](devi) [likhitvā](likhitvā) [bhūrja-patrake](bhūrjapatrake)
 
 ## mukta-m0-p100-v2477
-[with-gold](suvarṇena) [then](atha) [having-enveloped](saṃveṣṭya) [should-wear](dhārayed) [with-red+cord](rakta+rajjunā)
+[suvarṇena](suvarṇena) [atha](atha) [saṃveṣṭya](saṃveṣṭya) [dhārayet](dhārayed) [rakta-rajjunā](raktarajjunā)
 
 ## mukta-m0-p100-v2478
-[of-armor](kavacasya) [of-this](asya) [kh:]( [kh:) [śu]](śu]) [amulet](guṭikā) [held](dhṛtā) [liberation+bestowing](mukti+pradāyinī)
+[kavaca-asya](kavacasyāsya) [guṭikā](guṭikā) [dhṛtā](dhṛtā) [mukti-pradāyinī](muktipradāyinī)
 
 ## mukta-m0-p100-v2479
-[greatness](mahimā) [and](ca) [O-great+goddess](mahā+devi) [by-tongue+crore+hundreds](jihvā+koṭi+śataiḥ) [even](api)
+[mahimā](mahimā) [ca](ca) [mahā-devi](mahādevi) [jihvā-koṭi-śatair](jihvākoṭiśatair) [api](api)
 
 ## mukta-m0-p100-v2480
-[unspeakable](avaktavyam) [greatly+meritorious](mahā+puṇyaṃ) [all+essence+eloquence+bestowing](sarva+sāra+svata+pradam)
+[avaktavyam](avaktavyaṃ) [mahā-puṇyam](mahāpuṇyaṃ) [sarva-sārasvata-pradam](sarvasārasvatapradam)
 
 ## mukta-m0-p100-v2481
-[to-another+disciple](anya+śiṣyāya) [to-wicked](duṣṭāya) [to-slanderer](nindakāya) [of-family+seekers](kula+arthinām)
+[anya-śiṣyāya](anyaśiṣyāya) [duṣṭāya](duṣṭāya) [nindakāya](nindakāya) [kula-arthinām](kulārthinām)
 
 ## mukta-m0-p100-v2482
-[to-peaceful](śāntāya) [to-family+devoted](kula+saktāya) [to-Śākta](śāktāya) [to-family+desirer](kula+kāmine)
+[śāntāya](śāntāya) [kula-saktāya](kulasaktāya) [śāktāya](śāktāya) [kula-kāmine](kulakāmine)
 
 ## mukta-m0-p100-v2483
-[secret](guhyaṃ) [most+to-be-concealed](gopya+tamam) [to-be-concealed](gopyam) [to-be-guarded](gopanīyaṃ) [like-own+womb](sva+yoni+vat)
+[guhyam](guhyaṃ) [gopyatamam](gopyatamaṃ) [gopyam](gopyaṃ) [gopanīyam](gopanīyaṃ) [sva-yonivat](svayonivat)
 
 ## mukta-m0-p100-v2484
-[chapter](paṭalaḥ)
+[paṭalaḥ](paṭalaḥ)
 
 ## mukta-m0-p100-v2485
-[secret](rahasyaṃ) [of-me](mama) [k:]( [k:) [of-all+gods]](sarva+devānām]) [of-gods](devānām) [difficult+to-obtain](dur+labham) [of-mortals](janminām) [even](api)
+[rahasyam](rahasyaṃ) [mama](mama) [devānām](devānāṃ) [durlabham](durlabhaṃ) [janminām](janminām) [api](api)
 
 ## mukta-m0-p100-v2486
-[mantra+name+thousand](mantra+nāma+sahasraṃ) [and](ca) [of-Durgā](durgāyāḥ) [merit+giving](puṇya+dam) [supreme](param)
+[mantra-nāma-sahasram](mantranāmasahasraṃ) [ca](ca) [durgāyāḥ](durgāyāḥ) [puṇyadam](puṇyadaṃ) [param](param)
 
 ## mukta-m0-p100-v2487
-[here](iha) [enjoyer](bhogī) [in-other-world](paratra) [also](api) [living+liberated](jīvan+muktaḥ) [becomes](bhavet) [man](naraḥ)
+[iha](iha) [bhogī](bhogī) [paratrāpi](paratrāpi) [jīvanmuktaḥ](jīvanmukto) [bhaven-naraḥ](bhavennaraḥ)
 
 ## mukta-m0-p100-v2488
-[than-horse+sacrifice+ten-thousand](aśva+medha+ayutāt) [merit](puṇyaṃ) [in-world](loke) [good-fortune+increasing](saubhāgya+vardhanam)
+[aśvamedha-ayutāt](aśvamedhāyutāt) [puṇyam](puṇyaṃ) [loke](loke) [saubhāgya-vardhanam](saubhāgyavardhanam)
 
 ## mukta-m0-p100-v2489
-[secret](guhyaṃ) [most+to-be-concealed](gopya+tamam) [O-goddess](devi) [from-recitation](paṭhanāt) [success+bestowing](siddhi+dāyakam)
+[guhyam](guhyaṃ) [gopyatamam](gopyatamaṃ) [devi](devi) [paṭhanāt](paṭhanāt) [siddhi-dāyakam](siddhidāyakam)
 
 ## mukta-m0-p100-v2490
-[fierce](pracaṇḍā) [Caṇḍikā](caṇḍikā) [Caṇḍī](caṇḍī) [Caṇḍa+Muṇḍa+destroyer](caṇḍa+muṇḍa+nisūdinī)
+[pracaṇḍā](pracaṇḍā) [caṇḍikā](caṇḍikā) [caṇḍī](caṇḍī) [caṇḍa-muṇḍa-nisūdinī](caṇḍamuṇḍanisūdinī)
 
 ## mukta-m0-p100-v2491
-[dissolution](pralayā) [stability](sthitiḥ) [origin](saṃbhūtiḥ) [manifestation](vibhūtiḥ) [fear+destroyer](bhaya+nāśinī)
+[pralayā](pralayā) [sthitiḥ](sthitiḥ) [saṃbhūtiḥ](saṃbhūtir) [vibhūtiḥ](vibhūtir) [bhaya-nāśinī](bhayanāśinī)
 
 ## mukta-m0-p100-v2492
-[Madālasā](madālasā) [intoxication+lofty](mada+uttuṅgā) [wine](madirā) [love+beloved](madana+priyā)
+[madālasā](madālasā) [madottuṅgā](madottuṅgā) [madirā](madirā) [madana-priyā](madanapriyā)
 
 ## mukta-m0-p100-v2493
-[primordial+goddess](ādi+devī) [art](kalā) [lovely](kāntā) [Tripurā](tripurā) [world+sovereign](jagat+īśvarī)
+[ādi-devī](ādidevī) [kalā](kalā) [kāntā](kāntā) [tripurā](tripurā) [jagad-īśvarī](jagadīśvarī)
 
 ## mukta-m0-p100-v2494
-[river+Kadambarī](sarit+kādambarī) [Godhā](godhā) [secret+Kālī](guhya+kālī) [Gaṇa+sovereign](gaṇa+īśvarī)
+[sarit-kādambarī](saritkādambarī) [godhā](godhā) [guhya-kālī](guhyakālī) [gaṇeśvarī](gaṇeśvarī)
 
 ## mukta-m0-p100-v2495
-[austerity+consisting](tapaḥ+mayī) [difficult+support](durālamvā) [evil+planet+remover](duṣṭa+graha+nivāriṇī)
+[tapo-mayī](tapomayī) [durālamvā](durālamvā) [duṣṭa-graha-nivāriṇī](duṣṭagrahanivāriṇī)
 
 ## mukta-m0-p100-v2496
-[nectar](sudhā) [nectar+rayed+abode](sudhāṃśu+nilayā) [dissolution+fire+resembling](pralaya+anala+saṃnibhā)
+[sudhā](sudhā) [sudhāṃśu-nilayā](sudhāṃśunilayā) [pralayānala-saṃnibhā](pralayānalasaṃnibhā)
 
 ## mukta-m0-p100-v2497
-[knowledge+sovereign](vidyā+īśvarī) [universe+consisting](viśva+mayī) [cosmic-form](virāṭ) [meter](chandaḥ) [path](gatiḥ) [intellect](matiḥ)
+[vidyeśvarī](vidyeśvarī) [viśva-mayī](viśvamayī) [virāṭ](virāṭ) [chandaḥ](chando) [gatiḥ](gatiḥ) [matiḥ](matiḥ)
 
 ## mukta-m0-p100-v2498
-[most-venerable](gariṣṭhā) [misfortune+destroyer](ariṣṭa+hā) [faultless](aduṣṭā) [compassion](kṛpā) [Kāśī](kāśī) [family+non-family](kula+akulā)
+[gariṣṭhā](gariṣṭhā) [ariṣṭa-hā](ariṣṭahā) [aduṣṭā](aduṣṭā) [kṛpā](kṛpā) [kāśī](kāśī) [kula-akulā](kulākulā)
 
 ## mukta-m0-p100-v2499
-[odd+eyed](virūpa+akṣī) [hollow+eyed](koṭara+akṣī) [family+beloved](kula+kāntā) [unconquered](aparājitā)
+[virūpākṣī](virūpākṣī) [koṭarākṣī](koṭarākṣī) [kula-kāntā](kulakāntā) [parājitā](parājitā)
 
 ## mukta-m0-p100-v2500
-[triad](tritayī) [(100)]((100)) [Veda+arrangement](veda+vinyāsā) [renunciation](saṃnyāsā) [good+intellect](su+matiḥ) [fear](bhayā)
+[tritayī](tritayī) [(100)]((100)) [veda-vinyāsā](vedavinyāsā) [saṃnyāsā](saṃnyāsā) [sumatiḥ](sumatir) [bhayā](bhayā)

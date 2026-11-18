@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p178-v4426
-[arrow-seed](bāṇabījaṃ) [arrow](mārgaṇaṃ) [and](ca) [feathered-arrow](patriṇam) [swift-arrow](āśugaṃ) [likewise](tathā)
+[arrow-seed](bāṇabījaṃ) [arrow](mārgaṇaṃ) [and](ca) [winged-swift](patriṇamāśugaṃ) [so](tathā)
 
 ## mukta-m0-p178-v4427
-[night-seed](rātribījaṃ) [darkness-seed](tamībījaṃ) [darkness-seed](tāmasībījam) [indeed](eva) [and](ca)
+[night-seed](rātribījaṃ) [darkness-seed](tamībījaṃ) [dark-seed-indeed](tāmasībījameva) [and](ca)
 
 ## mukta-m0-p178-v4428
-[in-Kubjikāsarvasva](kubjikāsarvasve) [in-text](granthe) [that-seed](taṃbījaṃ) [and](ca) [by-me](mayā) [remembered](smṛtam)
+[kubjikā-all-treasure](kubjikāsarvasve) [in-treatise](granthe) [that-seed](taṃbījaṃ) [by-me](mayā) [remembered](smṛtam)
 
 ## mukta-m0-p178-v4429
-[of-thakāra](thakārasya) [by-me](mayā) [declared](khyātaṃ) [in-tantra](tantre) [indeed](vai) [in-Kulikārṇava](kulikārṇave)
+[of-tha](thakārasya) [by-me](mayā) [declared](khyātaṃ) [in-tantra](tantre) [indeed](vai) [kulikārṇava](kulikārṇave)
 
 ## mukta-m0-p178-v4430
-[serpent-seed](bhogibījaṃ) [serpent](bhujaṅgaṃ) [and](ca) [serpent](bhujaṅgamam) [thus](iti) [remembered](smṛtam)
+[snake-seed](bhogibījaṃ) [snake](bhujaṅgaṃ) [and](ca) [snake-thus](bhujaṅgamamiti) [remembered](smṛtam)
 
 ## mukta-m0-p178-v4431
-[in-Svatantra](svatantre) [O-goddess-of-gods](devadeveśi) [by-Dakṣiṇāmūrti](dakṣiṇāmūrtinā) [composed](kṛte)
+[in-own-tantra](svatantre) [goddess-of-gods](devadeveśi) [by-dakṣiṇāmūrti](dakṣiṇāmūrtinā) [made](kṛte)
 
 ## mukta-m0-p178-v4432
-[of-dhakāra](dhakārasya) [untrue](anṛtam) [other](anyat) [in-Tripurātilaka](tripurātilake) [remembered](smṛtam)
+[of-dha](dhakārasya) [falsehood-other](anṛtamanyat) [in-tripura-tilaka](tripurātilake) [remembered](smṛtam)
 
 ## mukta-m0-p178-v4433
-[boar](vārāham) [untrue](anṛtam) [other](anyat) [by-me](mayā) [declared](khyātaṃ) [O-lady-of-gods](sureśvari)
+[boar-falsehood-other-by-me](vārāhamanṛtamanyanmayā) [declared](khyātaṃ) [goddess](sureśvari)
 
 ## mukta-m0-p178-v4434
-[in-tortoise+fish-word+pervasion](kūrma+mīna+pada+vyāptau) [seed-syllable](bījārṇaṃ) [similar](sadṛśaṃ) [O-beloved](priye)
+[in-tortoise-fish-path](kūrmamīnapadavyāptau) [seed-syllable](bījārṇaṃ) [similar](sadṛśaṃ) [dear](priye)
 
 ## mukta-m0-p178-v4435
-[in-speech+extraction+subject](bhāṣaṇa+uddhāra+viṣaye) [in-writing](likhane) [nature](prakṛtiḥ) [different](pṛthak)
+[in-speech-extraction](bhāṣaṇoddhāraviṣaye) [in-writing](likhane) [nature](prakṛtiḥ) [separate](pṛthak)
 
 ## mukta-m0-p178-v4436
-[fish-seed](jhaṣabījaṃ) [by-me](mayā) [declared](ākhyātaṃ) [in-text](granthe) [in-Chinnāśiromaṇi](chinnāśiromaṇau)
+[fish-seed](jhaṣabījaṃ) [by-me-declared](mayākhyātaṃ) [in-treatise](granthe) [chinnāśiromaṇau](chinnāśiromaṇau)
 
 ## mukta-m0-p178-v4437
-[tortoise](kacchapam) [untrue](anṛtam) [other](anyat) [by-me](mayā) [declared](ākhyātaṃ) [and](ca) [O-lovely-one](bhāmini)
+[tortoise-falsehood-other-by-me-declared](kacchapamanṛtamanyanmayākhyātaṃ) [and](ca) [beautiful](bhāmini)
 
 ## mukta-m0-p178-v4438
-[wave](ūrmiḥ) [wave](vīciḥ) [likewise](tathā) [and](ca) [indeed](evaṃ) [wave](taraṅgaḥ) [triad](tritayaṃ) [remembered](smṛtam)
+[wave](ūrmir) [ripple](vīciḥ) [so](tathā) [indeed](caivaṃ) [wave-triad](taraṅgastritayaṃ) [remembered](smṛtam)
 
 ## mukta-m0-p178-v4439
-[in-Kālikākulasarvasva](kālikākulasarvasve) [by-Brahmā](brahmaṇā) [indeed](eva) [revealed](prakāśite)
+[in-kālikā-kula-all](kālikākulasarvasve) [by-brahman](brahmaṇaiva) [manifested](prakāśite)
 
 ## mukta-m0-p178-v4440
-[in-tantra](tantre) [indeed](vai) [in-Muṇḍamālā](muṇḍamālāyāṃ) [by-me](mayā) [declared](ākhyātaṃ) [O-lady-of-gods](sureśvari)
+[in-tantra](tantre) [indeed](vai) [muṇḍamālā](muṇḍamālāyāṃ) [by-me-declared](mayākhyātaṃ) [goddess](sureśvari)
 
 ## mukta-m0-p178-v4441
-[frog-seed](bhekībījaṃ) [by-me](mayā) [declared](ākhyātam) [untrue](asatyam) [other](aparaṃ) [remembered](smṛtam)
+[frog-seed](bhekībījaṃ) [by-me-declared-false-other](mayākhyātamasatyamaparaṃ) [remembered](smṛtam)
 
 ## mukta-m0-p178-v4442
-[wind-seed](vāyubījaṃ) [likewise](tathā) [O-eloquent-one](vāgmi) [talkative](vācālaṃ) [subjugation-seed](vaśyabījakam)
+[wind-seed](vāyubījaṃ) [so](tathā) [eloquent](vāgmi) [talkative](vācālaṃ) [subjugation-seed](vaśyabījakam)
 
 ## mukta-m0-p178-v4443
-[fire](agnī) [repha](rephaḥ) [and](ca) [fire](vahniḥ) [and](ca) [oblation-eater](hutabhug) [oblation-bearer](havyavāhanaḥ)
+[fire](agnī) [repha-and](rephaśca) [fire-and](vahniśca) [oblation-eater](hutabhug) [offering-carrier](havyavāhanaḥ)
 
 ## mukta-m0-p178-v4444
-[darkness-seed](tamobījaṃ) [likewise](tathā) [darkness](dhvāntaṃ) [delusion](mohaṃ) [darkness](timiram) [indeed](eva) [and](ca)
+[darkness-seed](tamobījaṃ) [so](tathā) [darkness](dhvāntaṃ) [delusion](mohaṃ) [darkness-indeed](timirameva) [and](ca)
 
 ## mukta-m0-p178-v4445
-[earth-seed](bhūbījaṃ) [earth-seed](dharaṇībījaṃ) [lakāra](lakāraṃ) [spoken](bhāṣitaṃ) [by-me](mayā)
+[earth-seed](bhūbījaṃ) [earth-seed](dharaṇībījaṃ) [la-syllable](lakāraṃ) [spoken](bhāṣitaṃ) [by-me](mayā)
 
 ## mukta-m0-p178-v4446
-[of-vakāra](vakārasya) [by-me](mayā) [declared](ākhyātaṃ) [in-tantra](tantre) [indeed](vai) [in-Vāmakeśvara](vāmakeśvare)
+[of-va](vakārasya) [by-me-declared](mayākhyātaṃ) [in-tantra](tantre) [indeed](vai) [vāmakeśvara](vāmakeśvare)
 
 ## mukta-m0-p178-v4447
-[of-śakāra](śakārasya) [by-me](mayā) [declared](ākhyātaṃ) [in-text](granthe) [in-Bhairavatantra](bhairavatantrake)
+[of-śa](śakārasya) [by-me-declared](mayākhyātaṃ) [in-treatise](granthe) [bhairava-tantra](bhairavatantrake)
 
 ## mukta-m0-p178-v4448
-[thunder-seed](hrādinībījakam) [and](ca) [indeed](eva) [untrue](asatyam) [other](aparaṃ) [remembered](smṛtam)
+[hrādinī-seed](hrādinībījakaṃ) [and-indeed-false-other](caivamasatyamaparaṃ) [remembered](smṛtam)
 
 ## mukta-m0-p178-v4449
-[power](śaktiḥ) [bliss](śarmā) [also](api) [to-be-known](vijñeye) [in-śara+śaṅka](śara+chaṅke) [likewise](tathā) [indeed](eva) [and](ca)
+[power](śaktiḥ) [comfort](śarmāpi) [to-be-known](vijñeye) [autumn-fear](śaracchaṅke) [so-indeed](tathaiva) [and](ca)
 
 ## mukta-m0-p178-v4450
-[radiance-seed](chavibījaṃ) [beauty-seed](kāntibījaṃ) [splendor](śobhā) [light](bhā) [brilliance](suṣamā) [likewise](tathā)
+[skin-seed](chavibījaṃ) [beauty-seed](kāntibījaṃ) [splendor](śobhā) [light](bhā) [excellence](suṣamā) [so](tathā)

@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p108-v2676
-[there](tatra) [indeed](eva) [dwells](vasate) [Durgā](durgā) [nine+form+natured](nava+rūpa+ātmikā) [supreme](parā)
+[there](tatra) [indeed](eva) [resides](vasate) [durga](durgā) [nine-form-possessed](navarūpātmikā) [supreme](parā)
 
 ## mukta-m0-p108-v2677
-[who](yā) [as-Durgā](durgā) [thus](iti) [remembered](smṛtā) [in-the-world](loke) [dwelling-in-the-womb-of-the-universe](brahmāṇḍa+udara+vartinī)
+[who](yā) [durga](durgeti) [remembered](smṛtā) [in-world](loke) [brahmanda-belly-dwelling](brahmāṇḍodaravartinī)
 
 ## mukta-m0-p108-v2678
-[of-Mahiṣa](mahiṣasya) [of-the-lord-of-demons](asura+indrasya) [for-the-sake-of-slaying](vadha+arthāya) [descended](avatāritā)
+[for-slaying](vadhārthāya) [mahisha-asura-lord](mahiṣasyāsurendrasya) [descended](avatāritā)
 
 ## mukta-m0-p108-v2679
-[her](tām) [indeed](eva) [day-and-night](ahar+niśaṃ) [I-meditate-on](dhyāye) [Śrīvidyā](śrīvidyāṃ) [supreme](paramāṃ) [I-recite](jape)
+[her-only](tāmeva) [day-night](aharniśaṃ) [meditate](dhyāye) [shri-vidya](śrīvidyāṃ) [supreme](paramāṃ) [chant](jape)
 
 ## mukta-m0-p108-v2680
-[whom](yāṃ) [having-heard](śrutvā) [he](sa) [Śiva](śivo) [became](jātaḥ) [consisting-of-five-sounds](pañca+nāda+ātmakaḥ) [Śiva](śivaḥ)
+[whom](yāṃ) [hearing](śrutvā) [he](sa) [shiva](śivo) [became](jātaḥ) [five-sound-essence](pañcanādātmakaḥ) [shiva](śivaḥ)
 
 ## mukta-m0-p108-v2681
-[directly](sākṣāt) [having-the-form-of-the-world](bhuvana+rūpā) [also](api) [of-the-nature-of-great-light](mahā+jyotiḥ+svarūpiṇī)
+[directly](sākṣāt) [world-form](bhuvanarūpā) [also](api) [great-light-essence](mahājyotiḥsvarūpiṇī)
 
 ## mukta-m0-p108-v2682
-[Śiva](śivaḥ) [from-the-circle-of-radiance](prabhā+maṇḍalataḥ) [emerged](nirgataḥ) [unconscious](acetanaḥ) [all-pervading](vibhuḥ)
+[shiva](śivaḥ) [from-radiance-orb](prabhāmaṇḍalato) [emerged](nirgato) [unconscious](acetano) [all-pervading](vibhuḥ)
 
 ## mukta-m0-p108-v2683
-[created](sṛṣṭaḥ) [foremost+leader-of-mantras](agra+manu+nāyakaḥ)
+[created](sṛṣṭo) [first-leader](agramanunāyakaḥ)
 
 ## mukta-m0-p108-v2684
-[Śiva](śivo) [recited](jajāpa) [suddenly](sahasā) [seed](bījaṃ) [of-the-three-worlds](tri+jagatāṃ) [O-Śivā](śive)
+[shiva](śivo) [suddenly-chanted](jajāpa) [sahasā] [bījaṃ] [three-worlds](trijagatāṃ) [shive](śive)
 
 ## mukta-m0-p108-v2685
-[abode-of-eternal-bliss](sadā+ānanda+ālayaṃ) [supreme](param)
+[eternal-bliss-abode](sadānandālayaṃ) [supreme](param)
 
 ## mukta-m0-p108-v2686
-[then](tataḥ) [sound](nādaṃ) [he](sa) [heard](śuśrāva) [free-from-impure-syllables](duṣṭa+varṇa+vivarjitam)
+[then](tato) [sound](nādaṃ) [he](sa) [heard](śuśrāva) [bad-letter-free](duṣṭavarṇavivarjitam)
 
 ## mukta-m0-p108-v2687
-[then](tataḥ) [having-recited](japtvā) [supreme](parāṃ) [knowledge](vidyām) [he-created](asṛjat) [O-mother-of-the-world](jagat+ambike)
+[then](tato) [having-chanted](japtvā) [supreme](parāṃ) [vidya](vidyām) [created](asṛjat) [world-mother](jagadambike)
 
 ## mukta-m0-p108-v2688
-[mere-will](icchā+mātraṃ) [O-Śivā](śive) [universe](viśvaṃ) [O-lady-of-the-universe](viśva+īśvari) [moving-and-unmoving](cara+acaram)
+[by-will-only](icchāmātraṃ) [shive](śive) [universe](viśvaṃ) [universe-lord](viśveśvari) [moving-immovable](carācaram)
 
 ## mukta-m0-p108-v2689
-[thus](iti) [this](imāṃ) [secret-knowledge](gupta+vidyāṃ) [indeed](tu) [having-obtained](labdhvā) [by-worship-of-the-guru's-feet](guru+pada+arcanāt)
+[thus](iti) [this](imāṃ) [secret-vidya](guptavidyāṃ) [having-obtained](labdhvā) [guru-foot-worship](gurupadārcanāt)
 
 ## mukta-m0-p108-v2690
-[garment](vastraṃ) [fire](vahniṃ) [and](ca) [desire](kāmaṃ) [and](ca) [wealth](dhanaṃ) [conduct](vṛttaṃ) [and](ca) [practitioner](sādhakaḥ)
+[cloth](vastraṃ) [fire](vahniṃ) [desire](kāmaṃ) [wealth](dhanaṃ) [conduct](vṛttaṃ) [and](ca) [sadhaka](sādhakaḥ)
 
 ## mukta-m0-p108-v2691
-[this-Śrīcakra](śrī+cakram) [this](idam) [support](ādhāraṃ) [of-the-goddess](devyā) [cause-of-power](vibhava+kāraṇam)
+[shri-chakra](śrīcakram) [this](idam) [support](ādhāraṃ) [goddess](devyā) [power-cause](vibhavakāraṇam)
 
 ## mukta-m0-p108-v2692
-[diagram](cakraṃ) [one-should-draw](likhet) [O-great-goddess](mahā+devi) [to-be-worshipped](pūjyam) [with-lotus-and-sun-petals](abja+arkayoḥ) [with-petals](dalaiḥ)
+[chakra](cakraṃ) [draw](likhet) [mahadevi](mahādevi) [worshipable](pūjyam) [lotus-sun-petals](abjārkayordalaiḥ)
 
 ## mukta-m0-p108-v2693
-[in-the-diagram](cakre) [who](yaḥ) [should-worship](saṃpūjayet) [indeed](tu) [blue-hued](nīla+ābhāṃ) [burning](dāhanīṃ) [radiance](dyutim)
+[chakra](cakre) [who-worships](saṃpūjayet) [blue](nīlābhāṃ) [burning](dāhanīṃ) [radiance](dyutim)
 
 ## mukta-m0-p108-v2694
-[shining-with-glittering-crown](lasat+mukuṭa+rociṣṇuḥ) [he](sa) [would-become](bhavet) [best-of-practitioners](sādhaka+uttamaḥ)
+[shining-crown-radiant](lasanmukuṭarociṣṇuḥ) [he](sa) [becomes](bhavet) [sadhaka-best](sādhakottamaḥ)
 
 ## mukta-m0-p108-v2695
-[O-great-goddess](maheśvari)
+[maheshvari](maheśvari)
 
 ## mukta-m0-p108-v2696
-[the-kheṭakas](kheṭakāḥ) [of-him](tasya) [are-pleased](tuṣyanti) [of-the-practitioner](sādhakasya) [by-worship-of-the-limbs](aṅga+pūjanāt)
+[weapons](kheṭakāḥ) [his](tasya) [are-pleased](tuṣyanti) [sadhaka](sādhakasya) [limb-worship](aṅgapūjanāt)
 
 ## mukta-m0-p108-v2697
-[fled](vidrutāḥ)
+[melted](vidrutāḥ)
 
 ## mukta-m0-p108-v2698
-[Durgā](durgā) [jewel-bearing](ratna+vatī) [earth](bhūmiḥ) [of-him](tasya) [seat](pīṭhaṃ) [charming](manoharam)
+[durga](durgā) [jeweled](ratnavatī) [earth](bhūmiḥ) [his](tasya) [seat](pīṭhaṃ) [charming](manoharam)
 
 ## mukta-m0-p108-v2699
-[thus](evaṃ) [one-should-meditate-on](dhyāyet) [the-great-goddess](mahā+devīṃ) [Durgā](durgāṃ) [destroyer-of-misfortune](durgati+nāśinīm)
+[thus](evaṃ) [meditate](dhyāyet) [mahadevi](mahādevīṃ) [durga](durgāṃ) [misery-destroyer](durgatināśinīm)
 
 ## mukta-m0-p108-v2700
-[not-to-be-spoken](avaktavyam) [not-to-be-given](adātavyam) [to-be-concealed](gopanīyam) [like-one's-own-womb](sva+yoni+vat)
+[unspeakable](avaktavyam) [not-givable](adātavyaṃ) [to-be-hidden](gopanīyaṃ) [like-own-womb](svayonivat)

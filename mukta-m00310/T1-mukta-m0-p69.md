@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p69-v1701
-[twelve-end+one+dwelling](dvādaśāntaikavasatir) [twelve+self](dvādaśātmā) [heaven+lord](divaspatiḥ)
+[twelve](dvādaśa)+[end](anta)+[single](eka)+[abode](vasatiḥ) [twelve](dvādaśa)+[self](ātmā) [day](divas)+[lord](patiḥ)
 
 ## mukta-m0-p69-v1702
-[difficult-to-meditate](durdhyeyo) [wicked+lineage+slayer](duṣṭavaṃśaghno) [compassion+lord](dayānātho) [compassion+overwhelmed](dayākulaḥ)
+[hard](durdhyeya)+[to-meditate](dhyeya) [evil](duṣṭa)+[lineage](vaṃśa)+[destroyer](ghna) [compassion](dayā)+[lord](nātha) [compassion](dayā)+[abode](kula)
 
 ## mukta-m0-p69-v1703
-[dharma+friend](dharmabandhur) [dharma+treasure](dharmanidhir) [dharma+king](dharmarājo) [wealth+giver](dhanapradaḥ)
+[dharma](dharma)+[friend](bandhu) [dharma](dharma)+[treasure](nidhi) [dharma](dharma)+[king](rāja) [wealth](dhana)+[giver](prada)
 
 ## mukta-m0-p69-v1704
-[matted-hair+moment+dweller](dhūrjaṭīkṣaṇavāsī) [and](ca) [dharma+field](dharmakṣetro) [earth+lord](dharādhipaḥ)
+[śiva](dhūrjaṭi)+[eye](īkṣaṇa)+[dweller](vāsī) [dharma](dharma)+[field](kṣetra) [earth](dharā)+[lord](adhipa)
 
 ## mukta-m0-p69-v1705
-[earth-bearer+beloved](dharābhṛdvallabho) [righteous](dharmī) [dha-syllable+letter+adorned](dhakārākṣarabhūṣaṇaḥ)
+[earth](dharā)+[bearer](bhṛt) [beloved](vallabha) [righteous](dharmī) [dha](dhakāra)+[letter](akṣara)+[ornament](bhūṣaṇa)
 
 ## mukta-m0-p69-v1706
-[lotus+beloved](nalinīvallabho) [pushed](nunno) [dance+maker](nāṭyakṛn) [dance+increaser](nāṭyavardhanaḥ)
+[lotus](nalina)+[beloved](vallabha) [pushed](nunna) [dance](nāṭya)+[maker](kṛt) [dance](nāṭya)+[increaser](vardhana)
 
 ## mukta-m0-p69-v1707
-[bowing+end](namanto) [bowed+enemy](namitārātir) [nara+nārāyaṇa+refuge](naranārāyaṇāśrayaḥ)
+[bowing](namanta) [enemy](arāti)+[subduer](namita) [nara-nārāyaṇa](naranārāyaṇa)+[refuge](āśraya)
 
 ## mukta-m0-p69-v1708
-[sound+form](nādarūpo) [sound+made-of](nādamayo) [sound+bindu+form](nādabindusvarūpakaḥ)
+[sound](nāda)+[form](rūpa) [sound](nāda)+[filled](maya) [sound](nāda)+[bindu](bindu)+[form](svarūpaka)
 
 ## mukta-m0-p69-v1709
-[heaven+dwelling](nākasthito) [many+body]('nekavapur) [na-syllable+letter+matrix](nakārākṣaramātṛkaḥ)
+[heaven](nāka)+[dweller](sthita) [many](aneka)+[form](vapu) [na](nakāra)+[letter](akṣara)+[mother](mātṛka)
 
 ## mukta-m0-p69-v1710
-[love+dear](prītipriyaḥ) [love+maker](premakaraḥ) [prostrated+suffering+fear+remover](praṇatārtibhayāpahaḥ)
+[love](prīti)+[dear](priya) [love](prema)+[maker](kara) [bowed](praṇata)+[suffering](ārti)+[fear](bhaya)+[remover](apaha)
 
 ## mukta-m0-p69-v1711
-[full+bliss+made-of](pūrṇānandamayaḥ) [full+splendor](pūrṇatejāḥ) [full+goddess+lord](pūrṇeśvarīśvaraḥ)
+[full](pūrṇa)+[bliss](ānanda)+[filled](maya) [full](pūrṇa)+[splendor](tejas) [full](pūrṇa)+[īśvarī](īśvarī)+[lord](īśvara)
 
 ## mukta-m0-p69-v1712
-[supreme+lord+body](parameśavapuḥ) [tall](prāṃśuḥ) [exhilarated](pramattaḥ) [prostrated+desired+giver](praṇateṣṭadaḥ)
+[supreme](parama)+[lord](īśa)+[body](vapu) [tall](prāṃśu) [intoxicated](pramatta) [bowed](praṇata)+[desired](iṣṭa)+[giver](da)
 
 ## mukta-m0-p69-v1713
-[cooker](pācanaḥ) [tamarind](piculaḥ) [scorched](pluṣṭaḥ) [delighted-woman+people+happiness+giver](pramadājanasaukhyadaḥ)
+[cooker](pācana) [sticky](picula) [burnt](pluṣṭa) [women](pramadā)+[folk](jana)+[happiness](saukhya)+[giver](da)
 
 ## mukta-m0-p69-v1714
-[fruit](phalaṃ) [enjoyment+liberation+of](bhogāpavargasya) [fruitful+lord](phalinīśaḥ) [fruit+nature](phalātmakaḥ)
+[fruit](phala) [enjoyment](bhoga)+[liberation](apavarga) [fruitful](phalinī)+[lord](īśa) [fruit](phala)+[self](ātmaka)
 
 ## mukta-m0-p69-v1715
-[child](bālo) [strength+dear](balapriyo) [restrained](bānto) [cave+darkness+remover](biladhvāntaharo) [strong](balī)
+[child](bāla) [strength](bala)+[dear](priya) [emitted](bānta) [darkness](dhvānta)+[remover](hara) [strong](balī)
 
 ## mukta-m0-p69-v1716
-[wise](budho) [bṛhaspati](bṛhaspatir) [tree](vṛkṣo) [great+horse](bṛhadaśvo) [great+course](bṛhadgatiḥ)
+[wise](budha) [bṛhaspati](bṛhaspati) [tree](vṛkṣa) [great](bṛhat)+[horse](aśva) [great](bṛhat)+[gait](gati)
 
 ## mukta-m0-p69-v1717
-[fortune](bhago) [bhṛgu](bhṛgur) [bhṛgu+abiding](bhṛgusthāyī) [descendant-of-bhṛgu](bhārgavaḥ) [poet+chief](kaviśekharaḥ)
+[bhaga](bhaga) [bhṛgu](bhṛgu) [bhṛgu](bhṛgu)+[abiding](sthāyī) [bhārgava](bhārgava) [poet](kavi)+[crest](śekhara)
 
 ## mukta-m0-p69-v1718
-[great+time](mahākālo) [great+overseer](mahādhyakṣo) [great+sound](mahānādo) [great+intellect](mahāmatiḥ)
+[great](mahā)+[time](kāla) [great](mahā)+[overseer](adhyakṣa) [great](mahā)+[sound](nāda) [great](mahā)+[mind](mati)
 
 ## mukta-m0-p69-v1719
-[honor+giver](mānado) [wrestler+slayer](mallahā) [wrestler](mallo) [meru+mandara+abode](merumandaramandiraḥ)
+[honor](māna)+[giver](da) [wrestler](malla)+[slayer](hā) [wrestler](malla) [meru](meru)+[mandara](mandara)+[abode](mandira)
 
 ## mukta-m0-p69-v1720
-[delighted](modito) [liquor+food](madirāhāro) [sun](mārtaṇḍo) [skull+adorned](muṇḍamuṇḍitaḥ)
+[delighted](modita) [wine](madirā)+[food](āhāra) [sun](mārtaṇḍa) [shaved](muṇḍa)+[shaved](muṇḍita)
 
 ## mukta-m0-p69-v1721
-[intoxication+sluggish](madālaso) [immortal+praised]('marastutyo) [murāri+boon+giver](murārivarado) [manu](manuḥ)
+[delicate](madālasa) [immortal](amara)+[praised](stutya) [murāri](murāri)+[boon](vara)+[giver](da) [manu](manu)
 
 ## mukta-m0-p69-v1722
-[garlanded](mālyavān) [nourisher](medhano) [māra](māro) [intelligent](medhāvī) [pestle+weapon](musalāyudhaḥ)
+[garlanded](mālyavān) [medhana](medhana) [kāma](māra) [wise](medhāvī) [mace](musala)+[weapon](āyudha)
 
 ## mukta-m0-p69-v1723
-[madana](madano) [sweetmeat+food](modakāhāro) [ma-syllable+letter+matrix](makārākṣaramātṛkaḥ)
+[kāma](madana) [sweet](modaka)+[food](āhāra) [ma](makāra)+[letter](akṣara)+[mother](mātṛka)
 
 ## mukta-m0-p69-v1724
-[pilgrim](yātriko) [sacrifice+fruit+giver](yajñaphalado) [goer](yāyī) [yāmala+leader](yāmalanāyakaḥ)
+[pilgrim](yātrika) [sacrifice](yajña)+[fruit](phala)+[giver](da) [goer](yāyī) [yāmala](yāmala)+[leader](nāyaka)
 
 ## mukta-m0-p69-v1725
-[staff+holder](yaṣṭidhārī) [and](ca) [instrument+lord](yantreśo) [womb+circle+middle+gone](yonimaṇḍalamadhyagaḥ)
+[staff](yaṣṭi)+[holder](dhārī) [yantra](yantra)+[lord](īśa) [womb](yoni)+[circle](maṇḍala)+[middle](madhya)+[dweller](ga)

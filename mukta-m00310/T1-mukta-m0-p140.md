@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p140-v3476
-[jhampā](jhampā) [jhiṃjha-lady](jhiṃjheśvarī) [blazing](jhāntā) [jhakāra-syllable-mother](jhakārākṣaramātṛkā)
+[jumping](jhampā) [goddess-of-jhiṃjhā](jhiṃjheśvarī) [cleansed](jhāntā) [mother-of-letter-jha](jhakārākṣaramātṛkā)
 
 ## mukta-m0-p140-v3477
-[ña-class-seed-adorned](ñavargabījabhūṣāḍhyā) [ñakāra-syllable-mother](ñakārākṣaramātṛkā)
+[seed-ornament-of-ñ-group](ñavargabījabhūṣāḍhyā) [mother-of-letter-ña](ñakārākṣaramātṛkā)
 
 ## mukta-m0-p140-v3478
-[chisel-weaponed](ṭaṅkāyudhā) [ṭalī-form](ṭalīrūpā) [ṭakāra-syllable-mother](ṭakārākṣaramātṛkā)
+[weapon-axe](ṭaṅkāyudhā) [form-of-ṭalī](ṭalīrūpā) [mother-of-letter-ṭa](ṭakārākṣaramātṛkā)
 
 ## mukta-m0-p140-v3479
-[ṭhaḥ-form](ṭhaḥsvarūpā) [ṭha-letter-endowed](ṭhavarṇāḍhyā) [ṭhakāra-syllable-mother](ṭhakārākṣaramātṛkā)
+[form-of-ṭha](ṭhaḥsvarūpā) [rich-in-ṭha-syllable](ṭhavarṇāḍhyā) [mother-of-letter-ṭha](ṭhakārākṣaramātṛkā)
 
 ## mukta-m0-p140-v3480
-[ḍhiṇī](ḍhiṇī) [ḍhehā](ḍhehā) [ḍhilla-in-hand](ḍhillahastā) [ḍhakāra-syllable-mother](ḍhakārākṣaramātṛkā)
+[ḍhiṇī](ḍhiṇī) [ḍhehā](ḍhehā) [ḍhilla-handed](ḍhillahastā) [mother-of-letter-ḍha](ḍhakārākṣaramātṛkā)
 
 ## mukta-m0-p140-v3481
-[turī](turī) [turya](turyā) [balance-form](tulārūpā) [tripurā](tripurā) [tamas-fond](tāmasapriyā)
+[turī](turī) [turyā](turyā) [form-of-tulā](tulārūpā) [tripurā](tripurā) [dear-to-tamas](tāmasapriyā)
 
 ## mukta-m0-p140-v3482
-[tripurā](tripurā) [three-guṇas](triguṇā) [to-be-meditated](dhyeyā) [tryambakeśī](tryambakeśī) [three-worlds-supporter](trilokadhṛt)
+[tripurā](tripurā) [three-guṇa](triguṇā) [meditated](dhyeyā) [three-eyed-lady](tryambakeśī) [support-of-three-worlds](trilokadhṛt)
 
 ## mukta-m0-p140-v3483
-[three-worlds-mother](trilokajananī) [protector](trātā) [tripureśvara-worshipped](tripureśvarapūjitā)
+[mother-of-three-worlds](trilokajananī) [savior](trātā) [worshipped-by-tripureśvara](tripureśvarapūjitā)
 
 ## mukta-m0-p140-v3484
-[triangle-worship-pleased](trikoṇapūjanatuṣṭā) [triangle-worship-resorting](trikoṇapūjanaśritā)
+[pleased-by-triangle-worship](trikoṇapūjanatuṣṭā) [resorted-to-triangle-worship](trikoṇapūjanaśritā)
 
 ## mukta-m0-p140-v3485
-[eight-corner-situated-goddess](vasukoṇasthitādevī) [eight-corner-meaning-speaker](vasukoṇārthavādinī)
+[goddess-standing-in-eight-corner](vasukoṇasthitādevī) [speaker-of-eight-corner-meaning](vasukoṇārthavādinī)
 
 ## mukta-m0-p140-v3486
-[serpent-petal-situated](nāgapatrasthitā) [śārī](śārī) [three-circle-worship-meaning-giver](trivṛttapūjanārthadā)
+[situated-on-snake-leaf](nāgapatrasthitā) [śārī](śārī) [giver-of-trivṛtta-worship-fruit](trivṛttapūjanārthadā)
 
 ## mukta-m0-p140-v3487
-[tāmasic](tāmasī) [hatchet-like](tomaraprakhyā) [tumburu-sound-resounding](tumburusvananādinī)
+[tamasic](tāmasī) [like-tomara](tomaraprakhyā) [sounding-tumburu](tumburusvananādinī)
 
 ## mukta-m0-p140-v3488
-[trembling-eyed](taralākṣī) [darkness-remover](tamohartrī) [tāraka-demon-slayer](tārakāsuraghātinī)
+[wave-eyed](taralākṣī) [destroyer-of-darkness](tamohartrī) [slayer-of-tāraka-asura](tārakāsuraghātinī)
 
 ## mukta-m0-p140-v3489
-[place](sthalī) [firm-form](sthavirarūpā) [and](ca) [gross](sthūlā) [vessel](sthālī) [place-lotus](sthalābjinī)
+[land](sthalī) [old-form](sthavirarūpā) [stout](sthūlā) [pot](sthālī) [lotus-land](sthalābjinī)
 
 ## mukta-m0-p140-v3490
-[messenger](dūtikā) [śiva-messenger](śivadūtī) [and](ca) [staff-weapon-holder](daṇḍāyudhadharā) [splendor](dyutiḥ)
+[messenger](dūtikā) [śiva's-messenger](śivadūtī) [holding-staff-weapon](daṇḍāyudhadharā) [radiance](dyutiḥ)
 
 ## mukta-m0-p140-v3491
-[region-wandering](deśānucāriṇī) [drekkā](drekkā) [draviḍa-lady](drāviḍeśī) [most-distant](davīyasī)
+[moving-in-regions](deśānucāriṇī) [drekka](drekkā) [drāviḍa-region](drāviḍeśī) [very-small](davīyasī)
 
 ## mukta-m0-p140-v3492
-[curd-born](dadhijā) [hard-to-attain](durlabhā) [goddess](devī) [deity](devatā) [supreme-syllable](paramākṣarā)
+[born-of-curd](dadhijā) [rare](durlabhā) [goddess](devī) [deity](devatā) [supreme-syllable](paramākṣarā)
 
 ## mukta-m0-p140-v3493
-[danu-daughter](danuputrī) [destruction](vināśā) [and](ca) [danu-son-lineage-worshipped](danuputrakulārcitā)
+[daughter-of-danu](danuputrī) [destruction](vināśā) [worshipped-by-danu's-sons](danuputrakulārcitā)
 
 ## mukta-m0-p140-v3494
-[ten-cows-form](daśadhenusurūpā) [and](ca) [dakāra-syllable-mother](dakārākṣaramātṛkā)
+[ten-cow-formed](daśadhenusurūpā) [mother-of-letter-da](dakārākṣaramātṛkā)
 
 ## mukta-m0-p140-v3495
-[steadfastness](dhṛtir) [cunning](dhūrtā) [blessed-wife](dhanyavadhūr) [dhakāra-syllable-mother](dhakārākṣaramātṛkā)
+[steadiness](dhṛtirdhūrtā) [fortunate-bride](dhanyavadhūrdhakārākṣaramātṛkā)
 
 ## mukta-m0-p140-v3496
-[kadamba-grove-middle-situated](nīpopavanamadhyasthā) [nāgara-lady](nāgareśī) [supreme-among-humans](narottamā)
+[situated-in-blue-grove](nīpopavanamadhyasthā) [city-lady](nāgareśī) [best-of-men](narottamā)
 
 ## mukta-m0-p140-v3497
-[kings-served](nṛpasevyā) [kings-adored](nṛpavandyā) [nara-nārāyaṇa-mother](naranārāyaṇaprasūḥ)
+[served-by-kings](nṛpasevyā) [honored-by-kings](nṛpavandyā) [mother-of-nara-nārāyaṇa](naranārāyaṇaprasūḥ)
 
 ## mukta-m0-p140-v3498
-[lotus-lady](padmeśvarī) [lotus-faced](padmamukhī) [leaf-vehicle](patrayānā) [higher-and-lower](parāparā)
+[lady-of-lotus](padmeśvarī) [lotus-faced](padmamukhī) [leaf-vehicle](patrayānā) [beyond-and-near](parāparā)
 
 ## mukta-m0-p140-v3499
-[city](pūḥ) [pura-enemy-wife](purārivadhūḥ) [pampā](pampā) [wife](patnī) [leaf-lord-vehicle](patrīśavāhanā)
+[city](pūḥ) [enemy's-bride](purārivadhūḥ) [pampā](pampā) [wife](patnī) [leaf-vehicle-rider](patrīśavāhanā)
 
 ## mukta-m0-p140-v3500
-[seat](pīṭhā) [seat-situated-seat](pīṭhasthitāpīṭhā) [yellow-ornament-adorned](pītālaṅkārabhūṣaṇā)
+[seat](pīṭhā) [seated-on-seat](pīṭhasthitāpīṭhā) [yellow-ornamented](pītālaṅkārabhūṣaṇā)

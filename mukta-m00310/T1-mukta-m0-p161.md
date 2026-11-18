@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p161-v4001
-[lotus-stalk](mṛṇāla)[+shining](vilasad)[+arm](bāhuḥ) [noose](pāśa)[+goad](aṅkuśa)[+bow](dhanur)[+holder](dharā)
+[lotus-stalk+shining+armed](mṛṇālavilasadbāhuḥ) [noose+goad+bow+bearing](pāśāṅkuśadhanurdharā)
 
 ## mukta-m0-p161-v4002
-[tawny](tāmra)[+lotus](paṅkaja)[+hand](pāṇi)[+splendor](śrīr) [nail](nakha)[+jewel](ratna)[+radiance](prabhā)[+possessing](vatī)
+[copper-lotus+hand+glory](tāmrapaṅkajapāṇiśrīḥ) [nail+gem+radiance+possessing](nakharatnaprabhāvatī)
 
 ## mukta-m0-p161-v4003
-[mandāra-flower](mandāra)[+pair](dvandva)[+beautiful](su)[+breasts](kucā) [hair](roma)[+line](rājī)[+serpent-like](bhujaṅgakā)
+[mandāra+pair+beautiful-breast](mandāradvandvasukucā) [hair-line+serpent](romarājībhujaṅgakā)
 
 ## mukta-m0-p161-v4004
-[tinkling](raṇat)[+girdle](kāñcī)[+string](guṇa)[+bound](unnaddhā) [silk](paṭṭāṃ)[+garment](śuka)[+beautiful](su)[+knot](nīvikā)
+[jingling+girdle+cord+tied](raṇatkāñcīguṇonnaddhā) [silk+cloth+well-girded](paṭṭāṃśukasunīvikā)
 
 ## mukta-m0-p161-v4005
-[beautiful](su)[+knee](jānu)[+mandāra](mandarā)[+clinging](sakta)[+shining](lasaj)[+leg](jaṅghā)[+pair](dvayā)[+endowed-with](nvitā)
+[beautiful-knee+mandara+attached+shining-shin+pair+possessing](sujānumandarāsaktalasajjaṅghādvayānvitā)
 
 ## mukta-m0-p161-v4006
-[yogi](yogi)[+meditatable](dhyeya)[+foot](pada)[+pair](dvandvā) [nectar](sudhā)[+consisting-of](mā')[+immortal](amṛta)[+flowing](sāriṇī)
+[yogi+meditated+foot+pair](yogidhyeyapadadvandvā) [nectar+immortal+flowing](sudhāmā'mṛtasāriṇī)
 
 ## mukta-m0-p161-v4007
-[saint](sādhu)[+accomplished](siddhā) [well](su)[+awakened](buddhā) [and](ca) [wise](budhā) [gods](vṛndāraka)[+source](udayā)
+[good+siddha+good+buddha](sādhusiddhā) [good+buddha](subuddhā) [and](ca) [buddha](budhā) [host+gods+rise](vṛndārakodayā)
 
 ## mukta-m0-p161-v4008
-[essence](rasa)[+deep](gambhīra)[+lake](sarasī)[+lotus](padminī) [essence](rasa)[+quintessence](sāra)[+being](sā)
+[rasa+deep+lake+lotus](rasagambhīrasarasīpadminī) [rasa+essence+possessing](rasasārasā)
 
 ## mukta-m0-p161-v4009
-[dancer](naṭa)[+king](rāja)[+beloved](priyā) [universe](viśva)[+dance](nāṭyā) [male-dancer](nartaka)[+female-dancer](nartakī)
+[dance-lord+beloved](naṭarājapriyā) [universe+dance](viśvanāṭyā) [dancer+dancing](nartakanartakī)
 
 ## mukta-m0-p161-v4010
-[axe](kūṭāra)[+peak](kūṭā) [peak](kūṭa)[+abiding](sthā) [five](pañca)[+peaks](kūṭā) [and](ca) [fifth](pañcamī)
+[peak+peak](kūṭārakūṭā) [peak+abiding](kūṭasthā) [five+peak](pañcakūṭā) [and](ca) [fifth](pañcamī)
 
 ## mukta-m0-p161-v4011
-[peak](kūṭa)[+sixteen](ṣoḍaśa)[+endowed-with](saṃpannā) [fourth-state](turīyā) [supreme](paramā)[+digit](kalā)
+[sixteen+syllable+endowed](kūṭaṣoḍaśasaṃpannā) [fourth](turīyā) [supreme+art](paramākalā)
 
 ## mukta-m0-p161-v4012
-[sixteen](ṣoḍaśā)[+syllables](rṇā) [three](tri)[+syllables](varṇā) [and](ca) [dot](bindu)[+sound](nāda)[+own-form](svarūpiṇī)
+[sixteen+letters](ṣoḍaśārṇā) [three+colors](trivarṇā) [and](ca) [bindu+nāda+form](bindunādasvarūpiṇī)
 
 ## mukta-m0-p161-v4013
-[consciousness](caitanya)[+creeper](vallī) [peak](kūṭā)[+self](tmā) [desire](kāme)[+goddess](śī) [dream](svapna)[+visible](dṛśya)[+going](gā)
+[consciousness+creeper](caitanyavallī) [peak+self](kūṭātmā) [desire+lady](kāmeśī) [dream+visible+going](svapnadṛśyagā)
 
 ## mukta-m0-p161-v4014
-[dream](svapnā)[+abode](śrayā) [deep-sleep](suṣuptiś)[+and](ca) [drowsiness](tandrā)[+free](muktā) [and](ca) [mādhavī](mādhavī)
+[dream+support](svapnāśrayā) [deep-sleep](suṣuptiśca) [drowsiness+freed](tandrāmuktā) [and](ca) [mādhavī](mādhavī)
 
 ## mukta-m0-p161-v4015
-[śākambharī](śākambharī) [nandi](nandi)[+knowledge](vidyā) [shining](bhāsvad)[+light](vidyota)[+garlanded](mālinī)
+[śākambharī](śākambharī) [nandi+vidyā](nandividyā) [shining+garland](bhāsvadvidyotamālinī)
 
 ## mukta-m0-p161-v4016
-[practitioner](sādhake)[+chief](ndra)[+goal](gatiḥ) [virtuous](sādhvī) [easily](su)[+attainable](labhā) [accomplishment](siddhi)[+cave](kandarā)
+[sādhaka+lord+going](sādhakendragatiḥ) [virtuous](sādhvī) [easily-obtained](sulabhā) [siddhi+cave](siddhikandarā)
 
 ## mukta-m0-p161-v4017
-[nourishment](puṣṭir)[+obstacle](vighna)[+remover](harī) [prosperity](bhūtir)[+without](vi)[+qualities](guṇā) [worshipable](pūjya)[+desire](kāma)[+milker](dhuk)
+[nourishment](puṣṭirvighnaharī) [obstacle+removing](vighnaharī) [prosperity](bhūtirviguṇā) [faultless](viguṇā) [worshipable+desire-cow](pūjyakāmadhuk)
 
 ## mukta-m0-p161-v4018
-[all](sarva)[+women](sīmantinī) [liberation](mokṣā) [initiation](dīkṣā) [initiated](dīkṣita)[+mother](mātṛkā)
+[all+parted-hair](sarvasīmantinī) [liberation](mokṣā) [initiation](dīkṣā) [initiated+mother](dīkṣitamātṛkā)
 
 ## mukta-m0-p161-v4019
-[youth](yauvano)[+intoxicating](nmādinī) [lofty](tuṅgā) [beautiful](su)[+hips](śroṇir)[+passion](mada)[+slow](mantharā)
+[youth+intoxicating](yauvanonmādinī) [tall](tuṅgā) [beautiful-hips](suśroṇirmadamantharā) [love+sluggish](madamantharā)
 
 ## mukta-m0-p161-v4020
-[red](rakta)[+garland](mālā)[+luster](ruciḥ) [crest](śikā)[+peacock](śikhaṇḍiny)[+very](ati)[+beautiful](sundarī)
+[red+garland+radiance](raktamālāruciḥ) [crest+crest-possessing+very-beautiful](śikāśikhaṇḍinyatisundarī)
 
 ## mukta-m0-p161-v4021
-[fragrant](surabhī) [desire](kāma)[+giver](dā) [desirable](kāmyā) [lovely](kamanīyā)[+object](rtha)[+desire](kāma)[+giver](dā)
+[fragrant](surabhī) [desire+giving](kāmadā) [desirable](kāmyā) [lovely+object+desire+giving](kamanīyārthakāmadā)
 
 ## mukta-m0-p161-v4022
-[cow](go)[+world](loka)[+goddess](devī) [world](loka)[+splendor](śrīr)[+cow](go)[+world](loka)[+protector](paripālikā)
+[goloka+goddess](golokadevī) [world+glory](lokaśrīḥ) [goloka+protectress](golokaparipālikā)
 
 ## mukta-m0-p161-v4023
-[rudra](rudra)[+wife](patnī) [auspicious](bhadra)[+mother](mātā) [nectar](sudhā)[+stream](dhārā')[+water](ambu)[+sprinkling](vikṣatiḥ)
+[rudra+wife](rudrapatnī) [auspicious+mother](bhadramātā) [nectar+stream+water+seeing](sudhādhārā'mbuvikṣatiḥ)
 
 ## mukta-m0-p161-v4024
-[milk](kṣīra)[+full](pūrṇā)[+ocean](rṇava)[+abode](gatiḥ) [nectar](sudhā)[+source](yoniḥ) [beautiful](su)[+eyed](locanā)
+[milk+full+ocean+going](kṣīrapūrṇārṇavagatiḥ) [nectar+womb](sudhāyoniḥ) [beautiful+eye](sulocanā)
 
 ## mukta-m0-p161-v4025
-[good](su)[+conduct](cāritrā) [beautiful](su)[+three](tri)[+cities](purā) [beautiful](su)[+breasted](stanī) [breast](stana)[+affectionate](vatsalā)
+[good+conduct](sucāritrā) [good+tripurā](sutripurā) [good+breast](sustanī) [breast+loving](stanavatsalā)

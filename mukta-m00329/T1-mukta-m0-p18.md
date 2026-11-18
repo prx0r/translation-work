@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p18-v426
-[victory](vijayaṃ) [subtle-tantra](sūkṣma+tantraṃ) [and](ca) [ray](kiraṇaṃ) [supreme-lord](parama+īśvaram)
+[victory](vijayaṃ) [subtle-tantra](sūkṣmatantraṃ) [and](ca) [ray](kiraṇaṃ) [supreme-lord](parameśvaram)
 
 ## mukta-m0-p18-v427
-[therefore](tasmāt) [collection](saṃhitā) [tantra-knower](tantra+jñaḥ) [all-rites](sarva+karmāṇi) [should-cause-to-perform](kārayet)
+[from-that](tasmāt) [saṃhitā](saṃhitā) [tantra-knower](tantrajñaḥ) [all-works](sarvakarmāṇi) [should-cause](kārayet)
 
 ## mukta-m0-p18-v428
-[of-western-door](paścima+dvāra) [of-all](sarveṣāṃ) [creation-worship](sṛṣṭi+pūjā) [here](iha) [is-taught](ucyate)
+[western-door-of-all](paścimadvārasarveṣāṃ) [creation-worship](sṛṣṭipūjā) [here-is-said](ihocyate)
 
 ## mukta-m0-p18-v429
-[to-the-south](dakṣiṇataḥ) [scripture-skilled](śāstra+kuśalaḥ) [pure](śuciḥ) [mātra-priest](mātraḥ) [indeed](tu) [should-worship](pūjayet)
+[southern](dakṣiṇataḥ) [scripture-skilled](śāstrakuśalaḥ) [pure-mother](śucirmātraḥ) [tu](tu) [should-worship](pūjayet)
 
 ## mukta-m0-p18-v430
-[should-worship](pūjayet) [of-all](sakalānāṃ) [indeed](tu) [five-time-performer](pañca+kāla+kṛtaḥ) [likewise](tathā)
+[should-worship](pūjayet) [all](sakalānāṃ) [tu](tu) [five-times-done](pañcakālakṛtaḥ) [tathā](tathā)
 
 ## mukta-m0-p18-v431
-[worshipper](pūjakaṃ) [should-worship](pūjayet) [always](nityaṃ) [adept](sādhakaṃ) [wealth-accomplishing](dravya+sādhakam)
+[worshipper](pūjakaṃ) [should-worship](pūjayet) [always](nityaṃ) [adept](sādhakaṃ) [substance-adept](dravyasādhakam)
 
 ## mukta-m0-p18-v432
-[vessel-purification](pātra+śuddhiḥ) [indeed](tu) [of-all](sarveṣāṃ) [five-purification](pañca+śodhanam) [should-perform](ācaret)
+[vessel-purity](pātraśuddhiḥ) [tu](tu) [of-all](sarveṣāṃ) [five-purification](pañcaśodhanam) [should-practice](ācaret)
 
 ## mukta-m0-p18-v433
-[in-worship-etc](arcana+ādiṣu) [intelligence](medhā) [and](ca) [western-door-adept](paścima+dvāra+sādhakaḥ)
+[in-worship-etc](arcanādiṣu) [intelligence](medhā) [ca](ca) [western-door-adept](paścimadvārasādhakaḥ)
 
 ## mukta-m0-p18-v434
-[third](tṛtīyaṃ) [vessel-purification](pātra+śuddhiḥ) [indeed](tu) [fourth](caturthaṃ) [liṅga-purification](liṅga+śuddhikam)
+[third](tṛtīyaṃ) [vessel-purity](pātraśuddhiḥ) [tu](tu) [fourth](caturthaṃ) [liṅga-purity](liṅgaśuddhikam)
 
 ## mukta-m0-p18-v435
-[worshipper](pūjakaḥ) [in-first-part-of-night](pūrva+rātrau) [indeed](tu) [celibacy](brahma+carya) [endowed-with](samanvitaḥ)
+[worshipper](pūjakaḥ) [early-night](pūrvarātrau) [tu](tu) [celibacy](brahmacarya) [endowed](samanvitaḥ)
 
 ## mukta-m0-p18-v436
-[śiva-five-syllable](śiva+pañca+akṣaraṃ) [mantra](mantraṃ) [all-sin-destroying](sarva+pāpa+praṇāśanam)
+[śiva-five-syllable](śivapañcākṣaraṃ) [mantra](mantraṃ) [all-sin-destroying](sarvapāpapraṇāśanam)
 
 ## mukta-m0-p18-v437
-[having-sipped-water](ācamya) [according-to-rule](vidhi+vat) [having-bathed](snātvā) [body-installation](deha+nyāsaṃ) [indeed](tu) [should-perform](kārayet)
+[having-sipped](ācamya) [according-to-rule](vidhivat) [having-bathed](snātvā) [body-nyāsa](dehanyāsaṃ) [tu](tu) [should-do](kārayet)
 
 ## mukta-m0-p18-v438
-[having-bowed](praṇamya) [like-a-staff](daṇḍa+vat) [on-ground](bhūmau) [should-pray](prārthayet) [with-mind](manasā) [to-śiva](śivam)
+[having-bowed](praṇamya) [staff-like](daṇḍavad) [on-earth](bhūmau) [should-pray](prārthayet) [mentally](manasā) [śiva](śivam)
 
 ## mukta-m0-p18-v439
-[āṇava-etc](āṇava+ādīn) [with-body](śarīreṇa) [should-burn](dahet) [as-far-as](yāvat) [up-to-śiva](śiva+antakam)
+[āṇava-etc](āṇāvādīn) [by-body](śarīreṇa) [should-burn](dahet) [until-head-end](yāvacchirontakam)
 
 ## mukta-m0-p18-v440
-[in-left-mouth](vāma+nāsye) [having-dismissed-that](tat+udvāsya) [likewise](tathā) [element](bhūtaṃ) [should-burn](dahet) [again](punaḥ)
+[vāma-face](vāmanāsye) [that-having-removed](tadudvāsya) [thus](tathā) [element](bhūtaṃ) [should-burn](dahet) [again](punaḥ)
 
 ## mukta-m0-p18-v441
-[moon-disk](candra+bimbaṃ) [should-visualize](smaret) [there](tatra) [on-white-lotus](śveta+padma+upari) [situated](sthitam)
+[moon-disc](candrabimbaṃ) [should-remember](smaret) [there](tatra) [white-lotus-upon](śvetapadmopari) [situated](sthitam)
 
 ## mukta-m0-p18-v442
-[on-right](dakṣiṇe) [exhalation](recakaṃ) [should-perform](kāryāt) [body-origination-cause](śarīra+utpatti+kāraṇam)
+[right](dakṣiṇe) [recaka](recakaṃ) [should-do](kāryāt) [body-origin-cause](śarīrotpattikāraṇam)
 
 ## mukta-m0-p18-v443
-[self](ātmānaṃ) [should-unite](yojayet) [wise-one](vidvān) [retention](kumbhakaṃ) [there](tatra) [concentrated](piṇḍitaḥ)
+[self](ātmānaṃ) [should-join](yojayet) [learned](vidvān) [kumbhaka](kumbhakaṃ) [there](tatra) [concentrated](piṇḍitaḥ)
 
 ## mukta-m0-p18-v444
-[then-above-situated](tataḥ+upari+sthitaṃ) [installation](nyāsaṃ) [mantra-mass](mantra+piṇḍaṃ) [in-due-order](yathā+kramam)
+[then-above-situated](tatoparisthitaṃ) [nyāsa](nyāsaṃ) [mantra-lump](mantrapiṇḍaṃ) [in-order](yathākramam)
 
 ## mukta-m0-p18-v445
-[dissolution](saṃhāraṃ) [indeed](tu) [having-abandoned](parityajya) [he](sa) [worship](pūjāṃ) [to-perform](kartum) [is-fit](arhasi)
+[dissolution](saṃhāraṃ) [tu](tu) [having-abandoned](parityajya) [he](saḥ) [worship](pūjāṃ) [should-do](kartumarhasi)
 
 ## mukta-m0-p18-v446
-[śiva-limb](śiva+aṅgaṃ) [in-right](dakṣiṇe) [hand](haste) [knowledge-limb](vidyā+aṅgaṃ) [in-left-hand](vāma+hastake)
+[śiva-limb](śivāṅgaṃ) [right](dakṣiṇe) [hand](haste) [vidyā-limb](vidyāṅgaṃ) [left-hand](vāmahastake)
 
 ## mukta-m0-p18-v447
-[śrī](śrīḥ) [and](yā) [sarasvatī](sarasvati) [and](ca) [indeed](eva) [in-palm-middle](tala+madhye) [are-declared](prakīrtitāḥ)
+[śrī](śrīḥ) [yā](yā) [sarasvatī](sarasvatī) [ca](ca) [eva](eva) [palm-middle](talamadhye) [declared](prakīrtitāḥ)
 
 ## mukta-m0-p18-v448
-[left-thumb](vāma+aṅguṣṭhaṃ) [indeed](tu) [having-placed](vinyasya) [saṃpitā](saṃpitā) [and](ca) [great](mahā) [is-called](ucyate)
+[left-thumb](vāmāṅguṣṭhaṃ) [tu](tu) [having-placed](vinyasya) [saṃpitā](saṃpitā) [ca](ca) [great](mahā) [is-said](ucyate)
 
 ## mukta-m0-p18-v449
-[from-navel-to-foot](nābhi+ādi+pāda+paryantaṃ) [knowledge-limb](vidyā+aṅgaṃ) [should-place](vinyaset) [in-order](kramāt)
+[navel-to-feet-end](nābhyādipādaparyantaṃ) [vidyā-limb](vidyāṅgaṃ) [should-place](vinyaset) [in-order](kramāt)
 
 ## mukta-m0-p18-v450
-[syllable-installation](akṣara+nyāsam) [thus](iti) [they-say](āhuḥ) [creation-installation](sṛṣṭi+nyāsam) [here](iha) [is-taught](ucyate)
+[akṣara-nyāsa](akṣaranyāsaṃ) [iti](iti) [they-say](āhuḥ) [creation-nyāsa](sṛṣṭinyāsam) [here](iha) [is-said](ucyate)
