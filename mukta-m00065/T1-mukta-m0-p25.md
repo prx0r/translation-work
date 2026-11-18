@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p25-v601
-[that+one](tadekaṃ) [place](sthāpayet) [liṅga](liṅgaṃ) [hand+from](hastāt) [foot+born](pādajam) [or](eva) [or](vā)
+[tadekaṃ](tadekaṃ) [sthāpayelliṅgaṃ](sthāpayelliṅgaṃ) [hastātpādajameva](hastātpādajameva) [vā](vā)
 
 ## mukta-m0-p25-v602
-[womb+etc](gabhādyaśo) [wealth+son+wife](rthaputrastrī) [earth](bhūr) [victory+wealth](jayo'rtho) [rubbing](ghṛṣā) [life](āyuṣī)
+[gabhādyaśo'rthaputrastrībhūrjayo'rtho](gabhādyaśo'rthaputrastrībhūrjayo'rtho) [ghṛṣāyuṣī](ghṛṣāyuṣī)
 
 ## mukta-m0-p25-v603
-[accomplishments](siddhī) [kingdom](rājyaṃ) [hands](karaiḥ) [done](kāryā) [liṅga+from](liṅgād) [tooth+born](antajāt) [thus](tathā)
+[siddhī](siddhī) [rājyaṃ](rājyaṃ) [karaiḥ](karaiḥ) [kāryā](kāryā) [liṅgādantajāttathā](liṅgādantajāttathā)
 
 ## mukta-m0-p25-v604
-[banner+etc](dhvajādyā) [by-whom](yaiḥ) [sounds](svaraiḥ) [elements](bhūtaiḥ) [peacocks](śikhibhir) [or](vā) [takes](haretkṛtī)
+[dhvajādyā](dhvajādyā) [yaiḥ](yaiḥ) [svarairbhūtaiḥ](svarairbhūtaiḥ) [śikhibhirvā](śikhibhirvā) [haretkṛtī](haretkṛtī)
 
 ## mukta-m0-p25-v605
-[banner+etc](dhvajādiṣu) [banner](dhvajaṃ) [lion](siṃhaṃ) [bull-named](vṛṣākhyaṃ) [elephant](ca) [gajaṃ) [auspicious](śubham)
+[dhvajādiṣu](dhvajādiṣu) [dhvajaṃ](dhvajaṃ) [siṃhaṃ](siṃhaṃ) [vṛṣākhyaṃ](vṛṣākhyaṃ) [ca](ca) [gajaṃ](gajaṃ) [śubham](śubham)
 
 ## mukta-m0-p25-v606
-[banner](dhvaje) [kingdom](rājyaṃ) [victory](jayaṃ) [lion](siṃhe) [bull](vṛṣe) [gain](lābhaṃ) [prosperity](śriyaṃ) [elephant](gaje)
+[dhvaje](dhvaje) [rājyaṃ](rājyaṃ) [jayaṃ](jayaṃ) [siṃhe](siṃhe) [vṛṣe](vṛṣe) [lābhaṃ](lābhaṃ) [śriyaṃ](śriyaṃ) [gaje](gaje)
 
 ## mukta-m0-p25-v607
-[crow](dhvāṅkṣeṇa) [all-destruction](sarvanāśaḥ) [be](syāt) [therefore](tasmāt) [them](tān) [avoid](parivarjayet)
+[dhvāṅkṣeṇa](dhvāṅkṣeṇa) [sarvanāśaḥ](sarvanāśaḥ) [syāttasmāttān](syāttasmāttān) [parivarjayet](parivarjayet)
 
 ## mukta-m0-p25-v608
-[lakṣmī-giving](lakṣmīprado) [be](bhavet) [ṣaḍja](ṣaḍjo) [gāndhāra](gāndhāro) [people-increase-making](janavṛddhikṛt)
+[lakṣmīprado](lakṣmīprado) [bhavet](bhavet) [ṣaḍjo](ṣaḍjo) [gāndhāro](gāndhāro) [janavṛddhikṛt](janavṛddhikṛt)
 
 ## mukta-m0-p25-v609
-[by-ṛṣabha](ṛṣabheṇa) [enemy-increase](rivṛddhiḥ) [be](syāt) [madhyama](madhyamaḥ) [son-destruction-making](sutanāśakṛt)
+[ṛṣabheṇārivṛddhiḥ](ṛṣabheṇārivṛddhiḥ) [syānmadhyamaḥ](syānmadhyamaḥ) [sutanāśakṛt](sutanāśakṛt)
 
 ## mukta-m0-p25-v610
-[elements](bhūteṣu) [earth-movers](kṣmācarāś) [others](cānye) [water+etc](toyādyāś) [inauspicious](cāśubhā) [greatly](bhṛśam)
+[bhūteṣu](bhūteṣu) [kṣmācarāścānye](kṣmācarāścānye) [toyādyāścāśubhā](toyādyāścāśubhā) [bhṛśam](bhṛśam)
 
 ## mukta-m0-p25-v611
-[with-fever](sajvaro) [burning-making](dāhakṛt) [tejas](tejo) [wind](vāyuḥ) [tu](tu) [family-destruction-making](kulanāśakṛt)
+[sajvaro](sajvaro) [dāhakṛttejo](dāhakṛttejo) [vāyustu](vāyustu) [kulanāśakṛt](kulanāśakṛt)
 
 ## mukta-m0-p25-v612
-[auspicious](śasto) [fire](gniś) [ca](cā) [āhavanīya](havanīyo) [two](dvāv) [fires](agnī) [ca](cā) [inauspicious](śubhau) [matau](matau)
+[śasto'gniścāhavanīyo](śasto'gniścāhavanīyo) [dvāvagnī](dvāvagnī) [cāśubhau](cāśubhau) [matau](matau)
 
 ## mukta-m0-p25-v613
-[maker](kartuḥ) [death-giving](mṛtyuprado) [hi](hy) [fire](gniḥ) [third](tṛtīyo) [king-fear-giving](nṛpabhītidaḥ)
+[karturmṛtyuprado](karturmṛtyuprado) [hyagnistṛtīyo](hyagnistṛtīyo) [nṛpabhītidaḥ](nṛpabhītidaḥ)
 
 ## mukta-m0-p25-v614
-[six](ṣaḍ) [vā](vā) [that-portion](tadāyabhāgaṃ) [tu](tu) [making](kṛtvā) [one](ekaṃ) [contract](saṃkṣiped) [best](varam)
+[ṣaḍvā](ṣaḍvā) [tadāyabhāgaṃ](tadāyabhāgaṃ) [tu](tu) [kṛtvaikaṃ](kṛtvaikaṃ) [saṃkṣipedvaram](saṃkṣipedvaram)
 
 ## mukta-m0-p25-v615
-[portion-lord](bhāgeśa) [ca](cā) [api](apy) [non-lord](anīśaṃ) [ca](ca) [Jupiter](devejyaṃ) [equal-named](tulyasaṃjñakam)
+[bhāgeśa](bhāgeśa) [cāpyanīśaṃ](cāpyanīśaṃ) [ca](ca) [devejyaṃ](devejyaṃ) [tulyasaṃjñakam](tulyasaṃjñakam)
 
 ## mukta-m0-p25-v616
-[length](dairghyaṃ) [māyā-joined](māyānvitaṃ) [making](kṛtvā) [liṅga](liṅgaṃ) [make](kuryāt) [three-formed](trirūpakam)
+[dairghyaṃ](dairghyaṃ) [māyānvitaṃ](māyānvitaṃ) [kṛtvā](kṛtvā) [liṅgaṃ](liṅgaṃ) [kuryāttrirūpakam](kuryāttrirūpakam)
 
 ## mukta-m0-p25-v617
-[spoken](uktāyām) [asya](asya) [ca](cā) [half-portion](ardhāṃśe) [nāga-portions](nāgāṃśai) [rbhāṃjite](rbhāṃjite) [in-order](kramāt)
+[uktāyāmasya](uktāyāmasya) [cārdhāṃśe](cārdhāṃśe) [nāgāṃśai](nāgāṃśai) [rbhāṃjite](rbhāṃjite) [kramāt](kramāt)
 
 ## mukta-m0-p25-v618
-[first](ādyā) [non-first](anādya) [surā-jupiter-named](surejyāhva) [equal](tulyānāṃ) [squareness](caturasratā)
+[ādyānādyasurejyāhva](ādyānādyasurejyāhva) [tulyānāṃ](tulyānāṃ) [caturasratā](caturasratā)
 
 ## mukta-m0-p25-v619
-[two-fold](dvidhā) [division](bhedāt) [many](bahūny) [atra](atra) [will-be-spoken](vakṣyante) [universal-opinion](viśvakamataḥ)
+[dvidhā](dvidhā) [bhedādbahūnyatra](bhedādbahūnyatra) [vakṣyante](vakṣyante) [viśvakamataḥ](viśvakamataḥ)
 
 ## mukta-m0-p25-v620
-[three-fold](tridhā) [hand](hastāt) [jīva-named](jivākhyaṃ) [ca](ca) [joined](yuktaṃ) [all-equal](sarvasamena) [ca](ca)
+[tridhā](tridhā) [hastājjivākhyaṃ](hastājjivākhyaṃ) [ca](ca) [yuktaṃ](yuktaṃ) [sarvasamena](sarvasamena) [ca](ca)
 
 ## mukta-m0-p25-v621
-[five](pañca) [seventy](saptatiḥ) [one-ness](ekatvāt) [jina-devoted](jinaibhaktaṃ) [bhavanti](bhavanti) [hi](hi)
+[pañca](pañca) [saptatirekatvājjinaibhaktaṃbhavanti](saptatirekatvājjinaibhaktaṃbhavanti) [hi](hi)
 
 ## mukta-m0-p25-v622
-[thus](evam) [finger-increase](aṅgulavṛddhyā) [ca](ca) [nine-one-hand-womb](navaikakaragarbhataḥ)
+[evamaṅgulavṛddhyā](evamaṅgulavṛddhyā) [ca](ca) [navaikakaragarbhataḥ](navaikakaragarbhataḥ)
 
 ## mukta-m0-p25-v623
-[expansion](vistāraṃ) [seven-fold](saptadhā) [making](kṛtvā) [place](sthāpyaṃ) [vā](vā) [middle](madhyataḥ) [three](trayam)
+[vistāraṃ](vistāraṃ) [saptadhā](saptadhā) [kṛtvā](kṛtvā) [sthāpyaṃ](sthāpyaṃ) [vā](vā) [madhyatastrayam](madhyatastrayam)
 
 ## mukta-m0-p25-v624
-[one-one-portion](ekaikāṃśaṃ) [quarter](caturbhāgaṃ) [corner-decrease](koṇahrāsaṃ) [two-portion](dvibhāgataḥ)
+[ekaikāṃśaṃ](ekaikāṃśaṃ) [caturbhāgaṃ](caturbhāgaṃ) [koṇahrāsaṃ](koṇahrāsaṃ) [dvibhāgataḥ](dvibhāgataḥ)
 
 ## mukta-m0-p25-v625
-[that-one-one](tadekaikaṃ) [yuga](yugaṃ) [making](kṛtvā) [one-one-portion](ekaikāṃśaṃ) [gather](samāharet)
+[tadekaikaṃ](tadekaikaṃ) [yugaṃ](yugaṃ) [kṛtvā](kṛtvā) [ekaikāṃśaṃ](ekaikāṃśaṃ) [samāharet](samāharet)
