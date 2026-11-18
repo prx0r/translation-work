@@ -11,7 +11,7 @@
 "quick_gloss": "by-guru-instruction"
 },
 {
-"surface": "kuryāj",
+"surface": "kuryāt",
 "quick_gloss": "should-do"
 },
 {
@@ -20,7 +20,7 @@
 },
 {
 "surface": "pūjāmaharniśam",
-"quick_gloss": "worship-day-night"
+"quick_gloss": "worship-day-and-night"
 }
 ]
 },
@@ -33,11 +33,11 @@
 "tokens": [
 {
 "surface": "gurumabhyarcya",
-"quick_gloss": "having-worshipped-guru"
+"quick_gloss": "worship-guru"
 },
 {
 "surface": "saṃprārthya",
-"quick_gloss": "having-prayed"
+"quick_gloss": "request"
 },
 {
 "surface": "śaktidīkṣārtham",
@@ -66,7 +66,7 @@
 },
 {
 "surface": "tasya",
-"quick_gloss": "of-him"
+"quick_gloss": "his"
 },
 {
 "surface": "vidyā",
@@ -90,8 +90,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "śiṣyastriyaṃ",
-"quick_gloss": "disciple-woman"
+"surface": "śiṣyaḥ",
+"quick_gloss": "disciple"
+},
+{
+"surface": "striyaṃ",
+"quick_gloss": "woman"
 },
 {
 "surface": "parārūpāṃ",
@@ -149,19 +153,23 @@
 "tokens": [
 {
 "surface": "upaviśya",
-"quick_gloss": "having-sat"
+"quick_gloss": "sitting"
 },
 {
-"surface": "gurustatra",
-"quick_gloss": "guru-there"
+"surface": "guruḥ",
+"quick_gloss": "guru"
+},
+{
+"surface": "tatra",
+"quick_gloss": "there"
 },
 {
 "surface": "paścimābhimukhaḥ",
-"quick_gloss": "west-facing"
+"quick_gloss": "facing-west"
 },
 {
 "surface": "śive",
-"quick_gloss": "O-Śiva"
+"quick_gloss": "O-Śivā"
 }
 ]
 },
@@ -178,7 +186,7 @@
 },
 {
 "surface": "saṃpūjya",
-"quick_gloss": "having-worshipped"
+"quick_gloss": "worship"
 },
 {
 "surface": "deveśi",
@@ -190,7 +198,7 @@
 },
 {
 "surface": "devatāgṛhe",
-"quick_gloss": "in-deity-house"
+"quick_gloss": "in-temple"
 }
 ]
 },
@@ -206,7 +214,7 @@
 "quick_gloss": "having-obtained"
 },
 {
-"surface": "saśivāṃ vidyāṃ",
+"surface": "saśivāṃ+vidyāṃ",
 "quick_gloss": "with-Śiva-vidyā"
 },
 {
@@ -236,15 +244,15 @@
 },
 {
 "surface": "śirasādāya",
-"quick_gloss": "taking-on-head"
+"quick_gloss": "on-head-taking"
 },
 {
 "surface": "japaṃ",
 "quick_gloss": "japa"
 },
 {
-"surface": "kuryāttu",
-"quick_gloss": "should-do-indeed"
+"surface": "kuryāt",
+"quick_gloss": "should-do"
 },
 {
 "surface": "sarvadā",
@@ -260,12 +268,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "martyo'pi",
-"quick_gloss": "mortal-even"
+"surface": "martyaḥ",
+"quick_gloss": "mortal"
 },
 {
-"surface": "sañchive jantuḥ",
-"quick_gloss": "living-being-with-Śiva"
+"surface": "api",
+"quick_gloss": "even"
+},
+{
+"surface": "sañchive",
+"quick_gloss": "with-Śiva"
+},
+{
+"surface": "jantuḥ",
+"quick_gloss": "creature"
 },
 {
 "surface": "amaratvam",
@@ -285,12 +301,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "sa śyāmā",
-"quick_gloss": "she-Śyāmā"
+"surface": "sa",
+"quick_gloss": "she"
 },
 {
-"surface": "sa śivā",
-"quick_gloss": "she-Śivā"
+"surface": "śyāmā",
+"quick_gloss": "Śyāmā"
+},
+{
+"surface": "sa",
+"quick_gloss": "she"
+},
+{
+"surface": "śivā",
+"quick_gloss": "Śivā"
 },
 {
 "surface": "devi",
@@ -298,14 +322,14 @@
 },
 {
 "surface": "vaśyaṃ",
-"quick_gloss": "subjection"
+"quick_gloss": "subjugated"
 },
 {
 "surface": "tasya",
-"quick_gloss": "of-him"
+"quick_gloss": "his"
 },
 {
-"surface": "jagat trayam",
+"surface": "jagat+trayam",
 "quick_gloss": "three-worlds"
 }
 ]
@@ -318,7 +342,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "dīkṣāvidher",
+"surface": "dīkṣāvidheḥ",
 "quick_gloss": "of-initiation-rite"
 },
 {
@@ -347,8 +371,16 @@
 "quick_gloss": "of-goddesses"
 },
 {
-"surface": "vaiṣṇavāñchāktāñchaivāṃs",
-"quick_gloss": "Vaiṣṇava-Śākta-etc"
+"surface": "vaiṣṇavān",
+"quick_gloss": "Vaiṣṇava"
+},
+{
+"surface": "śāktān",
+"quick_gloss": "Śākta"
+},
+{
+"surface": "ca+evān",
+"quick_gloss": "and-also"
 },
 {
 "surface": "tvaṃ",
@@ -360,7 +392,7 @@
 },
 {
 "surface": "pārvati",
-"quick_gloss": "O-Pārvatī"
+"quick_gloss": "Pārvatī"
 }
 ]
 },
@@ -438,8 +470,12 @@
 "quick_gloss": "and"
 },
 {
-"surface": "kālarātriśca",
+"surface": "kālarātriḥ",
 "quick_gloss": "Kālarātri"
+},
+{
+"surface": "ca",
+"quick_gloss": "and"
 },
 {
 "surface": "bhavānī",
@@ -475,8 +511,12 @@
 "quick_gloss": "of-śaktis"
 },
 {
-"surface": "vacmyahaṃ",
+"surface": "vacmi",
 "quick_gloss": "I-speak"
+},
+{
+"surface": "ahaṃ",
+"quick_gloss": "I"
 },
 {
 "surface": "manūn",
@@ -492,16 +532,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "mṛtyuñjayo",
+"surface": "mṛtyuñjayaḥ",
 "quick_gloss": "Mṛtyuñjaya"
 },
 {
-"surface": "amṛteśāno",
+"surface": "amṛteśānaḥ",
 "quick_gloss": "Amṛteśāna"
 },
 {
-"surface": "vaṭuko'pi",
+"surface": "vaṭukaḥ",
 "quick_gloss": "Vaṭuka"
+},
+{
+"surface": "api",
+"quick_gloss": "even"
 },
 {
 "surface": "maheśvaraḥ",
@@ -517,7 +561,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "vikarālo",
+"surface": "vikarālaḥ",
 "quick_gloss": "Vikarāla"
 },
 {
@@ -529,7 +573,7 @@
 "quick_gloss": "Śarva"
 },
 {
-"surface": "paśupatirmṛḍaḥ?",
+"surface": "paśupatiḥ",
 "quick_gloss": "Paśupati"
 },
 {
@@ -550,8 +594,12 @@
 "quick_gloss": "Kumāra"
 },
 {
-"surface": "krodhanaśceśaḥ",
+"surface": "krodhanaḥ",
 "quick_gloss": "Krodhana"
+},
+{
+"surface": "ca+īśaḥ",
+"quick_gloss": "and-Īśa"
 },
 {
 "surface": "kapālī",
@@ -559,7 +607,7 @@
 },
 {
 "surface": "krūrabhairavaḥ",
-"quick_gloss": "Krūrabhairava"
+"quick_gloss": "Krūra-Bhairava"
 }
 ]
 },
@@ -571,15 +619,19 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "aghoraśca",
+"surface": "aghoraḥ",
 "quick_gloss": "Aghora"
+},
+{
+"surface": "ca",
+"quick_gloss": "and"
 },
 {
 "surface": "mahākālaḥ",
 "quick_gloss": "Mahākāla"
 },
 {
-"surface": "kāmeśvara",
+"surface": "kāmeśvaraḥ",
 "quick_gloss": "Kāmeśvara"
 },
 {
@@ -605,7 +657,7 @@
 },
 {
 "surface": "śravaṇamātreṇa",
-"quick_gloss": "by-mere-hearing"
+"quick_gloss": "by-hearing-alone"
 },
 {
 "surface": "mantrī",
@@ -633,8 +685,12 @@
 "quick_gloss": "Varāha"
 },
 {
-"surface": "jāmadagnyaśca",
+"surface": "jāmadagnyaḥ",
 "quick_gloss": "Jāmadagnya"
+},
+{
+"surface": "ca",
+"quick_gloss": "and"
 },
 {
 "surface": "sītārāmo",
@@ -659,7 +715,7 @@
 },
 {
 "surface": "atyuttamāḥ",
-"quick_gloss": "excellent"
+"quick_gloss": "most-excellent"
 },
 {
 "surface": "devi",
