@@ -44,34 +44,34 @@
 [as](yathā) [Arjuna-ness](dhanaṃjayatvaṃ) [not](na) [may-manifest](āvirbhūyāt) [unartificial](akṛtrimam)
 
 ## mukta-m0-p105-v2615
-[victory-increaser](jayavardhinī)
+[victory-increasing](jayavardhinī)
 
 ## mukta-m0-p105-v2616
-[if](yadi) [would-be](syāt) [always](sarvadā) [truth](satyaṃ) [companion](sahāyā) [victory-increaser](jayavardhinī)
+[if](yadi) [would-be](syāt) [always](sarvadā) [truth](satyaṃ) [companion](sahāyā) [victory-increasing](jayavardhinī)
 
 ## mukta-m0-p105-v2617
-[fortune-auspicious-form](saubhāgyasubhagākārā)
+[auspicious-fortunate-form](saubhāgyasubhagākārā)
 
 ## mukta-m0-p105-v2618
-[within-Kārevā](kārevāntargataṃ) [mind](cittaṃ) [immovable](niścalaṃ) [makes](vidadhāti) [who](yā)
+[in-cave-within](kārevāntargataṃ) [mind](cittaṃ) [immovable](niścalaṃ) [makes](vidadhāti) [who](yā)
 
 ## mukta-m0-p105-v2619
-[all-fortune-increaser](sarvasaubhāgyavardhinī)
+[all-auspicious-increasing](sarvasaubhāgyavardhinī)
 
 ## mukta-m0-p105-v2620
-[companion](sahāyā) [always](sarvadā) [may-she-be](sāstu) [all-fortune-increaser](sarvasaubhāgyavardhinī)
+[companion](sahāyā) [always](sarvadā) [she-may-be](sāstu) [all-auspicious-increasing](sarvasaubhāgyavardhinī)
 
 ## mukta-m0-p105-v2621
-[welfare-doer](kṣemaṅkarī)
+[welfare-doing](kṣemaṅkarī)
 
 ## mukta-m0-p105-v2622
-[today-I-am](adyāsmi) [happiness-possessor](sukhabhāk) [immediately](sadyo) [seen](dṛṣṭā) [welfare-doer](kṣemaṅkarī) [when](yadā)
+[today-I-am](adyāsmi) [happiness-partaker](sukhabhāk) [immediately](sadyo) [seen](dṛṣṭā) [welfare-doing](kṣemaṅkarī) [when](yadā)
 
 ## mukta-m0-p105-v2623
-[success-form](siddhirūpā)
+[accomplishment-form](siddhirūpā)
 
 ## mukta-m0-p105-v2624
-[otherwise-all-success-lord](anyathākhilasiddhīśaḥ) [how](kathaṃ) [would-I-be](syāṃ) [self-success-from](svātmasiddhitaḥ)
+[otherwise](anyathā) [all-accomplishments-lord](akhilasiddhīśaḥ) [how](kathaṃ) [would-I-be](syāṃ) [self-accomplishment-from](svātmasiddhitaḥ)
 
 ## mukta-m0-p105-v2625
 [good-fame](satkīrtiḥ)

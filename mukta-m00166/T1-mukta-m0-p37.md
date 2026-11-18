@@ -8,22 +8,22 @@
 [candrabhāgā](candrabhāgā)
 
 ## mukta-m0-p37-v903
-[yuṣmān](yuṣmān) [mahā+bhāga+tayā](mahābhāgatayā) [yunaktu](yunaktu)
+[yuṣmān](yuṣmān) [mahā+bhāgatayā](mahābhāgatayā) [yunaktu](yunaktu)
 
 ## mukta-m0-p37-v904
 [kauśikī](kauśikī)
 
 ## mukta-m0-p37-v905
-[vitaratu](vitaratu) [vara+kośaṃ](varakośaṃ) [kauśikī](kauśikī) [suprakāśā](suprakāśā)
+[vitaratu](vitaratu) [vara+kośaṃ](varakośaṃ) [kauśikī](kauśikī) [su+prakāśā](suprakāśā)
 
 ## mukta-m0-p37-v906
 [gaṇḍakī](gaṇḍakī)
 
 ## mukta-m0-p37-v907
-[p](p) [132](132) [śuciḥ](śuciḥ)
+[p.-132](p. 132)) [śuciḥ](śuciḥ)
 
 ## mukta-m0-p37-v908
-[rucirā](rucirā) [asucirāt](asucirād) [astu](astu) [śuciḥ](śuciḥ) [sva+ākāraṇa+arthakṛt](svākāraṇārthakṛt)
+[rucirā](rucirā) [a+sucirāt](asucirād) [astu](astu) [śuciḥ](śuciḥ) [sva+ākāraṇa+artha+kṛt](svākāraṇārthakṛt)
 
 ## mukta-m0-p37-v909
 [narmadā](narmadā)
@@ -35,43 +35,43 @@
 [karmanāśā](karmanāśā)
 
 ## mukta-m0-p37-v912
-[naiṣkarmyam](naiṣkarmyameṣā) [eṣā](eṣā) [kila](kila) [karmanāśā](karmanāśā)
+[naiṣkarmyam+eṣā](naiṣkarmyameṣā) [kila](kila) [karmanāśā](karmanāśā)
 
 ## mukta-m0-p37-v913
 [carmaṇvatī](carmaṇvatī)
 
 ## mukta-m0-p37-v914
-[carmaṇvatī](carmaṇvatī) [sadā](sadā) [bhūyāt](bhūyāccarmadṛṣṭiharā) [carmadṛṣṭiharā](carmadṛṣṭiharā) [tava](tava)
+[carmaṇvatī](carmaṇvatī) [sadā](sadā) [bhūyāt+carmadṛṣṭiharā](bhūyāccarmadṛṣṭiharā) [tava](tava)
 
 ## mukta-m0-p37-v915
 [devikā](devikā)
 
 ## mukta-m0-p37-v916
-[brahmādikādhikā](brahmādikādhikā) [devī](devī) [devikā](devikā) [devaviśrutā](devaviśrutā)
+[brahmādi+kādhikā](brahmādikādhikā) [devī](devī) [devikā](devikā) [deva+viśrutā](devaviśrutā)
 
 ## mukta-m0-p37-v917
-[p](p) [133](133) [vetravatī](vetravatī)
+[p.-133](p. 133)) [vetravatī](vetravatī)
 
 ## mukta-m0-p37-v918
-[trivetradhāribhir](trivetradhāribhirgītā) [gītā](gītā) [bhaved](bhaved) [vetravatī](vetravatī) [śivā](śivā)
+[tri+vetra+dhāribhiḥ+gītā](trivetradhāribhirgītā) [bhaved](bhaved) [vetravatī](vetravatī) [śivā](śivā)
 
 ## mukta-m0-p37-v919
 [vitastā](vitastā)
 
 ## mukta-m0-p37-v920
-[saṃjīvayantyadbhutajīvanasya](saṃjīvayantyadbhutajīvanasya) [dhyānāt](dhyānādapīyaṃ) [apīyaṃ](apīyaṃ) [sukhadā](sukhadā) [vitastā](vitastā)
+[saṃjīvayanti+adbhuta+jīvanasya](saṃjīvayantyadbhutajīvanasya) [dhyānāt+api+iyaṃ](dhyānādapīyaṃ) [sukhadā](sukhadā) [vitastā](vitastā)
 
 ## mukta-m0-p37-v921
 [varadā](varadā)
 
 ## mukta-m0-p37-v922
-[varadā](varadeti) [iti](iti) [kathaṃ](kathaṃ) [gītā](gītā) [varadhībhir](varadhībhirvareśvarī) [vareśvarī](vareśvarī)
+[varadā+iti](varadeti) [kathaṃ](kathaṃ) [gītā](gītā) [vara+dhībhiḥ+vareśvarī](varadhībhirvareśvarī)
 
 ## mukta-m0-p37-v923
 [naravāhanā](naravāhanā)
 
 ## mukta-m0-p37-v924
-[naravāhanasaṃślāghyā](naravāhanasaṃślāghyā) [śriye](śriye) [astu](astu) [naravāhanā](naravāhanā)
+[nara+vāhana+saṃślāghyā](naravāhanasaṃślāghyā) [śriye+astu](śriye'stu) [naravāhanā](naravāhanā)
 
 ## mukta-m0-p37-v925
 [satī](satī)

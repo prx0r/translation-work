@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p39-v951
-[war](yuddha)+[desiring](kāṃkṣiṇī)
+war-desiring(yuddhakāṃkṣiṇī)
 
 ## mukta-m0-p39-v952
-[they-would-abandon](tyajeyuḥ)+[you](tvam)+[if-not](na+cen)+[fainting-causer](mūrcchā+kartrī)+[war-desiring](yuddha+kāṃkṣiṇī)
+would-abandon(tyajeyuḥ) you(tvam) not(na) if(cet) fainting-causing(mūrcchākartrī) be(syā) war-desiring(yuddhakāṃkṣiṇī)
 
 ## mukta-m0-p39-v953
-[bannered-one](patākinī)
+bannered(patākinī)
 
 ## mukta-m0-p39-v954
-[stability](sthitiṃ)+[for-welfare](hitāya)+[may-be](astu)+[bannered-one](patākinī)+[she](sā)
+state(sthitiṃ) for-welfare(hitāya) let-it-be(astu) bannered(patākinī) she(sā)
 
 ## mukta-m0-p39-v955
-[compassion-beginning](dayā+ārambhā)
+page(p.) 136) compassion-beginning(dayārambhā)
 
 ## mukta-m0-p39-v956
-[truth](satyaṃ)+[she-indeed](sā+eva)+[compassion-beginning](dayā+ārambhā)+[honored-three-worlds](sambhāvita+jagat+trayī)
+truth(satyaṃ) she(sa) indeed(eva) compassion-beginning(dayārambhā) honored(sambhāvitā) three-worlds(jagattrayī)
 
 ## mukta-m0-p39-v957
-[vīṇā-five-favored](vipañcī+pañcama+priyā)
+vīṇā-five-fifth-beloved(vipaṇcīpañcamapriyā)
 
 ## mukta-m0-p39-v958
-[how](kathaṃ)+[would-be](syuḥ)+[if-not](syāt+na+ced)+[goddess](devī)+[vīṇā-five-favored](vipañcī+pañcama+priyā)
+how(kathaṃ) would-be(syuḥ) be(syāt) not(na) if(ced) goddess(devī) vīṇā-five-fifth-beloved(vipaṇcīpañcamapriyā)
 
 ## mukta-m0-p39-v959
-[supreme-inferior-art-loved](parā+apara+kalā+kāntā)
+transcendent-immanent-art-beloved(parāparakalākāntā)
 
 ## mukta-m0-p39-v960
-[supreme-inferior-art-loved](parā+apara+kalā+kāntā)+[she](sā)+[mine](mama)+[may-be](astu)+[before](agrataḥ)+[always](sadā)
+transcendent-immanent-art-beloved(parāparakalākāntā) she(sā) to-me(mama) be(astu) before(agrataḥ) always(sadā)
 
 ## mukta-m0-p39-v961
-[three-powers](tri+śaktiḥ)
+three-powers(triśaktiḥ)
 
 ## mukta-m0-p39-v962
-[in-whom](yeṣu)+[three-powers](tri+śaktiḥ)+[indeed](kila)+[very-pleased](su+prasannā)
+in-whom(yeṣu) three-powers(triśaktiḥ) indeed(kila) very-pleased(suprasannā)
 
 ## mukta-m0-p39-v963
-[liberation-giving](mokṣa+dāyinī)
+liberation-giving(mokṣadāyinī)
 
 ## mukta-m0-p39-v964
-[alas](vata)+[whose](yasya)+[O-goddess](īśvari)+[liberation-giving](mokṣa+dāyinī)+[you](tvam)
+alas(vata) whose(yasya) O-goddess(īśvarī) liberation-giving(mokṣadāyinī) you(tvam)
 
 ## mukta-m0-p39-v965
-[indra's-power](aindrī)
+page(p.) 137) indra-power(aindrī)
 
 ## mukta-m0-p39-v966
-[water-removal](jala+tvat+ūrīkaraṇena)+[may-be](bhūyāt)+[indra's-power](aindrī)+[elephant-lord-mounted](gajendra+upari+gā)+[for-prosperity](śriye)+[our](naḥ)
+by-water-removal(jalatvadūrīkaraṇena) may-become(bhūyāt) indra-power(aindrī) on-elephant-lord(aindrī? no) for-prosperity(śriye) to-us(naḥ)
 
 ## mukta-m0-p39-v967
-[maheśvara's-power](māheśvarī)
+śiva-power(māheśvarī)
 
 ## mukta-m0-p39-v968
-[nevertheless](tathāpi)+[trident-bearer](śūlī)+[supreme-lord](parameśvaraḥ)+[his](tan)+[maheśvara's-power-service-born](māheśvarī+sevana+jaḥ)+[grace](prasādaḥ)
+still(tathāpi) trident-bearer(śūlī) supreme-lord(parameśvaraḥ) that(māheśvarī) service-born(sevanajaḥ) grace(prasādaḥ)
 
 ## mukta-m0-p39-v969
-[brahma's-power](brāhmī)
+brahma-power(brāhmī)
 
 ## mukta-m0-p39-v970
-[brahma's-power](brāhmī)+[may-be](bhūyāt)+[always](sadā)+[goddess](devī)+[brahma-creation-sole-witness](brahma+sṛṣṭi+eka+sākṣiṇī)
+brahma-power(brāhmī) may-be(bhūyāt) always(sadā) goddess(devī) brahma-creation-witness(brahmasṛṣṭyekasākṣiṇī)
 
 ## mukta-m0-p39-v971
-[kumāra's-power](kaumārī)
+kumāra-power(kaumārī)
 
 ## mukta-m0-p39-v972
-[boy-stealing](kumāra+hāriṇī)+[may-be](bhūyāt)+[kumāra's-power](kaumārī)+[death-fear-removing](māra+bhīti+hṛt)
+youth-seizing(kumārahāriṇī) may-be(bhūyāt) kumāra-power(kaumārī) fear-removing(mārabhītihṛt)
 
 ## mukta-m0-p39-v973
-[clan-dwelling](kula+vāsinī)
+clan-dwelling(kulavāsinī)
 
 ## mukta-m0-p39-v974
-[auspicious-giving](śiva+dā)+[may-it-be](stāt)+[clan-dwelling](kula+vāsinī)+[always](sadā)+[our](naḥ)
+auspicious-giving(śivadā) may-she-be(stāt) clan-dwelling(kulavāsinī) always(sadā) to-us(naḥ)
 
 ## mukta-m0-p39-v975
-[desire](icchā)
+desire(icchā)
