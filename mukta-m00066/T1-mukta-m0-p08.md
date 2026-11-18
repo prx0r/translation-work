@@ -2,43 +2,43 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p08-v176
-[pūtanā](pūtanā) [śakaṭa](śakaṭa) [ādīnāṃ](ādīnāṃ) [yamala](yamala) [arjuna](arjunayorapi)
+[pūtanā](pūtanā) [śakaṭa](śakaṭa) [ādi](ādīnāṃ) [yamala](yamala) [arjuna](arjunayoḥ) [api](api)
 
 ## mukta-m0-p08-v177
 [govardhana](govarddhanasya) [uddharaṇe](uddharaṇe) [tathā](tathā) [kālīya](kālīya) [mardane](mardane)
 
 ## mukta-m0-p08-v178
-[tena](teneṃdrāyopadiṣṭeyaṃ) [indra](indra) [upadiṣṭā](upadiṣṭeyaṃ) [vidyā](vidyā) [saubhāgya](saubhāgya) [dāyinī](dāyinī)
+[tena](tena) [indrāya](indrāya) [upadiṣṭā](upadiṣṭeyaṃ) [vidyā](vidyā) [saubhāgya](saubhāgya) [dāyinī](dāyinī)
 
 ## mukta-m0-p08-v179
-[evaṃ](evaṃ) [smareṣu](smareṣu) [sarvatra](sarvatra) [sura](sura) [dvāra](dvāra) [nareṣu](nareṣu) [ca](ca)
+[evaṃ](evaṃ) [smareṣu](smareṣu) [sarvatra](sarvatra) [sura](sura) [dvāra](dvāra) [narāsu](nareṣu) [ca](ca)
 
 ## mukta-m0-p08-v180
-[sarva](sarva) [siddhi](siddhi) [karī](karī) [sarva](sarva) [pāpa](pāpa) [jāla](jāla) [nikṛṃtanī](nikṛṃtanī)
+[sarva](sarva) [siddhi](siddhi) [karī](karī) [sarva](sarva) [pāpa](pāpa) [jāla](jāla) [nikṛntanī](nikṛṃtanī)
 
 ## mukta-m0-p08-v181
-[sarva](sarva) [tatva](tatvamayī) [mayī](mayī) [sarva](sarva) [vyādhi](vyādhi) [śaila](śaila) [mahā](mahā) [aśaniḥ](aśaniḥ)
+[sarva](sarva) [tattva](tatva) [mayī](mayī) [sarva](sarva) [vyādhi](vyādhi) [śaila](śaila) [mahā](mahā) [aśaniḥ](aśaniḥ)
 
 ## mukta-m0-p08-v182
-[mārīca](mārīcora) [vyāghra](vyāghra) [bhaye](bhaye) [ghora](ghora) [kāṃtāra](kāṃtāra) [saṃkaṭe](saṃkaṭe)
+[mārīca](mārīca) [uḍavyāghra](uḍavyāghra) [bhaye](bhaye) [ghora](ghora) [kāntāra](kāṃtāra) [saṃkaṭe](saṃkaṭe)
 
 ## mukta-m0-p08-v183
-[sakṛt](sakṛtkṛteyaṃ) [kṛtā](kṛteyaṃ) [sadvidyā](sadvidyā) [sarva](sarva) [duḥkhaṃ](duḥkhaṃ) [vyapohati](vyapohati)
+[sakṛt](sakṛt) [kṛtā](kṛteyaṃ) [sat](sat) [vidyā](vidyā) [sarva](sarva) [duḥkha](duḥkhaṃ) [vyapohati](vyapohati)
 
 ## mukta-m0-p08-v184
 [kiṃ](kiṃ) [vyastaṃ](vyastaṃ) [kinnu](kinnu) [kūṭaṃ](kūṭaṃ) [vā](vā) [kathayasva](kathayasva) [mama](mama) [prabho](prabho)
 
 ## mukta-m0-p08-v185
-[śivasya](śivasya) [śaktiḥ](śaktirapi) [api](api) [ca](ca) [sāmarasya](sāmarasya) [kalā](kalā) [ātmakam](ātmakam)
+[śivasya](śivasya) [śaktiḥ](śaktirapi) [ca](ca) [sāmarasya](sāmarasya) [kalā](kalā) [ātmakam](ātmakam)
 
 ## mukta-m0-p08-v186
-[prathamaṃ](prathamaṃ) [viśvarūpaṃ](viśvarūpaṃ) [syād](syād) [dvitīyaṃ](dvitīyaṃ) [tu](tu) [navātmakam](navātmakam)
+[prathamaṃ](prathamaṃ) [viśvarūpaṃ](viśvarūpaṃ) [syāt](syād) [dvitīyaṃ](dvitīyaṃ) [tu](tu) [navātmakam](navātmakam)
 
 ## mukta-m0-p08-v187
-[etan](etannavātmakaṃ) [navātmakaṃ](navātmakaṃ) [prāhuḥ](prāhuḥ) [kūṭaṃ](kūṭaṃ) [bījaṃ](bījaṃ) [mahattaram](mahattaram)
+[etat](etannavātmakaṃ) [navātmakaṃ](navātmakaṃ) [prāhuḥ](prāhuḥ) [kūṭaṃ](kūṭaṃ) [bījaṃ](bījaṃ) [mahattaram](mahattaram)
 
 ## mukta-m0-p08-v188
-[bhṛgu](bhṛguśaṃkara) [śaṃkara](śaṃkara) [saṃvartā](saṃvartā) [bhāṃta](bhāṃta)
+[bhṛgu](bhṛgu) [śaṃkara](śaṃkara) [saṃvartā](saṃvartā) [bhāṃta](bhāṃta)
 
 ## mukta-m0-p08-v189
 [ānandavallī](ānaṃdavalli) [vidyāyāḥ](vidyāyāḥ) [ṣaḍaṃgaṃ](ṣaḍaṃgaṃ) [kathayāmite](kathayāmite)
@@ -47,22 +47,22 @@
 [tatastu](tatastu) [navabhiḥ](navabhirnetraṃ) [netraṃ](netraṃ) [dvābhyām](dvābhyāmastraṃ) [astraṃ](astraṃ) [prakīrtitam](prakīrtitam)
 
 ## mukta-m0-p08-v191
-[ādhāre](ādhāre) [svādhiṣṭhāne](svādhiṣṭhāne) [ca](ca) [maṇipūre](maṇipūrepyanāhate) [anāhate](anāhate)
+[ādhāre](ādhāre) [svādhiṣṭhāne](svādhiṣṭhāne) [ca](ca) [maṇipūre](maṇipūre) [api](api) [anāhate](anāhate)
 
 ## mukta-m0-p08-v192
-[karṇayoḥ](karṇayośca) [ca](ca) [bhruvor](bhruvormadhye) [madhye](madhye) [phālanetre](phālanetre) [śirastaṭe](śirastaṭe)
+[karṇayoḥ](karṇayośca) [ca](ca) [bhruvoḥ](bhruvormadhye) [madhye](madhye) [phālanetre](phālanetre) [śirastaṭe](śirastaṭe)
 
 ## mukta-m0-p08-v193
-[dvādaśāṃta](dvādaśāṃta) [mahāsthāne](mahāsthāne) [varṇanyāsaṃ](varṇanyāsaṃ) [samācaret](samācaret)
+[dvādaśāṃta](dvādaśāṃta) [mahāsthāne](mahāsthāne) [varṇa](varṇa) [nyāsaṃ](nyāsaṃ) [samācaret](samācaret)
 
 ## mukta-m0-p08-v194
-[ājñācakre](ājñācakre) [nāhate](nāhate) [ca](ca) [tathā](tathānābhi) [nābhi](nābhi) [pade](pade) [ca](ca)
+[ājñācakre](ājñācakre) [nāhate](nāhate) [ca](ca) [tathā](tathā) [nābhi](nābhi) [pade](pade) [api](api) [ca](ca)
 
 ## mukta-m0-p08-v195
 [navākṣarāṇāṃ](navākṣarāṇāṃ) [kathitaḥ](kathito) [nyāsaḥ](nyāsa) [eva](eva) [maheśvari](maheśvari)
 
 ## mukta-m0-p08-v196
-[yonimūle](yonimūle) [yonimadhye](yonimadhye) [yonyagre](yonyagre) [ca](cāpi) [api](api) [bhairavī](bhairavī)
+[yonimūle](yonimūle) [yonimadhye](yonimadhye) [yonyagre](yonyagre) [ca](ca) [api](api) [bhairavī](bhairavī)
 
 ## mukta-m0-p08-v197
 [ayaṃ](aya) [nyāsaḥ](nyāso) [yāgakāle](yāgakāle) [pravṛtte](pravṛtte) [parameśvari](parameśvari)
@@ -71,7 +71,7 @@
 [ānandanātha](ānaṃdanātha) [pūjāyāṃ](pūjāyāṃ) [yogyatvaṃ](yogyatvaṃ) [sādhakaḥ](sādhako) [aśnute](aśnute)
 
 ## mukta-m0-p08-v199
-[navīkṣituṃ](navīkṣituṃ) [śaknuvanti](śaknuvaṃtī) [bhayārtāḥ](bhayārtā) [vighnakoṭayaḥ](vighnakoṭayaḥ)
+[navīkṣituṃ](navīkṣituṃ) [śaknuvanti](śaknuvaṃtī) [bhayārtāḥ](bhayārtā) [vighna](vighna) [koṭayaḥ](koṭayaḥ)
 
 ## mukta-m0-p08-v200
 [ena](ena) [vijñānamātreṇa](vijñānamātreṇa) [parānanda](parānaṃda) [tanuḥ](tanurbhavet) [bhavet](bhavet)
