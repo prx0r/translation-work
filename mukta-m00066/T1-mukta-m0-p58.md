@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p58-v1426
-[dṛṣṭa](dṛṣṭa) [sarvā](sarvā) [kṛtitvasya](kṛtitvasya) [ghaṭanaṃ](ghaṭanaṃ) [na](na) [ghaṭe](ghaṭe) [bhavat](bhavat)
+[seen](dṛṣṭa) [all](sarvā) [of-agency](kṛtitvasya) [composition](ghaṭanaṃ) [not](na) [in-pot](ghaṭe) [is](bhavat)
 
 ## mukta-m0-p58-v1427
-[tritvantu](tritvantu) [vyavahārasyāpyapekṣaivātra](vyavahārasyāpyapekṣaivātra) [sammatam](sammatam)
+[threefoldness](tritvam)+[but](tu) [of-usage](vyavahārasya)+[also](api)+[dependence](apekṣā)+[indeed](eva)+[here](atra) [accepted](sammatam)
 
 ## mukta-m0-p58-v1428
-[navamaṃ](navamaṃ) [śivatatvaṃ](śivatatvaṃ) [tu](tu) [śabdabhāvyamihādhunā](śabdabhāvyamihādhunā)
+[ninth](navamaṃ) [śiva](śiva)+[principle](tatvaṃ) [but](tu) [by-sound](śabda)+[to-be-revealed](bhāvyam)+[here](iha)+[now](adhunā)
 
 ## mukta-m0-p58-v1429
-[śabdabhāsyatvamujhitvā](śabdabhāsyatvamujhitvā) [svādhyakṣeṇa](svādhyakṣeṇa) [sabhāsate](sabhāsate)
+[sound](śabda)+[explainability](bhāsyatvam)+[having-abandoned](ujhitvā) [by-self](sva)+[perception](adhyakṣeṇa) [shines-forth](sabhāsate)
 
 ## mukta-m0-p58-v1430
-[svāśrayo](svāśrayo) [marudekasya](marudekasya) [udāsīnaṃ](udāsīnaṃ) [tamaḥ](tamaḥ) [smṛtam](smṛtam)
+[self](sva)+[supported](āśrayaḥ) [of-wind](marut)+[of-one](ekasya) [indifferent](udāsīnaṃ) [darkness](tamaḥ) [remembered](smṛtam)
 
 ## mukta-m0-p58-v1431
-[śivastu](śivastu) [sarvāśrayaḥ](sarvāśrayaḥ) [syāt](syāt) [tatra](tatra) [samyagvivicyate](samyagvivicyate)
+[śiva](śivaḥ)+[but](tu) [all](sarva)+[supported](āśrayaḥ) [should-be](syāt) [there](tatra) [properly](samyak)+[is-examined](vivicyate)
 
 ## mukta-m0-p58-v1432
-[mahyāṃ](mahyāṃ) [siddhādirūpeṇa](siddhādirūpeṇa) [vāyaumeghahimātmatā](vāyaumeghahimātmatā)
+[in-earth](mahyāṃ) [siddha](siddha)+[etc.](ādi)+[in-form](rūpeṇa) [wind](vāyau)+[cloud](megha)+[snow](hima)+[nature](ātmatā)
 
 ## mukta-m0-p58-v1433
-[śabdemaṃghījalamarut](śabdemaṃghījalamarut) [saṃśrayaḥ](saṃśrayaḥ) [kathitaḥ](kathitaḥ) [priye](priye)
+[in-sound](śabde)+[cloud](maṃghī)+[water](jala)+[wind](marut)+[substratum](saṃśrayaḥ) [declared](kathitaḥ) [O-beloved](priye)
 
 ## mukta-m0-p58-v1434
-[saṃghātaśca](saṃghātaśca) [pṛthivyādeḥ](pṛthivyādeḥ) [śarīratvena](śarīratvena) [kīrtyate](kīrtyate)
+[aggregate](saṃghātaḥ)+[and](ca) [earth](pṛthivī)+[etc.](ādeḥ) [by-bodily-state](śarīratvena) [is-called](kīrtyate)
 
 ## mukta-m0-p58-v1435
-[prāṇena](prāṇena) [ceṣṭamānaṃ](ceṣṭamānaṃ) [yat](yat) [tat](tat) [sacit](sacit) [kamihocyate](kamihocyate)
+[by-vital-breath](prāṇena) [moving](ceṣṭamānaṃ) [which](yat) [that](tat) [with](sa)+[consciousness](citkam)+[here](iha)+[is-called](ucyate)
 
 ## mukta-m0-p58-v1436
-[manaḥsaṃsrayaṇaṃ](manaḥsaṃsrayaṇaṃ) [prāṇi](prāṇi) [sacit](sacit) [kavapuṣismṛtam](kavapuṣismṛtam)
+[mind](manaḥ)+[resting-on](saṃsrayaṇaṃ) [breathing](prāṇi) [with](sa)+[consciousness](cit) [in-body](kavapuṣi)+[remembered](smṛtam)
 
 ## mukta-m0-p58-v1437
-[sarveṣāmihatatvānāṃ](sarveṣāmihatatvānāṃ) [vikṛtirguṇabhedajā](vikṛtirguṇabhedajā)
+[of-all](sarveṣām)+[here](iha)+[of-principles](tatvānāṃ) [modification](vikṛtiḥ)+[quality](guṇa)+[difference](bheda)+[born](jā)
 
 ## mukta-m0-p58-v1438
-[saṃghātajāśca](saṃghātajāśca) [saṃghātā](saṃghātā) [bahavonaikarūpiṇaḥ](bahavonaikarūpiṇaḥ)
+[from-aggregate](saṃghāta)+[born](jāḥ)+[and](ca) [aggregates](saṃghātāḥ) [many](bahavaḥ)+[not](na)+[one](eka)+[formed](rūpiṇaḥ)
 
 ## mukta-m0-p58-v1439
-[bahunā](bahunā) [kimihoktena](kimihoktena) [kintatvairaparairjaḍaiḥ](kintatvairaparairjaḍaiḥ)
+[by-much](bahunā) [what](kim)+[here](iha)+[by-said](uktena) [what](kim)+[by-principles](tatvaiḥ)+[other](aparaiḥ)+[inert](jaḍaiḥ)
 
 ## mukta-m0-p58-v1440
-[acchedyo'yamadāhoya](acchedyo'yamadāhoya) [makledyośoṣya](makledyośoṣya) [eva](eva) [ca](ca)
+[uncuttable](acchedyaḥ)+[this](ayam)+[unburnable](adāhyaḥ)+[this](ayam) [unwettable](akledyaḥ)+[undryable](aśoṣyaḥ) [indeed](eva) [and](ca)
 
 ## mukta-m0-p58-v1441
-[sarvaviśvasya](sarvaviśvasya) [janakaḥ](janakaḥ) [sarvaviśvasya](sarvaviśvasya) [pālakaḥ](pālakaḥ)
+[of-all](sarva)+[universe](viśvasya) [creator](janakaḥ) [of-all](sarva)+[universe](viśvasya) [protector](pālakaḥ)
 
 ## mukta-m0-p58-v1442
-[sa](sa) [giridvīpajaladhikānanā](giridvīpajaladhikānanā) [sakalāmahī](sakalāmahī)
+[that](sa) [mountain](giri)+[island](dvīpa)+[ocean](jaladhi)+[forest](kānanā) [entire](sakalā)+[earth](mahī)
 
 ## mukta-m0-p58-v1443
-[etā](etā) [dṛśyastva](dṛśyastva) [saṃkhyātā](saṃkhyātā) [vasudhāvāsavārcite](vasudhāvāsavārcite)
+[these](etāḥ) [visible-things](dṛśyāḥ)+[but](tu) [enumerated](saṃkhyātāḥ) [earth](vasudhā)+[dweller](vāsa)+[O-worshipped-one](vārcite)
 
 ## mukta-m0-p58-v1444
-[jyotiścakraṃ](jyotiścakraṃ) [samastaṃ](samastaṃ) [ca](ca) [vāyu](vāyu) [naiva](naiva) [pracālyate](pracālyate)
+[light](jyotiḥ)+[circle](cakraṃ) [all](samastaṃ) [and](ca) [wind](vāyu) [not](na)+[indeed](eva) [is-moved](pracālyate)
 
 ## mukta-m0-p58-v1445
-[sadā](sadā) [carati](carati) [kutrāpi](kutrāpi) [sadā](sadā) [ca](ca) [sthimitaḥ](sthimitaḥ) [kvacit](kvacit)
+[always](sadā) [moves](carati) [somewhere](kutra)+[also](api) [always](sadā) [and](ca) [motionless](sthimitaḥ) [somewhere](kva)+[also](cit)
 
 ## mukta-m0-p58-v1446
-[yadā](yadā) [pravahati](pravahati) [kṣipraṃ](kṣipraṃ) [saśabdena](saśabdena) [tatodyate](tatodyate)
+[when](yadā) [blows](pravahati) [swiftly](kṣipraṃ) [with](sa)+[sound](śabdena) [then](tadā)+[arises](udyate)
 
 ## mukta-m0-p58-v1447
-[etat](etat) [tu](tu) [tattvaṃ](tattvaṃ) [kathitamasyaivānyā](kathitamasyaivānyā) [vibhūtayaḥ](vibhūtayaḥ)
+[this](etat) [but](tu) [principle](tattvaṃ) [declared](kathitam)+[of-this](asya)+[indeed](eva)+[other](anyāḥ) [manifestations](vibhūtayaḥ)
 
 ## mukta-m0-p58-v1448
-[tat](tat) [tacchāstra](tacchāstra) [sthitiḥ](sthitiḥ) [sarvā](sarvā) [kathitā](kathitā) [girinaṃdini](girinaṃdini)
+[that](tat) [that](tat)+[scripture](śāstra)+[state](sthitiḥ) [all](sarvā) [declared](kathitā) [O-mountain](giri)+[daughter](naṃdini)
 
 ## mukta-m0-p58-v1449
-[anyatra](anyatra) [mama](mama) [yat](yat) [kiṃcit](kiṃcit) [praṣṭavyaṃ](praṣṭavyaṃ) [spṛṣṭamāśaye](spṛṣṭamāśaye)
+[elsewhere](anyatra) [of-me](mama) [what](yat) [anything](kiṃ)+[also](cit) [to-be-asked](praṣṭavyaṃ) [touched](spṛṣṭam)+[in-mind](āśaye)
 
 ## mukta-m0-p58-v1450
-[aneka](aneka) [jantujālena](jantujālena) [nibiḍasya](nibiḍasya) [nirantaram](nirantaram)
+[many](aneka)+[creature](jantu)+[by-multitude](jālena) [of-dense](nibiḍasya) [continuously](nirantaram)
