@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p68-v1676
-ebhiḥ-tu paṃcabhiḥ-yuktaiḥ snānam arcā-ādi-śodhanam
+[with-these](ebhistu) [with-five-united](paṃcabhiryuktaiḥ) [bathing+worship+etc+purification](snānamarcādiśodhanam)
 
 ## mukta-m0-p68-v1677
-īśāna-vaktra-ghorāhvaguhyājāta-ākhya-mantritaiḥ
+[with-īśāna+vaktra+ghora+āhva+guhya+ajāta-named-mantras](īśānavaktraghorāhvaguhyājātākhyamantritaiḥ)
 
 ## mukta-m0-p68-v1678
-vṛṣa-śṛṅga-samutkhātāḥ pavaka-āśraya-sambhavāḥ
+[plucked-from-bull-horn](vṛṣaśṛṅgasamutkhātāḥ) [arisen-from-fire-refuge](pavakāśrayasambhavāḥ)
 
 ## mukta-m0-p68-v1679
-ajena kṣālanāt pṛthvī-kramataḥ tu kalā-vatā
+[by-goat-cleansing](ajena+kṣālanāt) [earth+sequence+then+with-kalā](pṛthvīkramatastu+kalāvatā)
 
 ## mukta-m0-p68-v1680
-kavoṣṇaiḥ-tu tṛtīyena snānam ṭaṅka-kṣata-apaham
+[with-lukewarm-third](kavoṣṇaistu+tṛtīyena) [bathing+axe-wound-removing](snānaṃ+ṭaṅkakṣatāpaham)
 
 ## mukta-m0-p68-v1681
-nidigdhikā balā-mūlaiḥ snānam guhyena doṣa-hṛt
+[with-nidigdhikā+bala-roots](nidigdhikā+balāmūlaiḥ) [bathing+secret+fault-removing](snānaṃ+guhyena+doṣahṛt)
 
 ## mukta-m0-p68-v1682
-dhātryā snānāt mahī-tyakte sadyojātena śuddhyati
+[by-dhātrī-bathing](dhātryā+snānāt) [earth+clearly](mahītyakte) [by-sadyojāta-purified](sadyojātena+śuddhyati)
 
 ## mukta-m0-p68-v1683
-samudvartya mahādevam tīrtha-utthaiḥ snāpayet-jalaiḥ
+[having-rubbed-great-god](samudvartya+mahādevaṃ) [with-tīrtha-born-waters-bathe](tīrthotthaiḥ+snāpayejjalaiḥ)
 
 ## mukta-m0-p68-v1684
-puṣkaram naimiṣa-araṇyam tīrtham ca varūṇam tathā
+[puṣkara](puṣkaraṃ) [naimiṣa-forest](naimiṣāraṇyaṃ) [tīrtha](tīrthaṃ) [and-varuṇa](ca+varūṇaṃ+tathā)
 
 ## mukta-m0-p68-v1685
-jāhnavī yamunā kauśī sarayū śoṇa-narmadā
+[ganges](jāhnavī) [yamunā](yamunā) [kauśī](kauśī) [sarayū](sarayū) [śoṇa+narmadā](śoṇanarmadā)
 
 ## mukta-m0-p68-v1686
-sapta-godāvarī-iti-etāḥ puṇya-nadyaḥ mahā-jalaiḥ
+[seven-godāvarī-thus](saptagodāvarītyetāḥ) [holy-rivers+great-waters](puṇyanadyo+mahājalaiḥ)
 
 ## mukta-m0-p68-v1687
-kṣāra-kṣīra-dadhi-sneha-ikṣu-rasa-uda-sura-udakāḥ
+[alkali+milk+curd+oil+sugarcane-juice+surā+water](kṣārakṣīradadhisnehekṣurasodasurodakāḥ)
 
 ## mukta-m0-p68-v1688
-sphāṭikam padya-rāgam ca rājāvartaḥ-suvidrumam
+[crystal](sphāṭikaṃ) [padmarāga](padyarāgaṃ) [and-rājāvarta+suvidruma](ca+rājāvartaḥsuvidrumam)
 
 ## mukta-m0-p68-v1689
-etat-ratna-udakaiḥ snānam mahā-bhūti-karam param
+[with-these-gem-waters](etadratnodakaiḥ) [bathing+great-prosperity-giving+supreme](snānaṃ+mahābhūtikaraṃ+param)
 
 ## mukta-m0-p68-v1690
-karpūra-aguru-kastūrī-kāśmarī-candana-ādikaiḥ
+[with-camphor+aguru+musk+kāśmarī+sandal-etc](karpūrāgurukastūrīkāśmarīcandanādikaiḥ)
 
 ## mukta-m0-p68-v1691
-snāpayet-gandha-toyena ajātena-abhimantritam
+[bathe+fragrant-water](snāpayedgandhatoyena) [by-ajāta-mantrified](ajātenābhimantritam)
 
 ## mukta-m0-p68-v1692
-puṇḍarīka-abja-mālūra-nīla-rakta-utpala-arka-jam
+[puṇḍarīka+lotus+mālūra+blue+red-lotus+arka-born](puṇḍarīkābjamālūranīlaraktotpalārkajam)
 
 ## mukta-m0-p68-v1693
-sahakāra-aśvamāram ca punnāga-bakulāni ca
+[sahakāra+aśvamāra](sahakārāśvamāraṃ) [and-punnāga+bakula](ca+punnāgabakulāni+ca)
 
 ## mukta-m0-p68-v1694
-pāṭalā-droṇa-nepālī kuśa-kiṃśuka-siṃhikāḥ
+[pāṭalā+droṇa+nepālī](pāṭalādroṇanepālī) [kuśa+kiṃśuka+siṃhikā](kuśakiṃśukasiṃhikāḥ)
 
 ## mukta-m0-p68-v1695
-mṛdu-kunda-abja-patrī ca vṛṣa-ṛṣi-buka-puṣpakam
+[soft+kunda+lotus-leaf](mṛdukundābjapatrī) [and-vṛṣa+ṛṣi+buka+flower](ca+vṛṣarṣibukapuṣpakam)
 
 ## mukta-m0-p68-v1696
-bilāmra-mocana-āraṅga panasam nālikerakam
+[bilva+āmra+mocana+āraṅga](bilāmramocanāraṅga) [panasa+nālikeraka](panasaṃ+nālikerakam)
 
 ## mukta-m0-p68-v1697
-vadarī-bījapūram ca kava-mardam satindukam
+[jujube+bījapūra](vadarībījapūraṃ) [and-kara+marda+satinduka](ca+kavamardaṃ+satindukam)
 
 ## mukta-m0-p68-v1698
-phala-snānam-idam pupyam kartuḥ-icchā-phala-pradam
+[fruit-bathing-this](phalasnānamidaṃ) [auspicious+doer-desire-fruit-giving](pupyaṃ+karturicchāphalapradam)
 
 ## mukta-m0-p68-v1699
-tila-godhuma-sugdā-ādi yava-dhānya-priyaṅgubhiḥ
+[sesame+wheat+sugdā-etc](tilagodhumasugdādi) [barley+grain+priyaṅgu](yavadhānyapriyaṅgubhiḥ)
 
 ## mukta-m0-p68-v1700
-pañca-brahma-udbhavaiḥ-mantraiḥ mahā-snānam śubha-pradam
+[with-five-brahma-born-mantras](pañcabrahmodbhavairmantrair) [great-bathing+auspicious-giving](mahāsnānaṃ+śubhapradam)
