@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p89-v2201
-[nectar-full](sudhāsaṃpūrṇa) [pot](kalaśa) [hand-lotus](karābja) [horse-vehicle](aśvavāhanau)
+[gloss](sudhāsaṃpūrṇakalaśakarābjāvaśvavāhanau) [gloss](yātrābhiṣekamakhadīkṣaṇacaulamauṃjīḥkurvaṃtiśāṃtikavidhānamathāśvinīṣu)
 
 ## mukta-m0-p89-v2202
-[journey-ablution](yātrābhiṣeka) [sacrifice-initiation](makhadīkṣaṇa) [tonsure-sacred-thread](caulamauṃjīḥ) [do](kurvaṃti) [peace-rite](śāṃtikavidhānam) [then-in-aśvinī](athāśvinīṣu)
+[gloss](yamaṃnīlaṃbhajebhīmaṃsuvarṇapratimāgatam) [gloss](dyutābhicāravidhimaṃtrabilapraveśakanyājanāni) [gloss](yamabhe) [gloss](kilayāṃtisiddhim)
 
 ## mukta-m0-p89-v2203
-[yama](yamaṃ) [blue](nīlaṃ) [worship](bhaje) [bhīma](bhīmaṃ) [golden-image](suvarṇapratimāgatam)
+[gloss](ekādaśāhātsukhībhavatī) [gloss](asminnakṣatreprathamarajasvalāvidhavābhavati) [gloss](asminnakṣatre) [gloss](ugrakāryāṇipraśastāni)
 
 ## mukta-m0-p89-v2204
-[black-magic](abhicāra) [rite-mantra](vidhimaṃtra) [cave-entry](bilapraveśa) [girl-people](kanyājanāni) [in-yama-nakṣatra](yamabhe) [attain-siddhi](kilayāṃtisiddhim)
+[gloss](asminnakṣatrejātaguṇāḥ) [gloss](capalaḥ) [gloss](bahusutaḥ) [gloss](śāstrajñaḥ)
 
 ## mukta-m0-p89-v2205
-[eleven-days](ekādaśāhāt) [happy](sukhībhavatī) [first-menstruation](prathamarajasvalā) [widow](vidhavābhavati) [fierce-works](ugrakāryāṇi) [auspicious](praśastāni)
+[gloss](sruksruvābhītivaradhṛkcaturhastaṃ) [gloss](namāmyaham)
 
 ## mukta-m0-p89-v2206
-[spoon-ladle](sruksruvā) [fear-protection](abhīti) [varadha](varadhṛk) [four-handed](caturhastaṃ) [bow](namāmyaham)
+[gloss](maṃtrauṣadhīrasarasāyanasādhakāni) [gloss](sidhyaṃtivahni) [gloss](vihitāni) [gloss](hutāśanarkṣe)
 
 ## mukta-m0-p89-v2207
-[mantra-herb-elixir](maṃtrauṣadhīrasarasāyana) [sādhaka](sādhakāni) [succeed](sidhyaṃti) [fire](vahni) [ordained](vihitāni) [fire-star](hutāśanarkṣe)
+[gloss](sitakeśaḥ) [gloss](gaṃbhīraśarīraḥ) [gloss](vāmabhāgematsyāṃkitaḥ) [gloss](aśītivarṣāṇiparamāyurityādikaṃ)
 
 ## mukta-m0-p89-v2208
-[white-hair](sitakeśaḥ) [deep-body](gaṃbhīraśarīraḥ) [left-side-fish-mark](vāmabhāgematsyāṃkitaḥ) [eighty-years](aśītivarṣāṇi) [max-lifespan](paramāyur)
+[gloss](varābhayakaraḥ) [gloss](śuddhorohiṇīdevatāstume)
 
 ## mukta-m0-p89-v2209
-[boon-fear-hand](varābhayakaraḥ) [pure](śuddha) [rohiṇī-deity](rohiṇīdevatā) [to-you](stume)
+[gloss](śālīkṣuvṛkṣavratabaṃdhanavāhanāninavyāṃbarābharāṇabhūṣaṇamabjajarkṣe)
 
 ## mukta-m0-p89-v2210
-[rice-sugarcane-tree](śālīkṣuvṛkṣa) [vow-binding](vratabaṃdhana) [vehicle](vāhana) [new-garment-ornament](navyāṃbarābharāṇa) [adorn](bhūṣaṇam) [lotus-star](abjajarkṣe)
+[gloss](rohiṇīśakaṭākāraṃ) [gloss](paṃca) [gloss](ū) [gloss](vā)
 
 ## mukta-m0-p89-v2211
-[rohiṇī-cart-shaped](rohiṇīśakaṭākāraṃ) [five](paṃca) [black-color](kṛṣṇavarṇam) [five-stars](paṃcatārāḥ) [cart-form](śakaṭākṛtiḥ) [male](pumān) [human-class](manuṣyagaṇaḥ)
+[gloss](daśāśvarathamārūḍho) [gloss](mṛgaśīrṣostumemude)
 
 ## mukta-m0-p89-v2212
-[ten-horse-chariot](daśāśvaratham) [mounted](ārūḍho) [mṛgaśīrṣa](mṛgaśīrṣo) [to-me](stume) [delight](mude)
+[gloss](śāṃtisnānanṛpābhiṣekaniyamāndevāgnipitrarcanaṃ) [gloss](kuryācchāṃtikapauṣṭikādi) [gloss](śubhadaṃ) [gloss](caṃdrarkṣabhe)
 
 ## mukta-m0-p89-v2213
-[peace-bath](śāṃtisnāna) [king-ablution](nṛpābhiṣeka) [vows](niyamān) [deity-fire-ancestors](devāgnipitrarcanaṃ) [do](kuryāt) [peace-increase](śāṃtikapauṣṭikādi) [auspicious](śubhadaṃ) [moon-star](caṃdrarkṣabhe) [joined](saṃyute)
+[gloss](śūlakhaḍgābhayavarānda) [gloss](dhānomeprasīdatu)
 
 ## mukta-m0-p89-v2214
-[trident-sword](śūlakhaḍga) [boon-fear](abhayavara) [to-dhānu](da dhānome) [be-pleased](prasīdatu)
+[gloss](rakṣobhūtapiśācayakṣakagaṇādeśaṃ) [gloss](tathoccāṭanaṃ) [gloss](yaccānyadbaliraudrakarmakathitaṃ) [gloss](raudrārdrabhekārayet)
 
 ## mukta-m0-p89-v2215
-[demon-ghost](rakṣobhūta) [piśāca-yakṣa](piśācayakṣa) [troop](gaṇādeśaṃ) [thus](tathā) [expulsion](uccāṭanaṃ) [other](yaccānyad) [offering](baliraudra) [cruel-work](karmakathitaṃ) [fierce-ārdrā](raudrārdrabhekārayet)
+[gloss](ārdrāpravālamekam) [gloss](kūghaṃṅaccha) [gloss](ārdrā) [gloss](raktavarṇā)
 
 ## mukta-m0-p89-v2216
-[ārdrā-coral](ārdrāpravāla) [one](mekam) [red-color](raktavarṇā) [one-star](ekatārā) [woman](strī) [human-class](manuṣyagaṇaḥ) [bitch-womb](śunīyoniḥ)
+[gloss](dadhānāśubhadāmesyātpunarvasukṛtāhvayā)
 
 ## mukta-m0-p89-v2217
-[holding](dadhānā) [inauspicious](aśubhadā) [to-me](mesyāt) [punarvasu](punarvasukṛtāhvayā)
+[gloss](āṃdolikādivaravāhanaśastraśayyālaṃkāramapyaditibhevidadhītanūnam)
 
 ## mukta-m0-p89-v2218
-[palanquin](āṃdolikādi) [excellent-vehicle](varavāhana) [weapon-bed](śastraśayyā) [ornament](alaṃkāram) [also](apyaditi) [star](bhe) [do](vidadhītanūnam)
+[gloss](punarvasūtaṭākaṃpaṃca) [gloss](ke) [gloss](ko) [gloss](hā)
 
 ## mukta-m0-p89-v2219
-[punarvasu-tank](punarvasūtaṭākaṃ) [five](paṃca) [black-color](kṛṣṇavarṇaḥ) [five-stars](paṃcatārāḥ) [house-staff-form](gṛhadaṃḍākṛtiḥ) [male](pumān) [divine-class](devagaṇaḥ)
+[gloss](sarvābharaṇasaṃpannaṃ) [gloss](devamaṃtriṇamādarāt)
 
 ## mukta-m0-p89-v2220
-[all-ornament](sarvābharaṇa) [endowed](saṃpannaṃ) [deity-minister](devamaṃtriṇam) [respectfully](ādarāt)
+[gloss](vedābhyāsasuśāstrasaṃgrahavidhiśśastrāstraśikṣāpaṇaṃmaṃtrārādhana-devatārcanabhiṣakkāryaṃ) [gloss](nṛpālokanam) [gloss](kuryācchāṃtikapauṣṭikāninṛpateryātrābhiṣekaṃtathāpuṣyarkṣevaracitravastra-nicayālaṃkārasaṃdhāraṇam)
 
 ## mukta-m0-p89-v2221
-[veda-study](vedābhyāsa) [good-scripture](suśāstra) [collection-rite](saṃgrahavidhi) [weapon-training](śastrāstraśikṣā) [mantra-worship](maṃtrārādhana) [deity-rite](devatārcana) [physician-work](bhiṣakkāryaṃ) [king-seeing](nṛpālokanam)
+[gloss](hū) [gloss](he) [gloss](ho) [gloss](ḍā)
 
 ## mukta-m0-p89-v2222
-[hu-he-ho-ḍā](hū he ho ḍā) [puṣya](puṣyam) [white-color](śvetavarṇaḥ) [three-stars](tritārā) [arrow-form](śarākṛtiḥ) [male](pumān) [divine-class](devagaṇaḥ)
+[gloss](āśleṣādevatāpītāṃbaradhṛgvaradostume)
 
 ## mukta-m0-p89-v2223
-[āśleṣā-deity](āśleṣādevatā) [yellow-garment](pītāṃbara) [holding](dhṛg) [boon-hand](varado) [to-you](stume)
+[gloss](kuṃtāsiśaktiśarakārmukasaṃgrahaṃ) [gloss](ca) [gloss](kuryādviṣapraharaṇaṃ) [gloss](khalusārpadhiṣṇye)
 
 ## mukta-m0-p89-v2224
-[spear-sword](kuṃtāsi) [spear-bow](śaktiśara) [bow](kārmuka) [collection](saṃgrahaṃ) [do](kuryāt) [poison-strike](viṣapraharaṇaṃ) [indeed](khalu) [serpent-star](sārpadhiṣṇye)
+[gloss](āśleṣāsarpākārāśaṭ) [gloss](ḍī) [gloss](ḍū) [gloss](ḍe)
 
 ## mukta-m0-p89-v2225
-[āśleṣā-serpent-form](āśleṣāsarpākārā) [red-color](raktavarṇaḥ) [six-stars](ṣaṭtārāḥ) [serpent-form](sarpākṛtiḥ) [woman](strī) [demon-class](rākṣasagaṇaḥ) [cat-womb](mārjārayoniḥ)
+[gloss](ḍo) [gloss](āśleṣā) [gloss](raktavarṇaḥ) [gloss](ṣaṭtārāḥ)
