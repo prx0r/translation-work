@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p106-v2626
-[karṇikā](karṇikā) [śaśibhāgena](śaśibhāgena) [vistārāt](vistārāt) [ca](ca) [adhunā](adhunā) [ucyate](ucyate)
+[pericarp](karṇikā) [moon+part](śaśi+bhāgena) [from-width](vistārāt) [and+now+is-stated](cādhunocyate)
 
 ## mukta-m0-p106-v2627
-[tanmadhye](tanmadhye) [tu](tu) [dvibhāgābhyām](dvibhāgābhyām) [praveśaḥ](praveśaḥ) [gṛha](gṛha) [hetave](hetave)
+[in-its+middle](tanmadhye) [but](tu) [by-two+parts](dvibhāgābhyāṃ) [recess](praveśo) [for-house-[g:-grasp]+sake](gṛha [g: graha] hetave)
 
 ## mukta-m0-p106-v2628
-[evameva](evameva) [tu](tu) [jaṅghāyām](jaṅghāyām) [añjaryā](añjaryā) [vedikāvadhiḥ](vedikāvadhiḥ)
+[thus+indeed](evameva) [but](tu) [in-pillar](jaṅghāyām) [of-spire](añjaryā) [up-to-platform+limit](vedikāvadhiḥ)
 
 ## mukta-m0-p106-v2629
-[prāsādaśikharam](prāsādaśikharam) [vā](vā) [api](api) [brūyām](brūyām) [uparathādikān](uparathādikān)
+[temple+spire](prāsādaśikharaṃ) [or+also](vāpi) [we-should-state](brūyām) [beginning-with-uparatha+and-others](uparathādikān)
 
 ## mukta-m0-p106-v2630
-[pīṭhādyabjāntam](pīṭhādyabjāntam) [ucchrāye](ucchrāye) [praveśaḥ](praveśaḥ) [ca](ca) [nigadyate](nigadyate)
+[from-base+beginning+to-lotus+end](pīṭhādyabjāntam) [in-height](ucchrāye) [recess](praveśaḥ) [and](ca) [is-declared](nigadyate)
 
 ## mukta-m0-p106-v2631
-[ardhena](ardhena) [paṭṭikām](paṭṭikām) [kuryāt](kuryāt) [dvābhyām](dvābhyām) [kaṇṭhapraveśakam](kaṇṭhapraveśakam)
+[by-half](ardhena) [fillet](paṭṭikāṃ) [one-should-make](kuryād) [by-two](dvābhyāṃ) [neck+recess](kaṇṭhapraveśakam)
 
 ## mukta-m0-p106-v2632
-[ardhāṃśena](ardhāṃśena) [tadūrdhve](tadūrdhve) [tu](tu) [kāryā](kāryā) [ca](ca) [eva](eva) [upapaṭṭikā](upapaṭṭikā)
+[by-half+part](ardhāṃśena) [above-that](tadūrdhve) [but](tu) [to-be-made](kāryā) [and+indeed](caiva) [upper-fillet](upapaṭṭikā)
 
 ## mukta-m0-p106-v2633
-[tryāṅghripraveśaḥ](tryāṅghripraveśaḥ) [haṃsa](haṃsa) [statpaṭṭyardhapraveśataḥ](statpaṭṭyardhapraveśataḥ)
+[three-quarter+recess](tryāṅghripraveśo) [goose-[gh:-two-parts]](haṃsa [gh: dvyaṃśa]) [its+fillet+by-half+recess](statpaṭṭyardhapraveśataḥ)
 
 ## mukta-m0-p106-v2634
-[sandhipatrānvitam](sandhipatrānvitam) [padmam](padmam) [vidadhīta](vidadhīta) [suśobhanam](suśobhanam)
+[endowed-with-joint+leaves-[kh:-marked]](sandhipatrānvitaṃ [kh: ṅkita]) [lotus](padmaṃ) [one-should-make](vidadhīta) [very-beautiful](suśobhanam)
 
 ## mukta-m0-p106-v2635
-[śilottham](śilottham) [padapīṭham](padapīṭham) [syāt](syāt) [evam](evam) [dārviṣṭakāmaye](dārviṣṭakāmaye)
+[stone+arisen](śilotthaṃ) [foot+base](padapīṭhaṃ) [should-be](syād) [thus](evaṃ) [in-wood+brick+made](dārviṣṭakāmaye)
 
 ## mukta-m0-p106-v2636
-[taducchrayam](taducchrayam) [graham](graham) [kṛtvā](kṛtvā) [jaṅghā](jaṅghā) [tanmadhyataḥ](tanmadhyataḥ) [guṇaiḥ](guṇaiḥ)
+[its+height](taducchrayaṃ) [taking](grahaṃ) [having-made](kṛtvā) [pillar](jaṅghā) [from-its+middle](tanmadhyato) [by-three-parts](guṇaiḥ)
 
 ## mukta-m0-p106-v2637
-[vedibandhavaraṇḍā](vedibandhavaraṇḍā) [dinnigadāmyanupūrvaśaḥ](dinnigadāmyanupūrvaśaḥ)
+[platform+band+and-verandah-[mū,a:-vavaṇḍā]](vedibandhavaraṇḍā [mū, a: vavaṇḍā]) [direction](din) [I-declare](nigadāmy) [in-due-order](anupūrvaśaḥ)
 
 ## mukta-m0-p106-v2638
-[ucchraye](ucchraye) [dhāmaturyāṃśāt](dhāmaturyāṃśāt) [tasmin](tasmin) [nidrāṃśakekṛte](nidrāṃśakekṛte)
+[in-height](ucchraye) [from-temple+fourth+part](dhāmaturyāṃśāt) [in-that](tasmin) [made-into-nine+parts](nidrāṃśakekṛte)
 
 ## mukta-m0-p106-v2639
-[sārdhatrayeṇa](sārdhatrayeṇa) [kumbhaḥ](kumbhaḥ) [syāt](syāt) [tadardhe](tadardhe) [kumbhapaṭṭikā](kumbhapaṭṭikā)
+[by-three+and-a-half](sārdhatrayeṇa) [pitcher](kumbhaḥ) [should-be](syāt) [in-its+half](tadardhe) [pitcher+fillet](kumbhapaṭṭikā)
 
 ## mukta-m0-p106-v2640
-[bhāgārdhena](bhāgārdhena) [tu](tu) [kaṇṭhaḥ](kaṇṭhaḥ) [syāt](syāt) [kalaśaḥ](kalaśaḥ) [ca](ca) [guṇāṃśataḥ](guṇāṃśataḥ)
+[by-half+part](bhāgārdhena) [but](tu) [neck](kaṇṭhaḥ) [should-be](syāt) [finial-pot](kalaśaḥ) [and](ca) [from-three+parts](guṇāṃśataḥ)
 
 ## mukta-m0-p106-v2641
-[praveśāt](praveśāt) [ca](ca) [ekataḥ](ekataḥ) [kaṇṭhāḥ](kaṇṭhāḥ) [ca](ca) [ardhe](ardhe) [nirgamapaṭṭikā](nirgamapaṭṭikā)
+[from-recess](praveśāc) [and](ca) [on-one-side](ekataḥ) [necks](kaṇṭhāḥ) [and](ca) [by-half-[mū:-with-a-half]](ardhe [mū: sārdhe]) [projection+fillet](nirgamapaṭṭikā)
 
 ## mukta-m0-p106-v2642
-[kumbhapaṭṭī](kumbhapaṭṭī) [tu](tu) [pādena](pādena) [kupālyā](kupālyā) [dyaṃśataḥ](dyaṃśataḥ) [sthitā](sthitā)
+[pitcher+fillet](kumbhapaṭṭī) [but](tu) [by-quarter](pādena) [cup-moulding](kupālyā) [by-two+parts](dyaṃśataḥ) [situated](sthitā)
 
 ## mukta-m0-p106-v2643
-[tribhiḥ](tribhiḥ) [khurādibhiryuktam](khurādibhiryuktam) [vedībandhābhidhānakam](vedībandhābhidhānakam)
+[with-three](tribhiḥ) [beginning-with-base+and-others](khurādibhir) [endowed](yuktaṃ) [named-platform+band](vedībandhābhidhānakam)
 
 ## mukta-m0-p106-v2644
-[kṛteṣu](kṛteṣu) [triṣu](triṣu) [bhāgeṣu](bhāgeṣu) [pādonāṃśāt](pādonāṃśāt) [praveśikān](praveśikān)
+[when-made](kṛteṣu) [three](triṣu) [parts](bhāgeṣu) [from-quarter-less+part](pādonāṃśāt) [recesses](praveśikān)
 
 ## mukta-m0-p106-v2645
-[bhāgena](bhāgena) [caturasrākhyā](caturasrākhyā) [paṭṭikā](paṭṭikā) [sārdhataḥ](sārdhataḥ) [sthitā](sthitā)
+[by-one-part](bhāgena) [called-square](caturasrākhyā) [fillet](paṭṭikā) [by-one-and-a-half](sārdhataḥ) [situated](sthitā)
 
 ## mukta-m0-p106-v2646
-[khuṃrakumbhavatī](khuṃrakumbhavatī) [jaṅghā](jaṅghā) [jyeṣṭhānām](jyeṣṭhānām) [pādamānataḥ](pādamānataḥ)
+[having-base+and-pitcher](khuṃrakumbhavatī) [pillar](jaṅghā) [of-the-best](jyeṣṭhānāṃ) [by-foot+measure](pādamānataḥ)
 
 ## mukta-m0-p106-v2647
-[yāvat](yāvat) [cinnavakām](cinnavakām) [vā](vā) [api](api) [patravalyā](patravalyā) [athavā](athavā) [varā](varā)
+[as-far-as](yāvac) [cinnavaka](cinnavakāṃ) [or+also](vāpi) [with-leaf+garland](patravalyā) [or](athavā) [excellent](varā)
 
 ## mukta-m0-p106-v2648
-[caturthāṃśaḥ](caturthāṃśaḥ) [ca](ca) [jaṅghordhve](jaṅghordhve) [vibhajya](vibhajya) [vasubhāgataḥ](vasubhāgataḥ)
+[fourth+part](caturthāṃśaḥ) [and](ca) [above-pillar](jaṅghordhve) [having-divided](vibhajya) [into-eight+parts](vasubhāgataḥ)
 
 ## mukta-m0-p106-v2649
-[tatrārdhena](tatrārdhena) [praveśākhyaṃ](praveśākhyaṃ) [paṭṭikām](paṭṭikām) [tu](tu) [vi](vi) [vartayet](vartayet)
+[there](tatra) [by-half](ardhena) [called-recess](praveśākhyaṃ) [fillet](paṭṭikāṃ) [but](tu) [indeed-[kh:-on-ground]](vi [kh: bhuvi]) [one-should-make](vartayet)
 
 ## mukta-m0-p106-v2650
-[pādonāṃśena](pādonāṃśena) [haṃsākhyā](haṃsākhyā) [paṭṭī](paṭṭī) [tatpadato](tatpadato) [bhavet](bhavet)
+[by-quarter-less+part](pādonāṃśena) [called-goose-[kh;-called-hand]](haṃsākhyā [kh; hastākhyā]) [fillet](paṭṭī) [from-that+position](tatpadato) [should-be](bhavet)
