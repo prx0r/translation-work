@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p13-v301
-[ādeśī](ādeśī) [veda-vikretā](vedavikretā) [ṣaḍ-ete](ṣaḍete) [śūdra-vat](śūdravat) [dvijāḥ](dvijāḥ)
+[teacher](ādeśī) [veda+seller](vedavikretā) [six+these](ṣaḍete) [shudra+like+twice-born](śūdravaddvijāḥ)
 
 ## mukta-m0-p13-v302
-[manuḥ](manuḥ) [dakṣaḥ](dakṣaḥ) [vasiṣṭhaḥ](vasiṣṭhaḥ) [atriḥ](atriḥ) [kātyāyanaḥ](kātyāyanaḥ) [atha](atha) [gautamaḥ](gautamaḥ)
+[manu](manuḥ) [daksha](dakṣaḥ) [vasishtha](vasiṣṭhaḥ) [atri](atriḥ) [katyayana](kātyāyanaḥ) [then](atha) [gautama](gautamaḥ)
 
 ## mukta-m0-p13-v303
-[śaṅkha](śaṅkha) [likhita](likhita) [hārīta](hārīta) [śātātapa](śātātapa) [parāśara](parāśara)
+[shankha](śaṅkha) [likhita](likhita) [harita](hārīta) [shatatapa](śātātapa) [parashara](parāśaraḥ)
 
 ## mukta-m0-p13-v304
-[na](na) [śaiva-ādi-tipraṣṭhāyām](śaivāditipraṣṭhāyām) [ete](ete) [niyāmakāḥ](niyāmakāḥ)
+[not](na) [shaiva-etc-teacher](śaivāditipraṣṭhāyām) [these](ete) [nipra](niprā) [regulators](niyāmakāḥ)
 
 ## mukta-m0-p13-v305
-[devyāḥ](devyāḥ) [matam](matam) [mayaṃ](mayaṃ) [nandiṃ](nandiṃ) [pratiṣṭhā](pratiṣṭhā) [pārameśvaram](pārameśvaram)
+[goddess](devyā) [opinion](mataṃ) [maya](mayaṃ) [nandi](nandiṃ) [consecration](pratiṣṭhā) [parameshvara](pārameśvaram)
 
 ## mukta-m0-p13-v306
-[śakākhyaṃ](śakākhyaṃ) [vāmadevaṃ](vāmadevaṃ) [ca](ca) [dvidhā](dvidhā) [paitāmahaṃ](paitāmahaṃ) [tathā](tathā)
+[shaka-named](śakākhyaṃ) [vamadeva](vāmadevaṃ) [and](ca) [two-fold](dvidhā) [paitamaha](paitāmahaṃ) [thus](tathā)
 
 ## mukta-m0-p13-v307
-[pratiṣṭhā-tantrāṇi](pratiṣṭhātantrāṇi) [etāni](etāni) [śiva-uktāni](śivoktāni) [eka-viṃśatiḥ](ekaviṃśatiḥ)
+[consecration+tantras](pratiṣṭhātantrāṇi) [these](etāni) [shiva-spoken](śivoktāni) [twenty-one](ekaviṃśatiḥ)
 
 ## mukta-m0-p13-v308
-[padmottha](padmottha) [mārkaṇḍeya](mārkaṇḍeya) [rambhā](rambhā) [siddha-ādi](siddhādi) [rambhataḥ](rambhataḥ)
+[lotus-born](padmottha) [markandeya](mārkaṇḍeya) [by](ābhyāṃ) [rambha](rambhā) [gauri](gaurī) [siddha-etc](siddhādi) [from-rambha](rambhataḥ)
 
 ## mukta-m0-p13-v309
-[mārtaṇḍa-āhrayataḥ](mārtaṇḍāhrayataḥ) [lakṣyaṃ](lakṣyaṃ) [sarvam-etat-samuccayam](sarvametatsamuccayam)
+[markandeya-etc](mārkaṇḍāhrayataḥ) [aim](lakṣyaṃ) [all-this](sarvametatsamuccayam)
 
 ## mukta-m0-p13-v310
-[śiva-āśrama-sthitaiḥ](śivāśramasthitaiḥ) [śaivaiḥ](śaivaiḥ) [pratiṣṭhā](pratiṣṭhā) [na](na) [anya-darśanaiḥ](anyadarśanaiḥ)
+[shaiva-ashrama-dwellers](śivāśramasthitaiḥ) [shaivas](śaivaiḥ) [consecration](pratiṣṭhā) [not-other-views](nānyadarśanaiḥ)
 
 ## mukta-m0-p13-v311
-[śaivāḥ](śaivāḥ) [tat](tat) [na](na) [namasyanti](namasyanti) [sthāpitaṃ](sthāpitaṃ) [ca](ca) [anya-darśanaiḥ](anyadarśanaiḥ)
+[shaivas](śaivāḥ) [that](tat) [not](na) [worship](namasyanti) [established](sthāpitaṃ) [by-other-views](cānyadarśanaiḥ)
 
 ## mukta-m0-p13-v312
-[śaiva-saṃskāra-hīnaḥ](śaivasaṃskārahīnaḥ) [tu](tu) [umābhyāṃ](umābhyāṃ) [patati](patati) [dvijaḥ](dvijaḥ)
+[without-shaiva-samskara](śaivasaṃskārahīnaḥ) [tu](tu) [by-uma](umābhyāṃ) [falls](patati) [twice-born](dvijaḥ)
 
 ## mukta-m0-p13-v313
-[kṛtaṃ](kṛtaṃ) [yat](yat) [vrata-bandha-ādi](vratabandhādi) [tat](tat) [sarvaṃ](sarvaṃ) [niṣphalaṃ](niṣphalaṃ) [bhavet](bhaven)
+[done](kṛtaṃ) [whatever-vow-initiation-etc](yadvratabandhādi) [all-that](tatsarvaṃ) [fruitless](niṣphalaṃ) [becomes](bhaven)
 
 ## mukta-m0-p13-v314
-[na](na) [bhavet](bhaved) [īpsitaṃ](īpsitaṃ) [tatra](tatra) [vṛthā](vṛthā) [eva](eva) [āsau](āsau) [phariśramaḥ](phariśramaḥ)
+[not](na) [would-be-desired](bhavedīpsitaṃ) [there](tatra) [vain](vṛthaiva) [his](asau) [effort](phariśramaḥ)
 
 ## mukta-m0-p13-v315
-[śiva-uktaiḥ](śivoktaiḥ) [ca](ca) [vinā](vinā) [mantraiḥ](mantraiḥ) [tat](tat) [etat](etat) [prāpyate](prāpyate) [katham](katham)
+[without-shiva-spoken](śivoktaiḥ) [and](ca) [without-mantras](vināmantraiḥ) [that-this](tadetat) [obtained](prāpyate) [how](katham)
 
 ## mukta-m0-p13-v316
-[miśraiḥ](miśraiḥ) [vā](vā) [api](api) [atha](atha) [doṣa-āḍhyaṃ](doṣāḍhyaṃ) [kumāra-dyukta-śāstrataḥ](kumāradyuktaśāstrataḥ)
+[mixed](miśraiḥ) [or](vā) [then](atha) [fault-rich](doṣāḍhyaṃ) [from-kumara-etc-scripture](kumāradyuktaśāstrataḥ)
 
 ## mukta-m0-p13-v317
-[karma-caṇḍaṃ](karmacaṇḍaṃ) [bhavet](bhavet) [tasya](tasya) [karma](karma) [caṇḍālakaḥ](caṇḍālakaḥ) [ca](ca) [saḥ](saḥ)
+[karmachanda](karmacaṇḍaṃ) [becomes](bhavettasya) [karma](karma) [chandala-like](caṇḍālakaśca) [he](saḥ)
 
 ## mukta-m0-p13-v318
-[mukti-siddhaṃ](muktisiddhaṃ) [hitaṃ](hitaṃ) [loke](loke) [skanda-uktaṃ](skandoktaṃ) [ca](ca) [atra](atra) [likhyate](likhyate)
+[yukti-siddha](yuktisiddhaṃ) [benefit](hitaṃ) [in-world](loke) [skanda-spoken](skandoktaṃ) [and-here](cātra) [written](likhyate)
 
 ## mukta-m0-p13-v319
-[kriyā](kriyā) [sā](sā) [na](na) [bhavet](bhavet) [sādhvī](sādhvī) [mantra-saṃkara-dūṣitā](mantrasaṃkaradūṣitā)
+[action](kriyā) [that](sā) [not](na) [becomes-pure](bhavetsādhvī) [mantra-mixture-polluted](mantrasaṃkaradūṣitā)
 
 ## mukta-m0-p13-v320
-[agniṣṭoma-ādayaḥ](agniṣṭomādayaḥ) [yadvat](yadvat) [pratiṣṭhā](pratiṣṭhā) [api](api) [iṣyate](iṣyate) [tathā](tathā)
+[agnishtoma-etc](agniṣṭomādayo) [as](yadvat) [consecration](pratiṣṭhā) [desired](īṣyate) [thus](tathā)
 
 ## mukta-m0-p13-v321
-[svarga-loka-phalā](svargalokaphalā) [sādhvī](sādhvī) [vijñeyā](vijñeyā) [vaidikī-kriyā](vaidikīkriyā)
+[heaven-world-fruit](svargalokaphalā) [pure](sādhvī) [known](vijñeyā) [vedic-action](vaidikīkriyā)
 
 ## mukta-m0-p13-v322
-[vānaspatyaṃ](vānaspatyaṃ) [samāsādya](samāsādya) [saṃsaranti](saṃsaranti) [iha](iha) [yājñikāḥ](yājñikāḥ)
+[vanaspatya](vānaspatyaṃ) [having-approached](samāsādya) [wandering-here](saṃsarantīha) [sacrificers](yājñikāḥ)
 
 ## mukta-m0-p13-v323
-[punaḥ](punaḥ) [puṇya-kriyā-kṣīṇaḥ](puṇyakriyākṣīṇaḥ) [sthāvara-ādiṣu](sthāvarādiṣu) [jāyate](jāyate)
+[again](punaḥ) [merit-action-exhausted](puṇyakriyākṣīṇaḥ) [immobile-etc](sthāvarādiṣu) [born](jāyate)
 
 ## mukta-m0-p13-v324
-[tasmāt](tasmāt) [te](te) [munayaḥ](munayaḥ) [sarve](sarva) [śaiva-arthe](śaivārthe) [na](na) [viśāradāḥ](viśāradāḥ)
+[therefore](tasmāt) [those](te) [sages](munayaḥ) [all](sarva) [in-shaiva-matter](śaivārthe) [not-expert](na viśāradāḥ)
 
 ## mukta-m0-p13-v325
-[trayāṇāṃ](trayāṇāṃ) [brahmaṇa-ādīnāṃ](brahmaṇādīnāṃ) [veda-vidyā-pracoditā](vedavidyāpracoditā)
+[of-three](trayāṇāṃ) [brahma-etc](brahmaṇādīnāṃ) [veda-knowledge-impelled](vedavidyāpracoditā)
