@@ -5,73 +5,73 @@
 [good-rain](suvṛṣṭiḥ)
 
 ## mukta-m0-p58-v1427
-[cause-of-nourishment-only](puṣṭyekahetuḥ) [because-of-clear-vision](suvikāsidṛṣṭeḥ)
+[nourishment+sole+cause](puṣṭyekahetuḥ) [well-expanded+sight](suvikāsidṛṣṭeḥ)
 
 ## mukta-m0-p58-v1428
-[cause](hetor) [in-difficult-art-too](durgakalāvapi) [spread](pravitatā) [devotion](bhaktir) [new-arrival](navāṅkāgamat)
+[cause+of+durga+art+also](hetordurgakalāvapi) [spread+out](pravitatā) [devotion+new+limb+arrival](bhaktirnavāṅkāgamat)
 
 ## mukta-m0-p58-v1429
 [ninth](navamī) [devotion](bhaktiḥ)
 
 ## mukta-m0-p58-v1430
-[crop-increasing](sasyavarddhinī)
+[crop+increasing](sasyavarddhinī)
 
 ## mukta-m0-p58-v1431
-[seed-state](bījatvaṃ) [which](yad) [bound-by-compassion](dayābaddhaṃ) [that](sā) [goddess](devī) [crop-increasing](sasyavarddhinī)
+[seed-ness](bījatvaṃ) [which+compassion+bound](yaddayābaddhaṃ) [she](sā) [goddess](devī) [crop+increasing](sasyavarddhinī)
 
 ## mukta-m0-p58-v1432
-[a-syllable](akārā)
+[a-letter](akārā)
 
 ## mukta-m0-p58-v1433
-[embryo](garvo) [not-small](akharvaḥ) [all-letters-first](sarvavarṇaikapūrvā) [with-form](sākāreyaṃ) [sung](gīyate) [by-yoga-lords](yogināthaiḥ)
+[embryo+not-small](garvo'kharvaḥ) [all+letter+one+prior](sarvavarṇaikapūrvā) [with+a+form+this](sākāreyaṃ) [is-sung](gīyate) [by+yoga+lords](yogināthaiḥ)
 
 ## mukta-m0-p58-v1434
-[i-syllable](ikārā)
+[i-letter](ikārā)
 
 ## mukta-m0-p58-v1435
-[pleasant](ramyekārā) [this](seyam) [without-a](ākārahīnā)
+[lovely+i-letter](ramyekārā) [this+she+a-letter+lacking](seyamākārahīnā)
 
 ## mukta-m0-p58-v1436
-[u-syllable](ukārā)
+[u-letter](ukārā)
 
 ## mukta-m0-p58-v1437
-[with-u](sokāreyaṃ) [proclaimed](kīrtitā) [by-form-knowers](mūrtavidbhiḥ)
+[with+u+form+this](sokāreyaṃ) [is-praised](kīrtitā) [by+form-knowers](mūrtavidbhiḥ)
 
 ## mukta-m0-p58-v1438
-[ai-syllable-form](aikārarūpiṇī)
+[ai-letter+form](aikārarūpiṇī)
 
 ## mukta-m0-p58-v1439
-[new](navaṃ) [new](navaṃ) [of-the-auspicious](subhavyānāṃ) [goddess-ai-form](devataikārarūpiṇī)
+[new](navaṃ) [new](navaṃ) [of+well-auspicious-ones](subhavyānāṃ) [goddess+ai-letter+form](devataikārarūpiṇī)
 
 ## mukta-m0-p58-v1440
-[hrīṃ-syllable](hrīṃkārī)
+[hrīṃ-letter](hrīṃkārī)
 
 ## mukta-m0-p58-v1441
-[hrīṃ-syllable-this](hrīṃkārīyaṃ) [in-heart](hṛdgatā) [our](naḥ) [always](sadāstu)
+[hrīṃ-letter+this](hrīṃkārīyaṃ) [heart-residing](hṛdgatā) [our](naḥ) [always+be](sadāstu)
 
 ## mukta-m0-p58-v1442
-[seed-form](bījarūpā)
+[seed+form](bījarūpā)
 
 ## mukta-m0-p58-v1443
-[that](sā) [seed-form](bījarūpā) [of-veda-tree](nigamadrumasya)
+[she](sā) [seed+form](bījarūpā) [of+veda+tree](nigamadrumasya)
 
 ## mukta-m0-p58-v1444
-[klīṃ-syllable](klīṃkārā)
+[klīṃ-letter](klīṃkārā)
 
 ## mukta-m0-p58-v1445
-[always](nityaṃ) [from-desire](kāmāt) [him](taṃ) [how](kathaṃ) [not](na) [remember](smaranti)
+[always](nityaṃ) [from+desire](kāmāt) [him](taṃ) [how](kathaṃ) [not](na) [remember](smaranti)
 
 ## mukta-m0-p58-v1446
-[sky-dwelling](ambaravāsinī)
+[sky+dwelling](ambaravāsinī)
 
 ## mukta-m0-p58-v1447
-[self](svayaṃ) [without-objects](nirviṣayā) [I-know](jāne) [become](saṃvṛttā) [sky-dwelling](ambaravāsinī)
+[self](svayaṃ) [objectless](nirviṣayā) [I-know](jāne) [become+sky+dwelling](saṃvṛttāmbaravāsinī)
 
 ## mukta-m0-p58-v1448
-[all-letters-full](sarvākṣaramayī) [power](śaktiḥ)
+[all+letter+full](sarvākṣaramayī) [power](śaktiḥ)
 
 ## mukta-m0-p58-v1449
-[all-letters-full](sarvākṣaramayī) [power](śaktiḥ) [may-shine](sphuratād) [in-heart](dhṛdaye) [my](mama)
+[all+letter+full](sarvākṣaramayī) [power](śaktiḥ) [may-shine](sphuratāddhṛdaye) [in+heart](hṛdaye) [my](mama)
 
 ## mukta-m0-p58-v1450
 [imperishable](akṣarā)

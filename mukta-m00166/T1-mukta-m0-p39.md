@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p39-v951
-[desiring-battle](yuddhakāṃkṣiṇī)
+[desiring-battle](yuddhakāṃkṣiṇī) [desiring](yuddha) [battle](kāṃkṣiṇī) [feminine](ī)
 
 ## mukta-m0-p39-v952
-[they-would-abandon](tyajeyuḥ) [you](tvam) [not](na) [if](cen) [fainting-causing](mūrcchākartrī) [would-be](syā) [desiring-battle](yuddhakāṃkṣiṇī)
+[they-would-abandon](tyajeyuḥ) [you](tvaṃ) [not](na) [if](cen) [fainting-causing](mūrcchākartrī) [would-be](syā) [desiring-battle](yuddhakāṃkṣiṇī)
 
 ## mukta-m0-p39-v953
-[bannered-one](patākinī)
+[bannered-one](patākinī) [banner](patāka) [possessing](inī) [feminine](ī)
 
 ## mukta-m0-p39-v954
-[status](sthitiṃ) [for-welfare](hitāya) [may-it-be](āstu) [bannered-one](patākinī) [she](sā)
+[for-welfare](hitāya) [let-there-be](astu) [bannered-one](patākinī) [she](sā)
 
 ## mukta-m0-p39-v955
-[compassion-beginning](dayārambhā)
+[compassion-beginning](dayārambhā) [page](p.) [136](136)
 
 ## mukta-m0-p39-v956
 [truth](satyaṃ) [she-indeed](saiva) [compassion-beginning](dayārambhā) [honored-three-worlds](sambhāvitajagatattrayī)
 
 ## mukta-m0-p39-v957
-[vīṇā-fifth-dear](vipañcīpañcamapriyā)
+[five-stringed-fifth-dear](vipañcīpañcamapriyā) [five-stringed](vipañcī) [fifth](pañcama) [dear](priyā)
 
 ## mukta-m0-p39-v958
-[how](kathaṃ) [would-they-be](syuḥ) [would-be-not](syānna) [if](ced) [goddess](devī) [vīṇā-fifth-dear](vipañcīpañcamapriyā)
+[how](kathaṃ) [would-be](syuḥ) [would-be](syāt) [not](na) [ced](ced) [goddess](devī) [five-stringed-fifth-dear](vipañcīpañcamapriyā)
 
 ## mukta-m0-p39-v959
-[supreme-inferior-art-lovely](parāparakalākāntā)
+[supreme-inferior-art-lovely](parāparakalākāntā) [supreme](parā) [inferior](apara) [art](kalā) [lovely](kāntā)
 
 ## mukta-m0-p39-v960
-[supreme-inferior-art-lovely](parāparakalākāntā) [she](sā) [mine](mama) [may-be](astu) [before](agrataḥ) [always](sadā)
+[supreme-inferior-art-lovely](parāparakalākāntā) [she](sā) [mine](mama) [let-be](astu) [before](agrataḥ) [always](sadā)
 
 ## mukta-m0-p39-v961
-[three-powers](triśaktiḥ)
+[three-powers](triśaktiḥ) [three](tri) [powers](śaktiḥ)
 
 ## mukta-m0-p39-v962
-[in-whom](yeṣu) [three-powers](triśaktiḥ) [indeed](kila) [very-pleased](suprasannā)
+[in-whom](yeṣu) [three-powers](triśaktiḥ) [indeed](kila) [well-pleased](suprasannā)
 
 ## mukta-m0-p39-v963
-[liberation-giving](mokṣadāyinī)
+[liberation-giving](mokṣadāyinī) [liberation](mokṣa) [giving](dāyinī)
 
 ## mukta-m0-p39-v964
 [alas](vata) [whose](yasya) [goddess](īśvari) [liberation-giving](mokṣadāyinī) [you](tvam)
 
 ## mukta-m0-p39-v965
-[indra's-power](aindrī)
+[indra's](aindrī) [page](p.) [137](137)
 
 ## mukta-m0-p39-v966
-[by-removing-water-condition](jalatvadūrīkaraṇena) [may-become](bhūyāt) [indra's-power](aindrī) [elephant-lord-mounted](gajendroparigā) [for-prosperity](śriye) [our](naḥ)
+[by-removing-water-state](jalatvadūrīkaraṇena) [may-become](bhūyāt) [indra's](aindrī) [elephant-lord-upon-going](gajendroparigā) [for-prosperity](śriye) [us](naḥ)
 
 ## mukta-m0-p39-v967
-[maheśvara's-power](māheśvarī)
+[maheshvari](māheśvarī) [maheshvara's](māheśvara) [feminine](ī)
 
 ## mukta-m0-p39-v968
-[nevertheless](tathāpi) [trident-bearer](śūlī) [supreme-lord](parameśvaraḥ) [that](tan) [maheśvara's-power-service-born](māheśvarīsevanajaḥ) [grace](prasādaḥ)
+[nevertheless](tathāpi) [trident-bearer](śūlī) [supreme-lord](parameśvaraḥ) [his](tan) [maheshvari-service-born](māheśvarīsevanajaḥ) [grace](prasādaḥ)
 
 ## mukta-m0-p39-v969
-[brahma's-power](brāhmī)
+[brahmi](brāhmī) [brahma's](brahma) [feminine](ī)
 
 ## mukta-m0-p39-v970
-[brahma's-power](brāhmī) [may-be](bhūyāt) [always](sadā) [goddess](devī) [brahma-creation-sole-witness](brahmasṛṣṭyekasākṣiṇī)
+[brahmi](brāhmī) [may-be](bhūyāt) [always](sadā) [goddess](devī) [brahma-creation-sole-witness](brahmasṛṣṭyekasākṣiṇī)
 
 ## mukta-m0-p39-v971
-[kumāra's-power](kaumārī)
+[kaumari](kaumārī) [kumara's](kaumāra) [feminine](ī)
 
 ## mukta-m0-p39-v972
-[boy-stealing](kumārahāriṇī) [may-be](bhūyāt) [kumāra's-power](kaumārī) [death-fear-removing](mārabhītihṛt)
+[boy-stealing](kumārahāriṇī) [may-be](bhūyāt) [kaumari](kaumārī) [death-fear-removing](mārabhītihṛt)
 
 ## mukta-m0-p39-v973
-[clan-dwelling](kulavāsinī)
+[clan-dwelling](kulavāsinī) [clan](kula) [dwelling](vāsinī)
 
 ## mukta-m0-p39-v974
-[auspicious-giving](śivadā) [may-it-stand](stāt) [clan-dwelling](kulavāsinī) [always](sadā) [our](naḥ)
+[auspicious-giving](śivadā) [let-stand](stāt) [clan-dwelling](kulavāsinī) [always](sadā) [us](naḥ)
 
 ## mukta-m0-p39-v975
-[desire](icchā)
+[desire](icchā) [will](icchā) [wish](icchā) [intention](icchā)

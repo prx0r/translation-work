@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p54-v1326
-[kāla+kalpataruṃ](kālakalpataruṃ) [natvā](natvā) [bhūtinī+siddhiḥ+ucyate](bhūtinīsiddhirucyate)
+[time-wish-tree](kālakalpataruṃ) [having-bowed](natvā) [accomplishment-of-bhūtinī](bhūtinīsiddhiḥ) [is-said](ucyate)
 
 ## mukta-m0-p54-v1327
-[tāriṇī](tāriṇī) [siṃhinī](siṃhinī) [ca+atho](cātho) [haṃsinī](haṃsinī) [ca+tato](catato) [naṭī](naṭī)
+[tāriṇī](tāriṇī) [siṃhinī](siṃhinī) [and](ca) [then](atho) [haṃsinī](haṃsinī) [and](ca) [then](tato) [naṭī](naṭī)
 
 ## mukta-m0-p54-v1328
-[krodha+astra+dvaya+nāma+ante](krodhāstradvayanāmānte) [bhūta+vīrya+stri+kūrcataḥ](bhūtavīryastrikūrcataḥ)
+[at-end-of-names-of-two-wrath-weapons](krodhāstradvayanāmānte) [from-bhūta-power-three-kūrca](bhūtavīryastrikūrcataḥ)
 
 ## mukta-m0-p54-v1329
-[krodha+dvayaṃ](krodhadvayaṃ) [tu](tu) [mantraḥ+ayaṃ](mantro'yaṃ) [vibhūṣiṇyāḥ](vibhūṣiṇyā) [udāhṛtaḥ](udāhṛtaḥ)
+[two-wraths](krodhadvayaṃ) [but](tu) [mantra](mantraḥ) [this](ayaṃ) [of-vibhūṣiṇī](vibhūṣiṇyāḥ) [is-declared](udāhṛtaḥ)
 
 ## mukta-m0-p54-v1330
-[yasyāḥ](yasyāḥ) [keśa+kula+ākula+akhila+mahī](keśakulākulākhilamahī) [śaila+antam](śailāntam) [ārakṣatu](ārakṣatu)
+[whose](yasyāḥ) [hair-mass-filled-whole-earth](keśakulākulākhilamahī) [to-mountain-end](śailāntam) [may-protect](ārakṣatu)
 
 ## mukta-m0-p54-v1331
-[japed](japed) [aṣṭa+sahasraṃ](aṣṭasahasraṃ) [tu](tu) [dhyāyan](dhyāyan) [eka+agra+mānasaḥ](nekāgramānasaḥ)
+[should-chant](japet) [eight-thousand](aṣṭasahasraṃ) [but](tu) [meditating](dhyāyan) [one-pointed-mind](ekāgramānasaḥ)
 
 ## mukta-m0-p54-v1332
-[prajaped](prajaped) [ardha+rātre](ardharātre) [tu](tu) [samāyāti](samāyāti) [vibhūṣiṇī](vibhūṣiṇī)
+[should-recite](prajapet) [at-midnight](ardharātre) [but](tu) [comes](samāyāti) [vibhūṣiṇī](vibhūṣiṇī)
 
 ## mukta-m0-p54-v1333
-[mātā](mātā) [vā](vā) [bhaginī](bhaginī) [bhāryā](bhāryā) [tuṣṭā](tuṣṭā) [bhavati](bhavati) [kāmitā](kāmitā)
+[mother](mātā) [or](vā) [sister](bhaginī) [wife](bhāryā) [pleased](tuṣṭā) [becomes](bhavati) [desired](kāmitā)
 
 ## mukta-m0-p54-v1334
-[śata+aṣṭa+parivārasya](śatāṣṭaparivārasya) [dadāti](dadāti) [añjana+bhūṣaṇam](añjanabhūṣaṇam)
+[of-hundred-eight-retinue](śatāṣṭaparivārasya) [gives](dadāti) [collyrium-ornament](añjanabhūṣaṇam)
 
 ## mukta-m0-p54-v1335
-[dadāti](dadāti) [striyam](striyam) [ānīya](ānīya) [divyaṃ](divyaṃ) [rasa+rasāyanam](rasarasāyanam)
+[gives](dadāti) [woman](striyam) [bringing](ānīya) [divine](divyaṃ) [mercury-elixir](rasarasāyanam)
 
 ## mukta-m0-p54-v1336
-[dīnārāṇāṃ](dīnārāṇāṃ) [sahasraṃ](sahasraṃ) [tu](tu) [rasaṃ](rasaṃ) [ca+eva](caiva) [rasāyanam](rasāyanam)
+[of-dinars](dīnārāṇām) [thousand](sahasraṃ) [but](tu) [mercury](rasaṃ) [and](ca) [indeed](eva) [elixir](rasāyanam)
 
 ## mukta-m0-p54-v1337
-[dhruvam](dhruvam) [āyāstra+dvayataḥ](āyāstradvayataḥ) [proktā](proktā) [kuṇḍala+dhāriṇī](kuṇḍaladhāriṇī)
+[certainly](dhruvam) [from-two-āyā-weapons](āyāstradvayataḥ) [declared](proktā) [earring-bearer](kuṇḍaladhāriṇī)
 
 ## mukta-m0-p54-v1338
-[pāyāt](pāyāt) [kuṇḍala+dhāriṇī](kuṇḍaladhāriṇī) [tri+jagatām](trijagatām) [ānanda+sandoha+bhūḥ](ānandasandohabhūḥ)
+[may-protect](pāyāt) [earring-bearer](kuṇḍaladhāriṇī) [of-three-worlds](trijagatām) [bliss-abundance-source](ānandasandohabhūḥ)
 
 ## mukta-m0-p54-v1339
-[āyāti](āyāti) [rudhireṇa](rudhireṇa) [arghyaḥ](arghyaḥ) [deyaḥ](deyaḥ) [tuṣṭaḥ](tuṣṭaḥ) [dadāti](dadāti) [api](api)
+[comes](āyāti) [by-blood](rudhireṇa) [offering](arghyaḥ) [to-be-given](deyaḥ) [pleased](tuṣṭaḥ) [gives](dadāti) [also](api)
 
 ## mukta-m0-p54-v1340
-[pañca+śata+vāsarāṇi](pañcaśatavāsarāṇi) [trailokyam](trailokyam) [api](api) [dāsyati](dāsyati)
+[five-hundred-days](pañcaśatavāsarāṇi) [three-worlds](trailokyam) [also](api) [will-give](dāsyati)
 
 ## mukta-m0-p54-v1341
-[kūrca+traya+astra+saṃproktaḥ](kūrcatrayāstrasaṃproktaḥ) [sindūra+hāriṇī+manuḥ](sindūrahāriṇīmanuḥ)
+[declared-with-three-kūrca-weapons](kūrcatrayāstrasaṃproktaḥ) [sindūra-bearer-mantra](sindūrahāriṇīmanuḥ)
 
 ## mukta-m0-p54-v1342
-[pāyāt](pāyāt) [vallabha+mūla+rāhu+latikā](vallabhamūlarāhulatikā) [sindūra+hāriṇī+asau](sindūrahāriṇyasau)
+[may-protect](pāyāt) [beloved-root-rāhu-creeper](vallabhamūlarāhulatikā) [sindūra-bearer](sindūrahāriṇī) [this](asau)
 
 ## mukta-m0-p54-v1343
-[śīghram](śīghram) [āyātyāgatā](āyātyāgatā) [sā](sā) [bhāryā](bhāryā) [bhavati](bhavati) [kāmitā](kāmitā)
+[quickly](śīghram) [having-come](āyātyāgatā) [she](sā) [wife](bhāryā) [becomes](bhavati) [desired](kāmitā)
 
 ## mukta-m0-p54-v1344
-[rakṣati](rakṣati) [dvādaśa+janān](dvādaśajanān) [devī](devī) [sindūra+hāriṇī](sindūrahāriṇī)
+[protects](rakṣati) [twelve-people](dvādaśajanān) [goddess](devī) [sindūra-bearer](sindūrahāriṇī)
 
 ## mukta-m0-p54-v1345
-[krodha+bīja+trayāt](krodhabījatrayāt) [jātaḥ](jātaḥ) [kīrtitaḥ](kīrtitaḥ) [siṃhinī+manuḥ](siṃhinīmanuḥ)
+[from-three-wrath-seeds](krodhabījatrayāt) [born](jātaḥ) [declared](kīrtitaḥ) [siṃhinī-mantra](siṃhinīmanuḥ)
 
 ## mukta-m0-p54-v1346
-[seyam](seyam) [pātu](pātu) [samasta+mastaka+kula+vyālambi+mālā+kulā](samastamastakakulavyālambimālākulā)
+[she](sā) [this](iyaṃ) [may-protect](pātu) [all-head-family-hanging-garland-filled](samastamastakakulavyālambimālākulā)
 
 ## mukta-m0-p54-v1347
-[tato](tato) [hṛṣṭā+ati+varadā](hṛṣṭā'tivaradā) [siṃhinyā](siṃhinyā) [āyāti](āyāti) [pūjitā](pūjitā)
+[then](tato) [delighted](hṛṣṭā) [very-boon-giving](ativaradā) [siṃhinī](siṃhinī) [comes](āyāti) [worshipped](pūjitā)
 
 ## mukta-m0-p54-v1348
-[dīnāraṃ](dīnāraṃ) [vastra+yugalaṃ](vastrayugalaṃ) [dadhat](dadhad) [rasa+rasāyanam](rasarasāyanam)
+[dinar](dīnāraṃ) [pair-of-clothes](vastrayugalaṃ) [giving](dadhad) [mercury-elixir](rasarasāyanam)
 
 ## mukta-m0-p54-v1349
-[tri+kūrca+astraṃ](trikūrcāstraṃ) [ca](ca) [kathito](kathito) [haṃsi(nī)+manuḥ+uttamaḥ](haṃsi(nī)manuruttamaḥ)
+[three-kūrca-weapon](trikūrcāstraṃ) [and](ca) [declared](kathitaḥ) [haṃsinī-mantra](haṃsinīmanuruttamaḥ)
 
 ## mukta-m0-p54-v1350
-[muktā+yukta+vilola+hāra+latikā](muktāyuktavilolahāralatikā) [śrī+haṃsinī](śrīhaṃsinī) [pātu](pātu) [vaḥ](vaḥ)
+[pearl-adorned-swinging-garland-creeper](muktāyuktavilolahāralatikā) [glorious-haṃsinī](śrīhaṃsinī) [may-protect](pātu) [you](vaḥ)
