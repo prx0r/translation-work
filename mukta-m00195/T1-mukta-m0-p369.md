@@ -2,52 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p369-v9201
-snātvā raktāmbara dharaḥ raktamālya anulepanaḥ
+[having-bathed](snātvā) [red-garment-wearer](raktāmbaradharo) [red-garland-anointed](raktamālyānulepanaḥ)
+
 ## mukta-m0-p369-v9202
-sundarīm yauvana ākrāntām nara pañcaka gāminīm
+[beautiful](sundarīṃ) [youth-overcome](yauvanākrāntāṃ) [man-five-group-going](narapañcakagāminīm)
+
 ## mukta-m0-p369-v9203
-vivastrām pūjayitvā enām ca ayutam prajapet manum
+[naked](vivastrāṃ) [having-worshipped-her](pūjayitvā+enāṃ) [and-ten-thousand](cāyutaṃ) [should-recite-mantra](prajapet+manum)
+
 ## mukta-m0-p369-v9204
-bhojayet vividhaiḥ annaiḥ brāhmaṇān devatā dhiyā
+[should-feed](bhojayet) [various-foods](vividhair+annair) [brahmins](brāhmaṇān) [deity-thought](devatā+dhiyā)
+
 ## mukta-m0-p369-v9205
-nārīm āyuḥ ciram dharmam iṣṭam anyat avāpnuyāt
+[woman](nārīm) [life](āyuḥ) [long](ciraṃ) [dharma](dharmam) [desired](iṣṭam) [other](anyat) [would-obtain](avāpnuyāt)
+
 ## mukta-m0-p369-v9206
-manoratheṣu ca anyeṣu gacchet tām prajapet manum
+[in-desires](manoratheṣu) [and-others](cānyeṣu) [would-go](gacchet) [that](tāṃ) [should-recite-mantra](prajapet+manum)
+
 ## mukta-m0-p369-v9207
-śāstra jñānam pāpa nāśaḥ sarva saukhyam labhet dhruvam
+[scripture-knowledge](śāstra+jñānaṃ) [sin-destruction](pāpa+nāśaḥ) [all-happiness](sarva+saukhyaṃ) [would-obtain](labhet) [certainly](dhruvam)
+
 ## mukta-m0-p369-v9208
-aṅga māsa antare mantrī kavitvena jayet kavim
+[limb-month-interval](aṅga+māsa+antare) [mantra-practitioner](mantrī) [by-poetic-skill](kavitvena) [would-defeat-poet](jayet+kavim)
+
 ## mukta-m0-p369-v9209
-māyā tāra paṭām mantre japet aṣṭottaram śatam
+[māyā](māyā) [tāra-paṭa](tāra+paṭāṃ) [mantra](mantre) [should-recite](japet) [hundred-eight](aṣṭottaraṃ+śatam)
+
 ## mukta-m0-p369-v9210
-eṣa nūnam vidhiḥ gopyaḥ siddhi kāmena mantriṇā
+[this](eṣa) [indeed](nūnaṃ) [rite](vidhiḥ) [secret](gopyaḥ) [by-siddhi-desiring](siddhi+kāmena) [by-mantra-practitioner](mantriṇā)
+
 ## mukta-m0-p369-v9211
-atha vakṣye ṣoḍaśārṇam catur bhedam manum uttamam
+[now](atha) [will-speak](vakṣye) [sixteen-syllable](ṣoḍaśārṇaṃ) [four-fold](catur+bhedaṃ) [mantra-best](manu+uttamam)
+
 ## mukta-m0-p369-v9212
-dahanasya tithiḥ varṇaḥ lakṣmī bīja ādikaḥ [śrīṃ bījamādau saṃyojya pūrvoktamantro dhanāptikara iti bhāvaḥ || ] dhane
+[burning's](dahanasya) [tithi](tithiḥ) [letter](varṇaḥ) [lakshmi-seed-etc](lakṣmī+bīja+ādikaḥ) [wealth](dhane)
+
 ## mukta-m0-p369-v9213
-vāg bīja ādyena mokṣaḥ syāt catvāraḥ praṇava ādikāḥ
+[speech-seed-etc](vāg+bīja+ādyena) [liberation](mokṣaḥ) [would-be](syāt) [four](catvāraḥ) [om-etc](praṇava+ādikāḥ)
+
 ## mukta-m0-p369-v9214
-upāsyāḥ catur āmnāyaiḥ muniḥ brahmā samīritaḥ
+[worshipful](upāsyāḥ) [four-amnayas](catur+āmnāyaiḥ) [sage](muniḥ) [brahma](brahmā) [declared](samīritaḥ)
+
 ## mukta-m0-p369-v9215
-dharma artha kāma mokṣāṇām guruḥ eva samāśrayaḥ
+[dharma-wealth-desire-liberation](dharmārtha+kāma+mokṣāṇāṃ) [guru](guruḥ) [indeed](eva) [refuge](samāśrayaḥ)
+
 ## mukta-m0-p369-v9216
-dadāti aṣṭau mahā siddhīḥ kim punaḥ kṣullakāḥ priyāḥ
+[gives](dadāti) [eight](aṣṭau) [great-siddhis](mahā+siddhīḥ) [what-more](kim+punaḥ) [small](kṣullakāḥ) [dear](priyāḥ)
+
 ## mukta-m0-p369-v9217
-kāmya karmaṇi sarvatra dhyānam syāt puṣpa varṇakam
+[desired-rite](kāmya+karmaṇi) [everywhere](sarvatra) [meditation](dhyānaṃ) [would-be](syāt) [flower-colored](puṣpa+varṇakam)
+
 ## mukta-m0-p369-v9218
-sadā kālam japet mantram āpattasya na vidyate
+[always](sadā+kālaṃ) [should-recite-mantra](japet+mantram) [of-afflicted](āpattasya) [not](na) [exists](vidyate)
+
 ## mukta-m0-p369-v9219
-stambhayet paśu śastrāṇi yāvat muṣṭim na muñcati
+[should-paralyze](stambhayet) [animals-weapons](paśu+śastrāṇi) [as-long-as](yāvat) [fist](muṣṭiṃ) [not](na) [releases](muñcati)
+
 ## mukta-m0-p369-v9220
-vimucyate haṭhāt rogān mukta rogaḥ sukhī bhavet
+[is-freed](vimucyate) [by-force](haṭhāt) [from-diseases](rogān) [disease-freed](mukta+rogaḥ) [happy](sukhī) [would-be](bhavet)
+
 ## mukta-m0-p369-v9221
-dhyāna pūjā ādikam prāgvat kiñcit kāmyam udīryate
+[meditation-worship-etc](dhyāna+pūjā+ādikaṃ) [as-before](prāgvat) [somewhat](kiñcit) [desired](kāmyam) [is-declared](udīryate)
+
 ## mukta-m0-p369-v9222
-mahā uraga sataiḥ daṣṭam mṛtam utthāpayet naraḥ
+[by-great-serpents](mahā+uraga+sataiḥ) [bitten](daṣṭaṃ) [dead](mṛtam) [should-raise](utthāpayet) [man](naraḥ)
+
 ## mukta-m0-p369-v9223
-pītena stambhayet nityam naukā vāji gaja ādikam
+[by-yellow](pītena) [should-paralyze](stambhayet) [always](nityaṃ) [boat-horse-elephant-etc](naukā+vāji+gaja+ādikam)
+
 ## mukta-m0-p369-v9224
-mārayet api ayatnena kṛṣṇa dhyānāt na saṃśayaḥ
+[would-kill](mārayet) [even](api) [effortlessly](ayatnena) [by-black-meditation](kṛṣṇa+dhyānāt) [no](na) [doubt](saṃśayaḥ)
+
 ## mukta-m0-p369-v9225
-ghṛtena madhunā vā api surayā tatra sādhakaḥ
+[by-ghee](ghṛtena) [by-honey](madhunā) [or](vā+api) [by-liquor](surayā) [there](tatra) [practitioner](sādhakaḥ)
