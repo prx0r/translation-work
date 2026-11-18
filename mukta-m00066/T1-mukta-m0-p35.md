@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p35-v851
-[upariṣṭād](upariṣṭād) [dūtikāyām](dūtikāyām) [sthitāyām](sthitāyām) [eva](eva) [jāyate](jāyate)
+[above](upariṣṭād) [messenger-in](dūtikāyāṃ) [standing-indeed](sthitāyāmeva) [arises](jāyate)
 
 ## mukta-m0-p35-v852
-[kiṃcit](kiṃcit) [cara](cara) [śukla](śukla) [biṃdu](biṃdu) [kapaṭe](kapaṭe) [iṃdu](iṃdu) [vibhūṣitaḥ](vibhūṣitaḥ)
+[some](kiṃcit) [moving](carat) [white-drop](śukla+biṃdu) [deceit-moon-ornamented](kapaṭa+iṃdu+vibhūṣitaḥ)
 
 ## mukta-m0-p35-v853
-[yoni](yoni) [golaka](golaka) [saṃchannaḥ](saṃchannaḥ) [prakaroti](prakaroti) [ūrdhva](ūrdhva) [tāṇḍavam](tāṇḍavam)
+[womb-globe-covered](yoni+golaka+saṃchannaḥ) [does-upward-dance](prakaroti+ūrdhva+tāṇḍavam)
 
 ## mukta-m0-p35-v854
-[puruṣāyita](puruṣāyita) [śabdena](śabdena) [ghuṣyate](ghuṣyate) [madana](madana) [āgame](āgame)
+[by-puruṣāyita-word](puruṣāyita+śabdena) [is-proclaimed](ghuṣyate) [in-madana-arrival](madana+āgame)
 
 ## mukta-m0-p35-v855
-[upari](upari) [ullasati](ullasati) [svairam](svairam) [utkaṃpi](utkaṃpi) [kuca](kuca) [maṃḍalā](maṃḍalā)
+[above-shines](upari+ullasati) [freely](svairam) [trembling](utkaṃpi) [breast-orb](kucamaṃḍalā)
 
 ## mukta-m0-p35-v856
-[tatas](tatas) [tu](tu) [cāṃdramamṛtaṃ](cāṃdramamṛtaṃ) [śivatvasya](śivatvasya) [pradāyakam](pradāyakam)
+[then](tataḥ) [tu](tu) [lunar-nectar](cāṃdra+mṛtam) [of-śiva-ness](śivatvasya) [giver](pradāyakam)
 
 ## mukta-m0-p35-v857
-[juhuyāt](juhuyāt) [āhutiṃ](āhutiṃ) [ṣaṭhīṃ](ṣaṭhīṃ) [maṃtreṇa](maṃtreṇa) [anena](anena) [sādhakaḥ](sādhakaḥ)
+[should-offer](juhuyāt) [oblation](āhutim) [sixth](ṣaṭhīm) [by-mantra](maṃtreṇa+anena) [practitioner](sādhakaḥ)
 
 ## mukta-m0-p35-v858
-[arcayāmi](arcayāmi) [bhavat](bhavat) [gātra](gātra) [mataḥ](mataḥ) [siddhiṃ](siddhiṃ) [prayaccha](prayaccha) [me](me)
+[I-worship](arcayāmi) [your-limb](bhavat+gātra) [from-that](mataḥ) [success](siddhim) [grant-me](prayaccha+me)
 
 ## mukta-m0-p35-v859
-[somāmṛtaṃ](somāmṛtaṃ) [paraṃ](paraṃ) [pītvā](pītvā) [ca](ca) [agni](agni) [soma](soma) [svarūpa](svarūpa) [dhṛk](dhṛk)
+[lunar-nectar](soma+amṛtam) [supreme](param) [having-drunk](pītvā) [and](ca) [fire-moon-form-bearing](agni+soma+svarūpa+dhṛk)
 
 ## mukta-m0-p35-v860
-[mahādevasya](mahādevasya) [saṃsiddhiṃ](saṃsiddhiṃ) [soma](soma) [tattvasya](tattvasya) [paśyatām](paśyatām)
+[of-great-god](mahādevasya) [perfection](saṃsiddhim) [of-moon-principle](soma+tattvasya) [of-seers](paśyatām)
 
 ## mukta-m0-p35-v861
-[labhate](labhate) [caṃdravat](caṃdravat) [kāṃtiṃ](kāṃtiṃ) [kāṃtyā](kāṃtyā) [viśva](viśva) [vimohinīm](vimohinīm)
+[obtains](labhate) [moon-like](caṃdra+vat) [radiance](kāṃtim) [radiance-world-bewitching](kāṃtyā+viśva+vimohinīm)
 
 ## mukta-m0-p35-v862
-[caṃdra](caṃdra) [saumya](saumya) [mukhatvaṃ](mukhatvaṃ) [ca](ca) [viṣa](viṣa) [nāśana](nāśana) [pāṭavam](pāṭavam)
+[moon-gentle](caṃdra+saumya) [face-ness](mukhatvam) [ca](ca) [poison-destroying-skill](viṣa+nāśana+pāṭavam)
 
 ## mukta-m0-p35-v863
-[vājīkaraṇa](vājīkaraṇa) [lābhaṃ](lābhaṃ) [ca](ca) [vinā](vinā) [maṃtraiḥ](maṃtraiḥ) [vinā](vinā) [auṣadhaiḥ](auṣadhaiḥ)
+[aphrodisiac-gain](vājīkaraṇa+lābham) [ca](ca) [without-mantras](vinā+maṃtraiḥ) [without-medicines](vinā+auṣadhaiḥ)
 
 ## mukta-m0-p35-v864
-[bhogeṣu](bhogeṣu) [a](a) [navasādaṃ](navasādaṃ) [ca](ca) [prāpnoti](prāpnoti) [ānaṃda](ānaṃda) [pūrṇatām](pūrṇatām)
+[in-enjoyments](bhogeṣu) [a](a) [no-fatigue](navasādam) [ca](ca) [obtains](prāpnoti) [bliss-fullness](ānanda+pūrṇatām)
 
 ## mukta-m0-p35-v865
-[ekākāreṇa](ekākāreṇa) [sarveṣām](sarveṣām) [iṃdriyāṇām](iṃdriyāṇām) [vilīnatā](vilīnatā)
+[by-one-form](ekākāreṇa) [of-all](sarveṣām) [senses](iṃdriyāṇām) [dissolution](vilīnatā)
 
 ## mukta-m0-p35-v866
-[apāṃge](apāṃge) [mukulībhāvaḥ](mukulībhāvaḥ) [kāṃtiḥ](kāṃtiḥ) [unmeṣiṇī](unmeṣiṇī) [mukhe](mukhe)
+[water-bud-state](apāṃga+mukulībhāvaḥ) [radiance](kāṃtiḥ) [unblinking-face](unmeṣiṇī+mukhe)
 
 ## mukta-m0-p35-v867
-[ati](ati) [śītala](śītala) [karpūra](karpūra) [parāgaiḥ](parāgaiḥ) [iva](iva) [liṃpati](liṃpati)
+[very-cool-camphor](ati+śītala+karpūra) [pollens](parāgaiḥ) [anoints](ivaliṃpati)
 
 ## mukta-m0-p35-v868
-[kaṃpra](kaṃpra) [cūcuka](cūcuka) [cārubhyāṃ](cārubhyāṃ) [pūrṇābhyāṃ](pūrṇābhyāṃ) [pulakāṃkuraiḥ](pulakāṃkuraiḥ)
+[by-beautiful-full-nipples](kaṃpra+cūcuka+cārubhyām) [full](pūrṇābhyām) [with-goosebumps](pulakāṃkuraiḥ)
 
 ## mukta-m0-p35-v869
-[pada](pada) [vikṣepa](vikṣepa) [sakṣepa](sakṣepa) [protkṣepaṇa](protkṣepaṇa) [vidhā](vidhā) [śataiḥ](śataiḥ)
+[foot-movement](pada+vikṣepa) [sudden](sakṣepa) [raising](protkṣepaṇa) [hundreds-of-ways](vidhā+śataiḥ)
 
 ## mukta-m0-p35-v870
-[haṭhāt](haṭhāt) [ka](ka) [ca](ca) [grahā](grahā) [bharttuḥ](bharttuḥ) [haṭhāt](haṭhāt) [ca](ca) [paricuṃbanam](paricuṃbanam)
+[suddenly](haṭhāt) [ka](ka) [graha-lord](graha+bharttuḥ) [suddenly](haṭhāt) [ca](ca) [kissing](paricuṃbanam)
 
 ## mukta-m0-p35-v871
-[muhur](muhur) [utkṣipya](utkṣipya) [nāthasya](nāthasya) [kaṃṭhaṃ](kaṃṭhaṃ) [tatra](tatra) [rada](rada) [kṣatiḥ](kṣatiḥ)
+[repeatedly](muhuḥ) [raising](utkṣipya) [lord's](nāthasya) [neck](kaṃṭham) [there](tatra) [tooth-mark](rada+kṣatiḥ)
 
 ## mukta-m0-p35-v872
-[tat](tat) [kālena](kālena) [atha](atha) [gātreṣu](gātreṣu) [caṃdra](caṃdra) [avasthā](avasthā) [vilokanam](vilokanam)
+[at-that-time](tatkālena) [lord](nātha) [on-limbs](gātreṣu) [moon-state](caṃdra+avasthā) [seeing](vilokanam)
 
 ## mukta-m0-p35-v873
-[ayi](ayi) [nātha](nātha) [mano](mano) [nātha](nātha) [prāṇa](prāṇa) [nātha](nātha) [priya](priya) [apriye](apriye)
+[lord-of-mind](manonātha) [lord-of-life](prāṇanātha) [dear](priyā) [dear](priye)
 
 ## mukta-m0-p35-v874
-[madaṃbā](madaṃbā) [nātha](nātha) [mannātha](mannātha) [reremuṃca](reremuṃca) [vimuṃca](vimuṃca) [mām](mām)
+[mad-ambā-lord](mada+ambā+nātha) [food-lord](anna+nātha) [sport](reremuṃca) [release-me](vimuṃca+mām)
 
 ## mukta-m0-p35-v875
-[kā](kā) [ahaṃ](ahaṃ) [kaḥ](kaḥ) [tvam](tvam) [kasya](kasya) [gṛhaṃ](gṛhaṃ) [etat](etat) [kiṃ](kiṃ) [nu](nu) [mayā](mayā) [ucyate](ucyate)
+[who-am-I](kā+aham) [who-are-you](kaḥ+tvam) [whose-house](kasya+gṛham) [this](etat) [what](kim) [by-me](mayā) [is-said](ucyate)

@@ -2,28 +2,28 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p49-v1201
-[yathā](yathā) [dharmeṇa](dharmeṇa) [tiṣṭhaṃti](tiṣṭhaṃti) [kṛtādi](kṛtādi) [samaye](samaye) [narāḥ](narāḥ)
+[yathā/yadā](yathā [kh: yadā]) [dharmeṇa](dharmeṇa) [tiṣṭhaṃti](tiṣṭhaṃti) [kṛtādi](kṛtādi) [samaye](samaye) [narāḥ](narāḥ)
 
 ## mukta-m0-p49-v1202
 [navā](navā) [klabyaṃ](klabyaṃ) [navādainyaṃ](navādainyaṃ) [na](na) [dhairyaṃ](dhairyaṃ) [na](na) [ca](ca) [matsaraḥ](matsaraḥ)
 
 ## mukta-m0-p49-v1203
-[etepi](etepi) [doṣā](doṣā) [na](na) [kṛte](kṛte) [puṇyarāśiḥ](puṇyarāśiḥ) [pravarddhate](pravarddhate)
+[etepi](etepi) [doṣā](doṣā) [na](na) [kṛte](kṛte) [puṇyarāśiḥ/puṇyā-](puṇyarāśiḥ [kh: puṇyā-]) [pravarddhate](pravarddhate [k: * * * *])
 
 ## mukta-m0-p49-v1204
-[tatrakevalamadhyātma](tatrakevalamadhyātma) [ciṃtārthaṃ](ciṃtārthaṃ) [svasvaśaktiṣu](svasvaśaktiṣu)
+[tatrakevalamadhyātma](tatrakevalamadhyātma) [ciṃtārthaṃ/-rdaṃ](ciṃtārthaṃ [k: -rdaṃ]) [svasvaśaktiṣu](svasvaśaktiṣu)
 
 ## mukta-m0-p49-v1205
-[tadā](tadā) [paśūnāṃ](paśūnāṃ) [vyāvṛttirūhāpohavivarjjitā](vyāvṛttirūhāpohavivarjjitā)
+[tadā/tathā](tadā [kh: tathā]) [paśūnāṃ](paśūnāṃ) [vyāvṛttirūhāpohavivarjjitā](vyāvṛttirūhāpohavivarjjitā)
 
 ## mukta-m0-p49-v1206
-[tasminkṛtādisamaye](tasminkṛtādisamaye) [yannije](yannije) [cetase](cetase) [sthitam](sthitam)
+[tasminkṛtādisamaye](tasminkṛtādisamaye) [yannije](yannije) [cetase/-si](cetase [kh: -si]) [sthitam](sthitam)
 
 ## mukta-m0-p49-v1207
 [ata](ata) [eva](eva) [samācārastisṝṇāmapi](samācārastisṝṇāmapi) [pārvati](pārvati)
 
 ## mukta-m0-p49-v1208
-[anāvṛtāḥ](anāvṛtāḥ) [striyaḥ](striyaḥ) [sarvāḥ](sarvāḥ) [tadāsan](tadāsan) [svairavṛttayaḥ](svairavṛttayaḥ)
+[anāvṛtāḥ/-tā](anāvṛtāḥ [kh: -tā]) [striyaḥ](striyaḥ) [sarvāḥ/sarvās](sarvāḥ [kh: sarvās]) [tadāsan](tadāsan) [svairavṛttayaḥ](svairavṛttayaḥ)
 
 ## mukta-m0-p49-v1209
 [yadā](yadā) [kadācit](kadācit) [puṇyārthamapatyārthaṃ](puṇyārthamapatyārthaṃ) [pravarttate](pravarttate)
@@ -32,7 +32,7 @@
 [tatrāpatyaṃ](tatrāpatyaṃ) [samutpādya](samutpādya) [nijavāṃchāṃ](nijavāṃchāṃ) [prapūrayan](prapūrayan)
 
 ## mukta-m0-p49-v1211
-[upabhuktāmaye](upabhuktāmaye) [yaṃ](yaṃ) [stritya](stritya) [abhimāno](abhimāno) [na](na) [kaścana](kaścana)
+[upabhuktāmaye](upabhuktāmaye) [yaṃ](yaṃ) [stritya/stri *](stritya [kh: stri *]) [abhimāno](abhimāno) [na](na) [kaścana](kaścana)
 
 ## mukta-m0-p49-v1212
 [samastajāti](samastajāti) [sāmyena](sāmyena) [tadā](tadā) [sarve](sarve) [sthitānarāḥ](sthitānarāḥ)
@@ -47,10 +47,10 @@
 [rāgadveṣa](rāgadveṣa) [mahādāvadahyamāna](mahādāvadahyamāna) [itastataḥ](itastataḥ)
 
 ## mukta-m0-p49-v1216
-[dvāparādyeṣu](dvāparādyeṣu) [kāleṣu](kāleṣu) [rāgadveṣa](rāgadveṣa) [vimūrchitaḥ](vimūrchitaḥ)
+[dvāparādyeṣu](dvāparādyeṣu) [kāleṣu](kāleṣu) [rāgadveṣa](rāgadveṣa) [vimūrchitaḥ/vimūrcitaḥ](vimūrchitaḥ [kh: vimūrcitaḥ])
 
 ## mukta-m0-p49-v1217
-[mamaivasakalābhūmi](mamaivasakalābhūmi) [viṣayatvena](viṣayatvena) [tiṣṭhatu](tiṣṭhatu)
+[mamaivasakalābhūmi/-lamūmi](mamaivasakalābhūmi [k: -lamūmi]) [viṣayatvena](viṣayatvena) [tiṣṭhatu](tiṣṭhatu)
 
 ## mukta-m0-p49-v1218
 [mamaiva](mamaiva) [sakalānārīrati](sakalānārīrati) [karmaṇi](karmaṇi) [tiṣṭhatu](tiṣṭhatu)
@@ -71,7 +71,7 @@
 [na](na) [mūrdhnodeha](mūrdhnodeha) [pīḍāṃvānātmaśṛṃgasya](pīḍāṃvānātmaśṛṃgasya) [moṭanam](moṭanam)
 
 ## mukta-m0-p49-v1224
-[vṛthādveṣeṇa](vṛthādveṣeṇa) [kinnāśaṃ](kinnāśaṃ) [vyayaṃyāma](vyayaṃyāma) [iti](iti) [priye](priye)
+[vṛthādveṣeṇa/vṛdhā-](vṛthādveṣeṇa [kh: vṛdhā-]) [kinnāśaṃ](kinnāśaṃ) [vyayaṃyāma](vyayaṃyāma) [iti](iti) [priye](priye)
 
 ## mukta-m0-p49-v1225
 [ato'nyonyasya](ato'nyonyasya) [hananamanyonyasya](hananamanyonyasya) [ca](ca) [māraṇam](māraṇam)

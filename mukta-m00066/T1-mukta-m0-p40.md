@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p40-v976
-[many](bahunā) [what](kim) [here](iha) [said](uktena) [direct](sākṣāt) [bliss-giver](ānaṃdadāyakaḥ)
+by-much-what-said direct bliss giver
 
 ## mukta-m0-p40-v977
-[thus](iti) [second](dvitīya) [pāta](pātasya) [mantra](maṃtra) [name](sannāma) [spoken](īritam)
+thus of-second-part mantra-name spoken
 
 ## mukta-m0-p40-v978
-[eight-bhogavatī](aṣṭabhogavatī) [holds](dhatte) [great-sovereignty](mahāsāmrājya) [lordship](nāthatām)
+eight-enjoyment-possessing holds great-empire lordship
 
 ## mukta-m0-p40-v979
-[all-forms](sarvākāreṇa) [consciousness](caitanya) [dissolution](layaḥ) [all-limbed-beautiful](sarvāṃgasuṃdarī)
+in-all-forms consciousness dissolution all-limb-beautiful
 
 ## mukta-m0-p40-v980
-[universe](viśvakṣati) [and](ca) [whatever](yatkiṃcin) [not](na) [goes-out](niryāti) [crookedness](vakrataḥ)
+world-injury and whatever-not and goes-out from-crookedness
 
 ## mukta-m0-p40-v981
-[not](na) [effort](ceṣṭā) [not](na) [ca](ca) [agitation](saṃraṃbho) [not](na) [ca](ca) [delusion](mohana) [cry](kūjitam)
+not effort not and agitation not and deluding cry
 
 ## mukta-m0-p40-v982
-[not](na) [tooth](daṃta) [falling](pātanomuṣṭi) [blow](ghātena) [and](ca) [ka](ka) [graha](ca grahaḥ)
+not tooth fist-striking by-blow and what and seizure
 
 ## mukta-m0-p40-v983
-[not](na) [girdle](mekhalā) [sound](kalakvāṇo) [not](na) [play-union](līlāsaṃgamaṃgayaḥ)
+not girdle tinkling not playful-union-limb
 
 ## mukta-m0-p40-v984
-[heart-place](hṛdayasthāna) [born](janitaḥ) [trembling](kaṃpaḥ) [others](paraparāyate)
+heart-place born trembling goes-to-other
 
 ## mukta-m0-p40-v985
-[one-eight](ekāṣṭaka) [great-sacrifice](mahāyāga) [wing-drop](pakṣebiṃduṃ) [release](samutsṛjet)
+one-eight-great-sacrifice wing-drop should-release
 
 ## mukta-m0-p40-v986
-[eight-eight](aṣṭāṣṭaka) [great-sacrifice](mahāyāge) [messenger-eight](dūtyaṣṭakam) [thereafter](ataḥ param)
+eight-eight-great-sacrifice messenger-eight then beyond
 
 ## mukta-m0-p40-v987
-[this](iyameva) [indeed](hi) [śakti](śakteśca) [and](ca) [śambhu](śaṃbhorekatayā) [unity](ekatayā) [state](sthitiḥ)
+this-only indeed of-Shakti-and of-Shambhu-unity state
 
 ## mukta-m0-p40-v988
-[thus](itthamānaṃda) [sacrifice](yāgo'yaṃ) [told](kathitaste) [great-lady](maheśvari)
+thus-bliss sacrifice-this told-to-you great-lady
 
 ## mukta-m0-p40-v989
-[your](bhavato) [lotus-face](vadanāṃbhojāt) [well-heard](suśruto'ṣṭāhuti) [sequence](kramaḥ)
+your from-lotus-mouth well-heard eight-offerings order
 
 ## mukta-m0-p40-v990
-[hear](śrotuṃ) [desire](vāṃcchāmi) [lord](deveśa) [after-sacrifice](yāgānaṃtarajaṃ) [sequence](kramam)
+to-hear I-desire lord-of-gods sacrifice-after-born order
 
 ## mukta-m0-p40-v991
-[listen](śṛṇu) [goddess](devi) [great-fortunate](mahābhāge) [what](yanmāṃtvaṃ) [ask](paripṛcchasi)
+hear goddess great-fortunate what-me-you ask
 
 ## mukta-m0-p40-v992
-[hero](vīraḥ) [long-dance](suciranṛttena) [tired-lord](śrāṃtaliṃgamaheśvaraḥ)
+hero by-long-dance tired-linga-great-lord
 
 ## mukta-m0-p40-v993
-[then](atha) [defiled](pradūṣita) [fall](pāte) [filled](pūrite) [merit-things](puṇyavastubhiḥ)
+then polluted vessel filled with-meritorious-things
 
 ## mukta-m0-p40-v994
-[bliss-lord](ānaṃdanāthasya) [mantra](manuṃ) [twenty-eight](cāṣṭāviṃśativārakam)
+of-bliss-lord mantra and-twenty-eight-times
 
 ## mukta-m0-p40-v995
-[right-hand](dakṣahastasya) [palm](culuke) [holding](dhārayitvā) [wise](vicakṣaṇaḥ)
+of-right-hand in-palm holding wise
 
 ## mukta-m0-p40-v996
-[pure-both](saśuddhibhyāṃtayorbiṃduṃ) [verses](kārikāḥ) [reciting](prapaṭhan) [scatter](kiret)
+with-purity-both-end-drop verses reciting should-scatter
 
 ## mukta-m0-p40-v997
-[these](etairānaṃdayāgāṃta) [white-red-drop](śuklaśoṇitabiṃdubhiḥ)
+by-these-bliss-sacrifice-end by-white-blood-drops
 
 ## mukta-m0-p40-v998
-[these](etairānaṃdayāgāṃta) [white-red-drop](śuklaśoṇitabiṃdubhiḥ)
+by-these-bliss-sacrifice-end by-white-blood-drops
 
 ## mukta-m0-p40-v999
-[these](etairānaṃdayāgāṃta) [white-red-drop](śuklaśoṇitabiṃdubhiḥ)
+by-these-bliss-sacrifice-end by-white-blood-drops
 
 ## mukta-m0-p40-v1000
-[these](etairānaṃdayāgāṃta) [white-red-drop](śuklaśoṇitabiṃdubhiḥ)
+by-these-bliss-sacrifice-end by-white-blood-drops
