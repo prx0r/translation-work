@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p32-v776
-[weapons](āyudhair) [man](nara) [horn-born](śṛṅga+utthaiḥ) [fighting](yudhvā) [sky](gagana) [forest](kānane)
+[weapons](āyudhaiḥ) [man](nara) [horn-born](śṛṅgotthaiḥ) [fighting](yudhvā) [sky](gaganaka) [forest](ānane)
 
 ## mukta-m0-p32-v777
-[ray](marīci) [stream](srotasi) [dream](svāpna) [maidens](kāminībhiḥ) [indeed](hi) [plays](khelati)
+[ray](marīci) [stream](srotasi) [dream](svāpna) [lovely-women](kāminībhiḥ) [indeed](hi) [plays](khelati)
 
 ## mukta-m0-p32-v778
-[having-heard](śrutvā) [thus](evam) [dear](priya) [speech](vākyam) [she](sā) [clever](caturā) [said](prāha) [him](tam) [again](punaḥ)
+[having-heard](śrutvā) [thus](evam) [dear-speech](priyavākyam) [she](sā) [clever](caturā) [said](prāha) [him](tam) [again](punaḥ)
 
 ## mukta-m0-p32-v779
-[thus](tathā) [spoken](prokta) [jester](vidūṣaka) [speech-like](vākyavat) [inconsistent](asaṅgatam)
+[so](tathā) [spoken-jester-speech-like](proktavidūṣakavākyavat) [inconsistent](asaṅgatam)
 
 ## mukta-m0-p32-v780
-[not](na) [of-such](mādṛśānām) [speech](vacanam) [unsupported](nirālambam) [anywhere](kvacid) [would-be](bhavet)
+[not](na) [of-such-women](mādṛśānām) [speech](vacanam) [unsupported](nirālambam) [anywhere](kvacid) [would-be](bhavet)
 
 ## mukta-m0-p32-v781
-[thus-meaning](ityarthaḥ) [beautiful](saundarya) [would-be](vadbhavet)
+[thus-meaning](ityarthaḥ) [beautiful](saundaryavat) [would-be](bhavet)
 
 ## mukta-m0-p32-v782
-[his](tasya) [not](na) [above](ūrdhvam) [not](na) [below](adhastāt) [world](lokaḥ) [is](asti) [happiness-means](sukha+sādhanam)
+[of-him](tasya) [not](na) [above](ūrdhvam) [nor](na) [below](adhastāt) [world](lokaḥ) [is](asti) [happiness-means](sukhasādhanam)
 
 ## mukta-m0-p32-v783
-[meaningless-speech](apārtha+vacasā) [from-falsehood](asatyāt) [not](na) [world](lokaḥ)
+[meaningless-speech](apārthavacasā) [from-falsehood](asatyāt) [not](na) [world](lokaḥ)
 
 ## mukta-m0-p32-v784
-[equal-vision](sama+dṛṣṭim) [does-not-attain](naiti) [quickly](śīghram) [collyrium](añjanānām) [speech-groups](vaco+gaṇaiḥ)
+[equal-vision](samadṛṣṭim) [does-not-attain](naiti) [quickly](śīghram) [collyrium](añjanānām) [speech-groups](vacogaṇaiḥ)
 
 ## mukta-m0-p32-v785
-[to-know](jñātum) [impossible](aśakyam) [intent](ityāśayena) [says](āha) [listen](śṛṇu) [thus](iti)
+[to-know](jñātum) [impossible](aśakyam) [intent](āśayena) [says](āha) [listen](śṛṇu) [thus](iti)
 
 ## mukta-m0-p32-v786
-[inquirer](jijñāsuḥ) [with-falsehoods](asatyaiḥ) [do-I-join](yojayāmi) [what](kim) [not](na) [join](yojayāmi) [indeed](eva) [thus-meaning](ityarthaḥ)
+[inquirer](jijñāsuḥ) [with-falsehoods](asatyaiḥ) [shall-I-join](yojayāmi) [what](kim) [not](na) [I-join-indeed](yojayāmyeva) [thus-meaning](ityarthaḥ)
 
 ## mukta-m0-p32-v787
-[in-world](loke) [indeed](hi) [skilled](kuśalaḥ) [mortal](martyaḥ) [all-dealings](sarva+vyavahṛtau) [surely](nanu)
+[in-world](loke) [indeed](hi) [skillful](kuśalaḥ) [mortal](martyaḥ) [in-all-dealings](sarvavyavahṛtau) [surely](nanu)
 
 ## mukta-m0-p32-v788
-[skilled](kuśalaḥ) [even](api) [past-meaning](atīta+artham) [your-speech](tvad+vacanam) [how](katham) [shall-I-examine](parīkṣiṣyāmi) [thus](iti) [if](ced) [says](āha) [world](loka) [thus](iti)
+[skillful](kuśalaḥ) [even](api) [past-meaning](atītārtham) [your-speech](tvadvacanam) [how](katham) [shall-I-examine](parīkṣiṣyāmi) [thus](iti) [if](ced) [says](āha) [world](loka) [thus](iti)
 
 ## mukta-m0-p32-v789
-[example](nidarśanam) [will-give](pradāsyāmi) [to-you](tubhyam) [here](atra) [examination](samīkṣayā)
+[example](nidarśanam) [I-will-give](pradāsyāmi) [to-you](tubhyam) [here](atra) [examination](samīkṣayā)
 
 ## mukta-m0-p32-v790
-[example](nidarśanam) [will-give](pradāsyāmi) [experienced](anubhūtam) [remind](smārayāmi) [here](atra) [my-speech-examination](mad+vacana+parīkṣāyām)
+[example](nidarśanam) [I-will-give](pradāsyāmi) [experienced](anubhūtam) [I-remind](smārayāmi) [here](atra) [my-speech-examination](madvacanaparīkṣāyām)
 
 ## mukta-m0-p32-v791
-[long-ago](cirāt) [my-speech](mad+vacanāt) [he](saḥ) [today](adya) [whence](kutaḥ) [not](na) [happiness-means](sukha+sādhanam)
+[for-long](cirāt) [my-speech](madvacanāt) [he](saḥ) [today](adya) [whence](kutaḥ) [not](na) [happiness-means](sukhasādhanam)
 
 ## mukta-m0-p32-v792
-[would-be-indeed](bhaved+eva) [know](jānīhi) [thus](iti) [sense](bhāvaḥ)
+[would-be-indeed](bhavedeva) [know](jānīhi) [thus](iti) [sense](bhāvaḥ)
 
 ## mukta-m0-p32-v793
-[this](etad) [example](nidarśanena) [indeed](eva) [own-view](sva+matam) [to-know](vettum) [should](arhasi)
+[this-example](etannidarśanena) [indeed](eva) [own-view](svamatam) [to-know](vettum) [you-should](arhasi)
 
 ## mukta-m0-p32-v794
 [proof](pramāṇam) [non-proof](apramāṇam) [or](vā) [thus](iti) [to-know](vettum)
 
 ## mukta-m0-p32-v795
-[enemy](ripuḥ) [in-world](loke) [would-be](bhaved) [reliable-speech](āpta+uktiṣu) [firm](sthiraḥ)
+[enemy](ripuḥ) [in-world](loke) [would-be](bhavet) [reliable-speeches](āptoktiṣu) [firm](sthiraḥ)
 
 ## mukta-m0-p32-v796
-[non-trust](anāśvāsaḥ) [non-faith](aśraddhā)
+[non-confidence](anāśvāsaḥ) [non-faith](aśraddhā)
 
 ## mukta-m0-p32-v797
-[protects](rakṣati) [from-great-fears](prauḍha+bhītibhyaḥ) [in-all-ways](sarvathā) [not](nahi) [doubt](saṃśayaḥ)
+[protects](rakṣati) [from-great-fears](prauḍhabhītibhyaḥ) [in-all-ways](sarvathā) [not](na) [doubt](saṃśayaḥ)
 
 ## mukta-m0-p32-v798
-[he](saḥ) [would-be](bhavet) [in-all-respects](sarvataḥ) [deficient](hīnaḥ) [who](yaḥ) [faithless](śraddhā+rahitaḥ) [man](naraḥ)
+[he](saḥ) [would-be](bhavet) [in-all-ways](sarvataḥ) [deficient](hīnaḥ) [who](yaḥ) [faithless](śraddhārahitaḥ) [man](naraḥ)
 
 ## mukta-m0-p32-v799
-[therefore](ataḥ) [indeed](eva) [in-all-respects](sarvataḥ) [deficient](hīnaḥ) [would-be](bhavet)
+[therefore](ataḥ) [indeed](eva) [in-all-ways](sarvataḥ) [deficient](hīnaḥ) [would-be](bhavet)
 
 ## mukta-m0-p32-v800
-[faithless](aśraddhaḥ) [in-mother-matter](mātṛ+viṣaye) [child](bālaḥ) [would-live](jīvet) [how](katham) [say](vada)
+[faithless](aśraddhaḥ) [in-mother-matter](mātṛviṣaye) [child](bālaḥ) [would-live](jīvet) [how](katham) [say](vada)

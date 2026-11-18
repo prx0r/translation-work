@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p90-v2226
-[shiva-epithet](ḍāmareśo) [shiva-epithet](virūpākṣo) [shiva-epithet](viśvabhoktā) [shiva-epithet](vibhāvasuḥ)
+[lord-of-damaru](ḍāmareśo) [one-with-deformed-eyes](virūpākṣo) [world-enjoyer](viśvabhoktā) [fire](vibhāvasuḥ)
 
 ## mukta-m0-p90-v2227
-[shiva-epithet](vinetā) [shiva-epithet](vinayī) [shiva-epithet](vādī) [shiva-epithet](vāntado) [shiva-epithet](vāgbhavo) [shiva-epithet](vaṭuḥ)
+[guide](vinetā) [humble](vinayī) [speaker](vādī) [vomiter](vāntado) [speech-born](vāgbhavo) [youth](vaṭuḥ)
 
 ## mukta-m0-p90-v2228
-[shiva-epithet](virādheyo) [shiva-epithet](virāgīno) [shiva-epithet](vilāsī) [shiva-epithet](lāsyalālasaḥ)
+[enemy-of-viradha](virādheyo) [dispassionate](virāgīno) [playful](vilāsī) [eager-for-dance](lāsyalālasaḥ)
 
 ## mukta-m0-p90-v2229
-[shiva-epithet](dhanī) [shiva-epithet](dhyeyo'pyadhyeyaśca) [shiva-epithet](dharmyo) [shiva-epithet](dharmamayo) [shiva-epithet](dayaḥ)
+[wealthy](dhanī) [meditable](dhyeyo) [unmeditable](adhyeyaḥ) [righteous](dharmyo) [full-of-dharma](dharmamayo) [compassion](dayaḥ)
 
 ## mukta-m0-p90-v2230
-[shiva-epithet](ḍulicakṣurdarīvāso) [shiva-epithet](dambhī) [shiva-epithet](devamayātmakaḥ)
+[eye-of-dulika](ḍulicakṣur) [cave-dweller](darīvāso) [hypocrite](dambhī) [divine-self](devamayātmakaḥ)
 
 ## mukta-m0-p90-v2231
-[shiva-epithet](śanaiścaro) [shiva-epithet](vegagati(100)) [shiva-epithet](vācālo) [shiva-epithet](rāhuravyayaḥ)
+[saturn](śanaiścaro) [swift-moving](vegagatiḥ) [talkative](vācālo) [rahu](rāhuḥ) [imperishable](avyayaḥ)
 
 ## mukta-m0-p90-v2232
-[shiva-epithet](bhargarūpabhṛt)
+[bearer-of-bhargas-form](bhargarūpabhṛt)
 
 ## mukta-m0-p90-v2233
-[shiva-epithet](gajānanapriyo) [shiva-epithet](gīto) [shiva-epithet](gānī) [shiva-epithet](snānārcanapriyaḥ)
+[dear-to-gajanana](gajānanapriyo) [sung](gīto) [singer](gānī) [fond-of-bathing-worship](snānārcanapriyaḥ)
 
 ## mukta-m0-p90-v2234
-[shiva-epithet](parātmako) [shiva-epithet](virāḍvāso) [shiva-epithet](vānaro'mitakarmakṛt)
+[supreme-self](parātmako) [cosmic-garment](virāḍvāso) [monkey](vānaraḥ) [doer-of-boundless-deeds](amitakarmakṛt)
 
 ## mukta-m0-p90-v2235
-[shiva-epithet](nandīśvaro) [shiva-epithet](nayo) [shiva-epithet](nāgo) [shiva-epithet](nāgālaṅkāramaṇḍitaḥ)
+[lord-of-nandi](nandīśvaro) [leader](nayo) [serpent](nāgo) [adorned-with-serpent-ornaments](nāgālaṅkāramaṇḍitaḥ)
 
 ## mukta-m0-p90-v2236
-[shiva-epithet](trilocanastrilokeśastrimūrtistripurāntakaḥ)
+[three-eyed](trilocanaḥ) [lord-of-three-worlds](trilokeśaḥ) [three-formed](trimūrtiḥ) [destroyer-of-tripura](tripurāntakaḥ)
 
 ## mukta-m0-p90-v2237
-[shiva-epithet](vyasanī) [shiva-epithet](toṣitaḥ) [shiva-epithet](śambhustridhārūpastrivarṇabhāk)
+[addicted](vyasanī) [pleased](toṣitaḥ) [shambhu](śambhuḥ) [three-streamed-form](tridhārūpaḥ) [possessor-of-three-colors](trivarṇabhāk)
 
 ## mukta-m0-p90-v2238
-[shiva-epithet](tridhāguṇī) [shiva-epithet](viśvakartā) [shiva-epithet](viśvabhartā''dhipūruṣaḥ)
+[possessor-of-three-gunas](tridhāguṇī) [creator-of-universe](viśvakartā) [sustainer-of-universe](viśvabhartā) [supreme-person](adhipūruṣaḥ)
 
 ## mukta-m0-p90-v2239
-[shiva-epithet](vivekākṣo) [shiva-epithet](viśālākṣo'vidhirvidhiranuttamaḥ)
+[eye-of-discrimination](vivekākṣo) [wide-eyed](viśālākṣo) [not-vidhi](avidhiḥ) [vidhi](vidhiḥ) [unsurpassed](anuttamaḥ)
 
 ## mukta-m0-p90-v2240
-[shiva-epithet](smṛtimān) [shiva-epithet](smṛtidaḥ) [shiva-epithet](smārto) [shiva-epithet](brahmā) [shiva-epithet](brahmavidāṃ) [shiva-epithet](varaḥ)
+[remembering](smṛtimān) [giver-of-memory](smṛtidaḥ) [scriptural](smārto) [brahma](brahmā) [best-of-knowers-of-brahma](brahmavidāṃvaraḥ)
 
 ## mukta-m0-p90-v2241
-[shiva-epithet](calācalo'calagatirvegī) [shiva-epithet](vīrādhipo) [shiva-epithet](varaḥ)
+[moving-and-still](calācalaḥ) [motionless-moving](acalagatiḥ) [swift](vegī) [lord-of-heroes](vīrādhipo) [boon](varaḥ)
 
 ## mukta-m0-p90-v2242
-[shiva-epithet](sarvavyāpī) [shiva-epithet](sarvarūpaḥ) [shiva-epithet](sāgaraśca) [shiva-epithet](sameśvaraḥ)
+[all-pervading](sarvavyāpī) [all-formed](sarvarūpaḥ) [ocean](sāgaraḥ) [equal-lord](sameśvaraḥ)
 
 ## mukta-m0-p90-v2243
-[shiva-epithet](sarasvān) [shiva-epithet](satyavāk) [shiva-epithet](satyaḥ) [shiva-epithet](satyarūpaḥ) [shiva-epithet](sudhīḥ) [shiva-epithet](sukhī)
+[possessor-of-sarasvati](sarasvān) [truth-speaking](satyavāk) [truth](satyaḥ) [truth-formed](satyarūpaḥ) [good-minded](sudhīḥ) [happy](sukhī)
 
 ## mukta-m0-p90-v2244
-[shiva-epithet](vasumān) [shiva-epithet](vasudhānātho) [shiva-epithet](vasurūpo) [shiva-epithet](vasupradaḥ)
+[possessor-of-vasus](vasumān) [lord-of-earth](vasudhānāthaḥ) [vasu-formed](vasurūpo) [giver-of-vasus](vasupradaḥ)
 
 ## mukta-m0-p90-v2245
-[shiva-epithet](īśo'vaśeṣo'vayavī) [shiva-epithet](śeṣaśāyī) [shiva-epithet](śriyaḥ) [shiva-epithet](patiḥ)
+[lord](īśaḥ) [remainder](avaśeṣaḥ) [having-parts](avayavī) [shesha-reclining](śeṣaśāyī) [lord-of-shri](śriyaḥpatiḥ)
 
 ## mukta-m0-p90-v2246
-[shiva-epithet](sthiraḥ) [shiva-epithet](sthāṇuraṇuḥ) [shiva-epithet](pīnaḥ) [shiva-epithet](pīnavakṣāḥ) [shiva-epithet](parātparaḥ)
+[firm](sthiraḥ) [pillar](sthāṇuḥ) [atom](aṇuḥ) [fat](pīnaḥ) [broad-chested](pīnavakṣāḥ) [higher-than-highest](parātparaḥ)
 
 ## mukta-m0-p90-v2247
-[shiva-epithet](paśurūpaḥ) [shiva-epithet](paśupatiḥ) [shiva-epithet](paśujñānī) [shiva-epithet](payonidhiḥ)
+[animal-formed](paśurūpaḥ) [lord-of-beasts](paśupatiḥ) [knower-of-beasts](paśujñānī) [ocean-of-milk](payonidhiḥ)
 
 ## mukta-m0-p90-v2248
-[shiva-epithet](śūlī) [shiva-epithet](śubhaṅkaraḥ) [shiva-epithet](śobhyaḥ) [shiva-epithet](śubhakartā) [shiva-epithet](śacīpatiḥ)
+[trident-bearer](śūlī) [auspicious-maker](śubhaṅkaraḥ) [splendid](śobhyaḥ) [doer-of-good](śubhakartā) [lord-of-shachi](śacīpatiḥ)
 
 ## mukta-m0-p90-v2249
-[shiva-epithet](caturbhujaścāṣṭabhujaḥ) [shiva-epithet](sahasrabhujamaṇḍitaḥ)
+[four-armed](caturbhujaḥ) [eight-armed](aṣṭabhujaḥ) [adorned-with-thousand-arms](sahasrabhujamaṇḍitaḥ)
 
 ## mukta-m0-p90-v2250
-[shiva-epithet](devo) [shiva-epithet](mahodadhirdivyo) [shiva-epithet](divyakīrtirdivākaraḥ)
+[god](devo) [great-ocean](mahodadhiḥ) [divine](divyo) [divine-fame](divyakīrtiḥ) [sun](divākaraḥ)

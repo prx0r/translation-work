@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p09-v201
-[sword-lord](khaḍgīśo) [flaming](jvālinī) [chest](vakṣaḥ) [bend](vaṅkaḥ) [hollow](raṅkaḥ) [pot](kalasaṃ) [sun](ravi) [pot](kalasaṃ) [sound-denoting](dhvanivācakaḥ)
+[khaḍgīśo](khaḍgīśo) [jvālinī](jvālinī) [vakṣaḥ](vakṣaḥ) [vaṅkaḥ+raṅkaḥ+kalasaṃ+ravi]( [vaṅkaḥ + raṅkaḥ kalasaṃ ravi]) [kalasaṃ](kalasaṃ) [dhvanivācakaḥ](dhvanivācakaḥ)
 
 ## mukta-m0-p09-v202
-[three-element](tridhātuḥ) [shankara](śaṅkaraḥ) [best](śreṣṭho) [distinction](viśeṣo) [yama-abode](yamasādanam)
+[tridhātuḥ](12) [tridhātuḥ](tridhātuḥ) [śaṅkaraḥ](śaṅkaraḥ) [śreṣṭho](śreṣṭho) [viśeṣo](viśeṣo) [yamasādanam](yamasādanam)
 
 ## mukta-m0-p09-v203
-[sha](śa)
+[śa](śa)
 
 ## mukta-m0-p09-v204
-[happiness-named](saukhyanāmā) [kumara-bone](kumāro'sthi) [shrikantha](śrīkaṇṭho) [bull-banner](vṛṣaketanaḥ)
+[saukhyanāmā](saukhyanāmā) [kumāro'sthi](kumāro'sthi) [śrīkaṇṭho](śrīkaṇṭho) [vṛṣaketanaḥ](vṛṣaketanaḥ)
 
 ## mukta-m0-p09-v205
-[death-god](mṛtyudevo) [great-lakshmi](mahālakṣmīrmahendraḥ) [great-indra](mahendraḥ) [clan-kaula](kulakaulinī)
+[mṛtyudevo](16) [mṛtyudevo](mṛtyudevo) [mahālakṣmīrmahendraḥ](mahālakṣmīrmahendraḥ) [kulakaulinī](kulakaulinī)
 
 ## mukta-m0-p09-v206
-[left-thigh](vāmoruḥ) [lotus-self](puṇḍarīkātmā) [radiance](kāntiḥ) [auspicious-denoting](kalyāṇavācakaḥ)
+[vāmoruḥ](vāmoruḥ) [puṇḍarīkātmā](puṇḍarīkātmā) [kāntiḥ](kāntiḥ) [kalyāṇavācakaḥ](kalyāṇavācakaḥ)
 
 ## mukta-m0-p09-v207
-[supreme-station](parameṣṭhī) [left-arm](vāmabāhuḥ) [best](śreṣṭho) [womb-release](garbhavimocanaḥ)
+[parameṣṭhī](parameṣṭhī) [vāmabāhuḥ](vāmabāhuḥ) [śreṣṭho](śreṣṭho) [garbhavimocanaḥ](garbhavimocanaḥ)
 
 ## mukta-m0-p09-v208
-[good-shri](suśrīruṣmā) [heat](uṣmā) [bull](vṛṣo) [shame](lajjā) [wind-food](marudbhakṣyaḥ) [dear](priyaḥ) [shiva](śivaḥ)
+[suśrīruṣmā](4) [suśrīruṣmā](suśrīruṣmā) [vṛṣo](vṛṣo) [lajjā](lajjā) [marudbhakṣyaḥ](marudbhakṣyaḥ) [priyaḥ](priyaḥ) [śivaḥ](śivaḥ)
 
 ## mukta-m0-p09-v209
-[black-throat](kalakaṇṭho) [middle-split](madhyabhinnā) [battle-self](yuddhātmā) [impure](khalpūḥ) [head](śiraḥ)
+[kalakaṇṭho](kalakaṇṭho) [madhyabhinnā](madhyabhinnā) [yuddhātmā](yuddhātmā) [khalpūḥ](khalpūḥ) [śiraḥ](śiraḥ)
 
 ## mukta-m0-p09-v210
-[world-seed](jagadbījaṃ) [shakti-named](śaktināmā) [i-am](so'haṃ) [speed](vega) [bhrgu](bhṛguḥ)
+[jagadbījaṃ](8) [jagadbījaṃ](jagadbījaṃ) [śaktināmā](śaktināmā) [so'haṃ](so'haṃ) [vega(śa)vatī](vega(śa)vatī) [bhṛguḥ](bhṛguḥ)
 
 ## mukta-m0-p09-v211
-[daksha-foot](dakṣapādo) [nectar](amṛtaṃ) [brahmi](brāhmī) [supreme-self](paramātmā) [beyond-syllable](paro'kṣaraḥ)
+[dakṣapādo'mṛtaṃ](dakṣapādo'mṛtaṃ) [brāhmī](brāhmī) [paramātmā](paramātmā) [paro'kṣaraḥ](paro'kṣaraḥ)
 
 ## mukta-m0-p09-v212
-[life-breath](prāṇādyastripurādevī) [lakshmi](lakṣmīḥ) [soma](somo) [golden-earth](hiraṇyabhūḥ)
+[prāṇādyastripurādevī](12) [prāṇādyastripurādevī](prāṇādyastripurādevī) [lakṣmīḥ](lakṣmīḥ) [somo](somo) [hiraṇyabhūḥ](hiraṇyabhūḥ)
 
 ## mukta-m0-p09-v213
-[durga-deliverer](durgottāriṇī) [delusion](sammohā) [jiva](jīvo) [mind-charming](mūrtimanoharaḥ)
+[durgottāriṇī](durgottāriṇī) [sammohā](sammohā) [jīvo](jīvo) [mūrtimanoharaḥ](mūrtimanoharaḥ)
 
 ## mukta-m0-p09-v214
-[nakulisha](nakulīśo) [world-life](jagatprāṇaḥ) [life-lord](prāṇeśaḥ) [kapila-pure](kapilā'malaḥ)
+[nakulīśo](nakulīśo) [jagatprāṇaḥ](jagatprāṇaḥ) [prāṇeśaḥ](prāṇeśaḥ) [kapilā'malaḥ](kapilā'malaḥ)
 
 ## mukta-m0-p09-v215
-[deer](mṛgo) [fearless](abhayā) [red](aruṇā) [pillar](sthāṇuḥ) [jackal](kroṣṭuḥ) [well-cry](kūpavirāvaṇaḥ)
+[mṛgo'bhayā'ruṇā](mṛgo'bhayā'ruṇā) [sthāṇuḥ](sthāṇuḥ) [kroṣṭuḥ](kroṣṭuḥ) [kūpavirāvaṇaḥ](kūpavirāvaṇaḥ)
 
 ## mukta-m0-p09-v216
-[self-restraint](svakopavāraṇaḥ) [trident](śūlī) [consciousness](caitanyaṃ) [foot-filling](pādapūraṇaḥ)
+[sva(sa)kopavāraṇaḥ](1) [sva(sa)kopavāraṇaḥ](sva(sa)kopavāraṇaḥ) [śūlī](śūlī) [caitanyaṃ](caitanyaṃ) [pādapūraṇaḥ](pādapūraṇaḥ)
 
 ## mukta-m0-p09-v217
-[bindu](bindurdurgā) [durga](durgā) [dear-goddess](priyā) [devi](devī) [cloud](meghaḥ) [dark-lord](śyāmeśvaraḥ) [person](pumān)
+[bindurdurgā](bindurdurgā) [priyā](priyā) [devī](devī) [meghaḥ](meghaḥ) [śyāmeśvaraḥ](śyāmeśvaraḥ) [pumān](pumān)
 
 ## mukta-m0-p09-v218
-[daksha-foot](dakṣapādaḥ) [always](sadā) [shambhu](śambhuḥ) [sakhot](sākhoṭaḥ) [soma-mandala](somamaṇḍalam)
+[dakṣapādaḥ](4) [dakṣapādaḥ](dakṣapādaḥ) [sadā](sadā) [śambhuḥ](śambhuḥ) [sākhoṭaḥ](sākhoṭaḥ) [somamaṇḍalam](somamaṇḍalam)
 
 ## mukta-m0-p09-v219
-[pervading](vyāpinī) [shiva-giving](śivadā) [ketu](keturjagat) [world](jagat) [plow](sīrataraṃ) [force](haṭhaḥ)
+[vyāpinī](vyāpinī) [śivadā](śivadā) [keturjagat](keturjagat) [sīrataraṃ](sīrataraṃ) [haṭhaḥ](haṭhaḥ)
 
 ## mukta-m0-p09-v220
-[belly](jaṭharo) [nakuli](nakuliḥ) [yellow](pītaḥ) [shiva-lord](śiveśo) [ananga-garland](anaṅgamālinī)
+[jaṭharo](8) [jaṭharo](jaṭharo) [nakuliḥ](nakuliḥ) [pītaḥ](pītaḥ) [śiveśo'naṅgamālinī](śiveśo'naṅgamālinī)
 
 ## mukta-m0-p09-v221
-[ksa](kṣa)
+[kṣa](kṣa)
 
 ## mukta-m0-p09-v222
-[narasimha](nṛsiṃho) [lightning](vidyutā) [maya](māyā) [great-tejas](mahātejā) [yuga-end](yugāntakaḥ)
+[nṛsiṃho](12) [nṛsiṃho](nṛsiṃho) [vidyutā](vidyutā) [māyā](māyā) [mahātejā](mahātejā) [yugāntakaḥ](yugāntakaḥ)
 
 ## mukta-m0-p09-v223
-[all-limb](sarvāṅgaṃ) [ocean](sāgaraḥ) [kama](kāmaḥ) [union-end](saṃyogāntastripūrakaḥ)
+[sarvāṅgaṃ](sarvāṅgaṃ) [sāgaraḥ](sāgaraḥ) [kāmaḥ](kāmaḥ) [saṃyogāntastripūrakaḥ](saṃyogāntastripūrakaḥ)
 
 ## mukta-m0-p09-v224
-[face](mukhaṃ) [poem](kavyaṃ) [great-endless](mahānantā) [time-tongue](kālajihvā) [ganesha](gaṇeśvaraḥ)
+[mukhaṃ](mukhaṃ) [kavyaṃ](kavyaṃ) [mahānantā](mahānantā) [kālajihvā](kālajihvā) [gaṇeśvaraḥ](gaṇeśvaraḥ)
 
 ## mukta-m0-p09-v225
-[shadow-son](chāyāputraśca) [conjunction](saṃghāto) [malaya-shri](malayaśrīrlalāṭakaḥ) [forehead](lalāṭakaḥ)
+[chāyāputraśca](chāyāputraśca) [saṃghāto](saṃghāto) [malayaśrīrlalāṭakaḥ](malayaśrīrlalāṭakaḥ)

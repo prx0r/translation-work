@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p79-v1951
-[sthāṇu-rūpaḥ](sthāṇurūpaś) [cara-gatiḥ](caragatiś) [cāru-vaktraḥ](cāruvaktro) [jayī](jayī) [nayī](nayī)
+[divine-epithet](sthāṇurūpaścaragatiścāruvaktro) [divine-epithet](jayī) [divine-epithet](nayī)
 
 ## mukta-m0-p79-v1952
-[lakṣmī-netra-vaśī](lakṣmīnetravaśī) [lakṣmī-hāsa-vaśyaḥ](lakṣmīhāsavaśyo) [vinartakaḥ](vinartakaḥ)
+[divine-epithet](lakṣmīnetravaśī) [divine-epithet](lakṣmīhāsavaśyo) [divine-epithet](vinartakaḥ)
 
 ## mukta-m0-p79-v1953
-[vāsavaḥ](vāsavo) [gopya-mārga-iṣṭaḥ](gopyamārgeṣṭo) [vaiṣṇava-ācāra-tatparaḥ](vaiṣṇavācāratatparaḥ)
+[divine-epithet](vāsavo) [divine-epithet](gopyamārgeṣṭo) [divine-epithet](vaiṣṇavācāratatparaḥ)
 
 ## mukta-m0-p79-v1954
-[satyaḥ](satyaḥ) [stutyaḥ](stutyaḥ) [śuciḥ](śucirnityo) [nityaḥ](nityo) [nitya-ātmā](nityātmā) [nitya-darśanaḥ](nityadarśanaḥ)
+[divine-epithet](satyaḥ) [divine-epithet](stutyaḥ) [divine-epithet](śucirnityo) [divine-epithet](nityātmā) [divine-epithet](nityadarśanaḥ)
 
 ## mukta-m0-p79-v1955
-[pañcama-svara-saṅgītaḥ](pañcamasvarasaṅgītaḥ) [kīrti-daḥ](kīrtido) [mohana-aśanaḥ](mohanāśanaḥ)
+[divine-epithet](pañcamasvarasaṅgītaḥ) [divine-epithet](kīrtido) [divine-epithet](mohanāśanaḥ)
 
 ## mukta-m0-p79-v1956
-[lakṣmī-yogeśvaraḥ](lakṣmīyogīśvaro) [lakṣmī-yoga-daḥ](lakṣmīyogado) [bhogināyakaḥ](bhogināyakaḥ)
+[divine-epithet](lakṣmīyogīśvaro) [divine-epithet](lakṣmīyogado) [divine-epithet](bhogināyakaḥ)
 
 ## mukta-m0-p79-v1957
-[acintya-mahimā](acintyamahimā) [acintya-garimā](acintyagarimā) [ghora-nisvanaḥ](ghoranisvanaḥ)
+[divine-epithet](acintyamahimā) [divine-epithet](acintyagarimā) [divine-epithet](ghoranisvanaḥ)
 
 ## mukta-m0-p79-v1958
-[kāmadevaḥ](kāmadevo) [vaidya-vaidyaḥ](vaidyavaidyo) [veda-vid](vedavid) [veda-nāyakaḥ](vedanāyakaḥ)
+[divine-epithet](kāmadevo) [divine-epithet](vaidyavaidyo) [divine-epithet](vedavid) [divine-epithet](vedanāyakaḥ)
 
 ## mukta-m0-p79-v1959
-[yājñikaḥ](yājñiko) [yamināṃ-trātā](yamināṃtrātā) [triloka-janakaḥ](trilokajanako) [ajaraḥ](ajaraḥ)
+[divine-epithet](yājñiko) [divine-epithet](yamināṃ) [divine-epithet](trātā) [divine-epithet](trilokajanako) [divine-epithet](ajaraḥ)
 
 ## mukta-m0-p79-v1960
-[lakṣmī-pṛthu-vasu-prītaḥ](lakṣmīpṛthurvasuprīto) [lakṣmī-śrī-daḥ](lakṣmīśrīdaḥ) [śriyaḥ-patiḥ](śriyaḥpatiḥ)
+[divine-epithet](lakṣmīpṛthurvasuprīto) [divine-epithet](lakṣmīśrīdaḥ) [divine-epithet](śriyaḥpatiḥ)
 
 ## mukta-m0-p79-v1961
-[anirvartī](anirvartī) [ca](ca) [niḥsaṅgaḥ](niḥsaṅgo) [nirbhayaḥ](nirbhayo) [nirupadravaḥ](nirupadravaḥ)
+[divine-epithet](anirvartī) [divine-epithet](ca) [divine-epithet](niḥsaṅgo) [divine-epithet](nirbhayo) [divine-epithet](nirupadravaḥ)
 
 ## mukta-m0-p79-v1962
-[nirāśrayaḥ](nirāśrayo) [nirguṇaḥ](nirguṇaśca) [guṇa-atītaḥ](guṇātīto) [gaṇeśvaraḥ](gaṇeśvaraḥ)
+[divine-epithet](nirāśrayo) [divine-epithet](nirguṇaśca) [divine-epithet](guṇātīto) [divine-epithet](gaṇeśvaraḥ)
 
 ## mukta-m0-p79-v1963
-[mahā-kratuḥ](mahākratur) [yajña-vapuḥ](yajñavapur) [varāhaḥ](varāho) [yajña-nāyakaḥ](yajñanāyakaḥ)
+[divine-epithet](mahākraturyajñavapurvarāho) [divine-epithet](yajñanāyakaḥ)
 
 ## mukta-m0-p79-v1964
-[lakṣmī-nirañjanaḥ](lakṣmīnirañjano) [lakṣmī-siddhi-daḥ](lakṣmīsiddhidaḥ) [siddhi-vardhanaḥ](siddhivardhanaḥ)
+[divine-epithet](lakṣmīnirañjano) [divine-epithet](lakṣmīsiddhidaḥ) [divine-epithet](siddhivardhanaḥ)
 
 ## mukta-m0-p79-v1965
-[sarva-loka-dharaḥ](sarvalokadharo) [dāntaḥ](dānto) [danti-danta-āyudhaḥ](dantidantāyudho) [damī](damī)
+[divine-epithet](sarvalokadharo) [divine-epithet](dānto) [divine-epithet](dantidantāyudho) [divine-epithet](damī)
 
 ## mukta-m0-p79-v1966
-[mahā-karmā](mahākarmā) [mahā-cīnaḥ](mahācīno) [makāra-śiva-pūjitaḥ](makāraśivapūjitaḥ)
+[divine-epithet](mahākarmā) [divine-epithet](mahācīno) [divine-epithet](makāraśivapūjitaḥ)
 
 ## mukta-m0-p79-v1967
-[māṃsa-āhārī](māṃsāhārī) [nitya-saṅgī](nityasaṅgī) [mīna-asava-rasa-ākulaḥ](mīnāsavarasākulaḥ)
+[divine-epithet](māṃsāhārī) [divine-epithet](nityasaṅgī) [divine-epithet](mīnāsavarasākulaḥ)
 
 ## mukta-m0-p79-v1968
-[aghora-devaḥ](aghoradevo) [daitya-ariḥ](daityārir) [jita-devaḥ](jitadevo) [divākaraḥ](divākaraḥ)
+[divine-epithet](aghoradevo) [divine-epithet](daityārirjitadevo) [divine-epithet](divākaraḥ)
 
 ## mukta-m0-p79-v1969
-[sat-svarūpaḥ](satsvarūpo) [virūpākṣaḥ](virūpākṣo) [vibhākara-śata-prabhaḥ](vibhākaraśataprabhaḥ)
+[divine-epithet](satsvarūpo) [divine-epithet](virūpākṣo) [divine-epithet](vibhākaraśataprabhaḥ)
 
 ## mukta-m0-p79-v1970
-[pīna-bāhuḥ](pīnabāhuḥ) [sthūla-pādaḥ](sthūlapādo) [dīrgha-cakṣuḥ](dīrghacakṣuralaṃbhujaḥ) [alaṃ-bhujaḥ](alaṃbhujaḥ)
+[divine-epithet](pīnabāhuḥ) [divine-epithet](sthūlapādo) [divine-epithet](dīrghacakṣuralaṃbhujaḥ)
 
 ## mukta-m0-p79-v1971
-[lakṣmī-sanātanaḥ](lakṣmīsanātano) [lakṣmī-dharma-adhyakṣaḥ](lakṣmīdharmādhyakṣo) [dhaneśvaraḥ](dhaneśvaraḥ)
+[divine-epithet](lakṣmīsanātano) [divine-epithet](lakṣmīdharmādhyakṣo) [divine-epithet](dhaneśvaraḥ)
 
 ## mukta-m0-p79-v1972
-[vīra-haḥ](vīrahaḥ) [puṇḍarīkākṣaḥ](puṇḍarīkākṣaḥ) [padma-nābhaḥ](padmanābho) [jagat-prabhuḥ](jagatprabhuḥ)
+[divine-epithet](vīrahaḥ) [divine-epithet](puṇḍarīkākṣaḥ) [divine-epithet](padmanābho) [divine-epithet](jagatprabhuḥ)
 
 ## mukta-m0-p79-v1973
-[sahasra-bāhuḥ](sahasrabāhuḥ) [kṣatra-iśaḥ](kṣatreśo) [brāhmaṇaḥ](brāhmaṇo) [vaṇijāṃ-patiḥ](vaṇijāṃpatiḥ)
+[divine-epithet](sahasrabāhuḥ) [divine-epithet](kṣatreśo) [divine-epithet](brāhmaṇo) [divine-epithet](vaṇijāṃ) [divine-epithet](patiḥ)
 
 ## mukta-m0-p79-v1974
-[cakra-arcitaḥ](cakrārcito) [nakra-patiḥ](nakrapatir) [varuṇaḥ](varuṇaḥ) [śakra-sodaraḥ](śakrasodaraḥ)
+[divine-epithet](cakrārcito) [divine-epithet](nakrapatirvaruṇaḥ) [divine-epithet](śakrasodaraḥ)
 
 ## mukta-m0-p79-v1975
-[amānī](amānī) [māna-daḥ](mānado) [mānyaḥ](mānyo) [mānava-indraḥ](mānavendro) [manu-uttamaḥ](manūttamaḥ)
+[divine-epithet](amānī) [divine-epithet](mānado) [divine-epithet](mānyo) [divine-epithet](mānavendro) [divine-epithet](manūttamaḥ)
