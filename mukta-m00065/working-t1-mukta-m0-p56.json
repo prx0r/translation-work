@@ -11,7 +11,7 @@
 "quick_gloss": "in-winter"
 },
 {
-"surface": "jñānadam",
+"surface": "jñānadaṃ",
 "quick_gloss": "knowledge-giving"
 },
 {
@@ -37,15 +37,15 @@
 "tokens": [
 {
 "surface": "yatīnāṃ",
-"quick_gloss": "yogis-gen"
+"quick_gloss": "for-ascetics"
 },
 {
 "surface": "sarvakāleṣu",
-"quick_gloss": "all-times-loc"
+"quick_gloss": "at-all-times"
 },
 {
 "surface": "liṅgasyāropaṇaṃ",
-"quick_gloss": "liṅga-gen-installation"
+"quick_gloss": "of-liṅga-installation"
 },
 {
 "surface": "matam",
@@ -61,7 +61,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "dakṣiṇetvayane",
+"surface": "dakṣiṇāyane",
 "quick_gloss": "in-southern-ayana"
 },
 {
@@ -111,7 +111,7 @@
 },
 {
 "surface": "ravau",
-"quick_gloss": "sun-loc"
+"quick_gloss": "sun"
 }
 ]
 },
@@ -123,7 +123,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "ṣaṭṣaṇmāsottarāṃs",
+"surface": "ṣaṭṣaṇmāsottarān",
 "quick_gloss": "six-six-months-beyond"
 },
 {
@@ -132,7 +132,7 @@
 },
 {
 "surface": "mayamatāt",
-"quick_gloss": "my-opinion-from"
+"quick_gloss": "by-Maya-opinion"
 },
 {
 "surface": "phalaṃ",
@@ -153,7 +153,7 @@
 "tokens": [
 {
 "surface": "abhicāro",
-"quick_gloss": "abhicāra"
+"quick_gloss": "black-magic"
 },
 {
 "surface": "bhavet",
@@ -169,11 +169,11 @@
 },
 {
 "surface": "dakṣiṇe",
-"quick_gloss": "southern"
+"quick_gloss": "in-southern"
 },
 {
-"surface": "yane",
-"quick_gloss": "ayana-loc"
+"surface": "ayane",
+"quick_gloss": "ayana"
 }
 ]
 },
@@ -193,8 +193,12 @@
 "quick_gloss": "are-oppressed"
 },
 {
-"surface": "kanyānāśaśca",
-"quick_gloss": "girls-loss-and"
+"surface": "kanyānāśaḥ",
+"quick_gloss": "girl-loss"
+},
+{
+"surface": "ca",
+"quick_gloss": "and"
 },
 {
 "surface": "jāyate",
@@ -211,19 +215,19 @@
 "tokens": [
 {
 "surface": "kartuḥ",
-"quick_gloss": "doer-gen"
+"quick_gloss": "of-doer"
 },
 {
 "surface": "kṣayaḥ",
 "quick_gloss": "decay"
 },
 {
-"surface": "sadāśoko",
+"surface": "sadāśokaḥ",
 "quick_gloss": "constant-sorrow"
 },
 {
 "surface": "gṛhe",
-"quick_gloss": "house-loc"
+"quick_gloss": "in-house"
 },
 {
 "surface": "bhavati",
@@ -260,7 +264,7 @@
 },
 {
 "surface": "mantrādiśāstrataḥ",
-"quick_gloss": "mantra-etc-scripture-from"
+"quick_gloss": "mantra-etc-scripture"
 }
 ]
 },
@@ -272,12 +276,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "tasmāt",
-"quick_gloss": "therefore"
-},
-{
-"surface": "sthānaṃ",
-"quick_gloss": "place"
+"surface": "tasmātsthānaṃ",
+"quick_gloss": "therefore-place"
 },
 {
 "surface": "guruṃ",
@@ -285,7 +285,7 @@
 },
 {
 "surface": "prāpya",
-"quick_gloss": "having-obtained"
+"quick_gloss": "obtaining"
 },
 {
 "surface": "rakṣaye",
@@ -293,7 +293,7 @@
 },
 {
 "surface": "dābhicārikam",
-"quick_gloss": "abhicāric"
+"quick_gloss": "from-black-magic"
 }
 ]
 },
@@ -314,7 +314,7 @@
 },
 {
 "surface": "prakartavyaṃ",
-"quick_gloss": "should-do"
+"quick_gloss": "should-be-done"
 },
 {
 "surface": "śiśirādau",
@@ -338,8 +338,8 @@
 "quick_gloss": "with-moon-star-yoga"
 },
 {
-"surface": "sulagnakaraṇānvitate",
-"quick_gloss": "good-lagna-karaṇa-endowed"
+"surface": "sulagnakaraṇānvite",
+"quick_gloss": "with-good-lagna-karaṇa"
 }
 ]
 },
@@ -352,15 +352,15 @@
 "tokens": [
 {
 "surface": "advaite",
-"quick_gloss": "non-dual"
+"quick_gloss": "in-non-dual"
 },
 {
 "surface": "caiva",
-"quick_gloss": "and"
+"quick_gloss": "and-indeed"
 },
 {
 "surface": "kṛsṇe",
-"quick_gloss": "dark-fortnight"
+"quick_gloss": "in-dark"
 },
 {
 "surface": "api",
@@ -393,7 +393,7 @@
 },
 {
 "surface": "pañcāśadvarṣasaṃsthitiḥ",
-"quick_gloss": "fifty-years-establishment"
+"quick_gloss": "fifty-years-duration"
 }
 ]
 },
@@ -413,20 +413,16 @@
 "quick_gloss": "but"
 },
 {
-"surface": "sā",
-"quick_gloss": "that"
-},
-{
-"surface": "tiṣṭhet",
-"quick_gloss": "stands"
+"surface": "sā+tiṣṭhet",
+"quick_gloss": "she-stands"
 },
 {
 "surface": "vāṇaliṅgaṃ",
-"quick_gloss": "arrow-liṅga"
+"quick_gloss": "stone-liṅga"
 },
 {
 "surface": "svayambhubat",
-"quick_gloss": "self-born-like"
+"quick_gloss": "like-self-born"
 }
 ]
 },
@@ -439,7 +435,7 @@
 "tokens": [
 {
 "surface": "bahvarthatvānipātānāṃ",
-"quick_gloss": "much-meaning-fall"
+"quick_gloss": "many-meanings"
 },
 {
 "surface": "saṃskārādau",
@@ -464,15 +460,19 @@
 },
 {
 "surface": "dravyasan",
-"quick_gloss": "substances-with"
+"quick_gloss": "substance"
 },
 {
-"surface": "mantrasaṃskṛtiryā",
+"surface": "mantrasaṃskṛtiḥ",
 "quick_gloss": "mantra-purification"
 },
 {
+"surface": "yā",
+"quick_gloss": "which"
+},
+{
 "surface": "suragya",
-"quick_gloss": "divine-worthy"
+"quick_gloss": "divine"
 },
 {
 "surface": "ca",
@@ -493,7 +493,7 @@
 },
 {
 "surface": "pañcabhedaistu",
-"quick_gloss": "five-divisions-with"
+"quick_gloss": "five-divisions"
 },
 {
 "surface": "pratiṣṭhā",
@@ -501,7 +501,7 @@
 },
 {
 "surface": "pañcadhoditā",
-"quick_gloss": "fivefold-declared"
+"quick_gloss": "fivefold"
 }
 ]
 },
@@ -513,8 +513,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "dvitīyāyumati",
-"quick_gloss": "second-life"
+"surface": "dvitīyā",
+"quick_gloss": "second"
+},
+{
+"surface": "āyu",
+"quick_gloss": "life"
 },
 {
 "surface": "dadyāt",
@@ -551,7 +555,7 @@
 },
 {
 "surface": "saubhāgyaṃ",
-"quick_gloss": "fortune"
+"quick_gloss": "good-fortune"
 },
 {
 "surface": "ca",
@@ -571,20 +575,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "ekartuśaṅkarair",
-"quick_gloss": "one-doer-śaṅkara"
-},
-{
-"surface": "nandā",
-"quick_gloss": "nandā"
+"surface": "ekartuśaṅkarairnandā",
+"quick_gloss": "one-doer"
 },
 {
 "surface": "bhadrā",
-"quick_gloss": "bhadrā"
+"quick_gloss": "auspicious"
 },
 {
 "surface": "pakṣarṣibhānubhiḥ",
-"quick_gloss": "fortnight-seer-sun"
+"quick_gloss": "fortnight-ṛṣi-sun"
 }
 ]
 },
@@ -626,7 +626,7 @@
 },
 {
 "surface": "dvipañcāyuḥ",
-"quick_gloss": "ten-five-years"
+"quick_gloss": "two-five-life"
 },
 {
 "surface": "budyo",
@@ -634,7 +634,7 @@
 },
 {
 "surface": "jayadhanāni",
-"quick_gloss": "victory-wealth-and"
+"quick_gloss": "victory-wealth"
 },
 {
 "surface": "ca",
@@ -680,7 +680,7 @@
 },
 {
 "surface": "rāśikrameṇa",
-"quick_gloss": "zodiac-in-order"
+"quick_gloss": "zodiac-order"
 },
 {
 "surface": "tu",

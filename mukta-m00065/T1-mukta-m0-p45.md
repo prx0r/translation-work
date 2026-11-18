@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p45-v1101
-[verse-pada](piṅgākṣī) [verse-pada](cākṣayākṣapā) [verse-pada](ilā) [verse-pada](līlā) [verse-pada](layā) [verse-pada](tathā)
+[yellow-eyed](piṅgākṣī) [and-imperishable-eyed](cākṣayākṣapā) [variant-kṣeya]([gh: kṣeya]) [earth](ilā) [play](līlā) [dissolution](layā) [thus](tathā)
 
 ## mukta-m0-p45-v1102
-[verse-pada](hutāśā) [verse-pada](ca) [verse-pada](viśālākṣī) [verse-pada](huṅkārā) [verse-pada](vaḍavāmukhī)
+[fire-mouthed](hutāśā) [and-wide-eyed](ca) [viśālākṣī](viśālākṣī) [hum-sound](huṅkārā) [vaḍavā-mouth](vaḍavāmukhī)
 
 ## mukta-m0-p45-v1103
-[verse-pada](sarbajñā) [verse-pada](taralā) [verse-pada](tārā) [verse-pada](ṛgvedā) [verse-pada](tu) [verse-pada](hayānanā)
+[all-knowing](sarbajñā) [trembling](taralā) [star](tārā) [ṛg-veda](ṛgvedā) [tu](tu) [horse-faced](hayānanā)
 
 ## mukta-m0-p45-v1104
-[verse-pada](raktākṣī) [verse-pada](suprasiddhā) [verse-pada](tu) [verse-pada](vidmujjihvā) [verse-pada](karaṅkiṇī)
+[red-eyed](raktākṣī) [well-known](suprasiddhā) [tu](tu) [out-stretched-tongue](vidmujjihvā) [skull-bearer](karaṅkiṇī)
 
 ## mukta-m0-p45-v1105
-[verse-pada](candrā) [verse-pada](candravalī) [verse-pada](caiva) [verse-pada](prapañcā) [verse-pada](pralayāntikā)
+[page-133](p. 133) [moon](candrā) [moon-beauty](candravalī) [ca](ca) [eva](eva) [expansion](prapañcā) [final-dissolution](pralayāntikā)
 
 ## mukta-m0-p45-v1106
-[verse-pada](yamanī) [verse-pada](tapanī) [verse-pada](caiva) [verse-pada](vāmanī) [verse-pada](vikṛtānanā)
+[yama-female](yamanī) [heat](tapanī) [ca](ca) [eva](eva) [dwarf](vāmanī) [distorted-face](vikṛtānanā)
 
 ## mukta-m0-p45-v1107
-[verse-pada](yamajihvā) [verse-pada](jayantī) [verse-pada](ca) [verse-pada](durjayā) [verse-pada](ca) [verse-pada](yamāntikā)
+[yama-tongue](yamajihvā) [victorious](jayantī) [ca](ca) [hard-to-conquer](durjayā) [ca](ca) [yama-end](yamāntikā)
 
 ## mukta-m0-p45-v1108
-[verse-pada](catuḥ) [verse-pada](ṣaṣṭiriyaṃ) [verse-pada](devyā) [verse-pada](mūrtibhedā) [verse-pada](nigadyate)
+[four-sixty-four](catuḥ ṣaṣṭiriyaṃ) [goddess](devyā) [forms](mūrtibhedā) [are-declared](nigadyate)
 
 ## mukta-m0-p45-v1109
-[verse-pada](hemābhā) [verse-pada](bhūṣaṇāḍhyā) [verse-pada](syādakṣobhyā) [verse-pada](karisaṃsthitā)
+[golden-hued](hemābhā) [ornament-rich](bhūṣaṇāḍhyā) [syāt](syādakṣobhyā) [akṣobhya](akṣobhyā) [elephant-seated](karisaṃsthitā)
 
 ## mukta-m0-p45-v1110
-[verse-pada](dhanuḥ) [verse-pada](kapābhṛtsaumye) [verse-pada](ṝkṣasthā) [verse-pada](tarjanīyutā)
+[bow](dhanuḥ) [skull-bearing](kapābhṛtsaumye) [Ṛkṣa-seated](ṝkṣasthā) [threatening-fingered](tarjanīyutā)
 
 ## mukta-m0-p45-v1111
-[verse-pada](pretasthā) [verse-pada](rāghasī) [verse-pada](gaurī) [verse-pada](kārdhakatarikānvitā)
+[preta-seated](pretasthā) [rāghasī](rāghasī) [gaurī](gaurī) [half-sword](kārdhakatarikānvitā)
 
 ## mukta-m0-p45-v1112
-[verse-pada](kapālaṃ) [verse-pada](ca) [verse-pada](phalaṃ) [verse-pada](saumye) [verse-pada](dhatte) [verse-pada](kubjanṛsaṃsthitā)
+[skull](kapālaṃ) [ca](ca) [fruit](phalaṃ) [saumye](saumye) [holds](dhatte) [hunchback-seated](kubjanṛsaṃsthitā)
 
 ## mukta-m0-p45-v1113
-[verse-pada](vāme) [verse-pada](kapālapicchī) [verse-pada](bhṛtsarvālaṅkāramaṇḍitā)
+[left](vāme) [skull-pitcher](kapālapicchī) [variant-piṇḍī]([k, kh: piṇḍī]) [all-ornamented](bhṛtsarvālaṅkāramaṇḍitā)
 
 ## mukta-m0-p45-v1114
-[verse-pada](kauśeyapāśabhṛdyāmye) [verse-pada](vāme) [verse-pada](cāṅkuśakheṭinī)
+[silk-noose-bearing](kauśeyapāśabhṛdyāmye) [right](yāmye) [left](vāme) [goad-shield-bearing](cāṅkuśakheṭinī)
 
 ## mukta-m0-p45-v1115
-[verse-pada](kuṭhārāśanibhṛdyāmye) [verse-pada](saumye) [verse-pada](pāśāṅkuśānvitā)
+[axe-thunderbolt-bearing](kuṭhārāśanibhṛdyāmye) [right](yāmye) [left](saumye) [noose-goad-equipped](pāśāṅkuśānvitā)
 
 ## mukta-m0-p45-v1116
-[verse-pada](yāmye) [verse-pada](ḍamaruśūleṣumastahastākṣapā) [verse-pada](matā)
+[right](yāmye) [drum-trident-arrow](ḍamaruśūleṣumastahastākṣapā) [matā](matā)
 
 ## mukta-m0-p45-v1117
-[verse-pada](raktā) [verse-pada](bahirsthitā) [verse-pada](tvīlā) [verse-pada](krīḍantī) [verse-pada](dahanaiḥ) [verse-pada](saha)
+[red](raktā) [outside-seated](bahirsthitā) [tvīlā](tvīlā) [playing](krīḍantī) [with-flames](dahanaiḥ) [saha](saha)
 
 ## mukta-m0-p45-v1118
-[verse-pada](bibhrāṇā) [verse-pada](paṭṭiśaṃ) [verse-pada](pāśaṃ) [verse-pada](vāme) [verse-pada](mastārdhamambujam)
+[bearing](bibhrāṇā) [halberd](paṭṭiśaṃ) [noose](pāśaṃ) [left](vāme) [half-skull-lotus](mastārdhamambujam)
 
 ## mukta-m0-p45-v1119
-[verse-pada](kartarīkārdhabhṛdvāme) [verse-pada](tarjanyākṛṣṭasṛkkikā)
+[scissors-half-bearing](kartarīkārdhabhṛdvāme) [left](vāme) [threatening-finger-drawn-arrow](tarjanyākṛṣṭasṛkkikā)
 
 ## mukta-m0-p45-v1120
-[verse-pada](śūlaṃ) [verse-pada](ruruyutaṃ) [verse-pada](dvābhyāṃ) [verse-pada](dhatte) [verse-pada](lolā) [verse-pada](sūsārase)
+[trident](śūlaṃ) [with-ruru](ruruyutaṃ) [by-two](dvābhyāṃ) [holds](dhatte) [lolā](lolā) [sūsārase](sūsārase) [(?)](?)
 
 ## mukta-m0-p45-v1121
-[verse-pada](laṅkeśorusthitā) [verse-pada](laṅkā) [verse-pada](carvantīṃ) [verse-pada](piśitaṃ) [verse-pada](ghanam)
+[laṅkeśa-thigh-seated](laṅkeśorusthitā) [laṅkā](laṅkā) [eating](carvantīṃ) [variant-varṣantī]([mū: varṣantī]) [flesh](piśitaṃ) [thick](ghanam)
 
 ## mukta-m0-p45-v1122
-[verse-pada](śoṇā) [verse-pada](laṅkeśvarī) [verse-pada](kuṇḍe) [verse-pada](ūrdhvabālāṃ) [verse-pada](ca) [verse-pada](bibhratī)
+[red](śoṇā) [laṅkeśvarī](laṅkeśvarī) [kuṇḍe](kuṇḍe) [upward-hair](ūrdhvabālāṃ) [ca](ca) [variant-ūrvālācaraṇe]([mū: ūrvālācaraṇe]) [bearing](bibhratī)
 
 ## mukta-m0-p45-v1123
-[verse-pada](bibhrāṇā) [verse-pada](kolagā) [verse-pada](raktā) [verse-pada](lālāsṛglālāsā) [verse-pada](matā)
+[bearing](bibhrāṇā) [kolagā](kolagā) [red](raktā) [saliva-blood-saliva](lālāsṛglālāsā) [matā](matā)
 
 ## mukta-m0-p45-v1124
-[verse-pada](kartarīkumbhabhṛdyāme) [verse-pada](saumye) [verse-pada](pāśakapālinī)
+[scissors-pot-bearing](kartarīkumbhabhṛdyāmye) [right](yāmye) [left](saumye) [noose-skull-bearing](pāśakapālinī) [variant-kadhāriṇī]([kh: kadhāriṇī])
 
 ## mukta-m0-p45-v1125
-[verse-pada](vāme) [verse-pada](cābhayahastā) [verse-pada](syādviṣṭarājyaghaṭānvitā)
+[left](vāme) [ca](ca) [fearless-hand](abhayahastā) [syāt](syādviṣṭarājyaghaṭānvitā) [viṣṭara-seat-jar-equipped](viṣṭarājyaghaṭānvitā)
