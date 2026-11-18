@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p63-v1551
-[bīja-rūpaṃ](bījarūpaṃ) [mahā-devaṃ](mahādevaṃ) [sṛṣṭi-śakti](sṛṣṭiśakti) [svarūpa-kam](svarūpakam)
+[seed-form](bījarūpaṃ) [great-god](mahādevaṃ) [creation-power](sṛṣṭiśakti) [own-form](svarūpakam)
 
 ## mukta-m0-p63-v1552
-[prādurbhāvaṃ](prādurbhāvaṃ) [tirobhāvaṃ](tirobhāvaṃ) [paraspara](paraspara) [vivakṣitam](vivakṣitam)
+[manifestation](prādurbhāvaṃ) [concealment](tirobhāvaṃ) [mutual](paraspara) [intended](vivakṣitam)
 
 ## mukta-m0-p63-v1553
-[śaktiḥ](śaktistatra) [tatra](śaktistatra) [mahā-devi](mahādevi) [sūkṣma-rūpeṇa](sūkṣmarūpeṇa) [bhāṣitā](bhāṣitā)
+[power](śaktiḥ) [there](tatra) [great-goddess](mahādevi) [subtle-form](sūkṣmarūpeṇa) [spoken](bhāṣitā)
 
 ## mukta-m0-p63-v1554
-[pañcadhā](pañcadhāpyekadhā) [api](pañcadhāpyekadhā) [ekadhā](pañcadhāpyekadhā) [yatra](yatra) [nānā-rūpavatī](nānārūpavatī) [śivā](śivā)
+[fivefold](pañcadhā) [or](api) [onfold](ekadhā) [where](yatra) [many-formed](nānārūpavatī) [śivā](śivā)
 
 ## mukta-m0-p63-v1555
-[avinābhāva](avinābhāva) [sambandhaṃ](sambandhaṃ) [dvayoḥ](dvayoreva) [eva](dvayoreva) [parasparam](parasparam)
+[inseparable-relation](avinābhāva-sambandhaṃ) [of-two](dvayoreva) [mutually](parasparam)
 
 ## mukta-m0-p63-v1556
-[śaktyā](śaktyāktaśaṅkaram) [akta](śaktyāktaśaṅkaram) [śaṅkaram](śaktyāktaśaṅkaram)
+[power-possessed-śaṅkara](śaktyāktaśaṅkaram)
 
 ## mukta-m0-p63-v1557
-[śaktiḥ](śaktiśca) [ca](śaktiśca) [puruṣeṣu](puruṣeṣvāktā) [āktā](puruṣeṣvāktā) [yadā](yadā) [sarva](sarva) [prakāśinī](prakāśinī)
+[power](śaktiḥ) [ca](ca) [in-puruṣas](puruṣeṣvāktā) [when](yadā) [all-illuminating](sarva-prakāśinī)
 
 ## mukta-m0-p63-v1558
-[śiva](śiva) [jñānaṃ](jñānaṃ) [vinā](vinā) [kiñcit](kiñcit) [śakti-jñānaṃ](śaktijñānaṃ) [na](na) [jāyate](jāyate)
+[śiva-knowledge](śiva-jñānaṃ) [without](vinā) [anything](kiñcit) [power-knowledge](śaktijñānaṃ) [not](na) [arises](jāyate)
 
 ## mukta-m0-p63-v1559
-[iti](iti) [śrī-sarvānanda-nātha-viracite](śrīsarvānandanāthaviracite) [sarvollāse](sarvollāse) [eka-pañcāśad-ullāsaḥ](ekapañcāśadullāsaḥ)
+[thus](iti) [śrī-sarvānandanātha-composed](śrīsarvānandanāthaviracite) [sarvollāsa](sarvollāse) [fifty-first-ullāsa](ekapañcāśadullāsaḥ)
 
 ## mukta-m0-p63-v1560
-[ataḥ](ataśca) [ca](ataśca) [bahu-janma-ante](bahujanmānte) [śakti](śakti) [jñānaṃ](jñānaṃ) [prajāyate](prajāyate)
+[therefore](ataśca) [after-many-births](bahujanmānte) [power-knowledge](śakti-jñānaṃ) [arises](prajāyate)
 
 ## mukta-m0-p63-v1561
-[sā](sā) [śaktiḥ](śaktirvāmā) [vāmā](śaktirvāmā) [vijñeyā](vijñeyā) [puruṣasya](puruṣasyāpi) [api](puruṣasyāpi) [mukti-dā](muktidā)
+[that](sā) [power](śaktiḥ) [vāmā](vāmā) [to-be-known](vijñeyā) [of-puruṣa](puruṣasyāpi) [liberation-giving](muktidā)
 
 ## mukta-m0-p63-v1562
-[dāyinī](dāyinī)
+[giving](dāyinī)
 
 ## mukta-m0-p63-v1563
-[vyaktā](vyaktā) [ramaṇa](ramaṇa) [tuṣṭā](tuṣṭā) [cet](cet) [guptā](guptā) [ramaṇa](ramaṇa) [tuṣṭitā](tuṣṭitā)
+[manifest](vyaktā) [pleasing](ramaṇa) [satisfied](tuṣṭā) [cet](cet) [hidden](guptā) [pleasing](ramaṇa) [satisfied](tuṣṭitā)
 
 ## mukta-m0-p63-v1564
-[ataḥ](atastebhyaḥ) [tebhyaḥ](atastebhyaḥ) [pradhānaṃ](pradhānaṃ) [hi](hi) [śaktiṃ](śaktiṃ) [viddhi](viddhi) [mahā-mate](mahāmate)
+[therefore](atastebhyaḥ) [principal](pradhānaṃ) [hi](hi) [power](śaktiṃ) [know](viddhi) [great-minded](mahāmate)
 
 ## mukta-m0-p63-v1565
-[sā](saiva) [eva](saiva) [sarveśvarī](sarveśvarī) [devi](devi) [sa](sa) [ca](ca) [sarvaḥ](sarvo) [maheśvaraḥ](maheśvaraḥ)
+[she-alone](saiva) [all-lady](sarveśvarī) [goddess](devi) [he](sa) [ca](ca) [all](sarvo) [great-lord](maheśvaraḥ)
 
 ## mukta-m0-p63-v1566
-[kārya-akāryaṃ](kāryākāryaṃ) [maheśāni](maheśāni) [tasyāḥ](tasyā) [eva](eva) [na](na) [saṃśayaḥ](saṃśayaḥ)
+[doable-undoable](kāryākāryaṃ) [great-goddess](maheśāni) [of-her](tasyā) [eva](eva) [no](na) [doubt](saṃśayaḥ)
 
 ## mukta-m0-p63-v1567
-[kārya-akāryaṃ](kāryākāryaṃ) [bhavet](bhavet) [śakter](śakternirliptaḥ) [nirliptaḥ](śakternirliptaḥ) [puruṣaḥ](puruṣaḥ) [śive](śive)
+[doable-undoable](kāryākāryaṃ) [becomes](bhavet) [of-power](śakter) [unattached](nirliptaḥ) [puruṣa](puruṣaḥ) [in-śiva](śive)
 
 ## mukta-m0-p63-v1568
-[kriyā](kriyā) [śakter](śakterbhavet) [bhavet](śakterbhavet) [kāryaṃ](kāryaṃ) [prāṇināṃ](prāṇināṃ) [sarva-sādhane](sarvasādhane)
+[action](kriyā) [of-power](śakter) [becomes](bhavet) [doable](kāryaṃ) [of-beings](prāṇināṃ) [all-means](sarvasādhane)
 
 ## mukta-m0-p63-v1569
-[athavā](athavāpi) [api](athavāpi) [śivaṃ](śivaṃ) [jñeyaṃ](jñeyaṃ) [dehinaṃ](dehinaṃ) [śakti](śakti) [bīja-kam](bījakam)
+[or](athavāpi) [śiva](śivaṃ) [to-be-known](jñeyaṃ) [embodied](dehinaṃ) [power](śakti) [seed](bījakam)
 
 ## mukta-m0-p63-v1570
-[vāmā-jñānaṃ](vāmājñānaṃ) [maheśāni](maheśāni) [sthūla](sthūla) [sūkṣma](sūkṣma) [pramāṇakam](pramāṇakam)
+[vāmā-knowledge](vāmājñānaṃ) [great-goddess](maheśāni) [gross](sthūla) [subtle](sūkṣma) [measure](pramāṇakam)
 
 ## mukta-m0-p63-v1571
-[abhāve](abhāve) [svastriyaṃ](svastriyaṃ) [devi](devi) [katham](kathamuktaṃ) [uktaṃ](kathamuktaṃ) [sadāśive](sadāśive)
+[in-absence](abhāve) [own-woman](svastriyaṃ) [goddess](devi) [how-spoken](kathamuktaṃ) [sadāśiva](sadāśive)
 
 ## mukta-m0-p63-v1572
-[brahma](brahma) [dattāgninā](dattāgninā) [hutvā](hutvā) [śiva](śiva) [dattā](dattā) [tu](tu) [kāmataḥ](kāmataḥ)
+[brahma](brahma) [given-fire](dattāgninā) [having-offered](hutvā) [śiva](śiva) [given](dattā) [tu](tu) [by-desire](kāmataḥ)
 
 ## mukta-m0-p63-v1573
-[sandeho](sandeho) [na](na) [eva](eva) [kartavyo](kartavyo) [mama](mama) [vākya-anusārataḥ](vākyānusārataḥ)
+[doubt](sandeho) [not](naiva) [to-be-done](kartavyo) [my](mama) [words-according](vākyānusārataḥ)
 
 ## mukta-m0-p63-v1574
-[sva-vāmā](svavāmā) [toṣaṇa-arthe](toṣaṇārthe) [api](api) [para](para) [vāmāñca](vāmāñca) [toṣayet](toṣayet)
+[own-vāmā](svavāmā) [for-pleasing](toṣaṇārthe) [api](api) [other-vāmā](para-vāmāñca) [please](toṣayet)
 
 ## mukta-m0-p63-v1575
-[toṣayet](toṣayet) [parameśāni](parameśāni) [vīra-bhāva](vīrabhāva) [samāśritaḥ](samāśritaḥ)
+[please](toṣayet) [supreme-goddess](parameśāni) [hero-bhāva](vīrabhāva) [resorted](samāśritaḥ)
