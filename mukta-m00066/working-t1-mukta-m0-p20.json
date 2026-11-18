@@ -16,7 +16,7 @@
 },
 {
 "surface": "hṛccakraṃ",
-"quick_gloss": "heart-wheel"
+"quick_gloss": "heart-chakra"
 },
 {
 "surface": "dūtikāyāḥ",
@@ -24,7 +24,7 @@
 },
 {
 "surface": "prakīrttitam",
-"quick_gloss": "declared"
+"quick_gloss": "proclaimed"
 }
 ]
 },
@@ -45,7 +45,7 @@
 },
 {
 "surface": "cakraṃ",
-"quick_gloss": "wheel"
+"quick_gloss": "chakra"
 },
 {
 "surface": "pūjayitvā",
@@ -66,7 +66,7 @@
 "tokens": [
 {
 "surface": "cakrapūjena",
-"quick_gloss": "by-pure-wheel-worship"
+"quick_gloss": "by-chakra-worship"
 },
 {
 "surface": "śuddhena",
@@ -78,7 +78,7 @@
 },
 {
 "surface": "bhāsvatā",
-"quick_gloss": "shining"
+"quick_gloss": "radiant"
 }
 ]
 },
@@ -91,7 +91,7 @@
 "tokens": [
 {
 "surface": "taccodhitena",
-"quick_gloss": "by-that-purified"
+"quick_gloss": "by-that-impelled"
 },
 {
 "surface": "dravyeṇa",
@@ -157,7 +157,7 @@
 },
 {
 "surface": "biṃduyugmena",
-"quick_gloss": "by-two-bindus"
+"quick_gloss": "with-two-bindus"
 },
 {
 "surface": "tat",
@@ -223,11 +223,11 @@
 "quick_gloss": "they-faint"
 },
 {
-"surface": "layaṃ",
+"surface": "layaṃ+yāṃti",
 "quick_gloss": "they-enter-dissolution"
 },
 {
-"surface": "pade",
+"surface": "pade+pade",
 "quick_gloss": "step-by-step"
 }
 ]
@@ -274,7 +274,7 @@
 },
 {
 "surface": "proktaḥ",
-"quick_gloss": "declared"
+"quick_gloss": "spoken"
 },
 {
 "surface": "saṃskāro",
@@ -356,12 +356,8 @@
 "quick_gloss": "this"
 },
 {
-"surface": "pavitram",
-"quick_gloss": "pure"
-},
-{
-"surface": "amṛtaṃ",
-"quick_gloss": "nectar"
+"surface": "pavitramamṛtaṃ",
+"quick_gloss": "pure-nectar"
 },
 {
 "surface": "bhavabheṣajam",
@@ -386,7 +382,7 @@
 },
 {
 "surface": "bahupratyayadāyakam",
-"quick_gloss": "much-faith-giving"
+"quick_gloss": "many-proof-giving"
 }
 ]
 },
@@ -407,7 +403,7 @@
 },
 {
 "surface": "puṇyavīrudhām",
-"quick_gloss": "of-meritorious-herbs"
+"quick_gloss": "meritorious-herbs"
 }
 ]
 },
@@ -432,7 +428,7 @@
 },
 {
 "surface": "asakadaṃbakaiḥ",
-"quick_gloss": "with-clusters"
+"quick_gloss": "clusters"
 }
 ]
 },
@@ -448,12 +444,8 @@
 "quick_gloss": "astringent"
 },
 {
-"surface": "khalu",
-"quick_gloss": "indeed"
-},
-{
-"surface": "rogārtaḥ",
-"quick_gloss": "disease-afflicted"
+"surface": "khalurogārtaḥ",
+"quick_gloss": "indeed-disease-afflicted"
 },
 {
 "surface": "pibaty",
@@ -481,11 +473,7 @@
 "quick_gloss": "whose"
 },
 {
-"surface": "tv",
-"quick_gloss": "tv"
-},
-{
-"surface": "anirvācyā",
+"surface": "tv anirvācyā",
 "quick_gloss": "ineffable"
 },
 {
@@ -506,24 +494,24 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "tathauṣadhānāṃ",
+"surface": "tathā",
 "quick_gloss": "thus"
 },
 {
+"surface": "auṣadhānāṃ",
+"quick_gloss": "of-medicines"
+},
+{
 "surface": "ca",
-"quick_gloss": "of-herbs"
+"quick_gloss": "ca"
 },
 {
-"surface": "śive",
-"quick_gloss": "o-śiva"
-},
-{
-"surface": "śaktiḥ",
-"quick_gloss": "power"
+"surface": "śiveśaktiḥ",
+"quick_gloss": "śiva-power"
 },
 {
 "surface": "pratyayakāriṇī",
-"quick_gloss": "cause-of-proof"
+"quick_gloss": "proof-causing"
 }
 ]
 },
@@ -540,7 +528,7 @@
 },
 {
 "surface": "mātṛkasyāpi",
-"quick_gloss": "of-mātṛkā"
+"quick_gloss": "of-mother"
 },
 {
 "surface": "vā",
@@ -565,19 +553,15 @@
 },
 {
 "surface": "ca",
-"quick_gloss": "and"
+"quick_gloss": "ca"
 },
 {
-"surface": "śaktir",
+"surface": "śaktirasyeva",
 "quick_gloss": "power"
 },
 {
-"surface": "asyeva",
-"quick_gloss": "of-her"
-},
-{
 "surface": "pārvati",
-"quick_gloss": "o-pārvatī"
+"quick_gloss": "pārvatī"
 }
 ]
 },
@@ -590,7 +574,7 @@
 "tokens": [
 {
 "surface": "pratyauṣadhaṃ",
-"quick_gloss": "per-herb"
+"quick_gloss": "per-medicine"
 },
 {
 "surface": "bhinnabhinnāḥ",
@@ -602,7 +586,7 @@
 },
 {
 "surface": "pārvati",
-"quick_gloss": "o-pārvatī"
+"quick_gloss": "pārvatī"
 }
 ]
 },
@@ -615,23 +599,19 @@
 "tokens": [
 {
 "surface": "anyonyāḥ",
-"quick_gloss": "mutually"
+"quick_gloss": "mutual"
 },
 {
-"surface": "śaktayo",
+"surface": "śaktayonūnam",
 "quick_gloss": "powers"
 },
 {
-"surface": "nūnam",
-"quick_gloss": "indeed"
-},
-{
 "surface": "āvisyaṃtyeva",
-"quick_gloss": "enter"
+"quick_gloss": "manifest"
 },
 {
 "surface": "vīrudhām",
-"quick_gloss": "herbs"
+"quick_gloss": "of-herbs"
 }
 ]
 },
@@ -652,7 +632,7 @@
 },
 {
 "surface": "nikṛtaṃti",
-"quick_gloss": "they-overcome"
+"quick_gloss": "they-subdue"
 },
 {
 "surface": "mahāgadān",
