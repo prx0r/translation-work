@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p112-v2776
-[vicitramityarthaḥ](vicitramityarthaḥ)
+[pada](vicitramityarthaḥ)
 
 ## mukta-m0-p112-v2777
-[anekadhā](anekadhā) [paricchinnaṃ](paricchinnaṃ) [bhāsitaṃ](bhāsitaṃ) [bhṛgunandana](bhṛgunandana)
+[pada](anekadhā) [pada](paricchinnaṃ) [pada](bhāsitaṃ) [pada](bhṛgunandana)
 
 ## mukta-m0-p112-v2778
-[evaṃ](evaṃ) [proktopapattyā](proktopapattyā)
+[pada](evaṃ) [pada](proktopapattyā)
 
 ## mukta-m0-p112-v2779
-[sā'pyapūrṇatvavikhyātiryā'vidyā](sā'pyapūrṇatvavikhyātiryā'vidyā) [parigīyate](parigīyate)
+[pada](sā'pyapūrṇatvavikhyātiryā'vidyā) [pada](parigīyate)
 
 ## mukta-m0-p112-v2780
-[[k:]( [pūrṇā]]( [k: pūrṇā])
+[pada]([k:) [pada](pūrṇā])
 
 ## mukta-m0-p112-v2781
-[svātmānamanudāhṛtya](svātmānamanudāhṛtya) [bahirdṛṣṭitayā](bahirdṛṣṭitayā) [sthiteḥ](sthiteḥ)
+[pada](svātmānamanudāhṛtya) [pada](bahirdṛṣṭitayā) [pada](sthiteḥ)
 
 ## mukta-m0-p112-v2782
-[tatrāpi](tatrāpi) [heturbahirdṛṣṭitayā](heturbahirdṛṣṭitayā) [sthiteriti](sthiteriti)
+[pada](tatrāpi) [pada](heturbahirdṛṣṭitayā) [pada](sthiteriti)
 
 ## mukta-m0-p112-v2783
-[anudāhṛtya](anudāhṛtya) [cātmānaṃ](cātmānaṃ) [yāvanna](yāvanna) [hyavalokayet](hyavalokayet)
+[pada](anudāhṛtya) [pada](cātmānaṃ) [pada](yāvanna) [pada](hyavalokayet)
 
 ## mukta-m0-p112-v2784
-[prakāśādirūpatā](prakāśādirūpatā) [vā](vā) [itaradasadvā](itaradasadvā) [aprākśādirūpatā](aprākśādirūpatā) [vā](vā)
+[pada](prakāśādirūpatā) [pada](vā) [pada](itaradasadvā) [pada](aprākśādirūpatā) [pada](vā)
 
 ## mukta-m0-p112-v2785
-[ato](ato) [mayoktaṃ](mayoktaṃ) [rāma](rāma) [tvaṃ](tvaṃ) [sampaśyātmani](sampaśyātmani) [saddṛśā](saddṛśā)
+[pada](ato) [pada](mayoktaṃ) [pada](rāma) [pada](tvaṃ) [pada](sampaśyātmani) [pada](saddṛśā)
 
 ## mukta-m0-p112-v2786
-[tyaktabahirmukhatvadṛṣṭyā](tyaktabahirmukhatvadṛṣṭyā)
+[pada](tyaktabahirmukhatvadṛṣṭyā)
 
 ## mukta-m0-p112-v2787
-[sā](sā) [prakāśamayī](prakāśamayī) [yasmājjaḍavyāvṛttarūpiṇī](yasmājjaḍavyāvṛttarūpiṇī)
+[pada](sā) [pada](prakāśamayī) [pada](yasmājjaḍavyāvṛttarūpiṇī)
 
 ## mukta-m0-p112-v2788
-[dīpādijaḍavyāvṛttaprakāśamayītyarthaḥ](dīpādijaḍavyāvṛttaprakāśamayītyarthaḥ)
+[pada](dīpādijaḍavyāvṛttaprakāśamayītyarthaḥ)
 
 ## mukta-m0-p112-v2789
-[jaḍāścidātmaviśrāntāścidatmani](jaḍāścidātmaviśrāntāścidatmani) [vibhāsataḥ](vibhāsataḥ)
+[pada](jaḍāścidātmaviśrāntāścidatmani) [pada](vibhāsataḥ)
 
 ## mukta-m0-p112-v2790
-[bhavediti](bhavediti) [śeṣaḥ](śeṣaḥ) [|](|) [jaḍānāṃ](jaḍānāṃ) [na](na) [svātmaviśrāntirityāha](svātmaviśrāntirityāha) [-]( -) [jaḍā](jaḍā) [iti](iti)
+[pada](bhavediti) [pada](śeṣaḥ) [pada](jaḍānāṃ) [pada](na) [pada](svātmaviśrāntirityāha) [pada](jaḍā) [pada](iti)
 
 ## mukta-m0-p112-v2791
-[citestu](citestu) [kevalaṃ](kevalaṃ) [svasminnananyāpekṣayā](svasminnananyāpekṣayā) [sadā](sadā)
+[pada](citestu) [pada](kevalaṃ) [pada](svasminnananyāpekṣayā) [pada](sadā)
 
 ## mukta-m0-p112-v2792
-[bhāsamānatvāt](bhāsamānatvāt) [svasmin](svasmin) [viśrāntirupapadyata](viśrāntirupapadyata) [iti](iti) [sambandhaḥ](sambandhaḥ)
+[pada](bhāsamānatvāt) [pada](svasmin) [pada](viśrāntirupapadyata) [pada](iti) [pada](sambandhaḥ)
 
 ## mukta-m0-p112-v2793
-[pūrṇāhantā](pūrṇāhantā) [parā](parā) [seyaṃ](seyaṃ) [yā](yā) [jaḍeṣu](jaḍeṣu) [na](na) [vidyate](vidyate)
+[pada](pūrṇāhantā) [pada](parā) [pada](seyaṃ) [pada](yā) [pada](jaḍeṣu) [pada](na) [pada](vidyate)
 
 ## mukta-m0-p112-v2794
-[svātmaviśrama](svātmaviśrama) [iti](iti) [bhāvaḥ](bhāvaḥ) [|](|) [seyaṃ](seyaṃ) [svatmaviśrāntireva](svatmaviśrāntireva) [pūrṇāhantā](pūrṇāhantā)
+[pada](svātmaviśrama) [pada](iti) [pada](bhāvaḥ) [pada](seyaṃ) [pada](svatmaviśrāntireva) [pada](pūrṇāhantā)
 
 ## mukta-m0-p112-v2795
-[sarvamasyāṃ](sarvamasyāṃ) [yataḥ](yataḥ) [saṃsthamādarśe](saṃsthamādarśe) [nagaraṃ](nagaraṃ) [yathā](yathā)
+[pada](sarvamasyāṃ) [pada](yataḥ) [pada](saṃsthamādarśe) [pada](nagaraṃ) [pada](yathā)
 
 ## mukta-m0-p112-v2796
-[[k,]( [kh:]( [paricchinnā]]( [k, kh: paricchinnā]) [vyāvṛttisparśo](vyāvṛttisparśo) [nāstīti](nāstīti)
+[pada]([k,) [pada](kh:) [pada](paricchinnā]) [pada](vyāvṛttisparśo) [pada](nāstīti)
 
 ## mukta-m0-p112-v2797
-[evaṃ](evaṃ) [pūrṇasvarūpāyāḥ](pūrṇasvarūpāyāḥ) [pūrṇaṃ](pūrṇaṃ) [yatsphuraṇaṃ](yatsphuraṇaṃ) [sthitam](sthitam)
+[pada](evaṃ) [pada](pūrṇasvarūpāyāḥ) [pada](pūrṇaṃ) [pada](yatsphuraṇaṃ) [pada](sthitam)
 
 ## mukta-m0-p112-v2798
-[pūrṇamaparicchinnaṃ](pūrṇamaparicchinnaṃ) [yat](yat) [svarūpasphuraṇaṃ](svarūpasphuraṇaṃ) [tadeva](tadeva) [kathyata](kathyata) [iti](iti) [sambandhaḥ](sambandhaḥ)
+[pada](pūrṇamaparicchinnaṃ) [pada](yat) [pada](svarūpasphuraṇaṃ) [pada](tadeva) [pada](kathyata) [pada](iti) [pada](sambandhaḥ)
 
 ## mukta-m0-p112-v2799
-[akhaṇḍaikarasaṃ](akhaṇḍaikarasaṃ) [hyetadetāvad](hyetadetāvad) [rāma](rāma) [vai](vai) [bhavet](bhavet)
+[pada](akhaṇḍaikarasaṃ) [pada](hyetadetāvad) [pada](rāma) [pada](vai) [pada](bhavet)
 
 ## mukta-m0-p112-v2800
-[dvayamapyetadakhaṇḍaikarasam](dvayamapyetadakhaṇḍaikarasam) [|](|) [akhaṇḍamekam](akhaṇḍamekam) [ekarasaṃ](ekarasaṃ) [cinmātram](cinmātram)
+[pada](dvayamapyetadakhaṇḍaikarasam) [pada](akhaṇḍamekam) [pada](ekarasaṃ) [pada](cinmātram)

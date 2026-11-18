@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p30-v726
-[pṛthagbhūtānām](pṛthagbhūtānāṃ) [mālākāratā](mālākāratā) [yathā](yathā) [naśyatīti](naśyatīti) [bhāvaḥ](bhāvaḥ)
+[pṛthag+bhūtānām](pṛthagbhūtānāṃ) [mālā+kāra+tā](mālākāratā) [yathā](yathā) [naśyati](naśyati) [iti](iti) [bhāvaḥ](bhāvaḥ)
 
 ## mukta-m0-p30-v727
-[mayā](mayā) [saṃjīvito'tyantaṃ](saṃjīvito'tyantaṃ) [sūtradhāro](sūtradhāro) [hi](hi) [tatpure](tatpure)
+[mayā](mayā) [saṃjīvitaḥ](saṃjīvito) [atyantam](atyantaṃ) [sūtra+dhāraḥ](sūtradhāro) [hi](hi) [tat+pura](tatpure)
 
 ## mukta-m0-p30-v728
-[manaḥprabhṛtivyāpārapravartakaḥ](manaḥprabhṛtivyāpārapravartakaḥ)
+[manaḥ+prabhṛti+vyāpāra+pravartakaḥ](manaḥprabhṛtivyāpārapravartakaḥ)
 
 ## mukta-m0-p30-v729
-[evaṃ](evaṃ) [pracāraṃ](pracāraṃ) [saṃśritya](saṃśritya) [purāṇāmadhipo'bhavat](purāṇāmadhipo'bhavat)
+[evaṃ](evaṃ) [pracāraṃ](pracāraṃ) [saṃśritya](saṃśritya) [purāṇām+adhipaḥ](purāṇāmadhipo) [abhavat](abhavat)
 
 ## mukta-m0-p30-v730
-[layāt](layāt) [prāṇo](prāṇo) [nayatīti](nayatīti) [bhāvaḥ](bhāvaḥ) [adhipaḥ](adhipaḥ) [asthirābhidhaṃ](asthirābhidhaṃ) [mano'bhavat](mano'bhavat)
+[layāt](layāt) [prāṇaḥ](prāṇo) [nayati](nayati) [iti](iti) [bhāvaḥ](bhāvaḥ) [adhipaḥ](adhipaḥ) [asthira+abhidhaṃ](asthirābhidhaṃ) [manaḥ](mano) [abhavat](abhavat)
 
 ## mukta-m0-p30-v731
-[satīputro'pyasthiraḥ](satīputro'pyasthiraḥ) [sa](sa) [saṃśrito'pi](saṃśrito'pi) [mahābalam](mahābalam)
+[satī+putraḥ](satīputro) [api](apy) [asthiraḥ](asthiraḥ) [saḥ](sa) [saṃśritaḥ](saṃśrito) [api](api) [mahā+balam](mahābalam)
 
 ## mukta-m0-p30-v732
-[bahūnāṃ](bahūnāṃ) [purāṇāmiti](purāṇāmiti) [pūrveṇa](pūrveṇa) [sambandhaḥ](sambandhaḥ) [mahābalaṃ](mahābalaṃ) [prāṇam](prāṇam)
+[bahūnām](bahūnāṃ) [purāṇām](purāṇām) [iti](iti) [pūrveṇa](pūrveṇa) [sambandhaḥ](sambandhaḥ) [mahā+balam](mahābalaṃ) [prāṇam](prāṇam)
 
 ## mukta-m0-p30-v733
-[patnyādyasatsamāgamādityāha](patnyādyasatsamāgamādityāha) [capaletyādi](capaletyādi)
+[patnī+ādi+asat+samāgamāt](patnyādyasatsamāgamāt) [iti](iti) [āha](āha) [capala+ityādi](capaletyādi)
 
 ## mukta-m0-p30-v734
-[anyaiḥ](anyaiḥ) [putraiḥ](putraiḥ) [pañcabhiḥ](pañcabhiḥ) [sa](sa) [sarvatrābhivikarṣitaḥ](sarvatrābhivikarṣitaḥ)
+[anyaiḥ](anyaiḥ) [putraiḥ](putraiḥ) [pañcabhiḥ](pañcabhiḥ) [saḥ](sa) [sarvatra+abhivikarṣitaḥ](sarvatrābhivikarṣitaḥ)
 
 ## mukta-m0-p30-v735
-[krodhalobhodayaḥ](krodhalobhodayaḥ) [tena](tena) [duḥkhabhāgabhūdityāśayaḥ](duḥkhabhāgabhūdityāśayaḥ)
+[krodha+lobha+udayaḥ](krodhalobhodayaḥ) [tena](tena) [duḥkha+bhāga+bhūt](duḥkhabhāgabhūd) [iti](ity) [āśayaḥ](āśayaḥ)
 
 ## mukta-m0-p30-v736
-[itastataḥ](itastataḥ) [kvacit](kvacit) [putraiḥ](putraiḥ) [pañcabhiḥ](pañcabhiḥ) [sa](sa) [vikarṣitaḥ](vikarṣitaḥ)
+[itaḥ+tataḥ](itastataḥ) [kvacit](kvacit) [putraiḥ](putraiḥ) [pañcabhiḥ](pañcabhiḥ) [saḥ](sa) [vikarṣitaḥ](vikarṣitaḥ)
 
 ## mukta-m0-p30-v737
-[mahākleśaprāptiprakāramāha](mahākleśaprāptiprakāramāha) [ita](ita) [ityādi](ityādi)
+[mahā+kleśa+prāpti+prakāram](mahākleśaprāptiprakāram) [āha](āha) [itaḥ](ita) [ityādi](ityādi)
 
 ## mukta-m0-p30-v738
-[kvacinmahāśanāhetoraśanārthaṃ](kvacinmahāśanāhetoraśanārthaṃ) [pradhāvati](pradhāvati)
+[kvacit](kvacin) [mahā+āśana+hetor](mahāśanāhetor) [aśana+artham](aśanārthaṃ) [pradhāvati](pradhāvati)
 
 ## mukta-m0-p30-v739
-[khedamīyivān](khedamīyivān) [duḥkhaṃ](duḥkhaṃ) [prāptavān](prāptavān)
+[khedam+īyivān](khedamīyivān) [duḥkhaṃ](duḥkhaṃ) [prāptavān](prāptavān)
 
 ## mukta-m0-p30-v740
-[mahāmūrcchāṃ](mahāmūrcchāṃ) [samāyāti](samāyāti) [cāvidaṃstatpratikriyām](cāvidaṃstatpratikriyām)
+[mahā+mūrcchām](mahāmūrcchāṃ) [samāyāti](samāyāti) [ca](ca) [avidam](āvidaṃ) [tat+pratikriyām](tatpratikriyām)
 
 ## mukta-m0-p30-v741
-[tatpratikriyāṃ](tatpratikriyāṃ) [krodhapratikriyāṃ](krodhapratikriyāṃ) [śāntim](śāntim)
+[tat+pratikriyām](tatpratikriyāṃ) [krodha+pratikriyām](krodhapratikriyāṃ) [śāntim](śāntim)
 
 ## mukta-m0-p30-v742
-[mṛtatulyaṃ](mṛtatulyaṃ) [svamātmānaṃ](svamātmānaṃ) [manyate](manyate) [śokasantataḥ](śokasantataḥ)
+[mṛta+tulyaṃ](mṛtatulyaṃ) [svam](svam) [ātmānaṃ](ātmānaṃ) [manyate](manyate) [śoka+santataḥ](śokasantataḥ)
 
 ## mukta-m0-p30-v743
-[patnīputraiḥ](patnīputraiḥ) [samākrānto](samākrānto) [nīyamānastu](nīyamānastu) [taiḥ](taiḥ) [sadā](sadā)
+[patnī+putraiḥ](patnīputraiḥ) [samākrāntaḥ](samākrānto) [nīyamānaḥ](nīyamānastu) [tu](tu) [taiḥ](taiḥ) [sadā](sadā)
 
 ## mukta-m0-p30-v744
-[mūḍhaputratvād](mūḍhaputratvād) [duṣkulodbhavatvam](duṣkulodbhavatvam)
+[mūḍha+putra+tvāt](mūḍhaputratvād) [duṣkula+udbhava+tvam](duṣkulodbhavatvam)
 
 ## mukta-m0-p30-v745
-[kvacit](kvacit) [kāntārakīrṇeṣu](kāntārakīrṇeṣu) [kravyādakulabhūmiṣu](kravyādakulabhūmiṣu)
+[kvacit](kvacit) [kāntāra+kīrṇeṣu](kāntārakīrṇeṣu) [kravyāda+kula+bhūmiṣu](kravyādakulabhūmiṣu)
 
 ## mukta-m0-p30-v746
-[mahāraṇyasthaṃ](mahāraṇyasthaṃ) [kākādivyāptaṃ](kākādivyāptaṃ) [ca](ca) [svadehaṃ](svadehaṃ) [paśyatīti](paśyatīti) [tātparyam](tātparyam)
+[mahā+araṇya+sthaṃ](mahāraṇyasthaṃ) [kāka+ādi+vyāptaṃ](kākādivyāptaṃ) [ca](ca) [sva+dehaṃ](svadehaṃ) [paśyati](paśyatīti) [tātparyam](tātparyam)
 
 ## mukta-m0-p30-v747
-[kvacit](kvacit) [pūtivahāstheṣu](pūtivahāstheṣu) [kvacid](kvacid) [gāḍhatamaḥsu](gāḍhatamaḥsu) [ca](ca)
+[kvacit](kvacit) [pūti+vahā+stheṣu](pūtivahāstheṣu) [kvacid](kvacid) [gāḍha+tamaḥsu](gāḍhatamaḥsu) [ca](ca)
 
 ## mukta-m0-p30-v748
-[uvāsetyanvayaḥ](uvāsetyanvayaḥ)
+[uvāsa](uvāsetyanvayaḥ) [iti](iti) [anvayaḥ](anvayaḥ)
 
 ## mukta-m0-p30-v749
-[sakhī](sakhī) [ca](ca) [me](me) [duḥkhamūḍhā'bhavad](duḥkhamūḍhā'bhavad) [duḥsaṅgataḥ](duḥsaṅgataḥ) [sadā](sadā)
+[sakhī](sakhī) [ca](ca) [me](me) [duḥkha+mūḍhā](duḥkhamūḍhā) [abhavat](abhavad) [duḥsaṅgataḥ](duḥsaṅgataḥ) [sadā](sadā)
 
 ## mukta-m0-p30-v750
-[mūḍhevātyantamabhavaṃ](mūḍhevātyantamabhavaṃ) [tatkuṭumbaparāyaṇā](tatkuṭumbaparāyaṇā)
+[mūḍhā](mūḍhevātyantamabhavaṃ) [eva](eva) [atyantam](atyantam) [abhavaṃ](abhavaṃ) [tat+kuṭumba+parāyaṇā](tatkuṭumbaparāyaṇā)

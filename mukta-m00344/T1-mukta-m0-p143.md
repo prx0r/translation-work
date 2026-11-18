@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p143-v3551
-[those](tān) [indeed](eva) [questions](praśnān) [says](āha) [from-space+etc](ākāśādityādi) [she](sā) [asked-form](pṛṣṭarūpā)
+those-eva questions-says - space-ādi etc she asked-form
 
 ## mukta-m0-p143-v3552
-[shining-form](sphuradrūpā) [self-abiding](svātmasaṃsthā) [hear](śṛṇu) [you](tvaṃ) [brahma-rākṣasa](brahmarākṣasa)
+shining-form self-abiding hear you brahma-rakshasa
 
 ## mukta-m0-p143-v3553
-[all-inner](sarvāntaratvāt) [not-object](agocaratvāt) [ca](ca) [subtlety](sūkṣmatvam) [self-abiding](svātmasaṃsthā) [own-form](svarūpa) [eva](eva) [stood](sthitā)
+all-inner-ness+and-unperceivability+and subtlety | self-abiding own-form indeed situated
 
 ## mukta-m0-p143-v3554
-[shining](sphurattvaṃ) [what](kiṃ) [what-self](kimātmā) [ca](ca) [say](vadaitat) [prince-son](nṛpanandana)
+shining-ness what what-self and say-this prince-joy
 
 ## mukta-m0-p143-v3555
-[spread](vitatā) [subtle](sūkṣmā) [api](api) [one](ekā) [ca](ca) [how](kathaṃ) [becomes](bhavet)
+pervasive subtle-yet-one and [g: ca nāsti] how be
 
 ## mukta-m0-p143-v3556
-[shining](sphurattvam) [self](ātmā) [ca](ca) [consciousness](citiḥ) [hear](śṛṇu) [you](tvaṃ) [brahma-rākṣasa](brahmarākṣasa)
+shining-ness-self and consciousness hear you brahma-rakshasa
 
 ## mukta-m0-p143-v3557
-[consciousness-only](cinmātram) [eva](eva) [not](na) [from-that](tato) [more](adhikam) [iti](iti) [purport](tātparyam)
+consciousness-only indeed | not from-that more thus purport
 
 ## mukta-m0-p143-v3558
-[by-cognition](upalabdhyā) [ca](ca) [what](kiṃ) [vā](vā) [syāt](syād) [say](vadaitat) [prince-son](nṛpanandana)
+perception and what or be say-this prince-joy
 
 ## mukta-m0-p143-v3559
-[by-cognition](upalabdhyā) [birth](janir) [na](na) [syāt](syāc) [hear](śṛṇu) [you](tvaṃ) [brahma-rākṣasa](brahmarākṣasa)
+perception birth-not be hear you brahma-rakshasa
 
 ## mukta-m0-p143-v3560
-[self-consciousness-only-form-attainment](svātmacinmātrākāratāsampattiḥ) [by-this](etena) [deluded-samādhi](mūḍhasamādhiḥ) [removed](vyāvṛttaḥ)
+self-consciousness-only-form-attainment | by-this deluded-samadhi removed
 
 ## mukta-m0-p143-v3561
-[birth](janir) [vā](vā) [api](api) [bhavet](bhavet) [kā](kā) [sā](sā) [say](vadaitat) [prince-son](nṛpanandana)
+birth-or-even be what she say-this prince-joy
 
 ## mukta-m0-p143-v3562
-[birth](janir) [body-self-idea](dehātmatābuddhiḥ) [hear](śṛṇu) [you](tvaṃ) [brahma-rākṣasa](brahmarākṣasa)
+birth body-self-ness-intellect hear you brahma-rakshasa
 
 ## mukta-m0-p143-v3563
-[object-facing](dṛśyānunmukhatvam)
+seen-toward-ness
 
 ## mukta-m0-p143-v3564
-[birth](janiḥ) [how](kathaṃ) [vā](vā) [obtained](samprāptā) [say](vadaitat) [prince-son](nṛpanandana)
+birth how or attained say-this prince-joy
 
 ## mukta-m0-p143-v3565
-[from-what-cause](kasmānnimittāt) [by-what-instrument](kena+karaṇena)
+from-what cause | by-what instrument
 
 ## mukta-m0-p143-v3566
-[birth](janiḥ) [doership-ego](kartṛtvābhimānāt) [hear](śṛṇu) [you](tvaṃ) [brahma-rākṣasa](brahmarākṣasa)
+birth doership-egoism-from hear you brahma-rakshasa
 
 ## mukta-m0-p143-v3567
-[by-self](ātmanā) [by-own](svena) [eva](eva) [instrument-independence](karaṇāntaranairapekṣyeṇa) [iti](iti) [yāvat](yāvat)
+by-self by-own-only instrument-other-independence thus etc
 
 ## mukta-m0-p143-v3568
-[who](ko) [vā](vā) [doership-ego](kartṛtvābhimāno) [say](vadaitat) [prince-son](nṛpanandana)
+who or doership-egoism say-this prince-joy
 
 ## mukta-m0-p143-v3569
-[that](tad) [vasanā-ego](vāsanābhimānaḥ) [syāt](syāc) [hear](śṛṇu) [you](tvaṃ) [brahma-rākṣasa](brahmarākṣasa)
+that-vasana-egoism be hear you brahma-rakshasa
 
 ## mukta-m0-p143-v3570
-[saṃskāra](saṃskāraḥ)
+impression
 
 ## mukta-m0-p143-v3571
-[of-that](tasyā) [api](api) [what](kiṃ) [cause](kāraṇaṃ) [syāt](syād) [say](vadaitat) [prince-son](nṛpanandana)
+its-even what cause be say-this prince-joy
 
 ## mukta-m0-p143-v3572
-[of-that](tasya) [non-discrimination-destroyer](avivekanāśakasya) [of-that](tasyāpi) [of-that-cause](tatkāraṇasyāpi)
+its non-discrimination-destroyer's | its-even that-cause's-even
 
 ## mukta-m0-p143-v3573
-[that-cause](tatkāraṇaṃ) [fault-seeing](doṣadṛṣṭiḥ) [hear](śṛṇu) [you](tvaṃ) [brahma-rākṣasa](brahmarākṣasa)
+that-cause fault-view hear you brahma-rakshasa
 
 ## mukta-m0-p143-v3574
-[object-fault-seeing](viṣayadoṣadṛṣṭiḥ)
+object-fault-view
 
 ## mukta-m0-p143-v3575
-[fault-seeing](doṣadṛṣṭiḥ) [ca](ca) [what](kā) [proktā](proktā) [say](vadaitat) [prince-son](nṛpanandana)
+fault-view-and what said say-this prince-joy
