@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p62-v1526
-manifest-of(vyaktāyāḥ) and(ca) indeed(eva) hidden-of(guptāyāḥ) characteristic(lakṣaṇam) what(kim) reveal(prakāśaya)
+vyaktāyāḥ + ca + eva + guptāyāḥ + lakṣaṇam + kim + prakāśaya
 
 ## mukta-m0-p62-v1527
-hidden-worship(guptārccane) even(api) liberation(muktiḥ) would-be(syāt) devotion-mood(bhakti-bhāva) endowed(yutaḥ) if(yadi)
+gupta-arccane + api + muktiḥ + syāt + bhakti-bhāva + yutaḥ + yadi
 
 ## mukta-m0-p62-v1528
-from-seeing(darśanāt) hundred-seats-of(lakṣa-pīṭhānām) fruit(phalam) which(yat) excellent-complexioned(varavarṇini)
+darśanāt + lakṣa-pīṭhānām + phalam + yat + vara-varṇini
 
 ## mukta-m0-p62-v1529
-from-touching(sparśanāt) all-seats-of(sarva-pīṭhānām) fruit(phalam) obtains(āpnoti) practitioner(sādhakaḥ)
+sparśanāt + sarva-pīṭhānām + phalam + āpnoti + sādhakaḥ
 
 ## mukta-m0-p62-v1530
-stand(tiṣṭhanti) those(tāni) fords(tīrthāni) yoni-seats-in(yoni-pīṭheṣu) beautiful(sundari)
+tiṣṭhanti + tāni + tīrthāni + yoni-pīṭheṣu + sundari
 
 ## mukta-m0-p62-v1531
-Sarasvati(sarasvatī) middle-part-in(madhyabhāge) lefts-in(vāmeṣu) Jahnavi(jāhnavī) supreme(parā)
+sarasvatī + madhya-bhāge + vāmeṣu + jāhnavī + parā
 
 ## mukta-m0-p62-v1532
-field-in(kṣetre) fords(tīrthāni) stand(tiṣṭhanti) all(sarvāṇi) supreme-lady(parameśvari)
+kṣetre + tīrthāni + tiṣṭhanti + sarvāṇi + parameśvari
 
 ## mukta-m0-p62-v1533
-now(adhunā) to-hear(śrotum) I-desire(icchāmi) characteristic(lakṣaṇam) kula-women-of(kula-yoṣitām)
+adhunā + śrotum + icchāmi + lakṣaṇam + kula-yoṣitām
 
 ## mukta-m0-p62-v1534
-that-characteristic-endowed(tallakṣaṇānvitaḥ) to-be-known(jñeyaḥ) practitioner(sādhakaḥ) kula-woman(kula-yoṣitaḥ)
+tat-lakṣaṇa-anvitaḥ + jñeyaḥ + sādhakaḥ + kula-yoṣitaḥ
 
 ## mukta-m0-p62-v1535
-of-knowers(jñāninām) knowledge-form(jñānarūpam) this(idam) of-kula(kulasya) characteristic(lakṣaṇam) O-Shiva(śive)
+jñāninām + jñāna-rūpam + idam + kulasya + lakṣaṇam + śive
 
 ## mukta-m0-p62-v1536
-thus(iti) Sri-Sarvananda-natha(śrīsarvānandanātha) composed-in(viracite) Sarvollasa(sarvollāse) fiftieth-ullasa(pañcāśadullāsaḥ)
+iti + śrī-sarvānanda-nātha + viracite + sarvollāse + pañcāśad-ullāsaḥ
 
 ## mukta-m0-p62-v1537
-your(tava) pleasure-making(prītikarī) goddess(devi) let-be-said(ucyatām) world-bond-from(bhava-bandhanāt)
+tava + prīti-karī + devi + ucyatām + bhava-bandhanāt
 
 ## mukta-m0-p62-v1538
-yoni-principle(yoni-tattvam) without(vinā) not(na) indeed(eva) kula-dharma(kula-dharma) devoted(parāyaṇaḥ)
+yoni-tattvam + vinā + na + eva + kula-dharma + parāyaṇaḥ
 
 ## mukta-m0-p62-v1539
-forgotten(vismṛtam) again(punaḥ) let-be-said(ucyeta) oath(śapatham) my(me) again(punaḥ) again(punaḥ)
+vismṛtam + punaḥ + ucyeta + śapatham + me + punaḥ + punaḥ
 
 ## mukta-m0-p62-v1540
-not(na) to-be-spoken(vaktavyam) again(punaḥ) indeed(hi) this(etat) oath(śapatham) my(me) again(punaḥ) again(punaḥ)
+na + vaktavyam + punaḥ + hi + etat + śapatham + me + punaḥ + punaḥ
 
 ## mukta-m0-p62-v1541
-menstrual(rajas) radiant(ujjvalā)
+rajas-ujjvalā
 
 ## mukta-m0-p62-v1542
-semen-woman(śukrikā) semen-mother(śukra-jananī) in-her(tasyām) worship(pūjā) great-fruit(mahāphalā)
+śukrikā + śukra-jananī + tasyām + pūjā + mahā-phalā
 
 ## mukta-m0-p62-v1543
-having-meditated(dhyātvā) should-do(kuryāt) always(sadā) union(saṅgam) in-semen(śukre) seed-emission(bīja-prapātanam)
+dhyātvā + kuryāt + sadā + saṅgam + śukre + bīja-prapātanam
 
 ## mukta-m0-p62-v1544
-only(kevalam) or(vā) even(api) by-flower(puṣpeṇa) purified(śodhitam) that-offer(tannivedayet)
+kevalam + vā + api + puṣpeṇa + śodhitam + tat + nivedayet
 
 ## mukta-m0-p62-v1545
-then(tadā) by-semen(śukreṇa) to-be-given(dātavyam) and-alternative(cānukalpam) kula-lady(kuleśvari)
+tadā + śukreṇa + dātavyam + ca + anukalpam + kuleśvari
 
 ## mukta-m0-p62-v1546
-of-direct(pratyakṣasya) even(api) fitness(yogyatvam) and-alternatives-in(cānukalpeṣu) situated(saṃsthitam)
+pratyakṣasya + api + yogyatvam + ca + anukalpeṣu + saṃsthitam
 
 ## mukta-m0-p62-v1547
-own-own-color-endowed(svasvavarṇayutam) substance(dravyam) that(tat) of-substance(dravyasya) alternative(anukalpanam)
+sva-sva-varṇa-yutam + dravyam + tat + dravyasya + anukalpanam
 
 ## mukta-m0-p62-v1548
-having-meditated(dhyātvā) should-worship(yajet) O-Maheshani(maheśāni) in-middle(madhye) semen-emission(śukra-prapātanam)
+dhyātvā + yajet + maheśāni + madhye + śukra-prapātanam
 
 ## mukta-m0-p62-v1549
-thus(tathā) beloved(priye)
+tathā + priye
 
 ## mukta-m0-p62-v1550
-mutually(parasparam) becomes(bhavet) seed(bījam) wind(vāyuḥ) of-spaces(ākāśayoḥ) as(yathā)
+parasparam + bhavet + bījam + vāyu-ākāśayoḥ + yathā
