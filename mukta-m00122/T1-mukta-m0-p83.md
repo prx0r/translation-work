@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p83-v2051
-[dharmika](dhārmikāḥ) [ca](ca) [eva](eva) [kings](rājānaḥ) [full-seven-limbed](pūrṇasaptāṅga) [endowed](saṃyutāḥ)
+[righteous](dhārmikāḥ) [and](ca) [indeed](eva) [kings](rājānaḥ) [complete-seven-limb-endowed](pūrṇasaptāṅgasaṃyutāḥ)
 
 ## mukta-m0-p83-v2052
-[desired](vāñchitaṃ) [obtains](samavāpnoti) [from-mandala](maṇḍalāt) [or-monthly](māsataḥ) [or](vā)
+[desired](vāñchitaṃ) [obtains](samavāpnoti) [from-circle](maṇḍalāt) [from-month-or-even](māsato'pi) [or](vā)
 
 ## mukta-m0-p83-v2053
-[previously-described](prāgukta) [raksha-vayu-indra-fire-ishvara-varuna-directions](rakṣovāyuśakravahnīśavaruṇadikṣu) [placement](sthāpanāt) [thus-meaning](ityarthaḥ)
+[previously-stated-rakṣa-vāyu-śakra-fire-īśa-varuṇa-directions](prāguktarakṣovāyuśakravahnīśavaruṇadikṣu) [placement](sthāpanāt) [thus-meaning](ityarthaḥ)
 
 ## mukta-m0-p83-v2054
-[seven-forms](mūrtisaptakaṃ) [dakini-etc](ḍārākinyādīnāṃ) [six](ṣaṇāṃ) [goddess](devyāḥ) [and](ca) [remainder](iti śeṣaḥ)
+[mūrti-seven](mūrtisaptakaṃ) [(ḍā)-rākinī-etc]( (ḍā)rākinyādīnāṃ) [of-six](ṣaṇāṃ) [and-of-goddess](devyāśca) [thus](iti) [remainder](śeṣaḥ)
 
 ## mukta-m0-p83-v2055
-[afflictions](kleśāḥ) [by-mantra-yantra-power](vidyāyantrānubhāvataḥ) [of-both](ubhayoḥ) [capability](sāmarthyāt)
+[afflictions](kleśāḥ) [by-vidyā-yantra-power](vidyāyantrānubhāvataḥ) [of-both](ubhayoḥ) [by-capability](sāmarthyāt)
 
 ## mukta-m0-p83-v2056
-[in-sushumna-middle](suṣumnāmadhyasaṃstheṣu) [six-support-lotuses](ṣaḍādhārāmbujeṣu) [they](tāḥ)
+[in-suṣumnā-middle-situated](suṣumnāmadhyasaṃstheṣu) [in-six-support-lotuses](ṣaḍādhārāmbujeṣu) [those](tāḥ)
 
 ## mukta-m0-p83-v2057
-[outside](bahiśca) [mandala](maṇḍale) [worship-grace-punishment](pūjānugrahānigrahātmikām)
+[and-outside](bahiśca) [in-circle](maṇḍale) [worship-grace-punishment-natured](pūjānugrahānigrahātmikām)
 
 ## mukta-m0-p83-v2058
-[smoke-colored-lotus](dhūmravarṇāmbuje) [goddess](devīṃ) [dakini](ḍākinīṃ) [her-form](tatsamākṛtim)
+[in-smoke-colored-lotus](dhūmravarṇāmbuje) [goddess](devīṃ) [ḍākinī](ḍākinīṃ) [that-similar-form](tatsamākṛtim)
 
 ## mukta-m0-p83-v2059
-[by-her](tayā) [omniscience-siddhi](sarvajñatāsiddhiḥ) [becomes](bhavati) [indeed](eva) [no-doubt](na saṃśayaḥ)
+[by-her](tayā) [omniscience-accomplishment](sarvajñatāsiddhiḥ) [becomes-indeed](bhavatyeva) [not](na) [doubt](saṃśayaḥ)
 
 ## mukta-m0-p83-v2060
 [obtains](prāpnoti)
 
 ## mukta-m0-p83-v2061
-[in-bodies](deheṣu) [residence](sthitim) [they](tāḥ) [goddesses](devyaḥ) [here-connection](ityatrānvayaḥ) [dakini-etc](dākinyādayaḥ) [remainder](iti śeṣaḥ)
+[in-bodies](deheṣu) [residence](sthitim) [those](tāḥ) [goddesses](devyaḥ) [thus-here-connection](ityatrānvayaḥ) [ḍākinī-etc](dākinyādayaḥ) [thus](iti) [remainder](śeṣaḥ)
 
 ## mukta-m0-p83-v2062
-[root-deity-same](mūladevatāsamānaḥ)
+[root-deity-similar](mūladevatāsamānaḥ)
 
 ## mukta-m0-p83-v2063
-[rakini](rākinīṃ) [twelve-petaled](dvādaśadale) [ka-to-dha-letters](kādiḍhāntākṣarātmabhiḥ)
+[rākinī](rākinīṃ) [in-twelve-petal](dvādaśadale) [kādi-ḍhānta-letters-natured](kādiḍhāntākṣarātmabhiḥ)
 
 ## mukta-m0-p83-v2064
-[manipura-named](maṇipūrakasaṃjñe) [and](ca) [navel-situated](nābhisthe) [ten-petaled](daśapatrake)
+[in-maṇipūraka-named](maṇipūrakasaṃjñe) [and](ca) [in-navel-situated](nābhisthe) [ten-petaled](daśapatrake)
 
 ## mukta-m0-p83-v2065
-[lakini](lākinīṃ) [worship](pūjayed) [enemy](vairivi) [victory-prosperity](jayaśrīsamṛddhaye)
+[lākinī](lākinīṃ) [should-worship](pūjayed) [enemies](vairivi) [victory-prosperity-for](jayaśrīsamṛddhaye)
 
 ## mukta-m0-p83-v2066
-[va-to-sha-six-letters](vādiṣaḍvarṇa) [shaktis](śaktībhiḥ) [surrounded](āvṛtāṃ) [dakini](ḍākinīṃ) [worship](yajet)
+[vādi-six-letters-śaktis-surrounded](vādiṣaḍvarṇaśaktībhirāvṛtāṃ) [ḍākinī](ḍākinīṃ) [should-sacrifice](yajet)
 
 ## mukta-m0-p83-v2067
-[support-named](ādhārākhye) [four-petaled](catuṣpatre) [gold-colored](suvarṇābhe) [lotus](saroruhe)
+[in-ādhāra-named](ādhārākhye) [four-petaled](catuṣpatre) [gold-colored](suvarṇābhe) [lotus](saroruhe)
 
 ## mukta-m0-p83-v2068
-[anus-banner-between](pāyudhvajāntarā) [triangle](tryasram) [middle](madhye) [fire](tejaḥ) [endowed](samanvitām)
+[between-anus-banner](pāyudhvajāntarā) [in-triangle-middle](tryasramadhye) [radiance](tejaḥ) [endowed](samanvitām)
 
 ## mukta-m0-p83-v2069
-[served](sevitāṃ) [ha-ksha-shaktis](hakṣaśaktibhyāṃ) [hakini](hākinīṃ) [worship](pūjayet) [thus](tatha)
+[served](sevitāṃ) [by-ha-kṣa-śaktis](hakṣaśaktibhyāṃ) [hākinī](hākinīṃ) [should-worship](pūjayet) [thus](tathā)
 
 ## mukta-m0-p83-v2070
-[universe-creation-preservation-destruction](viśvasṛṣṭisthitidhvaṃsa) [shakti-garland](śaktidāma) [effortlessly](apyayatnataḥ)
+[world-creation-preservation-destruction-śakti-garland](viśvasṛṣṭisthitidhvaṃsaśaktidām) [even](api) [effortlessly](ayatnataḥ)
 
 ## mukta-m0-p83-v2071
-[worship](pūjanaṃ) [all-suffering-removal](sarvaduḥkhārtināśanaṃ) [wealth-abode](sampadāspadam)
+[worship](pūjanaṃ) [all-suffering-pain-destruction](sarvaduḥkhārtināśanaṃ) [wealth-abode](sampadāspadam)
 
 ## mukta-m0-p83-v2072
-[by-that-worship](tayā pūjayā) [banner-root](dhvajamūle) [genital-root](mehanamūle)
+[by-that](tayā) [worship](pūjayā) [at-banner-root](dhvajamūle) [at-genital-root](mehanamūle)
 
 ## mukta-m0-p83-v2073
-[endowed](samanvitāṃ) [kundalini-fire-form](kuṇḍalinītejorūpām) [and](tathā) [collection](samuccaye)
+[endowed](samanvitāṃ) [kuṇḍalinī-radiance-form](kuṇḍalinītejorūpām) [thus](tathā) [in-collection](samuccaye)
 
 ## mukta-m0-p83-v2074
-[past-present-future-action-knowledge-power-giving](bhūtabhaviṣyavartamānakāryajñānasāmarthyapradāyinīm) [thus-meaning](ityarthaḥ)
+[past-future-present-action-knowledge-capability-giving](bhūtabhaviṣyavartamānakāryajñānasāmarthyapradāyinīm) [thus-meaning](ityarthaḥ)
 
 ## mukta-m0-p83-v2075
-[middle](madhye) [and](ca) [there](tatra) [her](tāṃ) [eternal-non-eternal](nityānityā) [fragrance-etc](gandhādinā) [worship](arcayet)
+[in-middle](madhye) [and](ca) [there](tatra) [her](tāṃ) [eternal-non-eternal](nityānityā) [by-incense-etc](gandhādinā) [should-worship](arcayet)

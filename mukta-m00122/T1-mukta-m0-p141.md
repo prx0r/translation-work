@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p141-v3501
-[twelve](dvādaśa) [having-assembled](sambhūyāṣṭatriṃśanmarmāṇi) [in-these](eṣu) [marma-points](marmasu)
+[dvādaśa](dvādaśa) [sambhūya](sambhūya) [aṣṭatriṃśat](aṣṭatriṃśat) [marmāṇi](marmāṇi) [eṣu](eṣu) [marmasu](marmasu)
 
 ## mukta-m0-p141-v3502
-[in-inversion](vailomye) [deformed-limbedness](vikṛtāṅgatvāllokairnāśāya) [for-destruction](nāśāya) [is-considered](kalpyate)
+[vailomye](vailomye) [vikṛta-aṅgatvāt](vikṛtāṅgatvāt) [lokaiḥ](lokaiḥ) [nāśāya](nāśāya) [kalpyate](kalpyate)
 
 ## mukta-m0-p141-v3503
-[yoga](yogo) [yoga](yogastu) [is-to-be-known](vijñeyastasyāṅgāni) [and-eight](tathāṣṭa) [indeed](vai)
+[yogaḥ](yogaḥ) [yogaḥ](yogaḥ) [tu](tu) [vijñeyaḥ](vijñeyastu) [tasya](tasya) [aṅgāni](aṅgāni) [tathā](tathā) [aṣṭa](aṣṭa) [vai](vai)
 
 ## mukta-m0-p141-v3504
-[prāṇāyāma](prāṇāyāmastathā) [pratyāhāra](pratyāhārastadanu) [then](tadanu) [dhāraṇa](dhāraṇam)
+[prāṇāyāmaḥ](prāṇāyāmastathā) [pratyāhāraḥ](pratyāhārastadanu) [dhāraṇam](dhāraṇam)
 
 ## mukta-m0-p141-v3505
-[i-tell](kathayāmi) [listen](śṛṇu) [wise-one](prājñe) [by-whom](yairmmarttyo) [mortal](marttyo) [equal-to-me](matsamo) [becomes](bhavet)
+[kathayāmi](kathayāmi) [śṛṇu](śṛṇu) [prājñe](prājñe) [yaiḥ](yairmmarttyo) [martyaḥ](marttyo) [matsamaḥ](matsamo) [bhavet](bhavet)
 
 ## mukta-m0-p141-v3506
-[greed-and-delusion](lobhamohau) [pride-and-arrogance](mānamadau) [like-fire](vahnivat) [all-destroying](sarvanāśakāḥ)
+[lobha-mohau](lobhamohau) [māna-madau](mānamadau) [vahni-vat](vahnivat) [sarva-nāśakāḥ](sarvanāśakāḥ)
 
 ## mukta-m0-p141-v3507
-[deformed-limbedness](vikṛtāṅgatvāt) [from-harmful-things](ahitādibhiḥ)
+[vikṛta-aṅgatvāt](vikṛtāṅgatvāt) [ahita-ādibhiḥ](ahitādibhiḥ)
 
 ## mukta-m0-p141-v3508
-[eight-limbed-form](aṣṭāṅgasvarūpaiḥ) [equal-to-me](matsamaḥ) [full-of-me](manmayaḥ) [śiva-form](śivarūpaḥ)
+[aṣṭāṅga-svarūpaiḥ](aṣṭāṅgasvarūpaiḥ) [matsamaḥ](matsamaḥ) [manmayaḥ](manmayaḥ) [śiva-rūpaḥ](śivarūpaḥ)
 
 ## mukta-m0-p141-v3509
-[from-efforts](udyogebhya) [cessation](uparamaṇaṃ) [yama](yamaḥ) [yama-named-limb](yamākhyamaṅgam)
+[udyogebhyaḥ](udyogebhya) [uparamaṇam](uparamaṇaṃ) [yamaḥ](yamaḥ) [yama-ākhya-aṅgam](yamākhyamaṅgam)
 
 ## mukta-m0-p141-v3510
-[thus-eleven-formed](tathaikādaśarūpaḥ) [would-be](syānniyamaḥ) [niyama](niyamaḥ) [is-declared](parikīrttitaḥ)
+[tathā](tathā) [ekādaśa-rūpaḥ](ekādaśarūpaḥ) [syāt](syānniyamaḥ) [niyamaḥ](niyamaḥ) [parikīrtitaḥ](parikīrttitaḥ)
 
 ## mukta-m0-p141-v3511
-[forbearance](kṣamā) [compassion](dayā) [threefold-purity](tridhāśaucaṃ) [contentment](santoṣo) [service-to-guru](gurusevanam)
+[kṣamā](kṣamā) [dayā](dayā) [tridhā-śaucam](tridhāśaucaṃ) [santoṣaḥ](santoṣo) [guru-sevanam](gurusevanam)
 
 ## mukta-m0-p141-v3512
-[postures](āsanāni) [steadiness-of-mind](manaḥsthairyyakaraṇe) [making](karaṇe) [effective](sādhakāni) [indeed](vai)
+[āsanāni](āsanāni) [manaḥ-sthairya-karaṇe](manaḥsthairyyakaraṇe) [sādhakāni](sādhakāni) [vai](vai)
 
 ## mukta-m0-p141-v3513
-[from-outer-side-two-sides-touching](bāhyapārśvadvayasparśāttat) [that](tat) [lotus-posture](padmāsanamīritam) [is-called](īritam)
+[bāhya-pārśva-dvaya-sparśāt](bāhyapārśvadvayasparśāttat) [tat](tat) [padmāsanam](padmāsanam) [īritam](īritam)
 
 ## mukta-m0-p141-v3514
-[swastika-shaped](svastikākārataḥ) [is-said](proktaṃ) [that](tadbhadrāsanamīśvari) [auspicious-posture](bhadrāsanam) [O-goddess](īśvari)
+[svastika-ākārataḥ](svastikākārataḥ) [proktam](proktaṃ) [tat](tadbhadrāsanamīśvari) [bhadrāsanam](bhadrāsanam) [īśvari](īśvari)
 
 ## mukta-m0-p141-v3515
-[mind-speech-body-form](manovākkāyarūpataḥ) [contentment](santoṣaḥ) [fullness](pūrṇatā)
+[mano-vāk-kāya-rūpataḥ](manovākkāyarūpataḥ) [santoṣaḥ](santoṣaḥ) [pūrṇatā](pūrṇatā)
 
 ## mukta-m0-p141-v3516
-[below-thighs-and-above](ūrvoradhastathorddhe) [twofold](ca) [dvidhā) [auspicious-posture](bhadrāsanaṃ) [is-remembered](smṛtam)
+[ūrvoḥ](ūrvoradhastathorddhe) [adhaḥ](adhaḥ) [tathā](tathā) [ūrdhve](ūrdhve) [ca](ca) [dvidhā](dvidhā) [bhadrāsanam](bhadrāsanaṃ) [smṛtam](smṛtam)
 
 ## mukta-m0-p141-v3517
-[at-knees-region](pādayorjānudeśe) [indeed](vai) [vīra-named](vīrākhyaṃ) [yoga-strap](yogapaṭṭataḥ)
+[pādayoḥ](pādayorjānudeśe) [jānu-deśe](jānudeśe) [vai](vai) [vīra-ākhyaṃ](vīrākhyaṃ) [yoga-paṭṭataḥ](yogapaṭṭataḥ)
 
 ## mukta-m0-p141-v3518
-[lightness](lāghavo) [abandonment-of-ground](bhūtalatyāga) [excellence](uttame) [mind-contentment](cittanirvṛtiḥ)
+[lāghavaḥ](lāghavo) [bhūtala-tyāgaḥ](bhūtalatyāga) [uttame](uttame) [citta-nirvṛtiḥ](cittanirvṛtiḥ)
 
 ## mukta-m0-p141-v3519
-[all-limbs-trembling](sarvvāṅgakampanaṃ) [is-declared](proktamabhyāsāt) [from-practice](abhyāsāt) [with-time](kālasaṃyutāt)
+[sarva-aṅga-kampanam](sarvvāṅgakampanaṃ) [proktam](proktamabhyāsāt) [abhyāsāt](abhyāsāt) [kāla-saṃyutāt](kālasaṃyutāt)
 
 ## mukta-m0-p141-v3520
-[therefore](tasmāt) [practice-well](samabhyaset) [morning](prātaḥ) [evening](sāyañca) [with-rule](niyamena) [indeed](vai)
+[tasmāt](tasmāt) [samabhyaset](samabhyaset) [prātaḥ](prātaḥ) [sāyañca](sāyañca) [niyamena](niyamena) [vai](vai)
 
 ## mukta-m0-p141-v3521
-[remembering-water](smarannambu) [air](marut) [afterwards](paścāddakiṇenāpasārayet) [to-right](dakiṇena) [remove](apasārayet)
+[smaran](smarannambu) [ambu](ambu) [marut](marut) [paścāt](paścāddakiṇenāpasārayet) [dakiṇena](dakiṇena) [apasārayet](apasārayet)
 
 ## mukta-m0-p141-v3522
-[tradition](sampradāyaḥ)
+[sampradāyaḥ](sampradāyaḥ)
 
 ## mukta-m0-p141-v3523
-[twofold](dvividhaṃ) [vīra-posture](vīrāsanaṃ) [becomes](bhavatīti)
+[dvividhaṃ](dvividhaṃ) [vīrāsanam](vīrāsanaṃ) [bhavati](bhavatīti) [iti](iti)
 
 ## mukta-m0-p141-v3524
-[hold](dhārayettaccatuḥṣaṣṭyā) [with-sixty-four](catuḥṣaṣṭyā) [exhale](recayettatturīyataḥ) [with-fourth](turīyataḥ)
+[dhārayet](dhārayettaccatuḥṣaṣṭyā) [tat](tat) [catuḥṣaṣṭyā](catuḥṣaṣṭyā) [recayet](recayettatturīyataḥ) [tat](tat) [turīyataḥ](turīyataḥ)
 
 ## mukta-m0-p141-v3525
-[likewise](tadvat) [radiance-manifestation](kāntiprakāśau) [also](ca) [of-yoga-accomplished](yogasiddhasya) [characteristic](lakṣaṇam)
+[tadvat](tadvat) [kānti-prakāśau](kāntiprakāśau) [ca](ca) [yoga-siddhasya](yogasiddhasya) [lakṣaṇam](lakṣaṇam)

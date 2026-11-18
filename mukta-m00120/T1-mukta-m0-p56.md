@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p56-v1376
-[enjoyment-and](bhogaśca) [liberation-and](mokṣaśca) [hand-held](karastha) [indeed](eva)
+enjoyment-and liberation-and hand-held indeed
 
 ## mukta-m0-p56-v1377
-[kaula](kaula) [dharma](dharmmaḥ) [supreme](parama) [profound](gahano) [for-yogis-even-unattainable](yogināmapyagamyaḥ)
+kaula doctrine supreme profound yogis-even inaccessible
 
 ## mukta-m0-p56-v1378
-[enjoyment](bhuktiṃ) [should-go](vrajet)
+enjoyment goes
 
 ## mukta-m0-p56-v1379
-[Ganges](gaṅgāṃ) [I-drink](pivāmi) [Yamuna](yamunāṃ) [with](saha) [ocean](sāgareṇa)
+Ganges drink I Yamuna with ocean
 
 ## mukta-m0-p56-v1380
-[on-head](mūrdhni) [Sri-lord](śrīnātha) [lotus-feet](pādābjaṃ) [remembrance](smaraṇaṃ) [what-beyond](kimataḥ) [supreme](param)
+on head Sri-natha lotus-feet remembrance what than that supreme
 
 ## mukta-m0-p56-v1381
-[clan](kula) [woman](strī) [association](saṅga) [devoted](nirataḥ) [clan-duty](kulakāryaṃ) [should-perform](samācaret)
+clan woman association devoted clan-rite perform
 
 ## mukta-m0-p56-v1382
-[drinking-and](pānañca) [poison](viṣa) [drinking](pānaṃ) [be](syāt) [sexual-intercourse](maithunaṃ) [sin-giving](pāpadāyakam)
+drinking-and poison drinking be sexual-intercourse sin-giving
 
 ## mukta-m0-p56-v1383
-[four](catvāri) [of-him](tasya) [perish](naśyanti) [lifespan-knowledge-fame-strength](āyurvidyā+yaśo+valam)
+four of-him perish life knowledge fame strength
 
 ## mukta-m0-p56-v1384
-[consecration](abhiṣekaṃ) [I-will-declare](pravakṣyāmi) [all-accomplishment](sarvasiddhi) [giving](pradāyakam)
+consecration I-will-declare all-accomplishment giving
 
 ## mukta-m0-p56-v1385
-[all-desires](sarvāśā) [fulfilling](pūrakaṃ) [all](sarva) [mantra](mantra) [fault](doṣa) [destroying](vināśanam)
+all-desires fulfilling all mantra fault destroying
 
 ## mukta-m0-p56-v1386
-[sorcery](abhicāra) [removing](haraṃ) [all](sarvaṃ) [planet-fault](grahadoṣa) [destroying](vināśanam)
+sorcery removing all planet-fault destroying
 
 ## mukta-m0-p56-v1387
-[by-Takshaka](takṣakeṇāpi) [even-bitten](daṣṭasya) [poison-affliction](viṣapīḍā) [destroying](vināśanam)
+by-Takshaka even bitten poison-affliction destroying
 
 ## mukta-m0-p56-v1388
-[in-women-caused](strīkṛteṣvapi) [even](api) [faults](doṣeṣu) [in-body](śarīre) [in-mind](mānase) [and](tathā)
+woman-made even faults in-body in-mind and
 
 ## mukta-m0-p56-v1389
-[in-inauspiciousness](asaubhāgye) [and](ca) [of-women](nārīṇām) [consecration](abhiṣekaḥ) [proceeds](pravarttate)
+inauspiciousness and of-women consecration proceeds
 
 ## mukta-m0-p56-v1390
-[river](nadī) [bank](tīre) [god](deva) [ground](bhūmau) [tree](taru) [root](mūle) [crossroads](catuṣpathe)
+river bank god ground tree root crossroads
 
 ## mukta-m0-p56-v1391
-[by-mantra](mantreṇānena) [goddess-of-gods](deveśi) [tirthas](tīrthānyāvāhayettataḥ)
+by-mantra this goddess-of-gods tirthas invoke then
 
 ## mukta-m0-p56-v1392
-[all](sarve) [oceans](samudrāḥ) [rivers](saritaḥ) [lakes](sarāṃsi) [clouds](jaladā) [ponds](hradāḥ)
+all oceans rivers lakes clouds pools
 
 ## mukta-m0-p56-v1393
-[all-tirthas](sarvetīrthāni) [holy](puṇyāni) [in-pot](ghaṭe) [make](kurvantu) [presence](sannidhim)
+all-tirthas holy in-pot make presence
 
 ## mukta-m0-p56-v1394
-[steady-form](sthirākṛtiḥ)
+stable-form
 
 ## mukta-m0-p56-v1395
-[with-root](mūlena) [durva](dūrvāṃ) [with-om](praṇavaiḥ) [make-sprinkling](kuryādabhyukṣaṇaṃ) [then](tataḥ)
+by-root durva with-om make sprinkling then
 
 ## mukta-m0-p56-v1396
-[there](tatrāvāhya) [invoke](āvāhya) [worship](prapūjayet)
+there invoke worship
 
 ## mukta-m0-p56-v1397
-[by-mantra](mantreṇānena) [this](anena) [teacher](deśikaḥ)
+by-mantra this teacher
 
 ## mukta-m0-p56-v1398
-[urine-sound](vāmutranirghoṣaḥ)
+urine-sound
 
 ## mukta-m0-p56-v1399
-[fame](yaśo) [wealth-glory](dhanāyustejaḥsu) [Sri-fruit's](śrīphalasyāpi) [also](api) [sprouts](pallavaiḥ)
+fame wealth life splendor with bilva leaves
 
 ## mukta-m0-p56-v1400
-[is-seen](dṛśyate)
+is-seen
