@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p106-v2626
-karṇikā(karṇikā) śaśibhāgena(śaśibhāgena) vistārāt(vistārāt) ca(ca) adhunā(adhunā) ucyate(ucyate)
+[karṇikā](karṇikā) [śaśi+bhāgena](śaśibhāgena) [vistārāt](vistārāt) [ca](ca) [adhunā](adhunā) [ucyate](ucyate)
 
 ## mukta-m0-p106-v2627
-tanmadhye(tanmadhye) tu(tu) dvibhāgābhyām(dvibhāgābhyām) praveśaḥ(praveśaḥ) gṛha(gṛha) hetave(hetave)
+[tan+madhye](tanmadhye) [tu](tu) [dvi+bhāgābhyām](dvibhāgābhyāṃ) [praveśaḥ](praveśo) [gṛha](gṛha) [hetave](hetave)
 
 ## mukta-m0-p106-v2628
-evameva(evameva) tu(tu) jaṅghāyām(jaṅghāyām) añjaryā(añjaryā) vedikāvadhiḥ(vedikāvadhiḥ)
+[evam+eva](evameva) [tu](tu) [jaṅghā+yāmañjaryā](jaṅghāyāmañjaryā) [vedikā+vadhiḥ](vedikāvadhiḥ)
 
 ## mukta-m0-p106-v2629
-prāsādaśikharam(prāsādaśikharam) vā(vā) api(api) brūyām(brūyām) uparathādikān(uparathādikān)
+[prāsāda+śikharam](prāsādaśikharaṃ) [vā](vā) [api](api) [brūyām](brūyām) [uparathā+ādikān](uparathādikān)
 
 ## mukta-m0-p106-v2630
-pīṭhādi(pīṭhādi) abja(abja) antam(antam) ucchrāye(ucchrāye) praveśaḥ(praveśaḥ) ca(ca) nigadyate(nigadyate)
+[pīṭha+ādi+abja+antam](pīṭhādyabjāntam) [ucchrāye](ucchrāye) [praveśaḥ](praveśaśca) [ca](ca) [nigadyate](nigadyate)
 
 ## mukta-m0-p106-v2631
-ardhena(ardhena) paṭṭikām(paṭṭikām) kuryāt(kuryāt) dvābhyām(dvābhyām) kaṇṭhapraveśakam(kaṇṭhapraveśakam)
+[ardhena](ardhena) [paṭṭikām](paṭṭikāṃ) [kuryāt](kuryāddvābhyāṃ) [dvābhyām](dvābhyāṃ) [kaṇṭha+praveśakam](kaṇṭhapraveśakam)
 
 ## mukta-m0-p106-v2632
-ardhāṃśena(ardhāṃśena) tat(tat) ūrdhve(ūrdhve) tu(tu) kāryā(kāryā) ca(ca) eva(eva) upapaṭṭikā(upapaṭṭikā)
+[ardha+aṃśena](ardhāṃśena) [tat+ūrdhve](tadūrdhve) [tu](tu) [kāryā](kāryā) [ca](ca) [eva](eva) [upa+paṭṭikā](upapaṭṭikā)
 
 ## mukta-m0-p106-v2633
-tryāṅghripraveśaḥ(tryāṅghripraveśaḥ) haṃsa(haṃsa) tat(tat) paṭṭi(paṭṭi) ardha(ardha) praveśataḥ(praveśataḥ)
+[trya+aṅghri+praveśaḥ](tryāṅghripraveśo) [haṃsa](haṃsa) [tat+paṭṭi+ardha+praveśataḥ](statpaṭṭyardhapraveśataḥ)
 
 ## mukta-m0-p106-v2634
-sandhipatrānvitam(sandhipatrānvitam) padmam(padmam) vidadhīta(vidadhīta) suśobhanam(suśobhanam)
+[sandhi+patra+anvitam](sandhipatrānvitaṃ) [padmam](padmaṃ) [vidadhīta](vidadhīta) [su+śobhanam](suśobhanam)
 
 ## mukta-m0-p106-v2635
-śilotthaṃ(śilotthaṃ) padapīṭhaṃ(padapīṭhaṃ) syāt(syāt) evam(evam) dārviṣṭakāmaye(dārviṣṭakāmaye)
+[śila+utthaṃ](śilotthaṃ) [pada+pīṭhaṃ](padapīṭhaṃ) [syāt](syāt) [evam](evaṃ) [dārviṣṭakā+maye](dārviṣṭakāmaye)
 
 ## mukta-m0-p106-v2636
-tat(tat) ucchrayam(ucchrayam) grahaṃ(grahaṃ) kṛtvā(kṛtvā) jaṅghā(jaṅghā) tat(tat) madhyataḥ(madhyataḥ) guṇaiḥ(guṇaiḥ)
+[tat+ucchrayaṃ](taducchrayaṃ) [grahaṃ](grahaṃ) [kṛtvā](kṛtvā) [jaṅghā](jaṅghā) [tat+madhyataḥ](tanmadhyato) [guṇaiḥ](guṇaiḥ)
 
 ## mukta-m0-p106-v2637
-vedibandha(vedibandha) varaṇḍā(varaṇḍā) dinnigadāmi(dinnigadāmi) anupūrvaśaḥ(anupūrvaśaḥ)
+[vedibandha+varaṇḍā](vedibandhavaraṇḍā) [dinnigadāmi](dinnigadāmyanupūrvaśaḥ) [anupūrvaśaḥ](anupūrvaśaḥ)
 
 ## mukta-m0-p106-v2638
-ucchraye(ucchraye) dhāmaturyāṃśāt(dhāmaturyāṃśāt) tasmin(tasmin) nidrāṃśakekṛte(nidrāṃśakekṛte)
+[ucchraye](ucchraye) [dhāma+turyāṃśāt](dhāmaturyāṃśāttasminnidrāṃśakekṛte) [tasmin](tasmin) [nidrā+aṃśake](nidrāṃśake) [kṛte](kṛte)
 
 ## mukta-m0-p106-v2639
-sārdhatrayeṇa(sārdhatrayeṇa) kumbhaḥ(kumbhaḥ) syāt(syāt) tat(tat) ardhe(ardhe) kumbhapaṭṭikā(kumbhapaṭṭikā)
+[sārdha+trayeṇa](sārdhatrayeṇa) [kumbhaḥ](kumbhaḥ) [syāt](syāttadardhe) [tat+ardhe](tadardhe) [kumbha+paṭṭikā](kumbhapaṭṭikā)
 
 ## mukta-m0-p106-v2640
-bhāgārdhena(bhāgārdhena) tu(tu) kaṇṭhaḥ(kaṇṭhaḥ) syāt(syāt) kalaśaḥ(kalaśaḥ) ca(ca) guṇāṃśataḥ(guṇāṃśataḥ)
+[bhāga+ardhena](bhāgārdhena) [tu](tu) [kaṇṭhaḥ](kaṇṭhaḥ) [syāt](syātkalaśaśca) [kalaśaḥ](kalaśaśca) [ca](ca) [guṇa+aṃśataḥ](guṇāṃśataḥ)
 
 ## mukta-m0-p106-v2641
-praveśāt(praveśāt) ca(ca) ekataḥ(ekataḥ) kaṇṭhāḥ(kaṇṭhāḥ) ca(ca) ardhe(ardhe) nirgamapaṭṭikā(nirgamapaṭṭikā)
+[praveśāt](praveśāccaikataḥ) [ca](ca) [ekataḥ](ekataḥ) [kaṇṭhāḥ](kaṇṭhāścārdhe) [ca](ca) [ardhe](ardhe) [nirgama+paṭṭikā](nirgamapaṭṭikā)
 
 ## mukta-m0-p106-v2642
-kumbhapaṭṭī(kumbhapaṭṭī) tu(tu) pādena(pādena) kupālyā(kupālyā) dyaṃśataḥ(dyaṃśataḥ) sthitā(sthitā)
+[kumbha+paṭṭī](kumbhapaṭṭī) [tu](tu) [pādena](pādena) [kupālyā](kupālyā) [dyaṃśataḥ](dyaṃśataḥ) [sthitā](sthitā)
 
 ## mukta-m0-p106-v2643
-tribhiḥ(tribhiḥ) khurādibhiḥ(khurādibhiḥ) yuktam(yuktam) vedībandha(vedībandha) abhidhānakam(abhidhānakam)
+[tribhiḥ](tribhiḥ) [khura+ādibhiḥ](khurādibhiryuktaṃ) [yuktaṃ](yuktaṃ) [vedī+bandha+abhidhānakam](vedībandhābhidhānakam)
 
 ## mukta-m0-p106-v2644
-kṛteṣu(kṛteṣu) triṣu(triṣu) bhāgeṣu(bhāgeṣu) pādonāṃśāt(pādonāṃśāt) praveśikān(praveśikān)
+[kṛteṣu](kṛteṣu) [triṣu](triṣu) [bhāgeṣu](bhāgeṣu) [pāda+ūna+aṃśāt](pādonāṃśātpraveśikān) [praveśikān](praveśikān)
 
 ## mukta-m0-p106-v2645
-bhāgena(bhāgena) caturasrākhyā(caturasrākhyā) paṭṭikā(paṭṭikā) sārdhataḥ(sārdhataḥ) sthitā(sthitā)
+[bhāgena](bhāgena) [caturasra+ākhyā](caturasrākhyā) [paṭṭikā](paṭṭikā) [sārdhataḥ](sārdhataḥ) [sthitā](sthitā)
 
 ## mukta-m0-p106-v2646
-khuṃrakumbhavatī(khuṃrakumbhavatī) jaṅghā(jaṅghā) jyeṣṭhānām(jyeṣṭhānām) pādamānataḥ(pādamānataḥ)
+[khuṃra+kumbhavatī](khuṃrakumbhavatī) [jaṅghā](jaṅghā) [jyeṣṭhānām](jyeṣṭhānāṃ) [pāda+mānataḥ](pādamānataḥ)
 
 ## mukta-m0-p106-v2647
-yāvat(yāvat) cinnvakām(cinnvakām) vā(vā) api(api) patravalyā(pat ravalyā) athavā(athavā) varā(varā)
+[yāvat](yāvaccinnavakāṃ) [cinnava+kām](cinnava+kām) [vā](vā) [api](api) [patra+valyā](patravalyāthavā) [athavā](athavā) [varā](varā)
 
 ## mukta-m0-p106-v2648
-caturthāṃśaḥ(caturthāṃśaḥ) ca(ca) jaṅghordhve(jaṅghordhve) vibhajya(vibhajya) vasubhāgataḥ(vasubhāgataḥ)
+[caturtha+aṃśaḥ](caturthāṃśaśca) [ca](ca) [jaṅgha+ūrdhve](jaṅghordhve) [vibhajya](vibhajya) [vasu+bhāgataḥ](vasubhāgataḥ)
 
 ## mukta-m0-p106-v2649
-tatra(tatra) ardhena(ardhena) praveśākhyaṃ(praveśākhyaṃ) paṭṭikām(paṭṭikām) tu(tu) vi(vi) vartayet(vartayet)
+[tatra](tatrārdhena) [ardhena](ardhena) [praveśa+ākhyaṃ](praveśākhyaṃ) [paṭṭikām](paṭṭikāṃ) [tu](tu) [vi](vi) [vartayet](vartayet)
 
 ## mukta-m0-p106-v2650
-pādonāṃśena(pādonāṃśena) haṃsākhyā(haṃsākhyā) paṭṭī(paṭṭī) tatpadato(tatpadato) bhavet(bhavet)
+[pāda+ūna+aṃśena](pādonāṃśena) [haṃsa+ākhyā](haṃsākhyā) [paṭṭī](paṭṭī) [tat+padato](tatpadato) [bhavet](bhavet)
