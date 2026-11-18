@@ -8,11 +8,11 @@
 "tokens": [
 {
 "surface": "udrekāt",
-"quick_gloss": "from-excess"
+"quick_gloss": "excess"
 },
 {
 "surface": "karṣato",
-"quick_gloss": "of-drawing"
+"quick_gloss": "attracting"
 },
 {
 "surface": "dṛṣṭaḥ",
@@ -66,7 +66,7 @@
 "tokens": [
 {
 "surface": "pramāṇabhūmim",
-"quick_gloss": "measure-ground"
+"quick_gloss": "proof-ground"
 },
 {
 "surface": "āśritya",
@@ -78,7 +78,7 @@
 },
 {
 "surface": "kālikāḥ",
-"quick_gloss": "time-powers"
+"quick_gloss": "temporal-ones"
 },
 {
 "surface": "sthitāḥ",
@@ -95,7 +95,7 @@
 "tokens": [
 {
 "surface": "sthitisṛṣṭyādibhedena",
-"quick_gloss": "by-distinction-of-stability-creation-etc"
+"quick_gloss": "by-stability-creation-etc-distinction"
 },
 {
 "surface": "caturdhā",
@@ -103,7 +103,7 @@
 },
 {
 "surface": "kālikodayaḥ",
-"quick_gloss": "time-power-rise"
+"quick_gloss": "temporal-rising"
 }
 ]
 },
@@ -128,7 +128,7 @@
 },
 {
 "surface": "kālikāḥ",
-"quick_gloss": "time-powers"
+"quick_gloss": "temporal-ones"
 },
 {
 "surface": "sthitāḥ",
@@ -145,7 +145,7 @@
 "tokens": [
 {
 "surface": "darśanasparśasambhogavirāmodrekatā",
-"quick_gloss": "seeing-touch-enjoyment-detachment-excess"
+"quick_gloss": "seeing-touching-enjoying-detachment-excess"
 },
 {
 "surface": "matāḥ",
@@ -182,16 +182,12 @@
 "quick_gloss": "this"
 },
 {
-"surface": "parikaraḥ",
-"quick_gloss": "attendant"
+"surface": "parikarastvanyo",
+"quick_gloss": "attendant-other"
 },
 {
-"surface": "tvanyaḥ",
-"quick_gloss": "but-other"
-},
-{
-"surface": "bhāvavargaḥ",
-"quick_gloss": "group-of-states"
+"surface": "bhāvavargo",
+"quick_gloss": "state-group"
 },
 {
 "surface": "vyavasthitaḥ",
@@ -208,11 +204,11 @@
 "tokens": [
 {
 "surface": "anenaivāśayenaiva",
-"quick_gloss": "by-this-intention"
+"quick_gloss": "by-this-very-intent"
 },
 {
 "surface": "parabrahmopalabdhaye",
-"quick_gloss": "for-realization-of-supreme-brahman"
+"quick_gloss": "for-supreme-brahman-realization"
 }
 ]
 },
@@ -246,7 +242,7 @@
 "tokens": [
 {
 "surface": "samyagvastuvicāreṇa",
-"quick_gloss": "by-proper-inquiry-into-reality"
+"quick_gloss": "by-proper-essence-inquiry"
 },
 {
 "surface": "bhāvānāmāsvabhāvataḥ",
@@ -267,11 +263,11 @@
 },
 {
 "surface": "siddhamukhāmnāyayuktyā",
-"quick_gloss": "by-tradition-reason"
+"quick_gloss": "siddha-tradition-reasoning"
 },
 {
 "surface": "naivāsti",
-"quick_gloss": "not-at-all"
+"quick_gloss": "not-indeed"
 },
 {
 "surface": "vastutaḥ",
@@ -295,8 +291,12 @@
 "quick_gloss": "all-this"
 },
 {
-"surface": "saṃsthānamātmanaḥ",
-"quick_gloss": "structure-of-self"
+"surface": "saṃsthānam",
+"quick_gloss": "arrangement"
+},
+{
+"surface": "ātmanaḥ",
+"quick_gloss": "of-self"
 }
 ]
 },
@@ -309,11 +309,11 @@
 "tokens": [
 {
 "surface": "tadgrāsasaṃrambhaparā",
-"quick_gloss": "that-devouring-zeal-supreme"
+"quick_gloss": "that-devouring-zeal-filled"
 },
 {
 "surface": "yāśca",
-"quick_gloss": "and-which"
+"quick_gloss": "and"
 },
 {
 "surface": "dvādaśa",
@@ -321,7 +321,7 @@
 },
 {
 "surface": "kālikāḥ",
-"quick_gloss": "time-powers"
+"quick_gloss": "temporal-ones"
 }
 ]
 },
@@ -338,7 +338,7 @@
 },
 {
 "surface": "cidacidbhogabhoganirbhogalakṣaṇā",
-"quick_gloss": "conscious-unconscious-enjoyment-enjoyment-non-enjoyment-marked"
+"quick_gloss": "conscious-nonconscious-enjoyment-enjoymentless-marked"
 }
 ]
 },
@@ -396,12 +396,8 @@
 "quick_gloss": "thus"
 },
 {
-"surface": "pūjanasaṅkrāmair",
-"quick_gloss": "by-worship-transmissions"
-},
-{
-"surface": "upāyair",
-"quick_gloss": "by-means"
+"surface": "pūjanasaṅkrāmairupāyair",
+"quick_gloss": "by-worship-transitions-means"
 },
 {
 "surface": "upalakṣitā",
@@ -417,8 +413,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "trayodaśīti",
-"quick_gloss": "thirteenth-thus"
+"surface": "trayodaśī",
+"quick_gloss": "thirteenth"
+},
+{
+"surface": "iti",
+"quick_gloss": "thus"
 },
 {
 "surface": "yā",
@@ -430,11 +430,15 @@
 },
 {
 "surface": "kathyate",
-"quick_gloss": "is-called"
+"quick_gloss": "said-indeed"
 },
 {
-"surface": "hyupacārataḥ",
-"quick_gloss": "indeed-by-courtesy"
+"surface": "hy",
+"quick_gloss": "hy"
+},
+{
+"surface": "upacārataḥ",
+"quick_gloss": "by-courtesy"
 }
 ]
 },
@@ -455,7 +459,7 @@
 },
 {
 "surface": "hṛdayaṅgamayuktitaḥ",
-"quick_gloss": "by-heart-reaching-reason"
+"quick_gloss": "heart-reaching-reasoning"
 }
 ]
 },
@@ -468,7 +472,7 @@
 "tokens": [
 {
 "surface": "kālikākramadṛṣṭatvāt",
-"quick_gloss": "because-of-being-seen-as-time-power-sequence"
+"quick_gloss": "by-temporal-sequence-seenness"
 },
 {
 "surface": "upacāreṇa",
@@ -476,7 +480,7 @@
 },
 {
 "surface": "tāḥ",
-"quick_gloss": "those"
+"quick_gloss": "they"
 },
 {
 "surface": "sthitāḥ",
@@ -512,12 +516,8 @@
 "quick_gloss": "directly-perceived"
 },
 {
-"surface": "api",
-"quick_gloss": "or"
-},
-{
 "surface": "vā",
-"quick_gloss": "how"
+"quick_gloss": "or"
 },
 {
 "surface": "katham",
@@ -542,11 +542,11 @@
 },
 {
 "surface": "syāt",
-"quick_gloss": "may-be"
+"quick_gloss": "syāt"
 },
 {
 "surface": "sūkṣmapratyakṣadarśinaḥ",
-"quick_gloss": "for-subtle-direct-seer"
+"quick_gloss": "subtle-direct-seer"
 }
 ]
 },
@@ -562,12 +562,12 @@
 "quick_gloss": "by-courtesy"
 },
 {
-"surface": "tadvṛttikālikā",
-"quick_gloss": "that-function-time-power"
+"surface": "tadvṛtti",
+"quick_gloss": "that-functioning"
 },
 {
-"surface": "kramagocarā",
-"quick_gloss": "sequence-accessible"
+"surface": "kālikākramagocarā",
+"quick_gloss": "temporal-sequence-object"
 }
 ]
 },
@@ -583,7 +583,7 @@
 "quick_gloss": "all-desire-free"
 },
 {
-"surface": "viśrāntiḥ",
+"surface": "viśrāntir",
 "quick_gloss": "rest"
 },
 {

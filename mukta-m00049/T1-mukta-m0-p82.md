@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p82-v2026
-[then](tatastu) [in-fifth](pañcame) [month](māsi) [give](dadyāt) [five-nectar](pañcāmṛtaṃ) [to-woman](striyai)
+[then](tataḥ) [in fifth](pañcame) [month](māsi) [should give](dadyāt) [five-nectars](pañcāmṛtaṃ) [to woman](striyai)
 
 ## mukta-m0-p82-v2027
-[five-nectar](pañcāmṛtam) [this](idaṃ) [said](proktaṃ) [body-purification](dehaśuddhau) [is-done](vidhīyate)
+[five-nectars](pañcāmṛtam) [this](idam) [declared](proktaṃ) [for body-purification](dehaśuddhau) [is ordained](vidhīyate)
 
 ## mukta-m0-p82-v2028
-[having-united](ekīkṛtya) [nectars](amṛtāni) [here](atra) [feed](prāśayet) [beloved](dayitāṃ) [wife](patiḥ)
+[having united](ekīkṛtya) [nectars](amṛtāni) [here](atra) [should feed](prāśayet) [beloved](dayitāṃ) [husband](patiḥ)
 
 ## mukta-m0-p82-v2029
-[until](yāvat) [not](na) [born](jāyate) [offspring](apatyaṃ) [until](tāvat) [simantana-rite](sīmantanakriyā)
+[until](yāvat) [not](na) [is born](jāyate) [offspring](apatyaṃ) [until then](tāvat) [sīmantana-rite](sīmantanakriyā)
 
 ## mukta-m0-p82-v2030
-[to-Vishnu](viṣṇave) [to-sun](bhāsvate) [to-creator](dhātre) [to-fire-born](vahnijāyāṃ) [reciting](samuccaran)
+[to Viṣṇu](viṣṇave) [to Bhāsvat](bhāsvate) [to Dhātṛ](dhātre) [to fire's wife](vahnijāyāṃ) [invoking](samuccaran)
 
 ## mukta-m0-p82-v2031
-[sevenfold](saptadhā) [offering](havanaṃ) [do](kuryāt) [Soma](somam) [aiming](uddiśya) [man](mānavaḥ)
+[sevenfold](saptadhā) [offering](havanaṃ) [should do](kuryāt) [to Soma](somam) [addressing](uddiśya) [man](mānavaḥ)
 
 ## mukta-m0-p82-v2032
-[complete](samāpayet) [male-child-rite](puṃsavanaṃ) [action](karma) [thus](iti) [remainder](śeṣaḥ)
+[should complete](samāpayet) [puṃsavana](puṃsavanaṃ) [rite](karma) [thus](iti) [remainder](śeṣaḥ)
 
 ## mukta-m0-p82-v2033
-[equal-share](samāṃśakam) [equal-part](tulyabhāgam)
+[equal-part](samāṃśakam) [equal-share](tulyabhāgam)
 
 ## mukta-m0-p82-v2034
-[wife](bhāryām) [here](atra) [fifth](pañcame) [month](māsi) [feed](prāśayet)
+[to wife](bhāryām) [here](atra) [in fifth](pañcame) [month](māsi) [should feed](prāśayet)
 
 ## mukta-m0-p82-v2035
-[meditating](dhyātvā) [individually](pratyekato) [give](dadyāt) [oblations](āhutīḥ) [fivefold](pañcadhā) [to-Shiva](śive)
+[having meditated](dhyātvā) [separately](pratyekato) [should give](dadyād) [oblations](āhutīḥ) [fivefold](pañcadhā) [to Śiva](śive)
 
 ## mukta-m0-p82-v2036
-[simantana-like](sīmantādvat) [hair-end](dhakeśāntaḥ) [hair-tuft](keśapāśe) [place](niveśayet)
+[like sīmanta](sīmantādvat) [in hair-end](dhakeśāntaḥ) [in hair-tress](keśapāśe) [should place](niveśayet)
 
 ## mukta-m0-p82-v2037
-[Shiva](śivaṃ) [Vishnu](viṣṇuṃ) [Brahma](vidhiṃ) [meditating](dhyāyan) [maya-seed](māyābījaṃ) [reciting](samuccaran)
+[Śiva](śivaṃ) [Viṣṇu](viṣṇuṃ) [Brahmā](vidhiṃ) [meditating](dhyāyan) [māyā-bīja](māyābījaṃ) [invoking](samuccaran)
 
 ## mukta-m0-p82-v2038
-[well-delivered](suprasūtā) [be](bhava) [pleased](prītā) [by-grace](prasādāt) [of-Vishvakarma](viśvakarmaṇaḥ)
+[well-delivered](suprasūtā) [be](bhava) [pleased](prītā) [by grace](prasādāt) [of Viśvakarman](viśvakarmaṇaḥ)
 
 ## mukta-m0-p82-v2039
-[then](tataḥ) [complete](samāpayet) [rite](karma) [with-svishtakrit-offering](sviṣṭikṛddhavanādibhiḥ)
+[then](tataḥ) [should complete](samāpayet) [rite](karma) [with sviṣṭikṛt-homa etc.](sviṣṭikṛddhavanādibhiḥ)
 
 ## mukta-m0-p82-v2040
-[by-previously-said-rite](pūrvoktavidhinā) [wise](dhīro) [stream-offering](dhārāhomaṃ) [complete](samāpayet)
+[by previously-stated procedure](pūrvoktavidhinā) [wise one](dhīro) [dhārā-homa](dhārāhomaṃ) [should complete](samāpayet)
 
 ## mukta-m0-p82-v2041
-[all](viśvān) [gods](devāṃśca) [Brahma](brahmāṇam) [aiming](uddiśya) [then-after](tadanantaram)
+[to Viśve-devas](viśvān+devāṃś+ca) [and Brahmā](brahmāṇam) [addressing](uddiśya) [thereafter](tadanantaram)
 
 ## mukta-m0-p82-v2042
-[vagbhava](vāgbhavaṃ) [hundredfold](śatadhā) [having-chanted](japtvā) [feed](prāśayet) [son](tanayaṃ) [father](pitā)
+[vāgbhava](vāgbhavaṃ) [hundredfold](śatadhā) [having chanted](japtvā) [should feed](prāśayet) [son](tanayaṃ) [father](pitā)
 
 ## mukta-m0-p82-v2043
-[life](āyur) [luster](varco) [strength](balaṃ) [intellect](medhā) [increase](varddhatāṃ) [your](te) [always](sadā) [child](śiśo)
+[life](āyur) [splendor](varco) [strength](balaṃ) [intellect](medhā) [may increase](varddhatāṃ) [for you](te) [always](sadā) [child](śiśo)
 
 ## mukta-m0-p82-v2044
-[having-done-upanayana](kṛtopanayane) [son](putre) [by-that](tena) [name](nāmnā) [call](samāhvayet)
+[after upanayana](kṛtopanayane) [son](putre) [by that](tena) [name](nāmnā) [should call](samāhvayet)
 
 ## mukta-m0-p82-v2045
-[navel-cutting](nālachedaṃ) [then](tato) [nurse](dhātrī) [do](kuryāt) [with-enthusiasm](utsāhapūrvakam)
+[cord-cutting](nālachedaṃ) [then](tato) [nurse](dhātrī) [should do](kuryād) [with enthusiasm](utsāhapūrvakam)
 
 ## mukta-m0-p82-v2046
-[before](prāgeva) [navel-cutting](nāḍikāchedāt) [divine](daivīṃ) [ancestral](paitrīṃ) [rite](kriyāṃ) [perform](caret)
+[before](prāgeva) [cord-cutting](nāḍikāchedāt) [divine](daivīṃ) [ancestral](paitrīṃ) [rite](kriyāñ) [should perform](caret)
 
 ## mukta-m0-p82-v2047
-[clear-meaning](spaṣṭārthaḥ)
+[clear meaning](spaṣṭārthaḥ)
 
 ## mukta-m0-p82-v2048
-[right-hand](dakṣahastānāmikayā) [ring-finger](aṅgulyā) [with-honey-ghee](madhusarpistanayaṃ) [feed](prāśayet)
+[with right-hand ring finger](dakṣahastānāmikayāṅgulyā) [honey-ghee](madhusarpis) [to son](tanayaṃ) [should feed](prāśayet)
 
 ## mukta-m0-p82-v2049
-[sixth](ṣaṣṭhe) [or](vā) [eighth](cāṣṭame) [month](māsi) [name](nāma) [do](kuryāt) [publicly](prakāśataḥ)
+[in sixth or eighth month](ṣaṣṭhe+vā+cāṣṭame+māsi) [name](nāma) [should do](kuryāt) [openly](prakāśataḥ)
 
 ## mukta-m0-p82-v2050
-[husband](bhartuḥ) [side](pārśvaṃ) [having-come](samāgatya) [east-facing](prāṅmukhaṃ) [place](sthāpayet) [son](sutam)
+[to husband's side](bhartuḥ+pārśvaṃ) [having come](samāgatya) [east-facing](prāṅmukhaṃ) [should place](sthāpayet) [son](sutam)
