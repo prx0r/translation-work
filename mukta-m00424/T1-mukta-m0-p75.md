@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p75-v1851
-[then](tatasta) [threefold](triguṇīkṛtya) [to-Shiva](śivāya) [offer](vinivedayet)
+[thereafter](tatasta) [making-threefold](triguṇīkṛtya) [to-shiva](śivāya) [should-offer](vinivedayet)
 
 ## mukta-m0-p75-v1852
-[eight?](tarāṣṭaṃ) [and](ca) [fault-origin](dūṣaṇotpatti) [that-expenditure?](taduvyantuvyayohya) [and](ca)
+[tarāṣṭam](tarāṣṭaṃ) [and](ca) [origin-of-defect](dūṣaṇotpatti) [that-etc](taduvyantuvyayohya) [and](ca)
 
 ## mukta-m0-p75-v1853
-[peace-homa](śāntihomaṃ) [then](tataḥ) [do](kuryāt) [as-before](pūrvavat) [cook-auspicious](pācayecchubham)
+[peace-homa](śāntihomaṃ) [then](tataḥ) [should-do](kuryāt) [as-before](pūrvavat) [cook-auspicious](pācayecchubham)
 
 ## mukta-m0-p75-v1854
-[join](sandhāti) [in-crossing](kramaṇe) [arrived](prāpte) [from-enemies](śatrubhirbhayamādiśet)
+[union](sandhāti) [in-passage](kramaṇe) [having-arrived](prāpte) [fear-from-enemies](śatrubhirbhayamādiśet)
 
 ## mukta-m0-p75-v1855
-[by-transgression](vyatikrameṇa) [of-mantras](mantrāṇāṃ) [all-that](tatsarva) [empower](prabhāvayet)
+[by-transgression](vyatikrameṇa) [of-mantras](mantrāṇāṃ) [all-that](tatsarva) [should-empower](prabhāvayet)
 
 ## mukta-m0-p75-v1856
-[naivedya](naivedya) [at-placement](sthāpane) [time](kāle) [even-by-men](laṅghanepi) [thus](naraistathā)
+[naivedya](naivedya) [at-placement-time](sthāpane+kāle) [even-in-skipping](laṅghanepi) [by-men](naraistathā)
 
 ## mukta-m0-p75-v1857
-[that-substance](tadravyaṃ) [avoiding](varjayitvā) [then](tu) [afterwards](paścāt) [cooked](pakvaṃ) [offer](nivedayet)
+[that-substance](tadravyaṃ) [having-avoided](varjayitvā) [then](tu) [afterwards](paścāt) [cooked](pakvaṃ) [should-offer](nivedayet)
 
 ## mukta-m0-p75-v1858
-[jāyā?](jāyāja) [pro?](pro) [japet](japet)
+[jāyāja](jāyāja) [pro](pro) [japet](japet)
 
 ## mukta-m0-p75-v1859
-[without-bath-limbs](snapanāṅgavihīne) [and](ca) [great-plague](mahāmārī) [arises](pravartate)
+[without-bath-limbs](snapanāṅgavihīne) [ca](ca) [great-plague](mahāmārī) [arises](pravartate)
 
 ## mukta-m0-p75-v1860
-[established](sthāpitaiḥ) [pots](kalaśairbhinnaiḥ) [broken](bhinnaiḥ) [split](sphuṭite) [fallen](patite) [thus](tathā)
+[by-established](sthāpitaiḥ) [pots](kalaśairbhinnaiḥ) [broken](bhinnaiḥ) [split](sphuṭite) [fallen](patite) [thus](tathā)
 
 ## mukta-m0-p75-v1861
-[?](* * * * * * * * (?)) [well-pleased](suprasannena) [jewel?](ratnakā)
+[suprasannena](suprasannena) [ratnakā](ratnakā)
 
 ## mukta-m0-p75-v1862
-[boon-fear](varadābhayasaṃyuktā) [noose-goad](pāśāṅguśa) [bearing](dharānvitā)
+[giving-boon-fear](varadābhayasaṃyuktā) [noose-goad-bearing](pāśāṅguśa+dharānvitā)
 
 ## mukta-m0-p75-v1863
-[lotus-handed](padmahastādi) [peaceful](śāntā) [and](ca) [goddess](devī) [golden-radiance](kanakaprabhā)
+[lotus-handed-etc](padmahastādi) [peaceful](śāntā) [ca](ca) [goddess](devī) [ca](ca) [golden-radiance](kanakaprabhā)
 
 ## mukta-m0-p75-v1864
-[?](***(?)ñcāpi) [or](vā) [conch](śaṅkhaṃ) [discus](cakra) [?](ha*(?)tu) [six-armed](ṣaḍbhujā)
+[śaṅkha](śaṅkhaṃ) [cakra](cakra) [ha](ha) [six-armed](ṣaḍbhujā)
 
 ## mukta-m0-p75-v1865
-[tejas-weapon](tejorcāstra) [equipped](samāyuktā) [gods-embrace](devāliṅgana) [devoted](tatparā)
+[tejorcāstra](tejorcāstra) [equipped](samāyuktā) [deva-embrace](devāliṅgana) [intent](tatparā)
 
 ## mukta-m0-p75-v1866
-[pendant](pralambā) [?](la*(?)pā*(?)bālambitā) [surrounded](parivādakā)
+[pendant](pralambā) [la](la) [pā](pā) [bālambitā](bālambitā) [parivādakā](parivādakā)
 
 ## mukta-m0-p75-v1867
-[dark-horse?](śyāmāśvenāthavaktā) [and](ca) [for-practitioner](sādhake) [not-fall](na pātata)
+[dark-horse-faced](śyāmāśvenāthavaktā) [ca](ca) [for-practitioner](sādhake) [ca](ca) [not-fall](na+pātata)
 
 ## mukta-m0-p75-v1868
-[eight-armed](aṣṭabāhu) [equipped](samāyuktaṃ) [upward-hair](ūrdhvakeśaṃ) [own-tusk](svadaṃṣṭrakam)
+[eight-armed](aṣṭabāhu+samāyuktāṃ) [upward-hair](ūrdhvakeśaṃ) [own-fangs](svadaṃṣṭrakam)
 
 ## mukta-m0-p75-v1869
-[bells-garland](kiṅkiṇī) [mālā?](mālayeveṣṭā) [foot-anklet](pādanūpura) [joined](saṃyutam)
+[bells-garland](kiṅkiṇī+mālayeveṣṭā) [anklet-equipped](pādanūpura+saṃyutam)
 
 ## mukta-m0-p75-v1870
-[?](*) [sacred-thread](jñopavītaṃ) [and](ca) [red-flower-adorned](raktapuṣpopaśobhitam)
+[jñopavītaṃ](jñopavītaṃ) [ca](ca) [red-flower-adorned](raktapuṣpopaśobhitam)
 
 ## mukta-m0-p75-v1871
-[in-both-ears](karṇayorubhayoścaiva) [and](ca) [in-both-hands](hastayorubhayorapi)
+[in-both-ears](karṇayorubhayoścaiva) [in-both-hands](hastayorubhayorapi)
 
 ## mukta-m0-p75-v1872
-[spider-scorpion](lūtavṛścikasaṃyuktaṃ) [ear-garland](karṇamālā) [adorned](vibhūṣitam)
+[spider-scorpion-joined](lūtavṛścikasaṃyuktaṃ) [ear-garland](karṇamālā) [adorned](vibhūṣitam)
 
 ## mukta-m0-p75-v1873
-[trident](śūlaṃ) [and](ca) [vetāla](vetālaṃ) [sword](khaḍgaṃ) [and](caiva) [tu](tu) [right](dakṣiṇe)
+[trident](śūlaṃ) [ca](ca) [vetāla](vetālaṃ) [sword](khaḍgaṃ) [caiva](caiva) [tu](tu) [on-right](dakṣiṇe)
 
 ## mukta-m0-p75-v1874
-[bell](ghaṇṭā) [shield-noose](kheṭakapāśaṃ) [and](ca) [foot-anklet-situated](pādanūpurasaṃsthitam)
+[bell](ghaṇṭā) [shield-noose](kheṭakapāśaṃ) [ca](ca) [anklet-situated](pādanūpurasaṃsthitam)
 
 ## mukta-m0-p75-v1875
-[thus](evaṃ) [form-bearing](rūpadharaṃ) [god](devaṃ) [aghora-weapon-deity](aghorāstrādhi) [daivatam](daivatam)
+[thus](evaṃ) [form-bearing](rūpadharaṃ) [deva](devaṃ) [aghora-astra-deity](aghorāstrādhi+daivatam)
