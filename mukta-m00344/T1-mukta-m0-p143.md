@@ -2,16 +2,16 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p143-v3551
-[those-questions](tāneva) [questions](praśnān) [says](āha) [from-space-etc](ākāśādityādi) [she](sā) [question-form](pṛṣṭarūpā)
+[those](tān) [indeed](eva) [questions](praśnān) [says](āha) [from-space](ākāśāt) [etc](ityādi) [she](sā) [asked-form](pṛṣṭarūpā)
 
 ## mukta-m0-p143-v3552
 [shining-form](sphuradrūpā) [self-abiding](svātmasaṃsthā) [hear](śṛṇu) [you](tvaṃ) [brahma-rakshasa](brahmarākṣasa)
 
 ## mukta-m0-p143-v3553
-[all-inner](sarvāntaratvāt) [and](ca) [imperceptibility](agocaratvāt) [subtlety](sūkṣmatvam) [self-abiding](svātmasaṃsthā) [own-form](svarūpa) [indeed](eva) [established](sthitā)
+[all-inner](sarvāntaratvāt) [and](ca) [ungraspable](agocaratvāt) [subtlety](sūkṣmatvam) [self-abiding](svātmasaṃsthā) [own-form](svarūpa) [indeed](eva) [established](sthitā)
 
 ## mukta-m0-p143-v3554
-[shining](sphurattvaṃ) [what](kiṃ) [what](kim) [self](ātmā) [ca](ca) [say](vadaitannṛpanandana)
+[shining](sphurattvaṃ) [what](kiṃ) [what-self](kimātmā) [ca](ca) [say](vadaitannṛpanandana)
 
 ## mukta-m0-p143-v3555
 [spread](vitatā) [subtle](sūkṣmā) [also](api) [one](ekā) [ca](ca) [how](kathaṃ) [becomes](bhavet)
@@ -20,7 +20,7 @@
 [shining](sphurattvam) [self](ātmā) [ca](ca) [consciousness](citiḥ) [hear](śṛṇu) [you](tvaṃ) [brahma-rakshasa](brahmarākṣasa)
 
 ## mukta-m0-p143-v3557
-[consciousness-only](cinmātrameva) [na](na) [from-that](tato) [more](adhikam) [iti](iti) [purport](tātparyam)
+[consciousness-only](cinmātrameva) [not](na) [from-that](tato) [more](adhikam) [intent](iti) [tātparyam](tātparyam)
 
 ## mukta-m0-p143-v3558
 [by-perception](upalabdhyā) [ca](ca) [what](kiṃ) [vā](vā) [syāt](syād) [say](vadaitannṛpanandana)
@@ -38,34 +38,34 @@
 [birth](janir) [body-self-idea](dehātmatābuddhiḥ) [hear](śṛṇu) [you](tvaṃ) [brahma-rakshasa](brahmarākṣasa)
 
 ## mukta-m0-p143-v3563
-[object-facing](dṛśyānunmukhatvam)
+[visible-outwardness](dṛśyānunmukhatvam)
 
 ## mukta-m0-p143-v3564
-[birth](janiḥ) [how](kathaṃ) [vā](vā) [obtained](samprāptā) [say](vadaitannṛpanandana)
+[birth](janiḥ) [how](kathaṃ) [vā](vā) [samprāptā](samprāptā) [say](vadaitannṛpanandana)
 
 ## mukta-m0-p143-v3565
-[from-what-cause](kasmānnimittāt) [by-what-instrument](kena+karaṇena)
+[from-what-cause](kasmānnimittāt) [by-what-instrument](kena) [karaṇena](karaṇena)
 
 ## mukta-m0-p143-v3566
 [birth](janiḥ) [doership-ego](kartṛtvābhimānāt) [hear](śṛṇu) [you](tvaṃ) [brahma-rakshasa](brahmarākṣasa)
 
 ## mukta-m0-p143-v3567
-[by-self](ātmanā) [by-own](svenaiva) [instrument-independence](karaṇāntaranairapekṣyeṇeti)
+[by-self](ātmanā) [by-own](svenaiva) [instrument-independence](karaṇāntaranairapekṣyeṇeti) [yāvat](yāvat)
 
 ## mukta-m0-p143-v3568
-[what](ko) [vā](vā) [doership-ego](kartṛtvābhimāno) [say](vadaitannṛpanandana)
+[who](ko) [vā](vā) [doership-ego](kartṛtvābhimāno) [say](vadaitannṛpanandana)
 
 ## mukta-m0-p143-v3569
-[that-impression-ego](tadvāsanābhimānaḥ) [syāt](syāc) [hear](śṛṇu) [you](tvaṃ) [brahma-rakshasa](brahmarākṣasa)
+[that](tadvāsanābhimānaḥ) [syāt](syāc) [hear](śṛṇu) [you](tvaṃ) [brahma-rakshasa](brahmarākṣasa)
 
 ## mukta-m0-p143-v3570
 [impression](saṃskāraḥ)
 
 ## mukta-m0-p143-v3571
-[of-that](tasyā) [api](api) [what](kiṃ) [cause](kāraṇaṃ) [syāt](syād) [say](vadaitannṛpanandana)
+[of-that](tasyā) [api](api) [kiṃ](kiṃ) [kāraṇaṃ](kāraṇaṃ) [syād](syād) [say](vadaitannṛpanandana)
 
 ## mukta-m0-p143-v3572
-[of-that](tasya) [non-discrimination-destroyer](avivekanāśakasya) [of-that-cause](tasyāpi+tatkāraṇasyāpi)
+[of-that](tasya) [non-discrimination-destroyer](avivekanāśakasya) [of-that-cause](tasyāpi) [tatkāraṇasyāpi](tatkāraṇasyāpi)
 
 ## mukta-m0-p143-v3573
 [that-cause](tatkāraṇaṃ) [fault-seeing](doṣadṛṣṭiḥ) [hear](śṛṇu) [you](tvaṃ) [brahma-rakshasa](brahmarākṣasa)
@@ -74,4 +74,4 @@
 [object-fault-seeing](viṣayadoṣadṛṣṭiḥ)
 
 ## mukta-m0-p143-v3575
-[fault-seeing](doṣadṛṣṭiḥ) [ca](ca) [what](kā) [proktā](proktā) [say](vadaitannṛpanandana)
+[fault-seeing](doṣadṛṣṭiḥ) [ca](ca) [kā](kā) [proktā](proktā) [say](vadaitannṛpanandana)
