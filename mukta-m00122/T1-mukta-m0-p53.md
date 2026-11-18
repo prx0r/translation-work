@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p53-v1301
-[not](na) [ever-indeed](kadācittu) [she](sā) [said](proktā) [that](tāṃ) [to-me](me) [tell](brūhi) [O-great-lord](maheśvara)
+[not](na) [ever](kadācit) [but](tu) [she](sā) [declared](proktā) [that](tāṃ) [to-me](me) [tell](brūhi) [O-great-lord](maheśvara)
 
 ## mukta-m0-p53-v1302
-[all-pervading-form](vyāptarūpaṃ) [I-will-declare](pravakṣyāmi) [hear](śṛṇu) [you-this-wonderful](tvamidamadbhutam)
+[I-will-declare](vyāptarūpaṃ) [pervading-form](vyāpta+rūpaṃ) [listen](śṛṇu) [you](tvam) [this](idam) [wonderful](adbhutam)
 
 ## mukta-m0-p53-v1303
-[they-worship-him](bhajantyenaṃ) [as](yathā) [me](māṃ) [you](tvaṃ) [by-that-application-force-certainly](tatprayogabalāddhruvam)
+[they-worship](bhajanti) [him](enaṃ) [as](yathā) [me](māṃ) [you](tvaṃ) [by-that-practice-power](tat+prayoga+balāt) [certainly](dhruvam)
 
 ## mukta-m0-p53-v1304
-[individually](pratyekaṃ) [wrapped](puṭitān) [having-made](kṛtvā) [mantras-knowledge](mantrānvidyā) [then-also](athāpi) [and](ca)
+[separately](pratyekaṃ) [wrapped](puṭitān) [having-made](kṛtvā) [mantras](mantrān) [vidyās](vidyāḥ) [and-also](athāpi+ca)
 
 ## mukta-m0-p53-v1305
-[declared](proktaṃ) [that-yantra-ninefold](tadyantranavakaṃ) [in-pot](kumbhe) [having-established](saṃsthāpya) [by-this](caitayā)
+[declared](proktaṃ) [that](tat) [yantra-ninefold](yantra+navakaṃ) [in-pot](kumbhe) [having-established](saṃsthāpya) [with-this](caitayā)
 
 ## mukta-m0-p53-v1306
-[easy](sugamaḥ) [64](64) [65](65) [66](66) [67](67) [68](68) [69](69) [70](70) [71](71) [72](72) [73](73) [74](74) [75](75) [76](76) [77](77)
+[easy](sugamaḥ)
 
 ## mukta-m0-p53-v1307
 [easy](sugamaḥ)
 
 ## mukta-m0-p53-v1308
-[with-red-sandal-or-with-red-chalk](kucandanairgairikairvā) [with-cinnabar-and-sandalwood-thus](daradaiścandanestathā)
+[with-red-sandal-etc](kucandanair+gairikair+vā) [with-cinnabar-sandalwood-etc](daradaiś+candanestathā)
 
 ## mukta-m0-p53-v1309
-[of-nine](navānāṃ) [with-nine](navabhiḥ) [one-should-make](kuryād) [with-these-yantra-arrangement](ebhiryantraprakalpanam)
+[of-nine](navānāṃ) [with-nine](navabhiḥ) [one-should-make](kuryāt) [with-these](ebhiḥ) [yantra-arrangement](yantra+prakalpanam)
 
 ## mukta-m0-p53-v1310
-[of-protection-and-increase](rakṣottarākṣayor) [in-three-births](janmatritaye) [of-years](varṣayoḥ) [in-order](kramāt)
+[protection-north-south](rakṣottarākṣayoḥ) [birth-threefold](janma+tritaye) [of-years](varṣayoḥ) [in-order](kramāt)
 
 ## mukta-m0-p53-v1311
-[another-or-devotion-character-rich](anyovāśa(bha)ktiśīlāḍhyaḥ) [should-cause-consecration](kārayedabhiṣecanam)
+[another](anyovā) [devoted-virtuous-rich](śa(bha)kti+śīlāḍhyaḥ) [should-cause](kārayet) [consecration](abhiṣecanam)
 
 ## mukta-m0-p53-v1312
-[wealth-deceit](vittaśāṭhyaṃ) [not](na) [should-do](kurvīta) [if](yadi) [does](kurvīta) [from-greed](lobhataḥ)
+[wealth-deceit](vitta+śāṭhyaṃ) [not-do](na+kurvīta) [if](yadi) [do](kurvīta) [from-greed](lobhataḥ)
 
 ## mukta-m0-p53-v1313
-[therefore-everywhere](tasmātsarvatra) [in-this-tantra](tantre'smin) [wealth-deceit](vittaśāṭhyaṃ) [not](na) [should-think](cintayet)
+[therefore](tasmāt) [everywhere](sarvatra) [in-this-tantra](tantre+asmin) [wealth-deceit](vitta+śāṭhyaṃ) [not-consider](na+cintayet)
 
 ## mukta-m0-p53-v1314
-[by-moon-sun-fire-form](somasūryāgnirūpeṇa) [by-water-desired-mantra](jalenepsitamantrataḥ)
+[moon-sun-fire-formed](soma+sūrya+agni+rūpeṇa) [by-water](jalen) [desired](ipsita) [mantra-empowered](mantrataḥ)
 
 ## mukta-m0-p53-v1315
-[according-to-order](yathākramaṃ) [nine](nava) [and](ca) [teaches](upadiśati) [there](tatra) [by-this](etayā) [world-three-deluding-knowledge](trailokyamohanīvidyayā) [85](85)
+[in-order](yathākramaṃ) [nine](nava) [instructs](upadiśati) [there](tatra) [with-this](etayā) [trailokyamohanī-vidyā](trailokyamohanī+vidyayā)
 
 ## mukta-m0-p53-v1316
-[of-nine](navānāṃ) [yantra-arrangement](yantraprakalpanam) [thus](iti) [by-independence](svātantryāt)
+[of-nine](navānāṃ) [yantra-arrangement](yantra+prakalpanam) [thus](iti) [by-independence](svātantryāt)
 
 ## mukta-m0-p53-v1317
-[arising-from-bad-marks](durlakṣaṇasamutthāni) [and](tathā) [born-of-bad-deeds](duṣkarmajāni) [and](ca)
+[ill-omened-born](durlakṣaṇa+samutthāni) [and](tathā) [evil-deed-born](duṣkarma+jāni) [also](ca)
 
 ## mukta-m0-p53-v1318
-[destroys-instantly-goddess](nāśayettatkṣaṇāddevī) [by-waters](salilair) [like](iva) [fire](pāvakaḥ)
+[destroys](nāśayet) [instantly](tatkṣaṇāt) [goddess](devī) [by-waters](salilair+iva) [fire](pāvakaḥ)
 
 ## mukta-m0-p53-v1319
-[obtains](labhate) [and](ca) [many](bahūn) [sons](putrān) [happy](sukhī) [and](ca) [long-prospers](ciramedhate)
+[obtains](labhate) [and](ca) [many](bahūn) [sons](putrān) [happy](sukhī) [and](ca) [long-prospers](ciram+edhate)
 
 ## mukta-m0-p53-v1320
-[who-intensely](yobhṛśaṃ) [always](nityadā) [knows](vidyāt) [afflicted](kliṣṭaḥ) [he-also](so'pi) [prospers-in-splendor](śriyaidhate)
+[who](yaḥ) [intensely](bhṛśaṃ) [always](nityadā) [knows](vidyāt) [afflicted](kliṣṭaḥ) [he-too](so+api) [prospers](śriyā+edhate)
 
 ## mukta-m0-p53-v1321
-[non-eternal](anītyā) [by-enemy-done](vairivihitair) [by-black-magic-etc](abhicārādibhis) [but](tu) [or](vā)
+[non-eternal](anītyā) [by-enemy-rites](vairi+vihitaiḥ) [by-abhicāra-etc](abhicāra+ādibhiḥ+tu) [or](vā)
 
 ## mukta-m0-p53-v1322
-[by-beauty-prosperity-wealth-health-knowledge-victory-fame](kāntilakṣmīdhanārogyavidyāvijayakīrtibhiḥ)
+[beauty-lakṣmī-wealth-health-vidyā-victory-fame](kānti+lakṣmī+dhana+ārogya+vidyā+vijaya+kīrtibhiḥ)
 
 ## mukta-m0-p53-v1323
-[nine-consecration](navābhiṣekaṃ) [in-nine](navasu) [declared](prokteṣu) [by-rite](vidhinā) [practicing](caran)
+[nine-consecrations](navābhiṣekaṃ) [in-nine](navasu) [declared](prokteṣu) [by-rite](vidhinā) [performing](caran)
 
 ## mukta-m0-p53-v1324
-[liberated-while-living](jīvanmuktaś) [long](ciraṃ) [yogi](yogī) [on-earth](bhuvi) [lives](jīvati) [Manmatha](manmathaḥ)
+[liberated-while-living](jīvan+muktaḥ) [long](ciraṃ) [yogī](yogī) [on-earth](bhuvi) [lives](jīvati) [Manmatha](manmathaḥ)
 
 ## mukta-m0-p53-v1325
-[of-this](asyā) [by-non-fruition](niṣphālanāt) [in-mind](citte) [that-principle](tattatvaṃ) [made-one's-own-self](svātmasātkṛtam)
+[of-this](asyā) [by-non-fulfillment](niṣphālanāt) [in-mind](citte) [that-principle](tattatvaṃ) [made-one's-own](svātmasātkṛtam)

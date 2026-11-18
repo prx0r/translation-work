@@ -2,52 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p51-v1251
-[bull-loved](vṛṣapriyā) [she](sā) [intense-heat-removing](bhṛśatāpahā) [may-be](astu)
+[bull-loved](vṛṣapriyā) [she](sā) [fever-removing](bhṛśatāpahā) [let-be](stu)
+
 ## mukta-m0-p51-v1252
 [bull-mounted](vṛṣārūḍhā)
+
 ## mukta-m0-p51-v1253
-[bull-mounted](vṛṣārūḍhā) [auspicious](śivā) [she](sā) [me](māṃ) [bull-mounted](vṛṣārūḍhaṃ) [make](karotu) [quickly](aram)
+[bull-mounted](vṛṣārūḍhā) [auspicious](śivā) [she](sā) [me](māṃ) [bull-mounted](vṛṣārūḍhaṃ) [make-quickly](karotvaram)
+
 ## mukta-m0-p51-v1254
 [buffalo-demon-slayer](mahiṣāsuraghātinī)
+
 ## mukta-m0-p51-v1255
-[beings-all-protecting](bhūtākhilamavantī) [indeed](nu) [buffalo-demon-slayer](mahiṣāsuraghātinī)
+[all-beings-protecting](bhūtākhilamavantī) [indeed](nu) [buffalo-demon-slayer](mahiṣāsuraghātinī)
+
 ## mukta-m0-p51-v1256
 [venerable](vandanīyā) [not](na) [whose](kasya) [this](eṣā) [buffalo-demon-slayer](mahiṣāsuraghātinī)
+
 ## mukta-m0-p51-v1257
-[Sumbha-pride-remover](sumbhadarpaharā)
+[sumbha-pride-removing](sumbhadarpaharā)
+
 ## mukta-m0-p51-v1258
-[Sumbha-pride-remover](sumbhadarpaharā) [she](sā) [you](tvaṃ) [Sumbha-pride-remover](sumbhadarpaharā) [are](asi) [or](vā)
+[sumbha-pride-removing](sumbhadarpaharā) [she](sā) [you](tvaṃ) [sumbha-pride-removing](sumbhadarpaharā) [are](asi) [or](vā)
+
 ## mukta-m0-p51-v1259
-[shining](dīptā)
+[radiant](dīptā)
+
 ## mukta-m0-p51-v1260
-[shining](dīptā) [own-name-meaning-doing](svanāmārthakarī) [to-me](mamāstu)
+[radiant](dīptā) [own-name-meaning-doing](svanāmārthakarī) [to-me](mamāstu)
+
 ## mukta-m0-p51-v1261
-[blazing-fire-resembling](dīptapāvakasannibhā)
+[radiant-fire-like](dīptapāvakasannibhā)
+
 ## mukta-m0-p51-v1262
-[very-bright](suprakāśaṃ) [becomes](bhavati) [this](eṣā) [blazing-fire-resembling](dīptapāvakasannibhā)
+[very-bright](suprakāśaṃ) [becomes](bhavatyeṣā) [radiant-fire-like](dīptapāvakasannibhā)
+
 ## mukta-m0-p51-v1263
-[skull-ornament](kapālabhūṣaṇā)
+[skull-ornamented](kapālabhūṣaṇā)
+
 ## mukta-m0-p51-v1264
-[skull-ornament](kapālabhūṣaṇā) [ornament](bhūṣām) [all](aśeṣāṃ) [to-us](naḥ) [may-give](dadātu) [this](iyam)
+[skull-ornamented](kapālabhūṣaṇā) [ornament-all](bhūṣāmaśeṣāṃ) [to-us](no) [let-give](dadātviyam)
+
 ## mukta-m0-p51-v1265
-[Kali](kālī)
+[black](kālī)
+
 ## mukta-m0-p51-v1266
-[Kali](kālī) [terrible](karālaṃ) [remove](haratāt) [affliction](vikāram)
+[black](kālī) [terrible](karālaṃ) [remove](haratād) [distortion](vikāram)
+
 ## mukta-m0-p51-v1267
 [skull-garland-bearing](kapālamālabhāriṇī)
+
 ## mukta-m0-p51-v1268
-[shining](rocamānā) [strength](balāya) [may-be](astu) [skull-garland-bearing](kapālamālabhāriṇī)
+[shining](rocamānā) [for-strength](balāyāstu) [skull-garland-bearing](kapālamālabhāriṇī)
+
 ## mukta-m0-p51-v1269
-[skull-earring](kapālakuṇḍalā)
+[skull-earringed](kapālakuṇḍalā)
+
 ## mukta-m0-p51-v1270
-[may-be](bhavatu) [for-auspiciousness](śubhāya) [skull-earring](kapālakuṇḍalā) [this](iyam)
+[let-be](bhavatu) [for-auspiciousness](śubhāya) [skull-earringed-this](kapālakuṇḍaleyam)
+
 ## mukta-m0-p51-v1271
 [long](dīrghā)
+
 ## mukta-m0-p51-v1272
-[long](dīrghā) [may-give](dadātu) [renowned](prathitā) [welfare](hitā) [to-you](vaḥ)
+[long](dīrghā) [let-give](dadātu) [renowned](prathitā) [benefit](hitā) [to-you](vaḥ)
+
 ## mukta-m0-p51-v1273
 [auspicious](śivā) [messenger](dūtī)
+
 ## mukta-m0-p51-v1274
-[auspicious](śivā) [messenger](dūtī) [for-auspiciousness](śivāya) [may-be](astu) [by-Shiva-pervasion](śivavyāptyā) [well-worshipped](prapūjitā)
+[auspicious](śivā) [messenger](dūtī) [for-auspiciousness](śivāyāstu) [by-śiva-pervasion](śivavyāptyā) [fully-worshipped](prapūjitā)
+
 ## mukta-m0-p51-v1275
-[thunder-sound](ghanadhvaniḥ)
+[thick-sound](ghanadhvaniḥ)

@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p43-v1051
-[yellow](pītā) [drunk](pītā) [sipped](pītā) [imbibed](pītā)
+yellow(pītā) golden(pītā) drunk(pītā) sipped(pītā)
 
 ## mukta-m0-p43-v1052
-[sung](gītā) [yellow](pītā) [for-welfare](hitāyāstu) [mother](mātā) [brother](bhātā) [of-good](satāṃ) [in-heart](hṛdi)
+sung(gītā) yellow(pītā) welfare(hitāyāstu) mother(mātā) brother(bhātā) good(satāṃ) heart(hṛdi)
 
 ## mukta-m0-p43-v1053
-[mottled](karburā) [spotted](karburā) [variegated](karburā) [streaked](karburā)
+speckled(karburā) variegated(karburā) spotted(karburā) mottled(karburā)
 
 ## mukta-m0-p43-v1054
-[mottled](karburā) [deity](devatā) [may-she-be](bhūyād) [burden-removing](bhavabhārāpahāriṇī)
+speckled(karburā) deity(devatā) may-be(bhūyād) burden-removing(bhavabhārāpahāriṇī)
 
 ## mukta-m0-p43-v1055
-[hunger](kṣudhā) [craving](kṣudhā) [appetite](kṣudhā) [famine](kṣudhā)
+hunger(kṣudhā) famine(kṣudhā) appetite(kṣudhā) craving(kṣudhā)
 
 ## mukta-m0-p43-v1056
-[hunger](kṣudhā) [goddess](devī) [victorious](jayatyeṣā) [all-elements-seed](sarvadhātvekabījabhūḥ)
+hunger(kṣudhā) goddess(devī) conquers(jayatyeṣā) all-elements-single-seed(sarvadhātvekabījabhūḥ)
 
 ## mukta-m0-p43-v1057
-[thirst](tṛṣṇā) [craving](tṛṣṇā) [desire](tṛṣṇā) [longing](tṛṣṇā)
+thirst(tṛṣṇā) desire(tṛṣṇā) craving(tṛṣṇā) longing(tṛṣṇā)
 
 ## mukta-m0-p43-v1058
-[that](yannunno'bdhiviśoṣaikahetustṛṣṇā) [victorious](jayatyasau) [thirst](tṛṣṇā) [craving](tṛṣṇā)
+because(yannunno) ocean-drying(tṛṣṇā) cause(hetustṛṣṇā) conquers(jayatyasau)
 
 ## mukta-m0-p43-v1059
-[old-age](jarāvṛddhā) [aged](jarāvṛddhā) [senile](jarāvṛddhā) [decrepit](jarāvṛddhā)
+old-age(jarāvṛddhā) aged(jarāvṛddhā) elderly(jarāvṛddhā) senior(jarāvṛddhā)
 
 ## mukta-m0-p43-v1060
-[wonder](citraṃ) [she](sāpi) [old-age](jarāvṛddhā) [acts](kriyānmama) [old-age](jarājarām)
+wonder(citraṃ) she(sāpi) old-age(jarāvṛddhā) makes(kriyānmama) decrepit(jarājarām)
 
 ## mukta-m0-p43-v1061
-[young-woman](taruṇī) [maiden](taruṇī) [youthful](taruṇī) [fresh](taruṇī)
+young(taruṇī) youthful(taruṇī) maiden(taruṇī) fresh(taruṇī)
 
 ## mukta-m0-p43-v1062
-[of-young-woman](taruṇyāḥ) [supreme](paraṃ) [laughter-only](hāsyamātraprasādaḥ) [grace](prasādaḥ)
+of-youth(taruṇyāḥ) supreme(paraṃ) laughter(hāsyamātraprasādaḥ) grace(hāsyamātraprasādaḥ)
 
 ## mukta-m0-p43-v1063
-[compassion-abode](karuṇālayā) [mercy-seat](karuṇālayā) [pity-home](karuṇālayā) [grace-dwelling](karuṇālayā)
+compassion(karuṇālayā) abode(karuṇālayā) refuge(karuṇālayā) shelter(karuṇālayā)
 
 ## mukta-m0-p43-v1064
-[you-remove](dūrīkaroṣi) [not](yannāto) [sung](gīyase) [compassion-abode](karuṇālayā)
+you-remove(dūrīkaroṣi) not(nāto) sung(gīyase) compassion-abode(karuṇālayā)
 
 ## mukta-m0-p43-v1065
-[art](kalā) [skill](kalā) [portion](kalā) [digit](kalā)
+art(kalā) skill(kalā) digit(kalā) portion(kalā)
 
 ## mukta-m0-p43-v1066
-[all](sakalā) [not](na) [under-control](vaśe) [what](kiṃ) [would-be](syuḥ) [hand-garland](karamālātulāḥ) [arts](kalāḥ)
+all(sakalā) not(na) under(vaśe) what(kiṃ) be(syuḥ) hand-garland(karamālātulāḥ) arts(kalāḥ)
 
 ## mukta-m0-p43-v1067
-[wood-piece](kāṣṭhā) [limit](kāṣṭhā) [standard](kāṣṭhā) [direction](kāṣṭhā)
+wood(kāṣṭhā) limit(kāṣṭhā) end(kāṣṭhā) goal(kāṣṭhā)
 
 ## mukta-m0-p43-v1068
-[may-perish](naśyet) [in-moment](kṣaṇena) [of-devotees](bhaktānāṃ) [wood-piece](kāṣṭhā) [of-her](etyasyāḥ) [grace](prasādataḥ)
+perish(naśyet) moment(kṣaṇena) devotees(bhaktānāṃ) wood(kāṣṭhetyasyāḥ) grace(prasādataḥ)
 
 ## mukta-m0-p43-v1069
-[moment](muhūrtā) [instant](muhūrtā) [short-time](muhūrtā) [auspicious-time](muhūrtā)
+moment(muhūrtā) instant(muhūrtā) time(muhūrtā) period(muhūrtā)
 
 ## mukta-m0-p43-v1070
-[own-form](svarūpaṃ) [renowned](prathitā) [on-earth](bhūmau) [moments](muhūrtāstu) [for-welfare](śivāya) [to-you](vaḥ)
+form(svarūpaṃ) renowned(prathitā) earth(bhūmau) moments(muhūrtāstu) auspicious(śivāya) you(vaḥ)
 
 ## mukta-m0-p43-v1071
-[blink](nimeṣā) [wink](nimeṣā) [moment](nimeṣā) [instant](nimeṣā)
+blink(nimeṣā) wink(nimeṣā) instant(nimeṣā) moment(nimeṣā)
 
 ## mukta-m0-p43-v1072
-[blinks](nimeṣāstu) [supreme-lady](pareśānī) [all-distinct](viśeṣāśeṣa) [bestower](bhūtidā)
+blinks(nimeṣāstu) supreme(pareśānī) all-remainders(viśeṣāśeṣabhūtidā) giver(viśeṣāśeṣabhūtidā)
 
 ## mukta-m0-p43-v1073
-[time-formed](kālarūpiṇī) [time-shaped](kālarūpiṇī) [time-embodied](kālarūpiṇī) [time-manifest](kālarūpiṇī)
+time-form(kālarūpiṇī) time-shaped(kālarūpiṇī) temporal(kālarūpiṇī) personified(kālarūpiṇī)
 
 ## mukta-m0-p43-v1074
-[planet-sign](graharāśibhacakrakānumeyā) [renowned](prathitā) [indeed](sā) [she](kila) [time-formed](kālarūpiṇīti)
+planet-sign-wheel(graharāśibhacakrakānumeyā) renowned(prathitā) she(sā) indeed(kila) time-form(kālarūpiṇīti)
 
 ## mukta-m0-p43-v1075
-[good-ear](sukarṇarasanā) [pleasant-ear](sukarṇarasanā) [sweet-ear](sukarṇarasanā) [fine-ear](sukarṇarasanā)
+good-ear(sukarṇarasanā) sweet-voiced(sukarṇarasanā) pleasant-eared(sukarṇarasanā) melodious(sukarṇarasanā)

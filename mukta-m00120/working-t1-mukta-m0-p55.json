@@ -8,7 +8,7 @@
 "tokens": [
 {
 "surface": "liṅga",
-"quick_gloss": "liṅga"
+"quick_gloss": "linga"
 },
 {
 "surface": "kṣālita",
@@ -16,7 +16,7 @@
 },
 {
 "surface": "toyena",
-"quick_gloss": "with-water"
+"quick_gloss": "water"
 },
 {
 "surface": "prakṣiped",
@@ -28,7 +28,7 @@
 },
 {
 "surface": "bindubhiḥ",
-"quick_gloss": "with-drops"
+"quick_gloss": "drops"
 }
 ]
 },
@@ -61,7 +61,7 @@
 },
 {
 "surface": "mudrayā",
-"quick_gloss": "with-seal"
+"quick_gloss": "seal"
 }
 ]
 },
@@ -74,31 +74,31 @@
 "tokens": [
 {
 "surface": "guroḥ",
-"quick_gloss": "of-guru"
+"quick_gloss": "guru"
 },
 {
 "surface": "pātrād",
-"quick_gloss": "from-vessel"
+"quick_gloss": "vessel"
 },
 {
 "surface": "deva",
-"quick_gloss": "of-deity"
+"quick_gloss": "god"
 },
 {
 "surface": "pātrād",
-"quick_gloss": "from-vessel"
+"quick_gloss": "vessel"
 },
 {
 "surface": "ātma",
-"quick_gloss": "of-self"
+"quick_gloss": "self"
 },
 {
-"surface": "pātrāt",
-"quick_gloss": "from-vessel"
+"surface": "pātrān",
+"quick_gloss": "vessel"
 },
 {
 "surface": "maheśvari",
-"quick_gloss": "O-great-lady"
+"quick_gloss": "great-goddess"
 }
 ]
 },
@@ -111,7 +111,7 @@
 "tokens": [
 {
 "surface": "tattoyaiḥ",
-"quick_gloss": "with-that-water"
+"quick_gloss": "that-water"
 },
 {
 "surface": "kardamaṃ",
@@ -119,11 +119,11 @@
 },
 {
 "surface": "kṛtvā",
-"quick_gloss": "having-made"
+"quick_gloss": "making"
 },
 {
 "surface": "lalāṭe",
-"quick_gloss": "on-forehead"
+"quick_gloss": "forehead"
 },
 {
 "surface": "tilakaṃ",
@@ -143,12 +143,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "śakti+pātrāt",
-"quick_gloss": "from-śakti-vessel"
+"surface": "śakti",
+"quick_gloss": "power"
+},
+{
+"surface": "pātrāt",
+"quick_gloss": "vessel"
 },
 {
 "surface": "pātramātrāt",
-"quick_gloss": "from-vessel-measure"
+"quick_gloss": "vessel-measure"
 },
 {
 "surface": "toyaṃ",
@@ -160,7 +164,7 @@
 },
 {
 "surface": "mahītale",
-"quick_gloss": "on-earth"
+"quick_gloss": "earth"
 }
 ]
 },
@@ -181,15 +185,19 @@
 },
 {
 "surface": "svamūrddhādi",
-"quick_gloss": "from-own-crown"
+"quick_gloss": "own-head"
 },
 {
 "surface": "binduñca",
-"quick_gloss": "drop-and"
+"quick_gloss": "drop"
 },
 {
-"surface": "tattva+mudrayā",
-"quick_gloss": "with-truth-seal"
+"surface": "tattva",
+"quick_gloss": "truth"
+},
+{
+"surface": "mudrayā",
+"quick_gloss": "seal"
 }
 ]
 },
@@ -222,7 +230,7 @@
 },
 {
 "surface": "śakra",
-"quick_gloss": "Indra"
+"quick_gloss": "indra"
 },
 {
 "surface": "samo",
@@ -246,12 +254,8 @@
 "quick_gloss": "remaining"
 },
 {
-"surface": "jalaiḥ",
-"quick_gloss": "with-waters"
-},
-{
-"surface": "devi",
-"quick_gloss": "O-goddess"
+"surface": "jalairdevi",
+"quick_gloss": "waters"
 },
 {
 "surface": "kardame",
@@ -276,11 +280,11 @@
 "tokens": [
 {
 "surface": "cakrānte",
-"quick_gloss": "at-end-of-circle"
+"quick_gloss": "circle-end"
 },
 {
 "surface": "parameśāni",
-"quick_gloss": "O-supreme-lady"
+"quick_gloss": "supreme-goddess"
 },
 {
 "surface": "śānti",
@@ -291,12 +295,12 @@
 "quick_gloss": "hymn"
 },
 {
-"surface": "paṭhet",
+"surface": "paṭhen",
 "quick_gloss": "recite"
 },
 {
 "surface": "mudā",
-"quick_gloss": "with-joy"
+"quick_gloss": "joy"
 }
 ]
 },
@@ -313,7 +317,7 @@
 },
 {
 "surface": "ānandamayīṃ",
-"quick_gloss": "blissful"
+"quick_gloss": "bliss-filled"
 },
 {
 "surface": "smarāi",
@@ -330,7 +334,7 @@
 "tokens": [
 {
 "surface": "māheśvarāṇāṃ",
-"quick_gloss": "of-Maheśvaras"
+"quick_gloss": "of-great-lords"
 },
 {
 "surface": "divasāḥ",
@@ -350,16 +354,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "dine+dine",
-"quick_gloss": "day-by-day"
+"surface": "dine",
+"quick_gloss": "day"
+},
+{
+"surface": "dine",
+"quick_gloss": "day"
 },
 {
 "surface": "sādhaka",
-"quick_gloss": "practitioner"
+"quick_gloss": "adept"
 },
 {
 "surface": "saṅgamastu",
-"quick_gloss": "association"
+"quick_gloss": "meeting"
 }
 ]
 },
@@ -384,7 +392,7 @@
 },
 {
 "surface": "vrajāmaḥ",
-"quick_gloss": "we-go"
+"quick_gloss": "go"
 }
 ]
 },
@@ -400,16 +408,12 @@
 "quick_gloss": "that-day"
 },
 {
-"surface": "durdinam",
+"surface": "durdinameva",
 "quick_gloss": "bad-day"
 },
 {
-"surface": "eva",
-"quick_gloss": "indeed"
-},
-{
 "surface": "manye",
-"quick_gloss": "I-think"
+"quick_gloss": "think"
 }
 ]
 },
@@ -422,7 +426,7 @@
 "tokens": [
 {
 "surface": "tatkṣaṇena",
-"quick_gloss": "at-that-moment"
+"quick_gloss": "that-moment"
 }
 ]
 },
@@ -435,7 +439,7 @@
 "tokens": [
 {
 "surface": "prayānti",
-"quick_gloss": "they-go"
+"quick_gloss": "pass"
 }
 ]
 },
@@ -451,12 +455,8 @@
 "quick_gloss": "thus"
 },
 {
-"surface": "nāśam",
+"surface": "nāśamupaiti",
 "quick_gloss": "destruction"
-},
-{
-"surface": "upaiti",
-"quick_gloss": "obtains"
 },
 {
 "surface": "śīghram",
@@ -477,7 +477,7 @@
 },
 {
 "surface": "kaulika",
-"quick_gloss": "Kaula"
+"quick_gloss": "kaulika"
 },
 {
 "surface": "cakravartti",
@@ -493,8 +493,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "yadbhairavo'haṃ",
-"quick_gloss": "because-Bhairava-I"
+"surface": "yadbhairavo",
+"quick_gloss": "as-bhairava"
+},
+{
+"surface": "ahaṃ",
+"quick_gloss": "i"
 },
 {
 "surface": "jananīṃ",
@@ -514,16 +518,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "bhramanti",
+"surface": "bhramantyanāsvādita",
 "quick_gloss": "wander"
 },
 {
-"surface": "anāsvādita",
-"quick_gloss": "untasted"
+"surface": "kaula",
+"quick_gloss": "kaula"
 },
 {
-"surface": "kaula+mārgāḥ",
-"quick_gloss": "Kaula-path"
+"surface": "mārgāḥ",
+"quick_gloss": "path"
 }
 ]
 },
@@ -543,8 +547,12 @@
 "quick_gloss": "drinking"
 },
 {
-"surface": "vayamācarāmaḥ",
-"quick_gloss": "we-practice"
+"surface": "vayam",
+"quick_gloss": "we"
+},
+{
+"surface": "ācarāmaḥ",
+"quick_gloss": "practice"
 }
 ]
 },
@@ -557,7 +565,7 @@
 "tokens": [
 {
 "surface": "śrīsundarī",
-"quick_gloss": "Śrī-Sundarī"
+"quick_gloss": "beautiful-goddess"
 },
 {
 "surface": "cintanameva",
@@ -586,7 +594,7 @@
 },
 {
 "surface": "kaulamārgaḥ",
-"quick_gloss": "Kaula-path"
+"quick_gloss": "kaula-path"
 }
 ]
 },
@@ -599,11 +607,11 @@
 "tokens": [
 {
 "surface": "śrīsundarīṃ",
-"quick_gloss": "Śrī-Sundarī"
+"quick_gloss": "beautiful-goddess"
 },
 {
 "surface": "cetasi",
-"quick_gloss": "in-mind"
+"quick_gloss": "mind"
 },
 {
 "surface": "vismarāmi",

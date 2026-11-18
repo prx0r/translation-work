@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p53-v1301
-[gloss](p.) [gloss](171)) [gloss](mūlādhārā) [gloss](pada)
+[root](mūla)+[support](ādhārā)
 
 ## mukta-m0-p53-v1302
-[gloss](mūlādhārādhārabhūtā) [gloss](mamāstu) [gloss](pada) [gloss](pada)
+[root-support](mūlādhārā)+[support-born](ādhārabhūtā)+[to-me](mama)+[may-it-be](astu)
 
 ## mukta-m0-p53-v1303
-[gloss](nirākārā) [gloss](pada) [gloss](pada) [gloss](pada)
+[formless](nirākārā)
 
 ## mukta-m0-p53-v1304
-[gloss](ato) [gloss](gītākhilākārā) [gloss](nirākāreti) [gloss](sūribhiḥ)
+[therefore](ato)+[song-all-form](gītākhilākārā)+[formless-thus](nirākāreti)+[by-sages](sūribhiḥ)
 
 ## mukta-m0-p53-v1305
-[gloss](vahnikuṇḍakṛtālayā) [gloss](pada) [gloss](pada) [gloss](pada)
+[fire-pit-made-abode](vahnikuṇḍakṛtālayā)
 
 ## mukta-m0-p53-v1306
-[gloss](jvālāmālābhireṣā) [gloss](tvaṃ) [gloss](vahnikuṇḍakṛtālayā) [gloss](pada)
+[flame-garlanded](jvālāmālābhiḥ)+[this](eṣā)+[you](tvaṃ)+[fire-pit-made-abode](vahnikuṇḍakṛtālayā)
 
 ## mukta-m0-p53-v1307
-[gloss](vāyukuṇḍasukhāsīnā) [gloss](pada) [gloss](pada) [gloss](pada)
+[wind-pit-comfort-seated](vāyukuṇḍasukhāsīnā)
 
 ## mukta-m0-p53-v1308
-[gloss](vāyukuṇḍasukhāsīnā) [gloss](yasmāt) [gloss](tvaṃ) [gloss](dīnavatsalā)
+[wind-pit-comfort-seated](vāyukuṇḍasukhāsīnā)+[because](yasmāt)+[you](tvaṃ)+[poor-compassionate](dīnavatsalā)
 
 ## mukta-m0-p53-v1309
-[gloss](nirādhārā) [gloss](pada) [gloss](pada) [gloss](pada)
+[supportless](nirādhārā)
 
 ## mukta-m0-p53-v1310
-[gloss](nirādhārā) [gloss](kārāṃ) [gloss](haratu) [gloss](mama) [gloss](saṃsāravisarām)
+[supportless](nirādhārā)+[prison](kārāṃ)+[may-remove](haratu)+[my](mama)+[world-wandering](saṃsāravisarām)
 
 ## mukta-m0-p53-v1311
-[gloss](p.) [gloss](172)) [gloss](nirāśrayā) [gloss](pada)
+[refugeless](nirāśrayā)
 
 ## mukta-m0-p53-v1312
-[gloss](sadāśayalayasthānā) [gloss](sā) [gloss](dvidhāsti) [gloss](nirāśrayā)
+[always-intent-absorbed-place](sadāśayalayasthānā)+[she](sā)+[twofold-is](dvidhāsti)+[refugeless](nirāśrayā)
 
 ## mukta-m0-p53-v1313
-[gloss](śvāsocchvāsagatiḥ) [gloss](pada) [gloss](pada) [gloss](pada)
+[breath-in-out-motion](śvāsocchvāsagatiḥ)
 
 ## mukta-m0-p53-v1314
-[gloss](bhūyāt) [gloss](satāṃ) [gloss](sammatā) [gloss](pada)
+[may-be](bhūyāt)+[of-good](satāṃ)+[approved](sammatā)
 
 ## mukta-m0-p53-v1315
-[gloss](jīvā) [gloss](pada) [gloss](pada) [gloss](pada)
+[living](jīvā)
 
 ## mukta-m0-p53-v1316
-[gloss](rmāṃ) [gloss](jīvayatviyamajīvatayeha) [gloss](jīvā) [gloss](pada)
+[me](māṃ)+[may-enliven](jīvayatu)+[this](iyam)+[non-living-here](ajīvatayeha)+[living](jīvā)
 
 ## mukta-m0-p53-v1317
-[gloss](p.) [gloss](173)) [gloss](grāhiṇī) [gloss](pada)
+[grasping](grāhiṇī)
 
 ## mukta-m0-p53-v1318
-[gloss](grāhiṇī) [gloss](sā) [gloss](sadā) [gloss](bhūyād) [gloss](grahāgrahagrahārtihṛt)
+[grasping](grāhiṇī)+[she](sā)+[always](sadā)+[may-be](bhūyād)+[planet-grasp-grasp-pain-removing](grahāgrahagrahārtihṛt)
 
 ## mukta-m0-p53-v1319
-[gloss](vahnisaṃśrayā) [gloss](pada) [gloss](pada) [gloss](pada)
+[fire-refuge](vahnisaṃśrayā)
 
 ## mukta-m0-p53-v1320
-[gloss](āsanatvaṃ) [gloss](gato) [gloss](yasyāḥ) [gloss](saṃśrayaḥ) [gloss](sa) [gloss](ca) [gloss](tāṃ) [gloss](numaḥ)
+[seat-ness](āsanatvaṃ)+[gone](gato)+[whose](yasyāḥ)+[refuge](saṃśrayaḥ)+[he](sa)+[and](ca)+[her](tāṃ)+[we-bow](numaḥ)
 
 ## mukta-m0-p53-v1321
-[gloss](vahnitantusamutthānā) [gloss](pada) [gloss](pada) [gloss](pada)
+[fire-thread-risen](vahnitantusamutthānā)
 
 ## mukta-m0-p53-v1322
-[gloss](vahnitantusamutthānā) [gloss](kīdṛśī) [gloss](citramīśvarī) [gloss](pada)
+[fire-thread-risen](vahnitantusamutthānā)+[what-like](kīdṛśī)+[wonderful-goddess](citramīśvarī)
 
 ## mukta-m0-p53-v1323
-[gloss](ṣaḍrasāsvādalolupā) [gloss](pada) [gloss](pada) [gloss](pada)
+[six-taste-enjoyment-eager](ṣaḍrasāsvādalolupā)
 
 ## mukta-m0-p53-v1324
-[gloss](martyalokapriyā) [gloss](devī) [gloss](ṣaḍrasāsvādalolupā) [gloss](pada)
+[mortal-world-dear](martyalokapriyā)+[goddess](devī)+[six-taste-enjoyment-eager](ṣaḍrasāsvādalolupā)
 
 ## mukta-m0-p53-v1325
-[gloss](tapasvinī) [gloss](pada) [gloss](pada) [gloss](pada)
+[ascetic](tapasvinī)

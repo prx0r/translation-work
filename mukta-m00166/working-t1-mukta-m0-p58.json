@@ -13,6 +13,14 @@
 {
 "surface": "vṛṣṭiḥ",
 "quick_gloss": "rain"
+},
+{
+"surface": "suvṛṣṭiḥ",
+"quick_gloss": "good-rain"
+},
+{
+"surface": "suvṛṣṭiḥ",
+"quick_gloss": "blessing"
 }
 ]
 },
@@ -25,11 +33,11 @@
 "tokens": [
 {
 "surface": "puṣṭi",
-"quick_gloss": "nourishment"
+"quick_gloss": "prosperity"
 },
 {
 "surface": "eka",
-"quick_gloss": "sole"
+"quick_gloss": "one"
 },
 {
 "surface": "hetuḥ",
@@ -37,11 +45,11 @@
 },
 {
 "surface": "su",
-"quick_gloss": "well"
+"quick_gloss": "good"
 },
 {
-"surface": "vikāsi",
-"quick_gloss": "expanded"
+"surface": "vikāsa",
+"quick_gloss": "bloom"
 },
 {
 "surface": "dṛṣṭeḥ",
@@ -57,12 +65,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "hetoḥ",
+"surface": "hetor",
 "quick_gloss": "cause"
 },
 {
-"surface": "durgā",
-"quick_gloss": "durgā"
+"surface": "durga",
+"quick_gloss": "difficult"
 },
 {
 "surface": "kalā",
@@ -108,6 +116,14 @@
 {
 "surface": "bhaktiḥ",
 "quick_gloss": "devotion"
+},
+{
+"surface": "navamī-bhaktiḥ",
+"quick_gloss": "ninth-devotion"
+},
+{
+"surface": "bhaktiḥ",
+"quick_gloss": "grace"
 }
 ]
 },
@@ -125,6 +141,14 @@
 {
 "surface": "varddhinī",
 "quick_gloss": "increasing"
+},
+{
+"surface": "sasyavarddhinī",
+"quick_gloss": "grain-increasing"
+},
+{
+"surface": "sasyavarddhinī",
+"quick_gloss": "abundance"
 }
 ]
 },
@@ -141,11 +165,7 @@
 },
 {
 "surface": "tvaṃ",
-"quick_gloss": "ness"
-},
-{
-"surface": "yad",
-"quick_gloss": "which"
+"quick_gloss": "state"
 },
 {
 "surface": "dayā",
@@ -164,12 +184,8 @@
 "quick_gloss": "goddess"
 },
 {
-"surface": "sasya",
-"quick_gloss": "grain"
-},
-{
-"surface": "varddhinī",
-"quick_gloss": "increasing"
+"surface": "sasyavarddhinī",
+"quick_gloss": "grain-increasing"
 }
 ]
 },
@@ -181,12 +197,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "a",
+"surface": "akāra",
 "quick_gloss": "a"
 },
 {
-"surface": "kārā",
-"quick_gloss": "letter"
+"surface": "akāra",
+"quick_gloss": "letter-a"
+},
+{
+"surface": "akāra",
+"quick_gloss": "first-sound"
+},
+{
+"surface": "akāra",
+"quick_gloss": "origin"
 }
 ]
 },
@@ -206,27 +230,23 @@
 "quick_gloss": "not-small"
 },
 {
-"surface": "sarva",
-"quick_gloss": "all"
-},
-{
-"surface": "varṇa",
-"quick_gloss": "letter"
+"surface": "sarvavarṇa",
+"quick_gloss": "all-letters"
 },
 {
 "surface": "eka",
-"quick_gloss": "one"
-},
-{
-"surface": "pūrvā",
 "quick_gloss": "first"
 },
 {
-"surface": "sākārā",
+"surface": "pūrvā",
+"quick_gloss": "prior"
+},
+{
+"surface": "sākāra",
 "quick_gloss": "with-form"
 },
 {
-"surface": "iyam",
+"surface": "iyaṃ",
 "quick_gloss": "this"
 },
 {
@@ -234,12 +254,8 @@
 "quick_gloss": "sung"
 },
 {
-"surface": "yogin",
-"quick_gloss": "yogin"
-},
-{
-"surface": "nāthaiḥ",
-"quick_gloss": "lords"
+"surface": "yogināthaiḥ",
+"quick_gloss": "yoga-lords"
 }
 ]
 },
@@ -251,12 +267,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "i",
+"surface": "ikāra",
 "quick_gloss": "i"
 },
 {
-"surface": "kārā",
-"quick_gloss": "letter"
+"surface": "ikāra",
+"quick_gloss": "letter-i"
+},
+{
+"surface": "ikāra",
+"quick_gloss": "sound-i"
+},
+{
+"surface": "ikāra",
+"quick_gloss": "vowel"
 }
 ]
 },
@@ -268,28 +292,24 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "ramyā",
+"surface": "ramya",
 "quick_gloss": "lovely"
 },
 {
-"surface": "ikārā",
+"surface": "ikāra",
 "quick_gloss": "i-letter"
 },
 {
-"surface": "sā",
+"surface": "seyam",
 "quick_gloss": "she"
 },
 {
-"surface": "iyam",
-"quick_gloss": "this"
+"surface": "ākārahīnā",
+"quick_gloss": "a-less"
 },
 {
-"surface": "ākāra",
-"quick_gloss": "a-letter"
-},
-{
-"surface": "hīnā",
-"quick_gloss": "without"
+"surface": "ākārahīnā",
+"quick_gloss": "formless"
 }
 ]
 },
@@ -301,12 +321,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "u",
+"surface": "ukāra",
 "quick_gloss": "u"
 },
 {
-"surface": "kārā",
-"quick_gloss": "letter"
+"surface": "ukāra",
+"quick_gloss": "letter-u"
+},
+{
+"surface": "ukāra",
+"quick_gloss": "sound-u"
+},
+{
+"surface": "ukāra",
+"quick_gloss": "vowel"
 }
 ]
 },
@@ -318,20 +346,24 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "sokārā",
-"quick_gloss": "with-u"
+"surface": "sokāra",
+"quick_gloss": "that-u"
 },
 {
-"surface": "iyam",
+"surface": "iyaṃ",
 "quick_gloss": "this"
 },
 {
 "surface": "kīrtitā",
-"quick_gloss": "praised"
+"quick_gloss": "proclaimed"
 },
 {
 "surface": "mūrtavidbhiḥ",
 "quick_gloss": "form-knowers"
+},
+{
+"surface": "ukāra",
+"quick_gloss": "u-form"
 }
 ]
 },
@@ -343,16 +375,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "ai",
-"quick_gloss": "ai"
+"surface": "aikārarūpiṇī",
+"quick_gloss": "ai-form"
 },
 {
-"surface": "kāra",
-"quick_gloss": "letter"
+"surface": "aikāra",
+"quick_gloss": "ai-letter"
 },
 {
 "surface": "rūpiṇī",
 "quick_gloss": "form"
+},
+{
+"surface": "aikārarūpiṇī",
+"quick_gloss": "goddess"
 }
 ]
 },
@@ -373,19 +409,15 @@
 },
 {
 "surface": "subhavyānāṃ",
-"quick_gloss": "well-auspicious"
+"quick_gloss": "auspicious"
 },
 {
-"surface": "devatā",
+"surface": "devata",
 "quick_gloss": "deity"
 },
 {
-"surface": "aikāra",
-"quick_gloss": "ai-letter"
-},
-{
-"surface": "rūpiṇī",
-"quick_gloss": "form"
+"surface": "aikārarūpiṇī",
+"quick_gloss": "ai-form"
 }
 ]
 },
@@ -397,12 +429,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "hrīṃ",
+"surface": "hrīṃkārī",
 "quick_gloss": "hrīṃ"
 },
 {
 "surface": "kārī",
-"quick_gloss": "letter"
+"quick_gloss": "sound"
+},
+{
+"surface": "hrīṃkārī",
+"quick_gloss": "hrīṃ-form"
+},
+{
+"surface": "hrīṃkārī",
+"quick_gloss": "mantra"
 }
 ]
 },
@@ -415,10 +455,10 @@
 "tokens": [
 {
 "surface": "hrīṃkārī",
-"quick_gloss": "hrīṃ-letter"
+"quick_gloss": "hrīṃ-form"
 },
 {
-"surface": "iyam",
+"surface": "iyaṃ",
 "quick_gloss": "this"
 },
 {
@@ -438,7 +478,7 @@
 "quick_gloss": "always"
 },
 {
-"surface": "astu",
+"surface": "stu",
 "quick_gloss": "be"
 }
 ]
@@ -457,6 +497,14 @@
 {
 "surface": "rūpā",
 "quick_gloss": "form"
+},
+{
+"surface": "bījarūpā",
+"quick_gloss": "seed-form"
+},
+{
+"surface": "bījarūpā",
+"quick_gloss": "essence"
 }
 ]
 },
@@ -472,12 +520,8 @@
 "quick_gloss": "she"
 },
 {
-"surface": "bīja",
-"quick_gloss": "seed"
-},
-{
-"surface": "rūpā",
-"quick_gloss": "form"
+"surface": "bījarūpā",
+"quick_gloss": "seed-form"
 },
 {
 "surface": "nigama",
@@ -486,6 +530,10 @@
 {
 "surface": "drumasya",
 "quick_gloss": "tree"
+},
+{
+"surface": "bījarūpā",
+"quick_gloss": "root"
 }
 ]
 },
@@ -497,12 +545,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "klīṃ",
+"surface": "klīṃkāra",
 "quick_gloss": "klīṃ"
 },
 {
-"surface": "kārā",
-"quick_gloss": "letter"
+"surface": "kāra",
+"quick_gloss": "sound"
+},
+{
+"surface": "klīṃkāra",
+"quick_gloss": "klīṃ-form"
+},
+{
+"surface": "klīṃkāra",
+"quick_gloss": "mantra"
 }
 ]
 },
@@ -515,7 +571,7 @@
 "tokens": [
 {
 "surface": "nityaṃ",
-"quick_gloss": "always"
+"quick_gloss": "eternal"
 },
 {
 "surface": "kāmāt",
@@ -553,6 +609,14 @@
 {
 "surface": "vāsinī",
 "quick_gloss": "dwelling"
+},
+{
+"surface": "ambaravāsinī",
+"quick_gloss": "sky-dwelling"
+},
+{
+"surface": "ambaravāsinī",
+"quick_gloss": "goddess"
 }
 ]
 },
@@ -569,23 +633,19 @@
 },
 {
 "surface": "nirviṣayā",
-"quick_gloss": "objectless"
+"quick_gloss": "without-object"
 },
 {
 "surface": "jāne",
-"quick_gloss": "I-know"
+"quick_gloss": "know"
 },
 {
 "surface": "saṃvṛttā",
 "quick_gloss": "become"
 },
 {
-"surface": "ambara",
-"quick_gloss": "sky"
-},
-{
-"surface": "vāsinī",
-"quick_gloss": "dwelling"
+"surface": "ambaravāsinī",
+"quick_gloss": "sky-dwelling"
 }
 ]
 },
@@ -597,12 +657,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "sarva",
-"quick_gloss": "all"
-},
-{
-"surface": "akṣara",
-"quick_gloss": "letter"
+"surface": "sarvākṣara",
+"quick_gloss": "all-letters"
 },
 {
 "surface": "mayī",
@@ -611,6 +667,10 @@
 {
 "surface": "śaktiḥ",
 "quick_gloss": "power"
+},
+{
+"surface": "sarvākṣaramayī-śaktiḥ",
+"quick_gloss": "all-letter-power"
 }
 ]
 },
@@ -622,12 +682,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "sarva",
-"quick_gloss": "all"
-},
-{
-"surface": "akṣara",
-"quick_gloss": "letter"
+"surface": "sarvākṣara",
+"quick_gloss": "all-letters"
 },
 {
 "surface": "mayī",
@@ -659,8 +715,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "akṣarā",
+"surface": "akṣara",
 "quick_gloss": "letter"
+},
+{
+"surface": "akṣara",
+"quick_gloss": "imperishable"
+},
+{
+"surface": "akṣara",
+"quick_gloss": "sound"
+},
+{
+"surface": "akṣara",
+"quick_gloss": "syllable"
 }
 ]
 }
