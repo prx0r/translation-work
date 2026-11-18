@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p90-v2226
-[damara-lord](ḍāmareśo) [odd-eyed](virūpākṣo) [world-enjoyer](viśvabhoktā) [fire](vibhāvasuḥ)
+[ḍāmara-īśaḥ](ḍāmareśo) [vi-rūpa-akṣaḥ](virūpākṣo) [viśva-bhoktā](viśvabhoktā) [vi-bhā-vasuḥ](vibhāvasuḥ)
 
 ## mukta-m0-p90-v2227
-[guide](vinetā) [humble](vinayī) [speaker](vādī) [vomiter](vāntado) [speech-born](vāgbhavo) [youth](vaṭuḥ)
+[vi-netā](vinetā) [vinaya-ī](vinayī) [vāda-ī](vādī) [vānta-daḥ](vāntado) [vāc-bhavaḥ](vāgbhavo) [vaṭu](vaṭuḥ)
 
 ## mukta-m0-p90-v2228
-[enemy-of-viradha](virādheyo) [dispassionate](virāgīno) [playful](vilāsī) [dance-desiring](lāsyalālasaḥ)
+[vi-rādheyaḥ](virādheyo) [vi-rāgī](virāgīno) [vi-lāsī](vilāsī) [lāsya-lālasaḥ](lāsyalālasaḥ)
 
 ## mukta-m0-p90-v2229
-[wealthy](dhanī) [meditable](dhyeyo) [unmeditable](adhyeyaḥ) [righteous](dharmyo) [dharma-filled](dharmamayo) [compassion](dayaḥ)
+[dhana-ī](dhanī) [dhyeyaḥ](dhyeyo) [adhyeyaḥ](adhyeyaśca) [dharma-ya](dharmyo) [dharma-mayaḥ](dharmamayo) [dayā](dayaḥ)
 
 ## mukta-m0-p90-v2230
-[dulic-eye](ḍulicakṣuḥ) [cave-dweller](darīvāso) [hypocrite](dambhī) [god-filled-self](devamayātmakaḥ)
+[ḍuli-cakṣuḥ](ḍulicakṣurdarīvāso) [darī-vāsaḥ](ḍulicakṣurdarīvāso) [dambha-ī](dambhī) [deva-maya-ātmakaḥ](devamayātmakaḥ)
 
 ## mukta-m0-p90-v2231
-[saturn](śanaiścaro) [swift-moving](vegagatiḥ) [talkative](vācālo) [rahu](rāhuḥ) [imperishable](avyayaḥ)
+[śanaiḥ-caraḥ](śanaiścaro) [vega-gatiḥ](vegagati) [vāc-ālaḥ](vācālo) [rāhu](rāhuravyayaḥ) [a-vyayaḥ](rāhuravyayaḥ)
 
 ## mukta-m0-p90-v2232
-[bhara-form-bearer](bhargarūpabhṛt)
+[bharga-rūpa-bhṛt](bhargarūpabhṛt)
 
 ## mukta-m0-p90-v2233
-[ganesha-dear](gajānanapriyo) [sung](gīto) [singer](gānī) [bath-worship-dear](snānārcanapriyaḥ)
+[gajānana-priyaḥ](gajānanapriyo) [gītaḥ](gīto) [gāna-ī](gānī) [snāna-arcana-priyaḥ](snānārcanapriyaḥ)
 
 ## mukta-m0-p90-v2234
-[supreme-self](parātmako) [virat-garment](virāḍvāso) [monkey](vānaraḥ) [boundless-actor](amitakarmakṛt)
+[para-ātmakaḥ](parātmako) [virāṭ-vāsaḥ](virāḍvāso) [vānara](vānaro) [amita-karma-kṛt](amitakarmakṛt)
 
 ## mukta-m0-p90-v2235
-[nandishvara](nandīśvaro) [leader](nayo) [serpent](nāgo) [serpent-ornamented](nāgālaṅkāramaṇḍitaḥ)
+[nandī-īśvaraḥ](nandīśvaro) [nayaḥ](nayo) [nāgaḥ](nāgo) [nāga-alaṅkāra-maṇḍitaḥ](nāgālaṅkāramaṇḍitaḥ)
 
 ## mukta-m0-p90-v2236
-[three-eyed](trilocanaḥ) [three-world-lord](trilokeśaḥ) [three-formed](trimūrtiḥ) [tripura-destroyer](tripurāntakaḥ)
+[tri-locanaḥ](trilocanastrilokeśastrimūrtistripurāntakaḥ) [tri-loka-īśaḥ](trilocanastrilokeśastrimūrtistripurāntakaḥ) [tri-mūrtiḥ](trilocanastrilokeśastrimūrtistripurāntakaḥ) [tripura-antakaḥ](trilocanastrilokeśastrimūrtistripurāntakaḥ)
 
 ## mukta-m0-p90-v2237
-[addicted](vyasanī) [pleased](toṣitaḥ) [shambhu](śambhuḥ) [three-stream-form](tridhārūpaḥ) [three-varna-bearing](trivarṇabhāk)
+[vyasana-ī](vyasanī) [toṣitaḥ](toṣitaḥ) [śambhuḥ](śambhustridhārūpastrivarṇabhāk) [tridhā-rūpaḥ](śambhustridhārūpastrivarṇabhāk) [tri-varṇa-bhāk](śambhustridhārūpastrivarṇabhāk)
 
 ## mukta-m0-p90-v2238
-[three-guna](tridhāguṇī) [world-maker](viśvakartā) [world-sustainer](viśvabhartā) [supreme-person](adhipūruṣaḥ)
+[tridhā-guṇī](tridhāguṇī) [viśva-kartā](viśvakartā) [viśva-bhartā](viśvabhartā) [adhi-pūruṣaḥ](adhipūruṣaḥ)
 
 ## mukta-m0-p90-v2239
-[discrimination-eyed](vivekākṣo) [wide-eyed](viśālākṣo) [non-rule](avidhiḥ) [rule](vidhiḥ) [unsurpassed](anuttamaḥ)
+[viveka-akṣaḥ](vivekākṣo) [viśāla-akṣaḥ](viśālākṣo) [a-vidhiḥ](avidhirvidhiranuttamaḥ) [vidhiḥ](avidhirvidhiranuttamaḥ) [an-uttamaḥ](avidhirvidhiranuttamaḥ)
 
 ## mukta-m0-p90-v2240
-[remembering](smṛtimān) [memory-giver](smṛtidaḥ) [smarta](smārto) [brahma](brahmā) [best-of-knowers](brahmavidāṃ varaḥ)
+[smṛti-mān](smṛtimān) [smṛti-daḥ](smṛtidaḥ) [smārtaḥ](smārto) [brahmā](brahmā) [brahma-vidām](brahmavidāṃ) [varaḥ](varaḥ)
 
 ## mukta-m0-p90-v2241
-[moving-immovable](calācalaḥ) [immovable-moving](acalagatiḥ) [swift](vegī) [hero-lord](vīrādhipo) [best](varaḥ)
+[cala-acalaḥ](calācalo) [acala-gatiḥ](acalagatirvegī) [vegī](acalagatirvegī) [vīra-adhipaḥ](vīrādhipo) [varaḥ](varaḥ)
 
 ## mukta-m0-p90-v2242
-[all-pervading](sarvavyāpī) [all-formed](sarvarūpaḥ) [ocean](sāgaraḥ) [same-lord](sameśvaraḥ)
+[sarva-vyāpī](sarvavyāpī) [sarva-rūpaḥ](sarvarūpaḥ) [sāgaraḥ](sāgaraśca) [sama-īśvaraḥ](sameśvaraḥ)
 
 ## mukta-m0-p90-v2243
-[wealthy](sarasvān) [truth-speaking](satyavāk) [truth](satyaḥ) [truth-formed](satyarūpaḥ) [good-minded](sudhīḥ) [happy](sukhī)
+[saras-vān](sarasvān) [satya-vāk](satyavāk) [satyaḥ](satyaḥ) [satya-rūpaḥ](satyarūpaḥ) [su-dhīḥ](sudhīḥ) [sukhī](sukhī)
 
 ## mukta-m0-p90-v2244
-[wealthy](vasumān) [earth-lord](vasudhānāthaḥ) [wealth-formed](vasurūpo) [wealth-giver](vasupradaḥ)
+[vasu-mān](vasumān) [vasudhā-nāthaḥ](vasudhānātho) [vasu-rūpaḥ](vasurūpo) [vasu-pradaḥ](vasupradaḥ)
 
 ## mukta-m0-p90-v2245
-[lord](īśaḥ) [remainder](avaśeṣaḥ) [limbed](avayavī) [shesha-reclining](śeṣaśāyī) [wealth-lord](śriyaḥ patiḥ)
+[īśaḥ](īśo) [ava-śeṣaḥ](avaśeṣo) [avayavī](avayavī) [śeṣa-śāyī](śeṣaśāyī) [śriyaḥ](śriyaḥ) [patiḥ](patiḥ)
 
 ## mukta-m0-p90-v2246
-[steady](sthiraḥ) [pillar](sthāṇuḥ) [atom](aṇuḥ) [fat](pīnaḥ) [broad-chested](pīnavakṣāḥ) [beyond-beyond](parātparaḥ)
+[sthiraḥ](sthiraḥ) [sthāṇuḥ](sthāṇuraṇuḥ) [aṇuḥ](sthāṇuraṇuḥ) [pīnaḥ](pīnaḥ) [pīna-vakṣas](pīnavakṣāḥ) [para-atparaḥ](parātparaḥ)
 
 ## mukta-m0-p90-v2247
-[beast-formed](paśurūpaḥ) [beast-lord](paśupatiḥ) [beast-knower](paśujñānī) [milk-ocean](payonidhiḥ)
+[paśu-rūpaḥ](paśurūpaḥ) [paśu-patiḥ](paśupatiḥ) [paśu-jñānī](paśujñānī) [payas-nidhiḥ](payonidhiḥ)
 
 ## mukta-m0-p90-v2248
-[trident-bearer](śūlī) [auspicious-maker](śubhaṅkaraḥ) [splendid](śobhyaḥ) [good-doer](śubhakartā) [shachi-lord](śacīpatiḥ)
+[śūla-ī](śūlī) [śubha-karaḥ](śubhaṅkaraḥ) [śobhyaḥ](śobhyaḥ) [śubha-kartā](śubhakartā) [śacī-patiḥ](śacīpatiḥ)
 
 ## mukta-m0-p90-v2249
-[four-armed](caturbhujaḥ) [eight-armed](aṣṭabhujaḥ) [thousand-armed-ornamented](sahasrabhujamaṇḍitaḥ)
+[catur-bhujaḥ](caturbhujaścāṣṭabhujaḥ) [aṣṭa-bhujaḥ](caturbhujaścāṣṭabhujaḥ) [sahasra-bhuja-maṇḍitaḥ](sahasrabhujamaṇḍitaḥ)
 
 ## mukta-m0-p90-v2250
-[god](devo) [great-ocean](mahodadhiḥ) [divine](divyo) [divine-fame](divyakīrtiḥ) [sun](divākaraḥ)
+[devaḥ](devo) [mahā-udadhiḥ](mahodadhirdivyo) [divyaḥ](mahodadhirdivyo) [divya-kīrtiḥ](divyakīrtirdivākaraḥ) [divā-karaḥ](divyakīrtirdivākaraḥ)

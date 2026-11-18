@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p69-v1701
-[dvādaśāntaikavasatirdvādaśātmā](dvādaśāntaikavasatirdvādaśātmā) [divaspatiḥ](divaspatiḥ)
+[twelve-end-one-abode](dvādaśāntaikavasatiḥ) [twelve-self](dvādaśātmā) [day-lord](divaspatiḥ)
 
 ## mukta-m0-p69-v1702
-[durdhyeyo](durdhyeyo) [duṣṭavaṃśaghno](duṣṭavaṃśaghno) [dayānātho](dayānātho) [dayākulaḥ](dayākulaḥ)
+[hard-to-meditate](durdhyeyaḥ) [evil-lineage-destroyer](duṣṭavaṃśaghnaḥ) [compassion-lord](dayānāthaḥ) [compassion-abode](dayākulaḥ)
 
 ## mukta-m0-p69-v1703
-[dharmabandhur](dharmabandhur) [dharmabandhur](dharmabandhur) [dharmarājo](dharmarājo) [dhanapradaḥ](dhanapradaḥ)
+[dharma-friend](dharmabandhuḥ) [dharma-treasure](dharmanidhiḥ) [dharma-king](dharmarājaḥ) [wealth-giver](dhanapradaḥ)
 
 ## mukta-m0-p69-v1704
-[dhūrjaṭīkṣaṇavāsī](dhūrjaṭīkṣaṇavāsī) [ca](ca) [dharmakṣetro](dharmakṣetro) [dharādhipaḥ](dharādhipaḥ)
+[dhūrjaṭi-eye-dweller](dhūrjaṭīkṣaṇavāsī) [dharma-field](dharmakṣetraḥ) [earth-lord](dharādhipaḥ)
 
 ## mukta-m0-p69-v1705
-[dharābhṛdvallabho](dharābhṛdvallabho) [dharmī](dharmī) [dhakārākṣarabhūṣaṇaḥ](dhakārākṣarabhūṣaṇaḥ)
+[earth-bearer](dharābhṛt) [beloved](vallabhaḥ) [righteous](dharmī) [dha-letter-ornament](dhakārākṣarabhūṣaṇaḥ)
 
 ## mukta-m0-p69-v1706
-[nalinīvallabho](nalinīvallabho) [nunno](nunno) [nāṭyakṛnnāṭyavardhanaḥ](nāṭyakṛnnāṭyavardhanaḥ)
+[lotus-beloved](nalinīvallabhaḥ) [impelled](nunnaḥ) [dance-maker](nāṭyakṛt) [dance-increaser](nāṭyavardhanaḥ)
 
 ## mukta-m0-p69-v1707
-[namonto](namonto) [namitārātirnaranārāyaṇāśrayaḥ](namitārātirnaranārāyaṇāśrayaḥ)
+[bowing](namantaḥ) [enemy-subduer](namitārātiḥ) [nara-nārāyaṇa-refuge](naranārāyaṇāśrayaḥ)
 
 ## mukta-m0-p69-v1708
-[nādarūpo](nādarūpo) [nādamayo](nādamayo) [nādabindusvarūpakaḥ](nādabindusvarūpakaḥ)
+[sound-form](nādarūpaḥ) [sound-full](nādamayaḥ) [sound-bindu-form](nādabindusvarūpakaḥ)
 
 ## mukta-m0-p69-v1709
-[nākasthito'nekavapurnakārākṣaramātṛkaḥ](nākasthito'nekavapurnakārākṣaramātṛkaḥ)
+[heaven-dweller](nākasthitaḥ) [many-bodied](anekavapuḥ) [na-letter-mother](nakārākṣaramātṛkaḥ)
 
 ## mukta-m0-p69-v1710
-[prītipriyaḥ](prītipriyaḥ) [premakaraḥ](premakaraḥ) [praṇatārtibhayāpahaḥ](praṇatārtibhayāpahaḥ)
+[love-dear](prītipriyaḥ) [love-maker](premakaraḥ) [surrendered-suffering-fear-remover](praṇatārtibhayāpahaḥ)
 
 ## mukta-m0-p69-v1711
-[pūrṇānandamayaḥ](pūrṇānandamayaḥ) [pūrṇatejāḥ](pūrṇatejāḥ) [pūrṇeśvarīśvaraḥ](pūrṇeśvarīśvaraḥ)
+[full-bliss-full](pūrṇānandamayaḥ) [full-radiance](pūrṇatejāḥ) [full-lord-of-lords](pūrṇeśvarīśvaraḥ)
 
 ## mukta-m0-p69-v1712
-[parameśavapuḥ](parameśavapuḥ) [prāṃśuḥ](prāṃśuḥ) [pramattaḥ](pramattaḥ) [praṇateṣṭadaḥ](praṇateṣṭadaḥ)
+[supreme-lord-body](parameśavapuḥ) [tall](prāṃśuḥ) [intoxicated](pramattaḥ) [surrendered-desired-giver](praṇateṣṭadaḥ)
 
 ## mukta-m0-p69-v1713
-[pācanaḥ](pācanaḥ) [piculaḥ](piculaḥ) [pluṣṭaḥ](pluṣṭaḥ) [pramadājanasaukhyadaḥ](pramadājanasaukhyadaḥ)
+[cooker](pācanaḥ) [sticky](piculaḥ) [burnt](pluṣṭaḥ) [women-happiness-giver](pramadājanasaukhyadaḥ)
 
 ## mukta-m0-p69-v1714
-[phalaṃ](phalaṃ) [bhogāpavargasya](bhogāpavargasya) [phalinīśaḥ](phalinīśaḥ) [phalātmakaḥ](phalātmakaḥ)
+[fruit-of-enjoyment-liberation](phalaṃ+bhogāpavargasya) [fruit-tree-lord](phalinīśaḥ) [fruit-natured](phalātmakaḥ)
 
 ## mukta-m0-p69-v1715
-[bālo](bālo) [balapriyo](balapriyo) [bānto](bānto) [biladhvāntaharo](biladhvāntaharo) [balī](balī)
+[child](bālaḥ) [strength-dear](balapriyaḥ) [emitted](bāntaḥ) [darkness-remover](biladhvāntaharaḥ) [strong](balī)
 
 ## mukta-m0-p69-v1716
-[budho](budho) [bṛhaspatirvṛkṣo](bṛhaspatirvṛkṣo) [bṛhadaśvo](bṛhadaśvo) [bṛhadgatiḥ](bṛhadgatiḥ)
+[wise](budhaḥ) [bṛhaspati](bṛhaspatiḥ) [tree](vṛkṣaḥ) [great-horse](bṛhadaśvaḥ) [great-course](bṛhadgatiḥ)
 
 ## mukta-m0-p69-v1717
-[bhago](bhago) [bhṛgurbhṛgusthāyī](bhṛgurbhṛgusthāyī) [bhārgavaḥ](bhārgavaḥ) [kaviśekharaḥ](kaviśekharaḥ)
+[bhaga](bhagaḥ) [bhṛgu](bhṛguḥ) [bhṛgu-dweller](bhṛgusthāyī) [bhārgava](bhārgavaḥ) [poet-chief](kaviśekharaḥ)
 
 ## mukta-m0-p69-v1718
-[mahākālo](mahākālo) [mahādhyakṣo](mahādhyakṣo) [mahānādo](mahānādo) [mahāmatiḥ](mahāmatiḥ)
+[great-time](mahākālaḥ) [great-superintendent](mahādhyakṣaḥ) [great-sound](mahānādaḥ) [great-mind](mahāmatiḥ)
 
 ## mukta-m0-p69-v1719
-[mānado](mānado) [mallahā](mallahā) [mallo](mallo) [merumandaramandiraḥ](merumandaramandiraḥ)
+[honor-giver](mānadaḥ) [wrestler-killer](mallahā) [wrestler](mallaḥ) [meru-mandara-abode](merumandaramandiraḥ)
 
 ## mukta-m0-p69-v1720
-[modito](modito) [madirāhāro](madirāhāro) [mārtaṇḍo](mārtaṇḍo) [muṇḍamuṇḍitaḥ](muṇḍamuṇḍitaḥ)
+[delighted](moditaḥ) [wine-consumer](madirāhāraḥ) [sun](mārtaṇḍaḥ) [shaved-head](muṇḍamuṇḍitaḥ)
 
 ## mukta-m0-p69-v1721
-[madālaso'marastutyo](madālaso'marastutyo) [murārivarado](murārivarado) [manuḥ](manuḥ)
+[delicate](madālasaḥ) [god-praised](amarastutyaḥ) [murāri-boon-giver](murārivaradaḥ) [manu](manuḥ)
 
 ## mukta-m0-p69-v1722
-[mālyavān](mālyavān) [medhano](medhano) [māro](māro) [medhāvī](medhāvī) [musalāyudhaḥ](musalāyudhaḥ)
+[garlanded](mālyavān) [medha](medhanaḥ) [kāma](māraḥ) [wise](medhāvī) [mace-armed](musalāyudhaḥ)
 
 ## mukta-m0-p69-v1723
-[madano](madano) [modakāhāro](modakāhāro) [makārākṣaramātṛkaḥ](makārākṣaramātṛkaḥ)
+[kāma](madanaḥ) [sweet-food-consumer](modakāhāraḥ) [ma-letter-mother](makārākṣaramātṛkaḥ)
 
 ## mukta-m0-p69-v1724
-[yātriko](yātriko) [yajñaphalado](yajñaphalado) [yāyī](yāyī) [yāmalanāyakaḥ](yāmalanāyakaḥ)
+[pilgrim](yātrikaḥ) [sacrifice-fruit-giver](yajñaphaladaḥ) [goer](yāyī) [yāmala-leader](yāmalanāyakaḥ)
 
 ## mukta-m0-p69-v1725
-[yaṣṭidhārī](yaṣṭidhārī) [ca](ca) [yantreśo](yantreśo) [yonimaṇḍalamadhyagaḥ](yonimaṇḍalamadhyagaḥ)
+[staff-holder](yaṣṭidhārī) [yantra-lord](yantreśaḥ) [yonimaṇḍala-middle-dweller](yonimaṇḍalamadhyagaḥ)
