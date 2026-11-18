@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p17-v401
-[tasya-api](tasyāpi) [devi](devi) [saṃskāraṃ](saṃskāraṃ) [bruve](bruve) [bāhyam](bāhyam) [athāṃtaram](athāṃtaram)
+of-her(tasyā) also(api) O-goddess(devi) consecration(saṃskāraṃ) I-speak(bruve) external(bāhyam) now(atha) internal(āṃtaram)
 
 ## mukta-m0-p17-v402
-[dūtikā](dūtikā) [jīvanātha](jīvanātha) [api](api) [saṃskāraṃ](saṃskāraṃ) [parama-arhati](paramarhati)
+messenger-woman(dūtikā) life+lord+also(jīvanāthopi) consecration(saṃskāraṃ) supreme(param) deserves(arhati)
 
 ## mukta-m0-p17-v403
-[yat](yadasaṃge'pi) [asaṃge](asaṃge) [api](api) [jīva-ākhye](jīvākhye) [śive](śive) [khelati](khelati) [nirbhayā](nirbhayā)
+because(yad) in-unattached+also(asaṃge'pi) life+named(jīvākhye) in-Śiva(śive) plays(khelati) fearless(nirbhayā)
 
 ## mukta-m0-p17-v404
-[sva-jīva-ākhya](svajīvākhya) [maheśasya](maheśasya) [bādya](bādya) [vidyā-akuṃṭhitaḥ](vidyāvakuṃṭhitaḥ)
+own+life+named(svajīvākhya) of-great-lord(maheśasya) external(bādya) [kh:-nādya]([kh: nādya]) knowledge+veiled(vidyāvakuṃṭhitaḥ)
 
 ## mukta-m0-p17-v405
-[mala-apanodikāḥ](malāpanodikāḥ) [kiṃtu](kiṃtu) [samastāḥ](samastāḥ) [pūjana-kramāḥ](pūjanakramāḥ)
+impurity+removing(malāpanodikāḥ) but(kiṃtu) all(samastāḥ) worship+procedures(pūjanakramāḥ)
 
 ## mukta-m0-p17-v406
-[tat](tat) [saṃsarga-vaśāt](saṃsargavaśācchuddha) [śuddha](śuddha) [sva-ātmā](svātmā) [api](api) [malinī](malinī) [bhavet](bhavet)
+that(tat) contact+by-force-of(saṃsargavaśāc) pure(chuddha) own+self+even(svātmāpi) impure(malinī) may-become(bhavet)
 
 ## mukta-m0-p17-v407
-[samaya-śravaṇaṃ](samayaśravaṇaṃ) [tasyāḥ](tasyāḥ) [prathamaṃ](prathamaṃ) [parikīrtitam](parikīrtitam)
+vow+hearing(samayaśravaṇaṃ) of-her(tasyāḥ) first(prathamaṃ) declared(parikīrtitam)
 
 ## mukta-m0-p17-v408
-[alpa-varṇena](alpavarṇena) [maṃtreṇa](maṃtreṇa) [pāśa-nirdahakāriṇā](pāśanirdahakāriṇā)
+few+syllabled(alpavarṇena) [kh:-vargeṇa]([kh: -vargeṇa]) with-mantra(maṃtreṇa) bond+burning+causing(pāśanirdahakāriṇā) [kh:-rīṇī]([kh: -rīṇī])
 
 ## mukta-m0-p17-v409
-[na](na) [rāgāt](rāgānna) [na](na) [ca](ca) [lobhāt](lobhādvā) [na](na) [ca](ca) [mohāt](mohānmahīyasaḥ) [mahīyasaḥ](mahīyasaḥ)
+not(na) from-passion(rāgān) not(na) and(ca) from-greed(lobhād) or(vā) not(na) and(ca) from-delusion(mohān) of-great-one(mahīyasaḥ) [kh:-mahiyyasaḥ]([kh: -mahiyyasaḥ])
 
 ## mukta-m0-p17-v410
-[prakṛtyā](prakṛtyāmugdhamanasastriyastatvaṃ) [mugdha-manasaḥ](mugdhamanasastriyastatvaṃ) [striyaḥ](striyaḥ) [tatvaṃ](tatvaṃ) [na](na) [jānate](jānate)
+by-nature(prakṛtyā) deluded+minded(mugdhamanasas) women(triyas) truth(tatvaṃ) not(na) know(jānate)
 
 ## mukta-m0-p17-v411
-[śayāḥ](śayāḥ)
+lying-down(śayāḥ]) fragment(śayāḥ]) fragment(śayāḥ]) fragment(śayāḥ])
 
 ## mukta-m0-p17-v412
-[stanottaṃbhana](stanottaṃbhana) [dṛṣṭena](dṛṣṭena) [yauvanena](yauvanena) [madoddhatāḥ](madoddhatāḥ)
+breast+swelling(stanottaṃbhana) by-seen(dṛṣṭena) by-youth(yauvanena) intoxication+elated(madoddhatāḥ)
 
 ## mukta-m0-p17-v413
-[aviśvāsaḥ](aviśvāsaḥ) [samasteṣu](samasteṣu) [pratyayaḥ](pratyayona) [na](na) [guroḥ](gurorgiri) [giri](giri)
+distrust(aviśvāsaḥ) in-all(samasteṣu) confidence(pratyayo) not(na) of-guru(guror) O-mountain-born(giri)
 
 ## mukta-m0-p17-v414
-[manyamānāḥ](manyamānādurācārāḥ) [durācārāḥ](durācārāḥ) [pataṃti](pataṃtinarake) [narake](narake) [striyaḥ](striyaḥ)
+considering(manyamānā) evil-conducted(durācārāḥ) fall(pataṃti) in-hell(narake) women(striyaḥ)
 
 ## mukta-m0-p17-v415
-[tāṃbūlam](tāṃbūlamanulepaṃ) [anulepaṃ](anulepaṃ) [ca](ca) [vāsaḥ](vāsaśca) [ca](ca) [mukhavāsikā](mukhavāsikā)
+betel(tāṃbūlam) unguent(anulepaṃ) and(ca) garment(vāsaś) and(ca) mouth+fragrance(mukhavāsikā)
 
 ## mukta-m0-p17-v416
-[sarvam](sarvametan) [etan](etan) [maheśasya](maheśasya) [pūjā-sādhanitaṃ](pūjāsādhanitaṃ) [yathā](yathā)
+all(sarvam) this(etan) of-great-lord(maheśasya) worship+instrument(pūjāsādhanitaṃ) as(yathā)
 
 ## mukta-m0-p17-v417
-[asmad-vapuḥ](asmadvapuridaṃ) [idaṃ](idaṃ) [tucchaṃ](tucchaṃ) [pūjā-sādhanituṃ](pūjāsādhanituṃ) [budhaiḥ](budhaiḥ)
+our+body(asmadvapur) this(idaṃ) insignificant(tucchaṃ) for-worship+accomplishing(pūjāsādhanituṃ) by-wise(budhaiḥ)
 
 ## mukta-m0-p17-v418
-[sāla-bheduttamāt](sālabheduttamāllo/kān) [lokān](lokān) [sādhakena](sādhakena) [mahātmanā](mahātmanā)
+hall+breaking+highest(sālabheduttamāllo) worlds(/kān) [kh:-mānlokān]([kh: -mānlokān]) by-practitioner(sādhakena) great+souled(mahātmanā)
 
 ## mukta-m0-p17-v419
-[viṣṇu-loke](viṣṇuloke) [rudra-loke](rudraloke) [krīḍaṃti](krīḍaṃti) [bahu-vibhramāḥ](bahuvibhramāḥ)
+Viṣṇu+in-world(viṣṇuloke) Rudra+in-world(rudraloke) they-sport(krīḍaṃti) many+delights(bahuvibhramāḥ)
 
 ## mukta-m0-p17-v420
-[ityādibhiḥ](ityādibhiryūkti) [yūkti](yūkti) [yuktaiḥ](yuktaiḥ) [vacanaiḥ](vaca) [śāstra-sammitaiḥ](śāstrasammitaiḥ)
+thus+beginning-with(ityādibhir) reasoning+endowed(yūkti) with-endowed(yuktair) with-words(vaca) with(naiḥ) scripture+approved(śāstrasammitaiḥ)
 
 ## mukta-m0-p17-v421
-[ānaṃda-bhairavīṃ](ānaṃdabhairavīṃ) [ca](ca) [api](api) [maṃtreṇa](maṃtreṇābāhya) [abāhya](abāhya) [sādhakaḥ](sādhakaḥ)
+bliss+Bhairavī(ānaṃdabhairavīṃ) and(cā) also(pi) with-mantra(maṃtreṇā) having-invoked(bāhya) practitioner(sādhakaḥ) [kh:-kāḥ]([kh: -kāḥ])
 
 ## mukta-m0-p17-v422
-[tryaśre](tryaśre) [sthitāḥ](sthitāḥ) [punaḥ](punaḥ) [pūjyāḥ](pūjyā) [rati](rati) [prīti-manobhavāḥ](prītimanobhavāḥ)
+three+in-corner(tryaśre) situated(sthitāḥ) again(punaḥ) to-be-worshipped(pūjyā) Rati(rati) Prīti(prīti) Manobhava(manobhavāḥ)
 
 ## mukta-m0-p17-v423
-[drāviṇī](drāviṇī) [śoṣiṇī](śoṣiṇī) [ca](ca) [evaṃ](evaṃ) [baṃdhinī](baṃdhinī) [mohinī](mohinī) [tathā](tathā)
+Drāviṇī(drāviṇī) Śoṣiṇī(śoṣiṇī) and(ca) thus(evaṃ) [kh:caiva]([kh: caiva]) Bandhinī(baṃdhinī) Mohinī(mohinī) likewise(tathā)
 
 ## mukta-m0-p17-v424
-[paṃcārasyāṃ](paṃcārasyāṃ) [cale](cale) [pūjyāḥ](pūjyāḥ) [kāmarājo-maheśvarī](kāmarājomaheśvarī)
+five+in-spoke(paṃcārasyāṃ) in-moving(cale) to-be-worshipped(pūjyāḥ) Kāmarāja(kāmarājo) Maheśvarī(maheśvarī) [kh:-maleśvarī]([kh: -maleśvarī])
 
 ## mukta-m0-p17-v425
-[manobhavaḥ](manobhavaḥ) [paṃcamaḥ](paṃcamaśca) [ca](ca) [jagat-kṣobhakarāḥ](jagatkṣobhakarā) [ime](ime)
+Manobhava(manobhavaḥ) fifth(paṃcamaś) and(ca) world+agitation+causing(jagatkṣobhakarā) these(ime)
