@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p153-v3801
-[golden-both-bodied](kāñcanobhatanuḥ) [direction](kāṣṭhā) [leprosy-disease-destroying](kuṣṭharogavināśinī)
+[golden](kāñcana) [both](ubha) [body](tanuḥ) [direction](kāṣṭhā) [leprosy](kuṣṭha) [disease](roga) [destroying](vināśinī)
 
 ## mukta-m0-p153-v3802
-[skin-garmented](carmāmbarā) [cruel-nailed](krūranakhā) [partridge-eyed](cakorākṣī) [four-armed](caturbhujā)
+[skin](carmā) [garment](ambarā) [cruel](krūra) [nail](nakhā) [cakora](cakora) [eye](akṣī) [four](catur) [armed](bhujā)
 
 ## mukta-m0-p153-v3803
-[cosmic-moving](brahmāṇḍacāriṇī) [manifestation](sphūrtiḥ) [brahmāṇī](brahmāṇī) [brahma-approved](brahmasaṃmatā)
+[cosmic-egg](brahmāṇḍa) [moving](cāriṇī) [manifestation](sphūrtiḥ) [brahmāṇī](brahmāṇī) [brahma](brahma) [approved](saṃmatā)
 
 ## mukta-m0-p153-v3804
-[wish-tree-creeper](kalpavallī) [thin-limbed](kṛṣāṅgī) [wish-tree-dwelling](kalpapādapavāsinī)
+[wish-tree](kalpa) [creeper](vallī) [thin](kṛṣa) [limbed](aṅgī) [and](ca) [wish-tree](kalpa) [foot-tree](pādapa) [dwelling](vāsinī)
 
 ## mukta-m0-p153-v3805
-[being-queen](bhūtirājñī) [universe-queen](viśvarājñī) [world-queen](lokarājñī) [shiva-refuge](śivāśrayā)
+[prosperity](bhūti) [queen](rājñī) [universe](viśva) [queen](rājñī) [world](loka) [queen](rājñī) [śiva](śiva) [refuge](āśrayā)
 
 ## mukta-m0-p153-v3806
-[serpent-queen](nāgarājñī) [lineage-queen](vaṃśarājñī) [hero-queen](vīrarājñī) [dust-loving](rajaḥpriyā)
+[serpent](nāga) [queen](rājñī) [lineage](vaṃśa) [queen](rājñī) [hero](vīra) [queen](rājñī) [dust](rajaḥ) [dear](priyā)
 
 ## mukta-m0-p153-v3807
-[wealth-queen](vasurājñī) [truth-queen](satyarājñī) [austerity-queen](taporājñī) [mantra-loving](japapriyā)
+[wealth](vasu) [queen](rājñī) [truth](satya) [queen](rājñī) [austerity](tapas) [queen](rājñī) [japa](japa) [dear](priyā)
 
 ## mukta-m0-p153-v3808
-[compassion-doing](dayākarā)
+[compassion](dayā) [maker](karā)
 
 ## mukta-m0-p153-v3809
-[earth-queen](pṛthvīrājñī) [water-queen](payorājñī) [wind-queen](vāyurājñī) [delicate](madālasā)
+[earth](pṛthvī) [queen](rājñī) [water](payas) [queen](rājñī) [wind](vāyu) [queen](rājñī) [madālasā](madālasā)
 
 ## mukta-m0-p153-v3810
-[truth-queen](tathyarājñī) [victory-queen](jayārājñī) [great-queen](mahārājñī) [family-formed](kulākṛtiḥ)
+[true](tathya) [queen](rājñī) [victory](jaya) [queen](rājñī) [great](mahā) [queen](rājñī) [family](kula) [form](ākṛtiḥ)
 
 ## mukta-m0-p153-v3811
-[supreme-queen](parārājñī) [yaksha-queen](yakṣarājñī) [being-queen](bhūtarājñī) [shiva-seated](śivāsanā)
+[supreme](parā) [queen](rājñī) [yakṣa](yakṣa) [queen](rājñī) [being](bhūta) [queen](rājñī) [śiva](śiva) [seat](āsanā)
 
 ## mukta-m0-p153-v3812
-[sky-queen](ākāśarājñī) [king-lady](rājeśī) [king-of-kings](rājarājñī) [love-pleasing](ratipriyā)
+[sky](ākāśa) [queen](rājñī) [king](rāja) [mistress](īśī) [king](rāja) [queen](rājñī) [love](rati) [dear](priyā)
 
 ## mukta-m0-p153-v3813
-[perfected-queen](siddharājñī) [radiance-queen](vibhārājñī) [splendor-queen](tejorājñī) [shining](vibhāmayī)
+[accomplished](siddha) [queen](rājñī) [radiance](vibhā) [queen](rājñī) [splendor](tejas) [queen](rājñī) [shining](vibhāmayī)
 
 ## mukta-m0-p153-v3814
-[planet-queen](graharājñī) [creeper-queen](latārājñī) [tree-queen](vṛkṣarājñī) [wisdom-giving](matipradā)
+[planet](graha) [queen](rājñī) [creeper](latā) [queen](rājñī) [tree](vṛkṣa) [queen](rājñī) [wisdom](mati) [giving](pradā)
 
 ## mukta-m0-p153-v3815
-[sage-queen](munirājñī) [jewel-queen](ratnarājñī) [age-queen](yugarājñī) [gem-radiant](maṇiprabhā)
+[sage](muni) [queen](rājñī) [jewel](ratna) [queen](rājñī) [age](yuga) [queen](rājñī) [gem](maṇi) [splendor](prabhā)
 
 ## mukta-m0-p153-v3816
-[point-queen](bindurājñī) [sound-queen](nādarājñī) [self-queen](ātmarājñī) [good-goal](sadgatiḥ)
+[drop](bindu) [queen](rājñī) [sound](nāda) [queen](rājñī) [self](ātma) [queen](rājñī) [and](ca) [good](sat) [going](gatiḥ)
 
 ## mukta-m0-p153-v3817
-[ishana-queen](īśānarājñī) [king-lady](rājeśī) [svaha-queen](svāhārājñī) [greater](mahattarā)
+[īśāna](īśāna) [queen](rājñī) [king](rāja) [mistress](īśī) [svāhā](svāhā) [queen](rājñī) [greater](mahattarā)
 
 ## mukta-m0-p153-v3818
-[world-queen](jagadrājñī) [essence-queen](tattvarājñī) [speech-queen](vāgrājñī) [universe-formed](viśvarūpiṇī)
+[world](jagat) [queen](rājñī) [essence](tattva) [queen](rājñī) [speech](vāc) [queen](rājñī) [universe](viśva) [formed](rūpiṇī)
 
 ## mukta-m0-p153-v3819
-[thus-this](itīdaṃ) [mantra-essence](mantrasarvasvaṃ) [queen-thousand-names](rājñīnāmasahasrakam)
+[thus](iti) [this](idaṃ) [mantra](mantra) [essence](sarvasvaṃ) [queen](rājñī) [name](nāma) [thousand](sahasrakam)
 
 ## mukta-m0-p153-v3820
-[all-essence-filled](sarvatattvamayaṃ) [holy](puṇyaṃ) [great-sin-destroying](mahāpātakanāśanam)
+[all](sarva) [essence](tattva) [full](mayaṃ) [holy](puṇyaṃ) [great](mahā) [sin](pātaka) [destroying](nāśanam)
 
 ## mukta-m0-p153-v3821
-[all-calamity-pacifying](sarvotpātapraśamanaṃ) [planet-peace-making](grahaśāntikaraṃ) [supreme](param)
+[all](sarva) [calamity](utpāta) [pacifying](praśamanaṃ) [planet](graha) [peace](śānti) [making](karaṃ) [supreme](param)
 
 ## mukta-m0-p153-v3822
-[all-sorrow-flood-pacifying](sarvaduḥkhaughaśamanaṃ) [all-grief-destroying](sarvaśokavināśanam)
+[all](sarva) [sorrow](duḥkha) [flood](ogha) [pacifying](śamanaṃ) [all](sarva) [grief](śoka) [destroying](vināśanam)
 
 ## mukta-m0-p153-v3823
-[far-away](dūrādeva) [flee](palāyante) [misfortunes](vipadaḥ) [enemy-fears](śatrubhītayaḥ)
+[far](dūrāt) [indeed](eva) [flee](palāyante) [misfortunes](vipadaḥ) [enemy](śatru) [fears](bhītayaḥ)
 
 ## mukta-m0-p153-v3824
-[by-recitation](paṭhanād) [flee-quickly](vidravantyāśu) [great-time-et-cetera](mahākālādiva) [creatures](prajāḥ)
+[recitation](paṭhanāt) [scatter](vidravanti) [quickly](āśu) [great](mahā) [time](kāla) [like](iva) [people](prajāḥ)
 
 ## mukta-m0-p153-v3825
-[ganges-bathing-thousand](gaṅgāsnānasahasrasya) [chandrayana-ten-thousand](cāndrāyaṇāyutasya) [and](ca)
+[ganges](gaṅgā) [bath](snāna) [thousand](sahasrasya) [candrāyaṇa](cāndrāyaṇa) [ten-thousand](ayutasya) [and](ca)
