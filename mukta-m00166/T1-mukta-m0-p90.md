@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p90-v2226
-[delights](ramate) [some](kācid) [one](ekaiva) [mother-circle-dwelling](mātṛmaṇḍalavāsinī)
+[ramate](ramate) [kācid](kācid) [ekaiva](ekaiva) [mātṛmaṇḍalavāsinī](mātṛmaṇḍalavāsinī)
 
 ## mukta-m0-p90-v2227
-[son-bearing-mother](kumārajananī)
+[kumāra](kumāra)+[jananī](jananī)
 
 ## mukta-m0-p90-v2228
-[death-time-binding](mārakālakalanaikabandhanaṃ) [she](sā) [son-bearing-mother](kumārajananī) [maiden](kumārikā)
+[mārakālakalanaikabandhanaṃ](mārakālakalanaikabandhanaṃ) [sā](sā) [kumāra](kumāra)+[jananī](jananī) [kumārikā](kumārikā)
 
 ## mukta-m0-p90-v2229
-[cruel](krūrā)
+[krūrā](krūrā)
 
 ## mukta-m0-p90-v2230
-[moon-ray-maker](rākākarākarākāraṃ) [prisoners](kārākīḥ) [maker](kārakaṃ) [hand](kare)
+[rākākarākarākāraṃ](rākākarākarākāraṃ) [kārākīḥ](kārākīḥ) [kārakaṃ](kārakaṃ) [kare](kare)
 
 ## mukta-m0-p90-v2231
-[fair-faced](sumukhī)
+[sumukhī](sumukhī)
 
 ## mukta-m0-p90-v2232
-[face](mukhaṃ) [auspicious](śivā) [she](sā) [fair-faced](sumukhī) [chief](mukhyā)
+[nmukhaṃ](nmukhaṃ) [śivā](śivā) [sā](sā) [sumukhīti](sumukhīti) [mukhyā](mukhyā)
 
 ## mukta-m0-p90-v2233
-[fever-destroying](jvaranāśinī)
+[p](p) [265](265) [jvaranāśinī](jvaranāśinī)
 
 ## mukta-m0-p90-v2234
-[fever-destroying](jvaranāśinī) [indeed](kila) [she](sā) [charming](lalitā)
+[jvaranāśinīti](jvaranāśinīti) [kila](kila) [sā](sā) [lalitā](lalitā)
 
 ## mukta-m0-p90-v2235
-[wonder-play](citrānteha) [sport-name](vilāsanāmni) [cessation](viratiṃ) [devotion](bhaktiḥ) [thirteenth](trayodaśyagāt)
+[citrānteha](citrānteha) [vilāsanāmni](vilāsanāmni) [viratiṃ](viratiṃ) [bhaktistrayodaśyagāt](bhaktistrayodaśyagāt)
 
 ## mukta-m0-p90-v2236
-[thirteenth](trayodaśī) [devotion](bhaktiḥ)
+[trayodaśī](trayodaśī) [bhaktiḥ](bhaktiḥ)
 
 ## mukta-m0-p90-v2237
-[past](atītā)
+[atītā](atītā)
 
 ## mukta-m0-p90-v2238
-[those](tā) [when](yadā) [not](no) [measured](mānudito) [speaker](vādino) [before](agre) [what](kim) [known](āvidi)
+[tā](tā) [yadā](yadā) [no](no) [mānudito](mānudito) [vādino'gre](vādino'gre) [kimāvidi](kimāvidi)
 
 ## mukta-m0-p90-v2239
-[existing](vidyamānā)
+[vidyamānā](vidyamānā)
 
 ## mukta-m0-p90-v2240
-[destined](diṣṭe) [blameless](anavadya) [clarity](vaiṣadya) [heartfelt](hṛdyā) [quickly](sadyaḥ) [be-pleased](prasīdatāt)
+[diṣṭe'navadyavaiṣadyahṛdyā](diṣṭe'navadyavaiṣadyahṛdyā) [sadyaḥ](sadyaḥ) [prasīdatāt](prasīdatāt)
 
 ## mukta-m0-p90-v2241
-[future](bhāvinī)
+[p](p) [267](267) [bhāvinī](bhāvinī)
 
 ## mukta-m0-p90-v2242
-[bhavani](bhavānī) [future](bhāvinī) [various](nānā) [birth](bhave) [new-new](navanave) [forest](vana)
+[bhavānī](bhavānī) [bhāvinī](bhāvinī) [nānābhave](nānābhave) [navanave](navanave) [vana](vana)
 
 ## mukta-m0-p90-v2243
-[love-bud](prītimañjarī)
+[prītimañjarī](prītimañjarī)
 
 ## mukta-m0-p90-v2244
-[by-whom](yayā) [dear](priyaṃ) [dear](priyaṃ) [various-various](nānānānā) [dear-even](priyamapi) [dear](priyam)
+[yayāpriyaṃ](yayāpriyaṃ) [priyaṃ](priyaṃ) [nānānānāpriyamapi](nānānānāpriyamapi) [priyam](priyam)
 
 ## mukta-m0-p90-v2245
-[all-comfort](sarvasaukhyavatī) [method](yuktiḥ)
+[sarvasaukhyavatī](sarvasaukhyavatī) [yuktiḥ](yuktiḥ)
 
 ## mukta-m0-p90-v2246
-[all-comfort](sarvasaukhyavatī) [method](yuktiḥ) [conquers](jayati) [this-very](eṣaiva) [learned-form](vidvapuḥ)
+[sarvasaukhyavatī](sarvasaukhyavatī) [yuktirjayatyeṣaiva](yuktirjayatyeṣaiva) [vidvapuḥ](vidvapuḥ)
 
 ## mukta-m0-p90-v2247
-[food-transforming](āhārapariṇāminī)
+[āhārapariṇāminī](āhārapariṇāminī)
 
 ## mukta-m0-p90-v2248
-[she](sā) [some](kāpi) [sung](gīyate) [by-knowers](tajjñair) [food-transforming](āhārapariṇāminī)
+[sā](sā) [kāpi](kāpi) [gīyate](gīyate) [tajjñairāhārapariṇāminī](tajjñairāhārapariṇāminī)
 
 ## mukta-m0-p90-v2249
-[cause](nidānaṃ) [five-elements](pañcabhūtānām)
+[nidānaṃ](nidānaṃ) [pañcabhūtānām](pañcabhūtānām)
 
 ## mukta-m0-p90-v2250
-[cause](nidānaṃ) [five-elements](pañcabhūtānām) [conquers](jayati) [nature-splendor](prakṛtiprabhā)
+[nidānaṃ](nidānaṃ) [pañcabhūtānāṃ](pañcabhūtānāṃ) [jayati](jayati) [prakṛtiprabhā](prakṛtiprabhā)
