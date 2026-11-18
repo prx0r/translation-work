@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p119-v2951
-viśrāmya+ekāṃ tataḥ rātriṃ gomayena vilepayet
+viśrāmya(resting) ekām(one) tato(then) rātriṃ(night) gomayena(with-cow-dung) vilepayet(should-plaster)
 
 ## mukta-m0-p119-v2952
-śaṇaphalyāṅghikāṣāyaiḥ stopalatārasena vā
+śaṇa(hemp)+phalya(fruit)+āṅghi(foot)+kāṣāyai(decoction) stopalatārasena(with-stone-creeper-juice) vā(or)
 
 ## mukta-m0-p119-v2953
-utsvinna māṣatoyena svinnabilvāmbunā+api vā
+utsvinna(sweated) māṣatoyena(with-black-gram-water) svinnabilvāmbunāpi(with-boiled-bilva-water) vā(or)
 
 ## mukta-m0-p119-v2954
-tataḥ+ca+ulūkhalādyaiḥ+tu sthūlacūrṇāni kārayet
+tataḥ(then)+ulūkhalādyaiḥ(with-mortar-etc) sthūlacūrṇāni(coarse-powders) kārayet(should-make)
 
 ## mukta-m0-p119-v2955
-sthālyā+garbhe tu saṃsthāpya tataḥ dravyāṇi niḥkṣipet
+sthālyāgarbhe(in-pot-interior) tu(but) saṃsthāpya(having-placed) tato(then) drayāṇi(drugs) niḥkṣipet(should-put)
 
 ## mukta-m0-p119-v2956
-sikatā gavyadugdhāni sarjatailātasīrajaḥ
+sikatā(sand) gavyadugdhāni(cow-milks) sarjatailātasīrajaḥ(sarja-oil-flax-seed-powder)
 
 ## mukta-m0-p119-v2957
-āmrātakāmbubhiḥ piṣṭaṃ sthūlāsyā dugdhikāhvayā
+āmrātakāmbubhiḥ(with-hog-plum-water) piṣṭaṃ(ground) sthūlāsyā(wide-mouthed) dugdhikāhvayā(called-dugdhikā)
 
 ## mukta-m0-p119-v2958
-kvāthena meṣaśṛṅgasya atasīcūrṇamiśritam
+kvāthena(with-decoction) meṣaśṛṅgasya(of-ram-horn) atasīcūrṇamiśritam(mixed-with-flax-powder)
 
 ## mukta-m0-p119-v2959
-vajralepaḥ samakhyātaḥ tathā sarjasamanvitaḥ
+vajralepaḥ(vajra-plaster) samakhyātaḥ(well-known) tathā(thus) sarjasamanvitaḥ(with-sarja)
 
 ## mukta-m0-p119-v2960
-madhūcchiṣṭena kalkaiḥ+ca śāṇajaiḥ sudṛḍhaiḥ+navaiḥ
+madhūcchiṣṭena(with-beeswax) kalkaiḥ(with-pastes) ca(and) śāṇajaiḥ(with-hemp-made) sudṛḍhaiḥ(firm) navaiḥ(new)
 
 ## mukta-m0-p119-v2961
-atasītailasammiśraṃ mardayitvā supācitam
+atasītailasammiśraṃ(mixed-with-flax-oil) mardayitvā(having-ground) supācitam(well-cooked)
 
 ## mukta-m0-p119-v2962
-suraveśmagṛhādīnāṃ bhūmibandhaḥ nigadyate
+suraveśmagṛhādīnāṃ(of-temples-houses-etc) bhūmibandhaḥ(floor-bond) nigadyate(is-declared)
 
 ## mukta-m0-p119-v2963
-sthiratoyopamā kāryā bhūmiḥ+tu sutalā samā
+sthiratoyopamā(firm-water-like) kāryā(should-be-made) bhūmiḥ(floor) tu(but) sutalā(level) samā(even)
 
 ## mukta-m0-p119-v2964
-tat+kalkaṃ kārayet piṇḍaṃ viśoṣyaṃ piṇḍam+ātape
+tatkalkaṃ(that-paste) kārayet(should-make) piṇḍaṃ(lump) viśoṣyaṃ(to-be-dried) piṇḍam(lump) ātape(in-sun)
 
 ## mukta-m0-p119-v2965
-tataḥ maṇḍena saṃmardya bhūmibandhaṃ tu kārayet
+tato(then) maṇḍena(with-gruel) saṃmardya(having-rubbed) bhūmibandhaṃ(floor-bond) tu(but) kārayet(should-make)
 
 ## mukta-m0-p119-v2966
-kuryāt bhūmiṃ samaṃ ramyaṃ susthitaṃ jalapūritam
+kuryāt(should-make) bhūmiṃ(floor) samaṃ(even) ramyaṃ(pleasant) susthitaṃ(well-set) jalapūritam(filled-with-water)
 
 ## mukta-m0-p119-v2967
-dravyaṃ kālānurūpeṇa yojayet+bhāgasammitam
+dravyaṃ(material) kālānurūpeṇa(according-to-season) yojayet(should-apply) bhāgasammitam(measured-in-parts)
 
 ## mukta-m0-p119-v2968
-grīṣme nu pañcabhāgāḥ syuḥ śītakāle tathā trayaḥ
+grīṣme(in-summer) nu(indeed) pañcabhāgāḥ(five-parts) syuḥ(are) śītakāle(in-cold-season) tathā(thus) trayaḥ(three)
 
 ## mukta-m0-p119-v2969
-evaṃ dattvā tu yaḥ pūrvaṃ bandhaḥ+atra kathitaḥ kṣiteḥ
+evaṃ(thus) dattvā(having-given) tu(but) yaḥ(which) pūrvaṃ(before) bandhaḥ(bond) atra(here) kathitaḥ(described) kṣiteḥ(of-earth)
 
 ## mukta-m0-p119-v2970
-toyena hatakūrcaṃ tu dāpayet+tat+vicakṣaṇaḥ
+toyena(with-water) hatakūrcaṃ(scrubbed-brush) tu(but) dāpayet(should-apply) tad(that) vicakṣaṇaḥ(expert)
 
 ## mukta-m0-p119-v2971
-śālmalītindukādīnāṃ bhūmibandhe praśasyate
+śālmalītindukādīnāṃ(of-śālmali-tinduka-etc) bhūmibandhe(in-floor-bond) praśasyate(is-praised)
 
 ## mukta-m0-p119-v2972
-tāvat+varṣasahasrāṇi kartā nandati tatpure
+tāvat(so-many) varṣasahasrāṇi(thousand-years) kartā(maker) nandati(rejoices) tatpure(in-that-city)
 
 ## mukta-m0-p119-v2973
-pañcamaḥ kāladaṇḍākhyaḥ sānvayāḥ phaladāyakāḥ
+pañcamaḥ(fifth) kāladaṇḍākhyaḥ(named-kāladaṇḍa) sānvayāḥ(with-descendants) phaladāyakāḥ(fruit-giving)
 
 ## mukta-m0-p119-v2974
-vibhrāntiṃ vibhramaḥ kuryāt+śāsakaḥ śāsayet+sadā
+vibhrāntiṃ(confusion) vibhramaḥ(delusion) kuryāt(creates) śāsakaḥ(ruler) śāsayet(should-punish) sadā(always)
 
 ## mukta-m0-p119-v2975
-ete suragṛhe vighnāḥ yāvat+te tu na pūjitāḥ
+ete(these) suragṛhe(in-temple) vighnā(obstacles) yāvat(until) te(they) tu(but) na(not) pūjitāḥ(worshipped)
