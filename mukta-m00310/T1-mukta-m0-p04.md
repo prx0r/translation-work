@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p04-v76
-[from-guru-instruction](gurūpadeśataḥ) [should-do](kuryāj) [japa](japaṃ) [worship](pūjāmaharniśam)
+[from-guru-instruction](gurūpadeśataḥ) [should-do](kuryāj) [japa](japaṃ) [worship-day-and-night](pūjāmaharniśam)
 
 ## mukta-m0-p04-v77
-[having-worshipped-guru](gurumabhyarcya) [having-prayed](saṃprārthya) [for-śakti-initiation](śaktidīkṣārthamīśvari)
+[guru](gurum) [having-worshipped](abhyarcya) [having-prayed](saṃprārthya) [for-shakti-initiation](śaktidīkṣārtham) [O-goddess](īśvari)
 
 ## mukta-m0-p04-v78
-[even-if-chanted-in-millions-of-births](janmakoṭiṣu) [japtāpi](japtāpi) [his](tasya) [vidyā](vidyā) [does-not-succeed](na) [sidhyati](sidhyati)
+[in-millions-of-births](janmakoṭiṣu) [even-if-chanted](japtāpi) [of-him](tasya) [vidya](vidyā) [not](na) [succeeds](sidhyati)
 
 ## mukta-m0-p04-v79
-[disciple](śiṣyastriyaṃ) [other-form](parārūpāṃ) [goddess-form](devīrūpāṃ) [should-contemplate](vicintayet)
+[disciple](śiṣyaḥ) [woman](striyaṃ) [supreme-form](parārūpāṃ) [goddess-form](devīrūpāṃ) [should-contemplate](vicintayet)
 
 ## mukta-m0-p04-v80
-[having-respected](ādṛtya) [like-mother](mātṛvad) [devi](devi) [like-maiden](kanyāvad) [should-initiate](dīkṣayet) [then](tadā)
+[having-respected](ādṛtya) [like-mother](mātṛvad) [O-goddess](devi) [like-daughter](kanyāvad) [should-initiate](dīkṣayet) [then](tadā)
 
 ## mukta-m0-p04-v81
-[having-sat](upaviśya) [guru](gurustatra) [west-facing](paścimābhimukhaḥ) [o-śivā](śive)
+[having-sat](upaviśya) [guru](guruḥ) [there](tatra) [facing-west](paścimābhimukhaḥ) [O-Shiva](śive)
 
 ## mukta-m0-p04-v82
-[then](tataḥ) [having-worshipped](saṃpūjya) [goddess-lord](deveśi) [at-yantra-front](yantrāgre) [in-deity-house](devatāgṛhe)
+[then](tataḥ) [having-worshipped](saṃpūjya) [O-goddess-of-gods](deveśi) [at-yantra-front](yantrāgre) [in-deity-house](devatāgṛhe)
 
 ## mukta-m0-p04-v83
-[having-obtained](saṃprāpya) [śiva-accompanied-vidyā](saśivāṃ) [vidyāṃ](vidyāṃ) [guru](guruṃ) [like-father](pitṛvadarcayet)
+[having-obtained](saṃprāpya) [with-Shiva-vidya](saśivāṃ vidyāṃ) [guru](guruṃ) [like-father](pitṛvad) [should-worship](arcayet)
 
 ## mukta-m0-p04-v84
-[then-command](tadājñāṃ) [on-head-taking](śirasādāya) [japa](japaṃ) [should-do-always](kuryāttu) [sarvadā](sarvadā)
+[then-command](tadājñāṃ) [taking-on-head](śirasādāya) [japa](japaṃ) [should-do](kuryāt) [indeed](tu) [always](sarvadā)
 
 ## mukta-m0-p04-v85
-[mortal](martyo'pi) [becoming-śiva](sañchive) [creature](janturamaratvamavāpnuyāt)
+[mortal](martyaḥ) [even](api) [with-Shiva](sañchive) [creature](jantuḥ) [immortality](amaratvam) [may-obtain](avāpnuyāt)
 
 ## mukta-m0-p04-v86
-[she-is-śyāmā](sa) [she-is-śivā](śivā) [devi](devi) [subjugated](vaśyaṃ) [his](tasya) [three-worlds](jagat) [trayam](trayam)
+[she](sa) [Shyama](śyāmā) [she](sa) [Shiva](śivā) [goddess](devi) [subjection](vaśyaṃ) [of-him](tasya) [three-worlds](jagat trayam)
 
 ## mukta-m0-p04-v87
-[of-initiation-rite](dīkṣāvidhermahādevi) [to-be-hidden](gopanīyaṃ) [carefully](prayatnataḥ)
+[of-initiation-rite](dīkṣāvidheḥ) [O-great-goddess](mahādevi) [to-be-concealed](gopanīyaṃ) [with-effort](prayatnataḥ)
 
 ## mukta-m0-p04-v88
-[of-goddesses](devīnāṃ) [vaiṣṇava-śākta-etc](vaiṣṇavāñchāktāñchaivāṃstvaṃ) [hear](śṛṇu) [pārvatī](pārvati)
+[of-goddesses](devīnāṃ) [Vaishnava-Shakta-and-others](vaiṣṇavāñchāktāñchaivāṃs) [you](tvaṃ) [hear](śṛṇu) [Parvati](pārvati)
 
 ## mukta-m0-p04-v89
-[kālikā](kālikā) [bhadrakālī](bhadrakālī) [ca](ca) [mātaṅgī](mātaṅgī) [bhuvaneśvarī](bhuvaneśvarī)
+[Kalika](kālikā) [Bhadrakali](bhadrakālī) [and](ca) [Matangi](mātaṅgī) [Bhuvaneshvari](bhuvaneśvarī)
 
 ## mukta-m0-p04-v90
-[annapūrṇā](annapūrṇā) [mahālakṣmī](mahālakṣmīḥ) [śārikā](śārikā) [śāradā](śāradā) [then](tataḥ)
+[Annapurna](annapūrṇā) [Mahalakshmi](mahālakṣmīḥ) [Sharika](śārikā) [Sharada](śāradā) [then](tataḥ)
 
 ## mukta-m0-p04-v91
-[bhīḍā](bhīḍā) [ca](ca) [kālarātri](kālarātriśca) [bhavānī](bhavānī) [vajrayoginī](vajrayoginī)
+[Bhida](bhīḍā) [and](ca) [Kalaratri](kālarātriḥ) [and](ca) [Bhavani](bhavānī) [Vajrayogini](vajrayoginī)
 
 ## mukta-m0-p04-v92
-[of-these](etāsāṃ) [devi](devi) [with-limbs](sāṅgānāṃ) [śaktis](śaktīnāṃ) [I-speak](vacmyahaṃ) [mantras](manūn)
+[of-these](etāsāṃ) [goddess](devi) [with-limbs](sāṅgānāṃ) [of-shaktis](śaktīnāṃ) [I-speak](vacmi) [I](ahaṃ) [mantras](manūn)
 
 ## mukta-m0-p04-v93
-[mṛtyuñjaya](mṛtyuñjayo'mṛteśāno) [amṛteśāna](amṛteśāno) [vaṭuka](vaṭuko'pi) [maheśvara](maheśvaraḥ)
+[Mrityunjaya](mṛtyuñjayaḥ) [Amriteshana](amṛteśānaḥ) [Vatuka](vaṭukaḥ) [even](api) [Maheshvara](maheśvaraḥ)
 
 ## mukta-m0-p04-v94
-[vikarāla](vikarālo) [nīlakaṇṭha](nīlakaṇṭhaḥ) [śarva](śarvaḥ) [paśupati](paśupatirmṛḍaḥ) [mṛḍa](mṛḍaḥ)
+[Vikarala](vikarālaḥ) [Nilakantha](nīlakaṇṭhaḥ) [Sharva](śarvaḥ) [Pashupati](paśupatiḥ) [Mrda](mṛḍaḥ)
 
 ## mukta-m0-p04-v95
-[kumāra](kumāraḥ) [krodhana](krodhanaśceśaḥ) [īśa](īśaḥ) [kapālī](kapālī) [krūra-bhairava](krūrabhairavaḥ)
+[Kumara](kumāraḥ) [Krodhana](krodhanaḥ) [and-Isha](ceśaḥ) [Kapali](kapālī) [Krura-Bhairava](krūrabhairavaḥ)
 
 ## mukta-m0-p04-v96
-[aghora](aghoraśca) [mahākāla](mahākālaḥ) [kāmeśvara](kāmeśvara) [iti](iti) [smṛtaḥ](smṛtaḥ)
+[Aghora](aghoraḥ) [and](ca) [Mahakala](mahākālaḥ) [Kameshvara](kāmeśvaraḥ) [thus](iti) [remembered](smṛtaḥ)
 
 ## mukta-m0-p04-v97
-[by-whom](yena) [by-mere-hearing](śravaṇamātreṇa) [mantrī](mantrī) [viṣṇu-abode](viṣṇupadaṃ) [goes](vrajet)
+[by-which](yena) [hearing-only](śravaṇamātreṇa) [mantri](mantrī) [Vishnu-foot](viṣṇupadaṃ) [may-go](vrajet)
 
 ## mukta-m0-p04-v98
-[varāha](varāho) [jāmadagnya](jāmadagnyaśca) [sītārāma](sītārāmo) [janārdana](janārdanaḥ)
+[Varaha](varāhaḥ) [Jamadagnya](jāmadagnyaḥ) [and](ca) [Sita-Rama](sītārāmaḥ) [Janardana](janārdanaḥ)
 
 ## mukta-m0-p04-v99
-[mantras](mantrā) [atyuttamā](atyuttamā) [devi](devi) [to-be-chanted](japyāḥ) [by-best-sādhakas](sādhakasattamaiḥ)
+[mantras](mantrāḥ) [most-excellent](atyuttamāḥ) [goddess](devi) [to-be-chanted](japyāḥ) [by-best-sadhakas](sādhakasattamaiḥ)
 
 ## mukta-m0-p04-v100
-[uddhāras](uddhārān) [I-speak](vacmi) [of-mantras](mantrāṇāṃ) [having-heard](śrutvā) [hide](gopaya) [carefully](yatnataḥ)
+[extractions](uddhārān) [I-speak](vacmi) [of-mantras](mantrāṇāṃ) [having-heard](śrutvā) [conceal](gopaya) [with-effort](yatnataḥ)
