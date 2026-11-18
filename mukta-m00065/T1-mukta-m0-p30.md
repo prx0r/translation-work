@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p30-v726
-[tarjani](tarjani) [anāmikā](anāmikā) [parva](parva) [sa](sa) [pāda](pāda) [yava](yava) [varjitam](varjitam)
+tarjani-anāmikā-parva sapāda-yava-varjitam
 
 ## mukta-m0-p30-v727
-[dvyaṅgulaḥ](dvyaṅgulaḥ) [aṅguṣṭhaka](aṅguṣṭhaka) [granthiḥ](granthiḥ) [āsām](āsām) [parva](parva) [ardha](ardha) [gāḥ](gāḥ) [nakhāḥ](nakhāḥ)
+dvyaṅgula-aṅguṣṭhaka-granthi āsāṃ parva-ardha-gā nakhāḥ
 
 ## mukta-m0-p30-v728
-[nāsa](nāsa) [utsedhaḥ](utsedhaḥ) [sa](sa) [vistāraḥ](vistāraḥ) [dvyaṅgulaḥ](dvyaṅgulaḥ) [dvi](dvi) [puṭaḥ](puṭaḥ) [śubhaḥ](śubhaḥ)
+nāsa-utsedhaḥ sa-vistāra-udvyaṅgulaḥ dvipuṭaḥ śubhaḥ
 
 ## mukta-m0-p30-v729
-[dvi](dvi) [ardham](ardham) [yavam](yavam) [puṭe](puṭe) [sthūle](sthūle) [madhye](madhye) [vaśaḥ](vaśaḥ) [stribhiḥ](stribhiḥ) [yavaḥ](yavaḥ)
+dvi-ardhaṃ yavaṃ puṭe sthūle madhye vaśa stribhiḥ yavaḥ
 
 ## mukta-m0-p30-v730
-[adhe](adhe) [aparaḥ](aparaḥ) [aṅgulakaṃ](aṅgulakaṃ) [tu](tu) [dvyaṅgule](dvyaṅgule) [cibuka](cibuka) [sthitiḥ](sthitiḥ)
+adhe apara-aṅgulakaṃ tu dvyaṅgule cibuka-sthitiḥ
 
 ## mukta-m0-p30-v731
-[nāsikā](nāsikā) [mūla](mūla) [pārśve](pārśve) [tu](tu) [locane](locane) [dvyaṅgula](dvyaṅgula) [āyate](āyate)
+nāsikā-mūla-pārśve tu locane dvyaṅgula-āyate
 
 ## mukta-m0-p30-v732
-[indīvara](indīvara) [abja](abja) [patra](patra) [ābhā](ābhā) [paṭola](paṭola) [phala](phala) [vat](vat) [striyāḥ](striyāḥ)
+indīvara-abja-patra-ābhā paṭola-phala-vat striyāḥ
 
 ## mukta-m0-p30-v733
-[pañcama](pañcama) [aṃśam](aṃśam) [bhavet](bhavet) [jyotiḥ](jyotiḥ) [sṛkkaṇī](sṛkkaṇī) [sūtra](sūtra) [tulyatā](tulyatā)
+pañcama-aṃśaṃ bhavet jyotiḥ sṛkkaṇī-sūtra-tulyataḥ
 
 ## mukta-m0-p30-v734
-[ardha](ardha) [aṅgula](aṅgula) [samā](samā) [droṇī](droṇī) [sa](sa) [ardha](ardha) [dvyaṅgula](dvyaṅgula) [dīrghatā](dīrghatā)
+ardha-aṅgula-samā droṇī sārdha-dvyaṅgula-dīrghatā
 
 ## mukta-m0-p30-v735
-[tayoḥ](tayoḥ) [ara](ara) [tara](tara) [mātra](mātra) [ardham](ardham) [striyām](striyām) [yava](yava) [ardha](ardha) [vistṛte](vistṛte)
+tayoḥ atara-mātra-ardhaṃ striyāṃ yava-ardha-vistṛte
 
 ## mukta-m0-p30-v736
-[karṇau](karṇau) [netra](netra) [daya](daya) [āyāmau](āyāmau) [tad](tad) [ardhāt](ardhāt) [vistaraḥ](vistaraḥ) [tayoḥ](tayoḥ)
+karṇau netra-daya-āyāmau tad-ardha-advi-staraḥ tayoḥ
 
 ## mukta-m0-p30-v737
-[kalā](kalā) [ardham](ardham) [pāśau](pāśau) [kuryāt](kuryāt) [yathā](yathā) [ipsitau](ipsitau)
+kalā-ardhaṃ tadukau khalvau pāśau kuryāt yathā-īpsitau
 
 ## mukta-m0-p30-v738
-[indra](indra) [saṅkhya](saṅkhya) [aṅgulam](aṅgulam) [paścāt](paścāt) [karṇayoḥ](karṇayoḥ) [antaram](antaram) [viduḥ](viduḥ)
+indra-saṅkhyā-aṅgulaṃ paścāt karṇayoḥ antaraṃ viduḥ
 
 ## mukta-m0-p30-v739
-[lalāṭaḥ](lalāṭaḥ) [aṣṭa](aṣṭa) [aṅgula](aṅgula) [āyāmaḥ](āyāmaḥ) [tri](tri) [aṅgulaḥ](aṅgulaḥ) [śaṅkhaḥ](śaṅkhaḥ) [ucyate](ucyate)
+lalāṭaḥ aṣṭa-aṅgula-āyāmaḥ tri-aṅgulaḥ śaṅkhaḥ ucyate
 
 ## mukta-m0-p30-v740
-[sapta](sapta) [aṅgulau](aṅgulau) [kapolau](kapolau) [tu](tu) [sa](sa) [aṅgulau](aṅgulau) [sa](sa) [yava](yava) [ucchrayau](ucchrayau)
+sapta-aṅgulau kapolau tu sa-aṅgulau sa-yava-ucchrayau
 
 ## mukta-m0-p30-v741
-[hanū](hanū) [kalā](kalā) [tra](tra) [dīrghau](dīrghau) [vdi](vdi) [kalaḥ](kalaḥ) [cibuka](cibuka) [udgamaḥ](udgamaḥ)
+hanū kalā tra-dīrghau vdi-kalaḥ cibuka-udgamaḥ
 
 ## mukta-m0-p30-v742
-[skandhaḥ](skandhaḥ) [aṣṭa](aṣṭa) [aṅgula](aṅgula) [vistāraḥ](vistāraḥ) [tad](tad) [āyāmaḥ](āyāmaḥ) [catuṣ](catuṣ) [kalā](kalā)
+skandhaḥ aṣṭa-aṅgula-vistāraḥ tad-āyāmaḥ catuṣ-kalā
 
 ## mukta-m0-p30-v743
-[vistāraḥ](vistāraḥ) [kūrparaḥ](kūrparaḥ) [tasmāt](tasmāt) [bhūta](bhūta) [aṅgulaiḥ](aṅgulaiḥ) [yavaiḥ](yavaiḥ) [tathā](tathā)
+vistāraḥ kūrparaḥ tasmāt bhūta-aṅgulaiḥ yavaiḥ tathā
 
 ## mukta-m0-p30-v744
-[catur](catur) [aṅgula](aṅgula) [vistāraḥ](vistāraḥ) [maṇibandhaḥ](maṇibandhaḥ) [prakīrtitaḥ](prakīrtitaḥ)
+catuḥ-aṅgula-vistāraḥ maṇibandhaḥ prakīrtitaḥ
 
 ## mukta-m0-p30-v745
-[stanayoḥ](stanayoḥ) [antaram](antaram) [tālam](tālam) [tayoḥ](tayoḥ) [prāntau](prāntau) [dvi](dvi) [netrakau](netrakau)
+stanayoḥ antaraṃ tālaṃ tayoḥ prāntau dvi-netrakau
 
 ## mukta-m0-p30-v746
-[nābhiḥ](nābhiḥ) [pradakṣiṇa](pradakṣiṇa) [āvartā](āvartā) [nimnataḥ](nimnataḥ) [ardha](ardha) [aṅgula](aṅgula) [uditā](uditā)
+nābhiḥ pradakṣiṇa-āvartā nimnataḥ ardha-aṅgula-uditā
 
 ## mukta-m0-p30-v747
-[hṛd](hṛd) [viṃśati](viṃśati) [aṅgulam](aṅgulam) [proktam](proktam) [nābhi](nābhi) [deśaḥ](deśaḥ) [caturdaśa](caturdaśa)
+hṛd viṃśati-aṅgulaṃ proktaṃ nābhi-deśaḥ caturdaśa
 
 ## mukta-m0-p30-v748
-[pañcādaśa](pañcādaśa) [aṅgulam](aṅgulam) [vakṣaḥ](vakṣaḥ) [hṛd](hṛd) [deśaḥ](deśaḥ) [pañcabhiḥ](pañcabhiḥ) [vinā](vinā)
+pañcādaśa-aṅgulaṃ vakṣaḥ hṛd-deśaḥ pañcabhiḥ vinā
 
 ## mukta-m0-p30-v749
-[kaṭiḥ](kaṭiḥ) [saṃveṣṭanena](saṃveṣṭanena) [uktā](uktā) [śatāt](śatāt) [ca](ca) [dvi](dvi) [adhika](adhika) [aṅgulā](aṅgulā)
+kaṭiḥ saṃveṣṭanena uktā śatāt dvi-adhika-aṅgulā
 
 ## mukta-m0-p30-v750
-[catur](catur) [netra](netra) [pravistārau](pravistārau) [gaja](gaja) [kumbha](kumbha) [upamau](upamau) [śubhau](śubhau)
+catuḥ-netra-pravistārau gaja-kumbha-upamau śubhau
