@@ -5,73 +5,73 @@
 [twelve](dvādaśa) [having-come-together](sambhūya) [thirty-eight](aṣṭatriṃśat) [vital-points](marmāṇi) [in-these](eṣu) [vital-points](marmasu)
 
 ## mukta-m0-p141-v3502
-[in-reversal](vailomye) [due-to-bodily-deformity](vikṛta+aṅgatvāt) [by-people](lokaiḥ) [for-destruction](nāśāya) [is-considered](kalpyate)
+[in-reversal](vailomye) [from-deformed+limbness](vikṛta+aṅgatvāt) [by-people](lokaiḥ) [for-destruction](nāśāya) [is-considered](kalpyate)
 
 ## mukta-m0-p141-v3503
-[yoga](yogaḥ) [yoga](yogaḥ) [indeed](tu) [to-be-known](vijñeyaḥ) [its-limbs](tasya+aṅgāni) [likewise](tathā) [eight](aṣṭa) [indeed](vai)
+[yoga](yogo) [yoga](yogaḥ) [indeed](tu) [to-be-known](vijñeyaḥ) [its](tasya) [limbs](aṅgāni) [likewise](tathā) [eight](aṣṭa) [indeed](vai)
 
 ## mukta-m0-p141-v3504
-[breath-control](prāṇāyāmaḥ) [likewise](tathā) [withdrawal](pratyāhāraḥ) [then-after-that](tat+anu) [concentration](dhāraṇam)
+[breath-control](prāṇāyāmaḥ) [likewise](tathā) [withdrawal](pratyāhāraḥ) [then](tadanu) [concentration](dhāraṇam)
 
 ## mukta-m0-p141-v3505
-[I-tell](kathayāmi) [listen](śṛṇu) [O-wise-one](prājñe) [by-which](yaiḥ) [mortal](martyaḥ) [equal-to-me](mat+samaḥ) [may-become](bhavet)
+[I-tell](kathayāmi) [listen](śṛṇu) [O-wise-one](prājñe) [by-which](yaiḥ) [mortal](marttyo) [equal-to-me](mat+samo) [may-become](bhavet)
 
 ## mukta-m0-p141-v3506
-[greed-and-delusion](lobha+mohau) [pride-and-intoxication](māna+madau) [like-fire](vahni+vat) [all-destroying](sarva+nāśakāḥ)
+[greed+delusion](lobha+mohau) [pride+intoxication](māna+madau) [like-fire](vahni+vat) [all-destroying](sarva+nāśakāḥ)
 
 ## mukta-m0-p141-v3507
-[due-to-bodily-deformity](vikṛta+aṅgatvāt) [by-harmful-things-etc](ahita+ādibhiḥ)
+[from-deformed+limbness](vikṛta+aṅgatvāt) [by-harmful+and-so-on](ahita+ādibhiḥ)
 
 ## mukta-m0-p141-v3508
-[by-forms-of-eight-limbs](aṣṭa+aṅga+svarūpaiḥ) [equal-to-me](mat+samaḥ) [consisting-of-me](mat+mayaḥ) [of-Śiva-form](śiva+rūpaḥ)
+[by-eight-limb+forms](aṣṭāṅga+svarūpaiḥ) [equal-to-me](mat+samaḥ) [consisting-of-me](man+mayaḥ) [of-Śiva-form](śiva+rūpaḥ)
 
 ## mukta-m0-p141-v3509
-[from-activities](udyogebhyaḥ) [cessation](uparamaṇam) [restraint](yamaḥ) [limb-called-yama](yama+ākhya+aṅgam)
+[from-activities](udyogebhya) [cessation](uparamaṇaṃ) [restraint](yamaḥ) [called-yama+limb](yama+ākhya+aṅgam)
 
 ## mukta-m0-p141-v3510
-[likewise](tathā) [of-eleven-forms](ekādaśa+rūpaḥ) [may-be](syāt) [observance](niyamaḥ) [is-declared](parikīrttitaḥ)
+[likewise](tathā) [of-eleven+forms](ekādaśa+rūpaḥ) [may-be](syāt) [observance](niyamaḥ) [is-declared](parikīrttitaḥ)
 
 ## mukta-m0-p141-v3511
-[forbearance](kṣamā) [compassion](dayā) [threefold-purity](tridhā+āśaucam) [contentment](santoṣaḥ) [service-to-guru](guru+sevanam)
+[forbearance](kṣamā) [compassion](dayā) [threefold+purity](tridhā+āśaucaṃ) [contentment](santoṣo) [service-to-guru](guru+sevanam)
 
 ## mukta-m0-p141-v3512
-[postures](āsanāni) [in-causing-steadiness-of-mind](manaḥ+sthairyya+karaṇe) [accomplishing](sādhakāni) [indeed](vai)
+[postures](āsanāni) [in-mind+steadiness+making](manaḥ+sthairyya+karaṇe) [accomplishing](sādhakāni) [indeed](vai)
 
 ## mukta-m0-p141-v3513
-[by-touching-both-outer-sides](bāhya+pārśva+dvaya+sparśāt) [that](tat) [lotus-posture](padma+āsanam) [is-called](īritam)
+[by-outer+side+pair+touch](bāhya+pārśva+dvaya+sparśāt) [that](tat) [lotus-posture](padma+āsanam) [is-called](īritam)
 
 ## mukta-m0-p141-v3514
-[by-svastika-shape](svastika+ākārataḥ) [declared](proktam) [that-auspicious-posture](tat+bhadra+āsanam) [O-goddess](īśvari)
+[by-svastika+shape](svastika+ākārataḥ) [declared](proktaṃ) [that](tat) [auspicious-posture](bhadra+āsanam) [O-goddess](īśvari)
 
 ## mukta-m0-p141-v3515
-[in-form-of-mind-speech-body](manaḥ+vāk+kāya+rūpataḥ) [contentment](santoṣaḥ) [fullness](pūrṇatā)
+[in-mind+speech+body+form](manaḥ+vāk+kāya+rūpataḥ) [contentment](santoṣaḥ) [fullness](pūrṇatā)
 
 ## mukta-m0-p141-v3516
-[below-thighs](ūrvoḥ+adhaḥ) [likewise-above](tathā+ūrdhe) [and](ca) [in-two-ways](dvidhā) [auspicious-posture](bhadra+āsanam) [is-remembered](smṛtam)
+[of-thighs](ūrvoḥ) [below](adhaḥ) [likewise](tathā) [above](ūrddhe) [and](ca) [in-two-ways](dvidhā) [auspicious-posture](bhadra+āsanaṃ) [is-remembered](smṛtam)
 
 ## mukta-m0-p141-v3517
-[at-region-of-knees-of-feet](pādayoḥ+jānu+deśe) [indeed](vai) [called-hero](vīra+ākhyam) [with-yoga-strap](yoga+paṭṭataḥ)
+[of-feet](pādayoḥ) [in-knee+region](jānu+deśe) [indeed](vai) [called-hero](vīra+ākhyaṃ) [with-yoga+strap](yoga+paṭṭataḥ)
 
 ## mukta-m0-p141-v3518
-[lightness](lāghavaḥ) [leaving-the-ground](bhū+tala+tyāgaḥ) [in-excellence](uttame) [satisfaction-of-mind](citta+nirvṛtiḥ)
+[lightness](lāghavo) [ground+abandonment](bhū+tala+tyāga) [in-supreme](uttame) [mind+satisfaction](citta+nirvṛtiḥ)
 
 ## mukta-m0-p141-v3519
-[trembling-of-all-limbs](sarva+aṅga+kampanam) [is-declared](proktam) [from-practice](abhyāsāt) [joined-with-time](kāla+saṃyutāt)
+[all-limb+trembling](sarvva+aṅga+kampanaṃ) [declared](proktam) [from-practice](abhyāsāt) [joined-with-time](kāla+saṃyutāt)
 
 ## mukta-m0-p141-v3520
-[therefore](tasmāt) [one-should-practice](samabhyaset) [in-morning](prātaḥ) [and-in-evening](sāyam+ca) [with-regularity](niyamena) [indeed](vai)
+[therefore](tasmāt) [one-should-practice](samabhyaset) [in-morning](prātaḥ) [and-evening](sāyañ+ca) [with-rule](niyamena) [indeed](vai)
 
 ## mukta-m0-p141-v3521
-[remembering](smaran) [water](ambu) [breath](marut) [afterwards](paścāt) [through-right](dakiṇena) [one-should-expel](apasārayet)
+[remembering](smaran) [water](ambu) [breath](marut) [afterwards](paścāt) [by-right](dakiṇena) [one-should-expel](apasārayet)
 
 ## mukta-m0-p141-v3522
-[tradition](sampradāyaḥ)
+[tradition](sampradāyaḥ) [teaching](sampradāyaḥ) [lineage](sampradāyaḥ) [transmission](sampradāyaḥ)
 
 ## mukta-m0-p141-v3523
-[twofold](dvividham) [hero-posture](vīra+āsanam) [becomes](bhavati) [thus](iti)
+[twofold](dvividhaṃ) [hero-posture](vīra+āsanaṃ) [is](bhavati) [thus](iti)
 
 ## mukta-m0-p141-v3524
-[one-should-retain](dhārayet) [that](tat) [for-sixty-four](catuḥṣaṣṭyā) [one-should-exhale](recayet) [that](tat) [by-fourth-part](turīyataḥ)
+[one-should-retain](dhārayet) [that](tat) [by-sixty-four](catuḥ+ṣaṣṭyā) [one-should-exhale](recayet) [that](tat) [by-fourth-part](turīyataḥ)
 
 ## mukta-m0-p141-v3525
-[likewise](tadvat) [radiance-and-illumination](kānti+prakāśau) [and](ca) [of-one-accomplished-in-yoga](yoga+siddhasya) [mark](lakṣaṇam)
+[likewise](tadvat) [radiance+illumination](kānti+prakāśau) [and](ca) [of-yoga+accomplished-one](yoga+siddhasya) [mark](lakṣaṇam)
