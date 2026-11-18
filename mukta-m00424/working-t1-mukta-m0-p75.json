@@ -12,15 +12,15 @@
 },
 {
 "surface": "triguṇīkṛtya",
-"quick_gloss": "threefold-make"
+"quick_gloss": "having-tripled"
 },
 {
 "surface": "śivāya",
-"quick_gloss": "to-Śiva"
+"quick_gloss": "to-śiva"
 },
 {
 "surface": "vinivedayet",
-"quick_gloss": "offer"
+"quick_gloss": "should-offer"
 }
 ]
 },
@@ -41,19 +41,15 @@
 },
 {
 "surface": "dūṣaṇotpatti",
-"quick_gloss": "fault-origin"
+"quick_gloss": "origin-of-impurity"
 },
 {
-"surface": "tad",
-"quick_gloss": "that"
-},
-{
-"surface": "uvyantuvyayohya?",
-"quick_gloss": "vyantuvyaya"
+"surface": "taduvyantuvyayohya",
+"quick_gloss": "taduvyantuvyayohya"
 },
 {
 "surface": "ca",
-"quick_gloss": "also"
+"quick_gloss": "and"
 }
 ]
 },
@@ -74,19 +70,15 @@
 },
 {
 "surface": "kuryāt",
-"quick_gloss": "do"
+"quick_gloss": "should-do"
 },
 {
 "surface": "pūrvavat",
 "quick_gloss": "as-before"
 },
 {
-"surface": "pācayec",
-"quick_gloss": "cook"
-},
-{
-"surface": "śubham",
-"quick_gloss": "auspicious"
+"surface": "pācayecchubham",
+"quick_gloss": "should-cook-auspicious"
 }
 ]
 },
@@ -99,27 +91,19 @@
 "tokens": [
 {
 "surface": "sandhāti",
-"quick_gloss": "union"
+"quick_gloss": "binds"
 },
 {
 "surface": "kramaṇe",
-"quick_gloss": "passage"
+"quick_gloss": "in-procedure"
 },
 {
 "surface": "prāpte",
-"quick_gloss": "arrived"
+"quick_gloss": "having-arrived"
 },
 {
-"surface": "śatrubhir",
-"quick_gloss": "by-enemies"
-},
-{
-"surface": "bhayam",
-"quick_gloss": "fear"
-},
-{
-"surface": "ādiśet",
-"quick_gloss": "indicate"
+"surface": "śatrubhirbhayamādiśet",
+"quick_gloss": "fear-from-enemies"
 }
 ]
 },
@@ -139,12 +123,12 @@
 "quick_gloss": "of-mantras"
 },
 {
-"surface": "tatsarva",
+"surface": "tatsarva*(?",
 "quick_gloss": "that-all"
 },
 {
 "surface": "prabhāvayet",
-"quick_gloss": "empower"
+"quick_gloss": "should-empower"
 }
 ]
 },
@@ -157,7 +141,7 @@
 "tokens": [
 {
 "surface": "naivedya",
-"quick_gloss": "naivedya"
+"quick_gloss": "offering"
 },
 {
 "surface": "sthāpane",
@@ -169,11 +153,11 @@
 },
 {
 "surface": "laṅghanepi",
-"quick_gloss": "even-by-men"
+"quick_gloss": "even-if-skipping"
 },
 {
-"surface": "tathā",
-"quick_gloss": "thus"
+"surface": "naraistathā",
+"quick_gloss": "by-men-thus"
 }
 ]
 },
@@ -190,11 +174,11 @@
 },
 {
 "surface": "varjayitvā",
-"quick_gloss": "avoiding"
+"quick_gloss": "having-avoided"
 },
 {
 "surface": "tu",
-"quick_gloss": "then"
+"quick_gloss": "but"
 },
 {
 "surface": "paścāt",
@@ -206,7 +190,7 @@
 },
 {
 "surface": "nivedayet",
-"quick_gloss": "offer"
+"quick_gloss": "should-offer"
 }
 ]
 },
@@ -218,16 +202,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "jāyāja",
-"quick_gloss": "jāyāja"
+"surface": "jāyāja**(?",
+"quick_gloss": "jāyāja**(?)na"
 },
 {
-"surface": "pro",
-"quick_gloss": "pro"
+"surface": "pro******(?",
+"quick_gloss": "pro******(?)taṃ"
 },
 {
 "surface": "japet",
-"quick_gloss": "japet"
+"quick_gloss": "should-chant"
 }
 ]
 },
@@ -240,7 +224,7 @@
 "tokens": [
 {
 "surface": "snapanāṅgavihīne",
-"quick_gloss": "without-bath-limbs"
+"quick_gloss": "without-bathing-limbs"
 },
 {
 "surface": "ca",
@@ -265,15 +249,11 @@
 "tokens": [
 {
 "surface": "sthāpitaiḥ",
-"quick_gloss": "established"
+"quick_gloss": "by-established"
 },
 {
-"surface": "kalaśair",
-"quick_gloss": "pots"
-},
-{
-"surface": "bhinnaiḥ",
-"quick_gloss": "broken"
+"surface": "kalaśairbhinnaiḥ",
+"quick_gloss": "by-broken-pots"
 },
 {
 "surface": "sphuṭite",
@@ -297,8 +277,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
+"surface": "* * * * * * * * (?",
+"quick_gloss": "?"
+},
+{
 "surface": "suprasannena",
-"quick_gloss": "suprasanna"
+"quick_gloss": "with-great-joy"
 },
 {
 "surface": "ratnakā",
@@ -315,15 +299,11 @@
 "tokens": [
 {
 "surface": "varadābhayasaṃyuktā",
-"quick_gloss": "boon-fear"
+"quick_gloss": "giving-boon-fearlessness"
 },
 {
-"surface": "pāśāṅguśa",
-"quick_gloss": "noose-goad"
-},
-{
-"surface": "dharānvitā",
-"quick_gloss": "bearing"
+"surface": "pāśāṅguśa dharānvitā",
+"quick_gloss": "noose-goad-bearing"
 }
 ]
 },
@@ -336,7 +316,7 @@
 "tokens": [
 {
 "surface": "padmahastādi",
-"quick_gloss": "lotus-handed"
+"quick_gloss": "lotus-handed-etc"
 },
 {
 "surface": "śāntā",
@@ -351,8 +331,12 @@
 "quick_gloss": "goddess"
 },
 {
+"surface": "ca",
+"quick_gloss": "and"
+},
+{
 "surface": "kanakaprabhā",
-"quick_gloss": "gold-radiance"
+"quick_gloss": "golden-radiance"
 }
 ]
 },
@@ -364,12 +348,24 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
+"surface": "***(?",
+"quick_gloss": "***(?)ñcāpi"
+},
+{
+"surface": "vā",
+"quick_gloss": "or"
+},
+{
 "surface": "śaṅkhaṃ",
-"quick_gloss": "śaṅkha"
+"quick_gloss": "conch"
 },
 {
 "surface": "cakra",
-"quick_gloss": "cakra"
+"quick_gloss": "discus"
+},
+{
+"surface": "ha*(?",
+"quick_gloss": "ha*(?)tu"
 },
 {
 "surface": "ṣaḍbhujā",
@@ -385,16 +381,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "tejorcāstra",
-"quick_gloss": "tejorcāstra"
-},
-{
-"surface": "samāyuktā",
-"quick_gloss": "equipped"
+"surface": "tejorcāstra samāyuktā",
+"quick_gloss": "tejorcāstra-equipped"
 },
 {
 "surface": "devāliṅgana",
-"quick_gloss": "god-embrace"
+"quick_gloss": "god-embracing"
 },
 {
 "surface": "tatparā",
@@ -414,12 +406,12 @@
 "quick_gloss": "pendant"
 },
 {
-"surface": "bālambitā",
-"quick_gloss": "bāla"
+"surface": "la*(?",
+"quick_gloss": "la*(?)pā*(?)bālambitā"
 },
 {
 "surface": "parivādakā",
-"quick_gloss": "surrounding"
+"quick_gloss": "parivādakā"
 }
 ]
 },
@@ -432,7 +424,7 @@
 "tokens": [
 {
 "surface": "śyāmāśvenāthavaktā",
-"quick_gloss": "dark-horse-faced"
+"quick_gloss": "dark-horse-or-faced"
 },
 {
 "surface": "ca",
@@ -443,12 +435,12 @@
 "quick_gloss": "for-practitioner"
 },
 {
-"surface": "na",
-"quick_gloss": "not"
+"surface": "ca",
+"quick_gloss": "and"
 },
 {
-"surface": "pātata",
-"quick_gloss": "fall"
+"surface": "na pātata",
+"quick_gloss": "not-fall"
 }
 ]
 },
@@ -473,7 +465,7 @@
 },
 {
 "surface": "svadaṃṣṭrakam",
-"quick_gloss": "own-tusk"
+"quick_gloss": "own-fangs"
 }
 ]
 },
@@ -485,16 +477,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "kiṅkiṇī+mālayeveṣṭā",
-"quick_gloss": "bells-garland"
+"surface": "kiṅkiṇī",
+"quick_gloss": "small-bells"
 },
 {
-"surface": "pādanūpura",
-"quick_gloss": "anklet"
+"surface": "mālayeveṣṭā",
+"quick_gloss": "garland-like"
 },
 {
-"surface": "saṃyutam",
-"quick_gloss": "endowed"
+"surface": "pādanūpura saṃyutam",
+"quick_gloss": "anklet-equipped"
 }
 ]
 },
@@ -506,8 +498,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
+"surface": "...",
+"quick_gloss": "?"
+},
+{
 "surface": "jñopavītaṃ",
-"quick_gloss": "jñopavīta"
+"quick_gloss": "sacred-thread"
 },
 {
 "surface": "ca",
@@ -528,11 +524,11 @@
 "tokens": [
 {
 "surface": "karṇayorubhayoścaiva",
-"quick_gloss": "in-both-ears"
+"quick_gloss": "both-ears"
 },
 {
 "surface": "hastayorubhayorapi",
-"quick_gloss": "in-both-hands"
+"quick_gloss": "both-hands"
 }
 ]
 },
@@ -545,7 +541,7 @@
 "tokens": [
 {
 "surface": "lūtavṛścikasaṃyuktaṃ",
-"quick_gloss": "spider-scorpion"
+"quick_gloss": "spider-scorpion-equipped"
 },
 {
 "surface": "karṇamālā",
@@ -586,11 +582,11 @@
 },
 {
 "surface": "tu",
-"quick_gloss": "tu"
+"quick_gloss": "but"
 },
 {
 "surface": "dakṣiṇe",
-"quick_gloss": "right"
+"quick_gloss": "on-right"
 }
 ]
 },
@@ -639,12 +635,8 @@
 "quick_gloss": "god"
 },
 {
-"surface": "aghorāstrādhi",
-"quick_gloss": "aghora-astra"
-},
-{
-"surface": "daivatam",
-"quick_gloss": "deity"
+"surface": "aghorāstrādhi daivatam",
+"quick_gloss": "aghora-weapon-presiding-deity"
 }
 ]
 }
