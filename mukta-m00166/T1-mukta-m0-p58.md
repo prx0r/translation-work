@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p58-v1426
-[good](su) [rain](vṛṣṭiḥ) [auspicious](su) [shower](vṛṣṭiḥ)
+su(good) vṛṣṭiḥ(rain)
 
 ## mukta-m0-p58-v1427
-[nourishment](puṣṭi) [sole](eka) [cause](hetuḥ) [well](su) [manifest](vikāsi) [sight](dṛṣṭeḥ)
+puṣṭi(nourishment) eka(one) hetu(cause) su(good) vikāsi(blossoming) dṛṣṭi(sight)
 
 ## mukta-m0-p58-v1428
-[cause](hetoḥ) [durga](durga) [art](kalā) [also](api) [spread](pravitatā) [devotion](bhaktiḥ) [new](nava) [limb](aṅka) [arrival](āgamat)
+hetu(cause) durga(difficult) kalā(art) api(also) pravitatā(spread) bhakti(devotion) nava(new) aṅka(mark) āgamat(came)
 
 ## mukta-m0-p58-v1429
-[ninth](navamī) [devotion](bhaktiḥ) [new](nava) [worship](bhaktiḥ)
+navamī(ninth) bhakti(devotion)
 
 ## mukta-m0-p58-v1430
-[crop](sasya) [increasing](varddhinī) [grain](sasya) [growth](varddhinī)
+sasya(grain) varddhinī(increasing)
 
 ## mukta-m0-p58-v1431
-[seed](bīja) [state](tvaṃ) [which](yat) [compassion](dayā) [bound](baddhaṃ) [she](sā) [goddess](devī) [crop](sasya) [increasing](varddhinī)
+bīja(seed) tvaṃ(ness) yad(which) dayā(compassion) baddha(bound) sā(that) devī(goddess) sasya(grain) varddhinī(increasing)
 
 ## mukta-m0-p58-v1432
-[a](a) [syllable](kārā) [first](a) [letter](kāra)
+a(akāra) kārā(form)
 
 ## mukta-m0-p58-v1433
-[womb](garvaḥ) [not-small](akharvaḥ) [all](sarva) [color](varṇa) [one](eka) [prior](pūrvā) [with-form](sākārā) [this](iyam) [sung](gīyate) [yogi-lords](yogināthaiḥ)
+garva(pride) akharva(not-small) sarva(all) varṇa(letter) eka(one) pūrvā(first) sā(that) ākāra(form) iyam(this) gīyate(sung) yogināthaiḥ(lords-of-yoga)
 
 ## mukta-m0-p58-v1434
-[i](i) [syllable](kārā) [i-vowel](i) [sound](kāra)
+i(ikāra) kārā(form)
 
 ## mukta-m0-p58-v1435
-[lovely](ramyā) [i-syllable](ekārā) [she](seyam) [a-less](ākārahīnā) [without-a](ākārahīnā)
+ramya(pleasant) ikārā(ikāra) sā(that) iyam(this) ākāra(ākāra) hīnā(devoid)
 
 ## mukta-m0-p58-v1436
-[u](u) [syllable](kārā) [u-vowel](u) [sound](kāra)
+u(ukāra) kārā(form)
 
 ## mukta-m0-p58-v1437
-[that-u](sokārā) [this](iyam) [praised](kīrtitā) [form-knowers](mūrtavidbhiḥ) [embodied](mūrta) [knowers](vidbhiḥ)
+sā(that) ukāra(ukāra) iyam(this) kīrtitā(praised) mūrti(form) vidbhiḥ(knowers)
 
 ## mukta-m0-p58-v1438
-[ai](ai) [form](rūpiṇī) [ai-shaped](aikārarūpiṇī) [goddess](devatā)
+aikāra(aikāra) rūpiṇī(form)
 
 ## mukta-m0-p58-v1439
-[new](navaṃ) [new](navaṃ) [auspicious](subhavyānāṃ) [deity](devatā) [ai-form](aikārarūpiṇī)
+nava(new) nava(new) subhavyānāṃ(auspicious-ones) devatā(deity) aikāra(aikāra) rūpiṇī(form)
 
 ## mukta-m0-p58-v1440
-[hrīṃ](hrīṃ) [syllable](kārī) [hrīṃ-maker](hrīṃkārī) [mantra](hrīṃ)
+hrīṃ(hrīṃ) kārī(form)
 
 ## mukta-m0-p58-v1441
-[hrīṃ-maker](hrīṃkārī) [this](iyam) [heart](hṛd) [gone](gatā) [us](naḥ) [always](sadā) [be](stu)
+hrīṃ(hrīṃ) kārī(form) iyam(this) hṛd(heart) gatā(gone) naḥ(our) sadā(always) astu(be)
 
 ## mukta-m0-p58-v1442
-[seed](bīja) [form](rūpā) [seed-shaped](bījarūpā) [mantra](bīja)
+bīja(seed) rūpā(form)
 
 ## mukta-m0-p58-v1443
-[she](sā) [seed](bīja) [form](rūpā) [veda](nigama) [tree](drumasya) [scripture](nigama) [tree](druma)
+sā(that) bīja(seed) rūpā(form) nigama(scripture) drumasya(tree)
 
 ## mukta-m0-p58-v1444
-[klīṃ](klīṃ) [syllable](kārā) [klīṃ-maker](klīṃkārā) [mantra](klīṃ)
+klīṃ(klīṃ) kārā(form)
 
 ## mukta-m0-p58-v1445
-[always](nityaṃ) [desire](kāmāt) [him](taṃ) [how](kathaṃ) [not](na) [remember](smaranti) [love](kāma) [recall](smara)
+nityaṃ(always) kāma(desire) at(taṃ) kathaṃ(how) na(not) smaranti(remember)
 
 ## mukta-m0-p58-v1446
-[sky](ambara) [dwelling](vāsinī) [sky-dweller](ambaravāsinī) [ether](ambara)
+ambara(sky) vāsinī(dwelling)
 
 ## mukta-m0-p58-v1447
-[self](svayaṃ) [objectless](nirviṣayā) [know](jāne) [become](saṃvṛttā) [sky-dweller](ambaravāsinī) [ether](ambara) [dweller](vāsinī)
+svayaṃ(self) nirviṣayā(objectless) jāne(know) saṃvṛttā(become) ambara(sky) vāsinī(dwelling)
 
 ## mukta-m0-p58-v1448
-[all](sarva) [syllable](akṣara) [full](mayī) [power](śaktiḥ) [all-letters](sarvākṣara) [energy](śakti)
+sarva(all) akṣara(letter) mayī(consisting) śakti(power)
 
 ## mukta-m0-p58-v1449
-[all](sarva) [syllable](akṣara) [full](mayī) [power](śaktiḥ) [shine](sphuratāt) [heart](hṛdaye) [mine](mama) [all-letters](sarvākṣara) [energy](śakti)
+sarva(all) akṣara(letter) mayī(consisting) śakti(power) sphuratāddhṛdaye(heart) mama(mine)
 
 ## mukta-m0-p58-v1450
-[syllable](akṣarā) [letter](akṣara) [imperishable](akṣara) [sound](akṣara)
+akṣarā(letter)
