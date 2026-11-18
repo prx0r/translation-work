@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p07-v151
-[gloss](pāpiṣṭhānāmihācāro) [gloss](yathā) [gloss](sarvajugupsitam)
+[of-sinners](pāpiṣṭhānām) [here-conduct](ihācāro) [as](yathā) [by-all-despised](sarvajugupsitam)
 
 ## mukta-m0-p07-v152
-[gloss](karoti) [gloss](tadvatpretyāpi) [gloss](parānaṃdasukhaṃ) [gloss](bhavet)
+[does](karoti) [likewise](tadvat) [after-death-too](pretyāpi) [supreme-bliss-happiness](parānaṃdasukhaṃ) [may-be](bhavet)
 
 ## mukta-m0-p07-v153
-[gloss](sukhasya) [gloss](saṃbhavonānya) [gloss](vartmanā) [gloss](padmalocane)
+[of-happiness](sukhasya) [origin](saṃbhavo) [not-other](nānya) [path](vartmanā) [lotus-eyed](padmalocane)
 
 ## mukta-m0-p07-v154
-[gloss](sa) [gloss](eva) [gloss](mārgodumārgo) [gloss](aparaḥ) [gloss](parikīrtitaḥ)
+[that](sa) [indeed](eva) [path](mārgo) [bad-path](dumārgo) [other](aparaḥ) [proclaimed](parikīrtitaḥ)
 
 ## mukta-m0-p07-v155
-[gloss](teṣu) [gloss](sarvatra) [gloss](sāmyena) [gloss](liṃgānaṃdaḥ) [gloss](pravartate)
+[in-them](teṣu) [everywhere](sarvatra) [equality](sāmyena) [linga-bliss](liṃgānaṃdaḥ) [proceeds](pravartate)
 
 ## mukta-m0-p07-v156
-[gloss](na) [gloss](vai) [gloss](jātiṃ) [gloss](vināduṣṭāmanyajātiṣu) [gloss](vidyate)
+[not](na) [indeed](vai) [caste](jātiṃ) [without](vinā) [corrupted](duṣṭām) [in-other-castes](anyajātiṣu) [exists](vidyate)
 
 ## mukta-m0-p07-v157
-[gloss](mithyābhimānadarpāndhāmithyādoṣāti) [gloss](śaṃkinī)
+[false-pride-arrogance-blind](mithyābhimānadarpāndhā) [false-faults-excess](mithyādoṣāti) [suspicious](śaṃkinī)
 
 ## mukta-m0-p07-v158
-[gloss](paśupakṣimṛgādyeṣu) [gloss](naitādṛkkrama) [gloss](saṃbhavaḥ)
+[in-animals-birds-beasts-etc](paśupakṣimṛgādyeṣu) [not-such-order](naitādṛkkrama) [origin](saṃbhavaḥ)
 
 ## mukta-m0-p07-v159
-[gloss](na) [gloss](ravarjā) [gloss](sarvajātirvarta) [gloss](mānāvalaṃbinī)
+[not](na) [all-caste](sarvajātir) [present-dependent](vartamānāvalambinī)
 
 ## mukta-m0-p07-v160
-[gloss](na) [gloss](vācyavācakākāra) [gloss](śāstracarcā) [gloss](piśācikā)
+[not](na) [word-object-form](vācyavācakākāra) [scripture-discussion](śāstracarcā) [demoness](piśācikā)
 
 ## mukta-m0-p07-v161
-[gloss](na) [gloss](kauṭilyaṃ) [gloss](ca) [gloss](manaso) [gloss](na) [gloss](droho) [gloss](nābhimānatā)
+[not](na) [crookedness](kauṭilyaṃ) [and](ca) [of-mind](manaso) [not](na) [hostility](droho) [not](na) [pride](abhimānatā)
 
 ## mukta-m0-p07-v162
-[gloss](suṣupsāyāṃ) [gloss](paraṃ) [gloss](nidrā) [gloss](nānyaḥ) [gloss](ko'pi) [gloss](manojvaraḥ)
+[in-sleepiness](suṣupsāyāṃ) [supreme](paraṃ) [sleep](nidrā) [not-other](nānyaḥ) [any](ko'pi) [mind-fever](manojvaraḥ)
 
 ## mukta-m0-p07-v163
-[gloss](nānāmārgakṛtārohaḥ) [gloss](kutrāpya) [gloss](dṛdalaṃbanaḥ)
+[various-paths-made-ascent](nānāmārgakṛtārohaḥ) [somewhere](kutrāpya) [firm-support](dṛḍhalaṃbanaḥ)
 
 ## mukta-m0-p07-v164
-[gloss](ataḥ) [gloss](sarvāsu) [gloss](jātiṣvapyakhaṃḍita) [gloss](parākramam)
+[therefore](ataḥ) [in-all-castes](sarvāsu+jātiṣu) [unbroken](akhaṃḍita) [valor](parākramam)
 
 ## mukta-m0-p07-v165
-[gloss](ānaṃdanāthamīśānaṃ) [gloss](na) [gloss](viṃdaṃtidurāśayāḥ)
+[bliss-lord](ānaṃdanātham) [lord](īśānaṃ) [not](na) [find](viṃdanti) [evil-minded](durāśayāḥ)
 
 ## mukta-m0-p07-v166
-[gloss](ityānaṃdatantre) [gloss](caturthaḥ) [gloss](paṭalaḥ)
+[thus](iti) [bliss-tantra](ānaṃdatantre) [fourth](caturthaḥ) [chapter](paṭalaḥ)
 
 ## mukta-m0-p07-v167
-[gloss](maṃtramānaṃda) [gloss](devyāśca) [gloss](śruṇuvīraniṣevite)
+[mantra-bliss](maṃtramānaṃda) [of-goddess](devyāśca) [hear](śruṇu) [hero-served](vīraniṣevite)
 
 ## mukta-m0-p07-v168
-[gloss](samastasiddhijanakasāṃdrānaṃda) [gloss](mahodayaḥ)
+[all-accomplishments-causing](samastasiddhijanaka) [dense-bliss](sāṃdrānaṃda) [great-rise](mahodayaḥ)
 
 ## mukta-m0-p07-v169
-[gloss](nāthāyeti) [gloss](padaṃ) [gloss](paścāt) [gloss](procyabrūyāṃ) [gloss](navātmikām)
+[lord](nāthāya) [thus](iti) [word](padaṃ) [afterwards](paścāt) [speak](procyabrūyāṃ) [nine-souled](navātmikām)
 
 ## mukta-m0-p07-v170
-[gloss](praṇavādirmahāmaṃtraḥ) [gloss](prokto) [gloss](viṃśati) [gloss](varṇavān)
+[om-beginning](praṇavādi) [great-mantra](mahāmaṃtraḥ) [proclaimed](prokto) [twenty](viṃśati) [letters-having](varṇavān)
 
 ## mukta-m0-p07-v171
-[gloss](navātmamithunākhyā) [gloss](ca) [gloss](mahānaṃdakalātmikā)
+[nine-soul-couple-named](navātmamithunākhyā) [and](ca) [great-bliss-digit-souled](mahānaṃdakalātmikā)
 
 ## mukta-m0-p07-v172
-[gloss](anayāsadṛśo) [gloss](maṃtrastvanayāsadṛśaṃ) [gloss](tapaḥ)
+[by-this](anayā) [similar](sadṛśo) [mantra](maṃtras) [and](tu) [by-this](anayā) [similar](sadṛśaṃ) [austerity](tapaḥ)
 
 ## mukta-m0-p07-v173
-[gloss](liṃgayoni) [gloss](sadāsaṃgā) [gloss](kāreṇasatataṃ) [gloss](mayā)
+[linga-yoni](liṃgayoni) [always-union](sadāsaṃgā) [by-action](kāreṇa) [constantly](satataṃ) [by-me](mayā)
 
 ## mukta-m0-p07-v174
-[gloss](māṃ) [gloss](vinānaivajānaṃti) [gloss](vidyāmetāṃ) [gloss](mahodayām)
+[me](māṃ) [without](vinā) [not](na) [eva](eva) [know](jānaṃti) [vidyā](vidyām) [this](etāṃ) [great-rise](mahodayām)
 
 ## mukta-m0-p07-v175
-[gloss](upadiṣṭaṃ) [gloss](mayā) [gloss](pūrvameṣā) [gloss](sā) [gloss](ca) [gloss](muradviṣe)
+[taught](upadiṣṭaṃ) [by-me](mayā) [before](pūrvam) [this](eṣā) [she](sā) [and](ca) [to-Vishnu](muradviṣe)
