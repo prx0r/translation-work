@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p32-v776
-[skull](kapāla) [fearless](abhaya) [hand](hasta) [fierce](ugrā) [left](vāma) [etc](ādyā) [nine](nava) [powers](śaktayaḥ)
+[kapala-abhaya-hasta-ugra](kapālābhayahastogrā) [vama-adi-nava-shakti](vāmādyā navaśaktayaḥ)
 
 ## mukta-m0-p32-v777
-[two](dvī) [skin](picarma) [snake](ahi) [bearer](bhṛt) [peaceful](śānta) [three-eyed](tryakṣa) [matted-hair](jaṭā) [moon-ornamented](indubhūṣita)
+[dvipi-carma-ahi-bhrit-shanta-tri-aksha-jata-indu-bhushita](dvīpicarmāhibhṛcchāntastryakṣo jaṭendubhūṣitaḥ)
 
 ## mukta-m0-p32-v778
-[six-limbs](aṅgaṣaṭka) [endowed](samāyukta) [quickly](śīghraṃ) [becomes](syāt) [accomplishment-giving](siddhidāyaka)
+[anga-shatka-samyukta-shighra-siddhi-dayaka](aṅgaṣaṭkasamāyuktaḥ śīghraṃ syātsiddhidāyakaḥ)
 
 ## mukta-m0-p32-v779
-[youth](yuvayauvana) [old](vṛddha) [woman](strī) [child](bāla) [form](ābha) [five-faced](pañcavaktra) [bearer](bhṛt)
+[yuva-yauvana-vriddha-stri-bala-bha-panca-vaktra-bhrit](yuvayauvanavṛddhastrībālābhaḥ pañcavaktrabhṛt)
 
 ## mukta-m0-p32-v780
-[left](vāmena) [fear](bhaya) [mantra-marked](mantrāṅka) [skull](kapāla) [lotus](utpala) [full](pūra) [bearer](bhṛt)
+[vamena-bhaya-mantra-anka-kapala-utpala-pura-bhrit](vāmenā bhayamantrāṅka kapālotpalapūra bhṛt)
 
 ## mukta-m0-p32-v781
-[sight](dṛg) [red](rakta) [sword](asi) [fire](hutāśa) [colored](ābhāḥ) [all](sarve) [three-eyed](tryakṣā) [matted](jaṭā) [endowed](nvitāḥ)
+[drik-rakta-asi-hutasha-abha-sarve-tri-aksha-jata-anvita](dṛgraktāsihutāśābhāḥ sarve tryakṣā jaṭānvitāḥ)
 
 ## mukta-m0-p32-v782
-[brown](babhru) [brow](bhrū) [mustache](śmaśru) [dreadful](bhīma) [weapon](astra) [yellow](pīta) [own-weapon](svaśastra) [bearer](bhṛt)
+[babhru-bhru-shmashru-da-bhima-astra-pita-sva-shastra-bhrit](babhrubhrūśmaśruddā?bhīmamastraṃ pītaṃ svaśastra bhṛt)
 
 ## mukta-m0-p32-v783
-[power](śakti) [thunderbolt](vajra) [rosary](akṣamālā) [noose](sī) [disc](cakra) [right](dakṣiṇe) [sometimes](kvacit)
+[shakti-vajra-aksha-mala-si-cakra-dakshine-kvacit](śakti vajrākṣamālāsicakrāṇi dakṣiṇe kvacit)
 
 ## mukta-m0-p32-v784
-[one-faced](ekāsya) [five-faced](pañcavaktra) [or](vā) [three-eyed](tryakṣa) [matted-moon-bearing](jaṭendubhṛc) [shiva](śiva)
+[eka-asya-panca-vaktra-va-tri-aksha-jata-indu-bhrit-shiva](ekāsyaḥ pañcavaktro vā tryakṣo jaṭendubhṛcchivaḥ)
 
 ## mukta-m0-p32-v785
-[corner](koṇeṣu) [and](ca) [one](eka) [rudra-etc](rudrādyāḥ) [white](sita) [blue](nīla) [red](lohita)
+[kone-shu-ca-eka-rudra-adya-sita-asam-nila-lohita](koṇeṣu caika rudrādyāḥ sitāsaṅnīlalohitāḥ)
 
 ## mukta-m0-p32-v786
-[shiva-weapon-bearing](śivāyudhadhara) [three-eyed](stryakṣa) [hook](sṛṇi) [sword](asi) [without](vinā) [sometimes](kvacit)
+[shiva-ayudha-dhara-tri-aksha-srin-yasi-bhyam-vina-kvacit](śivāyudhadharāstryakṣāḥ sṛṇyasibhyāṃ vinā kvacit)
 
 ## mukta-m0-p32-v787
-[folded-hands](puṭāñjali) [all](sarve) [vidyesha](vidyeśa) [one-faced](ekavaktraka)
+[puta-anjali-kara-sarve-vidyesha-eka-vaktraka](puṭāñjalikarāḥ sarve vidyeśāścaikavaktrakāḥ)
 
 ## mukta-m0-p32-v788
-[boon](vara) [fearless](abhaya) [skull](kapāla) [lotus](abja) [matted-moon-snake](jaṭendvajinanāga) [bearer](bhṛt)
+[vara-abhaya-kapala-abja-jata-indu-jina-naga-bhrit](varābhayakapālābjajaṭendvajinanāgabhṛt)
 
 ## mukta-m0-p32-v789
-[right](dakṣiṇe) [trident](śūla) [sword](nistriśa) [axe](kuṭhāra) [fearless](abhaya) [bearer](dhāraka)
+[dakshine-shula-nistrisha-kuthara-abhaya-dharaka](dakṣiṇe śūlanistriśakuṭhārābhayadhārakaḥ)
 
 ## mukta-m0-p32-v790
-[garland-of-skulls](muṇḍamālī) [corpse-mounted](śavārūḍha) [dual-to-nondual](dvaitādvaite) [in-order](kramāt) [opinion](mata)
+[munda-mali-shava-arudho-dvaita-advaita-kramat-mata](muṇḍamālī śavārūḍho dvaitādvaite kramānmataḥ)
 
 ## mukta-m0-p32-v791
-[gentle](saumya) [smiling-faced](prahasitāsya) [moon-crested](candramauli) [matted-haired](jaṭādhara)
+[saumya-prahasita-asya-candra-mauli-jata-dharam](saumyaṃ prahasitāsyaṃ ca candramauliṃ jaṭādharam)
 
 ## mukta-m0-p32-v792
-[snake-girdle](nāgendramekhalā) [endowed](yukta) [all-ornaments](sarvābharaṇa) [adorned](bhūṣita)
+[naga-indra-mekhala-yukta-sarva-abharana-bhushitam](nāgendramekhalāyuktaṃ sarvābharaṇabhūṣitam)
 
 ## mukta-m0-p32-v793
-[dancing](nṛtyanta) [greatly-delighted](mahāhṛṣṭa) [weapon-filled](āyudhākula) [handed](pāṇina)
+[nrityanta-maha-hrishta-ayudha-akula-paninam](nṛtyantaṃ mahāhṛṣṭamāyudhākula pāṇinam)
 
 ## mukta-m0-p32-v794
-[strength](bala) [arm](bāhu) [one](eka) [making](kṛtvā) [in-heart](hṛdi) [placed](sthitam)
+[bala-nakara-bahu-ekam-kritva-hridi-sthitam](balanākārakaṃ bāhumekaṃ kṛtvā hṛdi sthitam)
 
 ## mukta-m0-p32-v795
-[left](vāme) [extended-arm](pratānitabhuja) [properly](samyak) [making](kṛtvā) [beautiful](suśobhana)
+[vame-pratanita-bhujam-samyak-kritva-su-shobhanam](vāme pratānitabhujaṃ samyak kṛtvā suśobhanam)
 
 ## mukta-m0-p32-v796
-[all-peace-making](sarvaśāntikara) [should-do](kuryāt) [thus](ityevaṃ) [gentle-form](saumyarūpaka)
+[sarva-shanti-karam-kuryad-ityevam-saumya-rupakam](sarvaśāntikaraṃ kuryādityevaṃ saumyarūpakam)
 
 ## mukta-m0-p32-v797
-[skanda](skanda) [nandi](nandi) [mahakala](mahākāla) [ganesha](gaṇeśa) [host](gaṇa) [accompanied](saṃyuta)
+[skanda-nandi-mahakala-ganesha-gana-samyutam](skandanandimahākālagaṇeśagaṇasaṃyutam)
 
 ## mukta-m0-p32-v798
-[with-joy](sānanda) [form-endowed](rūpasampanna) [being-seen](vīkṣyamāṇa) [great-lord](maheśvara)
+[sanandai-rupa-sampannair-vikshyamanam-maheshvaram](sānandai rūpasampannairvīkṣyamāṇaṃ maheśvaram)
 
 ## mukta-m0-p32-v799
-[before-that](tadagre) [dancing](pranṛtyaṃśca) [bhṛṅgī](bhṛṅgī) [work](kāryaṃ) [thin](kṛśa) [very](bhṛśa)
+[tad-agre-pranrityamsh-ca-bhringi-karyam-kriso-bhrisha](tadagre ca pranṛtyaṃśca bhṛṅgīkāryaṃ kṛśo bhṛśaḥ)
 
 ## mukta-m0-p32-v800
-[distorted](vikṛta) [sharp-nosed](tīkṣṇanāsā) [thief-fire-etc](caurāgnyādipradā) [in-order](kramāt)
+[vikrita-tikshna-nasa-sh-cauragnyadi-prada-kramat](vikṛtāstīkṣṇanāsāścacaurāgnyādipradāḥ kramāt)

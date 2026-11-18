@@ -2,52 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p33-v801
-of-hara thus be-worship place place fruit-giving
+[of-hara](harasya) [thus](evaṃ) [be](bhavet) [worship](arcā) [place](sthāne) [place](sthāne) [fruit-giving](phalapradā)
+
 ## mukta-m0-p33-v802
-frowning-terrifying black licking and tusked
+[frowning-terrifying](bhrukuṭībhīṣaṇaṃ) [black](kṛṣṇaṃ) [licking](lelihānaṃ) [and](ca) [fanged](draṃṣṭriṇam)
+
 ## mukta-m0-p33-v803
-snake-sacred-threaded shining snake-ornament-adorned
+[snake-sacred-threaded](nāgopavītinaṃ) [radiant](dīptaṃ) [snake-ornament-adorned](nāgābharaṇabhūṣitam)
+
 ## mukta-m0-p33-v804
-fourteen-armed one-faced gentle tiger-skin-garmented
+[fourteen-armed-one-faced](caturdaśakaraikāsyaṃ) [gentle](saumyaṃ) [tiger-skin-garment](vyāghrājināmbaram)
+
 ## mukta-m0-p33-v805
-skull-staff shield noose bow-abhaya-skull
+[skull-staff](khaṭvāṅgaṃ) [shield](kheṭakaṃ) [noose](pāśaṃ) [bow-fear-skull](cāpābhayakapālakam)
+
 ## mukta-m0-p33-v806
-mother-beings-accompanied make Bhairava peace-causing
+[mother-beings-accompanied](mātṛbhūtānvitaṃ) [make](kuryāt) [bhairava](bhairavaṃ) [peace-making](śāntikārakam)
+
 ## mukta-m0-p33-v807
-make Aghora-ghanta-lord twice-eight-armed-adorned
+[make](kuryāt) [aghora-bell-lord](aghoraghaṇṭeśaṃ) [sixteen-armed-adorned](dviraṣṭabhujamaṇḍitam)
+
 ## mukta-m0-p33-v808
-seated always black all-desire-giving
+[seated](upaviṣṭaṃ) [always](sadā) [black](kṛṣṇaṃ) [all-desires-giving](sarvakāmapradāyakam)
+
 ## mukta-m0-p33-v809
-eighteen-armed make boon-abhaya [g: your-abhaya] devoid
+[eighteen-armed](aṣṭādaśabhujaṃ) [make](kuryāt) [boon-fear-except](varadābhaya) [devoid](varjitam)
+
 ## mukta-m0-p33-v810
-bell drum and axe hammer [k,g: mudgala] so
+[bell](ghṇṭāṃ) [drum](ḍamarukaṃ) [and](ca) [indeed](eva) [axe](kuṭhāraṃ) [mallet](mudgaraṃ) [thus](tathā)
+
 ## mukta-m0-p33-v811
-all-enemy-removing eternal mothers surrounded
+[all-enemies-removing](sarvaśatruharaṃ) [eternal](nityaṃ) [by-mothers](mātṛbhiḥ) [surrounded](parivāritam)
+
 ## mukta-m0-p33-v812
-tiger-skin-garment gentle snake-sacrificial-threaded
+[tiger-skin-garment](vyāghrājināṃśuka) [gentle](saumyaṃ) [snake-sacrificial-threaded](nāgayajñopavītinam)
+
 ## mukta-m0-p33-v813
-right gentle and bearing two explanation so
+[right](yāmye) [gentle](saumye) [and](ca) [bearing](bibhrāṇa) [by-two](dvābhyāṃ) [explanation](vyākhyānakaṃ) [thus](tathā)
+
 ## mukta-m0-p33-v814
-fair white-garmented peaceful water-pot-accompanied
+[golden](gauraṃ) [white-garmented](sitāmbaraṃ) [peaceful](śāntaṃ) [water-pot-accompanied](kamaṇḍalusamanvitam)
+
 ## mukta-m0-p33-v815
-nectar-Agama-handed and make its-sides always
+[amṛta-āgama-hand](amṛtāgamahastaṃ) [and](ca) [make](kuryāt) [its-sides](tatpārśvayoḥ) [always](sadā)
+
 ## mukta-m0-p33-v816
-half-moon-seat-seated white-lotus-middle-gone
+[half-moon-seat-seated](ardhacandrāsanāsīnaṃ) [white-lotus-middle-gone](śvetarājīvamadhyagam)
+
 ## mukta-m0-p33-v817
-divine-lion-throne-seated Brahma-etc surrounded
+[divine-lion-seat-seated](divyasiṃhāsanāsīnaṃ) [by-brahma-etc](brahmādyaiḥ) [surrounded](parivāritam)
+
 ## mukta-m0-p33-v818
-skull-garlanded white yoga-seat lotus-situated
+[skull-garlanded](kapālamālinaṃ) [white](śvetaṃ) [yoga-seat](yogāsanaṃ) [lotus-situated](kajasthitam)
+
 ## mukta-m0-p33-v819
-trident and rosary [kh,gh: but] bearing right hand
+[trident](triśūlaṃ) [and](ca) [rosary](akṣasūtraṃ) [and](ca) [bearing](bibhrāṇaṃ) [right](dakṣiṇe) [hand](kare)
+
 ## mukta-m0-p33-v820
-make Mrityunjaya god death-disease-destroying [mū,a,g: -destroyer]
+[make](kuryāt) [death-conqueror](mṛtyuñjayaṃ) [god](devaṃ) [death-disease-destroying](mṛtyurogavināśakam)
+
 ## mukta-m0-p33-v821
-left-side woman to-be-made woman-ornament-accompanied
+[left-side](vāmāṅge) [woman](lalanā) [to-be-made](kāryā) [woman-ornament-accompanied](yoṣidābharaṇānvitā)
+
 ## mukta-m0-p33-v822
-Ishvara trident skull and left japa then lotus
+[lord](īśe) [trident](śūlaṃ) [skull](kapālaṃ) [and](ca) [left](vāme) [muttering](jāpyam) [then](atha) [lotus](utpalam)
+
 ## mukta-m0-p33-v823
-earring-adorned gentle two-armed two-skin-bearing
+[earring-adorned](kuṇḍalālaṅkṛtaḥ) [gentle](saumyo) [two-armed](dvibhujo) [two-skin-bearing](dvipicarmabhṛt)
+
 ## mukta-m0-p33-v824
-mutually looking-faced right-hand-situated-lotus
+[mutually](mithaḥ) [looking-faces](saṃvīkṣyamāṇāsyo) [right-hand-situated-lotus](yāmyahastasthitotpalaḥ)
+
 ## mukta-m0-p33-v825
-to-be-done scripture-knowers by upright-linga Uma-lord
+[to-be-done](vidheyaḥ) [by-scripture-knowers](śāstravidvadbhiḥ) [upright-linga](ūrdhvaliṅga) [uma-lord](umeśvaraḥ)
