@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p77-v1901
-with-kūrca (sakūrcaṃ) cloth-wrapped (vastrasaṃveṣṭya) east-head (prākcchiraḥ) upward-face (ūrdhvavaktrakam)
+[with-kūrca](sakūrcaṃ) [cloth+wrapping](vastrasaṃveṣṭya) [eastward-head](prākcchiraś) [upward-face](corddhvavaktrakam)
 
 ## mukta-m0-p77-v1902
-with-perfumes-etc (gandhādibhiḥ) worship (samabhyarcya) by-heart (hṛdayena) but (tu) by-mantra (mantrataḥ)
+[perfumes+etc](gandhādibhiḥ) [well-worship](samabhyarcya) [by-heart](hṛdayena) [but](tu) [by-mantra](mantrataḥ)
 
 ## mukta-m0-p77-v1903
-to-her (tasyai) and (ca) north-direction (uttaradigbhāge) vardhanī (vardhanīṃ) indeed (eva) place (vinyaset)
+[to-her](tasyai) [ca](ca) [north-direction](uttaradigbhāge) [growth-vessel](vardhanīṃ) [ca](ca) [eva](eva) [place](vinyaset)
 
 ## mukta-m0-p77-v1904
-those-powers (tattacchakti) taking (samādāya) those (tattad) goddess (devīṃ) worship (samācaret)
+[that-that-shakti](tattacchaktisamādāya) [that-that](tattad) [goddess](devīṃ) [perform](samācaret)
 
 ## mukta-m0-p77-v1905
-fruit-twig-endowed (phalapallavasaṃyuktaṃ) all-perfume-possessed (sarvagandhasamāyutam)
+[fruit+sprout+endowed](phalapallavasaṃyuktaṃ) [all-perfume+endowed](sarvagandhasamāyutam)
 
 ## mukta-m0-p77-v1906
-three-eyed (triṇetraṃ) and (ca) four-armed (caturbāhuṃ) young-moon-crown-shining (bālendumakuṭojvalam)
+[three-eyed](triṇetraṃ) [ca](ca) [four-armed](caturbāhuṃ) [crescent-moon-crown-shining](bālendumakuṭojvalam)
 
 ## mukta-m0-p77-v1907
-all-ornament-endowed (sarvābharaṇasaṃyuktaṃ) bound (baddha) lotus-seat-situated (padmāsanasthitam)
+[all-ornament+endowed](sarvābharaṇasaṃyuktaṃ) [bound](baddha) [lotus-seat](padmāsanasthitam)
 
 ## mukta-m0-p77-v1908
-in-vardhanī (varddhanyāṃ) vardhanī (varddhanī) seed (bījaṃ) meditating (dhyātvā) and (ca) indeed (eva) manonmanī (manonmanīm)
+[in-growth-vessel](varddhanyāṃ) [growth-seed](varddhanī) [bījaṃ](bījaṃ) [meditating](dhyātvā) [ca](ca) [eva](eva) [manonmanī](manonmanīm)
 
 ## mukta-m0-p77-v1909
-all-ornament-endowed (sarvābharaṇasaṃyuktāṃ) two (dvau) hands (hastau) lotus-endowed (padmasaṃyutām)
+[all-ornament+endowed](sarvābharaṇasaṃyuktāṃ) [two](dvau) [hands](hastau) [lotus+endowed](padmasaṃyutām)
 
 ## mukta-m0-p77-v1910
-manifest-unmanifest-great-armed (vyaktāvyaktamahābāhuṃ) blue-neck (nīlagrīva) great-splendor (mahādyutiḥ)
+[manifest-unmanifest](vyaktāvyaktamahābāhuṃ) [blue-throated](nīlagrīva) [great-radiance](mahādyutiḥ)
 
 ## mukta-m0-p77-v1911
-three-eyed (trayakṣaṃ) four-armed (caturbhujaṃ) and (ca) indeed (eva) tiger-skin-garment-lord (vyāghracarmāmbaraprabhum)
+[three-eyed](trayakṣaṃ) [four-armed](caturbhujaṃ) [ca](ca) [eva](eva) [tiger-skin-garment-lord](vyāghracarmāmbaraprabhum)
 
 ## mukta-m0-p77-v1912
-all-mark-endowed (sarvalakṣaṇasaṃyuktaṃ) all-ornament-adorned (sarvābharaṇabhūṣitam)
+[all-marks+endowed](sarvalakṣaṇasaṃyuktaṃ) [all-ornament+adorned](sarvābharaṇabhūṣitam)
 
 ## mukta-m0-p77-v1913
-divine-garment-wearing (divyāmbaradharaṃ) goddess (devīṃ) two-eyed (dvinetrā) two-armed-shining (dvibhujojvalām)
+[divine-garment-wearing](divyāmbaradharaṃ) [goddess](devīṃ) [two-eyed](dvinetrā) [two-armed-shining](dvibhujojvalām)
 
 ## mukta-m0-p77-v1914
-middle-slender-graceful (madhyakṣāmavilāsāṃ) and (ca) red-lotus-handed (raktotphalakarā) auspicious (śubhām)
+[middle-slender-graceful](madhyakṣāmavilāsāṃ) [ca](ca) [red-lotus-handed](raktotphalakarā) [auspicious](śubhām)
 
 ## mukta-m0-p77-v1915
-neck (grive) by-auspicious-thread (maṅgalasūtreṇa) all-ornament-adorned (sarvabhūṣaṇabhūṣitām)
+[on-neck](grive) [auspicious-thread](maṅgalasūtreṇa) [all-ornament+adorned](sarvabhūṣaṇabhūṣitām)
 
 ## mukta-m0-p77-v1916
-Kumāra (kumāraṃ) manonmā (manonmā) make (kuryāt) all-mark-endowed (sarvalakṣaṇasaṃyutam)
+[boy](kumāraṃ) [manonmā](manonmā) [make](kuryāt) [all-marks+endowed](sarvalakṣaṇasaṃyutam)
 
 ## mukta-m0-p77-v1917
-single-seat-seated (ekāsanasamāsīnaṃ) two-armed (dvibhujā) two-eyes (locanadvayam)
+[one-seat-seated](ekāsanasamāsīnaṃ) [two-armed](dvibhujā) [two-eyes](locanadvayam)
 
 ## mukta-m0-p77-v1918
-Kumāra (kumāraṃ) with-lovers (ramaṇairyuktaṃ) army-lord (devasenāpatiṃ) thus (tathā)
+[boy](kumāraṃ) [with-lovers](ramaṇairyuktaṃ) [devasenāpati](devasenāpatiṃ) [tathā](tathā)
 
 ## mukta-m0-p77-v1919
-axe-hand-endowed (ṭaṅkahastasamāyuktaṃ) place (nyaset) of-pot (kumbhasya) in-middle (madhyame)
+[axe-handed+endowed](ṭaṅkahastasamāyuktaṃ) [place](nyaset) [of-pot](kumbhasya) [in-middle](madhyame)
 
 ## mukta-m0-p77-v1920
-blue-cloud-like (nīlajīmūtasaṃkāśaṃ) staff-handed (daṇḍahastaṃ) three-eyed (trilocanam)
+[blue-cloud-like](nīlajīmūtasaṃkāśaṃ) [staff-handed](daṇḍahastaṃ) [three-eyed](trilocanam)
 
 ## mukta-m0-p77-v1921
-that (tat) that (tad) by-seed (bījena) by-mantra (mantreṇa) that (tat) that (tad) seed (bījaṃ) worship-well (supūjayet)
+[that-that](tat) [that](tad) [bīja](bījena) [mantra](mantreṇa) [that-that](tat) [that](tad) [bīja](bījaṃ) [well-worship](supūjayet)
 
 ## mukta-m0-p77-v1922
-trough-purpose-water-filled (droṇārthatoyasaṃpūrṇān) with-gold (sahaimān) cloth-endowed (vastrasaṃyutān)
+[droṇa-worth-water-filled](droṇārthatoyasaṃpūrṇān) [with-gold](sahaimān) [cloth+endowed](vastrasaṃyutān)
 
 ## mukta-m0-p77-v1923
-that (tat) that (tan) * (ma) * (kai) bibai (bibai) worship (pūjayet) supreme-lord (parameśvaram)
+[that](tat) [tan](tan) [ma](ma) [kai](kai) [bibai](bibai) [worship](pūjayet) [supreme-lord](parameśvaram)
 
 ## mukta-m0-p77-v1924
-outside-altar (vedibāhye) but (tu) around (paritaḥ) eight-auspicious (aṣṭamaṅgali) place (vinyaset)
+[altar-outside](vedibāhye) [tu](tu) [around](paritaḥ) [eight-auspicious](aṣṭamaṅgali) [place](vinyaset)
 
 ## mukta-m0-p77-v1925
-ten-weapons (daśāyudhāni) around (paryantaṃ) own (sve) own (sve) places (sthāneṣu) place (vinyaset)
+[ten-weapons](daśāyudhāni) [around](paryantaṃ) [own-own](sve) [sve](sve) [places](sthāneṣu) [place](vinyaset)

@@ -2,52 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p23-v551
-brick+or+clay+or+lime+make
+[brick](iṣṭikābhiḥ) [and](ca) [clay](mṛdbhiḥ) [or](vā) [lime](sudhayā) [or](vā) [atha](atha) [make](kārayet)
+
 ## mukta-m0-p23-v552
-above+that+lotus+draw+eight-petal
+[above-that](tadūrdhve) [lotus](padmam) [having-drawn](ālikhya) [petal-eight-endowed](dalāṣṭakasamanvitam)
+
 ## mukta-m0-p23-v553
-as+pleasing+make+or+best+teacher
+[as](yathā) [pleasing](manoramaṃ) [make](kuryāt) [or](athavā) [best-teacher](deśikottamaḥ)
+
 ## mukta-m0-p23-v554
-weapon+and+cloth+and+image-front+or+shiva-front
+[weapon](astraṃ) [and](ca) [eva](eva) [cloth](paṭaṃ) [and](ca) [eva](eva) [image-front](bimbāgre) [or](vā) [śiva-front](śivāgrake)
+
 ## mukta-m0-p23-v555
-trident+and+cloth+and+image+especially
+[trident](triśūlaṃ) [and](ca) [cloth](paṭaṃ) [and](ca) [eva](eva) [image](bimbaṃ) [and](ca) [eva](eva) [especially](viśeṣataḥ)
+
 ## mukta-m0-p23-v556
-homa+do+then+village+etc+cities+make
+[homa](homaṃ) [having-done](kṛtvā) [then](tadā) [village](grāme) [city](nagarādiṣu) [make](kārayet)
+
 ## mukta-m0-p23-v557
-sandal+flower+etc+worship+flower+gayatri-mantra
+[perfume-flowers-etc](gandhapuṣpādibhiḥ) [worship](pūjyā) [flower](puṣpaṃ) [gāyatrī-mantra](gāyatrimantrataḥ)
+
 ## mukta-m0-p23-v558
-or+binding+path+all+ornament+endowed
+[or](athavā) [bond-path](bandhamārgeṇa) [all-ornaments-endowed](sarvālaṅkārasaṃyutam)
+
 ## mukta-m0-p23-v559
-bathing+make+there+auspicious-day+recite+wise
+[consecration](snapanaṃ) [make](kārayet) [there](tatra) [auspicious-day](puṇyāhaṃ) [recite](vācayed) [wise](budhaḥ)
+
 ## mukta-m0-p23-v560
-brahmins+feed+after+teacher+worship+always
+[brāhmaṇas](brāhmaṇān) [feed](bhojayet) [after](paścāt) [ācārya](ācāryaṃ) [worship](pūjayet) [always](sadā)
+
 ## mukta-m0-p23-v561
-flag-raising+before+night+drum+strike
+[flag-raising-worship-before](dhvajārohaṇapūrveyu) [night](rātrau) [drum](bheryāḥ) [striking](tāḍanam)
+
 ## mukta-m0-p23-v562
-rice+eighth-part+and+fan+sixteenth-part
+[rice-eighth-part](taṇḍulasyāṣṭabhāgaṃ) [and](ca) [fan](vyajanaṃ) [sixteenth-part](ṣoḍaśāṃśakam)
+
 ## mukta-m0-p23-v563
-fruit+etc+food+items+tenth-part+give+in-order
+[fruit-etc-eatables](phalādi) [bhakṣaṇa-dravyaiḥ](bhakṣaṇadravyair) [tenth-part](daśāṃśaṃ) [give](dāpayet) [in-order](kramāt)
+
 ## mukta-m0-p23-v564
-sprout-offering+before+night+only+strike
+[sprout-offering-before](aṅkurārpaṇapūrve) [tu](tu) [night](rātrāu) [eva](eva) [strike](pratāḍayet)
+
 ## mukta-m0-p23-v565
-sprinkle+five-cow-products+nandi-gayatri-mantra
+[sprinkle](prokṣayet) [pañcagavya](pañcagavyena) [nandī-gāyatrī-mantra](nandigāyatrimantrataḥ)
+
 ## mukta-m0-p23-v566
-pavilion+of+middle+of+circumambulation+middle
+[pavilion](maṇḍapasya) [tu](tu) [middle](madhye) [tu](tu) [circumference](pariveṣasya) [middle](madhyame)
+
 ## mukta-m0-p23-v567
-apohishta+mantra+sprinkle+with+kusha-water
+[āpohiṣṭha-mantra](āpohiṣṭheti) [sprinkle](prokṣayet) [tu](tu) [kuśa-water](kuśāmbhasā)
+
 ## mukta-m0-p23-v568
-three-hands+and+width+rice+four-fingers
+[three-hasta](trihastaṃ) [ca](ca) [eva](eva) [width](vistāraṃ) [rice](śālibhiḥ) [four-angula](caturaṅgulam)
+
 ## mukta-m0-p23-v569
-by-dharma+remember+wise+sandal+flower+etc+worship
+[by-dharma](dharmeṇa) [remember](saṃsmaret) [wise](dhīmān) [perfume-flowers-etc-worship](gandhapuṣpādinārcayet)
+
 ## mukta-m0-p23-v570
-pericarp+place+trident+drum+others+make
+[pericarp](karṇikāyāṃ) [place](nyaset) [trident](śūlaṃ) [drum](bheriṃ) [ca](ca) [others](anye) [tu](tu) [make](kārayet)
+
 ## mukta-m0-p23-v571
-cloth-pair+cut+kusha-darbha+wrap
+[cloth-pair-separated](vastrayugmaparicchinnaṃ) [kuśa-darbha](kuśadarbhena) [wrapped](veṣṭitam)
+
 ## mukta-m0-p23-v572
-in-order+worship+effort+oblation+there+give
+[in-order](krameṇa) [worship-effort](ārādhyayatnena) [oblation](havis) [there](tatra) [give](pradāpayet)
+
 ## mukta-m0-p23-v573
-that-place+offering+give+nandi-gayatri+mantra
+[that-place](tasmindeśe) [offering](baliṃ) [give](dadyāt) [nandī-gāyatrī](nandigāyatri) [mantra](mantrataḥ)
+
 ## mukta-m0-p23-v574
-trident+with+evening+evening+strike
+[trident](triśūlena) [endowed](samāyuktaṃ) [sandhyā](sandhyāṃ) [sandhyā](sandhyā) [hi](hi) [strike](tāḍayet)
+
 ## mukta-m0-p23-v575
-night+thus+do+nine-nights+especially
+[night](rātryam) [thus](evaṃ) [do](prakartavyaṃ) [nine-nights](navarātraṃ) [especially](viśeṣataḥ)
