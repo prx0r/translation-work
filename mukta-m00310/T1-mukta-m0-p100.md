@@ -2,76 +2,52 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p100-v2476
-[her](tām) [thus](evaṃ) [hold](dhārayet) [goddess](devi) [having-written](likhitvā) [on-birch-leaf](bhūrjapatrake)
-
+that-thus hold goddess having-written birch-leaf
 ## mukta-m0-p100-v2477
-[with-gold](suvarṇena) [then](atha) [wrap](saṃveṣṭya) [hold](dhārayet) [with-red-cord](raktarajjunā)
-
+with-gold then wrapping hold red-cord
 ## mukta-m0-p100-v2478
-[of-armor](kavacasya) [this](asya) [amulet](guṭikā) [worn](dhṛtā) [liberation-giving](muktipradāyinī)
-
+of-this-armor [kh: śu] pill held liberation-giving
 ## mukta-m0-p100-v2479
-[greatness](mahimā) [and](ca) [great-goddess](mahādevi) [by-tongue-crore-hundreds](jihvākoṭiśataiḥ) [even](api)
-
+greatness and great-goddess with-hundred-crores-of-tongues-even
 ## mukta-m0-p100-v2480
-[unspeakable](avaktavyaṃ) [great-merit](mahāpuṇyaṃ) [all-Sarasvati-giving](sarvasārasvatapradam)
-
+unspeakable great-merit all-sarasvati-giving
 ## mukta-m0-p100-v2481
-[to-other-disciple](anyaśiṣyāya) [to-wicked](duṣṭāya) [to-slanderer](nindakāya) [to-family-seekers](kulārthinām)
-
+to-other-disciple to-wicked to-blamer of-family-seekers
 ## mukta-m0-p100-v2482
-[to-peaceful](śāntāya) [to-family-attached](kulasaktāya) [to-Shakta](śāktāya) [to-family-desiring](kulakāmine)
-
+to-peaceful to-family-devoted to-shakta to-family-desiring
 ## mukta-m0-p100-v2483
-[secret](guhyaṃ) [most-hidden](gopyatamaṃ) [hidden](gopyaṃ) [to-be-concealed](gopanīyaṃ) [like-own-yoni](svayonivat)
-
+secret most-hidden hidden to-be-concealed like-own-yoni
 ## mukta-m0-p100-v2484
-[chapter](paṭalaḥ)
-
+chapter
 ## mukta-m0-p100-v2485
-[secret](rahasyaṃ) [my](mama) [of-gods](devānāṃ) [rare](durlabhaṃ) [for-births](janminām) [even](api)
-
+secret mine [k: of-all-gods] of-gods difficult even-for-births
 ## mukta-m0-p100-v2486
-[mantra-name-thousand](mantranāmasahasraṃ) [and](ca) [of-Durga](durgāyāḥ) [merit-giving](puṇyadaṃ) [supreme](param)
-
+thousand-names-of-mantra and of-durga merit-giving supreme
 ## mukta-m0-p100-v2487
-[here](iha) [enjoyer](bhogī) [there-even](paratrāpi) [liberated-while-living](jīvanmukto) [becomes](bhavennaraḥ)
-
+here enjoyer hereafter too liberated-while-living becomes-man
 ## mukta-m0-p100-v2488
-[from-ten-thousand-horse-sacrifices](aśvamedhāyutāt) [merit](puṇyaṃ) [in-world](loke) [fortune-increasing](saubhāgyavardhanam)
-
+from-ten-thousand-horse-sacrifices merit in-world fortune-increasing
 ## mukta-m0-p100-v2489
-[secret](guhyaṃ) [most-hidden](gopyatamaṃ) [goddess](devi) [by-reading](paṭhanāt) [accomplishment-giving](siddhidāyakam)
-
+secret most-hidden goddess from-recitation accomplishment-giving
 ## mukta-m0-p100-v2490
-[fierce](pracaṇḍā) [Chandika](caṇḍikā) [Chandi](caṇḍī) [killer-of-Chanda-Munda](caṇḍamuṇḍanisūdinī)
-
+fierce Chandika Chandi slayer-of-Chanda-and-Munda
 ## mukta-m0-p100-v2491
-[dissolution](pralayā) [preservation](sthitiḥ) [creation](saṃbhūtir) [manifestation](vibhūtir) [fear-destroying](bhayanāśinī)
-
+dissolution stability origin manifestation fear-destroying
 ## mukta-m0-p100-v2492
-[intoxicated-languid](madālasā) [high-intoxication](madottuṅgā) [wine](madirā) [love-dear](madanapriyā)
-
+intoxicated-lazy intoxicated-exalted wine love-dear
 ## mukta-m0-p100-v2493
-[prime-goddess](ādidevī) [art](kalā) [beloved](kāntā) [Tripura](tripurā) [world-lady](jagadīśvarī)
-
+primordial-goddess art beloved Tripura world-lady
 ## mukta-m0-p100-v2494
-[river](sarit) [Kadambari](kādambarī) [iguana](godhā) [secret-Kali](guhyakālī) [lady-of-ganas](gaṇeśvarī)
-
+river Kadambari iguana secret-Kali Ganesvari
 ## mukta-m0-p100-v2495
-[asceticism-filled](tapomayī) [hard-to-attain](durālamvā) [evil-planet-averting](duṣṭagrahanivāriṇī)
-
+austerity-filled difficult-to-grasp evil-planet-removing
 ## mukta-m0-p100-v2496
-[nectar](sudhā) [moon-abode](sudhāṃśunilayā) [dissolution-fire-resembling](pralayānalasaṃnibhā)
-
+nectar moon-abode resembling-cataclysmic-fire
 ## mukta-m0-p100-v2497
-[knowledge-lady](vidyeśvarī) [universe-filled](viśvamayī) [Virat](virāṭ) [meter](chando) [path](gatiḥ) [mind](matiḥ)
-
+knowledge-lady universe-filled Virat meter path mind
 ## mukta-m0-p100-v2498
-[heaviest](gariṣṭhā) [misfortune-destroying](ariṣṭahā) [uncorrupt](aduṣṭā) [mercy](kṛpā) [Kashi](kāśī) [family-nonfamily](kulākulā)
-
+heaviest disease-destroying faultless mercy Kashi Kula-akula
 ## mukta-m0-p100-v2499
-[odd-eyed](virūpākṣī) [hollow-eyed](koṭarākṣī) [family-beloved](kulakāntā) [unconquered](parājitā)
-
+distorted-eyed hollow-eyed family-beloved unconquered
 ## mukta-m0-p100-v2500
-[triad](tritayī) [(100)]((100)) [Veda-arrangement](vedavinyāsā) [renunciation](saṃnyāsā) [good-mind](sumatir) [fear](bhayā)
+triad (100) veda-arrangement renunciation good-mind fear

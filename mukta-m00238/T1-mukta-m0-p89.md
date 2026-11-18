@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p89-v2201
-[gloss](sudhāsaṃpūrṇakalaśakarābjāvaśvavāhanau) [gloss](yātrābhiṣekamakhadīkṣaṇacaulamauṃjīḥkurvaṃtiśāṃtikavidhānamathāśvinīṣu)
+[verse](sudhāsaṃpūrṇakalaśakarābjāvaśvavāhanau) [verse](sudhāsaṃpūrṇakalaśakarābjāvaśvavāhanau) [verse](sudhāsaṃpūrṇakalaśakarābjāvaśvavāhanau) [verse](sudhāsaṃpūrṇakalaśakarābjāvaśvavāhanau)
 
 ## mukta-m0-p89-v2202
-[gloss](yamaṃnīlaṃbhajebhīmaṃsuvarṇapratimāgatam) [gloss](dyutābhicāravidhimaṃtrabilapraveśakanyājanāni) [gloss](yamabhe) [gloss](kilayāṃtisiddhim)
+[verse](yātrābhiṣekamakhadīkṣaṇacaulamauṃjīḥkurvaṃtiśāṃtikavidhānamathāśvinīṣu) [verse](yātrābhiṣekamakhadīkṣaṇacaulamauṃjīḥkurvaṃtiśāṃtikavidhānamathāśvinīṣu) [verse](yātrābhiṣekamakhadīkṣaṇacaulamauṃjīḥkurvaṃtiśāṃtikavidhānamathāśvinīṣu) [verse](yātrābhiṣekamakhadīkṣaṇacaulamauṃjīḥkurvaṃtiśāṃtikavidhānamathāśvinīṣu)
 
 ## mukta-m0-p89-v2203
-[gloss](ekādaśāhātsukhībhavatī) [gloss](asminnakṣatreprathamarajasvalāvidhavābhavati) [gloss](asminnakṣatre) [gloss](ugrakāryāṇipraśastāni)
+[verse](yamaṃnīlaṃbhajebhīmaṃsuvarṇapratimāgatam) [verse](yamaṃnīlaṃbhajebhīmaṃsuvarṇapratimāgatam) [verse](yamaṃnīlaṃbhajebhīmaṃsuvarṇapratimāgatam) [verse](yamaṃnīlaṃbhajebhīmaṃsuvarṇapratimāgatam)
 
 ## mukta-m0-p89-v2204
-[gloss](asminnakṣatrejātaguṇāḥ) [gloss](capalaḥ) [gloss](bahusutaḥ) [gloss](śāstrajñaḥ)
+[verse](dyutābhicāravidhimaṃtrabilapraveśakanyājanāni yamabhe kilayāṃtisiddhim) [verse](dyutābhicāravidhimaṃtrabilapraveśakanyājanāni yamabhe kilayāṃtisiddhim) [verse](dyutābhicāravidhimaṃtrabilapraveśakanyājanāni yamabhe kilayāṃtisiddhim) [verse](dyutābhicāravidhimaṃtrabilapraveśakanyājanāni yamabhe kilayāṃtisiddhim)
 
 ## mukta-m0-p89-v2205
-[gloss](sruksruvābhītivaradhṛkcaturhastaṃ) [gloss](namāmyaham)
+[verse](ekādaśāhātsukhībhavatī) [verse](asminnakṣatreprathamarajasvalāvidhavābhavati) [verse](asminnakṣatre ugrakāryāṇipraśastāni) [verse](asminnakṣatrejātaguṇāḥ)
 
 ## mukta-m0-p89-v2206
-[gloss](maṃtrauṣadhīrasarasāyanasādhakāni) [gloss](sidhyaṃtivahni) [gloss](vihitāni) [gloss](hutāśanarkṣe)
+[verse](sruksruvābhītivaradhṛkcaturhastaṃ namāmyaham) [verse](sruksruvābhītivaradhṛkcaturhastaṃ namāmyaham) [verse](sruksruvābhītivaradhṛkcaturhastaṃ namāmyaham) [verse](sruksruvābhītivaradhṛkcaturhastaṃ namāmyaham)
 
 ## mukta-m0-p89-v2207
-[gloss](sitakeśaḥ) [gloss](gaṃbhīraśarīraḥ) [gloss](vāmabhāgematsyāṃkitaḥ) [gloss](aśītivarṣāṇiparamāyurityādikaṃ)
+[verse](maṃtrauṣadhīrasarasāyanasādhakāni sidhyaṃtivahni vihitāni hutāśanarkṣe) [verse](maṃtrauṣadhīrasarasāyanasādhakāni sidhyaṃtivahni vihitāni hutāśanarkṣe) [verse](maṃtrauṣadhīrasarasāyanasādhakāni sidhyaṃtivahni vihitāni hutāśanarkṣe) [verse](maṃtrauṣadhīrasarasāyanasādhakāni sidhyaṃtivahni vihitāni hutāśanarkṣe)
 
 ## mukta-m0-p89-v2208
-[gloss](varābhayakaraḥ) [gloss](śuddhorohiṇīdevatāstume)
+[verse](sitakeśaḥ) [verse](gaṃbhīraśarīraḥ) [verse](vāmabhāgematsyāṃkitaḥ) [verse](aśītivarṣāṇiparamāyurityādikaṃ sarvametadgraṃthe draṣṭavyam)
 
 ## mukta-m0-p89-v2209
-[gloss](śālīkṣuvṛkṣavratabaṃdhanavāhanāninavyāṃbarābharāṇabhūṣaṇamabjajarkṣe)
+[verse](varābhayakaraḥ śuddhorohiṇīdevatāstume) [verse](varābhayakaraḥ śuddhorohiṇīdevatāstume) [verse](varābhayakaraḥ śuddhorohiṇīdevatāstume) [verse](varābhayakaraḥ śuddhorohiṇīdevatāstume)
 
 ## mukta-m0-p89-v2210
-[gloss](rohiṇīśakaṭākāraṃ) [gloss](paṃca) [gloss](ū) [gloss](vā)
+[verse](śālīkṣuvṛkṣavratabaṃdhanavāhanāninavyāṃbarābharāṇabhūṣaṇamabjajarkṣe) [verse](śālīkṣuvṛkṣavratabaṃdhanavāhanāninavyāṃbarābharāṇabhūṣaṇamabjajarkṣe) [verse](śālīkṣuvṛkṣavratabaṃdhanavāhanāninavyāṃbarābharāṇabhūṣaṇamabjajarkṣe) [verse](śālīkṣuvṛkṣavratabaṃdhanavāhanāninavyāṃbarābharāṇabhūṣaṇamabjajarkṣe)
 
 ## mukta-m0-p89-v2211
-[gloss](daśāśvarathamārūḍho) [gloss](mṛgaśīrṣostumemude)
+[verse](rohiṇīśakaṭākāraṃ paṃca) [verse](ū vā vī vū rohiṇī) [verse](kṛṣṇavarṇam) [verse](paṃcatārāḥ)
 
 ## mukta-m0-p89-v2212
-[gloss](śāṃtisnānanṛpābhiṣekaniyamāndevāgnipitrarcanaṃ) [gloss](kuryācchāṃtikapauṣṭikādi) [gloss](śubhadaṃ) [gloss](caṃdrarkṣabhe)
+[verse](daśāśvarathamārūḍho mṛgaśīrṣostumemude) [verse](daśāśvarathamārūḍho mṛgaśīrṣostumemude) [verse](daśāśvarathamārūḍho mṛgaśīrṣostumemude) [verse](daśāśvarathamārūḍho mṛgaśīrṣostumemude)
 
 ## mukta-m0-p89-v2213
-[gloss](śūlakhaḍgābhayavarānda) [gloss](dhānomeprasīdatu)
+[verse](śāṃtisnānanṛpābhiṣekaniyamāndevāgnipitrarcanaṃ kuryācchāṃtikapauṣṭikādi śubhadaṃ caṃdrarkṣabhe saṃyute) [verse](śāṃtisnānanṛpābhiṣekaniyamāndevāgnipitrarcanaṃ kuryācchāṃtikapauṣṭikādi śubhadaṃ caṃdrarkṣabhe saṃyute) [verse](śāṃtisnānanṛpābhiṣekaniyamāndevāgnipitrarcanaṃ kuryācchāṃtikapauṣṭikādi śubhadaṃ caṃdrarkṣabhe saṃyute) [verse](śāṃtisnānanṛpābhiṣekaniyamāndevāgnipitrarcanaṃ kuryācchāṃtikapauṣṭikādi śubhadaṃ caṃdrarkṣabhe saṃyute)
 
 ## mukta-m0-p89-v2214
-[gloss](rakṣobhūtapiśācayakṣakagaṇādeśaṃ) [gloss](tathoccāṭanaṃ) [gloss](yaccānyadbaliraudrakarmakathitaṃ) [gloss](raudrārdrabhekārayet)
+[verse](śūlakhaḍgābhayavarānda dhānomeprasīdatu) [verse](śūlakhaḍgābhayavarānda dhānomeprasīdatu) [verse](śūlakhaḍgābhayavarānda dhānomeprasīdatu) [verse](śūlakhaḍgābhayavarānda dhānomeprasīdatu)
 
 ## mukta-m0-p89-v2215
-[gloss](ārdrāpravālamekam) [gloss](kūghaṃṅaccha) [gloss](ārdrā) [gloss](raktavarṇā)
+[verse](rakṣobhūtapiśācayakṣakagaṇādeśaṃ tathoccāṭanaṃ yaccānyadbaliraudrakarmakathitaṃ raudrārdrabhekārayet) [verse](rakṣobhūtapiśācayakṣakagaṇādeśaṃ tathoccāṭanaṃ yaccānyadbaliraudrakarmakathitaṃ raudrārdrabhekārayet) [verse](rakṣobhūtapiśācayakṣakagaṇādeśaṃ tathoccāṭanaṃ yaccānyadbaliraudrakarmakathitaṃ raudrārdrabhekārayet) [verse](rakṣobhūtapiśācayakṣakagaṇādeśaṃ tathoccāṭanaṃ yaccānyadbaliraudrakarmakathitaṃ raudrārdrabhekārayet)
 
 ## mukta-m0-p89-v2216
-[gloss](dadhānāśubhadāmesyātpunarvasukṛtāhvayā)
+[verse](ārdrāpravālamekam) [verse](kūghaṃṅaccha ārdrā) [verse](raktavarṇā) [verse](ekatārā)
 
 ## mukta-m0-p89-v2217
-[gloss](āṃdolikādivaravāhanaśastraśayyālaṃkāramapyaditibhevidadhītanūnam)
+[verse](dadhānāśubhadāmesyātpunarvasukṛtāhvayā) [verse](dadhānāśubhadāmesyātpunarvasukṛtāhvayā) [verse](dadhānāśubhadāmesyātpunarvasukṛtāhvayā) [verse](dadhānāśubhadāmesyātpunarvasukṛtāhvayā)
 
 ## mukta-m0-p89-v2218
-[gloss](punarvasūtaṭākaṃpaṃca) [gloss](ke) [gloss](ko) [gloss](hā)
+[verse](āṃdolikādivaravāhanaśastraśayyālaṃkāramapyaditibhevidadhītanūnam) [verse](āṃdolikādivaravāhanaśastraśayyālaṃkāramapyaditibhevidadhītanūnam) [verse](āṃdolikādivaravāhanaśastraśayyālaṃkāramapyaditibhevidadhītanūnam) [verse](āṃdolikādivaravāhanaśastraśayyālaṃkāramapyaditibhevidadhītanūnam)
 
 ## mukta-m0-p89-v2219
-[gloss](sarvābharaṇasaṃpannaṃ) [gloss](devamaṃtriṇamādarāt)
+[verse](punarvasūtaṭākaṃpaṃca) [verse](ke ko hā hi punarvasū) [verse](kṛṣṇavarṇaḥ) [verse](paṃcatārāḥ)
 
 ## mukta-m0-p89-v2220
-[gloss](vedābhyāsasuśāstrasaṃgrahavidhiśśastrāstraśikṣāpaṇaṃmaṃtrārādhana-devatārcanabhiṣakkāryaṃ) [gloss](nṛpālokanam) [gloss](kuryācchāṃtikapauṣṭikāninṛpateryātrābhiṣekaṃtathāpuṣyarkṣevaracitravastra-nicayālaṃkārasaṃdhāraṇam)
+[verse](sarvābharaṇasaṃpannaṃ devamaṃtriṇamādarāt) [verse](sarvābharaṇasaṃpannaṃ devamaṃtriṇamādarāt) [verse](sarvābharaṇasaṃpannaṃ devamaṃtriṇamādarāt) [verse](sarvābharaṇasaṃpannaṃ devamaṃtriṇamādarāt)
 
 ## mukta-m0-p89-v2221
-[gloss](hū) [gloss](he) [gloss](ho) [gloss](ḍā)
+[verse](vedābhyāsasuśāstrasaṃgrahavidhiśśastrāstraśikṣāpaṇaṃmaṃtrārādhana-devatārcanabhiṣakkāryaṃ nṛpālokanam) [verse](vedābhyāsasuśāstrasaṃgrahavidhiśśastrāstraśikṣāpaṇaṃmaṃtrārādhana-devatārcanabhiṣakkāryaṃ nṛpālokanam) [verse](vedābhyāsasuśāstrasaṃgrahavidhiśśastrāstraśikṣāpaṇaṃmaṃtrārādhana-devatārcanabhiṣakkāryaṃ nṛpālokanam) [verse](vedābhyāsasuśāstrasaṃgrahavidhiśśastrāstraśikṣāpaṇaṃmaṃtrārādhana-devatārcanabhiṣakkāryaṃ nṛpālokanam)
 
 ## mukta-m0-p89-v2222
-[gloss](āśleṣādevatāpītāṃbaradhṛgvaradostume)
+[verse](hū he ho ḍā puṣyam) [verse](śvetavarṇaḥ) [verse](tritārā) [verse](śarākṛtiḥ)
 
 ## mukta-m0-p89-v2223
-[gloss](kuṃtāsiśaktiśarakārmukasaṃgrahaṃ) [gloss](ca) [gloss](kuryādviṣapraharaṇaṃ) [gloss](khalusārpadhiṣṇye)
+[verse](āśleṣādevatāpītāṃbaradhṛgvaradostume) [verse](āśleṣādevatāpītāṃbaradhṛgvaradostume) [verse](āśleṣādevatāpītāṃbaradhṛgvaradostume) [verse](āśleṣādevatāpītāṃbaradhṛgvaradostume)
 
 ## mukta-m0-p89-v2224
-[gloss](āśleṣāsarpākārāśaṭ) [gloss](ḍī) [gloss](ḍū) [gloss](ḍe)
+[verse](kuṃtāsiśaktiśarakārmukasaṃgrahaṃ ca kuryādviṣapraharaṇaṃ khalusārpadhiṣṇye) [verse](kuṃtāsiśaktiśarakārmukasaṃgrahaṃ ca kuryādviṣapraharaṇaṃ khalusārpadhiṣṇye) [verse](kuṃtāsiśaktiśarakārmukasaṃgrahaṃ ca kuryādviṣapraharaṇaṃ khalusārpadhiṣṇye) [verse](kuṃtāsiśaktiśarakārmukasaṃgrahaṃ ca kuryādviṣapraharaṇaṃ khalusārpadhiṣṇye)
 
 ## mukta-m0-p89-v2225
-[gloss](ḍo) [gloss](āśleṣā) [gloss](raktavarṇaḥ) [gloss](ṣaṭtārāḥ)
+[verse](āśleṣāsarpākārāśaṭ) [verse](ḍī ḍū ḍe ḍo āśleṣā) [verse](raktavarṇaḥ) [verse](ṣaṭtārāḥ)
