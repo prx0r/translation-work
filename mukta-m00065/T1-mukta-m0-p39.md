@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p39-v951
-[vetala](vetāla) [shakini](śākinī) [gri-dhra](gṛdhra) [kakola](kākola) [uluka](ulūka) [shiva](śivā) [akula](kulā)
+[vetala](vetāla) [witch](śākinī) [vulture](gṛdhra) [crow-owl](kākolūka) [jackal-filled](śivākulā)
 
 ## mukta-m0-p39-v952
-[adya](ādyā) [ashtakam](aṣṭakam) [idam](idaṃ) [khyata](khyātaṃ) [shesha](śeṣa) [bheda](bhedas) [tu](tu) [vistara](vistaraḥ)
+[initial-octad](ādyāṣṭakam) [this](idaṃ) [famous](khyātaṃ) [remainder-difference](śeṣabhedaḥ) [but](tu) [detail](vistaraḥ)
 
 ## mukta-m0-p39-v953
-[dantura](danturā) [akshemakari](akṣemakarī) [syat](syāt) [bhumau](bhūmau) [janu](jānu) [kara](karā) [sthita](sthitā)
+[toothed](danturā) [harm-causing](akṣemakarī) [may-be](syāt) [on-ground](bhūmau) [knee-hand-seated](jānukarāsthitā)
 
 ## mukta-m0-p39-v954
-[engga](eṅgā) [hasya](hāsyā) [mahodari](mahodaryo) [rupini](rūpiṇyo) [apsaras](apsarasaḥ) [sadā](sadā)
+[eṅgā](eṅgā) [laughing](hāsyā) [big-bellied](mahodaryo) [formed](rūpiṇyo) [apsaras](apsarasaḥ) [always](sadā)
 
 ## mukta-m0-p39-v955
-[yogeshvara](yogeśvaro) [ratha](ratha) [vira](vīraś) [ca](ca) [ardhachandra](ardhacandrā) [asane](sane) [sthita](sthitaḥ)
+[yoga-lord-chariot](yogeśvaroratha) [hero](vīraḥ) [and](ca) [half-moon-seat](ardhacandrāsane) [seated](sthitaḥ)
 
 ## mukta-m0-p39-v956
-[badhdva](badhdvā) [vinyasya](vinyasya) [hridaye](hṛdaye) [athava](athavā) [uttana](uttāna) [kara](karadvayam)
+[binding](badhdvā) [placing](vinyasya) [heart](hṛdaye) [or](athavā) [upturned-two-hands](uttānakaradvayam)
 
 ## mukta-m0-p39-v957
-[prachanda](pracaṇḍo) [danda-dhari](daṇḍadhārī) [ca](ca) [karya](kāryaś) [chandeshvara](caṇḍeśvaro) [mahan](mahān)
+[fierce](pracaṇḍo) [staff-bearer](daṇḍadhārī) [and](ca) [to-be-made](kāryaḥ) [fierce-lord](caṇḍeśvaraḥ) [great](mahān)
 
 ## mukta-m0-p39-v958
-[mahodara](mahodaro) [vrihad-deha](vṛhaddeha) [eka-danta](ekadanta) [tri-locana](trilocanaḥ)
+[big-bellied](mahodaraḥ) [large-body](vṛhaddehaḥ) [one-tusk](ekadantaḥ) [three-eyed](trilocanaḥ)
 
 ## mukta-m0-p39-v959
-[divya-ambara-dhara](divyāmbaradharaḥ) [karya](kāryo) [naga-yajnopavita-van](nāgayajñopavītavān)
+[divine-garment-wearer](divyāmbaradharaḥ) [to-be-made](kāryaḥ) [snake-sacred-thread](nāgayajñopavītavān)
 
 ## mukta-m0-p39-v960
-[shodasha-angulaka](ṣoḍaśāṅgulakaṃ) [dairghya](dairghyāc) [shunda](śuṇḍaṃ) [shat-trimsha-angulam](ṣaḍtriṃśadaṅgulam)
+[sixteen-angula](ṣoḍaśāṅgulakaṃ) [length](dairghyāt) [trunk](śuṇḍaṃ) [thirty-six-angula](ṣaḍtriṃśadaṅgulam)
 
 ## mukta-m0-p39-v961
-[pina](pīnaḥ) [samunnata-uraska](samunnatoraskaḥ) [kartavya](kartavyo) [gana-nayaka](gaṇanāyakaḥ)
+[plump](pīnaḥ) [raised-chest](samunnatoraskaḥ) [to-be-made](kartavyaḥ) [troop-leader](gaṇanāyakaḥ)
 
 ## mukta-m0-p39-v962
-[kantha-guhya-antaram](kaṇṭhaguhayāntaraṃ) [karya](kāryaṃ) [samam](samaṃ) [dva-trimsha-angulam](dvātriṃśadaṅgulam)
+[throat-cavity-interval](kaṇṭhaguhayāntaraṃ) [to-be-made](kāryaṃ) [equal](samaṃ) [thirty-two-angula](dvātriṃśadaṅgulam)
 
 ## mukta-m0-p39-v963
-[mastaka](mastakaṃ) [nivida](niviḍaṃ) [vyasta](vyastaṃ) [vama](vāma) [kumbha-samunnatam](kumbhasamunnatam)
+[head](mastakaṃ) [dense](niviḍaṃ) [spread](vyastaṃ) [left](vāma) [pot-raised](kumbhasamunnatam)
 
 ## mukta-m0-p39-v964
-[randhra](randhraṃ) [randhra-angulau](randhrāṅgulau) [kumbhau](kumbhau) [tan-madhye](tanmadhye) [sutram-anata](sūtramānataḥ)
+[hole](randhraṃ) [hole-angula](randhrāṅgulau) [pots](kumbhau) [between-them](tanmadhye) [thread-measured](sūtramānataḥ)
 
 ## mukta-m0-p39-v965
-[eka-ekam](ekaikaṃ) [hrasa-yogena](hrāsayogena) [yavat](yāvad) [veda-angula-sthiti](vedāṅgulasthitiḥ)
+[one-by-one](ekaikaṃ) [decrease-method](hrāsayogena) [until](yāvat) [veda-angula-position](vedāṅgulasthitiḥ)
 
 ## mukta-m0-p39-v966
-[pancha-tala-pradairghyam](pañcatālapradairghyaṃ) [ca](ca) [chatustala-viveshanam](catustālaviveśanam)
+[five-tala-length](pañcatālapradairghyaṃ) [and](ca) [four-tala-entry](catustālaviveśanam)
 
 ## mukta-m0-p39-v967
-[sva-dantam](svadantaṃ) [dakshine](dakṣiṇe) [panau](pāṇau) [vama-haste](vāmahaste) [ca](ca) [laddukam](laḍḍukam)
+[own-tusk](svadantaṃ) [right](dakṣiṇe) [hand](pāṇau) [left-hand](vāmahaste) [and](ca) [laddu](laḍḍukam)
 
 ## mukta-m0-p39-v968
-[ganesha-lakshana](gaṇeśalakṣaṇaṃ) [prokta](proktaṃ) [chatur-hastam](caturhastaṃ) [tu](tu) [na-anyatha](nānyathā)
+[ganesh-mark](gaṇeśalakṣaṇaṃ) [declared](proktaṃ) [four-handed](caturhastaṃ) [but](tu) [not-otherwise](nānyathā)
 
 ## mukta-m0-p39-v969
-[bhuja-abhyam](bhujābhyām) [adhikam](adhikaṃ) [kuryat](kuryāt) [shad-bhujam](ṣaḍbhujaṃ) [purvavat](pūrvavac) [ca](ca) [tam](tam)
+[by-arms](bhujābhyām) [more](adhikaṃ) [make](kuryāt) [six-armed](ṣaḍbhujaṃ) [as-before](pūrvavat) [and](ca) [him](tam)
 
 ## mukta-m0-p39-v970
-[vamam](vāmaṃ) [ca](ca) [abhaya-dam](abhayadaṃ) [hastam](hastaṃ) [shubham](śubhaṃ) [ca](ca) [ashta-bhuja-anvitam](aṣṭabhujānvitam)
+[left](vāmaṃ) [and](ca) [fearless-giving](abhayadaṃ) [hand](hastaṃ) [auspicious](śubhaṃ) [and](ca) [eight-armed](aṣṭabhujānvitam)
 
 ## mukta-m0-p39-v971
-[padma-adhastat](padmādhastāt) [tu](tu) [kartavya](kartavyo) [mahakhu](mahākhu) [ca](ca) [aru-rupavan](ārurūpavān)
+[below-lotus](padmādhastāt) [but](tu) [to-be-made](kartavyaḥ) [great-rat-or-bull](mahākhu) [beautiful-form](ścārurūpavān)
 
 ## mukta-m0-p39-v972
-[shad-bhuja](ṣaḍbhujaś) [ca](ca) [ashta-bahu](aṣṭabāhuś) [ca](ca) [prahrishtha](prahṛṣṭas) [tandava-akula](tāṇḍavākulaḥ)
+[six-armed](ṣaḍbhujaḥ) [and](ca) [eight-armed](aṣṭabāhuḥ) [and](ca) [delighted](prahṛṣṭaḥ) [dance-filled](tāṇḍavākulaḥ)
 
 ## mukta-m0-p39-v973
-[adyam](ādyaṃ) [sitam](sitaṃ) [grihe](gṛhe) [abhishtham](abhīṣṭaṃ) [tri-vidham](trividhaṃ) [sura-mandire](suramandire)
+[first](ādyaṃ) [white](sitaṃ) [in-house](gṛhe) [desired](abhīṣṭaṃ) [threefold](trividhaṃ) [in-temple](suramandire)
 
 ## mukta-m0-p39-v974
-[bhuja](bhujair) [dvadashabhih](dvādaśabhir) [yukta](yuktaḥ) [skanda](skando) [mukhya](mukhyaḥ) [surupaka](surūpakaḥ)
+[with-twelve-arms](bhujairdvādaśabhiḥ) [joined](yuktaḥ) [skanda](skandaḥ) [chief](mukhyaḥ) [handsome](surūpakaḥ)
 
 ## mukta-m0-p39-v975
-[shantya](śāntyā) [ca](ca) [dakshine](dakṣiṇe) [haste](haste) [shadbhih](ṣaḍbhir) [vama-kare](vāmakare) [tatha](tathā)
+[peace](śāntyā) [and](ca) [right](dakṣiṇe) [hand](haste) [six](ṣaḍbhiḥ) [left-hand](vāmakare) [thus](tathā)
