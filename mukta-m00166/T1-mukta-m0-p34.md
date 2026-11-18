@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p34-v826
-[universe-mother](viśvamātā)
+[world-mother](viśvamātā) [world-mother](viśvamātā) [world-mother](viśvamātā) [world-mother](viśvamātā)
 
 ## mukta-m0-p34-v827
-[universe-mother](viśvamātā) [herself](svayaṃ) [shining](bhātā) [of-the-good](satāṃ) [in-the-heart](cetasi) [of-those-shining](bhāsatām)
+[world-mother](viśvamātā) [self](svayaṃ) [shining](bhātā) [of-good-ones](satāṃ) [in-mind](cetasi) [shining](bhāsatām)
 
 ## mukta-m0-p34-v828
-[possessing-phases](kalāvatī)
+[artful](kalāvatī) [artful](kalāvatī) [artful](kalāvatī) [artful](kalāvatī)
 
 ## mukta-m0-p34-v829
-[reckoned](kalitā) [time-course](kāla+gatiḥ) [possessing-phases](kalāvatī) [of-us](naḥ)
+[seized](kalitā) [time-course](kālagatiḥ) [artful](kalāvatī) [to-us](naḥ)
 
 ## mukta-m0-p34-v830
-[lotus-possessing](padmāvatī)
+[lotus-possessing](padmāvatī) [lotus-possessing](padmāvatī) [lotus-possessing](padmāvatī) [lotus-possessing](padmāvatī)
 
 ## mukta-m0-p34-v831
-[gathering](cinvanta) [having-attained](āptā) [not](na) [gone](gatāḥ) [and](ca) [to-the-far-shore](pāraṃ) [lotus-possessing](padmāvatī) [she](sā) [of-me](mama) [lotus-going](padma+gā) [may-be](stāt)
+[gathering](cinvanta) [obtained](āptā) [not](na) [gone](gatāśca) [to-shore](pāraṃ) [lotus-possessing](padmāvatī) [that](sā) [mine](mama) [lotus-going](padmagā) [may-she-stand](stāt)
 
 ## mukta-m0-p34-v832
-[well-clad](suvastrā)
+[well-clothed](suvastrā) [well-clothed](suvastrā) [well-clothed](suvastrā) [well-clothed](suvastrā)
 
 ## mukta-m0-p34-v833
-[here](amatrā) [she](sā) [well-clad](suvastrā) [of-me](me) [body-garment-nature](deha+vastra+ātmatāṃ) [remove](hara)
+[vessel-less](amatrā) [that](sā) [well-clothed](suvastrā) [mine](me) [body-cloth](dehavastrātmatāṃ) [remove](hara)
 
 ## mukta-m0-p34-v834
-[awakened](prabuddhā)
+[awakened](prabuddhā) [awakened](prabuddhā) [awakened](prabuddhā) [awakened](prabuddhā)
 
 ## mukta-m0-p34-v835
-[in-insentient-and-sentient](jaḍa+ajaḍeṣu) [without-distinction-of-state](a+viśiṣṭa+bhāvā) [she](sā) [desired](vāñchitaṃ) [to-us](no) [may-give](dadatāṃ) [awakened](prabuddhā)
+[dull-and-non-dull](jaḍājaḍeṣu) [without-distinction](astaviśiṣṭabhāvā) [that](sā) [desired](vāñchitaṃ) [to-us](no) [giving](dadatāṃ) [awakened](prabuddhā)
 
 ## mukta-m0-p34-v836
-[sarasvati](sarasvatī)
+[sarasvatī](sarasvatī) [sarasvatī](sarasvatī) [sarasvatī](sarasvatī) [sarasvatī](sarasvatī)
 
 ## mukta-m0-p34-v837
-[threefold](tredhā) [to-be-tasted](āsvādyā) [may-bestow](vitaratu) [essence](rasaṃ) [own](svaṃ) [sarasvati](sarasvatī) [entire](aśeṣam)
+[threefold](tredhā) [tasted](asvādyā) [let-her-bestow](vitaratu) [taste](rasaṃ) [own](svaṃ) [sarasvatī](sarasvatyaśeṣam)
 
 ## mukta-m0-p34-v838
-[seated-on-bowl](kuṇḍāsanā)
+[kuṇḍāsanā](kuṇḍāsanā) [kuṇḍāsanā](kuṇḍāsanā) [kuṇḍāsanā](kuṇḍāsanā) [kuṇḍāsanā](kuṇḍāsanā)
 
 ## mukta-m0-p34-v839
-[everywhere](sarvatra) [everything](sarvaṃ) [illuminating](parikāśayantī) [seated-on-bowl](kuṇḍa+āsanā) [thus](iti) [renowned](prathitā) [therefore](tat) [this-one](eṣā)
+[everywhere](sarvatra) [everything](sarvaṃ) [manifesting](parikāśayantī) [kuṇḍāsanā](kuṇḍāsaneti) [renowned](prathitā) [that](tadeṣā)
 
 ## mukta-m0-p34-v840
-[world-nurse](jagaddhātrī)
+[jagaddhātrī](jagaddhātrī) [jagaddhātrī](jagaddhātrī) [jagaddhātrī](jagaddhātrī) [jagaddhātrī](jagaddhātrī)
 
 ## mukta-m0-p34-v841
-[also](api) [beings](bhāvāḥ) [for-long](cirasya) [indeed](iva) [world-nurse](jagaddhātrī) [for-prosperity](śriye) [may-be](astu) [she](sā)
+[even](api) [beings](bhāvāścirasyeva) [jagaddhātrī](jagaddhātrī) [for-glory](śriye'stu) [that](sā)
 
 ## mukta-m0-p34-v842
-[mother-of-the-awakened](buddhamātā)
+[buddhamātā](buddhamātā) [buddhamātā](buddhamātā) [buddhamātā](buddhamātā) [buddhamātā](buddhamātā)
 
 ## mukta-m0-p34-v843
-[unsupported](anāśritāṃ) [own-self-course](sva+ātma+gatiṃ) [attains](sameti) [she](sā) [mother-of-the-awakened](buddha+mātā) [in-heart](hṛdi) [may-shine](bhāsatāṃ) [of-us](naḥ)
+[unattached](anāśritāṃ) [own-course](svātmagatiṃ) [approaches](sameti) [that](sā) [buddhamātā](buddhamātā) [in-heart](hṛdi) [may-shine](bhāsatāṃ) [to-us](naḥ)
 
 ## mukta-m0-p34-v844
-[lady-of-the-jina](jineśvarī)
+[jineśvarī](jineśvarī) [jineśvarī](jineśvarī) [jineśvarī](jineśvarī) [jineśvarī](jineśvarī)
 
 ## mukta-m0-p34-v845
-[omniscience](sārvajñyam) [calamity](āpad) [misfortune-end-cause](vipad+anta+kāraṇaṃ) [lady-of-the-jina](jina+īśvarī) [she](sā) [sin](vṛjinaṃ) [may-remove](vyapohatām)
+[omniscience](sārvajñyamāpad) [misfortune](vipadantakāraṇaṃ) [jineśvarī](jineśvarī) [that](sā) [sin](vṛjinaṃ) [remove](vyapohatām)
 
 ## mukta-m0-p34-v846
-[mother-of-the-jina](jinamātā)
+[jinamātā](jinamātā) [jinamātā](jinamātā) [jinamātā](jinamātā) [jinamātā](jinamātā)
 
 ## mukta-m0-p34-v847
-[of-the-jina](jinasya) [birth-arisen](janana+udbhūtāṃ) [fear](bhītiṃ) [in-conduct-skilled](nīti+vicakṣaṇā)
+[of-jina](jinasya) [birth](jananodbhūtāṃ) [fear](bhītiṃ) [policy-wise](nītivicakṣaṇā)
 
 ## mukta-m0-p34-v848
-[lady-of-jina-lords](jinendrā)
+[jinendrā](jinendrā) [jinendrā](jinendrā) [jinendrā](jinendrā) [jinendrā](jinendrā)
 
 ## mukta-m0-p34-v849
-[lady-of-jina-lords](jina+indrā) [may-be](astu) [for-prosperity](śriye) [always](nityaṃ) [without-enmity](nirvairā) [moving-freely](svaira+cāriṇī)
+[jinendrā](jinendrāstu) [for-glory](śriye) [always](nityaṃ) [without-enmity](nirvairā) [self-moving](svairacāriṇī)
 
 ## mukta-m0-p34-v850
-[sharada](śāradā)
+[śāradā](śāradā) [śāradā](śāradā) [śāradā](śāradā) [śāradā](śāradā)

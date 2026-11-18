@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p28-v676
-[sacrifice+knowledge](yajñavidyā)
+[sacrifice](yajña)+[knowledge](vidyā)
 
 ## mukta-m0-p28-v677
-[sacrifices](yajati) [by-breath+sacrifice+and-others](prāṇayajñādyaiḥ) [someone](ko'pi) [skill+merit+possessing](naipuṇyapuṇyabhāk)
+[sacrifices](yajati) [life-sacrifice-etc](prāṇa+yajña+ādyaiḥ) [someone](ko'pi) [skill](naipuṇya)+[merit](puṇya)+[possessor](bhāk)
 
 ## mukta-m0-p28-v678
-[great+illusion](mahāmāyā)
+[great](mahā)+[illusion](māyā)
 
 ## mukta-m0-p28-v679
-[creation+and-so-on](sṛṣṭyādi) [fashions+she](racayatyeṣā) [great+illusion+thus](mahāmāyeti) [is-sung](gīyate)
+[creation-etc](sṛṣṭi+ādi) [fashions](racayati) [this](eṣā) [great-illusion](mahā+māyā) [thus](iti) [is-sung](gīyate)
 
 ## mukta-m0-p28-v680
-[veda+mother](vedamātā)
+[veda](veda)+[mother](mātā)
 
 ## mukta-m0-p28-v681
-[sent-forth](prāhiṇod) [to-Brahmā](brahmaṇe) [pleased](tuṣṭā) [veda+mother](vedamātā) [victorious+she](jayatyasau)
+[sent](prāhiṇot) [to-brahman](brahmaṇe) [pleased](tuṣṭā) [veda-mother](veda+mātā) [triumphs](jayati) [she](asau)
 
 ## mukta-m0-p28-v682
 [nectar](sudhā)
 
 ## mukta-m0-p28-v683
-[obstacle+indeed+immortals](vighnamevāmarā) [with-devotion](bhaktyā) [nectar](sudhā) [she+let-be-tasted](sā'svādyatāṃ) [wise-ones](budhāḥ)
+[obstacle-only](vighna+eva) [immortals](amarā) [by-devotion](bhaktyā) [nectar](sudhā) [let-it-be-tasted](sā+asvādyatām) [wise-ones](budhāḥ)
 
 ## mukta-m0-p28-v684
-[firmness](dhṛtiḥ)
+[steadiness](dhṛtiḥ)
 
 ## mukta-m0-p28-v685
-[of-the-virtuous](kṛtināṃ) [own](svaṃ) [which+having-resorted-to](yadāśrityā) [firmness+obtainable](dhṛtirlabhyā) [how](kathaṃ) [by-the-fickle](calaiḥ)
+[of-the-virtuous](kṛtinām) [own](svam) [having-resorted](yad+āśrityā) [steadiness](dhṛtiḥ) [obtained](labhyā) [how](katham) [by-the-unsteady](calaiḥ)
 
 ## mukta-m0-p28-v686
 [love](prītiḥ)
 
 ## mukta-m0-p28-v687
-[united](saṃyojitā) [by-whom](yayā) [some](kāpi) [love](prītiḥ) [fame](kīrtiṃ) [supreme](parāṃ) [gone](gatā)
+[joined](saṃyojitā) [by-whom](yayā) [some](kāpi) [love](prītiḥ) [fame](kīrtim) [supreme](parām) [gone](gatā)
 
 ## mukta-m0-p28-v688
-[spread](prathā)
+[fame](prathā)
 
 ## mukta-m0-p28-v689
-[which+to-conceal](yāpahnotuṃ) [self+shining](svayaṃbhātā) [spread](prathā) [established](siddhā) [where](kva) [not+indeed](naiva) [she](sā)
+[to-remove](apahnotum) [self-manifest](svayambhātā) [fame](prathā) [accomplished](siddhā) [where](kva) [not](na) [indeed](eva) [she](sā)
 
 ## mukta-m0-p28-v690
-[well-known](prasiddhā)
+[renowned](prasiddhā)
 
 ## mukta-m0-p28-v691
-[own+single+body+indeed+here](nijaikavapuṣaiveha) [well-known](prasiddhā) [success+giving+let-be](siddhidāstu) [to-us](naḥ)
+[by-one's-own-form](nija+eka+vapuṣā) [here](iha) [renowned](prasiddhā) [grant-success](siddhidā) [to-us](naḥ) [let-be](astu)
 
 ## mukta-m0-p28-v692
-[Mṛḍānī](mṛḍānī)
+[parvati](mṛḍānī)
 
 ## mukta-m0-p28-v693
-[fame](kīrtiṃ) [everywhere](sarvatra) [that+certainly](tannūnaṃ) [Mṛḍānī+union+dignity](mṛḍānīsaṅgagauravam)
+[fame](kīrtim) [everywhere](sarvatra) [that-indeed](tad+nūnam) [parvati-association-glory](mṛḍānī+saṅga+gauravam)
 
 ## mukta-m0-p28-v694
-[Vindhya+dweller](vindhyavāsinī)
+[vindhya-dweller](vindhya+vāsinī)
 
 ## mukta-m0-p28-v695
-[without-support](abandhuraṃ) [very+difficult+bond](sudurbandhaṃ) [cut](chindhi) [you](tvaṃ) [Vindhya+dweller](vindhyavāsinī)
+[not-smooth](abandhuram) [very-hard-to-bind](su+dur+bandham) [cut](chindhi) [you](tvam) [vindhya-dweller](vindhya+vāsinī)
 
 ## mukta-m0-p28-v696
-[accomplished+knowledge](siddhavidyā)
+[accomplished-knowledge](siddha+vidyā)
 
 ## mukta-m0-p28-v697
-[universe+variety+creation+cause](viśvavaicitryanirmāṇaheturjayati) [she](sā) [supreme](parā)
+[universe-wonder-creation-cause](viśva+vaicitrya+nirmāṇa+hetuḥ) [triumphs](jayati) [she](sā) [supreme](parā)
 
 ## mukta-m0-p28-v698
-[great+power](mahāśaktiḥ)
+[great-power](mahā+śaktiḥ)
 
 ## mukta-m0-p28-v699
-[this](idaṃ) [how](kathaṃ) [great+power+attachment](mahāśaktisaktiḥ) [Paśupati+not](paśupatirna) [if](cet)
+[this](idam) [how](katham) [great-power-attachment](mahā+śakti+saktiḥ) [lord-of-beasts](paśupatiḥ) [not](na) [if](cet)
 
 ## mukta-m0-p28-v700
 [earth](pṛthvī)

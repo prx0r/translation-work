@@ -8,7 +8,7 @@
 "tokens": [
 {
 "surface": "vīrabhūḥ",
-"quick_gloss": "hero-land"
+"quick_gloss": "hero-ground"
 }
 ]
 },
@@ -21,19 +21,15 @@
 "tokens": [
 {
 "surface": "viśrānteḥ",
-"quick_gloss": "of-rest"
+"quick_gloss": "rest-genitive"
 },
 {
 "surface": "paramā",
 "quick_gloss": "supreme"
 },
 {
-"surface": "bhūmiḥ",
-"quick_gloss": "ground"
-},
-{
-"surface": "vīrabhūḥ",
-"quick_gloss": "hero-land"
+"surface": "bhūmirvīrabhūḥ",
+"quick_gloss": "earth+hero"
 },
 {
 "surface": "bhuvi",
@@ -41,7 +37,7 @@
 },
 {
 "surface": "pūjitā",
-"quick_gloss": "honored"
+"quick_gloss": "worshipped"
 }
 ]
 },
@@ -79,19 +75,11 @@
 },
 {
 "surface": "niṣpātān",
-"quick_gloss": "unfallen"
+"quick_gloss": "fallen"
 },
 {
-"surface": "nirhetu",
-"quick_gloss": "with-causeless"
-},
-{
-"surface": "prema",
-"quick_gloss": "love"
-},
-{
-"surface": "nirbhṛtā",
-"quick_gloss": "fullness"
+"surface": "nirhetupremanirbhṛtā",
+"quick_gloss": "causeless-love-filled"
 }
 ]
 },
@@ -104,7 +92,7 @@
 "tokens": [
 {
 "surface": "vīrasūḥ",
-"quick_gloss": "hero-mother"
+"quick_gloss": "hero-bearer"
 }
 ]
 },
@@ -121,10 +109,10 @@
 },
 {
 "surface": "sūte",
-"quick_gloss": "begets"
+"quick_gloss": "bears"
 },
 {
-"surface": "janānām",
+"surface": "janānāṃ",
 "quick_gloss": "of-people"
 },
 {
@@ -133,7 +121,7 @@
 },
 {
 "surface": "vīrasūḥ",
-"quick_gloss": "hero-mother"
+"quick_gloss": "hero-bearer"
 },
 {
 "surface": "kāpi",
@@ -175,11 +163,11 @@
 },
 {
 "surface": "tyakta",
-"quick_gloss": "having-abandoned"
+"quick_gloss": "abandoned"
 },
 {
 "surface": "pañcatva",
-"quick_gloss": "death"
+"quick_gloss": "five-elements"
 },
 {
 "surface": "bhayāḥ",
@@ -220,16 +208,12 @@
 "quick_gloss": "victory-glory"
 },
 {
-"surface": "sā",
-"quick_gloss": "she"
+"surface": "saiva",
+"quick_gloss": "that"
 },
 {
-"surface": "eva",
-"quick_gloss": "indeed"
-},
-{
-"surface": "naḥ",
-"quick_gloss": "for-us"
+"surface": "no",
+"quick_gloss": "to-us"
 },
 {
 "surface": "bhūyāt",
@@ -271,14 +255,14 @@
 "tokens": [
 {
 "surface": "yad",
-"quick_gloss": "by-whom"
+"quick_gloss": "whose"
 },
 {
-"surface": "dīkṣitāḥ",
+"surface": "dīkṣitā",
 "quick_gloss": "initiated"
 },
 {
-"surface": "janāḥ",
+"surface": "janā",
 "quick_gloss": "people"
 },
 {
@@ -325,23 +309,23 @@
 "tokens": [
 {
 "surface": "yathā",
-"quick_gloss": "so-that"
+"quick_gloss": "as"
 },
 {
 "surface": "dhanaṃjaya",
-"quick_gloss": "wealth-conqueror"
+"quick_gloss": "wealth-victory"
 },
 {
-"surface": "tvam",
+"surface": "tvaṃ",
 "quick_gloss": "state"
 },
 {
-"surface": "naḥ",
-"quick_gloss": "for-us"
+"surface": "na",
+"quick_gloss": "not"
 },
 {
 "surface": "āvirbhūyāt",
-"quick_gloss": "may-manifest"
+"quick_gloss": "may-appear"
 },
 {
 "surface": "akṛtrimam",
@@ -375,15 +359,15 @@
 },
 {
 "surface": "syāt",
-"quick_gloss": "may-be"
+"quick_gloss": "be"
 },
 {
 "surface": "sarvadā",
 "quick_gloss": "always"
 },
 {
-"surface": "satyam",
-"quick_gloss": "true"
+"surface": "satyaṃ",
+"quick_gloss": "truth"
 },
 {
 "surface": "sahāyā",
@@ -403,16 +387,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "saubhāgya",
-"quick_gloss": "of-fortune"
-},
-{
-"surface": "subhaga",
-"quick_gloss": "auspicious"
-},
-{
-"surface": "ākārā",
-"quick_gloss": "form"
+"surface": "saubhāgyasubhagākārā",
+"quick_gloss": "auspicious-fortunate-form"
 }
 ]
 },
@@ -424,23 +400,15 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "kāre",
-"quick_gloss": "in-syllable-ka"
+"surface": "kārevāntargataṃ",
+"quick_gloss": "within-cave"
 },
 {
-"surface": "eva",
-"quick_gloss": "indeed"
-},
-{
-"surface": "antargatam",
-"quick_gloss": "entered"
-},
-{
-"surface": "cittam",
+"surface": "cittaṃ",
 "quick_gloss": "mind"
 },
 {
-"surface": "niścalam",
+"surface": "niścalaṃ",
 "quick_gloss": "motionless"
 },
 {
@@ -461,16 +429,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "sarva",
-"quick_gloss": "all"
-},
-{
-"surface": "saubhāgya",
-"quick_gloss": "fortune"
-},
-{
-"surface": "vardhinī",
-"quick_gloss": "increaser"
+"surface": "sarvasaubhāgyavardhinī",
+"quick_gloss": "all-auspiciousness-increaser"
 }
 ]
 },
@@ -495,19 +455,11 @@
 },
 {
 "surface": "astu",
-"quick_gloss": "may-be"
+"quick_gloss": "be"
 },
 {
-"surface": "sarva",
-"quick_gloss": "all"
-},
-{
-"surface": "saubhāgya",
-"quick_gloss": "fortune"
-},
-{
-"surface": "vardhinī",
-"quick_gloss": "increaser"
+"surface": "sarvasaubhāgyavardhinī",
+"quick_gloss": "all-auspiciousness-increaser"
 }
 ]
 },
@@ -520,7 +472,7 @@
 "tokens": [
 {
 "surface": "kṣemaṅkarī",
-"quick_gloss": "welfare-maker"
+"quick_gloss": "welfare-doer"
 }
 ]
 },
@@ -540,15 +492,11 @@
 "quick_gloss": "I-am"
 },
 {
-"surface": "sukha",
-"quick_gloss": "happiness"
+"surface": "sukhabhāk",
+"quick_gloss": "happiness-possessor"
 },
 {
-"surface": "bhāk",
-"quick_gloss": "partaker"
-},
-{
-"surface": "sadyaḥ",
+"surface": "sadyo",
 "quick_gloss": "immediately"
 },
 {
@@ -557,7 +505,7 @@
 },
 {
 "surface": "kṣemaṅkarī",
-"quick_gloss": "welfare-maker"
+"quick_gloss": "welfare-doer"
 },
 {
 "surface": "yadā",
@@ -573,12 +521,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "siddhi",
-"quick_gloss": "accomplishment"
-},
-{
-"surface": "rūpā",
-"quick_gloss": "form"
+"surface": "siddhirūpā",
+"quick_gloss": "accomplishment-form"
 }
 ]
 },
@@ -594,36 +538,20 @@
 "quick_gloss": "otherwise"
 },
 {
-"surface": "akhila",
-"quick_gloss": "of-all"
+"surface": "akhilasiddhīśaḥ",
+"quick_gloss": "all-accomplishments-lord"
 },
 {
-"surface": "siddhi",
-"quick_gloss": "accomplishments"
-},
-{
-"surface": "īśaḥ",
-"quick_gloss": "lord"
-},
-{
-"surface": "katham",
+"surface": "kathaṃ",
 "quick_gloss": "how"
 },
 {
-"surface": "syām",
-"quick_gloss": "may-I-be"
+"surface": "syāṃ",
+"quick_gloss": "I-would-be"
 },
 {
-"surface": "sva",
-"quick_gloss": "by-self"
-},
-{
-"surface": "ātma",
-"quick_gloss": "self"
-},
-{
-"surface": "siddhitaḥ",
-"quick_gloss": "accomplishment"
+"surface": "svātmasiddhitaḥ",
+"quick_gloss": "self-accomplishment"
 }
 ]
 },
@@ -635,12 +563,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "sat",
-"quick_gloss": "true"
-},
-{
-"surface": "kīrtiḥ",
-"quick_gloss": "fame"
+"surface": "satkīrtiḥ",
+"quick_gloss": "good-fame"
 }
 ]
 }
