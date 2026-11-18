@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p143-v3551
-[those-questions](tāneva) [says](praśnānāha) [space-etc](ākāśādityādi) [she](sā) [asked-form](pṛṣṭarūpā)
+[those](tān) [indeed](eva) [questions](praśnān) [says](āha) [from-space](ākāśāt) [etc](ityādi) [she](sā) [question-form](pṛṣṭa+rūpā)
 
 ## mukta-m0-p143-v3552
-[shining-form](sphuradrūpā) [self-abiding](svātmasaṃsthā) [hear](śṛṇu) [you](tvaṃ) [brahma-rakshasa](brahmarākṣasa)
+[shining-form](sphurat+rūpā) [self-abiding](svātma+saṃsthā) [hear](śṛṇu) [you](tvaṃ) [brahma-rākṣasa](brahmarākṣasa)
 
 ## mukta-m0-p143-v3553
-[all-inner-ness](sarvāntaratvāt) [and](ca) [unperceivability](agocaratvāt) [subtlety](sūkṣmatvam) [self-abiding](svātmasaṃsthā) [own-form](svarūpa) [indeed](eva) [established](sthitā)
+[all-inner](sarva+antaratvāt) [unperceived](agocaratvāt) [and](ca) [subtlety](sūkṣmatvam) [self-abiding](svātma+saṃsthā) [own-form](svarūpa) [indeed](eva) [established](sthitā)
 
 ## mukta-m0-p143-v3554
-[shining-ness](sphurattvaṃ) [what](kiṃ) [what-self](kimātmā) [and](ca) [tell](vadaitat) [prince's-son](nṛpanandana)
+[shiningness](sphurattvaṃ) [what](kiṃ) [what](kim) [self](ātmā) [and](ca) [say](vada) [this](etat) [prince's-son](nṛpa+nandana)
 
 ## mukta-m0-p143-v3555
-[pervading](vitatā) [subtle](sūkṣmā) [also](api) [one](ekā) [and](ca) [how](kathaṃ) [becomes](bhavet)
+[spread](vitatā) [subtle](sūkṣmā) [one](ekā) [and](ca) [how](kathaṃ) [become](bhavet)
 
 ## mukta-m0-p143-v3556
-[shining-ness](sphurattvam) [self](ātmā) [and](ca) [consciousness](citiḥ) [hear](śṛṇu) [you](tvaṃ) [brahma-rakshasa](brahmarākṣasa)
+[shiningness](sphurattvam) [self](ātmā) [and](ca) [consciousness](citiḥ) [hear](śṛṇu) [you](tvaṃ) [brahma-rākṣasa](brahmarākṣasa)
 
 ## mukta-m0-p143-v3557
-[consciousness-only](cinmātram) [indeed](eva) [not](na) [from-that](tataḥ) [more](adhikam) [meaning](iti) [purport](tātparyam)
+[consciousness-only](cin+mātram) [indeed](eva) [not](na) [from-that](tatas) [more](adhikam) [intent](tātparyam)
 
 ## mukta-m0-p143-v3558
-[by-perception](upalabdhyā) [and](ca) [what](kiṃ) [or](vā) [would-be](syād) [tell](vadaitat) [prince's-son](nṛpanandana)
+[by-perception](upalabdhyā) [and](ca) [what](kiṃ) [or](vā) [be](syāt) [say](vada) [this](etat) [prince's-son](nṛpa+nandana)
 
 ## mukta-m0-p143-v3559
-[by-perception](upalabdhyā) [birth](janir) [not](na) [would-be](syāt) [hear](śṛṇu) [you](tvaṃ) [brahma-rakshasa](brahmarākṣasa)
+[by-perception](upalabdhyā) [birth](janir) [not](na) [be](syāt) [hear](śṛṇu) [you](tvaṃ) [brahma-rākṣasa](brahmarākṣasa)
 
 ## mukta-m0-p143-v3560
-[self-consciousness-only-form-attainment](svātmacinmātrākāratāsampattiḥ) [by-this](etena) [deluded-samadhi](mūḍhasamādhiḥ) [removed](vyāvṛttaḥ)
+[self-consciousness-only-form-attainment](svātma+cin+mātra+ākāra+tā+sampattiḥ) [by-this](etena) [foolish-samādhi](mūḍha+samādhiḥ) [excluded](vyāvṛttaḥ)
 
 ## mukta-m0-p143-v3561
-[birth](janir) [or](vā) [also](api) [would-be](bhavet) [what](kā) [that](sā) [tell](vadaitat) [prince's-son](nṛpanandana)
+[birth](janir) [or](vā) [also](api) [become](bhavet) [what](kā) [that](sā) [say](vada) [this](etat) [prince's-son](nṛpa+nandana)
 
 ## mukta-m0-p143-v3562
-[birth](janir) [body-self-ness](dehātmatā) [intellect](buddhiḥ) [hear](śṛṇu) [you](tvaṃ) [brahma-rakshasa](brahmarākṣasa)
+[birth](janir) [body-self-idea](deha+ātma+tā+buddhiḥ) [hear](śṛṇu) [you](tvaṃ) [brahma-rākṣasa](brahmarākṣasa)
 
 ## mukta-m0-p143-v3563
-[visible-outwardness](dṛśyānunmukhatvam)
+[visible-outwardness](dṛśya+anunmukhatvam)
 
 ## mukta-m0-p143-v3564
-[birth](janiḥ) [how](kathaṃ) [or](vā) [obtained](samprāptā) [tell](vadaitat) [prince's-son](nṛpanandana)
+[birth](janiḥ) [how](kathaṃ) [or](vā) [obtained](samprāptā) [say](vada) [this](etat) [prince's-son](nṛpa+nandana)
 
 ## mukta-m0-p143-v3565
-[from-what-cause](kasmānnimittāt) [by-what-instrument](kena+karaṇena) [kāra](kāra)
+[from-what-cause](kasmāt+nimittāt) [by-what-instrument](kena+karaṇena)
 
 ## mukta-m0-p143-v3566
-[birth](janiḥ) [doership-ego](kartṛtvābhimānāt) [hear](śṛṇu) [you](tvaṃ) [brahma-rakshasa](brahmarākṣasa)
+[birth](janiḥ) [doership-ego](kartṛtva+abhimānāt) [hear](śṛṇu) [you](tvaṃ) [brahma-rākṣasa](brahmarākṣasa)
 
 ## mukta-m0-p143-v3567
-[by-self](ātmanā) [by-own](svena) [indeed](eva) [instrument-other-independence](karaṇāntaranairapekṣyeṇa) [iti](eti) [as-far](yāvat)
+[by-self](ātmanā) [by-own](svena) [indeed](eva) [instrument-independence](karaṇa+antara+nairapekṣyeṇa) [as-far-as](yāvat)
 
 ## mukta-m0-p143-v3568
-[who](ko) [or](vā) [doership-ego](kartṛtvābhimāno) [tell](vadaitat) [prince's-son](nṛpanandana)
+[what](ko) [or](vā) [doership-ego](kartṛtva+abhimānaḥ) [say](vada) [this](etat) [prince's-son](nṛpa+nandana)
 
 ## mukta-m0-p143-v3569
-[that-impression-ego](tadvāsanābhimānaḥ) [would-be](syāt) [hear](śṛṇu) [you](tvaṃ) [brahma-rakshasa](brahmarākṣasa)
+[that](tad) [latent-impression-ego](vāsanā+abhimānaḥ) [be](syāt) [hear](śṛṇu) [you](tvaṃ) [brahma-rākṣasa](brahmarākṣasa)
 
 ## mukta-m0-p143-v3570
-[impression](saṃskāraḥ)
+[latent-impression](saṃskāraḥ)
 
 ## mukta-m0-p143-v3571
-[of-that](tasyāpi) [what](kiṃ) [cause](kāraṇaṃ) [would-be](syād) [tell](vadaitat) [prince's-son](nṛpanandana)
+[of-that](tasya) [also](api) [what](kiṃ) [cause](kāraṇaṃ) [be](syāt) [say](vada) [this](etat) [prince's-son](nṛpa+nandana)
 
 ## mukta-m0-p143-v3572
-[of-that](tasya) [non-discrimination-destroyer](avivekanāśakasya) [of-that-also](tasyāpi) [of-that-cause-also](tatkāraṇasyāpi)
+[of-that](tasya) [non-discrimination-destroyer](aviveka+nāśakasya) [of-that-also](tasya+api) [of-its-cause](tad+kāraṇasya+api)
 
 ## mukta-m0-p143-v3573
-[that-cause](tatkāraṇaṃ) [fault-view](doṣadṛṣṭiḥ) [hear](śṛṇu) [you](tvaṃ) [brahma-rakshasa](brahmarākṣasa)
+[that-cause](tad+kāraṇaṃ) [fault-view](doṣa+dṛṣṭiḥ) [hear](śṛṇu) [you](tvaṃ) [brahma-rākṣasa](brahmarākṣasa)
 
 ## mukta-m0-p143-v3574
-[object-fault-view](viṣayadoṣadṛṣṭiḥ)
+[object-fault-view](viṣaya+doṣa+dṛṣṭiḥ)
 
 ## mukta-m0-p143-v3575
-[fault-view](doṣadṛṣṭiḥ) [and](ca) [what](kā) [declared](proktā) [tell](vadaitat) [prince's-son](nṛpanandana)
+[fault-view](doṣa+dṛṣṭiḥ) [and](ca) [what](kā) [declared](proktā) [say](vada) [this](etat) [prince's-son](nṛpa+nandana)

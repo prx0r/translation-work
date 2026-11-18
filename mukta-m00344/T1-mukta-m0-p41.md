@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p41-v1001
-[abandoning](etadvihāya) [and](ca) [elsewhere](anyatra) [not](na) [is](asti) [slight](īṣat) [fruit](phala) [possibility](sambhavaḥ)
+[etad-vihāya](etadvihāya) [ca](cānyatra) [anyatra](anyatra) [na](nāstīṣatphalasambhavaḥ) [asti](nāstīṣatphalasambhavaḥ) [iṣat](nāstīṣatphalasambhavaḥ) [phala](nāstīṣatphalasambhavaḥ) [sambhavaḥ](nāstīṣatphalasambhavaḥ)
 
 ## mukta-m0-p41-v1002
-[only](etāvat) [indeed](eva) [causelessness](ahetukatvena) [worship](upāsanam) [eva](eva) [elsewhere](anyatra) [means](sādhane)
+[etāvat](etāvadeva) [eva](etāvadeva) [ahetuka](ahetukatvenopāsanameva) [tvena](ahetukatvenopāsanameva) [upāsanam](ahetukatvenopāsanameva) [eva](ahetukatvenopāsanameva) [anyatra](anyatra) [sādhane](sādhane)
 
 ## mukta-m0-p41-v1003
-[asked](papraccha) [again](bhūyas) [her](tām) [beloved](kāntām) [greatly-delighted](atihṛṣṭa) [mind](manāḥ) [then](tadā)
+[papraccha](papraccha) [bhūyas](bhūyastāṃ) [tām](bhūyastāṃ) [kāntām](kāntāmatihṛṣṭamanāstadā) [ati-hṛṣṭa](kāntāmatihṛṣṭamanāstadā) [manas](kāntāmatihṛṣṭamanāstadā) [tadā](kāntāmatihṛṣṭamanāstadā)
 
 ## mukta-m0-p41-v1004
-[all-maker](sarvakartā) [independent](svatantra) [self](ātmā) [whose](yad) [power](śaktyā) [regulated](niyatam) [world](jagat)
+[sarva-kartā](sarvakartā) [svatantra-ātmā](svatantrātmā) [yat-śaktyā](yacchaktyā) [niyatam](niyataṃ) [jagat](jagat)
 
 ## mukta-m0-p41-v1005
-[thus](tathā) [sun](sūryam) [narasimha](nṛsiṃha) [etc](ādīn) [buddha](buddham) [sugata](sugatam) [indeed](eva) [and](ca)
+[tathā](tathā) [sūryam](sūryaṃ) [nṛsiṃha-ādīn](nṛsiṃhādīn) [buddham](buddhaṃ) [sugatam](sugatameva) [eva](sugatameva) [ca](ca)
 
 ## mukta-m0-p41-v1006
-[buddha](buddham) [sugata](sugatam) [and](ca) [buddhist](bauddha) [partial](ekadeśinaḥ)
+[buddha](buddha) [sugatam](sugataṃ) [ca](ca) [bauddha-eka-deśinaḥ](bauddhaikadeśinaḥ)
 
 ## mukta-m0-p41-v1007
-[karma](karma) [principal](pradhānam) [atoms](aṇavaḥ) [etc](ityādi) [many](bahudhā) [said](jaguḥ)
+[karma](karma) [pradhānam](pradhānamaṇava) [aṇavaḥ](pradhānamaṇava) [ityādi](ityādi) [bahudhā](bahudhā) [jaguḥ](jaguḥ)
 
 ## mukta-m0-p41-v1008
-[there](tatra) [where](kva) [īśvara](īśvara) [buddhi](buddhiḥ) [tu](tu) [to-be-done](kartavyā) [that](tat) [explain](samīraya)
+[tatra](tatra) [kva](kveśvarabuddhistu) [īśvara-buddhiḥ](kveśvarabuddhistu) [tu](kveśvarabuddhistu) [kartavyā](kartavyā) [tat](tat) [samīraya](samīraya)
 
 ## mukta-m0-p41-v1009
-[from](ataḥ) [says](āha) [there](tatra) [iti](iti)
+[matabhe](matabhe) [ata](ata) [āha](āha) [tatra](tatreti) [iti](tatreti)
 
 ## mukta-m0-p41-v1010
-[because](yataḥ) [he](saḥ) [bhagavān](bhagavān) [vyāghrapāda](vyāghrapādaḥ) [seeing](dṛṣṭa) [high-low](parāvaraḥ)
+[yataḥ](yataḥ) [sa](sa) [bhagavān](bhagavān) [vyāghrapādaḥ](vyāghrapādo) [dṛṣṭa](dṛṣṭaparāvaraḥ) [parāvaraḥ](dṛṣṭaparāvaraḥ)
 
 ## mukta-m0-p41-v1011
-[vyāghrapāda](vyāghrapādaḥ) [your](te) [father](pitā)
+[vyāghrapādaḥ](vyāghrapādaḥ) [te](te) [pitā](pitā)
 
 ## mukta-m0-p41-v1012
-[beloved](priyā) [nectar](amṛta) [speaking](prabhāṣiṇī)
+[priyā](priyāmṛtaprabhāṣiṇī) [amṛta](priyāmṛtaprabhāṣiṇī) [prabhāṣiṇī](priyāmṛtaprabhāṣiṇī)
 
 ## mukta-m0-p41-v1013
-[therefore](ataḥ) [that](tat) [connection](sambandhāt)
+[ataḥ](ataḥ) [tat](tatsambandhāt) [sambandhāt](tatsambandhāt)
 
 ## mukta-m0-p41-v1014
-[lord](nātha) [to-you](te) [will-declare](sampravakṣyāmi) [hear](śṛṇu) [īśvara](īśvara) [determination](vinirṇayam)
+[nātha](nātha) [te](te) [sampravakṣyāmi](sampravakṣyāmi) [śṛṇu](śṛṇvīśvaravinirṇayam) [īśvara](śṛṇvīśvaravinirṇayam) [vinirṇayam](śṛṇvīśvaravinirṇayam)
 
 ## mukta-m0-p41-v1015
-[he](saḥ) [viṣṇu](viṣṇuḥ) [he](saḥ) [śiva](śivaḥ) [creator](dhātā) [he](saḥ) [sun](sūryaḥ) [moon](somaḥ) [indeed](eva) [and](ca)
+[sa](sa) [viṣṇuḥ](viṣṇuḥ) [sa](sa) [śivaḥ](śivo) [dhātā](dhātā) [sa](sa) [sūryaḥ](sūryaḥ) [soma](soma) [eva](eva) [ca](ca)
 
 ## mukta-m0-p41-v1016
-[not](na) [śiva](śivaḥ) [nor](nāpi) [viṣṇu](viṣṇuḥ) [vā](vā) [not](na) [creator](dhātā) [nor](nānyaḥ) [indeed](eva) [and](ca)
+[na](na) [śivaḥ](śivo) [na](nāpi) [api](nāpi) [viṣṇuḥ](viṣṇurvā) [vā](viṣṇurvā) [na](na) [dhātā](dhātā) [na](nānya) [anyaḥ](nānya) [eva](eva) [ca](ca)
 
 ## mukta-m0-p41-v1017
-[real](vāstavam) [form](rūpam) [iti](iti) [denies](niṣedhati) [not](na) [śiva](śivaḥ) [ityādi](ityādi)
+[vāstavam](vāstavaṃ) [rūpam](rūpamiti) [iti](rūpamiti) [niṣedhati](niṣedhati) [na](na) [śivaḥ](śiva) [ityādi](ityādi)
 
 ## mukta-m0-p41-v1018
-[maker](kartāram) [śiva](śivam) [say](āhuḥ) [te](te) [five-faced](pañcavaktram) [three-eyed](trilocanam)
+[kartāram](kartāraṃ) [śivam](śivamāhuste) [āhuḥ](śivamāhuste) [te](śivamāhuste) [pañca-vaktram](pañcavaktraṃ) [tri-locanam](trilocanam)
 
 ## mukta-m0-p41-v1019
-[this](etat) [śiva](śivaḥ) [not](na) [śiva](śivaḥ) [ca](ca) [iti](iti) [etat](etat) [they](te) [śaivas](śaivāḥ)
+[etat](etat) [śivaḥ](śivo) [na](na) [śivaḥ](śivaścetyetat) [ca](śivaścetyetat) [iti](śivaścetyetat) [etat](śivaścetyetat) [te](te) [śaivāḥ](śaivāḥ)
 
 ## mukta-m0-p41-v1020
-[world](loke) [api](api) [conscious](cetanaḥ) [maker](kartā) [embodied](saśarīraḥ) [hi](hi) [seen](dṛśyate)
+[loke](loke) [api](pi) [cetanaḥ](cetanaḥ) [kartā](kartā) [sa-śarīraḥ](saśarīro) [hi](hi) [dṛśyate](dṛśyate)
 
 ## mukta-m0-p41-v1021
-[potter](kulāla) [etc](ādiḥ)
+[kulāla](kulālādiḥ) [ādiḥ](kulālādiḥ)
 
 ## mukta-m0-p41-v1022
-[there](tatra) [principal](mukhyam) [hi](hi) [agency](kartṛtvam) [conscious](cetanasya) [eva](eva) [possible](sambhavet)
+[tatra](tatra) [mukhyam](mukhyaṃ) [hi](hi) [kartṛtvam](kartṛtvaṃ) [cetanasya](cetanasyaiva) [eva](cetanasyaiva) [sambhavet](sambhavet)
 
 ## mukta-m0-p41-v1023
-[body](śarīra) [consciousness](cetanayoḥ) [between](madhye)
+[śarīra](śarīracetanayormadhye) [cetanayoḥ](śarīracetanayormadhye) [madhye](śarīracetanayormadhye)
 
 ## mukta-m0-p41-v1024
-[consciousness-made](caitanyamaya) [body](dehena) [all](sarvān) [desired](abhimatān) [creates](sṛjet)
+[caitanya-maya](caitanyamayadehena) [dehena](caitanyamayadehena) [sarvān](sarvānabhimatān) [abhimatān](sarvānabhimatān) [sṛjet](sṛjet)
 
 ## mukta-m0-p41-v1025
-[dream](svāpnaḥ) [body](dehaḥ) [not](na) [such](evaṃvidhaḥ) [iti](iti) [says](āha) [consciousness](caitanyeti)
+[svāpnaḥ](svāpno) [dehaḥ](deho) [na](naivaṃvidha) [evaṃvidhaḥ](naivaṃvidha) [iti](ityāha) [āha](ityāha) [caitanyam](caitanyeti) [iti](caitanyeti)
