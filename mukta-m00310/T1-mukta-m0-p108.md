@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p108-v2676
-[there-indeed](tatraiva) [resides](vasate) [Durga](durgā) [nine-form](navarūpa)+[essence](ātmikā) [supreme](parā)
+[there-indeed](tatraiva) [dwells](vasate) [durga](durgā) [nine-form-natured](navarūpātmikā) [supreme](parā)
 
 ## mukta-m0-p108-v2677
-[who](yā) [Durga-thus](durgeti) [remembered](smṛtā) [in-world](loke) [cosmic-egg-belly-dwelling](brahmāṇḍodara)+[dwelling](vartinī)
+[who](yā) [durga-thus](durgeti) [remembered](smṛtā) [in-world](loke) [brahmanda-belly-dwelling](brahmāṇḍodaravartinī)
 
 ## mukta-m0-p108-v2678
-[of-buffalo](mahiṣasya)+[lord-of-asuras](asarendra)+[of](sya) [for-slaying](vadhārtha)+[for](āya) [descended](avatāritā)
+[of-buffalo](mahiṣasya) [of-asura-lord](asurendrasya) [for-slaying](vadhārthāya) [descended](avatāritā)
 
 ## mukta-m0-p108-v2679
-[her-indeed](tāmeva) [day-night](aharniśam) [meditate](dhyāye) [Sri-vidya](śrīvidyām) [supreme](paramām) [chant](jape)
+[her-indeed](tāmeva) [day-night](aharniśaṃ) [meditate](dhyāye) [shri-vidya](śrīvidyāṃ) [supreme](paramāṃ) [chant](jape)
 
 ## mukta-m0-p108-v2680
-[whom](yām) [having-heard](śrutvā) [he](sa) [Shiva](śivaḥ) [became](jātaḥ) [five-sound-essence](pañcanāda)+[essence](ātmakaḥ) [Shiva](śivaḥ)
+[whom](yāṃ) [having-heard](śrutvā) [he](sa) [shiva](śivaḥ) [became](jātaḥ) [five-sound-natured](pañcanādātmakaḥ) [shiva](śivaḥ)
 
 ## mukta-m0-p108-v2681
-[directly-world-form](sākṣādbhuvana)+[form](rūpā)+[also](pi) [great-light-essence](mahājyotiḥ)+[essence](svarūpiṇī)
+[directly-world-form-even](sākṣādbhuvanarūpāpi) [great-light-form](mahājyotiḥsvarūpiṇī)
 
 ## mukta-m0-p108-v2682
-[Shiva](śivaḥ) [from-radiance-orb](prabhāmaṇḍala)+[from](taḥ) [emerged](nirgataḥ) [unconscious](acetanaḥ) [all-pervading](vibhuḥ)
+[shiva](śivaḥ) [from-light-orb](prabhāmaṇḍalato) [emerged](nirgato) [unconscious](acetano) [all-pervading](vibhuḥ)
 
 ## mukta-m0-p108-v2683
-[created](sṛṣṭaḥ) [fierce-leader](ugramanunāyakaḥ)
+[created](sṛṣṭaḥ) [fierce-guide](agramanunāyakaḥ)
 
 ## mukta-m0-p108-v2684
-[Shiva](śivaḥ) [chanted](jajāpa) [suddenly](sahasā) [seed](bījam) [of-three-worlds](trijagatām) [to-Shiva](śive)
+[shiva](śivaḥ) [chanted-suddenly](jajāpa) [suddenly](sahasā) [seed](bījaṃ) [of-three-worlds](trijagatāṃ) [to-shiva](śive)
 
 ## mukta-m0-p108-v2685
-[eternal-bliss-abode](sadānandālayam) [supreme](param)
+[eternal-bliss-abode](sadānandālayaṃ) [supreme](param)
 
 ## mukta-m0-p108-v2686
-[then](tataḥ) [sound](nādam) [he](sa) [heard](śuśrāva) [bad-letter-free](duṣṭavarṇa)+[free](vivarjitam)
+[then](tato) [sound](nādaṃ) [he](sa) [heard](śuśrāva) [bad-letter-free](duṣṭavarṇavivarjitam)
 
 ## mukta-m0-p108-v2687
-[then](tataḥ) [having-chanted](japtvā) [supreme](parām) [vidya](vidyām) [created](asṛjat) [world-mother](jagadambike)
+[then](tato) [having-chanted](japtvā) [supreme](parāṃ) [vidya](vidyām) [created](asṛjat) [world-mother](jagadambike)
 
 ## mukta-m0-p108-v2688
-[by-will-alone](icchāmātram) [to-Shiva](śive) [universe](viśvam) [world-lady](viśveśvari) [moving-immoving](carācaram)
+[by-will-alone](icchāmātraṃ) [shiva](śive) [world](viśvaṃ) [world-lady](viśveśvari) [moving-immoving](carācaram)
 
 ## mukta-m0-p108-v2689
-[thus](iti) [this](imām) [secret-vidya](guptavidyām) [indeed](tu) [having-obtained](labdhvā) [guru-foot-worship](gurupadārcanāt)
+[thus](iti) [this](imāṃ) [secret-vidya](guptavidyāṃ) [indeed](tu) [having-obtained](labdhvā) [from-guru-foot-worship](gurupadārcanāt)
 
 ## mukta-m0-p108-v2690
-[cloth](vastram) [fire](vahnim) [and](ca) [desire](kāmam) [and](ca) [wealth](dhanam) [conduct](vṛttam) [and](ca) [adept](sādhakaḥ)
+[cloth](vastraṃ) [fire](vahniṃ) [and](ca) [desire](kāmaṃ) [and](ca) [wealth](dhanaṃ) [conduct](vṛttaṃ) [and](ca) [practitioner](sādhakaḥ)
 
 ## mukta-m0-p108-v2691
-[Sri-chakra-this](śrīcakramidam) [support](ādhāram) [of-goddess](devyāḥ) [glory-cause](vibhava)+[cause](kāraṇam)
+[shri-chakra-this](śrīcakramidam) [support](ādhāraṃ) [of-goddess](devyā) [power-cause](vibhavakāraṇam)
 
 ## mukta-m0-p108-v2692
-[chakra](cakram) [draw](likhet) [great-goddess](mahādevi) [worshipful](pūjyam) [lotus-sun-petals](abjārkayor)+[petals](dalaiḥ)
+[chakra](cakraṃ) [draw](likhet) [great-goddess](mahādevi) [worshipable](pūjyam) [lotus-sun-petals](abjārkayordalaiḥ)
 
 ## mukta-m0-p108-v2693
-[in-chakra](cakre) [worships](saṃpūjayet) [who](yaḥ) [tu](tu) [blue-shining](nīlābhām) [burning](dāhanīm) [radiance](dyutim)
+[in-chakra](cakre) [whoever-worships](saṃpūjayet) [blue-shining](nīlābhāṃ) [burning](dāhanīṃ) [radiance](dyutim)
 
 ## mukta-m0-p108-v2694
-[shining-crown-radiant](lasanmukuṭa)+[radiant](rociṣṇuḥ) [he](sa) [becomes](bhavet) [best-adept](sādhakottamaḥ)
+[shining-crown-radiant](lasanmukuṭarociṣṇuḥ) [he](sa) [becomes](bhavet) [best-practitioner](sādhakottamaḥ)
 
 ## mukta-m0-p108-v2695
 [great-lady](maheśvari)
 
 ## mukta-m0-p108-v2696
-[weapons](kheṭakāḥ) [his](tasya) [are-pleased](tuṣyanti) [of-adept](sādhakasya) [limb-worship](aṅgapūjanāt)
+[weapons](kheṭakāḥ) [his](tasya) [are-pleased](tuṣyanti) [of-practitioner](sādhakasya) [limb-worship](aṅgapūjanāt)
 
 ## mukta-m0-p108-v2697
 [fled](vidrutāḥ)
 
 ## mukta-m0-p108-v2698
-[Durga](durgā) [gem-like](ratnavatī) [earth](bhūmiḥ) [his](tasya) [seat](pīṭham) [charming](manoharam)
+[durga](durgā) [jeweled](ratnavatī) [earth](bhūmiḥ) [his](tasya) [seat](pīṭhaṃ) [charming](manoharam)
 
 ## mukta-m0-p108-v2699
-[thus](evam) [meditate](dhyāyet) [great-goddess](mahādevīm) [Durga](durgām) [misery-destroyer](durgatināśinīm)
+[thus](evaṃ) [meditate](dhyāyet) [great-goddess](mahādevīṃ) [durga](durgāṃ) [misery-destroyer](durgatināśinīm)
 
 ## mukta-m0-p108-v2700
-[not-to-be-spoken](avaktavyam) [not-to-be-given](adātavyam) [to-be-concealed](gopanīyam) [like-own-womb](svayonivat)
+[not-to-be-spoken](avaktavyam) [not-to-be-given](adātavyaṃ) [to-be-concealed](gopanīyaṃ) [like-own-womb](svayonivat)
