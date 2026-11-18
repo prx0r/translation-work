@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p31-v751
-[wind+of](anilasyo) [steadiness+taking](dhṛtiharī) [mind+firmness+increasing](manasodhairyavardhanī)
+[anilasyaḥ](anilasyo) [dhṛti-harī](dhṛtiharī) [manaso-dhairya-vardhanī](manasodhairyavardhanī)
 
 ## mukta-m0-p31-v752
-[worshipful](upāsaniyā) [always](satataṃ) [great+sacrifice](mahāyāga) [proceeding+by](pravarttibhiḥ)
+[upāsaniyā](upāsaniyā) [satataṃ](satataṃ) [mahā-yāga](mahāyāga) [pravarttibhiḥ](pravarttibhiḥ)
 
 ## mukta-m0-p31-v753
-[eight+by+eight+limit](aṣṭakāṣṭakaparyaṃtamapi) [drop](biṃdurnniyacchataḥ)
+[aṣṭaka-aṣṭaka-paryantam-api](aṣṭakāṣṭakaparyaṃtamapi) [bindu-niyacchataḥ](biṃdurnniyacchataḥ)
 
 ## mukta-m0-p31-v754
-[milk+potency](gaulīrasasya) [predominance](prābalyāt) [stiff+power](stabdhavīryāmagātmaje)
+[gaulī-rasasya](gaulīrasasya) [prābalyāt](prābalyāt) [stabdha-vīrya-ātmaje](stabdhavīryāmagātmaje)
 
 ## mukta-m0-p31-v755
-[sacrifice+king+principal+limb](yāgarāja pradhānāṃgaṃ) [obtained](labhyate) [desired+offering+order](iṣṭāhuti kramāt)
+[yāga-rāja](yāgarāja) [pradhāna-aṅgaṃ](pradhānāṃgaṃ) [labhyate-iṣṭa-āhuti-kramāt](labhyateṣṭāhuti kramāt)
 
 ## mukta-m0-p31-v756
-[another](aparaṃ) [what+auspicious](kinnukalyāṇi) [to+ask](praṣṭumutkaṃṭhitaṃ) [mind](manaḥ)
+[aparaṃ](aparaṃ) [kinnu-kalyāṇi](kinnukalyāṇi) [praṣṭum-utkaṇṭhitaṃ](praṣṭumutkaṃṭhitaṃ) [manaḥ](manaḥ)
 
 ## mukta-m0-p31-v757
-[its+true+form](tasya svarūpaṃ) [to+declare](nirvaktu) [bhavānī+moon+jewel](bhavāniṃdu śikhāmaṇe)
+[tasya](tasya) [svarūpaṃ](svarūpaṃ) [nirvaktu](nirvaktu) [bhavāni-indu-śikhāmaṇe](bhavāniṃdu śikhāmaṇe)
 
 ## mukta-m0-p31-v758
-[eight+offerings+unfailing](aṣṭāhutīravikalāḥ) [does](karoti) [great+soul](sumahāśayaḥ)
+[aṣṭa-āhutīḥ-avikalāḥ](aṣṭāhutīravikalāḥ) [karoti](karoti) [su-mahā-āśayaḥ](sumahāśayaḥ)
 
 ## mukta-m0-p31-v759
-[three+eight+offerings](tryaṣṭakāhutayaḥ) [of+men](puṃsas) [three+worlds](trailokyaṃ) [accomplish](sādhayaṃti) [indeed](vai)
+[tri-aṣṭaka-āhutayaḥ](tryaṣṭakāhutayaḥ) [puṃsas](puṃsas) [trailokyaṃ](trailokyaṃ) [sādhayanti](sādhayaṃti) [vai](vai)
 
 ## mukta-m0-p31-v760
-[those+who+do](ye kurvaṃtyāhutiḥ) [holy](puṇyāḥ) [blazing](jvalite) [linga+fire](liṃgapāvake)
+[ye](ye) [kurvanti-āhutiḥ](kurvaṃtyāhutiḥ) [puṇyāḥ](puṇyāḥ) [jvalite](jvalite) [liṅga-pāvake](liṃgapāvake)
 
 ## mukta-m0-p31-v761
-[their](teṣāṃ) [all+lordship](samastamaiśvaryaṃ) [by+resolve](saṃkalpādevasidhyati)
+[teṣāṃ](teṣāṃ) [samastam-aiśvaryaṃ](samastamaiśvaryaṃ) [saṃkalpāt-eva-sidhyati](saṃkalpādevasidhyati)
 
 ## mukta-m0-p31-v762
-[successively](uttarottarameteṣāṃ) [liberation+bliss+causing](nirvāṇa sukhahetutā)
+[uttarottaram](uttarottaram) [eteṣāṃ](eteṣāṃ) [nirvāṇa](nirvāṇa) [sukha-hetutā](sukhahetutā)
 
 ## mukta-m0-p31-v763
-[that+one+twice+eight](tadekādūtikākuryādvyaṣṭake) [messenger+two](dūtikādvayam)
+[tat-eka-dūtikā-kuryāt](tadekādūtikākuryāt) [dvi-aṣṭake](dvi-aṣṭake) [dūtikā-dvayam](dūtikādvayam)
 
 ## mukta-m0-p31-v764
-[eight](aṣṭau) [messengers](dūtyastu) [to+be+done](karttavyāḥ) [to+be+worshipped](pūjanīyāśca) [truly](tattvataḥ)
+[aṣṭau](aṣṭau) [dūtyas-tu](dūtyastu) [karttavyāḥ](karttavyāḥ) [pūjanīyāś-ca](pūjanīyāśca) [tattvataḥ](tattvataḥ)
 
 ## mukta-m0-p31-v765
-[he+alone](sa evābhyūhyatāmaṃba) [in+order](krameṇadvyaṣṭakādiṣu)
+[sa](sa) [eva-abhyūhyatām-amba](evābhyūhyatāmaṃba) [krameṇa-dvi-aṣṭaka-ādiṣu](krameṇadvyaṣṭakādiṣu)
 
 ## mukta-m0-p31-v766
-[various](nānāvidhābhiḥ) [fair+hipped](suśroṇi) [his](tasya) [vain+glories](vyarthāvibhūtayaḥ)
+[nānā-vidhābhiḥ](nānāvidhābhiḥ) [su-śroṇi](suśroṇi) [tasya](tasya) [vyarthā-vibhūtayaḥ](vyarthāvibhūtayaḥ)
 
 ## mukta-m0-p31-v767
-[love+jewel](anaṃgamaṇināmasti) [vein+greed+charming](sirāgṛddhirmanoharaḥ)
+[anaṅga-maṇi-nāma-asti](anaṃgamaṇināmasti) [sirā-gṛddhiḥ-manoharaḥ](sirāgṛddhirmanoharaḥ)
 
 ## mukta-m0-p31-v768
-[placed](pradhitasyaṃ) [low](dinīceyaṃ) [subduing](vaśinī) [speech+glory+giving](vāgvibhūtidā)
+[pradhita-syaṃ](pradhitasyaṃ) [dinī-ceyaṃ](dinīceyaṃ) [vaśinī](vaśinī) [vāg-vibhūti-dā](vāgvibhūtidā)
 
 ## mukta-m0-p31-v769
-[holy+linga+great+lord](sādhuliṃgamaheśasya) [union+canopy](saṃghaṭṭana vitānataḥ)
+[sādhu-liṅga-maheśasya](sādhuliṃgamaheśasya) [saṃghaṭṭana](saṃghaṭṭana) [vitānataḥ](vitānataḥ)
 
 ## mukta-m0-p31-v770
-[tamala+dark+shade](tamālaśyāmalacchāyāmīccaiva) [astringent](kaṣāyitam)
+[tamāla-śyāmala-cchāyām-īc-ca-eva](tamālaśyāmalacchāyāmīccaiva) [kaṣāyitam](kaṣāyitam)
 
 ## mukta-m0-p31-v771
-[great+rivers](mahānadīṣu) [all](sarvāsu) [especially](viśiṣṭā) [declared](parikīrttitā)
+[mahā-nadīṣu](mahānadīṣu) [sarvāsu](sarvāsu) [viśiṣṭā](viśiṣṭā) [parikīrttitā](parikīrttitā)
 
 ## mukta-m0-p31-v772
-[who+satisfies](yastarpayati) [linga+fire](laiṃgāgniṃ) [all+being](sasarvatvaṃ) [attains](samṛcchati)
+[yaḥ-tarpayati](yastarpayati) [liṅga-agniṃ](laiṃgāgniṃ) [sa-sarvatvaṃ](sasarvatvaṃ) [samṛcchati](samṛcchati)
 
 ## mukta-m0-p31-v773
-[self](ātmī) [having+made](kṛtya ca) [element](bhūtattvaṃ) [everywhere+unfailing](sarvatrāskhalitaṃ) [going](gatim)
+[ātmī-kṛtya](ātmī kṛtya) [ca](ca) [bhūta-tattvaṃ](bhūtattvaṃ) [sarvatra-askhalitaṃ](sarvatrāskhalitaṃ) [gatim](gatim)
 
 ## mukta-m0-p31-v774
-[obtains](labhate) [eternal+carefree](nityaniściṃtaḥ) [movement](saṃcāraṃ) [yoga+power](yogamāyayā)
+[labhate](labhate) [nitya-niścintaḥ](nityaniściṃtaḥ) [saṃcāraṃ](saṃcāraṃ) [yoga-māyayā](yogamāyayā)
 
 ## mukta-m0-p31-v775
-[I+worship](arcayāmi) [your+limbs](bhavadgātra) [hence+success](mataḥsiddhiṃ) [grant+to+me](prayacchame)
+[arcayāmi](arcayāmi) [bhavat-gātra](bhavadgātra) [mataḥ-siddhiṃ](mataḥsiddhiṃ) [prayaccha-me](prayacchame)
