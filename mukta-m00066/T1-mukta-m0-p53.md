@@ -2,52 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p53-v1301
-there-indeed causes-intense [kh: -vrā] more-and-arguments-also and
+there-also(tatrāpi) causes(hetavaḥ) intense(tīvrāḥ) more(bhūyasyaḥ) arguments(yuktayaḥ) also(api) and(ca)
+
 ## mukta-m0-p53-v1302
-in-confusion arises far of-those-two seeing of-debtors
+confusion(vyāmohe) arises(jāyate) far(dūraṃ) of-those-two-seeing-not-debt(tayorālokanānṛṇām)
+
 ## mukta-m0-p53-v1303
-in-place back by-you goddess properly that-is-distinguished
+in-place(sthāne) back(tvayādevi? no) by-you-devi(tvayādevi) properly(samyage) that-is-distinguished(tadvivicyate)
+
 ## mukta-m0-p53-v1304
-not only intellect-play speech-also and cause
+not-only(na+kevalaṃ) mind-play(dhīvilāsaḥ) speech-also(vaikharyapi) and(ca) cause(kāraṇam)
+
 ## mukta-m0-p53-v1305
-by-intention by-doubt human-birth-single-dweller
+by-intention(saṅkalpena) by-doubt(vikalpena) human-single-dwelling(narajātyekavāsinā)
+
 ## mukta-m0-p53-v1306
-of-them but of-views who veda first-view
+of-those(teṣāṃ) tu(tu) visions(darśanānāṃ) yo(yo) vedaḥ(vedaḥ) first-vision(prathamadarśanam)
+
 ## mukta-m0-p53-v1307
-there-neutral practices-other and supreme-goddess
+there(tatra) indifferent(udāsīna) modes(vṛttīni) other(anyāni) supreme-lady(parameśvarī)
+
 ## mukta-m0-p53-v1308
-not but rest news-also of-anyone debate-path [kh: -cidvātha-]
+not(na) tu(tu) rest(viśrāṃti) news(vārttāpi) of-anyone(kasyacid) path-of-dispute(vādavartmanaḥ)
+
 ## mukta-m0-p53-v1309
-of-tastes here indeed from-variety [kh: citryā] in-many-ways scripture-millions
+by-taste(rucinām) here(iha) indeed(vai) from-variety(citryād) many-branches-of-scripture(bahudhāśāstrakoṭayaḥ)
+
 ## mukta-m0-p53-v1310
-political-science and beautiful-hipped from-those two scripture-emergence
+political-science(arthaśāstraṃ) and(ca) fair-hipped(suśroṇi) from-those(tābhyāṃ) scripture-emergence(śāstrasamudgamaḥ)
+
 ## mukta-m0-p53-v1311
-perception-etc means-of-knowledge in-all-ways [kh: -dhā] cause indeed-this
+perception-etc(pratyakṣādi) means-of-knowledge(pramāṇāni) in-all-ways(sarvathā) cause(kāraṇaṃ) indeed(tu) this(idam)
+
 ## mukta-m0-p53-v1312
-of-any equality goddess [kh: -vī] threefold-this means-of-knowledge-sequence
+of-someone(kasyāpi) equality(samatā) goddess(devi) threefold(trividhaḥ) this(ayam) means-of-knowledge-order(pramākramaḥ)
+
 ## mukta-m0-p53-v1313
-buddhists-and-also kanada-perception-inference-declared
+buddhists(saugatāḥ) and(ca) vaiśeṣikas(kāṇādāḥ) perception-and-inference(pratyakṣānumitī) said(jaguḥ)
+
 ## mukta-m0-p53-v1314
-nyaya-one-partisans-and-others like-samkhya [kh: sāṃkhyā-] declared
+nyāya-partial-followers(nyāyaika+deśinaḥ) and(ca) others(anye) like-sāṃkhya(sāṃkhyavat) declared(samudīritāḥ)
+
 ## mukta-m0-p53-v1315
-by-implication with-these four others said
+by-presumption(arthāpatyā) with(saha) these(etāni) four(catvāri) another(apara) said(ūcire)
+
 ## mukta-m0-p53-v1316
-arises-here by-those six means-of-knowledge-and some
+possibility(sambhava) here(aitīha) by-those-joined(yuktaiḥ+taiḥ) six(ṣaḍbhiḥ) means(mānaiḥ) and(ca) some(kecana)
+
 ## mukta-m0-p53-v1317
-here mutual-inclusion mutually debaters-arguing-scholars
+here(atri) mutual-inclusion(antarbbhāvam+anyonyaṃ) disputants(vādinaḥ) joined-paṇḍitas(yuktapaṇḍitāḥ)
+
 ## mukta-m0-p53-v1318
-more possession of-whom of-whom small-possession [kh: -he]
+again(bhūyaḥ) adoption(parigrahaḥ) of-whom(yasya) of-whom(yasya) small-adoption(svalpaparigrahaḥ)
+
 ## mukta-m0-p53-v1319
-who do [kh: kurvaṃti] following scriptures-small-possession
+those(ye) do(kurvantī) following(hamanvānāḥ) in-scriptures(śāstreṣu) small-adoption(alpaparigraham)
+
 ## mukta-m0-p53-v1320
-their opinion and shaking logic knots-by-bright [kh: graṃddhi-]
+their(teṣāṃ) view(mataṃ) and(ca) shaking(dhūnvānāḥ) logic-knots(tarka+granthibhiḥ) bright(ujvalaiḥ)
+
 ## mukta-m0-p53-v1321
-thus being in-all scriptures quarrel sequence [kh: -ha]
+thus(evaṃ) being(sati) in-all(śāstreṣu) scriptures(śāstreṣu) quarrel(kalahaṃ) order(kramaḥ)
+
 ## mukta-m0-p53-v1322
-superimposition-born reject some self-taste-debaters
+superimposition-born(āropajaṃ) reject(nirasyaṃti) some(kecit) self-taste-disputants(svarasavādinaḥ)
+
 ## mukta-m0-p53-v1323
-of-superimposition nature-but I-will-tell mountain-daughter
+of-superimposition(āropasya) nature(svarūpantu) I-will-tell(kathayāmi) mountain-daughter(nagātmaje)
+
 ## mukta-m0-p53-v1324
-clay indeed all this earth various-forms
+clay(mṛttikā) indeed(khalu) all(sarvā) this(iyaṃ) earth(bhūmiḥ) various-forms(nānāvidhākṛtiḥ)
+
 ## mukta-m0-p53-v1325
-this earth clay-only potter-hand-kneaded
+this(etat) earth(bhūmī) clay(mṛttika) indeed(eva) potter's-hand(pāṇimardditā) makes(kuṃbhakṛt) (approx)

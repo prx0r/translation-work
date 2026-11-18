@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p44-v1076
-na-not prāpyate-is-obtained janaiḥ-by-people sarvaiḥ-all akṛtvā-without-doing duṣkṛtaṃ-sin tapaḥ-austerity
+[not](na) [obtained](prāpyate) [by](janaiḥ) [all](sarvair) [without](akṛtvā) [evil](duṣkṛtaṃ) [austerity](tapaḥ)
 
 ## mukta-m0-p44-v1077
-tāsāṃ-of-them na-not kīrttayed-should-praise doṣā-faults na-not priyaṃ-pleasing tāsu-in-them saṃcaret-should-practice
+[of-them](tāsāṃ) [not](na) [should-tell](kīrttayed) [faults](doṣā) [not](na) [should-act](saṃcaret) [pleasantly](priyaṃ) [toward-them](tāsu)
 
 ## mukta-m0-p44-v1078
-yāṃ-whom kāñcid-api-anyone dṛṣṭvā-having-seen tu-indeed devatāṃ-deity eva-only bhāvayet-should-regard
+[whichever](yāṃ) [any](kāñcid) [api](api) [having-seen](dṛṣṭvā) [tu](tu) [deity](devatām) [eva](eva) [should-regard](bhāvayet)
 
 ## mukta-m0-p44-v1079
-anyatra-elsewhere kāmacāraḥ-free-will syāt-may-be tāsu-in-them mārdavam-gentleness ācaret-should-practice
+[otherwise](anyatra) [free-will](kāmacāraḥ) [would-be](syāt) [toward-them](tāsu) [gentleness](mārdavam) [should-practice](ācaret)
 
 ## mukta-m0-p44-v1080
-jīrṇa-bhojana-mātreṇa-by-old-food-only kapilaḥ-kapila prāṇināṃ-of-beings dayām-compassion
+[old-food](jīrṇabhojana) [mātreya](mātreyaḥ) [kapila](kapilaḥ) [of-beings](prāṇināṃ) [compassion](dayām)
 
 ## mukta-m0-p44-v1081
-yāga-kāla-viyoge-api-even-in-sacrifice-time-separation nikaṭe-near tāṃ-her niveśayet-should-place
+[even-at](yāgakāla) [separation](viyoge) [api](pi) [near](nikaṭe) [them](tāṃ) [should-place](niveśayet)
 
 ## mukta-m0-p44-v1082
-tayā-with-her vinā-without yadi-if japed-recites anaṅga-ananga madana-lolayā-with-desire-restless
+[without-her](tayāvinā) [if](yadi) [should-chant](japed) [limbless](anaṃga) [madalolayā](madalolayā)
 
 ## mukta-m0-p44-v1083
-tasmāt-therefore idaṃ-this mahā-yāga-great-sacrifice māhātmyaṃ-glory samudīritam-declared
+[therefore](tasmāt) [this](idaṃ) [great-sacrifice](mahāyāga) [greatness](māhātmyaṃ) [declared](samudīritam)
 
 ## mukta-m0-p44-v1084
-māhātmyaṃ-glory ca-and tvayā-by-you proktaṃ-spoken śrutaṃ-heard śrotṛ-rasāyanam-ear-elixir
+[greatness](māhātmyaṃ) [ca](ca) [by-you](tvayā) [spoken](proktaṃ) [heard](śrutaṃ) [ear-elixir](śrotṛrasāyanam)
 
 ## mukta-m0-p44-v1085
-ka-upāyaḥ-what-means maheśāna-O-maheśāna raktāḥ-attached tāḥ-they khalu-indeed siddhitāḥ-accomplished
+[ka-upāya](ka-upāyo) [maheśāna](maheśāna) [red](raktāḥ) [they](tāḥ) [indeed](khalu) [accomplished](siddhitāḥ)
 
 ## mukta-m0-p44-v1086
-anuraktābhiḥ-with-devoted-ones etābhiḥ-with-these kāryaṃ-work karmaṇi-in-rite vidyate-is-known
+[devoted](anuraktābhiḥ) [with-these](etābhiḥ) [work](kāryaṃ) [in-action](karmaṇi) [is](vidyate)
 
 ## mukta-m0-p44-v1087
-bahudoṣa-graha-grastāḥ-afflicted-by-many-faults-planets kauṭilya-upahata-āśayāḥ-crooked-injured-minds
+[many-faults](bahudoṣa) [graha-grasped](grahagrastāḥ) [crooked](kauṭilya) [corrupted-mind](upahatāśayāḥ)
 
 ## mukta-m0-p44-v1088
-atra-here upāyaṃ-means vada-tell īśāna-O-īśāna śuśrūṣitam-desired idaṃ-this mama-mine
+[here](atra) [means](upāyaṃ) [speak](vade) [īśāna](śāna) [heard](śuśrūṣitam) [this](idaṃ) [mine](mama)
 
 ## mukta-m0-p44-v1089
-striyaḥ-women svabhāva-nature capalāḥ-fickle bahudoṣa-parigrahāḥ-many-faults-possessing
+[women](striyaḥ) [nature](svabhāva) [fickle](capalāḥ) [many-faults](bahudoṣa) [possessing](parigrahāḥ)
 
 ## mukta-m0-p44-v1090
-kiṃcit-something citte-in-mind mukhe-in-mouth kiṃcit-something kiṃcit-something locana-eyes veṣṭite-covered
+[something](kiṃcit) [in-mind](citte) [in-mouth](mukhe) [something](kiṃcit) [something](kiṃcit) [eye](locana) [veiled](veṣṭite)
 
 ## mukta-m0-p44-v1091
-bahumāyā-kalāvatyaḥ-many-illusion-skilled bahunāyaka-lampaṭāḥ-many-lord-desiring
+[much-maya](bahumāyā) [artful](kalāvatyo) [much](bahu) [leader](nāyaka) [attached](laṃpaṭāḥ)
 
 ## mukta-m0-p44-v1092
-nānāvidhena-by-various bhāvena-mood tuccānāṃ-of-low tu mṛgī-dṛśām-deer-eyed
+[various](nānāvidhena) [mood](bhāvena) [tu](tu) [low](tucchānāṃ) [tu](tu) [doe-eyed](mṛgīdṛśām)
 
 ## mukta-m0-p44-v1093
-puruṣasya-of-man eka-bhāvasya-one-mood śuddha-sphaṭika-sannibhaḥ-pure-crystal-like
+[of-man](puruṣasya) [one-mood](ekabhāvasya) [pure-crystal](śuddhasphaṭika) [like](sannibhaḥ)
 
 ## mukta-m0-p44-v1094
-raktāḥ-attached iva-like viraktāḥ-detached syuḥ-may-be viraktāḥ-detached iva-like ca-and utsukāḥ-eager
+[red](raktā) [iva](iva) [dispassionate](viraktāḥ) [would-be](syuḥ) [dispassionate](viraktā) [iva](iva) [ca](ca) [eager](utsukāḥ)
 
 ## mukta-m0-p44-v1095
-śastra-pāṇinām-weapon-handed
+[weapon-handed](śastrapāṇinām)
 
 ## mukta-m0-p44-v1096
-nataiḥ-bowed bahuvidhaiḥ-many patyā-by-husband prītyā-with-affection pūritāḥ-filled api-even anukṣaṇam-moment
+[not](na) [by-many](bahuvidhaiḥ) [ways](patyā) [filled](pūritā) [api](api) [anukṣaṇam](anukṣaṇam)
 
 ## mukta-m0-p44-v1097
-na-not bhogena-by-enjoyment na-not vittena-by-wealth na-not avirodha-nivedanāt-by-non-opposition-offering
+[not](na) [by-enjoyment](bhogena) [not](na) [by-wealth](vittena) [not](na) [by-non-opposition](avirodha) [offering](nivedanāt)
 
 ## mukta-m0-p44-v1098
-sveduḥkhena-by-sweat-sorrow nipīḍyante-are-oppressed sukhaṃ-happiness teṣāṃ-their niraṃtaram-constant
+[by-sorrow](sveduḥkhena) [pressed](nipīḍyaṃte) [happiness](sukhaṃ) [their](teṣāṃ) [constant](niraṃtaram)
 
 ## mukta-m0-p44-v1099
-nirmānuṣe-in-uninhabited api-even vipine-forest sthāpitāḥ-placed śaradāṃśatam-hundred-autumns
+[without-men](nirmānuṣe) [api](pi) [forest](vipine) [placed](sthāpitāḥ) [hundred](śaradāṃ) [śatam](śatam)
 
 ## mukta-m0-p44-v1100
-nārīṇām-of-women iva-like vidyānāṃ-of-knowledges mukhaṃ-face kaiḥ-by-whom na-not abhicuṃbitam-kissed
+[of-women](nārīṇām) [iva](iva) [of-knowledges](vidyānāṃ) [face](mukhaṃ) [by-whom](kair) [not](na) [kissed](abhicuṃbitam)
