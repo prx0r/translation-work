@@ -11,16 +11,12 @@
 "quick_gloss": "sometimes"
 },
 {
-"surface": "ka",
-"quick_gloss": "particle"
-},
-{
 "surface": "kaṇaṃ",
-"quick_gloss": "grain"
+"quick_gloss": "drop"
 },
 {
 "surface": "praveśena",
-"quick_gloss": "entry"
+"quick_gloss": "by-entry"
 },
 {
 "surface": "lāñchayitvā",
@@ -69,12 +65,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "kṣipedvā",
-"quick_gloss": "throws"
+"surface": "kṣiped",
+"quick_gloss": "throw"
+},
+{
+"surface": "vā",
+"quick_gloss": "or"
 },
 {
 "surface": "śūnyadoṣaghnaṃ",
-"quick_gloss": "void-defect-destroying"
+"quick_gloss": "void-fault-destroying"
 },
 {
 "surface": "hastāt",
@@ -103,7 +103,7 @@
 },
 {
 "surface": "kṣiped",
-"quick_gloss": "throws"
+"quick_gloss": "throw"
 },
 {
 "surface": "ādye",
@@ -128,7 +128,7 @@
 "tokens": [
 {
 "surface": "piṅgalāyā",
-"quick_gloss": "piṅgalā"
+"quick_gloss": "of-piṅgalā"
 },
 {
 "surface": "mate",
@@ -165,7 +165,7 @@
 },
 {
 "surface": "vasudviṣaṭ",
-"quick_gloss": "earth-two-six"
+"quick_gloss": "earth-six-hundred"
 },
 {
 "surface": "śatāni",
@@ -186,7 +186,7 @@
 "tokens": [
 {
 "surface": "viśvakarmamataṃ",
-"quick_gloss": "viśvakarma-opinion"
+"quick_gloss": "of-viśvakarma"
 },
 {
 "surface": "dṛṣṭvā",
@@ -194,11 +194,11 @@
 },
 {
 "surface": "vaktavyaṃ",
-"quick_gloss": "should-speak"
+"quick_gloss": "to-be-spoken"
 },
 {
 "surface": "pīṭhavartanam",
-"quick_gloss": "pedestal-turning"
+"quick_gloss": "pedestal-rotation"
 }
 ]
 },
@@ -214,12 +214,12 @@
 "quick_gloss": "that"
 },
 {
-"surface": "sama-samaṃ",
+"surface": "samasamaṃ",
 "quick_gloss": "equal-linga"
 },
 {
 "surface": "liṅgaṃ",
-"quick_gloss": "liṅga"
+"quick_gloss": "linga"
 },
 {
 "surface": "prāsāde",
@@ -280,7 +280,7 @@
 "quick_gloss": "up-to-head"
 },
 {
-"surface": "nābhitaśca",
+"surface": "nābhitaś",
 "quick_gloss": "from-navel"
 },
 {
@@ -318,7 +318,7 @@
 },
 {
 "surface": "samapīṭhāni",
-"quick_gloss": "equal-pedestals"
+"quick_gloss": "equal-pedestal"
 },
 {
 "surface": "tāni",
@@ -338,20 +338,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "pañcaliṅgavyavasthā",
+"surface": "pañcaliṅgavyavastheyaṃ",
 "quick_gloss": "five-linga-arrangement"
 },
 {
-"surface": "śirovartini",
-"quick_gloss": "head-located"
+"surface": "śirovartiny",
+"quick_gloss": "head-rotating"
 },
 {
 "surface": "atha",
-"quick_gloss": "then"
+"quick_gloss": "thus"
 },
 {
 "surface": "ucyate",
-"quick_gloss": "said"
+"quick_gloss": "is-said"
 }
 ]
 },
@@ -364,15 +364,15 @@
 "tokens": [
 {
 "surface": "ekaikasya",
-"quick_gloss": "one-by-one"
+"quick_gloss": "of-each"
 },
 {
 "surface": "caturbhedaiḥ",
-"quick_gloss": "four-divisions"
+"quick_gloss": "four-varieties"
 },
 {
 "surface": "kāmyarūpāt",
-"quick_gloss": "desired-form"
+"quick_gloss": "from-desired-form"
 },
 {
 "surface": "phala",
@@ -401,7 +401,7 @@
 },
 {
 "surface": "chatrabhedāḥ",
-"quick_gloss": "umbrella-divisions"
+"quick_gloss": "umbrella-varieties"
 },
 {
 "surface": "caturvidhāḥ",
@@ -418,7 +418,7 @@
 "tokens": [
 {
 "surface": "mānada",
-"quick_gloss": "measure-giving"
+"quick_gloss": "honor-giving"
 },
 {
 "surface": "pakṣa",
@@ -426,7 +426,7 @@
 },
 {
 "surface": "lopāt",
-"quick_gloss": "loss"
+"quick_gloss": "by-loss"
 },
 {
 "surface": "ca",
@@ -488,11 +488,11 @@
 "tokens": [
 {
 "surface": "puṣṭidaṃ",
-"quick_gloss": "nourishment-giving"
+"quick_gloss": "nourishing"
 },
 {
 "surface": "dvikṣayāt",
-"quick_gloss": "two-decay"
+"quick_gloss": "by-two-decay"
 },
 {
 "surface": "pūrṇaṃ",
@@ -500,7 +500,7 @@
 },
 {
 "surface": "mahāhlādakara",
-"quick_gloss": "great-delight-causing"
+"quick_gloss": "great-delight-making"
 },
 {
 "surface": "sadā",
@@ -525,11 +525,11 @@
 },
 {
 "surface": "jñeyaṃ",
-"quick_gloss": "known"
+"quick_gloss": "to-be-known"
 },
 {
-"surface": "candraṃ",
-"quick_gloss": "candra"
+"surface": "candaṃ",
+"quick_gloss": "moon"
 },
 {
 "surface": "caturvidhaṃ",
@@ -562,11 +562,11 @@
 },
 {
 "surface": "dvikṣayāt",
-"quick_gloss": "two-decay"
+"quick_gloss": "by-two-decay"
 },
 {
 "surface": "śriye",
-"quick_gloss": "prosperity"
+"quick_gloss": "for-prosperity"
 }
 ]
 },
@@ -579,7 +579,7 @@
 "tokens": [
 {
 "surface": "ballabhatvaprada",
-"quick_gloss": "ballabha-giving"
+"quick_gloss": "belovedness-giving"
 },
 {
 "surface": "tacca",
@@ -591,7 +591,7 @@
 },
 {
 "surface": "trapuṣaṃ",
-"quick_gloss": "tin"
+"quick_gloss": "lead"
 },
 {
 "surface": "bhavet",
@@ -611,8 +611,8 @@
 "quick_gloss": "should-do"
 },
 {
-"surface": "viprādikāryārtham",
-"quick_gloss": "brahmin-etc-work"
+"surface": "viprādikāryārtha",
+"quick_gloss": "for-brahmin-etc-work"
 },
 {
 "surface": "ekaṃ",
@@ -644,12 +644,12 @@
 "quick_gloss": "then"
 },
 {
-"surface": "ardhendoḥ",
+"surface": "cendoḥ",
 "quick_gloss": "half-moon"
 },
 {
 "surface": "kṛkavākvaṇḍataḥ",
-"quick_gloss": "kṛkavāk-egg"
+"quick_gloss": "from-kṛkavāku-egg"
 },
 {
 "surface": "prajñāḥ",
@@ -678,7 +678,7 @@
 },
 {
 "surface": "brahmādiveṣṭanam",
-"quick_gloss": "brahma-etc-enclosure"
+"quick_gloss": "brahma-etc-wrapping"
 }
 ]
 },
@@ -695,7 +695,7 @@
 },
 {
 "surface": "smareṇa",
-"quick_gloss": "by-smara"
+"quick_gloss": "by-love"
 },
 {
 "surface": "aṃśatṛtīyāṃśa",
@@ -719,12 +719,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "bhāgatṛtīya",
+"surface": "bhāgatṛtīyabhāgena",
 "quick_gloss": "part-third-part"
-},
-{
-"surface": "bhāgena",
-"quick_gloss": "part"
 },
 {
 "surface": "nakhacandra",

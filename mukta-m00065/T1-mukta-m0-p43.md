@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p43-v1051
-[pada](vedāṃśapātanātkoṇa) [pada](marṭāśairatha) [pada](kambalam)
+[veda-part-falling](vedāṃśapātanāt) [corner](koṇa) [mortal-share](marṭāśairatha) [blanket](kambalam)
 
 ## mukta-m0-p43-v1052
-[pada](tryaṃśapraveśanātkaṇṭhādekaikanirgamaṃ) [pada](khuram)
+[three-part-entry](tryaṃśapraveśanāt) [throat](kaṇṭhāt) [one-by-one-exit](ekaikanirgamaṃ) [hoof](khuram)
 
 ## mukta-m0-p43-v1053
-[pada](ghaṇṭāṃ) [pada](ca) [pada](mekhalāṃ) [pada](caiva) [pada](kuryāchṛṅgāṇi) [pada](koṇataḥ)
+[bell](ghaṇṭāṃ) [and](ca) [girdle](mekhalāṃ) [and](caiva) [make](kuryāt) [horns](śṛṅgāṇi) [from-corner](koṇataḥ)
 
 ## mukta-m0-p43-v1054
-[pada](prālambyāsakta) [pada](revantaśchatradhārādibhiryutaḥ)
+[pendant-attached](prālambyāsakta) [revanta](revanta) [umbrella-ray-etc](śchatradhārādibhiryutaḥ)
 
 ## mukta-m0-p43-v1055
-[pada](nānāratnasuveśāḍhyāścaṇḍatejāḥ) [pada](svabhāvajāḥ)
+[various-gem-beautiful-wealthy](nānāratnasuveśāḍhyā) [fierce-radiance](caṇḍatejāḥ) [natural-born](svabhāvajāḥ)
 
 ## mukta-m0-p43-v1056
-[pada](somaṃ) [pada](saumyaṃ) [pada](tathā) [pada](śvetaṃ) [pada](kuṇḍikājāpyamālinam)
+[moon](somaṃ) [gentle](saumyaṃ) [and](tathā) [white](śvetaṃ) [pitcher-prayer-garlanded](kuṇḍikājāpyamālinam)
 
 ## mukta-m0-p43-v1057
-[pada](budhaṃ) [pada](śyāmaṃ) [pada](yuvānaṃ) [pada](ca) [pada](rūpiṇaṃ) [pada](cāpapāṇinam)
+[mercury](budhaṃ) [dark](śyāmaṃ) [youthful](yuvānaṃ) [formed](rūpiṇaṃ) [bow-handed](cāpapāṇinam)
 
 ## mukta-m0-p43-v1058
-[pada](yāmyekākṣaṃ) [pada](sitaṃ) [pada](śukraṃ) [pada](kuṇḍikāmantramālikam)
+[south-one-eyed](yāmyekākṣaṃ) [white](sitaṃ) [venus](śukraṃ) [pitcher-mantra-garlanded](kuṇḍikāmantramālikam)
 
 ## mukta-m0-p43-v1059
-[pada](vyāvṛttāsyaṃ) [pada](sahāsyaṃ) [pada](ca) [pada](piṅgabhrūśmaśrulocanam)
+[turned-face](vyāvṛttāsyaṃ) [with-smile](sahāsyaṃ) [and](ca) [tawny-brow-beard-eye](piṅgabhrūśmaśrulocanam)
 
 ## mukta-m0-p43-v1060
-[pada](triphalaṃ) [pada](dhūmravarṇābhaṃ) [pada](naranāgārdharūpiṇam)
+[three-hooded](triphalaṃ) [smoke-colored](dhūmravarṇābhaṃ) [man-serpent-half-formed](naranāgārdharūpiṇam)
 
 ## mukta-m0-p43-v1061
-[pada](etāṃstu) [pada](dvibhujānsarvānbhūṣaṇāmbarasaṃyutān)
+[these](etāṃstu) [two-armed-all](dvibhujānsarvān) [ornament-garment-endowed](bhūṣaṇāmbarasaṃyutān)
 
 ## mukta-m0-p43-v1062
-[pada](śakaṭaṃ) [pada](medhameteṣāmadho) [pada](yānaṃ) [pada](kramātsadā)
+[cart](śakaṭaṃ) [sacrifice](medham) [these](eteṣām) [below](adho) [vehicle](yānaṃ) [in-order-always](kramātsadā)
 
 ## mukta-m0-p43-v1063
-[pada](sitaḥ) [pada](sahasrabhogo) [pada](hīśvaraḥ) [pada](kuvalayānvitaḥ)
+[white](sitaḥ) [thousand-hooded](sahasrabhogo) [lord](hīśvaraḥ) [blue-lotus-endowed](kuvalayānvitaḥ)
 
 ## mukta-m0-p43-v1064
-[pada](kṛṣṇaḥ) [pada](karkoṭakaḥ) [pada](kaṇṭhe) [pada](śulkarekhātrayānvitaḥ)
+[black](kṛṣṇaḥ) [karkotaka](karkoṭakaḥ) [throat](kaṇṭhe) [three-stripe-marked](śulkarekhātrayānvitaḥ)
 
 ## mukta-m0-p43-v1065
-[pada](śaṅkhavarṇo) [pada](mahāpadmo) [pada](mastake) [pada](kṛṣṇaśūladhṛk)
+[conch-colored](śaṅkhavarṇo) [great-lotus](mahāpadmo) [head](mastake) [black-trident-bearer](kṛṣṇaśūladhṛk)
 
 ## mukta-m0-p43-v1066
-[pada](kuliko) [pada](raktadehastu) [pada](candrārdha) [pada](kṛtamastakaḥ)
+[kulika](kuliko) [red-bodied](raktadehastu) [half-moon](candrārdha) [made-head](kṛtamastakaḥ)
 
 ## mukta-m0-p43-v1067
-[pada](akṣasūtradharāḥ) [pada](sarve) [pada](kuṇḍikāpucchasaṃyutāḥ)
+[rosary-holders](akṣasūtradharāḥ) [all](sarve) [pitcher-tail-endowed](kuṇḍikāpucchasaṃyutāḥ)
 
 ## mukta-m0-p43-v1068
-[pada](bhṛtyāścaikaphaṇāḥ) [pada](kāryāstadrūpā) [pada](maṇivarjitāḥ)
+[servants](bhṛtyāśca) [one-hooded](ekaphaṇāḥ) [to-be-made](kāryāstadrūpā) [gem-devoid](maṇivarjitāḥ)
 
 ## mukta-m0-p43-v1069
-[pada](hārakuṇḍalakeyūraiḥ) [pada](sadābharaṇabhūṣitā)
+[garland-earring-armlet](hārakuṇḍalakeyūraiḥ) [always-ornamented](sadābharaṇabhūṣitā)
 
 ## mukta-m0-p43-v1070
-[pada](īdṛśī) [pada](manasā) [pada](kāryā) [pada](śrīkaṇṭhamanasambhavā)
+[thus](īdṛśī) [by-mind](manasā) [to-be-made](kāryā) [shrikantha-mind-born](śrīkaṇṭhamanasambhavā)
 
 ## mukta-m0-p43-v1071
-[pada](yogapaṭṭāvṛto'bjasthaḥ) [pada](kuṇḍikā) [pada](cākṣasūtrabhṛt)
+[yoga-band-covered](yogapaṭṭāvṛto) [lotus-seated]('bjasthaḥ) [pitcher](kuṇḍikā) [rosary-bearer](cākṣasūtrabhṛt)
 
 ## mukta-m0-p43-v1072
-[pada](nānālaṅkārasaṃyuktāvutpalamaṇi) [pada](bhṛtkarau)
+[various-ornament-endowed](nānālaṅkārasaṃyuktāv) [lotus-gem-bearing-hands](utpalamaṇi bhṛtkarau)
 
 ## mukta-m0-p43-v1073
-[pada](sudṛṣṭā) [pada](jalpamānā) [pada](ca) [pada](svotsaṅge) [pada](putradhāriṇī)
+[well-seen](sudṛṣṭā) [speaking](jalpamānā) [and](ca) [own-lap](svotsaṅge) [son-holding](putradhāriṇī)
 
 ## mukta-m0-p43-v1074
-[pada](padmā) [pada](nandanapadmastha) [pada](svāṅgādevī) [pada](prakīrtitā)
+[lotus](padmā) [nandana-lotus-seated](nandanapadmastha) [own-limb-goddess](svāṅgādevī) [proclaimed](prakīrtitā)
 
 ## mukta-m0-p43-v1075
-[pada](basukokakapidvikṣa) [pada](vyāghravyāghrāsyakaṃ) [pada](kramāt)
+[basukoka-kapi-two](basukokakapidvikṣa) [tiger-tiger-faced](vyāghravyāghrāsyakaṃ) [in-order](kramāt)

@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p39-v951
-[vetāla](vetāla) [śākinī](śākinī) [gṛdhra](gṛdhra) [kākolūka](kākolūka) [śivā](śivā) [ākulā](ākulā)
+[vetala](vetāla) [shakini](śākinī) [gri-dhra](gṛdhra) [kakola](kākola) [uluka](ulūka) [shiva](śivā) [akula](kulā)
 
 ## mukta-m0-p39-v952
-[ādya-aṣṭakam](ādyāṣṭakam) [idam](idaṃ) [khyātam](khyātaṃ) [śeṣa-bhedaḥ](śeṣabhedastu) [vistaraḥ](vistaraḥ)
+[adya](ādyā) [ashtakam](aṣṭakam) [idam](idaṃ) [khyata](khyātaṃ) [shesha](śeṣa) [bheda](bhedas) [tu](tu) [vistara](vistaraḥ)
 
 ## mukta-m0-p39-v953
-[danturā](danturā) [akṣemakarī](akṣemakarī) [syāt](syāt) [bhūmau](bhūmau) [jānu-karā-sthitā](jānukarāsthitā)
+[dantura](danturā) [akshemakari](akṣemakarī) [syat](syāt) [bhumau](bhūmau) [janu](jānu) [kara](karā) [sthita](sthitā)
 
 ## mukta-m0-p39-v954
-[eṅgā](eṅgā) [hāsyā](hāsyā) [mahodaryāḥ](mahodaryo) [rūpiṇyaḥ](rūpiṇyo) [apsarasaḥ](apsarasaḥ) [sadā](sadā)
+[engga](eṅgā) [hasya](hāsyā) [mahodari](mahodaryo) [rupini](rūpiṇyo) [apsaras](apsarasaḥ) [sadā](sadā)
 
 ## mukta-m0-p39-v955
-[yogeśvara](yogeśvaro) [ratha](ratha) [vīraḥ](vīraśca) [ardhacandra-āsane](ardhacandrāsane) [sthitaḥ](sthitaḥ)
+[yogeshvara](yogeśvaro) [ratha](ratha) [vira](vīraś) [ca](ca) [ardhachandra](ardhacandrā) [asane](sane) [sthita](sthitaḥ)
 
 ## mukta-m0-p39-v956
-[badhdvā](badhdvā) [vinyasya](vinyasya) [hṛdaye](hṛdaye) [athavā](athavā) [uttāna-kara-dvayam](uttānakaradvayam)
+[badhdva](badhdvā) [vinyasya](vinyasya) [hridaye](hṛdaye) [athava](athavā) [uttana](uttāna) [kara](karadvayam)
 
 ## mukta-m0-p39-v957
-[pracaṇḍaḥ](pracaṇḍo) [daṇḍa-dhārī](daṇḍadhārī) [ca](ca) [kāryaḥ](kāryaścaṇḍeśvaro) [mahān](mahān)
+[prachanda](pracaṇḍo) [danda-dhari](daṇḍadhārī) [ca](ca) [karya](kāryaś) [chandeshvara](caṇḍeśvaro) [mahan](mahān)
 
 ## mukta-m0-p39-v958
-[mahodaraḥ](mahodaro) [vṛhad-dehaḥ](vṛhaddeha) [eka-dantaḥ](ekadantastrilocanaḥ) [tri-locanaḥ](trilocanaḥ)
+[mahodara](mahodaro) [vrihad-deha](vṛhaddeha) [eka-danta](ekadanta) [tri-locana](trilocanaḥ)
 
 ## mukta-m0-p39-v959
-[divya-ambara-dharaḥ](divyāmbaradharaḥ) [kāryaḥ](kāryo) [nāga-yajñopavītavān](nāgayajñopavītavān)
+[divya-ambara-dhara](divyāmbaradharaḥ) [karya](kāryo) [naga-yajnopavita-van](nāgayajñopavītavān)
 
 ## mukta-m0-p39-v960
-[ṣoḍaśa-aṅgulakam](ṣoḍaśāṅgulakaṃ) [dairghyāt](dairghyācchuṇḍaṃ) [śuṇḍam](śuṇḍaṃ) [ṣaṭ-triṃśat-aṅgulam](ṣaḍtriṃśadaṅgulam)
+[shodasha-angulaka](ṣoḍaśāṅgulakaṃ) [dairghya](dairghyāc) [shunda](śuṇḍaṃ) [shat-trimsha-angulam](ṣaḍtriṃśadaṅgulam)
 
 ## mukta-m0-p39-v961
-[pīnaḥ](pīnaḥ) [samunnata-uraskaḥ](samunnatoraskaḥ) [kartavyaḥ](kartavyo) [gaṇa-nāyakaḥ](gaṇanāyakaḥ)
+[pina](pīnaḥ) [samunnata-uraska](samunnatoraskaḥ) [kartavya](kartavyo) [gana-nayaka](gaṇanāyakaḥ)
 
 ## mukta-m0-p39-v962
-[kaṇṭha-guhā-antaram](kaṇṭhaguhayāntaraṃ) [kāryam](kāryaṃ) [samam](samaṃ) [dvā-triṃśat-aṅgulam](dvātriṃśadaṅgulam)
+[kantha-guhya-antaram](kaṇṭhaguhayāntaraṃ) [karya](kāryaṃ) [samam](samaṃ) [dva-trimsha-angulam](dvātriṃśadaṅgulam)
 
 ## mukta-m0-p39-v963
-[mastakam](mastakaṃ) [niviḍam](niviḍaṃ) [vyastam](vyastaṃ) [vāma-kumbha-samunnatam](vāmakumbhasamunnatam)
+[mastaka](mastakaṃ) [nivida](niviḍaṃ) [vyasta](vyastaṃ) [vama](vāma) [kumbha-samunnatam](kumbhasamunnatam)
 
 ## mukta-m0-p39-v964
-[randhram](randhraṃ) [randhra-aṅgulau](randhrāṅgulau) [kumbhau](kumbhau) [tan-madhye](tanmadhye) [sūtra-mānatāḥ](sūtramānataḥ)
+[randhra](randhraṃ) [randhra-angulau](randhrāṅgulau) [kumbhau](kumbhau) [tan-madhye](tanmadhye) [sutram-anata](sūtramānataḥ)
 
 ## mukta-m0-p39-v965
-[ekaikam](ekaikaṃ) [hrāsa-yogena](hrāsayogena) [yāvat](yāvad) [veda-aṅgula-sthitiḥ](vedāṅgulasthitiḥ)
+[eka-ekam](ekaikaṃ) [hrasa-yogena](hrāsayogena) [yavat](yāvad) [veda-angula-sthiti](vedāṅgulasthitiḥ)
 
 ## mukta-m0-p39-v966
-[pañca-tāla-pradairghyam](pañcatālapradairghyaṃ) [ca](ca) [catuḥ-tāla-viveśanam](catustālaviveśanam)
+[pancha-tala-pradairghyam](pañcatālapradairghyaṃ) [ca](ca) [chatustala-viveshanam](catustālaviveśanam)
 
 ## mukta-m0-p39-v967
-[sva-dantam](svadantaṃ) [dakṣiṇe](dakṣiṇe) [pāṇau](pāṇau) [vāma-haste](vāmahaste) [ca](ca) [laḍḍukam](laḍḍukam)
+[sva-dantam](svadantaṃ) [dakshine](dakṣiṇe) [panau](pāṇau) [vama-haste](vāmahaste) [ca](ca) [laddukam](laḍḍukam)
 
 ## mukta-m0-p39-v968
-[gaṇeśa-lakṣaṇam](gaṇeśalakṣaṇaṃ) [proktam](proktaṃ) [catur-hastam](caturhastaṃ) [tu](tu) [na-anyathā](nānyathā)
+[ganesha-lakshana](gaṇeśalakṣaṇaṃ) [prokta](proktaṃ) [chatur-hastam](caturhastaṃ) [tu](tu) [na-anyatha](nānyathā)
 
 ## mukta-m0-p39-v969
-[bhujābhyām](bhujābhyāmadhikaṃ) [adhikam](adhikam) [kuryāt](kuryāt) [ṣaḍ-bhujam](ṣaḍbhujaṃ) [pūrvavat](pūrvavacca) [tam](tam)
+[bhuja-abhyam](bhujābhyām) [adhikam](adhikaṃ) [kuryat](kuryāt) [shad-bhujam](ṣaḍbhujaṃ) [purvavat](pūrvavac) [ca](ca) [tam](tam)
 
 ## mukta-m0-p39-v970
-[vāmam](vāmaṃ) [ca](ca) [abhaya-dam](abhayadaṃ) [hastam](hastam) [śubham](śubhaṃ) [ca](ca) [aṣṭa-bhuja-anvitam](aṣṭabhujānvitam)
+[vamam](vāmaṃ) [ca](ca) [abhaya-dam](abhayadaṃ) [hastam](hastaṃ) [shubham](śubhaṃ) [ca](ca) [ashta-bhuja-anvitam](aṣṭabhujānvitam)
 
 ## mukta-m0-p39-v971
-[padmādhastāt](padmādhastāttu) [tu](tu) [kartavyaḥ](kartavyo) [mahākhu](mahākhu) [ca](ca) [āru-rūpavān](ārurūpavān)
+[padma-adhastat](padmādhastāt) [tu](tu) [kartavya](kartavyo) [mahakhu](mahākhu) [ca](ca) [aru-rupavan](ārurūpavān)
 
 ## mukta-m0-p39-v972
-[ṣaḍ-bhujaḥ](ṣaḍbhujaścāṣṭabāhuśca) [ca](ca) [aṣṭa-bāhuḥ](aṣṭabāhuḥ) [ca](ca) [prahṛṣṭaḥ](prahṛṣṭastāṇḍavākulaḥ) [tāṇḍava-ākulaḥ](tāṇḍavākulaḥ)
+[shad-bhuja](ṣaḍbhujaś) [ca](ca) [ashta-bahu](aṣṭabāhuś) [ca](ca) [prahrishtha](prahṛṣṭas) [tandava-akula](tāṇḍavākulaḥ)
 
 ## mukta-m0-p39-v973
-[ādyam](ādyaṃ) [sitam](sitaṃ) [gṛhe](gṛhe) [abhīṣṭam](abhīṣṭaṃ) [tri-vidham](trividhaṃ) [sura-mandire](suramandire)
+[adyam](ādyaṃ) [sitam](sitaṃ) [grihe](gṛhe) [abhishtham](abhīṣṭaṃ) [tri-vidham](trividhaṃ) [sura-mandire](suramandire)
 
 ## mukta-m0-p39-v974
-[bhujaiḥ](bhujairdvādaśabhiryuktaḥ) [dvādaśabhiḥ](dvādaśabhiḥ) [yuktaḥ](yuktaḥ) [skandaḥ](skando) [mukhyaḥ](mukhyaḥ) [surūpakaḥ](surūpakaḥ)
+[bhuja](bhujair) [dvadashabhih](dvādaśabhir) [yukta](yuktaḥ) [skanda](skando) [mukhya](mukhyaḥ) [surupaka](surūpakaḥ)
 
 ## mukta-m0-p39-v975
-[śāntyā](śāntyā) [ca](ca) [dakṣiṇe](dakṣiṇe) [haste](haste) [ṣaḍbhiḥ](ṣaḍbhirvāmakare) [vāma-kare](vāmakare) [tathā](tathā)
+[shantya](śāntyā) [ca](ca) [dakshine](dakṣiṇe) [haste](haste) [shadbhih](ṣaḍbhir) [vama-kare](vāmakare) [tatha](tathā)
