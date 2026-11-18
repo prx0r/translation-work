@@ -7,16 +7,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "bhūta",
-"quick_gloss": "past"
-},
-{
-"surface": "bhāvi",
-"quick_gloss": "future"
-},
-{
-"surface": "vibhāvinī",
-"quick_gloss": "perceiving"
+"surface": "bhūtabhāvivibhāvinī",
+"quick_gloss": "being-becoming-manifesting"
 }
 ]
 },
@@ -28,32 +20,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "ataḥ",
+"surface": "ato'nyaḥ",
 "quick_gloss": "other"
-},
-{
-"surface": "nyaḥ",
-"quick_gloss": "nyaḥ"
 },
 {
 "surface": "kaḥ",
 "quick_gloss": "who"
 },
 {
-"surface": "sadā",
-"quick_gloss": "always"
+"surface": "sadādyantastvāṃ",
+"quick_gloss": "always-beginning-ending"
 },
 {
-"surface": "ādyanta",
-"quick_gloss": "beginning-end"
-},
-{
-"surface": "tvām",
-"quick_gloss": "you"
-},
-{
-"surface": "vibhāvayitum",
-"quick_gloss": "to-perceive"
+"surface": "vibhāvayituṃ",
+"quick_gloss": "to-manifest"
 },
 {
 "surface": "kṣamaḥ",
@@ -90,12 +70,8 @@
 "quick_gloss": "auspicious"
 },
 {
-"surface": "astu",
-"quick_gloss": "let-be"
-},
-{
 "surface": "asya",
-"quick_gloss": "his"
+"quick_gloss": "of-him"
 },
 {
 "surface": "sadā",
@@ -116,7 +92,7 @@
 "tokens": [
 {
 "surface": "suśīlā",
-"quick_gloss": "well-disposed"
+"quick_gloss": "good-character"
 }
 ]
 },
@@ -128,24 +104,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "svayam",
+"surface": "svayaṃ",
 "quick_gloss": "self"
 },
 {
 "surface": "suśīlā",
-"quick_gloss": "well-disposed"
+"quick_gloss": "good-character"
 },
 {
 "surface": "yadi",
 "quick_gloss": "if"
 },
 {
-"surface": "na",
-"quick_gloss": "not"
-},
-{
-"surface": "abhaviṣyaḥ",
-"quick_gloss": "would-be"
+"surface": "nābhaviṣyaḥ",
+"quick_gloss": "not-would-be"
 }
 ]
 },
@@ -158,7 +130,7 @@
 "tokens": [
 {
 "surface": "paramārthaprabodhikā",
-"quick_gloss": "ultimate-truth-awakening"
+"quick_gloss": "ultimate-meaning-awakening"
 }
 ]
 },
@@ -174,7 +146,7 @@
 "quick_gloss": "by-attainment"
 },
 {
-"surface": "bhrāmaka",
+"surface": "bhrāmakān",
 "quick_gloss": "wandering"
 },
 {
@@ -182,7 +154,7 @@
 "quick_gloss": "other"
 },
 {
-"surface": "arthān",
+"surface": "arthāñ",
 "quick_gloss": "harms"
 },
 {
@@ -204,7 +176,7 @@
 "tokens": [
 {
 "surface": "dakṣiṇā",
-"quick_gloss": "right/south"
+"quick_gloss": "right-generous"
 }
 ]
 },
@@ -216,28 +188,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "yataḥ",
-"quick_gloss": "since"
+"surface": "yatastataḥ",
+"quick_gloss": "whence-thence"
 },
 {
-"surface": "tataḥ",
-"quick_gloss": "tataḥ"
+"surface": "tataprajñair",
+"quick_gloss": "that-intelligence"
 },
 {
-"surface": "tataḥ",
-"quick_gloss": "tataḥ"
-},
-{
-"surface": "prajñaiḥ",
-"quick_gloss": "prajñaiḥ"
-},
-{
-"surface": "dakṣiṇā",
-"quick_gloss": "dakṣiṇā"
-},
-{
-"surface": "iti",
-"quick_gloss": "iti"
+"surface": "dakṣiṇeti",
+"quick_gloss": "right"
 },
 {
 "surface": "prakīrtyase",
@@ -254,7 +214,7 @@
 "tokens": [
 {
 "surface": "dakṣiṇāmūrtiḥ",
-"quick_gloss": "south-facing-form"
+"quick_gloss": "right-facing-form"
 }
 ]
 },
@@ -271,11 +231,11 @@
 },
 {
 "surface": "dakṣiṇāmūrtiḥ",
-"quick_gloss": "dakṣiṇāmūrti"
+"quick_gloss": "right-facing-form"
 },
 {
 "surface": "iti",
-"quick_gloss": "iti"
+"quick_gloss": "thus"
 },
 {
 "surface": "prasiddhā",
@@ -292,7 +252,7 @@
 "tokens": [
 {
 "surface": "sudakṣiṇā",
-"quick_gloss": "very-auspicious"
+"quick_gloss": "very-right"
 }
 ]
 },
@@ -304,11 +264,11 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "satyam",
+"surface": "satyaṃ",
 "quick_gloss": "true"
 },
 {
-"surface": "tataḥ",
+"surface": "tato",
 "quick_gloss": "then"
 },
 {
@@ -316,12 +276,8 @@
 "quick_gloss": "goddess"
 },
 {
-"surface": "sudakṣiṇā",
-"quick_gloss": "sudakṣiṇā"
-},
-{
-"surface": "asi",
-"quick_gloss": "you-are"
+"surface": "sudakṣiṇāsi",
+"quick_gloss": "very-right"
 }
 ]
 },
@@ -334,7 +290,7 @@
 "tokens": [
 {
 "surface": "haripriyā",
-"quick_gloss": "dear-to-hari"
+"quick_gloss": "hari-beloved"
 }
 ]
 },
@@ -351,7 +307,7 @@
 },
 {
 "surface": "yaddayayā",
-"quick_gloss": "by-whose-grace"
+"quick_gloss": "by-whose-compassion"
 },
 {
 "surface": "devī",
@@ -359,7 +315,7 @@
 },
 {
 "surface": "kīrtitā",
-"quick_gloss": "is-praised"
+"quick_gloss": "praised"
 },
 {
 "surface": "sā",
@@ -367,7 +323,7 @@
 },
 {
 "surface": "haripriyā",
-"quick_gloss": "haripriyā"
+"quick_gloss": "hari-beloved"
 }
 ]
 },
@@ -393,7 +349,7 @@
 "tokens": [
 {
 "surface": "rogaśokavinivartitāśayā",
-"quick_gloss": "disease-sorrow-removed"
+"quick_gloss": "disease-sorrow-removed-mind"
 },
 {
 "surface": "yoginī",
@@ -401,10 +357,10 @@
 },
 {
 "surface": "subhagayogadā",
-"quick_gloss": "auspicious-yoga-giver"
+"quick_gloss": "auspicious-yoga-giving"
 },
 {
-"surface": "astu",
+"surface": "stu",
 "quick_gloss": "let-be"
 },
 {
@@ -434,20 +390,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "cidānanda",
-"quick_gloss": "consciousness-bliss"
+"surface": "cidānandaiva",
+"quick_gloss": "consciousness-bliss-only"
 },
 {
-"surface": "eva",
-"quick_gloss": "eva"
-},
-{
-"surface": "yat",
-"quick_gloss": "which"
-},
-{
-"surface": "nityam",
-"quick_gloss": "always"
+"surface": "yannityaṃ",
+"quick_gloss": "because"
 },
 {
 "surface": "yogayuktā",
@@ -459,7 +407,7 @@
 },
 {
 "surface": "svataḥ",
-"quick_gloss": "by-itself"
+"quick_gloss": "by-self"
 }
 ]
 },
@@ -471,7 +419,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "yogāṅga",
+"surface": "yogāṅgā",
 "quick_gloss": "yoga-limb"
 }
 ]
@@ -485,27 +433,19 @@
 "tokens": [
 {
 "surface": "āpannānām",
-"quick_gloss": "of-the-afflicted"
+"quick_gloss": "of-afflicted"
 },
 {
-"surface": "āpad",
-"quick_gloss": "of-calamity"
-},
-{
-"surface": "anta",
-"quick_gloss": "anta"
-},
-{
-"surface": "ekahetuḥ",
-"quick_gloss": "eka-hetu"
+"surface": "āpadantaikahetuḥ",
+"quick_gloss": "calamity-end-single-cause"
 },
 {
 "surface": "yogāṅgeyaṃ",
-"quick_gloss": "yogāṅga"
+"quick_gloss": "yoga-limb"
 },
 {
 "surface": "kīrtitā",
-"quick_gloss": "is-praised"
+"quick_gloss": "praised"
 },
 {
 "surface": "yogināthaiḥ",
@@ -522,7 +462,7 @@
 "tokens": [
 {
 "surface": "dhyānaśālinī",
-"quick_gloss": "meditation-endowed"
+"quick_gloss": "meditation-possessing"
 }
 ]
 },
@@ -534,23 +474,15 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "sarvadhyeyā",
+"surface": "sarvadhyeyāpi",
 "quick_gloss": "all-meditation-worthy"
 },
 {
-"surface": "api",
-"quick_gloss": "api"
-},
-{
-"surface": "sarvā",
+"surface": "sarvāsi",
 "quick_gloss": "all"
 },
 {
-"surface": "asi",
-"quick_gloss": "you-are"
-},
-{
-"surface": "tvam",
+"surface": "tvaṃ",
 "quick_gloss": "you"
 },
 {
@@ -559,7 +491,7 @@
 },
 {
 "surface": "dhyānaśālinī",
-"quick_gloss": "meditation-endowed"
+"quick_gloss": "meditation-possessing"
 }
 ]
 },
@@ -572,7 +504,7 @@
 "tokens": [
 {
 "surface": "yogapaṭṭadharā",
-"quick_gloss": "yoga-band-wearer"
+"quick_gloss": "yoga-band-wearing"
 }
 ]
 }
