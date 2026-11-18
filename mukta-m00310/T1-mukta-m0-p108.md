@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p108-v2676
-there-indeed(tatraiva) dwells(vasate) durga(durgā) nine-formed(navarūpātmikā) supreme(parā)
+there-indeed resides durga nine-form-essence supreme
 
 ## mukta-m0-p108-v2677
-who(yā) durga(durgeti) is-called(smṛtā) in-the-world(loke) brahmanda-womb-dwelling(brahmāṇḍodaravartinī)
+she durga-thus remembered world brahmanda-womb-dwelling
 
 ## mukta-m0-p108-v2678
-for-slaying(mahiṣasyāsurendrasya) of-the-buffalo-demon-lord(vadhārthāyāvatāritā)
+buffalo-demon-lord's killing-purpose descended
 
 ## mukta-m0-p108-v2679
-her(tāmevāharniśaṃ) day-and-night(dhyāye) meditate(śrīvidyāṃ) supreme(śrīvidyāṃ) chant(paramāṃ) jape
+her-indeed day-night meditate sri-vidya supreme chant
 
 ## mukta-m0-p108-v2680
-whom(yāṃ) hearing(śrutvā) he(sa) shiva(śivo) became(jātaḥ) five-sound-formed(pañcanādātmakaḥ) shiva(śivaḥ)
+whom hearing he shiva born five-sound-essence shiva
 
 ## mukta-m0-p108-v2681
-directly(sākṣādbhuvanarūpāpi) world-formed(mahājyotiḥsvarūpiṇī) great-light-natured
+directly-world-form-even great-light-essence
 
 ## mukta-m0-p108-v2682
-shiva(śivaḥ) from-the-radiance-orb(prabhāmaṇḍalato) emerged(nirgato) unconscious(acetano) all-pervading(vibhuḥ)
+shiva radiance-orb from emerged unconscious lord
 
 ## mukta-m0-p108-v2683
-created(sṛṣṭo) first-teacher(agramanunāyakaḥ)
+created-first-guide
 
 ## mukta-m0-p108-v2684
-shiva(śivo) chanted(jajāpa) suddenly(sahasā) seed-mantra(bījaṃ) of-the-three-worlds(trijagatāṃ) to-shiva(śive)
+shiva chanted suddenly seed three-worlds shive
 
 ## mukta-m0-p108-v2685
-abode-of-eternal-bliss(sadānandālayaṃ) supreme(param)
+eternal-bliss-abode supreme
 
 ## mukta-m0-p108-v2686
-then(tato) sound(nādaṃ) he(sa) heard(śuśrāva) free-from-bad-letters(duṣṭavarṇavivarjitam)
+then sound he heard evil-syllable-devoid
 
 ## mukta-m0-p108-v2687
-then(tato) chanting(japtvā) supreme-vidya(parāṃ) vidyāmasṛjajjagadambike) created-the-world-mother
+then chanting supreme vidya created world-mother
 
 ## mukta-m0-p108-v2688
-by-will(icchāmātraṃ) shiva(śive) universe(viśvaṃ) world-lord(viśveśvari) moving-and-still(carācaram)
+will-only shive universe world-lady movable-immovable
 
 ## mukta-m0-p108-v2689
-thus(itīmāṃ) secret-vidya(guptavidyāṃ) tu(labdhvā) from-guru-worship(gurupadārcanāt)
+thus this secret-vidya but obtained guru-feet-worship from
 
 ## mukta-m0-p108-v2690
-cloth(vastraṃ) fire(vahniṃ) desire(kāmaṃ) wealth(dhanaṃ) conduct(vṛttaṃ) ca(sādhakaḥ) practitioner
+cloth fire and desire and wealth conduct and practitioner
 
 ## mukta-m0-p108-v2691
-shri-chakra(śrīcakramidamādhāraṃ) devi's(devyā) power-cause(vibhavakāraṇam)
+sri-chakra this-support goddess's power-cause
 
 ## mukta-m0-p108-v2692
-chakra(cakraṃ) draw(likhenmahādevi) great-goddess(pūjyamabjārkayordalaiḥ) worship-with-lotus-and-sun-petals
+chakra draw great-goddess worship-worthy lotus-sun petals
 
 ## mukta-m0-p108-v2693
-whoever(cakre) worships(saṃpūjayedyastu) blue-shining(nīlābhāṃ) burning(dāhanīṃ) radiance(dyutim)
+in-chakra worship whoever blue-shining burning radiance
 
 ## mukta-m0-p108-v2694
-shining-crown(lasanmukuṭarociṣṇuḥ) he(sa) becomes(bhavet) best-practitioner(sādhakottamaḥ)
+shining-crown-radiant he becomes practitioner-best
 
 ## mukta-m0-p108-v2695
-great-goddess(maheśvari)
+great-goddess
 
 ## mukta-m0-p108-v2696
-his(kheṭakāstasya) weapons(tuṣyanti) are-pleased(sādhakasyāṅgapūjanāt) by-limb-worship
+weapons his pleased practitioner limb-worship from
 
 ## mukta-m0-p108-v2697
-dispersed(vidrutāḥ)
+fled
 
 ## mukta-m0-p108-v2698
-durga(durgā) gem-filled(ratnavatī) earth(bhūmistasya) pedestal(pīṭhaṃ) charming(manoharam)
+durga jewel-possessing earth his seat charming
 
 ## mukta-m0-p108-v2699
-thus(evaṃ) meditate(dhyāyenmahādevīṃ) great-goddess(durgāṃ) durga(durgatināśinīm) destroyer-of-distress
+thus meditate great-goddess durga distress-destroyer
 
 ## mukta-m0-p108-v2700
-unspeakable(avaktavyamadātavyaṃ) not-to-be-given(gopanīyaṃ) to-be-concealed(svayonivat) like-one's-own-source
+unspeakable not-givable secret own-source-like

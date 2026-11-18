@@ -8,7 +8,7 @@
 "tokens": [
 {
 "surface": "sthāṇurūpaḥ",
-"quick_gloss": "pillar-form"
+"quick_gloss": "standing-form"
 },
 {
 "surface": "caragatiḥ",
@@ -37,11 +37,11 @@
 "tokens": [
 {
 "surface": "lakṣmīnetravaśī",
-"quick_gloss": "wealth-eye-subduer"
+"quick_gloss": "wealth+eye+subduer"
 },
 {
 "surface": "lakṣmīhāsavaśyaḥ",
-"quick_gloss": "wealth-smile-subdued"
+"quick_gloss": "wealth+smile+subdued"
 },
 {
 "surface": "vinartakaḥ",
@@ -58,15 +58,15 @@
 "tokens": [
 {
 "surface": "vāsavaḥ",
-"quick_gloss": "indra"
+"quick_gloss": "vasava"
 },
 {
 "surface": "gopyamārgeṣṭaḥ",
-"quick_gloss": "hidden-path-desired"
+"quick_gloss": "secret+path+desired"
 },
 {
 "surface": "vaiṣṇavācāratatparaḥ",
-"quick_gloss": "vaiṣṇava-conduct-devoted"
+"quick_gloss": "vaishnava+conduct+devoted"
 }
 ]
 },
@@ -79,7 +79,7 @@
 "tokens": [
 {
 "surface": "satyaḥ",
-"quick_gloss": "truth"
+"quick_gloss": "true"
 },
 {
 "surface": "stutyaḥ",
@@ -95,11 +95,11 @@
 },
 {
 "surface": "nityātmā",
-"quick_gloss": "eternal-self"
+"quick_gloss": "eternal+self"
 },
 {
 "surface": "nityadarśanaḥ",
-"quick_gloss": "eternal-vision"
+"quick_gloss": "eternal+vision"
 }
 ]
 },
@@ -112,15 +112,15 @@
 "tokens": [
 {
 "surface": "pañcamasvarasaṅgītaḥ",
-"quick_gloss": "fifth-note-music"
+"quick_gloss": "fifth+note+music"
 },
 {
 "surface": "kīrtidaḥ",
-"quick_gloss": "glory-giver"
+"quick_gloss": "fame+giver"
 },
 {
 "surface": "mohanāśanaḥ",
-"quick_gloss": "delusion-destroyer"
+"quick_gloss": "delusion+destroyer"
 }
 ]
 },
@@ -132,16 +132,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "lakṣmīyogīśvaraḥ",
-"quick_gloss": "wealth-yoga-lord"
+"surface": "lakṣmīyogeśvaraḥ",
+"quick_gloss": "wealth+yoga+lord"
 },
 {
 "surface": "lakṣmīyogadaḥ",
-"quick_gloss": "wealth-yoga-giver"
+"quick_gloss": "wealth+yoga+giver"
 },
 {
 "surface": "bhogināyakaḥ",
-"quick_gloss": "enjoyment-leader"
+"quick_gloss": "enjoyment+leader"
 }
 ]
 },
@@ -154,15 +154,15 @@
 "tokens": [
 {
 "surface": "acintyamahimā",
-"quick_gloss": "unthinkable-glory"
+"quick_gloss": "unthinkable+glory"
 },
 {
 "surface": "acintyagarimā",
-"quick_gloss": "unthinkable-weight"
+"quick_gloss": "unthinkable+weight"
 },
 {
 "surface": "ghoranisvanaḥ",
-"quick_gloss": "terrible-sound"
+"quick_gloss": "terrible+sound"
 }
 ]
 },
@@ -175,19 +175,19 @@
 "tokens": [
 {
 "surface": "kāmadevaḥ",
-"quick_gloss": "love-god"
+"quick_gloss": "love+god"
 },
 {
 "surface": "vaidyavaidyaḥ",
-"quick_gloss": "physician-of-physicians"
+"quick_gloss": "physician+of+physicians"
 },
 {
 "surface": "vedavid",
-"quick_gloss": "veda-knower"
+"quick_gloss": "veda+knower"
 },
 {
 "surface": "vedanāyakaḥ",
-"quick_gloss": "veda-leader"
+"quick_gloss": "veda+leader"
 }
 ]
 },
@@ -204,11 +204,11 @@
 },
 {
 "surface": "yamināṃ+trātā",
-"quick_gloss": "ascetics-protector"
+"quick_gloss": "ascetics+protector"
 },
 {
 "surface": "trilokajanakaḥ",
-"quick_gloss": "three-worlds-father"
+"quick_gloss": "three+world+father"
 },
 {
 "surface": "ajaraḥ",
@@ -225,19 +225,19 @@
 "tokens": [
 {
 "surface": "lakṣmīpṛthuḥ",
-"quick_gloss": "wealth-expander"
+"quick_gloss": "wealth+broad"
 },
 {
 "surface": "vasuprītaḥ",
-"quick_gloss": "vasu-pleased"
+"quick_gloss": "wealth+pleased"
 },
 {
 "surface": "lakṣmīśrīdaḥ",
-"quick_gloss": "wealth-glory-giver"
+"quick_gloss": "wealth+glory+giver"
 },
 {
 "surface": "śriyaḥpatiḥ",
-"quick_gloss": "glory-lord"
+"quick_gloss": "glory+lord"
 }
 ]
 },
@@ -251,6 +251,10 @@
 {
 "surface": "anirvartī",
 "quick_gloss": "irreversible"
+},
+{
+"surface": "ca",
+"quick_gloss": "and"
 },
 {
 "surface": "niḥsaṅgaḥ",
@@ -275,19 +279,23 @@
 "tokens": [
 {
 "surface": "nirāśrayaḥ",
-"quick_gloss": "supportless"
+"quick_gloss": "refugeless"
 },
 {
 "surface": "nirguṇaḥ",
 "quick_gloss": "qualityless"
 },
 {
+"surface": "ca",
+"quick_gloss": "and"
+},
+{
 "surface": "guṇātītaḥ",
-"quick_gloss": "beyond-qualities"
+"quick_gloss": "beyond+qualities"
 },
 {
 "surface": "gaṇeśvaraḥ",
-"quick_gloss": "troop-lord"
+"quick_gloss": "troop+lord"
 }
 ]
 },
@@ -300,11 +308,11 @@
 "tokens": [
 {
 "surface": "mahākratuḥ",
-"quick_gloss": "great-sacrifice"
+"quick_gloss": "great+sacrifice"
 },
 {
 "surface": "yajñavapuḥ",
-"quick_gloss": "sacrifice-body"
+"quick_gloss": "sacrifice+bodied"
 },
 {
 "surface": "varāhaḥ",
@@ -312,7 +320,7 @@
 },
 {
 "surface": "yajñanāyakaḥ",
-"quick_gloss": "sacrifice-leader"
+"quick_gloss": "sacrifice+leader"
 }
 ]
 },
@@ -325,15 +333,15 @@
 "tokens": [
 {
 "surface": "lakṣmīnirañjanaḥ",
-"quick_gloss": "wealth-unsullied"
+"quick_gloss": "wealth+unstained"
 },
 {
 "surface": "lakṣmīsiddhidaḥ",
-"quick_gloss": "wealth-accomplishment-giver"
+"quick_gloss": "wealth+accomplishment+giver"
 },
 {
 "surface": "siddhivardhanaḥ",
-"quick_gloss": "accomplishment-increaser"
+"quick_gloss": "accomplishment+increaser"
 }
 ]
 },
@@ -346,15 +354,15 @@
 "tokens": [
 {
 "surface": "sarvalokadharaḥ",
-"quick_gloss": "all-worlds-bearer"
+"quick_gloss": "all+world+bearer"
 },
 {
 "surface": "dāntaḥ",
-"quick_gloss": "self-controlled"
+"quick_gloss": "tamed"
 },
 {
 "surface": "dantidantāyudhaḥ",
-"quick_gloss": "elephant-tusk-armed"
+"quick_gloss": "elephant+tusk+weapon"
 },
 {
 "surface": "damī",
@@ -371,19 +379,15 @@
 "tokens": [
 {
 "surface": "mahākarmā",
-"quick_gloss": "great-actor"
+"quick_gloss": "great+action"
 },
 {
 "surface": "mahācīnaḥ",
-"quick_gloss": "great-china"
+"quick_gloss": "great+china"
 },
 {
-"surface": "makāraḥ",
-"quick_gloss": "ma-syllable"
-},
-{
-"surface": "śivapūjitaḥ",
-"quick_gloss": "śiva-worshipped"
+"surface": "makāraśivapūjitaḥ",
+"quick_gloss": "ma-syllable+shiva+worshipped"
 }
 ]
 },
@@ -396,15 +400,15 @@
 "tokens": [
 {
 "surface": "māṃsāhārī",
-"quick_gloss": "meat-eater"
+"quick_gloss": "meat+eater"
 },
 {
 "surface": "nityasaṅgī",
-"quick_gloss": "eternal-companion"
+"quick_gloss": "eternal+companion"
 },
 {
 "surface": "mīnāsavarasākulaḥ",
-"quick_gloss": "fish-essence-filled"
+"quick_gloss": "fish+..."
 }
 ]
 },
@@ -417,15 +421,15 @@
 "tokens": [
 {
 "surface": "aghoradevaḥ",
-"quick_gloss": "not-terrible-god"
+"quick_gloss": "aghora+god"
 },
 {
 "surface": "daityāriḥ",
-"quick_gloss": "demon-enemy"
+"quick_gloss": "demon+enemy"
 },
 {
 "surface": "jitadevaḥ",
-"quick_gloss": "conquered-god"
+"quick_gloss": "conquered+god"
 },
 {
 "surface": "divākaraḥ",
@@ -442,19 +446,15 @@
 "tokens": [
 {
 "surface": "satsvarūpaḥ",
-"quick_gloss": "true-form"
+"quick_gloss": "true+form"
 },
 {
 "surface": "virūpākṣaḥ",
-"quick_gloss": "odd-eyed"
+"quick_gloss": "distorted+eye"
 },
 {
-"surface": "vibhākaraḥ",
-"quick_gloss": "radiance-maker"
-},
-{
-"surface": "śataprabhaḥ",
-"quick_gloss": "hundred-splendor"
+"surface": "vibhākaraśataprabhaḥ",
+"quick_gloss": "radiance+maker+hundred+radiance"
 }
 ]
 },
@@ -467,19 +467,19 @@
 "tokens": [
 {
 "surface": "pīnabāhuḥ",
-"quick_gloss": "stout-armed"
+"quick_gloss": "plump+arm"
 },
 {
 "surface": "sthūlapādaḥ",
-"quick_gloss": "thick-footed"
+"quick_gloss": "thick+foot"
 },
 {
 "surface": "dīrghacakṣuḥ",
-"quick_gloss": "long-eyed"
+"quick_gloss": "long+eye"
 },
 {
 "surface": "alaṃbhujaḥ",
-"quick_gloss": "pendant-armed"
+"quick_gloss": "hanging+arm"
 }
 ]
 },
@@ -492,15 +492,15 @@
 "tokens": [
 {
 "surface": "lakṣmīsanātanaḥ",
-"quick_gloss": "wealth-eternal"
+"quick_gloss": "wealth+eternal"
 },
 {
 "surface": "lakṣmīdharmādhyakṣaḥ",
-"quick_gloss": "wealth-dharma-overseer"
+"quick_gloss": "wealth+dharma+superintendent"
 },
 {
 "surface": "dhaneśvaraḥ",
-"quick_gloss": "wealth-lord"
+"quick_gloss": "wealth+lord"
 }
 ]
 },
@@ -513,19 +513,19 @@
 "tokens": [
 {
 "surface": "vīrahaḥ",
-"quick_gloss": "hero-slayer"
+"quick_gloss": "hero"
 },
 {
 "surface": "puṇḍarīkākṣaḥ",
-"quick_gloss": "lotus-eyed"
+"quick_gloss": "lotus+eye"
 },
 {
 "surface": "padmanābhaḥ",
-"quick_gloss": "lotus-navel"
+"quick_gloss": "lotus+navel"
 },
 {
 "surface": "jagatprabhuḥ",
-"quick_gloss": "world-lord"
+"quick_gloss": "world+lord"
 }
 ]
 },
@@ -538,19 +538,19 @@
 "tokens": [
 {
 "surface": "sahasrabāhuḥ",
-"quick_gloss": "thousand-armed"
+"quick_gloss": "thousand+arm"
 },
 {
 "surface": "kṣatreśaḥ",
-"quick_gloss": "kṣatriya-lord"
+"quick_gloss": "kshatriya+lord"
 },
 {
 "surface": "brāhmaṇaḥ",
-"quick_gloss": "brāhmaṇa"
+"quick_gloss": "brahmin"
 },
 {
 "surface": "vaṇijāṃ+patiḥ",
-"quick_gloss": "merchants-lord"
+"quick_gloss": "merchants+lord"
 }
 ]
 },
@@ -563,19 +563,19 @@
 "tokens": [
 {
 "surface": "cakrārcitaḥ",
-"quick_gloss": "wheel-worshipped"
+"quick_gloss": "wheel+worshipped"
 },
 {
 "surface": "nakrapatiḥ",
-"quick_gloss": "crocodile-lord"
+"quick_gloss": "crocodile+lord"
 },
 {
 "surface": "varuṇaḥ",
-"quick_gloss": "varuṇa"
+"quick_gloss": "varuna"
 },
 {
 "surface": "śakrasodaraḥ",
-"quick_gloss": "indra-brother"
+"quick_gloss": "indra+brother"
 }
 ]
 },
@@ -588,23 +588,23 @@
 "tokens": [
 {
 "surface": "amānī",
-"quick_gloss": "not-proud"
+"quick_gloss": "without+pride"
 },
 {
 "surface": "mānadaḥ",
-"quick_gloss": "honor-giver"
+"quick_gloss": "honor+giver"
 },
 {
 "surface": "mānyaḥ",
-"quick_gloss": "honored"
+"quick_gloss": "honorable"
 },
 {
 "surface": "mānavendraḥ",
-"quick_gloss": "man-lord"
+"quick_gloss": "man+lord"
 },
 {
 "surface": "manūttamaḥ",
-"quick_gloss": "best-manu"
+"quick_gloss": "manu+best"
 }
 ]
 }

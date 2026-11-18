@@ -2,76 +2,52 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p153-v3801
-[golden-both-bodied](kāñcanobhatanuḥ) [direction](kāṣṭhā) [leprosy-disease-destroying](kuṣṭharogavināśinī)
-
+golden-both-bodied direction leprosy-disease-destroying
 ## mukta-m0-p153-v3802
-[skin-garmented](carmāmbarā) [cruel-nailed](krūranakhā) [cakora-eyed](cakorākṣī) [four-armed](caturbhujā)
-
+skin-garmented cruel-nailed partridge-eyed four-armed
 ## mukta-m0-p153-v3803
-[universe-roaming](brahmāṇḍacāriṇī) [manifestation-brahmāṇī](sphūrtirbrahmāṇī) [brahma-approved](brahmasaṃmatā)
-
+universe-wandering manifestation Brahma's-consort Brahman-approved
 ## mukta-m0-p153-v3804
-[kalpa-creeper](kalpavallī) [thin-limbed](kṛṣāṅgī) [and](ca) [kalpa-tree-dwelling](kalpapādapavāsinī)
-
+wish-fulfilling-creeper slender-limbed and wish-fulfilling-tree-dwelling
 ## mukta-m0-p153-v3805
-[prosperity-queen](bhūtirājñī) [universe-queen](viśvarājñī) [world-queen](lokarājñī) [shiva-refuge](śivāśrayā)
-
+prosperity-queen universe-queen world-queen Shiva-refuge
 ## mukta-m0-p153-v3806
-[serpent-queen](nāgarājñī) [lineage-queen](vaṃśarājñī) [hero-queen](vīrarājñī) [dust-loving](rajaḥpriyā)
-
+serpent-queen lineage-queen hero-queen dust-loving
 ## mukta-m0-p153-v3807
-[wealth-queen](vasurājñī) [truth-queen](satyarājñī) [austerity-queen](taporājñī) [japa-loving](japapriyā)
-
+wealth-queen truth-queen austerity-queen mantra-loving
 ## mukta-m0-p153-v3808
-[compassion](dayā) [maker](karā)
-
+compassion-maker
 ## mukta-m0-p153-v3809
-[earth-queen](pṛthvīrājñī) [water-queen](payorājñī) [wind-queen](vāyurājñī) [delicate-limbed](madālasā)
-
+earth-queen water-queen wind-queen intoxicated-delicate
 ## mukta-m0-p153-v3810
-[truth-queen](tathyarājñī) [victory-queen](jayārājñī) [great-queen](mahārājñī) [clan-formed](kulākṛtiḥ)
-
+truth-queen victory-queen great-queen clan-formed
 ## mukta-m0-p153-v3811
-[supreme-queen](parārājñī) [yaksha-queen](yakṣarājñī) [being-queen](bhūtarājñī) [shiva-seated](śivāsanā)
-
+supreme-queen yaksha-queen spirit-queen Shiva-seated
 ## mukta-m0-p153-v3812
-[sky-queen](ākāśarājñī) [king-lady](rājeśī) [king-of-kings](rājarājñī) [love-pleasing](ratipriyā)
-
+sky-queen king-lady king-of-kings love-loving
 ## mukta-m0-p153-v3813
-[perfected-queen](siddharājñī) [splendor-queen](vibhārājñī) [radiance-queen](tejorājñī) [shining](vibhāmayī)
-
+perfected-queen shining-queen radiance-queen illuminating
 ## mukta-m0-p153-v3814
-[planet-queen](graharājñī) [creeper-queen](latārājñī) [tree-queen](vṛkṣarājñī) [wisdom-giving](matipradā)
-
+planet-queen creeper-queen tree-queen wisdom-giving
 ## mukta-m0-p153-v3815
-[sage-queen](munirājñī) [jewel-queen](ratnarājñī) [age-queen](yugarājñī) [gem-radiance](maṇiprabhā)
-
+sage-queen jewel-queen age-queen gem-radiance
 ## mukta-m0-p153-v3816
-[point-queen](bindurājñī) [sound-queen](nādarājñī) [self-queen](ātmarājñī) [and](ca) [good-course](sadgatiḥ)
-
+point-queen sound-queen self-queen and good-course
 ## mukta-m0-p153-v3817
-[ishana-queen](īśānarājñī) [king-lady](rājeśī) [svaha-queen](svāhārājñī) [greater](mahattarā)
-
+Shiva-queen king-lady oblation-queen greater
 ## mukta-m0-p153-v3818
-[world-queen](jagadrājñī) [essence-queen](tattvarājñī) [speech-queen](vāgrājñī) [universe-formed](viśvarūpiṇī)
-
+world-queen reality-queen speech-queen universe-formed
 ## mukta-m0-p153-v3819
-[thus-this](itīdaṃ) [mantra-essence](mantrasarvasvaṃ) [queen-name-thousand](rājñīnāmasahasrakam)
-
+thus-this mantra-essence queen-names-thousand
 ## mukta-m0-p153-v3820
-[all-essence-made](sarvatattvamayaṃ) [meritorious](puṇyaṃ) [great-sin-destroying](mahāpātakanāśanam)
-
+all-reality-made meritorious great-sin-destroying
 ## mukta-m0-p153-v3821
-[all-calamity-pacifying](sarvotpātapraśamanaṃ) [planet-peace-making](grahaśāntikaraṃ) [supreme](param)
-
+all-calamity-pacifying planet-peace-making supreme
 ## mukta-m0-p153-v3822
-[all-sorrow-flood-pacifying](sarvaduḥkhaughaśamanaṃ) [all-grief-destroying](sarvaśokavināśanam)
-
+all-sorrow-flood-pacifying all-grief-destroying
 ## mukta-m0-p153-v3823
-[far-away-indeed](dūrādeva) [flee](palāyante) [calamities](vipadaḥ) [enemy-fears](śatrubhītayaḥ)
-
+from-far flee dangers enemies-fearing
 ## mukta-m0-p153-v3824
-[by-recitation](paṭhanād) [flee-quickly](vidravantyāśu) [as-from-mahakala](mahākālādiva) [people](prajāḥ)
-
+by-reading flee-quickly like-Mahakala creatures
 ## mukta-m0-p153-v3825
-[ganges-bath-thousand](gaṅgāsnānasahasrasya) [chandrayana-ten-thousand](cāndrāyaṇāyutasya) [and](ca)
+Ganges-bath-thousand and moon-rite-ten-thousand and
