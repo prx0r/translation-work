@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p78-v1926
-[in-kingdom](rāṣṭre) [abundance+health](subhikṣamārogyaṃ) [should-cause](kuryāt) [thief+etc](caurādi) [destruction](nāśanam)
+[in-kingdom](rāṣṭre) [abundance+health](subhikṣamārogyaṃ) [should-make+thief+etc.](kuryāccaurādi) [destruction](nāśanan)
 
 ## mukta-m0-p78-v1927
-[of-installer](sthāpakasya) [always](sadā) [prosperity](vṛddhiḥ) [who](ye) [and](ca) [there](tatra) [dependents](upajīvinaḥ)
+[of-installer](sthāpakasya) [always](sadā) [prosperity](vṛddhir) [who](ye) [and](ca) [there+living-on](tatropajīvinaḥ)
 
 ## mukta-m0-p78-v1928
 [artisans](śilpinaḥ) [work+doers](karmakartāraḥ) [all](sarve) [go](yānti) [śiva+abode](śivālayam)
 
 ## mukta-m0-p78-v1929
-[enjoyment+liberation+giving](bhuktimuktipradaṃ) [should-be-known](jñeyam) [otherwise](anyathā) [but](tu) [opposite](viparyayaḥ)
+[enjoyment+liberation+giving](bhuktimuktipradaṃ) [to-be-known](jñeyam) [otherwise](anyathā) [but](tu) [contrary-result](viparyayaḥ)
 
 ## mukta-m0-p78-v1930
-[then](tataḥ) [caṇḍeśvara](caṇḍeśvaraṃ) [god](devaṃ) [should-install](sthāpayet) [by-rule](vidhinā) [teacher](guruḥ)
+[then](tataś) [caṇḍeśvara](caṇḍeśvaraṃ) [god](devaṃ) [should-install](sthāpayed) [by-rule](vidhinā) [teacher](guruḥ)
 
 ## mukta-m0-p78-v1931
-[with-yellow-pigment](rocanayā) [eye+disease+destroying](akṣirogaghnaḥ) [phalijyā](phalijyāṃ) [and](ca) [pleasure+causing](priyaṅkaraḥ)
+[with-rocanā+eye+disease+destroying](rocanayākṣirogaghnaḥ) [phalijyā](phalijyāṃ) [and](ca) [pleasure+causing](priyaṅkaraḥ)
 
 ## mukta-m0-p78-v1932
-[nāgapuṣpa-flower](nāgapuṣpaṃ) [for-abundance](subhikṣāya) [seven+days](saptāhaṃ) [and](ca) [fruit](phalaṃ) [in-order](kramāt)
+[nāga+flower](nāgapuṣpaṃ) [for-abundance](subhikṣāya) [seven+days](saptāhaṃ) [and](ca) [fruit](phalaṃ) [in-order](kramāt)
 
 ## mukta-m0-p78-v1933
-[sandal+aloewood](candanāguru) [+camphor+saffron+etc](kapūrakuṅkumādyaiḥ) [and](ca) [anointing](lepanam)
+[sandal+aguru+camphor+saffron+etc.](candanāgurukapūrakuṅkumādyaiś) [and](ca) [anointing](lepanam) [with](ca)
 
 ## mukta-m0-p78-v1934
-[with-goat](ajena) [yellow-pigment](rocanāṃ) [and](ca) [indeed](eva) [mirror](darpaṇaṃ) [with-man](puruṣeṇa) [but](tu)
+[with-goat](ajena) [rocanā](rocanāṃ) [and+indeed](caiva) [mirror](darpaṇaṃ) [with-puruṣa-mantra](puruṣeṇa) [but](tu)
 
 ## mukta-m0-p78-v1935
-[bracelet](kaṭakaṃ) [waist+thread](kaṭisūtraṃ) [and](ca) [cloth+band](paṭṭabandhaṃ) [and](ca) [whatever](yat) [may-be](bhavet)
+[bracelet](kaṭakaṃ) [waist+thread](kaṭisūtraṃ) [and](ca) [headband](paṭṭabandhaṃ) [and](ca) [whatever+may-be](yadbhavet)
 
 ## mukta-m0-p78-v1936
-[somewhere](kvacit) [by-that](tena) [indeed](eva) [by-secret-mantras](guhyaiḥ) [or](vā) [all](sarvāṇi) [these](etāni) [one-should-cause-to-give](dāyayet)
+[somewhere+by-that+indeed](kvacittenaiva) [or+by-secret-mantras](guhyairvā) [all+these](sarvāṇyetāni) [one-should-cause-to-give](dāyayet)
 
 ## mukta-m0-p78-v1937
-[having-bowed](praṇamya) [stick+like](daṇḍavat) [on-ground](bhamau) [slowly](śanaiḥ) [should-go](gacchet) [circumambulation](pradakṣiṇam)
+[having-bowed](praṇamya) [like-stick+on-ground](daṇḍavadbhamau) [slowly](śanair) [one-should-go](gacchet) [circumambulation](pradakṣiṇam)
 
 ## mukta-m0-p78-v1938
-[well+done](sukṛtaṃ) [ill+done](duṣkṛtaṃ) [or](vā) [also](api) [from-ignorance](ajñānāt) [from-knowledge](jñānataḥ) [done](kṛtam)
+[good-deed](sukṛtaṃ) [bad-deed](duṣkṛtaṃ) [or+also](vāpi) [from-ignorance+from-knowledge](ajñānājjñānataḥ) [done](kṛtam)
 
 ## mukta-m0-p78-v1939
-[at-that](tasmin) [time](kāle) [to-be-given](pradātavyā) [fee](dakṣiṇā) [śiva+yogin](śivayogine)
+[at-that+time](tasminkāle) [to-be-given](pradātavyā) [fee](dakṣiṇā) [to-śiva+yogin](śivayogine)
 
 ## mukta-m0-p78-v1940
-[son+body+half-from](putrakāyārdhataḥ) [to-be-given](deyā) [to-initiates](samayibhyaḥ) [and](ca) [quarter-share](pādikā)
+[son+body+half+from](putrakāyārdhato) [to-be-given](deyā) [to-initiates](samayibhyaś) [and](ca) [quarter-share](pādikā)
 
 ## mukta-m0-p78-v1941
-[according-to+ability](yathāśakti) [to-twice-born](dvijātibhyaḥ) [should-give](dadyāt) [gift](dānaṃ) [according-to+rule](yathāvidhi)
+[according-to-ability](yathāśakti) [to-twice-born](dvijātibhyo) [one-should-give](dadyād) [gift](dānaṃ) [according-to-rule](yathāvidhi)
 
 ## mukta-m0-p78-v1942
-[musicians](tauryikān) [singers](gāyakān) [dancers](nartṝn) [with-music](nādyena) [but](tu) [should-please](toṣayet)
+[musicians+singers+dancers](tauryikāngāyakānnartṛn) [with-music](nādyena) [but](tu) [one-should-please](toṣayet)
 
 ## mukta-m0-p78-v1943
-[one+night](ekarātraṃ) [three+nights](trirātraṃ) [or](vā) [seven+nights](saptarātram) [then](atha) [also](api) [or](vā)
+[one+night](ekarātraṃ) [three+nights](trirātraṃ) [or](vā) [seven+nights](saptarātram) [or+also](athāpi) [or](vā)
 
 ## mukta-m0-p78-v1944
-[from-male+etc](pumādibhyaḥ) [by-day](divā) [purity](śuddhiṃ) [knowledge+etc](vidyādi) [that+hundred+covered](tacchatāvṛtam)
+[from-puruṣa+etc.](pumādibhyo) [day+purification](divāśuddhiṃ) [vidyā+etc.](vidyādi) [by-that+hundred+covered](tacchatāvṛtam)
 
 ## mukta-m0-p78-v1945
-[stable](sthirā) [stable](sthirā) [stable](sthirā) [stable](sthirā)
+[original](mū) [firm](sthirā) [original](mū) [firm](sthirā)
 
 ## mukta-m0-p78-v1946
-[yuga+parts](yugabhāgān) [four+directions](caturdikṣu) [having-divided](luptvā) [one+by+one](ekaikaṃ) [but](tu) [from-corner](koṇataḥ)
+[yuga+parts](yugabhāgāś) [in-four+directions](caturdikṣu) [having-divided+one+one](luptvaikaikaṃ) [but](tu) [from-corner](koṇataḥ)
 
 ## mukta-m0-p78-v1947
-[to-be-installed](sthāpyāni) [in-them](teṣu) [liṅgas](liṅgāni) [by-that+number](tatsaṅgayābhiḥ) [according-to-rule](vidhānataḥ)
+[to-be-installed](sthāpyāni) [in-them](teṣu) [liṅgas](liṅgāni) [by-that+number](tatsaṅgayābhir) [according-to-rule](vidhānataḥ)
 
 ## mukta-m0-p78-v1948
-[of-inferior](hīnānāṃ) [but](tu) [rule](vidhiḥ) [and](ca) [this](ayaṃ) [of-superior](jyeṣṭhānāṃ) [position+preceded](sthitipūrvakam)
+[of-inferior](hīnānāṃ) [but](tu) [rule+this](vidhiśvāyaṃ) [of-superior](jyeṣṭhānāṃ) [position+preceded-by](sthitipūrvakam)
 
 ## mukta-m0-p78-v1949
-[there](tatra) [should-bring](ānayet) [great+liṅga](mahāliṅgaṃ) [machine+application](yantrayogena) [wise-one](buddhimān)
+[there](tatra) [one-should-bring](ānayen) [great+liṅga](mahāliṅgaṃ) [by-machine+application](yantrayogena) [wise-one](buddhimān)
 
 ## mukta-m0-p78-v1950
-[in-middle](madhye) [and](ca) [eight+spoke+endowed](aṣṭārasaṃyuktaṃ) [firm+wood](dṛḍhakāṣṭhena) [adorned](maṇḍitam)
+[in-middle](madhye) [and+eight-spoked+endowed](cāṣṭārasaṃyuktaṃ) [with-firm+wood](dṛḍhakāṣṭhena) [adorned](maṇḍitam)
