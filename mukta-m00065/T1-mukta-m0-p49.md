@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p49-v1201
-chin+(cibuka) lip+(oṣṭha) by-division+(vibhāgena) nose-forehead+(nāsā-lalāṭa) group-of-six+(ṣaṭkam)
+[chin](cibuka) [lip](oṣṭhau) [by-division](vibhāgena) [nose+forehead+stakam](nāsālalāṭastakam)
 
 ## mukta-m0-p49-v1202
-liṅga-sides+(liṅga-pārśve) by-two-parts+(dvibhāgena) part+(bhāgam) having-abandoned+(tyaktvā) above-that+(tad-ūrdhvataḥ)
+[linga-side](liṅgapārśce) [two-part](dvibhāgena) [part](bhāgaṃ) [abandoning](tyaktvā) [above-that](tadūrdhvataḥ)
 
 ## mukta-m0-p49-v1203
-beginning-with-five-faces+(pañca-āsya-ādi) ending-with-one-face+(eka-vaktra-antam) this+(ayam) indeed+(eva) rule+(vidhiḥ) again+(punaḥ)
+[five-faces-beginning-one-face-end](pañtrāsyādyekavaktrāntam) [this-same](ayameva) [rule](vidhiḥ) [again](punaḥ)
 
 ## mukta-m0-p49-v1204
-beginning-with-five-faced+(pañcānana-ādikam) declared+(proktam) clearly-manifest+(suvyaktam) now+(adhuṇā) is-told+(ucyate)
+[five-faced-etc](pañcānanādikaṃ) [stated](proktaṃ) [clear](suvyaktam) [adhudana-stated](adhudanocyate)
 
 ## mukta-m0-p49-v1205
-two-armed+(dvibāhu) upper-bodies+(ūrdhva-dehāni) up-to-Viṣṇu+(viṣṇu-anta) feet+(caraṇāni) and+(ca)
+[two-armed-upward-bodies](dvibāhūnyūrdhvadehāni) [vishnu-footed](viṣṇavantacaraṇāni) [and](ca)
 
 ## mukta-m0-p49-v1206
-in-front-body+(pūrva-kāye) male+(pumāṃsam) but+(tu) holding-citron+(mātuluṅga) holding-rosary+(akṣa-śalinam)
+[front-body](pūrvakāye) [man](pumāṃsaṃ) [but](tu) [citron-eyed-adorned](mātuluṅgākṣaśalinam)
 
 ## mukta-m0-p49-v1207
-female-form+(strī-ākāram) in-rear+(uttare) secret-part+(guhyam) endowed-with-mirror+(darpaṇa) and-lotus+(utpala-saṃyutam)
+[woman-form-upper](stryākāramuktare) [secret](guhyaṃ) [mirror-lotus-joined](darpaṇotpalasaṃyutam)
 
 ## mukta-m0-p49-v1208
-clearly-manifest+(suvyaktam) in-five-ways+(pañcadhā) thus+(hi) thus+(evam) situated-in-mouth+(āsya) and-vow+(vrata) rule-state+(vidhi-saṃsthitam)
+[clear](suvyakta) [fivefold](pañcadhā) [thus](hyevam) [mouth-rite-established](āsyovatābidhisaṃsthitam)
 
 ## mukta-m0-p49-v1209
-thus+(evam) having-fashioned+(niṣpādya) liṅgas+(liṅgāni) pedestal+(piṇḍikām) should-fashion+(vartayet) then+(tataḥ)
+[thus](evaṃ) [having-made](niṣpādya) [lingas](liṅgāni) [pedestal](piṇḍikāṃ) [should-turn](vartayet) [then](tataḥ)
 
 ## mukta-m0-p49-v1210
-thus+(iti) in-Lakṣaṇasamuccaya+(lakṣaṇa-samuccaye) of-manifest-and-unmanifest-liṅgas+(vyakta-avyakta-liṅgānām) in-ten-ways+(daśadhā) fashioning+(vartanam) name+(nāma) seventh+(saptamaḥ) rule+(vidhiḥ) now+(atha) eighth+(aṣṭamaḥ)
+[thus](iti) [characteristics-collection](lakṣaṇasamuccaye) [manifest-unmanifest-lingas](vyaktāvyaktaliṅgānāṃ) [tenfold](daśadhā) [turning](vartanaṃ) [named](nāma) [seventh](saptamo) [rite](vidhiḥ) [then-eighth](athoṣṭama)
 
 ## mukta-m0-p49-v1211
-of-the-great+(mahatyāḥ) and-of-the-first+(prathamāyāḥ) and+(ca) in-making+(sādhane) of-directional-liṅga-etc+(dik-liṅga-ādeḥ) and+(ca)
+[great](mahatyāḥ) [morning](prātamāyāśca) [direction-linga-etc](digliṅgādeśca) [in-rite](sādhane)
 
 ## mukta-m0-p49-v1212
-nine-knowledge+(navajñām) one-should-make+(kārayet) therefore+(tasmāt) sometimes+(kadācit) of-both+(ubhayoḥ) also+(api)
+[nine-knowledge](navajñāṃ) [should-make](kārayet) [therefore](tasmāt) [sometimes](kadācit) [of-both](ubhayorapi)
 
 ## mukta-m0-p49-v1213
-pedestal+(piṇḍikā) but+(tu) declared+(samākhyātā) not+(na) less+(hīnā) not+(na) more+(adhikā) auspicious+(śubhā)
+[pedestal](piṇḍikā) [but](tu) [declared](samākhyātā) [not](na) [deficient](hīnā) [not](na) [excessive](adhikā) [auspicious](śubhā)
 
 ## mukta-m0-p49-v1214
-rim+(mekhalā) by-third-part-of-that+(tat-tribhāgena) cavity+(khātam) less-by-a-third-of-that+(tat-tryṃśa-hīnakam)
+[girdle](mekhalā) [that-third-part](tattribhāgena) [excavation](khātaṃ) [that-thirtieth-less](tattryṃśahīnakam)
 
 ## mukta-m0-p49-v1215
-in-middle+(madhye) circle+(vṛttam) having-drawn+(samālikhya) one-should-fashion+(vartayet) cavity+(khātam) with-care+(ādarāt)
+[middle](madhye) [circle](vṛttaṃ) [having-drawn](samālikhya) [should-turn-excavation](vartayetkhātam) [carefully](ādarāt)
 
 ## mukta-m0-p49-v1216
-below+(arvāk) by-third-part-of-length+(dairghya-tribhāgena) rim-fashioning+(mekhalā-vartanam) outside+(bahiḥ)
+[downward](arvāg) [length-third-part](dairghyatribhāgena) [girdle-turning](mekhalāvartanaṃ) [outside](bahiḥ)
 
 ## mukta-m0-p49-v1217
-at-mouth+(mukhe) half-width-of-that+(tat-ardha-vistāram) in-third-part-of-that+(tat-tribhāge) water-outlet+(ambu-nirgamaḥ)
+[mouth](mukhe) [that-half-width](tadardhavistāraṃ) [thread-third-part](tantribhāge) [water-outflow](ambunirgamaḥ)
 
 ## mukta-m0-p49-v1218
-above-neck+(kaṇṭhāt-ūrdhvam) always+(sadā) indeed+(hi) thus+(evam) otherwise+(anyathā) fault-giving+(doṣa-dāyakam)
+[above-throat](kaṇṭhādūrdhvaṃ) [always](sadā) [indeed-thus](hyevam) [otherwise](anyathā) [fault-giving](doṣadāyakam)
 
 ## mukta-m0-p49-v1219
-from-insertion-of-sixth-part+(ṣaṣṭha-aṃśa-veśanāt) neck+(kaṇṭhaḥ) of-movable+(calānām) or+(vā) by-fifth+(pañcamena)
+[sixth-part-insertion](ṣaṣṭhāṃśaveśanāt) [throat](kaṇṭha) [movable](calānāṃ) [fifth](pañcamena) [or](vā)
 
 ## mukta-m0-p49-v1220
-in-unmanifest+(avyakte) in-mixed+(miśrake) in-own-part+(sva-aṃśe) by-nature-of-Brahmā+(brahma) and-Viṣṇu+(viṣṇu-svarūpataḥ)
+[unmanifest](avyakte) [mixed](miśrake) [own-part](svāṃśe) [brahma-vishnu-form](brahmaviṣṇusvarūpataḥ)
 
 ## mukta-m0-p49-v1221
-by-measure-of-liṅga-thickness+(liṅga-sthaulya-pramāṇena) square+(samāsram) situated-in-directions-and-intermediate-directions+(dik-vidik-sthitam)
+[linga-thickness-measure](liṅgasthaulyapramāṇena) [with-blood](samāsraṃ) [direction-intermediate-placed](digvidiksthitam)
 
 ## mukta-m0-p49-v1222
-on-all-sides+(samantāt) of-largest-liṅga+(jyeṣṭha-liṅgasya) by-six-barleycorns+(yavaiḥ ṣaḍbhiḥ) increased+(vivardhitam)
+[all-around](samantāt) [eldest-linga](jyeṣṭhaliṅgasya) [barleys](yavaiḥ) [six](ṣaḍbhiḥ) [increased](vivardhitam)
 
 ## mukta-m0-p49-v1223
-like-liṅga+(liṅga-vat) spotless+(nirmalā) pure+(śuddhā) to-be-made+(kartavyā) pedestal+(piṇḍikā) by-the-wise+(budhaiḥ)
+[like-linga](liṅgavat) [pure](nirmalā) [clean](śuddhā) [should-be-made](kartavyā) [pedestal](piṇḍikā) [by-wise](budhaiḥ)
 
 ## mukta-m0-p49-v1224
-of-remaining+(śeṣāṇām) liṅgas+(liṅgānām) by-half-and-half+(ardha-ardham) one-should-reduce+(hrāsayet) barleycorn+(yavam)
+[of-rest](śeṣāṇāṃ) [lingas](liṅgānām) [half-half](ardhārdha) [should-decrease](hrāsayet) [barley](yavam)
 
 ## mukta-m0-p49-v1225
-of-desired+(kāmānām) from-eight+(vasutaḥ) of-that+(tasya) divisions+(bhedān) we-shall-tell+(brūmaḥ) briefly+(samāsataḥ)
+[of-desires](kāmānāṃ) [wealth-from](vasutastasya) [differences](bhedān) [we-say](brūmaḥ) [briefly](samāsataḥ)

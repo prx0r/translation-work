@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p41-v1001
-[with-three](tribhir) [without](vinā) [likewise](tathā) [in-front](agre) [should-be](syād) [two-units](dvinetraṃ) [dewlap](kambalas) [but](tu) [below](adhaḥ)
+[three](tribhiḥ) [without](vinā) [thus](tathā) [in-front](agre) [would-be](syāt) [two-eyed](dvinetram) [blanket](kambalaḥ) [below](adhaḥ)
 
 ## mukta-m0-p41-v1002
-[three-times](triguṇās) [but](tu) [remembered](smṛto) [elsewhere](anyatra) [navel](nābhir) [two-units](netradvayaṃ) [should-be](bhavet)
+[three](triguṇāḥ) [tu](tu) [remembered](smṛtaḥ) [elsewhere](anyatra) [navel](nābhiḥ) [two-eyes](netradvayam) [would-be](bhavet)
 
 ## mukta-m0-p41-v1003
-[leg](jaṅghā) [one-unit](netraṃ) [remembered](smṛta,) [joint](sandhiḥ) [six-units](ṣaḍnetrā) [and](ca) [lower-leg](upajaṅghikā)
+[shank](jaṅghā) [eye](netram) [remembered](smṛta) [joint](sandhiḥ) [six-eyed](ṣaḍnetrā) [and](ca) [below-shank](upajaṅghikā)
 
 ## mukta-m0-p41-v1004
-[at-hoof](khurike) [finger-measure](aṅgulimāne) [but](tu) [five-units](pañcanetra) [three](trayaṃ) [without](vinā)
+[hoof](khurike) [finger-measure](aṅgulimāna) [let-it-be](etu) [five-eyed](pañcanetra) [three](trayam) [without](vinā)
 
 ## mukta-m0-p41-v1005
-[situated-at-back](pṛṣṭhagatā) [and](ca) [to-be-known](vijñeyā) [two-fingers](dyaṅgulā) [half-finger](adhāṅgulaṃ) [as](yathā)
+[back-placed](pṛṣṭhagatā) [and](ca) [to-be-known](vijñeyā) [two-finger](dyaṅgulā) [below-finger](adhāṅgulam) [as](yathā)
 
 ## mukta-m0-p41-v1006
-[three-faced](trimukhā) [three-part+smile](trikalā+hāsaḥ) [at-back](pṛṣṭhataś) [and](ca) [lower-leg](upajaṅghikā)
+[three-faced](trimukhā) [three-part](trikalā) [laughter](hāsaḥ) [from-behind](pṛṣṭhataḥ) [and](ca) [below-shank](upajaṅghikā)
 
 ## mukta-m0-p41-v1007
-[from-Viśvakarman](viśvakarmāt) [again](punar) [and](ca) [another](anyaṃ) [bull](vṛṣaṃ) [I-shall-describe](vakṣyāmi) [for-brevity](lāghavāt)
+[from-viśvakarmā](viśvakarmāt) [again](punaḥ) [and](ca) [another](anyam) [bull](vṛṣam) [I-will-speak](vakṣyāmi) [for-lightness](lāghavāt)
 
 ## mukta-m0-p41-v1008
-[field](kṣetraṃ) [four-sided](vedāsrakaṃ) [having-made](kṛtvā) [nine-parts](navabhāgān) [one-should-divide](prakalpayet)
+[field](kṣetram) [veda-astra](vedāstrakam) [having-made](kṛtvā) [nine-parts](navabhāgān) [let-one-allocate](prakalpayet)
 
 ## mukta-m0-p41-v1009
-[with-three-parts](tribhāgair) [in-front](agrato) [leg](jaṅghā) [one-part](bhāgaikaṃ) [but](tu) [above](ūrdhvato) [one-should-remove](haret)
+[three-parts](tribhāgaiḥ) [in-front](agrataḥ) [shank](jaṅghā) [one-part](bhāgaikam) [then](tu) [upward](ūrdhvataḥ) [let-it-take](haret)
 
 ## mukta-m0-p41-v1010
-[having-removed](hṛtvā) [two-parts](bhāgadvayaṃ) [and](ca) [above](ūrdhvaṃ) [to-be-made](kāryaṃ) [nose+forehead](nāsā+lalāṭakam)
+[having-taken](hṛtvā) [two-parts](bhāgadvayam) [and](ca) [upward](ūrdhvam) [to-be-done](kāryam) [nose-forehead](nāsālalāṭakam)
 
 ## mukta-m0-p41-v1011
-[below-that-part](tadadhoṃśāt) [likewise](tathā) [having-cut](luptvā) [narrowing](karśoṃ) [having-made](kṛtvā) [but](tu) [like-horn](śṛṅgavat)
+[that-below-part](tadadhoṃśāt) [thus](tathā) [having-cut](luptvā) [thin](karśam) [having-made](kṛtvā) [tu](tu) [horn-like](śṛṅgavat)
 
 ## mukta-m0-p41-v1012
-[below-ear](karṇādhaḥ) [corner-line](koṇasūtraṃ) [but](tu) [tooth+upper+half](danta+ūrdhva+ardha) [should-remove](haret) [certainly](dhruvam)
+[ear-below](karṇādhaḥ) [corner-thread](koṇasūtram) [tu](tu) [tooth-upward-half](dantordhvārdha) [let-it-take](haret) [certainly](dhruvam)
 
 ## mukta-m0-p41-v1013
-[with-two-and-a-half-parts](sārdha+bhāgadvayena) [indeed](eva) [of-back](pṛṣṭhasya) [arrangement](parikalpanam)
+[one-and-half-parts](sārdhabhāgadvayena) [eva](eva) [of-back](pṛṣṭhasya) [planning](parikalpanam)
 
 ## mukta-m0-p41-v1014
-[one-part](bhāgoṃ) [portion](śaṃ) [having-taken](gṛhnya) [and](ca) [in-lower-part](adhoṃśe) [having-left](tyaktvā) [half](ardha) [from-corner-line](koṇāsūtrataḥ)
+[part](bhāgam) [portion](aṃśam) [having-taken](gṛhṇya) [and](ca) [below-portion](adhoṃśe) [having-left](tyaktvā) [half](ardha) [corner-thread](koṇāsūtrataḥ)
 
 ## mukta-m0-p41-v1015
-[buttock](sphicaṃ) [tail](pucchaṃ) [with-hair](sakeśaṃ) [and](ca) [should-shape](vartayet) [wise](matimān) [man](naraḥ)
+[hips](sphicam) [tail](pucchaṃ) [with-hair](sakeśam) [ca](ca) [let-one-fashion](vartayet) [wise-man](matimān) [man](naraḥ)
 
 ## mukta-m0-p41-v1016
-[knee+hollow](jānu+randhraṃ) [likewise](tathā) [thigh+joint](sakthi+sandhiṃ) [leg](jaṅgā) [hoof](khuraṃ) [wise-one](budhaḥ)
+[knee-hole](jānurandhram) [thus](tathā) [thigh-joint](sakthisandhim) [shank](jaṅghā) [hoof](khuram) [wise](budhaḥ)
 
 ## mukta-m0-p41-v1017
-[having-known](jñātvā) [characteristics](lakṣmaṃ) [one-should-make](prakurvīta) [bull](vṛṣaṃ) [bull-form](vṛṣa+bharupakam)
+[having-known](jñātvā) [mark](lakṣmam) [let-one-make](prakurvīta) [bull](vṛṣam) [bull](vṛṣa) [bharupaka](bharupakam)
 
 ## mukta-m0-p41-v1018
-[holding-rosary](sākṣamālī) [holding-trident](triśūlī) [and](ca) [Nandīśa](nandīśo) [door-guardian](dvārapālakaḥ)
+[with-rosary](sākṣamālī) [with-trident](triśūlī) [ca](ca) [nandīśa](nandīśaḥ) [door-guard](dvārapālakaḥ)
 
 ## mukta-m0-p41-v1019
-[having-beard](kūrcavān) [tawny-haired](piṅgakeśaś) [and](ca) [skull-garlanded](muṇḍamālī) [three-eyed](trilocanaḥ)
+[with-kūrca](kūrcavān) [tawny-haired](piṅgakeśaḥ) [ca](ca) [skull-garlanded](muṇḍamālī) [three-eyed](trilocanaḥ)
 
 ## mukta-m0-p41-v1020
-[black-bodied](kṛṣṇagātro) [Mahākāla](mahākālo) [at-door](dvāre) [indeed](vai) [on-left](vāmataḥ) [standing](sthitaḥ)
+[black-bodied](kṛṣṇagātraḥ) [mahākāla](mahākālaḥ) [at-door](dvāre) [vai](vai) [left](vāmataḥ) [stood](sthitaḥ)
 
 ## mukta-m0-p41-v1021
-[old-formed](vṛddharūpaḥ) [crested](śikhī) [joyful](hṛṣṭaḥ) [thin-bellied](kṣāmakukṣiḥ) [very-pale](supāṇḍuraḥ)
+[old-formed](vṛddharūpaḥ) [crested](śikhī) [delighted](hṛṣṭaḥ) [thin-bellied](kṣāmakukṣiḥ) [very-pale](supāṇḍuraḥ)
 
 ## mukta-m0-p41-v1022
-[Bhṛṅgi+Rīṭi+gaṇas](bhṛṅgi+rīṭi+gaṇāś) [and](ca) [indeed](eva) [dancing](nṛtyan) [always](nityaṃ) [before-Śiva](śivāgrataḥ)
+[bhṛṅgirīṭi-gaṇas](bhṛṅgirīṭīgaṇāḥ) [ca](ca) [eva](eva) [dancing](nṛtyan) [always](nityam) [before-śiva](śivāgrataḥ)
 
 ## mukta-m0-p41-v1023
-[staff-holder](daṇḍī) [with-basket](karaṇḍakopetaḥ) [Kūṣmāṇḍa](kūṣmāṇḍaḥ) [bowing-in-front](pūrvamānataḥ)
+[staffed](daṇḍī) [with-basket](karaṇḍakopetaḥ) [kūṣmāṇḍa](kūṣmāṇḍaḥ) [first](pūrvam) [bowed](ānataḥ)
 
 ## mukta-m0-p41-v1024
-[to-be-made](kāryās) [they](te) [elephant+cow-eared](gaja+gokarṇā) [various-faced](nānāvaktrā) [large-bellied](mahodarāḥ)
+[to-be-made](kāryāḥ) [te](te) [elephant-eared](gajagokarṇā) [various-faced](nānāvaktrā) [big-bellied](mahodarāḥ)
 
 ## mukta-m0-p41-v1025
-[licking](lelihānaḥ) [very-angry](susaṃkruddho) [matted-hair+digit+moon+adorned](jaṭā+khaṇḍa+indu+maṇḍitaḥ)
+[licking](lelihānaḥ) [very-angry](susaṃkruddhaḥ) [matted-hair-crescent-moon-adorned](jaṭākhaṇḍendumaṇḍitaḥ)

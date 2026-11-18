@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p82-v2026
-[splendor](tejaḥ) [and-of-caṇḍa](caṇḍasya) [and-worship](yāgaḥ) [and](ca) [all](sarvaḥ) [should-be](syāt) [as-before](pūrvavat) [procedure](vidhiḥ)
+[tejas](tejaś) [caṇḍasya](caṇḍasya) [yāgaḥ](yāgaś) [ca](ca) [sarvaḥ](sarvaḥ) [syāt](syāt) [pūrvavat](pūrvavad) [vidhiḥ](vidhiḥ)
 
 ## mukta-m0-p82-v2027
-[its-remains](tat+nirmālyaṃ) [should-throw](kṣipet) [in-waters](apsu) [in-womb](garbhe) [and](ca) [in-fire](agnau) [dismissal](visarjanam)
+[tat](tad) [nirmālyaṃ](nirmālyaṃ) [kṣipet](kṣiped) [apsu](apsu) [garbhe](garbhe) [ca](ca) [agnau](agnau) [visarjanam](visarjanam)
 
 ## mukta-m0-p82-v2028
-[for-accomplishment-of-kingdom-calamities](rāṣṭra+upadrava+siddhi+arthaṃ) [that](tat) [to-be-established](sthāpyaṃ) [in-secret-place](guhya+deśataḥ)
+[rāṣṭra-upadrava-siddhi-artham](rāṣṭropadravasiddhyarthaṃ) [tat](tat) [sthāpyam](sthāpyaṃ) [guhya-deśataḥ](guhyadeśataḥ)
 
 ## mukta-m0-p82-v2029
-[fruit-giving](phala+dāyakam)
+[phala-dāyakam](phaladāyakam)
 
 ## mukta-m0-p82-v2030
-[own-purpose-mantra-abiding](sva+artha+mantra+sthitiḥ) [by-that](tena) [Caṇḍeśa](caṇḍeśaḥ) [not](na) [in-immovable-ones](sthireṣu) [even](api)
+[svārtha-mantra-sthitiḥ](svārthamantrasthitiḥ) [tena](tena) [caṇḍeśaḥ](caṇḍeśo) [na](na) [sthireṣu](sthireṣv) [api](api)
 
 ## mukta-m0-p82-v2031
-[one-should-worship](yajet) [in-lotus](abje) [with-offering-and-gift-etc.](homa+dāna+ādi) [as-before](pūrvavat)
+[yajet](yajed) [abje](abje) [homa-dāna-ādi](homadānādi) [pūrvavat](pūrvavat)
 
 ## mukta-m0-p82-v2032
-[of-gaṇa-group-and-Ambikā](gaṇa+varga+ambikānāṃ) [and](ca) [not-remains](na+nirmālyaṃ) [in-Śiva](śive) [as](yathā)
+[gaṇa-vargāmbikānāṃ](gaṇavargāmbikānāṃ) [ca](ca) [nanirmālyaṃ](nanirmālyaṃ) [śive](śive) [yathā](yathā)
 
 ## mukta-m0-p82-v2033
-[city](purī) [ocean-demon-etc.](sāgara+daitya+ādyāḥ) [sages-directions-deities-planets](ṛṣi+dik+devatā+grahāḥ)
+[purī](purī) [sāgara-daitya-ādyāḥ](sāgaradaityādyā) [ṛṣi-dig-devatā-grahāḥ](ṛṣidigdevatāgrahāḥ)
 
 ## mukta-m0-p82-v2034
-[duality-and-non-duality](dvaita+advaitāni) [those](tāni) [here](atra) [common](sāmānyāni) [and](ca) [for-accomplishment](siddhaye)
+[dvaita-advaitāni](dvaitādvaitāni) [tāni](tāny) [atra](atra) [sāmānyāni](sāmānyani) [ca](ca) [siddhaye](siddhaye)
 
 ## mukta-m0-p82-v2035
-[Mārtaṇḍa](mārtaṇḍaḥ) [and](ca) [thus](iti) [then](atha) [in-duality](advaite) [remains](nirmālyaṃ) [and](ca) [devoid-of-Caṇḍa](caṇḍa+varjitam)
+[mārtaṇḍaḥ](mārtaṇḍaś) [ca](ca) [iti](iti) [athādvaita](athādvaita) [nirmālyaṃ](nirmālyaṃ) [caṇḍa-varjitam](caṇḍavarjitam)
 
 ## mukta-m0-p82-v2036
-[one's-own-chosen-deity](sva+iṣṭaṃ) [not](na) [should-show](darśayet) [in-world](loke) [in-non-duality](advaite) [prescribed-by-rule](vidhi+kalpitam)
+[sveṣṭaṃ](sveṣṭaṃ) [na](na) [darśayet](darśayet) [loke](loke) [advaita](advaite) [vidhi-kalpitam](vidhikalpitam)
 
 ## mukta-m0-p82-v2037
-[divine-water-etc.](divya+toya+ādikaṃ) [of-them](teṣāṃ) [in-bathing](snāne) [in-offering](arghe) [in-libation](tarpaṇe) [beneficial](hitam)
+[divya-toya-ādikaṃ](divyatoyādikaṃ) [teṣāṃ](teṣāṃ) [snāne](snāne) [arghe](arghe) [tarpaṇe](tarpaṇe) [hitam](hitam)
 
 ## mukta-m0-p82-v2038
-[food-offering](naivedyaṃ) [to-brothers-and-sons](bhrātṛ+putrāṇāṃ) [of-sisters](bhaginīnāṃ) [and](ca) [one-should-give](dāpayet)
+[naivedyaṃ](naivedyaṃ) [bhrātṛ-putrāṇāṃ](bhrātṛputrāṇāṃ) [bhaginīnāṃ](bhaginīnāṃ) [ca](ca) [dāpayet](dāpayet)
 
 ## mukta-m0-p82-v2039
-[accomplishment](siddhiḥ) [one-may-obtain](labheta) [not](no) [wonder](citraṃ) [near-the-liṅga](liṅga+sannihitaṃ) [when](yadā)
+[siddhiḥ](siddhirlabheta) [no](no) [citraṃ](citraṃ) [liṅga-sannihitaṃ](liṅgasannihitaṃ) [yadā](yadā)
 
 ## mukta-m0-p82-v2040
-[Jayadratha-and-others](jayadratha+ādayaḥ) [even](api) [others](anye) [thus](iti) [said](āha) [the-lord](bhagavān) [Śiva](śivaḥ)
+[jayadratha-ādayaḥ](jayadrathādayaḥ) [api](apy) [anyaḥ](anya) [iti](ity) [āha](āha) [bhagavān](bhagavāñ) [śivaḥ](śivaḥ)
 
 ## mukta-m0-p82-v2041
-[thus](iti) [in-the-Lakṣaṇasamuccaya](lakṣaṇa+samuccaye) [installation-of-Caṇḍeśvara](caṇḍeśvara+sthāpanaṃ) [named](nāma) [seventeenth](saptadaśaḥ) [procedure](vidhiḥ)
+[iti](iti) [lakṣaṇa-samuccaye](lakṣaṇasamuccaye) [caṇḍeśvara-sthāpanaṃ](caṇḍeśvarasthāpanaṃ) [nāma](nāma) [saptadaśaḥ](saptadaśo) [vidhiḥ](vidhiḥ)
 
 ## mukta-m0-p82-v2042
-[eye-opening-etc.](nayana+unmīlana+ādi) [of-these](eṣāṃ) [as-before](pūrvavat) [all](sakalaṃ) [should-be](bhavet)
+[nayana-unmīlana-ādyeṣāṃ](nayanonmīlanādyeṣāṃ) [pūrvavat](pūrvavat) [sakalaṃ](sakalaṃ) [bhavet](bhavet)
 
 ## mukta-m0-p82-v2043
-[and](ca) [from-dismissal](āha+varjanāt)
+[cāhavarjanāt](cāhavarjanāt)
 
 ## mukta-m0-p82-v2044
-[bathing-etc.](snāna+ādi) [mental](mānasaṃ) [to-be-done](kāryaṃ) [likewise](tathā) [jewel-stone-etc.](ratna+śilā+ādikam)
+[snāna-ādi](snānādi) [mānasaṃ](mānasaṃ) [kāryaṃ](kāryaṃ) [tathā](tathā) [ratna-śilā-ādikam](ratnaśilādikam)
 
 ## mukta-m0-p82-v2045
-[with-immersed-flowers](nimrabu+kusumaiḥ) [worship](pūjā) [by-which](yayā) [image](citraṃ) [not](na) [perishes](naśyati)
+[nimra-bu-kusumaiḥ](nimrabukusumaiḥ) [pūjā](pūjā) [yayā](yayā) [citraṃ](citraṃ) [na](na) [naśyati](naśyati)
 
 ## mukta-m0-p82-v2046
-[jewels-etc.](ratna+ādini) [having-placed](niveśya) [and](ca)
+[ratna-ādini](ratnādini) [niveśya](niveśya)
 
 ## mukta-m0-p82-v2047
-[one-should-place](nyaset) [of-directions](diśāṃ) [likewise](tadvat) [in-udumbara](udumbare)
+[rnyased](rnyased) [diśāṃ](diśāṃ) [tadva](tadva) [dudumbare](dudumbare)
 
 ## mukta-m0-p82-v2048
-[on-trident](śule) [also](api) [lower-part](avaṃ) [they-worship](yajanti) [limb](aṅgaṃ) [joined](yuktā) [on-staff](daṇḍe) [and](ca) [kindling](dīpanī)
+[śule](śule) [api](pyavaṃ) [yajanti](yajantyaṅgaṃ) [aṅgaṃ](aṅgaṃ) [yuktā](yuktā) [daṇḍe](daṇḍe) [ca](ca) [dīpanī](dīpanī)
 
 ## mukta-m0-p82-v2049
-[of-one-two-three-cubits](eka+dvi+tri+kare) [to-be-worshipped](pūjyaḥ) [like-Śiva](śiva+vat) [the-lord](bhagavān) [guru](guruḥ)
+[eka-dvi-tri-kare](ekadvitrikare) [pūjyaḥ](pūjyaḥ) [śiva-vat](śivavad) [bhagavān](bhagavānguruḥ) [guruḥ](guruḥ)
 
 ## mukta-m0-p82-v2050
-[Aghora](aghoraṃ) [or-western-face](paścima+āsyaṃ) [or](vā) [to-be-offered](hotavyaṃ) [according-to-number-of-recitation](japa+saṃṅkhyayā)
+[aghoraṃ](aghoraṃ) [paścima-āsyaṃ](paścimāsyaṃ) [vā](vā) [hotavyaṃ](hotavyaṃ) [japa-saṃkhyayā](japasaṃṅkhyayā)

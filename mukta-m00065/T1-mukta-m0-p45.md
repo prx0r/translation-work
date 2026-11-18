@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p45-v1101
-[tawny-eyed](piṅgākṣī) [imperishable+eye+protector](cākṣayākṣapā) [ilā](ilā) [līlā](līlā) [dissolution](layā) [likewise](tathā)
+[verse-pada](piṅgākṣī) [verse-pada](cākṣayākṣapā) [verse-pada](ilā) [verse-pada](līlā) [verse-pada](layā) [verse-pada](tathā)
 
 ## mukta-m0-p45-v1102
-[fire](hutāśā) [and](ca) [wide-eyed](viśālākṣī) [huṅkāra](huṅkārā) [mare-faced](vaḍavāmukhī)
+[verse-pada](hutāśā) [verse-pada](ca) [verse-pada](viśālākṣī) [verse-pada](huṅkārā) [verse-pada](vaḍavāmukhī)
 
 ## mukta-m0-p45-v1103
-[all-knowing](sarbajñā) [trembling](taralā) [tārā](tārā) [ṛgveda](ṛgvedā) [but](tu) [horse-faced](hayānanā)
+[verse-pada](sarbajñā) [verse-pada](taralā) [verse-pada](tārā) [verse-pada](ṛgvedā) [verse-pada](tu) [verse-pada](hayānanā)
 
 ## mukta-m0-p45-v1104
-[red-eyed](raktākṣī) [well-accomplished](suprasiddhā) [but](tu) [lightning-tongued](vidmujjihvā) [skeleton-like](karaṅkiṇī)
+[verse-pada](raktākṣī) [verse-pada](suprasiddhā) [verse-pada](tu) [verse-pada](vidmujjihvā) [verse-pada](karaṅkiṇī)
 
 ## mukta-m0-p45-v1105
-[candrā](candrā) [moon-creeper](candravalī) [and](ca) [indeed](eva) [manifestation](prapañcā) [dissolution-end](pralayāntikā)
+[verse-pada](candrā) [verse-pada](candravalī) [verse-pada](caiva) [verse-pada](prapañcā) [verse-pada](pralayāntikā)
 
 ## mukta-m0-p45-v1106
-[restrainer](yamanī) [burning](tapanī) [and](ca) [indeed](eva) [dwarf](vāmanī) [deformed-faced](vikṛtānanā)
+[verse-pada](yamanī) [verse-pada](tapanī) [verse-pada](caiva) [verse-pada](vāmanī) [verse-pada](vikṛtānanā)
 
 ## mukta-m0-p45-v1107
-[yama-tongued](yamajihvā) [victorious](jayantī) [and](ca) [invincible](durjayā) [and](ca) [death-end](yamāntikā)
+[verse-pada](yamajihvā) [verse-pada](jayantī) [verse-pada](ca) [verse-pada](durjayā) [verse-pada](ca) [verse-pada](yamāntikā)
 
 ## mukta-m0-p45-v1108
-[sixty-four](catuḥ) [this](iyaṃ) [of-goddess](devyā) [form+divisions](mūrtibhedā) [is-declared](nigadyate)
+[verse-pada](catuḥ) [verse-pada](ṣaṣṭiriyaṃ) [verse-pada](devyā) [verse-pada](mūrtibhedā) [verse-pada](nigadyate)
 
 ## mukta-m0-p45-v1109
-[golden-hued](hemābhā) [ornament+abundant](bhūṣaṇāḍhyā) [should-be](syād) [akṣobhyā](akṣobhyā) [elephant+seated](karisaṃsthitā)
+[verse-pada](hemābhā) [verse-pada](bhūṣaṇāḍhyā) [verse-pada](syādakṣobhyā) [verse-pada](karisaṃsthitā)
 
 ## mukta-m0-p45-v1110
-[bow](dhanuḥ) [skull+bearer](kapābhṛt) [on-left](saumye) [bear+seated](ṛkṣasthā) [threatening-finger+endowed](tarjanīyutā)
+[verse-pada](dhanuḥ) [verse-pada](kapābhṛtsaumye) [verse-pada](ṝkṣasthā) [verse-pada](tarjanīyutā)
 
 ## mukta-m0-p45-v1111
-[corpse+seated](pretasthā) [rāghasī](rāghasī) [gaurī](gaurī) [scissors+half+endowed](kārdhakatarikānvitā)
+[verse-pada](pretasthā) [verse-pada](rāghasī) [verse-pada](gaurī) [verse-pada](kārdhakatarikānvitā)
 
 ## mukta-m0-p45-v1112
-[skull](kapālaṃ) [and](ca) [fruit](phalaṃ) [on-left](saumye) [holds](dhatte) [hunchback+man+seated](kubjanṛsaṃsthitā)
+[verse-pada](kapālaṃ) [verse-pada](ca) [verse-pada](phalaṃ) [verse-pada](saumye) [verse-pada](dhatte) [verse-pada](kubjanṛsaṃsthitā)
 
 ## mukta-m0-p45-v1113
-[on-left](vāme) [skull+feather](kapālapicchī) [bearing](bhṛt) [all+ornament+adorned](sarvālaṅkāramaṇḍitā)
+[verse-pada](vāme) [verse-pada](kapālapicchī) [verse-pada](bhṛtsarvālaṅkāramaṇḍitā)
 
 ## mukta-m0-p45-v1114
-[silken+noose+bearer](kauśeyapāśabhṛt) [on-right](yāmye) [on-left](vāme) [and](ca) [goad+shield-holder](aṅkuśakheṭinī)
+[verse-pada](kauśeyapāśabhṛdyāmye) [verse-pada](vāme) [verse-pada](cāṅkuśakheṭinī)
 
 ## mukta-m0-p45-v1115
-[axe+thunderbolt+bearer](kuṭhārāśanibhṛt) [on-right](yāmye) [on-left](saumye) [noose+goad+endowed](pāśāṅkuśānvitā)
+[verse-pada](kuṭhārāśanibhṛdyāmye) [verse-pada](saumye) [verse-pada](pāśāṅkuśānvitā)
 
 ## mukta-m0-p45-v1116
-[on-right](yāmye) [drum+spear+arrow+skull+hand](ḍamaruśūleṣumastahastā) [eye+protector](akṣapā) [considered](matā)
+[verse-pada](yāmye) [verse-pada](ḍamaruśūleṣumastahastākṣapā) [verse-pada](matā)
 
 ## mukta-m0-p45-v1117
-[red](raktā) [outside+standing](bahirsthitā) [but](tu) [ilā](īlā) [playing](krīḍantī) [fires](dahanaiḥ) [with](saha)
+[verse-pada](raktā) [verse-pada](bahirsthitā) [verse-pada](tvīlā) [verse-pada](krīḍantī) [verse-pada](dahanaiḥ) [verse-pada](saha)
 
 ## mukta-m0-p45-v1118
-[bearing](bibhrāṇā) [spear](paṭṭiśaṃ) [noose](pāśaṃ) [on-left](vāme) [skull+half](mastārdham) [lotus](ambujam)
+[verse-pada](bibhrāṇā) [verse-pada](paṭṭiśaṃ) [verse-pada](pāśaṃ) [verse-pada](vāme) [verse-pada](mastārdhamambujam)
 
 ## mukta-m0-p45-v1119
-[scissors+half+bearer](kartarīkārdhabhṛt) [on-left](vāme) [threatening-finger+drawn+lip-corner](tarjanyākṛṣṭasṛkkikā)
+[verse-pada](kartarīkārdhabhṛdvāme) [verse-pada](tarjanyākṛṣṭasṛkkikā)
 
 ## mukta-m0-p45-v1120
-[trident](śūlaṃ) [deer+endowed](ruruyutaṃ) [with-two](dvābhyāṃ) [holds](dhatte) [lolā](lolā) [in-lotus](sūsārase)
+[verse-pada](śūlaṃ) [verse-pada](ruruyutaṃ) [verse-pada](dvābhyāṃ) [verse-pada](dhatte) [verse-pada](lolā) [verse-pada](sūsārase)
 
 ## mukta-m0-p45-v1121
-[laṅkeśa+thigh+seated](laṅkeśorusthitā) [laṅkā](laṅkā) [chewing](carvantīṃ) [flesh](piśitaṃ) [dense](ghanam)
+[verse-pada](laṅkeśorusthitā) [verse-pada](laṅkā) [verse-pada](carvantīṃ) [verse-pada](piśitaṃ) [verse-pada](ghanam)
 
 ## mukta-m0-p45-v1122
-[red](śoṇā) [laṅkeśvarī](laṅkeśvarī) [in-bowl](kuṇḍe) [upraised+hair](ūrdhvabālāṃ) [and](ca) [bearing](bibhratī)
+[verse-pada](śoṇā) [verse-pada](laṅkeśvarī) [verse-pada](kuṇḍe) [verse-pada](ūrdhvabālāṃ) [verse-pada](ca) [verse-pada](bibhratī)
 
 ## mukta-m0-p45-v1123
-[bearing](bibhrāṇā) [boar+mounted](kolagā) [red](raktā) [saliva+blood+delighting](lālāsṛglālāsā) [considered](matā)
+[verse-pada](bibhrāṇā) [verse-pada](kolagā) [verse-pada](raktā) [verse-pada](lālāsṛglālāsā) [verse-pada](matā)
 
 ## mukta-m0-p45-v1124
-[scissors+pot+bearer](kartarīkumbhabhṛt) [on-right](yāmye) [on-left](saumye) [noose+skull-holder](pāśakapālinī)
+[verse-pada](kartarīkumbhabhṛdyāme) [verse-pada](saumye) [verse-pada](pāśakapālinī)
 
 ## mukta-m0-p45-v1125
-[on-left](vāme) [and](ca) [fearlessness+hand](abhayahastā) [should-be](syāt) [seat+kingdom+vessel+endowed](viṣṭarājyaghaṭānvitā)
+[verse-pada](vāme) [verse-pada](cābhayahastā) [verse-pada](syādviṣṭarājyaghaṭānvitā)
