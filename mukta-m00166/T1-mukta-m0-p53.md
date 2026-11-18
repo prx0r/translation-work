@@ -5,49 +5,49 @@
 [root-support](mūlādhārā)
 
 ## mukta-m0-p53-v1302
-[root-support-basis-being](mūlādhārādhārabhūtā) [may-be-mine](mamāstu)
+[root-support-support-become](mūlādhārādhārabhūtā) [mine-be](mamāstu)
 
 ## mukta-m0-p53-v1303
 [formless](nirākārā)
 
 ## mukta-m0-p53-v1304
-[therefore](ato) [gītā-all-forms](gītākhilākārā) [formless](nirākārā) [by-sages](sūribhiḥ)
+[therefore](ato) [gītā-all-form](gītākhilākārā) [formless-thus](nirākāreti) [by-sages](sūribhiḥ)
 
 ## mukta-m0-p53-v1305
-[fire-pit-dwelling](vahnikuṇḍakṛtālayā)
+[fire-pit-made-abode](vahnikuṇḍakṛtālayā)
 
 ## mukta-m0-p53-v1306
-[flame-garlanded](jvālāmālābhireṣā) [you](tvaṃ) [fire-pit-dwelling](vahnikuṇḍakṛtālayā)
+[flame-garlanded](jvālāmālābhireṣā) [you](tvaṃ) [fire-pit-made-abode](vahnikuṇḍakṛtālayā)
 
 ## mukta-m0-p53-v1307
-[wind-pit-comfortably-seated](vāyukuṇḍasukhāsīnā)
+[wind-pit-comfort-seated](vāyukuṇḍasukhāsīnā)
 
 ## mukta-m0-p53-v1308
-[wind-pit-comfortably-seated](vāyukuṇḍasukhāsīnā) [because](yasmāt) [you](tvaṃ) [compassionate-to-poor](dīnavatsalā)
+[wind-pit-comfort-seated](vāyukuṇḍasukhāsīnā) [because](yasmāt) [you](tvaṃ) [poor-compassionate](dīnavatsalā)
 
 ## mukta-m0-p53-v1309
 [supportless](nirādhārā)
 
 ## mukta-m0-p53-v1310
-[supportless](nirādhārā) [sin](kārāṃ) [remove](haratu) [my](mama) [saṃsāra-stream](saṃsāravisarām)
+[supportless](nirādhārā) [sin](kārāṃ) [remove](haratu) [mine](mama) [saṃsāra-stream](saṃsāravisarām)
 
 ## mukta-m0-p53-v1311
 [refugeless](nirāśrayā)
 
 ## mukta-m0-p53-v1312
-[eternal-intent-abode](sadāśayalayasthānā) [she](sā) [twofold](dvidhā) [is](asti) [refugeless](nirāśrayā)
+[eternal-intent-abode](sadāśayalayasthānā) [she](sā) [twofold](dvidhāsti) [refugeless](nirāśrayā)
 
 ## mukta-m0-p53-v1313
 [breath-in-out-movement](śvāsocchvāsagatiḥ)
 
 ## mukta-m0-p53-v1314
-[may-be](bhūyāt) [of-good](satāṃ) [approved](sammatā)
+[may-be](bhūyāt) [of-good-approved](satāṃ) [sammatā](sammatā)
 
 ## mukta-m0-p53-v1315
 [living-soul](jīvā)
 
 ## mukta-m0-p53-v1316
-[me](rmāṃ) [may-she-enliven](jīvayatviyamajīvatayeha) [living-soul](jīvā)
+[me](rmāṃ) [enliven](jīvayatviyamajīvatayeha) [living-soul](jīvā)
 
 ## mukta-m0-p53-v1317
 [grasping](grāhiṇī)
@@ -59,19 +59,19 @@
 [fire-refuge](vahnisaṃśrayā)
 
 ## mukta-m0-p53-v1320
-[seat-hood](āsanatvaṃ) [gone](gato) [whose](yasyāḥ) [refuge](saṃśrayaḥ) [that](sa) [also](ca) [we-bow](tāṃ numaḥ)
+[seat-ness](āsanatvaṃ) [gone](gato) [whose](yasyāḥ) [refuge](saṃśrayaḥ) [that](sa) [also](ca) [we-bow](tāṃ) [numaḥ](numaḥ)
 
 ## mukta-m0-p53-v1321
 [fire-thread-arisen](vahnitantusamutthānā)
 
 ## mukta-m0-p53-v1322
-[fire-thread-arisen](vahnitantusamutthānā) [what-like](kīdṛśī) [wonderful](citram) [goddess](īśvarī)
+[fire-thread-arisen](vahnitantusamutthānā) [what-like](kīdṛśī) [wonderful](citramīśvarī)
 
 ## mukta-m0-p53-v1323
-[six-tastes-enjoyment-eager](ṣaḍrasāsvādalolupā)
+[six-taste-enjoyment-eager](ṣaḍrasāsvādalolupā)
 
 ## mukta-m0-p53-v1324
-[mortal-world-dear](martyalokapriyā) [goddess](devī) [six-tastes-enjoyment-eager](ṣaḍrasāsvādalolupā)
+[mortal-world-dear](martyalokapriyā) [goddess](devī) [six-taste-enjoyment-eager](ṣaḍrasāsvādalolupā)
 
 ## mukta-m0-p53-v1325
 [ascetic](tapasvinī)

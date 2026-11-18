@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p39-v951
-[war-desiring](yuddhakāṃkṣiṇī)
+[war](yuddha)+[desiring](kāṃkṣiṇī)
 
 ## mukta-m0-p39-v952
-[they-would-abandon](tyajeyuḥ)+[you](tvaṃ)+[not](na)+[if](cen)+[fainting-causing](mūrcchākartrī)+[would-be](syā)+[war-desiring](yuddhakāṃkṣiṇī)
+[they-would-abandon](tyajeyuḥ)+[you](tvam)+[if-not](na+cen)+[fainting-causer](mūrcchā+kartrī)+[war-desiring](yuddha+kāṃkṣiṇī)
 
 ## mukta-m0-p39-v953
-[bannered](patākinī)
+[bannered-one](patākinī)
 
 ## mukta-m0-p39-v954
-[stability](sthitiṃ)+[for-welfare](hitāya)+[may-it-be](astu)+[bannered](patākinī)+[she](sā)
+[stability](sthitiṃ)+[for-welfare](hitāya)+[may-be](astu)+[bannered-one](patākinī)+[she](sā)
 
 ## mukta-m0-p39-v955
-[compassion-beginning](dayārambhā)
+[compassion-beginning](dayā+ārambhā)
 
 ## mukta-m0-p39-v956
-[truth](satyaṃ)+[she-indeed](saiva)+[compassion-beginning](dayārambhā)+[honored-three-worlds](sambhāvitajagatattrayī)
+[truth](satyaṃ)+[she-indeed](sā+eva)+[compassion-beginning](dayā+ārambhā)+[honored-three-worlds](sambhāvita+jagat+trayī)
 
 ## mukta-m0-p39-v957
-[vīṇā-fifth-dear](vipañcīpañcamapriyā)
+[vīṇā-five-favored](vipañcī+pañcama+priyā)
 
 ## mukta-m0-p39-v958
-[how](kathaṃ)+[would-be](syuḥ)+[would-be](syāt)+[not](na)+[if](ced)+[goddess](devī)+[vīṇā-fifth-dear](vipañcīpañcamapriyā)
+[how](kathaṃ)+[would-be](syuḥ)+[if-not](syāt+na+ced)+[goddess](devī)+[vīṇā-five-favored](vipañcī+pañcama+priyā)
 
 ## mukta-m0-p39-v959
-[supreme-inferior-art-lovely](parāparakalākāntā)
+[supreme-inferior-art-loved](parā+apara+kalā+kāntā)
 
 ## mukta-m0-p39-v960
-[supreme-inferior-art-lovely](parāparakalākāntā)+[she](sā)+[mine](mama)+[may-be](astu)+[before](agrataḥ)+[always](sadā)
+[supreme-inferior-art-loved](parā+apara+kalā+kāntā)+[she](sā)+[mine](mama)+[may-be](astu)+[before](agrataḥ)+[always](sadā)
 
 ## mukta-m0-p39-v961
-[three-powers](triśaktiḥ)
+[three-powers](tri+śaktiḥ)
 
 ## mukta-m0-p39-v962
-[in-whom](yeṣu)+[three-powers](triśaktiḥ)+[indeed](kila)+[well-pleased](suprasannā)
+[in-whom](yeṣu)+[three-powers](tri+śaktiḥ)+[indeed](kila)+[very-pleased](su+prasannā)
 
 ## mukta-m0-p39-v963
-[liberation-giving](mokṣadāyinī)
+[liberation-giving](mokṣa+dāyinī)
 
 ## mukta-m0-p39-v964
-[alas](vata)+[whose](yasya)+[goddess](īśvarī)+[liberation-giving](mokṣadāyinī)+[you](tvam)
+[alas](vata)+[whose](yasya)+[O-goddess](īśvari)+[liberation-giving](mokṣa+dāyinī)+[you](tvam)
 
 ## mukta-m0-p39-v965
-[indra's](aindrī)
+[indra's-power](aindrī)
 
 ## mukta-m0-p39-v966
-[water-nature-removal](jalatvadūrīkaraṇena)+[may-be](bhūyāt)+[indra's](aindrī)+[elephant-lord-mounted](gajendroparigā)+[for-prosperity](śriye)+[our](naḥ)
+[water-removal](jala+tvat+ūrīkaraṇena)+[may-be](bhūyāt)+[indra's-power](aindrī)+[elephant-lord-mounted](gajendra+upari+gā)+[for-prosperity](śriye)+[our](naḥ)
 
 ## mukta-m0-p39-v967
-[śiva's](māheśvarī)
+[maheśvara's-power](māheśvarī)
 
 ## mukta-m0-p39-v968
-[nevertheless](tathāpi)+[trident-bearer](śūlī)+[supreme-lord](parameśvaraḥ)+[his](tan)+[śiva's-service-born](māheśvarīsevanajaḥ)+[grace](prasādaḥ)
+[nevertheless](tathāpi)+[trident-bearer](śūlī)+[supreme-lord](parameśvaraḥ)+[his](tan)+[maheśvara's-power-service-born](māheśvarī+sevana+jaḥ)+[grace](prasādaḥ)
 
 ## mukta-m0-p39-v969
-[brahma's](brāhmī)
+[brahma's-power](brāhmī)
 
 ## mukta-m0-p39-v970
-[brahma's](brāhmī)+[may-be](bhūyāt)+[always](sadā)+[goddess](devī)+[brahma-creation-single-witness](brahmasṛṣṭyekasākṣiṇī)
+[brahma's-power](brāhmī)+[may-be](bhūyāt)+[always](sadā)+[goddess](devī)+[brahma-creation-sole-witness](brahma+sṛṣṭi+eka+sākṣiṇī)
 
 ## mukta-m0-p39-v971
-[kumāra's](kaumārī)
+[kumāra's-power](kaumārī)
 
 ## mukta-m0-p39-v972
-[boy-stealing](kumārahāriṇī)+[may-be](bhūyāt)+[kumāra's](kaumārī)+[death-fear-removing](mārabhītihṛt)
+[boy-stealing](kumāra+hāriṇī)+[may-be](bhūyāt)+[kumāra's-power](kaumārī)+[death-fear-removing](māra+bhīti+hṛt)
 
 ## mukta-m0-p39-v973
-[clan-dwelling](kulavāsinī)
+[clan-dwelling](kula+vāsinī)
 
 ## mukta-m0-p39-v974
-[auspicious-giving](śivadā)+[may-it-be](stāt)+[clan-dwelling](kulavāsinī)+[always](sadā)+[our](naḥ)
+[auspicious-giving](śiva+dā)+[may-it-be](stāt)+[clan-dwelling](kula+vāsinī)+[always](sadā)+[our](naḥ)
 
 ## mukta-m0-p39-v975
-[will](icchā)
+[desire](icchā)

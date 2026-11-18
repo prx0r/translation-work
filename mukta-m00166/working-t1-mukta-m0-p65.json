@@ -8,7 +8,7 @@
 "tokens": [
 {
 "surface": "tuṣṭidā",
-"quick_gloss": "satisfaction+giver"
+"quick_gloss": "satisfaction-giver"
 }
 ]
 },
@@ -33,11 +33,11 @@
 },
 {
 "surface": "stu",
-"quick_gloss": "let-be"
+"quick_gloss": "let-it-be"
 },
 {
 "surface": "tuṣṭidā",
-"quick_gloss": "satisfaction+giver"
+"quick_gloss": "satisfaction-giver"
 }
 ]
 },
@@ -50,7 +50,7 @@
 "tokens": [
 {
 "surface": "puṣṭidā",
-"quick_gloss": "nourishment+giver"
+"quick_gloss": "nourishment-giver"
 }
 ]
 },
@@ -87,7 +87,7 @@
 },
 {
 "surface": "puṣṭidā",
-"quick_gloss": "nourishment+giver"
+"quick_gloss": "nourishment-giver"
 }
 ]
 },
@@ -141,12 +141,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "p.",
-"quick_gloss": "page-202"
-},
-{
 "surface": "niṣṭhā",
-"quick_gloss": "steadfastness"
+"quick_gloss": "conclusion"
 }
 ]
 },
@@ -159,7 +155,7 @@
 "tokens": [
 {
 "surface": "niṣṭhā",
-"quick_gloss": "steadfastness"
+"quick_gloss": "conclusion"
 },
 {
 "surface": "kṛpāṃ",
@@ -175,7 +171,7 @@
 },
 {
 "surface": "dhatte",
-"quick_gloss": "holds"
+"quick_gloss": "bears"
 }
 ]
 },
@@ -188,7 +184,7 @@
 "tokens": [
 {
 "surface": "satyapriyā",
-"quick_gloss": "truth+dear"
+"quick_gloss": "truth-dear"
 }
 ]
 },
@@ -201,15 +197,19 @@
 "tokens": [
 {
 "surface": "satyapriyā",
-"quick_gloss": "truth+dear"
+"quick_gloss": "truth-dear"
 },
 {
 "surface": "sā",
 "quick_gloss": "she"
 },
 {
-"surface": "priyamātanotu",
-"quick_gloss": "dear-extend"
+"surface": "priyam",
+"quick_gloss": "dear-one"
+},
+{
+"surface": "ātanotu",
+"quick_gloss": "let-extend"
 }
 ]
 },
@@ -235,11 +235,11 @@
 "tokens": [
 {
 "surface": "tasya",
-"quick_gloss": "of-that"
+"quick_gloss": "of-him"
 },
 {
 "surface": "tasya",
-"quick_gloss": "of-that"
+"quick_gloss": "of-him"
 },
 {
 "surface": "kathaṃ",
@@ -254,8 +254,12 @@
 "quick_gloss": "carry"
 },
 {
-"surface": "śirasītare",
-"quick_gloss": "heads-other"
+"surface": "śirasī",
+"quick_gloss": "on-heads"
+},
+{
+"surface": "tare",
+"quick_gloss": "others"
 }
 ]
 },
@@ -268,7 +272,7 @@
 "tokens": [
 {
 "surface": "lokeśī",
-"quick_gloss": "world+lady"
+"quick_gloss": "world-lady"
 }
 ]
 },
@@ -281,7 +285,7 @@
 "tokens": [
 {
 "surface": "lokeśī",
-"quick_gloss": "world+lady"
+"quick_gloss": "world-lady"
 },
 {
 "surface": "māṃ",
@@ -293,7 +297,7 @@
 },
 {
 "surface": "karotu",
-"quick_gloss": "make"
+"quick_gloss": "let-make"
 }
 ]
 },
@@ -306,7 +310,7 @@
 "tokens": [
 {
 "surface": "surottamā",
-"quick_gloss": "god+best"
+"quick_gloss": "best-of-gods"
 }
 ]
 },
@@ -319,15 +323,19 @@
 "tokens": [
 {
 "surface": "surottamā",
-"quick_gloss": "god+best"
+"quick_gloss": "best-of-gods"
 },
 {
-"surface": "karotvenaṃ",
-"quick_gloss": "make-him"
+"surface": "karotu",
+"quick_gloss": "let-make"
+},
+{
+"surface": "enaṃ",
+"quick_gloss": "him"
 },
 {
 "surface": "sarvottamagatiṃ",
-"quick_gloss": "all-best+path"
+"quick_gloss": "best-goal"
 },
 {
 "surface": "janam",
@@ -342,10 +350,6 @@
 "quick_english": "",
 "quick_english_source": "t1parse",
 "tokens": [
-{
-"surface": "p.",
-"quick_gloss": "page-203"
-},
 {
 "surface": "saviṣā",
 "quick_gloss": "with-poison"
@@ -369,7 +373,7 @@
 },
 {
 "surface": "jāne",
-"quick_gloss": "know"
+"quick_gloss": "I-know"
 },
 {
 "surface": "ḍitthaḍavitthavat",
@@ -407,11 +411,11 @@
 },
 {
 "surface": "kālabhayaṃ",
-"quick_gloss": "time-fear"
+"quick_gloss": "fear-of-death"
 },
 {
 "surface": "harāsya",
-"quick_gloss": "remove-his"
+"quick_gloss": "let-remove"
 }
 ]
 },
@@ -453,11 +457,11 @@
 },
 {
 "surface": "baladāstu",
-"quick_gloss": "strength+giver"
+"quick_gloss": "strength-giver"
 },
 {
 "surface": "naḥ",
-"quick_gloss": "us"
+"quick_gloss": "to-us"
 }
 ]
 },

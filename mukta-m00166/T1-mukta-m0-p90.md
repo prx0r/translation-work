@@ -2,52 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p90-v2226
-delights (ramate) some (kācid) alone (ekaiva) mother (mātṛ) circle (maṇḍala) dwelling (vāsinī)
+[ramate](ramate) [kācid](kācid) [ekaiva](ekaiva) [mātṛ-maṇḍala-vāsinī](mātṛmaṇḍalavāsinī)
+
 ## mukta-m0-p90-v2227
-boy (kumāra) mother (jananī)
+[kumāra-jananī](kumārajananī)
+
 ## mukta-m0-p90-v2228
-death (māra) time (kāla) union (kalana) one (eka) bond (bandhanaṃ) she (sā) boy (kumāra) mother (jananī) maiden (kumārikā)
+[māra-kāla-kalana-eka-bandhanaṃ](mārakālakalanaikabandhanaṃ) [sā](sā) [kumāra-jananī](kumārajananī) [kumārikā](kumārikā)
+
 ## mukta-m0-p90-v2229
-cruel (krūrā)
+[krūrā](krūrā)
+
 ## mukta-m0-p90-v2230
-full-moon (rākā) maker (kara) form (ākāraṃ) prison-keeper (kārākīḥ) doer (kārakaṃ) hand (kare)
+[rākā-kara-ākāraṃ](rākākarākarākāraṃ) [kārākīḥ](kārākīḥ) [kārakaṃ](kārakaṃ) [kare](kare)
+
 ## mukta-m0-p90-v2231
-beautiful-faced (sumukhī)
+[sumukhī](sumukhī)
+
 ## mukta-m0-p90-v2232
-face (mukhaṃ) auspicious (śivā) she (sā) beautiful-faced (sumukhī) thus (iti) chief (mukhyā)
+[nmukhaṃ](nmukhaṃ) [śivā](śivā) [sā](sā) [sumukhīti](sumukhīti) [mukhyā](mukhyā)
+
 ## mukta-m0-p90-v2233
-fever (jvara) destroyer (nāśinī)
+[jvaranāśinī](jvaranāśinī)
+
 ## mukta-m0-p90-v2234
-fever (jvara) destroyer (nāśinī) thus (iti) indeed (kila) she (sā) playful (lalitā)
+[jvaranāśinīti](jvaranāśinīti) [kila](kila) [sā](sā) [lalitā](lalitā)
+
 ## mukta-m0-p90-v2235
-wonder (citra) end (ante) here (ha) play (vilāsa) named (nāmni) cessation (viratiṃ) devotion (bhaktiḥ) thirteenth (trayodaśī) went (agāt)
+[citrānteha](citrānteha) [vilāsa-nāmni](vilāsanāmni) [viratiṃ](viratiṃ) [bhaktiḥ-trayodaśyagāt](bhaktistrayodaśyagāt)
+
 ## mukta-m0-p90-v2236
-thirteenth (trayodaśī) devotion (bhaktiḥ)
+[trayodaśī](trayodaśī) [bhaktiḥ](bhaktiḥ)
+
 ## mukta-m0-p90-v2237
-passed (atītā)
+[atītā](atītā)
+
 ## mukta-m0-p90-v2238
-those (tā) when (yadā) not (no) honor-spoken (mānudito) disputant (vādino) before (agre) what-know (kimāvidi)
+[tā](tā) [yadā](yadā) [no](no) [mānudito](mānudito) [vādino'gre](vādino'gre) [kimāvidi](kimāvidi)
+
 ## mukta-m0-p90-v2239
-existing (vidyamānā)
+[vidyamānā](vidyamānā)
+
 ## mukta-m0-p90-v2240
-fate (diṣṭe) faultless (anavadya) clarity (vaiṣadya) heart (hṛdyā) immediately (sadyaḥ) be-pleased (prasīdatāt)
+[diṣṭe'navadya-vaiṣadya-hṛdyā](diṣṭe'navadyavaiṣadyahṛdyā) [sadyaḥ](sadyaḥ) [prasīdatāt](prasīdatāt)
+
 ## mukta-m0-p90-v2241
-future (bhāvinī)
+[bhāvinī](bhāvinī)
+
 ## mukta-m0-p90-v2242
-Bhavani (bhavānī) future (bhāvinī) various (nānā) birth (bhave) new (nava) new (nava) forest (vana)
+[bhavānī](bhavānī) [bhāvinī](bhāvinī) [nānā-bhave](nānābhave) [nava-nave](navanave) [vana](vana)
+
 ## mukta-m0-p90-v2243
-love (prīti) cluster (mañjarī)
+[prīti-mañjarī](prītimañjarī)
+
 ## mukta-m0-p90-v2244
-by-whom (yayā) dear (priyaṃ) beloved (priyaṃ) various (nānā) various (nānā) dear-even (priyamapi) dear (priyam)
+[yayāpriyaṃ](yayāpriyaṃ) [priyaṃ](priyaṃ) [nānā-nānā-priyam-api](nānānānāpriyamapi) [priyam](priyam)
+
 ## mukta-m0-p90-v2245
-all (sarva) comfort (saukhya) possessing (vatī) reasoning (yuktiḥ)
+[sarva-saukhya-vatī](sarvasaukhyavatī) [yuktiḥ](yuktiḥ)
+
 ## mukta-m0-p90-v2246
-all (sarva) comfort (saukhya) possessing (vatī) reasoning (yuktiḥ) conquers (jayati) this (eṣa) indeed (eva) learned (vid) body (vapuḥ)
+[sarva-saukhya-vatī](sarvasaukhyavatī) [yuktiḥ-jayati-eṣaiva](yuktirjayatyeṣaiva) [vidvapuḥ](vidvapuḥ)
+
 ## mukta-m0-p90-v2247
-food (āhāra) transforming (pariṇāminī)
+[āhāra-pariṇāminī](āhārapariṇāminī)
+
 ## mukta-m0-p90-v2248
-she (sā) some (kāpi) sung (gīyate) by-knowers (tajjñaiḥ) food (āhāra) transforming (pariṇāminī)
+[sā](sā) [kāpi](kāpi) [gīyate](gīyate) [tajjñairāhāra-pariṇāminī](tajjñairāhārapariṇāminī)
+
 ## mukta-m0-p90-v2249
-cause (nidānaṃ) five (pañca) elements (bhūtānām)
+[nidānaṃ](nidānaṃ) [pañca-bhūtānām](pañcabhūtānām)
+
 ## mukta-m0-p90-v2250
-cause (nidānaṃ) five (pañca) elements (bhūtānāṃ) conquers (jayati) nature (prakṛti) splendor (prabhā)
+[nidānaṃ](nidānaṃ) [pañca-bhūtānāṃ](pañcabhūtānāṃ) [jayati](jayati) [prakṛti-prabhā](prakṛtiprabhā)
