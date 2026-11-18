@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p26-v626
-kvacit=sometimes kaṇaṃ=particle praveśena=by-entry lāñchayitvā=marking asiśātanam=sword-destruction
+[somewhere](kvacit) [drop](kaṇaṃ) [by-entry](praveśena) [having-marked](lāñchayitvā) [weapon](asi) [destruction](śātanam)
 
 ## mukta-m0-p26-v627
-tanmadhye=in-middle sūtrasambhrānte=thread-confused rudraḥ=rudra bhavati=becomes vartulaḥ=round
+[therein](tanmadhye) [thread-confusion](sūtrasambhrānte) [rudra](rudraḥ) [becomes](bhavati) [round](vartulaḥ)
 
 ## mukta-m0-p26-v628
-kṣipedvā=or-throw śūnyadoṣaghnaṃ=void-defect-destroying hastāt=from-hand ekāṅgulaṃ=one-finger kramāt=gradually
+[throws](kṣipet) [vā](vā) [void-fault-destroying](śūnyadoṣaghnaṃ) [from-hand](hastāt) [one-finger](ekāṅgulaṃ) [gradually](kramāt)
 
 ## mukta-m0-p26-v629
-ṣoḍaśāṃśa=sixteenth-part kṣipedādye=throw-first vedāṃśam=veda-part amarorcite=god-worshipped
+[sixteenth-part](ṣoḍaśāṃśa) [throws](kṣipet) [first](ādye) [veda-part](vedāṃśam) [god-worshipped](amarorcite)
 
 ## mukta-m0-p26-v630
-piṅgalāyā=of-piṅgalā mate=opinion proktam=declared ādyāmarārcitena=first-god-worship tu=but
+[of-piṅgalā](piṅgalāyāḥ) [opinion](mate) [proclaimed](proktam) [first-god-worshipped](ādyāmarārcitena) [tu](tu)
 
 ## mukta-m0-p26-v631
-bhaveyur=would-be vardhamānāni=increasing vasudviṣaṭ=sixty-two śatāni=hundreds ca=and
+[become](bhaveyuḥ) [increasing](vardhamānāni) [earth-six-hundred](vasudviṣaṭśatāni) [ca](ca)
 
 ## mukta-m0-p26-v632
-viśvakarmamataṃ=viśvakarma-opinion dṛṣṭvā=seeing vaktavyaṃ=to-be-said pīṭhavartanam=pedestal-rotation
+[of-viśvakarma](viśvakarmamataṃ) [having-seen](dṛṣṭvā) [to-be-spoken](vaktavyaṃ) [pedestal-turning](pīṭhavartanam)
 
 ## mukta-m0-p26-v633
-tacca=and-that savasamaṃ=equal liṅgaṃ=liṅga prāsāde=temple vā=or gṛhe=house hitam=suitable
+[that](tacca) [equal-linga](samasamaṃ) [liṅgaṃ](liṅgaṃ) [in-temple](prāsāde) [vā](vā) [in-house](gṛhe) [beneficial](hitam)
 
 ## mukta-m0-p26-v634
-dvau=two pādau=feet jānuparyantaṃ=knee-until caturasra=square pitāmahaḥ=grandfather
+[two](dvau) [feet](pādau) [up-to-knee](jānuparyantaṃ) [four-cornered](caturasra) [pitāmaha](pitāmahaḥ)
 
 ## mukta-m0-p26-v635
-āmūrdhaṃ=to-head nābhitaḥ=from-navel cordhvaṃ=upward vṛttabhāge=round-part haraḥ=hara svayam=self
+[up-to-head](āmūrdhaṃ) [from-navel](nābhitaśca) [upward](ūrdhvaṃ) [round-part](vṛttabhāge) [hara](haraḥ) [himself](svayam)
 
 ## mukta-m0-p26-v636
-pañcadhā=fivefold vyaktaliṅgāni=manifest-liṅgas samapīṭhāni=equal-pedestals tāni=those ca=and
+[fivefold](pañcadhā) [manifest-lingas](vyaktaliṅgāni) [equal-pedestals](samapīṭhāni) [those](tāni) [ca](ca)
 
 ## mukta-m0-p26-v637
-pañcaliṅgavyavasthā=this-five-liṅga-arrangement śirovartini=head-rotating atha=then ucyate=is-said
+[five-linga-arrangement](pañcaliṅgavyavasthā) [head-turning](śirovartini) [atha](atha) [ucyate](ucyate)
 
 ## mukta-m0-p26-v638
-ekaikasya=of-each caturbhedaiḥ=four-varieties kāmyarūpāt=desired-form phala=fruit vadet=would-say
+[one-by-one](ekaikasya) [four-divisions](caturbhedaiḥ) [desired-form](kāmyarūpāt) [fruit](phalaṃ) [vadet](vadet)
 
 ## mukta-m0-p26-v639
-cirarājyaprada=long-reign-giving khyātaṃ=famous chatrabhedāḥ=umbrella-varieties caturvidhāḥ=fourfold
+[long-reign-giving](cirarājyaprada) [known](khyātaṃ) [umbrella-divisions](chatrabhedāḥ) [fourfold](caturvidhāḥ)
 
 ## mukta-m0-p26-v640
-mānada=measure-giving pakṣa=wing lopāt=loss ca=and vipulaṃ=large khyātidaṃ=fame-giving bhavet=becomes
+[measure-giving](mānada) [wing](pakṣa) [by-loss](lopāt) [ca](ca) [vast](vipulaṃ) [fame-giving](khyātidaṃ) [bhavet](bhavet)
 
 ## mukta-m0-p26-v641
-śrīvāsaṃ=śrīvāsa putradaṃ=son-giving kūrma=tortoise dakṣāṇḍaṃ=egg syāt=would-be caturvidham=fourfold
+[śrīvāsa](śrīvāsaṃ) [son-giving](putradaṃ) [kurtu](kurtu) [dakṣa-egg](dakṣāṇḍaṃ) [syāt](syāt) [fourfold](caturvidham)
 
 ## mukta-m0-p26-v642
-puṣṭidaṃ=nourishing dvikṣayāt=two-decay pūrṇaṃ=full mahāhlādakara=great-delight-causing sadā=always
+[nourishing](puṣṭidaṃ) [by-two-decay](dvikṣayāt) [full](pūrṇaṃ) [great-delight-giving](mahāhlādakara) [sadā](sadā)
 
 ## mukta-m0-p26-v643
-āyudaṃ=weapon kumudaṃ=kumuda jñeyaṃ=to-be-known candaṃ=moon caturvidhaṃ=fourfold matam=opinion
+[weapon](āyudaṃ) [kumuda](kumudaṃ) [to-be-known](jñeyaṃ) [candra](candraṃ) [fourfold](caturvidhaṃ) [matam](matam)
 
 ## mukta-m0-p26-v644
-sarvakāmapradaṃ=all-desires-giving proktaṃ=declared vināśaṃ=destruction dvikṣayāt=two-decay śriye=for-prosperity
+[all-desires-giving](sarvakāmapradaṃ) [proclaimed](proktaṃ) [destruction](vināśaṃ) [by-two-decay](dvikṣayāt) [śriye](śriye)
 
 ## mukta-m0-p26-v645
-ballabhatvaprada=belovedness-giving tacca=and-that caturdhā=fourfold trapuṣaṃ=lead bhavet=becomes
+[ballabha-giving](ballabhatvaprada) [that](tacca) [fourfold](caturdhā) [trapuṣa](trapuṣaṃ) [bhavet](bhavet)
 
 ## mukta-m0-p26-v646
-kuryāt=should-do viprādikāryārthaṃ=for-brahmin-etc-work ekaṃ=one vā=or kukkuṭāṇḍakam=cock-egg
+[does](kuryāt) [for-brāhmaṇa-etc-work](viprādikāryārtham) [one](ekaṃ) [vā](vā) [kukkuṭa-egg](kukkuṭāṇḍakam)
 
 ## mukta-m0-p26-v647
-dīrghāyuṣṭvam=long-life atha=then cendoḥ=moon kṛkavākvaṇḍataḥ=partridge-egg prajñāḥ=wisdoms
+[long-life](dīrghāyuṣṭvam) [atha](atha) [half-moon](ardhendu) [from-kṛkavāku-egg](kṛkavākvaṇḍataḥ) [wisdom](prajñāḥ)
 
 ## mukta-m0-p26-v648
-jinaviṃśatiśārdūlaiḥ=twenty-tigers ādye=first brahmādiveṣṭanam=brahma-etc-enclosure
+[twenty-jina](jinaviṃśati) [tiger](śārdūlaiḥ) [first](ādye) [brahmā-etc-enclosure](brahmādiveṣṭanam)
 
 ## mukta-m0-p26-v649
-vikāreṇa=by-modification smareṇa=by-memory aṃśatṛtīyāṃśayutena=third-part-added ca=and
+[by-variation](vikāreṇa) [by-smara](smareṇa) [third-part](aṃśatṛtīyāṃśa) [yutena](yutena) [ca](ca)
 
 ## mukta-m0-p26-v650
-bhāgatṛtīyabhāgena=third-part-share nakhacandrānvitena=nail-moon-included ca=and
+[third-part-share](bhāgatṛtīyabhāgena) [nail-moon-included](nakhacandrānvitena) [ca](ca)

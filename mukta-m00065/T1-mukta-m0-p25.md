@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p25-v601
-that-one establish linga from-hand foot-born indeed or
+[that-one](tadekaṃ) [should-place+lingam](sthāpayelliṅgaṃ) [from-hand](hastāt) [foot-born](pādajam) [indeed](eva) [or](vā)
 
 ## mukta-m0-p25-v602
-womb-born-glory-wealth-son-wife-earth-victory-wealth friction-lifespan
+[womb-etc-glory-wealth-son-wife-earth-victory-wealth](gabhādyaśo'rthaputrastrībhūrjayo'rtho) [friction-lifespan](ghṛṣāyuṣī)
 
 ## mukta-m0-p25-v603
-accomplishment kingdom by-hands to-be-done from-linga born-from-end thus
+[accomplishments](siddhī) [kingdom](rājyaṃ) [by-hands](karaiḥ) [should-be-done](kāryā) [from-lingam-tooth-born](liṅgādantajāt) [thus](tathā)
 
 ## mukta-m0-p25-v604
-banner-etc by-which by-sounds by-elements by-peacocks or takes skilled
+[banner-etc](dhvajādyā) [by-whom](yaiḥ) [with-sounds](svaraiḥ) [with-beings](bhūtaiḥ) [with-peacocks](śikhibhirvā) [should-take](haretkṛtī)
 
 ## mukta-m0-p25-v605
-in-banner-etc banner lion bull-named and elephant auspicious
+[in-banner-etc](dhvajādiṣu) [banner](dhvajaṃ) [lion](siṃhaṃ) [bull-named](vṛṣākhyaṃ) [elephant](ca) [gajaṃ) [auspicious](śubham)
 
 ## mukta-m0-p25-v606
-in-banner kingdom victory in-lion gain in-bull prosperity in-elephant
+[in-banner](dhvaje) [kingdom](rājyaṃ) [victory](jayaṃ) [in-lion](siṃhe) [in-bull](vṛṣe) [gain](lābhaṃ) [prosperity](śriyaṃ) [in-elephant](gaje)
 
 ## mukta-m0-p25-v607
-by-crow total-destruction would-be therefore them avoid
+[by-crow](dhvāṅkṣeṇa) [total-destruction](sarvanāśaḥ) [would-be](syāt) [therefore](tasmāt) [those](tān) [should-avoid](parivarjayet)
 
 ## mukta-m0-p25-v608
-wealth-giving becomes ṣaḍja gāndhāra people-increase-maker
+[lakshmi-giving](lakṣmīprado) [becomes](bhavet) [shadja](ṣaḍjo) [gandhara](gāndhāro) [people-increase-making](janavṛddhikṛt)
 
 ## mukta-m0-p25-v609
-by-ṛṣabha enemy-increase would-be madhyama son-destruction-maker [variant auspicious-destruction]
+[by-rishabha](ṛṣabheṇa) [enemy-increase](ārivṛddhiḥ) [would-be](syāt) [madhyama](madhyamaḥ) [son-destruction-making](sutanāśakṛt)
 
 ## mukta-m0-p25-v610
-in-elements earth-movers and-others water-etc and inauspicious intensely
+[in-beings](bhūteṣu) [earth-movers](kṣmācarāścānye) [water-etc](toyādyāścāśubhā) [greatly](bhṛśam)
 
 ## mukta-m0-p25-v611
-fever [variant steadfast] burning-maker tejas wind indeed clan-destruction-maker
+[with-fever](sajvaro) [burning-making](dāhakṛttejo) [wind](vāyustu) [family-destruction-making](kulanāśakṛt)
 
 ## mukta-m0-p25-v612
-praised fire and āhavanīya two fires and inauspicious considered
+[praised](śasto'gniścāhavanīyo) [two-fires](dvāvagnī) [inauspicious](cāśubhau) [considered](matau)
 
 ## mukta-m0-p25-v613
-of-maker death-giving indeed fire third king-fear-giving
+[of-maker](kartur) [death-giving](mṛtyuprado) [indeed-fire](hyagniḥ) [third](tṛtīyo) [king-fear-giving](nṛpabhītidaḥ)
 
 ## mukta-m0-p25-v614
-six or that-portion indeed making one compress excellent
+[six-or](ṣaḍvā) [then-portion](tadāyabhāgaṃ) [tu](tu) [having-made](kṛtvā) [one](ekaṃ) [should-contract-excellent](saṃkṣipedvaram)
 
 ## mukta-m0-p25-v615
-portion-lord and also not-lord and Jupiter equal-named
+[portion-lord](bhāgeśa) [and](ca) [non-lord](apy anīśaṃ) [ca](ca) [devejya](devejyaṃ) [equal-named](tulyasaṃjñakam)
 
 ## mukta-m0-p25-v616
-length illusion-endowed making linga make three-formed
+[length](dairghyaṃ) [with-illusion](māyānvitaṃ) [having-made](kṛtvā) [lingam](liṅgaṃ) [should-make](kuryāt) [three-formed](trirūpakam)
 
 ## mukta-m0-p25-v617
-in-stated of-this and half-portion [variant shadow-portion] serpent-portions [variant portion-halves] by-divided in-order
+[in-stated](uktāyāmasya) [and-half-portion](cārdhāṃśe) [with-naga-portions](nāgāṃśai) [with-broken](rbhāṃjite) [in-order](kramāt)
 
 ## mukta-m0-p25-v618
-first non-first demon-Jupiter-named equal of squareness
+[first](ādyānādyasurejyāhva) [equal](tulyānāṃ) [squareness](caturasratā)
 
 ## mukta-m0-p25-v619
-two-fold division many here will-be-said [variant will-be-indicated] universal-opinion from
+[twofold](dvidhā) [division](bhedād) [many](bahūnyatra) [will-be-spoken](vakṣyante) [from-universe-opinion](viśvakamataḥ)
 
 ## mukta-m0-p25-v620
-three-fold from-hand jīva-named and joined all-equal and
+[threefold](tridhā) [from-hand](hastājjivākhyaṃ) [ca](ca) [joined](yuktaṃ) [with-all-equal](sarvasamena) [ca](ca)
 
 ## mukta-m0-p25-v621
-five [variant and] seventy from-oneness Jina-devotee become indeed
+[five](pañca) [seventy-one](saptatirekatvājjinaibhaktaṃbhavanti) [hi](hi)
 
 ## mukta-m0-p25-v622
-thus finger-increase and nine-one-hand-womb from
+[thus](evamaṅgulavṛddhyā) [ca](ca) [from-nine-one-hand-womb](navaikakaragarbhataḥ)
 
 ## mukta-m0-p25-v623
-expansion seven-fold making establish or middle three
+[expansion](vistāraṃ) [sevenfold](saptadhā) [having-made](kṛtvā) [should-place](sthāpyaṃ) [vā](vā) [in-middle](madhyatastrayam)
 
 ## mukta-m0-p25-v624
-each-portion quarter corner-decrease two-portion from
+[one-one-portion](ekaikāṃśaṃ) [quarter](caturbhāgaṃ) [corner-decrease](koṇahrāsaṃ) [twofold](dvibhāgataḥ)
 
 ## mukta-m0-p25-v625
-that each one yuga making each portion collect
+[that-one-one](tadekaikaṃ) [yuga](yugaṃ) [having-made](kṛtvā) [one-one-portion](ekaikāṃśaṃ) [should-gather](samāharet)
