@@ -8,7 +8,7 @@
 "tokens": [
 {
 "surface": "vīrabhūḥ",
-"quick_gloss": "hero+abode"
+"quick_gloss": "heroic-ground"
 }
 ]
 },
@@ -21,7 +21,7 @@
 "tokens": [
 {
 "surface": "viśrānteḥ",
-"quick_gloss": "from-rest"
+"quick_gloss": "of-rest"
 },
 {
 "surface": "paramā",
@@ -29,11 +29,11 @@
 },
 {
 "surface": "bhūmiḥ",
-"quick_gloss": "land"
+"quick_gloss": "ground"
 },
 {
 "surface": "vīrabhūḥ",
-"quick_gloss": "hero+abode"
+"quick_gloss": "heroic-ground"
 },
 {
 "surface": "bhuvi",
@@ -54,7 +54,7 @@
 "tokens": [
 {
 "surface": "vīramātā",
-"quick_gloss": "hero+mother"
+"quick_gloss": "hero-mother"
 }
 ]
 },
@@ -96,7 +96,7 @@
 "tokens": [
 {
 "surface": "vīrasūḥ",
-"quick_gloss": "hero+begetter"
+"quick_gloss": "hero-bearer"
 }
 ]
 },
@@ -113,7 +113,7 @@
 },
 {
 "surface": "sūte",
-"quick_gloss": "begets"
+"quick_gloss": "bears"
 },
 {
 "surface": "janānāṃ",
@@ -125,7 +125,7 @@
 },
 {
 "surface": "vīrasūḥ",
-"quick_gloss": "hero+begetter"
+"quick_gloss": "hero-bearer"
 },
 {
 "surface": "kāpi",
@@ -146,7 +146,7 @@
 "tokens": [
 {
 "surface": "vīranandinī",
-"quick_gloss": "hero+delighter"
+"quick_gloss": "hero-delighter"
 }
 ]
 },
@@ -158,24 +158,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "yad",
-"quick_gloss": "whose"
+"surface": "yadbhaktāḥ",
+"quick_gloss": "whose-devotees"
 },
 {
-"surface": "bhaktāḥ",
-"quick_gloss": "devotees"
-},
-{
-"surface": "tyakta",
-"quick_gloss": "abandoned"
-},
-{
-"surface": "pañcatva",
-"quick_gloss": "five-elements"
-},
-{
-"surface": "bhayāḥ",
-"quick_gloss": "fear"
+"surface": "tyaktapañcatvabhayāḥ",
+"quick_gloss": "abandoned-five-elements-fear"
 },
 {
 "surface": "sā",
@@ -183,7 +171,7 @@
 },
 {
 "surface": "vīranandinī",
-"quick_gloss": "hero+delighter"
+"quick_gloss": "hero-delighter"
 }
 ]
 },
@@ -196,7 +184,7 @@
 "tokens": [
 {
 "surface": "jayaśrīḥ",
-"quick_gloss": "victory+glory"
+"quick_gloss": "victory-glory"
 }
 ]
 },
@@ -209,15 +197,15 @@
 "tokens": [
 {
 "surface": "jayaśrīḥ",
-"quick_gloss": "victory+glory"
+"quick_gloss": "victory-glory"
 },
 {
 "surface": "saiva",
-"quick_gloss": "she"
+"quick_gloss": "she-indeed"
 },
 {
 "surface": "no",
-"quick_gloss": "to-us"
+"quick_gloss": "us"
 },
 {
 "surface": "bhūyāt",
@@ -225,7 +213,7 @@
 },
 {
 "surface": "saṃnidhau",
-"quick_gloss": "presence"
+"quick_gloss": "in-presence"
 },
 {
 "surface": "sarvataḥ",
@@ -246,7 +234,7 @@
 "tokens": [
 {
 "surface": "jayadīkṣā",
-"quick_gloss": "victory+initiation"
+"quick_gloss": "victory-initiation"
 }
 ]
 },
@@ -258,15 +246,11 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "yad",
-"quick_gloss": "whose"
+"surface": "yaddīkṣitā",
+"quick_gloss": "by-whom-initiated"
 },
 {
-"surface": "dīkṣitā",
-"quick_gloss": "initiated"
-},
-{
-"surface": "janāḥ",
+"surface": "janā",
 "quick_gloss": "people"
 },
 {
@@ -275,7 +259,7 @@
 },
 {
 "surface": "jayadīkṣā",
-"quick_gloss": "victory+initiation"
+"quick_gloss": "victory-initiation"
 },
 {
 "surface": "iti",
@@ -300,7 +284,7 @@
 "tokens": [
 {
 "surface": "jayadā",
-"quick_gloss": "victory+giver"
+"quick_gloss": "victory-giver"
 }
 ]
 },
@@ -342,7 +326,7 @@
 "tokens": [
 {
 "surface": "jayavardhinī",
-"quick_gloss": "victory+increaser"
+"quick_gloss": "victory-increaser"
 }
 ]
 },
@@ -375,7 +359,7 @@
 },
 {
 "surface": "jayavardhinī",
-"quick_gloss": "victory+increaser"
+"quick_gloss": "victory-increaser"
 }
 ]
 },
@@ -388,7 +372,7 @@
 "tokens": [
 {
 "surface": "saubhāgyasubhagākārā",
-"quick_gloss": "fortune+auspicious-form"
+"quick_gloss": "auspicious-fortunate-form"
 }
 ]
 },
@@ -401,7 +385,7 @@
 "tokens": [
 {
 "surface": "kārevāntargataṃ",
-"quick_gloss": "within-cave"
+"quick_gloss": "in-cave-within"
 },
 {
 "surface": "cittaṃ",
@@ -409,7 +393,7 @@
 },
 {
 "surface": "niścalaṃ",
-"quick_gloss": "steady"
+"quick_gloss": "immovable"
 },
 {
 "surface": "vidadhāti",
@@ -417,7 +401,7 @@
 },
 {
 "surface": "yā",
-"quick_gloss": "she"
+"quick_gloss": "who"
 }
 ]
 },
@@ -430,7 +414,7 @@
 "tokens": [
 {
 "surface": "sarvasaubhāgyavardhinī",
-"quick_gloss": "all-fortune+increaser"
+"quick_gloss": "all-auspiciousness-increaser"
 }
 ]
 },
@@ -450,16 +434,12 @@
 "quick_gloss": "always"
 },
 {
-"surface": "sā",
-"quick_gloss": "she"
-},
-{
-"surface": "astu",
-"quick_gloss": "be"
+"surface": "sāstu",
+"quick_gloss": "may-she-be"
 },
 {
 "surface": "sarvasaubhāgyavardhinī",
-"quick_gloss": "all-fortune+increaser"
+"quick_gloss": "all-auspiciousness-increaser"
 }
 ]
 },
@@ -472,7 +452,7 @@
 "tokens": [
 {
 "surface": "kṣemaṅkarī",
-"quick_gloss": "welfare+maker"
+"quick_gloss": "welfare-doer"
 }
 ]
 },
@@ -484,12 +464,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "adya",
-"quick_gloss": "today"
-},
-{
-"surface": "asmi",
-"quick_gloss": "I-am"
+"surface": "adyāsmi",
+"quick_gloss": "today-I-am"
 },
 {
 "surface": "sukhabhāk",
@@ -505,7 +481,7 @@
 },
 {
 "surface": "kṣemaṅkarī",
-"quick_gloss": "welfare+maker"
+"quick_gloss": "welfare-doer"
 },
 {
 "surface": "yadā",
@@ -522,7 +498,7 @@
 "tokens": [
 {
 "surface": "siddhirūpā",
-"quick_gloss": "accomplishment+form"
+"quick_gloss": "accomplishment-form"
 }
 ]
 },
@@ -547,7 +523,7 @@
 },
 {
 "surface": "syāṃ",
-"quick_gloss": "I-be"
+"quick_gloss": "would-I-be"
 },
 {
 "surface": "svātmasiddhitaḥ",
@@ -564,7 +540,7 @@
 "tokens": [
 {
 "surface": "satkīrtiḥ",
-"quick_gloss": "good+fame"
+"quick_gloss": "good-fame"
 }
 ]
 }

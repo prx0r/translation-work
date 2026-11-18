@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p53-v1301
-[mūla+ādhāra](mūlādhārā)
+[root-support](mūlādhārā)
 
 ## mukta-m0-p53-v1302
-[mūla+ādhāra+ādhāra+bhūtā](mūlādhārādhārabhūtā) [mama](mamāstu) [astu](mamāstu)
+[root-support](mūlādhārā) [support-born](ādhārabhūtā) [to-me](mamāstu)
 
 ## mukta-m0-p53-v1303
-[nir+ākārā](nirākārā)
+[formless](nirākārā)
 
 ## mukta-m0-p53-v1304
-[atas](ato) [gītā+akhila+ākārā](gītākhilākārā) [nir+ākāra](nirākāra) [iti](iti) [sūribhiḥ](sūribhiḥ)
+[therefore](ato) [song-all-forms](gītākhilākārā) [formless-thus](nirākāreti) [by-sages](sūribhiḥ)
 
 ## mukta-m0-p53-v1305
-[vahni+kuṇḍa+kṛta+ālayā](vahnikuṇḍakṛtālayā)
+[fire-pit-abode](vahnikuṇḍakṛtālayā)
 
 ## mukta-m0-p53-v1306
-[jvālā+mālābhiḥ](jvālāmālābhireṣā) [eṣā](jvālāmālābhireṣā) [tvam](tvaṃ) [vahni+kuṇḍa+kṛta+ālayā](vahnikuṇḍakṛtālayā)
+[flame-garlanded](jvālāmālābhiḥ) [this](eṣā) [you](tvaṃ) [fire-pit-abode](vahnikuṇḍakṛtālayā)
 
 ## mukta-m0-p53-v1307
-[vāyu+kuṇḍa+sukha+āsīnā](vāyukuṇḍasukhāsīnā)
+[wind-pit-comfort-seated](vāyukuṇḍasukhāsīnā)
 
 ## mukta-m0-p53-v1308
-[vāyu+kuṇḍa+sukha+āsīnā](vāyukuṇḍasukhāsīnā) [yasmāt](yasmāt) [tvam](tvaṃ) [dīna+vatsalā](dīnavatsalā)
+[wind-pit-comfort-seated](vāyukuṇḍasukhāsīnā) [because](yasmāt) [you](tvaṃ) [poor-compassionate](dīnavatsalā)
 
 ## mukta-m0-p53-v1309
-[nir+ādhārā](nirādhārā)
+[supportless](nirādhārā)
 
 ## mukta-m0-p53-v1310
-[nir+ādhārā](nirādhārā) [kārām](kārāṃ) [haratu](haratu) [mama](mama) [saṃsāra+visarām](saṃsāravisarām)
+[supportless](nirādhārā) [prison](kārāṃ) [remove](haratu) [my](mama) [world-wandering](saṃsāravisarām)
 
 ## mukta-m0-p53-v1311
-[nir+āśrayā](nirāśrayā)
+[refugeless](nirāśrayā)
 
 ## mukta-m0-p53-v1312
-[sadā+āśaya+laya+sthānā](sadāśayalayasthānā) [sā](sā) [dvidhā](dvidhā) [asti](asti) [nir+āśrayā](nirāśrayā)
+[eternal-intent-abode](sadāśayalayasthānā) [she](sā) [twofold-is](dvidhāsti) [refugeless](nirāśrayā)
 
 ## mukta-m0-p53-v1313
-[śvāsa+ucchvāsa+gatiḥ](śvāsocchvāsagatiḥ)
+[breath-in-out-course](śvāsocchvāsagatiḥ)
 
 ## mukta-m0-p53-v1314
-[bhūyāt](bhūyāt) [satām](satāṃ) [sammatā](sammatā)
+[may-be](bhūyāt) [of-good](satāṃ) [approved](sammatā)
 
 ## mukta-m0-p53-v1315
-[jīvā](jīvā)
+[living-soul](jīvā)
 
 ## mukta-m0-p53-v1316
-[rmām](rmāṃ) [jīvayatu](jīvayatviyamajīvatayeha) [iyam](jīvayatviyamajīvatayeha) [ajīvatayā](jīvayatviyamajīvatayeha) [iha](jīvayatviyamajīvatayeha) [jīvā](jīvā)
+[me](māṃ) [may-enliven](jīvayatu) [this](iyam) [non-living-here](ajīvatayeha) [living-soul](jīvā)
 
 ## mukta-m0-p53-v1317
-[grāhiṇī](grāhiṇī)
+[grasping](grāhiṇī)
 
 ## mukta-m0-p53-v1318
-[grāhiṇī](grāhiṇī) [sā](sā) [sadā](sadā) [bhūyāt](bhūyād) [graha+agraha+graha+ārti+hṛt](grahāgrahagrahārtihṛt)
+[grasping](grāhiṇī) [she](sā) [always](sadā) [may-be](bhūyād) [planet-grasp-grasp-pain-removing](grahāgrahagrahārtihṛt)
 
 ## mukta-m0-p53-v1319
-[vahni+saṃśrayā](vahnisaṃśrayā)
+[fire-refuge](vahnisaṃśrayā)
 
 ## mukta-m0-p53-v1320
-[āsana+tvaṃ](āsanatvaṃ) [gataḥ](gato) [yasyāḥ](yasyāḥ) [saṃśrayaḥ](saṃśrayaḥ) [sa](sa) [ca](ca) [tām](tāṃ) [numaḥ](numaḥ)
+[seat-ness](āsanatvaṃ) [gone](gato) [whose](yasyāḥ) [refuge](saṃśrayaḥ) [he](sa) [and](ca) [her](tāṃ) [we-bow](numaḥ)
 
 ## mukta-m0-p53-v1321
-[vahni+tantu+samutthānā](vahnitantusamutthānā)
+[fire-thread-born](vahnitantusamutthānā)
 
 ## mukta-m0-p53-v1322
-[vahni+tantu+samutthānā](vahnitantusamutthānā) [kīdṛśī](kīdṛśī) [citram+īśvarī](citramīśvarī)
+[fire-thread-born](vahnitantusamutthānā) [what-like](kīdṛśī) [wonder-goddess](citramīśvarī)
 
 ## mukta-m0-p53-v1323
-[ṣaḍ+rasa+āsvāda+lolupā](ṣaḍrasāsvādalolupā)
+[six-tastes-enjoyment-eager](ṣaḍrasāsvādalolupā)
 
 ## mukta-m0-p53-v1324
-[martya+loka+priyā](martyalokapriyā) [devī](devī) [ṣaḍ+rasa+āsvāda+lolupā](ṣaḍrasāsvādalolupā)
+[mortal-world-dear](martyalokapriyā) [goddess](devī) [six-tastes-enjoyment-eager](ṣaḍrasāsvādalolupā)
 
 ## mukta-m0-p53-v1325
-[tapasvinī](tapasvinī)
+[ascetic](tapasvinī)
