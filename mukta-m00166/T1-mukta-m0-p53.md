@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p53-v1301
-[root](mūla)+[support](ādhārā)
+[root-support](mūlādhārā)
 
 ## mukta-m0-p53-v1302
-[root-support](mūlādhārā)+[support-born](ādhārabhūtā)+[to-me](mama)+[may-it-be](astu)
+[root-support-basis-being](mūlādhārādhārabhūtā) [may-be-mine](mamāstu)
 
 ## mukta-m0-p53-v1303
 [formless](nirākārā)
 
 ## mukta-m0-p53-v1304
-[therefore](ato)+[song-all-form](gītākhilākārā)+[formless-thus](nirākāreti)+[by-sages](sūribhiḥ)
+[therefore](ato) [gītā-all-forms](gītākhilākārā) [formless](nirākārā) [by-sages](sūribhiḥ)
 
 ## mukta-m0-p53-v1305
-[fire-pit-made-abode](vahnikuṇḍakṛtālayā)
+[fire-pit-dwelling](vahnikuṇḍakṛtālayā)
 
 ## mukta-m0-p53-v1306
-[flame-garlanded](jvālāmālābhiḥ)+[this](eṣā)+[you](tvaṃ)+[fire-pit-made-abode](vahnikuṇḍakṛtālayā)
+[flame-garlanded](jvālāmālābhireṣā) [you](tvaṃ) [fire-pit-dwelling](vahnikuṇḍakṛtālayā)
 
 ## mukta-m0-p53-v1307
-[wind-pit-comfort-seated](vāyukuṇḍasukhāsīnā)
+[wind-pit-comfortably-seated](vāyukuṇḍasukhāsīnā)
 
 ## mukta-m0-p53-v1308
-[wind-pit-comfort-seated](vāyukuṇḍasukhāsīnā)+[because](yasmāt)+[you](tvaṃ)+[poor-compassionate](dīnavatsalā)
+[wind-pit-comfortably-seated](vāyukuṇḍasukhāsīnā) [because](yasmāt) [you](tvaṃ) [compassionate-to-poor](dīnavatsalā)
 
 ## mukta-m0-p53-v1309
 [supportless](nirādhārā)
 
 ## mukta-m0-p53-v1310
-[supportless](nirādhārā)+[prison](kārāṃ)+[may-remove](haratu)+[my](mama)+[world-wandering](saṃsāravisarām)
+[supportless](nirādhārā) [sin](kārāṃ) [remove](haratu) [my](mama) [saṃsāra-stream](saṃsāravisarām)
 
 ## mukta-m0-p53-v1311
 [refugeless](nirāśrayā)
 
 ## mukta-m0-p53-v1312
-[always-intent-absorbed-place](sadāśayalayasthānā)+[she](sā)+[twofold-is](dvidhāsti)+[refugeless](nirāśrayā)
+[eternal-intent-abode](sadāśayalayasthānā) [she](sā) [twofold](dvidhā) [is](asti) [refugeless](nirāśrayā)
 
 ## mukta-m0-p53-v1313
-[breath-in-out-motion](śvāsocchvāsagatiḥ)
+[breath-in-out-movement](śvāsocchvāsagatiḥ)
 
 ## mukta-m0-p53-v1314
-[may-be](bhūyāt)+[of-good](satāṃ)+[approved](sammatā)
+[may-be](bhūyāt) [of-good](satāṃ) [approved](sammatā)
 
 ## mukta-m0-p53-v1315
-[living](jīvā)
+[living-soul](jīvā)
 
 ## mukta-m0-p53-v1316
-[me](māṃ)+[may-enliven](jīvayatu)+[this](iyam)+[non-living-here](ajīvatayeha)+[living](jīvā)
+[me](rmāṃ) [may-she-enliven](jīvayatviyamajīvatayeha) [living-soul](jīvā)
 
 ## mukta-m0-p53-v1317
 [grasping](grāhiṇī)
 
 ## mukta-m0-p53-v1318
-[grasping](grāhiṇī)+[she](sā)+[always](sadā)+[may-be](bhūyād)+[planet-grasp-grasp-pain-removing](grahāgrahagrahārtihṛt)
+[grasping](grāhiṇī) [she](sā) [always](sadā) [may-be](bhūyād) [planet-grasp-grasp-pain-removing](grahāgrahagrahārtihṛt)
 
 ## mukta-m0-p53-v1319
 [fire-refuge](vahnisaṃśrayā)
 
 ## mukta-m0-p53-v1320
-[seat-ness](āsanatvaṃ)+[gone](gato)+[whose](yasyāḥ)+[refuge](saṃśrayaḥ)+[he](sa)+[and](ca)+[her](tāṃ)+[we-bow](numaḥ)
+[seat-hood](āsanatvaṃ) [gone](gato) [whose](yasyāḥ) [refuge](saṃśrayaḥ) [that](sa) [also](ca) [we-bow](tāṃ numaḥ)
 
 ## mukta-m0-p53-v1321
-[fire-thread-risen](vahnitantusamutthānā)
+[fire-thread-arisen](vahnitantusamutthānā)
 
 ## mukta-m0-p53-v1322
-[fire-thread-risen](vahnitantusamutthānā)+[what-like](kīdṛśī)+[wonderful-goddess](citramīśvarī)
+[fire-thread-arisen](vahnitantusamutthānā) [what-like](kīdṛśī) [wonderful](citram) [goddess](īśvarī)
 
 ## mukta-m0-p53-v1323
-[six-taste-enjoyment-eager](ṣaḍrasāsvādalolupā)
+[six-tastes-enjoyment-eager](ṣaḍrasāsvādalolupā)
 
 ## mukta-m0-p53-v1324
-[mortal-world-dear](martyalokapriyā)+[goddess](devī)+[six-taste-enjoyment-eager](ṣaḍrasāsvādalolupā)
+[mortal-world-dear](martyalokapriyā) [goddess](devī) [six-tastes-enjoyment-eager](ṣaḍrasāsvādalolupā)
 
 ## mukta-m0-p53-v1325
 [ascetic](tapasvinī)

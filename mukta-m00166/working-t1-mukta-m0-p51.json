@@ -8,7 +8,7 @@
 "tokens": [
 {
 "surface": "vṛṣapriyā",
-"quick_gloss": "bull-loved"
+"quick_gloss": "bull-beloved"
 },
 {
 "surface": "sā",
@@ -16,10 +16,10 @@
 },
 {
 "surface": "bhṛśatāpahā",
-"quick_gloss": "fever-removing"
+"quick_gloss": "intense-heat-remover"
 },
 {
-"surface": "stu",
+"surface": "astu",
 "quick_gloss": "let-be"
 }
 ]
@@ -65,8 +65,12 @@
 "quick_gloss": "bull-mounted"
 },
 {
-"surface": "karotvaram",
-"quick_gloss": "make-quickly"
+"surface": "karotu",
+"quick_gloss": "make"
+},
+{
+"surface": "aram",
+"quick_gloss": "quickly"
 }
 ]
 },
@@ -91,8 +95,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "bhūtākhilamavantī",
-"quick_gloss": "all-beings-protecting"
+"surface": "bhūtākhilam",
+"quick_gloss": "all-beings"
+},
+{
+"surface": "avantī",
+"quick_gloss": "protecting"
 },
 {
 "surface": "nu",
@@ -142,7 +150,7 @@
 "tokens": [
 {
 "surface": "sumbhadarpaharā",
-"quick_gloss": "sumbha-pride-removing"
+"quick_gloss": "Sumbha-pride-remover"
 }
 ]
 },
@@ -155,7 +163,7 @@
 "tokens": [
 {
 "surface": "sumbhadarpaharā",
-"quick_gloss": "sumbha-pride-removing"
+"quick_gloss": "Sumbha-pride-remover"
 },
 {
 "surface": "sā",
@@ -167,7 +175,7 @@
 },
 {
 "surface": "sumbhadarpaharā",
-"quick_gloss": "sumbha-pride-removing"
+"quick_gloss": "Sumbha-pride-remover"
 },
 {
 "surface": "asi",
@@ -205,11 +213,11 @@
 },
 {
 "surface": "svanāmārthakarī",
-"quick_gloss": "own-name-meaning-doing"
+"quick_gloss": "own-name-meaning-maker"
 },
 {
 "surface": "mamāstu",
-"quick_gloss": "to-me"
+"quick_gloss": "be-for-me"
 }
 ]
 },
@@ -222,7 +230,7 @@
 "tokens": [
 {
 "surface": "dīptapāvakasannibhā",
-"quick_gloss": "radiant-fire-like"
+"quick_gloss": "radiant-fire-resembling"
 }
 ]
 },
@@ -238,12 +246,16 @@
 "quick_gloss": "very-bright"
 },
 {
-"surface": "bhavatyeṣā",
+"surface": "bhavati",
 "quick_gloss": "becomes"
 },
 {
+"surface": "eṣā",
+"quick_gloss": "this"
+},
+{
 "surface": "dīptapāvakasannibhā",
-"quick_gloss": "radiant-fire-like"
+"quick_gloss": "radiant-fire-resembling"
 }
 ]
 },
@@ -256,7 +268,7 @@
 "tokens": [
 {
 "surface": "kapālabhūṣaṇā",
-"quick_gloss": "skull-ornamented"
+"quick_gloss": "skull-ornament"
 }
 ]
 },
@@ -269,19 +281,27 @@
 "tokens": [
 {
 "surface": "kapālabhūṣaṇā",
-"quick_gloss": "skull-ornamented"
+"quick_gloss": "skull-ornament"
 },
 {
-"surface": "bhūṣāmaśeṣāṃ",
-"quick_gloss": "ornament-all"
+"surface": "bhūṣām",
+"quick_gloss": "ornament"
 },
 {
-"surface": "no",
-"quick_gloss": "to-us"
+"surface": "aśeṣāṃ",
+"quick_gloss": "all"
 },
 {
-"surface": "dadātviyam",
-"quick_gloss": "let-give"
+"surface": "naḥ",
+"quick_gloss": "us"
+},
+{
+"surface": "dadātu",
+"quick_gloss": "give"
+},
+{
+"surface": "iyam",
+"quick_gloss": "this"
 }
 ]
 },
@@ -294,7 +314,7 @@
 "tokens": [
 {
 "surface": "kālī",
-"quick_gloss": "black"
+"quick_gloss": "Kali"
 }
 ]
 },
@@ -307,14 +327,14 @@
 "tokens": [
 {
 "surface": "kālī",
-"quick_gloss": "black"
+"quick_gloss": "Kali"
 },
 {
 "surface": "karālaṃ",
 "quick_gloss": "terrible"
 },
 {
-"surface": "haratād",
+"surface": "haratāt",
 "quick_gloss": "remove"
 },
 {
@@ -332,7 +352,7 @@
 "tokens": [
 {
 "surface": "kapālamālabhāriṇī",
-"quick_gloss": "skull-garland-bearing"
+"quick_gloss": "skull-garland-bearer"
 }
 ]
 },
@@ -348,12 +368,16 @@
 "quick_gloss": "shining"
 },
 {
-"surface": "balāyāstu",
+"surface": "balāya",
 "quick_gloss": "for-strength"
 },
 {
+"surface": "astu",
+"quick_gloss": "be"
+},
+{
 "surface": "kapālamālabhāriṇī",
-"quick_gloss": "skull-garland-bearing"
+"quick_gloss": "skull-garland-bearer"
 }
 ]
 },
@@ -366,7 +390,7 @@
 "tokens": [
 {
 "surface": "kapālakuṇḍalā",
-"quick_gloss": "skull-earringed"
+"quick_gloss": "skull-earring"
 }
 ]
 },
@@ -379,15 +403,19 @@
 "tokens": [
 {
 "surface": "bhavatu",
-"quick_gloss": "let-be"
+"quick_gloss": "be"
 },
 {
 "surface": "śubhāya",
 "quick_gloss": "for-auspiciousness"
 },
 {
-"surface": "kapālakuṇḍaleyam",
-"quick_gloss": "skull-earringed-this"
+"surface": "kapālakuṇḍalā",
+"quick_gloss": "skull-earring"
+},
+{
+"surface": "iyam",
+"quick_gloss": "this"
 }
 ]
 },
@@ -417,7 +445,7 @@
 },
 {
 "surface": "dadātu",
-"quick_gloss": "let-give"
+"quick_gloss": "give"
 },
 {
 "surface": "prathitā",
@@ -425,11 +453,11 @@
 },
 {
 "surface": "hitā",
-"quick_gloss": "benefit"
+"quick_gloss": "welfare"
 },
 {
 "surface": "vaḥ",
-"quick_gloss": "to-you"
+"quick_gloss": "you"
 }
 ]
 },
@@ -466,16 +494,20 @@
 "quick_gloss": "messenger"
 },
 {
-"surface": "śivāyāstu",
+"surface": "śivāya",
 "quick_gloss": "for-auspiciousness"
 },
 {
+"surface": "astu",
+"quick_gloss": "be"
+},
+{
 "surface": "śivavyāptyā",
-"quick_gloss": "by-śiva-pervasion"
+"quick_gloss": "by-Shiva-pervasion"
 },
 {
 "surface": "prapūjitā",
-"quick_gloss": "fully-worshipped"
+"quick_gloss": "well-worshipped"
 }
 ]
 },
@@ -488,7 +520,7 @@
 "tokens": [
 {
 "surface": "ghanadhvaniḥ",
-"quick_gloss": "thick-sound"
+"quick_gloss": "thunder-sound"
 }
 ]
 }

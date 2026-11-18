@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p54-v1326
-[time-wish-tree](kālakalpataruṃ) [having-bowed](natvā) [prosperity-siddhi](bhūtinīsiddhiḥ) [is-said](ucyate)
+[kāla-kalpataru](kālakalpataruṃ) [natvā](natvā) [bhūtinī-siddhiḥ](bhūtinīsiddhir) [ucyate](ucyate)
 
 ## mukta-m0-p54-v1327
-[savior](tāriṇī) [lioness](siṃhinī) [and-then](cātho) [swan](haṃsinī) [then](tato) [dancer](naṭī)
+[tāriṇī](tāriṇī) [siṃhinī](siṃhinī) [ca](ca) [atho](atho) [haṃsinī](haṃsinī) [ca](ca) [tato](tato) [naṭī](naṭī)
 
 ## mukta-m0-p54-v1328
-[wrath-weapon-two-names-end](krodhāstradvayanāmānte) [spirit-power-trikūrca](bhūtavīryastrikūrcataḥ)
+[krodha-astra-dvaya-nāma-ante](krodhāstradvayanāmānte) [bhūta-vīrya-strikūrcataḥ](bhūtavīryastrikūrcataḥ)
 
 ## mukta-m0-p54-v1329
-[wrath-two](krodhadvayaṃ) [but](tu) [mantra-this](mantro'yaṃ) [adorned-one](vibhūṣiṇyā) [is-declared](udāhṛtaḥ)
+[krodha-dvayaṃ](krodhadvayaṃ) [tu](tu) [mantraḥ](mantraḥ) [ayaṃ](ayaṃ) [vibhūṣiṇyāḥ](vibhūṣiṇyā) [udāhṛtaḥ](udāhṛtaḥ)
 
 ## mukta-m0-p54-v1330
-[whose](yasyāḥ) [hair-tangled-all-earth](keśakulākulākhilamahī) [mountain-end](śailāntam) [may-protect](ārakṣatu)
+[yasyāḥ](yasyāḥ) [keśa-kula-ākula-akhila-mahī-śaila-anta](keśakulākulākhilamahīśailāntam) [ārakṣatu](ārakṣatu)
 
 ## mukta-m0-p54-v1331
-[should-chant-eight-thousand](japedaṣṭasahasraṃ) [but](tu) [meditating-one-pointed-mind](dhyāyannekāgramānasaḥ)
+[japed](japed) [aṣṭa-sahasraṃ](aṣṭasahasraṃ) [tu](tu) [dhyāyan](dhyāyan) [eka-agra-mānasaḥ](ekāgramānasaḥ)
 
 ## mukta-m0-p54-v1332
-[should-chant-midnight](prajapedardharātre) [but](tu) [comes](samāyāti) [adorned-one](vibhūṣiṇī)
+[prajaped](prajaped) [ardha-rātre](ardharātre) [tu](tu) [samāyāti](samāyāti) [vibhūṣiṇī](vibhūṣiṇī)
 
 ## mukta-m0-p54-v1333
-[mother](mātā) [or](vā) [sister](bhaginī) [wife](bhāryā) [pleased](tuṣṭā) [becomes](bhavati) [desired](kāmitā)
+[mātā](mātā) [vā](vā) [bhaginī](bhaginī) [bhāryā](bhāryā) [tuṣṭā](tuṣṭā) [bhavati](bhavati) [kāmitā](kāmitā)
 
 ## mukta-m0-p54-v1334
-[hundred-eight-retinue](śatāṣṭaparivārasya) [gives](dadāty) [collyrium-ornament](añjanabhūṣaṇam)
+[śata-aṣṭa-parivārasya](śatāṣṭaparivārasya) [dadāti](dadāti) [añjana-bhūṣaṇam](añjanabhūṣaṇam)
 
 ## mukta-m0-p54-v1335
-[gives](dadāti) [woman-bringing](striyamānīya) [divine](divyaṃ) [rasa-elixir](rasarasāyanam)
+[dadāti](dadāti) [striyam](striyam) [ānīya](ānīya) [divyaṃ](divyaṃ) [rasa-rasāyanam](rasarasāyanam)
 
 ## mukta-m0-p54-v1336
-[thousands-of-dinars](dīnārāṇāṃ) [sahasraṃ](sahasraṃ) [but](tu) [rasa](rasaṃ) [and](ca) [elixir](eva) [rasāyanam](rasāyanam)
+[dīnārāṇāṃ](dīnārāṇāṃ) [sahasraṃ](sahasraṃ) [tu](tu) [rasaṃ](rasaṃ) [ca](ca) [eva](eva) [rasāyanam](rasāyanam)
 
 ## mukta-m0-p54-v1337
-[certainly](dhruvam) [wrath-weapon-two-from](āyāstradvayataḥ) [is-declared](proktā) [earring-wearer](kuṇḍaladhāriṇī)
+[dhruvam](dhruvam) [āyāstra-dvayataḥ](āyāstradvayataḥ) [proktā](proktā) [kuṇḍala-dhāriṇī](kuṇḍaladhāriṇī)
 
 ## mukta-m0-p54-v1338
-[may-protect](pāyāt) [earring-wearer](kuṇḍaladhāriṇī) [three-worlds-bliss-abundance-source](trijagatāmānandasandohabhūḥ)
+[pāyāt](pāyāt) [kuṇḍala-dhāriṇī](kuṇḍaladhāriṇī) [tri-jagatām](trijagatām) [ānanda-sandoha-bhūḥ](ānandasandohabhūḥ)
 
 ## mukta-m0-p54-v1339
-[comes](āyāti) [with-blood](rudhireṇa) [arghya](ārghyo) [should-be-given](deyastuṣṭo) [pleased](tuṣṭo) [gives](dadātyapi)
+[āyāti](āyāti) [rudhireṇa](rudhireṇa) [arghyaḥ](arghyaḥ) [deyaḥ](deyaḥ) [tuṣṭaḥ](tuṣṭaḥ) [dadāti](dadāti) [api](api)
 
 ## mukta-m0-p54-v1340
-[five-hundred-days](pañcaśatavāsarāṇi) [three-worlds](trailokyam) [also](api) [will-give](dāsyati)
+[pañca-śata-vāsarāṇi](pañcaśatavāsarāṇi) [trailokyam](trailokyam) [api](api) [dāsyati](dāsyati)
 
 ## mukta-m0-p54-v1341
-[trikūrca-weapon-mantra-declared](kūrcatrayāstrasaṃproktaḥ) [vermilion-taker-mantra](sindūrahāriṇīmanuḥ)
+[kūrca-traya-astra-saṃproktaḥ](kūrcatrayāstrasaṃproktaḥ) [sindūra-hāriṇī-manuḥ](sindūrahāriṇīmanuḥ)
 
 ## mukta-m0-p54-v1342
-[may-protect](pāyād) [beloved-root-rahu-creeper](vallabhamūlarāhulatikā) [vermilion-taker-this](sindūrahāriṇyasau)
+[pāyāt](pāyāt) [vallabha-mūla-rāhu-latikā](vallabhamūlarāhulatikā) [sindūra-hāriṇī](sindūrahāriṇī) [asau](asau)
 
 ## mukta-m0-p54-v1343
-[quickly-comes](śīghramāyātyāgatā) [she](sā) [wife](bhāryā) [becomes](bhavati) [desired](kāmitā)
+[śīghram](śīghram) [āyātya](āyātya) [āgatā](āgatā) [sā](sā) [bhāryā](bhāryā) [bhavati](bhavati) [kāmitā](kāmitā)
 
 ## mukta-m0-p54-v1344
-[protects](rakṣati) [twelve-persons](dvādaśajanān) [goddess](devī) [vermilion-taker](sindūrahāriṇī)
+[rakṣati](rakṣati) [dvādaśa-janān](dvādaśajanān) [devī](devī) [sindūra-hāriṇī](sindūrahāriṇī)
 
 ## mukta-m0-p54-v1345
-[wrath-seed-three-from-born](krodhabījatrayājjātaḥ) [is-praised](kīrtitaḥ) [lioness-mantra](siṃhinīmanuḥ)
+[krodha-bīja-trayāt](krodhabījatrayāt) [jātaḥ](jātaḥ) [kīrtitaḥ](kīrtitaḥ) [siṃhinī-manuḥ](siṃhinīmanuḥ)
 
 ## mukta-m0-p54-v1346
-[may-she-protect](seyaṃ) [all-head-garland-hanging](pātu) [all-head-garland-hanging](samastamastakakulavyālambimālākulā)
+[seyam](seyam) [pātu](pātu) [samasta-mastaka-kula-vyālambi-mālā-kulā](samastamastakakulavyālambimālākulā)
 
 ## mukta-m0-p54-v1347
-[then](tato) [delighted](hṛṣṭā) [very-giver](ativaradā) [lioness-comes](siṃhinyāyāti) [worshipped](pūjitā)
+[tato](tato) [hṛṣṭā](hṛṣṭā) [ati-varadā](ativaradā) [siṃhinyā](siṃhinyā) [āyāti](āyāti) [pūjitā](pūjitā)
 
 ## mukta-m0-p54-v1348
-[dinar](dīnāraṃ) [pair-of-cloths](vastrayugalaṃ) [giving](dadhad) [rasa-elixir](rasarasāyanam)
+[dīnāraṃ](dīnāraṃ) [vastra-yugalaṃ](vastrayugalaṃ) [dadhat](dadhat) [rasa-rasāyanam](rasarasāyanam)
 
 ## mukta-m0-p54-v1349
-[trikūrca-weapon](trikūrcāstraṃ) [and](ca) [is-declared](kathito) [swan-mantra-supreme](haṃsi(nī)manuruttamaḥ)
+[tri-kūrcāstraṃ](trikūrcāstraṃ) [ca](ca) [kathito](kathito) [haṃsi(nī)-manuḥ](haṃsi(nī)manuḥ) [uttamaḥ](uttamaḥ)
 
 ## mukta-m0-p54-v1350
-[pearl-adorned-swinging-garland-creeper](muktāyuktavilolahāralatikā) [glorious-swan](śrīhaṃsinī) [may-protect-you](pātu) [you](vaḥ)
+[muktā-yukta-vilola-hāra-latikā](muktāyuktavilolahāralatikā) [śrī-haṃsinī](śrīhaṃsinī) [pātu](pātu) [vaḥ](vaḥ)

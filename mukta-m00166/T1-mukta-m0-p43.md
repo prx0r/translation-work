@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p43-v1051
-yellow(pītā) golden(pītā) drunk(pītā) sipped(pītā)
+[yellow](pītā)
 
 ## mukta-m0-p43-v1052
-sung(gītā) yellow(pītā) welfare(hitāyāstu) mother(mātā) brother(bhātā) good(satāṃ) heart(hṛdi)
+[sung](gītā) [yellow](pītā) [for-welfare](hitāyāstu) [mother](mātā) [brother](bhātā) [of-good-ones](satāṃ) [in-heart](hṛdi)
 
 ## mukta-m0-p43-v1053
-speckled(karburā) variegated(karburā) spotted(karburā) mottled(karburā)
+[mottled](karburā)
 
 ## mukta-m0-p43-v1054
-speckled(karburā) deity(devatā) may-be(bhūyād) burden-removing(bhavabhārāpahāriṇī)
+[mottled](karburā) [deity](devatā) [may-be](bhūyād) [burden-removing](bhavabhārāpahāriṇī)
 
 ## mukta-m0-p43-v1055
-hunger(kṣudhā) famine(kṣudhā) appetite(kṣudhā) craving(kṣudhā)
+[hunger](kṣudhā)
 
 ## mukta-m0-p43-v1056
-hunger(kṣudhā) goddess(devī) conquers(jayatyeṣā) all-elements-single-seed(sarvadhātvekabījabhūḥ)
+[hunger](kṣudhā) [goddess](devī) [conquers](jayatyeṣā) [single-seed-of-all-elements](sarvadhātvekabījabhūḥ)
 
 ## mukta-m0-p43-v1057
-thirst(tṛṣṇā) desire(tṛṣṇā) craving(tṛṣṇā) longing(tṛṣṇā)
+[thirst](tṛṣṇā)
 
 ## mukta-m0-p43-v1058
-because(yannunno) ocean-drying(tṛṣṇā) cause(hetustṛṣṇā) conquers(jayatyasau)
+[that](yannunno) [ocean-drying-cause](abdhi+viśoṣa+eka+hetuḥ) [thirst](tṛṣṇā) [conquers](jayatyasau)
 
 ## mukta-m0-p43-v1059
-old-age(jarāvṛddhā) aged(jarāvṛddhā) elderly(jarāvṛddhā) senior(jarāvṛddhā)
+[old-age-grown](jarāvṛddhā)
 
 ## mukta-m0-p43-v1060
-wonder(citraṃ) she(sāpi) old-age(jarāvṛddhā) makes(kriyānmama) decrepit(jarājarām)
+[wonder](citraṃ) [she-too](sāpi) [old-age-grown](jarāvṛddhā) [makes-me-old](kriyānmama) [old-age](jarājarām)
 
 ## mukta-m0-p43-v1061
-young(taruṇī) youthful(taruṇī) maiden(taruṇī) fresh(taruṇī)
+[young-woman](taruṇī)
 
 ## mukta-m0-p43-v1062
-of-youth(taruṇyāḥ) supreme(paraṃ) laughter(hāsyamātraprasādaḥ) grace(hāsyamātraprasādaḥ)
+[of-young-woman](taruṇyāḥ) [supreme](paraṃ) [laughter-only](hāsyamātra) [grace](prasādaḥ)
 
 ## mukta-m0-p43-v1063
-compassion(karuṇālayā) abode(karuṇālayā) refuge(karuṇālayā) shelter(karuṇālayā)
+[compassion-abode](karuṇālayā)
 
 ## mukta-m0-p43-v1064
-you-remove(dūrīkaroṣi) not(nāto) sung(gīyase) compassion-abode(karuṇālayā)
+[you-remove](dūrīkaroṣi) [since](yannāto) [are-sung](gīyase) [compassion-abode](karuṇālayā)
 
 ## mukta-m0-p43-v1065
-art(kalā) skill(kalā) digit(kalā) portion(kalā)
+[art](kalā)
 
 ## mukta-m0-p43-v1066
-all(sakalā) not(na) under(vaśe) what(kiṃ) be(syuḥ) hand-garland(karamālātulāḥ) arts(kalāḥ)
+[all](sakalā) [not](na) [under-control](vaśe) [what](kiṃ) [would-be](syuḥ) [hand-garland](karamālā) [equal](tulāḥ) [arts](kalāḥ)
 
 ## mukta-m0-p43-v1067
-wood(kāṣṭhā) limit(kāṣṭhā) end(kāṣṭhā) goal(kāṣṭhā)
+[limit](kāṣṭhā)
 
 ## mukta-m0-p43-v1068
-perish(naśyet) moment(kṣaṇena) devotees(bhaktānāṃ) wood(kāṣṭhetyasyāḥ) grace(prasādataḥ)
+[perish](naśyet) [in-moment](kṣaṇena) [of-devotees](bhaktānāṃ) [limit](kāṣṭhā) [of-this](etyasyāḥ) [grace](prasādataḥ)
 
 ## mukta-m0-p43-v1069
-moment(muhūrtā) instant(muhūrtā) time(muhūrtā) period(muhūrtā)
+[moment](muhūrtā)
 
 ## mukta-m0-p43-v1070
-form(svarūpaṃ) renowned(prathitā) earth(bhūmau) moments(muhūrtāstu) auspicious(śivāya) you(vaḥ)
+[own-form](svarūpaṃ) [famous](prathitā) [on-earth](bhūmau) [moments](muhūrtāstu) [for-auspiciousness](śivāya) [to-you](vaḥ)
 
 ## mukta-m0-p43-v1071
-blink(nimeṣā) wink(nimeṣā) instant(nimeṣā) moment(nimeṣā)
+[blink](nimeṣā)
 
 ## mukta-m0-p43-v1072
-blinks(nimeṣāstu) supreme(pareśānī) all-remainders(viśeṣāśeṣabhūtidā) giver(viśeṣāśeṣabhūtidā)
+[blinks](nimeṣāstu) [supreme-lady](pareśānī) [all-distinct](viśeṣāśeṣa) [wealth-giving](bhūtidā)
 
 ## mukta-m0-p43-v1073
-time-form(kālarūpiṇī) time-shaped(kālarūpiṇī) temporal(kālarūpiṇī) personified(kālarūpiṇī)
+[time-formed](kālarūpiṇī)
 
 ## mukta-m0-p43-v1074
-planet-sign-wheel(graharāśibhacakrakānumeyā) renowned(prathitā) she(sā) indeed(kila) time-form(kālarūpiṇīti)
+[planet-sign-zodiac-wheel](graharāśibhacakrakānumeyā) [famous](prathitā) [she-indeed](sākila) [time-formed](kālarūpiṇīti)
 
 ## mukta-m0-p43-v1075
-good-ear(sukarṇarasanā) sweet-voiced(sukarṇarasanā) pleasant-eared(sukarṇarasanā) melodious(sukarṇarasanā)
+[good-eared-tongued](sukarṇarasanā)
