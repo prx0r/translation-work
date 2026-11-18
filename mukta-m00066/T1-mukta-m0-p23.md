@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p23-v551
-in-bliss-tantra and indeed in-this four supreme-declared
+[in-bliss-tantra](ānaṃdataṃtre) [and](ca) [indeed](eva) [in-this](asmin) [four](catvāraḥ) [declared-supreme](paramīritāḥ)
 
 ## mukta-m0-p23-v552
-therefore four delights here proclaimed O-great-lady
+[therefore](tasmāt) [four](catvāraḥ) [delights](ullāsāḥ) [here](iha) [proclaimed](proktāḥ) [O-great-lady](maheśvari)
 
 ## mukta-m0-p23-v553
-therefore bliss worship-of garlanded indeed not three
+[therefore](tasmāt) [bliss](ānaṃda) [worship-of](pūjāyāḥ) [garlanded](mālaṃvyaṃte) [but](tu) [not](na) [three](trayaḥ)
 
 ## mukta-m0-p23-v554
-thus thus supreme-bliss lord-knowledge consider
+[thus](tathā) [thus](tathā) [supreme-bliss](parānaṃda) [lord-knowledge](nāthavidyāṃ) [consider](parāmṛśet)
 
 ## mukta-m0-p23-v555
-by-messenger kindled self bliss-form guru remember
+[by-messenger](dūtyā) [kindled](saṃdhukṣita) [own-self](svātmā) [bliss-form](naṃdamūrttiṃ) [guru](guruṃ) [remember](smaret)
 
 ## mukta-m0-p23-v556
-at-twelfth-end red-white-foot place
+[at-twelfth-end](dvādaśāṃtagate) [red-white-foot](raktaśuklapāde) [place](vinikṣipet)
 
 ## mukta-m0-p23-v557
-Shiva-sovereignty foot-anointed own think
+[Shiva-sovereignty](śivatvasāmrājya) [foot-anointed](padābhiṣiktaṃ) [own-think](svaṃviciṃtayet)
 
 ## mukta-m0-p23-v558
-seeing limb-sprout tooth mountain-going mind
+[seeing](paśyan) [limb-sprout-tooth](pratyaṃgamaṃkūradanaṃ) [mind-rising](gottuṃgamānasaḥ)
 
 ## mukta-m0-p23-v559
-as youth-delight obtains O-mother messenger
+[as](yathā) [youth-delight](yauvanamullāsaṃ) [obtains](saṃprāpnoti) [O-mother](aṃba) [messenger](dūtikā)
 
 ## mukta-m0-p23-v560
-gaze-pleasure directly smile awakens Ganges
+[gaze-pleasure](ālokaneratiḥ) [directly](sākṣāt) [smile](smite) [awakens](jāgarti) [Ganges](jāhnavī)
 
 ## mukta-m0-p23-v561
-Ashvins nose-region and lip supreme-nectar
+[Ashvins](aśvinau) [nose-region](nāsikābhāge) [and](ca) [lip](oṣṭhe) [supreme-nectar](paramāmṛtam)
 
 ## mukta-m0-p23-v562
-sweat and Varuni goddess desire-lord I in-act
+[sweat](svede) [and](ca) [Varuni-goddess](vāruṇī-devī) [desire-lord](kāmanāthaḥ) [I](ahaṃ) [in-act](kṛtau)
 
 ## mukta-m0-p23-v563
-breast-pair Meru-mountain soundless Brahman-middle
+[breasts-two](stanadvaye) [Meru-mountain](merugiriḥ) [soundless](niḥśabdaṃ) [Brahman-middle](brahmamadhyame)
 
 ## mukta-m0-p23-v564
-three-folds and three-worlds navel-womb cave-mother
+[three-folds](valitraye) [and](ca) [three-worlds](trailokyaṃ) [navel-womb](nābhigarbhe) [cave-mother](guhāṃbikā)
 
 ## mukta-m0-p23-v565
-nails cool moon arm-root hook-deities
+[nails](nakheṣu) [cool](śītāṃ) [moon](śu) [arm-root](kalādormmūle) [hook-deity](kuśadevatāḥ)
 
 ## mukta-m0-p23-v566
-Kaveri indeed exhalation cow act
+[Kaveri](kāverī) [and](ca) [indeed](eva) [breath](niśvāse) [cow-gift](godā) [action](karmaṇi)
 
 ## mukta-m0-p23-v567
-pure-saliva-acts mind-rest leader
+[pure-saliva-acts](amalālāpakṛtyeṣu) [mind-rest](cittaviśrāṃti) [leader](nāyakā)
 
 ## mukta-m0-p23-v568
-speech-power pleasure-hum Jupiter cuckoo-sound
+[speech-power](vākptiḥ) [pleasure-hum](sukhahuṃkāre) [speech-lord-sound](gīṣpatīkākukādhvanau)
 
 ## mukta-m0-p23-v569
-Indra mind-elevation Agni object swallows
+[Indra](iṃdraḥ) [mind-elevation](cittasamunnatyām) [Agni](agniḥ) [object](vastu) [swallow-flame](grasītviṣi)
 
 ## mukta-m0-p23-v570
-hand-movement sacrifice embrace sacrifice-person
+[hand-etc-movement](hastādicālane) [sacrifice](yajñaḥ) [embrace](āśleṣe) [sacrifice-person](yajñapūruṣaḥ)
 
 ## mukta-m0-p23-v571
-dance and Tandava goddess her body-etc whirling
+[dance](lāsyaṃ) [and](ca) [Tandava](tāṃḍavaṃ) [goddess](devi) [her](tasyāḥ) [body-etc](dehādi) [whirling](ghūrṇane)
 
 ## mukta-m0-p23-v572
-those all occur her cheekful-object
+[those-all](tāni-sarvāṇi) [occur](varttate) [her](tasyāḥ) [cheek-mouth-object](gaṃḍūṣavastuni)
 
 ## mukta-m0-p23-v573
-that-fruit obtains messenger nectar-cheekful by-drinking
+[that-fruit](tatphalaṃ) [obtains](labhate) [messenger](dūtī) [nectar-cheek-mouth](sudhāgaṃḍūṣa) [by-drinking](sevanāt)
 
 ## mukta-m0-p23-v574
-cheekful-first goddess hero's-bliss increasing
+[cheek-mouth-first](gaṃḍūṣamādiraṃ) [goddess](devī) [hero-bliss](vīrasyānaṃda) [increase](varddhanam)
 
 ## mukta-m0-p23-v575
-ever-moist-nectar goddess love pleasure and that-vulva
+[ever-moist](nityaklinnā) [nectar](sudhā) [goddess](devī) [love](rati) [pleasure](prītiḥ) [and](ca) [that-vulva](tadbhage)

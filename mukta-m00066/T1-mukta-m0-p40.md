@@ -2,76 +2,52 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p40-v976
-[bahunākimihoktena](bahunākimihoktena) [sākṣādānaṃdadāyakaḥ](sākṣādānaṃdadāyakaḥ)
-
+bahu-nā-ki-miha-uktena sākṣāt-ānanda-dāyakaḥ
 ## mukta-m0-p40-v977
-[iti](iti) [dvitīyapātasya](dvitīyapātasya) [maṃtrasannāma](maṃtrasannāma) [īritam](īritam)
-
+iti dvitīya-pātasya maṃtra-sannāma īritam
 ## mukta-m0-p40-v978
-[aṣṭabhogavatī](aṣṭabhogavatī) [dhatte](dhatte) [mahāsāmrājya](mahāsāmrājya) [nāthatām](nāthatām)
-
+aṣṭa-bhoga-vatī dhatte mahā-sāmrājya nātha-tām
 ## mukta-m0-p40-v979
-[sarvākāreṇa](sarvākāreṇa) [caitanya](caitanya) [layaḥ](layaḥ) [sarvāṃgasuṃdarī](sarvāṃgasuṃdarī)
-
+sarva-ākāreṇa caitanya layaḥ sarva-aṃga-sundarī
 ## mukta-m0-p40-v980
-[viśvakṣati](viśvakṣati) [ca](ca) [yatkiṃcinna](yatkiṃcinna) [ca](ca) [niryāti](niryāti) [vakrataḥ](vakrataḥ)
-
+viśva-kṣati ca yat-kiṃcit-na ca nir-yāti vakrataḥ
 ## mukta-m0-p40-v981
-[na](na) [ceṣṭā](ceṣṭā) [na](na) [ca](ca) [saṃraṃbho](saṃraṃbho) [na](na) [ca](ca) [mohana](mohana) [kūjitam](kūjitam)
-
+na ceṣṭā na ca saṃraṃbhaḥ na ca mohana kūjitam
 ## mukta-m0-p40-v982
-[na](na) [daṃta](daṃta) [pātanomuṣṭi](pātanomuṣṭi) [ghātena](ghātena) [ca](ca) [ka](ka) [ca](ca) [grahaḥ](grahaḥ)
-
+na daṃta-pātana-muṣṭi-ghātena ca ka ca grahaḥ
 ## mukta-m0-p40-v983
-[na](na) [mekhalā](mekhalā) [kalakvāṇo](kalakvāṇo) [na](na) [līlāsaṃgamaṃgayaḥ](līlāsaṃgamaṃgayaḥ)
-
+na mekhalā-kala-kvāṇaḥ na līlā-saṃgama-bhaṃgayaḥ
 ## mukta-m0-p40-v984
-[hṛdayasthāna](hṛdayasthāna) [janitaḥ](janitaḥ) [kaṃpaḥ](kaṃpaḥ) [paraparāyate](paraparāyate)
-
+hṛdaya-sthāna janitaḥ kaṃpaḥ para-parāyate
 ## mukta-m0-p40-v985
-[ekāṣṭakamahāyāga](ekāṣṭakamahāyāga) [pakṣebiṃduṃ](pakṣebiṃduṃ) [samutsṛjet](samutsṛjet)
-
+eka-aṣṭaka-mahā-yāga pakṣe-biṃduṃ sam-utsṛjet
 ## mukta-m0-p40-v986
-[aṣṭāṣṭakamahāyāge](aṣṭāṣṭakamahāyāge) [dūtyaṣṭakamataḥ](dūtyaṣṭakamataḥ) [param](param)
-
+aṣṭa-aṣṭaka-mahā-yāge dūtya-aṣṭakam-ataḥ param
 ## mukta-m0-p40-v987
-[iyameva](iyameva) [hi](hi) [śakteśca](śakteśca) [śaṃbhorekatayā](śaṃbhorekatayā) [sthitiḥ](sthitiḥ)
-
+iyam-eva hi śakteḥ-ca śaṃbhor-ekatayā sthitiḥ
 ## mukta-m0-p40-v988
-[itthamānaṃda](itthamānaṃda) [yāgo'yaṃ](yāgo'yaṃ) [kathitaste](kathitaste) [maheśvari](maheśvari)
-
+ittha-ānanda-yāgaḥ-ayaṃ kathitaḥ-te maheśvari
 ## mukta-m0-p40-v989
-[bhavato](bhavato) [vadanāṃbhojāt](vadanāṃbhojāt) [suśruto'ṣṭāhuti](suśruto'ṣṭāhuti) [kramaḥ](kramaḥ)
-
+bhavataḥ vadanāṃbhojāt su-śrutaḥ-aṣṭa-āhuti kramaḥ
 ## mukta-m0-p40-v990
-[śrotuṃ](śrotuṃ) [vāṃcchāmi](vāṃcchāmi) [deveśa](deveśa) [yāgānaṃtarajaṃ](yāgānaṃtarajaṃ) [kramam](kramam)
-
+śrotuṃ vāṃcchāmi deveśa yāga-anantara-jaṃ kramam
 ## mukta-m0-p40-v991
-[śṛṇu](śṛṇu) [devi](devi) [mahābhāge](mahābhāge) [yanmāṃtvaṃ](yanmāṃtvaṃ) [paripṛcchasi](paripṛcchasi)
-
+śṛṇu devi mahā-bhāge yat-māṃ-tvaṃ pari-pṛcchasi
 ## mukta-m0-p40-v992
-[vīraḥ](vīraḥ) [suciranṛttena](suciranṛttena) [śrāṃtaliṃgamaheśvaraḥ](śrāṃtaliṃgamaheśvaraḥ)
-
+vīraḥ su-cira-nṛttena śrāṃta-liṃga-maheśvaraḥ
 ## mukta-m0-p40-v993
-[atha](atha) [pradūṣita](pradūṣita) [pāte](pāte) [pūrite](pūrite) [puṇyavastubhiḥ](puṇyavastubhiḥ)
-
+atha pradūṣita-pāte pūrite puṇya-vastubhiḥ
 ## mukta-m0-p40-v994
-[ānaṃdanāthasya](ānaṃdanāthasya) [manuṃcāṣṭāviṃśativārakam](manuṃcāṣṭāviṃśativārakam)
-
+ānanda-nāthasya manuṃ-ca-aṣṭā-viṃśati-vārakam
 ## mukta-m0-p40-v995
-[dakṣahastasya](dakṣahastasya) [culuke](culuke) [dhārayitvā](dhārayitvā) [vicakṣaṇaḥ](vicakṣaṇaḥ)
-
+dakṣa-hastasya culuke dhārayitvā vicakṣaṇaḥ
 ## mukta-m0-p40-v996
-[saśuddhibhyāṃtayorbiṃduṃ](saśuddhibhyāṃtayorbiṃduṃ) [kārikāḥ](kārikāḥ) [prapaṭhan](prapaṭhan) [kiret](kiret)
-
+sa-śuddhi-bhyāṃ-tayoḥ-biṃduṃ kārikāḥ pra-paṭhan kiret
 ## mukta-m0-p40-v997
-[etairānaṃdayāgāṃta](etairānaṃdayāgāṃta) [śuklaśoṇitabiṃdubhiḥ](śuklaśoṇitabiṃdubhiḥ)
-
+etaiḥ-ānanda-yāga-anta śukla-śoṇita-biṃdubhiḥ
 ## mukta-m0-p40-v998
-[etairānaṃdayāgāṃta](etairānaṃdayāgāṃta) [śuklaśoṇitabiṃdubhiḥ](śuklaśoṇitabiṃdubhiḥ)
-
+etaiḥ-ānanda-yāga-anta śukla-śoṇita-biṃdubhiḥ
 ## mukta-m0-p40-v999
-[etairānaṃdayāgāṃta](etairānaṃdayāgāṃta) [śuklaśoṇitabiṃdubhiḥ](śuklaśoṇitabiṃdubhiḥ)
-
+etaiḥ-ānanda-yāga-anta śukla-śoṇita-biṃdubhiḥ
 ## mukta-m0-p40-v1000
-[etairānaṃdayāgāṃta](etairānaṃdayāgāṃta) [śuklaśoṇitabiṃdubhiḥ](śuklaśoṇitabiṃdubhiḥ)
+etaiḥ-ānanda-yāga-anta śukla-śoṇita-biṃdubhiḥ
