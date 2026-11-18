@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p116-v2876
-[bindu-antaḥ](bindvantastatpūrvo'ntyasvarānvitaḥ) [tat-pūrvaḥ](bindvantastatpūrvo'ntyasvarānvitaḥ) [antya-svara-anvitaḥ](bindvantastatpūrvo'ntyasvarānvitaḥ)
+[bindu+vantaḥ+tat+pūrvaḥ+antya+svara+anvitaḥ](bindvantastatpūrvo'ntyasvarānvitaḥ)
 
 ## mukta-m0-p116-v2877
-[marut-sakha-priya-antaḥ](marutsakhapriyānto'yaṃ) [ayam](marutsakhapriyānto'yaṃ) [jagat-yarṇaḥ](jagatyarṇo) [hi](hi) [vāk-manuḥ](vāṅmanuḥ)
+[marut+sakha+priya+antaḥ+ayaṃ+jagat+arṇaḥ+hi+vāk+manuḥ](marutsakhapriyānto'yaṃ jagatyarṇo hi vāṅmanuḥ)
 
 ## mukta-m0-p116-v2878
-[sa-agniḥ](sāgnirnādastu) [nādaḥ](sāgnirnādastu) [tu](sāgnirnādastu) [tārā-ādiḥ](tārādirdīrghairyuktaḥ) [dīrghaiḥ](tārādirdīrghairyuktaḥ) [yuktaḥ](tārādirdīrghairyuktaḥ) [kramāt](kramāt) [svaraiḥ](svaraiḥ)
+[sāgniḥ+nādaḥ+tu+tārā+ādiḥ+dīrghaiḥ+yuktaḥ+kramāt+svaraiḥ](sāgnirnādastu tārādirdīrghairyuktaḥ kramāt svaraiḥ)
 
 ## mukta-m0-p116-v2879
-[purāṇa-pada-saṃyuktaiḥ](purāṇapadasaṃyuktaiḥ) [ṣaḍbhiḥ](ṣaḍbhirmantrapadaiḥ) [mantra-padaiḥ](ṣaḍbhirmantrapadaiḥ) [kramāt](kramāt)
+[purāṇa+pada+saṃyuktaiḥ+ṣaḍbhiḥ+mantra+pada+aiḥ+kramāt](purāṇapadasaṃyuktaiḥ ṣaḍbhirmantrapadaiḥ kramāt)
 
 ## mukta-m0-p116-v2880
-[caturthī-antā](caturthyantā) [vidmahe-pada-saṃyutā](vidmahepadasaṃyutā)
+[caturthy+anta+āḥ+vidmahe+pada+saṃyutā](caturthyantā vidmahepadasaṃyutā)
 
 ## mukta-m0-p116-v2881
-[pra-iti](preti) [codayāt](codayāditi) [iti](codayāditi) [yojitā](yojitā)
+[pra+iti+codayāt+iti+yojitā](preti codayāditi yojitā)
 
 ## mukta-m0-p116-v2882
-[proktaḥ](proktastrīmānataḥ) [strī-mānataḥ](proktastrīmānataḥ) [kṛtā](kṛtā)
+[proktaḥ+strī+māna+taḥ+kṛtā](proktastrīmānataḥ kṛtā)
 
 ## mukta-m0-p116-v2883
-[lekhanīm](lekhanīṃ) [vāme](vāme) [kalaśam](kalaśaṃ) [ca](cāpi) [api](cāpi) [bibhratī](bibhratī)
+[lekhanīṃ+vāme+kalaśaṃ+ca+api+bibhratī](lekhanīṃ vāme kalaśaṃ cāpi bibhratī)
 
 ## mukta-m0-p116-v2884
-[śaṅkha-kunda-indu-dhavalā](śaṅkhakundendudhavalā) [sa-kaparda-indu-śekharā](sakapardenduśekharā)
+[śaṅkha+kunda+indu+dhavalā+sakaparda+indu+śekharā](śaṅkhakundendudhavalā sakapardenduśekharā)
 
 ## mukta-m0-p116-v2885
-[hāri-hāra-ullasat-tuṅga-pīvara-stana-maṇḍalā](hārihārollasattuṅgapīvarastanamaṇḍalā)
+[hāri+hāra+ullasat+tuṅga+pīvara+stana+maṇḍalā](hārihārollasattuṅgapīvarastanamaṇḍalā)
 
 ## mukta-m0-p116-v2886
-[su-upaviṣṭā](sū)paviṣṭā) [nava-yauvana-maṇḍitā](navayauvanamaṇḍitā)
+[sū)paviṣṭā+navayauvana+maṇḍitā](sū)paviṣṭā navayauvanamaṇḍitā)
 
 ## mukta-m0-p116-v2887
-[dakṣiṇa-dvāre](dakṣiṇadvāre) [sthāpyā](sthāpyā) [syāt](syād) [dakṣiṇā-mukhī](dakṣiṇāmukhī)
+[dakṣiṇa+dvāre+sthāpyā+syāt+dakṣiṇā+mukhī](dakṣiṇadvāre sthāpyā syād dakṣiṇāmukhī)
 
 ## mukta-m0-p116-v2888
-[pūrṇa-bhadraḥ](pūrṇabhadraścāpyānando) [ca](pūrṇabhadraścāpyānando) [api](pūrṇabhadraścāpyānando) [ānandaḥ](pūrṇabhadraścāpyānando) [nandanaḥ](nandanastathā) [tathā](nandanastathā)
+[pūrṇa+bhadraḥ+ca+api+ānandaḥ+nandanaḥ+tathā](pūrṇabhadraścāpyānando nandanastathā)
 
 ## mukta-m0-p116-v2889
-[prācyām](prācyāmaindraśca) [aindraḥ](prācyāmaindraśca) [ca](prācyāmaindraśca) [vajra-aṅkaḥ](vajrāṅko) [yāmyaḥ](yāmyo) [daṇḍa-aṅkaḥ](daṇḍāṅka) [eva](eva) [ca](ca)
+[prācyām+aindraḥ+ca+vajrāṅkaḥ+yāmyaḥ+daṇḍāṅkaḥ+eva+ca](prācyāmaindraśca vajrāṅko yāmyo daṇḍāṅka eva ca)
 
 ## mukta-m0-p116-v2890
-[prajñā](prajñā) [prabhā](prabhā) [vidyā](vidyā) [dhīḥ](dhīrdhṛtismṛtibuddhayaḥ) [dhṛti](dhīrdhṛtismṛtibuddhayaḥ) [smṛti](dhīrdhṛtismṛtibuddhayaḥ) [buddhayaḥ](dhīrdhṛtismṛtibuddhayaḥ)
+[prajñā+prabhā+vidyā+dhīḥ+dhṛtiḥ+smṛtiḥ+buddhayaḥ](prajñā prabhā vidyā dhīrdhṛtismṛtibuddhayaḥ)
 
 ## mukta-m0-p116-v2891
-[madhya-stambheṣu](madhyastambheṣu) [catvāraḥ](catvāro'pyāgneyādiṣvṛgādayaḥ) [api](catvāro'pyāgneyādiṣvṛgādayaḥ) [āgneya-ādiṣu](catvāro'pyāgneyādiṣvṛgādayaḥ) [ṛg-ādayaḥ](catvāro'pyāgneyādiṣvṛgādayaḥ)
+[madhya+stambheṣu+catvāraḥ+api+āgneya+ādiṣu+ṛg+ādayaḥ](madhyastambheṣu catvāro'pyāgneyādiṣvṛgādayaḥ)
 
 ## mukta-m0-p116-v2892
-[sūtra-pāṭhaḥ](sūtrapāṭho) [mīmāṃsā](mīmāṃsā) [nyāya-vistaraḥ](nyāyavistaraḥ)
+[sūtra+pāṭhaḥ+mīmāṃsā+nyāya+vistaraḥ](sūtrapāṭho mīmāṃsā nyāyavistaraḥ)
 
 ## mukta-m0-p116-v2893
-[vidyā-ātmakam](vidyātmakaṃ) [vitānam](vitānaṃ) [syāt](syāt) [sthalam](sthalaṃ) [tu](tu) [pṛthivī](pṛthivī) [svayam](svayam)
+[vidyā+ātmakaṃ+vitānaṃ+syāt+sthalaṃ+tu+pṛthivī+svayam](vidyātmakaṃ vitānaṃ syāt sthalaṃ tu pṛthivī svayam)
 
 ## mukta-m0-p116-v2894
-[haṃsa-gā](haṃsagā) [vāṇī](vāṇī) [tad-astram](tadastraṃ) [sārasa-upari](sārasopari)
+[haṃsa+gā+vāṇī+tat+astram+sārasa+upari](haṃsagā vāṇī tadastraṃ sārasopari)
 
 ## mukta-m0-p116-v2895
-[bhūṣitam](bhūṣitaṃ) [vāme](vāme) [vara-pustaka-pāśa-dhṛk](varapustakapāśadhṛk)
+[bhūṣitaṃ+vāme+vara+pustaka+pāśa+dhṛk](bhūṣitaṃ vāme varapustakapāśadhṛk)
 
 ## mukta-m0-p116-v2896
-[dadhat](dadhat) [prāgvat](prāgvannavasu) [navasu](prāgvannavasu) [kuṇḍeṣu](kuṇḍeṣu) [vahnim](vahniṃ) [madhya-ādi-bhājitam](madhyādibhājitam)
+[dadhat+prāgvat+navasu+kuṇḍeṣu+vahniṃ+madhya+ādi+bhājitam](dadhat | prāgvannavasu kuṇḍeṣu vahniṃ madhyādibhājitam)
 
 ## mukta-m0-p116-v2897
-[yoga-ādi-mūrtibhiḥ](yogādimūrtibhirdikṣu) [dikṣu](yogādimūrtibhirdikṣu) [juhuyuḥ](juhuyurmūrtidhārakāḥ) [mūrti-dhārakāḥ](juhuyurmūrtidhārakāḥ)
+[yoga+ādi+mūrtibhiḥ+dikṣu+juhuyuḥ+mūrti+dhārakāḥ](yogādimūrtibhirdikṣu juhuyurmūrtidhārakāḥ)
 
 ## mukta-m0-p116-v2898
-[samid-ājya-carūn](samidājyacarūṁllājān) [lājān](samidājyacarūṁllājān) [vrīhi-siddhārtha-sarṣapān](vrīhisiddhārthasarṣapān)
+[samid+ājya+carūn+lājān+vrīhi+siddhārtha+sarṣapān](samidājyacarūṁllājān vrīhisiddhārthasarṣapān)
 
 ## mukta-m0-p116-v2899
-[prāgvat](prāgvadākāraśuddhiṃ) [ākāra-śuddhim](prāgvadākāraśuddhiṃ) [ca](prāgvadākāraśuddhiṃ) [kuryāt](kuryāccākṣivimokṣaṇam) [ca](kuryāccākṣivimokṣaṇam) [akṣi-vimokṣaṇam](kuryāccākṣivimokṣaṇam)
+[prāgvat+ākāra+śuddhiṃ+ca+kuryāt+ca+akṣi+vimokṣaṇam](prāgvadākāraśuddhiṃ ca kuryāccākṣivimokṣaṇam)
 
 ## mukta-m0-p116-v2900
-[sarasvatyāḥ](sarasvatyā) [vidyā-kumbha-aṣṭake](vidyākumbhāṣṭake) [yajet](yajet)
+[sarasvatyā+vidyā+kumbha+aṣṭake+yajet](sarasvatyā vidyākumbhāṣṭake yajet)
