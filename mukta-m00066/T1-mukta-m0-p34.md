@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p34-v826
-[somewhat](kiṃcit) [become+slimy](piccilita+āpannaṃ) [somewhat](kiṃcit) [having+very+fine+bubbles](ut+sūkṣma+budbudam)
+[something](kiṃcit) [slimy+attained](piccilitāpannaṃ) [something](kiṃcid) [tiny+bubble](utsūkṣmabudbudam)
 
 ## mukta-m0-p34-v827
-[causing+excessive+bliss](ati+ānaṃda+karaṃ) [o-goddess](devi) [from+touch+alone](sparśanāt+eva) [of-the-enjoyers](bhoginām)
+[extremely+bliss+causing](atyānaṃdakaraṃ) [goddess](devi) [by+touch](sparśanādeva) [of+serpents](bhoginām)
 
 ## mukta-m0-p34-v828
-[named+śoṇā](śoṇā+abhidhā) [great+holy-place](mahā+tīrtha) [drying-up+my+sorrow](mayaṃ+śoka+viśoṣaṇam)
+[red-named](śoṇābhidhā) [great+tīrtha](mahātīrtha) [sorrow+drying](mayaṃśokaviśoṣaṇam)
 
 ## mukta-m0-p34-v829
-[having+the-form+of-a-liṅga](liṃga+rūpiṇam) [filled+with+matted-locks+of+fierce+passion-flames](uddāma+rāga+jvālā+jaṭā+kulam)
+[liṅga-formed](liṃgarūpiṇam) [great+liṅga](mahāliṃga) [great+lord](maheśāna) [with+rasas](rasaiścaṃdravatī) [with+states](bhavaiḥ)
 
 ## mukta-m0-p34-v830
-[o-great-liṅga](mahā+liṃga) [o-great-lord](mahā+īśāna) [with+juices](rasaiḥ) [consisting+of-moon](caṃdra+vatī) [with-becomings](bhavaiḥ)
+[liṅga-formed](liṃgarūpiṇam) [great+liṅga](mahāliṃga) [great+lord](maheśāna) [with+rasas](rasaiścaṃdravatī) [with+states](bhavaiḥ)
 
 ## mukta-m0-p34-v831
-[of-the-devotee](bhaktasya) [state+of-īśāna](īśāna+bhāvaṃ) [and](ca) [subjugation+by+the-essence+of-the-sun](sūrya+tatva+vaśī+kṛtim)
+[of+devotee](bhaktasyeśānabhāvaṃ) [and](ca) [sun+principle](sūryatatvavaśīkṛtim)
 
 ## mukta-m0-p34-v832
-[of-the-senses](iṃdriyāṇāṃ) [strength](prabalatāṃ) [far-seeing](dūra+dṛṣṭim) [o-giver](adāṃbike)
+[of+senses](iṃdriyāṇāṃ) [strength](prabalatāṃ) [far+sight](dūradṛṣṭimadāṃbike)
 
 ## mukta-m0-p34-v833
-[bestows](prayacchati) [all](akhilāṃ) [accomplishment](siddhiṃ) [fiery](taijasīṃ) [illuminating+the-universe](viśva+bhāsinīm)
+[gives](prayacchatyakhilāṃ) [all+accomplishment](siddhiṃ) [luminous](taijasīṃ) [world-illuminating](viśvabhāsinīm)
 
 ## mukta-m0-p34-v834
-[by-this](anayā) [fifth+oblation](paṃcama+āhutyā) [equal+to-the-five-faced-one](paṃca+ānana+samaḥ) [one-becomes](bhavet)
+[by+this](anayā) [fifth+offering](paṃcamāhutyā) [five-faced+equal](paṃcānanasamo) [becomes](bhavet)
 
 ## mukta-m0-p34-v835
-[at-the-time+of-the-fifth+oblation](paṃcama+āhuti+kāle) [indeed](tu) [state+of-the-messenger](dūtya+avasthā) [is-reported](nivedyate)
+[at+fifth+offering+time](paṃcamāhutikāle) [tu](tu) [messenger+state](dūtyavasthā) [is+reported](nivedyate)
 
 ## mukta-m0-p34-v836
-[repeatedly](muhuḥ) [entering+of-the-eyelashes](pakṣma+praveśaḥ) [and](ca) [of-the-pupils+of-the-eyes](netra+tārakayoḥ) [of-the-two](dvayoḥ)
+[repeatedly](muhuḥ) [eyelash](pakṣma) [entry](praveśaśca) [of+two+pupils](netratārakayordvayoḥ)
 
 ## mukta-m0-p34-v837
-[from-longing](utkaṇṭhataḥ) [like-a-female-dove](kapota+strī) [throat+stammering+speech](gala+gadgada+bhāṣitam)
+[with+longing](utkaṇṭhataḥ) [pigeon+woman](kapotastrī) [throat+gadgada+speech](galagadgadabhāṣitam)
 
 ## mukta-m0-p34-v838
-[arranging+of-garlands](alamālā+paracanam) [again](punar) [speaking+with-eagerness](utsāha+bhāṣaṇam)
+[enough+garland+arrangement](alamālāparacanaṃ) [again+enthusiasm](punarutsāha) [speech](bhāṣaṇam)
 
 ## mukta-m0-p34-v839
-[not](na) [anything](kiṃcit) [even](api) [i-know](jānāmi) [become](jātā) [i](aham) [your+servant](tava+kiṃkarī)
+[not](na) [anything](kiṃcidapi) [I+know](jānāmi) [born](jātāhaṃ) [your](tava) [servant](kiṃkarī)
 
 ## mukta-m0-p34-v840
-[i](aham) [having-you-alone+as-refuge](tvat+eka+śaraṇā) [protect+protect](rakṣa+rakṣa) [firmly](dṛḍhaṃ) [strike](jahi)
+[I](ahaṃ) [your+only+refuge](tvadekaśaraṇārakṣarakṣa) [firmly](dṛḍhaṃjahi)
 
 ## mukta-m0-p34-v841
-[even+with-some](kiṃcit) [slackening+of-the-vulva](yoni+avasāde) [even](api) [of-the-mind](manasaḥ) [very-great+effort](su+mahā+udyamaḥ)
+[something](kiṃcidyonyavasādepi) [of+mind](manasaḥ) [very+great+effort](sumahodyamaḥ)
 
 ## mukta-m0-p34-v842
-[in-all](sarveṣu) [even](api) [and](ca) [in-the-limbs](gātreṣu) [arising+of-the-odor+of-intoxication](mada+gaṃdha+samudbhavaḥ)
+[in+all](sarvesvapi) [and](ca) [in+limbs](gātreṣu) [musk+scent+arising](madagaṃdhasamudbhavaḥ)
 
 ## mukta-m0-p34-v843
-[like-the-sound](ruta+vat) [of-the-throat+of-a-female-kurarī-bird](kurarī+kaṃṭha) [tormented+by-love](kāma+ārtta) [jingling+sound](maṇita+dhvaniḥ)
+[love-afflicted](kāmārtta) [osprey+throat](kurarīkaṃṭha) [rut+like](rutavanmaṇitadhvaniḥ)
 
 ## mukta-m0-p34-v844
-[thus](iti) [beginning-with-these](ādayaḥ) [qualities](guṇāḥ) [are-declared](proktāḥ) [in-the-fifth](paṃcamyām) [oblation](āhutau) [again](punaḥ)
+[these+etc](ityādayo) [qualities](guṇāḥ) [are+stated](proktāḥ) [in+fifth+offering](paṃcamyāmāhutau) [again](punaḥ)
 
 ## mukta-m0-p34-v845
-[endowed+with-the-five-ara-syllables](ara+paṃcaka+saṃyuktā) [possessing+the-form+of-a-svastika](svastika+ākāra+śālinī)
+[with+fivefold](arapaṃcaka) [joined](saṃyuktā) [svastika-shaped](svastikākāraśālinī)
 
 ## mukta-m0-p34-v846
-[bearing](bibhratī) [cool+as-the-moon](caṃdra+śiśirāt) [of-her](tasyāḥ) [is](asti) [nectar](amṛtaṃ) [of-the-moon](vidhoḥ)
+[bearing](bibhratī) [moon+cool](caṃdraśiśirātasyā) [nectar](mastyamṛtaṃ) [of+moon](vidhoḥ)
 
 ## mukta-m0-p34-v847
-[requiring+rubbing](mardana+apekṣaṇī) [should-be](bhūyāt) [therefore](tasmāt) [to-be-given](eyā) [flowing+for-a-long-time](cira+dravā)
+[to+be+pressed](mardanāpekṣaṇī) [may+she+be](bhūyāstasmādeyā) [long+flowing](ciradravā)
 
 ## mukta-m0-p34-v848
-[of-the-lord-of-the-liṅga](liṃgeśvarasya) [indeed](eva) [city](puram) [with-uplifted](uddhataiḥ) [raised+testicles](ūrdhva+tāṇḍavaiḥ)
+[of+liṅga+lord](liṃgeśvarasyaiva) [city](puramuddhatairūrdhvatāṇḍavaiḥ)
 
 ## mukta-m0-p34-v849
-[flows](sravati) [emission+of-nectar](amṛta+vicchardam) [lunar](aiṃdavaṃ) [increasing+joy](harṣa+vardhanam)
+[flows](sravatyamṛtavicchardamaiṃdavaṃ) [joy+increasing](harṣavardhanam)
 
 ## mukta-m0-p34-v850
-[of-that](tasya) [form](svarūpam) [now](adhunā) [having-discerned](vivicya) [tell](kathayasva) [to-me](me)
+[of+that](tasya) [own+form](svarūpamadhunā) [now](vivicyakathayasvame)
