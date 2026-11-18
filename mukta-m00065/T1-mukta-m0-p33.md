@@ -2,7 +2,7 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p33-v801
-[harasya](harasya) [evaṃ](evaṃ) [bhavet](bhavet) [arcā](arcā) [sthāne](sthāne) [sthāne](sthāne) [phala-pradā](phalapradā)
+[harasya](harasya) [evaṃ](evaṃ) [bhaved](bhaved) [arcā](arcā) [sthāne](sthāne) [sthāne](sthāne) [phala-pradā](phalapradā)
 
 ## mukta-m0-p33-v802
 [bhrukuṭī-bhīṣaṇaṃ](bhrukuṭībhīṣaṇaṃ) [kṛṣṇaṃ](kṛṣṇaṃ) [lelihānaṃ](lelihānaṃ) [ca](ca) [draṃṣṭriṇam](draṃṣṭriṇam)
@@ -20,13 +20,13 @@
 [mātṛ-bhūta-anvitaṃ](mātṛbhūtānvitaṃ) [kuryāt](kuryāt) [bhairavaṃ](bhairavaṃ) [śānti-kārakam](śāntikārakam)
 
 ## mukta-m0-p33-v807
-[kuryāt](kuryāt) [aghora-ghaṇṭa-īśaṃ](aghoraghaṇṭeśaṃ) [dviraṣṭa-bhuja-maṇḍitam](dviraṣṭabhujamaṇḍitam)
+[kuryāt](kuryāt) [aghora-ghaṇṭeśaṃ](aghoraghaṇṭeśaṃ) [dviraṣṭa-bhuja-maṇḍitam](dviraṣṭabhujamaṇḍitam)
 
 ## mukta-m0-p33-v808
 [upaviṣṭaṃ](upaviṣṭaṃ) [sadā](sadā) [kṛṣṇaṃ](kṛṣṇaṃ) [sarva-kāma-pradāyakam](sarvakāmapradāyakam)
 
 ## mukta-m0-p33-v809
-[aṣṭādaśa-bhujaṃ](aṣṭādaśabhujaṃ) [kuryāt](kuryāt) [vara-dā-abhaya](varadābhaya) [varjitam](varjitam)
+[aṣṭādaśa-bhujaṃ](aṣṭādaśabhujaṃ) [kuryāt](kuryāt) [vara-dā-abhaya](varadābhaya) [varjitaṃ](varjitam)
 
 ## mukta-m0-p33-v810
 [ghaṇṭāṃ](ghṇṭāṃ) [ḍamarukaṃ](ḍamarukaṃ) [ca](ca) [eva](eva) [kuṭhāraṃ](kuṭhāraṃ) [mudgaraṃ](mudgaraṃ) [tathā](tathā)

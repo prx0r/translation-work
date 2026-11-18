@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p03-v51
-[self](ātmānaṃ) [always](satataṃ) [protect](rakṣedātma) [all](sarva) [people](janam)
+[self](ātmānaṃ) [always](satataṃ) [protect](rakṣet) [self](ātma) [all](sarva) [people](janam)
 
 ## mukta-m0-p03-v52
-[non-devotees](abhaktānāṃ) [of](tu) [bodies](vapuṣāṃ) [own-form](svarūpamiha) [is-told](kathyate)
+[non-devotees](abhaktānāṃ) [of](tu) [bodies](vapuṣāṃ) [own-form](svarūpam) [here](iha) [is-spoken](kathyate)
 
 ## mukta-m0-p03-v53
-[many-mind-delusion](anekacittavibhrāṃtiyuktaṃ) [sorrow-only](duḥkhaika) [abode](maṃdiram)
+[many-mind-delusion](anekacittavibhrāṃti) [joined](yuktaṃ) [sorrow-only](duḥkhaika) [abode](maṃdiram)
 
 ## mukta-m0-p03-v54
 [disgust](jugupsāyā) [afflicted](parikliṣṭaṃ) [sleep-laziness-etc](nidrālasyādi) [corrupted](dūṣitam)
 
 ## mukta-m0-p03-v55
-[self-knowledge](svātmavijñāna) [without](rahitaṃ) [directly](pratyakṣa) [hell](narakā) [made](kṛtim)
+[self-knowledge](svātmavijñāna) [devoid](rahitaṃ) [directly](pratyakṣa) [hell](narakā) [made](kṛtim)
 
 ## mukta-m0-p03-v56
-[erotic-only](śṛṃgāramātrarahitaṃ) [many-hatred](bahuvidveṣidūṣitam)
+[erotic-only](śṛṃgāramātra) [devoid](rahitaṃ) [much-hatred](bahuvidveṣi) [corrupted](dūṣitam)
 
 ## mukta-m0-p03-v57
-[therefore](tasmād) [devotee-body](bhaktaśarīrasyā) [sign](liṃgamūle) [great-lord](maheśvaraḥ)
+[therefore](tasmād) [devotee-body](bhaktaśarīrasya) [sign](liṃga) [root](mūle) [great-lord](maheśvaraḥ)
 
 ## mukta-m0-p03-v58
 [thus](ityānaṃdataṃtre) [second](dvitīyaḥ) [chapter](paṭalaḥ)
 
 ## mukta-m0-p03-v59
-[ānandanātha](ānaṃdanātha) [worshipful](pūjyayāmeva) [concluded](paryavasāyitām)
+[ānandanātha](ānaṃdanātha) [worshipful](pūjyayā) [indeed](meva) [concluded](paryavasāyitām)
 
 ## mukta-m0-p03-v60
 [scriptures](śāstrāṇi) [and](ca) [very-numerous](atisaṃkhyāni) [counted](saṃkhyāvatse) [spread](vitāni) [and](ca)
 
 ## mukta-m0-p03-v61
-[door-by-door](dvāradvārikayā) [veda-path](vedamārgasyaivopakārikā)
+[door-by-door](dvāradvārikayā) [veda-path](vedamārgasya) [indeed](eva) [helpful](upakārikā)
 
 ## mukta-m0-p03-v62
-[veda-explanation](vedanirvacanārthāya) [nirukta-named](niruktākhyā) [will-go](gamiṣyati)
+[veda-explanation](vedanirvacana) [purpose](arthāya) [nirukta-named](niruktākhyā) [will-go](gamiṣyati)
 
 ## mukta-m0-p03-v63
-[veda-placed](vedasthānāṃ) [of-tones](svarāṇāṃ) [tu](tu) [phonetics](śikṣāśāstravivecanam)
+[veda-residents](vedasthānāṃ) [of-tones](svarāṇāṃ) [tu](tu) [phonetics](śikṣāśāstra) [discernment](vivecanam)
 
 ## mukta-m0-p03-v64
-[astrology](jyotiṣāmayanaṃ) [darśa](darśa) [new-full-moon](paurṇamāsādibodhakam)
+[astrology](jyotiṣa) [ayana](āyanaṃ) [darśa](darśa) [full-moon-etc](paurṇamāsādi) [knowing](bodhakam)
 
 ## mukta-m0-p03-v65
-[other](anyānyapi) [ca](ca) [external](bāhyāni) [veda-limbs](vedāṃgāni) [become](bhavaṃti) [vai](vai)
+[other](anyānyapi) [and](ca) [external](bāhyāni) [veda-limbs](vedāṃgāni) [become](bhavaṃti) [indeed](vai)
 
 ## mukta-m0-p03-v66
-[logic](nyāyena) [cause](hetu) [reflection](ciṃtā) [syāt](syāt) [purāṇas](purāṇaistatvanirṇayaḥ)
+[by-logic](nyāyena) [cause](hetu) [reflection](ciṃtā) [syāt](syāt) [purāṇas](purāṇaiḥ) [truth-determination](tatvanirṇayaḥ)
 
 ## mukta-m0-p03-v67
-[by-these](etairapi) [ca](ca) [external-limbs](bāhyāṃgairveda) [path](mārgaḥ) [refined](pariṣkṛtaḥ)
+[by-these](etairapi) [and](ca) [external-limbs](bāhyāṃgair) [veda](veda) [path](mārgaḥ) [refined](pariṣkṛtaḥ)
 
 ## mukta-m0-p03-v68
-[sāma-ṛg-yajuṣ-atharva](sāma-ṛgyajuṣātharva) [difference](bhedātairyajñakalpanam)
+[sāma-ṛg-yajuṣ-atharva](sāma-ṛgyajuṣātharva) [difference](bhedātaiḥ) [sacrifice-arrangement](yajñakalpanam)
 
 ## mukta-m0-p03-v69
-[agniṣṭoma-etc](agniṣṭomādi) [sacrifices](yajñānāṃ) [fruit](phalaṃ) [heaven](svargo) [maheśvari](maheśvari)
+[agniṣṭoma-etc](agniṣṭomādi) [sacrifices](yajñānāṃ) [fruit](phalaṃ) [heaven](svargo) [O-great-goddess](maheśvari)
 
 ## mukta-m0-p03-v70
-[heaven](svargastu) [two-fold](dvividhaḥ) [proclaimed](prokto) [place](deśo) [vā](vā) [happiness](sukhameva) [vā](vā)
+[heaven](svargastu) [two-fold](dvividhaḥ) [spoken](prokto) [place](deśo) [or](vā) [pleasure](sukhameva) [or](vā)
 
 ## mukta-m0-p03-v71
-[happiness](sukhasya) [means](sādhanaṃ) [heaven](svargaḥ) [place](deśastasya) [tu](tu) [means](sādhanam)
+[pleasure](sukhasya) [means](sādhanaṃ) [heaven](svargaḥ) [place](deśastasya) [tu](tu) [means](sādhanam)
 
 ## mukta-m0-p03-v72
-[happiness-only](sukhamātraṃ) [if](yadi) [heaven](svargo) [na](na) [place-rule](deśaniyamo'tra) [vai](vai)
+[pleasure-only](sukhamātraṃ) [if](yadi) [heaven](svargo) [not](na) [place-rule](deśaniyamo) [here](atra) [indeed](vai)
 
 ## mukta-m0-p03-v73
-[prior](pūrva) [pakṣe](pakṣe) [tu](tu) [sacrifices](yajñānāṃ) [fruit-attainment](phalasaṃpattirucyate)
+[prior](pūrva) [side](pakṣe) [tu](tu) [of-sacrifices](yajñānāṃ) [fruit-attainment](phalasaṃpattir) [is-said](ucyate)
 
 ## mukta-m0-p03-v74
-[unseen](apūrvaṃ) [arises](jāyate) [therefore](tasmāt) [that](taccātmasamavāyavat)
+[unseen](apūrvaṃ) [arises](jāyate) [therefore](tasmāt) [that](taccātma) [co-inherence](samavāyavat)
 
 ## mukta-m0-p03-v75
-[self-single](ātmaikavartinā) [enjoyment](bhogaparyaṃtamapi) [perishes](naśyatā)
+[self-single](ātmaikavartinā) [enjoyment](bhoga) [limit](paryaṃtam) [api](api) [perishing](naśyatā)

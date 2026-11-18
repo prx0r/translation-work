@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p08-v176
-[pūtanā-śakaṭa-ādi-nām](pūtanāśakaṭādīnāṃ) [yamala-arjuna-yoḥ-api](yamalārjunayorapi)
+[of-pūtanā-śakaṭa-etc.](pūtanāśakaṭādīnāṃ) [of-yamala-arjuna-too](yamalārjunayorapi)
 
 ## mukta-m0-p08-v177
-[govardhana-sya-uddharaṇe](govarddhanasyoddharaṇe) [tathā](tathā) [kālīya-mardane](kālīyamardane)
+[of-govardhana-lifting](govarddhanasyoddharaṇe) [and-of-kālīya-killing](tathā kālīyamardane)
 
 ## mukta-m0-p08-v178
-[tena-indrāya-upadiṣṭā-iyam](teneṃdrāyopadiṣṭeyaṃ) [vidyā-saubhāgya-dāyinī](vidyāsaubhāgyadāyinī)
+[by-him-to-indra-instructed](teneṃdrāyopadiṣṭeyaṃ) [fortune-giving-vidyā](vidyāsaubhāgyadāyinī)
 
 ## mukta-m0-p08-v179
-[evam](evaṃ) [smareṣu](smareṣu) [sarvatra](sarvatra) [sura-dvāra-anareṣu](suradvārānareṣu) [ca](ca)
+[thus](evaṃ) [in-smaras](smareṣu) [everywhere](sarvatra) [in-gods-and-men](suradvārānareṣu ca)
 
 ## mukta-m0-p08-v180
-[sarva-siddhi-karī](sarvasiddhikarī) [sarva-pāpa](sarvapāpa) [jāla-nikṛṃtanī](jālanikṛṃtanī)
+[all-siddhi-doing](sarvasiddhikarī) [all-sin](sarvapāpa) [net-cutting](jālanikṛṃtanī)
 
 ## mukta-m0-p08-v181
-[sarva-tattva-mayī](sarvatatvamayī) [sarva-vyādhi-śaila](sarvavyādhiśaila) [mahā-aśaniḥ](mahāśaniḥ)
+[all-tattva-containing](sarvatatvamayī) [all-disease-mountain](sarvavyādhiśaila) [great-thunderbolt](mahāśaniḥ)
 
 ## mukta-m0-p08-v182
-[mārīca-uraga-vyāghra-bhaye](mārīcoravyāghrabhaye) [ghora-kāṃtāra-saṃkaṭe](ghorakāṃtārasaṃkaṭe)
+[in-fear-of-thieves-tigers](mārīcoravyāghrabhaye) [in-terrible-forest-danger](ghorakāṃtārasaṃkaṭe)
 
 ## mukta-m0-p08-v183
-[sakṛt-kṛtā-iyam](sakṛtkṛteyaṃ) [sat-vidyā](sadvidyā) [sarva-duḥkham](sarvaduḥkhaṃ) [vyapohati](vyapohati)
+[once-done](sakṛtkṛteyaṃ) [true-vidyā](sadvidyā) [all-sorrow](sarvaduḥkhaṃ) [removes](vyapohati)
 
 ## mukta-m0-p08-v184
-[kim](kiṃ) [vyastam](vyastaṃ) [kinnu-kūṭam](kinnukūṭaṃ) [vā](vā) [kathayasva](kathayasva) [mama](mama) [prabho](prabho)
+[what-scattered](kiṃ vyastaṃ) [what-kūṭa](kinnukūṭaṃ) [or](vā) [tell-me-lord](kathayasva mama prabho)
 
 ## mukta-m0-p08-v185
-[śivasya](śivasya) [śaktiḥ-api](śaktirapi) [ca](ca) [sāmarasya](sāmarasya) [kalā-ātmakam](kalātmakam)
+[of-śiva](śivasya) [śakti-also](śaktirapi ca) [sāmarasya-kalā-embodied](sāmarasya kalātmakam)
 
 ## mukta-m0-p08-v186
-[prathamam](prathamaṃ) [viśva-rūpam](viśvarūpaṃ) [syāt](syād) [dvitīyam](dvitīyaṃ) [tu](tu) [nava-ātmakam](navātmakam)
+[first](prathamaṃ) [universal-form](viśvarūpaṃ) [may-be](syād [kh: syā]) [second](dvitīyaṃ) [nine-formed](tu navātmakam)
 
 ## mukta-m0-p08-v187
-[etat-nava-ātmakam](etannavātmakaṃ) [prāhuḥ](prāhuḥ) [kūṭam](kūṭaṃ) [bījam](bījaṃ) [mahattaram](mahattaram)
+[this-nine-formed](etannavātmakaṃ) [called](prāhuḥ) [kūṭa-bīja](kūṭaṃ bījaṃ) [great](mahattaram)
 
 ## mukta-m0-p08-v188
-[bhṛgu-śaṃkara](bhṛguśaṃkara) [saṃvartā](saṃvartā) [bhāṃta](bhāṃta) [*(*)](*) [*(*)](*) [*(*)](*) [*(*)](*) [*(*)](*) [*(*)](*) 
+[bhṛgu-śaṃkara-saṃvarta](bhṛguśaṃkara saṃvartā) [shining](bhāṃta * * * * * *)
 
 ## mukta-m0-p08-v189
-[ānanda-valli](ānaṃdavalli) [vidyāyāḥ](vidyāyāḥ) [ṣaḍ-aṃgam](ṣaḍaṃgaṃ) [kathayāmi-te](kathayāmite)
+[ānandavallī-vidyā](ānaṃdavalli vidyāyāḥ) [six-limbs](ṣaḍaṃgaṃ) [tell](kathayāmite)
 
 ## mukta-m0-p08-v190
-[tataḥ-tu](tatastu) [navabhiḥ-netram](navabhirnetraṃ) [dvābhyām-astram](dvābhyāmastraṃ) [prakīrtitam](prakīrtitam)
+[then](tatastu) [by-nine-netra](navabhirnetraṃ) [by-two-astra](dvābhyāmastraṃ [kh: -masttraṃ]) [proclaimed](prakīrtitam)
 
 ## mukta-m0-p08-v191
-[ādhāre](ādhāre) [sva-adhiṣṭhāne](svādhiṣṭhāne) [ca](ca) [maṇipūre-api-anāhate](maṇipūrepyanāhate)
+[in-ādhāra](ādhāre) [svādhiṣṭhāna](svādhiṣṭhāne ca) [maṇipūra](maṇipūrepyanāhate) [anāhata](anāhate)
 
 ## mukta-m0-p08-v192
-[karṇayoḥ-ca](karṇayośca) [bhruvoḥ-madhye](bhruvormadhye) [phāla-netre](phālanetre) [śiraḥ-taṭe](śirastaṭe)
+[in-ears](karṇayośca) [between-brows](bhruvormadhye [kh: bhṛvor-]) [forehead-eye](phālanetre) [head-ridge](śirastaṭe)
 
 ## mukta-m0-p08-v193
-[dvādaśāṃta](dvādaśāṃta) [mahā-sthāne](mahāsthāne) [varṇa-nyāsam](varṇanyāsaṃ) [samācaret](samācaret)
+[at-dvādaśānta](dvādaśāṃta) [great-place](mahāsthāne) [varṇa-nyāsa](varṇanyāsaṃ) [perform](samācaret)
 
 ## mukta-m0-p08-v194
-[ājñā-cakre](ājñācakre) [nāhate](nāhate) [ca](ca) [tathā-nābhi-pade-api](tathānābhipadepi) [ca](ca)
+[in-ājñā-cakra](ājñācakre) [nāhata](nāhate ca) [and-navel-place](tathānābhi [kh: tadhā-] padepi [kh: -ti]) [too](ca)
 
 ## mukta-m0-p08-v195
-[nava-akṣarāṇām](navākṣarāṇāṃ) [kathitaḥ](kathito) [nyāsaḥ](nyāsa) [eva](eva) [maheśvari](maheśvari)
+[of-nine-syllables](navākṣarāṇāṃ) [nyāsa-indeed](kathito nyāsa eva) [maheśvarī](maheśvari [kh: -rī])
 
 ## mukta-m0-p08-v196
-[yoni-mūle](yonimūle) [yoni-madhye](yonimadhye) [yoni-agre](yonyagre) [ca-api](cāpi) [bhairavī](bhairavī)
+[at-yoni-root](yonimūle) [yoni-middle](yonimadhye) [yoni-tip](yonyagre cāpi) [bhairavī](bhairavī)
 
 ## mukta-m0-p08-v197
-[ayam](aya) [nyāsaḥ](nyāso) [yāga-kāle](yāgakāle) [pravṛtte](pravṛtte) [parameśvari](parameśvari)
+[this-nyāsa](aya [kh: ayaṃ] nyāso) [at-yāga-time](yāgakāle) [proceeding](pravṛtte) [parameśvarī](parameśvari [kh: -ri])
 
 ## mukta-m0-p08-v198
-[ānaṃdanātha](ānaṃdanātha) [pūjāyām](pūjāyāṃ) [yogyatvam](yogyatvaṃ) [sādhakaḥ-aśnute](sādhako'śnute)
+[in-ānandanātha-pūjā](ānaṃdanātha pūjāyāṃ) [fitness](yogyatvaṃ) [sādhaka-attains](sādhako'śnute)
 
 ## mukta-m0-p08-v199
-[navīkṣitum](navīkṣituṃ) [śaknuvanti](śaknuvaṃtī) [bhaya-ārtāḥ](bhayārtā) [vighna-koṭayaḥ](vighnakoṭayaḥ)
+[to-see-anew](navīkṣituṃ [kh: navīkkituṃ]) [able](śaknuvaṃtī) [fear-stricken](bhayārtā) [obstacle-millions](vighnakoṭayaḥ)
 
 ## mukta-m0-p08-v200
-[ena](ena) [vijñāna-mātreṇa](vijñānamātreṇa) [parānanda](parānaṃda) [tanuḥ-bhavet](tanurbhavet)
+[by-this](ena) [knowledge-alone](vijñānamātreṇa) [supreme-bliss](parānaṃda) [body-becomes](tanurbhavet)
