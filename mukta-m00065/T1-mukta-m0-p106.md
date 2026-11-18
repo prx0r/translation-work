@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p106-v2626
-karṇikā(filament) śaśibhāgena(by-moon-part) vistārāt(from-expansion) ca(and) adhunā(now) ucyate(is-said)
+[karṇikā](karṇikā) [by-moon-part](śaśibhāgena) [from-expansion](vistārāt) [and](ca) [now](adhunā) [is-said](ucyate)
 
 ## mukta-m0-p106-v2627
-tanmadhye(in-its-middle) tu(but) dvibhāgābhyāṃ(by-two-parts) praveśaḥ(entrance) gṛha(house) hetave(for-sake-of)
+[therein](tanmadhye) [but](tu) [by-two-parts](dvibhāgābhyāṃ) [entrance](praveśaḥ) [for-house](gṛha) [for-planet](graha) [for-cause](hetave)
 
 ## mukta-m0-p106-v2628
-evameva(thus-only) tu(but) jaṅghāyām(in-shank) añjaryā(by-anklet) vedikāvadhiḥ(up-to-railing)
+[thus](evameva) [but](tu) [of-jaṅghā](jaṅghāyām) [añjari](añjaryā) [up-to-vedikā](vedikāvadhiḥ)
 
 ## mukta-m0-p106-v2629
-prāsādaśikharaṃ(temple-spire) vāpi(or-also) brūyām(I-would-say) uparathādikān(upper-chariot-etc)
+[temple-spire](prāsādaśikharaṃ) [or](vā) [api](api) [I-would-say](brūyām) [uparathā-and-others](uparathādikān)
 
 ## mukta-m0-p106-v2630
-pīṭhādyabjāntam(from-base-to-lotus-end) ucchrāye(in-height) praveśaḥ(entrance) ca(and) nigadyate(is-declared)
+[base-etc-lotus-end](pīṭhādyabjāntam) [in-height](ucchrāye) [entrance](praveśaḥ) [ca](ca) [is-declared](nigadyate)
 
 ## mukta-m0-p106-v2631
-ardhena(by-half) paṭṭikāṃ(band) kuryāt(one-should-make) dvābhyāṃ(by-two) kaṇṭhapraveśakam(throat-entrance)
+[by-half](ardhena) [band](paṭṭikāṃ) [one-should-make](kuryāt) [by-two](dvābhyāṃ) [neck-entrance](kaṇṭhapraveśakam)
 
 ## mukta-m0-p106-v2632
-ardhāṃśena(by-half-part) tadūrdhve(above-that) tu(but) kāryā(should-be-made) caiva(and-indeed) upapaṭṭikā(sub-band)
+[by-half-part](ardhāṃśena) [above-that](tadūrdhve) [tu](tu) [should-be-made](kāryā) [ca](ca) [eva](eva) [sub-band](upapaṭṭikā)
 
 ## mukta-m0-p106-v2633
-tryāṅghripraveśaḥ(three-foot-entrance) haṃsa(goose) statpaṭṭyardhapraveśataḥ(from-its-band-half-entrance)
+[three-aṅghri-entrance](tryāṅghripraveśaḥ) [haṃsa](haṃsa) [dvyaṃśa](dvyaṃśa) [from-that-band-half-entrance](statpaṭṭyardhapraveśataḥ)
 
 ## mukta-m0-p106-v2634
-sandhipatrānvitaṃ(joint-leaf-endowed) padmaṃ(lotus) vidadhīta(one-should-place) suśobhanam(very-beautiful)
+[joint-leaf-adorned](sandhipatrānvitaṃ) [padma](padmaṃ) [one-should-make](vidadhīta) [very-beautiful](suśobhanam)
 
 ## mukta-m0-p106-v2635
-śilotthaṃ(stone-born) padapīṭhaṃ(foot-base) syāt(should-be) evaṃ(thus) dārviṣṭakāmaye(wooden-brick-made)
+[stone-born](śilotthaṃ) [foot-base](padapīṭhaṃ) [syāt](syāt) [evaṃ](evaṃ) [wood-brick-made](dārviṣṭakāmaye)
 
 ## mukta-m0-p106-v2636
-taducchrayaṃ(its-height) grahaṃ(planet) kṛtvā(having-made) jaṅghā(shank) tanmadhyato(from-its-middle) guṇaiḥ(by-qualities)
+[that-height](taducchrayaṃ) [planet](grahaṃ) [having-made](kṛtvā) [jaṅghā](jaṅghā) [from-its-middle](tanmadhyato) [by-guṇas](guṇaiḥ)
 
 ## mukta-m0-p106-v2637
-vedibandhavaraṇḍā(railing-band-garland) dinnigadāmyanupūrvaśaḥ(I-declare-in-order)
+[vedibandha-varaṇḍa](vedibandhavaraṇḍā) [dinnigadāmyanupūrvaśaḥ](dinnigadāmyanupūrvaśaḥ)
 
 ## mukta-m0-p106-v2638
-ucchraye(in-height) dhāmaturyāṃśāt(from-fourth-part-of-abode) tasminnidrāṃśakekṛte(in-that-sleep-part-made)
+[in-height](ucchraye) [dhāma-turyāṃśāt](dhāmaturyāṃśāt) [therein-nidrāṃśake-made](tasminnidrāṃśakekṛte)
 
 ## mukta-m0-p106-v2639
-sārdhatrayeṇa(by-three-and-half) kumbhaḥ(pot) syāt(should-be) tadardhe(by-its-half) kumbhapaṭṭikā(pot-band)
+[with-one-and-half](sārdhatrayeṇa) [kumbha](kumbhaḥ) [syāt](syāt) [that-half](tadardhe) [kumbha-band](kumbhapaṭṭikā)
 
 ## mukta-m0-p106-v2640
-bhāgārdhena(by-part-half) tu(but) kaṇṭhaḥ(throat) syāt(should-be) kalaśaḥ(pitcher) ca(and) guṇāṃśataḥ(by-quality-part)
+[by-half-part](bhāgārdhena) [tu](tu) [neck](kaṇṭhaḥ) [syāt](syāt) [kalaśa](kalaśaśca) [by-guṇa-part](guṇāṃśataḥ)
 
 ## mukta-m0-p106-v2641
-praveśāccaikataḥ(from-entrance-and-one-side) kaṇṭhāścārdhe(throats-and-half) nirgamapaṭṭikā(exit-band)
+[from-entrance](praveśāt) [ca](ca) [one-side](ekataḥ) [necks](kaṇṭhāḥ) [ca](ca) [half](ardhe) [exit-band](nirgamapaṭṭikā)
 
 ## mukta-m0-p106-v2642
-kumbhapaṭṭī(pot-band) tu(but) pādena(by-foot) kupālyā(by-cup) dyaṃśataḥ(by-two-part) sthitā(situated)
+[kumbha-band](kumbhapaṭṭī) [tu](tu) [by-foot](pādena) [kupālī](kupālyā) [dyaṃśataḥ](dyaṃśataḥ) [sthitā](sthitā)
 
 ## mukta-m0-p106-v2643
-tribhiḥ(by-three) khurādibhiryuktaṃ(hoof-etc-endowed) vedībandhābhidhānakam(railing-band-named)
+[by-three](tribhiḥ) [khurādi](khurādibhiḥ) [yuktaṃ](yuktaṃ) [vedībandha-named](vedībandhābhidhānakam)
 
 ## mukta-m0-p106-v2644
-kṛteṣu(in-made) triṣu(three) bhāgeṣu(parts) pādonāṃśāt(by-quarter-part) praveśikān(entrances)
+[having-made](kṛteṣu) [three](triṣu) [parts](bhāgeṣu) [quarter-less-part-entrances](pādonāṃśātpraveśikān)
 
 ## mukta-m0-p106-v2645
-bhāgena(by-part) caturasrākhyā(named-square) paṭṭikā(band) sārdhataḥ(by-one-and-half) sthitā(situated)
+[by-part](bhāgena) [square-named](caturasrākhyā) [band](paṭṭikā) [with-one-and-half](sārdhataḥ) [sthitā](sthitā)
 
 ## mukta-m0-p106-v2646
-khuṃrakumbhavatī(jar-pot-having) jaṅghā(shank) jyeṣṭhānāṃ(of-elders) pādamānataḥ(by-foot-measure)
+[khuṃrakumbhavatī](khuṃrakumbhavatī) [jaṅghā](jaṅghā) [of-elders](jyeṣṭhānāṃ) [by-foot-measure](pādamānataḥ)
 
 ## mukta-m0-p106-v2647
-yāvaccinnavakāṃ(until-cut-small) vāpi(or-also) patravalyāthavā(leaf-creeper-or) varā(excellent)
+[until-cinnava](yāvaccinnavakāṃ) [vā](vā) [api](api) [leaf-valli](patravalyā) [athavā](athavā) [varā](varā)
 
 ## mukta-m0-p106-v2648
-caturthāṃśaśca(fourth-part-and) jaṅghordhve(above-shank) vibhajya(dividing) vasubhāgataḥ(by-eight-part)
+[quarter-part](caturthāṃśaśca) [above-jaṅghā](jaṅghordhve) [dividing](vibhajya) [by-eight-part](vasubhāgataḥ)
 
 ## mukta-m0-p106-v2649
-tatrārdhena(there-by-half) praveśākhyaṃ(entrance-named) paṭṭikāṃ(band) tu(but) vi(bhuvi) vartayet(one-should-make)
+[there](tatrārdhena) [entrance-named](praveśākhyaṃ) [band](paṭṭikāṃ) [tu](tu) [vi](vi) [vartayet](vartayet)
 
 ## mukta-m0-p106-v2650
-pādonāṃśena(by-quarter-part) haṃsākhyā(goose-named) paṭṭī(band) tatpadato(from-its-foot) bhavet(should-be)
+[quarter-less-part](pādonāṃśena) [haṃsa-named](haṃsākhyā) [band](paṭṭī) [that-foot-from](tatpadato) [bhavet](bhavet)
