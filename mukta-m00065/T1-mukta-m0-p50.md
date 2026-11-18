@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p50-v1226
-[of-base](pīṭhikāyāḥ) [height](samucchrāyaṃ) [by-partition](vikārāṃśena) [should-divide](bhājayet)
+[pithika-of](pīṭhikāyāḥ) [samucchraya](samucchrāyaṃ) [vikara-part](vikārāṃśena) [divide](bhājayet)
 
 ## mukta-m0-p50-v1227
-[in-quality-share](guṇābhāge) [likewise](tathā) [pot](kumbhaḥ) [pot-band](kumbhapaṭṭi) [but](tu) [by-share](bhāgataḥ)
+[guna-part](guṇābhāge) [thus](tathā) [kumbha](kumbhaḥ) [kumbha-patti](kumbhapaṭṭi) [tu](tu) [part](bhāgataḥ)
 
 ## mukta-m0-p50-v1228
-[in-side-share](pakṣabhāge) [water-reservoir](jalādhāra) [in-one-part](ekāṃśe) [remaining-band](śeṣapaṭṭikā)
+[wing-part](pakṣabhāge) [water-holder](jalādhāra) [one-part](ekāṃśe) [remainder-patti](śeṣapaṭṭikā)
 
 ## mukta-m0-p50-v1229
-[according-to-arrow-doctrine](bāṇamatānusāreṇa) [smaller-thus](kanyasītthaṃ) [breast](payodharā)
+[bana-mata-according](bāṇamatānusāreṇa) [young-thus](kanyasī) [payodhara](payodharā)
 
 ## mukta-m0-p50-v1230
-[band](paṭṭopapaṭṭikā) [neck](kaṇṭho) [neck-band](galapaṭṭaṭdayupapaṭṭikā)
+[patti-upapatti](paṭṭopapaṭṭikā) [neck](kaṇṭho) [gala-patta-daya-upapatti](galapaṭṭaṭdayupapaṭṭikā)
 
 ## mukta-m0-p50-v1231
-[girdle](mekhalā) [band](paṭṭikā) [but](kintu) [by-part](bhāgakena) [above-that](tadūrdhvataḥ)
+[mekhala](mekhalā) [patti](paṭṭikā) [but](kintu) [part-above](bhāgakena) [tad-urdhvatah](tadūrdhvataḥ)
 
 ## mukta-m0-p50-v1232
-[half-height](ucchrāyārdha) [of-base](tu) [pīṭhyāḥ) [rudra-share](rudrabhāge) [in-two-made](dvidhā) [kṛte](kṛte)
+[ucchraya-half](ucchrāyārdha) [tu](tu) [pithi-of](pīṭhyāḥ) [rudra-part](rudrabhāge) [two-fold](dvidhā) [krite](kṛte)
 
 ## mukta-m0-p50-v1233
-[by-three](tribhiraljaṃ) [two-band](dvipaṭṭau) [indeed](hi) [tu](tu) [by-two](dvābhyāṃ) [by-two](dvābhyā) [thus](tathā) [lotus](ambujam)
+[three-alja](tribhiraljaṃ) [two-patti](dvipaṭṭau) [hi](hi) [tu](tu) [two-two](dvābhyāṃ) [dvābhyā](dvābhyā) [thus](tathā) [ambuja](ambujam)
 
 ## mukta-m0-p50-v1234
-[by-two](dvābhyāṃ) [by-two](dvābhyāṃ) [in-order](kramāt) [padya](padyaṃ) [with-half-share](sārdhāśe) [neck-exit](galanirgamaḥ)
+[two-two](dvābhyāṃ) [two-two](dvābhyāṃ) [krama](kramā) [padya](tpadyaṃ) [half-part](sārdhāśe) [gala-nirgama](galanirgamaḥ)
 
 ## mukta-m0-p50-v1235
-[with-two-necks](kaṇṭhadvayena) [joined](saṃyuktā) [with-six-lotuses](ṣaḍbhiḥ) [padmairvibhūṣitā](padmairvibhūṣitā)
+[neck-two](kaṇṭhadvayena) [joined](saṃyuktā) [six](ṣaḍbhiḥ) [padmais](padmairvibhūṣitā)
 
 ## mukta-m0-p50-v1236
-[samvarta-named](samvartākhyā) [water-reservoir](jalādhārā) [unto-vishnu-share](viṣṇubhāgāntam) [raised](ucchritā)
+[samvarta-named](samvartākhyā) [water-holder](jalādhārā) [vishnu-part-end](viṣṇubhāgāntamucchritā)
 
 ## mukta-m0-p50-v1237
-[with-linga-triple-wrap](liṅganāhatriveṣṭena) [round-indistinct](vṛttāvyaktasya) [lump](piṇḍikā)
+[linga-nahati-three-vesta](liṅganāhatriveṣṭena) [round-unclear](vṛttāvyaktasya) [pindika](piṇḍikā)
 
 ## mukta-m0-p50-v1238
-[its-length-half-width](taddīrghatvārdhavistārāt) [its-half](tadardhāt) [stalk-rise](nālakocchrayau)
+[tad-dīrgha-half-vistara](taddīrghatvārdhavistārāttadardhānnālakocchrayau)
 
 ## mukta-m0-p50-v1239
-[in-height](ucchraye) [in-ten-parts](daśadhābhakte) [foot](padaṃ) [pot](kumbhaṃ) [thus](tathā) [neck](galam)
+[ucchraya](ucchraye) [ten-fold](daśadhābhakte) [pada](padaṃ) [kumbha](kumbhaṃ) [thus](tathā) [gala](galam)
 
 ## mukta-m0-p50-v1240
-[hoof](khuraṃ) [thigh](jaṅyā) [ca](ca) [kūrṇauṃ](kūrṇauṃ) [ca](ca) [neck](kaṇṭhaṃ) [caiva](caivopakaṇṭhikām) [upakaṇṭhikām](upakaṇṭhikām)
+[hoof](khuraṃ) [jangya](jaṅyā) [ca](ca) [kurna](kūrṇauṃ) [ca](ca) [neck](kaṇṭhaṃ) [ca-eva-upakanthika](caivopakaṇṭhikām)
 
 ## mukta-m0-p50-v1241
-[one-pair](ekayugma) [one-side](ekapakṣa) [one-pair](ekayugma) [one-neck-part](ekagalāṃśakaiḥ)
+[one-pair-one-wing-one-pair-one-neck-part](ekayugmaikapakṣaikayugmaikagalāṃśakaiḥ)
 
 ## mukta-m0-p50-v1242
-[sixteen-parts-rise](ṣoḍaśāṃśakṛtocchāye) [of-elders](jyeṣṭhānām) [in-seat](āsane) [always](sadā)
+[sixteen-part-made-ucchraya](ṣoḍaśāṃśakṛtocchāye) [jyeshtha-seat](jyeṣṭhānāmāsane) [always](sadā)
 
 ## mukta-m0-p50-v1243
-[foot-band](caraṇapaṭṭikā) [pot](kumbha) [band](paṭṭikā) [neck-band](galapaṭṭikā)
+[foot-patti-kumbha](caraṇapaṭṭikākumbha) [patti](paṭṭikā) [gala-patti](galapaṭṭikā)
 
 ## mukta-m0-p50-v1244
-[with-eight-directions-hands](aṣṭadigravihastaiśca) [inferior-middle-superior](hīnamadhyottamāstribhiḥ)
+[eight-direction-hand](aṣṭadigravihastaiśca) [hina-madhya-uttama-three](hīnamadhyottamāstribhiḥ)
 
 ## mukta-m0-p50-v1245
-[entrance-height-width](praveśogdamabāhulyācchū) [bhranālādi](bhranālādi) [as-before](pūrvavat)
+[entrance-udgama-bahulya](praveśogdamabāhulyācchū) [bhra-nala-adi](bhranālādi) [prior-vat](pūrvavat)
 
 ## mukta-m0-p50-v1246
-[its-third](tattryaṃśāt) [base-width](pīṭhavistārastatpādonasamucchrayaḥ)
+[tat-three-part-pitha-vistara](tattryaṃśātpīṭhavistārastatpādonasamucchrayaḥ)
 
 ## mukta-m0-p50-v1247
-[with-pot](saha) [kumbho](kumbho) [galo](galo) [round](vṛtto) [vedāsrā](vedāsrā) [band](paṭṭikā) [in-order](kramāt)
+[with](saha) [kumbha](kumbho) [galo](galo) [round](vṛtto) [veda-asra](vedāsrā) [patti](paṭṭikā) [krama](kramāt)
 
 ## mukta-m0-p50-v1248
-[elsewhere](anyatra) [thus](tvevamevaṃ) [syāt](syāt) [samvṛttāt](saṃvṛttātkarṇa) [pīṭakam](pīṭakam)
+[other-thus-eva-syat-samvritta-karna-pitaka](anyatra) [tvevamevaṃ] [syātsaṃvṛttātkarṇapīṭakam]
 
 ## mukta-m0-p50-v1249
-[well-smooth-joined-joint](suślakṣṇāśliṣṭasandhiśca) [by-form](rupeṇāmbudharādivat)
+[su-slakshna-slishtha-sandhi](suślakṣṇāśliṣṭasandhiśca) [rupeṇa-ambudhara-divat](rupeṇāmbudharādivat)
 
 ## mukta-m0-p50-v1250
-[of-some](keṣāṃcittu) [mate](mate) [distinct-linga](vyaktaliṅge) [tu](tu) [umbrella-head](chatramastake)
+[some-mate](keṣāṃcittu) [mate](mate) [vyakta-linga](vyaktaliṅge) [tu](tu) [chatra-mastake](chatramastake)

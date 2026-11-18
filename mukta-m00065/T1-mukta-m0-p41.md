@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p41-v1001
-[three-without](tribhirvinā) [thus-front](tathāgre) [would-be](syāt) [two-eyed](dvinetraṃ) [blanket-below](kambalastvadhaḥ)
+[three-without](tribhirvinā) [thus-front](tathāgre) [should-be-two-eyed](syāddvinetraṃ) [blanket-below](kambalastvadhaḥ)
 
 ## mukta-m0-p41-v1002
-[three-guṇas](triguṇās) [tu](tu) [remembered](smṛtas) [elsewhere](anyatra) [navel](nābhiḥ) [two-eyes](netradvayaṃ) [becomes](bhavet)
+[three-quality](triguṇāstu) [remembered](smṛto) [elsewhere](anyatra) [navel-two-eyed](nābhirnetradvayaṃ) [becomes](bhavet)
 
 ## mukta-m0-p41-v1003
-[shank](jaṅghā) [eye](netraṃ) [remembered](smṛta) [joint](sandhiḥ) [six-eyed](ṣaḍnetrā) [ca](ca) [up-shank](upajaṅghikā)
+[shankha-eyed](jaṅghā) [remembered](netraṃ) [joint](smṛta) [six-eyed](sandhiḥ) [and](ṣaḍnetrā) [below-shankha](copajaṅghikā)
 
 ## mukta-m0-p41-v1004
 [hoof](khurike) [finger-measure](aṅgulimānetu) [five-eyed-three](pañcanetratrayaṃ) [without](vinā)
 
 ## mukta-m0-p41-v1005
-[back-gone](pṛṣṭhagatā) [ca](ca) [to-be-known](vijñeyā) [two-finger](dyaṅgulā) [adha-finger](adhāṅgulaṃ) [as](yathā)
+[back-placed](pṛṣṭhagatā) [and](ca) [known](vijñeyā) [two-finger](dyaṅgulādhāṅgulaṃ) [as](yathā)
 
 ## mukta-m0-p41-v1006
-[three-faced](trimukhā) [three-kalā](trikalā) [laughter](hāsaḥ) [from-back](pṛṣṭhataśca) [up-shank](upajaṅghikā)
+[three-faced](trimukhā) [three-part-laugh](trikalāhāsaḥ) [from-back](pṛṣṭhataścopajaṅghikā)
 
 ## mukta-m0-p41-v1007
-[from-viśvakarmā](viśvakarmāt) [again-other](punaścānyaṃ) [bull](vṛṣaṃ) [I-will-speak](vakṣyāmi) [for-lightness](lāghavāt)
+[from-vishvakarma](viśvakarmātpunaścānyaṃ) [bull](vṛṣaṃ) [I-will-speak](vakṣyāmi) [for-lightness](lāghavāt)
 
 ## mukta-m0-p41-v1008
-[field](kṣetraṃ) [veda-astra](vedāsrakaṃ) [having-made](kṛtvā) [nine-parts](navabhāgān) [let-allocate](prakalpayet)
+[field](kṣetraṃ) [veda-arrow](vedāsrakaṃ) [having-made](kṛtvā) [nine-parts](navabhāgānprakalpayet)
 
 ## mukta-m0-p41-v1009
-[three-parts-front](tribhāgairagrato) [shank](jaṅghā) [one-part-up](bhāgaikaṃ) [tu](tu) [up-take](ūrdhvato) [haret](haret)
+[three-parts-front](tribhāgairagrato) [shankha](jaṅghā) [one-part-up](bhāgaikaṃ) [upward-take](tūrdhvato) [haret](haret)
 
 ## mukta-m0-p41-v1010
-[having-taken](hṛtvā) [two-parts](bhāgadvayaṃ) [ca](ca) [up](ūrdhvaṃ) [work](kāryaṃ) [nose-forehead](nāsālalāṭakam)
+[having-taken](hṛtvā) [two-parts](bhāgadvayaṃ) [upward](cordhvaṃ) [make](kāryaṃ) [nose-forehead](nāsālalāṭakam)
 
 ## mukta-m0-p41-v1011
-[that-below-part](tadadhoṃśāt) [thus](tathā) [having-cut](luptvā) [thin](karśoṃ) [having-made](kṛtvā) [tu](tu) [horn-like](śṛṅgavat)
+[below-part](tadadhoṃśāttathā) [cut](luptvā) [thin](karśoṃ) [having-made](kṛtvā) [tu](tu) [horn-like](śṛṅgavat)
 
 ## mukta-m0-p41-v1012
-[ear-below](karṇādhaḥ) [corner-thread](koṇasūtraṃ) [tu](tu) [tooth-up-half](dantordhvārdha) [haret](haret) [dhruvam](dhruvam)
+[ear-below](karṇādhaḥ) [corner-thread](koṇasūtraṃ) [tu](tu) [tooth-up-half](dantordhvārdhahareddhruvam)
 
 ## mukta-m0-p41-v1013
-[one-and-half-parts](sārdhabhāgadvayena) [eva](eva) [back](pṛṣṭhasya) [planning](parikalpanam)
+[one-and-half-parts](sārdhabhāgadvayenaiva) [back](pṛṣṭhasya) [planning](parikalpanam)
 
 ## mukta-m0-p41-v1014
-[part-portion](bhāgoṃśaṃ) [having-taken](gṛhnya) [ca](ca) [below-portion](adhoṃśe) [having-left-half](tyaktvārdha) [corner-thread-from](koṇāsūtrataḥ)
+[part-portion](bhāgoṃśaṃ) [taking](gṛhnya) [below-part](cādhoṃśe) [leaving-half](tyaktvārdha) [corner-thread](koṇāsūtrataḥ)
 
 ## mukta-m0-p41-v1015
-[buttock](sphicaṃ) [tail](pucchaṃ) [with-hair](sakeśaṃ) [ca](ca) [let-shape](vartayet) [wise-man](matimānnaraḥ)
+[hips](sphicaṃ) [tail](pucchaṃ) [with-hair](sakeśaṃ) [ca](ca) [should-fashion](vartayenmatimānnaraḥ)
 
 ## mukta-m0-p41-v1016
-[knee-hole](jānurandhraṃ) [thus](tathā) [thigh-joint](sakthisandhiṃ) [shank](jaṅghā) [hoof](khuraṃ) [wise](budhaḥ)
+[knee-hole](jānurandhraṃ) [and](tathā) [thigh-joint](sakthisandhiṃ) [shankha](jaṅghā) [hoof](khuraṃ) [wise](budhaḥ)
 
 ## mukta-m0-p41-v1017
-[having-known](jñātvā) [mark](lakṣmaṃ) [let-make](prakurvīta) [bull-bull](vṛṣaṃ+vṛṣa) [bharupaka](bharupakam)
+[knowing](jñātvā) [mark](lakṣmaṃ) [should-make](prakurvīta) [bull](vṛṣaṃvṛṣa) [bharupaka](bharupakam)
 
 ## mukta-m0-p41-v1018
-[with-rosary](sākṣamālī) [trident-holder](triśūlī) [ca](ca) [nandīśa](nandīśo) [door-guard](dvārapālakaḥ)
+[with-rosary](sākṣamālī) [trident](triśūlī) [ca](ca) [nandish](nandīśo) [door-guard](dvārapālakaḥ)
 
 ## mukta-m0-p41-v1019
-[with-kūrca](kūrcavān) [tawny-haired](piṅgakeśaśca) [skull-garlanded](muṇḍamālī) [three-eyed](trilocanaḥ)
+[with-kurcha](kūrcavān) [tawny-haired](piṅgakeśaśca) [skull-garlanded](muṇḍamālī) [three-eyed](trilocanaḥ)
 
 ## mukta-m0-p41-v1020
-[black-bodied](kṛṣṇagātro) [mahākāla](mahākālo) [at-door](dvāre) [vai](vai) [left](vāmataḥ) [stood](sthitaḥ)
+[black-bodied](kṛṣṇagātro) [great-time](mahākālo) [at-door](dvāre) [vai](vai) [left](vāmataḥ) [stood](sthitaḥ)
 
 ## mukta-m0-p41-v1021
-[old-formed](vṛddharūpaḥ) [crested](śikhī) [rejoiced](hṛṣṭaḥ) [thin-bellied](kṣāmakukṣiḥ) [very-pale](supāṇḍuraḥ)
+[old-form](vṛddharūpaḥ) [crested](śikhī) [delighted](hṛṣṭaḥ) [thin-bellied](kṣāmakukṣiḥ) [very-pale](supāṇḍuraḥ)
 
 ## mukta-m0-p41-v1022
-[bhṛṅgirīṭi-gaṇas](bhṛṅgirīṭīgaṇāścaiva) [dancing](nṛtyannityaṃ) [before-śiva](śivāgrataḥ)
+[bhṛṅgirīṭi-gaṇas](bhṛṅgirīṭīgaṇāścaiva) [dancing](nṛtyannityaṃ) [before-shiva](śivāgrataḥ)
 
 ## mukta-m0-p41-v1023
-[staffed](daṇḍī) [with-basket](karaṇḍakopetaḥ) [kūṣmāṇḍa](kūṣmāṇḍaḥ) [first-bowed](pūrvamānataḥ)
+[staffed](daṇḍī) [with-basket](karaṇḍakopetaḥ) [kūṣmāṇḍa](kūṣmāṇḍaḥpūrvamānataḥ)
 
 ## mukta-m0-p41-v1024
-[let-be-made](kāryāste) [elephant-ear](gajagokarṇā) [various-faced](nānāvaktrā) [big-bellied](mahodarāḥ)
+[should-be-made](kāryāste) [elephant-ear](gajagokarṇā) [various-faced](nānāvaktrā) [big-bellied](mahodarāḥ)
 
 ## mukta-m0-p41-v1025
-[licking](lelihānaḥ) [greatly-angry](susaṃkruddho) [matted-hair-crescent-moon-adorned](jaṭākhaṇḍendumaṇḍitaḥ)
+[licking](lelihānaḥ) [very-angry](susaṃkruddho) [matted-lock-crescent-ornamented](jaṭākhaṇḍendumaṇḍitaḥ)
