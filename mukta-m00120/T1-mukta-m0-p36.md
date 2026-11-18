@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p36-v876
-[with-red-flower](raktapuṣpeṇa) [cleansing](nirmañjya) [in-yoni-place](yonideśe) [should-place](niyojayet)
+[with-red-flower](raktapuṣpeṇa) [having-purified](nirmañjya) [in-yoni-place](yonideśe) [should-place](niyojayet)
 
 ## mukta-m0-p36-v877
-[my-power](mama śaktiṃ) [make-dual](kuru dvandvaṃ) [svāhā](svāheti) [ten-times](daśadhā) [recite](japet)
+[my](mama) [power](śaktiṃ) [make](kuru) [pair](dvandvaṃ) [svāhā-thus](svāheti) [ten-times](daśadhā) [should-chant](japet)
 
 ## mukta-m0-p36-v878
-[enjoyment-vessel](bhogapātraṃ) [when-given](yadā deyaṃ) [then-enjoy](tadā ramaṇamācaret)
+[enjoyment-vessel](bhogapātraṃ) [when](yadā) [to-be-given](deyaṃ) [then](tadā) [copulation-should-practice](ramaṇamācaret)
 
 ## mukta-m0-p36-v879
-[by-that-mantra](tenaiva manunā) [goddess](devi) [six-limbed](ṣaḍaṅge) [nyāsa-do](nyāsamācaret)
+[by-that-same](tenaiva) [mantra](manunā) [goddess](devi) [six-limbed](ṣaḍaṅge) [nyāsa-should-practice](nyāsamācaret)
 
 ## mukta-m0-p36-v880
-[seventy-times](saptatirmantritaṃ) [having-made](kṛtvā) [purified](pūtaṃ) [all](sarvaṃ) [becomes](bhaved) [certainly](dhruvam)
+[seventy-times-mantra](saptatirmantritaṃ) [having-made](kṛtvā) [purified](pūtaṃ) [all](sarvaṃ) [becomes](bhaved) [certain](dhruvam)
 
 ## mukta-m0-p36-v881
-[should-offer](juhuyāt) [in-kuṇḍalī-mouth](kuṇḍalīvaktre) [root-mantra](mūlamantreṇa) [beautiful-one](sundari)
+[should-offer](juhuyāt) [in-kundali-mouth](kuṇḍalīvaktre) [with-root-mantra](mūlamantreṇa) [beautiful-one](sundari)
 
 ## mukta-m0-p36-v882
-[at-enjoyment-time](bhogakāle) [great-goddess](maheśāni) [up-to-tongue](ājihvāntaṃ) [visualize](vibhāvayet)
+[at-enjoyment-time](bhogakāle) [O-great-lady](maheśāni) [up-to-tongue](ājihvāntaṃ) [should-visualize](vibhāvayet)
 
 ## mukta-m0-p36-v883
-[root-mantra](mūlamantraṃ) [uttering](samuccārya) [should-offer](juhuyāt) [in-kuṇḍalī-mouth](kuṇḍalīmukhe)
+[root-mantra](mūlamantraṃ) [having-uttered](samuccārya) [should-offer](juhuyāt) [in-kundali-mouth](kuṇḍalīmukhe)
 
 ## mukta-m0-p36-v884
-[desire-to-eat](bhojanecchā) [arises](bhavettasyā) [unattached](nirlipto) [called-living-being](jīvasaṃjñakaḥ)
+[desire-to-eat](bhojanecchā) [arises](bhavet) [of-her](tasyā) [detached](nirlipto) [called-living-soul](jīvasaṃjñakaḥ)
 
 ## mukta-m0-p36-v885
-[gos-to-hell](prayāti narakaṃ) [terrible](ghoramekaviṃśakulaiḥ) [with-twenty-one-families](saha)
+[goes](prayāti) [to-hell](narakaṃ) [terrible](ghoram) [with-twenty-one-families](ekaviṃśakulaiḥ) [together](saha)
 
 ## mukta-m0-p36-v886
-[remembering-guru](guruṃ smaran) [drink-wine](pivenmadyaṃ) [eat-meat](khādan māṃsaṃ) [no-sin](na doṣabhāk)
+[remembering-guru](guruṃ+smaran) [should-drink-wine](pivenmadyaṃ) [eating-meat](khādan+māṃsaṃ) [not](na) [fault-bearer](doṣabhāk)
 
 ## mukta-m0-p36-v887
-[thus](iti) [śrī-sarvānandanātha-composed](śrīsarvānandanāthaviracite) [sarvollāsa](sarvollāse) [thirty-ninth-ullāsa](ūnatriṃśadullāsaḥ)
+[thus](iti) [in-composed-by-śrī-sarvānandanātha](śrīsarvānandanāthaviracite) [in-sarvollāsa](sarvollāse) [twenty-ninth-chapter](ūnatriṃśadullāsaḥ)
 
 ## mukta-m0-p36-v888
-[cause-of-cause](kāraṇasya kāraṇaṃ) [indeed](hi) [consciousness](sambideti) [imagined](prakalpitam)
+[of-cause](kāraṇasya) [cause](kāraṇaṃ) [indeed](hi) [consciousness](sambidā) [thus](iti) [conceived](prakalpitam)
 
 ## mukta-m0-p36-v889
-[why](kasmāt) [drinking](pānaṃ) [cause](kāraṇaṃ) [indeed](hi) [consciousness-bliss](sambidānandabhāk) [man](naraḥ)
+[why](kasmāt) [drinking](pānaṃ) [cause](kāraṇaṃ) [indeed](hi) [consciousness-bliss-partaker](sambidānandabhāk) [man](naraḥ)
 
 ## mukta-m0-p36-v890
-[emotion-colored](bhāvāktaṃ) [consciousness-bliss](sambidānandaṃ) [wine-bliss](madyānandamabhedakam)
+[emotion-tinged](bhāvāktaṃ) [consciousness-bliss](sambidānandaṃ) [wine-bliss](madyānandam) [non-different](abhedakam)
 
 ## mukta-m0-p36-v891
 [in-emotion-blisses](bhāvānandeṣu) [goddess](deveśi) [liberation-share](muktibhāg) [becomes](jāyate) [man](naraḥ)
 
 ## mukta-m0-p36-v892
-[then](tadā) [kaivalya-liberation](kaivalyamuktiḥ) [would-be](syāt) [true](satyaṃ) [true](satyaṃ) [no-doubt](na saṃśayaḥ)
+[then](tadā) [absolute-liberation](kaivalyamuktiḥ) [would-be](syāt) [truth](satyaṃ) [truth](satyaṃ) [no](na) [doubt](saṃśayaḥ)
 
 ## mukta-m0-p36-v893
-[this](idaṃ) [knowledge](jñānaṃ) [from-consciousness](sambidotthaṃ) [for-liberation](muktyarthamubhayānvitam)
+[this](idaṃ) [knowledge](jñānaṃ) [arising-from-consciousness](sambidotthaṃ) [for-liberation-purpose](muktyartham) [both-endowed](ubhayānvitam)
 
 ## mukta-m0-p36-v894
-[always-bliss](sadānanda) [giving](pradāyakam)
+[always-bliss](sadānanda) [giver](pradāyakam)
 
 ## mukta-m0-p36-v895
-[therefore](ata eva) [great-god](mahādeva) [consciousness-grasp](sambidāgrahaṇañcaret)
+[therefore](ata+eva) [great-god](mahādeva) [consciousness-grasping-should-practice](sambidāgrahaṇañcaret)
 
 ## mukta-m0-p36-v896
-[always](sarvadā) [supreme-lord](parameśāna) [accomplishment-bliss](siddhyānandaṃ) [sometimes](kvacit kvacit)
+[always](sarvadā) [supreme-lord](parameśāna) [accomplishment-bliss](siddhyānandaṃ) [sometimes](kvacit) [sometimes](kvacit)
 
 ## mukta-m0-p36-v897
-[wine-bliss](madyānandaṃ) [sometimes](kvacid) [god](deva) [at-festival](parvaṇi) [with-honey-drinking](madhupānayuk)
+[wine-bliss](madyānandaṃ) [sometimes](kvacid) [god](deva) [at-festival](parvaṇi) [honey-drinking-accompanied](madhupānayuk)
 
 ## mukta-m0-p36-v898
-[if-white](śukle yadi) [drink-wine](pivenmadyaṃ) [at-beginning-end](ādyante) [consciousness](sambidāṃ) [drink](pivet)
+[in-bright-fortnight](śukle) [if](yadi) [drinks-wine](pivenmadyaṃ) [at-beginning-and-end](ādyante) [consciousness](sambidāṃ) [should-drink](pivet)
 
 ## mukta-m0-p36-v899
-[white](śukle) [at-beginning](cādyaṃ) [drink](pivet) [accomplishment](siddhiṃ) [black](kṛṣṇe) [at-beginning](cādyaṃ) [drink-honey](pivenmadhu)
+[in-bright](śukle) [and-first](cādyaṃ) [should-drink](pivet) [accomplishment](siddhiṃ) [in-dark](kṛṣṇe) [and-first](cādyaṃ) [should-drink-honey](pivenmadhu)
 
 ## mukta-m0-p36-v900
-[of-quick](tvaritāyāstamodbhūtamityānandasya) [characteristic](lakṣaṇam)
+[of-quick-one](tvaritāyāḥ) [arising](udbhūtam) [thus](iti) [of-bliss](ānandasya) [characteristic](lakṣaṇam)

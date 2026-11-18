@@ -7,20 +7,28 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "bhogaśca",
+"surface": "bhogaḥ",
 "quick_gloss": "enjoyment"
 },
 {
-"surface": "mokṣaśca",
+"surface": "ca",
+"quick_gloss": "and"
+},
+{
+"surface": "mokṣaḥ",
 "quick_gloss": "liberation"
 },
 {
-"surface": "karastha",
+"surface": "ca",
+"quick_gloss": "and"
+},
+{
+"surface": "karasthaḥ",
 "quick_gloss": "in-hand"
 },
 {
 "surface": "eva",
-"quick_gloss": "indeed"
+"quick_gloss": "thus"
 }
 ]
 },
@@ -45,7 +53,7 @@
 },
 {
 "surface": "gahanaḥ",
-"quick_gloss": "deep"
+"quick_gloss": "profound"
 },
 {
 "surface": "yoginām",
@@ -53,7 +61,7 @@
 },
 {
 "surface": "apyagamyaḥ",
-"quick_gloss": "even-inaccessible"
+"quick_gloss": "even-unreachable"
 }
 ]
 },
@@ -64,10 +72,6 @@
 "quick_english": "",
 "quick_english_source": "t1parse",
 "tokens": [
-{
-"surface": "bhaktiñca",
-"quick_gloss": "devotion-and"
-},
 {
 "surface": "bhuktiṃ",
 "quick_gloss": "enjoyment"
@@ -120,7 +124,7 @@
 },
 {
 "surface": "śrīnātha",
-"quick_gloss": "śrīnātha"
+"quick_gloss": "lord"
 },
 {
 "surface": "pādābjaṃ",
@@ -153,7 +157,7 @@
 "tokens": [
 {
 "surface": "kula+strī",
-"quick_gloss": "kaula-woman"
+"quick_gloss": "kula-woman"
 },
 {
 "surface": "saṅga",
@@ -165,7 +169,7 @@
 },
 {
 "surface": "kulakāryaṃ",
-"quick_gloss": "kaula-rite"
+"quick_gloss": "kula-rite"
 },
 {
 "surface": "samācaret",
@@ -181,8 +185,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "pānañca",
+"surface": "pānaṃ",
 "quick_gloss": "drinking"
+},
+{
+"surface": "ca",
+"quick_gloss": "and"
 },
 {
 "surface": "viṣa+pānaṃ",
@@ -215,14 +223,14 @@
 },
 {
 "surface": "tasya",
-"quick_gloss": "of-him"
+"quick_gloss": "his"
 },
 {
 "surface": "naśyanti",
 "quick_gloss": "perish"
 },
 {
-"surface": "āyur",
+"surface": "āyuḥ",
 "quick_gloss": "life"
 },
 {
@@ -252,7 +260,7 @@
 },
 {
 "surface": "pravakṣyāmi",
-"quick_gloss": "I-will-declare"
+"quick_gloss": "will-declare"
 },
 {
 "surface": "sarvasiddhi",
@@ -280,8 +288,12 @@
 "quick_gloss": "fulfilling"
 },
 {
-"surface": "sarva+mantra",
-"quick_gloss": "all-mantra"
+"surface": "sarva",
+"quick_gloss": "all"
+},
+{
+"surface": "mantra",
+"quick_gloss": "mantra"
 },
 {
 "surface": "doṣa",
@@ -302,7 +314,7 @@
 "tokens": [
 {
 "surface": "abhicāra",
-"quick_gloss": "abhicāra"
+"quick_gloss": "abhicara"
 },
 {
 "surface": "haraṃ",
@@ -330,8 +342,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "takṣakeṇāpi",
-"quick_gloss": "by-takṣaka"
+"surface": "takṣakeṇa",
+"quick_gloss": "by-takshaka"
+},
+{
+"surface": "api",
+"quick_gloss": "even"
 },
 {
 "surface": "daṣṭasya",
@@ -355,8 +371,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "strīkṛteṣvapi",
+"surface": "strīkṛteṣu",
 "quick_gloss": "in-woman-caused"
+},
+{
+"surface": "api",
+"quick_gloss": "even"
 },
 {
 "surface": "doṣeṣu",
@@ -364,15 +384,15 @@
 },
 {
 "surface": "śarīre",
-"quick_gloss": "in-body"
+"quick_gloss": "body"
 },
 {
 "surface": "mānase",
-"quick_gloss": "in-mind"
+"quick_gloss": "mind"
 },
 {
 "surface": "tathā",
-"quick_gloss": "and"
+"quick_gloss": "thus"
 }
 ]
 },
@@ -385,7 +405,7 @@
 "tokens": [
 {
 "surface": "asaubhāgye",
-"quick_gloss": "in-inauspiciousness"
+"quick_gloss": "in-misfortune"
 },
 {
 "surface": "ca",
@@ -413,16 +433,28 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "nadī+tīre",
-"quick_gloss": "river-bank"
+"surface": "nadī",
+"quick_gloss": "river"
 },
 {
-"surface": "deva+bhūmau",
-"quick_gloss": "divine-ground"
+"surface": "tīre",
+"quick_gloss": "bank"
 },
 {
-"surface": "taru+mūle",
-"quick_gloss": "tree-root"
+"surface": "deva",
+"quick_gloss": "god"
+},
+{
+"surface": "bhūmau",
+"quick_gloss": "ground"
+},
+{
+"surface": "taru",
+"quick_gloss": "tree"
+},
+{
+"surface": "mūle",
+"quick_gloss": "root"
 },
 {
 "surface": "catuṣpathe",
@@ -438,8 +470,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "mantreṇānena",
+"surface": "mantreṇa",
 "quick_gloss": "by-mantra"
+},
+{
+"surface": "anena",
+"quick_gloss": "this"
 },
 {
 "surface": "deveśi",
@@ -447,7 +483,7 @@
 },
 {
 "surface": "tīrthāni",
-"quick_gloss": "tīrthas"
+"quick_gloss": "tirthas"
 },
 {
 "surface": "āvāhayet",
@@ -467,8 +503,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "sarve+samudrāḥ",
-"quick_gloss": "all-oceans"
+"surface": "sarve",
+"quick_gloss": "all"
+},
+{
+"surface": "samudrāḥ",
+"quick_gloss": "oceans"
 },
 {
 "surface": "saritaḥ",
@@ -497,7 +537,7 @@
 "tokens": [
 {
 "surface": "sarvetīrthāni",
-"quick_gloss": "all-tīrthas"
+"quick_gloss": "all-tirthas"
 },
 {
 "surface": "puṇyāni",
@@ -526,7 +566,7 @@
 "tokens": [
 {
 "surface": "sthirākṛtiḥ",
-"quick_gloss": "firm-form"
+"quick_gloss": "steady-form"
 }
 ]
 },
@@ -543,15 +583,19 @@
 },
 {
 "surface": "dūrvāṃ",
-"quick_gloss": "dūrvā"
+"quick_gloss": "durva"
 },
 {
 "surface": "praṇavaiḥ",
-"quick_gloss": "with-oṃs"
+"quick_gloss": "with-om"
 },
 {
-"surface": "kuryādabhyukṣaṇaṃ",
-"quick_gloss": "make-sprinkling"
+"surface": "kuryāt",
+"quick_gloss": "do"
+},
+{
+"surface": "abhyukṣaṇaṃ",
+"quick_gloss": "sprinkling"
 },
 {
 "surface": "tataḥ",
@@ -567,12 +611,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "tatrāvāhya",
+"surface": "tatra",
 "quick_gloss": "there"
 },
 {
-"surface": "prapūjayet",
+"surface": "āvāhya",
 "quick_gloss": "having-invoked"
+},
+{
+"surface": "prapūjayet",
+"quick_gloss": "worship"
 }
 ]
 },
@@ -584,8 +632,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "mantreṇānena",
+"surface": "mantreṇa",
 "quick_gloss": "by-mantra"
+},
+{
+"surface": "anena",
+"quick_gloss": "this"
 },
 {
 "surface": "deśikaḥ",
@@ -614,7 +666,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "yaśo",
+"surface": "yaśaḥ",
 "quick_gloss": "fame"
 },
 {
@@ -623,15 +675,19 @@
 },
 {
 "surface": "tejaḥsu",
-"quick_gloss": "tejas"
+"quick_gloss": "splendor"
 },
 {
-"surface": "śrīphalasyāpi",
-"quick_gloss": "śrīphala"
+"surface": "śrīphalasya",
+"quick_gloss": "bilva-fruit"
+},
+{
+"surface": "api",
+"quick_gloss": "also"
 },
 {
 "surface": "pallavaiḥ",
-"quick_gloss": "sprouts"
+"quick_gloss": "shoots"
 }
 ]
 },

@@ -5,73 +5,73 @@
 [vivecanīye](vivecanīye) [saṃprāpte](saṃprāpte) [vāda](vāda) [eva](eva) [pravarttate](pravarttate)
 
 ## mukta-m0-p55-v1352
-[vādasya](vādasya) [tu](tu) [samāptaḥ](samāpto) [hi](hi) [jāti+nigraha+siddhi+dā](jātinigrahasiddhidā)
+[vādasya](vādasya) [tu](tu) [samāptaḥ](samāpto) [hi](hi) [jāti-nigraha-siddhi-dā](jātinigrahasiddhidā)
 
 ## mukta-m0-p55-v1353
-[anyonya+āśraya](anyonyāśraya) [doṣeṇa](doṣeṇa) [tena](tena) [vādena](vādena) [darśanam](darśanam)
+[anyonya-āśraya](anyonyāśraya) [doṣeṇa](doṣeṇa) [tena](tena) [vādena](vādena) [darśanam](darśanam)
 
 ## mukta-m0-p55-v1354
-[paraspara+vyāhatāni](parasparavyāhatāni) [na](na) [camatkāra+kāṇinaḥ](camatkārakāṇinaḥ)
+[paraspara-vyāhatāni](parasparavyāhatāni) [na](na) [camatkāra-kāṇinaḥ](camatkārakāṇinaḥ)
 
 ## mukta-m0-p55-v1355
-[anyonyam+apramāṇatva](anyonyamapramāṇatva) [khyāti](khyāti) [viprama+pattayaḥ](vipramapattayaḥ)
+[anyonyam-apramāṇatva](anyonyamapramāṇatva) [khyāti](khyāti) [vipramapattayaḥ](vipramapattayaḥ)
 
 ## mukta-m0-p55-v1356
-[pramitāni](pramitānya) [paraḥ](parastatra) [tatra](tatra) [pramāṇyaṃ](pramāṇyaṃ) [na+avabudhyate](nāvabudhyate)
+[pramitānya](pramitānya) [paras-tatra](parastatra) [pramāṇyaṃ](pramāṇyaṃ) [na-avabudhyate](nāvabudhyate)
 
 ## mukta-m0-p55-v1357
-[sannikṛṣṭa+artha](sannikṛṣṭārtha) [rūpatvaṃ](rūpatvaṃ) [tatra](tatra) [madhyastha](madhyastha) [dṛk+prabhā](dṛkprabhā)
+[sannikṛṣṭa-artha-rūpatvaṃ](sannikṛṣṭārtha) [tatra](tatra) [madhyastha](madhyastha) [dṛk-prabhā](dṛkprabhā)
 
 ## mukta-m0-p55-v1358
-[tad+vādi](tadvādi) [prativādi+ukta](prativādyukta) [yukti+pāṇḍitya](yuktipāṇḍitya) [tattva+vit](tatvavit)
+[tad-vādi](tadvādi) [prativādi-ukta](prativādyukta) [yukti-pāṇḍitya](yuktipāṇḍitya) [tattva-vit](tatvavit)
 
 ## mukta-m0-p55-v1359
-[āyāta](āyāta) [vādinaḥ](vādinaḥ) [sarve](sarve) [teṣāṃ](teṣāṃ) [ca](ca) [prativādinaḥ](prativādinaḥ)
+[āyāta-vādinaḥ](āyāta) [sarve](vādinaḥ) [teṣāṃ](sarve) [ca](teṣāṃ) [prativādinaḥ](ca) [prativādinaḥ](prativādinaḥ)
 
 ## mukta-m0-p55-v1360
-[doṣaḥ](doṣoguṇaścaiva) [guṇaḥ](guṇaścaiva) [ca](ca) [eva](eva) [samaḥ](samoradhraṃ) [radhraṃ](radhraṃ) [ca](ca) [api](api) [samaṃ](samaṃ) [smṛtam](smṛtam)
+[doṣaḥ-guṇaḥ-ca-eva](doṣoguṇaścaiva) [samaḥ-ardhraṃ](samoradhraṃ) [ca-api](cāpi) [samaṃ](samaṃ) [smṛtam](smṛtam)
 
 ## mukta-m0-p55-v1361
-[na](na) [ekaḥ](ekaḥ) [paryanuyoktavyaḥ](paryanuyoktavyaḥ) [tādṛg+artha+vicāraṇe](tādṛgarthavicāraṇe)
+[na-ekaḥ](naikaḥ) [paryanuyoktavyaḥ](paryanuyoktavyaḥ) [tādṛg-artha-vicāraṇe](tādṛgarthavicāraṇe)
 
 ## mukta-m0-p55-v1362
-[ataḥ](ataḥ) [sāmya](sāmya) [pradhānānāṃ](pradhānānāṃ) [na](na) [dveṣaḥ](dveṣonyatra) [anyatra](anyatra) [yujyate](yujyate)
+[ataḥ](ataḥ) [sāmya-pradhānānāṃ](sāmyapradhānānāṃ) [na](na) [dveṣaḥ-anyatra](dveṣonyatra) [yujyate](yujyate)
 
 ## mukta-m0-p55-v1363
-[yat](yat) [kiṃcit](kiṃcit) [karma+yā](karmayā) [kācid+devatā](kāciddevatā) [yat](yaccakiṃcana) [kiṃcana](kiṃcana)
+[yat-kiṃcit](yat) [karma-yā](kiṃcit) [kācid-devatā](kāciddevatā) [yat-ca-kiṃcana](yaccakiṃcana)
 
 ## mukta-m0-p55-v1364
-[yaḥ](yaḥ) [kopi](kopi) [mokṣaḥ](mokṣaḥ) [sarvatra](sarvatra) [śāstre](śāstre) [sadṛśaḥ](sadṛśa) [īritaḥ](īritaḥ)
+[yaḥ-kopi](yaḥ) [mokṣaḥ](kopi) [sarvatra](mokṣaḥ) [śāstre](sarvatra) [sadṛśaḥ](śāstre) [īritaḥ](sadṛśa īritaḥ)
 
 ## mukta-m0-p55-v1365
-[etat](etat) [prakāratā](prakāratā) [pattau](pattau) [bhavataḥ](bhavatastu) [tu](tu) [vyadhāt](vyadhātkaliḥ) [kaliḥ](kaliḥ)
+[etat](etat) [prakāratā-pattau](prakāratā) [bhavataḥ-tu](bhavatastu) [vyadhāt-kaliḥ](vyadhātkaliḥ)
 
 ## mukta-m0-p55-v1366
-[sarveṣu](sarveṣvapi) [api](api) [ca](ca) [śāstreṣu](śāstreṣu) [jñāna+mānaṃda+lakṣaṇam](jñānamānaṃdalakṣaṇam)
+[sarveṣu-api](sarveṣvapi) [ca](ca) [śāstreṣu](śāstreṣu) [jñāna-mānaṃda-lakṣaṇam](jñānamānaṃdalakṣaṇam)
 
 ## mukta-m0-p55-v1367
-[vicāryamāṇena](vicāryamāṇenāstaiva) [asta](asta) [eva](eva) [sarva+vyavahṛtā](sarvavyavahṛtā) [vadhi](vadhi)
+[vicāryamāṇena-asta-eva](vicāryamāṇenāstaiva) [sarva-vyavahṛtā](sarvavyavahṛtā) [vadhi](vadhi)
 
 ## mukta-m0-p55-v1368
-[jñāna+mānaṃda+rūpaṃ](jñānamānaṃdarūpaṃ) [tat](tat) [sarvagaṃ](sarvagaṃ) [sarva+jātikam](sarvajātikam)
+[jñāna-mānaṃda-rūpaṃ](jñānamānaṃdarūpaṃ) [tat](tat) [sarvagaṃ](sarvagaṃ) [sarva-jātikam](sarvajātikam)
 
 ## mukta-m0-p55-v1369
-[iti](iti) [madhyasta+rūpasya](madhyastarūpasya) [sva+ātmānaṃda+maheśi](svātmānaṃdamaheśi) [tuḥ](tuḥ)
+[iti](iti) [madhyasta-rūpasya](madhyastarūpasya) [sva-ātmānaṃda-maheśi](svātmānaṃdamaheśi) [tuḥ](tuḥ)
 
 ## mukta-m0-p55-v1370
-[tathā](tatheti) [iti](iti) [pratipadyaṃte](pratipadyaṃte) [śāstraiḥ](śāstraiḥ) [saha+nijaiḥ](sahanijairnnavaiḥ) [navaiḥ](navaiḥ)
+[tathā-iti](tatheti) [pratipadyaṃte](pratipadyaṃte) [śāstraiḥ](śāstraiḥ) [saha-nijaiḥ-navaiḥ](sahanijairnnavaiḥ)
 
 ## mukta-m0-p55-v1371
-[aṃgatāṃ](aṃgatāṃ) [kila](kilayātāni) [yātāni](yātāni) [śāstrāṇi](śāstrāṇi) [vividhāni](vividhānyapi) [api](api)
+[aṃgatāṃ](aṃgatāṃ) [kilayātāni](kilayātāni) [śāstrāṇi](śāstrāṇi) [vividhānyapi](vividhānyapi)
 
 ## mukta-m0-p55-v1372
-[praveśaḥ](praveśaḥ) [kramataḥ](kramataḥ) [pūjyāḥ](pūjyāścārvākādinijāgamāḥ) [cārvāka+ādi+nija+āgamāḥ](cārvākādinijāgamāḥ)
+[praveśaḥ](praveśaḥ) [kramataḥ](kramataḥ) [pūjyāḥ-ca](pūjyāścārvākādinijāgamāḥ) [cārvāka-ādi-nija-āgamāḥ](cārvākādinijāgamāḥ)
 
 ## mukta-m0-p55-v1373
-[yāni](yāni) [yāni](yānyantarasthāni) [antarasthāni](antarasthāni) [tāni](tānitā) [tā](tā) [vudbalāni](vudbalāni) [vai](vai)
+[yāni-yāny-antarasthāni](yāniyānyantarasthāni) [tāni-tā](tānitā) [vudbalāni](vudbalāni) [vai](vai)
 
 ## mukta-m0-p55-v1374
-[parivāra+rakṣakāḥ](parivārārakṣakāśca) [ca](ca) [gupti+ardāḥ](guptyardāḥ) [śāstra](śāstra) [saṃcayāḥ](saṃcayāḥ)
+[parivāra-rakṣakāḥ-ca](parivārārakṣakāśca) [gupti-ardāḥ](guptyardāḥ) [śāstra-saṃcayāḥ](śāstra saṃcayāḥ)
 
 ## mukta-m0-p55-v1375
-[śāstra+mārga+bhavanti](śāstramārgabhavantyeva) [eva](eva) [vīra+mārgasya](vīramārgasya) [ca](ca) [aṃgatām](aṃgatām)
+[śāstra-mārga-bhavanti-eva](śāstramārgabhavantyeva) [vīra-mārgasya](vīramārgasya) [ca-aṃgatām](cāṅgatām)
