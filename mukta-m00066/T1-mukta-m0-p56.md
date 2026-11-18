@@ -2,25 +2,25 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p56-v1376
-[human-goal](puruṣārthaḥ) [indeed](tu) [primary](mukhyaḥ) [which](yaḥ) [great-sacrifice+effecting](mahāyāga+upapādakaḥ)
+[human-goal](puruṣārthaḥ) [indeed](tu) [primary](mukhyaḥ) [which](yaḥ) [great+sacrifice+accomplishing](mahāyāga+upapādakaḥ)
 
 ## mukta-m0-p56-v1377
-[bliss-yoga](ānaṃda+yogaḥ) [indeed](hi) [supremely](paramataḥ) [that](tat) [accomplishing](pratisādhakaḥ)
+[bliss+yoga](ānaṃda+yogaḥ) [indeed](hi) [supremely](paramataḥ) [that](tat) [accomplishing](pratisādhakaḥ)
 
 ## mukta-m0-p56-v1378
-[dharma](dharmaḥ) [indeed](khalu) [great-sacrifice](mahāyāgaḥ) [seen-and-unseen+fruit-giving](dṛṣṭa+adṛṣṭa+phalapradaḥ)
+[dharma](dharmaḥ) [indeed](khalu) [great+sacrifice](mahāyāgaḥ) [seen+unseen](dṛṣṭa+adṛṣṭa) [fruit+giving](phala+pradaḥ)
 
 ## mukta-m0-p56-v1379
-[that](saḥ) [indeed](eva) [liberation](mokṣaḥ) [also](api) [in-Śiva](śive) [supreme-bliss+consisting+attaining](parānaṃda+maya+t+pataḥ)
+[that](saḥ) [indeed](eva) [liberation](mākṣaḥ) [also](api) [in-Śiva](śive) [supreme+bliss+consisting+state](parānaṃda+maya+t pataḥ)
 
 ## mukta-m0-p56-v1380
-[dharma-form](dharma+rūpī) [desire-form](kāma+rūpī) [liberation-form](mokṣa+rūpī) [and](ca) [person](pūruṣaḥ)
+[dharma+formed](dharma+rūpī) [desire+formed](kāma+rūpī) [liberation+formed](mokṣa+rūpī) [and](ca) [person](pūruṣaḥ)
 
 ## mukta-m0-p56-v1381
-[wealth](dhanaṃ) [indeed](khalu) [of-the-Great-Lord](maheśasya) [worship+first-means](pūjā+prathama+sādhanam)
+[wealth](dhanaṃ) [indeed](khalu) [of-the-great-lord](maheśasya) [worship+first+means](pūjā+prathama+sādhanam)
 
 ## mukta-m0-p56-v1382
-[not](na) [very](atyantaṃ) [fragrant](saurabhaṃ) [thing](vastu) [not](na) [or](vā) [very-fine](sūkṣmataraḥ) [cloth](paṭaḥ)
+[not](na) [excessively](atyantaṃ) [fragrant](saurabhaṃ) [thing](vastu) [not](na) [or](vā) [very+fine](sūkṣma+taraḥ) [cloth](paṭaḥ)
 
 ## mukta-m0-p56-v1383
 [not](na) [fruits](phalāni) [and](ca) [pleasing](hṛdyāni) [not](na) [ripe](pakvāni) [fruits](phalāni) [and](ca)
@@ -32,46 +32,46 @@
 [he](sa) [but](tu) [scriptures](śāstrāṇi) [all](sarvāṇi) [useless](nirarthāni) [even](api) [not](na) [abandoned](atyajat)
 
 ## mukta-m0-p56-v1386
-[logic-etc.+scripture+study](tarka+ādi+śāstra+abhyāsasya) [wealth-giving+cause+state](dhana+dāya+nidānatām)
+[logic+etc.+scripture+study](tarka+ādi+śāstra+abhyāsasya) [wealth+giving+cause+state](dhana+dāya+nidānatām)
 
 ## mukta-m0-p56-v1387
-[not](na) [other-species+resorting](anya+jāti+juṣaḥ) [of-creature](jaṃtoḥ) [obtainable](āhārya) [easy-availability-because-of](sulabhatvataḥ)
+[not](na) [other+species](anya+jāti) [enjoying](juṣaḥ) [creature](jaṃtoḥ) [obtainable](āhārya) [easy+availability](sulabhatvataḥ)
 
 ## mukta-m0-p56-v1388
-[human-species](nara+jātiḥ) [this](iyam) [but](tu) [by-these](etaiḥ) [refinements](saṃskṛtaiḥ) [self-nourishing](ātma+poṣiṇī)
+[human+species](nara+jātiḥ) [this-much](iyant) [but](tu) [by-these](etaiḥ) [refined](saṃskṛtaiḥ) [self+nourishing](ātma+poṣiṇī)
 
 ## mukta-m0-p56-v1389
 [difficult](duṣkaraṃ) [and](ca) [also](api) [some](kaṃcit) [effort](udyat) [mutual](paraspara) [seeking](gaveṣaṇam)
 
 ## mukta-m0-p56-v1390
-[very-difficult](atikaṣṭhataraṃ) [O-goddess](devi) [much-suffering+sole-receptacle](bahu+duḥkha+eka+bhājanam)
+[very+difficult](atikaṣṭha+taraṃ) [O-goddess](devi) [much+suffering+sole+receptacle](bahu+duḥkha+eka+bhājanam)
 
 ## mukta-m0-p56-v1391
-[of-heroes](vīrāṇāṃ) [own-self+worship+for-the-sake-of](sva+ātma+pūjā+artham) [wealth+acquisition+for](dhana+saṃpādanāya) [and](ca)
+[of-heroes](vīrāṇāṃ) [own+self+worship+for](sva+ātma+pūjā+artham) [wealth+acquisition+for](dhana+saṃpādanāya) [and](ca)
 
 ## mukta-m0-p56-v1392
-[then](tadā) [also](api) [O-daughter-of-mountain](amī+girisute) [others+delusion+cause+for](para+vyāmoha+hetave)
+[then](tadā) [also](api) [O-mountain-daughter](amī+giri+sute) [others+delusion+cause+for](para+vyāmoha+hetave)
 
 ## mukta-m0-p56-v1393
-[I](ahaṃ) [Veda-meaning+truth-knower](veda+artha+tatvajñaḥ) [sacrifice-science+skilled](yajña+vidyā+kṣamaḥ) [am](asmi) [I](aham)
+[I](ahaṃ) [Veda+meaning+truth+knower](veda+artha+tatva+jñaḥ) [sacrifice+science+skilled](yajña+vidyā+kṣamaḥ) [am](asmi) [I](aham)
 
 ## mukta-m0-p56-v1394
-[six-limbed+Veda+truth-knower](ṣaḍ+aṅga+veda+tatvajñaḥ) [indeed](tu) [I](aham) [alone](eva) [on-earth](mahītale)
+[six+limb+Veda+truth+knower](ṣaḍ+aṅga+veda+tatva+jñaḥ) [you](tu) [I](aham) [alone](eva) [on-earth](mahī+tale)
 
 ## mukta-m0-p56-v1395
-[from-Brahman+pure-wife](ā+brahma+śuddha+dāraḥ) [I](aham) [I](aham) [am](asmi) [indeed](āhi) [shaven-headed](tuṇḍikaḥ)
+[from-Brahman+pure+wife](ā+brahma+śuddha+dāraḥ) [I](aham) [I](aham) [am](asmi) [indeed](āhi) [shaven-headed](tuṇḍikaḥ)
 
 ## mukta-m0-p56-v1396
-[I](ahaṃ) [drama+sentiment+knower](nāṭya+rasa+jñaḥ) [am](asmi) [in-poetic-discourses](kāvya+ālāpeṣu) [I](ahaṃ) [skilled](paṭuḥ)
+[I](ahaṃ) [drama+sentiment+knower](nāṭya+rasa+jñaḥ) [am](asmi) [poetic+conversations](kāvya+ālāpeṣu) [I](ahaṃ) [skilled](paṭuḥ)
 
 ## mukta-m0-p56-v1397
-[thus](iti) [pride+uplifted+with-words](garva+uddhataiḥ+vākyaiḥ) [truth-untruth+mixed](satya+asatya+vimiśritaiḥ)
+[thus](iti) [pride+uplifted](garva+uddhataiḥ) [words](vākyaiḥ) [truth+untruth](satya+asatya) [mixed](vimiśritaiḥ)
 
 ## mukta-m0-p56-v1398
-[wealthy-ones](dhaninaḥ) [delusion-pride+blinded](moha+darpa+aṃdhāḥ) [worship](arcayaṃte) [with-wealth](vasubhiḥ) [collected](citaiḥ)
+[wealthy-ones](dhaninaḥ) [delusion+pride+blinded](moha+darpa+aṃdhāḥ) [worship](arcayaṃte) [with-wealth](vasubhiḥ) [deceived](chataiḥ)
 
 ## mukta-m0-p56-v1399
-[only](kevalaṃ) [belly+ocean+for-the-sake-of](jagdhi+abdhi+arthe) [fools](mūrkhāḥ) [accumulate](samadhicinvate)
+[only](kevalaṃ) [belly+ocean+for-sake](jagdhi+abdhi+arthe) [fools](mūrkhāḥ) [collect](samadhicinvate)
 
 ## mukta-m0-p56-v1400
-[they](te) [but](tu) [that+that+scripture+devoted](tat+tat+śāstra+niṣṭhāḥ) [worship+for-the-sake-of](pūjana+arthaṃ) [wealth-earners](dhana+arjakāḥ)
+[they](te) [but](tu) [that+that+scripture+devoted](tat+tat+śāstra+niṣṭhāḥ) [worship+for](pūjana+artham) [wealth+earners](dhana+arjakāḥ)

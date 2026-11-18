@@ -37,7 +37,7 @@
 "tokens": [
 {
 "surface": "ātma+bhūmau",
-"quick_gloss": "on+self+ground"
+"quick_gloss": "self+ground"
 },
 {
 "surface": "ca",
@@ -48,8 +48,8 @@
 "quick_gloss": "let-them-abide"
 },
 {
-"surface": "satsu+sviyyeṣu",
-"quick_gloss": "in-good+own"
+"surface": "sat+su+sviyyeṣu",
+"quick_gloss": "in-true+own"
 },
 {
 "surface": "vastuṣu",
@@ -78,7 +78,7 @@
 },
 {
 "surface": "mahīpatiḥ",
-"quick_gloss": "in-sun+dynasty"
+"quick_gloss": "in-solar+dynasty"
 }
 ]
 },
@@ -107,7 +107,7 @@
 },
 {
 "surface": "dharmaśālinam",
-"quick_gloss": "possessed-of-dharma"
+"quick_gloss": "virtue+possessing"
 }
 ]
 },
@@ -128,7 +128,7 @@
 },
 {
 "surface": "sahitaḥ",
-"quick_gloss": "together"
+"quick_gloss": "accompanied"
 },
 {
 "surface": "rāmaḥ",
@@ -136,7 +136,7 @@
 },
 {
 "surface": "kaniṣṭhena",
-"quick_gloss": "with-younger"
+"quick_gloss": "with-younger-brother"
 },
 {
 "surface": "ca",
@@ -157,14 +157,14 @@
 "tokens": [
 {
 "surface": "karṇā",
-"quick_gloss": "ear"
+"quick_gloss": "by-ear"
 },
 {
 "surface": "karṇikayā",
-"quick_gloss": "by-ear-ornament"
+"quick_gloss": "by-pericarp"
 },
 {
-"surface": "karṇya",
+"surface": "karṇyā",
 "quick_gloss": "worthy-of-ear"
 },
 {
@@ -198,7 +198,7 @@
 },
 {
 "surface": "eka+cāriṇā",
-"quick_gloss": "by-lone-wanderer"
+"quick_gloss": "alone+wandering"
 }
 ]
 },
@@ -211,7 +211,7 @@
 "tokens": [
 {
 "surface": "para+bhūmi",
-"quick_gloss": "in-other+land"
+"quick_gloss": "other+land"
 },
 {
 "surface": "prasaktiḥ",
@@ -248,7 +248,7 @@
 },
 {
 "surface": "pāda+cārī",
-"quick_gloss": "foot+walking"
+"quick_gloss": "on-foot+walking"
 },
 {
 "surface": "ca",
@@ -264,7 +264,7 @@
 },
 {
 "surface": "baliḥ",
-"quick_gloss": "Bali"
+"quick_gloss": "prey"
 }
 ]
 },
@@ -276,8 +276,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "etādṛśa+vinīpātam",
-"quick_gloss": "such+downfall"
+"surface": "etādṛśa",
+"quick_gloss": "such"
+},
+{
+"surface": "vinīpātam",
+"quick_gloss": "downfall"
 },
 {
 "surface": "agamat",
@@ -309,8 +313,12 @@
 "quick_gloss": "conduct"
 },
 {
-"surface": "anuniṣṭha+gata+jvaraḥ",
-"quick_gloss": "without-restraint+gone+fever"
+"surface": "anuniṣṭha",
+"quick_gloss": "without-restraint"
+},
+{
+"surface": "gata+jvaraḥ",
+"quick_gloss": "gone+fever"
 }
 ]
 },
@@ -322,8 +330,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "bheta+upadeśa+nirbhiṇāḥ",
-"quick_gloss": "by-fear+instruction+pierced"
+"surface": "bheta+upadeśa",
+"quick_gloss": "by-fear+instruction"
+},
+{
+"surface": "nirbhiṇāḥ",
+"quick_gloss": "split"
 },
 {
 "surface": "citta+doṣa",
@@ -331,7 +343,7 @@
 },
 {
 "surface": "nirāgrahāḥ",
-"quick_gloss": "without-insistence"
+"quick_gloss": "without-attachment"
 }
 ]
 },
@@ -356,7 +368,7 @@
 },
 {
 "surface": "tu",
-"quick_gloss": "but"
+"quick_gloss": "indeed"
 },
 {
 "surface": "dāna+rūpa+upadeśataḥ",
@@ -377,7 +389,7 @@
 },
 {
 "surface": "nāma",
-"quick_gloss": "indeed"
+"quick_gloss": "by-name"
 },
 {
 "surface": "iṣṭa+vastūnāṃ",
@@ -385,7 +397,7 @@
 },
 {
 "surface": "satya+asatya+svarūpiṇām",
-"quick_gloss": "of-true+untrue+nature"
+"quick_gloss": "true+untrue+natured"
 }
 ]
 },
@@ -439,11 +451,11 @@
 },
 {
 "surface": "viratyā",
-"quick_gloss": "of-merit+wealth"
+"quick_gloss": "by-abstention"
 },
 {
 "surface": "puṇya+saṃpadaḥ",
-"quick_gloss": "puṇya+saṃpadaḥ"
+"quick_gloss": "of-merit+wealth"
 }
 ]
 },
@@ -538,7 +550,7 @@
 "quick_gloss": "good+conducts"
 },
 {
-"surface": "vyāsa+ādhyātān",
+"surface": "vyāsa+ādhi+ātān",
 "quick_gloss": "taught-by-Vyāsa+and-others"
 },
 {
@@ -592,7 +604,7 @@
 "quick_gloss": "gift+instruction"
 },
 {
-"surface": "ayaṃ",
+"surface": "ayam",
 "quick_gloss": "this"
 },
 {
@@ -614,7 +626,7 @@
 "tokens": [
 {
 "surface": "bahu+doṣa+grahavatāṃ",
-"quick_gloss": "of-those-seizing+many+faults"
+"quick_gloss": "of-those-having-many+faults"
 },
 {
 "surface": "kakṣyā+traya",
@@ -651,7 +663,7 @@
 },
 {
 "surface": "adhama+adhamān",
-"quick_gloss": "the-lowest+of-low"
+"quick_gloss": "lowest+of-low"
 }
 ]
 },
