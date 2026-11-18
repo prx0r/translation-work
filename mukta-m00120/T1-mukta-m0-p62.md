@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p62-v1526
-vyaktāyāḥ + ca + eva + guptāyāḥ + lakṣaṇam + kim + prakāśaya
+[vyaktāyāḥ](vyaktāyāś) [ca](ca) [eva](eva) [guptāyāḥ](guptāyā) [lakṣaṇam](lakṣaṇaṃ) [kim](kiṃ) [prakāśaya](prakāśaya)
 
 ## mukta-m0-p62-v1527
-gupta-arccane + api + muktiḥ + syāt + bhakti-bhāva + yutaḥ + yadi
+[gupta-arcane](guptārccane) [api](api) [muktiḥ](muktiḥ) [syāt](syād) [bhakti](bhakti) [bhāva](bhāva) [yutaḥ](yuto) [yadi](yadi)
 
 ## mukta-m0-p62-v1528
-darśanāt + lakṣa-pīṭhānām + phalam + yat + vara-varṇini
+[darśanāt](darśanāt) [lakṣa-pīṭhānām](lakṣa pīṭhānāṃ) [phalam](phalaṃ) [yad](yad) [varavarṇini](varavarṇini)
 
 ## mukta-m0-p62-v1529
-sparśanāt + sarva-pīṭhānām + phalam + āpnoti + sādhakaḥ
+[sparśanāt](sparśanāt) [sarva-pīṭhānām](sarva pīṭhānāṃ) [phalam](phalaṃ) [āpnoti](āpnoti) [sādhakaḥ](sādhakaḥ)
 
 ## mukta-m0-p62-v1530
-tiṣṭhanti + tāni + tīrthāni + yoni-pīṭheṣu + sundari
+[tiṣṭhanti](tiṣṭhanti) [tāni](tāni) [tīrthāni](tīrthāni) [yoni-pīṭheṣu](yoni pīṭheṣu) [sundari](sundari)
 
 ## mukta-m0-p62-v1531
-sarasvatī + madhya-bhāge + vāmeṣu + jāhnavī + parā
+[sarasvatī](sarasvatī) [madhya-bhāge](madhyabhāge) [vāmeṣu](vāmeṣu) [jāhnavī](jāhnavī) [parā](parā)
 
 ## mukta-m0-p62-v1532
-kṣetre + tīrthāni + tiṣṭhanti + sarvāṇi + parameśvari
+[kṣetre](kṣetre) [tīrthāni](tīrthāni) [tiṣṭhanti](tiṣṭhanti) [sarvāṇi](sarvāṇi) [parameśvari](parameśvari)
 
 ## mukta-m0-p62-v1533
-adhunā + śrotum + icchāmi + lakṣaṇam + kula-yoṣitām
+[adhunā](adhunā) [śrotum](śrotum) [icchāmi](icchāmi) [lakṣaṇam](lakṣaṇaṃ) [kula-yoṣitām](kula yoṣitām)
 
 ## mukta-m0-p62-v1534
-tat-lakṣaṇa-anvitaḥ + jñeyaḥ + sādhakaḥ + kula-yoṣitaḥ
+[tad-lakṣaṇa-anvitaḥ](tallakṣaṇānvito) [jñeyaḥ](jñeyaḥ) [sādhakaḥ](sādhakaḥ) [kula-yoṣitaḥ](kula yoṣitaḥ)
 
 ## mukta-m0-p62-v1535
-jñāninām + jñāna-rūpam + idam + kulasya + lakṣaṇam + śive
+[jñāninām](jñānināṃ) [jñāna-rūpam](jñānarūpedaṃ) [idam](idaṃ) [kulasya](kulasya) [lakṣaṇam](lakṣaṇaṃ) [śive](śive)
 
 ## mukta-m0-p62-v1536
-iti + śrī-sarvānanda-nātha + viracite + sarvollāse + pañcāśad-ullāsaḥ
+[iti](iti) [śrī-sarvānanda-nātha](śrīsarvānandanātha) [viracite](viracite) [sarvollāse](sarvollāse) [pañcāśad-ullāsaḥ](pañcāśadullāsaḥ)
 
 ## mukta-m0-p62-v1537
-tava + prīti-karī + devi + ucyatām + bhava-bandhanāt
+[tava](tava) [prīti-karī](prītikarī) [devi](devi) [ucyatām](ucyatāṃ) [bhava-bandhanāt](bhava bandhanāt)
 
 ## mukta-m0-p62-v1538
-yoni-tattvam + vinā + na + eva + kula-dharma + parāyaṇaḥ
+[yoni-tattvam](yoni tattvaṃ) [vinā](vinā) [na-eva](naiva) [kula-dharma](kula dharma) [parāyaṇaḥ](parāyaṇaḥ)
 
 ## mukta-m0-p62-v1539
-vismṛtam + punaḥ + ucyeta + śapatham + me + punaḥ + punaḥ
+[vismṛtam](vismṛtaṃ) [punar-ucyeta](punarucyeta) [śapatham](śapathaṃ) [me](me) [punaḥ-punaḥ](punaḥ punaḥ)
 
 ## mukta-m0-p62-v1540
-na + vaktavyam + punaḥ + hi + etat + śapatham + me + punaḥ + punaḥ
+[na](na) [vaktavyam](vaktavyaṃ) [punar](punar) [hi](hi) [etat](etat) [śapatham](śapathaṃ) [me](me) [punaḥ-punaḥ](punaḥ punaḥ)
 
 ## mukta-m0-p62-v1541
-rajas-ujjvalā
+[rajasvalā](rajojjvalā)
 
 ## mukta-m0-p62-v1542
-śukrikā + śukra-jananī + tasyām + pūjā + mahā-phalā
+[śukrikā](śukrikā) [śukra](śukra) [jananī](jananī) [tasyām](tasyāṃ) [pūjā](pūjā) [mahā-phalā](mahāphalā)
 
 ## mukta-m0-p62-v1543
-dhyātvā + kuryāt + sadā + saṅgam + śukre + bīja-prapātanam
+[dhyātvā](dhyātvā) [kuryāt](kuryāt) [sadā](sadā) [saṅgam](saṅgaṃ) [śukre](śukre) [bīja](bīja) [prapātanam](prapātanam)
 
 ## mukta-m0-p62-v1544
-kevalam + vā + api + puṣpeṇa + śodhitam + tat + nivedayet
+[kevalam](kevalaṃ) [vā-api](vāpi) [puṣpeṇa](puṣpeṇa) [śodhitam](śodhitaṃ) [tat](tannivedayet) [nivedayet](tannivedayet)
 
 ## mukta-m0-p62-v1545
-tadā + śukreṇa + dātavyam + ca + anukalpam + kuleśvari
+[tadā](tadā) [śukreṇa](śukreṇa) [dātavyam](dātavyaṃ) [ca-anukalpam](cānukalpaṃ) [kuleśvari](kuleśvari)
 
 ## mukta-m0-p62-v1546
-pratyakṣasya + api + yogyatvam + ca + anukalpeṣu + saṃsthitam
+[pratyakṣasya](pratyakṣasyāpi) [api](pratyakṣasyāpi) [yogyatvam](yogyatvaṃ) [ca-anukalpeṣu](cānukalpeṣu) [saṃsthitam](saṃsthitam)
 
 ## mukta-m0-p62-v1547
-sva-sva-varṇa-yutam + dravyam + tat + dravyasya + anukalpanam
+[sva-sva-varṇa-yutam](svasvavarṇayutaṃ) [dravyam](dravyaṃ) [tat](tad) [dravyasya](dravyasyānukalpanam) [anukalpanam](dravyasyānukalpanam)
 
 ## mukta-m0-p62-v1548
-dhyātvā + yajet + maheśāni + madhye + śukra-prapātanam
+[dhyātvā](dhyātvā) [yajet](yajenmaheśāni) [maheśāni](yajenmaheśāni) [madhye](madhye) [śukra](śukra) [prapātanam](prapātanam)
 
 ## mukta-m0-p62-v1549
-tathā + priye
+[tathā](tathā) [priye](priye)
 
 ## mukta-m0-p62-v1550
-parasparam + bhavet + bījam + vāyu-ākāśayoḥ + yathā
+[parasparam](parasparaṃ) [bhavet](bhavedbījaṃ) [bījam](bhavedbījaṃ) [vāyu](vāyurākāśayoryathā) [ākāśayoḥ](vāyurākāśayoryathā) [yathā](vāyurākāśayoryathā)

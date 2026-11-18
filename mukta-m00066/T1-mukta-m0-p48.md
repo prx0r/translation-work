@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p48-v1176
-[dharma-adharma-order](dharmādharmavyavasthā) [and](ca) [Veda-scripture-splendor](vedaśāstrādiḍaṃbaraḥ)
+[gloss](dharmādharmavyavasthā) [gloss](ca) [gloss](vedaśāstrādiḍaṃbaraḥ)
 
 ## mukta-m0-p48-v1177
-[there-cause](atrakāraṇamatyarthaṃ) [deciding](niścitya) [speak](brūhi) [treasure-of-consciousness](cinnidhe)
+[gloss](atrakāraṇamatyarthaṃ) [gloss](niścityabrūhi) [gloss](cinnidhe)
 
 ## mukta-m0-p48-v1178
-[of-all](sarvāsāmapi) [births](jātīnāṃ) [eating](jagdhiyā) [ocean-sleep](abdhisuṣuptayaḥ)
+[gloss](sarvāsāmapi) [gloss](jātīnāṃ) [gloss](jagdhiyābdhisuṣuptayaḥ)
 
 ## mukta-m0-p48-v1179
-[this](etat) [causal](hetukaṃ) [goddess](devī) [cause](hetuḥ) [there](tatra) [is-declared](nigadyate)
+[gloss](etat) [gloss](hetukaṃ) [gloss](devī) [gloss](hetustatra) [gloss](nigadyate)
 
 ## mukta-m0-p48-v1180
-[desired-means-knowers](iṣṭasādhanataṃtrajñāḥ) [not](na) [everywhere](sarvatrāpi) [in-births](jātiṣu)
+[gloss](iṣṭasādhanataṃtrajñāḥ) [gloss]([kh:) [gloss](-jñā]) [gloss](na) [gloss](sarvatrāpi) [gloss](jātiṣu)
 
 ## mukta-m0-p48-v1181
-[of-birds](pakṣīṇāmapi) [all](sarveṣāṃ) [own-food](svāhāre) [nest-nourishment](potapoṣaṇam)
+[gloss](pakṣīṇāmapi) [gloss](sarveṣāṃ) [gloss](svāhāre) [gloss](potapoṣaṇam)
 
 ## mukta-m0-p48-v1182
-[come](āyāṃti) [staff-handed](daṇḍahastaṃ) [but](tu) [seeing-fear](dṛṣṭvāmithyā) [proceeds](pravarttate)
+[gloss](āyāṃti) [gloss](daṇḍahastaṃ) [gloss](tu) [gloss](dṛṣṭvāmithyā) [gloss]([kh:) [gloss](-bhītyā]) [gloss](pravarttate)
 
 ## mukta-m0-p48-v1183
-[goes](gamaḥ)
+[gloss](gamaḥ])
 
 ## mukta-m0-p48-v1184
-[how](kathaṃ) [of-knowledge](jñānasya) [absence](rāhityaṃ) [exists](varttate) [mountain-delight](girinaṃdini)
+[gloss](kathaṃ) [gloss](jñānasya) [gloss](rāhityaṃ) [gloss](varttate) [gloss](girinaṃdini) [gloss]([kh:) [gloss](-nī])
 
 ## mukta-m0-p48-v1185
-[of-beast-etc](paśvāderapi) [awareness](bodhastu) [like-human](manuṣyavadudīkṣyate)
+[gloss](paśvāderapi) [gloss](bodhastu) [gloss](manuṣyavadudīkṣyate)
 
 ## mukta-m0-p48-v1186
-[thus](tathā) [indeed](hi) [by-beak-grasped](cuṃcugrastaistu) [grasses](tṛṇairnidaṃvinirmati)
+[gloss](tathā) [gloss](hi) [gloss](cuṃcugrastaistu) [gloss](tṛṇairnidaṃvinirmati) [gloss]([kh:) [gloss](-niḍaṃvinirmati])
 
 ## mukta-m0-p48-v1187
-[hidden-place](aṃtargupta) [region-ness](pradeśatvaṃ) [rain-wind-untroubled](varṣavātānupadravam)
+[gloss](aṃtargupta) [gloss](pradeśatvaṃ) [gloss](varṣavātānupadravam)
 
 ## mukta-m0-p48-v1188
-[there](tatra) [mud-bank-attached](paṃkalavelagne) [shines](khadyate) [night-luster](niśibhāsvare)
+[gloss](tatra) [gloss](paṃkalavelagne) [gloss](khadyate) [gloss]([kh:) [gloss](khadyote]) [gloss](niśibhāsvare)
 
 ## mukta-m0-p48-v1189
-[female-bird](pakṣiṇī) [with-enjoyment](bhogasahitaḥ) [bird-enters-firm](pakṣīnirviśatidṛvam)
+[gloss](pakṣiṇī) [gloss]([kh:) [gloss](-ṇā]) [gloss](bhogasahitaḥ) [gloss](pakṣīnirviśatidṛvam) [gloss]([kh:) [gloss](-dhruvam])
 
 ## mukta-m0-p48-v1190
-[spread](ātānaṃ) [and](ca) [canopy](vitānaṃ) [ca](ca) [that](tat) [knowledge](jñānaṃ) [not-higher](nādhikānnatām)
+[gloss](ātānaṃ) [gloss](ca) [gloss](vitānaṃ) [gloss](ca) [gloss](tat) [gloss](jñānaṃ) [gloss](nādhikānnatām) [gloss]([kh:) [gloss](-konnatām])
 
 ## mukta-m0-p48-v1191
-[offers](nivedayati) [fair-hipped](suśroṇi) [own-birth](svajāti) [skill](gatapāṭavam)
+[gloss](nivedayati) [gloss](suśroṇi) [gloss](svajāti) [gloss](gatapāṭavam)
 
 ## mukta-m0-p48-v1192
-[one-formed](ekarūpāṇi) [wheels](cakrāṇi) [in-villages](stālagrāmeṣu) [extend](tanvataḥ)
+[gloss](ekarūpāṇi) [gloss](cakrāṇi) [gloss](stālagrāmeṣu) [gloss]([kh:) [gloss](sāla-]) [gloss](tanvataḥ)
 
 ## mukta-m0-p48-v1193
-[by-Brahma](brahmaṇāpi) [not](na) [that-possible](tacchakyaṃ) [birth-wise-gait](pratijātīdṛśīgatiḥ)
+[gloss](brahmaṇāpi) [gloss]([kh:) [gloss](braṃhaṇāpi]) [gloss](na) [gloss](tacchakyaṃ) [gloss](pratijātīdṛśīgatiḥ)
 
 ## mukta-m0-p48-v1194
-[at-night](rātrāvulūka) [fair-hipped](suśroṇi) [pots-etc](ghaṭādīnpratipadyate)
+[gloss](rātrāvulūka) [gloss]([kh:) [gloss](-pulūkaḥ]) [gloss](suśroṇi) [gloss](ghaṭādīnpratipadyate)
 
 ## mukta-m0-p48-v1195
-[other-birth-impossible](anyajāteraśakyaśca) [exists](varttate) [best-colored](varavarṇini)
+[gloss](anyajāteraśakyaśca) [gloss](varttate) [gloss](varavarṇini) [gloss]([kh:) [gloss](-nī])
 
 ## mukta-m0-p48-v1196
-[will-describe](varṇayiṣyati) [that-dispute](tadvādo) [vain-splendor](vṛthāsaṃbhūtaḍaṃbaraḥ)
+[gloss](varṇayiṣyati) [gloss](tadvādo) [gloss](vṛthāsaṃbhūtaḍaṃbaraḥ) [gloss]([kh:) [gloss](vṛdhā-])
 
 ## mukta-m0-p48-v1197
-[food](āhāraṃ) [and](caiva) [sleep](nidrā) [ca](ca) [fear](bhayaṃ) [copulation](maithunameva) [ca](ca)
+[gloss](āhāraṃ) [gloss](caiva) [gloss](nidrā) [gloss](ca) [gloss](bhayaṃ) [gloss](maithunameva) [gloss](ca)
 
 ## mukta-m0-p48-v1198
-[always-one-form](sarvadaika) [would-be](svarūpā) [syur](syur) [births](jātayomartyavarjitāḥ)
+[gloss](sarvadaika) [gloss](svarūpā) [gloss](syurjātayomartyavarjitāḥ)
 
 ## mukta-m0-p48-v1199
-[in-Krita](kṛte) [complete-dharma](saṃpūrṇadharmāḥ) [would-be](syuḥ) [all](sarve) [Parvati](pārvati) [humans](mānavāḥ)
+[gloss](kṛte) [gloss](saṃpūrṇadharmāḥ) [gloss]([kh:) [gloss](-rmā]) [gloss](syuḥsarve) [gloss](pārvati) [gloss](mānavāḥ)
 
 ## mukta-m0-p48-v1200
-[become](bhavaṃti) [and](ca) [dissolve](vilīyaṃte) [spread](pratāyaṃte) [again](punaḥ) [again](punaḥ)
+[gloss](bhavaṃti) [gloss](ca) [gloss](vilīyaṃte) [gloss]([kh:) [gloss](viliyyaṃte]) [gloss](pratāyaṃte) [gloss](punaḥ) [gloss](punaḥ)

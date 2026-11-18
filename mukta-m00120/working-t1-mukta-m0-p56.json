@@ -16,7 +16,7 @@
 },
 {
 "surface": "karastha",
-"quick_gloss": "hand-residing"
+"quick_gloss": "hand-held"
 },
 {
 "surface": "eva",
@@ -49,7 +49,7 @@
 },
 {
 "surface": "yogināmapyagamyaḥ",
-"quick_gloss": "for-yogis-even-inaccessible"
+"quick_gloss": "for-yogis-even-unattainable"
 }
 ]
 },
@@ -66,7 +66,7 @@
 },
 {
 "surface": "vrajet",
-"quick_gloss": "may-go"
+"quick_gloss": "should-go"
 }
 ]
 },
@@ -79,7 +79,7 @@
 "tokens": [
 {
 "surface": "gaṅgāṃ",
-"quick_gloss": "gaṅgā"
+"quick_gloss": "Ganges"
 },
 {
 "surface": "pivāmi",
@@ -87,7 +87,7 @@
 },
 {
 "surface": "yamunāṃ",
-"quick_gloss": "yamunā"
+"quick_gloss": "Yamuna"
 },
 {
 "surface": "saha",
@@ -108,11 +108,11 @@
 "tokens": [
 {
 "surface": "mūrdhni",
-"quick_gloss": "crown"
+"quick_gloss": "on-head"
 },
 {
 "surface": "śrīnātha",
-"quick_gloss": "śrīnātha"
+"quick_gloss": "Sri-lord"
 },
 {
 "surface": "pādābjaṃ",
@@ -123,12 +123,8 @@
 "quick_gloss": "remembrance"
 },
 {
-"surface": "kim",
-"quick_gloss": "what"
-},
-{
-"surface": "ataḥ",
-"quick_gloss": "than-that"
+"surface": "kimataḥ",
+"quick_gloss": "what-beyond"
 },
 {
 "surface": "param",
@@ -145,7 +141,7 @@
 "tokens": [
 {
 "surface": "kula",
-"quick_gloss": "kula"
+"quick_gloss": "clan"
 },
 {
 "surface": "strī",
@@ -161,7 +157,7 @@
 },
 {
 "surface": "kulakāryaṃ",
-"quick_gloss": "kula-rite"
+"quick_gloss": "clan-duty"
 },
 {
 "surface": "samācaret",
@@ -190,11 +186,11 @@
 },
 {
 "surface": "syāt",
-"quick_gloss": "may-be"
+"quick_gloss": "be"
 },
 {
 "surface": "maithunaṃ",
-"quick_gloss": "intercourse"
+"quick_gloss": "sexual-intercourse"
 },
 {
 "surface": "pāpadāyakam",
@@ -215,27 +211,15 @@
 },
 {
 "surface": "tasya",
-"quick_gloss": "his"
+"quick_gloss": "of-him"
 },
 {
 "surface": "naśyanti",
 "quick_gloss": "perish"
 },
 {
-"surface": "āyur",
-"quick_gloss": "life"
-},
-{
-"surface": "vidyā",
-"quick_gloss": "knowledge"
-},
-{
-"surface": "yaśo",
-"quick_gloss": "fame"
-},
-{
-"surface": "valam",
-"quick_gloss": "strength"
+"surface": "āyurvidyā+yaśo+valam",
+"quick_gloss": "lifespan-knowledge-fame-strength"
 }
 ]
 },
@@ -256,7 +240,7 @@
 },
 {
 "surface": "sarvasiddhi",
-"quick_gloss": "all-siddhi"
+"quick_gloss": "all-accomplishment"
 },
 {
 "surface": "pradāyakam",
@@ -306,7 +290,7 @@
 "tokens": [
 {
 "surface": "abhicāra",
-"quick_gloss": "abhicāra"
+"quick_gloss": "sorcery"
 },
 {
 "surface": "haraṃ",
@@ -335,11 +319,11 @@
 "tokens": [
 {
 "surface": "takṣakeṇāpi",
-"quick_gloss": "by-takṣaka-even"
+"quick_gloss": "by-Takshaka"
 },
 {
 "surface": "daṣṭasya",
-"quick_gloss": "bitten"
+"quick_gloss": "even-bitten"
 },
 {
 "surface": "viṣapīḍā",
@@ -360,7 +344,11 @@
 "tokens": [
 {
 "surface": "strīkṛteṣvapi",
-"quick_gloss": "by-woman-caused"
+"quick_gloss": "in-women-caused"
+},
+{
+"surface": "api",
+"quick_gloss": "even"
 },
 {
 "surface": "doṣeṣu",
@@ -389,7 +377,7 @@
 "tokens": [
 {
 "surface": "asaubhāgye",
-"quick_gloss": "inauspiciousness"
+"quick_gloss": "in-inauspiciousness"
 },
 {
 "surface": "ca",
@@ -455,23 +443,15 @@
 "tokens": [
 {
 "surface": "mantreṇānena",
-"quick_gloss": "by-this-mantra"
+"quick_gloss": "by-mantra"
 },
 {
 "surface": "deveśi",
-"quick_gloss": "goddess"
+"quick_gloss": "goddess-of-gods"
 },
 {
-"surface": "tīrthāni",
-"quick_gloss": "tīrthas"
-},
-{
-"surface": "āvāhayet",
-"quick_gloss": "invoke"
-},
-{
-"surface": "tataḥ",
-"quick_gloss": "then"
+"surface": "tīrthānyāvāhayettataḥ",
+"quick_gloss": "tirthas"
 }
 ]
 },
@@ -517,7 +497,7 @@
 "tokens": [
 {
 "surface": "sarvetīrthāni",
-"quick_gloss": "all-tīrthas"
+"quick_gloss": "all-tirthas"
 },
 {
 "surface": "puṇyāni",
@@ -529,7 +509,7 @@
 },
 {
 "surface": "kurvantu",
-"quick_gloss": "let-make"
+"quick_gloss": "make"
 },
 {
 "surface": "sannidhim",
@@ -559,19 +539,19 @@
 "tokens": [
 {
 "surface": "mūlena",
-"quick_gloss": "root"
+"quick_gloss": "with-root"
 },
 {
 "surface": "dūrvāṃ",
-"quick_gloss": "dūrvā"
+"quick_gloss": "durva"
 },
 {
 "surface": "praṇavaiḥ",
-"quick_gloss": "with-oṃs"
+"quick_gloss": "with-om"
 },
 {
 "surface": "kuryādabhyukṣaṇaṃ",
-"quick_gloss": "should-sprinkle"
+"quick_gloss": "make-sprinkling"
 },
 {
 "surface": "tataḥ",
@@ -588,7 +568,11 @@
 "tokens": [
 {
 "surface": "tatrāvāhya",
-"quick_gloss": "there-invoke"
+"quick_gloss": "there"
+},
+{
+"surface": "āvāhya",
+"quick_gloss": "invoke"
 },
 {
 "surface": "prapūjayet",
@@ -605,7 +589,11 @@
 "tokens": [
 {
 "surface": "mantreṇānena",
-"quick_gloss": "by-this-mantra"
+"quick_gloss": "by-mantra"
+},
+{
+"surface": "anena",
+"quick_gloss": "this"
 },
 {
 "surface": "deśikaḥ",
@@ -622,7 +610,7 @@
 "tokens": [
 {
 "surface": "vāmutranirghoṣaḥ",
-"quick_gloss": "urine-noise"
+"quick_gloss": "urine-sound"
 }
 ]
 },
@@ -639,11 +627,11 @@
 },
 {
 "surface": "dhanāyustejaḥsu",
-"quick_gloss": "wealth-life-glory"
+"quick_gloss": "wealth-glory"
 },
 {
-"surface": "śrīphalasya",
-"quick_gloss": "of-śrīphala"
+"surface": "śrīphalasyāpi",
+"quick_gloss": "Sri-fruit's"
 },
 {
 "surface": "api",
