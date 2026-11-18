@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p122-v3026
-[obeisance+to+bhikṣu](bhikṣavenamaḥ) [obeisance+to+bhikṣu+form](bhikṣurūpāyanamaḥ) [obeisance+to+vipaṇa](vipaṇāyanamaḥ)
+[to+monk+obeisance](bhikṣavenamaḥ) [monk+form+to+obeisance](bhikṣurūpāyanamaḥ) [market+to+obeisance](vipaṇāyanamaḥ)
 
 ## mukta-m0-p122-v3027
-[obeisance+to+vajra+hand](vajrahastāyanamaḥ) [obeisance+to+viṣkambhin](viṣkambhinenamaḥ)
+[vajra+hand+to+obeisance](vajrahastāyanamaḥ) [supporter+obeisance](viṣkambhinenamaḥ)
 
 ## mukta-m0-p122-v3028
-[obeisance+to+army+stambhana](camūstambhanāyanamaḥ) [obeisance+to+vṛtta+avṛtta+maker](vṛttāvṛttakarāyanamaḥ)
+[army+stopping+to+obeisance](camūstambhanāyanamaḥ) [turn+turn+maker+to+obeisance](vṛttāvṛttakarāyanamaḥ)
 
 ## mukta-m0-p122-v3029
-[obeisance+to+tāla](tālāyanamaḥ) [obeisance+to+madhava](madhavenamaḥ) [obeisance+to+madhu+eye](madhukalocanāyanamaḥ)
+[cymbal+to+obeisance](tālāyanamaḥ) [madhu+to+obeisance](madhavenamaḥ) [madhu+eye+to+obeisance](madhukalocanāyanamaḥ)
 
 ## mukta-m0-p122-v3030
-[obeisance+to+vācaspati](vācaspatyāyanamaḥ) [obeisance+to+vājasana](vājasanāyanamaḥ)
+[speech+lord+to+obeisance](vācaspatyāyanamaḥ) [vaja+giver+to+obeisance](vājasanāyanamaḥ)
 
 ## mukta-m0-p122-v3031
-[obeisance+to+āśrama+worshipped](āśramapūjitāyanamaḥ) [obeisance+to+brahmacārin](brahmacāriṇenamaḥ)
+[hermitage+worshiped+to+obeisance](āśramapūjitāyanamaḥ) [brahman+student+obeisance](brahmacāriṇenamaḥ)
 
 ## mukta-m0-p122-v3032
-[obeisance+to+loka+wanderer](lokacāriṇenamaḥ) [obeisance+to+all+wanderer](sarvacāriṇenamaḥ) [obeisance+to+inquiry+knower](vicāravidenamaḥ)
+[world+wandering+obeisance](lokacāriṇenamaḥ) [all+wandering+obeisance](sarvacāriṇenamaḥ) [inquiry+knower+obeisance](vicāravidenamaḥ)
 
 ## mukta-m0-p122-v3033
-[obeisance+to+īśāna](īśānāyanamaḥ) [obeisance+to+īśvara](īśvarāyanamaḥ) [obeisance+to+kāla](kālāyanamaḥ)
+[īśāna+to+obeisance](īśānāyanamaḥ) [lord+to+obeisance](īśvarāyanamaḥ) [time+to+obeisance](kālāyanamaḥ)
 
 ## mukta-m0-p122-v3034
-[obeisance+to+night+wanderer](niśācāriṇenamaḥ) [obeisance+to+pināka+holder](pinākadhṛṣenamaḥ) [obeisance+to+nimitta+abider](nimittasthāyanamaḥ)
+[night+wanderer+obeisance](niśācāriṇenamaḥ) [pināka+holder+obeisance](pinākadhṛṣenamaḥ) [omen+standing+to+obeisance](nimittasthāyanamaḥ)
 
 ## mukta-m0-p122-v3035
-[obeisance+to+nimitta](nimittāyanamaḥ) [obeisance+to+nandayat](nandayenamaḥ) [obeisance+to+nandikara](nandikarāyanamaḥ)
+[omen+to+obeisance](nimittāyanamaḥ) [gladdener+to+obeisance](nandayenamaḥ) [nandin+maker+to+obeisance](nandikarāyanamaḥ)
 
 ## mukta-m0-p122-v3036
-[obeisance+to+hara](harayenamaḥ) [obeisance+to+nandīśvara](nandīśvarāyanamaḥ) [obeisance+to+nandin](nandinenamaḥ)
+[green+to+obeisance](harayenamaḥ) [nandin+lord+to+obeisance](nandīśvarāyanamaḥ) [nandin+obeisance](nandinenamaḥ)
 
 ## mukta-m0-p122-v3037
-[obeisance+to+nihantr](nihantrenamaḥ) [obeisance+to+kāla](kālāyanamaḥ) [obeisance+to+brahman](brahmaṇenamaḥ)
+[leader+obeisance](nihantrenamaḥ) [time+to+obeisance](kālāyanamaḥ) [brahman+obeisance](brahmaṇenamaḥ)
 
 ## mukta-m0-p122-v3038
-[obeisance+to+pitāmaha](pitāmahāyanamaḥ) [obeisance+to+four+faced](caturmmukhāyanamaḥ)
+[father+grandfather+to+obeisance](pitāmahāyanamaḥ) [four+faced+to+obeisance](caturmmukhāyanamaḥ)
 
 ## mukta-m0-p122-v3039
-[obeisance+to+great+liṅga](mahāliṅgāyanamaḥ) [obeisance+to+beautiful+liṅga](cāruliṅgāyanamaḥ)
+[great+liṅga+to+obeisance](mahāliṅgāyanamaḥ) [beautiful+liṅga+to+obeisance](cāruliṅgāyanamaḥ)
 
 ## mukta-m0-p122-v3040
-[obeisance+to+liṅga+overlord](liṅgādhyakṣāyanamaḥ) [obeisance+to+gods+overlord](surādhyakṣāyanamaḥ)
+[liṅga+overlord+to+obeisance](liṅgādhyakṣāyanamaḥ) [gods+overlord+to+obeisance](surādhyakṣāyanamaḥ)
 
 ## mukta-m0-p122-v3041
-[obeisance+to+yoga+overlord](yogādhyakṣāyanamaḥ) [obeisance+to+yuga+bringer](yugāvahāyanamaḥ)
+[yoga+overlord+to+obeisance](yogādhyakṣāyanamaḥ) [yuga+bringer+to+obeisance](yugāvahāyanamaḥ)
 
 ## mukta-m0-p122-v3042
-[obeisance+to+seed+overlord](bījādhyakṣāyanamaḥ) [obeisance+to+seed+maker](bījakarttrenamaḥ)
+[seed+overlord+to+obeisance](bījādhyakṣāyanamaḥ) [seed+maker+obeisance](bījakarttrenamaḥ)
 
 ## mukta-m0-p122-v3043
-[obeisance+to+self+followed](adhyātmānugatāyanamaḥ) [obeisance+to+bala](balāyanamaḥ) [obeisance+to+itihāsa](itihāsāyanamaḥ)
+[self+followed+to+obeisance](adhyātmānugatāyanamaḥ) [strength+to+obeisance](balāyanamaḥ) [itihāsa+to+obeisance](itihāsāyanamaḥ)
 
 ## mukta-m0-p122-v3044
-[obeisance+to+vaśya](vaśyāyanamaḥ) [obeisance+to+vaśa+maker](vaśakarāyanamaḥ) [obeisance+to+kala](kalayenamaḥ)
+[submissive+to+obeisance](vaśyāyanamaḥ) [control+maker+to+obeisance](vaśakarāyanamaḥ) [time+to+obeisance](kalayenamaḥ)
 
 ## mukta-m0-p122-v3045
-[obeisance+to+loka+maker](lokakarttrenamaḥ) [obeisance+to+paśupati](paśupatayenamaḥ) [obeisance+to+great+maker](mahākarttrenamaḥ)
+[world+maker+obeisance](lokakarttrenamaḥ) [lord+of+beasts+to+obeisance](paśupatayenamaḥ) [great+maker+obeisance](mahākarttrenamaḥ)
 
 ## mukta-m0-p122-v3046
-[obeisance+to+no+medicine](anauṣadhāyanamaḥ) [obeisance+to+akṣara](akṣarāyanamaḥ) [obeisance+to+supreme+brahman](paramabrahmaṇenamaḥ)
+[no+medicine+to+obeisance](anauṣadhāyanamaḥ) [imperishable+to+obeisance](akṣarāyanamaḥ) [supreme+brahman+obeisance](paramabrahmaṇenamaḥ)
 
 ## mukta-m0-p122-v3047
-[obeisance+to+mighty](balavatenamaḥ) [obeisance+to+śakra](śakrāyanamaḥ) [obeisance+to+nīti](nītayenamaḥ)
+[strong+obeisance](balavatenamaḥ) [śakra+to+obeisance](śakrāyanamaḥ) [policy+to+obeisance](nītayenamaḥ)
 
 ## mukta-m0-p122-v3048
-[obeisance+to+anīti](anītayenamaḥ) [obeisance+to+pure+self](śuddhātmanenamaḥ) [obeisance+to+pure](śuddhāyanamaḥ)
+[no+policy+to+obeisance](anītayenamaḥ) [pure+self+obeisance](śuddhātmanenamaḥ) [pure+to+obeisance](śuddhāyanamaḥ)
 
 ## mukta-m0-p122-v3049
-[obeisance+to+honored](mānyāyanamaḥ) [obeisance+to+gone+come](gatāgatāyanamaḥ) [obeisance+to+much+grace](bahuprasādāyanamaḥ)
+[honored+to+obeisance](mānyāyanamaḥ) [gone+come+to+obeisance](gatāgatāyanamaḥ) [much+grace+to+obeisance](bahuprasādāyanamaḥ)
 
 ## mukta-m0-p122-v3050
-[obeisance+to+veda+maker](vedakārāyanamaḥ) [obeisance+to+mantra+maker](mantrakārāyanamaḥ) [obeisance+to+wise](viduṣenamaḥ)
+[veda+maker+to+obeisance](vedakārāyanamaḥ) [mantra+maker+to+obeisance](mantrakārāyanamaḥ) [wise+obeisance](viduṣenamaḥ)
