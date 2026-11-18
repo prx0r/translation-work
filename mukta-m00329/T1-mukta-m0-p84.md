@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p84-v2076
-[desired+relative+people](iṣṭa+bandhu+jane) [together-with](sārdhaṃ) [sacrificer+accompanied](yajamāna+samanvitam)
+[beloved-friends](iṣṭabandhujane) [with](sārdhaṃ) [sacrificer](yajamānasamanvitam)
 
 ## mukta-m0-p84-v2077
-[by-this](anena) [rule+path](vidhi+mārgeṇa) [having-bathed](snātvā) [in-that+water+circle](tat+vāri+maṇḍale)
+[by-this](anena) [ritual-path](vidhimārgeṇa) [having-bathed](snātvā) [in-that-water-circle](tadvārimaṇḍale)
 
 ## mukta-m0-p84-v2078
-[great+peace+vow](mahā+śānti+vrata) [having-seen](dṛṣṭvā) [having-bowed](natvā) [liṅga+thousand](liṅga+sahasrakam)
+[great-peace-vow](mahāśāntivrata) [having-seen](dṛṣṭvā) [having-bowed](natvā) [thousand-lingas](liṅgasahasrakam)
 
 ## mukta-m0-p84-v2079
-[teacher](ācārya) [should-worship](pūjayet) [there](tatra) [with-cow+land+gold+etc](go+bhūmi+kāñcana+ādikaiḥ)
+[teacher](ācārya) [should-worship](pūjayet) [there](tatra) [with-cow-land-gold-etc](gobhūmikāñcanādikaiḥ)
 
 ## mukta-m0-p84-v2080
-[great+peace+vow](mahā+śānti+vrataṃ) [declared](proktaṃ) [Gauri+vow](gauri+vratam) [now](atha) [listen](śṛṇu)
+[great-peace-vow](mahāśāntivrataṃ) [declared](proktaṃ) [gauri-vow](gaurivratam) [now](atha) [hear](śṛṇu)
 
 ## mukta-m0-p84-v2081
-[life+health+victory+giving](āyuḥ+ārogya+jaya+daṃ) [son+grandson+prosperity+giving](putra+pautra+samṛddhi+dam)
+[life-health-victory-giving](āyurārogyajayadaṃ) [sons-grandsons-prosperity-giving](putrapautrasamṛddhidam)
 
 ## mukta-m0-p84-v2082
-[from-ploughing+to-worship](karṣaṇa+ādi+arcana+antaṃ) [indeed](tu) [young+sprout](taruṇa+āla) [should-collect](saṃgrahet)
+[plowing-etc-worship-ending](karṣaṇādyarcanāntaṃ) [tu](tu) [young-lazy-one-should-gather](taruṇālasaṃgrahet)
 
 ## mukta-m0-p84-v2083
-[other](anyāni) [all](sarva) [rites](karmāṇi) [declared](bhāṣitāni) [same](samāni) [and](ca)
+[other](anyāni) [all](sarva) [acts](karmāṇi) [spoken](bhāṣitāni) [equal](samāni) [ca](ca)
 
 ## mukta-m0-p84-v2084
-[after-that](tat+ūrdhve) [childhood+state](bāla+bālyatvaṃ) [therefore](tasmān) [in-root](mūle) [should-enter](praveśayet)
+[thereafter](tadūrdhve) [childhood](bālabālyatvaṃ) [therefore](tasmān) [at-root](mūle) [should-enter](praveśayet)
 
 ## mukta-m0-p84-v2085
-[twenty+cubit](viṃśat+hasta) [extent](pravistāram) [best](uttamaṃ) [pavilion](maṇḍapaṃ) [should-be](bhavet)
+[twenty-hands](viṃśaddhasta) [wide](pravistāram) [best](uttamaṃ) [pavilion](maṇḍapaṃ) [becomes](bhavet)
 
 ## mukta-m0-p84-v2086
-[thirty-six+night+joined](ṣat+triṃśat+grātra+saṃyuktam) [best](uttamaṃ) [pavilion](maṇḍapaṃ) [is-remembered](smṛtam)
+[thirty-six-nights](ṣattriṃśadgrātrasaṃyuktam) [best](uttamaṃ) [pavilion](maṇḍapaṃ) [remembered](smṛtam)
 
 ## mukta-m0-p84-v2087
-[in-directions](diśiśca) [and-in-intermediate-directions](vidiśiśca) [indeed](eva) [without-holes](nicchidraṃ) [sky+born](vyoma+saṃbhavam)
+[in-directions-and-subdirections](diśiśca+vidiśiścaiva) [without-gaps](nicchidraṃ) [sky-born](vyomasaṃbhavam)
 
 ## mukta-m0-p84-v2088
-[canopy+banner+joined](vitāna+dhvaja+saṃyuktaṃ) [grass+garland+covered](darbha+mālā+samāvṛtam)
+[canopy-banner-equipped](vitānadhvajasaṃyuktaṃ) [darbha-garland-surrounded](darbhamālāsamāvṛtam)
 
 ## mukta-m0-p84-v2089
-[pillars](stambhāni) [should-wrap](veṣṭayet) [there](tatra) [each](pratyekaṃ) [cloth+wrapped](vastra+veṣṭitam)
+[pillars](stambhāni) [should-wrap](veṣṭayet) [there](tatra) [each](pratyekaṃ) [cloth-wrapped](vastraveṣṭitam)
 
 ## mukta-m0-p84-v2090
-[cubit+measure](ratni+mātram) [height](utsedhaṃ) [mirror+belly+resembling](darpaṇa+udara+sannibhaṃ)
+[cubit-measure](ratnimātram) [height](utsedhaṃ) [mirror-belly-like](darpaṇodarasannibhaṃ)
 
 ## mukta-m0-p84-v2091
-[four+finger+height](yuga+aṅgula+samutsedhaṃ) [double](dviguṇaṃ) [circumference](nīvṛm) [is-called](ucyate)
+[yuga-angula-height](yugāṅgulasamutsedhaṃ) [double](dviguṇaṃ) [niivru](nīvṛmucyate)
 
 ## mukta-m0-p84-v2092
-[nine+fire](nava+agni) [or](vā) [five+fire](pañca+agniṃ) [one+fire](eka+agniṃ) [should-perform](samudācaret)
+[nine-fires-or-five-fires](navāgnivātha+pañcāgniṃ) [one-fire](ekāgniṃ) [should-perform](samudācaret)
 
 ## mukta-m0-p84-v2093
-[ear+half](śrotra+ardhāṃ) [by-measure](śoccamānena) [area](kṣetraṃ) [five+one+part](pañca+eka+bhāgikam)
+[half-ear](śrotrārdhāṃ) [burning](śoccamānena) [field](kṣetraṃ) [five-one-part](pañcaikabhāgikam)
 
 ## mukta-m0-p84-v2094
-[womb+pit](yoni+kuṇḍaṃ) [then](tataḥ) [having-made](kṛtvā) [characteristics](lakṣaṇaṃ) [properly](samyak) [should-perform](ācaret)
+[yoni-pit](yonikuṇḍaṃ) [then](tataḥ) [having-made](kṛtvā) [mark](lakṣaṇaṃ) [properly](samyag) [should-do](ācaret)
 
 ## mukta-m0-p84-v2095
-[benediction](puṇyāhaṃ) [should-cause-to-recite](vācayet) [there](tatra) [brahmins](brahmaṇān) [should-feed](bhojayet) [then](tataḥ)
+[auspicious-day](puṇyāhaṃ) [should-recite](vācayet) [there](tatra) [brahmins](brahmaṇān) [should-feed](bhojayet) [then](tataḥ)
 
 ## mukta-m0-p84-v2096
-[?](samaryavade) [properly](samyak) [Vāstu+offering](vāstu+homaṃ) [indeed](tu) [should-cause-to-perform](kārayet)
+[with-assembly](samaryavade) [properly](samyag) [vastu-homa](vāstu) [homa](homaṃ) [tu](tu) [should-cause](kārayet)
 
 ## mukta-m0-p84-v2097
-[having-done](kṛtvā) [indeed](tu) [according-to-rule](vidhinā) [bathing](snātvanaṃ) [white+sandal+anointed](śukla+candana+lepitaṃ)
+[having-done](kṛtvā) [tu](tu) [ritual](vidhinā) [bathing](snātvanaṃ) [white-sandal-anointed](śuklacandanalepitaṃ)
 
 ## mukta-m0-p84-v2098
-[sprouts](aṅkurān) [should-offer](arpayed) [wise-one](dhīmān) [place+purification](sthāna+śuddhi) [should-perform](samācaret)
+[sprouts](aṅkurān) [should-offer](arpayed) [wise](dhīmān) [place-purification](sthānaśuddhi) [should-do](samācaret)
 
 ## mukta-m0-p84-v2099
-[womb+chamber](garbha+gehaṃ) [having-entered](praviśya) [then](atha) [place+purification](sthāna+śuddhiṃ) [then](tataḥ) [should-do](kuru)
+[inner-sanctum](garbhagehaṃ) [having-entered](praviśyātha) [place-purification](sthānaśuddhiṃ) [then](tataḥ) [do](kuru)
 
 ## mukta-m0-p84-v2100
-[benediction](puṇyāhaṃ) [indeed](tu) [then](tataḥ) [having-done](kṛtvā) [with-pure+water](śuddha+udaiḥ) [should-sprinkle](abhiṣecayet)
+[auspicious-day](puṇyāhaṃ) [tu](tu) [then](tataḥ) [having-done](kṛtvā) [with-pure-water](śuddhodairabhiṣecayet)

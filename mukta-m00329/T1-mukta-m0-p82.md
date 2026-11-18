@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p82-v2026
-twenty-four-finger-length(caturviṃśāṅgulaṃ) up-to(yāvat) wooden-liṅga(dāru+līṅga) one-should-fashion(prakalpayet)
+[twenty-four-angula](caturviṃśāṅgulaṃ) [as-far-as](yāvad) [wooden+linga+should-be-made](dārulīṅgaprakalpayet)
 
 ## mukta-m0-p82-v2027
-three-māṣas(māṣa+trayaṃ) beginning-from(samārabhya) by-one-māṣa(māṣa+ekena) by-increase(vivarddhanāt)
+[three-masha](māṣatrayaṃ) [beginning](samārabhya) [by-one-masha](māṣaikena) [increase](vivarddhanāt)
 
 ## mukta-m0-p82-v2028
-one-should-fashion(kalpayet) temporary(kṣaṇikaṃ) liṅga(liṅgaṃ) according-to-desire(yathā+kāmaṃ) having-measure(pramāṇakam)
+[should-make](kalpayet) [momentary](kṣaṇikaṃ) [linga](liṅgaṃ) [as-desired](yathākāmaṃ) [measure](pramāṇakam)
 
 ## mukta-m0-p82-v2029
-in-liṅga-height(liṅga+yāme) but(tu) in-four-parts(veda+aṃśe) one-part(eka+aṅgaṃ) liṅga-width(liṅga+vistṛtam)
+[linga+height](liṅgayāme) [veda+part](vedāṃśe) [one-angula](ekāṅgaṃ) [linga+width](liṅgavistṛtam)
 
 ## mukta-m0-p82-v2030
-in-liṅga-height(liṅga+yāme) in-three-parts(guṇa+aṃśe) one-part(aṃśaṃ) at-its-base(tat+mūle) square(caturaśrakam)
+[linga+height](liṅgayāme) [guna+part+part](guṇāṃśeṃśaṃ) [that+base](tanmūle) [square](caturaśrakam)
 
 ## mukta-m0-p82-v2031
-with-brahma-sūtra(sūtra+upeta) or(vā) without(vihīnaṃ) with-umbrella-shaped-top(chatra+ākāra+śiras+anvitam)
+[with-thread+without](sūtropetavihīnaṃ) [or](vā) [umbrella-maker+head+possessed](chatrakāraśironvitam)
 
 ## mukta-m0-p82-v2032
-in-one-liṅga(eka+liṅge) or(athavā) one-should-make(kuryāt) especially-for-all-liṅgas(sarva+liṅga+viśeṣataḥ)
+[in-one-linga+or](ekaliṅge'dhavā) [should-do](kuryāt) [all+linga+special](sarvaliṅgaviśeṣataḥ)
 
 ## mukta-m0-p82-v2033
-one-part(eka+aṃśaṃ) pedestal-band(pīṭha+bandhaṃ) should-be(syāt) one-part(eka+aṃśam) fit-for-worship(arcana+arhakam)
+[one-part](ekāṃśaṃ) [pedestal+bond](pīṭhabandhaṃ) [should-be](syāt) [one-part](ekāṃśam) [worship-worthy](arcanārhakam)
 
 ## mukta-m0-p82-v2034
-worship-section(pūjā+bhāgaṃ) three-parts(tri+bhāgaṃ) should-be(syāt) in-seven-parts(sapta+bhāge) three-sections(tri+kolakam)
+[worship+part](pūjābhāgaṃ) [three-parts](tribhāgaṃ) [should-be](syāt) [seven-parts](saptabhāge) [three-peaks](trikolakam)
 
 ## mukta-m0-p82-v2035
-worship-part-height(pūjā+aṃśa+udaya+tuṅgaṃ) but(tu) in-twenty-five-divisions(pañcaviṃśati+bhā+atije)
+[worship+part+height](pūjāṃśodayatuṅgaṃ) [tu](tu) [twenty-five+part](pañcaviṃśatibhātije)
 
 ## mukta-m0-p82-v2036
-thousand-liṅgas(sahasra+liṅgam) thus(evaṃ) indeed(hi) of-ten-thousand(ayutasya) rule(vidhi) hear(śṛṇu)
+[thousand-linga](sahasraliṅgamevaṃ) [hi](hi) [of-ten-thousand](ayutasya) [rite](vidhi) [hear](śṛṇu)
 
 ## mukta-m0-p82-v2037
-into-forty-parts(catvāriṃśat+aṃśa) or-fifty-parts(pañcā+aṃśaṃ) having-made(kṛtvā) with-liṅgas(liṅga+yutaṃ) should-be(bhavet)
+[forty+part](catvāriṃśeṃśa) [five+part](pañcāṃśaṃ) [having-made](kṛtvā) [linga+ten-thousand](liṅgayutaṃ) [becomes](bhavet)
 
 ## mukta-m0-p82-v2038
-by-fifteen(eka+pañcādaśena) five-hundred-liṅgas(liṅga+pañca+śataṃ) should-be(bhavet)
+[one-five-ten](ekapañcādaśena) [linga+five-hundred](liṅgapañcaśataṃ) [becomes](bhavet)
 
 ## mukta-m0-p82-v2039
-one-hundred-and-eight(aṣṭa+uttara+śataṃ) liṅgas(liṅgaṃ) all-around(paritaḥ) one-should-arrange(saṃprakalpayet)
+[hundred-eight](aṣṭottaraśataṃ) [linga](liṅgaṃ) [around](paritaḥ) [should-arrange](saṃprakalpayet)
 
 ## mukta-m0-p82-v2040
-of-twenty-five-liṅgas(pañcaviṃśati) liṅga(liṅgasya) should-be(syāt) when-divided-into-fifty(pañcāśat+vibhaje) being(sati)
+[twenty-five](pañcaviṃśati) [of-linga](liṅgasyāt) [fifty](pañcāśadvibhaje) [sati](sati)
 
 ## mukta-m0-p82-v2041
-of-small-liṅga(alpa+liṅgasya) half-of-width(tāra+ardhaṃ) or(vā) a-quarter(pādaṃ) or(vā) an-eighth-part(aṣṭa+aṃśam) indeed(eva) or(vā)
+[small-linga](alpaliṅgasya) [half-star](tārārdhaṃ) [foot](pādaṃ) [or](vā) [eighth](aṣṭāṃśameva) [or](vā)
 
 ## mukta-m0-p82-v2042
-that-measure(tat+mānam) of-small-liṅga(alpa+liṅgasya) from-great-liṅga(mahā+liṅgāt) derived(vinirgataḥ)
+[that-measure](tanmānam) [small-linga](alpaliṅgasya) [from-great-linga](mahāliṅgādvinirgataḥ)
 
 ## mukta-m0-p82-v2043
-intermediate-space(antarāla) should-be(bhavet) liṅga(liṅgaṃ) in-middle(madhya) one-should-determine(saṅkalpayet) in-order(kramāt)
+[interval](antarāla) [becomes](bhavelliṅgaṃ) [middle](madhya) [should-plan](saṅkalpayet) [in-order](kramāt)
 
 ## mukta-m0-p82-v2044
-great-liṅga-top-measure(mahā+liṅga+śiras+mānaṃ) in-middle(madhya) one-should-determine(saṅkalpayet) in-order(kramāt)
+[great-linga+head+measure](mahāliṅgaśiromānaṃ) [middle](madha) [should-plan](saṅkalpayet) [in-order](kramāt)
 
 ## mukta-m0-p82-v2045
-of-liṅgas(liṅgānām) also(api) of-all(sarveṣāṃ) without-brahma-sūtra(sūtra+hīnaṃ) one-should-make(prakalpayet)
+[of-lingas](liṅgānāmapi) [all](sarveṣāṃ) [without-thread](sūtrahīnaṃ) [should-make](prakalpayet)
 
 ## mukta-m0-p82-v2046
-thus(evaṃ) endowed-with-characteristics(lakṣaṇa+saṃyuktaṃ) liṅga(liṅgaṃ) should-accept(saṅgrāhayet) the-wise(budhaḥ)
+[thus](evaṃ) [with-characteristics](lakṣaṇasaṃyuktaṃ) [linga](liṅgaṃ) [should-grasp](saṅgrāhayed) [wise](budhaḥ)
 
 ## mukta-m0-p82-v2047
-having-determined(niścitya) before-the-day(divasāt+pūrva) in-the-evening(sāyānna) should-consecrate(samayed) the-wise(budhaḥ)
+[having-decided](niścitya) [from-days](divasātpūrva) [evening](sāyānna) [should-not-mix](samayed) [wise](budhaḥ)
 
 ## mukta-m0-p82-v2048
-having-entered-the-pavilion(prapā+maṇḍapam+āviśya) purification-of-elements(bhūta+śuddhim) one-should-perform(samācaret)
+[entering](prapāmaṇḍapamāviśyā) [bhuta-purification](bhūtaśuddhisamācaret)
 
 ## mukta-m0-p82-v2049
-liṅga-number(liṅga+saṅkhya) one-should-recite-mūla-mantra(japet+mūlaṃ) accompanied-by-patron(yajamāna+samanvitam)
+[linga+number](liṅgasaṅkhya) [japa](japenmūlaṃ) [with-sacrificer](yajamānasamanvitam)
 
 ## mukta-m0-p82-v2050
-on-northern-side(maṇḍapasya+uttare) on-side(pārśve) one-should-lay-down(śāyayet) upon-sand(saikata+upari)
+[of-pavilion](maṇḍapasyottare) [side](pārśve) [should-lay](śāyayet) [on-sand](saikatopari)
