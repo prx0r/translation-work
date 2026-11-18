@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p89-v2201
-[sudhā](sudhā) [saṃpūrṇa](saṃpūrṇa) [kalaśa](kalaśa) [kara](kara) [abja](abja) [aśva](aśva) [vāhana](vāhana) [au](au)
+[nectar-full](sudhāsaṃpūrṇa) [pot](kalaśa) [hand-lotus](karābja) [horse-vehicle](aśvavāhanau)
 
 ## mukta-m0-p89-v2202
-[yātrā](yātrā) [abhiṣeka](abhiṣeka) [makha](makha) [dīkṣaṇa](dīkṣaṇa) [caula](caula) [mauṃjī](mauṃjī) [ḥ](ḥ) [kurvaṃti](kurvaṃti) [śāṃtika](śāṃtika) [vidhāna](vidhāna) [mathā](mathā) [aśvinī](aśvinī) [ṣu](ṣu)
+[journey-ablution](yātrābhiṣeka) [sacrifice-initiation](makhadīkṣaṇa) [tonsure-sacred-thread](caulamauṃjīḥ) [do](kurvaṃti) [peace-rite](śāṃtikavidhānam) [then-in-aśvinī](athāśvinīṣu)
 
 ## mukta-m0-p89-v2203
-[yamaṃ](yamaṃ) [nīlaṃ](nīlaṃ) [bhaje](bhaje) [bhīmaṃ](bhīmaṃ) [suvarṇa](suvarṇa) [pratimā](pratimā) [gataṃ](gataṃ)
+[yama](yamaṃ) [blue](nīlaṃ) [worship](bhaje) [bhīma](bhīmaṃ) [golden-image](suvarṇapratimāgatam)
 
 ## mukta-m0-p89-v2204
-[dyutā](dyutā) [abhicāra](abhicāra) [vidhi](vidhi) [maṃtra](maṃtra) [bila](bila) [praveśa](praveśa) [kanyā](kanyā) [janāni](janāni) [yama](yama) [bhe](bhe) [kila](kila) [yāṃti](yāṃti) [siddhiṃ](siddhiṃ)
+[black-magic](abhicāra) [rite-mantra](vidhimaṃtra) [cave-entry](bilapraveśa) [girl-people](kanyājanāni) [in-yama-nakṣatra](yamabhe) [attain-siddhi](kilayāṃtisiddhim)
 
 ## mukta-m0-p89-v2205
-[ekādaśa](ekādaśa) [ahāt](ahāt) [sukhī](sukhī) [bhavati](bhavati)
+[eleven-days](ekādaśāhāt) [happy](sukhībhavatī) [first-menstruation](prathamarajasvalā) [widow](vidhavābhavati) [fierce-works](ugrakāryāṇi) [auspicious](praśastāni)
 
 ## mukta-m0-p89-v2206
-[sruk](sruk) [sruvā](sruvā) [bhīti](bhīti) [vara](vara) [dhṛk](dhṛk) [catur](catur) [hastaṃ](hastaṃ) [namāmi](namāmi) [aham](aham)
+[spoon-ladle](sruksruvā) [fear-protection](abhīti) [varadha](varadhṛk) [four-handed](caturhastaṃ) [bow](namāmyaham)
 
 ## mukta-m0-p89-v2207
-[maṃtra](maṃtra) [oṣadhī](oṣadhī) [rasa](rasa) [rasāyana](rasāyana) [sādhakāni](sādhakāni) [sidhyaṃti](sidhyaṃti) [vahni](vahni) [vihitāni](vihitāni) [hutāśana](hutāśana) [rkṣe](rkṣe)
+[mantra-herb-elixir](maṃtrauṣadhīrasarasāyana) [sādhaka](sādhakāni) [succeed](sidhyaṃti) [fire](vahni) [ordained](vihitāni) [fire-star](hutāśanarkṣe)
 
 ## mukta-m0-p89-v2208
-[sita](sita) [keśaḥ](keśaḥ) [gaṃbhīra](gaṃbhīra) [śarīraḥ](śarīraḥ) [vāma](vāma) [bhāge](bhāge) [matsya](matsya) [aṃkitaḥ](aṃkitaḥ) [aśīti](aśīti) [varṣāṇi](varṣāṇi) [paramāyuḥ](paramāyuḥ)
+[white-hair](sitakeśaḥ) [deep-body](gaṃbhīraśarīraḥ) [left-side-fish-mark](vāmabhāgematsyāṃkitaḥ) [eighty-years](aśītivarṣāṇi) [max-lifespan](paramāyur)
 
 ## mukta-m0-p89-v2209
-[varā](varā) [abhaya](abhaya) [karaḥ](karaḥ) [śuddha](śuddha) [rohiṇī](rohiṇī) [devatā](devatā) [astu](astu) [me](me)
+[boon-fear-hand](varābhayakaraḥ) [pure](śuddha) [rohiṇī-deity](rohiṇīdevatā) [to-you](stume)
 
 ## mukta-m0-p89-v2210
-[śālī](śālī) [ikṣu](ikṣu) [vṛkṣa](vṛkṣa) [vrata](vrata) [baṃdhana](baṃdhana) [vāhana](vāhana) [ni](ni) [navya](navya) [aṃbara](aṃbara) [ābharaṇa](ābharaṇa) [bhūṣaṇa](bhūṣaṇa) [abja](abja) [jarkṣe](jarkṣe)
+[rice-sugarcane-tree](śālīkṣuvṛkṣa) [vow-binding](vratabaṃdhana) [vehicle](vāhana) [new-garment-ornament](navyāṃbarābharāṇa) [adorn](bhūṣaṇam) [lotus-star](abjajarkṣe)
 
 ## mukta-m0-p89-v2211
-[rohiṇī](rohiṇī) [śakaṭa](śakaṭa) [ākāraṃ](ākāraṃ) [paṃca](paṃca)
+[rohiṇī-cart-shaped](rohiṇīśakaṭākāraṃ) [five](paṃca) [black-color](kṛṣṇavarṇam) [five-stars](paṃcatārāḥ) [cart-form](śakaṭākṛtiḥ) [male](pumān) [human-class](manuṣyagaṇaḥ)
 
 ## mukta-m0-p89-v2212
-[daśa](daśa) [aśva](aśva) [ratha](ratha) [mārūḍhaḥ](mārūḍhaḥ) [mṛgaśīrṣa](mṛgaśīrṣa) [ostu](ostu) [me](me) [ude](ude)
+[ten-horse-chariot](daśāśvaratham) [mounted](ārūḍho) [mṛgaśīrṣa](mṛgaśīrṣo) [to-me](stume) [delight](mude)
 
 ## mukta-m0-p89-v2213
-[śāṃti](śāṃti) [snāna](snāna) [nṛpa](nṛpa) [abhiṣeka](abhiṣeka) [niyamān](niyamān) [deva](deva) [agni](agni) [pitṛ](pitṛ) [arcanaṃ](arcanaṃ) [kuryāt](kuryāt) [śāṃtika](śāṃtika) [pauṣṭika](pauṣṭika) [ādi](ādi) [śubhadaṃ](śubhadaṃ) [caṃdra](caṃdra) [rkṣa](rkṣa) [bhe](bhe) [saṃyute](saṃyute)
+[peace-bath](śāṃtisnāna) [king-ablution](nṛpābhiṣeka) [vows](niyamān) [deity-fire-ancestors](devāgnipitrarcanaṃ) [do](kuryāt) [peace-increase](śāṃtikapauṣṭikādi) [auspicious](śubhadaṃ) [moon-star](caṃdrarkṣabhe) [joined](saṃyute)
 
 ## mukta-m0-p89-v2214
-[śūla](śūla) [khaḍga](khaḍga) [abhaya](abhaya) [varān](varān) [da](da) [dhāno](dhāno) [me](me) [prasīdatu](prasīdatu)
+[trident-sword](śūlakhaḍga) [boon-fear](abhayavara) [to-dhānu](da dhānome) [be-pleased](prasīdatu)
 
 ## mukta-m0-p89-v2215
-[rakṣo](rakṣo) [bhūta](bhūta) [piśāca](piśāca) [yakṣa](yakṣa) [kagaṇā](kagaṇā) [deśaṃ](deśaṃ) [tathā](tathā) [uccāṭanaṃ](uccāṭanaṃ) [yat](yat) [ca](ca) [anya](anya) [d](d) [bali](bali) [raudra](raudra) [karma](karma) [kathitaṃ](kathitaṃ) [raudra](raudra) [ārdrā](ārdrā) [bhe](bhe) [kārayet](kārayet)
+[demon-ghost](rakṣobhūta) [piśāca-yakṣa](piśācayakṣa) [troop](gaṇādeśaṃ) [thus](tathā) [expulsion](uccāṭanaṃ) [other](yaccānyad) [offering](baliraudra) [cruel-work](karmakathitaṃ) [fierce-ārdrā](raudrārdrabhekārayet)
 
 ## mukta-m0-p89-v2216
-[ārdrā](ārdrā) [pravāla](pravāla) [mekam](mekam)
+[ārdrā-coral](ārdrāpravāla) [one](mekam) [red-color](raktavarṇā) [one-star](ekatārā) [woman](strī) [human-class](manuṣyagaṇaḥ) [bitch-womb](śunīyoniḥ)
 
 ## mukta-m0-p89-v2217
-[dadhānā](dadhānā) [śubhadā](śubhadā) [me](me) [syāt](syāt) [punarvasu](punarvasu) [kṛtāhvayā](kṛtāhvayā)
+[holding](dadhānā) [inauspicious](aśubhadā) [to-me](mesyāt) [punarvasu](punarvasukṛtāhvayā)
 
 ## mukta-m0-p89-v2218
-[āṃdolikā](āṃdolikā) [ādi](ādi) [vara](vara) [vāhana](vāhana) [śastra](śastra) [śayyā](śayyā) [alaṃkāra](alaṃkāra) [m](m) [api](api) [aditi](aditi) [bhe](bhe) [vidadhīta](vidadhīta) [nūnam](nūnam)
+[palanquin](āṃdolikādi) [excellent-vehicle](varavāhana) [weapon-bed](śastraśayyā) [ornament](alaṃkāram) [also](apyaditi) [star](bhe) [do](vidadhītanūnam)
 
 ## mukta-m0-p89-v2219
-[punarvasū](punarvasū) [taṭākaṃ](taṭākaṃ) [paṃca](paṃca)
+[punarvasu-tank](punarvasūtaṭākaṃ) [five](paṃca) [black-color](kṛṣṇavarṇaḥ) [five-stars](paṃcatārāḥ) [house-staff-form](gṛhadaṃḍākṛtiḥ) [male](pumān) [divine-class](devagaṇaḥ)
 
 ## mukta-m0-p89-v2220
-[sarvā](sarvā) [bharaṇa](bharaṇa) [saṃpannaṃ](saṃpannaṃ) [deva](deva) [maṃtriṇam](maṃtriṇam) [ādarāt](ādarāt)
+[all-ornament](sarvābharaṇa) [endowed](saṃpannaṃ) [deity-minister](devamaṃtriṇam) [respectfully](ādarāt)
 
 ## mukta-m0-p89-v2221
-[veda](veda) [abhyāsa](abhyāsa) [su](su) [śāstra](śāstra) [saṃgraha](saṃgraha) [vidhiḥ](vidhiḥ) [śastra](śastra) [astra](astra) [śikṣā](śikṣā) [paṇaṃ](paṇaṃ) [maṃtra](maṃtra) [ārādhana](ārādhana) [devatā](devatā) [arcana](arcana) [bhiṣak](bhiṣak) [kāryaṃ](kāryaṃ) [nṛpa](nṛpa) [ālokanam](ālokanam) [kuryāt](kuryāt) [śāṃtika](śāṃtika) [pauṣṭika](pauṣṭika) [āni](āni) [nṛpateḥ](nṛpateḥ) [yātrā](yātrā) [abhiṣekaṃ](abhiṣekaṃ) [tathā](tathā) [puṣya](puṣya) [rkṣe](rkṣe) [vara](vara) [citra](citra) [vastra](vastra) [nicaya](nicaya) [alaṃkāra](alaṃkāra) [saṃdhāraṇam](saṃdhāraṇam)
+[veda-study](vedābhyāsa) [good-scripture](suśāstra) [collection-rite](saṃgrahavidhi) [weapon-training](śastrāstraśikṣā) [mantra-worship](maṃtrārādhana) [deity-rite](devatārcana) [physician-work](bhiṣakkāryaṃ) [king-seeing](nṛpālokanam)
 
 ## mukta-m0-p89-v2222
-[hū](hū) [he](he) [ho](ho) [ḍā](ḍā) [puṣyam](puṣyam)
+[hu-he-ho-ḍā](hū he ho ḍā) [puṣya](puṣyam) [white-color](śvetavarṇaḥ) [three-stars](tritārā) [arrow-form](śarākṛtiḥ) [male](pumān) [divine-class](devagaṇaḥ)
 
 ## mukta-m0-p89-v2223
-[āśleṣā](āśleṣā) [devatā](devatā) [pīta](pīta) [aṃbara](aṃbara) [dhṛk](dhṛk) [vara](vara) [dostu](dostu) [me](me)
+[āśleṣā-deity](āśleṣādevatā) [yellow-garment](pītāṃbara) [holding](dhṛg) [boon-hand](varado) [to-you](stume)
 
 ## mukta-m0-p89-v2224
-[kuṃtā](kuṃtā) [asi](asi) [śakti](śakti) [śara](śara) [kārmuka](kārmuka) [saṃgrahaṃ](saṃgrahaṃ) [ca](ca) [kuryāt](kuryāt) [viṣa](viṣa) [praharaṇaṃ](praharaṇaṃ) [khalu](khalu) [sārpa](sārpa) [dhiṣṇye](dhiṣṇye)
+[spear-sword](kuṃtāsi) [spear-bow](śaktiśara) [bow](kārmuka) [collection](saṃgrahaṃ) [do](kuryāt) [poison-strike](viṣapraharaṇaṃ) [indeed](khalu) [serpent-star](sārpadhiṣṇye)
 
 ## mukta-m0-p89-v2225
-[āśleṣā](āśleṣā) [sarpa](sarpa) [ākārā](ākārā) [śaṭ](śaṭ)
+[āśleṣā-serpent-form](āśleṣāsarpākārā) [red-color](raktavarṇaḥ) [six-stars](ṣaṭtārāḥ) [serpent-form](sarpākṛtiḥ) [woman](strī) [demon-class](rākṣasagaṇaḥ) [cat-womb](mārjārayoniḥ)
