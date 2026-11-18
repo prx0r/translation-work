@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p13-v301
-[ādeśī](ādeśī) [veda+vikretā](vedavikretā) [ṣaṭ+ete](ṣaḍete) [śūdra+vat+dvijāḥ](śūdravaddvijāḥ)
+[ādeśī](ādeśī) [veda-vikretā](vedavikretā) [ṣaṭ-ete](ṣaḍete) [śūdra-vat-dvijāḥ](śūdravaddvijāḥ)
 
 ## mukta-m0-p13-v302
 [manuḥ](manuḥ) [dakṣaḥ](dakṣaḥ) [vasiṣṭhaḥ](vasiṣṭhaḥ) [atriḥ](atriḥ) [kātyāyanaḥ](kātyāyanaḥ) [gautamaḥ](gautamaḥ)
 
 ## mukta-m0-p13-v303
-[śaṅkha](śaṅkha) [likhita](likhita) [hārīta](hārīta) [śātātapa](śātātapa) [parāśara](parāśara)
+[śaṅkha-likhita](śaṅkhalikhita) [hārīta](hārīta) [śātātapa](śātātapa) [parāśara](parāśara)
 
 ## mukta-m0-p13-v304
-[na](na) [śaiva+ādi+tipraṣṭhāyām](śaivāditipraṣṭhāyām) [ete](ete) [niprā](niprā) [niyāmakāḥ](niyāmakāḥ)
+[na](na) [śaiva-ādi-tipraṣṭhāyām](śaivāditipraṣṭhāyām) [ete](ete) [niyāmakāḥ](niyāmakāḥ)
 
 ## mukta-m0-p13-v305
-[devyāḥ](devyā) [matam](mataṃ) [mayaṃ](mayaṃ) [nandiṃ](nandiṃ) [pratiṣṭhā](pratiṣṭhā) [pārameśvaram](pārameśvaram)
+[devyāḥ](devyā) [matam](matam) [mayaṃ](mayaṃ) [nandiṃ](nandiṃ) [pratiṣṭhā](pratiṣṭhā) [pārameśvaram](pārameśvaram)
 
 ## mukta-m0-p13-v306
 [śakākhyaṃ](śakākhyaṃ) [vāmadevaṃ](vāmadevaṃ) [ca](ca) [dvidhā](dvidhā) [paitāmahaṃ](paitāmahaṃ) [tathā](tathā)
 
 ## mukta-m0-p13-v307
-[pratiṣṭhā+tantrāṇi](pratiṣṭhātantrāṇi) [etāni](etāni) [śiva+uktāni](śivoktāni) [eka+viṃśatiḥ](ekaviṃśatiḥ)
+[pratiṣṭhā-tantrāṇi](pratiṣṭhātantrāṇi) [etāni](etāni) [śiva-uktāni](śivoktāni) [ekaviṃśatiḥ](ekaviṃśatiḥ)
 
 ## mukta-m0-p13-v308
-[padmottha](padmottha) [mārkaṇḍeya](mārkaṇḍeya) [rambhā](rambhā) [siddha+ādi](siddhādi) [rambhataḥ](rambhataḥ)
+[padmottha-mārkaṇḍeyābhyām](padmotthamārkaṇḍeyābhyāṃ) [rambhā](rambhā) [siddha-ādi](siddhādi) [rambhataḥ](rambhataḥ)
 
 ## mukta-m0-p13-v309
-[mārtaṇḍa+āhrayataḥ](mārtaṇḍāhrayataḥ) [lakṣyaṃ](lakṣyaṃ) [sarvam](sarvam) [etat](etat) [samuccayam](samuccayam)
+[mārtaṇḍa-āhrayataḥ](mārtaṇḍāhrayataḥ) [lakṣyaṃ](lakṣyaṃ) [sarvam-etat-samuccayam](sarvametatsamuccayam)
 
 ## mukta-m0-p13-v310
-[śiva+āśrama+sthitaiḥ](śivāśramasthitaiḥ) [śaivaiḥ](śaivaiḥ) [pratiṣṭhā](pratiṣṭhā) [na](na) [anya+darśanaiḥ](anyadarśanaiḥ)
+[śiva-āśrama-sthitaiḥ](śivāśramasthitaiḥ) [śaivaiḥ](śaivaiḥ) [pratiṣṭhā](pratiṣṭhā) [na-anyadarśanaiḥ](nānyadarśanaiḥ)
 
 ## mukta-m0-p13-v311
-[śaivāḥ](śaivāḥ) [tat](tat) [na](na) [namasyanti](namasyanti) [sthāpitaṃ](sthāpitaṃ) [ca](ca) [anya+darśanaiḥ](anyadarśanaiḥ)
+[śaivāḥ](śaivāḥ) [tat](tat) [na](na) [namasyanti](namasyanti) [sthāpitam](sthāpitaṃ) [ca](ca) [anya-darśanaiḥ](anyadarśanaiḥ)
 
 ## mukta-m0-p13-v312
-[śaiva+saṃskāra+hīnaḥ](śaivasaṃskārahīnaḥ) [tu](tu) [umābhyāṃ](umābhyāṃ) [patati](patati) [dvijaḥ](dvijaḥ)
+[śaiva-saṃskāra-hīnaḥ](śaivasaṃskārahīnaḥ) [tu](tu) [umābhyāṃ](umābhyāṃ) [patati](patati) [dvijaḥ](dvijaḥ)
 
 ## mukta-m0-p13-v313
-[kṛtaṃ](kṛtaṃ) [yat](yat) [vrata+bandha+ādi](vratabandhādi) [tat](tat) [sarvaṃ](sarvaṃ) [niṣphalaṃ](niṣphalaṃ) [bhavet](bhaven)
+[kṛtaṃ](kṛtaṃ) [yat](yat) [vrata-bandha-ādi](vratabandhādi) [tat](tat) [sarvaṃ](sarvaṃ) [niṣphalaṃ](niṣphalaṃ) [bhavet](bhaven)
 
 ## mukta-m0-p13-v314
-[na](na) [bhavet](bhaved) [īpsitaṃ](īpsitaṃ) [tatra](tatra) [vṛthā](vṛtha) [eva](eva) [āsau](āsau) [phariśramaḥ](phariśramaḥ)
+[na](na) [bhavet](bhaved) [īpsitaṃ](īpsitaṃ) [tatra](tatra) [vṛthā](vṛthā) [eva](eva) [asau](asau) [phariśramaḥ](phariśramaḥ)
 
 ## mukta-m0-p13-v315
-[śiva+uktaiḥ](śivoktaiḥ) [ca](ca) [vinā](vinā) [mantraiḥ](mantraiḥ) [tat](tat) [etat](etat) [prāpyate](prāpyate) [katham](katham)
+[śiva-uktaiḥ](śivoktaiḥ) [ca](ca) [vinā](vinā) [mantraiḥ](mantraiḥ) [tat](tat) [etat](etat) [prāpyate](prāpyate) [katham](katham)
 
 ## mukta-m0-p13-v316
-[miśraiḥ](miśraiḥ) [vā](vā) [api](api) [atha](atha) [doṣa+āḍhyaṃ](doṣāḍhyaṃ) [tu](tu) [kumāra+dyukta+śāstrataḥ](kumāradyuktaśāstrataḥ)
+[miśraiḥ](miśrairvāpyatha) [vā](vā) [api](api) [atha](atha) [doṣa-āḍhyaṃ](doṣāḍhyaṃ) [kumāra-ādi-yukta-śāstrataḥ](kumāradyuktaśāstrataḥ)
 
 ## mukta-m0-p13-v317
-[karma+caṇḍaṃ](karmacaṇḍaṃ) [bhavet](bhavet) [tasya](tasya) [karma](karma) [caṇḍālakaḥ](caṇḍālakaḥ) [ca](ca) [saḥ](saḥ)
+[karma-caṇḍaṃ](karmacaṇḍaṃ) [bhavet](bhavet) [tasya](tasya) [karma](karma) [caṇḍālakaḥ](caṇḍālakaḥ) [ca](ca) [saḥ](saḥ)
 
 ## mukta-m0-p13-v318
-[mukti+siddhaṃ](muktisiddhaṃ) [hitaṃ](hitaṃ) [loke](loke) [skanda+uktam](skandoktaṃ) [ca](ca) [atra](atra) [likhyate](likhyate)
+[mukti-siddhaṃ](muktisiddhaṃ) [hitaṃ](hitaṃ) [loke](loke) [skanda-uktam](skandoktaṃ) [ca](ca) [atra](atra) [likhyate](likhyate)
 
 ## mukta-m0-p13-v319
-[kriyā](kriyā) [sā](sā) [na](na) [bhavet](bhavet) [sādhvī](sādhvī) [mantra+saṃkara+dūṣitā](mantrasaṃkaradūṣitā)
+[kriyā](kriyā) [sā](sā) [na](na) [bhavet](bhavet) [sādhvī](sādhvī) [mantra-saṃkara-dūṣitā](mantrasaṃkaradūṣitā)
 
 ## mukta-m0-p13-v320
-[agniṣṭoma+ādayaḥ](agniṣṭomādayaḥ) [yadvat](yadvat) [pratiṣṭhā](pratiṣṭhā) [api](api) [iṣyate](iṣyate) [tathā](tathā)
+[agniṣṭoma-ādayaḥ](agniṣṭomādayo) [yadvat](yadvat) [pratiṣṭhā](pratiṣṭhā) [api](api) [iṣyate](iṣyate) [tathā](tathā)
 
 ## mukta-m0-p13-v321
-[svarga+loka+phalā](svargalokaphalā) [sādhvī](sādhvī) [vijñeyā](vijñeyā) [vaidikī+kriyā](vaidikīkriyā)
+[svarga-loka-phalā](svargalokaphalā) [sādhvī](sādhvī) [vijñeyā](vijñeyā) [vaidikī-kriyā](vaidikīkriyā)
 
 ## mukta-m0-p13-v322
-[vānaspatyaṃ](vānaspatyaṃ) [samāsādya](samāsādya) [saṃsaranti](saṃsaranti) [iha](iha) [yājñikāḥ](yājñikāḥ)
+[vānaspatyaṃ](vānaspatyaṃ) [samāsādya](samāsādya) [saṃsarantīha](saṃsarantīha) [yājñikāḥ](yājñikāḥ)
 
 ## mukta-m0-p13-v323
-[punaḥ](punaḥ) [puṇya+kriyā+kṣīṇaḥ](puṇyakriyākṣīṇaḥ) [sthāvara+ādiṣu](sthāvarādiṣu) [jāyate](jāyate)
+[punaḥ](punaḥ) [puṇya-kriyā-kṣīṇaḥ](puṇyakriyākṣīṇaḥ) [sthāvara-ādiṣu](sthāvarādiṣu) [jāyate](jāyate)
 
 ## mukta-m0-p13-v324
-[tasmāt](tasmāt) [te](te) [munayaḥ](munayaḥ) [sarve](sarva) [śaiva+arthe](śaivārthe) [na](na) [viśāradāḥ](viśāradāḥ)
+[tasmāt](tasmāt) [te](te) [munayaḥ](munayaḥ) [sarva](sarva) [śaiva-arthe](śaivārthe) [na](na) [viśāradāḥ](viśāradāḥ)
 
 ## mukta-m0-p13-v325
-[trayāṇāṃ](trayāṇāṃ) [brahmaṇa+ādīnāṃ](brahmaṇādīnāṃ) [veda+vidyā+pracoditā](vedavidyāpracoditā)
+[trayāṇāṃ](trayāṇāṃ) [brahmaṇa-ādīnāṃ](brahmaṇādīnāṃ) [veda-vidyā-pracoditā](vedavidyāpracoditā)

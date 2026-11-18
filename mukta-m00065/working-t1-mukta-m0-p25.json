@@ -12,23 +12,15 @@
 },
 {
 "surface": "sthāpayelliṅgaṃ",
-"quick_gloss": "should-place+linga"
-},
-{
-"surface": "hastāt",
-"quick_gloss": "from-hand"
-},
-{
-"surface": "pādajam",
-"quick_gloss": "foot-born"
-},
-{
-"surface": "eva",
-"quick_gloss": "indeed"
+"quick_gloss": "should-place"
 },
 {
 "surface": "vā",
 "quick_gloss": "or"
+},
+{
+"surface": "hastātpādajameva",
+"quick_gloss": "from-hand-foot-born"
 }
 ]
 },
@@ -41,11 +33,11 @@
 "tokens": [
 {
 "surface": "gabhādyaśo'rthaputrastrībhūrjayo'rtho",
-"quick_gloss": "etc"
+"quick_gloss": "from-womb-etc"
 },
 {
 "surface": "ghṛṣāyuṣī",
-"quick_gloss": "ghṛṣa+life"
+"quick_gloss": "friction-life"
 }
 ]
 },
@@ -74,7 +66,7 @@
 },
 {
 "surface": "liṅgādantajāttathā",
-"quick_gloss": "from-linga+tooth-born+so"
+"quick_gloss": "from-linga-tooth-born-thus"
 }
 ]
 },
@@ -87,23 +79,19 @@
 "tokens": [
 {
 "surface": "dhvajādyā",
-"quick_gloss": "banner+etc"
+"quick_gloss": "banner-etc"
 },
 {
 "surface": "yaiḥ",
 "quick_gloss": "by-whom"
 },
 {
-"surface": "svaraiḥ",
-"quick_gloss": "with-sounds"
-},
-{
-"surface": "bhūtaiḥ",
-"quick_gloss": "with-beings"
+"surface": "svarairbhūtaiḥ",
+"quick_gloss": "by-sounds"
 },
 {
 "surface": "śikhibhirvā",
-"quick_gloss": "with-peacocks"
+"quick_gloss": "by-peacocks-or"
 },
 {
 "surface": "haretkṛtī",
@@ -120,7 +108,7 @@
 "tokens": [
 {
 "surface": "dhvajādiṣu",
-"quick_gloss": "on-banner+etc"
+"quick_gloss": "in-banner-etc"
 },
 {
 "surface": "dhvajaṃ",
@@ -235,11 +223,11 @@
 },
 {
 "surface": "ṣaḍjo",
-"quick_gloss": "ṣaḍja"
+"quick_gloss": "sixth-note"
 },
 {
 "surface": "gāndhāro",
-"quick_gloss": "gāndhāra"
+"quick_gloss": "gandhara"
 },
 {
 "surface": "janavṛddhikṛt",
@@ -255,12 +243,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "ṛṣabheṇa",
-"quick_gloss": "by-ṛṣabha"
-},
-{
-"surface": "arivṛddhiḥ",
-"quick_gloss": "enemy-increase"
+"surface": "ṛṣabheṇārivṛddhiḥ",
+"quick_gloss": "by-rishabha"
 },
 {
 "surface": "syāt",
@@ -272,7 +256,7 @@
 },
 {
 "surface": "sutanāśakṛt",
-"quick_gloss": "son-destroying"
+"quick_gloss": "son-destruction-making"
 }
 ]
 },
@@ -289,11 +273,11 @@
 },
 {
 "surface": "kṣmācarāścānye",
-"quick_gloss": "earth-movers+others"
+"quick_gloss": "earth-movers"
 },
 {
 "surface": "toyādyāścāśubhā",
-"quick_gloss": "water+etc+inauspicious"
+"quick_gloss": "water-etc"
 },
 {
 "surface": "bhṛśam",
@@ -313,12 +297,8 @@
 "quick_gloss": "with-fever"
 },
 {
-"surface": "dāhakṛt",
+"surface": "dāhakṛttejo",
 "quick_gloss": "burning-making"
-},
-{
-"surface": "tejo",
-"quick_gloss": "tejas"
 },
 {
 "surface": "vāyustu",
@@ -326,7 +306,7 @@
 },
 {
 "surface": "kulanāśakṛt",
-"quick_gloss": "family-destroying"
+"quick_gloss": "family-destruction-making"
 }
 ]
 },
@@ -338,12 +318,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "śasto",
+"surface": "śasto'gniścāhavanīyo",
 "quick_gloss": "praised"
-},
-{
-"surface": "agniścāhavanīyo",
-"quick_gloss": "fire"
 },
 {
 "surface": "dvāvagnī",
@@ -367,24 +343,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "kartur",
+"surface": "karturmṛtyuprado",
 "quick_gloss": "of-maker"
 },
 {
-"surface": "mṛtyuprado",
-"quick_gloss": "death-giving"
-},
-{
-"surface": "hyagnis",
+"surface": "hyagnistṛtīyo",
 "quick_gloss": "indeed-fire"
 },
 {
-"surface": "tṛtīyo",
-"quick_gloss": "third"
-},
-{
 "surface": "nṛpabhītidaḥ",
-"quick_gloss": "king-frightening"
+"quick_gloss": "king-fear-giving"
 }
 ]
 },
@@ -408,20 +376,12 @@
 "quick_gloss": "tu"
 },
 {
-"surface": "kṛtvā",
-"quick_gloss": "having-made"
+"surface": "kṛtvaikaṃ",
+"quick_gloss": "having-made-one"
 },
 {
-"surface": "ekaṃ",
-"quick_gloss": "one"
-},
-{
-"surface": "saṃkṣiped",
-"quick_gloss": "should-compress"
-},
-{
-"surface": "varam",
-"quick_gloss": "excellent"
+"surface": "saṃkṣipedvaram",
+"quick_gloss": "should-contract-excellent"
 }
 ]
 },
@@ -434,15 +394,11 @@
 "tokens": [
 {
 "surface": "bhāgeśa",
-"quick_gloss": "portion-lord"
+"quick_gloss": "of-portion-lord"
 },
 {
-"surface": "ca",
+"surface": "cāpyanīśaṃ",
 "quick_gloss": "and"
-},
-{
-"surface": "apy anīśaṃ",
-"quick_gloss": "non-lord"
 },
 {
 "surface": "ca",
@@ -450,7 +406,7 @@
 },
 {
 "surface": "devejyaṃ",
-"quick_gloss": "deva-preceptor"
+"quick_gloss": "devejya"
 },
 {
 "surface": "tulyasaṃjñakam",
@@ -471,7 +427,7 @@
 },
 {
 "surface": "māyānvitaṃ",
-"quick_gloss": "with-māyā"
+"quick_gloss": "with-illusion"
 },
 {
 "surface": "kṛtvā",
@@ -482,12 +438,8 @@
 "quick_gloss": "linga"
 },
 {
-"surface": "kuryāt",
-"quick_gloss": "should-make"
-},
-{
-"surface": "trirūpakam",
-"quick_gloss": "three-formed"
+"surface": "kuryāttrirūpakam",
+"quick_gloss": "should-make-three-formed"
 }
 ]
 },
@@ -499,12 +451,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "uktāyām",
+"surface": "uktāyāmasya",
 "quick_gloss": "in-stated"
-},
-{
-"surface": "asya",
-"quick_gloss": "of-this"
 },
 {
 "surface": "cārdhāṃśe",
@@ -512,11 +460,11 @@
 },
 {
 "surface": "nāgāṃśai",
-"quick_gloss": "with-nāga-portions"
+"quick_gloss": "with-naga-portions"
 },
 {
 "surface": "rbhāṃjite",
-"quick_gloss": "with-bhāṃjite"
+"quick_gloss": "rbhāṃjite"
 },
 {
 "surface": "kramāt",
@@ -537,7 +485,7 @@
 },
 {
 "surface": "tulyānāṃ",
-"quick_gloss": "same"
+"quick_gloss": "equal"
 },
 {
 "surface": "caturasratā",
@@ -557,12 +505,8 @@
 "quick_gloss": "twofold"
 },
 {
-"surface": "bhedād",
-"quick_gloss": "division"
-},
-{
-"surface": "bahūnyatra",
-"quick_gloss": "many"
+"surface": "bhedādbahūnyatra",
+"quick_gloss": "from-division"
 },
 {
 "surface": "vakṣyante",
@@ -570,7 +514,7 @@
 },
 {
 "surface": "viśvakamataḥ",
-"quick_gloss": "universal-opinion"
+"quick_gloss": "from-all-opinion"
 }
 ]
 },
@@ -645,7 +589,7 @@
 },
 {
 "surface": "navaikakaragarbhataḥ",
-"quick_gloss": "from-nine-one-hand-womb"
+"quick_gloss": "from-one-hand-womb"
 }
 ]
 },
@@ -658,7 +602,7 @@
 "tokens": [
 {
 "surface": "vistāraṃ",
-"quick_gloss": "breadth"
+"quick_gloss": "expansion"
 },
 {
 "surface": "saptadhā",
@@ -674,11 +618,11 @@
 },
 {
 "surface": "vā",
-"quick_gloss": "vā"
+"quick_gloss": "or"
 },
 {
 "surface": "madhyatastrayam",
-"quick_gloss": "in-middle"
+"quick_gloss": "in-middle-three"
 }
 ]
 },
@@ -732,7 +676,7 @@
 },
 {
 "surface": "samāharet",
-"quick_gloss": "should-gather"
+"quick_gloss": "should-collect"
 }
 ]
 }
