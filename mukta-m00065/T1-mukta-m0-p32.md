@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p32-v776
-[skull+fearless+hand+fierce](kapālābhayahastogrā) [left+etc+nine+powers](vāmādyā navaśaktayaḥ)
+[skull](kapālā)+[fearlessness](bhaya)+[hand](hasta)+[fierce](ugrā) [beginning-with-Vāmā](vāmādyā) [nine](nava)+[powers](śaktayaḥ)
 
 ## mukta-m0-p32-v777
-[tiger-skin+snake-bearing+peaceful](dvīpicarmāhibhṛcchāntaḥ) [three-eyed+matted-hair+moon-ornamented](tryakṣo jaṭendubhūṣitaḥ)
+[leopard](dvīpi)+[skin](carma)+[snake](āhi)+[bearing](bhṛc)+[peaceful](chāntas)+[three](try)+[eyed](akṣo) [matted-hair](jaṭe)+[moon](ndu)+[adorned](bhūṣitaḥ)
 
 ## mukta-m0-p32-v778
-[six-limbs+endowed](aṅgaṣaṭkasamāyuktaḥ) [quickly+becomes+accomplishment-giving](śīghraṃ syātsiddhidāyakaḥ)
+[limb](aṅga)+[sixfold](ṣaṭka)+[endowed-with](samāyuktaḥ) [quickly](śīghraṃ) [may-be](syāt)+[success](siddhi)+[giver](dāyakaḥ)
 
 ## mukta-m0-p32-v779
-[youth+young+old+woman+child+form+five-faced-bearing](yuvayauvanavṛddhastrībālābhaḥ pañcavaktrabhṛt)
+[youth](yuva)+[young-adult](yauvana)+[old](vṛddha)+[woman](strī)+[child](bālā)+[resembling](bhaḥ) [five](pañca)+[face](vaktra)+[bearing](bhṛt)
 
 ## mukta-m0-p32-v780
-[left](vāmenā) [fear+mantra-marked](bhayamantrāṅka) [skull+lotus+full](kapālotpalapūra) [bearing](bhṛt)
+[with-left](vāmenā) [fearlessness](bhaya)+[mantra](mantrā)+[marked](ṅka) [skull](kapālo)+[lotus](tpala)+[filled](pūra) [bearing](bhṛt)
 
 ## mukta-m0-p32-v781
-[red-eyed+sword+fire-colored](dṛgraktāsihutāśābhāḥ) [all+three-eyed+matted-haired](sarve tryakṣā jaṭānvitāḥ)
+[eye](dṛg)+[red](raktā)+[sword](si)+[fire](hutāśā)+[resembling](bhāḥ) [all](sarve) [three](try)+[eyed](akṣā) [matted-hair](jaṭā)+[endowed-with](nvitāḥ)
 
 ## mukta-m0-p32-v782
-[brown+brow+mustache+terrible](babhrubhrūśmaśruddā?bhīma) [weapon+yellow+own-weapon](mastraṃ pītaṃ svaśastra) [bearing](bhṛt)
+[tawny](babhru)+[brow](bhrū)+[beard](śmaśru)+[terrible](ddā?bhīmam)+[weapon](astraṃ) [yellow](pītaṃ) [own](sva)+[weapon](śastra) [bearing](bhṛt)
 
 ## mukta-m0-p32-v783
-[power+vajra+rosary+disc](śakti vajrākṣamālāsicakrāṇi) [right+sometimes](dakṣiṇe kvacit)
+[spear](śakti) [thunderbolt](vajrā)+[rosary](kṣamālā)+[sword](si)+[discus](cakrāṇi) [in-right](dakṣiṇe) [sometimes](kvacit)
 
 ## mukta-m0-p32-v784
-[one-faced+five-faced+or+three-eyed+matted-hair+moon-bearing+shiva](ekāsyaḥ pañcavaktro vā tryakṣo jaṭendubhṛcchivaḥ)
+[one](ekā)+[faced](syaḥ) [five](pañca)+[faced](vaktro) [or](vā) [three](try)+[eyed](akṣo) [matted-hair](jaṭe)+[moon](ndu)+[bearing](bhṛc)+[Śiva](chivaḥ)
 
 ## mukta-m0-p32-v785
-[corners+and+one+rudra+etc+white+blue+red](koṇeṣu caika rudrādyāḥ sitāsaṅnīlalohitāḥ)
+[in-corners](koṇeṣu) [and](cai)+[one](ka) [Rudra](rudrā)+[and-others](dyāḥ) [white](sitā)+[dark](saṅ)+[blue](nīla)+[red](lohitāḥ)
 
 ## mukta-m0-p32-v786
-[shiva-weapon-bearing+three-eyed](śivāyudhadharāstryakṣāḥ) [hook+sword+without+sometimes](sṛṇyasibhyāṃ vinā kvacit)
+[Śiva](śivā)+[weapon](yudha)+[bearing](dharās)+[three](try)+[eyed](akṣāḥ) [sickle](sṛṇy)+[sword](asibhyāṃ) [without](vinā) [sometimes](kvacit)
 
 ## mukta-m0-p32-v787
-[cupped-hands+all+vidyesha+one-faced](puṭāñjalikarāḥ sarve vidyeśāścaikavaktrakāḥ)
+[hollowed](puṭā)+[joined-palms](ñjali)+[hands](karāḥ) [all](sarve) [knowledge](vidye)+[lords](śāś)+[and](cai)+[one](ka)+[faced](vaktrakāḥ)
 
 ## mukta-m0-p32-v788
-[boon+fear+skull+lotus+matted-hair+moon+jina+snake+bearing](varābhayakapālābjajaṭendvajinanāgabhṛt)
+[boon](varā)+[fearlessness](bhaya)+[skull](kapālā)+[lotus](bja)+[matted-hair](jaṭe)+[moon](ndv)+[hide](ajina)+[snake](nāga)+[bearing](bhṛt)
 
 ## mukta-m0-p32-v789
-[right+trident+sword+axe+fear-bearing](dakṣiṇe śūlanistriśakuṭhārābhayadhārakaḥ)
+[in-right](dakṣiṇe) [trident](śūla)+[sword](nistriṃśa)+[axe](kuṭhārā)+[fearlessness](bhaya)+[holding](dhārakaḥ)
 
 ## mukta-m0-p32-v790
-[skull-garlanded+corpse-mounted](muṇḍamālī śavārūḍho) [dual+non-dual+order+opinion](dvaitādvaite kramānmataḥ)
+[skull](muṇḍa)+[garlanded](mālī) [corpse](śavā)+[mounted](rūḍho) [duality](dvaitā)+[non-duality](dvaite) [in-order](kramān)+[considered](mataḥ)
 
 ## mukta-m0-p32-v791
-[gentle+smiling-faced+moon-crested+matted-haired](saumyaṃ prahasitāsyaṃ ca candramauliṃ jaṭādharam)
+[gentle](saumyaṃ) [laughing](prahasitā)+[faced](syaṃ) [and](ca) [moon](candra)+[crested](mauliṃ) [matted-hair](jaṭā)+[wearing](dharam)
 
 ## mukta-m0-p32-v792
-[snake-girdle-endowed+all-ornament-ornamented](nāgendramekhalāyuktaṃ sarvābharaṇabhūṣitam)
+[serpent](nāge)+[lord](ndra)+[girdle](mekhalā)+[endowed-with](yuktaṃ) [all](sarvā)+[ornament](bharaṇa)+[adorned](bhūṣitam)
 
 ## mukta-m0-p32-v793
-[dancing+greatly-delighted+weapon-filled+handed](nṛtyantaṃ mahāhṛṣṭamāyudhākula pāṇinam)
+[dancing](nṛtyantaṃ) [greatly](mahā)+[delighted](hṛṣṭam)+[weapon](āyudhā)+[filled](kula) [handed](pāṇinam)
 
 ## mukta-m0-p32-v794
-[strength+arm+one+making+heart+situated](balanākārakaṃ bāhumekaṃ kṛtvā hṛdi sthitam)
+[creeper-like](bala)+[shaped](nākārakaṃ) [arm](bāhum)+[one](ekaṃ) [having-made](kṛtvā) [on-heart](hṛdi) [placed](sthitam)
 
 ## mukta-m0-p32-v795
-[left+extended-arm+properly+making+beautiful](vāme pratānitabhujaṃ samyak kṛtvā suśobhanam)
+[on-left](vāme) [stretched-out](pratānita)+[arm](bhujaṃ) [properly](samyak) [having-made](kṛtvā) [very](su)+[beautiful](śobhanam)
 
 ## mukta-m0-p32-v796
-[all-peace-making+should+do+thus+gentle-form](sarvaśāntikaraṃ kuryādityevaṃ saumyarūpakam)
+[all](sarva)+[peace](śānti)+[making](karaṃ) [one-should-make](kuryād)+[thus](ity)+[indeed](evaṃ) [gentle](saumya)+[form](rūpakam)
 
 ## mukta-m0-p32-v797
-[skanda+nandi+mahakala+ganesha+troop-united](skandanandimahākālagaṇeśagaṇasaṃyutam)
+[Skanda](skanda)+[Nandin](nandi)+[Mahākāla](mahākāla)+[Gaṇeśa](gaṇeśa)+[troop](gaṇa)+[accompanied-by](saṃyutam)
 
 ## mukta-m0-p32-v798
-[with-joy+form-endowed+being-seen+great-lord](sānandai rūpasampannairvīkṣyamāṇaṃ maheśvaram)
+[with](sā)+[joy](nandai) [beauty](rūpa)+[endowed-with](sampannair)+[being-beheld](vīkṣyamāṇaṃ) [great](mahe)+[lord](śvaram)
 
 ## mukta-m0-p32-v799
-[there+before+and+dancing+bhringi+work+thin+very](tadagre ca pranṛtyaṃśca bhṛṅgīkāryaṃ kṛśo bhṛśaḥ)
+[that](tad)+[in-front](agre) [and](ca) [forth](pra)+[dancing](nṛtyaṃś)+[and](ca) [Bhṛṅgī](bhṛṅgī)+[named](kāryaṃ) [emaciated](kṛśo) [exceedingly](bhṛśaḥ)
 
 ## mukta-m0-p32-v800
-[distorted+sharp-nosed+thief+fire+etc+givers+in-order](vikṛtāstīkṣṇanāsāścacaurāgnyādipradāḥ kramāt)
+[deformed](vikṛtās)+[sharp](tīkṣṇa)+[nosed](nāsāś)+[and](ca)+[thief](caurā)+[fire](gnyā)+[etc.](di)+[giving](pradāḥ) [in-order](kramāt)
