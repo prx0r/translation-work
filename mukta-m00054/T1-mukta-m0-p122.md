@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p122-v3026
-[salutation](bhikṣavenamaḥ) [salutation](bhikṣurūpāyanamaḥ) [salutation](vipaṇāyanamaḥ)
+[bhikṣu-aya-namaḥ](bhikṣavenamaḥ) [bhikṣu-rūpa-aya-namaḥ](bhikṣurūpāyanamaḥ) [vipaṇa-aya-namaḥ](vipaṇāyanamaḥ)
 
 ## mukta-m0-p122-v3027
-[salutation](vajrahastāyanamaḥ) [salutation](viṣkambhinenamaḥ)
+[vajra-hasta-aya-namaḥ](vajrahastāyanamaḥ) [viṣkambhin-namaḥ](viṣkambhinenamaḥ)
 
 ## mukta-m0-p122-v3028
-[salutation](camūstambhanāyanamaḥ) [salutation](vṛttāvṛttakarāyanamaḥ)
+[camū-stambhana-aya-namaḥ](camūstambhanāyanamaḥ) [vṛtta-avṛtta-kara-aya-namaḥ](vṛttāvṛttakarāyanamaḥ)
 
 ## mukta-m0-p122-v3029
-[salutation](tālāyanamaḥ) [salutation](madhavenamaḥ) [salutation](madhukalocanāyanamaḥ)
+[tāla-aya-namaḥ](tālāyanamaḥ) [madhava-namaḥ](madhavenamaḥ) [madhu-kalocana-aya-namaḥ](madhukalocanāyanamaḥ)
 
 ## mukta-m0-p122-v3030
-[salutation](vācaspatyāyanamaḥ) [salutation](vājasanāyanamaḥ)
+[vācaspati-aya-namaḥ](vācaspatyāyanamaḥ) [vāja-sana-aya-namaḥ](vājasanāyanamaḥ)
 
 ## mukta-m0-p122-v3031
-[salutation](āśramapūjitāyanamaḥ) [salutation](brahmacāriṇenamaḥ)
+[āśrama-pūjita-aya-namaḥ](āśramapūjitāyanamaḥ) [brahmacāriṇe-namaḥ](brahmacāriṇenamaḥ)
 
 ## mukta-m0-p122-v3032
-[salutation](lokacāriṇenamaḥ) [salutation](sarvacāriṇenamaḥ) [salutation](vicāravidenamaḥ)
+[loka-cāriṇe-namaḥ](lokacāriṇenamaḥ) [sarva-cāriṇe-namaḥ](sarvacāriṇenamaḥ) [vicāra-vid-namaḥ](vicāravidenamaḥ)
 
 ## mukta-m0-p122-v3033
-[salutation](īśānāyanamaḥ) [salutation](īśvarāyanamaḥ) [salutation](kālāyanamaḥ)
+[īśāna-aya-namaḥ](īśānāyanamaḥ) [īśvara-aya-namaḥ](īśvarāyanamaḥ) [kāla-aya-namaḥ](kālāyanamaḥ)
 
 ## mukta-m0-p122-v3034
-[salutation](niśācāriṇenamaḥ) [salutation](pinākadhṛṣenamaḥ) [salutation](nimittasthāyanamaḥ)
+[niśā-cāriṇe-namaḥ](niśācāriṇenamaḥ) [pināka-dhṛṣe-namaḥ](pinākadhṛṣenamaḥ) [nimitta-sthāya-namaḥ](nimittasthāyanamaḥ)
 
 ## mukta-m0-p122-v3035
-[salutation](nimittāyanamaḥ) [salutation](nandayenamaḥ) [salutation](nandikarāyanamaḥ)
+[nimitta-aya-namaḥ](nimittāyanamaḥ) [nandaye-namaḥ](nandayenamaḥ) [nandikara-aya-namaḥ](nandikarāyanamaḥ)
 
 ## mukta-m0-p122-v3036
-[salutation](harayenamaḥ) [salutation](nandīśvarāyanamaḥ) [salutation](nandinenamaḥ)
+[haraye-namaḥ](harayenamaḥ) [nandīśvara-aya-namaḥ](nandīśvarāyanamaḥ) [nandine-namaḥ](nandinenamaḥ)
 
 ## mukta-m0-p122-v3037
-[salutation](nihantrenamaḥ) [salutation](kālāyanamaḥ) [salutation](brahmaṇenamaḥ)
+[nihantre-namaḥ](nihantrenamaḥ) [kāla-aya-namaḥ](kālāyanamaḥ) [brahmaṇe-namaḥ](brahmaṇenamaḥ)
 
 ## mukta-m0-p122-v3038
-[salutation](pitāmahāyanamaḥ) [salutation](caturmmukhāyanamaḥ)
+[pitāmaha-aya-namaḥ](pitāmahāyanamaḥ) [catur-mukha-aya-namaḥ](caturmmukhāyanamaḥ)
 
 ## mukta-m0-p122-v3039
-[salutation](mahāliṅgāyanamaḥ) [salutation](cāruliṅgāyanamaḥ)
+[mahā-liṅga-aya-namaḥ](mahāliṅgāyanamaḥ) [cāru-liṅga-aya-namaḥ](cāruliṅgāyanamaḥ)
 
 ## mukta-m0-p122-v3040
-[salutation](liṅgādhyakṣāyanamaḥ) [salutation](surādhyakṣāyanamaḥ)
+[liṅga-adhyakṣa-aya-namaḥ](liṅgādhyakṣāyanamaḥ) [sura-adhyakṣa-aya-namaḥ](surādhyakṣāyanamaḥ)
 
 ## mukta-m0-p122-v3041
-[salutation](yogādhyakṣāyanamaḥ) [salutation](yugāvahāyanamaḥ)
+[yoga-adhyakṣa-aya-namaḥ](yogādhyakṣāyanamaḥ) [yuga-avaha-aya-namaḥ](yugāvahāyanamaḥ)
 
 ## mukta-m0-p122-v3042
-[salutation](bījādhyakṣāyanamaḥ) [salutation](bījakarttrenamaḥ)
+[bīja-adhyakṣa-aya-namaḥ](bījādhyakṣāyanamaḥ) [bīja-kartre-namaḥ](bījakarttrenamaḥ)
 
 ## mukta-m0-p122-v3043
-[salutation](adhyātmānugatāyanamaḥ) [salutation](balāyanamaḥ) [salutation](itihāsāyanamaḥ)
+[adhyātma-anugata-aya-namaḥ](adhyātmānugatāyanamaḥ) [bala-aya-namaḥ](balāyanamaḥ) [itihāsa-aya-namaḥ](itihāsāyanamaḥ)
 
 ## mukta-m0-p122-v3044
-[salutation](vaśyāyanamaḥ) [salutation](vaśakarāyanamaḥ) [salutation](kalayenamaḥ)
+[vaśya-aya-namaḥ](vaśyāyanamaḥ) [vaśa-kara-aya-namaḥ](vaśakarāyanamaḥ) [kalaye-namaḥ](kalayenamaḥ)
 
 ## mukta-m0-p122-v3045
-[salutation](lokakarttrenamaḥ) [salutation](paśupatayenamaḥ) [salutation](mahākarttrenamaḥ)
+[loka-kartre-namaḥ](lokakarttrenamaḥ) [paśupataye-namaḥ](paśupatayenamaḥ) [mahā-kartre-namaḥ](mahākarttrenamaḥ)
 
 ## mukta-m0-p122-v3046
-[salutation](anauṣadhāyanamaḥ) [salutation](akṣarāyanamaḥ) [salutation](paramabrahmaṇenamaḥ)
+[anauṣadha-aya-namaḥ](anauṣadhāyanamaḥ) [akṣara-aya-namaḥ](akṣarāyanamaḥ) [parama-brahmaṇe-namaḥ](paramabrahmaṇenamaḥ)
 
 ## mukta-m0-p122-v3047
-[salutation](balavatenamaḥ) [salutation](śakrāyanamaḥ) [salutation](nītayenamaḥ)
+[balavate-namaḥ](balavatenamaḥ) [śakra-aya-namaḥ](śakrāyanamaḥ) [nītaye-namaḥ](nītayenamaḥ)
 
 ## mukta-m0-p122-v3048
-[salutation](anītayenamaḥ) [salutation](śuddhātmanenamaḥ) [salutation](śuddhāyanamaḥ)
+[anītaye-namaḥ](anītayenamaḥ) [śuddha-ātmane-namaḥ](śuddhātmanenamaḥ) [śuddha-aya-namaḥ](śuddhāyanamaḥ)
 
 ## mukta-m0-p122-v3049
-[salutation](mānyāyanamaḥ) [salutation](gatāgatāyanamaḥ) [salutation](bahuprasādāyanamaḥ)
+[mānya-aya-namaḥ](mānyāyanamaḥ) [gata-agata-aya-namaḥ](gatāgatāyanamaḥ) [bahu-prasāda-aya-namaḥ](bahuprasādāyanamaḥ)
 
 ## mukta-m0-p122-v3050
-[salutation](vedakārāyanamaḥ) [salutation](mantrakārāyanamaḥ) [salutation](viduṣenamaḥ)
+[veda-kāra-aya-namaḥ](vedakārāyanamaḥ) [mantra-kāra-aya-namaḥ](mantrakārāyanamaḥ) [viduṣe-namaḥ](viduṣenamaḥ)
