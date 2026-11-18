@@ -2,25 +2,25 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p48-v1176
-[dharma-adharma-vyavasthā](dharmādharmavyavasthā) [ca](ca) [veda-śāstra-ādi-ḍaṃbaraḥ](vedaśāstrādiḍaṃbaraḥ)
+[dharma](dharmā) [adharma](adharmā) [vyavasthā](vyavasthā) [ca](ca) [veda](veda) [śāstra](śāstrādi) [ḍaṃbara](ḍaṃbaraḥ)
 
 ## mukta-m0-p48-v1177
-[atra-kāraṇam-atyarthaṃ](atrakāraṇamatyarthaṃ) [niścitya-brūhi](niścityabrūhi) [cinnidhe](cinnidhe)
+[atra](atra) [kāraṇa](kāraṇa) [mati](mati) [atyartha](atyarthaṃ) [niścitya](niścitya) [brūhi](brūhi) [cinnidhe](cinnidhe)
 
 ## mukta-m0-p48-v1178
-[sarvāsām-api](sarvāsāmapi) [jātīnāṃ](jātīnāṃ) [jagdhiyābdhi-suṣuptayaḥ](jagdhiyābdhisuṣuptayaḥ)
+[sarvāsām](sarvāsām) [api](api) [jātīnām](jātīnāṃ) [jagdhi](jagdhi) [yā](yā) [abdhi](abdhi) [suṣupti](suṣuptayaḥ)
 
 ## mukta-m0-p48-v1179
-[etat](etat) [hetukaṃ](hetukaṃ) [devī](devī) [hetuḥ](hetuḥ) [tatra](tatra) [nigadyate](nigadyate)
+[etat](etat) [hetuka](hetukaṃ) [devī](devī) [hetu](hetu) [tatra](tatra) [nigadyate](nigadyate)
 
 ## mukta-m0-p48-v1180
-[iṣṭa-sādhana-tantra-jñāḥ](iṣṭasādhanataṃtrajñāḥ) [na](na) [sarvatra-api](sarvatrāpi) [jātiṣu](jātiṣu)
+[iṣṭa](iṣṭa) [sādhana](sādhana) [tantra](tantra) [jñā](jñāḥ) [na](na) [sarvatra](sarvatrāpi) [api](api) [jātiṣu](jātiṣu)
 
 ## mukta-m0-p48-v1181
-[pakṣīṇām-api](pakṣīṇāmapi) [sarveṣāṃ](sarveṣāṃ) [sva-āhāre](svāhāre) [pota-poṣaṇam](potapoṣaṇam)
+[pakṣīṇām](pakṣīṇām) [api](api) [sarveṣām](sarveṣāṃ) [svāhāra](svāhāre) [pota](pota) [poṣaṇa](poṣaṇam)
 
 ## mukta-m0-p48-v1182
-[āyāṃti](āyāṃti) [daṇḍa-hastaṃ](daṇḍahastaṃ) [tu](tu) [dṛṣṭvā-bhītyā](dṛṣṭvāmithyā) [pravarttate](pravarttate)
+[āyānti](āyāṃti) [daṇḍa](daṇḍa) [hasta](hastaṃ) [tu](tu) [dṛṣṭvā](dṛṣṭvā) [mithyā](mithyā) [pravarttate](pravarttate)
 
 ## mukta-m0-p48-v1183
 [gamaḥ](gamaḥ)
@@ -29,49 +29,49 @@
 [kathaṃ](kathaṃ) [jñānasya](jñānasya) [rāhityaṃ](rāhityaṃ) [varttate](varttate) [girinaṃdini](girinaṃdini)
 
 ## mukta-m0-p48-v1185
-[paśu-āder-api](paśvāderapi) [bodhaḥ-tu](bodhastu) [manuṣya-vat](manuṣyavad) [udīkṣyate](udīkṣyate)
+[paśvāder](paśvāder) [api](api) [bodha](bodha) [tu](tu) [manuṣyavat](manuṣyavad) [udīkṣyate](udīkṣyate)
 
 ## mukta-m0-p48-v1186
-[tathā](tathā) [hi](hi) [cuṃcu-grastaiḥ-tu](cuṃcugrastaistu) [tṛṇaiḥ-niḍaṃ-vinirmati](tṛṇairnidaṃvinirmati)
+[tathā](tathā) [hi](hi) [cuṃcu](cuṃcu) [grasta](grasta) [tṛṇa](tṛṇa) [nidaṃ](nidaṃ) [vinirmati](vinirmati)
 
 ## mukta-m0-p48-v1187
-[aṃtargupta](aṃtargupta) [pradeśatvaṃ](pradeśatvaṃ) [varṣa-vāta-anupadravam](varṣavātānupadravam)
+[aṃtargupta](aṃtargupta) [pradeśa](pradeśa) [tvaṃ](tvaṃ) [varṣa](varṣa) [vāta](vāta) [anupadrava](anupadravam)
 
 ## mukta-m0-p48-v1188
-[tatra](tatra) [paṃkala-velagne](paṃkalavelagne) [khadyote](khadyate) [niśi-bhāsvare](niśibhāsvare)
+[tatra](tatra) [paṃkala](paṃkala) [velā](velā) [lagne](lagne) [khadyate](khadyate) [niśi](niśi) [bhāsvare](bhāsvare)
 
 ## mukta-m0-p48-v1189
-[pakṣiṇī](pakṣiṇī) [bhoga-sahitaḥ](bhogasahitaḥ) [pakṣī-nirviśati-dhruvam](pakṣīnirviśatidṛvam)
+[pakṣiṇī](pakṣiṇī) [bhoga](bhoga) [sahitaḥ](sahitaḥ) [pakṣī](pakṣī) [nirviśati](nirviśati) [dhruva](dhruvam)
 
 ## mukta-m0-p48-v1190
-[ātānaṃ](ātānaṃ) [ca](ca) [vitānaṃ](vitānaṃ) [ca](ca) [tat](tat) [jñānaṃ](jñānaṃ) [na-adhikān-natām](nādhikānnatām)
+[ātānaṃ](ātānaṃ) [ca](ca) [vitānaṃ](vitānaṃ) [ca](ca) [tat](tat) [jñānaṃ](jñānaṃ) [nādhikānnatām](nādhikānnatām)
 
 ## mukta-m0-p48-v1191
-[nivedayati](nivedayati) [suśroṇi](suśroṇi) [sva-jāti](svajāti) [gata-pāṭavam](gatapāṭavam)
+[nivedayati](nivedayati) [suśroṇi](suśroṇi) [svajāti](svajāti) [gata](gata) [pāṭava](pāṭavam)
 
 ## mukta-m0-p48-v1192
-[eka-rūpāṇi](ekarūpāṇi) [cakrāṇi](cakrāṇi) [stāla-grāmeṣu](stālagrāmeṣu) [tanvataḥ](tanvataḥ)
+[ekarūpāṇi](ekarūpāṇi) [cakrāṇi](cakrāṇi) [stāla](stāla) [grāmeṣu](grāmeṣu) [tanvataḥ](tanvataḥ)
 
 ## mukta-m0-p48-v1193
-[brahmaṇā-api](brahmaṇāpi) [na](na) [tat-śakyaṃ](tacchakyaṃ) [prati-jāti-dṛśī-gatiḥ](pratijātīdṛśīgatiḥ)
+[brahmaṇāpi](brahmaṇāpi) [na](na) [tac](tac) [śakyaṃ](śakyaṃ) [pratijāti](pratijāti) [dṛśī](dṛśī) [gatiḥ](gatiḥ)
 
 ## mukta-m0-p48-v1194
-[rātrau-ulūkaḥ](rātrāvulūkaḥ) [suśroṇi](suśroṇi) [ghaṭa-ādīn-pratipadyate](ghaṭādīnpratipadyate)
+[rātrāvulūka](rātrāvulūka) [suśroṇi](suśroṇi) [ghaṭādīn](ghaṭādīn) [pratipadyate](pratipadyate)
 
 ## mukta-m0-p48-v1195
-[anya-jātera-aśakyaḥ-ca](anyajāteraśakyaśca) [varttate](varttate) [varavarṇini](varavarṇini)
+[anyajātera](anyajātera) [śakyaśca](śakyaśca) [varttate](varttate) [varavarṇini](varavarṇini)
 
 ## mukta-m0-p48-v1196
-[varṇayiṣyati](varṇayiṣyati) [tat-vādo](tadvādo) [vṛthā-saṃbhūta-ḍaṃbaraḥ](vṛthāsaṃbhūtaḍaṃbaraḥ)
+[varṇayiṣyati](varṇayiṣyati) [tadvādo](tadvādo) [vṛthā](vṛthā) [saṃbhūta](saṃbhūta) [ḍaṃbaraḥ](ḍaṃbaraḥ)
 
 ## mukta-m0-p48-v1197
-[āhāraṃ](āhāraṃ) [ca-eva](caiva) [nidrā](nidrā) [ca](ca) [bhayaṃ](bhayaṃ) [maithunam-eva](maithunameva) [ca](ca)
+[āhāraṃ](āhāraṃ) [caiva](caiva) [nidrā](nidrā) [ca](ca) [bhayaṃ](bhayaṃ) [maithuna](maithunameva) [eva](eva) [ca](ca)
 
 ## mukta-m0-p48-v1198
-[sarvadaika](sarvadaika) [svarūpā](svarūpā) [syur](syur) [jātayo](jātayo) [martya-varjitāḥ](martyavarjitāḥ)
+[sarvadaika](sarvadaika) [svarūpā](svarūpā) [syur](syur) [jātayo](jātayo) [martya](martya) [varjitāḥ](varjitāḥ)
 
 ## mukta-m0-p48-v1199
-[kṛte](kṛte) [saṃpūrṇa-dharmāḥ](saṃpūrṇadharmāḥ) [syuḥ](syuḥ) [sarve](sarve) [pārvati](pārvati) [mānavāḥ](mānavāḥ)
+[kṛte](kṛte) [saṃpūrṇa](saṃpūrṇa) [dharmāḥ](dharmāḥ) [syuḥ](syuḥ) [sarve](sarve) [pārvati](pārvati) [mānavāḥ](mānavāḥ)
 
 ## mukta-m0-p48-v1200
 [bhavaṃti](bhavaṃti) [ca](ca) [vilīyaṃte](vilīyaṃte) [pratāyaṃte](pratāyaṃte) [punaḥ](punaḥ) [punaḥ](punaḥ)

@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p07-v151
-of-most-sinful (pāpiṣṭhānām) here (iha) conduct (ācāraḥ) as (yathā) by-all-abhorred (sarvajugupsitam)
+[gloss](pāpiṣṭhānāmihācāro) [gloss](yathā) [gloss](sarvajugupsitam)
 
 ## mukta-m0-p07-v152
-does (karoti) likewise (tadvat) after-death (pretyāpi) supreme-bliss-happiness (parānandasukham) may-be (bhavet)
+[gloss](karoti) [gloss](tadvatpretyāpi) [gloss](parānaṃdasukhaṃ) [gloss](bhavet)
 
 ## mukta-m0-p07-v153
-of-happiness (sukhasya) origin (saṃbhavaḥ) no-other (nānya) path (vartmanā) lotus-eyed (padmalocane)
+[gloss](sukhasya) [gloss](saṃbhavonānya) [gloss](vartmanā) [gloss](padmalocane)
 
 ## mukta-m0-p07-v154
-that (sa) indeed (eva) path-and-wrong-path (mārgodumārgaḥ) another (aparaḥ) proclaimed (parikīrtitaḥ)
+[gloss](sa) [gloss](eva) [gloss](mārgodumārgo) [gloss](aparaḥ) [gloss](parikīrtitaḥ)
 
 ## mukta-m0-p07-v155
-in-them (teṣu) everywhere (sarvatra) with-equality (sāmyena) linga-bliss (liṅgānandaḥ) proceeds (pravartate)
+[gloss](teṣu) [gloss](sarvatra) [gloss](sāmyena) [gloss](liṃgānaṃdaḥ) [gloss](pravartate)
 
 ## mukta-m0-p07-v156
-not (na) indeed (vai) caste (jātim) without (vinā) uncorrupted (aduṣṭām) in-other-castes (anyajātiṣu) exists (vidyate)
+[gloss](na) [gloss](vai) [gloss](jātiṃ) [gloss](vināduṣṭāmanyajātiṣu) [gloss](vidyate)
 
 ## mukta-m0-p07-v157
-false-pride-arrogance-blind (mithyā+abhimāna+darpa+andhā) false-faults (mithyādoṣāti) suspicious (śaṃkinī)
+[gloss](mithyābhimānadarpāndhāmithyādoṣāti) [gloss](śaṃkinī)
 
 ## mukta-m0-p07-v158
-in-animals-birds-beasts-etc (paśu+pakṣi+mṛga+ādyeṣu) not-such-sequence (naitādṛkkrama) origin (saṃbhavaḥ)
+[gloss](paśupakṣimṛgādyeṣu) [gloss](naitādṛkkrama) [gloss](saṃbhavaḥ)
 
 ## mukta-m0-p07-v159
-not (na) except (ravarjā) all-castes (sarvajātiḥ) existing (vartamānā) dependent (avalambinī)
+[gloss](na) [gloss](ravarjā) [gloss](sarvajātirvarta) [gloss](mānāvalaṃbinī)
 
 ## mukta-m0-p07-v160
-not (na) word-and-meaning-form (vācya+vācaka+ākāra) scripture-discussion (śāstracarcā) demonic (piśācikā)
+[gloss](na) [gloss](vācyavācakākāra) [gloss](śāstracarcā) [gloss](piśācikā)
 
 ## mukta-m0-p07-v161
-not (na) crookedness (kauṭilyaṃ) and (ca) of-mind (manasaḥ) not (na) hostility (drohaḥ) not (na) pride (abhimānatā)
+[gloss](na) [gloss](kauṭilyaṃ) [gloss](ca) [gloss](manaso) [gloss](na) [gloss](droho) [gloss](nābhimānatā)
 
 ## mukta-m0-p07-v162
-in-desire-to-sleep (suṣupsāyām) supreme (paraṃ) sleep (nidrā) no-other (nānyaḥ) any (ko'pi) mental-fever (manojvaraḥ)
+[gloss](suṣupsāyāṃ) [gloss](paraṃ) [gloss](nidrā) [gloss](nānyaḥ) [gloss](ko'pi) [gloss](manojvaraḥ)
 
 ## mukta-m0-p07-v163
-various-paths-made-ascent (nānā+mārga+kṛta+ārohaḥ) anywhere (kutrāpi) firm-support (dṛḍhalaṃbanaḥ)
+[gloss](nānāmārgakṛtārohaḥ) [gloss](kutrāpya) [gloss](dṛdalaṃbanaḥ)
 
 ## mukta-m0-p07-v164
-therefore (ataḥ) in-all (sarvāsu) castes (jātiṣu) even (api) unbroken (akhaṇḍita) valor (parākramam)
+[gloss](ataḥ) [gloss](sarvāsu) [gloss](jātiṣvapyakhaṃḍita) [gloss](parākramam)
 
 ## mukta-m0-p07-v165
-bliss-lord (ānandanāthaṃ) ruler (īśānaṃ) not (na) find (vindanti) evil-minded (durāśayāḥ)
+[gloss](ānaṃdanāthamīśānaṃ) [gloss](na) [gloss](viṃdaṃtidurāśayāḥ)
 
 ## mukta-m0-p07-v166
-thus (iti) bliss-tantra (ānandatantra) fourth (caturthaḥ) chapter (paṭalaḥ)
+[gloss](ityānaṃdatantre) [gloss](caturthaḥ) [gloss](paṭalaḥ)
 
 ## mukta-m0-p07-v167
-mantra-bliss (mantramānanda) of-goddess (devyāḥ) and (ca) hear (śruṇu) hero-served (vīraniṣevite)
+[gloss](maṃtramānaṃda) [gloss](devyāśca) [gloss](śruṇuvīraniṣevite)
 
 ## mukta-m0-p07-v168
-all-accomplishments-causing (samasta+siddhi+janaka) dense-bliss (sāṃdrānanda) great-rise (mahodayaḥ)
+[gloss](samastasiddhijanakasāṃdrānaṃda) [gloss](mahodayaḥ)
 
 ## mukta-m0-p07-v169
-lord (nāthāya) thus (iti) word (padaṃ) afterwards (paścāt) speak (procyate) nine-souled (navātmikām)
+[gloss](nāthāyeti) [gloss](padaṃ) [gloss](paścāt) [gloss](procyabrūyāṃ) [gloss](navātmikām)
 
 ## mukta-m0-p07-v170
-om-beginning (praṇavādi) great-mantra (mahāmantraḥ) proclaimed (proktaḥ) twenty (viṃśatiṃ) letters (varṇavān)
+[gloss](praṇavādirmahāmaṃtraḥ) [gloss](prokto) [gloss](viṃśati) [gloss](varṇavān)
 
 ## mukta-m0-p07-v171
-nine-soul-couple-named (navātma+mithuna+ākhyā) and (ca) great-bliss-digit-souled (mahānanda+kalā+ātmikā)
+[gloss](navātmamithunākhyā) [gloss](ca) [gloss](mahānaṃdakalātmikā)
 
 ## mukta-m0-p07-v172
-by-this (anayā) similar (sadṛśaḥ) mantra (mantraḥ) and (tu) by-this (anayā) similar (sadṛśaṃ) austerity (tapaḥ)
+[gloss](anayāsadṛśo) [gloss](maṃtrastvanayāsadṛśaṃ) [gloss](tapaḥ)
 
 ## mukta-m0-p07-v173
-linga-yoni (liṅgayoni) always-united (sadā+saṃgā) by-action (kāreṇa) constantly (satataṃ) by-me (mayā)
+[gloss](liṃgayoni) [gloss](sadāsaṃgā) [gloss](kāreṇasatataṃ) [gloss](mayā)
 
 ## mukta-m0-p07-v174
-me (māṃ) without (vinā) not (na) indeed (eva) know (jānanti) knowledge (vidyām) this (etām) great-rise (mahodayām)
+[gloss](māṃ) [gloss](vinānaivajānaṃti) [gloss](vidyāmetāṃ) [gloss](mahodayām)
 
 ## mukta-m0-p07-v175
-taught (upadiṣṭaṃ) by-me (mayā) formerly (pūrvam) this (eṣā) not (nā) and (ca) to-Muradviṣ (muradviṣe)
+[gloss](upadiṣṭaṃ) [gloss](mayā) [gloss](pūrvameṣā) [gloss](sā) [gloss](ca) [gloss](muradviṣe)

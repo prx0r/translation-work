@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p19-v451
-[like-kumkuma-liquid](kuṃkumadravasaṃkāśaṃ) [dissolved-all](vilīnāśeṣa) [activity](ceṣṭitam)
+kuṃkuma (saffron) drava (liquid) saṃkāśaṃ (resembling) vilīna (dissolved) aśeṣa (all) ceṣṭitam (activity)
 
 ## mukta-m0-p19-v452
-[protected](rakṣitaṃ) [should-meditate](bhāvayed) [goddess](devī) [of-her](tasyāḥ) [moon-crescent-rise](caṃdrakalodaye)
+rakṣitaṃ (protected) bhāvayed (should-meditate) devī (goddess) tasyāḥ (her) caṃdra (moon) kala (crescent) udaye (rise)
 
 ## mukta-m0-p19-v453
-[immediately](sadyaḥ) [hair-raised-form](pulakitākāro) [some](ko'pi) [mood](bhāvaḥ) [blossoms](vijṛṃbhate)
+sadyaḥ (immediately) pulakita (horripilated) ākāraḥ (form) bhāvaḥ (emotion) kaḥ-api (some) vijṛṃbhate (manifests)
 
 ## mukta-m0-p19-v454
-[dancing](nṛtyatī) [very](iva) [yearning](samutkaṃṭhā) [dancing](nṛtyatī) [va](va) [head-mouth](śirāmukham)
+nṛtyati (dances) iva (like) samutkaṃṭhā (intense-longing) nṛtyati (dances) va (and) śira (head) āmukham (face)
 
 ## mukta-m0-p19-v455
-[messenger](dūtikā) [smara](smara) [house-dwelling](gehasthāṃ) [bhaga-garland](bhagamālāṃ) [should-worship](samarcayet)
+dūtikā (messenger) smara (love) geha (house) sthāṃ (dwelling) bhaga (bhaga) mālāṃ (garland) samarcayet (should-worship)
 
 ## mukta-m0-p19-v456
-[of-her](tasyāḥ) [worship](arcana) [difference](bhedas) [tu](tu) [to-be-spoken](vaktavyaḥ) [supreme-lord](parameśvara)
+tasyāḥ (her) ca (and) arcana (worship) bhedaḥ (difference) tu (indeed) vaktavyaḥ (to-be-told) parameśvara (supreme-lord)
 
 ## mukta-m0-p19-v457
-[bhaga-garland](bhagamālī) [iti](iti) [completely](niḥśeṣa) [bhaga-wheel-identified](bhagacakrābhimāninī)
+bhaga (bhaga) mālī (garlanded) iti (thus) niḥśeṣa (entirely) bhaga (bhaga) cakra (wheel) abhimāninī (identified)
 
 ## mukta-m0-p19-v458
-[world-enchanting-form](viśvasaṃohanākārā) [world-birth-great-place](viśvajanmamahāsthali)
+viśva (world) saṃohana (enchanting) ākārā (form) viśva (world) janma (birth) mahā (great) sthali (site)
 
 ## mukta-m0-p19-v459
-[time-form](kālarūpā) [time-maker](kālakarī) [time-devouring-desirous](kālagrasanalālasā)
+kāla (time) rūpā (form) akāla (untimely) karī (doing) kāla (time) grasana (devouring) lālasā (eager)
 
 ## mukta-m0-p19-v460
-[in-all](samasteṣu) [bodies](śarīreṣu) [of-men](puṃsāṃ) [of-women](strīṇām) [also](athāpi) [vā](vā)
+samasteṣu (in-all) śarīreṣu (bodies) puṃsām (of-men) strīṇām (of-women) atha (and) api (also) vā (or)
 
 ## mukta-m0-p19-v461
-[saṃhitā](saṃhitā) [hundred-thousand](śatasāhasre) [for-which](yadarthe) [is-praised](kīrtyate) [by-me](mayā)
+saṃhitā (collection) śata (hundred) sāhasre (thousand) yad (which) arthe (purpose) kīrtyate (is-praised) mayā (by-me)
 
 ## mukta-m0-p19-v462
-[eternal](nityā) [ananga](naṃga) [mad-intoxicated](madonmattā) [by-youth](yauvanena) [very-proud](atigarvitā)
+nitya (eternal) anaṃga (cupid) mada (intoxication) unmattā (maddened) yauvanena (by-youth) ati (excessively) garvitā (proud)
 
 ## mukta-m0-p19-v463
-[noose](pāśa) [goad](aṃkuśau) [hand](karaṃ) [bow](dhanva) [then](tadā) [vā](vā) [honey-vessel](madhubhājanam)
+pāśa (noose) aṃkuśau (goads) karaṃ (hand) dhanva (bow) tadā (then) vā (or) madhu (honey) bhājanam (vessel)
 
 ## mukta-m0-p19-v464
-[pleased-faced-lotus](prasannavadanāṃbhojā) [mad-red-eyed](madaraktavilocanā)
+prasanna (serene) vadana (face) ambhojā (lotus) mada (intoxication) rakta (red) vilocanā (eyed)
 
 ## mukta-m0-p19-v465
-[own-red-glow-garment](svaraktakāṃtiśaṭībhiḥ) [eva](eva) [covered-nitaṃba](vṛtanitaṃbabhūḥ)
+sva (own) rakta (red) kāṃti (radiance) śaṭībhiḥ (garments) eva (indeed) āvṛta (covered) nitaṃba (hip) bhūḥ (region)
 
 ## mukta-m0-p19-v466
-[sky-clad](digaṃbarā) [by-other](abhiranyābhiḥ) [shaktis](śaktibhiḥ) [surrounded](parivāritā)
+digaṃbarābhiḥ (sky-clad) anyābhiḥ (other) śaktibhiḥ (powers) parivāritā (surrounded)
 
 ## mukta-m0-p19-v467
-[thus](evaṃ) [to-be-meditated](dhyeyā) [great-goddess](maheśāni) [deity](devatā) [bhaga-garlanded](bhagamālinī)
+evaṃ (thus) dhyeyā (to-be-meditated) maheśāni (great-lady) devatā (deity) bhaga (bhaga) mālinī (garlanded)
 
 ## mukta-m0-p19-v468
-[tripura-arghya-water](tripurārghyāṃbunā) [having-sprinkled](prokṣya) [of-messenger](dūtyāḥ) [smara-abode](smaraniketanam)
+tripurā (tripura) arghya (offering) ambunā (water) prokṣya (sprinkling) dūtyāḥ (messenger's) smara (love) niketanam (abode)
 
 ## mukta-m0-p19-v469
-[triangle](trikoṇaṃ) [five-angle](paṃcakoṇaṃ) [ca](ca) [with-eight-petals-four-petals](sāṣṭārakacaturddalam)
+trikoṇaṃ (triangle) paṃcakoṇaṃ (pentagon) ca (and) sāṣṭāra (with-eight) catur (four) dalam (petals)
 
 ## mukta-m0-p19-v470
-[in-middle](madhye) [conquer](jayet) [great-goddess](mahādevīṃ) [intoxicated](mādyaṃtīṃ) [bhaga-garlanded](bhagamālinīm)
+madhye (in-middle) jayet (should-conquer) mahādevīṃ (great-goddess) mādyantīṃ (intoxicating) bhaga (bhaga) mālinīm (garlanded)
 
 ## mukta-m0-p19-v471
-[bhaga-secret](bhagaguhyaṃ) [bhaga-yoni](bhagayoniṃ) [tathā](tathā) [bhaga-striker](bhaganipātinīm)
+bhaga (bhaga) guhyaṃ (secret) bhaga (bhaga) yoniṃ (womb) tathā (and) bhaga (bhaga) nipātinīm (descending)
 
 ## mukta-m0-p19-v472
-[bhaga-form](bhagarūpāṃ) [then](tadā) [goddess](devīṃ) [ever-wet-ambika](nityaklinnāmbikām) [api](api)
+bhaga (bhaga) rūpāṃ (form) tadā (then) devīṃ (goddess) nitya (eternal) klinna (moist) ambikām (mother) api (also)
 
 ## mukta-m0-p19-v473
-[bhaga-wet-eighth](bhagaklinnāmaṣṭamīṃ) [ca](ca) [sadhaka-rite](sādhakovidhivarttanā)
+bhaga (bhaga) klinna (moist) aṣṭamīṃ (eighth) ca (and) sādhaka (practitioner) vidhi (rule) varttanā (conduct)
 
 ## mukta-m0-p19-v474
-[unfailing-bhaga-vidya](amoghabhagavidyā) [ca](ca) [fourth](caturthi) [tu](tu) [bhaga-lordess](bhageśvarī)
+amogha (unfailing) bhaga (bhaga) vidyā (knowledge) ca (and) caturthī (fourth) tu (indeed) bhaga (bhaga) īśvarī (lady)
 
 ## mukta-m0-p19-v475
-[tripura-arghya](tripurārghya) [sthita](sthita) [eva](eva) [bindus](biṃdubhiḥ) [tat](tat) [should-worship](prapūjayet)
+tripurā (tripura) arghya (offering) sthitaiḥ (established) eva (indeed) biṃdubhiḥ (dots) tat (that) prapūjayet (should-worship)

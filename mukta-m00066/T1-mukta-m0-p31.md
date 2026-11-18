@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p31-v751
-[anilasyaḥ](anilasyo) [dhṛti-harī](dhṛtiharī) [manaso-dhairya-vardhanī](manasodhairyavardhanī)
+[wind's](anilasyo) [firmness-stealing](dhṛtiharī) [mind's](manaso) [steadfastness-increasing](dhairyavardhanī)
 
 ## mukta-m0-p31-v752
-[upāsaniyā](upāsaniyā) [satataṃ](satataṃ) [mahā-yāga](mahāyāga) [pravarttibhiḥ](pravarttibhiḥ)
+[worship-worthy](upāsaniyā) [always](satataṃ) [great-sacrifice](mahāyāga) [proceeding](pravarttibhiḥ)
 
 ## mukta-m0-p31-v753
-[aṣṭaka-aṣṭaka-paryantam-api](aṣṭakāṣṭakaparyaṃtamapi) [bindu-niyacchataḥ](biṃdurnniyacchataḥ)
+[eightfold](aṣṭakāṣṭaka) [limit](paryaṃtam) [even](api) [drop](biṃdur) [restrains](niyacchataḥ)
 
 ## mukta-m0-p31-v754
-[gaulī-rasasya](gaulīrasasya) [prābalyāt](prābalyāt) [stabdha-vīrya-ātmaje](stabdhavīryāmagātmaje)
+[gaulī-rasa's](gaulīrasasya) [predominance](prābalyāt) [stiff-vigor](stabdhavīrya) [in-son](amagātmaje)
 
 ## mukta-m0-p31-v755
-[yāga-rāja](yāgarāja) [pradhāna-aṅgaṃ](pradhānāṃgaṃ) [labhyate-iṣṭa-āhuti-kramāt](labhyateṣṭāhuti kramāt)
+[sacrifice-king](yāgarāja) [principal-limb](pradhānāṃgaṃ) [obtained](labhyate) [desired-offering](iṣṭāhuti) [order](kramāt)
 
 ## mukta-m0-p31-v756
-[aparaṃ](aparaṃ) [kinnu-kalyāṇi](kinnukalyāṇi) [praṣṭum-utkaṇṭhitaṃ](praṣṭumutkaṃṭhitaṃ) [manaḥ](manaḥ)
+[another](aparaṃ) [what-good](kinnukalyāṇi) [to-ask](praṣṭum) [eager](utkaṃṭhitaṃ) [mind](manaḥ)
 
 ## mukta-m0-p31-v757
-[tasya](tasya) [svarūpaṃ](svarūpaṃ) [nirvaktu](nirvaktu) [bhavāni-indu-śikhāmaṇe](bhavāniṃdu śikhāmaṇe)
+[its](tasya) [own-form](svarūpaṃ) [to-declare](nirvaktu) [bhavānī](bhavāniṃdu) [crest-jewel](śikhāmaṇe)
 
 ## mukta-m0-p31-v758
-[aṣṭa-āhutīḥ-avikalāḥ](aṣṭāhutīravikalāḥ) [karoti](karoti) [su-mahā-āśayaḥ](sumahāśayaḥ)
+[eight-offerings](aṣṭāhutīḥ) [unfailing](avikalāḥ) [does](karoti) [great-minded](sumahāśayaḥ)
 
 ## mukta-m0-p31-v759
-[tri-aṣṭaka-āhutayaḥ](tryaṣṭakāhutayaḥ) [puṃsas](puṃsas) [trailokyaṃ](trailokyaṃ) [sādhayanti](sādhayaṃti) [vai](vai)
+[three-times-eight-offerings](tryaṣṭakāhutayaḥ) [of-man](puṃsaḥ) [three-worlds](trailokyaṃ) [accomplish](sādhayaṃti) [indeed](vai)
 
 ## mukta-m0-p31-v760
-[ye](ye) [kurvanti-āhutiḥ](kurvaṃtyāhutiḥ) [puṇyāḥ](puṇyāḥ) [jvalite](jvalite) [liṅga-pāvake](liṃgapāvake)
+[those](ye) [make](kurvaṃty) [offering](āhutiḥ) [meritorious](puṇyāḥ) [blazing](jvalite) [liṅga-fire](liṃgapāvake)
 
 ## mukta-m0-p31-v761
-[teṣāṃ](teṣāṃ) [samastam-aiśvaryaṃ](samastamaiśvaryaṃ) [saṃkalpāt-eva-sidhyati](saṃkalpādevasidhyati)
+[their](teṣāṃ) [all](samastaṃ) [lordship](maiśvaryaṃ) [by-will](saṃkalpāt) [eva](eva) [succeeds](sidhyati)
 
 ## mukta-m0-p31-v762
-[uttarottaram](uttarottaram) [eteṣāṃ](eteṣāṃ) [nirvāṇa](nirvāṇa) [sukha-hetutā](sukhahetutā)
+[successively](uttarottaram) [of-these](eteṣāṃ) [liberation](nirvāṇa) [happiness-cause](sukhahetutā)
 
 ## mukta-m0-p31-v763
-[tat-eka-dūtikā-kuryāt](tadekādūtikākuryāt) [dvi-aṣṭake](dvi-aṣṭake) [dūtikā-dvayam](dūtikādvayam)
+[that](tad) [one](ekā) [messenger](dūtikā) [should-do](kuryāt) [in-eightfold](vyaṣṭake) [two-messengers](dūtikādvayam)
 
 ## mukta-m0-p31-v764
-[aṣṭau](aṣṭau) [dūtyas-tu](dūtyastu) [karttavyāḥ](karttavyāḥ) [pūjanīyāś-ca](pūjanīyāśca) [tattvataḥ](tattvataḥ)
+[eight](aṣṭau) [messengers](dūtyaḥ) [indeed](tu) [to-be-done](karttavyāḥ) [to-be-worshipped](pūjanīyāḥ) [truly](ca) [tattvataḥ]
 
 ## mukta-m0-p31-v765
-[sa](sa) [eva-abhyūhyatām-amba](evābhyūhyatāmaṃba) [krameṇa-dvi-aṣṭaka-ādiṣu](krameṇadvyaṣṭakādiṣu)
+[he](sa) [eva](evā) [to-be-inferred](abhyūhyatām) [mother](amba) [in-order](krameṇa) [in-eightfold-etc](dvyaṣṭakādiṣu)
 
 ## mukta-m0-p31-v766
-[nānā-vidhābhiḥ](nānāvidhābhiḥ) [su-śroṇi](suśroṇi) [tasya](tasya) [vyarthā-vibhūtayaḥ](vyarthāvibhūtayaḥ)
+[various](nānāvidhābhiḥ) [fair-hipped](suśroṇi) [his](tasya) [vain](vyarthā) [powers](vibhūtayaḥ)
 
 ## mukta-m0-p31-v767
-[anaṅga-maṇi-nāma-asti](anaṃgamaṇināmasti) [sirā-gṛddhiḥ-manoharaḥ](sirāgṛddhirmanoharaḥ)
+[love-god-gem](anaṃgamaṇi) [name](nāma) [is](asti) [vein-wealth](sirāgṛddhiḥ) [mind-charming](manoharaḥ)
 
 ## mukta-m0-p31-v768
-[pradhita-syaṃ](pradhitasyaṃ) [dinī-ceyaṃ](dinīceyaṃ) [vaśinī](vaśinī) [vāg-vibhūti-dā](vāgvibhūtidā)
+[offered](pradhitasyaṃ) [this](iyaṃ) [low](dinī) [ceyaṃ](ceyaṃ) [vaśinī](vaśinī) [speech-power-giving](vāgvibhūtidā)
 
 ## mukta-m0-p31-v769
-[sādhu-liṅga-maheśasya](sādhuliṃgamaheśasya) [saṃghaṭṭana](saṃghaṭṭana) [vitānataḥ](vitānataḥ)
+[good-liṅga](sādhuliṃga) [great-lord's](maheśasya) [union](saṃghaṭṭana) [canopy](vitānataḥ)
 
 ## mukta-m0-p31-v770
-[tamāla-śyāmala-cchāyām-īc-ca-eva](tamālaśyāmalacchāyāmīccaiva) [kaṣāyitam](kaṣāyitam)
+[tamāla-dark](tamālaśyāmala) [shade](cchāyām) [and](īccaiva) [astringent](kaṣāyitam)
 
 ## mukta-m0-p31-v771
-[mahā-nadīṣu](mahānadīṣu) [sarvāsu](sarvāsu) [viśiṣṭā](viśiṣṭā) [parikīrttitā](parikīrttitā)
+[great-rivers](mahānadīṣu) [all](sarvāsu) [especially](viśiṣṭā) [declared](parikīrttitā)
 
 ## mukta-m0-p31-v772
-[yaḥ-tarpayati](yastarpayati) [liṅga-agniṃ](laiṃgāgniṃ) [sa-sarvatvaṃ](sasarvatvaṃ) [samṛcchati](samṛcchati)
+[who](yaḥ) [satisfies](tarpayati) [liṅga-fire](laiṃgāgniṃ) [all-being](sasarvatvaṃ) [obtains](samṛcchati)
 
 ## mukta-m0-p31-v773
-[ātmī-kṛtya](ātmī kṛtya) [ca](ca) [bhūta-tattvaṃ](bhūtattvaṃ) [sarvatra-askhalitaṃ](sarvatrāskhalitaṃ) [gatim](gatim)
+[self](ātmī) [having-made](kṛtya) [element](bhūtattvaṃ) [everywhere](sarvatra) [unfailing](askhalitaṃ) [course](gatim)
 
 ## mukta-m0-p31-v774
-[labhate](labhate) [nitya-niścintaḥ](nityaniściṃtaḥ) [saṃcāraṃ](saṃcāraṃ) [yoga-māyayā](yogamāyayā)
+[obtains](labhate) [eternal](nitya) [carefree](niściṃtaḥ) [movement](saṃcāraṃ) [by-yoga-māyā](yogamāyayā)
 
 ## mukta-m0-p31-v775
-[arcayāmi](arcayāmi) [bhavat-gātra](bhavadgātra) [mataḥ-siddhiṃ](mataḥsiddhiṃ) [prayaccha-me](prayacchame)
+[I-worship](arcayāmi) [your-limbs](bhavadgātra) [hence](mataḥ) [success](siddhiṃ) [grant](prayacchame)
