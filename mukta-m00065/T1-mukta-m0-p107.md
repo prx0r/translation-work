@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p107-v2651
-[that-plate](tatpaṭṭī) [from-foot](pādataḥ) [to-be-made](kāryā) [with-foot-portion](pādonāṃśena) [exit](nirgamā)
+that-band from-foot to-be-made quarter-part-by exit
 
 ## mukta-m0-p107-v2652
-[share-one](bhāgamekaṃ) [threefold](tridhā) [having-made](kṛtvā) [entry](praveśaścaika) [from-share](bhāgataḥ)
+part-one threefold having-made entry-and-one from-part
 
 ## mukta-m0-p107-v2653
-[plate](paṭṭikā) [but](tu) [to-be-made](prakartavyā) [second](dvitīyenopanirgamā)
+band indeed to-be-made second-by exit
 
 ## mukta-m0-p107-v2654
-[balita-called](balitāhvaṃ) [three](tribhi) [shares](bhāgairgrahāṃśaistu) [waist](kaṭirbhavet)
+balita-named three parts-by graha-parts-by indeed waist becomes
 
 ## mukta-m0-p107-v2655
-[from-neck-thread](kaṇṭhasūtrādviśetkaṭho) [share](bhāgāttatpaṭṭikordhvaḥ)
+from-throat-band enters waist from-part that-band above
 
 ## mukta-m0-p107-v2656
-[of-earth](bhūmerjaṅghānitambau) [ca](ca) [declared](kīrtitau) [tvaṣṭa](tvaṣṭṭa) [according-to-scripture](śāstrataḥ)
+of-earth calf-hip and declared by-scripture
 
 ## mukta-m0-p107-v2657
-[below-that](tadadhaḥ) [one-and-half-share](sārdhapakṣāṃśaṃ) [in-width](vistāreṇa) [tu](tu) [to-be-made](kārayet)
+below that half-wing-part in-breadth indeed to-be-made
 
 ## mukta-m0-p107-v2658
-[one-by-one](ekaikena) [tu](tu) [share](bhāgega) [enters](viśetkaṇṭhaka) [from-neck-thread](sūtrataḥ)
+one-by-one indeed part enters throat-band from-thread
 
 ## mukta-m0-p107-v2659
-[becomes-anuratha](bhavedanurathaḥ) [six](ṣadbhiḥ) [seventh](saptamenodakāntaram)
+becomes anuratha six by seventh water-interval
 
 ## mukta-m0-p107-v2660
-[of-corner-anuratha-etc](koṇānurathakādīnāṃ) [circular-entry](vṛttapraveśa) [is-said](ucyate)
+corner-anuratha-etc of circular-entry is-said
 
 ## mukta-m0-p107-v2661
-[likewise](tadvaccaturthabhāgena) [entry](praveśo'nurathasya) [ca](ca)
+thus fourth-part-by entry of-anuratha and
 
 ## mukta-m0-p107-v2662
-[removing](luptvā) [shares](bhāgān) [of-earth](bhuvāṃ) [own-own](svāṃ svāṃ) [all](sarvāsāṃ) [ca](ca) [in-order](yathākramam)
+having-omitted parts of-lands own own all and in-order
 
 ## mukta-m0-p107-v2663
-[foot-two-part](pādonadvyaṃśataḥ) [pot](kumbhastatpaṭṭī) [from-foot](pādato) [becomes](bhavet)
+quarter-two-part-by pot that-band from-foot becomes
 
 ## mukta-m0-p107-v2664
-[pot-like](kumbhopame) [ca](ca) [those](te) [to-be-made](kārye) [knife-wings](churikāpakṣayostathā)
+pot-like and those to-be-made dagger-wing-by thus
 
 ## mukta-m0-p107-v2665
-[by-foot](pādena) [pot-plate](kumbhapaṭṭī) [tu](tu) [half](cārdhena) [neck-plate](galapaṭṭikā)
+by-foot pot-band indeed half-by throat-band
 
 ## mukta-m0-p107-v2666
-[pot-half](kumbhārdhena) [tathā](tathā) [plate](paṭṭī) [neck](kaṇṭhastatpaṭṭīkārdhataḥ)
+pot-half-by thus band throat that-band-half-by
 
 ## mukta-m0-p107-v2667
-[three-neck-projection](trikaṇṭhakocchrayaṃ) [two](dvābhyāṃ) [wings](pakṣayostatra) [to-be-turned](vartayet)
+three-throat-height two-by wings there to-be-turned
 
 ## mukta-m0-p107-v2668
-[head](mastaṃ) [like-lavali-fruit](lavalīphalavadbhavet)
+head lavalī-fruit-like becomes
 
 ## mukta-m0-p107-v2669
-[exit-called](nirgamākhyā) [other-share](parāṃśena) [square-part](caturasrāṃśato) [becomes](bhavet)
+exit-named superior-part by-square-part becomes
 
 ## mukta-m0-p107-v2670
-[therein-middle](tanmadhye) [tilaka](tilakaṃ) [to-be-made](kāryamevaṃ) [three-shares](tryaṃśairvaraṇḍikā)
+in-middle tilaka to-be-made thus three-parts-by varandika
 
 ## mukta-m0-p107-v2671
-[form](rūpaṃ) [of-corner-chariot](koṇarathasyaivaṃ) [will-speak](vakṣye) [up-chariot](coparathaṃ) [tvataḥ](tvataḥ)
+form of-corner-ratha thus will-say and upper-ratha from
 
 ## mukta-m0-p107-v2672
-[pot-half](kumbhaikenārdhataḥ) [plate](paṭṭī) [neck](kaṇṭhaścārdhāṃśatastathā)
+pot-by-half band throat-and-half-part thus
 
 ## mukta-m0-p107-v2673
-[circular-plate](vṛttapaṭṭī) [ca](ca) [exited](niṣkrāntā) [share-by-share](bhāgabhāgena) [to-be-arranged](kalpayet)
+circular-band and exited part-by-part to-be-arranged
 
 ## mukta-m0-p107-v2674
-[share](aṃśe) [pit](gartālakaṃ) [that-knower](tajña) [its-sides](tatpārśvayorguṇāṃśataḥ)
+in-part pit that knower side-by merit-part-by
 
 ## mukta-m0-p107-v2675
-[above-below-tilaka-covered](ūrdhvādhastilakākrāntā) [middle-place-above](madhyasthānordhvataḥ) [situated](sthitā)
+upper-lower-tilaka-covered middle-place above situated
