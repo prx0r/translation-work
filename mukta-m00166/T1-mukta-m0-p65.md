@@ -2,16 +2,16 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p65-v1601
-[satisfaction-giver](tuṣṭidā)
+[giver-of-satisfaction](tuṣṭidā)
 
 ## mukta-m0-p65-v1602
-[abandoned](pyujjhito) [in-heart](hṛdi) [always](sadā) [let-it-be](stu) [satisfaction-giver](tuṣṭidā)
+[abandoned](pyujjhito) [in-heart](hṛdi) [always](sadā) [let-it-be](stu) [giver-of-satisfaction](tuṣṭidā)
 
 ## mukta-m0-p65-v1603
-[nourishment-giver](puṣṭidā)
+[giver-of-nourishment](puṣṭidā)
 
 ## mukta-m0-p65-v1604
-[by-whom](kena) [by-whom](kenāsi) [by-form](rūpeṇa) [to-whom](kasmai) [to-whom](kasmai) [not](na) [nourishment-giver](puṣṭidā)
+[by-whom](kena) [by-whom](kenāsi) [in-form](rūpeṇa) [to-whom](kasmai) [to-whom](kasmai) [not](na) [giver-of-nourishment](puṣṭidā)
 
 ## mukta-m0-p65-v1605
 [imperishable](akṣayā)
@@ -20,58 +20,58 @@
 [you-alone](tvamevaikā) [indeed](tu) [true-form](sadrūpā) [by-nature](svabhāvena) [consciousness-imperishable](cidakṣayā)
 
 ## mukta-m0-p65-v1607
-[conclusion](niṣṭhā)
+[firm-ground](niṣṭhā)
 
 ## mukta-m0-p65-v1608
-[conclusion](niṣṭhā) [compassion](kṛpāṃ) [as-long-as](yāvadiyaṃ) [not](na) [bears](dhatte)
+[firm-ground](niṣṭhā) [compassion](kṛpāṃ) [as-long-as](yāvadiyaṃ) [not](na) [holds](dhatte)
 
 ## mukta-m0-p65-v1609
 [truth-dear](satyapriyā)
 
 ## mukta-m0-p65-v1610
-[truth-dear](satyapriyā) [she](sā) [dear-one](priyam) [let-extend](ātanotu)
+[truth-dear](satyapriyā) [she](sā) [dear-one](priyam) [let-her-extend](ātanotu)
 
 ## mukta-m0-p65-v1611
 [wisdom](prajñā)
 
 ## mukta-m0-p65-v1612
-[of-that](tasya) [of-that](tasya) [how](kathaṃ) [not-ignorance](nājñāṃ) [carry](vahanti) [on-heads](śirasītare)
+[of-him](tasya) [of-him](tasya) [how](kathaṃ) [not-ignorance](nājñāṃ) [they-carry](vahanti) [on-heads](śirasītare)
 
 ## mukta-m0-p65-v1613
 [world-lady](lokeśī)
 
 ## mukta-m0-p65-v1614
-[world-lady](lokeśī) [me](māṃ) [grief-free](śokahīnaṃ) [let-make](karotu)
+[world-lady](lokeśī) [me](māṃ) [grief-free](śokahīnaṃ) [let-her-make](karotu)
 
 ## mukta-m0-p65-v1615
-[god-supreme](surottamā)
+[best-of-gods](surottamā)
 
 ## mukta-m0-p65-v1616
-[god-supreme](surottamā) [let-make](karotvenaṃ) [all-supreme-path](sarvottamagatiṃ) [person](janam)
+[best-of-gods](surottamā) [let-her-make](karotvenaṃ) [best-goal](sarvottamagatiṃ) [person](janam)
 
 ## mukta-m0-p65-v1617
 [with-poison](saviṣā)
 
 ## mukta-m0-p65-v1618
-[with-poison](saviṣā) [by-name-alone](nāmamātreṇa) [I-know](jāne) [like-ḍitthaḍavittha](ḍitthaḍavitthavat)
+[with-poison](saviṣā) [by-name-alone](nāmamātreṇa) [I-know](jāne) [like-ḍittha](ḍitthaḍavitthavat)
 
 ## mukta-m0-p65-v1619
 [flaming](jvālinī)
 
 ## mukta-m0-p65-v1620
-[she](sā) [flaming](jvālinī) [time-fear](kālabhayaṃ) [let-remove](harāsya)
+[she](sā) [flaming](jvālinī) [fear-of-time](kālabhayaṃ) [let-her-remove](harāsya)
 
 ## mukta-m0-p65-v1621
 [flame](jvālā)
 
 ## mukta-m0-p65-v1622
-[blazes](jājvalīti) [standing-alone](sthitaikaiva) [flame](jvālā) [she](sā) [strength-giver](baladāstu) [to-us](naḥ)
+[blazes](jājvalīti) [standing-alone](sthitaikaiva) [flame](jvālā) [she](sā) [giver-of-strength](baladāstu) [to-us](naḥ)
 
 ## mukta-m0-p65-v1623
-[poison-delusion-pain-destroyer](viṣamohārtināśinī)
+[destroyer-of-poison-delusion-pain](viṣamohārtināśinī)
 
 ## mukta-m0-p65-v1624
-[death-conqueror](mṛtyujit) [cowherd](paśupaḥ) [she-this](seyaṃ) [poison-delusion-pain-destroyer](viṣamohārtināśinī)
+[death-conqueror](mṛtyujit) [cowherd](paśupaḥ) [she-this](seyaṃ) [destroyer-of-poison-delusion-pain](viṣamohārtināśinī)
 
 ## mukta-m0-p65-v1625
-[poison-enemy](viṣāriḥ)
+[enemy-of-poison](viṣāriḥ)
