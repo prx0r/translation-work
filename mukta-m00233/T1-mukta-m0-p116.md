@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p116-v2876
-[gloss](bindvantastatpūrvo'ntyasvarānvitaḥ) [gloss](bindvantastatpūrvo'ntyasvarānvitaḥ) [gloss](bindvantastatpūrvo'ntyasvarānvitaḥ) [gloss](bindvantastatpūrvo'ntyasvarānvitaḥ)
+[bindu-ending+that-previous+final-vowel-accompanied](bindvantastatpūrvo'ntyasvarānvitaḥ)
 
 ## mukta-m0-p116-v2877
-[gloss](marutsakhapriyānto'yaṃ) [gloss](jagatyarṇo) [gloss](hi) [gloss](vāṅmanuḥ)
+[marut-friend+dear-ending+this+world+ocean+indeed+speech+manu](marutsakhapriyānto'yaṃ jagatyarṇo hi vāṅmanuḥ)
 
 ## mukta-m0-p116-v2878
-[gloss](sāgnirnādastu) [gloss](tārādirdīrghairyuktaḥ) [gloss](kramāt) [gloss](svaraiḥ)
+[with-fire+sound+indeed+star+beginning+long+accompanied+in-order+with-vowels](sāgnirnādastu tārādirdīrghairyuktaḥ kramāt svaraiḥ)
 
 ## mukta-m0-p116-v2879
-[gloss](purāṇapadasaṃyuktaiḥ) [gloss](ṣaḍbhirmantrapadaiḥ) [gloss](kramāt) [gloss](kramāt)
+[ancient+word+joined+six+mantra+words+in-order](purāṇapadasaṃyuktaiḥ ṣaḍbhirmantrapadaiḥ kramāt)
 
 ## mukta-m0-p116-v2880
-[gloss](caturthyantā) [gloss](vidmahepadasaṃyutā) [gloss](vidmahepadasaṃyutā) [gloss](vidmahepadasaṃyutā)
+[fourth-ending+we-know+word+joined](caturthyantā vidmahepadasaṃyutā)
 
 ## mukta-m0-p116-v2881
-[gloss](preti) [gloss](codayāditi) [gloss](yojitā) [gloss](yojitā)
+[goes+impels+thus+joined](preti codayāditi yojitā)
 
 ## mukta-m0-p116-v2882
-[gloss](proktastrīmānataḥ) [gloss](kṛtā) [gloss](kṛtā) [gloss](kṛtā)
+[declared+three+measure+from+made](proktastrīmānataḥ kṛtā)
 
 ## mukta-m0-p116-v2883
-[gloss](lekhanīṃ) [gloss](vāme) [gloss](kalaśaṃ) [gloss](cāpi) [gloss](bibhratī)
+[writing-instrument+left+pot+also+bearing](lekhanīṃ vāme kalaśaṃ cāpi bibhratī)
 
 ## mukta-m0-p116-v2884
-[gloss](śaṅkhakundendudhavalā) [gloss](sakapardenduśekharā) [gloss](sakapardenduśekharā) [gloss](sakapardenduśekharā)
+[conch+jasmine+moon+white+with-matted-hair+moon-crested](śaṅkhakundendudhavalā sakapardenduśekharā)
 
 ## mukta-m0-p116-v2885
-[gloss](hārihārollasattuṅgapīvarastanamaṇḍalā) [gloss](hārihārollasattuṅgapīvarastanamaṇḍalā) [gloss](hārihārollasattuṅgapīvarastanamaṇḍalā) [gloss](hārihārollasattuṅgapīvarastanamaṇḍalā)
+[garland+necklace+shining+high+full+breast+circle](hārihārollasattuṅgapīvarastanamaṇḍalā)
 
 ## mukta-m0-p116-v2886
-[gloss](sū)paviṣṭā) [gloss](navayauvanamaṇḍitā) [gloss](navayauvanamaṇḍitā) [gloss](navayauvanamaṇḍitā)
+[seated+new+youth+adorned](sū)paviṣṭā navayauvanamaṇḍitā)
 
 ## mukta-m0-p116-v2887
-[gloss](dakṣiṇadvāre) [gloss](sthāpyā) [gloss](syād) [gloss](dakṣiṇāmukhī)
+[right+door+placed+should+be+right-facing](dakṣiṇadvāre sthāpyā syād dakṣiṇāmukhī)
 
 ## mukta-m0-p116-v2888
-[gloss](pūrṇabhadraścāpyānando) [gloss](nandanastathā) [gloss](nandanastathā) [gloss](nandanastathā)
+[pūrṇabhadra+also+ānanda+nandana+thus](pūrṇabhadraścāpyānando nandanastathā)
 
 ## mukta-m0-p116-v2889
-[gloss](prācyāmaindraśca) [gloss](vajrāṅko) [gloss](yāmyo) [gloss](daṇḍāṅka) [gloss](eva) [gloss](ca)
+[east+indra+and+vajra-marked+south+staff-marked+indeed+also](prācyāmaindraśca vajrāṅko yāmyo daṇḍāṅka eva ca)
 
 ## mukta-m0-p116-v2890
-[gloss](prajñā) [gloss](prabhā) [gloss](vidyā) [gloss](dhīrdhṛtismṛtibuddhayaḥ)
+[wisdom+radiance+knowledge+intellect+steadiness+memory+intellects](prajñā prabhā vidyā dhīrdhṛtismṛtibuddhayaḥ)
 
 ## mukta-m0-p116-v2891
-[gloss](madhyastambheṣu) [gloss](catvāro'pyāgneyādiṣvṛgādayaḥ) [gloss](catvāro'pyāgneyādiṣvṛgādayaḥ) [gloss](catvāro'pyāgneyādiṣvṛgādayaḥ)
+[middle+pillars+four+also+āgneya+etc.+ṛg+etc.](madhyastambheṣu catvāro'pyāgneyādiṣvṛgādayaḥ)
 
 ## mukta-m0-p116-v2892
-[gloss](sūtrapāṭho) [gloss](mīmāṃsā) [gloss](nyāyavistaraḥ) [gloss](nyāyavistaraḥ)
+[sūtra+recitation+mīmāṃsā+nyāya+exposition](sūtrapāṭho mīmāṃsā nyāyavistaraḥ)
 
 ## mukta-m0-p116-v2893
-[gloss](vidyātmakaṃ) [gloss](vitānaṃ) [gloss](syāt) [gloss](sthalaṃ) [gloss](tu) [gloss](pṛthivī) [gloss](svayam)
+[knowledge-natured+canopy+should+be+place+earth+herself](vidyātmakaṃ vitānaṃ syāt sthalaṃ tu pṛthivī svayam)
 
 ## mukta-m0-p116-v2894
-[gloss](haṃsagā) [gloss](vāṇī) [gloss](tadastraṃ) [gloss](sārasopari)
+[swan-going+speech+that+weapon+saras+above](haṃsagā vāṇī tadastraṃ sārasopari)
 
 ## mukta-m0-p116-v2895
-[gloss](bhūṣitaṃ) [gloss](vāme) [gloss](varapustakapāśadhṛk) [gloss](varapustakapāśadhṛk)
+[adorned+left+excellent+book+noose-bearing](bhūṣitaṃ vāme varapustakapāśadhṛk)
 
 ## mukta-m0-p116-v2896
-[gloss](dadhat) [gloss](prāgvannavasu) [gloss](kuṇḍeṣu) [gloss](vahniṃ) [gloss](madhyādibhājitam)
+[holds+eastward+like+nine+vessels+fire+middle+etc.+allotted](dadhat | prāgvannavasu kuṇḍeṣu vahniṃ madhyādibhājitam)
 
 ## mukta-m0-p116-v2897
-[gloss](yogādimūrtibhirdikṣu) [gloss](juhuyurmūrtidhārakāḥ) [gloss](juhuyurmūrtidhārakāḥ) [gloss](juhuyurmūrtidhārakāḥ)
+[yoga+etc.+forms+in-directions+should-offer+form-bearers](yogādimūrtibhirdikṣu juhuyurmūrtidhārakāḥ)
 
 ## mukta-m0-p116-v2898
-[gloss](samidājyacarūṁllājān) [gloss](vrīhisiddhārthasarṣapān) [gloss](vrīhisiddhārthasarṣapān) [gloss](vrīhisiddhārthasarṣapān)
+[samid+ghee+caru+roasted-grain+rice+siddhārtha+mustard](samidājyacarūṁllājān vrīhisiddhārthasarṣapān)
 
 ## mukta-m0-p116-v2899
-[gloss](prāgvadākāraśuddhiṃ) [gloss](ca) [gloss](kuryāccākṣivimokṣaṇam) [gloss](kuryāccākṣivimokṣaṇam)
+[eastward+like+ākāra+purification+and+should-do+eye+release](prāgvadākāraśuddhiṃ ca kuryāccākṣivimokṣaṇam)
 
 ## mukta-m0-p116-v2900
-[gloss](sarasvatyā) [gloss](vidyākumbhāṣṭake) [gloss](yajet) [gloss](yajet)
+[sarasvatī+with+knowledge+pot+eight+should-worship](sarasvatyā vidyākumbhāṣṭake yajet)
