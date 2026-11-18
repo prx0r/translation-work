@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p112-v2776
-[vicitram](vicitram) [iti](ity) [arthaḥ](arthaḥ)
+[various](vicitram) [thus](iti) [meaning](arthaḥ)
 
 ## mukta-m0-p112-v2777
-[anekadhā](anekadhā) [paricchinnaṃ](paricchinnaṃ) [bhāsitaṃ](bhāsitaṃ) [bhṛgunandana](bhṛgunandana)
+[in-many-ways](anekadhā) [limited](paricchinnaṃ) [shone](bhāsitaṃ) [bhṛgu's-son](bhṛgunandana)
 
 ## mukta-m0-p112-v2778
-[evaṃ](evaṃ) [prokta](prokta) [upapattyā](upapattyā)
+[thus](evaṃ) [as-stated](prokta) [appropriateness](upapattyā)
 
 ## mukta-m0-p112-v2779
-[sā](sā) [api](apy) [apūrṇatva](apūrṇatva) [vikhyātiḥ](vikhyātiḥ) [yā](yā) [avidyā](avidyā) [parigīyate](parigīyate)
+[that](sā) [also](api) [incompleteness](apūrṇatva) [fame](vikhyātiḥ) [which](yā) [ignorance](avidyā) [is-sung](parigīyate)
 
 ## mukta-m0-p112-v2780
-[pūrṇā](pūrṇā)
+[full](pūrṇā)
 
 ## mukta-m0-p112-v2781
-[svātmānam](svātmānam) [anudāhṛtya](anudāhṛtya) [bahirdṛṣṭitayā](bahirdṛṣṭitayā) [sthiteḥ](sthiteḥ)
+[self](svātmānam) [not-citing](anudāhṛtya) [external-vision](bahirdṛṣṭitayā) [of-standing](sthiteḥ)
 
 ## mukta-m0-p112-v2782
-[tatra](tatrāpi) [api](tatrāpi) [hetuḥ](hetuḥ) [bahirdṛṣṭitayā](bahirdṛṣṭitayā) [sthiteḥ](sthiteḥ) [iti](iti)
+[there](tatrāpi) [cause](hetuḥ) [external-vision](bahirdṛṣṭitayā) [of-standing](sthiteḥ) [thus](iti)
 
 ## mukta-m0-p112-v2783
-[anudāhṛtya](anudāhṛtya) [ca](cātmānaṃ) [ātmānam](cātmānaṃ) [yāvat](yāvanna) [na](yāvanna) [hi](hyavalokayet) [avalokayet](hyavalokayet)
+[not-citing](anudāhṛtya) [and](ca) [self](ātmānaṃ) [until](yāvat) [not](na) [hi](hi) [beholds](avalokayet)
 
 ## mukta-m0-p112-v2784
-[prakāśa](prakāśādirūpatā) [ādi](prakāśādirūpatā) [rūpatā](prakāśādirūpatā) [vā](vā) [itara](itaradasadvā) [asat](itaradasadvā) [vā](itaradasadvā) [aprāk](aprākśādirūpatā) [śādi](aprākśādirūpatā) [rūpatā](aprākśādirūpatā) [vā](vā)
+[light-etc-form](prakāśādirūpatā) [or](vā) [other](itara) [non-real](adasat) [or](vā) [non-prior-light-form](aprākśādirūpatā) [or](vā)
 
 ## mukta-m0-p112-v2785
-[ato](ato) [mayā](mayoktaṃ) [uktaṃ](mayoktaṃ) [rāma](rāma) [tvaṃ](tvaṃ) [sampaśya](sampaśyātmani) [ātmani](sampaśyātmani) [sadṛśā](saddṛśā)
+[therefore](ato) [by-me](mayā) [said](uktaṃ) [rāma](rāma) [you](tvaṃ) [see-well](sampaśya) [in-self](ātmani) [like-real](saddṛśā)
 
 ## mukta-m0-p112-v2786
-[tyakta](tyaktabahirmukhatvadṛṣṭyā) [bahirmukhatva](tyaktabahirmukhatvadṛṣṭyā) [dṛṣṭyā](tyaktabahirmukhatvadṛṣṭyā)
+[abandoning-external-facing-vision](tyaktabahirmukhatvadṛṣṭyā)
 
 ## mukta-m0-p112-v2787
-[sā](sā) [prakāśamayī](prakāśamayī) [yasmāt](yasmājjaḍavyāvṛttarūpiṇī) [jaḍa](yasmājjaḍavyāvṛttarūpiṇī) [vyāvṛtta](yasmājjaḍavyāvṛttarūpiṇī) [rūpiṇī](yasmājjaḍavyāvṛttarūpiṇī)
+[that](sā) [light-filled](prakāśamayī) [because](yasmāt) [inert-removed-form](jaḍavyāvṛttarūpiṇī)
 
 ## mukta-m0-p112-v2788
-[dīpa](dīpādijaḍavyāvṛttaprakāśamayītyarthaḥ) [ādi](dīpādijaḍavyāvṛttaprakāśamayītyarthaḥ) [jaḍa](dīpādijaḍavyāvṛttaprakāśamayītyarthaḥ) [vyāvṛtta](dīpādijaḍavyāvṛttaprakāśamayītyarthaḥ) [prakāśamayī](dīpādijaḍavyāvṛttaprakāśamayītyarthaḥ) [iti](dīpādijaḍavyāvṛttaprakāśamayītyarthaḥ) [arthaḥ](dīpādijaḍavyāvṛttaprakāśamayītyarthaḥ)
+[lamp-etc-inert-removed-light-filled](dīpādijaḍavyāvṛttaprakāśamayī) [thus-meaning](ityarthaḥ)
 
 ## mukta-m0-p112-v2789
-[jaḍāḥ](jaḍāścidātmaviśrāntāścidatmani) [cit](jaḍāścidātmaviśrāntāścidatmani) [ātma](jaḍāścidātmaviśrāntāścidatmani) [viśrāntāḥ](jaḍāścidātmaviśrāntāścidatmani) [cit](jaḍāścidātmaviśrāntāścidatmani) [ātmani](jaḍāścidātmaviśrāntāścidatmani) [vibhāsataḥ](vibhāsataḥ)
+[inert-ones](jaḍāḥ) [consciousness-self-resting](cidātmaviśrāntāḥ) [consciousness](cit) [in-self](ātmani) [shine](vibhāsataḥ)
 
 ## mukta-m0-p112-v2790
-[bhavet](bhavediti) [iti](bhavediti) [śeṣaḥ](śeṣaḥ) [jaḍānām](jaḍānāṃ) [na](na) [svātma](svātmaviśrāntirityāha) [viśrāntiḥ](svātmaviśrāntirityāha) [iti](svātmaviśrāntirityāha) [āha](svātmaviśrāntirityāha) [jaḍāḥ](jaḍā) [iti](iti)
+[let-it-be](bhavet) [thus](iti) [remainder](śeṣaḥ) [of-inert-ones](jaḍānāṃ) [not](na) [self-rest](svātmaviśrāntiḥ) [thus-says](ityāha) [inert-ones](jaḍāḥ) [thus](iti)
 
 ## mukta-m0-p112-v2791
-[citeḥ](citestu) [tu](citestu) [kevalaṃ](kevalaṃ) [svasmin](svasminnananyāpekṣayā) [ananya](svasminnananyāpekṣayā) [apekṣayā](svasminnananyāpekṣayā) [sadā](sadā)
+[of-consciousness](citaḥ) [but](tu) [only](kevalaṃ) [in-self](svasmin) [without-other-dependence](ananyāpekṣayā) [always](sadā)
 
 ## mukta-m0-p112-v2792
-[bhāsamānatvāt](bhāsamānatvāt) [svasmin](svasmin) [viśrāntiḥ](viśrāntirupapadyata) [upapadyate](viśrāntirupapadyata) [iti](iti) [sambandhaḥ](sambandhaḥ)
+[shining](bhāsamānatvāt) [in-self](svasmin) [rest](viśrāntiḥ) [is-possible](upapadyate) [thus](iti) [connection](sambandhaḥ)
 
 ## mukta-m0-p112-v2793
-[pūrṇa](pūrṇāhantā) [ahaṃtā](pūrṇāhantā) [parā](parā) [sā](seyaṃ) [iyaṃ](seyaṃ) [yā](yā) [jaḍeṣu](jaḍeṣu) [na](na) [vidyate](vidyate)
+[full-i-ness](pūrṇāhantā) [supreme](parā) [that](seyam) [which](yā) [in-inert-ones](jaḍeṣu) [not](na) [is-found](vidyate)
 
 ## mukta-m0-p112-v2794
-[svātma](svātmaviśrama) [viśramaḥ](svātmaviśrama) [iti](iti) [bhāvaḥ](bhāvaḥ) [sā](seyaṃ) [iyaṃ](seyaṃ) [svātma](svatmaviśrāntireva) [viśrāntiḥ](svatmaviśrāntireva) [eva](svatmaviśrāntireva) [pūrṇa](pūrṇāhantā) [ahaṃtā](pūrṇāhantā)
+[self-rest](svātmaviśramaḥ) [thus](iti) [purport](bhāvaḥ) [that](seyam) [self-rest-only](svātmaviśrāntireva) [full-i-ness](pūrṇāhantā)
 
 ## mukta-m0-p112-v2795
-[sarvam](sarvamasyāṃ) [asyām](sarvamasyāṃ) [yataḥ](yataḥ) [saṃstham](saṃsthamādarśe) [ādarśe](saṃsthamādarśe) [nagaram](nagaraṃ) [yathā](yathā)
+[all](sarvam) [in-this](asyāṃ) [because](yataḥ) [established](saṃstham) [in-mirror](ādarśe) [city](nagaraṃ) [as](yathā)
 
 ## mukta-m0-p112-v2796
-[paricchinnā](paricchinnā) [vyāvṛtti](vyāvṛttisparśo) [sparśaḥ](vyāvṛttisparśo) [na](nāstīti) [asti](nāstīti) [iti](nāstīti)
+[limited](paricchinnā) [contact-of-distinction](vyāvṛttisparśaḥ) [not](na) [is](asti) [thus](iti)
 
 ## mukta-m0-p112-v2797
-[evaṃ](evaṃ) [pūrṇa](pūrṇasvarūpāyāḥ) [svarūpāyāḥ](pūrṇasvarūpāyāḥ) [pūrṇam](pūrṇaṃ) [yat](yatsphuraṇaṃ) [sphuraṇam](yatsphuraṇaṃ) [sthitam](sthitam)
+[thus](evaṃ) [of-full-nature](pūrṇasvarūpāyāḥ) [full](pūrṇaṃ) [which](yat) [throbbing](sphuraṇaṃ) [stands](sthitam)
 
 ## mukta-m0-p112-v2798
-[pūrṇam](pūrṇamaparicchinnaṃ) [aparicchinnaṃ](pūrṇamaparicchinnaṃ) [yat](yat) [svarūpa](svarūpasphuraṇaṃ) [sphuraṇam](svarūpasphuraṇaṃ) [tat](tadeva) [eva](tadeva) [kathyate](kathyata) [iti](iti) [sambandhaḥ](sambandhaḥ)
+[full](pūrṇam) [unlimited](aparicchinnaṃ) [which](yat) [own-form-throbbing](svarūpasphuraṇaṃ) [that](tad) [eva](eva) [is-said](kathyate) [thus](iti) [connection](sambandhaḥ)
 
 ## mukta-m0-p112-v2799
-[akhaṇḍa](akhaṇḍaikarasaṃ) [eka](akhaṇḍaikarasaṃ) [rasam](akhaṇḍaikarasaṃ) [hi](hyetadetāvad) [etat](hyetadetāvad) [etāvat](hyetadetāvad) [rāma](rāma) [vai](vai) [bhavet](bhavet)
+[undivided-one-taste](akhaṇḍaikarasaṃ) [indeed](hi) [this](etat) [this-much](etāvat) [rāma](rāma) [indeed](vai) [let-it-be](bhavet)
 
 ## mukta-m0-p112-v2800
-[dvayam](dvayamapyetadakhaṇḍaikarasam) [api](dvayamapyetadakhaṇḍaikarasam) [etat](dvayamapyetadakhaṇḍaikarasam) [akhaṇḍa](dvayamapyetadakhaṇḍaikarasam) [eka](dvayamapyetadakhaṇḍaikarasam) [rasam](dvayamapyetadakhaṇḍaikarasam) [akhaṇḍam](akhaṇḍamekam) [ekam](akhaṇḍamekam) [eka](ekarasaṃ) [rasam](ekarasaṃ) [cit](cinmātram) [mātram](cinmātram)
+[two](dvayam) [also](api) [this](etad) [undivided-one-taste](akhaṇḍaikarasam) [undivided](akhaṇḍam) [one](ekam) [one-taste](ekarasaṃ) [consciousness-only](cinmātram)
