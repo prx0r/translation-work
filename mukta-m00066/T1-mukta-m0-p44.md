@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p44-v1076
-[not](na) [is-obtained](prāpyate) [by-people](janaiḥ) [by-all](sarvaiḥ) [without-having-done](akṛtvā) [evil](duṣkṛtaṃ) [austerity](tapaḥ)
+na[not] prāpyate[is-obtained] janaiḥ[by-people] sarvaiḥ[all] akṛtvā[without-doing] duṣkṛtaṃ[evil-deed] tapaḥ[penance]
 
 ## mukta-m0-p44-v1077
-[of-them](tāsāṃ) [not](na) [one-should-proclaim](kīrttayed) [faults](doṣā) [not](na) [among-those-dear-ones](priyaṃtāsu) [one-should-move](saṃcaret)
+tāsāṃ[their] na[not] kīrttayet[should-praise] doṣāḥ[faults] na[not] priyaṃ[pleasing-things] tāsu[among-them] saṃcaret[should-practice]
 
 ## mukta-m0-p44-v1078
-[whichever](yāṃ) [any](kāñcid) [even](api) [having-seen](dṛṣṭvā) [indeed](tu) [deity](devatām) [alone](eva) [one-should-regard](bhāvayet)
+yāṃ[whichever] kāñcidapi[any-at-all] dṛṣṭvā[having-seen] tu[then] devatām[goddess] eva[only] bhāvayet[should-regard]
 
 ## mukta-m0-p44-v1079
-[elsewhere](anyatra) [desire](kāma) [+](+) [conduct](cāraḥ) [may-be](syāt) [toward-them](tāsu) [gentleness](mārdavam) [one-should-practice](ācaret)
+anyatra[otherwise] kāmacāraḥ[free-will] syāt[would-be] tāsu[among-them] mārdavam[gentleness] ācaret[should-practice]
 
 ## mukta-m0-p44-v1080
-[with-old](jīrṇa) [+](+) [food](bhojena) [+](+) [only](mātreyaḥ) [Kapila](kapilaḥ) [of-living-beings](prāṇināṃ) [+](+) [compassion](dayām)
+jīrṇabhojana[old-food] mātreyaḥ[Mātreya] kapilaḥ[Kapila] prāṇināṃ[creatures] dayām[compassion]
 
 ## mukta-m0-p44-v1081
-[sacrifice](yāga) [+](+) [time](kāla) [+](+) [separation](viyoge) [even](api) [near](nikaṭe) [+](+) [her](tāṃ) [one-should-place](niveśayet)
+yāgakāla[viyoga-even] nikaṭe[near] tāṃ[her] niveśayet[should-place]
 
 ## mukta-m0-p44-v1082
-[without-her](tayā) [+](+) [without](vinā) [if](yadi) [one-should-mutter](japet) [by-bodiless](anaṃga) [+](+) [passion](mada) [+](+) [unsteady](lolayā)
+tayā[by-her] vinā[without] yadi[if] japet[recites] anaṅga[love-god] madalolayā[with-intoxicated-playfulness]
 
 ## mukta-m0-p44-v1083
-[therefore](tasmāt) [this](idaṃ) [great](mahā) [+](+) [sacrifice](yāga) [greatness](māhātmyaṃ) [has-been-declared](samudīritam)
+tasmāt[therefore] idaṃ[this] mahāyāga[great-sacrifice] māhātmyaṃ[glory] samudīritam[declared]
 
 ## mukta-m0-p44-v1084
-[greatness](māhātmyaṃ) [and](ca) [by-you](tvayā) [declared](proktaṃ) [heard](śrutaṃ) [for-listeners](śrotṛ) [+](+) [elixir](rasāyanam)
+māhātmyaṃ[glory] ca[and] tvayā[by-you] proktaṃ[spoken] śrutaṃ[heard] śrotṛ[ear] rasāyanam[elixir]
 
 ## mukta-m0-p44-v1085
-[what](ka) [+](+) [means](upāyo) [O-great-lord](maheśāna) [attached](raktāḥ) [+](+) [they](tāḥ) [indeed](khalu) [accomplished](siddhitāḥ)
+ka-upāyaḥ[what-means] maheśāna[O-Maheśāna] raktāḥ[attached] tāḥ[they] khalu[indeed] siddhitāḥ[accomplished]
 
 ## mukta-m0-p44-v1086
-[by-these-devoted-ones](anuraktābhiḥ) [+](+) [by-these](etābhiḥ) [to-be-done](kāryaṃ) [in-action](karmaṇi) [exists](vidyate)
+anuraktābhiḥ[with-devoted-ones] etābhiḥ[these] kāryaṃ[work] karmaṇi[in-action] vidyate[is-known]
 
 ## mukta-m0-p44-v1087
-[by-many](bahu) [+](+) [faults](doṣa) [+](+) [seized-by-spirits](grahagrastāḥ) [by-crookedness](kauṭilya) [+](+) [stricken-in-mind](upahatāśayāḥ)
+bahudoṣa[many-faults] grahagrastāḥ[possessed-by-planets] kauṭilya[crookedness] upahatāśayāḥ[corrupted-minds]
 
 ## mukta-m0-p44-v1088
-[here](atra) [means](upāyaṃ) [speak](vade) [O-lord](īśāna) [to-be-heard](śuśrūṣitam) [this](idaṃ) [of-me](mama)
+atra[here] upāyaṃ[means] vada[tell] īśāna[O-Īśāna] śuśrūṣitam[heard] idaṃ[this] mama[my]
 
 ## mukta-m0-p44-v1089
-[women](striyaḥ) [by-nature](svabhāva) [fickle](capalāḥ) [many](bahu) [+](+) [faults](doṣa) [+](+) [possessing](parigrahāḥ)
+striyaḥ[women] svabhāva[nature] capalāḥ[fickle] bahudoṣa[many-faults] parigrahāḥ[possessed]
 
 ## mukta-m0-p44-v1090
-[something](kiṃcit) [in-mind](citte) [something](kiṃcit) [on-face](mukhe) [something](kiṃcit) [in-eye](locana) [+](+) [concealed](veṣṭite)
+kiṃcit[something] citte[in-mind] mukhe[in-mouth] kiṃcit[something] kiṃcit[something] locana[eye] veṣṭite[covered]
 
 ## mukta-m0-p44-v1091
-[of-many](bahu) [+](+) [illusion](māyā) [+](+) [arts](kalā) [+](+) [possessing](vatyaḥ) [with-many](bahu) [+](+) [lovers](nāyaka) [+](+) [eager](laṃpaṭāḥ)
+bahumāyā[many-illusions] kalāvatyo[skilled-in-arts] bahu[many] nāyaka[leader] laṃpaṭāḥ[attached-to]
 
 ## mukta-m0-p44-v1092
-[by-various](nānāvidhena) [disposition](bhāvena) [of-fickle-ones](tuccānāṃ) [indeed](tu) [of-deer-eyed-women](mṛgīdṛśām)
+nānāvidhena[various] bhāvena[mood] tuccānāṃ[lowly] tu[but] mṛgīdṛśām[doe-eyed]
 
 ## mukta-m0-p44-v1093
-[of-a-man](puruṣasya) [of-one](eka) [+](+) [disposition](bhāvasya) [pure](śuddha) [+](+) [crystal](sphaṭika) [+](+) [resembling](sannibhaḥ)
+puruṣasya[man's] ekabhāvasya[single-mood] śuddha[ pure] sphaṭika[crystal] sannibhaḥ[resembling]
 
 ## mukta-m0-p44-v1094
-[attached](raktā) [as-if](iva) [detached](viraktāḥ) [they-may-be](syuḥ) [detached](viraktā) [as-if](iva) [and](ca) [eager](utsukāḥ)
+raktāḥ[attached] iva[like] viraktāḥ[detached] syuḥ[would-be] viraktāḥ[detached] iva[like] ca[and] utsukāḥ[eager]
 
 ## mukta-m0-p44-v1095
-[of-those-with-weapons](śastra) [+](+) [in-hand](pāṇinām)
+śastrapāṇinām[weapon-handed]
 
 ## mukta-m0-p44-v1096
-[by-bows](nataiḥ) [by-many](bahu) [+](+) [kinds](vidhaiḥ) [by-husband](patyā) [filled](pūritā) [even](api) [every-moment](anukṣaṇam)
+nataiḥ[bent] bahuvidhaiḥ[various] patyā[husband] prītyā[with-affection] pūritāḥ[fulfilled] api[even] anukṣaṇam[moment-by-moment]
 
 ## mukta-m0-p44-v1097
-[not](na) [by-enjoyment](bhogena) [not](na) [by-wealth](vittena) [not](na) [by-non-opposition](avirodha) [+](+) [submission](nivedanāt)
+na[not] bhogena[by-enjoyment] na[not] vittena[by-wealth] na[not] avirodha[non-opposition] nivedanāt[by-reporting]
 
 ## mukta-m0-p44-v1098
-[by-own](sva) [+](+) [sorrow](duḥkhena) [are-tormented](nipīḍyaṃte) [happiness](sukhaṃ) [of-them](teṣāṃ) [unceasingly](niraṃtaram)
+sveduḥkhena[with-sweat-sorrow] nipīḍyante[are-oppressed] sukhaṃ[happiness] teṣāṃ[their] niraṃtaram[constant]
 
 ## mukta-m0-p44-v1099
-[without-humans](nirmānuṣe) [even](api) [in-forest](vipine) [placed](sthāpitāḥ) [for-a-hundred](śatam) [+](+) [autumns](śaradām)
+nirmānuṣe[without-people] api[even] vipine[forest] sthāpitāḥ[placed] śaradāṃśatam[hundred-autumns]
 
 ## mukta-m0-p44-v1100
-[of-women](nārīṇām) [as](iva) [of-knowledges](vidyānāṃ) [face](mukhaṃ) [by-whom](kaiḥ) [not](na) [has-been-kissed](abhicuṃbitam)
+nārīṇām[women's] iva[like] vidyānām[knowledges'] mukhaṃ[face] kaiḥ[by-whom] na[not] abhicuṃbitam[kissed]

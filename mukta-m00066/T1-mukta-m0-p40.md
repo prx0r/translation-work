@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p40-v976
-[much](bahunā) [what](kim) [here](iha) [by-said](uktena) [directly](sākṣāt) [bliss](ānanda) [giver](dāyakaḥ)
+[by-much](bahunākimihoktena) [direct-giver](sākṣādānaṃdadāyakaḥ)
 
 ## mukta-m0-p40-v977
-[thus](iti) [of-second](dvitīya) [section](pātasya) [mantra](mantra) [sat](sat) [name](nāma) [declared](īritam)
+[thus](iti) [second-part](dvitīyapātasya) [mantra-name](maṃtrasannāma) [spoken](īritam)
 
 ## mukta-m0-p40-v978
-[eight](aṣṭa) [enjoyment](bhoga) [possessing](vatī) [holds](dhatte) [great](mahā) [sovereignty](sāmrājya) [lordship](nāthatām)
+[eight-enjoyment-possessing](aṣṭabhogavatī) [holds](dhatte) [great-sovereignty](mahāsāmrājya) [lordship](nāthatām)
 
 ## mukta-m0-p40-v979
-[in-all](sarva) [forms](ākāreṇa) [consciousness](caitanya) [dissolution](layaḥ) [all](sarva) [limb](aṅga) [beautiful](suṃdarī)
+[by-all-forms](sarvākāreṇa) [consciousness](caitanya) [dissolution](layaḥ) [all-limb-beautiful](sarvāṃgasuṃdarī)
 
 ## mukta-m0-p40-v980
-[universe](viśva) [decay](kṣati) [and](ca) [whatever](yatkiṃcit) [not](na) [and](ca) [goes-out](niryāti) [from-crookedness](vakrataḥ)
+[universe-wound](viśvakṣati) [and](ca) [whatever](yatkiṃcinna) [not](ca) [goes-out](niryāti) [crookedly](vakrataḥ)
 
 ## mukta-m0-p40-v981
-[not](na) [activity](ceṣṭā) [not](na) [and](ca) [agitation](saṃraṃbhaḥ) [not](na) [and](ca) [deluding](mohana) [cooing](kūjitam)
+[not](na) [effort](ceṣṭā) [not](na) [ca](ca) [agitation](saṃraṃbho) [not](na) [ca](ca) [delusion](mohana) [cry](kūjitam)
 
 ## mukta-m0-p40-v982
-[not](na) [tooth](daṃta) [striking](pātana) [fist](muṣṭi) [by-blow](ghātena) [and](ca) [any](ka) [and](ca) [seizing](grahaḥ)
+[not](na) [tooth](daṃta) [falling](pātanomuṣṭi) [blow](ghātena) [and](ca) [ka](ka) [and](ca) [graha](grahaḥ)
 
 ## mukta-m0-p40-v983
-[not](na) [girdle](mekhalā) [soft-sound](kalakvāṇaḥ) [not](na) [sport](līlā) [union](saṃgama) [breaking](bhaṃgayaḥ)
+[not](na) [girdle](mekhalā) [tinkling](kalakvāṇo) [not](na) [play-union](līlāsaṃgamaṃgayaḥ)
 
 ## mukta-m0-p40-v984
-[heart](hṛdaya) [place](sthāna) [born](janitaḥ) [trembling](kaṃpaḥ) [to-supreme](paraparā) [goes](yate)
+[heart-place](hṛdayasthāna) [born](janitaḥ) [trembling](kaṃpaḥ) [becomes-other](paraparāyate)
 
 ## mukta-m0-p40-v985
-[one](eka) [eight](aṣṭaka) [great](mahā) [sacrifice](yāga) [in-fortnight](pakṣe) [drop](biṃduṃ) [should-emit](samutsṛjet)
+[one-eight-great-rite](ekāṣṭakamahāyāga) [wing-drop](pakṣebiṃduṃ) [should-release](samutsṛjet)
 
 ## mukta-m0-p40-v986
-[eight](aṣṭa) [eight](aṣṭaka) [great](mahā) [in-sacrifice](yāge) [messenger](dūtya) [eight](aṣṭakam) [thereafter](ataḥ) [then](param)
+[eight-eight-great-rite](aṣṭāṣṭakamahāyāge) [messenger-eight](dūtyaṣṭakamataḥ) [beyond](param)
 
 ## mukta-m0-p40-v987
-[this](iyam) [indeed](eva) [verily](hi) [of-śakti](śakteḥ) [and](ca) [of-śambhu](śaṃbhoḥ) [by-oneness](ekatayā) [state](sthitiḥ)
+[this-very](iyameva) [indeed](hi) [of-power](śakteśca) [of-shambhu](śaṃbhorekatayā) [unity](ekatayā) [state](sthitiḥ)
 
 ## mukta-m0-p40-v988
-[thus](ittham) [bliss](ānaṃda) [sacrifice](yāgaḥ) [this](ayam) [told](kathitaḥ) [to-you](te) [o-great-goddess](maheśvari)
+[thus-bliss](itthamānaṃda) [rite-this](yāgo'yaṃ) [told-to-you](kathitaste) [great-goddess](maheśvari)
 
 ## mukta-m0-p40-v989
-[from-your](bhavataḥ) [face](vadana) [lotus](aṃbhojāt) [well-heard](suśrutaḥ) [eight](aṣṭa) [oblation](āhuti) [sequence](kramaḥ)
+[your](bhavato) [lotus-mouth](vadanāṃbhojāt) [well-heard](suśruto'ṣṭāhuti) [order](kramaḥ)
 
 ## mukta-m0-p40-v990
-[to-hear](śrotuṃ) [I-desire](vāṃcchāmi) [o-lord-of-gods](deveśa) [sacrifice](yāga) [after](anantara) [born](jaṃ) [sequence](kramam)
+[to-hear](śrotuṃ) [desire](vāṃcchāmi) [lord](deveśa) [rite-after-born](yāgānaṃtarajaṃ) [order](kramam)
 
 ## mukta-m0-p40-v991
-[hear](śṛṇu) [o-goddess](devi) [o-greatly-fortunate](mahābhāge) [which](yat) [me](māṃ) [you](tvaṃ) [ask](paripṛcchasi)
+[hear](śṛṇu) [goddess](devi) [great-fortunate](mahābhāge) [what-me-you](yanmāṃtvaṃ) [ask](paripṛcchasi)
 
 ## mukta-m0-p40-v992
-[hero](vīraḥ) [for-long-time](sucira) [by-dancing](nṛttena) [fatigued](śrāṃta) [linga](liṃga) [great-lord](maheśvaraḥ)
+[hero](vīraḥ) [long-dance](suciranṛttena) [tired-linga-great-lord](śrāṃtaliṃgamaheśvaraḥ)
 
 ## mukta-m0-p40-v993
-[then](atha) [polluted](pradūṣita) [in-vessel](pāte) [filled](pūrite) [with-meritorious](puṇya) [substances](vastubhiḥ)
+[then](atha) [defiled](pradūṣita) [part](pāte) [filled](pūrite) [merit-things](puṇyavastubhiḥ)
 
 ## mukta-m0-p40-v994
-[of-ānandanātha](ānaṃdanāthasya) [mantra](manuṃ) [and](ca) [twenty-eight](aṣṭāviṃśati) [times](vārakam)
+[of-bliss-lord](ānaṃdanāthasya) [mantra](manuṃcāṣṭāviṃśativārakam)
 
 ## mukta-m0-p40-v995
-[of-right](dakṣa) [hand](hastasya) [in-hollow](culuke) [having-held](dhārayitvā) [skilled-one](vicakṣaṇaḥ)
+[right-hand](dakṣahastasya) [palm](culuke) [holding](dhārayitvā) [wise](vicakṣaṇaḥ)
 
 ## mukta-m0-p40-v996
-[with-two-purifications](saśuddhibhyāṃ) [of-those-two](tayoḥ) [drop](biṃduṃ) [kārikās](kārikāḥ) [reciting](prapaṭhan) [should-pour](kiret)
+[with-purity-end-drop](saśuddhibhyāṃtayorbiṃduṃ) [verses](kārikāḥ) [reciting](prapaṭhan) [scatters](kiret)
 
 ## mukta-m0-p40-v997
-[with-these](etaiḥ) [bliss](ānanda) [sacrifice](yāga) [end](aṃta) [white](śukla) [red](śoṇita) [drops](biṃdubhiḥ)
+[by-these-bliss-rite-end](etairānaṃdayāgāṃta) [white-red-drop](śuklaśoṇitabiṃdubhiḥ)
 
 ## mukta-m0-p40-v998
-[with-these](etaiḥ) [bliss](ānanda) [sacrifice](yāga) [end](aṃta) [white](śukla) [red](śoṇita) [drops](biṃdubhiḥ)
+[by-these-bliss-rite-end](etairānaṃdayāgāṃta) [white-red-drop](śuklaśoṇitabiṃdubhiḥ)
 
 ## mukta-m0-p40-v999
-[with-these](etaiḥ) [bliss](ānanda) [sacrifice](yāga) [end](aṃta) [white](śukla) [red](śoṇita) [drops](biṃdubhiḥ)
+[by-these-bliss-rite-end](etairānaṃdayāgāṃta) [white-red-drop](śuklaśoṇitabiṃdubhiḥ)
 
 ## mukta-m0-p40-v1000
-[with-these](etaiḥ) [bliss](ānanda) [sacrifice](yāga) [end](aṃta) [white](śukla) [red](śoṇita) [drops](biṃdubhiḥ)
+[by-these-bliss-rite-end](etairānaṃdayāgāṃta) [white-red-drop](śuklaśoṇitabiṃdubhiḥ)

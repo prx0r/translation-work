@@ -2,76 +2,52 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p48-v1176
-[dharma-adharma-vyavasthā](dharmādharmavyavasthā) [ca](ca) [veda-śāstra-ādi-ḍambaraḥ](vedaśāstrādiḍaṃbaraḥ)
-
+[gloss](dharmādharmavyavasthā) [gloss](ca) [gloss](vedaśāstrādiḍaṃbaraḥ)
 ## mukta-m0-p48-v1177
-[atra-kāraṇam](atrakāraṇam) [atyartham](atyarthaṃ) [niścitya](niścitya) [brūhi](brūhi) [cit-nidhe](cinnidhe)
-
+[gloss](atrakāraṇamatyarthaṃ) [gloss](niścityabrūhi) [gloss](cinnidhe)
 ## mukta-m0-p48-v1178
-[sarvāsām](sarvāsām) [api](api) [jātīnām](jātīnāṃ) [jagdhi-yābdhi-suṣuptayaḥ](jagdhiyābdhisuṣuptayaḥ)
-
+[gloss](sarvāsāmapi) [gloss](jātīnāṃ) [gloss](jagdhiyābdhisuṣuptayaḥ)
 ## mukta-m0-p48-v1179
-[etat](etat) [hetukam](hetukaṃ) [devī](devī) [hetuḥ](hetus) [tatra](tatra) [nigadyate](nigadyate)
-
+[gloss](etat) [gloss](hetukaṃ) [gloss](devī) [gloss](hetustatra) [gloss](nigadyate)
 ## mukta-m0-p48-v1180
-[iṣṭa-sādhana-tantra-jñāḥ](iṣṭasādhanataṃtrajñāḥ) [na](na) [sarvatra](sarvatrāpi) [api](sarvatrāpi) [jātiṣu](jātiṣu)
-
+[gloss](iṣṭasādhanataṃtrajñāḥ) [gloss](na) [gloss](sarvatrāpi) [gloss](jātiṣu)
 ## mukta-m0-p48-v1181
-[pakṣīṇām](pakṣīṇām) [api](api) [sarveṣām](sarveṣāṃ) [sva-āhāre](svāhāre) [pota-poṣaṇam](potapoṣaṇam)
-
+[gloss](pakṣīṇāmapi) [gloss](sarveṣāṃ) [gloss](svāhāre) [gloss](potapoṣaṇam)
 ## mukta-m0-p48-v1182
-[āyāntam](āyāṃti) [daṇḍa-hastam](daṇḍahastaṃ) [tu](tu) [dṛṣṭvā](dṛṣṭvā) [mithyā](amithyā) [pravartate](pravarttate)
-
+[gloss](āyāṃti) [gloss](daṇḍahastaṃ) [gloss](tu) [gloss](dṛṣṭvāmithyā) [gloss](pravarttate)
 ## mukta-m0-p48-v1183
-[gamaḥ](gamaḥ])
-
+[gloss](gamaḥ)
 ## mukta-m0-p48-v1184
-[katham](kathaṃ) [jñānasya](jñānasya) [rāhityam](rāhityaṃ) [vartate](varttate) [giri-nandini](girinaṃdini)
-
+[gloss](kathaṃ) [gloss](jñānasya) [gloss](rāhityaṃ) [gloss](varttate) [gloss](girinaṃdini)
 ## mukta-m0-p48-v1185
-[paśu-ādeḥ](paśvāder) [api](api) [bodhaḥ](bodhas) [tu](tu) [manuṣya-vat](manuṣyavad) [udīkṣyate](udīkṣyate)
-
+[gloss](paśvāderapi) [gloss](bodhastu) [gloss](manuṣyavadudīkṣyate)
 ## mukta-m0-p48-v1186
-[tathā](tathā) [hi](hi) [cuñcu-grastaiḥ](cuṃcugrastaistu) [tu](cuṃcugrastaistu) [tṛṇaiḥ](tṛṇair) [niḍa-vinirmati](nidaṃvinirmati)
-
+[gloss](tathā) [gloss](hi) [gloss](cuṃcugrastaistu) [gloss](tṛṇairnidaṃvinirmati)
 ## mukta-m0-p48-v1187
-[antaḥ-gupta-pradeśatvam](aṃtargupta pradeśatvaṃ) [varṣa-vāta-anupadravam](varṣavātānupadravam)
-
+[gloss](aṃtargupta) [gloss](pradeśatvaṃ) [gloss](varṣavātānupadravam)
 ## mukta-m0-p48-v1188
-[tatra](tatra) [paṅka-lava-lagne](paṃkalavelagne) [khadyate](khadyate) [niśi-bhāsvare](niśibhāsvare)
-
+[gloss](tatra) [gloss](paṃkalavelagne) [gloss](khadyate) [gloss](niśibhāsvare)
 ## mukta-m0-p48-v1189
-[pakṣiṇī](pakṣiṇī) [bhoga-sahitaḥ](bhogasahitaḥ) [pakṣī](pakṣī) [nirviśati](nirviśatidṛvam) [drumam](nirviśatidṛvam)
-
+[gloss](pakṣiṇī) [gloss](bhogasahitaḥ) [gloss](pakṣīnirviśatidṛvam)
 ## mukta-m0-p48-v1190
-[ātānam](ātānaṃ) [ca](ca) [vitānam](vitānaṃ) [ca](ca) [tat](tat) [jñānam](jñānaṃ) [na](nādhikānnatām) [adhikāt](nādhikānnatām) [natām](nādhikānnatām)
-
+[gloss](ātānaṃ) [gloss](ca) [gloss](vitānaṃ) [gloss](ca) [gloss](tat) [gloss](jñānaṃ) [gloss](nādhikānnatām)
 ## mukta-m0-p48-v1191
-[nivedayati](nivedayati) [su-śroṇi](suśroṇi) [sva-jāti-gata-pāṭavam](svajāti gatapāṭavam)
-
+[gloss](nivedayati) [gloss](suśroṇi) [gloss](svajāti) [gloss](gatapāṭavam)
 ## mukta-m0-p48-v1192
-[eka-rūpāṇi](ekarūpāṇi) [cakrāṇi](cakrāṇi) [sāla-grāmeṣu](stālagrāmeṣu) [tanvataḥ](tanvataḥ)
-
+[gloss](ekarūpāṇi) [gloss](cakrāṇi) [gloss](stālagrāmeṣu) [gloss](tanvataḥ)
 ## mukta-m0-p48-v1193
-[brahmaṇā](brahmaṇāpi) [api](brahmaṇāpi) [na](na) [tat](tacchakyaṃ) [śakyam](tacchakyaṃ) [prati-jāti-dṛśī-gatiḥ](pratijātīdṛśīgatiḥ)
-
+[gloss](brahmaṇāpi) [gloss](na) [gloss](tacchakyaṃ) [gloss](pratijātīdṛśīgatiḥ)
 ## mukta-m0-p48-v1194
-[rātrau](rātrāvulūka) [ulūkaḥ](rātrāvulūka) [su-śroṇi](suśroṇi) [ghaṭa-ādīn](ghaṭādīn) [pratipadyate](pratipadyate)
-
+[gloss](rātrāvulūka) [gloss](suśroṇi) [gloss](ghaṭādīnpratipadyate)
 ## mukta-m0-p48-v1195
-[anya-jāteḥ](anyajāteraśakyaśca) [aśakyaḥ](anyajāteraśakyaśca) [ca](anyajāteraśakyaśca) [vartate](varttate) [vara-varṇini](varavarṇini)
-
+[gloss](anyajāteraśakyaśca) [gloss](varttate) [gloss](varavarṇini)
 ## mukta-m0-p48-v1196
-[varṇayiṣyati](varṇayiṣyati) [tat-vādaḥ](tadvādo) [vṛthā-sambhūta-ḍambaraḥ](vṛthāsaṃbhūtaḍaṃbaraḥ)
-
+[gloss](varṇayiṣyati) [gloss](tadvādo) [gloss](vṛthāsaṃbhūtaḍaṃbaraḥ)
 ## mukta-m0-p48-v1197
-[āhāram](āhāraṃ) [ca](ca) [eva](eva) [nidrā](nidrā) [ca](ca) [bhayam](bhayaṃ) [maithunam](maithunameva) [eva](maithunameva) [ca](ca)
-
+[gloss](āhāraṃ) [gloss](caiva) [gloss](nidrā) [gloss](ca) [gloss](bhayaṃ) [gloss](maithunameva) [gloss](ca)
 ## mukta-m0-p48-v1198
-[sarvadā](sarvadaika) [eka-sva-rūpāḥ](sarvadaika svarūpā) [syuḥ](syurjātayomartyavarjitāḥ) [jātayaḥ](syurjātayomartyavarjitāḥ) [amartya-varjitāḥ](syurjātayomartyavarjitāḥ)
-
+[gloss](sarvadaika) [gloss](svarūpā) [gloss](syurjātayomartyavarjitāḥ)
 ## mukta-m0-p48-v1199
-[kṛte](kṛte) [sampūrṇa-dharmāḥ](saṃpūrṇadharmāḥ) [syuḥ](syuḥsarve) [sarve](syuḥsarve) [pārvati](pārvati) [mānavāḥ](mānavāḥ)
-
+[gloss](kṛte) [gloss](saṃpūrṇadharmāḥ) [gloss](syuḥsarve) [gloss](pārvati) [gloss](mānavāḥ)
 ## mukta-m0-p48-v1200
-[bhavanti](bhavaṃti) [ca](ca) [vilīyante](vilīyaṃte) [pratāyante](pratāyaṃte) [punaḥ](punaḥ) [punaḥ](punaḥ)
+[gloss](bhavaṃti) [gloss](ca) [gloss](vilīyaṃte) [gloss](pratāyaṃte) [gloss](punaḥ) [gloss](punaḥ)
