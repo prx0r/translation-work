@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p53-v1301
-[root](mūla)+[support](ādhārā)
+[gloss](p.) [gloss](171)) [gloss](mūlādhārā) [gloss](pada)
 
 ## mukta-m0-p53-v1302
-[root](mūla)+[support](ādhārā)+[support](ādhāra)+[become](bhūtā)+[may-be](mamāstu)
+[gloss](mūlādhārādhārabhūtā) [gloss](mamāstu) [gloss](pada) [gloss](pada)
 
 ## mukta-m0-p53-v1303
-[formless](nirākārā)
+[gloss](nirākārā) [gloss](pada) [gloss](pada) [gloss](pada)
 
 ## mukta-m0-p53-v1304
-[therefore](ato)+[song](gītā)+[all](akhila)+[form](ākārā)+[formless](nirākāra)+[thus](iti)+[by-sages](sūribhiḥ)
+[gloss](ato) [gloss](gītākhilākārā) [gloss](nirākāreti) [gloss](sūribhiḥ)
 
 ## mukta-m0-p53-v1305
-[fire](vahni)+[pit](kuṇḍa)+[made](kṛta)+[abode](ālayā)
+[gloss](vahnikuṇḍakṛtālayā) [gloss](pada) [gloss](pada) [gloss](pada)
 
 ## mukta-m0-p53-v1306
-[flame](jvālā)+[garland](mālā)+[by-these](abhiḥ)+[this](eṣā)+[you](tvaṃ)+[fire](vahni)+[pit](kuṇḍa)+[made](kṛta)+[abode](ālayā)
+[gloss](jvālāmālābhireṣā) [gloss](tvaṃ) [gloss](vahnikuṇḍakṛtālayā) [gloss](pada)
 
 ## mukta-m0-p53-v1307
-[wind](vāyu)+[pit](kuṇḍa)+[comfortably](sukha)+[seated](āsīnā)
+[gloss](vāyukuṇḍasukhāsīnā) [gloss](pada) [gloss](pada) [gloss](pada)
 
 ## mukta-m0-p53-v1308
-[wind](vāyu)+[pit](kuṇḍa)+[comfortably](sukha)+[seated](āsīnā)+[because](yasmāt)+[you](tvaṃ)+[poor](dīna)+[affectionate](vatsalā)
+[gloss](vāyukuṇḍasukhāsīnā) [gloss](yasmāt) [gloss](tvaṃ) [gloss](dīnavatsalā)
 
 ## mukta-m0-p53-v1309
-[supportless](nirādhārā)
+[gloss](nirādhārā) [gloss](pada) [gloss](pada) [gloss](pada)
 
 ## mukta-m0-p53-v1310
-[supportless](nirādhārā)+[prison](kārāṃ)+[remove](haratu)+[my](mama)+[worldly](saṃsāra)+[dispersion](visarām)
+[gloss](nirādhārā) [gloss](kārāṃ) [gloss](haratu) [gloss](mama) [gloss](saṃsāravisarām)
 
 ## mukta-m0-p53-v1311
-[refugeless](nirāśrayā)
+[gloss](p.) [gloss](172)) [gloss](nirāśrayā) [gloss](pada)
 
 ## mukta-m0-p53-v1312
-[always](sadā)+[mind](āśaya)+[dissolution](laya)+[place](sthānā)+[she](sā)+[twofold](dvidhā)+[is](asti)+[refugeless](nirāśrayā)
+[gloss](sadāśayalayasthānā) [gloss](sā) [gloss](dvidhāsti) [gloss](nirāśrayā)
 
 ## mukta-m0-p53-v1313
-[breath](śvāsa)+[exhalation](ucchvāsa)+[movement](gatiḥ)
+[gloss](śvāsocchvāsagatiḥ) [gloss](pada) [gloss](pada) [gloss](pada)
 
 ## mukta-m0-p53-v1314
-[may-be](bhūyāt)+[of-good](satāṃ)+[approved](sammatā)
+[gloss](bhūyāt) [gloss](satāṃ) [gloss](sammatā) [gloss](pada)
 
 ## mukta-m0-p53-v1315
-[living-being](jīvā)
+[gloss](jīvā) [gloss](pada) [gloss](pada) [gloss](pada)
 
 ## mukta-m0-p53-v1316
-[me](māṃ)+[enliven](jīvayatu)+[this](iyam)+[non-living](ajīvatayā)+[here](iha)+[living-being](jīvā)
+[gloss](rmāṃ) [gloss](jīvayatviyamajīvatayeha) [gloss](jīvā) [gloss](pada)
 
 ## mukta-m0-p53-v1317
-[grasping](grāhiṇī)
+[gloss](p.) [gloss](173)) [gloss](grāhiṇī) [gloss](pada)
 
 ## mukta-m0-p53-v1318
-[grasping](grāhiṇī)+[she](sā)+[always](sadā)+[may-be](bhūyād)+[planet](graha)+[non-planet](agraha)+[planet-distress](grahārti)+[removing](hṛt)
+[gloss](grāhiṇī) [gloss](sā) [gloss](sadā) [gloss](bhūyād) [gloss](grahāgrahagrahārtihṛt)
 
 ## mukta-m0-p53-v1319
-[fire](vahni)+[refuge](saṃśrayā)
+[gloss](vahnisaṃśrayā) [gloss](pada) [gloss](pada) [gloss](pada)
 
 ## mukta-m0-p53-v1320
-[seat-hood](āsanatvaṃ)+[gone](gato)+[whose](yasyāḥ)+[refuge](saṃśrayaḥ)+[he](sa)+[also](ca)+[her](tāṃ)+[we-bow](numaḥ)
+[gloss](āsanatvaṃ) [gloss](gato) [gloss](yasyāḥ) [gloss](saṃśrayaḥ) [gloss](sa) [gloss](ca) [gloss](tāṃ) [gloss](numaḥ)
 
 ## mukta-m0-p53-v1321
-[fire](vahni)+[thread](tantu)+[arisen](samutthānā)
+[gloss](vahnitantusamutthānā) [gloss](pada) [gloss](pada) [gloss](pada)
 
 ## mukta-m0-p53-v1322
-[fire](vahni)+[thread](tantu)+[arisen](samutthānā)+[what-like](kīdṛśī)+[wonderful](citram)+[goddess](īśvarī)
+[gloss](vahnitantusamutthānā) [gloss](kīdṛśī) [gloss](citramīśvarī) [gloss](pada)
 
 ## mukta-m0-p53-v1323
-[six](ṣaḍ)+[tastes](rasa)+[tasting](āsvāda)+[eager](lolupā)
+[gloss](ṣaḍrasāsvādalolupā) [gloss](pada) [gloss](pada) [gloss](pada)
 
 ## mukta-m0-p53-v1324
-[mortal-world](martyaloka)+[dear](priyā)+[goddess](devī)+[six](ṣaḍ)+[tastes](rasa)+[tasting](āsvāda)+[eager](lolupā)
+[gloss](martyalokapriyā) [gloss](devī) [gloss](ṣaḍrasāsvādalolupā) [gloss](pada)
 
 ## mukta-m0-p53-v1325
-[ascetic](tapasvinī)
+[gloss](tapasvinī) [gloss](pada) [gloss](pada) [gloss](pada)

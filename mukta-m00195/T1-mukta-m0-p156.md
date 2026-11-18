@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p156-v3876
-[not](na) [indeed](hi) [thus](tathā) [power](śaktiṃ) [without](vinā) [god](devo) [not](na) [anything](kiñcit) [to-do](kartum) [is-able](ahati)
+[not](na) [indeed](hi) [thus](tathā) [power](śaktiṃ) [without](vinā) [god](devo) [not](na) [able-to-do-anything](kiñcitkartumahati)
 
 ## mukta-m0-p156-v3877
-[therefore](tasmāt) [male-female-union](puṃśakti+saṃyogaṃ) [making](kṛtvā) [mantra](mantraṃ) [accomplish](prasādhayet)
+[therefore](tasmāt) [with-puṃśakti-union](puṃśatkisaṃyogaṃ) [having-made](kṛtvā) [mantra](mantraṃ) [should-accomplish](prasādhayet)
 
 ## mukta-m0-p156-v3878
-[śiva](śivaṃ) [meditate](dhyāyed) [deity](devatā) [power-form](śakti+rūpiṇīm)
+[śiva](śivaṃ) [should-meditate](dhyāyed) [deity](devatā) [śakti-form](śaktirūpiṇīm)
 
 ## mukta-m0-p156-v3879
-[mother-mind](mātṛ+buddhiḥ) [woman-mind](strī+buddhiḥ) [kaula](kaulike) [path](pathi)
+[mother-intellect](mātṛbuddhiḥ) [woman-intellect](strībuddhiḥ) [on-kaula-path](kaulike+pathi)
 
 ## mukta-m0-p156-v3880
-[this](etad) [secret](rahasyam) [declared](ākhyātaṃ) [hidden](gopyaṃ) [in-mother](mātari) [like-lover](jāravat)
+[this](etad) [secret](rahasyam) [told](ākhyātaṃ) [hidden](gopyaṃ) [like-lover-with-mother](mātari+jāravat)
 
 ## mukta-m0-p156-v3881
-[give](dadyāt) [deity-indeed](devatā+eva) [mantra](mantraṃ) [that](tat) [I-declare](prabravīmi) [I](aham)
+[should-give](dadyāt) [deity-itself](devataiva) [mantra](mantraṃ) [that](tat) [I-declare](prabravīmi+aham)
 
 ## mukta-m0-p156-v3882
-[joined](yuktān) [vowel-quartet](svara+catuṣkeṇa) [then](atha) [increasing-numbers](uttarottara+saṅkhyakān)
+[united](yuktān) [with-four-vowels](svaracatuṣkeṇa) [then](atha) [increasing-numbers](uttarottarasaṅkhyakān)
 
 ## mukta-m0-p156-v3883
-[again](punar) [two](dvau) [and](ca) [classes](vargau) [sign-indicating](saṅketa+vācakau)
+[again](punar) [two](dvau) [also](ca) [groups](vargau) [sign-indicating](saṅketavācakau)
 
 ## mukta-m0-p156-v3884
-[vowels](svarāḥ) [in-that-order](tat+krameṇa) [west-north-gods](paścima+uttara+devayoḥ)
+[vowels](svarāḥ) [in-that-order](tat+krameṇa) [of-western-and-northern-deities](paścimottaradevayoḥ)
 
 ## mukta-m0-p156-v3885
-[to-be-done](prakartavyaṃ) [by-Vedic](vaidikena) [but](tu) [something](kiñcana)
+[should-be-done](prakartavyaṃ) [by-vaidika](vaidikena) [but](tu) [something](kiñcana)
 
 ## mukta-m0-p156-v3886
-[to-be-taken](grāhyā) [letters](varṇāḥ) [one-etc-numbers](ekādi+saṅkhyakāḥ)
+[should-be-taken](grāhyā) [letters](varṇāḥ) [one-etc-numbers](ekādisaṅkhyakāḥ)
 
 ## mukta-m0-p156-v3887
-[when-comes](yadā+āyāti) [then](tadā) [dream](svapnaḥ) [arises](prajāyate)
+[when-it-comes](yadā+āyāti) [then](tadā) [dream](svapnaḥ) [arises](prajāyate)
 
 ## mukta-m0-p156-v3888
-[not-indeed](na+eva) [when](yadā) [pīṭha](pīṭhena) [name-mark-joining](nāma+aṅka+yojanam)
+[not-indeed](naiva) [when](yadā) [with-pīṭha-not-marked](pīṭhenāmāṅkayojanam)
 
 ## mukta-m0-p156-v3889
-[taken](gṛhītaḥ) [if](cet) [that](sa) [mantra](mantraḥ) [destroyer](nāśakaḥ) [becomes](bhavet)
+[if-grasped](gṛhītaḥ+cet) [that](saḥ) [mantra](mantraḥ) [destroyer](nāśakaḥ) [becomes](bhavet)
 
 ## mukta-m0-p156-v3890
 [as](yathā)
 
 ## mukta-m0-p156-v3891
-[to-be-written](lekhyam) [north-middle](udaṅ+madhye) [thus](tathā) [near](antikam)
+[written](lekhya) [in-northern-middle](udaṅmadhye) [thus](tathā) [near](antikam)
 
 ## mukta-m0-p156-v3892
-[write](likhet) [after](paścāt) [horse-gait](aśva+gatyā) [indeed](eva) [as-before](pūrvavat)
+[should-write](likhet) [afterward](paścāt) [horse-gait-thus](aśvagatyā+eva) [as-before](pūrvavat)
 
 ## mukta-m0-p156-v3893
-[do](kuryāt) [eastward](prāk+vat) [horse-gait](aśva+gatiṃ) [again](punaḥ)
+[should-do](kuryāt) [eastward](prāk) [like-horse-gait](vadaśvagatiṃ) [again](punaḥ)
 
 ## mukta-m0-p156-v3894
 [arises](jāyate) [completion](pūrtiḥ) [everywhere](sarvataḥ) [agreed](saṃmatā) [in-order](kramāt)
 
 ## mukta-m0-p156-v3895
-[having-arranged](prakalpya) [then](atha) [Māheśī](māheśyām) [last](antimaṃ) [place](nyaset)
+[having-arranged](prakalpya) [then](atha) [of-māheśī](māheśyām) [last](antimaṃ) [should-place](nyaset)
 
 ## mukta-m0-p156-v3896
-[northwest](vāyavyām) [but](tu) [second](dvitīyaṃ) [be](syāt) [then](tataḥ) [number](saṅkhyā) [as](yathā) [becomes](bhavet)
+[in-northwest](vāyavyāṃ) [but](tu) [second](dvitīyaṃ) [should-be](syāt) [then](tataḥ) [number](saṅkhyā) [as](yathā) [becomes](bhavet)
 
 ## mukta-m0-p156-v3897
-[that-opponent](tat+pratisparddhinaḥ) [to-be-placed](sthāpyāḥ) [that-opponent's](tat+spardhinyām) [thus](tathā) [direction](diśi)
+[its-rivals](tatpratisparddhinaḥ) [should-place](sthāpyāḥ) [their-rival](tatspardhinyāṃ) [thus](tathā) [direction](diśi)
 
 ## mukta-m0-p156-v3898
-[dividend-divisor-leaves](bhājya+bhājaka+patrāṇām) [then](atha) [or](vā) [write](lekhayet) [order](kramam)
+[of-dividend-divisor-leaves](bhājyabhājakapatrāṇām) [then](atha) [or](vā) [should-write](lekhayet) [order](kramam)
 
 ## mukta-m0-p156-v3899
-[having-bathed](snātvā) [before](prāk) [sun-rise](sūrya+udayataḥ) [then](tataḥ)
+[having-bathed](snātvā) [before-sunrise](prāk+sūryodayataḥ) [then](tataḥ)
 
 ## mukta-m0-p156-v3900
-[but](tu) [not-look](na+īkṣeta) [sound](śabdaṃ) [not-indeed](na+eva) [use](prayojayet)
+[but](tu) [should-not-look](nekṣeta) [sound](śabdaṃ) [not-indeed](naiva) [should-use](prayojayet)

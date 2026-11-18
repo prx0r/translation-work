@@ -2,34 +2,34 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p90-v2226
-[delights](ramate) [some](kācid) [alone](ekaiva) [mother-circle-dweller](mātṛmaṇḍalavāsinī)
+[delights](ramate) [some](kācid) [alone](ekaiva) [mother+circle+dwelling](mātṛmaṇḍalavāsinī)
 
 ## mukta-m0-p90-v2227
-[child-mother](kumāra+jananī)
+[mother+of+Kumāra](kumārajananī)
 
 ## mukta-m0-p90-v2228
-[death-time-bond](mārakāla+kalana+ekabandhanaṃ) [she](sā) [child-mother](kumāra+jananī) [maiden](kumārikā)
+[death+time+binding](mārakālakalanaikabandhanaṃ) [she](sā) [mother+of+Kumāra](kumārajananī) [maiden](kumārikā)
 
 ## mukta-m0-p90-v2229
 [cruel](krūrā)
 
 ## mukta-m0-p90-v2230
-[moon-ray-form](rākā+kara+kārākāraṃ) [prisoners](kārākīḥ) [maker](kārakaṃ) [hand](kare)
+[full-moon+maker+form](rākākarākarākāraṃ) [prisoner](kārākīḥ) [maker](kārakaṃ) [hand](kare)
 
 ## mukta-m0-p90-v2231
 [fair-faced](sumukhī)
 
 ## mukta-m0-p90-v2232
-[face](mukhaṃ) [auspicious](śivā) [she](sā) [fair-faced](sumukhī+iti) [chief](mukhyā)
+[face](nmukhaṃ) [auspicious](śivā) [she](sā) [fair-faced](sumukhīti) [chief](mukhyā)
 
 ## mukta-m0-p90-v2233
-[fever-destroyer](jvaranāśinī)
+[fever+destroying](jvaranāśinī)
 
 ## mukta-m0-p90-v2234
-[fever-destroyer](jvaranāśinī+iti) [indeed](kila) [she](sā) [lovely](lalitā)
+[fever+destroying](jvaranāśinīti) [indeed](kila) [she](sā) [charming](lalitā)
 
 ## mukta-m0-p90-v2235
-[wonder-play](citrānteha+vilāsanāmni) [cessation](viratiṃ) [devotion](bhaktiḥ) [thirteenth](trayodaśyagāt)
+[wonder+end+here](citrānteha) [play+name](vilāsanāmni) [cessation](viratiṃ) [devotion+thirteenth](bhaktistrayodaśyagāt)
 
 ## mukta-m0-p90-v2236
 [thirteenth](trayodaśī) [devotion](bhaktiḥ)
@@ -38,40 +38,40 @@
 [past](atītā)
 
 ## mukta-m0-p90-v2238
-[those](tā) [when](yadā) [not](no) [measured](mānudito) [disputants](vādino+ agre) [what](kim) [knowledge](āvidi)
+[those](tā) [when](yadā) [not](no) [measured](mānudito) [speakers](vādino'gre) [what+knowledge](kimāvidi)
 
 ## mukta-m0-p90-v2239
 [existing](vidyamānā)
 
 ## mukta-m0-p90-v2240
-[destined](diṣṭe) [blameless](anavadya) [clarity](vaiṣadya) [heartfelt](hṛdyā) [at-once](sadyaḥ) [be-pleased](prasīdatāt)
+[destined](diṣṭe) [faultless+clarity+heartfelt](anavadyavaiṣadyahṛdyā) [at-once](sadyaḥ) [be-pleased](prasīdatāt)
 
 ## mukta-m0-p90-v2241
 [future](bhāvinī)
 
 ## mukta-m0-p90-v2242
-[parvati](bhavānī) [future](bhāvinī) [various](nānā) [birth](bhave) [new-new](navanave) [forest](vana)
+[Bhavānī](bhavānī) [future](bhāvinī) [various+births](nānābhave) [new+new](navanave) [forest](vana)
 
 ## mukta-m0-p90-v2243
-[love-bud](prītimañjarī)
+[love+cluster](prītimañjarī)
 
 ## mukta-m0-p90-v2244
-[by-whom](yayā) [dear](priyaṃ) [dear](priyaṃ) [various-various](nānā+nānā) [dear-even](priyam+api) [dear](priyam)
+[by-whom+dear](yayāpriyaṃ) [dear](priyaṃ) [various+various+dear](nānānānāpriyamapi) [dear](priyam)
 
 ## mukta-m0-p90-v2245
-[all-comfort](sarvasaukhya) [possessing](vatī) [method](yuktiḥ)
+[all+comfort+possessing](sarvasaukhyavatī) [method](yuktiḥ)
 
 ## mukta-m0-p90-v2246
-[all-comfort](sarvasaukhya) [possessing](vatī) [method](yuktiḥ) [conquers](jayati) [this-alone](eṣaiva) [learned-form](vidvapuḥ)
+[all+comfort+possessing](sarvasaukhyavatī) [method](yuktirjayatyeṣaiva) [wise+form](vidvapuḥ)
 
 ## mukta-m0-p90-v2247
-[food-transformer](āhāra+pariṇāminī)
+[food+transforming](āhārapariṇāminī)
 
 ## mukta-m0-p90-v2248
-[she](sā) [some](kāpi) [is-sung](gīyate) [by-knowers](tajjñair) [food-transformer](āhāra+pariṇāminī)
+[she](sā) [some](kāpi) [is-sung](gīyate) [by-knowers](tajjñairāhārapariṇāminī)
 
 ## mukta-m0-p90-v2249
-[cause](nidānaṃ) [five-elements](pañcabhūtānām)
+[cause](nidānaṃ) [five+elements](pañcabhūtānām)
 
 ## mukta-m0-p90-v2250
-[cause](nidānaṃ) [five-elements](pañcabhūtānām) [conquers](jayati) [nature-splendor](prakṛti+prabhā)
+[cause](nidānaṃ) [five+elements](pañcabhūtānāṃ) [conquers](jayati) [nature+radiance](prakṛtiprabhā)

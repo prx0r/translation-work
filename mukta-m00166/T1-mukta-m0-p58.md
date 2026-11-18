@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p58-v1426
-good-rain (su-vṛṣṭiḥ)
+[good](su)+[rain](vṛṣṭiḥ)
 
 ## mukta-m0-p58-v1427
-nourishment-one-cause (puṣṭi-eka-hetuḥ) bright-expanded-sight (su-vikāsa-dṛṣṭeḥ)
+[nourishment](puṣṭi)+[sole](eka)+[cause](hetuḥ) [well](su)+[expanded](vikāsi)+[sight](dṛṣṭeḥ)
 
 ## mukta-m0-p58-v1428
-cause (hetoḥ) durga-art-also (durga-kalā-api) spread (pravitatā) devotion-new-limb-arrival (bhaktiḥ-navā-aṅka-āgamat)
+[cause](hetoḥ)+[durgā](durgā)+[art](kalā)+[also](api) [spread](pravitatā) [devotion](bhaktiḥ)+[new](nava)+[limb](aṅka)+[arrival](āgamat)
 
 ## mukta-m0-p58-v1429
-ninth (navamī) devotion (bhaktiḥ)
+[ninth](navamī) [devotion](bhaktiḥ)
 
 ## mukta-m0-p58-v1430
-crop-increasing (sasya-varddhinī)
+[grain](sasya)+[increasing](varddhinī)
 
 ## mukta-m0-p58-v1431
-seed-ness (bīja-tvam) that (yad) compassion-bound (dayā-baddham) she (sā) goddess (devī) crop-increasing (sasya-varddhinī)
+[seed](bīja)+[ness](tvaṃ) [which](yad)+[compassion](dayā)+[bound](baddhaṃ) [she](sā) [goddess](devī) [grain](sasya)+[increasing](varddhinī)
 
 ## mukta-m0-p58-v1432
-a-syllable (akārā)
+[a](a)+[letter](kārā)
 
 ## mukta-m0-p58-v1433
-garva-not-small (garva-akharvaḥ) all-varṇa-one-first (sarva-varṇa-eka-pūrvā) with-form (sākāra) this (iyam) sung (gīyate) by-yoga-lords (yogināthaiḥ)
+[womb](garvaḥ)+[not-small](akharvaḥ) [all](sarva)+[letter](varṇa)+[one](eka)+[first](pūrvā) [with-form](sākārā)+[this](iyam) [sung](gīyate) [yogin](yogin)+[lords](nāthaiḥ)
 
 ## mukta-m0-p58-v1434
-i-syllable (ikārā)
+[i](i)+[letter](kārā)
 
 ## mukta-m0-p58-v1435
-lovely-i-syllable (ramya-ikārā) this (iyam) a-less (ākāra-hīnā)
+[lovely](ramyā)+[i-letter](ikārā) [she](sā)+[this](iyam)+[a-letter](ākāra)+[without](hīnā)
 
 ## mukta-m0-p58-v1436
-u-syllable (ukārā)
+[u](u)+[letter](kārā)
 
 ## mukta-m0-p58-v1437
-u-syllable-this (u-kāra-iyam) proclaimed (kīrtitā) by-form-knowers (mūrti-vidbhiḥ)
+[with-u](sokārā)+[this](iyam) [praised](kīrtitā) [form-knowers](mūrtavidbhiḥ)
 
 ## mukta-m0-p58-v1438
-ai-syllable-form (aikāra-rūpiṇī)
+[ai](ai)+[letter](kāra)+[form](rūpiṇī)
 
 ## mukta-m0-p58-v1439
-new (navaṃ) new (navaṃ) well-auspicious (subhavyānāṃ) deity-ai-form (devatā-aikāra-rūpiṇī)
+[new](navaṃ) [new](navaṃ) [well-auspicious](subhavyānāṃ) [deity](devatā)+[ai-letter](aikāra)+[form](rūpiṇī)
 
 ## mukta-m0-p58-v1440
-hrīṃ-syllable (hrīṃkārī)
+[hrīṃ](hrīṃ)+[letter](kārī)
 
 ## mukta-m0-p58-v1441
-hrīṃ-syllable-this (hrīṃkārī-iyam) heart-residing (hṛd-gatā) for-us (naḥ) always (sadā) be (stu)
+[hrīṃ-letter](hrīṃkārī)+[this](iyam) [heart](hṛd)+[gone](gatā) [us](naḥ) [always](sadā)+[be](astu)
 
 ## mukta-m0-p58-v1442
-seed-form (bīja-rūpā)
+[seed](bīja)+[form](rūpā)
 
 ## mukta-m0-p58-v1443
-she (sā) seed-form (bīja-rūpā) of-veda-tree (nigama-drumasya)
+[she](sā) [seed](bīja)+[form](rūpā) [veda](nigama)+[tree](drumasya)
 
 ## mukta-m0-p58-v1444
-klīṃ-syllable (klīṃkārā)
+[klīṃ](klīṃ)+[letter](kārā)
 
 ## mukta-m0-p58-v1445
-always (nityaṃ) desire (kāmāt) him (tam) how (kathaṃ) not (na) remember (smaranti)
+[always](nityaṃ) [desire](kāmāt) [him](taṃ) [how](kathaṃ) [not](na) [remember](smaranti)
 
 ## mukta-m0-p58-v1446
-sky-dwelling (ambara-vāsinī)
+[sky](ambara)+[dwelling](vāsinī)
 
 ## mukta-m0-p58-v1447
-oneself (svayaṃ) objectless (nir-viṣayā) I-know (jāne) become-sky-dwelling (saṃvṛttā-ambara-vāsinī)
+[self](svayaṃ) [objectless](nirviṣayā) [I-know](jāne) [become](saṃvṛttā)+[sky](ambara)+[dwelling](vāsinī)
 
 ## mukta-m0-p58-v1448
-all-syllable-mayī (sarva-akṣara-mayī) power (śaktiḥ)
+[all](sarva)+[letter](akṣara)+[full](mayī) [power](śaktiḥ)
 
 ## mukta-m0-p58-v1449
-all-syllable-mayī (sarva-akṣara-mayī) power (śaktiḥ) shine (sphuratāt) in-heart (hṛdaye) mine (mama)
+[all](sarva)+[letter](akṣara)+[full](mayī) [power](śaktiḥ) [shine](sphuratāt)+[heart](hṛdaye) [mine](mama)
 
 ## mukta-m0-p58-v1450
-syllable (akṣarā)
+[letter](akṣarā)
