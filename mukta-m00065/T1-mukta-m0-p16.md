@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p16-v376
-[born-of-mahendra-and-varuna](māhendrīvāruṇījātāḥ) [weapons](śastrāḥ) [and](ca) [others](anye) [also](ca) [condemned](garhitāḥ)
+māhendrī (Indra's) vāruṇī (Varuna's) jātāḥ (born) śastrāḥ (weapons) ca (and) anye (others) ca (and) garhitāḥ (condemned)
 
 ## mukta-m0-p16-v377
-[shami-grape](śamīdrākṣā) [wine-named](surāhvaḥ) [and](ca) [these-nine](navaite) [brahmin-peace-giving](vipraśāntidāḥ)
+śamī (śamī tree) drākṣā (grape) surā-āhvāḥ (called surā) ca (and) nava (nine) ete (these) vipra-śānti-dāḥ (giving peace to brahmins)
 
 ## mukta-m0-p16-v378
-[kadara-white-khadira](kadarā) [sorrow-vegetable](śokaśākaṃ) [and](ca) [horned-tree](śṛṅgī) [king-prosperity-giving](nṛpabhūtidā)
+kadarā (kadara tree) śoka-śākaṃ (śoka vegetable) ca (and) śṛṅgī (śṛṅgī tree) ca (and) nṛpa-bhūti-dā (giving prosperity to king)
 
 ## mukta-m0-p16-v379
-[sarala](saralaḥ) [jackfruit](panasaḥ) [seed](bījaḥ) [these](ityete) [vaishya-growth-giving](vaiśyavṛddhidāḥ)
+saralaḥ (sarala tree) panasaḥ (jackfruit) bīja (seed) iti (thus) ete (these) vaiśya-vṛddhi-dāḥ (giving growth to vaiśya)
 
 ## mukta-m0-p16-v380
-[golden-asana](kāñcanāsana) [lodhra](lodhrāḥ) [and](ca) [sal](sāla) [shudra-nourishment-giving](śūdrasyapuṣṭidāḥ)
+kāñcana-asana (kāñcana and asana) lodhrāḥ (lodhra) ca (and) sāla (sāla) śūdrasya-puṣṭi-dāḥ (giving nourishment to śūdra)
 
 ## mukta-m0-p16-v381
-[well-placed](subhūsthāḥ) [beautiful](śobhanāḥ) [heart-pleasing](hṛdyāḥ) [health-youth-bearing](ārogyā-yauvanodvahāḥ)
+subhu-sthāḥ (well-placed) śobhanā (beautiful) hṛdyā (heart-pleasing) ārogyā (healthy) yauvana-udvahāḥ (bearing youth)
 
 ## mukta-m0-p16-v382
-[essence-centered](sāramadhyāḥ) [very-strong](draḍhīyāṃsaḥ) [not-other-works](nānyakāryeṣu) [employed](yojitāḥ)
+sāra-madhyā (having heartwood middle) draḍhīyāṃsaḥ (very firm) na (not) anya-kāryeṣu (for other works) yojitāḥ (employed)
 
 ## mukta-m0-p16-v383
-[knotted-vein-possessing](granthitulyaśirāyuktān) [old-young-sick](bṛddhabālāturāṃs) [trees](tarūn)
+granthi-tulya-śirā-yuktān (having knotted veins) bṛddha-bāla-āturān (old, young, sick) tarūn (trees)
 
 ## mukta-m0-p16-v384
-[ant-hill-born](valmikotthān) [cremation-ground-born](śmaśānotthān) [fruit-water](phalāmbhaḥ) [used](sevitān) [abandon](tyajet)
+valmika-utthān (ant-hill born) śmaśāna-utthān (cremation-ground born) phala-ambhaḥ (fruit/water) sevitān (used) tyajet (abandon)
 
 ## mukta-m0-p16-v385
-[thorn-contact](kharitsaṅgama) [god-born](devotthān) [ascetic-hermitage-born](tāpasāśramajān) [abandon](tyajet)
+khari-saṅgama-deva-utthān (born from donkey contact/god) tāpasa-āśrama-jān (born in ascetic hermitage) tyajet (abandon)
 
 ## mukta-m0-p16-v386
-[quickly](acireṇaiva) [time](kālena) [lame](cālakaḥ) [not](na) [becomes](bhaved) [that](asau)
+acireṇa (quickly) eva (indeed) kālena (in time) cālakaḥ (shaky) na (not) bhavet (becomes) asau (that)
 
 ## mukta-m0-p16-v387
-[divine-rite](devakārye) [no-fault](na-doṣaḥ) [would-be](syāt) [thus-said](ityuktaṃ) [parameshvara](pārameśvare)
+deva-kārye (in divine work) na (no) doṣaḥ (fault) syāt (would be) iti (thus) uktaṃ (said) pārameśvare (in Pārameśvara)
 
 ## mukta-m0-p16-v388
-[purify](śodhayed) [ground-portion](bhūmibhāgaṃ) [tu](tu) [four-directions](caturdikṣu) [all-around](samantataḥ)
+śodhayet (purify) bhūmi-bhāgaṃ (land portion) tu (but) catur-dikṣu (in four directions) samantataḥ (all around)
 
 ## mukta-m0-p16-v389
-[then](tataḥ) [artisan-leaders](śilpipradhānāḥ) [and](ca) [helpers](sahāyāḥ) [flowers-etc](kusumādibhiḥ)
+tataḥ (then) śilpi-pradhānāḥ (chief artisans) ca (and) sahāyāḥ (assistants) kusuma-ādibhiḥ (with flowers etc)
 
 ## mukta-m0-p16-v390
-[contrary](viparīta) [then](tadā) [minister](mantrī) [from-afar](dūrataḥ) [that](taṃ) [avoid](vivarjayet)
+viparīta (inauspicious) tadā (then) mantrī (mantrin) dūrataḥ (from afar) taṃ (him) vivarjayet (avoid)
 
 ## mukta-m0-p16-v391
-[cow-dung](gomayena) [then](tato) [ground](bhūmi) [smearing](lepayitvā) [guru](guruḥ) [then](tadā)
+gomayena (with cow dung) tataḥ (then) bhūmi (ground) lepayitvā (having plastered) guruḥ (guru) tadā (then)
 
 ## mukta-m0-p16-v392
-[meditating](dhyātvā) [god](devaṃ) [and](ca) [informing](vijñāpya) [making-arghya](kṛtvācārghyaṃ) [wise](vicakṣaṇaḥ)
+dhyātvā (having meditated) devaṃ (god) ca (and) vijñāpya (having informed) kṛtvā (having made) arghyaṃ (arghya) vicakṣaṇaḥ (wise)
 
 ## mukta-m0-p16-v393
-[weapon](astraṃ) [meditating](dhyātvā) [worship](yajet) [mantrin](mantrī) [armor](varmaṇā) [wrap](pariveṣṭayet)
+astraṃ (weapon) dhyātvā (having meditated) yajet (worship) mantrī (mantrin) varmaṇā (with armor) pariveṣṭayet (enclose)
 
 ## mukta-m0-p16-v394
-[shiva](śiva) [worshiping](saṃpūjya) [fire-placed](vahnistha) [new-offering](navadyaṃ) [offer](ḍhaukayet) [oblation](carum)
+śiva (Śiva) saṃpūjya (having worshipped) vahni-stha (fire-placed) nava-dyaṃ (new offering) ḍhaukayet (offer) carum (caru)
 
 ## mukta-m0-p16-v395
-[informing](vijñāpya) [work-weapons](karmaśastrāṇi) [worship](pūjayet) [satisfy](tarpayed) [also](api)
+vijñāpya (having informed) karma-śastrāṇi (work weapons) pūjayet (worship) tarpayet (satisfy) api (also)
 
 ## mukta-m0-p16-v396
-[then](tato) [informing](vijñāpya) [lord](deveśa) [do](kuryāt) [touching](ālaṃbhanaṃ) [again](punaḥ)
+tataḥ (then) vijñāpya (having informed) deveśa (lord of gods) kuryāt (do) ālaṃbhanaṃ (touching) punaḥ (again)
 
 ## mukta-m0-p16-v397
-[beating](tāḍanaṃ) [ashes](bhasmanā) [weapon](astreṇa) [sprinkling](prokṣaṇaṃ) [shiva-water](śivavāriṇā)
+tāḍanaṃ (striking) bhasmanā (with ash) astreṇa (with weapon) prokṣaṇaṃ (sprinkling) śiva-vāriṇā (with Śiva water)
 
 ## mukta-m0-p16-v398
-[cloth](vastraṃ) [three-thread](trisūtraṃ) [tree](vṛkṣasya) [stone](śilāyāḥ) [and](ca) [kusha-included](kuśānvitam)
+vastraṃ (cloth) tri-sūtraṃ (three-threaded) vṛkṣasya (of tree) śilāyāḥ (of stone) ca (and) kuśa-anvitaṃ (with kuśa)
 
 ## mukta-m0-p16-v399
-[combined-mantra](saṃhitoktena) [mantra](mantreṇa) [bathing-cloth-etc](snānavastrādikaṃ) [becomes](bhavet)
+saṃhitā-uktena (as stated in saṃhitā) mantreṇa (by mantra) snāna-vastra-ādikaṃ (bathing, cloth, etc.) bhavet (should be)
 
 ## mukta-m0-p16-v400
-[give](dadyāt) [offering](baliṃ) [ca](ca) [black-gram-food](māṣānnaiḥ) [meatless-liquor-included](āmiṣāsavasaṃyutaiḥ)
+dadyāt (give) baliṃ (offering) ca (and) māṣa-annaiḥ (with māṣa food) āmiṣa-āsava-saṃyutaiḥ (with meat and liquor)

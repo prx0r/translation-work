@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p19-v451
-[red](raktā) [yellow](pītā) [and](ca) [of-king](bhūpasya) [of-people](viśaḥ) [dark-kulattha-colored](śyāmakulatthabhāḥ)
+[red](raktā) [yellow](pītā) [and](ca) [king's](bhūpasya) [people](viśaḥ) [dark-kulattha-colored](śyāmakulatthabhāḥ)
 
 ## mukta-m0-p19-v452
-[indra-bow-like](indrācāpopamā) [streaks](rekhāḥ) [all](sarvā) [beauty-wealth-prosperity-giving](śrīvasubhūtidāḥ)
+[indra's-bow-like](indrācāpopamā) [streaks](rekhāḥ) [all](sarvā) [beauty](śrī) [wealth](vasu) [prosperity-giving](bhūtidāḥ)
 
 ## mukta-m0-p19-v453
-[mark-rich](lakṣaṇāḍhyā) [few-faults](alpadoṣā) [which](yā) [acceptable](grāhyā) [that](sā) [homa-purified](homaśodhitā)
+[mark-rich](lakṣaṇāḍhyā) [few-defects](alpadoṣā) [which](yā) [acceptable](grāhyā) [that](sā) [homa-purified](homaśodhitā)
 
 ## mukta-m0-p19-v454
-[in-indra-īśāna-moon-wood-directions](indreśānendukāṣṭhāsu) [of-it](tasyā) [head](mastaka) [desired](miṣyate)
+[indra-īśāna-moon-wood](indreśānendukāṣṭhāsu) [its](tasyā) [head](mastaka) [desired](iṣyate)
 
 ## mukta-m0-p19-v455
-[in-three-kinds](trividheṣu) [also](api) [in-phalluses](liṅgeṣu) [in-stone](śilāyāṃ) [no](na) [other](aparo) [rite](vidhiḥ)
+[three-kinds](trividheṣu) [also](api) [liṅgas](liṅgeṣu) [stone](śilāyāṃ) [no](na) [other](aparaḥ) [rite](vidhiḥ)
 
 ## mukta-m0-p19-v456
-[faults](doṣān) [from-elder-etc](vṛddhādikān) [we-speak](brūmaḥ) [in-eighty-eight](cāṣṭāśīti) [varieties](prabhedataḥ)
+[defects](doṣān) [old-etc](vṛddhādikān) [we-speak](brūmaḥ) [eighty-eight](aṣṭāśīti) [varieties](prabhedataḥ)
 
 ## mukta-m0-p19-v457
-[porous](śūṣiraṃ) [blistered](sphoṭakaṃ) [sky-like](vyomaṃ) [mud-like](gārā) [membrane-net](paṭalajālakam)
+[hollow](śūṣiraṃ) [blister](sphoṭakaṃ) [sky-like](vyomaṃ) [mud](gārā) [film-net](paṭalajālakam)
 
 ## mukta-m0-p19-v458
-[mark](lakṣaṇaṃ) [I-tell](kathayāmi) [of-these](eṣāṃ) [briefly](saṃkṣepeṇa) [by-types](prabhedataḥ)
+[mark](lakṣaṇaṃ) [I-tell](kathayāmi) [these](eṣāṃ) [briefly](saṃkṣepeṇa) [by-types](prabhedataḥ)
 
 ## mukta-m0-p19-v459
-[harsh](niṣṭhurā) [and](ca) [very-rough](atirūkṣā) [aged](vṛddhā) [work-destroying](kāryavināśinī)
+[harsh](niṣṭhurā) [very-rough](atirūkṣā) [old](vṛddhā) [work-destroying](kāryavināśinī)
 
 ## mukta-m0-p19-v460
-[hammer-blow-intolerant](ṭaṅkaghātāsahiṣṇuṃ) [ca](ca) [not](na) [that](tāṃ) [for-deity](devāya) [one-should-use](yojayet)
+[hammer-blow-intolerant](ṭaṅkaghātāsahiṣṇuṃ) [not](na) [that](tāṃ) [to-deity](devāya) [employ](yojayet)
 
 ## mukta-m0-p19-v461
-[therefore](tasmāt) [image-made](bimbātmakaṃ) [stone](cāśma) [one-should-cut](saṃchindyāt) [wood](dāru) [thus](vai) [tathā](tathā)
+[therefore](tasmāt) [image-made](bimbātmakaṃ) [stone](aśma) [cut](saṃchindyāt) [wood](dāru) [so](tathā)
 
 ## mukta-m0-p19-v462
-[seven](saptā) [other](anyāni) [ca](ca) [variegated](citrāṇi) [fourfold](caturdhā) [plastering](lepanaṃ) [tathā](tathā)
+[seven](saptā) [other](anyāni) [also](ca) [colored](citrāṇi) [fourfold](caturdhā) [plastering](lepanaṃ) [so](tathā)
 
 ## mukta-m0-p19-v463
-[brownish](kāpilaṃ) [orpiment-colored](haritālābhaṃ) [pigeon-colored](kāpota) [dark-colored](malivarṇakam)
+[brownish](kāpilaṃ) [orpiment-colored](haritālābhaṃ) [pigeon-colored](kāpotaṃ) [dark-colored](alivarṇakam)
 
 ## mukta-m0-p19-v464
-[flame-tree-colored](kiṃśukābhaṃ) [safflower-colored](kusumbhābhaṃ) [flax-flower-similar](atasīpuṣpasannibham)
+[kiṃśuka-colored](kiṃśukābhaṃ) [safflower-colored](kusumbhābhaṃ) [flax-flower-similar](atasīpuṣpasannibham)
 
 ## mukta-m0-p19-v465
-[champaka-colored](campakābhaṃ) [ca](ca) [blue-colored](nīlābhaṃ) [mixed-red-yellow](miśralohitapītakam)
+[campaka-colored](campakābhaṃ) [and](ca) [blue-colored](nīlābhaṃ) [mixed-red-yellow](miśralohitapītakam)
 
 ## mukta-m0-p19-v466
-[red](raktaṃ) [ca](ca) [pale](pāṇḍaraṃ) [ca](ca) [eva](eva) [womb-faults](garbhadoṣān) [I-speak](vadāmi) [ataḥ](ataḥ)
+[red](raktaṃ) [and](ca) [pale](pāṇḍaraṃ) [caiva](caiva) [womb-defects](garbhadoṣān) [I-speak](vadāmyaham)
 
 ## mukta-m0-p19-v467
-[jaggery-colored](guḍavarṇe) [stone](śilā) [other](nyā) [syāt](syāt) [tena](tenā) [no-rain](avṛṣṭiḥ) [becomes](bhavet) [long](ciram)
+[jaggery-colored](guḍavarṇe) [stone](śilā) [other](anyā) [would-be](syāt) [by-that](tena) [drought](avṛṣṭiḥ) [long](ciram)
 
 ## mukta-m0-p19-v468
-[madder-colored](mañjiṣṭhābhe) [becomes](bhavet) [frog](bhekaḥ) [crop-destruction](śasyanāśo) [from-water](jalāt) [fear](bhayam)
+[madder-colored](mañjiṣṭhābhe) [frog](bhekaḥ) [crop-destruction](śasyanāśaḥ) [from-water](jalāt) [fear](bhayam)
 
 ## mukta-m0-p19-v469
-[yellow](pīte) [iguana](godhā) [king](nṛpaṃ) [kills](hanyāt) [disease](vyādhim) [pain-causing](pīḍākarī) [ca](ca) [sā](sā)
+[yellow](pīte) [iguana](godhā) [king](nṛpaṃ) [kills](hanyāt) [pain-giving](pīḍākarī) [and](ca) [that](sā)
 
 ## mukta-m0-p19-v470
-[palm-colored](tālābhe) [crab](karkaṭaḥ) [bile-disease](pittaroga) [womb-famine-causing](darbhikṣakṛt) [ca](ca) [saḥ](saḥ)
+[palm-colored](tālābhe) [crab](karkaṭaḥ) [bile-disease](pittaroga) [miscarriage](darbhikṣa) [maker](kṛt) [and](ca) [that](saḥ)
 
 ## mukta-m0-p19-v471
 [eldest](jyeṣṭhā) [pigeon-throat-colored](kapotakaṇṭhābhe) [disease-poverty-fear-giving](vyādhidāridryabhītidā)
 
 ## mukta-m0-p19-v472
-[blue](nīlake) [fly](makṣikā) [sā](sā) [ca](ca) [kills](hanyāt) [wife](bhāryāṃ) [with-sons](saputrakām)
+[blue](nīlake) [fly](makṣikā) [that](sā) [ca](ca) [kills](hanyāt) [wife](bhāryāṃ) [with-sons](saputrakām)
 
 ## mukta-m0-p19-v473
-[king-fault](nṛpakṣī) [ca](ca) [crow-colored](aṣavarṇe) [syāt](syāt) [tena](tena) [maker's-progeny-destruction](kartuḥprajākṣayaḥ)
+[king-vulture](nṛpakṣī) [crow-colored](cāṣavarṇe) [would-be](syāt) [by-that](tena) [maker's](kartuḥ) [progeny-destruction](prajākṣayaḥ)
 
 ## mukta-m0-p19-v474
-[in-flame-tree](kiṃśuke) [indra-insect](śakragopaḥ) [syāt](syāt) [tena](tena) [king's-wealth-destruction](rājño dhanakṣayaḥ)
+[kiṃśuka](kiṃśuke) [indra's-protector](śakragopaḥ) [would-be](syāt) [by-that](tena) [king's](rājñaḥ) [wealth-destruction](dhanakṣayaḥ)
 
 ## mukta-m0-p19-v475
 [flax-flower-similar](atasīpuṣpasaṃkāśe) [in-womb](garbhe) [know](vidyāt) [ant](pipīlikā)
