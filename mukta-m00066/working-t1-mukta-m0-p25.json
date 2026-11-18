@@ -8,15 +8,15 @@
 "tokens": [
 {
 "surface": "śayyāyā",
-"quick_gloss": "bed-of"
+"quick_gloss": "bed-gen"
 },
 {
 "surface": "uttare",
-"quick_gloss": "north"
+"quick_gloss": "north-loc"
 },
 {
 "surface": "bhāge",
-"quick_gloss": "part"
+"quick_gloss": "part-loc"
 },
 {
 "surface": "sthāpayitvā",
@@ -37,7 +37,7 @@
 "tokens": [
 {
 "surface": "pūrṇakuṃbhaṃ",
-"quick_gloss": "full-pot"
+"quick_gloss": "full+pot"
 },
 {
 "surface": "tasya",
@@ -45,11 +45,11 @@
 },
 {
 "surface": "mukhe",
-"quick_gloss": "mouth"
+"quick_gloss": "mouth-loc"
 },
 {
 "surface": "paṭmamekaṃ",
-"quick_gloss": "lotus-one"
+"quick_gloss": "lotus+one"
 },
 {
 "surface": "viciṃtayet",
@@ -66,11 +66,11 @@
 "tokens": [
 {
 "surface": "sadāmadanamattātmā",
-"quick_gloss": "always-mad-intoxicated-self"
+"quick_gloss": "ever+madana+intoxicated+self"
 },
 {
 "surface": "pāśāṃkuśalasatkaraḥ",
-"quick_gloss": "noose-goad-excellent-hand"
+"quick_gloss": "noose+goad+excellent+hand"
 }
 ]
 },
@@ -83,15 +83,15 @@
 "tokens": [
 {
 "surface": "aṃkasthitāyā",
-"quick_gloss": "lap-seated"
+"quick_gloss": "lap-loc"
 },
 {
 "surface": "mattāyāḥ",
-"quick_gloss": "intoxicated"
+"quick_gloss": "intoxicated-gen"
 },
 {
 "surface": "siddhilakṣmībhagāṃtare",
-"quick_gloss": "accomplishment-lakshmi-bhaga-between"
+"quick_gloss": "siddhi+lakṣmī+bhaga-between"
 }
 ]
 },
@@ -112,7 +112,7 @@
 },
 {
 "surface": "navapallavacāruṇā",
-"quick_gloss": "new-sprout-charming"
+"quick_gloss": "new+sprout+charming"
 }
 ]
 },
@@ -125,15 +125,15 @@
 "tokens": [
 {
 "surface": "siddhilakṣmī",
-"quick_gloss": "accomplishment-lakshmi"
+"quick_gloss": "siddhi+lakṣmī"
 },
 {
 "surface": "bhagasrota",
-"quick_gloss": "bhaga-stream"
+"quick_gloss": "bhaga+stream"
 },
 {
 "surface": "śīdhupānamadālasaḥ",
-"quick_gloss": "nectar-drink-intoxicated"
+"quick_gloss": "nectar+drink+lethargic"
 }
 ]
 },
@@ -145,16 +145,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "siddhilakṣmīrati",
-"quick_gloss": "accomplishment-lakshmi"
+"surface": "siddhilakṣmī",
+"quick_gloss": "siddhi+lakṣmī"
 },
 {
-"surface": "sveta",
+"surface": "svedaṃ",
 "quick_gloss": "sweat"
 },
 {
-"surface": "vinudankarṇatālanaiḥ",
-"quick_gloss": "removing-ear-clapping"
+"surface": "vinudan",
+"quick_gloss": "dispelling"
+},
+{
+"surface": "karṇatālanaiḥ",
+"quick_gloss": "ear+clapping"
 }
 ]
 },
@@ -167,15 +171,15 @@
 "tokens": [
 {
 "surface": "siddhilakṣmī",
-"quick_gloss": "accomplishment-lakshmi"
+"quick_gloss": "siddhi+lakṣmī"
 },
 {
 "surface": "patedeva",
-"quick_gloss": "falls-indeed"
+"quick_gloss": "falls+indeed"
 },
 {
 "surface": "śaktiherambavigraha",
-"quick_gloss": "shakti-heramba-form"
+"quick_gloss": "śakti+heramba+form"
 }
 ]
 },
@@ -188,7 +192,7 @@
 "tokens": [
 {
 "surface": "ityanenaiva",
-"quick_gloss": "thus-by-this-mantra"
+"quick_gloss": "thus"
 },
 {
 "surface": "maṃtreṇa",
@@ -196,7 +200,7 @@
 },
 {
 "surface": "kṛtapuṣpāṃjali",
-"quick_gloss": "having-done-flower-offering"
+"quick_gloss": "having-done+flower+handful"
 },
 {
 "surface": "kriyaḥ",
@@ -213,19 +217,23 @@
 "tokens": [
 {
 "surface": "dūtyāśca",
-"quick_gloss": "messenger"
+"quick_gloss": "messenger-gen"
 },
 {
 "surface": "vigrahe",
-"quick_gloss": "form"
+"quick_gloss": "form-loc"
 },
 {
-"surface": "puṣpamekamevaṃ",
-"quick_gloss": "flower-one-thus"
+"surface": "puṣpamekaṃ",
+"quick_gloss": "flower+one"
+},
+{
+"surface": "evaṃ",
+"quick_gloss": "thus"
 },
 {
 "surface": "vinikṣipet",
-"quick_gloss": "should-place"
+"quick_gloss": "should-deposit"
 }
 ]
 },
@@ -237,8 +245,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "ātmasvarūpa saṃsiddhyaitamānaṃdamihānaye",
-"quick_gloss": "mantra"
+"surface": "ātmasvarūpa",
+"quick_gloss": "self+nature"
+},
+{
+"surface": "saṃsiddhyaitamānaṃdamihānaye",
+"quick_gloss": "perfection"
 }
 ]
 },
@@ -250,8 +262,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "ātmasvarūpa saṃsiddhyaitamānaṃdamihānaye",
-"quick_gloss": "mantra"
+"surface": "ātmasvarūpa",
+"quick_gloss": "self+nature"
+},
+{
+"surface": "saṃsiddhyaitamānaṃdamihānaye",
+"quick_gloss": "perfection"
 }
 ]
 },
@@ -263,8 +279,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "ātmasvarūpa saṃsiddhyaitamānaṃdamihānaye",
-"quick_gloss": "mantra"
+"surface": "ātmasvarūpa",
+"quick_gloss": "self+nature"
+},
+{
+"surface": "saṃsiddhyaitamānaṃdamihānaye",
+"quick_gloss": "perfection"
 }
 ]
 },
@@ -277,11 +297,11 @@
 "tokens": [
 {
 "surface": "vasūnāṃ",
-"quick_gloss": "vasus"
+"quick_gloss": "vasus-gen"
 },
 {
 "surface": "vasupatnīnāṃ",
-"quick_gloss": "vasu-wives"
+"quick_gloss": "vasu+wives-gen"
 },
 {
 "surface": "ya",
@@ -289,7 +309,7 @@
 },
 {
 "surface": "ānaṃdamaheśvaraḥ",
-"quick_gloss": "bliss-great-lord"
+"quick_gloss": "bliss+great+lord"
 }
 ]
 },
@@ -301,8 +321,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "ātmasvarūpa saṃsiddhyaitamānaṃdamihānaye",
-"quick_gloss": "mantra"
+"surface": "ātmasvarūpa",
+"quick_gloss": "self+nature"
+},
+{
+"surface": "saṃsiddhyaitamānaṃdamihānaye",
+"quick_gloss": "perfection"
 }
 ]
 },
@@ -315,7 +339,7 @@
 "tokens": [
 {
 "surface": "ātmasvarūpasaṃsiddhyaitamānaṃdamihānaye",
-"quick_gloss": "mantra"
+"quick_gloss": "self+nature"
 }
 ]
 },
@@ -327,8 +351,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "ātmasvarūpa saṃsiddhyaitamānaṃdamihānaye",
-"quick_gloss": "mantra"
+"surface": "ātmasvarūpa",
+"quick_gloss": "self+nature"
+},
+{
+"surface": "saṃsiddhyaitamānaṃdamihānaye",
+"quick_gloss": "perfection"
 }
 ]
 },
@@ -340,8 +368,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "ātmasvarūpa saṃsiddhyaitamānaṃdamihānaye",
-"quick_gloss": "mantra"
+"surface": "ātmasvarūpa",
+"quick_gloss": "self+nature"
+},
+{
+"surface": "saṃsiddhyaitamānaṃdamihānaye",
+"quick_gloss": "perfection"
 }
 ]
 },
@@ -353,8 +385,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "ātmasvarūpa saṃsiddhyaitamānaṃdamihānaye",
-"quick_gloss": "mantra"
+"surface": "ātmasvarūpa",
+"quick_gloss": "self+nature"
+},
+{
+"surface": "saṃsiddhyaitamānaṃdamihānaye",
+"quick_gloss": "perfection"
 }
 ]
 },
@@ -366,8 +402,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "ātmasvarūpa saṃsiddhyaitamānaṃdamihānaye",
-"quick_gloss": "mantra"
+"surface": "ātmasvarūpa",
+"quick_gloss": "self+nature"
+},
+{
+"surface": "saṃsiddhyaitamānaṃdamihānaye",
+"quick_gloss": "perfection"
 }
 ]
 },
@@ -379,8 +419,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "ātmasvarūpa saṃsiddhyaitamānaṃdamihānaye",
-"quick_gloss": "mantra"
+"surface": "ātmasvarūpa",
+"quick_gloss": "self+nature"
+},
+{
+"surface": "saṃsiddhyaitamānaṃdamihānaye",
+"quick_gloss": "perfection"
 }
 ]
 },
@@ -397,7 +441,7 @@
 },
 {
 "surface": "annamayaṃ",
-"quick_gloss": "food-sheath"
+"quick_gloss": "food+sheath"
 },
 {
 "surface": "kośaṃ",
@@ -405,7 +449,7 @@
 },
 {
 "surface": "ānaṃdamayatāṃ",
-"quick_gloss": "bliss-sheath-ness"
+"quick_gloss": "bliss+filled-ness"
 },
 {
 "surface": "nayet",
@@ -426,7 +470,7 @@
 },
 {
 "surface": "prāṇamayaṃ",
-"quick_gloss": "vital-sheath"
+"quick_gloss": "prāṇa+sheath"
 },
 {
 "surface": "krośam",
@@ -434,7 +478,7 @@
 },
 {
 "surface": "ānaṃdamayatāṃ",
-"quick_gloss": "bliss-sheath-ness"
+"quick_gloss": "bliss+filled-ness"
 },
 {
 "surface": "nayet",
@@ -455,7 +499,7 @@
 },
 {
 "surface": "manomayaṃ",
-"quick_gloss": "mind-sheath"
+"quick_gloss": "mind+sheath"
 },
 {
 "surface": "kośam",
@@ -463,7 +507,7 @@
 },
 {
 "surface": "ānaṃdamayatāṃ",
-"quick_gloss": "bliss-sheath-ness"
+"quick_gloss": "bliss+filled-ness"
 },
 {
 "surface": "nayet",
@@ -488,7 +532,7 @@
 },
 {
 "surface": "anaṃdamayatāṃ",
-"quick_gloss": "bliss-sheath-ness"
+"quick_gloss": "bliss+filled-ness"
 },
 {
 "surface": "naye",

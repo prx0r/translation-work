@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p23-v551
-[joy-tantra](ānaṃdataṃtre) [indeed-in-this](caivāsmin) [four](catvāraḥ) [declared](paramīritāḥ)
+in-bliss-tantra and indeed in-this four supreme-declared
 
 ## mukta-m0-p23-v552
-[therefore-four](tasmāccatvāra) [delights](ullāsā) [here](iha) [spoken](proktā) [o-great-lady](maheśvari)
+therefore four delights here proclaimed O-great-lady
 
 ## mukta-m0-p23-v553
-[therefore-joy](tasmādānaṃda) [worship](pūjāyā) [garlanded](mālaṃvyaṃte) [not-three](na trayaḥ)
+therefore bliss worship-of garlanded indeed not three
 
 ## mukta-m0-p23-v554
-[thus-thus](tathā tathā) [supreme-joy](parānaṃda) [lord-knowledge](nāthavidyāṃ) [touch](parāmṛśet)
+thus thus supreme-bliss lord-knowledge consider
 
 ## mukta-m0-p23-v555
-[messenger](dūtyā) [kindled](saṃdhukṣita) [own-self](svātmā) [joy-form](naṃdamūrttiṃ) [guru](guruṃ) [remember](smaret)
+by-messenger kindled self bliss-form guru remember
 
 ## mukta-m0-p23-v556
-[twelve-end](dvādaśāṃtagate) [red-white-foot](raktaśuklapāde) [place](vinikṣipet)
+at-twelfth-end red-white-foot place
 
 ## mukta-m0-p23-v557
-[shiva-sovereignty](śivatvasāmrājya) [foot-anointed](padābhiṣiktaṃ) [own-contemplate](svaṃviciṃtayet)
+Shiva-sovereignty foot-anointed own think
 
 ## mukta-m0-p23-v558
-[seeing](paśyan) [limb-sprout](pratyaṃgamaṃkūradanaṃ) [gottuṃga-mind](gottuṃgamānasaḥ)
+seeing limb-sprout tooth mountain-going mind
 
 ## mukta-m0-p23-v559
-[as](yathā) [youth-delight](yauvanamullāsaṃ) [obtains](saṃprāpnotyaṃba) [messenger](dūtikā)
+as youth-delight obtains O-mother messenger
 
 ## mukta-m0-p23-v560
-[beholding-delight](ālokaneratiḥ) [direct](sākṣāt) [smile](smite) [awakens](jāgarti) [jahnavi](jāhnavī)
+gaze-pleasure directly smile awakens Ganges
 
 ## mukta-m0-p23-v561
-[ashvins](aśvinau) [nose-region](nāsikābhāge) [lip-supreme-nectar](tvoṣṭhe ca paramāmṛtam)
+Ashvins nose-region and lip supreme-nectar
 
 ## mukta-m0-p23-v562
-[sweat](svede) [varuni-goddess](ca vāruṇī devī) [desire-lord](kāmanāthastvahaṃ) [made](kṛtau)
+sweat and Varuni goddess desire-lord I in-act
 
 ## mukta-m0-p23-v563
-[breasts](stanadvaye) [meru-mountain](merugirirnniḥ) [silent](śabdaṃ) [brahma-middle](brahmamadhyame)
+breast-pair Meru-mountain soundless Brahman-middle
 
 ## mukta-m0-p23-v564
-[three-folds](valitraye) [three-worlds](ca trailokyaṃ) [navel-womb](nābhigarbhe) [cave-mother](guhāṃbikā)
+three-folds and three-worlds navel-womb cave-mother
 
 ## mukta-m0-p23-v565
-[nails](nakheṣu) [cool](śītāṃ) [kalas](śu kalādormmūleṃkuśadevatāḥ)
+nails cool moon arm-root hook-deities
 
 ## mukta-m0-p23-v566
-[kaveri](kāverī) [indeed](caiva) [exhalation](niśvāse) [godasi](godāsītkāra) [action](karmaṇi)
+Kaveri indeed exhalation cow act
 
 ## mukta-m0-p23-v567
-[pure-lips](amalālāpakṛtyeṣu) [mind-rest](cittaviśrāṃti) [leader](nāyakā)
+pure-saliva-acts mind-rest leader
 
 ## mukta-m0-p23-v568
-[speech-lord](vākptiḥ) [pleasant-hum](sukhahuṃkāre) [gishpati](gīṣpatīkākukādhvanau)
+speech-power pleasure-hum Jupiter cuckoo-sound
 
 ## mukta-m0-p23-v569
-[indra](iṃdraścittasamunnatyāmagnirvastu) [grasps](grasītviṣi)
+Indra mind-elevation Agni object swallows
 
 ## mukta-m0-p23-v570
-[hands-etc-motion](hastādicālane) [sacrifice](yajñastvāśleṣe) [sacrifice-person](yajñapūruṣaḥ)
+hand-movement sacrifice embrace sacrifice-person
 
 ## mukta-m0-p23-v571
-[lasya](lāsyaṃ) [tandava](ca tāṃḍavaṃ) [goddess](devi) [her-body-shaking](tasyā dehādi ghūrṇane)
+dance and Tandava goddess her body-etc whirling
 
 ## mukta-m0-p23-v572
-[those-all](tānisarvāṇi) [occur](varttate) [her-mouthful-substance](tasyāgaṃḍūṣavastuni)
+those all occur her cheekful-object
 
 ## mukta-m0-p23-v573
-[that-fruit](tatphalaṃ) [obtains](labhate) [messenger](dūtī) [nectar-mouthful](sudhāgaṃḍūṣa) [use](sevanāt)
+that-fruit obtains messenger nectar-cheekful by-drinking
 
 ## mukta-m0-p23-v574
-[mouthful-first](gaṃḍūṣamādiraṃ) [goddess](devī) [hero-joy-increase](vīrasyānaṃda varddhanam)
+cheekful-first goddess hero's-bliss increasing
 
 ## mukta-m0-p23-v575
-[ever-wet](nityaklinnāsudhā) [goddess](devī) [love-delight](rati prītiśca) [her-part](tadbhage)
+ever-moist-nectar goddess love pleasure and that-vulva
