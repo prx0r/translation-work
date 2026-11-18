@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p51-v1251
-[hear](śṛṇu) [your](te) [that-speech](tadvacomatkaṃ) [oh](bhobho) [middle-men](puruṣamadhyamāḥ)
+listen [śṛṇu] your [te] that-speech [tadvacomatkaṃ] ho [bhobho] men [puruṣamadhyamāḥ]
 
 ## mukta-m0-p51-v1252
-[in-self-ground](ātmabhūmau) [and](ca) [standing](tiṣṭhaṃtāṃ) [in-own-things](satsusviyyeṣu) [things](vastuṣu)
+in-self-ground [ātmabhūmau] and [ca] standing [tiṣṭhaṃtāṃ] good-own [satsusviyyeṣu] things [vastuṣu]
 
 ## mukta-m0-p51-v1253
-[immovable](astirāmonāmahansūryavaṃśe) [king](mahīpatiḥ)
+unsteady [astirāmonāmahansūryavaṃśe] king [mahīpatiḥ]
 
 ## mukta-m0-p51-v1254
-[him](tamanvagāyayaurāmamanujo) [righteous](dharmaśālinam)
+him [tamanvagāyayaurāmamanujo] followed [dharmaśālinam]
 
 ## mukta-m0-p51-v1255
-[with-her](tayā) [and](ca) [with-Rama](sahitorāmaḥ) [with-younger](kaniṣṭhena) [and](ca) [in-forest](kānane)
+with-her [tayā+ca+sahitorāmaḥ] younger-brother [kaniṣṭhena+ca] in-forest [kānane]
 
 ## mukta-m0-p51-v1256
-[ears](karṇā) [with-karnika](karṇikayā) [made-ear](karṇyasītāṃ) [beauty-possessing](saundaryaśālinīm)
+ears [karṇā] lotus [karṇikayā] ears [karṇyasītāṃ] beauty-possessing [saundaryaśālinīm]
 
 ## mukta-m0-p51-v1257
-[rooted-out](samūlonmūlito) [in-battle](saṃkhye) [by-Raghava](rāghaveṇaikacāriṇā)
+rooted-out [samūlonmūlito] in-battle [saṃkhye] by-raghava-alone [rāghaveṇaikacāriṇā]
 
 ## mukta-m0-p51-v1258
-[foreign-land](parabhūmi) [attachment](prasaktiśca) [not-gone](natvayātāṃ) [somewhere](kvacit) [somewhere](kvacit)
+foreign-land [parabhūmi] attachment [prasaktiśca] not-went [natvayātāṃ] sometimes [kvacit+kvacit]
 
 ## mukta-m0-p51-v1259
-[alone](ekākī) [foot-walker](pādacārī) [and](ca) [of-vultures](gṛdhrāṇāmabhavadbaliḥ)
+alone [ekākī] foot-going [pādacārī] and [ca] of-vultures [gṛdhrāṇāmabhavadbaliḥ]
 
 ## mukta-m0-p51-v1260
-[such-fall](etādṛśavinīpātamagamaddhṛtarāṣṭrajaḥ)
+such-fall [etādṛśavinīpātamagamaddhṛtarāṣṭrajaḥ]
 
 ## mukta-m0-p51-v1261
-[deposit-here-conduct](nikṣipasvamihācāramanuniṣṭhagatajvaraḥ)
+deposit [nikṣipasvamihācāramanuniṣṭhagatajvaraḥ]
 
 ## mukta-m0-p51-v1262
-[fear-teaching-broken](bhetopadeśanirbhiṇāścittadoṣa) [without-grasping](nirāgrahāḥ)
+fear-instruction [bhetopadeśanirbhiṇāścittadoṣa] without-attachment [nirāgrahāḥ]
 
 ## mukta-m0-p51-v1263
-[then](atha) [low](nīca) [of-men](narāṇāṃ) [indeed](tu) [from-gift-form-teaching](dānarūpopadeśataḥ)
+then [atha] low [nīca] of-men [narāṇāṃ+tu] by-gift-form [dānarūpopadeśataḥ]
 
 ## mukta-m0-p51-v1264
-[gift](dānaṃ) [named](nāmeṣṭavastūnāṃ) [true-false-form](satyāsatyasvarūpiṇām)
+gift [dānaṃ] named [nāmeṣṭavastūnāṃ] true-false-form [satyāsatyasvarūpiṇām]
 
 ## mukta-m0-p51-v1265
-[there](tatra) [Vyasa-etc](vyāsādayaḥ) [said-thus](procuevaṃ) [to-low-men](nīcanarānprati)
+there [tatra] vyasa-etc [vyāsādayaḥ] said [procuevaṃ] to-low-men [nīcanarānprati]
 
 ## mukta-m0-p51-v1266
-[other-wives](paradārānuṣaṃ) [go](gācca) [from-abstinence](viratyā) [merit-wealth](puṇyasaṃpadaḥ)
+others-wives [paradārānuṣaṃ] go [gācca] by-abstinence [viratyā] merit-wealth [puṇyasaṃpadaḥ]
 
 ## mukta-m0-p51-v1267
-[other-thing](paravastu) [from-grasping](grahaṇato) [without-end](nirutyā) [wealth-arises](saṃpadudbhavet)
+others-thing [paravastu] by-grasping [grahaṇato] by-non-continuity [nirutyā] wealth-arises [saṃpadudbhavet]
 
 ## mukta-m0-p51-v1268
-[by-this](anena) [merit-path](puṇyamārgeṇa) [your](tava) [happiness](saukhyaṃ) [step](pade) [step](pade)
+by-this [anena] merit-path [puṇyamārgeṇa] your [tava] happiness [saukhyaṃ] step-by-step [pade+pade]
 
 ## mukta-m0-p51-v1269
-[you-will-attain](samāpsyasi)
+you-will-obtain [samāpsyasi]
 
 ## mukta-m0-p51-v1270
-[enticing](vipralobhya) [good-conduct](sadācārān) [Vyasa-taught](vyāsādhyātānvininvire)
+enticing [vipralobhya] good-conduct [sadācārān] vyasa-taught [vyāsādhyātānvininvire]
 
 ## mukta-m0-p51-v1271
-[severe-fasting](tīvropavāsa) [suffering-etc](duḥkhādyamapi) [do](kurvaṃti) [men](mānavāḥ)
+severe-fasting [tīvropavāsa] suffering-etc [duḥkhādyamapi] do [kurvaṃti] men [mānavāḥ]
 
 ## mukta-m0-p51-v1272
-[therefore-gift-teaching](atodānopadeśo'yaṃ) [low-mortals](nicamartyeṣu) [urged](coditaḥ)
+therefore [atodānopadeśo'yaṃ] low-mortals [nicamartyeṣu] urged [coditaḥ]
 
 ## mukta-m0-p51-v1273
-[many-fault-grasping](bahudoṣagrahavatāṃ) [three-enclosures](kakṣyātraya) [transgressing](vilaṃghinām)
+many-fault-grasping [bahudoṣagrahavatāṃ] three-enclosures [kakṣyātraya] crossing [vilaṃghinām]
 
 ## mukta-m0-p51-v1274
-[among-them](teṣu) [that-path](tanmārgamālambya) [teach](śikṣayantyadhamādhamān)
+in-them [teṣu] that-path [tanmārgamālambya] teach [śikṣayantyadhamādhamān]
 
 ## mukta-m0-p51-v1275
-[hand-cuttings](hastacchedaiḥ) [foot-cuttings](padacchedaiḥ) [beatings](tāḍanaiḥ) [needle-piercings](sūcivedhanaiḥ)
+hand-cutting [hastacchedaiḥ] foot-cutting [padacchedaiḥ] beatings [tāḍanaiḥ] needle-piercing [sūcivedhanaiḥ]
