@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p75-v1851
-[then](tatasta) [having-tripled](triguṇīkṛtya) [to-śiva](śivāya) [should-offer](vinivedayet)
+[then](tatasta) [threefold+having-made](triguṇīkṛtya) [to-śiva](śivāya) [one-should-offer](vinivedayet)
 
 ## mukta-m0-p75-v1852
-[tarāṣṭaṃ](tarāṣṭaṃ) [and](ca) [origin-of-fault](dūṣaṇotpatti) [and](ca) [that-expenditure?](taduvyantuvyayohya)
+[unclear](tarāṣṭaṃ) [and](ca) [defect+arising](dūṣaṇotpatti) [unclear](taduvyantuvyayohya) [and](ca)
 
 ## mukta-m0-p75-v1853
-[peace-homa](śāntihomaṃ) [then](tataḥ) [should-do](kuryāt) [as-before](pūrvavat) [should-cook-auspicious](pācayecchubham)
+[pacification+oblation](śāntihomaṃ) [then](tataḥ) [one-should-perform](kuryāt) [as-before](pūrvavat) [one-should-cook+auspicious](pācayecchubham)
 
 ## mukta-m0-p75-v1854
-[union](sandhāti) [in-passage](kramaṇe) [having-arrived](prāpte) [from-enemies](śatrubhir) [fear](bhayam) [should-indicate](ādiśet)
+[unclear](sandhāti) [in-sequence](kramaṇe) [having-arrived](prāpte) [by-enemies+fear+one-should-indicate](śatrubhirbhayamādiśet)
 
 ## mukta-m0-p75-v1855
-[by-transgression](vyatikrameṇa) [of-mantras](mantrāṇāṃ) [all-that](tatsarva) [should-manifest](prabhāvayet)
+[by-transgression](vyatikrameṇa) [of-mantras](mantrāṇāṃ) [that+all+unclear](tatsarva*(?)) [one-should-effect](prabhāvayet)
 
 ## mukta-m0-p75-v1856
-[naivedya](naivedya) [at-placement-time](sthāpane+kāle) [even-in-skipping](laṅghanepi) [by-men](naraistathā)
+[food-offering](naivedya) [in-placing](sthāpane) [at-time](kāle) [in-transgression+even](laṅghanepi) [by-men+likewise](naraistathā)
 
 ## mukta-m0-p75-v1857
-[that-substance](tadravyaṃ) [having-avoided](varjayitvā) [then](tu) [afterwards](paścāt) [cooked](pakvaṃ) [should-offer](nivedayet)
+[that+substance](tadravyaṃ) [having-discarded](varjayitvā) [but](tu) [afterwards](paścāt) [cooked](pakvaṃ) [one-should-offer](nivedayet)
 
 ## mukta-m0-p75-v1858
-[jāyāja?](jāyāja) [pro?](pro) [should-chant](japet)
+[unclear](jāyāja**(?)na) [unclear](pro******(?)taṃ) [one-should-recite](japet) [mantra](japet)
 
 ## mukta-m0-p75-v1859
-[without-bath-limbs](snapanāṅgavihīne) [and](ca) [great-plague](mahāmārī) [arises](pravartate)
+[bathing+limb+devoid](snapanāṅgavihīne) [and](ca) [great-pestilence](mahāmārī) [arises](pravartate)
 
 ## mukta-m0-p75-v1860
-[by-established](sthāpitaiḥ) [pots](kalaśair) [broken](bhinnaiḥ) [split](sphuṭite) [fallen](patite) [and](tathā)
+[with-established](sthāpitaiḥ) [with-pots+broken](kalaśairbhinnaiḥ) [when-cracked](sphuṭite) [when-fallen](patite) [likewise](tathā)
 
 ## mukta-m0-p75-v1861
-[suprasannena](suprasannena) [ratnakā](ratnakā)
+[lacuna](* * * * * * * * (?)) [very-serene](suprasannena) [jewel+unclear](ratnakā) [unclear](ratnakā)
 
 ## mukta-m0-p75-v1862
-[giver-of-boons-fearlessness](varadābhayasaṃyuktā) [noose-goad-bearing](pāśāṅguśa+dhara+anvitā)
+[boon-giving+fearlessness+endowed](varadābhayasaṃyuktā) [noose+goad](pāśāṅguśa) [holding+endowed](dharānvitā) [endowed](dharānvitā)
 
 ## mukta-m0-p75-v1863
-[lotus-handed-etc](padmahastādi) [peaceful](śāntā) [and](ca) [goddess](devī) [gold-radiant](kanakaprabhā)
+[lotus+hand+etc](padmahastādi) [peaceful](śāntā) [and](ca) [goddess](devī) [and](ca) [golden+radiance](kanakaprabhā)
 
 ## mukta-m0-p75-v1864
-[?](?) [or](vā) [conch](śaṅkhaṃ) [discus](cakra) [?](ha) [six-armed](ṣaḍbhujā)
+[unclear+and+also](***(?)ñcāpi) [or](vā) [conch](śaṅkhaṃ) [discus](cakra) [unclear](ha*(?)tu) [six+armed](ṣaḍbhujā)
 
 ## mukta-m0-p75-v1865
-[tejorcāstra](tejorcāstra) [equipped](samāyuktā) [deva-embrace-devoted](devāliṅgana+tatparā)
+[radiance+unclear+weapon](tejorcāstra) [endowed-with](samāyuktā) [god+embracing](devāliṅgana) [that+intent](tatparā)
 
 ## mukta-m0-p75-v1866
-[pendant](pralambā) [?](la) [?](pā) [?](bālambitā) [surrounded](parivādakā)
+[pendulous](pralambā) [unclear](la*(?)pā*(?)bālambitā) [around+speaking+unclear](parivādakā) [unclear](parivādakā)
 
 ## mukta-m0-p75-v1867
-[dark-horse-or-faced](śyāmāśvenāthavaktā) [and](ca) [for-practitioner](sādhake) [not-fall](na+pātata)
+[dark+horse+lord+faced+unclear](śyāmāśvenāthavaktā) [and](ca) [for-practitioner](sādhake) [and](ca) [not](na) [falling+unclear](pātata)
 
 ## mukta-m0-p75-v1868
-[eight-armed](aṣṭabāhu+samāyuktāṃ) [upward-hair](ūrdhvakeśaṃ) [own-fangs](svadaṃṣṭrakam)
+[eight+armed](aṣṭabāhu) [endowed-with](samāyuktaṃ) [upward+hair](ūrdhvakeśaṃ) [own+fangs](svadaṃṣṭrakam)
 
 ## mukta-m0-p75-v1869
-[bells-garland](kiṅkiṇī+mālayeveṣṭā) [anklet-equipped](pādanūpura+saṃyutam)
+[small-bells](kiṅkiṇī) [with-garland+encircled](mālayeveṣṭā) [foot+anklets](pādanūpura) [endowed-with](saṃyutam)
 
 ## mukta-m0-p75-v1870
-[?](?) [sacred-thread](jñopavītaṃ) [and](ca) [red-flower-adorned](raktapuṣpopaśobhitam)
+[lacuna](* * * (?)) [sacred-thread](jñopavītaṃ) [and](ca) [red+flower+adorned](raktapuṣpopaśobhitam)
 
 ## mukta-m0-p75-v1871
-[in-both-ears](karṇayor+ubhayoś+ca+eva) [in-both-hands](hastayor+ubhayor+api)
+[on-both+ears+and+indeed](karṇayorubhayoścaiva) [on-both+hands+also](hastayorubhayorapi) [on-both](ubhayoḥ) [also](api)
 
 ## mukta-m0-p75-v1872
-[spider-scorpion-equipped](lūtavṛścikasaṃyuktaṃ) [ear-garland](karṇamālā) [adorned](vibhūṣitam)
+[spider+scorpion+endowed](lūtavṛścikasaṃyuktaṃ) [ear+garland](karṇamālā) [adorned](vibhūṣitam) [adorned](vibhūṣitam)
 
 ## mukta-m0-p75-v1873
-[trident](śūlaṃ) [and](ca) [vetāla](vetālaṃ) [sword](khaḍgaṃ) [and](ca+eva) [tu](tu) [on-right](dakṣiṇe)
+[trident](śūlaṃ) [and](ca) [vetāla](vetālaṃ) [sword](khaḍgaṃ) [and+indeed](caiva) [but](tu) [in-right](dakṣiṇe)
 
 ## mukta-m0-p75-v1874
-[bell](ghaṇṭā) [shield-noose](kheṭakapāśaṃ) [and](ca) [anklet-situated](pādanūpurasaṃsthitam)
+[bell](ghaṇṭā) [shield+noose](kheṭakapāśaṃ) [and](ca) [foot+anklet+placed](pādanūpurasaṃsthitam)
 
 ## mukta-m0-p75-v1875
-[thus](evaṃ) [form-bearing](rūpadharaṃ) [deity](devaṃ) [aghora-weapon-presiding](aghorastrādhi+daivatam)
+[thus](evaṃ) [form+bearing](rūpadharaṃ) [god](devaṃ) [aghora+weapon+presiding](aghorāstrādhi) [deity](daivatam)

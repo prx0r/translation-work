@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p09-v201
-[khaḍgīśaḥ](khaḍgīśo) [jvālinī](jvālinī) [vaṅkaḥ](vaṅkaḥ) [raṅkaḥ](raṅkaḥ) [kalasaṃ](kalasaṃ) [ravi](ravi) [kalasaṃ](kalasaṃ) [dhvanivācakaḥ](dhvanivācakaḥ)
+[sword-lord](khaḍgīśo) [flaming-one](jvālinī) [chest](vakṣaḥ) [jar](kalasaṃ) [sound-expressing](dhvanivācakaḥ)
 
 ## mukta-m0-p09-v202
-[tridhātuḥ](tridhātuḥ) [śaṅkaraḥ](śaṅkaraḥ) [śreṣṭhaḥ](śreṣṭho) [viśeṣaḥ](viśeṣo) [yamasādanam](yamasādanam)
+[twelve](12) [threefold-essence](tridhātuḥ) [śaṅkara](śaṅkaraḥ) [supreme](śreṣṭho) [distinction](viśeṣo) [yama’s-abode](yamasādanam)
 
 ## mukta-m0-p09-v203
-[śa](śa)
+[seed-syllable-śa](śa)
 
 ## mukta-m0-p09-v204
-[saukhyam](saukhyam) [nāmā](nāmā) [kumāraḥ](kumāro'sthi) [asthi](asthi) [śrīkaṇṭhaḥ](śrīkaṇṭho) [vṛṣaketanaḥ](vṛṣaketanaḥ)
+[happiness+named](saukhyanāmā) [prince](kumāro) [is](’sthi) [blue-throated](śrīkaṇṭho) [bull-bannered](vṛṣaketanaḥ)
 
 ## mukta-m0-p09-v205
-[mṛtyudevaḥ](mṛtyudevo) [mahālakṣmīḥ](mahālakṣmīrmahendraḥ) [mahendraḥ](mahendraḥ) [kulakaulinī](kulakaulinī)
+[sixteen](16) [death-god](mṛtyudevo) [great-lakṣmī](mahālakṣmīr) [great-indra](mahendraḥ) [kula+kaulinī](kulakaulinī)
 
 ## mukta-m0-p09-v206
-[vāmoruḥ](vāmoruḥ) [puṇḍarīkātmā](puṇḍarīkātmā) [kāntiḥ](kāntiḥ) [kalyāṇavācakaḥ](kalyāṇavācakaḥ)
+[left+thighed](vāmoruḥ) [lotus+self](puṇḍarīkātmā) [radiance](kāntiḥ) [auspiciousness+expressing](kalyāṇavācakaḥ)
 
 ## mukta-m0-p09-v207
-[parameṣṭhī](parameṣṭhī) [vāmabāhuḥ](vāmabāhuḥ) [śreṣṭhaḥ](śreṣṭho) [garbhavimocanaḥ](garbhavimocanaḥ)
+[supreme-lord](parameṣṭhī) [left+armed](vāmabāhuḥ) [supreme](śreṣṭho) [womb+liberator](garbhavimocanaḥ)
 
 ## mukta-m0-p09-v208
-[suśrīḥ](suśrīruṣmā) [uṣmā](uṣmā) [vṛṣaḥ](vṛṣo) [lajjā](lajjā) [marudbhakṣyaḥ](marudbhakṣyaḥ) [priyaḥ](priyaḥ) [śivaḥ](śivaḥ)
+[four](4) [very+splendid](suśrīr) [heat](uṣmā) [bull](vṛṣo) [modesty](lajjā) [wind+fed](marudbhakṣyaḥ) [beloved](priyaḥ) [śiva](śivaḥ)
 
 ## mukta-m0-p09-v209
-[kalakaṇṭhaḥ](kalakaṇṭho) [madhyabhinnā](madhyabhinnā) [yuddhātmā](yuddhātmā) [khalpūḥ](khalpūḥ) [śiraḥ](śiraḥ)
+[black+throated](kalakaṇṭho) [middle+split](madhyabhinnā) [battle+natured](yuddhātmā) [khalpū](khalpūḥ) [head](śiraḥ)
 
 ## mukta-m0-p09-v210
-[jagadbījam](jagadbījaṃ) [śaktināmā](śaktināmā) [so'ham](so'haṃ) [vegaśvatī](vega(śa)vatī) [bhṛguḥ](bhṛguḥ)
+[eight](8) [world+seed](jagadbījaṃ) [power+named](śaktināmā) [that+I-am](so'haṃ) [swift+possessing](vega(śa)vatī) [bhṛgu](bhṛguḥ)
 
 ## mukta-m0-p09-v211
-[dakṣapādaḥ](dakṣapādo'mṛtaṃ) [amṛtam](amṛtaṃ) [brāhmī](brāhmī) [paramātmā](paramātmā) [paro'kṣaraḥ](paro'kṣaraḥ)
+[right+foot](dakṣapādo) [immortal-nectar](’mṛtaṃ) [brāhmī](brāhmī) [supreme+self](paramātmā) [supreme+imperishable](paro'kṣaraḥ)
 
 ## mukta-m0-p09-v212
-[prāṇādyaḥ](prāṇādyastripurādevī) [tripurādevī](tripurādevī) [lakṣmīḥ](lakṣmīḥ) [somaḥ](somo) [hiraṇyabhūḥ](hiraṇyabhūḥ)
+[twelve](12) [breath+beginning](prāṇādyās) [tripurā+goddess](tripurādevī) [lakṣmī](lakṣmīḥ) [soma](somo) [golden+being](hiraṇyabhūḥ)
 
 ## mukta-m0-p09-v213
-[durgottāriṇī](durgottāriṇī) [sammohā](sammohā) [jīvaḥ](jīvo) [mūrtimanoharaḥ](mūrtimanoharaḥ)
+[difficulty+deliverer](durgottāriṇī) [complete+delusion](sammohā) [living-being](jīvo) [form+enchanting](mūrtimanoharaḥ)
 
 ## mukta-m0-p09-v214
-[nakulīśaḥ](nakulīśo) [jagatprāṇaḥ](jagatprāṇaḥ) [prāṇeśaḥ](prāṇeśaḥ) [kapilā](kapilā'malaḥ) [amalaḥ](amalaḥ)
+[nakulī+lord](nakulīśo) [world+breath](jagatprāṇaḥ) [breath+lord](prāṇeśaḥ) [kapilā](kapilā) [stainless](’malaḥ)
 
 ## mukta-m0-p09-v215
-[mṛgaḥ](mṛgo'bhayā'ruṇā) [abhayā](abhayā) [aruṇā](aruṇā) [sthāṇuḥ](sthāṇuḥ) [kroṣṭuḥ](kroṣṭuḥ) [kūpavirāvaṇaḥ](kūpavirāvaṇaḥ)
+[deer](mṛgo) [fearless-one](’bhayā) [reddish-one](’ruṇā) [immovable](sthāṇuḥ) [jackal](kroṣṭuḥ) [well+roaring](kūpavirāvaṇaḥ)
 
 ## mukta-m0-p09-v216
-[svakopavāraṇaḥ](sva(sa)kopavāraṇaḥ) [śūlī](śūlī) [caitanyam](caitanyaṃ) [pādapūraṇaḥ](pādapūraṇaḥ)
+[one](1) [own+anger+warding](sva(sa)kopavāraṇaḥ) [trident-bearer](śūlī) [consciousness](caitanyaṃ) [foot+filling](pādapūraṇaḥ)
 
 ## mukta-m0-p09-v217
-[binduḥ](bindurdurgā) [durgā](durgā) [priyā](priyā) [devī](devī) [meghaḥ](meghaḥ) [śyāmeśvaraḥ](śyāmeśvaraḥ) [pumān](pumān)
+[drop](bindur) [durgā](durgā) [beloved](priyā) [goddess](devī) [cloud](meghaḥ) [dark+lord](śyāmeśvaraḥ) [person](pumān)
 
 ## mukta-m0-p09-v218
-[dakṣapādaḥ](dakṣapādaḥ) [sadā](sadā) [śambhuḥ](śambhuḥ) [sākhoṭaḥ](sākhoṭaḥ) [somamaṇḍalam](somamaṇḍalam)
+[four](4) [right+foot](dakṣapādaḥ) [always](sadā) [śambhu](śambhuḥ) [sākhoṭa](sākhoṭaḥ) [moon+circle](somamaṇḍalam)
 
 ## mukta-m0-p09-v219
-[vyāpinī](vyāpinī) [śivadā](śivadā) [ketuḥ](keturjagat) [jagat](jagat) [sīrataram](sīrataraṃ) [haṭhaḥ](haṭhaḥ)
+[pervading](vyāpinī) [śiva+giving](śivadā) [banner](ketur) [world](jagat) [plough+crossing](sīrataraṃ) [force](haṭhaḥ)
 
 ## mukta-m0-p09-v220
-[jaṭharaḥ](jaṭharo) [nakulī](nakuliḥ) [pītaḥ](pītaḥ) [śiveśaḥ](śiveśo'naṅgamālinī) [anaṅgamālinī](anaṅgamālinī)
+[eight](8) [belly](jaṭharo) [nakuli](nakuliḥ) [yellow](pītaḥ) [śiva+lord](śiveśo) [bodiless+garlanded](’naṅgamālinī)
 
 ## mukta-m0-p09-v221
-[kṣa](kṣa)
+[seed-syllable-kṣa](kṣa)
 
 ## mukta-m0-p09-v222
-[nṛsiṃhaḥ](nṛsiṃho) [vidyutā](vidyutā) [māyā](māyā) [mahātejā](mahātejā) [yugāntakaḥ](yugāntakaḥ)
+[man+lion](nṛsiṃho) [lightning](vidyutā) [illusion](māyā) [great+splendor](mahātejā) [age+ender](yugāntakaḥ)
 
 ## mukta-m0-p09-v223
-[sarvāṅgam](sarvāṅgaṃ) [sāgaraḥ](sāgaraḥ) [kāmaḥ](kāmaḥ) [saṃyogāntaḥ](saṃyogāntastripūrakaḥ) [tripūrakaḥ](tripūrakaḥ)
+[twelve](12) [all+limbed](sarvāṅgaṃ) [ocean](sāgaraḥ) [desire](kāmaḥ) [union+end](saṃyogāntas) [tripūraka](tripūrakaḥ)
 
 ## mukta-m0-p09-v224
-[mukham](mukhaṃ) [kavyam](kavyaṃ) [mahānantā](mahānantā) [kālajihvā](kālajihvā) [gaṇeśvaraḥ](gaṇeśvaraḥ)
+[mouth](mukhaṃ) [poetry](kavyaṃ) [great+endless](mahānantā) [time+tongue](kālajihvā) [gaṇa+lord](gaṇeśvaraḥ)
 
 ## mukta-m0-p09-v225
-[chāyāputraḥ](chāyāputraśca) [ca](ca) [saṃghātaḥ](saṃghāto) [malayaśrīḥ](malayaśrīrlalāṭakaḥ) [lalāṭakaḥ](lalāṭakaḥ)
+[shadow+son](chāyāputraś) [and](ca) [conjunction](saṃghāto) [malaya+splendor](malayaśrīr) [forehead](lalāṭakaḥ)
