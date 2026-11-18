@@ -5,28 +5,28 @@
 [liṅga](liṅga) [washed](kṣālita) [with-water](toyena) [throw](prakṣiped) [drop](vindu) [with-drops](bindubhiḥ)
 
 ## mukta-m0-p55-v1352
-[fragrant](sugandhaṃ) [cool](śītalaṃ) [water](toyaṃ) [throw](prakṣipet) [truth](tattva) [seal](mudrayā)
+[fragrant](sugandhaṃ) [cool](śītalaṃ) [water](toyaṃ) [throw](prakṣipet) [truth](tattva) [with-seal](mudrayā)
 
 ## mukta-m0-p55-v1353
-[guru's](guroḥ) [vessel](pātrād) [god's](deva) [vessel](pātrād) [self's](ātma) [vessel](pātrān) [O-great-lady](maheśvari)
+[of-guru](guroḥ) [from-vessel](pātrād) [of-deity](deva) [from-vessel](pātrād) [of-self](ātma) [from-vessel](pātrāt) [O-great-lady](maheśvari)
 
 ## mukta-m0-p55-v1354
-[with-that-water](tattoyaiḥ) [mud](kardamaṃ) [making](kṛtvā) [on-forehead](lalāṭe) [mark](tilakaṃ) [place](nyaset)
+[with-that-water](tattoyaiḥ) [mud](kardamaṃ) [having-made](kṛtvā) [on-forehead](lalāṭe) [mark](tilakaṃ) [place](nyaset)
 
 ## mukta-m0-p55-v1355
 [from-śakti-vessel](śakti+pātrāt) [from-vessel-measure](pātramātrāt) [water](toyaṃ) [thrown](kṣiptaṃ) [on-earth](mahītale)
 
 ## mukta-m0-p55-v1356
-[water](toyaṃ) [throw](kṣipet) [own-head-etc](svamūrddhādi) [drop-and](binduñca) [truth-seal](tattva+mudrayā)
+[water](toyaṃ) [throw](kṣipet) [from-own-crown](svamūrddhādi) [drop-and](binduñca) [with-truth-seal](tattva+mudrayā)
 
 ## mukta-m0-p55-v1357
 [he](sa) [indeed](eva) [servitude](dāsatāṃ) [goes](yāti) [if](yadi) [Indra](śakra) [equal](samo) [becomes](bhavet)
 
 ## mukta-m0-p55-v1358
-[remaining](avaśiṣṭa) [waters](jalaiḥ) [O-goddess](devi) [mud](kardame) [mark](tilakaṃ) [place](nyaset)
+[remaining](avaśiṣṭa) [with-waters](jalaiḥ) [O-goddess](devi) [mud](kardame) [mark](tilakaṃ) [place](nyaset)
 
 ## mukta-m0-p55-v1359
-[at-circle-end](cakrānte) [O-supreme-lady](parameśāni) [peace](śānti) [hymn](stotraṃ) [recite](paṭhen) [with-joy](mudā)
+[at-end-of-circle](cakrānte) [O-supreme-lady](parameśāni) [peace](śānti) [hymn](stotraṃ) [recite](paṭhet) [with-joy](mudā)
 
 ## mukta-m0-p55-v1360
 [with-joy](sānandam) [blissful](ānandamayīṃ) [remember](smarāi)
@@ -35,7 +35,7 @@
 [of-Maheśvaras](māheśvarāṇāṃ) [days](divasāḥ) [pass](prayāntu)
 
 ## mukta-m0-p55-v1362
-[day-by-day](dine+dine) [practitioner](sādhaka) [meeting](saṅgamastu)
+[day-by-day](dine+dine) [practitioner](sādhaka) [association](saṅgamastu)
 
 ## mukta-m0-p55-v1363
 [enjoyment](bhuktiñca) [liberation](muktiñca) [supreme](parāṃ) [we-go](vrajāmaḥ)
@@ -47,13 +47,13 @@
 [at-that-moment](tatkṣaṇena)
 
 ## mukta-m0-p55-v1366
-[pass](prayānti)
+[they-go](prayānti)
 
 ## mukta-m0-p55-v1367
-[thus](stathā) [destruction](nāśam) [approaches](upaiti) [quickly](śīghram)
+[thus](stathā) [destruction](nāśam) [obtains](upaiti) [quickly](śīghram)
 
 ## mukta-m0-p55-v1368
-[wanders](bhramyate) [Kaula](kaulika) [emperor](cakravartti)
+[wanders](vaṃbhramyate) [Kaula](kaulika) [emperor](cakravartti)
 
 ## mukta-m0-p55-v1369
 [because-Bhairava-I](yadbhairavo'haṃ) [mother](jananīṃ) [remember](smarāmi)
@@ -62,7 +62,7 @@
 [wander](bhramanti) [untasted](anāsvādita) [Kaula-path](kaula+mārgāḥ)
 
 ## mukta-m0-p55-v1371
-[wine](maireya) [drinking](pānaṃ) [we-practice](vayam+ācarāmaḥ)
+[wine](maireya) [drinking](pānaṃ) [we-practice](vayamācarāmaḥ)
 
 ## mukta-m0-p55-v1372
 [Śrī-Sundarī](śrīsundarī) [meditation](cintanameva) [whose](yasya)

@@ -15,15 +15,19 @@
 "quick_gloss": "and"
 },
 {
+"surface": "eva",
+"quick_gloss": "indeed"
+},
+{
 "surface": "guptāyāḥ",
 "quick_gloss": "hidden"
 },
 {
-"surface": "lakṣaṇaṃ",
-"quick_gloss": "mark"
+"surface": "lakṣaṇam",
+"quick_gloss": "characteristic"
 },
 {
-"surface": "kiṃ",
+"surface": "kim",
 "quick_gloss": "what"
 },
 {
@@ -44,7 +48,7 @@
 "quick_gloss": "hidden"
 },
 {
-"surface": "arccane",
+"surface": "arcane",
 "quick_gloss": "worship"
 },
 {
@@ -57,7 +61,7 @@
 },
 {
 "surface": "syāt",
-"quick_gloss": "be"
+"quick_gloss": "is"
 },
 {
 "surface": "bhakti",
@@ -86,11 +90,11 @@
 "tokens": [
 {
 "surface": "darśanāt",
-"quick_gloss": "seeing"
+"quick_gloss": "vision"
 },
 {
 "surface": "lakṣa",
-"quick_gloss": "mark"
+"quick_gloss": "of"
 },
 {
 "surface": "pīṭhānāṃ",
@@ -106,7 +110,7 @@
 },
 {
 "surface": "varavarṇini",
-"quick_gloss": "excellent-colored-one"
+"quick_gloss": "excellent-one"
 }
 ]
 },
@@ -119,18 +123,18 @@
 "tokens": [
 {
 "surface": "sparśanāt",
-"quick_gloss": "touching"
+"quick_gloss": "touch"
 },
 {
 "surface": "sarva",
-"quick_gloss": "all"
+"quick_gloss": "of-all"
 },
 {
 "surface": "pīṭhānāṃ",
 "quick_gloss": "seats"
 },
 {
-"surface": "phalaṃ",
+"surface": "phalam",
 "quick_gloss": "fruit"
 },
 {
@@ -163,12 +167,8 @@
 "quick_gloss": "tirthas"
 },
 {
-"surface": "yoni",
-"quick_gloss": "yoni"
-},
-{
-"surface": "pīṭheṣu",
-"quick_gloss": "seats"
+"surface": "yoni+pīṭheṣu",
+"quick_gloss": "in-yoni-seats"
 },
 {
 "surface": "sundari",
@@ -189,11 +189,11 @@
 },
 {
 "surface": "madhyabhāge",
-"quick_gloss": "middle"
+"quick_gloss": "middle-part"
 },
 {
 "surface": "vāmeṣu",
-"quick_gloss": "left"
+"quick_gloss": "on-left"
 },
 {
 "surface": "jāhnavī",
@@ -214,7 +214,7 @@
 "tokens": [
 {
 "surface": "kṣetre",
-"quick_gloss": "field"
+"quick_gloss": "in-field"
 },
 {
 "surface": "tīrthāni",
@@ -230,7 +230,7 @@
 },
 {
 "surface": "parameśvari",
-"quick_gloss": "supreme-goddess"
+"quick_gloss": "supreme-lady"
 }
 ]
 },
@@ -247,23 +247,19 @@
 },
 {
 "surface": "śrotum",
-"quick_gloss": "hear"
+"quick_gloss": "to-hear"
 },
 {
 "surface": "icchāmi",
-"quick_gloss": "wish"
+"quick_gloss": "i-desire"
 },
 {
 "surface": "lakṣaṇaṃ",
-"quick_gloss": "mark"
+"quick_gloss": "characteristic"
 },
 {
-"surface": "kula",
-"quick_gloss": "kula"
-},
-{
-"surface": "yoṣitām",
-"quick_gloss": "women"
+"surface": "kula+yoṣitām",
+"quick_gloss": "of-kula-women"
 }
 ]
 },
@@ -276,10 +272,10 @@
 "tokens": [
 {
 "surface": "tallakṣaṇa",
-"quick_gloss": "that-mark"
+"quick_gloss": "that-characteristic"
 },
 {
-"surface": "anvito",
+"surface": "anvitaḥ",
 "quick_gloss": "endowed"
 },
 {
@@ -291,12 +287,8 @@
 "quick_gloss": "practitioner"
 },
 {
-"surface": "kula",
-"quick_gloss": "kula"
-},
-{
-"surface": "yoṣitaḥ",
-"quick_gloss": "woman"
+"surface": "kula+yoṣitaḥ",
+"quick_gloss": "kula-woman"
 }
 ]
 },
@@ -309,7 +301,7 @@
 "tokens": [
 {
 "surface": "jñānināṃ",
-"quick_gloss": "knowers"
+"quick_gloss": "of-knowers"
 },
 {
 "surface": "jñānarūpa",
@@ -321,15 +313,15 @@
 },
 {
 "surface": "kulasya",
-"quick_gloss": "kula"
+"quick_gloss": "of-kula"
 },
 {
 "surface": "lakṣaṇaṃ",
-"quick_gloss": "mark"
+"quick_gloss": "characteristic"
 },
 {
 "surface": "śive",
-"quick_gloss": "shiva"
+"quick_gloss": "shive"
 }
 ]
 },
@@ -383,15 +375,11 @@
 },
 {
 "surface": "ucyatāṃ",
-"quick_gloss": "spoken"
+"quick_gloss": "let-be-spoken"
 },
 {
-"surface": "bhava",
-"quick_gloss": "bondage"
-},
-{
-"surface": "bandhanāt",
-"quick_gloss": "bondage"
+"surface": "bhava+bandhanāt",
+"quick_gloss": "from-world-bondage"
 }
 ]
 },
@@ -403,32 +391,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "yoni",
-"quick_gloss": "yoni"
-},
-{
-"surface": "tattvaṃ",
-"quick_gloss": "principle"
+"surface": "yoni+tattvaṃ",
+"quick_gloss": "yoni-principle"
 },
 {
 "surface": "vinā",
 "quick_gloss": "without"
 },
 {
-"surface": "na",
-"quick_gloss": "not"
+"surface": "na+eva",
+"quick_gloss": "not-indeed"
 },
 {
-"surface": "eva",
-"quick_gloss": "indeed"
-},
-{
-"surface": "kula",
-"quick_gloss": "kula"
-},
-{
-"surface": "dharma",
-"quick_gloss": "dharma"
+"surface": "kula+dharma",
+"quick_gloss": "kula-dharma"
 },
 {
 "surface": "parāyaṇaḥ",
@@ -448,12 +424,8 @@
 "quick_gloss": "forgotten"
 },
 {
-"surface": "punar",
-"quick_gloss": "again"
-},
-{
-"surface": "ucyeta",
-"quick_gloss": "spoken"
+"surface": "punar+ucyeta",
+"quick_gloss": "again-spoken"
 },
 {
 "surface": "śapathaṃ",
@@ -486,19 +458,15 @@
 },
 {
 "surface": "vaktavyaṃ",
-"quick_gloss": "spoken"
+"quick_gloss": "to-be-spoken"
 },
 {
 "surface": "punar",
 "quick_gloss": "again"
 },
 {
-"surface": "hi",
-"quick_gloss": "indeed"
-},
-{
-"surface": "etat",
-"quick_gloss": "this"
+"surface": "hyetat",
+"quick_gloss": "indeed-this"
 },
 {
 "surface": "śapathaṃ",
@@ -552,7 +520,7 @@
 },
 {
 "surface": "tasyāṃ",
-"quick_gloss": "her"
+"quick_gloss": "in-her"
 },
 {
 "surface": "pūjā",
@@ -577,7 +545,7 @@
 },
 {
 "surface": "kuryāt",
-"quick_gloss": "do"
+"quick_gloss": "should-do"
 },
 {
 "surface": "sadā",
@@ -589,7 +557,7 @@
 },
 {
 "surface": "śukre",
-"quick_gloss": "semen"
+"quick_gloss": "in-semen"
 },
 {
 "surface": "bīja",
@@ -618,7 +586,7 @@
 },
 {
 "surface": "puṣpeṇa",
-"quick_gloss": "flower"
+"quick_gloss": "with-flower"
 },
 {
 "surface": "śodhitaṃ",
@@ -630,7 +598,7 @@
 },
 {
 "surface": "nivedayet",
-"quick_gloss": "offered"
+"quick_gloss": "offer"
 }
 ]
 },
@@ -647,11 +615,11 @@
 },
 {
 "surface": "śukreṇa",
-"quick_gloss": "by-semen"
+"quick_gloss": "with-semen"
 },
 {
 "surface": "dātavyaṃ",
-"quick_gloss": "given"
+"quick_gloss": "to-be-given"
 },
 {
 "surface": "cānukalpaṃ",
@@ -672,7 +640,7 @@
 "tokens": [
 {
 "surface": "pratyakṣasya",
-"quick_gloss": "direct"
+"quick_gloss": "of-direct"
 },
 {
 "surface": "api",
@@ -684,7 +652,7 @@
 },
 {
 "surface": "cānukalpeṣu",
-"quick_gloss": "alternative"
+"quick_gloss": "in-alternatives"
 },
 {
 "surface": "saṃsthitam",
@@ -713,7 +681,7 @@
 },
 {
 "surface": "dravyasya",
-"quick_gloss": "substance"
+"quick_gloss": "of-substance"
 },
 {
 "surface": "anukalpanam",
@@ -783,24 +751,24 @@
 "quick_gloss": "mutually"
 },
 {
-"surface": "bhavet",
-"quick_gloss": "be"
+"surface": "bhaved",
+"quick_gloss": "becomes"
 },
 {
 "surface": "bījaṃ",
 "quick_gloss": "seed"
 },
 {
+"surface": "yathā",
+"quick_gloss": "as"
+},
+{
 "surface": "vāyu",
 "quick_gloss": "wind"
 },
 {
-"surface": "ākāśa",
+"surface": "ākāśayoḥ",
 "quick_gloss": "space"
-},
-{
-"surface": "yathā",
-"quick_gloss": "as"
 }
 ]
 }

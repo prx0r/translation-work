@@ -2,52 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p54-v1326
-[pada-gloss](atho) [pada-gloss](sa) [pada-gloss](eva) [pada-gloss](mṛtpiṇḍaṃ) [pada-gloss](kulālakaravarttanaiḥ)
+[then](atho) [he](sa) [indeed](eva) [clay-lump](mṛtpiṇḍaṃ) [by-potter-wheel-turnings](kulālakaravarttanaiḥ)
+
 ## mukta-m0-p54-v1327
-[pada-gloss](gabhīrite) [pada-gloss](madhyadeśe) [pada-gloss](tatraiva) [pada-gloss](kuharīkṛtaḥ)
+[in-deep-middle-region](gabhīrite) [madhyadeśe](madhyadeśe) [there-indeed](tatraiva) [made-hollow](kuharīkṛtaḥ)
+
 ## mukta-m0-p54-v1328
-[pada-gloss](kuṃbha) [pada-gloss](ityasya) [pada-gloss](śabdasya) [pada-gloss](vācyatāmavagāhate)
+[pot](kuṃbha) [thus](iti) [of-this-word](asya) [śabdasya](śabdasya) [denotability](vācyatām) [attains](avagāhate)
+
 ## mukta-m0-p54-v1329
-[pada-gloss](bhūmau) [pada-gloss](viśīrṇa) [pada-gloss](sarvāṃgaḥ) [pada-gloss](kāpālaugha) [pada-gloss](tvamīhate)
+[on-ground](bhūmau) [shattered](viśīrṇa) [all-limbs](sarvāṃgaḥ) [potsherd-mass](kāpālaugha) [state](tvam) [desires](īhate)
+
 ## mukta-m0-p54-v1330
-[pada-gloss](kuṭṭitaḥ) [pada-gloss](sanprabhajate) [pada-gloss](dhūliśabdasya) [pada-gloss](vācyatām)
+[broken](kuṭṭitaḥ) [being](san) [splits](prabhajate) [dust-word](dhūliśabdasya) [denotability](vācyatām)
+
 ## mukta-m0-p54-v1331
-[pada-gloss](śīrṇaśīrṇaḥ) [pada-gloss](punarvegāttra) [pada-gloss](sareṇutvamicchati)
+[shattered-shattered](śīrṇaśīrṇaḥ) [again](punar) [by-force](vegāt) [limb](tra) [dust-state](sareṇutvam) [desires](icchati)
+
 ## mukta-m0-p54-v1332
-[pada-gloss](atyaṃta) [pada-gloss](sūkṣmadurlakṣā) [pada-gloss](ghūrṇate) [pada-gloss](vāyumaṇḍale)
+[extremely](atyaṃta) [subtle-hard-to-perceive](sūkṣmadurlakṣā) [whirls](ghūrṇate) [in-wind-orb](vāyumaṇḍale)
+
 ## mukta-m0-p54-v1333
-[pada-gloss](anyonyaśabdanirvācyāsta) [pada-gloss](āropāḥ) [pada-gloss](prakīrttitāḥ)
+[mutually-word-undenotable](anyonyaśabdanirvācyāḥ) [those](te) [superimpositions](āropāḥ) [declared](prakīrttitāḥ)
+
 ## mukta-m0-p54-v1334
-[pada-gloss](tatrāropitarūpatvaṃ) [pada-gloss](ghaṭādeḥ) [pada-gloss](kārayanbudhaḥ)
+[there-superimposed-form-ness](tatrāropitarūpatvaṃ) [of-pot-etc](ghaṭādeḥ) [causing](kārayan) [wise-one](budhaḥ)
+
 ## mukta-m0-p54-v1335
-[pada-gloss](guṇāntarasamāsaṃga) [pada-gloss](mātrādevakathaṃ) [pada-gloss](mṛdi)
+[other-quality-association](guṇāntarasamāsaṃga) [measure-only](mātrādeva) [how](kathaṃ) [in-clay](mṛdi)
+
 ## mukta-m0-p54-v1336
-[pada-gloss](vṛthā) [pada-gloss](tasya) [pada-gloss](samāropaṃ) [pada-gloss](vṛthā) [pada-gloss](tasya) [pada-gloss](punarlayaḥ)
+[vain](vṛthā) [his](tasya) [superimposition](samāropaṃ) [vain](vṛthā) [his](tasya) [again-dissolution](punarlayaḥ)
+
 ## mukta-m0-p54-v1337
-[pada-gloss](īdṛśā) [pada-gloss](eva) [pada-gloss](kalahe) [pada-gloss](hetavaḥ) [pada-gloss](pratipāditāḥ)
+[such](īdṛśā) [indeed](eva) [in-dispute](kalahe) [causes](hetavaḥ) [established](pratipāditāḥ)
+
 ## mukta-m0-p54-v1338
-[pada-gloss](varṇātmakāstu) [pada-gloss](ye) [pada-gloss](śabdāstatra) [pada-gloss](nityatvamekakaḥ)
+[sound-natured](varṇātmakāḥ) [but](tu) [those](ye) [words](śabdāḥ) [there](tatra) [eternity](nityatvam) [one-only](ekakaḥ)
+
 ## mukta-m0-p54-v1339
-[pada-gloss](ataḥ) [pada-gloss](pravṛddhavairāṇāṃ) [pada-gloss](vādināmabhivalgatām)
+[therefore](ataḥ) [grown-enmity](pravṛddhavairāṇāṃ) [of-disputants](vādinām) [boasting](abhivalgatām)
+
 ## mukta-m0-p54-v1340
-[pada-gloss](prabhūtataradarpāṃdhāḥ) [pada-gloss](pāṇḍitya) [pada-gloss](grahadurdhiyām)
+[abundant-pride-blinded](prabhūtataradarpāṃdhāḥ) [scholarship](pāṇḍitya) [planet](graha) [bad-minded](durdhiyām)
+
 ## mukta-m0-p54-v1341
-[pada-gloss](tadgaveṣaṇamārgeṇa) [pada-gloss](tat) [pada-gloss](samāna) [pada-gloss](samādhinā)
+[that-search-path](tadgaveṣaṇamārgeṇa) [that](tat) [equal](samāna) [concentration](samādhinā)
+
 ## mukta-m0-p54-v1342
-[pada-gloss](viruddhabhāṣaṇe) [pada-gloss](jāti) [pada-gloss](nigraha) [pada-gloss](sthānakalpanaiḥ)
+[contradictory-speech](viruddhabhāṣaṇe) [genus](jāti) [refutation](nigraha) [place](sthāna) [contrivance](kalpanaiḥ)
+
 ## mukta-m0-p54-v1343
-[pada-gloss](paścātkope) [pada-gloss](sati) [pada-gloss](galoccoṣakāraṇa) [pada-gloss](ghoṣaṇaiḥ)
+[afterward](paścāt) [anger](kope) [being](sati) [throat-dryness-cause](galoccoṣakāraṇa) [shouting](ghoṣaṇaiḥ)
+
 ## mukta-m0-p54-v1344
-[pada-gloss](punastena) [pada-gloss](prakāreṇa) [pada-gloss](keśākeśi) [pada-gloss](kṛte) [pada-gloss](raṇe)
+[again](punar) [by-that](tena) [manner](prakāreṇa) [hair-pulling](keśākeśi) [made](kṛte) [battle](raṇe)
+
 ## mukta-m0-p54-v1345
-[pada-gloss](pādāt) [pada-gloss](saṃvṛtavegānāṃ) [pada-gloss](vādināṃdveṣaveśmasu)
+[foot](pādāt) [closed-speed](saṃvṛtavegānāṃ) [of-disputants](vādināṃ) [hatred-houses](dveṣaveśmasu)
+
 ## mukta-m0-p54-v1346
-[pada-gloss](siddhāntitaiśca) [pada-gloss](svamanaḥ) [pada-gloss](śuddhairanyaiśca) [pada-gloss](ninditaiḥ)
+[concluded](siddhāntitaiḥ) [and](ca) [own-mind](svamanaḥ) [pure](śuddhaiḥ) [others](anyaiḥ) [ca](ca) [blamed](ninditaiḥ)
+
 ## mukta-m0-p54-v1347
-[pada-gloss](vyāmūḍhān) [pada-gloss](kurvatāmeṣa) [pada-gloss](teṣāṃ) [pada-gloss](panthāniraṅkuśaḥ)
+[confounded](vyāmūḍhān) [making](kurvatām) [this](eṣa) [their](teṣāṃ) [path](panthānir) [unrestrained](aṅkuśaḥ)
+
 ## mukta-m0-p54-v1348
-[pada-gloss](pramāṇāṃdhāḥ) [pada-gloss](ṣoḍaśāye) [pada-gloss](padārthaistairmahākālīḥ)
+[proof-blinded](pramāṇāṃdhāḥ) [sixteen](ṣoḍaśāye) [categories](padārthaiḥ) [those](taiḥ) [great-kali](mahākālīḥ)
+
 ## mukta-m0-p54-v1349
-[pada-gloss](kalahaḥ) [pada-gloss](kevalaṃ) [pada-gloss](tatra) [pada-gloss](duḥsamāpaśaracchataiḥ)
+[dispute](kalahaḥ) [only](kevalaṃ) [there](tatra) [hard-to-end](duḥsamāpa) [autumn-hundreds](śaracchataiḥ)
+
 ## mukta-m0-p54-v1350
-[pada-gloss](saṃprāptirūpo) [pada-gloss](bhavitā) [pada-gloss](tadā) [pada-gloss](vāmena) [pada-gloss](nirṇayaḥ)
+[arrival-form](saṃprāptirūpo) [will-be](bhavitā) [then](tadā) [by-left](vāmena) [decision](nirṇayaḥ)

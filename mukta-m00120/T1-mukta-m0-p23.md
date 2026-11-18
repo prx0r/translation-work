@@ -14,7 +14,7 @@
 [never](kadāccinnaiva) [to-be-done](kartavyaḥ) [of-shudra](śūdrasya) [like-veda-recitation](vedapāṭhavat)
 
 ## mukta-m0-p23-v555
-[eighteen-illumination](aṣṭādaśollasaḥ)
+[eighteen-chapter](aṣṭādaśollasaḥ)
 
 ## mukta-m0-p23-v556
 [taught](jñāpitaṃ) [supreme-bliss](paramānanda) [my](mama) [place](sthāne) [reveal](prakāśaya)
@@ -47,31 +47,31 @@
 [six-acts](ṣaṭkarmasya) [and](ca) [means](sādhanam)
 
 ## mukta-m0-p23-v566
-[by-enjoyment](bhogena) [obtains](labhate) [liberation](muktiṃ) [accomplishment](siddhiṃ) [by-service-of-shri-chakra](śrīcakrasevanāt)
+[by-enjoyment](bhogena) [obtains](labhate) [liberation](muktiṃ) [siddhi](siddhiṃ) [by-shri-chakra-service](śrīcakrasevanāt)
 
 ## mukta-m0-p23-v567
 [by-one-time-recitation](ekavārajapenaiva) [hundred-thousand-times-fruit](lakṣavāraphalaṃ) [obtains](labhet)
 
 ## mukta-m0-p23-v568
-[circle](cakrañca) [twofold](dvividhaṃ) [declared](proktaṃ) [divine-hero-opinion](divya-vīra-mataṃ) [O-Shiva](śive)
+[circle-and](cakrañca) [twofold](dvividhaṃ) [declared](proktaṃ) [divine-hero-opinion](divya-vīra-mataṃ) [O-Shiva](śive)
 
 ## mukta-m0-p23-v569
-[divine-circle](divyacakramidaṃ) [declared](proktaṃ) [hero-circle](vīracakraṃ) [then](tataḥ) [hear](śṛṇu)
+[divine-circle-this](divyacakramidaṃ) [declared](proktaṃ) [hero-circle](vīracakraṃ) [then](tataḥ) [hear](śṛṇu)
 
 ## mukta-m0-p23-v570
-[therefore](ata) [indeed](eva) [O-great-goddess](maheśāni) [joined-with-shakti](śaktiyuktaṃ) [should-drink-honey](pivenmadhu)
+[therefore](ata) [indeed](eva) [O-great-goddess](maheśāni) [shakti-joined](śaktiyuktaṃ) [should-drink-honey](pivenmadhu)
 
 ## mukta-m0-p23-v571
-[hero-circle](vīracakraṃ) [should-enjoy](ramet) [shakti](śaktiṃ) [with-incense-flowers-etc](gandhapuṣpādināpi) [or](vā)
+[hero-circle](vīracakraṃ) [should-enjoy](ramet) [shakti](śaktiṃ) [with-sandal-flowers-etc](gandhapuṣpādināpi) [or](vā)
 
 ## mukta-m0-p23-v572
-[divine-circle](divyacakramidaṃ) [declared](proktaṃ) [hero-circle](vīracakraṃ) [then](tataḥ) [hear](śṛṇu)
+[divine-circle-this](divyacakramidaṃ) [declared](proktaṃ) [hero-circle](vīracakraṃ) [then](tataḥ) [hear](śṛṇu)
 
 ## mukta-m0-p23-v573
-[enjoyment](bhogaśca) [liberation](mokṣaśca) [in-hand](karastha) [indeed](eva)
+[enjoyment-and](bhogaśca) [liberation-and](mokṣaśca) [in-hand](karastha) [indeed](eva)
 
 ## mukta-m0-p23-v574
-[by-enjoyment](bhogena) [by-wine](madyena) [in-hand-liberation](karasthamuktiḥ)
+[by-enjoyment](bhogena) [by-wine](madyena) [hand-liberation](karasthamuktiḥ)
 
 ## mukta-m0-p23-v575
 [then](tadā) [in-circle](cakre) [O-great-goddess](maheśāni) [should-drink-wine](pivenmadyaṃ) [should-enjoy](ramet) [woman](striyam)
