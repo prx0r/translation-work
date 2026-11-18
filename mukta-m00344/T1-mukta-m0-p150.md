@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p150-v3726
-[pada](yastūttamo'pi) [pada](svācchandyāt) [pada](prārabdhavaśato'pi) [pada](vā)
+[that-who](yastūttamo'pi) [by-own-will](svācchandyāt) [by-prarabdha-power](prārabdhavaśato'pi) [or](vā)
 
 ## mukta-m0-p150-v3727
-[pada](tāapyavismṛtiramlānaivetyarthaḥ)
+[that-also](tāapyavismṛtiramlānaivetyarthaḥ)
 
 ## mukta-m0-p150-v3728
-[pada](vastutaḥ) [pada](śṛṇu) [pada](bhūdeva) [pada](madhyamottamajñāninām)
+[truly](vastutaḥ) [hear](śṛṇu) [god](bhūdeva) [of-middle-and-best-knowers](madhyamottamajñāninām)
 
 ## mukta-m0-p150-v3729
-[pada](tayorna) [pada](prārabhdmapītyāha) [pada](vastuta) [pada](iti)
+[of-them-two](tayorna) [not-prarabdha](prārabhdmapītyāha) [thus-says](vastuta) [iti](iti)
 
 ## mukta-m0-p150-v3730
-[pada](saṃvidātmātiriktaṃ) [pada](yanna) [pada](te) [pada](paśyanti) [pada](kiñcana)
+[beyond-consciousness-self](saṃvidātmātiriktaṃ) [what-not](yanna) [they](te) [see](paśyanti) [anything](kiñcana)
 
 ## mukta-m0-p150-v3731
-[pada](ca]) [pada](||) [pada]((śi0) [pada](dṛ0) [pada](7|5-6)) [pada](iti)
+[and](ca) [iti](iti)
 
 ## mukta-m0-p150-v3732
-[pada](bhasmīṛtamatasteṣāṃ) [pada](na) [pada](kiñcit) [pada](pariśiṣyate)
+[reduced-to-ash](bhasmīṛtamatasteṣāṃ) [not](na) [anything](kiñcit) [remains](pariśiṣyate)
 
 ## mukta-m0-p150-v3733
-[pada](śiṣyatītyāha) [pada](-) [pada](karmeti) [pada](|) [pada](sarvaṃ) [pada](dvaitam) [pada](|) [pada](na) [pada](kiñcit) [pada](karma)
+[remains-thus-says](śiṣyatītyāha) [karma-thus](karmeti) [all-duality](sarvaṃ+dvaitam) [not](na) [anything](kiñcit) [karma](karma)
 
 ## mukta-m0-p150-v3734
-[pada](śṛṇu) [pada](brahman) [pada](rahasyaṃ) [pada](te) [pada](pravakṣyāmi) [pada](samāsataḥ)
+[hear](śṛṇu) [brahman](brahman) [secret](rahasyaṃ) [to-you](te) [i-will-declare](pravakṣyāmi) [briefly](samāsataḥ)
 
 ## mukta-m0-p150-v3735
-[pada](śivatulyatvānna) [pada](karmetyāha) [pada](-) [pada](śṛṇviti)
+[by-shiva-equality](śivatulyatvānna) [karma-thus-says](karmetyāha) [hear-thus](śṛṇviti)
 
 ## mukta-m0-p150-v3736
-[pada](nāsti) [pada](bhedo) [pada](leśato'pi) [pada](satyametanna) [pada](saṃśayaḥ)
+[not-is](nāsti) [difference](bhedo) [even-slightly](leśato'pi) [true-this](satyametanna) [doubt](saṃśayaḥ)
 
 ## mukta-m0-p150-v3737
-[pada](prārabdhaśeṣa) [pada](iti) [pada](bhāvaḥ)
+[prarabdha-remainder](prārabdhaśeṣa) [iti](iti) [meaning](bhāvaḥ)
 
 ## mukta-m0-p150-v3738
-[pada](iti) [pada](śrutvā) [pada](sa) [pada](vasumān) [pada](hemāṅgadanirūpitam)
+[thus](iti) [hearing](śrutvā) [he](sa) [vasuman](vasumān) [hemangada-declared](hemāṅgadanirūpitam)
 
 ## mukta-m0-p150-v3739
-[pada](kiñcit) [pada](|) [pada](jñānināṃ) [pada](madhyamottamānām) [pada](|) [pada](iti) [pada](rājakumāroktaṃ) [pada](sarvam)
+[anything](kiñcit) [of-knowers](jñānināṃ) [middle-and-best](madhyamottamānām) [thus](iti) [prince-spoken](rājakumāroktaṃ) [all](sarvam)
 
 ## mukta-m0-p150-v3740
-[pada](pūjito) [pada](rājaputrādyaiḥ) [pada](svaṃ) [pada](sthānaṃ) [pada](pratyapadyata)
+[worshipped](pūjito) [by-princes-etc](rājaputrādyaiḥ) [own](svaṃ) [place](sthānaṃ) [returned](pratyapadyata)
 
 ## mukta-m0-p150-v3741
-[pada](evaṃ) [pada](śrutvā) [pada](punā) [pada](rāmaḥ) [pada](papracchātrisutaṃ) [pada](munim)
+[thus](evaṃ) [hearing](śrutvā) [again](punā) [rama](rāmaḥ) [asked](papracchātrisutaṃ) [sage](munim)
 
 ## mukta-m0-p150-v3742
-[pada](vinaṣṭo) [pada](mama) [pada](sandeho) [pada](viditaṃ) [pada](tanmahatpadam)
+[destroyed](vinaṣṭo) [my](mama) [doubt](sandeho) [known](viditaṃ) [that-great-state](tanmahatpadam)
 
 ## mukta-m0-p150-v3743
-[pada](tanmahatpadaṃ) [pada](śuddhacidadvayātmarūpam)
+[that-great-state](tanmahatpadaṃ) [pure-consciousness-nondual-self-form](śuddhacidadvayātmarūpam)
 
 ## mukta-m0-p150-v3744
-[pada](tathāpi) [pada](bhavatā) [pada](proktamāditaḥ) [pada](sarvameva) [pada](tu)
+[still](tathāpi) [by-you](bhavatā) [declared](proktamāditaḥ) [all](sarvameva) [indeed](tu)
 
 ## mukta-m0-p150-v3745
-[pada](proktākhilārthaṃ) [pada](saṃkṣepeṇa) [pada](brūhīti) [pada](pṛcchati) [pada](-) [pada](tathāpīti)
+[declared-all-meaning](proktākhilārthaṃ) [briefly](saṃkṣepeṇa) [speak-thus](brūhīti) [asks](pṛcchati) [still-thus](tathāpīti)
 
 ## mukta-m0-p150-v3746
-[pada](yāvaddhārayitavyaṃ) [pada](me) [pada](guro) [pada](sarvātmanā) [pada](mayā)
+[as-long-as](yāvaddhārayitavyaṃ) [me](me) [guru](guro) [wholly](sarvātmanā) [by-me](mayā)
 
 ## mukta-m0-p150-v3747
-[pada](me) [pada](sarvātmanā) [pada](yāvaddhārayitavyaṃ) [pada](tāvad) [pada](brūhi)
+[me](me) [wholly](sarvātmanā) [as-long-as](yāvaddhārayitavyaṃ) [so-long](tāvad) [speak](brūhi)
 
 ## mukta-m0-p150-v3748
-[pada](śṛṇu) [pada](rāma) [pada](pravakṣyāmi) [pada](sarvasāratamaṃ) [pada](punaḥ)
+[hear](śṛṇu) [rama](rāma) [i-will-declare](pravakṣyāmi) [essence-of-all](sarvasāratamaṃ) [again](punaḥ)
 
 ## mukta-m0-p150-v3749
-[pada](sarvasya) [pada](proktasya) [pada](sāratamam)
+[of-all](sarvasya) [declared](proktasya) [essence](sāratamam)
 
 ## mukta-m0-p150-v3750
-[pada](sā) [pada](svātantryābhidhamāyāśaktimāhātmyataḥ) [pada](sadā)
+[she](sā) [by-own-power](svātantryābhidhamāyāśaktimāhātmyataḥ) [always](sadā)
