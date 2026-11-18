@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p29-v701
-[unites](saṃyojayatyaho) [this](seyaṃ) [earth](pṛthvī) [in-world](jagati) [is-sung](gīyase)
+[joins](saṃyojayati) [indeed](aho) [this](seyam) [earth](pṛthvī) [in-world](jagati) [sung](gīyase)
 
 ## mukta-m0-p29-v702
-[served-by-nārada](nāradasevitā)
+[served-by-nārada](nārada+sevitā)
 
 ## mukta-m0-p29-v703
-[brahma-son](brahmaputraḥ) [he](sa) [by-devotion](yadbhaktyā) [you](sā) [tvaṃ](tvaṃ) [served-by-nārada](nāradasevitā)
+[brahma's-son](brahma+putraḥ) [he](sa) [by-devotion](yad+bhaktyā) [that](sā) [you](tvam) [served-by-nārada](nārada+sevitā)
 
 ## mukta-m0-p29-v704
-[dear-to-puruhūta](puruhūtapriyā)
+[dear-to-indra](puruhūta+priyā)
 
 ## mukta-m0-p29-v705
-[by-devotee-nurturing](yadbhaktalālanāyāgādapi) [viṣṇu](viṣṇurupendratām)
+[by-devotion-nurture](yad+bhakta+lālanā) [by-sacrifice](yāgāt) [also](api) [viṣṇu](viṣṇuḥ) [upendra-state](upendra+tām)
 
 ## mukta-m0-p29-v706
 [beloved](kāntā)
 
 ## mukta-m0-p29-v707
-[done-sin-removal](kṛtaduṣkṛtahānirastu) [beloved](kāntā) [of-virtuous](kṛtināṃ) [peaceful-hearted](śāntahṛdāṃ) [always](sadā) [all-around](samantāt)
+[done-sin-removal](kṛta+duṣkṛta+hāniḥ) [may-be](astu) [beloved](kāntā) [of-virtuous](kṛtinām) [peaceful-hearted](śānta+hṛdām) [always](sadā) [all-around](samantāt)
 
 ## mukta-m0-p29-v708
 [desired-one](kāminī)
 
 ## mukta-m0-p29-v709
-[done-time-terrible-fault-peace](kṛtakālakarāladoṣaśāntirmatimadbhiḥ) [known-here](kaliteha) [desired-one](kāminīyam)
+[done-time-terrible-fault-peace](kṛta+kāla+karāla+doṣa+śāntiḥ) [by-wise](matimadbhiḥ) [here](iha) [desired-one](kāminī) [this](yam)
 
 ## mukta-m0-p29-v710
-[lotos-eyed](padmalocanā)
+[lotos-eyed](padma+locanā)
 
 ## mukta-m0-p29-v711
-[thus](iti) [seeing](vīkṣya) [if](yadīkṣaṇe) [hara-within](harāntarvicikitsāvatu) [lotos-eyed](padmalocanā) [she](sā)
+[thus](iti) [seeing](vīkṣya) [when](yad) [glance](īkṣaṇe) [of-śiva](harā) [within](antar) [doubt](vicikitsā) [may-protect](avatu) [lotos-eyed](padma+locanā) [she](sā)
 
 ## mukta-m0-p29-v712
-[page-114](p.) [prahlādinī](prahlādinī)
+[page-114](p.+114) [delighter](prahlādinī)
 
 ## mukta-m0-p29-v713
-[disease](rogo) [without](vinā) [whose-worship](yadbhajanaṃ) [of-people](janasya) [delightful](prahlādinī) [gladdening](hlādayatāṃ) [in-hearts](hṛdeṣā)
+[disease](rogaḥ) [without](vinā) [whose](yad) [worship](bhajanam) [of-people](janasya) [delighter](prahlādinī) [gladdens](hlādayatām) [in-hearts](hṛdeṣā)
 
 ## mukta-m0-p29-v714
-[great-mother](mahāmātā)
+[great-mother](mahā+mātā)
 
 ## mukta-m0-p29-v715
-[greatness](mahattvaṃ) [renowned](prathitaṃ) [honored](mānyā) [great-mother](mahāmātā) [not](na) [whose](kasya) [she](sā)
+[greatness](mahattvam) [proclaimed](prathitam) [honored](mānyā) [great-mother](mahā+mātā) [not](na) [of-whom](kasya) [she](sā)
 
 ## mukta-m0-p29-v716
 [durgā](durgā)
 
 ## mukta-m0-p29-v717
-[together](samaṃ) [with-yama](yamenātigatārthanāmā) [bhakteṣu](bhakteṣu) [she](sā) [me](me) [victory-giving](jayadāstu) [durgā](durgā)
+[together](samaṃ) [by-yama](yamena) [beyond-goal-named](atigata+artha+nāmā) [to-devotees](bhakteṣu) [she](sā) [to-me](me) [victory-giving](jayadā) [be](astu) [durgā](durgā)
 
 ## mukta-m0-p29-v718
-[destroyer-of-distress](durgatināśinī)
+[destroyer-of-distress](durgati+nāśinī)
 
 ## mukta-m0-p29-v719
-[that](tāṃ) [distress](durgatiṃ) [which](yā) [removes](harati) [in-moment](kṣaṇena) [meditated-indeed](dhyātaiva) [she](sā) [destroyer-of-distress](durgatināśinī) [you](tvam)
+[that](tām) [distress](durgatim) [which](yā) [removes](harati) [in-moment](kṣaṇena) [meditated-indeed](dhyāta+eva) [she](sā) [destroyer-of-distress](durgati+nāśinī) [you](tvam)
 
 ## mukta-m0-p29-v720
-[flame-faced](jvālāmukhī)
+[flame-faced](jvālā+mukhī)
 
 ## mukta-m0-p29-v721
-[blazing-continuously](jājvalyamānāvirataṃ) [may-give](dadātu) [flame-faced](jvālāmukhī) [chief-most](mukhyatamāṃ) [glory](vibhūtim)
+[blazing-continuously](jājvalyamānā+aviratam) [may-give](dadātu) [flame-faced](jvālā+mukhī) [chief-most](mukhyatamām) [glory](vibhūtim)
 
 ## mukta-m0-p29-v722
 [good-gotra](sugotrā)
 
 ## mukta-m0-p29-v723
-[chanted-indeed](japtaiva) [which](yā) [heated-gold-colored](taptasuvarṇavarṇā) [for-prosperity](śriye'stu) [she](sā) [of-hymn-maker](stotrakṛtaḥ) [good-gotra](sugotrā)
+[chanted-indeed](japta+eva) [which](yā) [heated-gold-colored](taptasuvarṇa+varṇā) [for-prosperity](śriye) [be](astu) [she](sā) [hymn-maker](stotrakṛtaḥ) [good-gotra](sugotrā)
 
 ## mukta-m0-p29-v724
-[page-115](p.) [light](jyotiḥ)
+[page-115](p.+115) [light](jyotiḥ)
 
 ## mukta-m0-p29-v725
-[see](paśyanti) [which](yāṃ) [astonished](vismayino'nubhūtyā) [she](sā) [everywhere](sarvato) [light](jyotirihāstu) [for-prosperity](bhūtyai)
+[see](paśyanti) [whom](yām) [astonished](vismayinaḥ) [by-experience](anubhūtyā) [she](sā) [everywhere](sarvataḥ) [light](jyotiḥ) [here](iha) [be](astu) [for-prosperity](bhūtyai)
