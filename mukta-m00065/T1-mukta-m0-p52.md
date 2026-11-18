@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p52-v1276
-sūtra-madhye(thread-middle) ardha-sūtreṇa(half-thread-by) matsyān(fish) koṇeṣu(corners-in) sarvataḥ(everywhere)
+[thread-middle](sūtramadhye) [half-thread](ardhasūtreṇa) [fishes](matsyān) [in-corners](koṇeṣu) [everywhere](sarvataḥ)
 
 ## mukta-m0-p52-v1277
-vedāsram(four-cornered) piṇḍikā-kṣetram(pedestal-area) kuṇḍānām(of-kuṇḍas) api(also) sarvadā(always)
+[veda-angle](vedāsraṃ) [pedestal-field](piṇḍikākṣetraṃ) [of-pits](kuṇḍānām) [also](api) [always](sarvadā)
 
 ## mukta-m0-p52-v1278
-madhyāt(from-middle) madhya-gatam(middle-gone) sūtram(thread) koṇam(corner) saṃveṣṭya(having-wound) ca(and) aparam(another)
+[from-middle](madhyāt) [middle-gone](madhyagataṃ) [thread](sūtraṃ) [corner](koṇaṃ) [encircling](saṃveṣdya) [and-another](cāparam)
 
 ## mukta-m0-p52-v1279
-tat-sūtra-dvaya-saṃyogāt(those-two-threads-union-from) sādhayet(accomplish) vā(or) tri-parṇikām(three-leaved)
+[that-thread-pair-union](tatsūtradvayasaṃyogāt) [accomplish](sādhayet) [or](vā) [three-leaf](triparṇikām)
 
 ## mukta-m0-p52-v1280
-saṃbhrāmya(having-revolved) madhyataḥ(from-middle) sūtram(thread) sādhayet(accomplish) ardha-candrikām(half-moon)
+[revolving](saṃbhrāmya) [from-middle](madhyataḥ) [thread](sūtraṃ) [accomplish](sādhayet) [half-moon](ardhacandrikām)
 
 ## mukta-m0-p52-v1281
-rakṣaḥ-agni-saumya-kāṣṭhāsu(rakṣa-agni-saumya-directions-in) ta(then) tri-sūtrya-trikoṇikām(three-threaded-triangle)
+[demon-fire-moon-quarters](rakṣo'gnisaumyakāṣṭhāsu) [then](ta) [three-thread](trisūtrya) [triangle](trikoṇikām)
 
 ## mukta-m0-p52-v1282
-madhya-adha-sūtra-saṃbhrāntaiḥ(middle-lower-thread-revolved-by) piṇḍikā(pedestal) vartulā(circular) bhavet(becomes)
+[middle-lower-thread-revolving](madhyādhasūtrasaṃbhrāntaiḥ) [pedestal](piṇḍikā) [round](vartulā) [becomes](bhavet)
 
 ## mukta-m0-p52-v1283
-turya-asra-vṛttayoḥ(fourth-corner-circle-of) madhye(middle-in) yamandvoḥ(two-yamas-of) sūtra-pātanam(thread-dropping)
+[fourth-angle-circle](turyāsravṛttayoḥ) [middle](madhye) [of-two](yamandvoḥ) [thread-falling](sūtrapātanam)
 
 ## mukta-m0-p52-v1284
-bhavet(becomes) ṣaḍ-asrikā-piṇḍī(six-cornered-pedestal) śeṣa-rekhā-vilopanāt(remaining-line-erasing-by)
+[becomes-six-angle-pedestal](bhavetṣaḍasrikāpiṇḍī) [remaining-line-erasure](śeṣarekhāvithopanāt)
 
 ## mukta-m0-p52-v1285
-sūtra-madhya-ardha(half-of-thread-middle) sa-bṛttāt(with-circle-from) abjā(lotus) syāt(may-be) pūrva-coditā(previously-stated)
+[thread-middle-half](sūtramadhyārdha) [with-circle](sabṛttāt) [lotus](abjā) [is](syāt) [previously-stated](pūrvacoditā)
 
 ## mukta-m0-p52-v1286
-madhya-sūtra-ardha-bhāgena(half-portion-of-middle-thread-by) koṇāni(corners) hrāsayet(reduce) atha(then)
+[middle-thread-half](madhyasūtrārdha) [part](bhāgena) [corners](koṇāni) [diminish](hrāsayet) [then](atha)
 
 ## mukta-m0-p52-v1287
-koṇaiḥ(by-corners) sūtra-paricchinnaiḥ(thread-cut-by) kuryāt(make) aṣṭāsrikām(eight-cornered) sadā(always)
+[by-corners](koṇaiḥ) [thread-delimited](sūtraparicchinnaiḥ) [make](kuryāt) [eight-angle](aṣṭāsrikām) [always](sadā)
 
 ## mukta-m0-p52-v1288
-saṃchidya(having-cut) asrīn(corners) ca(and) saṃchidya(having-cut) kṛtvā(having-made) tu(but) daśamāstrikam(ten-cornered)
+[cutting-angles](saṃchidyāsrīṃśca) [cutting](saṃchidya) [making](kṛtvā) [then](tu) [ten-angle](daśamāstrikam)
 
 ## mukta-m0-p52-v1289
-kartavyā(to-be-made) ṣoḍaśa-aṃśaiḥ(sixteen-parts-by) tu(but) piṇḍikā(pedestal) keśava-āśrayā(keśava-refuge)
+[to-be-made](kartavyā) [sixteen-parts](ṣoḍakāṃśaiḥ) [then](tu) [pedestal](piṇḍikā) [keśava-refuge](keśavāśrayā)
 
 ## mukta-m0-p52-v1290
-pūrvavat(as-before) ṣoḍaśa-aṃśaiḥ(sixteen-parts-by) tu(but) kuryāt(make) dvātriṃśat-asrikām(thirty-two-cornered)
+[as-before](pūrvavat) [sixteen-parts](yoḍaśaṃśaiḥ) [then](tu) [make](kuryāt) [thirty-two-angle](dvātriṃśadasrikām)
 
 ## mukta-m0-p52-v1291
-āgneyī(southeast) bodhi-patra-ābhā(bodhi-leaf-resembling) pīta-roga-agni-dāha-kṛt(yellow-disease-fire-burning-maker)
+[āgneya](āgneyī) [bodhi-leaf-like](bodhipatrābhā) [disease-fire-burning](pintarogāgnidāhakṛt)
 
 ## mukta-m0-p52-v1292
-trikoṇā(triangular) rākṣasā(rākṣasa-of) deśa(region) chadakarī(covering) sadā(always)
+[triangle](trikoṇā) [rākṣasa-born](rākṣasājām) [then](tu) [place](deśo) [covering](cchadakarī) [always](sadā)
 
 ## mukta-m0-p52-v1293
-vāyavyā(northwest) ca(and) ṣaḍ-asrā(six-cornered) uktā(stated) śatru-uccāṭana-kārikā(enemy-expelling)
+[vāyavya](vāyavyā) [and](ca) [six-angle](ṣaḍasrā) [said](uktā) [enemy-expulsion](śatrūccāṭanakārikā)
 
 ## mukta-m0-p52-v1294
-raudrī(northeast) aṣṭāsrikā(eight-cornered) jñeyā(to-be-known) mukti-dā(liberation-giving) sāri-nāśinī(enemy-destroying)
+[raudra](raudrī) [eight-angle](aṣṭāsrikā) [to-be-known](jñeyā) [liberation-giving](muktidā) [enemy-destroying](sārināśinī)
 
 ## mukta-m0-p52-v1295
-dvātriṃśat-asrikā(thirty-two-cornered) vāhnī(fiery) svarga-ākhyā-phala-dāyinī(heaven-named-fruit-giving)
+[thirty-two-angle](dvātriṃśadasrikā) [vāhni](vāhnī) [heaven-named](svargākhyā) [fruit-giving](phaladāyinī)
 
 ## mukta-m0-p52-v1296
-ardha-candra-upamā(half-moon-resembling) nīlam(blue) śeṣaḥ(remainder) kodaṇḍa-vat(like-bow) bhavet(becomes)
+[half-moon-like](ardhacandropamā) [blue](nīlaṃ) [remainder](śeṣaḥ) [bow-like](kodaṇḍavad) [becomes](bhavet)
 
 ## mukta-m0-p52-v1297
-piṇḍī-māma-stakādīnām(pedestal-head-etc-of) karoti(does) evam(thus) vidham(such) phalam(fruit)
+[of-pedestal-head-etc](piṇḍīmāmastakādīnām) [does](karoti) [thus](evaṃ) [kind](vidhaṃ) [fruit](phalam)
 
 ## mukta-m0-p52-v1298
-bhaga-liṅga-aṅkita(bhaga-liṅga-marked) sarvam(all) trailokyam(three-worlds) sa-cara-acaram(movable-immovable)
+[bhaga-liṅga-marked](bhagaliṅgāṅkita) [all](sarvaṃ) [three-worlds](trailokyaṃ) [with-moving-immoving](sacarācaram)
 
 ## mukta-m0-p52-v1299
-śiva-liṅgam(śiva-liṅga) param(supreme) tat(that) ca(and) tayoḥ-yogāt(those-union-from) mahat-phalam(great-fruit)
+[śiva-liṅga](śivaliṅgaṃ) [supreme](paraṃ) [that](taccaṃ) [their-union](tayoryogāt) [great-fruit](mahatphalam)
 
 ## mukta-m0-p52-v1300
-dala-aṅghri-gartikā(petal-foot-pit) kūrma(tortoise) vedāsrā(four-cornered) valiṅga-artinī(liṅga-holding)
+[petal-foot-pit](dalāṅghrigartikā) [tortoise](kūrmoṃ) [veda-angle](vedāsrā) [liṅga-pit](valiṅgartinī)
