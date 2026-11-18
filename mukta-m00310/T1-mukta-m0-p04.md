@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p04-v76
-guru-instruction-from do japa worship day-and-night
+[from-guru-instruction](gurūpadeśataḥ) [do](kuryāj) [japa](japaṃ) [worship-day-night](pūjāmaharniśam)
 
 ## mukta-m0-p04-v77
-guru worship pray shakti-initiation-for O-goddess
+[guru-worship](gurumabhyarcya) [request](saṃprārthya) [for-shakti-initiation](śaktidīkṣārtham) [O-goddess](īśvari)
 
 ## mukta-m0-p04-v78
-births-millions-in chanted-even his vidya not succeeds
+[in-millions-of-births](janmakoṭiṣu) [even-chanted](japtāpi) [of-him](tasya) [vidya](vidyā) [not](na) [succeeds](sidhyati)
 
 ## mukta-m0-p04-v79
-disciple woman supreme-form goddess-form contemplate
+[disciple](śiṣyaḥ) [woman](striyaṃ) [supreme-form](parārūpāṃ) [goddess-form](devīrūpāṃ) [meditate](vicintayet)
 
 ## mukta-m0-p04-v80
-respecting mother-like goddess maiden-like initiate then
+[with-respect](ādṛtya) [like-mother](mātṛvad) [O-goddess](devi) [like-daughter](kanyāvad) [initiate](dīkṣayet) [then](tadā)
 
 ## mukta-m0-p04-v81
-sitting guru there west-facing O-Shiva
+[sitting](upaviśya) [guru](guruḥ) [there](tatra) [west-facing](paścimābhimukhaḥ) [O-Shiva](śive)
 
 ## mukta-m0-p04-v82
-then worship O-goddess yantra-before deity-house
+[then](tataḥ) [worship](saṃpūjya) [O-goddess](deveśi) [at-yantra-front](yantrāgre) [in-temple](devatāgṛhe)
 
 ## mukta-m0-p04-v83
-obtaining with-Shiva vidya guru father-like worship
+[obtaining](saṃprāpya) [with-Shiva-vidya](saśivāṃ+vidyāṃ) [guru](guruṃ) [like-father](pitṛvad) [worship](arcayet)
 
 ## mukta-m0-p04-v84
-then-command head-on-taking japa do always
+[then-command](tadājñāṃ) [on-head-take](śirasādāya) [japa](japaṃ) [do](kuryāt) [always](sarvadā)
 
 ## mukta-m0-p04-v85
-mortal-even with-Shiva being immortality attain
+[mortal](martyo) [even](api) [with-Shiva](sañchive) [creature](jantuḥ) [immortality](amaratvam) [attain](avāpnuyāt)
 
 ## mukta-m0-p04-v86
-she dark she Shiva goddess subject his world three
+[she](sa) [Shyama](śyāmā) [she](sa) [Shiva](śivā) [O-goddess](devi) [subjugation](vaśyaṃ) [of-him](tasya) [three-worlds](jagat+trayam)
 
 ## mukta-m0-p04-v87
-initiation-rite O-great-goddess secret carefully
+[of-initiation-rite](dīkṣāvidheḥ) [O-great-goddess](mahādevi) [secret](gopanīyaṃ) [carefully](prayatnataḥ)
 
 ## mukta-m0-p04-v88
-goddesses Vaishnava Shakta and-these you hear Parvati
+[of-goddesses](devīnāṃ) [Vaishnava-Shakta](vaiṣṇavāñ+chāktāñ) [and-these](chaivāṃs) [you](tvaṃ) [hear](śṛṇu) [Parvati](pārvati)
 
 ## mukta-m0-p04-v89
-Kalika Bhadrakali and Matangi Bhuvaneshvari
+[Kalika](kālikā) [Bhadrakali](bhadrakālī) [and](ca) [Matangi](mātaṅgī) [Bhuvaneshvari](bhuvaneśvarī)
 
 ## mukta-m0-p04-v90
-Annapurna Mahalakshmi Sharika Sharada then
+[Annapurna](annapūrṇā) [Mahalakshmi](mahālakṣmīḥ) [Sharika](śārikā) [Sharada](śāradā) [then](tataḥ)
 
 ## mukta-m0-p04-v91
-Bhida and Kalaratri and Bhavani Vajrayogini
+[Bhida](bhīḍā) [and](ca) [Kalaratri](kālarātriḥ) [and](ca) [Bhavani](bhavānī) [Vajrayogini](vajrayoginī)
 
 ## mukta-m0-p04-v92
-these goddess with-limbs shaktis I-speak mantras
+[of-these](etāsāṃ) [O-goddess](devi) [with-limbs](sāṅgānāṃ) [of-shaktis](śaktīnāṃ) [I-speak](vacmi) [I](ahaṃ) [mantras](manūn)
 
 ## mukta-m0-p04-v93
-Mrityunjaya Amriteshana Vatuka also Maheshvara
+[Mrityunjaya](mṛtyuñjayaḥ) [Amriteshana](amṛteśānaḥ) [Vatuka](vaṭukaḥ) [even](api) [Maheshvara](maheśvaraḥ)
 
 ## mukta-m0-p04-v94
-Vikarala Nilakantha Sharva Pashupati Mrda
+[Vikarala](vikarālaḥ) [Nilakantha](nīlakaṇṭhaḥ) [Sharva](śarvaḥ) [Pashupati](paśupatiḥ) [Mrida](mṛḍaḥ)
 
 ## mukta-m0-p04-v95
-Kumara Krodhana and-Isha Kapali Krura-Bhairava
+[Kumara](kumāraḥ) [Krodhana](krodhanaḥ) [and-Isha](ceśaḥ) [Kapali](kapālī) [Krura-Bhairava](krūrabhairavaḥ)
 
 ## mukta-m0-p04-v96
-Aghora and Mahakala Kameshvara thus remembered
+[Aghora](aghoraḥ) [and](ca) [Mahakala](mahākālaḥ) [Kameshvara](kāmeśvaraḥ) [thus](iti) [remembered](smṛtaḥ)
 
 ## mukta-m0-p04-v97
-by-which hearing-only mantra-practitioner Vishnu-abode go
+[by-which](yena) [hearing-only](śravaṇamātreṇa) [mantri](mantrī) [Vishnu-foot](viṣṇupadaṃ) [go](vrajet)
 
 ## mukta-m0-p04-v98
-Varaha Jamadagnya and Sita-Rama Janardana
+[Varaha](varāhaḥ) [Jamadagnya](jāmadagnyaḥ) [and](ca) [Sita-Rama](sītārāmaḥ) [Janardana](janārdanaḥ)
 
 ## mukta-m0-p04-v99
-mantras very-excellent goddess chanted by-sadhakas-best
+[mantras](mantrāḥ) [very-excellent](atyuttamāḥ) [O-goddess](devi) [to-be-chanted](japyāḥ) [by-best-sadhakas](sādhakasattamaiḥ)
 
 ## mukta-m0-p04-v100
-extractions I-speak mantras hearing keep carefully
+[extractions](uddhārān) [I-speak](vacmi) [of-mantras](mantrāṇāṃ) [having-heard](śrutvā) [keep-secret](gopaya) [carefully](yatnataḥ)

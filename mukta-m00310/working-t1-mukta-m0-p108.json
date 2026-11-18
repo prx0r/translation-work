@@ -7,16 +7,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "tatra",
-"quick_gloss": "there"
-},
-{
-"surface": "eva",
-"quick_gloss": "indeed"
+"surface": "tatraiva",
+"quick_gloss": "there-indeed"
 },
 {
 "surface": "vasate",
-"quick_gloss": "resides"
+"quick_gloss": "dwells"
 },
 {
 "surface": "durgā",
@@ -24,7 +20,7 @@
 },
 {
 "surface": "navarūpātmikā",
-"quick_gloss": "nine-form-possessed"
+"quick_gloss": "nine-form-essence"
 },
 {
 "surface": "parā",
@@ -74,7 +70,7 @@
 },
 {
 "surface": "mahiṣasyāsurendrasya",
-"quick_gloss": "mahisha-asura-lord"
+"quick_gloss": "of-buffalo-demon-lord"
 },
 {
 "surface": "avatāritā",
@@ -91,7 +87,7 @@
 "tokens": [
 {
 "surface": "tāmeva",
-"quick_gloss": "her-only"
+"quick_gloss": "her-indeed"
 },
 {
 "surface": "aharniśaṃ",
@@ -132,7 +128,7 @@
 },
 {
 "surface": "sa",
-"quick_gloss": "he"
+"quick_gloss": "that"
 },
 {
 "surface": "śivo",
@@ -218,8 +214,12 @@
 "quick_gloss": "created"
 },
 {
-"surface": "agramanunāyakaḥ",
-"quick_gloss": "first-leader"
+"surface": "agram",
+"quick_gloss": "first"
+},
+{
+"surface": "anunāyakaḥ",
+"quick_gloss": "leader"
 }
 ]
 },
@@ -236,15 +236,23 @@
 },
 {
 "surface": "jajāpa",
-"quick_gloss": "suddenly-chanted"
+"quick_gloss": "chanted"
+},
+{
+"surface": "sahasā",
+"quick_gloss": "suddenly"
+},
+{
+"surface": "bījaṃ",
+"quick_gloss": "seed"
 },
 {
 "surface": "trijagatāṃ",
-"quick_gloss": "three-worlds"
+"quick_gloss": "of-three-worlds"
 },
 {
 "surface": "śive",
-"quick_gloss": "shive"
+"quick_gloss": "to-shiva"
 }
 ]
 },
@@ -290,7 +298,7 @@
 },
 {
 "surface": "duṣṭavarṇavivarjitam",
-"quick_gloss": "bad-letter-free"
+"quick_gloss": "free-from-bad-letters"
 }
 ]
 },
@@ -340,19 +348,19 @@
 },
 {
 "surface": "śive",
-"quick_gloss": "shive"
+"quick_gloss": "shiva"
 },
 {
 "surface": "viśvaṃ",
-"quick_gloss": "universe"
+"quick_gloss": "world"
 },
 {
 "surface": "viśveśvari",
-"quick_gloss": "universe-lord"
+"quick_gloss": "world-lady"
 },
 {
 "surface": "carācaram",
-"quick_gloss": "moving-immovable"
+"quick_gloss": "moving-immoving"
 }
 ]
 },
@@ -374,6 +382,10 @@
 {
 "surface": "guptavidyāṃ",
 "quick_gloss": "secret-vidya"
+},
+{
+"surface": "tu",
+"quick_gloss": "tu"
 },
 {
 "surface": "labdhvā",
@@ -401,8 +413,16 @@
 "quick_gloss": "fire"
 },
 {
+"surface": "ca",
+"quick_gloss": "ca"
+},
+{
 "surface": "kāmaṃ",
 "quick_gloss": "desire"
+},
+{
+"surface": "ca",
+"quick_gloss": "ca"
 },
 {
 "surface": "dhanaṃ",
@@ -410,15 +430,15 @@
 },
 {
 "surface": "vṛttaṃ",
-"quick_gloss": "conduct"
+"quick_gloss": "vṛttaṃ"
 },
 {
 "surface": "ca",
-"quick_gloss": "and"
+"quick_gloss": "ca"
 },
 {
 "surface": "sādhakaḥ",
-"quick_gloss": "sadhaka"
+"quick_gloss": "practitioner"
 }
 ]
 },
@@ -443,7 +463,7 @@
 },
 {
 "surface": "devyā",
-"quick_gloss": "goddess"
+"quick_gloss": "of-goddess"
 },
 {
 "surface": "vibhavakāraṇam",
@@ -468,7 +488,7 @@
 },
 {
 "surface": "mahādevi",
-"quick_gloss": "mahadevi"
+"quick_gloss": "great-goddess"
 },
 {
 "surface": "pūjyam",
@@ -489,11 +509,11 @@
 "tokens": [
 {
 "surface": "cakre",
-"quick_gloss": "chakra"
+"quick_gloss": "in-chakra"
 },
 {
-"surface": "saṃpūjayet",
-"quick_gloss": "who-worships"
+"surface": "saṃpūjayedyastu",
+"quick_gloss": "whoever-worships"
 },
 {
 "surface": "nīlābhāṃ",
@@ -518,7 +538,7 @@
 "tokens": [
 {
 "surface": "lasanmukuṭarociṣṇuḥ",
-"quick_gloss": "shining-crown-radiant"
+"quick_gloss": "shining-crown"
 },
 {
 "surface": "sa",
@@ -530,7 +550,7 @@
 },
 {
 "surface": "sādhakottamaḥ",
-"quick_gloss": "sadhaka-best"
+"quick_gloss": "best-practitioner"
 }
 ]
 },
@@ -543,7 +563,7 @@
 "tokens": [
 {
 "surface": "maheśvari",
-"quick_gloss": "maheshvari"
+"quick_gloss": "great-goddess"
 }
 ]
 },
@@ -568,7 +588,7 @@
 },
 {
 "surface": "sādhakasya",
-"quick_gloss": "sadhaka"
+"quick_gloss": "of-practitioner"
 },
 {
 "surface": "aṅgapūjanāt",
@@ -602,7 +622,7 @@
 },
 {
 "surface": "ratnavatī",
-"quick_gloss": "jeweled"
+"quick_gloss": "gem-like"
 },
 {
 "surface": "bhūmiḥ",
@@ -634,12 +654,12 @@
 "quick_gloss": "thus"
 },
 {
-"surface": "dhyāyet",
+"surface": "dhyāyen",
 "quick_gloss": "meditate"
 },
 {
 "surface": "mahādevīṃ",
-"quick_gloss": "mahadevi"
+"quick_gloss": "great-goddess"
 },
 {
 "surface": "durgāṃ",
@@ -660,15 +680,15 @@
 "tokens": [
 {
 "surface": "avaktavyam",
-"quick_gloss": "unspeakable"
+"quick_gloss": "not-to-be-spoken"
 },
 {
 "surface": "adātavyaṃ",
-"quick_gloss": "not-givable"
+"quick_gloss": "not-to-be-given"
 },
 {
 "surface": "gopanīyaṃ",
-"quick_gloss": "to-be-hidden"
+"quick_gloss": "to-be-concealed"
 },
 {
 "surface": "svayonivat",

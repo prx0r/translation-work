@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p140-v3476
-[jumping](jhampā) [goddess-of-jhiṃjhā](jhiṃjheśvarī) [cleansed](jhāntā) [mother-of-letter-jha](jhakārākṣaramātṛkā)
+[jhampā](jhampā) [jhiṃjheśvarī](jhiṃjheśvarī) [jhāntā](jhāntā) [jhakārākṣaramātṛkā](jhakārākṣaramātṛkā)
 
 ## mukta-m0-p140-v3477
-[seed-ornament-of-ñ-group](ñavargabījabhūṣāḍhyā) [mother-of-letter-ña](ñakārākṣaramātṛkā)
+[ñavargabījabhūṣāḍhyā](ñavargabījabhūṣāḍhyā) [kh](kh) [ñavarṇā](ñavarṇā) [ñakārākṣaramātṛkā](ñakārākṣaramātṛkā)
 
 ## mukta-m0-p140-v3478
-[weapon-axe](ṭaṅkāyudhā) [form-of-ṭalī](ṭalīrūpā) [mother-of-letter-ṭa](ṭakārākṣaramātṛkā)
+[ṭaṅkāyudhā](ṭaṅkāyudhā) [ṭalīrūpā](ṭalīrūpā) [kh](kh) [ṭakīrūpā](ṭakīrūpā) [ṭakārākṣaramātṛkā](ṭakārākṣaramātṛkā)
 
 ## mukta-m0-p140-v3479
-[form-of-ṭha](ṭhaḥsvarūpā) [rich-in-ṭha-syllable](ṭhavarṇāḍhyā) [mother-of-letter-ṭha](ṭhakārākṣaramātṛkā)
+[ṭhaḥsvarūpā](ṭhaḥsvarūpā) [ṭhavarṇāḍhyā](ṭhavarṇāḍhyā) [ṭhakārākṣaramātṛkā](ṭhakārākṣaramātṛkā)
 
 ## mukta-m0-p140-v3480
-[ḍhiṇī](ḍhiṇī) [ḍhehā](ḍhehā) [ḍhilla-handed](ḍhillahastā) [mother-of-letter-ḍha](ḍhakārākṣaramātṛkā)
+[ḍhiṇī](ḍhiṇī) [ḍhehā](ḍhehā) [ḍhillahastā](ḍhillahastā) [ḍhakārākṣaramātṛkā](ḍhakārākṣaramātṛkā)
 
 ## mukta-m0-p140-v3481
-[turī](turī) [turyā](turyā) [form-of-tulā](tulārūpā) [tripurā](tripurā) [dear-to-tamas](tāmasapriyā)
+[turī](turī) [turyā](turyā) [tulārūpā](tulārūpā) [tripurā](tripurā) [tāmasapriyā](tāmasapriyā)
 
 ## mukta-m0-p140-v3482
-[tripurā](tripurā) [three-guṇa](triguṇā) [meditated](dhyeyā) [three-eyed-lady](tryambakeśī) [support-of-three-worlds](trilokadhṛt)
+[tripurā](tripurā) [triguṇā](triguṇā) [dhyeyā](dhyeyā) [tryambakeśī](tryambakeśī) [trilokadhṛt](trilokadhṛt)
 
 ## mukta-m0-p140-v3483
-[mother-of-three-worlds](trilokajananī) [savior](trātā) [worshipped-by-tripureśvara](tripureśvarapūjitā)
+[trilokajananī](trilokajananī) [trātā](trātā) [tripureśvarapūjitā](tripureśvarapūjitā)
 
 ## mukta-m0-p140-v3484
-[pleased-by-triangle-worship](trikoṇapūjanatuṣṭā) [resorted-to-triangle-worship](trikoṇapūjanaśritā)
+[trikoṇapūjanatuṣṭā](trikoṇapūjanatuṣṭā) [trikoṇapūjanaśritā](trikoṇapūjanaśritā)
 
 ## mukta-m0-p140-v3485
-[goddess-standing-in-eight-corner](vasukoṇasthitādevī) [speaker-of-eight-corner-meaning](vasukoṇārthavādinī)
+[vasukoṇasthitādevī](vasukoṇasthitādevī) [vasukoṇārthavādinī](vasukoṇārthavādinī)
 
 ## mukta-m0-p140-v3486
-[situated-on-snake-leaf](nāgapatrasthitā) [śārī](śārī) [giver-of-trivṛtta-worship-fruit](trivṛttapūjanārthadā)
+[nāgapatrasthitā](nāgapatrasthitā) [śārī](śārī) [trivṛttapūjanārthadā](trivṛttapūjanārthadā)
 
 ## mukta-m0-p140-v3487
-[tamasic](tāmasī) [like-tomara](tomaraprakhyā) [sounding-tumburu](tumburusvananādinī)
+[tāmasī](tāmasī) [tomaraprakhyā](tomaraprakhyā) [tumburusvananādinī](tumburusvananādinī)
 
 ## mukta-m0-p140-v3488
-[wave-eyed](taralākṣī) [destroyer-of-darkness](tamohartrī) [slayer-of-tāraka-asura](tārakāsuraghātinī)
+[taralākṣī](taralākṣī) [tamohartrī](tamohartrī) [tārakāsuraghātinī](tārakāsuraghātinī)
 
 ## mukta-m0-p140-v3489
-[land](sthalī) [old-form](sthavirarūpā) [stout](sthūlā) [pot](sthālī) [lotus-land](sthalābjinī)
+[sthalī](sthalī) [sthavirarūpā](sthavirarūpā) [ca](ca) [sthūlā](sthūlā) [sthālī](sthālī) [sthalābjinī](sthalābjinī)
 
 ## mukta-m0-p140-v3490
-[messenger](dūtikā) [śiva's-messenger](śivadūtī) [holding-staff-weapon](daṇḍāyudhadharā) [radiance](dyutiḥ)
+[dūtikā](dūtikā) [śivadūtī](śivadūtī) [ca](ca) [daṇḍāyudhadharā](daṇḍāyudhadharā) [dyutiḥ](dyutiḥ)
 
 ## mukta-m0-p140-v3491
-[moving-in-regions](deśānucāriṇī) [drekka](drekkā) [drāviḍa-region](drāviḍeśī) [very-small](davīyasī)
+[deśānucāriṇī](deśānucāriṇī) [drekkā](drekkā) [drāviḍeśī](drāviḍeśī) [davīyasī](davīyasī)
 
 ## mukta-m0-p140-v3492
-[born-of-curd](dadhijā) [rare](durlabhā) [goddess](devī) [deity](devatā) [supreme-syllable](paramākṣarā)
+[dadhijā](dadhijā) [durlabhā](durlabhā) [devī](devī) [devatā](devatā) [paramākṣarā](paramākṣarā)
 
 ## mukta-m0-p140-v3493
-[daughter-of-danu](danuputrī) [destruction](vināśā) [worshipped-by-danu's-sons](danuputrakulārcitā)
+[danuputrī](danuputrī) [vināśā](vināśā) [ca](ca) [danuputrakulārcitā](danuputrakulārcitā)
 
 ## mukta-m0-p140-v3494
-[ten-cow-formed](daśadhenusurūpā) [mother-of-letter-da](dakārākṣaramātṛkā)
+[daśadhenusurūpā](daśadhenusurūpā) [ca](ca) [dakārākṣaramātṛkā](dakārākṣaramātṛkā)
 
 ## mukta-m0-p140-v3495
-[steadiness](dhṛtirdhūrtā) [fortunate-bride](dhanyavadhūrdhakārākṣaramātṛkā)
+[dhṛtirdhūrtā](dhṛtirdhūrtā) [dhanyavadhūrdhakārākṣaramātṛkā](dhanyavadhūrdhakārākṣaramātṛkā)
 
 ## mukta-m0-p140-v3496
-[situated-in-blue-grove](nīpopavanamadhyasthā) [city-lady](nāgareśī) [best-of-men](narottamā)
+[nīpopavanamadhyasthā](nīpopavanamadhyasthā) [nāgareśī](nāgareśī) [narottamā](narottamā)
 
 ## mukta-m0-p140-v3497
-[served-by-kings](nṛpasevyā) [honored-by-kings](nṛpavandyā) [mother-of-nara-nārāyaṇa](naranārāyaṇaprasūḥ)
+[nṛpasevyā](nṛpasevyā) [nṛpavandyā](nṛpavandyā) [naranārāyaṇaprasūḥ](naranārāyaṇaprasūḥ)
 
 ## mukta-m0-p140-v3498
-[lady-of-lotus](padmeśvarī) [lotus-faced](padmamukhī) [leaf-vehicle](patrayānā) [beyond-and-near](parāparā)
+[padmeśvarī](padmeśvarī) [padmamukhī](padmamukhī) [patrayānā](patrayānā) [parāparā](parāparā)
 
 ## mukta-m0-p140-v3499
-[city](pūḥ) [enemy's-bride](purārivadhūḥ) [pampā](pampā) [wife](patnī) [leaf-vehicle-rider](patrīśavāhanā)
+[pūḥ](pūḥ) [purārivadhūḥ](purārivadhūḥ) [pampā](pampā) [patnī](patnī) [patrīśavāhanā](patrīśavāhanā)
 
 ## mukta-m0-p140-v3500
-[seat](pīṭhā) [seated-on-seat](pīṭhasthitāpīṭhā) [yellow-ornamented](pītālaṅkārabhūṣaṇā)
+[pīṭhā](pīṭhā) [pīṭhasthitāpīṭhā](pīṭhasthitāpīṭhā) [pītālaṅkārabhūṣaṇā](pītālaṅkārabhūṣaṇā)
