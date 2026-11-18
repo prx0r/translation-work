@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p122-v3026
-[bhikṣu-aya-namaḥ](bhikṣavenamaḥ) [bhikṣu-rūpa-aya-namaḥ](bhikṣurūpāyanamaḥ) [vipaṇa-aya-namaḥ](vipaṇāyanamaḥ)
+[salutation](bhikṣavenamaḥ) [mendicant-form-salutation](bhikṣurūpāyanamaḥ) [market-salutation](vipaṇāyanamaḥ)
 
 ## mukta-m0-p122-v3027
-[vajra-hasta-aya-namaḥ](vajrahastāyanamaḥ) [viṣkambhin-namaḥ](viṣkambhinenamaḥ)
+[thunderbolt-hand-salutation](vajrahastāyanamaḥ) [obstacle-remover-salutation](viṣkambhinenamaḥ)
 
 ## mukta-m0-p122-v3028
-[camū-stambhana-aya-namaḥ](camūstambhanāyanamaḥ) [vṛtta-avṛtta-kara-aya-namaḥ](vṛttāvṛttakarāyanamaḥ)
+[army-stopping-salutation](camūstambhanāyanamaḥ) [round-and-nonround-maker-salutation](vṛttāvṛttakarāyanamaḥ)
 
 ## mukta-m0-p122-v3029
-[tāla-aya-namaḥ](tālāyanamaḥ) [madhava-namaḥ](madhavenamaḥ) [madhu-kalocana-aya-namaḥ](madhukalocanāyanamaḥ)
+[palm-salutation](tālāyanamaḥ) [madhu-salutation](madhavenamaḥ) [madhu-eyed-salutation](madhukalocanāyanamaḥ)
 
 ## mukta-m0-p122-v3030
-[vācaspati-aya-namaḥ](vācaspatyāyanamaḥ) [vāja-sana-aya-namaḥ](vājasanāyanamaḥ)
+[speech-lord-salutation](vācaspatyāyanamaḥ) [vāja-sanctifier-salutation](vājasanāyanamaḥ)
 
 ## mukta-m0-p122-v3031
-[āśrama-pūjita-aya-namaḥ](āśramapūjitāyanamaḥ) [brahmacāriṇe-namaḥ](brahmacāriṇenamaḥ)
+[hermitage-honored-salutation](āśramapūjitāyanamaḥ) [celibate-salutation](brahmacāriṇenamaḥ)
 
 ## mukta-m0-p122-v3032
-[loka-cāriṇe-namaḥ](lokacāriṇenamaḥ) [sarva-cāriṇe-namaḥ](sarvacāriṇenamaḥ) [vicāra-vid-namaḥ](vicāravidenamaḥ)
+[world-wanderer-salutation](lokacāriṇenamaḥ) [all-wanderer-salutation](sarvacāriṇenamaḥ) [deliberation-knower-salutation](vicāravidenamaḥ)
 
 ## mukta-m0-p122-v3033
-[īśāna-aya-namaḥ](īśānāyanamaḥ) [īśvara-aya-namaḥ](īśvarāyanamaḥ) [kāla-aya-namaḥ](kālāyanamaḥ)
+[īśāna-salutation](īśānāyanamaḥ) [lord-salutation](īśvarāyanamaḥ) [time-salutation](kālāyanamaḥ)
 
 ## mukta-m0-p122-v3034
-[niśā-cāriṇe-namaḥ](niśācāriṇenamaḥ) [pināka-dhṛṣe-namaḥ](pinākadhṛṣenamaḥ) [nimitta-sthāya-namaḥ](nimittasthāyanamaḥ)
+[night-wanderer-salutation](niśācāriṇenamaḥ) [pināka-holder-salutation](pinākadhṛṣenamaḥ) [omen-abiding-salutation](nimittasthāyanamaḥ)
 
 ## mukta-m0-p122-v3035
-[nimitta-aya-namaḥ](nimittāyanamaḥ) [nandaye-namaḥ](nandayenamaḥ) [nandikara-aya-namaḥ](nandikarāyanamaḥ)
+[omen-salutation](nimittāyanamaḥ) [delighter-salutation](nandayenamaḥ) [nandi-maker-salutation](nandikarāyanamaḥ)
 
 ## mukta-m0-p122-v3036
-[haraye-namaḥ](harayenamaḥ) [nandīśvara-aya-namaḥ](nandīśvarāyanamaḥ) [nandine-namaḥ](nandinenamaḥ)
+[hara-salutation](harayenamaḥ) [nandīśvara-salutation](nandīśvarāyanamaḥ) [nandi-salutation](nandinenamaḥ)
 
 ## mukta-m0-p122-v3037
-[nihantre-namaḥ](nihantrenamaḥ) [kāla-aya-namaḥ](kālāyanamaḥ) [brahmaṇe-namaḥ](brahmaṇenamaḥ)
+[slayer-salutation](nihantrenamaḥ) [time-salutation](kālāyanamaḥ) [brahma-salutation](brahmaṇenamaḥ)
 
 ## mukta-m0-p122-v3038
-[pitāmaha-aya-namaḥ](pitāmahāyanamaḥ) [catur-mukha-aya-namaḥ](caturmmukhāyanamaḥ)
+[grandfather-salutation](pitāmahāyanamaḥ) [four-faced-salutation](caturmmukhāyanamaḥ)
 
 ## mukta-m0-p122-v3039
-[mahā-liṅga-aya-namaḥ](mahāliṅgāyanamaḥ) [cāru-liṅga-aya-namaḥ](cāruliṅgāyanamaḥ)
+[great-liṅga-salutation](mahāliṅgāyanamaḥ) [beautiful-liṅga-salutation](cāruliṅgāyanamaḥ)
 
 ## mukta-m0-p122-v3040
-[liṅga-adhyakṣa-aya-namaḥ](liṅgādhyakṣāyanamaḥ) [sura-adhyakṣa-aya-namaḥ](surādhyakṣāyanamaḥ)
+[liṅga-superintendent-salutation](liṅgādhyakṣāyanamaḥ) [gods-superintendent-salutation](surādhyakṣāyanamaḥ)
 
 ## mukta-m0-p122-v3041
-[yoga-adhyakṣa-aya-namaḥ](yogādhyakṣāyanamaḥ) [yuga-avaha-aya-namaḥ](yugāvahāyanamaḥ)
+[yoga-superintendent-salutation](yogādhyakṣāyanamaḥ) [yuga-bearer-salutation](yugāvahāyanamaḥ)
 
 ## mukta-m0-p122-v3042
-[bīja-adhyakṣa-aya-namaḥ](bījādhyakṣāyanamaḥ) [bīja-kartre-namaḥ](bījakarttrenamaḥ)
+[seed-superintendent-salutation](bījādhyakṣāyanamaḥ) [seed-maker-salutation](bījakarttrenamaḥ)
 
 ## mukta-m0-p122-v3043
-[adhyātma-anugata-aya-namaḥ](adhyātmānugatāyanamaḥ) [bala-aya-namaḥ](balāyanamaḥ) [itihāsa-aya-namaḥ](itihāsāyanamaḥ)
+[self-following-salutation](adhyātmānugatāyanamaḥ) [strength-salutation](balāyanamaḥ) [itihāsa-salutation](itihāsāyanamaḥ)
 
 ## mukta-m0-p122-v3044
-[vaśya-aya-namaḥ](vaśyāyanamaḥ) [vaśa-kara-aya-namaḥ](vaśakarāyanamaḥ) [kalaye-namaḥ](kalayenamaḥ)
+[subduing-salutation](vaśyāyanamaḥ) [subduer-salutation](vaśakarāyanamaḥ) [kalā-salutation](kalayenamaḥ)
 
 ## mukta-m0-p122-v3045
-[loka-kartre-namaḥ](lokakarttrenamaḥ) [paśupataye-namaḥ](paśupatayenamaḥ) [mahā-kartre-namaḥ](mahākarttrenamaḥ)
+[world-maker-salutation](lokakarttrenamaḥ) [paśupati-salutation](paśupatayenamaḥ) [great-maker-salutation](mahākarttrenamaḥ)
 
 ## mukta-m0-p122-v3046
-[anauṣadha-aya-namaḥ](anauṣadhāyanamaḥ) [akṣara-aya-namaḥ](akṣarāyanamaḥ) [parama-brahmaṇe-namaḥ](paramabrahmaṇenamaḥ)
+[without-medicine-salutation](anauṣadhāyanamaḥ) [imperishable-salutation](akṣarāyanamaḥ) [supreme-brahman-salutation](paramabrahmaṇenamaḥ)
 
 ## mukta-m0-p122-v3047
-[balavate-namaḥ](balavatenamaḥ) [śakra-aya-namaḥ](śakrāyanamaḥ) [nītaye-namaḥ](nītayenamaḥ)
+[strong-salutation](balavatenamaḥ) [śakra-salutation](śakrāyanamaḥ) [policy-salutation](nītayenamaḥ)
 
 ## mukta-m0-p122-v3048
-[anītaye-namaḥ](anītayenamaḥ) [śuddha-ātmane-namaḥ](śuddhātmanenamaḥ) [śuddha-aya-namaḥ](śuddhāyanamaḥ)
+[non-policy-salutation](anītayenamaḥ) [pure-soul-salutation](śuddhātmanenamaḥ) [pure-salutation](śuddhāyanamaḥ)
 
 ## mukta-m0-p122-v3049
-[mānya-aya-namaḥ](mānyāyanamaḥ) [gata-agata-aya-namaḥ](gatāgatāyanamaḥ) [bahu-prasāda-aya-namaḥ](bahuprasādāyanamaḥ)
+[honorable-salutation](mānyāyanamaḥ) [going-and-coming-salutation](gatāgatāyanamaḥ) [much-grace-salutation](bahuprasādāyanamaḥ)
 
 ## mukta-m0-p122-v3050
-[veda-kāra-aya-namaḥ](vedakārāyanamaḥ) [mantra-kāra-aya-namaḥ](mantrakārāyanamaḥ) [viduṣe-namaḥ](viduṣenamaḥ)
+[veda-maker-salutation](vedakārāyanamaḥ) [mantra-maker-salutation](mantrakārāyanamaḥ) [learned-salutation](viduṣenamaḥ)
