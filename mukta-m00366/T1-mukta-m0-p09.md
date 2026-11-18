@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p09-v201
-[pada](khaḍgīśo) [pada](jvālinī) [pada](vakṣaḥ) [pada]([vaṅkaḥ + raṅkaḥ kalasaṃ ravi]) [pada](kalasaṃ) [pada](dhvanivācakaḥ)
+[sword-lord](khaḍgīśo) [flame](jvālinī) [chest](vakṣaḥ) [bent](vaṅkaḥ) [poor](raṅkaḥ) [pot](kalasaṃ) [sun](ravi) [pot](kalasaṃ) [sound-denoting](dhvanivācakaḥ)
 
 ## mukta-m0-p09-v202
-[pada](12) [pada](tridhātuḥ) [pada](śaṅkaraḥ) [pada](śreṣṭho) [pada](viśeṣo) [pada](yamasādanam)
+[threefold](tridhātuḥ) [shankara](śaṅkaraḥ) [best](śreṣṭho) [distinction](viśeṣo) [yama-seat](yamasādanam)
 
 ## mukta-m0-p09-v203
-[pada](śa)
+[sha](śa)
 
 ## mukta-m0-p09-v204
-[pada](saukhyanāmā) [pada](kumāro'sthi) [pada](śrīkaṇṭho) [pada](vṛṣaketanaḥ)
+[happy-named](saukhyanāmā) [kumara](kumāro'sthi) [shrikantha](śrīkaṇṭho) [bull-bannered](vṛṣaketanaḥ)
 
 ## mukta-m0-p09-v205
-[pada](16) [pada](mṛtyudevo) [pada]([mṛtyurdevo]) [pada](mahālakṣmīrmahendraḥ) [pada](kulakaulinī)
+[death-god](mṛtyudevo) [great-lakshmi](mahālakṣmīrmahendraḥ) [clan-kaulini](kulakaulinī)
 
 ## mukta-m0-p09-v206
-[pada](vāmoruḥ) [pada](puṇḍarīkātmā) [pada](kāntiḥ) [pada](kalyāṇavācakaḥ)
+[left-thigh](vāmoruḥ) [lotus-self](puṇḍarīkātmā) [radiance](kāntiḥ) [auspicious-denoting](kalyāṇavācakaḥ)
 
 ## mukta-m0-p09-v207
-[pada](parameṣṭhī) [pada](vāmabāhuḥ) [pada](śreṣṭho) [pada](garbhavimocanaḥ)
+[supreme](parameṣṭhī) [left-arm](vāmabāhuḥ) [best](śreṣṭho) [womb-release](garbhavimocanaḥ)
 
 ## mukta-m0-p09-v208
-[pada](4) [pada](suśrīruṣmā) [pada](vṛṣo) [pada](lajjā) [pada](marudbhakṣyaḥ) [pada](priyaḥ) [pada](śivaḥ)
+[good-shri](suśrīruṣmā) [bull](vṛṣo) [shame](lajjā) [wind-food](marudbhakṣyaḥ) [dear](priyaḥ) [shiva](śivaḥ)
 
 ## mukta-m0-p09-v209
-[pada](kalakaṇṭho) [pada](madhyabhinnā) [pada](yuddhātmā) [pada](khalpūḥ) [pada]([malapuḥ]) [pada](śiraḥ)
+[black-throat](kalakaṇṭho) [middle-split](madhyabhinnā) [war-self](yuddhātmā) [impure](khalpūḥ) [head](śiraḥ)
 
 ## mukta-m0-p09-v210
-[pada](8) [pada](jagadbījaṃ) [pada](śaktināmā) [pada](so'haṃ) [pada]([moho]) [pada](vega(śa)vatī) [pada](bhṛguḥ)
+[world-seed](jagadbījaṃ) [shakti-named](śaktināmā) [i-am](so'haṃ) [speed](vega(śa)vatī) [bhrgu](bhṛguḥ)
 
 ## mukta-m0-p09-v211
-[pada](dakṣapādo'mṛtaṃ) [pada](brāhmī) [pada](paramātmā) [pada](paro'kṣaraḥ)
+[daksha-foot](dakṣapādo'mṛtaṃ) [brahmi](brāhmī) [supreme-self](paramātmā) [beyond-syllable](paro'kṣaraḥ)
 
 ## mukta-m0-p09-v212
-[pada](12) [pada](prāṇādyastripurādevī) [pada]([śca purā devī]) [pada](lakṣmīḥ) [pada](somo) [pada](hiraṇyabhūḥ) [pada]([hiraṇyapuḥ])
+[life-breath](prāṇādyastripurādevī) [lakshmi](lakṣmīḥ) [soma](somo) [golden-born](hiraṇyabhūḥ)
 
 ## mukta-m0-p09-v213
-[pada](durgottāriṇī) [pada](sammohā) [pada](jīvo) [pada](mūrtimanoharaḥ) [pada]([manojavaḥ])
+[durga-deliverer](durgottāriṇī) [delusion](sammohā) [jiva](jīvo) [mind-charming](mūrtimanoharaḥ)
 
 ## mukta-m0-p09-v214
-[pada](nakulīśo) [pada](jagatprāṇaḥ) [pada](prāṇeśaḥ) [pada](kapilā'malaḥ) [pada]([malaḥ + mataḥ])
+[nakulisha](nakulīśo) [world-life](jagatprāṇaḥ) [life-lord](prāṇeśaḥ) [kapila-pure](kapilā'malaḥ)
 
 ## mukta-m0-p09-v215
-[pada](mṛgo'bhayā'ruṇā) [pada](sthāṇuḥ) [pada](kroṣṭuḥ) [pada](kūpavirāvaṇaḥ) [pada]([kraṭakūpavirāvaṇaḥ + kūṭakoparivāraṇaḥ])
+[deer](mṛgo'bhayā'ruṇā) [pillar](sthāṇuḥ) [jackal](kroṣṭuḥ) [well-crying](kūpavirāvaṇaḥ)
 
 ## mukta-m0-p09-v216
-[pada](1) [pada](sva(sa)kopavāraṇaḥ) [pada](śūlī) [pada](caitanyaṃ) [pada](pādapūraṇaḥ)
+[self-restraint](sva(sa)kopavāraṇaḥ) [trident-bearer](śūlī) [consciousness](caitanyaṃ) [foot-filling](pādapūraṇaḥ)
 
 ## mukta-m0-p09-v217
-[pada](bindurdurgā) [pada](priyā) [pada](devī) [pada](meghaḥ) [pada](śyāmeśvaraḥ) [pada](pumān)
+[bindu](bindurdurgā) [dear-goddess](priyā devī) [cloud](meghaḥ) [dark-lord](śyāmeśvaraḥ) [person](pumān)
 
 ## mukta-m0-p09-v218
-[pada](4) [pada](dakṣapādaḥ) [pada](sadā) [pada](śambhuḥ) [pada](sākhoṭaḥ) [pada](somamaṇḍalam)
+[daksha-foot](dakṣapādaḥ) [always](sadā) [shambhu](śambhuḥ) [sakhotaka](sākhoṭaḥ) [soma-mandala](somamaṇḍalam)
 
 ## mukta-m0-p09-v219
-[pada](vyāpinī) [pada](śivadā) [pada](keturjagat) [pada](sīrataraṃ) [pada](haṭhaḥ)
+[pervading](vyāpinī) [shiva-giving](śivadā) [ketu](keturjagat) [plow](sīrataraṃ) [force](haṭhaḥ)
 
 ## mukta-m0-p09-v220
-[pada](8) [pada](jaṭharo) [pada](nakuliḥ) [pada](pītaḥ) [pada]([pītā]) [pada](śiveśo'naṅgamālinī)
+[belly](jaṭharo) [nakuli](nakuliḥ) [yellow](pītaḥ) [shivesha](śiveśo'naṅgamālinī)
 
 ## mukta-m0-p09-v221
-[pada](kṣa)
+[ksha](kṣa)
 
 ## mukta-m0-p09-v222
-[pada](12) [pada](nṛsiṃho) [pada](vidyutā) [pada](māyā) [pada](mahātejā) [pada](yugāntakaḥ)
+[narasimha](nṛsiṃho) [lightning](vidyutā) [maya](māyā) [great-tejas](mahātejā) [yuga-end](yugāntakaḥ)
 
 ## mukta-m0-p09-v223
-[pada](sarvāṅgaṃ) [pada]([sarvāṃgaḥ]) [pada](sāgaraḥ) [pada](kāmaḥ) [pada](saṃyogāntastripūrakaḥ)
+[all-limb](sarvāṅgaṃ) [ocean](sāgaraḥ) [kama](kāmaḥ) [union-end](saṃyogāntastripūrakaḥ)
 
 ## mukta-m0-p09-v224
-[pada](mukhaṃ) [pada](kavyaṃ) [pada](mahānantā) [pada]([kavyavahā'nantā]) [pada](kālajihvā) [pada](gaṇeśvaraḥ)
+[face](mukhaṃ) [poem](kavyaṃ) [great-endless](mahānantā) [time-tongue](kālajihvā) [ganesha](gaṇeśvaraḥ)
 
 ## mukta-m0-p09-v225
-[pada](chāyāputraśca) [pada](saṃghāto) [pada](malayaśrīrlalāṭakaḥ)
+[shadow-son](chāyāputraśca) [collection](saṃghāto) [malaya-shri](malayaśrīrlalāṭakaḥ)

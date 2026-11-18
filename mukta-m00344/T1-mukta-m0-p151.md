@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p151-v3751
-like-reflection-in-mirror that-manner hear in-order
+[like-a-mirror](pratibimbavad) [in-a-mirror](ādarśe) [that-manner](tatprakāraṃ) [hear](śṛṇu) [in-order](kramāt)
 
 ## mukta-m0-p151-v3752
-by-freedom's-power self-form twofold manifested
+[by-freedom](svātantryavaśataḥ) [own-form](svātmarūpaṃ) [in-two](dvedhā) [manifested](avabhāsayat)
 
 ## mukta-m0-p151-v3753
-self-form consciousness-vibration-dense
+[own-form](svātmarūpaṃ) [consciousness-spark-dense](citsphūrtighanam)
 
 ## mukta-m0-p151-v3754
-then second-part from-that-I-sense emerged
+[then](tadā) [second-part](dvitīyabhāgaḥ) [that-i-sense](tadahaṃbhāva) [gone-forth](vinirgataḥ)
 
 ## mukta-m0-p151-v3755
-thus meaning
+[thus](iti) [meaning](bhāvaḥ)
 
 ## mukta-m0-p151-v3756
-incomplete-I-sense-endowed this called sadashiva
+[incomplete-i-sense-endowed](apūrṇāhaṃbhāvayutaḥ) [this](eṣaḥ) [called](proktaḥ) [sadāśiva](sadāśivaḥ)
 
 ## mukta-m0-p151-v3757
-ishvara called
+[īśvara](īśvaraṃ) [they-call](prāhuḥ)
 
 ## mukta-m0-p151-v3758
-lordship thus his unmanifest known
+[lordship](svāmitvam) [thus](evam) [of-him](asya) [unmanifest](avyaktaḥ) [iti](iti) [to-be-known](jñeyam)
 
 ## mukta-m0-p151-v3759
-unmanifest self's body this-I-abide
+[unmanifest](avyaktam) [of-self](ātmanaḥ) [body](deham) [this](etat) [eva](eva) [i-abide](ahamāsthitaḥ)
 
 ## mukta-m0-p151-v3760
-thus connection
+[thus](iti) [connection](sambandhaḥ)
 
 ## mukta-m0-p151-v3761
-unmanifest by-identification pervaded ishvara indeed
+[unmanifest](avyaktam) [by-i-conceit](abhimānena) [pervaded](āviṣṭaḥ) [īśvara](īśvaraḥ) [indeed](eva) [but](tu)
 
 ## mukta-m0-p151-v3762
-unmanifest-I thus identification pervaded ishvara indeed threefold became connection
+[unmanifest-i](avyaktamaham) [iti](iti) [by-i-conceit](abhimānena) [pervaded](āviṣṭaḥ) [īśvara](īśvaraḥ) [indeed](eva) [threefold](tridhā) [became](abhavat) [iti](iti) [connection](sambandhaḥ)
 
 ## mukta-m0-p151-v3763
-manifestation-appearing
+[manifesting-origination](utpattyavabhāsakāḥ)
 
 ## mukta-m0-p151-v3764
-many haris also were destruction-devoted
+[many](bahavaḥ) [haris](harayaḥ) [also-were](apyāsan) [that](tat) [dissolution-devoted](saṃhāraparāyaṇāḥ)
 
 ## mukta-m0-p151-v3765
-destruction-devoted rudras were connection
+[dissolution-devoted](saṃhāraparāyaṇāḥ) [rudras](rudrāḥ) [were](āsan) [iti](iti) [connection](sambandhaḥ)
 
 ## mukta-m0-p151-v3766
-such world-principle mirror-reflection-like
+[thus-kind](evaṃvidhaṃ) [world-principle](jagattattvaṃ) [mirror-reflection-like](darpaṇapratibimbavat)
 
 ## mukta-m0-p151-v3767
-supreme-consciousness not-different indeed says mirror
+[supreme-consciousness](paracitiḥ) [not-different](avyatiriktam) [eva](eva) [iti](iti) [says](āha) [mirror](darpaṇa) [iti](iti)
 
 ## mukta-m0-p151-v3768
-supreme consciousness fully-complete-I-sense-form indeed always
+[supreme](parā) [consciousness](citiḥ) [full-i-sense-form](prapūrṇāhaṃbhāvarūpā) [eva](eva) [always](sarvadā)
 
 ## mukta-m0-p151-v3769
-supreme from-own-nature non-departure says supreme consciousness
+[supreme](parā) [from-own-nature](svarūpāt) [non-deviation](apracyutim) [says](āha) [supreme](parā) [consciousness](citiḥ) [iti](iti)
 
 ## mukta-m0-p151-v3770
-as you rama in-all bodies I-sense-expanded
+[as](yathā) [you](tvaṃ) [rāma](rāma) [in-all](sarvasmin) [body](dehe) [i-sense-expanded](ahaṃbhāvabṛṃhitaḥ)
 
 ## mukta-m0-p151-v3771
-thus supreme consciousness full-I-ness-refuge
+[thus](evam) [eva](eva) [supreme](parā) [consciousness](saṃvit) [full-i-ness-refuge](pūrṇāhantāsamāśrayā)
 
 ## mukta-m0-p151-v3772
-in-reality that-supreme consciousness indeed thus shining
+[in-reality](vastutaḥ) [she](sā) [eva](eva) [supreme](paramā) [consciousness](citiḥ) [evaṃ](evaṃ) [hi](hi) [shining](bhāsinī)
 
 ## mukta-m0-p151-v3773
-full-I-sense limited-I-sense sadashiva-form not-manifested meaning
+[full-i-ness](pūrṇāhantā) [limited-i-sense](paricchinnāhantā) [sadāśiva-etc-form](sadāśivādirūpe) [not-manifesting](anavabhāsinī) [meaning](tyarthaḥ)
 
 ## mukta-m0-p151-v3774
-to-grasp unable even by-undamaged identity attaining
+[to-grasp](grahītum) [unable](asamarthaḥ) [api](api) [by-non-injury](akṣatā) [identity](ātmyam) [having-attained](etya) [tu](tu)
 
 ## mukta-m0-p151-v3775
-grasps thus connection
+[you-grasp](gṛhṇāsi) [iti](iti) [connection](sambandhaḥ)
