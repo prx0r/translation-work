@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p45-v1101
-[piṅgākṣī](piṅgākṣī) [cākṣayākṣapā](cākṣayākṣapā) [ilā](ilā) [līlā](līlā) [layā](layā) [tathā](tathā)
+[pada](piṅgākṣī) [pada](cākṣayākṣapā) [pada]([gh:) [pada](kṣeya]) [pada](ilā) [pada](līlā) [pada](layā) [pada](tathā)
 
 ## mukta-m0-p45-v1102
-[hutāśā](hutāśā) [ca](ca) [viśālākṣī](viśālākṣī) [huṅkārā](huṅkārā) [vaḍavāmukhī](vaḍavāmukhī)
+[pada](hutāśā) [pada](ca) [pada](viśālākṣī) [pada](huṅkārā) [pada](vaḍavāmukhī)
 
 ## mukta-m0-p45-v1103
-[sarbajñā](sarbajñā) [taralā](taralā) [tārā](tārā) [ṛgvedā](ṛgvedā) [tu](tu) [hayānanā](hayānanā)
+[pada](sarbajñā) [pada](taralā) [pada](tārā) [pada](ṛgvedā) [pada](tu) [pada](hayānanā)
 
 ## mukta-m0-p45-v1104
-[raktākṣī](raktākṣī) [suprasiddhā](suprasiddhā) [tu](tu) [vidmujjihvā](vidmujjihvā) [karaṅkiṇī](karaṅkiṇī)
+[pada](raktākṣī) [pada](suprasiddhā) [pada](tu) [pada](vidmujjihvā) [pada](karaṅkiṇī)
 
 ## mukta-m0-p45-v1105
-[candrā](candrā) [candravalī](candravalī) [caiva](caiva) [prapañcā](prapañcā) [pralayāntikā](pralayāntikā)
+[pada](p.) [pada](133)) [pada](candrā) [pada](candravalī) [pada](caiva) [pada](prapañcā) [pada](pralayāntikā)
 
 ## mukta-m0-p45-v1106
-[yamanī](yamanī) [tapanī](tapanī) [caiva](caiva) [vāmanī](vāmanī) [vikṛtānanā](vikṛtānanā)
+[pada](yamanī) [pada](tapanī) [pada](caiva) [pada](vāmanī) [pada](vikṛtānanā)
 
 ## mukta-m0-p45-v1107
-[yamajihvā](yamajihvā) [jayantī](jayantī) [ca](ca) [durjayā](durjayā) [ca](ca) [yamāntikā](yamāntikā)
+[pada](yamajihvā) [pada](jayantī) [pada](ca) [pada](durjayā) [pada](ca) [pada](yamāntikā)
 
 ## mukta-m0-p45-v1108
-[catuḥ](catuḥ) [ṣaṣṭiriyaṃ](ṣaṣṭiriyaṃ) [devyā](devyā) [mūrtibhedā](mūrtibhedā) [nigadyate](nigadyate)
+[pada](catuḥ) [pada](ṣaṣṭiriyaṃ) [pada](devyā) [pada](mūrtibhedā) [pada](nigadyate)
 
 ## mukta-m0-p45-v1109
-[hemābhā](hemābhā) [bhūṣaṇāḍhyā](bhūṣaṇāḍhyā) [syādakṣobhyā](syādakṣobhyā) [karisaṃsthitā](karisaṃsthitā)
+[pada](hemābhā) [pada](bhūṣaṇāḍhyā) [pada](syādakṣobhyā) [pada](karisaṃsthitā)
 
 ## mukta-m0-p45-v1110
-[dhanuḥ](dhanuḥ) [kapābhṛtsaumye](kapābhṛtsaumye) [ṝkṣasthā](ṝkṣasthā) [tarjanīyutā](tarjanīyutā)
+[pada](dhanuḥ) [pada](kapābhṛtsaumye) [pada](ṝkṣasthā) [pada](tarjanīyutā)
 
 ## mukta-m0-p45-v1111
-[pretasthā](pretasthā) [rāghasī](rāghasī) [gaurī](gaurī) [kārdhakatarikānvitā](kārdhakatarikānvitā)
+[pada](pretasthā) [pada](rāghasī) [pada](gaurī) [pada](kārdhakatarikānvitā)
 
 ## mukta-m0-p45-v1112
-[kapālaṃ](kapālaṃ) [ca](ca) [phalaṃ](phalaṃ) [saumye](saumye) [dhatte](dhatte) [kubjanṛsaṃsthitā](kubjanṛsaṃsthitā)
+[pada](kapālaṃ) [pada](ca) [pada](phalaṃ) [pada](saumye) [pada](dhatte) [pada](kubjanṛsaṃsthitā)
 
 ## mukta-m0-p45-v1113
-[vāme](vāme) [kapālapicchī](kapālapicchī) [bhṛtsarvālaṅkāramaṇḍitā](bhṛtsarvālaṅkāramaṇḍitā)
+[pada](vāme) [pada](kapālapicchī) [pada]([k,) [pada](kh:) [pada](piṇḍī]) [pada](bhṛtsarvālaṅkāramaṇḍitā)
 
 ## mukta-m0-p45-v1114
-[kauśeyapāśabhṛdyāmye](kauśeyapāśabhṛdyāmye) [vāme](vāme) [cāṅkuśakheṭinī](cāṅkuśakheṭinī)
+[pada](kauśeyapāśabhṛdyāmye) [pada](vāme) [pada](cāṅkuśakheṭinī)
 
 ## mukta-m0-p45-v1115
-[kuṭhārāśanibhṛdyāmye](kuṭhārāśanibhṛdyāmye) [saumye](saumye) [pāśāṅkuśānvitā](pāśāṅkuśānvitā)
+[pada](kuṭhārāśanibhṛdyāmye) [pada](saumye) [pada](pāśāṅkuśānvitā)
 
 ## mukta-m0-p45-v1116
-[yāmye](yāmye) [ḍamaruśūleṣumastahastākṣapā](ḍamaruśūleṣumastahastākṣapā) [matā](matā)
+[pada](yāmye) [pada](ḍamaruśūleṣumastahastākṣapā) [pada](matā)
 
 ## mukta-m0-p45-v1117
-[raktā](raktā) [bahirsthitā](bahirsthitā) [tvīlā](tvīlā) [krīḍantī](krīḍantī) [dahanaiḥ](dahanaiḥ) [saha](saha)
+[pada](raktā) [pada](bahirsthitā) [pada](tvīlā) [pada](krīḍantī) [pada](dahanaiḥ) [pada](saha)
 
 ## mukta-m0-p45-v1118
-[bibhrāṇā](bibhrāṇā) [paṭṭiśaṃ](paṭṭiśaṃ) [pāśaṃ](pāśaṃ) [vāme](vāme) [mastārdhamambujam](mastārdhamambujam)
+[pada](bibhrāṇā) [pada](paṭṭiśaṃ) [pada](pāśaṃ) [pada](vāme) [pada](mastārdhamambujam)
 
 ## mukta-m0-p45-v1119
-[kartarīkārdhabhṛdvāme](kartarīkārdhabhṛdvāme) [tarjanyākṛṣṭasṛkkikā](tarjanyākṛṣṭasṛkkikā)
+[pada](kartarīkārdhabhṛdvāme) [pada](tarjanyākṛṣṭasṛkkikā)
 
 ## mukta-m0-p45-v1120
-[śūlaṃ](śūlaṃ) [ruruyutaṃ](ruruyutaṃ) [dvābhyāṃ](dvābhyāṃ) [dhatte](dhatte) [lolā](lolā) [sūsārase](sūsārase)
+[pada](śūlaṃ) [pada](ruruyutaṃ) [pada](dvābhyāṃ) [pada](dhatte) [pada](lolā) [pada](sūsārase) [pada]((?))
 
 ## mukta-m0-p45-v1121
-[laṅkeśorusthitā](laṅkeśorusthitā) [laṅkā](laṅkā) [carvantīṃ](carvantīṃ) [piśitaṃ](piśitaṃ) [ghanam](ghanam)
+[pada](laṅkeśorusthitā) [pada](laṅkā) [pada](carvantīṃ) [pada]([mū:) [pada](varṣantī]) [pada](piśitaṃ) [pada](ghanam)
 
 ## mukta-m0-p45-v1122
-[śoṇā](śoṇā) [laṅkeśvarī](laṅkeśvarī) [kuṇḍe](kuṇḍe) [ūrdhvabālāṃ](ūrdhvabālāṃ) [ca](ca) [bibhratī](bibhratī)
+[pada](śoṇā) [pada](laṅkeśvarī) [pada](kuṇḍe) [pada](ūrdhvabālāṃ) [pada](ca) [pada]([mū:) [pada](ūrvālācaraṇe]) [pada](bibhratī)
 
 ## mukta-m0-p45-v1123
-[bibhrāṇā](bibhrāṇā) [kolagā](kolagā) [raktā](raktā) [lālāsṛglālāsā](lālāsṛglālāsā) [matā](matā)
+[pada](bibhrāṇā) [pada](kolagā) [pada](raktā) [pada](lālāsṛglālāsā) [pada](matā)
 
 ## mukta-m0-p45-v1124
-[kartarīkumbhabhṛdyāme](kartarīkumbhabhṛdyāme) [saumye](saumye) [pāśakapālinī](pāśakapālinī)
+[pada](kartarīkumbhabhṛdyāme) [pada](saumye) [pada](pāśakapālinī) [pada]([kh:) [pada](kadhāriṇī])
 
 ## mukta-m0-p45-v1125
-[vāme](vāme) [cābhayahastā](cābhayahastā) [syādviṣṭarājyaghaṭānvitā](syādviṣṭarājyaghaṭānvitā)
+[pada](vāme) [pada](cābhayahastā) [pada](syādviṣṭarājyaghaṭānvitā)
