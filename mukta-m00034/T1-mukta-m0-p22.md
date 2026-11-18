@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p22-v526
-[from-excess](udrekāt) [attracting](karṣato) [seen](dṛṣṭaḥ) [of-time-devourer](kālagrāsasya) [origin](sambhavaḥ)
+[from-excess](udrekāt) [drawing](karṣato) [seen](dṛṣṭaḥ) [of-time](kāla)+[devouring](grāsasya) [origin](sambhavaḥ)
 
 ## mukta-m0-p22-v527
-[steadiness-attains](sthairyameti) [wonder](camatkāro) [without](vinā) [object-attachment](viṣayasaṅgatim)
+[steadiness-attains](sthairyameti) [wonder](camatkāro) [without](vinā) [object](viṣaya)+[attachment](saṅgatim)
 
 ## mukta-m0-p22-v528
-[measure-ground-taking-refuge](pramāṇabhūmimāśritya) [four](catasraḥ) [time-powers](kālikāḥ) [established](sthitāḥ)
+[basis](pramāṇa)+[ground](bhūmim) [resorting](āśritya) [four](catasraḥ) [kālikās](kālikāḥ) [situated](sthitāḥ)
 
 ## mukta-m0-p22-v529
-[stability-creation-etc-difference](sthitisṛṣṭyādibhedena) [fourfold](caturdhā) [time-powers-rise](kālikodayaḥ)
+[stability](sthiti)+[creation](sṛṣṭi)+[etc](ādi)+[distinction](bhedena) [fourfold](caturdhā) [kālikā](kālika)+[rise](udayaḥ)
 
 ## mukta-m0-p22-v530
-[knower-form-entering](pramātṛrūpamāviśya) [four](catasraḥ) [time-powers](kālikāḥ) [established](sthitāḥ)
+[knower](pramātṛ)+[form](rūpam) [entering](āviśya) [four](catasraḥ) [kālikās](kālikāḥ) [situated](sthitāḥ)
 
 ## mukta-m0-p22-v531
-[seeing-touching-enjoyment-detachment-excess](darśanasparśasambhogavirāmodrekatā) [considered](matāḥ)
+[seeing](darśana)+[touch](sparśa)+[enjoyment](sambhoga)+[cessation](virāma)+[excess](udrekatā) [considered](matāḥ)
 
 ## mukta-m0-p22-v532
-[women-wine-meat-enjoyments](strīmadyamāṃsabhogeṣu) [wonder-continuation](camatkārānuvṛttitaḥ)
+[women](strī)+[wine](madya)+[meat](māṃsa)+[enjoyments](bhogeṣu) [wonder](camatkāra)+[continuity](anuvṛttitaḥ)
 
 ## mukta-m0-p22-v533
-[this](etat) [retinue](parikaraḥ) [but-other](tvanyo) [state-group](bhāvavargaḥ) [established](vyavasthitaḥ)
+[this](etat) [retinue](parikaraḥ) [but](tu) [other](anyaḥ) [bhāva](bhāva)+[group](vargaḥ) [established](vyavasthitaḥ)
 
 ## mukta-m0-p22-v534
-[by-this-very-intention](anenaivāśayenaiva) [supreme-brahman-attainment](parabrahmopalabdhaye)
+[this](anena)+[very](eva)+[intent](āśayena)+[indeed](eva) [supreme](para)+[brahman](brahma)+[realization](upalabdhaye)
 
 ## mukta-m0-p22-v535
-[thus](taditthaṃ) [all-states](sarvabhāvānāṃ) [all-experience-grounds](sarvānubhavabhūmiṣu)
+[thus](tad)+[so](ittham) [all](sarva)+[bhāvas](bhāvānām) [all](sarva)+[experience](anubhava)+[grounds](bhūmiṣu)
 
 ## mukta-m0-p22-v536
-[proper-object-inquiry](samyagvastuvicāreṇa) [states-non-nature](bhāvānāmāsvabhāvataḥ)
+[proper](samyak)+[thing](vastu)+[inquiry](vicāreṇa) [bhāvas](bhāvānām)+[non-essence](asvabhāvataḥ)
 
 ## mukta-m0-p22-v537
-[thus](iti) [accomplished-mouth-tradition-reasoning](siddhamukhāmnāyayuktyā) [not-at-all-is](naivāsti) [in-reality](vastutaḥ)
+[thus](iti) [siddha](siddha)+[tradition](mukha)+[āmnāya](āmnāya)+[reasoning](yuktyā) [not](na)+[indeed](eva)+[is](asti) [in-reality](vastutaḥ)
 
 ## mukta-m0-p22-v538
-[self-expansion-filled](svaviṣphāramayaṃ) [all-this](sarvamidaṃ) [arrangement-of-self](saṃsthānamātmanaḥ)
+[self](sva)+[expansion](viṣphāra)+[filled](mayaṃ) [all](sarvam)+[this](idam) [arrangement](saṃsthānam) [of-self](ātmanaḥ)
 
 ## mukta-m0-p22-v539
-[that-devouring-zeal-supreme](tadgrāsasaṃrambhaparā) [and-which](yāśca) [twelve](dvādaśa) [time-powers](kālikāḥ)
+[that](tad)+[devouring](grāsa)+[eagerness](saṃrambha)+[supreme](parā) [and](ca) [which](yāḥ) [twelve](dvādaśa) [kālikās](kālikāḥ)
 
 ## mukta-m0-p22-v540
-[one-only](ekaiva) [consciousness-nonconsciousness-enjoyment-enjoyment-non-enjoyment-characterized](cidacidbhogabhoganirbhogalakṣaṇā)
+[one](eka)+[only](eva) [consciousness](cid)+[nonconsciousness](acid)+[enjoyment](bhoga)+[enjoyment](bhoga)+[non-enjoyment](nirbhoga)+[characterized](lakṣaṇā)
 
 ## mukta-m0-p22-v541
-[with-concept-without-concept](savikalpāvikalpānāṃ) [all](sarvāsā) [consciousness-abode](saṃvidālayaḥ)
+[conceptual](sa)+[vikalpa](vikalpa)+[nonconceptual](avikalpānām) [of-all](sarvāsām) [consciousness](saṃvid)+[abode](ālayaḥ)
 
 ## mukta-m0-p22-v542
-[immovable](acalā) [vibration-free](spandarahitā) [all-vibration-enjoyer](sarvaspandopabhoginī)
+[immovable](acalā) [vibration](spanda)+[free](rahita) [all](sarva)+[vibration](spanda)+[enjoyer](upabhoginī)
 
 ## mukta-m0-p22-v543
-[thus](tathā) [worship-transitions](pūjanasaṅkrāmair) [means](upāyair) [indicated](upalakṣitā)
+[thus](tathā) [worship](pūjana)+[transfers](saṅkrāmaiḥ) [means](upāyaiḥ) [indicated](upalakṣitā)
 
 ## mukta-m0-p22-v544
-[thirteenth-thus](trayodaśīti) [which](yā) [goddess](devī) [is-said](kathyate) [indeed](hi) [by-convention](upacārataḥ)
+[thirteenth](trayodaśī) [thus](iti) [which](yā) [goddess](devī) [is-called](kathyate) [indeed](hi) [by-convention](upacārataḥ)
 
 ## mukta-m0-p22-v545
-[names](abhidhānāni) [occur](vartante) [heart-reaching-reasoning](hṛdayaṅgamayuktitaḥ)
+[names](abhidhānāni) [occur](vartante) [heart](hṛdayaṅgama)+[reasoning](yuktitaḥ)
 
 ## mukta-m0-p22-v546
-[time-power-sequence-seen-ness](kālikākramadṛṣṭatvāt) [by-convention](upacāreṇa) [those](tāḥ) [established](sthitāḥ)
+[kālikā](kālikā)+[sequence](krama)+[seenness](dṛṣṭatvāt) [by-convention](upacāreṇa) [those](tāḥ) [situated](sthitāḥ)
 
 ## mukta-m0-p22-v547
-[how](kathaṃ) [of-mantra](mantrasya) [reality](sadbhāvaḥ) [that](sa) [direct](pratyakṣaḥ) [also](api) [or](vā) [how](katham)
+[how](katham) [of-mantra](mantrasya) [reality](sadbhāvaḥ) [that](sa) [direct](pratyakṣaḥ) [also](api) [or](vā) [how](katham)
 
 ## mukta-m0-p22-v548
-[five-lumps-bodied](pañcapiṇḍātmako) [also](api) [may-be](syāt) [subtle-direct-seer](sūkṣmapratyakṣadarśinaḥ)
+[five](pañca)+[lumps](piṇḍa)+[bodied](ātmakaḥ) [also](api) [may-be](syāt) [subtle](sūkṣma)+[direct](pratyakṣa)+[seer](darśinaḥ)
 
 ## mukta-m0-p22-v549
-[by-convention](upacāreṇa) [that-function-time-power](tadvṛttikālikā) [sequence-accessible](kramagocarā)
+[by-convention](upacāreṇa) [that](tad)+[function](vṛtti)+[kālikā](kālikā) [sequence](krama)+[accessible](gocarā)
 
 ## mukta-m0-p22-v550
-[all-desire-free](sarvākāṅkṣāvirahitā) [rest](viśrāntiḥ) [arises](jāyate) [supreme](parā)
+[all](sarva)+[desire](ākāṅkṣā)+[free](virahitā) [rest](viśrāntiḥ) [arises](jāyate) [supreme](parā)
