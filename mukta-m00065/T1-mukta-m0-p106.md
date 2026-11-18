@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p106-v2626
-[karṇikā](karṇikā) [by-moon-part](śaśibhāgena) [from-expansion](vistārāt) [and](ca) [now](adhunā) [is-said](ucyate)
+karṇikā(karṇikā) śaśibhāgena(śaśibhāgena) vistārāt(vistārāt) ca(ca) adhunā(adhunā) ucyate(ucyate)
 
 ## mukta-m0-p106-v2627
-[therein](tanmadhye) [but](tu) [by-two-parts](dvibhāgābhyāṃ) [entrance](praveśaḥ) [for-house](gṛha) [for-planet](graha) [for-cause](hetave)
+tanmadhye(tanmadhye) tu(tu) dvibhāgābhyām(dvibhāgābhyām) praveśaḥ(praveśaḥ) gṛha(gṛha) hetave(hetave)
 
 ## mukta-m0-p106-v2628
-[thus](evameva) [but](tu) [of-jaṅghā](jaṅghāyām) [añjari](añjaryā) [up-to-vedikā](vedikāvadhiḥ)
+evameva(evameva) tu(tu) jaṅghāyām(jaṅghāyām) añjaryā(añjaryā) vedikāvadhiḥ(vedikāvadhiḥ)
 
 ## mukta-m0-p106-v2629
-[temple-spire](prāsādaśikharaṃ) [or](vā) [api](api) [I-would-say](brūyām) [uparathā-and-others](uparathādikān)
+prāsādaśikharam(prāsādaśikharam) vā(vā) api(api) brūyām(brūyām) uparathādikān(uparathādikān)
 
 ## mukta-m0-p106-v2630
-[base-etc-lotus-end](pīṭhādyabjāntam) [in-height](ucchrāye) [entrance](praveśaḥ) [ca](ca) [is-declared](nigadyate)
+pīṭhādi(pīṭhādi) abja(abja) antam(antam) ucchrāye(ucchrāye) praveśaḥ(praveśaḥ) ca(ca) nigadyate(nigadyate)
 
 ## mukta-m0-p106-v2631
-[by-half](ardhena) [band](paṭṭikāṃ) [one-should-make](kuryāt) [by-two](dvābhyāṃ) [neck-entrance](kaṇṭhapraveśakam)
+ardhena(ardhena) paṭṭikām(paṭṭikām) kuryāt(kuryāt) dvābhyām(dvābhyām) kaṇṭhapraveśakam(kaṇṭhapraveśakam)
 
 ## mukta-m0-p106-v2632
-[by-half-part](ardhāṃśena) [above-that](tadūrdhve) [tu](tu) [should-be-made](kāryā) [ca](ca) [eva](eva) [sub-band](upapaṭṭikā)
+ardhāṃśena(ardhāṃśena) tat(tat) ūrdhve(ūrdhve) tu(tu) kāryā(kāryā) ca(ca) eva(eva) upapaṭṭikā(upapaṭṭikā)
 
 ## mukta-m0-p106-v2633
-[three-aṅghri-entrance](tryāṅghripraveśaḥ) [haṃsa](haṃsa) [dvyaṃśa](dvyaṃśa) [from-that-band-half-entrance](statpaṭṭyardhapraveśataḥ)
+tryāṅghripraveśaḥ(tryāṅghripraveśaḥ) haṃsa(haṃsa) tat(tat) paṭṭi(paṭṭi) ardha(ardha) praveśataḥ(praveśataḥ)
 
 ## mukta-m0-p106-v2634
-[joint-leaf-adorned](sandhipatrānvitaṃ) [padma](padmaṃ) [one-should-make](vidadhīta) [very-beautiful](suśobhanam)
+sandhipatrānvitam(sandhipatrānvitam) padmam(padmam) vidadhīta(vidadhīta) suśobhanam(suśobhanam)
 
 ## mukta-m0-p106-v2635
-[stone-born](śilotthaṃ) [foot-base](padapīṭhaṃ) [syāt](syāt) [evaṃ](evaṃ) [wood-brick-made](dārviṣṭakāmaye)
+śilotthaṃ(śilotthaṃ) padapīṭhaṃ(padapīṭhaṃ) syāt(syāt) evam(evam) dārviṣṭakāmaye(dārviṣṭakāmaye)
 
 ## mukta-m0-p106-v2636
-[that-height](taducchrayaṃ) [planet](grahaṃ) [having-made](kṛtvā) [jaṅghā](jaṅghā) [from-its-middle](tanmadhyato) [by-guṇas](guṇaiḥ)
+tat(tat) ucchrayam(ucchrayam) grahaṃ(grahaṃ) kṛtvā(kṛtvā) jaṅghā(jaṅghā) tat(tat) madhyataḥ(madhyataḥ) guṇaiḥ(guṇaiḥ)
 
 ## mukta-m0-p106-v2637
-[vedibandha-varaṇḍa](vedibandhavaraṇḍā) [dinnigadāmyanupūrvaśaḥ](dinnigadāmyanupūrvaśaḥ)
+vedibandha(vedibandha) varaṇḍā(varaṇḍā) dinnigadāmi(dinnigadāmi) anupūrvaśaḥ(anupūrvaśaḥ)
 
 ## mukta-m0-p106-v2638
-[in-height](ucchraye) [dhāma-turyāṃśāt](dhāmaturyāṃśāt) [therein-nidrāṃśake-made](tasminnidrāṃśakekṛte)
+ucchraye(ucchraye) dhāmaturyāṃśāt(dhāmaturyāṃśāt) tasmin(tasmin) nidrāṃśakekṛte(nidrāṃśakekṛte)
 
 ## mukta-m0-p106-v2639
-[with-one-and-half](sārdhatrayeṇa) [kumbha](kumbhaḥ) [syāt](syāt) [that-half](tadardhe) [kumbha-band](kumbhapaṭṭikā)
+sārdhatrayeṇa(sārdhatrayeṇa) kumbhaḥ(kumbhaḥ) syāt(syāt) tat(tat) ardhe(ardhe) kumbhapaṭṭikā(kumbhapaṭṭikā)
 
 ## mukta-m0-p106-v2640
-[by-half-part](bhāgārdhena) [tu](tu) [neck](kaṇṭhaḥ) [syāt](syāt) [kalaśa](kalaśaśca) [by-guṇa-part](guṇāṃśataḥ)
+bhāgārdhena(bhāgārdhena) tu(tu) kaṇṭhaḥ(kaṇṭhaḥ) syāt(syāt) kalaśaḥ(kalaśaḥ) ca(ca) guṇāṃśataḥ(guṇāṃśataḥ)
 
 ## mukta-m0-p106-v2641
-[from-entrance](praveśāt) [ca](ca) [one-side](ekataḥ) [necks](kaṇṭhāḥ) [ca](ca) [half](ardhe) [exit-band](nirgamapaṭṭikā)
+praveśāt(praveśāt) ca(ca) ekataḥ(ekataḥ) kaṇṭhāḥ(kaṇṭhāḥ) ca(ca) ardhe(ardhe) nirgamapaṭṭikā(nirgamapaṭṭikā)
 
 ## mukta-m0-p106-v2642
-[kumbha-band](kumbhapaṭṭī) [tu](tu) [by-foot](pādena) [kupālī](kupālyā) [dyaṃśataḥ](dyaṃśataḥ) [sthitā](sthitā)
+kumbhapaṭṭī(kumbhapaṭṭī) tu(tu) pādena(pādena) kupālyā(kupālyā) dyaṃśataḥ(dyaṃśataḥ) sthitā(sthitā)
 
 ## mukta-m0-p106-v2643
-[by-three](tribhiḥ) [khurādi](khurādibhiḥ) [yuktaṃ](yuktaṃ) [vedībandha-named](vedībandhābhidhānakam)
+tribhiḥ(tribhiḥ) khurādibhiḥ(khurādibhiḥ) yuktam(yuktam) vedībandha(vedībandha) abhidhānakam(abhidhānakam)
 
 ## mukta-m0-p106-v2644
-[having-made](kṛteṣu) [three](triṣu) [parts](bhāgeṣu) [quarter-less-part-entrances](pādonāṃśātpraveśikān)
+kṛteṣu(kṛteṣu) triṣu(triṣu) bhāgeṣu(bhāgeṣu) pādonāṃśāt(pādonāṃśāt) praveśikān(praveśikān)
 
 ## mukta-m0-p106-v2645
-[by-part](bhāgena) [square-named](caturasrākhyā) [band](paṭṭikā) [with-one-and-half](sārdhataḥ) [sthitā](sthitā)
+bhāgena(bhāgena) caturasrākhyā(caturasrākhyā) paṭṭikā(paṭṭikā) sārdhataḥ(sārdhataḥ) sthitā(sthitā)
 
 ## mukta-m0-p106-v2646
-[khuṃrakumbhavatī](khuṃrakumbhavatī) [jaṅghā](jaṅghā) [of-elders](jyeṣṭhānāṃ) [by-foot-measure](pādamānataḥ)
+khuṃrakumbhavatī(khuṃrakumbhavatī) jaṅghā(jaṅghā) jyeṣṭhānām(jyeṣṭhānām) pādamānataḥ(pādamānataḥ)
 
 ## mukta-m0-p106-v2647
-[until-cinnava](yāvaccinnavakāṃ) [vā](vā) [api](api) [leaf-valli](patravalyā) [athavā](athavā) [varā](varā)
+yāvat(yāvat) cinnvakām(cinnvakām) vā(vā) api(api) patravalyā(pat ravalyā) athavā(athavā) varā(varā)
 
 ## mukta-m0-p106-v2648
-[quarter-part](caturthāṃśaśca) [above-jaṅghā](jaṅghordhve) [dividing](vibhajya) [by-eight-part](vasubhāgataḥ)
+caturthāṃśaḥ(caturthāṃśaḥ) ca(ca) jaṅghordhve(jaṅghordhve) vibhajya(vibhajya) vasubhāgataḥ(vasubhāgataḥ)
 
 ## mukta-m0-p106-v2649
-[there](tatrārdhena) [entrance-named](praveśākhyaṃ) [band](paṭṭikāṃ) [tu](tu) [vi](vi) [vartayet](vartayet)
+tatra(tatra) ardhena(ardhena) praveśākhyaṃ(praveśākhyaṃ) paṭṭikām(paṭṭikām) tu(tu) vi(vi) vartayet(vartayet)
 
 ## mukta-m0-p106-v2650
-[quarter-less-part](pādonāṃśena) [haṃsa-named](haṃsākhyā) [band](paṭṭī) [that-foot-from](tatpadato) [bhavet](bhavet)
+pādonāṃśena(pādonāṃśena) haṃsākhyā(haṃsākhyā) paṭṭī(paṭṭī) tatpadato(tatpadato) bhavet(bhavet)
