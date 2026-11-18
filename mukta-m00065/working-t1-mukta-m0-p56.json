@@ -37,11 +37,11 @@
 "tokens": [
 {
 "surface": "yatīnāṃ",
-"quick_gloss": "yogis"
+"quick_gloss": "for-ascetics"
 },
 {
 "surface": "sarvakāleṣu",
-"quick_gloss": "all-times"
+"quick_gloss": "at-all-times"
 },
 {
 "surface": "liṅgasyāropaṇaṃ",
@@ -49,7 +49,7 @@
 },
 {
 "surface": "matam",
-"quick_gloss": "opinion"
+"quick_gloss": "considered"
 }
 ]
 },
@@ -62,11 +62,11 @@
 "tokens": [
 {
 "surface": "dakṣiṇāyane",
-"quick_gloss": "southern-ayana"
+"quick_gloss": "in-southern-ayana"
 },
 {
 "surface": "apūjyaṃ",
-"quick_gloss": "not-worshipable"
+"quick_gloss": "not-worshipful"
 },
 {
 "surface": "trivarṣordhvaṃ",
@@ -95,15 +95,15 @@
 },
 {
 "surface": "syācca",
-"quick_gloss": "and-may-be"
+"quick_gloss": "and-is"
 },
 {
 "surface": "yāmye",
-"quick_gloss": "southern"
+"quick_gloss": "in-southern"
 },
 {
 "surface": "saumye",
-"quick_gloss": "northern"
+"quick_gloss": "in-auspicious"
 },
 {
 "surface": "apare",
@@ -132,11 +132,11 @@
 },
 {
 "surface": "mayamatāt",
-"quick_gloss": "by-opinion"
+"quick_gloss": "by-me-opinion"
 },
 {
 "surface": "phalaṃ",
-"quick_gloss": "result"
+"quick_gloss": "fruit"
 },
 {
 "surface": "kramāt",
@@ -256,7 +256,7 @@
 },
 {
 "surface": "pravarteta",
-"quick_gloss": "should-act"
+"quick_gloss": "should-proceed"
 },
 {
 "surface": "devyāḥ",
@@ -288,7 +288,7 @@
 "quick_gloss": "obtaining"
 },
 {
-"surface": "rakṣārthaṃ",
+"surface": "rakṣaye",
 "quick_gloss": "for-protection"
 },
 {
@@ -339,7 +339,7 @@
 },
 {
 "surface": "sulagnakaraṇānvite",
-"quick_gloss": "with-good-lagna-karaṇa"
+"quick_gloss": "good-lagna-karaṇa-endowed"
 }
 ]
 },
@@ -363,8 +363,8 @@
 "quick_gloss": "indeed"
 },
 {
-"surface": "kṛṣṇe",
-"quick_gloss": "dark-fortnight"
+"surface": "kṛsṇe",
+"quick_gloss": "dark"
 },
 {
 "surface": "api",
@@ -409,27 +409,23 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "śatābdorvā",
-"quick_gloss": "hundred-years-or"
+"surface": "śātābdorvbaṃ",
+"quick_gloss": "hundred-years"
 },
 {
 "surface": "tu",
 "quick_gloss": "but"
 },
 {
-"surface": "sā",
-"quick_gloss": "that"
-},
-{
-"surface": "tiṣṭhet",
-"quick_gloss": "stands"
+"surface": "sā tiṣṭhet",
+"quick_gloss": "she-stands"
 },
 {
 "surface": "vāṇaliṅgaṃ",
 "quick_gloss": "bāṇa-liṅga"
 },
 {
-"surface": "svayambhuvat",
+"surface": "svayambhubat",
 "quick_gloss": "like-self-born"
 }
 ]
@@ -442,12 +438,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "bahvarthatvānipātānāṃ",
-"quick_gloss": "much-meaning-fall"
+"surface": "bahvarthatvāni",
+"quick_gloss": "many-meanings"
+},
+{
+"surface": "pātānāṃ",
+"quick_gloss": "of-falls"
 },
 {
 "surface": "saṃskārādau",
-"quick_gloss": "from-purification"
+"quick_gloss": "in-purification-etc"
 },
 {
 "surface": "pratiṣṭhitiḥ",
@@ -467,15 +467,19 @@
 "quick_gloss": "purified"
 },
 {
-"surface": "dravyasanmantrasaṃskṛtiḥ",
-"quick_gloss": "substance-with-mantra-purification"
+"surface": "dravya",
+"quick_gloss": "substance"
+},
+{
+"surface": "sanmantrasaṃskṛtiḥ",
+"quick_gloss": "with-mantra-purification"
 },
 {
 "surface": "yā",
 "quick_gloss": "which"
 },
 {
-"surface": "surāgya",
+"surface": "suragya",
 "quick_gloss": "divine"
 },
 {
@@ -497,7 +501,7 @@
 },
 {
 "surface": "pañcabhedaiḥ",
-"quick_gloss": "five-divisions"
+"quick_gloss": "by-five-divisions"
 },
 {
 "surface": "tu",
@@ -513,7 +517,7 @@
 },
 {
 "surface": "uditā",
-"quick_gloss": "said"
+"quick_gloss": "declared"
 }
 ]
 },
@@ -530,7 +534,7 @@
 },
 {
 "surface": "āyu",
-"quick_gloss": "long-life"
+"quick_gloss": "life"
 },
 {
 "surface": "dadyāt",
@@ -587,16 +591,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "ekartuśaṅkaraiḥ",
-"quick_gloss": "one-doer-Śaṅkara"
+"surface": "ekartu",
+"quick_gloss": "one-doer"
+},
+{
+"surface": "śaṅkaraiḥ",
+"quick_gloss": "with-Śaṅkara"
 },
 {
 "surface": "nandā",
-"quick_gloss": "nandā"
+"quick_gloss": "Nandā"
 },
 {
 "surface": "bhadrā",
-"quick_gloss": "bhadra"
+"quick_gloss": "Bhadrā"
 },
 {
 "surface": "pakṣarṣibhānubhiḥ",
@@ -642,7 +650,7 @@
 },
 {
 "surface": "dvipañcāyuḥ",
-"quick_gloss": "ten-five-years"
+"quick_gloss": "two-five-age"
 },
 {
 "surface": "budhaḥ",
@@ -696,7 +704,7 @@
 },
 {
 "surface": "rāśikrameṇa",
-"quick_gloss": "zodiac-in-order"
+"quick_gloss": "zodiac-order"
 },
 {
 "surface": "tu",
