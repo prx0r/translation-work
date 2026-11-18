@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p44-v1076
-then-by-command enjoy power motherhood abandon
+[tadājñayā](tadājñayā) [ramet](ramet) [śaktiṃ](śaktiṃ) [mātṛbhāvaṃ](mātṛbhāvaṃ) [parityajet](parityajet)
 
 ## mukta-m0-p44-v1077
-holy-teacher's-foot meditating own-head teacher-sandal
+[śrīguroścaraṇaṃ](śrīguroścaraṇaṃ) [dhyāyan](dhyāyan) [svamūrdhni](svamūrdhni) [gurupādukām](gurupādukām)
 
 ## mukta-m0-p44-v1078
-bliss-bhairava god own-desired-vidya indeed satisfy
+[ānandabhairavaṃ](ānandabhairavaṃ) [devaṃ](devaṃ) [sveṣṭavidyāṃ](sveṣṭavidyāṃ) [hi](hi) [tarpayet](tarpayet)
 
 ## mukta-m0-p44-v1079
-thousand-petaled with-own-desired-vidya satisfy teacher
+[sahasrāre](sahasrāre) [sveṣṭavidyāsahitaṃ](sveṣṭavidyāsahitaṃ) [tarpayed](tarpayed) [gurum](gurum)
 
 ## mukta-m0-p44-v1080
-non-difference satisfy auspicious thousand-petaled great-city
+[abhede](abhede) [tarpayed](tarpayed) [bhadre](bhadre) [sahasrāre](sahasrāre) [mahāpure](mahāpure)
 
 ## mukta-m0-p44-v1081
-therefore satisfy-gods tantric vedic and
+[ataśca](ataśca) [tarpayeddevān](tarpayeddevān) [tāntrike](tāntrike) [vaidikeṣu](vaidikeṣu) [ca](ca)
 
 ## mukta-m0-p44-v1082
-holy-sandal satisfy worship-thus or beloved
+[śrīpādukāṃ](śrīpādukāṃ) [tarpayāmi](tarpayāmi) [pūjayāmīti](pūjayāmīti) [vā](vā) [priye](priye)
 
 ## mukta-m0-p44-v1083
-supreme-teacher goddess satisfy three-three-times
+[parameṣṭhiguruṃ](parameṣṭhiguruṃ) [devi](devi) [tarpayet](tarpayet) [tritrivārakam](tritrivārakam)
 
 ## mukta-m0-p44-v1084
-transcendent-immanent-teacher who or supreme-teacher and who
+[parāparaguruḥ](parāparaguruḥ) [ko](ko) [vā](vā) [parameṣṭhiguruśca](parameṣṭhiguruśca) [kaḥ](kaḥ)
 
 ## mukta-m0-p44-v1085
-various-form gross-only as-fire wood-united
+[nānārūpaṃ](nānārūpaṃ) [sthūlamātraṃ](sthūlamātraṃ) [yathāgniḥ](yathāgniḥ) [kāṣṭhasaṃyutaḥ](kāṣṭhasaṃyutaḥ)
 
 ## mukta-m0-p44-v1086
-unity making gross-subtle all-this manifested
+[aikyaṃ](aikyaṃ) [kṛtvā](kṛtvā) [sthūlasūkṣmaṃ](sthūlasūkṣmaṃ) [sarvametat](sarvametat) [prakāśitam](prakāśitam)
 
 ## mukta-m0-p44-v1087
-transcendent-immanent-teacher-you indeed supreme-teacher-I
+[parāparagurustvaṃ](parāparagurustvaṃ) [hi](hi) [parameṣṭhigururhyaham](parameṣṭhigururhyaham)
 
 ## mukta-m0-p44-v1088
-with-vehicle own-desired-goddess satisfy twofold-ender
+[savāhanāṃ](savāhanāṃ) [sveṣṭadevīṃ](sveṣṭadevīṃ) [tarpayāmi](tarpayāmi) [dvidhāantakaḥ](dvidhāantakaḥ)
 
 ## mukta-m0-p44-v1089
-if-satisfy action-attachment teacher with future
+[tarpayeccet](tarpayeccet) [kriyāsaṅgād](kriyāsaṅgād) [guruṇā](guruṇā) [saha](saha) [bhāvinīm](bhāvinīm)
 
 ## mukta-m0-p44-v1090
-white-colored two-armed anointed two-eyed that-united
+[śvetavarṇā](śvetavarṇā) [dvibhujāktā](dvibhujāktā) [dvinetrā](dvinetrā) [tatsamāyutam](tatsamāyutam)
 
 ## mukta-m0-p44-v1091
-that-united teacher meditate offering-etc perform
+[tatsaṃyuktaṃ](tatsaṃyuktaṃ) [guruṃ](guruṃ) [dhyāyet](dhyāyet) [tarpaṇādikamācaret](tarpaṇādikamācaret)
 
 ## mukta-m0-p44-v1092
-thumb-index-union right flower-falling
+[aṃguṣṭhatarjanīyogād](aṃguṣṭhatarjanīyogād) [dakṣiṇe](dakṣiṇe) [puṣpapātanam](puṣpapātanam)
 
 ## mukta-m0-p44-v1093
-these-two-union-only substance flower charming
+[anayoryogamātreṇa](anayoryogamātreṇa) [dravyaṃ](dravyaṃ) [puṣpaṃ](puṣpaṃ) [manoharam](manoharam)
 
 ## mukta-m0-p44-v1094
-thumb-union she goddess flowered desire-overwhelmed
+[aṃguṣṭhayogāt](aṃguṣṭhayogāt) [sā](sā) [devī](devī) [puṣpitā](puṣpitā) [kāmavihvalā](kāmavihvalā)
 
 ## mukta-m0-p44-v1095
-satisfy yoni-middle indeed yoni grasping that-supreme
+[tarpayed](tarpayed) [yonimadhye](yonimadhye) [tu](tu) [yoniṃ](yoniṃ) [saṃgṛhya](saṃgṛhya) [tatparam](tatparam)
 
 ## mukta-m0-p44-v1096
-drop-only substance satisfied becomes desirous-woman
+[bindumātreṇa](bindumātreṇa) [dravyeṇa](dravyeṇa) [tuṣṭā](tuṣṭā) [bhavati](bhavati) [kāminī](kāminī)
 
 ## mukta-m0-p44-v1097
-offering-etc to-be-done water-illusion eternal
+[tarpaṇādi](tarpaṇādi) [prakartavyaṃ](prakartavyaṃ) [jalamāyā](jalamāyā) [sanātanī](sanātanī)
 
 ## mukta-m0-p44-v1098
-thus water all-worshipful all's bondage-liberation-giving
+[tathā](tathā) [toyaṃ](toyaṃ) [sarvapūjyaṃ](sarvapūjyaṃ) [sarvasya](sarvasya) [bandhamuktidam](bandhamuktidam)
 
 ## mukta-m0-p44-v1099
-satisfy knower goddess own-head heart and or
+[tarpayed](tarpayed) [jñānavān](jñānavān) [devi](devi) [svamūrdhni](svamūrdhni) [hṛdaye](hṛdaye) [ca](ca) [vā](vā)
 
 ## mukta-m0-p44-v1100
-three-gunas and-unity offering and-one-time
+[guṇatrayasya](guṇatrayasya) [caikatve](caikatve) [tarpaṇaṃ](tarpaṇaṃ) [caikavārakam](caikavārakam)

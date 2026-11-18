@@ -2,52 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p57-v1401
-gupta-artha-aya ca hridya-angi na tu tatva-avabodhane
+[gupta-artha-aya](guptārthāya) [ca](ca) [hṛdya-aṅgi](hṛdyāṅgi) [na](na) [tu](tu) [tatva-avabodhane](tatvāvabodhane)
+
 ## mukta-m0-p57-v1402
-ananda-tantra eva-asmin na para-tra kvacin-matah
+[ānanda-tantra](ānaṃdataṃtra) [eva](evāsminnā) [na](na) [paratra](paratra) [kvacit](kvacinmataḥ) [mataḥ](mataḥ)
+
 ## mukta-m0-p57-v1403
-tatva-bhutam-idam subhru-yo maha-yaga iritah
+[tatva-bhūtam](tatvabhūtamidaṃ) [idam](idam) [subhru](subhruyo) [mahā-yāga](mahāyāga) [īritaḥ](īritaḥ)
+
 ## mukta-m0-p57-v1404
-asya tantrasya tatvani siddhanta-ca pradarsyate
+[asya](asya) [tantra-sya](taṃtrasya) [tatvāni](tatvāni) [siddhāntaḥ](siddhāntaśca) [ca](ca) [pradarśyate](pradarśyate)
+
 ## mukta-m0-p57-v1405
-avirbhava-tirobhavau varttete sarva-vastusu
+[āvirbhāva-tirobhāvau](āvirbbhāvatirobhāvau) [varttete](varttete) [sarva-vastuṣu](sarvavastuṣu)
+
 ## mukta-m0-p57-v1406
-na devadatto bhavanat nirgacchan purva-sangatah
+[na](na) [devadattaḥ](devadatto) [bhavanāt](bhavanānnirgacchan) [nirgacchan](nirgacchan) [pūrva-saṅgataḥ](pūrvasaṅgataḥ)
+
 ## mukta-m0-p57-v1407
-na devadatto bhavanat pravesana-tirohita
+[na](na) [devadattaḥ](devadatto) [bhavanāt](bhavanāt) [praveśana-tirohitaḥ](praveśanatirohitaḥ)
+
 ## mukta-m0-p57-v1408
-avirbhavam vina utpattir anya-akapina vidyate
+[āvirbhāvam](āvirbhāvaṃ) [vinā](vinotpattiranyākāpina) [utpattiḥ](utpattiranyākāpina) [anyā](anyākāpina) [ākāpi](ākāpina) [na](na) [vidyate](vidyate)
+
 ## mukta-m0-p57-v1409
-tat-vicare krte na-eva carutvam anudhavati
+[tad-vicāre](tadvicāre) [kṛte](kṛte) [na](na) [eva](eva) [cārutvam](cārutvamanudhāvati) [anudhāvati](anudhāvati)
+
 ## mukta-m0-p57-v1410
-utpannatvam visistatvam tada-eva-adau pradarsitam
+[utpannatvam](utpannatvaṃ) [viśiṣṭatvam](viśiṣṭatvaṃ) [tadā](tadaivādau) [eva](eva) [ādau](ādau) [pradarśitam](pradarśitam)
+
 ## mukta-m0-p57-v1411
-na tu tesam vastavatvam vyavahara-eka-janmana
+[na](na) [tu](tu) [teṣām](teṣāṃ) [vāstavatvam](vāstavatvaṃ) [vyavahāra-eka-janmanā](vyavahāraikajanmanā)
+
 ## mukta-m0-p57-v1412
-disah ca carcane desa nabhasa carcane marut
+[diśaḥ](diśaścacarcane) [ca](ca) [carcane](carcane) [deśaḥ](deśo) [nabhasaḥ](nabhasaścarcane) [carcane](carcane) [marut](marut)
+
 ## mukta-m0-p57-v1413
-bhumi apah anala vayuh sabdah ca timiram manah
+[bhūmiḥ](bhūmirāponalo) [āpaḥ](āponalo) [analaḥ](analo) [vāyuḥ](vāyuḥ) [śabdaḥ](śabdaścatimiraṃ) [ca](ca) [timiram](timiraṃ) [manaḥ](manaḥ)
+
 ## mukta-m0-p57-v1414
-etat bhida eva sarvesam padarthanam vijrimbhanam
+[etat](etad) [bhidā](bhidaiva) [eva](eva) [sarveṣām](sarveṣāṃ) [padārthānām](padārthānāṃ) [vijṛmbhaṇam](vijṛmbhaṇam)
+
 ## mukta-m0-p57-v1415
-sanghata-rupa-karma-adya na tesam asti ganyata
+[saṅghata-rūpa-karma-ādyāḥ](saṅghatarūpakarmādyā) [na](na) [teṣām](teṣāmasti) [asti](asti) [gaṇyatā](gaṇyatā)
+
 ## mukta-m0-p57-v1416
-marut ca timiram na-eva samsaya kvacid arhatah
+[marut](maruccatimirannaiva) [ca](ca) [timiram](timiraṃ) [na](na) [eva](eva) [saṃśrayaṃ](saṃścayaṃ) [kvacit](kvacidarhataḥ) [arhataḥ](arhataḥ)
+
 ## mukta-m0-p57-v1417
-nava-dravyani ca etani kirttitani maha-agame
+[nava-dravyāṇi](navadravyāṇi) [ca](ca) [etāni](etāni) [kīrttitāni](kīrttitāni) [mahā-āgame](mahāgame)
+
 ## mukta-m0-p57-v1418
-etesam eva bhedena nana-sankhyam vidhaya ca
+[eteṣām](eteṣāmeva) [eva](eva) [bhedena](bhedena) [nānā-saṃkhyām](nānāsaṃkhyāṃ) [vidhāya](vidhāya) [ca](ca)
+
 ## mukta-m0-p57-v1419
-pratyaksa-mananubhavah sarvesu etesu parvati
+[pratyakṣa-māna-anubhavaḥ](pratyakṣamānānubhavaḥ) [sarveṣu](sarveṣveteṣu) [eteṣu](eteṣu) [pārvati](pārvati)
+
 ## mukta-m0-p57-v1420
-jala-dhvante sukla-anile bhu-sucih sabala-akrti
+[jala-dhvānte](jaladhvānte) [śukla-anile](śuklānile) [bhū-śuciḥ](bhūśuciḥ) [śabala-ākṛti](śabalākṛti)
+
 ## mukta-m0-p57-v1421
-sparsah pratyaksa-visayah pavanah parvata-atmaje
+[sparśaḥ](sparśaḥ) [pratyakṣa-viṣayaḥ](pratyakṣaviṣayaḥ) [pavanaḥ](pavanaḥ) [parvata-ātmaje](parvatātmaje)
+
 ## mukta-m0-p57-v1422
-mano-jiva-vasah sarve pratipannah svayam pramah
+[mano-jīva-vaśāḥ](manojīvavaśāḥ) [sarve](sarve) [pratipannāḥ](pratipannāḥ) [svayam](svayaṃ) [pramāḥ](pramāḥ)
+
 ## mukta-m0-p57-v1423
-tatra sabdah tu apta-vaco veda-vidya-agama-atmakah
+[tatra](tatra) [śabdaḥ](śabdastvāptavāco) [tu](tu) [āpta-vācaḥ](āptavāco) [veda-vidyā-āgama-ātmakaḥ](vedavidyāgamātmakaḥ)
+
 ## mukta-m0-p57-v1424
-visista-bhage sadriste darsanam bhagino yatah
+[viśiṣṭa-bhāge](viśiṣṭabhāge) [sādṛṣṭe](sādṛṣṭe) [darśanam](darśanaṃ) [bhāginaḥ](bhāginoyataḥ) [yataḥ](yataḥ)
+
 ## mukta-m0-p57-v1425
-drsta-sarva-svarupasya ghatasya adhyaksata asthi cet
+[dṛṣṭa-sarva-svarūpasya](dṛṣṭasarvasvarūpasya) [ghaṭasya](ghaṭasyādhyakṣatāsthi) [adhyakṣatā](adhyakṣatāsthi) [asthi](asthi) [cet](cet)
