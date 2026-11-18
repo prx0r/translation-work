@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p40-v976
-[pada](bahunākimihoktena) [pada](sākṣādānaṃdadāyakaḥ)
+[bahunākimihoktena](bahunākimihoktena) [sākṣādānaṃdadāyakaḥ](sākṣādānaṃdadāyakaḥ)
 
 ## mukta-m0-p40-v977
-[pada](iti) [pada](dvitīyapātasya) [pada](maṃtrasannāma) [pada](īritam)
+[iti](iti) [dvitīyapātasya](dvitīyapātasya) [maṃtrasannāma](maṃtrasannāma) [īritam](īritam)
 
 ## mukta-m0-p40-v978
-[pada](aṣṭabhogavatī) [pada](dhatte) [pada](mahāsāmrājya) [pada](nāthatām)
+[aṣṭabhogavatī](aṣṭabhogavatī) [dhatte](dhatte) [mahāsāmrājya](mahāsāmrājya) [nāthatām](nāthatām)
 
 ## mukta-m0-p40-v979
-[pada](sarvākāreṇa) [pada](caitanya) [pada](layaḥ) [pada](sarvāṃgasuṃdarī)
+[sarvākāreṇa](sarvākāreṇa) [caitanya](caitanya) [layaḥ](layaḥ) [sarvāṃgasuṃdarī](sarvāṃgasuṃdarī)
 
 ## mukta-m0-p40-v980
-[pada](viśvakṣati) [pada](ca) [pada](yatkiṃcinna) [pada](ca) [pada](niryāti) [pada](vakrataḥ)
+[viśvakṣati](viśvakṣati) [ca](ca) [yatkiṃcinna](yatkiṃcinna) [ca](ca) [niryāti](niryāti) [vakrataḥ](vakrataḥ)
 
 ## mukta-m0-p40-v981
-[pada](na) [pada](ceṣṭā) [pada](na) [pada](ca) [pada](saṃraṃbho) [pada](na) [pada](ca) [pada](mohana) [pada](kūjitam)
+[na](na) [ceṣṭā](ceṣṭā) [na](na) [ca](ca) [saṃraṃbho](saṃraṃbho) [na](na) [ca](ca) [mohana](mohana) [kūjitam](kūjitam)
 
 ## mukta-m0-p40-v982
-[pada](na) [pada](daṃta) [pada](pātanomuṣṭi) [pada](ghātena) [pada](ca) [pada](ka) [pada](ca) [pada](grahaḥ)
+[na](na) [daṃta](daṃta) [pātanomuṣṭi](pātanomuṣṭi) [ghātena](ghātena) [ca](ca) [ka](ka) [ca](ca) [grahaḥ](grahaḥ)
 
 ## mukta-m0-p40-v983
-[pada](na) [pada](mekhalā) [pada](kalakvāṇo) [pada](na) [pada](līlāsaṃgamaṃgayaḥ)
+[na](na) [mekhalā](mekhalā) [kalakvāṇo](kalakvāṇo) [na](na) [līlāsaṃgamaṃgayaḥ](līlāsaṃgamaṃgayaḥ)
 
 ## mukta-m0-p40-v984
-[pada](hṛdayasthāna) [pada](janitaḥ) [pada](kaṃpaḥ) [pada](paraparāyate)
+[hṛdayasthāna](hṛdayasthāna) [janitaḥ](janitaḥ) [kaṃpaḥ](kaṃpaḥ) [paraparāyate](paraparāyate)
 
 ## mukta-m0-p40-v985
-[pada](ekāṣṭakamahāyāga) [pada](pakṣebiṃduṃ) [pada](samutsṛjet)
+[ekāṣṭakamahāyāga](ekāṣṭakamahāyāga) [pakṣebiṃduṃ](pakṣebiṃduṃ) [samutsṛjet](samutsṛjet)
 
 ## mukta-m0-p40-v986
-[pada](aṣṭāṣṭakamahāyāge) [pada](dūtyaṣṭakamataḥ) [pada](param)
+[aṣṭāṣṭakamahāyāge](aṣṭāṣṭakamahāyāge) [dūtyaṣṭakamataḥ](dūtyaṣṭakamataḥ) [param](param)
 
 ## mukta-m0-p40-v987
-[pada](iyameva) [pada](hi) [pada](śakteśca) [pada](śaṃbhorekatayā) [pada](sthitiḥ)
+[iyameva](iyameva) [hi](hi) [śakteśca](śakteśca) [śaṃbhorekatayā](śaṃbhorekatayā) [sthitiḥ](sthitiḥ)
 
 ## mukta-m0-p40-v988
-[pada](itthamānaṃda) [pada](yāgo'yaṃ) [pada](kathitaste) [pada](maheśvari)
+[itthamānaṃda](itthamānaṃda) [yāgo'yaṃ](yāgo'yaṃ) [kathitaste](kathitaste) [maheśvari](maheśvari)
 
 ## mukta-m0-p40-v989
-[pada](bhavato) [pada](vadanāṃbhojāt) [pada](suśruto'ṣṭāhuti) [pada](kramaḥ)
+[bhavato](bhavato) [vadanāṃbhojāt](vadanāṃbhojāt) [suśruto'ṣṭāhuti](suśruto'ṣṭāhuti) [kramaḥ](kramaḥ)
 
 ## mukta-m0-p40-v990
-[pada](śrotuṃ) [pada](vāṃcchāmi) [pada](deveśa) [pada](yāgānaṃtarajaṃ) [pada](kramam)
+[śrotuṃ](śrotuṃ) [vāṃcchāmi](vāṃcchāmi) [deveśa](deveśa) [yāgānaṃtarajaṃ](yāgānaṃtarajaṃ) [kramam](kramam)
 
 ## mukta-m0-p40-v991
-[pada](śṛṇu) [pada](devi) [pada](mahābhāge) [pada](yanmāṃtvaṃ) [pada](paripṛcchasi)
+[śṛṇu](śṛṇu) [devi](devi) [mahābhāge](mahābhāge) [yanmāṃtvaṃ](yanmāṃtvaṃ) [paripṛcchasi](paripṛcchasi)
 
 ## mukta-m0-p40-v992
-[pada](vīraḥ) [pada](suciranṛttena) [pada](śrāṃtaliṃgamaheśvaraḥ)
+[vīraḥ](vīraḥ) [suciranṛttena](suciranṛttena) [śrāṃtaliṃgamaheśvaraḥ](śrāṃtaliṃgamaheśvaraḥ)
 
 ## mukta-m0-p40-v993
-[pada](atha) [pada](pradūṣita) [pada](pāte) [pada](pūrite) [pada](puṇyavastubhiḥ)
+[atha](atha) [pradūṣita](pradūṣita) [pāte](pāte) [pūrite](pūrite) [puṇyavastubhiḥ](puṇyavastubhiḥ)
 
 ## mukta-m0-p40-v994
-[pada](ānaṃdanāthasya) [pada](manuṃcāṣṭāviṃśativārakam)
+[ānaṃdanāthasya](ānaṃdanāthasya) [manuṃcāṣṭāviṃśativārakam](manuṃcāṣṭāviṃśativārakam)
 
 ## mukta-m0-p40-v995
-[pada](dakṣahastasya) [pada](culuke) [pada](dhārayitvā) [pada](vicakṣaṇaḥ)
+[dakṣahastasya](dakṣahastasya) [culuke](culuke) [dhārayitvā](dhārayitvā) [vicakṣaṇaḥ](vicakṣaṇaḥ)
 
 ## mukta-m0-p40-v996
-[pada](saśuddhibhyāṃtayorbiṃduṃ) [pada](kārikāḥ) [pada](prapaṭhan) [pada](kiret)
+[saśuddhibhyāṃtayorbiṃduṃ](saśuddhibhyāṃtayorbiṃduṃ) [kārikāḥ](kārikāḥ) [prapaṭhan](prapaṭhan) [kiret](kiret)
 
 ## mukta-m0-p40-v997
-[pada](etairānaṃdayāgāṃta) [pada](śuklaśoṇitabiṃdubhiḥ)
+[etairānaṃdayāgāṃta](etairānaṃdayāgāṃta) [śuklaśoṇitabiṃdubhiḥ](śuklaśoṇitabiṃdubhiḥ)
 
 ## mukta-m0-p40-v998
-[pada](etairānaṃdayāgāṃta) [pada](śuklaśoṇitabiṃdubhiḥ)
+[etairānaṃdayāgāṃta](etairānaṃdayāgāṃta) [śuklaśoṇitabiṃdubhiḥ](śuklaśoṇitabiṃdubhiḥ)
 
 ## mukta-m0-p40-v999
-[pada](etairānaṃdayāgāṃta) [pada](śuklaśoṇitabiṃdubhiḥ)
+[etairānaṃdayāgāṃta](etairānaṃdayāgāṃta) [śuklaśoṇitabiṃdubhiḥ](śuklaśoṇitabiṃdubhiḥ)
 
 ## mukta-m0-p40-v1000
-[pada](etairānaṃdayāgāṃta) [pada](śuklaśoṇitabiṃdubhiḥ)
+[etairānaṃdayāgāṃta](etairānaṃdayāgāṃta) [śuklaśoṇitabiṃdubhiḥ](śuklaśoṇitabiṃdubhiḥ)
