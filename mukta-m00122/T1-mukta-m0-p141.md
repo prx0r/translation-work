@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p141-v3501
-[twelve](dvādaśa) [having-come-together](sambhūya) [thirty-eight](aṣṭatriṃśat) [vital-points](marmāṇi) [in-these](eṣu) [vital-points](marmasu)
+[twelve](dvādaśa) [combining](sambhūya) [thirty-eight](aṣṭatriṃśat) [vital-points](marmāṇi) [in](eṣu) [these](marmasu)
 
 ## mukta-m0-p141-v3502
-[in-reversal](vailomye) [from-deformed+limbness](vikṛta+aṅgatvāt) [by-people](lokaiḥ) [for-destruction](nāśāya) [is-considered](kalpyate)
+[disorder](vailomye) [deformed-limbs](vikṛtāṅgatvāt) [by](lokaiḥ) [destruction](nāśāya) [is-deemed](kalpyate)
 
 ## mukta-m0-p141-v3503
-[yoga](yogo) [yoga](yogaḥ) [indeed](tu) [to-be-known](vijñeyaḥ) [its](tasya) [limbs](aṅgāni) [likewise](tathā) [eight](aṣṭa) [indeed](vai)
+[yoga](yogaḥ) [yoga](yogaḥ) [tu](tu) [to-be-known](vijñeyaḥ) [its](tasya) [limbs](aṅgāni) [thus](tathā) [eight](aṣṭa) [indeed](vai)
 
 ## mukta-m0-p141-v3504
-[breath-control](prāṇāyāmaḥ) [likewise](tathā) [withdrawal](pratyāhāraḥ) [then](tadanu) [concentration](dhāraṇam)
+[pranayama](prāṇāyāmaḥ) [then](tathā) [withdrawal](pratyāhāraḥ) [then](tadanu) [concentration](dhāraṇam)
 
 ## mukta-m0-p141-v3505
-[I-tell](kathayāmi) [listen](śṛṇu) [O-wise-one](prājñe) [by-which](yaiḥ) [mortal](marttyo) [equal-to-me](mat+samo) [may-become](bhavet)
+[i-tell](kathayāmi) [listen](śṛṇu) [wise-one](prājñe) [by-whom](yaiḥ) [mortal](marttyaḥ) [equal-to-me](matsamaḥ) [becomes](bhavet)
 
 ## mukta-m0-p141-v3506
-[greed+delusion](lobha+mohau) [pride+intoxication](māna+madau) [like-fire](vahni+vat) [all-destroying](sarva+nāśakāḥ)
+[greed](lobha) [delusion](moha) [pride](māna) [intoxication](mada) [like-fire](vahnivat) [all-destroying](sarvanāśakāḥ)
 
 ## mukta-m0-p141-v3507
-[from-deformed+limbness](vikṛta+aṅgatvāt) [by-harmful+and-so-on](ahita+ādibhiḥ)
+[deformed-limbs](vikṛtāṅgatvāt) [from-harmful-things](ahitādibhiḥ)
 
 ## mukta-m0-p141-v3508
-[by-eight-limb+forms](aṣṭāṅga+svarūpaiḥ) [equal-to-me](mat+samaḥ) [consisting-of-me](man+mayaḥ) [of-Śiva-form](śiva+rūpaḥ)
+[eight-limbed-form](aṣṭāṅgasvarūpaiḥ) [equal-to-me](matsamaḥ) [full-of-me](manmayaḥ) [shiva-form](śivarūpaḥ)
 
 ## mukta-m0-p141-v3509
-[from-activities](udyogebhya) [cessation](uparamaṇaṃ) [restraint](yamaḥ) [called-yama+limb](yama+ākhya+aṅgam)
+[from-efforts](udyogebhyaḥ) [cessation](uparamaṇam) [restraint](yamaḥ) [yama-named-limb](yamākhyamaṅgam)
 
 ## mukta-m0-p141-v3510
-[likewise](tathā) [of-eleven+forms](ekādaśa+rūpaḥ) [may-be](syāt) [observance](niyamaḥ) [is-declared](parikīrttitaḥ)
+[thus](tathā) [eleven-formed](ekādaśarūpaḥ) [is](syāt) [niyama](niyamaḥ) [declared](parikīrttitaḥ)
 
 ## mukta-m0-p141-v3511
-[forbearance](kṣamā) [compassion](dayā) [threefold+purity](tridhā+āśaucaṃ) [contentment](santoṣo) [service-to-guru](guru+sevanam)
+[patience](kṣamā) [compassion](dayā) [threefold-purity](tridhāśaucaṃ) [contentment](santoṣaḥ) [guru-service](gurusevanam)
 
 ## mukta-m0-p141-v3512
-[postures](āsanāni) [in-mind+steadiness+making](manaḥ+sthairyya+karaṇe) [accomplishing](sādhakāni) [indeed](vai)
+[postures](āsanāni) [steadiness-of-mind](manaḥsthairyakaraṇe) [effective](sādhakāni) [indeed](vai)
 
 ## mukta-m0-p141-v3513
-[by-outer+side+pair+touch](bāhya+pārśva+dvaya+sparśāt) [that](tat) [lotus-posture](padma+āsanam) [is-called](īritam)
+[outer-side-touch](bāhyapārśvadvayasparśāt) [that](tat) [lotus-posture](padmāsanam) [is-called](īritam)
 
 ## mukta-m0-p141-v3514
-[by-svastika+shape](svastika+ākārataḥ) [declared](proktaṃ) [that](tat) [auspicious-posture](bhadra+āsanam) [O-goddess](īśvari)
+[swastika-shaped](svastikākārataḥ) [declared](proktaṃ) [that](tat) [auspicious-posture](bhadrāsanam) [goddess](īśvari)
 
 ## mukta-m0-p141-v3515
-[in-mind+speech+body+form](manaḥ+vāk+kāya+rūpataḥ) [contentment](santoṣaḥ) [fullness](pūrṇatā)
+[mind-speech-body-form](manovākkāyarūpataḥ) [contentment](santoṣaḥ) [fullness](pūrṇatā)
 
 ## mukta-m0-p141-v3516
-[of-thighs](ūrvoḥ) [below](adhaḥ) [likewise](tathā) [above](ūrddhe) [and](ca) [in-two-ways](dvidhā) [auspicious-posture](bhadra+āsanaṃ) [is-remembered](smṛtam)
+[thighs-below-and-above](ūrvoradhastathorddhe) [twofold](dvidhā) [auspicious-posture](bhadrāsanam) [remembered](smṛtam)
 
 ## mukta-m0-p141-v3517
-[of-feet](pādayoḥ) [in-knee+region](jānu+deśe) [indeed](vai) [called-hero](vīra+ākhyaṃ) [with-yoga+strap](yoga+paṭṭataḥ)
+[feet](pādayoḥ) [knee-region](jānudeśe) [vai](vai) [hero-named](vīrākhyaṃ) [yoga-strap](yogapaṭṭataḥ)
 
 ## mukta-m0-p141-v3518
-[lightness](lāghavo) [ground+abandonment](bhū+tala+tyāga) [in-supreme](uttame) [mind+satisfaction](citta+nirvṛtiḥ)
+[lightness](lāghavaḥ) [abandoning-ground](bhūtalatyāgaḥ) [supreme](uttame) [mind-contentment](cittanirvṛtiḥ)
 
 ## mukta-m0-p141-v3519
-[all-limb+trembling](sarvva+aṅga+kampanaṃ) [declared](proktam) [from-practice](abhyāsāt) [joined-with-time](kāla+saṃyutāt)
+[whole-body-trembling](sarvvāṅgakampanaṃ) [declared](proktam) [by-practice](abhyāsāt) [with-time](kālasaṃyutāt)
 
 ## mukta-m0-p141-v3520
-[therefore](tasmāt) [one-should-practice](samabhyaset) [in-morning](prātaḥ) [and-evening](sāyañ+ca) [with-rule](niyamena) [indeed](vai)
+[therefore](tasmāt) [practice-well](samabhyaset) [morning](prātaḥ) [evening](sāyañca) [by-rule](niyamena) [indeed](vai)
 
 ## mukta-m0-p141-v3521
-[remembering](smaran) [water](ambu) [breath](marut) [afterwards](paścāt) [by-right](dakiṇena) [one-should-expel](apasārayet)
+[remembering-water](smarannambu) [air](marut) [afterwards](paścāt) [southward](dakiṇena) [remove](apasārayet)
 
 ## mukta-m0-p141-v3522
-[tradition](sampradāyaḥ) [teaching](sampradāyaḥ) [lineage](sampradāyaḥ) [transmission](sampradāyaḥ)
+[tradition](sampradāyaḥ)
 
 ## mukta-m0-p141-v3523
-[twofold](dvividhaṃ) [hero-posture](vīra+āsanaṃ) [is](bhavati) [thus](iti)
+[twofold](dvividhaṃ) [hero-posture](vīrāsanaṃ) [becomes](bhavati) [thus](iti)
 
 ## mukta-m0-p141-v3524
-[one-should-retain](dhārayet) [that](tat) [by-sixty-four](catuḥ+ṣaṣṭyā) [one-should-exhale](recayet) [that](tat) [by-fourth-part](turīyataḥ)
+[hold](dhārayet) [that](tat) [sixty-four](catuḥṣaṣṭyā) [exhale](recayet) [that](tat) [fourth](turīyataḥ)
 
 ## mukta-m0-p141-v3525
-[likewise](tadvat) [radiance+illumination](kānti+prakāśau) [and](ca) [of-yoga+accomplished-one](yoga+siddhasya) [mark](lakṣaṇam)
+[thus](tadvat) [radiance-manifestation](kāntiprakāśau) [also](ca) [yoga-siddha](yogasiddhasya) [mark](lakṣaṇam)
