@@ -2,34 +2,34 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p17-v401
-[of-that](tasyāpi) [goddess](devi) [purification](saṃskāraṃ) [I-speak](bruve) [external](bāhyam) [then](atha) [internal](antaram)
+[of-that-even](tasyāpi) [goddess](devi) [rite](saṃskāraṃ) [I-say](bruve) [external](bāhyam) [then](atha) [internal](aṃtaram)
 
 ## mukta-m0-p17-v402
-[messenger](dūtikā) [life-lord](jīvanātha) [too](api) [purification](saṃskāraṃ) [supreme-deserves](paramarhati)
+[messenger](dūtikā) [lord-of-life](jīvanātha) [even](api) [rite](saṃskāraṃ) [supreme](param) [deserves](arhati)
 
 ## mukta-m0-p17-v403
-[when](yad) [non-attachment](asaṃge) [even](api) [life-named](jīvākhye) [Shiva](śive) [plays](khelati) [fearless](nirbhayā)
+[when](yad) [non-attachment](asaṃge) [even](api) [called-jīva](jīvākhye) [in-Śiva](śive) [plays](khelati) [fearless](nirbhayā)
 
 ## mukta-m0-p17-v404
-[own-life-named](svajīvākhya) [great-lord's](maheśasya) [instrument](bādya) [vidya-obstructed](vidyāvakuṃṭhitaḥ)
+[called-self-jīva](svajīvākhya) [of-Maheśa](maheśasya) [instrument](bādya) [obscured-by-vidyā](vidyāvakuṃṭhitaḥ)
 
 ## mukta-m0-p17-v405
-[impurity-removing](malāpanodikāḥ) [however](kiṃtu) [all](samastāḥ) [worship-rites](pūjanakramāḥ)
+[impurity-removing](malāpanodikāḥ) [but](kiṃtu) [all](samastāḥ) [worship-rites](pūjanakramāḥ)
 
 ## mukta-m0-p17-v406
-[that](tat) [association-power](saṃsargavaśāt) [pure](śuddha) [self-too](svātmāpi) [impure](malinī) [becomes](bhavet)
+[that](tat) [by-contact](saṃsargavaśāt) [pure](śuddha) [even-self](svātmāpi) [impure](malinī) [becomes](bhavet)
 
 ## mukta-m0-p17-v407
-[covenant-hearing](samayaśravaṇaṃ) [her](tasyāḥ) [first](prathamaṃ) [proclaimed](parikīrtitam)
+[hearing-of-vow](samayaśravaṇaṃ) [her](tasyāḥ) [first](prathamaṃ) [declared](parikīrtitam)
 
 ## mukta-m0-p17-v408
-[small-letter](alpavarṇena) [mantra](maṃtreṇa) [fetter-burning-doing](pāśanirdahakāriṇā)
+[by-few-letters](alpavarṇena) [mantra](maṃtreṇa) [by-noose-burning](pāśanirdahakāriṇā)
 
 ## mukta-m0-p17-v409
-[not](na) [from-passion](rāgāt) [nor](na) [from-greed](lobhāt) [nor](na) [from-delusion](mohāt) [greater](mahīyasaḥ)
+[not](na) [from-passion](rāgāt) [not](na) [and](ca) [from-greed](lobhāt) [or](vā) [not](na) [and](ca) [from-delusion](mohāt) [great](mahīyasaḥ)
 
 ## mukta-m0-p17-v410
-[by-nature](prakṛtyā) [bewildered-mind](mugdhamanasaḥ) [women](striyaḥ) [truth](tatvaṃ) [not-know](na jānate)
+[by-nature](prakṛtyā) [bewildered-mind](mugdhamanasastriyaḥ) [women](striyaḥ) [truth](tatvaṃ) [not](na) [know](jānate)
 
 ## mukta-m0-p17-v411
 [sleeping](śayāḥ)
@@ -38,40 +38,40 @@
 [breast-firmness](stanottaṃbhana) [seen](dṛṣṭena) [youth](yauvanena) [intoxicated](madoddhatāḥ)
 
 ## mukta-m0-p17-v413
-[distrust](aviśvāsaḥ) [in-all](samasteṣu) [trust-not](pratyayo na) [guru-mountain](gurorgiri)
+[distrust](aviśvāsaḥ) [in-all](samasteṣu) [pratyaya](pratyayona) [of-guru](gurorgiri)
 
 ## mukta-m0-p17-v414
-[thinking](manyamānāḥ) [bad-conduct](durācārāḥ) [fall-in-hell](pataṃti narake) [women](striyaḥ)
+[thinking](manyamānāḥ) [bad-conduct](durācārāḥ) [fall](pataṃti) [in-hell](narake) [women](striyaḥ)
 
 ## mukta-m0-p17-v415
-[betel](tāṃbūlam) [anointing](anulepaṃ) [and](ca) [garment](vāsaḥ) [and](ca) [mouth-perfume](mukhavāsikā)
+[betel](tāṃbūlam) [unguent](anulepaṃ) [and](ca) [garment](vāsaṃ) [and](ca) [mouth-perfume](mukhavāsikā)
 
 ## mukta-m0-p17-v416
-[all-this](sarvam etat) [great-lord's](maheśasya) [worship-means](pūjāsādhanam) [as](yathā)
+[all](sarvam) [this](etan) [of-Maheśa](maheśasya) [worship-means](pūjāsādhanitaṃ) [as](yathā)
 
 ## mukta-m0-p17-v417
-[our-body](asmad vapuḥ) [this](idam) [worthless](tucchaṃ) [worship-means](pūjāsādhanitum) [by-wise](budhaiḥ)
+[our-body](asmadvapuridaṃ) [this](idaṃ) [worthless](tucchaṃ) [for-worship](pūjāsādhanituṃ) [by-wise](budhaiḥ)
 
 ## mukta-m0-p17-v418
-[sal-tree](sāla) [best](uttamāt) [worlds](lokān) [by-practitioner](sādhakena) [great-soul](mahātmanā)
+[best-worlds](sālabheduttamāllokān) [by-practitioner](sādhakena) [great-soul](mahātmanā)
 
 ## mukta-m0-p17-v419
-[Vishnu-world](viṣṇuloke) [Rudra-world](rudraloke) [play](krīḍaṃti) [many-delights](bahuvibhramāḥ)
+[in-Viṣṇu-world](viṣṇuloke) [in-Rudra-world](rudraloke) [play](krīḍaṃti) [many-delights](bahuvibhramāḥ)
 
 ## mukta-m0-p17-v420
-[thus-etc](ityādibhiḥ) [reasoning](yūkti) [endowed](yuktaiḥ) [words](vacanaiḥ) [scripture-concordant](śāstrasammitaiḥ)
+[by-such](ityādibhiḥ) [reasoned](yūkti) [words](vacanaiḥ) [scripture-concordant](śāstrasammitaiḥ)
 
 ## mukta-m0-p17-v421
-[bliss-Bhairavi](ānandabhairavīm) [also](ca api) [mantra](maṃtreṇa) [external](abāhya) [practitioner](sādhakaḥ)
+[bliss-Bhairavī](ānaṃdabhairavīṃ) [and-even](cāpi) [by-mantra](maṃtreṇa) [external](abāhya) [practitioner](sādhakaḥ)
 
 ## mukta-m0-p17-v422
-[triangle](tryaśre) [situated](sthitāḥ) [again](punaḥ) [worshipped](pūjyāḥ) [desire](rati) [pleasure](prīti) [love-god](manobhavāḥ)
+[in-triangle](tryaśre) [situated](sthitāḥ) [again](punaḥ) [worshipped](pūjyā) [desire](rati) [love](prīti) [mind-born](manobhavāḥ)
 
 ## mukta-m0-p17-v423
-[dravini](drāviṇī) [shoshini](śoṣiṇī) [and](ca) [binding](bandhinī) [deluding](mohinī) [thus](tathā)
+[melting](drāviṇī) [drying](śoṣiṇī) [and-thus](caivaṃ) [binding](baṃdhinī) [deluding](mohinī) [so](tathā)
 
 ## mukta-m0-p17-v424
-[five-arrowed](pañcārasyām) [movable](cale) [worshipped](pūjyāḥ) [Kamaraja-great-goddess](kāmarājomaheśvarī)
+[in-five-arrows](paṃcārasyāṃ) [movable](cale) [worshipped](pūjyāḥ) [Kāmarāja-Maheśvarī](kāmarājomaheśvarī)
 
 ## mukta-m0-p17-v425
-[love-god](manobhavaḥ) [fifth](pañcamaḥ) [and](ca) [world-agitating](jagatkṣobhakarāḥ) [these](ime)
+[mind-born](manobhavaḥ) [fifth](paṃcamaśca) [world-agitating](jagatkṣobhakarāḥ) [these](ime)

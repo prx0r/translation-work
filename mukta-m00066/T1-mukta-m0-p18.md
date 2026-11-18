@@ -2,76 +2,52 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p18-v426
-[eight](aṣṭau) [desire-powers](anaṃga+śaktayaḥ) [indeed](tu) [to-be-worshipped](pūjanīyāḥ) [by-wise](manīṣibhiḥ)
-
+anaṃga-śakti aṣṭau tu pūjanīyā manīṣibhiḥ
 ## mukta-m0-p18-v427
-[desire](anaṃga) [madana](madana) [desire](anaṃga) [with-madana-afflicted](madanāturayā) [with](saha)
-
+anaṃga-madana-anaṃga madana-āturayā saha
 ## mukta-m0-p18-v428
-[desire-garlanded](anaṃga+mālinī) [and](ca) [eight](aṣṭau) [to-be-worshipped](pūjanīyāḥ) [according-to-rite](vidhānataḥ)
-
+anaṃga-mālinī ca aṣṭau pūjanīyā vidhānataḥ
 ## mukta-m0-p18-v429
-[bliss-wheel](ānaṃda+cakra) [bliss](ānaṃda) [uproar-increasing](kolāhala+vivarddhanam)
-
+ānanda-cakra-ānanda kolāhala-vivarddhana
 ## mukta-m0-p18-v430
-[lightning-radiance](taṭit+prabhā) [shining](samullāsa) [yellowish](piṃjaraiḥ) [with-desire-rays](kāma+raśmibhiḥ)
-
+taṭit-prabhā samullāsa-piṃjaraiḥ kāma-raśmibhiḥ
 ## mukta-m0-p18-v431
-[desire-power](anaṃga+śakti) [agitation](saṃkṣobhām) [from-channels](nāḍībhyaḥ) [flowing](galitaṃ) [new](navam)
-
+anaṃga-śakti saṃkṣobhāṃ nāḍībhyaḥ-galitaṃ navam
 ## mukta-m0-p18-v432
-[erotic-flow](śṛṃgāra+vāhinī) [full](pūrṇa) [passion](rāgām) [reddish](kurāruṇam)
-
+śṛṃgāra-vāhinī-pūra pūrṇa-rāgāṃ kurāruṇam
 ## mukta-m0-p18-v433
-[love-liquid](manmatha+drava) [abundance](saṃdoha) [endowed](juṣṭam) [meaning-distinctions](artha+prabhedanaiḥ)
-
+manmatha-drava saṃdoha juṣṭam artha-prabhedanaiḥ
 ## mukta-m0-p18-v434
-[who](keyaṃ) [moon-digit](caṃdra+kalā) [named](nāma) [where](kutra) [stands](tiṣṭhati) [śaṃkara](śaṃkara)
-
+kaḥ iyam candra-kalā-nāma kutra tiṣṭhati śaṃkara
 ## mukta-m0-p18-v435
-[listen](śṛṇu) [kāma-digit](kāma+kalā) [named](nāma) [channel-enjoyment](nāḍī+bhoga) [water-carrying](aṃbu+vāhinī)
-
+śṛṇu kāma-kalā-nāma nāḍī-bhoga-ambu-vāhinī
 ## mukta-m0-p18-v436
-[channel-wheel](nāḍī+cakraṃ) [all](samastaṃ) [ca](ca) [by-her](tayā) [pervaded](vyāptaṃ) [fair-faced](varānane)
-
+nāḍī-cakraṃ samastaṃ ca tayā vyāptaṃ varānane
 ## mukta-m0-p18-v437
-[some](kāścit) [bliss-carrying](ānaṃda+vāhinyaḥ) [one](eka) [thus](evam) [impurity-carrying](malavāhinī)
-
+kāścit ānanda-vāhinya eka eva mala-vāhinī
 ## mukta-m0-p18-v438
-[eight](aṣṭau) [enjoyment-water-carrying](bhoga+aṃbu+vāhinyaḥ) [among-them](tāsu) [moon-digit](caṃdra+kalā) [supreme](parā)
-
+aṣṭau bhoga-ambu-vāhinyaḥ tāsu candra-kalā parā
 ## mukta-m0-p18-v439
-[moon-streak](caṃdra+rekhā) [moon-like](caṃdravatī) [thus](tathā) [moon-rising](caṃdra+mahodayā)
-
+candra-rekhā candra-vatī tathā candra-mahodayā
 ## mukta-m0-p18-v440
-[these](etāḥ) [enjoyment-water-carrying](bhoga+aṃbu+vāhinyaḥ) [by-own-parts](svāṃśaiḥ) [moon-digit](caṃdra+kalā) [resorted](āśritāḥ)
-
+etāḥ bhoga-ambu-vāhinyaḥ svāṃśaiḥ candra-kalā-āśritāḥ
 ## mukta-m0-p18-v441
-[principal](pradhāna+bhūtā) [shining](vilasad) [lightning-garland](vidyut+dāma) [equal-radiance](sama+prabhā)
-
+pradhāna-bhūtā vilasat-vidyut-dāma sama-prabhā
 ## mukta-m0-p18-v442
-[all-channels-root](sarva+nāḍī+mūla+bhūtaṃ) [navel-wheel](nābhi+cakraṃ) [resorted](samāśritā)
-
+sarva-nāḍī-mūla-bhūtaṃ nābhi-cakraṃ samāśritā
 ## mukta-m0-p18-v443
-[its](tan) [mouth](mukha) [opening](udghāṭanaṃ) [in-world](loke) [rare](durlabhaṃ) [supreme-goddess](parameśvari)
-
+tat-mukha-udghāṭanaṃ loke durlabhaṃ parameśvari
 ## mukta-m0-p18-v444
-[of-two-or-three](dvitrāṇām) [indeed](eva) [is-born](jāyeta) [among-thousands](sahasreṣu) [then](atha) [kaulikas](kauliṣu)
-
+dvitrāṇām eva jāyeta sahasreṣu atha kauliṣu
 ## mukta-m0-p18-v445
-[whose](yasya) [liṅga-lord](liṃga+īśvara) [union](āseka) [once](sakṛt) [or](vā) [birth](janmani)
-
+yasya liṃga-īśvara-āseka sakṛt vā api iha janmani
 ## mukta-m0-p18-v446
-[of-ineffable](anirvācyasya) [liberation](nirvāṇa) [path](padavī) [unbounded](nadaviyasī)
-
+anirvācyasya nirvāṇa padavī na daviyasī
 ## mukta-m0-p18-v447
-[of-convention](samayasya) [knowledge](parijñānāt) [from-observance](upacārasya) [conception](kalpanāt)
-
+samayasya parijñānāt upacārasya kalpanāt
 ## mukta-m0-p18-v448
-[sometimes](kadācit) [somewhere](kvacid) [opening](unmeṣaṃ) [mouth-opening-mark](mukhodghāṭana+lakṣaṇam)
-
+kadācit kvacid unmeṣaṃ mukha-udghāṭana-lakṣaṇam
 ## mukta-m0-p18-v449
-[for-that-purpose](tadarthāni) [indeed](eva) [scriptures](śāstrāṇi) [for-that-purpose](tadarthāḥ) [ca](ca) [activities](pravṛttayaḥ)
-
+tad-arthāni eva śāstrāṇi tad-arthāḥ ca pravṛttayaḥ
 ## mukta-m0-p18-v450
-[therefore](tasmāt) [moon-digit-channel](caṃdra+kalā+nāḍyām) [enjoyment-nectar-ocean](bhoga+amṛta+mahodadhim)
+tasmāt candra-kalā-nāḍyāṃ bhoga-amṛta-mahodadhim
