@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p39-v951
-[vetāla+śākinī+gṛdhra+kākolūka+śivā+ākulā](vetālaśākinīgṛdhrakākolūkaśivākulā)
+[vetalas](vetāla) [shakinis](śākinī) [vultures](gṛdhra) [owls](kākolūka) [jackals](śivā) [crowded](ākulā)
 
 ## mukta-m0-p39-v952
-[ādya+aṣṭakam+idam+khyātam+śeṣa+bhedaḥ+tu+vistaraḥ](ādyāṣṭakamidaṃ khyātaṃ śeṣabhedastu vistaraḥ)
+[first-eight](ādyāṣṭakam) [this](idaṃ) [called](khyātaṃ) [remaining-difference](śeṣabhedas) [but](tu) [detail](vistaraḥ)
 
 ## mukta-m0-p39-v953
-[danturā+akṣemakarī+syāt+bhūmau+jānu+karā+sthitā](danturākṣemakarī syādbhūmau jānukarāsthitā)
+[danturā](danturā) [akṣemakarī](akṣemakarī) [syāt](syāt) [on-earth](bhūmau) [knee-hand](jānukarā) [standing](sthitā)
 
 ## mukta-m0-p39-v954
-[eṅgā+hāsyā+mahodaryo+rūpiṇyo+apsarasaḥ+sadā](eṅgā (?) hāsyā mahodaryo rūpiṇyo'psarasaḥ sadā)
+[eṅgā](eṅgā) [laughing](hāsyā) [great-bellied](mahodaryo) [formed](rūpiṇyo) [apsaras](apsarasaḥ) [always](sadā)
 
 ## mukta-m0-p39-v955
-[yogeśvara+uratha+vīraḥ+ca+ardhacandra+āsane+sthitaḥ](yogeśvaroratha vīraśca ardhacandrāsane sthitaḥ)
+[yoga-lord](yogeśvaro) [chariot](ratha) [hero](vīraś) [ca](ca) [half-moon-seat](ardhacandrāsane) [standing](sthitaḥ)
 
 ## mukta-m0-p39-v956
-[badhdvā+vinyasya+hṛdaye+athavā+uttāna+kara+dvayam](badhdvā vinyasya hṛdaye'thavottānakaradvayam)
+[binding](badhdvā) [placing](vinyasya) [heart](hṛdaye) [or](athavā) [upturned-hands](uttānakaradvayam)
 
 ## mukta-m0-p39-v957
-[pracaṇḍo+daṇḍadhārī+ca+kāryaḥ+caṇḍeśvaraḥ+mahān](pracaṇḍo daṇḍadhārī ca kāryaścaṇḍeśvaro mahān)
+[fierce](pracaṇḍo) [staff-bearer](daṇḍadhārī) [ca](ca) [work](kāryaś) [caṇḍeśvara](caṇḍeśvaro) [great](mahān)
 
 ## mukta-m0-p39-v958
-[mahodaraḥ+vṛhaddehaḥ+ekadantaḥ+trilocanaḥ](mahodaro vṛhaddeha ekadantastrilocanaḥ)
+[great-bellied](mahodaro) [large-body](vṛhaddeha) [one-tusk](ekadantaḥ) [three-eyed](trilocanaḥ)
 
 ## mukta-m0-p39-v959
-[divya+ambara+dharaḥ+kāryaḥ+nāga+yajñopavītavān](divyāmbaradharaḥ kāryo nāgayajñopavītavān)
+[divine-garment](divyāmbaradharaḥ) [to-be-made](kāryo) [snake-sacrificial-cord](nāgayajñopavītavān)
 
 ## mukta-m0-p39-v960
-[ṣoḍaśa+aṅgulakam+dairghyāt+śuṇḍam+ṣaḍtriṃśat+aṅgulam](ṣoḍaśāṅgulakaṃ dairghyācchuṇḍaṃ ṣaḍtriṃśadaṅgulam)
+[sixteen-angulas](ṣoḍaśāṅgulakaṃ) [in-length](dairghyāt) [trunk](śuṇḍaṃ) [thirty-six-angulas](ṣaḍtriṃśadaṅgulam)
 
 ## mukta-m0-p39-v961
-[pīnaḥ+samunnata+uraskaḥ+kartavyaḥ+gaṇanāyakaḥ](pīnaḥ samunnatoraskaḥ kartavyo gaṇanāyakaḥ)
+[stout](pīnaḥ) [raised-chest](samunnatoraskaḥ) [to-be-made](kartavyo) [troop-leader](gaṇanāyakaḥ)
 
 ## mukta-m0-p39-v962
-[kaṇṭha+guhayā+antaram+kāryam+samaṃ+dvātriṃśat+aṅgulam](kaṇṭhaguhayāntaraṃ kāryaṃ samaṃ dvātriṃśadaṅgulam)
+[neck-cavity](kaṇṭhaguhayā) [between](antaraṃ) [to-be-made](kāryaṃ) [equal](samaṃ) [thirty-two-angulas](dvātriṃśadaṅgulam)
 
 ## mukta-m0-p39-v963
-[mastakam+niviḍam+vyastam+vāma+kumbha+samunnatam](mastakaṃ niviḍaṃ vyastaṃ vāma [mū, a: vāta] kumbhasamunnatam)
+[head](mastakaṃ) [compact](niviḍaṃ) [spread](vyastaṃ) [left](vāma) [pot-raised](kumbhasamunnatam)
 
 ## mukta-m0-p39-v964
-[randhram+randhra+aṅgulau+kumbhau+tat+madhye+sūtra+mānataḥ](randhraṃ randhrāṅgulau kumbhau tanmadhye sūtramānataḥ)
+[hole](randhraṃ) [hole-angula](randhrāṅgulau) [pots](kumbhau) [between-them](tanmadhye) [thread-measure](sūtramānataḥ)
 
 ## mukta-m0-p39-v965
-[ekaikam+hrāsa+yogena+yāvat+veda+aṅgula+sthitiḥ](ekaikaṃ hrāsayogena yāvadvedāṅgulasthitiḥ)
+[one-by-one](ekaikaṃ) [reduction-yoga](hrāsayogena) [until](yāvat) [veda-angula](vedāṅgulasthitiḥ)
 
 ## mukta-m0-p39-v966
-[pañca+tāla+pradairghyaṃ+ca+catuḥ+tāla+viveśanam](p. 115) pañcatālapradairghyaṃ ca [k, kh: pradairghyāṅga] catustālaviveśanam)
+[five-tāla-length](pañcatālapradairghyaṃ) [ca](ca) [four-tāla-entry](catustālaviveśanam)
 
 ## mukta-m0-p39-v967
-[sva+dantam+dakṣiṇe+pāṇau+vāma+haste+ca+laḍḍukam](svadantaṃ [g: sudaṇḍaṃ] dakṣiṇe pāṇau vāmahaste ca laḍḍukam)
+[own-tusk](svadantaṃ) [right-hand](dakṣiṇe) [pāṇau](pāṇau) [left-hand](vāmahaste) [ca](ca) [modaka](laḍḍukam)
 
 ## mukta-m0-p39-v968
-[gaṇeśa+lakṣaṇam+proktam+catur+hastam+tu+na+anyathā](gaṇeśalakṣaṇaṃ proktaṃ caturhastaṃ tu nānyathā [k, kh: stvato'nyathā; gh: tathānyathā])
+[gaṇeśa-marks](gaṇeśalakṣaṇaṃ) [declared](proktaṃ) [four-handed](caturhastaṃ) [tu](tu) [not-otherwise](nānyathā)
 
 ## mukta-m0-p39-v969
-[bhujābhyām+adhikam+kuryāt+ṣaḍbhujam+pūrvavat+ca+tam](bhujābhyāmadhikaṃ kuryātṣaḍbhujaṃ pūrvavacca tam [g: dvṛtam])
+[arms](bhujābhyām) [more](adhikaṃ) [make](kuryāt) [six-armed](ṣaḍbhujaṃ) [as-before](pūrvavac) [ca](ca) [tam](tam)
 
 ## mukta-m0-p39-v970
-[vāmam+ca+abhayadam+hastam+śubham+ca+aṣṭa+bhuja+anvitam](vāmaṃ cābhayadaṃ hastaṃ śubhaṃ cāṣṭabhujānvitam)
+[left](vāmaṃ) [ca](ca) [fearless-hand](abhayadaṃ) [hastaṃ](hastaṃ) [auspicious](śubhaṃ) [ca](ca) [eight-armed](aṣṭabhujānvitam)
 
 ## mukta-m0-p39-v971
-[padma+adhastāt+tu+kartavyaḥ+mahākhu+ca+āru+rūpavān](padmādhastāttu kartavyo mahākhu [mū, a, g, gh: mahokṣa] ścārurūpavān)
+[lotus-below](padmādhastāt) [tu](tu) [to-be-made](kartavyo) [great-rat](mahākhu) [ca](ca) [beautiful-form](ārurūpavān)
 
 ## mukta-m0-p39-v972
-[ṣaḍbhujah+ca+aṣṭabāhuḥ+ca+prahṛṣṭaḥ+tāṇḍava+ākulaḥ](ṣaḍbhujaścāṣṭabāhuśca prahṛṣṭastāṇḍavākulaḥ)
+[six-armed](ṣaḍbhujaś) [ca](ca) [eight-armed](aṣṭabāhuś) [ca](ca) [delighted](prahṛṣṭas) [tāṇḍava-crowded](tāṇḍavākulaḥ)
 
 ## mukta-m0-p39-v973
-[ādyam+sitam+gṛhe+abhīṣṭam+trividham+sura+mandire](ādyaṃ sitaṃ gṛhe'bhīṣṭaṃ trividhaṃ suramandire)
+[first](ādyaṃ) [white](sitaṃ) [in-house](gṛhe) [desired](abhīṣṭaṃ) [threefold](trividhaṃ) [in-temple](suramandire)
 
 ## mukta-m0-p39-v974
-[bhujaiḥ+dvādaśabhiḥ+yuktaḥ+skandaḥ+mukhyaḥ+surūpakaḥ](bhujairdvādaśabhiryuktaḥ skando mukhyaḥ surūpakaḥ)
+[twelve-armed](bhujairdvādaśabhir) [yuktaḥ](yuktaḥ) [skanda](skando) [chief](mukhyaḥ) [well-formed](surūpakaḥ)
 
 ## mukta-m0-p39-v975
-[śāntyā+ca+dakṣiṇe+haste+ṣaḍbhiḥ+vāma+kare+tathā](śāntyā ca dakṣiṇe haste ṣaḍbhirvāmakare tathā)
+[peace](śāntyā) [ca](ca) [right-hand](dakṣiṇe) [haste](haste) [six](ṣaḍbhir) [left-hand](vāmakare) [tathā](tathā)
