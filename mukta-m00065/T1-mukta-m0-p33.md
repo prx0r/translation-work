@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p33-v801
-[hara's](harasya) [thus](evaṃ) [would-be](bhaved) [worship](arcā) [place](sthāne) [place](sthāne) [fruit-giving](phalapradā)
+[of-hara](harasyaivaṃ) [thus](bhavedarcā) [place](sthāne) [place](sthāne) [fruit-giving](phalapradā)
 
 ## mukta-m0-p33-v802
-[frowning-terrifying](bhrukuṭībhīṣaṇaṃ) [dark](kṛṣṇaṃ) [licking](lelihānaṃ) [and](ca) [tusked](draṃṣṭriṇam)
+[frowning-terrifying](bhrukuṭībhīṣaṇaṃ) [black](kṛṣṇaṃ) [licking](lelihānaṃ) [and](ca) [fanged](draṃṣṭriṇam)
 
 ## mukta-m0-p33-v803
-[snake-sacred-thread](nāgopavītinaṃ) [blazing](dīptaṃ) [snake-ornament-adorned](nāgābharaṇabhūṣitam)
+[snake-sacred-threaded](nāgopavītinaṃ) [shining](dīptaṃ) [snake-ornament-adorned](nāgābharaṇabhūṣitam)
 
 ## mukta-m0-p33-v804
-[fourteen-armed-one-faced](caturdaśakaraikāsyaṃ) [gentle](saumyaṃ) [tiger-skin-garment](vyāghrājināmbaram)
+[fourteen-armed](caturdaśakaraikāsyaṃ) [gentle](saumyaṃ) [tiger-skin-garmented](vyāghrājināmbaram)
 
 ## mukta-m0-p33-v805
-[skull-staff](khaṭvāṅgaṃ) [shield](kheṭakaṃ) [noose](pāśaṃ) [bow-abhaya-skull-cup](cāpābhayakapālakam)
+[skull-staff](khaṭvāṅgaṃ) [shield](kheṭakaṃ) [noose](pāśaṃ) [bow-abhaya-skull](cāpābhayakapālakam)
 
 ## mukta-m0-p33-v806
-[with-mother-beings](mātṛbhūtānvitaṃ) [should-make](kuryāt) [bhairava](bhairavaṃ) [peace-making](śāntikārakam)
+[mother-beings-accompanied](mātṛbhūtānvitaṃ) [make](kuryād) [bhairava](bhairavaṃ) [peace-causing](śāntikārakam)
 
 ## mukta-m0-p33-v807
-[should-make](kuryāt) [aghora-ghaṇṭeśa](aghoraghaṇṭeśaṃ) [two-eight-armed-adorned](dviraṣṭabhujamaṇḍitam)
+[make](kuryād) [aghora-ghanta-lord](aghoraghaṇṭeśaṃ) [eighteen-armed-adorned](dviraṣṭabhujamaṇḍitam)
 
 ## mukta-m0-p33-v808
-[seated](upaviṣṭaṃ) [always](sadā) [dark](kṛṣṇaṃ) [all-desires-giving](sarvakāmapradāyakam)
+[seated](upaviṣṭaṃ) [always](sadā) [black](kṛṣṇaṃ) [all-desires-giving](sarvakāmapradāyakam)
 
 ## mukta-m0-p33-v809
-[eighteen-armed](aṣṭādaśabhujaṃ) [should-make](kuryāt) [boon-abhaya](varadābhaya) [except](varjitam)
+[eighteen-armed](aṣṭādaśabhujaṃ) [make](kuryād) [boon-fear](varadābhaya) [g: your-fear](bhavadābhaya) [devoid](varjitam)
 
 ## mukta-m0-p33-v810
-[bell](ghṇṭāṃ) [drum](ḍamarukaṃ) [and](ca) [indeed](eva) [axe](kuṭhāraṃ) [hammer](mudgaraṃ) [thus](tathā)
+[bell](ghṇṭāṃ) [drum](ḍamarukaṃ) [and](ca) [indeed](eva) [axe](kuṭhāraṃ) [hammer](mudgaraṃ) [k,g: mudgala](mudgalaṃ) [likewise](tathā)
 
 ## mukta-m0-p33-v811
-[all-enemies-destroying](sarvaśatruharaṃ) [always](nityaṃ) [by-mothers](mātṛbhiḥ) [surrounded](parivāritam)
+[all-enemies-removing](sarvaśatruharaṃ) [eternal](nityaṃ) [mothers](mātṛbhiḥ) [surrounded](parivāritam)
 
 ## mukta-m0-p33-v812
-[tiger-skin-garment](vyāghrājināṃśuka) [gentle](saumyaṃ) [snake-sacrificial-thread](nāgayajñopavītinam)
+[tiger-skin-garment](vyāghrājināṃśuka) [gentle](saumyaṃ) [snake-sacrificial-threaded](nāgayajñopavītinam)
 
 ## mukta-m0-p33-v813
-[southern](yāmye) [gentle](saumye) [and](ca) [bearing](bibhrāṇa) [two](dvābhyāṃ) [exposition](vyākhyānakaṃ) [thus](tathā)
+[right](yāmye) [gentle](saumye) [and](ca) [holding](bibhrāṇa) [two](dvābhyāṃ) [explanation](vyākhyānakaṃ) [likewise](tathā)
 
 ## mukta-m0-p33-v814
-[white](gauraṃ) [white-garment](sitāmbaraṃ) [peaceful](śāntaṃ) [water-pot-endowed](kamaṇḍalusamanvitam)
+[golden](gauraṃ) [white-garmented](sitāmbaraṃ) [peaceful](śāntaṃ) [water-pot-accompanied](kamaṇḍalusamanvitam)
 
 ## mukta-m0-p33-v815
-[nectar-scripture-hand](amṛtāgamahastaṃ) [and](ca) [should-make](kuryāt) [at-sides](tatpārśvayoḥ) [always](sadā)
+[amrita-agama-hand](amṛtāgamahastaṃ) [and](ca) [make](kuryāt) [its-sides](tatpārśvayoḥ) [always](sadā)
 
 ## mukta-m0-p33-v816
-[half-moon-seat-seated](ardhacandrāsanāsīnaṃ) [white-lotus-middle](śvetarājīvamadhyagam)
+[half-moon-seat-seated](ardhacandrāsanāsīnaṃ) [white-lotus-middle-gone](śvetarājīvamadhyagam)
 
 ## mukta-m0-p33-v817
-[divine-lion-throne-seated](divyasiṃhāsanāsīnaṃ) [by-brahma-etc](brahmādyaiḥ) [surrounded](parivāritam)
+[divine-lion-seat-seated](divyasiṃhāsanāsīnaṃ) [brahma-etc](brahmādyaiḥ) [surrounded](parivāritam)
 
 ## mukta-m0-p33-v818
-[skull-garland](kapālamālinaṃ) [white](śvetaṃ) [yoga-posture](yogāsanaṃ) [lotus-seated](kajasthitam)
+[skull-garlanded](kapālamālinaṃ) [white](śvetaṃ) [yoga-seat](yogāsanaṃ) [lotus-situated](kajasthitam)
 
 ## mukta-m0-p33-v819
-[trident](triśūlaṃ) [rosary](cākṣasūtraṃ) [and](ca) [bearing](bibhrāṇaṃ) [right](dakṣiṇe) [hand](kare)
+[trident](triśūlaṃ) [and](ca) [rosary](akṣasūtraṃ) [kh,gh: but](tu) [holding](bibhrāṇaṃ) [right](dakṣiṇe) [hand](kare)
 
 ## mukta-m0-p33-v820
-[should-make](kuryāt) [mṛtyuñjaya](mṛtyuñjayaṃ) [god](devaṃ) [death-disease-destroying](mṛtyurogavināśakam)
+[make](kuryān) [mrityunjaya](mṛtyuñjayaṃ) [god](devaṃ) [death-disease-destroying](mṛtyurogavināśakam) [mū,a,g: -shana](-śanam)
 
 ## mukta-m0-p33-v821
-[left-side](vāmāṅge) [woman](lalanā) [should-be-made](kāryā) [woman-ornament-endowed](yoṣidābharaṇānvitā)
+[left-side](vāmāṅge) [woman](lalanā) [should-be](kāryā) [woman-ornament-accompanied](yoṣidābharaṇānvitā)
 
 ## mukta-m0-p33-v822
-[īśa](īśe) [trident](śūlaṃ) [skull](kapālaṃ) [and](ca) [left](vāme) [japa](jāpyam) [then](atha) [lotus](utpalam)
+[isha](īśe) [trident](śūlaṃ) [skull](kapālaṃ) [and](ca) [left](vāme) [japa](jāpyam) [then](atha) [lotus](utpalam)
 
 ## mukta-m0-p33-v823
-[earring-adorned](kuṇḍalālaṅkṛtaḥ) [gentle](saumyo) [two-armed](dvibhujo) [two-tiger-skin-bearing](dvipicarmabhṛt)
+[earring-adorned](kuṇḍalālaṅkṛtaḥ) [gentle](saumyo) [two-armed](dvibhujo) [two-skin-bearing](dvipicarmabhṛt)
 
 ## mukta-m0-p33-v824
-[mutually-looking](mithaḥ) [faces](saṃvīkṣyamāṇāsyo) [right-hand-held-lotus](yāmyahastasthitotpalaḥ)
+[mutually](mithaḥ) [looking-faced](saṃvīkṣyamāṇāsyo) [right-hand-situated-lotus](yāmyahastasthitotpalaḥ)
 
 ## mukta-m0-p33-v825
-[should-be-done](vidheyaḥ) [by-scripture-knowers](śāstravidvadbhir) [upright-linga](ūrdhvaliṅga) [umeśvara](umeśvaraḥ)
+[to-be-done](vidheyaḥ) [scripture-knowers](śāstravidvadbhiḥ) [upward-linga](ūrdhvaliṅga) [uma-lord](umeśvaraḥ)

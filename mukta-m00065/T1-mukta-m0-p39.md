@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p39-v951
-[vetāla-śākinī-gṛdhra-kākola-ulūka-śiva-ākula](vetālaśākinīgṛdhrakākolūkaśivākulā)
+[vetaala+shaakinii+gRdhra+kaakoluu+ka+shiva+aakula](vetālaśākinīgṛdhrakākolūkaśivākulā)
 
 ## mukta-m0-p39-v952
-[ādya-aṣṭakam-idam](ādyāṣṭakamidaṃ) [khyātam](khyātaṃ) [śeṣa-bhedaḥ-tu](śeṣabhedastu) [vistaraḥ](vistaraḥ)
+[aadya+aShTakam+idam+khyatam+sheSha+bhedaH+tu+vistaraH](ādyāṣṭakamidaṃ khyātaṃ śeṣabhedastu vistaraḥ)
 
 ## mukta-m0-p39-v953
-[danturā-akṣemakarī](danturākṣemakarī) [syāt](syāt) [bhūmau](bhūmau) [jānu-kara-asthitā](jānukarāsthitā)
+[danturaa+aakShemakarii+syaat+bhuumau+jaanu+karaa+asthitaa](danturākṣemakarī syādbhūmau jānukarāsthitā)
 
 ## mukta-m0-p39-v954
-[eṅgā](eṅgā) [hāsyā](hāsyā) [mahodaryo](mahodaryo) [rūpiṇyo-apsarasaḥ](rūpiṇyo'psarasaḥ)
+[eNgaahaa+hasyaa+mahodaryo+ruupiNyo+apsarasaH](eṅgā (?) hāsyā mahodaryo rūpiṇyo'psarasaḥ)
 
 ## mukta-m0-p39-v955
-[yogeśvara-uratha](yogeśvaroratha) [vīraḥ-ca](vīraśca) [ardhacandra-āsane](ardhacandrāsane) [sthitaḥ](sthitaḥ)
+[yogeshvara+uratha+viiraH+ca+ardhachandra+aasane+sthitaH](yogeśvaroratha vīraśca ardhacandrāsane sthitaḥ)
 
 ## mukta-m0-p39-v956
-[badhdvā](badhdvā) [vinyasya](vinyasya) [hṛdaye-athavā](hṛdaye'thavā) [uttāna-kara-dvayam](uttānakaradvayam)
+[badhdvaa+vinyasya+hRdaye+athavaa+uttana+kara+dvayam](badhdvā vinyasya hṛdaye'thavottānakaradvayam)
 
 ## mukta-m0-p39-v957
-[pracaṇḍaḥ](pracaṇḍo) [daṇḍa-dhārī](daṇḍadhārī) [ca](ca) [kārya-ścaṇḍeśvaraḥ](kāryaścaṇḍeśvaro) [mahān](mahān)
+[pracaNDaH+daNDadhaarii+ca+kaaryaH+caNDe+shvaraH+mahaan](pracaṇḍo daṇḍadhārī ca kāryaścaṇḍeśvaro mahān)
 
 ## mukta-m0-p39-v958
-[mahodaraḥ](mahodaro) [vṛhad-dehaḥ](vṛhaddeha) [eka-dantaḥ](ekadantaḥ) [tri-locanaḥ](trilocanaḥ)
+[mahodaraH+vRhaddehaH+ekadantaH+trilocanaH](mahodaro vṛhaddeha ekadantastrilocanaḥ)
 
 ## mukta-m0-p39-v959
-[divya-ambara-dharaḥ](divyāmbaradharaḥ) [kāryaḥ](kāryo) [nāga-yajña-upavītavān](nāgayajñopavītavān)
+[divya+ambara+dharaH+kaaryo+naaga+yajna+upaviitavaan](divyāmbaradharaḥ kāryo nāgayajñopavītavān)
 
 ## mukta-m0-p39-v960
-[ṣoḍaśa-aṅgulakam](ṣoḍaśāṅgulakaṃ) [dairghyāt](dairghyācchuṇḍaṃ) [ṣaḍ-triṃśat-aṅgulam](ṣaḍtriṃśadaṅgulam)
+[ShoDasha+angulakam+dairghyaat+shuNDam+ShaT+triMshat+angulam](ṣoḍaśāṅgulakaṃ dairghyācchuṇḍaṃ ṣaḍtriṃśadaṅgulam)
 
 ## mukta-m0-p39-v961
-[pīnaḥ](pīnaḥ) [samunnata-uraskaḥ](samunnatoraskaḥ) [kartavyaḥ](kartavyo) [gaṇa-nāyakaḥ](gaṇanāyakaḥ)
+[piinaH+samunnata+uraskaH+kartavyo+gaNa+naayakaH](pīnaḥ samunnatoraskaḥ kartavyo gaṇanāyakaḥ)
 
 ## mukta-m0-p39-v962
-[kaṇṭha-guhayā-antaram](kaṇṭhaguhayāntaraṃ) [kāryam](kāryaṃ) [samam](samaṃ) [dvā-triṃśat-aṅgulam](dvātriṃśadaṅgulam)
+[kaNTha+guhaa+antaram+kaaryam+samaM+dvaa+triMshat+angulam](kaṇṭhaguhayāntaraṃ kāryaṃ samaṃ dvātriṃśadaṅgulam)
 
 ## mukta-m0-p39-v963
-[mastakam](mastakaṃ) [niviḍam](niviḍaṃ) [vyastam](vyastaṃ) [vāma-kumbha-samunnatam](vāmakumbhasamunnatam)
+[mastakam+niviDam+vyastaM+vaama+kumbha+samunnatam](mastakaṃ niviḍaṃ vyastaṃ vāma [mū, a: vāta] kumbhasamunnatam)
 
 ## mukta-m0-p39-v964
-[randhram](randhraṃ) [randhra-aṅgulau](randhrāṅgulau) [kumbhau](kumbhau) [tan-madhye](tanmadhye) [sūtra-mānataḥ](sūtramānataḥ)
+[randhram+randhra+angulau+kumbhau+tanmadhye+sUtra+maanataH](randhraṃ randhrāṅgulau kumbhau tanmadhye sūtramānataḥ)
 
 ## mukta-m0-p39-v965
-[eka-ekam](ekaikaṃ) [hrāsa-yogena](hrāsayogena) [yāvat](yāvad) [veda-aṅgula-sthitiḥ](vedāṅgulasthitiḥ)
+[ekaikam+hraasayogena+yaavat+veda+angula+sthitiH](ekaikaṃ hrāsayogena yāvadvedāṅgulasthitiḥ)
 
 ## mukta-m0-p39-v966
-[pañca-tāla-pradairghyaṃ](pañcatālapradairghyaṃ) [ca](ca) [catuḥ-tāla-viveśanam](catustālaviveśanam)
+[pa~ncha+taala+pradairghyaM+ca+catuH+taala+viveshanam](p. 115) pañcatālapradairghyaṃ ca [k, kh: pradairghyāṅga] catustālaviveśanam)
 
 ## mukta-m0-p39-v967
-[sva-dantam](svadantaṃ) [dakṣiṇe](dakṣiṇe) [pāṇau](pāṇau) [vāma-haste](vāmahaste) [ca](ca) [laḍḍukam](laḍḍukam)
+[svadantam+dakShiNe+paaNau+vaamahaste+ca+laDDukam](svadantaṃ [g: sudaṇḍaṃ] dakṣiṇe pāṇau vāmahaste ca laḍḍukam)
 
 ## mukta-m0-p39-v968
-[gaṇeśa-lakṣaṇam](gaṇeśalakṣaṇaṃ) [proktam](proktaṃ) [catur-hastam](caturhastaṃ) [tu](tu) [nānyathā](nānyathā)
+[gaNesha+lakShaNam+proktam+caturhastam+tu+na+anyathaa](gaṇeśalakṣaṇaṃ proktaṃ caturhastaṃ tu nānyathā [k, kh: stvato'nyathā; gh: tathānyathā])
 
 ## mukta-m0-p39-v969
-[bhujābhyām-adhikam](bhujābhyāmadhikaṃ) [kuryāt](kuryāt) [ṣaḍ-bhujam](ṣaḍbhujam) [pūrvavat-ca](pūrvavacca) [tam](tam)
+[bhujaabhyaam+adhikam+kuryaat+ShaDbhujam+puurvavat+ca+tam](bhujābhyāmadhikaṃ kuryātṣaḍbhujaṃ pūrvavacca tam [g: dvṛtam])
 
 ## mukta-m0-p39-v970
-[vāmam](vāmaṃ) [ca-abhaya-dam](cābhayadaṃ) [hastam](hastam) [śubham](śubhaṃ) [ca-aṣṭa-bhuja-anvitam](cāṣṭabhujānvitam)
+[vaamam+ca+abhayadam+hastam+shubham+ca+aShTabhuja+anvitam](vāmaṃ cābhayadaṃ hastaṃ śubhaṃ cāṣṭabhujānvitam)
 
 ## mukta-m0-p39-v971
-[padmā-adhastāt-tu](padmādhastāttu) [kartavyaḥ](kartavyo) [mahā-khu](mahākhu) [śca-āru-rūpavān](ścārurūpavān)
+[padma+adhastaat+tu+kartavyo+mahaakhu+ca+aru+ruupavaan](padmādhastāttu kartavyo mahākhu [mū, a, g, gh: mahokṣa] ścārurūpavān)
 
 ## mukta-m0-p39-v972
-[ṣaḍ-bhujaḥ-ca-aṣṭa-bāhuḥ-ca](ṣaḍbhujaścāṣṭabāhuśca) [prahṛṣṭaḥ](prahṛṣṭastāṇḍavākulaḥ) [tāṇḍava-ākulaḥ](tāṇḍavākulaḥ)
+[ShaDbhujaH+ca+aShTabaahuH+ca+prahRShTaH+taaNDava+aakulaH](ṣaḍbhujaścāṣṭabāhuśca prahṛṣṭastāṇḍavākulaḥ)
 
 ## mukta-m0-p39-v973
-[ādyam](ādyaṃ) [sitam](sitaṃ) [gṛhe-abhīṣṭam](gṛhe'bhīṣṭaṃ) [tri-vidham](trividhaṃ) [sura-mandire](suramandire)
+[aadyam+sitam+gRhe+abhiiShTam+trividham+sura+mandire](ādyaṃ sitaṃ gṛhe'bhīṣṭaṃ trividhaṃ suramandire)
 
 ## mukta-m0-p39-v974
-[bhujaiḥ-dvādaśabhiḥ-yuktaḥ](bhujairdvādaśabhiryuktaḥ) [skandaḥ](skando) [mukhyaḥ](mukhyaḥ) [surūpakaḥ](surūpakaḥ)
+[bhujaire+dvadashabhiH+yuktaH+skandaH+mukhyaH+suruupakaH](bhujairdvādaśabhiryuktaḥ skando mukhyaḥ surūpakaḥ)
 
 ## mukta-m0-p39-v975
-[śāntyā](śāntyā) [ca](ca) [dakṣiṇe](dakṣiṇe) [haste](haste) [ṣaḍbhiḥ-vāma-kare](ṣaḍbhirvāmakare) [tathā](tathā)
+[shaantyaa+ca+dakShiNe+haste+ShaDbhiH+vaamakare+tathaa](śāntyā ca dakṣiṇe haste ṣaḍbhirvāmakare tathā)
