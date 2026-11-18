@@ -5,7 +5,7 @@
 [sacrifice+knowledge](yajñavidyā)
 
 ## mukta-m0-p28-v677
-[sacrifices](yajati) [by-breath-sacrifice+and-others](prāṇayajñādyaiḥ) [someone](ko'pi) [skill+merit+possessing](naipuṇyapuṇyabhāk)
+[sacrifices](yajati) [by-breath+sacrifice+and-others](prāṇayajñādyaiḥ) [someone](ko'pi) [skill+merit+possessing](naipuṇyapuṇyabhāk)
 
 ## mukta-m0-p28-v678
 [great+illusion](mahāmāyā)
@@ -29,7 +29,7 @@
 [firmness](dhṛtiḥ)
 
 ## mukta-m0-p28-v685
-[of-the-accomplished](kṛtināṃ) [own](svaṃ) [which+having-resorted-to](yadāśrityā) [firmness+obtainable](dhṛtirlabhyā) [how](kathaṃ) [by-the-fickle](calaiḥ)
+[of-the-virtuous](kṛtināṃ) [own](svaṃ) [which+having-resorted-to](yadāśrityā) [firmness+obtainable](dhṛtirlabhyā) [how](kathaṃ) [by-the-fickle](calaiḥ)
 
 ## mukta-m0-p28-v686
 [love](prītiḥ)
@@ -47,7 +47,7 @@
 [well-known](prasiddhā)
 
 ## mukta-m0-p28-v691
-[own+single+body+indeed+here](nijaikavapuṣaiveha) [well-known](prasiddhā) [success+giving+may-be](siddhidāstu) [to-us](naḥ)
+[own+single+body+indeed+here](nijaikavapuṣaiveha) [well-known](prasiddhā) [success+giving+let-be](siddhidāstu) [to-us](naḥ)
 
 ## mukta-m0-p28-v692
 [Mṛḍānī](mṛḍānī)
@@ -56,10 +56,10 @@
 [fame](kīrtiṃ) [everywhere](sarvatra) [that+certainly](tannūnaṃ) [Mṛḍānī+union+dignity](mṛḍānīsaṅgagauravam)
 
 ## mukta-m0-p28-v694
-[Vindhya-dweller](vindhyavāsinī)
+[Vindhya+dweller](vindhyavāsinī)
 
 ## mukta-m0-p28-v695
-[unbounded](abandhuraṃ) [very+difficult+bond](sudurbandhaṃ) [cut](chindhi) [you](tvaṃ) [Vindhya-dweller](vindhyavāsinī)
+[without-support](abandhuraṃ) [very+difficult+bond](sudurbandhaṃ) [cut](chindhi) [you](tvaṃ) [Vindhya+dweller](vindhyavāsinī)
 
 ## mukta-m0-p28-v696
 [accomplished+knowledge](siddhavidyā)
@@ -71,7 +71,7 @@
 [great+power](mahāśaktiḥ)
 
 ## mukta-m0-p28-v699
-[this](idaṃ) [how](kathaṃ) [great+power+attachment](mahāśaktisaktiḥ) [lord-of-beings+not](paśupatirna) [if](cet)
+[this](idaṃ) [how](kathaṃ) [great+power+attachment](mahāśaktisaktiḥ) [Paśupati+not](paśupatirna) [if](cet)
 
 ## mukta-m0-p28-v700
 [earth](pṛthvī)

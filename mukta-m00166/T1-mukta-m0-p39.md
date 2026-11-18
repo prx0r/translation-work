@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p39-v951
-[battle-desiring](yuddhakāṃkṣiṇī)
+[battle](yuddhakāṃkṣiṇī) [desiring](yuddhakāṃkṣiṇī) [feminine](yuddhakāṃkṣiṇī) [nominative](yuddhakāṃkṣiṇī)
 
 ## mukta-m0-p39-v952
-[they-should-abandon](tyajeyus) [you](tvaṃ) [not](na) [if](cet) [fainting-causing](mūrcchā+kartrī) [she-would-be](syāt) [battle-desiring](yuddhakāṃkṣiṇī)
+[they-would-abandon](tyajeyustvaṃ) [if-not](na) [fainting-causing](mūrcchākartrī) [battle-desiring](yuddhakāṃkṣiṇī)
 
 ## mukta-m0-p39-v953
-[having-a-banner](patākinī)
+[bannered](patākinī) [feminine](patākinī) [nominative](patākinī) [goddess](patākinī)
 
 ## mukta-m0-p39-v954
-[state](sthitiṃ) [for-welfare](hitāya) [let-be](astu) [bannered-one](patākinī) [she](sā)
+[condition](sthitiṃ) [for-welfare](hitāyāstu) [bannered](patākinī) [she](sā)
 
 ## mukta-m0-p39-v955
-[compassion-beginning](dayā+rambhā)
+[page](p.) [136](136) [compassion-beginning](dayārambhā) [goddess](dayārambhā)
 
 ## mukta-m0-p39-v956
-[truly](satyaṃ) [she-alone](sā+eva) [compassion-beginning](dayā+rambhā) [honored-by-the-three-worlds](sambhāvita+jagat+t+trayī)
+[truth](satyaṃ) [she-indeed](saiva) [compassion-beginning](dayārambhā) [three-worlds-honored](sambhāvitajagatattrayī)
 
 ## mukta-m0-p39-v957
-[fond-of-the-fifth-note-of-the-lute](vipañcī+pañcama+priyā)
+[vīṇā-five-fifth-dear](vipañcīpañcamapriyā) [feminine](vipañcīpañcamapriyā) [nominative](vipañcīpañcamapriyā) [goddess](vipañcīpañcamapriyā)
 
 ## mukta-m0-p39-v958
-[how](kathaṃ) [they-would-be](syuḥ) [would-not-be](syāt) [not](na) [if](cet) [goddess](devī) [fond-of-the-fifth-note-of-the-lute](vipañcī+pañcama+priyā)
+[how](kathaṃ) [would-be](syuḥ) [if-not](syānna) [goddess](ceddevī) [vīṇā-five-fifth-dear](vipañcīpañcamapriyā)
 
 ## mukta-m0-p39-v959
-[delighting-in-higher-and-lower-arts](para+apara+kalā+kāntā)
+[supreme-inferior-art-dear](parāparakalākāntā) [feminine](parāparakalākāntā) [nominative](parāparakalākāntā) [goddess](parāparakalākāntā)
 
 ## mukta-m0-p39-v960
-[delighting-in-higher-and-lower-arts](para+apara+kalā+kāntā) [she](sā) [of-me](mama) [let-be-in-front](astu+agrataḥ) [always](sadā)
+[supreme-inferior-art-dear](parāparakalākāntā) [she](sā) [mine](mamāstvagrataḥ) [always](sadā)
 
 ## mukta-m0-p39-v961
-[possessing-three-powers](triśaktiḥ)
+[three-powers](triśaktiḥ) [feminine](triśaktiḥ) [nominative](triśaktiḥ) [goddess](triśaktiḥ)
 
 ## mukta-m0-p39-v962
-[in-whom](yeṣu) [possessing-three-powers](triśaktiḥ) [indeed](kila) [very-propitious](suprasannā)
+[in-whom](yeṣu) [three-powers](triśaktiḥ) [indeed](kila) [well-pleased](suprasannā)
 
 ## mukta-m0-p39-v963
-[giver-of-liberation](mokṣa+dāyinī)
+[liberation-giving](mokṣadāyinī) [feminine](mokṣadāyinī) [nominative](mokṣadāyinī) [goddess](mokṣadāyinī)
 
 ## mukta-m0-p39-v964
-[alas](vata) [of-whom](yasya) [O-goddess](īśvari) [giver-of-liberation](mokṣa+dāyinī) [you](tvam)
+[alas](vata) [whose](yasyeśvari) [liberation-giving](mokṣadāyinī) [you](tvam)
 
 ## mukta-m0-p39-v965
-[Aindrī](aindrī)
+[page](p.) [137](137) [Indra's](aindrī) [feminine](aindrī) [nominative](aindrī)
 
 ## mukta-m0-p39-v966
-[by-removal-of-water-nature](jala+tva+dūrīkaraṇena) [may-be](bhūyāt) [Aindrī](aindrī) [riding-on-the-lord-of-elephants](gajendra+uparigā) [for-prosperity](śriye) [of-us](naḥ)
+[water-removing](jalatvadūrīkaraṇena) [may-become](bhūyādaindrī) [elephant-lord-upon](gajendroparigā) [prosperity](śriye) [to-us](naḥ)
 
 ## mukta-m0-p39-v967
-[Māheśvarī](māheśvarī)
+[Maheshvara's](māheśvarī) [feminine](māheśvarī) [nominative](māheśvarī) [goddess](māheśvarī)
 
 ## mukta-m0-p39-v968
-[even-so](tathā+api) [trident-bearer](śūlī) [supreme-lord](parama+īśvaraḥ) [therefore](tat) [born-from-service-to-Māheśvarī](māheśvarī+sevana+jaḥ) [grace](prasādaḥ)
+[nevertheless](tathāpi) [trident-bearer](śūlī) [supreme-lord](parameśvarastanmāheśvarīsevanajaḥ) [favor](prasādaḥ)
 
 ## mukta-m0-p39-v969
-[Brāhmī](brāhmī)
+[Brahma's](brāhmī) [may-be](bhūyāt) [always](sadā) [goddess](devī) [Brahma-creation-witness](brahmasṛṣṭyekasākṣiṇī)
 
 ## mukta-m0-p39-v970
-[Brāhmī](brāhmī) [may-be](bhūyāt) [always](sadā) [goddess](devī) [sole-witness-of-Brahmā’s-creation](brahma+sṛṣṭi+eka+sākṣiṇī)
+[Brahma's](brāhmī) [may-be](bhūyāt) [always](sadā) [goddess](devī) [Brahma-creation-witness](brahmasṛṣṭyekasākṣiṇī)
 
 ## mukta-m0-p39-v971
-[Kaumārī](kaumārī)
+[Kumara's](kaumārī) [feminine](kaumārī) [nominative](kaumārī) [goddess](kaumārī)
 
 ## mukta-m0-p39-v972
-[destroyer-of-Kumāra’s-foes](kumāra+hāriṇī) [may-be](bhūyāt) [Kaumārī](kaumārī) [remover-of-fear-of-Māra](māra+bhīti+hṛt)
+[boy-stealing](kumārahāriṇī) [may-be](bhūyāt) [Kumara's](kaumārī) [fear-removing](mārabhītihṛt)
 
 ## mukta-m0-p39-v973
-[dwelling-in-families](kula+vāsinī)
+[clan-dwelling](kulavāsinī) [feminine](kulavāsinī) [nominative](kulavāsinī) [goddess](kulavāsinī)
 
 ## mukta-m0-p39-v974
-[giver-of-auspiciousness](śiva+dā) [may-be](stāt) [dwelling-in-families](kula+vāsinī) [always](sadā) [to-us](naḥ)
+[auspicious-giving](śivadā) [may-be](stāt) [clan-dwelling](kulavāsinī) [always](sadā) [to-us](naḥ)
 
 ## mukta-m0-p39-v975
-[will](icchā)
+[desire](icchā) [feminine](icchā) [nominative](icchā) [goddess](icchā)
