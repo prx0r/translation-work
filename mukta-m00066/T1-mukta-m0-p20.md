@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p20-v476
-previously-stated(pūrvokta) which(yat) indeed(tu) heart-cakra(hṛt+cakraṃ) of-the-dūtikā(dūtikāyāḥ) declared(prakīrttitam)
+[pūrva-uktaṃ](pūrvokta) [yat](yattu) [tu](yattu) [hṛt-cakraṃ](hṛccakraṃ) [dūtikāyāḥ](dūtikāyāḥ) [pra-kīrtitam](prakīrttitam)
 
 ## mukta-m0-p20-v477
-thus(evaṃ) yoni-situated(yoni+gataṃ) cakra(cakraṃ) having-worshipped(pūjayitvā) the-skilled-one(vicakṣaṇaḥ)
+[evaṃ](evaṃ) [yoni-gataṃ](yonigataṃ) [cakraṃ](cakraṃ) [pūjayitvā](pūjayitvā) [vi-cakṣaṇaḥ](vicakṣaṇaḥ)
 
 ## mukta-m0-p20-v478
-by-cakra-worship(cakra+pūjena) pure(śuddhena) by-Tripurā-offering(tripurā+arghyeṇa) radiant(bhāsvatā)
+[cakra-pūjena](cakrapūjena) [śuddhena](śuddhena) [tripurā-arghyeṇa](tripurārghyeṇa) [bhāsvatā](bhāsvatā)
 
 ## mukta-m0-p20-v479
-by-that-impelled(tat+coditena) by-substance(dravyeṇa) filled(pūritaṃ) he(sa) the-second(dvitīyakam)
+[tat-codhitena](taccodhitena) [dravyeṇa](dravyeṇa) [pūritaṃ](pūritaṃ) [sa](sa) [dvitīyakam](dvitīyakam)
 
 ## mukta-m0-p20-v480
-in-dūtikā-hand-gone(dūtī+hasta+gate) in-that(tasmin) vessel(pātre) filled-with-liquor(pūrita+sīdhuni)
+[dūtī-hasta-gate](dūtīhastagate) [tasmin](tasmin) [pātre](pātre) [pūrita-sīdhuni](pūritasīdhuni)
 
 ## mukta-m0-p20-v481
-on-the-mouth(mukhaṃ) a-drop(biṃduṃ) having-placed(vidhāya) then(atha) with-a-pair-of-drops(biṃdu+yugmena) on-her(tat) breasts(kucau)
+[mukhaṃ](mukhaṃ) [biṃduṃ](biṃduṃ) [vidhāya-atha](vidhāyātha) [biṃdu-yugmena](biṃduyugmena) [tat](tat) [kucau](kucau)
 
 ## mukta-m0-p20-v482
-with-blazing-kāmakalā-form-flows(jvalat+kāmakalā+ākāra+syandamāna+amṛta+dravaiḥ)
+[jvalat-kāma-kalā-ākāra-asyaṃdamāna-amṛta-dravaiḥ](jvalatkāmakalākārāsyaṃdamānāmṛtadravaiḥ)
 
 ## mukta-m0-p20-v483
-meditated-kāmakalā-purified(dhyāta+kāmakalā+pūta) substance(dravyaṃ) drinking(pibaṃti) they(tāḥ)
+[dhyāta-kāma-kalā-pūtayeta](dhyātakāmakalāpūtayeta) [dravyaṃ](dravyaṃ) [pibaṃtitāḥ](pibaṃtitāḥ)
 
 ## mukta-m0-p20-v484
-they-melt(pradravaṃti) and(ca) they-swoon(mūrcchaṃti) dissolution(layaṃ) they-go(yāṃti) at-every-step(pade+pade)
+[pra-dravaṃti](pradravaṃti) [ca](ca) [mūrcchaṃti](mūrcchaṃti) [layaṃ](layaṃ) [yāṃti](yāṃti) [pade](pade) [pade](pade)
 
 ## mukta-m0-p20-v485
-of-dūtikā-and-jīvanātha(dūtikā+jīvanāthasya) which(yā) that(sā) consecration(saṃskṛtiḥ) inner(āṃtarī)
+[dūtikā-jīva-nāthasya](dūtikājīvanāthasya) [yā](yā) [sā](sā) [saṃskṛtiḥ](saṃskṛtirāṃtarī) [āṃtarī](saṃskṛtirāṃtarī)
 
 ## mukta-m0-p20-v486
-this(ayam) inner(ābhyaṃtaraḥ) declared(proktaḥ) consecration(saṃskāraḥ) life-purifying(jīva+śodhakaḥ)
+[ayam](ayamābhyaṃtaraḥ) [ābhyaṃtaraḥ](ayamābhyaṃtaraḥ) [proktaḥ](proktaḥ) [saṃskāraḥ](saṃskārojīvaśodhakaḥ) [jīva-śodhakaḥ](saṃskārojīvaśodhakaḥ)
 
 ## mukta-m0-p20-v487
-of-jīvanātha(jīvanāthasya) of-the-god(devasya) indicated(sūcitaḥ) not(na) established(upapāditaḥ)
+[jīva-nāthasya](jīvanāthasya) [devasya](devasya) [sūcito](sūcitonopapāditaḥ) [na](sūcitonopapāditaḥ) [upapāditaḥ](sūcitonopapāditaḥ)
 
 ## mukta-m0-p20-v488
-what(kim) does-it-do(karoti) and(ca) of-the-body(dehasya) entering(praviśan) inside(aṃtaraṃ) quality(guṇam)
+[kiṃ](kiṃkaroti) [karoti](kiṃkaroti) [ca](ca) [dehasya](dehasya) [pra-viśan](praviśannaṃtaraṃ) [antaraṃ](praviśannaṃtaraṃ) [guṇam](guṇam)
 
 ## mukta-m0-p20-v489
-this(idaṃ) pure(pavitram) nectar(amṛtaṃ) worldly-existence-medicine(bhava+bheṣajam) they-declared(ūcire)
+[idaṃ](idaṃ) [pavitram](pavitramamṛtaṃ) [amṛtaṃ](pavitramamṛtaṃ) [bhava-bheṣajam](bhavabheṣajamūciret) [ūciret](bhavabheṣajamūciret)
 
 ## mukta-m0-p20-v490
-direct-happiness-producing(pratyakṣa+saukhya+janakaṃ) many-convictions-giving(bahu+pratyaya+dāyakam)
+[pratyakṣa-saukhya-janakaṃ](pratyakṣasaukhyajanakaṃ) [bahu-pratyaya-dāyakam](bahupratyayadāyakam)
 
 ## mukta-m0-p20-v491
-of-various-kinds(nānā+vidhānāṃ) earth-born(vasudhā+janmanāṃ) of-meritorious-plants(puṇya+vīrudhām)
+[nānā-vidhānāṃ](nānāvidhānāṃ) [vasudhā-janmanāṃ](vasudhājanmanāṃ) [puṇya-vīrudhām](puṇyavīrudhām)
 
 ## mukta-m0-p20-v492
-and-by-six(ṣaḍbhiḥ) and(ca) to-manifoldness(nānā+vidhatāṃ) attained(prāptaiḥ) by-masses-of-juices(rasa+kadaṃbakaiḥ)
+[ṣaḍbhiḥ](ṣaḍbhiśca) [ca](ṣaḍbhiśca) [nānā-vidhatāṃ](nānāvidhatāṃ) [prāptaiḥ](prāptairasakadaṃbakaiḥ) [asaka-daṃbakaiḥ](prāptairasakadaṃbakaiḥ)
 
 ## mukta-m0-p20-v493
-decoction(kaṣāyaṃ) one-afflicted-by-skin-disease(khalu+roga+ārtaḥ) drinks(pibati) of-medicinal-plants(auṣadha+vīrudhām)
+[kaṣāyaṃ](kaṣāyaṃ) [khalu](khalurogārtaḥ) [roga-ārtaḥ](khalurogārtaḥ) [pibati](pibatyauṣadhavīrudhām) [auṣadha-vīrudhām](pibatyauṣadhavīrudhām)
 
 ## mukta-m0-p20-v494
-salutation(namaḥ) whose(yasya) indeed(tu) ineffable(anirvācyā) power(śaktiḥ) mountain-bodied(śaila+tanū) may-become(bhavet)
+[namo](namoyasya) [yasya](namoyasya) [tu](tvanirvācyā) [anirvācyā](tvanirvācyā) [śaktiḥ](śaktiḥ) [śaila-tanū-bhavet](śailatanūbhavet)
 
 ## mukta-m0-p20-v495
-likewise(tathā) of-medicines(auṣadhānāṃ) and(ca) Śiva’s-power(śiva+īśaktiḥ) efficacy-producing(pratyaya+kāriṇī)
+[tathā](tathauṣadhānāṃ) [auṣadhānāṃ](tathauṣadhānāṃ) [ca](ca) [śiva-śaktiḥ](śiveśaktiḥ) [pratyaya-kāriṇī](pratyayakāriṇī)
 
 ## mukta-m0-p20-v496
-because-of-applicability-to-the-body(tanu+pari+anuyojyatvāt) of-the-mātṛkā(mātṛkasya) also(api) of-the-proponent(vādinaḥ)
+[tanu-paryanuyojyatvā](tanuparyanuyojyatvā) [mātṛkasya](mātṛkasyāpi) [api](mātṛkasyāpi) [vādinaḥ](vādinaḥ)
 
 ## mukta-m0-p20-v497
-therefore(atas) likewise(tathā) of-medicines(auṣadhānāṃ) and(ca) power(śaktiḥ) of-this-one(asya) indeed(eva) O-Pārvatī(pārvati)
+[atas](atastathauṣadhānāṃ) [tathā](atastathauṣadhānāṃ) [auṣadhānāṃ](atastathauṣadhānāṃ) [ca](ca) [śaktiḥ](śaktirasyeva) [asya](śaktirasyeva) [iva](śaktirasyeva) [pārvati](pārvati)
 
 ## mukta-m0-p20-v498
-for-each-medicine(prati+auṣadhaṃ) various-and-distinct(bhinna+bhinnāḥ) powers(śaktayaḥ) there(tatra) O-Pārvatī(pārvati)
+[pratyauṣadhaṃ](pratyauṣadhaṃ) [bhinnabhinnāḥ](bhinnabhinnāḥ) [śaktayaḥ](śaktayastatra) [tatra](śaktayastatra) [pārvati](pārvati)
 
 ## mukta-m0-p20-v499
-mutually(anyonyāḥ) powers(śaktayaḥ) certainly(ūnam) enter(āviśanti) indeed(eva) of-plants(vīrudhām)
+[anyonyāḥ](anyonyāḥ) [śaktayaḥ](śaktayonūnamāvisyaṃtyeva) [ūnam](śaktayonūnamāvisyaṃtyeva) [āvisyaṃti](śaktayonūnamāvisyaṃtyeva) [eva](śaktayonūnamāvisyaṃtyeva) [vīrudhām](vīrudhām)
 
 ## mukta-m0-p20-v500
-independent(svataṃtrāḥ) indeed(tu) by-one(ekayā) power(śaktyā) they-destroy(nikṛtaṃti) great-diseases(mahā+gadān)
+[svataṃtrāḥ](svataṃtrāstvekayā) [tu](svataṃtrāstvekayā) [ekayā](svataṃtrāstvekayā) [śaktyā](śaktyā) [nikṛtaṃti](nikṛtaṃti) [mahā-gadān](mahāgadān)
