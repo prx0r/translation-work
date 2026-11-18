@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p116-v2876
-[bindu](bindu) [vanta](vanta) [tat](tat) [pūrva](pūrva) [anta](anta) [svara](svara) [anvita](anvita)
+[ending-with-bindu](bindvantaḥ) [preceded-by-that](tatpūrvo') [endowed-with-final+vowel](antya+svara+anvitaḥ)
 
 ## mukta-m0-p116-v2877
-[marut](marut) [sakha](sakha) [priya](priya) [anta](anta) [ayaṃ](ayaṃ) [jagat](jagat) [arṇa](arṇa) [hi](hi) [vāc](vāc) [manu](manu)
+[ending-with-dear-to-friend+of-wind](marut+sakha+priya+anto') [this](ayaṃ) [of-jagatī-meter+syllable](jagatī+arṇo) [indeed](hi) [speech+mantra](vāṅ+manuḥ)
 
 ## mukta-m0-p116-v2878
-[sa](sa) [agni](agni) [nāda](nāda) [tu](tu) [tārā](tārā) [ādi](ādi) [dīrgha](dīrgha) [yukta](yukta) [krama](krama) [svara](svara)
+[with-fire](sāgnir) [nāda-and](nādastu) [beginning-with-tāra](tāra+ādir) [joined-with-long](dīrghair+yuktaḥ) [successively](kramāt) [with-vowels](svaraiḥ)
 
 ## mukta-m0-p116-v2879
-[purāṇa](purāṇa) [pada](pada) [saṃyukta](saṃyukta) [ṣaḍ](ṣaḍ) [mantra](mantra) [pada](pada) [krama](krama)
+[joined-with-ancient+words](purāṇa+pada+saṃyuktaiḥ) [with-six](ṣaḍbhir) [with-mantra+words](mantra+padaiḥ) [successively](kramāt)
 
 ## mukta-m0-p116-v2880
-[caturthī](caturthī) [anta](anta) [vidmahe](vidmahe) [pada](pada) [saṃyuta](saṃyuta)
+[ending-in-dative-case](caturthy+antā) [joined-with-vidmahe+word](vidmahe+pada+saṃyutā)
 
 ## mukta-m0-p116-v2881
-[pra](pra) [iti](iti) [codayāt](codayāt) [iti](iti) [yojita](yojita)
+[with-pra](preti) [and-with-codayāti](codayāditi) [joined](yojitā)
 
 ## mukta-m0-p116-v2882
-[prokta](prokta) [strī](strī) [māna](māna) [tatas](tatas) [kṛta](kṛta)
+[declared](proktas) [threefold](trīmān) [thereafter](ataḥ) [made](kṛtā)
 
 ## mukta-m0-p116-v2883
-[lekhanī](lekhanī) [vāma](vāma) [kalaśa](kalaśa) [ca](ca) [api](api) [bibhratī](bibhratī)
+[stylus](lekhanīṃ) [in-left-hand](vāme) [water-pot](kalaśaṃ) [and](cāpi) [holding](bibhratī)
 
 ## mukta-m0-p116-v2884
-[śaṅkha](śaṅkha) [kunda](kunda) [indu](indu) [dhavala](dhavala) [sakaparda](sakaparda) [indu](indu) [śekhara](śekhara)
+[white-as-conch+jasmine+moon](śaṅkha+kundendu+dhavalā) [with-matted-hair+moon+crest](sa+kapardendu+śekharā)
 
 ## mukta-m0-p116-v2885
-[hāri](hāri) [hāra](hāra) [ullasat](ullasat) [tuṅga](tuṅga) [pīvara](pīvara) [stana](stana) [maṇḍala](maṇḍala)
+[with-breast+region](stana+maṇḍalā) [full+and-lofty](pīvara+tuṅga) [shining-with-necklace+garlands](hāri+hāra+ullasat)
 
 ## mukta-m0-p116-v2886
-[su](su) [upaviṣṭā](upaviṣṭā) [nava](nava) [yauvana](yauvana) [maṇḍitā](maṇḍitā)
+[well-seated](sū)paviṣṭā) [adorned-with-fresh+youth](nava+yauvana+maṇḍitā)
 
 ## mukta-m0-p116-v2887
-[dakṣiṇa](dakṣiṇa) [dvāra](dvāra) [sthāpyā](sthāpyā) [syāt](syāt) [dakṣiṇāmukhī](dakṣiṇāmukhī)
+[at-southern+door](dakṣiṇa+dvāre) [to-be-placed](sthāpyā) [she-should-be](syād) [facing-south](dakṣiṇā+mukhī)
 
 ## mukta-m0-p116-v2888
-[pūrṇabhadra](pūrṇabhadra) [ca](ca) [api](api) [ānanda](ānanda) [nandana](nandana) [tathā](tathā)
+[Pūrṇabhadra](pūrṇabhadraś) [and-also](cāpy) [Ānanda](ānando) [Nandana](nandanastathā)
 
 ## mukta-m0-p116-v2889
-[prācya](prācya) [aindra](aindra) [ca](ca) [vajrāṅka](vajrāṅka) [yāmya](yāmya) [daṇḍāṅka](daṇḍāṅka) [eva](eva) [ca](ca)
+[in-east](prācyām) [Aindra](aindraś) [and-marked-with-thunderbolt](ca+vajrāṅko) [in-south](yāmyo) [marked-with-staff](daṇḍāṅka) [indeed](eva) [and](ca)
 
 ## mukta-m0-p116-v2890
-[prajñā](prajñā) [prabhā](prabhā) [vidyā](vidyā) [dhī](dhī) [dhṛti](dhṛti) [smṛti](smṛti) [buddhi](buddhi)
+[Prajñā](prajñā) [Prabhā](prabhā) [Vidyā](vidyā) [Dhī](dhīr) [Dhṛti](dhṛti) [Smṛti](smṛti) [Buddhi](buddhayaḥ)
 
 ## mukta-m0-p116-v2891
-[madhya](madhya) [stambha](stambha) [catvāra](catvāra) [api](api) [āgneya](āgneya) [ādi](ādi) [ṛg](ṛg) [ādi](ādi)
+[in-central+pillars](madhya+stambheṣu) [the-four](catvāro') [also](apy) [in-southeast+etc.](āgneyā+diṣu) [Ṛgveda+etc.](ṛg+ādayaḥ)
 
 ## mukta-m0-p116-v2892
-[sūtra](sūtra) [pāṭha](pāṭha) [mīmāṃsā](mīmāṃsā) [nyāya](nyāya) [vistara](vistara)
+[recitation-of-sūtras](sūtra+pāṭho) [Mīmāṃsā](mīmāṃsā) [elaboration-of-Nyāya](nyāya+vistaraḥ)
 
 ## mukta-m0-p116-v2893
-[vidyā](vidyā) [ātmaka](ātmaka) [vitāna](vitāna) [syāt](syāt) [sthala](sthala) [tu](tu) [pṛthivī](pṛthivī) [svayam](svayam)
+[consisting-of-knowledge](vidyā+ātmakaṃ) [canopy](vitānaṃ) [should-be](syāt) [ground](sthalaṃ) [but](tu) [earth](pṛthivī) [itself](svayam)
 
 ## mukta-m0-p116-v2894
-[haṃsa](haṃsa) [gā](gā) [vāṇī](vāṇī) [tat](tat) [astra](astra) [sārasa](sārasa) [upari](upari)
+[riding-on-swan](haṃsa+gā) [Vāṇī](vāṇī) [her-weapon](tad+astraṃ) [above-the-essence](sāra+upari)
 
 ## mukta-m0-p116-v2895
-[bhūṣita](bhūṣita) [vāma](vāma) [vara](vara) [pustaka](pustaka) [pāśa](pāśa) [dhṛk](dhṛk)
+[adorned](bhūṣitaṃ) [in-left-hand](vāme) [holding-boon+book+noose](vara+pustaka+pāśa+dhṛk)
 
 ## mukta-m0-p116-v2896
-[dadhat](dadhat) [prāgvat](prāgvat) [nava](nava) [su](su) [kuṇḍa](kuṇḍa) [vahni](vahni) [madhya](madhya) [ādi](ādi) [bhājita](bhājita)
+[holding](dadhat) [|](|) [as-before](prāg+vat) [in-nine](navasu) [in-fire-pits](kuṇḍeṣu) [fire](vahniṃ) [divided-from-middle+etc.](madhya+ādi+bhājitam)
 
 ## mukta-m0-p116-v2897
-[yoga](yoga) [ādi](ādi) [mūrti](mūrti) [dikṣu](dikṣu) [juhuyuḥ](juhuyuḥ) [mūrti](mūrti) [dhāraka](dhāraka)
+[with-Yogā+etc.+forms](yogā+ādi+mūrtibhir) [in-directions](dikṣu) [should-offer-oblations](juhuyur) [the-form-bearers](mūrti+dhārakāḥ)
 
 ## mukta-m0-p116-v2898
-[samid](samid) [ājya](ājya) [caru](caru) [lāja](lāja) [vrīhi](vrīhi) [siddhārtha](siddhārtha) [sarṣapa](sarṣapa)
+[fuel-sticks](samid) [clarified-butter](ājya) [rice-cakes](carūṁl) [parched-grain](lājān) [rice](vrīhi) [white-mustard](siddhārtha) [mustard-seeds](sarṣapān)
 
 ## mukta-m0-p116-v2899
-[prāgvat](prāgvat) [ākāra](ākāra) [śuddhi](śuddhi) [ca](ca) [kuryāt](kuryāt) [ca](ca) [akṣi](akṣi) [vimokṣaṇa](vimokṣaṇa)
+[as-before](prāg+vad) [purification-of-form](ākāra+śuddhiṃ) [and](ca) [should-perform](kuryāc) [and-opening-of-eyes](ca+akṣi+vimokṣaṇam)
 
 ## mukta-m0-p116-v2900
-[sarasvatī](sarasvatī) [vidyā](vidyā) [kumbha](kumbha) [aṣṭaka](aṣṭaka) [yajet](yajet)
+[of-Sarasvatī](sarasvatyā) [in-group-of-eight+knowledge-pots](vidyā+kumbha+aṣṭake) [one-should-worship](yajet)
