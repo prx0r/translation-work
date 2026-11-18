@@ -2,52 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p21-v501
-[gloss](granthirūponnatagranthirjaṭharāmayadāyaka)
+[knot-form](granthirūpa) [raised](unnata) [knot](granthi) [belly-disease-giving](jaṭharāmayadāyaka)
+
 ## mukta-m0-p21-v502
-[gloss](tuṣāraṃ) [gloss](tadvijānīyā) [gloss](putraśokārtidāyakam)
+[frost](tuṣāraṃ) [that-know](tadvijānīyā) [son-grief-pain-giving](putraśokārtidāyakam)
+
 ## mukta-m0-p21-v503
-[gloss](hemaghoṣāmayaṃ) [gloss](tāmra) [gloss](tadduṣṭaṃ) [gloss](piṅgalāmate)
+[gold-colored](hemaghoṣāmayaṃ) [copper](tāmra) [that-corrupt](tadduṣṭaṃ) [in-piṅgalā-opinion](piṅgalāmate)
+
 ## mukta-m0-p21-v504
-[gloss](janaṃ) [gloss](hantyāyasākrāntā) [gloss](śilā) [gloss](tāmī) [gloss](ca) [gloss](śilpinam)
+[people](janaṃ) [kills](hantyāyasākrāntā) [stone](śilā) [and](tāmī) [ca](ca) [sculptor](śilpinam)
+
 ## mukta-m0-p21-v505
-[gloss](kṛṣṇaḥ) [gloss](pīto'ruṇo) [gloss](binduḥ) [gloss](sa) [gloss](śokabhayarogadaḥ)
+[black](kṛṣṇaḥ) [yellow](pīto) [red](aruṇo) [spot](binduḥ) [he](sa) [grief-fear-disease-giving](śokabhayarogadaḥ)
+
 ## mukta-m0-p21-v506
-[gloss](pīte) [gloss](dhanakṣayaḥ) [gloss](kartuḥ) [gloss](kṛṣṇe) [gloss](bandho) [gloss](dvayordvidhā)
+[in-yellow](pīte) [wealth-loss](dhanakṣayaḥ) [of-maker](kartuḥ) [in-black](kṛṣṇe) [bondage](bandho) [of-both](dvayoḥ) [twofold](dvidhā)
+
 ## mukta-m0-p21-v507
-[gloss](rekhā) [gloss](rekhānubiddhā) [gloss](vā) [gloss](pārthivaṃ) [gloss](sā) [gloss](vināśayet)
+[line](rekhā) [line-pierced](rekhānubiddhā) [or](vā) [earthly](pārthivaṃ) [that](sā) [destroys](vināśayet)
+
 ## mukta-m0-p21-v508
-[gloss](svāmidhnī) [gloss](ca) [gloss](catuśchinnā) [gloss](bahucchinnā) [gloss](kulāntakṛt)
+[owner-killing](svāmidhnī) [and](ca) [four-cut](catuśchinnā) [many-cut](bahucchinnā) [family-ender](kulāntakṛt)
+
 ## mukta-m0-p21-v509
-[gloss](makṣikā) [gloss](makṣikākārā) [gloss](tayā) [gloss](kuṣṭhaṃ) [gloss](sudāruṇam)
+[fly](makṣikā) [fly-shaped](makṣikākārā) [by-that](tayā) [leprosy](kuṣṭhaṃ) [very-terrible](sudāruṇam)
+
 ## mukta-m0-p21-v510
-[gloss](tadā) [gloss](nānā) [gloss](gadān) [gloss](kuryāt) [gloss](kartuścaiva) [gloss](na) [gloss](saṃśayaḥ)
+[then](tadā) [various](nānā) [diseases](gadān) [would-make](kuryāt) [of-maker](kartuścaiva) [no](na) [doubt](saṃśayaḥ)
+
 ## mukta-m0-p21-v511
-[gloss](tyājyaṃ) [gloss](tadā) [gloss](tridhā) [gloss](liṅgaṃ) [gloss](nṛparāṣṭraprajārthinā)
+[abandonable](tyājyaṃ) [then](tadā) [threefold](tridhā) [mark](liṅgaṃ) [by-king-realm-subject-seeker](nṛparāṣṭraprajārthinā)
+
 ## mukta-m0-p21-v512
-[gloss](vāmapārśvāśritaḥ) [gloss](kiṃciddhanyādrāṣṭraṃ) [gloss](sarājakam)
+[left-side-residing](vāmapārśvāśritaḥ) [somewhat](kiṃcit) [would-kill](hanyādrāṣṭraṃ) [realm](rāṣṭraṃ) [with-king](sarājakam)
+
 ## mukta-m0-p21-v513
-[gloss](sarvavarṇā) [gloss](bhṛśaṃ) [gloss](nūnaṃ) [gloss](prāṇahṛtkṛṣṇahīrikā)
+[all-colors](sarvavarṇā) [very](bhṛśaṃ) [indeed](nūnaṃ) [life-taking](prāṇahṛt) [black-hīrikā](kṛṣṇahīrikā)
+
 ## mukta-m0-p21-v514
-[gloss](unnato) [gloss](lakṣyate) [gloss](yaśca) [gloss](viḍālāṅghriḥ) [gloss](sa) [gloss](doṣabhāk)
+[raised](unnato) [is-seen](lakṣyate) [who](yaśca) [cat-foot](viḍālāṅghriḥ) [that](sa) [fault-bearing](doṣabhāk)
+
 ## mukta-m0-p21-v515
-[gloss](śilāyā) [gloss](rūpamālakṣya) [gloss](tyajettāmaśubhapradām)
+[of-stone](śilāyā) [form](rūpam) [observing](ālakṣya) [abandon](tyajettāmaśubhapradām)
+
 ## mukta-m0-p21-v516
-[gloss](svalpadoṣān) [gloss](prakṣyāmi) [gloss](yathā) [gloss](śāstreṣu) [gloss](bhāṣitān)
+[small-faults](svalpadoṣān) [will-tell](prakṣyāmi) [as](yathā) [in-scriptures](śāstreṣu) [spoken](bhāṣitān)
+
 ## mukta-m0-p21-v517
-[gloss](valmīkoṣaracityutthā) [gloss](koṣṇā) [gloss](kṣārāmbumadhyagā)
+[anthill-born](valmīkoṣaracityutthā) [warm](koṣṇā) [alkaline](kṣārā) [in-water-middle](ambumadhyagā)
+
 ## mukta-m0-p21-v518
-[gloss](kudiksthā) [gloss](sūryasantaptā) [gloss](kadutthāmethyadūṣitā)
+[bad-place](kudiksthā) [sun-heated](sūryasantaptā) [bitter-born](kadutthā) [unstained](amethyadūṣitā)
+
 ## mukta-m0-p21-v519
-[gloss](duṣṭajīvasvarā) [gloss](yā) [gloss](ca) [gloss](yojitā) [gloss](nānyakarmaṇi)
+[corrupt-life-sound](duṣṭajīvasvarā) [who](yā) [ca](ca) [joined](yojitā) [not-other-work](nānyakarmaṇi)
+
 ## mukta-m0-p21-v520
-[gloss](yā) [gloss](yopalānulagnā) [gloss](sā) [gloss](snehavicchittikārikāḥ)
+[who](yā) [pebble-adhering](yopalānulagnā) [that](sā) [fat-disruption-causing](snehavicchittikārikāḥ)
+
 ## mukta-m0-p21-v521
-[gloss](ūṣarasthārthahṛjjñeyā) [gloss](citisthā) [gloss](duḥkhadāyinī)
+[saline-place](ūṣarasthā) [wealth-taking](arthahṛt) [known](jñeyā) [in-cit](citisthā) [pain-giving](duḥkhadāyinī)
+
 ## mukta-m0-p21-v522
-[gloss](pāṣadāpuṇyadeśasthā) [gloss](vadhakṛdbhilla) [gloss](sevitā)
+[in-auspicious-place](pāṣadāpuṇyadeśasthā) [killer](vadhakṛt) [bhillas](bhilla) [served](sevitā)
+
 ## mukta-m0-p21-v523
-[gloss](dāhaṃ) [gloss](hāniṃ) [gloss](ca) [gloss](śokaṃ) [gloss](ca) [gloss](naiḥsvaṃ) [gloss](rogaṃ) [gloss](tathāvahet)
+[burning](dāhaṃ) [loss](hāniṃ) [and](ca) [grief](śokaṃ) [ca](ca) [poverty](naiḥsvaṃ) [disease](rogaṃ) [thus](tathā) [would-bring](avahet)
+
 ## mukta-m0-p21-v524
-[gloss](surāpakṣivasāgandhā) [gloss](udvegajananī) [gloss](śilā)
+[liquor-smell](surāpakṣivasāgandhā) [agitation-causing](udvegajananī) [stone](śilā)
+
 ## mukta-m0-p21-v525
-[gloss](vajradagdhāgnidagdhā) [gloss](ca) [gloss](rājño'nalabhayapradā)
+[vajra-burnt](vajradagdhā) [fire-burnt](agnidagdhā) [ca](ca) [of-king](rājño) [fire-fear-giving](analabhayapradā)
