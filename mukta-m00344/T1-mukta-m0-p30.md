@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p30-v726
-[separate-beings](pṛthagbhūtānāṃ) [garland-maker-ness](mālākāratā) [as](yathā) [perishes-thus](naśyatīti) [meaning](bhāvaḥ)
+[pṛthagbhūtānām](of-the-separated) [mālākāratā](garland-making) [yathā](as) [naśyati](perishes) [iti](thus) [bhāvaḥ](sense)
 
 ## mukta-m0-p30-v727
-[by-me](mayā) [revived-extremely](saṃjīvito'tyantaṃ) [thread-holder](sūtradhāro) [indeed](hi) [in-that-city](tatpure)
+[mayā](by-me) [saṃjīvitaḥ](revived) [atyantaṃ](greatly) [sūtradhāraḥ](thread-holder) [hi](indeed) [tatpure](in-that-city)
 
 ## mukta-m0-p30-v728
-[mind](manaḥ) [beginning](prabhṛti) [activity](vyāpāra) [initiator](pravartakaḥ)
+[manaḥprabhṛti](mind-and-so-forth) [vyāpāra](activity) [pravartakaḥ](initiator)
 
 ## mukta-m0-p30-v729
-[thus](evaṃ) [conduct](pracāraṃ) [resorting](saṃśritya) [of-ancients](purāṇām) [lord](adhipaḥ) [became](abhavat)
+[evaṃ](thus) [pracāraṃ](conduct) [saṃśritya](resorting-to) [purāṇām](of-the-ancients) [adhipaḥ](lord) [abhavat](became)
 
 ## mukta-m0-p30-v730
-[from-dissolution](layāt) [breath](prāṇo) [leads-thus](nayatīti) [meaning](bhāvaḥ) [lord](adhipaḥ) [unsteady-named](asthirābhidhaṃ) [mind-became](mano'bhavat)
+[layāt](from-dissolution) [prāṇaḥ](life-breath) [nayati](leads) [iti](thus) [bhāvaḥ](sense) [adhipaḥ](lord) [asthirābhidhaṃ](called-unsteady) [manaḥ](mind) [abhavat](became)
 
 ## mukta-m0-p30-v731
-[faithful-son](satīputraḥ) [also](api) [unsteady](asthiraḥ) [he](sa) [resorted](saṃśritaḥ) [also](api) [great-strength](mahābalam)
+[satīputraḥ](virtuous-son) [api](even) [asthiraḥ](unsteady) [saḥ](he) [saṃśritaḥ](resorted) [api](even) [mahābalam](great-strength)
 
 ## mukta-m0-p30-v732
-[of-many](bahūnāṃ) [ancients](purāṇām) [thus](iti) [by-previous](pūrveṇa) [connection](sambandhaḥ) [great-strength](mahābalaṃ) [breath](prāṇam)
+[bahūnām](of-many) [purāṇām](ancients) [iti](thus) [pūrveṇa](with-previous) [sambandhaḥ](connection) [mahābalam](great-strength) [prāṇam](life-breath)
 
 ## mukta-m0-p30-v733
-[from-wife-etc-bad-union](patnyādyasatsamāgamāt) [thus-said](ityāha) [fickle-etc](capaletyādi)
+[patnyādi](wife-and-so-forth) [asat](bad) [samāgamāt](from-association) [iti](thus) [āha](says) [capala](fickle) [ityādi](and-so-forth)
 
 ## mukta-m0-p30-v734
-[by-others](anyaiḥ) [sons](putraiḥ) [five](pañcabhiḥ) [he](sa) [everywhere-dragged](sarvatrābhivikarṣitaḥ)
+[anyaiḥ](by-others) [putraiḥ](sons) [pañcabhiḥ](five) [saḥ](he) [sarvatra](everywhere) [abhivikarṣitaḥ](dragged)
 
 ## mukta-m0-p30-v735
-[anger-greed-rise](krodhalobhodayaḥ) [by-that](tena) [suffering-share-became-thus-intent](duḥkhabhāgabhūdityāśayaḥ)
+[krodha](anger) [lobha](greed) [udayaḥ](arising) [tena](by-that) [duḥkha](suffering) [bhāga](share) [bhūt](became) [iti](thus) [āśayaḥ](intent)
 
 ## mukta-m0-p30-v736
-[hither-thither](itastataḥ) [somewhere](kvacit) [sons](putraiḥ) [five](pañcabhiḥ) [he](sa) [dragged](vikarṣitaḥ)
+[itaḥ](here) [tataḥ](there) [kvacit](somewhere) [putraiḥ](sons) [pañcabhiḥ](five) [saḥ](he) [vikarṣitaḥ](dragged)
 
 ## mukta-m0-p30-v737
-[great-affliction-attainment-manner-said](mahākleśaprāptiprakāramāha) [hence](ita) [etc](ityādi)
+[mahākleśa](great-affliction) [prāpti](attainment) [prakāram](manner) [āha](says) [ita](here) [ityādi](and-so-forth)
 
 ## mukta-m0-p30-v738
-[somewhere-great-food-cause](kvacinmahāśanāhetor) [for-food](aśanārthaṃ) [runs](pradhāvati)
+[kvacit](somewhere) [mahāśana](great-food) [hetor](for-the-sake-of) [aśana](food) [artham](for) [pradhāvati](runs)
 
 ## mukta-m0-p30-v739
-[grief-went](khedamīyivān) [sorrow](duḥkhaṃ) [obtained](prāptavān)
+[khedam](exhaustion) [īyivān](experienced) [duḥkhaṃ](suffering) [prāptavān](obtained)
 
 ## mukta-m0-p30-v740
-[great-fainting](mahāmūrcchāṃ) [approaches](samāyāti) [and-not-knowing-that-remedy](cāvidaṃstatpratikriyām)
+[mahāmūrcchām](great-fainting) [samāyāti](approaches) [ca](and) [avidam](not-knowing) [tat](that) [pratikriyām](remedy)
 
 ## mukta-m0-p30-v741
-[that-remedy](tatpratikriyāṃ) [anger-remedy](krodhapratikriyāṃ) [peace](śāntim)
+[tat](that) [pratikriyām](remedy) [krodha](anger) [pratikriyām](remedy) [śāntim](peace)
 
 ## mukta-m0-p30-v742
-[death-like](mṛtatulyaṃ) [own-self](svamātmānaṃ) [thinks](manyate) [grief-constant](śokasantataḥ)
+[mṛtatulyaṃ](like-dead) [svam](own) [ātmānaṃ](self) [manyate](considers) [śoka](grief) [santataḥ](continuously)
 
 ## mukta-m0-p30-v743
-[by-wife-sons](patnīputraiḥ) [overwhelmed](samākrānto) [led-indeed](nīyamānastu) [by-them](taiḥ) [always](sadā)
+[patnī](wife) [putraiḥ](sons) [samākrāntaḥ](overwhelmed) [nīyamānaḥ](being-led) [tu](but) [taiḥ](by-them) [sadā](always)
 
 ## mukta-m0-p30-v744
-[from-foolish-son-ness](mūḍhaputratvād) [bad-family-born-ness](duṣkulodbhavatvam)
+[mūḍha](foolish) [putratvāt](sonship) [duṣkula](bad-family) [udbhavatvam](origin)
 
 ## mukta-m0-p30-v745
-[somewhere](kvacit) [forest-scattered](kāntārakīrṇeṣu) [carnivore-clan-lands](kravyādakulabhūmiṣu)
+[kvacit](somewhere) [kāntāra](wilderness) [kīrṇeṣu](scattered) [kravyāda](carnivore) [kula](group) [bhūmiṣu](lands)
 
 ## mukta-m0-p30-v746
-[great-forest-situated](mahāraṇyasthaṃ) [crow-etc-pervaded](kākādivyāptaṃ) [and](ca) [own-body](svadehaṃ) [sees-thus](paśyatīti) [purport](tātparyam)
+[mahāraṇya](great-forest) [sthaṃ](situated) [kāka](crow) [ādi](and-so-forth) [vyāptaṃ](pervaded) [ca](and) [sva](own) [dehaṃ](body) [paśyati](sees) [iti](thus) [tātparyam](purport)
 
 ## mukta-m0-p30-v747
-[somewhere](kvacit) [putrid-flowing-places](pūtivahāstheṣu) [somewhere](kvacid) [very-dark](gāḍhatamaḥsu) [and](ca)
+[kvacit](somewhere) [pūti](foul) [vahā](flowing) [stheṣu](in-places) [kvacit](somewhere) [gāḍhatamaḥsu](in-deep-darkness) [ca](and)
 
 ## mukta-m0-p30-v748
-[dwelt-thus-connection](uvāsetyanvayaḥ)
+[uvāsa](dwelt) [iti](thus) [anvayaḥ](connection)
 
 ## mukta-m0-p30-v749
-[friend](sakhī) [and](ca) [my](me) [grief-deluded-became](duḥkhamūḍhā'bhavad) [bad-association](duḥsaṅgataḥ) [always](sadā)
+[sakhī](friend) [ca](and) [me](my) [duḥkha](suffering) [mūḍhā](deluded) [abhavat](became) [duḥsaṅgataḥ](from-bad-company) [sadā](always)
 
 ## mukta-m0-p30-v750
-[deluded-indeed-extremely-became](mūḍhevātyantamabhavaṃ) [that-family-devoted](tatkuṭumbaparāyaṇā)
+[mūḍhā](deluded) [eva](indeed) [atyantaṃ](greatly) [abhavaṃ](became) [tat](that) [kuṭumba](family) [parāyaṇā](devoted)
