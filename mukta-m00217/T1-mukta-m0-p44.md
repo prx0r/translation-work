@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p44-v1076
-[silver-vessel-by](raupyapātreṇa) [giving](dattvā) [indeed](vai) [viṣṇu-sacrifice-fruit](viṣṇuyāgaphalaṃ) [obtain](labhet)
+[silver-vessel](raupyapātreṇa) [having-given](dattvā) [indeed](vai) [Vishnu-sacrifice-fruit](viṣṇuyāgaphalaṃ) [obtains](labhet)
 
 ## mukta-m0-p44-v1077
-[giving](dattvā) [golden-vessel-by](sauvarṇapātreṇa) [obtain](labhet) [much](bahuḥ) [gold](suvarṇakam)
+[having-given](dattvā) [golden-vessel](sauvarṇapātreṇa) [obtains](labhet) [much](bahuḥ) [gold](suvarṇakam)
 
 ## mukta-m0-p44-v1078
-[five-shrine-worship-in](pañcāyatanapūjāyāṃ) [ten](daśa) [vessels](pātrāṇi) [indeed](vai) [throw](kṣipet)
+[panchayatana-worship](pañcāyatanapūjāyāṃ) [ten](daśa) [vessels](pātrāṇi) [indeed](vai) [should-throw](kṣipet)
 
 ## mukta-m0-p44-v1079
-[offering-vessels](balipātrāṇi) [five](pañca) [be](syuḥ) [blood](rudhirasya) [one-vessel](ekapātrakam)
+[offering-vessels](balipātrāṇi) [five](pañca) [are](syuḥ) [blood's-one-vessel](rudhirasyaikapātrakam)
 
 ## mukta-m0-p44-v1080
-[one](ekaṃ) [cooked](pakvasya) [meat](māṃsasya)
+[one](ekaṃ) [of-cooked](pakvasya) [of-meat](māṃsasya)
 
 ## mukta-m0-p44-v1081
-[to-be-placed](sthāpanīyāni) [with-effort](yatnena) [if-desire](yadīcchet) [success](siddhim) [of-self](ātmanaḥ)
+[should-be-placed](sthāpanīyāni) [with-effort](yatnena) [if-desires](yadīcchet) [perfection-of-self](siddhimātmanaḥ)
 
 ## mukta-m0-p44-v1082
-[of-yoginīs](yoginīnāṃ) [worship-in](samarcāyāṃ) [fifty](pañcāśan) [couple-worship-in](mithunārcane)
+[of-yoginis](yoginīnāṃ) [in-proper-worship](samarcāyāṃ) [fifty](pañcāśan) [couple-worship](mithunārcane)
 
 ## mukta-m0-p44-v1083
-[guru-maṇḍala-worship-in](gurumaṇḍalapūjāyāṃ) [of-suns](dineśānāṃ) [likewise](tathaiva) [and](ca)
+[guru-mandala-worship](gurumaṇḍalapūjāyāṃ) [of-day-lords](dineśānāṃ) [and-so](tathaiva) [and](ca)
 
 ## mukta-m0-p44-v1084
-[akṣara-herb-worship-in](akṣarauṣadhipūjāyāṃ) [rosary-worship-in](japamālāprapūjane)
+[akshara-herb-worship](akṣarauṣadhipūjāyāṃ) [japa-rosary-proper-worship](japamālāprapūjane)
 
 ## mukta-m0-p44-v1085
-[offering-etc-five-vessels](arghyādipañcapātrāṇi) [to-be-prepared](sampādyāni) [separately](pṛthak) [separately](pṛthak)
+[arghya-etc-five-vessels](arghyādipañcapātrāṇi) [to-be-prepared](sampādyāni) [separately](pṛthak) [separately](pṛthak)
 
 ## mukta-m0-p44-v1086
-[cooked-rice-pot-two](carusthālīdvayaṃ) [and](ca) [indeed](eva) [consecrated](praṇītā) [sprinkling-water](prokṣaṇī) [thus](tathā)
+[two-rice-pots](carusthālīdvayaṃ) [and-indeed](caiva) [consecrated](praṇītā) [sprinkler](prokṣaṇī) [and](tathā)
 
 ## mukta-m0-p44-v1087
-[principal-these](mukhyānyetāni) [vessels](pātrāṇi)
+[principal](mukhyāni) [these](etāni) [vessels](pātrāṇi)
 
 ## mukta-m0-p44-v1088
-[round](vṛttena) [covered](veṣṭitaṃ) [outside](bāhye) [square](caturasreṇa) [and](ca) [indeed](eva) [hi](hi)
+[by-round](vṛttena) [wrapped](veṣṭitaṃ) [outside](bāhye) [by-square](caturasreṇa) [and-indeed](caiva) [indeed](hi)
 
 ## mukta-m0-p44-v1089
-[sandal-anointed](gandhalipte) [own-left-front](svavāmāgre) [should-place](vidadhyāt) [fish-mudrā-by](matsyamudrayā)
+[scent-smeared](gandhalipte) [own-left-front](svavāmāgre) [should-place-with-fish-seal](vidadhyānmatsyamudrayā)
 
 ## mukta-m0-p44-v1090
-[limbs](aṅgāni) [of-square](caturasrasya) [in-corners](koṇeṣu) [in-front](purataḥ) [thus](tathā)
+[limbs](aṅgāni) [of-square](caturasrasya) [at-corners](koṇeṣu) [in-front](purataḥ) [and](tathā)
 
 ## mukta-m0-p44-v1091
-[root](mūlena) [washed](kṣālitaṃ) [conch-support](śaṅkhādhāraṃ) [I-establish](saṃsthāpayāmi)
+[by-root](mūlena) [washed](kṣālitaṃ) [conch-support](śaṅkhādhāraṃ) [I-establish](saṃsthāpayāmi)
 
 ## mukta-m0-p44-v1092
-[fire-end](vahnyante) [maṇḍala-for](maṇḍalāyeti) [thus](tathā) [dharma-giver](dharmapradeti) [and](ca)
+[at-fire-end](vahnyante) [for-mandala-thus](maṇḍalāyeti) [and](tathā) [dharma-giver-thus](dharmapradeti) [and](ca)
 
 ## mukta-m0-p44-v1093
-[of-fire](vahner) [ten](daśa) [rays](kalāḥ) [there](tatra) [clockwise](prādakṣiṇyena) [worship](pūjayet)
+[of-fire-ten](vahnerdaśa) [parts](kalās) [there](tatra) [clockwise](prādakṣiṇyena) [should-worship](pūjayet)
 
 ## mukta-m0-p44-v1094
-[therefore](tasmāt) [duly](vidhivad) [support](ādhāraṃ) [should-arrange](kalpayet) [clan-goddess-to](kulanāyike)
+[therefore](tasmāt) [properly-support](vidhivadādhāraṃ) [should-arrange](kalpayet) [to-clan-mistress](kulanāyike)
 
 ## mukta-m0-p44-v1095
-[or](athavā) [round-shaped](vartulākāraṃ) [make](kuryāt) [goddess](devi) [mind-charming](manoharam)
+[or](athavā) [round-shaped](vartulākāraṃ) [should-make](kuryāt) [goddess](devi) [mind-charming](manoharam)
 
 ## mukta-m0-p44-v1096
-[very-auspicious](suśrīḥ) [own-form](svarūpā) [tawny](kapilā) [oblation-offering](havyakavyavahe) [thus](tathā)
+[beautiful-Shri](suśrīḥ) [own-form](svarūpā) [tawny](kapilā) [oblation-and-funeral-offering-bearer](havyakavyavahe) [and](tathā)
 
 ## mukta-m0-p44-v1097
-[conch-measure](śaṅkhamānaṃ) [indeed](tu) [span](prādeśaṃ) [four-fingers](caturaṃgulam) [raised](ucchritam)
+[conch-measure](śaṅkhamānaṃ) [indeed](tu) [span](prādeśaṃ) [four-angulas](caturaṃgulam) [raised](ucchritam)
 
 ## mukta-m0-p44-v1098
-[I-am-purpose-giver](ahamarthapradāyeti) [say](vadeta) [twelve](dvādaśa) [also](iti) [api](api)
+[I-meaning-giver-thus](ahamarthapradāyeti) [should-say](vadeta) [twelve-thus-also](dvādaśetyapi)
 
 ## mukta-m0-p44-v1099
-[by-this](anena) [conch](śaṅkham) [having-worshipped](abhyarcya) [rays](kalāḥ) [of-sun](sūryasya) [worship](pūjayet)
+[by-this](anena) [conch-worshipping](śaṅkhamabhyarcya) [parts](kalāḥ) [of-sun](sūryasya) [should-worship](pūjayet)
 
 ## mukta-m0-p44-v1100
-[suṣumnā](suṣumnā) [enjoyment-giver](bhogadā) [all](viśvā) [awakening](bodhinī) [holding](dhāriṇī) [patience](kṣamā)
+[sushumna](suṣumnā) [pleasure-giver](bhogadā) [all](viśvā) [awakener](bodhinī) [supporter](dhāriṇī) [patience](kṣamā)

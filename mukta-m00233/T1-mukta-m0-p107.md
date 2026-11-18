@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p107-v2651
-all-knowing fair desire-form having-form
+[all-knowing](sarvavid) [golden](gauraḥ) [desire-formed](kāmarūpī) [deformed](virūpavān)
 
 ## mukta-m0-p107-v2652
-cupid and-water-god wealth-like and
+[love-god](madanaścaiva) [varuṇa](vāruṇo) [vasu](vasureva) [and](ca)
 
 ## mukta-m0-p107-v2653
-varuna these south-west situated
+[varuṇa](varuṇa) [thus](ityete) [southwest](nair-ṛte) [situated](sthitāḥ)
 
 ## mukta-m0-p107-v2654
-noose-hand joy water-lord shiva
+[noose-handed](pāśapāṇirānando'mbupatiḥ) [joy](ānandaḥ) [water-lord](ambupatiḥ) [śiva](śivaḥ)
 
 ## mukta-m0-p107-v2655
-west-dwelling cloud life crocodile-vehicle
+[west-dwelling](pratyaṅnivāso) [cloud](jalado) [life-giver](jīvano) [crocodile-vehicle](nakravāhanaḥ)
 
 ## mukta-m0-p107-v2656
-agitating and noose-holder noose-bearer teacher
+[agitating](kṣobhaṇaścaiva) [noose-bearer](pāśī) [noose-holder](pāśadharo) [teacher](guruḥ)
 
 ## mukta-m0-p107-v2657
-auspicious vaikuntha supreme highest
+[auspicious](bhadro) [vaikuṇṭha](vaikuṇṭhaḥ) [supreme](paramaḥ) [highest](paraḥ)
 
 ## mukta-m0-p107-v2658
-monkey tara-like and hare sakala sala
+[monkey](vānarastārakaścaiva) [star](tārakaḥ) [hare](śaśakaḥ) [śākala](śākalaḥ) [śala](śalaḥ)
 
 ## mukta-m0-p107-v2659
-[kh: vaḥ] kurus and vajranabha vinayaka
+[kh-vaḥ]([kh: vaḥ]) [kurus](kuravaścaiva) [vajranābha](vajranābho) [vināyaka](vināyakaḥ)
 
 ## mukta-m0-p107-v2660
-obstructor obstruction tarksya garuda indeed and
+[obstructing](rodhano) [obstruction](rodhastārkṣyo) [tārkṣya](tārkṣyaḥ) [garuḍa](garuḍa) [indeed](eva) [and](ca)
 
 ## mukta-m0-p107-v2661
-wind scent-bearer subtle touch and wind-breaker
+[wind](vāyurgandhavahaḥ) [scent-bearing](gandhavahaḥ) [subtle](sūkṣmaḥ) [touching](sparśanaśca) [storm](prabhañjanaḥ)
 
 ## mukta-m0-p107-v2662
-tortoise then krikara devadatta dhananjaya
+[tortoise](kūrmo'tha) [then](atha) [kṛkara](kṛkaro) [devadatta](devadatto) [dhanañjaya](dhanañjayaḥ)
 
 ## mukta-m0-p107-v2663
-marut wind and fire-friend hari
+[wind](marunmārutaśca) [māruta](mārutaḥ) [and](ca) [wind](vāto) [fire-friend](vahnisakho) [hari](hariḥ)
 
 ## mukta-m0-p107-v2664
-strength-holder hero double-hero obstructing also and
+[strong](baladhirvīro) [hero](vīraḥ) [two-formed](dvidhīro) [obstructing](rodhako'pi) [also](api) [and](ca)
 
 ## mukta-m0-p107-v2665
-good-intellect and capable bold bearer
+[wise](sudhīścaiva) [capable](samarthaḥ) [bold](sāhaso) [supporter](dharaḥ)
 
 ## mukta-m0-p107-v2666
-passionate sprinkler non-sprinkler sound
+[passionate](rāgī) [sprinkling](secano'secanaḥ) [non-sprinkling](asecanaḥ) [sound](svanaḥ)
 
 ## mukta-m0-p107-v2667
-instrument doer dependent strength strengthless
+[instrument](karaṇaṃ) [doer](kartā) [dependent](parādhīno) [strong](balo'balaḥ) [weak](abalaḥ)
 
 ## mukta-m0-p107-v2668
-soma manibhadra then guhyaka
+[moon](somo) [māṇibhadra](māṇibhadro'tha) [then](atha) [guhyaka](guhyakaḥ)
 
 ## mukta-m0-p107-v2669
-kinnara-lord chailabili wealth-giver and wealth-lord
+[kinnara-lord](kinnareśaścailabilirdhanadaśca) [ailabila](ailabilaḥ) [wealth-giver](dhanadaḥ) [and](ca) [wealth-lord](dhanādhipaḥ)
 
 ## mukta-m0-p107-v2670
-north-quarter-dwelling and then one-earring
+[northern-quarter-dwelling](uttarāśānivāsaśca) [and](ca) [then](tataḥ) [one-earringed](syādekakuṇḍalaḥ)
 
 ## mukta-m0-p107-v2671
-bhangira surashtra kasthali kali
+[bhaṅgīra](bhaṅgīraḥ) [surāṣṭra](surāṣṭraḥ) [kāṣṭhali](kāṣṭhaliḥ) [kali](kaliḥ)
 
 ## mukta-m0-p107-v2672
-amrita-lord water keyuri alone vali
+[amṛteśa](cāmṛteśo'mbhaḥ) [water](ambhaḥ) [keyurī](keyurī) [kevalī](kevalī) [valī](valī)
 
 ## mukta-m0-p107-v2673
-nalaka dog kratha hawk hawk-faced aruna
+[nalaka](nalakaḥ) [śunaka](śunakaḥ) [krātha](krāthaḥ) [hawk](śyenaḥ) [hawk-faced](śyenamukho'ruṇaḥ) [aruṇa](aruṇaḥ)
 
 ## mukta-m0-p107-v2674
-separation kardama foul-bodied
+[separation](viśleṣaḥ) [kardama](kardamaḥ) [foul-bodied](pūtivigrahaḥ)
 
 ## mukta-m0-p107-v2675
-north-quarter-situated indeed these hosts hara-haras remembered
+[northern-quarter-situated](uttarāśāsthitā) [indeed](hyete) [troops](gaṇā) [hara-harau](haraharau) [remembered](smṛtāḥ)
