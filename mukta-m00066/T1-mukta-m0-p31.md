@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p31-v751
-[wind's](anilasyo) [steadiness-increasing](dhṛtiharī) [mind-firmness-increasing](manasodhairyavardhanī)
+[pada](anilasyo) [pada](dhṛtiharī) [pada](manasodhairyavardhanī) [pada]([kh:) [pada](-varddhinī])
 
 ## mukta-m0-p31-v752
-[worshipful](upāsaniyā) [always](satataṃ) [great-sacrifice](mahāyāga) [proceeding](pravarttibhiḥ)
+[pada](upāsaniyā) [pada]([kh:) [pada](-niyyā]) [pada](satataṃ) [pada]([kh:) [pada](-ta]) [pada](mahāyāga) [pada](pravarttibhiḥ)
 
 ## mukta-m0-p31-v753
-[eightfold](aṣṭakāṣṭakaparyaṃtamapi) [drop](biṃdurnniyacchataḥ)
+[pada](aṣṭakāṣṭakaparyaṃtamapi) [pada](biṃdurnniyacchataḥ)
 
 ## mukta-m0-p31-v754
-[gauli-rasa's](gaulīrasasya) [predominance](prābalyāt) [stiff-vigor](stabdhavīryāmagātmaje)
+[pada](gaulīrasasya) [pada](prābalyāt) [pada](stabdhavīryāmagātmaje)
 
 ## mukta-m0-p31-v755
-[sacrifice-king](yāgarāja) [principal-limb](pradhānāṃgaṃ) [obtained](labhyate) [desired-offering](iṣṭāhuti) [order](kramāt)
+[pada](yāgarāja) [pada](pradhānāṃgaṃ) [pada](labhyateṣṭāhuti) [pada](kramāt)
 
 ## mukta-m0-p31-v756
-[another](aparaṃ) [what-auspicious-one](kinnukalyāṇi) [to-ask](praṣṭumutkaṃṭhitaṃ) [mind](manaḥ)
+[pada](aparaṃ) [pada](kinnukalyāṇi) [pada](praṣṭumutkaṃṭhitaṃ) [pada](manaḥ)
 
 ## mukta-m0-p31-v757
-[its](tasya) [own-form](svarūpaṃ) [to-declare](nirvaktu) [bhavānī](bhavāniṃdu) [crest-jewel](śikhāmaṇe)
+[pada](tasya) [pada](svarūpaṃ) [pada](nirvaktu) [pada](bhavāniṃdu) [pada](śikhāmaṇe)
 
 ## mukta-m0-p31-v758
-[eight-offerings](aṣṭāhutīravikalāḥ) [does](karoti) [great-minded](sumahāśayaḥ)
+[pada](aṣṭāhutīravikalāḥ) [pada](karoti) [pada](sumahāśayaḥ)
 
 ## mukta-m0-p31-v759
-[twenty-four-offerings](tryaṣṭakāhutayaḥ) [of-men](puṃsastrailokyaṃ) [accomplish](sādhayaṃti) [indeed](vai)
+[pada](tryaṣṭakāhutayaḥ) [pada](puṃsastrailokyaṃ) [pada](sādhayaṃti) [pada](vai)
 
 ## mukta-m0-p31-v760
-[those](teṣāṃ) [who-do](ye kurvaṃtyāhutiḥ) [holy](puṇyāḥ) [blazing](jvalite) [linga-fire](liṃgapāvake)
+[pada](ye) [pada](kurvaṃtyāhutiḥ) [pada](puṇyāḥ) [pada]([kh:) [pada](puṇyā]) [pada](jvalite) [pada](liṃgapāvake)
 
 ## mukta-m0-p31-v761
-[of-them](teṣāṃ) [all-lordship](samastamaiśvaryaṃ) [by-resolve](saṃkalpādevasidhyati)
+[pada](teṣāṃ) [pada](samastamaiśvaryaṃ) [pada](saṃkalpādevasidhyati)
 
 ## mukta-m0-p31-v762
-[successively](uttarottarameteṣāṃ) [liberation](nirvāṇa) [happiness-cause](sukhahetutā)
+[pada](uttarottarameteṣāṃ) [pada](nirvāṇa) [pada](sukhahetutā)
 
 ## mukta-m0-p31-v763
-[that](tadekādūtikākuryādvyaṣṭake) [two-messengers](dūtikādvayam)
+[pada](tadekādūtikākuryādvyaṣṭake) [pada](dūtikādvayam)
 
 ## mukta-m0-p31-v764
-[eight](aṣṭau) [messengers](dūtyastu) [to-be-done](karttavyāḥ) [to-be-worshipped](pūjanīyāśca) [truly](tattvataḥ)
+[pada](aṣṭau) [pada](dūtyastu) [pada](karttavyāḥ) [pada](pūjanīyāśca) [pada]([kh:) [pada](-niyyāśca]) [pada](tattvataḥ)
 
 ## mukta-m0-p31-v765
-[he](sa) [indeed](evābhyūhyatāmaṃba) [in-order](krameṇadvyaṣṭakādiṣu)
+[pada](sa) [pada](evābhyūhyatāmaṃba) [pada](krameṇadvyaṣṭakādiṣu)
 
 ## mukta-m0-p31-v766
-[various](nānāvidhābhiḥ) [fair-hipped](suśroṇi) [his](tasya) [vain-manifestations](vyarthāvibhūtayaḥ)
+[pada](nānāvidhābhiḥ) [pada](suśroṇi) [pada]([kh:) [pada](-ṇī]) [pada](tasya) [pada](vyarthāvibhūtayaḥ)
 
 ## mukta-m0-p31-v767
-[love-jewel](anaṃgamaṇināmasti) [vein-wealth](sirāgṛddhirmanoharaḥ)
+[pada](anaṃgamaṇināmasti) [pada](sirāgṛddhirmanoharaḥ)
 
 ## mukta-m0-p31-v768
-[placed](pradhitasyaṃ) [low](dinīceyaṃ) [controlling](vaśinī) [speech-power-giving](vāgvibhūtidā)
+[pada](pradhitasyaṃ) [pada](dinīceyaṃ) [pada](vaśinī) [pada](vāgvibhūtidā)
 
 ## mukta-m0-p31-v769
-[holy-linga-great-lord's](sādhuliṃgamaheśasya) [union](saṃghaṭṭana) [canopy](vitānataḥ)
+[pada](sādhuliṃgamaheśasya) [pada](saṃghaṭṭana) [pada](vitānataḥ)
 
 ## mukta-m0-p31-v770
-[tamala-dark](tamālaśyāmalacchāyāmīccaiva) [astringent](kaṣāyitam)
+[pada](tamālaśyāmalacchāyāmīccaiva) [pada](kaṣāyitam) [pada]([kh:) [pada](* * * *?)]
 
 ## mukta-m0-p31-v771
-[great-rivers](mahānadīṣu) [all](sarvāsu) [especially](viśiṣṭā) [declared](parikīrttitā)
+[pada](mahānadīṣu) [pada](sarvāsu) [pada](viśiṣṭā) [pada](parikīrttitā)
 
 ## mukta-m0-p31-v772
-[who-satisfies](yastarpayati) [linga-fire](laiṃgāgniṃ) [all-being](sasarvatvaṃ) [attains](samṛcchati)
+[pada](yastarpayati) [pada](laiṃgāgniṃ) [pada](sasarvatvaṃ) [pada](samṛcchati)
 
 ## mukta-m0-p31-v773
-[self](ātmī) [having-made](kṛtya) [element](ca bhūtattvaṃ) [everywhere](sarvatrāskhalitaṃ) [gait](gatim)
+[pada](ātmī) [pada](kṛtya) [pada](ca) [pada](bhūtattvaṃ) [pada](sarvatrāskhalitaṃ) [pada](gatim)
 
 ## mukta-m0-p31-v774
-[obtains](labhate) [eternal](nityaniściṃtaḥ) [carefree](saṃcāraṃ) [yoga-power](yogamāyayā)
+[pada](labhate) [pada](nityaniściṃtaḥ) [pada](saṃcāraṃ) [pada](yogamāyayā)
 
 ## mukta-m0-p31-v775
-[I-worship](arcayāmi) [your-limbs](bhavadgātra) [hence](mataḥsiddhiṃ) [grant](prayacchame)
+[pada](arcayāmi) [pada](bhavadgātra) [pada](mataḥsiddhiṃ) [pada](prayacchame)

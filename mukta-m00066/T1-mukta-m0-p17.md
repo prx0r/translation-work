@@ -2,52 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p17-v401
-tasya-api devi saṃskāram bruve bāhyam atha antaram
+[of-him](tasyāpi) [goddess](devi) [purification](saṃskāraṃ) [i-will-speak](bruve) [external](bāhyam) [then](atha) [internal](aṃtaram)
+
 ## mukta-m0-p17-v402
-dūtikā jīva-nātha api saṃskāram parama arhati
+[messenger](dūtikā) [life-lord](jīvanāthaḥ) [api](api) [purification](saṃskāraṃ) [supremely](param) [deserves](arhati)
+
 ## mukta-m0-p17-v403
-yad asaṃge api jīva-ākhye śive khelati nirbhayā
+[when](yad) [non-attachment](asaṃge) [api](api) [soul-named](jīvākhye) [in-shiva](śive) [plays](khelati) [fearless](nirbhayā)
+
 ## mukta-m0-p17-v404
-sva-jīva-ākhya maheśasya bādya vidyā-avakuṃṭhitaḥ
+[own-soul-named](svajīvākhya) [great-lord's](maheśasya) [bādya](bādya) [knowledge](vidyā) [obstructed](akuṃṭhitaḥ)
+
 ## mukta-m0-p17-v405
-mala-apanodikāḥ kiṃtu samastāḥ pūjana-kramāḥ
+[impurity-removing](malāpanodikāḥ) [but](kiṃtu) [all](samastāḥ) [worship-rites](pūjanakramāḥ)
+
 ## mukta-m0-p17-v406
-tat saṃsarga-vaśāt śuddha sva-ātmā api malinī bhavet
+[that](tat) [association](saṃsarga) [by-power](vaśāt) [pure](śuddha) [own-self](svātmā) [api](api) [becomes-impure](malinī) [bhavet](bhavet)
+
 ## mukta-m0-p17-v407
-samaya-śravaṇam tasyāḥ prathamam parikīrtitam
+[convention-hearing](samayaśravaṇaṃ) [of-her](tasyāḥ) [first](prathamaṃ) [declared](parikīrtitam)
+
 ## mukta-m0-p17-v408
-alpa-varṇena maṃtreṇa pāśa-nirdahakāriṇā
+[small-letter](alpavarṇena) [mantra](maṃtreṇa) [fetter-burning](pāśanirdahakāriṇā)
+
 ## mukta-m0-p17-v409
-na rāgāt na ca lobhāt vā na ca mohāt mahīyasaḥ
+[not](na) [from-passion](rāgāt) [na](na) [ca](ca) [from-greed](lobhāt) [vā](vā) [na](na) [ca](ca) [from-delusion](mohāt) [great](mahīyasaḥ)
+
 ## mukta-m0-p17-v410
-prakṛtyā amugdha-manasaḥ striyaḥ tatvam na jānate
+[naturally](prakṛtyā) [bewildered-mind](mugdhamanasas) [women](striyaḥ) [truth](tatvaṃ) [na](na) [jānate](jānate)
+
 ## mukta-m0-p17-v411
-śayāḥ
+[sleeping](śayāḥ)
+
 ## mukta-m0-p17-v412
-stana-uttaṃbhana dṛṣṭena yauvanena mada-uddhatāḥ
+[by-breast-firmness](stanottaṃbhana) [seen](dṛṣṭena) [youth](yauvanena) [mad-intoxicated](madoddhatāḥ)
+
 ## mukta-m0-p17-v413
-aviśvāsaḥ samasteṣu pratyayaḥ na guror giri
+[distrust](aviśvāsaḥ) [in-all](samasteṣu) [faith](pratyayaḥ) [na](na) [guru's](gurorgiri)
+
 ## mukta-m0-p17-v414
-manyamānāḥ durācārāḥ patanti narake striyaḥ
+[thinking](manyamānāḥ) [bad-conduct](durācārāḥ) [fall](pataṃti) [in-hell](narake) [women](striyaḥ)
+
 ## mukta-m0-p17-v415
-tāṃbūlam anulepam ca vāsam ca mukha-vāsikā
+[betel](tāṃbūlam) [anointing](anulepaṃ) [ca](ca) [garment](vāsaḥ) [ca](ca) [mouth-perfume](mukhavāsikā)
+
 ## mukta-m0-p17-v416
-sarvam etat maheśasya pūjā-sādhanitam yathā
+[all](sarvam) [this](etan) [great-lord's](maheśasya) [worship-means](pūjāsādhanitaṃ) [as](yathā)
+
 ## mukta-m0-p17-v417
-asmad-vapuḥ idam tuccham pūjā-sādhanitum budhaiḥ
+[our](asmad) [body](vapur) [this](idaṃ) [insignificant](tucchaṃ) [worship-means](pūjāsādhanituṃ) [by-wise](budhaiḥ)
+
 ## mukta-m0-p17-v418
-sāla-bhedāt uttamān lokān sādhakena mahātmanā
+[best](uttamāt) [worlds](lokān) [by-practitioner](sādhakena) [great-soul](mahātmanā)
+
 ## mukta-m0-p17-v419
-viṣṇu-loke rudra-loke krīḍanti bahu-vibhramāḥ
+[in-vishnu-world](viṣṇuloke) [in-rudra-world](rudraloke) [play](krīḍaṃti) [with-many-charms](bahuvibhramāḥ)
+
 ## mukta-m0-p17-v420
-ityādibhiḥ yūkti-yuktaiḥ vacanaiḥ śāstra-sammitaiḥ
+[by-such](ityādibhiḥ) [reasons](yūkti) [yuktaiḥ](yuktaiḥ) [words](vacanaiḥ) [scripture-concordant](śāstrasammitaiḥ)
+
 ## mukta-m0-p17-v421
-ānanda-bhairavīm ca api maṃtreṇa abāhya sādhakaḥ
+[bliss-bhairavi](ānaṃdabhairavīṃ) [ca](ca) [api](api) [mantra](maṃtreṇa) [external](abāhya) [practitioner](sādhakaḥ)
+
 ## mukta-m0-p17-v422
-tryaśre sthitāḥ punaḥ pūjyāḥ rati prīti manobhavāḥ
+[in-triangle](tryaśre) [situated](sthitāḥ) [again](punaḥ) [worshipped](pūjyā) [rati](rati) [delight](prīti) [love-god](manobhavāḥ)
+
 ## mukta-m0-p17-v423
-drāviṇī śoṣiṇī ca evam bandhinī mohinī tathā
+[drāviṇī](drāviṇī) [śoṣiṇī](śoṣiṇī) [ca](ca) [eva](eva) [binding](baṃdhinī) [deluding](mohinī) [tathā](tathā)
+
 ## mukta-m0-p17-v424
-paṃcārasyām cale pūjyāḥ kāmarāja-maheśvarī
+[in-five-arrows](paṃcārasyāṃ) [cale](cale) [worshipped](pūjyāḥ) [kāmarāja](kāmarāja) [great-lady](maheśvarī)
+
 ## mukta-m0-p17-v425
-manobhavaḥ paṃcamaḥ ca jagat-kṣobhakarāḥ ime
+[love-god](manobhavaḥ) [fifth](paṃcamaḥ) [ca](ca) [world-agitating](jagatkṣobhakarāḥ) [these](ime)

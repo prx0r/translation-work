@@ -2,52 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p08-v176
-pūtanā-śakaṭa-ādīnām (of pūtanā, cart, etc.) yamala-arjunayoḥ-api (of twin arjuna trees also)
+[of-pūtanā-cart-etc](pūtanāśakaṭādīnāṃ) [of-yamala-arjuna-too](yamalārjunayorapi)
+
 ## mukta-m0-p08-v177
-govardhana-uddharaṇe (in lifting govardhana) tathā (and) kālīya-mardane (in crushing kālīya)
+[of-govardhana-lifting](govarddhanasyoddharaṇe) [and-of-kālīya-subduing](tathā kālīyamardane)
+
 ## mukta-m0-p08-v178
-tena-indrāya-upadiṣṭā (by him taught to indra) iyam (this) vidyā-saubhāgya-dāyinī (vidyā giving fortune)
+[by-him-to-indra-taught-this](teneṃdrāyopadiṣṭeyaṃ) [vidyā-prosperity-giving](vidyāsaubhāgyadāyinī)
+
 ## mukta-m0-p08-v179
-evam (thus) smareṣu (in smaras) sarvatra (everywhere) sura-dvāra-anareṣu (in divine gate places) ca (and)
+[thus-in-all-remembrances](evaṃ smareṣu sarvatra) [and-in-gods-gates-men](suradvārānareṣu ca)
+
 ## mukta-m0-p08-v180
-sarva-siddhi-karī (all-siddhi-doing) sarva-pāpa (all-sin) jāla-nikṛntanī (net-cutting)
+[all-siddhi-making](sarvasiddhikarī) [all-sin-net-cutting](sarvapāpa jālanikṛṃtanī)
+
 ## mukta-m0-p08-v181
-sarva-tattva-mayī (all-tattva-filled) sarva-vyādhi-śaila (all-disease-mountain) mahā-aśaniḥ (great-thunderbolt)
+[all-tattva-filled](sarvatatvamayī) [all-disease-mountain-great-thunderbolt](sarvavyādhiśaila mahāśaniḥ)
+
 ## mukta-m0-p08-v182
-mārīca-uraga-vyāghra-bhaye (fear of deer, snake, tiger) ghora-kāntāra-saṃkaṭe (in dreadful forest-difficulty)
+[in-thief-tiger-fear](mārīcoravyāghrabhaye) [in-dreadful-kāntāra-difficulty](ghorakāṃtārasaṃkaṭe)
+
 ## mukta-m0-p08-v183
-sakṛt-kṛtā (once done) iyam (this) sad-vidyā (true-vidyā) sarva-duḥkham (all-sorrow) vyapohati (removes)
+[once-done-this-true-vidyā](sakṛtkṛteyaṃ sadvidyā) [all-sorrow-removes](sarvaduḥkhaṃ vyapohati)
+
 ## mukta-m0-p08-v184
-kim (what) vyastam (scattered) kim-nu-kūṭam (what indeed kūṭa) vā (or) kathayasva (tell) mama (to me) prabho (lord)
+[what-scattered-what-combined-or](kiṃ vyastaṃ kinnukūṭaṃ vā) [tell-me-lord](kathayasva mama prabho)
+
 ## mukta-m0-p08-v185
-śivasya (of śiva) śaktiḥ-api (śakti also) ca (and) sāmarasya (of harmony) kalā-ātmakam (kalā-natured)
+[of-śiva-power-also](śivasya śaktirapi ca) [sāmarasya-kalā-formed](sāmarasya kalātmakam)
+
 ## mukta-m0-p08-v186
-prathamam (first) viśva-rūpam (world-form) syāt (is) dvitīyam (second) tu (but) nava-ātmakam (nine-souled)
+[first-universal-form](prathamaṃ viśvarūpaṃ syād) [second-nine-formed](dvitīyaṃ tu navātmakam)
+
 ## mukta-m0-p08-v187
-etat (this) nava-ātmakam (nine-souled) prāhuḥ (they call) kūṭam (kūṭa) bījam (seed) mahattaram (great)
+[this-nine-formed-called](etannavātmakaṃ prāhuḥ) [kūṭa-bīja-greatest](kūṭaṃ bījaṃ mahattaram)
+
 ## mukta-m0-p08-v188
-bhṛgu-śaṃkara (bhṛgu-śaṃkara) saṃvartā (saṃvarta) bhāṃta (shining) * * * * * *
+[bhṛgu-śaṃkara-saṃvarta](bhṛguśaṃkara saṃvartā) [bhāṃta-etc](bhāṃta * * * * * *)
+
 ## mukta-m0-p08-v189
-ānanda-vallī (ānanda-vallī) vidyāyāḥ (of vidyā) ṣaḍ-aṃgam (six-limbed) kathayāmi (I tell) te (to you)
+[ānandavallī-vidyā](ānaṃdavalli vidyāyāḥ) [six-limbs-tell-thus](ṣaḍaṃgaṃ kathayāmite)
+
 ## mukta-m0-p08-v190
-tataḥ (then) tu (but) navabhiḥ (by nine) netram (eye) dvābhyām (by two) astram (weapon) prakīrtitam (declared)
+[then-with-nine-netra](tatastu navabhirnetraṃ) [with-two-astra-declared](dvābhyāmastraṃ prakīrtitam)
+
 ## mukta-m0-p08-v191
-ādhāre (in ādhāra) svādhiṣṭhāne (in svādhiṣṭhāna) ca (and) maṇipūre (in maṇipūra) api (also) anāhate (in anāhata)
+[in-ādhāra-svādhiṣṭhāna](ādhāre svādhiṣṭhāne ca) [in-maṇipūra-anāhata](maṇipūrepyanāhate)
+
 ## mukta-m0-p08-v192
-karṇayoḥ (in ears) ca (and) bhruvoḥ-madhye (between brows) phāla-netre (forehead-eye) śiraḥ-taṭe (on head-bank)
+[in-ears-between-brows](karṇayośca bhruvormadhye) [in-forehead-crown](phālanetre śirastaṭe)
+
 ## mukta-m0-p08-v193
-dvādaśa-anta (twelve-end) mahā-sthāne (great-place) varṇa-nyāsam (letter-nyāsa) samācaret (should perform)
+[in-twelve-anta-great-place](dvādaśāṃta mahāsthāne) [varṇa-nyāsa-should-do](varṇanyāsaṃ samācaret)
+
 ## mukta-m0-p08-v194
-ājñā-cakre (in ājñā-cakra) nāhate (in nāhata) ca (and) tathā (thus) nābhi-pade (at navel-place) api (also) ca (and)
+[in-ājñā-cakra-nāhata](ājñācakre nāhate ca) [and-in-navel-place-too](tathānābhi padepi ca)
+
 ## mukta-m0-p08-v195
-nava-akṣarāṇām (of nine-syllables) kathitaḥ (declared) nyāsaḥ (nyāsa) eva (indeed) maheśvari (O maheśvarī)
+[of-nine-syllables-declared](navākṣarāṇāṃ kathito) [nyāsa-thus-maheśvarī](nyāsa eva maheśvari)
+
 ## mukta-m0-p08-v196
-yoni-mūle (at yoni-root) yoni-madhye (in yoni-middle) yoni-agre (at yoni-tip) ca (and) api (also) bhairavī (bhairavī)
+[in-yoni-root-middle](yonimūle yonimadhye) [in-yoni-tip-also-bhairavī](yonyagre cāpi bhairavī)
+
 ## mukta-m0-p08-v197
-ayaṃ (this) nyāsaḥ (nyāsa) yāga-kāle (at sacrifice-time) pravṛtte (when begun) parameśvari (O parameśvarī)
+[this-nyāsa-when-ritual-begins](aya nyāso yāgakāle pravṛtte) [parama-īśvarī](parameśvari)
+
 ## mukta-m0-p08-v198
-ānanda-nātha (ānanda-nātha) pūjāyām (in worship) yogyatvam (fitness) sādhakaḥ (sādhaka) aśnute (attains)
+[in-ānandanātha-worship](ānaṃdanātha pūjāyāṃ) [fitness-adept-obtains](yogyatvaṃ sādhako'śnute)
+
 ## mukta-m0-p08-v199
-navīkṣitum (to see anew) śaknuvanti (are able) bhaya-ārtāḥ (afflicted by fear) vighna-koṭayaḥ (crores of obstacles)
+[able-to-see-newly](navīkṣituṃ śaknuvaṃtī) [fear-stricken-obstacle-millions](bhayārtā vighnakoṭayaḥ)
+
 ## mukta-m0-p08-v200
-ena (by this) vijñāna-mātreṇa (by mere knowledge) parānanda (supreme-bliss) tanuḥ (body) bhavet (becomes)
+[by-this-knowledge-alone](ena vijñānamātreṇa) [supreme-bliss-body-becomes](parānaṃda tanurbhavet)
