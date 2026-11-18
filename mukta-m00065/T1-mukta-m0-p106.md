@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p106-v2626
-karṇikā (karṇikā) śaśi-bhāgena (śaśibhāgena) vistārāt (vistārāt) ca (ca) adhunā (adhunā) ucyate (ucyate)
+[karṇikā](karṇikā) [moon-part](śaśibhāgena) [from-expansion](vistārāt) [and](ca) [now](adhunā) [is-said](ucyate)
 
 ## mukta-m0-p106-v2627
-tat-madhye (tanmadhye) tu (tu) dvi-bhāgābhyām (dvibhāgābhyāṃ) praveśaḥ (praveśo) gṛha (gṛha) [g: graha] hetave (hetave)
+[therein](tanmadhye) [two-parts](dvibhāgābhyāṃ) [entrance](praveśaḥ) [house](gṛha) [for-planet](grahahetave)
 
 ## mukta-m0-p106-v2628
-evam (evameva) eva (evameva) tu (tu) jaṅghā (jaṅghā) āyāma (āyāma) añjaryā (añjaryā) vedikā (vedikā) avadhiḥ (avadhiḥ)
+[thus](evameva) [thigh-height](jaṅghāyām) [añjari](añjaryā) [vedikā-limit](vedikāvadhiḥ)
 
 ## mukta-m0-p106-v2629
-prāsāda (prāsāda) śikharam (śikharaṃ) vā (vā) api (api) brūyām (brūyām) uparatha (uparathā) ādikān (ādikān)
+[temple-spire](prāsādaśikharaṃ) [or](vā) [api](api) [say](brūyām) [uparatha-etc](uparathādikān)
 
 ## mukta-m0-p106-v2630
-pīṭha (pīṭhā) ādi (ādi) abja (abjā) antam (antam) ucchrāye (ucchrāye) praveśaḥ (praveśaś) ca (ca) nigadyate (nigadyate)
+[seat-etc](pīṭhādyabjāntam) [in-height](ucchrāye) [entrance](praveśaḥ) [ca](ca) [is-declared](nigadyate)
 
 ## mukta-m0-p106-v2631
-ardhena (ardhena) paṭṭikām (paṭṭikāṃ) kuryāt (kuryādd) dvābhyām (dvābhyāṃ) kaṇṭha (kaṇṭha) praveśakam (praveśakam)
+[half](ardhena) [band](paṭṭikāṃ) [make](kuryāt) [two](dvābhyāṃ) [neck-entrance](kaṇṭhapraveśakam)
 
 ## mukta-m0-p106-v2632
-ardha-aṃśena (ardhāṃśena) tat (tat) ūrdhve (ūrdhve) tu (tu) kāryā (kāryā) ca (ca) eva (eva) upapaṭṭikā (upapaṭṭikā)
+[half-part](ardhāṃśena) [above](tadūrdhve) [tu](tu) [make](kāryā) [ca](ca) [eva](eva) [sub-band](upapaṭṭikā)
 
 ## mukta-m0-p106-v2633
-tri-aṅghri (tryāṅghri) praveśaḥ (praveśo) haṃsa (haṃsa) [gh: dvyaṃśa] tat (tat) paṭṭi (paṭṭi) ardha (ardha) praveśataḥ (praveśataḥ)
+[three-angled-entrance](tryāṅghripraveśaḥ) [haṃsa](haṃsa) [dvyaṃśa](dvyaṃśa) [that-band-half-entrance](statpaṭṭyardhapraveśataḥ)
 
 ## mukta-m0-p106-v2634
-sandhi (sandhi) patra (patrā) anvitaṃ (anvitaṃ) [kh: ṅkita] padmam (padmaṃ) vidadhīta (vidadhīta) suśobhanam (suśobhanam)
+[joint-leaf](sandhipatrānvitaṃ) [padma](padmaṃ) [make](vidadhīta) [very-beautiful](suśobhanam)
 
 ## mukta-m0-p106-v2635
-śila (śilotthaṃ) utthaṃ (śilotthaṃ) pada (pada) pīṭham (pīṭhaṃ) syāt (syāt) evam (evam) dāru (dārviṣṭakā) iṣṭakā (dārviṣṭakā) maye (maye)
+[stone-born](śilotthaṃ) [foot-seat](padapīṭhaṃ) [syāt](syāt) [evaṃ](evaṃ) [wood-brick](dārviṣṭakāmaye)
 
 ## mukta-m0-p106-v2636
-tat (tad) ucchrayam (ucchrayaṃ) grahaṃ (grahaṃ) kṛtvā (kṛtvā) jaṅghā (jaṅghā) tat (tan) madhyataḥ (madhyato) guṇaiḥ (guṇaiḥ)
+[that-height](taducchrayaṃ) [planet](grahaṃ) [make](kṛtvā) [thigh](jaṅghā) [therein](tanmadhyato) [qualities](guṇaiḥ)
 
 ## mukta-m0-p106-v2637
-vedibandha (vedibandha) varaṇḍā (varaṇḍā) [mū, a: vavaṇḍā] din (din) nigadāmi (nigadāmy) anupūrvaśaḥ (anupūrvaśaḥ)
+[vedibandha-varaṇḍa](vedibandhavaraṇḍā) [dinnigadāmyanupūrvaśaḥ](dinnigadāmyanupūrvaśaḥ)
 
 ## mukta-m0-p106-v2638
-ucchraye (ucchraye) dhāma (dhāma) turyāṃśāt (turyāṃśāt) tasmin (tasmin) nidrā (nidrā) aṃśake (aṃśake) kṛte (kṛte)
+[height](ucchraye) [dhāma-fourth-part](dhāmaturyāṃśāt) [therein](tasmin) [nidrā-part](nidrāṃśakekṛte)
 
 ## mukta-m0-p106-v2639
-sārdha (sārdha) trayeṇa (trayeṇa) kumbhaḥ (kumbhaḥ) syāt (syāt) tat (tat) ardhe (ardhe) kumbha (kumbha) paṭṭikā (paṭṭikā)
+[one-and-half](sārdhatrayeṇa) [kumbha](kumbhaḥ) [syāt](syāt) [that-half](tadardhe) [kumbha-band](kumbhapaṭṭikā)
 
 ## mukta-m0-p106-v2640
-bhāga (bhāga) ardhena (ardhena) tu (tu) kaṇṭhaḥ (kaṇṭhaḥ) syāt (syāt) kalaśaḥ (kalaśaś) ca (ca) guṇa (guṇa) aṃśataḥ (aṃśataḥ)
+[part-half](bhāgārdhena) [tu](tu) [neck](kaṇṭhaḥ) [syāt](syāt) [kalaśa](kalaśaśca) [quality-part](guṇāṃśataḥ)
 
 ## mukta-m0-p106-v2641
-praveśāt (praveśāt) ca (ca) ekataḥ (ekataḥ) kaṇṭhāḥ (kaṇṭhāś) ca (ca) ardhe (ardhe) [mū: sārdhe] nirgama (nirgama) paṭṭikā (paṭṭikā)
+[entrance](praveśāccaikataḥ) [necks](kaṇṭhāścārdhe) [nirgama-band](nirgamapaṭṭikā)
 
 ## mukta-m0-p106-v2642
-kumbha (kumbha) paṭṭī (paṭṭī) tu (tu) pādena (pādena) kupālyā (kupālyā) dyaṃśataḥ (dyaṃśataḥ) sthitā (sthitā)
+[kumbha-band](kumbhapaṭṭī) [tu](tu) [foot](pādena) [kupālī](kupālyā) [dy-aṃśa](dyaṃśataḥ) [sthitā](sthitā)
 
 ## mukta-m0-p106-v2643
-tribhiḥ (tribhiḥ) khura (khura) ādibhiḥ (ādibhiḥ) yuktaṃ (yuktaṃ) vedībandha (vedībandha) abhidhānakam (abhidhānakam)
+[three](tribhiḥ) [hoof-etc](khurādibhiryuktaṃ) [vedībandha-named](vedībandhābhidhānakam)
 
 ## mukta-m0-p106-v2644
-kṛteṣu (kṛteṣu) triṣu (triṣu) bhāgeṣu (bhāgeṣu) pāda (pāda) ona (ona) aṃśāt (aṃśāt) praveśikān (praveśikān)
+[made](kṛteṣu) [three](triṣu) [parts](bhāgeṣu) [foot-less-part](pādonāṃśāt) [entrance](praveśikān)
 
 ## mukta-m0-p106-v2645
-bhāgena (bhāgena) caturasra (caturasra) ākhyā (ākhyā) paṭṭikā (paṭṭikā) sārdhataḥ (sārdhataḥ) sthitā (sthitā)
+[part](bhāgena) [square-named](caturasrākhyā) [band](paṭṭikā) [one-and-half](sārdhataḥ) [sthitā](sthitā)
 
 ## mukta-m0-p106-v2646
-khuṃra (khuṃra) kumbhavatī (kumbhavatī) jaṅghā (jaṅghā) jyeṣṭhānām (jyeṣṭhānāṃ) pāda (pāda) mānataḥ (mānataḥ)
+[khuṃra-kumbha](khuṃrakumbhavatī) [thigh](jaṅghā) [elders](jyeṣṭhānāṃ) [foot-measure](pādamānataḥ)
 
 ## mukta-m0-p106-v2647
-yāvat (yāvacc) cinnavakām (cinnavakāṃ) vā (vā) api (api) patravalyā (patravalyā) athavā (athavā) varā (varā)
+[yāvat](yāvaccinnavakāṃ) [vā](vā) [api](api) [leaf-garland](patravalyāthavā) [varā](varā)
 
 ## mukta-m0-p106-v2648
-caturtha (caturtha) aṃśaḥ (aṃśaś) ca (ca) jaṅgha (jaṅgha) ūrdhve (ūrdhve) vibhajya (vibhajya) vasu (vasu) bhāgataḥ (bhāgataḥ)
+[fourth-part](caturthāṃśaśca) [thigh-above](jaṅghordhve) [divide](vibhajya) [eight-part](vasubhāgataḥ)
 
 ## mukta-m0-p106-v2649
-tatra (tatra) ardhena (ardhena) praveśa (praveśā) ākhyaṃ (ākhyaṃ) paṭṭikām (paṭṭikāṃ) tu (tu) vi (vi) [kh: bhuvi] vartayet (vartayet)
+[there](tatrārdhena) [entrance-named](praveśākhyaṃ) [band](paṭṭikāṃ) [tu](tu) [vi](vi) [vartayet](vartayet)
 
 ## mukta-m0-p106-v2650
-pāda (pāda) ona (ona) aṃśena (aṃśena) haṃsa (haṃsa) ākhyā (ākhyā) [kh; hastākhyā] paṭṭī (paṭṭī) tat (tat) padataḥ (padato) bhavet (bhavet)
+[foot-less-part](pādonāṃśena) [haṃsa-named](haṃsākhyā) [band](paṭṭī) [that-foot](tatpadato) [bhavet](bhavet)
