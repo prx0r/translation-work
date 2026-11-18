@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p53-v1301
-[root](mūla) [support](ādhārā) [root-support](mūlādhārā) [root-support](mūlādhārā)
+[mūlādhārā](mūlādhārā)
 
 ## mukta-m0-p53-v1302
-[root](mūla) [support](ādhārā) [support-born](ādhārabhūtā) [may-it-be](mamāstu)
+[mūlādhārā+ādhāra+bhūtā](mūlādhārādhārabhūtā) [mamāstu](mamāstu)
 
 ## mukta-m0-p53-v1303
-[formless](nirākārā) [formless](nirākārā) [formless](nirākārā) [formless](nirākārā)
+[nirākārā](nirākārā)
 
 ## mukta-m0-p53-v1304
-[therefore](ato) [song](gītā) [all-forms](akhilākārā) [formless](nirākārā) [thus](iti) [by-sages](sūribhiḥ)
+[ataḥ](ato) [gītā+akhilā+ākārā](gītākhilākārā) [nirākārā+iti](nirākāreti) [sūribhiḥ](sūribhiḥ)
 
 ## mukta-m0-p53-v1305
-[fire-pit](vahni) [made-abode](kuṇḍakṛtālayā) [fire-pit-abode](vahnikuṇḍakṛtālayā) [fire-pit-abode](vahnikuṇḍakṛtālayā)
+[vahni+kuṇḍa+kṛta+ālayā](vahnikuṇḍakṛtālayā)
 
 ## mukta-m0-p53-v1306
-[flame-garland](jvālāmālābhiḥ) [this](eṣā) [you](tvaṃ) [fire-pit-abode](vahnikuṇḍakṛtālayā)
+[jvālā+mālābhiḥ+eṣā](jvālāmālābhireṣā) [tvaṃ](tvaṃ) [vahni+kuṇḍa+kṛta+ālayā](vahnikuṇḍakṛtālayā)
 
 ## mukta-m0-p53-v1307
-[wind-pit](vāyu) [comfortably-seated](kuṇḍasukhāsīnā) [wind-pit-seated](vāyukuṇḍasukhāsīnā) [wind-pit-seated](vāyukuṇḍasukhāsīnā)
+[vāyu+kuṇḍa+sukha+āsīnā](vāyukuṇḍasukhāsīnā)
 
 ## mukta-m0-p53-v1308
-[wind-pit-seated](vāyukuṇḍasukhāsīnā) [because](yasmāt) [you](tvaṃ) [poor-compassionate](dīnavatsalā)
+[vāyu+kuṇḍa+sukha+āsīnā](vāyukuṇḍasukhāsīnā) [yasmāt](yasmāt) [tvaṃ](tvaṃ) [dīna+vatsalā](dīnavatsalā)
 
 ## mukta-m0-p53-v1309
-[supportless](nirādhārā) [supportless](nirādhārā) [supportless](nirādhārā) [supportless](nirādhārā)
+[nirādhārā](nirādhārā)
 
 ## mukta-m0-p53-v1310
-[supportless](nirādhārā) [prison](kārāṃ) [remove](haratu) [my](mama) [world-wandering](saṃsāravisarām)
+[nirādhārā](nirādhārā) [kārāṃ](kārāṃ) [haratu](haratu) [mama](mama) [saṃsāra+visarām](saṃsāravisarām)
 
 ## mukta-m0-p53-v1311
-[refugeless](nirāśrayā) [refugeless](nirāśrayā) [refugeless](nirāśrayā) [refugeless](nirāśrayā)
+[nirāśrayā](nirāśrayā)
 
 ## mukta-m0-p53-v1312
-[always-intent-abode](sadāśayalayasthānā) [she](sā) [twofold](dvidhā) [is](asti) [refugeless](nirāśrayā)
+[sadā+āśaya+laya+sthānā](sadāśayalayasthānā) [sā](sā) [dvidhā+asti](dvidhāsti) [nirāśrayā](nirāśrayā)
 
 ## mukta-m0-p53-v1313
-[breath-in-out-course](śvāsocchvāsagatiḥ) [breath-in-out-course](śvāsocchvāsagatiḥ) [breath-in-out-course](śvāsocchvāsagatiḥ) [breath-in-out-course](śvāsocchvāsagatiḥ)
+[śvāsa+ucchvāsa+gatiḥ](śvāsocchvāsagatiḥ)
 
 ## mukta-m0-p53-v1314
-[may-be](bhūyāt) [of-good](satāṃ) [approved](sammatā) [approved](sammatā)
+[bhūyāt](bhūyāt) [satāṃ](satāṃ) [sammatā](sammatā)
 
 ## mukta-m0-p53-v1315
-[living-soul](jīvā) [living-soul](jīvā) [living-soul](jīvā) [living-soul](jīvā)
+[jīvā](jīvā)
 
 ## mukta-m0-p53-v1316
-[me](rmāṃ) [may-she-enliven](jīvayatviyamajīvatayeha) [here](iha) [living-soul](jīvā)
+[rmāṃ](rmāṃ) [jīvayatu+iyam+ajīvatayā+iha](jīvayatviyamajīvatayeha) [jīvā](jīvā)
 
 ## mukta-m0-p53-v1317
-[grasper](grāhiṇī) [grasper](grāhiṇī) [grasper](grāhiṇī) [grasper](grāhiṇī)
+[grāhiṇī](grāhiṇī)
 
 ## mukta-m0-p53-v1318
-[grasper](grāhiṇī) [she](sā) [always](sadā) [may-be](bhūyād) [planet-grasp-pain-remover](grahāgrahagrahārtihṛt)
+[grāhiṇī](grāhiṇī) [sā](sā) [sadā](sadā) [bhūyād](bhūyād) [graha+agraha+graha+ārti+hṛt](grahāgrahagrahārtihṛt)
 
 ## mukta-m0-p53-v1319
-[fire-refuge](vahnisaṃśrayā) [fire-refuge](vahnisaṃśrayā) [fire-refuge](vahnisaṃśrayā) [fire-refuge](vahnisaṃśrayā)
+[vahni+saṃśrayā](vahnisaṃśrayā)
 
 ## mukta-m0-p53-v1320
-[seat-ness](āsanatvaṃ) [gone](gato) [whose](yasyāḥ) [refuge](saṃśrayaḥ) [he](sa) [also](ca) [her](tāṃ) [we-bow](numaḥ)
+[āsana+tvaṃ](āsanatvaṃ) [gataḥ](gato) [yasyāḥ](yasyāḥ) [saṃśrayaḥ](saṃśrayaḥ) [sa](sa) [ca](ca) [tāṃ](tāṃ) [numaḥ](numaḥ)
 
 ## mukta-m0-p53-v1321
-[fire-thread-born](vahnitantusamutthānā) [fire-thread-born](vahnitantusamutthānā) [fire-thread-born](vahnitantusamutthānā) [fire-thread-born](vahnitantusamutthānā)
+[vahni+tantu+samutthānā](vahnitantusamutthānā)
 
 ## mukta-m0-p53-v1322
-[fire-thread-born](vahnitantusamutthānā) [what-like](kīdṛśī) [wonderful-goddess](citramīśvarī)
+[vahni+tantu+samutthānā](vahnitantusamutthānā) [kīdṛśī](kīdṛśī) [citram+īśvarī](citramīśvarī)
 
 ## mukta-m0-p53-v1323
-[six-tastes-eager](ṣaḍrasāsvādalolupā) [six-tastes-eager](ṣaḍrasāsvādalolupā) [six-tastes-eager](ṣaḍrasāsvādalolupā) [six-tastes-eager](ṣaḍrasāsvādalolupā)
+[ṣaḍ+rasa+āsvāda+lolupā](ṣaḍrasāsvādalolupā)
 
 ## mukta-m0-p53-v1324
-[mortal-world-dear](martyalokapriyā) [goddess](devī) [six-tastes-eager](ṣaḍrasāsvādalolupā)
+[martya+loka+priyā](martyalokapriyā) [devī](devī) [ṣaḍ+rasa+āsvāda+lolupā](ṣaḍrasāsvādalolupā)
 
 ## mukta-m0-p53-v1325
-[ascetic-woman](tapasvinī) [ascetic-woman](tapasvinī) [ascetic-woman](tapasvinī) [ascetic-woman](tapasvinī)
+[tapasvinī](tapasvinī)
