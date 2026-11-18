@@ -2,31 +2,31 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p44-v1076
-[silver-vessel](raupyapātreṇa) [giving](dattvā) [indeed](vai) [Vishnu-sacrifice-fruit](viṣṇuyāgaphalaṃ) [obtains](labhet)
+[silver-vessel](raupyapātreṇa) [having-given](dattvā) [indeed](vai) [Vishnu-sacrifice-fruit](viṣṇuyāgaphalaṃ) [obtains](labhet)
 
 ## mukta-m0-p44-v1077
-[golden-vessel](sauvarṇapātreṇa) [giving](dattvā) [obtains](labhet) [much](bahuḥ) [gold](suvarṇakam)
+[golden-vessel](sauvarṇapātreṇa) [having-given](dattvā) [obtains](labhet) [much](bahuḥ) [gold](suvarṇakam)
 
 ## mukta-m0-p44-v1078
-[five-shrine-worship](pañcāyatanapūjāyāṃ) [ten](daśa) [vessels](pātrāṇi) [indeed](vai) [throws](kṣipet)
+[five-shrine-worship](pañcāyatanapūjāyāṃ) [ten](daśa) [vessels](pātrāṇi) [indeed](vai) [casts](kṣipet)
 
 ## mukta-m0-p44-v1079
 [offering-vessels](balipātrāṇi) [five](pañca) [are](syuḥ) [of-blood](rudhirasya) [one-vessel](ekapātrakam)
 
 ## mukta-m0-p44-v1080
-[one](ekaṃ) [cooked](pakvasya) [meat](māṃsasya)
+[one](ekaṃ) [cooked](pakvasya) [of-meat](māṃsasya)
 
 ## mukta-m0-p44-v1081
 [to-be-placed](sthāpanīyāni) [with-effort](yatnena) [if-desires](yadīcchet) [perfection](siddhim) [of-self](ātmanaḥ)
 
 ## mukta-m0-p44-v1082
-[of-yoginis](yoginīnāṃ) [worship](samarcāyāṃ) [fifty](pañcāśan) [couple-worship](mithunārcane)
+[of-yoginis](yoginīnāṃ) [in-worship](samarcāyāṃ) [fifty](pañcāśan) [couple-worship](mithunārcane)
 
 ## mukta-m0-p44-v1083
-[guru-mandala-worship](gurumaṇḍalapūjāyāṃ) [of-suns](dineśānāṃ) [likewise](tathaiva) [and](ca)
+[in-guru-mandala-worship](gurumaṇḍalapūjāyāṃ) [of-suns](dineśānāṃ) [likewise](tathaiva) [and](ca)
 
 ## mukta-m0-p44-v1084
-[akshara-herb-worship](akṣarauṣadhipūjāyāṃ) [rosary-worship](japamālāprapūjane)
+[in-akshara-herb-worship](akṣarauṣadhipūjāyāṃ) [in-rosary-worship](japamālāprapūjane)
 
 ## mukta-m0-p44-v1085
 [offering-etc-five-vessels](arghyādipañcapātrāṇi) [to-be-prepared](sampādyāni) [separately](pṛthak) [separately](pṛthak)
@@ -35,10 +35,10 @@
 [cooked-rice-pot-pair](carusthālīdvayaṃ) [and](ca) [indeed](eva) [consecrated](praṇītā) [sprinkling-water](prokṣaṇī) [thus](tathā)
 
 ## mukta-m0-p44-v1087
-[principal](mukhyānyetāni) [vessels](pātrāṇi)
+[principal](mukhyāni) [these](etāni) [vessels](pātrāṇi)
 
 ## mukta-m0-p44-v1088
-[round](vṛttena) [covered](veṣṭitaṃ) [outside](bāhye) [square](caturasreṇa) [and](ca) [indeed](eva) [hi](hi)
+[rounded](vṛttena) [wrapped](veṣṭitaṃ) [outside](bāhye) [square](caturasreṇa) [and](ca) [indeed](eva) [hi](hi)
 
 ## mukta-m0-p44-v1089
 [sandal-smeared](gandhalipte) [own-left-front](svavāmāgre) [should-place](vidadhyāt) [fish-mudra](matsyamudrayā)
@@ -53,25 +53,25 @@
 [fire-end](vahnyante) [mandala](maṇḍalāyeti) [thus](tathā) [dharma-giver](dharmapradeti) [and](ca)
 
 ## mukta-m0-p44-v1093
-[of-fire](vahnerdaśa) [ten](daśa) [parts](kalāḥ) [there](tatra) [clockwise](prādakṣiṇyena) [worships](pūjayet)
+[of-fire](vahner) [ten](daśa) [kalas](kalāḥ) [there](tatra) [clockwise](prādakṣiṇyena) [worships](pūjayet)
 
 ## mukta-m0-p44-v1094
-[therefore](tasmād) [properly](vidhivad) [support](ādhāraṃ) [should-arrange](kalpayet) [clan-goddess](kulanāyike)
+[therefore](tasmāt) [according-to-rite](vidhivad) [support](ādhāraṃ) [should-arrange](kalpayet) [to-clan-goddess](kulanāyike)
 
 ## mukta-m0-p44-v1095
-[or](athavā) [round-shaped](vartulākāraṃ) [should-make](kuryād) [goddess](devi) [delightful](manoharam)
+[or](athavā) [round-shaped](vartulākāraṃ) [should-make](kuryāt) [goddess](devi) [mind-charming](manoharam)
 
 ## mukta-m0-p44-v1096
-[auspicious-wealth](suśrīḥ) [own-form](svarūpā) [tawny](kapilā) [oblation-carrier](havyakavyavahe) [thus](tathā)
+[auspicious-glory](suśrīḥ) [own-form](svarūpā) [tawny](kapilā) [oblation-carrier](havyakavyavahe) [thus](tathā)
 
 ## mukta-m0-p44-v1097
-[conch-measure](śaṅkhamānaṃ) [indeed](tu) [span](prādeśaṃ) [four](caturaṃ) [fingers](gulamucchritam)
+[conch-measure](śaṅkhamānaṃ) [indeed](tu) [span](prādeśaṃ) [four-fingers](caturaṃgulam) [raised](ucchritam)
 
 ## mukta-m0-p44-v1098
-[I-am-purpose-giver](ahamarthapradāyeti) [should-say](vadeta) [twelve](dvādaśetyapi)
+[I-am-purpose-giver](ahamarthapradāyeti) [should-say](vadeta) [twelve](dvādaśa) [also](api)
 
 ## mukta-m0-p44-v1099
-[by-this](anena) [conch](śaṅkham) [having-worshipped](abhyarcya) [rays](kalāḥ) [of-sun](sūryasya) [worships](pūjayet)
+[by-this](anena) [conch](śaṅkham) [having-worshipped](abhyarcya) [kalas](kalāḥ) [of-sun](sūryasya) [worships](pūjayet)
 
 ## mukta-m0-p44-v1100
-[central-channel](suṣumnā) [enjoyment-giver](bhogadā) [all](viśvā) [awakening](bodhinī) [supporting](dhāriṇī) [patient](kṣamā)
+[sushumna](suṣumnā) [enjoyment-giver](bhogadā) [all](viśvā) [awakening](bodhinī) [bearing](dhāriṇī) [patience](kṣamā)
