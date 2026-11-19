@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p26-v626
-[gloss](kvacitkaṇaṃpraveśena) [gloss](lāñchayitvāsiśātanam)
+[sometimes](kvacit) [particle](ka) [atom](aṇaṃ) [entry](praveśena) [marking](lāñchayitvā) [weapon-cutting](asiśātanam)
 
 ## mukta-m0-p26-v627
-[gloss](tanmadhye) [gloss](sūtrasambhrānte) [gloss](rudro) [gloss](bhavati) [gloss](vartulaḥ)
+[therein](tanmadhye) [thread-confusion](sūtrasambhrānte) [rudra](rudro) [becomes](bhavati) [round](vartulaḥ)
 
 ## mukta-m0-p26-v628
-[gloss](kṣipedvā) [gloss](śūnyadoṣaghnaṃ) [gloss](hastādekāṅgulaṃ) [gloss](kramāt)
+[throws](kṣipedvā) [void-fault-destroying](śūnyadoṣaghnaṃ) [from-hand](hastādekāṅgulaṃ) [gradually](kramāt)
 
 ## mukta-m0-p26-v629
-[gloss](ṣoḍaśāṃśa) [gloss](kṣipedādye) [gloss](vedāṃśamamarorcite)
+[sixteenth-part](ṣoḍaśāṃśa) [throws](kṣipedādye) [veda-part](vedāṃśam) [god-worshipped](amarorcite)
 
 ## mukta-m0-p26-v630
-[gloss](piṅgalāyā) [gloss](mate) [gloss](proktamādyāmarārcitena) [gloss](tu)
+[of-piṅgalā](piṅgalāyā) [opinion](mate) [proclaimed](proktam) [first-god-worshipped](ādyāmarārcitena) [but](tu)
 
 ## mukta-m0-p26-v631
-[gloss](bhaveyurvardhamānāni) [gloss](vasudviṣaṭ) [gloss](śatāni) [gloss](ca)
+[page-74](p.) [would-be](bhaveyur) [increasing](vardhamānāni) [earth-six-hundred](vasudviṣaṭ) [hundreds](śatāni) [and](ca)
 
 ## mukta-m0-p26-v632
-[gloss](viśvakarmamataṃ) [gloss](dṛṣṭvā) [gloss](vaktavyaṃ) [gloss](pīṭhavartanam)
+[viśvakarma-opinion](viśvakarmamataṃ) [seeing](dṛṣṭvā) [to-be-spoken](vaktavyaṃ) [pedestal-turning](pīṭhavartanam)
 
 ## mukta-m0-p26-v633
-[gloss](tacca) [gloss](savasamaṃ) [gloss](liṅgaṃ) [gloss](prāsāde) [gloss](vā) [gloss](gṛhe) [gloss](hitam)
+[that](tacca) [with-sava-equal](sava-samaṃ) [liṅga](liṅgaṃ) [in-temple](prāsāde) [or](vā) [in-house](gṛhe) [beneficial](hitam)
 
 ## mukta-m0-p26-v634
-[gloss](dvau) [gloss](pādau) [gloss](jānuparyantaṃ) [gloss](caturasrepitāmahaḥ)
+[two](dvau) [feet](pādau) [up-to-knee](jānuparyantaṃ) [four-cornered](caturasra) [grandfather](pitāmahaḥ)
 
 ## mukta-m0-p26-v635
-[gloss](āmūrdhaṃ) [gloss](nābhitaścordhvaṃ) [gloss](vṛttabhāge) [gloss](haraḥ) [gloss](svayam)
+[up-to-head](āmūrdhaṃ) [from-navel-upward](nābhitaścordhvaṃ) [round-portion](vṛttabhāge) [hara](haraḥ) [himself](svayam)
 
 ## mukta-m0-p26-v636
-[gloss](pañcadhāvyaktaliṅgāni) [gloss](samapīṭhāni) [gloss](tāni) [gloss](ca)
+[fivefold](pañcadhā) [manifest-liṅgas](vyaktaliṅgāni) [equal-pedestals](samapīṭhāni) [those](tāni) [and](ca)
 
 ## mukta-m0-p26-v637
-[gloss](pañcaliṅgavyavastheyaṃ) [gloss](śirovartinyathocyate)
+[five-liṅga-arrangement](pañcaliṅgavyavastheyaṃ) [head-turning](śirovartinyathocyate)
 
 ## mukta-m0-p26-v638
-[gloss](ekaikasya) [gloss](caturbhedaiḥ) [gloss](kāmyarūpātphala) [gloss](vadet)
+[one-by-one](ekaikasya) [four-varieties](caturbhedaiḥ) [desired-form](kāmyarūpāt) [fruit](phala) [would-speak](vadet)
 
 ## mukta-m0-p26-v639
-[gloss](cirarājyaprada) [gloss](khyātaṃ) [gloss](chatrabhedāścaturvidhāḥ)
+[page-75](p.) [long-reign-giving](cirarājyaprada) [known](khyātaṃ) [umbrella-varieties](chatrabhedāś) [fourfold](caturvidhāḥ)
 
 ## mukta-m0-p26-v640
-[gloss](mānada) [gloss](pakṣa) [gloss](lopācca) [gloss](vipulaṃ) [gloss](khyātidaṃ) [gloss](bhavet)
+[measuring](mānada) [wing](pakṣa) [loss](lopācca) [extensive](vipulaṃ) [fame-giving](khyātidaṃ) [becomes](bhavet)
 
 ## mukta-m0-p26-v641
-[gloss](śrīvāsaṃ) [gloss](putradaṃ) [gloss](kurturdakṣāṇḍaṃ) [gloss](syāccaturvidham)
+[śrīvāsa](śrīvāsaṃ) [son-giving](putradaṃ) [kurtu](kurtur) [dakṣa-egg](dakṣāṇḍaṃ) [would-be-fourfold](syāccaturvidham)
 
 ## mukta-m0-p26-v642
-[gloss](puṣṭidaṃ) [gloss](dvikṣayātpūrṇaṃ) [gloss](mahāhlādakarasadā)
+[nourishing](puṣṭidaṃ) [two-decay](dvikṣayāt) [full](pūrṇaṃ) [great-delight-causing](mahāhlādakarasadā)
 
 ## mukta-m0-p26-v643
-[gloss](āyudaṃ) [gloss](kumudaṃ) [gloss](jñeyaṃ) [gloss](candaṃ) [gloss](caturvidhaṃ) [gloss](matam)
+[weapon](āyudaṃ) [kumuda](kumudaṃ) [to-be-known](jñeyaṃ) [canda](candaṃ) [fourfold](caturvidhaṃ) [opinion](matam)
 
 ## mukta-m0-p26-v644
-[gloss](sarvakāmapradaṃ) [gloss](proktaṃ) [gloss](vināśaṃ) [gloss](dvikṣayācchriye)
+[all-desires-giving](sarvakāmapradaṃ) [proclaimed](proktaṃ) [destruction](vināśaṃ) [two-decay](dvikṣayāc) [for-prosperity](chriye)
 
 ## mukta-m0-p26-v645
-[gloss](ballabhatvaprada) [gloss](tacca) [gloss](caturdhā) [gloss](trapuṣaṃ) [gloss](bhavet)
+[ballabha-giving](ballabhatvaprada) [that](tacca) [fourfold](caturdhā) [tin](trapuṣaṃ) [becomes](bhavet)
 
 ## mukta-m0-p26-v646
-[gloss](kuryādviprādikāryārthamekaṃ) [gloss](vā) [gloss](kukkuṭāṇḍakam)
+[should-do](kuryād) [for-brāhmaṇa-etc-work](viprādikāryārtham) [one](ekaṃ) [or](vā) [cock-egg](kukkuṭāṇḍakam)
 
 ## mukta-m0-p26-v647
-[gloss](dīrghāyuṣṭvamatha) [gloss](cendoḥ) [gloss](kṛkavākvaṇḍataḥ) [gloss](prajñāḥ)
+[long-life](dīrghāyuṣṭvam) [then](atha) [moon](cendoḥ) [from-kṛkavāk-egg](kṛkavākvaṇḍataḥ) [wisdoms](prajñāḥ)
 
 ## mukta-m0-p26-v648
-[gloss](jinaviṃśatiśārdūlairādye) [gloss](brahmādiveṣṭanam)
+[twenty-jina](jinaviṃśati) [tigers](śārdūlair) [at-first](ādye) [brahmā-etc-enclosure](brahmādiveṣṭanam)
 
 ## mukta-m0-p26-v649
-[gloss](vikāreṇa) [gloss](smareṇāṃśatṛtīyāṃśayutena) [gloss](ca)
+[by-variation](vikāreṇa) [by-desire](smareṇāṃśa) [third-part-added](tṛtīyāṃśayutena) [and](ca)
 
 ## mukta-m0-p26-v650
-[gloss](bhāgatṛtīyabhāgena) [gloss](nakhacandrānvitena) [gloss](ca)
+[third-part-share](bhāgatṛtīyabhāgena) [nail-moon-included](nakhacandrānvitena) [and](ca)

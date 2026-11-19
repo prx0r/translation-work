@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p29-v701
-should-be-made (kartavyā) by-that-division (taddvibhāgena) image (pratimā) with-excellent (sottamā) considered (matā)
+[should-be-done](kartavyā) [by-that-division](taddvibhāgena) [image](pratimā) [with-excellent](sottamā) [considered](matā)
 
 ## mukta-m0-p29-v702
-nine-ending (navāntaṃ) in-triple-triangle-ends (tritrikānteṣu) youngest-etc (kanyasādyāḥ) proclaimed (prakīrtitāḥ)
+[nine-ending](navāntaṃ) [in-triple-trikas](tritrikānteṣu) [youngest-etc](kanyasādyāḥ) [declared](prakīrtitāḥ)
 
 ## mukta-m0-p29-v703
-pedestal (pīṭha) door-expansion (dvārapravistāraṃ) maya (mayaḥ) made-in-own (cakre+svake) opinion (mate)
+[seat](pīṭha) [door-expansion](dvārapravistāraṃ) [maya](mayaś) [made](cakre) [in-own-opinion](svake+mate)
 
 ## mukta-m0-p29-v704
-tithi-seat-like-half-less-middle-excellent-threefold (tithimāsanavatyardhaihīnamadhyottamāstridhā)
+[by-tithi-seat-etc](tithimāsanavatyardhaihīnamadhyottamāstridhā)
 
 ## mukta-m0-p29-v705
-lame-forms-and (paṅgurūpāḥ+ca) kūṣmāṇḍas (kūṣmāṇḍāḥ) sevenfold-images-and (saptadhā+arcāḥ+ca) should-fashion (vartayet)
+[lame-forms](paṅgurūpāśca) [pumpkin-figures](kūṣmāṇḍāḥ) [sevenfold-images](saptadhārcāśca) [should-be-made](vartayet)
 
 ## mukta-m0-p29-v706
-dividing (vibhajya) by-power-thread (śaktisūtreṇa) from-stars-etc (ṛkṣādibhyaḥ) auspicious-day (śubhe+dine)
+[dividing](vibhajya) [by-power-thread](śaktisūtreṇa) [from-stars-etc](ṛkṣādibhyaḥ) [on-auspicious-day](śubhe+dine)
 
 ## mukta-m0-p29-v707
-pedestal-self-refuge-life-parts-and (pīṭha+ātma+āśraya+jīva+aṃśa+ca) radiance-etc-and (prabhā+ādi+aṃśa+ca) should-arrange (prakalpayet)
+[seat-self-refuge-life-parts](pīṭhātmāśrayajīvāṃśca) [radiance-etc](prabhādīṃśca) [should-be-arranged](prakalpayet)
 
 ## mukta-m0-p29-v708
-having-made-lower-part (kṛtvā+adha+aṃśa+gataḥ) pedestal (pīṭhaṃ) in-third-part (tribhāge) life-arrangement (jīva+kalpanā)
+[having-made-lower-part](kṛtvādhoṃśagataḥ) [seat](pīṭhaṃ) [in-third-part](tribhāge) [life-arrangement](jīvakalpanā)
 
 ## mukta-m0-p29-v709
-with-self-refuge (sātma+āśrayāṃ) with-messenger (sadūtīṃ) and (ca) image (pratimāṃ) should-fashion-then (vartayet+tataḥ)
+[with-self-refuge](sātmāśrayāṃ) [with-good-messenger](sadūtīṃ) [image](pratimāṃ) [should-be-made-then](vartayettataḥ)
 
 ## mukta-m0-p29-v710
-one-part-one-angula (bhāga+eka+m+aṅgula) having-made (kṛtvā) great-image (mahā+arcāṃ) should-fashion-wise (vatayet+budhaḥ)
+[making-one-part-angula](bhāgaikamaṅgula) [great-image](mahārcāṃ) [should-be-made](vatayedbudhaḥ)
 
 ## mukta-m0-p29-v711
-one (eka) in-part (bhāge) angula (aṅgulaṃ) of-her (tasyā) thief-limb (stenāṅgaṃ) should-determine (parikalpayet)
+[in-one-part-angula](eka+bhāge'ṅgulaṃ) [of-it](tasyā) [limb](stenāṅgaṃ) [should-be-arranged](parikalpayet)
 
 ## mukta-m0-p29-v712
-by-maya (maye) thread (sūtraṃ) evenly (samaṃ) placing (nyasya) straight-image (ṛju+arcāṃ) should-make-auspicious (kārayet+śubhām)
+[maya](maye) [thread](sūtraṃ) [even](samaṃ) [placing](nyasya) [straight-image](ṛjvarcāṃ) [should-be-made-auspicious](kārayecchubhām)
 
 ## mukta-m0-p29-v713
-of-life (jīvasya) length-measure (ād+dairghya+mānena) limbs (pratyaṅgāni) now (adhunā) I-speak (vruve)
+[of-life](jīvasya) [by-length-measure](āddairghyamānena) [limbs-now](pratyaṅgānyadhunā) [I-will-speak](vruve)
 
 ## mukta-m0-p29-v714
-by-measures (mātrābhiḥ) tithi-numbers (tithi+saṃkhyābhiḥ) crown (mukuṭa) wrapping (veṣṭanaṃ) becomes (bhavet)
+[by-measures-tithi-numbers](mātrābhistithisaṃkhyābhirmukuṭa) [crown](veṣṭanaṃ) [becomes](bhavet)
 
 ## mukta-m0-p29-v715
-tāla-measure (tāla+mānaṃ) becomes (bhaved) curved (vakraṃ) neck (grīvā) and (ca) four-angulas (caturaṅgulā)
+[tala-measure](tālamānaṃ) [becomes-curved](bhavedvakraṃ) [neck](grīvā) [four-angulas](ca+caturaṅgulā)
 
 ## mukta-m0-p29-v716
-tāla-one-one-measure (tāla+eka+eka+pramāṇaṃ) should-be (syāt) thighs (ūrū) tāla-exit (tāla+vinirgamau)
+[tala-one-one-measure](tālaikaikapramāṇaṃ) [should-be-thighs](syādūrū) [tala-exit](tālavinirgamau)
 
 ## mukta-m0-p29-v717
-known (jñeyau) ankles (gulphau) two-eyes (dvinetrau) and (ca) heels-two-angulas (pārṣṇī+dvyaṅgulake) opinion (mate)
+[known](jñeyau) [ankles](gulphau) [two-eyes](dvinetrau) [heels-two-angulas](pārṣṇīdvyaṅgulake) [opinion](mate)
 
 ## mukta-m0-p29-v718
-in-middle (madhye) two-arts-height (kalā+dvaya+ucchrāya) front-half-half (agre+sārdha+ardha) measure-two (mātrakau)
+[in-middle](madhye) [two-kala-height](kalādvayocchrāyovagresārdhārdha) [half-half-measure](mātrakau)
 
 ## mukta-m0-p29-v719
-five-angulas (pañcāṅgulau) by-wrapping (veṣṭanena) with-half-angula-two-joints (sārdha+aṅgala+dviparvaṇī)
+[five-angulas](pañcāṅgulau) [by-wrapping](veṣṭanena) [with-half-angula-two-joints](sārdhāṅgaladviparvaṇī)
 
 ## mukta-m0-p29-v720
-three-angulas (tryaṅgulā) circumference (pariṇāhena) are-said (kathyante) now-others (tv+adhunā+parāḥ)
+[three-angulas](tryaṅgulā) [circumference](pariṇāhena) [are-spoken-now-others](kathyante+tvadhunāparāḥ)
 
 ## mukta-m0-p29-v721
-toe-fingers (pāda+aṅgulyaḥ) three-joints (triparvāṇaḥ) joint-half-nail-beautified (parva+ardha+nakha+śobhitāḥ)
+[toe-fingers-three-jointed](pādāṅgulyastriparvāṇaḥ) [half-joint-nail-beautiful](parvārdhanakhaśobhitāḥ)
 
 ## mukta-m0-p29-v722
-hand-foot (kāra+aṅghri) sole (talakaṃ) red (raktaṃ) nails (nakhāḥ) with-raised-red (sa+unnata+aruṇāḥ)
+[nail-sole](kārāṅghri) [red](raktaṃ) [nails](nakhāḥ) [raised-reddish](savonnatāruṇāḥ)
 
 ## mukta-m0-p29-v723
-forearms (upabāhū) ten-eight-parts (daśa+aṣṭa+aṃśau) sixteen-angulas (ṣoḍaśa+aṅgulakau) arms (bhujau)
+[upper-arms-ten-eight-parts](upabāhū+daśāṣṭāṃśau) [sixteen-angula-arms](ṣoḍaśāṅgulakau) [bhujau](bhujau)
 
 ## mukta-m0-p29-v724
-five-angulas (bhūta+aṅgulā) becomes-middle (bhaven+madhyā) half-less (ardha+hīnā) ring-finger (tvanāmikā)
+[five-angulas](bhūtāṅgulā) [becomes-middle](bhavenmadhyā) [half-less](ardhahīnā) [ring-finger](tvanāmikā)
 
 ## mukta-m0-p29-v725
-middle-etc (madhyama+ādyāḥ) three-joints (triparvāṇaḥ) two-joint-thumb (dviparva+aṅguṣṭhakaḥ) considered (mataḥ)
+[middle-etc-three-jointed](madhyamādyāstriparvāṇo) [two-jointed-thumb](dviparvāṅguṣṭhako) [opinion](mataḥ)
