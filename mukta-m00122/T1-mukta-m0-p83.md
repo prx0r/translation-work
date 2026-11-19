@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p83-v2051
-[righteous](dhārmikāḥ) [and](ca) [also](eva) [kings](rājānaḥ) [full-seven-limb-endowed](pūrṇasaptāṅgasaṃyutāḥ)
+[righteous+and+indeed](dhārmikāścaiva) [kings](rājānaḥ) [full+seven+limb+endowed](pūrṇasaptāṅgasaṃyutāḥ)
 
 ## mukta-m0-p83-v2052
-[desired](vāñchitaṃ) [obtains](samavāpnoti) [from-mandala](maṇḍalāt) [from-month](māsataḥ) [also](api) [or](vā)
+[desired](vāñchitaṃ) [obtains](samavāpnoti) [from+circle](maṇḍalāt) [from+month+or](māsato'pi) [or](vā)
 
 ## mukta-m0-p83-v2053
-[previously-said+rakshas+vayu+indra+fire+ishvara+varuna+directions](prāguktarakṣovāyuśakravahnīśavaruṇadikṣu) [placement+thus+meaning](sthāpanādityarthaḥ)
+[previously+spoken+rakṣa+wind+indra+fire+īśa+varuṇa+directions+in+placement+thus+meaning](prāguktarakṣovāyuśakravahnīśavaruṇadikṣu) [placement](sthāpanāt) [thus+meaning](ityarthaḥ)
 
 ## mukta-m0-p83-v2054
-[idol-septad](mūrtisaptakaṃ) [of-dakini-etc-six-goddesses](ḍārākinyādīnāṃ) [six](ṣaṇāṃ) [goddess+remainder](devyāśceti) [remainder](śeṣaḥ)
+[seven+forms](mūrtisaptakaṃ) [ḍākinī+etc+six+goddess+and+remainder](ḍārākinyādīnāṃ) [six](ṣaṇāṃ) [goddess+and](devyāśca) [remainder](iti śeṣaḥ)
 
 ## mukta-m0-p83-v2055
-[afflictions](kleśāḥ) [by-mantra-yantra-power](vidyāyantrānubhāvataḥ) [of-both](ubhayoḥ) [capability](sāmarthyāt)
+[afflictions](kleśāḥ) [mantra+yantra+power](vidyāyantrānubhāvataḥ) [both+powers](ubhayoḥ) [capability](sāmarthyāt)
 
 ## mukta-m0-p83-v2056
-[in-sushumna-middle-situated](suṣumnāmadhyasaṃstheṣu) [six-support-lotuses](ṣaḍādhārāmbujeṣu) [they](tāḥ)
+[suṣumnā+middle+situated](suṣumnāmadhyasaṃstheṣu) [six+supports+lotuses](ṣaḍādhārāmbujeṣu) [they](tāḥ)
 
 ## mukta-m0-p83-v2057
-[outside](bahiśca) [in-mandala](maṇḍale) [worship-grace-punishment-natured](pūjānugrahānigrahātmikām)
+[outside+and](bahiśca) [circle](maṇḍale) [worship+grace+restraint+natured](pūjānugrahānigrahātmikām)
 
 ## mukta-m0-p83-v2058
-[smoke-colored-lotus](dhūmravarṇāmbuje) [goddess](devīṃ) [dakini](ḍākinīṃ) [her-form](tatsamākṛtim)
+[smoke-colored+lotus](dhūmravarṇāmbuje) [goddess](devīṃ) [ḍākinī](ḍākinīṃ) [her+form](tatsamākṛtim)
 
 ## mukta-m0-p83-v2059
-[by-her](tayā) [omniscience-accomplishment](sarvajñatāsiddhiḥ) [becomes-indeed](bhavatyeva) [no-doubt](na) [doubt](saṃśayaḥ)
+[by+her](tayā) [omniscience+accomplishment](sarvajñatāsiddhiḥ) [becomes+indeed](bhavatyeva) [no+doubt](na saṃśayaḥ)
 
 ## mukta-m0-p83-v2060
 [obtains](prāpnoti)
 
 ## mukta-m0-p83-v2061
-[in-bodies](deheṣu) [residence](sthitim) [they](tāḥ) [goddesses](devyaḥ) [here-connection](ityatrānvayaḥ) [dakini-etc](dākinyādayaḥ) [remainder](iti) [remainder](śeṣaḥ)
+[in+bodies](deheṣu) [residence](sthitim) [they](tāḥ) [goddesses](devyaḥ) [here+connection](ityatrānvayaḥ) [ḍākinī+etc](dākinyādaya) [remainder](iti śeṣaḥ)
 
 ## mukta-m0-p83-v2062
-[root-deity-same](mūladevatāsamānaḥ)
+[root+deity+equal](mūladevatāsamānaḥ)
 
 ## mukta-m0-p83-v2063
-[rakini](rākinīṃ) [twelve-petaled](dvādaśadale) [ka-to-dha-letters-natured](kādiḍhāntākṣarātmabhiḥ)
+[rākinī](rākinīṃ) [twelve+petaled](dvādaśadale) [ka+to+ḍha+letters+natured](kādiḍhāntākṣarātmabhiḥ)
 
 ## mukta-m0-p83-v2064
-[manipura-named](maṇipūrakasaṃjñe) [and](ca) [navel-situated](nābhisthe) [ten-petaled](daśapatrake)
+[maṇipūraka+named](maṇipūrakasaṃjñe) [and](ca) [navel+situated](nābhisthe) [ten+petaled](daśapatrake)
 
 ## mukta-m0-p83-v2065
-[lakini](lākinīṃ) [worship](pūjayed) [enemy](vairivi) [victory-prosperity-increase](jayaśrīsamṛddhaye)
+[lākinī](lākinīṃ) [worship](pūjayed) [enemy](vairivi) [victory+prosperity+abundance](jayaśrīsamṛddhaye)
 
 ## mukta-m0-p83-v2066
-[va-to-sha-six-letters-shaktis-surrounded](vādiṣaḍvarṇaśaktībhirāvṛtāṃ) [dakini](ḍākinīṃ) [worship](yajet)
+[va+six+varṇa+śaktis+surrounded](vādiṣaḍvarṇaśaktībhirāvṛtāṃ) [ḍākinī](ḍākinīṃ) [worship](yajet)
 
 ## mukta-m0-p83-v2067
-[support-named](ādhārākhye) [four-petaled](catuṣpatre) [gold-colored](suvarṇābhe) [lotus](saroruhe)
+[support+named](ādhārākhye) [four+petaled](catuṣpatre) [gold+colored](suvarṇābhe) [lotus](saroruhe)
 
 ## mukta-m0-p83-v2068
-[anus-banner-between](pāyudhvajāntarā) [triangle](tryasram) [middle](adhye) [radiance-endowed](tejaḥ) [accompanied](samanvitām)
+[anus+banner+between](pāyudhvajāntarā) [triangle](tryasram) [middle](madhye) [fire+endowed](tejaḥ samanvitām)
 
 ## mukta-m0-p83-v2069
-[served](sevitāṃ) [ha-ksha-shaktis](hakṣaśaktibhyāṃ) [hakini](hākinīṃ) [worship-thus](pūjayettatha)
+[served](sevitāṃ) [ha+kṣa+śaktis](hakṣaśaktibhyāṃ) [hākinī](hākinīṃ) [worship+thus](pūjayettatha)
 
 ## mukta-m0-p83-v2070
-[universe-creation-preservation-destruction-shakti-garland](viśvasṛṣṭisthitidhvaṃsaśaktidāmapyayatnataḥ)
+[universe+creation+preservation+destruction+śakti+garland+liberation+effortless](viśvasṛṣṭisthitidhvaṃsaśaktidāmapyayatnataḥ)
 
 ## mukta-m0-p83-v2071
-[worship](pūjanaṃ) [all-suffering-distress-destruction](sarvaduḥkhārtināśanaṃ) [prosperity-seat](sampadāspadam)
+[worship](pūjanaṃ) [all+suffering+afflicted+destruction](sarvaduḥkhārtināśanaṃ) [prosperity+seat](sampadāspadam)
 
 ## mukta-m0-p83-v2072
-[by-that](tayā) [worship](pūjayā) [banner-root](dhvajamūle) [genital-root](mehanamūle)
+[by+that+worship](tayā pūjayā) [banner+root](dhvajamūle) [genital+root](mehanamūle)
 
 ## mukta-m0-p83-v2073
-[accompanied](samanvitāṃ) [kundalini-radiance-form](kuṇḍalinītejorūpām) [thus](tathā) [in-collection](samuccaye)
+[endowed](samanvitāṃ) [kuṇḍalinī+fire+form](kuṇḍalinītejorūpām) [thus+collection](tathā samuccaye)
 
 ## mukta-m0-p83-v2074
-[past-present-future-action-knowledge-capability-giving](bhūtabhaviṣyavartamānakāryajñānasāmarthyapradāyinīm) [thus-meaning](ityarthaḥ)
+[past+future+present+deed+knowledge+capability+giving](bhūtabhaviṣyavartamānakāryajñānasāmarthyapradāyinīm) [thus+meaning](ityarthaḥ)
 
 ## mukta-m0-p83-v2075
-[middle](madhye) [and](ca) [there](tatra) [her](tāṃ) [eternal-non-eternal](nityānityā) [fragrance-etc](gandhādinā) [worship](arcayet)
+[middle+and](madhye ca) [there](tatra) [her](tāṃ) [eternal+noneternal](nityānityā) [fragrance+etc](gandhādinā) [worship](arcayet)
