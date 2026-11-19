@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p35-v851
-[above](upariṣṭād) [in-messenger](dūtikāyāṃ) [standing](sthitāyām) [indeed](eva) [arises](jāyate)
+[above](upariṣṭād) [in-messenger](dūtikāyāṃ) [standing-indeed](sthitāyāmeva) [arises](jāyate)
 
 ## mukta-m0-p35-v852
-[some+moving+white+drop](kiṃciccaracchuklabiṃdu) [adorned-with-false-moon](kapaṭeṃduvibhūṣitaḥ)
+[small-moving-white-drop](kiṃciccaracchuklabiṃdu) [adorned-with-false-moon](kapaṭeṃduvibhūṣitaḥ)
 
 ## mukta-m0-p35-v853
-[covered-by-yoni-globe](yonigolakasaṃchannaḥ) [performs+upward+dance](prakarotyūrdhvatāṇḍavam)
+[covered-by-yoni-globe](yonigolakasaṃchannaḥ) [performs-upward-dance](prakarotyūrdhvatāṇḍavam)
 
 ## mukta-m0-p35-v854
-[by-word-puruṣāyita](puruṣāyitaśabdena) [is-proclaimed](ghuṣyate) [at-love's-arrival](madanāgame)
+[by-word-puruṣāyita](puruṣāyitaśabdena) [proclaimed](ghuṣyate) [at-madana-arrival](madanāgame)
 
 ## mukta-m0-p35-v855
-[above+shines](uparyullasati) [freely](svairam) [trembling+breast-orb](utkaṃpi kucamaṃḍalā)
+[above-shines-freely](uparyullasati) [svairam](svairam) [trembling-breast-orb](utkaṃpi) [kucamaṃḍalā](kucamaṃḍalā)
 
 ## mukta-m0-p35-v856
-[then+lunar-nectar](tatastu cāṃdramamṛtaṃ) [giver-of-śiva-nature](śivatvasya pradāyakam)
+[then-lunar-nectar](tatastu) [cāṃdramamṛtaṃ](cāṃdramamṛtaṃ) [giver-of-śiva-nature](śivatvasya) [pradāyakam](pradāyakam)
 
 ## mukta-m0-p35-v857
-[should-offer+sixth+oblation](juhuyādāhutiṃ ṣaṭhīṃ) [by-this-mantra](maṃtreṇānena) [practitioner](sādhakaḥ)
+[should-offer-oblation](juhuyādāhutiṃ) [sixth](ṣaṭhīṃ) [by-this-mantra](maṃtreṇānena) [sādhaka](sādhakaḥ)
 
 ## mukta-m0-p35-v858
-[mantra](arcayāmi bhavdgātra mataḥ siddhiṃ prayacchame)
+[I-worship-your-limb](arcayāmi) [bhavdgātra](bhavdgātra) [from-me](mataḥ) [grant-success](siddhiṃ) [prayacchame](prayacchame)
 
 ## mukta-m0-p35-v859
-[having-drunk+supreme+lunar-nectar](somāmṛtaṃ paraṃ pītvā) [bearing+agni-soma-form](cāgniṣomasvarūpadhṛk)
+[having-drunk-supreme-soma-nectar](somāmṛtaṃ) [paraṃ](paraṃ) [pītvā](pītvā) [bearing-agni-soma-form](cāgniṣomasvarūpadhṛk)
 
 ## mukta-m0-p35-v860
-[of-great-god](mahādevasya) [accomplishment](saṃsiddhiṃ) [of-moon-principle](somatattvasya) [beholding](paśyatām)
+[of-great-god](mahādevasya) [perfection](saṃsiddhiṃ) [seeing-soma-principle](somatattvasya) [paśyatām](paśyatām)
 
 ## mukta-m0-p35-v861
-[obtains+moon-like+radiance](labhate caṃdravat kāṃtiṃ) [radiance+all-world-bewitching](kāṃtyāviśvavimohinīm)
+[obtains-moon-like-radiance](labhate) [caṃdravat](caṃdravat) [kāṃtiṃ](kāṃtiṃ) [kāṃtyā](kāṃtyā) [all-world-bewitching](viśvavimohinīm)
 
 ## mukta-m0-p35-v862
-[moon-gentle+face-state](caṃdrasaumya mukhatvaṃ ca) [poison-removal+skill](viṣanāśanapāṭavam)
+[moon-gentle](caṃdrasaumya) [face-hood](mukhatvaṃ) [ca](ca) [poison-destroying-skill](viṣanāśanapāṭavam)
 
 ## mukta-m0-p35-v863
-[vājīkaraṇa+gain](vājīkaraṇalābhaṃ ca) [without-mantras+without-herbs](vināmaṃtrairvinauṣadhaiḥ)
+[vājīkaraṇa-gain](vājīkaraṇalābhaṃ) [ca](ca) [without-mantras-without-herbs](vināmaṃtrairvinauṣadhaiḥ)
 
 ## mukta-m0-p35-v864
-[in-enjoyments+no-fatigue](bhogeṣva navasādaṃ ca) [obtains+bliss+fullness](prāpnotyānaṃda pūrṇatām)
+[in-enjoyments](bhogeṣva) [no-fatigue](navasādaṃ) [ca](ca) [obtains-bliss-fullness](prāpnotyānaṃda) [pūrṇatām](pūrṇatām)
 
 ## mukta-m0-p35-v865
-[by-one-form](ekākāreṇa) [of-all+senses](sarveṣāmiṃdriyāṇāṃ) [dissolution](vilīnatā)
+[by-one-form](ekākāreṇa) [of-all](sarveṣām) [senses](iṃdriyāṇāṃ) [dissolution](vilīnatā)
 
 ## mukta-m0-p35-v866
-[water-bud+state](apāṃgemukulībhāvaḥ) [radiance+unmesha-face](kāṃtirunmeṣiṇīmukhe)
+[water-bud-state](apāṃgemukulībhāvaḥ) [radiance](kāṃtirunmeṣiṇīmukhe)
 
 ## mukta-m0-p35-v867
-[very-cool+camphor](atiśītalakarpūra) [pollens+anoints](parāgairivaliṃpati)
+[very-cool-camphor](atiśītalakarpūra) [pollens](parāgairivaliṃpati)
 
 ## mukta-m0-p35-v868
-[by-two+beautiful+nipples](kaṃpracūcukacārubhyāṃ) [full+with-hair-erect](pūrṇābhyāṃ pulakāṃkuraiḥ)
+[by-two-beautiful-nipples](kaṃpracūcukacārubhyāṃ) [full](pūrṇābhyāṃ) [goosebumps](pulakāṃkuraiḥ)
 
 ## mukta-m0-p35-v869
-[foot-steps+thousands](padavikṣepasakṣepa) [lifting+methods+hundreds](protkṣepaṇa vidhāśataiḥ)
+[foot-steps](padavikṣepasakṣepa) [lifting](protkṣepaṇa) [hundreds-of-ways](vidhāśataiḥ)
 
 ## mukta-m0-p35-v870
-[suddenly+seizing+lord-of-planets](haṭhātka ca grahābhartturhaṭhācca) [sudden+kissing](paricuṃbanam)
+[suddenly](haṭhātka) [ca](ca) [graha-lord](grahābhartturhaṭhācca) [sudden-kissing](paricuṃbanam)
 
 ## mukta-m0-p35-v871
-[repeatedly+raising+lord's](muhurutkṣipyanāthasya) [neck](kaṃṭhaṃ) [there+tooth-mark](tatra radakṣatiḥ)
+[repeatedly-lifting](muhurutkṣipyanāthasya) [throat](kaṃṭhaṃ) [there](tatra) [tooth-mark](radakṣatiḥ)
 
 ## mukta-m0-p35-v872
-[at-that-time+lord](tatkālenātha) [on-limbs](gātreṣu) [moon-state](caṃdrāvasthā) [beholding](vilokanam)
+[at-that-time](tatkālenātha) [on-limbs](gātreṣu) [moon-state](caṃdrāvasthā) [seen](vilokanam)
 
 ## mukta-m0-p35-v873
-[lord-of-mind](ayināthamanonātha) [lord-of-life](prāṇanātha) [beloved+dear](priyāpriye)
+[lord-of-mind](ayināthamanonātha) [lord-of-breath](prāṇanātha) [dear-undear](priyāpriye)
 
 ## mukta-m0-p35-v874
-[madamba-lord](madaṃbānāthamannātha) [release+release+me](reremuṃcavimuṃcamāṃ)
+[madamba-lord](madaṃbānāthamannātha) [reremuṃcavimuṃcamāṃ](reremuṃcavimuṃcamāṃ)
 
 ## mukta-m0-p35-v875
-[who-am-i](kāhaṃ) [who-are-you](kastvaṃ) [whose-house](kasyagṛhaṃ) [this+what+is-said](etat kinnumayocyate)
+[who-am-I](kāhaṃ) [who-are-you](kastvaṃ) [whose-house](kasyagṛhaṃ) [this](etat) [what-is-said-by-me](kinnumayocyate)
