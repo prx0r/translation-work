@@ -8,7 +8,7 @@
 "tokens": [
 {
 "surface": "ādeśī",
-"quick_gloss": "instructor"
+"quick_gloss": "teacher"
 },
 {
 "surface": "vedavikretā",
@@ -19,12 +19,8 @@
 "quick_gloss": "these-six"
 },
 {
-"surface": "śūdravat",
-"quick_gloss": "shudra-like"
-},
-{
-"surface": "dvijāḥ",
-"quick_gloss": "twice-born"
+"surface": "śūdravaddvijāḥ",
+"quick_gloss": "twice-born-like-shudra"
 }
 ]
 },
@@ -54,6 +50,10 @@
 {
 "surface": "kātyāyanaḥ",
 "quick_gloss": "kātyāyana"
+},
+{
+"surface": "atha",
+"quick_gloss": "then"
 },
 {
 "surface": "gautamaḥ",
@@ -99,7 +99,7 @@
 },
 {
 "surface": "śaivāditipraṣṭhāyām",
-"quick_gloss": "śaiva-etc.-questioner"
+"quick_gloss": "śaiva-etc-authorities"
 },
 {
 "surface": "ete",
@@ -108,10 +108,6 @@
 {
 "surface": "na",
 "quick_gloss": "not"
-},
-{
-"surface": "niprā",
-"quick_gloss": "authoritative"
 },
 {
 "surface": "niyāmakāḥ",
@@ -127,8 +123,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "devyāmataṃ",
-"quick_gloss": "goddess-opinion"
+"surface": "devyā",
+"quick_gloss": "of-goddess"
+},
+{
+"surface": "mataṃ",
+"quick_gloss": "opinion"
 },
 {
 "surface": "mayaṃ",
@@ -136,7 +136,7 @@
 },
 {
 "surface": "nandiṃ",
-"quick_gloss": "nandin"
+"quick_gloss": "nandi"
 },
 {
 "surface": "pratiṣṭhā",
@@ -144,7 +144,7 @@
 },
 {
 "surface": "pārameśvaram",
-"quick_gloss": "supreme-lordly"
+"quick_gloss": "parama-īśvara"
 }
 ]
 },
@@ -157,7 +157,7 @@
 "tokens": [
 {
 "surface": "śakākhyaṃ",
-"quick_gloss": "śakā-named"
+"quick_gloss": "śaka-named"
 },
 {
 "surface": "vāmadevaṃ",
@@ -173,7 +173,7 @@
 },
 {
 "surface": "paitāmahaṃ",
-"quick_gloss": "ancestral"
+"quick_gloss": "paitāmaha"
 },
 {
 "surface": "tathā",
@@ -198,7 +198,7 @@
 },
 {
 "surface": "śivoktāni",
-"quick_gloss": "śiva-spoken"
+"quick_gloss": "spoken-by-śiva"
 },
 {
 "surface": "ekaviṃśatiḥ",
@@ -214,12 +214,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "padmottha",
-"quick_gloss": "lotus-born"
-},
-{
-"surface": "mārkaṇḍeyābhyāṃ",
-"quick_gloss": "mārkaṇḍeya"
+"surface": "padmotthamārkaṇḍeyābhyāṃ",
+"quick_gloss": "from-lotus-born-and-mārkaṇḍeya"
 },
 {
 "surface": "rambhā",
@@ -231,11 +227,11 @@
 },
 {
 "surface": "siddhādi",
-"quick_gloss": "siddha-etc."
+"quick_gloss": "siddha-etc"
 },
 {
 "surface": "rambhataḥ",
-"quick_gloss": "rambhataḥ"
+"quick_gloss": "from-rambha"
 }
 ]
 },
@@ -255,12 +251,8 @@
 "quick_gloss": "mark"
 },
 {
-"surface": "sarvametat",
-"quick_gloss": "all-this"
-},
-{
-"surface": "samuccayam",
-"quick_gloss": "collection"
+"surface": "sarvametatsamuccayam",
+"quick_gloss": "all-this-collection"
 }
 ]
 },
@@ -273,7 +265,7 @@
 "tokens": [
 {
 "surface": "śivāśramasthitaiḥ",
-"quick_gloss": "śiva-āśrama-dwellers"
+"quick_gloss": "by-śaiva-āśrama-dwellers"
 },
 {
 "surface": "śaivaiḥ",
@@ -310,7 +302,7 @@
 },
 {
 "surface": "namasyanti",
-"quick_gloss": "bow"
+"quick_gloss": "worship"
 },
 {
 "surface": "sthāpitaṃ",
@@ -364,7 +356,7 @@
 },
 {
 "surface": "yadvratabandhādi",
-"quick_gloss": "whatever-vow-initiation-etc."
+"quick_gloss": "whatever-vow-band-etc"
 },
 {
 "surface": "tatsarvaṃ",
@@ -400,16 +392,12 @@
 "quick_gloss": "there"
 },
 {
-"surface": "vṛthā",
-"quick_gloss": "in-vain"
-},
-{
-"surface": "asau",
-"quick_gloss": "that"
+"surface": "vṛthaivāsau",
+"quick_gloss": "vain-indeed"
 },
 {
 "surface": "phariśramaḥ",
-"quick_gloss": "effort"
+"quick_gloss": "fruitless-labor"
 }
 ]
 },
@@ -422,15 +410,19 @@
 "tokens": [
 {
 "surface": "śivoktaiḥ",
-"quick_gloss": "without-śiva-spoken"
+"quick_gloss": "by-śiva-spoken"
 },
 {
 "surface": "ca",
 "quick_gloss": "and"
 },
 {
-"surface": "vināmantraiḥ",
-"quick_gloss": "without-mantras"
+"surface": "vinā",
+"quick_gloss": "without"
+},
+{
+"surface": "mantraiḥ",
+"quick_gloss": "mantras"
 },
 {
 "surface": "tadetat",
@@ -466,12 +458,12 @@
 "quick_gloss": "then"
 },
 {
-"surface": "doṣāḍhyaṃ",
-"quick_gloss": "fault-rich"
+"surface": "doṣādya",
+"quick_gloss": "faulty"
 },
 {
 "surface": "kumāradyuktaśāstrataḥ",
-"quick_gloss": "kumāra-etc.-scripture"
+"quick_gloss": "with-kumāra-śāstra"
 }
 ]
 },
@@ -482,6 +474,10 @@
 "quick_english": "",
 "quick_english_source": "t1parse",
 "tokens": [
+{
+"surface": "p. 39",
+"quick_gloss": "page-39"
+},
 {
 "surface": "karmacaṇḍaṃ",
 "quick_gloss": "karma-caṇḍa"
@@ -520,12 +516,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "yuktisiddhaṃ",
-"quick_gloss": "yukti-siddha"
+"surface": "muktisiddhaṃ",
+"quick_gloss": "liberation-siddha"
 },
 {
 "surface": "hitaṃ",
-"quick_gloss": "beneficial"
+"quick_gloss": "benefit"
 },
 {
 "surface": "loke",
@@ -533,7 +529,7 @@
 },
 {
 "surface": "skandoktaṃ",
-"quick_gloss": "skanda-spoken"
+"quick_gloss": "spoken-by-skanda"
 },
 {
 "surface": "cātra",
@@ -554,7 +550,7 @@
 "tokens": [
 {
 "surface": "kriyā",
-"quick_gloss": "rite"
+"quick_gloss": "action"
 },
 {
 "surface": "sā",
@@ -583,7 +579,7 @@
 "tokens": [
 {
 "surface": "agniṣṭomādayaḥ",
-"quick_gloss": "agniṣṭoma-etc."
+"quick_gloss": "agniṣṭoma-etc"
 },
 {
 "surface": "yadvat",
@@ -594,7 +590,7 @@
 "quick_gloss": "consecration"
 },
 {
-"surface": "īṣyate",
+"surface": "pīṣyate",
 "quick_gloss": "desired"
 },
 {
@@ -620,11 +616,11 @@
 },
 {
 "surface": "vijñeyā",
-"quick_gloss": "known"
+"quick_gloss": "to-be-known"
 },
 {
 "surface": "vaidikīkriyā",
-"quick_gloss": "vaidika-rite"
+"quick_gloss": "vaidika-action"
 }
 ]
 },
@@ -645,7 +641,7 @@
 },
 {
 "surface": "saṃsarantīha",
-"quick_gloss": "transmigrating-here"
+"quick_gloss": "transmigrate-here"
 },
 {
 "surface": "yājñikāḥ",
@@ -666,11 +662,11 @@
 },
 {
 "surface": "puṇyakriyākṣīṇaḥ",
-"quick_gloss": "merit-rite-exhausted"
+"quick_gloss": "merit-action-exhausted"
 },
 {
 "surface": "sthāvarādiṣu",
-"quick_gloss": "immobile-etc."
+"quick_gloss": "in-stationary-etc"
 },
 {
 "surface": "jāyate",
@@ -703,10 +699,10 @@
 },
 {
 "surface": "śaivārthe",
-"quick_gloss": "śaiva-matter"
+"quick_gloss": "in-śaiva-matter"
 },
 {
-"surface": "na",
+"surface": "na viśāradāḥ",
 "quick_gloss": "not-expert"
 }
 ]
@@ -724,7 +720,7 @@
 },
 {
 "surface": "brahmaṇādīnāṃ",
-"quick_gloss": "brahmā-etc."
+"quick_gloss": "brahmā-etc"
 },
 {
 "surface": "vedavidyāpracoditā",

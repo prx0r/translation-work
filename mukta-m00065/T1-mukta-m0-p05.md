@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p05-v101
-[thus](ityeteṣāmabhāve) [but](tu) [mercury](rasendraṃ) [diamond-joined](vajrasaṃyutam)
+iti-thus eteṣām-of-these abhāve-in-absence tu-but rasendram-mercury vajra-saṃyutam-diamond-joined
 
 ## mukta-m0-p05-v102
-[with-cow's-frankincense](gavyasarjayutaiścaiva) [to-be-smeared](lepyaṃ) [for-color-nourishment](varṇakapuṣṭaye)
+gavya-sarja-yutaiḥ-with-cow-gum-and eva-indeed lepyam-to-be-smeared varṇaka-puṣṭaye-for-color-nourishment
 
 ## mukta-m0-p05-v103
-[with-good-door-constellation-season-joined-indeed](sadvārarkṣartuyuktenhi) [beautiful-ascendant-endowed](cārulagnasamanvite)
+sad-vāra-ṛkṣa-ṛtu-yuktena-hi with-good-door-constellation-season-joined indeed cāru-lagna-samanvite beautiful-ascendant-endowed
 
 ## mukta-m0-p05-v104
-[celestial-atmospheric-terrestrial](divyāntarikṣabhaumāni) [good-bad-fruit-obtaining](śubhāśubhaphalāptaye)
+divya-āntarikṣa-bhaumāni celestial-atmospheric-terrestrial śubha-aśubha-phala-āptaye for-auspicious-inauspicious-result-obtaining
 
 ## mukta-m0-p05-v105
-[thus-etc](ityādi) [good-doing-divine](śubhakṛddivyamato'śubhakaraṃ) [bad-doing](aśubhakaraṃ) [tu-indeed](tu) [this](idam)
+ityādi-etc śubha-kṛt-divyam auspicious-doing-divine ato-therefore aśubha-karam inauspicious-doing tu-indeed idam-this
 
 ## mukta-m0-p05-v106
-[quarter-burning-intense-wind-and](digdāhastīvravātaśca) [moon-sun-eclipse](candrasūryopamardanam)
+dig-dāha-direction-burning tīvra-vātaḥ-intense-wind ca-and candra-sūrya-upamardanam moon-sun-eclipse
 
 ## mukta-m0-p05-v107
-[dwelling-tree-top-situated](vāsavṛkṣāgrasaṃsthāyi) [offering-eater-sweet-sound](balibhuṅmadhurārutiḥ)
+vāsa-vṛkṣa-agra-saṃsthāyi dwelling-tree-top-situated bali-bhuk-offering-eater madhura-ārutiḥ sweet-cry
 
 ## mukta-m0-p05-v108
-[dust-blood-rain](pāṃśvasṛgvarṣaṇaṃ) [terrible](ghoram) [celestial](āntarikṣam) [inauspicious](aśobhanam)
+pāṃśu-asṛk-varṣaṇam dust-blood-rain ghoram terrible āntarikṣam atmospheric aśobhanam inauspicious
 
 ## mukta-m0-p05-v109
-[curd-unbroken-rice-barley](dadhyakṣatayavā) [dūrvā-grass](dūrvā) [lamp](dīpo) [gorocana](gorocanā) [banner](dhvajaḥ)
+dadhi-akṣata-yavāḥ curd-unbroken-rice-barley dūrvā-darbha dīpaḥ-lamp gorocanā-cow-bile dhvajaḥ-banner
 
 ## mukta-m0-p05-v110
-[cow-bull-and](govṛṣaśca) [donkey](kharo) [horse](vājī) [ash-eyed](bhasmākṣo) [king](bhūpatirdvipaḥ) [elephant](dipaḥ)
+go-vṛṣaḥ-cow-bull ca-and kharaḥ-donkey vājī-horse bhasma-akṣaḥ-ash-eyed bhūpatiḥ-king dvipaḥ-elephant
 
 ## mukta-m0-p05-v111
-[Śiva](śivaḥ) [Śiva-water-pot-situated](śivodakuṃbhasthaḥ) [Kauśika](kauśiko) [left](vāmataḥ) [auspicious](śubhaḥ)
+śivaḥ-śiva śiva-udaka-kumbha-sthaḥ in-water-pot-situated kauśikaḥ-owl vāmataḥ-left śubhaḥ-auspicious
 
 ## mukta-m0-p05-v112
-[loose-haired](muktakeśaḥ) [scattering](parākṣepaḥ) [alkali](kṣāro'ṅgāraśca) [charcoal](aṅgāraśca) [wood](dāru) [ca-and](ca)
+mukta-keśaḥ-loose-hair parākṣepaḥ-throwing kṣāraḥ-alkali aṅgāraḥ-charcoal ca-and dāru-wood ca-and
 
 ## mukta-m0-p05-v113
-[cut-limbed](chinnāṅgo'locano) [eyeless](alocano) [diseased](rogī) [skull-bearer](kapālī) [earth-tremor](bhūprakampanaḥ)
+chinna-aṅgaḥ-cut-limb alocanaḥ-eyeless rogī-diseased kapālī-skull-bearer bhū-prakampanaḥ-earth-tremor
 
 ## mukta-m0-p05-v114
-[hunger-emaciated-mad-dual](kṣutkṣāmonmattakau) [thread](tantuścauṣadhīṣaṇasañcayaḥ) [and](ca) [herbs-seed-collection](auṣadhīṣaṇasañcayaḥ)
+kṣut-kṣāma-hunger-emaciated unmattakau-mad-pair tantuḥ-thread ca-and auṣadhī-ṣaṇa-sañcayaḥ-medicine-seed-collection
 
 ## mukta-m0-p05-v115
-[half-half-month](pakṣārdhārdhaṃ) [but](tu) [abandoning](saṃtyajya) [departure](prasthānaṃ) [done](kriyate) [auspicious](śubhe)
+pakṣa-ardha-ardham half-half-month tu-but saṃtyajya-abandoning prasthānam-departure kriyate-done śubhe-auspicious
 
 ## mukta-m0-p05-v116
-[for-Veda](vedase) [be](syādvite) [two](dvite) [traveler](yātā) [tu-indeed](tu) [fire-staff-transgression](agnidaṇḍānatikramāt)
+vedase-for-veda syāt-may-be dvite-two yātā-travelers tu-indeed agni-daṇḍa-not-crossing
 
 ## mukta-m0-p05-v117
-[desired-beginning](iṣṭādau) [Śaṅkara](śaṅkaraṃ) [praised](śastaṃ) [east-Īśa-moon-forest](prāgīśenduvanaṃ) [should-go](vrajet)
+iṣṭa-ādau desired-beginning śaṅkaram-śiva śastam-praised prāg-īśa-indu-vanam east-lord-moon-forest vrajet-should-go
 
 ## mukta-m0-p05-v118
-[Mercury-Sun-Moon-Venus](budhārkendusite) [Jupiter](jīve) [tree-constellation](vārkṣe) [east-north-situated](prāguttarasthite)
+budha-arka-indu-site mercury-sun-moon-venus jīve-jupiter vārkṣe-in-tree prāg-uttara-sthite east-north-situated
 
 ## mukta-m0-p05-v119
-[one-interval](ekāntarāsu) [stars](tārāsu) [remainder](śeṣe) [ca-and](ca) [inauspicious-act](aniṣṭakarmaṇi)
+eka-antarāsu one-interval stars śeṣe-remainder ca-and aniṣṭa-karmaṇi inauspicious-act
 
 ## mukta-m0-p05-v120
-[Niṣadha](niṣadho) [blue-scent-named](nīlagandhākhyaḥ) [Śaṅgī-ketu](śaṅgīketurnagādhipāḥ) [mountain-lords](nagādhipāḥ)
+niṣadhaḥ-niṣadha nīla-gandha-ākhyaḥ blue-scent-named śaṅgī-ketu-śaṅgī-planet nagādhipāḥ-mountain-lords
 
 ## mukta-m0-p05-v121
-[Nanda-named](nandākhyo) [Malaya](malayo) [Vindhya](vindhya) [Ujjayanta](ujjayanto'tha) [then](atha) [Ṛkṣaka](ṛkṣakaḥ)
+nanda-ākhyaḥ-nanda-named malayaḥ-malaya vindhyaḥ-vindhya ujjayantaḥ-ujjayanta atha-then ṛkṣakaḥ-bear
 
 ## mukta-m0-p05-v122
-[yojanas](yojanāni) [ten](daśaiteṣāṃ) [of-these](eteṣāṃ) [mountains](girīṇāṃ) [near](nikaṭe) [forest](vanam)
+yojanāni-yojanas daśa-ten eteṣām-of-these girīṇām-mountains nikaṭe-near vanam-forest
 
 ## mukta-m0-p05-v123
-[this-field-born](etatkṣetrotthitā) [who](ye) [tu-but](tu) [stones](pāṣāṇāstaravaḥ) [trees](taravaḥ) [auspicious](śubhāḥ)
+etat-kṣetra-utthitāḥ this-field-born ye-who tu-indeed pāṣāṇāḥ-stones taravaḥ-trees śubhāḥ-auspicious
 
 ## mukta-m0-p05-v124
-[with-teacher](sācāryaḥ) [adept](sādhakaḥ) [artisan-people](śilpijanaiḥ) [surrounded](parivataḥ) [auspicious](śubhaiḥ)
+sa-ācāryaḥ-with-teacher sādhakaḥ-practitioner śilpi-janaiḥ-by-artisans parivataḥ-surrounded śubhaiḥ-auspicious
 
 ## mukta-m0-p05-v125
-[meditating](dhyātvādhaḥ) [below](adhaḥ) [material](prākṛtaṃ) [principle](tattvaṃ) [Śiva-principle-made](śivatattvamayīṃ) [earth](mahīm)
+dhyātvā-meditating adhaḥ-below prākṛtam-material tattvam-principle śiva-tattva-mayīm-śiva-principle-made mahīm-earth
