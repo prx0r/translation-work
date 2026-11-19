@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p54-v1326
-[word-pada](atho) [word-pada](sa) [word-pada](eva) [word-pada](mṛtpiṇḍaṃ) [word-pada](kulālakaravarttanaiḥ)
+[then](atho) [he](sa) [indeed](eva) [clay-lump](mṛtpiṇḍaṃ) [potter](kulāla)+[hand](kara)+[turning](varttanaiḥ)
 
 ## mukta-m0-p54-v1327
-[word-pada](gabhīrite) [word-pada](madhyadeśe) [word-pada](tatraiva) [word-pada](kuharīkṛtaḥ)
+[deep](gabhīrite) [middle-region](madhyadeśe) [there](tatra)+[indeed](eva) [hollowed](kuharīkṛtaḥ)
 
 ## mukta-m0-p54-v1328
-[word-pada](kuṃbha) [word-pada](ityasya) [word-pada](śabdasya) [word-pada](vācyatāmavagāhate)
+[pot](kuṃbha) [thus](iti)+[its](asya) [word](śabdasya) [denotation](vācyatām)+[enters](avagāhate)
 
 ## mukta-m0-p54-v1329
-[word-pada](bhūmau) [word-pada](viśīrṇa) [word-pada](sarvāṃgaḥ) [word-pada](kāpālaugha) [word-pada](tvamīhate)
+[on-ground](bhūmau) [shattered](viśīrṇa) [all-limbs](sarvāṃgaḥ) [potsherds-mass](kāpālaugha) [you-seek](tvamīhate)
 
 ## mukta-m0-p54-v1330
-[word-pada](kuṭṭitaḥ) [word-pada](sanprabhajate) [word-pada](dhūliśabdasya) [word-pada](vācyatām)
+[crushed](kuṭṭitaḥ) [being](san)+[breaks-apart](prabhajate) [dust-word](dhūliśabdasya) [denotation](vācyatām)
 
 ## mukta-m0-p54-v1331
-[word-pada](śīrṇaśīrṇaḥ) [word-pada](punarvegāttra) [word-pada](sareṇutvamicchati)
+[shattered-shattered](śīrṇaśīrṇaḥ) [again](punar)+[force](vegāt)+[limb](tra) [dusthood](sareṇutvam)+[desires](icchati)
 
 ## mukta-m0-p54-v1332
-[word-pada](atyaṃta) [word-pada](sūkṣmadurlakṣā) [word-pada](ghūrṇate) [word-pada](vāyumaṇḍale)
+[extremely](atyaṃta) [subtle](sūkṣma)+[hard-to-perceive](durlakṣā) [whirls](ghūrṇate) [wind-orb](vāyumaṇḍale)
 
 ## mukta-m0-p54-v1333
-[word-pada](anyonyaśabdanirvācyāsta) [word-pada](āropāḥ) [word-pada](prakīrttitāḥ)
+[mutually](anyonya)+[word](śabda)+[inexpressible](nirvācyāḥ)+[those](te) [superimpositions](āropāḥ) [declared](prakīrttitāḥ)
 
 ## mukta-m0-p54-v1334
-[word-pada](tatrāropitarūpatvaṃ) [word-pada](ghaṭādeḥ) [word-pada](kārayanbudhaḥ)
+[there](tatra)+[superimposed-form-ness](āropitarūpatvaṃ) [pot-etc](ghaṭādeḥ) [causing](kārayan)+[wise](budhaḥ)
 
 ## mukta-m0-p54-v1335
-[word-pada](guṇāntarasamāsaṃga) [word-pada](mātrādevakathaṃ) [word-pada](mṛdi)
+[quality-other](guṇāntara)+[conjunction](samāsaṃga) [measure](mātrā)+[only](deva)+[how](kathaṃ) [in-clay](mṛdi)
 
 ## mukta-m0-p54-v1336
-[word-pada](vṛthā) [word-pada](tasya) [word-pada](samāropaṃ) [word-pada](vṛthā) [word-pada](tasya) [word-pada](punarlayaḥ)
+[vain](vṛthā) [its](tasya) [superimposition](samāropaṃ) [vain](vṛthā) [its](tasya) [again](punar)+[dissolution](layaḥ)
 
 ## mukta-m0-p54-v1337
-[word-pada](īdṛśā) [word-pada](eva) [word-pada](kalahe) [word-pada](hetavaḥ) [word-pada](pratipāditāḥ)
+[such](īdṛśā) [indeed](eva) [disputes](kalahe) [causes](hetavaḥ) [shown](pratipāditāḥ)
 
 ## mukta-m0-p54-v1338
-[word-pada](varṇātmakāstu) [word-pada](ye) [word-pada](śabdāstatra) [word-pada](nityatvamekakaḥ)
+[sound-natured](varṇātmakāḥ)+[those](tu) [words](ye śabdāḥ)+[there](tatra) [eternity](nityatvam)+[one](ekakaḥ)
 
 ## mukta-m0-p54-v1339
-[word-pada](ataḥ) [word-pada](pravṛddhavairāṇāṃ) [word-pada](vādināmabhivalgatām)
+[therefore](ataḥ) [grown](pravṛddha)+[enmity](vairāṇāṃ) [disputants](vādinām)+[boasting](abhivalgatām)
 
 ## mukta-m0-p54-v1340
-[word-pada](prabhūtataradarpāṃdhāḥ) [word-pada](pāṇḍitya) [word-pada](grahadurdhiyām)
+[abundant](prabhūtatar)+[pride](darpāṃdhāḥ) [scholarship](pāṇḍitya) [planet](graha)+[bad-mind](durdhiyām)
 
 ## mukta-m0-p54-v1341
-[word-pada](tadgaveṣaṇamārgeṇa) [word-pada](tat) [word-pada](samāna) [word-pada](samādhinā)
+[that](tad)+[search](gaveṣaṇa)+[path](mārgeṇa) [that](tat) [same](samāna) [concentration](samādhinā)
 
 ## mukta-m0-p54-v1342
-[word-pada](viruddhabhāṣaṇe) [word-pada](jāti) [word-pada](nigraha) [word-pada](sthānakalpanaiḥ)
+[contradictory](viruddha)+[speech](bhāṣaṇe) [genus](jāti) [refutation](nigraha) [place](sthāna)+[fabrication](kalpanaiḥ)
 
 ## mukta-m0-p54-v1343
-[word-pada](paścātkope) [word-pada](sati) [word-pada](galoccoṣakāraṇa) [word-pada](ghoṣaṇaiḥ)
+[afterward](paścāt)+[anger](kope) [being](sati) [throat](gal)+[drying](occoṣa)+[cause](kāraṇa) [shouting](ghoṣaṇaiḥ)
 
 ## mukta-m0-p54-v1344
-[word-pada](punastena) [word-pada](prakāreṇa) [word-pada](keśākeśi) [word-pada](kṛte) [word-pada](raṇe)
+[again](punar)+[that](tena) [manner](prakāreṇa) [hair-pulling](keśākeśi) [made](kṛte) [battle](raṇe)
 
 ## mukta-m0-p54-v1345
-[word-pada](pādāt) [word-pada](saṃvṛtavegānāṃ) [word-pada](vādināṃdveṣaveśmasu)
+[foot](pādāt) [covered](saṃvṛta)+[speed](vegānāṃ) [disputants](vādināṃ)+[hatred](dveṣa)+[houses](veśmasu)
 
 ## mukta-m0-p54-v1346
-[word-pada](siddhāntitaiśca) [word-pada](svamanaḥ) [word-pada](śuddhairanyaiśca) [word-pada](ninditaiḥ)
+[established](siddhāntitaiḥ)+[and](ca) [own](sva)+[mind](manaḥ) [pure](śuddhaiḥ)+[others](anyaiḥ)+[and](ca) [blamed](ninditaiḥ)
 
 ## mukta-m0-p54-v1347
-[word-pada](vyāmūḍhān) [word-pada](kurvatāmeṣa) [word-pada](teṣāṃ) [word-pada](panthāniraṅkuśaḥ)
+[confused](vyāmūḍhān) [making](kurvatām)+[this](eṣa) [their](teṣāṃ) [path](panthāni)+[unrestrained](raṅkuśaḥ)
 
 ## mukta-m0-p54-v1348
-[word-pada](pramāṇāṃdhāḥ) [word-pada](ṣoḍaśāye) [word-pada](padārthaistairmahākālīḥ)
+[proof-blind](pramāṇāṃdhāḥ) [sixteen](ṣoḍaśāye) [categories](padārthaiḥ)+[those](taiḥ)+[great-kali](mahākālīḥ)
 
 ## mukta-m0-p54-v1349
-[word-pada](kalahaḥ) [word-pada](kevalaṃ) [word-pada](tatra) [word-pada](duḥsamāpaśaracchataiḥ)
+[dispute](kalahaḥ) [only](kevalaṃ) [there](tatra) [hard-to-end](duḥsamāpa)+[autumn-hundreds](śaracchataiḥ)
 
 ## mukta-m0-p54-v1350
-[word-pada](saṃprāptirūpo) [word-pada](bhavitā) [word-pada](tadā) [word-pada](vāmena) [word-pada](nirṇayaḥ)
+[arrival-form](saṃprāptirūpo) [will-be](bhavitā) [then](tadā) [left](vāmena) [decision](nirṇayaḥ)
