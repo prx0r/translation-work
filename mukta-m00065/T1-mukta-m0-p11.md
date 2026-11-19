@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p11-v251
-skull-bowl [gloss](karoṭaṃ) garland-of-skulls [gloss](muṇḍamālaṃ) and [gloss](ca) hook [gloss](kaṅkoṭaṃ) sword-roar [gloss](khaḍgarāvaṇam)
+[skull-bowl](karoṭaṃ) [garland-of-skulls](muṇḍamālaṃ) [and](ca) [kaṅkoṭa](kaṅkoṭaṃ) [sword-roar](khaḍgarāvaṇam)
 
 ## mukta-m0-p11-v252
-terrible-laugh [gloss](ghorāṭṭahāsam) leftover [gloss](ucchiṣṭaṃ) growling [gloss](ghurghuraṃ) evil-frightening [gloss](duṣṭatrāsakam)
+[terrible-laugh](ghorāṭṭahāsamucchiṣṭaṃ) [growling](ghurghuraṃ) [evil-frightening](duṣṭatrāsakam)
 
 ## mukta-m0-p11-v253
-yama-bell [gloss](yamaghaṇṭaṃ) and [gloss](ca) bhuta-invocation [gloss](bhūtāhvaṃ) poison-distinction [gloss](viṣabhedam) unborn-born [gloss](ajātajam)
+[yama-bell](yamaghaṇṭaṃ) [and](ca) [bhūta-invocation](bhūtāhvaṃ) [poison-difference](viṣabhedam) [unborn-born](ajātajam)
 
 ## mukta-m0-p11-v254
-again-lakh-division [gloss](punarlakṣavibhedana) broken [gloss](grabhinnaḥ) scripture-collection [gloss](śāstrasaṅgrahaḥ)
+[again-lakṣa-difference](punarlakṣavibhedana) [split](grabhinnaḥ) [scripture-collection](śāstrasaṅgrahaḥ)
 
 ## mukta-m0-p11-v255
-from-sages [gloss](ṛṣibhyaḥ) humans [gloss](mānuṣāḥ) disciples [gloss](śiṣyāḥ) all-scriptures-descenders [gloss](sarvaśāstrāvatārakāḥ)
+[from-sages](ṛṣibhyo) [humans](mānuṣāḥ) [disciples](śiṣyāḥ) [all-scriptures-descenders](sarvaśāstrāvatārakāḥ)
 
 ## mukta-m0-p11-v256
-thus [gloss](iti) customary [gloss](sāmayikaṃ) spoken [gloss](proktaṃ) by-shambhu-five-serpents [gloss](śambhunāgamapañcakam)
+[thus](iti) [conventional](sāmayikaṃ) [spoken](proktaṃ) [śambhu-nāga-five](śambhunāgamapañcakam)
 
 ## mukta-m0-p11-v257
-single-bowl-eating [gloss](ekatrabhojanaṃ) terrible [gloss](ghore) left [gloss](vāme) left-nectar [gloss](vāmāmṛtaṃ) likewise [gloss](tathā)
+[single-eating](ekatrabhojanaṃ) [terrible](ghore) [left](vāme) [left-nectar](vāmāmṛtaṃ) [thus](tathā)
 
 ## mukta-m0-p11-v258
-should-practice [gloss](ācaret) vows [gloss](samayān) five [gloss](pañca) who [gloss](yaḥ) he [gloss](saḥ) teacher [gloss](ācāryaḥ) is-called [gloss](ucyate)
+[should-practice](ācaret) [vows](samayān) [five](pañca) [who](yaḥ) [that](saḥ) [teacher](ācāryaḥ) [called](ucyate)
 
 ## mukta-m0-p11-v259
-that [gloss](tat) certainly [gloss](avaśyaṃ) indeed [gloss](hi) to-be-done [gloss](kartavyam) otherwise [gloss](anyathā) fall [gloss](patanaṃ) becomes [gloss](bhavet)
+[that-certainly](tadavaśyaṃ) [indeed](hi) [to-be-done](kartavyam) [otherwise](anyathā) [fall](patanaṃ) [becomes](bhavet)
 
 ## mukta-m0-p11-v260
-six-acts [gloss](ṣaṭkarmāṇi) indeed [gloss](tu) to-be-done [gloss](kāryāṇi) by-shiva-teacher [gloss](śivācāryeṇa) not [gloss](no) by-others [gloss](paraiḥ)
+[six-acts](ṣaṭkarmāṇi) [indeed](tu) [to-be-done](kāryāṇi) [śiva-teacher](śivācāryeṇa) [not](no) [others](paraiḥ)
 
 ## mukta-m0-p11-v261
-initiation [gloss](dīkṣāṃ) and [gloss](ca) installation [gloss](sthāpanaṃ) thus [gloss](ceti) six-acts [gloss](ṣaṭkarmāṇi) always [gloss](sadā) of-teacher [gloss](guroḥ)
+[initiation](dīkṣāṃ) [and](ca) [installation](sthāpanaṃ) [thus](ceti) [six-acts](ṣaṭkarmāṇi) [always](sadā) [of-teacher](guroḥ)
 
 ## mukta-m0-p11-v262
-krosas [gloss](krośān) five [gloss](pañca) abandoning [gloss](parityajya) by-teacher-command [gloss](gurvādeśāt) then [gloss](tadā) should-do [gloss](ācaret)
+[krośas](krośān) [five](pañca) [abandoning](parityajya) [by-teacher-command](gurvādeśāt) [then](tadā) [should-do](ācaret)
 
 ## mukta-m0-p11-v263
-practitioner [gloss](sādhakaḥ) should-accomplish [gloss](sādhayet) accomplishment [gloss](siddhiḥ) teacher [gloss](ācāryaḥ) should-initiate [gloss](dīkṣayet) beasts [gloss](paśūn)
+[practitioner](sādhakaḥ) [should-accomplish](sādhayet) [siddhi](siddhiḥ) [teacher](ācāryaḥ) [should-initiate](dīkṣayet) [beasts](paśūn)
 
 ## mukta-m0-p11-v264
-installation-etc-rite [gloss](pratiṣṭhādikriyā) of-him [gloss](tasya) not [gloss](na) from-recitation-only [gloss](pāṭhādagra) birth [gloss](janmanaḥ)
+[installation-etc-rite](pratiṣṭhādikriyā) [of-him](tasya) [not](na) [from-recitation](pāṭhādagra) [from-birth](janmanaḥ)
 
 ## mukta-m0-p11-v265
-method [gloss](yuktiḥ) is-indicated [gloss](saṃsūcyate) some [gloss](kācid) which [gloss](yā) is-spoken [gloss](uktā) in-parameshvara [gloss](pārameśvare)
+[method](yuktiḥ) [is-indicated](saṃsūcyate) [some](kācid) [which](yā) [spoken](uktā) [supreme-lord](pārameśvare)
 
 ## mukta-m0-p11-v266
-not [gloss](nā) from-stone-etc [gloss](aśmādau) shiva-ness [gloss](śivatā) there [gloss](tatra) indeed [gloss](hi) in-ray [gloss](āṃśave) far [gloss](dūrataḥ) shiva [gloss](śivaḥ)
+[not-in-stone-etc](nāśmādau) [śiva-ness](śivatā) [there](tatra) [indeed](hi) [in-ray](āṃśave) [far](dūrataḥ) [śiva](śivaḥ)
 
 ## mukta-m0-p11-v267
-outcaste [gloss](cāṇḍālaḥ) he [gloss](asau) inedible-food [gloss](abhojyānnaḥ) sinner [gloss](pātakī) no [gloss](nā) here [gloss](atra) doubt [gloss](saṃśayaḥ)
+[caṇḍāla](cāṇḍālo) [that](asau) [not-to-be-eaten-food](abhojyānnaḥ) [sinner](pātakī) [not](nātra) [doubt](saṃśayaḥ)
 
 ## mukta-m0-p11-v268
-other-gotra [gloss](anyagotre) kusha [gloss](kuśā) fall [gloss](pātāt) hell-dweller [gloss](nārakī) becomes [gloss](syāt) twice-born-lowest [gloss](dvijādhamaḥ)
+[other-gotra](anyagotre) [kuśa](kuśā) [fall](pātān) [hell-dweller](nārakī) [would-be](syād) [twice-born-lowest](dvijādhamaḥ)
 
 ## mukta-m0-p11-v269
-linga-etc-installers [gloss](liṅgādisthāpakāḥ) who [gloss](ye) and [gloss](ca) they [gloss](te) outcaste-equal [gloss](cāṇḍālasamāḥ) twice-born [gloss](dvijāḥ)
+[liṅga-etc-installer](liṅgādisthāpakā) [those](ye) [and](ca) [they](te) [caṇḍāla-equal](cāṇḍālasamā) [twice-born](dvijāḥ)
 
 ## mukta-m0-p11-v270
-to-be-regarded [gloss](mantavyaḥ) brahmin-like [gloss](vipravat) shudra [gloss](śūdraḥ) from-shudra [gloss](śūdrāt) more-sinful [gloss](pāpataraḥ) but [gloss](tu) he [gloss](saḥ)
+[to-be-considered](mantavyo) [brāhmaṇa-like](vipravat) [śūdra](śūdraḥ) [from-śūdra](śūdrāt) [more-sinful](pāpatarastu) [that](saḥ)
 
 ## mukta-m0-p11-v271
-by-conduct [gloss](vṛttāt) accomplished [gloss](siddhāḥ) vasishtha-etc [gloss](vasiṣṭhādyāḥ) by-vyasa [gloss](vyāsenoktaṃ) and [gloss](ca) in-bharata [gloss](bhārate)
+[by-conduct](vṛttāt) [siddhas](siddhā) [vasiṣṭha-etc](vasiṣṭhādyā) [by-vyāsa](vyāsenoktaṃ) [and](ca) [in-bhārata](bhārate)
 
 ## mukta-m0-p11-v272
-in-hell [gloss](narake) falls [gloss](patati) quickly [gloss](kṣipraṃ) doer [gloss](kartā) with-ancestors [gloss](svapitṛbhiḥ) together [gloss](saha)
+[in-hell](narake) [falls](patati) [quickly](kṣipraṃ) [doer](kartā) [with-ancestors](svapitṛbhiḥ) [with](saha)
 
 ## mukta-m0-p11-v273
-own-brahminhood [gloss](svabrāhmaṇyaṃ) gone [gloss](gataṃ) their [gloss](teṣāṃ) brahmin-killing [gloss](brahmahatyāṃ) and [gloss](ca) established [gloss](saṃsthitam)
+[own-brāhmaṇhood](svabrāhmaṇyaṃ) [gone](gataṃ) [their](teṣāṃ) [brahmahatyā](brahmahatyāṃ) [and](ca) [established](saṃsthitam)
 
 ## mukta-m0-p11-v274
-they [gloss](te) cruel [gloss](krūrāḥ) destroyers [gloss](dhvaṃsakāḥ) to-be-known [gloss](jñeyāḥ) sacrificer-destruction-bringing [gloss](yajamānakṣayāvahāḥ)
+[they](te) [cruel](krūrā) [destroyers](dhvaṃsakā) [to-be-known](jñeyā) [sacrificer-destruction-causing](yajamānakṣayāvahāḥ)
 
 ## mukta-m0-p11-v275
-gift-worship-etc-unworthy [gloss](dānārcanādyanarhaḥ) becomes [gloss](syāt) destroyed [gloss](vinaṣṭā) brahmin-woman [gloss](brāhmaṇī) as [gloss](yathā)
+[gift-worship-etc-unworthy](dānārcanādyanarhaḥ) [would-be](syād) [destroyed](vinaṣṭā) [brāhmaṇī](brāhmaṇī) [as](yathā)
