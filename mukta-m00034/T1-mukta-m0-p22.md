@@ -5,13 +5,13 @@
 [from-excess](udrekāt) [drawing](karṣato) [seen](dṛṣṭaḥ) [of-time-devouring](kālagrāsasya) [origin](sambhavaḥ)
 
 ## mukta-m0-p22-v527
-[steadiness-goes](sthairyameti) [wonder](camatkāro) [without](vinā) [object-attachment](viṣayasaṅgatim)
+[steadiness-attains](sthairyameti) [wonder](camatkāro) [without](vinā) [object-attachment](viṣayasaṅgatim)
 
 ## mukta-m0-p22-v528
 [measure-ground-taking-refuge](pramāṇabhūmimāśritya) [four](catasraḥ) [times](kālikāḥ) [established](sthitāḥ)
 
 ## mukta-m0-p22-v529
-[stability-creation-etc-difference](sthitisṛṣṭyādibhedena) [fourfold](caturdhā) [time-rise](kālikodayaḥ)
+[by-distinction-of-stability-creation-etc](sthitisṛṣṭyādibhedena) [fourfold](caturdhā) [time-rise](kālikodayaḥ)
 
 ## mukta-m0-p22-v530
 [knower-form-entering](pramātṛrūpamāviśya) [four](catasraḥ) [times](kālikāḥ) [established](sthitāḥ)
@@ -20,49 +20,49 @@
 [seeing-touch-enjoyment-detachment-excess](darśanasparśasambhogavirāmodrekatā) [considered](matāḥ)
 
 ## mukta-m0-p22-v532
-[women-wine-meat-enjoyments](strīmadyamāṃsabhogeṣu) [wonder-continuation](camatkārānuvṛttitaḥ)
+[in-women-wine-meat-enjoyments](strīmadyamāṃsabhogeṣu) [wonder-continuation](camatkārānuvṛttitaḥ)
 
 ## mukta-m0-p22-v533
-[this](etat) [retinue](parikaraḥ) [but-other](tvanyaḥ) [state-group](bhāvavargaḥ) [established](vyavasthitaḥ)
+[this](etat) [retinue](parikaraḥ) [but-other](tvanyo) [emotion-group](bhāvavargaḥ) [established](vyavasthitaḥ)
 
 ## mukta-m0-p22-v534
-[by-this-intention](anenaivāśayenaiva) [supreme-brahman-obtaining](parabrahmopalabdhaye)
+[by-this-very-intention](anenaivāśayenaiva) [for-supreme-brahman-realization](parabrahmopalabdhaye)
 
 ## mukta-m0-p22-v535
-[thus](taditthaṃ) [all-states](sarvabhāvānāṃ) [all-experience-grounds](sarvānubhavabhūmiṣu)
+[thus](taditthaṃ) [of-all-beings](sarvabhāvānāṃ) [in-all-experience-grounds](sarvānubhavabhūmiṣu)
 
 ## mukta-m0-p22-v536
-[proper-thing-inquiry](samyagvastuvicāreṇa) [states-non-nature](bhāvānāmāsvabhāvataḥ)
+[by-proper-thing-inquiry](samyagvastuvicāreṇa) [of-beings-non-nature](bhāvānāmāsvabhāvataḥ)
 
 ## mukta-m0-p22-v537
-[thus](iti) [accomplished-mouth-tradition-reasoning](siddhamukhāmnāyayuktyā) [not-at-all-is](naivāsti) [in-reality](vastutaḥ)
+[thus](iti) [by-siddha-mouth-tradition-reasoning](siddhamukhāmnāyayuktyā) [not-at-all-is](naivāsti) [in-reality](vastutaḥ)
 
 ## mukta-m0-p22-v538
-[self-expansion-filled](svaviṣphāramayaṃ) [all-this](sarvamidaṃ) [arrangement-of-self](saṃsthānamātmanaḥ)
+[self-expansion-filled](svaviṣphāramayaṃ) [all-this](sarvamidaṃ) [arrangement](saṃsthānam) [of-self](ātmanaḥ)
 
 ## mukta-m0-p22-v539
-[that-devouring-zeal-supreme](tadgrāsasaṃrambhaparā) [and-which](yāśca) [twelve](dvādaśa) [times](kālikāḥ)
+[that-devouring-eagerness-devoted](tadgrāsasaṃrambhaparā) [and-which](yāśca) [twelve](dvādaśa) [times](kālikāḥ)
 
 ## mukta-m0-p22-v540
-[one-only](ekaiva) [consciousness-nonconsciousness-enjoyment-enjoyment-nonenjoyment-marked](cidacidbhogabhoganirbhogalakṣaṇā)
+[one-only](ekaiva) [consciousness-nonconsciousness-enjoyment-enjoyment-non-enjoyment-characterized](cidacidbhogabhoganirbhogalakṣaṇā)
 
 ## mukta-m0-p22-v541
-[with-concept-without-concept](savikalpāvikalpānāṃ) [all](sarvāsā) [consciousness-abode](saṃvidālayaḥ)
+[of-conceptual-nonconceptual](savikalpāvikalpānāṃ) [of-all](sarvāsā) [consciousness-abode](saṃvidālayaḥ)
 
 ## mukta-m0-p22-v542
-[immovable](acalā) [vibration-free](spandarahitā) [all-vibration-enjoyer](sarvaspandopabhoginī)
+[unmoving](acalā) [vibration-free](spandarahitā) [all-vibration-enjoyer](sarvaspandopabhoginī)
 
 ## mukta-m0-p22-v543
-[thus](tathā) [worship-transfers](pūjanasaṅkrāmair) [means](upāyair) [indicated](upalakṣitā)
+[thus](tathā) [by-worship-transfers](pūjanasaṅkrāmair) [by-means](upāyair) [indicated](upalakṣitā)
 
 ## mukta-m0-p22-v544
-[thirteenth-thus](trayodaśīti) [which](yā) [goddess](devī) [said](kathyate) [indeed](hi) [by-convention](upacārataḥ)
+[thirteenth-thus](trayodaśīti) [which](yā) [goddess](devī) [is-said](kathyate) [indeed](hi) [by-convention](upacārataḥ)
 
 ## mukta-m0-p22-v545
-[names](abhidhānāni) [occur](vartante) [heart-reaching-reasoning](hṛdayaṅgamayuktitaḥ)
+[names](abhidhānāni) [occur](vartante) [by-heart-reaching-reasoning](hṛdayaṅgamayuktitaḥ)
 
 ## mukta-m0-p22-v546
-[time-sequence-seenness](kālikākramadṛṣṭatvāt) [by-convention](upacāreṇa) [those](tāḥ) [established](sthitāḥ)
+[because-of-time-sequence-seenness](kālikākramadṛṣṭatvāt) [by-convention](upacāreṇa) [those](tāḥ) [established](sthitāḥ)
 
 ## mukta-m0-p22-v547
 [how](kathaṃ) [of-mantra](mantrasya) [reality](sadbhāvaḥ) [that](sa) [direct](pratyakṣaḥ) [also](api) [or](vā) [how](katham)

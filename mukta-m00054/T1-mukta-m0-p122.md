@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p122-v3026
-[beggar-homage](bhikṣavenamaḥ) [beggar-form-to-homage](bhikṣurūpāyanamaḥ) [market-to-homage](vipaṇāyanamaḥ)
+[homage](bhikṣavenamaḥ) [homage](bhikṣurūpāyanamaḥ) [homage](vipaṇāyanamaḥ)
 
 ## mukta-m0-p122-v3027
-[thunderbolt-hand-to-homage](vajrahastāyanamaḥ) [obstructer-homage](viṣkambhinenamaḥ)
+[homage](vajrahastāyanamaḥ) [homage](viṣkambhinenamaḥ)
 
 ## mukta-m0-p122-v3028
-[army-stopping-to-homage](camūstambhanāyanamaḥ) [round-and-nonround-maker-to-homage](vṛttāvṛttakarāyanamaḥ)
+[homage](camūstambhanāyanamaḥ) [homage](vṛttāvṛttakarāyanamaḥ)
 
 ## mukta-m0-p122-v3029
-[palm-to-homage](tālāyanamaḥ) [madhava-homage](madhavenamaḥ) [sweet-eyed-to-homage](madhukalocanāyanamaḥ)
+[homage](tālāyanamaḥ) [homage](madhavenamaḥ) [homage](madhukalocanāyanamaḥ)
 
 ## mukta-m0-p122-v3030
-[speech-lord-to-homage](vācaspatyāyanamaḥ) [vajasan-to-homage](vājasanāyanamaḥ)
+[homage](vācaspatyāyanamaḥ) [homage](vājasanāyanamaḥ)
 
 ## mukta-m0-p122-v3031
-[hermitage-worshipped-to-homage](āśramapūjitāyanamaḥ) [brahmacarin-homage](brahmacāriṇenamaḥ)
+[homage](āśramapūjitāyanamaḥ) [homage](brahmacāriṇenamaḥ)
 
 ## mukta-m0-p122-v3032
-[world-wanderer-homage](lokacāriṇenamaḥ) [all-wanderer-homage](sarvacāriṇenamaḥ) [deliberation-knower-homage](vicāravidenamaḥ)
+[homage](lokacāriṇenamaḥ) [homage](sarvacāriṇenamaḥ) [homage](vicāravidenamaḥ)
 
 ## mukta-m0-p122-v3033
-[ishana-to-homage](īśānāyanamaḥ) [lord-to-homage](īśvarāyanamaḥ) [time-to-homage](kālāyanamaḥ)
+[homage](īśānāyanamaḥ) [homage](īśvarāyanamaḥ) [homage](kālāyanamaḥ)
 
 ## mukta-m0-p122-v3034
-[night-wanderer-homage](niśācāriṇenamaḥ) [pinaka-bearer-homage](pinākadhṛṣenamaḥ) [cause-standing-to-homage](nimittasthāyanamaḥ)
+[homage](niśācāriṇenamaḥ) [homage](pinākadhṛṣenamaḥ) [homage](nimittasthāyanamaḥ)
 
 ## mukta-m0-p122-v3035
-[cause-to-homage](nimittāyanamaḥ) [delighter-homage](nandayenamaḥ) [nandi-maker-to-homage](nandikarāyanamaḥ)
+[homage](nimittāyanamaḥ) [homage](nandayenamaḥ) [homage](nandikarāyanamaḥ)
 
 ## mukta-m0-p122-v3036
-[hara-homage](harayenamaḥ) [nandishvara-to-homage](nandīśvarāyanamaḥ) [nandi-homage](nandinenamaḥ)
+[homage](harayenamaḥ) [homage](nandīśvarāyanamaḥ) [homage](nandinenamaḥ)
 
 ## mukta-m0-p122-v3037
-[destroyer-homage](nihantrenamaḥ) [time-to-homage](kālāyanamaḥ) [brahman-homage](brahmaṇenamaḥ)
+[homage](nihantrenamaḥ) [homage](kālāyanamaḥ) [homage](brahmaṇenamaḥ)
 
 ## mukta-m0-p122-v3038
-[grandfather-to-homage](pitāmahāyanamaḥ) [four-faced-to-homage](caturmmukhāyanamaḥ)
+[homage](pitāmahāyanamaḥ) [homage](caturmmukhāyanamaḥ)
 
 ## mukta-m0-p122-v3039
-[great-linga-to-homage](mahāliṅgāyanamaḥ) [beautiful-linga-to-homage](cāruliṅgāyanamaḥ)
+[homage](mahāliṅgāyanamaḥ) [homage](cāruliṅgāyanamaḥ)
 
 ## mukta-m0-p122-v3040
-[linga-overseer-to-homage](liṅgādhyakṣāyanamaḥ) [god-overseer-to-homage](surādhyakṣāyanamaḥ)
+[homage](liṅgādhyakṣāyanamaḥ) [homage](surādhyakṣāyanamaḥ)
 
 ## mukta-m0-p122-v3041
-[yoga-overseer-to-homage](yogādhyakṣāyanamaḥ) [yuga-bearer-to-homage](yugāvahāyanamaḥ)
+[homage](yogādhyakṣāyanamaḥ) [homage](yugāvahāyanamaḥ)
 
 ## mukta-m0-p122-v3042
-[seed-overseer-to-homage](bījādhyakṣāyanamaḥ) [seed-maker-homage](bījakarttrenamaḥ)
+[homage](bījādhyakṣāyanamaḥ) [homage](bījakarttrenamaḥ)
 
 ## mukta-m0-p122-v3043
-[self-following-to-homage](adhyātmānugatāyanamaḥ) [strength-to-homage](balāyanamaḥ) [history-to-homage](itihāsāyanamaḥ)
+[homage](adhyātmānugatāyanamaḥ) [homage](balāyanamaḥ) [homage](itihāsāyanamaḥ)
 
 ## mukta-m0-p122-v3044
-[subduable-to-homage](vaśyāyanamaḥ) [subduing-maker-to-homage](vaśakarāyanamaḥ) [kalay-homage](kalayenamaḥ)
+[homage](vaśyāyanamaḥ) [homage](vaśakarāyanamaḥ) [homage](kalayenamaḥ)
 
 ## mukta-m0-p122-v3045
-[world-maker-homage](lokakarttrenamaḥ) [pashupati-homage](paśupatayenamaḥ) [great-maker-homage](mahākarttrenamaḥ)
+[homage](lokakarttrenamaḥ) [homage](paśupatayenamaḥ) [homage](mahākarttrenamaḥ)
 
 ## mukta-m0-p122-v3046
-[no-medicine-to-homage](anauṣadhāyanamaḥ) [imperishable-to-homage](akṣarāyanamaḥ) [supreme-brahman-homage](paramabrahmaṇenamaḥ)
+[homage](anauṣadhāyanamaḥ) [homage](akṣarāyanamaḥ) [homage](paramabrahmaṇenamaḥ)
 
 ## mukta-m0-p122-v3047
-[strong-homage](balavatenamaḥ) [shakra-to-homage](śakrāyanamaḥ) [conduct-homage](nītayenamaḥ)
+[homage](balavatenamaḥ) [homage](śakrāyanamaḥ) [homage](nītayenamaḥ)
 
 ## mukta-m0-p122-v3048
-[non-conduct-homage](anītayenamaḥ) [pure-soul-homage](śuddhātmanenamaḥ) [pure-to-homage](śuddhāyanamaḥ)
+[homage](anītayenamaḥ) [homage](śuddhātmanenamaḥ) [homage](śuddhāyanamaḥ)
 
 ## mukta-m0-p122-v3049
-[honorable-to-homage](mānyāyanamaḥ) [going-coming-to-homage](gatāgatāyanamaḥ) [much-grace-to-homage](bahuprasādāyanamaḥ)
+[homage](mānyāyanamaḥ) [homage](gatāgatāyanamaḥ) [homage](bahuprasādāyanamaḥ)
 
 ## mukta-m0-p122-v3050
-[veda-maker-to-homage](vedakārāyanamaḥ) [mantra-maker-to-homage](mantrakārāyanamaḥ) [learned-homage](viduṣenamaḥ)
+[homage](vedakārāyanamaḥ) [homage](mantrakārāyanamaḥ) [homage](viduṣenamaḥ)
