@@ -5,7 +5,7 @@
 [yoga-mudrā](yogamudrāṃ) [ca](ca) [śaṅkha](śaṅkhaṃ) [ca](ca) [gadā-cakra-dhara](gadācakradharaṃ) [dvaya](dvayam)
 
 ## mukta-m0-p36-v877
-[mudrā](mudrāṃ) [kuryāt-hṛdi-sthā](kuryāddhṛdisthāṃ) [ca](ca) [aśeṣa-agha-praṇāśinī](aśeṣāghapraṇāśinīm)
+[mudrā](mudrāṃ) [kuryāt](kuryāddhṛdisthāṃ) [hṛdi-sthā](hṛdisthāṃ) [ca](ca) [aśeṣa-agha-praṇāśinī](aśeṣāghapraṇāśinīm)
 
 ## mukta-m0-p36-v878
 [pātra-śānti-dhara](pātraśāntidharaṃ) [yāmye](yāmye) [vāmake](vāmake) [padma-sīrin](padmasīriṇau)
@@ -20,13 +20,13 @@
 [ebhiḥ](ebhiryuktaṃ) [yukta](yuktaṃ) [nava-vyūha](navavyūhaṃ) [jñātavya](jñātavyaṃ) [daiśika-uttama](daiśikottamaiḥ)
 
 ## mukta-m0-p36-v882
-[vāma-utsaṅga-dhṛta-śrī](vāmotsaṅgadhṛtaśrīkam) [ardha-candra-āsana-sthita](ardhacandrāsane sthitam)
+[vāma-utsaṅga-dhṛta-śrī](vāmotsaṅgadhṛtaśrīkam) [ardha-candra-āsane](ardhacandrāsane) [sthita](sthitam)
 
 ## mukta-m0-p36-v883
-[tat-dakṣiṇa](taddakṣiṇaṃ) [kara](karaṃ) [skandhe](skandhe) [deva-deva](devadevasya) [dakṣiṇe](dakṣiṇe)
+[tat](taddakṣiṇaṃ) [dakṣiṇa](dakṣiṇaṃ) [kara](karaṃ) [skandhe](skandhe) [deva-deva](devadevasya) [dakṣiṇe](dakṣiṇe)
 
 ## mukta-m0-p36-v884
-[padma-stha](padmastho) [ghūrṇita-akṣa](ghūrṇitākṣaśca) [gātṛ-nartana-kaiḥ](gātṛnartanakairvṛtaḥ) [vṛta](vṛtaḥ)
+[padma-stha](padmastho) [ghūrṇita-akṣa](ghūrṇitākṣaśca) [ca](ca) [gātṛ-nartana-kaiḥ](gātṛnartanakairvṛtaḥ) [vṛta](vṛtaḥ)
 
 ## mukta-m0-p36-v885
 [advaitena](advaitena) [vidhānena](vidhānena) [pūjanīya](pūjanīyo) [vipaścitā](vipaścitā)
@@ -41,10 +41,10 @@
 [ābhyuttha-paṅkaja-ārūḍha](ābhyutthapaṅkajārūḍhaḥ) [pitāmaha-samanvita](pitāmahasamanvitaḥ)
 
 ## mukta-m0-p36-v889
-[sā](sā) [līḍha](līḍho) [nandane](nandane) [rāgī](rāgī) [sadā](sadā) [cāpa-iṣu-bhṛt-śubha](cāpeṣubhṛcchubhaḥ)
+[sā](sā) [līḍha](līḍho) [nandane](nandane) [rāgī](rāgī) [sadā](sadā) [cāpa-iṣu-bhṛt](cāpeṣubhṛcchubhaḥ) [śubha](śubhaḥ)
 
 ## mukta-m0-p36-v890
-[tuṅga-ghrāṇa](tuṅgaghrāṇo) [narāṅghiḥ](narāṅghirvā) [pakṣi-jaṅgha](pakṣijaṅgho) [narāṅgaka](narāṅgakaḥ)
+[tuṅga-ghrāṇa](tuṅgaghrāṇo) [narāṅghi](narāṅghirvā) [vā](vā) [pakṣi-jaṅgha](pakṣijaṅgho) [narāṅgaka](narāṅgakaḥ)
 
 ## mukta-m0-p36-v891
 [vāma-jānu-gata](vāmajānugato) [bhūmau](bhūmau) [tārkṣya](tārkṣyaḥ) [pakṣa-samanvita](pakṣasamanvitaḥ)
@@ -56,7 +56,7 @@
 [padma-sīra-dhara](padmasīradharaṃ) [vāme](vāme) [śeṣe](śeṣe) [muśala-go-dvaha](muśalagodvaham)
 
 ## mukta-m0-p36-v894
-[ardhe-ardhe](ardhe'rdhe) [bhūṣaṇaiḥ](bhūṣaṇaiḥ) [svaiḥ](svaiḥ) [svaiḥ](svaiḥ) [yukta-mūrdhvaṃ](yuktamūrdhvaṃ) [kaja-sthita](kajasthitam)
+[ardhe-ardhe](ardhe'rdhe) [bhūṣaṇaiḥ](bhūṣaṇaiḥ) [svaiḥ](svaiḥ) [svaiḥ](svaiḥ) [yukta](yuktamūrdhvaṃ) [ūrdhva](ūrdhvaṃ) [kaja-sthita](kajasthitam)
 
 ## mukta-m0-p36-v895
 [akṣa-mālā](akṣamālāṃ) [triśūla](triśūlaṃ) [ca](ca) [śaṅkha](śaṅkhaṃ) [ca](ca) [kaumudī](kaumudīṃ) [kramāt](kramāt)
@@ -65,7 +65,7 @@
 [puṃ-strī-svarūpaka](puṃstrīsvarūpakaṃ) [kuryāt](kuryācchivanārāyaṇātmakam) [śiva-nārāyaṇa-ātmaka](śivanārāyaṇātmakam)
 
 ## mukta-m0-p36-v897
-[brahmāṇaṃ](brahmāṇaṃ) [vratinaṃ](vratinaṃ) [kuryāt](kuryājjaṭāmukuṭabhūṣitam) [jaṭā-mukuṭa-bhūṣita](jaṭāmukuṭabhūṣitam)
+[brahmāṇa](brahmāṇaṃ) [vratina](vratinaṃ) [kuryāt](kuryājjaṭāmukuṭabhūṣitam) [jaṭā-mukuṭa-bhūṣita](jaṭāmukuṭabhūṣitam)
 
 ## mukta-m0-p36-v898
 [kṛṣṇa-ajina](kṛṣṇājinaṃ) [ca](ca) [tat-skandhe](tatskandhe) [vastra](vastraṃ) [ca](ca) [ajina-vāsasa](ajinavāsasam)
@@ -74,4 +74,4 @@
 [sruva](sruvaṃ) [kamaṇḍalu](kamaṇḍaluṃ) [vāme](vāme) [sa-kuśa-ājya-ghaṭa](sakuśājyaghaṭaṃ) [tathā](tathā)
 
 ## mukta-m0-p36-v900
-[gāyatrī](gāyatrīṃ) [ca-eva](caiva) [sāvitrī](sāvitrīm) [ṛṣīn](ṛṣīṃstatpārśvayostathā) [tat-pārśvayoḥ](tatpārśvayostathā) [tathā](tathā)
+[gāyatrī](gāyatrīṃ) [ca](ca) [eva](eva) [sāvitrī](sāvitrīm) [ṛṣīn](ṛṣīṃstatpārśvayostathā) [tat-pārśvayoḥ](tatpārśvayostathā) [tathā](tathā)

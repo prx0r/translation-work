@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p22-v526
-[other-action-purpose-intoxication-?](anyakarmārthamānītonmādāniṣpattikāriṇī)
+[other](anya) [action](karma) [purpose-proud](arthamānin) [madness](unmāda) [producing](niṣpattikāriṇī)
 
 ## mukta-m0-p22-v527
-[low-born](antyajā) [that](sā) [stone](śilā) [to-be-known](jñeyā) [of-twice-born-etc](dvijādīnāṃ) [blamed](vigarhitā)
+[lowest-born](antyajā) [that](sā) [stone](śilā) [to-be-known](jñeyā) [of-twice-born-etc](dvijādīnām) [despised](vigarhitā)
 
 ## mukta-m0-p22-v528
-[not-other](nāna) [color](varṇā) [and](ca) [caṇḍālī](cāṇḍalī) [that](sā) [of-maker](kartuḥ) [family-destroying](kulanāśinī)
+[various](nāna) [color](varṇā) [and](ca) [outcaste-woman](cāṇḍalī) [that](sā) [of-maker](kartuḥ) [family-destroying](kulanāśinī)
 
 ## mukta-m0-p22-v529
-[for-primitive-beings'-benefit](prākṛtānāṃ+hitārthāya) [desire](kāmaṃ) [for-liberation-seeking](muktyarthināṃ) [of-men](nṛṇām)
+[of-ordinary](prākṛtānām) [for-benefit](hitārthāya) [desire](kāmam) [of-liberation-seeking](muktyarthinām) [of-men](nṛṇām)
 
 ## mukta-m0-p22-v530
-[small-faults](svalpadoṣā) [these](ime) [called](khyātā) [twenty](viṃśatiḥ) [by-lakh-difference](lakṣabhedataḥ)
+[small-faults](svalpadoṣā) [these](ime) [known](khyātā) [twenty](viṃśatiḥ) [by-hundred-thousand-differences](lakṣabhedataḥ)
 
 ## mukta-m0-p22-v531
-[earth-born-stone-tree](jñaya+sadbhūmibhūtasya+pāṣāṇasya+drumasya+ca)
+[know](jñaya) [of-true-earth-being](sadbhūmibhūtasya) [of-stone](pāṣāṇasya) [of-tree](drumasya) [and](ca)
 
 ## mukta-m0-p22-v532
-[from-that](tajja) [by-mantra](tīśena+mantreṇa) [that-born-generation](tajjātijananaṃ) [becomes](bhavet)
+[born-from-that](tajja) [by-that-lord](tīśena) [by-mantra](mantreṇa) [birth-of-that-kind](tajjātijananaṃ) [becomes](bhavet)
 
 ## mukta-m0-p22-v533
-[marking](lāñcha+yatvā) [according-to-rule](yathānyāyaṃ) [should-make-purify](kartayecchodhayedapi)
+[mark](lāñcha) [having-made](yatvā) [according-to-rule](yathānyāyam) [should-cause-to-make](kartayet) [should-purify](śodhayet) [also](api)
 
 ## mukta-m0-p22-v534
-[with-pedestal](piṇḍikāsahitaṃ) [that](tacca) [up-to-viṣṇu-part](viṣṇubhāgāntam) [raised](unnatam)
+[with-pedestal](piṇḍikāsahitam) [that](tad) [and](ca) [up-to-Viṣṇu-portion](viṣṇubhāgāntam) [raised](unnatam)
 
 ## mukta-m0-p22-v535
-[single-piece](ekakhaṇḍaiva) [should-be-made](kartavyā) [pedestal](piṇḍikā) [indeed](vai) [of-śiva](śivasya) [but](tu)
+[single-piece-indeed](ekakhaṇḍaiva) [to-be-made](kartavyā) [pedestal](piṇḍikā) [indeed](vai) [of-Śiva](śivasya) [but](tu)
 
 ## mukta-m0-p22-v536
-[spout-east-north](praṇālamaindrasaumye) [or](vā) [water-reservoir-below-thus](jalādhāramadhastathā)
+[spout](praṇālam) [in-east-north](aindrasaumye) [or](vā) [water-reservoir](jalādhāram) [below](adhastathā)
 
 ## mukta-m0-p22-v537
-[not](na) [but](tu) [brahma-stone](brahmaśilā) [by-wise](prājñairiti) [in-scriptures](śāstreṣu) [said](bhāṣitam)
+[not](na) [but](tu) [Brahma-stone](brahmaśilā) [by-wise](prājñaiḥ) [thus](iti) [in-scriptures](śāstreṣu) [spoken](bhāṣitam)
 
 ## mukta-m0-p22-v538
-[liṅga-cut-upper-part](liṅgachedordhvabhāgasthā) [thus](tathā) [or](vā) [lower-part-gone](bhāgagāpi)
+[of-liṅga-cut-upper-part-situated](liṅgachedordhvabhāgasthā) [and](tathā) [lower-part-going](bhāgagā) [also](api) [or](vā)
 
 ## mukta-m0-p22-v539
-[by-height](ucchrāyena) [but](tu) [of-liṅgas](liṅgānām) [single-piece](ekakhaṇḍo) [prescribed](vidhīyate)
+[by-height](ucchrāyena) [but](tu) [of-liṅgas](liṅgānām) [single-piece](ekakhaṇḍaḥ) [is-prescribed](vidhīyate)
 
 ## mukta-m0-p22-v540
-[of-others](anyeṣāmapi) [of-liṅgas](liṅgānāṃ) [in-order](krameṇa) [one-finger-more](ekāṅgulādhilā)
+[of-others](anyeṣām) [also](api) [of-liṅgas](liṅgānām) [by-order](krameṇa) [one-finger-above](ekāṅgulādhilā)
 
 ## mukta-m0-p22-v541
-[own-measure](svamānānmekhalā) [of-it](tasyāḥ) [pit](khātaṃ) [or](vā) [that-measure](tatpramāṇataḥ)
+[by-own-measure](svamānāt) [girdle](mekhalā) [of-it](tasyāḥ) [excavation](khātam) [or](vā) [by-that-measure](tatpramāṇataḥ)
 
 ## mukta-m0-p22-v542
-[greater-than-brahma-part](brahmāṃśādadhikaḥ) [pit](khāto) [by-barley](yavai) [six](ṣaḍbhiḥ) [width](pravistaraḥ)
+[from-Brahma-portion-greater](brahmāṃśādadhikaḥ) [excavation](khātaḥ) [by-barley](yavaiḥ) [six](ṣaḍbhiḥ) [width](pravistaraḥ)
 
 ## mukta-m0-p22-v543
-[jewel-receptacles](ratnādhārāṇi) [in-middle](tanmadhye) [round](vṛttāni) [nine](nava) [should-make](kalpayet)
+[jewel-receptacles](ratnādhārāṇi) [in-middle](tanmadhye) [round](vṛttāni) [nine](nava) [should-arrange](kalpayet)
 
 ## mukta-m0-p22-v544
-[own-measure-width-half](svamānavistarārdhena) [thickness](bāhulyena) [endowed](samanvitā)
+[by-own-measure-width-half](svamānavistarārdhena) [by-thickness](bāhulyena) [endowed](samanvitā)
 
 ## mukta-m0-p22-v545
-[wooden](vārkṣī) [brahma-stone](brahmaśilā) [or](vā) [wooden](vārkṣe) [liṅga](liṅge) [pedestal](piṇḍikā) [thus](tathā)
+[wooden](vārkṣī) [Brahma-stone](brahmaśilā) [wooden](vārkṣe) [liṅga](liṅge) [pedestal](piṇḍikā) [thus](tathā)
 
 ## mukta-m0-p22-v546
-[should-worship](arcayedastra) [with-flowers-etc](puṣpādyairānetuṃ) [mantra-knower](mantravittamaḥ)
+[should-worship](arcayet) [weapon-or-umbrella](astra) [with-flowers-etc](puṣpādyaiḥ) [to-bring](ānetum) [mantra-knower-best](mantravittamaḥ)
 
 ## mukta-m0-p22-v547
-[ascetics](tāpasāñ) [śiva-devotees](chivabhaktāṃśca) [having-satisfied](tarpayitvā) [should-bring-chariot](nayedratham)
+[ascetics](tāpasān) [Śiva-devotees](śivabhaktān) [and](ca) [having-satisfied](tarpayitvā) [should-bring-chariot](anayedratham)
 
 ## mukta-m0-p22-v548
-[in-chariot](rathe) [having-placed](kṛtvā) [lord](ca+deveśaṃ) [having-worshipped](pūjayitvā) [him](tamānayet)
+[in-chariot](rathe) [having-made](kṛtvā) [and](ca) [lord-of-gods](deveśam) [having-worshipped](pūjayitvā) [should-bring-him](tamānayet)
 
 ## mukta-m0-p22-v549
-[when](yadā) [in-chariot](rathe) [of-chariot-parts](rathāṅgānāṃ) [by-negligence](pramādātskhalitaṃ) [becomes](bhavet)
+[when](yadā) [in-chariot](rathe) [of-chariot-parts](rathāṅgānām) [by-negligence](pramādāt) [slip](skhalitam) [becomes](bhavet)
 
 ## mukta-m0-p22-v550
-[hundred-eight](śatamaṣṭottaraṃ) [having-offered](hutvā) [freed](mucyate) [from-all-sins](sarvaduṣkṛtaiḥ)
+[hundred-eight-more](śatamaṣṭottaram) [having-offered](hutvā) [is-freed](mucyate) [from-all-evil-deeds](sarvaduṣkṛtaiḥ)

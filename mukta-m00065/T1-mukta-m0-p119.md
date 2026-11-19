@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p119-v2951
-[rest-one](viśrāmyaikāṃ) [then](tato) [night](rātriṃ) [cow-dung](gomayena) [smear](vilepayet)
+rest-one then night cow-dung plaster
 
 ## mukta-m0-p119-v2952
-[hemp-seed-decoction](śaṇaphalyāṅghikāṣāyai) [or](vā) [stone-resin](stopalatārasena)
+hemp-fruit-root-decoction or stone-creeper-juice
 
 ## mukta-m0-p119-v2953
-[sweated](utsvinna) [mung-water](māṣatoyena) [or](vā) [sweated-bilva-water](svinnabilvāmbunāpi)
+steamed black-gram-water or steamed-bilva-water too
 
 ## mukta-m0-p119-v2954
-[then](tataś) [mortar-etc](colūkhalādyaistu) [coarse-powders](sthūlacūrṇāni) [make](kārayet)
+then mortar-etc coarse-powders make
 
 ## mukta-m0-p119-v2955
-[pot-interior](sthālyāgarbhe) [placing](tu saṃsthāpya) [then](tato) [drugs](drayāṇi) [put](niḥkṣipet)
+in-pot-interior place then drugs insert
 
 ## mukta-m0-p119-v2956
-[sand](sikrāta) [cow-milk](gavyadugdhāni) [sal-resin-oil](sarjatailātasīrajaḥ)
+sand cow-milks resin-oil-flax-seed-powder
 
 ## mukta-m0-p119-v2957
-[mango-decoction](āmrātakāmbubhiḥ) [ground](piṣṭaṃ) [wide-mouthed](sthūlāsyā) [milk-named](dugdhi) [kāhvayā](kāhvayā)
+hog-plum-waters ground coarse-mouthed milk named
 
 ## mukta-m0-p119-v2958
-[decoction](kvāthena) [ram-horn](meṣaśṛṅgasya) [flax-powder](atasīcūrṇamiśritam)
+decoction ram-horn flax-powder-mixed
 
 ## mukta-m0-p119-v2959
-[diamond-plaster](vajralepaḥ) [declared](samakhyātaḥ) [thus](tathā) [sal-resin-joined](sarjasamanvitaḥ)
+diamond-plaster well-known likewise resin-accompanied
 
 ## mukta-m0-p119-v2960
-[beeswax](madhūcchiṣṭena) [pastes](kalkaiśca) [hemp-born](śāṇajaiḥ) [strong-new](sudṛḍhairnavaiḥ)
+beeswax pastes and hemp-made strong new
 
 ## mukta-m0-p119-v2961
-[flax-oil-mixed](atasītailasammiśraṃ) [rubbed](mardayitvā) [well-cooked](supācitam)
+flax-oil-mixed knead well-cooked
 
 ## mukta-m0-p119-v2962
-[gods-house-etc](suraveśmagṛhādīnāṃ) [ground-bond](bhūmibandho) [declared](nigadyate)
+gods-house-buildings etc ground-bond declared
 
 ## mukta-m0-p119-v2963
-[firm-water-like](sthiratoyopamā) [made](kāryā) [ground](bhūmiḥ) [tu](tu) [level](sutalā) [even](samā)
+firm-water-like made ground but well-level even
 
 ## mukta-m0-p119-v2964
-[that-paste](tatkalkaṃ) [make](kārayet) [lump](piṇḍaṃ) [dried](viśoṣyaṃ) [lump](piṇḍam) [in-sun](ātape)
+that-paste make lump dry lump in-sun
 
 ## mukta-m0-p119-v2965
-[then](tato) [with-gruel](maṇḍena) [rubbing](saṃmardya) [ground-bond](bhūmibandhaṃ) [make](kārayet)
+then gruel knead ground-bond make
 
 ## mukta-m0-p119-v2966
-[make](kuryād) [ground](bhūmiṃ) [level](samaṃ) [pleasant](ramyaṃ) [stable](susthitaṃ) [water-filled](jalapūritam)
+make ground even pleasant stable water-filled
 
 ## mukta-m0-p119-v2967
-[drug](dravyaṃ) [according-to-time](kālānurūpeṇa) [apply](yojayet) [portion-measured](bhāgasammitam)
+substance time-according apply portion-measured
 
 ## mukta-m0-p119-v2968
-[summer](grīyme) [nu](nu) [five-parts](pañcabhāgāḥ) [be](syuḥ) [cold-season](śītakāle) [thus](tathā) [three](trayaḥ)
+summer indeed five-parts be cold-season likewise three
 
 ## mukta-m0-p119-v2969
-[thus](evaṃ) [giving](dattvā) [tu](tu) [who](yaḥ) [before](pūrvaṃ) [bond](bandho) [here](atra) [said](kathitaḥ) [of-earth](kṣiteḥ)
+thus given but which before bond here told earth's
 
 ## mukta-m0-p119-v2970
-[water](toyena) [beaten-brush](hatakūrcaṃ) [tu](tu) [give](dāpayet) [that](tad) [expert](vicakṣaṇaḥ)
+water struck-brush indeed give that expert
 
 ## mukta-m0-p119-v2971
-[silk-cotton-ebony-etc](śālmalītindukādīnāṃ) [ground-bond](bhūmibandhe) [praised](praśasyate)
+silk-cotton-ebony-etc ground-bond praised
 
 ## mukta-m0-p119-v2972
-[so-many-thousand-years](tāvadvarṣasahasrāṇi) [maker](kartā) [rejoices](nandati) [that-city](tatpure)
+so-many-years-thousands maker rejoices that-city
 
 ## mukta-m0-p119-v2973
-[fifth](pañcamaḥ) [time-rod-named](kāladaṇḍākhyaḥ) [with-lineage](sānvayāḥ) [fruit-giving](phaladāyakāḥ)
+fifth time-staff-named with-descendants fruit-giving
 
 ## mukta-m0-p119-v2974
-[confusion](vibhrāntiṃ) [bewilderment](vibhramaḥ) [makes](kuryāc) [chastiser](śāsakaḥ) [always-chastises](śāsayetsadā)
+confusion agitation make ruler punish always
 
 ## mukta-m0-p119-v2975
-[these](ete) [gods-house](suragṛhe) [obstacles](vighnā) [until](yāvat) [they](te) [tu](tu) [not](na) [worshipped](pūjitāḥ)
+these gods-house obstacles until they not worshipped

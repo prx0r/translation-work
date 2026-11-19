@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p02-v26
-linga-and(liṅgaṃ) and(ca) twofold(dvividhaṃ) to-be-known(jñeyaṃ) movable(calaṃ) and-indeed(caiva) immovable(acalaṃ) so(tathā)
+[liṅga](liṅgaṃ) [ca](ca) [dvividha](dvividhaṃ) [jñeya](jñeyaṃ) [cala](calaṃ) [ca](ca) [eva](eva) [acala](acalaṃ) [tathā](tathā)
 
 ## mukta-m0-p02-v27
-firm-luster-giving(sthiralakṣmīpradaṃ) golden(haimaṃ) and(caiva) silver(rājataṃ) kingdom-giving(rājyadam)
+[sthira-lakṣmī-prada](sthiralakṣmīpradaṃ) [haima](haimaṃ) [rājata](rājataṃ) [ca](ca) [eva](eva) [rājya-da](rājyadam)
 
 ## mukta-m0-p02-v28
-enmity-causing(vidveṣakārakaṃ) bronze(kāṃsyaṃ) brass-born(rītijaṃ) enemy-repelling(śatruvālanam)
+[vidveṣa-kāraka](vidveṣakārakaṃ) [kāṃsya](kāṃsyaṃ) [rīti-ja](rītijaṃ) [śatru-vālana](śatruvālanam)
 
 ## mukta-m0-p02-v29
-eight-metal-made(aṣṭalohamayaṃ) linga(liṅgaṃ) leprosy-disease-destroying(kuṣṭharogakṣayāvaham)
+[aṣṭa-loha-maya](aṣṭalohamayaṃ) [liṅga](liṅgaṃ) [kuṣṭha-roga-kṣaya-āvaha](kuṣṭharogakṣayāvaham)
 
 ## mukta-m0-p02-v30
-wax(sikthaṃ) having-made(kṛtvā) clay(mṛdā) having-smeared(liptvā) having-heated(taptvā) having-removed(udvāsya) artisan(kārukaḥ)
+[siktha](sikthaṃ) [kṛtvā](kṛtvā) [mṛdā](mṛdā) [liptvā](liptvā) [taptvā](taptvā) [udvāsya](udvāsya) [ca](ca) [kāruka](kārukaḥ)
 
 ## mukta-m0-p02-v31
-gold-serpent-etc(hemāhibhyāṃ) in-order(kramāt) silver-copper-tin-lead-brass(āratāmravaṅgāraghoṣakaiḥ)
+[hema-āhi](hemāhibhyāṃ) [kramāt](kramāt) [ārata](āratā?) [tāmra](tāmra) [vaṅga](vaṅga) [āraghoṣaka](āraghoṣakaiḥ)
 
 ## mukta-m0-p02-v32
-wood(kāṣṭhaṃ) having-thrown(kṣiptvā) firm(dṛḍhaṃ) that(tattu) stone-rubbed(śilāghṛṣṭaṃ) with-sand(savālukam)
+[kāṣṭha](kāṣṭhaṃ) [kṣiptvā](kṣiptvā) [dṛḍha](dṛḍhaṃ) [tat](tattu) [śilā-ghṛṣṭa](śilāghṛṣṭaṃ) [sa-vāluka](savālukam)
 
 ## mukta-m0-p02-v33
-by-that(tayā) salt-filled-water(lavaṇapūrāmbu) joined(yuktayā) should-smear(lepayed) wise(budhaḥ)
+[tayā](tayā) [lavaṇa-pūra-ambu](lavaṇapūrāmbu) [yuktayā](yuktayā) [lepayet](lepayed) [budha](budhaḥ)
 
 ## mukta-m0-p02-v34
-by-boy's-curl(bālakuñcikayā) equality(sāmyaṃ) should-bring(nayet) that(tat) gradually(kramaśaḥ) slowly(śanaiḥ)
+[bāla-kuñcikā](bālakuñcikayā) [sāmya](sāmyaṃ) [nayet](nayettat) [kramaśaḥ](kramaśaḥ) [śanaiḥ](śanaiḥ)
 
 ## mukta-m0-p02-v35
-then(tato) should-polish(anumārjayet) diligently(yatnāt) by-gem(maṇinā) by-madana-waters(madanāmbubhiḥ)
+[tataḥ](tato) [anumā](anumā) [rjayet](rjayedyatnān) [maṇinā](maṇinā) [madana-ambubhiḥ](madanāmbubhiḥ)
 
 ## mukta-m0-p02-v36
-should-dye(rasayet) copper-born(tāmrajaṃ) artisan(śilpī) by-gold(hāṭakena) beautifully(sucārūṇā)
+[rasayet](rasayettāmrajaṃ) [tāmra-ja](tāmrajaṃ) [śilpī](śilpī) [hāṭaka](hāṭakena) [su-cāru](sucārūṇā)
 
 ## mukta-m0-p02-v37
-heavy(guru) unctuous(snigdhaṃ) soft-to-touch(mṛdusparśe) sixfold(ṣaḍvidhaṃ) gold-beautiful(hemaśobhanam)
+[guru](guru) [snigdha](snigdhaṃ) [mṛdu-sparśa](mṛdusparśe) [ṣaḍ-vidha](ṣaḍvidhaṃ) [hema-śobhana](hemaśobhanam)
 
 ## mukta-m0-p02-v38
-from-metals(dhātūdbhavaṃ) called(samākhyātaṃ) from-gems(ratnajādi) I-speak(vadāmyataḥ)
+[dhātu-udbhava](dhātūdbhavaṃ) [samākhyāta](samākhyātaṃ) [ratna-ja-ādi](ratnajādi) [vadāmi](vadāmyataḥ)
 
 ## mukta-m0-p02-v39
-pleasure-causing(sukhakṛt) ruby-born(puṣparāgotthaṃ) emerald(vaidūryaṃ) enemy-pride-removing(śatrudarpahṛt)
+[sukha-kṛt](sukhakṛt) [puṣpa-rāga-uttha](puṣparāgotthaṃ) [vaidūrya](vaidūryaṃ) [śatru-darpa-hṛt](śatrudarpahṛt)
 
 ## mukta-m0-p02-v40
-linga(liṅgaṃ) emerald(mārakataṃ) for-nourishment(puṣṭyai) crystal(sphaṭikaṃ) all-desires-granting(sarvakāmadam)
+[liṅga](liṅgaṃ) [mārakata](mārakataṃ) [puṣṭyai](puṣṭyai) [sphaṭika](sphaṭikaṃ) [sarva-kāma-da](sarvakāmadam)
 
 ## mukta-m0-p02-v41
-coral(vaidrumaṃ) for-subjugation(vaśyakamārthaṃ) agate(kārketanam) enemy-destroying(amitrahṛt)
+[vaidruma](vaidrumaṃ) [vaśya-kāma-artha](vaśyakamārthaṃ) [kārketana](kārketanam) [amitra-hṛt](amitrahṛt)
 
 ## mukta-m0-p02-v42
-strength-giving(baladaṃ) pearl-born(jīvajātījaṃ) pearl(ṭaiṭṭibhaṃ) enemy-crushing(śatrumardanam)
+[bala-da](baladaṃ) [jīva-jātī-ja](jīvajātījaṃ) [ṭaiṭṭibha](ṭaiṭṭibhaṃ) [śatru-mardana](śatrumardanam)
 
 ## mukta-m0-p02-v43
-thus(iti) movable-lingas(prasthānaliṅgāni) pure(śuddhimānānyataḥ) thereafter(param)
+[iti](iti) [prasthāna-liṅga](prasthānaliṅgāni) [śuddhi-māna](śuddhimānānyataḥ) [param](param)
 
 ## mukta-m0-p02-v44
-by-artisans(kārukaiḥ) made(ghaṭitaṃ) that(tat) linga(liṅgaṃ) created(nirmitaṃ) remembered(smṛtam)
+[kāru](kārukai) [ghaṭita](ghaṭitaṃ) [yat](yacca) [tat](talliṅgaṃ) [nirmita](nirmitaṃ) [smṛta](smṛtam)
 
 ## mukta-m0-p02-v45
-that(tat) worshipful(pūjyaṃ) by-kings(rājabhiḥ) diligently(yatnāt) for-enjoyment-liberation(bhuktimuktyarthibhiḥ) always(sadā)
+[tat](tatpūjyaṃ) [pūjya](pūjyaṃ) [rājabhiḥ](rājabhir) [yatnāt](yatnād) [bhukti-mukti-arthibhiḥ](bhuktimuktyarthibhiḥ) [sadā](sadā)
 
 ## mukta-m0-p02-v46
-upward-downward-faced(ūrdhvādhovadanaṃ) long(dīrgham) below-thick(adhaḥ sthūlaṃ) and(ca) lusterless(niṣprabham)
+[ūrdhva-adhaḥ-vadana](ūrdhvādhovadanaṃ) [dīrgha](dīrgham) [adhaḥ](adhaḥ) [sthūla](sthūlaṃ) [ca](ca) [niṣprabha](niṣprabham)
 
 ## mukta-m0-p02-v47
-perforated(chidraṃ) and(ca) cracked(sphuṭitaṃ) frightened(trastaṃ) with-thorn(śalyānvitaṃ) god-abandoned(surojjhitam)
+[chidra](chidraṃ) [ca](ca) [sphuṭita](sphuṭitaṃ) [trasta](trastaṃ) [śalya-anvita](śalyānvitaṃ) [surojjhita](surojjhitam)
 
 ## mukta-m0-p02-v48
-kingdom-clan-village(rāṣṭragotrajanagrāma) wealth-friend-son(dhanamitrasutānapi) and-api(yutānapi)
+[rāṣṭra-gotra-jana-grāma](rāṣṭragotrajanagrāma) [dhana-mitra-suta](dhanamitrasutānapi) [yutānapi](yutānapi)
 
 ## mukta-m0-p02-v49
-disease(rogaṃ) defeat(parājayodvegaṃ) agitation(janadveṣaṃ) enmity(kaliṃ) so(tathā)
+[roga](rogaṃ) [parājaya-udvega](parājayodvegaṃ) [jana-dveṣa](janadveṣaṃ) [kali](kaliṃ) [tathā](tathā)
 
 ## mukta-m0-p02-v50
-that(tat) should-be(doṣairvinirmuktaṃ) free-from-defects(dṛḍhaṃ) firm(snigdhaṃ) unctuous(prabhānvitam) lustrous 
+[tat](tatsyāddoṣairvinirmuktaṃ) [syāt](syāt) [doṣaiḥ](doṣair) [vinirmukta](vinirmuktaṃ) [dṛḍha](dṛḍhaṃ) [snigdha](snigdhaṃ) [prabhā-anvita](prabhānvitam)

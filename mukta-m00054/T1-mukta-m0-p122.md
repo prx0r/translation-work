@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p122-v3026
-[homage](bhikṣavenamaḥ) [homage](bhikṣurūpāyanamaḥ) [homage](vipaṇāyanamaḥ)
+[verse-pada](|| 344 || bhikṣavenamaḥ ||345 || bhikṣurūpāyanamaḥ || 346 || vipaṇāyanamaḥ ||)
 
 ## mukta-m0-p122-v3027
-[homage](vajrahastāyanamaḥ) [homage](viṣkambhinenamaḥ)
+[verse-pada](|| 353 || vajrahastāyanamaḥ || 354 || viṣkambhinenamaḥ)
 
 ## mukta-m0-p122-v3028
-[homage](camūstambhanāyanamaḥ) [homage](vṛttāvṛttakarāyanamaḥ)
+[verse-pada](camūstambhanāyanamaḥ || 356 || vṛttāvṛttakarāyanamaḥ)
 
 ## mukta-m0-p122-v3029
-[homage](tālāyanamaḥ) [homage](madhavenamaḥ) [homage](madhukalocanāyanamaḥ)
+[verse-pada](tālāyanamaḥ || 358 || madhavenamaḥ || 359 || madhukalocanāyanamaḥ)
 
 ## mukta-m0-p122-v3030
-[homage](vācaspatyāyanamaḥ) [homage](vājasanāyanamaḥ)
+[verse-pada](vācaspatyāyanamaḥ || 361 || vājasanāyanamaḥ)
 
 ## mukta-m0-p122-v3031
-[homage](āśramapūjitāyanamaḥ) [homage](brahmacāriṇenamaḥ)
+[verse-pada](āśramapūjitāyanamaḥ || 363 || brahmacāriṇenamaḥ)
 
 ## mukta-m0-p122-v3032
-[homage](lokacāriṇenamaḥ) [homage](sarvacāriṇenamaḥ) [homage](vicāravidenamaḥ)
+[verse-pada](lokacāriṇenamaḥ || 365 || sarvacāriṇenamaḥ || 366 || vicāravidenamaḥ)
 
 ## mukta-m0-p122-v3033
-[homage](īśānāyanamaḥ) [homage](īśvarāyanamaḥ) [homage](kālāyanamaḥ)
+[verse-pada](īśānāyanamaḥ || 368 || īśvarāyanamaḥ || 369 || kālāyanamaḥ)
 
 ## mukta-m0-p122-v3034
-[homage](niśācāriṇenamaḥ) [homage](pinākadhṛṣenamaḥ) [homage](nimittasthāyanamaḥ)
+[verse-pada](niśācāriṇenamaḥ || 371 || pinākadhṛṣenamaḥ || 372 || nimittasthāyanamaḥ ||)
 
 ## mukta-m0-p122-v3035
-[homage](nimittāyanamaḥ) [homage](nandayenamaḥ) [homage](nandikarāyanamaḥ)
+[verse-pada](373 || nimittāyanamaḥ || 374 || nandayenamaḥ || 375 || nandikarāyanamaḥ)
 
 ## mukta-m0-p122-v3036
-[homage](harayenamaḥ) [homage](nandīśvarāyanamaḥ) [homage](nandinenamaḥ)
+[verse-pada](harayenamaḥ || 377 || nandīśvarāyanamaḥ || 378 || nandinenamaḥ)
 
 ## mukta-m0-p122-v3037
-[homage](nihantrenamaḥ) [homage](kālāyanamaḥ) [homage](brahmaṇenamaḥ)
+[verse-pada](p. 464) nihantrenamaḥ || 383 || kālāyanamaḥ || 384 || brahmaṇenamaḥ)
 
 ## mukta-m0-p122-v3038
-[homage](pitāmahāyanamaḥ) [homage](caturmmukhāyanamaḥ)
+[verse-pada](pitāmahāyanamaḥ || 386 || caturmmukhāyanamaḥ)
 
 ## mukta-m0-p122-v3039
-[homage](mahāliṅgāyanamaḥ) [homage](cāruliṅgāyanamaḥ)
+[verse-pada](mahāliṅgāyanamaḥ || 388 || cāruliṅgāyanamaḥ)
 
 ## mukta-m0-p122-v3040
-[homage](liṅgādhyakṣāyanamaḥ) [homage](surādhyakṣāyanamaḥ)
+[verse-pada](liṅgādhyakṣāyanamaḥ || 390 || surādhyakṣāyanamaḥ)
 
 ## mukta-m0-p122-v3041
-[homage](yogādhyakṣāyanamaḥ) [homage](yugāvahāyanamaḥ)
+[verse-pada](yogādhyakṣāyanamaḥ || 392 || yugāvahāyanamaḥ)
 
 ## mukta-m0-p122-v3042
-[homage](bījādhyakṣāyanamaḥ) [homage](bījakarttrenamaḥ)
+[verse-pada](bījādhyakṣāyanamaḥ || 394 || bījakarttrenamaḥ)
 
 ## mukta-m0-p122-v3043
-[homage](adhyātmānugatāyanamaḥ) [homage](balāyanamaḥ) [homage](itihāsāyanamaḥ)
+[verse-pada](adhyātmānugatāyanamaḥ || 396 || balāyanamaḥ || 397 || itihāsāyanamaḥ ||)
 
 ## mukta-m0-p122-v3044
-[homage](vaśyāyanamaḥ) [homage](vaśakarāyanamaḥ) [homage](kalayenamaḥ)
+[verse-pada](|| 404 || vaśyāyanamaḥ || 405 || vaśakarāyanamaḥ || 406 || kalayenamaḥ)
 
 ## mukta-m0-p122-v3045
-[homage](lokakarttrenamaḥ) [homage](paśupatayenamaḥ) [homage](mahākarttrenamaḥ)
+[verse-pada](lokakarttrenamaḥ || 408 || paśupatayenamaḥ || 409 || mahākarttrenamaḥ)
 
 ## mukta-m0-p122-v3046
-[homage](anauṣadhāyanamaḥ) [homage](akṣarāyanamaḥ) [homage](paramabrahmaṇenamaḥ)
+[verse-pada](anauṣadhāyanamaḥ || 411 || akṣarāyanamaḥ || 412 || paramabrahmaṇenamaḥ ||)
 
 ## mukta-m0-p122-v3047
-[homage](balavatenamaḥ) [homage](śakrāyanamaḥ) [homage](nītayenamaḥ)
+[verse-pada](413 || balavatenamaḥ || 414 || śakrāyanamaḥ || 415 || nītayenamaḥ)
 
 ## mukta-m0-p122-v3048
-[homage](anītayenamaḥ) [homage](śuddhātmanenamaḥ) [homage](śuddhāyanamaḥ)
+[verse-pada](anītayenamaḥ || 417 || śuddhātmanenamaḥ || 418 || śuddhāyanamaḥ)
 
 ## mukta-m0-p122-v3049
-[homage](mānyāyanamaḥ) [homage](gatāgatāyanamaḥ) [homage](bahuprasādāyanamaḥ)
+[verse-pada](mānyāyanamaḥ || 420 || gatāgatāyanamaḥ || 421 || bahuprasādāyanamaḥ ||)
 
 ## mukta-m0-p122-v3050
-[homage](vedakārāyanamaḥ) [homage](mantrakārāyanamaḥ) [homage](viduṣenamaḥ)
+[verse-pada](|| vedakārāyanamaḥ || 426 || mantrakārāyanamaḥ || 427 || viduṣenamaḥ)
