@@ -8,7 +8,7 @@
 "tokens": [
 {
 "surface": "ādeśī",
-"quick_gloss": "instructor"
+"quick_gloss": "veda-teacher"
 },
 {
 "surface": "vedavikretā",
@@ -16,7 +16,7 @@
 },
 {
 "surface": "ṣaḍete",
-"quick_gloss": "these-six"
+"quick_gloss": "six+these"
 },
 {
 "surface": "śūdravaddvijāḥ",
@@ -33,23 +33,15 @@
 "tokens": [
 {
 "surface": "manurdakṣo",
-"quick_gloss": "manu-and-dakṣa"
+"quick_gloss": "manu+dakṣa"
 },
 {
-"surface": "vasiṣṭho",
-"quick_gloss": "vasiṣṭha"
+"surface": "vasiṣṭho'triḥ",
+"quick_gloss": "vasiṣṭha+atri"
 },
 {
-"surface": "atriḥ",
-"quick_gloss": "atri"
-},
-{
-"surface": "kātyāyano",
-"quick_gloss": "kātyāyana"
-},
-{
-"surface": "atha",
-"quick_gloss": "then"
+"surface": "kātyāyano'tha",
+"quick_gloss": "kātyāyana+then"
 },
 {
 "surface": "gautamaḥ",
@@ -66,7 +58,7 @@
 "tokens": [
 {
 "surface": "śaṅkhalikhitahārītaśātātapaparāśarāḥ",
-"quick_gloss": "śaṅkha+likhita+hārīta+śātātapa+parāśaras"
+"quick_gloss": "śaṅkha+likhita+hārīta+śātātapa+parāśara"
 }
 ]
 },
@@ -82,8 +74,12 @@
 "quick_gloss": "not"
 },
 {
-"surface": "śaivāditipraṣṭhāyāmete",
-"quick_gloss": "in-śaiva-etc-question"
+"surface": "śaivāditipraṣṭhāyām",
+"quick_gloss": "in-śaiva-etc-praṣṭhā"
+},
+{
+"surface": "ete",
+"quick_gloss": "these"
 },
 {
 "surface": "niprā",
@@ -91,7 +87,7 @@
 },
 {
 "surface": "niyāmakāḥ",
-"quick_gloss": "regulators"
+"quick_gloss": "controllers"
 }
 ]
 },
@@ -104,15 +100,11 @@
 "tokens": [
 {
 "surface": "devyā",
-"quick_gloss": "of-the-goddess"
-},
-{
-"surface": "mataṃ",
-"quick_gloss": "opinion"
+"quick_gloss": "goddess-opinion"
 },
 {
 "surface": "mayaṃ",
-"quick_gloss": "maya"
+"quick_gloss": "mataṃ"
 },
 {
 "surface": "nandiṃ",
@@ -120,11 +112,11 @@
 },
 {
 "surface": "pratiṣṭhā",
-"quick_gloss": "consecration"
+"quick_gloss": "installation"
 },
 {
 "surface": "pārameśvaram",
-"quick_gloss": "supreme-lordly"
+"quick_gloss": "parama-īśvara"
 }
 ]
 },
@@ -145,15 +137,15 @@
 },
 {
 "surface": "ca",
-"quick_gloss": "and"
+"quick_gloss": "ca"
 },
 {
 "surface": "dvidhā",
-"quick_gloss": "twofold"
+"quick_gloss": "two-fold"
 },
 {
 "surface": "paitāmahaṃ",
-"quick_gloss": "ancestral"
+"quick_gloss": "paitāmaha"
 },
 {
 "surface": "tathā",
@@ -170,7 +162,7 @@
 "tokens": [
 {
 "surface": "pratiṣṭhātantrāṇi",
-"quick_gloss": "consecration-tantras"
+"quick_gloss": "installation-tantras"
 },
 {
 "surface": "etāni",
@@ -195,7 +187,7 @@
 "tokens": [
 {
 "surface": "padmotthamārkaṇḍeyābhyāṃ",
-"quick_gloss": "lotos-born+markaṇḍeya"
+"quick_gloss": "from-lotus-born+markaṇḍeya"
 },
 {
 "surface": "rambhā",
@@ -232,7 +224,7 @@
 },
 {
 "surface": "sarvametatsamuccayam",
-"quick_gloss": "all-this-collection"
+"quick_gloss": "all-this"
 }
 ]
 },
@@ -245,7 +237,7 @@
 "tokens": [
 {
 "surface": "śivāśramasthitaiḥ",
-"quick_gloss": "by-śaivas-residing-in-śiva-āśrama"
+"quick_gloss": "by-śaiva-āśrama-dwellers"
 },
 {
 "surface": "śaivaiḥ",
@@ -253,7 +245,7 @@
 },
 {
 "surface": "pratiṣṭhā",
-"quick_gloss": "consecration"
+"quick_gloss": "installation"
 },
 {
 "surface": "nānyadarśanaiḥ",
@@ -273,27 +265,19 @@
 "quick_gloss": "śaivas"
 },
 {
-"surface": "tat",
+"surface": "tanna",
 "quick_gloss": "that"
 },
 {
-"surface": "na",
-"quick_gloss": "not"
-},
-{
 "surface": "namasyanti",
-"quick_gloss": "bow"
+"quick_gloss": "not-worship"
 },
 {
 "surface": "sthāpitaṃ",
 "quick_gloss": "established"
 },
 {
-"surface": "ca",
-"quick_gloss": "and"
-},
-{
-"surface": "anyadarśanaiḥ",
+"surface": "cānyadarśanaiḥ",
 "quick_gloss": "by-other-views"
 }
 ]
@@ -306,16 +290,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "śaivasaṃskārahīnaḥ",
+"surface": "śaivasaṃskārahīnastu",
 "quick_gloss": "without-śaiva-saṃskāra"
 },
 {
-"surface": "tu",
-"quick_gloss": "tu"
-},
-{
 "surface": "umābhyāṃ",
-"quick_gloss": "by-umās"
+"quick_gloss": "by-umā"
 },
 {
 "surface": "patati",
@@ -377,7 +357,7 @@
 },
 {
 "surface": "vṛthaivāsau",
-"quick_gloss": "in-vain-indeed"
+"quick_gloss": "in-vain"
 },
 {
 "surface": "phariśramaḥ",
@@ -394,27 +374,15 @@
 "tokens": [
 {
 "surface": "śivoktaiśca",
-"quick_gloss": "without-śiva-spoken-mantras"
-},
-{
-"surface": "ca",
-"quick_gloss": "and"
+"quick_gloss": "without-śiva-spoken"
 },
 {
 "surface": "vinā",
-"quick_gloss": "without"
+"quick_gloss": "without-mantras"
 },
 {
-"surface": "mantraiḥ",
-"quick_gloss": "mantras"
-},
-{
-"surface": "tadetat",
-"quick_gloss": "that-this"
-},
-{
-"surface": "prāpyate",
-"quick_gloss": "obtained"
+"surface": "mantraistadetatprāpyate",
+"quick_gloss": "mantrais"
 },
 {
 "surface": "katham",
@@ -434,12 +402,12 @@
 "quick_gloss": "mixed-or"
 },
 {
-"surface": "doṣāḍhyaṃ",
+"surface": "doṣādya",
 "quick_gloss": "fault-rich"
 },
 {
 "surface": "tkumāradyuktaśāstrataḥ",
-"quick_gloss": "from-kumāra-etc-scripture"
+"quick_gloss": "kumāra-etc-scripture"
 }
 ]
 },
@@ -480,12 +448,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "yuktisiddhaṃ",
+"surface": "muktisiddhaṃ",
 "quick_gloss": "yukti-siddha"
 },
 {
 "surface": "hitaṃ",
-"quick_gloss": "beneficial"
+"quick_gloss": "benefit"
 },
 {
 "surface": "loke",
@@ -497,7 +465,7 @@
 },
 {
 "surface": "cātra",
-"quick_gloss": "and-here"
+"quick_gloss": "here"
 },
 {
 "surface": "likhyate",
@@ -514,11 +482,11 @@
 "tokens": [
 {
 "surface": "kriyā",
-"quick_gloss": "rite"
+"quick_gloss": "that-action"
 },
 {
 "surface": "sā",
-"quick_gloss": "that"
+"quick_gloss": "not"
 },
 {
 "surface": "na",
@@ -546,16 +514,8 @@
 "quick_gloss": "agniṣṭoma-etc"
 },
 {
-"surface": "yadvat",
+"surface": "yadvatpratiṣṭhāpīṣyate",
 "quick_gloss": "as"
-},
-{
-"surface": "pratiṣṭhā",
-"quick_gloss": "consecration"
-},
-{
-"surface": "pīṣyate",
-"quick_gloss": "is-desired"
 },
 {
 "surface": "tathā",
@@ -584,7 +544,7 @@
 },
 {
 "surface": "vaidikīkriyā",
-"quick_gloss": "vaidika-rite"
+"quick_gloss": "vaidika-action"
 }
 ]
 },
@@ -605,7 +565,7 @@
 },
 {
 "surface": "saṃsarantīha",
-"quick_gloss": "wandering-here"
+"quick_gloss": "transmigrating-here"
 },
 {
 "surface": "yājñikāḥ",
@@ -626,7 +586,7 @@
 },
 {
 "surface": "puṇyakriyākṣīṇaḥ",
-"quick_gloss": "merit-rite-exhausted"
+"quick_gloss": "merit-action-exhausted"
 },
 {
 "surface": "sthāvarādiṣu",
@@ -646,12 +606,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "tasmāt",
+"surface": "tasmātte",
 "quick_gloss": "therefore"
-},
-{
-"surface": "te",
-"quick_gloss": "those"
 },
 {
 "surface": "munayaḥ",
@@ -663,11 +619,15 @@
 },
 {
 "surface": "śaivārthe",
-"quick_gloss": "in-śaiva-matter"
+"quick_gloss": "not-expert-in-śaiva-matter"
 },
 {
 "surface": "na",
-"quick_gloss": "not-expert"
+"quick_gloss": "na"
+},
+{
+"surface": "viśāradāḥ",
+"quick_gloss": "viśāradāḥ"
 }
 ]
 },
@@ -684,7 +644,7 @@
 },
 {
 "surface": "brahmaṇādīnāṃ",
-"quick_gloss": "brahmā-etc"
+"quick_gloss": "brahma-etc"
 },
 {
 "surface": "vedavidyāpracoditā",

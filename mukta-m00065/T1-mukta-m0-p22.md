@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p22-v526
-[other+action+purpose+arrogant+madness+creation+doing](anyakarmārthamānītonmādāniṣpattikāriṇī)
+[other](anya)[work](karma)[purpose](artha)[proud](mānin)[madness](unmāda)[completion](niṣpatti)[causing](kāriṇī)
 
 ## mukta-m0-p22-v527
-[outcaste](antyajā) [that](sā) [stone](śilā) [known](jñeyā) [of-twice-born-etc](dvijādīnāṃ) [condemned](vigarhitā)
+[low-born](antyajā)[she](sā)[stone](śilā)[known](jñeyā)[twice-born-etc](dvijādīnāṃ)[blamed](vigarhitā)
 
 ## mukta-m0-p22-v528
-[various](nāna) [color](varṇā) [and](ca) [outcaste-woman](cāṇḍalī) [that](sā) [of-maker](kartuḥ) [family-destroying](kulanāśinī)
+[various](nāna)[color](varṇā)[ca](ca)[caṇḍālī](cāṇḍalī)[she](sā)[maker](kartuḥ)[family-destroying](kulanāśinī)
 
 ## mukta-m0-p22-v529
-[for-ordinary](prākṛtānāṃ) [benefit-purpose](hitārthāya) [desire](kāmaṃ) [liberation-seeking](muktyarthināṃ) [men](nṛṇām)
+[ordinary](prākṛtānāṃ)[benefit](hitārthāya)[desire](kāmaṃ)[liberation-seeking](muktyarthināṃ)[men](nṛṇām)
 
 ## mukta-m0-p22-v530
-[small-faults](svalpadoṣā) [these](ime) [known](khyātā) [twenty-lakh-difference](viṃśatirlakṣabhedataḥ)
+[small](svalpa)[faults](doṣā)[these](ime)[known](khyātā)[twenty](viṃśatiḥ)[lakh-varieties](lakṣabhedataḥ)
 
 ## mukta-m0-p22-v531
-[know](jñaya) [real-earth-being](sadbhūmibhūtasya) [stone](pāṣāṇasya) [tree](drumasya) [and](ca)
+[known](jñaya)[true-earth-being](sadbhūmibhūtasya)[stone](pāṣāṇasya)[tree](drumasya)[and](ca)
 
 ## mukta-m0-p22-v532
-[that-born](tajja) [by-that-lord](tīśena) [mantra](mantreṇa) [that-birth-generation](tajjātijananaṃ) [becomes](bhavet)
+[that-born](tajja)[by-that-lord](tīśena)[by-mantra](mantreṇa)[that-born-generation](tajjātijananaṃ)[becomes](bhavet)
 
 ## mukta-m0-p22-v533
-[mark](lāñcha) [having-properly](yatvā) [properly](yathānyāyaṃ) [cause-make](kartayec) [purify-also](śodhayedapi)
+[mark](lāñcha)[having-made](yatvā)[properly](yathānyāyaṃ)[cause-to-cut](kartayet)[purify](śodhayet)[also](api)
 
 ## mukta-m0-p22-v534
-[base-including](piṇḍikāsahitaṃ) [that](tacca) [Vishnu-part-end](viṣṇubhāgāntam) [elevated](unnatam)
+[pedestal-with](piṇḍikāsahitaṃ)[that](tacca)[viṣṇu-portion-end](viṣṇubhāgāntam)[raised](unnatam)
 
 ## mukta-m0-p22-v535
-[one-piece-only](ekakhaṇḍaiva) [to-be-made](kartavyā) [base](piṇḍikā) [indeed](vai) [Shiva](śivasya) [but](tu)
+[single-piece](ekakhaṇḍaiva)[to-be-made](kartavyā)[pedestal](piṇḍikā)[indeed](vai)[of-śiva](śivasya)[but](tu)
 
 ## mukta-m0-p22-v536
-[channel](praṇālam) [Indra-Soma](aindrasaumye) [or](vā) [water-reservoir](jalādhāram) [below](adhastathā)
+[spout](praṇālam)[indra-southern](aindrasaumye)[or](vā)[water-reservoir](jalādhāram)[below](adhastathā)
 
 ## mukta-m0-p22-v537
-[not](na) [but](tu) [Brahma-stone](brahmaśilā) [by-wise](prājñairiti) [in-scriptures](śāstreṣu) [spoken](bhāṣitam)
+[not](na)[tu](tu)[brahma-stone](brahmaśilā)[by-wise](prājñairiti)[in-scriptures](śāstreṣu)[spoken](bhāṣitam)
 
 ## mukta-m0-p22-v538
-[linga-cut](liṅgacheda) [upper-part-situated](ūrdhvabhāgasthā) [and](tathā) [below](adho) [part-going-or](bhāgagāpi) [or](vā)
+[liṅga-cut-upper-part](liṅgachedordhvabhāgasthā)[thus](tathā)[below](adho)[part-going](bhāgagāpi)[or](vā)
 
 ## mukta-m0-p22-v539
-[by-height](ucchrāyena) [but](tu) [of-lingas](liṅgānām) [one-piece](ekakhaṇḍo) [prescribed](vidhīyate)
+[by-height](ucchrāyena)[tu](tu)[of-liṅgas](liṅgānām)[single-piece](ekakhaṇḍo)[prescribed](vidhīyate)
 
 ## mukta-m0-p22-v540
-[of-others](anyeṣāmapi) [also](api) [lingas](liṅgānāṃ) [in-order](krameṇa) [one-finger-above](ekāṅgulādhilā)
+[of-others](anyeṣāmapi)[of-liṅgas](liṅgānāṃ)[in-order](krameṇa)[one-finger-more](ekāṅgulādhilā)
 
 ## mukta-m0-p22-v541
-[own-measure](svamānāt) [girdle](mekhalā) [its](tasyāḥ) [pit](khātaṃ) [or](vā) [that-measure](tatpramāṇataḥ)
+[own-measure](svamānānmekhalā)[of-it](tasyāḥ)[pit](khātaṃ)[or](vā)[that-measure](tatpramāṇataḥ)
 
 ## mukta-m0-p22-v542
-[Brahma-part-more](brahmāṃśādadhikaḥ) [pit](khāto) [barley](yavai) [six](ṣaḍbhiḥ) [breadth](pravistaraḥ)
+[brahma-portion-more](brahmāṃśādadhikaḥ)[pit](khāto)[by-barley](yavai)[six](ṣaḍbhiḥ)[width](pravistaraḥ)
 
 ## mukta-m0-p22-v543
-[jewel-receptacles](ratnādhārāṇi) [in-middle](tanmadhye) [round](vṛttāni) [nine](nava) [should-make](kalpayet)
+[jewel-receptacles](ratnādhārāṇi)[in-middle](tanmadhye)[round](vṛttāni)[nine](nava)[should-make](kalpayet)
 
 ## mukta-m0-p22-v544
-[own-measure](svamāna) [breadth-half](vistarārdhena) [thickness](bāhulyena) [endowed](samanvitā)
+[own-measure-width-half](svamānavistarārdhena)[thickness](bāhulyena)[endowed](samanvitā)
 
 ## mukta-m0-p22-v545
-[wooden](vārkṣī) [Brahma-stone](brahmaśilā) [wooden](vārkṣe) [linga](liṅge) [be](syāt) [base](piṇḍikā) [thus](tathā)
+[wooden](vārkṣī)[brahma-stone](brahmaśilā)[or](vā)[wooden](vārkṣe)[liṅga](liṅge)[pedestal](piṇḍikā)[thus](tathā)
 
 ## mukta-m0-p22-v546
-[worship](arcayet) [weapon-umbrella](astra) [flowers-etc](puṣpādyair) [to-bring](ānetuṃ) [mantra-knower](mantravittamaḥ)
+[worship](arcayet)[astra](astra)[flowers-etc](puṣpādyairānetuṃ)[mantra-knower](mantravittamaḥ)
 
 ## mukta-m0-p22-v547
-[ascetics](tāpasān) [Shiva-devotees](śivabhaktāṃśca) [satisfying](tarpayitvā) [bring-chariot](ānayedratham)
+[ascetics](tāpasāñ)[śiva-devotees](chivabhaktāṃśca)[having-satisfied](tarpayitvā)[bring](ānayedratham)
 
 ## mukta-m0-p22-v548
-[in-chariot](rathe) [making](kṛtvā) [and](ca) [lord-of-gods](deveśaṃ) [worshipping](pūjayitvā) [him-bring](tamānayet)
+[in-chariot](rathe)[having-placed](kṛtvā)[ca](ca)[lord](deveśaṃ)[having-worshipped](pūjayitvā)[bring](tamānayet)
 
 ## mukta-m0-p22-v549
-[when](yadā) [in-chariot](rathe) [chariot-parts](rathāṅgānāṃ) [by-negligence](pramādāt) [stumbling](skhalitaṃ) [becomes](bhavet)
+[when](yadā)[in-chariot](rathe)[chariot-parts](rathāṅgānāṃ)[by-negligence](pramādāt)[slip](skhalitaṃ)[becomes](bhavet)
 
 ## mukta-m0-p22-v550
-[hundred-eight](śatamaṣṭottaraṃ) [offering](hutvā) [freed](mucyate) [all-bad-deeds](sarvaduṣkṛtaiḥ)
+[hundred-eight](śatamaṣṭottaraṃ)[having-offered](hutvā)[freed](mucyate)[all-sins](sarvaduṣkṛtaiḥ)
