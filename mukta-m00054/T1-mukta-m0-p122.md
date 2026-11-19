@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p122-v3026
-[homage-to-beggar](bhikṣavenamaḥ) [homage-to-beggar-form](bhikṣurūpāyanamaḥ) [homage-to-merchant](vipaṇāyanamaḥ)
+[obeisance-to-the-mendicant](bhikṣavenamaḥ) [obeisance-to-mendicant-form](bhikṣurūpāyanamaḥ) [obeisance-to-the-market](vipaṇāyanamaḥ)
 
 ## mukta-m0-p122-v3027
-[homage-to-vajra-hand](vajrahastāyanamaḥ) [homage-to-viṣkambhin](viṣkambhinenamaḥ)
+[obeisance-to-vajra-hand](vajrahastāyanamaḥ) [obeisance-to-the-obstructor](viṣkambhinenamaḥ)
 
 ## mukta-m0-p122-v3028
-[homage-to-army-stopping](camūstambhanāyanamaḥ) [homage-to-round-and-nonround-maker](vṛttāvṛttakarāyanamaḥ)
+[obeisance-to-army-stopping](camūstambhanāyanamaḥ) [obeisance-to-maker-of-round-and-not-round](vṛttāvṛttakarāyanamaḥ)
 
 ## mukta-m0-p122-v3029
-[homage-to-palm](tālāyanamaḥ) [homage-to-madhava](madhavenamaḥ) [homage-to-sweet-eyed](madhukalocanāyanamaḥ)
+[obeisance-to-the-palm](tālāyanamaḥ) [obeisance-to-madhava](madhavenamaḥ) [obeisance-to-sweet-eyed](madhukalocanāyanamaḥ)
 
 ## mukta-m0-p122-v3030
-[homage-to-speech-lord](vācaspatyāyanamaḥ) [homage-to-vājasan](vājasanāyanamaḥ)
+[obeisance-to-vacaspati](vācaspatyāyanamaḥ) [obeisance-to-vajasana](vājasanāyanamaḥ)
 
 ## mukta-m0-p122-v3031
-[homage-to-hermitage-honored](āśramapūjitāyanamaḥ) [homage-to-brahmacārin](brahmacāriṇenamaḥ)
+[obeisance-to-ashrama-worshipped](āśramapūjitāyanamaḥ) [obeisance-to-the-brahmacharin](brahmacāriṇenamaḥ)
 
 ## mukta-m0-p122-v3032
-[homage-to-world-wanderer](lokacāriṇenamaḥ) [homage-to-all-wanderer](sarvacāriṇenamaḥ) [homage-to-deliberation-knower](vicāravidenamaḥ)
+[obeisance-to-world-wanderer](lokacāriṇenamaḥ) [obeisance-to-all-wanderer](sarvacāriṇenamaḥ) [obeisance-to-knower-of-deliberation](vicāravidenamaḥ)
 
 ## mukta-m0-p122-v3033
-[homage-to-īśāna](īśānāyanamaḥ) [homage-to-īśvara](īśvarāyanamaḥ) [homage-to-time](kālāyanamaḥ)
+[obeisance-to-ishana](īśānāyanamaḥ) [obeisance-to-ishvara](īśvarāyanamaḥ) [obeisance-to-time](kālāyanamaḥ)
 
 ## mukta-m0-p122-v3034
-[homage-to-night-wanderer](niśācāriṇenamaḥ) [homage-to-pināka-holder](pinākadhṛṣenamaḥ) [homage-to-omen-standing](nimittasthāyanamaḥ)
+[obeisance-to-night-wanderer](niśācāriṇenamaḥ) [obeisance-to-pinaka-bearer](pinākadhṛṣenamaḥ) [obeisance-to-cause-stander](nimittasthāyanamaḥ)
 
 ## mukta-m0-p122-v3035
-[homage-to-omen](nimittāyanamaḥ) [homage-to-delighter](nandayenamaḥ) [homage-to-nandikara](nandikarāyanamaḥ)
+[obeisance-to-cause](nimittāyanamaḥ) [obeisance-to-delighter](nandayenamaḥ) [obeisance-to-nandi-maker](nandikarāyanamaḥ)
 
 ## mukta-m0-p122-v3036
-[homage-to-hara](harayenamaḥ) [homage-to-nandīśvara](nandīśvarāyanamaḥ) [homage-to-nandin](nandinenamaḥ)
+[obeisance-to-hara](harayenamaḥ) [obeisance-to-nandishvara](nandīśvarāyanamaḥ) [obeisance-to-nandi](nandinenamaḥ)
 
 ## mukta-m0-p122-v3037
-[homage-to-slayer](nihantrenamaḥ) [homage-to-time](kālāyanamaḥ) [homage-to-brahman](brahmaṇenamaḥ)
+[obeisance-to-slayer](nihantrenamaḥ) [obeisance-to-time](kālāyanamaḥ) [obeisance-to-brahman](brahmaṇenamaḥ)
 
 ## mukta-m0-p122-v3038
-[homage-to-grandfather](pitāmahāyanamaḥ) [homage-to-four-faced](caturmmukhāyanamaḥ)
+[obeisance-to-grandfather](pitāmahāyanamaḥ) [obeisance-to-four-faced](caturmmukhāyanamaḥ)
 
 ## mukta-m0-p122-v3039
-[homage-to-great-liṅga](mahāliṅgāyanamaḥ) [homage-to-beautiful-liṅga](cāruliṅgāyanamaḥ)
+[obeisance-to-great-linga](mahāliṅgāyanamaḥ) [obeisance-to-beautiful-linga](cāruliṅgāyanamaḥ)
 
 ## mukta-m0-p122-v3040
-[homage-to-liṅga-overseer](liṅgādhyakṣāyanamaḥ) [homage-to-god-overseer](surādhyakṣāyanamaḥ)
+[obeisance-to-linga-superintendent](liṅgādhyakṣāyanamaḥ) [obeisance-to-god-superintendent](surādhyakṣāyanamaḥ)
 
 ## mukta-m0-p122-v3041
-[homage-to-yoga-overseer](yogādhyakṣāyanamaḥ) [homage-to-yuga-bearer](yugāvahāyanamaḥ)
+[obeisance-to-yoga-superintendent](yogādhyakṣāyanamaḥ) [obeisance-to-yuga-bearer](yugāvahāyanamaḥ)
 
 ## mukta-m0-p122-v3042
-[homage-to-seed-overseer](bījādhyakṣāyanamaḥ) [homage-to-seed-maker](bījakarttrenamaḥ)
+[obeisance-to-seed-superintendent](bījādhyakṣāyanamaḥ) [obeisance-to-seed-maker](bījakarttrenamaḥ)
 
 ## mukta-m0-p122-v3043
-[homage-to-self-following](adhyātmānugatāyanamaḥ) [homage-to-strength](balāyanamaḥ) [homage-to-history](itihāsāyanamaḥ)
+[obeisance-to-self-follower](adhyātmānugatāyanamaḥ) [obeisance-to-strength](balāyanamaḥ) [obeisance-to-history](itihāsāyanamaḥ)
 
 ## mukta-m0-p122-v3044
-[homage-to-subduable](vaśyāyanamaḥ) [homage-to-subduer](vaśakarāyanamaḥ) [homage-to-kalā](kalayenamaḥ)
+[obeisance-to-controllable](vaśyāyanamaḥ) [obeisance-to-subduer](vaśakarāyanamaḥ) [obeisance-to-kala](kalayenamaḥ)
 
 ## mukta-m0-p122-v3045
-[homage-to-world-maker](lokakarttrenamaḥ) [homage-to-paśupati](paśupatayenamaḥ) [homage-to-great-maker](mahākarttrenamaḥ)
+[obeisance-to-world-maker](lokakarttrenamaḥ) [obeisance-to-pashupati](paśupatayenamaḥ) [obeisance-to-great-maker](mahākarttrenamaḥ)
 
 ## mukta-m0-p122-v3046
-[homage-to-without-medicine](anauṣadhāyanamaḥ) [homage-to-imperishable](akṣarāyanamaḥ) [homage-to-supreme-brahman](paramabrahmaṇenamaḥ)
+[obeisance-to-without-medicine](anauṣadhāyanamaḥ) [obeisance-to-imperishable](akṣarāyanamaḥ) [obeisance-to-supreme-brahman](paramabrahmaṇenamaḥ)
 
 ## mukta-m0-p122-v3047
-[homage-to-strong](balavatenamaḥ) [homage-to-śakra](śakrāyanamaḥ) [homage-to-policy](nītayenamaḥ)
+[obeisance-to-strong](balavatenamaḥ) [obeisance-to-indra](śakrāyanamaḥ) [obeisance-to-policy](nītayenamaḥ)
 
 ## mukta-m0-p122-v3048
-[homage-to-non-policy](anītayenamaḥ) [homage-to-pure-soul](śuddhātmanenamaḥ) [homage-to-pure](śuddhāyanamaḥ)
+[obeisance-to-without-policy](anītayenamaḥ) [obeisance-to-pure-soul](śuddhātmanenamaḥ) [obeisance-to-pure](śuddhāyanamaḥ)
 
 ## mukta-m0-p122-v3049
-[homage-to-honorable](mānyāyanamaḥ) [homage-to-going-and-coming](gatāgatāyanamaḥ) [homage-to-much-grace](bahuprasādāyanamaḥ)
+[obeisance-to-honorable](mānyāyanamaḥ) [obeisance-to-going-and-coming](gatāgatāyanamaḥ) [obeisance-to-much-grace](bahuprasādāyanamaḥ)
 
 ## mukta-m0-p122-v3050
-[homage-to-veda-maker](vedakārāyanamaḥ) [homage-to-mantra-maker](mantrakārāyanamaḥ) [homage-to-learned](viduṣenamaḥ)
+[obeisance-to-veda-maker](vedakārāyanamaḥ) [obeisance-to-mantra-maker](mantrakārāyanamaḥ) [obeisance-to-knower](viduṣenamaḥ)
