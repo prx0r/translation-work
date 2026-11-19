@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p493-v12301
-[cupid+flower](anaṅgakusumā) [you+first](tvādyā) [second+cupid+girdle](dvitīyānaṅgamekhalā)
+[cupid-flower](anaṅgakusumā) [you](tvā) [first](ādyā) [second+cupid+girdle](dvitīyānaṅgamekhalā)
 
 ## mukta-m0-p493-v12302
-[cupid+line](anaṅgalekhā) [and](ca) [cupid+speed](anaṅgavegā) [cupid+goad](anaṅgāṃkuśā) [thus](tathā)
+[cupid-line](anaṅgalekhā) [and](ca) [cupid-speed](anaṅgavegā) [cupid-goad](anaṅgāṃkuśā) [thus](tathā)
 
 ## mukta-m0-p493-v12303
-[then+front](tadagre) [sixteen+spoked](ṣoḍaśāre) [but](tu) [west+etc+reverse](paścimādivilomataḥ)
+[that-before](tadagre) [sixteen-spoked](ṣoḍaśāre) [in](tu) [west-etc-reverse](paścimādivilomataḥ)
 
 ## mukta-m0-p493-v12304
-[ego+attractor](ahaṅkārākarṣiṇī) [and](ca) [sound+attractor](śabdākarṣiṇikā) [thus](tathā)
+[ego-attractor](ahaṅkārākarṣiṇī) [and](ca) [sound-attractor](śabdākarṣiṇikā) [thus](tathā)
 
 ## mukta-m0-p493-v12305
-[taste+attractor](rasākarṣiṇikā) [declared](proktā) [smell+attractor](gandhākarṣiṇikā) [considered](matā)
+[taste-attractor](rasākarṣiṇikā) [declared](proktā) [smell-attractor](gandhākarṣiṇikā) [considered](matā)
 
 ## mukta-m0-p493-v12306
-[name+attractor](nāmākarṣiṇikā) [and+indeed](caiva) [seed+attractor](bījākarṣiṇikā) [thus](tathā)
+[name-attractor](nāmākarṣiṇikā) [and-indeed](caiva) [seed-attractor](bījākarṣiṇikā) [thus](tathā)
 
 ## mukta-m0-p493-v12307
-[body+attractor](śarīrākarṣiṇī) [afterwards](paścād) [self+attractor](ātmākarṣiṇikā) [thus](tathā)
+[body-attractor](śarīrākarṣiṇī) [afterwards](paścād) [self-attractor](ātmākarṣiṇikā) [thus](tathā)
 
 ## mukta-m0-p493-v12308
-[agitation+melting+attracting+mind+intoxicating+great+goad](kṣobhaṇadrāvaṇākarṣamanonmādamahāṃkuśāḥ)
+[agitation-dissolution-attraction-mind-delusion-great-goad](kṣobhaṇadrāvaṇākarṣamanonmādamahāṃkuśāḥ)
 
 ## mukta-m0-p493-v12309
-[likewise+below](tadvaccādhaḥ) [worship](samabhyarcya) [that+outside+citadel](tadbahirbhūpure) [sacrifice](yajet)
+[likewise-below](tadvaccādhaḥ) [well-worship](samabhyarcya) [that-outside-fortress](tadbahirbhūpure) [sacrifice](yajet)
 
 ## mukta-m0-p493-v12310
-[gate+two](dvāre dvayaṃ) [east](prāg) [minuteness](aṇimā) [greatness](mahimā) [lightness](laghimeśitā)
+[gate-two](dvāre+dvayaṃ) [east-animā](prāgaṇimā) [mahimā](mahimā) [lightness-lordship](laghimeśitā)
 
 ## mukta-m0-p493-v12311
-[taste+perfection](rasasiddhiśca) [tenth](daśamī) [worship+thus](saparyyaivaṃ) [declared](samīritā)
+[taste-accomplishment](rasasiddhiśca) [tenth](daśamī) [worship-thus](saparyyaivaṃ) [declared](samīritā)
 
 ## mukta-m0-p493-v12312
-[libation+etc](tarppaṇādi) [then](tataḥ) [do](kuryyān) [mantra+perfected](mantrasiddhaḥ) [born](prajāyate)
+[libation-etc](tarppaṇādi) [then](tataḥ) [do](kuryyān) [mantra-accomplished](mantrasiddhaḥ) [born](prajāyate)
 
 ## mukta-m0-p493-v12313
-[oleander+flower](karavīrajapuṣpaiśca) [oblation](homān) [delude](mohayate) [world](jagat)
+[oleander-flower-homage](karavīrajapuṣpaiśca) [by-homage](homān) [delude](mohayate) [world](jagat)
 
 ## mukta-m0-p493-v12314
-[champaka](campakaiḥ) [pāṭala](pāṭalair) [bilva](bilvair) [subdue+long](vaśamānayate cirāt)
+[champaka-pāṭala-bilva](campakaiḥ+pāṭalair+bilvair) [subdue-long](vaśamānayate+cirāt)
 
 ## mukta-m0-p493-v12315
-[bilva](bilvaiḥ) [incomparable](syādatulā) [lakshmi](lakṣmī) [sugar+cane+pieces](ikṣukhaṇḍaistathā) [subdued](vaśāḥ)
+[bilva-incomparable-lakṣmī](bilvaiḥ+syād+atulā+lakṣmīḥ) [sugar-cane-pieces-thus-subdue](ikṣukhaṇḍaistathā+vaśāḥ)
 
 ## mukta-m0-p493-v12316
-[night](niśi) [gold+fruit](svarṇaphalairhomo) [enemy+army+destroyer](ripusenāvināśakṛt)
+[night-gold-fruit-homage](niśi+svarṇaphalairhomo) [enemy-army-destroyer](ripusenāvināśakṛt)
 
 ## mukta-m0-p493-v12317
-[health](ārogyaṃ) [prosperity](sampadaṃ) [desire](kāmaṃ) [wealth](dhanaṃ) [sugar](śarkkarayā) [happiness](sukham)
+[health](ārogyaṃ) [prosperity](sampadaṃ) [desire](kāmaṃ) [wealth](dhanaṃ) [sugar-happiness](śarkkarayā+sukham)
 
 ## mukta-m0-p493-v12318
-[kshatriya](kṣatriyo) [citron](mātuluṅgaiśca) [vaishya](vaiśyo) [orange](nāriṅgajaiḥ) [fruits](phalaiḥ)
+[kṣatriya-citron](kṣatriyo+mātuluṅgaiśca) [vaiśya-orange-fruit](vaiśyo+nāriṅgajaiḥ+phalaiḥ)
 
 ## mukta-m0-p493-v12319
-[jackfruit](panasānāṃ) [lakh+oblation](lakṣahomād) [subdued](vaśyāḥ) [syuścakravartinaḥ](syuścakravartinaḥ)
+[jackfruit-lakh-homage-subdued](panasānāṃ+lakṣahomād+vaśyāḥ) [become-emperor](syuś+cakravartinaḥ)
 
 ## mukta-m0-p493-v12320
-[coconut](nārikeraistu) [learning](pāṇḍityaṃ) [sesame](tilaiḥ) [all+desired+success](sarveṣṭasiddhayaḥ)
+[coconut-learning](nārikeraistu+pāṇḍityaṃ) [sesame-all-desired-accomplishment](tilaiḥ+sarveṣṭasiddhayaḥ)
 
 ## mukta-m0-p493-v12321
-[milk-rice](pāyasair) [wealth+grain+etc](dhanadhānyādi) [bandhuka](bandhūkaiḥ) [beings](prāṇino) [subdued](vaśāḥ)
+[milk-rice-wealth-grain-etc](pāyasair+dhanadhānyādi) [bandhūka-living-subdued](bandhūkaiḥ+prāṇino+vaśāḥ)
 
 ## mukta-m0-p493-v12322
-[salt](lavaṇai) [mustard+mixed](rājikāyuktair) [oblation](homād) [wicked+destruction](duṣṭavināśanam)
+[salt-mustard-combined-homage-wicked-destroy](lavaṇai+rājikāyuktair+homād+duṣṭavināśanam)
 
 ## mukta-m0-p493-v12323
-[ghee](ghṛtahe) [desired+attainment](mādīpsitāptiḥ) [power](śaktiḥ) [syāttilataṇḍulaiḥ](syāttilataṇḍulaiḥ)
+[ghee-honey-desired-attainment](ghṛtahe+mādīpsitāptiḥ) [power-sesame-rice](śaktiḥ+syāt+tilataṇḍulaiḥ)
 
 ## mukta-m0-p493-v12324
-[krishna](kṛṣṇasya) [power](śaktiṃ) [fair-faced](sumukhīṃ) [brahmins](dvijānāṃ) [not+authority](nādhikāritā)
+[kṛṣṇa-power-beautiful-faced](kṛṣṇasya+śaktiṃ+sumukhīṃ) [brāhmaṇa-not-authority](dvijānāṃ+nādhikāritā)
 
 ## mukta-m0-p493-v12325
-[cini hrīṃ ṭhaścaṭhaḥṭhaśca dvāviṃśatyakṣaro manuḥ](cini hrīṃ ṭhaścaṭhaḥṭhaśca dvāviṃśatyakṣaro manuḥ)
+[cini-hrīṃ-ṭha-caṭha-ṭha-twenty-two-syllable-mantra](cini+hrīṃ+ṭhaś+caṭhaḥ+ṭhaś+ca+dvāviṃśatyakṣaro+manuḥ)
