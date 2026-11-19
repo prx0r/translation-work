@@ -8,7 +8,7 @@
 "tokens": [
 {
 "surface": "citte",
-"quick_gloss": "mind-locative"
+"quick_gloss": "mind-loc"
 },
 {
 "surface": "iti",
@@ -20,7 +20,7 @@
 },
 {
 "surface": "procya",
-"quick_gloss": "having-spoken"
+"quick_gloss": "saying"
 },
 {
 "surface": "reto",
@@ -32,7 +32,7 @@
 },
 {
 "surface": "vadet",
-"quick_gloss": "would-say"
+"quick_gloss": "says"
 }
 ]
 },
@@ -61,7 +61,7 @@
 },
 {
 "surface": "ācaret",
-"quick_gloss": "should-perform"
+"quick_gloss": "performs"
 }
 ]
 },
@@ -78,11 +78,11 @@
 },
 {
 "surface": "gupigupit",
-"quick_gloss": "hidden-hidden"
+"quick_gloss": "hidden"
 },
 {
 "surface": "kāraṃ",
-"quick_gloss": "making"
+"quick_gloss": "kāra"
 },
 {
 "surface": "vimuṃcati",
@@ -103,7 +103,7 @@
 "tokens": [
 {
 "surface": "yamunāsalilair",
-"quick_gloss": "yamuna-waters"
+"quick_gloss": "yamuna-water"
 },
 {
 "surface": "īśāḥ",
@@ -128,7 +128,7 @@
 },
 {
 "surface": "paśupatatvaṃ",
-"quick_gloss": "paśupati-hood"
+"quick_gloss": "paśupati-state"
 },
 {
 "surface": "ca",
@@ -153,10 +153,10 @@
 "tokens": [
 {
 "surface": "sarveṣām",
-"quick_gloss": "of-all"
+"quick_gloss": "all"
 },
 {
-"surface": "evamaṃtrāṇāṃ",
+"surface": "evaṃmaṃtrāṇāṃ",
 "quick_gloss": "thus-mantras"
 },
 {
@@ -178,7 +178,7 @@
 "tokens": [
 {
 "surface": "kavitvasya",
-"quick_gloss": "of-poetry"
+"quick_gloss": "poetry"
 },
 {
 "surface": "parākāṣṭhā",
@@ -186,7 +186,7 @@
 },
 {
 "surface": "rasasaubhāgyaśālinī",
-"quick_gloss": "rasa-fortune-possessing"
+"quick_gloss": "rasa-fortune"
 }
 ]
 },
@@ -214,12 +214,8 @@
 "quick_gloss": "ca"
 },
 {
-"surface": "bhūtānām",
-"quick_gloss": "of-beings"
-},
-{
-"surface": "iva",
-"quick_gloss": "iva"
+"surface": "bhūtānāmiva",
+"quick_gloss": "beings-like"
 },
 {
 "surface": "sarvaśaḥ",
@@ -240,7 +236,7 @@
 },
 {
 "surface": "pādukāyāḥ",
-"quick_gloss": "of-sandal"
+"quick_gloss": "sandal"
 },
 {
 "surface": "siddhiṃ",
@@ -277,7 +273,7 @@
 },
 {
 "surface": "parakāya",
-"quick_gloss": "another-body"
+"quick_gloss": "other-body"
 },
 {
 "surface": "praveśane",
@@ -294,7 +290,7 @@
 "tokens": [
 {
 "surface": "pratimācalane",
-"quick_gloss": "image-moving"
+"quick_gloss": "idol-moving"
 },
 {
 "surface": "ca",
@@ -306,7 +302,7 @@
 },
 {
 "surface": "bhūtavetāla",
-"quick_gloss": "spirit-vetala"
+"quick_gloss": "bhuta-vetala"
 },
 {
 "surface": "vīkṣaṇe",
@@ -331,7 +327,7 @@
 },
 {
 "surface": "ghatte",
-"quick_gloss": "obtains"
+"quick_gloss": "gives"
 },
 {
 "surface": "saptamāhuti",
@@ -351,16 +347,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "mahāliṃgamaheśāna",
+"surface": "mahāliṃga",
 "quick_gloss": "great-linga"
 },
 {
+"surface": "maheśāna",
+"quick_gloss": "maheśāna"
+},
+{
 "surface": "svarasaiś",
-"quick_gloss": "own-juices"
+"quick_gloss": "own-rasas"
 },
 {
 "surface": "cāṃdracaṃdrikaiḥ",
-"quick_gloss": "moon-rays"
+"quick_gloss": "moonlight"
 }
 ]
 },
@@ -372,12 +372,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "saptakūpāraparyaṃta",
-"quick_gloss": "seven-wells-limit"
+"surface": "saptakūpāra",
+"quick_gloss": "seven-wells"
+},
+{
+"surface": "paryaṃta",
+"quick_gloss": "limit"
 },
 {
 "surface": "vāpikīrti",
-"quick_gloss": "tank-fame"
+"quick_gloss": "pond-glory"
 },
 {
 "surface": "vivardhanī",
@@ -410,11 +414,11 @@
 },
 {
 "surface": "sthitiṃ",
-"quick_gloss": "position"
+"quick_gloss": "state"
 },
 {
 "surface": "bruve",
-"quick_gloss": "would-say"
+"quick_gloss": "says"
 }
 ]
 },
@@ -463,8 +467,12 @@
 "quick_gloss": "tu"
 },
 {
-"surface": "kṣaṇe+kṣaṇe",
-"quick_gloss": "moment-moment"
+"surface": "kṣaṇe",
+"quick_gloss": "moment"
+},
+{
+"surface": "kṣaṇe",
+"quick_gloss": "moment"
 }
 ]
 },
@@ -556,7 +564,7 @@
 "tokens": [
 {
 "surface": "asaṃbaṃdhārthanaṃ",
-"quick_gloss": "unconnected-meaning"
+"quick_gloss": "unrelated-meaning"
 },
 {
 "surface": "kiṃcit",
@@ -593,7 +601,7 @@
 },
 {
 "surface": "namastubhyaṃ",
-"quick_gloss": "salutation"
+"quick_gloss": "salute"
 },
 {
 "surface": "punasteracitoṃjaliḥ",
@@ -651,7 +659,7 @@
 },
 {
 "surface": "majjayasyevanirghṛṇā",
-"quick_gloss": "immerse"
+"quick_gloss": "immersing"
 }
 ]
 },

@@ -2,52 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p27-v651
-striking-principal action-cause tell lord
+[tadana](tāḍana) [pramukham](pramukhaṃ) [karmatam](karmataṃ) [hetum](hetuṃ) [kathaya](kathaya) [prabho](prabho)
+
 ## mukta-m0-p27-v652
-delusion moment moment-messenger worship playful-act
+[moham](mohaṃ) [ksane](kṣaṇe) [ksane](kṣaṇe) [dutyā](dūtyā) [bhajante](bhajaṃte) [narma-karmaṇi](narmakarmaṇi)
+
 ## mukta-m0-p27-v653
-therefore-laziness obtained not melt indeed messengers
+[tasmāt](tasmāt) [alasatām](alasatāṃ) [prāptā](prāptā) [na](na) [dravanti](dravaṃtyeva) [eva](eva) [dūtikāḥ](dūtikāḥ)
+
 ## mukta-m0-p27-v654
-delays pleasure give that-delay pleasure-where
+[vilambate](vilaṃbate) [ratim](ratiṃ) [dātum](dātuṃ) [tad-vilambāt](tadvilaṃbāt) [sukham](sukhaṃ) [kutaḥ](kutaḥ)
+
 ## mukta-m0-p27-v655
-they awakened enthusiasm begin pleasure-sacrifice
+[tāḥ](tāḥ) [prabuddhāḥ](prabuddhāḥ) [samutsāha](samutsāha) [mārabhante](mārabhaṃte) [rata-adhvare](ratādhvare)
+
 ## mukta-m0-p27-v656
-messenger-runs much-butter-like-fire
+[dūtyā](dūtyā) [udravati](udravati) [bahuśaḥ](bahuśaḥ) [navanītam](navanītam) [iva](iva) [agninā](agninā)
+
 ## mukta-m0-p27-v657
-dissolution meaning-dissolution and then striking-dissolution beloved
+[layam](layam) [artha-layam](arthalayaṃ) [ca](ca) [api](api) [tadā](tadā) [ghaṭṭa-layam](ghaṭṭalayaṃ) [priye](priye)
+
 ## mukta-m0-p27-v658
-moving-messenger-body blissful-state lead
+[acaran](acaran) [dūtikā-gātram](dūtikāgātram) [ānanda-mayatām](ānaṃdamayatāṃ) [nayet](nayet)
+
 ## mukta-m0-p27-v659
-self-extreme steady-soul meditating linga-key
+[svayam](svayam) [atyantam](atyantaṃ) [dhīra-ātmā](dhīrātmā) [bhāvayan](bhāvayan) [liṅga-kuñcikām](liṃgakuṃcikām)
+
 ## mukta-m0-p27-v660
-eternal-bliss essence world-pervading contemplate
+[nitya-ānanda-mayam](nityānaṃdamayaṃ) [tattvam](tatvaṃ) [jagat-vyāptam](jagadvyāptaṃ) [vicintayat](viciṃtayat)
+
 ## mukta-m0-p27-v661
-this-only great-sacrifice austerity-this supreme
+[ayam](ayameva) [eva](eva) [mahā-yajñaḥ](mahāyajñaḥ) [tapaḥ](tapaścedam) [ca](ca) [idam](idam) [anuttamam](anuttamam)
+
 ## mukta-m0-p27-v662
-this vow great-merit bliss-nonduality-giving
+[idam](idaṃ) [vratam](vrataṃ) [mahā-puṇyam](mahāpuṇyam) [ānanda-advaita-dāyakam](ānaṃdādvaitadāyakaṃ)
+
 ## mukta-m0-p27-v663
-drop-emission named sacrifice-concluding
+[bindu-vikṣaraṇam](biṃduvikṣaraṇaṃ) [nāma](nāma) [yajña-avabhṛthaḥ](yajñāvabhṛthaḥ) [ucyate](ucyate)
+
 ## mukta-m0-p27-v664
-as as time-length steadiness-bond greatly
+[yathā](yathā) [yathā](yathā) [kāla-dairghyam](kāladairghyaṃ) [dhairya-bandhena](dhairyabaṃdhena) [bhūyasā](bhūyasā)
+
 ## mukta-m0-p27-v665
-fire-mouth mercury-like not steadiness-follow
+[agniḥ](agnirmukhe) [mukhe](mukhe) [pārada-vat](pāradavat) [na](na) [dhairyam](dhairyamanudhāvati) [anudhāvati](anudhāvati)
+
 ## mukta-m0-p27-v666
-how becomes fierce-lord stiff white-limb
+[katham](kathaṃ) [bhavati](bhavati) [caṇḍīśa](caṇḍīśa) [prastabdham](prastabdhaṃ) [śukla-maṅgake](śuklamaṃgake)
+
 ## mukta-m0-p27-v667
-extreme-wonder-causing if-white retention
+[atyantam](atyaṃtāścaryajanakaṃ) [āścarya-janakam](āścaryajanakaṃ) [yadi](yadi) [śuklasya](śuklasya) [dhāraṇā](dhāraṇā)
+
 ## mukta-m0-p27-v668
-not-small even effort arises white-retention
+[na](natukenāpi) [tu](tu) [kena](kena) [api](api) [yatnena](yatnena) [jāyate](jāyate) [śukla-dhāraṇā](śukladhāraṇā)
+
 ## mukta-m0-p27-v669
-desire-tantras much-enjoyers-by what-performed
+[kāma-tantreṣu](kāmataṃtreṣu) [bahuśaḥ](bahuśaḥ) [bhogibhiḥ](bhogibhiryadanuṣṭhitam) [yat](yat) [anuṣṭhitam](anuṣṭhitam)
+
 ## mukta-m0-p27-v670
-that-say great-fortunate stopping nectar-prosperity
+[tat](tadvadāmi) [vadāmi](vadāmi) [mahā-bhāge](mahābhāge) [stambhanam](staṃbhanaṃ) [rasa-sampadām](rasasaṃpadām)
+
 ## mukta-m0-p27-v671
-not-obtained somehow matured-one-nectar-wise
+[nandavyate](naṃdavyate) [katham](katham) [api](api) [prauḍham](prauḍhamekorasobudhaiḥ) [eka](eka) [rasa](rasa) [budhaiḥ](budhaiḥ)
+
 ## mukta-m0-p27-v672
-all-even elements goddess own-own-place made-refuge
+[sarve](sarvepi) [api](api) [dhātavaḥ](dhātavodevī) [devī](devī) [sva-sva](svasva) [sthāne](sthāne) [kṛta-āśrayāḥ](kṛtāśrayāḥ)
+
 ## mukta-m0-p27-v673
-channels-wheels all residing-even mercury-lord
+[nāḍī-cakreṣu](nāḍīcakreṣu) [sarveṣu](sarveṣu) [vasan](vasannapi) [api](api) [raseśvaraḥ](raseśvaraḥ)
+
 ## mukta-m0-p27-v674
-some-say brow-middle some-heart-gem
+[kecit](kecidvadaṃti) [vadanti](vadanti) [bhrū-madhye](bhrūmadhye) [kecit](keciddhṛdiparemaṇau) [hṛdi](hṛdi) [pare-maṇau](paremaṇau)
+
 ## mukta-m0-p27-v675
-some-urva-thigh goddess some-hip-peak
+[kecit](decidūrvostaledevi) [ūrvoḥ](ūrvoḥ) [tale](tale) [devi](devi) [kecit](decijjaghanasīmani) [jaghana-sīmani](jaghanasīmani)
