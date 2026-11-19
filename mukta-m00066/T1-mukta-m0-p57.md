@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p57-v1401
-hidden-meaning-for + and + heart-limbed + not + truth-awakening-in
+hidden-meaning-for(guptārthāya) and(ca) heart-limbed(hṛdyāṅgi) not(na) but(tu) truth-awakening(tatvāvabodhane)
 
 ## mukta-m0-p57-v1402
-bliss-tantra + indeed-in-this + not + elsewhere + anywhere + opinion
+bliss-tantra(ānaṃdataṃtra) indeed-in-this(evāsminnā) not(na) elsewhere(paratra) anywhere(kvacin) opinion(mataḥ)
 
 ## mukta-m0-p57-v1403
-truth-being-this + beautiful-browed + great-sacrifice + declared
+truth-reality-this(subhruyo) great-sacrifice(mahāyāga) declared(īritaḥ)
 
 ## mukta-m0-p57-v1404
-of-this + tantra's + truths + doctrine-and + shown
+of-this-tantra(asya+taṃtrasya) truths(siddhāntaśca) shown(pradarśyate)
 
 ## mukta-m0-p57-v1405
-manifestation-and-concealment + occur + all-things-in
+manifestation-and-concealment(āvirbbhāvatirobhāvau) occur(varttete) in-all-things(sarvavastuṣu)
 
 ## mukta-m0-p57-v1406
-not + Devadatta + from-house + going-out + previously-associated
+not(na) devadatta(devadatto) from-house(bhavanāt) going-out(nirgacchan) previously-associated(pūrvasaṅgataḥ)
 
 ## mukta-m0-p57-v1407
-not + Devadatta + from-house + entering-concealed
+not(na) devadatta(devadatto) into-house(bhavanāt) entering-concealed(praveśanatirohitaḥ)
 
 ## mukta-m0-p57-v1408
-manifestation + without + production + other-form + not + exists
+manifestation(āvirbhāvaṃ) without(vinā) production(utpattiranyā) not(na) known(vidyate)
 
 ## mukta-m0-p57-v1409
-that-inquiry + done + not-indeed + beauty + follows
+that-inquiry(tadvicāre) made(kṛte) not(na) indeed(eva) beauty(cārutvam) follows(anudhāvati)
 
 ## mukta-m0-p57-v1410
-producedness + distinctness + then-indeed-at-first + shown
+producedness(utpannatvaṃ) distinctness(viśiṣṭatvaṃ) then(tadaivādau) shown(pradarśitam)
 
 ## mukta-m0-p57-v1411
-not + but + their + reality + convention-only-born
+not(na) but(tu) their(teṣāṃ) reality(vāstavatvaṃ) conventional-usage(vyavahāraikajanmanā)
 
 ## mukta-m0-p57-v1412
-directions-in-discussion + place + sky-in-discussion + wind
+directions(diśaścacarcane) region(deśo) sky(nabhasaścarcane) wind(marut)
 
 ## mukta-m0-p57-v1413
-earth-water-fire + wind + sound-and-darkness + mind
+earth(bhūmir) water(āpon) fire(nalo) air(vāyuḥ) sound(śabdaśca) darkness(timiraṃ) mind(manaḥ)
 
 ## mukta-m0-p57-v1414
-this + indeed + all + categories + expansion
+this(etad) indeed(bhidaiva) of-all(sarveṣāṃ) categories(padārthānāṃ) expansion(vijṛmbhaṇam)
 
 ## mukta-m0-p57-v1415
-aggregate-form-action-etc + not + their + is + countability
+aggregate-form-action-etc(saṅghatarūpakarmādyā) not(na) their(teṣām) countability(gaṇyatā)
 
 ## mukta-m0-p57-v1416
-wind-darkness-not-indeed + refuge + somewhere + deserve
+wind-darkness(maruccatimirannaiva) support(saṃścayaṃ) anywhere(kvacid) deserve(arhataḥ)
 
 ## mukta-m0-p57-v1417
-nine-substances + and-these + proclaimed + great-agama
+nine-substances(navadravyāṇi) these(caitāni) declared(kīrttitāni) great-scripture(mahāgame)
 
 ## mukta-m0-p57-v1418
-of-these + indeed + by-difference + various-number + having-made + and
+of-these(eteṣāmeva) by-difference(bhedena) various-number(nānāsaṃkhyāṃ) having-made(vidhāya) and(ca)
 
 ## mukta-m0-p57-v1419
-direct-perception-measure-experience + all-in-these + Parvati
+direct-perception(pratyakṣamānānubhavaḥ) in-all-these(sarveṣveteṣu) O-Parvati(pārvati)
 
 ## mukta-m0-p57-v1420
-water-darkness + white-wind + earth-pure + variegated-form
+in-water-darkness(jaladhvānte) white-wind(śuklānile) earth-pure(śuciḥ) variegated-form(śabalākṛti)
 
 ## mukta-m0-p57-v1421
-touch + direct-object + wind + mountain-daughter
+touch(sparśaḥ) perceptible-object(pratyakṣaviṣayaḥ) wind(pavanaḥ) mountain-born(parvatātmaje)
 
 ## mukta-m0-p57-v1422
-mind-soul-under + all + accepted + themselves + measures
+mind-soul-dependent(manojīvavaśāḥ) all(sarve) accepted(pratipannāḥ) themselves(svayaṃ) valid-cognitions(pramāḥ)
 
 ## mukta-m0-p57-v1423
-there + sound + indeed-authoritative-speech + Veda-knowledge-agama-nature
+there(tatra) sound(śabdastv) authoritative-speech(āptavāco) veda-knowledge-scripture(vedavidyāgamātmakaḥ)
 
 ## mukta-m0-p57-v1424
-distinct-part + seen + vision + part-because
+distinct-part(sādṛṣṭe) seen(darśanaṃ) of-partaker(bhāginoyataḥ)
 
 ## mukta-m0-p57-v1425
-seen-all-form + pot + superintendence-bone + if
+seen-all-forms(dṛṣṭasarvasvarūpasya) pot(ghaṭasyādhyakṣatāsthi) indeed(cet)
