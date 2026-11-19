@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p56-v1376
-[in-winter](hemante) [knowledge-giving](jñānadam) [liṅga](liṅgaṃ) [in-cool-season](śiśire) [all-beings-prospering](sarvabhūtidam)
+hemante=in-winter jñānadaṃ=knowledge-giving liṅgaṃ=linga śiśire=in-cool-season sarvabhūtidam=all-beings-giving
 
 ## mukta-m0-p56-v1377
-[for-ascetics](yatīnām) [at-all-times](sarvakāleṣu) [of-liṅga-installation](liṅgasyāropaṇam) [is-held](matam)
+yatīnāṃ=of-ascetics sarvakāleṣu=at-all-times liṅgasyāropaṇaṃ=installation-of-linga matam=opinion
 
 ## mukta-m0-p56-v1378
-[in-southern-course](dakṣiṇāyane) [not-worshipful](apūjyam) [beyond-three-years](trivarṣordhvam) [fear-bringing](bhayāvaham)
+dakṣiṇāyane=in-southern-course 'pūjyaṃ=not-worshipable trivarṣordhvaṃ=beyond-three-years bhayāvaham=fear-bringing
 
 ## mukta-m0-p56-v1379
-[for-decay](kṣayāya) [for-growth](bṛddhaye) [and-becomes](syācca) [southern](yāmye) [gentle](saumye) [other](apare) [sun](ravau)
+kṣayāya=for-decay bṛddhaye=for-growth syāt=may-be ca=and yāmye=in-southern saumye=in-northern apare=other ravau=sun
 
 ## mukta-m0-p56-v1380
-[six-six-months-beyond](ṣaṭṣaṇmāsottarān) [three-years](tryabdān) [by-Maya-held](mayamatāt) [fruit](phalam) [in-order](kramāt)
+ṣaṭṣaṇmāsottarān=six-six-months-beyond tryabdān=three-years mayamatāt=according-to-maya phalaṃ=result kramāt=gradually
 
 ## mukta-m0-p56-v1381
-[black-magic](abhicāraḥ) [becomes](bhavet) [there](tatra) [installed](sthāpite) [southern](dakṣiṇe) [course](ayane)
+abhicāraḥ=maleficence bhavet=may-be tatra=there sthāpite=installed dakṣiṇe'yane=in-southern-course
 
 ## mukta-m0-p56-v1382
-[boys](kumārāḥ) [are-oppressed](saṃprapīḍyante) [girl-loss](kanyānāśaḥ) [and](ca) [arises](jāyate)
+kumārāḥ=boys saṃprapīḍyante=are-oppressed kanyānāśaḥ=loss-of-girls ca=and jāyate=arises
 
 ## mukta-m0-p56-v1383
-[of-doer](kartuḥ) [decay](kṣayaḥ) [constant-sorrow](sadāśokaḥ) [in-house](gṛhe) [becomes](bhavati) [terrible](dāruṇaḥ)
+kartuḥ=of-maker kṣayaḥ=decay sadāśokaḥ=constant-sorrow gṛhe=in-house bhavati=becomes dāruṇaḥ=terrible
 
 ## mukta-m0-p56-v1384
-[auspicious-seeker](śubhārthī) [not](na) [should-act](pravarteta) [of-goddess](devyāḥ) [mantra-etc-scripture](mantrādiśāstrataḥ)
+śubhārthī=seeking-auspicious na=not pravarteta=should-act devyā=of-goddess mantrādiśāstrataḥ=according-to-mantra-scripture
 
 ## mukta-m0-p56-v1385
-[therefore-place](tasmātsthānam) [guru](guruṃ) [obtaining](prāpya) [for-protection](rakṣārtham) [from-black-magic](abhicārikam)
+tasmāt=therefore sthānaṃ=place guruṃ=teacher prāpya=obtaining rakṣaye=for-protection dābhicārikam=from-maleficence
 
 ## mukta-m0-p56-v1386
-[installation](sthāpanam) [but](tu) [should-be-done](prakartavyam) [from-cool-season](śiśirādau) [three-seasons](ṛtutraye)
+sthāpanaṃ=installation tu=but prakartavyaṃ=should-be-done śiśirādau=in-cool-season-first ṛtutraye=in-three-seasons
 
 ## mukta-m0-p56-v1387
-[with-moon-star-yoga](sacandratārakāyoge) [good-ascendant-rite-endowed](sulagnakaraṇānvite)
+sacandratārakāyoge=with-moon-star-conjunction sulagnakaraṇānvite=with-good-ascendant
 
 ## mukta-m0-p56-v1388
-[on-non-dual](advaite) [and](ca) [indeed](eva) [dark](kṛṣṇe) [also](api) [mantra-form](mantramūrti) [by-distinction](prabhedataḥ)
+advaite=non-dual caiva=and-also kṛsṇe'pi=even-in-dark mantramūrti=mantra-form prabhedataḥ=by-distinction
 
 ## mukta-m0-p56-v1389
-[Pañcarātra-worthy](pāñcarātrārha) [mixed](miśrā) [fifty-years-duration](pañcāśadvarṣasaṃsthitiḥ)
+pāñcarātrārharet=pañcarātra-worthy miśrā=mixed pañcāśadvarṣasaṃsthitiḥ=fifty-year-duration
 
 ## mukta-m0-p56-v1390
-[hundred-years](śatābdam) [but](tu) [that](sā) [stands](tiṣṭhet) [stone-liṅga](vāṇaliṅgam) [like-self-born](svayambhuvat)
+śātābdorvbaṃ=hundred-years-or-more tu=but sā=it tiṣṭhet=may-stand vāṇaliṅgaṃ=stone-linga svayambhubat=like-self-born
 
 ## mukta-m0-p56-v1391
-[of-many-meanings](bahvarthatvān) [of-fallings](nipātānām) [in-purification-beginning](saṃskārādau) [installation](pratiṣṭhitiḥ)
+bahvarthatvānipātānāṃ=of-many-meanings-fall saṃskārādau=in-purification-first pratiṣṭhitiḥ=establishment
 
 ## mukta-m0-p56-v1392
-[purified](saṃskṛtā) [substance](dravya) [with-mantra-purification](mantrasaṃskṛtiḥ) [which](yā) [divine](surāgyā) [and](ca)
+saṃskṛtā=purified dravyasanmantrasaṃskṛtiḥ=material-mantra-purification yā=which suragya=divine ca=and
 
 ## mukta-m0-p56-v1393
-[image](pratimām) [five-divisions](pañcabhedaiḥ) [but](tu) [installation](pratiṣṭhā) [fivefold](pañcadhā) [declared](uditā)
+pratimāṃ=image pañcabhedaiḥ=with-five-divisions tu=but pratiṣṭhā=installation pañcadhā=fivefold uditā=declared
 
 ## mukta-m0-p56-v1394
-[second](dvitīyā) [life](āyu) [gives](dadyāt) [third](tṛtīyā) [son-prosperity](putrasaṃpadaḥ)
+dvitīyā=second āyuḥ=life matiḥ=intention dadyāt=may-give tṛtīyā=third putrasaṃpadaḥ=son-prosperity
 
 ## mukta-m0-p56-v1395
-[tenth](daśamī) [land-gain](bhūmilābham) [and](ca) [good-fortune](saubhāgyam) [and](ca) [thirteenth](trayodaśī)
+daśamī=tenth bhūmilābhaṃ=land-gain ca=and saubhāgyaṃ=good-fortune ca=and trayodaśī=thirteenth
 
 ## mukta-m0-p56-v1396
-[one-doer](ekartu) [Śaṅkara](śaṅkaraiḥ) [Nandā](nandā) [Bhadrā](bhadrā) [fortnight-ṛṣi-sun](pakṣarṣibhānubhiḥ)
+ekartuśaṅkaraiḥ=with-one-maker-śaṅkara nandā=nanda bhadrā=bhadra pakṣarṣibhānubhiḥ=with-fortnight-seer-sun
 
 ## mukta-m0-p56-v1397
-[arrow-direction-tithis](bāṇadiktithibhiḥ) [full](pūrṇā) [deficient-equal-harmful](hīnatulyāhitāḥ) [in-order](kramāt)
+bāṇadiktithibhiḥ=with-arrow-direction-tithi pūrṇā=full hīnatulyāhitāḥ=deficient-equal-harmful kramāt=gradually
 
 ## mukta-m0-p56-v1398
-[Jupiter](vṛhaspatiḥ) [two-five-life](dvipañcāyuḥ) [Budha](budhaḥ) [victory-wealth](jayadhanāni) [and](ca)
+vṛhaspatiḥ=Jupiter dvipañcāyuḥ=ten-year-life budyaḥ=intelligence jayadhanāni=victory-wealth ca=and
 
 ## mukta-m0-p56-v1399
-[Cancer](karka) [Taurus-Libra-Sagittarius](vṛṣatulācāpa) [woman-Lion-planet-pair](strīsiṃhagrāhayugmake)
+karka=Cancer vṛṣa=Taurus tulā=Libra cāpa=Sagittarius strī=woman siṃha=Lion grāha=planet yugmake=in-pair
 
 ## mukta-m0-p56-v1400
-[six-eight-four-yāmas](ṣaḍaṣṭacaturoyāmāt) [four](catuḥ) [zodiac-order](rāśikrameṇa) [but](tu)
+ṣaḍaṣṭacaturoyāmāt=six-eight-four-yāma catū=four rāśikrameṇa=by-zodiac-order tu=but
