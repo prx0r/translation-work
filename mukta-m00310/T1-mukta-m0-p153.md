@@ -2,25 +2,25 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p153-v3801
-[golden+body](kāñcanobhatanuḥ) [quarter+direction](kāṣṭhā) [leprosy+disease+destroying](kuṣṭharogavināśinī)
+[golden+both+body](kāñcanobhatanuḥ) [direction](kāṣṭhā) [leprosy+disease+destroying](kuṣṭharogavināśinī)
 
 ## mukta-m0-p153-v3802
-[skin+garment](carmāmbarā) [cruel+nail](krūranakhā) [partridge+eye](cakorākṣī) [four+arm](caturbhujā)
+[skin+garment](carmāmbarā) [cruel+nail](krūranakhā) [cakora+eye](cakorākṣī) [four+arm](caturbhujā)
 
 ## mukta-m0-p153-v3803
-[cosmic+egg+moving](brahmāṇḍacāriṇī) [manifestation](sphūrtiḥ) [brahmāṇī](brahmāṇī) [brahma+approved](brahmasaṃmatā)
+[universe+moving](brahmāṇḍacāriṇī) [manifestation+brahmāṇī](sphūrtirbrahmāṇī) [brahma+approved](brahmasaṃmatā)
 
 ## mukta-m0-p153-v3804
 [wish+tree+creeper](kalpavallī) [thin+limb](kṛṣāṅgī) [wish+tree+dwelling](kalpapādapavāsinī)
 
 ## mukta-m0-p153-v3805
-[prosperity+queen](bhūtirājñī) [universe+queen](viśvarājñī) [world+queen](lokarājñī) [śiva+refuge](śivāśrayā)
+[being+queen](bhūtirājñī) [universe+queen](viśvarājñī) [world+queen](lokarājñī) [śiva+refuge](śivāśrayā)
 
 ## mukta-m0-p153-v3806
 [serpent+queen](nāgarājñī) [lineage+queen](vaṃśarājñī) [hero+queen](vīrarājñī) [dust+loving](rajaḥpriyā)
 
 ## mukta-m0-p153-v3807
-[wealth+queen](vasurājñī) [truth+queen](satyarājñī) [austerity+queen](taporājñī) [japa+loving](japapriyā)
+[wealth+queen](vasurājñī) [truth+queen](satyarājñī) [austerity+queen](taporājñī) [mantra+loving](japapriyā)
 
 ## mukta-m0-p153-v3808
 [compassion+maker](dayākarā)
@@ -35,13 +35,13 @@
 [supreme+queen](parārājñī) [yakṣa+queen](yakṣarājñī) [being+queen](bhūtarājñī) [śiva+seat](śivāsanā)
 
 ## mukta-m0-p153-v3812
-[sky+queen](ākāśarājñī) [king+lord](rājeśī) [king+of+kings](rājarājñī) [love+pleasing](ratipriyā)
+[space+queen](ākāśarājñī) [king+queen](rājeśī) [king+of+kings](rājarājñī) [love+loving](ratipriyā)
 
 ## mukta-m0-p153-v3813
-[accomplished+queen](siddharājñī) [radiance+queen](vibhārājñī) [splendor+queen](tejorājñī) [shining](vibhāmayī)
+[perfected+queen](siddharājñī) [radiance+queen](vibhārājñī) [splendor+queen](tejorājñī) [illuminating](vibhāmayī)
 
 ## mukta-m0-p153-v3814
-[planet+queen](graharājñī) [creeper+queen](latārājñī) [tree+queen](vṛkṣarājñī) [wisdom+giving](matipradā)
+[planet+queen](graharājñī) [creeper+queen](latārājñī) [tree+queen](vṛkṣarājñī) [mind+giving](matipradā)
 
 ## mukta-m0-p153-v3815
 [sage+queen](munirājñī) [jewel+queen](ratnarājñī) [age+queen](yugarājñī) [gem+radiance](maṇiprabhā)
@@ -50,13 +50,13 @@
 [point+queen](bindurājñī) [sound+queen](nādarājñī) [self+queen](ātmarājñī) [good+path](sadgatiḥ)
 
 ## mukta-m0-p153-v3817
-[īśāna+queen](īśānarājñī) [king+lord](rājeśī) [svāhā+queen](svāhārājñī) [greater](mahattarā)
+[īśāna+queen](īśānarājñī) [king+queen](rājeśī) [svāhā+queen](svāhārājñī) [greater](mahattarā)
 
 ## mukta-m0-p153-v3818
 [world+queen](jagadrājñī) [principle+queen](tattvarājñī) [speech+queen](vāgrājñī) [universe+form](viśvarūpiṇī)
 
 ## mukta-m0-p153-v3819
-[thus+this](itīdaṃ) [mantra+essence](mantrasarvasvaṃ) [queen+thousand+names](rājñīnāmasahasrakam)
+[thus+this](itīdaṃ) [mantra+essence](mantrasarvasvaṃ) [queen+names+thousand](rājñīnāmasahasrakam)
 
 ## mukta-m0-p153-v3820
 [all+principle+filled](sarvatattvamayaṃ) [holy](puṇyaṃ) [great+sin+destroying](mahāpātakanāśanam)
@@ -68,10 +68,10 @@
 [all+sorrow+flood+pacifying](sarvaduḥkhaughaśamanaṃ) [all+grief+destroying](sarvaśokavināśanam)
 
 ## mukta-m0-p153-v3823
-[far+from](dūrādeva) [flee](palāyante) [misfortunes](vipadaḥ) [enemy+fears](śatrubhītayaḥ)
+[from+afar](dūrādeva) [flee](palāyante) [dangers](vipadaḥ) [enemy+fears](śatrubhītayaḥ)
 
 ## mukta-m0-p153-v3824
-[by+recitation](paṭhanād) [flee+quickly](vidravantyāśu) [great+time+etc](mahākālādiva) [creatures](prajāḥ)
+[by+recitation+flee+quickly](paṭhanādvidravantyāśu) [great+kāla+etc](mahākālādiva) [creatures](prajāḥ)
 
 ## mukta-m0-p153-v3825
-[ganges+bath+thousand](gaṅgāsnānasahasrasya) [cāndrāyaṇa+ten+thousand](cāndrāyaṇāyutasya) [and](ca)
+[gaṅgā+bath+thousand](gaṅgāsnānasahasrasya) [cāndrāyaṇa+ten+thousand](cāndrāyaṇāyutasya) [and](ca)
