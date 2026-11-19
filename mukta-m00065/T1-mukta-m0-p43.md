@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p43-v1051
-[from-veda-part-falling](vedāṃśapātanāt) [corner](koṇa) [with-mortals](marṭāśairatha) [blanket](kambalam)
+[veda-part](vedāṃśa) [falling](pātanāt) [corner](koṇa) [mortal](marṭā) [with](śairatha) [blanket](kambalam)
 
 ## mukta-m0-p43-v1052
-[three-part-entry](tryaṃśapraveśanāt) [from-throat](kaṇṭhāt) [one-by-one-exit](ekaikanirgamaṃ) [hoof](khuram)
+[three-part](tryaṃśa) [entry](praveśanāt) [throat](kaṇṭhāt) [one-by-one](ekaika) [exit](nirgamaṃ) [hoof](khuram)
 
 ## mukta-m0-p43-v1053
 [bell](ghaṇṭāṃ) [and](ca) [girdle](mekhalāṃ) [and](ca) [eva](eva) [make](kuryāt) [horns](śṛṅgāṇi) [from-corner](koṇataḥ)
 
 ## mukta-m0-p43-v1054
-[pendant-attached](prālambyāsakta) [revanta](revanta) [with-umbrella-holder-etc](śchatradhārādibhiryutaḥ)
+[pendant](prālambya) [attached](āsakta) [revanta](revanta) [umbrella-holder](śchatradhāra) [etc](ādibhiḥ) [with](yutaḥ)
 
 ## mukta-m0-p43-v1055
-[various-gem-beautiful-wealthy](nānāratnasuveśāḍhyāḥ) [fierce-radiance](caṇḍatejāḥ) [natural-born](svabhāvajāḥ)
+[various](nānā) [jewel](ratna) [well-adorned](suveśāḍhyā) [fierce-radiance](caṇḍatejāḥ) [natural](svabhāvajāḥ)
 
 ## mukta-m0-p43-v1056
-[soma](somaṃ) [gentle](saumyaṃ) [and](tathā) [white](śvetaṃ) [with-pot-garland](kuṇḍikājāpyamālinam)
+[moon](somaṃ) [gentle](saumyaṃ) [and](tathā) [white](śvetaṃ) [pitcher](kuṇḍikā) [japa-garland](jāpyamālinam)
 
 ## mukta-m0-p43-v1057
 [mercury](budhaṃ) [dark](śyāmaṃ) [youthful](yuvānaṃ) [and](ca) [formed](rūpiṇaṃ) [bow-handed](cāpapāṇinam)
 
 ## mukta-m0-p43-v1058
-[yama-one-eyed](yāmyekākṣaṃ) [white](sitaṃ) [venus](śukraṃ) [with-pot-mantra-garland](kuṇḍikāmantramālikam)
+[south](yāmya) [one-eyed](ekākṣaṃ) [white](sitaṃ) [venus](śukraṃ) [pitcher](kuṇḍikā) [mantra-garland](mantramālikam)
 
 ## mukta-m0-p43-v1059
-[turned-face](vyāvṛttāsyaṃ) [with-smile](sahāsyaṃ) [and](ca) [tawny-brow-hair-eye](piṅgabhrūśmaśrulocanam)
+[turned-face](vyāvṛttāsyaṃ) [with-smile](sahāsyaṃ) [and](ca) [tawny-brow-beard-eye](piṅgabhrūśmaśrulocanam)
 
 ## mukta-m0-p43-v1060
-[three-hooded](triphalaṃ) [smoke-colored](dhūmravarṇābhaṃ) [half-man-serpent-form](naranāgārdharūpiṇam)
+[three-hooded](triphalaṃ) [smoke-colored](dhūmravarṇābhaṃ) [man-naga-half-form](naranāgārdharūpiṇam)
 
 ## mukta-m0-p43-v1061
-[these](etāṃstu) [two-armed-all](dvibhujānsarvān) [with-ornaments-garments](bhūṣaṇāmbarasaṃyutān)
+[these](etāṃs) [tu](tu) [two-armed](dvibhujān) [all](sarvān) [ornament-cloth](bhūṣaṇāmbara) [endowed](saṃyutān)
 
 ## mukta-m0-p43-v1062
-[cart](śakaṭaṃ) [medha](medham) [of-these](eteṣām) [below](adho) [vehicle](yānaṃ) [in-order-always](kramātsadā)
+[cart](śakaṭaṃ) [medha](medham) [of-these](eteṣām) [below](adhaḥ) [vehicle](yānaṃ) [in-order](kramāt) [always](sadā)
 
 ## mukta-m0-p43-v1063
-[white](sitaḥ) [thousand-hooded](sahasrabhogaḥ) [lord](īśvaraḥ) [with-blue-lotus](kuvalayānvitaḥ)
+[white](sitaḥ) [thousand-hooded](sahasrabhoga) [lord](īśvaraḥ) [blue-lotus](kuvalaya) [endowed](anvitaḥ)
 
 ## mukta-m0-p43-v1064
-[black](kṛṣṇaḥ) [karkoṭaka](karkoṭakaḥ) [at-throat](kaṇṭhe) [with-three-stripe-line](śulkarekhātrayānvitaḥ)
+[black](kṛṣṇaḥ) [karkoṭaka](karkoṭakaḥ) [at-throat](kaṇṭhe) [three-stripe](śulkarekhātraya) [endowed](anvitaḥ)
 
 ## mukta-m0-p43-v1065
-[conch-colored](śaṅkhavarṇaḥ) [mahāpadma](mahāpadmaḥ) [on-head](mastake) [black-trident-holder](kṛṣṇaśūladhṛk)
+[conch-colored](śaṅkhavarṇaḥ) [great-lotus](mahāpadmaḥ) [on-head](mastake) [black-trident-holder](kṛṣṇaśūladhṛk)
 
 ## mukta-m0-p43-v1066
 [kulika](kulikaḥ) [red-bodied](raktadehaḥ) [tu](tu) [half-moon](candrārdha) [made-head](kṛtamastakaḥ)
 
 ## mukta-m0-p43-v1067
-[rosary-holders](akṣasūtradharāḥ) [all](sarve) [with-pot-tail-joined](kuṇḍikāpucchasaṃyutāḥ)
+[rosary-holders](akṣasūtradharāḥ) [all](sarve) [pitcher-tail](kuṇḍikāpuccha) [endowed](saṃyutāḥ)
 
 ## mukta-m0-p43-v1068
-[servants](bhṛtyāḥ) [and](ca) [single-hooded](ekaphaṇāḥ) [to-be-made](kāryāḥ) [that-form](tadrūpā) [gem-less](maṇivarjitāḥ)
+[servants](bhṛtyāḥ) [ca](ca) [one-hooded](ekaphaṇāḥ) [to-be-made](kāryāḥ) [that-form](tadrūpā) [jewel-less](maṇivarjitāḥ)
 
 ## mukta-m0-p43-v1069
-[with-necklace-earring-armlet](hārakuṇḍalakeyūraiḥ) [always-ornamented](sadābharaṇabhūṣitā)
+[garland-earring-armlet](hārakuṇḍalakeyūraiḥ) [always](sadā) [ornament](bharaṇa) [adorned](bhūṣitā)
 
 ## mukta-m0-p43-v1070
-[such](īdṛśī) [by-mind](manasā) [to-be-made](kāryā) [śrīkaṇṭha-mind-born](śrīkaṇṭhamanasambhavā)
+[thus](īdṛśī) [by-mind](manasā) [to-be-made](kāryā) [śrīkaṇṭha-mind-born](śrīkaṇṭhamanasambhavā)
 
 ## mukta-m0-p43-v1071
-[yoga-band-covered](yogapaṭṭāvṛtaḥ) [lotus-seated](abjasthaḥ) [with-pot](kuṇḍikā) [and](ca) [rosary-holder](akṣasūtrabhṛt)
+[yoga-band](yogapaṭṭa) [covered](āvṛtaḥ) [lotus-seated](abjasthaḥ) [pitcher](kuṇḍikā) [and](ca) [rosary-holder](akṣasūtrabhṛt)
 
 ## mukta-m0-p43-v1072
-[various-ornaments-joined](nānālaṅkārasaṃyuktāv) [utpala-gem-holder-hands](utpalamaṇibhṛtkarau)
+[various](nānā) [ornament](alaṅkāra) [endowed](saṃyuktāv) [utpala](utpala) [jewel](maṇi) [holder-hands](bhṛtkarau)
 
 ## mukta-m0-p43-v1073
-[well-seen](sudṛṣṭā) [speaking](jalpamānā) [ca](ca) [on-lap](svotsaṅge) [son-holder](putradhāriṇī)
+[well-seen](sudṛṣṭā) [speaking](jalpamānā) [ca](ca) [own-lap](svotsaṅge) [son-bearing](putradhāriṇī)
 
 ## mukta-m0-p43-v1074
-[padmā](padmā) [nandana-lotus-seated](nandanapadmastha) [own-limb-goddess](svāṅgādevī) [declared](prakīrtitā)
+[lotus](padmā) [nandana-lotus-seated](nandanapadmastha) [own-limb-goddess](svāṅgādevī) [declared](prakīrtitā)
 
 ## mukta-m0-p43-v1075
-[basukoka-kapi-two](basukokakapidvikṣa) [tiger-tiger-faced](vyāghravyāghrāsyakaṃ) [in-order](kramāt)
+[basukoka](basukoka) [kapidvikṣa](kapidvikṣa) [tiger-tiger-faced](vyāghravyāghrāsyakaṃ) [in-order](kramāt)
