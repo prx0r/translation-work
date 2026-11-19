@@ -2,10 +2,10 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p105-v2601
-[hero-abode](vīrabhūḥ)
+[heroic-ground](vīrabhūḥ)
 
 ## mukta-m0-p105-v2602
-[rest](viśrānteḥ) [supreme](paramā) [ground](bhūmir) [hero-abode](vīrabhūḥ) [on-earth](bhuvi) [honored](pūjitā)
+[of-rest](viśrānteḥ) [supreme](paramā) [ground](bhūmir) [heroic-ground](vīrabhūr) [on-earth](bhuvi) [worshipped](pūjitā)
 
 ## mukta-m0-p105-v2603
 [hero-mother](vīramātā)
@@ -14,34 +14,34 @@
 [heroes](vīrān) [who](yā) [protects](pāti) [fallen](niṣpātān) [causeless-love-filled](nirhetupremanirbhṛtā)
 
 ## mukta-m0-p105-v2605
-[hero-begetter](vīrasūḥ)
+[hero-bearer](vīrasūḥ)
 
 ## mukta-m0-p105-v2606
-[heroes](vīrān) [begets](sūte) [of-people](janānāṃ) [she](sā) [hero-begetter](vīrasūḥ) [some](kāpi) [is-sung](gīyate)
+[heroes](vīrān) [bears](sūte) [of-people](janānāṃ) [she](sā) [hero-bearer](vīrasūḥ) [some](kāpi) [is-sung](gīyate)
 
 ## mukta-m0-p105-v2607
 [hero-delighter](vīranandinī)
 
 ## mukta-m0-p105-v2608
-[whose-devotees](yadbhaktāḥ) [abandon-five-elements-fear](tyaktapañcatvabhayāḥ) [she](sā) [hero-delighter](vīranandinī)
+[whose](yad) [devotees](bhaktāḥ) [abandoned](tyakta) [five-elements-fear](pañcatvabhayāḥ) [she](sā) [hero-delighter](vīranandinī)
 
 ## mukta-m0-p105-v2609
 [victory-glory](jayaśrīḥ)
 
 ## mukta-m0-p105-v2610
-[victory-glory](jayaśrīḥ) [that-very](saiva) [to-us](no) [may-be](bhūyāt) [in-presence](saṃnidhau) [everywhere](sarvataḥ) [always](sadā)
+[victory-glory](jayaśrīḥ) [she](saiva) [to-us](no) [may-be](bhūyāt) [in-presence](saṃnidhau) [everywhere](sarvataḥ) [always](sadā)
 
 ## mukta-m0-p105-v2611
 [victory-initiation](jayadīkṣā)
 
 ## mukta-m0-p105-v2612
-[by-whom-initiated](yaddīkṣitā) [people](janā) [shine](bhānti) [victory-initiation](jayadīkṣā) [thus](iti) [she](sā) [auspicious](śivā)
+[whose](yad) [initiated](dīkṣitā) [people](janā) [shine](bhānti) [victory-initiation](jayadīkṣā) [thus](iti) [she](sā) [auspicious](śivā)
 
 ## mukta-m0-p105-v2613
 [victory-giver](jayadā)
 
 ## mukta-m0-p105-v2614
-[as](yathā) [Arjuna-hood](dhanaṃjayatvaṃ) [not](na) [may-appear](āvirbhūyāt) [unartificial](akṛtrimam)
+[as](yathā) [wealth-victory](dhanaṃjayatvaṃ) [not](na) [may-manifest](āvirbhūyāt) [unartificial](akṛtrimam)
 
 ## mukta-m0-p105-v2615
 [victory-increaser](jayavardhinī)
@@ -53,13 +53,13 @@
 [auspicious-fortunate-form](saubhāgyasubhagākārā)
 
 ## mukta-m0-p105-v2618
-[within-cave](kārevāntargataṃ) [mind](cittaṃ) [motionless](niścalaṃ) [makes](vidadhāti) [who](yā)
+[within-cave](kārevāntargataṃ) [mind](cittaṃ) [motionless](niścalaṃ) [makes](vidadhāti) [she](yā)
 
 ## mukta-m0-p105-v2619
 [all-auspiciousness-increaser](sarvasaubhāgyavardhinī)
 
 ## mukta-m0-p105-v2620
-[companion](sahāyā) [always](sarvadā) [may-she-be](sāstu) [all-auspiciousness-increaser](sarvasaubhāgyavardhinī)
+[companion](sahāyā) [always](sarvadā) [she](sā) [may-be](astu) [all-auspiciousness-increaser](sarvasaubhāgyavardhinī)
 
 ## mukta-m0-p105-v2621
 [welfare-doer](kṣemaṅkarī)
@@ -68,10 +68,10 @@
 [today](adya) [I-am](asmi) [happiness-possessor](sukhabhāk) [immediately](sadyo) [seen](dṛṣṭā) [welfare-doer](kṣemaṅkarī) [when](yadā)
 
 ## mukta-m0-p105-v2623
-[perfection-form](siddhirūpā)
+[accomplishment-form](siddhirūpā)
 
 ## mukta-m0-p105-v2624
-[otherwise](anyathā) [all-perfections-lord](akhilasiddhīśaḥ) [how](kathaṃ) [would-I-be](syāṃ) [by-self-perfection](svātmasiddhitaḥ)
+[otherwise](anyathā) [all-accomplishments-lord](akhilasiddhīśaḥ) [how](kathaṃ) [may-I-be](syāṃ) [self-accomplishment](svātmasiddhitaḥ)
 
 ## mukta-m0-p105-v2625
 [good-fame](satkīrtiḥ)
