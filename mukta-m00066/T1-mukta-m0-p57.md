@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p57-v1401
-[hidden+purpose](guptārthāya) [and](ca) [O-charming-limbed-one](hṛdyāṅgi) [not](na) [but](tu) [truth+understanding](tatvāvabodhane)
+[for-hidden-meaning](guptārthāya) [and](ca) [heart-limbed](hṛdyāṅgi) [not](na) [but](tu) [truth-awakening](tatvāvabodhane)
 
 ## mukta-m0-p57-v1402
-[bliss+tantra](ānaṃdataṃtra) [indeed+in-this+not](evāsminnā) [elsewhere](paratra) [anywhere+accepted](kvacinmataḥ)
+[bliss-tantra](ānaṃdataṃtra) [indeed](eva) [in-this](asminnā) [not](na) [elsewhere](paratra) [anywhere](kvacinmataḥ)
 
 ## mukta-m0-p57-v1403
-[truth+become+this](tatvabhūtamidaṃ) [O-fair-browed-one](subhruvo) [great+sacrifice](mahāyāga) [declared](īritaḥ)
+[truth-born](tatvabhūtamidaṃ) [beautiful-browed](subhruyo) [great-sacrifice](mahāyāga) [declared](īritaḥ)
 
 ## mukta-m0-p57-v1404
-[of-this](asya) [of-tantra](taṃtrasya) [principles](tatvāni) [doctrine](siddhāntaś) [and](ca) [is-shown](pradarśyate)
+[of-this](asya) [tantra](taṃtrasya) [truths](tatvāni) [and-doctrine](siddhāntaśca) [shown](pradarśyate)
 
 ## mukta-m0-p57-v1405
-[manifestation+disappearance](āvirbbhāvatirobhāvau) [occur](varttete) [in-all+things](sarvavastuṣu)
+[manifestation](āvirbbhāva) [and-concealment](tirobhāvau) [occur](varttete) [in-all-things](sarvavastuṣu)
 
 ## mukta-m0-p57-v1406
-[not](na) [Devadatta](devadatto) [from-house](bhavanān) [going-out](nirgacchan) [previously+connected](pūrvasaṅgataḥ)
+[not](na) [devadatta](devadatto) [from-house](bhavanānnirgacchan) [previously-joined](pūrvasaṅgataḥ)
 
 ## mukta-m0-p57-v1407
-[not](na) [Devadatta](devadatto) [from-house](bhavanāt) [entering+disappeared](praveśanatirohitaḥ)
+[not](na) [devadatta](devadatto) [from-house](bhavanāt) [entering-concealed](praveśanatirohitaḥ)
 
 ## mukta-m0-p57-v1408
-[manifestation](āvirbhāvaṃ) [without+origination](vinotpattir) [other+any](anyākāpi) [not](na) [is-found](vidyate)
+[manifestation](āvirbhāvaṃ) [without](vinā) [origin](utpattiranyākāpina) [not](na) [exists](vidyate)
 
 ## mukta-m0-p57-v1409
-[that+investigation](tadvicāre) [being-done](kṛte) [not+indeed](naiva) [elegance](cārutvam) [follows](anudhāvati)
+[that-inquiry](tadvicāre) [done](kṛte) [not-indeed](naiva) [beauty](cārutvamanudhāvati)
 
 ## mukta-m0-p57-v1410
-[produced-ness](utpannatvaṃ) [distinct-ness](viśiṣṭatvaṃ) [then+indeed+at-first](tadaivādau) [shown](pradarśitam)
+[produced-ness](utpannatvaṃ) [distinctness](viśiṣṭatvaṃ) [then-indeed-at-first](tadaivādau) [shown](pradarśitam)
 
 ## mukta-m0-p57-v1411
-[not](na) [but](tu) [of-them](teṣāṃ) [reality](vāstavatvaṃ) [convention+sole+born-from](vyavahāraikajanmanā)
+[not](na) [but](tu) [their](teṣāṃ) [reality](vāstavatvaṃ) [conventional-only-birth](vyavahāraikajanmanā)
 
 ## mukta-m0-p57-v1412
-[direction](diśaś) [and+in-worship](cacarcane) [space](deśo) [of-sky](nabhasaś) [and+in-worship](carcane) [wind](marut)
+[directions](diśaścacarcane) [region](deśo) [sky](nabhasaścarcane) [wind](marut)
 
 ## mukta-m0-p57-v1413
-[earth+water+fire](bhūmirāponalo) [air](vāyuḥ) [sound](śabdaś) [and+darkness](catimiraṃ) [mind](manaḥ)
+[earth](bhūmirāponalo) [water](vāyuḥ) [sound](śabdaścatimiraṃ) [darkness](manaḥ)
 
 ## mukta-m0-p57-v1414
-[this](etad) [by-difference+indeed](bhidaiva) [of-all](sarveṣāṃ) [of-objects](padārthānāṃ) [manifestation](vijṛmbhaṇam)
+[this](etad) [indeed](bhidaiva) [of-all](sarveṣāṃ) [categories](padārthānāṃ) [unfolding](vijṛmbhaṇam)
 
 ## mukta-m0-p57-v1415
-[aggregate+form+action+etc.](saṅghatarūpakarmādyā) [not](na) [of-them+is](teṣāmasti) [countability](gaṇyatā)
+[aggregate-form-action-etc](saṅghatarūpakarmādyā) [not](na) [their](teṣāmasti) [countability](gaṇyatā)
 
 ## mukta-m0-p57-v1416
-[wind](maruc) [and+darkness](catimiran) [not+indeed](naiva) [doubt](saṃścayaṃ) [anywhere+deserve](kvacidarhataḥ)
+[wind-darkness-not-indeed](maruccatimirannaiva) [support](saṃścayaṃ) [anywhere](kvacidarhataḥ)
 
 ## mukta-m0-p57-v1417
-[nine+substances](navadravyāṇi) [and+these](caitāni) [declared](kīrttitāni) [in-great-scripture](mahāgame)
+[nine-substances](navadravyāṇi) [and-these](caitāni) [declared](kīrttitāni) [great-agama](mahāgame)
 
 ## mukta-m0-p57-v1418
-[of-these+indeed](eteṣāmeva) [by-difference](bhedena) [various+number](nānāsaṃkhyāṃ) [having-made](vidhāya) [and](ca)
+[of-these](eteṣāmeva) [by-difference](bhedena) [various-number](nānāsaṃkhyāṃ) [having-made](vidhāya) [and](ca)
 
 ## mukta-m0-p57-v1419
-[perception+measure+experience](pratyakṣamānānubhavaḥ) [in-all+in-these](sarveṣveteṣu) [O-Pārvati](pārvati)
+[direct-perception](pratyakṣamānānubhavaḥ) [in-all-these](sarveṣveteṣu) [o-parvati](pārvati)
 
 ## mukta-m0-p57-v1420
-[in-water+darkness](jaladhvānte) [in-white+wind](śuklānile) [earth+purity](bhūśuciḥ) [variegated+form](śabalākṛti)
+[in-water-darkness](jaladhvānte) [white-wind](śuklānile) [earth-pure](bhūśuciḥ) [variegated-form](śabalākṛti)
 
 ## mukta-m0-p57-v1421
-[touch](sparśaḥ) [perception+object](pratyakṣaviṣayaḥ) [wind](pavanaḥ) [O-mountain-daughter](parvatātmaje)
+[touch](sparśaḥ) [direct-perceptible](pratyakṣaviṣayaḥ) [wind](pavanaḥ) [mountain-daughter](parvatātmaje)
 
 ## mukta-m0-p57-v1422
-[mind+life+dependent](manojīvavaśāḥ) [all](sarve) [recognized](pratipannāḥ) [by-themselves](svayaṃ) [valid-cognitions](pramāḥ)
+[mind-life-controlled](manojīvavaśāḥ) [all](sarve) [accepted](pratipannāḥ) [by-themselves](svayaṃ) [valid-cognitions](pramāḥ)
 
 ## mukta-m0-p57-v1423
-[there](tatra) [word](śabdas) [but+trustworthy+speech](tvāptavāco) [Veda+knowledge+scripture+nature](vedavidyāgamātmakaḥ)
+[there](tatra) [sound](śabdastvāptavāco) [veda-knowledge-agama-nature](vedavidyāgamātmakaḥ)
 
 ## mukta-m0-p57-v1424
-[in-distinct+part](viśiṣṭabhāge) [with-that+seen](sādṛṣṭe) [seeing](darśanaṃ) [of-the-participant+because](bhāginoyataḥ)
+[in-distinct-part](viśiṣṭabhāge) [seen](sādṛṣṭe) [seeing](darśanaṃ) [of-part-holders](bhāginoyataḥ)
 
 ## mukta-m0-p57-v1425
-[seen+all+own+form](dṛṣṭasarvasvarūpasya) [of-pot](ghaṭasya) [perceptibility+is](adhyakṣatāsthi) [if](cet)
+[seen-all-form](dṛṣṭasarvasvarūpasya) [pot](ghaṭasyādhyakṣatāsthi) [if](cet)
