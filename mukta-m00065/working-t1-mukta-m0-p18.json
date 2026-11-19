@@ -8,7 +8,7 @@
 "tokens": [
 {
 "surface": "patane",
-"quick_gloss": "falling"
+"quick_gloss": "in-falling"
 },
 {
 "surface": "madhyabhaṅgaḥ",
@@ -16,7 +16,7 @@
 },
 {
 "surface": "syāt",
-"quick_gloss": "is"
+"quick_gloss": "would-be"
 },
 {
 "surface": "tadā",
@@ -24,7 +24,7 @@
 },
 {
 "surface": "homo",
-"quick_gloss": "homa"
+"quick_gloss": "oblation"
 },
 {
 "surface": "vidhīyate",
@@ -45,23 +45,15 @@
 },
 {
 "surface": "pūrṇāhutiṃ",
-"quick_gloss": "full-offering"
+"quick_gloss": "full-oblation"
 },
 {
-"surface": "ca",
-"quick_gloss": "and"
+"surface": "cāpi",
+"quick_gloss": "and-also"
 },
 {
-"surface": "api",
-"quick_gloss": "also"
-},
-{
-"surface": "śivena",
-"quick_gloss": "by-śiva"
-},
-{
-"surface": "aśivahāriṇā",
-"quick_gloss": "removing-inauspicious"
+"surface": "śivenāśivahāriṇā",
+"quick_gloss": "by-auspicious-inauspicious-removing"
 }
 ]
 },
@@ -74,7 +66,7 @@
 "tokens": [
 {
 "surface": "śilādāne",
-"quick_gloss": "stone-gift"
+"quick_gloss": "stone-giving"
 },
 {
 "surface": "tathā",
@@ -86,7 +78,7 @@
 },
 {
 "surface": "dārvādāne",
-"quick_gloss": "wood-gift"
+"quick_gloss": "wood-giving"
 },
 {
 "surface": "yathoditā",
@@ -115,7 +107,7 @@
 },
 {
 "surface": "sthitāḥ",
-"quick_gloss": "situated"
+"quick_gloss": "standing"
 }
 ]
 },
@@ -128,7 +120,7 @@
 "tokens": [
 {
 "surface": "yuvatī",
-"quick_gloss": "young"
+"quick_gloss": "young-woman"
 },
 {
 "surface": "sā",
@@ -169,7 +161,7 @@
 },
 {
 "surface": "dadyāt",
-"quick_gloss": "gives"
+"quick_gloss": "should-give"
 },
 {
 "surface": "śilā",
@@ -177,7 +169,7 @@
 },
 {
 "surface": "nūnaṃ",
-"quick_gloss": "indeed"
+"quick_gloss": "certainly"
 },
 {
 "surface": "taruṇī",
@@ -231,7 +223,7 @@
 "tokens": [
 {
 "surface": "tāruṇam",
-"quick_gloss": "youth-one"
+"quick_gloss": "young-one"
 },
 {
 "surface": "ekam",
@@ -263,8 +255,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "snigdhānimnā",
-"quick_gloss": "smooth-low"
+"surface": "snigdhā",
+"quick_gloss": "smooth"
+},
+{
+"surface": "nimnā",
+"quick_gloss": "concave"
 },
 {
 "surface": "śilā",
@@ -272,7 +268,7 @@
 },
 {
 "surface": "dhanyā",
-"quick_gloss": "blessed"
+"quick_gloss": "auspicious"
 },
 {
 "surface": "siktā",
@@ -297,7 +293,7 @@
 },
 {
 "surface": "niviḍāṅgī",
-"quick_gloss": "compact-limbed"
+"quick_gloss": "dense-limbed"
 },
 {
 "surface": "ca",
@@ -351,11 +347,11 @@
 },
 {
 "surface": "abjājyagovarvo",
-"quick_gloss": "lotus-ghee-cow-urine"
+"quick_gloss": "lotus-ghee-cow?"
 },
 {
 "surface": "mūtragandhāḥ",
-"quick_gloss": "urine-smell"
+"quick_gloss": "urine-smells"
 },
 {
 "surface": "śubhāḥ",
@@ -400,7 +396,7 @@
 },
 {
 "surface": "prayacchati",
-"quick_gloss": "gives"
+"quick_gloss": "bestows"
 }
 ]
 },
@@ -421,7 +417,7 @@
 },
 {
 "surface": "dhanadeśendra",
-"quick_gloss": "wealth-god-direction"
+"quick_gloss": "wealth-giver?"
 },
 {
 "surface": "dik",
@@ -453,16 +449,16 @@
 "quick_gloss": "deer"
 },
 {
-"surface": "tasyāḥ",
-"quick_gloss": "of-her"
+"surface": "tasya",
+"quick_gloss": "its"
 },
 {
 "surface": "taddevaḥ",
-"quick_gloss": "that-god"
+"quick_gloss": "deity"
 },
 {
 "surface": "śaśalāñchanaḥ",
-"quick_gloss": "moon"
+"quick_gloss": "moon-marked"
 }
 ]
 },
@@ -474,12 +470,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "asyāḥ",
-"quick_gloss": "of-her"
+"surface": "asyā",
+"quick_gloss": "its"
 },
 {
 "surface": "ṛkṣaṃ",
-"quick_gloss": "constellation"
+"quick_gloss": "nakṣatra"
 },
 {
 "surface": "bhavet",
@@ -523,12 +519,12 @@
 "quick_gloss": "and"
 },
 {
-"surface": "asyāḥ",
-"quick_gloss": "of-her"
+"surface": "asyā",
+"quick_gloss": "its"
 },
 {
 "surface": "devaḥ",
-"quick_gloss": "god"
+"quick_gloss": "deity"
 },
 {
 "surface": "bhagasaṃjñakaḥ",
@@ -556,20 +552,24 @@
 "quick_gloss": "and"
 },
 {
-"surface": "asyāḥ",
-"quick_gloss": "of-her"
+"surface": "asyā",
+"quick_gloss": "its"
 },
 {
 "surface": "devau",
-"quick_gloss": "two-gods"
+"quick_gloss": "deities"
 },
 {
-"surface": "caivāśvinau",
-"quick_gloss": "indeed-aśvins"
+"surface": "ca",
+"quick_gloss": "also"
+},
+{
+"surface": "aśvinau",
+"quick_gloss": "aśvins"
 },
 {
 "surface": "matau",
-"quick_gloss": "considered"
+"quick_gloss": "regarded"
 }
 ]
 },
@@ -594,7 +594,7 @@
 },
 {
 "surface": "niviḍāṅgī",
-"quick_gloss": "compact-limbed"
+"quick_gloss": "dense-limbed"
 },
 {
 "surface": "manoramā",
@@ -623,11 +623,11 @@
 },
 {
 "surface": "gajakaṇṭhaḥ",
-"quick_gloss": "elephant-neck"
+"quick_gloss": "elephant-throat?"
 },
 {
 "surface": "pamasvanaḥ",
-"quick_gloss": "?"
+"quick_gloss": "like-sound"
 }
 ]
 },
@@ -660,7 +660,7 @@
 },
 {
 "surface": "vibhūtidaḥ",
-"quick_gloss": "prosperity-giver"
+"quick_gloss": "glory-giving"
 }
 ]
 },
@@ -717,7 +717,7 @@
 "quick_gloss": "rough"
 },
 {
-"surface": "tvarju",
+"surface": "tva rju",
 "quick_gloss": "straight"
 },
 {
@@ -743,7 +743,7 @@
 "tokens": [
 {
 "surface": "śeṣāṇāṃ",
-"quick_gloss": "of-rest"
+"quick_gloss": "remaining"
 },
 {
 "surface": "strīśilāḥ",
@@ -754,16 +754,12 @@
 "quick_gloss": "declared"
 },
 {
-"surface": "pīṭhikādyāḥ",
+"surface": "pīṭhikādyāśca",
 "quick_gloss": "pedestal-etc"
 },
 {
-"surface": "ca",
-"quick_gloss": "and"
-},
-{
 "surface": "śūlinaḥ",
-"quick_gloss": "trident-bearer"
+"quick_gloss": "of-śūlin"
 }
 ]
 },
@@ -783,12 +779,8 @@
 "quick_gloss": "white"
 },
 {
-"surface": "śeṣāḥ",
-"quick_gloss": "rest"
-},
-{
-"surface": "ca",
-"quick_gloss": "and"
+"surface": "śeṣāśca",
+"quick_gloss": "remaining"
 },
 {
 "surface": "śubhadāḥ",
