@@ -8,7 +8,7 @@
 "tokens": [
 {
 "surface": "guptārthāya",
-"quick_gloss": "hidden-meaning-for"
+"quick_gloss": "hidden-meaning"
 },
 {
 "surface": "ca",
@@ -74,7 +74,7 @@
 "tokens": [
 {
 "surface": "tatvabhūtamidaṃ",
-"quick_gloss": "truth-reality"
+"quick_gloss": "truth-being"
 },
 {
 "surface": "subhruyo",
@@ -98,16 +98,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "asya+taṃtrasya",
-"quick_gloss": "of-this-tantra"
+"surface": "asya",
+"quick_gloss": "of-this"
+},
+{
+"surface": "taṃtrasya",
+"quick_gloss": "tantra"
 },
 {
 "surface": "tatvāni",
-"quick_gloss": "principles"
+"quick_gloss": "truths"
 },
 {
 "surface": "siddhāntaśca",
-"quick_gloss": "and-doctrine"
+"quick_gloss": "doctrine"
 },
 {
 "surface": "pradarśyate",
@@ -123,12 +127,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "āvirbbhāva",
+"surface": "āvirbbhāvatirobhāvau",
 "quick_gloss": "manifestation"
-},
-{
-"surface": "tirobhāvau",
-"quick_gloss": "and-concealment"
 },
 {
 "surface": "varttete",
@@ -186,7 +186,7 @@
 },
 {
 "surface": "praveśanatirohitaḥ",
-"quick_gloss": "entering-concealed"
+"quick_gloss": "entering-hidden"
 }
 ]
 },
@@ -207,7 +207,7 @@
 },
 {
 "surface": "utpattiranyākāpina",
-"quick_gloss": "origin"
+"quick_gloss": "birth"
 },
 {
 "surface": "na",
@@ -232,11 +232,15 @@
 },
 {
 "surface": "kṛte",
-"quick_gloss": "made"
+"quick_gloss": "done"
 },
 {
-"surface": "naiva",
-"quick_gloss": "not-indeed"
+"surface": "na",
+"quick_gloss": "not"
+},
+{
+"surface": "eva",
+"quick_gloss": "indeed"
 },
 {
 "surface": "cārutvamanudhāvati",
@@ -253,11 +257,11 @@
 "tokens": [
 {
 "surface": "utpannatvaṃ",
-"quick_gloss": "producedness"
+"quick_gloss": "born-state"
 },
 {
 "surface": "viśiṣṭatvaṃ",
-"quick_gloss": "distinctness"
+"quick_gloss": "distinct-state"
 },
 {
 "surface": "tadaivādau",
@@ -290,11 +294,11 @@
 },
 {
 "surface": "vāstavatvaṃ",
-"quick_gloss": "reality"
+"quick_gloss": "realness"
 },
 {
 "surface": "vyavahāraikajanmanā",
-"quick_gloss": "conventional-only-birth"
+"quick_gloss": "conventional-birth"
 }
 ]
 },
@@ -339,7 +343,7 @@
 "quick_gloss": "water"
 },
 {
-"surface": "analo",
+"surface": "nalo",
 "quick_gloss": "fire"
 },
 {
@@ -373,7 +377,7 @@
 },
 {
 "surface": "bhidaiva",
-"quick_gloss": "indeed"
+"quick_gloss": "only"
 },
 {
 "surface": "sarveṣāṃ",
@@ -398,7 +402,7 @@
 "tokens": [
 {
 "surface": "saṅghatarūpakarmādyā",
-"quick_gloss": "aggregate-form-action-etc"
+"quick_gloss": "aggregate-form"
 },
 {
 "surface": "na",
@@ -423,7 +427,7 @@
 "tokens": [
 {
 "surface": "maruccatimirannaiva",
-"quick_gloss": "wind-darkness-not-indeed"
+"quick_gloss": "wind-darkness"
 },
 {
 "surface": "saṃścayaṃ",
@@ -448,7 +452,7 @@
 },
 {
 "surface": "caitāni",
-"quick_gloss": "and-these"
+"quick_gloss": "these"
 },
 {
 "surface": "kīrttitāni",
@@ -473,7 +477,7 @@
 },
 {
 "surface": "bhedena",
-"quick_gloss": "by-distinction"
+"quick_gloss": "by-difference"
 },
 {
 "surface": "nānāsaṃkhyāṃ",
@@ -498,7 +502,7 @@
 "tokens": [
 {
 "surface": "pratyakṣamānānubhavaḥ",
-"quick_gloss": "direct-perception-experience"
+"quick_gloss": "direct-perception"
 },
 {
 "surface": "sarveṣveteṣu",
@@ -548,7 +552,7 @@
 },
 {
 "surface": "pratyakṣaviṣayaḥ",
-"quick_gloss": "direct-perception-object"
+"quick_gloss": "direct-object"
 },
 {
 "surface": "pavanaḥ",
@@ -556,7 +560,7 @@
 },
 {
 "surface": "parvatātmaje",
-"quick_gloss": "mountain-born"
+"quick_gloss": "mountain-daughter"
 }
 ]
 },
@@ -605,10 +609,6 @@
 "quick_gloss": "sound"
 },
 {
-"surface": "āptavāco",
-"quick_gloss": "authoritative-speech"
-},
-{
 "surface": "vedavidyāgamātmakaḥ",
 "quick_gloss": "veda-knowledge-scripture"
 }
@@ -623,7 +623,7 @@
 "tokens": [
 {
 "surface": "viśiṣṭabhāge",
-"quick_gloss": "in-distinct-part"
+"quick_gloss": "distinct-part"
 },
 {
 "surface": "sādṛṣṭe",
@@ -635,7 +635,7 @@
 },
 {
 "surface": "bhāginoyataḥ",
-"quick_gloss": "of-part-holders"
+"quick_gloss": "of-part"
 }
 ]
 },
@@ -648,7 +648,7 @@
 "tokens": [
 {
 "surface": "dṛṣṭasarvasvarūpasya",
-"quick_gloss": "seen-all-forms"
+"quick_gloss": "seen-all-form"
 },
 {
 "surface": "ghaṭasyādhyakṣatāsthi",

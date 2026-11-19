@@ -7,28 +7,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "śrīcakre",
-"quick_gloss": "śrī-cakra-in"
+"surface": "śrīcakre'pi",
+"quick_gloss": "in-śrīcakra"
 },
 {
-"surface": "api",
-"quick_gloss": "even"
-},
-{
-"surface": "piven",
-"quick_gloss": "drink"
-},
-{
-"surface": "madyaṃ",
-"quick_gloss": "wine"
+"surface": "pivenmadyaṃ",
+"quick_gloss": "drink-wine"
 },
 {
 "surface": "śaktiyuktaṃ",
-"quick_gloss": "śakti-joined"
+"quick_gloss": "śakti-united"
 },
 {
 "surface": "maheśvari",
-"quick_gloss": "great-goddess"
+"quick_gloss": "O-maheśvarī"
 }
 ]
 },
@@ -40,12 +32,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "c",
-"quick_gloss": "and"
-},
-{
-"surface": "uttamaṃ",
-"quick_gloss": "best"
+"surface": "cottamaṃ",
+"quick_gloss": "and-best"
 },
 {
 "surface": "madhyamaṃ",
@@ -56,20 +44,8 @@
 "quick_gloss": "to-be-known"
 },
 {
-"surface": "ca",
-"quick_gloss": "and"
-},
-{
-"surface": "adhamaṃ",
-"quick_gloss": "worst"
-},
-{
-"surface": "ca",
-"quick_gloss": "and"
-},
-{
-"surface": "adhamādhamam",
-"quick_gloss": "worst-of-worst"
+"surface": "cādhamañcādhamādhamam",
+"quick_gloss": "and-lowest-and-lowest-lowest"
 }
 ]
 },
@@ -81,12 +57,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "cakram",
-"quick_gloss": "circle"
-},
-{
-"surface": "idaṃ",
-"quick_gloss": "this"
+"surface": "cakromamidaṃ",
+"quick_gloss": "this-cakra"
 },
 {
 "surface": "jñeyaṃ",
@@ -94,23 +66,23 @@
 },
 {
 "surface": "sā",
-"quick_gloss": "she"
+"quick_gloss": "she-Kālī"
 },
 {
 "surface": "kālī",
-"quick_gloss": "kālī"
+"quick_gloss": "and-he-Śaṅkara"
 },
 {
 "surface": "sa",
-"quick_gloss": "he"
+"quick_gloss": "sa"
 },
 {
 "surface": "ca",
-"quick_gloss": "and"
+"quick_gloss": "ca"
 },
 {
 "surface": "śaṅkaraḥ",
-"quick_gloss": "śaṅkara"
+"quick_gloss": "śaṅkaraḥ"
 }
 ]
 },
@@ -123,15 +95,15 @@
 "tokens": [
 {
 "surface": "ekāṃ",
-"quick_gloss": "one"
+"quick_gloss": "one-śakti"
 },
 {
 "surface": "śaktiṃ",
-"quick_gloss": "śakti"
+"quick_gloss": "śaktiṃ"
 },
 {
 "surface": "samānīya",
-"quick_gloss": "bring"
+"quick_gloss": "having-brought"
 },
 {
 "surface": "ekaikaḥ",
@@ -139,7 +111,7 @@
 },
 {
 "surface": "sādhakaḥ",
-"quick_gloss": "practitioner"
+"quick_gloss": "sādhaka"
 },
 {
 "surface": "sadā",
@@ -169,31 +141,35 @@
 "tokens": [
 {
 "surface": "adhamaṃ",
-"quick_gloss": "worst"
+"quick_gloss": "lowest"
 },
 {
 "surface": "cakravijñeyaṃ",
-"quick_gloss": "circle-known"
+"quick_gloss": "cakra"
+},
+{
+"surface": "vijñeyaṃ",
+"quick_gloss": "to-be-known"
 },
 {
 "surface": "sā",
-"quick_gloss": "she"
+"quick_gloss": "she-sādhyā"
 },
 {
 "surface": "sādhyā",
-"quick_gloss": "object"
+"quick_gloss": "sādhyā"
 },
 {
 "surface": "sa",
-"quick_gloss": "he"
+"quick_gloss": "he-sādhaka"
 },
 {
 "surface": "ca",
-"quick_gloss": "and"
+"quick_gloss": "ca"
 },
 {
 "surface": "sādhakaḥ",
-"quick_gloss": "practitioner"
+"quick_gloss": "sādhakaḥ"
 }
 ]
 },
@@ -205,16 +181,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "śaktihīnaṃ",
+"surface": "śaktihīnañca",
 "quick_gloss": "śakti-less"
 },
 {
-"surface": "ca",
-"quick_gloss": "and"
-},
-{
-"surface": "yatkakraṃ",
-"quick_gloss": "which-circle"
+"surface": "yatcakraṃ",
+"quick_gloss": "yat-cakra"
 },
 {
 "surface": "kevalaṃ",
@@ -226,7 +198,7 @@
 },
 {
 "surface": "śive",
-"quick_gloss": "o-śiva"
+"quick_gloss": "O-Śive"
 }
 ]
 },
@@ -242,20 +214,12 @@
 "quick_gloss": "in-middle"
 },
 {
-"surface": "navaśaktiṃ",
+"surface": "navaśaktiñca",
 "quick_gloss": "nine-śaktis"
 },
 {
-"surface": "ca",
-"quick_gloss": "and"
-},
-{
-"surface": "hīne",
+"surface": "hīne'pi",
 "quick_gloss": "in-deficient"
-},
-{
-"surface": "api",
-"quick_gloss": "even"
 },
 {
 "surface": "śaktimātrakam",
@@ -272,27 +236,23 @@
 "tokens": [
 {
 "surface": "tasmin",
-"quick_gloss": "in-that"
+"quick_gloss": "in-that-cakra"
 },
 {
 "surface": "cakre",
-"quick_gloss": "circle"
+"quick_gloss": "cakre"
 },
 {
-"surface": "sādhakaḥ",
-"quick_gloss": "practitioner"
-},
-{
-"surface": "api",
-"quick_gloss": "even"
+"surface": "sādhako'pi",
+"quick_gloss": "sādhaka"
 },
 {
 "surface": "kadācinna",
-"quick_gloss": "never"
+"quick_gloss": "ever"
 },
 {
 "surface": "praveśayet",
-"quick_gloss": "enter"
+"quick_gloss": "not-enter"
 }
 ]
 },
@@ -309,7 +269,7 @@
 },
 {
 "surface": "maithunaṃ",
-"quick_gloss": "union"
+"quick_gloss": "maithuna"
 },
 {
 "surface": "bhadraṃ",
@@ -317,7 +277,7 @@
 },
 {
 "surface": "śivatvaṃ",
-"quick_gloss": "śiva-nature"
+"quick_gloss": "śiva-state"
 },
 {
 "surface": "yāti",
@@ -325,7 +285,7 @@
 },
 {
 "surface": "sādhakaḥ",
-"quick_gloss": "practitioner"
+"quick_gloss": "sādhaka"
 }
 ]
 },
@@ -337,12 +297,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "vīracakram",
-"quick_gloss": "vīra-circle"
-},
-{
-"surface": "idaṃ",
-"quick_gloss": "this"
+"surface": "vīracakramidaṃ",
+"quick_gloss": "vīra-cakra"
 },
 {
 "surface": "proktaṃ",
@@ -350,7 +306,7 @@
 },
 {
 "surface": "devacakraṃ",
-"quick_gloss": "deva-circle"
+"quick_gloss": "deva-cakra"
 },
 {
 "surface": "tataḥ",
@@ -375,15 +331,15 @@
 },
 {
 "surface": "mahācakraṃ",
-"quick_gloss": "great-circle"
+"quick_gloss": "great-cakra"
 },
 {
 "surface": "śrīcakraṃ",
-"quick_gloss": "śrī-circle"
+"quick_gloss": "śrīcakra"
 },
 {
 "surface": "parameśvari",
-"quick_gloss": "supreme-goddess"
+"quick_gloss": "O-paramēśvarī"
 }
 ]
 },
@@ -400,7 +356,7 @@
 },
 {
 "surface": "śrīsarvānandanāthaviracite",
-"quick_gloss": "śrī-sarvānanda-nātha-composed"
+"quick_gloss": "śrī-sarvānandanātha-composed"
 },
 {
 "surface": "sarvollāse",
@@ -408,7 +364,7 @@
 },
 {
 "surface": "unviṃśatyullāsaḥ",
-"quick_gloss": "nineteenth-chapter"
+"quick_gloss": "twenty-first-ullāsa"
 }
 ]
 },
@@ -429,7 +385,7 @@
 },
 {
 "surface": "careccakraṃ",
-"quick_gloss": "perform-circle"
+"quick_gloss": "perform-cakra"
 },
 {
 "surface": "yatra",
@@ -441,7 +397,7 @@
 },
 {
 "surface": "devatāgṛha",
-"quick_gloss": "deity-house"
+"quick_gloss": "devatā-house"
 }
 ]
 },
@@ -454,7 +410,7 @@
 "tokens": [
 {
 "surface": "devatāvṛkṣamūleṣu",
-"quick_gloss": "at-deity-tree-roots"
+"quick_gloss": "devatā-tree-roots"
 },
 {
 "surface": "sthānaṃ",
@@ -466,7 +422,7 @@
 },
 {
 "surface": "prayatnataḥ",
-"quick_gloss": "diligently"
+"quick_gloss": "carefully"
 }
 ]
 },
@@ -479,7 +435,7 @@
 "tokens": [
 {
 "surface": "sādhakasya",
-"quick_gloss": "practitioner's"
+"quick_gloss": "of-sādhaka"
 },
 {
 "surface": "gṛhaṃ",
@@ -487,15 +443,11 @@
 },
 {
 "surface": "bhadre",
-"quick_gloss": "auspicious"
+"quick_gloss": "O-bhadre"
 },
 {
-"surface": "śrīcakrasthānam",
+"surface": "śrīcakrasthānamuttamam",
 "quick_gloss": "śrīcakra-place"
-},
-{
-"surface": "uttamam",
-"quick_gloss": "best"
 }
 ]
 },
@@ -516,7 +468,7 @@
 },
 {
 "surface": "yatsthānaṃ",
-"quick_gloss": "which-place"
+"quick_gloss": "whatever-place"
 },
 {
 "surface": "tasyājñayā",
@@ -537,11 +489,11 @@
 "tokens": [
 {
 "surface": "tadudvegasya",
-"quick_gloss": "of-that-distress"
+"quick_gloss": "that-distress"
 },
 {
 "surface": "yatpāpaṃ",
-"quick_gloss": "which-sin"
+"quick_gloss": "whatever-sin"
 },
 {
 "surface": "tatpāpaṃ",
@@ -566,7 +518,7 @@
 "tokens": [
 {
 "surface": "śavāsanādhikaṃ",
-"quick_gloss": "corpse-seat-superior"
+"quick_gloss": "śavāsana-superior"
 },
 {
 "surface": "jñeyaṃ",
@@ -574,7 +526,7 @@
 },
 {
 "surface": "latāgehapraveśanam",
-"quick_gloss": "creeper-house-entering"
+"quick_gloss": "creeper-house-entry"
 }
 ]
 },
@@ -591,11 +543,11 @@
 },
 {
 "surface": "maheśāni",
-"quick_gloss": "o-great-goddess"
+"quick_gloss": "O-maheśānī"
 },
 {
 "surface": "trikoṇañcāsanaṃ",
-"quick_gloss": "triangle-seat"
+"quick_gloss": "triangle"
 },
 {
 "surface": "śubham",
@@ -623,12 +575,8 @@
 "quick_gloss": "indeed"
 },
 {
-"surface": "vīrāsanam",
-"quick_gloss": "vīra-seat"
-},
-{
-"surface": "udīritam",
-"quick_gloss": "declared"
+"surface": "vīrāsanamudīritam",
+"quick_gloss": "vīrāsana"
 }
 ]
 },
@@ -645,7 +593,7 @@
 },
 {
 "surface": "bhadre",
-"quick_gloss": "auspicious"
+"quick_gloss": "O-bhadre"
 },
 {
 "surface": "viṣṭaraṃ",
@@ -691,19 +639,15 @@
 "tokens": [
 {
 "surface": "kṛṣṇājine",
-"quick_gloss": "on-black-deer-skin"
+"quick_gloss": "on-black-antelope-skin"
 },
 {
-"surface": "jñānasiddhiḥ",
+"surface": "jñānasiddhirmokṣañca",
 "quick_gloss": "knowledge-siddhi"
 },
 {
-"surface": "mokṣaṃ",
+"surface": "mokṣañca",
 "quick_gloss": "and-liberation"
-},
-{
-"surface": "ca",
-"quick_gloss": "ca"
 },
 {
 "surface": "vyāghracarmaṇi",
@@ -719,12 +663,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "etadbhinnaṃ",
-"quick_gloss": "other-than-this"
-},
-{
-"surface": "āsanaṃ",
-"quick_gloss": "seat"
+"surface": "etadbhinnañcāsanaṃ",
+"quick_gloss": "this-different"
 },
 {
 "surface": "hi",
@@ -732,7 +672,7 @@
 },
 {
 "surface": "citrācitrādi",
-"quick_gloss": "citra-citra-etc"
+"quick_gloss": "variegated"
 },
 {
 "surface": "saṃyutam",
