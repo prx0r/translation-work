@@ -286,7 +286,8 @@ def main() -> int:
         doc=build(work);p=out/f'{work}.json'
         p.write_text(json.dumps(doc,ensure_ascii=False,indent=1),encoding='utf-8')
         idx[work]={'title':work,'versions':len(doc['versions']),'reviews':len(doc['reviews']),
-                   'signoffs':len(doc['signoffs']),'generated':doc['generated']}
+                   'signoffs':len(doc['signoffs']),'generated':doc['generated'],
+                   'projection_sha256':doc['projection_sha256'],'bytes':p.stat().st_size}
         print(f"emitted {p} ({p.stat().st_size//1024} KB) — {len(doc['versions'])} versions, "
               f"{len(doc['reviews'])} reviews, {len(doc['signoffs'])} signoffs, originals: " +
               ', '.join(f'{layer}:{len(rows)}' for layer,rows in doc['originals'].items() if rows))
@@ -306,7 +307,9 @@ def main() -> int:
             idx[extra.stem] = {'title': extra.stem, 'versions': len(doc.get('versions', [])),
                                'reviews': len(doc.get('reviews', [])),
                                'signoffs': len(doc.get('signoffs', [])),
-                               'generated': doc.get('generated')}
+                               'generated': doc.get('generated'),
+                               'projection_sha256': doc.get('projection_sha256'),
+                               'bytes': extra.stat().st_size}
             print(f"carried forward: {extra.name} (registered, untranslatable yet)")
         idx_path.write_text(json.dumps(idx, ensure_ascii=False, indent=1, sort_keys=True), encoding="utf-8")
     return 0
