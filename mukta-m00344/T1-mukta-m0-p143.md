@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p143-v3551
-those-very( tāneva ) questions( praśnān ) says( āha ) from-space( ākāśāt ) etc( ityādi ) she( sā ) asked-form( pṛṣṭarūpā )
+those-eva questions-said - space-etc | she asked-form
 
 ## mukta-m0-p143-v3552
-shining-form( sphuradrūpā ) self-abiding( svātmasaṃsthā ) hear( śṛṇu ) you( tvaṃ ) brahma-rakshasa( brahmarākṣasa )
+shining-form self-in-abiding hear you brahma-rakshasa
 
 ## mukta-m0-p143-v3553
-from-all-inner( sarvāntaratvāt ) and-from-imperceptibility( agocaratvāt+ca ) subtlety( sūkṣmatvam ) self-abiding( svātmasaṃsthā ) own-form( svarūpa ) indeed( eva ) situated( sthitā )
+all-inner-ness and ungraspable-ness and subtlety | self-in-abiding own-form indeed established
 
 ## mukta-m0-p143-v3554
-shining-ness( sphurattvaṃ ) what( kiṃ ) what-self( kimātmā ) and( ca ) say( vada ) this( etat ) prince's-son( nṛpanandana )
+shining-ness what what-self and say-this king-son
 
 ## mukta-m0-p143-v3555
-spread( vitatā ) subtle( sūkṣmā ) one( ekā ) and( ca ) how( kathaṃ ) becomes( bhavet )
+spread subtle one and [g: and not] how become
 
 ## mukta-m0-p143-v3556
-shining-ness( sphurattvam ) self( ātmā ) and( ca ) consciousness( citiḥ ) hear( śṛṇu ) you( tvaṃ ) brahma-rakshasa( brahmarākṣasa )
+shining-ness self and consciousness hear you brahma-rakshasa
 
 ## mukta-m0-p143-v3557
-consciousness-only( cinmātram ) indeed( eva ) not( na ) from-that-more( tato'dhikam ) thus( iti ) purport( tātparyam )
+consciousness-only indeed | not from-that more thus purport
 
 ## mukta-m0-p143-v3558
-by-perception( upalabdhyā ) and( ca ) what( kiṃ ) or( vā ) may-be( syāt ) say( vada ) this( etat ) prince's-son( nṛpanandana )
+by-perception and what or be say-this king-son
 
 ## mukta-m0-p143-v3559
-by-perception( upalabdhyā ) birth( janir ) not( na ) may-be( syāt ) hear( śṛṇu ) you( tvaṃ ) brahma-rakshasa( brahmarākṣasa )
+by-perception birth not be hear you brahma-rakshasa
 
 ## mukta-m0-p143-v3560
-self-consciousness-only-form-attainment( svātmacinmātrākāratāsampattiḥ ) by-this( etena ) deluded-samadhi( mūḍhasamādhiḥ ) removed( vyāvṛttaḥ )
+self-consciousness-only-form-attainment | by-this deluded-samadhi removed
 
 ## mukta-m0-p143-v3561
-birth( janir ) or( vā ) also( api ) may-be( bhavet ) what( kā ) that( sā ) say( vada ) this( etat ) prince's-son( nṛpanandana )
+birth or even become what she say-this king-son
 
 ## mukta-m0-p143-v3562
-birth( janir ) body-self-identification( dehātmatābuddhiḥ ) hear( śṛṇu ) you( tvaṃ ) brahma-rakshasa( brahmarākṣasa )
+birth body-self-ness-buddhi hear you brahma-rakshasa
 
 ## mukta-m0-p143-v3563
-object-facing( dṛśyānunmukhatvam )
+visible-toward-ness
 
 ## mukta-m0-p143-v3564
-birth( janiḥ ) how( kathaṃ ) or( vā ) obtained( samprāptā ) say( vada ) this( etat ) prince's-son( nṛpanandana )
+birth how or attained say-this king-son
 
 ## mukta-m0-p143-v3565
-from-what-cause( kasmānnimittāt ) by-what-instrument( kena+karaṇena )
+from-what-cause | by-what-instrument [k: kara]
 
 ## mukta-m0-p143-v3566
-birth( janiḥ ) doership-identification( kartṛtvābhimānāt ) hear( śṛṇu ) you( tvaṃ ) brahma-rakshasa( brahmarākṣasa )
+birth doer-ness-egoism-from hear you brahma-rakshasa
 
 ## mukta-m0-p143-v3567
-by-self( ātmanā ) by-own( svena ) indeed( eva ) instrument-independence( karaṇāntaranairapekṣyeṇa ) etc( iti ) as-far( yāvat )
+by-self alone instrument-other-independence-etc [k: kara] as-far
 
 ## mukta-m0-p143-v3568
-who( ko ) or( vā ) doership-identification( kartṛtvābhimāno ) say( vada ) this( etat ) prince's-son( nṛpanandana )
+what or doer-ness-egoism say-this king-son
 
 ## mukta-m0-p143-v3569
-that( tadvāsanā ) identification( abhimānaḥ ) may-be( syāt ) hear( śṛṇu ) you( tvaṃ ) brahma-rakshasa( brahmarākṣasa )
+that-vasana-egoism be hear you brahma-rakshasa
 
 ## mukta-m0-p143-v3570
-impression( saṃskāraḥ )
+samskara
 
 ## mukta-m0-p143-v3571
-of-that( tasyā'pi ) what( kiṃ ) cause( kāraṇaṃ ) may-be( syāt ) say( vada ) this( etat ) prince's-son( nṛpanandana )
+its or what cause be say-this king-son
 
 ## mukta-m0-p143-v3572
-of-that( tasya ) non-discrimination-destroyer( avivekanāśakasya ) of-that-cause( tasyāpi+tatkāraṇasyāpi )
+its non-discrimination-destroyer | its also that-cause also
 
 ## mukta-m0-p143-v3573
-that-cause( tatkāraṇaṃ ) fault-seeing( doṣadṛṣṭiḥ ) hear( śṛṇu ) you( tvaṃ ) brahma-rakshasa( brahmarākṣasa )
+that-cause fault-seeing hear you brahma-rakshasa
 
 ## mukta-m0-p143-v3574
-object-fault-seeing( viṣayadoṣadṛṣṭiḥ )
+object-fault-seeing
 
 ## mukta-m0-p143-v3575
-fault-seeing( doṣadṛṣṭiḥ ) and( ca ) what( kā ) called( proktā ) say( vada ) this( etat ) prince's-son( nṛpanandana )
+fault-seeing and what called say-this king-son

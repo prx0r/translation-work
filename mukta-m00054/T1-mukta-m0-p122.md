@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p122-v3026
-[verse-pada](|| 344 || bhikṣavenamaḥ ||345 || bhikṣurūpāyanamaḥ || 346 || vipaṇāyanamaḥ ||)
+[salutation-to-bhikṣu](bhikṣavenamaḥ) [salutation-to-bhikṣu-form](bhikṣurūpāyanamaḥ) [salutation-to-market](vipaṇāyanamaḥ)
 
 ## mukta-m0-p122-v3027
-[verse-pada](|| 353 || vajrahastāyanamaḥ || 354 || viṣkambhinenamaḥ)
+[salutation-to-vajra-hand](vajrahastāyanamaḥ) [salutation-to-viṣkambhin](viṣkambhinenamaḥ)
 
 ## mukta-m0-p122-v3028
-[verse-pada](camūstambhanāyanamaḥ || 356 || vṛttāvṛttakarāyanamaḥ)
+[salutation-to-army-stopping](camūstambhanāyanamaḥ) [salutation-to-round-and-not-round-maker](vṛttāvṛttakarāyanamaḥ)
 
 ## mukta-m0-p122-v3029
-[verse-pada](tālāyanamaḥ || 358 || madhavenamaḥ || 359 || madhukalocanāyanamaḥ)
+[salutation-to-palm](tālāyanamaḥ) [salutation-to-madhava](madhavenamaḥ) [salutation-to-sweet-eyed](madhukalocanāyanamaḥ)
 
 ## mukta-m0-p122-v3030
-[verse-pada](vācaspatyāyanamaḥ || 361 || vājasanāyanamaḥ)
+[salutation-to-speech-lord](vācaspatyāyanamaḥ) [salutation-to-vājasana](vājasanāyanamaḥ)
 
 ## mukta-m0-p122-v3031
-[verse-pada](āśramapūjitāyanamaḥ || 363 || brahmacāriṇenamaḥ)
+[salutation-to-āśrama-honored](āśramapūjitāyanamaḥ) [salutation-to-brahmacārin](brahmacāriṇenamaḥ)
 
 ## mukta-m0-p122-v3032
-[verse-pada](lokacāriṇenamaḥ || 365 || sarvacāriṇenamaḥ || 366 || vicāravidenamaḥ)
+[salutation-to-world-wanderer](lokacāriṇenamaḥ) [salutation-to-all-wanderer](sarvacāriṇenamaḥ) [salutation-to-deliberation-knower](vicāravidenamaḥ)
 
 ## mukta-m0-p122-v3033
-[verse-pada](īśānāyanamaḥ || 368 || īśvarāyanamaḥ || 369 || kālāyanamaḥ)
+[salutation-to-īśāna](īśānāyanamaḥ) [salutation-to-īśvara](īśvarāyanamaḥ) [salutation-to-time](kālāyanamaḥ)
 
 ## mukta-m0-p122-v3034
-[verse-pada](niśācāriṇenamaḥ || 371 || pinākadhṛṣenamaḥ || 372 || nimittasthāyanamaḥ ||)
+[salutation-to-night-wanderer](niśācāriṇenamaḥ) [salutation-to-pināka-holder](pinākadhṛṣenamaḥ) [salutation-to-sign-stander](nimittasthāyanamaḥ)
 
 ## mukta-m0-p122-v3035
-[verse-pada](373 || nimittāyanamaḥ || 374 || nandayenamaḥ || 375 || nandikarāyanamaḥ)
+[salutation-to-sign](nimittāyanamaḥ) [salutation-to-delighter](nandayenamaḥ) [salutation-to-nandikara](nandikarāyanamaḥ)
 
 ## mukta-m0-p122-v3036
-[verse-pada](harayenamaḥ || 377 || nandīśvarāyanamaḥ || 378 || nandinenamaḥ)
+[salutation-to-hara](harayenamaḥ) [salutation-to-nandīśvara](nandīśvarāyanamaḥ) [salutation-to-nandin](nandinenamaḥ)
 
 ## mukta-m0-p122-v3037
-[verse-pada](p. 464) nihantrenamaḥ || 383 || kālāyanamaḥ || 384 || brahmaṇenamaḥ)
+[salutation-to-slayer](nihantrenamaḥ) [salutation-to-time](kālāyanamaḥ) [salutation-to-brahman](brahmaṇenamaḥ)
 
 ## mukta-m0-p122-v3038
-[verse-pada](pitāmahāyanamaḥ || 386 || caturmmukhāyanamaḥ)
+[salutation-to-pitāmaha](pitāmahāyanamaḥ) [salutation-to-four-faced](caturmmukhāyanamaḥ)
 
 ## mukta-m0-p122-v3039
-[verse-pada](mahāliṅgāyanamaḥ || 388 || cāruliṅgāyanamaḥ)
+[salutation-to-great-liṅga](mahāliṅgāyanamaḥ) [salutation-to-beautiful-liṅga](cāruliṅgāyanamaḥ)
 
 ## mukta-m0-p122-v3040
-[verse-pada](liṅgādhyakṣāyanamaḥ || 390 || surādhyakṣāyanamaḥ)
+[salutation-to-liṅga-superintendent](liṅgādhyakṣāyanamaḥ) [salutation-to-god-superintendent](surādhyakṣāyanamaḥ)
 
 ## mukta-m0-p122-v3041
-[verse-pada](yogādhyakṣāyanamaḥ || 392 || yugāvahāyanamaḥ)
+[salutation-to-yoga-superintendent](yogādhyakṣāyanamaḥ) [salutation-to-yuga-bearer](yugāvahāyanamaḥ)
 
 ## mukta-m0-p122-v3042
-[verse-pada](bījādhyakṣāyanamaḥ || 394 || bījakarttrenamaḥ)
+[salutation-to-seed-superintendent](bījādhyakṣāyanamaḥ) [salutation-to-seed-maker](bījakarttrenamaḥ)
 
 ## mukta-m0-p122-v3043
-[verse-pada](adhyātmānugatāyanamaḥ || 396 || balāyanamaḥ || 397 || itihāsāyanamaḥ ||)
+[salutation-to-inner-self-follower](adhyātmānugatāyanamaḥ) [salutation-to-strength](balāyanamaḥ) [salutation-to-itihāsa](itihāsāyanamaḥ)
 
 ## mukta-m0-p122-v3044
-[verse-pada](|| 404 || vaśyāyanamaḥ || 405 || vaśakarāyanamaḥ || 406 || kalayenamaḥ)
+[salutation-to-subduing](vaśyāyanamaḥ) [salutation-to-subduer](vaśakarāyanamaḥ) [salutation-to-kala](kalayenamaḥ)
 
 ## mukta-m0-p122-v3045
-[verse-pada](lokakarttrenamaḥ || 408 || paśupatayenamaḥ || 409 || mahākarttrenamaḥ)
+[salutation-to-world-maker](lokakarttrenamaḥ) [salutation-to-paśupati](paśupatayenamaḥ) [salutation-to-great-maker](mahākarttrenamaḥ)
 
 ## mukta-m0-p122-v3046
-[verse-pada](anauṣadhāyanamaḥ || 411 || akṣarāyanamaḥ || 412 || paramabrahmaṇenamaḥ ||)
+[salutation-to-without-medicine](anauṣadhāyanamaḥ) [salutation-to-imperishable](akṣarāyanamaḥ) [salutation-to-supreme-brahman](paramabrahmaṇenamaḥ)
 
 ## mukta-m0-p122-v3047
-[verse-pada](413 || balavatenamaḥ || 414 || śakrāyanamaḥ || 415 || nītayenamaḥ)
+[salutation-to-strong](balavatenamaḥ) [salutation-to-śakra](śakrāyanamaḥ) [salutation-to-policy](nītayenamaḥ)
 
 ## mukta-m0-p122-v3048
-[verse-pada](anītayenamaḥ || 417 || śuddhātmanenamaḥ || 418 || śuddhāyanamaḥ)
+[salutation-to-without-policy](anītayenamaḥ) [salutation-to-pure-self](śuddhātmanenamaḥ) [salutation-to-pure](śuddhāyanamaḥ)
 
 ## mukta-m0-p122-v3049
-[verse-pada](mānyāyanamaḥ || 420 || gatāgatāyanamaḥ || 421 || bahuprasādāyanamaḥ ||)
+[salutation-to-honorable](mānyāyanamaḥ) [salutation-to-going-and-coming](gatāgatāyanamaḥ) [salutation-to-much-grace](bahuprasādāyanamaḥ)
 
 ## mukta-m0-p122-v3050
-[verse-pada](|| vedakārāyanamaḥ || 426 || mantrakārāyanamaḥ || 427 || viduṣenamaḥ)
+[salutation-to-veda-maker](vedakārāyanamaḥ) [salutation-to-mantra-maker](mantrakārāyanamaḥ) [salutation-to-learned](viduṣenamaḥ)
