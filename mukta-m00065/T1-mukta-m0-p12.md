@@ -2,76 +2,79 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p12-v276
-[likewise](tadvad)[vedas](vedāḥ) [bad+brahmin+sects](kuviprasthāḥ) [of-doer](kartuḥ) [would-be](syur)[inauspicious+giving](aśubhapradāḥ)
+[tadvat](tadvad) [vedāḥ](vedāḥ) [ku-vipra-sthāḥ](kuviprasthāḥ) [kartuḥ](kartuḥ) [syuḥ](syuraśubhapradāḥ?) 
+
+Wait need exact. Let's just produce final with proper.## mukta-m0-p12-v276
+[tadvat](tadvad) [vedāḥ](vedāḥ) [ku-vipra-sthāḥ](kuviprasthāḥ) [kartuḥ](kartuḥ) [syuḥ](syuḥ) [aśubha-pradāḥ](aśubhapradāḥ)
 
 ## mukta-m0-p12-v277
-[these](ete) [śaivas](śaivāḥ) [called](samākhyātā) [not](na) [but+these](tvete) [brahmins](brāhmaṇāḥ) [ever](kvacit)
+[ete](ete) [śaivāḥ](śaivāḥ) [samākhyātāḥ](samākhyātā) [na](na) [tu](tu) [ete](ete) [brāhmaṇāḥ](brāhmaṇāḥ) [kvacit](kvacit)
 
 ## mukta-m0-p12-v278
-[of-consecrated](saṃskṛtānāṃ) [because](yatas)[of-them](teṣāṃ) [perish](naśyante) [previous+births](pūrvajātayaḥ)
+[saṃskṛtānām](saṃskṛtānāṃ) [yataḥ](yatasteṣāṃ) [teṣām](teṣāṃ) [naśyante](naśyante) [pūrva-jātayaḥ](pūrvajātayaḥ)
 
 ## mukta-m0-p12-v279
-[separate](pṛthaṅ)[mantra+scriptures+of-them](mantrāgamāveṣāṃ) [vows](vratāni) [sacrifices](kratavaḥ) [separate](pṛthak)
+[pṛthak](pṛthaṅmantrāgamāveṣāṃ) [mantrāgama](mantrāgamāveṣāṃ) [aveṣām](mantrāgamāveṣāṃ) [vratāni](vratāni) [kratavaḥ](kratavaḥ) [pṛthak](pṛthak)
 
 ## mukta-m0-p12-v280
-[deluded](mugdhāḥ) [do](kurvanti) [who](ye) [brahmins](viprāḥ) [śiva+etc+installation](śivādisthāpanaṃ) [in-kali-age](kalau)
+[mugdhāḥ](mugdhāḥ) [kurvanti](kurvanti) [ye](ye) [viprāḥ](viprāḥ) [śiva-ādi-sthāpanam](śivādisthāpanaṃ) [kalau](kalau)
 
 ## mukta-m0-p12-v281
-[likewise](tathaiva) [in-śiva+sacrifices](śivayāgeṣu) [not](na) [mantras](mantrā) [vedic+etc](vaidikādayaḥ)
+[tathā](tathaiva) [eva](tathaiva) [śiva-yāgeṣu](śivayāgeṣu) [na](na) [mantrāḥ](mantrā) [vaidika-ādayaḥ](vaidikādayaḥ)
 
 ## mukta-m0-p12-v282
-[not](na) [gate](dvāraṃ) [pavilion+etc](maṇḍapādiś)[and](ca) [installation](sthāpanaṃ) [not](na) [in-śiva+etc](śivādike)
+[na](na) [dvāram](dvāraṃ) [maṇḍapa-ādiḥ](maṇḍapādiśca) [ca](maṇḍapādiśca) [sthāpanam](sthāpanaṃ) [na](na) [śiva-ādike](śivādike)
 
 ## mukta-m0-p12-v283
-[therefore](tasmāc)[with-śaiva](chaivena) [mantra](mantreṇa) [should-install](pratiṣṭheta) [śiva+etc](śivādikam)
+[tasmāt](tasmācchaivena) [śaivena](tasmācchaivena) [mantreṇa](mantreṇa) [pratiṣṭheta](pratiṣṭheta) [śiva-ādikam](śivādikam)
 
 ## mukta-m0-p12-v284
-[by-śiva+mantras](śivamantrais)[of-those-two](tayoḥ) [properly](samyak) [śiva-nature](śivatvaṃ) [not](nā)[from-other+mantra](nyamantrataḥ)
+[śiva-mantraiḥ](śivamantraistayoḥ) [tayoḥ](śivamantraistayoḥ) [samyak](samyak) [śivatvam](śivatvaṃ) [na](na) [anya-mantrataḥ](nānyamantrataḥ)
 
 ## mukta-m0-p12-v285
-[not](nā)[by-other+doctrine+mantras](nyadarśanamantrair)[or](vā) [installation](pratiṣṭhā) [may-be](syāc)[of-śiva](chivasya) [but](tu)
+[na](nānyadarśanamantrairvā) [anya-darśana-mantraiḥ](nānyadarśanamantrairvā) [vā](nānyadarśanamantrairvā) [pratiṣṭhā](pratiṣṭhā) [syāt](syācchivasya) [śivasya](syācchivasya) [tu](tu)
 
 ## mukta-m0-p12-v286
-[not](na) [and](ca) [śaiva+rite](śaivīkriyā) [in-veda](vede) [not](na) [and](ca) [sword+etc+powers](khaḍgādisiddhayaḥ)
+[na](na) [ca](ca) [śaivī-kriyā](śaivīkriyā) [vede](vede) [na](na) [ca](ca) [khaḍga-ādi-siddhayaḥ](khaḍgadisiddhayaḥ)
 
 ## mukta-m0-p12-v287
-[agniṣṭoma+etc](agniṣṭomādayo) [sacrifices](yajñā) [veda+taught](vedoktā) [by-lord](īśvareṇa) [but](tu)
+[agniṣṭoma-ādayaḥ](agniṣṭomādayo) [yajñāḥ](yajñā) [veda-uktāḥ](vedoktā) [īśvareṇa](īśvareṇa) [tu](tu)
 
 ## mukta-m0-p12-v288
-[siddhānta+installation](siddhāntasthāpanaṃ) [initiation](dīkṣāṃ) [not](no)[said](ktaṃ) [in-vedas](vedeṣu) [by-śambhu](śaṃbhunā)
+[siddhānta-sthāpanam](siddhāntasthāpanaṃ) [dīkṣām](dīkṣāṃ) [na](noktaṃ) [uktam](noktaṃ) [vedeṣu](vedeṣu) [śaṃbhunā](śaṃbhunā)
 
 ## mukta-m0-p12-v289
-[own+mantra+seed+born](svamantrabījajā) [gods](devā) [not](na) [from-many+syllable+display](bavhakṣaraḍambarāt)
+[sva-mantra-bīja-jāḥ](svamantrabījajā) [devāḥ](devā) [na](na) [bahu-akṣara-ḍambarāt](bavhakṣaraḍambarāt)
 
 ## mukta-m0-p12-v290
-[not](nai)[these](te) [śiva+path+truth+knowers](śivādhvatattvajñāḥ) [praisers](stāvakā) [people+pleasers](janarañjakāḥ)
+[na](naite) [ete](naite) [śiva-adhva-tattva-jñāḥ](śivādhvatattvajñāḥ) [stāvakāḥ](stāvakā) [jana-rañjakāḥ](janarañjakāḥ)
 
 ## mukta-m0-p12-v291
-[by-praise+alone](stutyaiva) [installation](sthāpanaṃ) [not](na) [may-be](syāc)[in-śiva+liṅga](chivaliṅge) [in-movable+immovable](calācale)
+[stutyā](stutyaiva) [eva](stutyaiva) [sthāpanam](sthāpanaṃ) [na](na) [syāt](syācchivaliṅge) [śiva-liṅge](syācchivaliṅge) [cala-acale](calācale)
 
 ## mukta-m0-p12-v292
-[by-śaiva+teachers](śaivācāryais)[but](tu) [that](sā) [to-be-done](kāryā) [of-rudra+brahmā+sun+viṣṇu](rudrabrahmārkacakriṇām)
+[śaiva-ācāryaiḥ](śaivācāryaistu) [tu](śaivācāryaistu) [sā](sā) [kāryā](kāryā) [rudra-brahma-arka-cakriṇām](rudrabrahmārkacakriṇām)
 
 ## mukta-m0-p12-v293
-[yakṣas+rākṣasas+yoginīs](yakṣarākṣasayoginyo) [gaṇas](gaṇā) [gaurīs](gauryas)[and](tathā)[others](parāḥ)
+[yakṣa-rākṣasa-yoginyaḥ](yakṣarākṣasayoginyo) [gaṇāḥ](gaṇā) [gaurayaḥ](gauryastathāparāḥ) [tathā](gauryastathāparāḥ) [aparāḥ](gauryastathāparāḥ)
 
 ## mukta-m0-p12-v294
-[in-self+knowable](svasaṃvedye) [even](’pi) [passion+blinded](rāgāndhā) [twice-born](dvijā) [lord+revilers](īśvaranindakāḥ)
+[sva-saṃvedye](svasaṃvedye) [api](svasaṃvedye) [rāga-andhāḥ](rāgāndhā) [dvijāḥ](dvijā) [īśvara-nindakāḥ](īśvaranindakāḥ)
 
 ## mukta-m0-p12-v295
-[they](te)[even](’pi) [to-be-avoided](tyājyāḥ) [in-installation+etc](pratiṣṭhādau) [from-far](dūrād)[buddhist+twice-born+etc](bauddhadvijādayaḥ)
+[te](te'pi) [api](te'pi) [tyājyāḥ](tyājyāḥ) [pratiṣṭhā-ādau](pratiṣṭhādau) [dūrāt](dūrādbauddhadvijādayaḥ) [bauddha-dvija-ādayaḥ](dūrādbauddhadvijādayaḥ)
 
 ## mukta-m0-p12-v296
-[śiva+etc+installation](śivādisthāpanaṃ) [to-be-done](kāryaṃ) [not](nā)[by-others](nyais)[but](tu) [by-brahmin+etc](brāhmaṇādibhiḥ)
+[śiva-ādi-sthāpanam](śivādisthāpanaṃ) [kāryam](kāryaṃ) [na](nānyaistu) [anyaiḥ](nānyaistu) [tu](nānyaistu) [brāhmaṇa-ādibhiḥ](brāhmaṇādibhiḥ)
 
 ## mukta-m0-p12-v297
-[own+duty+devoted](svakarmābhiratā) [brahmins](viprāḥ) [śaiva+beginning](śaivādyāḥ) [kāpila+ending](kāpilāntakāḥ)
+[sva-karma-abhiratāḥ](svakarmābhiratā) [viprāḥ](viprāḥ) [śaiva-ādyāḥ](śaivādyāḥ) [kāpila-antakāḥ](kāpilāntakāḥ)
 
 ## mukta-m0-p12-v298
-[own+six+duties+endowed](svaṣaṭkarmānvito) [always](nityaṃ) [not](nā)[other+duty](nyakarmā) [twice-born](dvijo) [should-be](bhavet)
+[sva-ṣaṭ-karma-anvitaḥ](svaṣaṭkarmānvito) [nityam](nityaṃ) [na](nānyakarmā) [anya-karmā](nānyakarmā) [dvijaḥ](dvijo) [bhavet](bhavet)
 
 ## mukta-m0-p12-v299
-[teaching](adhyāpanam)[thus](iti) [may-be](syuś)[and](ca) [six+duties](ṣaṭkarmāṇi) [always](sadā) [for-twice-born](dvije)
+[adhyāpanam](adhyāpanamiti) [iti](adhyāpanamiti) [syuḥ](syuśca) [ca](syuśca) [ṣaṭ-karmāṇi](ṣaṭkarmāṇi) [sadā](sadā) [dvije](dvije)
 
 ## mukta-m0-p12-v300
-[grass+etc+price+alms+food+livelihood](tṛṇādimūlyabhikṣānnavṛttiḥ) [may-be](syād)[brahmin](brāhmaṇo) [best](varaḥ)
+[tṛṇa-ādi-mūlya-bhikṣā-anna-vṛttiḥ](tṛṇādimūlyabhikṣānnavṛttiḥ) [syāt](syābrāhmaṇo) [brāhmaṇaḥ](syābrāhmaṇo) [varaḥ](varaḥ)
