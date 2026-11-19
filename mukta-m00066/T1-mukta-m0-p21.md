@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p21-v501
-[rogāṇi](rogāṇi) [avaśyaṃ](avaśyaṃ) [nighnaṃti](nighnaṃti) [svabhāvaḥ](svabhāvaḥ) [vā](vā) [asya](asya) [vastunaḥ](vastunaḥ)
+[pada](rogāṇyavaśyaṃ) [pada](nighnaṃti) [pada](svabhāvo) [pada](vāsya) [pada](vastunaḥ)
 
 ## mukta-m0-p21-v502
-[saḥ](sa) [vīrabhadraḥ](vīrabhadraḥ) [suśroṇi](suśroṇi) [sākṣāt](sākṣāt) [saṃhāra](saṃhāra) [bhairavaḥ](bhairavaḥ)
+[pada](sa) [pada](vīrabhadraḥ) [pada](suśroṇi) [pada](sākṣāt) [pada](saṃhāra) [pada](bhairavaḥ)
 
 ## mukta-m0-p21-v503
-[dakṣa](dakṣa) [kopāt](kopāt) [prajvalataḥ](prajvalataḥ) [tasya](tasya) [aṃgāt](aṃgāt) [roma](roma) [kūpataḥ](kūpataḥ)
+[pada](dakṣakopātprajvalataḥ) [pada](tasyāṃgādromakūpataḥ)
 
 ## mukta-m0-p21-v504
-[tam](tam) [anuproddhitāḥ](anuproddhitāḥ) [sarve](sarve) [vyādhayaḥ](vyādhayaḥ) [vividha](vividha) [kramāḥ](kramāḥ)
+[pada](tamanuproddhitāḥ) [pada](sarve) [pada](vyādhayovividhakramāḥ)
 
 ## mukta-m0-p21-v505
-[atyaṃta](atyaṃta) [lolāḥ](lolāḥ) [durvārāḥ](durvārāḥ) [prajvalaṃtaḥ](prajvalaṃtaḥ) [sadā](sadā) [muṣā](muṣā)
+[pada](atyaṃtalolādurvārāḥ) [pada](prajvalaṃtaḥ) [pada](sadāmuṣā)
 
 ## mukta-m0-p21-v506
-[tam](tam) [āśritya](āśritya) [mahā](mahā) [satvam](satvam) [vīrabhadram](vīrabhadram) [mahā](mahā) [udayam](udayam)
+[pada](tamāśritya) [pada](mahāsatvaṃ) [pada](vīrabhadraṃ) [pada](mahodayam)
 
 ## mukta-m0-p21-v507
-[pāpa](pāpa) [śīlān](śīlān) [durācārān](durācārān) [kanyā](kanyā) [vidveṣa](vidveṣa) [kāriṇaḥ](kāriṇaḥ)
+[pada](pāpaśīlān) [pada](durācārān) [pada](kanyāvidveṣakāriṇaḥ)
 
 ## mukta-m0-p21-v508
-[āgama](āgama) [drohiṇaḥ](drohiṇaḥ) [pāpān](pāpān) [vṛthā](vṛthā) [kalaha](kalaha) [kāriṇaḥ](kāriṇaḥ)
+[pada](āgama) [pada](drohiṇo) [pada](pāpān) [pada](vṛthākalahakāriṇaḥ)
 
 ## mukta-m0-p21-v509
-[bhakṣayaṃti](bhakṣayaṃti) [mahā](mahā) [rogāḥ](rogāḥ) [pibaṃti](pibaṃti) [rudhiram](rudhiram) [bahu](bahu)
+[pada](bhakṣayaṃti) [pada](mahārogāḥ) [pada](pibaṃti) [pada](rudhiraṃ) [pada](bahu)
 
 ## mukta-m0-p21-v510
-[marmabheda](marmabheda) [karālāpām](karālāpām) [dhārmika](dhārmika) [ācāra](ācāra) [niṃdakān](niṃdakān)
+[pada](vṛdhe-)
 
 ## mukta-m0-p21-v511
-[hiṃsaṃti](hiṃsaṃti) [vyādhayaḥ](vyādhayaḥ) [tīvrāḥ](tīvrāḥ) [tat](tat) [saṃgāt](saṃgāt) [aparān](aparān) [api](api)
+[pada](marmabheda) [pada](karālāpāṃ) [pada](dhārmikācāra) [pada](niṃdakān)
 
 ## mukta-m0-p21-v512
-[āśaṃkamānaiḥ](āśaṃkamānaiḥ) [vilaya](vilaya) [mahaṃsaṃ](mahaṃsaṃ) [prārthitaḥ](prārthitaḥ) [purā](purā)
+[pada](hiṃsaṃti) [pada](vyādhayastīvrāstatsaṃgādaparānapi)
 
 ## mukta-m0-p21-v513
-[parabrahmaḥ](parabrahmaḥ) [sāsvāda](sāsvāda) [mayam](mayam) [ānanda](ānanda) [dāyakam](dāyakam)
+[pada](āśaṃkamānairvilaya) [pada](mahaṃsaṃprārthitaḥ) [pada](purā)
 
 ## mukta-m0-p21-v514
-[saḥ](sa) [biṃdu](biṃdu) [śata](śata) [sāhasra](sāhasra) [pravahaḥ](pravahaḥ) [pavana](pavana) [āhatam](āhatam)
+[pada](parabrahmaḥ) [pada](sāsvādamayamānaṃdadāyakam)
 
 ## mukta-m0-p21-v515
-[viveśa](viveśa) [ca](ca) [oṣadhiḥ](oṣadhiḥ) [sarvāḥ](sarvāḥ) [soma](soma) [rūpaḥ](rūpaḥ) [mahā](mahā) [rasaḥ](rasaḥ)
+[pada](sa) [pada](biṃdu) [pada](śatasāhasra) [pada](pravahaḥ) [pada](pavanāhatam)
 
 ## mukta-m0-p21-v516
-[tataḥ](tataḥ) [prabhṛti](prabhṛti) [vīrut](vīrut) [sujāgartti](sujāgartti) [parama](parama) [amṛtam](amṛtam)
+[pada](viveśacauṣadhiḥ) [pada](sarvāḥ) [pada](somarūpomahārasaḥ)
 
 ## mukta-m0-p21-v517
-[vividham](vividham) [vaidya](vaidya) [taṃtram](taṃtram) [tu](tu) [jvara](jvara) [ādīnām](ādīnām) [vinuttaye](vinuttaye)
+[pada](tataḥ) [pada](prabhṛti) [pada](vīrutsujāgartti) [pada](paramāmṛtam)
 
 ## mukta-m0-p21-v518
-[śārīra](śārīra) [vaidyake](vaidyake) [proktāḥ](proktāḥ) [prakvātha](prakvātha) [guṭikā](guṭikā) [ādayaḥ](ādayaḥ)
+[pada](vividhaṃ) [pada](vaidyataṃtraṃ) [pada](tu) [pada](jvarādīnāṃ) [pada](vinuttaye)
 
 ## mukta-m0-p21-v519
-[yathā](yathā) [dehaḥ](dehaḥ) [jvaram](jvaram) [śītam](śītam) [pittam](pittam) [śleṣmam](śleṣmam) [alaḥ](alaḥ) [nilaḥ](nilaḥ)
+[pada](śārīravaidyake) [pada](proktāḥ) [pada](prakvāthaghuṭikādayaḥ)
 
 ## mukta-m0-p21-v520
-[tathā](tathā) [jīve](jīve) [gadāḥ](gadāḥ) [proktāḥ](proktāḥ) [krodha](krodha) [udveṣaḥ](udveṣaḥ) [ca](ca) [matsaraḥ](matsaraḥ)
+[pada](yathā) [pada](dehojvaraṃ) [pada](śītaṃ) [pada](pittaṃ) [pada](śleṣmamalonilaḥ)
 
 ## mukta-m0-p21-v521
-[nirvedaḥ](nirvedaḥ) [ca](ca) [paritrāsaḥ](paritrāsaḥ) [śaṃkā](śaṃkā) [kutsita](kutsita) [ciṃtanam](ciṃtanam)
+[pada](tathā) [pada](jīve) [pada](gadāḥ) [pada](proktāḥ) [pada](krodhodveṣaścamatsaraḥ)
 
 ## mukta-m0-p21-v522
-[vikaṃpatvam](vikaṃpatvam) [vimūḍhatvam](vimūḍhatvam) [vidyā](vidyā) [loka](loka) [navarjitam](navarjitam)
+[pada](nirvedaśca) [pada](paritrāsaḥ) [pada](śaṃkākutsitaciṃtanam)
 
 ## mukta-m0-p21-v523
-[sarvasya](sarvasya) [kutsā](kutsā) [śīlatvam](śīlatvam) [sarvatra](sarvatra) [api](api) [jugupsanam](jugupsanam)
+[pada](vikaṃpatvaṃ) [pada](vimūḍhatvaṃ) [pada](vidyāloka) [pada](navarjitam)
 
 ## mukta-m0-p21-v524
-[etāḥ](etāḥ) [dṛśāna](dṛśāna) [eka](eka) [bhedāḥ](bhedāḥ) [koṭīnām](koṭīnām) [api](api) [koṭayaḥ](koṭayaḥ)
+[pada](sarvasyakutsā) [pada](śīlatvaṃ) [pada](sarvatrāpi) [pada](jugupsanam)
 
 ## mukta-m0-p21-v525
-[etāḥ](etāḥ) [dṛśāna](dṛśāna) [eka](eka) [bhedāḥ](bhedāḥ) [koṭīnām](koṭīnām) [api](api) [koṭayaḥ](koṭayaḥ)
+[pada](etā) [pada](dṛśānaikabhedāḥ) [pada](koṭīnāmapikoṭayaḥ)
