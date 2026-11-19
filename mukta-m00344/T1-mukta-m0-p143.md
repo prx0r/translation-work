@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p143-v3551
-[tān](tāneva) [eva](tāneva) [praśnān](praśnān) [āha](āha) [ākāśāt](ākāśādityādi) [ityādi](ākāśādityādi) [sā](sā) [pṛṣṭa-rūpā](pṛṣṭarūpā)
+those-questions indeed says - from-space etc. | that asked-form
 
 ## mukta-m0-p143-v3552
-[sphurat-rūpā](sphuradrūpā) [svātma-saṃsthā](svātmasaṃsthā) [śṛṇu](śṛṇu) [tvaṃ](tvaṃ) [brahma-rākṣasa](brahmarākṣasa)
+shining-form self-abiding hear you brahma-rakshasa
 
 ## mukta-m0-p143-v3553
-[sarva-antaratvāt](sarvāntaratvādagocaratvācca) [agocaratvāt](sarvāntaratvādagocaratvācca) [ca](sarvāntaratvādagocaratvācca) [sūkṣmatvam](sūkṣmatvam) [svātma-saṃsthā](svātmasaṃsthā) [svarūpa](svarūpa) [eva](eva) [sthitā](sthitā)
+all-inner-ness and ungraspable-ness therefore subtlety | self-abiding own-form indeed situated
 
 ## mukta-m0-p143-v3554
-[sphurattvam](sphurattvaṃ) [kiṃ](kiṃ) [kim](kimātmā) [ātmā](kimātmā) [ca](ca) [vada](vadaitannṛpanandana) [etat](vadaitannṛpanandana) [nṛpa-nandana](vadaitannṛpanandana)
+shining-ness what what-self and say this prince-delight
 
 ## mukta-m0-p143-v3555
-[vitatā](vitatā) [sūkṣmā](sūkṣmāpyekā) [api](sūkṣmāpyekā) [ekā](sūkṣmāpyekā) [ca](ca) [katham](kathaṃ) [bhavet](bhavet)
+spread subtle one also [g: also not] how become
 
 ## mukta-m0-p143-v3556
-[sphurattvam](sphurattvamātmā) [ātmā](sphurattvamātmā) [ca](ca) [citiḥ](citiḥ) [śṛṇu](śṛṇu) [tvaṃ](tvaṃ) [brahma-rākṣasa](brahmarākṣasa)
+shining-ness self and consciousness hear you brahma-rakshasa
 
 ## mukta-m0-p143-v3557
-[cin-mātram](cinmātrameva) [eva](cinmātrameva) [na](na) [tataḥ](tato'dhikamiti) [adhikam](tato'dhikamiti) [iti](tato'dhikamiti) [tātparyam](tātparyam)
+consciousness-only indeed | not from-that more thus intent
 
 ## mukta-m0-p143-v3558
-[upalabdhyā](upalabdhyā) [ca](ca) [kiṃ](kiṃ) [vā](vā) [syāt](syād) [vada](vadaitannṛpanandana) [etat](vadaitannṛpanandana) [nṛpa-nandana](vadaitannṛpanandana)
+by-perception and what or be say this prince-delight
 
 ## mukta-m0-p143-v3559
-[upalabdhyā](upalabdhyā) [janir](janirna) [na](janirna) [syāt](syācchṛṇu) [śṛṇu](śṛṇu) [tvaṃ](tvaṃ) [brahma-rākṣasa](brahmarākṣasa)
+by-perception birth not be hear you brahma-rakshasa
 
 ## mukta-m0-p143-v3560
-[svātma-cin-mātra-ākāratā-sampattiḥ](svātmacinmātrākāratāsampattiḥ) [etena](etena) [mūḍha-samādhiḥ](mūḍhasamādhirvyāvṛttaḥ) [vyāvṛttaḥ](mūḍhasamādhirvyāvṛttaḥ)
+self-consciousness-only-form-attainment | by-this deluded-samadhi removed
 
 ## mukta-m0-p143-v3561
-[janir](janirvā'pi) [vā](janirvā'pi) [api](janirvā'pi) [bhavet](bhavet) [kā](kā) [sā](sā) [vada](vadaitannṛpanandana) [etat](vadaitannṛpanandana) [nṛpa-nandana](vadaitannṛpanandana)
+birth or also become what that say this prince-delight
 
 ## mukta-m0-p143-v3562
-[janir](janirdehātmatābuddhiḥ) [deha-ātmatā-buddhiḥ](janirdehātmatābuddhiḥ) [śṛṇu](śṛṇu) [tvaṃ](tvaṃ) [brahma-rākṣasa](brahmarākṣasa)
+birth body-self-ness-buddhi hear you brahma-rakshasa
 
 ## mukta-m0-p143-v3563
-[dṛśya-anunmukhatvam](dṛśyānunmukhatvam)
+visible-toward-ness
 
 ## mukta-m0-p143-v3564
-[janiḥ](janiḥ) [katham](kathaṃ) [vā](vā) [samprāptā](samprāptā) [vada](vadaitannṛpanandana) [etat](vadaitannṛpanandana) [nṛpa-nandana](vadaitannṛpanandana)
+birth how or attained say this prince-delight
 
 ## mukta-m0-p143-v3565
-[kasmāt](kasmānnimittāt) [nimittāt](kasmānnimittāt) [kena](kena) [karaṇena](karaṇena)
+from-what cause | by-what instrument [k: cause]
 
 ## mukta-m0-p143-v3566
-[janiḥ](janiḥ) [kartṛtva-abhimānāt](kartṛtvābhimānācchṛṇu) [śṛṇu](śṛṇu) [tvaṃ](tvaṃ) [brahma-rākṣasa](brahmarākṣasa)
+birth doer-ness-egoism hear you brahma-rakshasa
 
 ## mukta-m0-p143-v3567
-[ātmanā](ātmanā) [svena](svenaiva) [eva](svenaiva) [karaṇa-antara-nairapekṣyeṇa](karaṇāntaranairapekṣyeṇeti) [iti](karaṇāntaranairapekṣyeṇeti) [yāvat](yāvat)
+by-self by-own instrument-independence etc. [k: cause] as-far
 
 ## mukta-m0-p143-v3568
-[kaḥ](ko) [vā](vā) [kartṛtva-abhimānaḥ](kartṛtvābhimāno) [vada](vadaitannṛpanandana) [etat](vadaitannṛpanandana) [nṛpa-nandana](vadaitannṛpanandana)
+what or doer-ness-egoism say this prince-delight
 
 ## mukta-m0-p143-v3569
-[tat-vāsanā-abhimānaḥ](tadvāsanābhimānaḥ) [syāt](syācchṛṇu) [śṛṇu](śṛṇu) [tvaṃ](tvaṃ) [brahma-rākṣasa](brahmarākṣasa)
+that-vasana-egoism be hear you brahma-rakshasa
 
 ## mukta-m0-p143-v3570
-[saṃskāraḥ](saṃskāraḥ)
+impression
 
 ## mukta-m0-p143-v3571
-[tasya](tasyā'pi) [api](tasyā'pi) [kiṃ](kiṃ) [kāraṇam](kāraṇaṃ) [syāt](syād) [vada](vadaitannṛpanandana) [etat](vadaitannṛpanandana) [nṛpa-nandana](vadaitannṛpanandana)
+its also what cause be say this prince-delight
 
 ## mukta-m0-p143-v3572
-[tasya](tasya) [aviveka-nāśakasya](avivekanāśakasya) [tasya](tasyāpi) [api](tasyāpi) [tat-kāraṇasya](tatkāraṇasyāpi) [api](tatkāraṇasyāpi)
+its non-discrimination-destroyer | its also that-cause also
 
 ## mukta-m0-p143-v3573
-[tat-kāraṇam](tatkāraṇaṃ) [doṣa-dṛṣṭiḥ](doṣadṛṣṭiḥ) [śṛṇu](śṛṇu) [tvaṃ](tvaṃ) [brahma-rākṣasa](brahmarākṣasa)
+that-cause fault-seeing hear you brahma-rakshasa
 
 ## mukta-m0-p143-v3574
-[viṣaya-doṣa-dṛṣṭiḥ](viṣayadoṣadṛṣṭiḥ)
+object-fault-seeing
 
 ## mukta-m0-p143-v3575
-[doṣa-dṛṣṭiḥ](doṣadṛṣṭiśca) [ca](doṣadṛṣṭiśca) [kā](kā) [proktā](proktā) [vada](vadaitannṛpanandana) [etat](vadaitannṛpanandana) [nṛpa-nandana](vadaitannṛpanandana)
+fault-seeing and what said say this prince-delight
