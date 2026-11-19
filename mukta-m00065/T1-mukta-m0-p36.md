@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p36-v876
-[yoga+mudra](yogamudrāṃ) [ca](ca) [shankha](śaṅkhaṃ) [ca](ca) [gada+cakra+dhara](gadācakradharaṃ) [dvaya](dvayam)
+[yoga-mudrā](yogamudrāṃ) [ca](ca) [śaṅkha](śaṅkhaṃ) [ca](ca) [gadā-cakra-dhara](gadācakradharaṃ) [dvaya](dvayam)
 
 ## mukta-m0-p36-v877
-[mudra](mudrāṃ) [kuryat](kuryāddhṛdisthāṃ) [ca](ca) [a-shesha+agha+pranashini](aśeṣāghapraṇāśinīm)
+[mudrā](mudrāṃ) [kuryāt-hṛdi-sthām](kuryāddhṛdisthāṃ) [ca](ca) [aśeṣa-āgha-praṇāśinīm](aśeṣāghapraṇāśinīm)
 
 ## mukta-m0-p36-v878
-[patra+shanti+dhara](pātraśāntidharaṃ) [yamya](yāmye) [vamaka](vāmake) [padma+siri](padmasīriṇau)
+[pātra-śānti-dhara](pātraśāntidharaṃ) [yāmye](yāmye) [vāmake](vāmake) [padma-sīriṇau](padmasīriṇau)
 
 ## mukta-m0-p36-v879
-[kaumudi](kaumodyā) [heti+raja](hetirājena) [pancajanya+ambuja](pāñcajanyāmbujena) [ca](ca)
+[kaumudyā](kaumodyā) [heti-rājena](hetirājena) [pāñcajanya-ambujena](pāñcajanyāmbujena) [ca](ca)
 
 ## mukta-m0-p36-v880
-[narayana+adi+panca+anya](nārāyaṇādipañcānyat) [purva+ukta+kara+shastra+bhrt](pūrvoktakaraśastrabhṛt)
+[nārāyaṇa-ādi-pañca-anya](nārāyaṇādipañcānyat) [pūrva-ukta-kara-śastra-bhṛt](pūrvoktakaraśastrabhṛt)
 
 ## mukta-m0-p36-v881
-[ebhih](ebhiryuktaṃ) [yukta](yuktaṃ) [nava+vyuha](navavyūhaṃ) [jnata](jñātavyaṃ) [daishika+uttama](daiśikottamaiḥ)
+[ebhiḥ](ebhir) [yuktaṃ](yuktaṃ) [nava-vyūhaṃ](navavyūhaṃ) [jñātavyaṃ](jñātavyaṃ) [daiśika-uttamaiḥ](daiśikottamaiḥ)
 
 ## mukta-m0-p36-v882
-[vama+utsanga+dhrita+shri](vāmotsaṅgadhṛtaśrīkam) [ardha+candra+asana](ardhacandrāsane) [sthita](sthitam)
+[vāma-utsaṅga-dhṛta-śrī](vāmotsaṅgadhṛtaśrīkam) [ardha-candra-āsane](ardhacandrāsane) [sthitam](sthitam)
 
 ## mukta-m0-p36-v883
-[tat](taddakṣiṇaṃ) [dakshina](dakṣiṇaṃ) [kara](karaṃ) [skandhe](skandhe) [deva+deva](devadevasya) [dakshina](dakṣiṇe)
+[tat-dakṣiṇaṃ](taddakṣiṇaṃ) [karaṃ](karaṃ) [skandhe](skandhe) [deva-devasya](devadevasya) [dakṣiṇe](dakṣiṇe)
 
 ## mukta-m0-p36-v884
-[padma+stha](padmastho) [ghurnita+aksha](ghūrṇitākṣaśca) [ca](ca) [gatri+nartana+kaih](gātṛnartanakairvṛtaḥ) [vrta](vṛtaḥ)
+[padma-sthaḥ](padmastho) [ghūrṇita-akṣaḥ](ghūrṇitākṣaśca) [ca](ca) [gātṛ-nartana-kaiḥ](gātṛnartanakair) [vṛtaḥ](vṛtaḥ)
 
 ## mukta-m0-p36-v885
-[advaitena](advaitena) [vidhanena](vidhānena) [pujaniya](pūjanīyo) [vipashcit](vipaścitā)
+[advaitena](advaitena) [vidhānena](vidhānena) [pūjanīyaḥ](pūjanīyo) [vipaścitā](vipaścitā)
 
 ## mukta-m0-p36-v886
-[yoga+nidra+para+avastha](yoganidrāparāvasthaḥ) [supta](supto'nantatanūpari) [ananta+tanu+pari](anantatanūpari)
+[yoga-nidrā-parāvasthaḥ](yoganidrāparāvasthaḥ) [suptaḥ](supto) [ananta-tanū-pari](anantatanūpari)
 
 ## mukta-m0-p36-v887
-[pada+lagna](pādalagnā) [dhara+devi](dharādevī) [jala+shayi](jalaśāyī) [graha+avrta](grahāvṛtaḥ)
+[pāda-lagnā](pādalagnā) [dharā-devī](dharādevī) [jala-śāyī](jalaśāyī) [graha-āvṛtaḥ](grahāvṛtaḥ)
 
 ## mukta-m0-p36-v888
-[abhyuttha+pankaja+arudha](ābhyutthapaṅkajārūḍhaḥ) [pitamaha+samanvita](pitāmahasamanvitaḥ)
+[ābhyuttha-paṅkaja-ārūḍhaḥ](ābhyutthapaṅkajārūḍhaḥ) [pitāmaha-samanvitaḥ](pitāmahasamanvitaḥ)
 
 ## mukta-m0-p36-v889
-[sa](sā) [liḍha](līḍho) [nandane](nandane) [ragi](rāgī) [sada](sadā) [cape+shubh+bhrt](cāpeṣubhṛcchubhaḥ)
+[sā](sā) [līḍhaḥ](līḍho) [nandane](nandane) [rāgī](rāgī) [sadā](sadā) [cāpa-iṣu-bhṛt](cāpeṣubhṛcchubhaḥ) [śubhaḥ](śubhaḥ)
 
 ## mukta-m0-p36-v890
-[tunga+ghrana](tuṅgaghrāṇo) [nara+anghih](narāṅghirvā) [pakshi+jangha](pakṣijaṅgho) [nara+angaka](narāṅgakaḥ)
+[tuṅga-ghrāṇaḥ](tuṅgaghrāṇo) [narāṅghiḥ](narāṅghirvā) [vā](vā) [pakṣi-jaṅghaḥ](pakṣijaṅgho) [narāṅgakaḥ](narāṅgakaḥ)
 
 ## mukta-m0-p36-v891
-[vama+janu+gata](vāmajānugato) [bhumi](bhūmau) [tarkshya](tārkṣyaḥ) [paksha+samanvita](pakṣasamanvitaḥ)
+[vāma-jānu-gataḥ](vāmajānugato) [bhūmau](bhūmau) [tārkṣyaḥ](tārkṣyaḥ) [pakṣa-samanvitaḥ](pakṣasamanvitaḥ)
 
 ## mukta-m0-p36-v892
-[hala+shankha+vara](halaśaṅkhavaro) [mali](mālī) [vishvaksena](viśvakseno) [harer+gana](harergaṇaḥ)
+[hala-śaṅkha-vara](halaśaṅkhavaro) [mālī](mālī) [viśvaksenaḥ](viśvakseno) [hareḥ](harergaṇaḥ) [gaṇaḥ](gaṇaḥ)
 
 ## mukta-m0-p36-v893
-[padma+sira+dhara](padmasīradharaṃ) [vame](vāme) [sheshe](śeṣe) [mushala+go+dvaha](muśalagodvaham)
+[padma-sīra-dharaṃ](padmasīradharaṃ) [vāme](vāme) [śeṣe](śeṣe) [muśala-go-dvaham](muśalagodvaham)
 
 ## mukta-m0-p36-v894
-[ardhe+ardhe](ardhe'rdhe) [bhushanaih](bhūṣaṇaiḥ) [svaih](svaiḥ) [svaih](svaiḥ) [yukta+murdhva+kaja+sthita](yuktamūrdhvaṃ kajasthitam)
+[ardhe-ardhe](ardhe'rdhe) [bhūṣaṇaiḥ](bhūṣaṇaiḥ) [svaiḥ](svaiḥ) [svaiḥ](svaiḥ) [yuktaṃ](yuktamūrdhvaṃ) [ūrdhvaṃ](ūrdhvaṃ) [kaja-sthitam](kajasthitam)
 
 ## mukta-m0-p36-v895
-[aksha+mala](akṣamālāṃ) [trishula](triśūlaṃ) [ca](ca) [shankha](śaṅkhaṃ) [ca](ca) [kaumudi](kaumudīṃ) [kramat](kramāt)
+[akṣa-mālāṃ](akṣamālāṃ) [triśūlaṃ](triśūlaṃ) [ca](ca) [śaṅkhaṃ](śaṅkhaṃ) [ca](ca) [kaumudīṃ](kaumudīṃ) [kramāt](kramāt)
 
 ## mukta-m0-p36-v896
-[pum+stri+svarupaka](puṃstrīsvarūpakaṃ) [kuryat](kuryācchivanārāyaṇātmakam) [shiva+narayana+atmaka](śivanārāyaṇātmakam)
+[puṃ-strī-svarūpakaṃ](puṃstrīsvarūpakaṃ) [kuryāt](kuryācchivanārāyaṇātmakam) [śiva-nārāyaṇa-ātmakam](śivanārāyaṇātmakam)
 
 ## mukta-m0-p36-v897
-[brahma](brahmāṇaṃ) [vratin](vratinaṃ) [kuryat](kuryājjaṭāmukuṭabhūṣitam) [jata+mukuta+bhushita](jaṭāmukuṭabhūṣitam)
+[brahmāṇaṃ](brahmāṇaṃ) [vratinaṃ](vratinaṃ) [kuryāt](kuryājjaṭāmukuṭabhūṣitam) [jaṭā-mukuṭa-bhūṣitam](jaṭāmukuṭabhūṣitam)
 
 ## mukta-m0-p36-v898
-[krishna+ajina](kṛṣṇājinaṃ) [ca](ca) [tat+skandhe](tatskandhe) [vastra](vastraṃ) [ca](ca) [ajina+vasasa](ajinavāsasam)
+[kṛṣṇa-ajinaṃ](kṛṣṇājinaṃ) [ca](ca) [tat-skandhe](tatskandhe) [vastraṃ](vastraṃ) [ca](ca) [ajina-vāsasam](ājinavāsasam)
 
 ## mukta-m0-p36-v899
-[sruva](sruvaṃ) [kamandulu](kamaṇḍaluṃ) [vame](vāme) [sa+kusha+ajya+ghata](sakuśājyaghaṭaṃ) [tatha](tathā)
+[sruvaṃ](sruvaṃ) [kamaṇḍaluṃ](kamaṇḍaluṃ) [vāme](vāme) [sa-kuśa-ājya-ghaṭaṃ](sakuśājyaghaṭaṃ) [tathā](tathā)
 
 ## mukta-m0-p36-v900
-[gayatri](gāyatrīṃ) [ca+eva](caiva) [savitr](sāvitrīmṛṣīṃstatpārśvayostathā) [rsin](ṛṣīṃstatpārśvayostathā) [tat+parshvayoh](tatpārśvayostathā) [tatha](tathā)
+[gāyatrīṃ](gāyatrīṃ) [ca](ca) [eva](eva) [sāvitrīm](sāvitrīm) [ṛṣīn](ṛṣīṃs) [tat-pārśvayoḥ](tatpārśvayostathā) [tathā](tathā)
