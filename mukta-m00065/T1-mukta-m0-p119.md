@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p119-v2951
-[rest](viśrāmya) [one](ekāṃ) [then](tataḥ) [night](rātriṃ) [cow-dung](gomayena) [anoint](vilepayet)
+[viśrāmya](viśrāmya) [ekām](ekāṃ) [tataḥ](tato) [rātrim](rātriṃ) [gomayena](gomayena) [vilepayet](vilepayet)
 
 ## mukta-m0-p119-v2952
-[hemp-seed-decoction](śaṇaphalyāṅghikāṣāyai) [or](vā) [stone-resin](stopalatārasena)
+[śaṇa-phala-aṅghi-kāṣāyai](śaṇaphalyāṅghikāṣāyai) [stopala-tāra-sena](stopalatārasena) [vā](vā)
 
 ## mukta-m0-p119-v2953
-[steamed](utsvinna) [bean-water](māṣatoyena) [or](vā) [steamed-bilva-water](svinnabilvāmbunāpi)
+[utsvinna](utsvinna) [māṣa-toyena](māṣatoyena) [svinna-bilva-ambunā](svinnabilvāmbunā) [api](api) [vā](vā)
 
 ## mukta-m0-p119-v2954
-[then](tataś) [mortar-etc](colūkhalādyaistu) [coarse-powders](sthūlacūrṇāni) [make](kārayet)
+[tataḥ](tataś) [colūkhala-ādyaiḥ](colūkhalādyaistu) [tu](tu) [sthūla-cūrṇāni](sthūlacūrṇāni) [kārayet](kārayet)
 
 ## mukta-m0-p119-v2955
-[pot-interior](sthālyāgarbhe) [placing](tu) [then](tataḥ) [drugs](drayāṇi) [put](niḥkṣipet)
+[sthālyā-garbhe](sthālyāgarbhe) [tu](tu) [saṃsthāpya](saṃsthāpya) [tataḥ](tato) [dravyāṇi](drayāṇi) [niḥkṣipet](niḥkṣipet)
 
 ## mukta-m0-p119-v2956
-[sand](sikrāta) [cow-milk](gavyadugdhāni) [sal-resin](sarjatailātasīrajaḥ)
+[sikatā](sikrāta) [gavya-dugdhāni](gavyadugdhāni) [sarja-taila-atasī-rajaḥ](sarjatailātasīrajaḥ)
 
 ## mukta-m0-p119-v2957
-[mango-decoction](āmrātakāmbubhiḥ) [ground](piṣṭaṃ) [thick-mouthed](sthūlāsyā) [milk-named](dugdhi)
+[āmrātaka-ambubhiḥ](āmrātakāmbubhiḥ) [piṣṭam](piṣṭaṃ) [sthūla-āsyā](sthūlāsyā) [dugdhi-kāhvayā](dugdhi)
 
 ## mukta-m0-p119-v2958
-[decoction](kvāthena) [ram-horn](meṣaśṛṅgasya) [flax-powder-mixed](atasīcūrṇamiśritam)
+[kvāthena](kvāthena) [meṣa-śṛṅgasya](meṣaśṛṅgasya) [atasī-cūrṇa-miśritam](atasīcūrṇamiśritam)
 
 ## mukta-m0-p119-v2959
-[diamond-plaster](vajralepaḥ) [declared](samakhyātaḥ) [thus](tathā) [sal-resin-joined](sarjasamanvitaḥ)
+[vajra-lepaḥ](vajralepaḥ) [samakhyātaḥ](samakhyātastathā) [sarja-samanvitaḥ](sarjasamanvitaḥ)
 
 ## mukta-m0-p119-v2960
-[beeswax](madhūcchiṣṭena) [pastes](kalkaiśca) [hemp-born](śāṇajaiḥ) [strong-new](sudṛḍhairnavaiḥ)
+[madhūcchiṣṭena](madhūcchiṣṭena) [kalkaiḥ](kalkaiśca) [ca](ca) [śāṇa-jaiḥ](śāṇajaiḥ) [sudṛḍhaiḥ](sudṛḍhairnavaiḥ) [navaiḥ](navaiḥ)
 
 ## mukta-m0-p119-v2961
-[flax-oil-mixed](atasītailasammiśraṃ) [rubbing](mardayitvā) [well-cooked](supācitam)
+[atasī-taila-sammiśram](atasītailasammiśraṃ) [mardayitvā](mardayitvā) [su-pācitam](supācitam)
 
 ## mukta-m0-p119-v2962
-[gods-house-etc](suraveśmagṛhādīnāṃ) [ground-bond](bhūmibandho) [declared](nigadyate)
+[sura-veśma-gṛha-ādīnām](suraveśmagṛhādīnāṃ) [bhūmi-bandhaḥ](bhūmibandho) [nigadyate](nigadyate)
 
 ## mukta-m0-p119-v2963
-[firm-water-like](sthiratoyopamā) [make](kāryā) [ground](bhūmiḥ) [level](sutalā) [equal](samā)
+[sthira-toya-upamā](sthiratoyopamā) [kāryā](kāryā) [bhūmiḥ](bhūmistu) [tu](tu) [suta-lā](sutalā) [samā](samā)
 
 ## mukta-m0-p119-v2964
-[that-paste](tatkalkaṃ) [make](kārayet) [lump](piṇḍaṃ) [dry](viśoṣyaṃ) [lump](piṇḍam) [in-sun](ātape)
+[tat-kalkam](tatkalkaṃ) [kārayet](kārayet) [piṇḍam](piṇḍaṃ) [viśoṣyam](viśoṣyaṃ) [piṇḍam](piṇḍam) [ātape](ātape)
 
 ## mukta-m0-p119-v2965
-[then](tato) [with-gruel](maṇḍena) [rubbing](saṃmardya) [ground-bond](bhūmibandhaṃ) [make](kārayet)
+[tataḥ](tato) [maṇḍena](maṇḍena) [saṃmardya](saṃmardya) [bhūmi-bandham](bhūmibandhaṃ) [tu](tu) [kārayet](kārayet)
 
 ## mukta-m0-p119-v2966
-[make](kuryād) [ground](bhūmiṃ) [level](samaṃ) [pleasant](ramyaṃ) [stable](susthitaṃ) [water-filled](jalapūritam)
+[kuryāt](kuryād) [bhūmim](bhūmiṃ) [samam](samaṃ) [ramyam](ramyaṃ) [susthitam](susthitaṃ) [jala-pūritam](jalapūritam)
 
 ## mukta-m0-p119-v2967
-[drug](dravyaṃ) [according-to-time](kālānurūpeṇa) [apply](yojayet) [portion-measured](bhāgasammitam)
+[dravyam](dravyaṃ) [kāla-anurūpeṇa](kālānurūpeṇa) [yojayet](yojayet) [bhāga-sammitam](bhāgasammitam)
 
 ## mukta-m0-p119-v2968
-[summer](grīyme) [five-parts](nu) [pañcabhāgāḥ) [syuḥ] [cold-season](śītakāle) [thus](tathā) [three](trayaḥ)
+[grīṣme](grīyme) [nu](nu) [pañca-bhāgāḥ](pañcabhāgāḥ) [syuḥ](syuḥ) [śīta-kāle](śītakāle) [tathā](tathā) [trayaḥ](trayaḥ)
 
 ## mukta-m0-p119-v2969
-[thus](evaṃ) [giving](dattvā) [then](tu) [who](yaḥ) [before](pūrvaṃ) [bond](bandho) [here](atra) [said](kathitaḥ) [earth](kṣiteḥ)
+[evam](evaṃ) [dattvā](dattvā) [tu](tu) [yaḥ](yaḥ) [pūrvam](pūrvaṃ) [bandhaḥ](bandho) [atra](atra) [kathitaḥ](kathitaḥ) [kṣiteḥ](kṣiteḥ)
 
 ## mukta-m0-p119-v2970
-[water](toyena) [struck-brush](hatakūrcaṃ) [give](dāpayet) [that](tad) [expert](vicakṣaṇaḥ)
+[toyena](toyena) [hata-kūrcam](hatakūrcaṃ) [tu](tu) [dāpayet](dāpayettadvicakṣaṇaḥ) [tad-vicakṣaṇaḥ](tadvicakṣaṇaḥ)
 
 ## mukta-m0-p119-v2971
-[silk-cotton-ebony-etc](śālmalītindukādīnāṃ) [ground-bond](bhūmibandhe) [praised](praśasyate)
+[śālmalī-tinduka-ādīnām](śālmalītindukādīnāṃ) [bhūmi-bandhe](bhūmibandhe) [praśasyate](praśasyate)
 
 ## mukta-m0-p119-v2972
-[so-many-thousand-years](tāvadvarṣasahasrāṇi) [maker](kartā) [rejoices](nandati) [that-city](tatpure)
+[tāvat-varṣa-sahasrāṇi](tāvadvarṣasahasrāṇi) [kartā](kartā) [nandati](nandati) [tat-pure](tatpure)
 
 ## mukta-m0-p119-v2973
-[fifth](pañcamaḥ) [time-rod-named](kāladaṇḍākhyaḥ) [with-lineage](sānvayāḥ) [fruit-giving](phaladāyakāḥ)
+[pañcamaḥ](pañcamaḥ) [kāla-daṇḍa-ākhyaḥ](kāladaṇḍākhyaḥ) [sa-anvayāḥ](sānvayāḥ) [phala-dāyakāḥ](phaladāyakāḥ)
 
 ## mukta-m0-p119-v2974
-[confusion](vibhrāntiṃ) [delusion](vibhramaḥ) [makes](kuryāc) [chastiser](śāsakaḥ) [always](śāsayetsadā)
+[vibhrāntim](vibhrāntiṃ) [vibhramaḥ](vibhramaḥ) [kuryāt](kuryācchāsakaḥ) [śāsakaḥ](śāsakaḥ) [śāsayet](śāsayetsadā) [sadā](sadā)
 
 ## mukta-m0-p119-v2975
-[these](ete) [gods-house](suragṛhe) [obstacles](vighnā) [until](yāvat) [they](te) [not](tu) [worshipped](na) [pūjitāḥ)
+[ete](ete) [sura-gṛhe](suragṛhe) [vighnāḥ](vighnā) [yāvat](yāvatte) [te](te) [tu](tu) [na](na) [pūjitāḥ](pūjitāḥ)
