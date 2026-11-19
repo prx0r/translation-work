@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p161-v4001
-[lotus-stalk](mṛṇāla)+[shining](vilasat)+[arm](bāhuḥ) [noose](pāśa)+[goad](aṅkuśa)+[bow](dhanur)+[bearing](dharā)
+mṛṇāla-vilasat-bāhuḥ pāśa-aṅkuśa-dhanur-dharā
 
 ## mukta-m0-p161-v4002
-[copper](tāmra)+[lotus](paṅkaja)+[hand](pāṇi)+[splendor](śrīḥ) [nail](nakha)+[gem](ratna)+[radiant](prabhāvatī)
+tāmra-paṅkaja-pāṇi-śrīḥ nakha-ratna-prabhā-vatī
 
 ## mukta-m0-p161-v4003
-[mandāra-pair](mandāradvandva)+[beautiful-breasts](sukucā) [hair-line](romarājī)+[serpent](bhujaṅgakā)
+mandāra-dvandva-su-kucā roma-rājī-bhujaṅgakā
 
 ## mukta-m0-p161-v4004
-[jingling-girdle](raṇatkāñcī)+[cord](guṇa)+[raised](unnaddhā) [silk-garment](paṭṭāṃśuka)+[well-adorned](sunīvikā)
+raṇat-kāñcī-guṇa-unnaddhā paṭṭa-aṃśuka-su-nīvikā
 
 ## mukta-m0-p161-v4005
-[beautiful-knee](sujānu)+[mandara](mandara)+[attached](āsakta)+[shining-shin-pair](lasajjaṅghādvaya)+[endowed](anvitā)
+su-jānu-mandara-āsakta-lasat-jaṅghā-dvaya-anvitā
 
 ## mukta-m0-p161-v4006
-[yogi-meditated](yogidhyeya)+[foot-pair](padadvandva) [nectar](sudhā)+[immortal-stream](amṛtasāriṇī)
+yogi-dhyeya-pada-dvandvā sudhā-mā-amṛta-sāriṇī
 
 ## mukta-m0-p161-v4007
-[good-saint](sādhusiddhā)+[well-awakened](subuddhā) [wise](budhā) [host-of-gods](vṛndārakodayā)
+sādhu-siddhā su-buddhā ca budhā vṛndāraka-udayā
 
 ## mukta-m0-p161-v4008
-[deep-rasas](rasagambhīra)+[lake](sarasī)+[lotus](padminī) [essence-of-rasa](rasasāra)+[sā](sā)
+rasa-gambhīra-sarasī-padminī (300) rasa-sāra-sā
 
 ## mukta-m0-p161-v4009
-[dance-king-beloved](naṭarājapriyā) [universal-dance](viśvanāṭyā) [dancer-of-dancers](nartakanartakī)
+naṭa-rāja-priyā viśva-nāṭyā nartaka-nartakī
 
 ## mukta-m0-p161-v4010
-[peak-peak](kūṭārakūṭā) [abiding-in-peak](kūṭasthā) [five-peaks](pañcakūṭā) [fifth](pañcamī)
+kūṭāra-kūṭā kūṭa-sthā pañca-kūṭā ca pañcamī
 
 ## mukta-m0-p161-v4011
-[sixteen-syllables](ṣoḍaśārṇa)+[complete](saṃpannā) [fourth](turīyā) [supreme-art](paramākalā)
+kūṭa-ṣoḍaśa-saṃpannā turīyā paramā-kalā
 
 ## mukta-m0-p161-v4012
-[sixteen-syllables](ṣoḍaśārṇā) [three-colors](trivarṇā) [bindu-nāda-form](bindunādasvarūpiṇī)
+ṣoḍaśa-arṇā tri-varṇā ca bindu-nāda-svarūpiṇī
 
 ## mukta-m0-p161-v4013
-[consciousness-vine](caitanyavallī) [peak-self](kūṭātmā) [desire-lady](kāmeśī) [dream-visible](svapnadṛśyagā)
+caitanya-vallī kūṭa-ātmā kāmeśī svapna-dṛśya-gā
 
 ## mukta-m0-p161-v4014
-[dream-refuge](svapnāśrayā) [deep-sleep](suṣupti) [drowsiness-freed](tandrāmuktā) [mādhavī](mādhavī)
+svapna-āśrayā suṣuptiḥ ca tandrā-muktā ca mādhavī
 
 ## mukta-m0-p161-v4015
-[śākambharī](śākambharī) [nandi-vidyā](nandividyā) [radiant-garland](bhāsvadvidyotamālinī)
+śākambharī nandi-vidyā bhāsvat-vidyota-mālinī
 
 ## mukta-m0-p161-v4016
-[sādhaka-leader](sādhakendra)+[gait](gatiḥ) [virtuous](sādhvī) [easily-obtained](sulabhā) [siddhi-cave](siddhikandarā)
+sādhaka-indra-gatiḥ sādhvī su-labhā siddhi-kandarā
 
 ## mukta-m0-p161-v4017
-[nourishment](puṣṭi)+[obstacle-remover](vighnaharī) [prosperity](bhūti)+[faultless](viguṇā) [worshipable](pūjya)+[wish-cow](kāmadhuk)
+puṣṭiḥ vighna-harī bhūtiḥ viguṇā pūjya-kāma-dhuk
 
 ## mukta-m0-p161-v4018
-[all-parted-hair](sarvasīmantinī) [liberation](mokṣā) [initiation](dīkṣā) [initiated-mother](dīkṣitamātṛkā)
+sarva-sīmantinī mokṣā dīkṣā dīkṣita-mātṛkā
 
 ## mukta-m0-p161-v4019
-[youth-maddening](yauvanonmādinī) [lofty](tuṅgā) [beautiful-hips](suśroṇi) [love-slow](madamantharā)
+yauvana-unmādinī tuṅgā su-śroṇiḥ madana-mantharā
 
 ## mukta-m0-p161-v4020
-[red-garland-radiance](raktamālāruciḥ) [crest](śikhā)+[crest-marked](śikhaṇḍinī)+[very-beautiful](atisundarī)
+rakta-mālā-ruciḥ śikā-śikhaṇḍinī ati-sundarī
 
 ## mukta-m0-p161-v4021
-[wish-cow](surabhī) [desire-giving](kāmadā) [desirable](kāmyā) [lovely](kamanīyā)+[object-desire-giving](arthakāmadā)
+surabhī kāma-dā kāmyā kamanīya-artha-kāma-dā
 
 ## mukta-m0-p161-v4022
-[goloka-goddess](golokadevī) [world-splendor](lokaśrīḥ) [goloka-protectress](golokaparipālikā)
+goloka-devī (400) loka-śrīḥ goloka-paripālikā
 
 ## mukta-m0-p161-v4023
-[rudra-consort](rudrapatnī) [auspicious-mother](bhadramātā) [nectar-stream](sudhādhārā)+[water-seeing](ambuvikṣatiḥ)
+rudra-patnī bhadra-mātā sudhā-dhārā-ambu-vikṣatiḥ
 
 ## mukta-m0-p161-v4024
-[milk-filled-ocean-going](kṣīrapūrṇārṇavagatiḥ) [nectar-womb](sudhāyoniḥ) [beautiful-eyed](sulocanā)
+kṣīra-pūrṇa-arṇava-gatiḥ sudhā-yoniḥ su-locanā
 
 ## mukta-m0-p161-v4025
-[good-conduct](sucāritrā) [good-tripura](sutripurā) [good-breasted](sustanī) [breast-loving](stanavatsalā)
+su-cāritrā su-tripurā su-stanī stana-vatsalā
