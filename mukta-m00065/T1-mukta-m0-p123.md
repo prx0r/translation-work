@@ -11,58 +11,58 @@
 [prātar](prātaḥ) [snāta](snātaḥ) [śuci](śuciḥ) [śuddha](śuddhaḥ) [pūjā](pūjāṃ) [kuryāt](kuryāt) [sva-vitta-taḥ](svavittataḥ)
 
 ## mukta-m0-p123-v3054
-[pañcabhiḥ+madhuraiḥ](pañcabhirmadhuraiḥ) [snāna](snānaṃ) [jala-antaraiḥ](jalāntarair) [virukṣaṇa](virukṣaṇam)
+[pañcabhiḥ](pañcabhirmadhuraiḥ) [madhuraiḥ](pañcabhirmadhuraiḥ) [snāna](snānaṃ) [jala-antara](jalāntaraiḥ) [virukṣaṇa](virukṣaṇam)
 
 ## mukta-m0-p123-v3055
-[aṣṭāṅga](aṣṭāṅgo) [argha](arghaṃ) [pradāya](pradāya) [atha](atha) [samālabhya](samālabhya) [prapūjayet](prapūjayet)
+[aṣṭāṅga](aṣṭāṅgo) [argha](arghaṃ) [pradāya](pradāyātha) [atha](pradāyātha) [samālabhya](samālabhya) [prapūjayet](prapūjayet)
 
 ## mukta-m0-p123-v3056
-[vastraiḥ](vastraiḥ) [saṃchādita](saṃchāditaṃ) [veśma](veśma) [ghaṭa-ācāmara-bhūṣaṇaiḥ](ghaṭācāmarabhūṣaṇaiḥ)
+[vastra](vastraiḥ) [saṃchādita](saṃchāditaṃ) [veśman](veśma) [ghaṭa](ghaṭā) [cāmara](cāmara) [bhūṣaṇa](bhūṣaṇaiḥ)
 
 ## mukta-m0-p123-v3057
-[kadalī-cūta-mālābhiḥ](kadalīcūtamālābhir) [jāta-bīja-sarocakaiḥ](jātabījasarocakaiḥ)
+[kadalī](kadalī) [cūta](cūta) [mālā](mālābhir) [jāta-bīja](jātabīja) [sarocaka](sarocakaiḥ)
 
 ## mukta-m0-p123-v3058
-[nṛtya-gītaiḥ](nṛtyagītaiḥ) [kalaiḥ](kalair) [vādyaiḥ](vādyair) [nayet](nayed) [rātriṃ](rātriṃ) [mahotsavaiḥ](mahotsavaiḥ)
+[nṛtya](nṛtya) [gīta](gītaiḥ) [kala](kalair) [vādya](vādyair) [nayed](nayed) [rātri](rātriṃ) [mahotsava](mahotsavaiḥ)
 
 ## mukta-m0-p123-v3059
-[bhaktyā](bhakttyā) [santoṣayet](santoṣayet) [sarvān](sarvān) [vastra-dāna-ādi-bhojanaiḥ](vastradānādibhojanaiḥ)
+[bhakti](bhakttyā) [santoṣayet](santoṣayet) [sarvān](sarvān) [vastra-dāna-ādi](vastradānādibhojanaiḥ) [bhojana](vastradānādibhojanaiḥ)
 
 ## mukta-m0-p123-v3060
-[sarva-pāpa-vinirmuktaḥ](sarvapāpavinirmukto) [rudra-loke](rudraloke) [mahīyate](mahīyate)
+[sarva-pāpa-vinirmukta](sarvapāpavinirmukto) [rudra-loka](rudraloke) [mahīyate](mahīyate)
 
 ## mukta-m0-p123-v3061
-[khaṭvā-śayana-mithyokti](khaṭvāśayanamithyokti) [strī-yātrā-miṣa-varjakaḥ](strīyātrāmiṣavarjakaḥ)
+[khaṭvā-śayana](khaṭvāśayanamithyokti) [mithyā-ukti](khaṭvāśayanamithyokti) [strī-yātrā](strīyātrā) [miṣa-varjaka](miṣavarjakaḥ)
 
 ## mukta-m0-p123-v3062
-[pūjāṃ](pūjāṃ) [kṛtvā](kṛtvā) [śivaṃ](śivaṃ) [natvā](natvā) [pavitraṃ](pavitraṃ) [ca](ca) [visarjayet](visarjayet)
+[pūjā](pūjāṃ) [kṛtvā](kṛtvā) [śiva](śivaṃ) [natvā](natvā) [pavitra](pavitraṃ) [ca](ca) [visarjayet](visarjayet)
 
 ## mukta-m0-p123-v3063
-[kṛtvā](kṛtvā) [kṣipet](kṣipet) [pavitrāṇi](pavitrāṇi) [śiva-agnau](śivāgnau) [vā](vā) [sadā-ambhasi](sadāmbhasi)
+[kṛtvā](kṛtvā) [kṣipet](kṣipet) [pavitrāṇi](pavitrāṇi) [śiva-agni](śivāgnau) [vā](vā) [sadā-ambhasi](sadāmbhasi)
 
 ## mukta-m0-p123-v3064
-[syāt](syāt) [prāyaścitta-adho-gāmī](prāyaścityadhogāmī) [kṛtaḥ](kṛto) [rudraḥ](rudro) [abda-koṭiśaḥ](rudro'bda koṭiśaḥ)
+[syāt](syāt) [prāyaścitta-adhogāmī](prāyaścityadhogāmī) [kṛta](kṛto) [rudra](rudro) [abda-koṭiśaḥ](abda)
 
 ## mukta-m0-p123-v3065
-[tāmra-liṅga-arcana-arkaḥ](tāmraliṅgārcanādarkaḥ) [piśācaḥ](piśāco) [vaṃśa-sambhavāt](vaṃśasambhavāt)
+[tāmra-liṅga-arcana-darka](tāmraliṅgārcanādarkaḥ) [piśāca](piśāco) [vaṃśa-sambhava](vaṃśasambhavāt)
 
 ## mukta-m0-p123-v3066
-[sīsa-jāḥ](sīsajā) [guhyakāḥ](dguhyakāḥ) [sarve](sarve) [loha-rakṣaḥ-asura-antakāḥ](lohādrakṣo'surāntakāḥ)
+[sīsa-ja](sīsajā) [guhyaka](dguhyakāḥ) [sarve](sarve) [loha](lohā) [rakṣaḥ](rakṣo) [asura-antaka](asurāntakāḥ)
 
 ## mukta-m0-p123-v3067
-[padmarāga-hutāśaḥ](padmarāgāddhutāśaśca) [ca](ca) [indranīla-arcana-hariḥ](indranīlārcanāddhariḥ)
+[padmarāga](padmarāgāddhutāśaśca) [hutāśa](padmarāgāddhutāśaśca) [indranīla](indranīlārcanāddhariḥ) [arcana](indranīlārcanāddhariḥ) [hari](indranīlārcanāddhariḥ)
 
 ## mukta-m0-p123-v3068
-[vaidruma-asya-arcana-nāgāḥ](vaidrumāsyārcanānnāgāḥ) [śukraḥ](śukraḥ) [kārketana-āt](kārketanāt) [sadā](sadā)
+[vaidruma](vaidrumāsyārcanānnāgāḥ) [āsya](vaidrumāsyārcanānnāgāḥ) [arcana](vaidrumāsyārcanānnāgāḥ) [nāga](vaidrumāsyārcanānnāgāḥ) [śukra](śukraḥ) [kārketana](kārketanātsadā)
 
 ## mukta-m0-p123-v3069
-[paulastyaḥ](paulastyo) [jīva-jātibhyaḥ](jīvajātibhyaṣṭai) [siddha-kinnarāḥ](siddhakinnarāḥ)
+[paulastya](paulastyo) [jīva-jāti](jīvajātibhyaṣṭai) [ṭṭibha](ṭṭibhātsiddhakinnarāḥ) [siddha](siddhakinnarāḥ) [kinnara](siddhakinnarāḥ)
 
 ## mukta-m0-p123-v3070
-[aśvinau](aśvinau) [pakva-mṛd-bhūtāt](pakvamṛdbhūtād) [gandharvāḥ](gandharvā) [dāra-sambhavāt](dārasambhavāt)
+[aśvinau](aśvinau) [pakva-mṛd-bhūta](pakvamṛdbhūtādgandharvā) [gandharva](gandharvā) [dāra-sambhava](dārasambhavāt)
 
 ## mukta-m0-p123-v3071
-[kūrma-kauśika-bhūtāt](kūrmakauśi) [vāsuki-nāyināyakaḥ](vāsukinayināyakaḥ)
+[kūrma](kūrmakauśi) [kauśi](kūrmakauśi) [kasa-bhūta](kasabhūtādvāsukinayināyakaḥ) [vāsuki](vāsukinayināyakaḥ) [nayināyaka](vāsukinayināyakaḥ)
 
 ## mukta-m0-p123-v3072
 [liṅga-saṃsthāpana-arcana](liṅgasaṃsthāpanārcanāt)
@@ -71,7 +71,7 @@
 [somapāḥ](somapāḥ)
 
 ## mukta-m0-p123-v3074
-[nānā-phala-uttha-liṅgāni](nānāphalotthaliṅgāni) [vidhinā](vidhinā) [sevitāni](sevitāni) [ca](ca)
+[nānā-phala-uttha-liṅga](nānāphalotthaliṅgāni) [vidhi](vidhinā) [sevitāni](sevitāni) [ca](ca)
 
 ## mukta-m0-p123-v3075
-[saikatāt](saikatād) [viśvakarmā](viśvakarmā) [ca](ca) [śacīśaḥ](śacīśo) [lavaṇa-bhavāt](lavaṇo dbhavāt)
+[saikata](saikatādviśvakarmā) [viśvakarmā](saikatādviśvakarmā) [śacīśa](śacīśo) [lavaṇa](lavaṇo) [dbhava](dbhavāt)

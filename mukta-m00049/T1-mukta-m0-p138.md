@@ -5,70 +5,70 @@
 [by-mantra](mantreṇa) [to-deity](devāya) [garment](vastre) [should-give](dadyāt)
 
 ## mukta-m0-p138-v3427
-[mantra-says](mantramāha) [viśvābharaṇa](viśvābharaṇa) [to-being](bhūtāya) [thus](iti)
+[mantra-says](mantramāha) [world-ornament](viśvābharaṇa) [to-being](bhūtāya) [thus](iti)
 
 ## mukta-m0-p138-v3428
 [to-him](tasmai) [supreme-self](parātmane) [to-you](tubhyaṃ) [supreme](paramaṃ) [fragrance](gandham) [I-offer](arpaye)
 
 ## mukta-m0-p138-v3429
-[by-me](mayā) [offered](niveditaṃ) [with-devotion](bhaktyā) [flower](puṣpam) [this](etat) [be-received](pragṛhyatām)
+[by-me](mayā) [offered](niveditaṃ) [with-devotion](bhaktyā) [flower](puṣpam) [this](etat) [be-accepted](pragṛhyatām)
 
 ## mukta-m0-p138-v3430
-[worthy-of-smelling](āghreyaḥ) [of-all-beings](sarvabhūtānāṃ) [incense](dhūpaḥ) [for-nose](ghrāṇāya) [to-you](te) [is-offered](arpyate)
+[to-be-smelled](āghreyaḥ) [of-all-beings](sarvabhūtānāṃ) [incense](dhūpo) [for-nose](ghrāṇāya) [to-you-is-offered](te'rpyate)
 
 ## mukta-m0-p138-v3431
-[with-external-and-internal-light](sabāhyābhyantarajyotiḥ) [lamp](dīpaḥ) [this](ayaṃ) [be-received](pratigṛhyatām)
+[with-external-internal-light](sabāhyābhyantarajyotir) [lamp-this](dīpo'yaṃ) [be-accepted](pratigṛhyatām)
 
 ## mukta-m0-p138-v3432
-[I-offer](nivedayāmi) [with-devotion](bhaktyā) [this](idaṃ) [accept](juṣāṇa) [supreme-lord](parameśvara)
+[I-offer](nivedayāmi) [with-devotion-this](bhaktyedaṃ) [accept](juṣāṇa) [supreme-lord](parameśvara)
 
 ## mukta-m0-p138-v3433
-[all-satisfying](sarvatṛptikaraṃ) [pure](svaccham) [I-offer](arpayāmi) [salutation](namo) [to-you](astu) [to-you](te)
+[all-satisfying](sarvatṛptikaraṃ) [pure](svaccham) [I-offer](arpayāmi) [salutation-be](namo'stu) [to-you](te)
 
 ## mukta-m0-p138-v3434
-[betel](tāmbūlaṃ) [again](punar) [rinsing](ācamyaṃ) [having-given](dattvā) [salutation](vandanam) [should-do](ācaret)
+[betel](tāmbūlaṃ) [again-rinse](punarācamyaṃ) [having-given](dattvā) [salutation](vandanam) [should-do](ācaret)
 
 ## mukta-m0-p138-v3435
 [fragrance](gandhaṃ) [should-give](dadyāt)
 
 ## mukta-m0-p138-v3436
-[by-mantra-beginning-puṣpam](puṣpamityādinā) [mantra](mantreṇa) [to-deity](devāya) [flower](puṣpaṃ) [should-give](dadyāt)
+[by-mantra](mantreṇa) [to-deity](devāya) [flower](puṣpaṃ) [should-give](dadyāt)
 
 ## mukta-m0-p138-v3437
 [by-mantra](mantreṇa) [to-deity](devāya) [incense](dhūpaṃ) [should-give](dadyāt)
 
 ## mukta-m0-p138-v3438
-[by-mantra-beginning-suprakāśa](suprakāśa-ityādi-mantreṇa) [to-deity](devāya) [lamp](dīpaṃ) [should-give](dadyāt)
+[by-mantra](suprakāśa) [to-deity](devāya) [lamp](dīpaṃ) [should-give](dadyāt)
 
 ## mukta-m0-p138-v3439
-[by-mantra-beginning-naivedyam](naivedyamityādinā) [to-deity](devāya) [food-offering](naivedyaṃ) [should-give](dadyāt)
+[by-mantra](naivedyamityādinā) [to-deity](devāya) [food-offering](naivedyaṃ) [should-give](dadyāt)
 
 ## mukta-m0-p138-v3440
-[should-give](dadyāt) [or](vā) [separate](pṛthak) [vessel](ādhāraṃ) [each-name](tattannāma) [reciting](samuccaran)
+[should-give](dadyāt) [or](vā) [separate-vessel](pṛthagādhāraṃ) [each-name](tattannāma) [reciting](samuccaran)
 
 ## mukta-m0-p138-v3441
-[covered](sācchādanaṃ) [house](gṛhaṃ) [having-sprinkled](prokṣya) [should-recite](paṭhet) [this](enaṃ) [with-folded-hands](kṛtāñjaliḥ)
+[with-covering](sācchādanaṃ) [house](gṛhaṃ) [having-sprinkled](prokṣya) [should-recite](paṭhed) [this](enaṃ) [with-folded-hands](kṛtāñjaliḥ)
 
 ## mukta-m0-p138-v3442
-[in-deity-installation-gifts](devatāsthitidāneṣu) [like-sumeru](sumerusadṛśaḥ) [become](bhava)
+[deity-establishment-gifts](devatāsthitidāneṣu) [sumeru-like](sumerusadṛśo) [become](bhava)
 
 ## mukta-m0-p138-v3443
-[that](yat) [by-you](tvayā) [held](vidhṛtaḥ) [deity](devaḥ) [therefore](tasmāt) [you](tvaṃ) [god-venerated](suravanditaḥ)
+[that](yat) [by-you](tvayā) [held](vidhṛto) [deity](devaḥ) [therefore](tasmāt) [you](tvaṃ) [god-honored](suravanditaḥ)
 
 ## mukta-m0-p138-v3444
 [of-illusion-held-body](māyavidhṛtadehasya) [of-that](tasya) [image](mūrteḥ) [holding](vidhāraṇāt)
 
 ## mukta-m0-p138-v3445
-[all-desires-giving](sarvakāmapradaḥ) [having-become](bhūtvā) [peace](śāntiṃ) [to-me](me) [do](kuru) [salutation](te) [namaḥ](namaḥ)
+[all-desires-giver](sarvakāmaprado) [having-become](bhūtvā) [peace](śāntiṃ) [to-me](me) [make](kuru) [to-you](te) [salutation](namaḥ)
 
 ## mukta-m0-p138-v3446
-[for-own-desire](ātmanaḥ) [kāmam](kāmam) [aiming](uddiśya) [should-give](dadyāt) [to-deity](devāya) [practitioner](sādhakaḥ)
+[of-self](ātmanaḥ) [desire](kāmam) [aiming](uddiśya) [should-give](dadyāt) [to-deity](devāya) [adept](sādhakaḥ)
 
 ## mukta-m0-p138-v3447
-[this](enaṃ) [kaṃ](kaṃ) [should-recite](paṭed) [thus-question](ityākāṅkṣāyām) [says](āha) [house](geha) [you](tvam) [etc](ityādi)
+[this](enaṃ) [whom](kaṃ) [should-recite](paṭed) [thus-question](ityākāṅkṣāyām) [says](āha) [house](geha) [you](tvam) [etc](ityādi)
 
 ## mukta-m0-p138-v3448
-[in-belly](kukṣau) [in-abdomen](udare)
+[in-belly](kukṣau) [in-belly](udare)
 
 ## mukta-m0-p138-v3449
 [should-give](dadyāt)
