@@ -16,7 +16,7 @@
 },
 {
 "surface": "kuṣṭharogavināśinī",
-"quick_gloss": "leprosy-destroying"
+"quick_gloss": "leprosy-disease-destroying"
 }
 ]
 },
@@ -54,7 +54,7 @@
 "tokens": [
 {
 "surface": "brahmāṇḍacāriṇī",
-"quick_gloss": "universe-moving"
+"quick_gloss": "brahmanda-moving"
 },
 {
 "surface": "sphūrtiḥ",
@@ -62,7 +62,7 @@
 },
 {
 "surface": "brahmāṇī",
-"quick_gloss": "brahmāṇī"
+"quick_gloss": "brahmani"
 },
 {
 "surface": "brahmasaṃmatā",
@@ -79,11 +79,15 @@
 "tokens": [
 {
 "surface": "kalpavallī",
-"quick_gloss": "wish-fulfilling-creeper"
+"quick_gloss": "wish-tree-creeper"
 },
 {
 "surface": "kṛṣāṅgī",
 "quick_gloss": "thin-limbed"
+},
+{
+"surface": "ca",
+"quick_gloss": "and"
 },
 {
 "surface": "kalpapādapavāsinī",
@@ -100,7 +104,7 @@
 "tokens": [
 {
 "surface": "bhūtirājñī",
-"quick_gloss": "wealth-queen"
+"quick_gloss": "being-queen"
 },
 {
 "surface": "viśvarājñī",
@@ -112,7 +116,7 @@
 },
 {
 "surface": "śivāśrayā",
-"quick_gloss": "śiva-refuge"
+"quick_gloss": "shiva-refuge"
 }
 ]
 },
@@ -175,7 +179,7 @@
 "tokens": [
 {
 "surface": "dayākarā",
-"quick_gloss": "compassionate"
+"quick_gloss": "compassion-maker"
 }
 ]
 },
@@ -242,15 +246,15 @@
 },
 {
 "surface": "yakṣarājñī",
-"quick_gloss": "yakṣa-queen"
+"quick_gloss": "yaksha-queen"
 },
 {
 "surface": "bhūtarājñī",
-"quick_gloss": "spirit-queen"
+"quick_gloss": "being-queen"
 },
 {
 "surface": "śivāsanā",
-"quick_gloss": "śiva-seated"
+"quick_gloss": "shiva-seated"
 }
 ]
 },
@@ -275,7 +279,7 @@
 },
 {
 "surface": "ratipriyā",
-"quick_gloss": "love-pleasing"
+"quick_gloss": "love-loving"
 }
 ]
 },
@@ -288,7 +292,7 @@
 "tokens": [
 {
 "surface": "siddharājñī",
-"quick_gloss": "accomplished-queen"
+"quick_gloss": "perfected-queen"
 },
 {
 "surface": "vibhārājñī",
@@ -300,7 +304,7 @@
 },
 {
 "surface": "vibhāmayī",
-"quick_gloss": "shining"
+"quick_gloss": "illuminating"
 }
 ]
 },
@@ -342,7 +346,7 @@
 },
 {
 "surface": "ratnarājñī",
-"quick_gloss": "gem-queen"
+"quick_gloss": "jewel-queen"
 },
 {
 "surface": "yugarājñī",
@@ -350,7 +354,7 @@
 },
 {
 "surface": "maṇiprabhā",
-"quick_gloss": "jewel-radiant"
+"quick_gloss": "gem-splendor"
 }
 ]
 },
@@ -363,7 +367,7 @@
 "tokens": [
 {
 "surface": "bindurājñī",
-"quick_gloss": "point-queen"
+"quick_gloss": "bindu-queen"
 },
 {
 "surface": "nādarājñī",
@@ -374,8 +378,12 @@
 "quick_gloss": "self-queen"
 },
 {
+"surface": "ca",
+"quick_gloss": "and"
+},
+{
 "surface": "sadgatiḥ",
-"quick_gloss": "good-course"
+"quick_gloss": "good-goal"
 }
 ]
 },
@@ -388,7 +396,7 @@
 "tokens": [
 {
 "surface": "īśānarājñī",
-"quick_gloss": "īśāna-queen"
+"quick_gloss": "ishana-queen"
 },
 {
 "surface": "rājeśī",
@@ -396,7 +404,7 @@
 },
 {
 "surface": "svāhārājñī",
-"quick_gloss": "svāhā-queen"
+"quick_gloss": "svaha-queen"
 },
 {
 "surface": "mahattarā",
@@ -417,7 +425,7 @@
 },
 {
 "surface": "tattvarājñī",
-"quick_gloss": "principle-queen"
+"quick_gloss": "essence-queen"
 },
 {
 "surface": "vāgrājñī",
@@ -437,8 +445,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "itīdaṃ",
-"quick_gloss": "thus-this"
+"surface": "iti",
+"quick_gloss": "thus"
+},
+{
+"surface": "idaṃ",
+"quick_gloss": "this"
 },
 {
 "surface": "mantrasarvasvaṃ",
@@ -459,7 +471,7 @@
 "tokens": [
 {
 "surface": "sarvatattvamayaṃ",
-"quick_gloss": "all-principle-filled"
+"quick_gloss": "all-essence-filled"
 },
 {
 "surface": "puṇyaṃ",
@@ -518,7 +530,7 @@
 "tokens": [
 {
 "surface": "dūrādeva",
-"quick_gloss": "far-away-flee"
+"quick_gloss": "from-far"
 },
 {
 "surface": "palāyante",
@@ -542,16 +554,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "paṭhanādvidravantyāśu",
-"quick_gloss": "by-recitation-flee-quickly"
+"surface": "paṭhanāt",
+"quick_gloss": "by-recitation"
+},
+{
+"surface": "vidravantyāśu",
+"quick_gloss": "flee-quickly"
 },
 {
 "surface": "mahākālādiva",
-"quick_gloss": "like-great-kāla"
+"quick_gloss": "like-great-kala"
 },
 {
 "surface": "prajāḥ",
-"quick_gloss": "creatures"
+"quick_gloss": "people"
 }
 ]
 },
@@ -568,7 +584,7 @@
 },
 {
 "surface": "cāndrāyaṇāyutasya",
-"quick_gloss": "cāndrāyaṇa-ten-thousand"
+"quick_gloss": "chandrayana-ten-thousand"
 },
 {
 "surface": "ca",
