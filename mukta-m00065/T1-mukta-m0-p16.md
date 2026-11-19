@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p16-v376
-[māhendrī-vāruṇī-jātāḥ](māhendrīvāruṇījātāḥ) [weapons](śastrāḥ) [and](ca) [others](anye) [and](ca) [condemned](garhitāḥ)
+[māhendrī](māhendrī) [vāruṇī](vāruṇī) [jātāḥ](jātāḥ) [śastrāḥ](śastrāḥ) [ca](ca) [anye](anye) [ca](ca) [garhitāḥ](garhitāḥ)
 
 ## mukta-m0-p16-v377
-[śamī](śamī) [drākṣā](drākṣā) [surāhva](surāhvaḥ) [ca](ca) [nine](nava) [these](ete) [brāhmaṇa-peace-giving](vipraśāntidāḥ)
+[śamī](śamī) [drākṣā](drākṣā) [surā](surā) [āhvā](āhvā) [ca](ca) [nava](nava) [ete](ete) [vipra](vipra) [śānti](śānti) [dāḥ](dāḥ)
 
 ## mukta-m0-p16-v378
-[kadara](kadarā) [śoka-vegetable](śokaśākaṃ) [and](ca) [śṛṅgī](śṛṅgī) [and](ca) [king-prosperity-giving](nṛpabhūtidā)
+[kadaraḥ](kadarā) [śveta](śveta) [khadiraḥ](khadiraḥ) [śoka](śoka) [śākaṃ](śākaṃ) [ca](ca) [śṛṅgī](śṛṅgī) [nṛpa](nṛpa) [bhūti](bhūti) [dā](dā)
 
 ## mukta-m0-p16-v379
-[sarala](saralaḥ) [jackfruit](panasaḥ) [seed](bījaḥ) [thus](iti) [these](ete) [vaiśya-growth-giving](vaiśyavṛddhidāḥ)
+[saralaḥ](saralaḥ) [panasaḥ](panaso) [bījaḥ](bīja) [iti](iti) [ete](ete) [vaiśya](vaiśya) [vṛddhi](vṛddhi) [dāḥ](dāḥ)
 
 ## mukta-m0-p16-v380
-[kāñcanāsana](kāñcanāsana) [lodhra](lodhrāḥ) [ca](ca) [sāla](sāla) [śūdra-nourishment-giving](śūdrasyapuṣṭidāḥ)
+[kāñcana](kāñcanāsana) [asana](asana) [lodhrāḥ](lodhrāḥ) [ca](ca) [sāla](sāla) [śūdrasya](śūdrasya) [puṣṭi](puṣṭi) [dāḥ](dāḥ)
 
 ## mukta-m0-p16-v381
-[well-rooted](subhūsthāḥ) [beautiful](śobhanāḥ) [heart-pleasing](hṛdyāḥ) [healthy](ārogyāḥ) [youth-bearing](yauvanodvahāḥ)
+[subhū](subhūsthāḥ) [sthāḥ](sthāḥ) [śobhanāḥ](śobhanā) [hṛdyāḥ](hṛdyā) [ārogyāḥ](ārogyā) [yauvana](yauvana) [udvahāḥ](udvahāḥ)
 
 ## mukta-m0-p16-v382
-[essence-centered](sāramadhyāḥ) [very-firm](draḍhīyāṃsaḥ) [not](na) [other-works](anyakāryeṣu) [employed](yojitāḥ)
+[sāra](sāramadhyā) [madhyāḥ](madhyā) [draḍhīyāṃsaḥ](draḍhīyāṃso) [na](na) [anya](anya) [kāryeṣu](kāryeṣu) [yojitāḥ](yojitāḥ)
 
 ## mukta-m0-p16-v383
-[knotted-vein-possessing](granthitulyaśirāyuktān) [old-young-sick](bṛddhabālāturāṃs) [trees](tarūn)
+[granthi](granthitulya) [tulya](tulya) [śirā](śirā) [yuktān](yuktān) [vṛddha](vṛddha) [bāla](bāla) [ātura](ātura) [tarūn](tarūn)
 
 ## mukta-m0-p16-v384
-[ant-hill-born](valmikotthān) [cremation-ground-born](śmaśānotthān) [fruit-water](phalāmbhaḥ) [used](sevitān) [abandon](tyajet)
+[valmika](valmikotthān) [utthān](utthān) [śmaśāna](śmaśānotthān) [utthān](utthān) [phala](phala) [ambhaḥ](ambhaḥ) [sevitān](sevitāṃs) [tyajet](tyajet)
 
 ## mukta-m0-p16-v385
-[rough-contact](kharitsaṅgama) [deity-born](devotthān) [ascetic-hermitage-born](tāpasāśramajān) [abandon](tyajet)
+[khari](kharitsaṅgama) [tsaṅgama](tsaṅgama) [deva](devotthān) [utthān](utthān) [tāpasa](tāpasāśrama) [āśrama](āśrama) [jān](jān) [tyajet](tyajet)
 
 ## mukta-m0-p16-v386
-[quickly](acireṇa) [indeed](eva) [time](kālena) [movable](cālakaḥ) [not](na) [becomes](bhaved) [that](asau)
+[acireṇa](acireṇa) [eva](eva) [kālena](kālena) [cālakaḥ](cālako) [na](na) [bhavet](bhaved) [asau](asau)
 
 ## mukta-m0-p16-v387
-[divine-rite](devakārye) [no](na) [fault](doṣaḥ) [would-be](syāt) [thus](iti) [said](uktam) [in-Pārameśvara](pārameśvare)
+[deva](devakārye) [kārye](kārye) [na](na) [doṣaḥ](doṣaḥ) [syāt](syād) [iti](iti) [uktam](uktaṃ) [pārameśvare](pārameśvare)
 
 ## mukta-m0-p16-v388
-[purify](śodhayet) [ground-portion](bhūmibhāgaṃ) [tu](tu) [four-directions](caturdikṣu) [all-around](samantataḥ)
+[śodhayet](śodhayed) [bhūmi](bhūmi) [bhāgaṃ](bhāgaṃ) [tu](tu) [catur](catur) [dikṣu](dikṣu) [samantataḥ](samantataḥ)
 
 ## mukta-m0-p16-v389
-[then](tataḥ) [chief-artisans](śilpipradhānāḥ) [ca](ca) [helpers](sahāyāḥ) [flowers-etc](kusumādibhiḥ)
+[tataḥ](tataḥ) [śilpi](śilpipradhānāḥ) [pradhānāḥ](pradhānāḥ) [ca](ca) [sahāyāḥ](sahāyāḥ) [kusuma](kusumādibhiḥ) [ādibhiḥ](ādibhiḥ)
 
 ## mukta-m0-p16-v390
-[reverse](viparīta) [then](tadā) [minister](mantrī) [from-afar](dūrataḥ) [that](taṃ) [avoid](vivarjayet)
+[viparīta](viparīta) [tadā](tadā) [mantrī](mantrī) [dūrataḥ](dūrataḥ) [taṃ](taṃ) [vivarjayet](vivarjayet)
 
 ## mukta-m0-p16-v391
-[cow-dung](gomayena) [then](tato) [ground](bhūmi) [smearing](lepayitvā) [guru](guruḥ) [then](tadā)
+[gomayena](gomayena) [tataḥ](tato) [bhūmi](bhūmi) [lepayitvā](lepayitvā) [guruḥ](gurustadā) [tadā](tadā)
 
 ## mukta-m0-p16-v392
-[meditating](dhyātvā) [deity](devaṃ) [ca](ca) [informing](vijñāpya) [making](kṛtvā) [arghya](arghyaṃ) [wise](vicakṣaṇaḥ)
+[dhyātvā](dhyātvā) [devaṃ](devaṃ) [ca](ca) [vijñāpya](vijñāpya) [kṛtvā](kṛtvā) [arghyaṃ](arghyaṃ) [vicakṣaṇaḥ](vicakṣaṇaḥ)
 
 ## mukta-m0-p16-v393
-[weapon](astraṃ) [meditating](dhyātvā) [worship](yajet) [mantrī](mantrī) [armor](varmaṇā) [envelop](pariveṣṭayet)
+[astraṃ](astraṃ) [dhyātvā](dhyātvā) [yajet](yajen) [mantrī](mantrī) [varmaṇā](varmaṇā) [pariveṣṭayet](pariveṣṭayet)
 
 ## mukta-m0-p16-v394
-[Śiva](śiva) [worshiping](saṃpūjya) [fire-seated](vahnistha) [new](nava) [offering](ḍhaukayet) [caru](carum)
+[śiva](śiva) [saṃpūjya](saṃpūjya) [vahni](vahnistha) [stha](stha) [nava](navadyaṃ) [adyaṃ](adyaṃ) [ḍhaukayet](ḍhaukayeccarum) [carum](carum)
 
 ## mukta-m0-p16-v395
-[informing](vijñāpya) [work-weapons](karmaśastrāṇi) [worship](pūjayet) [satisfy](tarpayed) [api](api)
+[vijñāpya](vijñāpya) [karma](karma) [śastrāṇi](śastrāṇi) [pūjayet](pūjayet) [tarpayet](tarpayedapi) [api](api)
 
 ## mukta-m0-p16-v396
-[then](tato) [informing](vijñāpya) [lord-of-gods](deveśa) [do](kuryāt) [ālaṃbhana](ālaṃbhanaṃ) [again](punaḥ)
+[tataḥ](tato) [vijñāpya](vijñāpya) [deveśa](deveśa) [kuryāt](kuryād) [ālaṃbhanaṃ](ālaṃbhanaṃ) [punaḥ](punaḥ)
 
 ## mukta-m0-p16-v397
-[beating](tāḍanaṃ) [ashes](bhasmanā) [weapon](astreṇa) [sprinkling](prokṣaṇaṃ) [Śiva-water](śivavāriṇā)
+[tāḍanaṃ](tāḍanaṃ) [bhasmanā](bhasmanā) [astreṇa](astreṇa) [prokṣaṇaṃ](prokṣaṇaṃ) [śiva](śivavāriṇā) [vāriṇā](vāriṇā)
 
 ## mukta-m0-p16-v398
-[cloth](vastraṃ) [three-thread](trisūtraṃ) [tree](vṛkṣasya) [stone](śilāyāḥ) [ca](ca) [kuśa-possessing](kuśānvitam)
+[vastraṃ](vastraṃ) [tri](trisūtraṃ) [sūtraṃ](sūtraṃ) [vṛkṣasya](vṛkṣasya) [śilāyāḥ](śilāyāśca) [ca](ca) [kuśa](kuśānvitam) [anvitam](anvitam)
 
 ## mukta-m0-p16-v399
-[saṃhita-stated](saṃhitoktena) [mantra](mantreṇa) [bathing-cloth-etc](snānavastrādikaṃ) [becomes](bhavet)
+[saṃhita](saṃhitoktena) [uktena](uktena) [mantreṇa](mantreṇa) [snāna](snānavastrādikaṃ) [vastra](vastra) [ādikaṃ](ādikaṃ) [bhavet](bhavet)
 
 ## mukta-m0-p16-v400
-[give](dadyāt) [offering](baliṃ) [ca](ca) [māṣa-foods](māṣānnaiḥ) [meatless-liquor-accompanied](āmiṣāsavasaṃyutaiḥ)
+[dadyāt](dadyād) [baliṃ](baliṃ) [ca](ca) [māṣa](māṣānnair) [annaiḥ](annaiḥ) [āmiṣa](āmiṣa) [āsava](āsava) [saṃyutaiḥ](saṃyutaiḥ)
