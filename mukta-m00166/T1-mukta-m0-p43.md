@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p43-v1051
-[yellow-one](pītā) [drunk-one](pītā) [satisfied-one](pītā) [epithet](pītā)
+[pītā](pītā)
 
 ## mukta-m0-p43-v1052
-[sung](gītā) [celebrated](pītā) [for-welfare+may-she-be](hitāya+astu) [mother](mātā) [shining](bhātā) [of-the-good](satāṃ) [in-the-heart](hṛdi)
+[gītā](gītā) [pītā](pītā) [hitāyāstu](hitāyāstu) [mātā](mātā) [bhātā](bhātā) [satāṃ](satāṃ) [hṛdi](hṛdi)
 
 ## mukta-m0-p43-v1053
-[variegated-one](karburā) [multicolored](karburā) [tawny-one](karburā) [epithet](karburā)
+[karburā](karburā)
 
 ## mukta-m0-p43-v1054
-[variegated](karburā) [goddess](devatā) [may-she-be](bhūyād) [worldly+burden+remover](bhava+bhāra+apahāriṇī)
+[karburā](karburā) [devatā](devatā) [bhūyād](bhūyād) [bhavabhārāpahāriṇī](bhavabhārāpahāriṇī)
 
 ## mukta-m0-p43-v1055
-[hunger](kṣudhā) [appetite](kṣudhā) [craving](kṣudhā) [epithet](kṣudhā)
+[kṣudhā](kṣudhā)
 
 ## mukta-m0-p43-v1056
-[hunger](kṣudhā) [goddess](devī) [triumphs+this](jayati+eṣā) [all+elements+one+seed+source](sarva+dhātu+eka+bīja+bhūḥ)
+[kṣudhā](kṣudhā) [devī](devī) [jayatyeṣā](jayatyeṣā) [sarvadhātvekabījabhūḥ](sarvadhātvekabījabhūḥ)
 
 ## mukta-m0-p43-v1057
-[thirst](tṛṣṇā) [craving](tṛṣṇā) [desire](tṛṣṇā) [epithet](tṛṣṇā)
+[tṛṣṇā](tṛṣṇā)
 
 ## mukta-m0-p43-v1058
-[by-whom-impelled](yannunno') [ocean+drying+sole+cause](bdhi+viśoṣa+eka+hetuḥ) [thirst](tṛṣṇā) [triumphs+that](jayati+asau)
+[yannunno'bdhiviśoṣaikahetustṛṣṇā](yannunno'bdhiviśoṣaikahetustṛṣṇā) [jayatyasau](jayatyasau)
 
 ## mukta-m0-p43-v1059
-[old-age+aged](jarā+vṛddhā) [grown-old](jarāvṛddhā) [aged-one](jarāvṛddhā) [epithet](jarāvṛddhā)
+[jarāvṛddhā](jarāvṛddhā)
 
 ## mukta-m0-p43-v1060
-[wonder](citraṃ) [she+even](sā+api) [old-age+aged](jarā+vṛddhā) [may-make+my](kriyān+mama) [old-age+ageless](jarā+jarām)
+[citraṃ](citraṃ) [sāpi](sāpi) [jarāvṛddhā](jarāvṛddhā) [kriyānmama](kriyānmama) [jarājarām](jarājarām)
 
 ## mukta-m0-p43-v1061
-[youthful-one](taruṇī) [young-woman](taruṇī) [maiden](taruṇī) [epithet](taruṇī)
+[taruṇī](taruṇī)
 
 ## mukta-m0-p43-v1062
-[of-the-youthful-one](taruṇyāḥ) [supreme](paraṃ) [smile+mere+grace](hāsya+mātra+prasādaḥ) [is](asti)
+[taruṇyāḥ](taruṇyāḥ) [paraṃ](paraṃ) [hāsyamātraprasādaḥ](hāsyamātraprasādaḥ)
 
 ## mukta-m0-p43-v1063
-[compassion+abode](karuṇā+ālayā) [merciful-one](karuṇālayā) [ocean-of-compassion](karuṇālayā) [epithet](karuṇālayā)
+[karuṇālayā](karuṇālayā)
 
 ## mukta-m0-p43-v1064
-[far+you-make](dūrī+karoṣi) [because+not+therefore](yat+na+ataḥ) [you-are-sung](gīyase) [compassion+abode](karuṇā+ālayā)
+[dūrīkaroṣi](dūrīkaroṣi) [yannāto](yannāto) [gīyase](gīyase) [karuṇālayā](karuṇālayā)
 
 ## mukta-m0-p43-v1065
-[art](kalā) [digit](kalā) [skill](kalā) [epithet](kalā)
+[kalā](kalā)
 
 ## mukta-m0-p43-v1066
-[with-all-parts](sakalā) [not](na) [in-control](vaśe) [how](kiṃ) [may-be](syuḥ) [hand+garland+equal](kara+mālā+tulāḥ) [arts](kalāḥ)
+[sakalā](sakalā) [na](na) [vaśe](vaśe) [kiṃ](kiṃ) [syuḥ](syuḥ) [karamālātulāḥ](karamālātulāḥ) [kalāḥ](kalāḥ)
 
 ## mukta-m0-p43-v1067
-[instant](kāṣṭhā) [measure-of-time](kāṣṭhā) [limit](kāṣṭhā) [epithet](kāṣṭhā)
+[kāṣṭhā](kāṣṭhā)
 
 ## mukta-m0-p43-v1068
-[may-perish](naśyet) [in-a-moment](kṣaṇena) [of-devotees](bhaktānāṃ) [kāṣṭhā+thus+of-her](kāṣṭhā+iti+asyāḥ) [by-grace](prasādataḥ)
+[naśyet](naśyet) [kṣaṇena](kṣaṇena) [bhaktānāṃ](bhaktānāṃ) [kāṣṭhetyasyāḥ](kāṣṭhetyasyāḥ) [prasādataḥ](prasādataḥ)
 
 ## mukta-m0-p43-v1069
-[moment](muhūrtā) [auspicious-time](muhūrtā) [period](muhūrtā) [epithet](muhūrtā)
+[muhūrtā](muhūrtā)
 
 ## mukta-m0-p43-v1070
-[own-form](svarūpaṃ) [renowned](prathitā) [on-earth](bhūmau) [muhūrtā+may-be](muhūrtā+astu) [for-welfare](śivāya) [of-you](vaḥ)
+[svarūpaṃ](svarūpaṃ) [prathitā](prathitā) [bhūmau](bhūmau) [muhūrtāstu](muhūrtāstu) [śivāya](śivāya) [vaḥ](vaḥ)
 
 ## mukta-m0-p43-v1071
-[twinkling](nimeṣā) [instant](nimeṣā) [moment](nimeṣā) [epithet](nimeṣā)
+[nimeṣā](nimeṣā)
 
 ## mukta-m0-p43-v1072
-[nimeṣā+may-be](nimeṣā+astu) [supreme-goddess](pareśānī) [special+entire+prosperity+giver](viśeṣa+aśeṣa+bhūti+dā)
+[nimeṣāstu](nimeṣāstu) [pareśānī](pareśānī) [viśeṣāśeṣabhūtidā](viśeṣāśeṣabhūtidā)
 
 ## mukta-m0-p43-v1073
-[time+formed](kāla+rūpiṇī) [embodiment-of-time](kālarūpiṇī) [time-personified](kālarūpiṇī) [epithet](kālarūpiṇī)
+[kālarūpiṇī](kālarūpiṇī)
 
 ## mukta-m0-p43-v1074
-[planet+zodiac+star+circle+time+measurable](graha+rāśi+bha+cakra+kā+anumeyā) [renowned](prathitā) [she](sā) [indeed](kila) [time+formed+thus](kāla+rūpiṇī+iti)
+[graharāśibhacakrakānumeyā](graharāśibhacakrakānumeyā) [prathitā](prathitā) [sā](sā) [kila](kila) [kālarūpiṇīti](kālarūpiṇīti)
 
 ## mukta-m0-p43-v1075
-[beautiful+ear+tongue](su+karṇa+rasanā) [fair-eared-and-tongued](sukarṇarasanā) [sweet-voiced](sukarṇarasanā) [epithet](sukarṇarasanā)
+[sukarṇarasanā](sukarṇarasanā)
