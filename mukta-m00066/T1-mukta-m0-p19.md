@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p19-v451
-kuṃkuma-drava-saṃkāśaṃ (saffron-liquid-resembling) vilīna-aśeṣa-ceṣṭitam (dissolved-all-activity)
+[saffron](kuṃkuma)+[fluid](drava)+[resembling](saṃkāśaṃ) [dissolved](vilīna) [all](aśeṣa) [activity](ceṣṭitam)
 
 ## mukta-m0-p19-v452
-rakṣitaṃ (protected) bhāvayet (should-meditate) devī (goddess) tasyāḥ-caṃdrakala-udaye (her-moon-crescent-rise)
+[protected](rakṣitaṃ) [one-should-visualize](bhāvayed) [O-goddess](devī) [of-her](tasyāś)+[moon](caṃdra)+[digit](kalā)+[at-rise](udaye)
 
 ## mukta-m0-p19-v453
-sadyaḥ (immediately) pulakita-ākāraḥ (horripilated-form) bhāvaḥ (mood) kaḥ-api (some) vijṛṃbhate (manifests)
+[immediately](sadyaḥ) [horripilated](pulakita)+[in-form](ākāro) [emotion](bhāvaḥ) [some](ko')+[indescribable](pi) [manifests](vijṛṃbhate)
 
 ## mukta-m0-p19-v454
-nṛtyatī-iva-samutkaṃṭhā (dancing-as-if-intense-longing) nṛtyatī (dancing) va (or) śira-āmukham (head-face)
+[dances](nṛtyatī)+[as-if](va)+[longing](samutkaṃṭhā) [dances](nṛtyatī) [as-if](va) [nerve](śirā)+[opening](mukham)
 
 ## mukta-m0-p19-v455
-dūtikā (messenger) smara (love) geha-sthāṃ (house-dwelling) bhagamālāṃ (Bhagamala) samarcayet (should-worship)
+[messenger](dūtikā) [love](smara)+[abode](geha)+[dwelling](sthāṃ) [Bhagamālā](bhagamālāṃ) [one-should-worship](samarcayet)
 
 ## mukta-m0-p19-v456
-tasyāḥ-ca-arcana-bhedaḥ-tu (her-and-worship-distinction-but) vaktavyaḥ (to-be-spoken) parameśvara (supreme-lord)
+[of-her](tasyāś)+[and](cā)+[worship](rcana) [distinction](bhedas)+[indeed](tu) [to-be-told](vaktavyaḥ) [O-Supreme-Lord](parameśvara)
 
 ## mukta-m0-p19-v457
-bhagamālī-iti (Bhagamali-thus) niḥśeṣa (entirely) bhaga-cakra-abhimāninī (Bhaga-circle-identified)
+[Bhagamālā](bhagamālī)+[thus](ti) [without-remainder](niḥśeṣa) [Bhaga](bhaga)+[circle](cakrā)+[presiding-over](bhimāninī)
 
 ## mukta-m0-p19-v458
-viśva-saṃohana-ākārā (world-enchanting-form) viśva-janma-mahā-sthali (world-birth-great-place)
+[universe](viśva)+[enchanting](saṃohana)+[form](ākārā) [universe](viśva)+[birth](janma)+[great](mahā)+[ground](sthali)
 
 ## mukta-m0-p19-v459
-kāla-rūpā (time-form) akāla-karī (untimely-doing) kāla-grasana-lālasā (time-devouring-desirous)
+[time](kāla)+[form](rūpā)+[time](kāla)+[maker](karī) [time](kāla)+[devouring](grasana)+[eager](lālasā)
 
 ## mukta-m0-p19-v460
-samasteṣu (in-all) śarīreṣu (bodies) puṃsāṃ-strīṇām-atha-api-vā (of-men-of-women-then-also-or)
+[in-all](samasteṣu) [bodies](śarīreṣu) [of-men](puṃsāṃ)+[of-women](strīṇām)+[and](athā)+[also](pi)+[or](vā)
 
 ## mukta-m0-p19-v461
-saṃhitā (collection) śata-sāhasre (hundred-thousand) yad-arthe (for-which-purpose) kīrtyate (is-praised) mayā (by-me)
+[in-collection](saṃhita) [hundred](śata)+[thousand](sāhasre) [for-which-purpose](yadarthe) [is-proclaimed](kīrtyate) [by-me](mayā)
 
 ## mukta-m0-p19-v462
-nitya-anaṃga (eternal-cupid) mada-unmattā (intoxication-maddened) yauvanena-ati-garvitā (by-youth-excess-proud)
+[eternal](nitya)+[Ananga](naṃga)+[love](mada)+[intoxicated](unmattā) [by-youth](yauvanenā)+[very](ti)+[proud](garvitā)
 
 ## mukta-m0-p19-v463
-pāśa-aṃkuśau (noose-goad) karaṃ (hand) dhanva (bow) tadā (then) vā (or) madhu-bhājanam (honey-vessel)
+[noose](pāśā)+[and-goad](ṃkuśau) [in-hand](karaṃ) [bow](dhanva) [then](tadā) [or](vā) [honey](madhu)+[vessel](bhājanam)
 
 ## mukta-m0-p19-v464
-prasanna-vadana-ambhojā (serene-face-lotus) mada-rakta-vilocanā (intoxication-red-eyed)
+[pleased](prasanna)+[face](vadana)+[lotus](āṃbhojā) [intoxication](mada)+[red](rakta)+[eyes](vilocanā)
 
 ## mukta-m0-p19-v465
-sva-rakta-kāṃti-śaṭībhiḥ-eva-āvṛta-nitaṃba-bhūḥ (own-red-radiance-garments-only-covered-hip-region)
+[own](sva)+[blood](rakta)+[luster](kāṃti)+[garments](śaṭībhi)+[indeed](re)+[covered](vāvṛta)+[hip](nitaṃba)+[region](bhūḥ)
 
 ## mukta-m0-p19-v466
-digaṃbarābhiḥ-anyābhiḥ (sky-clad-other) śaktibhiḥ (powers) parivāritā (surrounded)
+[sky](dig)+[clad](aṃbarā)+[by](bhir)+[other](anyā)+[by](bhiḥ) [powers](śaktibhiḥ) [surrounded](parivāritā)
 
 ## mukta-m0-p19-v467
-evaṃ (thus) dhyeyā (to-be-meditated) maheśāni (O-great-lady) devatā (deity) bhagamālinī (Bhagamalini)
+[marker](55k)) [thus](evaṃ) [to-be-meditated](dhyeyā) [O-Maheshani](maheśāni) [deity](devatā) [Bhagamālinī](bhagamālinī)
 
 ## mukta-m0-p19-v468
-tripurā-arghya-ambunā (Tripura-arghya-water) prokṣya (sprinkling) dūtyāḥ (of-messenger) smara-niketanam (love-abode)
+[Tripura](tripurā)+[offering](rghyā)+[water](ṃbunā) [having-sprinkled](prokṣya) [of-messenger](dūtyāḥ) [love](smara)+[abode](niketanam)
 
 ## mukta-m0-p19-v469
-trikoṇaṃ (triangle) paṃcakoṇaṃ (pentagon) ca (and) sa-aṣṭāra-ka-catur-dalam (with-eight-spokes-and-four-petals)
+[triangle](trikoṇaṃ) [pentagon](paṃcakoṇaṃ) [and](ca) [with-eight](sā)+[petals](ṣṭāra)+[with-four](ka)+[petals](caturddalam)
 
 ## mukta-m0-p19-v470
-madhye (in-middle) jayet (should-conquer) mahādevīṃ (great-goddess) mādyaṃtīṃ (intoxicating) bhagamālinīm (Bhagamalini)
+[in-middle](madhye) [one-should-worship](jayen)+[great-goddess](mahādevīṃ) [intoxicated](mādyaṃtīṃ) [Bhagamālinīm](bhagamālinīm)
 
 ## mukta-m0-p19-v471
-bhaga-guhyaṃ (Bhaga-secret) bhaga-yoniṃ (Bhaga-yoni) tathā (and) bhaga-nipātinīm (Bhaga-descending)
+[Bhaga](bhaga)+[secret](guhyaṃ) [Bhaga](bhaga)+[womb](yoniṃ) [and](tathā) [Bhaga](bhaga)+[falling](nipātinīm)
 
 ## mukta-m0-p19-v472
-bhaga-rūpāṃ (Bhaga-form) tadā (then) devīṃ (goddess) nitya-klinna-ambikām-api (ever-moist-mother-also)
+[Bhaga](bhaga)+[form](rūpāṃ) [then](tadā) [goddess](devīṃ) [Nitya](nitya)+[wet](klinnā)+[mother](mbikām)+[also](api)
 
 ## mukta-m0-p19-v473
-bhaga-klinna-aṣṭamīṃ (Bhaga-moist-eighth) ca (and) sādhaka-vidhi-varttanā (practitioner-rite-conduct)
+[Bhaga](bhaga)+[wet](klinnām)+[eighth](aṣṭamīṃ) [and](ca) [practitioner](sādhako)+[by-ritual](vidhi)+[conduct](varttanā)
 
 ## mukta-m0-p19-v474
-amogha-bhaga-vidyā (unfailing-Bhaga-vidya) ca (and) caturthī (fourth) tu (but) bhageśvarī (Bhageshvari)
+[unfailing](amogha)+[Bhaga](bhaga)+[knowledge](vidyā) [and](ca) [fourth](caturthi) [indeed](tu) [Bhaga](bhaga)+[goddess](īśvarī)
 
 ## mukta-m0-p19-v475
-tripurā-arghya (Tripura-arghya) sthitaiḥ-eva (established-only) biṃdubhiḥ (with-dots) tat (that) prapūjayet (should-worship)
+[Tripura](tripurā)+[offering](rghya) [situated](sthai)+[by-those](r)+[indeed](eva) [with-drops](biṃdubhis)+[that](tat) [one-should-worship](prapūjayet)
