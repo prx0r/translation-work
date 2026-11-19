@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p493-v12301
-ananga-kusuma(tvādyā) tvā-ādyā dvitīyā ananga-mekhala
+[cupid+flower](anaṅgakusumā) [you+first](tvādyā) [second](dvitīyā) [cupid+girdle](anaṅgamekhalā)
 
 ## mukta-m0-p493-v12302
-ananga-lekha ca ananga-vega ananga-ankusha tathā
+[cupid+line](anaṅgalekhā) [and](ca) [cupid+speed](anaṅgavegā) [cupid+goad](anaṅgāṃkuśā) [thus](tathā)
 
 ## mukta-m0-p493-v12303
-tad-agre ṣoḍaśāra tu paścimādi-vilomataḥ
+[that+front](tadagre) [sixteen+spoked](ṣoḍaśāre) [but](tu) [west+etc+reverse](paścimādivilomataḥ)
 
 ## mukta-m0-p493-v12304
-ahangkāra-ākarṣiṇī ca śabda-ākarṣiṇikā tathā
+[ego+attractor](ahaṅkārākarṣiṇī) [and](ca) [sound+attractor](śabdākarṣiṇikā) [thus](tathā)
 
 ## mukta-m0-p493-v12305
-rasa-ākarṣiṇikā proktā gandha-ākarṣiṇikā matā
+[taste+attractor](rasākarṣiṇikā) [called](proktā) [smell+attractor](gandhākarṣiṇikā) [considered](matā)
 
 ## mukta-m0-p493-v12306
-nāma-ākarṣiṇikā ca-eva bīja-ākarṣiṇikā tathā
+[name+attractor](nāmākarṣiṇikā) [and+indeed](caiva) [seed+attractor](bījākarṣiṇikā) [thus](tathā)
 
 ## mukta-m0-p493-v12307
-śarīra-ākarṣiṇī paścāt ātma-ākarṣiṇikā tathā
+[body+attractor](śarīrākarṣiṇī) [afterwards](paścād) [self+attractor](ātmākarṣiṇikā) [thus](tathā)
 
 ## mukta-m0-p493-v12308
-kṣobhaṇa drāvaṇa ākarṣa manonmāda mahā-ankuśāḥ
+[agitation+melting+attracting+mind+exciting+great+goads](kṣobhaṇadrāvaṇākarṣamanonmādamahāṃkuśāḥ)
 
 ## mukta-m0-p493-v12309
-tadvat ca adhaḥ samabhyarcya tat bahiḥ bhūpure yajet
+[likewise+below](tadvaccādhaḥ) [worship](samabhyarcya) [that+outside+enclosure](tadbahirbhūpure) [sacrifice](yajet)
 
 ## mukta-m0-p493-v12310
-dvāre dvayaṃ prāk aṇimā mahimā laghimā īśitā
+[gate+two](dvāre+dvayaṃ) [east+minuteness](prāgaṇimā) [greatness](mahimā) [lightness+lordship](laghimeśitā)
 
 ## mukta-m0-p493-v12311
-rasa-siddhiḥ ca daśamī saparyā evaṃ samīritā
+[taste+accomplishment](rasasiddhiśca) [tenth](daśamī) [worship+thus](saparyyaivaṃ) [declared](samīritā)
 
 ## mukta-m0-p493-v12312
-tarppaṇa-ādi tataḥ kuryāt mantra-siddhaḥ prajāyate
+[libation+etc](tarppaṇādi) [then](tataḥ) [do](kuryyān) [mantra+accomplished](mantrasiddhaḥ) [born](prajāyate)
 
 ## mukta-m0-p493-v12313
-karavīra-ja-puṣpaiḥ ca homāt mohayate jagat
+[oleander+flowers](karavīrajapuṣpaiśca) [oblations](homān) [delude](mohayate) [world](jagat)
 
 ## mukta-m0-p493-v12314
-campakaiḥ pāṭalaiḥ bilvaiḥ vaśam ānayate cirāt
+[champaka](campakaiḥ) [pāṭala](pāṭalair) [bilva](bilvair) [subdue+long](vaśamānayate+cirāt)
 
 ## mukta-m0-p493-v12315
-bilvaiḥ syāt atulā lakṣmīḥ ikṣu-khaṇḍaiḥ tathā vaśāḥ
+[bilva](bilvaiḥ) [be+unequalled](syādatulā) [wealth](lakṣmī) [sugarcane+pieces](ikṣukhaṇḍaistathā) [subdued](vaśāḥ)
 
 ## mukta-m0-p493-v12316
-niśi svarṇa-phalaiḥ homaḥ ripu-senā-vināśa-kṛt
+[night](niśi) [gold+fruits](svarṇaphalairhomo) [enemy+army+destroying](ripusenāvināśakṛt)
 
 ## mukta-m0-p493-v12317
-ārogyaṃ sampadaṃ kāmaṃ dhanaṃ śarkkarayā sukham
+[health](ārogyaṃ) [prosperity](sampadaṃ) [desire](kāmaṃ) [wealth](dhanaṃ) [sugar](śarkkarayā) [happiness](sukham)
 
 ## mukta-m0-p493-v12318
-kṣatriyaḥ mātuluṅgaiḥ ca vaiśyaḥ nāriṅga-jaiḥ phalaiḥ
+[kṣatriya](kṣatriyo) [citron](mātuluṅgaiśca) [vaiśya](vaiśyo) [orange](nāriṅgajaiḥ) [fruits](phalaiḥ)
 
 ## mukta-m0-p493-v12319
-panasānām lakṣa-homāt vaśyāḥ syuḥ cakravartinaḥ
+[jackfruit](panasānāṃ) [lakh+oblations](lakṣahomād) [subdued](vaśyāḥ) [be](syuś) [emperors](cakravartinaḥ)
 
 ## mukta-m0-p493-v12320
-nārikeraiḥ tu pāṇḍityaṃ tilaiḥ sarva-iṣṭa-siddhayaḥ
+[coconut](nārikeraistu) [learning](pāṇḍityaṃ) [sesame](tilaiḥ) [all+desired+accomplishments](sarveṣṭasiddhayaḥ)
 
 ## mukta-m0-p493-v12321
-pāyasaiḥ dhana-dhānya-ādi bandhūkaiḥ prāṇinaḥ vaśāḥ
+[milk+rice](pāyasair) [wealth+grain+etc](dhanadhānyādi) [bandhūka](bandhūkaiḥ) [beings](prāṇino) [subdued](vaśāḥ)
 
 ## mukta-m0-p493-v12322
-lavaṇaiḥ rājikā-yuktaiḥ homāt duṣṭa-vināśanam
+[salt](lavaṇai) [mustard+mixed](rājikāyuktair) [oblations](homād) [wicked+destruction](duṣṭavināśanam)
 
 ## mukta-m0-p493-v12323
-ghṛta-homa ādīpsita-āptiḥ śaktiḥ syāt tila-taṇḍulaiḥ
+[ghee](ghṛtahe) [desired+attainment](mādīpsitāptiḥ) [power](śaktiḥ) [be](syāt) [sesame+rice](tilataṇḍulaiḥ)
 
 ## mukta-m0-p493-v12324
-kṛṣṇasya śaktiṃ sumukhīṃ dvijānām na adhikāritā
+[Krishna's](kṛṣṇasya) [power](śaktiṃ) [fair-faced](sumukhīṃ) [brahmins](dvijānāṃ) [not+authority](nādhikāritā)
 
 ## mukta-m0-p493-v12325
-cini hrīṃ ṭhaḥ ca ṭhaḥ ca dvāviṃśati-akṣaraḥ manuḥ
+[mantra](cini+hrīṃ+ṭhaścaṭhaḥṭhaśca+dvāviṃśatyakṣaro+manuḥ)
