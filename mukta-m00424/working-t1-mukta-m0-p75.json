@@ -12,7 +12,7 @@
 },
 {
 "surface": "triguṇīkṛtya",
-"quick_gloss": "threefold"
+"quick_gloss": "having-tripled"
 },
 {
 "surface": "śivāya",
@@ -20,7 +20,7 @@
 },
 {
 "surface": "vinivedayet",
-"quick_gloss": "offer"
+"quick_gloss": "should-offer"
 }
 ]
 },
@@ -33,7 +33,7 @@
 "tokens": [
 {
 "surface": "tarāṣṭaṃ",
-"quick_gloss": "tarāṣṭaṃ"
+"quick_gloss": "tarāṣṭam"
 },
 {
 "surface": "ca",
@@ -41,7 +41,7 @@
 },
 {
 "surface": "dūṣaṇotpatti",
-"quick_gloss": "fault-origin"
+"quick_gloss": "defect-origination"
 },
 {
 "surface": "tad",
@@ -74,7 +74,7 @@
 },
 {
 "surface": "kuryāt",
-"quick_gloss": "do"
+"quick_gloss": "should-do"
 },
 {
 "surface": "pūrvavat",
@@ -82,7 +82,7 @@
 },
 {
 "surface": "pācayec",
-"quick_gloss": "cook"
+"quick_gloss": "should-cook"
 },
 {
 "surface": "śubham",
@@ -99,19 +99,19 @@
 "tokens": [
 {
 "surface": "sandhāti",
-"quick_gloss": "union"
+"quick_gloss": "junction"
 },
 {
 "surface": "kramaṇe",
-"quick_gloss": "in-crossing"
+"quick_gloss": "in-passage"
 },
 {
 "surface": "prāpte",
-"quick_gloss": "arrived"
+"quick_gloss": "having-arrived"
 },
 {
-"surface": "śatrubhir",
-"quick_gloss": "from-enemies"
+"surface": "śatrubhiḥ",
+"quick_gloss": "by-enemies"
 },
 {
 "surface": "bhayam",
@@ -119,7 +119,7 @@
 },
 {
 "surface": "ādiśet",
-"quick_gloss": "declare"
+"quick_gloss": "should-indicate"
 }
 ]
 },
@@ -144,7 +144,7 @@
 },
 {
 "surface": "prabhāvayet",
-"quick_gloss": "empower"
+"quick_gloss": "should-manifest"
 }
 ]
 },
@@ -161,15 +161,15 @@
 },
 {
 "surface": "sthāpane",
-"quick_gloss": "at-placement"
+"quick_gloss": "in-placement"
 },
 {
 "surface": "kāle",
-"quick_gloss": "time"
+"quick_gloss": "at-time"
 },
 {
 "surface": "laṅghanepi",
-"quick_gloss": "even-if-skipped"
+"quick_gloss": "even-in-skipping"
 },
 {
 "surface": "naraistathā",
@@ -190,7 +190,7 @@
 },
 {
 "surface": "varjayitvā",
-"quick_gloss": "avoiding"
+"quick_gloss": "having-avoided"
 },
 {
 "surface": "tu",
@@ -206,7 +206,7 @@
 },
 {
 "surface": "nivedayet",
-"quick_gloss": "offer"
+"quick_gloss": "should-offer"
 }
 ]
 },
@@ -240,7 +240,7 @@
 "tokens": [
 {
 "surface": "snapanāṅgavihīne",
-"quick_gloss": "without-snapana-limbs"
+"quick_gloss": "in-bath-limb-deficient"
 },
 {
 "surface": "ca",
@@ -265,10 +265,10 @@
 "tokens": [
 {
 "surface": "sthāpitaiḥ",
-"quick_gloss": "established"
+"quick_gloss": "by-established"
 },
 {
-"surface": "kalaśair",
+"surface": "kalaśairbhinnaiḥ",
 "quick_gloss": "pots"
 },
 {
@@ -277,7 +277,7 @@
 },
 {
 "surface": "sphuṭite",
-"quick_gloss": "cracked"
+"quick_gloss": "split"
 },
 {
 "surface": "patite",
@@ -315,7 +315,7 @@
 "tokens": [
 {
 "surface": "varadābhayasaṃyuktā",
-"quick_gloss": "varada-abhaya-joined"
+"quick_gloss": "gift-fear-joined"
 },
 {
 "surface": "pāśāṅguśa+dhara+anvitā",
@@ -368,6 +368,10 @@
 "quick_gloss": "cakra"
 },
 {
+"surface": "ha",
+"quick_gloss": "ha"
+},
+{
 "surface": "ṣaḍbhujā",
 "quick_gloss": "six-armed"
 }
@@ -390,7 +394,7 @@
 },
 {
 "surface": "devāliṅgana",
-"quick_gloss": "deva-embrace"
+"quick_gloss": "gods-embrace"
 },
 {
 "surface": "tatparā",
@@ -410,12 +414,20 @@
 "quick_gloss": "pendant"
 },
 {
-"surface": "la*pā*bālambitā",
-"quick_gloss": "la-pa-bālambitā"
+"surface": "la",
+"quick_gloss": "la"
+},
+{
+"surface": "pā",
+"quick_gloss": "pā"
+},
+{
+"surface": "bālambitā",
+"quick_gloss": "bālambitā"
 },
 {
 "surface": "parivādakā",
-"quick_gloss": "parivādakā"
+"quick_gloss": "surrounding"
 }
 ]
 },
@@ -427,8 +439,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "śyāmāśvenāthavaktā",
-"quick_gloss": "dark-horse-faced"
+"surface": "śyāmā",
+"quick_gloss": "dark"
+},
+{
+"surface": "aśvenāthavaktā",
+"quick_gloss": "horse-or"
 },
 {
 "surface": "ca",
@@ -439,8 +455,12 @@
 "quick_gloss": "for-practitioner"
 },
 {
-"surface": "na+pātata",
-"quick_gloss": "not-fall"
+"surface": "na",
+"quick_gloss": "not"
+},
+{
+"surface": "pātata",
+"quick_gloss": "falls"
 }
 ]
 },
@@ -452,7 +472,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "aṣṭabāhu+samāyuktāṃ",
+"surface": "aṣṭabāhu+samāyuktaṃ",
 "quick_gloss": "eight-armed"
 },
 {
@@ -461,7 +481,7 @@
 },
 {
 "surface": "svadaṃṣṭrakam",
-"quick_gloss": "own-fangs"
+"quick_gloss": "own-tusk"
 }
 ]
 },
@@ -473,12 +493,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "kiṅkiṇī+mālayā+eveṣṭā",
-"quick_gloss": "bells-garland"
+"surface": "kiṅkiṇī",
+"quick_gloss": "bells"
 },
 {
-"surface": "pādanūpura+saṃyutam",
-"quick_gloss": "foot-anklets"
+"surface": "mālayeveṣṭā",
+"quick_gloss": "garland"
+},
+{
+"surface": "pādanūpura",
+"quick_gloss": "foot-anklet"
+},
+{
+"surface": "saṃyutam",
+"quick_gloss": "joined"
 }
 ]
 },
@@ -511,11 +539,15 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "karṇayor+ubhayoś+ca+eva",
+"surface": "karṇayorubhayoścaiva",
 "quick_gloss": "in-both-ears"
 },
 {
-"surface": "hastayor+ubhayor+api",
+"surface": "ca",
+"quick_gloss": "and"
+},
+{
+"surface": "hastayorubhayorapi",
 "quick_gloss": "in-both-hands"
 }
 ]
@@ -565,12 +597,12 @@
 "quick_gloss": "sword"
 },
 {
-"surface": "ca+eva",
+"surface": "caiva",
 "quick_gloss": "and"
 },
 {
 "surface": "tu",
-"quick_gloss": "tu"
+"quick_gloss": "then"
 },
 {
 "surface": "dakṣiṇe",
@@ -599,7 +631,7 @@
 },
 {
 "surface": "pādanūpurasaṃsthitam",
-"quick_gloss": "foot-anklet-placed"
+"quick_gloss": "foot-anklet-situated"
 }
 ]
 },
@@ -623,8 +655,8 @@
 "quick_gloss": "god"
 },
 {
-"surface": "aghorastrādhi+daivatam",
-"quick_gloss": "aghora-astra-adhi-daivatam"
+"surface": "aghorāstrādhi+daivatam",
+"quick_gloss": "aghora-astra-deity"
 }
 ]
 }
