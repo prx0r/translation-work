@@ -8,7 +8,7 @@
 "tokens": [
 {
 "surface": "namaskṛtya",
-"quick_gloss": "bowing-to"
+"quick_gloss": "having-saluted"
 },
 {
 "surface": "maheśānīṃ",
@@ -16,7 +16,7 @@
 },
 {
 "surface": "mahātripurasuṃdarīm",
-"quick_gloss": "great-tripura-beauty"
+"quick_gloss": "great-tripurasundari"
 }
 ]
 },
@@ -37,7 +37,7 @@
 },
 {
 "surface": "kṛtvā",
-"quick_gloss": "doing"
+"quick_gloss": "having-done"
 },
 {
 "surface": "bhaktiparānataḥ",
@@ -53,12 +53,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "maṃtreṇānena",
-"quick_gloss": "with-this-mantra"
+"surface": "maṃtreṇa",
+"quick_gloss": "by-mantra"
+},
+{
+"surface": "anena",
+"quick_gloss": "this"
 },
 {
 "surface": "tatpāde",
-"quick_gloss": "at-her-feet"
+"quick_gloss": "at-his-feet"
 },
 {
 "surface": "vikṣipan",
@@ -66,7 +70,7 @@
 },
 {
 "surface": "daṃḍavannamet",
-"quick_gloss": "staff-like-bowing"
+"quick_gloss": "prostrate-salute"
 }
 ]
 },
@@ -78,11 +82,15 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "adhunā",
+"surface": "ānaṃdaya",
+"quick_gloss": "delight"
+},
+{
+"surface": "madhunā",
 "quick_gloss": "now"
 },
 {
-"surface": "karomi",
+"surface": "karomy",
 "quick_gloss": "I-do"
 },
 {
@@ -100,19 +108,19 @@
 "tokens": [
 {
 "surface": "svaguruṃ",
-"quick_gloss": "own-teacher"
+"quick_gloss": "own-guru"
 },
 {
 "surface": "gurupatnīṃ",
-"quick_gloss": "teacher's-wife"
+"quick_gloss": "guru-wife"
 },
 {
 "surface": "ca",
-"quick_gloss": "and"
+"quick_gloss": "ca"
 },
 {
 "surface": "dviṣaṭkiṃte",
-"quick_gloss": "at-end-of-six"
+"quick_gloss": "twice-six"
 },
 {
 "surface": "triśo",
@@ -133,11 +141,15 @@
 "tokens": [
 {
 "surface": "kulākulāṣṭakādīni",
-"quick_gloss": "kula-akula-eight-etc"
+"quick_gloss": "kulakula-eight-etc"
 },
 {
-"surface": "nimaṃtryāhūyaśobhitām",
-"quick_gloss": "inviting-summoning-beautified"
+"surface": "nimaṃtryāhūya",
+"quick_gloss": "having-invited"
+},
+{
+"surface": "śobhitām",
+"quick_gloss": "adorned"
 }
 ]
 },
@@ -150,19 +162,23 @@
 "tokens": [
 {
 "surface": "abhyarcya",
-"quick_gloss": "worship"
+"quick_gloss": "having-worshipped"
 },
 {
-"surface": "sarvamapyaṃgam",
-"quick_gloss": "all-limbs"
+"surface": "sarvam",
+"quick_gloss": "all"
+},
+{
+"surface": "apyaṃgam",
+"quick_gloss": "limb"
 },
 {
 "surface": "avamṛjya",
-"quick_gloss": "wiping"
+"quick_gloss": "having-wiped"
 },
 {
 "surface": "vicakṣaṇaḥ",
-"quick_gloss": "expert"
+"quick_gloss": "discerning"
 }
 ]
 },
@@ -191,7 +207,7 @@
 },
 {
 "surface": "sumanoharam",
-"quick_gloss": "charming"
+"quick_gloss": "pleasing"
 }
 ]
 },
@@ -208,15 +224,19 @@
 },
 {
 "surface": "tulākoṭi",
-"quick_gloss": "scale-tip"
+"quick_gloss": "scale-peak"
 },
 {
 "surface": "hāraikāvali",
 "quick_gloss": "necklace-single-strand"
 },
 {
-"surface": "vālibhiḥ",
-"quick_gloss": "ornaments"
+"surface": "vā",
+"quick_gloss": "or"
+},
+{
+"surface": "libhiḥ",
+"quick_gloss": "bracelets"
 }
 ]
 },
@@ -228,8 +248,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "anyaiścābharaṇaiḥ",
-"quick_gloss": "other-ornaments"
+"surface": "anyaiś",
+"quick_gloss": "by-others"
+},
+{
+"surface": "ca",
+"quick_gloss": "ca"
+},
+{
+"surface": "bharaṇaiḥ",
+"quick_gloss": "ornaments"
 },
 {
 "surface": "tāṃ",
@@ -241,11 +269,11 @@
 },
 {
 "surface": "bhūṣayitvā",
-"quick_gloss": "adorning"
+"quick_gloss": "having-adorned"
 },
 {
 "surface": "vicakṣaṇaḥ",
-"quick_gloss": "expert"
+"quick_gloss": "discerning"
 }
 ]
 },
@@ -257,16 +285,32 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "na-viraktā",
-"quick_gloss": "not-detached"
+"surface": "na",
+"quick_gloss": "not"
 },
 {
-"surface": "navātyaṃtaraktā",
-"quick_gloss": "not-extremely-attached"
+"surface": "viraktā",
+"quick_gloss": "detached"
 },
 {
-"surface": "na-kalahapriyā",
-"quick_gloss": "not-quarrel-loving"
+"surface": "na",
+"quick_gloss": "not"
+},
+{
+"surface": "atyanta",
+"quick_gloss": "very"
+},
+{
+"surface": "raktā",
+"quick_gloss": "attached"
+},
+{
+"surface": "na",
+"quick_gloss": "not"
+},
+{
+"surface": "kalaha+priyā",
+"quick_gloss": "quarrel-loving"
 }
 ]
 },
@@ -278,20 +322,36 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "nānyaraktā",
-"quick_gloss": "not-other-attached"
+"surface": "na",
+"quick_gloss": "not"
 },
 {
-"surface": "nātipuṣṭā",
-"quick_gloss": "not-over-nourished"
+"surface": "anyaraktā",
+"quick_gloss": "other-attached"
 },
 {
-"surface": "nātikharvā",
-"quick_gloss": "not-too-short"
+"surface": "na",
+"quick_gloss": "not"
 },
 {
-"surface": "navākṛśā",
-"quick_gloss": "not-too-thin"
+"surface": "atipuṣṭā",
+"quick_gloss": "too-plump"
+},
+{
+"surface": "na",
+"quick_gloss": "not"
+},
+{
+"surface": "atikharvā",
+"quick_gloss": "too-short"
+},
+{
+"surface": "na",
+"quick_gloss": "not"
+},
+{
+"surface": "akṛśā",
+"quick_gloss": "emaciated"
 }
 ]
 },
@@ -303,20 +363,36 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "narūkṣāṃgī",
-"quick_gloss": "not-rough-limbed"
+"surface": "na",
+"quick_gloss": "not"
 },
 {
-"surface": "na-jihmākṣī",
-"quick_gloss": "not-crooked-eyed"
+"surface": "rūkṣāṃgī",
+"quick_gloss": "rough-limbed"
 },
 {
-"surface": "na-ca-karkaśa",
-"quick_gloss": "not-harsh"
+"surface": "na",
+"quick_gloss": "not"
+},
+{
+"surface": "jihmākṣī",
+"quick_gloss": "crooked-eyed"
+},
+{
+"surface": "na",
+"quick_gloss": "not"
+},
+{
+"surface": "ca",
+"quick_gloss": "ca"
+},
+{
+"surface": "karkaśa",
+"quick_gloss": "harsh"
 },
 {
 "surface": "kīkasā",
-"quick_gloss": "rib"
+"quick_gloss": "ribbed"
 }
 ]
 },
@@ -328,16 +404,24 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "na-kuṭṭanī",
-"quick_gloss": "not-bawd"
+"surface": "na",
+"quick_gloss": "not"
+},
+{
+"surface": "kuṭṭanī",
+"quick_gloss": "bawd"
 },
 {
 "surface": "samācārā",
 "quick_gloss": "conduct"
 },
 {
-"surface": "nopahāsaparāyaṇā",
-"quick_gloss": "not-mockery-devoted"
+"surface": "na",
+"quick_gloss": "not"
+},
+{
+"surface": "upahāsaparāyaṇā",
+"quick_gloss": "mockery-inclined"
 }
 ]
 },
@@ -349,16 +433,32 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "na-durgaṃdhā",
-"quick_gloss": "not-bad-smelling"
+"surface": "na",
+"quick_gloss": "not"
 },
 {
-"surface": "na-duḥśīlā",
-"quick_gloss": "not-bad-character"
+"surface": "durgaṃdhā",
+"quick_gloss": "bad-smelling"
 },
 {
-"surface": "na-ca-duṣparivādinī",
-"quick_gloss": "not-evil-speaking"
+"surface": "na",
+"quick_gloss": "not"
+},
+{
+"surface": "duḥśīlā",
+"quick_gloss": "ill-natured"
+},
+{
+"surface": "na",
+"quick_gloss": "not"
+},
+{
+"surface": "ca",
+"quick_gloss": "ca"
+},
+{
+"surface": "duṣparivādinī",
+"quick_gloss": "evil-speaking"
 }
 ]
 },
@@ -370,12 +470,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "na-dīrgharogagrastāṃgī",
-"quick_gloss": "not-long-disease-afflicted-limbed"
+"surface": "na",
+"quick_gloss": "not"
+},
+{
+"surface": "dīrgharogagrastāṃgī",
+"quick_gloss": "long-disease-afflicted"
 },
 {
 "surface": "yogyā",
-"quick_gloss": "suitable"
+"quick_gloss": "fit"
 },
 {
 "surface": "bhavati",
@@ -395,12 +499,24 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "śārīramathajīvasya",
-"quick_gloss": "bodily-and-life"
+"surface": "śārīram",
+"quick_gloss": "bodily"
 },
 {
-"surface": "saṃskāradvitayaṃ",
-"quick_gloss": "two-purifications"
+"surface": "atha",
+"quick_gloss": "and"
+},
+{
+"surface": "jīvasya",
+"quick_gloss": "of-life"
+},
+{
+"surface": "saṃskāra",
+"quick_gloss": "purification"
+},
+{
+"surface": "dvitayaṃ",
+"quick_gloss": "pair"
 },
 {
 "surface": "dhruve",
@@ -416,16 +532,24 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "abhyaṃgodvartane",
-"quick_gloss": "limb-rubbing"
+"surface": "abhyaṃga",
+"quick_gloss": "anointing"
 },
 {
-"surface": "caiva",
-"quick_gloss": "and-indeed"
+"surface": "ca",
+"quick_gloss": "and"
 },
 {
-"surface": "snānamālepanaṃ",
-"quick_gloss": "bathing-anointing"
+"surface": "eva",
+"quick_gloss": "eva"
+},
+{
+"surface": "snānam",
+"quick_gloss": "bathing"
+},
+{
+"surface": "ālepanaṃ",
+"quick_gloss": "unguent"
 },
 {
 "surface": "tataḥ",
@@ -446,11 +570,11 @@
 },
 {
 "surface": "yavakālaṃ",
-"quick_gloss": "barley-time"
+"quick_gloss": "yava-time"
 },
 {
 "surface": "kṛtiḥ",
-"quick_gloss": "action"
+"quick_gloss": "act"
 },
 {
 "surface": "paṭe",
@@ -479,7 +603,7 @@
 },
 {
 "surface": "ca",
-"quick_gloss": "and"
+"quick_gloss": "ca"
 },
 {
 "surface": "sugaṃdhitā",
@@ -508,11 +632,11 @@
 },
 {
 "surface": "ca",
-"quick_gloss": "and"
+"quick_gloss": "ca"
 },
 {
 "surface": "pārvati",
-"quick_gloss": "Pārvatī"
+"quick_gloss": "parvati"
 }
 ]
 },
@@ -524,20 +648,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "svabhāva",
-"quick_gloss": "natural"
+"surface": "svabhāva+sukumāratvaṃ",
+"quick_gloss": "natural-softness"
 },
 {
-"surface": "sukumāratvaṃ",
-"quick_gloss": "tenderness"
-},
-{
-"surface": "svabhāvena",
-"quick_gloss": "by-nature"
-},
-{
-"surface": "sugaṃdhitā",
-"quick_gloss": "fragrance"
+"surface": "svabhāvena+sugaṃdhitā",
+"quick_gloss": "natural-fragrance"
 }
 ]
 },
@@ -558,7 +674,7 @@
 },
 {
 "surface": "atisaṃkoca",
-"quick_gloss": "excessive-contraction"
+"quick_gloss": "excessive-tightness"
 },
 {
 "surface": "hīnatā",
@@ -600,11 +716,11 @@
 },
 {
 "surface": "ca",
-"quick_gloss": "and"
+"quick_gloss": "ca"
 },
 {
 "surface": "pārvati",
-"quick_gloss": "Pārvatī"
+"quick_gloss": "parvati"
 }
 ]
 }
