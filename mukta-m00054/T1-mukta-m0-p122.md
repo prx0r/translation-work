@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p122-v3026
-[bhikṣu+namaḥ](bhikṣavenamaḥ) [bhikṣu-rūpa+namaḥ](bhikṣurūpāyanamaḥ) [vipaṇa+namaḥ](vipaṇāyanamaḥ)
+[obeisance-to-mendicant](bhikṣavenamaḥ) [obeisance-to-mendicant+form](bhikṣurūpāyanamaḥ) [obeisance-to-vipaṇa](vipaṇāyanamaḥ)
 
 ## mukta-m0-p122-v3027
-[vajra-hasta+namaḥ](vajrahastāyanamaḥ) [viṣkambhin+namaḥ](viṣkambhinenamaḥ)
+[obeisance-to-vajra+hand](vajrahastāyanamaḥ) [obeisance-to-supporter](viṣkambhinenamaḥ)
 
 ## mukta-m0-p122-v3028
-[camū-stambhana+namaḥ](camūstambhanāyanamaḥ) [vṛtta-avṛtta-kara+namaḥ](vṛttāvṛttakarāyanamaḥ)
+[obeisance-to-army+stiller](camūstambhanāyanamaḥ) [obeisance-to-turn+non-turn+maker](vṛttāvṛttakarāyanamaḥ)
 
 ## mukta-m0-p122-v3029
-[tāla+namaḥ](tālāyanamaḥ) [madhava+namaḥ](madhavenamaḥ) [madhu-kalocana+namaḥ](madhukalocanāyanamaḥ)
+[obeisance-to-tāla](tālāyanamaḥ) [obeisance-to-mādhava](madhavenamaḥ) [obeisance-to-honey+eyed](madhukalocanāyanamaḥ)
 
 ## mukta-m0-p122-v3030
-[vācaspati+namaḥ](vācaspatyāyanamaḥ) [vājasana+namaḥ](vājasanāyanamaḥ)
+[obeisance-to-lord+of+speech](vācaspatyāyanamaḥ) [obeisance-to-vājasana](vājasanāyanamaḥ)
 
 ## mukta-m0-p122-v3031
-[āśrama-pūjita+namaḥ](āśramapūjitāyanamaḥ) [brahmacārin+namaḥ](brahmacāriṇenamaḥ)
+[obeisance-to-hermitage+worshipped](āśramapūjitāyanamaḥ) [obeisance-to-brahmacārin](brahmacāriṇenamaḥ)
 
 ## mukta-m0-p122-v3032
-[loka-cārin+namaḥ](lokacāriṇenamaḥ) [sarva-cārin+namaḥ](sarvacāriṇenamaḥ) [vicāra-vid+namaḥ](vicāravidenamaḥ)
+[obeisance-to-world+wanderer](lokacāriṇenamaḥ) [obeisance-to-all+wanderer](sarvacāriṇenamaḥ) [obeisance-to-inquiry+knower](vicāravidenamaḥ)
 
 ## mukta-m0-p122-v3033
-[īśāna+namaḥ](īśānāyanamaḥ) [īśvara+namaḥ](īśvarāyanamaḥ) [kāla+namaḥ](kālāyanamaḥ)
+[obeisance-to-īśāna](īśānāyanamaḥ) [obeisance-to-lord](īśvarāyanamaḥ) [obeisance-to-time](kālāyanamaḥ)
 
 ## mukta-m0-p122-v3034
-[niśā-cārin+namaḥ](niśācāriṇenamaḥ) [pināka-dhṛṣ+namaḥ](pinākadhṛṣenamaḥ) [nimitta-sthā+namaḥ](nimittasthāyanamaḥ)
+[obeisance-to-night+wanderer](niśācāriṇenamaḥ) [obeisance-to-pināka+holder](pinākadhṛṣenamaḥ) [obeisance-to-omen+abider](nimittasthāyanamaḥ)
 
 ## mukta-m0-p122-v3035
-[nimitta+namaḥ](nimittāyanamaḥ) [nandaya+namaḥ](nandayenamaḥ) [nandikara+namaḥ](nandikarāyanamaḥ)
+[obeisance-to-omen](nimittāyanamaḥ) [obeisance-to-nandaya](nandayenamaḥ) [obeisance-to-joy+maker](nandikarāyanamaḥ)
 
 ## mukta-m0-p122-v3036
-[hara+namaḥ](harayenamaḥ) [nandīśvara+namaḥ](nandīśvarāyanamaḥ) [nandin+namaḥ](nandinenamaḥ)
+[obeisance-to-hara](harayenamaḥ) [obeisance-to-nandī+lord](nandīśvarāyanamaḥ) [obeisance-to-nandin](nandinenamaḥ)
 
 ## mukta-m0-p122-v3037
-[nihantṛ+namaḥ](nihantrenamaḥ) [kāla+namaḥ](kālāyanamaḥ) [brahman+namaḥ](brahmaṇenamaḥ)
+[obeisance-to-slayer](nihantrenamaḥ) [obeisance-to-time](kālāyanamaḥ) [obeisance-to-brahman](brahmaṇenamaḥ)
 
 ## mukta-m0-p122-v3038
-[pitāmaha+namaḥ](pitāmahāyanamaḥ) [catur-mukha+namaḥ](caturmmukhāyanamaḥ)
+[obeisance-to-grandfather](pitāmahāyanamaḥ) [obeisance-to-four+faced](caturmmukhāyanamaḥ)
 
 ## mukta-m0-p122-v3039
-[mahā-liṅga+namaḥ](mahāliṅgāyanamaḥ) [cāru-liṅga+namaḥ](cāruliṅgāyanamaḥ)
+[obeisance-to-great+sign](mahāliṅgāyanamaḥ) [obeisance-to-beautiful+sign](cāruliṅgāyanamaḥ)
 
 ## mukta-m0-p122-v3040
-[liṅga-adhyakṣa+namaḥ](liṅgādhyakṣāyanamaḥ) [sura-adhyakṣa+namaḥ](surādhyakṣāyanamaḥ)
+[obeisance-to-sign+overseer](liṅgādhyakṣāyanamaḥ) [obeisance-to-god+overseer](surādhyakṣāyanamaḥ)
 
 ## mukta-m0-p122-v3041
-[yoga-adhyakṣa+namaḥ](yogādhyakṣāyanamaḥ) [yuga-avaha+namaḥ](yugāvahāyanamaḥ)
+[obeisance-to-yoga+overseer](yogādhyakṣāyanamaḥ) [obeisance-to-age+bringer](yugāvahāyanamaḥ)
 
 ## mukta-m0-p122-v3042
-[bīja-adhyakṣa+namaḥ](bījādhyakṣāyanamaḥ) [bīja-kartṛ+namaḥ](bījakarttrenamaḥ)
+[obeisance-to-seed+overseer](bījādhyakṣāyanamaḥ) [obeisance-to-seed+maker](bījakarttrenamaḥ)
 
 ## mukta-m0-p122-v3043
-[adhyātma-anugata+namaḥ](adhyātmānugatāyanamaḥ) [bala+namaḥ](balāyanamaḥ) [itihāsa+namaḥ](itihāsāyanamaḥ)
+[obeisance-to-self+followed](adhyātmānugatāyanamaḥ) [obeisance-to-strength](balāyanamaḥ) [obeisance-to-legend](itihāsāyanamaḥ)
 
 ## mukta-m0-p122-v3044
-[vaśya+namaḥ](vaśyāyanamaḥ) [vaśa-kara+namaḥ](vaśakarāyanamaḥ) [kala+namaḥ](kalayenamaḥ)
+[obeisance-to-controlled](vaśyāyanamaḥ) [obeisance-to-control+maker](vaśakarāyanamaḥ) [obeisance-to-kala](kalayenamaḥ)
 
 ## mukta-m0-p122-v3045
-[loka-kartṛ+namaḥ](lokakarttrenamaḥ) [paśupati+namaḥ](paśupatayenamaḥ) [mahā-kartṛ+namaḥ](mahākarttrenamaḥ)
+[obeisance-to-world+maker](lokakarttrenamaḥ) [obeisance-to-lord+of+beasts](paśupatayenamaḥ) [obeisance-to-great+maker](mahākarttrenamaḥ)
 
 ## mukta-m0-p122-v3046
-[an-auṣadha+namaḥ](anauṣadhāyanamaḥ) [akṣara+namaḥ](akṣarāyanamaḥ) [parama-brahman+namaḥ](paramabrahmaṇenamaḥ)
+[obeisance-to-no+medicine](anauṣadhāyanamaḥ) [obeisance-to-imperishable](akṣarāyanamaḥ) [obeisance-to-supreme+brahman](paramabrahmaṇenamaḥ)
 
 ## mukta-m0-p122-v3047
-[bala-vat+namaḥ](balavatenamaḥ) [śakra+namaḥ](śakrāyanamaḥ) [nīta+namaḥ](nītayenamaḥ)
+[obeisance-to-powerful](balavatenamaḥ) [obeisance-to-śakra](śakrāyanamaḥ) [obeisance-to-led](nītayenamaḥ)
 
 ## mukta-m0-p122-v3048
-[anīta+namaḥ](anītayenamaḥ) [śuddha-ātman+namaḥ](śuddhātmanenamaḥ) [śuddha+namaḥ](śuddhāyanamaḥ)
+[obeisance-to-not+led](anītayenamaḥ) [obeisance-to-pure+self](śuddhātmanenamaḥ) [obeisance-to-pure](śuddhāyanamaḥ)
 
 ## mukta-m0-p122-v3049
-[mānya+namaḥ](mānyāyanamaḥ) [gata-agata+namaḥ](gatāgatāyanamaḥ) [bahu-prasāda+namaḥ](bahuprasādāyanamaḥ)
+[obeisance-to-honorable](mānyāyanamaḥ) [obeisance-to-gone+not-gone](gatāgatāyanamaḥ) [obeisance-to-much+grace](bahuprasādāyanamaḥ)
 
 ## mukta-m0-p122-v3050
-[veda-kāra+namaḥ](vedakārāyanamaḥ) [mantra-kāra+namaḥ](mantrakārāyanamaḥ) [viduṣ+namaḥ](viduṣenamaḥ)
+[obeisance-to-veda+maker](vedakārāyanamaḥ) [obeisance-to-mantra+maker](mantrakārāyanamaḥ) [obeisance-to-wise](viduṣenamaḥ)
