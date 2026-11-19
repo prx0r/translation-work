@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p53-v1301
-there+also causes+intense more+arguments+also and
+[tatra-api](tatrāpi) [hetavaḥ](hetavaḥ) [tīvrāḥ](tīvrāḥ) [bhūyasyaḥ+yuktayaḥ+api](bhūyasyoyuktayo'pi) [ca](ca)
 
 ## mukta-m0-p53-v1302
-confusion arises far those+of+seeing+of+debtors
+[vyāmohe](vyāmohe) [jāyate](jāyate) [dūram](dūraṃ) [tayoḥ+ālokanānṛṇām](tayorālokanānṛṇām)
 
 ## mukta-m0-p53-v1303
-in+place back by+you goddess properly that+discriminated
+[sthāne](sthāne) [pṛṣṭham](pṛṣṭhaṃ) [tvayā+devi](tvayādevi) [samyak](samyage) [tat+vivicyate](tadvivicyate)
 
 ## mukta-m0-p53-v1304
-not only intellect+play vaikhari+also cause
+[na](na) [kevalam](kevalaṃ) [dhī-vilāsaḥ](dhīvilāso) [vaikhari+api](vaikharyapi) [ca](ca) [kāraṇam](kāraṇam)
 
 ## mukta-m0-p53-v1305
-by+resolve by+doubt human+birth+single+dweller
+[saṅkalpena](saṅkalpena) [vikalpena](vikalpena) [nara-jāti-eka-vāsinā](narajātyekavāsinā)
 
 ## mukta-m0-p53-v1306
-of+those seeing+of+views who veda first+seeing
+[teṣām](teṣāṃ) [tu](tu) [darśanānām](darśanānāṃ) [yaḥ](yo) [vedaḥ](vedaḥ) [prathama-darśanam](prathamadarśanam)
 
 ## mukta-m0-p53-v1307
-there+indifferent conduct+other+also supreme+goddess
+[tatra](tatrodāsīna) [udāsīna](udāsīna) [vṛttīni](vṛttīnicānyāni) [anyāni](anyāni) [parameśvarī](parameśvarī)
 
 ## mukta-m0-p53-v1308
-not even rest news of+anyone path+of+debate
+[na](na) [tu](tu) [viśrāṃti](viśrāṃti) [vārttā+api](vārttāpi) [kasya+cit+vāda-vartmanaḥ](kasyacidvādavartmanaḥ)
 
 ## mukta-m0-p53-v1309
-by+taste here indeed variety many+scripture+millions
+[rucinām+iha](rucināmiha) [vai](vai) [citryāt](citryād) [bahudhā+śāstra-koṭayaḥ](bahudhāśāstrakoṭayaḥ)
 
 ## mukta-m0-p53-v1310
-political+science and fair+hipped from+those scripture+emergence
+[artha-śāstram](arthaśāstraṃ) [ca](ca) [su-śroṇi](suśroṇi) [tābhyām](tābhyāṃ) [śāstra-samudgamaḥ](śāstrasamudgamaḥ)
 
 ## mukta-m0-p53-v1311
-perception+etc proof+all ways cause indeed this
+[pratyakṣa-ādi](pratyakṣādi) [pramāṇāni](pramāṇāni) [sarvathā](sarvathā) [kāraṇam](kāraṇaṃ) [tu+idam](tvidam)
 
 ## mukta-m0-p53-v1312
-of+someone equality goddess threefold this proof+order
+[kasya+api](kasyāpi) [samatā](samatā) [devi](devi) [tri-vidhaḥ+ayam](trividhoyaṃ) [pramā-kramaḥ](pramākramaḥ)
 
 ## mukta-m0-p53-v1313
-buddhists+also vaisheshikas perception+inference declared
+[saugatāḥ+ca+eva](saugatāścaiva) [kāṇādāḥ](kāṇādā) [pratyakṣa-anumiti](pratyakṣānumitī) [jaguḥ](jaguḥ)
 
 ## mukta-m0-p53-v1314
-nyaya+one+partisans+also others like+sankhya declared
+[nyāya-eka-deśinaḥ+ca+anye](nyāyaika deśinaścānye) [sāṃkhya-vat](sāṃkhyavat) [samudīritāḥ](samudīritāḥ)
 
 ## mukta-m0-p53-v1315
-postulation+with these four another said
+[artha-āpatyā](arthāpatyā) [saha+etāni](sahaitāni) [catvāri+aparaḥ](catvāryapara) [ūcire](ūcire)
 
 ## mukta-m0-p53-v1316
-possibility here by+reasons those six+proofs+also some
+[saṃbhava+etīha](saṃbhavaitīha) [yuktaiḥ+taiḥ](yuktaistaiḥ) [ṣaḍbhiḥ+mānaiḥ+ca](ṣaḍbhirmānaiśca) [kecana](kecana)
 
 ## mukta-m0-p53-v1317
-there mutual+inclusion debaters+reasoned+scholars
+[atra+antar+bhāvam](atrāntarbbhāvam) [anyonyam](anyonyaṃ) [vādinaḥ+yukta-paṇḍitāḥ](vādinoyuktapaṇḍitāḥ)
 
 ## mukta-m0-p53-v1318
-again adoption whose whose small+adoption
+[bhūyaḥ](bhūyaḥ) [parigrahaḥ](parigraho) [yasya](yasya) [yasya](yasya) [svalpa-parigrahaḥ](svalpaparigrahaḥ)
 
 ## mukta-m0-p53-v1319
-those do holding scriptures+small+adoption
+[ye](ye) [kurvanti](kurvantī) [hamanvānāḥ](hamanvānāḥ) [śāstreṣu+alpa-parigraham](śāstreṣvalpaparigraham)
 
 ## mukta-m0-p53-v1320
-their view shaking logic+knots+by+blazing
+[teṣām](teṣāṃ) [matam](mataṃ) [ca](ca) [dhūnvānāḥ+tarka-granthibhiḥ+ujvalaiḥ](dhūnvānāstarka granthibhirujvalaiḥ)
 
 ## mukta-m0-p53-v1321
-thus being all scriptures dispute order
+[evam](evaṃ) [sati](sati) [samasteṣu](samasteṣu) [śāstreṣu](śāstreṣu) [kalahaṃ](kalahaṃ) [kramaḥ](kramaḥ)
 
 ## mukta-m0-p53-v1322
-superimposition rejecting some own+taste+arguers
+[āropa-jam](āropajaṃ) [nirasyanti](nirasyaṃti) [kecit](kecit) [svarasa-vādinaḥ](svarasavādinaḥ)
 
 ## mukta-m0-p53-v1323
-superimposition+of nature tell i mountain+daughter
+[āropasya](āropasya) [svarūpam+tu](svarūpantu) [kathayāmi+nagātmaje](kathayāminagātmaje)
 
 ## mukta-m0-p53-v1324
-clay indeed all this earth various+forms
+[mṛttikā+khalu](mṛttikākhalu) [sarvā+iyam](sarveyaṃ) [bhūmiḥ+nānā-vidhā-ākṛtiḥ](bhūmirnnānāvidhākṛtiḥ)
 
 ## mukta-m0-p53-v1325
-this earth clay+only pot+maker+hand+rubbed
+[etat](etat) [bhūmī](bhūmī) [mṛttikā+eva+kuṃbha-kṛt-pāṇi-mardditā](mṛttikaivakuṃbhakṛtpāṇimardditā)
