@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p84-v2076
-[indra](śakraḥ) [enemy-destroyer](śatrukṣayakaraḥ) [enemy-time-maker](śatrukālakaraḥ) [auspicious](śivaḥ)
+indra enemy-destruction-maker enemy-death-maker auspicious
 
 ## mukta-m0-p84-v2077
-[sixteen-vowel-form](ṣoḍaśasvararūpaśca) [sixteen-ocean-ornament](ṣoḍaśārṇavibhūṣaṇaḥ)
+sixteen-vowel-form and sixteen-ocean-ornament
 
 ## mukta-m0-p84-v2078
-[lakshmi-six-limbs-bearer](lakṣmīṣaḍaṅgadhārī) [ca](ca) [lakshmi-sixteen-letters-bearer](lakṣmīṣoḍaśavarṇabhṛt)
+lakshmi-six-limb-bearer and lakshmi-sixteen-letter-bearer
 
 ## mukta-m0-p84-v2079
-[seven-horsed](saptasaptiḥ) [good-conduct](sadācāraḥ) [good](sādhuḥ) [dear-to-good-people](sādhujanapriyaḥ)
+seven-horsed always-conduct saint saint-people-dear
 
 ## mukta-m0-p84-v2080
-[lord-of-seven-islands](saptadvīpavatīnāthaḥ) [lord-of-seven-oceans](saptasāgaranāyakaḥ)
+seven-island-lord seven-ocean-leader
 
 ## mukta-m0-p84-v2081
-[sattvic](sāttvikaḥ) [endowed-with-sattva](sattvasaṃpannaḥ) [remover-of-all-sins](samastaduritāpahaḥ)
+sattvic sattva-endowed all-sin-remover
 
 ## mukta-m0-p84-v2082
-[destroyer-of-all-sins](samastapātakadhvaṃsī) [worshipped-by-all-gods](samastasuravanditaḥ)
+all-sin-destroyer all-god-worshipped
 
 ## mukta-m0-p84-v2083
-[hari-hara](harirharo) [hari-hara](hariharo) [golden-lord](hāṭakeśo) [remover-of-hardship](haṭāpahaḥ)
+hari hara hari-hara golden-haired force-remover
 
 ## mukta-m0-p84-v2084
-[lakshmi-hari](lakṣmīharirhṛṣīkeśo) [lakshmi-garland-bearer](lakṣmīhāradharo'naghaḥ)
+lakshmi-hari senses-lord lakshmi-garland-bearer sinless
 
 ## mukta-m0-p84-v2085
-[moment-maker](kṣaṇakṛt) [lord-of-moment-gift](kṣaṇadānāthaḥ) [patient](kṣamāvān) [agitated-asura](kṣubhitāsuraḥ)
+moment-maker moment-gift-lord patient agitated-asura
 
 ## mukta-m0-p84-v2086
-[endless](ananto'nantapūjyaścāpyādirādityasaṃnnibhaḥ)
+endless endless-worshipped also first-sun-like
 
 ## mukta-m0-p84-v2087
-[glowing-heat](ūṣmojjvalo'pi) [debt-destroyer](ṛṇahā) [bright-matrika](ṝkārojjvalamātṛkaḥ)
+heat-bright also debt-destroyer long-r-vowel-bright-mother
 
 ## mukta-m0-p84-v2088
-[with-prosperity](aiśvaryasahitaścoṣṭhastathaunmattasvarārcitaḥ)
+prosperity-with lip also mad-sound-worshipped
 
 ## mukta-m0-p84-v2089
-[mantra](oṃhrīṃhasauḥ) [hrim-shrim-deity](hrīṃśrīṃdevo) [lakshmi-narayana](lakṣmīnārāyaṇaḥ) [shiva](śivaḥ)
+mantra hrīṃ-śrīṃ-god lakshmi-narayana auspicious
 
 ## mukta-m0-p84-v2090
-[from-a-to-ksha](akārādikṣakārānta) [abode-of-knowledge](vidyānilayamīśvari)
+a-to-ksha-ending knowledge-abode goddess
 
 ## mukta-m0-p84-v2091
-[thousand-horse-sacrifices](aśvamedhasahasrāṇi) [crores-of-vajapeya](vājipeyasya) [koṭayaḥ](koṭayaḥ)
+horse-sacrifice-thousands soma-sacrifice-millions
 
 ## mukta-m0-p84-v2092
-[of-mantra-name-thousand](mantranāmasahasrasya) [sixteenth-part](kalāṃ) [not-worth](nārghanti) [ṣoḍaśīm](ṣoḍaśīm)
+mantra-name-thousand sixteenth-part not-equal
 
 ## mukta-m0-p84-v2093
-[in-dream](svapne) [dear-to-lakshmi](lakṣmīpriyaṃ) [god](devaṃ) [boon-giver](varadaṃ) [he-sees](so'pi) [paśyati](paśyati)
+dream lakshmi-dear god boon-giver he also sees
 
 ## mukta-m0-p84-v2094
-[hundred-thousand-years](śatavarṣasahasrāṇi) [fruit-of-worship](pūjāyāḥ) [phalamāpnuyāt](phalamāpnuyāt)
+hundred-year-thousands worship fruit-obtains
 
 ## mukta-m0-p84-v2095
-[he-becomes](sa) [accomplished](bhavet) [auspicious](sādhakaḥ) [śrīmān](śrīmān) [to-other-world](paratra) [tridivaṃ](tridivaṃ) [vrajet](vrajet)
+he becomes practitioner prosperous beyond three-heaven goes
 
 ## mukta-m0-p84-v2096
-[to-yogis](yogināṃ) [yoga-giver](yogadaṃ) [worshipful](pūjyaṃ) [to-bhogis](bhogināṃ) [bhoga-increaser](bhogavardhanam)
+yogis yoga-giver worshippable [alt meritorious] enjoyers enjoyment-increaser
 
 ## mukta-m0-p84-v2097
-[to-vaishnavas](vaiṣṇavānāṃ) [dearer](priyataraṃ) [to-liberated](muktānāṃ) [supreme-goal-giver](paramārthadam)
+vaishnavas dearer liberated supreme-meaning-giver
 
 ## mukta-m0-p84-v2098
-[without-gift](vinā) [dānaṃ](dānaṃ) [na](na) [gṛhṇīyānna](gṛhṇīyānna) [dadyād](dadyād) [dakṣiṇāṃ](dakṣiṇāṃ) [vinā](vinā)
+without gift not accept not give dakshina without
 
 ## mukta-m0-p84-v2099
-[by-your-devotion](tava) [bhaktyā](bhaktyā) [mayākhyātaṃ](mayākhyātaṃ) [gopanīyaṃ](gopanīyaṃ) [svayonivat](svayonivat)
+your devotion by me-told secret own-origin-like
 
 ## mukta-m0-p84-v2100
-[lakshmi-narayana-thousand-names](lakṣmīnārāyaṇasahasranāmanirūpaṇamekonacatvāriṃśaḥ) [paṭalaḥ](paṭalaḥ)
+lakshmi-narayana-thousand-name-description forty-first chapter
