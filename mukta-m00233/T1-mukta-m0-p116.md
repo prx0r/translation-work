@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p116-v2876
-[bindu-antaḥ](bindvantaḥ) [tat-pūrvaḥ](tatpūrvaḥ) [antya-svaraḥ](antyasvaraḥ) [anvitaḥ](anvitaḥ)
+[bindu-ending](bindvantas) [prior](tatpūrvo) [final-vowel](antyasvara) [accompanied](nvitaḥ)
 
 ## mukta-m0-p116-v2877
-[marut-sakha](marutsakha) [priya-antaḥ](priyāntaḥ) [jagatī-arṇaḥ](jagatyarṇaḥ) [vāṅ-manuḥ](vāṅmanuḥ)
+[marut-friend](marutsakha) [dear-ending](priyānto) [this](ayaṃ) [world](jagatyarṇo) [indeed](hi) [speech-manu](vāṅmanuḥ)
 
 ## mukta-m0-p116-v2878
-[sāgniḥ](sāgniḥ) [nādaḥ](nādaḥ) [tārā-ādiḥ](tārādiḥ) [dīrghaiḥ](dīrghaiḥ) [svaraiḥ](svaraiḥ)
+[with-fire](sāgnir) [sound](nādastu) [star-beginning](tārādir) [long](dīrghairyuktaḥ) [gradually](kramāt) [vowels](svaraiḥ)
 
 ## mukta-m0-p116-v2879
-[purāṇa-pada](purāṇapada) [saṃyuktaiḥ](saṃyuktaiḥ) [ṣaḍbhiḥ](ṣaḍbhiḥ) [mantra-pada](mantrapada) [kramāt](kramāt)
+[ancient-word](purāṇapada) [joined](saṃyuktaiḥ) [six](ṣaḍbhir) [mantra-words](mantrapadaiḥ) [gradually](kramāt)
 
 ## mukta-m0-p116-v2880
-[caturthy-anta](caturthyanta) [vidmahe](vidmahe) [pada](pada) [saṃyutā](saṃyutā)
+[fourth-ending](caturthyantā) [vidmahe-word](vidmahepada) [joined](saṃyutā)
 
 ## mukta-m0-p116-v2881
-[preti](preti) [codayāt](codayāt) [iti](iti) [yojitā](yojitā)
+[goes](preti) [impels](codayāditi) [joined](yojitā)
 
 ## mukta-m0-p116-v2882
-[proktaḥ](proktaḥ) [strī-mānaḥ](strīmānaḥ) [ataḥ](ataḥ) [kṛtā](kṛtā)
+[declared](proktastrī) [measure](mānataḥ) [done](kṛtā)
 
 ## mukta-m0-p116-v2883
-[lekhanīm](lekhanīm) [vāme](vāme) [kalaśam](kalaśam) [ca](ca) [api](api) [bibhratī](bibhratī)
+[pen](lekhanīṃ) [left](vāme) [pot](kalaśaṃ) [also](cāpi) [bearing](bibhratī)
 
 ## mukta-m0-p116-v2884
-[śaṅkha-kunda-indu-dhavalā](śaṅkhakundendudhavalā) [sa-kaparda-indu-śekharā](sakapardenduśekharā)
+[conch-moon-white](śaṅkhakundendudhavalā) [with-matted-moon-crest](sakapardenduśekharā)
 
 ## mukta-m0-p116-v2885
-[hāri-hāra-ullasat-tuṅga-pīvara-stana-maṇḍalā](hārihārollasattuṅgapīvarastanamaṇḍalā)
+[garland-necklace-shining](hārihārollasat) [high-full-breast-circle](tuṅgapīvarastanamaṇḍalā)
 
 ## mukta-m0-p116-v2886
-[su-paviṣṭā](sū)paviṣṭā) [nava-yauvana-maṇḍitā](navayauvanamaṇḍitā)
+[seated](sū)paviṣṭā) [new-youth-adorned](navayauvanamaṇḍitā)
 
 ## mukta-m0-p116-v2887
-[dakṣiṇa-dvāre](dakṣiṇadvāre) [sthāpyā](sthāpyā) [syāt](syāt) [dakṣiṇā-mukhī](dakṣiṇāmukhī)
+[right-gate](dakṣiṇadvāre) [placed](sthāpyā) [should-be](syād) [right-facing](dakṣiṇāmukhī)
 
 ## mukta-m0-p116-v2888
-[pūrṇa-bhadraḥ](pūrṇabhadraḥ) [ca](ca) [api](api) [ānandaḥ](ānandaḥ) [nandanaḥ](nandanaḥ) [tathā](tathā)
+[full-bhadra](pūrṇabhadraś) [also](cāpy) [ananda](ānando) [nandana](nandanastathā)
 
 ## mukta-m0-p116-v2889
-[prācyām](prācyām) [aindraḥ](aindraḥ) [ca](ca) [vajrāṅkaḥ](vajrāṅkaḥ) [yāmyaḥ](yāmyaḥ) [daṇḍāṅkaḥ](daṇḍāṅkaḥ) [eva](eva) [ca](ca)
+[east-indra](prācyāmaindraś) [vajra-marked](ca vajrāṅko) [south-staff-marked](yāmyo daṇḍāṅka) [indeed](eva ca)
 
 ## mukta-m0-p116-v2890
-[prajñā](prajñā) [prabhā](prabhā) [vidyā](vidyā) [dhīḥ](dhīḥ) [dhṛtiḥ](dhṛtiḥ) [smṛtiḥ](smṛtiḥ) [buddhayaḥ](buddhayaḥ)
+[wisdom](prajñā) [light](prabhā) [knowledge](vidyā) [intellect](dhīr) [steadiness](dhṛti) [memory](smṛti) [intellects](buddhayaḥ)
 
 ## mukta-m0-p116-v2891
-[madhya-stambheṣu](madhyastambheṣu) [catvāraḥ](catvāraḥ) [api](api) [āgneya-ādiṣu](āgneyādiṣu) [ṛg-ādayaḥ](ṛgādayaḥ)
+[middle-pillars](madhyastambheṣu) [four](catvāro) [also](pyāgneyādiṣv) [ṛg-etc](ṛgādayaḥ)
 
 ## mukta-m0-p116-v2892
-[sūtra-pāṭhaḥ](sūtrapāṭhaḥ) [mīmāṃsā](mīmāṃsā) [nyāya-vistaraḥ](nyāyavistaraḥ)
+[sutra-recitation](sūtrapāṭho) [mimamsa](mīmāṃsā) [nyaya-expansion](nyāyavistaraḥ)
 
 ## mukta-m0-p116-v2893
-[vidyā-ātmakam](vidyātmakam) [vitānam](vitānam) [syāt](syāt) [sthalaṃ](sthalaṃ) [tu](tu) [pṛthivī](pṛthivī) [svayam](svayam)
+[knowledge-canopy](vidyātmakaṃ vitānaṃ) [should-be](syāt) [place](sthalaṃ) [earth](tu pṛthivī) [itself](svayam)
 
 ## mukta-m0-p116-v2894
-[haṃsa-gā](haṃsagā) [vāṇī](vāṇī) [tat-astram](tadastram) [sārasa-upari](sārasopari)
+[swan-going](haṃsagā) [speech](vāṇī) [that-weapon](tadastraṃ) [saras-on](sārasopari)
 
 ## mukta-m0-p116-v2895
-[bhūṣitam](bhūṣitam) [vāme](vāme) [vara-pustaka-pāśa-dhṛk](varapustakapāśadhṛk)
+[adorned](bhūṣitaṃ) [left](vāme) [boon-book-noose-bearing](varapustakapāśadhṛk)
 
 ## mukta-m0-p116-v2896
-[dadhat](dadhat) [prāgvat](prāgvat) [nava-su](navasu) [kuṇḍeṣu](kuṇḍeṣu) [vahniṃ](vahniṃ) [madhya-ādi-bhājitam](madhyādibhājitam)
+[holds](dadhat) [as-before](prāgvannavasu) [in-kundas](kuṇḍeṣu) [fire](vahniṃ) [middle-etc](madhyādibhājitam)
 
 ## mukta-m0-p116-v2897
-[yoga-ādi-mūrtibhiḥ](yogādimūrtibhiḥ) [dikṣu](dikṣu) [juhuyuḥ](juhuyuḥ) [mūrti-dhārakāḥ](mūrtidhārakāḥ)
+[yoga-etc-forms](yogādimūrtibhir) [in-directions](dikṣu) [should-offer](juhuyur) [form-bearers](mūrtidhārakāḥ)
 
 ## mukta-m0-p116-v2898
-[samid-ājya-carūn](samidājyacarūn) [lājān](lājān) [vrīhi-siddhārtha-sarṣapān](vrīhisiddhārthasarṣapān)
+[samid-ghee-caru-laja](samidājyacarūṁllājān) [rice-siddhartha-mustard](vrīhisiddhārthasarṣapān)
 
 ## mukta-m0-p116-v2899
-[prāgvat](prāgvat) [ākāra-śuddhim](ākāraśuddhim) [ca](ca) [kuryāt](kuryāt) [ca](ca) [akṣi-vimokṣaṇam](akṣivimokṣaṇam)
+[as-before](prāgvadākāraśuddhiṃ) [also](ca) [should-do](kuryāccākṣivimokṣaṇam)
 
 ## mukta-m0-p116-v2900
-[sarasvatyā](sarasvatyā) [vidyā-kumbha-aṣṭake](vidyākumbhāṣṭake) [yajet](yajet)
+[to-sarasvati](sarasvatyā) [knowledge-pot-eight](vidyākumbhāṣṭake) [should-worship](yajet)
