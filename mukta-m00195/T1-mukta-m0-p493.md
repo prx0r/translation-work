@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p493-v12301
-[ananga-kusuma](anaṅgakusumā) [tu-adya](tvādyā) [dvitiya](dvitīyā) [ananga-mekhala](anaṅgamekhalā)
+ananga-kusuma(tvādyā) tvā-ādyā dvitīyā ananga-mekhala
 
 ## mukta-m0-p493-v12302
-[ananga-lekha](anaṅgalekhā) [ca](ca) [ananga-vega](anaṅgavegā) [ananga-ankusha](anaṅgāṃkuśā) [tatha](tathā)
+ananga-lekha ca ananga-vega ananga-ankusha tathā
 
 ## mukta-m0-p493-v12303
-[tad-agre](tadagre) [shodasha-ara](ṣoḍaśāre) [tu](tu) [pashchima-adi-vilomatah](paścimādivilomataḥ)
+tad-agre ṣoḍaśāra tu paścimādi-vilomataḥ
 
 ## mukta-m0-p493-v12304
-[ahankara-akarshini](ahaṅkārākarṣiṇī) [ca](ca) [shabda-akarshinika](śabdākarṣiṇikā) [tatha](tathā)
+ahangkāra-ākarṣiṇī ca śabda-ākarṣiṇikā tathā
 
 ## mukta-m0-p493-v12305
-[rasa-akarshinika](rasākarṣiṇikā) [prokta](proktā) [gandha-akarshinika](gandhākarṣiṇikā) [mata](matā)
+rasa-ākarṣiṇikā proktā gandha-ākarṣiṇikā matā
 
 ## mukta-m0-p493-v12306
-[nama-akarshinika](nāmākarṣiṇikā) [ca-eva](caiva) [bija-akarshinika](bījākarṣiṇikā) [tatha](tathā)
+nāma-ākarṣiṇikā ca-eva bīja-ākarṣiṇikā tathā
 
 ## mukta-m0-p493-v12307
-[sharira-akarshini](śarīrākarṣiṇī) [pashchat](paścād) [atma-akarshinika](ātmākarṣiṇikā) [tatha](tathā)
+śarīra-ākarṣiṇī paścāt ātma-ākarṣiṇikā tathā
 
 ## mukta-m0-p493-v12308
-[kshobhana-dravana-akarsha-manonmada-maha-ankushah](kṣobhaṇadrāvaṇākarṣamanonmādamahāṃkuśāḥ)
+kṣobhaṇa drāvaṇa ākarṣa manonmāda mahā-ankuśāḥ
 
 ## mukta-m0-p493-v12309
-[tadvat](tadvat) [ca](ca) [adhah](adhaḥ) [samabhyarcya](samabhyarcya) [tad](tad) [bahir](bahir) [bhupure](bhūpure) [yajet](yajet)
+tadvat ca adhaḥ samabhyarcya tat bahiḥ bhūpure yajet
 
 ## mukta-m0-p493-v12310
-[dvare](dvāre) [dvayam](dvayaṃ) [prag-anima](prāgaṇimā) [mahima](mahimā) [laghima-ishita](laghimeśitā)
+dvāre dvayaṃ prāk aṇimā mahimā laghimā īśitā
 
 ## mukta-m0-p493-v12311
-[rasa-siddhih](rasasiddhiḥ) [ca](ca) [dashami](daśamī) [saparya](saparyā) [evam](evam) [samirita](samīritā)
+rasa-siddhiḥ ca daśamī saparyā evaṃ samīritā
 
 ## mukta-m0-p493-v12312
-[tarppana-adi](tarppaṇādi) [tatah](tataḥ) [kuryat](kuryyān) [mantra-siddhah](mantrasiddhaḥ) [prajayate](prajāyate)
+tarppaṇa-ādi tataḥ kuryāt mantra-siddhaḥ prajāyate
 
 ## mukta-m0-p493-v12313
-[karavira-ja-pushpaih](karavīrajapuṣpaiḥ) [ca](ca) [homat](homān) [mohayate](mohayate) [jagat](jagat)
+karavīra-ja-puṣpaiḥ ca homāt mohayate jagat
 
 ## mukta-m0-p493-v12314
-[campakaih](campakaiḥ) [patalaih](pāṭalaiḥ) [bilvaih](bilvaiḥ) [vasham-anayate](vaśamānayate) [cirat](cirāt)
+campakaiḥ pāṭalaiḥ bilvaiḥ vaśam ānayate cirāt
 
 ## mukta-m0-p493-v12315
-[bilvaih](bilvaiḥ) [syat](syāt) [atula](atulā) [lakshmi](lakṣmī) [ikshu-khandaih](ikṣukhaṇḍaiḥ) [tatha](tathā) [vashah](vaśāḥ)
+bilvaiḥ syāt atulā lakṣmīḥ ikṣu-khaṇḍaiḥ tathā vaśāḥ
 
 ## mukta-m0-p493-v12316
-[nishi](niśi) [svarna-phalaih](svarṇaphalaiḥ) [homah](homaḥ) [ripu-sena-vinasha-krit](ripusenāvināśakṛt)
+niśi svarṇa-phalaiḥ homaḥ ripu-senā-vināśa-kṛt
 
 ## mukta-m0-p493-v12317
-[arogyam](ārogyaṃ) [sampadam](sampadaṃ) [kamam](kāmaṃ) [dhanam](dhanaṃ) [sharkaraya](śarkkarayā) [sukham](sukham)
+ārogyaṃ sampadaṃ kāmaṃ dhanaṃ śarkkarayā sukham
 
 ## mukta-m0-p493-v12318
-[kshatriyah](kṣatriyo) [matulingaih](mātuluṅgaiḥ) [ca](ca) [vaishyah](vaiśyo) [naringga-jaih](nāriṅgajaiḥ) [phalaih](phalaiḥ)
+kṣatriyaḥ mātuluṅgaiḥ ca vaiśyaḥ nāriṅga-jaiḥ phalaiḥ
 
 ## mukta-m0-p493-v12319
-[panasanam](panasānāṃ) [laksha-homat](lakṣahomāt) [vashyah](vaśyāḥ) [syuh](syuḥ) [chakravartinah](cakravartinaḥ)
+panasānām lakṣa-homāt vaśyāḥ syuḥ cakravartinaḥ
 
 ## mukta-m0-p493-v12320
-[narikeraih](nārikeraiḥ) [tu](tu) [pandityam](pāṇḍityaṃ) [tilaih](tilaiḥ) [sarva-ishta-siddhayah](sarveṣṭasiddhayaḥ)
+nārikeraiḥ tu pāṇḍityaṃ tilaiḥ sarva-iṣṭa-siddhayaḥ
 
 ## mukta-m0-p493-v12321
-[payasaih](pāyasaiḥ) [dhana-dhanya-adi](dhanadhānyādi) [bandhukaih](bandhūkaiḥ) [praninah](prāṇino) [vashah](vaśāḥ)
+pāyasaiḥ dhana-dhānya-ādi bandhūkaiḥ prāṇinaḥ vaśāḥ
 
 ## mukta-m0-p493-v12322
-[lavanaih](lavaṇaiḥ) [rajika-yuktaih](rājikāyuktaiḥ) [homat](homāt) [dushta-vinashanam](duṣṭavināśanam)
+lavaṇaiḥ rājikā-yuktaiḥ homāt duṣṭa-vināśanam
 
 ## mukta-m0-p493-v12323
-[ghrita-hema](ghṛtahe) [mad-ipsita-aptih](mādīpsitāptiḥ) [shaktih](śaktiḥ) [syat](syāt) [tila-tandulaih](tilataṇḍulaiḥ)
+ghṛta-homa ādīpsita-āptiḥ śaktiḥ syāt tila-taṇḍulaiḥ
 
 ## mukta-m0-p493-v12324
-[krishnasya](kṛṣṇasya) [shaktim](śaktiṃ) [sumukhim](sumukhīṃ) [dvijanam](dvijānāṃ) [na-adhikarita](nādhikāritā)
+kṛṣṇasya śaktiṃ sumukhīṃ dvijānām na adhikāritā
 
 ## mukta-m0-p493-v12325
-[cini](cini) [hrim](hrīṃ) [tha-chattha-thashca](ṭhaścaṭhaḥṭhaśca) [dvavimshaty-aksharah](dvāviṃśatyakṣaro) [manuh](manuḥ)
+cini hrīṃ ṭhaḥ ca ṭhaḥ ca dvāviṃśati-akṣaraḥ manuḥ
