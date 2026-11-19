@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p493-v12301
-love-flower you-first second love-girdle
+[anaṅga-kusumā](anaṅgakusumā) [tvādyā](tvādyā) [dvitīyā](dvitīyā) [anaṅga-mekhalā](anaṅgamekhalā)
 
 ## mukta-m0-p493-v12302
-love-line and love-speed love-goad so
+[anaṅga-lekhā](anaṅgalekhā) [ca](ca) [anaṅga-vegā](anaṅgavegā) [anaṅga-aṃkuśā](anaṅgāṃkuśā) [tathā](tathā)
 
 ## mukta-m0-p493-v12303
-that-before sixteen-spoked indeed west-etc-reverse
+[tad-agre](tadagre) [ṣoḍaśāre](ṣoḍaśāre) [tu](tu) [paścima-ādi-vilomataḥ](paścimādivilomataḥ)
 
 ## mukta-m0-p493-v12304
-ego-attracting and sound-attracting so
+[ahaṅkāra-ākarṣiṇī](ahaṅkārākarṣiṇī) [ca](ca) [śabda-ākarṣiṇikā](śabdākarṣiṇikā) [tathā](tathā)
 
 ## mukta-m0-p493-v12305
-taste-attracting said smell-attracting considered
+[rasa-ākarṣiṇikā](rasākarṣiṇikā) [proktā](proktā) [gandha-ākarṣiṇikā](gandhākarṣiṇikā) [matā](matā)
 
 ## mukta-m0-p493-v12306
-name-attracting and indeed seed-attracting so
+[nāma-ākarṣiṇikā](nāmākarṣiṇikā) [ca-eva](caiva) [bīja-ākarṣiṇikā](bījākarṣiṇikā) [tathā](tathā)
 
 ## mukta-m0-p493-v12307
-body-attracting after self-attracting so
+[śarīra-ākarṣiṇī](śarīrākarṣiṇī) [paścāt](paścād) [ātma-ākarṣiṇikā](ātmākarṣiṇikā) [tathā](tathā)
 
 ## mukta-m0-p493-v12308
-agitating-melting-attracting-mind-maddening-great-goad
+[kṣobhaṇa-drāvaṇa-ākarṣa-manonmāda-mahā-aṃkuśāḥ](kṣobhaṇadrāvaṇākarṣamanonmādamahāṃkuśāḥ)
 
 ## mukta-m0-p493-v12309
-likewise below worship that-outside-bhupura sacrifice
+[tadvat](tadvat) [ca](ca) [adhaḥ](adhaḥ) [samabhyarcya](samabhyarcya) [tat](tat) [bahiḥ-bhūpure](bahirbhūpure) [yajet](yajet)
 
 ## mukta-m0-p493-v12310
-gate two east-anima mahima laghima-ishita
+[dvāre](dvāre) [dvayaṃ](dvayaṃ) [prāk](prāk) [animā](animā) [mahimā](mahimā) [laghimā](laghimeśitā) [īśitā](īśitā)
 
 ## mukta-m0-p493-v12311
-taste-accomplishment and tenth worship thus declared
+[rasa-siddhiḥ](rasasiddhiḥ) [ca](ca) [daśamī](daśamī) [saparyā](saparyya) [evaṃ](evaṃ) [samīritā](samīritā)
 
 ## mukta-m0-p493-v12312
-libation-etc then do mantra-accomplished born
+[tarpaṇa-ādi](tarppaṇādi) [tataḥ](tataḥ) [kuryāt](kuryyān) [mantra-siddhaḥ](mantrasiddhaḥ) [prajāyate](prajāyate)
 
 ## mukta-m0-p493-v12313
-oleander-jasmine-flowers and oblation deludes world
+[karavīra-japuṣpaiḥ](karavīrajapuṣpaiḥ) [ca](ca) [homāt](homāt) [mohayate](mohayate) [jagat](jagat)
 
 ## mukta-m0-p493-v12314
-champaka palasa bilva subjugates long
+[campakaiḥ](campakaiḥ) [pāṭalaiḥ](pāṭalair) [bilvaiḥ](bilvair) [vaśam](vaśam) [ānayate](ānayate) [cirāt](cirāt)
 
 ## mukta-m0-p493-v12315
-bilva be incomparable lakshmi sugar-cane-pieces so subjugated
+[bilvaiḥ](bilvaiḥ) [syāt](syāt) [atulā](atulā) [lakṣmīḥ](lakṣmīḥ) [ikṣu-khaṇḍaiḥ](ikṣukhaṇḍaiḥ) [tathā](tathā) [vaśāḥ](vaśāḥ)
 
 ## mukta-m0-p493-v12316
-night gold-fruit oblation enemy-army-destroying
+[niśi](niśi) [svarṇa-phalaiḥ](svarṇaphalaiḥ) [homaḥ](homaḥ) [ripu-senā-vināśa-kṛt](ripusenāvināśakṛt)
 
 ## mukta-m0-p493-v12317
-health wealth desire money sugar happiness
+[ārogyaṃ](ārogyaṃ) [sampadaṃ](sampadaṃ) [kāmaṃ](kāmaṃ) [dhanaṃ](dhanaṃ) [śarkkarayā](śarkkarayā) [sukham](sukham)
 
 ## mukta-m0-p493-v12318
-kshatriya citron and vaishya orange fruits
+[kṣatriyaḥ](kṣatriyo) [mātuluṅgaiḥ](mātuluṅgaiśca) [ca](ca) [vaiśyaḥ](vaiśyo) [nāriṅga-jaiḥ](nāriṅgajaiḥ) [phalaiḥ](phalaiḥ)
 
 ## mukta-m0-p493-v12319
-jackfruit hundred-thousand-oblation subjugated be chakravartin
+[panasānāṃ](panasānāṃ) [lakṣa-homāt](lakṣahomād) [vaśyāḥ](vaśyāḥ) [syuḥ](syuḥ) [cakravartinaḥ](cakravartinaḥ)
 
 ## mukta-m0-p493-v12320
-coconut indeed scholarship sesame all-desired-accomplishments
+[nārikeraiḥ](nārikeraistu) [tu](tu) [pāṇḍityaṃ](pāṇḍityaṃ) [tilaiḥ](tilaiḥ) [sarva-iṣṭa-siddhayaḥ](sarveṣṭasiddhayaḥ)
 
 ## mukta-m0-p493-v12321
-milk-rice wealth-grain-etc bandhuka beings subjugated
+[pāyasaiḥ](pāyasair) [dhana-dhānya-ādi](dhanadhānyādi) [bandhūkaiḥ](bandhūkaiḥ) [prāṇinaḥ](prāṇino) [vaśāḥ](vaśāḥ)
 
 ## mukta-m0-p493-v12322
-salt mustard-mixed oblation wicked-destruction
+[lavaṇaiḥ](lavaṇai) [rājikā-yuktaiḥ](rājikāyuktair) [homāt](homād) [duṣṭa-vināśanam](duṣṭavināśanam)
 
 ## mukta-m0-p493-v12323
-ghee-? desired-attainment power be sesame-rice
+[ghṛta-hema-ādi](ghṛtahe) [mādīpsitāptiḥ](mādīpsitāptiḥ) [śaktiḥ](śaktiḥ) [syāt](syāt) [tila-taṇḍulaiḥ](tilataṇḍulaiḥ)
 
 ## mukta-m0-p493-v12324
-krishna power beautiful brahmins not-eligibility
+[kṛṣṇasya](kṛṣṇasya) [śaktiṃ](śaktiṃ) [sumukhīṃ](sumukhīṃ) [dvijānāṃ](dvijānāṃ) [na](na) [adhikāritā](adhikāritā)
 
 ## mukta-m0-p493-v12325
-cini hrim thatha... twenty-two-syllable mantra
+[cini](cini) [hrīṃ](hrīṃ) [ṭha](ṭha) [ca](ca) [ṭhaḥ](ṭhaḥ) [ṭha](ṭha) [ca](ca) [dvāviṃśati-akṣaro](dvāviṃśatyakṣaro) [manuḥ](manuḥ)

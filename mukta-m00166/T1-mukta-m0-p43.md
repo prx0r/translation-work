@@ -5,7 +5,7 @@
 [yellow](pītā)
 
 ## mukta-m0-p43-v1052
-[sung](gītā) [yellow](pītā) [for-welfare](hitāyāstu) [mother](mātā) [brother](bhātā) [of-good](satāṃ) [in-heart](hṛdi)
+[sung](gītā) [yellow](pītā) [for-welfare](hitāyāstu) [mother](mātā) [brother](bhātā) [of-good-ones](satāṃ) [in-heart](hṛdi)
 
 ## mukta-m0-p43-v1053
 [mottled](karburā)
@@ -26,10 +26,10 @@
 [which](yannunno) [ocean-drying-sole-cause]('bdhiviśoṣaikahetustṛṣṇā) [conquers](jayatyasau)
 
 ## mukta-m0-p43-v1059
-[old-age-increased](jarāvṛddhā)
+[old-age-grown](jarāvṛddhā)
 
 ## mukta-m0-p43-v1060
-[wonderful](citraṃ) [she-too](sāpi) [old-age-increased](jarāvṛddhā) [may-do](kriyānmama) [old-age-old-age](jarājarām)
+[wonderful](citraṃ) [she-too](sāpi) [old-age-grown](jarāvṛddhā) [may-do](kriyānmama) [old-age-old-age](jarājarām)
 
 ## mukta-m0-p43-v1061
 [young-woman](taruṇī)
@@ -41,13 +41,13 @@
 [compassion-abode](karuṇālayā)
 
 ## mukta-m0-p43-v1064
-[you-remove](dūrīkaroṣi) [because](yannāto) [are-sung](gīyase) [compassion-abode](karuṇālayā)
+[you-remove](dūrīkaroṣi) [since](yannāto) [are-sung](gīyase) [compassion-abode](karuṇālayā)
 
 ## mukta-m0-p43-v1065
 [art](kalā)
 
 ## mukta-m0-p43-v1066
-[all](sakalā) [not](na) [in-control](vaśe) [what](kiṃ) [would-be](syuḥ) [hand-garland-equal](karamālātulāḥ) [arts](kalāḥ)
+[all](sakalā) [not](na) [in-control](vaśe) [what](kiṃ) [would-be](syuḥ) [hand-garland-comparable](karamālātulāḥ) [arts](kalāḥ)
 
 ## mukta-m0-p43-v1067
 [limit](kāṣṭhā)
@@ -65,13 +65,13 @@
 [blink](nimeṣā)
 
 ## mukta-m0-p43-v1072
-[blinks](nimeṣāstu) [supreme-lady](pareśānī) [special-all-abundance-giving](viśeṣāśeṣabhūtidā)
+[blinks](nimeṣāstu) [supreme-lady](pareśānī) [distinction-all-abundance-giving](viśeṣāśeṣabhūtidā)
 
 ## mukta-m0-p43-v1073
 [time-formed](kālarūpiṇī)
 
 ## mukta-m0-p43-v1074
-[planet-sign-zodiac-inferable](graharāśibhacakrakānumeyā) [renowned](prathitā) [she](sā) [indeed](kila) [time-formed-thus](kālarūpiṇīti)
+[planet-sign-zodiac-wheel-inferable](graharāśibhacakrakānumeyā) [renowned](prathitā) [she](sā) [indeed](kila) [time-formed-thus](kālarūpiṇīti)
 
 ## mukta-m0-p43-v1075
 [good-ear-tongue](sukarṇarasanā)
