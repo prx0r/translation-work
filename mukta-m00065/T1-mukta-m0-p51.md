@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p51-v1251
-[therefore](tasmāt) [linga-following](liṅgānugam) [pedestal](pīṭham) [to-be-made](kartavyam) [maker-life-in](kartṛjīvane)
+[therefore](tasmāt) [linga-following](liṅgānugam) [pedestal](pīṭham) [to-be-made](kartavyam) [in-maker-life](kartṛjīvane)
 
 ## mukta-m0-p51-v1252
-[if](yadi) [there-is](syāt) [afflicted](pīḍyate) [by-diseases](rogaiḥ) [maker](kartā) [kingdom](rāṣṭram) [guru](gurūḥ) [likewise](tathā)
+[if](yadi) [be](syāt) [afflicted](pīḍyate) [by-diseases](rogaiḥ) [maker](kartā) [kingdom](rāṣṭram) [guru](gurūḥ) [then](tathā)
 
 ## mukta-m0-p51-v1253
-[by-height](ucchrayeṇa) [of-three-lingas](triliṅgānām) [not-less](na nyūnaḥ) [not-more](nādhikaḥ) [of-hari](hareḥ)
+[by-height](ucchrayeṇa) [of-three-lingas](triliṅgānām) [not](na) [less](nyūnaḥ) [not](na) [greater](adhikaḥ) [of-Hari](hareḥ)
 
 ## mukta-m0-p51-v1254
-[by-sages-plus-half](munisārdhādhikaiḥ) [shambhu](śambhum) [should-make](kuryāt) [wealthy](āḍhyam) [hari-of-wealth](vasorharim)
+[by-sages-half-more](munisārdhādhikaiḥ) [Shambhu](śambhum) [make](kuryāt) [wealthy](āḍhyam) [of-Vasu](vasor) [Hari](harim)
 
 ## mukta-m0-p51-v1255
-[one-fourth-less-than-eighth](pādonāṣṭāṃśataḥ) [brahma](brahmā) [to-be-made](kāryam) [and-not-wealthy](cānāḍhyakam) [sometimes](kvacit)
+[quarter-less-eighth](pādonāṣṭāṃśataḥ) [Brahma](brahmā) [to-be-made](kāryam) [and](ca) [not-wealthy](anāḍhyakam) [sometimes](kvacit)
 
 ## mukta-m0-p51-v1256
-[one](ekam) [in-worshipped-linga](surārcite liṅge) [brahma](brahmā) [in-seventh-part](saptāṃśake) [certainly](dhruvam)
+[one](ekam) [in-god-worshipped](surārcite) [linga](liṅge) [Brahma](brahmā) [in-seventh-part](saptāṃśake) [certainly](dhruvam)
 
 ## mukta-m0-p51-v1257
-[of-white-etc-colors](sitādivarṇāvarṇānām) [pedestal-etc](pīṭhādyāḥ) [not-discolored-born](na vivarṇajāḥ)
+[of-white-etc-colors](sitādivarṇānām) [pedestal-etc](pīṭhādyāḥ) [not](na) [of-bad-color](vivarṇajāḥ)
 
 ## mukta-m0-p51-v1258
-[jewel-born](ratnajāḥ) [or-by-metals](vātha lohairvā) [especially-for-glory](viśeṣātkīrtaye) [now](adhunā)
+[of-gems](ratnajāḥ) [or](vā) [of-metals](lohaiḥ) [vā](vā) [especially](viśeṣāt) [for-glory](kīrtaye) [now](adhunā)
 
 ## mukta-m0-p51-v1259
-[of-vaidurya-etc-supreme](vaiḍūryādyuttame) [always](nityam) [gold-born](hemajā) [pedestal](piṇḍikā) [best](varā)
+[of-vaidurya-etc](vaiḍūryādyuttame) [always](nityam) [of-gold](hemajā) [pedestal-base](piṇḍikā) [best](varā)
 
 ## mukta-m0-p51-v1260
-[three-parts-more](bhāgadrayamathikam) [or](vā) [should-place](vinyaset) [in-pedestal-pit](piṇḍikāvaṭau)
+[three-parts-more](bhāgadrayamathikam) [or](vā) [place](vinyaset) [in-pedestal-pit](piṇḍikāvaṭau)
 
 ## mukta-m0-p51-v1261
 [girdle-etc-division](mekhalādivibhāgaḥ) [of-it](asyāḥ) [as-before](pūrvavat) [declared](samudāhṛtaḥ)
 
 ## mukta-m0-p51-v1262
-[not-less](na nyūnam) [not-more](nādhikam) [than-measure](mānāt) [beautiful](śobhanam) [pit](śvabhram) [will-be](iṣyate)
+[not](na) [less](nyūnam) [not](na) [greater](adhikam) [than-measure](mānāt) [beautiful](śobhanam) [pit](śvabhram) [is-said](iṣyate)
 
 ## mukta-m0-p51-v1263
-[from-pedestal-fault](pīṭhadoṣāt) [decay](kṣayaḥ) [of-woman](nāryāḥ) [maker](kāraḥ) [to-do](kartum) [always](ca sarvadā)
+[from-pedestal-fault](pīṭhadoṣāt) [decay](kṣayaḥ) [of-woman](nāryāḥ) [maker](kāraḥ) [to-do](kartum) [always](sarvadā)
 
 ## mukta-m0-p51-v1264
-[for-both-enjoyment-liberation](bhuktimuktyubhayaprāptyai) [other](anyaḥ) [for-desired](kāmyasya) [cause](hetave)
+[for-enjoyment-liberation-both](bhuktimuktyubhayaprāptyai) [other](anyaḥ) [for-desired](kāmyasya) [cause](hetave)
 
 ## mukta-m0-p51-v1265
-[half-moon-count-named](padmārdhendugaṇākhyā) [ca](ca) [desire-giving](kāmadā) [auspicious-on-head](śubhamastake)
+[half-moon-number-named](padmārdhendugaṇākhyā) [ca](ca) [desire-giving](kāmadā) [auspicious](śubham) [on-head](mastake)
 
 ## mukta-m0-p51-v1266
-[two-girdles](dvimekhalā) [ca](ca) [veda-cornered](vedāsrā) [auspicious](bhadrā) [yoga-prosperity-giving](yogarddhidāyinī)
+[two-girdles](dvimekhalā) [ca](ca) [Veda-four](vedāsrā) [auspicious](bhadrā) [yoga-prosperity-giving](yogarddhidāyinī)
 
 ## mukta-m0-p51-v1267
-[six-cornered](ṣaḍasrā) [life-giving](āyuḥ pradā) [vajra-girdled](vajrī mekhalātritayānvitā)
+[six-angled](ṣaḍasrā) [life-giving](āyuḥpradā) [vajra](vajrī) [with-three-girdles](mekhalātritayānvitā)
 
 ## mukta-m0-p51-v1268
-[mandala](maṇḍalā) [full-moon-like](pūrṇacandrābhā) [wealth-giving](tvarthadā) [five-girdled](pañcamekhalā)
+[mandala](maṇḍalā) [full-moon-like](pūrṇacandrābhā) [wealth-giving](arthadā) [five-girdles](pañcamekhalā)
 
 ## mukta-m0-p51-v1269
 [moon-water-form-supreme](candrāmburuparāmai) [with-fire-part-days](kāgnidyaṃśaistithi) [divided](bhājitaiḥ)
 
 ## mukta-m0-p51-v1270
-[round](vṛttā) [lotus-cup-shaped](padmapuṭākārā) [pedestal-center](karṇikā) [fear-kissed](bhayacumbitā)
+[round](vṛttā) [lotus-cup-shaped](padmapuṭākārā) [pedestal-base](karṇikā) [fear-kissed](bhayacumbitā)
 
 ## mukta-m0-p51-v1271
-[eight-cornered](aṣṭakoṇā) [gana-named](gaṇākhyātā) [liberation-giving](muktidā) [two-girdled](syāddvimekhalā)
+[eight-cornered](aṣṭakoṇā) [gana-named](gaṇākhyātā) [liberation-giving](muktidā) [two-girdles](dvimekhalā)
 
 ## mukta-m0-p51-v1272
 [previously-said-girdle-pit-stalk-etc](pūrvoktamekhalāgartanālakādisamanvitā)
 
 ## mukta-m0-p51-v1273
-[extent-height-stalk-etc](vistarokchrayanālādi) [all](sarbaṃ) [previously-declared](pūrvoṃditaṃ) [in-order](kramāt)
+[width-height-stalk-etc](vistarokchrayanālādi) [all](sarvam) [previously](pūrvoktam) [in-order](kramāt)
 
 ## mukta-m0-p51-v1274
-[wrapping](saṃveṣṭya) [should-make-pedestal](vartayetpiṇḍīm) [maker-desire-accomplishing](kartuḥ kāmaprasādhikam)
+[wrapping](saṃveṣṭya) [make-pedestal-base](vartayetpiṇḍīm) [of-maker](kartuḥ) [desire-fulfilling](kāmaprasādhikam)
 
 ## mukta-m0-p51-v1275
-[wind-goddess](mārūtīm) [wealth-giving](dhānadīm) [fierce](raudrīm) [vaishnavi](vaiṣṇāvīm) [brahma-born](brahmajām) [always](sadā)
+[Maruti](mārūtīm) [Dhani](dhānadīm) [Raudri](raudrīm) [Vaishnavi](vaiṣṇavīm) [Brahma-born](brahmajām) [always](sadā)

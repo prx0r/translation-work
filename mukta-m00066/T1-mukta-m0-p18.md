@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p18-v426
-[power-of-love-eight](anaṃgaśaktayoṣṭau) [indeed](tu) [to-be-worshipped-by-the-wise](pūjanīyāmanīṣibhiḥ)
+limbless-powers eight indeed worship-worthy by-wise
 
 ## mukta-m0-p18-v427
-[love-god-love-god](anaṃgamadanānaṃga) [with-love-sick-one](madanāturayā) [together](saha)
+limbless-love-limbless love-afflicted with
 
 ## mukta-m0-p18-v428
-[love-garlanded-one](anaṃgamālinī) [and](cāṣṭau) [to-be-worshipped](pūjanīyā) [according-to-rite](vidhānataḥ)
+limbless-garlanded and-eight worship-worthy by-rite
 
 ## mukta-m0-p18-v429
-[bliss-wheel-bliss](ānaṃdacakramānaṃda) [roar-increasing](kolāhalavivarddhanam)
+bliss-wheel-bliss uproar-increasing
 
 ## mukta-m0-p18-v430
-[lightning-radiance](taṭitprabhā) [shining-cage](samullāsapiṃjaraiḥ) [with-love-rays](kāmaraśmibhiḥ)
+lightning-radiance joyous-cages with-desire-rays
 
 ## mukta-m0-p18-v431
-[love-power](anaṃgaśakti) [agitation](saṃkṣobhāṃ) [from-channels-flowing](nāḍībhyogalitaṃ) [new](navam)
+limbless-power agitation channels-from-flowing new
 
 ## mukta-m0-p18-v432
-[erotic-stream-full](śṛṃgāravāhinīpūra) [full-passion](pūrṇarāgāṃ) [reddish](kurāruṇam)
+erotic-flow-full full-passion red-gold
 
 ## mukta-m0-p18-v433
-[love-fluid-abundance](manmathadrava) [saṃdoha](saṃdoha) [joined-with-meaning-differentiation](juṣṭamarthaprabhedanaiḥ)
+love-fluid abundance enjoyed-meaning-distinctions
 
 ## mukta-m0-p18-v434
-[who-is-this](keyaṃ) [moon-digit-named](caṃdrakalānāma) [where](kutra) [stands](tiṣṭhati) [shankara](śaṃkara)
+who-this moon-digit-named where resides shankara
 
 ## mukta-m0-p18-v435
-[listen-love-digit-named](śṛṇukāmakalānāma) [channel-enjoyment-water-carrying](nāḍībhogāṃbuvāhinī)
+listen-desire-digit-named channel-enjoyment-water-flowing
 
 ## mukta-m0-p18-v436
-[channel-wheel](nāḍīcakraṃ) [all](samastaṃ) [ca](ca) [by-her](tayā) [pervaded](vyāptaṃ) [best-faced](varānane)
+channel-wheel all and by-her pervaded beautiful-faced
 
 ## mukta-m0-p18-v437
-[some-bliss-carrying](kāścidānaṃdavāhinya) [one-thus-impurity-carrying](ekaivamalavāhinī)
+some-bliss-flowing one-thus-impurity-flowing
 
 ## mukta-m0-p18-v438
-[eight-enjoyment-water-carrying](aṣṭaubhogāṃbuvāhinyaḥ) [in-them](tāsu) [moon-digit-supreme](caṃdrakalā) [para](parā)
+eight-enjoyment-water-flowing in-them moon-digit supreme
 
 ## mukta-m0-p18-v439
-[moon-streak](caṃdrarekhā) [moon-possessing](caṃdravatī) [thus](tathā) [moon-great-rising](caṃdramahodayā)
+moon-streak moon-possessing and moon-great-rise
 
 ## mukta-m0-p18-v440
-[these-enjoyment-water-carrying](etābhogāṃbuvāhinya) [with-own-parts](svāṃśaiścaṃdrakalāśritāḥ)
+these-enjoyment-water-flowing own-parts-moon-digit-supported
 
 ## mukta-m0-p18-v441
-[principal-being](pradhānabhūtā) [shining](vilasadvidyuddāma) [equal-radiance](samaprabhā)
+principal-being shining-lightning-garland equal-radiance
 
 ## mukta-m0-p18-v442
-[all-channel-root](sarvanāḍīmūlabhūtaṃ) [navel-wheel](nābhicakraṃ) [resorted](samāśritā)
+all-channels-root-being navel-wheel supported
 
 ## mukta-m0-p18-v443
-[that-mouth-opening](tanmukhot) [ghāṭanaṃ](ghāṭanaṃ) [in-world](loke) [rare](durlabhaṃ) [supreme-goddess](parameśvari)
+that-mouth-opening in-world rare supreme-lady
 
 ## mukta-m0-p18-v444
-[of-two-or-three](dvitrāṇāmeva) [would-be-born](jāyeta) [among-thousands](sahasreṣvathakauliṣu)
+two-three-only born thousands-among-then-kaulis
 
 ## mukta-m0-p18-v445
-[whose](yasya) [linga-lord-union](liṃgesvarāseka) [once-in-birth](sakṛdvāpīhajanmani)
+whose linga-lord-union once-indeed-birth
 
 ## mukta-m0-p18-v446
-[of-ineffable](anirvācyasya) [liberation](nirvāṇa) [path-infinite](padavīnadaviyasī)
+inexpressible liberation path-incomparable
 
 ## mukta-m0-p18-v447
-[of-convention](samayasya) [full-knowledge](parijñānādupacārasya) [by-imagining](kalpanāt)
+convention's thorough-knowledge from-ritual's construction
 
 ## mukta-m0-p18-v448
-[sometimes](kadācit) [somewhere](kvacidunmeṣaṃ) [mouth-opening-mark](mukhodghāṭanalakṣaṇam)
+sometimes somewhere opening mouth-opening-mark
 
 ## mukta-m0-p18-v449
-[for-that-purpose](tadarthānyevaśāstrāṇi) [for-that-purpose](tadarthāśca) [activities](pravṛttayaḥ)
+that-purpose-only-scriptures that-purpose-and activities
 
 ## mukta-m0-p18-v450
-[therefore](tasmāccaṃdrakalānāḍyāṃ) [enjoyment-nectar-great-ocean](bhogāmṛtamahodadhim)
+therefore-moon-digit-channel enjoyment-nectar-great-ocean
