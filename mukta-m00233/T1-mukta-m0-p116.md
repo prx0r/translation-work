@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p116-v2876
-[bindu](bindu) [vantaḥ](vantaḥ) [tat](tat) [pūrvaḥ](pūrvaḥ) [antya](antya) [svara](svara) [anvitaḥ](anvitaḥ)
+[bindu](bindu) [vanta](vanta) [tat](tat) [pūrva](pūrva) [anta](anta) [svara](svara) [nvita](nvita)
 
 ## mukta-m0-p116-v2877
-[marut](marut) [sakha](sakha) [priya](priya) [antaḥ](antaḥ) [ayaṃ](ayaṃ) [jagat](jagat) [arṇaḥ](arṇaḥ) [hi](hi) [vāk](vāk) [manuḥ](manuḥ)
+[marut](marut) [sakha](sakha) [priya](priya) [anta](anta) [ayaṃ](ayaṃ) [jagat](jagat) [arṇa](arṇa) [hi](hi) [vāc](vāc) [manu](manu)
 
 ## mukta-m0-p116-v2878
-[sa](sa) [agniḥ](agniḥ) [nādaḥ](nādaḥ) [tu](tu) [tārā](tārā) [ādiḥ](ādiḥ) [dīrghaiḥ](dīrghaiḥ) [yuktaḥ](yuktaḥ) [kramāt](kramāt) [svaraiḥ](svaraiḥ)
+[sa](sa) [agni](agni) [nāda](nāda) [tu](tu) [tārā](tārā) [ādi](ādi) [dīrgha](dīrgha) [yukta](yukta) [krama](krama) [svara](svara)
 
 ## mukta-m0-p116-v2879
-[purāṇa](purāṇa) [pada](pada) [saṃyuktaiḥ](saṃyuktaiḥ) [ṣaḍbhiḥ](ṣaḍbhiḥ) [mantra](mantra) [padaiḥ](padaiḥ) [kramāt](kramāt)
+[purāṇa](purāṇa) [pada](pada) [saṃyukta](saṃyukta) [ṣaṭ](ṣaṭ) [mantra](mantra) [pada](pada) [krama](krama)
 
 ## mukta-m0-p116-v2880
-[caturthy](caturthy) [antā](antā) [vidmahe](vidmahe) [pada](pada) [saṃyutā](saṃyutā)
+[caturthī](caturthī) [anta](anta) [vidmahe](vidmahe) [pada](pada) [saṃyuta](saṃyuta)
 
 ## mukta-m0-p116-v2881
-[pra](pra) [iti](iti) [codayāt](codayāt) [iti](iti) [yojitā](yojitā)
+[pra](pra) [iti](iti) [codayāt](codayāt) [iti](iti) [yojita](yojita)
 
 ## mukta-m0-p116-v2882
-[proktaḥ](proktaḥ) [strī](strī) [māna](māna) [taḥ](taḥ) [kṛtā](kṛtā)
+[prokta](prokta) [strī](strī) [māna](māna) [ataḥ](ataḥ) [kṛta](kṛta)
 
 ## mukta-m0-p116-v2883
-[lekhanīṃ](lekhanīṃ) [vāme](vāme) [kalaśaṃ](kalaśaṃ) [ca](ca) [api](api) [bibhratī](bibhratī)
+[lekhanī](lekhanī) [vāma](vāma) [kalaśa](kalaśa) [ca](ca) [api](api) [bibhratī](bibhratī)
 
 ## mukta-m0-p116-v2884
-[śaṅkha](śaṅkha) [kunda](kunda) [indu](indu) [dhavalā](dhavalā) [sa](sa) [kaparda](kaparda) [indu](indu) [śekharā](śekharā)
+[śaṅkha](śaṅkha) [kunda](kunda) [indu](indu) [dhavala](dhavala) [sakaparda](sakaparda) [indu](indu) [śekhara](śekhara)
 
 ## mukta-m0-p116-v2885
-[hāri](hāri) [hāra](hāra) [ullasat](ullasat) [tuṅga](tuṅga) [pīvara](pīvara) [stana](stana) [maṇḍalā](maṇḍalā)
+[hāri](hāri) [hāra](hāra) [ullasat](ullasat) [tuṅga](tuṅga) [pīvara](pīvara) [stana](stana) [maṇḍala](maṇḍala)
 
 ## mukta-m0-p116-v2886
-[su](su) [upaviṣṭā](upaviṣṭā) [nava](nava) [yauvana](yauvana) [maṇḍitā](maṇḍitā)
+[su](su) [paviṣṭā](paviṣṭā) [nava](nava) [yauvana](yauvana) [maṇḍitā](maṇḍitā)
 
 ## mukta-m0-p116-v2887
-[dakṣiṇa](dakṣiṇa) [dvāre](dvāre) [sthāpyā](sthāpyā) [syāt](syāt) [dakṣiṇā](dakṣiṇā) [mukhī](mukhī)
+[dakṣiṇa](dakṣiṇa) [dvāra](dvāra) [sthāpyā](sthāpyā) [syāt](syāt) [dakṣiṇāmukhī](dakṣiṇāmukhī)
 
 ## mukta-m0-p116-v2888
-[pūrṇabhadraḥ](pūrṇabhadraḥ) [ca](ca) [api](api) [ānandaḥ](ānandaḥ) [nandanaḥ](nandanaḥ) [tathā](tathā)
+[pūrṇabhadra](pūrṇabhadra) [ca](ca) [api](api) [ānanda](ānanda) [nandana](nandana) [tathā](tathā)
 
 ## mukta-m0-p116-v2889
-[prācyām](prācyām) [aindraḥ](aindraḥ) [ca](ca) [vajrāṅkaḥ](vajrāṅkaḥ) [yāmyaḥ](yāmyaḥ) [daṇḍāṅkaḥ](daṇḍāṅkaḥ) [eva](eva) [ca](ca)
+[prācya](prācya) [aindra](aindra) [ca](ca) [vajrāṅka](vajrāṅka) [yāmya](yāmya) [daṇḍāṅka](daṇḍāṅka) [eva](eva) [ca](ca)
 
 ## mukta-m0-p116-v2890
-[prajñā](prajñā) [prabhā](prabhā) [vidyā](vidyā) [dhīḥ](dhīḥ) [dhṛtiḥ](dhṛtiḥ) [smṛtiḥ](smṛtiḥ) [buddhayaḥ](buddhayaḥ)
+[prajñā](prajñā) [prabhā](prabhā) [vidyā](vidyā) [dhī](dhī) [dhṛti](dhṛti) [smṛti](smṛti) [buddhi](buddhi)
 
 ## mukta-m0-p116-v2891
-[madhya](madhya) [stambheṣu](stambheṣu) [catvāraḥ](catvāraḥ) [api](api) [āgneya](āgneya) [ādiṣu](ādiṣu) [ṛg](ṛg) [ādayaḥ](ādayaḥ)
+[madhya](madhya) [stambha](stambha) [catvāra](catvāra) [api](api) [āgneya](āgneya) [ādi](ādi) [ṛg](ṛg) [ādi](ādi)
 
 ## mukta-m0-p116-v2892
-[sūtra](sūtra) [pāṭhaḥ](pāṭhaḥ) [mīmāṃsā](mīmāṃsā) [nyāya](nyāya) [vistaraḥ](vistaraḥ)
+[sūtra](sūtra) [pāṭha](pāṭha) [mīmāṃsā](mīmāṃsā) [nyāya](nyāya) [vistara](vistara)
 
 ## mukta-m0-p116-v2893
-[vidyā](vidyā) [ātmakaṃ](ātmakaṃ) [vitānaṃ](vitānaṃ) [syāt](syāt) [sthalaṃ](sthalaṃ) [tu](tu) [pṛthivī](pṛthivī) [svayam](svayam)
+[vidyā](vidyā) [ātmaka](ātmaka) [vitāna](vitāna) [syāt](syāt) [sthala](sthala) [tu](tu) [pṛthivī](pṛthivī) [svayam](svayam)
 
 ## mukta-m0-p116-v2894
-[haṃsa](haṃsa) [gā](gā) [vāṇī](vāṇī) [tat](tat) [astraṃ](astraṃ) [sārasa](sārasa) [upari](upari)
+[haṃsa](haṃsa) [gā](gā) [vāṇī](vāṇī) [tad](tad) [astra](astra) [sārasa](sārasa) [upari](upari)
 
 ## mukta-m0-p116-v2895
-[bhūṣitaṃ](bhūṣitaṃ) [vāme](vāme) [vara](vara) [pustaka](pustaka) [pāśa](pāśa) [dhṛk](dhṛk)
+[bhūṣita](bhūṣita) [vāma](vāma) [vara](vara) [pustaka](pustaka) [pāśa](pāśa) [dhṛk](dhṛk)
 
 ## mukta-m0-p116-v2896
-[dadhat](dadhat) [prāgvat](prāgvat) [navasu](navasu) [kuṇḍeṣu](kuṇḍeṣu) [vahniṃ](vahniṃ) [madhya](madhya) [ādi](ādi) [bhājitam](bhājitam)
+[dadhat](dadhat) [prāgvat](prāgvat) [navasu](navasu) [kuṇḍa](kuṇḍa) [vahni](vahni) [madhya](madhya) [ādi](ādi) [bhājita](bhājita)
 
 ## mukta-m0-p116-v2897
-[yoga](yoga) [ādi](ādi) [mūrtibhiḥ](mūrtibhiḥ) [dikṣu](dikṣu) [juhuyuḥ](juhuyuḥ) [mūrti](mūrti) [dhārakāḥ](dhārakāḥ)
+[yoga](yoga) [ādi](ādi) [mūrti](mūrti) [dikṣu](dikṣu) [juhuyuḥ](juhuyuḥ) [mūrti](mūrti) [dhāraka](dhāraka)
 
 ## mukta-m0-p116-v2898
-[samid](samid) [ājya](ājya) [carūn](carūn) [lājān](lājān) [vrīhi](vrīhi) [siddhārtha](siddhārtha) [sarṣapān](sarṣapān)
+[samid](samid) [ājya](ājya) [caru](caru) [lāja](lāja) [vrīhi](vrīhi) [siddhārtha](siddhārtha) [sarṣapa](sarṣapa)
 
 ## mukta-m0-p116-v2899
-[prāgvat](prāgvat) [ākāra](ākāra) [śuddhiṃ](śuddhiṃ) [ca](ca) [kuryāt](kuryāt) [ca](ca) [akṣi](akṣi) [vimokṣaṇam](vimokṣaṇam)
+[prāgvat](prāgvat) [ākāra](ākāra) [śuddhi](śuddhi) [ca](ca) [kuryāt](kuryāt) [ca](ca) [akṣi](akṣi) [vimokṣaṇa](vimokṣaṇa)
 
 ## mukta-m0-p116-v2900
-[sarasvatyāḥ](sarasvatyāḥ) [vidyā](vidyā) [kumbha](kumbha) [aṣṭake](aṣṭake) [yajet](yajet)
+[sarasvatī](sarasvatī) [vidyā](vidyā) [kumbha](kumbha) [aṣṭaka](aṣṭaka) [yajet](yajet)
