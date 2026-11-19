@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p54-v1326
-atho=then sa=he eva=indeed mṛtpiṇḍaṃ=clay-lump kulāla-kara-varttanaiḥ=potter-hand-turnings
+then(atho) he(sa) indeed(eva) clay-lump(mṛtpiṇḍaṃ) potter's-wheel(kulālakaravarttanaiḥ)
 
 ## mukta-m0-p54-v1327
-gabhīrite=deep madhyadeśe=middle-region tatra=there eva=indeed kuharīkṛtaḥ=made-hollow
+deep(gabhīrite) middle-region(madhyadeśe) there(tatra) indeed(eva) hollowed(kuharīkṛtaḥ)
 
 ## mukta-m0-p54-v1328
-kuṃbhaḥ=pot iti=thus asya=its śabdasya=word's vācyatām=denotation avagāhate=enters
+pot(kuṃbha) thus(ityasya) word(śabdasya) denotation(vācyatām) enters(avagāhate)
 
 ## mukta-m0-p54-v1329
-bhūmau=on-ground viśīrṇa=broken sarva-aṃgaḥ=all-limbs kāpāla-ogha=skull-mass tvam=you īhate=strive
+ground(bhūmau) broken(viśīrṇa) all-limbs(sarvāṃgaḥ) potsherds(kāpālaugha) you(tvam) seek(ihate)
 
 ## mukta-m0-p54-v1330
-kuṭṭitaḥ=crushed san=being prabhajate=breaks dhūli-śabdasya=dust-word's vācyatām=denotation
+pounded(kuṭṭitaḥ) being(san) breaks(prabhajate) dust-word(dhūliśabdasya) denotation(vācyatām)
 
 ## mukta-m0-p54-v1331
-śīrṇa-śīrṇaḥ=broken-broken punar=again vegāt=by-force tra=there sareṇu-tvam=dust-ness icchati=desires
+broken(broken) again(punar) swiftly(vegāt) limb(sareṇutvamicchati)
 
 ## mukta-m0-p54-v1332
-atyaṃta=extremely sūkṣma-durlakṣā=subtle-hard-to-perceive ghūrṇate=revolves vāyu-maṇḍale=air-circle
+extremely(atyaṃta) subtle(sūkṣma) hard-to-see(durlakṣā) whirls(ghūrṇate) wind-orb(vāyumaṇḍale)
 
 ## mukta-m0-p54-v1333
-anyonya-śabda-nirvācyāḥ=mutually-word-unspeakable te=those āropāḥ=superimpositions prakīrttitāḥ=declared
+mutually(anyonya) word-indicated(śabdanirvācyāḥ) those(ta) superimpositions(āropāḥ) declared(prakīrttitāḥ)
 
 ## mukta-m0-p54-v1334
-tatra=there āropita-rūpa-tvam=superimposed-form-ness ghaṭa-ādeḥ=pot-etc kārayan=causing budhaḥ=wise
+there(tatra) superimposed-form(āropitarūpatvaṃ) pot-etc(ghaṭādeḥ) causing(kārayan) wise(budhaḥ)
 
 ## mukta-m0-p54-v1335
-guṇa-antara-samāsaṅga=quality-other-association mātrāt=merely eva=indeed katham=how mṛdi=in-clay
+quality-difference(guṇāntarasamāsaṃga) mere(mātrādeva) how(kathaṃ) in-clay(mṛdi)
 
 ## mukta-m0-p54-v1336
-vṛthā=vain tasya=its samāropam=superimposition vṛthā=vain tasya=its punar=again layaḥ=dissolution
+vain(vṛthā) its(tasya) superimposition(samāropaṃ) vain(vṛthā) its(tasya) dissolution(punarlayaḥ)
 
 ## mukta-m0-p54-v1337
-īdṛśāḥ=such eva=indeed kalaha=in-dispute hetavaḥ=causes pratipāditāḥ=established
+such(īdṛśā) indeed(eva) quarrels(kalahe) causes(hetavaḥ) shown(pratipāditāḥ)
 
 ## mukta-m0-p54-v1338
-varṇa-ātmakāḥ=sound-nature tu=but ye=which śabdāḥ=words tatra=there nityatvam=eternity ekakaḥ=one
+sound-formed(varṇātmakāḥ) indeed(tu) those(ye) words(śabdāḥ) there(tatra) eternality(nityatvam) one(ekakaḥ)
 
 ## mukta-m0-p54-v1339
-ataḥ=therefore pravṛddha-vairāṇām=grown-enmity vādinām=of-disputants abhivalgatām=leaping
+therefore(ataḥ) grown(pravṛddha) enmity(vairāṇāṃ) of-disputants(vādinām) boasting(abhivalgatām)
 
 ## mukta-m0-p54-v1340
-prabhūtataradarpāndhāḥ=abundant-pride-blind pāṇḍitya=learning graha-durdhiyām=planet-bad-mind
+abundant(prabhūtataradarpāṃdhāḥ) scholarship(pāṇḍitya) planet-grasping(grahadurdhiyām)
 
 ## mukta-m0-p54-v1341
-tat=that gaveṣaṇa-mārgeṇa=search-path tat=that samāna=equal samādhinā=concentration
+that-search(tadgaveṣaṇamārgeṇa) that-same(tat) equal(samāna) concentration(samādhinā)
 
 ## mukta-m0-p54-v1342
-viruddha-bhāṣaṇe=contradictory-speech jāti=genus nigraha=restraint sthāna-kalpanaiḥ=place-inventions
+contradictory(viruddhabhāṣaṇe) genus(jāti) refutation(nigraha) place(sthānakalpanaiḥ)
 
 ## mukta-m0-p54-v1343
-paścāt=after kope=anger sati=being galocchoṣa-kāraṇa=throat-drying-cause ghoṣaṇaiḥ=shouts
+afterwards(paścāt) anger(kope) sati(sati) throat-drying(galoccoṣakāraṇa) shouting(ghoṣaṇaiḥ)
 
 ## mukta-m0-p54-v1344
-punar=again tena=that prakāreṇa=way keśākeśi=hair-pulling kṛte=done raṇe=battle
+again(punar) by-that(tena) manner(prakāreṇa) hair-pulling(keśākeśi) made(kṛte) battle(raṇe)
 
 ## mukta-m0-p54-v1345
-pādāt=from-foot saṃvṛta-vegānām=restrained-speed vādinām=disputants dveṣa-veśmasu=hatred-houses
+footed(pādāt) restrained-velocity(saṃvṛtavegānāṃ) disputants(vādināṃ) hatred-house(dveṣaveśmasu)
 
 ## mukta-m0-p54-v1346
-siddhāntitaiḥ=concluded ca=and sva-manaḥ=own-mind śuddhaiḥ=pure anyaiḥ=others ca=and ninditaiḥ=blamed
+established(siddhāntitaiśca) and(and) pure-mind(svamanaḥśuddhairanyaiśca) despised(ninditaiḥ)
 
 ## mukta-m0-p54-v1347
-vyāmūḍhān=confused kurvatām=doing eṣa=this teṣām=their panthānir=paths aṅkuśaḥ=goad
+confused(vyāmūḍhān) making(kurvatāmeṣa) their(teṣāṃ) path(panthāniraṅkuśaḥ)
 
 ## mukta-m0-p54-v1348
-pramāṇa-andhāḥ=proof-blind ṣoḍaśa=sixteen āye=arrival padārthaiḥ=categories taiḥ=those mahākālīḥ=great-Kali
+proof-blind(pramāṇāṃdhāḥ) sixteen(ṣoḍaśāye) categories(padārthaistairmahākālīḥ)
 
 ## mukta-m0-p54-v1349
-kalahaḥ=dispute kevalam=only tatra=there duḥsamāpa-śara-śataiḥ=hard-to-end-arrow-hundreds
+quarrel(kalahaḥ) only(kevalaṃ) there(tatra) hard-to-end(duḥsamāpaśaracchataiḥ)
 
 ## mukta-m0-p54-v1350
-saṃprāpti-rūpaḥ=arrival-form bhavitā=will-be tadā=then vāmena=by-left nirṇayaḥ=decision
+approach(saṃprāptirūpo) will-be(bhavitā) then(tadā) left(vāmena) decision(nirṇayaḥ)
