@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p04-v76
-[kutrameruta](kutrameruta) [doṣāṃte](doṣāṃte) [svargasthān](svargasthān) [pratikīrtyate](pratikīrtyate)
+[kutrameruta](kutrameruta) [dosante](doṣāṃte) [svargasthan](svargasthān) [pratikirtyate](pratikīrtyate)
 
 ## mukta-m0-p04-v77
-[vasaṃti](vasaṃti) [yatra](yatra) [niyataṃ](niyataṃ) [sudhā+pāna](sudhāpāna) [padākulāḥ](padākulāḥ)
+[vasanti](vasaṃti) [yatra](yatra) [niyatam](niyataṃ) [sudhapana](sudhāpāna) [padakulah](padākulāḥ)
 
 ## mukta-m0-p04-v78
-[yajamānaḥ+tatra](yajamānastatra) [gatvā](gatvā) [tatratyaiḥ+devatā+gaṇaiḥ](tatratyairdevatāgaṇaiḥ)
+[yajamanah](yajamānastatra) [gatva](gatvā) [tatratyaih](tatratyairdevatāgaṇaiḥ)
 
 ## mukta-m0-p04-v79
-[ratna+staṃbha](ratna) [samākīrṇaṃ](staṃbha) [muktā+jāla+samākulam](muktājālasamākulam)
+[ratna](ratna) [stambha](staṃbha) [samakirnam](samākīrṇaṃ) [muktajalasamakulam](muktājālasamākulam)
 
 ## mukta-m0-p04-v80
-[kālāgaru](kālāgaru) [samudbhūta](samudbhūta) [navadhū](navadhū) [pālikomalam](pālikomalam)
+[kalagaru](kālāgaru) [samudbhuta](samudbhūta) [navadhu](navadhū) [palikomalam](pālikomalam)
 
 ## mukta-m0-p04-v81
-[madhuraiḥ+madhubhiḥ](madhurairmadhubhiḥ) [pūrṇaiḥ](pūrṇaiḥ) [ratna+kuṃbhaiḥ+ca](ratnakuṃbhaiśca) [śobhitam](śobhitam)
+[madhurairmadhubhih](madhurairmadhubhiḥ) [purnaih](pūrṇaiḥ) [ratnakumbhaih](ratnakuṃbhaiśca) [shobhitam](śobhitam)
 
 ## mukta-m0-p04-v82
-[vidagdhaiḥ+ceṭikā+vargaiḥ](vidagdhaiśceṭikāvargaistataścetaśca) [saṃkulam](saṃkulam)
+[vidagdhaih](vidagdhaiśceṭikāvargaistataścetaśca) [samkulam](saṃkulam)
 
 ## mukta-m0-p04-v83
-[svarge](svarge) [divyagrahaṃ](divyagrahaṃ) [gatvā](gatvā) [paśyati+ekāṃ](paśyatyekāṃ) [sulocanām](sulocanām)
+[svarge](svarge) [divyagraham](divyagrahaṃ) [gatva](gatvā) [pashyati](paśyatyekāṃ) [sulocanam](sulocanām)
 
 ## mukta-m0-p04-v84
-[sā](sā) [kūtasyūta](kūtasyūta) [saṃcāraiḥ](saṃcārairapāṃgairati) [śobhanām](śobhanām)
+[sa](sā) [kutasyuta](kūtasyūta) [samcaraih](saṃcārairapāṃgairati) [shobhanam](śobhanām)
 
 ## mukta-m0-p04-v85
-[kramāt+aṃgāṃga](kramādaṃgāṃga) [saṃsarga](saṃsarga) [sukhaṃ](sukhaṃ) [sadyogyam+aśnute](sadyogyamaśnute)
+[kramat](kramādaṃgāṃga) [samsarga](saṃsarga) [sukham](sukhaṃ) [sadyogyam](sadyogyamaśnute)
 
 ## mukta-m0-p04-v86
-[anyādṛśam+iva+ābhāti](anyādṛśamivābhāti) [laiṃgaṃ+saukhyaṃ](laiṃgaṃsaukhyaṃ) [tad+eva+hi](tadevahi)
+[anyadrishamiva](anyādṛśamivābhāti) [lingasaukhyam](laiṃgaṃsaukhyaṃ) [tadevahi](tadevahi)
 
 ## mukta-m0-p04-v87
-[camatkāroti](camatkaroti) [yajvā+asau](yajvāsau) [nijakaṃ](nijakaṃ) [karma+sādhanam](karmasādhanam)
+[camatkaroti](camatkaroti) [yajvasau](yajvāsau) [nijakam](nijakaṃ) [karmasadhanam](karmasādhanam)
 
 ## mukta-m0-p04-v88
-[abhyarcayati](abhyarcayati) [gīrvāṇī](gīrvāṇī) [bhaga+puṣpa+samarpaṇaiḥ](bhagapuṣpasamarpaṇaiḥ)
+[abhyarcayati](abhyarcayati) [girvani](gīrvāṇī) [bhagapushpasamarpanaih](bhagapuṣpasamarpaṇaiḥ)
 
 ## mukta-m0-p04-v89
-[samasta+veda](samastaveda) [saṃproktā](saṃproktā) [yajña+karma+abhyanuṣṭhitaiḥ](yajñakarmābhyanuṣṭhitaiḥ)
+[samastaveda](samastaveda) [samprokta](saṃproktā) [yajnakarmabhyabhyanushtitaih](yajñakarmābhyanuṣṭhitaiḥ)
 
 ## mukta-m0-p04-v90
-[vedasya+api](vedasyāpi) [ca](ca) [tātparyaṃ](tātparyaṃ) [mahā+liṃga+arcana+kramaḥ](mahāliṃgārcanakramaḥ)
+[vedasyapi](vedasyāpi) [ca](ca) [tatparyam](tātparyaṃ) [mahalingarcana](mahāliṃgārcanakramaḥ)
 
 ## mukta-m0-p04-v91
-[āyurvedasya](āyurvedasya) [sāraḥ+tu](sārastu) [vājīkaraṇam+ucyate](vājīkaraṇamucyate)
+[ayurvedasya](āyurvedasya) [sarastu](sārastu) [vajikaranam](vājīkaraṇamucyate)
 
 ## mukta-m0-p04-v92
-[varthamānasya+arogasya](varthamānasyarogasya) [nāśa+dvāra+aṃga+puṣṭitaḥ](nāśadvārāṃgapuṣṭitaḥ)
+[varthamanasyarogasya](varthamānasyarogasya) [nashadvaramgapushtitah](nāśadvārāṃgapuṣṭitaḥ)
 
 ## mukta-m0-p04-v93
-[dharme+ca+arthe+ca](dharmecārthe) [kāme+ca](kāme) [mokṣe+ca](mokṣe) [girinaṃdinī](girinaṃdinī)
+[dharmecarthe](dharmecārthe) [ca](ca) [kame](kāme) [ca](ca) [mokshe](mokṣe) [ca](ca) [girinandini](girinaṃdinī)
 
 ## mukta-m0-p04-v94
-[rogeṇa](rogeṇa) [prathamaṃ](prathamaṃ) [naśyed+rava](naśyedrava) [eva+ātma+lakṣaṇaḥ](evātmalakṣaṇaḥ)
+[rogena](rogeṇa) [prathamam](prathamaṃ) [nashyedrava](naśyedrava) [evatmalakshanah](evātmalakṣaṇaḥ)
 
 ## mukta-m0-p04-v95
-[ataḥ](ataḥ) [prathamato](prathamato) [vairi](vairi) [rasasya+eva](rasasyeva) [mahīyasaḥ](mahīyasaḥ)
+[atah](ataḥ) [prathamato](prathamato) [vairi](vairi) [rasasyeva](rasasyeva) [mahiyyasah](mahīyasaḥ)
 
 ## mukta-m0-p04-v96
-[kuto](kuto) [liṃgamaheśasya](liṃgamaheśasya) [pūjanāt](pūjanāt) [puṇya+saṃbhavaḥ](puṇyasaṃbhavaḥ)
+[kuto](kuto) [lingamaheśasya](liṃgamaheśasya) [pujanat](pūjanāt) [punyasambhavaḥ](puṇyasaṃbhavaḥ)
 
 ## mukta-m0-p04-v97
-[śuklasya](śuklasya) [poṣakaiḥ+vastu](poṣakairvastu) [jātaiḥ+ātmānam+arcayet](jātairātmānamarcayet)
+[shuklasya](śuklasya) [poshakairvastu](poṣakairvastu) [jatairatmanamarcayet](jātairātmānamarcayet)
 
 ## mukta-m0-p04-v98
-[dhanurvedasya](dhanurvedasya) [ca+api+etat](cāpyetat) [prayojanam+udāhṛtam](prayojanamudāhṛtam)
+[dhanurvedasya](dhanurvedasya) [capyetat](cāpyetat) [prayojanamudahrtam](prayojanamudāhṛtam)
 
 ## mukta-m0-p04-v99
-[yuddhe](yuddhe) [cen+mṛtim+āpnoti](cenmṛtimāpnoti) [yajvavat+phalam+aśnute](yajvavatphalamaśnute)
+[yuddhe](yuddhe) [cenmrtimapnoti](cenmṛtimāpnoti) [yajvavatphalamashnute](yajvavatphalamaśnute)
 
 ## mukta-m0-p04-v100
-[māṃnaṃda](māṃnaṃda-)
+[mamnanda](māṃnaṃda-)
