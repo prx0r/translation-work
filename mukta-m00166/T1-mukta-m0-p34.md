@@ -5,73 +5,73 @@
 [world-mother](viśvamātā)
 
 ## mukta-m0-p34-v827
-[world-mother](viśvamātā) [oneself](svayaṃ) [shining](bhātā) [of-good](satāṃ) [in-mind](cetasi) [may-shine](bhāsatām)
+[world-mother](viśvamātā) [herself](svayaṃ) [shining](bhātā) [of-the-good](satāṃ) [in-mind](cetasi) [shining](bhāsatām)
 
 ## mukta-m0-p34-v828
 [possessing-arts](kalāvatī)
 
 ## mukta-m0-p34-v829
-[obtained](kalitā) [time-course](kālagatiḥ) [possessing-arts](kalāvatī) [us](naḥ)
+[seized](kalitā) [time-course](kālagatiḥ) [possessing-arts](kalāvatī) [to-us](naḥ)
 
 ## mukta-m0-p34-v830
 [lotus-possessing](padmāvatī)
 
 ## mukta-m0-p34-v831
-[collecting](cinvanta) [obtained](āptā) [not](na) [gone+and](gatāśca) [shore](pāraṃ) [lotus-possessing](padmāvatī) [she](sā) [my](mama) [lotus-going](padmagā) [may-stand](stāt)
+[gathering](cinvanta) [obtained](āptā) [not](na) [gone](gatāśca) [to-shore](pāraṃ) [lotus-possessing](padmāvatī) [she](sā) [my](mama) [lotus-going](padmagā) [let-her-be](stāt)
 
 ## mukta-m0-p34-v832
 [well-clothed](suvastrā)
 
 ## mukta-m0-p34-v833
-[vessel](amatrā) [she](sā) [well-clothed](suvastrā) [my](me) [body-clothing-selfhood](dehavastrātmatāṃ) [remove](hara)
+[vessel-less](amatrā) [she](sā) [well-clothed](suvastrā) [my](me) [body-garment-identity](dehavastrātmatāṃ) [remove](hara)
 
 ## mukta-m0-p34-v834
 [awakened](prabuddhā)
 
 ## mukta-m0-p34-v835
-[in-inert-and-noninert+not-distinguished-state](jaḍājaḍeṣvastaviśiṣṭabhāvā) [she](sā) [desired](vāñchitaṃ) [us](no) [may-give](dadatāṃ) [awakened](prabuddhā)
+[inert-and-noninert](jaḍājaḍeṣu) [not-distinct-state](astaviśiṣṭabhāvā) [she](sā) [desired](vāñchitaṃ) [to-us](no) [giving](dadatāṃ) [awakened](prabuddhā)
 
 ## mukta-m0-p34-v836
-[flowing](sarasvatī)
+[sarasvatī](sarasvatī)
 
 ## mukta-m0-p34-v837
-[in-three-ways+to-be-tasted](tredhā'svādyā) [may-distribute](vitaratu) [juice](rasaṃ) [own](svaṃ) [sarasvatī+whole](sarasvatyaśeṣam)
+[threefold](tredhā) [tasted](asvādyā) [let-her-bestow](vitaratu) [rasa](rasaṃ) [her-own](svaṃ) [sarasvatī](sarasvatyaśeṣam)
 
 ## mukta-m0-p34-v838
-[seat-in-kunda](kuṇḍāsanā)
+[kuṇḍa-seated](kuṇḍāsanā)
 
 ## mukta-m0-p34-v839
-[everywhere](sarvatra) [all](sarvaṃ) [revealing](parikāśayantī) [kuṇḍāsanā+thus](kuṇḍāsaneti) [famous](prathitā) [that+this](tadeṣā)
+[everywhere](sarvatra) [all](sarvaṃ) [manifesting](parikāśayantī) [kuṇḍa-seated](kuṇḍāsaneti) [renowned](prathitā) [that-she](tadeṣā)
 
 ## mukta-m0-p34-v840
-[world-sustainer](jagaddhātrī)
+[world-nourisher](jagaddhātrī)
 
 ## mukta-m0-p34-v841
-[even](api) [beings+for-long+like](bhāvāścirasyeva) [world-sustainer](jagaddhātrī) [for-prosperity+may-be](śriye'stu) [she](sā)
+[even](api) [beings](bhāvāś) [for-long](cirasyeva) [world-nourisher](jagaddhātrī) [for-glory](śriye'stu) [she](sā)
 
 ## mukta-m0-p34-v842
-[enlightened-mother](buddhamātā)
+[buddha-mother](buddhamātā)
 
 ## mukta-m0-p34-v843
-[unattached](anāśritāṃ) [own-self-course](svātmagatiṃ) [attains](sameti) [she](sā) [enlightened-mother](buddhamātā) [in-heart](hṛdi) [may-shine](bhāsatāṃ) [us](naḥ)
+[unattached](anāśritāṃ) [self-course](svātmagatiṃ) [attains](sameti) [she](sā) [buddha-mother](buddhamātā) [in-heart](hṛdi) [shining](bhāsatāṃ) [to-us](naḥ)
 
 ## mukta-m0-p34-v844
-[conqueror-lady](jineśvarī)
+[jina-lady](jineśvarī)
 
 ## mukta-m0-p34-v845
-[omniscience+calamity](sārvajñyamāpad) [misfortune-end-cause](vipadantakāraṇaṃ) [conqueror-lady](jineśvarī) [she](sā) [sin](vṛjinaṃ) [may-remove](vyapohatām)
+[omniscience](sārvajñyam) [calamity](āpad) [misfortune-end-cause](vipadantakāraṇaṃ) [jina-lady](jineśvarī) [she](sā) [sin](vṛjinaṃ) [remove](vyapohatām)
 
 ## mukta-m0-p34-v846
-[conqueror-mother](jinamātā)
+[jina-mother](jinamātā)
 
 ## mukta-m0-p34-v847
-[of-conqueror](jinasya) [birth-arisen](jananodbhūtāṃ) [fear](bhītiṃ) [policy-expert](nītivicakṣaṇā)
+[of-jina](jinasya) [birth-arisen](jananodbhūtāṃ) [fear](bhītiṃ) [policy-wise](nītivicakṣaṇā)
 
 ## mukta-m0-p34-v848
-[conqueror-lord](jinendrā)
+[jina-lord](jinendrā)
 
 ## mukta-m0-p34-v849
-[conqueror-lord+may-be](jinendrāstu) [for-prosperity](śriye) [always](nityaṃ) [without-enmity](nirvairā) [self-willed](svairacāriṇī)
+[jina-lord](jinendrāstu) [for-glory](śriye) [always](nityaṃ) [without-enmity](nirvairā) [self-moving](svairacāriṇī)
 
 ## mukta-m0-p34-v850
-[autumnal](śāradā)
+[śāradā](śāradā)

@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p105-v2601
-[hero-ground](vīrabhūḥ)
+[vīra-bhūḥ](vīrabhūḥ) [vīra](vīra) [bhūḥ](bhūḥ) [hero-ground](vīrabhūḥ)
 
 ## mukta-m0-p105-v2602
-[rest-gen](viśrānteḥ) [supreme](paramā) [ground](bhūmiḥ) [hero-ground](vīrabhūḥ) [on-earth](bhuvi) [worshipped](pūjitā)
+[viśrānteḥ](viśrānteḥ) [paramā](paramā) [bhūmiḥ](bhūmir) [vīra-bhūḥ](vīrabhūr) [bhuvi](bhuvi) [pūjitā](pūjitā)
 
 ## mukta-m0-p105-v2603
-[hero-mother](vīramātā)
+[vīra-mātā](vīramātā) [vīra](vīra) [mātā](mātā) [hero-mother](vīramātā)
 
 ## mukta-m0-p105-v2604
-[heroes](vīrān) [she-protects](yā) [fallen](niṣpātān) [causeless-love-filled](nirhetupremanirbhṛtā)
+[vīrān](vīrān) [yā](yā) [pāti](pāti) [niṣpātān](niṣpātān) [nir-hetu-prema-nirbhṛtā](nirhetupremanirbhṛtā)
 
 ## mukta-m0-p105-v2605
-[hero-bearer](vīrasūḥ)
+[vīra-sūḥ](vīrasūḥ) [vīra](vīra) [sūḥ](sūḥ) [hero-begetter](vīrasūḥ)
 
 ## mukta-m0-p105-v2606
-[heroes](vīrān) [bears](sūte) [of-people](janānāṃ) [she](sā) [hero-bearer](vīrasūḥ) [some](kāpi) [is-sung](gīyate)
+[vīrān](vīrān) [sūte](sūte) [janānāṃ](janānāṃ) [sā](sā) [vīra-sūḥ](vīrasūḥ) [kāpi](kāpi) [gīyate](gīyate)
 
 ## mukta-m0-p105-v2607
-[hero-delighter](vīranandinī)
+[vīra-nandinī](vīranandinī) [vīra](vīra) [nandinī](nandinī) [hero-daughter](vīranandinī)
 
 ## mukta-m0-p105-v2608
-[whose-devotees](yadbhaktāḥ) [abandoned-five-elements-fear](tyaktapañcatvabhayāḥ) [she](sā) [hero-delighter](vīranandinī)
+[yad-bhaktāḥ](yadbhaktāḥ) [tyakta-pañcatva-bhayāḥ](tyaktapañcatvabhayāḥ) [sā](sā) [vīra-nandinī](vīranandinī)
 
 ## mukta-m0-p105-v2609
-[victory-glory](jayaśrīḥ)
+[jaya-śrīḥ](jayaśrīḥ) [jaya](jaya) [śrīḥ](śrīḥ) [victory-glory](jayaśrīḥ)
 
 ## mukta-m0-p105-v2610
-[victory-glory](jayaśrīḥ) [that](saiva) [to-us](no) [may-be](bhūyāt) [in-presence](saṃnidhau) [everywhere](sarvataḥ) [always](sadā)
+[jaya-śrīḥ](jayaśrīḥ) [saiva](saiva) [no](no) [bhūyāt](bhūyāt) [saṃnidhau](saṃnidhau) [sarvataḥ](sarvataḥ) [sadā](sadā)
 
 ## mukta-m0-p105-v2611
-[victory-initiation](jayadīkṣā)
+[jaya-dīkṣā](jayadīkṣā) [jaya](jaya) [dīkṣā](dīkṣā) [victory-initiation](jayadīkṣā)
 
 ## mukta-m0-p105-v2612
-[whose-initiated](yaddīkṣitāḥ) [people](janāḥ) [shine](bhānti) [victory-initiation](jayadīkṣā) [thus](iti) [she](sā) [auspicious](śivā)
+[yad-dīkṣitā](yaddīkṣitā) [janāḥ](janāḥ) [bhānti](bhānti) [jaya-dīkṣā](jayadīkṣā) [iti](iti) [sā](sā) [śivā](śivā)
 
 ## mukta-m0-p105-v2613
-[victory-giver](jayadā)
+[jaya-dā](jayadā) [jaya](jaya) [dā](dā) [victory-giver](jayadā)
 
 ## mukta-m0-p105-v2614
-[as](yathā) [arjuna-hood](dhanaṃjayatvaṃ) [not](na) [may-appear](āvirbhūyāt) [unartificial](akṛtrimam)
+[yathā](yathā) [dhanaṃjaya-tvaṃ](dhanaṃjayatvaṃ) [na](na) [āvirbhūyāt](āvirbhūyād) [akṛtrimam](akṛtrimam)
 
 ## mukta-m0-p105-v2615
-[victory-increaser](jayavardhinī)
+[jaya-vardhinī](jayavardhinī) [jaya](jaya) [vardhinī](vardhinī) [victory-increaser](jayavardhinī)
 
 ## mukta-m0-p105-v2616
-[if](yadi) [be](syāt) [always](sarvadā) [truth](satyaṃ) [companion](sahāyā) [victory-increaser](jayavardhinī)
+[yadi](yadi) [syāt](syāt) [sarvadā](sarvadā) [satyaṃ](satyaṃ) [sahāyā](sahāyā) [jaya-vardhinī](jayavardhinī)
 
 ## mukta-m0-p105-v2617
-[auspicious-fortunate-form](saubhāgyasubhagākārā)
+[saubhāgya-subhagā-kārā](saubhāgyasubhagākārā) [saubhāgya](saubhāgya) [subhagā](subhagā) [kārā](kārā)
 
 ## mukta-m0-p105-v2618
-[mind](cittaṃ) [within-cave](kārevāntargataṃ) [unmoving](niścalaṃ) [makes](vidadhāti) [she](yā)
+[kāreva-antargataṃ](kārevāntargataṃ) [cittaṃ](cittaṃ) [niścalaṃ](niścalaṃ) [vidadhāti](vidadhāti) [yā](yā)
 
 ## mukta-m0-p105-v2619
-[all-auspiciousness-increaser](sarvasaubhāgyavardhinī)
+[sarva-saubhāgya-vardhinī](sarvasaubhāgyavardhinī) [sarva](sarva) [saubhāgya](saubhāgya) [vardhinī](vardhinī)
 
 ## mukta-m0-p105-v2620
-[companion](sahāyā) [always](sarvadā) [she](sā) [may-be](astu) [all-auspiciousness-increaser](sarvasaubhāgyavardhinī)
+[sahāyā](sahāyā) [sarvadā](sarvadā) [sāstu](sāstu) [sarva-saubhāgya-vardhinī](sarvasaubhāgyavardhinī)
 
 ## mukta-m0-p105-v2621
-[welfare-doer](kṣemaṅkarī)
+[kṣemaṅ-karī](kṣemaṅkarī) [kṣema](kṣema) [karī](karī) [welfare-doer](kṣemaṅkarī)
 
 ## mukta-m0-p105-v2622
-[today](adya) [i-am](asmi) [happiness-possessor](sukhabhāk) [immediately](sadyo) [seen](dṛṣṭā) [welfare-doer](kṣemaṅkarī) [when](yadā)
+[adya-asmi](adyāsmi) [sukha-bhāk](sukhabhāk) [sadyo](sadyo) [dṛṣṭā](dṛṣṭā) [kṣemaṅ-karī](kṣemaṅkarī) [yadā](yadā)
 
 ## mukta-m0-p105-v2623
-[perfection-form](siddhirūpā)
+[siddhi-rūpā](siddhirūpā) [siddhi](siddhi) [rūpā](rūpā) [perfection-form](siddhirūpā)
 
 ## mukta-m0-p105-v2624
-[otherwise](anyathā) [all-perfections-lord](akhilasiddhīśaḥ) [how](kathaṃ) [would-i-be](syāṃ) [self-perfection-from](svātmasiddhitaḥ)
+[anyathā](anyathā) [akhila-siddhi-īśaḥ](akhilasiddhīśaḥ) [kathaṃ](kathaṃ) [syāṃ](syāṃ) [svātma-siddhitaḥ](svātmasiddhitaḥ)
 
 ## mukta-m0-p105-v2625
-[good-fame](satkīrtiḥ)
+[sat-kīrtiḥ](satkīrtiḥ) [sat](sat) [kīrtiḥ](kīrtiḥ) [true-fame](satkīrtiḥ)
