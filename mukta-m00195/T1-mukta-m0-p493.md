@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p493-v12301
-[anaṅga+kusumā](anaṅgakusumā) [tvā+ādyā](tvādyā) [dvitīyā+anaṅga+mekhalā](dvitīyānaṅgamekhalā)
+[ananga-kusuma](anaṅgakusumā) [tvad-adya](tvādyā) [dvitiya-ananga-mekhala](dvitīyānaṅgamekhalā)
 
 ## mukta-m0-p493-v12302
-[anaṅga+lekhā](anaṅgalekhā) [ca](ca) [anaṅga+vegā+anaṅga+aṃkuśā](anaṅgavegānaṅgāṃkuśā) [tathā](tathā)
+[ananga-lekha](anaṅgalekhā) [ca](ca) [ananga-vega](anaṅgavegā) [ananga-ankusha](anaṅgāṃkuśā) [tatha](tathā)
 
 ## mukta-m0-p493-v12303
-[tad+agre](tadagre) [ṣoḍaśa+āre](ṣoḍaśāre) [tu](tu) [paścima+ādi+vilomataḥ](paścimādivilomataḥ)
+[tad-agre](tadagre) [shodasha-ara](ṣoḍaśāre) [tu](tu) [pashcima-adi-vilomatah](paścimādivilomataḥ)
 
 ## mukta-m0-p493-v12304
-[ahaṅkāra+ākarṣiṇī](ahaṅkārākarṣiṇī) [ca](ca) [śabda+ākarṣiṇikā](śabdākarṣiṇikā) [tathā](tathā)
+[ahankara-akarshini](ahaṅkārākarṣiṇī) [ca](ca) [shabda-akarshinika](śabdākarṣiṇikā) [tatha](tathā)
 
 ## mukta-m0-p493-v12305
-[rasa+ākarṣiṇikā](rasākarṣiṇikā) [proktā](proktā) [gandha+ākarṣiṇikā](gandhākarṣiṇikā) [matā](matā)
+[rasa-akarshinika](rasākarṣiṇikā) [prokta](proktā) [gandha-akarshinika](gandhākarṣiṇikā) [mata](matā)
 
 ## mukta-m0-p493-v12306
-[nāma+ākarṣiṇikā](nāmākarṣiṇikā) [ca+eva](caiva) [bīja+ākarṣiṇikā](bījākarṣiṇikā) [tathā](tathā)
+[nama-akarshinika](nāmākarṣiṇikā) [ca-eva](caiva) [bija-akarshinika](bījākarṣiṇikā) [tatha](tathā)
 
 ## mukta-m0-p493-v12307
-[śarīra+ākarṣiṇī](śarīrākarṣiṇī) [paścāt](paścād) [ātma+ākarṣiṇikā](ātmākarṣiṇikā) [tathā](tathā)
+[sharira-akarshini](śarīrākarṣiṇī) [pashcat](paścād) [atma-akarshinika](ātmākarṣiṇikā) [tatha](tathā)
 
 ## mukta-m0-p493-v12308
-[kṣobhaṇa+drāvaṇa+ākarṣa+manonmāda+mahā+aṃkuśāḥ](kṣobhaṇadrāvaṇākarṣamanonmādamahāṃkuśāḥ)
+[kshobhana-dravana-akarsha](kṣobhaṇadrāvaṇākarṣa) [mano-unmada-maha-ankushah](manonmādamahāṃkuśāḥ)
 
 ## mukta-m0-p493-v12309
-[tadvat](tadvat) [ca](ca) [adhaḥ](adhaḥ) [samabhyarcya](samabhyarcya) [tat+bahiḥ+bhūpure](tadbahirbhūpure) [yajet](yajet)
+[tadvat-ca-adhah](tadvaccādhaḥ) [samabhyarcya](samabhyarcya) [tad-bahir-bhupure](tadbahirbhūpure) [yajet](yajet)
 
 ## mukta-m0-p493-v12310
-[dvāre](dvāre) [dvayaṃ](dvayaṃ) [prāk](prāk) [aṇimā](aṇimā) [mahimā](mahimā) [laghimā](laghimā) [īśitā](īśitā)
+[dvare](dvāre) [dvayam](dvayaṃ) [prag-anima](prāgaṇimā) [mahima](mahimā) [laghima-ishita](laghimeśitā)
 
 ## mukta-m0-p493-v12311
-[rasa+siddhiḥ](rasasiddhiḥ) [ca](ca) [daśamī](daśamī) [saparyā](saparyā) [evaṃ](evaṃ) [samīritā](samīritā)
+[rasa-siddhi](rasasiddhiśca) [ca](ca) [dashami](daśamī) [saparya-evam](saparyyaivaṃ) [samirita](samīritā)
 
 ## mukta-m0-p493-v12312
-[tarpaṇa+ādi](tarppaṇādi) [tataḥ](tataḥ) [kuryāt](kuryyāt) [mantra+siddhaḥ](mantrasiddhaḥ) [prajāyate](prajāyate)
+[tarpana-adi](tarppaṇādi) [tatah](tataḥ) [kuryan](kuryyān) [mantra-siddhah](mantrasiddhaḥ) [prajayate](prajāyate)
 
 ## mukta-m0-p493-v12313
-[karavīra+japuṣpaiḥ](karavīrajapuṣpaiḥ) [ca](ca) [homāt](homāt) [mohayate](mohayate) [jagat](jagat)
+[karavira-ja-pushpaih-ca](karavīrajapuṣpaiśca) [homan](homān) [mohayate](mohayate) [jagat](jagat)
 
 ## mukta-m0-p493-v12314
-[campakaiḥ](campakaiḥ) [pāṭalaiḥ](pāṭalaiḥ) [bilvaiḥ](bilvaiḥ) [vaśam](vaśam) [ānayate](ānayate) [cirāt](cirāt)
+[campakaih](campakaiḥ) [patalair](pāṭalair) [bilvair](bilvair) [vasham-anayate](vaśamānayate) [cirat](cirāt)
 
 ## mukta-m0-p493-v12315
-[bilvaiḥ](bilvaiḥ) [syāt](syāt) [atulā](atulā) [lakṣmīḥ](lakṣmīḥ) [ikṣu+khaṇḍaiḥ](ikṣukhaṇḍaiḥ) [tathā](tathā) [vaśāḥ](vaśāḥ)
+[bilvaih](bilvaiḥ) [syat](syād) [atula](atulā) [lakshmi](lakṣmī) [ikshu-khandaih-tatha](ikṣukhaṇḍaistathā) [vasha](vaśāḥ)
 
 ## mukta-m0-p493-v12316
-[niśi](niśi) [svarṇa+phalaiḥ](svarṇaphalaiḥ) [homaḥ](homaḥ) [ripu+senā+vināśa+kṛt](ripusenāvināśakṛt)
+[nishi](niśi) [svarna-phalair-homah](svarṇaphalairhomo) [ripu-sena-vinasha-krt](ripusenāvināśakṛt)
 
 ## mukta-m0-p493-v12317
-[ārogyaṃ](ārogyaṃ) [sampadaṃ](sampadaṃ) [kāmaṃ](kāmaṃ) [dhanaṃ](dhanaṃ) [śarkkarayā](śarkkarayā) [sukham](sukham)
+[arogyam](ārogyaṃ) [sampadam](sampadaṃ) [kamam](kāmaṃ) [dhanam](dhanaṃ) [sharkkaraya](śarkkarayā) [sukham](sukham)
 
 ## mukta-m0-p493-v12318
-[kṣatriyaḥ](kṣatriyo) [mātuluṅgaiḥ](mātuluṅgaiśca) [ca](ca) [vaiśyaḥ](vaiśyo) [nāriṅga+jaiḥ](nāriṅgajaiḥ) [phalaiḥ](phalaiḥ)
+[kshatriyah](kṣatriyo) [matulungaih-ca](mātuluṅgaiśca) [vaishyah](vaiśyo) [naringga-jaih-phalaih](nāriṅgajaiḥ phalaiḥ)
 
 ## mukta-m0-p493-v12319
-[panasānāṃ](panasānāṃ) [lakṣa+homāt](lakṣahomāt) [vaśyāḥ](vaśyāḥ) [syuḥ](syuḥ) [cakravartinaḥ](cakravartinaḥ)
+[panasanam](panasānāṃ) [laksha-homat](lakṣahomād) [vashyah](vaśyāḥ) [syuh](syuś) [cakravartinah](cakravartinaḥ)
 
 ## mukta-m0-p493-v12320
-[nārikeraiḥ](nārikeraistu) [tu](tu) [pāṇḍityaṃ](pāṇḍityaṃ) [tilaiḥ](tilaiḥ) [sarva+iṣṭa+siddhayaḥ](sarveṣṭasiddhayaḥ)
+[narikeraih-tu](nārikeraistu) [pandityam](pāṇḍityaṃ) [tilaih](tilaiḥ) [sarva-ishta-siddhaya](sarveṣṭasiddhayaḥ)
 
 ## mukta-m0-p493-v12321
-[pāyasaiḥ](pāyasaiḥ) [dhana+dhānya+ādi](dhanadhānyādi) [bandhūkaiḥ](bandhūkaiḥ) [prāṇinaḥ](prāṇino) [vaśāḥ](vaśāḥ)
+[payasair](pāyasair) [dhana-dhanya-adi](dhanadhānyādi) [bandhukaih](bandhūkaiḥ) [praninah](prāṇino) [vasha](vaśāḥ)
 
 ## mukta-m0-p493-v12322
-[lavaṇaiḥ](lavaṇai) [rājikā+yuktaiḥ](rājikāyuktaiḥ) [homāt](homāt) [duṣṭa+vināśanam](duṣṭavināśanam)
+[lavanaih](lavaṇai) [rajika-yuktair](rājikāyuktair) [homat](homād) [dushta-vinashanam](duṣṭavināśanam)
 
 ## mukta-m0-p493-v12323
-[ghṛta+he](ghṛtahe) [mā+ādīpsita+āptiḥ](mādīpsitāptiḥ) [śaktiḥ](śaktiḥ) [syāt](syāt) [tila+taṇḍulaiḥ](tilataṇḍulaiḥ)
+[ghrta-he](ghṛtahe) [ma-dipsita-aptih](mādīpsitāptiḥ) [shaktih](śaktiḥ) [syat](syāt) [tila-tandulaih](tilataṇḍulaiḥ)
 
 ## mukta-m0-p493-v12324
-[kṛṣṇasya](kṛṣṇasya) [śaktiṃ](śaktiṃ) [sumukhīṃ](sumukhīṃ) [dvijānāṃ](dvijānāṃ) [na](na) [adhikāritā](adhikāritā)
+[krishnasya](kṛṣṇasya) [shaktim](śaktiṃ) [sumukhim](sumukhīṃ) [dvijanam](dvijānāṃ) [na-adhikarita](nādhikāritā)
 
 ## mukta-m0-p493-v12325
-[cini](cini) [hrīṃ](hrīṃ) [ṭhaḥ](ṭhaḥ) [ca](ca) [ṭhaḥ](ṭhaḥ) [ṭhaḥ](ṭhaḥ) [ca](ca) [dvāviṃśati+akṣaraḥ](dvāviṃśatyakṣaraḥ) [manuḥ](manuḥ)
+[cini](cini) [hrim](hrīṃ) [tha-ca-tha-tha-ca](ṭhaścaṭhaḥṭhaśca) [dvavimshaty-aksharo](dvāviṃśatyakṣaro) [manuh](manuḥ)
