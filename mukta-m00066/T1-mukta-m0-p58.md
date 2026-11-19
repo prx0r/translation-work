@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p58-v1426
-[pada](dṛṣṭa) [pada](sarvā) [pada](kṛtitvasya) [pada](ghaṭanaṃ) [pada](na) [pada](ghaṭe) [pada](bhavat)
+[seen](dṛṣṭa) [all](sarvā) [of-act-ness](kṛtitvasya) [occurrence](ghaṭanaṃ) [not](na) [in-pot](ghaṭe) [becomes](bhavat)
 
 ## mukta-m0-p58-v1427
-[pada](tritvantu) [pada](vyavahārasyāpyapekṣaivātra) [pada](sammatam)
+[three-ness](tritvantu) [of-usage](vyavahārasya) [also](api) [expectation](apekṣā) [here](atra) [accepted](sammatam)
 
 ## mukta-m0-p58-v1428
-[pada](navamaṃ) [pada](śivatatvaṃ) [pada](tu) [pada](śabdabhāvyamihādhunā)
+[ninth](navamaṃ) [śiva-tattva](śivatatvaṃ) [but](tu) [sound-born](śabdabhāvyam) [here](iha) [now](adhunā)
 
 ## mukta-m0-p58-v1429
-[pada](śabdabhāsyatvamujhitvā) [pada](svādhyakṣeṇa) [pada](sabhāsate)
+[sound-born-ness](śabdabhāsyatvam) [abandoning](ujhitvā) [by-self-witness](svādhyakṣeṇa) [shines](sabhāsate)
 
 ## mukta-m0-p58-v1430
-[pada](svāśrayo) [pada](marudekasya) [pada](udāsīnaṃ) [pada](tamaḥ) [pada](smṛtam)
+[self-support](svāśrayo) [of-one-wind](marudekasya) [indifferent](udāsīnaṃ) [darkness](tamaḥ) [remembered](smṛtam)
 
 ## mukta-m0-p58-v1431
-[pada](śivastu) [pada](sarvāśrayaḥ) [pada](syāt) [pada](tatra) [pada](samyagvivicyate)
+[śiva](śivastu) [all-support](sarvāśrayaḥ) [would-be](syāt) [there](tatra) [well](samyag) [discriminated](vivicyate)
 
 ## mukta-m0-p58-v1432
-[pada](mahyāṃ) [pada](siddhādirūpeṇa) [pada](vāyaumeghahimātmatā)
+[to-me](mahyāṃ) [siddhi-beginning-form](siddhādirūpeṇa) [wind-cloud-snow-nature](vāyaumeghahimātmatā)
 
 ## mukta-m0-p58-v1433
-[pada](śabdemaṃghījalamarut) [pada](saṃśrayaḥ) [pada](kathitaḥ) [pada](priye)
+[sound-this-ghī-water-wind](śabdemaṃghījalamarut) [support](saṃśrayaḥ) [said](kathitaḥ) [dear](priye)
 
 ## mukta-m0-p58-v1434
-[pada](saṃghātaśca) [pada](pṛthivyādeḥ) [pada](śarīratvena) [pada](kīrtyate)
+[aggregate](saṃghātaśca) [of-earth-etc](pṛthivyādeḥ) [as-body](śarīratvena) [proclaimed](kīrtyate)
 
 ## mukta-m0-p58-v1435
-[pada](prāṇena) [pada](ceṣṭamānaṃ) [pada](yat) [pada](tat) [pada](sacit) [pada](kamihocyate)
+[by-breath](prāṇena) [moving](ceṣṭamānaṃ) [which](yat) [that](tat) [conscious](sacit) [here](iha) [called](ucyate)
 
 ## mukta-m0-p58-v1436
-[pada](manaḥsaṃsrayaṇaṃ) [pada](prāṇi) [pada](sacit) [pada](kavapuṣismṛtam)
+[mind-support](manaḥsaṃsrayaṇaṃ) [living-being](prāṇi) [conscious](sacit) [body](kavapuṣi) [remembered](smṛtam)
 
 ## mukta-m0-p58-v1437
-[pada](sarveṣāmihatatvānāṃ) [pada](vikṛtirguṇabhedajā)
+[of-all-here-tattvas](sarveṣāmihatatvānāṃ) [modification](vikṛtir) [from-quality-difference](guṇabhedajā)
 
 ## mukta-m0-p58-v1438
-[pada](saṃghātajāśca) [pada](saṃghātā) [pada](bahavonaikarūpiṇaḥ)
+[aggregate-born](saṃghātajāśca) [aggregates](saṃghātā) [many](bahavo) [not-one-formed](naikarūpiṇaḥ)
 
 ## mukta-m0-p58-v1439
-[pada](bahunā) [pada](kimihoktena) [pada](kintatvairaparairjaḍaiḥ)
+[by-much](bahunā) [what](kim) [here](iha) [said](uktam) [with-other-tattvas](tatvairaparaiḥ) [inert](jaḍaiḥ)
 
 ## mukta-m0-p58-v1440
-[pada](acchedyo'yamadāhoya) [pada](makledyośoṣya) [pada](eva) [pada](ca)
+[uncuttable](acchedyo) [this](yam) [unburnable](adāhyo) [unwettable](akledyo) [undryable](aśoṣya) [thus](eva) [and](ca)
 
 ## mukta-m0-p58-v1441
-[pada](sarvaviśvasya) [pada](janakaḥ) [pada](sarvaviśvasya) [pada](pālakaḥ)
+[of-all-universe](sarvaviśvasya) [begetter](janakaḥ) [of-all-universe](sarvaviśvasya) [protector](pālakaḥ)
 
 ## mukta-m0-p58-v1442
-[pada](sa) [pada](giridvīpajaladhikānanā) [pada](sakalāmahī)
+[he](sa) [mountain-island-forest-water](giridvīpajaladhikānanā) [all-earth](sakalāmahī)
 
 ## mukta-m0-p58-v1443
-[pada](etā) [pada](dṛśyastva) [pada](saṃkhyātā) [pada](vasudhāvāsavārcite)
+[these](etā) [visible](dṛśyastva) [counted](saṃkhyātā) [earth-dwelling-worshipped](vasudhāvāsavārcite)
 
 ## mukta-m0-p58-v1444
-[pada](jyotiścakraṃ) [pada](samastaṃ) [pada](ca) [pada](vāyu) [pada](naiva) [pada](pracālyate)
+[light-wheel](jyotiścakraṃ) [all](samastaṃ) [and](ca) [wind](vāyu) [not](naiva) [moved](pracālyate)
 
 ## mukta-m0-p58-v1445
-[pada](sadā) [pada](carati) [pada](kutrāpi) [pada](sadā) [pada](ca) [pada](sthimitaḥ) [pada](kvacit)
+[always](sadā) [moves](carati) [somewhere](kutrāpi) [always](sadā) [and](ca) [still](sthimitaḥ) [somewhere](kvacit)
 
 ## mukta-m0-p58-v1446
-[pada](yadā) [pada](pravahati) [pada](kṣipraṃ) [pada](saśabdena) [pada](tatodyate)
+[when](yadā) [flows](pravahati) [quickly](kṣipraṃ) [with-sound](saśabdena) [then](tad) [raised](udyate)
 
 ## mukta-m0-p58-v1447
-[pada](etat) [pada](tu) [pada](tattvaṃ) [pada](kathitamasyaivānyā) [pada](vibhūtayaḥ)
+[this](etat) [but](tu) [tattva](tattvaṃ) [said](kathitam) [of-him](asya) [other](anyā) [powers](vibhūtayaḥ)
 
 ## mukta-m0-p58-v1448
-[pada](tat) [pada](tacchāstra) [pada](sthitiḥ) [pada](sarvā) [pada](kathitā) [pada](girinaṃdini)
+[that](tat) [that-śāstra](tacchāstra) [position](sthitiḥ) [all](sarvā) [said](kathitā) [mountain-daughter](girinaṃdini)
 
 ## mukta-m0-p58-v1449
-[pada](anyatra) [pada](mama) [pada](yat) [pada](kiṃcit) [pada](praṣṭavyaṃ) [pada](spṛṣṭamāśaye)
+[elsewhere](anyatra) [my](mama) [what](yat) [something](kiṃcit) [to-be-asked](praṣṭavyaṃ) [touched](spṛṣṭam) [in-mind](āśaye)
 
 ## mukta-m0-p58-v1450
-[pada](aneka) [pada](jantujālena) [pada](nibiḍasya) [pada](nirantaram)
+[many](aneka) [creature-net](jantujālena) [dense](nibiḍasya) [continuously](nirantaram)

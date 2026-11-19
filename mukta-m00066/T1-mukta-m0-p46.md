@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p46-v1126
-[by-hero+in-them+to-be-done+cause+coloring+causes](vīreṇa tāsu karttavyo heturaṃjanahetavaḥ)
+[vīreṇa](vīreṇa) [tāsu](tāsu) [karttavyaḥ](karttavyaḥ) [hetuḥ](hetuḥ) [raṃjana-hetavaḥ](raṃjanahetavaḥ)
 
 ## mukta-m0-p46-v1127
-[by-those-instructing+who+of-women+not-other-refuge+mind](ācāryamāṇairyastrīṇāṃ ananyaśaraṇaṃ manaḥ)
+[ācāryamāṇaiḥ](ācāryamāṇaiḥ) [yaḥ](yaḥ) [strīṇām](strīṇām) [ananya-śaraṇam](ananyaśaraṇam) [manaḥ](manaḥ)
 
 ## mukta-m0-p46-v1128
-[in-slips+forbearance+and+of-fault+re-examination](skhalaneṣu titikṣā ca doṣasya punarīkṣaṇam)
+[skhalaneṣu](skhalaneṣu) [titikṣā](titikṣā) [ca](ca) [doṣasya](doṣasya) [punar-īkṣaṇam](punarīkṣaṇam)
 
 ## mukta-m0-p46-v1129
-[penal-policy+not+but+in-women+to-ruin+is-worthy](daṇḍanītirnna tu strīṣu prapātayitu marhati)
+[daṇḍanītiḥ](daṇḍanītiḥ) [na](na) [tu](tu) [strīṣu](strīṣu) [prapātayitum](prapātayitum) [arhati](arhati)
 
 ## mukta-m0-p46-v1130
-[behold+rashness+possessed-of+in-heaven-gone+own-husband](paśyasāhasametāsāṃ svargate nijabharttari)
+[paśya](paśya) [sāhasam](sāhasam) [etāsām](etāsām) [svarga-te](svargate) [nija-bharttari](nijabharttari)
 
 ## mukta-m0-p46-v1131
-[by-grief+beating+harshness+release+own-life](khedatāḍanapāruṣyairmuṃcantyeva svajīvitam)
+[kheda-tāḍana-pāruṣyaiḥ](khedatāḍanapāruṣyaiḥ) [muṃcanti](muṃcanti) [eva](eva) [sva-jīvitam](svajīvitam)
 
 ## mukta-m0-p46-v1132
-[therefore+gentleness+in-them+first+mind-coloring](ataścamārdavaṃtāsu prathamaṃ cittaraṃjanam)
+[ataḥ](ataḥ) [ca](ca) [mārdavam](mārdavam) [tāsu](tāsu) [prathamam](prathamam) [citta-raṃjanam](cittaraṃjanam)
 
 ## mukta-m0-p46-v1133
-[extreme+growth+and+leading+if+in-them+accomplisher](atyaṃtamabhivṛddhiṃ ca nayaccettāsusādhakaḥ)
+[atyaṃtam](atyaṃtam) [abhivṛddhim](abhivṛddhim) [ca](ca) [nayet](nayet) [cet](cet) [tāsu](tāsu) [sādhakaḥ](sādhakaḥ)
 
 ## mukta-m0-p46-v1134
-[middle+manner+sight+taught+wise](madhyamena prakāreṇa darśanaṃ pradiśidbudhaḥ)
+[madhyamena](madhyamena) [prakāreṇa](prakāreṇa) [darśanam](darśanam) [pradiśet](pradiśet) [budhaḥ](budhaḥ)
 
 ## mukta-m0-p46-v1135
-[attached+to-another-becoming+goes+despised+how+beloved](raktaḥ parebhavaṃ yāti paribhūtaḥ kathaṃ priye)
+[raktaḥ](raktaḥ) [parebhavam](parebhavam) [yāti](yāti) [paribhūtaḥ](paribhūtaḥ) [katham](katham) [priye](priye)
 
 ## mukta-m0-p46-v1136
-[in-bull-like-ones+in-them+mother+not+indeed+chief+and+should-make-graze](vṛṣasyaṃtīṣu tāsvaṃba na vai mukhyaṃ ca cārayet)
+[vṛṣasyantīṣu](vṛṣasyantīṣu) [tāsu](tāsu) [amba](amba) [na](na) [vai](vai) [mukhyam](mukhyam) [ca](ca) [cārayet](cārayet)
 
 ## mukta-m0-p46-v1137
-[morsels+also+and+garments+as+ability+should-offer](grāsānapi ca vāsāṃsi yathā śakti nivedayet)
+[grāsān](grāsān) [api](api) [ca](ca) [vāsāṃsi](vāsāṃsi) [yathā](yathā) [śakti](śakti) [nivedayet](nivedayet)
 
 ## mukta-m0-p46-v1138
-[therefore+hero-people-dependent+messenger+nature+auspicious](tasmād vīrajanādhīnā dūtikā prakṛti śive)
+[tasmāt](tasmāt) [vīra-janādhīnā](vīrajanādhīnā) [dūtikā](dūtikā) [prakṛtiḥ](prakṛtiḥ) [śive](śive)
 
 ## mukta-m0-p46-v1139
-[of-couple+union+should-say+human-aim-single-cause](daṃpatyorghaṭanaṃ brūyat puruṣārthaikakāraṇam)
+[daṃpatyoḥ](daṃpatyoḥ) [ghaṭanam](ghaṭanam) [brūyat](brūyat) [puruṣārtha-eka-kāraṇam](puruṣārthaikakāraṇam)
 
 ## mukta-m0-p46-v1140
-[mutual+with-affection+great-happiness+is-born](anyonyamanurāgeṇa mahatsaukhyaṃ prajāyate)
+[anyonyam](anyonyam) [anurāgeṇa](anurāgeṇa) [mahat](mahat) [saukhyaṃ](saukhyaṃ) [prajāyate](prajāyate)
 
 ## mukta-m0-p46-v1141
-[therefore+for-their-favor+own-favor+should-show](tasmāt tadānukūlyāya svānukūlyaṃ prakāśayet)
+[tasmāt](tasmāt) [tadānukūlyāya](tadānukūlyāya) [sva-anukūlyaṃ](svānukūlyaṃ) [prakāśayet](prakāśayet)
 
 ## mukta-m0-p46-v1142
-[by-embrace-pretext+indeed+pleasure+massaging+should-do](āliṃganacchalenaiva sukhaṃ saṃvāhanaṃ caret)
+[āliṃgana-chalena](āliṃganacchalena) [eva](eva) [sukhaṃ](sukhaṃ) [saṃvāhanam](saṃvāhanam) [caret](caret)
 
 ## mukta-m0-p46-v1143
-[taking+should-anoint+foot+of-messenger+she+not-other-goer+becomes](ādāyalimpeccaraṇe dūtyāḥ sā nānyagābhavet)
+[ādāya](ādāya) [limpet](limpet) [caraṇe](caraṇe) [dūtyāḥ](dūtyāḥ) [sā](sā) [na](na) [anya-gā](anyagā) [bhavet](bhavet)
 
 ## mukta-m0-p46-v1144
-[disgusted+not+should-be+dispassion+by-that+arises](jugupsamāno na bhavedvairāgyaṃ tena jāyate)
+[jugupsamānaḥ](jugupsamānaḥ) [na](na) [bhavet](bhavet) [vairāgyaṃ](vairāgyaṃ) [tena](tena) [jāyate](jāyate)
 
 ## mukta-m0-p46-v1145
-[in-true-worlds+wandering+festival+and+step+step](satilokeṣu saṃcāramutsavaṃ ca pade pade)
+[sati-lokeṣu](satilokeṣu) [saṃcāram](saṃcāram) [utsavaṃ](utsavaṃ) [ca](ca) [pade](pade) [pade](pade)
 
 ## mukta-m0-p46-v1146
-[various+juicy+ripe+fruits+flowers+fragrant](vividaiḥ sarasaiḥ pakvaiḥ phalaiḥ puṣpaiḥ sugaṃdhibhiḥ)
+[vividaiḥ](vividaiḥ) [sarasaiḥ](sarasaiḥ) [pakvaiḥ](pakvaiḥ) [phalaiḥ](phalaiḥ) [puṣpaiḥ](puṣpaiḥ) [sugaṃdhibhiḥ](sugaṃdhibhiḥ)
 
 ## mukta-m0-p46-v1147
-[with-unctions+betel+collyriums+mouth-perfumes](udvarttanaiścatāṃbūlairaṃjanairmukhavāsitaiḥ)
+[udvarttanaiḥ](udvarttanaiḥ) [ca](ca) [tāṃbūlaiḥ](tāṃbūlaiḥ) [aṃjanaiḥ](aṃjanaiḥ) [mukha-vāsitaiḥ](mukhavāsitaiḥ)
 
 ## mukta-m0-p46-v1148
-[should-color+beloved+wise+with-enjoyments+bright+and+Pārvatī](raṃjayedramaṇīṃ dhīmānbhogairdīptaiśca pārvati)
+[raṃjayet](raṃjayet) [ramaṇīm](ramaṇīm) [dhīmān](dhīmān) [bhogaiḥ](bhogaiḥ) [dīptaiḥ](dīptaiḥ) [ca](ca) [pārvati](pārvati)
 
 ## mukta-m0-p46-v1149
-[so-long+delighted+indeed+enjoyment-differences+but+should-practice](tāvaddhiramanā eva bhogabhedā tu pācaret)
+[tāvat](tāvat) [hiramanā](hiramanā) [eva](eva) [bhoga-bhedāḥ](bhogabhedāḥ) [tu](tu) [pācaret](pācaret)
 
 ## mukta-m0-p46-v1150
-[by-praise+arises+that+and+proud-fruitless+women](ślāghayājāyate tacca sadarpāviphalāstriyaḥ)
+[ślāghayā](ślāghayā) [jāyate](jāyate) [tat](tat) [ca](ca) [sa-darpāḥ](sadarpāḥ) [aviphalāḥ](aviphalāḥ) [striyaḥ](striyaḥ)

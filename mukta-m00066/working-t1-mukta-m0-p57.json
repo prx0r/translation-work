@@ -8,7 +8,7 @@
 "tokens": [
 {
 "surface": "guptārthāya",
-"quick_gloss": "for-hidden-meaning"
+"quick_gloss": "hidden-meaning"
 },
 {
 "surface": "ca",
@@ -16,7 +16,7 @@
 },
 {
 "surface": "hṛdyāṅgi",
-"quick_gloss": "O-dear-limbed"
+"quick_gloss": "heart-limb"
 },
 {
 "surface": "na",
@@ -28,7 +28,7 @@
 },
 {
 "surface": "tatvāvabodhane",
-"quick_gloss": "for-realization-of-truth"
+"quick_gloss": "truth-awakening"
 }
 ]
 },
@@ -41,7 +41,7 @@
 "tokens": [
 {
 "surface": "ānaṃdataṃtra",
-"quick_gloss": "in-this-tantra"
+"quick_gloss": "bliss-tantra"
 },
 {
 "surface": "eva",
@@ -73,16 +73,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "tatvabhūtam",
-"quick_gloss": "truth-reality"
-},
-{
-"surface": "idaṃ",
-"quick_gloss": "this"
+"surface": "tatvabhūtamidaṃ",
+"quick_gloss": "truth-born"
 },
 {
 "surface": "subhruyo",
-"quick_gloss": "O-fair-browed"
+"quick_gloss": "beautiful-brow"
 },
 {
 "surface": "mahāyāga",
@@ -107,7 +103,7 @@
 },
 {
 "surface": "tatvāni",
-"quick_gloss": "principles"
+"quick_gloss": "truths"
 },
 {
 "surface": "siddhāntaśca",
@@ -132,11 +128,11 @@
 },
 {
 "surface": "tirobhāvau",
-"quick_gloss": "and-concealment"
+"quick_gloss": "concealment"
 },
 {
 "surface": "varttete",
-"quick_gloss": "occur"
+"quick_gloss": "exist"
 },
 {
 "surface": "sarvavastuṣu",
@@ -157,7 +153,7 @@
 },
 {
 "surface": "devadatto",
-"quick_gloss": "Devadatta"
+"quick_gloss": "devadatta"
 },
 {
 "surface": "bhavanānnirgacchan",
@@ -165,7 +161,7 @@
 },
 {
 "surface": "pūrvasaṅgataḥ",
-"quick_gloss": "previously-associated"
+"quick_gloss": "former-association"
 }
 ]
 },
@@ -182,7 +178,7 @@
 },
 {
 "surface": "devadatto",
-"quick_gloss": "Devadatta"
+"quick_gloss": "devadatta"
 },
 {
 "surface": "bhavanāt",
@@ -210,8 +206,8 @@
 "quick_gloss": "without"
 },
 {
-"surface": "utpattiranyā",
-"quick_gloss": "origin"
+"surface": "utpattiranyākāpina",
+"quick_gloss": "birth"
 },
 {
 "surface": "na",
@@ -239,8 +235,12 @@
 "quick_gloss": "done"
 },
 {
-"surface": "naiva",
-"quick_gloss": "not-indeed"
+"surface": "na",
+"quick_gloss": "not"
+},
+{
+"surface": "eva",
+"quick_gloss": "indeed"
 },
 {
 "surface": "cārutvamanudhāvati",
@@ -257,11 +257,11 @@
 "tokens": [
 {
 "surface": "utpannatvaṃ",
-"quick_gloss": "producedness"
+"quick_gloss": "born-state"
 },
 {
 "surface": "viśiṣṭatvaṃ",
-"quick_gloss": "distinctness"
+"quick_gloss": "distinct-state"
 },
 {
 "surface": "tadaivādau",
@@ -294,11 +294,11 @@
 },
 {
 "surface": "vāstavatvaṃ",
-"quick_gloss": "reality"
+"quick_gloss": "realness"
 },
 {
 "surface": "vyavahāraikajanmanā",
-"quick_gloss": "by-conventional-usage-alone"
+"quick_gloss": "conventional-birth"
 }
 ]
 },
@@ -319,7 +319,7 @@
 },
 {
 "surface": "nabhasaścarcane",
-"quick_gloss": "of-sky"
+"quick_gloss": "sky"
 },
 {
 "surface": "marut",
@@ -335,20 +335,28 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "bhūmir",
+"surface": "bhūmirāponalo",
 "quick_gloss": "earth"
 },
 {
-"surface": "āponalo",
+"surface": "āpaḥ",
 "quick_gloss": "water"
 },
 {
-"surface": "vāyuḥ",
+"surface": "analaḥ",
 "quick_gloss": "fire"
+},
+{
+"surface": "vāyuḥ",
+"quick_gloss": "air"
 },
 {
 "surface": "śabdaścatimiraṃ",
 "quick_gloss": "sound"
+},
+{
+"surface": "timiraṃ",
+"quick_gloss": "darkness"
 },
 {
 "surface": "manaḥ",
@@ -369,7 +377,7 @@
 },
 {
 "surface": "bhidaiva",
-"quick_gloss": "indeed"
+"quick_gloss": "only"
 },
 {
 "surface": "sarveṣāṃ",
@@ -419,7 +427,7 @@
 "tokens": [
 {
 "surface": "maruccatimirannaiva",
-"quick_gloss": "wind-darkness"
+"quick_gloss": "wind-darkness-not-indeed"
 },
 {
 "surface": "saṃścayaṃ",
@@ -452,7 +460,7 @@
 },
 {
 "surface": "mahāgame",
-"quick_gloss": "in-great-agama"
+"quick_gloss": "great-agama"
 }
 ]
 },
@@ -469,7 +477,7 @@
 },
 {
 "surface": "bhedena",
-"quick_gloss": "by-distinction"
+"quick_gloss": "by-difference"
 },
 {
 "surface": "nānāsaṃkhyāṃ",
@@ -502,7 +510,7 @@
 },
 {
 "surface": "pārvati",
-"quick_gloss": "O-Parvati"
+"quick_gloss": "o-parvati"
 }
 ]
 },
@@ -544,7 +552,7 @@
 },
 {
 "surface": "pratyakṣaviṣayaḥ",
-"quick_gloss": "perceptible-object"
+"quick_gloss": "direct-object"
 },
 {
 "surface": "pavanaḥ",
@@ -552,7 +560,7 @@
 },
 {
 "surface": "parvatātmaje",
-"quick_gloss": "O-daughter-of-mountain"
+"quick_gloss": "o-mountain-born"
 }
 ]
 },
@@ -565,7 +573,7 @@
 "tokens": [
 {
 "surface": "manojīvavaśāḥ",
-"quick_gloss": "mind-soul-dependent"
+"quick_gloss": "mind-soul-controlled"
 },
 {
 "surface": "sarve",
@@ -602,7 +610,7 @@
 },
 {
 "surface": "vedavidyāgamātmakaḥ",
-"quick_gloss": "Veda-knowledge-agama-nature"
+"quick_gloss": "veda-knowledge-agama"
 }
 ]
 },
@@ -615,7 +623,7 @@
 "tokens": [
 {
 "surface": "viśiṣṭabhāge",
-"quick_gloss": "in-distinct-part"
+"quick_gloss": "distinct-part"
 },
 {
 "surface": "sādṛṣṭe",
@@ -623,7 +631,7 @@
 },
 {
 "surface": "darśanaṃ",
-"quick_gloss": "perception"
+"quick_gloss": "seeing"
 },
 {
 "surface": "bhāginoyataḥ",
@@ -644,7 +652,7 @@
 },
 {
 "surface": "ghaṭasyādhyakṣatāsthi",
-"quick_gloss": "of-pot"
+"quick_gloss": "pot"
 },
 {
 "surface": "cet",
