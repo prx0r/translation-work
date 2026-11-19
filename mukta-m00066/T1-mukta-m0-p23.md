@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p23-v551
-[in+bliss+tantra](ānaṃdataṃtre) [and+in+this](caivāsmin) [four](catvāraḥ) [supreme+declared](paramīritāḥ)
+in-this-tantra (ānaṃdataṃtre) and-indeed (caiva) in-this (asmin) four (catvāraḥ) declared (paramīritāḥ)
 
 ## mukta-m0-p23-v552
-[therefore+four](tasmāccatvāra) [illuminations](ullāsā) [here](iha) [declared](proktā) [O+great+lady](maheśvari)
+therefore (tasmāt) four (catvāraḥ) delights (ullāsāḥ) here (iha) declared (proktāḥ) O-great-lady (maheśvari)
 
 ## mukta-m0-p23-v553
-[therefore+bliss](tasmādānaṃda) [of+worship](pūjāyā) [not+garlanded](mālaṃvyaṃte) [but](tu) [not](na) [three](trayaḥ)
+therefore (tasmāt) of-bliss (ānaṃda) of-worship (pūjāyāḥ) are-honored (mālaṃvyaṃte) but (tu) not (na) three (trayaḥ)
 
 ## mukta-m0-p23-v554
-[thus](tathā) [thus](tathā) [supreme+bliss](parānaṃda) [lord+vidya](nāthavidyāṃ) [should+touch](parāmṛśet)
+thus (tathā) thus (tathā) supreme-bliss (parānaṃda) lord-knowledge (nāthavidyām) one-should-touch (parāmṛśet)
 
 ## mukta-m0-p23-v555
-[by+messenger](dūtyā) [kindled](saṃdhukṣita) [own+self](svātmā) [bliss+form](naṃdamūrttiṃ) [guru](guruṃ) [should+remember](smaret)
+by-messenger (dūtyā) kindled (saṃdhukṣita) own-self (svātmā) bliss-form (naṃdamūrttim) guru (guruṃ) should-remember (smaret)
 
 ## mukta-m0-p23-v556
-[twelve+ended](dvādaśāṃtagate) [red+white+foot](raktaśuklapāde) [should+place](vinikṣipet)
+at-twelfth-end (dvādaśāṃtagate) red-white-foot (rakta+śukla+pāde) should-place (vinikṣipet)
 
 ## mukta-m0-p23-v557
-[shiva-hood+empire](śivatvasāmrājya) [foot+anointed](padābhiṣiktaṃ) [own+self+think](svaṃviciṃtayet)
+of-Shiva-nature (śivatva) sovereignty (sāmrājya) foot (pada) consecrated (abhiṣiktam) own (svam) should-contemplate (viciṃtayet)
 
 ## mukta-m0-p23-v558
-[seeing](paśyan) [every+limb+sprout](pratyaṃgamaṃkūradanaṃ) [mountain+mind](gottuṃgamānasaḥ)
+seeing (paśyan) limb-sprout (pratyaṃga+maṃkūra) tooth (danaṃ) mountain-mind (gottuṃga+mānasaḥ)
 
 ## mukta-m0-p23-v559
-[as](yathā) [youth+illumination](yauvanamullāsaṃ) [obtains](saṃprāpnoti) [O+mother](aṃba) [messenger](dūtikā)
+as (yathā) youth (yauvanam) delight (ullāsam) obtains (saṃprāpnoti) O-mother (aṃba) messenger (dūtikā)
 
 ## mukta-m0-p23-v560
-[by+gazing+desire](ālokaneratiḥ) [directly](sākṣāt) [in+smile](smite) [awakens](jāgarti) [Ganga](jāhnavī)
+in-looking (ālokane) desire (ratiḥ) directly (sākṣāt) in-smile (smite) awakens (jāgarti) Ganges (jāhnavī)
 
 ## mukta-m0-p23-v561
-[twins](aśvinau) [nose+region](nāsikābhāge) [and+lips](tvoṣṭhe) [and](ca) [supreme+nectar](paramāmṛtam)
+Ashvins (aśvinau) nose-region (nāsikā+bhāge) and (ca) lip (oṣṭhe) supreme-nectar (paramāmṛtam)
 
 ## mukta-m0-p23-v562
-[in+sweat](svede) [and](ca) [varuni+goddess](vāruṇī) [goddess](devī) [desire+lord+I+am](kāmanāthastvahaṃ) [in+act](kṛtau)
+in-sweat (svede) and (ca) Varuni (vāruṇī) goddess (devī) desire-lord (kāmanāthaḥ) I (ahaṃ) in-act (kṛtau)
 
 ## mukta-m0-p23-v563
-[in+two+breasts](stanadvaye) [Meru+mountain](merugiriḥ) [without](niḥ) [sound](śabdaṃ) [in+brahma+middle](brahmamadhyame)
+in-two-breasts (stanadvaye) Meru-mountain (merugiriḥ) soundless (niḥśabdam) in-Brahma-middle (brahmamadhyame)
 
 ## mukta-m0-p23-v564
-[in+three+folds](valitraye) [and](ca) [three+worlds](trailokyaṃ) [in+navel+womb](nābhigarbhe) [cave+mother](guhāṃbikā)
+in-three-folds (valitraye) and (ca) three-worlds (trailokyam) in-navel-womb (nābhi+garbhe) cave-mother (guhāṃbikā)
 
 ## mukta-m0-p23-v565
-[in+nails](nakheṣu) [cool](śītāṃ) [bright](śu) [digit+arm+root+hook+deities](kalādormmūleṃkuśadevatāḥ)
+in-nails (nakheṣu) cool (śītām) white (śu) digit (kalā) arm-root (dormūle) hook-deity (aṃkuśadevatāḥ)
 
 ## mukta-m0-p23-v566
-[Kaveri](kāverī) [and+indeed](caiva) [in+exhalation](niśvāse) [Godasi?](godāsītkāra) [in+action](karmaṇi)
+Kaveri (kāverī) and-indeed (caiva) in-exhalation (niśvāse) cow-gift (godā) thus (it) action (karmaṇi)
 
 ## mukta-m0-p23-v567
-[in+pure+saliva+acts](amalālāpakṛtyeṣu) [mind+rest](cittaviśrāṃti) [leader](nāyakā)
+in-pure-saliva-acts (amala+ālāpa+kṛtyeṣu) mind-rest (cittaviśrāṃti) leader (nāyakā)
 
 ## mukta-m0-p23-v568
-[speech+lordship](vākptiḥ) [in+pleasant+hum](sukhahuṃkāre) [in+speech+lord+roof+sound](gīṣpatīkākukādhvanau)
+speech-power (vākptiḥ) in-pleasant-hum (sukha+huṃkāre) speech-lord (gīṣpati) cuckoo (kākuka) sound (dhvanau)
 
 ## mukta-m0-p23-v569
-[Indra](iṃdraḥ) [in+mind+elevation](cittasamunnatyām) [fire](agniḥ) [thing](vastu) [swallows](grasītu) [in+ray](viṣi)
+Indra (iṃdraḥ) in-mind-elevation (cittasamunnatyām) fire (agniḥ) thing (vastu) swallows (grasīt) in-ray (viṣi)
 
 ## mukta-m0-p23-v570
-[in+hand+movement](hastādicālane) [sacrifice](yajñaḥ) [in+embrace](tvāśleṣe) [sacrifice+person](yajñapūruṣaḥ)
+in-hand-movement (hastādi+cālane) sacrifice (yajñaḥ) and (tu) in-embrace (āśleṣe) sacrifice-person (yajñapūruṣaḥ)
 
 ## mukta-m0-p23-v571
-[dance](lāsyaṃ) [and](ca) [tandava](tāṃḍavaṃ) [goddess](devi) [her](tasyā) [body+movement](dehādi) [whirling](ghūrṇane)
+dance (lāsyam) and (ca) tandava (tāṃḍavam) goddess (devi) her (tasyāḥ) body (deha) etc (ādi) whirling (ghūrṇane)
 
 ## mukta-m0-p23-v572
-[those+all](tānisarvāṇi) [occurs](varttate) [in+her+mouthful+thing](tasyāgaṃḍūṣavastuni)
+those (tāni) all (sarvāṇi) occur (varttate) in-her (tasyāḥ) mouthful (gaṃḍūṣa) thing (vastuni)
 
 ## mukta-m0-p23-v573
-[that+fruit](tatphalaṃ) [obtains](labhate) [messenger](dūtī) [nectar+mouthful](sudhāgaṃḍūṣa) [by+drinking](sevanāt)
+that-fruit (tatphalam) obtains (labhate) messenger (dūtī) nectar-mouthful (sudhāgaṃḍūṣa) by-consuming (sevanāt)
 
 ## mukta-m0-p23-v574
-[mouthful+first](gaṃḍūṣamādiraṃ) [goddess](devī) [hero's+bliss+increasing](vīrasyānaṃda) [increasing](varddhanam)
+mouthful (gaṃḍūṣam) first (ādiram) goddess (devī) of-hero (vīrasya) bliss (ānaṃda) increasing (varddhanam)
 
 ## mukta-m0-p23-v575
-[ever+wet+nectar](nityaklinnāsudhā) [goddess](devī) [love](rati) [delight+and](prītiśca) [in+that+part](tadbhage)
+ever-moist (nityaklinnā) nectar (sudhā) goddess (devī) love (rati) pleasure (prītiḥ) and (ca) in-that-part (tadbhage)
