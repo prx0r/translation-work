@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p18-v426
-limbless-powers eight indeed worship-worthy by-wise
+[anaṃga](anaṃga) [śakti](śakti) [aṣṭau](aṣṭau) [tu](tu) [pūjanīya](pūjanīya) [manīṣibhiḥ](manīṣibhiḥ)
 
 ## mukta-m0-p18-v427
-limbless-love-limbless love-afflicted with
+[anaṃga](anaṃga) [madana](madana) [anaṃga](anaṃga) [madana](madana) [āturayā](āturayā) [saha](saha)
 
 ## mukta-m0-p18-v428
-limbless-garlanded and-eight worship-worthy by-rite
+[anaṃga](anaṃga) [mālinī](mālinī) [ca](ca) [aṣṭau](aṣṭau) [pūjanīya](pūjanīya) [vidhānataḥ](vidhānataḥ)
 
 ## mukta-m0-p18-v429
-bliss-wheel-bliss uproar-increasing
+[ānaṃda](ānaṃda) [cakra](cakra) [ānaṃda](ānaṃda) [kolāhala](kolāhala) [vivarddhana](vivarddhana)
 
 ## mukta-m0-p18-v430
-lightning-radiance joyous-cages with-desire-rays
+[taṭit](taṭit) [prabhā](prabhā) [samullāsa](samullāsa) [piṃjara](piṃjara) [kāma](kāma) [raśmi](raśmi)
 
 ## mukta-m0-p18-v431
-limbless-power agitation channels-from-flowing new
+[anaṃga](anaṃga) [śakti](śakti) [saṃkṣobha](saṃkṣobha) [nāḍī](nāḍī) [galita](galita) [nava](nava)
 
 ## mukta-m0-p18-v432
-erotic-flow-full full-passion red-gold
+[śṛṃgāra](śṛṃgāra) [vāhinī](vāhinī) [pūra](pūra) [pūrṇa](pūrṇa) [rāga](rāga) [kurāruṇa](kurāruṇa)
 
 ## mukta-m0-p18-v433
-love-fluid abundance enjoyed-meaning-distinctions
+[manmatha](manmatha) [drava](drava) [saṃdoha](saṃdoha) [juṣṭa](juṣṭa) [artha](artha) [prabhedana](prabhedana)
 
 ## mukta-m0-p18-v434
-who-this moon-digit-named where resides shankara
+[ka](ka) [iyaṃ](iyaṃ) [caṃdrakalā](caṃdrakalā) [nāma](nāma) [kutra](kutra) [tiṣṭhati](tiṣṭhati) [śaṃkara](śaṃkara)
 
 ## mukta-m0-p18-v435
-listen-desire-digit-named channel-enjoyment-water-flowing
+[śṛṇu](śṛṇu) [kāma](kāma) [kalā](kalā) [nāma](nāma) [nāḍī](nāḍī) [bhoga](bhoga) [aṃbu](aṃbu) [vāhinī](vāhinī)
 
 ## mukta-m0-p18-v436
-channel-wheel all and by-her pervaded beautiful-faced
+[nāḍī](nāḍī) [cakra](cakra) [samasta](samasta) [ca](ca) [tayā](tayā) [vyāpta](vyāpta) [varānane](varānane)
 
 ## mukta-m0-p18-v437
-some-bliss-flowing one-thus-impurity-flowing
+[kāścit](kāścit) [ānaṃda](ānaṃda) [vāhinī](vāhinī) [eka](eka) [eva](eva) [amala](amala) [vāhinī](vāhinī)
 
 ## mukta-m0-p18-v438
-eight-enjoyment-water-flowing in-them moon-digit supreme
+[aṣṭau](aṣṭau) [bhoga](bhoga) [aṃbu](aṃbu) [vāhinī](vāhinī) [tāsu](tāsu) [caṃdrakalā](caṃdrakalā) [parā](parā)
 
 ## mukta-m0-p18-v439
-moon-streak moon-possessing and moon-great-rise
+[caṃdrarekhā](caṃdrarekhā) [caṃdravatī](caṃdravatī) [tathā](tathā) [caṃdra](caṃdra) [mahodayā](mahodayā)
 
 ## mukta-m0-p18-v440
-these-enjoyment-water-flowing own-parts-moon-digit-supported
+[etā](etā) [bhoga](bhoga) [aṃbu](aṃbu) [vāhinī](vāhinī) [svāṃśa](svāṃśa) [caṃdrakalā](caṃdrakalā) [āśritā](āśritā)
 
 ## mukta-m0-p18-v441
-principal-being shining-lightning-garland equal-radiance
+[pradhāna](pradhāna) [bhūta](bhūta) [vilasat](vilasat) [vidyut](vidyut) [dāma](dāma) [sama](sama) [prabhā](prabhā)
 
 ## mukta-m0-p18-v442
-all-channels-root-being navel-wheel supported
+[sarva](sarva) [nāḍī](nāḍī) [mūla](mūla) [bhūta](bhūta) [nābhi](nābhi) [cakra](cakra) [samāśrita](samāśrita)
 
 ## mukta-m0-p18-v443
-that-mouth-opening in-world rare supreme-lady
+[tat](tat) [mukha](mukha) [udghāṭana](udghāṭana) [loka](loka) [durlabha](durlabha) [parameśvarī](parameśvarī)
 
 ## mukta-m0-p18-v444
-two-three-only born thousands-among-then-kaulis
+[dvi](dvi) [trāṇām](trāṇām) [eva](eva) [jāyeta](jāyeta) [sahasreṣu](sahasreṣu) [atha](atha) [kauliṣu](kauliṣu)
 
 ## mukta-m0-p18-v445
-whose linga-lord-union once-indeed-birth
+[yasya](yasya) [liṃga](liṃga) [īśvara](īśvara) [seka](seka) [sakṛt](sakṛt) [vā](vā) [api](api) [janmani](janmani)
 
 ## mukta-m0-p18-v446
-inexpressible liberation path-incomparable
+[anirvācya](anirvācya) [nirvāṇa](nirvāṇa) [padavī](padavī) [nadaviyasī](nadaviyasī)
 
 ## mukta-m0-p18-v447
-convention's thorough-knowledge from-ritual's construction
+[samaya](samaya) [parijñāna](parijñāna) [upacāra](upacāra) [kalpanāt](kalpanāt)
 
 ## mukta-m0-p18-v448
-sometimes somewhere opening mouth-opening-mark
+[kadācit](kadācit) [kvacid](kvacid) [unmeṣa](unmeṣa) [mukha](mukha) [udghāṭana](udghāṭana) [lakṣaṇa](lakṣaṇa)
 
 ## mukta-m0-p18-v449
-that-purpose-only-scriptures that-purpose-and activities
+[tat](tat) [artha](artha) [eva](eva) [śāstra](śāstra) [tad](tad) [artha](artha) [pravṛtti](pravṛtti)
 
 ## mukta-m0-p18-v450
-therefore-moon-digit-channel enjoyment-nectar-great-ocean
+[tasmāt](tasmāt) [caṃdrakalā](caṃdrakalā) [nāḍī](nāḍī) [bhoga](bhoga) [amṛta](amṛta) [mahodadhi](mahodadhi)

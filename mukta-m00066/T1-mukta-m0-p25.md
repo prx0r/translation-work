@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p25-v601
-[bed's](śayyāyā) [northern](uttare) [part](bhāge) [having-placed](sthāpayitvā) [ever-nectar](sadāmṛtam)
+[bed-genitive](śayyāyā) [northern-part](uttare) [limb](bhāge) [placing](sthāpayitvā) [eternal-nectar](sadāmṛtam)
 
 ## mukta-m0-p25-v602
-[pūrṇa-pot](pūrṇakuṃbhaṃ) [its](tasya) [mouth](mukhe) [lotus-one](paṭmamekaṃ) [should-contemplate](viciṃtayet)
+[full-pot](pūrṇakuṃbhaṃ) [its](tasya) [mouth](mukhe) [lotus-one](paṭmamekaṃ) [contemplate](viciṃtayet)
 
 ## mukta-m0-p25-v603
-[ever-cupid-intoxicated-self](sadāmadanamattātmā) [noose-goad-excellent-hand](pāśāṃkuśalasatkaraḥ)
+[eternal-love-intoxicated-self](sadāmadanamattātmā) [noose-goad-excellent-hand](pāśāṃkuśalasatkaraḥ)
 
 ## mukta-m0-p25-v604
-[lap-seated](aṃkasthitāyā) [intoxicated](mattāyāḥ) [siddhi-lakshmi's-yoni-between](siddhilakṣmībhagāṃtare)
+[lap-seated](aṃkasthitāyā) [intoxicated](mattāyāḥ) [accomplishment-lakshmi-between-bhaga](siddhilakṣmībhagāṃtare)
 
 ## mukta-m0-p25-v605
-[her-and](tasyāśca) [hand-lotus](karapadmena) [new-sprout-charming](navapallavacāruṇā)
+[her](tasyāśca) [lotus-hand](karapadmena) [new-sprout-charming](navapallavacāruṇā)
 
 ## mukta-m0-p25-v606
-[siddhi-lakshmi](siddhilakṣmī) [yoni-stream](bhagasrota) [nectar-drinking-languid](śīdhupānamadālasaḥ)
+[accomplishment-lakshmi](siddhilakṣmī) [bhaga-stream](bhagasrota) [nectar-drink-intoxicated-languid](śīdhupānamadālasaḥ)
 
 ## mukta-m0-p25-v607
-[siddhi-lakshmi's-delight](siddhilakṣmīrati) [sweat](sveta) [dispelling-ear-clapping](vinudankarṇatālanaiḥ)
+[accomplishment-lakshmi](siddhilakṣmīrati) [sweat](sveta) [dispelling-ear-clapping](vinudankarṇatālanaiḥ)
 
 ## mukta-m0-p25-v608
-[siddhi-lakshmi](siddhilakṣmī) [falls-indeed](patedeva) [shakti-heramba-form](śaktiherambavigraha)
+[accomplishment-lakshmi](siddhilakṣmī) [falls-indeed](patedeva) [shakti-heramba-form](śaktiherambavigraha)
 
 ## mukta-m0-p25-v609
-[thus-by-this-mantra](ityanenaiva) [mantra](maṃtreṇa) [done-flower-anjali](kṛtapuṣpāṃjali) [rite](kriyaḥ)
+[thus-by-this-mantra](ityanenaiva) [mantra](maṃtreṇa) [flower-offering-rite](kṛtapuṣpāṃjali) [kriya](kriyaḥ)
 
 ## mukta-m0-p25-v610
-[messenger's-and](dūtyāśca) [form](vigrahe) [flower-one-thus](puṣpamekamevaṃ) [should-deposit](vinikṣipet)
+[messenger](dūtyāśca) [form](vigrahe) [flower-one-thus](puṣpamekamevaṃ) [deposit](vinikṣipet)
 
 ## mukta-m0-p25-v611
-[self+nature](ātmasvarūpa) [perfection+joy+here+bring](saṃsiddhyaitamānaṃdamihānaye)
+[self-nature-accomplishment-bliss-here-bring](ātmasvarūpa saṃsiddhyaitamānaṃdamihānaye)
 
 ## mukta-m0-p25-v612
-[self+nature](ātmasvarūpa) [perfection+joy+here+bring](saṃsiddhyaitamānaṃdamihānaye)
+[self-nature-accomplishment-bliss-here-bring](ātmasvarūpa saṃsiddhyaitamānaṃdamihānaye)
 
 ## mukta-m0-p25-v613
-[self+nature](ātmasvarūpa) [perfection+joy+here+bring](saṃsiddhyaitamānaṃdamihānaye)
+[self-nature-accomplishment-bliss-here-bring](ātmasvarūpa saṃsiddhyaitamānaṃdamihānaye)
 
 ## mukta-m0-p25-v614
-[vasus'-gen](vasūnāṃ) [vasu-wives'-gen](vasupatnīnāṃ) [who](ya) [joy-great-lord](ānaṃdamaheśvaraḥ)
+[vasus](vasūnāṃ) [vasu-wives](vasupatnīnāṃ) [who](ya) [bliss-great-lord](ānaṃdamaheśvaraḥ)
 
 ## mukta-m0-p25-v615
-[self+nature](ātmasvarūpa) [perfection+joy+here+bring](saṃsiddhyaitamānaṃdamihānaye)
+[self-nature-accomplishment-bliss-here-bring](ātmasvarūpa saṃsiddhyaitamānaṃdamihānaye)
 
 ## mukta-m0-p25-v616
-[self+nature+perfection+joy+here+bring](ātmasvarūpasaṃsiddhyaitamānaṃdamihānaye)
+[self-nature-accomplishment-bliss-here-bring](ātmasvarūpasaṃsiddhyaitamānaṃdamihānaye)
 
 ## mukta-m0-p25-v617
-[self+nature](ātmasvarūpa) [perfection+joy+here+bring](saṃsiddhyaitamānaṃdamihānaye)
+[self-nature-accomplishment-bliss-here-bring](ātmasvarūpa saṃsiddhyaitamānaṃdamihānaye)
 
 ## mukta-m0-p25-v618
-[self+nature](ātmasvarūpa) [perfection+joy+here+bring](saṃsiddhyaitamānaṃdamihānaye)
+[self-nature-accomplishment-bliss-here-bring](ātmasvarūpa saṃsiddhyaitamānaṃdamihānaye)
 
 ## mukta-m0-p25-v619
-[self+nature](ātmasvarūpa) [perfection+joy+here+bring](saṃsiddhyaitamānaṃdamihānaye)
+[self-nature-accomplishment-bliss-here-bring](ātmasvarūpa saṃsiddhyaitamānaṃdamihānaye)
 
 ## mukta-m0-p25-v620
-[self+nature](ātmasvarūpa) [perfection+joy+here+bring](saṃsiddhyaitamānaṃdamihānaye)
+[self-nature-accomplishment-bliss-here-bring](ātmasvarūpa saṃsiddhyaitamānaṃdamihānaye)
 
 ## mukta-m0-p25-v621
-[self+nature](ātmasvarūpa) [perfection+joy+here+bring](saṃsiddhyaitamānaṃdamihānaye)
+[self-nature-accomplishment-bliss-here-bring](ātmasvarūpa saṃsiddhyaitamānaṃdamihānaye)
 
 ## mukta-m0-p25-v622
-[therefore-food-sheath](tasmādannamayaṃ) [sheath](kośaṃ) [blissful-state](ānaṃdamayatāṃ) [lead](nayet)
+[therefore-food-sheath](tasmādannamayaṃ) [bliss-sheath-into-lead](kośaṃ ānaṃdamayatāṃ nayet)
 
 ## mukta-m0-p25-v623
-[therefore](tasmāt) [prana-sheath](prāṇamayaṃ) [sheath](krośam) [blissful-state](ānaṃdamayatāṃ) [lead](nayet)
+[therefore-vital-sheath](tasmāt prāṇamayaṃ) [bliss-sheath-into-lead](krośamānaṃdamayatāṃ nayet)
 
 ## mukta-m0-p25-v624
-[therefore-mind-sheath](tasmānmanomayaṃ) [sheath](kośam) [blissful-state](ānaṃdamayatāṃ) [lead](nayet)
+[therefore-mind-sheath](tasmānmanomayaṃ) [bliss-sheath-into-lead](kośamānaṃdamayatāṃ nayet)
 
 ## mukta-m0-p25-v625
-[that-knowledge-sheath](tadvijñānamayaṃ) [sheath](kośam) [blissful-state](anaṃdamayatāṃ) [lead](nayet)
+[that-knowledge-sheath](tadvijñānamayaṃ) [bliss-sheath-into-lead](kośamanaṃdamayatāṃ nayet)

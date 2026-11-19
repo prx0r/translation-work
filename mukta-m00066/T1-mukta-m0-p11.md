@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p11-v251
-[word](ābaddhapāṭalollo) [word](ca) [word](maṇidarpaṇa) [word](cāmaram)
+[bound-red-lotus](ābaddhapāṭalollo) [ca](ca) [jewel-mirror](maṇidarpaṇa) [ca](ca) [whisk](cāmaram)
 
 ## mukta-m0-p11-v252
-[word](saṃpūritaṃ) [word](bahuvidhaiḥ) [word](naivedyairatiśobhanaiḥ)
+[filled](saṃpūritaṃ) [with-many-kinds](bahuvidhaiḥ) [offerings](naivedyairatiśobhanaiḥ)
 
 ## mukta-m0-p11-v253
-[word](trividhaiśca) [word](manohāri) [word](saurabhyaiḥ) [word](sarakairapi)
+[three-kinds](trividhaiśca) [mind-charming](manohāri) [fragrances](saurabhyaiḥ) [with-liquors](sarakairapi)
 
 ## mukta-m0-p11-v254
-[word](piṣṭapaṃcāṃgulodāraṃ) [word](pūrṇakuṃbhasamāyutam)
+[pounded-five-fingered-generous](piṣṭapaṃcāṃgulodāraṃ) [full-pot-together](pūrṇakuṃbhasamāyutam)
 
 ## mukta-m0-p11-v255
-[word](sarvakarmaṇipaṭvībhiranukūlapravṛttibhiḥ)
+[all-works-skillful](sarvakarmaṇipaṭvībhiranukūlapravṛttibhiḥ)
 
 ## mukta-m0-p11-v256
-[word](praviśyayāgasadanaṃ) [word](pīṭhamaṃtreṇa) [word](kaṃbale)
+[entering](praviśyayāgasadanaṃ) [seat-mantra](pīṭhamaṃtreṇa) [on-blanket](kaṃbale)
 
 ## mukta-m0-p11-v257
-[word](tathāgaṇapatiṃ) [word](dhyātvā) [word](tanmaṃtreṇābhi) [word](pūjayet)
+[thus](tathā) [gaṇapati](gaṇapatiṃ) [meditating](dhyātvā) [that-mantra](tanmaṃtreṇābhi) [worship](pūjayet)
 
 ## mukta-m0-p11-v258
-[word](siṃhāsana) [word](maheśānīmarcayetripurāṃbikām)
+[lion-seat](siṃhāsana) [great-lady](maheśānīmarcayetripurāṃbikām)
 
 ## mukta-m0-p11-v259
-[word](ratnadvipaṃ) [word](tataḥ) [word](paścānnānāvṛkṣamahāvanam)
+[jewel-elephant](ratnadvipaṃ) [then](tataḥ) [after](paścānnānāvṛkṣamahāvanam)
 
 ## mukta-m0-p11-v260
-[word](gomedhikasya) [word](prākāraṃ) [word](vajraprākārameva) [word](ca)
+[gomedhika-wall](gomedhikasya) [prākāraṃ](prākāraṃ) [vajra-wall](vajraprākārameva) [ca](ca)
 
 ## mukta-m0-p11-v261
-[word](muktāmayaṃ) [word](ca) [word](prākāraṃ) [word](tadāmṛtakaraṃmayam)
+[pearl-made](muktāmayaṃ) [ca](ca) [wall](prākāraṃ) [then](tadāmṛtakaraṃmayam)
 
 ## mukta-m0-p11-v262
-[word](sahasrastaṃbhanilayaṃ) [word](sudhā) [word](vāṭimanaṃtaram)
+[thousand-pillared-abode](sahasrastaṃbhanilayaṃ) [nectar](sudhā) [garden](vāṭimanaṃtaram)
 
 ## mukta-m0-p11-v263
-[word](bālātapasamudgāraṃ) [word](caṃdrikād) [word](gārameva) [word](ca)
+[morning-sun-ray](bālātapasamudgāraṃ) [moonlight](caṃdrikād) [gārameva](gārameva) [ca](ca)
 
 ## mukta-m0-p11-v264
-[word](ciṃtāmaṇigṛhaṃ) [word](caiva) [word](gṛharājaṃ) [word](samarcayet)
+[wish-jewel-house](ciṃtāmaṇigṛhaṃ) [ca](ca) [eva](eva) [house-king](gṛharājaṃ) [worship](samarcayet)
 
 ## mukta-m0-p11-v265
-[word](ratnapradīpavalayaṃ) [word](madhye) [word](siṃhāsanaṃ) [word](tathā)
+[jewel-lamp-circle](ratnapradīpavalayaṃ) [middle](madhye) [lion-seat](siṃhāsanaṃ) [tathā](tathā)
 
 ## mukta-m0-p11-v266
-[word](pādopariṣṭaphalakairarcitaṃ) [word](maṃcamarcayet)
+[foot-above-plank](pādopariṣṭaphalakairarcitaṃ) [couch](maṃcamarcayet)
 
 ## mukta-m0-p11-v267
-[word](mūlenamadhyamabhyarcya) [word](mūlakhaṃḍaistrikoṇakam)
+[root-middle](mūlenamadhyamabhyarcya) [root-pieces](mūlakhaṃḍaistrikoṇakam)
 
 ## mukta-m0-p11-v268
-[word](triḥprāṇān) [word](samudāyamya) [word](bhūtāvaraṇavidyayā)
+[three-breaths](triḥprāṇān) [gathering](samudāyamya) [element-covering-vidyā](bhūtāvaraṇavidyayā)
 
 ## mukta-m0-p11-v269
-[word](karaśuddhakhyamanunākaraśuddhiṃ) [word](vidārayan)
+[hand-purification](karaśuddhakhyamanunākaraśuddhiṃ) [vidārayan](vidārayan)
 
 ## mukta-m0-p11-v270
-[word](devyātmāsanamaṃtreṇa) [word](svasyāsanamudīritam)
+[goddess-seat-mantra](devyātmāsanamaṃtreṇa) [own-seat](svasyāsanamudīritam)
 
 ## mukta-m0-p11-v271
-[word](maṃtrāṇāmāsane) [word](sarvamaṃtrāsanamanuṃ) [word](viduḥ)
+[mantras](maṃtrāṇāmāsane) [all-mantra-seat](sarvamaṃtrāsanamanuṃ) [know](viduḥ)
 
 ## mukta-m0-p11-v272
-[word](iti) [word](pīṭhānisaṃkalpya) [word](bālāvṛtyā) [word](ṣaḍaṃgakam)
+[thus](iti) [seats](pīṭhānisaṃkalpya) [bālā-covering](bālāvṛtyā) [six-limbed](ṣaḍaṃgakam)
 
 ## mukta-m0-p11-v273
-[word](svaraistuvaśinī) [word](yuktā) [word](śirasinyasyate) [word](priye)
+[tones](svaraistuvaśinī) [yuktā](yuktā) [śirasinyasyate](śirasinyasyate) [priye](priye)
 
 ## mukta-m0-p11-v274
-[word](modinī) [word](tu) [word](bhruvormadhye) [word](ca) [word](vargena) [word](samanvitā)
+[modinī](modinī) [tu](tu) [between-brows](bhruvormadhye) [ca](ca) [with-group](vargena) [samanvitā](samanvitā)
 
 ## mukta-m0-p11-v275
-[word](aruṇāhṛdayet) [word](yasyāt) [word](tavargeṇavibhūṣitā)
+[aruṇā](aruṇāhṛdayet) [yasyāt](yasyāt) [tavargeṇavibhūṣitā](tavargeṇavibhūṣitā)
