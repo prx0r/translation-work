@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p98-v2426
-[paralysis](stambhanaṃ) [arises](jāyate) [quickly](kṣipraṃ) [debater](vādi)+[desiring](kāmi)+[people](jana)+[of-waters](ambhasām)
+[stopping](stambhanaṃ) [quickly](kṣipraṃ) [arises](jāyate) [of-water-users](vādikāmijanāmbhasām)
 
 ## mukta-m0-p98-v2427
-[oblation](homo) [as-tenth-part](daśāṃśataḥ) [to-be-done](kāryo) [ghee](ghṛta)+[lotus-seed](padmākṣa)+[with-lotuses](paṅkajaiḥ)
+[homa](homo) [one-tenth](daśāṃśataḥ) [should-be-done](kāryo) [with-ghee-lotus-eye-lotus](ghṛtapadmākṣapaṅkajaiḥ)
 
 ## mukta-m0-p98-v2428
-[of-gods](devānāṃ) [of-demons](dānavānāṃ) [and](ca) [what](kā) [mention](kathā) [small](alpa)+[of-intellect](dhiyāṃ) [of-men](nṛṇām)
+[of-gods](devānāṃ) [of-demons](dānavānāṃ) [and](ca) [what-need](kā) [to-say](kathā) [of-small-minded](alpadhiyāṃ) [of-men](nṛṇām)
 
 ## mukta-m0-p98-v2429
-[cane](vetasī)+[root](mūla)+[situated-at](go) [or](vā)+[even](api) [one-should-offer](hunet) [there](tatra) [as-tenth-part](daśāṃśataḥ)
+[with-vetas-root](vetasīmūlago) [or](vāpi) [should-offer](hunet) [there](tatra) [one-tenth](daśāṃśataḥ)
 
 ## mukta-m0-p98-v2430
-[ten-thousand](ayutaṃ) [one-should-recite](prajaped)+[at-night](rātrau) [empty](śūnya)+[in-house](āgāre) [O-Kuleśvarī](kuleśvari)
+[ten-thousand](ayutaṃ) [should-recite](prajaped) [at-night](rātrau) [in-empty-house](śūnyāgāre) [o-lady-of-family](kuleśvari)
 
 ## mukta-m0-p98-v2431
-[monkey](kapi)+[with-seeds](bījair)+[even](api) [in-morning](prātar)+[would-be](bhaved)+[attraction](ākarṣaṇaṃ) [of-woman](striyām)
+[with-monkey-seeds](kapibījairapi) [in-morning](prātar) [becomes](bhaved) [attraction](ākarṣaṇaṃ) [of-women](striyām)
 
 ## mukta-m0-p98-v2432
-[ghee](ājya)+[lotus](abja)+[kṣura-grass](kṣura)+[pāṣāṇḍa](pāṣāṇḍa) [red](rakta)+[flowers](puṣpāṇi) [O-Pārvatī](pārvati)
+[with-ghee-lotus-sugarcane-stone](ājyābjakṣurapāṣāṇḍa) [red-flowers](raktapuṣpāṇi) [o-parvati](pārvati)
 
 ## mukta-m0-p98-v2433
-[ten-thousand](ayutaṃ) [should-recite](prajapen)+[root-mantra](mūlaṃ) [practitioner](sādhako)+[sacred-fig](aśvattha)+[root](mūla)+[situated-at](gaḥ)
+[ten-thousand](ayutaṃ) [should-recite-root](prajapenmūlaṃ) [practitioner](sādhako) [at-asvattha-root](aśvatthamūlagaḥ)
 
 ## mukta-m0-p98-v2434
-[enemy](ripum)+[should-expel](uccāṭayet) [quickly](śīghraṃ) [even-if](yadi) [Indra](śakra)+[equal-to](samo) [he-be](bhavet)
+[enemy](ripum) [should-destroy-quickly](uccāṭayet+śīghraṃ) [if](yadi) [indra-like](śakrasamo) [becomes](bhavet)
 
 ## mukta-m0-p98-v2435
-[questioner](prac)+[questioner](chakaḥ) [questioner](prac)+[questioner](chakaḥ)
+[pracchakaḥ](pracchakaḥ)
 
 ## mukta-m0-p98-v2436
-[ten-thousand](ayutaṃ) [should-recite](prajapen)+[root-mantra](mūlaṃ) [sport](līlo)+[garden](pavana)+[in-circle](maṇḍale)
+[ten-thousand](ayutaṃ) [should-recite-root](prajapenmūlaṃ) [in-play-grove-circle](līlopavanamaṇḍale)
 
 ## mukta-m0-p98-v2437
-[with-quarters](pādair)+[with-eight](aṣṭabhir)+[O-Īśānī](īśāni) [immediately](sadyaḥ) [prosperity](puṣṭiḥ) [is-produced](prajāyate)
+[with-eight-feet](pādairaṣṭabhirīśāni) [immediately](sadyaḥ) [nourishment](puṣṭiḥ) [arises](prajāyate)
 
 ## mukta-m0-p98-v2438
-[Durgā](durgā)+[secret](rahasya)+[being](bhūto)+[even](pi) [to-be-concealed](gopanīyo) [by-seekers-of-liberation](mumukṣubhiḥ)
+[secret-of-durga](durgārahasyabhūto) [also](api) [should-be-hidden](gopanīyo) [by-liberation-seekers](mumukṣubhiḥ)
 
 ## mukta-m0-p98-v2439
-[six](ṣaṭ)+[fortieth](catvāriṃśaḥ) [chapter](paṭalaḥ) [six](ṣaṭ)+[fortieth](catvāriṃśaḥ)
+[forty-sixth](ṣaṭcatvāriṃṣaḥ) [chapter](paṭalaḥ)
 
 ## mukta-m0-p98-v2440
-[of-which](yasyāḥ) [hearing](śravaṇa)+[by-mere](mātreṇa) [ten-million](koṭi)+[sacrifice](yajña)+[fruit](phalaṃ) [one-obtains](labhet)
+[of-whom](yasyāḥ) [by-merely-hearing](śravaṇamātreṇa) [ten-million-sacrifice-fruit](koṭiyajñaphalaṃ) [obtains](labhet)
 
 ## mukta-m0-p98-v2441
-[seven](sapta)+[fortieth](catvāriṃśaḥ) [chapter](paṭalaḥ) [seven](sapta)+[fortieth](catvāriṃśaḥ)
+[forty-seventh](saptacatvāriṃśaḥ) [chapter](paṭalaḥ)
 
 ## mukta-m0-p98-v2442
-[of-Durgā](durgāyāḥ) [essence](sāra)+[whole-wealth](sarvasvaṃ) [armor](kavace)+[lord](śvara)+[named](saṃjñakam)
+[of-durga](durgāyāḥ) [essence-of-all](sārasarvasvaṃ) [named-kavaceshvara](kavaceśvarasaṃjñakam)
 
 ## mukta-m0-p98-v2443
-[yogi](yogi)+[dear-to](priyaṃ) [yoga](yoga)+[accessible-to](gamyaṃ) [of-gods](devānām)+[even](api) [hard-to-obtain](durlabham)
+[dear-to-yogis](yogipriyaṃ) [attainable-by-yoga](yogagamyaṃ) [of-gods](devānām) [also](api) [rare](durlabham)
 
 ## mukta-m0-p98-v2444
-[from-retention](dhāraṇād)+[of-this](asya) [O-lady-of-gods](deveśi) [Śiva](śivas)+[three-worlds](trailokya)+[lord](nāyakaḥ)
+[by-wearing-it](dhāraṇādasya) [o-goddess](deveśi) [shiva](śivastrailokyanāyakaḥ)
 
 ## mukta-m0-p98-v2445
-[Brahmā](brahmā) [O-Pārvatī](pārvati) [lord-of-world](lokeśo) [obstacle](vighna)+[destroyer](dhvaṃsī) [elephant](gaja)+[faced](ānanaḥ)
+[brahma](brahmā) [parvati](pārvati) [world-lord](lokeśo) [obstacle-destroyer](vighnadhvaṃsī) [ganesha](gajānanaḥ)
 
 ## mukta-m0-p98-v2446
-[sun](sūryas)+[darkness](tamo)+[remover](pahaś)+[and](ca)+[indeed](eva) [moon](candro)+[nectar](amṛta)+[treasure](nidhis)+[likewise](tathā)
+[sun](sūryastamopahaścaiva) [moon](candro) [nectar-treasury](amṛtanidhistathā)
 
 ## mukta-m0-p98-v2447
-[mortal](martyo)+[even](py)+[immortality](amaratāṃ) [attains](yāti) [practitioner](sādhako) [mantra](mantra)+[accomplisher](sādhakaḥ)
+[mortal](martyo) [also](api) [immortality](amaratāṃ) [attains](yāti) [practitioner](sādhako) [mantra-practitioner](mantrasādhakaḥ)
 
 ## mukta-m0-p98-v2448
-[meter](chando)+[anuṣṭubh](nuṣṭup) [O-beloved](priye) [Durgā](durgā) [deity](devatā)+[eight](aṣṭā)+[syllabled](kṣarā) [declared](smṛtā)
+[meter-anushtubh](chando) [dear](anuṣṭup) [priye](priye) [durga](durgā) [deity-eight-syllable](devatāṣṭākṣarā) [remembered](smṛtā)
 
 ## mukta-m0-p98-v2449
-[dharma](dharma)+[wealth](artha)+[desire](kāma)+[liberation](mokṣa)+[for-sake](arthe) [application](viniyoga) [thus](iti) [declared](smṛtaḥ)
+[for-dharma-artha-kama-moksha](dharmārthakāmamokṣārthe) [application](viniyoga) [thus](iti) [remembered](smṛtaḥ)
 
 ## mukta-m0-p98-v2450
-[duṃ](duṃ) [eyes](netre)+[eight-syllabled](ṣṭākṣarā) [may-protect](pātu) [discus-holder](cakrī) [may-protect](pātu) [ears](śrutī) [my](mama)
+[duṃ](duṃ) [eyes](netre) [eight-syllable](aṣṭākṣarā) [may-protect](pātu) [cakrī](cakrī) [may-protect](pātu) [ears](śrutī) [mine](mama)
