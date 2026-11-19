@@ -2,52 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p32-v776
-[term](arcayelliṃgamīśānamiyamādyā) [term](mayāhutiḥ)
+[pada](arcayelliṃgamīśānamiyamādyā) [pada](mayāhutiḥ)
+
 ## mukta-m0-p32-v777
-[term](caṃdragarbheti) [term](kāpyasti) [term](nāḍīnalinalocane)
+[pada](caṃdragarbheti) [pada](kāpyasti) [pada](nāḍīnalinalocane)
+
 ## mukta-m0-p32-v778
-[term](tatratyamamṛtaṃ) [term](viddhi) [term](kāmeśvaryuktibhūtidam)
+[pada](tatratyamamṛtaṃ) [pada](viddhi) [pada](kāmeśvaryuktibhūtidam)
+
 ## mukta-m0-p32-v779
-[term](īṣatpāṭalavarṇaṃ) [term](ca) [term](yūthikāsamasaurabham)
+[pada](īṣatpāṭalavarṇaṃ) [pada](ca) [pada](yūthikāsamasaurabham)
+
 ## mukta-m0-p32-v780
-[term](sabhavatyaṃ) [term](samāpanno) [term](jaladatvaṃ) [term](vaśīkriyāt)
+[pada](sabhavatyaṃ) [pada](samāpanno) [pada](jaladatvaṃ) [pada](vaśīkriyāt)
+
 ## mukta-m0-p32-v781
-[term](na) [term](sarodeva) [term](svāteṣu) [term](skhalitaṃ) [term](gamanaṃ) [term](bhavet)
+[pada](na) [pada](sarodeva) [pada](svāteṣu) [pada](skhalitaṃ) [pada](gamanaṃ) [pada](bhavet)
+
 ## mukta-m0-p32-v782
-[term](caṃdonmattā) [term](padasthāne) [term](caṃdragarbhā) [term](prakīrttitā)
+[pada](caṃdonmattā) [pada](padasthāne) [pada](caṃdragarbhā) [pada](prakīrttitā)
+
 ## mukta-m0-p32-v783
-[term](atradūtyāḥ) [term](śarīrasya) [term](pūrvatrāpi) [term](daśābruve)
+[pada](atradūtyāḥ) [pada](śarīrasya) [pada](pūrvatrāpi) [pada](daśābruve)
+
 ## mukta-m0-p32-v784
-[term](īṣadāraktatānetre) [term](kiṃcidbhūvallitāṃḍavaṃ)
+[pada](īṣadāraktatānetre) [pada](kiṃcidbhūvallitāṃḍavaṃ)
+
 ## mukta-m0-p32-v785
-[term](ānaṃdanātha) [term](bhavana) [term](bāhyakakṣyā) [term](vigāhanam)
+[pada](ānaṃdanātha) [pada](bhavana) [pada](bāhyakakṣyā) [pada](vigāhanam)
+
 ## mukta-m0-p32-v786
-[term](stanayoḥ) [term](pulakāṃkūraḥ) [term](gaṃḍayoścānuraktatā)
+[pada](stanayoḥ) [pada](pulakāṃkūraḥ) [pada](gaṃḍayoścānuraktatā)
+
 ## mukta-m0-p32-v787
-[term](evaṃ) [term](prakārā) [term](sā) [term](dūtī) [term](caṃdragarbhāmṛtadravaiḥ)
+[pada](evaṃ) [pada](prakārā) [pada](sā) [pada](dūtī) [pada](caṃdragarbhāmṛtadravaiḥ)
+
 ## mukta-m0-p32-v788
-[term](yajedānaṃdanāthaṃ) [term](sā) [term](vīravatphalamaśnute)
+[pada](yajedānaṃdanāthaṃ) [pada](sā) [pada](vīravatphalamaśnute)
+
 ## mukta-m0-p32-v789
-[term](arthāṃguli) [term](samunnamra) [term](taptakāṃcanasannibhā)
+[pada](arthāṃguli) [pada](samunnamra) [pada](taptakāṃcanasannibhā)
+
 ## mukta-m0-p32-v790
-[term](tasyāścaṃdriṇikānāyā) [term](bhūyoliṃgeśatāḍavāt)
+[pada](tasyāścaṃdriṇikānāyā) [pada](bhūyoliṃgeśatāḍavāt)
+
 ## mukta-m0-p32-v791
-[term](kādaṃbarī) [term](rasāmodīmānmadaṃtoya) [term](mudbhavet)
+[pada](kādaṃbarī) [pada](rasāmodīmānmadaṃtoya) [pada](mudbhavet)
+
 ## mukta-m0-p32-v792
-[term](godāvarī) [term](tīrthamayī) [term](tayā) [term](siṃcenmaheśvaram)
+[pada](godāvarī) [pada](tīrthamayī) [pada](tayā) [pada](siṃcenmaheśvaram)
+
 ## mukta-m0-p32-v793
-[term](rudratvasīmābhaktasya) [term](vahnitattva) [term](vaśīkṛtim)
+[pada](rudratvasīmābhaktasya) [pada](vahnitattva) [pada](vaśīkṛtim)
+
 ## mukta-m0-p32-v794
-[term](tanoti) [term](bhagavāneṣaḥ) [term](mahānaṃda) [term](maheśvaraḥ)
+[pada](tanoti) [pada](bhagavāneṣaḥ) [pada](mahānaṃda) [pada](maheśvaraḥ)
+
 ## mukta-m0-p32-v795
-[term](umedāhaṃ) [term](prayacchaṃti) [term](svayamagni) [term](mayoyataḥ)
+[pada](umedāhaṃ) [pada](prayacchaṃti) [pada](svayamagni) [pada](mayoyataḥ)
+
 ## mukta-m0-p32-v796
-[term](asyāmaṃtrastu) [term](suśroṇī) [term](śrūyatāmabhidhīyate)
+[pada](asyāmaṃtrastu) [pada](suśroṇī) [pada](śrūyatāmabhidhīyate)
+
 ## mukta-m0-p32-v797
-[term](arcayāmi) [term](bhavadgātra) [term](mataḥ) [term](siddhiṃ) [term](prayacchame)
+[pada](arcayāmi) [pada](bhavadgātra) [pada](mataḥ) [pada](siddhiṃ) [pada](prayacchame)
+
 ## mukta-m0-p32-v798
-[term](athānyanāḍikādevī) [term](yā) [term](sā) [term](caṃdramahodayā)
+[pada](athānyanāḍikādevī) [pada](yā) [pada](sā) [pada](caṃdramahodayā)
+
 ## mukta-m0-p32-v799
-[term](aṃtaḥ) [term](kiṃcicchyāmavarṇātriṣu) [term](sthāneṣu) [term](vakritā)
+[pada](aṃtaḥ) [pada](kiṃcicchyāmavarṇātriṣu) [pada](sthāneṣu) [pada](vakritā)
+
 ## mukta-m0-p32-v800
-[term](līlānamrita) [term](gaurāṃgī) [term](valadbhrūvallibhāsurā)
+[pada](līlānamrita) [pada](gaurāṃgī) [pada](valadbhrūvallibhāsurā)
