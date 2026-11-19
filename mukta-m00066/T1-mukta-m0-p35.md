@@ -2,52 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p35-v851
-[above](upariṣṭāt) [messenger](dūtikāyām) [standing](sthitāyām) [eva](eva) [is-born](jāyate)
+[upariṣṭāt](upariṣṭāt) [dūtikāyām](dūtikāyām) [sthitāyām](sthitāyām) [eva](eva) [jāyate](jāyate)
+
 ## mukta-m0-p35-v852
-[some](kiṃcit) [moving](carat) [white](śukla) [drop](biṃdu) [deceitful](kapaṭa) [moon](iṃdu) [adorned](vibhūṣitaḥ)
+[kiṃcit](kiṃcit) [cara](cara) [śukla](śukla) [biṃdu](biṃdu) [kapaṭa](kapaṭa) [iṃdu](iṃdu) [vibhūṣitaḥ](vibhūṣitaḥ)
+
 ## mukta-m0-p35-v853
-[womb](yoni) [globe](golaka) [covered](saṃchannaḥ) [performs](prakaroti) [upward](ūrdhva) [dance](tāṇḍavam)
+[yoni](yoni) [golaka](golaka) [saṃchannaḥ](saṃchannaḥ) [prakaroti](prakaroti) [ūrdhva](ūrdhva) [tāṇḍavam](tāṇḍavam)
+
 ## mukta-m0-p35-v854
-[man](puruṣa) [word](śabdena) [is-proclaimed](ghuṣyate) [love](madana) [arrival](āgame)
+[puruṣāyita](puruṣāyita) [śabdena](śabdena) [ghuṣyate](ghuṣyate) [madana](madana) [āgame](āgame)
+
 ## mukta-m0-p35-v855
-[above](upari) [shines](ullasati) [freely](svairam) [trembling](utkaṃpi) [breast](kucamaṃḍala)
+[upari](upari) [ullasati](ullasati) [svairam](svairam) [utkaṃpi](utkaṃpi) [kuca](kuca) [maṃḍalā](maṃḍalā)
+
 ## mukta-m0-p35-v856
-[then](tataḥ) [tu](tu) [lunar](cāṃdra) [nectar](amṛtaṃ) [śiva](śiva) [state](tvasya) [giving](pradāyakam)
+[tatas](tatas) [tu](tu) [cāṃdramamṛtaṃ](cāṃdramamṛtaṃ) [śivatvasya](śivatvasya) [pradāyakam](pradāyakam)
+
 ## mukta-m0-p35-v857
-[should-offer](juhuyāt) [oblation](āhutiṃ) [sixth](ṣaṭhīṃ) [mantra](maṃtreṇa) [this](anena) [sādhaka](sādhakaḥ)
+[juhuyāt](juhuyāt) [āhutiṃ](āhutiṃ) [ṣaṭhīṃ](ṣaṭhīṃ) [maṃtreṇa](maṃtreṇa) [anena](anena) [sādhakaḥ](sādhakaḥ)
+
 ## mukta-m0-p35-v858
-[i-worship](arcayāmi) [your](bhavat) [limb](gātra) [from-me](mataḥ) [success](siddhiṃ) [grant](prayacchame)
+[arcayāmi](arcayāmi) [bhavat](bhavat) [gātra](gātra) [mataḥ](mataḥ) [siddhiṃ](siddhiṃ) [prayaccha](prayaccha) [me](me)
+
 ## mukta-m0-p35-v859
-[moon](soma) [nectar](amṛtaṃ) [supreme](paraṃ) [having-drunk](pītvā) [fire-moon](cāgniṣoma) [form](svarūpa) [bearing](dhṛk)
+[somāmṛtaṃ](somāmṛtaṃ) [paraṃ](paraṃ) [pītvā](pītvā) [ca](ca) [agni](agni) [soma](soma) [svarūpa](svarūpa) [dhṛk](dhṛk)
+
 ## mukta-m0-p35-v860
-[great](mahā) [god](devasya) [perfection](saṃsiddhiṃ) [moon](soma) [principle](tattvasya) [seeing](paśyatām)
+[mahādevasya](mahādevasya) [saṃsiddhiṃ](saṃsiddhiṃ) [soma](soma) [tattvasya](tattvasya) [paśyatām](paśyatām)
+
 ## mukta-m0-p35-v861
-[obtains](labhate) [moon-like](caṃdravat) [radiance](kāṃtiṃ) [radiance](kāṃtyā) [universe](viśva) [bewitching](vimohinīm)
+[labhate](labhate) [caṃdravat](caṃdravat) [kāṃtiṃ](kāṃtiṃ) [kāṃtyā](kāṃtyā) [viśva](viśva) [vimohinīm](vimohinīm)
+
 ## mukta-m0-p35-v862
-[moon](caṃdra) [gentle](saumya) [face](mukhatvaṃ) [ca](ca) [poison](viṣa) [destruction](nāśana) [skill](pāṭavam)
+[caṃdra](caṃdra) [saumya](saumya) [mukhatvaṃ](mukhatvaṃ) [ca](ca) [viṣa](viṣa) [nāśana](nāśana) [pāṭavam](pāṭavam)
+
 ## mukta-m0-p35-v863
-[aphrodisiac](vājīkaraṇa) [gain](lābhaṃ) [ca](ca) [without](vinā) [mantras](maṃtraiḥ) [without](vinā) [herbs](auṣadhaiḥ)
+[vājīkaraṇa](vājīkaraṇa) [lābhaṃ](lābhaṃ) [ca](ca) [vinā](vinā) [maṃtraiḥ](maṃtraiḥ) [vinā](vinā) [auṣadhaiḥ](auṣadhaiḥ)
+
 ## mukta-m0-p35-v864
-[in-enjoyments](bhogeṣu) [a](a) [no](na) [fatigue](sādaṃ) [ca](ca) [obtains](prāpnoti) [bliss](ānaṃda) [fullness](pūrṇatām)
+[bhogeṣu](bhogeṣu) [a](a) [navasādaṃ](navasādaṃ) [ca](ca) [prāpnoti](prāpnoti) [ānaṃda](ānaṃda) [pūrṇatām](pūrṇatām)
+
 ## mukta-m0-p35-v865
-[one](ekā) [form](ākāreṇa) [all](sarveṣām) [senses](iṃdriyāṇām) [dissolution](vilīnatā)
+[ekākāreṇa](ekākāreṇa) [sarveṣām](sarveṣām) [iṃdriyāṇām](iṃdriyāṇām) [vilīnatā](vilīnatā)
+
 ## mukta-m0-p35-v866
-[water](apāṃ) [bud](gemukulī) [state](bhāvaḥ) [radiance](kāṃtiḥ) [opening](unmeṣiṇī) [face](mukhe)
+[apāṃge](apāṃge) [mukulībhāvaḥ](mukulībhāvaḥ) [kāṃtiḥ](kāṃtiḥ) [unmeṣiṇī](unmeṣiṇī) [mukhe](mukhe)
+
 ## mukta-m0-p35-v867
-[very](ati) [cool](śītala) [camphor](karpūra) [pollen](parāgaiḥ) [iva](iva) [anoints](liṃpati)
+[atiśītala](atiśītala) [karpūra](karpūra) [parāgaiḥ](parāgaiḥ) [iva](iva) [liṃpati](liṃpati)
+
 ## mukta-m0-p35-v868
-[beautiful](cāru) [nipples](cūcuka) [full](pūrṇābhyāṃ) [thrill](pulakāṃkuraiḥ)
+[kaṃpra](kaṃpra) [cūcuka](cūcuka) [cārubhyāṃ](cārubhyāṃ) [pūrṇābhyāṃ](pūrṇābhyāṃ) [pulakāṃkuraiḥ](pulakāṃkuraiḥ)
+
 ## mukta-m0-p35-v869
-[foot](pada) [movement](vikṣepa) [throw](sakṣepa) [lifting](protkṣepaṇa) [hundreds](śataiḥ)
+[pada](pada) [vikṣepa](vikṣepa) [sakṣepa](sakṣepa) [protkṣepaṇa](protkṣepaṇa) [vidhā](vidhā) [śataiḥ](śataiḥ)
+
 ## mukta-m0-p35-v870
-[suddenly](haṭhāt) [ka](ka) [graha](graha) [lord](bharttuḥ) [suddenly](haṭhāt) [ca](ca) [kissing](paricuṃbanam)
+[haṭhāt](haṭhāt) [ka](ka) [graha](graha) [bharttuḥ](bharttuḥ) [haṭhāt](haṭhāt) [ca](ca) [paricuṃbanam](paricuṃbanam)
+
 ## mukta-m0-p35-v871
-[repeatedly](muhur) [lifting](utkṣipya) [lord](nāthasya) [neck](kaṃṭhaṃ) [there](tatra) [tooth](rada) [scratch](kṣatiḥ)
+[muhur](muhur) [utkṣipya](utkṣipya) [nāthasya](nāthasya) [kaṃṭhaṃ](kaṃṭhaṃ) [tatra](tatra) [rada](rada) [kṣatiḥ](kṣatiḥ)
+
 ## mukta-m0-p35-v872
-[that](tat) [time](kālena) [lord](nātha) [limbs](gātreṣu) [moon](caṃdra) [state](avasthā) [seeing](vilokanam)
+[tat](tat) [kālena](kālena) [atha](atha) [gātreṣu](gātreṣu) [caṃdra](caṃdra) [avasthā](avasthā) [vilokanam](vilokanam)
+
 ## mukta-m0-p35-v873
-[lord](nātha) [mind](mano) [lord](nātha) [life](prāṇa) [lord](nātha) [dear](priyā) [dear](priye)
+[ayi](ayi) [nātha](nātha) [mano](mano) [nātha](nātha) [prāṇa](prāṇa) [nātha](nātha) [priyā](priyā) [priye](priye)
+
 ## mukta-m0-p35-v874
-[mad](mada) [mother](ambā) [lord](nātha) [food](anna) [lord](nātha) [release](reremuṃca) [vimuṃca](vimuṃcam) [me](mām)
+[madaṃbā](madaṃbā) [nātha](nātha) [mannātha](mannātha) [reremuṃca](reremuṃca) [vimuṃca](vimuṃca) [mām](mām)
+
 ## mukta-m0-p35-v875
-[who](kā) [am-i](ahaṃ) [who](kaḥ) [you](tvam) [whose](kasya) [house](gṛhaṃ) [this](etat) [what](kiṃ) [by-me](mayā) [is-said](ucyate)
+[kā](kā) [ahaṃ](ahaṃ) [kaḥ](kaḥ) [tvam](tvam) [kasya](kasya) [gṛhaṃ](gṛhaṃ) [etat](etat) [kiṃ](kiṃ) [nu](nu) [mayā](mayā) [ucyate](ucyate)
