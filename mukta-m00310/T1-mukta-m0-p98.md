@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p98-v2426
-stambhanaṃ (stopping) jāyate (arises) kṣipraṃ (quickly) vādikāmi-jana-ambhasām (of waters of desirous people)
+[stopping](stambhanaṃ) [arises](jāyate) [quickly](kṣipraṃ) [of-waters-of-desiring-speakers](vādikāmijanāmbhasām)
 
 ## mukta-m0-p98-v2427
-homo (oblation) daśāṃśataḥ (tenth part) kāryo (to be done) ghṛta-padma-akṣa-paṅkajaiḥ (with ghee, lotus, seeds, lotuses)
+[homa](homo) [tenth-part](daśāṃśataḥ) [to-be-done](kāryo) [with-ghee-lotus-eye-lotuses](ghṛtapadmākṣapaṅkajaiḥ)
 
 ## mukta-m0-p98-v2428
-devānām (of gods) dānavānām (of demons) ca (and) kā (what) kathā (talk) alpa-dhiyām (of small-minded) nṛṇām (of men)
+[of-gods](devānāṃ) [of-demons](dānavānāṃ) [and](ca) [what](kā) [talk-for-small-minded](kathālpadhiyāṃ) [of-men](nṛṇām)
 
 ## mukta-m0-p98-v2429
-vetasī-mūla-gaḥ (going to vetasa root) vā (or) api (also) hunet (should offer) tatra (there) daśāṃśataḥ (tenth part)
+[gone-to-vetas-root](vetasīmūlago) [or](vāpi) [should-offer](hunet) [there](tatra) [tenth-part](daśāṃśataḥ)
 
 ## mukta-m0-p98-v2430
-ayutaṃ (ten thousand) prajapet (should recite) rātrau (at night) śūnya-āgāre (in empty house) kuleśvari (O mistress of family)
+[ten-thousand](ayutaṃ) [should-recite](prajaped) [at-night](rātrau) [in-empty-house](śūnyāgāre) [O-lady-of-family](kuleśvari)
 
 ## mukta-m0-p98-v2431
-kapibījaiḥ (with monkey seeds) api (also) prātaḥ (morning) bhavet (becomes) ākarṣaṇaṃ (attraction) striyām (in women)
+[with-monkey-seeds](kapibījairapi) [in-morning](prātar) [becomes-attraction](bhavedākarṣaṇaṃ) [in-women](striyām)
 
 ## mukta-m0-p98-v2432
-ājya (ghee) abja (lotus) kṣura (razor) pāṣāṇḍa (heretic) raktapuṣpāṇi (red flowers) pārvati (O Parvati)
+[ghee-lotus-eye-stone-heretic](ājyābjakṣurapāṣāṇḍa) [red-flowers](raktapuṣpāṇi) [O-Parvati](pārvati)
 
 ## mukta-m0-p98-v2433
-ayutaṃ (ten thousand) prajapet (should recite) mūlaṃ (root mantra) sādhakaḥ (practitioner) aśvattha-mūla-gaḥ (going to peepal root)
+[ten-thousand](ayutaṃ) [should-recite-root](prajapenmūlaṃ) [practitioner](sādhako) [gone-to-peepal-root](aśvatthamūlagaḥ)
 
 ## mukta-m0-p98-v2434
-ripum (enemy) uccāṭayet (should destroy) śīghraṃ (quickly) yadi (if) śakra-samaḥ (equal to Indra) bhavet (becomes)
+[should-destroy-enemy](ripumuccāṭayet) [quickly](śīghraṃ) [if](yadi) [equal-to-Indra](śakrasamo) [becomes](bhavet)
 
 ## mukta-m0-p98-v2435
-pracchakaḥ (inquirer)
+[inquirer](pracchakaḥ)
 
 ## mukta-m0-p98-v2436
-ayutaṃ (ten thousand) prajapet (should recite) mūlaṃ (root mantra) līlā-upavana-maṇḍale (in pleasure garden circle)
+[ten-thousand](ayutaṃ) [should-recite-root](prajapenmūlaṃ) [in-play-grove-circle](līlopavanamaṇḍale)
 
 ## mukta-m0-p98-v2437
-pādaiḥ (with feet) aṣṭabhiḥ (eight) īśāni (O goddess) sadyaḥ (immediately) puṣṭiḥ (nourishment) prajāyate (arises)
+[with-eight-feet](pādairaṣṭabhiḥ) [O-goddess](īśāni) [immediately](sadyaḥ) [nourishment](puṣṭiḥ) [arises](prajāyate)
 
 ## mukta-m0-p98-v2438
-durgā-rahasya-bhūtaḥ (secret of Durga) api (even) gopanīyaḥ (to be concealed) mumukṣubhiḥ (by seekers of liberation)
+[secret-of-Durga](durgārahasyabhūto) [even](api) [to-be-concealed](gopanīyo) [by-liberation-seekers](mumukṣubhiḥ)
 
 ## mukta-m0-p98-v2439
-ṣaṭ-catvāriṃśaḥ (forty-sixth) paṭalaḥ (chapter)
+[thirty-sixth](ṣaṭcatvāriṃṣaḥ) [chapter](paṭalaḥ)
 
 ## mukta-m0-p98-v2440
-yasyāḥ (of which) śravaṇa-mātreṇa (by mere hearing) koṭi-yajña-phalaṃ (fruit of ten million sacrifices) labhet (obtains)
+[of-whom](yasyāḥ) [by-merely-hearing](śravaṇamātreṇa) [fruit-of-ten-million-sacrifices](koṭiyajñaphalaṃ) [obtains](labhet)
 
 ## mukta-m0-p98-v2441
-sapta-catvāriṃśaḥ (forty-seventh) paṭalaḥ (chapter)
+[forty-seventh](saptacatvāriṃśaḥ) [chapter](paṭalaḥ)
 
 ## mukta-m0-p98-v2442
-durgāyāḥ (of Durga) sāra-sarvasvaṃ (essence of all) kavaca-īśvara-saṃjñakam (named lord of armor)
+[of-Durga](durgāyāḥ) [essence-all](sārasarvasvaṃ) [named-armor-lord](kavaceśvarasaṃjñakam)
 
 ## mukta-m0-p98-v2443
-yogi-priyaṃ (dear to yogis) yoga-gamyaṃ (attainable by yoga) devānām (of gods) api (even) durlabham (rare)
+[dear-to-yogis](yogipriyaṃ) [attainable-by-yoga](yogagamyaṃ) [of-gods](devānām) [even](api) [rare](durlabham)
 
 ## mukta-m0-p98-v2444
-dhāraṇāt (by wearing) asya (of this) deveśi (O goddess of gods) śivaḥ (Shiva) trailokya-nāyakaḥ (lord of three worlds)
+[by-holding](dhāraṇādasya) [O-goddess-of-gods](deveśi) [Shiva](śivaḥ) [lord-of-three-worlds](trailokyanāyakaḥ)
 
 ## mukta-m0-p98-v2445
-brahmā (Brahma) pārvati (O Parvati) lokeśaḥ (lord of world) vighna-dhvaṃsī (destroyer of obstacles) gajānanaḥ (elephant-faced)
+[Brahma](brahmā) [Parvati](pārvati) [lord-of-world](lokeśo) [destroyer-of-obstacles](vighnadhvaṃsī) [elephant-faced](gajānanaḥ)
 
 ## mukta-m0-p98-v2446
-sūryaḥ (sun) tamas-haḥ (destroyer of darkness) ca (and) eva (indeed) candraḥ (moon) amṛta-nidhiḥ (treasury of nectar) tathā (also)
+[sun](sūryaḥ) [destroyer-of-darkness](tamopahaḥ) [and](ca) [eva](eva) [moon](candraḥ) [nectar-treasury](amṛtanidhiḥ) [also](tathā)
 
 ## mukta-m0-p98-v2447
-martyaḥ (mortal) api (even) amara-tāṃ (immortality) yāti (goes) sādhakaḥ (practitioner) mantra-sādhakaḥ (mantra practitioner)
+[mortal](martyo) [even](api) [immortality](amaratāṃ) [goes](yāti) [practitioner](sādhako) [mantra-practitioner](mantrasādhakaḥ)
 
 ## mukta-m0-p98-v2448
-chandaḥ (meter) anuṣṭup (anushtubh) priye (dear) durgā (Durga) devatā (deity) aṣṭākṣarā (eight-syllabled) smṛtā (remembered)
+[meter](chandaḥ) [anustubh](anuṣṭup) [dear](priye) [Durga](durgā) [deity-eight-syllabled](devatāṣṭākṣarā) [remembered](smṛtā)
 
 ## mukta-m0-p98-v2449
-dharma-artha-kāma-mokṣa-arthe (for dharma, artha, kama, moksha) viniyogaḥ (application) iti (thus) smṛtaḥ (remembered)
+[for-dharma-wealth-desire-liberation](dharmārthakāmamokṣārthe) [application](viniyogaḥ) [thus](iti) [remembered](smṛtaḥ)
 
 ## mukta-m0-p98-v2450
-duṃ (seed) netre (eyes) aṣṭākṣarā (eight-syllabled) pātu (protect) cakrī (discus-holder) pātu (protect) śrutī (ears) mama (my)
+[duṃ](duṃ) [eyes](netre) [eight-syllabled](aṣṭākṣarā) [protect](pātu) [discus-holder](cakrī) [protect](pātu) [ears](śrutī) [my](mama)
