@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p43-v1051
-[yellow](pītā)
+[yellow](pītā) [golden](pītā) [imbibed](pītā) [colored](pītā)
 
 ## mukta-m0-p43-v1052
-[sung](gītā) [yellow](pītā) [for-welfare](hitāyāstu) [mother](mātā) [brother](bhātā) [of-good-ones](satāṃ) [in-heart](hṛdi)
+[sung](gītā) [yellow](pītā) [welfare](hitāya) [mother](mātā) [brother](bhātā) [good](satāṃ) [heart](hṛdi)
 
 ## mukta-m0-p43-v1053
-[mottled](karburā)
+[mottled](karburā) [spotted](karburā) [variegated](karburā) [mixed](karburā)
 
 ## mukta-m0-p43-v1054
-[mottled](karburā) [goddess](devatā) [may-be](bhūyād) [burden-removing](bhavabhārāpahāriṇī)
+[mottled](karburā) [deity](devatā) [may-be](bhūyād) [burden-removing](bhavabhārāpahāriṇī)
 
 ## mukta-m0-p43-v1055
-[hunger](kṣudhā)
+[hunger](kṣudhā) [craving](kṣudhā) [appetite](kṣudhā) [desire](kṣudhā)
 
 ## mukta-m0-p43-v1056
-[hunger](kṣudhā) [goddess](devī) [conquers](jayatyeṣā) [all-elements-single-seed-source](sarvadhātvekabījabhūḥ)
+[hunger](kṣudhā) [goddess](devī) [conquers](jayati) [this](eṣā) [all-elements-seed](sarvadhātvekabījabhūḥ)
 
 ## mukta-m0-p43-v1057
-[thirst](tṛṣṇā)
+[thirst](tṛṣṇā) [craving](tṛṣṇā) [desire](tṛṣṇā) [longing](tṛṣṇā)
 
 ## mukta-m0-p43-v1058
-[which](yannunno) [ocean-drying-single-cause]('bdhiviśoṣaikahetustṛṣṇā) [conquers](jayatyasau)
+[that](yannunno) [ocean-drying](abdhiviśoṣa) [sole-cause](ekahetuḥ) [thirst](tṛṣṇā) [conquers](jayati) [she](asau)
 
 ## mukta-m0-p43-v1059
-[old-age-increased](jarāvṛddhā)
+[old-age](jarā) [aged](vṛddhā) [elderly](jarāvṛddhā) [senior](jarāvṛddhā)
 
 ## mukta-m0-p43-v1060
-[wonderful](citraṃ) [she-too](sāpi) [old-age-increased](jarāvṛddhā) [does](kriyānmama) [old-age-old-age](jarājarām)
+[wonderful](citraṃ) [she-too](sāpi) [old-age-aged](jarāvṛddhā) [does](kriyāt) [my](mama) [old-age](jarājarām)
 
 ## mukta-m0-p43-v1061
-[young-woman](taruṇī)
+[young](taruṇī) [youthful](taruṇī) [maiden](taruṇī) [fresh](taruṇī)
 
 ## mukta-m0-p43-v1062
-[of-young-woman](taruṇyāḥ) [supreme](paraṃ) [laughter-only-grace](hāsyamātraprasādaḥ)
+[of-young-woman](taruṇyāḥ) [supreme](paraṃ) [laughter-only](hāsyamātra) [grace](prasādaḥ)
 
 ## mukta-m0-p43-v1063
-[compassion-abode](karuṇālayā)
+[compassion-abode](karuṇālayā) [mercy-dwelling](karuṇālayā) [pity-residence](karuṇālayā) [grace-home](karuṇālayā)
 
 ## mukta-m0-p43-v1064
-[you-remove](dūrīkaroṣi) [because](yannāto) [is-sung](gīyase) [compassion-abode](karuṇālayā)
+[remove](dūrīkaroṣi) [because](yannāto) [sung](gīyase) [compassion-abode](karuṇālayā)
 
 ## mukta-m0-p43-v1065
-[art](kalā)
+[art](kalā) [skill](kalā) [portion](kalā) [digit](kalā)
 
 ## mukta-m0-p43-v1066
-[all](sakalā) [not](na) [in-control](vaśe) [what](kiṃ) [would-be](syuḥ) [hand-garland-like](karamālātulāḥ) [arts](kalāḥ)
+[all](sakalā) [not](na) [control](vaśe) [what](kiṃ) [would-be](syuḥ) [hand-garland](karamālā) [equal](tulāḥ) [arts](kalāḥ)
 
 ## mukta-m0-p43-v1067
-[limit](kāṣṭhā)
+[wood](kāṣṭhā) [limit](kāṣṭhā) [standard](kāṣṭhā) [direction](kāṣṭhā)
 
 ## mukta-m0-p43-v1068
-[perishes](naśyet) [in-moment](kṣaṇena) [of-devotees](bhaktānāṃ) [limit-thus-her](kāṣṭhetyasyāḥ) [by-grace](prasādataḥ)
+[perish](naśyet) [moment](kṣaṇena) [devotees](bhaktānāṃ) [wood](kāṣṭhā) [thus](ityasyāḥ) [grace](prasādataḥ)
 
 ## mukta-m0-p43-v1069
-[moment](muhūrtā)
+[moment](muhūrtā) [instant](muhūrtā) [time](muhūrtā) [period](muhūrtā)
 
 ## mukta-m0-p43-v1070
-[own-form](svarūpaṃ) [famous](prathitā) [on-earth](bhūmau) [moments](muhūrtāstu) [for-auspiciousness](śivāya) [to-you](vaḥ)
+[own-form](svarūpaṃ) [famous](prathitā) [earth](bhūmau) [moments](muhūrtāḥ) [auspicious](śivāya) [you](vaḥ)
 
 ## mukta-m0-p43-v1071
-[blink](nimeṣā)
+[blink](nimeṣā) [wink](nimeṣā) [moment](nimeṣā) [instant](nimeṣā)
 
 ## mukta-m0-p43-v1072
-[blinks](nimeṣāstu) [supreme-lady](pareśānī) [special-all-abundance-giving](viśeṣāśeṣabhūtidā)
+[blinks](nimeṣāḥ) [supreme-lady](pareśānī) [special](viśeṣa) [all](aśeṣa) [prosperity-giving](bhūtidā)
 
 ## mukta-m0-p43-v1073
-[time-formed](kālarūpiṇī)
+[time-formed](kālarūpiṇī) [time-shaped](kālarūpiṇī) [time-embodied](kālarūpiṇī) [time-manifest](kālarūpiṇī)
 
 ## mukta-m0-p43-v1074
-[planet-sign-zodiac-wheel-inferable](graharāśibhacakrakānumeyā) [famous](prathitā) [she-indeed](sā kila) [time-formed-thus](kālarūpiṇīti)
+[planet-sign-zodiac-wheel-inferable](graharāśibhacakrakānumeyā) [famous](prathitā) [she](sā) [indeed](kila) [time-formed](kālarūpiṇī) [thus](ti)
 
 ## mukta-m0-p43-v1075
-[good-ear-tongue](sukarṇarasanā)
+[good-ear-tongue](sukarṇarasanā) [pleasant-ear-tongue](sukarṇarasanā) [sweet-ear-tongue](sukarṇarasanā) [fine-ear-tongue](sukarṇarasanā)
