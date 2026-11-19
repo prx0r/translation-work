@@ -5,37 +5,37 @@
 [world-mother](viśvamātā)
 
 ## mukta-m0-p34-v827
-[world-mother](viśvamātā) [herself](svayaṃ) [shining](bhātā) [of-the-good](satāṃ) [in-mind](cetasi) [shining](bhāsatām)
+[world-mother](viśvamātā) [herself](svayaṃ) [shining](bhātā) [of-the-good](satāṃ) [in-mind](cetasi) [may-she-shine](bhāsatām)
 
 ## mukta-m0-p34-v828
-[possessing-arts](kalāvatī)
+[art-possessing](kalāvatī)
 
 ## mukta-m0-p34-v829
-[seized](kalitā) [time-course](kālagatiḥ) [possessing-arts](kalāvatī) [to-us](naḥ)
+[obtained](kalitā) [time-course](kālagatiḥ) [art-possessing](kalāvatī) [to-us](naḥ)
 
 ## mukta-m0-p34-v830
 [lotus-possessing](padmāvatī)
 
 ## mukta-m0-p34-v831
-[gathering](cinvanta) [obtained](āptā) [not](na) [gone](gatāśca) [to-shore](pāraṃ) [lotus-possessing](padmāvatī) [she](sā) [my](mama) [lotus-going](padmagā) [let-her-be](stāt)
+[gathering](cinvanta) [obtained](āptā) [not](na) [gone](gatāśca) [shore](pāraṃ) [lotus-possessing](padmāvatī) [she](sā) [mine](mama) [lotus-going](padmagā) [may-she-stand](stāt)
 
 ## mukta-m0-p34-v832
 [well-clothed](suvastrā)
 
 ## mukta-m0-p34-v833
-[vessel-less](amatrā) [she](sā) [well-clothed](suvastrā) [my](me) [body-garment-identity](dehavastrātmatāṃ) [remove](hara)
+[vessel-less](amatrā) [she](sā) [well-clothed](suvastrā) [mine](me) [body-garment-selfhood](dehavastrātmatāṃ) [remove](hara)
 
 ## mukta-m0-p34-v834
 [awakened](prabuddhā)
 
 ## mukta-m0-p34-v835
-[inert-and-noninert](jaḍājaḍeṣu) [not-distinct-state](astaviśiṣṭabhāvā) [she](sā) [desired](vāñchitaṃ) [to-us](no) [giving](dadatāṃ) [awakened](prabuddhā)
+[in-inert-and-noninert](jaḍājaḍeṣu) [not-distinct-state](astaviśiṣṭabhāvā) [she](sā) [desired](vāñchitaṃ) [to-us](no) [may-give](dadatāṃ) [awakened](prabuddhā)
 
 ## mukta-m0-p34-v836
 [sarasvatī](sarasvatī)
 
 ## mukta-m0-p34-v837
-[threefold](tredhā) [tasted](asvādyā) [let-her-bestow](vitaratu) [rasa](rasaṃ) [her-own](svaṃ) [sarasvatī](sarasvatyaśeṣam)
+[threefold](tredhā) [tasted](asvādyā) [may-she-bestow](vitaratu) [rasa](rasaṃ) [own](svaṃ) [sarasvatī](sarasvatyaśeṣam)
 
 ## mukta-m0-p34-v838
 [kuṇḍa-seated](kuṇḍāsanā)
@@ -47,19 +47,19 @@
 [world-nourisher](jagaddhātrī)
 
 ## mukta-m0-p34-v841
-[even](api) [beings](bhāvāś) [for-long](cirasyeva) [world-nourisher](jagaddhātrī) [for-glory](śriye'stu) [she](sā)
+[even](api) [beings](bhāvāś) [for-long](cirasyeva) [world-nourisher](jagaddhātrī) [for-prosperity](śriye'stu) [she](sā)
 
 ## mukta-m0-p34-v842
 [buddha-mother](buddhamātā)
 
 ## mukta-m0-p34-v843
-[unattached](anāśritāṃ) [self-course](svātmagatiṃ) [attains](sameti) [she](sā) [buddha-mother](buddhamātā) [in-heart](hṛdi) [shining](bhāsatāṃ) [to-us](naḥ)
+[unattached](anāśritāṃ) [own-self-course](svātmagatiṃ) [attains](sameti) [she](sā) [buddha-mother](buddhamātā) [in-heart](hṛdi) [may-she-shine](bhāsatāṃ) [to-us](naḥ)
 
 ## mukta-m0-p34-v844
 [jina-lady](jineśvarī)
 
 ## mukta-m0-p34-v845
-[omniscience](sārvajñyam) [calamity](āpad) [misfortune-end-cause](vipadantakāraṇaṃ) [jina-lady](jineśvarī) [she](sā) [sin](vṛjinaṃ) [remove](vyapohatām)
+[omniscience](sārvajñyam) [calamity](āpad) [calamity-ending-cause](vipadantakāraṇaṃ) [jina-lady](jineśvarī) [she](sā) [sin](vṛjinaṃ) [may-remove](vyapohatām)
 
 ## mukta-m0-p34-v846
 [jina-mother](jinamātā)
@@ -71,7 +71,7 @@
 [jina-lord](jinendrā)
 
 ## mukta-m0-p34-v849
-[jina-lord](jinendrāstu) [for-glory](śriye) [always](nityaṃ) [without-enmity](nirvairā) [self-moving](svairacāriṇī)
+[jina-lord](jinendrāstu) [for-prosperity](śriye) [always](nityaṃ) [without-enmity](nirvairā) [self-moving](svairacāriṇī)
 
 ## mukta-m0-p34-v850
 [śāradā](śāradā)

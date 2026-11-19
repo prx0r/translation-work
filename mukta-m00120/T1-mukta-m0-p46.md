@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p46-v1126
-[worlds-of](lokānāṃ) [auspicious-increase-giving](śubhavṛddhidāyakam) [this](idaṃ) [vessel](pātraṃ) [second](dvitīyaṃ) [salutation](namaḥ)
+worlds' auspicious-increase-giving this vessel second salutation
 
 ## mukta-m0-p46-v1127
-[preserve](pāyāt) [five-kāra-principle-accompanied](pañcamakāratattvasahitaṃ) [vessel](pātraṃ) [third](tṛtīyaṃ) [salutation](namaḥ)
+may-protect fifth-makara-tattva-accompanied vessel third salutation
 
 ## mukta-m0-p46-v1128
-[that-vessel-and](tatpātrañca) [all-merit-happiness-giving](samastapuṇyasukhadaṃ) [vessel](pātraṃ) [fourth](caturthaṃ) [salutation](namaḥ)
+that-vessel-and all-merit-happiness-giving vessel fourth salutation
 
 ## mukta-m0-p46-v1129
-[yellow-brahma-essence](pītabrahmarasaṃ) [always-raised-hand](sadodyatakaraṃ) [vessel](pātraṃ) [I-worship](bhaje) [fivefold](pañcakam)
+drunk-brahma-rasa always-raised-hand vessel I-worship fifth
 
 ## mukta-m0-p46-v1130
-[glorious](śrīmat) [beautiful-one](sundarī) [satisfaction](tarpaṇaṃ) [liquid-essence](dravarasaṃ) [vessel-and](pātrañca) [sixth](ṣaṣṭhaṃ) [I-worship](bhaje)
+glorious beautiful satisfaction liquid-rasa vessel-and sixth I-worship
 
 ## mukta-m0-p46-v1131
-[vessel](pātraṃ) [seventh-filling](saptamapūraṇe) [world-fear-joy-excess](bhavabhayānando'dhikaḥ) [protect](pātu) [me](mām)
+vessel seventh-filling world-fear-bliss-more may-protect me
 
 ## mukta-m0-p46-v1132
-[vessel-and-eighth](pātrañcāṣṭamam) [eight-siddhi-making](aṣṭasiddhikaraṇaṃ) [mature](prauḍha) [pleased](prasannaṃ) [always](sadā)
+vessel-and eighth eighth-siddhi-making mature serene always
 
 ## mukta-m0-p46-v1133
-[vessel](pātraṃ) [which-ninth-lord-power-accompanied](yannavanāthaśaktisahitaṃ) [all-purpose-accomplishment-giving](sarvārthasiddhipradam)
+vessel which ninth-lord-shakti-accompanied all-aims-accomplishment-giving
 
 ## mukta-m0-p46-v1134
-[thus](iti) [glorious-all-bliss-lord-composed](śrīsarvānandanāthaviracite) [all-excitement-thirty-five-chapter](sarvvollāsepañcatriṃśadullāsaḥ)
+thus glorious-sarvananda-natha-composed sarvollasa-thirty-five-ullasa
 
 ## mukta-m0-p46-v1135
-[option](vikalpo) [not-here](nātra) [to-be-done](kartavyaḥ) [done-and](kṛte) [death](maraṇaṃ) [would-be](bhavet)
+option not-here to-be-done done and death would-be
 
 ## mukta-m0-p46-v1136
-[given](dīyamānaṃ) [great-mantra](mahāmantraṃ) [I-tell](kathayāmi) [listen](śṛṇu) [dear](priye)
+being-given great-mantra I-tell listen dear
 
 ## mukta-m0-p46-v1137
-[accepting](svīkṛtya) [auspicious-one](subhage) [goddess](devi) [victory](jayaṃ) [give](dehi) [again](punaḥ) [again](punaḥ)
+having-accepted auspicious goddess victory give again again
 
 ## mukta-m0-p46-v1138
-[own-vessel](svapātre) [cause](kāraṇe) [mixed](miśraṃ) [drink](pived) [bliss-cause](ānandahetave)
+own-vessel cause mixed drink-for-bliss-cause
 
 ## mukta-m0-p46-v1139
-[power-form](śaktirūpā) [great-goddess](mahādevī) [pure-bliss-increasing](kevalānandavarddhinī)
+shakti-form great-goddess pure-bliss-increasing
 
 ## mukta-m0-p46-v1140
-[practitioner's](sādhakasya) [action-bliss](kriyānande) [radiant](tejīyo) [form-bearing](rūpadhāriṇī)
+of-practitioner action-bliss radiant form-bearing
 
 ## mukta-m0-p46-v1141
-[thus](tathā) [woman](nārī) [of-man-also](narasyāpi) [all-works-manifesting](sarvakāryaprakāśikā)
+so woman of-man too all-works-revealing
 
 ## mukta-m0-p46-v1142
-[accepting](svīkṛtya) [cause](kāraṇaṃ) [goddess](devi) [afterwards](paścāt) [works](kāryāṇi) [accomplish](sādhayet)
+having-accepted cause goddess afterwards works accomplish
 
 ## mukta-m0-p46-v1143
-[prāṇāyāma](prāṇāyāmaṃ) [third?](gṛtīye) [and](ca) [fourth](caturthe) [japa-bring](japamāharet)
+pranayama second? and fourth japa-should-do
 
 ## mukta-m0-p46-v1144
-[fifth](pañcamaṃ) [vessel-accompanied](pātrasahitaṃ) [circle's](cakrasya) [mark](lakṣaṇaṃ) [O-Śiva](śive)
+fifth vessel-accompanied of-cakra characteristic O-Shiva
 
 ## mukta-m0-p46-v1145
-[sexual-union](maithunaṃ) [supreme-goddess](parameśāni) [tenth-bliss-practice](daśamānandamācaret)
+sexual-union supreme-goddess tenth-bliss-should-practice
 
 ## mukta-m0-p46-v1146
-[sound-dot-made](nādabindumayaṃ) [seat](pīṭhaṃ) [swan-pair](haṃsayugmaṃ) [manifested](prakāśitam)
+nada-bindu-made seat swan-pair manifested
 
 ## mukta-m0-p46-v1147
-[heart](hṛdaye) [meditate](cintayed) [god](devaṃ) [two-armed](dvibhujaṃ) [power-united](śaktisaṃyutam)
+in-heart meditate-god two-armed shakti-united
 
 ## mukta-m0-p46-v1148
-[being-consciousness](saccit) [happiness-desired-boon-giving](sukhābhīṣṭavarāpradānam)
+truth-consciousness happiness-desired-boon-giving
 
 ## mukta-m0-p46-v1149
-[gentle-smile](mandasmitaṃ) [full-compassion-treasury](pūrṇakṛpānidhānam)
+gentle-smile full-compassion-treasury
 
 ## mukta-m0-p46-v1150
-[glorious-guru](śrīdguruṃ) [always-I](nityamahaṃ) [I-bow](namāmi)
+glorious-guru always-I salutation
