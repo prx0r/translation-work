@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p25-v601
-[that-one](tadekaṃ) [establish](sthāpayet) [liṅga](liṅgaṃ) [hand-born](hastātpādajameva) [or](vā)
+[that-one](tadekaṃ) [should-establish](sthāpayet) [linga](liṅgaṃ) [from-hand](hastāt) [foot-born](pādajam) [indeed](eva) [or](vā)
 
 ## mukta-m0-p25-v602
-[womb](gabhād) [etc](yaśo'rtha) [son](putra) [wife](strī) [earth](bhūr) [victory](jaya) [wealth](artha) [ghee](ghṛṣa) [life](āyuṣī)
+[etc](gabhādyaśo'rthaputrastrībhūrjayo'rtho) [ghṛṣa](ghṛṣā) [life](āyuṣī)
 
 ## mukta-m0-p25-v603
-[accomplishments](siddhī) [kingdom](rājyaṃ) [hands](karaiḥ) [done](kāryā) [liṅga-born](liṅgādantajāt) [thus](tathā)
+[accomplishments](siddhī) [kingdom](rājyaṃ) [by-hands](karaiḥ) [should-be-done](kāryā) [from-linga](liṅgāt) [tooth-born](antajāt) [thus](tathā)
 
 ## mukta-m0-p25-v604
-[banner](dhvajādyā) [by-whom](yaiḥ) [sounds](svaraiḥ) [elements](bhūtaiḥ) [peacocks](śikhibhiḥ) [or](vā) [takes](haretkṛtī)
+[banner-etc](dhvajādyā) [by-whom](yaiḥ) [with-sounds](svaraiḥ) [with-elements](bhūtaiḥ) [with-peacocks](śikhibhir) [or](vā) [should-take](haretkṛtī)
 
 ## mukta-m0-p25-v605
-[banner](dhvajaṃ) [etc](ādiṣu) [banner](dhvajaṃ) [lion](siṃhaṃ) [bull-named](vṛṣākhyaṃ) [elephant](ca) [gajaṃ) [auspicious](śubham)
+[on-banner-etc](dhvajādiṣu) [banner](dhvajaṃ) [lion](siṃhaṃ) [bull-named](vṛṣākhyaṃ) [and](ca) [elephant](gajaṃ) [auspicious](śubham)
 
 ## mukta-m0-p25-v606
-[banner](dhvaje) [kingdom](rājyaṃ) [victory](jayaṃ) [lion](siṃhe) [bull](vṛṣe) [gain](lābhaṃ) [prosperity](śriyaṃ) [elephant](gaje)
+[in-banner](dhvaje) [kingdom](rājyaṃ) [victory](jayaṃ) [in-lion](siṃhe) [in-bull](vṛṣe) [gain](lābhaṃ) [prosperity](śriyaṃ) [in-elephant](gaje)
 
 ## mukta-m0-p25-v607
-[crow](dhvāṅkṣeṇa) [all-destruction](sarvanāśaḥ) [would-be](syāt) [therefore](tasmāt) [those](tān) [avoid](parivarjayet)
+[by-crow](dhvāṅkṣeṇa) [total-destruction](sarvanāśaḥ) [would-be](syāt) [therefore](tasmāt) [those](tān) [should-avoid](parivarjayet)
 
 ## mukta-m0-p25-v608
-[lakṣmī-giving](lakṣmīprado) [becomes](bhavet) [ṣaḍja](ṣaḍjo) [gāndhāra](gāndhāro) [people-increase](janavṛddhikṛt)
+[lakshmi-giving](lakṣmīprado) [becomes](bhavet) [ṣaḍja](ṣaḍjo) [gāndhāra](gāndhāro) [people-increase-making](janavṛddhikṛt)
 
 ## mukta-m0-p25-v609
-[by-ṛṣabha](ṛṣabheṇa) [enemy-increase](arivṛddhiḥ) [would-be](syāt) [madhyama](madhyamaḥ) [son-destruction](sutanāśakṛt)
+[by-ṛṣabha](ṛṣabheṇa) [enemy-increase](ārivṛddhiḥ) [would-be](syāt) [madhyama](madhyamaḥ) [son-destruction-making](sutanāśakṛt)
 
 ## mukta-m0-p25-v610
-[elements](bhūteṣu) [earth-movers](kṣmācarāś) [others](cānye) [water](toyādyāś) [inauspicious](cāśubhā) [greatly](bhṛśam)
+[in-elements](bhūteṣu) [earth-movers](kṣmācarāś) [and-others](cānye) [water-etc](toyādyāś) [inauspicious](cāśubhā) [greatly](bhṛśam)
 
 ## mukta-m0-p25-v611
-[with-fever](sajvaro) [burning](dāhakṛt) [tejas](tejo) [wind](vāyustu) [family-destruction](kulanāśakṛt)
+[with-fever](sajvaro) [heat-making](dāhakṛt) [tejas](tejo) [wind](vāyuḥ) [tu](tu) [family-destruction-making](kulanāśakṛt)
 
 ## mukta-m0-p25-v612
-[praised](śasto) [fire](agniś) [āhavanīya](cāhavanīyo) [two-fires](dvāvagnī) [inauspicious](cāśubhau) [considered](matau)
+[praised](śasto) [fire](agniś) [ca](cā) [āhavanīya](āhavanīyo) [two-fires](dvāvagnī) [ca](cā) [inauspicious](aśubhau) [considered](matau)
 
 ## mukta-m0-p25-v613
-[maker](kartuḥ) [death-giving](mṛtyuprado) [indeed-fire](hyagniḥ) [third](tṛtīyo) [king-fear-giving](nṛpabhītidaḥ)
+[of-maker](kartuḥ) [death-giving](mṛtyuprado) [hi](hy) [fire](agniḥ) [third](tṛtīyo) [king-fear-giving](nṛpabhītidaḥ)
 
 ## mukta-m0-p25-v614
-[six](ṣaḍvā) [then](tadā) [portion](yabhāgaṃ) [tu](tu) [having-made](kṛtvā) [one](ekaṃ) [contract](saṃkṣiped) [excellent](varam)
+[six-or](ṣaḍvā) [then](tadā) [portion](āyabhāgaṃ) [tu](tu) [having-made](kṛtvā) [one](ekaṃ) [should-contract](saṃkṣipet) [excellent](varam)
 
 ## mukta-m0-p25-v615
-[portion-lord](bhāgeśa) [and](ca) [non-lord](apy anīśaṃ) [ca](ca) [devejya](devejyaṃ) [same-named](tulyasaṃjñakam)
+[of-portion-lord](bhāgeśa) [ca](cā) [api](apy) [non-lord](anīśaṃ) [ca](ca) [deva-preceptor](devejyaṃ) [same-named](tulyasaṃjñakam)
 
 ## mukta-m0-p25-v616
-[length](dairghyaṃ) [māyā-joined](māyānvitaṃ) [having-made](kṛtvā) [liṅga](liṅgaṃ) [make](kuryāt) [three-formed](trirūpakam)
+[length](dairghyaṃ) [māyā-joined](māyānvitaṃ) [having-made](kṛtvā) [linga](liṅgaṃ) [should-make](kuryāt) [three-formed](trirūpakam)
 
 ## mukta-m0-p25-v617
-[spoken](uktāyām) [of-this](asya) [half-portion](cārdhāṃśe) [nāga-portions](nāgāṃśai) [with](rbhāṃjite) [in-order](kramāt)
+[in-stated](uktāyām) [asya](asya) [ca](cā) [half-portion](ardhāṃśe) [with-nāga-portions](nāgāṃśai) [rbhāṃjite](rbhāṃjite) [in-order](kramāt)
 
 ## mukta-m0-p25-v618
-[first](ādyān) [non-first](ānādya) [surejya-named](surejyāhva) [equal](tulyānāṃ) [squareness](caturasratā)
+[first](ādyānā) [non-first](nādyasurejyāhva) [equal](tulyānāṃ) [squareness](caturasratā)
 
 ## mukta-m0-p25-v619
-[twofold](dvidhā) [division](bhedād) [many](bahūnyatra) [will-be-spoken](vakṣyante) [universal-opinion](viśvakamataḥ)
+[twofold](dvidhā) [division](bhedāt) [many](bahūny) [atra](atra) [will-be-spoken](vakṣyante) [universal-opinion](viśvakamataḥ)
 
 ## mukta-m0-p25-v620
-[threefold](tridhā) [hand](hastāj) [jīva-named](jivākhyaṃ) [ca](ca) [joined](yuktaṃ) [all-equal](sarvasamena) [ca](ca)
+[threefold](tridhā) [from-hand](hastāt) [jīva-named](jivākhyaṃ) [ca](ca) [joined](yuktaṃ) [with-all-equal](sarvasamena) [ca](ca)
 
 ## mukta-m0-p25-v621
-[five](pañca) [seventy](saptatiḥ) [from-unity](ekatvāj) [jina-devoted](jinaibhaktaṃ) [become](bhavanti) [hi](hi)
+[five](pañca) [seventy](saptatiḥ) [from-oneness](ekatvāt) [jina-devotee](jinaibhaktaṃ) [bhavanti](bhavanti) [hi](hi)
 
 ## mukta-m0-p25-v622
-[thus](evam) [finger-increase](aṅgulavṛddhyā) [ca](ca) [nine-one-hand-womb](navaikakaragarbhataḥ)
+[thus](evam) [by-finger-increase](aṅgulavṛddhyā) [ca](ca) [nine-one-hand-womb](navaikakaragarbhataḥ)
 
 ## mukta-m0-p25-v623
-[expansion](vistāraṃ) [sevenfold](saptadhā) [having-made](kṛtvā) [establish](sthāpyaṃ) [vā](vā) [middle](madhyatastrayam)
+[extent](vistāraṃ) [sevenfold](saptadhā) [having-made](kṛtvā) [should-be-placed](sthāpyaṃ) [vā](vā) [in-middle](madhyataḥ) [three](trayam)
 
 ## mukta-m0-p25-v624
-[one-one-portion](ekaikāṃśaṃ) [quarter](caturbhāgaṃ) [corner-decrease](koṇahrāsaṃ) [two-portion](dvibhāgataḥ)
+[one-one-portion](ekaikāṃśaṃ) [and](ca) [quarter](caturbhāgaṃ) [corner-decrease](koṇahrāsaṃ) [from-two-portions](dvibhāgataḥ)
 
 ## mukta-m0-p25-v625
-[that](tadekaikaṃ) [yuga](yugaṃ) [having-made](kṛtvā) [one-one-portion](ekaikāṃśaṃ) [collect](samāharet)
+[that-one-one](tadekaikaṃ) [yuga](yugaṃ) [having-made](kṛtvā) [one-one-portion](ekaikāṃśaṃ) [should-gather](samāharet)
