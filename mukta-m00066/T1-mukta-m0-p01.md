@@ -2,55 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p01-v1
-bliss-deity-abode(asmin? no) ... 
+[ānaṃda+devatā+sthānam](ānaṃdadevatāsthānam) [asmin](asmin) [liṃge](liṃge) [maheśvari](maheśvari)
 
-Need produce proper. Let's just output concise.## mukta-m0-p01-v1
-bliss+deity+abode(asmin) in-this linga great-lady
 ## mukta-m0-p01-v2
-when own+power+descent awakened he reflection+possessing
+[yadā](yadā) [sva+śakti+pātena](svaśaktipātena) [prabuddhaḥ](prabuddhaḥ) [sa](sa) [vimarśavān](vimarśavān)
+
 ## mukta-m0-p01-v3
-then he teacher by+shakti+gaze of+that new+soul
+[tadā](tadā) [sa](sa) [deśikaḥ](deśikaḥ) [śaivyā](śaivyā) [dṛṣṭyā](dṛṣṭyā) [tasya](tasya) [nava+ātmanaḥ](navātmanaḥ)
+
 ## mukta-m0-p01-v4
-another indeed again may+become of+kaulika great+soul
+[anyat+eva](anyadeva) [punar+bhūyāt](punarbhūyāt) [kaulikasya](kaulikasya) [mahā+ātmanaḥ](mahātmanaḥ)
+
 ## mukta-m0-p01-v5
-clan birth and character and eight fetters declared
+[kulaṃ](kulaṃ) [jātiḥ+ca](jātiśca) [śīlaṃ](śīlaṃ) [ca+api+aṣṭau](cāpyaṣṭau) [pāśāḥ](pāśāḥ) [prakīrtitāḥ](prakīrtitāḥ)
+
 ## mukta-m0-p01-v6
-of+that devotee whole body good+field called
+[tasya](tasya) [bhaktasya](bhaktasya) [sakalaṃ](sakalaṃ) [vapuḥ](vapuḥ) [su+kṣetram](sukṣetram) [ucyate](ucyate)
+
 ## mukta-m0-p01-v7
-shakti by+power+unfolding mantra by+mantra+instruction
+[śāktiḥ](śāktiḥ) [śakti+unmīlanena](śaktyunmīlanena) [māṃtrī](māṃtrī) [maṃtra+upadeśataḥ](maṃtropadeśataḥ)
+
 ## mukta-m0-p01-v8
-by+these three indeed initiations initiated man
+[etābhiḥ](etābhiḥ) [tisṛbhiḥ+ca+eva](tisṛbhiścaiva) [dīkṣābhiḥ](dīkṣābhiḥ) [dīkṣitaḥ](dīkṣito) [naraḥ](naraḥ)
+
 ## mukta-m0-p01-v9
-knowledge+linga+form he becomes by+vasana+destruction
+[bodha+liṃga+svarūpaḥ](bodhaliṃgasvarūpo) [asau](asau) [jāyate](jāyate) [vāsanā+kṣayāt](vāsanākṣayāt)
+
 ## mukta-m0-p01-v10
-woman+hated world+hated laziness and fickleness
+[strī+dviṣṭaṃ](stridviṣṭaṃ) [loka+vidviṣṭam](lokavidviṣṭam) [ālasyaṃ](ālasyaṃ) [ca+eva](caiva) [cāpalam](cāpalam)
+
 ## mukta-m0-p01-v11
-other's+wife+touching and other's+harm thinking
+[para+dāra+avamarśaṃ](paradārāvamarśaṃ) [ca](ca) [para+drohasya](paradrohasya) [ciṃtanam](ciṃtanam)
+
 ## mukta-m0-p01-v12
-excessive+harsh+character excessive+poverty excessive+grasping
+[ati+niṣṭura+śīlatvam](atiniṣṭuraśīlatvam) [ati+dainyam](atidainyam) [ati+grahaḥ](atigrahaḥ)
+
 ## mukta-m0-p01-v13
-such faults of+teacher indeed by+gaze
+[ityādayaḥ](ityādayo) [mahā+doṣāḥ](mahādoṣāḥ) [deśikasya+eva](deśikasyaiva) [vīkṣaṇāt](vīkṣaṇāt)
+
 ## mukta-m0-p01-v14
-kalā vidyā and raga and niyati time indeed and
+[kalā](kalā) [vidyā](vidyā) [ca](ca) [rāgaḥ+ca](rāgaśca) [niyatiḥ](niyatiḥ) [kālaḥ](kāla) [eva](eva) [ca](ca)
+
 ## mukta-m0-p01-v15
-by+these indeed fierce powers by+jackets
+[etābhiḥ+eva](etābhireva) [tīvrābhiḥ](tīvrābhiḥ) [śaktibhiḥ](śaktibhiḥ) [kañcuka+āṭamabhiḥ](kañcukāṭamabhiḥ)
+
 ## mukta-m0-p01-v16
-by+them jivahood attained like+samsarin moves
+[tābhiḥ+jivatvam](tābhirjjivatvam) [āpannaḥ](āpannaḥ) [saṃsārī+iva](saṃsārīva) [viceṣṭate](viceṣṭate)
+
 ## mukta-m0-p01-v17
-here+there seized jiva by+himself own+reflecting
+[itastataḥ](itastato) [hṛtaṃ](hṛtaṃ) [jīvaḥ](jīvaḥ) [svayam+eva](svayameva) [svam+āmṛśan](svamāmṛśan)
+
 ## mukta-m0-p01-v18
-reflection not by+capacity in+dirty mirror as
+[pratibimba](pratibimba) [na](na) [sāmarthyāt](sāmarthyān) [maline](maline) [darpaṇe](darpaṇe) [yathā](yathā)
+
 ## mukta-m0-p01-v19
-therefore by+impurity+destruction shiva+state+attainment+cause
+[tasmāt+malapraṇāśena](tasmānmalapraṇāśena) [śivatā+patti+kāraṇā](śivatāpattikāraṇā)
+
 ## mukta-m0-p01-v20
-beginningless+ignorance+subject impurity+mass great if
+[anādya+avidyā+vaśataḥ](anādyavidyāvaśato) [mala+rāśiḥ](malarāśiḥ) [mahān](mahān) [yadi](yadi)
+
 ## mukta-m0-p01-v21
-time+fire+million+like blazing burning fetter blazing
+[kāla+agni+koṭi+vat+dīptāṃ](kālāgnikoṭivaddīptāṃ) [dahaṃtīṃ](dahaṃtīṃ) [pāśam](pāśam) [ujvalām](ujvalām)
+
 ## mukta-m0-p01-v22
-own shakti+mantra meditate guru+gaze+pure
+[nijāṃ](nijāṃ) [śaktim+anuṃ](śaktimanuṃ) [dhyāyed](dhyāyed) [guru+vīkṣaṇa+nirmalām](guruvīkṣaṇanirmalām)
+
 ## mukta-m0-p01-v23
-so+long meditation this to+be+done all+bad+impurity+cutting
+[tāvat](tāvad) [dhyānam](dhyānam) [idaṃ](idaṃ) [kāryaṃ](kāryaṃ) [sarva+dur+mala+kartanam](sarvadurmalakartanam)
+
 ## mukta-m0-p01-v24
-by+itself shines own+self fortune+vessel
+[svayam+eva](svayameva) [prakāśeta](prakāśeta) [sva+ātmā](svātmā) [saubhāgya+bhājanam](saubhāgyabhājanam)
+
 ## mukta-m0-p01-v25
-shines
+[bhāsate](bhāsate)

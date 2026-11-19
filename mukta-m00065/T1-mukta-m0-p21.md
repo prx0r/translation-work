@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p21-v501
-[granthirūponnatagranthirjaṭharāmayadāyaka](granthirūponnatagranthirjaṭharāmayadāyaka) [granthirūponnatagranthirjaṭharāmayadāyaka](granthirūponnatagranthirjaṭharāmayadāyaka) [granthirūponnatagranthirjaṭharāmayadāyaka](granthirūponnatagranthirjaṭharāmayadāyaka) [granthirūponnatagranthirjaṭharāmayadāyaka](granthirūponnatagranthirjaṭharāmayadāyaka)
+[knot](granthi)+[form](rūpa)+[raised](unnata)+[knot](granthi)+[belly](jaṭhara)+[disease](āmaya)+[giving](dāyaka)
 
 ## mukta-m0-p21-v502
-[tuṣāraṃtadvijānīyāputraśokārtidāyakam](tuṣāraṃtadvijānīyāputraśokārtidāyakam) [tuṣāraṃtadvijānīyāputraśokārtidāyakam](tuṣāraṃtadvijānīyāputraśokārtidāyakam) [tuṣāraṃtadvijānīyāputraśokārtidāyakam](tuṣāraṃtadvijānīyāputraśokārtidāyakam) [tuṣāraṃtadvijānīyāputraśokārtidāyakam](tuṣāraṃtadvijānīyāputraśokārtidāyakam)
+[frost](tuṣāraṃ)+[that](tad)+[know](vijānīyā)+[son](putra)+[grief](śoka)+[pain](ārti)+[giving](dāyakam)
 
 ## mukta-m0-p21-v503
-[hemaghoṣāmayaṃtāmratadduṣṭaṃpiṅgalāmate](hemaghoṣāmayaṃtāmratadduṣṭaṃpiṅgalāmate) [hemaghoṣāmayaṃtāmratadduṣṭaṃpiṅgalāmate](hemaghoṣāmayaṃtāmratadduṣṭaṃpiṅgalāmate) [hemaghoṣāmayaṃtāmratadduṣṭaṃpiṅgalāmate](hemaghoṣāmayaṃtāmratadduṣṭaṃpiṅgalāmate) [hemaghoṣāmayaṃtāmratadduṣṭaṃpiṅgalāmate](hemaghoṣāmayaṃtāmratadduṣṭaṃpiṅgalāmate)
+[gold-sound](hemaghoṣa)+[made](āmayaṃ)+[copper](tāmra)+[that](tad)+[bad](duṣṭaṃ)+[piṅgalā](piṅgalā)+[view](mate)
 
 ## mukta-m0-p21-v504
-[janaṃhantyāyasākrāntāśilātāmīca](janaṃhantyāyasākrāntāśilātāmīca) [janaṃhantyāyasākrāntāśilātāmīca](janaṃhantyāyasākrāntāśilātāmīca) [janaṃhantyāyasākrāntāśilātāmīca](janaṃhantyāyasākrāntāśilātāmīca) [janaṃhantyāyasākrāntāśilātāmīca](janaṃhantyāyasākrāntāśilātāmīca)
+[people](janaṃ)+[kills](hanty)+[iron](āyasa)+[afflicted](ākrāntā)+[stone](śilā)+[that](tām)+[also](ca)+[artisan](śilpinam)
 
 ## mukta-m0-p21-v505
-[kṛṣṇaḥpīto'ruṇobinduḥsaśokabhayarogadaḥ](kṛṣṇaḥpīto'ruṇobinduḥsaśokabhayarogadaḥ) [kṛṣṇaḥpīto'ruṇobinduḥsaśokabhayarogadaḥ](kṛṣṇaḥpīto'ruṇobinduḥsaśokabhayarogadaḥ) [kṛṣṇaḥpīto'ruṇobinduḥsaśokabhayarogadaḥ](kṛṣṇaḥpīto'ruṇobinduḥsaśokabhayarogadaḥ) [kṛṣṇaḥpīto'ruṇobinduḥsaśokabhayarogadaḥ](kṛṣṇaḥpīto'ruṇobinduḥsaśokabhayarogadaḥ)
+[black](kṛṣṇaḥ)+[yellow](pītaḥ)+[red](aruṇaḥ)+[dot](binduḥ)+[that](saḥ)+[grief](śoka)+[fear](bhaya)+[disease](roga)+[giving](daḥ)
 
 ## mukta-m0-p21-v506
-[pītedhanakṣayakartuḥkṛṣṇebandhodvayordvidhā](pītedhanakṣayakartuḥkṛṣṇebandhodvayordvidhā) [pītedhanakṣayakartuḥkṛṣṇebandhodvayordvidhā](pītedhanakṣayakartuḥkṛṣṇebandhodvayordvidhā) [pītedhanakṣayakartuḥkṛṣṇebandhodvayordvidhā](pītedhanakṣayakartuḥkṛṣṇebandhodvayordvidhā) [pītedhanakṣayakartuḥkṛṣṇebandhodvayordvidhā](pītedhanakṣayakartuḥkṛṣṇebandhodvayordvidhā)
+[yellow](pīte)+[wealth](dhana)+[loss](kṣayaḥ)+[maker](kartuḥ)+[black](kṛṣṇe)+[bondage](bandhaḥ)+[both](dvayoḥ)+[twofold](dvidhā)
 
 ## mukta-m0-p21-v507
-[rekhārekhānubiddhāvāpārthivaṃsāvināśayet](rekhārekhānubiddhāvāpārthivaṃsāvināśayet) [rekhārekhānubiddhāvāpārthivaṃsāvināśayet](rekhārekhānubiddhāvāpārthivaṃsāvināśayet) [rekhārekhānubiddhāvāpārthivaṃsāvināśayet](rekhārekhānubiddhāvāpārthivaṃsāvināśayet) [rekhārekhānubiddhāvāpārthivaṃsāvināśayet](rekhārekhānubiddhāvāpārthivaṃsāvināśayet)
+[line](rekhā)+[line](rekhā)+[pierced](anubiddhā)+[or](vā)+[earthly](pārthivaṃ)+[that](sā)+[destroys](vināśayet)
 
 ## mukta-m0-p21-v508
-[svāmidhnīcacatuśchinnābahucchinnākulāntakṛt](svāmidhnīcacatuśchinnābahucchinnākulāntakṛt) [svāmidhnīcacatuśchinnābahucchinnākulāntakṛt](svāmidhnīcacatuśchinnābahucchinnākulāntakṛt) [svāmidhnīcacatuśchinnābahucchinnākulāntakṛt](svāmidhnīcacatuśchinnābahucchinnākulāntakṛt) [svāmidhnīcacatuśchinnābahucchinnākulāntakṛt](svāmidhnīcacatuśchinnābahucchinnākulāntakṛt)
+[owner-killing](svāmidhnī)+[and](ca)+[four-cut](catuśchinnā)+[many-cut](bahucchinnā)+[lineage](kula)+[ending](antakṛt)
 
 ## mukta-m0-p21-v509
-[makṣikāmakṣikākārātayākuṣṭhaṃsudāruṇam](makṣikāmakṣikākārātayākuṣṭhaṃsudāruṇam) [makṣikāmakṣikākārātayākuṣṭhaṃsudāruṇam](makṣikāmakṣikākārātayākuṣṭhaṃsudāruṇam) [makṣikāmakṣikākārātayākuṣṭhaṃsudāruṇam](makṣikāmakṣikākārātayākuṣṭhaṃsudāruṇam) [makṣikāmakṣikākārātayākuṣṭhaṃsudāruṇam](makṣikāmakṣikākārātayākuṣṭhaṃsudāruṇam)
+[fly](makṣikā)+[fly-shaped](makṣikākārā)+[by-that](tayā)+[leprosy](kuṣṭhaṃ)+[very](su)+[terrible](dāruṇam)
 
 ## mukta-m0-p21-v510
-[tadānānāgadānkuryātkartuścaivanaśaṃśayaḥ](tadānānāgadānkuryātkartuścaivanaśaṃśayaḥ) [tadānānāgadānkuryātkartuścaivanaśaṃśayaḥ](tadānānāgadānkuryātkartuścaivanaśaṃśayaḥ) [tadānānāgadānkuryātkartuścaivanaśaṃśayaḥ](tadānānāgadānkuryātkartuścaivanaśaṃśayaḥ) [tadānānāgadānkuryātkartuścaivanaśaṃśayaḥ](tadānānāgadānkuryātkartuścaivanaśaṃśayaḥ)
+[then](tadā)+[various](nānā)+[diseases](gadān)+[makes](kuryāt)+[maker](kartuḥ)+[and](ca)+[indeed](eva)+[no](na)+[doubt](saṃśayaḥ)
 
 ## mukta-m0-p21-v511
-[tyājyatadātridhāliṅgaṃnṛparāṣṭraprajārthinā](tyājyatadātridhāliṅgaṃnṛparāṣṭraprajārthinā) [tyājyatadātridhāliṅgaṃnṛparāṣṭraprajārthinā](tyājyatadātridhāliṅgaṃnṛparāṣṭraprajārthinā) [tyājyatadātridhāliṅgaṃnṛparāṣṭraprajārthinā](tyājyatadātridhāliṅgaṃnṛparāṣṭraprajārthinā) [tyājyatadātridhāliṅgaṃnṛparāṣṭraprajārthinā](tyājyatadātridhāliṅgaṃnṛparāṣṭraprajārthinā)
+[abandon](tyājyaṃ)+[that](tadā)+[threefold](tridhā)+[mark](liṅgaṃ)+[king](nṛpa)+[realm](rāṣṭra)+[subjects](prajā)+[seeking](arthinā)
 
 ## mukta-m0-p21-v512
-[vāmapārśvāśritaḥkiṃciddhanyādrāṣṭraṃsarājakam](vāmapārśvāśritaḥkiṃciddhanyādrāṣṭraṃsarājakam) [vāmapārśvāśritaḥkiṃciddhanyādrāṣṭraṃsarājakam](vāmapārśvāśritaḥkiṃciddhanyādrāṣṭraṃsarājakam) [vāmapārśvāśritaḥkiṃciddhanyādrāṣṭraṃsarājakam](vāmapārśvāśritaḥkiṃciddhanyādrāṣṭraṃsarājakam) [vāmapārśvāśritaḥkiṃciddhanyādrāṣṭraṃsarājakam](vāmapārśvāśritaḥkiṃciddhanyādrāṣṭraṃsarājakam)
+[left](vāma)+[side](pārśva)+[resting](āśritaḥ)+[somewhat](kiṃcit)+[kills](hanyāt)+[realm](rāṣṭraṃ)+[with-king](sarājakam)
 
 ## mukta-m0-p21-v513
-[sarvavarṇābhṛśaṃnūnaṃprāṇahṛtkṛṣṇahīrikā](sarvavarṇābhṛśaṃnūnaṃprāṇahṛtkṛṣṇahīrikā) [sarvavarṇābhṛśaṃnūnaṃprāṇahṛtkṛṣṇahīrikā](sarvavarṇābhṛśaṃnūnaṃprāṇahṛtkṛṣṇahīrikā) [sarvavarṇābhṛśaṃnūnaṃprāṇahṛtkṛṣṇahīrikā](sarvavarṇābhṛśaṃnūnaṃprāṇahṛtkṛṣṇahīrikā) [sarvavarṇābhṛśaṃnūnaṃprāṇahṛtkṛṣṇahīrikā](sarvavarṇābhṛśaṃnūnaṃprāṇahṛtkṛṣṇahīrikā)
+[all-colors](sarvavarṇā)+[very](bhṛśaṃ)+[indeed](nūnaṃ)+[life-taking](prāṇahṛt)+[black](kṛṣṇa)+[shame](hīrikā)
 
 ## mukta-m0-p21-v514
-[unnatolakṣyateyaścaviḍālāṅghriḥsadoṣabhāk](unnatolakṣyateyaścaviḍālāṅghriḥsadoṣabhāk) [unnatolakṣyateyaścaviḍālāṅghriḥsadoṣabhāk](unnatolakṣyateyaścaviḍālāṅghriḥsadoṣabhāk) [unnatolakṣyateyaścaviḍālāṅghriḥsadoṣabhāk](unnatolakṣyateyaścaviḍālāṅghriḥsadoṣabhāk) [unnatolakṣyateyaścaviḍālāṅghriḥsadoṣabhāk](unnatolakṣyateyaścaviḍālāṅghriḥsadoṣabhāk)
+[raised](unnataḥ)+[seen](lakṣyate)+[who](yaḥ)+[ca](ca)+[cat-foot](viḍālāṅghriḥ)+[that](saḥ)+[fault-bearing](doṣabhāk)
 
 ## mukta-m0-p21-v515
-[śilāyārūpamālakṣyatyajectāmaśubhapradām](śilāyārūpamālakṣyatyajectāmaśubhapradām) [śilāyārūpamālakṣyatyajectāmaśubhapradām](śilāyārūpamālakṣyatyajectāmaśubhapradām) [śilāyārūpamālakṣyatyajectāmaśubhapradām](śilāyārūpamālakṣyatyajectāmaśubhapradām) [śilāyārūpamālakṣyatyajectāmaśubhapradām](śilāyārūpamālakṣyatyajectāmaśubhapradām)
+[of-stone](śilāyāḥ)+[form](rūpam)+[observing](ālakṣya)+[abandon](tyajet)+[that](tām)+[inauspicious-giving](aśubhapradām)
 
 ## mukta-m0-p21-v516
-[svalpadoṣānprakṣyāmiyathāśāstreṣubhāṣitān](svalpadoṣānprakṣyāmiyathāśāstreṣubhāṣitān) [svalpadoṣānprakṣyāmiyathāśāstreṣubhāṣitān](svalpadoṣānprakṣyāmiyathāśāstreṣubhāṣitān) [svalpadoṣānprakṣyāmiyathāśāstreṣubhāṣitān](svalpadoṣānprakṣyāmiyathāśāstreṣubhāṣitān) [svalpadoṣānprakṣyāmiyathāśāstreṣubhāṣitān](svalpadoṣānprakṣyāmiyathāśāstreṣubhāṣitān)
+[small](svalpa)+[faults](doṣān)+[will-tell](prakṣyāmi)+[as](yathā)+[in-scriptures](śāstreṣu)+[spoken](bhāṣitān)
 
 ## mukta-m0-p21-v517
-[valmīkoṣaracityutthākoṣṇākṣārāmbumadhyagā](valmīkoṣaracityutthākoṣṇākṣārāmbumadhyagā) [valmīkoṣaracityutthākoṣṇākṣārāmbumadhyagā](valmīkoṣaracityutthākoṣṇākṣārāmbumadhyagā) [valmīkoṣaracityutthākoṣṇākṣārāmbumadhyagā](valmīkoṣaracityutthākoṣṇākṣārāmbumadhyagā) [valmīkoṣaracityutthākoṣṇākṣārāmbumadhyagā](valmīkoṣaracityutthākoṣṇākṣārāmbumadhyagā)
+[anthill](valmīka)+[arising](utthā)+[warm](koṣṇā)+[alkaline](kṣāra)+[water](ambu)+[middle](madhyagā)
 
 ## mukta-m0-p21-v518
-[kudiksthāsūryasantaptākadutthāmethyadūṣitā](kudiksthāsūryasantaptākadutthāmethyadūṣitā) [kudiksthāsūryasantaptākadutthāmethyadūṣitā](kudiksthāsūryasantaptākadutthāmethyadūṣitā) [kudiksthāsūryasantaptākadutthāmethyadūṣitā](kudiksthāsūryasantaptākadutthāmethyadūṣitā) [kudiksthāsūryasantaptākadutthāmethyadūṣitā](kudiksthāsūryasantaptākadutthāmethyadūṣitā)
+[bad-place](kudikstha)+[sun-heated](sūryasantaptā)+[pungent](kadu)+[arising](utthā)+[methy](methy)+[not-harmed](adūṣitā)
 
 ## mukta-m0-p21-v519
-[duṣṭajīvasvarāyācajojitānānyakarmaṇi](duṣṭajīvasvarāyācajojitānānyakarmaṇi) [duṣṭajīvasvarāyācajojitānānyakarmaṇi](duṣṭajīvasvarāyācajojitānānyakarmaṇi) [duṣṭajīvasvarāyācajojitānānyakarmaṇi](duṣṭajīvasvarāyācajojitānānyakarmaṇi) [duṣṭajīvasvarāyācajojitānānyakarmaṇi](duṣṭajīvasvarāyācajojitānānyakarmaṇi)
+[bad-life](duṣṭajīva)+[sound](svarā)+[which](yā)+[ca](ca)+[joined](yojitā)+[not](na)+[other](anya)+[work](karmaṇi)
 
 ## mukta-m0-p21-v520
-[yāyopalānulagnāsāsnehavicchittikārikāḥ](yāyopalānulagnāsāsnehavicchittikārikāḥ) [yāyopalānulagnāsāsnehavicchittikārikāḥ](yāyopalānulagnāsāsnehavicchittikārikāḥ) [yāyopalānulagnāsāsnehavicchittikārikāḥ](yāyopalānulagnāsāsnehavicchittikārikāḥ) [yāyopalānulagnāsāsnehavicchittikārikāḥ](yāyopalānulagnāsāsnehavicchittikārikāḥ)
+[which](yā)+[stone](upalā)+[attached](anulagnā)+[that](sā)+[fat](sneha)+[cutting](vicchitti)+[causing](kārikā)
 
 ## mukta-m0-p21-v521
-[ūṣarasthārthahṛjjñeyācitisthāduḥkhadāyinī](ūṣarasthārthahṛjjñeyācitisthāduḥkhadāyinī) [ūṣarasthārthahṛjjñeyācitisthāduḥkhadāyinī](ūṣarasthārthahṛjjñeyācitisthāduḥkhadāyinī) [ūṣarasthārthahṛjjñeyācitisthāduḥkhadāyinī](ūṣarasthārthahṛjjñeyācitisthāduḥkhadāyinī) [ūṣarasthārthahṛjjñeyācitisthāduḥkhadāyinī](ūṣarasthārthahṛjjñeyācitisthāduḥkhadāyinī)
+[saline](ūṣara)+[place](stha)+[wealth](artha)+[heart](hṛt)+[known](jñeyā)+[cit](citi)+[place](stha)+[pain](duḥkha)+[giving](dāyinī)
 
 ## mukta-m0-p21-v522
-[pāṣadāpuṇyadeśasthāvadhakṛdbhilla](pāṣadāpuṇyadeśasthāvadhakṛdbhilla) [pāṣadāpuṇyadeśasthāvadhakṛdbhilla](pāṣadāpuṇyadeśasthāvadhakṛdbhilla) [pāṣadāpuṇyadeśasthāvadhakṛdbhilla](pāṣadāpuṇyadeśasthāvadhakṛdbhilla) [pāṣadāpuṇyadeśasthāvadhakṛdbhilla](pāṣadāpuṇyadeśasthāvadhakṛdbhilla)
+[stone](pāṣaṇḍa)+[unmeritorious](apuṇya)+[place](deśa)+[standing](sthā)+[killing](vadhakṛt)+[bhilla](bhilla)+[served](sevitā)
 
 ## mukta-m0-p21-v523
-[dāhaṃhāniṃcaśokaṃcanaiḥsvaṃrogatathāvahet](dāhaṃhāniṃcaśokaṃcanaiḥsvaṃrogatathāvahet) [dāhaṃhāniṃcaśokaṃcanaiḥsvaṃrogatathāvahet](dāhaṃhāniṃcaśokaṃcanaiḥsvaṃrogatathāvahet) [dāhaṃhāniṃcaśokaṃcanaiḥsvaṃrogatathāvahet](dāhaṃhāniṃcaśokaṃcanaiḥsvaṃrogatathāvahet) [dāhaṃhāniṃcaśokaṃcanaiḥsvaṃrogatathāvahet](dāhaṃhāniṃcaśokaṃcanaiḥsvaṃrogatathāvahet)
+[burning](dāhaṃ)+[loss](hāniṃ)+[and](ca)+[grief](śokaṃ)+[ca](ca)+[poverty](naiḥsvaṃ)+[disease](rogaṃ)+[thus](tathā)+[brings](āvahet)
 
 ## mukta-m0-p21-v524
-[surāpakṣivasāgandhāudvegajananīśilā](surāpakṣivasāgandhāudvegajananīśilā) [surāpakṣivasāgandhāudvegajananīśilā](surāpakṣivasāgandhāudvegajananīśilā) [surāpakṣivasāgandhāudvegajananīśilā](surāpakṣivasāgandhāudvegajananīśilā) [surāpakṣivasāgandhāudvegajananīśilā](surāpakṣivasāgandhāudvegajananīśilā)
+[liquor](surā)+[wing](pakṣi)+[fat](vasā)+[smell](gandhā)+[agitation](udvega)+[producing](jananī)+[stone](śilā)
 
 ## mukta-m0-p21-v525
-[vajradagdhāgnidagdhācarājño'nalabhayapradā](vajradagdhāgnidagdhācarājño'nalabhayapradā) [vajradagdhāgnidagdhācarājño'nalabhayapradā](vajradagdhāgnidagdhācarājño'nalabhayapradā) [vajradagdhāgnidagdhācarājño'nalabhayapradā](vajradagdhāgnidagdhācarājño'nalabhayapradā) [vajradagdhāgnidagdhācarājño'nalabhayapradā](vajradagdhāgnidagdhācarājño'nalabhayapradā)
+[vajra](vajra)+[burnt](dagdhā)+[fire](agni)+[burnt](dagdhā)+[ca](ca)+[king](rājñaḥ)+[fire](anala)+[fear](bhaya)+[giving](pradā)
