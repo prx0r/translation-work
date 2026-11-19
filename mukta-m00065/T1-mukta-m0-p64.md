@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p64-v1576
-[pradhāna-śilpinam](pradhānaśilpinaṃ) [tadvat-gandha-puṣpaiḥ](tadvagdandhapuṣpaistathetarān) [tathā-itarān](tathetarān)
+[principal-artisan](pradhānaśilpinaṃ) [with-those-branch-flowers](tadvagdandhapuṣpaiḥ) [and-others](tathetarān)
 
 ## mukta-m0-p64-v1577
-[bhavat-pāda-prasādāt](bhavatpādaprasādānme) [me](me) [kṛtsnam](kṛtsnaṃ) [yāga-phalam](yāgaphalaṃ) [bhavet](bhavet)
+[by-your-foot-grace](bhavatpādaprasādāt) [to-me](me) [whole](kṛtsnaṃ) [sacrifice-fruit](yāgaphalaṃ) [may-be](bhavet)
 
 ## mukta-m0-p64-v1578
-[pāda-lagnaḥ](pādalagno) [vadet-kartā](vadetkartā) [kuru](kuru) [karma-tvat-ājñayā](karmatvadājñayā)
+[foot-attached](pādalagnaḥ) [would-say](vadet) [doer](kartā) [do](kuru) [action-by-your-command](karmatvadājñayā)
 
 ## mukta-m0-p64-v1579
-[prakṣālya](prakṣālya) [pāṇi-pādam](pāṇipādaṃ) [ca](ca) [triḥ](triḥ) [pibet](pibedambu) [ambu](ambu) [vītritam](vītritam)
+[washing](prakṣālya) [hand-foot](pāṇipādaṃ) [and](ca) [thrice](triḥ) [should-drink](pibet) [water](ambu) [purified](vītritam)
 
 ## mukta-m0-p64-v1580
-[saṃhitābhiḥ](saṃhitābhistribhiḥ) [tribhiḥ](tribhiḥ) [pūrvam](pūrvam) [āsyam](āsyamevamupaspṛśet) [evam](evam) [upaspṛśet](upaspṛśet)
+[with-three-saṃhitās](saṃhitābhistribhiḥ) [before](pūrvam) [mouth](āsyam) [thus](evam) [should-touch](upaspṛśet)
 
 ## mukta-m0-p64-v1581
-[aṅgūṣṭha-anāmikābhyām](aṅgūṣṭhānāmikābhyāṃ) [tu](tu) [cakṣuḥ-śrotre](cakṣuḥśrotre) [punaḥ-punaḥ](punaḥpunaḥ)
+[with-thumb-ring-finger](aṅgūṣṭhānāmikābhyāṃ) [tu](tu) [eyes-ears](cakṣuḥśrotre) [again-again](punaḥ+punaḥ)
 
 ## mukta-m0-p64-v1582
-[sarvābhiḥ](sarvābhistu) [tu](tu) [śiraḥ](śiraḥ) [paścāt](paścādvāhū) [vāhū](vāhū) [ca](ca) [agreṇa](agreṇa) [saṃspṛśet](saṃspṛśet)
+[with-all](sarvābhiḥ) [tu](tu) [head](śiraḥ) [afterwards](paścāt) [arms](vāhū) [and](ca) [with-front](agreṇa) [should-touch](saṃspṛśet)
 
 ## mukta-m0-p64-v1583
-[yāga-ālayam](yāgālayaṃ) [praviśya](praviśyātha) [atha](atha) [khaḍga-bījaiḥ](khaḍgabījaiḥ) [surecitaiḥ](surecitaiḥ)
+[entering-sacrifice-house](yāgālayaṃ+praviśya) [atha](atha) [with-sword-seeds](khaḍgabījaiḥ) [well-anointed](surecitaiḥ)
 
 ## mukta-m0-p64-v1584
-[bhūta-śuddhim](bhūtaśuddhiṃ) [tataḥ](tataḥ) [kuryāt](kuryānmūrtyādisakalīkṛtam) [mūrti-ādi-sakalīkṛtam](mūrtyādisakalīkṛtam)
+[bhūta-purification](bhūtaśuddhiṃ) [then](tataḥ) [should-do](kuryāt) [with-form-etc-complete](mūrtyādisakalīkṛtam)
 
 ## mukta-m0-p64-v1585
-[dvādaśa-aṅgulam](dvādaśāṅgulamutsiktaṃ) [utsiktam](utsiktaṃ) [sita-uṣṇīṣa-vidhārakaḥ](sitoṣṇīṣavidhārakaḥ)
+[twelve-angled-raised](dvādaśāṅgulam+utsiktam) [white-turban-holder](sitoṣṇīṣavidhārakaḥ)
 
 ## mukta-m0-p64-v1586
-[bhavet](bhavedyajñe) [yajñe](yajñe) [sadā-ācāryaḥ](sadācāryaḥ) [śrī-kaṇṭha-rūpa-dhārakaḥ](śrīkaṇṭharūpadhārakaḥ)
+[may-be-in-sacrifice](bhaved+yajñe) [always-teacher](sadācāryaḥ) [śrīkaṇṭha-form-bearer](śrīkaṇṭharūpadhārakaḥ)
 
 ## mukta-m0-p64-v1587
-[ity-evam](ityevaṃ) [nirvikalpena](nirvikalpena) [cetasā](cetasā) [cintayet](cintayetsadā) [sadā](sadā)
+[thus](ityevaṃ) [without-doubt](nirvikalpena) [mind](cetasā) [should-think-always](cintayet+sadā)
 
 ## mukta-m0-p64-v1588
-[tena](tenārdhavāriṇā) [ardha-vāriṇā](ardhavāriṇā) [prokṣya](prokṣya) [sarvam](sarvaṃ) [puṣpa-phala-ādikam](puṣpaphalādikam)
+[by-that-half-water](tenārdhavāriṇā) [sprinkling](prokṣya) [all](sarvaṃ) [flower-fruit-etc](puṣpaphalādikam)
 
 ## mukta-m0-p64-v1589
-[varmaṇā](varmaṇā) [saṅgahet](saṅgahetpaścāccāmarairvātha) [paścāt](paścāt) [cāmaraiḥ](cāmaraiḥ) [vā](vā) [atha](atha) [picchakaiḥ](picchakaiḥ)
+[with-armor](varmaṇā) [should-gather](saṅgahet) [afterwards](paścāt) [with-chamara-or-feather-fans](cāmarair+vātha+picchakaiḥ)
 
 ## mukta-m0-p64-v1590
-[gandha-ambu-phala-ratna-āḍhya](gandhāmbuphalaratnāḍhyamoṣadhīvastrasaṃyutam) [oṣadhī-vastra-saṃyutam](oṣadhīvastrasaṃyutam)
+[fragrance-water-fruit-gem-rich](gandhāmbuphalaratnāḍhyaḥ) [herb-cloth-endowed](oṣadhīvastrasaṃyutam)
 
 ## mukta-m0-p64-v1591
-[aiśyām](aiśyāṃ) [diśi](diśi) [astra-saṃyuktam](astrasaṃyuktaṃ) [sthāpayet](sthāpayedambaropari) [ambara-upari](ambaropari)
+[divine-direction-weapon-endowed](aiśyāṃ+diśi+astrasaṃyuktaṃ) [should-place](sthāpayet) [on-sky](ambaropari)
 
 ## mukta-m0-p64-v1592
-[vinyasya](vinyasya) [kalaśān](kalaśāṃstatra) [tatra](tatra) [tān](tāṃśca) [ca](ca) [dakṣiṇataḥ](dakṣiṇato'rcayet) [arcayet](arcayet)
+[placing](vinyasya) [pots](kalaśāṃs) [there](tatra) [them](tāṃs) [to-south](dakṣiṇataḥ) [should-worship](arcayet)
 
 ## mukta-m0-p64-v1593
-[vitānam](vitānaṃ) [mañcamāṃśena](mañcamāṃśena) [prāg-uktaiḥ](prāguktairdhvajatoraṇān) [dhvaja-toraṇān](dhvajatoraṇān)
+[canopy](vitānaṃ) [with-mañca-portion](mañcamāṃśena) [previously-said](prāguktaiḥ) [flags-arches](dhvajatoraṇān)
 
 ## mukta-m0-p64-v1594
-[saṃsthitam](saṃsthitam)
+[established](saṃsthitam)
 
 ## mukta-m0-p64-v1595
-[indra-indu-īśa-gradarbhāḥ](indrendviśāgradarbhāśva) [aśva](aśva) [stṛṇīyāt](stṛṇīyādakṣatāṃ) [akṣatām](akṣatāṃ) [śucīn](śucīn)
+[indra-etc-darbha-grass](indrendviśāgradarbhāḥ) [should-strew](stṛṇīyāt) [unbroken-rice](akṣatāṃ) [pure](śucīn)
 
 ## mukta-m0-p64-v1596
-[argham](arghaṃ) [datvā](datvā) [tu](tu) [vaktreṇa](vaktreṇa) [dhūpam](dhūpaṃ) [vai](vai) [madhyagena](madhyagena) [tu](tu)
+[offering](arghaṃ) [giving](datvā) [tu](tu) [with-mouth](vaktreṇa) [incense](dhūpaṃ) [vai](vai) [with-middle](madhyagena) [tu](tu)
 
 ## mukta-m0-p64-v1597
-[avyakta-ādīni](avyaktādīni) [liṅgāni](liṅgāni) [prāk](prāg) [indu-īśa-śirāṃsi](indvīśaśirāṃsi) [ca](ca)
+[unmanifest-etc](avyaktādīni) [liṅgas](liṅgāni) [east-indra-śira-etc](prāgindvīśaśirāṃsi) [ca](ca)
 
 ## mukta-m0-p64-v1598
-[viṣama-sūtrakaiḥ](viṣamasūtrakaiḥ)
+[with-uneven-threads](viṣamasūtrakaiḥ)
 
 ## mukta-m0-p64-v1599
-[ūrdhva-adha-aṃśa-parityāgāt](ūrdhvādhoṃśaparityāgātpunarvṛttiṃ) [punar-vṛttim](punarvṛttiṃ) [dvidhā-aṃśataḥ](dvidhāṃśataḥ)
+[by-upper-lower-portion-abandonment](ūrdhvādhoṃśaparityāgāt) [again-circulation](punarvṛttiṃ) [twofold-portion](dvidhāṃśataḥ)
 
 ## mukta-m0-p64-v1600
-[antar-luptvā](antarluptvā) [sahasrāṇi](sahasrāṇi) [bhavati](bhavatyantaritaiḥ) [antaritaiḥ](antaritaiḥ) [sadā](sadā)
+[inside-concealing](antarluptvā) [thousands](sahasrāṇi) [becomes](bhavati) [with-intervals](antaritaiḥ) [always](sadā)
