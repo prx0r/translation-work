@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p45-v1101
-[embracing](parirabhya) [but](tu) [husband](bhartāraṃ) [jingling](kvaṇat) [bracelet](kaṃkaṇa) [arm-creeper](dorlatāḥ)
+[embracing](parirabhya) [but](tu) [husband](bhartāraṃ) [tinkling](kvaṇat) [bracelet-arm-vines](kaṃkaṇadorlatāḥ)
 
 ## mukta-m0-p45-v1102
-[not](na) [by-brahma](brahmaṇā) [not](na) [by-indra](śakreṇa) [not](na) [by-me](mayā) [not](na) [and](ca) [by-vishnu](viṣṇunā)
+[not](na) [by-Brahma](brahmaṇā) [not](na) [by-Indra](śakreṇa) [not](na) [by-me](mayā) [not](na) [and](ca) [by-Vishnu](viṣṇunā)
 
 ## mukta-m0-p45-v1103
-[even](api) [by-hundred-walls](prākāraśatakair) [moment-by-moment](anukṣaṇa) [well-guarded](surakṣitāḥ)
+[even](api) [by-hundred-walls](prākāraśatakair) [moment-by-moment](anukṣaṇa) [well-protected](surakṣitāḥ)
 
 ## mukta-m0-p45-v1104
-[of-women](strīṇāṃ) [bad-conduct](duḥsilakaraṇe) [and](ca) [deluding-others](paravyāmohane) [also](api)
+[women's](strīṇāṃ) [bad-conduct-making](duḥsilakaraṇe) [deluding-others](paravyāmohane) [also](api) [and](ca)
 
 ## mukta-m0-p45-v1105
-[by-anyone](kenāpi) [not](na) [grasped](gṛhastāsāṃ) [mind](cittasyātī) [fickleness](valolataḥ)
+[by-anyone](kenāpi) [not](na) [of-householders](gṛhastāsāṃ) [mind's](cittasyāti) [extreme-fickleness](valolataḥ)
 
 ## mukta-m0-p45-v1106
-[not](na) [purity](pūtirmanasaḥ) [anywhere](kvāpi) [not](na) [satisfaction](tṛptiḥ) [anywhere](kvāpikarmaṇi)
+[not](na) [purity-of-mind](pūtirmanasaḥ) [anywhere](kvāpi) [not](na) [satisfaction](tṛptiḥ) [anywhere-in-action](kvāpikarmaṇi)
 
 ## mukta-m0-p45-v1107
-[one-another](anyamanyaṃ) [thinking](ciṃtayaṃto) [hidden](gūḍhā) [intention](abhiprāya) [efforts](ceṣṭitāḥ)
+[one-another](anyamanyaṃ) [thinking](ciṃtayaṃto) [hidden-intent-actions](gūḍhābhiprāyaceṣṭitāḥ)
 
 ## mukta-m0-p45-v1108
-[not](na) [but](tu) [their](tāsāṃ) [mental-gloom](manoglāniḥ) [to-life-limit](prāṇaparyaṃta) [daring](sāhasaiḥ)
+[not](na) [but](tu) [their](tāsāṃ) [mind-weariness](manoglāniḥ) [life-limit](prāṇaparyaṃta) [with-daring](sāhasaiḥ)
 
 ## mukta-m0-p45-v1109
-[not](na) [fire](agniḥ) [satisfied](tṛpyati) [with-wood](kāṣṭhānāṃ) [not](na) [ocean](mahodadhiḥ) [with-rivers](nāpagānāṃ)
+[not](na) [fire](agniḥ) [satisfied](tṛpyati) [by-wood](kāṣṭhānāṃ) [not](na) [rivers](āpagānāṃ) [great-ocean](mahodadhiḥ)
 
 ## mukta-m0-p45-v1110
-[of-women](strīṇāṃ) [double](dviguṇam) [food](āhāro) [mind](buddhiḥ) [and](ca) [api](api) [fourfold](caturguṇam)
+[women's](strīṇāṃ) [double-food](dviguṇamāhāro) [intelligence](buddhiḥ) [and](ca) [also](api) [fourfold](caturguṇam)
 
 ## mukta-m0-p45-v1111
-[great-sacrifice](mahāyāga) [occasion](prasaṃgena) [spoken](proktaṃ) [kama-octad](kāmāṣṭakaṃ) [by-me](mayā)
+[great-sacrifice](mahāyāga) [occasion](prasaṃgena) [spoken](proktaṃ) [eight-desires](kāmāṣṭakaṃ) [by-me](mayā)
 
 ## mukta-m0-p45-v1112
-[therefore](tasmādala) [of-sharp-eyed](dṛṣṭīnāṃ) [peacock-feather-haired-browed](marālacikurabhruvām)
+[therefore](tasmādala) [of-fickle-eyed](dṛṣṭīnāṃ) [deer-like-hair-browed](marālacikurabhruvām)
 
 ## mukta-m0-p45-v1113
-[their](tāsāṃ) [if](yadi) [mind](mano) [in-man](puṃsi) [anywhere](kutrāpi) [clings](parilipyate)
+[their](tāsāṃ) [if](yadi) [mind-in-man](manopuṃsi) [anywhere](kutrāpi) [clings](parilipyate)
 
 ## mukta-m0-p45-v1114
-[not](na) [and](ca) [melts](dravati) [enjoyment-water](bhogāṃbu) [not](na) [and](ca) [charm-abundance](vibhramasaṃpadaḥ)
+[not](na) [and](ca) [melts](dravati) [pleasure-water](bhogāṃbu) [not](na) [and](ca) [delusion-wealth](vibhramasaṃpadaḥ)
 
 ## mukta-m0-p45-v1115
-[therefore](tasmānmanaḥ) [supreme](paraṃ) [will-speak](vakṣya) [from-mind](manyato) [of-deer-eyed](hariṇīdṛśām)
+[therefore](tasmānmanaḥ) [supreme](paraṃ) [I-will-speak](vakṣya) [mind](manyato) [deer-eyed](hariṇīdṛśām)
 
 ## mukta-m0-p45-v1116
-[beauty](sauṃdarya) [charm](vibhrama) [speech](ālāpa) [pleasure](saukhya) [erotic](śṛṃgāra) [abundance](saṃpadaḥ)
+[beauty-delusion-talk](sauṃdaryavibhramālāpa) [happiness-erotic-wealth](saukhyaśṛṃgārasaṃpadaḥ)
 
 ## mukta-m0-p45-v1117
-[concealment](avahiththā) [by-force](vaśenaiva) [other-man](parapūruṣa) [fickleness](lolatā)
+[concealment-power](avahiththāvaśenaiva) [other-man-fickleness](parapūruṣalolatā)
 
 ## mukta-m0-p45-v1118
-[fools](mūḍhā) [stiff](stabdhā) [not](na) [know](jānaṃti) [feeling](bhāvaṃ) [artificial](kṛtrima) [effort](ceṣṭitam)
+[foolish-stunned](mūḍhāstabdhā) [not](na) [know](jānaṃti) [feeling](bhāvaṃ) [artificial-action](kṛtrimaceṣṭitam)
 
 ## mukta-m0-p45-v1119
-[alas](aho) [by-fool](mūḍhena) [hard-to-discern](durllakṣyaṃ) [of-women](strīṇām) [form-effort](ākṛticeṣṭitam)
+[ah](aho) [by-fool](mūḍhena) [hard-to-discern](durllakṣyaṃ) [women's-form-action](strīṇāmākṛticeṣṭitam)
 
 ## mukta-m0-p45-v1120
-[of-deceivers](vaṃcakānāṃ) [and](ca) [all](sarveṣāṃ) [deceiver](vaṃcakā) [beautiful-eyed](vamalocanā)
+[of-deceivers](vaṃcakānāṃ) [and](ca) [all](sarveṣāṃ) [deceiver](vaṃcakā) [crooked-eyed](vamalocanā)
 
 ## mukta-m0-p45-v1121
-[even](api) [scripture-knower](śāstravivettāraṃmapi) [even](api) [by-scripture](śāstreṇa) [lustful](laṃpaṭāḥ)
+[even](api) [scripture-knower](śāstravivettāraṃmapi) [by-scripture](śāstreṇa) [lustful](laṃpaṭāḥ)
 
 ## mukta-m0-p45-v1122
-[even](api) [rope-striking](rajjupraharaṇamapi) [even](api) [protection-skillful](rakṣaṇadakṣiṇam)
+[even](api) [rope-weapon](rajjupraharaṇamapi) [protection-skillful](rakṣaṇadakṣiṇam)
 
 ## mukta-m0-p45-v1123
-[even](apyuddhatamapi) [even](api) [angry](kṛddhamapi) [even](api) [thief](coramapiprabhum) [even](api) [lord](prabhum)
+[even-arrogant](apyuddhatamapi) [even-angry](kṛddhamapi) [even-thief](coramapi) [lord](prabhum)
 
 ## mukta-m0-p45-v1124
-[who](yastrīṇāṃ) [heart-serpent](hṛdayavyāla) [grasping](grahaṇe) [snake-charmer](cāhituṃḍikaḥ)
+[who](yastrīṇāṃ) [heart-snake-catching](hṛdayavyālagrahaṇe) [and-hook](cāhituṃḍikaḥ)
 
 ## mukta-m0-p45-v1125
-[of-hero](vīrasyeva) [excellent](prakṛṣṭena) [conduct](samācāreṇajāyate)
+[like-hero](vīrasyeva) [excellent](prakṛṣṭena) [conduct](samācāreṇajāyate)
