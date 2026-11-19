@@ -2,76 +2,52 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p112-v2776
-[therefore+should-make+of-waters](tasmātkuryādapāṃ) [in-path](mārge) [two](dve) [two](dve) [by-openings](randhrai) [from-earth+progression](mahīkramāt)
-
+therefore-make+water-path two-two holes earth-measure
 ## mukta-m0-p112-v2777
-[there+with-rāma+portions](rāmāṃśaistatra) [lump](piṇḍī) [should-be+with-season+veda+yama+portions](syādṛtuvedayamāṃśakaiḥ)
-
+rama-parts there mound be season-veda-fraction-parts
 ## mukta-m0-p112-v2778
-[exit+in-each-direction+only](niṣkrāntirdiśadiśyaiva) [nine+only](navaiva) [small-chariots](rathakā) [are-considered](matāḥ)
-
+exit direction-by-direction nine chariot-opinion
 ## mukta-m0-p112-v2779
-[having-made+with-eighteen+earth](kṛtvāṣṭādaśabhirbhūḥ) [should-be+other+one-by-one](syādanyaikaikaṃ) [without](vinā) [by-sequence](kramāt)
-
+making eighteen earth be other one-by-one without order
 ## mukta-m0-p112-v2780
-[four+doors](caturdvāraṃ) [four+openings](caturnāsaṃ) [endowed+with-variegated+caves](vicitrakuharairyutam)
-
+four-gate four-nose various-cavities-yoked
 ## mukta-m0-p112-v2781
-[ninety+peaked](daśonaśataśṛṅgaṃ) [and](ca) [should-arrange](vidadhyān) [mandara](mandaraṃ) [wise-one](sudhīḥ)
-
+ten-less-hundred-peaks also make mandara wise
 ## mukta-m0-p112-v2782
-[quality](guṇaṃ) [form](rūpaṃ) [then-in-front](tadagre) [and](ca) [earth](bhūḥ) [obliquely+fire](tiryagvahniṃ) [should-destroy](vināśayet)
-
+quality form that-front earth transverse-fire destroy
 ## mukta-m0-p112-v2783
-[so+having-removed](tadvalluptvā) [in-between](antare) [half-middle+chariot](madhyārdharathaṃ) [should-place+with-waters](sthāpayejjalaiḥ)
-
+that-like cutting middle half-chariot place water
 ## mukta-m0-p112-v2784
-[like-mādi](mādivat)
-
+as-mada
 ## mukta-m0-p112-v2785
-[by-leaving+each+remainder+sun+earth+rise](śeṣaikaikaparityāgādarkabhūmīsamucchrayam)
-
+remainder one-by-one-abandonment sun-earth-rise
 ## mukta-m0-p112-v2786
-[eighty+peaked+endowed](aśītiśṛṅgasayuktaṃ) [kailāsa](kailāsaṃ) [should-make](ghaṭayet) [excellent](varam)
-
+eighty-peaks-yoked kailasa make excellent
 ## mukta-m0-p112-v2787
-[from-three-reduction+on-left](trikṣayādvāmataḥ) [corner+of-those+pillar+by-thinning](koṇastayostambhastanukṣayāt)
-
+three-decay from-left corner those-pillar thin-decay
 ## mukta-m0-p112-v2788
-[thus+indeed+later-half](itthamevāparārdhaṃ) [should-be+in-four+directions](syāccaturdikṣu) [all-around](samantataḥ)
-
+thus-other-half be four directions all-around
 ## mukta-m0-p112-v2789
-[with+door+bolt+veda+jars+snake+windows](sakapāṭārgalairvedaghaṭairnāgagavākṣakaiḥ)
-
+door-bolt-veda-vessel-snake window
 ## mukta-m0-p112-v2790
-[from-that-above+one-by-one+reduction](tadūrdhvaikaikasaṃhrāsāt) [should-be-made](kartavyā) [storeys](bhūmayo) [ten](daśa)
-
+that-above one-by-one-decrease make earths ten
 ## mukta-m0-p112-v2791
-[caves](kuharāṇi) [in-middle+of-gods](surairmadhye) [in-chariot](rathake) [may-be](syuḥ) [two-vimanas](vimānakau)
-
+cavities gods middle chariot two-vimana
 ## mukta-m0-p112-v2792
-[one-door+eight+feet](dvāraikāṣṭakāṅghri) [in-beginning+lord](samādyeśaḥ) [with-seventy+tusks](saptatibhirviṣāṇakaiḥ)
-
+door-one-eight beginning lord seventy tusks
 ## mukta-m0-p112-v2793
-[by-one-one+part](bhāgaikaikena) [from-arrangement](saṃveśāt) [by-three-parts+and](tryaṃśaiśca) [upper-part](uparadhau) [two-considered](matau)
-
+part one-by-one insertion three-parts upper-two opinion
 ## mukta-m0-p112-v2794
-[with-support](sāndhāraḥ) [four-faced+and](caturāsyaśca) [veda-nosed](vedāghraḥ) [endowed-with-revolving](bhramaṇānvitaḥ)
-
+support four-faced veda-fragrant rotation-possessed
 ## mukta-m0-p112-v2795
-[by-vidyādhara-crowded](vidyādhārākulaiḥ) [beautiful](ramyaiḥ) [bhadra](bhadraḥ) [should-be](syāt) [sixty-peaked](ṣaṣṭiśṛṅgavān)
-
+vidyadhara-hosts pleasant bhadra be sixty-peaks
 ## mukta-m0-p112-v2796
-[by-bhadra-parts](bhadrabhāgaiḥ) [mahābhadra](mahābhadraḥ) [said](proktaḥ) [adorned-with-stairs](sopānaśobhitaḥ)
-
+bhadra-parts great-bhadra said stair-beauty
 ## mukta-m0-p112-v2797
-[above+vimāna-part](upariṣṭādvimānāṃśaḥ) [by-sequence](kramataḥ) [meru+mandara](merumandarau)
-
+above vimana-part order meru-mandara
 ## mukta-m0-p112-v2798
-[all-soul](sarvātmā) [with-peaks](śikharaiḥ) [should-be-made](kāryaḥ) [sarvatobhadra](sarvatobhadrakaḥ) [since](yataḥ)
-
+all-self peaks make all-around-bhadra because
 ## mukta-m0-p112-v2799
-[endowed-with-four-jars](caturghaṭasamopetaḥ) [joined-with-stairs+terrace](sopānavalabhīyutaḥ)
-
+four-vessel-equipped stair-pediment-yoked
 ## mukta-m0-p112-v2800
-[endowed-with-kūṭa+moon-hall](kūṭānvitenduśālā) [should-be](syāt) [direction-door-foot-face](digdvārāṅghryāsyakaḥ) [of-beauty](rucaḥ)
+peak-possessed-moon-hall be four-gate-foot-mouth radiance

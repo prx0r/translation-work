@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p15-v351
-[from-movement](calanāt) [of-delusion+form](moha+rūpasya) [from-stepping-forth](kramaṇāt) [of-supreme+consciousness](para+saṃvidaḥ)
+movement-of-delusion-form(calanāt) of-delusion-form(moharūpasya) by-progression(kramaṇāt) of-supreme-consciousness(parasaṃvidaḥ)
 
 ## mukta-m0-p15-v352
-[from-flashing-forth+transgression](uddyotā+tikramaḥ) [and-also](cāpi) [by-twofoldness](dvaividhyena) [is-established](vyavasthitaḥ)
+illumination-transcendence(uddyotātikramaḥ) also(cāpi) twofold(dvaividhyena) established(vyavasthitaḥ)
 
 ## mukta-m0-p15-v353
-[one](ekaḥ) [that+reversal+natured](tad+vyukrama+ātmā) [other](anyaḥ) [established-in+supreme+space](parā+kāśa+pratiṣṭhitaḥ)
+one(ekaḥ) that-transcendence(tadvyukramā) self(ātmā) other(anyah) in-supreme-space(parākāśapratiṣṭhitaḥ)
 
 ## mukta-m0-p15-v354
-[from-contact+with-desire](kāma+saṃsargataḥ) [of-that](tasya) [by-turning-back](pratyāvṛttyā) [on-all-sides](samantataḥ)
+by-desire-contact(kāmasaṃsargataḥ) of-that(tasya) by-return(pratyāvṛttyā) all-around(samantataḥ)
 
 ## mukta-m0-p15-v355
-[in-non-conceptual+known-through+engagement+with-objects](viṣaya+ābhoga+nirjñāta+nirvikalpe) [even](api) [which](yat) [clear](sphuṭam)
+object-enjoyment-exclusion(viṣayābhoganirjñāta) in-nondual(yat) clear(sphuṭam)
 
 ## mukta-m0-p15-v356
-[in-inward-facing-state](antar+mukhatve) [but](tu) [from-flashing-forth](uddyotāt) [consisting-of+activity+of-apprehension+of-entities](bhāva+āmarśa+kriyā+ātmakāt)
+inwardness(antarmukhatve) then(tu) from-illumination(uddyotāt) of-being-reflection(bhāvāmarśa) action-nature(kriyātmakāt)
 
 ## mukta-m0-p15-v357
-[thus](evaṃ) [on-the-occasion+of-absence+of-outward-facing](bahir+mukha+abhāva+avasare) [indeed](hi) [arising-and-so-forth](udaya+ādikam)
+thus(evaṃ) absence-of-outwardness(bahirmukhābhāva) occasion(avasare) rising(udayādikam)
 
 ## mukta-m0-p15-v358
-[that](tad) [having-resorted-to+outer+universe](bahir+viśvam+āśrityā) [*](*) [of-action+nature](kriyā+ātmanaḥ)
+that(tad) outer-universe(bahirviśvam) resorting(āśritya) action-nature(kriyātmanaḥ)
 
 ## mukta-m0-p15-v359
-[*](* * * *) [having-resorted-to](samāśritya) [previously](pūrvaṃ) [by-the-nature+of-sequence+of-seats](pīṭha+krama+ātmanā)
+resorting(samāśritya) formerly(pūrvaṃ) seat-progression(pīṭhakramātmanaḥ)
 
 ## mukta-m0-p15-v360
-[then](tato) [of-the-universe](viśvasya) [arrangement](saṃsthānam) [from-the-root](ā+mūlāt) [explained](pratipāditam)
+then(tataḥ) of-universe(viśvasya) establishment(saṃsthānam) from-root(āmūlāt) demonstrated(pratipāditam)
 
 ## mukta-m0-p15-v361
-[now](idānīṃ) [by-which](yena) [form](rūpeṇa) [of-all+forms](sarva+ākāraṃ) [is-dissolved](vilīyate)
+now(idānīṃ) by-which-form(yena rūpeṇa) all-formed(sarvākāraṃ) dissolved(vilīyate)
 
 ## mukta-m0-p15-v362
-[in-perfect-union](sāmarasye) [when-arisen](pravṛtte) [even](api) [characterized-by+mingling+of-knowledge](jñāna+melāpa+lakṣaṇe)
+in-harmony(sāmarasye) arisen(pravṛtte) knowledge-melting(jñānamelāpa) characteristic(lakṣaṇe)
 
 ## mukta-m0-p15-v363
-[therefore](ataḥ) [action](kriyāṃ) [without](vinā) [of-them](teṣāṃ) [indeed](hi) [extraction](nirharaṇaṃ) [would-be](bhavet)
+therefore(ataḥ) without-action(kriyāṃ vinā) of-them(teṣāṃ) indeed(hi) removal(nirharaṇaṃ) would-be(bhavet)
 
 ## mukta-m0-p15-v364
-[enough](alaṃ) [engaged-in+devouring](grāsa+pravṛttena) [by-immersion+in-action](kriyā+āveśena) [in-reality](tattvataḥ)
+enough(alaṃ) with-grasping-practice(grāsapravṛttena) by-action-entry(kriyāveśena) truly(tattvataḥ)
 
 ## mukta-m0-p15-v365
-[consisting-of+Raudreśvarī](raudreśvarī+mayaḥ) [expansion](sphāraḥ) [ground+of-supreme+grace](para+anugraha+bhūmikaḥ)
+of-rudreśvarī(rudreśvarīmayaḥ) sphere(sphāraḥ) supreme-grace-ground(parānugrahabhūmikaḥ)
 
 ## mukta-m0-p15-v366
-[of-unconditioned+free+nature](niḥ+saṃskāra+prakāma+ātmā) [supreme+power](parā+śaktiḥ) [operates](pravartate)
+without-impressions(nissaṃskāra) desire-nature(prakāmātmā) supreme-power(parāśaktiḥ) operates(pravartate)
 
 ## mukta-m0-p15-v367
-[unobstructedness](nirāvaraṇatā) [because](yasmāt) [therefore](ataḥ) [arises](sañjāyate) [clearly](sphuṭam)
+unveiledness(nirāvaraṇatā) because(yasmāt) therefore(ataḥ) arises(sañjāyate) clearly(sphuṭam)
 
 ## mukta-m0-p15-v368
-[in-the-form+of-gradual+sequence](sopāna+krama+rūpeṇa) [sixty-four](catuḥ+ṣaṣṭiḥ) [are-described](nirūpitāḥ)
+stepwise(sopānakrama) form(rūpeṇa) sixty-four(catuṣṣaṣṭiḥ) determined(nirūpitāḥ)
 
 ## mukta-m0-p15-v369
-[by-the-nature+of-reflective-awareness+of-consciousness](cit+vimarśa+sva+rūpeṇa) [by-forcible+maturation](haṭha+pākena) [dissolution](gālanam)
+consciousness-reflection(cidvimarśa) nature(svarūpeṇa) forceful-cooking(haṭhapākena) melting(gālanam)
 
 ## mukta-m0-p15-v370
-[there](tatra) [form+of-Raudreśvarī](raudreśvarī+rūpaṃ) [first](prathamaṃ) [of-sixteen+nature](ṣoḍaśa+ātmanaḥ)
+there(tatra) rudreśvarī-form(rudreśvarīrūpaṃ) first(prathamaṃ) sixteen(ṣoḍaśātmanaḥ)
 
 ## mukta-m0-p15-v371
-[to-unobstructedness](nirāvaraṇatāṃ) [to-lead](netuṃ) [engaged](pravṛttaṃ) [from-reflective-awareness+of-consciousness](cit+vimarśataḥ)
+to-unveiledness(nirāvaraṇatāṃ) to-lead(netuṃ) proceeds(pravṛttaṃ) from-consciousness-reflection(cidvimarśataḥ)
 
 ## mukta-m0-p15-v372
-[by-I-consciousness](ahaṅkāreṇa) [state-of-accomplishment](siddhatvam) [having-resorted-to](śritvā) [of-the-rays+of-each-of-them](tat+tat+marīcinām)
+by-ego(ahaṅkāreṇa) accomplishment(siddhatvaṃ) resorting(śritvā) that-ray(tattanmarīcinām)
 
 ## mukta-m0-p15-v373
-[having-entered](āviśya) [wheel+of-latencies+of-knowables](meya+saṃskāra+cakraṃ) [there](tatra) [dissolves](pralīyate)
+entering(āviśya) object-impression-wheel(meyasaṃskāracakraṃ) there(tatra) dissolves(pralīyate)
 
 ## mukta-m0-p15-v374
-[of-the-wheel+of-latencies+of-the-mind](māna+saṃskāra+cakrasya) [of-the-nature+of-sequence+of-turning-back](pratyāvṛtti+krama+ātmanaḥ)
+mental-impression-wheel(mānasaṃskāracakrasya) return-progression(pratyāvṛttikramātmanaḥ)
 
 ## mukta-m0-p15-v375
-[by-the-qualities+of-protection+and-cognition](manana+trāṇa+dharmābhyāṃ) [state+consisting-of+accomplishment+of-mantra](mantra+siddha+maya+ātmatām)
+by-mind-protection(manana) by-shelter(trāṇa) by-dharmas(dharmābhyāṃ) mantra-accomplished(mantrasiddha) self-nature(mayātmatām)

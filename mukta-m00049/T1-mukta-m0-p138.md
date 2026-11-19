@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p138-v3426
-[with-mantra](mantreṇa) [to-the-god](devāya) [garments](vastre) [one-should-give](dadyāt) [||](||) [228](228)
+[by-mantra](mantreṇa) [to-god](devāya) [garment](vastre) [should-give](dadyāt)
 
 ## mukta-m0-p138-v3427
-[mantra](mantram) [+speaks](āha) [viśvābharaṇa](viśvābharaṇa) [bhūtāya+iti](bhūtāyeti)
+[mantra-says](mantram) [viśvābharaṇa](viśvābharaṇa) [to-being](bhūtāya) [thus](iti)
 
 ## mukta-m0-p138-v3428
-[to-that](tasmai) [supreme+self](parātmane) [to-you](tubhyaṃ) [supreme](paramaṃ) [fragrance](gandham) [I-offer](arpaye)
+[to-him](tasmai) [supreme-self](parātmane) [to-you](tubhyam) [supreme](paramam) [fragrance](gandham) [I-offer](arpaye)
 
 ## mukta-m0-p138-v3429
-[by-me](mayā) [offered](niveditaṃ) [with-devotion](bhaktyā) [flower](puṣpam) [+this](etat) [let-it-be-accepted](pragṛhyatām)
+[by-me](mayā) [offered](niveditam) [with-devotion](bhaktyā) [flower](puṣpam) [this](etat) [be-accepted](pragṛhyatām)
 
 ## mukta-m0-p138-v3430
-[to-be-smelled](āghreyaḥ) [of-all+beings](sarvabhūtānāṃ) [incense](dhūpo) [for-nose](ghrāṇāya) [to-you](te) [+is-offered]('rpyate)
+[to-be-smelled](āghreyaḥ) [of-all-beings](sarvabhūtānām) [incense](dhūpaḥ) [for-nose](ghrāṇāya) [to-you](te) [is-offered](arpate)
 
 ## mukta-m0-p138-v3431
-[with-external+internal+light](sabāhyābhyantarajyotir) [+lamp](dīpo) [+this]('yaṃ) [let-it-be-accepted](pratigṛhyatām)
+[with-external-internal-light](sabāhyābhyantarajyotiḥ) [lamp](dīpaḥ) [this](ayam) [be-accepted](pratigṛhyatām)
 
 ## mukta-m0-p138-v3432
-[I-offer](nivedayāmi) [with-devotion+this](bhaktyedaṃ) [enjoy](juṣāṇa) [o-supreme+lord](parameśvara)
+[I-offer](nivedayāmi) [with-devotion](bhaktyā) [this](idam) [accept](juṣāṇa) [supreme-lord](parameśvara)
 
 ## mukta-m0-p138-v3433
-[all+satisfaction+making](sarvatṛptikaraṃ) [pure](svaccham) [I-offer](arpayāmi) [obeisance](namo) [+be]('stu) [to-you](te)
+[all-satisfying](sarvatṛptikaram) [pure](svaccham) [I-offer](arpayāmi) [salutation](namaḥ) [be-to-you](astu te)
 
 ## mukta-m0-p138-v3434
-[betel](tāmbūlaṃ) [again+sipping-water](punarācamyaṃ) [having-given](dattvā) [salutation](vandanam) [one-should-perform](ācaret)
+[betel](tāmbūlam) [again-ācamana](punarācamyam) [having-given](dattvā) [salutation](vandanam) [should-perform](ācaret)
 
 ## mukta-m0-p138-v3435
-[fragrance](gandhaṃ) [one-should-give](dadyāt) [fragrance](gandhaṃ) [one-should-give](dadyāt)
+[fragrance](gandham) [should-give](dadyāt)
 
 ## mukta-m0-p138-v3436
-[flower+iti+etc](puṣpamityādinā) [with-mantra](mantreṇa) [to-the-god](devāya) [flower](puṣpaṃ) [one-should-give](dadyāt)
+[flower-etc](puṣpamityādinā) [by-mantra](mantreṇa) [to-god](devāya) [flower](puṣpam) [should-give](dadyāt)
 
 ## mukta-m0-p138-v3437
-[with-mantra](mantreṇa) [to-the-god](devāya) [incense](dhūpaṃ) [one-should-give](dadyāt)
+[by-mantra](mantreṇa) [to-god](devāya) [incense](dhūpam) [should-give](dadyāt)
 
 ## mukta-m0-p138-v3438
-[suprakāśa](suprakāśa) [iti+etc+with-mantra](ityādimantreṇa) [to-the-god](devāya) [lamp](dīpaṃ) [one-should-give](dadyāt)
+[suprakāśa-etc](suprakāśa ityādimantreṇa) [to-god](devāya) [lamp](dīpam) [should-give](dadyāt)
 
 ## mukta-m0-p138-v3439
-[food-offering+iti+etc](naivedyamityādinā) [to-the-god](devāya) [food-offering](naivedyaṃ) [one-should-give](dadyāt)
+[naivedya-etc](naivedyamityādinā) [to-god](devāya) [food-offering](naivedyam) [should-give](dadyāt)
 
 ## mukta-m0-p138-v3440
-[one-should-give](dadyāt) [or](vā) [separate+support](pṛthagādhāraṃ) [that+that+name](tattannāma) [uttering](samuccaran)
+[should-give-or](dadyādvā) [separate-vessel](pṛthagādhāram) [each-name](tattannāma) [reciting](samuccaran)
 
 ## mukta-m0-p138-v3441
-[with-cover+house](sācchādanaṃ) [house](gṛhaṃ) [having-sprinkled](prokṣya) [one-should-recite](paṭhet) [+this](enaṃ) [with-joined+palms](kṛtāñjaliḥ)
+[with-covering](sācchādanam) [house](gṛham) [having-sprinkled](prokṣya) [should-recite](paṭhet) [this](enam) [with-folded-hands](kṛtāñjaliḥ)
 
 ## mukta-m0-p138-v3442
-[in-deity+placement+givings](devatāsthitidāneṣu) [meru+like](sumerusadṛśo) [become](bhava) [you](tvam)
+[in-god-installation-gifts](devatāsthitidāneṣu) [like-sumeru](sumerusadṛśaḥ) [be](bhava)
 
 ## mukta-m0-p138-v3443
-[because](yat) [by-you](tvayā) [supported](vidhṛto) [god](devas) [+therefore](tasmāt) [you](tvaṃ) [by-gods+praised](suravanditaḥ)
+[because](yat) [by-you](tvayā) [held](vidhṛtaḥ) [god](devaḥ) [therefore](tasmāt) [you](tvam) [god-praised](suravanditaḥ)
 
 ## mukta-m0-p138-v3444
-[of-māyā+held+body](māyavidhṛtadehasya) [of-that](tasya) [of-form](mūrter) [from-supporting](vidhāraṇāt)
+[of-māyā-held-body](māyavidhṛtadehasya) [of-that](tasya) [image](mūrteḥ) [holding](vidhāraṇāt)
 
 ## mukta-m0-p138-v3445
-[all+desire+giver](sarvakāmaprado) [having-become](bhūtvā) [peace](śāntiṃ) [to-me](me) [make](kuru) [to-you](te) [obeisance](namaḥ)
+[all-desires-giving](sarvakāmapradaḥ) [having-become](bhūtvā) [peace](śāntim) [to-me](me) [do](kuru) [to-you](te) [salutation](namaḥ)
 
 ## mukta-m0-p138-v3446
-[of-self](ātmanaḥ) [desire](kāmam) [having-aimed](uddiśya) [one-should-give](dadyāt) [to-the-god](devāya) [practitioner](sādhakaḥ)
+[for-self](ātmanaḥ) [desire](kāmam) [intending](uddiśya) [should-give](dadyāt) [to-god](devāya) [practitioner](sādhakaḥ)
 
 ## mukta-m0-p138-v3447
-[this](enaṃ) [what](kaṃ) [one-should-recite](paṭhet) [iti+thus+in-expectation](ityākāṅkṣāyām) [+says](āha) [geha](geha) [tvam+iti+etc](tvamityādi)
+[this](enam) [which](kaṃ) [should-recite](paṭhet) [thus-question](ityākāṅkṣāyām) [says](āha) [house](geha) [you](tvam) [etc](ityādi)
 
 ## mukta-m0-p138-v3448
-[in-belly](kukṣau) [in-abdomen](udare) [||](||) [242](242)
+[in-belly](kukṣau) [in-belly](udare)
 
 ## mukta-m0-p138-v3449
-[one-should-give](dadyāt) [one-should-give](dadyāt) [one-should-give](dadyāt) [one-should-give](dadyāt)
+[should-give](dadyāt)
 
 ## mukta-m0-p138-v3450
-[accept](aṅgīkuru) [o-great+lord](maheśāna) [with-compassion](kṛpayā) [be-present](sannidhīyatām)
+[accept](aṅgīkuru) [great-lord](maheśāna) [with-mercy](kṛpayā) [be-present](sannidhīyatām)

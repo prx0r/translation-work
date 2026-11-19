@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p122-v3026
-[to+monk+obeisance](bhikṣavenamaḥ) [monk+form+to+obeisance](bhikṣurūpāyanamaḥ) [market+to+obeisance](vipaṇāyanamaḥ)
+[monk-salutation](bhikṣavenamaḥ) [monk-form-salutation](bhikṣurūpāyanamaḥ) [merchant-salutation](vipaṇāyanamaḥ)
 
 ## mukta-m0-p122-v3027
-[vajra+hand+to+obeisance](vajrahastāyanamaḥ) [supporter+obeisance](viṣkambhinenamaḥ)
+[diamond-holder-salutation](vajrahastāyanamaḥ) [obstacle-remover-salutation](viṣkambhinenamaḥ)
 
 ## mukta-m0-p122-v3028
-[army+stopping+to+obeisance](camūstambhanāyanamaḥ) [turn+turn+maker+to+obeisance](vṛttāvṛttakarāyanamaḥ)
+[army-stopping-salutation](camūstambhanāyanamaḥ) [round-and-nonround-maker-salutation](vṛttāvṛttakarāyanamaḥ)
 
 ## mukta-m0-p122-v3029
-[cymbal+to+obeisance](tālāyanamaḥ) [madhu+to+obeisance](madhavenamaḥ) [madhu+eye+to+obeisance](madhukalocanāyanamaḥ)
+[palm-salutation](tālāyanamaḥ) [madhava-salutation](madhavenamaḥ) [madhu-eyed-salutation](madhukalocanāyanamaḥ)
 
 ## mukta-m0-p122-v3030
-[speech+lord+to+obeisance](vācaspatyāyanamaḥ) [vaja+giver+to+obeisance](vājasanāyanamaḥ)
+[speech-lord-salutation](vācaspatyāyanamaḥ) [vaja-san-salutation](vājasanāyanamaḥ)
 
 ## mukta-m0-p122-v3031
-[hermitage+worshiped+to+obeisance](āśramapūjitāyanamaḥ) [brahman+student+obeisance](brahmacāriṇenamaḥ)
+[hermitage-honored-salutation](āśramapūjitāyanamaḥ) [brahmacari-salutation](brahmacāriṇenamaḥ)
 
 ## mukta-m0-p122-v3032
-[world+wandering+obeisance](lokacāriṇenamaḥ) [all+wandering+obeisance](sarvacāriṇenamaḥ) [inquiry+knower+obeisance](vicāravidenamaḥ)
+[world-wanderer-salutation](lokacāriṇenamaḥ) [all-wanderer-salutation](sarvacāriṇenamaḥ) [deliberation-knower-salutation](vicāravidenamaḥ)
 
 ## mukta-m0-p122-v3033
-[īśāna+to+obeisance](īśānāyanamaḥ) [lord+to+obeisance](īśvarāyanamaḥ) [time+to+obeisance](kālāyanamaḥ)
+[īśāna-salutation](īśānāyanamaḥ) [īśvara-salutation](īśvarāyanamaḥ) [time-salutation](kālāyanamaḥ)
 
 ## mukta-m0-p122-v3034
-[night+wanderer+obeisance](niśācāriṇenamaḥ) [pināka+holder+obeisance](pinākadhṛṣenamaḥ) [omen+standing+to+obeisance](nimittasthāyanamaḥ)
+[night-wanderer-salutation](niśācāriṇenamaḥ) [pinaka-holder-salutation](pinākadhṛṣenamaḥ) [omen-abiding-salutation](nimittasthāyanamaḥ)
 
 ## mukta-m0-p122-v3035
-[omen+to+obeisance](nimittāyanamaḥ) [gladdener+to+obeisance](nandayenamaḥ) [nandin+maker+to+obeisance](nandikarāyanamaḥ)
+[omen-salutation](nimittāyanamaḥ) [delighter-salutation](nandayenamaḥ) [nandi-maker-salutation](nandikarāyanamaḥ)
 
 ## mukta-m0-p122-v3036
-[green+to+obeisance](harayenamaḥ) [nandin+lord+to+obeisance](nandīśvarāyanamaḥ) [nandin+obeisance](nandinenamaḥ)
+[hara-salutation](harayenamaḥ) [nandīśvara-salutation](nandīśvarāyanamaḥ) [nandi-salutation](nandinenamaḥ)
 
 ## mukta-m0-p122-v3037
-[leader+obeisance](nihantrenamaḥ) [time+to+obeisance](kālāyanamaḥ) [brahman+obeisance](brahmaṇenamaḥ)
+[slayer-salutation](nihantrenamaḥ) [time-salutation](kālāyanamaḥ) [brahma-salutation](brahmaṇenamaḥ)
 
 ## mukta-m0-p122-v3038
-[father+grandfather+to+obeisance](pitāmahāyanamaḥ) [four+faced+to+obeisance](caturmmukhāyanamaḥ)
+[grandfather-salutation](pitāmahāyanamaḥ) [four-faced-salutation](caturmmukhāyanamaḥ)
 
 ## mukta-m0-p122-v3039
-[great+liṅga+to+obeisance](mahāliṅgāyanamaḥ) [beautiful+liṅga+to+obeisance](cāruliṅgāyanamaḥ)
+[great-linga-salutation](mahāliṅgāyanamaḥ) [beautiful-linga-salutation](cāruliṅgāyanamaḥ)
 
 ## mukta-m0-p122-v3040
-[liṅga+overlord+to+obeisance](liṅgādhyakṣāyanamaḥ) [gods+overlord+to+obeisance](surādhyakṣāyanamaḥ)
+[linga-overseer-salutation](liṅgādhyakṣāyanamaḥ) [deva-overseer-salutation](surādhyakṣāyanamaḥ)
 
 ## mukta-m0-p122-v3041
-[yoga+overlord+to+obeisance](yogādhyakṣāyanamaḥ) [yuga+bringer+to+obeisance](yugāvahāyanamaḥ)
+[yoga-overseer-salutation](yogādhyakṣāyanamaḥ) [yuga-bearer-salutation](yugāvahāyanamaḥ)
 
 ## mukta-m0-p122-v3042
-[seed+overlord+to+obeisance](bījādhyakṣāyanamaḥ) [seed+maker+obeisance](bījakarttrenamaḥ)
+[seed-overseer-salutation](bījādhyakṣāyanamaḥ) [seed-maker-salutation](bījakarttrenamaḥ)
 
 ## mukta-m0-p122-v3043
-[self+followed+to+obeisance](adhyātmānugatāyanamaḥ) [strength+to+obeisance](balāyanamaḥ) [itihāsa+to+obeisance](itihāsāyanamaḥ)
+[self-following-salutation](adhyātmānugatāyanamaḥ) [strength-salutation](balāyanamaḥ) [history-salutation](itihāsāyanamaḥ)
 
 ## mukta-m0-p122-v3044
-[submissive+to+obeisance](vaśyāyanamaḥ) [control+maker+to+obeisance](vaśakarāyanamaḥ) [time+to+obeisance](kalayenamaḥ)
+[subduing-salutation](vaśyāyanamaḥ) [subduer-salutation](vaśakarāyanamaḥ) [time-salutation](kalayenamaḥ)
 
 ## mukta-m0-p122-v3045
-[world+maker+obeisance](lokakarttrenamaḥ) [lord+of+beasts+to+obeisance](paśupatayenamaḥ) [great+maker+obeisance](mahākarttrenamaḥ)
+[world-maker-salutation](lokakarttrenamaḥ) [paśupati-salutation](paśupatayenamaḥ) [great-maker-salutation](mahākarttrenamaḥ)
 
 ## mukta-m0-p122-v3046
-[no+medicine+to+obeisance](anauṣadhāyanamaḥ) [imperishable+to+obeisance](akṣarāyanamaḥ) [supreme+brahman+obeisance](paramabrahmaṇenamaḥ)
+[without-medicine-salutation](anauṣadhāyanamaḥ) [imperishable-salutation](akṣarāyanamaḥ) [supreme-brahman-salutation](paramabrahmaṇenamaḥ)
 
 ## mukta-m0-p122-v3047
-[strong+obeisance](balavatenamaḥ) [śakra+to+obeisance](śakrāyanamaḥ) [policy+to+obeisance](nītayenamaḥ)
+[strong-salutation](balavatenamaḥ) [śakra-salutation](śakrāyanamaḥ) [policy-salutation](nītayenamaḥ)
 
 ## mukta-m0-p122-v3048
-[no+policy+to+obeisance](anītayenamaḥ) [pure+self+obeisance](śuddhātmanenamaḥ) [pure+to+obeisance](śuddhāyanamaḥ)
+[without-policy-salutation](anītayenamaḥ) [pure-soul-salutation](śuddhātmanenamaḥ) [pure-salutation](śuddhāyanamaḥ)
 
 ## mukta-m0-p122-v3049
-[honored+to+obeisance](mānyāyanamaḥ) [gone+come+to+obeisance](gatāgatāyanamaḥ) [much+grace+to+obeisance](bahuprasādāyanamaḥ)
+[honorable-salutation](mānyāyanamaḥ) [going-and-coming-salutation](gatāgatāyanamaḥ) [much-grace-salutation](bahuprasādāyanamaḥ)
 
 ## mukta-m0-p122-v3050
-[veda+maker+to+obeisance](vedakārāyanamaḥ) [mantra+maker+to+obeisance](mantrakārāyanamaḥ) [wise+obeisance](viduṣenamaḥ)
+[veda-maker-salutation](vedakārāyanamaḥ) [mantra-maker-salutation](mantrakārāyanamaḥ) [knower-salutation](viduṣenamaḥ)
