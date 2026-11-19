@@ -7,28 +7,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "kuṃkuma",
-"quick_gloss": "like"
+"surface": "kuṃkumadravasaṃkāśaṃ",
+"quick_gloss": "saffron-liquid-resembling"
 },
 {
-"surface": "drava",
-"quick_gloss": "liquid"
-},
-{
-"surface": "saṃkāśaṃ",
-"quick_gloss": "resembling"
-},
-{
-"surface": "vilīna",
-"quick_gloss": "dissolved"
-},
-{
-"surface": "aśeṣa",
-"quick_gloss": "all"
-},
-{
-"surface": "ceṣṭitam",
-"quick_gloss": "activity"
+"surface": "vilīnāśeṣa+ceṣṭitam",
+"quick_gloss": "dissolved-all-movement"
 }
 ]
 },
@@ -52,16 +36,8 @@
 "quick_gloss": "goddess"
 },
 {
-"surface": "tasyāḥ",
-"quick_gloss": "her"
-},
-{
-"surface": "caṃdrakala",
-"quick_gloss": "moon-crescent"
-},
-{
-"surface": "udaye",
-"quick_gloss": "rise"
+"surface": "tasyāś+caṃdrakalā+udaye",
+"quick_gloss": "of-her-moon-crescent-rise"
 }
 ]
 },
@@ -77,24 +53,24 @@
 "quick_gloss": "suddenly"
 },
 {
-"surface": "pulakita",
-"quick_gloss": "thrilled"
+"surface": "pulakitākāraḥ",
+"quick_gloss": "horripilated-form"
 },
 {
-"surface": "ākāraḥ",
-"quick_gloss": "form"
-},
-{
-"surface": "bhāvaḥ",
-"quick_gloss": "feeling"
-},
-{
-"surface": "ko'pi",
+"surface": "ko",
 "quick_gloss": "some"
 },
 {
+"surface": "api",
+"quick_gloss": "api"
+},
+{
+"surface": "bhāvaḥ",
+"quick_gloss": "mood"
+},
+{
 "surface": "vijṛṃbhate",
-"quick_gloss": "expands"
+"quick_gloss": "blossoms"
 }
 ]
 },
@@ -106,7 +82,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "nṛtyatī",
+"surface": "nṛtyati",
 "quick_gloss": "dancing"
 },
 {
@@ -118,7 +94,7 @@
 "quick_gloss": "longing"
 },
 {
-"surface": "nṛtyatī",
+"surface": "nṛtyati",
 "quick_gloss": "dancing"
 },
 {
@@ -126,8 +102,8 @@
 "quick_gloss": "indeed"
 },
 {
-"surface": "śirāmukham",
-"quick_gloss": "head-face"
+"surface": "śirā+mukham",
+"quick_gloss": "head-mouth"
 }
 ]
 },
@@ -144,15 +120,15 @@
 },
 {
 "surface": "smara",
-"quick_gloss": "love"
+"quick_gloss": "memory"
 },
 {
-"surface": "gehasthāṃ",
+"surface": "geha+sthāṃ",
 "quick_gloss": "house-dwelling"
 },
 {
 "surface": "bhagamālāṃ",
-"quick_gloss": "bhagamālā"
+"quick_gloss": "bhaga-garland"
 },
 {
 "surface": "samarcayet",
@@ -169,7 +145,7 @@
 "tokens": [
 {
 "surface": "tasyāḥ",
-"quick_gloss": "her"
+"quick_gloss": "of-her"
 },
 {
 "surface": "arcana",
@@ -181,7 +157,7 @@
 },
 {
 "surface": "tu",
-"quick_gloss": "indeed"
+"quick_gloss": "tu"
 },
 {
 "surface": "vaktavyaḥ",
@@ -202,23 +178,19 @@
 "tokens": [
 {
 "surface": "bhagamālī",
-"quick_gloss": "bhagamālī"
+"quick_gloss": "bhaga-garland"
 },
 {
 "surface": "iti",
-"quick_gloss": "thus"
+"quick_gloss": "iti"
 },
 {
 "surface": "niḥśeṣa",
 "quick_gloss": "complete"
 },
 {
-"surface": "bhagacakra",
-"quick_gloss": "bhaga-wheel"
-},
-{
-"surface": "abhimāninī",
-"quick_gloss": "identified"
+"surface": "bhagacakra+abhimāninī",
+"quick_gloss": "bhaga-wheel-identified"
 }
 ]
 },
@@ -230,20 +202,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "viśvasaṃohana",
-"quick_gloss": "world-enchanting"
+"surface": "viśva+saṃohana+ākārā",
+"quick_gloss": "universe-enchaining-form"
 },
 {
-"surface": "ākārā",
-"quick_gloss": "form"
-},
-{
-"surface": "viśvajanma",
-"quick_gloss": "world-birth"
-},
-{
-"surface": "mahāsthali",
-"quick_gloss": "great-place"
+"surface": "viśva+janma+mahā+sthali",
+"quick_gloss": "universe-birth-great-place"
 }
 ]
 },
@@ -255,20 +219,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "kālarūpā",
+"surface": "kāla+rūpā",
 "quick_gloss": "time-form"
 },
 {
-"surface": "akālakarī",
+"surface": "akāla+karī",
 "quick_gloss": "time-maker"
 },
 {
-"surface": "kālagrasana",
-"quick_gloss": "time-devouring"
-},
-{
-"surface": "lālasā",
-"quick_gloss": "eager"
+"surface": "kāla+grasana+lālasā",
+"quick_gloss": "time-devouring-eager"
 }
 ]
 },
@@ -281,7 +241,7 @@
 "tokens": [
 {
 "surface": "samasteṣu",
-"quick_gloss": "all"
+"quick_gloss": "in-all"
 },
 {
 "surface": "śarīreṣu",
@@ -289,11 +249,11 @@
 },
 {
 "surface": "puṃsāṃ",
-"quick_gloss": "men"
+"quick_gloss": "of-men"
 },
 {
 "surface": "strīṇām",
-"quick_gloss": "women"
+"quick_gloss": "of-women"
 },
 {
 "surface": "atha",
@@ -301,11 +261,11 @@
 },
 {
 "surface": "api",
-"quick_gloss": "indeed"
+"quick_gloss": "api"
 },
 {
 "surface": "vā",
-"quick_gloss": "va"
+"quick_gloss": "vā"
 }
 ]
 },
@@ -318,19 +278,19 @@
 "tokens": [
 {
 "surface": "saṃhitā",
-"quick_gloss": "collection"
+"quick_gloss": "connected"
 },
 {
-"surface": "śatasāhasre",
+"surface": "śata+sāhasre",
 "quick_gloss": "hundred-thousand"
 },
 {
-"surface": "yadarthe",
+"surface": "yad+arthe",
 "quick_gloss": "for-which"
 },
 {
 "surface": "kīrtyate",
-"quick_gloss": "praised"
+"quick_gloss": "is-praised"
 },
 {
 "surface": "mayā",
@@ -346,27 +306,15 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "nitya",
-"quick_gloss": "eternal"
+"surface": "nitya+anaṃga+mada+unmattā",
+"quick_gloss": "eternal-love-intoxicated"
 },
 {
-"surface": "anaṃga",
-"quick_gloss": "cupid"
+"surface": "yauvanena",
+"quick_gloss": "by-youth"
 },
 {
-"surface": "mada",
-"quick_gloss": "intoxication"
-},
-{
-"surface": "unmattā",
-"quick_gloss": "mad"
-},
-{
-"surface": "yauvana",
-"quick_gloss": "youth"
-},
-{
-"surface": "atigarvitā",
+"surface": "ati+garvitā",
 "quick_gloss": "very-proud"
 }
 ]
@@ -400,10 +348,10 @@
 },
 {
 "surface": "vā",
-"quick_gloss": "or"
+"quick_gloss": "vā"
 },
 {
-"surface": "madhubhājanam",
+"surface": "madhu+bhājanam",
 "quick_gloss": "honey-vessel"
 }
 ]
@@ -416,20 +364,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "prasanna",
-"quick_gloss": "pleased"
+"surface": "prasanna+vadana+ambhojā",
+"quick_gloss": "pleased-lotus-faced"
 },
 {
-"surface": "vadanāṃbhojā",
-"quick_gloss": "face-lotus"
-},
-{
-"surface": "madaraktā",
-"quick_gloss": "intoxication-red"
-},
-{
-"surface": "vilocanā",
-"quick_gloss": "eyes"
+"surface": "mada+rakta+vilochanā",
+"quick_gloss": "love-reddened-eyes"
 }
 ]
 },
@@ -441,32 +381,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "svarakta",
-"quick_gloss": "own-red"
-},
-{
-"surface": "kāṃti",
-"quick_gloss": "radiance"
-},
-{
-"surface": "śaṭībhiḥ",
-"quick_gloss": "garments"
+"surface": "sva+rakta+kāṃti+śaṭībhiḥ",
+"quick_gloss": "own-red-glow-garment"
 },
 {
 "surface": "eva",
-"quick_gloss": "indeed"
+"quick_gloss": "eva"
 },
 {
-"surface": "āvṛta",
-"quick_gloss": "covered"
-},
-{
-"surface": "nitaṃba",
-"quick_gloss": "navel"
-},
-{
-"surface": "bhūḥ",
-"quick_gloss": "earth"
+"surface": "āvṛta+nitaṃba+bhūḥ",
+"quick_gloss": "covered-hip"
 }
 ]
 },
@@ -487,7 +411,7 @@
 },
 {
 "surface": "śaktibhiḥ",
-"quick_gloss": "powers"
+"quick_gloss": "shaktis"
 },
 {
 "surface": "parivāritā",
@@ -508,7 +432,7 @@
 },
 {
 "surface": "dhyeyā",
-"quick_gloss": "meditable"
+"quick_gloss": "to-be-meditated"
 },
 {
 "surface": "maheśāni",
@@ -520,7 +444,7 @@
 },
 {
 "surface": "bhagamālinī",
-"quick_gloss": "bhagamālinī"
+"quick_gloss": "bhaga-garlanded"
 }
 ]
 },
@@ -532,12 +456,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "tripurā",
-"quick_gloss": "tripura"
-},
-{
-"surface": "arghyāṃbunā",
-"quick_gloss": "arghya-water"
+"surface": "tripurārghya+ambunā",
+"quick_gloss": "tripura-offering-water"
 },
 {
 "surface": "prokṣya",
@@ -545,11 +465,11 @@
 },
 {
 "surface": "dūtyāḥ",
-"quick_gloss": "messenger"
+"quick_gloss": "of-messenger"
 },
 {
-"surface": "smaraniketanam",
-"quick_gloss": "love-abode"
+"surface": "smara+niketanam",
+"quick_gloss": "memory-abode"
 }
 ]
 },
@@ -570,19 +490,11 @@
 },
 {
 "surface": "ca",
-"quick_gloss": "and"
+"quick_gloss": "ca"
 },
 {
-"surface": "sāṣṭa",
-"quick_gloss": "with-eight"
-},
-{
-"surface": "āraka",
-"quick_gloss": "star"
-},
-{
-"surface": "caturddalam",
-"quick_gloss": "four-petal"
+"surface": "sāṣṭāraka+caturddalam",
+"quick_gloss": "with-eight-petals-four-petals"
 }
 ]
 },
@@ -595,7 +507,7 @@
 "tokens": [
 {
 "surface": "madhye",
-"quick_gloss": "middle"
+"quick_gloss": "in-middle"
 },
 {
 "surface": "jayet",
@@ -607,11 +519,11 @@
 },
 {
 "surface": "mādyaṃtīṃ",
-"quick_gloss": "intoxicated"
+"quick_gloss": "intoxicating"
 },
 {
 "surface": "bhagamālinīm",
-"quick_gloss": "bhagamālinī"
+"quick_gloss": "bhaga-garlanded"
 }
 ]
 },
@@ -623,19 +535,19 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "bhagaguhyaṃ",
+"surface": "bhaga+guhyaṃ",
 "quick_gloss": "bhaga-secret"
 },
 {
-"surface": "bhagayoniṃ",
+"surface": "bhaga+yoniṃ",
 "quick_gloss": "bhaga-yoni"
 },
 {
 "surface": "tathā",
-"quick_gloss": "thus"
+"quick_gloss": "tathā"
 },
 {
-"surface": "bhaganipātinīm",
+"surface": "bhaga+nipātinīm",
 "quick_gloss": "bhaga-striker"
 }
 ]
@@ -648,7 +560,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "bhagarūpāṃ",
+"surface": "bhaga+rūpāṃ",
 "quick_gloss": "bhaga-form"
 },
 {
@@ -660,16 +572,12 @@
 "quick_gloss": "goddess"
 },
 {
-"surface": "nityaklinnā",
-"quick_gloss": "ever-wet"
-},
-{
-"surface": "ambikām",
-"quick_gloss": "mother"
+"surface": "nitya+klinna+ambikām",
+"quick_gloss": "ever-wet-ambika"
 },
 {
 "surface": "api",
-"quick_gloss": "also"
+"quick_gloss": "api"
 }
 ]
 },
@@ -681,28 +589,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "bhagaklinnā",
-"quick_gloss": "bhaga-wet"
-},
-{
-"surface": "aṣṭamīṃ",
-"quick_gloss": "eighth"
+"surface": "bhaga+klinnā+maṣṭamīṃ",
+"quick_gloss": "bhaga-wet-eighth"
 },
 {
 "surface": "ca",
-"quick_gloss": "and"
+"quick_gloss": "ca"
 },
 {
-"surface": "sādhaka",
-"quick_gloss": "adept"
-},
-{
-"surface": "vidhi",
-"quick_gloss": "rule"
-},
-{
-"surface": "varttanā",
-"quick_gloss": "conduct"
+"surface": "sādhaka+vidhi+varttanā",
+"quick_gloss": "sadhaka-rite"
 }
 ]
 },
@@ -714,27 +610,23 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "amogha",
-"quick_gloss": "unfailing"
-},
-{
-"surface": "bhagavidyā",
-"quick_gloss": "bhaga-vidyā"
+"surface": "amogha+bhaga+vidyā",
+"quick_gloss": "unfailing-bhaga-vidya"
 },
 {
 "surface": "ca",
-"quick_gloss": "and"
+"quick_gloss": "ca"
 },
 {
-"surface": "caturthi",
+"surface": "caturthī",
 "quick_gloss": "fourth"
 },
 {
 "surface": "tu",
-"quick_gloss": "indeed"
+"quick_gloss": "tu"
 },
 {
-"surface": "bhageśvarī",
+"surface": "bhaga+īśvarī",
 "quick_gloss": "bhaga-lady"
 }
 ]
@@ -747,28 +639,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "tripurā",
-"quick_gloss": "tripura"
+"surface": "tripurārghya",
+"quick_gloss": "tripura-offering"
 },
 {
-"surface": "arghya",
-"quick_gloss": "arghya"
-},
-{
-"surface": "sthairaiḥ",
+"surface": "sthitaireva",
 "quick_gloss": "established"
 },
 {
-"surface": "eva",
-"quick_gloss": "indeed"
-},
-{
 "surface": "biṃdubhiḥ",
-"quick_gloss": "drops"
+"quick_gloss": "bindus"
 },
 {
 "surface": "tat",
-"quick_gloss": "that"
+"quick_gloss": "tat"
 },
 {
 "surface": "prapūjayet",
