@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p23-v551
-[other+conduct+done](anyācārakṛto) [by-which](yena) [that+I-say](tadvadāmi) [o-beloved](priyambade)
+[other-practice-done](anyācārakṛto) [by-whom](yena) [that-I-say](tadvadāmi) [dear-one](priyambade) [beautiful-faced](varānane)
 
 ## mukta-m0-p23-v552
-[of-these](eteṣāṃ) [knowledge+mere-by](jñānamātreṇa) [of-kaulika](kaulikasya) [action+destruction](kriyākṣayaḥ)
+[of-these](eteṣāṃ) [by-knowledge-alone](jñānamātreṇa) [of-Kaulika](kaulikasya) [action-destruction](kriyākṣayaḥ)
 
 ## mukta-m0-p23-v553
-[he](sa) [beast](paśuḥ) [o-supreme-goddess](parameśāni) [is-cooked](pacyate) [in-hell](narake) [certainly](dhruvam)
+[he](sa) [beast](paśuḥ) [O-supreme-goddess](parameśāni) [is-cooked](pacyate) [in-hell](narake) [certainly](dhruvam)
 
 ## mukta-m0-p23-v554
-[ever+not+indeed](kadāccinnaiva) [to-be-done](kartavyaḥ) [of-śūdra](śūdrasya) [veda+recitation+like](vedapāṭhavat)
+[never](kadāccinnaiva) [to-be-done](kartavyaḥ) [to-be-spoken](vaktavyam) [of-Śūdra](śūdrasya) [like-Veda-recitation](vedapāṭhavat)
 
 ## mukta-m0-p23-v555
-[eight](aṣṭā)[ten](daśo)[chapter](lla)[end](saḥ)
+[eighteen-illumination](aṣṭādaśollasaḥ)
 
 ## mukta-m0-p23-v556
-[made-known](jñāpitaṃ) [o-supreme-bliss](paramānanda) [my](mama) [in-place](sthāne) [reveal](prakāśaya)
+[taught](jñāpitaṃ) [supreme-bliss](paramānanda) [my](mama) [in-place](sthāne) [reveal](prakāśaya)
 
 ## mukta-m0-p23-v557
-[that+drinking](tatpānaṃ) [threefold](trividhaṃ) [declared](proktaṃ) [divine+hero+beast+sequence-from](divya-vīra-paśu-kramāt)
+[that-drinking](tatpānaṃ) [three-fold](trividhaṃ) [declared](proktaṃ) [by-divine-hero-beast-order](divya-vīra-paśu-kramāt)
 
 ## mukta-m0-p23-v558
-[by-own-will+even](svecchayāpi) [of-beast](paśoḥ) [drinking](pānam)[thus](iti) [drinking+called](pānamudāhṛtam)
+[even-by-own-will](svecchayāpi) [of-beast](paśoḥ) [drinking](pānam) [thus](iti) [drinking-called](pānamudāhṛtam)
 
 ## mukta-m0-p23-v559
-[beast+drinking](paśupānaṃ) [hell+giving](narakadam)[thus](iti) [drinking+fruit](pānaphalaṃ) [hear](śṛṇu)
+[beast-drinking](paśupānaṃ) [hell-giving](narakadam) [thus](iti) [drinking-fruit](pānaphalaṃ) [hear](śṛṇu)
 
 ## mukta-m0-p23-v560
-[beast+drinking](paśupānam)[not-to-be-done](akartavyaṃ) [śakti+devotion+resorting-to](śaktibhaktyāśritaḥ) [should-drink](pivet)
+[beast-drinking-not-to-be-done](paśupānamakartavyaṃ) [resorting-to-Śakti-devotion](śaktibhaktyāśritaḥ) [should-drink](pivet)
 
 ## mukta-m0-p23-v561
-[by-what](kena) [form](rūpeṇa) [or](vā) [o-god](deva) [goddess+before](devyagre) [drinking+share](pānabhāg) [man](naraḥ)
+[by-what](kena) [form](rūpeṇa) [or](vā) [O-god](deva) [before-goddess](devyagre) [drinking-share](pānabhāg) [man](naraḥ)
 
 ## mukta-m0-p23-v562
-[that](sā) [own-will](svecchā) [twofold](dvividhā) [to-be-known](jñeyā)[ignorant+knower+distinction-from](’jñānijñānivibhedataḥ)
+[that](sā) [own-will](svecchā) [two-fold](dvividhā) [to-be-known](jñeyā) [by-distinction-of-ignorant-and-knowing](ajñānijñānivibhedataḥ)
 
 ## mukta-m0-p23-v563
-[circle](cakraṃ) [having-made](kṛtvā) [should-drink+liquor](pivenmadyaṃ) [circle](cakraṃ) [indeed](hi) [śakti+endowed](śaktisaṃyutam)
+[circle](cakraṃ) [having-made](kṛtvā) [should-drink-wine](pivenmadyaṃ) [circle](cakraṃ) [indeed](hi) [joined-with-Śakti](śaktisaṃyutam)
 
 ## mukta-m0-p23-v564
-[fruit](phalaṃ) [what](kiṃ) [o-lord-of-life](prāṇanātheśa) [tell](kathaya) [siddhi+cause-for](siddhihetave)
+[fruit](phalaṃ) [what](kiṃ) [lord-of-life-breath](prāṇanātheśa) [tell](kathaya) [speak](vadaya) [for-accomplishment](siddhihetave)
 
 ## mukta-m0-p23-v565
-[six+action+of](ṣaṭkarmasya) [and](ca) [accomplishment](sādhanam) [indeed](eva)
+[of-six-acts](ṣaṭkarmasya) [and](ca) [means](sādhanam) [even-of-six-acts](ṣaṭkarmaṇo'pi) [means](sādhanam)
 
 ## mukta-m0-p23-v566
-[by-enjoyment](bhogena) [obtains](labhate) [liberation](muktiṃ) [success](siddhiṃ) [śrī+cakra+worship-from](śrīcakrasevanāt)
+[by-enjoyment](bhogena) [obtains](labhate) [liberation](muktiṃ) [perfection](siddhiṃ) [by-service-of-śrīcakra](śrīcakrasevanāt)
 
 ## mukta-m0-p23-v567
-[one+time+recitation-by+indeed](ekavārajapenaiva) [hundred-thousand+times+fruit](lakṣavāraphalaṃ) [one-obtains](labhet)
+[by-one-time-recitation-only](ekavārajapenaiva) [fruit-of-hundred-thousand-times](lakṣavāraphalaṃ) [obtains](labhet)
 
 ## mukta-m0-p23-v568
-[circle+and](cakrañca) [twofold](dvividhaṃ) [declared](proktaṃ) [divine+hero+view](divya-vīra-mataṃ) [o-śiva](śive)
+[and-circle](cakrañca) [two-fold](dvividhaṃ) [declared](proktaṃ) [opinion-of-divine-and-hero](divya-vīra-mataṃ) [O-Śiva](śive)
 
 ## mukta-m0-p23-v569
-[divine+circle](divyacakram)[this](idaṃ) [declared](proktaṃ) [hero+circle](vīracakraṃ) [then](tataḥ) [hear](śṛṇu)
+[this-divine-circle](divyacakramidaṃ) [declared](proktaṃ) [hero-circle](vīracakraṃ) [then](tataḥ) [hear](śṛṇu)
 
 ## mukta-m0-p23-v570
-[therefore](ata) [indeed](eva) [o-great-goddess](maheśāni) [śakti+united](śaktiyuktaṃ) [should-drink+wine](pivenmadhu)
+[therefore](ata) [indeed](eva) [O-great-goddess](maheśāni) [joined-with-Śakti](śaktiyuktaṃ) [joined-with-Śakti](śaktiyuktaḥ) [should-drink-honey](pivenmadhu)
 
 ## mukta-m0-p23-v571
-[hero+circle](vīracakraṃ) [should-enjoy](ramet) [śakti](śaktiṃ) [fragrance+flower+etc-by+even](gandhapuṣpādināpi) [or](vā)
+[hero-circle](vīracakraṃ) [should-enjoy](ramet) [should-worship](yajet) [Śakti](śaktiṃ) [even-with-perfume-flowers-etc](gandhapuṣpādināpi) [or](vā)
 
 ## mukta-m0-p23-v572
-[divine+circle](divyacakram)[this](idaṃ) [declared](proktaṃ) [hero+circle](vīracakraṃ) [then](tataḥ) [hear](śṛṇu)
+[this-divine-circle](divyacakramidaṃ) [declared](proktaṃ) [hero-circle](vīracakraṃ) [then](tataḥ) [this](idaṃ) [hear](śṛṇu)
 
 ## mukta-m0-p23-v573
-[enjoyment+and](bhogaśca) [liberation+and](mokṣaśca) [hand+situated](karastha) [indeed](eva)
+[by-enjoyment](bhogena) [and-liberation](mokṣaśca) [in-hand](karastha) [indeed](eva)
 
 ## mukta-m0-p23-v574
-[by-enjoyment](bhogena) [by-liquor](madyena) [hand+situated](karastha)[liberation](muktiḥ)
+[by-enjoyment](bhogena) [by-wine](madyena) [liberation-in-hand](karasthamuktiḥ)
 
 ## mukta-m0-p23-v575
-[then](tadā) [in-circle](cakre) [o-great-goddess](maheśāni) [should-drink+liquor](pivenmadyaṃ) [should-enjoy](ramet) [woman](striyam)
+[then](tadā) [when](yadā) [in-circle](cakre) [O-great-goddess](maheśāni) [should-drink-wine](pivenmadyaṃ) [should-enjoy](ramet) [woman](striyam)
