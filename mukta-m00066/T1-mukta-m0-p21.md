@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p21-v501
-[pada](rogāṇyavaśyaṃ) [pada](nighnaṃti) [pada](svabhāvo) [pada](vāsya) [pada](vastunaḥ)
+[diseases](rogāṇi) [necessarily](avaśyaṃ) [destroy](nighnaṃti) [nature](svabhāvaḥ) [of-thing](vastunaḥ)
 
 ## mukta-m0-p21-v502
-[pada](sa) [pada](vīrabhadraḥ) [pada](suśroṇi) [pada](sākṣāt) [pada](saṃhāra) [pada](bhairavaḥ)
+[he-is](saḥ) [vīrabhadra](vīrabhadraḥ) [beautiful-hipped](suśroṇi) [directly](sākṣāt) [destruction](saṃhāra) [bhairava](bhairavaḥ)
 
 ## mukta-m0-p21-v503
-[pada](dakṣakopātprajvalataḥ) [pada](tasyāṃgādromakūpataḥ)
+[from-dakṣa's-anger](dakṣakopāt) [blazing](prajvalataḥ) [of-him](tasya) [limb](aṃga) [from-hair-pore](romakūpataḥ)
 
 ## mukta-m0-p21-v504
-[pada](tamanuproddhitāḥ) [pada](sarve) [pada](vyādhayovividhakramāḥ)
+[by-him](tamanu) [provoked](proddhitāḥ) [all](sarve) [diseases](vyādhayaḥ) [various-orders](vividhakramāḥ)
 
 ## mukta-m0-p21-v505
-[pada](atyaṃtalolādurvārāḥ) [pada](prajvalaṃtaḥ) [pada](sadāmuṣā)
+[extremely](atyaṃta) [unsteady](lolāḥ) [irresistible](urvārāḥ) [blazing](prajvalaṃtaḥ) [always](sadā) [with-him](muṣā)
 
 ## mukta-m0-p21-v506
-[pada](tamāśritya) [pada](mahāsatvaṃ) [pada](vīrabhadraṃ) [pada](mahodayam)
+[him](tam) [resorting](āśritya) [great-being](mahāsatvam) [vīrabhadra](vīrabhadraṃ) [great-rise](mahodayam)
 
 ## mukta-m0-p21-v507
-[pada](pāpaśīlān) [pada](durācārān) [pada](kanyāvidveṣakāriṇaḥ)
+[sinful-natured](pāpaśīlān) [ill-conducted](durācārān) [girl-hating](kanyāvidveṣakāriṇaḥ)
 
 ## mukta-m0-p21-v508
-[pada](āgama) [pada](drohiṇo) [pada](pāpān) [pada](vṛthākalahakāriṇaḥ)
+[scripture](āgama) [hostile](drohiṇaḥ) [sinners](pāpān) [vain-quarrel-makers](vṛthākalahakāriṇaḥ)
 
 ## mukta-m0-p21-v509
-[pada](bhakṣayaṃti) [pada](mahārogāḥ) [pada](pibaṃti) [pada](rudhiraṃ) [pada](bahu)
+[devour](bhakṣayaṃti) [great-diseases](mahārogāḥ) [drink](pibaṃti) [blood](rudhiraṃ) [much](bahu)
 
 ## mukta-m0-p21-v510
-[pada](vṛdhe-)
+[verse-fragment](vṛdhe-)
 
 ## mukta-m0-p21-v511
-[pada](marmabheda) [pada](karālāpāṃ) [pada](dhārmikācāra) [pada](niṃdakān)
+[vital-spot](marmabheda) [terrible](karālāpāṃ) [righteous-conduct](dhārmikācāra) [blamers](niṃdakān)
 
 ## mukta-m0-p21-v512
-[pada](hiṃsaṃti) [pada](vyādhayastīvrāstatsaṃgādaparānapi)
+[harm](hiṃsaṃti) [diseases](vyādhayaḥ) [severe](tīvrāḥ) [from-his-contact](tatsaṃgāt) [others-too](aparānapi)
 
 ## mukta-m0-p21-v513
-[pada](āśaṃkamānairvilaya) [pada](mahaṃsaṃprārthitaḥ) [pada](purā)
+[fearing](āśaṃkamānaiḥ) [dissolution](vilaya) [great-swan](mahaṃsa) [prayed](prārthitaḥ) [formerly](purā)
 
 ## mukta-m0-p21-v514
-[pada](parabrahmaḥ) [pada](sāsvādamayamānaṃdadāyakam)
+[supreme-brahman](parabrahmaḥ) [with-taste](sāsvāda) [nectar-giving](mayamānaṃdadāyakam)
 
 ## mukta-m0-p21-v515
-[pada](sa) [pada](biṃdu) [pada](śatasāhasra) [pada](pravahaḥ) [pada](pavanāhatam)
+[he](saḥ) [drop](biṃdu) [hundred-thousand](śatasāhasra) [flow](pravahaḥ) [wind-struck](pavanāhatam)
 
 ## mukta-m0-p21-v516
-[pada](viveśacauṣadhiḥ) [pada](sarvāḥ) [pada](somarūpomahārasaḥ)
+[entered](viveśa) [herbs](oṣadhiḥ) [all](sarvāḥ) [moon-formed](somarūpaḥ) [great-essence](mahārasaḥ)
 
 ## mukta-m0-p21-v517
-[pada](tataḥ) [pada](prabhṛti) [pada](vīrutsujāgartti) [pada](paramāmṛtam)
+[then](tataḥ) [from](prabhṛti) [plants](vīrut) [arise](sujāgartti) [supreme-nectar](paramāmṛtam)
 
 ## mukta-m0-p21-v518
-[pada](vividhaṃ) [pada](vaidyataṃtraṃ) [pada](tu) [pada](jvarādīnāṃ) [pada](vinuttaye)
+[various](vividhaṃ) [medical-treatise](vaidyataṃtraṃ) [tu](tu) [for-fever-etc-removal](jvarādīnāṃvinuttaye)
 
 ## mukta-m0-p21-v519
-[pada](śārīravaidyake) [pada](proktāḥ) [pada](prakvāthaghuṭikādayaḥ)
+[bodily-medicine](śārīravaidyake) [stated](proktāḥ) [decoctions-pills-etc](prakvāthaghuṭikādayaḥ)
 
 ## mukta-m0-p21-v520
-[pada](yathā) [pada](dehojvaraṃ) [pada](śītaṃ) [pada](pittaṃ) [pada](śleṣmamalonilaḥ)
+[as](yathā) [body](dehaḥ) [fever](jvaraṃ) [cold](śītaṃ) [bile](pittaṃ) [phlegm](śleṣma) [waste](malaḥ) [wind](nilaḥ)
 
 ## mukta-m0-p21-v521
-[pada](tathā) [pada](jīve) [pada](gadāḥ) [pada](proktāḥ) [pada](krodhodveṣaścamatsaraḥ)
+[so](tathā) [in-living-being](jīve) [diseases](gadāḥ) [stated](proktāḥ) [anger](krodhaḥ) [aversion](udveṣaḥ) [envy](matsaraḥ)
 
 ## mukta-m0-p21-v522
-[pada](nirvedaśca) [pada](paritrāsaḥ) [pada](śaṃkākutsitaciṃtanam)
+[disgust](nirvedaḥ) [terror](paritrāsaḥ) [doubt](śaṃkā) [contemptible-thought](kutsitaciṃtanam)
 
 ## mukta-m0-p21-v523
-[pada](vikaṃpatvaṃ) [pada](vimūḍhatvaṃ) [pada](vidyāloka) [pada](navarjitam)
+[boastfulness](vikaṃpatvaṃ) [delusion](vimūḍhatvaṃ) [knowledge-light](vidyāloka) [devoid](navarjitam)
 
 ## mukta-m0-p21-v524
-[pada](sarvasyakutsā) [pada](śīlatvaṃ) [pada](sarvatrāpi) [pada](jugupsanam)
+[of-all](sarvasya) [blame](kutsā) [nature](śīlatvaṃ) [everywhere](sarvatra) [aversion](jugupsanam)
 
 ## mukta-m0-p21-v525
-[pada](etā) [pada](dṛśānaikabhedāḥ) [pada](koṭīnāmapikoṭayaḥ)
+[these](etāḥ) [seen](dṛśā) [one-kind](naikabhedāḥ) [crores](koṭīnām) [of-crores](apikoṭayaḥ)
