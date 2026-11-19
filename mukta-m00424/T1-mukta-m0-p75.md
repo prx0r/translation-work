@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p75-v1851
-[then](tatasta) [having-tripled](triguṇīkṛtya) [to-śiva](śivāya) [should-offer](vinivedayet)
+then+that threefold+making to+Shiva offer
 
 ## mukta-m0-p75-v1852
-[tarāṣṭam](tarāṣṭaṃ) [and](ca) [defect-origination](dūṣaṇotpatti) [that](tad) [vyantuvyaya](uvyantuvyayohya) [and](ca)
+tarāṣṭa and defect+origin that+vyantu+vyaya+? and
 
 ## mukta-m0-p75-v1853
-[peace-homa](śāntihomaṃ) [then](tataḥ) [should-do](kuryāt) [as-before](pūrvavat) [should-cook](pācayec) [auspicious](śubham)
+peace+homa then do as+before cook auspicious
 
 ## mukta-m0-p75-v1854
-[junction](sandhāti) [in-passage](kramaṇe) [having-arrived](prāpte) [by-enemies](śatrubhiḥ) [fear](bhayam) [should-indicate](ādiśet)
+bind in+progression obtained by+enemies fear indicate
 
 ## mukta-m0-p75-v1855
-[by-transgression](vyatikrameṇa) [of-mantras](mantrāṇāṃ) [that-all](tatsarva) [should-manifest](prabhāvayet)
+by+transgression of+mantras that+all? empower
 
 ## mukta-m0-p75-v1856
-[naivedya](naivedya) [in-placement](sthāpane) [at-time](kāle) [even-in-skipping](laṅghanepi) [by-men](naraistathā)
+offering placement time even+skipping by+men thus
 
 ## mukta-m0-p75-v1857
-[that-substance](tadravyaṃ) [having-avoided](varjayitvā) [then](tu) [afterwards](paścāt) [cooked](pakvaṃ) [should-offer](nivedayet)
+that+substance avoiding but afterwards cooked offer
 
 ## mukta-m0-p75-v1858
-[jāyāja](jāyāja) [pro](pro) [japet](japet)
+? chant
 
 ## mukta-m0-p75-v1859
-[in-bath-limb-deficient](snapanāṅgavihīne) [and](ca) [great-plague](mahāmārī) [arises](pravartate)
+bathing+limb+lacking and great+plague arises
 
 ## mukta-m0-p75-v1860
-[by-established](sthāpitaiḥ) [pots](kalaśairbhinnaiḥ) [broken](bhinnaiḥ) [split](sphuṭite) [fallen](patite) [thus](tathā)
+established pots broken burst fallen thus
 
 ## mukta-m0-p75-v1861
-[suprasanna](suprasannena) [ratnakā](ratnakā)
+? with+very+pleased jewel?
 
 ## mukta-m0-p75-v1862
-[gift-fear-joined](varadābhayasaṃyuktā) [noose-goad-bearing](pāśāṅguśa+dhara+anvitā)
+boon+fearless+endowed noose+goad bearing+possessed
 
 ## mukta-m0-p75-v1863
-[lotus-handed](padmahastādi) [peaceful](śāntā) [and](ca) [goddess](devī) [golden-radiance](kanakaprabhā)
+lotus+hand+etc peaceful and goddess and gold+splendor
 
 ## mukta-m0-p75-v1864
-[śaṅkha](śaṅkhaṃ) [cakra](cakra) [ha](ha) [six-armed](ṣaḍbhujā)
+? or conch discus ? six+armed
 
 ## mukta-m0-p75-v1865
-[tejorcāstra](tejorcāstra) [joined](samāyuktā) [gods-embrace](devāliṅgana) [intent](tatparā)
+radiance+weapon endowed god+embracing intent
 
 ## mukta-m0-p75-v1866
-[pendant](pralambā) [la](la) [pā](pā) [bālambitā](bālambitā) [surrounding](parivādakā)
+hanging ? suspended slanderer?
 
 ## mukta-m0-p75-v1867
-[dark](śyāmā) [horse-or](aśvenāthavaktā) [and](ca) [for-practitioner](sādhake) [not](na) [falls](pātata)
+dark+horse+or+mouth and practitioner and not fall
 
 ## mukta-m0-p75-v1868
-[eight-armed](aṣṭabāhu+samāyuktaṃ) [upward-hair](ūrdhvakeśaṃ) [own-tusk](svadaṃṣṭrakam)
+eight+armed endowed upward+hair own+tusk
 
 ## mukta-m0-p75-v1869
-[bells](kiṅkiṇī) [garland](mālayeveṣṭā) [foot-anklet](pādanūpura) [joined](saṃyutam)
+bell garland+? encircled ankle+ornament endowed
 
 ## mukta-m0-p75-v1870
-[jñopavīta](jñopavītaṃ) [and](ca) [red-flower-adorned](raktapuṣpopaśobhitam)
+? sacred+thread and red+flower+adorned
 
 ## mukta-m0-p75-v1871
-[in-both-ears](karṇayorubhayoścaiva) [and](ca) [in-both-hands](hastayorubhayorapi)
+of+ears both+also of+hands both+also
 
 ## mukta-m0-p75-v1872
-[spider-scorpion-joined](lūtavṛścikasaṃyuktaṃ) [ear-garland](karṇamālā) [adorned](vibhūṣitam)
+spider+scorpion endowed ear+garland adorned
 
 ## mukta-m0-p75-v1873
-[trident](śūlaṃ) [and](ca) [vetāla](vetālaṃ) [sword](khaḍgaṃ) [and](caiva) [then](tu) [right](dakṣiṇe)
+trident and vetala sword and+also but right
 
 ## mukta-m0-p75-v1874
-[bell](ghaṇṭā) [shield-noose](kheṭakapāśaṃ) [and](ca) [foot-anklet-situated](pādanūpurasaṃsthitam)
+bell shield+noose and ankle+ornament situated
 
 ## mukta-m0-p75-v1875
-[thus](evaṃ) [form-bearing](rūpadharaṃ) [god](devaṃ) [aghora-astra-deity](aghorāstrādhi+daivatam)
+thus form+bearing god aghora+weapon+presiding deity
