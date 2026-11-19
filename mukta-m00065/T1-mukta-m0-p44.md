@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p44-v1076
-[pada-gloss](rakṣodvitayakumbhīra) [pada-gloss](sarpacakrāsyakaṃ) [pada-gloss](ca) [pada-gloss](bham)
+[rakshas-two-crocodile](rakṣodvitayakumbhīra) [and](ca) [snake-wheel-mouthed](sarpacakrāsyakaṃ) [bham](bham)
 
 ## mukta-m0-p44-v1077
-[pada-gloss](aśvinau) [pada-gloss](ca) [pada-gloss](yamo) [pada-gloss](vahniḥ) [pada-gloss](prajendrenduharo'ditiḥ)
+[ashvins](aśvinau) [and](ca) [yama](yamo) [fire](vahniḥ) [prajapati-indra-moon-aditi](prajendrenduharo'ditiḥ)
 
 ## mukta-m0-p44-v1078
-[pada-gloss](tvaṣṭā) [pada-gloss](vāyuḥ) [pada-gloss](surendro'gnirmitrendrau) [pada-gloss](yāvatpāmpatiḥ)
+[tvashtar](tvaṣṭā) [wind](vāyuḥ) [indra](surendro) [fire]('gnir) [mitra-indra](mitrendrau) [up-to-serpent-lord](yāvatpāmpatiḥ)
 
 ## mukta-m0-p44-v1079
-[pada-gloss](viṣṇurvasurajaikādipādahirbudhna) [pada-gloss](pūṣakāḥ)
+[vishnu](viṣṇur) [vasu](vasur) [aja-eka-adi](ajaikādi) [pada-serpent-foundation](pādahirbudhna) [pusha](pūṣakāḥ)
 
 ## mukta-m0-p44-v1080
-[pada-gloss](pumān) [pada-gloss](gadī) [pada-gloss](savīṇā) [pada-gloss](ca) [pada-gloss](yoṣitta) [pada-gloss](nmithunaṃ) [pada-gloss](dhanuḥ)
+[man](pumān) [mace-holder](gadī) [vina-holder](savīṇā) [and](ca) [woman](yoṣitta) [pair](nmithunaṃ) [bow](dhanuḥ)
 
 ## mukta-m0-p44-v1081
-[pada-gloss](strī) [pada-gloss](naustholkāsibhṛtkanyā) [pada-gloss](tulādhāro) [pada-gloss](narastulā)
+[woman](strī) [boat](nau) [meteor](stholkā) [sword-bearer](sibhṛt) [maiden](kanyā) [balance-holder](tulādhāro) [man](naras) [balance](tulā)
 
 ## mukta-m0-p44-v1082
-[pada-gloss](meṣādyāḥ) [pada-gloss](pañca) [pada-gloss](caivānye) [pada-gloss](svanāmatulyarūpakāḥ)
+[aries-etc](meṣādyāḥ) [five](pañca) [and](ca) [others](evānye) [same-name-same-form](svanāmatulyarūpakāḥ)
 
 ## mukta-m0-p44-v1083
-[pada-gloss](hemābhaḥ) [pada-gloss](sakirīṭaśca) [pada-gloss](devarājaḥ) [pada-gloss](surāvṛtaḥ)
+[golden](hemābhaḥ) [crowned](sakirīṭaśca) [king-of-gods](devarājaḥ) [surrounded-by-gods](surāvṛtaḥ)
 
 ## mukta-m0-p44-v1084
-[pada-gloss](chāgasthaḥ) [pada-gloss](sākṣasūtrograḥ) [pada-gloss](saptārciḥ) [pada-gloss](śaktidhārakaḥ)
+[goat-seated](chāgasthaḥ) [rosary-fierce](sākṣasūtrograḥ) [seven-flamed](saptārciḥ) [spear-holder](śaktidhārakaḥ)
 
 ## mukta-m0-p44-v1085
-[pada-gloss](raktahṛkpāśabhṛtkṛṣṇo) [pada-gloss](mahiṣasthogradūtavān)
+[red-hearted](raktahṛt) [noose-holder](pāśabhṛt) [krishna](kṛṣṇo) [buffalo-seated](mahiṣastha) [fierce-messenger](ugradūtavān)
 
 ## mukta-m0-p44-v1086
-[pada-gloss](puṃsthita) [pada-gloss](khaḍgahastaśca) [pada-gloss](nīlābho) [pada-gloss](rākṣasāvṛtaḥ)
+[man-seated](puṃsthita) [sword-handed](khaḍgahastaśca) [blue](nīlābho) [rakshasa-surrounded](rākṣasāvṛtaḥ)
 
 ## mukta-m0-p44-v1087
-[pada-gloss](sarvābharaṇasaṃyukto) [pada-gloss](varūṇaḥ) [pada-gloss](pītavastrabhṛt)
+[all-ornamented](sarvābharaṇasaṃyukto) [varuna](varūṇaḥ) [yellow-garment-wearer](pītavastrabhṛt)
 
 ## mukta-m0-p44-v1088
-[pada-gloss](raktakṣo) [pada-gloss](raktavāsaśca) [pada-gloss](mṛgasthaścaṅkuśī) [pada-gloss](dhvajī)
+[red-eyed](raktakṣo) [red-garmented](raktavāsaśca) [deer-seated](mṛgasthaś) [goad-holder](caṅkuśī) [bannered](dhvajī)
 
 ## mukta-m0-p44-v1089
-[pada-gloss](dhaneśo) [pada-gloss](varadaḥ) [pada-gloss](kāryo) [pada-gloss](nānābharaṇamaṇḍitaḥ)
+[wealth-lord](dhaneśo) [boon-giver](varadaḥ) [to-be-made](kāryo) [various-ornamented](nānābharaṇamaṇḍitaḥ)
 
 ## mukta-m0-p44-v1090
-[pada-gloss](īśāno'hīndubhṛccaite) [pada-gloss](lokapālā) [pada-gloss](dvibāhavaḥ)
+[ishana](īśāno) [serpent-moon-holder](hīndubhṛccaite) [world-guardians](lokapālā) [two-armed](dvibāhavaḥ)
 
 ## mukta-m0-p44-v1091
-[pada-gloss](viśvakarmā) [pada-gloss](sadā) [pada-gloss](gauro) [pada-gloss](jñānamudrākṣasūtrabhṛt)
+[vishvakarma](viśvakarmā) [always](sadā) [white](gauro) [knowledge-mudra-rosary-holder](jñānamudrākṣasūtrabhṛt)
 
 ## mukta-m0-p44-v1092
-[pada-gloss](ālīḍhakaraṇāsaktaṃ) [pada-gloss](mahākāyaṃ) [pada-gloss](subhīṣaṇam)
+[alidha-posture-attached](ālīḍhakaraṇāsaktaṃ) [great-bodied](mahākāyaṃ) [very-terrifying](subhīṣaṇam)
 
 ## mukta-m0-p44-v1093
-[pada-gloss](pītadhvajadharaṃ) [pada-gloss](vāme) [pada-gloss](tarjanīṃ) [pada-gloss](vā) [pada-gloss](hṛdagrataḥ)
+[yellow-banner-holder](pītadhvajadharaṃ) [left](vāme) [threatening-finger](tarjanīṃ) [or](vā) [heart-before](hṛdagrataḥ)
 
 ## mukta-m0-p44-v1094
-[pada-gloss](saṃpīḍya) [pada-gloss](rākasān) [pada-gloss](padbhyāṃ) [pada-gloss](muñcannādaṃmarutsutam)
+[pressing](saṃpīḍya) [rakshasas](rākasān) [with-feet](padbhyāṃ) [releasing](muñcan) [sound](nādaṃ) [maruts-son](marutsutam)
 
 ## mukta-m0-p44-v1095
-[pada-gloss](skandhayakṣānvitā) [pada-gloss](nityaṃ) [pada-gloss](kartavyā) [pada-gloss](yoṣidanvitāḥ)
+[skanda-yaksha-possessed](skandhayakṣānvitā) [always](nityaṃ) [to-be-made](kartavyā) [woman-possessed](yoṣidanvitāḥ)
 
 ## mukta-m0-p44-v1096
-[pada-gloss](mālābhṛto'thavā) [pada-gloss](hṛṣṭāḥ) [pada-gloss](khasthā) [pada-gloss](vidyādharāḥ) [pada-gloss](sadā)
+[garland-holder](mālābhṛto) [or]('thavā) [joyful](hṛṣṭāḥ) [sky-dwelling](khasthā) [vidyadhara](vidyādharāḥ) [always](sadā)
 
 ## mukta-m0-p44-v1097
-[pada-gloss](piṅgavarvara) [pada-gloss](keśāśva) [pada-gloss](vetālā) [pada-gloss](vikṛtānanāḥ)
+[tawny-varvara](piṅgavarvara) [hair](keśāśva) [vetala](vetālā) [distorted-faced](vikṛtānanāḥ)
 
 ## mukta-m0-p44-v1098
-[pada-gloss](kapālamālinaḥ) [pada-gloss](śūladhārīṇaḥ) [pada-gloss](kṣetrapālakāḥ)
+[skull-garlanded](kapālamālinaḥ) [trident-holders](śūladhārīṇaḥ) [field-protectors](kṣetrapālakāḥ)
 
 ## mukta-m0-p44-v1099
-[pada-gloss](kṛśā) [pada-gloss](mahodarāḥ) [pada-gloss](pretā) [pada-gloss](khalva) [pada-gloss](gallāśca) [pada-gloss](lomaśāḥ)
+[thin](kṛśā) [big-bellied](mahodarāḥ) [pretas](pretā) [indeed](khalva) [galla](gallāśca) [hairy](lomaśāḥ)
 
 ## mukta-m0-p44-v1100
-[pada-gloss](svāṅgavarṇadharāḥ) [pada-gloss](sarvā) [pada-gloss](yathoktaṃ) [pada-gloss](brahmayāmale)
+[own-limb-color-bearing](svāṅgavarṇadharāḥ) [all](sarvā) [as-stated](yathoktaṃ) [brahmayamala](brahmayāmale)

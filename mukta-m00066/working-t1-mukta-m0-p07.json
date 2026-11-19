@@ -8,14 +8,14 @@
 "tokens": [
 {
 "surface": "pāpiṣṭhānām",
-"quick_gloss": "of-sinners"
+"quick_gloss": "of-the-most-sinful"
 },
 {
-"surface": "iha",
+"surface": "ihā",
 "quick_gloss": "here"
 },
 {
-"surface": "ācāraḥ",
+"surface": "cāro",
 "quick_gloss": "conduct"
 },
 {
@@ -23,8 +23,12 @@
 "quick_gloss": "as"
 },
 {
-"surface": "sarva+jugupsitam",
-"quick_gloss": "all-abhorred"
+"surface": "sarva",
+"quick_gloss": "all"
+},
+{
+"surface": "jugupsitam",
+"quick_gloss": "despised"
 }
 ]
 },
@@ -44,20 +48,16 @@
 "quick_gloss": "thus"
 },
 {
-"surface": "pretya",
+"surface": "pretyāpi",
 "quick_gloss": "after-death"
 },
 {
-"surface": "api",
-"quick_gloss": "also"
-},
-{
-"surface": "para+ānanda+sukham",
+"surface": "parānaṃdasukhaṃ",
 "quick_gloss": "supreme-bliss-happiness"
 },
 {
 "surface": "bhavet",
-"quick_gloss": "may-be"
+"quick_gloss": "becomes"
 }
 ]
 },
@@ -73,23 +73,19 @@
 "quick_gloss": "of-happiness"
 },
 {
-"surface": "saṃbhavaḥ",
+"surface": "saṃbhavo",
 "quick_gloss": "origin"
 },
 {
-"surface": "na",
-"quick_gloss": "not"
-},
-{
-"surface": "anya",
-"quick_gloss": "other"
+"surface": "nānya",
+"quick_gloss": "not-other"
 },
 {
 "surface": "vartmanā",
-"quick_gloss": "by-path"
+"quick_gloss": "path"
 },
 {
-"surface": "padma+locane",
+"surface": "padmalocane",
 "quick_gloss": "lotus-eyed"
 }
 ]
@@ -110,11 +106,11 @@
 "quick_gloss": "indeed"
 },
 {
-"surface": "mārgaḥ",
+"surface": "mārgo",
 "quick_gloss": "path"
 },
 {
-"surface": "ud+mārgaḥ",
+"surface": "durmārga",
 "quick_gloss": "wrong-path"
 },
 {
@@ -144,11 +140,11 @@
 },
 {
 "surface": "sāmyena",
-"quick_gloss": "by-equality"
+"quick_gloss": "with-equality"
 },
 {
-"surface": "liṃga+ānandaḥ",
-"quick_gloss": "linga-bliss"
+"surface": "liṃgānaṃdaḥ",
+"quick_gloss": "of-signs"
 },
 {
 "surface": "pravartate",
@@ -172,24 +168,20 @@
 "quick_gloss": "indeed"
 },
 {
-"surface": "jātiṃ",
-"quick_gloss": "caste"
+"surface": "jātiṃ+vinā",
+"quick_gloss": "without-birth"
 },
 {
-"surface": "vinā",
-"quick_gloss": "without"
+"surface": "duṣṭām",
+"quick_gloss": "corrupt"
 },
 {
-"surface": "aduṣṭām",
-"quick_gloss": "blemish"
-},
-{
-"surface": "anya+jātiṣu",
-"quick_gloss": "in-other-castes"
+"surface": "anyajātiṣu",
+"quick_gloss": "other-births"
 },
 {
 "surface": "vidyate",
-"quick_gloss": "exists"
+"quick_gloss": "is-found"
 }
 ]
 },
@@ -201,12 +193,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "mithyā+abhimāna+darpa+andhā",
-"quick_gloss": "false-pride-arrogance-blind"
+"surface": "mithyābhimāna",
+"quick_gloss": "false-pride"
 },
 {
-"surface": "mithyā+doṣa+ati",
-"quick_gloss": "false-fault-at"
+"surface": "darpāndhā",
+"quick_gloss": "darkened-by-arrogance"
+},
+{
+"surface": "mithyādoṣā",
+"quick_gloss": "false-faults"
 },
 {
 "surface": "śaṃkinī",
@@ -222,12 +218,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "paśu+pakṣi+mṛga+ādyeṣu",
-"quick_gloss": "beasts-birds-animals-etc"
+"surface": "paśupakṣimṛgādyeṣu",
+"quick_gloss": "among-animals-birds-beasts-etc"
 },
 {
-"surface": "na+etādṛk+krama",
-"quick_gloss": "not-such-order"
+"surface": "na",
+"quick_gloss": "not"
+},
+{
+"surface": "etādṛkkrama",
+"quick_gloss": "such-sequence"
 },
 {
 "surface": "saṃbhavaḥ",
@@ -247,16 +247,20 @@
 "quick_gloss": "not"
 },
 {
-"surface": "sarva+jātiḥ",
-"quick_gloss": "all-caste"
+"surface": "ravarjā",
+"quick_gloss": "without-exception"
 },
 {
-"surface": "varta",
+"surface": "sarvajātir",
+"quick_gloss": "all-birth"
+},
+{
+"surface": "vartamānā",
 "quick_gloss": "existing"
 },
 {
-"surface": "mānāvalaṃbinī",
-"quick_gloss": "mānāvalaṃbinī"
+"surface": "valaṃbinī",
+"quick_gloss": "dependent"
 }
 ]
 },
@@ -272,16 +276,16 @@
 "quick_gloss": "not"
 },
 {
-"surface": "vācya+vācaka+ākāra",
-"quick_gloss": "word-speaker-form"
+"surface": "vācyavācakākāra",
+"quick_gloss": "word-and-meaning-form"
 },
 {
-"surface": "śāstra+carcā",
+"surface": "śāstracarcā",
 "quick_gloss": "scripture-discussion"
 },
 {
 "surface": "piśācikā",
-"quick_gloss": "demoness"
+"quick_gloss": "demonic"
 }
 ]
 },
@@ -305,7 +309,7 @@
 "quick_gloss": "and"
 },
 {
-"surface": "manasaḥ",
+"surface": "manaso",
 "quick_gloss": "of-mind"
 },
 {
@@ -313,8 +317,8 @@
 "quick_gloss": "not"
 },
 {
-"surface": "drohaḥ",
-"quick_gloss": "malice"
+"surface": "droho",
+"quick_gloss": "treachery"
 },
 {
 "surface": "na",
@@ -346,16 +350,24 @@
 "quick_gloss": "sleep"
 },
 {
-"surface": "na+anyaḥ",
-"quick_gloss": "not-other"
+"surface": "na",
+"quick_gloss": "not"
 },
 {
-"surface": "ko+api",
+"surface": "anyaḥ",
+"quick_gloss": "other"
+},
+{
+"surface": "ko",
 "quick_gloss": "any"
 },
 {
-"surface": "mano+jvaraḥ",
-"quick_gloss": "mind-fever"
+"surface": "api",
+"quick_gloss": "api"
+},
+{
+"surface": "manojvaraḥ",
+"quick_gloss": "mental-fever"
 }
 ]
 },
@@ -367,15 +379,19 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "nānā+mārga+kṛta+ārohaḥ",
-"quick_gloss": "various-path-made-ascent"
+"surface": "na",
+"quick_gloss": "not"
 },
 {
-"surface": "kutrāpi",
-"quick_gloss": "somewhere"
+"surface": "nānāmārgakṛtārohaḥ",
+"quick_gloss": "various-paths-ascent"
 },
 {
-"surface": "dṛḍha+laṃbanaḥ",
+"surface": "kutrāpya",
+"quick_gloss": "anywhere"
+},
+{
+"surface": "dṛḍhalaṃbanaḥ",
 "quick_gloss": "firm-support"
 }
 ]
@@ -392,16 +408,16 @@
 "quick_gloss": "therefore"
 },
 {
-"surface": "sarvāsu+jātiṣu",
-"quick_gloss": "in-all-castes"
+"surface": "sarvāsu+jātiṣv",
+"quick_gloss": "in-all-births"
 },
 {
-"surface": "akhaṃḍita",
+"surface": "apyakhaṃḍita",
 "quick_gloss": "unbroken"
 },
 {
 "surface": "parākramam",
-"quick_gloss": "valor"
+"quick_gloss": "prowess"
 }
 ]
 },
@@ -413,12 +429,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "ānanda+nātham",
-"quick_gloss": "ananda-natha"
+"surface": "ānaṃdanātham",
+"quick_gloss": "bliss-lord"
 },
 {
-"surface": "īśānam",
-"quick_gloss": "ishana"
+"surface": "īśānaṃ",
+"quick_gloss": "ruler"
 },
 {
 "surface": "na",
@@ -442,12 +458,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "iti",
+"surface": "ity",
 "quick_gloss": "thus"
 },
 {
-"surface": "ānanda+tantre",
-"quick_gloss": "ananda-tantra"
+"surface": "ānaṃdatantre",
+"quick_gloss": "in-bliss-tantra"
 },
 {
 "surface": "caturthaḥ",
@@ -467,24 +483,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "maṃtra+ānanda",
-"quick_gloss": "mantra-ananda"
+"surface": "maṃtramānaṃda",
+"quick_gloss": "mantra-bliss"
 },
 {
-"surface": "devyāḥ",
+"surface": "devyāśca",
 "quick_gloss": "of-goddess"
-},
-{
-"surface": "ca",
-"quick_gloss": "and"
 },
 {
 "surface": "śruṇu",
 "quick_gloss": "hear"
 },
 {
-"surface": "vīra+niṣevite",
-"quick_gloss": "hero-served"
+"surface": "vīraniṣevite",
+"quick_gloss": "hero-worshipped"
 }
 ]
 },
@@ -496,12 +508,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "samasta+siddhi+janaka",
-"quick_gloss": "all-siddhi-causing"
+"surface": "samastasiddhijanaka",
+"quick_gloss": "all-accomplishments-causing"
 },
 {
-"surface": "sāṃdra+ānanda",
-"quick_gloss": "dense-ananda"
+"surface": "sāṃdrānaṃda",
+"quick_gloss": "dense-bliss"
 },
 {
 "surface": "mahodayaḥ",
@@ -517,8 +529,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "nāthāya+iti",
-"quick_gloss": "natha-iti"
+"surface": "nāthāya",
+"quick_gloss": "to-lord"
+},
+{
+"surface": "iti",
+"quick_gloss": "iti"
 },
 {
 "surface": "padaṃ",
@@ -529,16 +545,12 @@
 "quick_gloss": "after"
 },
 {
-"surface": "procya",
-"quick_gloss": "speak"
-},
-{
-"surface": "brūyām",
-"quick_gloss": "say"
+"surface": "procyabrūyāṃ",
+"quick_gloss": "spoken"
 },
 {
 "surface": "navātmikām",
-"quick_gloss": "nine-souled"
+"quick_gloss": "nine-formed"
 }
 ]
 },
@@ -550,19 +562,19 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "praṇava+ādiḥ",
+"surface": "praṇavādi",
 "quick_gloss": "om-beginning"
 },
 {
-"surface": "mahā+maṃtraḥ",
+"surface": "mahāmaṃtraḥ",
 "quick_gloss": "great-mantra"
 },
 {
-"surface": "proktaḥ",
+"surface": "prokto",
 "quick_gloss": "declared"
 },
 {
-"surface": "viṃśatiṃ",
+"surface": "viṃśati",
 "quick_gloss": "twenty"
 },
 {
@@ -579,16 +591,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "navātma+mithuna+ākhyā",
-"quick_gloss": "nine-soul-couple-named"
+"surface": "navātmamithunākhyā",
+"quick_gloss": "nine-formed-couple-named"
 },
 {
 "surface": "ca",
 "quick_gloss": "and"
 },
 {
-"surface": "mahā+ānanda+kalā+ātmikā",
-"quick_gloss": "great-ananda-kala-souled"
+"surface": "mahānaṃdakalātmikā",
+"quick_gloss": "great-bliss-particle-formed"
 }
 ]
 },
@@ -600,20 +612,24 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "anayā+sadṛśaḥ",
-"quick_gloss": "by-this-similar"
+"surface": "anayā",
+"quick_gloss": "by-this"
 },
 {
-"surface": "maṃtraḥ",
+"surface": "sadṛśo",
+"quick_gloss": "like"
+},
+{
+"surface": "maṃtras",
 "quick_gloss": "mantra"
 },
 {
-"surface": "tu",
-"quick_gloss": "and"
+"surface": "tvanayā",
+"quick_gloss": "thus"
 },
 {
-"surface": "anayā+sadṛśaṃ",
-"quick_gloss": "by-this-similar"
+"surface": "sadṛśaṃ",
+"quick_gloss": "like"
 },
 {
 "surface": "tapaḥ",
@@ -629,11 +645,11 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "liṃga+yoni",
+"surface": "liṃgayoni",
 "quick_gloss": "linga-yoni"
 },
 {
-"surface": "sadā+saṃgā",
+"surface": "sadāsaṃgā",
 "quick_gloss": "always-union"
 },
 {
@@ -658,24 +674,24 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "māṃ",
-"quick_gloss": "me"
+"surface": "māṃ+vinā",
+"quick_gloss": "without-me"
 },
 {
-"surface": "vinā",
-"quick_gloss": "without"
+"surface": "na",
+"quick_gloss": "not"
 },
 {
-"surface": "na+eva+jānanti",
-"quick_gloss": "not-know"
+"surface": "eva",
+"quick_gloss": "indeed"
 },
 {
-"surface": "vidyām",
-"quick_gloss": "vidya"
+"surface": "jānaṃti",
+"quick_gloss": "know"
 },
 {
-"surface": "etāṃ",
-"quick_gloss": "this"
+"surface": "vidyāmetāṃ",
+"quick_gloss": "this-knowledge"
 },
 {
 "surface": "mahodayām",
@@ -708,15 +724,15 @@
 },
 {
 "surface": "sā",
-"quick_gloss": "she"
+"quick_gloss": "sā"
 },
 {
-"surface": "nā",
-"quick_gloss": "not"
+"surface": "ca",
+"quick_gloss": "ca"
 },
 {
 "surface": "muradviṣe",
-"quick_gloss": "to-murari"
+"quick_gloss": "to-muradviṣ"
 }
 ]
 }
