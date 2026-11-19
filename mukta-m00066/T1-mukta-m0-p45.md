@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p45-v1101
-[embracing](parirabhya) [but](tu) [husband](bhartāraṃ) [jingling](kvaṇat) [bracelet-vine](kaṃkaṇadorlatāḥ)
+[embracing](parirabhya) [but](tu) [husband](bhartāraṃ) [jingling](kvaṇat) [bangles](kaṃkaṇa) [armlets](dorlatāḥ)
 
 ## mukta-m0-p45-v1102
-[not](na) [by-brahma](brahmaṇā) [not](na) [by-indra](śakreṇa) [not](na) [by-me](mayā) [not](na) [and](ca) [by-vishnu](viṣṇunā)
+[not](na) [by-Brahma](brahmaṇā) [not](na) [by-Indra](śakreṇa) [not](na) [by-me](mayā) [not](na) [and](ca) [by-Vishnu](viṣṇunā)
 
 ## mukta-m0-p45-v1103
-[even](api) [with-hundred-walls](prākāraśatakairanukṣaṇa) [every-moment](anukṣaṇa) [well-guarded](surakṣitāḥ)
+[even](api) [by-hundred-walls](prākāraśatakaiḥ) [constantly](anukṣaṇa) [well-protected](surakṣitāḥ)
 
 ## mukta-m0-p45-v1104
-[of-women](strīṇāṃ) [bad-conduct](duḥsilakaraṇe) [and](ca) [deluding-others](paravyāmohane) [also](api) [ca](ca)
+[of-women](strīṇāṃ) [bad-conduct](duḥśīla) [doing](karaṇe) [others-deluding](paravyāmohane) [also](api) [and](ca)
 
 ## mukta-m0-p45-v1105
-[by-anyone](kenāpi) [not](na) [held](gṛhastāsāṃ) [of-mind](cittasyātī) [wandering](valolataḥ)
+[by-anyone](kenāpi) [not](na) [of-householders](gṛhastāsāṃ) [mind](cittasya) [unsteadiness](ativalolataḥ)
 
 ## mukta-m0-p45-v1106
-[not](na) [purity](pūtirmanasaḥ) [of-mind](manasaḥ) [anywhere](kvāpi) [not](na) [satisfaction](tṛptiḥ) [anywhere](kvāpikarmaṇi) [in-action](karmaṇi)
+[no](na) [purity](pūtiḥ) [of-mind](manasaḥ) [anywhere](kvāpi) [no](na) [satisfaction](tṛptiḥ) [anywhere](kvāpi) [in-action](karmaṇi)
 
 ## mukta-m0-p45-v1107
-[one-another](anyamanyaṃ) [thinking](ciṃtayaṃto) [hidden](gūḍhābhiprāyaceṣṭitāḥ) [intention-deeds](abhiprāyaceṣṭitāḥ)
+[one-another](anyamanyam) [thinking](ciṃtayantaḥ) [hidden-intention](gūḍhābhiprāya) [actions](ceṣṭitāḥ)
 
 ## mukta-m0-p45-v1108
-[not](na) [but](tu) [of-them](tāsāṃ) [mind-weariness](manoglāniḥ) [life-limit](prāṇaparyaṃta) [boldness](sāhasaiḥ)
+[not](na) [indeed](tu) [their](tāsāṃ) [mind-weariness](manoglāniḥ) [life-end](prāṇaparyanta) [daring](sāhasaiḥ)
 
 ## mukta-m0-p45-v1109
-[not](na) [fire](agniḥ) [satisfied](tṛpyati) [with-wood](kāṣṭhānāṃ) [not](na) [ocean](mahodadhiḥ) [of-rivers](nāpagānāṃ)
+[fire](agniḥ) [not-satisfied](na-tṛpyati) [with-wood](kāṣṭhānāṃ) [ocean](mahodadhiḥ) [not](na) [with-rivers](āpagānāṃ)
 
 ## mukta-m0-p45-v1110
-[of-women](strīṇāṃ) [double](dviguṇam) [food](āhāro) [mind](buddhiḥ) [also](ca) [api](api) [fourfold](caturguṇam)
+[of-women](strīṇāṃ) [double-food](dviguṇamāhāraḥ) [intellect](buddhiḥ) [also](ca) [api](api) [fourfold](caturguṇam)
 
 ## mukta-m0-p45-v1111
-[great-sacrifice](mahāyāga) [occasion](prasaṃgena) [spoken](proktaṃ) [kama-astaka](kāmāṣṭakaṃ) [by-me](mayā)
+[great-sacrifice](mahāyāga) [occasion](prasaṃgena) [spoken](proktam) [eight-desires](kāmāṣṭakam) [by-me](mayā)
 
 ## mukta-m0-p45-v1112
-[therefore](tasmādala) [of-straight-eyed](dṛṣṭīnāṃ) [black-haired-browed](marālacikurabhruvām)
+[therefore](tasmāt) [fickle-eyed](aladṛṣṭīnāṃ) [deer-like-hair-browed](marālacikurabhruvām)
 
 ## mukta-m0-p45-v1113
-[of-them](tāsāṃ) [if](yadi) [mind](mano) [in-man](puṃsi) [anywhere](kutrāpi) [sticks](parilipyate)
+[their](tāsāṃ) [if](yadi) [mind](manaḥ) [in-men](puṃsi) [anywhere](kutrāpi) [gets-attached](parilipyate)
 
 ## mukta-m0-p45-v1114
-[not](na) [and](ca) [melts](dravati) [enjoyment-water](bhogāṃbu) [not](na) [and](ca) [charm-wealth](vibhramasaṃpadaḥ)
+[nor](na) [ca](ca) [melts](dravati) [wealth-water](bhogāṃbu) [nor](na) [ca](ca) [splendor](saṃpadaḥ) [of-delusion](vibhrama)
 
 ## mukta-m0-p45-v1115
-[therefore](tasmānmanaḥ) [mind](manaḥ) [supreme](paraṃ) [will-say](vakṣya) [from-others](manyato) [doe-eyed](hariṇīdṛśām)
+[therefore](tasmāt) [mind](manaḥ) [supreme](param) [I-will-say](vakṣye) [of-deer-eyed](hariṇīdṛśām)
 
 ## mukta-m0-p45-v1116
-[beauty](sauṃdaryavibhramālāpa) [charm](vibhrama) [speech](ālāpa) [happiness](saukhya) [erotic-wealth](śṛṃgārasaṃpadaḥ)
+[beauty-delusion-talk](sauṃdaryavibhramālāpa) [pleasure-love-splendor](saukhyaśṛṃgārasaṃpadaḥ)
 
 ## mukta-m0-p45-v1117
-[concealment](avahiththāvaśenaiva) [power](vaśena) [only](eva) [other-man-wandering](parapūruṣalolatā)
+[by-concealment](avahiththāvaśena) [alone](eva) [other-man-fickleness](parapūruṣalolatā)
 
 ## mukta-m0-p45-v1118
-[fools](mūḍhāstabdhā) [stiff](stabdhā) [not](na) [know](jānaṃti) [feeling](bhāvaṃ) [artificial-deed](kṛtrimaceṣṭitam)
+[foolish-stiff](mūḍhāstabdhāḥ) [not](na) [know](jānanti) [feeling](bhāvam) [artificial-action](kṛtrimaceṣṭitam)
 
 ## mukta-m0-p45-v1119
-[alas](aho) [fool](mūḍhena) [hard-to-discern](durllakṣyaṃ) [of-women](strīṇām) [form-deed](ākṛticeṣṭitam)
+[alas](aho) [foolish](mūḍhena) [hard-to-discern](durllakṣyam) [women's](strīṇām) [form-action](ākṛticeṣṭitam)
 
 ## mukta-m0-p45-v1120
-[of-deceivers](vaṃcakānāṃ) [and](ca) [of-all](sarveṣāṃ) [deceiver](vaṃcakā) [false-eyed](vamalocanā)
+[of-deceivers](vaṃcakānām) [all](sarveṣām) [deceiver](vaṃcakā) [eye-rolling](vamalocanā)
 
 ## mukta-m0-p45-v1121
-[even](api) [scripture-knower](śāstravivettāraṃmapi) [even](api) [by-scripture](śāstreṇa) [lustful](laṃpaṭāḥ)
+[even](api) [scripture-knowers](śāstravivettāraṃ) [even](api) [by-scripture](śāstreṇa) [lustful](laṃpaṭāḥ)
 
 ## mukta-m0-p45-v1122
-[even](api) [rope-striking](rajjupraharaṇamapi) [even](api) [protection-skillful](rakṣaṇadakṣiṇam)
+[even](api) [rope-weapon](rajjupraharaṇam) [even](api) [protection-skilled](rakṣaṇadakṣiṇam)
 
 ## mukta-m0-p45-v1123
-[even](apyuddhatamapi) [even](api) [angry](kṛddhamapi) [even](api) [thief](coramapiprabhum) [even](api) [lord](prabhum)
+[even](api) [haughty](uddhatam) [even](api) [angry](kṛddham) [even](api) [thief](coram) [even](api) [lord](prabhum)
 
 ## mukta-m0-p45-v1124
-[who](yastrīṇāṃ) [of-women](strīṇāṃ) [heart-serpent](hṛdayavyālagrahaṇe) [catching](grahaṇe) [snake-charmer](cāhituṃḍikaḥ)
+[who](yaḥ) [women's](strīṇām) [heart-snake](hṛdayavyāla) [catching](grahaṇe) [snake-charmer](cāhituṃḍikaḥ)
 
 ## mukta-m0-p45-v1125
-[of-hero](vīrasyeva) [like](iva) [excellent](prakṛṣṭena) [conduct](samācāreṇajāyate) [becomes](jāyate)
+[like-hero](vīrasyeva) [by-excellent](prakṛṣṭena) [conduct](samācāreṇa) [becomes](jāyate)
