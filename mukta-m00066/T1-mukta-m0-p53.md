@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p53-v1301
-[tatra-api](tatrāpi) [hetavaḥ](hetavaḥ) [tīvrāḥ](tīvrāḥ) [bhūyasyaḥ+yuktayaḥ+api](bhūyasyoyuktayo'pi) [ca](ca)
+[there](tatrāpi) [also](api) [causes](hetavastīvrāḥ) [many](bhūyasyoyuktayo'pi) [also](ca)
 
 ## mukta-m0-p53-v1302
-[vyāmohe](vyāmohe) [jāyate](jāyate) [dūram](dūraṃ) [tayoḥ+ālokanānṛṇām](tayorālokanānṛṇām)
+[confusion](vyāmohe) [arises](jāyate) [far](dūraṃ) [of-those](tayorālokanānṛṇām)
 
 ## mukta-m0-p53-v1303
-[sthāne](sthāne) [pṛṣṭham](pṛṣṭhaṃ) [tvayā+devi](tvayādevi) [samyak](samyage) [tat+vivicyate](tadvivicyate)
+[in-place](sthāne) [back](pṛṣṭhaṃ) [by-you](tvayādevi) [properly](samyage) [that](tadvivicyate)
 
 ## mukta-m0-p53-v1304
-[na](na) [kevalam](kevalaṃ) [dhī-vilāsaḥ](dhīvilāso) [vaikhari+api](vaikharyapi) [ca](ca) [kāraṇam](kāraṇam)
+[not](na) [only](kevalaṃ) [intellect-play](dhīvilāso) [speech](vaikharyapi) [also](ca) [cause](kāraṇam)
 
 ## mukta-m0-p53-v1305
-[saṅkalpena](saṅkalpena) [vikalpena](vikalpena) [nara-jāti-eka-vāsinā](narajātyekavāsinā)
+[by-intention](saṅkalpena) [by-doubt](vikalpena) [human-born](narajātyekavāsinā)
 
 ## mukta-m0-p53-v1306
-[teṣām](teṣāṃ) [tu](tu) [darśanānām](darśanānāṃ) [yaḥ](yo) [vedaḥ](vedaḥ) [prathama-darśanam](prathamadarśanam)
+[of-them](teṣāṃ) [tu](tu) [of-views](darśanānāṃ) [yo](yo) [vedaḥ](vedaḥ) [first-view](prathamadarśanam)
 
 ## mukta-m0-p53-v1307
-[tatra](tatrodāsīna) [udāsīna](udāsīna) [vṛttīni](vṛttīnicānyāni) [anyāni](anyāni) [parameśvarī](parameśvarī)
+[there](tatrodāsīna) [vṛttīni](vṛttīnicānyāni) [supreme-lady](parameśvarī)
 
 ## mukta-m0-p53-v1308
-[na](na) [tu](tu) [viśrāṃti](viśrāṃti) [vārttā+api](vārttāpi) [kasya+cit+vāda-vartmanaḥ](kasyacidvādavartmanaḥ)
+[not](na) [tu](tu) [rest](viśrāṃti) [news](vārttāpi) [of-anyone](kasyacidvādavartmanaḥ)
 
 ## mukta-m0-p53-v1309
-[rucinām+iha](rucināmiha) [vai](vai) [citryāt](citryād) [bahudhā+śāstra-koṭayaḥ](bahudhāśāstrakoṭayaḥ)
+[by-taste](rucināmiha) [vai](vai) [variety](citryād) [many](bahudhāśāstrakoṭayaḥ)
 
 ## mukta-m0-p53-v1310
-[artha-śāstram](arthaśāstraṃ) [ca](ca) [su-śroṇi](suśroṇi) [tābhyām](tābhyāṃ) [śāstra-samudgamaḥ](śāstrasamudgamaḥ)
+[meaning-science](arthaśāstraṃ) [ca](ca) [fair-hipped](suśroṇi) [from-them](tābhyāṃ) [scripture-emergence](śāstrasamudgamaḥ)
 
 ## mukta-m0-p53-v1311
-[pratyakṣa-ādi](pratyakṣādi) [pramāṇāni](pramāṇāni) [sarvathā](sarvathā) [kāraṇam](kāraṇaṃ) [tu+idam](tvidam)
+[direct-etc](pratyakṣādi) [means](pramāṇāni) [in-all-ways](sarvathā) [cause](kāraṇaṃ) [indeed-this](tvidam)
 
 ## mukta-m0-p53-v1312
-[kasya+api](kasyāpi) [samatā](samatā) [devi](devi) [tri-vidhaḥ+ayam](trividhoyaṃ) [pramā-kramaḥ](pramākramaḥ)
+[of-someone](kasyāpi) [equality](samatā) [devi](devi) [threefold](trividhoyaṃ) [pramā-sequence](pramākramaḥ)
 
 ## mukta-m0-p53-v1313
-[saugatāḥ+ca+eva](saugatāścaiva) [kāṇādāḥ](kāṇādā) [pratyakṣa-anumiti](pratyakṣānumitī) [jaguḥ](jaguḥ)
+[buddhists](saugatāścaiva) [and](ca) [atomists](kāṇādā) [direct-inference](pratyakṣānumitījaguḥ)
 
 ## mukta-m0-p53-v1314
-[nyāya-eka-deśinaḥ+ca+anye](nyāyaika deśinaścānye) [sāṃkhya-vat](sāṃkhyavat) [samudīritāḥ](samudīritāḥ)
+[nyāya-partial](nyāyaika) [others](deśinaścānye) [like-sāṃkhya](sāṃkhyavat) [declared](samudīritāḥ)
 
 ## mukta-m0-p53-v1315
-[artha-āpatyā](arthāpatyā) [saha+etāni](sahaitāni) [catvāri+aparaḥ](catvāryapara) [ūcire](ūcire)
+[by-inference](arthāpatyā) [with-these](sahaitāni) [four](catvāryapara) [said](ūcire)
 
 ## mukta-m0-p53-v1316
-[saṃbhava+etīha](saṃbhavaitīha) [yuktaiḥ+taiḥ](yuktaistaiḥ) [ṣaḍbhiḥ+mānaiḥ+ca](ṣaḍbhirmānaiśca) [kecana](kecana)
+[possible](saṃbhavaitīha) [with-these](yuktaiḥ) [six](ṣaḍbhirmānaiśca) [some](kecana)
 
 ## mukta-m0-p53-v1317
-[atra+antar+bhāvam](atrāntarbbhāvam) [anyonyam](anyonyaṃ) [vādinaḥ+yukta-paṇḍitāḥ](vādinoyuktapaṇḍitāḥ)
+[here](atrāntarbbhāvamanyonyaṃ) [disputants](vādinoyuktapaṇḍitāḥ)
 
 ## mukta-m0-p53-v1318
-[bhūyaḥ](bhūyaḥ) [parigrahaḥ](parigraho) [yasya](yasya) [yasya](yasya) [svalpa-parigrahaḥ](svalpaparigrahaḥ)
+[again](bhūyaḥ) [adoption](parigraho) [of-whom](yasya) [of-whom](yasya) [small-adoption](svalpaparigrahaḥ)
 
 ## mukta-m0-p53-v1319
-[ye](ye) [kurvanti](kurvantī) [hamanvānāḥ](hamanvānāḥ) [śāstreṣu+alpa-parigraham](śāstreṣvalpaparigraham)
+[those](ye) [do](kurvantī) [following](hamanvānāḥ) [in-scriptures](śāstreṣvalpaparigraham)
 
 ## mukta-m0-p53-v1320
-[teṣām](teṣāṃ) [matam](mataṃ) [ca](ca) [dhūnvānāḥ+tarka-granthibhiḥ+ujvalaiḥ](dhūnvānāstarka granthibhirujvalaiḥ)
+[their](teṣāṃ) [view](mataṃ) [ca](ca) [shaking](dhūnvānāstarka) [granthi](granthibhirujvalaiḥ)
 
 ## mukta-m0-p53-v1321
-[evam](evaṃ) [sati](sati) [samasteṣu](samasteṣu) [śāstreṣu](śāstreṣu) [kalahaṃ](kalahaṃ) [kramaḥ](kramaḥ)
+[thus](evaṃ) [sati](sati) [in-all](samasteṣu) [scriptures](śāstreṣu) [dispute](kalahaṃ) [order](kramaḥ)
 
 ## mukta-m0-p53-v1322
-[āropa-jam](āropajaṃ) [nirasyanti](nirasyaṃti) [kecit](kecit) [svarasa-vādinaḥ](svarasavādinaḥ)
+[superimposition-born](āropajaṃ) [reject](nirasyaṃti) [some](kecit) [own-taste-disputants](svarasavādinaḥ)
 
 ## mukta-m0-p53-v1323
-[āropasya](āropasya) [svarūpam+tu](svarūpantu) [kathayāmi+nagātmaje](kathayāminagātmaje)
+[of-superimposition](āropasya) [nature](svarūpantu) [I-will-tell](kathayāminagātmaje)
 
 ## mukta-m0-p53-v1324
-[mṛttikā+khalu](mṛttikākhalu) [sarvā+iyam](sarveyaṃ) [bhūmiḥ+nānā-vidhā-ākṛtiḥ](bhūmirnnānāvidhākṛtiḥ)
+[earth](mṛttikākhalu) [indeed](sarveyaṃ) [bhūmiḥ](bhūmirnnānāvidhākṛtiḥ)
 
 ## mukta-m0-p53-v1325
-[etat](etat) [bhūmī](bhūmī) [mṛttikā+eva+kuṃbha-kṛt-pāṇi-mardditā](mṛttikaivakuṃbhakṛtpāṇimardditā)
+[this](etat) [earth](bhūmī) [clay](mṛttikaivakuṃbhakṛtpāṇimardditā)
