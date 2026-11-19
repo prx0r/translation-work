@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p28-v676
-[gloss](navāvadhikarāntasya) [gloss](śūnyadoṣo) [gloss](na) [gloss](kasyacit)
+[of-one-whose-end-is-increased-by-nine](navāvadhikarāntasya) [defect-of-zero](śūnyadoṣo) [not](na) [of-anyone](kasyacit)
 
 ## mukta-m0-p28-v677
-[gloss](tridhā) [gloss](mānena) [gloss](caikena) [gloss](ṣoḍaśāsraṃ) [gloss](śatadvayam)
+[in-three-ways](tridhā) [by-measure](mānena) [and-unity](caikena) [sixteen-angled](ṣoḍaśāsraṃ) [two-hundred](śatadvayam)
 
 ## mukta-m0-p28-v678
-[gloss](caturaṣṭaṣaḍasraṃ) [gloss](tu) [gloss](indrāṅkaṃ) [gloss](vajrarūpakam)
+[four-eight-six-angled](caturaṣṭaṣaḍasraṃ) [but](tu) [indra-marked](indrāṅkaṃ) [diamond-shaped](vajrarūpakam)
 
 ## mukta-m0-p28-v679
-[gloss](bindusaṃpātsaṃyogāttiryaksūtrairvivartayet)
+[from-union-of-dot-contact](bindusaṃpātsaṃyogāt) [with-transverse-threads](tiryaksūtrair) [one-should-rotate](vivartayet)
 
 ## mukta-m0-p28-v680
-[gloss](vasvasrordhvaṃ) [gloss](tu) [gloss](saptāsraṃ) [gloss](śaktyāgneya) [gloss](ca) [gloss](dāhakṛt)
+[above-two-sisters](vasvasrordhvaṃ) [but](tu) [seven-angled](saptāsraṃ) [power-fire](śaktyāgneya) [and](ca) [causing-burning](dāhakṛt)
 
 ## mukta-m0-p28-v681
-[gloss](nāhārdhaṃ) [gloss](navadhā) [gloss](kṛtvā) [gloss](śarairhṛtpṛṣṭhakoṭibhiḥ)
+[navel-half](nāhārdhaṃ) [making-ninefold](navadhā+kṛtvā) [with-arrows-heart-back-corners](śarair+hṛtpṛṣṭhakoṭibhiḥ)
 
 ## mukta-m0-p28-v682
-[gloss](evaṃ) [gloss](cāṣṭāsravṛtaṃ) [gloss](syādyāmyadaṇḍaṃ) [gloss](rujapradam)
+[thus](evaṃ) [eight-angled-encircled](cāṣṭāsravṛtaṃ) [would-be-south-staff](syādyāmyadaṇḍaṃ) [causing-disease](rujapradam)
 
 ## mukta-m0-p28-v683
-[gloss](aṣṭāsro'rdha) [gloss](daśāstraṃ) [gloss](syātkhaḍgābhaṃ) [gloss](rākṣasaṃ) [gloss](bhayam)
+[eight-angled-half](aṣṭāsro'rdha) [ten-angled](daśāstraṃ) [would-be](syāt) [sword-like](khaḍgābhaṃ) [rākṣasa-fear](rākṣasaṃ+bhayam)
 
 ## mukta-m0-p28-v684
-[gloss](caturaṣṭāsravṛttaṃ) [gloss](syātpāśavadvāruṇaṃ) [gloss](śubham)
+[four-eight-angled-encircled](caturaṣṭāsravṛttaṃ) [would-be](syāt) [noose-like-varuṇa](pāśavadvāruṇaṃ) [auspicious](śubham)
 
 ## mukta-m0-p28-v685
-[gloss](kṛśaṃ) [gloss](prāgrūpakaṃ) [gloss](dīrghaṃ) [gloss](calamuccāṭakṛddhvajam)
+[thin](kṛśaṃ) [front-shaped](prāgrūpakaṃ) [long](dīrghaṃ) [moving](calam) [causing-uprooting-banner](uccāṭakṛddhvajam)
 
 ## mukta-m0-p28-v686
-[gloss](yākṣaṃ) [gloss](gadāgramūrdhānaṃ) [gloss](balavṛddhikaraṃ) [gloss](śivam)
+[yakṣa](yākṣaṃ) [mace-tip-headed](gadāgramūrdhānaṃ) [strength-increasing](balavṛddhikaraṃ) [auspicious](śivam)
 
 ## mukta-m0-p28-v687
-[gloss](catuḥpañcāsrakaṃ) [gloss](tryasraṃ) [gloss](śūlaṃ) [gloss](raudraṃ) [gloss](tu) [gloss](muktidam)
+[four-five-angled](catuḥpañcāsrakaṃ) [three-angled](tryasraṃ) [trident](śūlaṃ) [fierce](raudraṃ) [but](tu) [giving-liberation](muktidam)
 
 ## mukta-m0-p28-v688
-[gloss](aṣṭāsro'rdhaṃ) [gloss](ca) [gloss](vedāsraṃ) [gloss](brāhmaṃ) [gloss](svargāya) [gloss](padmavat)
+[eight-angled-half](aṣṭāsro'rdhaṃ) [and](ca) [four-angled](vedāsraṃ) [brahma](brāhmaṃ) [for-heaven](svargāya) [lotus-like](padmavat)
 
 ## mukta-m0-p28-v689
-[gloss](caturaṣṭāsravṛttaṃ) [gloss](syādvaiṣṇavaṃ) [gloss](śaṅkhava) [gloss](cchubham)
+[four-eight-angled-encircled](caturaṣṭāsravṛttaṃ) [would-be](syāt) [vaiṣṇava](vaiṣṇavaṃ) [conch-like](śaṅkhavat) [auspicious](śubham)
 
 ## mukta-m0-p28-v690
-[gloss](rudrāttrihānitaḥ) [gloss](śuktirdaṇḍo) [gloss](digbhyastrihānitaḥ)
+[from-rudra-three-less](rudrāttrihānitaḥ) [conch](śuktir) [staff](daṇḍo) [from-directions-three-less](digbhyastrihānitaḥ)
 
 ## mukta-m0-p28-v691
-[gloss](kukkuṭāṇḍaṃ) [gloss](ca) [gloss](vāyavye) [gloss](bhūtāṃśāddhi) [gloss](yate) [gloss](gadā)
+[cock-egg](kukkuṭāṇḍaṃ) [and](ca) [in-vāyavya](vāyavye) [from-element-parts](bhūtāṃśāt) [indeed](hi) [where](yate) [mace](gadā)
 
 ## mukta-m0-p28-v692
-[gloss](dakṣāṇḍabhaja) [gloss](vaiṣṇośca) [gloss](ittha) [gloss](rekhā) [gloss](maṇerapi)
+[right-egg-portion](dakṣāṇḍabhaja) [of-vaiṣṇu](vaiṣṇośca) [thus](ittha) [line](rekhā) [of-gem](maṇerapi)
 
 ## mukta-m0-p28-v693
-[gloss](sphuṭitaṃ) [gloss](garbhavaddaṣṭaṃ) [gloss](sthāpayedābhivārike)
+[split](sphuṭitaṃ) [like-embryo](garbhavat) [seen](daṣṭaṃ) [one-should-place](sthāpayet) [in-ābhivārika](ābhivārike)
 
 ## mukta-m0-p28-v694
-[gloss](vyaktaliṅgāni) [gloss](cānyāni) [gloss](nānā) [gloss](rūpāṇi) [gloss](vacmyataḥ)
+[manifest-signs](vyaktaliṅgāni) [and](ca) [others](anyāni) [various](nānā) [forms](rūpāṇi) [I-speak](vacmyataḥ)
 
 ## mukta-m0-p28-v695
-[gloss](iti) [gloss](lakṣaṇasamuccaye'vyaktaliṅgalakṣaṇaṃ) [gloss](nāma) [gloss](caturtho) [gloss](vidhiḥ)
+[thus](iti) [in-lakṣaṇasamuccaya](lakṣaṇasamuccaye) [unmanifest-sign-characteristic](avyaktaliṅgalakṣaṇaṃ) [named](nāma) [fourth](caturtho) [rite](vidhiḥ)
 
 ## mukta-m0-p28-v696
-[gloss](pūrvāṅgulapramāṇena) [gloss](daśapañcāṅgulāṅgulāt)
+[by-previous-finger-measure](pūrvāṅgulapramāṇena) [from-ten-five-fingers](daśapañcāṅgulāṅgulāt)
 
 ## mukta-m0-p28-v697
-[gloss](kvaciddhastapramāṇā) [gloss](sā) [gloss](kvacicca) [gloss](triṃśadaṅgulā)
+[sometimes-hand-measure](kvaciddhastapramāṇā) [she](sā) [sometimes](kvacicca) [thirty-fingers](triṃśadaṅgulā)
 
 ## mukta-m0-p28-v698
-[gloss](dvārocchrayaṃ) [gloss](vibhajyādāvaṣṭadhaukaṃ) [gloss](vidhāya) [gloss](ca)
+[door-height](dvārocchrayaṃ) [dividing-first](vibhajyādau) [eight-part](aṣṭadhaukaṃ) [having-made](vidhāya) [and](ca)
 
 ## mukta-m0-p28-v699
-[gloss](vidhātavyā) [gloss](dvibhāgena) [gloss](kanyasī) [gloss](pratimā) [gloss](ca) [gloss](sā)
+[to-be-arranged](vidhātavyā) [in-two-parts](dvibhāgena) [smaller](kanyasī) [image](pratimā) [and](ca) [she](sā)
 
 ## mukta-m0-p28-v700
-[gloss](madhyamā) [gloss](syāddvibhāgena) [gloss](kāryaikāṃśena) [gloss](pīṭhikā)
+[middle](madhyamā) [would-be](syāt) [in-two-parts](dvibhāgena) [to-be-made-one-part](kāryaikāṃśena) [pedestal](pīṭhikā)

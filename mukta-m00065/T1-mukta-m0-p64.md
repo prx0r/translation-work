@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p64-v1576
-[principal-artisan](pradhānaśilpinaṃ) [that-group](tadvag) [garland-flowers](dandhapuṣpaiḥ) [and-others](tathetarān)
+[chief+artisan](pradhānaśilpinam) [with+those+garland+flowers](tadvagdandhapuṣpaiḥ) [and+others](tathetarān)
 
 ## mukta-m0-p64-v1577
-[your-feet-grace](bhavatpādaprasādān) [me](me) [whole](kṛtsnaṃ) [sacrifice-fruit](yāgaphalaṃ) [becomes](bhavet)
+[by+your+foot+grace](bhavatpādaprasādāt) [for+me](me) [whole](kṛtsnam) [sacrifice+fruit](yāgaphalam) [may+be](bhavet)
 
 ## mukta-m0-p64-v1578
-[foot-attached](pādalagno) [says](vadet) [doer](kartā) [do](kuru) [action](karmatvadājñayā)
+[foot+attached](pādalagnaḥ) [would+say](vadet) [doer](kartā) [do](kuru) [action+by+your+command](karmatvadājñayā)
 
 ## mukta-m0-p64-v1579
-[washing](prakṣālya) [hand-foot](pāṇipādaṃ) [and](ca) [thrice](triḥ) [drinks](pibed) [water](ambu) [purified](vītritam)
+[having+washed](prakṣālya) [hand+foot](pāṇipādam) [and](ca) [thrice](triḥ) [would+drink](pibet) [water](ambu) [purified](vītritam)
 
 ## mukta-m0-p64-v1580
-[three-saṃhitās](saṃhitābhistribhiḥ) [before](pūrvam) [mouth](āsyam) [thus](evam) [touches](upaspṛśet)
+[with+three+saṃhitās](saṃhitābhistribhiḥ) [before](pūrvam) [mouth](āsyam) [thus](evam) [would+touch](upaspṛśet)
 
 ## mukta-m0-p64-v1581
-[thumb-ring-finger](aṅgūṣṭhānāmikābhyāṃ) [indeed](tu) [eye-ear](cakṣuḥśrotre) [again-again](punaḥ+punaḥ)
+[with+thumb+and+ring+finger](aṅgūṣṭhānāmikābhyām) [tu](tu) [eye+ear](cakṣuḥśrotre) [again+again](punaḥ+punaḥ)
 
 ## mukta-m0-p64-v1582
-[all](sarvābhiḥ) [indeed](tu) [head](śiraḥ) [afterwards](paścāt) [arms](vāhū) [and](ca) [front](agreṇa) [touches](saṃspṛśet)
+[with+all](sarvābhiḥ) [tu](tu) [head](śiraḥ) [afterwards](paścāt) [arms](vāhū) [and](ca) [with+front](agreṇa) [would+touch](saṃspṛśet)
 
 ## mukta-m0-p64-v1583
-[sacrifice-shrine](yāgālayaṃ) [entering](praviśyātha) [sword-seeds](khaḍgabījaiḥ) [consecrated](surecitaiḥ)
+[having+entered](praviśya) [sacrifice+hall](yāgālayam) [then](atha) [with+sword+seeds](khaḍgabījaiḥ) [well+anointed](surecitaiḥ)
 
 ## mukta-m0-p64-v1584
-[element-purification](bhūtaśuddhiṃ) [then](tataḥ) [should-do](kuryāt) [form-etc-complete](mūrtyādisakalīkṛtam)
+[bhūta+purification](bhūtaśuddhim) [then](tataḥ) [would+do](kuryāt) [with+form+etc+made+complete](mūrtyādisakalīkṛtam)
 
 ## mukta-m0-p64-v1585
-[twelve-angula](dvādaśāṅgulam) [raised](utsiktaṃ) [white-turban-holder](sitoṣṇīṣavidhārakaḥ)
+[twelve+finger](dvādaśāṅgulam) [raised](utsiktam) [white+turban+holder](sitoṣṇīṣavidhārakaḥ)
 
 ## mukta-m0-p64-v1586
-[becomes](bhaved) [in-sacrifice](yajñe) [always-teacher](sadācāryaḥ) [śrīkaṇṭha-form-bearer](śrīkaṇṭharūpadhārakaḥ)
+[may+be](bhavet) [in+sacrifice](yajñe) [always+teacher](sadācāryaḥ) [śrīkaṇṭha+form+holder](śrīkaṇṭharūpadhārakaḥ)
 
 ## mukta-m0-p64-v1587
-[thus](ityevaṃ) [without-doubt](nirvikalpena) [mind](cetasā) [should-think](cintayet) [always](sadā)
+[thus](ityevam) [without+doubt](nirvikalpena) [with+mind](cetasā) [would+meditate](cintayet) [always](sadā)
 
 ## mukta-m0-p64-v1588
-[by-that-half-water](tenārdhavāriṇā) [sprinkling](prokṣya) [all](sarvaṃ) [flower-fruit-etc](puṣpaphalādikam)
+[by+that+half+water](tenārdhavāriṇā) [having+sprinkled](prokṣya) [all](sarvam) [flower+fruit+etc](puṣpaphalādikam)
 
 ## mukta-m0-p64-v1589
-[armor](varmaṇā) [should-gather](saṅgahet) [afterwards](paścāt) [whisks](cāmaraiḥ) [or](vā) [peacock-feathers](picchakaiḥ)
+[with+armor](varmaṇā) [would+gather](saṅgahet) [afterwards](paścāt) [with+chowries+or+with+peacock+feathers](cāmarairvātha+picchakaiḥ)
 
 ## mukta-m0-p64-v1590
-[fragrance-water-fruit-gem-rich](gandhāmbuphalaratnāḍhya) [herbs-cloth-joined](oṣadhīvastrasaṃyutam)
+[fragrance+water+fruit+jewel+rich](gandhāmbuphalaratnāḍhyaḥ) [herb+cloth+endowed](oṣadhīvastrasaṃyutam)
 
 ## mukta-m0-p64-v1591
-[divine-direction](aiśyāṃ+diśi) [weapon-joined](astrasaṃyuktaṃ) [should-place](sthāpayet) [sky-upon](ambaropari)
+[īśa+direction](aiśyāṃ+diśi) [weapon+endowed](astrasaṃyuktam) [would+place](sthāpayet) [on+sky](ambaropari)
 
 ## mukta-m0-p64-v1592
-[placing](vinyasya) [pots](kalaśāṃs) [there](tatra) [them](tāṃs) [southward](dakṣiṇato) [worship](arcayet)
+[having+placed](vinyasya) [pots](kalaśān) [there](tatra) [them](tān) [and](ca) [to+south](dakṣiṇataḥ) [would+worship](arcayet)
 
 ## mukta-m0-p64-v1593
-[canopy](vitānaṃ) [platform-part](mañcamāṃśena) [previously-said](prāguktaiḥ) [flags-gateways](dhvajatoraṇān)
+[canopy](vitānam) [with+platform+portion](mañcamāṃśena) [previously+spoken](prāguktaiḥ) [flags+arches](dhvajatoraṇān)
 
 ## mukta-m0-p64-v1594
 [established](saṃsthitam)
 
 ## mukta-m0-p64-v1595
-[indra-etc-darbha-horse](indrendviśāgradarbhāśva) [should-strew](stṛṇīyāt) [unbroken-rice](akṣatāṃ) [pure](śucīn)
+[indra+etc+darbha+horse](indrendviśāgradarbhāśva) [would+strew](stṛṇīyāt) [unbroken+rice](akṣatām) [pure](śucīn)
 
 ## mukta-m0-p64-v1596
-[offering](arghaṃ) [giving](datvā) [indeed](tu) [mouth](vaktreṇa) [incense](dhūpaṃ) [vai](vai) [middle](madhyagena) [tu](tu)
+[offering](argham) [having+given](datvā) [tu](tu) [with+mouth](vaktreṇa) [incense](dhūpam) [vai](vai) [with+middle](madhyagena) [tu](tu)
 
 ## mukta-m0-p64-v1597
-[unmanifest-etc](avyaktādīni) [liṅgas](liṅgāni) [before](prāg) [indu-īśa-heads](indvīśaśirāṃsi) [ca](ca)
+[unmanifest+etc](avyaktādīni) [liṅgas](liṅgāni) [east+indu+īśa+head](prāgindvīśaśirāṃsi) [ca](ca)
 
 ## mukta-m0-p64-v1598
-[unequal-threads](viṣamasūtrakaiḥ)
+[with+uneven+threads](viṣamasūtrakaiḥ)
 
 ## mukta-m0-p64-v1599
-[up-down-part-abandonment](ūrdhvādhoṃśaparityāgāt) [again-circulation](punarvṛttiṃ) [two-part](dvidhāṃśataḥ)
+[by+upper+lower+portion+abandonment](ūrdhvādhoṃśaparityāgāt) [again+turning](punarvṛttim) [twofold+portion](dvidhāṃśataḥ)
 
 ## mukta-m0-p64-v1600
-[inside-concealing](antarluptvā) [thousands](sahasrāṇi) [becomes](bhavaty) [intervening](antaritaiḥ) [always](sadā)
+[having+hidden+inside](antarluptvā) [thousands](sahasrāṇi) [becomes](bhavati) [with+intervals](antaritaiḥ) [always](sadā)

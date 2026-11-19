@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p63-v1551
-seed-form great-god creation-power own-form
+[seed+form](bījarūpaṃ) [great+god](mahādevaṃ) [creation+power](sṛṣṭiśakti) [own+form](svarūpakam)
 
 ## mukta-m0-p63-v1552
-manifestation concealment mutual intended
+[manifestation](prādurbhāvaṃ) [concealment](tirobhāvaṃ) [mutual](paraspara) [intended](vivakṣitam)
 
 ## mukta-m0-p63-v1553
-power there great-goddess subtle-form by spoken
+[power](śaktiḥ) [there](tatra) [great+goddess](mahādevi) [subtle+form](sūkṣmarūpeṇa) [spoken](bhāṣitā)
 
 ## mukta-m0-p63-v1554
-fivefold-or-onefold where manifold-form having Shiva
+[fivefold](pañcadhā) [or](api) [onetime](ekadhā) [where](yatra) [many-formed](nānārūpavatī) [śivā](śivā)
 
 ## mukta-m0-p63-v1555
-inseparability relation of-two only mutual
+[inseparable](avinābhāva) [relation](sambandhaṃ) [of+two](dvayoreva) [mutually](parasparam)
 
 ## mukta-m0-p63-v1556
-power-tinged Shankara
+[power-tinged](śaktyāktaśaṅkaram) [śaṅkara](śaṅkaram)
 
 ## mukta-m0-p63-v1557
-power and in-purushas tinged when all illuminating
+[power](śaktiḥ) [ca](ca) [in+men](puruṣeṣvāktā) [when](yadā) [all](sarva) [illuminating](prakāśinī)
 
 ## mukta-m0-p63-v1558
-Shiva knowledge without something power-knowledge not arises
+[śiva](śiva) [knowledge](jñānaṃ) [without](vinā) [anything](kiñcit) [power-knowledge](śaktijñānaṃ) [not](na) [arises](jāyate)
 
 ## mukta-m0-p63-v1559
-thus holy Sarvanandanatha-composed Sarvollasa fifty-first chapter
+[thus](iti) [śrī](śrī) [sarvānandanātha-composed](sarvānandanāthaviracite) [sarvollāsa](sarvollāse) [fifty-first](ekapañcāśadullāsaḥ)
 
 ## mukta-m0-p63-v1560
-therefore after-many-births end power knowledge arises
+[therefore](ataśca) [after+many+births](bahujanmānte) [power](śakti) [knowledge](jñānaṃ) [arises](prajāyate)
 
 ## mukta-m0-p63-v1561
-that power Vama known of-purusha also liberation-giving
+[that](sā) [power](śaktiḥ) [vāmā](vāmā) [to+be+known](vijñeyā) [of+man](puruṣasyāpi) [liberating](muktidā)
 
 ## mukta-m0-p63-v1562
-giving
+[giver](dāyinī)
 
 ## mukta-m0-p63-v1563
-manifest pleasing satisfied if hidden pleasing satisfied
+[manifest](vyaktā) [pleasing](ramaṇa) [satisfied](tuṣṭā) [cet](cet) [hidden](guptā) [pleasing](ramaṇa) [satisfied](tuṣṭitā)
 
 ## mukta-m0-p63-v1564
-therefore among-them principal indeed power know great-minded
+[therefore](atastebhyaḥ) [principal](pradhānaṃ) [hi](hi) [power](śaktiṃ) [know](viddhi) [great-minded](mahāmate)
 
 ## mukta-m0-p63-v1565
-that-same all-lady goddess he also all great-lord
+[that+very](saiva) [all-lady](sarveśvarī) [goddess](devi) [that](sa) [ca](ca) [all](sarvo) [great-lord](maheśvaraḥ)
 
 ## mukta-m0-p63-v1566
-action-inaction great-goddess of-her only no doubt
+[doable](kāryākāryaṃ) [great-goddess](maheśāni) [of+her](tasyā) [eva](eva) [no](na) [doubt](saṃśayaḥ)
 
 ## mukta-m0-p63-v1567
-action-inaction becomes of-power unattached purusha in-Shiva
+[doable](kāryākāryaṃ) [becomes](bhavet) [of+power](śakter) [unattached](nirliptaḥ) [man](puruṣaḥ) [in+śiva](śive)
 
 ## mukta-m0-p63-v1568
-action of-power becomes work of-beings all-accomplishment
+[action](kriyā) [of+power](śakter) [becomes](bhavet) [work](kāryaṃ) [of+beings](prāṇināṃ) [all+means](sarvasādhane)
 
 ## mukta-m0-p63-v1569
-or-else Shiva known embodied power seed
+[or](athavāpi) [śiva](śivaṃ) [to+be+known](jñeyaṃ) [embodied](dehinaṃ) [power](śakti) [seed](bījakam)
 
 ## mukta-m0-p63-v1570
-Vama-knowledge great-goddess gross subtle measure
+[vāmā-knowledge](vāmājñānaṃ) [great-goddess](maheśāni) [gross](sthūla) [subtle](sūkṣma) [measure](pramāṇakam)
 
 ## mukta-m0-p63-v1571
-in-absence own-woman goddess how-said Sadashiva
+[in+absence](abhāve) [own+woman](svastriyaṃ) [goddess](devi) [how](kathamuktaṃ) [sadāśiva](sadāśive)
 
 ## mukta-m0-p63-v1572
-Brahma given fire by-offering Shiva given but desire
+[brahma](brahma) [given](dattāgninā) [fire](agninā) [offered](hutvā) [śiva](śiva) [given](dattā) [tu](tu) [desire](kāmataḥ)
 
 ## mukta-m0-p63-v1573
-doubt not-at-all to-be-done my word-according
+[doubt](sandeho) [not](naiva) [to+be+done](kartavyo) [my](mama) [words](vākyānusārataḥ) [according](anusārataḥ)
 
 ## mukta-m0-p63-v1574
-own-Vama for-pleasing even other Vama and please
+[own+vāmā](svavāmā) [for+pleasing](toṣaṇārthe) [api](api) [other+vāmā](para) [vāmāñca](vāmāñca) [please](toṣayet)
 
 ## mukta-m0-p63-v1575
-please supreme-goddess hero-state resorting
+[please](toṣayet) [supreme-goddess](parameśāni) [hero-bhāva](vīrabhāva) [resorted](samāśritaḥ)
