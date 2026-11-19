@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p10-v226
-[t1-gloss](prāvrājyānnaśyate) [t1-gloss](pūrvaṃ) [t1-gloss](strīyogādaparaṃ) [t1-gloss](tathā)
+[by-renunciation-perishes](prāvrājyānnaśyate) [first](pūrvaṃ) [from-woman-union-afterwards](strīyogādaparaṃ) [thus](tathā)
 
 ## mukta-m0-p10-v227
-[t1-gloss](trikarṇotthāstrikarṇāśca) [t1-gloss](trikapānātma) [t1-gloss](karṇakā)
+[three-ear-born](trikarṇotthāstrikarṇāśca) [three-skull-self](trikapānātma) [ear-born](karṇakā)
 
 ## mukta-m0-p10-v228
-[t1-gloss](bhasmāṅkurastu) [t1-gloss](katthosthastatsutāḥ) [t1-gloss](kauśikādayaḥ)
+[ash-sprout](bhasmāṅkurastu) [boaster-lip-son](katthosthastatsutāḥ) [kauśika-etc](kauśikādayaḥ)
 
 ## mukta-m0-p10-v229
-[t1-gloss](rāṣṭrakṣayakarā) [t1-gloss](hyete) [t1-gloss](ye) [t1-gloss](ca) [t1-gloss](paṣāṇḍino) [t1-gloss](narāḥ)
+[kingdom-destruction-makers](rāṣṭrakṣayakarā) [these](hyete) [who](ye) [ca](ca) [heretics](paṣāṇḍino) [men](narāḥ)
 
 ## mukta-m0-p10-v230
-[t1-gloss](śāstrāvalokanādeva) [t1-gloss](caṇḍeśastasya) [t1-gloss](śāsakaḥ)
+[by-scripture-viewing](śāstrāvalokanādeva) [caṇḍeśa](caṇḍeśastasya) [ruler](śāsakaḥ)
 
 ## mukta-m0-p10-v231
-[t1-gloss](sa) [t1-gloss](yāti) [t1-gloss](narakaṃ) [t1-gloss](sadyo) [t1-gloss](yājñikaiḥ) [t1-gloss](saha) [t1-gloss](daiśikaḥ)
+[he](sa) [goes](yāti) [to-hell](narakaṃ) [immediately](sadyo) [with-sacrificers](yājñikaiḥ) [with-teacher](saha) [guide](daiśikaḥ)
 
 ## mukta-m0-p10-v232
-[t1-gloss](teṣāmācaraṇānnityamācārya) [t1-gloss](iti) [t1-gloss](kīrtyate)
+[by-their-conduct](teṣāmācaraṇānnityamācārya) [iti](iti) [is-called](kīrtyate)
 
 ## mukta-m0-p10-v233
-[t1-gloss](tasmānna) [t1-gloss](mānavīṃ) [t1-gloss](buddhiṃ) [t1-gloss](kārayeddaiśikaṃ) [t1-gloss](prati)
+[therefore](tasmānna) [not](na) [human](mānavīṃ) [mind](buddhiṃ) [should-make](kārayeddaiśikaṃ) [towards-guide](prati)
 
 ## mukta-m0-p10-v234
-[t1-gloss](pañcavaktrāṇi) [t1-gloss](devasya) [t1-gloss](pañcāgamavivṛddhaye)
+[five-faces](pañcavaktrāṇi) [of-god](devasya) [for-five-āgama-growth](pañcāgamavivṛddhaye)
 
 ## mukta-m0-p10-v235
-[t1-gloss](dīptaṃ) [t1-gloss](sūkṣmaṃ) [t1-gloss](ca) [t1-gloss](sāhasramaṃśuma) [t1-gloss](tsuprabhaṃ) [t1-gloss](daśa)
+[blazing](dīptaṃ) [subtle](sūkṣmaṃ) [ca](ca) [thousand-rayed](sāhasramaṃśuma) [very-bright](tsuprabhaṃ) [ten](daśa)
 
 ## mukta-m0-p10-v236
-[t1-gloss](vijayaṃ) [t1-gloss](pāramaiśvaryaṃ) [t1-gloss](niśvāsodgītasaṃjñakam)
+[victory](vijayaṃ) [supreme-lordship](pāramaiśvaryaṃ) [named-exhalation-song](niśvāsodgītasaṃjñakam)
 
 ## mukta-m0-p10-v237
-[t1-gloss](narasiṃhaṃ) [t1-gloss](candrahāsaṃ) [t1-gloss](vīraṃ) [t1-gloss](svāyambhurauravam)
+[man-lion](narasiṃhaṃ) [moon-laugh](candrahāsaṃ) [hero](vīraṃ) [self-born](svāyambhurauravam)
 
 ## mukta-m0-p10-v238
-[t1-gloss](rudrabhedāḥ) [t1-gloss](samākhyātā) [t1-gloss](daśāṣṭādaśa) [t1-gloss](cordhvagāḥ)
+[rudra-divisions](rudrabhedāḥ) [are-declared](samākhyātā) [ten-eighteen](daśāṣṭādaśa) [upward-going](cordhvagāḥ)
 
 ## mukta-m0-p10-v239
-[t1-gloss](pañcabhūta) [t1-gloss](vibhāgaṃ) [t1-gloss](ca) [t1-gloss](śūnyabheda) [t1-gloss](vinirṇayam)
+[five-elements](pañcabhūta) [division](vibhāgaṃ) [ca](ca) [void-division](śūnyabheda) [determination](vinirṇayam)
 
 ## mukta-m0-p10-v240
-[t1-gloss](kambojaṃ) [t1-gloss](kambalaṃ) [t1-gloss](kaṅkaṃ) [t1-gloss](kālakuṇḍaṃ) [t1-gloss](kaṭāhakam)
+[kamboja](kambojaṃ) [blanket](kambalaṃ) [heron](kaṅkaṃ) [black-pot](kālakuṇḍaṃ) [cauldron](kaṭāhakam)
 
 ## mukta-m0-p10-v241
-[t1-gloss](gāruḍasya) [t1-gloss](tvime) [t1-gloss](bhedā) [t1-gloss](aṣṭāviṃśatirīritāḥ)
+[of-garuḍa](gāruḍasya) [tv](tvime) [these](ime) [divisions](bhedā) [twenty-eight](aṣṭāviṃśatirīritāḥ)
 
 ## mukta-m0-p10-v242
-[t1-gloss](asitāṅgaṃ) [t1-gloss](ruruṃ) [t1-gloss](caiva) [t1-gloss](kapālīśaṃ) [t1-gloss](samuccayam)
+[black-limbed](asitāṅgaṃ) [ruru](ruruṃ) [ca](ca) [eva](eva) [kapālīśa](kapālīśaṃ) [collection](samuccayam)
 
 ## mukta-m0-p10-v243
-[t1-gloss](bhīmāṅgaṃ) [t1-gloss](ḍāmarārāvaṃ) [t1-gloss](bhīmaṃ) [t1-gloss](vetālamardakam)
+[terrible-limbed](bhīmāṅgaṃ) [ḍāmara-roar](ḍāmarārāvaṃ) [terrible](bhīmaṃ) [vetāla-crusher](vetālamardakam)
 
 ## mukta-m0-p10-v244
-[t1-gloss](triśiraṃ) [t1-gloss](caikapādaṃ) [t1-gloss](tu) [t1-gloss](siddhayogeśvarīmatam)
+[three-headed](triśiraṃ) [ca](ca) [one-footed](ekapādaṃ) [tu](tu) [siddha-yogeśvarī-opinion](siddhayogeśvarīmatam)
 
 ## mukta-m0-p10-v245
-[t1-gloss](viśvarikaṇṭha) [t1-gloss](saṅkocaṃ) [t1-gloss](tilakodyānabhairavam)
+[universe-throat](viśvarikaṇṭha) [contraction](saṅkocaṃ) [tilaka-garden-bhairava](tilakodyānabhairavam)
 
 ## mukta-m0-p10-v246
-[t1-gloss](catuḥ) [t1-gloss](ṣaṣṭipramāṇāni) [t1-gloss](dakṣiṇāsyādbhavāni) [t1-gloss](ca)
+[sixty-four](catuḥ) [measure](ṣaṣṭipramāṇāni) [from-southern-face](dakṣiṇāsyādbhavāni) [ca](ca)
 
 ## mukta-m0-p10-v247
-[t1-gloss](karapūjāvidhānaṃ) [t1-gloss](tu) [t1-gloss](vīṇātantraṃ) [t1-gloss](taduttaram)
+[hand-worship-rite](karapūjāvidhānaṃ) [tu](tu) [vīṇā-tantra](vīṇātantraṃ) [thereafter](taduttaram)
 
 ## mukta-m0-p10-v248
-[t1-gloss](siddhanityodayaṃ) [t1-gloss](jyeṣṭhaṃ) [t1-gloss](cintāmaṇimahodayam)
+[siddha-eternal-rising](siddhanityodayaṃ) [eldest](jyeṣṭhaṃ) [cintāmaṇi-great-rising](cintāmaṇimahodayam)
 
 ## mukta-m0-p10-v249
-[t1-gloss](ānandarudrabhadrākhyaṃ) [t1-gloss](kiṅkaraṃ) [t1-gloss](kiṅkarānugam)
+[ānanda-rudra-bhadra-named](ānandarudrabhadrākhyaṃ) [servant](kiṅkaraṃ) [servant-follower](kiṅkarānugam)
 
 ## mukta-m0-p10-v250
-[t1-gloss](vāmadaṃ) [t1-gloss](vāmadevoktaṃ) [t1-gloss](caturviṃśatibhedagam)
+[left-giving](vāmadaṃ) [vāmadeva-spoken](vāmadevoktaṃ) [twenty-four-division-born](caturviṃśatibhedagam)
