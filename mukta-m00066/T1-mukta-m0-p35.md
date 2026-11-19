@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p35-v851
-upariṣṭād-above dūtikāyāṃ-messenger-loc sthitāyāmeva-standing jāyate-born
+[above](upariṣṭād) [messenger-in](dūtikāyāṃ) [standing-indeed](sthitāyāmeva) [arises](jāyate)
 
 ## mukta-m0-p35-v852
-kiṃcit-some caracchuklabiṃdu-moving-white-drop kapaṭeṃduvibhūṣitaḥ-deceit-moon-ornamented
+[some-moving-white-drop](kiṃciccaracchuklabiṃdu) [deceptive-moon-ornamented](kapaṭeṃduvibhūṣitaḥ)
 
 ## mukta-m0-p35-v853
-yonigolakasaṃchannaḥ-womb-globe-covered prakarotyūrdhvatāṇḍavam-does-upward-dance
+[womb-sphere-covered](yonigolakasaṃchannaḥ) [does-upward-dance](prakarotyūrdhvatāṇḍavam)
 
 ## mukta-m0-p35-v854
-puruṣāyitaśabdena-masculine-word ghuṣyate-proclaimed madanāgame-love-arrival
+[man-acted-word-by](puruṣāyitaśabdena) [proclaimed](ghuṣyate) [love-arrival-in](madanāgame)
 
 ## mukta-m0-p35-v855
-uparyullasati-above-shines svairam-freely utkaṃpi-trembling kucamaṃḍalā-breast-circle
+[shines-above](uparyullasati) [freely](svairam) [trembling](utkaṃpi) [breast-circle](kucamaṃḍalā)
 
 ## mukta-m0-p35-v856
-tatastu-then cāṃdramamṛtaṃ-moon-nectar śivatvasya-śiva-ness pradāyakam-giving
+[then](tatastu) [moon-nectar](cāṃdramamṛtaṃ) [of-śiva-ness](śivatvasya) [giver](pradāyakam)
 
 ## mukta-m0-p35-v857
-juhuyādāhutiṃ-offer-oblation ṣaṭhīṃ-sixth maṃtreṇānena-mantra-by sādhakaḥ-practitioner
+[offer-oblation](juhuyādāhutiṃ) [sixth](ṣaṭhīṃ) [by-mantra-this](maṃtreṇānena) [practitioner](sādhakaḥ)
 
 ## mukta-m0-p35-v858
-arcayāmi-worship bhavdgātra-your-limb mataḥ-from-me siddhiṃ-success prayacchame-give
+[worship-I](arcayāmi) [your-limb](bhavdgātra) [from-this](mataḥ) [success](siddhiṃ) [give-me](prayacchame)
 
 ## mukta-m0-p35-v859
-somāmṛtaṃ-moon-nectar paraṃ-supreme pītvā-drinking cāgniṣomasvarūpadhṛk-fire-moon-form-bearing
+[moon-nectar](somāmṛtaṃ) [supreme](paraṃ) [having-drunk](pītvā) [and-fire-moon-form-bearer](cāgniṣomasvarūpadhṛk)
 
 ## mukta-m0-p35-v860
-mahādevasya-great-god saṃsiddhiṃ-perfection somatattvasya-moon-principle paśyatām-seeing
+[of-great-god](mahādevasya) [perfection](saṃsiddhiṃ) [moon-principle](somatattvasya) [of-seers](paśyatām)
 
 ## mukta-m0-p35-v861
-labhate-obtains caṃdravat-moon-like kāṃtiṃ-radiance kāṃtyā-radiance viśvavimohinīm-world-deluding
+[obtains](labhate) [moon-like](caṃdravat) [radiance](kāṃtiṃ) [radiance-by-universe-bewitching](kāṃtyāviśvavimohinīm)
 
 ## mukta-m0-p35-v862
-caṃdrasaumya-moon-gentle mukhatvaṃ-face-ness ca-and viṣanāśanapāṭavam-poison-destroying-skill
+[moon-gentle](caṃdrasaumya) [face-ness](mukhatvaṃ) [and](ca) [poison-destruction-skill](viṣanāśanapāṭavam)
 
 ## mukta-m0-p35-v863
-vājīkaraṇalābhaṃ-virility-gain ca-and vināmaṃtrair-without-mantras vinauṣadhaiḥ-without-herbs
+[aphrodisiac-gain](vājīkaraṇalābhaṃ) [and](ca) [without-mantras-without-medicines](vināmaṃtrairvinauṣadhaiḥ)
 
 ## mukta-m0-p35-v864
-bhogeṣva-in-enjoyments nava-sādaṃ-new-fatigue ca-and prāpnotyānaṃda-pūrṇatām-obtains-bliss-fullness
+[in-enjoyments](bhogeṣva) [new-fatigue](navasādaṃ) [and](ca) [obtains-bliss](prāpnotyānaṃda) [fullness](pūrṇatām)
 
 ## mukta-m0-p35-v865
-ekākāreṇa-one-form sarveṣāmiṃdriyāṇāṃ-all-senses vilīnatā-dissolution
+[single-form-by](ekākāreṇa) [of-all-senses](sarveṣāmiṃdriyāṇāṃ) [dissolution](vilīnatā)
 
 ## mukta-m0-p35-v866
-apāṃgemukulībhāvaḥ-water-limb-bud-state kāṃtirunmeṣiṇīmukhe-radiance-opening-face
+[water-tip-bud-state](apāṃgemukulībhāvaḥ) [radiance-opening-face](kāṃtirunmeṣiṇīmukhe)
 
 ## mukta-m0-p35-v867
-atiśītalakarpūra-very-cool-camphor parāgairivaliṃpati-pollen-anoints
+[very-cool-camphor](atiśītalakarpūra) [pollen-like-anoints](parāgairivaliṃpati)
 
 ## mukta-m0-p35-v868
-kaṃpracūcukacārubhyāṃ-beautiful-nipples pūrṇābhyāṃ-full pulakāṃkuraiḥ-hair-erect
+[with-beautiful-nipples-full](kaṃpracūcukacārubhyāṃ) [with-goosebumps](pūrṇābhyāṃ) [pulakāṃkuraiḥ](pulakāṃkuraiḥ)
 
 ## mukta-m0-p35-v869
-padavikṣepasakṣepa-foot-steps protkṣepaṇa-vidhāśataiḥ-hundred-ways
+[foot-movement-throwing](padavikṣepasakṣepa) [upward-throwing](protkṣepaṇa) [methods-hundreds](vidhāśataiḥ)
 
 ## mukta-m0-p35-v870
-haṭhātka-suddenly grahābharttur-planet-lord haṭhācca-suddenly paricuṃbanam-kissing
+[suddenly](haṭhātka) [and](ca) [planet-lord's](grahābhartturhaṭhācca) [kissing](paricuṃbanam)
 
 ## mukta-m0-p35-v871
-muhurutkṣipyanāthasya-repeatedly-raising-lord kaṃṭhaṃ-throat tatra-there radakṣatiḥ-tooth-scratch
+[repeatedly-raising-lord's](muhurutkṣipyanāthasya) [neck](kaṃṭhaṃ) [there](tatra) [tooth-scratch](radakṣatiḥ)
 
 ## mukta-m0-p35-v872
-tatkālenātha-then-lord gātreṣu-limbs caṃdrāvasthā-moon-state vilokanam-seeing
+[at-that-time-lord](tatkālenātha) [limbs-in](gātreṣu) [moon-state](caṃdrāvasthā) [seeing](vilokanam)
 
 ## mukta-m0-p35-v873
-ayināthamanonātha-mind-lord prāṇanātha-life-lord priyāpriye-dear-undear
+[this-lord](ayināthamanonātha) [mind-lord](prāṇanātha) [dear-not-dear](priyāpriye)
 
 ## mukta-m0-p35-v874
-madaṃbānāthamannātha-intoxicating-mother-lord-food-lord reremuṃcavimuṃcamāṃ-release-release-me
+[intoxication-mother-lord](madaṃbānāthamannātha) [release-release-me](reremuṃcavimuṃcamāṃ)
 
 ## mukta-m0-p35-v875
-kāhaṃ-who-am-I kastvaṃ-who-are-you kasyagṛhaṃ-whose-house etat-this kinnumayocyate-what-said-by-me
+[who-am-I](kāhaṃ) [who-are-you](kastvaṃ) [whose-house](kasyagṛhaṃ) [this](etat) [what-by-me-said](kinnumayocyate)
