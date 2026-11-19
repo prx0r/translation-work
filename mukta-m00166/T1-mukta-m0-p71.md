@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p71-v1751
-[bhūta+bhāvi+vibhāvinī](bhūtabhāvivibhāvinī)
+[bhūta-bhāvi-vibhāvinī](bhūtabhāvivibhāvinī)
 
 ## mukta-m0-p71-v1752
-[ataḥ+anyaḥ](ato'nyaḥ) [kaḥ](kaḥ) [sadā+ādi+antaḥ](sadādyantastvāṃ) [tvām](tvāṃ) [vibhāvayitum](vibhāvayituṃ) [kṣamaḥ](kṣamaḥ)
+[ataḥ+anyaḥ+kaḥ+sadā+ādi+antaḥ+tvām+vibhāvayitum+kṣamaḥ](ato'nyaḥ kaḥ sadādyantastvāṃ vibhāvayituṃ kṣamaḥ)
 
 ## mukta-m0-p71-v1753
 [maṅgalā](maṅgalā)
 
 ## mukta-m0-p71-v1754
-[sā](sā) [maṅgalā](maṅgalā) [astu](astvasya) [asya](asya) [sadā](sadā) [sahāyā](sahāyā)
+[sā+maṅgalā+astu+asya+sadā+sahāyā](sā maṅgalāstvasya sadā sahāyā)
 
 ## mukta-m0-p71-v1755
 [suśīlā](suśīlā)
 
 ## mukta-m0-p71-v1756
-[svayam](svayaṃ) [suśīlā](suśīlā) [yadi](yadi) [na+abhaviṣyaḥ](nābhaviṣyaḥ)
+[svayam+suśīlā+yadi+na+abhaviṣyaḥ](svayaṃ suśīlā yadi nābhaviṣyaḥ)
 
 ## mukta-m0-p71-v1757
 [paramārtha+prabodhikā](paramārthaprabodhikā)
 
 ## mukta-m0-p71-v1758
-[yadā+āptyā](yadāptyā) [bhrāmakān+anyān+arthān](bhrāmakānanyānarthāñ) [jānāmi](jānāmi) [śaṣpavat](śaṣpavat)
+[yadā+āptyā+bhrāmakān+anyān+arthān+jānāmi+śaṣpavat](yadāptyā bhrāmakānanyānarthāñ jānāmi śaṣpavat)
 
 ## mukta-m0-p71-v1759
 [dakṣiṇā](dakṣiṇā)
 
 ## mukta-m0-p71-v1760
-[yataḥ+tataḥ+tataprajñaiḥ](yatastatastataprajñairdakṣiṇeti) [dakṣiṇā](dakṣiṇeti) [iti](iti) [prakīrtyase](prakīrtyase)
+[yataḥ+tataḥ+tataprajñaiḥ+dakṣiṇā+iti+prakīrtyase](yatastatastataprajñairdakṣiṇeti prakīrtyase)
 
 ## mukta-m0-p71-v1761
 [dakṣiṇāmūrtiḥ](dakṣiṇāmūrtiḥ)
 
 ## mukta-m0-p71-v1762
-[sā](sā) [dakṣiṇāmūrtiḥ](dakṣiṇāmūrtiriti) [iti](iti) [prasiddhā](prasiddhā)
+[sā+dakṣiṇāmūrtiḥ+iti+prasiddhā](sā dakṣiṇāmūrtiriti prasiddhā)
 
 ## mukta-m0-p71-v1763
 [sudakṣiṇā](sudakṣiṇā)
 
 ## mukta-m0-p71-v1764
-[satyaṃ](satyaṃ) [tataḥ](tato) [devi](devi) [sudakṣiṇā](sudakṣiṇāsi) [asi](asi)
+[satyam+tataḥ+devi+sudakṣiṇā+asi](satyaṃ tato devi sudakṣiṇāsi)
 
 ## mukta-m0-p71-v1765
 [haripriyā](haripriyā)
 
 ## mukta-m0-p71-v1766
-[śauriḥ](śauriryaddayayā) [yad+dayayā](yaddayayā) [devī](devī) [kīrtitā](kīrtitā) [sā](sā) [haripriyā](haripriyā)
+[śauriḥ+yat+dayayā+devī+kīrtitā+sā+haripriyā](śauriryaddayayā devī kīrtitā sā haripriyā)
 
 ## mukta-m0-p71-v1767
 [yoginī](yoginī)
 
 ## mukta-m0-p71-v1768
-[roga+śoka+vinivartitāśayā](rogaśokavinivartitāśayā) [yoginī](yoginī) [subhaga+yoga+dā](subhagayogadāstu) [astu](astu) [sā](sā)
+[roga+śoka+vinivartita+āśayā+yoginī+subhaga+yoga+dā+astu+sā](rogaśokavinivartitāśayā yoginī subhagayogadāstu sā)
 
 ## mukta-m0-p71-v1769
 [yogayuktā](yogayuktā)
 
 ## mukta-m0-p71-v1770
-[cidānanda+eva](cidānandaiva) [yat+nityaṃ](yannityaṃ) [yogayuktā](yogayuktā) [tataḥ](tataḥ) [svataḥ](svataḥ)
+[cidānanda+eva+yat+nityam+yogayuktā+tataḥ+svataḥ](cidānandaiva yannityaṃ yogayuktā tataḥ svataḥ)
 
 ## mukta-m0-p71-v1771
 [yogāṅgā](yogāṅgā)
 
 ## mukta-m0-p71-v1772
-[āpannānām+āpad+anta+eka+hetuḥ](āpannānāmāpadantaikaheturyogāṅgeyaṃ) [yogāṅgā](yogāṅgeyaṃ) [iyam](iyam) [kīrtitā](kīrtitā) [yogināthaiḥ](yogināthaiḥ)
+[āpannānām+āpad+anta+eka+hetuḥ+yogāṅgā+iyam+kīrtitā+yogināthaiḥ](āpannānāmāpadantaikaheturyogāṅgeyaṃ kīrtitā yogināthaiḥ)
 
 ## mukta-m0-p71-v1773
 [dhyānaśālinī](dhyānaśālinī)
 
 ## mukta-m0-p71-v1774
-[sarva+dhyeyā+api](sarvadhyeyāpi) [sarvā](sarvāsi) [asi](asi) [tvam](tvaṃ) [yasya](yasya) [dhyānaśālinī](dhyānaśālinī)
+[sarva+dhyeyā+api+sarvā+asi+tvam+yasya+dhyānaśālinī](sarvadhyeyāpi sarvāsi tvaṃ yasya dhyānaśālinī)
 
 ## mukta-m0-p71-v1775
-[yoga+paṭṭa+dhārā](yogapaṭṭadharā)
+[yogapaṭṭadharā](yogapaṭṭadharā)
