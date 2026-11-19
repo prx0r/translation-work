@@ -2,52 +2,52 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p143-v3551
-[those-indeed](tāneva) [questions-says](praśnānāha) [-]( - ) [space-etc](ākāśādityādi) [|]( | ) [she](sā) [asked-form](pṛṣṭarūpā)
+[those](tāneva) [questions](praśnān) [says](āha) [from-space-etc](ākāśādityādi) [she](sā) [question-form](pṛṣṭarūpā)
 
 ## mukta-m0-p143-v3552
 [shining-form](sphuradrūpā) [self-abiding](svātmasaṃsthā) [hear](śṛṇu) [you](tvaṃ) [brahma-rakshasa](brahmarākṣasa)
 
 ## mukta-m0-p143-v3553
-[all-inner-ness](sarvāntaratvāt) [and](ca) [imperceptibility](agocaratvāt) [subtlety](sūkṣmatvam) [|]( | ) [self-abiding](svātmasaṃsthā) [own-form](svarūpa) [indeed](eva) [established](sthitā)
+[all-inner](sarvāntaratvāt) [not-object](agocaratvāt) [ca](ca) [subtlety](sūkṣmatvam) [self-abiding](svātmasaṃsthā) [own-form](svarūpa) [eva](eva) [stood](sthitā)
 
 ## mukta-m0-p143-v3554
-[shining-ness](sphurattvaṃ) [what](kiṃ) [what-self](kimātmā) [ca](ca) [say](vadaitannṛpanandana)
+[shiningness](sphurattvaṃ) [what](kiṃ) [what-self](kimātmā) [ca](ca) [say](vadaitannṛpanandana)
 
 ## mukta-m0-p143-v3555
-[spread](vitatā) [subtle](sūkṣmā) [also](api) [one](ekā) [ca](ca) [how](kathaṃ) [become](bhavet)
+[spread](vitatā) [subtle](sūkṣmā) [api](api) [one](ekā) [ca](ca) [how](kathaṃ) [become](bhavet)
 
 ## mukta-m0-p143-v3556
-[shining-ness](sphurattvam) [self](ātmā) [ca](ca) [consciousness](citiḥ) [hear](śṛṇu) [you](tvaṃ) [brahma-rakshasa](brahmarākṣasa)
+[shiningness](sphurattvam) [self](ātmā) [ca](ca) [consciousness](citiḥ) [hear](śṛṇu) [you](tvaṃ) [brahma-rakshasa](brahmarākṣasa)
 
 ## mukta-m0-p143-v3557
-[consciousness-only](cinmātrameva) [|]( |) [not](na) [from-that](tato) [more](adhikamiti) [purport](tātparyam)
+[consciousness-only](cinmātrameva) [na](na) [from-that](tato) [adhikam](adhikam) [iti](iti) [purport](tātparyam)
 
 ## mukta-m0-p143-v3558
 [by-perception](upalabdhyā) [ca](ca) [what](kiṃ) [vā](vā) [syāt](syād) [say](vadaitannṛpanandana)
 
 ## mukta-m0-p143-v3559
-[by-perception](upalabdhyā) [birth](janirna) [not](na) [syāt](syācchṛṇu) [you](tvaṃ) [brahma-rakshasa](brahmarākṣasa)
+[by-perception](upalabdhyā) [birth](janir) [na](na) [syāt](syāc) [hear](śṛṇu) [you](tvaṃ) [brahma-rakshasa](brahmarākṣasa)
 
 ## mukta-m0-p143-v3560
-[self-consciousness-only-form-attainment](svātmacinmātrākāratāsampattiḥ) [|]( |) [by-this](etena) [deluded-samadhi](mūḍhasamādhirvyāvṛttaḥ)
+[self-consciousness-only-form-attainment](svātmacinmātrākāratāsampattiḥ) [by-this](etena) [deluded-samadhi](mūḍhasamādhir) [vyāvṛttaḥ](vyāvṛttaḥ)
 
 ## mukta-m0-p143-v3561
-[birth](janirvā) [api](api) [bhavet](bhavet) [kā](kā) [sā](sā) [say](vadaitannṛpanandana)
+[birth](janir) [vā](vā) [api](api) [bhavet](bhavet) [kā](kā) [sā](sā) [say](vadaitannṛpanandana)
 
 ## mukta-m0-p143-v3562
-[birth](janirdehātmatābuddhiḥ) [hear](śṛṇu) [you](tvaṃ) [brahma-rakshasa](brahmarākṣasa)
+[birth](janir) [body-self-idea](dehātmatābuddhiḥ) [hear](śṛṇu) [you](tvaṃ) [brahma-rakshasa](brahmarākṣasa)
 
 ## mukta-m0-p143-v3563
-[visible-outwardness](dṛśyānunmukhatvam)
+[object-facing](dṛśyānunmukhatvam)
 
 ## mukta-m0-p143-v3564
 [birth](janiḥ) [how](kathaṃ) [vā](vā) [samprāptā](samprāptā) [say](vadaitannṛpanandana)
 
 ## mukta-m0-p143-v3565
-[why](kasmānnimittāt) [|]( |) [by-what](kena) [instrument](karaṇena)
+[from-what-cause](kasmānnimittāt) [by-what-instrument](kena karaṇena)
 
 ## mukta-m0-p143-v3566
-[birth](janiḥ) [doership-ego](kartṛtvābhimānācchṛṇu) [you](tvaṃ) [brahma-rakshasa](brahmarākṣasa)
+[birth](janiḥ) [doership-ego](kartṛtvābhimānāt) [hear](śṛṇu) [you](tvaṃ) [brahma-rakshasa](brahmarākṣasa)
 
 ## mukta-m0-p143-v3567
 [by-self](ātmanā) [by-own](svenaiva) [instrument-independence](karaṇāntaranairapekṣyeṇeti) [yāvat](yāvat)
@@ -56,16 +56,16 @@
 [who](ko) [vā](vā) [doership-ego](kartṛtvābhimāno) [say](vadaitannṛpanandana)
 
 ## mukta-m0-p143-v3569
-[that](tadvāsanābhimānaḥ) [syāt](syācchṛṇu) [you](tvaṃ) [brahma-rakshasa](brahmarākṣasa)
+[that](tadvāsanābhimānaḥ) [syāt](syāc) [hear](śṛṇu) [you](tvaṃ) [brahma-rakshasa](brahmarākṣasa)
 
 ## mukta-m0-p143-v3570
 [impression](saṃskāraḥ)
 
 ## mukta-m0-p143-v3571
-[its](tasyā) [api](api) [what](kiṃ) [cause](kāraṇaṃ) [syād](syād) [say](vadaitannṛpanandana)
+[of-that](tasyā) [api](api) [what](kiṃ) [cause](kāraṇaṃ) [syād](syād) [say](vadaitannṛpanandana)
 
 ## mukta-m0-p143-v3572
-[its](tasya) [non-discrimination-destroyer](avivekanāśakasya) [|]( |) [its](tasyāpi) [that-cause](tatkāraṇasyāpi)
+[of-that](tasya) [non-discrimination-destroyer](avivekanāśakasya) [of-that-cause](tasyāpi tatkāraṇasyāpi)
 
 ## mukta-m0-p143-v3573
 [that-cause](tatkāraṇaṃ) [fault-seeing](doṣadṛṣṭiḥ) [hear](śṛṇu) [you](tvaṃ) [brahma-rakshasa](brahmarākṣasa)
@@ -74,4 +74,4 @@
 [object-fault-seeing](viṣayadoṣadṛṣṭiḥ)
 
 ## mukta-m0-p143-v3575
-[fault-seeing](doṣadṛṣṭiśca) [kā](kā) [proktā](proktā) [say](vadaitannṛpanandana)
+[fault-seeing](doṣadṛṣṭiś) [ca](ca) [kā](kā) [proktā](proktā) [say](vadaitannṛpanandana)
