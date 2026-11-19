@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p112-v2776
-[tasmāt](tasmāt) [kuryāt](kuryāt) [apām](apāṃ) [mārge](mārge) [dve](dve) [dve](dve) [randhraiḥ](randhraiḥ) [mahī-kramāt](mahīkramāt)
+[tasmāt](tasmāt) [kuryāt](kuryāt) [apām](apām) [mārge](mārge) [dve](dve) [dve](dve) [randhraiḥ](randhraiḥ) [mahīkramāt](mahīkramāt)
 
 ## mukta-m0-p112-v2777
-[rāmāṃśaiḥ](rāmāṃśaiḥ) [tatra](tatra) [piṇḍī](piṇḍī) [syāt](syāt) [ṛtu-veda-yamāṃśakaiḥ](ṛtuvedayamāṃśakaiḥ)
+[rāmāṃśaiḥ](rāmāṃśaiḥ) [tatra](tatra) [piṇḍī](piṇḍī) [syāt](syāt) [ṛtuvedayamāṃśakaiḥ](ṛtuvedayamāṃśakaiḥ)
 
 ## mukta-m0-p112-v2778
-[niṣkrāntiḥ](niṣkrāntiḥ) [diśa-diśyā](diśadiśyaiva) [eva](diśadiśyaiva) [nava](nava) [eva](navaiva) [rathakāḥ](rathakā) [matāḥ](matāḥ)
+[niṣkrāntiḥ](niṣkrāntiḥ) [diśadiśyā](diśadiśyā) [eva](eva) [nava](nava) [eva](eva) [rathakāḥ](rathakāḥ) [matāḥ](matāḥ)
 
 ## mukta-m0-p112-v2779
-[kṛtvā](kṛtvā) [aṣṭādaśabhiḥ](aṣṭādaśabhir) [bhūḥ](bhūḥ) [syāt](syāt) [anya-eka-ekam](anyaikaikaṃ) [vinā](vinā) [kramāt](kramāt)
+[kṛtvā](kṛtvā) [aṣṭādaśabhiḥ](aṣṭādaśabhiḥ) [bhūḥ](bhūḥ) [syāt](syāt) [anyaikaikaṃ](anyaikaikaṃ) [vinā](vinā) [kramāt](kramāt)
 
 ## mukta-m0-p112-v2780
-[catur-dvāram](caturdvāraṃ) [catur-nāsam](caturnāsaṃ) [vicitra-kuharaiḥ](vicitrakuharaiḥ) [yutam](yutam)
+[caturdvāraṃ](caturdvāraṃ) [caturnāsaṃ](caturnāsaṃ) [vicitrakuharaiḥ](vicitrakuharaiḥ) [yutam](yutam)
 
 ## mukta-m0-p112-v2781
-[daśa-ūna-śata-śṛṅgam](daśonaśataśṛṅgaṃ) [ca](ca) [vidadhyāt](vidadhyān) [mandaram](mandaraṃ) [sudhīḥ](sudhīḥ)
+[daśonaśataśṛṅgaṃ](daśonaśataśṛṅgaṃ) [ca](ca) [vidadhyāt](vidadhyāt) [mandaraṃ](mandaraṃ) [sudhīḥ](sudhīḥ)
 
 ## mukta-m0-p112-v2782
-[guṇam](guṇaṃ) [rūpam](rūpaṃ) [tad-agre](tadagre) [ca](ca) [bhūḥ](bhūḥ) [tiryak-vahnim](tiryagvahniṃ) [vināśayet](vināśayet)
+[guṇaṃ](guṇaṃ) [rūpaṃ](rūpaṃ) [tadagre](tadagre) [ca](ca) [bhūḥ](bhūḥ) [tiryagvahniṃ](tiryagvahniṃ) [vināśayet](vināśayet)
 
 ## mukta-m0-p112-v2783
-[tadvat](tadvalluptvā) [luptvā](tadvalluptvā) [antare](ntare) [madhya-ardha-ratham](madhyārdharathaṃ) [sthāpayet](sthāpayej) [jalaiḥ](jalaiḥ)
+[tadvat](tadvat) [luptvā](luptvā) [antare](antare) [madhyārdharathaṃ](madhyārdharathaṃ) [sthāpayet](sthāpayet) [jalaiḥ](jalaiḥ)
 
 ## mukta-m0-p112-v2784
 [mādivat](mādivat)
 
 ## mukta-m0-p112-v2785
-[śeṣa-eka-eka-parityāgāt](śeṣaikaikaparityāgāt) [arka-bhūmi-samucchrayam](arkabhūmīsamucchrayam)
+[śeṣaikaikaparityāgāt](śeṣaikaikaparityāgāt) [arkabhūmīsamucchrayam](arkabhūmīsamucchrayam)
 
 ## mukta-m0-p112-v2786
-[aśīti-śṛṅga-sayuktam](aśītiśṛṅgasayuktaṃ) [kailāsam](kailāsaṃ) [ghaṭayet](ghaṭayed) [varam](varam)
+[aśītiśṛṅgasayuktaṃ](aśītiśṛṅgasayuktaṃ) [kailāsaṃ](kailāsaṃ) [ghaṭayed](ghaṭayed) [varam](varam)
 
 ## mukta-m0-p112-v2787
-[tri-kṣayāt](trikṣayāt) [vāmataḥ](vāmataḥ) [koṇaḥ](koṇaḥ) [tayoḥ](tayoḥ) [stambhaḥ](stambhaḥ) [tanu-kṣayāt](tanukṣayāt)
+[trikṣayāt](trikṣayāt) [vāmataḥ](vāmataḥ) [koṇaḥ](koṇaḥ) [tayoḥ](tayoḥ) [stambhaḥ](stambhaḥ) [tanukṣayāt](tanukṣayāt)
 
 ## mukta-m0-p112-v2788
-[ittham](itthamevāparārdhaṃ) [eva](itthamevāparārdhaṃ) [aparārdham](itthamevāparārdhaṃ) [syāt](syāt) [catuḥ](catu) [dikṣu](dikṣu) [samantataḥ](samantataḥ)
+[ittham](ittham) [eva](eva) [aparārdhaṃ](aparārdhaṃ) [syāt](syāt) [catuḥ](catuḥ) [dikṣu](dikṣu) [samantataḥ](samantataḥ)
 
 ## mukta-m0-p112-v2789
-[sa-kapāṭa-argalaiḥ](sakapāṭārgalair) [veda-ghaṭaiḥ](vedaghaṭair) [nāga-gavākṣakaiḥ](nāgagavākṣakaiḥ)
+[sakapāṭārgalaiḥ](sakapāṭārgalaiḥ) [vedaghaṭaiḥ](vedaghaṭaiḥ) [nāgagavākṣakaiḥ](nāgagavākṣakaiḥ)
 
 ## mukta-m0-p112-v2790
-[tad-ūrdhva-eka-eka-saṃhrāsāt](tadūrdhvaikaikasaṃhrāsāt) [kartavyāḥ](kartavyā) [bhūmayaḥ](bhūmayo) [daśa](daśa)
+[tadūrdhvaikaikasaṃhrāsāt](tadūrdhvaikaikasaṃhrāsāt) [kartavyāḥ](kartavyāḥ) [bhūmayaḥ](bhūmayaḥ) [daśa](daśa)
 
 ## mukta-m0-p112-v2791
-[kuharāṇi](kuharāṇi) [suraiḥ](surair) [madhye](madhye) [rathake](rathake) [syuḥ](syur) [vimānakau](vimānakau)
+[kuharāṇi](kuharāṇi) [suraiḥ](suraiḥ) [madhye](madhye) [rathake](rathake) [syuḥ](syuḥ) [vimānakau](vimānakau)
 
 ## mukta-m0-p112-v2792
-[dvāra-eka-aṣṭa-samādyeśaḥ](dvāraikāṣṭasamādyeśaḥ) [saptatibhiḥ](saptatibhir) [viṣāṇakaiḥ](viṣāṇakaiḥ)
+[dvāraikāṣṭasamādyeśaḥ](dvāraikāṣṭasamādyeśaḥ) [saptatibhiḥ](saptatibhiḥ) [viṣāṇakaiḥ](viṣāṇakaiḥ)
 
 ## mukta-m0-p112-v2793
-[bhāga-eka-ekena](bhāgaikaikena) [saṃveśāt](saṃveśāt) [tri-aṃśaiḥ](tryaṃśaiḥ) [ca](ca) [upara-dhau](uparadhau) [matau](matau)
+[bhāgaikaikena](bhāgaikaikena) [saṃveśāt](saṃveśāt) [tryaṃśaiḥ](tryaṃśaiḥ) [ca](ca) [uparadhau](uparadhau) [matau](matau)
 
 ## mukta-m0-p112-v2794
-[sāndhāraḥ](sāndhāraś) [catur-āsyaḥ](caturāsyaś) [ca](ca) [veda-agro](vedā"ghro) [bhramaṇa-anvitaḥ](bhramaṇānvitaḥ)
+[sāndhāraḥ](sāndhāraḥ) [caturāsyaḥ](caturāsyaḥ) [ca](ca) [vedāghraḥ](vedāghraḥ) [bhramaṇānvitaḥ](bhramaṇānvitaḥ)
 
 ## mukta-m0-p112-v2795
-[vidyādhāra-ākulaiḥ](vidyādhārākulai) [ramyaiḥ](ramyair) [bhadraḥ](bhadraḥ) [syāt](syāt) [ṣaṣṭi-śṛṅga-vān](ṣaṣṭiśṛṅgavān)
+[vidyādhārākulaiḥ](vidyādhārākulaiḥ) [ramyaiḥ](ramyaiḥ) [bhadraḥ](bhadraḥ) [syāt](syāt) [ṣaṣṭiśṛṅgavān](ṣaṣṭiśṛṅgavān)
 
 ## mukta-m0-p112-v2796
-[bhadra-bhāgaiḥ](bhadra-bhāgair) [mahā-bhadraḥ](mahābhadraḥ) [proktaḥ](proktaḥ) [sopāna-śobhitaḥ](sopānaśobhitaḥ)
+[bhadra](bhadra) [bhāgaiḥ](bhāgaiḥ) [mahābhadraḥ](mahābhadraḥ) [proktaḥ](proktaḥ) [sopānaśobhitaḥ](sopānaśobhitaḥ)
 
 ## mukta-m0-p112-v2797
-[upariṣṭāt](upariṣṭādvimānāṃśaḥ) [vimānāṃśaḥ](upariṣṭādvimānāṃśaḥ) [kramataḥ](kramato) [meru-mandarau](merumandarau)
+[upariṣṭāt](upariṣṭāt) [vimānāṃśaḥ](vimānāṃśaḥ) [kramataḥ](kramataḥ) [merumandarau](merumandarau)
 
 ## mukta-m0-p112-v2798
-[sarvātmā](sarvātmā) [śikharaiḥ](śikharaiḥ) [kāryaḥ](kāryaḥ) [sarvataḥ-bhadra-ko](sarvatobhadrako) [yataḥ](yataḥ)
+[sarvātmā](sarvātmā) [śikharaiḥ](śikharaiḥ) [kāryaḥ](kāryaḥ) [sarvatobhadrakaḥ](sarvatobhadrakaḥ) [yataḥ](yataḥ)
 
 ## mukta-m0-p112-v2799
-[catur-ghaṭa-samopetaḥ](caturghaṭasamopetaḥ) [sopāna-valabhī-yutaḥ](sopānavalabhīyutaḥ)
+[caturghaṭasamopetaḥ](caturghaṭasamopetaḥ) [sopānavalabhīyutaḥ](sopānavalabhīyutaḥ)
 
 ## mukta-m0-p112-v2800
-[kūṭa-anvita-indu-śālā](kūṭānvitenduśālā) [syāt](syāt) [a-dig-dvāra-aṅghryāsyako](adigdvārāṅghryāsyako) [rucaḥ](rucaḥ)
+[kūṭānvitenduśālā](kūṭānvitenduśālā) [syāt](syāt) [adigdvārāṅghryāsyakaḥ](adigdvārāṅghryāsyakaḥ) [rucaḥ](rucaḥ)
