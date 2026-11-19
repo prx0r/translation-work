@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p105-v2601
-vīra-bhūḥ
+[vīra](vīra) [bhū](bhū) [ḥ](ḥ) [hero-ground](vīrabhūḥ)
 
 ## mukta-m0-p105-v2602
-viśrānteḥ paramā bhūmir vīra-bhūr bhuvi pūjitā
+[viśrānteḥ](viśrānteḥ) [paramā](paramā) [bhūmiḥ](bhūmiḥ) [vīrabhūḥ](vīrabhūḥ) [bhuvi](bhuvi) [pūjitā](pūjitā)
 
 ## mukta-m0-p105-v2603
-vīra-mātā
+[vīra](vīra) [mātā](mātā) [hero-mother](vīramātā) [glory](vīramātā)
 
 ## mukta-m0-p105-v2604
-vīrān yā pāti niṣpātān nir-hetu-prema-nir-bhṛtā
+[vīrān](vīrān) [yā](yā) [pāti](pāti) [niṣpātān](niṣpātān) [nirhetu-prema-nirbhṛtā](nirhetupremanirbhṛtā)
 
 ## mukta-m0-p105-v2605
-vīra-sūḥ
+[vīrasūḥ](vīrasūḥ) [vīra](vīra) [sū](sū) [ḥ](ḥ)
 
 ## mukta-m0-p105-v2606
-vīrān sūte janānāṃ sā vīra-sūḥ kāpi gīyate
+[vīrān](vīrān) [sūte](sūte) [janānāṃ](janānāṃ) [sā](sā) [vīrasūḥ](vīrasūḥ) [kāpi](kāpi) [gīyate](gīyate)
 
 ## mukta-m0-p105-v2607
-vīra-nandinī
+[vīranandinī](vīranandinī) [vīra](vīra) [nandinī](nandinī) [hero-daughter](vīranandinī) [joy](vīranandinī)
 
 ## mukta-m0-p105-v2608
-yad-bhaktās tyakta-pañcatva-bhayāḥ sā vīra-nandinī
+[yat](yat) [bhaktāḥ](bhaktāḥ) [tyakta-pañcatva-bhayāḥ](tyaktapañcatvabhayāḥ) [sā](sā) [vīranandinī](vīranandinī)
 
 ## mukta-m0-p105-v2609
-jaya-śrīḥ
+[jayaśrīḥ](jayaśrīḥ) [jaya](jaya) [śrīḥ](śrīḥ) [victory-glory](jayaśrīḥ) [blessing](jayaśrīḥ)
 
 ## mukta-m0-p105-v2610
-jaya-śrīḥ saiva no bhūyāt saṃnidhau sarvataḥ sadā
+[jayaśrīḥ](jayaśrīḥ) [saiva](saiva) [no](no) [bhūyāt](bhūyāt) [saṃnidhau](saṃnidhau) [sarvataḥ](sarvataḥ) [sadā](sadā)
 
 ## mukta-m0-p105-v2611
-jayadīkṣā
+[jayadīkṣā](jayadīkṣā) [jaya](jaya) [dīkṣā](dīkṣā) [victory-initiation](jayadīkṣā) [grace](jayadīkṣā)
 
 ## mukta-m0-p105-v2612
-yad-dīkṣitā janā bhānti jaya-dīkṣeti sā śivā
+[yat](yat) [dīkṣitā](dīkṣitā) [janāḥ](janāḥ) [bhānti](bhānti) [jayadīkṣā](jayadīkṣā) [iti](iti) [sā](sā) [śivā](śivā)
 
 ## mukta-m0-p105-v2613
-jaya-dā
+[jayadā](jayadā) [jaya](jaya) [dā](dā) [victory-giver](jayadā) [grace](jayadā)
 
 ## mukta-m0-p105-v2614
-yathā dhanaṃjayatvaṃ na āvirbhūyād akṛtrimam
+[yathā](yathā) [dhanaṃjayatvaṃ](dhanaṃjayatvaṃ) [na](na) [āvirbhūyāt](āvirbhūyādakṛtrimam) [akṛtrimam](akṛtrimam)
 
 ## mukta-m0-p105-v2615
-jaya-vardhinī
+[jayavardhinī](jayavardhinī) [jaya](jaya) [vardhinī](vardhinī) [victory-increaser](jayavardhinī) [grace](jayavardhinī)
 
 ## mukta-m0-p105-v2616
-yadi syāt sarvadā satyaṃ sahāyā jaya-vardhinī
+[yadi](yadi) [syāt](syāt) [sarvadā](sarvadā) [satyaṃ](satyaṃ) [sahāyā](sahāyā) [jayavardhinī](jayavardhinī)
 
 ## mukta-m0-p105-v2617
-saubhāgya-subhagākārā
+[saubhāgya-subhagākārā](saubhāgyasubhagākārā) [saubhāgya](saubhāgya) [subhagā](subhagā) [ākārā](ākārā) [auspicious-form](saubhāgyasubhagākārā)
 
 ## mukta-m0-p105-v2618
-kārevāntargataṃ cittaṃ niścalaṃ vidadhāti yā
+[kārevā-antargataṃ](kārevāntargataṃ) [cittaṃ](cittaṃ) [niścalaṃ](niścalaṃ) [vidadhāti](vidadhāti) [yā](yā)
 
 ## mukta-m0-p105-v2619
-sarva-saubhāgya-vardhinī
+[sarvasaubhāgyavardhinī](sarvasaubhāgyavardhinī) [sarva](sarva) [saubhāgya](saubhāgya) [vardhinī](vardhinī) [all-auspicious-increaser](sarvasaubhāgyavardhinī)
 
 ## mukta-m0-p105-v2620
-sahāyā sarvadā sāstu sarva-saubhāgya-vardhinī
+[sahāyā](sahāyā) [sarvadā](sarvadā) [sāstu](sāstu) [sarvasaubhāgyavardhinī](sarvasaubhāgyavardhinī)
 
 ## mukta-m0-p105-v2621
-kṣemaṅkarī
+[kṣemaṅkarī](kṣemaṅkarī) [kṣema](kṣema) [ṅkarī](ṅkarī) [welfare-maker](kṣemaṅkarī) [grace](kṣemaṅkarī)
 
 ## mukta-m0-p105-v2622
-adyāsmi sukhabhāk sadyo dṛṣṭā kṣemaṅkarī yadā
+[adyāsmi](adyāsmi) [sukhabhāk](sukhabhāk) [sadyo](sadyo) [dṛṣṭā](dṛṣṭā) [kṣemaṅkarī](kṣemaṅkarī) [yadā](yadā)
 
 ## mukta-m0-p105-v2623
-siddhi-rūpā
+[siddhirūpā](siddhirūpā) [siddhi](siddhi) [rūpā](rūpā) [perfection-form](siddhirūpā) [grace](siddhirūpā)
 
 ## mukta-m0-p105-v2624
-anyathākhilasiddhīśaḥ kathaṃ syāṃ svātma-siddhitaḥ
+[anyathā](anyathā) [akhila-siddhīśaḥ](akhilasiddhīśaḥ) [kathaṃ](kathaṃ) [syāṃ](syāṃ) [svātma-siddhitaḥ](svātmasiddhitaḥ)
 
 ## mukta-m0-p105-v2625
-sat-kīrtiḥ
+[satkīrtiḥ](satkīrtiḥ) [sat](sat) [kīrtiḥ](kīrtiḥ) [true-glory](satkīrtiḥ) [fame](satkīrtiḥ)
