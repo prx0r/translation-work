@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p36-v876
-not(na) anything(kiṃcid) also(api) know(jānāmi) lord(nātha) awaken(bodhaya) awaken(bodhaya)
+na(not) kiṃcidapi(anything) jānāmi(I-know) nātha(lord) bodhaya(awaken) bodhaya(awaken)
 
 ## mukta-m0-p36-v877
-this(etat) bliss-cause(saukhyanidānāya) well-being-mark(svastiliṃgāya) to-śambhu(śaṃbhave)
+etat(this) saukhyanidānāya(for-bliss-cause) svastiliṃgāya(for-auspicious-sign) śaṃbhave(to-Śambhu)
 
 ## mukta-m0-p36-v878
-to-śiva-offering(śivārpaṇam) this(idaṃ) may-be(bhūyāt) again(punar) be( astu) śiva-offering(śivārpaṇam)
+śivārpaṇam(offering-to-Śiva) idaṃ(this) bhūyāt(may-be) punaḥ(again) astu(let-be) śivārpaṇam(offering-to-Śiva)
 
 ## mukta-m0-p36-v879
-withered(mlānā) lotus-stalk(padma+mṛṇālī) like(iva) garland(mālikā) of-his(asya) chest(vakṣasi)
+mlānā(withered) padmamṛṇālī(lotus-stalk) va(or) mālikevāsya(like-a-garland-on-his) vakṣasi(on-chest)
 
 ## mukta-m0-p36-v880
-absorbed(līna) absorbed(līna) letter(akṣaraṃ) afterwards(paścāt) slow(manda) slow(manda) letter(akṣaraṃ) again(punaḥ)
+līnalīnākṣaraṃ(merged-letters) paścāt(afterwards) maṃdamaṃdākṣaraṃ(slow-slow-letters) punaḥ(again)
 
 ## mukta-m0-p36-v881
-thus(evam) etc(ādi) qualities(guṇa) messenger(dūtyāḥ) sixth-day(ṣaḍāhuti) great-festival(mahotsave)
+evamādiguṇādūtyāḥ(such-qualities-messenger) ṣaḍāhuti(six-offerings) mahotsave(great-festival)
 
 ## mukta-m0-p36-v882
-sixth(ṣaṣṭhi) six-tastes(ṣaḍrasa) endowed(saṃpannā) much-food(bahubhojana) giving(dāyinī)
+ṣaṣṭhiṣaḍrasasaṃpanna(six-six-tastes-endowed) bahubhojanadāyinī(many-food-giving)
 
 ## mukta-m0-p36-v883
-six-limbed-deity(ṣaḍaṃgadevatā) form(rūpā) always(sarvadā) action(kriyatāṃ) by-water(budhaiḥ)
+ṣaḍaṃgadevatā(six-limb-deity) rūpā(form) sarvadākriyatāṃbudhaiḥ(by-all-actors)
 
 ## mukta-m0-p36-v884
-of-heroine(nāyikāyāḥ) ca(ca) by-opening(vidṛtyā) comfort-rest(sukha+śrāṃtiḥ) proceeds(pravartate)
+nāyikāyāśca(of-heroine-and) vidṛtyā(by-opening) sukhaśrāṃtiḥ(comfort-rest) pravartate(proceeds)
 
 ## mukta-m0-p36-v885
-sugar-rock(śarkarā) nectar( amṛta) mixed(saṃmiśraṃ) pure(śuddhi) soup(yūṣa) with-ghee(sanādhitam)
+śarkarāmṛtasaṃmiśraṃ(sugar-nectar-mixed) śuddhiyūṣasanādhitam(pure-soup-prepared)
 
 ## mukta-m0-p36-v886
-oneself(svayaṃ) that(tad) remainder(avaśiṣṭaṃ) ca(ca) drink(pibet) devotion(bhakti) with-reverence(bharānataḥ)
+svayaṃtadavaśiṣṭaṃ(that-remaining) ca(and) pibed(should-drink) bhakti(devotion) bharānataḥ(fully-bowed)
 
 ## mukta-m0-p36-v887
-mantra(maṃtraṃ) ca(ca) of-bliss-god(ānaṃdadevasya) hundredfold(śataśaḥ) or(or) thousandfold(sahasraśaḥ)
+maṃtraṃ(mantra) cānaṃdadevasya(of-Ānandadeva) śataśovāsahasraśaḥ(hundreds-and-thousands)
 
 ## mukta-m0-p36-v888
-unfit(ayukta) yantra(yaṃtraḥ) recite(prajapet) deity-curse(devatā+śāpam) obtain(āpnuyāt)
+ayuktayaṃtraḥ(improper-yantra) prajaped(should-recite) devatāśāpamāpnuyāt(obtains-deity-curse)
 
 ## mukta-m0-p36-v889
-thus(evaṃ) recited(japte) supreme-bliss-form(parānaṃda+rūpi) liṅga-maheśvara(liṃga+maheśvaraḥ)
+evaṃ(thus) japte(recited) parānaṃdarūpi(supreme-bliss-form) liṃgamaheśvaraḥ(Liṅga-Maheśvara)
 
 ## mukta-m0-p36-v890
-as-long-as(yāvat) recites(japati) hero(vīraḥ) ayaṃ(ayaṃ) messenger-rest(dūti+viśrāṃti) for-hetave(hetave)
+yāvajjapati(as-long-as-recites) vīroyaṃ(this-hero) dūtiviśrāṃti(hessenger-rest) hetave(for-cause)
 
 ## mukta-m0-p36-v891
-thus(iththaṃ) gradually(krameṇa) rest(viśrāṃtiṃ) gone(gatāyāṃ) messenger-body(dūtikā+tanau)
+iththaṃ(thus) krameṇa(by-order) viśrāṃtiṃ(rest) gatāyāṃ(having-gone) dūtikātanau(messenger-body)
 
 ## mukta-m0-p36-v892
-moon-crescent(caṃdrarekhā) for-arthaṃ(arthāṃ) by-guḷi(gulinā) raised(pronnatā) moonlight(caṃdra+caṃdrikā)
+caṃdrarekhārthāṃ(for-moon-crescent) gulinā(by-pellet) pronnatā(raised) caṃdracaṃdrikā(moonlight)
 
 ## mukta-m0-p36-v893
-flax(atasī) flower-like(puṣpa+saṃkāśā) triangle-form(trikoṇa+ākāratāṃ) gone(gatā)
+atasī(flax) puṣpasaṃkāśā(flower-like) trikoṇākāratāṃ(triangular-form) gatā(gone)
 
 ## mukta-m0-p36-v894
-long-flowing(ciradravā) api(api) lord(nātha) eka(eka) arranged(kluptaiḥ) thumb(cuṃbanaiḥ)
+ciradravāpi(long-flowing) nāthaika(lord-one) kluptairaṃguṣṭha(thumb-arranged) cuṃbanaiḥ(kisses)
 
 ## mukta-m0-p36-v895
-navel(nābhau) slap(capeṭa) fall(patanaiḥ) buttock(nitaṃbe) hand-massage(hastamardanaiḥ)
+nābhau(on-navel) capeṭa(pat) patanair(falls) nitaṃbe(on-buttocks) hastamardanaiḥ(hand-massages)
 
 ## mukta-m0-p36-v896
-own(nijaṃ) essence(rasaṃ) flowing(sravaṃty) eva(eva) heroine(nāyikā) moonlight(caṃdra+caṃdrikā)
+nijaṃrasaṃ(own-juice) sravaṃtyeva(flowing) nāyikācaṃdracaṃdrikā(heroine-moonlight)
 
 ## mukta-m0-p36-v897
-liquor-fragrance(paiṣṭi+madya+sama+modaṃ) arrow-flower-intense(bāṇa+puṣpa+ulbaṇa+dyuti)
+paiṣṭimadyasamāmodaṃ(grain-liquor-joy) bāṇapuṣpolbaṇadyuti(arrow-flower-bright-radiance)
 
 ## mukta-m0-p36-v898
-attainment(prāpti) siddhi(siddhi) generation(prajananaṃ) all-powers(sarvaiśvarya) speech(vāṅmayam)
+prāptisiddhiprajananaṃ(attainment-accomplishment-procreation) sarvaiśvaryākhyavāṅmayam(all-sovereignty-named-speech)
 
 ## mukta-m0-p36-v899
-all-disease(samasta+vyādhi) pacifying(śamanaṃ) light(laghu) cool(śītala) pure(nirmalam)
+samastavyādhiśamanaṃ(all-disease-pacification) laghuśītalanirmalam(light-cool-pure)
 
 ## mukta-m0-p36-v900
-then(tadā) recited(japet) itaṃ(itaṃ) mantra(maṃtraṃ) ca(ca) palāmbā-deity(palāṃbā+adhidaivatam)
+tadājapeditaṃ(then-recited) maṃtraṃ(mantra) ca(and) palāṃbādhidaivatam(Palāmbā-presiding-deity)
