@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p22-v526
-[excess](udrekāt) [drawing](karṣato) [seen](dṛṣṭaḥ) [time-devouring](kāla+grāsasya) [origin](sambhavaḥ)
+[from-excess](udrekāt) [attracting](karṣato) [seen](dṛṣṭaḥ) [time-devouring's](kālagrāsasya) [origin](sambhavaḥ)
 
 ## mukta-m0-p22-v527
-[steadiness](sthairyam) [attains](eti) [wonder](camatkāro) [without](vinā) [object-attachment](viṣaya+saṅgatim)
+[steadiness](sthairyam) [attains](eti) [wonder](camatkāro) [without](vinā) [object-attachment](viṣayasaṅgatim)
 
 ## mukta-m0-p22-v528
-[measure-ground](pramāṇa+bhūmim) [resorting](āśritya) [four](catasraḥ) [time-powers](kālikāḥ) [established](sthitāḥ)
+[measure-ground](pramāṇabhūmim) [resorting](āśritya) [four](catasraḥ) [time-powers](kālikāḥ) [situated](sthitāḥ)
 
 ## mukta-m0-p22-v529
-[stasis-creation-etc](sthiti+sṛṣṭi+ādi) [difference](bhedena) [fourfold](caturdhā) [time-power-arising](kālikā+udayaḥ)
+[preservation-creation-etc](sthitisṛṣṭyādibhedena) [fourfold](caturdhā) [time-power-arising](kālikodayaḥ)
 
 ## mukta-m0-p22-v530
-[knower-form](pramātṛ+rūpam) [entering](āviśya) [four](catasraḥ) [time-powers](kālikāḥ) [established](sthitāḥ)
+[knower-form](pramātṛrūpam) [entering](āviśya) [four](catasraḥ) [time-powers](kālikāḥ) [situated](sthitāḥ)
 
 ## mukta-m0-p22-v531
-[seeing-touch-enjoyment](darśana+sparśa+sambhoga) [bliss-excess](virāma+udrekatā) [regarded](matāḥ)
+[seeing-touching-enjoyment-detachment](darśanasparśasambhogavirāmodrekatā) [considered](matāḥ)
 
 ## mukta-m0-p22-v532
-[women-wine-meat-enjoyments](strī+madya+māṃsa+bhogeṣu) [wonder-continuity](camatkāra+anuvṛttitaḥ)
+[women-wine-meat](strīmadyamāṃsabhogeṣu) [enjoyments](bhogeṣu) [wonder-continuation](camatkārānuvṛttitaḥ)
 
 ## mukta-m0-p22-v533
-[this](etat) [retinue](parikaraḥ) [other](anyaḥ) [being-group](bhāva+vargaḥ) [established](vyavasthitaḥ)
+[this](etat) [retinue](parikaras) [other](anyo) [emotion-group](bhāvavargo) [established](vyavasthitaḥ)
 
 ## mukta-m0-p22-v534
-[by-this-intent](anena+eva+āśayena+eva) [supreme-brahman-attainment](para+brahma+upalabdhaye)
+[by-this-intent](anenaivāśayenaiva) [supreme-brahman](parabrahma) [attainment](upalabdhaye)
 
 ## mukta-m0-p22-v535
-[thus](tad+ittham) [all-beings](sarva+bhāvānām) [all-experience-grounds](sarva+anubhava+bhūmiṣu)
+[thus](taditthaṃ) [all-beings](sarvabhāvānāṃ) [all-experience-grounds](sarvānubhavabhūmiṣu)
 
 ## mukta-m0-p22-v536
-[proper-thing-inquiry](samyak+vastu+vicāreṇa) [beings-naturelessness](bhāvānām+asvabhāvataḥ)
+[proper-thing-inquiry](samyagvastuvicāreṇa) [beings](bhāvānām) [non-essentiality](āsvabhāvataḥ)
 
 ## mukta-m0-p22-v537
-[thus](iti) [perfected-tradition-reason](siddha+mukha+āmnāya+yuktyā) [not-indeed](na+eva) [exists](asti) [in-reality](vastutaḥ)
+[thus](iti) [siddha-mouth-tradition](siddhamukhāmnāya) [reasoning](yuktyā) [not](na) [exists](asti) [really](vastutaḥ)
 
 ## mukta-m0-p22-v538
-[self-expansion-filled](sva+viṣphāra+mayaṃ) [all](sarvam) [this](idaṃ) [constitution](saṃsthānam) [of-self](ātmanaḥ)
+[self-expansion-filled](svaviṣphāramayaṃ) [all](sarvam) [this](idaṃ) [arrangement](saṃsthānam) [self's](ātmanaḥ)
 
 ## mukta-m0-p22-v539
-[that-devouring-zeal](tad+grāsa+saṃrambha) [intent](parā) [and](yāḥ+ca) [twelve](dvādaśa) [time-powers](kālikāḥ)
+[that-devouring](tadgrāsa) [eagerness](saṃrambha) [intent](parā) [and](ca) [twelve](dvādaśa) [time-powers](kālikāḥ)
 
 ## mukta-m0-p22-v540
-[one-only](eka+eva) [conscious-unconscious-enjoyment](cid+acid+bhoga) [enjoyment-non-enjoyment-marked](bhoga+nirbhoga+lakṣaṇā)
+[one](ekaiva) [consciousness-unconsciousness](cidacid) [enjoyment-enjoyment-non-enjoyment](bhogabhoganirbhoga) [characteristic](lakṣaṇā)
 
 ## mukta-m0-p22-v541
-[conceptual-nonconceptual](sa+vikalpa+avikalpānām) [all](sarvāsām) [consciousness-abode](saṃvid+ālayaḥ)
+[with-concept-without-concept](savikalpāvikalpānāṃ) [all](sarvāsāṃ) [consciousness-abode](saṃvidālayaḥ)
 
 ## mukta-m0-p22-v542
-[immovable](acalā) [motionless](spanda+rahitā) [all-motion-enjoyer](sarva+spanda+upabhoginī)
+[immovable](acalā) [vibration-less](spandarahitā) [all-vibration](sarvaspanda) [enjoyer](upabhoginī)
 
 ## mukta-m0-p22-v543
-[thus](tathā) [worship-transfers](pūjana+saṅkrāmaiḥ) [means](upāyaiḥ) [indicated](upalakṣitā)
+[thus](tathā) [worship-transitions](pūjanasaṅkrāmaiḥ) [means](upāyaiḥ) [marked](upalakṣitā)
 
 ## mukta-m0-p22-v544
-[thirteenth](trayodaśī) [thus](iti) [which](yā) [goddess](devī) [called](kathyate) [indeed](hi) [courtesy](upacārataḥ)
+[thirteenth](trayodaśī) [thus](iti) [goddess](devī) [called](kathyate) [indeed](hi) [courtesy](upacārataḥ)
 
 ## mukta-m0-p22-v545
-[names](abhidhānāni) [occur](vartante) [heart-reaching-reason](hṛdayaṅgama+yuktitaḥ)
+[names](abhidhānāni) [occur](vartante) [heart-reaching](hṛdayaṅgama) [reasoning](yuktitaḥ)
 
 ## mukta-m0-p22-v546
-[time-power-sequence-seenness](kālikā+krama+dṛṣṭatvāt) [courtesy](upacāreṇa) [they](tāḥ) [established](sthitāḥ)
+[time-power](kālikā) [sequence](krama) [seen-ness](dṛṣṭatvāt) [courtesy](upacāreṇa) [they](tāḥ) [situated](sthitāḥ)
 
 ## mukta-m0-p22-v547
-[how](katham) [mantra-reality](mantrasya+sadbhāvaḥ) [that](saḥ) [direct](pratyakṣaḥ) [also](api) [or](vā) [how](katham)
+[how](kathaṃ) [mantra](mantrasya) [existence](sadbhāvaḥ) [that](sa) [direct](pratyakṣo) [even](api) [or](vā) [how](katham)
 
 ## mukta-m0-p22-v548
-[five-lumps-bodied](pañca+piṇḍa+ātmakaḥ) [also](api) [may-be](syāt) [subtle-direct-seer](sūkṣma+pratyakṣa+darśinaḥ)
+[five-lumps](pañcapiṇḍa) [embodied](ātmako) [even](api) [may-be](syāt) [subtle-direct](sūkṣmapratyakṣa) [seer's](darśinaḥ)
 
 ## mukta-m0-p22-v549
-[courtesy](upacāreṇa) [that-function](tad+vṛtti) [time-power](kālikā) [sequence-accessible](krama+gocarā)
+[courtesy](upacāreṇa) [that-function](tadvṛtti) [time-power](kālikā) [sequence-range](kramagocarā)
 
 ## mukta-m0-p22-v550
-[all-desire-free](sarva+ākāṅkṣā+virahitā) [rest](viśrāntiḥ) [arises](jāyate) [supreme](parā)
+[all-desire-free](sarvākāṅkṣāvirahitā) [rest](viśrāntiḥ) [arises](jāyate) [supreme](parā)
