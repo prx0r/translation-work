@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p119-v2951
-[viśrāmya](viśrāmya) [ekām](ekāṃ) [tataḥ](tato) [rātrim](rātriṃ) [gomayena](gomayena) [vilepayet](vilepayet)
+[having-rested](viśrāmya) [one](ekāṃ) [then](tato) [night](rātriṃ) [with-cow-dung](gomayena) [one-should-smear](vilepayet)
 
 ## mukta-m0-p119-v2952
-[śaṇa-phala-aṅghi-kāṣāyai](śaṇaphalyāṅghikāṣāyai) [stopala-tāra-sena](stopalatārasena) [vā](vā)
+[with-hemp-fruit+foot-decoction](śaṇaphalyāṅghikāṣāyai) [with-stone+creeper](stopalatā) [juice](rasena) [or](vā)
 
 ## mukta-m0-p119-v2953
-[utsvinna](utsvinna) [māṣa-toyena](māṣatoyena) [svinna-bilva-ambunā](svinnabilvāmbunā) [api](api) [vā](vā)
+[with-steamed](utsvinna) [black-gram+water](māṣatoyena) [with-steamed+bilva+water](svinnabilvāmbunāpi) [or](vā)
 
 ## mukta-m0-p119-v2954
-[tataḥ](tataś) [colūkhala-ādyaiḥ](colūkhalādyaistu) [tu](tu) [sthūla-cūrṇāni](sthūlacūrṇāni) [kārayet](kārayet)
+[then+and](tataśco) [with-mortar+and-others](lūkhalādyaistu) [coarse+powders](sthūlacūrṇāni) [one-should-make](kārayet)
 
 ## mukta-m0-p119-v2955
-[sthālyā-garbhe](sthālyāgarbhe) [tu](tu) [saṃsthāpya](saṃsthāpya) [tataḥ](tato) [dravyāṇi](drayāṇi) [niḥkṣipet](niḥkṣipet)
+[in-pot+interior](sthālyāgarbhe) [indeed](tu) [having-placed](saṃsthāpya) [then](tato) [substances](drayāṇi) [one-should-put-in](niḥkṣipet)
 
 ## mukta-m0-p119-v2956
-[sikatā](sikrāta) [gavya-dugdhāni](gavyadugdhāni) [sarja-taila-atasī-rajaḥ](sarjatailātasīrajaḥ)
+[wax](sikrāta) [cow+milks](gavyadugdhāni) [sarja+oil](sarjatailā) [flax+produced](tasīrajaḥ)
 
 ## mukta-m0-p119-v2957
-[āmrātaka-ambubhiḥ](āmrātakāmbubhiḥ) [piṣṭam](piṣṭaṃ) [sthūla-āsyā](sthūlāsyā) [dugdhi-kāhvayā](dugdhi)
+[with-hog-plum+waters](āmrātakāmbubhiḥ) [ground](piṣṭaṃ) [of-large-mouthed](sthūlāsyā) [milk](dugdhi) [named](kāhvayā)
 
 ## mukta-m0-p119-v2958
-[kvāthena](kvāthena) [meṣa-śṛṅgasya](meṣaśṛṅgasya) [atasī-cūrṇa-miśritam](atasīcūrṇamiśritam)
+[with-decoction](kvāthena) [of-ram+horn](meṣaśṛṅgasya) [flax+powder](atasīcūrṇa) [mixed](miśritam)
 
 ## mukta-m0-p119-v2959
-[vajra-lepaḥ](vajralepaḥ) [samakhyātaḥ](samakhyātastathā) [sarja-samanvitaḥ](sarjasamanvitaḥ)
+[diamond+plaster](vajralepaḥ) [well-known](samakhyātas) [likewise](tathā) [sarja+endowed](sarjasamanvitaḥ)
 
 ## mukta-m0-p119-v2960
-[madhūcchiṣṭena](madhūcchiṣṭena) [kalkaiḥ](kalkaiśca) [ca](ca) [śāṇa-jaiḥ](śāṇajaiḥ) [sudṛḍhaiḥ](sudṛḍhairnavaiḥ) [navaiḥ](navaiḥ)
+[with-beeswax](madhūcchiṣṭena) [and-with-pastes](kalkaiśca) [hemp+born](śāṇajaiḥ) [very-firm](sudṛḍhair) [new](navaiḥ)
 
 ## mukta-m0-p119-v2961
-[atasī-taila-sammiśram](atasītailasammiśraṃ) [mardayitvā](mardayitvā) [su-pācitam](supācitam)
+[flax+oil](atasītaila) [mixed](sammiśraṃ) [having-kneaded](mardayitvā) [well-cooked](supācitam)
 
 ## mukta-m0-p119-v2962
-[sura-veśma-gṛha-ādīnām](suraveśmagṛhādīnāṃ) [bhūmi-bandhaḥ](bhūmibandho) [nigadyate](nigadyate)
+[of-god+dwelling](suraveśma) [house+and-others](gṛhādīnāṃ) [floor+binding](bhūmibandho) [is-declared](nigadyate)
 
 ## mukta-m0-p119-v2963
-[sthira-toya-upamā](sthiratoyopamā) [kāryā](kāryā) [bhūmiḥ](bhūmistu) [tu](tu) [suta-lā](sutalā) [samā](samā)
+[still+water+like](sthiratoyopamā) [to-be-made](kāryā) [ground](bhūmis) [indeed](tu) [well-leveled](sutalā) [even](samā)
 
 ## mukta-m0-p119-v2964
-[tat-kalkam](tatkalkaṃ) [kārayet](kārayet) [piṇḍam](piṇḍaṃ) [viśoṣyam](viśoṣyaṃ) [piṇḍam](piṇḍam) [ātape](ātape)
+[that+paste](tatkalkaṃ) [one-should-make](kārayet) [ball](piṇḍaṃ) [to-be-dried](viśoṣyaṃ) [ball](piṇḍam) [in-sun](ātape)
 
 ## mukta-m0-p119-v2965
-[tataḥ](tato) [maṇḍena](maṇḍena) [saṃmardya](saṃmardya) [bhūmi-bandham](bhūmibandhaṃ) [tu](tu) [kārayet](kārayet)
+[then](tato) [with-scum](maṇḍena) [having-kneaded](saṃmardya) [floor+binding](bhūmibandhaṃ) [indeed](tu) [one-should-make](kārayet)
 
 ## mukta-m0-p119-v2966
-[kuryāt](kuryād) [bhūmim](bhūmiṃ) [samam](samaṃ) [ramyam](ramyaṃ) [susthitam](susthitaṃ) [jala-pūritam](jalapūritam)
+[one-should-make](kuryād) [ground](bhūmiṃ) [even](samaṃ) [delightful](ramyaṃ) [well-established](susthitaṃ) [water+filled](jalapūritam)
 
 ## mukta-m0-p119-v2967
-[dravyam](dravyaṃ) [kāla-anurūpeṇa](kālānurūpeṇa) [yojayet](yojayet) [bhāga-sammitam](bhāgasammitam)
+[substance](dravyaṃ) [according-to-time](kālānurūpeṇa) [one-should-apply](yojayed) [part+measured](bhāgasammitam)
 
 ## mukta-m0-p119-v2968
-[grīṣme](grīyme) [nu](nu) [pañca-bhāgāḥ](pañcabhāgāḥ) [syuḥ](syuḥ) [śīta-kāle](śītakāle) [tathā](tathā) [trayaḥ](trayaḥ)
+[in-summer](grīyme) [indeed](nu) [five+parts](pañcabhāgāḥ) [should-be](syuḥ) [in-cold+season](śītakāle) [likewise](tathā) [three](trayaḥ)
 
 ## mukta-m0-p119-v2969
-[evam](evaṃ) [dattvā](dattvā) [tu](tu) [yaḥ](yaḥ) [pūrvam](pūrvaṃ) [bandhaḥ](bandho) [atra](atra) [kathitaḥ](kathitaḥ) [kṣiteḥ](kṣiteḥ)
+[thus](evaṃ) [having-given](dattvā) [indeed](tu) [which](yaḥ) [previously](pūrvaṃ) [binding](bandho) [here]('tra) [declared](kathitaḥ) [of-earth](kṣiteḥ)
 
 ## mukta-m0-p119-v2970
-[toyena](toyena) [hata-kūrcam](hatakūrcaṃ) [tu](tu) [dāpayet](dāpayettadvicakṣaṇaḥ) [tad-vicakṣaṇaḥ](tadvicakṣaṇaḥ)
+[with-water](toyena) [struck+brush](hatakūrcaṃ) [indeed](tu) [one-should-cause-to-apply](dāpayet) [that](tad) [wise-one](vicakṣaṇaḥ)
 
 ## mukta-m0-p119-v2971
-[śālmalī-tinduka-ādīnām](śālmalītindukādīnāṃ) [bhūmi-bandhe](bhūmibandhe) [praśasyate](praśasyate)
+[of-śālmalī+tinduka](śālmalītindukā) [and-others](dīnāṃ) [in-floor+binding](bhūmibandhe) [is-praised](praśasyate)
 
 ## mukta-m0-p119-v2972
-[tāvat-varṣa-sahasrāṇi](tāvadvarṣasahasrāṇi) [kartā](kartā) [nandati](nandati) [tat-pure](tatpure)
+[for-so-many](tāvad) [year+thousands](varṣasahasrāṇi) [maker](kartā) [rejoices](nandati) [in-that+city](tatpure)
 
 ## mukta-m0-p119-v2973
-[pañcamaḥ](pañcamaḥ) [kāla-daṇḍa-ākhyaḥ](kāladaṇḍākhyaḥ) [sa-anvayāḥ](sānvayāḥ) [phala-dāyakāḥ](phaladāyakāḥ)
+[fifth](pañcamaḥ) [kāladaṇḍa+named](kāladaṇḍākhyaḥ) [with-lineage](sānvayāḥ) [fruit+giving](phaladāyakāḥ)
 
 ## mukta-m0-p119-v2974
-[vibhrāntim](vibhrāntiṃ) [vibhramaḥ](vibhramaḥ) [kuryāt](kuryācchāsakaḥ) [śāsakaḥ](śāsakaḥ) [śāsayet](śāsayetsadā) [sadā](sadā)
+[confusion](vibhrāntiṃ) [vibhrama](vibhramaḥ) [may-cause](kuryāc) [chāsaka](chāsakaḥ) [may-rule](śāsayet) [always](sadā)
 
 ## mukta-m0-p119-v2975
-[ete](ete) [sura-gṛhe](suragṛhe) [vighnāḥ](vighnā) [yāvat](yāvatte) [te](te) [tu](tu) [na](na) [pūjitāḥ](pūjitāḥ)
+[these](ete) [in-god+house](suragṛhe) [obstacles](vighnā) [as-long-as](yāvat) [they](te) [indeed](tu) [not](na) [worshipped](pūjitāḥ)
