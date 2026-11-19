@@ -2,16 +2,16 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p105-v2601
-[hero-land](vīrabhūḥ)
+[hero-ground](vīrabhūḥ)
 
 ## mukta-m0-p105-v2602
-[rest-genitive](viśrānteḥ) [supreme](paramā) [land](bhūmir) [hero-land](vīrabhūr) [on-earth](bhuvi) [worshipped](pūjitā)
+[rest](viśrānteḥ) [supreme](paramā) [ground](bhūmir) [hero-ground](vīrabhūr) [on-earth](bhuvi) [worshipped](pūjitā)
 
 ## mukta-m0-p105-v2603
 [hero-mother](vīramātā)
 
 ## mukta-m0-p105-v2604
-[heroes](vīrān) [who](yā) [protects](pāti) [fallen-ones](niṣpātān) [causeless-love-filled](nirhetupremanirbhṛtā)
+[heroes](vīrān) [who](yā) [protects](pāti) [fallen](niṣpātān) [causeless-love-filled](nirhetupremanirbhṛtā)
 
 ## mukta-m0-p105-v2605
 [hero-born](vīrasūḥ)
@@ -29,7 +29,7 @@
 [victory-glory](jayaśrīḥ)
 
 ## mukta-m0-p105-v2610
-[victory-glory](jayaśrīḥ) [she-indeed](saiva) [to-us](no) [may-be](bhūyāt) [in-presence](saṃnidhau) [everywhere](sarvataḥ) [always](sadā)
+[victory-glory](jayaśrīḥ) [that-very](saiva) [to-us](no) [may-be](bhūyāt) [in-presence](saṃnidhau) [everywhere](sarvataḥ) [always](sadā)
 
 ## mukta-m0-p105-v2611
 [victory-initiation](jayadīkṣā)
@@ -41,19 +41,19 @@
 [victory-giver](jayadā)
 
 ## mukta-m0-p105-v2614
-[as](yathā) [victory-state](dhanaṃjayatvaṃ) [not](na) [may-appear](āvirbhūyāt) [unartificial](akṛtrimam)
+[as](yathā) [Arjuna-hood](dhanaṃjayatvaṃ) [not](na) [may-manifest](āvirbhūyāt) [unartificial](akṛtrimam)
 
 ## mukta-m0-p105-v2615
 [victory-increaser](jayavardhinī)
 
 ## mukta-m0-p105-v2616
-[if](yadi) [may-be](syāt) [always](sarvadā) [truth](satyaṃ) [companion](sahāyā) [victory-increaser](jayavardhinī)
+[if](yadi) [would-be](syāt) [always](sarvadā) [truth](satyaṃ) [companion](sahāyā) [victory-increaser](jayavardhinī)
 
 ## mukta-m0-p105-v2617
 [fortune-beautiful-form](saubhāgyasubhagākārā)
 
 ## mukta-m0-p105-v2618
-[within-action](kārevāntargataṃ) [mind](cittaṃ) [motionless](niścalaṃ) [makes](vidadhāti) [who](yā)
+[within-cave](kārevāntargataṃ) [mind](cittaṃ) [motionless](niścalaṃ) [makes](vidadhāti) [who](yā)
 
 ## mukta-m0-p105-v2619
 [all-fortune-increaser](sarvasaubhāgyavardhinī)
@@ -65,7 +65,7 @@
 [welfare-doer](kṣemaṅkarī)
 
 ## mukta-m0-p105-v2622
-[today](adya) [I-am](asmi) [happiness-possessor](sukhabhāk) [immediately](sadyo) [seen](dṛṣṭā) [welfare-doer](kṣemaṅkarī) [when](yadā)
+[today](adya) [am-happy](asmi) [sukhabhāk] [suddenly](sadyo) [seen](dṛṣṭā) [welfare-doer](kṣemaṅkarī) [when](yadā)
 
 ## mukta-m0-p105-v2623
 [perfection-form](siddhirūpā)
