@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p18-v426
-[fall](patane) [middle+break](madhyabhaṅgaḥ) [be](syāt) [then](tadā) [oblation](homaḥ) [be-performed](vidhīyate)
+patane(fall) madhya-bhaṅgaḥ(middle-break) syāt(should-be) tadā(then) homaḥ(oblation) vidhīyate(is-performed)
 
 ## mukta-m0-p18-v427
-[give](dadyāt) [full+oblation](pūrṇāhutiṃ) [and](ca) [api](api) [by-auspicious](śivena) [inauspicious-removing](aśivahāriṇā)
+dadyāt(should-give) pūrṇāhutim(full-offering) ca(and) api(also) śivena(with-śiva) aśiva-hāriṇā(removing-inauspicious)
 
 ## mukta-m0-p18-v428
-[stone+gift](śilādāne) [thus](tathā) [worship](pūjā) [wood+gift](dārvādāne) [as-stated](yathoditā)
+śilā-dāne(in-stone-gift) tathā(thus) pūjā(worship) dāru-ādāne(in-wood-gift) yathā-uditā(as-stated)
 
 ## mukta-m0-p18-v429
-[twice-born-etc-class-difference](dvijādivarṇabhedena) [form-difference](rūpabhedena) [and](ca) [situated](sthitāḥ)
+dvija-ādi-varṇa-bhedena(by-brahmin-etc-varna-difference) rūpa-bhedena(by-form-difference) ca(and) sthitāḥ(established)
 
 ## mukta-m0-p18-v430
-[young-woman](yuvatī) [that](sā) [stone](śilā) [acceptable](grāhyā) [in-three](triṣu) [lingas](liṅgeṣu) [not-others](netarāḥ)
+yuvatī(young-woman) sā(that) śilā(stone) grāhyā(to-be-taken) triṣu(in-three) liṅgeṣu(liṅgas) na-not itarāḥ(others)
 
 ## mukta-m0-p18-v431
-[growth](vṛddhiṃ) [give](dadyāt) [stone](śilā) [indeed](nūnaṃ) [young](taruṇī) [with-marks](lakṣaṇānvitā)
+vṛddhim(growth) dadyāt(should-give) śilā(stone) nūnam(certainly) taruṇī(young) lakṣaṇa-anvitā(endowed-with-marks)
 
 ## mukta-m0-p18-v432
-[three](trayo) [sprouts](aṅkurā) [directions](diśaḥ) [three](tisraḥ) [smell-taste](gandhāsvādau) [fourfold](caturvirdhā)
+trayaḥ(three) aṅkurāḥ(sprouts) diśaḥ(directions) tisraḥ(three) gandha-āsvādau(smell-taste) catur-vidhā(fourfold)
 
 ## mukta-m0-p18-v433
-[youth-one](tāruṇam) [one](ekam) [thus](ityevaṃ) [thirty-two](dvātriṃśat) [marks](lakṣaṇāni) [but](tu)
+tāruṇam(youthful) ekam(one) iti(thus) evam(thus) dvātriṃśat(thirty-two) lakṣaṇāni(marks) tu(indeed)
 
 ## mukta-m0-p18-v434
-[smooth-depressed](snigdhānimnā) [stone](śilā) [blessed](dhanyā) [sprinkled](siktā) [holy-river-waters](puṇyanadījalaiḥ)
+snigdhā(smooth) nimnā(low) śilā(stone) dhanyā(fortunate) siktā(sprinkled) puṇya-nadī-jalaiḥ(with-holy-river-water)
 
 ## mukta-m0-p18-v435
-[fragrant](sugandhī) [compact-limbed](niviḍāṅgī) [and](ca) [tree-shade-situated](dramacchāyāsthitā) [always](sadā)
+sugandhī(fragrant) niviḍa-aṅgī(compact-limbed) ca(and) druma-chāyā-sthitā(situated-in-tree-shade) sadā(always)
 
 ## mukta-m0-p18-v436
-[firm](dṛḍhā) [pleasing](manoramā) [heavy](gurvī) [sweet-sound-adorned](madhuradhvanibhūṣitā)
+dṛḍhā(firm) manoramā(pleasing) gurvī(heavy) madhura-dhvani-bhūṣitā(adorned-with-sweet-sound)
 
 ## mukta-m0-p18-v437
-[in-order](krameṇa) [lotus-ghee-cow-urine](abjājyagovarvo) [urine-smell](mūtragandhāḥ) [auspicious-stones](śubhāḥśilāḥ)
+krameṇa(in-order) abja-ājya-go-varva? (lotus-ghee-cow?) mūtra-gandhāḥ(urine-smell) śubhāḥ(auspicious) śilāḥ(stones)
 
 ## mukta-m0-p18-v438
-[peace](śāntiṃ) [victory](jayaṃ) [wealth](dhanaṃ) [and](ca) [life](āyuḥ) [to-four-varnas](cāturvarṇye) [bestows](prayacchati)
+śāntim(peace) jayam(victory) dhanam(wealth) ca(and) āyuḥ(life) cāturvarṇye(to-four-varnas) prayacchati(gives)
 
 ## mukta-m0-p18-v439
-[good-radiance](sutejā) [form-endowed](rūpasaṃpannā) [wealth-god-direction](dhanadeśendra) [direction](dik) [situated](sthitā)
+su-tejā(good-radiance) rūpa-saṃpannā(endowed-with-form) dhana-deśa-indra? dik sthitā(situated-in-direction)
 
 ## mukta-m0-p18-v440
-[constellation](nakṣatraṃ) [and](ca) [deer](mṛgaṃ) [its](tasyāḥ) [that-god](taddevaḥ) [moon](śaśalāñchanaḥ)
+nakṣatram(star) ca(and) mṛgam(Mṛga) tasyāḥ(its) tat(that) devaḥ(god) śaśa-lāñchanaḥ(moon-marked)
 
 ## mukta-m0-p18-v441
-[its](asyā) [constellation](ṛkṣaṃ) [be](bhavet) [jyeṣṭhā](jyeṣṭhā) [deity](devatā) [and](ca) [indra](śatakratu)
+asyāḥ(its) ṛkṣam(constellation) bhavet(should-be) jyeṣṭhā(Jyeṣṭhā) devatā(deity) ca(and) śatakratu(Indra)
 
 ## mukta-m0-p18-v442
-[constellation](nakṣatraṃ) [phalgunī](phalgunī) [and](ca) [its](asyā) [god](devaḥ) [bhaga-named](bhagasaṃjñakaḥ)
+nakṣatram(star) phalgunī(Phalgunī) ca(and) asyāḥ(its) devaḥ(god) bhaga-saṃjñakaḥ(called-Bhaga)
 
 ## mukta-m0-p18-v443
-[constellation](nakṣatraṃ) [aśvinī](aśvinau) [and](ca) [its](asyā) [two-gods](devau) [indeed-aśvins](caivāśvinau) [considered](matau)
+nakṣatram(star) aśvinī(Aśvinī) ca(and) asyāḥ(its) devau(gods) ca(and) eva(certainly) aśvinau(Aśvins) matau(considered)
 
 ## mukta-m0-p18-v444
-[cool](śītalā) [and](ca) [pleasant-touch](sukhasparśā) [compact-limbed](niviḍāṅgī) [pleasing](manoramā)
+śītalā(cool) ca(and) sukha-sparśā(pleasant-touch) niviḍa-aṅgī(compact-limbed) manoramā(pleasing)
 
 ## mukta-m0-p18-v445
-[one-color](ekavarṇaḥ) [firm](sthiraḥ) [smooth](snigdhaḥ) [elephant-throat](gajakaṇṭhaḥ) [?](pamasvanaḥ)
+eka-varṇaḥ(one-color) sthiraḥ(firm) snigdhaḥ(smooth) gaja-kaṇṭhaḥ(elephant-throat) pa? svaraḥ(sound)
 
 ## mukta-m0-p18-v446
-[stone](pāṣāṇaḥ) [this](aya) [heavy](guru) [male](pumān) [of-men](puruṣāṇāṃ) [prosperity-giving](vibhūtidaḥ)
+pāṣāṇaḥ(stone) aya? guru(heavy) pumān(male) puruṣāṇām(of-men) vibhūti-daḥ(giving-prosperity)
 
 ## mukta-m0-p18-v447
-[for-woman](striyā) [woman-image](strīpratimā) [be-made](kāryā) [eunuch](ṣaṇḍhaṃ) [by-eunuch](ṣaṇḍhena) [not](na) [by-men](nṛbhiḥ)
+striyā(for-woman) strī-pratimā(female-image) kāryā(should-be-made) ṣaṇḍham(eunuch) ṣaṇḍhena(by-eunuch) na(not) nṛbhiḥ(by-men)
 
 ## mukta-m0-p18-v448
-[vein-rich](śirāḍhyaṃ) [rough](karkaśaṃ) [straight](tvarju) [this-stone](idamaśma) [neuter](napuṃsakam)
+śirā-āḍhyam(vein-rich) karkaśam(rough) tu(but) ṛju(straight) idam(this) aśma(stone) napuṃsakam(neuter)
 
 ## mukta-m0-p18-v449
-[of-rest](śeṣāṇāṃ) [female-stones](strīśilāḥ) [declared](proktāḥ) [pedestal-etc](pīṭhikādyāḥ) [and](ca) [trident-bearers](śūlinaḥ)
+śeṣāṇām(of-remainders) strī-śilāḥ(female-stones) proktāḥ(stated) pīṭhikā-ādyāḥ(pedestal-etc) ca(and) śūlinaḥ(trident-bearers)
 
 ## mukta-m0-p18-v450
-[in-all-colors](sarvavarṇātmake) [white](śvetāḥ) [rest](śeṣāḥ) [and](ca) [auspicious-giving](śubhadāḥ) [remembered](smṛtāḥ)
+sarva-varṇa-ātmake(in-all-varna-nature) śvetāḥ(white) śeṣāḥ(remaining) ca(and) śubha-dāḥ(giving-auspicious) smṛtāḥ(remembered)
