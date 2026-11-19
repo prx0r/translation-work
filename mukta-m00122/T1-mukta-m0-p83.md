@@ -2,76 +2,52 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p83-v2051
-[dhārmikāḥ](dhārmikāś) [ca](ca) [eva](eva) [rājānaḥ](rājānaḥ) [pūrṇa](pūrṇa) [saptāṅga](saptāṅga) [saṃyutāḥ](saṃyutāḥ)
-
+dhārmikāḥ+ca+eva rājānaḥ pūrṇa+saptāṅga+saṃyutāḥ
 ## mukta-m0-p83-v2052
-[vāñchitam](vāñchitaṃ) [samavāpnoti](samavāpnoti) [maṇḍalāt](maṇḍalāt) [māsataḥ](māsato) [api](api) [vā](vā)
-
+vāñchitam samavāpnoti maṇḍalāt māsataḥ api vā
 ## mukta-m0-p83-v2053
-[prāgukta](prāgukta) [rakṣa](rakṣa) [vāyu](vāyu) [śakra](śakra) [vahni](vahni) [īśa](īśa) [varuṇa](varuṇa) [dikṣu](dikṣu) [sthāpanāt](sthāpanāt) [iti](iti) [arthaḥ](arthaḥ)
-
+prāg+ukta rakṣaḥ+vāyu+śakra+vahni+īśa+varuṇa+dikṣu sthāpanāt iti arthaḥ
 ## mukta-m0-p83-v2054
-[mūrti](mūrti) [saptakam](saptakaṃ) [ḍārākinyādīnām](ḍārākinyādīnāṃ) [ṣaṇām](ṣaṇāṃ) [devyāḥ](devyāś) [ca](ca) [iti](iti) [śeṣaḥ](śeṣaḥ)
-
+mūrti+saptakam ḍā+rākinyādīnām ṣaṇām devyāḥ ca iti śeṣaḥ
 ## mukta-m0-p83-v2055
-[kleśāḥ](kleśāḥ) [vidyā](vidyā) [yantra](yantra) [anubhāvataḥ](anubhāvataḥ) [ubhayoḥ](ubhayoḥ) [sāmarthyāt](sāmarthyāt)
-
+kleśāḥ vidyā+yantra+anubhāvataḥ ubhayoḥ sāmarthyāt
 ## mukta-m0-p83-v2056
-[suṣumnā](suṣumnā) [madhya](madhya) [saṃstheṣu](saṃstheṣu) [ṣaḍādhāra](ṣaḍādhāra) [ambujeṣu](ambujeṣu) [tāḥ](tāḥ)
-
+suṣumnā+madhya+saṃstheṣu ṣaḍ+ādhāra+ambujeṣu tāḥ
 ## mukta-m0-p83-v2057
-[bahiḥ](bahiś) [ca](ca) [maṇḍale](maṇḍale) [pūjā](pūjā) [anugraha](anugraha) [nigraha](nigraha) [ātmikā](ātmikā)
-
+bahiḥ ca maṇḍale pūjā+anugraha+anigraha+ātmikā
 ## mukta-m0-p83-v2058
-[dhūmra](dhūmra) [varṇa](varṇa) [ambuje](ambuje) [devīm](devīṃ) [ḍākinīm](ḍākinīṃ) [tat](tat) [samākṛtim](samākṛtim)
-
+dhūmra+varṇa+ambuje devīm ḍākinīm tat+sama+ākṛtim
 ## mukta-m0-p83-v2059
-[tayā](tayā) [sarvajñatā](sarvajñatā) [siddhiḥ](siddhir) [bhavati](bhavaty) [eva](eva) [na](na) [saṃśayaḥ](saṃśayaḥ)
-
+tayā sarvajñatā+siddhiḥ bhavati eva na saṃśayaḥ
 ## mukta-m0-p83-v2060
-[prāpnoti](prāpnoti)
-
+prāpnoti
 ## mukta-m0-p83-v2061
-[deheṣu](deheṣu) [sthitim](sthitim) [tāḥ](tāḥ) [devyaḥ](devyaḥ) [iti](iti) [atra](atra) [anvayaḥ](anvayaḥ) [dākinyādayaḥ](dākinyādaya) [iti](iti) [śeṣaḥ](śeṣaḥ)
-
+deheṣu sthitim tāḥ devyaḥ iti atra anvayaḥ dākinyādayaḥ iti śeṣaḥ
 ## mukta-m0-p83-v2062
-[mūla](mūla) [devatā](devatā) [samānaḥ](samānaḥ)
-
+mūla+devatā+samānaḥ
 ## mukta-m0-p83-v2063
-[rākinīm](rākinīṃ) [dvādaśa](dvādaśa) [dale](dale) [kādi](kādi) [ḍhānta](ḍhānta) [akṣara](akṣara) [ātmabhiḥ](ātmabhiḥ)
-
+rākinīm dvādaśa+dale kādi+ḍhānta+akṣara+ātmabhiḥ
 ## mukta-m0-p83-v2064
-[maṇipūraka](maṇipūraka) [saṃjñe](saṃjñe) [ca](ca) [nābhi](nābhi) [sthe](sthe) [daśa](daśa) [patrake](patrake)
-
+maṇipūraka+saṃjñe ca nābhi+sthe daśa+patrake
 ## mukta-m0-p83-v2065
-[lākinīm](lākinīṃ) [pūjayet](pūjayet) [vairivi](vairivi) [jaya](jaya) [śrī](śrī) [samṛddhaye](samṛddhaye)
-
+lākinīm pūjayet vairivi jaya+śrī+samṛddhaye
 ## mukta-m0-p83-v2066
-[vādi](vādi) [ṣaḍ](ṣaḍ) [varṇa](varṇa) [śaktībhiḥ](śaktībhiḥ) [āvṛtām](āvṛtāṃ) [ḍākinīm](ḍākinīṃ) [yajet](yajet)
-
+vādi+ṣaḍ+varṇa+śaktībhiḥ āvṛtām ḍākinīm yajet
 ## mukta-m0-p83-v2067
-[ādhāra](ādhāra) [ākhye](ākhye) [catuṣ](catuṣ) [patre](patre) [suvarṇa](suvarṇa) [ābhe](ābhe) [saroruhe](saroruhe)
-
+ādhāra+ākhye catuṣ+patre suvarṇa+ābhe saroruhe
 ## mukta-m0-p83-v2068
-[pāyu](pāyu) [dhvaja](dhvaja) [antarā](antarā) [tryasra](tryasra) [madhye](madhye) [tejaḥ](tejaḥ) [samanvitām](samanvitām)
-
+pāyu+dhvaja+antarā tryasra+madhye tejaḥ samanvitām
 ## mukta-m0-p83-v2069
-[sevitām](sevitāṃ) [hakṣa](hakṣa) [śaktibhyām](śaktibhyāṃ) [hākinīm](hākinīṃ) [pūjayet](pūjayet) [tathā](tathā)
-
+sevitām hakṣa+śaktibhyām hākinīm pūjayet tathā
 ## mukta-m0-p83-v2070
-[viśva](viśva) [sṛṣṭi](sṛṣṭi) [sthiti](sthiti) [dhvaṃsa](dhvaṃsa) [śakti](śakti) [dām](dām) [api](api) [ayatnataḥ](ayatnataḥ)
-
+viśva+sṛṣṭi+sthiti+dhvaṃsa+śakti+dām api ayatnataḥ
 ## mukta-m0-p83-v2071
-[pūjanam](pūjanaṃ) [sarva](sarva) [duḥkha](duḥkha) [ārti](ārti) [nāśanam](nāśanaṃ) [sampadā](sampadā) [āspadam](āspadam)
-
+pūjanam sarva+duḥkha+ārti+nāśanam sampadām+āspadam
 ## mukta-m0-p83-v2072
-[tayā](tayā) [pūjayā](pūjayā) [dhvaja](dhvaja) [mūle](mūle) [mehana](mehana) [mūle](mūle)
-
+tayā pūjayā dhvaja+mūle mehana+mūle
 ## mukta-m0-p83-v2073
-[samanvitām](samanvitāṃ) [kuṇḍalinī](kuṇḍalinī) [tejaḥ](tejaḥ) [rūpām](rūpām) [tathā](tathā) [samuccaye](samuccaye)
-
+samanvitām kuṇḍalinī+tejaḥ+rūpām tathā samuccaye
 ## mukta-m0-p83-v2074
-[bhūta](bhūta) [bhaviṣya](bhaviṣya) [vartamāna](vartamāna) [kārya](kārya) [jñāna](jñāna) [sāmarthya](sāmarthya) [pradāyinīm](pradāyinīm) [iti](iti) [arthaḥ](arthaḥ)
-
+bhūta+bhaviṣya+vartamāna+kārya+jñāna+sāmarthya+pradāyinīm iti arthaḥ
 ## mukta-m0-p83-v2075
-[madhye](madhye) [ca](ca) [tatra](tatra) [tām](tāṃ) [nitya](nitya) [anityā](anityā) [gandha](gandha) [ādinā](ādinā) [arcayet](arcayet)
+madhye ca tatra tām nitya+anityā gandha+ādinā arcayet
