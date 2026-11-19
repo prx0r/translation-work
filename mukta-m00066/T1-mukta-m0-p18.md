@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p18-v426
-anaṃga-śaktayaḥ (love-powers) aṣṭau (eight) tu (but) pūjanīyāḥ (worshipful) manīṣibhiḥ (by-wise)
+[not-bodied-powers](anaṃgaśaktayo) [eight](aṣṭau) [indeed](tu) [to-be-worshipped](pūjanīyā) [by-the-wise](manīṣibhiḥ)
 
 ## mukta-m0-p18-v427
-anaṃga (love) madana (passion) anaṃga (love) madana (passion) āturayā (with-distressed) saha (with)
+[not-bodied](anaṃga) [madana](madana) [not-bodied](anaṃga) [madana](madana) [with-turmoil](madanāturayā) [together](saha)
 
 ## mukta-m0-p18-v428
-anaṃga-mālinī (love-garlanded) ca (and) aṣṭau (eight) pūjanīyāḥ (worshipful) vidhānataḥ (by-rite)
+[not-bodied-garlanded-one](anaṃgamālinī) [and](ca) [eight](aṣṭau) [to-be-worshipped](pūjanīyā) [according-to-rite](vidhānataḥ)
 
 ## mukta-m0-p18-v429
-ānanda-cakram (bliss-wheel) ānanda (bliss) kolāhala (uproar) vivarddhanam (increasing)
+[bliss-wheel](ānaṃdacakram) [bliss](ānaṃda) [uproar](kolāhala) [increasing](vivarddhanam)
 
 ## mukta-m0-p18-v430
-taṭit-prabhā (lightning-radiance) samullāsa (exultation) piṃjaraiḥ (with-yellow) kāma-raśmibhiḥ (with-love-rays)
+[lightning-luster](taṭitprabhā) [radiant](samullāsa) [yellowish](piṃjaraiḥ) [with-love-rays](kāmaraśmibhiḥ)
 
 ## mukta-m0-p18-v431
-anaṃga-śakti (love-power) saṃkṣobhāt (from-agitation) nāḍībhyaḥ (from-channels) galitam (flowed) navam (new)
+[not-bodied-power](anaṃgaśakti) [agitation](saṃkṣobhāṃ) [from-the-channels](nāḍībhyaḥ) [flowing](galitaṃ) [new](navam)
 
 ## mukta-m0-p18-v432
-śṛṃgāra-vāhinī (erotic-flowing) pūra (flood) pūrṇa-rāgām (full-passion) kurāruṇam (reddish)
+[erotic-flow](śṛṃgāravāhinī) [fullness](pūra) [full-of-passion](pūrṇarāgāṃ) [reddish](kurāruṇam)
 
 ## mukta-m0-p18-v433
-manmatha-drava (love-liquid) saṃdoha (abundance) juṣṭam (endowed) artha-prabhedanaiḥ (with-meaning-distinctions)
+[love-liquid](manmathadrava) [abundance](saṃdoha) [enjoyed](juṣṭam) [by-meaning-distinctions](arthaprabhedanaiḥ)
 
 ## mukta-m0-p18-v434
-kā (who) iyaṃ (this) caṃdra-kalā (moon-digit) nāma (named) kutra (where) tiṣṭhati (stands) śaṃkara (Śaṅkara)
+[who](keyaṃ) [this](caṃdrakalā) [named](nāma) [where](kutra) [stands](tiṣṭhati) [śaṃkara](śaṃkara)
 
 ## mukta-m0-p18-v435
-śṛṇu (hear) kāma-kalā (love-digit) nāma (named) nāḍī-bhoga (channel-enjoyment) ambu-vāhinī (water-flowing)
+[listen](śṛṇu) [love-art](kāmakalā) [named](nāma) [channel-enjoyment](nāḍībhoga) [water-carrying](aṃbuvāhinī)
 
 ## mukta-m0-p18-v436
-nāḍī-cakram (channel-wheel) samastam (all) ca (and) tayā (by-her) vyāptam (pervaded) varānane (fair-faced)
+[channel-wheel](nāḍīcakraṃ) [all](samastaṃ) [ca](ca) [by-her](tayā) [pervaded](vyāptaṃ) [fair-faced](varānane)
 
 ## mukta-m0-p18-v437
-kāścit (some) ānanda-vāhinyaḥ (bliss-flowing) eka (one) eva (only) amala-vāhinī (pure-flowing)
+[some](kāścid) [bliss-carrying](ānaṃdavāhinya) [one](eka) [thus](evam) [impurity-carrying](malavāhinī)
 
 ## mukta-m0-p18-v438
-aṣṭau (eight) bhoga-ambu-vāhinyaḥ (enjoyment-water-flowing) tāsu (in-them) caṃdra-kalā (moon-digit) parā (supreme)
+[eight](aṣṭau) [enjoyment-water-carrying](bhogāṃbuvāhinyaḥ) [in-them](tāsu) [moon-digit](caṃdrakalā) [supreme](parā)
 
 ## mukta-m0-p18-v439
-caṃdra-rekhā (moon-streak) caṃdravatī (moon-like) tathā (and) caṃdra-mahodayā (moon-great-rise)
+[moon-streak](caṃdrarekhā) [moon-possessing](caṃdravatī) [thus](tathā) [moon-rising](caṃdramahodayā)
 
 ## mukta-m0-p18-v440
-etāḥ (these) bhoga-ambu-vāhinyaḥ (enjoyment-water-flowing) svāṃśaiḥ (by-own-parts) caṃdra-kalā (moon-digit) āśritāḥ (supported)
+[these](etā) [enjoyment-water-carrying](bhogāṃbuvāhinya) [by-own-parts](svāṃśaiḥ) [moon-digit](caṃdrakalā) [resorted](śritāḥ)
 
 ## mukta-m0-p18-v441
-pradhāna-bhūtā (principal-being) vilasat (shining) vidyut-dāma (lightning-garland) sama-prabhā (equal-radiance)
+[principal](pradhānabhūtā) [shining](vilasad) [lightning-garland](vidyuddāma) [equal-luster](samaprabhā)
 
 ## mukta-m0-p18-v442
-sarva-nāḍī (all-channels) mūla-bhūtam (root-being) nābhi-cakram (navel-wheel) samāśritā (resorted)
+[all-channels-root](sarvanāḍīmūlabhūtaṃ) [navel-wheel](nābhicakraṃ) [resorted](samāśritā)
 
 ## mukta-m0-p18-v443
-tat (that) mukha (mouth) udghāṭanam (opening) loke (in-world) durlabham (rare) parameśvari (supreme-goddess)
+[its](tan) [mouth](mukha) [opening](udghāṭanaṃ) [in-the-world](loke) [rare](durlabhaṃ) [supreme-goddess](parameśvari)
 
 ## mukta-m0-p18-v444
-dvitrāṇām (of-two-three) eva (only) jāyeta (arises) sahasreṣu (among-thousands) atha (then) kauliṣu (among-Kaulas)
+[of-two-or-three](dvitrāṇām) [indeed](eva) [would-be-born](jāyeta) [among-thousands](sahasreṣu) [then](atha) [kaulikas](kauliṣu)
 
 ## mukta-m0-p18-v445
-yasya (whose) liṃga (liṅga) īśvara (lord) āseka (union) sakṛt (once) vā (or) api (even) iha (here) janmani (in-birth)
+[whose](yasya) [liṅga-lord](liṃgesvara) [union](āseka) [once](sakṛt) [or](vā) [in-birth](janmani)
 
 ## mukta-m0-p18-v446
-anirvācyasya (of-ineffable) nirvāṇa (liberation) padavī (path) nadaviyasī (boundless)
+[of-the-ineffable](anirvācyasya) [liberation](nirvāṇa) [path](padavī) [unobstructed](nadaviyasī)
 
 ## mukta-m0-p18-v447
-samayasya (of-convention) parijñānāt (from-knowledge) upacārasya (of-worship) kalpanāt (from-conception)
+[of-convention](samayasya) [knowledge](parijñānāt) [from-observance](upacārasya) [conception](kalpanāt)
 
 ## mukta-m0-p18-v448
-kadācit (sometimes) kvacid (somewhere) unmeṣam (opening) mukha-udghāṭana (mouth-opening) lakṣaṇam (mark)
+[sometimes](kadācit) [somewhere](kvacid) [manifestation](unmeṣaṃ) [mouth-opening-mark](mukhodghāṭanalakṣaṇam)
 
 ## mukta-m0-p18-v449
-tad (that) arthāni (purposes) eva (only) śāstrāṇi (scriptures) tad (that) arthāḥ (purposes) ca (and) pravṛttayaḥ (activities)
+[for-that-purpose](tadarthāni) [indeed](eva) [scriptures](śāstrāṇi) [for-that-purpose](tadarthāḥ) [ca](ca) [activities](pravṛttayaḥ)
 
 ## mukta-m0-p18-v450
-tasmāt (therefore) caṃdra-kalā (moon-digit) nāḍyām (in-channel) bhoga-amṛta (enjoyment-nectar) mahodadhim (great-ocean)
+[therefore](tasmāt) [moon-digit-channel](caṃdrakalānāḍyāṃ) [enjoyment-nectar-ocean](bhogāmṛtamahodadhim)

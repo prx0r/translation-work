@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p49-v1201
-[chin](cibuka)+[lips](oṣṭhau) [by-division](vibhāgena) [nose](nāsā)+[forehead](lalāṭa)+[stake](stakam)
+cibuka (chin) uṣṭhau (lips) vibhāgena (by-division) nāsā (nose) lalāṭa (forehead) stakam (stakam)
 
 ## mukta-m0-p49-v1202
-[linga-side](liṅgapārśce) [two-part](dvibhāgena) [part](bhāgaṃ) [abandoning](tyaktvā) [above-that](tadūrdhvataḥ)
+liṅga (linga) pārśce (side) dvibhāgena (by-two-parts) bhāgam (part) tyaktvā (having-abandoned) tad-ūrdhvataḥ (above-that)
 
 ## mukta-m0-p49-v1203
-[five-faces-beginning-one-face-end](pañtrāsyādyekavaktrāntam) [this-only](ayameva) [rule](vidhiḥ) [again](punaḥ)
+pañca (five) āsya (face) ādi (beginning) eka (one) vaktra (face) antam (end) ayam (this) eva (only) vidhiḥ (rule) punaḥ (again)
 
 ## mukta-m0-p49-v1204
-[five-faced-et-cetera](pañcānanādikaṃ) [declared](proktaṃ) [very-clear](suvyaktam) [honey-etc-said](adhudanocyate)
+pañca (five) ānana (face) ādikam (etc) proktam (declared) su (well) vyaktam (manifest) adhudana (adhudana) ucyate (is-said)
 
 ## mukta-m0-p49-v1205
-[two-arms](dvibāhūni)+[upper-bodies](ūrdhvadehāni) [viṣṇu-footed](viṣṇavantacaraṇāni) [and](ca)
+dvibāhūni (two-arms) ūrdhva (upper) dehāni (bodies) viṣṇu (viṣṇu) anta (end) caraṇāni (feet) ca (and)
 
 ## mukta-m0-p49-v1206
-[former-body](pūrvakāye) [man](pumāṃsaṃ) [indeed](tu) [citron-eyed](mātuluṅgākṣaśalinam)
+pūrva (eastern) kāye (body) pumāṃsam (man) tu (but) mātuluṅga (citron) akṣa (eye) śalinam (possessing)
 
 ## mukta-m0-p49-v1207
-[woman-form](stryākāram) [upper](uktare) [secret](guhyaṃ) [mirror-lotus-joined](darpaṇotpalasaṃyutam)
+strī (woman) ākāram (form) uktare (uktare) guhyam (secret) darpaṇa (mirror) utpala (lotus) saṃyutam (joined)
 
 ## mukta-m0-p49-v1208
-[very-clear](suvyakta) [fivefold-thus](pañcadhāhyevam) [mouth-etc-rule-established](āsyovatābidhisaṃsthitam)
+su (well) vyakta (manifest) pañcadhā (fivefold) evam (thus) āsya (face) uvatā (uvatā) bidhi (rule) saṃsthitam (established)
 
 ## mukta-m0-p49-v1209
-[thus](evaṃ) [having-produced](niṣpādya) [lingas](liṅgāni) [pedestal](piṇḍikāṃ) [should-make-then](vartayettataḥ)
+evam (thus) niṣpādya (having-made) liṅgāni (lingas) piṇḍikām (pedestal) vartayet (should-make) tataḥ (then)
 
 ## mukta-m0-p49-v1210
-[thus](iti) [characteristic-collection](lakṣaṇasamuccaye) [manifest-unmanifest-lingas](vyaktāvyaktaliṅgānāṃ) [tenfold](daśadhā) [making](vartanaṃ) [named](nāma) [seventh](saptamo) [rite](vidhiḥ) [then-eighth](athoṣṭama)
+iti (thus) lakṣaṇa (characteristic) samuccaye (collection) vyakta (manifest) avyakta (unmanifest) liṅgānām (of-lingas) daśadhā (tenfold) vartanam (making) nāma (named) saptama (seventh) vidhiḥ (rule) atha (then) uṣṭama (eighth)
 
 ## mukta-m0-p49-v1211
-[great](mahatyāḥ) [first-illusion](prātamāyāśca) [direction-linga-etc](digliṅgādeśca) [for-accomplishment](sādhane)
+mahatyāḥ (great) prātamāyāḥ (prātamāyā) ca (and) dig (direction) liṅga (linga) ādeḥ (etc) ca (and) sādhane (in-rite)
 
 ## mukta-m0-p49-v1212
-[nine-knowledge](navajñāṃ) [should-make-therefore](kārayettasmāt) [sometimes-both](kadācidubhayorapi)
+nava (nine) jñām (knowledge) kārayet (should-make) tasmāt (therefore) kadācit (sometimes) ubhayoḥ (of-both) api (also)
 
 ## mukta-m0-p49-v1213
-[pedestal](piṇḍikā) [indeed](tu) [declared](samākhyātā) [not-less](na hīnā) [not-more](nādhikā) [auspicious](śubhā)
+piṇḍikā (pedestal) tu (but) samākhyātā (declared) na (not) hīnā (deficient) na (not) adhikā (excessive) śubhā (auspicious)
 
 ## mukta-m0-p49-v1214
-[girdle](mekhalā) [that-third-part](tattribhāgena) [pit](khātaṃ) [that-third-less](tattryṃśahīnakam)
+mekhalā (girdle) tat (that) tribhāgena (by-third-part) khātam (excavation) tat (that) tryaṃśa (third-part) hīnakam (less)
 
 ## mukta-m0-p49-v1215
-[middle](madhye) [circle](vṛttaṃ) [having-drawn](samālikhya) [should-make-pit-carefully](vartayetkhātamādarāt)
+madhye (in-middle) vṛttam (circle) samālikhya (having-drawn) vartayet (should-make) khātam (excavation) ādarāt (carefully)
 
 ## mukta-m0-p49-v1216
-[downward](arvāg) [length-third-part](dairghyatribhāgena) [girdle-making](mekhalāvartanaṃ) [outside](bahiḥ)
+arvāk (below) dairghya (length) tribhāgena (by-third-part) mekhalā (girdle) vartanam (making) bahiḥ (outside)
 
 ## mukta-m0-p49-v1217
-[mouth](mukhe) [that-half-width](tadardhavistāraṃ) [third-part](tantribhāge) [water-outlet](ambunirgamaḥ)
+mukhe (at-mouth) tat (that) ardha (half) vistāram (width) tan (that) tribhāge (third-part) ambu (water) nirgamaḥ (outlet)
 
 ## mukta-m0-p49-v1218
-[neck-above](kaṇṭhādūrdhvaṃ) [always](sadā) [thus-indeed](hyevam) [otherwise](anyathā) [fault-giving](doṣadāyakam)
+kaṇṭhāt (from-throat) ūrdhvam (above) sadā (always) evam (thus) anyathā (otherwise) doṣa (fault) dāyakam (giving)
 
 ## mukta-m0-p49-v1219
-[sixth-part-entrance](ṣaṣṭhāṃśaveśanāt) [neck](kaṇṭhaś) [movable](calānāṃ) [fifth](pañcamena) [or](vā)
+ṣaṣṭha (sixth) aṃśa (part) veśanāt (by-entering) kaṇṭha (throat) calānām (of-movable) pañcamena (by-fifth) vā (or)
 
 ## mukta-m0-p49-v1220
-[unmanifest](avyakte) [mixed](miśrake) [own-part](svāṃśe) [brahma-viṣṇu-form](brahmaviṣṇusvarūpataḥ)
+avyakte (unmanifest) miśrake (mixed) svāṃśe (own-part) brahma (brahma) viṣṇu (viṣṇu) svarūpataḥ (by-nature)
 
 ## mukta-m0-p49-v1221
-[linga-thickness-measure](liṅgasthaulyapramāṇena) [with-juice](samāsraṃ) [direction-diagonal-situated](digvidiksthitam)
+liṅga (linga) sthaulya (thickness) pramāṇena (by-measure) samāsram (samāsram) dig (direction) vidik (intermediate-direction) sthitam (situated)
 
 ## mukta-m0-p49-v1222
-[all-around](samantāt) [elder-linga](jyeṣṭhaliṅgasya) [barley-six](yavaiḥ ṣaḍbhir) [increased](vivardhitam)
+samantāt (all-around) jyeṣṭha (eldest) liṅgasya (of-linga) yavaiḥ (by-barley-grains) ṣaḍbhiḥ (six) vivardhitam (increased)
 
 ## mukta-m0-p49-v1223
-[linga-like](liṅgavat) [pure](nirmalā) [clean](śuddhā) [should-be-made](kartavyā) [pedestal](piṇḍikā) [by-wise](budhaiḥ)
+liṅgavat (like-linga) nirmalā (pure) śuddhā (clean) kartavyā (to-be-made) piṇḍikā (pedestal) budhaiḥ (by-wise)
 
 ## mukta-m0-p49-v1224
-[remaining](śeṣāṇāṃ) [lingas](liṅgānām) [half-half](ardhārdha) [should-reduce](hrāsayedyavam)
+śeṣāṇām (of-remaining) liṅgānām (of-lingas) ardha (half) ardha (half) hrāsayet (should-diminish) yavam (barley-grain)
 
 ## mukta-m0-p49-v1225
-[desires](kāmānāṃ) [wealth-from](vasutastasya) [divisions](bhedān) [we-say](brūmaḥ) [briefly](samāsataḥ)
+kāmānām (of-desires) vasutastasya (of-wealth) bhedān (differences) brūmaḥ (we-say) samāsataḥ (briefly)

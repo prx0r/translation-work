@@ -8,7 +8,7 @@
 "tokens": [
 {
 "surface": "yogamudrāṃ",
-"quick_gloss": "yoga-mudra"
+"quick_gloss": "yoga-mudra-acc"
 },
 {
 "surface": "ca",
@@ -16,7 +16,7 @@
 },
 {
 "surface": "śaṅkhaṃ",
-"quick_gloss": "conch"
+"quick_gloss": "conch-acc"
 },
 {
 "surface": "ca",
@@ -24,11 +24,11 @@
 },
 {
 "surface": "gadācakradharaṃ",
-"quick_gloss": "mace-disc-bearer"
+"quick_gloss": "mace-disc-bearer-acc"
 },
 {
 "surface": "dvayam",
-"quick_gloss": "pair"
+"quick_gloss": "pair-acc"
 }
 ]
 },
@@ -41,19 +41,19 @@
 "tokens": [
 {
 "surface": "mudrāṃ",
-"quick_gloss": "mudra"
+"quick_gloss": "mudra-acc"
 },
 {
 "surface": "kuryāddhṛdisthāṃ",
-"quick_gloss": "should-make-heart-placed"
+"quick_gloss": "should-make"
 },
 {
 "surface": "ca",
-"quick_gloss": "and"
+"quick_gloss": "heart-placed-acc"
 },
 {
 "surface": "aśeṣāghapraṇāśinīm",
-"quick_gloss": "all-sin-destroying"
+"quick_gloss": "all-sin-destroying-acc"
 }
 ]
 },
@@ -66,19 +66,19 @@
 "tokens": [
 {
 "surface": "pātraśāntidharaṃ",
-"quick_gloss": "vessel-peace-bearer"
+"quick_gloss": "vessel-peace-bearer-acc"
 },
 {
 "surface": "yāmye",
-"quick_gloss": "right"
+"quick_gloss": "south-loc"
 },
 {
 "surface": "vāmake",
-"quick_gloss": "left"
+"quick_gloss": "left-loc"
 },
 {
 "surface": "padmasīriṇau",
-"quick_gloss": "lotus-sri"
+"quick_gloss": "lotus-sirin-acc-dual"
 }
 ]
 },
@@ -91,19 +91,15 @@
 "tokens": [
 {
 "surface": "kaumodyā",
-"quick_gloss": "kaumodi"
+"quick_gloss": "kaumudi-loc"
 },
 {
 "surface": "hetirājena",
-"quick_gloss": "weapon-king"
+"quick_gloss": "weapon-king-instr"
 },
 {
-"surface": "pāñcajanyā",
-"quick_gloss": "pancajanya"
-},
-{
-"surface": "ambujena",
-"quick_gloss": "lotus"
+"surface": "pāñcajanyāmbujena",
+"quick_gloss": "panchajanya-lotus-instr"
 },
 {
 "surface": "ca",
@@ -124,7 +120,7 @@
 },
 {
 "surface": "pūrvoktakaraśastrabhṛt",
-"quick_gloss": "previously-said-hand-weapon-bearing"
+"quick_gloss": "before-said-hand-weapon-bearer"
 }
 ]
 },
@@ -137,7 +133,7 @@
 "tokens": [
 {
 "surface": "ebhiryuktaṃ",
-"quick_gloss": "by-these"
+"quick_gloss": "these-instr"
 },
 {
 "surface": "navavyūhaṃ",
@@ -162,15 +158,15 @@
 "tokens": [
 {
 "surface": "vāmotsaṅgadhṛtaśrīkam",
-"quick_gloss": "left-lap-held-sri"
+"quick_gloss": "left-lap-held-shri-acc"
 },
 {
 "surface": "ardhacandrāsane",
-"quick_gloss": "half-moon-seat"
+"quick_gloss": "half-moon-seat-loc"
 },
 {
 "surface": "sthitam",
-"quick_gloss": "seated"
+"quick_gloss": "standing-acc"
 }
 ]
 },
@@ -183,23 +179,23 @@
 "tokens": [
 {
 "surface": "taddakṣiṇaṃ",
-"quick_gloss": "that-right"
+"quick_gloss": "that-right-hand-acc"
 },
 {
 "surface": "karaṃ",
-"quick_gloss": "hand"
+"quick_gloss": "hand-acc"
 },
 {
 "surface": "skandhe",
-"quick_gloss": "on-shoulder"
+"quick_gloss": "shoulder-loc"
 },
 {
 "surface": "devadevasya",
-"quick_gloss": "god-of-gods"
+"quick_gloss": "god-of-gods-gen"
 },
 {
 "surface": "dakṣiṇe",
-"quick_gloss": "right"
+"quick_gloss": "right-loc"
 }
 ]
 },
@@ -220,7 +216,7 @@
 },
 {
 "surface": "gātṛnartanakairvṛtaḥ",
-"quick_gloss": "singer-dancer-surrounded"
+"quick_gloss": "singer-dancer-instr-pl"
 }
 ]
 },
@@ -233,11 +229,11 @@
 "tokens": [
 {
 "surface": "advaitena",
-"quick_gloss": "by-nonduality"
+"quick_gloss": "non-dual-instr"
 },
 {
 "surface": "vidhānena",
-"quick_gloss": "rite"
+"quick_gloss": "rite-instr"
 },
 {
 "surface": "pūjanīyo",
@@ -261,12 +257,8 @@
 "quick_gloss": "yoga-sleep-supreme-state"
 },
 {
-"surface": "supto",
+"surface": "supto'nantatanūpari",
 "quick_gloss": "sleeping"
-},
-{
-"surface": "anantatanūpari",
-"quick_gloss": "on-infinite-body"
 }
 ]
 },
@@ -279,7 +271,7 @@
 "tokens": [
 {
 "surface": "pādalagnā",
-"quick_gloss": "earth-goddess-foot-clinging"
+"quick_gloss": "foot-clinging"
 },
 {
 "surface": "dharādevī",
@@ -287,11 +279,11 @@
 },
 {
 "surface": "jalaśāyī",
-"quick_gloss": "water-reclining"
+"quick_gloss": "water-sleeping"
 },
 {
 "surface": "grahāvṛtaḥ",
-"quick_gloss": "planet-surrounded"
+"quick_gloss": "planet-covered"
 }
 ]
 },
@@ -320,12 +312,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "sā",
+"surface": "sā līḍho",
 "quick_gloss": "she-licked"
 },
 {
 "surface": "nandane",
-"quick_gloss": "nandana"
+"quick_gloss": "in-nandana"
 },
 {
 "surface": "rāgī",
@@ -337,7 +329,7 @@
 },
 {
 "surface": "cāpeṣubhṛcchubhaḥ",
-"quick_gloss": "bow-arrow-bearing-auspicious"
+"quick_gloss": "bow-arrow-bearer-auspicious"
 }
 ]
 },
@@ -358,7 +350,7 @@
 },
 {
 "surface": "pakṣijaṅgho",
-"quick_gloss": "bird-thighed"
+"quick_gloss": "bird-legged"
 },
 {
 "surface": "narāṅgakaḥ",
@@ -375,11 +367,11 @@
 "tokens": [
 {
 "surface": "vāmajānugato",
-"quick_gloss": "left-knee-on-ground"
+"quick_gloss": "left-knee-gone"
 },
 {
 "surface": "bhūmau",
-"quick_gloss": "bhumi"
+"quick_gloss": "on-earth"
 },
 {
 "surface": "tārkṣyaḥ",
@@ -400,7 +392,7 @@
 "tokens": [
 {
 "surface": "halaśaṅkhavaro",
-"quick_gloss": "plow-conch-excellent"
+"quick_gloss": "plough-conch-excellent"
 },
 {
 "surface": "mālī",
@@ -412,7 +404,7 @@
 },
 {
 "surface": "harergaṇaḥ",
-"quick_gloss": "hari-troop"
+"quick_gloss": "hari's-troop"
 }
 ]
 },
@@ -425,11 +417,11 @@
 "tokens": [
 {
 "surface": "padmasīradharaṃ",
-"quick_gloss": "lotus-sri-bearing"
+"quick_gloss": "lotus-sirin-bearer-left"
 },
 {
 "surface": "vāme",
-"quick_gloss": "left"
+"quick_gloss": "vāme"
 },
 {
 "surface": "śeṣe",
@@ -437,7 +429,7 @@
 },
 {
 "surface": "muśalagodvaham",
-"quick_gloss": "mace-goad-bearing"
+"quick_gloss": "mace-plough-bearer"
 }
 ]
 },
@@ -454,15 +446,15 @@
 },
 {
 "surface": "bhūṣaṇaiḥ",
-"quick_gloss": "ornaments"
+"quick_gloss": "ornaments-instr"
 },
 {
 "surface": "svaiḥ",
-"quick_gloss": "own"
+"quick_gloss": "own-instr"
 },
 {
 "surface": "svaiḥ",
-"quick_gloss": "own"
+"quick_gloss": "svaiḥ"
 },
 {
 "surface": "ūrdhvaṃ",
@@ -483,11 +475,11 @@
 "tokens": [
 {
 "surface": "akṣamālāṃ",
-"quick_gloss": "rosary"
+"quick_gloss": "rosary-acc"
 },
 {
 "surface": "triśūlaṃ",
-"quick_gloss": "trident"
+"quick_gloss": "trident-acc"
 },
 {
 "surface": "ca",
@@ -495,7 +487,7 @@
 },
 {
 "surface": "śaṅkhaṃ",
-"quick_gloss": "conch"
+"quick_gloss": "conch-acc"
 },
 {
 "surface": "ca",
@@ -503,7 +495,7 @@
 },
 {
 "surface": "kaumudīṃ",
-"quick_gloss": "kaumudi"
+"quick_gloss": "kaumudi-acc"
 },
 {
 "surface": "kramāt",
@@ -520,15 +512,11 @@
 "tokens": [
 {
 "surface": "puṃstrīsvarūpakaṃ",
-"quick_gloss": "male-female-form"
+"quick_gloss": "male-female-form-acc"
 },
 {
-"surface": "kuryāc",
+"surface": "kuryācchivanārāyaṇātmakam",
 "quick_gloss": "should-make"
-},
-{
-"surface": "śivanārāyaṇātmakam",
-"quick_gloss": "shiva-narayana-nature"
 }
 ]
 },
@@ -541,19 +529,15 @@
 "tokens": [
 {
 "surface": "brahmāṇaṃ",
-"quick_gloss": "brahma"
+"quick_gloss": "brahma-acc"
 },
 {
 "surface": "vratinaṃ",
 "quick_gloss": "vowed"
 },
 {
-"surface": "kuryāj",
+"surface": "kuryājjaṭāmukuṭabhūṣitam",
 "quick_gloss": "should-make"
-},
-{
-"surface": "jaṭāmukuṭabhūṣitam",
-"quick_gloss": "matted-crown-ornamented"
 }
 ]
 },
@@ -566,7 +550,7 @@
 "tokens": [
 {
 "surface": "kṛṣṇājinaṃ",
-"quick_gloss": "black-deer-skin"
+"quick_gloss": "black-deer-skin-acc"
 },
 {
 "surface": "ca",
@@ -574,11 +558,11 @@
 },
 {
 "surface": "tatskandhe",
-"quick_gloss": "that-shoulder"
+"quick_gloss": "that-shoulder-loc"
 },
 {
 "surface": "vastraṃ",
-"quick_gloss": "cloth"
+"quick_gloss": "cloth-acc"
 },
 {
 "surface": "ca",
@@ -599,19 +583,19 @@
 "tokens": [
 {
 "surface": "sruvaṃ",
-"quick_gloss": "sruva"
+"quick_gloss": "spoon-acc"
 },
 {
 "surface": "kamaṇḍaluṃ",
-"quick_gloss": "kamandalu"
+"quick_gloss": "waterpot-acc"
 },
 {
 "surface": "vāme",
-"quick_gloss": "left"
+"quick_gloss": "left-loc"
 },
 {
 "surface": "sakuśājyaghaṭaṃ",
-"quick_gloss": "with-kusha-ghee-pot"
+"quick_gloss": "with-kusha-ghee-pot-acc"
 },
 {
 "surface": "tathā",
@@ -628,7 +612,7 @@
 "tokens": [
 {
 "surface": "gāyatrīṃ",
-"quick_gloss": "gayatri"
+"quick_gloss": "gayatri-acc"
 },
 {
 "surface": "ca",
@@ -640,15 +624,11 @@
 },
 {
 "surface": "sāvitrīm",
-"quick_gloss": "savitrī"
+"quick_gloss": "savitrī-acc"
 },
 {
-"surface": "ṛṣīṃs",
-"quick_gloss": "sages"
-},
-{
-"surface": "tatpārśvayostathā",
-"quick_gloss": "their-sides"
+"surface": "ṛṣīṃstatpārśvayostathā",
+"quick_gloss": "rishis-acc"
 }
 ]
 }

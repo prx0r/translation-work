@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p11-v251
-[bound-red-lotus](ābaddhapāṭalollo) [and](ca) [jewel-mirror](maṇidarpaṇa) [chowrie](cāmaram)
+[bound-red-eye](ābaddhapāṭalollo) [and](ca) [jewel-mirror](maṇidarpaṇa) [yak-tail](cāmaram)
 
 ## mukta-m0-p11-v252
-[filled](saṃpūritaṃ) [various](bahuvidhaiḥ) [beautiful-offerings](naivedyairatiśobhanaiḥ)
+[filled](saṃpūritaṃ) [many-kinds](bahuvidhaiḥ) [splendid-offerings](naivedyairatiśobhanaiḥ)
 
 ## mukta-m0-p11-v253
-[threefold-and](trividhaiśca) [mind-stealing](manohāri) [fragrances](saurabhyaiḥ) [with-vessels](sarakairapi)
+[three-kinds](trividhaiśca) [mind-charming](manohāri) [fragrances](saurabhyaiḥ) [with-jars](sarakairapi)
 
 ## mukta-m0-p11-v254
-[flour-five-fingers-generous](piṣṭapaṃcāṃgulodāraṃ) [full-pot-endowed](pūrṇakuṃbhasamāyutam)
+[five-fingered-paste](piṣṭapaṃcāṃgulodāraṃ) [full-pot](pūrṇakuṃbhasamāyutam)
 
 ## mukta-m0-p11-v255
-[all-rites+skilled+favorable+activities](sarvakarmaṇipaṭvībhiranukūlapravṛttibhiḥ)
+[skilled-in-all-rites](sarvakarmaṇipaṭvībhiranukūlapravṛttibhiḥ)
 
 ## mukta-m0-p11-v256
-[entering-sacrifice-hall](praviśyayāgasadanaṃ) [seat-mantra](pīṭhamaṃtreṇa) [blanket](kaṃbale)
+[entering](praviśyayāgasadanaṃ) [seat-mantra](pīṭhamaṃtreṇa) [on-blanket](kaṃbale)
 
 ## mukta-m0-p11-v257
-[then-ganesha](tathāgaṇapatiṃ) [meditating](dhyātvā) [that-mantra-by](tanmaṃtreṇābhi) [worship](pūjayet)
+[meditating](tathāgaṇapatiṃ) [dhyātvā] [worship](tanmaṃtreṇābhi) [pūjayet]
 
 ## mukta-m0-p11-v258
-[lion-seat](siṃhāsana) [great-lady](maheśānīm) [worship-tripura-mother](arcayetripurāṃbikām)
+[lion-seat](siṃhāsana) [great-lady](maheśānīmarcayetripurāṃbikām)
 
 ## mukta-m0-p11-v259
-[jewel-island](ratnadvipaṃ) [then](tataḥ) [behind-various-tree-great-forest](paścānnānāvṛkṣamahāvanam)
+[jewel-elephant](ratnadvipaṃ) [then](tataḥ) [west](paścānnānāvṛkṣamahāvanam)
 
 ## mukta-m0-p11-v260
-[gomedhika's](gomedhikasya) [wall](prākāraṃ) [diamond-wall-indeed](vajraprākārameva) [and](ca)
+[gomedhika-wall](gomedhikasya) [prākāraṃ] [diamond-wall](vajraprākārameva) [ca]
 
 ## mukta-m0-p11-v261
-[pearl-made](muktāmayaṃ) [and](ca) [wall](prākāraṃ) [then-nectar-maker-made](tadāmṛtakaraṃmayam)
+[pearl-wall](muktāmayaṃ) [ca] [prākāraṃ] [nectar-making](tadāmṛtakaraṃmayam)
 
 ## mukta-m0-p11-v262
-[thousand-pillar-abode](sahasrastaṃbhanilayaṃ) [nectar](sudhā) [garden-next](vāṭimanaṃtaram)
+[thousand-pillars](sahasrastaṃbhanilayaṃ) [nectar-garden](sudhā) [vāṭimanaṃtaram]
 
 ## mukta-m0-p11-v263
-[young-sun-emission](bālātapasamudgāraṃ) [moonlight-from](caṃdrikād) [house-indeed](gārameva) [and](ca)
+[morning-sun-rays](bālātapasamudgāraṃ) [moonlight](caṃdrikād) [gārameva] [ca]
 
 ## mukta-m0-p11-v264
-[wish-gem-house](ciṃtāmaṇigṛhaṃ) [and-indeed](caiva) [house-king](gṛharājaṃ) [worship](samarcayet)
+[wish-gem-house](ciṃtāmaṇigṛhaṃ) [caiva] [house-king](gṛharājaṃ) [worship](samarcayet)
 
 ## mukta-m0-p11-v265
-[jewel-lamp-circle](ratnapradīpavalayaṃ) [middle](madhye) [lion-seat](siṃhāsanaṃ) [thus](tathā)
+[jewel-lamp-circle](ratnapradīpavalayaṃ) [middle](madhye) [lion-seat](siṃhāsanaṃ) [tathā]
 
 ## mukta-m0-p11-v266
-[foot-above-planks+worshipped+cot+worship](pādopariṣṭaphalakairarcitaṃmaṃcamarcayet)
+[foot-above-planks](pādopariṣṭaphalakairarcitaṃ) [couch](maṃcamarcayet)
 
 ## mukta-m0-p11-v267
-[root-middle-worship](mūlenamadhyamabhyarcya) [root-pieces-triangle](mūlakhaṃḍaistrikoṇakam)
+[root-middle](mūlenamadhyamabhyarcya) [root-pieces](mūlakhaṃḍaistrikoṇakam)
 
 ## mukta-m0-p11-v268
-[thrice-breaths](triḥprāṇān) [gathering](samudāyamya) [element-covering-science](bhūtāvaraṇavidyayā)
+[three-breaths](triḥprāṇān) [gathered](samudāyamya) [element-cover-mantra](bhūtāvaraṇavidyayā)
 
 ## mukta-m0-p11-v269
-[hand-purity-known+hand-purity+tearing](karaśuddhakhyamanunākaraśuddhiṃvidārayan)
+[hand-purification](karaśuddhakhyamanunākaraśuddhiṃ) [vidārayan]
 
 ## mukta-m0-p11-v270
-[goddess-self-seat-mantra](devyātmāsanamaṃtreṇa) [own-seat](svasyāsanam) [declared](udīritam)
+[goddess-seat-mantra](devyātmāsanamaṃtreṇa) [own-seat](svasyāsanamudīritam)
 
 ## mukta-m0-p11-v271
-[mantras'-seat](maṃtrāṇāmāsane) [all-mantra-seat](sarvamaṃtrāsanam) [anu](anuṃ) [know](viduḥ)
+[mantra-seat](maṃtrāṇāmāsane) [all-mantra-seat](sarvamaṃtrāsanamanuṃ) [viduḥ]
 
 ## mukta-m0-p11-v272
-[thus](iti) [seats](pīṭhāni) [resolving](saṃkalpya) [bala-wrapping](bālāvṛtyā) [six-limbs](ṣaḍaṃgakam)
+[thus-seats](iti) [pīṭhānisaṃkalpya] [bālāvṛtyā] [six-limbs](ṣaḍaṃgakam)
 
 ## mukta-m0-p11-v273
-[with-tones](svaraistu) [vashini](vaśinī) [joined](yuktā) [head](śirasi) [placed](nyasyate) [dear](priye)
+[tones](svaraistuvaśinī) [yuktā] [head](śirasinyasyate) [priye]
 
 ## mukta-m0-p11-v274
-[modini](modinī) [but](tu) [between-brows](bhruvormadhye) [and](ca) [group-endowed](vargena+samanvitā)
+[modinī](modinī) [tu] [between-brows](bhruvormadhye) [ca] [group](vargena) [samanvitā]
 
 ## mukta-m0-p11-v275
-[aruna-heart](aruṇāhṛdayet) [may-go](yasyāt) [ta-group](tavargeṇa) [adorned](vibhūṣitā)
+[aruṇā-heart](aruṇāhṛdayet) [yasyāt] [tavargaṇavibhūṣitā]

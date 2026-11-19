@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p56-v1376
-[in-winter](hemante) [knowledge-giving](jñānadaṃ) [linga](liṅgaṃ) [in-cool-season](śiśire) [all-beings-giving](sarvabhūtidam)
+in-winter knowledge-giving linga in-cool-season all-beings-giving
 
 ## mukta-m0-p56-v1377
-[of-ascetics](yatīnāṃ) [at-all-times](sarvakāleṣu) [linga-installation](liṅgasyāropaṇaṃ) [accepted](matam)
+for-ascetics all-times linga-installation considered
 
 ## mukta-m0-p56-v1378
-[in-southern-course](dakṣiṇetvayane) [not-to-be-worshipped](apūjyaṃ) [beyond-three-years](trivarṣordhvaṃ) [fear-bringing](bhayāvaham)
+in-southern-ayana not-worshipable beyond-three-years fear-bringing
 
 ## mukta-m0-p56-v1379
-[for-decay](kṣayāya) [for-growth](bṛddhaye) [may-it-be](syāt) [ca](ca) [in-southern](yāmye) [in-auspicious](saumye) [other](apare) [sun](ravau)
+for-decay for-growth and in-southern in-northern other sun
 
 ## mukta-m0-p56-v1380
-[six-six-months-beyond](ṣaṭṣaṇmāsottarān) [three-years](tryabdān) [from-me](mayamatāt) [fruit](phalaṃ) [in-order](kramāt)
+six-six-months-beyond three-years maya-opinion result gradually
 
 ## mukta-m0-p56-v1381
-[black-magic](abhicāro) [becomes](bhavet) [there](tatra) [placed](sthāpite) [in-southern](dakṣiṇe) [course](ayane)
+black-magic becomes there installed southern-ayana
 
 ## mukta-m0-p56-v1382
-[boys](kumārāḥ) [are-afflicted](saṃprapīḍyante) [loss-of-girls](kanyānāśaḥ) [ca](ca) [arises](jāyate)
+boys oppressed girls-loss and arises
 
 ## mukta-m0-p56-v1383
-[of-maker](kartuḥ) [decay](kṣayaḥ) [constant-sorrow](sadāśokaḥ) [in-house](gṛhe) [becomes](bhavati) [terrible](dāruṇaḥ)
+doer's decay constant-sorrow house becomes terrible
 
 ## mukta-m0-p56-v1384
-[desiring-auspicious](śubhārthī) [not-should-proceed](na-pravarteta) [of-goddess](devyāḥ) [mantra-etc-scripture](mantrādiśāstrataḥ)
+auspicious-seeker not proceed goddess mantra-etc-scripture
 
 ## mukta-m0-p56-v1385
-[therefore-place](tasmātsthānaṃ) [guru](guruṃ) [having-obtained](prāpya) [for-protection](rakṣaye) [from-black-magic](dābhicārikam)
+therefore place guru obtaining protect from-black-magic
 
 ## mukta-m0-p56-v1386
-[installation](sthāpanaṃ) [tu](tu) [should-be-done](prakartavyaṃ) [from-cool-season](śiśirādau) [in-three-seasons](ṛtutraye)
+installation indeed to-be-done cool-season etc three-seasons
 
 ## mukta-m0-p56-v1387
-[with-moon-star-yoga](sacandratārakāyoge) [with-good-lagna-karana](sulagnakaraṇānvite)
+with-moon-star-yoga good-lagna-karana-endowed
 
 ## mukta-m0-p56-v1388
-[in-non-dual](advaite) [ca](ca) [eva](eva) [in-dark](kṛsṇe) [api](api) [mantra-form](mantramūrti) [by-distinction](prabhedataḥ)
+non-dual and indeed krishna too mantra-form distinction
 
 ## mukta-m0-p56-v1389
-[pancaratra-worthy](pāñcarātrārharet) [mixed](miśrā) [fifty-years-establishment](pañcāśadvarṣasaṃsthitiḥ)
+pancaratra-worthy mixed fifty-years-duration
 
 ## mukta-m0-p56-v1390
-[hundred-years](śātābdorvbaṃ) [tu](tu) [sā](sā) [stands](tiṣṭhet) [banalinga](vāṇaliṅgaṃ) [like-self-born](svayambhubat)
+hundred-years maybe it stands bana-linga like-self-born
 
 ## mukta-m0-p56-v1391
-[of-many-meanings](bahvarthatvānipātānāṃ) [purification-etc](saṃskārādau) [installation](pratiṣṭhitiḥ)
+many-meanings fall of-rites beginning installation
 
 ## mukta-m0-p56-v1392
-[purified](saṃskṛtā) [substance-mantra-purification](dravyasanmantrasaṃskṛtiryā) [divine](suragya) [ca](ca)
+purified substances mantra-purification which divine-worthy and
 
 ## mukta-m0-p56-v1393
-[image](pratimāṃ) [with-five-divisions](pañcabhedaistu) [installation](pratiṣṭhā) [fivefold](pañcadhoditā)
+image five-divisions indeed installation fivefold-declared
 
 ## mukta-m0-p56-v1394
-[second](dvitīyā) [long-life](āyumati) [gives](dadyāt) [third](tṛtīyā) [son-prosperity](putrasaṃpadaḥ)
+second life-giving gives third son-prosperity
 
 ## mukta-m0-p56-v1395
-[tenth](daśamī) [land-gain](bhūmilābhaṃ) [ca](ca) [good-fortune](saubhāgyaṃ) [ca](ca) [thirteenth](trayodaśī)
+tenth land-gain and good-fortune and thirteenth
 
 ## mukta-m0-p56-v1396
-[one-maker](ekartuśaṅkarairnandā) [bhadrā](bhadrā) [pakṣa-rishi-sun](pakṣarṣibhānubhiḥ)
+one-doer shankara nanda bhadrā fortnight-rishi-sun
 
 ## mukta-m0-p56-v1397
-[arrow-direction-tithi](bāṇadiktithibhiḥ) [full](pūrṇā) [deficient-equal-harmful](hīnatulyāhitāḥ) [in-order](kramāt)
+bana-direction-tithi full deficient-equal-auspicious gradually
 
 ## mukta-m0-p56-v1398
-[jupiter](vṛhaspatiḥ) [two-five-years](dvipañcāyuḥ) [budha](budyo) [victory-wealth](jayadhanāni) [ca](ca)
+jupiter two-five-age buddhi victory-wealth and
 
 ## mukta-m0-p56-v1399
-[cancer](karka) [taurus-libra-sagittarius](vṛṣatulācāpa) [woman-lion-graha-pair](strīsiṃhagrāhayugmake)
+cancer taurus libra sagittarius woman lion planet-pair
 
 ## mukta-m0-p56-v1400
-[six-eight-four-yama](ṣaḍaṣṭacaturoyāmāt) [four](catū) [rashi-order](rāśikrameṇa) [tu](tu)
+six-eight-four-yama four zodiac-order indeed
