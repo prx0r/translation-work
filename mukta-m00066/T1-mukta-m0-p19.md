@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p19-v451
-kuṃkuma (saffron) drava (liquid) saṃkāśaṃ (resembling) vilīna (dissolved) aśeṣa (all) ceṣṭitam (activity)
+[saffron-liquid-resembling](kuṃkumadravasaṃkāśaṃ) [dissolved-all](vilīnāśeṣa) [activity](ceṣṭitam)
 
 ## mukta-m0-p19-v452
-rakṣitaṃ (protected) bhāvayed (should-meditate) devī (goddess) tasyāḥ (her) caṃdra (moon) kala (crescent) udaye (rise)
+[protected](rakṣitaṃ) [meditate](bhāvayed) [goddess](devī) [her](tasyāḥ) [moon-crescent-rise](caṃdrakalodaye)
 
 ## mukta-m0-p19-v453
-sadyaḥ (immediately) pulakita (horripilated) ākāraḥ (form) bhāvaḥ (emotion) kaḥ (some) api (indeed) vijṛṃbhate (manifests)
+[immediately](sadyaḥ) [horripilation-form](pulakitākāraḥ) [feeling](bhāvaḥ) [some](ko'pi) [manifests](vijṛṃbhate)
 
 ## mukta-m0-p19-v454
-nṛtyati (dances) iva (like) samutkaṃṭhā (eager) nṛtyati (dances) va (and) śira (head) āmukham (mouth) [kh: śivā-]
+[dancing-intensely](nṛtyatīva) [longing](samutkaṃṭhā) [dancing](nṛtyatī) [indeed](va) [head-face](śirāmukham)
 
 ## mukta-m0-p19-v455
-dūtikā (messenger) smara (love) geha (house) sthāṃ (dwelling) bhaga (bhaga) mālāṃ (garland) samarcayet (should-worship)
+[messenger](dūtikā) [love](smara) [house-dwelling](gehasthāṃ) [bhagamala](bhagamālāṃ) [worship](samarcayet)
 
 ## mukta-m0-p19-v456
-tasyāḥ (her) ca (and) arcana (worship) bhedaḥ (difference) tu (but) vaktavyaḥ (to-be-told) parameśvara (supreme-lord)
+[her](tasyāḥ) [worship](arcana) [difference](bhedas) [indeed](tu) [to-be-spoken](vaktavyaḥ) [supreme-lord](parameśvara)
 
 ## mukta-m0-p19-v457
-bhaga (bhaga) mālī (garlanded) iti (thus) niḥśeṣa (entire) bhaga (bhaga) cakra (wheel) abhimāninī (identified)
+[bhagamali](bhagamālī) [thus](iti) [complete](niḥśeṣa) [bhagachakra-identifying](bhagacakrābhimāninī)
 
 ## mukta-m0-p19-v458
-viśva (universe) saṃohana (enchaining) ākārā (form) viśva (universe) janma (birth) mahā (great) sthali (site) [kh: -sthiti]
+[world-enchanting-form](viśvasaṃohanākārā) [world-birth-great-place](viśvajanmamahāsthali)
 
 ## mukta-m0-p19-v459
-kāla (time) rūpā (form) akāla (untimely) karī (doing) kāla (time) grasana (devouring) lālasā (desirous)
+[time-form](kālarūpā) [time-maker](akālakarī) [time-devouring-eager](kālagrasanalālasā)
 
 ## mukta-m0-p19-v460
-samasteṣu (in-all) śarīreṣu (bodies) puṃsām (of-men) strīṇām (of-women) atha (and) api (also) vā (or)
+[all](samasteṣu) [bodies](śarīreṣu) [men](puṃsāṃ) [women](strīṇām) [also](atha) [indeed](api) [or](vā)
 
 ## mukta-m0-p19-v461
-saṃhitā (collection) śata (hundred) sāhasre (thousand) yad (which) arthe (purpose) kīrtyate (is-praised) mayā (by-me)
+[samhita](saṃhitā) [hundred-thousand](śatasāhasre) [for-which](yadarthe) [praised](kīrtyate) [by-me](mayā)
 
 ## mukta-m0-p19-v462
-nitya (eternal) anaṃga (cupid) mada (pride) unmattā (intoxicated) yauvanena (by-youth) ati (very) garvitā (proud)
+[eternal-cupid](nityānaṃga) [intoxication-maddened](madonmattā) [by-youth](yauvanena) [very-proud](atigarvitā)
 
 ## mukta-m0-p19-v463
-pāśa (noose) aṃkuśau (goads) karaṃ (hand) dhanva (bow) tadā (then) vā (or) madhu (honey) bhājanam (vessel)
+[noose-goad](pāśāṃkuśau) [hand](karaṃ) [bow](dhanva) [then](tadā) [or](vā) [honey-vessel](madhubhājanam)
 
 ## mukta-m0-p19-v464
-prasanna (serene) vadana (face) ambhojā (lotus) mada (intoxication) rakta (red) vilocanā (eyed)
+[cheerful-face-lotus](prasannavadanāṃbhojā) [intoxication-red-eyed](madaraktavilocanā)
 
 ## mukta-m0-p19-v465
-sva (own) rakta (red) kānti (radiance) śaṭībhiḥ (garments) eva (indeed) āvṛta (covered) nitaṃba (hip) bhūḥ (region) [kh: [kh: -śāṭībhi-]
+[own-red-radiance-garments](svaraktakāṃtiśaṭībhiḥ) [indeed](eva) [covered-hips](āvṛtanitaṃbabhūḥ)
 
 ## mukta-m0-p19-v466
-digaṃbarābhiḥ (sky-clad) anyābhiḥ (other) śaktibhiḥ (powers) parivāritā (surrounded)
+[sky-clad](digaṃbarābhiḥ) [other](anyābhiḥ) [powers](śaktibhiḥ) [surrounded](parivāritā)
 
 ## mukta-m0-p19-v467
-evaṃ (thus) dhyeyā (to-be-meditated) maheśāni (great-goddess) devatā (deity) bhaga (bhaga) mālinī (garlanded)
+[thus](evaṃ) [meditable](dhyeyā) [great-goddess](maheśāni) [deity](devatā) [bhagamalini](bhagamālinī)
 
 ## mukta-m0-p19-v468
-tripurā (tripura) arghya (offering) ambunā (water) prokṣya (sprinkling) dūtyāḥ (messenger's) smara (love) niketanam (abode)
+[tripura-arghya-water](tripurārghyāṃbunā) [sprinkling](prokṣya) [messenger's](dūtyāḥ) [love-abode](smaraniketanam)
 
 ## mukta-m0-p19-v469
-trikoṇaṃ (triangle) paṃcakoṇaṃ (pentagon) ca (and) sāṣṭāraka (with-eight) catur (four) dalam (petals)
+[triangle](trikoṇaṃ) [pentagon](paṃcakoṇaṃ) [and](ca) [eight-starred-four-petaled](sāṣṭārakacaturddalam)
 
 ## mukta-m0-p19-v470
-madhye (in-middle) jayet (should-conquer) mahādevīṃ (great-goddess) mādyaṃtīṃ (intoxicating) bhaga (bhaga) mālinīm (garlanded)
+[middle](madhye) [conquer](jayet) [great-goddess](mahādevīṃ) [delighting](mādyaṃtīṃ) [bhagamalini](bhagamālinīm)
 
 ## mukta-m0-p19-v471
-bhaga (bhaga) guhyaṃ (secret) bhaga (bhaga) yoniṃ (womb) tathā (and) bhaga (bhaga) nipātinīm (descending)
+[bhaga-secret](bhagaguhyaṃ) [bhaga-yoni](bhagayoniṃ) [also](tathā) [bhaga-descending](bhaganipātinīm)
 
 ## mukta-m0-p19-v472
-bhaga (bhaga) rūpāṃ (formed) tadā (then) devīṃ (goddess) nitya (ever) klinna (moist) ambikām (mother) api (also)
+[bhaga-form](bhagarūpāṃ) [then](tadā) [goddess](devīṃ) [ever-wet-mother](nityaklinnāmbikām) [also](api)
 
 ## mukta-m0-p19-v473
-bhaga (bhaga) klinnā (moist) aṣṭamīṃ (eighth) ca (and) sādhaka (adept) vidhi (ritual) varttanā (conduct)
+[bhaga-wet-eighth](bhagaklinnāmaṣṭamīṃ) [and](ca) [adept-rite-conduct](sādhakovidhivarttanā)
 
 ## mukta-m0-p19-v474
-amogha (unfailing) bhaga (bhaga) vidyā (knowledge) ca (and) caturthī (fourth) tu (but) bhaga (bhaga) īśvarī (lady)
+[unfailing-bhaga-vidya](amoghabhagavidyā) [and](ca) [fourth](caturthi) [indeed](tu) [bhaga-lady](bhageśvarī)
 
 ## mukta-m0-p19-v475
-tripurā (tripura) arghya (offering) sthitaiḥ (established) eva (indeed) biṃdubhiḥ (with-dots) tat (that) prapūjayet (should-worship)
+[tripura-arghya](tripurārghya) [established](sthitaireva) [bindus](biṃdubhiḥ) [that](tat) [worship](prapūjayet)

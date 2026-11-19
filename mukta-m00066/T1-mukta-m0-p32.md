@@ -2,76 +2,52 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p32-v776
-[worship-lingam](arcayelliṃgam) [ishana](īśānamiyamādyā) [oblation](mayāhutiḥ)
-
+[pada](arcayelliṃgamīśānamiyamādyā) [pada](mayāhutiḥ)
 ## mukta-m0-p32-v777
-[moon-womb](caṃdragarbheti) [some](kāpyasti) [channel-eye](nāḍīnalinalocane)
-
+[pada](caṃdragarbheti) [pada](kāpyasti) [pada](nāḍīnalinalocane)
 ## mukta-m0-p32-v778
-[there](tatratyam) [nectar](amṛtaṃ) [know](viddhi) [kameshvari-boon-giving](kāmeśvaryuktibhūtidam)
-
+[pada](tatratyamamṛtaṃ) [pada](viddhi) [pada](kāmeśvaryuktibhūtidam)
 ## mukta-m0-p32-v779
-[slightly-pink](īṣatpāṭalavarṇaṃ) [and](ca) [jasmine-like-fragrance](yūthikāsamasaurabham)
-
+[pada](īṣatpāṭalavarṇaṃ) [pada](ca) [pada](yūthikāsamasaurabham)
 ## mukta-m0-p32-v780
-[with-bhava](sabhavatyaṃ) [completed](samāpanno) [water-nature](jaladatvaṃ) [subdue](vaśīkriyāt)
-
+[pada](sabhavatyaṃ) [pada](samāpanno) [pada](jaladatvaṃ) [pada](vaśīkriyāt)
 ## mukta-m0-p32-v781
-[not](na) [lake-deva](sarodeva) [in-swans](svāteṣu) [slip](skhalitaṃ) [going](gamanaṃ) [be](bhavet)
-
+[pada](na) [pada](sarodeva) [pada](svāteṣu) [pada](skhalitaṃ) [pada](gamanaṃ) [pada](bhavet)
 ## mukta-m0-p32-v782
-[moon-intoxicated](caṃdonmattā) [foot-place](padasthāne) [moon-womb](caṃdragarbhā) [proclaimed](prakīrttitā)
-
+[pada](caṃdonmattā) [pada](padasthāne) [pada](caṃdragarbhā) [pada](prakīrttitā)
 ## mukta-m0-p32-v783
-[here-messenger](atradūtyāḥ) [body](śarīrasya) [before-too](pūrvatrāpi) [ten-states](daśābruve)
-
+[pada](atradūtyāḥ) [pada](śarīrasya) [pada](pūrvatrāpi) [pada](daśābruve)
 ## mukta-m0-p32-v784
-[slightly-reddish-eyes](īṣadāraktatānetre) [somewhat](kiṃcidbhūvallitāṃḍavaṃ)
-
+[pada](īṣadāraktatānetre) [pada](kiṃcidbhūvallitāṃḍavaṃ)
 ## mukta-m0-p32-v785
-[anandanatha](ānaṃdanātha) [mansion](bhavana) [outer-court](bāhyakakṣyā) [entering](vigāhanam)
-
+[pada](ānaṃdanātha) [pada](bhavana) [pada](bāhyakakṣyā) [pada](vigāhanam)
 ## mukta-m0-p32-v786
-[of-breasts](stanayoḥ) [hair-erect-sprout](pulakāṃkūraḥ) [of-cheeks](gaṃḍayoścānuraktatā)
-
+[pada](stanayoḥ) [pada](pulakāṃkūraḥ) [pada](gaṃḍayoścānuraktatā)
 ## mukta-m0-p32-v787
-[thus](evaṃ) [manner](prakārā) [she](sā) [messenger](dūtī) [moon-womb-nectar-fluids](caṃdragarbhāmṛtadravaiḥ)
-
+[pada](evaṃ) [pada](prakārā) [pada](sā) [pada](dūtī) [pada](caṃdragarbhāmṛtadravaiḥ)
 ## mukta-m0-p32-v788
-[worship-anandanatha](yajedānaṃdanāthaṃ) [she](sā) [hero-like-fruit](vīravatphalamaśnute)
-
+[pada](yajedānaṃdanāthaṃ) [pada](sā) [pada](vīravatphalamaśnute)
 ## mukta-m0-p32-v789
-[meaning-finger](arthāṃguli) [raised](samunnamra) [heated-gold-like](taptakāṃcanasannibhā)
-
+[pada](arthāṃguli) [pada](samunnamra) [pada](taptakāṃcanasannibhā)
 ## mukta-m0-p32-v790
-[of-her-moon-channel](tasyāścaṃdriṇikānāyā) [more-lingam-dance](bhūyoliṃgeśatāḍavāt)
-
+[pada](tasyāścaṃdriṇikānāyā) [pada](bhūyoliṃgeśatāḍavāt)
 ## mukta-m0-p32-v791
-[kadamba-liquor](kādaṃbarī) [rasa-fragrant](rasāmodīmānmadaṃtoya) [mud-born](mudbhavet)
-
+[pada](kādaṃbarī) [pada](rasāmodīmānmadaṃtoya) [pada](mudbhavet)
 ## mukta-m0-p32-v792
-[godavari](godāvarī) [tirtha-filled](tīrthamayī) [by-her](tayā) [sprinkle](siṃcenmaheśvaram)
-
+[pada](godāvarī) [pada](tīrthamayī) [pada](tayā) [pada](siṃcenmaheśvaram)
 ## mukta-m0-p32-v793
-[rudra-limit-devotee](rudratvasīmābhaktasya) [fire-principle](vahnitattva) [subjection](vaśīkṛtim)
-
+[pada](rudratvasīmābhaktasya) [pada](vahnitattva) [pada](vaśīkṛtim)
 ## mukta-m0-p32-v794
-[extends](tanoti) [lord](bhagavāneṣaḥ) [great-bliss](mahānaṃda) [maheshvara](maheśvaraḥ)
-
+[pada](tanoti) [pada](bhagavāneṣaḥ) [pada](mahānaṃda) [pada](maheśvaraḥ)
 ## mukta-m0-p32-v795
-[uma-burn](umedāhaṃ) [give](prayacchaṃti) [self-fire](svayamagni) [mayoyataḥ](mayoyataḥ)
-
+[pada](umedāhaṃ) [pada](prayacchaṃti) [pada](svayamagni) [pada](mayoyataḥ)
 ## mukta-m0-p32-v796
-[of-this-mantra](asyāmaṃtrastu) [fair-hipped](suśroṇī) [hear](śrūyatāmabhidhīyate)
-
+[pada](asyāmaṃtrastu) [pada](suśroṇī) [pada](śrūyatāmabhidhīyate)
 ## mukta-m0-p32-v797
-[worship](arcayāmi) [your-limb](bhavadgātra) [from-me](mataḥ) [success](siddhiṃ) [give](prayacchame)
-
+[pada](arcayāmi) [pada](bhavadgātra) [pada](mataḥ) [pada](siddhiṃ) [pada](prayacchame)
 ## mukta-m0-p32-v798
-[then-other-channel-goddess](athānyanāḍikādevī) [who](yā) [she](sā) [moon-rise](caṃdramahodayā)
-
+[pada](athānyanāḍikādevī) [pada](yā) [pada](sā) [pada](caṃdramahodayā)
 ## mukta-m0-p32-v799
-[inside](aṃtaḥ) [somewhat-dark](kiṃcicchyāmavarṇātriṣu) [in-three-places](sthāneṣu) [curved](vakritā)
-
+[pada](aṃtaḥ) [pada](kiṃcicchyāmavarṇātriṣu) [pada](sthāneṣu) [pada](vakritā)
 ## mukta-m0-p32-v800
-[play-nectar](līlānamrita) [fair-limbed](gaurāṃgī) [moving-brow-creeper-radiant](valadbhrūvallibhāsurā)
+[pada](līlānamrita) [pada](gaurāṃgī) [pada](valadbhrūvallibhāsurā)
