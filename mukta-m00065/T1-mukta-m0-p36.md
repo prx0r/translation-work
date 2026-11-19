@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p36-v876
-[yoga+gesture](yogamudrāṃ) [and](ca) [conch](śaṅkhaṃ) [and](ca) [mace+disc+holder](gadācakradharaṃ) [pair](dvayam)
+[yoga-mudra](yogamudrāṃ) [and](ca) [conch](śaṅkhaṃ) [and](ca) [mace-disc-bearer](gadācakradharaṃ) [pair](dvayam)
 
 ## mukta-m0-p36-v877
-[gesture](mudrāṃ) [one-should-make](kuryād)[heart+situated](dhṛdisthāṃ) [and](ca) [entire+sin+destroying](aśeṣāghapraṇāśinīm)
+[mudra](mudrāṃ) [should-make](kuryāddhṛdisthāṃ) [heart-placed](hṛdisthāṃ) [and](ca) [all-sin-destroying](aśeṣāghapraṇāśinīm)
 
 ## mukta-m0-p36-v878
-[vessel+peace+holder](pātraśāntidharaṃ) [on-the-right](yāmye) [on-the-left](vāmake) [lotus+plough-holders](padmasīriṇau)
+[vessel-peace-bearer](pātraśāntidharaṃ) [right-side](yāmye) [left](vāmake) [lotus-sirin](padmasīriṇau)
 
 ## mukta-m0-p36-v879
-[with-kaumodakī-mace](kaumodyā) [with-weapon+king](hetirājena) [with-pāñcajanya+lotus](pāñcajanyāmbujena) [and](ca)
+[kaumodi](kaumodyā) [weapon-king](hetirājena) [panchajanya](pāñcajanyā) [lotus](ambujena) [and](ca)
 
 ## mukta-m0-p36-v880
-[nārāyaṇa+beginning-with+five](nārāyaṇādipañca)[other](anyat) [previously+mentioned](pūrvokta)[hand+weapon+bearing](karaśastrabhṛt)
+[narayana-etc-five-other](nārāyaṇādipañcānyat) [previously-spoken-hand-weapon-bearer](pūrvoktakaraśastrabhṛt)
 
 ## mukta-m0-p36-v881
-[with-these](ebhir)[endowed](yuktaṃ) [nine+formation](navavyūhaṃ) [to-be-known](jñātavyaṃ) [by-teacher+best](daiśikottamaiḥ)
+[by-these](ebhiryuktaṃ) [nine-formation](navavyūhaṃ) [to-be-known](jñātavyaṃ) [by-best-teachers](daiśikottamaiḥ)
 
 ## mukta-m0-p36-v882
-[left+lap](vāmotsaṅga)[held+śrī](dhṛtaśrīkam) [half+moon+seat](ardhacandrāsane) [situated](sthitam)
+[left-lap-held-shri](vāmotsaṅgadhṛtaśrīkam) [half-moon-seat](ardhacandrāsane) [seated](sthitam)
 
 ## mukta-m0-p36-v883
-[that+right](tad)[right](dakṣiṇaṃ) [hand](karaṃ) [on-shoulder](skandhe) [of-god+of-gods](devadevasya) [on-right](dakṣiṇe)
+[that-right](taddakṣiṇaṃ) [hand](karaṃ) [on-shoulder](skandhe) [of-god-of-gods](devadevasya) [right](dakṣiṇe)
 
 ## mukta-m0-p36-v884
-[lotus+seated](padmastho) [rolling+eyes](ghūrṇitākṣaś)[and](ca) [by-singer+dancer-groups](gātṛnartanakair)[surrounded](vṛtaḥ)
+[lotus-seated](padmastho) [rolling-eyed](ghūrṇitākṣaśca) [and](ca) [by-singers-dancers](gātṛnartanakairvṛtaḥ)
 
 ## mukta-m0-p36-v885
-[by-non-dual](advaitena) [by-method](vidhānena) [to-be-worshipped](pūjanīyo) [by-the-wise](vipaścitā)
+[by-non-duality](advaitena) [rite](vidhānena) [to-be-worshipped](pūjanīyo) [by-wise](vipaścitā)
 
 ## mukta-m0-p36-v886
-[yoga+sleep+supreme+state](yoganidrāparāvasthaḥ) [asleep](supto)[on-ananta+body]('nantatanūpari)
+[yoga-sleep-supreme-state](yoganidrāparāvasthaḥ) [sleeping](supto) [on-ananta-body](anantatanūpari)
 
 ## mukta-m0-p36-v887
-[foot+clinging](pādalagnā) [earth+goddess](dharādevī) [water+reclining](jalaśāyī) [surrounded-by-seizers](grahāvṛtaḥ)
+[earth-goddess-foot-clinging](pādalagnā) [earth-goddess](dharādevī) [water-sleeping](jalaśāyī) [planet-covered](grahāvṛtaḥ)
 
 ## mukta-m0-p36-v888
-[risen+lotus](ābhyuttha)[lotus+mounted](paṅkajārūḍhaḥ) [grandfather](pitāmaha)[accompanied](samanvitaḥ)
+[lotus-risen](ābhyutthapaṅkajārūḍhaḥ) [grandfather-accompanied](pitāmahasamanvitaḥ)
 
 ## mukta-m0-p36-v889
-[she](sā) [embraced](līḍho) [in-delight](nandane) [passionate](rāgī) [always](sadā) [bow+arrow+bearing+auspicious](cāpeṣubhṛcchubhaḥ)
+[she-licked](sā) [nandana](nandane) [passionate](rāgī) [always](sadā) [bow-arrow-bearer-auspicious](cāpeṣubhṛcchubhaḥ)
 
 ## mukta-m0-p36-v890
-[high+nosed](tuṅgaghrāṇo) [human+footed](narāṅghir)[or](vā) [bird+thighed](pakṣijaṅgho) [human+bodied](narāṅgakaḥ)
+[high-nosed](tuṅgaghrāṇo) [man-foot](narāṅghirvā) [bird-thighed](pakṣijaṅgho) [man-bodied](narāṅgakaḥ)
 
 ## mukta-m0-p36-v891
-[left+knee+gone](vāmajānugato) [on-ground](bhūmau) [tārkṣya](tārkṣyaḥ) [wing+endowed](pakṣasamanvitaḥ)
+[left-knee-on-ground](vāmajānugato) [earth](bhūmau) [garuda](tārkṣyaḥ) [wing-accompanied](pakṣasamanvitaḥ)
 
 ## mukta-m0-p36-v892
-[plough+conch+excellent](halaśaṅkhavaro) [garlanded](mālī) [viśvaksena](viśvakseno) [of-hari](harer)[attendant](gaṇaḥ)
+[plow-conch-garlanded](halaśaṅkhavaro) [mali](mālī) [vishvaksena](viśvakseno) [of-hari-troop](harergaṇaḥ)
 
 ## mukta-m0-p36-v893
-[lotus+plough+holder](padmasīradharaṃ) [on-left](vāme) [on-śeṣa](śeṣe) [pestle+plough+bearing](muśalagodvaham)
+[lotus-sira-bearer](padmasīradharaṃ) [left](vāme) [shesha](śeṣe) [mace-plow-bearer](muśalagodvaham)
 
 ## mukta-m0-p36-v894
-[in-half+in-half](ardhe')[in-half](rdhe) [with-ornaments](bhūṣaṇaiḥ) [with-own](svaiḥ) [with-own](svair)[endowed](yuktam)[above](ūrdhvaṃ) [lotus+situated](kajasthitam)
+[half-half](ardhe'rdhe) [ornaments](bhūṣaṇaiḥ) [own](svaiḥ) [own](svaiḥ) [yoked-above](yuktamūrdhvaṃ) [lotus-seated](kajasthitam)
 
 ## mukta-m0-p36-v895
-[rosary](akṣamālāṃ) [trident](triśūlaṃ) [and](ca) [conch](śaṅkhaṃ) [and](ca) [mace](kaumudīṃ) [in-order](kramāt)
+[rosary](akṣamālāṃ) [trident](triśūlaṃ) [and](ca) [conch](śaṅkhaṃ) [and](ca) [kaumudi](kaumudīṃ) [in-order](kramāt)
 
 ## mukta-m0-p36-v896
-[male+female+formed](puṃstrīsvarūpakaṃ) [one-should-make](kuryāc)[śiva+nārāyaṇa+natured](chivanārāyaṇātmakam)
+[male-female-form](puṃstrīsvarūpakaṃ) [should-make](kuryācchivanārāyaṇātmakam) [shiva-narayana-nature](śivanārāyaṇātmakam)
 
 ## mukta-m0-p36-v897
-[brahmā](brahmāṇaṃ) [vow-observing](vratinaṃ) [one-should-make](kuryāj)[matted-hair+crown+adorned](jaṭāmukuṭabhūṣitam)
+[brahma](brahmāṇaṃ) [vowed](vratinaṃ) [should-make](kuryājjaṭāmukuṭabhūṣitam) [matted-crown-ornamented](jaṭāmukuṭabhūṣitam)
 
 ## mukta-m0-p36-v898
-[black+antelope-skin](kṛṣṇājinaṃ) [and](ca) [on-his+shoulder](tatskandhe) [garment](vastraṃ) [and](ca) [skin+garment](ajinavāsasam)
+[black-deer-skin](kṛṣṇājinaṃ) [and](ca) [that-shoulder](tatskandhe) [garment](vastraṃ) [and](ca) [deerskin-garment](ajinavāsasam)
 
 ## mukta-m0-p36-v899
-[ladle](sruvaṃ) [water-pot](kamaṇḍaluṃ) [on-left](vāme) [with-kuśa+ghee+pot](sakuśājyaghaṭaṃ) [likewise](tathā)
+[ladle](sruvaṃ) [water-pot](kamaṇḍaluṃ) [left](vāme) [with-kusha-ghee-pot](sakuśājyaghaṭaṃ) [and](tathā)
 
 ## mukta-m0-p36-v900
-[gāyatrī](gāyatrīṃ) [and](ca)[indeed](eva) [sāvitrī](sāvitrīm)[sages](ṛṣīṃs)[on-his+sides](tatpārśvayos)[likewise](tathā)
+[gayatri](gāyatrīṃ) [and](ca) [eva](eva) [savitrī](sāvitrīm) [rishis](ṛṣīṃstatpārśvayostathā) [their-sides](tathā)
