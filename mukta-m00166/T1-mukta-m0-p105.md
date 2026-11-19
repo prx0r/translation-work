@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p105-v2601
-[hero-ground](vīrabhūḥ)
+[vīrabhūḥ](vīrabhūḥ)
 
 ## mukta-m0-p105-v2602
-[rest-of](viśrānteḥ) [supreme](paramā) [ground](bhūmiḥ) [hero-ground](vīrabhūḥ) [on-earth](bhuvi) [worshipped](pūjitā)
+[viśrānteḥ](viśrānteḥ) [paramā](paramā) [bhūmirvīrabhūrbhuvi](bhūmirvīrabhūrbhuvi) [pūjitā](pūjitā)
 
 ## mukta-m0-p105-v2603
-[hero-mother](vīramātā)
+[vīramātā](vīramātā)
 
 ## mukta-m0-p105-v2604
-[heroes](vīrān) [who](yā) [protects](pāti) [fallen](niṣpātān) [causeless-love-filled](nirhetupremanirbhṛtā)
+[vīrān](vīrān) [yā](yā) [pāti](pāti) [niṣpātānnirhetupremanirbhṛtā](niṣpātānnirhetupremanirbhṛtā)
 
 ## mukta-m0-p105-v2605
-[hero-born](vīrasūḥ)
+[vīrasūḥ](vīrasūḥ)
 
 ## mukta-m0-p105-v2606
-[heroes](vīrān) [bears](sūte) [of-people](janānāṃ) [she](sā) [hero-born](vīrasūḥ) [some](kāpi) [is-sung](gīyate)
+[vīrān](vīrān) [sūte](sūte) [janānāṃ](janānāṃ) [sā](sā) [vīrasūḥ](vīrasūḥ) [kāpi](kāpi) [gīyate](gīyate)
 
 ## mukta-m0-p105-v2607
-[hero-delighter](vīranandinī)
+[vīranandinī](vīranandinī)
 
 ## mukta-m0-p105-v2608
-[whose-devotees](yadbhaktāḥ) [abandoned-five-elements-fear](tyaktapañcatvabhayāḥ) [she](sā) [hero-delighter](vīranandinī)
+[yadbhaktāstyaktapañcatvabhayāḥ](yadbhaktāstyaktapañcatvabhayāḥ) [sā](sā) [vīranandinī](vīranandinī)
 
 ## mukta-m0-p105-v2609
-[victory-glory](jayaśrīḥ)
+[jayaśrīḥ](jayaśrīḥ)
 
 ## mukta-m0-p105-v2610
-[victory-glory](jayaśrīḥ) [that](saiva) [to-us](no) [may-be](bhūyāt) [presence](saṃnidhau) [everywhere](sarvataḥ) [always](sadā)
+[jayaśrīḥ](jayaśrīḥ) [saiva](saiva) [no](no) [bhūyāt](bhūyāt) [saṃnidhau](saṃnidhau) [sarvataḥ](sarvataḥ) [sadā](sadā)
 
 ## mukta-m0-p105-v2611
-[victory-initiation](jayadīkṣā)
+[jayadīkṣā](jayadīkṣā)
 
 ## mukta-m0-p105-v2612
-[whose-initiated](yaddīkṣitāḥ) [people](janāḥ) [shine](bhānti) [victory-initiation](jayadīkṣā) [thus](iti) [she](sā) [auspicious](śivā)
+[yaddīkṣitā](yaddīkṣitā) [janā](janā) [bhānti](bhānti) [jayadīkṣeti](jayadīkṣeti) [sā](sā) [śivā](śivā)
 
 ## mukta-m0-p105-v2613
-[victory-giver](jayadā)
+[jayadā](jayadā)
 
 ## mukta-m0-p105-v2614
-[as](yathā) [victory-state](dhanaṃjayatvaṃ) [not](na) [may-manifest](āvirbhūyāt) [unartificial](akṛtrimam)
+[yathā](yathā) [dhanaṃjayatvaṃ](dhanaṃjayatvaṃ) [na](na) [āvirbhūyādakṛtrimam](āvirbhūyādakṛtrimam)
 
 ## mukta-m0-p105-v2615
-[victory-increasing](jayavardhinī)
+[jayavardhinī](jayavardhinī)
 
 ## mukta-m0-p105-v2616
-[if](yadi) [be](syāt) [always](sarvadā) [truth](satyaṃ) [companion](sahāyā) [victory-increasing](jayavardhinī)
+[yadi](yadi) [syāt](syāt) [sarvadā](sarvadā) [satyaṃ](satyaṃ) [sahāyā](sahāyā) [jayavardhinī](jayavardhinī)
 
 ## mukta-m0-p105-v2617
-[auspicious-fortunate-form](saubhāgyasubhagākārā)
+[saubhāgyasubhagākārā](saubhāgyasubhagākārā)
 
 ## mukta-m0-p105-v2618
-[mind](cittaṃ) [within-cave](kārevāntargataṃ) [motionless](niścalaṃ) [makes](vidadhāti) [who](yā)
+[kārevāntargataṃ](kārevāntargataṃ) [cittaṃ](cittaṃ) [niścalaṃ](niścalaṃ) [vidadhāti](vidadhāti) [yā](yā)
 
 ## mukta-m0-p105-v2619
-[all-auspiciousness-increasing](sarvasaubhāgyavardhinī)
+[sarvasaubhāgyavardhinī](sarvasaubhāgyavardhinī)
 
 ## mukta-m0-p105-v2620
-[companion](sahāyā) [always](sarvadā) [she](sā) [may-be](astu) [all-auspiciousness-increasing](sarvasaubhāgyavardhinī)
+[sahāyā](sahāyā) [sarvadā](sarvadā) [sāstu](sāstu) [sarvasaubhāgyavardhinī](sarvasaubhāgyavardhinī)
 
 ## mukta-m0-p105-v2621
-[welfare-doing](kṣemaṅkarī)
+[kṣemaṅkarī](kṣemaṅkarī)
 
 ## mukta-m0-p105-v2622
-[today](adya) [I](asmi) [happy](sukhabhāk) [immediately](sadyo) [seen](dṛṣṭā) [welfare-doing](kṣemaṅkarī) [when](yadā)
+[adyāsmi](adyāsmi) [sukhabhāk](sukhabhāk) [sadyo](sadyo) [dṛṣṭā](dṛṣṭā) [kṣemaṅkarī](kṣemaṅkarī) [yadā](yadā)
 
 ## mukta-m0-p105-v2623
-[perfection-form](siddhirūpā)
+[siddhirūpā](siddhirūpā)
 
 ## mukta-m0-p105-v2624
-[otherwise](anyathā) [all-perfections-lord](akhilasiddhīśaḥ) [how](kathaṃ) [I-would-be](syāṃ) [self-perfection-from](svātmasiddhitaḥ)
+[anyathākhilasiddhīśaḥ](anyathākhilasiddhīśaḥ) [kathaṃ](kathaṃ) [syāṃ](syāṃ) [svātmasiddhitaḥ](svātmasiddhitaḥ)
 
 ## mukta-m0-p105-v2625
-[true-fame](satkīrtiḥ)
+[satkīrtiḥ](satkīrtiḥ)
