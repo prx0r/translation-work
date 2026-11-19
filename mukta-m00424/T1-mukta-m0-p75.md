@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p75-v1851
-then+that threefold+making to+Shiva offer
+[then](tatasta) [threefold](triguṇīkṛtya) [to-śiva](śivāya) [offer](vinivedayet)
 
 ## mukta-m0-p75-v1852
-tarāṣṭa and defect+origin that+vyantu+vyaya+? and
+[and-eight](tarāṣṭaṃ) [and](ca) [fault-origin](dūṣaṇotpatti) [that](tad) [vyantuvyaya](uvyantuvyayohya) [and](ca)
 
 ## mukta-m0-p75-v1853
-peace+homa then do as+before cook auspicious
+[peace-homa](śāntihomaṃ) [then](tataḥ) [do](kuryāt) [as-before](pūrvavat) [cook](pācayec) [auspicious](chubham)
 
 ## mukta-m0-p75-v1854
-bind in+progression obtained by+enemies fear indicate
+[union](sandhāti) [in-passage](kramaṇe) [arrived](prāpte) [by-enemies](śatrubhir) [fear](bhayam) [declare](ādiśet)
 
 ## mukta-m0-p75-v1855
-by+transgression of+mantras that+all? empower
+[by-transgression](vyatikrameṇa) [of-mantras](mantrāṇāṃ) [that-all](tatsarva) [empower](prabhāvayet)
 
 ## mukta-m0-p75-v1856
-offering placement time even+skipping by+men thus
+[naivedya](naivedya) [at-placement](sthāpane) [time](kāle) [even-in-skipping](laṅghanepi) [by-men](naraistathā)
 
 ## mukta-m0-p75-v1857
-that+substance avoiding but afterwards cooked offer
+[that-substance](tadravyaṃ) [avoiding](varjayitvā) [then](tu) [afterwards](paścāt) [cooked](pakvaṃ) [offer](nivedayet)
 
 ## mukta-m0-p75-v1858
-? chant
+[jāyāja](jāyāja) [japa](japet)
 
 ## mukta-m0-p75-v1859
-bathing+limb+lacking and great+plague arises
+[without-snapanāṅga](snapanāṅgavihīne) [and](ca) [great-plague](mahāmārī) [arises](pravartate)
 
 ## mukta-m0-p75-v1860
-established pots broken burst fallen thus
+[placed](sthāpitaiḥ) [pots](kalaśair) [broken](bhinnaiḥ) [cracked](sphuṭite) [fallen](patite) [and](tathā)
 
 ## mukta-m0-p75-v1861
-? with+very+pleased jewel?
+[suprasanna](suprasannena) [ratnaka](ratnakā)
 
 ## mukta-m0-p75-v1862
-boon+fearless+endowed noose+goad bearing+possessed
+[varada-abhaya](varadābhayasaṃyuktā) [pāśa-aṅkuśa](pāśāṅguśa) [bearing](dharānvitā)
 
 ## mukta-m0-p75-v1863
-lotus+hand+etc peaceful and goddess and gold+splendor
+[lotus-handed](padmahastādi) [peaceful](śāntā) [and](ca) [goddess](devī) [and](ca) [golden-radiance](kanakaprabhā)
 
 ## mukta-m0-p75-v1864
-? or conch discus ? six+armed
+[śaṅkha](śaṅkhaṃ) [cakra](cakra) [six-armed](ṣaḍbhujā)
 
 ## mukta-m0-p75-v1865
-radiance+weapon endowed god+embracing intent
+[tejorcāstra](tejorcāstra) [equipped](samāyuktā) [deva-embrace](devāliṅgana) [intent](tatparā)
 
 ## mukta-m0-p75-v1866
-hanging ? suspended slanderer?
+[pendant](pralambā) [bāla](bālambitā) [parivādaka](parivādakā)
 
 ## mukta-m0-p75-v1867
-dark+horse+or+mouth and practitioner and not fall
+[dark](śyāmā) [horse-faced](aśvenāthavaktā) [and](ca) [for-sādhaka](sādhake) [not](na) [fall](pātata)
 
 ## mukta-m0-p75-v1868
-eight+armed endowed upward+hair own+tusk
+[eight-armed](aṣṭabāhu) [equipped](samāyuktaṃ) [upward-hair](ūrdhvakeśaṃ) [own-fangs](svadaṃṣṭrakam)
 
 ## mukta-m0-p75-v1869
-bell garland+? encircled ankle+ornament endowed
+[kiṅkiṇī](kiṅkiṇī) [garland](mālayeveṣṭā) [anklet](pādanūpura) [endowed](saṃyutam)
 
 ## mukta-m0-p75-v1870
-? sacred+thread and red+flower+adorned
+[jñopavīta](jñopavītaṃ) [and](ca) [red-flower-adorned](raktapuṣpopaśobhitam)
 
 ## mukta-m0-p75-v1871
-of+ears both+also of+hands both+also
+[in-both-ears](karṇayorubhayoścaiva) [and](ca) [in-both-hands](hastayorubhayorapi)
 
 ## mukta-m0-p75-v1872
-spider+scorpion endowed ear+garland adorned
+[spider-scorpion](lūtavṛścikasaṃyuktaṃ) [ear-garland](karṇamālā) [adorned](vibhūṣitam)
 
 ## mukta-m0-p75-v1873
-trident and vetala sword and+also but right
+[trident](śūlaṃ) [and](ca) [vetāla](vetālaṃ) [sword](khaḍgaṃ) [and](caiva) [tu](tu) [right](dakṣiṇe)
 
 ## mukta-m0-p75-v1874
-bell shield+noose and ankle+ornament situated
+[bell](ghaṇṭā) [kheṭaka-pāśa](kheṭakapāśaṃ) [and](ca) [anklet-situated](pādanūpurasaṃsthitam)
 
 ## mukta-m0-p75-v1875
-thus form+bearing god aghora+weapon+presiding deity
+[thus](evaṃ) [form-bearing](rūpadharaṃ) [god](devaṃ) [aghora-astra-adhi-daivata](aghorastrādhi+daivatam)
