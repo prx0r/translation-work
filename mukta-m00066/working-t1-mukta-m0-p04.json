@@ -8,19 +8,19 @@
 "tokens": [
 {
 "surface": "kutrameruta",
-"quick_gloss": "kutrameruta"
+"quick_gloss": "where"
 },
 {
 "surface": "doṣāṃte",
-"quick_gloss": "fault-end"
+"quick_gloss": "at-end-of-faults"
 },
 {
 "surface": "svargasthān",
-"quick_gloss": "heaven-abode"
+"quick_gloss": "heaven-place"
 },
 {
 "surface": "pratikīrtyate",
-"quick_gloss": "is-praised"
+"quick_gloss": "is-proclaimed"
 }
 ]
 },
@@ -33,7 +33,7 @@
 "tokens": [
 {
 "surface": "vasaṃti",
-"quick_gloss": "dwell"
+"quick_gloss": "they-dwell"
 },
 {
 "surface": "yatra",
@@ -44,8 +44,12 @@
 "quick_gloss": "always"
 },
 {
-"surface": "sudhāpāna+padākulāḥ",
-"quick_gloss": "nectar-drinkers"
+"surface": "sudhāpāna",
+"quick_gloss": "nectar-drinking"
+},
+{
+"surface": "padākulāḥ",
+"quick_gloss": "confused"
 }
 ]
 },
@@ -62,11 +66,11 @@
 },
 {
 "surface": "gatvā",
-"quick_gloss": "going"
+"quick_gloss": "having-gone"
 },
 {
 "surface": "tatratyairdevatāgaṇaiḥ",
-"quick_gloss": "with-those"
+"quick_gloss": "with-those-deities"
 }
 ]
 },
@@ -78,8 +82,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "ratna+staṃbha",
-"quick_gloss": "gem-pillar"
+"surface": "ratna",
+"quick_gloss": "jewel"
+},
+{
+"surface": "staṃbha",
+"quick_gloss": "pillar"
 },
 {
 "surface": "samākīrṇaṃ",
@@ -133,7 +141,7 @@
 },
 {
 "surface": "ratnakuṃbhaiśca",
-"quick_gloss": "gem-pots"
+"quick_gloss": "jewel-pots"
 },
 {
 "surface": "śobhitam",
@@ -167,7 +175,7 @@
 "tokens": [
 {
 "surface": "svarge",
-"quick_gloss": "heaven"
+"quick_gloss": "in-heaven"
 },
 {
 "surface": "divyagrahaṃ",
@@ -200,11 +208,11 @@
 },
 {
 "surface": "kūtasyūta",
-"quick_gloss": "kuta-woven"
+"quick_gloss": "with-threaded-movement"
 },
 {
 "surface": "saṃcārairapāṃgairati",
-"quick_gloss": "movement"
+"quick_gloss": "glances"
 },
 {
 "surface": "śobhanām",
@@ -279,7 +287,7 @@
 },
 {
 "surface": "karmasādhanam",
-"quick_gloss": "karma-accomplishment"
+"quick_gloss": "action-accomplishment"
 }
 ]
 },
@@ -300,7 +308,7 @@
 },
 {
 "surface": "bhagapuṣpasamarpaṇaiḥ",
-"quick_gloss": "flower-offerings"
+"quick_gloss": "with-flower-offerings"
 }
 ]
 },
@@ -313,7 +321,7 @@
 "tokens": [
 {
 "surface": "samastaveda",
-"quick_gloss": "all-veda"
+"quick_gloss": "all-vedas"
 },
 {
 "surface": "saṃproktā",
@@ -321,7 +329,7 @@
 },
 {
 "surface": "yajñakarmābhyanuṣṭhitaiḥ",
-"quick_gloss": "sacrifice-rite"
+"quick_gloss": "sacrificial-acts"
 }
 ]
 },
@@ -333,8 +341,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "vedasyāpi+ca+tātparyaṃ",
-"quick_gloss": "veda-intent"
+"surface": "vedasyāpi",
+"quick_gloss": "of-veda"
+},
+{
+"surface": "ca",
+"quick_gloss": "meaning"
+},
+{
+"surface": "tātparyaṃ",
+"quick_gloss": "great"
 },
 {
 "surface": "mahāliṃgārcanakramaḥ",
@@ -350,8 +366,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "āyurvedasya+sārastu",
-"quick_gloss": "ayurveda-essence"
+"surface": "āyurvedasya",
+"quick_gloss": "of-ayurveda"
+},
+{
+"surface": "sārastu",
+"quick_gloss": "essence"
 },
 {
 "surface": "vājīkaraṇamucyate",
@@ -368,7 +388,7 @@
 "tokens": [
 {
 "surface": "varthamānasyarogasya",
-"quick_gloss": "disease"
+"quick_gloss": "of-present"
 },
 {
 "surface": "nāśadvārāṃgapuṣṭitaḥ",
@@ -385,23 +405,23 @@
 "tokens": [
 {
 "surface": "dharmecārthe",
-"quick_gloss": "dharma"
+"quick_gloss": "in-dharma"
 },
 {
 "surface": "ca",
-"quick_gloss": "artha"
+"quick_gloss": "in-artha"
 },
 {
 "surface": "kāme",
-"quick_gloss": "kama"
+"quick_gloss": "in-kama"
 },
 {
-"surface": "ca+mokṣe",
-"quick_gloss": "moksha"
+"surface": "ca",
+"quick_gloss": "in-moksha"
 },
 {
 "surface": "girinaṃdinī",
-"quick_gloss": "girinandini"
+"quick_gloss": "mountain-daughter"
 }
 ]
 },
@@ -426,7 +446,7 @@
 },
 {
 "surface": "evātmalakṣaṇaḥ",
-"quick_gloss": "self-mark"
+"quick_gloss": "indeed"
 }
 ]
 },
@@ -472,7 +492,7 @@
 },
 {
 "surface": "liṃgamaheśasya",
-"quick_gloss": "linga-mahesha"
+"quick_gloss": "linga"
 },
 {
 "surface": "pūjanāt",
@@ -480,7 +500,7 @@
 },
 {
 "surface": "puṇyasaṃbhavaḥ",
-"quick_gloss": "merit-birth"
+"quick_gloss": "merit"
 }
 ]
 },
@@ -493,11 +513,11 @@
 "tokens": [
 {
 "surface": "śuklasya",
-"quick_gloss": "white"
+"quick_gloss": "with-nourishing"
 },
 {
 "surface": "poṣakairvastu",
-"quick_gloss": "nourishers"
+"quick_gloss": "substances"
 },
 {
 "surface": "jātairātmānamarcayet",
@@ -514,7 +534,7 @@
 "tokens": [
 {
 "surface": "dhanurvedasya",
-"quick_gloss": "dhanurveda"
+"quick_gloss": "of-dhanurveda"
 },
 {
 "surface": "cāpyetat",
@@ -535,7 +555,7 @@
 "tokens": [
 {
 "surface": "yuddhe",
-"quick_gloss": "battle"
+"quick_gloss": "in-battle"
 },
 {
 "surface": "cenmṛtimāpnoti",
@@ -556,7 +576,7 @@
 "tokens": [
 {
 "surface": "māṃnaṃda-",
-"quick_gloss": "maṃnaṃda"
+"quick_gloss": "delight"
 }
 ]
 }
