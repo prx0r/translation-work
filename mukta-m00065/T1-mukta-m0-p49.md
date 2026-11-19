@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p49-v1201
-chin-lip-two [mū-a-k-kh: and-part] nose-forehead-stalk
+[chin-lip](cibukoṣṭhau) [by-division](vibhāgena) [nose-forehead-stalk](nāsālalāṭastakam)
 
 ## mukta-m0-p49-v1202
-linga-side two-parts part leaving that-above
+[linga-sides](liṅgapārśce) [two-parts](dvibhāgena) [portion](bhāgaṃ) [abandoning](tyaktvā) [above-that](tadūrdhvataḥ)
 
 ## mukta-m0-p49-v1203
-five-faces-first-one-face-end thus-again rule again
+[five-faces-etc](pañtrāsyādyekavaktrāntamayameva) [rule](vidhiḥ) [again](punaḥ)
 
 ## mukta-m0-p49-v1204
-five-faced-etc stated very-clear honey-not-said
+[five-faced-etc](pañcānanādikaṃ) [spoken](proktaṃ) [clearly](suvyaktamadhudanocyate)
 
 ## mukta-m0-p49-v1205
-two-arms-up-body vishnu-footed-and
+[two-armed-upper-bodies](dvibāhūnyūrdhvadehāni) [vishnu-footed](viṣṇavantacaraṇāni) [also](ca)
 
 ## mukta-m0-p49-v1206
-front-body man citron-eyed [k-kh: threaded]
+[front-body](pūrvakāye) [man](pumāṃsaṃ) [tu](tu) [citron-eyed](mātuluṅgākṣaśalinam)
 
 ## mukta-m0-p49-v1207
-woman-form released secret mirror-lotus-joined
+[woman-form](stryākāramuktare) [secret](guhyaṃ) [mirror-lotus-joined](darpaṇotpalasaṃyutam)
 
 ## mukta-m0-p49-v1208
-very-clear five-fold thus-mouth-avatara-rule-established [mū: joined]
+[clear-fivefold-thus](suvyakta) [pañcadhāhyevamāsyovatābidhisaṃsthitam)
 
 ## mukta-m0-p49-v1209
-thus accomplish lingas pedestal then-make
+[thus](evaṃ) [having-made](niṣpādya) [lingas](liṅgāni) [pedestal](piṇḍikāṃ) [should-make](vartayettataḥ)
 
 ## mukta-m0-p49-v1210
-thus characteristics-collection manifest-unmanifest-lingas ten-fold making named seventh rite then-eighth
+[thus](iti) [mark-collection](lakṣaṇasamuccaye) [manifest-unmanifest-lingas](vyaktāvyaktaliṅgānāṃ) [tenfold](daśadhā) [making](vartanaṃ) [named](nāma) [seventh](saptamo) [rite](vidhiḥ) [then-eighth](athoṣṭama)
 
 ## mukta-m0-p49-v1211
-great dawn-and direction-linga-etc practice
+[great](mahatyāḥ) [dawn](prātamāyāśca) [direction-linga-etc](digliṅgādeśca) [in-practice](sādhane)
 
 ## mukta-m0-p49-v1212
-nine-knowledge make therefore sometimes both
+[nine-knowledge](navajñāṃ) [should-make](kārayettasmātkadācidubhayorapi)
 
 ## mukta-m0-p49-v1213
-pedestal indeed called not-less not-more auspicious
+[pedestal](piṇḍikā) [tu](tu) [declared](samākhyātā) [not-less](na) [not-more](nādhikā) [auspicious](śubhā)
 
 ## mukta-m0-p49-v1214
-girdle that-third-part pit that-third-less
+[girdle](mekhalā) [that-third-part](tattribhāgena) [pit](khātaṃ) [that-third-less](tattryṃśahīnakam)
 
 ## mukta-m0-p49-v1215
-middle circle draw make-pit carefully
+[middle](madhye) [circle](vṛttaṃ) [having-drawn](samālikhya) [should-make-pit](vartayetkhātamādarāt)
 
 ## mukta-m0-p49-v1216
-below length-third-part girdle-making outside
+[downward](arvāg) [length-third](dairghyatribhāgena) [girdle-making](mekhalāvartanaṃ) [outside](bahiḥ)
 
 ## mukta-m0-p49-v1217
-mouth that-half-width that-third-part water-exit
+[mouth](mukhe) [half-width](tadardhavistāraṃ) [third-part](tantribhāge) [water-outlet](ambunirgamaḥ)
 
 ## mukta-m0-p49-v1218
-throat-above always thus otherwise fault-giving
+[neck-above](kaṇṭhādūrdhvaṃ) [always](sadā) [thus](hyevamanyathā) [fault-giving](doṣadāyakam)
 
 ## mukta-m0-p49-v1219
-sixth-part-entry throat movable fifth-or
+[sixth-part-entrance](ṣaṣṭhāṃśaveśanātkaṇṭhaścalānāṃ) [fifth](pañcamena) [or](vā)
 
 ## mukta-m0-p49-v1220
-unmanifest mixed own-part [mū: two-part; g: sky-part] brahma-vishnu [kh-gh: vishnu] form
+[unmanifest](avyakte) [mixed](miśrake) [own-part](svāṃśe) [brahma-vishnu-form](brahmaviṣṇusvarūpataḥ)
 
 ## mukta-m0-p49-v1221
-linga-thickness-measure with-blood direction-corner-situated
+[linga-thickness-measure](liṅgasthaulyapramāṇena) [with-juice](samāsraṃ) [direction-diagonal-placed](digvidiksthitam)
 
 ## mukta-m0-p49-v1222
-all-around elder-linga barley six increased
+[all-around](samantājjyeṣṭhaliṅgasya) [barley-six-increased](yavaiḥ) [ṣaḍbhirvivardhitam)
 
 ## mukta-m0-p49-v1223
-linga-like pure clean make pedestal wise
+[linga-like](liṅgavannirmalā) [pure](śuddhā) [should-be-made](kartavyā) [pedestal](piṇḍikā) [wise](budhaiḥ)
 
 ## mukta-m0-p49-v1224
-remaining lingas half-half reduce barley
+[remaining](śeṣāṇāṃ) [lingas](liṅgānāmardhārdha) [reduce](hrāsayedyavam)
 
 ## mukta-m0-p49-v1225
-desires wealth-from its divisions speak briefly
+[desires](kāmānāṃ) [wealth](vasutastasya) [differences](bhedān) [we-speak](brūmaḥ) [briefly](samāsataḥ)

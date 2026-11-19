@@ -8,16 +8,16 @@
 [rāmāṃśaiḥ](rāmāṃśaiḥ) [tatra](tatra) [piṇḍī](piṇḍī) [syāt](syāt) [ṛtu-veda-yamāṃśakaiḥ](ṛtuvedayamāṃśakaiḥ)
 
 ## mukta-m0-p112-v2778
-[niṣkrāntiḥ](niṣkrāntiḥ) [diśa-diśyā](diśadiśyaiva) [eva](diśadiśyaiva) [nava](nava) [eva](navaiva) [rathakāḥ](rathakā) [matāḥ](matāḥ)
+[niṣkrāntiḥ](niṣkrāntiḥ) [diśa-diśyā](diśadiśyaiva) [eva](diśadiśyaiva) [nava](nava) [eva](nava) [rathakāḥ](rathakā) [matāḥ](matāḥ)
 
 ## mukta-m0-p112-v2779
 [kṛtvā](kṛtvā) [aṣṭādaśabhiḥ](aṣṭādaśabhirbhūḥ) [bhūḥ](aṣṭādaśabhirbhūḥ) [syāt](syāt) [anya-eka-ekam](anyaikaikaṃ) [vinā](vinā) [kramāt](kramāt)
 
 ## mukta-m0-p112-v2780
-[catur-dvāram](caturdvāraṃ) [catur-nāsam](caturnāsaṃ) [vicitra-kuharaiḥ](vicitrakuharairyutam) [yutam](vicitrakuharairyutam)
+[catur-dvāram](caturdvāraṃ) [catur-nāsam](caturnāsaṃ) [vicitra-kuharaiḥ](vicitrakuharaiḥ) [yutam](yutam)
 
 ## mukta-m0-p112-v2781
-[daśa-ūna-śata-śṛṅgam](daśonaśataśṛṅgaṃ) [ca](ca) [vidadhyāt](vidadhyānmandaraṃ) [mandaram](vidadhyānmandaraṃ) [sudhīḥ](sudhīḥ)
+[daśa-ūna-śata-śṛṅgam](daśonaśataśṛṅgaṃ) [ca](ca) [vidadhyāt](vidadhyān) [mandaram](mandaraṃ) [sudhīḥ](sudhīḥ)
 
 ## mukta-m0-p112-v2782
 [guṇam](guṇaṃ) [rūpam](rūpaṃ) [tad-agre](tadagre) [ca](ca) [bhūḥ](bhūḥ) [tiryak-vahnim](tiryagvahniṃ) [vināśayet](vināśayet)
@@ -35,28 +35,28 @@
 [aśīti-śṛṅga-sayuktam](aśītiśṛṅgasayuktaṃ) [kailāsam](kailāsaṃ) [ghaṭayet](ghaṭayedvaram) [varam](ghaṭayedvaram)
 
 ## mukta-m0-p112-v2787
-[trikṣayāt](trikṣayādvāmataḥ) [vāmataḥ](trikṣayādvāmataḥ) [koṇaḥ](koṇastayostambhastanukṣayāt) [tayoḥ](koṇastayostambhastanukṣayāt) [stambhaḥ](koṇastayostambhastanukṣayāt) [tanu-kṣayāt](koṇastayostambhastanukṣayāt)
+[tri-kṣayāt](trikṣayādvāmataḥ) [vāmataḥ](trikṣayādvāmataḥ) [koṇaḥ](koṇastayostambhastanukṣayāt) [tayoḥ](koṇastayostambhastanukṣayāt) [stambhaḥ](koṇastayostambhastanukṣayāt) [tanu-kṣayāt](koṇastayostambhastanukṣayāt)
 
 ## mukta-m0-p112-v2788
-[ittham](itthamevāparārdhaṃ) [eva](itthamevāparārdhaṃ) [aparārdham](itthamevāparārdhaṃ) [syāt](syāt) [catuḥ-dikṣu](catu rdikṣu) [samantataḥ](samantataḥ)
+[ittham](itthamevāparārdhaṃ) [eva](itthamevāparārdhaṃ) [aparārdham](itthamevāparārdhaṃ) [syāt](syāt) [catuḥ](catu) [dikṣu](dikṣu) [samantataḥ](samantataḥ)
 
 ## mukta-m0-p112-v2789
-[sa-kapāṭa-argalaiḥ](sakapāṭārgalairvedaghaṭairnāga) [veda-ghaṭaiḥ](sakapāṭārgalairvedaghaṭairnāga) [nāga-gavākṣakaiḥ](sakapāṭārgalairvedaghaṭairnāga)
+[sa-kapāṭa-argalaiḥ](sakapāṭārgalairvedaghaṭairnāgagavākṣakaiḥ) [veda-ghaṭaiḥ](sakapāṭārgalairvedaghaṭairnāgagavākṣakaiḥ) [nāga-gavākṣakaiḥ](sakapāṭārgalairvedaghaṭairnāgagavākṣakaiḥ)
 
 ## mukta-m0-p112-v2790
 [tad-ūrdhva-eka-eka-saṃhrāsāt](tadūrdhvaikaikasaṃhrāsātkartavyā) [kartavyāḥ](tadūrdhvaikaikasaṃhrāsātkartavyā) [bhūmayaḥ](bhūmayo) [daśa](daśa)
 
 ## mukta-m0-p112-v2791
-[kuharāṇi](kuharāṇi) [suraiḥ](surairmadhye) [madhye](surairmadhye) [rathake](rathake) [syuḥ](syurvimānakau) [vimāna-kau](syurvimānakau)
+[kuharāṇi](kuharāṇi) [suraiḥ](surairmadhye) [madhye](surairmadhye) [rathake](rathake) [syuḥ](syurvimānakau) [vimānakau](syurvimānakau)
 
 ## mukta-m0-p112-v2792
-[dvāra-eka-aṣṭa-samādyeśaḥ](dvāraikāṣṭa) [saptatibhiḥ](saptatibhirviṣāṇakaiḥ) [viṣāṇakaiḥ](saptatibhirviṣāṇakaiḥ)
+[dvāra-eka-aṣṭa-samādyeśaḥ](dvāraikāṣṭasamādyeśaḥ) [saptatibhiḥ](saptatibhirviṣāṇakaiḥ) [viṣāṇakaiḥ](saptatibhirviṣāṇakaiḥ)
 
 ## mukta-m0-p112-v2793
 [bhāga-eka-ekena](bhāgaikaikena) [saṃveśāt](saṃveśāt) [tri-aṃśaiḥ](tryaṃśaiścoparadhau) [ca](tryaṃśaiścoparadhau) [uparadhau](tryaṃśaiścoparadhau) [matau](matau)
 
 ## mukta-m0-p112-v2794
-[sāndhāraḥ](sāndhāraścaturāsyaśca) [catur-āsyaḥ](sāndhāraścaturāsyaśca) [ca](sāndhāraścaturāsyaśca) [veda-aghraḥ](vedā"ghro) [bhramaṇa-anvitaḥ](bhramaṇānvitaḥ)
+[sāndhāraḥ](sāndhāraścaturāsyaśca) [catur-āsyaḥ](sāndhāraścaturāsyaśca) [ca](sāndhāraścaturāsyaśca) [veda-agho](vedāghro) [bhramaṇa-anvitaḥ](bhramaṇānvitaḥ)
 
 ## mukta-m0-p112-v2795
 [vidyādhāra-ākulaiḥ](vidyādhārākulai) [ramyaiḥ](ramyairbhadraḥ) [bhadraḥ](ramyairbhadraḥ) [syāt](syāt) [ṣaṣṭi-śṛṅga-vān](ṣaṣṭiśṛṅgavān)
@@ -68,10 +68,10 @@
 [upariṣṭāt](upariṣṭādvimānāṃśaḥ) [vimāna-aṃśaḥ](upariṣṭādvimānāṃśaḥ) [kramataḥ](kramato) [meru-mandarau](merumandarau)
 
 ## mukta-m0-p112-v2798
-[sarvātmā](sarvātmā) [śikharaiḥ](śikharaiḥ) [kāryaḥ](kāryaḥ) [sarvataḥ-bhadra-kaḥ](sarvatobhadrako) [yataḥ](yataḥ)
+[sarvātmā](sarvātmā) [śikharaiḥ](śikharaiḥ) [kāryaḥ](kāryaḥ) [sarvato-bhadrakaḥ](sarvatobhadrako) [yataḥ](yataḥ)
 
 ## mukta-m0-p112-v2799
 [catur-ghaṭa-samopetaḥ](caturghaṭasamopetaḥ) [sopāna-valabhī-yutaḥ](sopānavalabhīyutaḥ)
 
 ## mukta-m0-p112-v2800
-[kūṭa-anvita-indu-śālā](kūṭānvitenduśālā) [syāt](syāt) [adig-dvāra-aṅghryāsyakaḥ](adigdvārāṅghryāsyako) [rucaḥ](rucaḥ)
+[kūṭa-anvita-indu-śālā](kūṭānvitenduśālā) [syāt](syāt) [a-dig-dvāra-aṅghry-āsyakaḥ](adigdvārāṅghryāsyako) [rucaḥ](rucaḥ)

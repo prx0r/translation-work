@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p32-v776
-[skull-fear-hand-fierce](kapālābhayahastogrā) [left-etc](vāmādyā) [nine-powers](navaśaktayaḥ)
+[gloss](kapālābhayahastogrā) [gloss](vāmādyā) [gloss](navaśaktayaḥ)
 
 ## mukta-m0-p32-v777
-[leopard-skin-snake-bearing-peaceful](dvīpicarmāhibhṛcchāntaḥ) [three-eyed](tryakṣaḥ) [matted-hair-moon-ornamented](jaṭendubhūṣitaḥ)
+[gloss](dvīpicarmāhibhṛcchāntaḥ) [gloss](tryakṣaḥ) [gloss](jaṭendubhūṣitaḥ)
 
 ## mukta-m0-p32-v778
-[limb-six-endowed](aṅgaṣaṭkasamāyuktaḥ) [quickly](śīghraṃ) [may-be](syāt) [accomplishment-giving](siddhidāyakaḥ)
+[gloss](aṅgaṣaṭkasamāyuktaḥ) [gloss](śīghraṃ) [gloss](syāt) [gloss](siddhidāyakaḥ)
 
 ## mukta-m0-p32-v779
-[youth-youth-old-woman-child-resembling](yuvayauvanavṛddhastrībālābhaḥ) [five-faced-bearing](pañcavaktrabhṛt)
+[gloss](yuvayauvanavṛddhastrībālābhaḥ) [gloss](pañcavaktrabhṛt)
 
 ## mukta-m0-p32-v780
-[left](vāmena) [fear-mantra-marked](bhayamantrāṅka) [skull-lotus-filled](kapālotpalapūra) [bearing](bhṛt)
+[gloss](vāmena) [gloss](bhayamantrāṅka) [gloss](kapālotpalapūrabhṛt)
 
 ## mukta-m0-p32-v781
-[eye-red-sword-fire-resembling](dṛgraktāsihutāśābhāḥ) [all](sarve) [three-eyed](tryakṣāḥ) [matted-hair-possessing](jaṭānvitāḥ)
+[gloss](dṛgraktāsihutāśābhāḥ) [gloss](sarve) [gloss](tryakṣāḥ) [gloss](jaṭānvitāḥ)
 
 ## mukta-m0-p32-v782
-[brown-eyebrow-beard-fierce-weapon](babhrubhrūśmaśruddā?bhīmamastraṃ) [yellow](pītaṃ) [own-weapon](svaśastra) [bearing](bhṛt)
+[gloss](babhrubhrūśmaśruddā?bhīma) [gloss](mastraṃ) [gloss](pītaṃ) [gloss](svaśastrabhṛt)
 
 ## mukta-m0-p32-v783
-[power](śakti) [thunderbolt](vajra) [rosary](akṣamālā) [sword](asi) [disc](cakra) [right](dakṣiṇe) [sometimes](kvacit)
+[gloss](śakti) [gloss](vajrākṣamālāsicakrāṇi) [gloss](dakṣiṇe) [gloss](kvacit)
 
 ## mukta-m0-p32-v784
-[one-faced](ekāsyaḥ) [five-faced](pañcavaktraḥ) [or](vā) [three-eyed](tryakṣaḥ) [matted-hair-moon-bearing-śiva](jaṭendubhṛcchivaḥ)
+[gloss](ekāsyaḥ) [gloss](pañcavaktraḥ) [gloss](vā) [gloss](tryakṣaḥ) [gloss](jaṭendubhṛcchivaḥ)
 
 ## mukta-m0-p32-v785
-[in-corners](koṇeṣu) [and-one](caika) [rudra-etc](rudrādyāḥ) [white-black-blue-red](sitāsaṅnīlalohitāḥ)
+[gloss](koṇeṣu) [gloss](caika) [gloss](rudrādyāḥ) [gloss](sitāsaṅnīlalohitāḥ)
 
 ## mukta-m0-p32-v786
-[śiva-weapon-bearing](śivāyudhadharāḥ) [three-eyed](tryakṣāḥ) [hook-sword-by](sṛṇyasibhyāṃ) [without](vinā) [sometimes](kvacit)
+[gloss](śivāyudhadharāstryakṣāḥ) [gloss](sṛṇyasibhyāṃ) [gloss](vinā) [gloss](kvacit)
 
 ## mukta-m0-p32-v787
-[cupped-palm-hands](puṭāñjalikarāḥ) [all](sarve) [vidyeśas](vidyeśāḥ) [and-one-faced](caikavaktrakāḥ)
+[gloss](puṭāñjalikarāḥ) [gloss](sarve) [gloss](vidyeśāḥ) [gloss](caikavaktrakāḥ)
 
 ## mukta-m0-p32-v788
-[boon-fear-skull-lotus-matted-hair-moon-skin-snake-bearing](varābhayakapālābjajaṭendvajinanāgabhṛt)
+[gloss](varābhayakapālābjajaṭendvajinanāgabhṛt)
 
 ## mukta-m0-p32-v789
-[right](dakṣiṇe) [trident-sword-axe-fearlessness-bearing](śūlanistriśakuṭhārābhayadhārakaḥ)
+[gloss](dakṣiṇe) [gloss](śūlanistriśakuṭhārābhayadhārakaḥ)
 
 ## mukta-m0-p32-v790
-[skull-garlanded](muṇḍamālī) [corpse-mounted](śavārūḍhaḥ) [dual-nondual](dvaitādvaite) [in-order](kramāt) [considered](mataḥ)
+[gloss](muṇḍamālī) [gloss](śavārūḍhaḥ) [gloss](dvaitādvaite) [gloss](kramānmataḥ)
 
 ## mukta-m0-p32-v791
-[gentle](saumyaṃ) [smiling-faced](prahasitāsyaṃ) [and](ca) [moon-crested](candramauliṃ) [matted-hair-bearing](jaṭādharam)
+[gloss](saumyaṃ) [gloss](prahasitāsyaṃ) [gloss](ca) [gloss](candramauliṃ) [gloss](jaṭādharam)
 
 ## mukta-m0-p32-v792
-[serpent-lord-girdle-endowed](nāgendramekhalāyuktaṃ) [all-ornament-adorned](sarvābharaṇabhūṣitam)
+[gloss](nāgendramekhalāyuktaṃ) [gloss](sarvābharaṇabhūṣitam)
 
 ## mukta-m0-p32-v793
-[dancing](nṛtyantaṃ) [great-joyed-weapon-crowded-handed](mahāhṛṣṭamāyudhākula) [handed](pāṇinam)
+[gloss](nṛtyantaṃ) [gloss](mahāhṛṣṭa) [gloss](māyudhākula) [gloss](pāṇinam)
 
 ## mukta-m0-p32-v794
-[strength-making](balanākārakaṃ) [arm-one](bāhumekaṃ) [having-made](kṛtvā) [in-heart](hṛdi) [placed](sthitam)
+[gloss](balanākārakaṃ) [gloss](bāhumekaṃ) [gloss](kṛtvā) [gloss](hṛdi) [gloss](sthitam)
 
 ## mukta-m0-p32-v795
-[left](vāme) [extended-arm](pratānitabhujaṃ) [properly](samyak) [having-made](kṛtvā) [well-beautiful](suśobhanam)
+[gloss](vāme) [gloss](pratānitabhujaṃ) [gloss](samyak) [gloss](kṛtvā) [gloss](suśobhanam)
 
 ## mukta-m0-p32-v796
-[all-peace-making](sarvaśāntikaraṃ) [should-do](kuryād) [thus](ityevaṃ) [gentle-form](saumyarūpakam)
+[gloss](sarvaśāntikaraṃ) [gloss](kuryāt) [gloss](ityevaṃ) [gloss](saumyarūpakam)
 
 ## mukta-m0-p32-v797
-[skanda-nandi-mahākāla-gaṇeśa-troop-accompanied](skandanandimahākālagaṇeśagaṇasaṃyutam)
+[gloss](skandanandimahākālagaṇeśagaṇasaṃyutam)
 
 ## mukta-m0-p32-v798
-[with-joy](sānandai) [form-endowed](rūpasampannaiḥ) [being-viewed](vīkṣyamāṇaṃ) [great-lord](maheśvaram)
+[gloss](sānandai) [gloss](rūpasampannaiḥ) [gloss](vīkṣyamāṇaṃ) [gloss](maheśvaram)
 
 ## mukta-m0-p32-v799
-[that-before](tadagre) [and](ca) [dancing](pranṛtyaṃśca) [bhṛṅgī-work](bhṛṅgīkāryaṃ) [thin](kṛśo) [very](bhṛśaḥ)
+[gloss](tadagre) [gloss](ca) [gloss](pranṛtyaṃśca) [gloss](bhṛṅgīkāryaṃ) [gloss](kṛśaḥ) [gloss](bhṛśaḥ)
 
 ## mukta-m0-p32-v800
-[distorted](vikṛtāḥ) [sharp-nosed](tīkṣṇanāsāḥ) [and](ca) [thief-fire-etc-giving](caurāgnyādipradāḥ) [in-order](kramāt)
+[gloss](vikṛtāḥ) [gloss](tīkṣṇanāsāḥ) [gloss](ca) [gloss](caurāgnyādipradāḥ) [gloss](kramāt)
