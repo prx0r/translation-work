@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p44-v1076
-[rakṣaḥ](rakṣo) [dvitaya](dvitaya) [kumbhīra](kumbhīra) [sarpa](sarpa) [cakra](cakra) [āsya](āsya) [ka](ka) [ca](ca) [bha](bham)
+[rakshas-two-crocodile](rakṣodvitayakumbhīra) [and-snake-wheel-mouth](sarpacakrāsyakaṃ) [and](ca) [bee](bham)
 
 ## mukta-m0-p44-v1077
-[aśvinau](aśvinau) [ca](ca) [yamaḥ](yamaḥ) [vahniḥ](vahniḥ) [prajā](prajā) [indra](indra) [indu](indu) [haraḥ](haraḥ) [aditiḥ](aditiḥ)
+[ashvins](aśvinau) [and](ca) [yama](yamo) [fire](vahniḥ) [prajapati-indra-moon-hara-aditi](prajendrenduharo'ditiḥ)
 
 ## mukta-m0-p44-v1078
-[tvaṣṭā](tvaṣṭā) [vāyuḥ](vāyuḥ) [surendraḥ](surendraḥ) [agniḥ](agniḥ) [mitra](mitra) [indrau](indrau) [yāvat](yāvat) [pām](pām) [patiḥ](patiḥ)
+[tvashta](tvaṣṭā) [wind](vāyuḥ) [surendra-fire-mitra-indra](surendro'gnirmitrendrau) [until-serpent-lord](yāvatpāmpatiḥ)
 
 ## mukta-m0-p44-v1079
-[viṣṇuḥ](viṣṇuḥ) [vasuḥ](vasuḥ) [aja](aja) [eka](eka) [ādi](ādi) [pāda](pāda) [ahi](ahi) [budhna](budhna) [pūṣa](pūṣa) [kāḥ](kāḥ)
+[vishnu](viṣṇurvasurajaikādipādahirbudhna) [pusha](pūṣakāḥ)
 
 ## mukta-m0-p44-v1080
-[pumān](pumān) [gadī](gadī) [sa](sa) [vīṇā](vīṇā) [ca](ca) [yoṣit](yoṣit) [ca](ca) [mithunaṃ](mithunaṃ) [dhanuḥ](dhanuḥ)
+[man](pumān) [mace](gadī) [with-vina](savīṇā) [and](ca) [woman](yoṣitta) [pair](nmithunaṃ) [bow](dhanuḥ)
 
 ## mukta-m0-p44-v1081
-[strī](strī) [nauḥ](nauḥ) [stholkā](stholkā) [asi](asi) [bhṛt](bhṛt) [kanyā](kanyā) [tulā](tulā) [dhāraḥ](dhāraḥ) [naraḥ](naraḥ) [tulā](tulā)
+[woman](strī) [boat-meteor-sword-bearer-girl](naustholkāsibhṛtkanyā) [balance-holder](tulādhāro) [man-balance](narastulā)
 
 ## mukta-m0-p44-v1082
-[meṣa](meṣa) [ādyāḥ](ādyāḥ) [pañca](pañca) [ca](ca) [eva](eva) [anye](anye) [sva](sva) [nāma](nāma) [tulya](tulya) [rūpaka](rūpaka)
+[aries-etc-five-and-others](meṣādyāḥ) [of-own-name-similar-form](pañca caivānye) [svanāmatulyarūpakāḥ]
 
 ## mukta-m0-p44-v1083
-[hema](hema) [ābhaḥ](ābhaḥ) [sa](sa) [kirīṭaḥ](kirīṭaḥ) [ca](ca) [devarājaḥ](devarājaḥ) [sura](sura) [āvṛtaḥ](āvṛtaḥ)
+[golden-crowned](hemābhaḥ) [and](sakirīṭaśca) [deva-king](devarājaḥ) [surrounded-by-gods](surāvṛtaḥ)
 
 ## mukta-m0-p44-v1084
-[chāga](chāga) [sthaḥ](sthaḥ) [sākṣa](sākṣa) [sūtra](sūtra) [ugraḥ](ugraḥ) [sapta](sapta) [arciḥ](arciḥ) [śakti](śakti) [dhārakaḥ](dhārakaḥ)
+[goat-standing](chāgasthaḥ) [with-rosary-fierce](sākṣasūtrograḥ) [seven-flames](saptārciḥ) [spear-bearer](śaktidhārakaḥ)
 
 ## mukta-m0-p44-v1085
-[rakta](rakta) [hṛd](hṛd) [pāśa](pāśa) [bhṛt](bhṛt) [kṛṣṇaḥ](kṛṣṇaḥ) [mahiṣa](mahiṣa) [stha](stha) [ugra](ugra) [dūtavān](dūtavān)
+[red-heart-noose-bearer-krishna](raktahṛkpāśabhṛtkṛṣṇo) [buffalo-seated-fierce-messenger](mahiṣasthogradūtavān)
 
 ## mukta-m0-p44-v1086
-[pum](pum) [sthita](sthita) [khaḍga](khaḍga) [hastaḥ](hastaḥ) [ca](ca) [nīla](nīla) [ābhaḥ](ābhaḥ) [rākṣasa](rākṣasa) [āvṛtaḥ](āvṛtaḥ)
+[man-standing-sword-handed](puṃsthita) [blue](khaḍgahastaśca) [rakshasa-surrounded](nīlābho rākṣasāvṛtaḥ)
 
 ## mukta-m0-p44-v1087
-[sarva](sarva) [ābharaṇa](ābharaṇa) [saṃyuktaḥ](saṃyuktaḥ) [varūṇaḥ](varūṇaḥ) [pīta](pīta) [vastra](vastra) [bhṛt](bhṛt)
+[all-ornament-endowed](sarvābharaṇasaṃyukto) [varuna](varūṇaḥ) [yellow-garment-bearer](pītavastrabhṛt)
 
 ## mukta-m0-p44-v1088
-[rakta](rakta) [akṣa](akṣa) [rakta](rakta) [vāsaḥ](vāsaḥ) [ca](ca) [mṛga](mṛga) [sthaḥ](sthaḥ) [ca](ca) [aṅkuśī](aṅkuśī) [dhvajī](dhvajī)
+[red-eyed](raktakṣo) [red-garment](raktavāsaśca) [deer-seated](mṛgasthaścaṅkuśī) [flag-bearer](dhvajī)
 
 ## mukta-m0-p44-v1089
-[dhaneśaḥ](dhaneśaḥ) [vara](vara) [daḥ](daḥ) [kāryaḥ](kāryaḥ) [nānā](nānā) [ābharaṇa](ābharaṇa) [maṇḍitaḥ](maṇḍitaḥ)
+[wealth-lord-boon-giver](dhaneśo varadaḥ) [made](kāryo) [various-ornament-adorned](nānābharaṇamaṇḍitaḥ)
 
 ## mukta-m0-p44-v1090
-[īśānaḥ](īśānaḥ) [ahi](ahi) [indu](indu) [bhṛt](bhṛt) [ca](ca) [ete](ete) [lokapālāḥ](lokapālāḥ) [dvibāhavaḥ](dvibāhavaḥ)
+[ishana-serpent-moon-bearer-these](īśāno'hīndubhṛccaite) [world-guardians-two-armed](lokapālā dvibāhavaḥ)
 
 ## mukta-m0-p44-v1091
-[viśvakarmā](viśvakarmā) [sadā](sadā) [gauraḥ](gauraḥ) [jñāna](jñāna) [mudrā](mudrā) [akṣa](akṣa) [sūtra](sūtra) [bhṛt](bhṛt)
+[vishvakarma-always-fair](viśvakarmā sadā gauro) [knowledge-mudra-rosary-bearer](jñānamudrākṣasūtrabhṛt)
 
 ## mukta-m0-p44-v1092
-[ālīḍha](ālīḍha) [karaṇa](karaṇa) [āsaktaṃ](āsaktaṃ) [mahā](mahā) [kāyaṃ](kāyaṃ) [su](su) [bhīṣaṇam](bhīṣaṇam)
+[alidha-posture-attached](ālīḍhakaraṇāsaktaṃ) [great-body-very-terrifying](mahākāyaṃ subhīṣaṇam)
 
 ## mukta-m0-p44-v1093
-[pīta](pīta) [dhvaja](dhvaja) [dharaṃ](dharaṃ) [vāme](vāme) [tarjanīṃ](tarjanīṃ) [vā](vā) [hṛd](hṛd) [agrataḥ](agrataḥ)
+[yellow-banner-bearer-left](pītadhvajadharaṃ vāme) [threatening-or-heart-front](tarjanīṃ vā hṛdagrataḥ)
 
 ## mukta-m0-p44-v1094
-[saṃpīḍya](saṃpīḍya) [rākasa](rākasa) [padbhyāṃ](padbhyāṃ) [muñcan](muñcan) [nādaṃ](nādaṃ) [marut](marut) [sutam](sutam)
+[pressing-rakshasas-feet](saṃpīḍya rākasān padbhyāṃ) [releasing-roar](muñcannādaṃ) [marut-son](marutsutam)
 
 ## mukta-m0-p44-v1095
-[skandha](skandha) [yakṣa](yakṣa) [anvitāḥ](anvitāḥ) [nityaṃ](nityaṃ) [kartavyāḥ](kartavyāḥ) [yoṣit](yoṣit) [anvitāḥ](anvitāḥ)
+[skanda-yaksha-endowed-always](skandhayakṣānvitā nityaṃ) [made-woman-endowed](kartavyā yoṣidanvitāḥ)
 
 ## mukta-m0-p44-v1096
-[mālā](mālā) [bhṛtaḥ](bhṛtaḥ) [athavā](athavā) [hṛṣṭāḥ](hṛṣṭāḥ) [kha](kha) [sthāḥ](sthāḥ) [vidyādharaḥ](vidyādharaḥ) [sadā](sadā)
+[garland-bearer-or-delighted](mālābhṛto'thavā hṛṣṭāḥ) [sky-dwelling-vidyadhara-always](khasthā vidyādharāḥ sadā)
 
 ## mukta-m0-p44-v1097
-[piṅga](piṅga) [varvara](varvara) [keśa](keśa) [aśva](aśva) [vetālāḥ](vetālāḥ) [vikṛta](vikṛta) [ānanāḥ](ānanāḥ)
+[tawny-varvara-haired](piṅgavarvara) [horse-vetala-distorted-faced](keśāśva vetālā vikṛtānanāḥ)
 
 ## mukta-m0-p44-v1098
-[kapāla](kapāla) [mālinaḥ](mālinaḥ) [śūla](śūla) [dhārīṇaḥ](dhārīṇaḥ) [kṣetra](kṣetra) [pālakāḥ](pālakāḥ)
+[skull-garlanded-spear-bearing](kapālamālinaḥ śūladhārīṇaḥ) [field-guardians](kṣetrapālakāḥ)
 
 ## mukta-m0-p44-v1099
-[kṛśāḥ](kṛśāḥ) [mahā](mahā) [udarāḥ](udarāḥ) [pretāḥ](pretāḥ) [khalu](khalu) [gallāḥ](gallāḥ) [ca](ca) [lomaśāḥ](lomaśāḥ)
+[thin-big-bellied-pretas](kṛśā mahodarāḥ pretā) [indeed-gallous-hairy](khalva[g: khalu]gallāśca lomaśāḥ)
 
 ## mukta-m0-p44-v1100
-[sva](sva) [aṅga](aṅga) [varṇa](varṇa) [dharāḥ](dharāḥ) [sarvāḥ](sarvāḥ) [yathā](yathā) [uktaṃ](uktaṃ) [brahma](brahma) [yāmale](yāmale)
+[own-limb-color-bearing-all](svāṅgavarṇadharāḥ sarvā) [as-stated-in-brahmayamala](yathoktaṃ brahmayāmale)
