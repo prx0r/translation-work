@@ -5,73 +5,73 @@
 [lotus-stem](mṛṇāla)+[shining](vilasat)+[arm](bāhuḥ) [noose](pāśa)+[goad](aṅkuśa)+[bow](dhanus)+[bearing](dharā)
 
 ## mukta-m0-p161-v4002
-[copper](tāmra)+[lotus](paṅkaja)+[hand](pāṇi)+[beauty](śrīḥ) [nail](nakha)+[gem](ratna)+[radiance](prabhā)+[possessing](vatī)
+[copper-lotus-hand-splendor](tāmrapaṅkajapāṇiśrīḥ) [nail-gem-radiant](nakharatnaprabhāvatī)
 
 ## mukta-m0-p161-v4003
-[mandāra](mandāra)+[pair](dvandva)+[beautiful-breasts](sukucā) [hair-line](romarājī)+[serpent](bhujaṅgakā)
+[mandara-pair](mandāradvandva)+[beautiful-breast](sukucā) [hair-line](romarājī)+[serpent](bhujaṅgakā)
 
 ## mukta-m0-p161-v4004
-[jingling](raṇat)+[girdle](kāñcī)+[cord](guṇa)+[bound](unnaddhā) [silk](paṭṭa)+[cloth](aṃśuka)+[good](su)+[waistband](nīvikā)
+[jingling-girdle-cord-raised](raṇatkāñcīguṇonnaddhā) [silk-garment-fine](paṭṭāṃśukasunīvikā)
 
 ## mukta-m0-p161-v4005
-[good](su)+[knee](jānu)+[mandara](mandara)+[attached](āsakta)+[shining](lasat)+[shin](jaṅghā)+[pair](dvaya)+[endowed](anvitā)
+[beautiful-knee-mandara-attached](sujānumandarāsaktalasajjaṅghādvayānvitā)
 
 ## mukta-m0-p161-v4006
-[yogi](yogi)+[meditated](dhyeya)+[foot](pada)+[pair](dvandvā) [nectar](sudhā)+[mother](mā)+[immortal](amṛta)+[flowing](sāriṇī)
+[yogi-meditated-foot-pair](yogidhyeyapadadvandvā) [nectar-stream](sudhāmā'mṛtasāriṇī)
 
 ## mukta-m0-p161-v4007
-[saint](sādhu)+[accomplished](siddhā) [good](su)+[wise](buddhā) [and](ca) [wise](budhā) [gods](vṛndāraka)+[rising](udayā)
+[good-siddha](sādhusiddhā) [good-intellect](subuddhā) [and](ca) [wise](budhā) [god-host-rising](vṛndārakodayā)
 
 ## mukta-m0-p161-v4008
-[taste](rasa)+[deep](gambhīra)+[lake](sarasī)+[lotus](padminī) [taste](rasa)+[essence](sāra)+[possessing](sā)
+[deep-rasa-lotus-lake](rasagambhīrasarasīpadminī) [essence-rasa](rasasārasā)
 
 ## mukta-m0-p161-v4009
-[dancer](naṭa)+[king](rāja)+[beloved](priyā) [world](viśva)+[dance](nāṭyā) [dancer](nartaka)+[female-dancer](nartakī)
+[dance-king-beloved](naṭarājapriyā) [world-dance](viśvanāṭyā) [dancer-dancing](nartakanartakī)
 
 ## mukta-m0-p161-v4010
-[peak](kūṭa)+[enemy](ara)+[peak](kūṭā) [peak](kūṭa)+[abiding](sthā) [five](pañca)+[peak](kūṭā) [and](ca) [fifth](pañcamī)
+[peak-peak](kūṭārakūṭā) [peak-abiding](kūṭasthā) [five-peak](pañcakūṭā) [and](ca) [fifth](pañcamī)
 
 ## mukta-m0-p161-v4011
-[peak](kūṭa)+[sixteen](ṣoḍaśa)+[endowed](saṃpannā) [fourth](turīyā) [supreme](parama)+[art](akalā)
+[sixteen-syllable-complete](kūṭaṣoḍaśasaṃpannā) [fourth](turīyā) [supreme-art](paramākalā)
 
 ## mukta-m0-p161-v4012
-[sixteen](ṣoḍaśa)+[syllable](arṇā) [three](tri)+[color](varṇā) [and](ca) [bindu](bindu)+[nāda](nāda)+[form](svarūpiṇī)
+[sixteen-syllables](ṣoḍaśārṇā) [three-colors](trivarṇā) [and](ca) [bindu-nada-form](bindunādasvarūpiṇī)
 
 ## mukta-m0-p161-v4013
-[consciousness](caitanya)+[creeper](vallī) [peak](kūṭa)+[self](ātmā) [Kameshi](kāmeśī) [dream](svapna)+[visible](dṛśya)+[going](gā)
+[consciousness-vine](caitanyavallī) [peak-self](kūṭātmā) [kameshi](kāmeśī) [dream-visible-going](svapnadṛśyagā)
 
 ## mukta-m0-p161-v4014
-[dream](svapna)+[refuge](āśrayā) [deep-sleep](suṣuptiḥ)+[and](ca) [drowsiness](tandrā)+[freed](muktā) [and](ca) [Madhavi](mādhavī)
+[dream-support](svapnāśrayā) [deep-sleep](suṣuptiśca) [drowsiness-freed](tandrāmuktā) [and](ca) [madhavi](mādhavī)
 
 ## mukta-m0-p161-v4015
-[Shakambhari](śākambharī) [Nandi](nandi)+[knowledge](vidyā) [radiant](bhāsvat)+[illumination](vidyota)+[garlanded](mālinī)
+[shakambhari](śākambharī) [nandi-vidya](nandividyā) [shining-garland](bhāsvadvidyotamālinī)
 
 ## mukta-m0-p161-v4016
-[adept](sādhaka)+[chief](indra)+[movement](gatiḥ) [virtuous](sādhvī) [easy](su)+[obtained](labhā) [accomplishment](siddhi)+[cave](kandarā)
+[sadhaka-leader-gait](sādhakendragatiḥ) [virtuous](sādhvī) [easy](sulabhā) [siddhi-cave](siddhikandarā)
 
 ## mukta-m0-p161-v4017
-[nourishment](puṣṭiḥ)+[obstacle](vighna)+[removing](harī) [prosperity](bhūtiḥ)+[without-quality](viguṇā) [worshipful](pūjya)+[desire](kāma)+[cow](dhuk)
+[nourishment](puṣṭirvighnaharī) [obstacle-remover](vighnaharī) [prosperity](bhūtirviguṇā) [faultless](viguṇā) [worshipable-kamadhenu](pūjyakāmadhuk)
 
 ## mukta-m0-p161-v4018
-[all](sarva)+[parted-hair](sīmantinī) [liberation](mokṣā) [initiation](dīkṣā) [initiated](dīkṣita)+[mother](mātṛkā)
+[all-parted-hair](sarvasīmantinī) [liberation](mokṣā) [initiation](dīkṣā) [initiated-mother](dīkṣitamātṛkā)
 
 ## mukta-m0-p161-v4019
-[youth](yauvana)+[intoxicating](unmādinī) [lofty](tuṅgā) [good](su)+[hips](śroṇiḥ) [love](madana)+[slow](mantharā)
+[youth-maddening](yauvanonmādinī) [tall](tuṅgā) [beautiful-hips](suśroṇirmadamantharā) [love-slow](madamantharā)
 
 ## mukta-m0-p161-v4020
-[red](rakta)+[garland](mālā)+[radiance](ruciḥ) [crest](śikā)+[peacock](śikhaṇḍinī)+[very](ati)+[beautiful](sundarī)
+[red-garland-radiance](raktamālāruciḥ) [crest-crest-marked](śikāśikhaṇḍinyatisundarī) [very-beautiful](atisundarī)
 
 ## mukta-m0-p161-v4021
-[fragrant](surabhī) [desire](kāma)+[giving](dā) [desirable](kāmyā) [lovely](kamanīya)+[wealth](artha)+[desire](kāma)+[giving](dā)
+[wish-cow](surabhī) [desire-giver](kāmadā) [desirable](kāmyā) [lovely-purpose-desire-giver](kamanīyārthakāmadā)
 
 ## mukta-m0-p161-v4022
-[Goloka](goloka)+[goddess](devī) [world](loka)+[beauty](śrīḥ) [Goloka](goloka)+[protectress](paripālikā)
+[goloka-goddess](golokadevī) [world-splendor](lokaśrīrgolokaparipālikā) [goloka-protectress](golokaparipālikā)
 
 ## mukta-m0-p161-v4023
-[Rudra](rudra)+[wife](patnī) [auspicious](bhadra)+[mother](mātā) [nectar](sudhā)+[stream](dhārā)+[water](ambu)+[seeing](vikṣatiḥ)
+[rudra-consort](rudrapatnī) [auspicious-mother](bhadramātā) [nectar-stream](sudhādhārā'mbuvikṣatiḥ) [water-piercing](ambuvikṣatiḥ)
 
 ## mukta-m0-p161-v4024
-[milk](kṣīra)+[full](pūrṇa)+[ocean](arṇava)+[movement](gatiḥ) [nectar](sudhā)+[womb](yoniḥ) [good](su)+[eye](locanā)
+[milk-full-ocean-going](kṣīrapūrṇārṇavagatiḥ) [nectar-womb](sudhāyoniḥ) [beautiful-eye](sulocanā)
 
 ## mukta-m0-p161-v4025
-[good](su)+[conduct](cāritrā) [good](su)+[Tripura](tripurā) [good](su)+[breast](stanī) [breast](stana)+[affectionate](vatsalā)
+[good-conduct](sucāritrā) [good-tripura](sutripurā) [good-breast](sustanī) [breast-loving](stanavatsalā)
