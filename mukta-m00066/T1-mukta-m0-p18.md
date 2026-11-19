@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p18-v426
-[anaṃgaśaktayoṣṭau](anaṃgaśaktayoṣṭau) [tu](tu) [pūjanīyāmanīṣibhiḥ](pūjanīyāmanīṣibhiḥ)
+anaṃga-śaktayaḥ (love-powers) aṣṭau (eight) tu (but) pūjanīyāḥ (worshipful) manīṣibhiḥ (by-wise)
 
 ## mukta-m0-p18-v427
-[anaṃgamadanānaṃga](anaṃgamadanānaṃga) [madanāturayā](madanāturayā) [saha](saha)
+anaṃga (love) madana (passion) anaṃga (love) madana (passion) āturayā (with-distressed) saha (with)
 
 ## mukta-m0-p18-v428
-[anaṃgamālinī](anaṃgamālinī) [cāṣṭau](cāṣṭau) [pūjanīyā](pūjanīyā) [vidhānataḥ](vidhānataḥ)
+anaṃga-mālinī (love-garlanded) ca (and) aṣṭau (eight) pūjanīyāḥ (worshipful) vidhānataḥ (by-rite)
 
 ## mukta-m0-p18-v429
-[ānaṃdacakramānaṃda](ānaṃdacakramānaṃda) [kolāhalavivarddhanam](kolāhalavivarddhanam)
+ānanda-cakram (bliss-wheel) ānanda (bliss) kolāhala (uproar) vivarddhanam (increasing)
 
 ## mukta-m0-p18-v430
-[taṭitprabhā](taṭitprabhā) [samullāsapiṃjaraiḥ](samullāsapiṃjaraiḥ) [kāmaraśmibhiḥ](kāmaraśmibhiḥ)
+taṭit-prabhā (lightning-radiance) samullāsa (exultation) piṃjaraiḥ (with-yellow) kāma-raśmibhiḥ (with-love-rays)
 
 ## mukta-m0-p18-v431
-[anaṃgaśakti](anaṃgaśakti) [saṃkṣobhāṃ](saṃkṣobhāṃ) [nāḍībhyogalitaṃ](nāḍībhyogalitaṃ) [navam](navam)
+anaṃga-śakti (love-power) saṃkṣobhāt (from-agitation) nāḍībhyaḥ (from-channels) galitam (flowed) navam (new)
 
 ## mukta-m0-p18-v432
-[śṛṃgāravāhinīpūra](śṛṃgāravāhinīpūra) [pūrṇarāgāṃ](pūrṇarāgāṃ) [kurāruṇam](kurāruṇam)
+śṛṃgāra-vāhinī (erotic-flowing) pūra (flood) pūrṇa-rāgām (full-passion) kurāruṇam (reddish)
 
 ## mukta-m0-p18-v433
-[manmathadrava](manmathadrava) [saṃdoha](saṃdoha) [juṣṭamarthaprabhedanaiḥ](juṣṭamarthaprabhedanaiḥ)
+manmatha-drava (love-liquid) saṃdoha (abundance) juṣṭam (endowed) artha-prabhedanaiḥ (with-meaning-distinctions)
 
 ## mukta-m0-p18-v434
-[keyaṃ](keyaṃ) [caṃdrakalānāma](caṃdrakalānāma) [kutra](kutra) [tiṣṭhati](tiṣṭhati) [śaṃkara](śaṃkara)
+kā (who) iyaṃ (this) caṃdra-kalā (moon-digit) nāma (named) kutra (where) tiṣṭhati (stands) śaṃkara (Śaṅkara)
 
 ## mukta-m0-p18-v435
-[śṛṇukāmakalānāma](śṛṇukāmakalānāma) [nāḍībhogāṃbuvāhinī](nāḍībhogāṃbuvāhinī)
+śṛṇu (hear) kāma-kalā (love-digit) nāma (named) nāḍī-bhoga (channel-enjoyment) ambu-vāhinī (water-flowing)
 
 ## mukta-m0-p18-v436
-[nāḍīcakraṃ](nāḍīcakraṃ) [samastaṃ](samastaṃ) [ca](ca) [tayā](tayā) [vyāptaṃ](vyāptaṃ) [varānane](varānane)
+nāḍī-cakram (channel-wheel) samastam (all) ca (and) tayā (by-her) vyāptam (pervaded) varānane (fair-faced)
 
 ## mukta-m0-p18-v437
-[kāścidānaṃdavāhinya](kāścidānaṃdavāhinya) [ekaivamalavāhinī](ekaivamalavāhinī)
+kāścit (some) ānanda-vāhinyaḥ (bliss-flowing) eka (one) eva (only) amala-vāhinī (pure-flowing)
 
 ## mukta-m0-p18-v438
-[aṣṭaubhogāṃbuvāhinyaḥ](aṣṭaubhogāṃbuvāhinyaḥ) [tāsu](tāsu) [caṃdrakalā](caṃdrakalā) [parā](parā)
+aṣṭau (eight) bhoga-ambu-vāhinyaḥ (enjoyment-water-flowing) tāsu (in-them) caṃdra-kalā (moon-digit) parā (supreme)
 
 ## mukta-m0-p18-v439
-[caṃdrarekhā](caṃdrarekhā) [caṃdravatī](caṃdravatī) [tathā](tathā) [caṃdramahodayā](caṃdramahodayā)
+caṃdra-rekhā (moon-streak) caṃdravatī (moon-like) tathā (and) caṃdra-mahodayā (moon-great-rise)
 
 ## mukta-m0-p18-v440
-[etābhogāṃbuvāhinya](etābhogāṃbuvāhinya) [svāṃśaiścaṃdrakalāśritāḥ](svāṃśaiścaṃdrakalāśritāḥ)
+etāḥ (these) bhoga-ambu-vāhinyaḥ (enjoyment-water-flowing) svāṃśaiḥ (by-own-parts) caṃdra-kalā (moon-digit) āśritāḥ (supported)
 
 ## mukta-m0-p18-v441
-[pradhānabhūtā](pradhānabhūtā) [vilasadvidyuddāma](vilasadvidyuddāma) [samaprabhā](samaprabhā)
+pradhāna-bhūtā (principal-being) vilasat (shining) vidyut-dāma (lightning-garland) sama-prabhā (equal-radiance)
 
 ## mukta-m0-p18-v442
-[sarvanāḍīmūlabhūtaṃ](sarvanāḍīmūlabhūtaṃ) [nābhicakraṃ](nābhicakraṃ) [samāśritā](samāśritā)
+sarva-nāḍī (all-channels) mūla-bhūtam (root-being) nābhi-cakram (navel-wheel) samāśritā (resorted)
 
 ## mukta-m0-p18-v443
-[tanmukhot](tanmukhot) [ghāṭanaṃ](ghāṭanaṃ) [loke](loke) [durlabhaṃ](durlabhaṃ) [parameśvari](parameśvari)
+tat (that) mukha (mouth) udghāṭanam (opening) loke (in-world) durlabham (rare) parameśvari (supreme-goddess)
 
 ## mukta-m0-p18-v444
-[dvitrāṇāmeva](dvitrāṇāmeva) [jāyeta](jāyeta) [sahasreṣvathakauliṣu](sahasreṣvathakauliṣu)
+dvitrāṇām (of-two-three) eva (only) jāyeta (arises) sahasreṣu (among-thousands) atha (then) kauliṣu (among-Kaulas)
 
 ## mukta-m0-p18-v445
-[yasya](yasya) [liṃgesvarāseka](liṃgesvarāseka) [sakṛdvāpīhajanmani](sakṛdvāpīhajanmani)
+yasya (whose) liṃga (liṅga) īśvara (lord) āseka (union) sakṛt (once) vā (or) api (even) iha (here) janmani (in-birth)
 
 ## mukta-m0-p18-v446
-[anirvācyasya](anirvācyasya) [nirvāṇa](nirvāṇa) [padavīnadaviyasī](padavīnadaviyasī)
+anirvācyasya (of-ineffable) nirvāṇa (liberation) padavī (path) nadaviyasī (boundless)
 
 ## mukta-m0-p18-v447
-[samayasya](samayasya) [parijñānādupacārasya](parijñānādupacārasya) [kalpanāt](kalpanāt)
+samayasya (of-convention) parijñānāt (from-knowledge) upacārasya (of-worship) kalpanāt (from-conception)
 
 ## mukta-m0-p18-v448
-[kadācit](kadācit) [kvacidunmeṣaṃ](kvacidunmeṣaṃ) [mukhodghāṭanalakṣaṇam](mukhodghāṭanalakṣaṇam)
+kadācit (sometimes) kvacid (somewhere) unmeṣam (opening) mukha-udghāṭana (mouth-opening) lakṣaṇam (mark)
 
 ## mukta-m0-p18-v449
-[tadarthānyevaśāstrāṇi](tadarthānyevaśāstrāṇi) [tadarthāśca](tadarthāśca) [pravṛttayaḥ](pravṛttayaḥ)
+tad (that) arthāni (purposes) eva (only) śāstrāṇi (scriptures) tad (that) arthāḥ (purposes) ca (and) pravṛttayaḥ (activities)
 
 ## mukta-m0-p18-v450
-[tasmāccaṃdrakalānāḍyāṃ](tasmāccaṃdrakalānāḍyāṃ) [bhogāmṛtamahodadhim](bhogāmṛtamahodadhim)
+tasmāt (therefore) caṃdra-kalā (moon-digit) nāḍyām (in-channel) bhoga-amṛta (enjoyment-nectar) mahodadhim (great-ocean)

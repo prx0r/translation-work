@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p64-v1576
-[chief-artisan](pradhānaśilpinam) [that-fragrant-flowers](tadvagdandhapuṣpaiḥ) [and-others](tathetarān)
+[chief-artisan](pradhānaśilpinam) [with-those-garland-flowers](tadvagdandhapuṣpaiḥ) [and](tathā) [others](itarān)
 
 ## mukta-m0-p64-v1577
-[by-your-foot-grace](bhavatpādaprasādāt) [for-me](me) [whole](kṛtsnam) [sacrifice-fruit](yāgaphalam) [may-be](bhavet)
+[by-your-foot-grace](bhavatpādaprasādāt) [to-me](me) [entire](kṛtsnam) [sacrifice-fruit](yāgaphalam) [may-become](bhavet)
 
 ## mukta-m0-p64-v1578
-[foot-attached](pādalagnaḥ) [says](vadet) [doer](kartā) [do](kuru) [action](karma) [by-your-command](tvadājñayā)
+[foot-attached](pādalagnaḥ) [should-speak](vadet) [doer](kartā) [do](kuru) [by-your-command](karmatvadājñayā)
 
 ## mukta-m0-p64-v1579
-[washing](prakṣālya) [hands-feet](pāṇipādam) [and](ca) [thrice](triḥ) [drink](pibet) [water](ambu) [purified](vītritam)
+[having-washed](prakṣālya) [hands-feet](pāṇipādam) [and](ca) [thrice](triḥ) [should-drink](pibet) [water](ambu) [purified](vītritam)
 
 ## mukta-m0-p64-v1580
-[with-three-saṃhitās](saṃhitābhistribhiḥ) [first](pūrvam) [mouth](āsyam) [thus](evam) [touch](upaspṛśet)
+[with-saṃhitās](saṃhitābhiḥ) [with-three](tribhiḥ) [first](pūrvam) [mouth](āsyam) [thus](evam) [should-touch](upaspṛśet)
 
 ## mukta-m0-p64-v1581
-[thumb-ring-finger](aṅgūṣṭhānāmikābhyām) [but](tu) [eyes-ears](cakṣuḥśrotre) [again](punaḥ) [again](punaḥ)
+[with-thumb-ring-finger](aṅgūṣṭhānāmikābhyām) [but](tu) [eyes-ears](cakṣuḥśrotre) [again](punaḥ) [again](punaḥ)
 
 ## mukta-m0-p64-v1582
-[with-all](sarvābhiḥ) [but](tu) [head](śiraḥ) [afterwards](paścāt) [arms](vāhū) [and](ca) [with-front](agreṇa) [touch](saṃspṛśet)
+[with-all](sarvābhiḥ) [but](tu) [head](śiraḥ) [afterwards](paścāt) [arms](vāhū) [and](ca) [with-tip](agreṇa) [should-touch](saṃspṛśet)
 
 ## mukta-m0-p64-v1583
-[sacrifice-shrine](yāgālayam) [entering](praviśya) [then](atha) [sword-seeds](khaḍgabījaiḥ) [well-sprinkled](surecitaiḥ)
+[sacrifice-shrine](yāgālayam) [having-entered](praviśya) [then](atha) [with-sword-seeds](khaḍgabījaiḥ) [consecrated](surecitaiḥ)
 
 ## mukta-m0-p64-v1584
-[element-purification](bhūtaśuddhim) [then](tataḥ) [do](kuryāt) [form-etc-complete](mūrtyādisakalīkṛtam)
+[elemental-purification](bhūtaśuddhim) [then](tataḥ) [should-do](kuryāt) [made-whole-with-form-etc](mūrtyādisakalīkṛtam)
 
 ## mukta-m0-p64-v1585
-[twelve-angula](dvādaśāṅgulam) [raised](utsiktam) [white-turban-bearer](sitoṣṇīṣavidhārakaḥ)
+[twelve-fingers](dvādaśāṅgulam) [raised](utsiktam) [white-turban-bearer](sitoṣṇīṣavidhārakaḥ)
 
 ## mukta-m0-p64-v1586
-[may-be](bhavet) [in-sacrifice](yajñe) [good-teacher](sadācāryaḥ) [Śrīkaṇṭha-form-bearer](śrīkaṇṭharūpadhārakaḥ)
+[may-be](bhavet) [in-sacrifice](yajñe) [good-teacher](sadācāryaḥ) [śrīkaṇṭha-form-bearer](śrīkaṇṭharūpadhārakaḥ)
 
 ## mukta-m0-p64-v1587
-[thus](ityevam) [without-doubt](nirvikalpena) [mind](cetasā) [meditate](cintayet) [always](sadā)
+[thus](ityevam) [without-doubt](nirvikalpena) [with-mind](cetasā) [should-meditate](cintayet) [always](sadā)
 
 ## mukta-m0-p64-v1588
-[with-half-water](tenārdhavāriṇā) [sprinkling](prokṣya) [all](sarvam) [flowers-fruits-etc](puṣpaphalādikam)
+[with-that](tena) [half-water](ardhavāriṇā) [having-sprinkled](prokṣya) [all](sarvam) [flowers-fruits-etc](puṣpaphalādikam)
 
 ## mukta-m0-p64-v1589
-[with-armor](varmaṇā) [gather](saṅgahet) [afterwards](paścāt) [chowries-or](cāmarairvā) [feathers](picchakaiḥ)
+[with-armor](varmaṇā) [should-gather](saṅgahet) [afterwards](paścāt) [with-chowries](cāmaraiḥ) [or](vā) [then](atha) [with-fans](picchakaiḥ)
 
 ## mukta-m0-p64-v1590
-[fragrance-water-fruit-gem-rich](gandhāmbuphalaratnāḍhyam) [herbs-clothes-endowed](oṣadhīvastrasaṃyutam)
+[rich-in-perfume-water-fruit-gems](gandhāmbuphalaratnāḍhyam) [joined-with-herbs-cloths](oṣadhīvastrasaṃyutam)
 
 ## mukta-m0-p64-v1591
-[eastern](aiśyām) [direction](diśi) [weapon-endowed](astrasaṃyuktam) [place](sthāpayet) [sky-above](ambaropari)
+[in-eastern](aiśyām) [direction](diśi) [joined-with-weapons](astrasaṃyuktam) [should-place](sthāpayet) [on-sky](ambaropari)
 
 ## mukta-m0-p64-v1592
-[placing](vinyasya) [pots](kalaśān) [there](tatra) [them-and](tāṃśca) [to-right](dakṣiṇataḥ) [worship](arcayet)
+[having-placed](vinyasya) [pots](kalaśān) [there](tatra) [them](tān) [and](ca) [to-right](dakṣiṇataḥ) [should-worship](arcayet)
 
 ## mukta-m0-p64-v1593
-[canopy](vitānam) [month-portion](mañcamāṃśena) [previously-said](prāguktaiḥ) [flags-gateways](dhvajatoraṇān)
+[canopy](vitānam) [with-platform-portion](mañcamāṃśena) [previously-said](prāguktaiḥ) [flags-arches](dhvajatoraṇān)
 
 ## mukta-m0-p64-v1594
 [established](saṃsthitam)
 
 ## mukta-m0-p64-v1595
-[Indra-etc-grass-horse](indrendviśāgradarbhāśva) [strew](stṛṇīyāt) [unbroken-rice](akṣatām) [pure](śucīn)
+[indra-moon-īśa-tip-darbha-horse](indrendviśāgradarbhāśva) [should-strew](stṛṇīyāt) [unbroken-rice](akṣatām) [pure](śucīn)
 
 ## mukta-m0-p64-v1596
-[arghya](argham) [giving](datvā) [but](tu) [by-mouth](vaktreṇa) [incense](dhūpam) [indeed](vai) [by-middle](madhyagena) [but](tu)
+[arghya](argham) [having-given](datvā) [but](tu) [with-mouth](vaktreṇa) [incense](dhūpam) [indeed](vai) [with-middle](madhyagena) [but](tu)
 
 ## mukta-m0-p64-v1597
-[unmanifest-etc](avyaktādīni) [liṅgas](liṅgāni) [east-Indra-etc-heads](prāgindvīśaśirāṃsi) [and](ca)
+[unmanifest-etc](avyaktādīni) [liṅgas](liṅgāni) [east-moon-īśa-heads](prāgindvīśaśirāṃsi) [and](ca)
 
 ## mukta-m0-p64-v1598
-[with-uneven-threads](viṣamasūtrakaiḥ)
+[with-unequal-threads](viṣamasūtrakaiḥ)
 
 ## mukta-m0-p64-v1599
-[up-down-portion-abandonment](ūrdhvādhoṃśaparityāgāt) [again-turning](punarvṛttim) [two-portion](dvidhāṃśataḥ)
+[by-abandoning-upper-lower-parts](ūrdhvādhoṃśaparityāgāt) [re-circulation](punarvṛttim) [from-two-parts](dvidhāṃśataḥ)
 
 ## mukta-m0-p64-v1600
-[inside-concealing](antaluptvā) [thousands](sahasrāṇi) [becomes](bhavati) [interrupted](antaritaiḥ) [always](sadā)
+[having-concealed-within](antaluptvā) [thousands](sahasrāṇi) [becomes](bhavati) [with-interrupted](antaritaiḥ) [always](sadā)
