@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p08-v176
-[etatsiddhaṃ](that-accomplished) [sadā](always) [śaivaṃ](śaiva) [gururūpamajanmakam](guru+form+unborn)
+[gloss](etat) [gloss](siddham) [gloss](sadā) [gloss](śaivam) [gloss](guru-rūpam) [gloss](ajanmakam)
 
 ## mukta-m0-p08-v177
-[śivāntanāmakāḥ](śiva-end-named) [sarve](all) [bhasmāṅgā](ash-limbed) [brahmacāriṇaḥ](brahmacārins)
+[gloss](śivānta-nāmakāḥ) [gloss](sarve) [gloss](bhasma-aṅgāḥ) [gloss](brahmacāriṇaḥ)
 
 ## mukta-m0-p08-v178
-[viśeṣayātu](let-it-distinguish) [sāmānyā](common) [gururapyevameva](guru+also+thus+thus) [tu](but)
+[gloss](viśeṣayātu) [gloss](sāmānyā) [gloss](guruḥ) [gloss](api) [gloss](evameva) [gloss](tu)
 
 ## mukta-m0-p08-v179
-[ambhojaṃ](lotus) [paṅkajaṃ](mud-born) [yadvattadvacchaivā](as+that+so+śaiva) [na](not) [cetare](others)
+[gloss](ambhojam) [gloss](paṅkajam) [gloss](yadvat) [gloss](tadvat) [gloss](śaivāḥ) [gloss](na) [gloss](cetare)
 
 ## mukta-m0-p08-v180
-[tathaiva](likewise) [śivaliṅgānāṃ](of-śiva-liṅgas) [śaivāḥ](śaivas) [pāśupatādayaḥ](pāśupata+etc)
+[gloss](tathaiva) [gloss](śivaliṅgānām) [gloss](śaivāḥ) [gloss](pāśupata-ādayaḥ)
 
 ## mukta-m0-p08-v181
-[liṅgabhedaphalairyukto](joined+by+liṅga+difference+fruits) [yātyasau](he-goes) [rauravaṃ](raurava) [dhruvam](certainly)
+[gloss](liṅga-bheda-phalaiḥ) [gloss](yuktaḥ) [gloss](yāti) [gloss](asau) [gloss](rauravam) [gloss](dhruvam)
 
 ## mukta-m0-p08-v182
-[anyathā](otherwise) [pāpakārī](sin-doer) [syādityājñā](would-be+thus+command) [pārameśvarī](supreme-lordly)
+[gloss](anyathā) [gloss](pāpakārī) [gloss](syāt) [gloss](iti) [gloss](ājñā) [gloss](pārameśvarī)
 
 ## mukta-m0-p08-v183
-[brahmacārīgṛhasthatvabhedabhinnaṃ](brahmacārin+householder+state+difference+divided) [dvidhā](in-two-ways) [sthitam](established)
+[gloss](brahmacārī-gṛhastha-tva-bheda-bhinnaṃ) [gloss](dvidhā) [gloss](sthitam)
 
 ## mukta-m0-p08-v184
-[kāmyakāmikriyāṃ](desire+desire+rite) [vacmi](I-speak) [sāmprataṃ](now) [saṃprabhedataḥ](in-detail)
+[gloss](kāmya-kāmi-kriyām) [gloss](vacmi) [gloss](sāmpratam) [gloss](saṃprabhedataḥ)
 
 ## mukta-m0-p08-v185
-[bhuktimuktīcchukaḥ](desiring+bhukti+mukti) [kāmī](desirer) [kuryāddīkṣādimājñayā](should-do+initiation+etc+by-command)
+[gloss](bhukti-mukti-icchukaḥ) [gloss](kāmī) [gloss](kuryāt) [gloss](dīkṣā-ādi) [gloss](ājñayā)
 
 ## mukta-m0-p08-v186
-[pratiṣṭhādikriyāśeṣā](installation+etc+rites+remainder) [tatkṛtā](done-by-that) [saṃpraśasyate](is-praised)
+[gloss](pratiṣṭhā-ādi-kriyā-śeṣā) [gloss](tat-kṛtā) [gloss](saṃpraśasyate)
 
 ## mukta-m0-p08-v187
-[śivādhikāravṛttiryaḥ](whose+conduct+in+śiva+office) [sa](he) [sāntānika](sāntānika) [ucyate](is-called)
+[gloss](śiva-adhikāra-vṛttiḥ) [gloss](yaḥ) [gloss](sa) [gloss](sāntānikaḥ) [gloss](ucyate)
 
 ## mukta-m0-p08-v188
-[paścātkuryādvivāhaṃ](afterwards+should-do+marriage) [ca](and) [gṛhasthaḥ](householder) [sa](he) [vatārpakaḥ](vatārpaka)
+[gloss](paścāt) [gloss](kuryāt) [gloss](vivāham) [gloss](ca) [gloss](gṛhasthaḥ) [gloss](sa) [gloss](vatārpakaḥ)
 
 ## mukta-m0-p08-v189
-[bhaikṣyāśī](living-on-alms) [saṃyatātmā](self-controlled) [ca](and) [vratī](vowed) [sa](he) [parikīrtitaḥ](is-declared)
+[gloss](bhaikṣya-āśī) [gloss](saṃyata-ātmā) [gloss](ca) [gloss](vratī) [gloss](sa) [gloss](parikīrtitaḥ)
 
 ## mukta-m0-p08-v190
-[puṣpapātābhidhānaṃ](flower-fall+named) [tu](but) [maṭhī](maṭhī) [mudrābhiriṣyate](is-desired+with+mudrās)
+[gloss](puṣpa-pāta-abhidhānam) [gloss](tu) [gloss](maṭhī) [gloss](mudrābhiḥ) [gloss](iṣyate)
 
 ## mukta-m0-p08-v191
-[sadvastramañjanaṃ](good+cloth+anointing) [tailaṃ](oil) [nayate](carries) [ramate](delights) [hi](indeed) [tam](him)
+[gloss](sat-vastra) [gloss](añjanam) [gloss](tailam) [gloss](nayate) [gloss](ramate) [gloss](hi) [gloss](tam)
 
 ## mukta-m0-p08-v192
-[mākṣāya](for-honey) [vratinaṃ](vowed-one) [caiva](and+indeed) [varayenmatimānnaraḥ](wise-man+should-choose)
+[gloss](mākṣāya) [gloss](vratinaṃ) [gloss](ca) [gloss](eva) [gloss](varayet) [gloss](matimān) [gloss](naraḥ)
 
 ## mukta-m0-p08-v193
-[laukiko](worldly) [dravyabhāgī](share+of+goods) [syādvidyābhāk](would-be+knowledge+share) [pāralaukikaḥ](other-worldly)
+[gloss](laukikaḥ) [gloss](dravya-bhāgī) [gloss](syāt) [gloss](vidyā-bhāk) [gloss](pāralaukikaḥ)
 
 ## mukta-m0-p08-v194
-[bhrātṛṇaṃ](brother) [gurvabhāve](in+absence+of+guru) [syādgṛhasthānāṃ](would-be+of+householders) [svaputrakam](own+son)
+[gloss](bhrātṛṇam) [gloss](guru-abhāve) [gloss](syāt) [gloss](gṛhasthānām) [gloss](svaputrakam)
 
 ## mukta-m0-p08-v195
-[ayogyāḥ](unfit) [śivakāryeṣu](in+śiva+works) [ghaṇṭāsambandhino](bell+connected) [haret](should-remove)
+[gloss](ayogyāḥ) [gloss](śiva-kāryeṣu) [gloss](ghaṇṭā-sambandhinaḥ) [gloss](haret)
 
 ## mukta-m0-p08-v196
-[ṛṇe](in+debt) [dravye](in+goods) [ca](and) [piṇḍe](in+piṇḍa) [ca](and) [sa](he) [evaikaḥ](alone+one) [praśasyate](is-praised)
+[gloss](ṛṇe) [gloss](dravye) [gloss](ca) [gloss](piṇḍe) [gloss](ca) [gloss](sa) [gloss](eva) [gloss](ekaḥ) [gloss](praśasyate)
 
 ## mukta-m0-p08-v197
-[caturgocaramadhye](in+four+cow+range+middle) [ca](and) [śaivo](śaiva) [jyeṣṭhāyate](is-eldest) [param](supreme)
+[gloss](catur-gocara-madhye) [gloss](ca) [gloss](śaivaḥ) [gloss](jyeṣṭhāyate) [gloss](param)
 
 ## mukta-m0-p08-v198
-[śaivācāryastataḥ](then+śaiva+ācārya) [śreṣṭhaḥ](best) [sthāpayetsarvadevatāḥ](should-establish+all+deities)
+[gloss](śaiva-ācāryaḥ) [gloss](tataḥ) [gloss](śreṣṭhaḥ) [gloss](sthāpayet) [gloss](sarva-devatāḥ)
 
 ## mukta-m0-p08-v199
-[bhuktimuktipradātā](giver+of+bhukti+mukti) [ca](and) [nānyo](no+other) [vai](indeed) [viśvakṛdguruḥ](world-maker+guru)
+[gloss](bhukti-mukti-pradātā) [gloss](ca) [gloss](na) [gloss](anyaḥ) [gloss](vai) [gloss](viśvakṛt-guruḥ)
 
 ## mukta-m0-p08-v200
-[tadabhāve](in+absence+of+that) [tu](but) [kartavyāḥ](should-be-done) [svadevavratacāriṇaḥ](own+deity+vow+performers)
+[gloss](tad-abhāve) [gloss](tu) [gloss](kartavyāḥ) [gloss](svadeva-vrata-cāriṇaḥ)
