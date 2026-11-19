@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p57-v1401
-hidden-meaning-for [k: gurpardāya] and heart-limbed not but truth-awakening
+[for-hidden-meaning](guptārthāya) [and](ca) [heart-limbed](hṛdyāṅgi) [not](na) [but](tu) [in-truth-awakening](tatvāvabodhane)
 
 ## mukta-m0-p57-v1402
-bliss-tantra indeed in-this not elsewhere anywhere opinion
+[bliss-tantra](ānaṃdataṃtra) [indeed-in-this](evāsminnā) [not](na) [elsewhere](paratra) [sometimes-opinion](kvacinmataḥ)
 
 ## mukta-m0-p57-v1403
-truth-real this beautiful-browed great-sacrifice declared
+[this-is-truth](tatvabhūtamidaṃ) [O-fair-browed](subhruyo) [great-sacrifice](mahāyāga) [declared](īritaḥ)
 
 ## mukta-m0-p57-v1404
-of-this tantra truths and doctrine shown [kh: -daśyate]
+[of-this](asya) [tantra's](taṃtrasya) [truths](tatvāni) [and-doctrine](siddhāntaśca) [shown](pradarśyate)
 
 ## mukta-m0-p57-v1405
-manifestation-and-concealment occur in-all-things
+[manifestation-and-concealment](āvirbbhāvatirobhāvau) [occur](varttete) [in-all-things](sarvavastuṣu)
 
 ## mukta-m0-p57-v1406
-not devadatta from-house going-out previously-joined
+[not](na) [Devadatta](devadatto) [leaving-house](bhavanānnirgacchan) [previously-associated](pūrvasaṅgataḥ)
 
 ## mukta-m0-p57-v1407
-not devadatta from-house entering-concealed
+[not](na) [Devadatta](devadatto) [from-house](bhavanāt) [hidden-by-entering](praveśanatirohitaḥ)
 
 ## mukta-m0-p57-v1408
-manifestation without origin other-kind not exists
+[manifestation](āvirbhāvaṃ) [without-origin-other-form](vinotpattiranyākāpina) [exists](vidyate)
 
 ## mukta-m0-p57-v1409
-that-inquiry made not indeed beauty follows
+[in-that-inquiry](tadvicāre) [done](kṛte) [not-indeed](naiva) [beauty-follows](cārutvamanudhāvati)
 
 ## mukta-m0-p57-v1410
-produced-ness special-ness then-indeed at-first shown [kh: tathai-]
+[producedness](utpannatvaṃ) [particularity](viśiṣṭatvaṃ) [then-at-first](tadaivādau) [shown](pradarśitam)
 
 ## mukta-m0-p57-v1411
-not but their real-ness conventional-only-born
+[not](na) [but](tu) [their](teṣāṃ) [reality](vāstavatvaṃ) [by-conventional-birth-only](vyavahāraikajanmanā)
 
 ## mukta-m0-p57-v1412
-directions in-inquiry place sky in-inquiry wind
+[in-discussion-of-directions](diśaścacarcane) [place](deśo) [in-discussion-of-sky](nabhasaścarcane) [wind](marut)
 
 ## mukta-m0-p57-v1413
-earth water fire air sound darkness mind
+[earth](bhūmir) [water-fire](āponalo) [air](vāyuḥ) [sound-and-darkness](śabdaścatimiraṃ) [mind](manaḥ)
 
 ## mukta-m0-p57-v1414
-this indeed expansion of-all substances
+[this](etad) [only-difference](bhidaiva) [of-all](sarveṣāṃ) [categories](padārthānāṃ) [expansion](vijṛmbhaṇam)
 
 ## mukta-m0-p57-v1415
-aggregate-form-action-etc not their countability
+[aggregate-form-action-etc](saṅghatarūpakarmādyā) [not](na) [their](teṣām) [is](asti) [countability](gaṇyatā)
 
 ## mukta-m0-p57-v1416
-wind-darkness-not-indeed union [kh: refuge] anywhere worthy
+[wind-darkness-not-indeed](maruccatimirannaiva) [collection](saṃścayaṃ) [sometimes-deserves](kvacidarhataḥ)
 
 ## mukta-m0-p57-v1417
-nine-substances and these proclaimed great-scripture
+[nine-substances](navadravyāṇi) [these](caitāni) [declared](kīrttitāni) [in-great-scripture](mahāgame)
 
 ## mukta-m0-p57-v1418
-of-these only distinction various-number [kh: nanā-] having-made
+[of-these-only](eteṣāmeva) [by-difference](bhedena) [various-number](nānāsaṃkhyāṃ) [making](vidhāya) [and](ca)
 
 ## mukta-m0-p57-v1419
-direct-perception-measure-experience in-all-these parvati [kh: -tī]
+[direct-perception-experience](pratyakṣamānānubhavaḥ) [in-all-these](sarveṣveteṣu) [O-Parvati](pārvati)
 
 ## mukta-m0-p57-v1420
-ocean-darkness white-wind earth-pure variegated-form
+[in-water-darkness](jaladhvānte) [white-wind](śuklānile) [earth-pure](bhūśuciḥ) [variegated-form](śabalākṛti)
 
 ## mukta-m0-p57-v1421
-touch [kh: touch] direct-perception-object wind mountain-daughter
+[touch](sparśaḥ) [direct-perceptible](pratyakṣaviṣayaḥ) [wind](pavanaḥ) [O-mountain-daughter](parvatātmaje)
 
 ## mukta-m0-p57-v1422
-mind-soul-dependent all accepted [kh: -nnā] by-themselves measures
+[mind-soul-controlled](manojīvavaśāḥ) [all](sarve) [accepted](pratipannāḥ) [by-themselves](svayaṃ) [proofs](pramāḥ)
 
 ## mukta-m0-p57-v1423
-there sound indeed authoritative-speech veda-knowledge-scripture-nature
+[there](tatra) [sound-is-authoritative-speech](śabdastvāptavāco) [Veda-knowledge-scripture-nature](vedavidyāgamātmakaḥ)
 
 ## mukta-m0-p57-v1424
-special-part in-seen seeing part-holder-because
+[in-distinct-part](viśiṣṭabhāge) [seen](sādṛṣṭe) [vision](darśanaṃ) [of-part-holders](bhāginoyataḥ)
 
 ## mukta-m0-p57-v1425
-seen-all-forms pot direct-perception-ness [kh: -dyakṣatāsthi] if
+[of-seen-all-form](dṛṣṭasarvasvarūpasya) [jar-direct-perception-exists](ghaṭasyādhyakṣatāsthi) [if](cet)
