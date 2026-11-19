@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p24-v576
-[śrī-cakre](śrīcakre'pi) [api](śrīcakre'pi) [piven](pivenmadyaṃ) [madyaṃ](pivenmadyaṃ) [śakti-yuktaṃ](śaktiyuktaṃ) [maheśvari](maheśvari)
+[śrī+cakra+in](śrīcakre'pi) [drink+wine](pivenmadyaṃ) [śakti+yukta](śaktiyuktaṃ) [maheśvari](maheśvari)
 
 ## mukta-m0-p24-v577
-[ca](cottamaṃ) [uttamaṃ](cottamaṃ) [madhyamaṃ](madhyamaṃ) [jñeyaṃ](jñeyaṃ) [ca](cādhamañcādhamādhamam) [adhamaṃ](cādhamañcādhamādhamam) [ca](cādhamañcādhamādhamam) [adhama-adhamam](cādhamañcādhamādhamam)
+[and+best](cottamaṃ) [middle](madhyamaṃ) [to+be+known](jñeyaṃ) [and+low+and+lowest+of+lowest](cādhamañcādhamādhamam)
 
 ## mukta-m0-p24-v578
-[cakram](cakromamidaṃ) [idam](cakromamidaṃ) [jñeyaṃ](jñeyaṃ) [sā](sā) [kālī](kālī) [sa](sa) [ca](ca) [śaṅkaraḥ](śaṅkaraḥ)
+[cakra+this](cakromamidaṃ) [to+be+known](jñeyaṃ) [she+is+kālī](sā kālī) [he+is+śaṅkara](sa ca śaṅkaraḥ)
 
 ## mukta-m0-p24-v579
-[ekāṃ](ekāṃ) [śaktiṃ](śaktiṃ) [samānīya](samānīya) [ekaikaḥ](ekaikaḥ) [sādhakaḥ](sādhakaḥ) [sadā](sadā)
+[one+śakti](ekāṃ śaktiṃ) [having+brought+together](samānīya) [one+by+one](ekaikaḥ) [sādhaka+always](sādhakaḥ sadā)
 
 ## mukta-m0-p24-v580
 [bhairavī](bhairavī)
 
 ## mukta-m0-p24-v581
-[adhamaṃ](adhamaṃ) [cakra](cakravijñeyaṃ) [vijñeyaṃ](cakravijñeyaṃ) [sā](sā) [sādhyā](sādhyā) [sa](sa) [ca](ca) [sādhakaḥ](sādhakaḥ)
+[low+cakra+to+be+known](adhamaṃ cakravijñeyaṃ) [she+sādhyā](sā sādhyā) [he+sādhaka](sa ca sādhakaḥ)
 
 ## mukta-m0-p24-v582
-[śakti-hīnaṃ](śaktihīnañca) [ca](śaktihīnañca) [yat](yatkakraṃ) [cakraṃ](yatkakraṃ) [kevalaṃ](kevalaṃ) [madakaṃ](madakaṃ) [śive](śive)
+[śakti+without](śaktihīnañca) [which+cakra](yatcakraṃ) [only+intoxicating](kevalaṃ madakaṃ) [o+śive](śive)
 
 ## mukta-m0-p24-v583
-[madhyame](madhyame) [nava-śaktiṃ](navaśaktiñca) [ca](navaśaktiñca) [hīne](hīne'pi) [api](hīne'pi) [śakti-mātrakam](śaktimātrakam)
+[middle+nine+śaktis](madhyame navaśaktiñca) [deficient+also+śakti+only](hīne'pi śaktimātrakam)
 
 ## mukta-m0-p24-v584
-[tasmin](tasmin) [cakre](cakre) [sādhakaḥ](sādhako'pi) [api](sādhako'pi) [kadācit](kadācinna) [na](kadācinna) [praveśayet](praveśayet)
+[in+that+cakra](tasmin cakre) [sādhaka+also](sādhako'pi) [ever+not](kadācinna) [should+enter](praveśayet)
 
 ## mukta-m0-p24-v585
-[śrī-cakre](śrīcakre) [maithunaṃ](maithunaṃ) [bhadraṃ](bhadraṃ) [śiva-tvaṃ](śivatvaṃ) [yāti](yāti) [sādhakaḥ](sādhakaḥ)
+[śrī+cakra+maithuna](śrīcakre maithunaṃ) [auspicious](bhadraṃ) [śiva+state+goes](śivatvaṃ yāti) [sādhaka](sādhakaḥ)
 
 ## mukta-m0-p24-v586
-[vīra-cakram](vīracakramidaṃ) [idam](vīracakramidaṃ) [proktaṃ](proktaṃ) [deva-cakraṃ](devacakraṃ) [tataḥ](tataḥ) [śṛṇu](śṛṇu)
+[vīra+cakra+this+declared](vīracakramidaṃ proktaṃ) [deva+cakra+then+hear](devacakraṃ tataḥ śṛṇu)
 
 ## mukta-m0-p24-v587
-[sṛṣṭi-rūpaṃ](sṛṣṭirūpaṃ) [mahā-cakraṃ](mahācakraṃ) [śrī-cakraṃ](śrīcakraṃ) [parameśvari](parameśvari)
+[creation+form](sṛṣṭirūpaṃ) [great+cakra](mahācakraṃ) [śrī+cakra](śrīcakraṃ) [param+īśvari](parameśvari)
 
 ## mukta-m0-p24-v588
-[iti](iti) [śrī-sarvānanda-nātha-viracite](śrīsarvānandanāthaviracite) [sarvollāse](sarvollāse) [unviṃśati-ullāsaḥ](unviṃśatyullāsaḥ)
+[thus+śrī+sarvānandanātha+composed+sarvollāsa+twenty-first+ullāsa](iti śrīsarvānandanāthaviracite sarvollāse unviṃśatyullāsaḥ)
 
 ## mukta-m0-p24-v589
-[tatra](tatra) [sthāne](sthāne) [caret](careccakraṃ) [cakraṃ](careccakraṃ) [yatra](yatra) [syāt](syād) [devatā-gṛha](devatāgṛha)
+[there+place](tatra sthāne) [should+move+cakra](careccakraṃ) [where+would+be+devatā+house](yatra syād devatāgṛha)
 
 ## mukta-m0-p24-v590
-[devatā-vṛkṣa-mūleṣu](devatāvṛkṣamūleṣu) [sthānaṃ](sthānaṃ) [kuryāt](kuryāt) [prayatnataḥ](prayatnataḥ)
+[devatā+trees+roots](devatāvṛkṣamūleṣu) [place+should+make+effort](sthānaṃ kuryāt prayatnataḥ)
 
 ## mukta-m0-p24-v591
-[sādhakasya](sādhakasya) [gṛhaṃ](gṛhaṃ) [bhadre](bhadre) [śrī-cakra-sthānam](śrīcakrasthānamuttamam) [uttamam](śrīcakrasthānamuttamam)
+[of+sādhaka+house](sādhakasya gṛhaṃ) [bhadre](bhadre) [śrī+cakra+place+best](śrīcakrasthānamuttamam)
 
 ## mukta-m0-p24-v592
-[athavā](athavā) [yasya](yasya) [yat-sthānaṃ](yatsthānaṃ) [tasya](tasyājñayā) [ājñayā](tasyājñayā) [prakalpayet](prakalpayet)
+[or](athavā) [whose+which+place](yasya yatsthānaṃ) [by+his+command+should+arrange](tasyājñayā prakalpayet)
 
 ## mukta-m0-p24-v593
-[tat](tadudvegasya) [udvegasya](tadudvegasya) [yat](yatpāpaṃ) [pāpaṃ](yatpāpaṃ) [tat](tatpāpaṃ) [pāpaṃ](tatpāpaṃ) [tatra](tatra) [gacchati](gacchati)
+[of+that+distress+which+sin](tadudvegasya yatpāpaṃ) [that+sin+there+goes](tatpāpaṃ tatra gacchati)
 
 ## mukta-m0-p24-v594
-[śava-āsana](śavāsanādhikaṃ) [adhikaṃ](śavāsanādhikaṃ) [jñeyaṃ](jñeyaṃ) [latā-gṛha-praveśanam](latāgehapraveśanam)
+[śava+āsana+more+to+be+known](śavāsanādhikaṃ jñeyaṃ) [creeper+house+entry](latāgehapraveśanam)
 
 ## mukta-m0-p24-v595
-[yoni-abhāve](yonyabhāve) [maheśāni](maheśāni) [trikoṇaṃ](trikoṇañcāsanaṃ) [ca](trikoṇañcāsanaṃ) [āsanaṃ](trikoṇañcāsanaṃ) [śubham](śubham)
+[in+absence+of+yoni](yonyabhāve) [maheśāni](maheśāni) [triangle+seat+auspicious](trikoṇañcāsanaṃ śubham)
 
 ## mukta-m0-p24-v596
-[śava-abhāve](śavābhāve) [viṣṭaraṃ](viṣṭaraṃ) [hi](hi) [vīra-āsanam](vīrāsanamudīritam) [udīritam](vīrāsanamudīritam)
+[in+absence+of+corpse](śavābhāve) [stool+indeed](viṣṭaraṃ hi) [vīra+āsana+declared](vīrāsanamudīritam)
 
 ## mukta-m0-p24-v597
-[śava-eka](śavaikamāsanaṃ) [āsanaṃ](śavaikamāsanaṃ) [bhadre](bhadre) [viṣṭaraṃ](viṣṭaraṃ) [yugma](yugmamāsanam) [āsanaṃ](yugmamāsanam)
+[one+corpse+seat](śavaikamāsanaṃ) [bhadre](bhadre) [stool+pair+seat](viṣṭaraṃ yugmamāsanam)
 
 ## mukta-m0-p24-v598
-[anya-āsanaṃ](anyāsanaṃ) [catuṣkoṇaṃ](catuṣkoṇaṃ) [trikoṇaṃ](trikoṇaṃ) [parikalpitam](parikalpitam)
+[other+seat](anyāsanaṃ) [four+cornered](catuṣkoṇaṃ) [triangle+arranged](trikoṇaṃ parikalpitam)
 
 ## mukta-m0-p24-v599
-[kṛṣṇa-ajine](kṛṣṇājine) [jñāna-siddhiḥ](jñānasiddhirmokṣañca) [mokṣaṃ](jñānasiddhirmokṣañca) [ca](jñānasiddhirmokṣañca) [vyāghra-carmaṇi](vyāghracarmaṇi)
+[on+black+antelope+skin](kṛṣṇājine) [knowledge+siddhi](jñānasiddhirmokṣañca) [on+tiger+skin](vyāghracarmaṇi)
 
 ## mukta-m0-p24-v600
-[etad-bhinnaṃ](etadbhinnañcāsanaṃ) [ca](etadbhinnañcāsanaṃ) [āsanaṃ](etadbhinnañcāsanaṃ) [hi](hi) [citra-citra-ādi](citracitrādi) [saṃyutam](saṃyutam)
+[this+other+seat+indeed](etadbhinnañcāsanaṃ hi) [variegated+etc](citrācitrādi saṃyutam)
