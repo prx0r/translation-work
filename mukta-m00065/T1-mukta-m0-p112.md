@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p112-v2776
-[therefore](tasmāt) [should-do](kuryāt) [of-waters](apām) [in-path](mārge) [two](dve) [two](dve) [with-holes](randhrai) [from-earth-step](mahīkramāt)
+[therefore-do](tasmātkuryādapāṃ) [path](mārge) [two](dve) [two](dve) [holes](randhrai) [earth-step](mahīkramāt)
 
 ## mukta-m0-p112-v2777
-[with-ramas-parts](rāmāṃśaiḥ) [there](tatra) [lump](piṇḍī) [should-be](syāt) [season-veda-portion](ṛtuvedayamāṃśakaiḥ)
+[ramas-parts](rāmāṃśaistatra) [lump](piṇḍī) [syāt](syādṛtuvedayamāṃśakaiḥ)
 
 ## mukta-m0-p112-v2778
-[exit](niṣkrāntiḥ) [direction-by-direction](diśadiśyaiva) [nine](nava) [chariots](rathakāḥ) [considered](matāḥ)
+[exit](niṣkrāntirdiśadiśyaiva) [nine](navaiva) [chariots](rathakā) [considered](matāḥ)
 
 ## mukta-m0-p112-v2779
-[having-made](kṛtvā) [eighteen](aṣṭādaśabhiḥ) [earth](bhūḥ) [should-be](syāt) [another-one-by-one](anyaikaikaṃ) [without-order](vinā kramāt)
+[making](kṛtvāṣṭādaśabhirbhūḥ) [syāt](syādanyaikaikaṃ) [without](vinā) [order](kramāt)
 
 ## mukta-m0-p112-v2780
-[four-gates](caturdvāraṃ) [four-noses](caturnāsaṃ) [with-variegated-cavities](vicitrakuharaiḥ) [yutaṃ](yutam)
+[four-gates](caturdvāraṃ) [four-noses](caturnāsaṃ) [variegated-cavities](vicitrakuharairyutam)
 
 ## mukta-m0-p112-v2781
-[ten-less-hundred-peaks](daśonaśataśṛṅgaṃ) [ca](ca) [should-arrange](vidadhyāt) [mandara](mandaraṃ) [wise-one](sudhīḥ)
+[ten-less-hundred-peaks](daśonaśataśṛṅgaṃ) [ca](ca) [should-make](vidadhyānmandaraṃ) [wise](sudhīḥ)
 
 ## mukta-m0-p112-v2782
-[quality](guṇaṃ) [form](rūpaṃ) [that-before](tadagre) [ca](ca) [earth](bhūḥ) [transverse-fire](tiryagvahniṃ) [should-destroy](vināśayet)
+[quality](guṇaṃ) [form](rūpaṃ) [that-front](tadagre) [ca](ca) [earth](bhūḥ) [transverse-fire](tiryagvahniṃ) [destroy](vināśayet)
 
 ## mukta-m0-p112-v2783
-[likewise](tadvat) [having-cut](luptvā) [middle-half-chariot](madhyārdharathaṃ) [should-place](sthāpayet) [with-waters](jalaiḥ)
+[likewise](tadvalluptvā) [middle-half-chariot](ntare+madhyārdharathaṃ) [place](sthāpayejjalaiḥ)
 
 ## mukta-m0-p112-v2784
-[like-ma](mādivat)
+[like-mādi](mādivat)
 
 ## mukta-m0-p112-v2785
-[remaining-one-by-one-abandonment](śeṣaikaikaparityāgāt) [sun-earth-rise](arkabhūmīsamucchrayam)
+[remaining-one-by-one-abandonment](śeṣaikaikaparityāgādarkabhūmīsamucchrayam)
 
 ## mukta-m0-p112-v2786
-[eighty-peaks-equipped](aśītiśṛṅgasayuktaṃ) [kailasa](kailāsaṃ) [should-make](ghaṭayed) [excellent](varam)
+[eighty-peaks](aśītiśṛṅgasayuktaṃ) [kailāsa](kailāsaṃ) [make-excellent](ghaṭayedvaram)
 
 ## mukta-m0-p112-v2787
-[from-three-decay](trikṣayāt) [from-left](vāmataḥ) [corner](koṇaḥ) [of-them-pillar](tayostambhaḥ) [from-thin-decay](tanukṣayāt)
+[three-decay](trikṣayādvāmataḥ) [corner](koṇastayostambhastanukṣayāt)
 
 ## mukta-m0-p112-v2788
-[thus](ittham) [eva](eva) [other-half](aparārdhaṃ) [should-be](syāt) [four](catu) [directions](dikṣu) [all-around](samantataḥ)
+[thus](itthamevāparārdhaṃ) [syāt](syāccatu) [four-directions](rdikṣu) [all-around](samantataḥ)
 
 ## mukta-m0-p112-v2789
-[with-doors-bolts](sakapāṭārgalaiḥ) [veda-jars](vedaghaṭaiḥ) [naga](nāga) [windows](gavākṣakaiḥ)
+[with-doors-bolts](sakapāṭārgalairvedaghaṭairnāga) [gavākṣakaiḥ](gavākṣakaiḥ)
 
 ## mukta-m0-p112-v2790
-[above-that-one-by-one-decrease](tadūrdhvaikaikasaṃhrāsāt) [should-be-made](kartavyāḥ) [earths](bhūmayaḥ) [ten](daśa)
+[above-one-by-one-decrease](tadūrdhvaikaikasaṃhrāsātkartavyā) [earths](bhūmayo) [ten](daśa)
 
 ## mukta-m0-p112-v2791
-[cavities](kuharāṇi) [with-gods](suraiḥ) [in-middle](madhye) [in-chariot](rathake) [should-be](syuḥ) [vimana-two](vimānakau)
+[cavities](kuharāṇi) [gods](surairmadhye) [chariot](rathake) [syur](syurvimānakau)
 
 ## mukta-m0-p112-v2792
-[gate-one-eight](dvāraikāṣṭa) [samadyesa](samādyeśaḥ) [seventy](saptatibhiḥ) [with-tusks](viṣāṇakaiḥ)
+[door-one-eight](dvāraikāṣṭa) [samādyeśaḥ](samādyeśaḥ) [seventy-horns](saptatibhirviṣāṇakaiḥ)
 
 ## mukta-m0-p112-v2793
-[part-one-by-one](bhāgaikaikena) [with-joining](saṃveśāt) [three-parts](tryaṃśaiḥ) [ca](ca) [upper-two](uparadhau) [considered](matau)
+[part-one-by-one](bhāgaikaikena) [seating](saṃveśāttryaṃśaiścoparadhau) [matau](matau)
 
 ## mukta-m0-p112-v2794
-[sandhara](sāndhāraḥ) [four-faced](caturāsyaḥ) [ca](ca) [veda-aghra](vedāghraḥ) [with-rotation](bhramaṇānvitaḥ)
+[sāndhāra](sāndhāraścaturāsyaśca) [veda-agho](vedā"ghro) [rotation](bhramaṇānvitaḥ)
 
 ## mukta-m0-p112-v2795
-[vidyadhara-crowds](vidyādhārākulaiḥ) [pleasant](ramyaiḥ) [bhadra](bhadraḥ) [should-be](syāt) [sixty-peaks](ṣaṣṭiśṛṅgavān)
+[vidyādhāra-crowds](vidyādhārākulai) [pleasant](ramyairbhadraḥ) [syāt](syāt) [sixty-peaks](ṣaṣṭiśṛṅgavān)
 
 ## mukta-m0-p112-v2796
-[bhadra-parts](bhadrabhāgaiḥ) [maha-bhadra](mahābhadraḥ) [proclaimed](proktaḥ) [with-stairs-beauty](sopānaśobhitaḥ)
+[bhadra-parts](bhadrabhāgairmahābhadraḥ) [proktaḥ](proktaḥ) [steps-beautiful](sopānaśobhitaḥ)
 
 ## mukta-m0-p112-v2797
-[above](upariṣṭāt) [vimana-part](vimānāṃśaḥ) [in-order](kramataḥ) [meru-mandara](merumandarau)
+[above](upariṣṭādvimānāṃśaḥ) [kramato](kramato) [meru-mandara](merumandarau)
 
 ## mukta-m0-p112-v2798
-[all-self](sarvātmā) [with-peaks](śikharaiḥ) [should-be-made](kāryaḥ) [sarvatobhadra](sarvatobhadrakaḥ) [because](yataḥ)
+[all-self](sarvātmā) [peaks](śikharaiḥ) [kāryaḥ](kāryaḥ) [sarvatobhadra](sarvatobhadrako) [yataḥ](yataḥ)
 
 ## mukta-m0-p112-v2799
-[four-jars-equipped](caturghaṭasamopetaḥ) [with-stairs-pediment](sopānavalabhīyutaḥ)
+[four-pots](caturghaṭasamopetaḥ) [steps-valabhī](sopānavalabhīyutaḥ)
 
 ## mukta-m0-p112-v2800
-[with-peaks-moon-hall](kūṭānvitenduśālā) [should-be](syāt) [a](a) [dig-dvara-anghri-as-yako](digdvārāṅghryāsyako) [beauty](rucaḥ)
+[peaks-moon-hall](kūṭānvitenduśālā) [syāda](syāda) [digdvārāṅghryāsyako](digdvārāṅghryāsyako) [rucaḥ](rucaḥ)
