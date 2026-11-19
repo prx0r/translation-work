@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p71-v1751
-[manifesting-past-present-future](bhūta+bhāvi+vibhāvinī)
+[bhūta+bhāvi+vibhāvinī](bhūtabhāvivibhāvinī)
 
 ## mukta-m0-p71-v1752
-[therefore-other](ato+anyaḥ) [who](kaḥ) [beginning-end](sadā+adyantaḥ) [you](tvāṃ) [to-manifest](vibhāvayituṃ) [able](kṣamaḥ)
+[ataḥ+anyaḥ](ato'nyaḥ) [kaḥ](kaḥ) [sadā+ādi+antaḥ](sadādyantastvāṃ) [tvām](tvāṃ) [vibhāvayitum](vibhāvayituṃ) [kṣamaḥ](kṣamaḥ)
 
 ## mukta-m0-p71-v1753
-[auspicious](maṅgalā)
+[maṅgalā](maṅgalā)
 
 ## mukta-m0-p71-v1754
-[she](sā) [auspicious](maṅgalā) [always](sadā) [companion](sahāyā)
+[sā](sā) [maṅgalā](maṅgalā) [astu](astvasya) [asya](asya) [sadā](sadā) [sahāyā](sahāyā)
 
 ## mukta-m0-p71-v1755
-[good-character](suśīlā)
+[suśīlā](suśīlā)
 
 ## mukta-m0-p71-v1756
-[self](svayaṃ) [good-character](suśīlā) [if](yadi) [not-would-be](nābhaviṣyaḥ)
+[svayam](svayaṃ) [suśīlā](suśīlā) [yadi](yadi) [na+abhaviṣyaḥ](nābhaviṣyaḥ)
 
 ## mukta-m0-p71-v1757
-[ultimate-truth-awakening](paramārtha+prabodhikā)
+[paramārtha+prabodhikā](paramārthaprabodhikā)
 
 ## mukta-m0-p71-v1758
-[by-attainment](yadāptyā) [wandering](bhrāmaka) [other](anyān) [harms](arthāñ) [I-know](jānāmi) [grass-like](śaṣpavat)
+[yadā+āptyā](yadāptyā) [bhrāmakān+anyān+arthān](bhrāmakānanyānarthāñ) [jānāmi](jānāmi) [śaṣpavat](śaṣpavat)
 
 ## mukta-m0-p71-v1759
-[right-handed](dakṣiṇā)
+[dakṣiṇā](dakṣiṇā)
 
 ## mukta-m0-p71-v1760
-[therefore](yataḥ) [there](tataḥ) [by-wise-ones](tataprajñaiḥ) [right-handed](dakṣiṇā) [thus](iti) [celebrated](prakīrtyase)
+[yataḥ+tataḥ+tataprajñaiḥ](yatastatastataprajñairdakṣiṇeti) [dakṣiṇā](dakṣiṇeti) [iti](iti) [prakīrtyase](prakīrtyase)
 
 ## mukta-m0-p71-v1761
-[right-handed-form](dakṣiṇā+mūrtiḥ)
+[dakṣiṇāmūrtiḥ](dakṣiṇāmūrtiḥ)
 
 ## mukta-m0-p71-v1762
-[she](sā) [right-handed-form](dakṣiṇā+mūrtiḥ) [thus](iti) [famous](prasiddhā)
+[sā](sā) [dakṣiṇāmūrtiḥ](dakṣiṇāmūrtiriti) [iti](iti) [prasiddhā](prasiddhā)
 
 ## mukta-m0-p71-v1763
-[very-right-handed](sudakṣiṇā)
+[sudakṣiṇā](sudakṣiṇā)
 
 ## mukta-m0-p71-v1764
-[true](satyaṃ) [therefore](tato) [goddess](devi) [very-right-handed](sudakṣiṇā) [you-are](asi)
+[satyaṃ](satyaṃ) [tataḥ](tato) [devi](devi) [sudakṣiṇā](sudakṣiṇāsi) [asi](asi)
 
 ## mukta-m0-p71-v1765
-[haris-beloved](hari+priyā)
+[haripriyā](haripriyā)
 
 ## mukta-m0-p71-v1766
-[śauri](śauriḥ) [by-compassion](dayayā) [goddess](devī) [celebrated](kīrtitā) [she](sā) [haris-beloved](hari+priyā)
+[śauriḥ](śauriryaddayayā) [yad+dayayā](yaddayayā) [devī](devī) [kīrtitā](kīrtitā) [sā](sā) [haripriyā](haripriyā)
 
 ## mukta-m0-p71-v1767
-[yogini](yoginī)
+[yoginī](yoginī)
 
 ## mukta-m0-p71-v1768
-[disease-sorrow-removing](roga+śoka+vinivartitāśayā) [yogini](yoginī) [fortunate-yoga-giving](subhaga+yoga+dā) [let-her-be](astu) [she](sā)
+[roga+śoka+vinivartitāśayā](rogaśokavinivartitāśayā) [yoginī](yoginī) [subhaga+yoga+dā](subhagayogadāstu) [astu](astu) [sā](sā)
 
 ## mukta-m0-p71-v1769
-[yoga-united](yoga+yuktā)
+[yogayuktā](yogayuktā)
 
 ## mukta-m0-p71-v1770
-[consciousness-bliss](cid+ānanda) [indeed](eva) [eternally](nityaṃ) [yoga-united](yoga+yuktā) [therefore](tataḥ) [by-herself](svataḥ)
+[cidānanda+eva](cidānandaiva) [yat+nityaṃ](yannityaṃ) [yogayuktā](yogayuktā) [tataḥ](tataḥ) [svataḥ](svataḥ)
 
 ## mukta-m0-p71-v1771
-[yoga-limb](yoga+aṅgā)
+[yogāṅgā](yogāṅgā)
 
 ## mukta-m0-p71-v1772
-[afflicted-ones](āpannānām) [calamity](āpad) [single-cause](anta+eka+hetuḥ) [yoga-limb](yoga+aṅge) [this](iyaṃ) [celebrated](kīrtitā) [by-yoga-lords](yogināthaiḥ)
+[āpannānām+āpad+anta+eka+hetuḥ](āpannānāmāpadantaikaheturyogāṅgeyaṃ) [yogāṅgā](yogāṅgeyaṃ) [iyam](iyam) [kīrtitā](kīrtitā) [yogināthaiḥ](yogināthaiḥ)
 
 ## mukta-m0-p71-v1773
-[meditation-possessing](dhyāna+śālinī)
+[dhyānaśālinī](dhyānaśālinī)
 
 ## mukta-m0-p71-v1774
-[all-meditation-worthy](sarva+dhyeyā) [although](api) [all](sarvā) [you-are](asi) [you](tvaṃ) [whose](yasya) [meditation-possessing](dhyāna+śālinī)
+[sarva+dhyeyā+api](sarvadhyeyāpi) [sarvā](sarvāsi) [asi](asi) [tvam](tvaṃ) [yasya](yasya) [dhyānaśālinī](dhyānaśālinī)
 
 ## mukta-m0-p71-v1775
-[yoga-band-wearing](yoga+paṭṭa+dharā)
+[yoga+paṭṭa+dhārā](yogapaṭṭadharā)
