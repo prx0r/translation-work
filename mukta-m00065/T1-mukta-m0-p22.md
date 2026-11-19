@@ -2,76 +2,52 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p22-v526
-[other-work-purpose](anyakarmārthamānītonmādāniṣpattikāriṇī)
-
+other-work-purpose-intended-madness-production-causing
 ## mukta-m0-p22-v527
-[last-born](antyajā) [that](sā) [stone](śilā) [known](jñeyā) [of-twice-born-etc](dvijādīnāṃ) [blamed](vigarhitā)
-
+outcaste that stone known twice-born-etc by condemned
 ## mukta-m0-p22-v528
-[various](nāna) [color](varṇā) [and](ca) [outcaste-woman](cāṇḍalī) [that](sā) [of-maker](kartuḥ) [family-destroying](kulanāśinī)
-
+various color and candala that maker's family-destroying
 ## mukta-m0-p22-v529
-[for-primitive-beings](prākṛtānāṃ) [for-benefit](hitārthāya) [desire](kāmaṃ) [for-liberation-seeking](muktyarthināṃ) [of-men](nṛṇām)
-
+of-ordinary for-benefit desire liberation-seeking of-men
 ## mukta-m0-p22-v530
-[small-faults](svalpadoṣā) [these](ime) [known](khyātā) [twenty](viṃśatir) [by-lakh-distinction](lakṣabhedataḥ)
-
+small-faults these known twenty hundred-thousand-differences
 ## mukta-m0-p22-v531
-[know](jñaya) [of-real-earth-being](sadbhūmibhūtasya) [of-stone](pāṣāṇasya) [of-tree](drumasya) [and](ca)
-
+know true-earth-being of-stone of-tree and
 ## mukta-m0-p22-v532
-[born-from-that](tajja) [by-that-lord](tīśena) [by-mantra](mantreṇa) [birth-from-that](tajjātijananaṃ) [becomes](bhavet)
-
+that-born by-that-lord mantra that-birth-generation becomes
 ## mukta-m0-p22-v533
-[mark](lāñcha) [having-made](yatvā) [according-to-rule](yathānyāyaṃ) [should-cause-to-make](kartayec) [should-purify](śodhayed) [also](api)
-
+mark having-made according-to-rule cause-make purify also
 ## mukta-m0-p22-v534
-[with-pedestal](piṇḍikāsahitaṃ) [that](tac) [ca](ca) [up-to-viṣṇu-portion](viṣṇubhāgāntam) [raised](unnatam)
-
+pedestal-including that and Vishnu-portion-end elevated
 ## mukta-m0-p22-v535
-[single-piece-indeed](ekakhaṇḍaiva) [should-be-made](kartavyā) [pedestal](piṇḍikā) [indeed](vai) [of-śiva](śivasya) [but](tu)
-
+single-piece indeed to-be-made pedestal indeed of-Shiva but
 ## mukta-m0-p22-v536
-[spout-indra-soma](praṇālamaindrasaumye) [or](vā) [water-reservoir-below-thus](jalādhāramadhastathā)
-
+spout east-north or water-reservoir below thus
 ## mukta-m0-p22-v537
-[not](na) [but](tu) [brahma-stone](brahmaśilā) [by-wise](prājñair) [thus](iti) [in-scriptures](śāstreṣu) [spoken](bhāṣitam)
-
+not but Brahma-stone by-wise thus in-scriptures spoken
 ## mukta-m0-p22-v538
-[of-liṅga-cut-upper-part-situated](liṅgachedordhvabhāgasthā) [thus-below](tathādho) [part-going-or](bhāgagāpi) [or](vā)
-
+linga-cut-upper-part-standing thus below part-going also or
 ## mukta-m0-p22-v539
-[by-height](ucchrāyena) [but](tu) [of-liṅgas](liṅgānām) [single-piece](ekakhaṇḍo) [prescribed](vidhīyate)
-
+by-height but of-lingas single-piece prescribed
 ## mukta-m0-p22-v540
-[of-others-also](anyeṣāmapi) [of-liṅgas](liṅgānāṃ) [in-order](krameṇa) [one-finger-more](ekāṅgulādhilā)
-
+of-others also of-lingas in-order one-finger-above
 ## mukta-m0-p22-v541
-[by-own-measure](svamānāt) [girdle](mekhalā) [of-that](tasyāḥ) [trench](khātaṃ) [or](vā) [by-that-measure](tatpramāṇataḥ)
-
+by-own-measure girdle of-it pit or that-measure
 ## mukta-m0-p22-v542
-[greater-than-brahma-portion](brahmāṃśādadhikaḥ) [trench](khāto) [by-barley-six](yavaiṣaḍbhiḥ) [in-breadth](pravistaraḥ)
-
+from-Brahma-portion greater pit by-barleys six breadth
 ## mukta-m0-p22-v543
-[jewel-receptacles](ratnādhārāṇi) [in-middle](tanmadhye) [round](vṛttāni) [nine](nava) [should-arrange](kalpayet)
-
+jewel-receptacles in-its-middle round nine should-make
 ## mukta-m0-p22-v544
-[by-own-measure-half-breadth](svamānavistarārdhena) [by-thickness](bāhulyena) [endowed](samanvitā)
-
+by-own-measure-breadth-half thickness endowed
 ## mukta-m0-p22-v545
-[wooden](vārkṣī) [brahma-stone](brahmaśilā) [wooden](vārkṣe) [liṅga](liṅge) [pedestal](piṇḍikā) [thus](tathā)
-
+wooden Brahma-stone in-wooden linga be pedestal thus
 ## mukta-m0-p22-v546
-[should-worship](arcayet) [weapon](astra) [flowers-etc](puṣpādyair) [to-bring](ānetuṃ) [mantra-knower](mantravittamaḥ)
-
+worship weapon flowers-etc to-bring mantra-knower-best
 ## mukta-m0-p22-v547
-[ascetics](tāpasān) [śiva-devotees](śivabhaktāṃś) [ca](ca) [having-satisfied](tarpayitvā) [should-bring-chariot](ānayedratham)
-
+ascetics Shiva-devotees and satisfying bring chariot
 ## mukta-m0-p22-v548
-[in-chariot](rathe) [having-placed](kṛtvā) [ca](ca) [lord-of-gods](deveśaṃ) [having-worshipped](pūjayitvā) [him-bring](tamānayet)
-
+in-chariot placing and lord-of-gods worshipping him bring
 ## mukta-m0-p22-v549
-[when](yadā) [in-chariot](rathe) [of-chariot-parts](rathāṅgānāṃ) [by-negligence](pramādāt) [slipped](skhalitaṃ) [becomes](bhavet)
-
+when in-chariot of-chariot-parts by-negligence slip occurs
 ## mukta-m0-p22-v550
-[hundred-eight](śatamaṣṭottaraṃ) [having-offered](hutvā) [freed](mucyate) [from-all-sins](sarvaduṣkṛtaiḥ)
+hundred eight-above offering released from-all-sins
