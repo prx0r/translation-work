@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p40-v976
-[word](bahunākimihoktena) [word](sākṣādānaṃdadāyakaḥ)
+[bahu](bahunā) [kim](kim) [iha](iha) [ukta](uktena) [sākṣāt](sākṣāt) [ānanda](ānanda) [dāyaka](dāyakaḥ)
 
 ## mukta-m0-p40-v977
-[word](iti) [word](dvitīyapātasya) [word](maṃtrasannāma) [word](īritam)
+[iti](iti) [dvitīya](dvitīya) [pāta](pātasya) [mantra](maṃtra) [sannāma](sannāma) [īrita](īritam)
 
 ## mukta-m0-p40-v978
-[word](aṣṭabhogavatī) [word](dhatte) [word](mahāsāmrājya) [word](nāthatām)
+[aṣṭa](aṣṭa) [bhoga](bhogavatī) [dhṛ](dhatte) [mahā](mahā) [sāmrājya](sāmrājya) [nātha](nāthatām)
 
 ## mukta-m0-p40-v979
-[word](sarvākāreṇa) [word](caitanya) [word](layaḥ) [word](sarvāṃgasuṃdarī)
+[sarva](sarvākāreṇa) [caitanya](caitanya) [laya](layaḥ) [sarva](sarvāṃga) [suṃdarī](suṃdarī)
 
 ## mukta-m0-p40-v980
-[word](viśvakṣati) [word](ca) [word](yatkiṃcinna) [word](ca) [word](niryāti) [word](vakrataḥ)
+[viśva](viśvakṣati) [ca](ca) [yat](yat) [kiṃcit](kiṃcit) [na](na) [ca](ca) [niryāti](niryāti) [vakra](vakrataḥ)
 
 ## mukta-m0-p40-v981
-[word](na) [word](ceṣṭā) [word](na) [word](ca) [word](saṃraṃbho) [word](na) [word](ca) [word](mohana) [word](kūjitam)
+[na](na) [ceṣṭā](ceṣṭā) [na](na) [ca](ca) [saṃraṃbha](saṃraṃbho) [na](na) [ca](ca) [mohana](mohana) [kūjita](kūjitam)
 
 ## mukta-m0-p40-v982
-[word](na) [word](daṃta) [word](pātanomuṣṭi) [word](ghātena) [word](ca) [word](ka) [word](ca) [word](grahaḥ)
+[na](na) [daṃta](daṃta) [pātana](pātanomuṣṭi) [ghāta](ghātena) [ca](ca) [ka](ka) [ca](ca) [graha](grahaḥ)
 
 ## mukta-m0-p40-v983
-[word](na) [word](mekhalā) [word](kalakvāṇo) [word](na) [word](līlāsaṃgamaṃgayaḥ)
+[na](na) [mekhalā](mekhalā) [kala](kalakvāṇo) [na](na) [līlā](līlāsaṃgamaṃgayaḥ)
 
 ## mukta-m0-p40-v984
-[word](hṛdayasthāna) [word](janitaḥ) [word](kaṃpaḥ) [word](paraparāyate)
+[hṛdaya](hṛdayasthāna) [janita](janitaḥ) [kaṃpa](kaṃpaḥ) [para](paraparāyate)
 
 ## mukta-m0-p40-v985
-[word](ekāṣṭakamahāyāga) [word](pakṣebiṃduṃ) [word](samutsṛjet)
+[eka](ekāṣṭaka) [mahā](mahā) [yāga](yāga) [pakṣa](pakṣebiṃduṃ) [samutsṛj](samutsṛjet)
 
 ## mukta-m0-p40-v986
-[word](aṣṭāṣṭakamahāyāge) [word](dūtyaṣṭakamataḥ) [word](param)
+[aṣṭāṣṭaka](aṣṭāṣṭaka) [mahā](mahā) [yāga](yāge) [dūti](dūtyaṣṭakam) [ataḥ](ataḥ) [param](param)
 
 ## mukta-m0-p40-v987
-[word](iyameva) [word](hi) [word](śakteśca) [word](śaṃbhorekatayā) [word](sthitiḥ)
+[iyam](iyameva) [eva](eva) [hi](hi) [śakti](śakteśca) [śaṃbhū](śaṃbhorekatayā) [sthiti](sthitiḥ)
 
 ## mukta-m0-p40-v988
-[word](itthamānaṃda) [word](yāgo'yaṃ) [word](kathitaste) [word](maheśvari)
+[ittham](itthamānaṃda) [ānaṃda](ānaṃda) [yāga](yāgo'yaṃ) [kathita](kathitaste) [maheśvarī](maheśvari)
 
 ## mukta-m0-p40-v989
-[word](bhavato) [word](vadanāṃbhojāt) [word](suśruto'ṣṭāhuti) [word](kramaḥ)
+[bhavat](bhavato) [vadana](vadanāṃbhojāt) [suśruta](suśruto'ṣṭāhuti) [krama](kramaḥ)
 
 ## mukta-m0-p40-v990
-[word](śrotuṃ) [word](vāṃcchāmi) [word](deveśa) [word](yāgānaṃtarajaṃ) [word](kramam)
+[śrotum](śrotuṃ) [vāṃcchāmi](vāṃcchāmi) [deveśa](deveśa) [yāga](yāgānaṃtarajaṃ) [krama](kramam)
 
 ## mukta-m0-p40-v991
-[word](śṛṇu) [word](devi) [word](mahābhāge) [word](yanmāṃtvaṃ) [word](paripṛcchasi)
+[śṛṇu](śṛṇu) [devi](devi) [mahābhāge](mahābhāge) [yan](yan) [mām](māṃ) [tvam](tvaṃ) [paripṛcchasi](paripṛcchasi)
 
 ## mukta-m0-p40-v992
-[word](vīraḥ) [word](suciranṛttena) [word](śrāṃtaliṃgamaheśvaraḥ)
+[vīra](vīraḥ) [sucira](suciranṛttena) [śrāṃta](śrāṃtaliṃgamaheśvaraḥ)
 
 ## mukta-m0-p40-v993
-[word](atha) [word](pradūṣita) [word](pāte) [word](pūrite) [word](puṇyavastubhiḥ)
+[atha](atha) [pradūṣita](pradūṣita) [pāta](pāte) [pūrita](pūrite) [puṇya](puṇyavastubhiḥ)
 
 ## mukta-m0-p40-v994
-[word](ānaṃdanāthasya) [word](manuṃcāṣṭāviṃśativārakam)
+[ānaṃdanātha](ānaṃdanāthasya) [manu](manuṃ) [cāṣṭāviṃśati](cāṣṭāviṃśativārakam)
 
 ## mukta-m0-p40-v995
-[word](dakṣahastasya) [word](culuke) [word](dhārayitvā) [word](vicakṣaṇaḥ)
+[dakṣa](dakṣahastasya) [culuka](culuke) [dhārayitvā](dhārayitvā) [vicakṣaṇa](vicakṣaṇaḥ)
 
 ## mukta-m0-p40-v996
-[word](saśuddhibhyāṃtayorbiṃduṃ) [word](kārikāḥ) [word](prapaṭhan) [word](kiret)
+[saśuddhi](saśuddhibhyāṃtayorbiṃduṃ) [kārikā](kārikāḥ) [prapaṭhan](prapaṭhan) [kiret](kiret)
 
 ## mukta-m0-p40-v997
-[word](etairānaṃdayāgāṃta) [word](śuklaśoṇitabiṃdubhiḥ)
+[etaiḥ](etairānaṃdayāgāṃta) [ānaṃda](ānaṃda) [yāga](yāgāṃta) [śukla](śukla) [śoṇita](śoṇita) [biṃdu](biṃdubhiḥ)
 
 ## mukta-m0-p40-v998
-[word](etairānaṃdayāgāṃta) [word](śuklaśoṇitabiṃdubhiḥ)
+[etaiḥ](etairānaṃdayāgāṃta) [ānaṃda](ānaṃda) [yāga](yāgāṃta) [śukla](śukla) [śoṇita](śoṇita) [biṃdu](biṃdubhiḥ)
 
 ## mukta-m0-p40-v999
-[word](etairānaṃdayāgāṃta) [word](śuklaśoṇitabiṃdubhiḥ)
+[etaiḥ](etairānaṃdayāgāṃta) [ānaṃda](ānaṃda) [yāga](yāgāṃta) [śukla](śukla) [śoṇita](śoṇita) [biṃdu](biṃdubhiḥ)
 
 ## mukta-m0-p40-v1000
-[word](etairānaṃdayāgāṃta) [word](śuklaśoṇitabiṃdubhiḥ)
+[etaiḥ](etairānaṃdayāgāṃta) [ānaṃda](ānaṃda) [yāga](yāgāṃta) [śukla](śukla) [śoṇita](śoṇita) [biṃdu](biṃdubhiḥ)

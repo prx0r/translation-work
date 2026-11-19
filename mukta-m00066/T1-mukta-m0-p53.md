@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p53-v1301
-[there-also](tatrāpi) [causes](hetavaḥ) [intense](tīvrāḥ) [more](bhūyasyaḥ) [statements](uktayaḥ) [also](api) [and](ca)
+there+also causes+intense more+arguments+also and
 
 ## mukta-m0-p53-v1302
-[confusion](vyāmohe) [arises](jāyate) [far](dūraṃ) [of-those-two](tayoḥ) [seeing](ālokanāt) [of-untruthful](anṛṇām)
+confusion arises far those+of+seeing+of+debtors
 
 ## mukta-m0-p53-v1303
-[in-place](sthāne) [back](pṛṣṭhaṃ) [by-you](tvayā) [devi](devi) [properly](samyak) [that](tat) [is-distinguished](vivicyate)
+in+place back by+you goddess properly that+discriminated
 
 ## mukta-m0-p53-v1304
-[not](na) [only](kevalaṃ) [intellect-play](dhīvilāsaḥ) [speech-also](vaikharyapi) [also](ca) [cause](kāraṇam)
+not only intellect+play vaikhari+also cause
 
 ## mukta-m0-p53-v1305
-[by-intention](saṅkalpena) [by-doubt](vikalpena) [human-born-single-dweller](narajātyekavāsinā)
+by+resolve by+doubt human+birth+single+dweller
 
 ## mukta-m0-p53-v1306
-[of-them](teṣāṃ) [but](tu) [of-views](darśanānāṃ) [who](yaḥ) [knows](vedaḥ) [first-view](prathamadarśanam)
+of+those seeing+of+views who veda first+seeing
 
 ## mukta-m0-p53-v1307
-[there](tatra) [indifferent](udāsīna) [conducts](vṛttīni) [other](anyāni) [supreme-goddess](parameśvarī)
+there+indifferent conduct+other+also supreme+goddess
 
 ## mukta-m0-p53-v1308
-[not](na) [but](tu) [rest](viśrāṃti) [news](vārttā) [also](api) [of-anyone](kasyacid) [of-debate-path](vādavartmanaḥ)
+not even rest news of+anyone path+of+debate
 
 ## mukta-m0-p53-v1309
-[by-taste](rucinām) [here](iha) [indeed](vai) [from-variety](citryāt) [in-many-ways](bahudhā) [scripture-millions](śāstrakoṭayaḥ)
+by+taste here indeed variety many+scripture+millions
 
 ## mukta-m0-p53-v1310
-[meaning-science](arthaśāstraṃ) [and](ca) [fair-hipped](suśroṇi) [from-those-two](tābhyāṃ) [scripture-emergence](śāstrasamudgamaḥ)
+political+science and fair+hipped from+those scripture+emergence
 
 ## mukta-m0-p53-v1311
-[direct-perception-etc](pratyakṣādi) [proofs](pramāṇāni) [in-all-ways](sarvathā) [cause](kāraṇaṃ) [but](tu) [this](idam)
+perception+etc proof+all ways cause indeed this
 
 ## mukta-m0-p53-v1312
-[of-someone](kasyāpi) [equality](samatā) [devi](devi) [threefold](trividhaḥ) [this](ayaṃ) [proof-order](pramākramaḥ)
+of+someone equality goddess threefold this proof+order
 
 ## mukta-m0-p53-v1313
-[buddhists](saugatāḥ) [and](ca) [eva](eva) [atomists](kāṇādāḥ) [direct-perception-inference](pratyakṣānumitī) [said](jaguḥ)
+buddhists+also vaisheshikas perception+inference declared
 
 ## mukta-m0-p53-v1314
-[nyāya-one-part](nyāyaika) [holders](deśinaḥ) [and](ca) [others](anye) [like-sāṃkhya](sāṃkhyavat) [declared](samudīritāḥ)
+nyaya+one+partisans+also others like+sankhya declared
 
 ## mukta-m0-p53-v1315
-[by-inference](arthāpatyā) [with-these](sahaitāni) [four](catvāri) [another](aparaḥ) [said](ūcire)
+postulation+with these four another said
 
 ## mukta-m0-p53-v1316
-[possibility](saṃbhava) [here](iha) [with-these](yuktaiḥ) [taiḥ](taiḥ) [six](ṣaḍbhiḥ) [proofs](mānaiḥ) [ca](ca) [some](kecana)
+possibility here by+reasons those six+proofs+also some
 
 ## mukta-m0-p53-v1317
-[here](atra) [mutual-inclusion](antarbbhāvam) [anyonyaṃ](anyonyaṃ) [of-debaters](vādinaḥ) [expert-scholars](yuktapaṇḍitāḥ)
+there mutual+inclusion debaters+reasoned+scholars
 
 ## mukta-m0-p53-v1318
-[again](bhūyaḥ) [acceptance](parigrahaḥ) [of-whom](yasya) [yasya](yasya) [small-acceptance](svalpaparigrahaḥ)
+again adoption whose whose small+adoption
 
 ## mukta-m0-p53-v1319
-[who](ye) [do](kurvanti) [following](hamanvānāḥ) [in-scriptures](śāstreṣu) [small-acceptance](alpaparigraham)
+those do holding scriptures+small+adoption
 
 ## mukta-m0-p53-v1320
-[their](teṣāṃ) [view](mataṃ) [and](ca) [shaking](dhūnvānāḥ) [logic](tarka) [knots](granthibhiḥ) [bright](ujvalaiḥ)
+their view shaking logic+knots+by+blazing
 
 ## mukta-m0-p53-v1321
-[thus](evaṃ) [being](sati) [in-all](samasteṣu) [scriptures](śāstreṣu) [dispute](kalahaṃ) [order](kramaḥ)
+thus being all scriptures dispute order
 
 ## mukta-m0-p53-v1322
-[superimposition-born](āropajaṃ) [reject](nirasyanti) [some](kecit) [own-taste-debaters](svarasavādinaḥ)
+superimposition rejecting some own+taste+arguers
 
 ## mukta-m0-p53-v1323
-[of-superimposition](āropasya) [nature](svarūpam) [tu](tu) [I-will-tell](kathayāmi) [mountain-daughter](nagātmaje)
+superimposition+of nature tell i mountain+daughter
 
 ## mukta-m0-p53-v1324
-[clay](mṛttikā) [indeed](khalu) [all](sarvā) [this](iyaṃ) [earth](bhūmiḥ) [various-forms](nānāvidhākṛtiḥ)
+clay indeed all this earth various+forms
 
 ## mukta-m0-p53-v1325
-[this](etat) [earth](bhūmī) [clay](mṛttika) [eva](eva) [kuṃbha-maker](kuṃbhakṛt) [hand-rubbed](pāṇimardditā)
+this earth clay+only pot+maker+hand+rubbed

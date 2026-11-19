@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p19-v451
-[saffron+liquid+resembling](kuṃkuma+drava+saṃkāśaṃ) [dissolved+all+activity](vilīna+aśeṣa) [state](ceṣṭitam) [having](bhāvayet)
+[kumkuma-drava-samkasha](kuṃkumadravasaṃkāśaṃ) [vilina-ashesha-cheshTita](vilīnāśeṣa ceṣṭitam)
 
 ## mukta-m0-p19-v452
-[protected](rakṣitaṃ) [one-should-visualize](bhāvayet) [o-goddess](devī) [of-her+moon+digit+rise](tasyāḥ+caṃdra+kalā+udaye)
+[rakshita](rakṣitaṃ) [bhavayed](bhāvayed) [devi](devī) [tasya-chandra-kala-udaye](tasyāścaṃdrakalodaye)
 
 ## mukta-m0-p19-v453
-[immediately](sadyaḥ) [horripilated+form](pulakita+ākāraḥ) [state](bhāvaḥ) [some](kaḥ+api) [manifests](vijṛṃbhate)
+[sadyah](sadyaḥ) [pulakita-akara](pulakitākāro) [bhava](bhāvaḥ) [kopi](ko'pi) [vijrimbhate](vijṛṃbhate)
 
 ## mukta-m0-p19-v454
-[dances](nṛtyati) [as-if](iva) [with-longing](samutkaṃṭhā) [dances](nṛtyati) [as-if](iva) [vein+mouth](śirā+mukham)
+[nrityati-iva-samutkamTha](nṛtyatīvasamutkaṃṭhā) [nrityati](nṛtyatī) [va](va) [shira-mukham](śirāmukham)
 
 ## mukta-m0-p19-v455
-[messenger-goddess](dūtikā) [love+abode+dwelling](smara+geha+sthāṃ) [bhagamālā](bhagamālāṃ) [one-should-worship](samarcayet)
+[dutika](dūtikā) [smara-geha-stham](smara gehasthāṃ) [bhaga-malam](bhagamālāṃ) [sam-arcayet](samarcayet)
 
 ## mukta-m0-p19-v456
-[of-her](tasyāḥ) [and](ca) [worship+distinction](arcana+bhedaḥ) [indeed](tu) [to-be-told](vaktavyaḥ) [o-supreme-lord](parameśvara)
+[tasya-archana-bhedah-tu](tasyāścārcana bhedastu) [vaktavyah](vaktavyaḥ) [parameshvara](parameśvara)
 
 ## mukta-m0-p19-v457
-[bhagamālā](bhagamālā) [thus](iti) [entire+vulva+circle+presiding](niḥśeṣa+bhaga+cakra+abhimāninī)
+[bhaga-mali-iti](bhagamālīti) [nisseshha](niḥśeṣa) [bhaga-chakra-abhimani](bhagacakrābhimāninī)
 
 ## mukta-m0-p19-v458
-[universe+enchanting+form](viśva+saṃohana+ākārā) [universe+birth+great+ground](viśva+janma+mahā+sthali)
+[vishva-samohana-akara](viśvasaṃohanākārā) [vishva-janma-maha-sthali](viśvajanmamahāsthali)
 
 ## mukta-m0-p19-v459
-[time+form](kāla+rūpā) [untimely+making](akāla+karī) [time+devouring+eager](kāla+grasana+lālasā)
+[kala-rupa](kālarūpā) [akala-kari](akālakarī) [kala-grasana-lalasa](kālagrasanalālasā)
 
 ## mukta-m0-p19-v460
-[in-all](samasteṣu) [in-bodies](śarīreṣu) [of-men](puṃsāṃ) [of-women](strīṇām) [and](atha) [also](api) [or](vā)
+[samastesu](samasteṣu) [shariresu](śarīreṣu) [pumsam-striNam-atha-api-va](puṃsāṃstrīṇāmathāpivā)
 
 ## mukta-m0-p19-v461
-[in-compendium](saṃhita) [hundred+thousand](śata+sāhasre) [for-which+purpose](yat+arthe) [is-proclaimed](kīrtyate) [by-me](mayā)
+[samhita](saṃhita) [shata-sahasre](śatasāhasre) [yad-arthe](yadarthe) [kirtyate](kīrtyate) [mayā](mayā)
 
 ## mukta-m0-p19-v462
-[eternal+cupid+intoxication+maddened](nitya+anaṃga+mada+unmattā) [by-youth+extremely+proud](yauvanena+ati+garvitā)
+[nitya-ananga-mada-unmatta](nityānaṃga madonmattā) [yauvanena-atigarvita](yauvanenātigarvitā)
 
 ## mukta-m0-p19-v463
-[noose+and-goad](pāśa+aṃkuśau) [hand](karaṃ) [bow](dhanva) [then](tadā) [or](vā) [honey+vessel](madhu+bhājanam)
+[pasha-ankushau](pāśāṃkuśau) [karam](karaṃ) [dhanva](dhanva) [tada](tadā) [va](vā) [madhu-bhajanam](madhubhājanam)
 
 ## mukta-m0-p19-v464
-[cheerful+face+lotus](prasanna+vadana+aṃbhojā) [intoxication+red+eyed](mada+rakta+vilocanā)
+[prasanna-vadana-ambhoja](prasannavadanāṃbhojā) [mada-rakta-vilocana](madaraktavilocanā)
 
 ## mukta-m0-p19-v465
-[own+red+luster+garments](sva+rakta+kāṃti+śaṭībhiḥ) [indeed](eva) [covered+hip+region](āvṛta+nitaṃba+bhūḥ)
+[sva-rakta-kanti-shati-bhih-eva-avrita-nitamba-bhuh](svaraktakāṃtiśaṭībhirevāvṛtanitaṃbabhūḥ)
 
 ## mukta-m0-p19-v466
-[sky+clad](dig+aṃbarābhiḥ) [by-other](anyābhiḥ) [by-powers](śaktibhiḥ) [surrounded](parivāritā)
+[digambara-abhih-anyabhih](digaṃbarābhiranyābhiḥ) [shaktibhih](śaktibhiḥ) [parivāritā](parivāritā)
 
 ## mukta-m0-p19-v467
-[thus](evaṃ) [to-be-meditated](dhyeyā) [o-great-goddess](maheśāni) [deity](devatā) [bhagamālinī](bhagamālinī)
+[evam](evaṃ) [dhyeya](dhyeyā) [maheshani](maheśāni) [devata](devatā) [bhaga-malini](bhagamālinī)
 
 ## mukta-m0-p19-v468
-[tripurā+offering+water](tripurā+arghya+aṃbunā) [having-sprinkled](prokṣya) [of-messenger-goddess](dūtyāḥ) [love+abode](smara+niketanam)
+[tripura-arghya-ambuna](tripurārghyāṃbunā) [prokshya](prokṣya) [dutyah](dūtyāḥ) [smara-niketanam](smaraniketanam)
 
 ## mukta-m0-p19-v469
-[triangle](trikoṇaṃ) [pentagon](paṃcakoṇaṃ) [and](ca) [with+eight-spoked+four-petaled](sa+aṣṭa+ara+ka+catur+ddalam)
+[trikona](trikoṇaṃ) [panchakona](paṃcakoṇaṃ) [ca](ca) [sashta-arakha-chatur-dala](sāṣṭārakacaturddalam)
 
 ## mukta-m0-p19-v470
-[in-middle](madhye) [one-should-worship](jayen) [great-goddess](mahādevīṃ) [intoxicating](mādyaṃtīṃ) [bhagamālinī](bhagamālinīm)
+[madhye](madhye) [jayet](jayen) [mahadevim](mahādevīṃ) [madyantim](mādyaṃtīṃ) [bhaga-malini](bhagamālinīm)
 
 ## mukta-m0-p19-v471
-[vulva+secret](bhaga+guhyaṃ) [vulva+womb](bhaga+yoniṃ) [likewise](tathā) [vulva+casting](bhaga+nipātinīm)
+[bhaga-guhyam](bhagaguhyaṃ) [bhaga-yonim](bhagayoniṃ) [tatha](tathā) [bhaga-nipatini](bhaganipātinīm)
 
 ## mukta-m0-p19-v472
-[vulva+form](bhaga+rūpāṃ) [then](tadā) [goddess](devīṃ) [eternally+wet+mother](nitya+klinnā+ambikām) [also](api)
+[bhaga-rupam](bhagarūpāṃ) [tada](tadā) [devim](devīṃ) [nitya-klinna-ambikam-api](nityaklinnāmbikāmapi)
 
 ## mukta-m0-p19-v473
-[vulva+wet](bhaga+klinnām) [eighth](aṣṭamīṃ) [and](ca) [practitioner](sādhakaḥ) [rite+conduct](vidhi+varttanā)
+[bhaga-klinna-am-ashtamim](bhagaklinnāmaṣṭamīṃ) [ca](ca) [sadhaka-vidhi-varttana](sādhakovidhivarttanā)
 
 ## mukta-m0-p19-v474
-[unfailing+vulva+knowledge](amogha+bhaga+vidyā) [and](ca) [fourth](caturthi) [indeed](tu) [vulva+sovereign](bhaga+īśvarī)
+[amogha-bhaga-vidya](amoghabhagavidyā) [ca](ca) [chaturthi](caturthi) [tu](tu) [bhageshvari](bhageśvarī)
 
 ## mukta-m0-p19-v475
-[tripurā+offering+situated](tripurā+arghya+sthitaiḥ) [indeed](eva) [with-drops](biṃdubhiḥ) [that](tat) [one-should-worship](prapūjayet)
+[tripura-arghya](tripurārghya) [sthitaireva](sthitaireva) [bindubhih-tat](biṃdubhistat) [prapujayet](prapūjayet)

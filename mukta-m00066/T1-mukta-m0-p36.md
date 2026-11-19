@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p36-v876
-not[na] anything[kiṃcid] api[api] know[jānāmi] lord[nātha] awaken[bodhaya] awaken[bodhaya]
+na-not kiṃcidapi-anything jānāmi-I-know nātha-lord bodhaya-awaken bodhaya-awaken
 
 ## mukta-m0-p36-v877
-this[etat] bliss-cause[saukhyanidānāya] welfare-sign[svastiliṃgāya] to-śambhu[śaṃbhave]
+etat-this saukhyanidānāya-for-happiness-cause svastiliṃgāya-for-auspicious-linga śaṃbhave-to-Shambhu
 
 ## mukta-m0-p36-v878
-śiva-offering[śivārpaṇam] this[idam] may-be[bhūyāt] again[punar] be[astu] śiva-offering[śivārpaṇam]
+śivārpaṇamidaṃ-may-this-be-offering-to-Shiva bhūyāt-may-it-be punarastu-again-let-it-be śivārpaṇam-offering-to-Shiva
 
 ## mukta-m0-p36-v879
-withered[mlānā] lotus-stalk[padmamṛṇālī] va[va] garland-like[mālikevāsya] chest[vakṣasi]
+mlānā-faded padmamṛṇālī-lotus-stalk va-and mālikevāsya-garland-like-his vakṣasi-on-chest
 
 ## mukta-m0-p36-v880
-absorbed[līnalīnākṣaraṃ] afterward[paścān] slow[maṃdamaṃdākṣaraṃ] again[punaḥ]
+līnalīnākṣaraṃ-absorbed-absorbed-syllable paścān-afterwards maṃdamaṃdākṣaraṃ-slow-slow-syllable punaḥ-again
 
 ## mukta-m0-p36-v881
-thus[evam] etc[ādi] messenger[guṇādūtyāḥ] sixth-offering[ṣaḍāhuti] great-festival[mahotsave]
+evamādiguṇādūtyāḥ-such-qualities-messenger ṣaḍāhuti-six-offerings mahotsave-great-festival
 
 ## mukta-m0-p36-v882
-sixth[sixth] six-taste[ṣaḍrasa] endowed[saṃpanna] many-food[bahubhojana] giving[dāyinī]
+ṣaṣṭhiṣaḍrasasaṃpanna-sixth-six-tastes-endowed bahubhojanadāyinī-many-food-giving
 
 ## mukta-m0-p36-v883
-six-limb[six] deity[deities] form[rūpā] always[sarvadā] action[kriyatāṃ] ambrosia[ambudhaiḥ]
+ṣaḍaṃgadevatā-six-limbed-deity rūpā-form sarvadākriyatāṃbudhaiḥ-by-all-water-makers
 
 ## mukta-m0-p36-v884
-heroine[nāyikāyāḥ] ca[ca] opening[vidṛtyā] pleasure-rest[sukhaśrāṃtiḥ] proceeds[pravartate]
+nāyikāyāśca-heroine's-and vidṛtyā-relaxation sukhaśrāṃtiḥ-comfort-rest pravartate-proceeds
 
 ## mukta-m0-p36-v885
-sugar[sugar] nectar[amṛta] mixed[saṃmiśraṃ] pure[pure] soup[yūṣa] seasoned[sanādhitam]
+śarkarāmṛtasaṃmiśraṃ-sugar-nectar-mixed śuddhiyūṣasanādhitam-pure-soup-seasoned
 
 ## mukta-m0-p36-v886
-oneself[svayaṃ] that[tad] remainder[avaśiṣṭaṃ] ca[ca] drink[pibed] devotion[bhakti] bowed[bharānataḥ]
+svayaṃtadavaśiṣṭaṃ-oneself-remaining-then ca-and pibed-drink bhakti-devotion bharānataḥ-burden-bowed
 
 ## mukta-m0-p36-v887
-mantra[maṃtraṃ] ca[ca] ānanda-deva[ānaṃdadevasya] hundred[śataśo] or[va] thousand[sahasraśaḥ]
+maṃtraṃ-mantra cānaṃdadevasya-of-Ananda-deva śataśovāsahasraśaḥ-hundreds-and-thousands
 
 ## mukta-m0-p36-v888
-unfit[ayuktayaṃtraḥ] recite[prajaped] deity-curse[devatāśāpam] obtain[āpnuyāt]
+ayuktayaṃtraḥ-unfit-yantra prajaped-recite devatāśāpamāpnuyāt-deity-curse-obtain
 
 ## mukta-m0-p36-v889
-thus[evaṃ] recited[japte] supreme-bliss-form[parānaṃdarūpi] liṅga-maheśvara[liṃgamaheśvaraḥ]
+evaṃ-thus japte-recited parānaṃdarūpi-supreme-bliss-form liṃgamaheśvaraḥ-linga-Maheshvara
 
 ## mukta-m0-p36-v890
-as-long-as[yāvaj] recites[japati] hero[vīroyaṃ] messenger-rest[dūtiviśrāṃti] for[hetave]
+yāvajjapati-as-long-recites vīroyaṃ-hero-this dūtiviśrāṃti-messenger-rest hetave-cause
 
 ## mukta-m0-p36-v891
-thus[iththaṃ] gradually[krameṇa] rest[viśrāṃtiṃ] gone[gatāyāṃ] messenger-body[dūtikātanau]
+iththaṃ-thus krameṇa-by-sequence viśrāṃtiṃ-rest gatāyāṃ-gone dūtikātanau-messenger-body
 
 ## mukta-m0-p36-v892
-moon-crescent[caṃdrarekhā] for[arthāṃ] gulinā[gulinā] raised[pronnatā] moonlight[caṃdracaṃdrikā]
+caṃdrarekhārthāṃ-moon-crescent-purpose gulinā-with-gula pronnatā-elevated caṃdracaṃdrikā-moon-moonlight
 
 ## mukta-m0-p36-v893
-flax[atasī] flower-like[puṣpasaṃkāśā] triangle[trikoṇākāratāṃ] gone[gatā]
+atasī-flax puṣpasaṃkāśā-flower-resembling trikoṇākāratāṃ-triangular-form gatā-gone
 
 ## mukta-m0-p36-v894
-long-flowing[ciradravā] api[api] lord[nātha] one[eka] arranged[kluptaiḥ] thumb[cuṃbanaiḥ]
+ciradravāpi-long-flowing-even nāthaika-lord-one kluptairaṃguṣṭha-arranged-thumb cuṃbanaiḥ-kisses
 
 ## mukta-m0-p36-v895
-navel[nābhau] slap[capeṭa] falling[patanaiḥ] buttock[nitaṃbe] hand-massage[hastamardanaiḥ]
+nābhaucapeṭa-navel-slap patanairnitaṃbe-falls-buttock hastamardanaiḥ-hand-massages
 
 ## mukta-m0-p36-v896
-own[nijaṃ] essence[rasaṃ] flowing[sravaṃtyeva] heroine[nāyikā] moonlight[caṃdracaṃdrikā]
+nijaṃrasaṃ-own-juice sravaṃtyeva-flowing-indeed nāyikācaṃdracaṃdrikā-heroine-moon-moonlight
 
 ## mukta-m0-p36-v897
-rice-wine[paiṣṭimadya] equal-mod[a] arrow-flower[bāṇapuṣpa] abundant-dyuti[ulbaṇadyuti]
+paiṣṭimadyasamāmodaṃ-flour-wine-equal-joy bāṇapuṣpolbaṇadyuti-arrow-flower-abundant-radiance
 
 ## mukta-m0-p36-v898
-attainment[prāpti] siddhi[siddhi] generation[prajananaṃ] all-powers[sarvaiśvaryākhyavāṅmayam]
+prāptisiddhiprajananaṃ-attainment-accomplishment-procreation sarvaiśvaryākhyavāṅmayam-all-sovereignty-named-speech
 
 ## mukta-m0-p36-v899
-all-disease[samastavyādhi] pacifying[śamanaṃ] light[laghu] cool[śītala] pure[nirmalam]
+samastavyādhiśamanaṃ-all-disease-pacifying laghuśītalanirmalam-light-cool-pure
 
 ## mukta-m0-p36-v900
-then[tadā] recited[japeditaṃ] mantra[maṃtraṃ] ca[ca] palāmbā[palāṃbā] deity[adhidaivatam]
+tadājapeditaṃ-then-recited maṃtraṃ-mantra ca-and palāṃbādhidaivatam-Palamba-presiding-deity
