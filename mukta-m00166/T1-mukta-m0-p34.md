@@ -17,13 +17,13 @@
 [lotus-possessing](padmāvatī)
 
 ## mukta-m0-p34-v831
-[gathering](cinvanta) [obtained](āptā) [not](na) [gone](gatāśca) [far-shore](pāraṃ) [lotus-possessing](padmāvatī) [she](sā) [my](mama) [lotus-going](padmagā) [may-stand](stāt)
+[gathering](cinvanta) [obtained](āptā) [not](na) [gone](gatāśca) [shore](pāraṃ) [lotus-possessing](padmāvatī) [she](sā) [my](mama) [lotus-going](padmagā) [may-stand](stāt)
 
 ## mukta-m0-p34-v832
 [well-clothed](suvastrā)
 
 ## mukta-m0-p34-v833
-[vessel-less](amatrā) [she](sā) [well-clothed](suvastrā) [my](me) [body-garment-selfhood](dehavastrātmatāṃ) [remove](hara)
+[vessel-less](amatrā) [she](sā) [well-clothed](suvastrā) [my](me) [body-cloth-identity](dehavastrātmatāṃ) [remove](hara)
 
 ## mukta-m0-p34-v834
 [awakened](prabuddhā)
@@ -35,19 +35,19 @@
 [sarasvatī](sarasvatī)
 
 ## mukta-m0-p34-v837
-[threefold](tredhā) [tasted](asvādyā) [may-bestow](vitaratu) [rasa](rasaṃ) [own](svaṃ) [sarasvatī](sarasvatyaśeṣam)
+[in-three-ways](tredhā) [tasted](asvādyā) [may-bestow](vitaratu) [essence](rasaṃ) [own](svaṃ) [sarasvatī](sarasvatyaśeṣam)
 
 ## mukta-m0-p34-v838
 [kuṇḍa-seated](kuṇḍāsanā)
 
 ## mukta-m0-p34-v839
-[everywhere](sarvatra) [all](sarvaṃ) [revealing](parikāśayantī) [kuṇḍa-seated](kuṇḍāsanā) [thus](iti) [renowned](prathitā) [that-she](tadeṣā)
+[everywhere](sarvatra) [all](sarvaṃ) [revealing](parikāśayantī) [kuṇḍa-seated](kuṇḍāsanā) [thus](iti) [renowned](prathitā) [that](tadeṣā)
 
 ## mukta-m0-p34-v840
-[world-sustainer](jagaddhātrī)
+[world-nourisher](jagaddhātrī)
 
 ## mukta-m0-p34-v841
-[even](api) [beings](bhāvāś) [for-long](cirasyeva) [world-sustainer](jagaddhātrī) [for-prosperity](śriye) [may-be](astu) [she](sā)
+[even](api) [beings](bhāvāś) [for-long](cirasyeva) [world-nourisher](jagaddhātrī) [for-prosperity](śriye) [may-be](astu) [she](sā)
 
 ## mukta-m0-p34-v842
 [buddha-mother](buddhamātā)
@@ -59,7 +59,7 @@
 [jina-lady](jineśvarī)
 
 ## mukta-m0-p34-v845
-[omniscience](sārvajñyam) [calamity](āpad) [calamity-end-cause](vipadantakāraṇaṃ) [jina-lady](jineśvarī) [she](sā) [sin](vṛjinaṃ) [may-remove](vyapohatām)
+[omniscience](sārvajñyam) [misfortune](āpad) [misfortune-ender-cause](vipadantakāraṇaṃ) [jina-lady](jineśvarī) [she](sā) [sin](vṛjinaṃ) [may-remove](vyapohatām)
 
 ## mukta-m0-p34-v846
 [jina-mother](jinamātā)
@@ -71,7 +71,7 @@
 [jina-lord](jinendrā)
 
 ## mukta-m0-p34-v849
-[jina-lord](jinendrāstu) [for-prosperity](śriye) [always](nityaṃ) [without-enmity](nirvairā) [self-moving](svairacāriṇī)
+[jina-lord](jinendrā) [may-be](astu) [for-prosperity](śriye) [always](nityaṃ) [without-enmity](nirvairā) [self-moving](svairacāriṇī)
 
 ## mukta-m0-p34-v850
 [śāradā](śāradā)
