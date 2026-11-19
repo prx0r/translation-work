@@ -2,16 +2,16 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p43-v1051
-[drunk](pītā)
+[yellow](pītā)
 
 ## mukta-m0-p43-v1052
-[sung](gītā) [drunk](pītā) [for-welfare](hitāyāstu) [mother](mātā) [brother](bhātā) [of-good-ones](satāṃ) [in-heart](hṛdi)
+[sung](gītā) [drunk](pītā) [for-welfare](hitāyāstu) [mother](mātā) [brother](bhātā) [of-good](satāṃ) [in-heart](hṛdi)
 
 ## mukta-m0-p43-v1053
 [mottled](karburā)
 
 ## mukta-m0-p43-v1054
-[mottled](karburā) [deity](devatā) [may-be](bhūyād) [burden-removing](bhavabhārāpahāriṇī)
+[mottled](karburā) [goddess](devatā) [may-be](bhūyād) [burden-removing](bhavabhārāpahāriṇī)
 
 ## mukta-m0-p43-v1055
 [hunger](kṣudhā)
@@ -23,13 +23,13 @@
 [thirst](tṛṣṇā)
 
 ## mukta-m0-p43-v1058
-[that](yannunno'bdhiviśoṣaikahetustṛṣṇā) [conquers](jayatyasau)
+[which](yannunno) [ocean-drying-sole-cause]('bdhiviśoṣaikahetustṛṣṇā) [conquers](jayatyasau)
 
 ## mukta-m0-p43-v1059
-[old-age-grown](jarāvṛddhā)
+[old-age-increased](jarāvṛddhā)
 
 ## mukta-m0-p43-v1060
-[wonderful](citraṃ) [she-too](sāpi) [old-age-grown](jarāvṛddhā) [does](kriyānmama) [old-age-old-age](jarājarām)
+[wonder](citraṃ) [she-too](sāpi) [old-age-increased](jarāvṛddhā) [may-do](kriyānmama) [old-age-old-age](jarājarām)
 
 ## mukta-m0-p43-v1061
 [young-woman](taruṇī)
@@ -41,19 +41,19 @@
 [compassion-abode](karuṇālayā)
 
 ## mukta-m0-p43-v1064
-[you-remove](dūrīkaroṣi) [because](yannāto) [sung](gīyase) [compassion-abode](karuṇālayā)
+[you-remove](dūrīkaroṣi) [because](yannāto) [are-sung](gīyase) [compassion-abode](karuṇālayā)
 
 ## mukta-m0-p43-v1065
 [art](kalā)
 
 ## mukta-m0-p43-v1066
-[all](sakalā) [not](na) [under-control](vaśe) [what](kiṃ) [would-be](syuḥ) [hand-garland-like](karamālātulāḥ) [arts](kalāḥ)
+[all](sakalā) [not](na) [in-control](vaśe) [what](kiṃ) [would-be](syuḥ) [hand-garland-like](karamālātulāḥ) [arts](kalāḥ)
 
 ## mukta-m0-p43-v1067
 [limit](kāṣṭhā)
 
 ## mukta-m0-p43-v1068
-[perishes](naśyet) [in-moment](kṣaṇena) [of-devotees](bhaktānāṃ) [limit-thus](kāṣṭhetyasyāḥ) [by-grace](prasādataḥ)
+[may-perish](naśyet) [in-moment](kṣaṇena) [of-devotees](bhaktānāṃ) [limit-thus](kāṣṭhetyasyāḥ) [by-grace](prasādataḥ)
 
 ## mukta-m0-p43-v1069
 [moment](muhūrtā)
@@ -71,7 +71,7 @@
 [time-formed](kālarūpiṇī)
 
 ## mukta-m0-p43-v1074
-[planet-sign-zodiac-inferable](graharāśibhacakrakānumeyā) [famous](prathitā) [she-indeed](sā kila) [time-formed-thus](kālarūpiṇīti)
+[planet-sign-zodiac-wheel-inferable](graharāśibhacakrakānumeyā) [famous](prathitā) [she](sā) [indeed](kila) [time-formed-thus](kālarūpiṇīti)
 
 ## mukta-m0-p43-v1075
 [good-ear-tongue](sukarṇarasanā)
