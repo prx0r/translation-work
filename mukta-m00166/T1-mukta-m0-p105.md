@@ -5,7 +5,7 @@
 [hero-ground](vīrabhūḥ)
 
 ## mukta-m0-p105-v2602
-[rest](viśrānteḥ) [supreme](paramā) [ground](bhūmir) [hero-ground](vīrabhūr) [on-earth](bhuvi) [worshipped](pūjitā)
+[rest-supreme-ground](viśrānteḥ) [supreme](paramā) [ground](bhūmir) [hero-ground](vīrabhūr) [on-earth](bhuvi) [honored](pūjitā)
 
 ## mukta-m0-p105-v2603
 [hero-mother](vīramātā)
@@ -35,7 +35,7 @@
 [victory-initiation](jayadīkṣā)
 
 ## mukta-m0-p105-v2612
-[by-whom-initiated](yaddīkṣitā) [people](janā) [shine](bhānti) [victory-initiation](jayadīkṣā) [thus](iti) [she](sā) [auspicious](śivā)
+[initiated](yaddīkṣitā) [people](janā) [shine](bhānti) [victory-initiation](jayadīkṣā) [thus](iti) [she](sā) [auspicious](śivā)
 
 ## mukta-m0-p105-v2613
 [victory-giver](jayadā)
@@ -65,7 +65,7 @@
 [welfare-doer](kṣemaṅkarī)
 
 ## mukta-m0-p105-v2622
-[today](adya) [am-happy](asmi) [sukhabhāk] [suddenly](sadyo) [seen](dṛṣṭā) [welfare-doer](kṣemaṅkarī) [when](yadā)
+[today](adya) [I-am](asmi) [happy](sukhabhāk) [immediately](sadyo) [seen](dṛṣṭā) [welfare-doer](kṣemaṅkarī) [when](yadā)
 
 ## mukta-m0-p105-v2623
 [perfection-form](siddhirūpā)

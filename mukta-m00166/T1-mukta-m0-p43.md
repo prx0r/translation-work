@@ -5,73 +5,73 @@
 [yellow](pītā)
 
 ## mukta-m0-p43-v1052
-[sung](gītā) [drunk](pītā) [for-welfare](hitāyāstu) [mother](mātā) [brother](bhātā) [of-good-ones](satāṃ) [in-heart](hṛdi)
+[sung](gītā) [yellow](pītā) [for-welfare](hitāyāḥ) [tu](tu) [mother](mātā) [brother](bhātā) [of-good](satām) [in-heart](hṛdi)
 
 ## mukta-m0-p43-v1053
-[variegated](karburā)
+[mottled](karburā)
 
 ## mukta-m0-p43-v1054
-[variegated](karburā) [goddess](devatā) [may-be](bhūyād) [world-burden-removing](bhavabhārāpahāriṇī)
+[mottled](karburā) [goddess](devatā) [may-she-be](bhūyāt) [burden-removing](bhava+bhāra+apahāriṇī)
 
 ## mukta-m0-p43-v1055
 [hunger](kṣudhā)
 
 ## mukta-m0-p43-v1056
-[hunger](kṣudhā) [goddess](devī) [conquers](jayatyeṣā) [all-elements-single-seed-becoming](sarvadhātvekabījabhūḥ)
+[hunger](kṣudhā) [goddess](devī) [conquers](jayati) [this](eṣā) [all-elements-single-seed](sarva+dhātu+eka+bīja+bhūḥ)
 
 ## mukta-m0-p43-v1057
 [thirst](tṛṣṇā)
 
 ## mukta-m0-p43-v1058
-[that-impelled](yannunno) [ocean-drying-single-cause]('bdhiviśoṣaikahetuḥ) [thirst](tṛṣṇā) [conquers-that](jayatyasau)
+[which](yat) [indeed](nu) [ocean-drying-sole-cause](abdhi+viśoṣa+eka+hetuḥ) [thirst](tṛṣṇā) [conquers](jayati) [that](asau)
 
 ## mukta-m0-p43-v1059
-[old-age-increased](jarāvṛddhā)
+[old-age-grown](jarā+vṛddhā)
 
 ## mukta-m0-p43-v1060
-[wonder](citraṃ) [she-too](sāpi) [old-age-increased](jarāvṛddhā) [makes-my](kriyānmama) [old-age-old-age](jarājarām)
+[wonderful](citraṃ) [she-too](sā+api) [old-age-grown](jarā+vṛddhā) [may-do](kriyāt) [my](mama) [old-age-old-age](jarā+jarām)
 
 ## mukta-m0-p43-v1061
 [young-woman](taruṇī)
 
 ## mukta-m0-p43-v1062
-[of-young-woman](taruṇyāḥ) [supreme](paraṃ) [laughter-only-grace](hāsyamātraprasādaḥ)
+[of-young-woman](taruṇyāḥ) [supreme](paraṃ) [laughter-only-grace](hāsya+mātra+prasādaḥ)
 
 ## mukta-m0-p43-v1063
-[compassion-abode](karuṇālayā)
+[compassion-abode](karuṇā+ālayā)
 
 ## mukta-m0-p43-v1064
-[you-remove-far](dūrīkaroṣi) [since-not](yannāto) [sung](gīyase) [compassion-abode](karuṇālayā)
+[you-remove](dūrī+karoṣi) [which](yat) [not](na) [ato](āto) [are-sung](gīyase) [compassion-abode](karuṇā+ālayā)
 
 ## mukta-m0-p43-v1065
 [art](kalā)
 
 ## mukta-m0-p43-v1066
-[all](sakalā) [not](na) [in-control](vaśe) [how](kiṃ) [would-be](syuḥ) [hand-garland-comparable](karamālātulāḥ) [arts](kalāḥ)
+[all](sakalāḥ) [not](na) [in-control](vaśe) [what](kiṃ) [would-be](syuḥ) [hand-garland-like](kara+mālā+tulāḥ) [arts](kalāḥ)
 
 ## mukta-m0-p43-v1067
-[wood-limit](kāṣṭhā)
+[limit](kāṣṭhā)
 
 ## mukta-m0-p43-v1068
-[perishes](naśyet) [in-moment](kṣaṇena) [of-devotees](bhaktānāṃ) [wood-limit](kāṣṭhetyasyāḥ) [by-her](prasādataḥ)
+[may-perish](naśyet) [in-moment](kṣaṇena) [of-devotees](bhaktānām) [limit-thus](kāṣṭhā+iti) [of-her](asyāḥ) [by-grace](prasādataḥ)
 
 ## mukta-m0-p43-v1069
 [moment](muhūrtā)
 
 ## mukta-m0-p43-v1070
-[own-form](svarūpaṃ) [renowned](prathitā) [on-earth](bhūmau) [moments](muhūrtāstu) [for-auspiciousness](śivāya) [to-you](vaḥ)
+[own-form](svarūpaṃ) [renowned](prathitā) [on-earth](bhūmau) [moments](muhūrtāḥ) [tu](tu) [for-auspiciousness](śivāya) [to-you](vaḥ)
 
 ## mukta-m0-p43-v1071
 [blink](nimeṣā)
 
 ## mukta-m0-p43-v1072
-[blinks](nimeṣāstu) [supreme-lady](pareśānī) [special-all-being-giving](viśeṣāśeṣabhūtidā)
+[blinks](nimeṣāḥ) [tu](tu) [of-supreme-lord](pareśānī) [distinction-all-abundance-giving](viśeṣa+aśeṣa+bhūti+dā)
 
 ## mukta-m0-p43-v1073
-[time-formed](kālarūpiṇī)
+[time-formed](kāla+rūpiṇī)
 
 ## mukta-m0-p43-v1074
-[planet-sign-moon-wheel-inferable](graharāśibhacakrakānumeyā) [renowned](prathitā) [she](sā) [indeed](kila) [time-formed](kālarūpiṇīti)
+[planet-sign-zodiac-wheel-inferable](graha+rāśi+bhacakra+kānumeyā) [renowned](prathitā) [she](sā) [indeed](kila) [time-formed](kāla+rūpiṇī) [iti](iti)
 
 ## mukta-m0-p43-v1075
-[good-ear-tongue](sukarṇarasanā)
+[good-ear-tongue](su+karṇa+rasanā)
