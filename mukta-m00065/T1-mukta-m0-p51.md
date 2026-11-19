@@ -2,52 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p51-v1251
-tasmāt-liṅga-anugaṃ pīṭhaṃ kartavyaṃ kartṛ-jīvane
+[tasmālliṅgānugaṃ](tasmālliṅgānugaṃ) [pīṭhaṃ](pīṭhaṃ) [kartavyaṃ](kartavyaṃ) [kartṛjīvane](kartṛjīvane)
+
 ## mukta-m0-p51-v1252
-yadi-syāt pīḍyate rogaiḥ kartā rāṣṭraṃ guru-stathā
+[yadi](yadi) [syāt](syāt) [pīḍyate](pīḍyate) [rogaiḥ](rogaiḥ) [kartā](kartā) [rāṣṭraṃ](rāṣṭraṃ) [gurūstathā](gurūstathā)
+
 ## mukta-m0-p51-v1253
-ucchrayeṇa tri-liṅgānāṃ na-nyūnaḥ na-adhikaḥ hareḥ
+[ucchrayeṇa](ucchrayeṇa) [triliṅgānāṃ](triliṅgānāṃ) [na](na) [nyūno](nyūno) [nādhiko](nādhiko) [hareḥ](hareḥ)
+
 ## mukta-m0-p51-v1254
-muni-sārdha-adhikaiḥ śambhuṃ kuryāt-āḍhyaṃ vasor-harim
+[munisārdhādhikaiḥ](munisārdhādhikaiḥ) [śambhuṃ](śambhuṃ) [kuryādāḍhyaṃ](kuryādāḍhyaṃ) [vasorharim](vasorharim)
+
 ## mukta-m0-p51-v1255
-pāda-ūna-aṣṭāṃśataḥ brahmā kāryaṃ ca-anāḍhyakaṃ kvacit
+[pādonāṣṭāṃśato](pādonāṣṭāṃśato) [brahmā](brahmā) [kāryaṃ](kāryaṃ) [cānāḍhyakaṃ](cānāḍhyakaṃ) [kvacit](kvacit)
+
 ## mukta-m0-p51-v1256
-ekaṃ sura-arcite liṅge brahmā sapta-aṃśake dhruvam
+[ekaṃ](ekaṃ) [surārcite](surārcite) [liṅge](liṅge) [brahmā](brahmā) [saptāṃśake](saptāṃśake) [dhruvam](dhruvam)
+
 ## mukta-m0-p51-v1257
-sitādi-varṇa-avarṇānāṃ pīṭha-ādyāḥ na-vivarṇa-jāḥ
+[sitādivarṇāvarṇānāṃ](sitādivarṇāvarṇānāṃ) [pīṭhādyā](pīṭhādyā) [na](na) [vivarṇajāḥ](vivarṇajāḥ)
+
 ## mukta-m0-p51-v1258
-ratna-jāḥ vā-atha lohaiḥ-vā viśeṣāt-kīrtaye-adhunā
+[ratnajā](ratnajā) [vātha](vātha) [lohairvā](lohairvā) [viśeṣātkīrtaye'dhunā](viśeṣātkīrtaye'dhunā)
+
 ## mukta-m0-p51-v1259
-vaiḍūrya-ādi-uttame nityaṃ hema-jā piṇḍikā varā
+[vaiḍūryādyuttame](vaiḍūryādyuttame) [nityaṃ](nityaṃ) [hemajā](hemajā) [piṇḍikā](piṇḍikā) [varā](varā)
+
 ## mukta-m0-p51-v1260
-bhāga-drayam-athikaṃ vā vinyaset piṇḍikā-vaṭau
+[bhāgadrayamathikaṃ](bhāgadrayamathikaṃ) [vā](vā) [vinyaset](vinyaset) [piṇḍikāvaṭau](piṇḍikāvaṭau)
+
 ## mukta-m0-p51-v1261
-mekhalā-ādi-vibhāgaḥ-asyāḥ pūrva-vat-samudāhṛtaḥ
+[mekhalādivibhāgo'syāḥ](mekhalādivibhāgo'syāḥ) [pūrvavatsamudāhṛtaḥ](pūrvavatsamudāhṛtaḥ)
+
 ## mukta-m0-p51-v1262
-na-nyūnaṃ na-adhikaṃ mānāt-śobhanaṃ śvabhram-iṣyate
+[na](na) [nyūnaṃ](nyūnaṃ) [nādhikaṃ](nādhikaṃ) [mānātśobhanaṃ](mānātśobhanaṃ) [śvabhramiṣyate](śvabhramiṣyate)
+
 ## mukta-m0-p51-v1263
-pīṭha-doṣāt-kṣayaḥ nāryāḥ kāraḥ kartuṃ-ca sarvadā
+[pīṭhadoṣātkṣayo](pīṭhadoṣātkṣayo) [nāryāḥ](nāryāḥ) [kāro](kāro) [kartuṃśca](kartuṃśca) [sarvadā](sarvadā)
+
 ## mukta-m0-p51-v1264
-bhukti-mukti-ubhaya-prāptyai anyaḥ kāmyasya hetave
+[bhuktimuktyubhayaprāptyai](bhuktimuktyubhayaprāptyai) [anyaḥ](anyaḥ) [kāmyasya](kāmyasya) [hetave](hetave)
+
 ## mukta-m0-p51-v1265
-padma-ardha-indu-gaṇa-ākhyā ca kāmadā śubha-mastake
+[padmārdhendugaṇākhyā](padmārdhendugaṇākhyā) [ca](ca) [kāmadā](kāmadā) [śubhamastake](śubhamastake)
+
 ## mukta-m0-p51-v1266
-dvi-mekhalā ca veda-asrā bhadrā yoga-ṛddhi-dāyinī
+[dvimekhalā](dvimekhalā) [ca](ca) [vedāsrā](vedāsrā) [bhadrā](bhadrā) [yogarddhidāyinī](yogarddhidāyinī)
+
 ## mukta-m0-p51-v1267
-ṣaḍ-asrā-āyuḥ pradā vajrī mekhala-tritaya-anvitā
+[ṣaḍasrāyuḥ](ṣaḍasrāyuḥ) [pradā](pradā) [vajrī](vajrī) [mekhalātritayānvitā](mekhalātritayānvitā)
+
 ## mukta-m0-p51-v1268
-maṇḍalā pūrṇa-candra-ābhā tvartha-dā pañca-mekhalā
+[maṇḍalā](maṇḍalā) [pūrṇacandrābhā](pūrṇacandrābhā) [tvarthadā](tvarthadā) [pañcamekhalā](pañcamekhalā)
+
 ## mukta-m0-p51-v1269
-candra-ambu-rupa-parāmaiḥ kāgni-dyaṃśaiḥ-tithi bhājitaiḥ
+[candrāmburuparāmai](candrāmburuparāmai) [kāgnidyaṃśaistithi](kāgnidyaṃśaistithi) [bhājitaiḥ](bhājitaiḥ)
+
 ## mukta-m0-p51-v1270
-vṛttā padma-puṭa-ākārā karṇikā bhaya-cumbitā
+[vṛttā](vṛttā) [padmapuṭākārā](padmapuṭākārā) [karṇiko](karṇiko) [bhayacumbitā](bhayacumbitā)
+
 ## mukta-m0-p51-v1271
-aṣṭa-koṇā gaṇa-ākhyātā mukti-dā syāt-dvi-mekhalā
+[aṣṭakoṇā](aṣṭakoṇā) [gaṇākhyātā](gaṇākhyātā) [muktidā](muktidā) [syāddvimekhalā](syāddvimekhalā)
+
 ## mukta-m0-p51-v1272
-pūrva-ukta-mekhalā-garta-nāla-kādi-samanvitā
+[pūrvoktamekhalāgartanālakādisamanvitā](pūrvoktamekhalāgartanālakādisamanvitā)
+
 ## mukta-m0-p51-v1273
-vistara-ucchraya-nāla-ādi sarvaṃ pūrva-uditaṃ kramāt
+[vistarokchrayanālādi](vistarokchrayanālādi) [sarbaṃ](sarbaṃ) [pūrvoṃditaṃ](pūrvoṃditaṃ) [kramāt](kramāt)
+
 ## mukta-m0-p51-v1274
-saṃveṣṭya vartayet-piṇḍīṃ kartuḥ kāma-prasādhikam
+[saṃveṣṭya](saṃveṣṭya) [vartayetpiṇḍīṃ](vartayetpiṇḍīṃ) [kartuḥ](kartuḥ) [kāmaprasādhikam](kāmaprasādhikam)
+
 ## mukta-m0-p51-v1275
-mārūtīṃ dhānadīṃ raudrīṃ vaiṣṇavīṃ brahma-jāṃ sadā
+[mārūtīṃ](mārūtīṃ) [dhānadīṃ](dhānadīṃ) [raudrīṃ](raudrīṃ) [vaiṣṇāvīṃ](vaiṣṇāvīṃ) [brahmajāṃ](brahmajāṃ) [sadā](sadā)
