@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p79-v1951
-[sthāṇurūpaścaragatiścāruvaktro](sthāṇurūpaścaragatiścāruvaktro) [jayī](jayī) [nayī](nayī)
+[sthāṇu+rūpaḥ](sthāṇurūpaḥ) [cara+gatiḥ](caragatiḥ) [cāru+vaktro](cāruvaktro) [jayī](jayī) [nayī](nayī)
 
 ## mukta-m0-p79-v1952
-[lakṣmīnetravaśī](lakṣmīnetravaśī) [lakṣmīhāsavaśyo](lakṣmīhāsavaśyo) [vinartakaḥ](vinartakaḥ)
+[lakṣmī+netra+vaśī](lakṣmīnetravaśī) [lakṣmī+hāsa+vaśyo](lakṣmīhāsavaśyo) [vinartakaḥ](vinartakaḥ)
 
 ## mukta-m0-p79-v1953
-[vāsavo](vāsavo) [gopyamārgeṣṭo](gopyamārgeṣṭo) [vaiṣṇavācāratatparaḥ](vaiṣṇavācāratatparaḥ)
+[vāsavo](vāsavo) [gopya+mārgeṣṭo](gopyamārgeṣṭo) [vaiṣṇava+ācāra+tatparaḥ](vaiṣṇavācāratatparaḥ)
 
 ## mukta-m0-p79-v1954
-[satyaḥ](satyaḥ) [stutyaḥ](stutyaḥ) [śucirnityo](śucirnityo) [nityātmā](nityātmā) [nityadarśanaḥ](nityadarśanaḥ)
+[satyaḥ](satyaḥ) [stutyaḥ](stutyaḥ) [śucir+nityo](śucirnityo) [nitya+ātmā](nityātmā) [nitya+darśanaḥ](nityadarśanaḥ)
 
 ## mukta-m0-p79-v1955
-[pañcamasvarasaṅgītaḥ](pañcamasvarasaṅgītaḥ) [kīrtido](kīrtido) [mohanāśanaḥ](mohanāśanaḥ)
+[pañcama+svara+saṅgītaḥ](pañcamasvarasaṅgītaḥ) [kīrti+do](kīrtido) [mohana+āśanaḥ](mohanāśanaḥ)
 
 ## mukta-m0-p79-v1956
-[lakṣmīyogīśvaro](lakṣmīyogīśvaro) [lakṣmīyogado](lakṣmīyogado) [bhogināyakaḥ](bhogināyakaḥ)
+[lakṣmī+yogīśvaro](lakṣmīyogīśvaro) [lakṣmī+yoga+do](lakṣmīyogado) [bhogināyakaḥ](bhogināyakaḥ)
 
 ## mukta-m0-p79-v1957
-[acintyamahimā](acintyamahimā) [acintyagarimā](acintyagarimā) [ghoranisvanaḥ](ghoranisvanaḥ)
+[acintya+mahimā](acintyamahimā) [acintya+garimā](acintyagarimā) [ghora+nisvanaḥ](ghoranisvanaḥ)
 
 ## mukta-m0-p79-v1958
-[kāmadevo](kāmadevo) [vaidyavaidyo](vaidyavaidyo) [vedavid](vedavid) [vedanāyakaḥ](vedanāyakaḥ)
+[kāmadevo](kāmadevo) [vaidya+vaideyo](vaidyavaidyo) [veda+vid](vedavid) [veda+nāyakaḥ](vedanāyakaḥ)
 
 ## mukta-m0-p79-v1959
-[yājñiko](yājñiko) [yamināṃ](yamināṃ) [trātā](trātā) [trilokajanako'jaraḥ](trilokajanako'jaraḥ)
+[yājñiko](yājñiko) [yamināṃ](yamināṃ) [trātā](trātā) [triloka+janako](trilokajanako) [ajaraḥ](ajaraḥ)
 
 ## mukta-m0-p79-v1960
-[lakṣmīpṛthurvasuprīto](lakṣmīpṛthurvasuprīto) [lakṣmīśrīdaḥ](lakṣmīśrīdaḥ) [śriyaḥpatiḥ](śriyaḥpatiḥ)
+[lakṣmī+pṛthu+vasu+prīto](lakṣmīpṛthurvasuprīto) [lakṣmī+śrī+daḥ](lakṣmīśrīdaḥ) [śriyaḥ+patiḥ](śriyaḥpatiḥ)
 
 ## mukta-m0-p79-v1961
 [anirvartī](anirvartī) [ca](ca) [niḥsaṅgo](niḥsaṅgo) [nirbhayo](nirbhayo) [nirupadravaḥ](nirupadravaḥ)
 
 ## mukta-m0-p79-v1962
-[nirāśrayo](nirāśrayo) [nirguṇaśca](nirguṇaśca) [guṇātīto](guṇātīto) [gaṇeśvaraḥ](gaṇeśvaraḥ)
+[nirāśrayo](nirāśrayo) [nirguṇaś+ca](nirguṇaśca) [guṇa+atīto](guṇātīto) [gaṇeśvaraḥ](gaṇeśvaraḥ)
 
 ## mukta-m0-p79-v1963
-[mahākraturyajñavapurvarāho](mahākraturyajñavapurvarāho) [yajñanāyakaḥ](yajñanāyakaḥ)
+[mahā+kratur+yajña+vapur+varāho](mahākraturyajñavapurvarāho) [yajña+nāyakaḥ](yajñanāyakaḥ)
 
 ## mukta-m0-p79-v1964
-[lakṣmīnirañjano](lakṣmīnirañjano) [lakṣmīsiddhidaḥ](lakṣmīsiddhidaḥ) [siddhivardhanaḥ](siddhivardhanaḥ)
+[lakṣmī+nirañjano](lakṣmīnirañjano) [lakṣmī+siddhi+daḥ](lakṣmīsiddhidaḥ) [siddhi+vardhanaḥ](siddhivardhanaḥ)
 
 ## mukta-m0-p79-v1965
-[sarvalokadharo](sarvalokadharo) [dānto](dānto) [dantidantāyudho](dantidantāyudho) [damī](damī)
+[sarva+loka+dharaḥ](sarvalokadharo) [dānto](dānto) [danti+dantāyudho](dantidantāyudho) [damī](damī)
 
 ## mukta-m0-p79-v1966
-[mahākarmā](mahākarmā) [mahācīno](mahācīno) [makāraśivapūjitaḥ](makāraśivapūjitaḥ)
+[mahā+karmā](mahākarmā) [mahā+cīno](mahācīno) [makāra+śiva+pūjitaḥ](makāraśivapūjitaḥ)
 
 ## mukta-m0-p79-v1967
-[māṃsāhārī](māṃsāhārī) [nityasaṅgī](nityasaṅgī) [mīnāsavarasākulaḥ](mīnāsavarasākulaḥ)
+[māṃsāhārī](māṃsāhārī) [nitya+saṅgī](nityasaṅgī) [mīnāsava+rasākulaḥ](mīnāsavarasākulaḥ)
 
 ## mukta-m0-p79-v1968
-[aghoradevo](aghoradevo) [daityārirjitadevo](daityārirjitadevo) [divākaraḥ](divākaraḥ)
+[aghora+devo](aghoradevo) [daityāriḥ](daityārirjitadevo) [jitadevo](jitadevo) [divākaraḥ](divākaraḥ)
 
 ## mukta-m0-p79-v1969
-[satsvarūpo](satsvarūpo) [virūpākṣo](virūpākṣo) [vibhākaraśataprabhaḥ](vibhākaraśataprabhaḥ)
+[sat+svarūpo](satsvarūpo) [virūpākṣo](virūpākṣo) [vibhākara+śata+prabhaḥ](vibhākaraśataprabhaḥ)
 
 ## mukta-m0-p79-v1970
-[pīnabāhuḥ](pīnabāhuḥ) [sthūlapādo](sthūlapādo) [dīrghacakṣuralaṃbhujaḥ](dīrghacakṣuralaṃbhujaḥ)
+[pīna+bāhuḥ](pīnabāhuḥ) [sthūla+pādo](sthūlapādo) [dīrgha+cakṣur+alaṃbhujaḥ](dīrghacakṣuralaṃbhujaḥ)
 
 ## mukta-m0-p79-v1971
-[lakṣmīsanātano](lakṣmīsanātano) [lakṣmīdharmādhyakṣo](lakṣmīdharmādhyakṣo) [dhaneśvaraḥ](dhaneśvaraḥ)
+[lakṣmī+sanātano](lakṣmīsanātano) [lakṣmī+dharmādhyakṣo](lakṣmīdharmādhyakṣo) [dhaneśvaraḥ](dhaneśvaraḥ)
 
 ## mukta-m0-p79-v1972
-[vīrahaḥ](vīrahaḥ) [puṇḍarīkākṣaḥ](puṇḍarīkākṣaḥ) [padmanābho](padmanābho) [jagatprabhuḥ](jagatprabhuḥ)
+[vīra+haḥ](vīrahaḥ) [puṇḍarīkākṣaḥ](puṇḍarīkākṣaḥ) [padmanābho](padmanābho) [jagat+prabhuḥ](jagatprabhuḥ)
 
 ## mukta-m0-p79-v1973
-[sahasrabāhuḥ](sahasrabāhuḥ) [kṣatreśo](kṣatreśo) [brāhmaṇo](brāhmaṇo) [vaṇijāṃ](vaṇijāṃ) [patiḥ](patiḥ)
+[sahasra+bāhuḥ](sahasrabāhuḥ) [kṣatreśo](kṣatreśo) [brāhmaṇo](brāhmaṇo) [vaṇijāṃ](vaṇijāṃ) [patiḥ](patiḥ)
 
 ## mukta-m0-p79-v1974
-[cakrārcito](cakrārcito) [nakrapatirvaruṇaḥ](nakrapatirvaruṇaḥ) [śakrasodaraḥ](śakrasodaraḥ)
+[cakrārcito](cakrārcito) [nakra+patir+varuṇaḥ](nakrapatirvaruṇaḥ) [śakra+sodaraḥ](śakrasodaraḥ)
 
 ## mukta-m0-p79-v1975
-[amānī](amānī) [mānado](mānado) [mānyo](mānyo) [mānavendro](mānavendro) [manūttamaḥ](manūttamaḥ)
+[amānī](amānī) [mānado](mānado) [mānyo](mānyo) [mānava+indro](mānavendro) [manu+uttamaḥ](manūttamaḥ)
