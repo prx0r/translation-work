@@ -2,52 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p119-v2951
-rest-one then night cow-dung plaster
+[viśrāmya](viśrāmya) [ekām](ekām) [tataḥ](tato) [rātrim](rātriṃ) [gomayena](gomayena) [vilepayet](vilepayet)
+
 ## mukta-m0-p119-v2952
-hemp-fruit-decoction stone-creeper-juice or
+[śaṇa-phalya-aṅghi-kāṣāyaiḥ](śaṇaphalyāṅghikāṣāyai) [sādyai](sādyai) [stopala-tāra-sena](stopalatārasena) [vā](vā)
+
 ## mukta-m0-p119-v2953
-steamed black-gram-water steamed-bilva-water also or
+[utsvinna](utsvinna) [māṣa-toyena](māṣatoyena) [svinna-bilva-ambunā](svinnabilvāmbunā) [api](api) [vā](vā)
+
 ## mukta-m0-p119-v2954
-then mortar-etc make coarse-powders
+[tataḥ](tataś) [ca](ca) [ulūkhala-ādyaiḥ](ulūkhalādyaiḥ) [tu](tu) [sthūla-cūrṇāni](sthūlacūrṇāni) [kārayet](kārayet)
+
 ## mukta-m0-p119-v2955
-in-pot-belly place then drugs insert
+[sthālyā-garbhe](sthālyāgarbhe) [tu](tu) [saṃsthāpya](saṃsthāpya) [tataḥ](tato) [dravyāṇi](drayāṇi) [niḥkṣipet](niḥkṣipet)
+
 ## mukta-m0-p119-v2956
-sand cow-milk resin-oil flax-seed
+[sikatā](sikrāta) [gavya-dugdhāni](gavyadugdhāni) [sarja-taila-atasī-rajaḥ](sarjatailātasīrajaḥ)
+
 ## mukta-m0-p119-v2957
-hog-plum-water ground coarse-mouthed milky named
+[āmrātaka-ambubhiḥ](āmrātakāmbubhiḥ) [piṣṭam](piṣṭaṃ) [sthūla-āsyā](sthūlāsyā) [dugdhi-kāhvayā](dugdhi)
+
 ## mukta-m0-p119-v2958
-decoction ram-horn flax-powder-mixed
+[kvāthena](kvāthena) [meṣa-śṛṅgasya](meṣaśṛṅgasya) [atasī-cūrṇa-miśritam](atasīcūrṇamiśritam)
+
 ## mukta-m0-p119-v2959
-diamond-plaster well-known likewise resin-accompanied
+[vajra-lepaḥ](vajralepaḥ) [samakhyātaḥ](samakhyātastathā) [sarja-samanvitaḥ](sarjasamanvitaḥ)
+
 ## mukta-m0-p119-v2960
-beeswax pastes and hemp-made strong new
+[madhūcchiṣṭena](madhūcchiṣṭena) [kalkaiḥ](kalkaiśca) [ca](ca) [śāṇa-jaiḥ](śāṇajaiḥ) [su-dṛḍhaiḥ](sudṛḍhairnavaiḥ) [navaiḥ](navaiḥ)
+
 ## mukta-m0-p119-v2961
-flax-oil-mixed rubbed well-cooked
+[atasī-taila-sammiśram](atasītailasammiśraṃ) [mardayitvā](mardayitvā) [su-pācitam](supācitam)
+
 ## mukta-m0-p119-v2962
-temple-house-etc ground-bond declared
+[sura-veśma-gṛha-ādīnām](suraveśmagṛhādīnāṃ) [bhūmi-bandhaḥ](bhūmibandho) [nigadyate](nigadyate)
+
 ## mukta-m0-p119-v2963
-firm-water-like made ground but level even
+[sthira-toya-upamā](sthiratoyopamā) [kāryā](kāryā) [bhūmiḥ](bhūmistu) [tu](tu) [su-talā](sutalā) [samā](samā)
+
 ## mukta-m0-p119-v2964
-that-paste make lump dried lump in-sun
+[tat-kalkam](tatkalkaṃ) [kārayet](kārayet) [piṇḍam](piṇḍaṃ) [viśoṣyam](viśoṣyaṃ) [piṇḍam](piṇḍam) [ātape](ātape)
+
 ## mukta-m0-p119-v2965
-then gruel rub ground-bond make
+[tataḥ](tato) [maṇḍena](maṇḍena) [saṃmardya](saṃmardya) [bhūmi-bandham](bhūmibandhaṃ) [tu](tu) [kārayet](kārayet)
+
 ## mukta-m0-p119-v2966
-make ground level pleasant stable water-filled
+[kuryāt](kuryād) [bhūmim](bhūmiṃ) [samam](samaṃ) [ramyam](ramyaṃ) [su-sthitam](susthitaṃ) [jala-pūritam](jalapūritam)
+
 ## mukta-m0-p119-v2967
-drug according-time apply portion-measured
+[dravyam](dravyaṃ) [kāla-anurūpeṇa](kālānurūpeṇa) [yojayet](yojayet) [bhāga-sammitam](bhāgasammitam)
+
 ## mukta-m0-p119-v2968
-summer indeed five-parts be cold-season likewise three
+[grīṣme](grīyme) [nu](nu) [pañca-bhāgāḥ](pañcabhāgāḥ) [syuḥ](syuḥ) [śīta-kāle](śītakāle) [tathā](tathā) [trayaḥ](trayaḥ)
+
 ## mukta-m0-p119-v2969
-thus given but which before bond here told of-earth
+[evam](evaṃ) [dattvā](dattvā) [tu](tu) [yaḥ](yaḥ) [pūrvam](pūrvaṃ) [bandhaḥ](bandho) [atra](atra) [kathitaḥ](kathitaḥ) [kṣiteḥ](kṣiteḥ)
+
 ## mukta-m0-p119-v2970
-water beaten-brush indeed give that expert
+[toyena](toyena) [hata-kūrcam](hatakūrcaṃ) [tu](tu) [dāpayet](dāpayettadvicakṣaṇaḥ) [tad](tad) [vicakṣaṇaḥ](vicakṣaṇaḥ)
+
 ## mukta-m0-p119-v2971
-silk-cotton-ebony-etc in-ground-bond praised
+[śālmalī-tinduka-ādīnām](śālmalītindukādīnāṃ) [bhūmi-bandhe](bhūmibandhe) [praśasyate](praśasyate)
+
 ## mukta-m0-p119-v2972
-so-many-years-thousands maker rejoices that-city
+[tāvat](tāvad) [varṣa-sahasrāṇi](varṣasahasrāṇi) [kartā](kartā) [nandati](nandati) [tat-pure](tatpure)
+
 ## mukta-m0-p119-v2973
-fifth time-staff-named with-descendants fruit-giving
+[pañcamaḥ](pañcamaḥ) [kāla-daṇḍa-ākhyaḥ](kāladaṇḍākhyaḥ) [sa-anvayāḥ](sānvayāḥ) [phala-dāyakāḥ](phaladāyakāḥ)
+
 ## mukta-m0-p119-v2974
-confusion delusion makes chastiser punishes always
+[vibhrāntim](vibhrāntiṃ) [vibhramaḥ](vibhramaḥ) [kuryāt](kuryācchāsakaḥ) [śāsakaḥ](śāsakaḥ) [śāsayet](śāsayetsadā) [sadā](sadā)
+
 ## mukta-m0-p119-v2975
-these in-divine-house obstacles until they not worshipped
+[ete](ete) [sura-gṛhe](suragṛhe) [vighnāḥ](vighnā) [yāvat](yāvatte) [te](te) [tu](tu) [na](na) [pūjitāḥ](pūjitāḥ)
