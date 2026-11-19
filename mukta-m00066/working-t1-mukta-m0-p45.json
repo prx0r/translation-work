@@ -8,11 +8,11 @@
 "tokens": [
 {
 "surface": "parirabhya",
-"quick_gloss": "embracing"
+"quick_gloss": "having-embraced"
 },
 {
 "surface": "tu",
-"quick_gloss": "but"
+"quick_gloss": "indeed"
 },
 {
 "surface": "bhartāraṃ",
@@ -23,8 +23,8 @@
 "quick_gloss": "jingling"
 },
 {
-"surface": "kaṃkaṇa+dorlatāḥ",
-"quick_gloss": "bracelet-vine"
+"surface": "kaṃkaṇadorlatāḥ",
+"quick_gloss": "bangle+arm+creepers"
 }
 ]
 },
@@ -41,7 +41,7 @@
 },
 {
 "surface": "brahmaṇā",
-"quick_gloss": "by-brahma"
+"quick_gloss": "by-Brahmā"
 },
 {
 "surface": "na",
@@ -49,7 +49,7 @@
 },
 {
 "surface": "śakreṇa",
-"quick_gloss": "by-indra"
+"quick_gloss": "by-Śakra"
 },
 {
 "surface": "na",
@@ -69,7 +69,7 @@
 },
 {
 "surface": "viṣṇunā",
-"quick_gloss": "by-vishnu"
+"quick_gloss": "by-Viṣṇu"
 }
 ]
 },
@@ -85,8 +85,29 @@
 "quick_gloss": "even"
 },
 {
-"surface": "prākāra+śatakaiḥ",
-"quick_gloss": "by-hundred-walls"
+"surface": "prākāraśatakairanukṣaṇa",
+"quick_gloss": "wall+hundreds+by"
+},
+{
+"surface": "surakṣitāḥ",
+"quick_gloss": "every-moment"
+}
+]
+},
+{
+"verse_id": "mukta-m0-p45-v1103",
+"song": "mukta-m0-p45",
+"verse": 1103,
+"quick_english": "",
+"quick_english_source": "t1parse",
+"tokens": [
+{
+"surface": "api",
+"quick_gloss": "even"
+},
+{
+"surface": "prākāraśatakair",
+"quick_gloss": "wall+hundreds+by"
 },
 {
 "surface": "anukṣaṇa",
@@ -94,7 +115,7 @@
 },
 {
 "surface": "surakṣitāḥ",
-"quick_gloss": "well-guarded"
+"quick_gloss": "well-protected"
 }
 ]
 },
@@ -110,20 +131,20 @@
 "quick_gloss": "of-women"
 },
 {
-"surface": "duḥśīla+karaṇe",
-"quick_gloss": "bad-conduct-making"
+"surface": "duḥsilakaraṇe",
+"quick_gloss": "evil+conduct+in"
+},
+{
+"surface": "paravyāmohane",
+"quick_gloss": "other+deluding+in"
+},
+{
+"surface": "api",
+"quick_gloss": "even"
 },
 {
 "surface": "ca",
 "quick_gloss": "and"
-},
-{
-"surface": "paravyāmohane",
-"quick_gloss": "others-deluding"
-},
-{
-"surface": "api",
-"quick_gloss": "also"
 }
 ]
 },
@@ -144,15 +165,44 @@
 },
 {
 "surface": "gṛhastāsāṃ",
-"quick_gloss": "held"
+"quick_gloss": "grasped"
 },
 {
-"surface": "cittasya",
+"surface": "cittasyātī",
 "quick_gloss": "of-mind"
 },
 {
-"surface": "atī+valolataḥ",
-"quick_gloss": "unsteady"
+"surface": "valolataḥ",
+"quick_gloss": "excessive+fickleness"
+}
+]
+},
+{
+"verse_id": "mukta-m0-p45-v1105",
+"song": "mukta-m0-p45",
+"verse": 1105,
+"quick_english": "",
+"quick_english_source": "t1parse",
+"tokens": [
+{
+"surface": "kenāpi",
+"quick_gloss": "by-anyone"
+},
+{
+"surface": "na",
+"quick_gloss": "not"
+},
+{
+"surface": "gṛhastāsāṃ",
+"quick_gloss": "grasped+of-them"
+},
+{
+"surface": "cittasyātī",
+"quick_gloss": "of-mind"
+},
+{
+"surface": "valolataḥ",
+"quick_gloss": "excessive+fickleness"
 }
 ]
 },
@@ -168,12 +218,41 @@
 "quick_gloss": "not"
 },
 {
-"surface": "pūrtiḥ",
-"quick_gloss": "satisfaction"
+"surface": "pūtirmanasaḥ",
+"quick_gloss": "impurity"
 },
 {
-"surface": "manasaḥ",
+"surface": "kvāpi",
 "quick_gloss": "of-mind"
+},
+{
+"surface": "na",
+"quick_gloss": "anywhere"
+},
+{
+"surface": "tṛptiḥ",
+"quick_gloss": "not"
+},
+{
+"surface": "kvāpikarmaṇi",
+"quick_gloss": "satisfaction"
+}
+]
+},
+{
+"verse_id": "mukta-m0-p45-v1106",
+"song": "mukta-m0-p45",
+"verse": 1106,
+"quick_english": "",
+"quick_english_source": "t1parse",
+"tokens": [
+{
+"surface": "na",
+"quick_gloss": "not"
+},
+{
+"surface": "pūtirmanasaḥ",
+"quick_gloss": "impurity+of-mind"
 },
 {
 "surface": "kvāpi",
@@ -185,15 +264,11 @@
 },
 {
 "surface": "tṛptiḥ",
-"quick_gloss": "contentment"
+"quick_gloss": "satisfaction"
 },
 {
-"surface": "kvāpi",
-"quick_gloss": "anywhere"
-},
-{
-"surface": "karmaṇi",
-"quick_gloss": "in-action"
+"surface": "kvāpikarmaṇi",
+"quick_gloss": "anywhere+in-action"
 }
 ]
 },
@@ -205,24 +280,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "anyam+anyam",
-"quick_gloss": "one-another"
+"surface": "anyamanyaṃ",
+"quick_gloss": "each-other"
 },
 {
-"surface": "ciṃtayanto",
+"surface": "ciṃtayaṃto",
 "quick_gloss": "thinking"
 },
 {
-"surface": "gūḍha",
-"quick_gloss": "hidden"
-},
-{
-"surface": "abhiprāya",
-"quick_gloss": "intention"
-},
-{
-"surface": "ceṣṭitāḥ",
-"quick_gloss": "efforts"
+"surface": "gūḍhābhiprāyaceṣṭitāḥ",
+"quick_gloss": "hidden+intention+actions"
 }
 ]
 },
@@ -239,7 +306,7 @@
 },
 {
 "surface": "tu",
-"quick_gloss": "but"
+"quick_gloss": "indeed"
 },
 {
 "surface": "tāsāṃ",
@@ -247,15 +314,15 @@
 },
 {
 "surface": "manoglāniḥ",
-"quick_gloss": "mind-weariness"
+"quick_gloss": "mind+weariness"
 },
 {
-"surface": "prāṇa+paryanta",
-"quick_gloss": "to-life-limit"
+"surface": "prāṇaparyaṃta",
+"quick_gloss": "life+end+until"
 },
 {
 "surface": "sāhasaiḥ",
-"quick_gloss": "daring"
+"quick_gloss": "by-daring-deeds"
 }
 ]
 },
@@ -267,32 +334,49 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "na",
-"quick_gloss": "not"
-},
-{
-"surface": "agniḥ",
-"quick_gloss": "fire"
-},
-{
-"surface": "tṛpyati",
-"quick_gloss": "satisfied"
+"surface": "nāgnistṛpyati",
+"quick_gloss": "not+fire"
 },
 {
 "surface": "kāṣṭhānāṃ",
-"quick_gloss": "with-wood"
-},
-{
-"surface": "na",
-"quick_gloss": "not"
-},
-{
-"surface": "mahodadhiḥ",
-"quick_gloss": "ocean"
+"quick_gloss": "is-satisfied"
 },
 {
 "surface": "nāpagānāṃ",
-"quick_gloss": "of-rivers"
+"quick_gloss": "by-fuel"
+},
+{
+"surface": "mahodadhiḥ",
+"quick_gloss": "not+of-rivers"
+}
+]
+},
+{
+"verse_id": "mukta-m0-p45-v1109",
+"song": "mukta-m0-p45",
+"verse": 1109,
+"quick_english": "",
+"quick_english_source": "t1parse",
+"tokens": [
+{
+"surface": "nāgnis",
+"quick_gloss": "not+fire"
+},
+{
+"surface": "tṛpyati",
+"quick_gloss": "is-satisfied"
+},
+{
+"surface": "kāṣṭhānāṃ",
+"quick_gloss": "by-fuel"
+},
+{
+"surface": "nāpagānāṃ",
+"quick_gloss": "not+of-rivers"
+},
+{
+"surface": "mahodadhiḥ",
+"quick_gloss": "great-ocean"
 }
 ]
 },
@@ -308,24 +392,20 @@
 "quick_gloss": "of-women"
 },
 {
-"surface": "dviguṇa",
-"quick_gloss": "double"
+"surface": "dviguṇam",
+"quick_gloss": "twofold"
 },
 {
-"surface": "āhāraḥ",
-"quick_gloss": "food"
+"surface": "āhāro",
+"quick_gloss": "appetite"
 },
 {
-"surface": "buddhiḥ",
-"quick_gloss": "mind"
+"surface": "buddhiś",
+"quick_gloss": "intellect"
 },
 {
-"surface": "ca",
-"quick_gloss": "and"
-},
-{
-"surface": "api",
-"quick_gloss": "api"
+"surface": "cāpi",
+"quick_gloss": "and+also"
 },
 {
 "surface": "caturguṇam",
@@ -342,19 +422,19 @@
 "tokens": [
 {
 "surface": "mahāyāga",
-"quick_gloss": "great-sacrifice"
+"quick_gloss": "great+sacrifice"
 },
 {
 "surface": "prasaṃgena",
-"quick_gloss": "occasion"
+"quick_gloss": "in-context"
 },
 {
 "surface": "proktaṃ",
-"quick_gloss": "spoken"
+"quick_gloss": "declared"
 },
 {
 "surface": "kāmāṣṭakaṃ",
-"quick_gloss": "kama-octad"
+"quick_gloss": "desire+octad"
 },
 {
 "surface": "mayā",
@@ -370,20 +450,37 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "tasmāt",
+"surface": "tasmādala",
 "quick_gloss": "therefore"
 },
 {
 "surface": "dṛṣṭīnāṃ",
-"quick_gloss": "for-those"
+"quick_gloss": "of-restless+eyed"
 },
 {
-"surface": "marāla+cikura+bhruvām",
-"quick_gloss": "with-eyes"
+"surface": "marālacikurabhruvām",
+"quick_gloss": "swan+hair+browed"
+}
+]
 },
 {
-"surface": "? ",
-"quick_gloss": "of-dark"
+"verse_id": "mukta-m0-p45-v1112",
+"song": "mukta-m0-p45",
+"verse": 1112,
+"quick_english": "",
+"quick_english_source": "t1parse",
+"tokens": [
+{
+"surface": "tasmād",
+"quick_gloss": "therefore"
+},
+{
+"surface": "aladṛṣṭīnāṃ",
+"quick_gloss": "of-restless+eyed"
+},
+{
+"surface": "marālacikurabhruvām",
+"quick_gloss": "swan+hair+browed"
 }
 ]
 },
@@ -403,7 +500,7 @@
 "quick_gloss": "if"
 },
 {
-"surface": "manaḥ",
+"surface": "mano",
 "quick_gloss": "mind"
 },
 {
@@ -416,7 +513,7 @@
 },
 {
 "surface": "parilipyate",
-"quick_gloss": "sticks"
+"quick_gloss": "clings"
 }
 ]
 },
@@ -437,11 +534,11 @@
 },
 {
 "surface": "dravati",
-"quick_gloss": "melts"
+"quick_gloss": "flows"
 },
 {
 "surface": "bhogāṃbu",
-"quick_gloss": "enjoyment-water"
+"quick_gloss": "enjoyment+water"
 },
 {
 "surface": "na",
@@ -452,8 +549,8 @@
 "quick_gloss": "and"
 },
 {
-"surface": "vibhrama+saṃpadaḥ",
-"quick_gloss": "charm-wealth"
+"surface": "vibhramasaṃpadaḥ",
+"quick_gloss": "charm+wealth"
 }
 ]
 },
@@ -465,7 +562,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "tasmāt",
+"surface": "tasmān",
 "quick_gloss": "therefore"
 },
 {
@@ -478,15 +575,15 @@
 },
 {
 "surface": "vakṣya",
-"quick_gloss": "I-will-speak"
+"quick_gloss": "I-shall-speak"
 },
 {
-"surface": "manyataḥ",
-"quick_gloss": "from-others"
+"surface": "manyato",
+"quick_gloss": "considering"
 },
 {
-"surface": "hariṇī+dṛśām",
-"quick_gloss": "of-deer-eyed"
+"surface": "hariṇīdṛśām",
+"quick_gloss": "of-doe+eyed"
 }
 ]
 },
@@ -498,28 +595,29 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "sauṃdarya",
-"quick_gloss": "beauty"
+"surface": "sauṃdaryavibhramālāpa",
+"quick_gloss": "beauty+charm+speech+pleasure+love+riches"
 },
 {
-"surface": "vibhrama",
-"quick_gloss": "charm"
+"surface": "saukhyaśṛṃgārasaṃpadaḥ",
+"quick_gloss": "pleasure+love+riches"
+}
+]
 },
 {
-"surface": "ālāpa",
-"quick_gloss": "speech"
+"verse_id": "mukta-m0-p45-v1116",
+"song": "mukta-m0-p45",
+"verse": 1116,
+"quick_english": "",
+"quick_english_source": "t1parse",
+"tokens": [
+{
+"surface": "sauṃdaryavibhramālāpa",
+"quick_gloss": "beauty+charm+speech"
 },
 {
-"surface": "saukhya",
-"quick_gloss": "pleasure"
-},
-{
-"surface": "śṛṃgāra",
-"quick_gloss": "erotic"
-},
-{
-"surface": "saṃpadaḥ",
-"quick_gloss": "wealth"
+"surface": "saukhyaśṛṃgārasaṃpadaḥ",
+"quick_gloss": "pleasure+love+riches"
 }
 ]
 },
@@ -531,24 +629,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "avahiththā",
-"quick_gloss": "concealment"
+"surface": "avahiththāvaśenaiva",
+"quick_gloss": "by-concealment+power+alone"
 },
 {
-"surface": "vaśena",
-"quick_gloss": "by-force"
-},
-{
-"surface": "eva",
-"quick_gloss": "eva"
-},
-{
-"surface": "para+pūruṣa",
-"quick_gloss": "other-man"
-},
-{
-"surface": "lolatā",
-"quick_gloss": "fickleness"
+"surface": "parapūruṣalolatā",
+"quick_gloss": "other+man+longing"
 }
 ]
 },
@@ -560,12 +646,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "mūḍhāḥ",
+"surface": "mūḍhās",
 "quick_gloss": "fools"
 },
 {
-"surface": "stabdhāḥ",
-"quick_gloss": "stiff"
+"surface": "tabdhā",
+"quick_gloss": "stupefied"
 },
 {
 "surface": "na",
@@ -577,15 +663,11 @@
 },
 {
 "surface": "bhāvaṃ",
-"quick_gloss": "feeling"
+"quick_gloss": "nature"
 },
 {
-"surface": "kṛtrima",
-"quick_gloss": "artificial"
-},
-{
-"surface": "ceṣṭitam",
-"quick_gloss": "effort"
+"surface": "kṛtrimaceṣṭitam",
+"quick_gloss": "artificial+behavior"
 }
 ]
 },
@@ -598,7 +680,7 @@
 "tokens": [
 {
 "surface": "aho",
-"quick_gloss": "aho"
+"quick_gloss": "alas"
 },
 {
 "surface": "mūḍhena",
@@ -606,15 +688,15 @@
 },
 {
 "surface": "durllakṣyaṃ",
-"quick_gloss": "hard-to-discern"
+"quick_gloss": "hard+to-discern"
 },
 {
 "surface": "strīṇām",
 "quick_gloss": "of-women"
 },
 {
-"surface": "ākṛti+ceṣṭitam",
-"quick_gloss": "form-effort"
+"surface": "ākṛticeṣṭitam",
+"quick_gloss": "appearance+behavior"
 }
 ]
 },
@@ -639,11 +721,11 @@
 },
 {
 "surface": "vaṃcakā",
-"quick_gloss": "deceiver"
+"quick_gloss": "deceivers"
 },
 {
 "surface": "vamalocanā",
-"quick_gloss": "beautiful-eyed"
+"quick_gloss": "beautiful+eyed-women"
 }
 ]
 },
@@ -659,12 +741,8 @@
 "quick_gloss": "even"
 },
 {
-"surface": "śāstra+vivettāraṃ",
-"quick_gloss": "scripture-knower"
-},
-{
-"surface": "api",
-"quick_gloss": "even"
+"surface": "śāstravivettāraṃmapi",
+"quick_gloss": "scripture+knower"
 },
 {
 "surface": "śāstreṇa",
@@ -672,7 +750,7 @@
 },
 {
 "surface": "laṃpaṭāḥ",
-"quick_gloss": "lustful"
+"quick_gloss": "skilled-in-deceit"
 }
 ]
 },
@@ -688,24 +766,16 @@
 "quick_gloss": "even"
 },
 {
-"surface": "rajjū",
-"quick_gloss": "rope"
-},
-{
-"surface": "praharaṇam",
-"quick_gloss": "weapon"
+"surface": "rajjupraharaṇam",
+"quick_gloss": "rope+striker"
 },
 {
 "surface": "api",
 "quick_gloss": "even"
 },
 {
-"surface": "rakṣaṇa",
-"quick_gloss": "protection"
-},
-{
-"surface": "dakṣiṇam",
-"quick_gloss": "skilled"
+"surface": "rakṣaṇadakṣiṇam",
+"quick_gloss": "protection+skilled"
 }
 ]
 },
@@ -717,12 +787,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "api",
-"quick_gloss": "even"
-},
-{
-"surface": "uddhataṃ",
-"quick_gloss": "violent"
+"surface": "apyuddhatam",
+"quick_gloss": "even+arrogant"
 },
 {
 "surface": "api",
@@ -741,12 +807,8 @@
 "quick_gloss": "thief"
 },
 {
-"surface": "api",
-"quick_gloss": "even"
-},
-{
-"surface": "prabhum",
-"quick_gloss": "lord"
+"surface": "apiprabhum",
+"quick_gloss": "even+lord"
 }
 ]
 },
@@ -758,24 +820,49 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "yaḥ",
+"surface": "yas",
 "quick_gloss": "who"
 },
 {
-"surface": "strīṇāṃ",
+"surface": "trīṇāṃ",
 "quick_gloss": "of-women"
 },
 {
-"surface": "hṛdaya+vyāla",
-"quick_gloss": "heart-serpent"
+"surface": "hṛdayavyālagrahaṇe",
+"quick_gloss": "heart+serpent+seizing+in"
 },
 {
-"surface": "grahaṇe",
-"quick_gloss": "catching"
+"surface": "cā",
+"quick_gloss": "and"
+},
+{
+"surface": "hituṃḍikaḥ",
+"quick_gloss": "snake-charmer"
+}
+]
+},
+{
+"verse_id": "mukta-m0-p45-v1124",
+"song": "mukta-m0-p45",
+"verse": 1124,
+"quick_english": "",
+"quick_english_source": "t1parse",
+"tokens": [
+{
+"surface": "yas",
+"quick_gloss": "who"
+},
+{
+"surface": "trīṇāṃ",
+"quick_gloss": "of-women"
+},
+{
+"surface": "hṛdayavyālagrahaṇe",
+"quick_gloss": "heart+serpent+seizing+in"
 },
 {
 "surface": "cāhituṃḍikaḥ",
-"quick_gloss": "snake-charmer"
+"quick_gloss": "and+snake-charmer"
 }
 ]
 },
@@ -787,24 +874,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "vīrasya",
-"quick_gloss": "of-hero"
-},
-{
-"surface": "iva",
-"quick_gloss": "iva"
+"surface": "vīrasyeva",
+"quick_gloss": "of-hero+like"
 },
 {
 "surface": "prakṛṣṭena",
-"quick_gloss": "excellent"
+"quick_gloss": "by-excellent"
 },
 {
 "surface": "samācāreṇa",
-"quick_gloss": "conduct"
+"quick_gloss": "by-conduct"
 },
 {
 "surface": "jāyate",
-"quick_gloss": "becomes"
+"quick_gloss": "is-born"
 }
 ]
 }
