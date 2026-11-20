@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p09-v201
-[khaḍgīśaḥ](khaḍgīśo) [jvālinī](jvālinī) [vakṣaḥ](vakṣaḥ) [vaṅkaḥ](vaṅkaḥ) [raṅkaḥ](raṅkaḥ) [kalasaṃ](kalasaṃ) [ravi](ravi) [kalasaṃ](kalasaṃ) [dhvanivācakaḥ](dhvanivācakaḥ)
+[gloss](khaḍgīśo) [gloss](jvālinī) [gloss](vakṣaḥ) [gloss](vaṅkaḥ) [gloss](raṅkaḥ) [gloss](kalasaṃ) [gloss](ravi) [gloss](kalasaṃ) [gloss](dhvanivācakaḥ)
 
 ## mukta-m0-p09-v202
-[tridhātuḥ](tridhātuḥ) [śaṅkaraḥ](śaṅkaraḥ) [śreṣṭhaḥ](śreṣṭho) [viśeṣaḥ](viśeṣo) [yamasādanam](yamasādanam)
+[gloss](tridhātuḥ) [gloss](śaṅkaraḥ) [gloss](śreṣṭho) [gloss](viśeṣo) [gloss](yamasādanam)
 
 ## mukta-m0-p09-v203
-[śa](śa)
+[gloss](śa)
 
 ## mukta-m0-p09-v204
-[saukhyam](saukhyanāmā) [kumāraḥ](kumāro'sthi) [śrīkaṇṭhaḥ](śrīkaṇṭho) [vṛṣaketanaḥ](vṛṣaketanaḥ)
+[gloss](saukhyānāmā) [gloss](kumāro'sthi) [gloss](śrīkaṇṭho) [gloss](vṛṣaketanaḥ)
 
 ## mukta-m0-p09-v205
-[mṛtyudevaḥ](mṛtyudevo) [mahālakṣmīḥ](mahālakṣmīrmahendraḥ) [kulakaulinī](kulakaulinī)
+[gloss](mṛtyudevo) [gloss](mṛtyurdevo) [gloss](mahālakṣmīrmahendraḥ) [gloss](kulakaulinī)
 
 ## mukta-m0-p09-v206
-[vāmoruḥ](vāmoruḥ) [puṇḍarīkātmā](puṇḍarīkātmā) [kāntiḥ](kāntiḥ) [kalyāṇavācakaḥ](kalyāṇavācakaḥ)
+[gloss](vāmoruḥ) [gloss](puṇḍarīkātmā) [gloss](kāntiḥ) [gloss](kalyāṇavācakaḥ)
 
 ## mukta-m0-p09-v207
-[parameṣṭhī](parameṣṭhī) [vāmabāhuḥ](vāmabāhuḥ) [śreṣṭhaḥ](śreṣṭho) [garbhavimocanaḥ](garbhavimocanaḥ)
+[gloss](parameṣṭhī) [gloss](vāmabāhuḥ) [gloss](śreṣṭho) [gloss](garbhavimocanaḥ)
 
 ## mukta-m0-p09-v208
-[suśrīḥ](suśrīruṣmā) [vṛṣaḥ](vṛṣo) [lajjā](lajjā) [marudbhakṣyaḥ](marudbhakṣyaḥ) [priyaḥ](priyaḥ) [śivaḥ](śivaḥ)
+[gloss](suśrīruṣmā) [gloss](vṛṣo) [gloss](lajjā) [gloss](marudbhakṣyaḥ) [gloss](priyaḥ) [gloss](śivaḥ)
 
 ## mukta-m0-p09-v209
-[kalakaṇṭhaḥ](kalakaṇṭho) [madhyabhinnā](madhyabhinnā) [yuddhātmā](yuddhātmā) [khalpūḥ](khalpūḥ) [śiraḥ](śiraḥ)
+[gloss](kalakaṇṭho) [gloss](madhyabhinnā) [gloss](yuddhātmā) [gloss](khalpūḥ) [gloss](malapuḥ) [gloss](śiraḥ)
 
 ## mukta-m0-p09-v210
-[jagadbījam](jagadbījaṃ) [śaktināmā](śaktināmā) [so'haṃ](so'haṃ) [vegavatī](vega(śa)vatī) [bhṛguḥ](bhṛguḥ)
+[gloss](jagadbījaṃ) [gloss](śaktināmā) [gloss](so'haṃ) [gloss](moho) [gloss](vega(śa)vatī) [gloss](bhṛguḥ)
 
 ## mukta-m0-p09-v211
-[dakṣapādaḥ](dakṣapādo'mṛtaṃ) [brāhmī](brāhmī) [paramātmā](paramātmā) [paro'kṣaraḥ](paro'kṣaraḥ)
+[gloss](dakṣapādo'mṛtaṃ) [gloss](brāhmī) [gloss](paramātmā) [gloss](paro'kṣaraḥ)
 
 ## mukta-m0-p09-v212
-[prāṇādyaḥ](prāṇādyastripurādevī) [lakṣmīḥ](lakṣmīḥ) [somaḥ](somo) [hiraṇyabhūḥ](hiraṇyabhūḥ)
+[gloss](prāṇādyastripurādevī) [gloss](śca) [gloss](purā) [gloss](devī) [gloss](lakṣmīḥ) [gloss](somo) [gloss](hiraṇyabhūḥ) [gloss](hiraṇyapuḥ)
 
 ## mukta-m0-p09-v213
-[durgottāriṇī](durgottāriṇī) [sammohā](sammohā) [jīvaḥ](jīvo) [mūrtimanoharaḥ](mūrtimanoharaḥ)
+[gloss](durgottāriṇī) [gloss](sammohā) [gloss](jīvo) [gloss](mūrtimanoharaḥ) [gloss](manojavaḥ)
 
 ## mukta-m0-p09-v214
-[nakulīśaḥ](nakulīśo) [jagatprāṇaḥ](jagatprāṇaḥ) [prāṇeśaḥ](prāṇeśaḥ) [kapilāmalaḥ](kapilā'malaḥ)
+[gloss](nakulīśo) [gloss](jagatprāṇaḥ) [gloss](prāṇeśaḥ) [gloss](kapilā'malaḥ) [gloss](malaḥ) [gloss](mataḥ)
 
 ## mukta-m0-p09-v215
-[mṛgaḥ](mṛgo'bhayā'ruṇā) [sthāṇuḥ](sthāṇuḥ) [kroṣṭuḥ](kroṣṭuḥ) [kūpavirāvaṇaḥ](kūpavirāvaṇaḥ)
+[gloss](mṛgo'bhayā'ruṇā) [gloss](sthāṇuḥ) [gloss](kroṣṭuḥ) [gloss](kūpavirāvaṇaḥ) [gloss](kraṭakūpavirāvaṇaḥ) [gloss](kūṭakoparivāraṇaḥ)
 
 ## mukta-m0-p09-v216
-[svakopavāraṇaḥ](sva(sa)kopavāraṇaḥ) [śūlī](śūlī) [caitanyaṃ](caitanyaṃ) [pādapūraṇaḥ](pādapūraṇaḥ)
+[gloss](sva(sa)kopavāraṇaḥ) [gloss](śūlī) [gloss](caitanyaṃ) [gloss](pādapūraṇaḥ)
 
 ## mukta-m0-p09-v217
-[binduḥ](bindurdurgā) [priyā](priyā) [devī](devī) [meghaḥ](meghaḥ) [śyāmeśvaraḥ](śyāmeśvaraḥ) [pumān](pumān)
+[gloss](bindurdurgā) [gloss](priyā) [gloss](devī) [gloss](meghaḥ) [gloss](śyāmeśvaraḥ) [gloss](pumān)
 
 ## mukta-m0-p09-v218
-[dakṣapādaḥ](dakṣapādaḥ) [sadā](sadā) [śambhuḥ](śambhuḥ) [sākhoṭaḥ](sākhoṭaḥ) [somamaṇḍalam](somamaṇḍalam)
+[gloss](dakṣapādaḥ) [gloss](sadā) [gloss](śambhuḥ) [gloss](sākhoṭaḥ) [gloss](somamaṇḍalam)
 
 ## mukta-m0-p09-v219
-[vyāpinī](vyāpinī) [śivadā](śivadā) [ketuḥ](keturjagat) [sīrataraṃ](sīrataraṃ) [haṭhaḥ](haṭhaḥ)
+[gloss](vyāpinī) [gloss](śivadā) [gloss](keturjagat) [gloss](sīrataraṃ) [gloss](haṭhaḥ)
 
 ## mukta-m0-p09-v220
-[jaṭharaḥ](jaṭharo) [nakulī](nakuliḥ) [pītaḥ](pītaḥ) [śiveśaḥ](śiveśo'naṅgamālinī)
+[gloss](jaṭharo) [gloss](nakuliḥ) [gloss](pītaḥ) [gloss](pītā) [gloss](śiveśo'naṅgamālinī)
 
 ## mukta-m0-p09-v221
-[kṣa](kṣa)
+[gloss](kṣa)
 
 ## mukta-m0-p09-v222
-[nṛsiṃhaḥ](nṛsiṃho) [vidyutā](vidyutā) [māyā](māyā) [mahātejā](mahātejā) [yugāntakaḥ](yugāntakaḥ)
+[gloss](nṛsiṃho) [gloss](vidyutā) [gloss](māyā) [gloss](mahātejā) [gloss](yugāntakaḥ)
 
 ## mukta-m0-p09-v223
-[sarvāṅgaṃ](sarvāṅgaṃ) [sāgaraḥ](sāgaraḥ) [kāmaḥ](kāmaḥ) [saṃyogāntaḥ](saṃyogāntastripūrakaḥ)
+[gloss](sarvāṅgaṃ) [gloss](sarvāṃgaḥ) [gloss](sāgaraḥ) [gloss](kāmaḥ) [gloss](saṃyogāntastripūrakaḥ)
 
 ## mukta-m0-p09-v224
-[mukhaṃ](mukhaṃ) [kavyaṃ](kavyaṃ) [mahānantā](mahānantā) [kālajihvā](kālajihvā) [gaṇeśvaraḥ](gaṇeśvaraḥ)
+[gloss](mukhaṃ) [gloss](kavyaṃ) [gloss](mahānantā) [gloss](kavyavahā'nantā) [gloss](kālajihvā) [gloss](gaṇeśvaraḥ)
 
 ## mukta-m0-p09-v225
-[chāyāputraḥ](chāyāputraśca) [saṃghātaḥ](saṃghāto) [malayaśrīḥ](malayaśrīrlalāṭakaḥ)
+[gloss](chāyāputraśca) [gloss](saṃghāto) [gloss](malayaśrīrlalāṭakaḥ)

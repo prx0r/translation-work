@@ -2,76 +2,52 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p18-v426
-[falling](patane) [middle-break](madhyabhaṅgaḥ) [is](syāt) [then](tadā) [oblation](homaḥ) [is-performed](vidhīyate)
-
+falling middle-break be then homa prescribed
 ## mukta-m0-p18-v427
-[should-give](dadyāt) [full-offering](pūrṇāhutiṃ) [and](ca) [api](api) [with-śiva](śivena) [removing-inauspiciousness](aśivahāriṇā)
-
+give full-offering and also by-shiva removing-inauspicious
 ## mukta-m0-p18-v428
-[stone-giving](śilādāne) [thus](tathā) [worship](pūjā) [wood-giving](dārvādāne) [as-stated](yathoditā)
-
+stone-giving thus worship wood-giving as-stated
 ## mukta-m0-p18-v429
-[by-varṇa-distinction](dvijādivarṇabhedena) [by-form-distinction](rūpabhedena) [ca](ca) [established](sthitāḥ)
-
+by-twice-born-etc-varna-difference by-form-difference and situated
 ## mukta-m0-p18-v430
-[young-woman](yuvatī) [that](sā) [stone](śilā) [acceptable](grāhyā) [in-three](triṣu) [liṅgas](liṅgeṣu) [not-others](netarāḥ)
-
+young-woman that stone acceptable in-three lingas not-others
 ## mukta-m0-p18-v431
-[growth](vṛddhiṃ) [should-give](dadyāt) [stone](śilā) [certainly](nūnaṃ) [young](taruṇī) [with-marks](lakṣaṇānvitā)
-
+growth give stone certainly young endowed-with-marks
 ## mukta-m0-p18-v432
-[three](trayo) [sprouts](aṅkurāḥ) [directions](diśaḥ) [three](tisraḥ) [smell-taste](gandhāsvādau) [fourfold](caturvirdhā)
-
+three sprouts directions three smell-taste fourfold
 ## mukta-m0-p18-v433
-[youthful](tāruṇam) [one](ekam) [thus](ityevaṃ) [thirty-two](dvātriṃśat) [marks](lakṣaṇāni) [tu](tu)
-
+youth one thus thirty-two marks indeed
 ## mukta-m0-p18-v434
-[smooth](snigdhā) [concave](nimnā) [stone](śilā) [auspicious](dhanyā) [sprinkled](siktā) [holy-river-water](puṇyanadījalaiḥ)
-
+smooth-low stone fortunate sprinkled sacred-river-waters
 ## mukta-m0-p18-v435
-[fragrant](sugandhī) [compact-limbed](niviḍāṅgī) [ca](ca) [in-shade](dramacchāyāsthitā) [always](sadā)
-
+fragrant dense-limbed and shade-situated always
 ## mukta-m0-p18-v436
-[firm](dṛḍhā) [pleasing](manoramā) [heavy](gurvī) [sweet-sound-adorned](madhuradhvanibhūṣitā)
-
+firm pleasing heavy sweet-sound-adorned
 ## mukta-m0-p18-v437
-[gradually](krameṇa) [lotus-ghee-cow](abjājyagovarvo) [urine-smell](mūtragandhāḥ) [auspicious](śubhāḥ) [stones](śilāḥ)
-
+in-order lotus-ghee-cow-dung urine-smell auspicious stones
 ## mukta-m0-p18-v438
-[peace](śāntiṃ) [victory](jayaṃ) [wealth](dhanaṃ) [ca](ca) [life](āyuḥ) [to-four-varṇas](cāturvarṇye) [gives](prayacchati)
-
+peace victory wealth life to-four-varnas gives
 ## mukta-m0-p18-v439
-[good-radiance](sutejā) [form-endowed](rūpasaṃpannā) [wealth-giver](dhanadeśendra) [dik](dik) [situated](sthitā)
-
+good-radiance form-endowed wealth-god-lord direction situated
 ## mukta-m0-p18-v440
-[constellation](nakṣatraṃ) [ca](ca) [deer](mṛgaṃ) [its](tasyāḥ) [that-god](taddevaḥ) [moon-marked](śaśalāñchanaḥ)
-
+constellation and deer its that-god moon-marked
 ## mukta-m0-p18-v441
-[its](asyāḥ) [nakṣatra](ṛkṣaṃ) [becomes](bhavet) [jyeṣṭhā](jyeṣṭhā) [deity](devatā) [ca](ca) [indra](śatakratu)
-
+its constellation be jyestha deity and indra
 ## mukta-m0-p18-v442
-[nakṣatra](nakṣatraṃ) [phalgunī](phalgunī) [ca](ca) [its](asyāḥ) [god](devaḥ) [ca](ca) [bhaga-named](bhagasaṃjñakaḥ)
-
+page53 constellation phalguni and-its god named-bhaga
 ## mukta-m0-p18-v443
-[nakṣatra](nakṣatram) [aśvinī](aśvinau) [ca](ca) [its](asyāḥ) [gods](devau) [ca](ca) [eva](eva) [aśvins](aśvinau) [matau](matau)
-
+constellation ashvini and-its two-gods indeed ashvins considered
 ## mukta-m0-p18-v444
-[cool](śītalā) [ca](ca) [pleasant-touch](sukhasparśā) [compact-limbed](niviḍāṅgī) [pleasing](manoramā)
-
+cool and pleasant-touch dense-limbed pleasing
 ## mukta-m0-p18-v445
-[one-color](ekavarṇaḥ) [firm](sthiraḥ) [smooth](snigdho) [elephant-neck](gajakaṇṭho) [pamasvana](pamasvanaḥ)
-
+one-color firm smooth elephant-throat pamasvana
 ## mukta-m0-p18-v446
-[stone](pāṣāṇaḥ) [aya](aya) [heavy](guru) [male](pumān) [of-men](puruṣāṇāṃ) [glory-giving](vibhūtidaḥ)
-
+stone this heavy male men prosperity-giving
 ## mukta-m0-p18-v447
-[for-woman](striyā) [woman-image](strīpratimā) [should-be-made](kāryā) [eunuch](ṣaṇḍhaṃ) [by-eunuch](ṣaṇḍhena) [na](na) [by-men](nṛbhiḥ)
-
+for-woman woman-image made eunuch by-eunuch not by-men
 ## mukta-m0-p18-v448
-[vein-rich](śirāḍhyaṃ) [rough](karkaśaṃ) [tu](tu) [straight](ṛju) [this](idam) [stone](aśma) [neuter](napuṃsakam)
-
+vein-rich rough straight this stone neuter
 ## mukta-m0-p18-v449
-[remaining](śeṣāṇāṃ) [female-stones](strīśilāḥ) [declared](proktāḥ) [pedestal-etc](pīṭhikādyāḥ) [ca](ca) [of-śūlin](śūlinaḥ)
-
+of-rest female-stones stated pedestal-etc and trident-bearer
 ## mukta-m0-p18-v450
-[all-varṇa-natured](sarvavarṇātmake) [white](śvetāḥ) [remaining](śeṣāḥ) [ca](ca) [auspicious-giving](śubhadāḥ) [smṛtāḥ](smṛtāḥ)
+in-all-varnas white rest and auspicious-giving remembered
