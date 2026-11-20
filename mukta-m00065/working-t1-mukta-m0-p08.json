@@ -8,7 +8,7 @@
 "tokens": [
 {
 "surface": "etatsiddhaṃ",
-"quick_gloss": "that-accomplished"
+"quick_gloss": "this-accomplished"
 },
 {
 "surface": "sadā",
@@ -16,15 +16,11 @@
 },
 {
 "surface": "śaivaṃ",
-"quick_gloss": "Śaiva"
+"quick_gloss": "shaiva"
 },
 {
-"surface": "gururūpam",
-"quick_gloss": "guru-form"
-},
-{
-"surface": "ajanmakam",
-"quick_gloss": "unborn"
+"surface": "gururūpamajanmakam",
+"quick_gloss": "guru-form-unborn"
 }
 ]
 },
@@ -37,7 +33,7 @@
 "tokens": [
 {
 "surface": "śivāntanāmakāḥ",
-"quick_gloss": "Śiva-ending-names"
+"quick_gloss": "shiva-end-named"
 },
 {
 "surface": "sarve",
@@ -49,7 +45,7 @@
 },
 {
 "surface": "brahmacāriṇaḥ",
-"quick_gloss": "brahmacārins"
+"quick_gloss": "brahmacharins"
 }
 ]
 },
@@ -62,7 +58,7 @@
 "tokens": [
 {
 "surface": "viśeṣayātu",
-"quick_gloss": "let-it-distinguish"
+"quick_gloss": "distinguish"
 },
 {
 "surface": "sāmānyā",
@@ -70,7 +66,7 @@
 },
 {
 "surface": "gururapyevameva",
-"quick_gloss": "guru-too-thus-thus"
+"quick_gloss": "guru-also-thus-indeed"
 },
 {
 "surface": "tu",
@@ -95,15 +91,11 @@
 },
 {
 "surface": "yadvat",
-"quick_gloss": "as"
+"quick_gloss": "just-as"
 },
 {
-"surface": "tadvat",
-"quick_gloss": "so"
-},
-{
-"surface": "śaivā",
-"quick_gloss": "Śaiva"
+"surface": "tadvacchaivā",
+"quick_gloss": "so-shaiva"
 },
 {
 "surface": "na",
@@ -124,19 +116,19 @@
 "tokens": [
 {
 "surface": "tathaiva",
-"quick_gloss": "so-too"
+"quick_gloss": "likewise"
 },
 {
 "surface": "śivaliṅgānāṃ",
-"quick_gloss": "of-Śiva-liṅgas"
+"quick_gloss": "of-shiva-lingas"
 },
 {
 "surface": "śaivāḥ",
-"quick_gloss": "Śaivas"
+"quick_gloss": "shaivas"
 },
 {
 "surface": "pāśupatādayaḥ",
-"quick_gloss": "Pāśupatas-etc"
+"quick_gloss": "pashupatas-etc"
 }
 ]
 },
@@ -149,15 +141,15 @@
 "tokens": [
 {
 "surface": "liṅgabhedaphalairyukto",
-"quick_gloss": "by-liṅga-difference-fruits"
+"quick_gloss": "linga-difference-fruits-joined"
 },
 {
 "surface": "yātyasau",
-"quick_gloss": "goes"
+"quick_gloss": "goes-that"
 },
 {
 "surface": "rauravaṃ",
-"quick_gloss": "to-Raurava"
+"quick_gloss": "raurava"
 },
 {
 "surface": "dhruvam",
@@ -181,12 +173,16 @@
 "quick_gloss": "sin-doer"
 },
 {
-"surface": "syādityājñā",
+"surface": "syād",
 "quick_gloss": "would-be"
 },
 {
+"surface": "ityājñā",
+"quick_gloss": "thus-command"
+},
+{
 "surface": "pārameśvarī",
-"quick_gloss": "supreme-lordly"
+"quick_gloss": "parameshvari"
 }
 ]
 },
@@ -199,15 +195,15 @@
 "tokens": [
 {
 "surface": "brahmacārīgṛhasthatvabhedabhinnaṃ",
-"quick_gloss": "brahmacārī-householder-state-difference-divided"
+"quick_gloss": "brahmachari-householder-ness-difference-divided"
 },
 {
 "surface": "dvidhā",
-"quick_gloss": "in-two"
+"quick_gloss": "twofold"
 },
 {
 "surface": "sthitam",
-"quick_gloss": "established"
+"quick_gloss": "situated"
 }
 ]
 },
@@ -220,7 +216,7 @@
 "tokens": [
 {
 "surface": "kāmyakāmikriyāṃ",
-"quick_gloss": "desire-desired-rite"
+"quick_gloss": "desired-desire-action"
 },
 {
 "surface": "vacmi",
@@ -252,12 +248,16 @@
 "quick_gloss": "desirer"
 },
 {
-"surface": "kuryāddīkṣādimājñayā",
+"surface": "kuryāt",
 "quick_gloss": "should-do"
 },
 {
-"surface": "dīkṣādimājñayā",
-"quick_gloss": "initiation-etc-by-command"
+"surface": "dīkṣādim",
+"quick_gloss": "initiation-etc"
+},
+{
+"surface": "ājñayā",
+"quick_gloss": "by-command"
 }
 ]
 },
@@ -270,15 +270,15 @@
 "tokens": [
 {
 "surface": "pratiṣṭhādikriyāśeṣā",
-"quick_gloss": "consecration-etc-rites-remainder"
+"quick_gloss": "consecration-etc-actions-all"
 },
 {
 "surface": "tatkṛtā",
-"quick_gloss": "by-that-done"
+"quick_gloss": "that-done"
 },
 {
 "surface": "saṃpraśasyate",
-"quick_gloss": "well-praised"
+"quick_gloss": "praised"
 }
 ]
 },
@@ -290,20 +290,24 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "śivādhikāravṛttiryaḥ",
-"quick_gloss": "Śiva-authority-practice"
+"surface": "śivādhikāravṛttir",
+"quick_gloss": "shiva-authority-conduct"
+},
+{
+"surface": "yaḥ",
+"quick_gloss": "who"
 },
 {
 "surface": "sa",
 "quick_gloss": "he"
 },
 {
-"surface": "sāntānika",
-"quick_gloss": "Sāntānika"
+"surface": "sāntānikaḥ",
+"quick_gloss": "sāntānika"
 },
 {
 "surface": "ucyate",
-"quick_gloss": "is-called"
+"quick_gloss": "called"
 }
 ]
 },
@@ -315,12 +319,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "paścātkuryādvivāhaṃ",
+"surface": "paścāt",
 "quick_gloss": "afterwards"
 },
 {
-"surface": "kuryādvivāhaṃ",
-"quick_gloss": "should-do-marriage"
+"surface": "kuryāt",
+"quick_gloss": "should-do"
+},
+{
+"surface": "vivāhaṃ",
+"quick_gloss": "marriage"
 },
 {
 "surface": "ca",
@@ -336,7 +344,7 @@
 },
 {
 "surface": "vatārpakaḥ",
-"quick_gloss": "Vatārpaka"
+"quick_gloss": "vatārpaka"
 }
 ]
 },
@@ -349,11 +357,11 @@
 "tokens": [
 {
 "surface": "bhaikṣyāśī",
-"quick_gloss": "alms-eater"
+"quick_gloss": "alms-eating"
 },
 {
 "surface": "saṃyatātmā",
-"quick_gloss": "self-controlled"
+"quick_gloss": "restrained-self"
 },
 {
 "surface": "ca",
@@ -361,7 +369,7 @@
 },
 {
 "surface": "vratī",
-"quick_gloss": "vow-holder"
+"quick_gloss": "vow-keeper"
 },
 {
 "surface": "sa",
@@ -369,7 +377,7 @@
 },
 {
 "surface": "parikīrtitaḥ",
-"quick_gloss": "is-declared"
+"quick_gloss": "proclaimed"
 }
 ]
 },
@@ -381,8 +389,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "puṣpapātābhidhānaṃ",
-"quick_gloss": "flower-fall-named"
+"surface": "puṣpapātā",
+"quick_gloss": "flower-falling"
+},
+{
+"surface": "abhidhānaṃ",
+"quick_gloss": "named"
 },
 {
 "surface": "tu",
@@ -393,8 +405,12 @@
 "quick_gloss": "maṭhī"
 },
 {
-"surface": "mudrābhiriṣyate",
-"quick_gloss": "with-seals"
+"surface": "mudrābhiḥ",
+"quick_gloss": "seals"
+},
+{
+"surface": "iṣyate",
+"quick_gloss": "desired"
 }
 ]
 },
@@ -406,8 +422,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "sadvastramañjanaṃ",
-"quick_gloss": "good-cloth-ointment"
+"surface": "sadvastraṃ",
+"quick_gloss": "good-cloth"
+},
+{
+"surface": "añjanaṃ",
+"quick_gloss": "unguent"
 },
 {
 "surface": "tailaṃ",
@@ -444,19 +464,23 @@
 },
 {
 "surface": "vratinaṃ",
-"quick_gloss": "vow-holder"
+"quick_gloss": "vow-keeper"
 },
 {
 "surface": "caiva",
 "quick_gloss": "and-indeed"
 },
 {
-"surface": "varayenmatimānnaraḥ",
+"surface": "varayet",
 "quick_gloss": "should-choose"
 },
 {
-"surface": "matimānnaraḥ",
+"surface": "matimān",
 "quick_gloss": "wise-man"
+},
+{
+"surface": "naraḥ",
+"quick_gloss": "man"
 }
 ]
 },
@@ -476,7 +500,7 @@
 "quick_gloss": "substance-sharer"
 },
 {
-"surface": "syādvidyābhāk",
+"surface": "syāt",
 "quick_gloss": "would-be"
 },
 {
@@ -485,7 +509,7 @@
 },
 {
 "surface": "pāralaukikaḥ",
-"quick_gloss": "other-worldly"
+"quick_gloss": "otherworldly"
 }
 ]
 },
@@ -498,14 +522,14 @@
 "tokens": [
 {
 "surface": "bhrātṛṇaṃ",
-"quick_gloss": "of-brothers"
+"quick_gloss": "brother"
 },
 {
 "surface": "gurvabhāve",
-"quick_gloss": "in-guru-absence"
+"quick_gloss": "guru-absence"
 },
 {
-"surface": "syādgṛhasthānāṃ",
+"surface": "syāt",
 "quick_gloss": "would-be"
 },
 {
@@ -531,11 +555,11 @@
 },
 {
 "surface": "śivakāryeṣu",
-"quick_gloss": "for-Śiva-works"
+"quick_gloss": "for-shiva-works"
 },
 {
 "surface": "ghaṇṭāsambandhino",
-"quick_gloss": "bell-connected"
+"quick_gloss": "bell-related"
 },
 {
 "surface": "haret",
@@ -564,7 +588,7 @@
 },
 {
 "surface": "piṇḍe",
-"quick_gloss": "in-lump"
+"quick_gloss": "in-ball"
 },
 {
 "surface": "ca",
@@ -580,7 +604,7 @@
 },
 {
 "surface": "praśasyate",
-"quick_gloss": "is-praised"
+"quick_gloss": "praised"
 }
 ]
 },
@@ -593,7 +617,7 @@
 "tokens": [
 {
 "surface": "caturgocaramadhye",
-"quick_gloss": "in-four-cow-range"
+"quick_gloss": "among-four-cows"
 },
 {
 "surface": "ca",
@@ -601,11 +625,11 @@
 },
 {
 "surface": "śaivo",
-"quick_gloss": "Śaiva"
+"quick_gloss": "shaiva"
 },
 {
 "surface": "jyeṣṭhāyate",
-"quick_gloss": "is-eldest"
+"quick_gloss": "eldest"
 },
 {
 "surface": "param",
@@ -621,8 +645,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "śaivācāryastataḥ",
-"quick_gloss": "Śaiva-ācārya"
+"surface": "śaivācāryaḥ",
+"quick_gloss": "shaiva-teacher"
 },
 {
 "surface": "tataḥ",
@@ -633,7 +657,7 @@
 "quick_gloss": "best"
 },
 {
-"surface": "sthāpayetsarvadevatāḥ",
+"surface": "sthāpayet",
 "quick_gloss": "should-establish"
 },
 {
@@ -680,7 +704,7 @@
 "tokens": [
 {
 "surface": "tadabhāve",
-"quick_gloss": "in-his-absence"
+"quick_gloss": "in-its-absence"
 },
 {
 "surface": "tu",
@@ -692,7 +716,7 @@
 },
 {
 "surface": "svadevavratacāriṇaḥ",
-"quick_gloss": "own-deity-vow-practitioners"
+"quick_gloss": "own-deity-vow-keepers"
 }
 ]
 }

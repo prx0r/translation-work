@@ -11,34 +11,34 @@
 [kadaraḥ](kadarā) [śveta](śveta) [khadiraḥ](khadiraḥ) [śoka](śoka) [śākaṃ](śākaṃ) [ca](ca) [śṛṅgī](śṛṅgī) [nṛpa](nṛpa) [bhūti](bhūti) [dā](dā)
 
 ## mukta-m0-p16-v379
-[saralaḥ](saralaḥ) [panasaḥ](panaso) [bījaḥ](bīja) [iti](iti) [ete](ete) [vaiśya](vaiśya) [vṛddhi](vṛddhi) [dāḥ](dāḥ)
+[saralaḥ](saralaḥ) [panasaḥ](panasaḥ) [bījaḥ](bījaḥ) [iti](iti) [ete](ete) [vaiśya](vaiśya) [vṛddhi](vṛddhi) [dāḥ](dāḥ)
 
 ## mukta-m0-p16-v380
-[kāñcanāsana](kāñcanāsana) [lodhrāḥ](lodhrāḥ) [ca](ca) [sāla](sāla) [śūdrasya](śūdrasya) [puṣṭi](puṣṭi) [dāḥ](dāḥ)
+[kāñcana](kāñcana) [asana](asana) [lodhrāḥ](lodhrāḥ) [ca](ca) [sāla](sāla) [śūdrasya](śūdrasya) [puṣṭi](puṣṭi) [dāḥ](dāḥ)
 
 ## mukta-m0-p16-v381
-[subhūsthāḥ](subhūsthāḥ) [śobhanāḥ](śobhanā) [hṛdyāḥ](hṛdyā) [ārogyāḥ](ārogyā) [yauvana](yauvana) [udvahāḥ](udvahāḥ)
+[subhū](subhū) [sthāḥ](sthāḥ) [śobhanāḥ](śobhanāḥ) [hṛdyāḥ](hṛdyāḥ) [ārogyāḥ](ārogyāḥ) [yauvana](yauvana) [udvahāḥ](udvahāḥ)
 
 ## mukta-m0-p16-v382
-[sāra](sāra) [madhyāḥ](madhyā) [draḍhīyāṃsaḥ](draḍhīyāṃso) [na](na) [anya](anya) [kāryeṣu](kāryeṣu) [yojitāḥ](yojitāḥ)
+[sāra](sāra) [madhyāḥ](madhyāḥ) [draḍhīyāṃsaḥ](draḍhīyāṃsaḥ) [na](na) [anya](anya) [kāryeṣu](kāryeṣu) [yojitāḥ](yojitāḥ)
 
 ## mukta-m0-p16-v383
 [granthi](granthi) [tulya](tulya) [śirā](śirā) [yuktān](yuktān) [vṛddha](vṛddha) [bāla](bāla) [ātura](ātura) [tarūn](tarūn)
 
 ## mukta-m0-p16-v384
-[valmika](valmika) [utthān](utthān) [śmaśāna](śmaśāna) [utthān](utthān) [phala](phala) [ambhaḥ](ambhaḥ) [sevitān](sevitāṃs) [tyajet](tyajet)
+[valmika](valmika) [utthān](utthān) [śmaśāna](śmaśāna) [utthān](utthān) [phala](phala) [ambhaḥ](ambhaḥ) [sevitān](sevitān) [tyajet](tyajet)
 
 ## mukta-m0-p16-v385
 [khari](khari) [saṅgama](saṅgama) [deva](deva) [utthān](utthān) [tāpasa](tāpasa) [āśrama](āśrama) [jān](jān) [tyajet](tyajet)
 
 ## mukta-m0-p16-v386
-[acireṇa](acireṇa) [eva](eva) [kālena](kālena) [cālakaḥ](cālako) [na](na) [bhavet](bhaved) [asau](asau)
+[acireṇa](acireṇa) [eva](eva) [kālena](kālena) [cālakaḥ](cālakaḥ) [na](na) [bhavet](bhavet) [asau](asau)
 
 ## mukta-m0-p16-v387
-[deva](deva) [kārye](kārye) [na](na) [doṣaḥ](doṣaḥ) [syāt](syād) [iti](iti) [uktam](uktaṃ) [pārameśvare](pārameśvare)
+[deva](deva) [kārye](kārye) [na](na) [doṣaḥ](doṣaḥ) [syāt](syāt) [iti](iti) [uktam](uktam) [pārameśvare](pārameśvare)
 
 ## mukta-m0-p16-v388
-[śodhayet](śodhayed) [bhūmi](bhūmi) [bhāgaṃ](bhāgaṃ) [tu](tu) [catur](catur) [dikṣu](dikṣu) [samantataḥ](samantataḥ)
+[śodhayet](śodhayet) [bhūmi](bhūmi) [bhāgaṃ](bhāgaṃ) [tu](tu) [catur](catur) [dikṣu](dikṣu) [samantataḥ](samantataḥ)
 
 ## mukta-m0-p16-v389
 [tataḥ](tataḥ) [śilpi](śilpi) [pradhānāḥ](pradhānāḥ) [ca](ca) [sahāyāḥ](sahāyāḥ) [kusuma](kusuma) [ādibhiḥ](ādibhiḥ)
@@ -47,31 +47,31 @@
 [viparīta](viparīta) [tadā](tadā) [mantrī](mantrī) [dūrataḥ](dūrataḥ) [taṃ](taṃ) [vivarjayet](vivarjayet)
 
 ## mukta-m0-p16-v391
-[gomayena](gomayena) [tataḥ](tataḥ) [bhūmi](bhūmi) [lepayitvā](lepayitvā) [guruḥ](gurustadā) [tadā](tadā)
+[gomayena](gomayena) [tataḥ](tataḥ) [bhūmi](bhūmi) [lepayitvā](lepayitvā) [guruḥ](guruḥ) [tadā](tadā)
 
 ## mukta-m0-p16-v392
 [dhyātvā](dhyātvā) [devaṃ](devaṃ) [ca](ca) [vijñāpya](vijñāpya) [kṛtvā](kṛtvā) [arghyaṃ](arghyaṃ) [vicakṣaṇaḥ](vicakṣaṇaḥ)
 
 ## mukta-m0-p16-v393
-[astraṃ](astraṃ) [dhyātvā](dhyātvā) [yajet](yajen) [mantrī](mantrī) [varmaṇā](varmaṇā) [pariveṣṭayet](pariveṣṭayet)
+[astraṃ](astraṃ) [dhyātvā](dhyātvā) [yajet](yajet) [mantrī](mantrī) [varmaṇā](varmaṇā) [pariveṣṭayet](pariveṣṭayet)
 
 ## mukta-m0-p16-v394
-[śiva](śiva) [saṃpūjya](saṃpūjya) [vahni](vahni) [stha](stha) [nava](nava) [dyam](dyam) [ḍhaukayet](ḍhaukayet) [caruṃ](carum)
+[śiva](śiva) [saṃpūjya](saṃpūjya) [vahni](vahni) [stha](stha) [nava](nava) [adyaṃ](adyaṃ) [ḍhaukayet](ḍhaukayet) [caruṃ](caruṃ)
 
 ## mukta-m0-p16-v395
-[vijñāpya](vijñāpya) [karma](karma) [śastrāṇi](śastrāṇi) [pūjayet](pūjayet) [tarpayet](tarpayed) [api](api)
+[vijñāpya](vijñāpya) [karma](karma) [śastrāṇi](śastrāṇi) [pūjayet](pūjayet) [tarpayet](tarpayet) [api](api)
 
 ## mukta-m0-p16-v396
-[tataḥ](tataḥ) [vijñāpya](vijñāpya) [deveśa](deveśa) [kuryāt](kuryād) [ālaṃbhanaṃ](ālaṃbhanaṃ) [punaḥ](punaḥ)
+[tataḥ](tataḥ) [vijñāpya](vijñāpya) [deveśa](deveśa) [kuryāt](kuryāt) [ālaṃbhanaṃ](ālaṃbhanaṃ) [punaḥ](punaḥ)
 
 ## mukta-m0-p16-v397
 [tāḍanaṃ](tāḍanaṃ) [bhasmanā](bhasmanā) [astreṇa](astreṇa) [prokṣaṇaṃ](prokṣaṇaṃ) [śiva](śiva) [vāriṇā](vāriṇā)
 
 ## mukta-m0-p16-v398
-[vastraṃ](vastraṃ) [tri](tri) [sūtraṃ](sūtraṃ) [vṛkṣasya](vṛkṣasya) [śilāyāḥ](śilāyāś) [ca](ca) [kuśa](kuśa) [anvitam](anvitam)
+[vastraṃ](vastraṃ) [tri](tri) [sūtraṃ](sūtraṃ) [vṛkṣasya](vṛkṣasya) [śilāyāḥ](śilāyāḥ) [ca](ca) [kuśa](kuśa) [anvitam](anvitam)
 
 ## mukta-m0-p16-v399
 [saṃhita](saṃhita) [uktena](uktena) [mantreṇa](mantreṇa) [snāna](snāna) [vastra](vastra) [ādikaṃ](ādikaṃ) [bhavet](bhavet)
 
 ## mukta-m0-p16-v400
-[dadyāt](dadyād) [baliṃ](baliṃ) [ca](ca) [māṣaiḥ](māṣānnair) [āmiṣa](āmiṣa) [āsava](āsava) [saṃyutaiḥ](saṃyutaiḥ)
+[dadyāt](dadyāt) [baliṃ](baliṃ) [ca](ca) [māṣa](māṣa) [annaiḥ](annaiḥ) [āmiṣa](āmiṣa) [āsava](āsava) [saṃyutaiḥ](saṃyutaiḥ)
