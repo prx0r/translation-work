@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p29-v701
-much-what-here-said two-mind-wind
+[what](kim) [here](iha) [said](uktam) [by-much](bahunā) [two](dvau) [mind](mānasa) [winds](samīraṇau)
 
 ## mukta-m0-p29-v702
-their-union I-will-speak attentive listen dear
+[their](tayoḥ) [union](saṃyojanaṃ) [i-will-speak](vakṣye) [attentive](sāvadhānā) [listen](śruṇu) [beloved](priye)
 
 ## mukta-m0-p29-v703
-sixty-four indeed measures fill wind-lord
+[with-sixty-four](catuḥṣaṣṭyā) [indeed](tu) [measures](mātrāṇāṃ) [fill](pūrayet) [lord-of-wind](māruteśvaram)
 
 ## mukta-m0-p29-v704
-five-light-syllable-utterance time-measure thus called
+[five-light-syllable](paṃcalaghvakṣara) [utterance](uccāra) [time](kālaḥ) [measure](mātrā) [thus](iti) [is-called](kathyate)
 
 ## mukta-m0-p29-v705
-inhalation retention-and-also exhalation-and great-lady
+[inhalation](pūrakaḥ) [retention](kuṃbhakaḥ) [also](ca) [exhalation](recakaḥ) [ca](ca) [great-goddess](maheśvari)
 
 ## mukta-m0-p29-v706
-kakola-face-and-also wind-filling auspicious-born
+[crow-faced](kākolaka-mukhaḥ) [ca](ca) [vā](vā) [wind-filling](vāyupūraṇa) [blessed](bhadajāḥ)
 
 ## mukta-m0-p29-v707
-proper proper and grasp god perfection-obtain
+[fit](yuktaṃ) [fit](yuktaṃ) [ca](ca) [grasp](gṛhṇīyā) [god](devaṃ) [attain](avāpnuyāt) [perfection](siddhim)
 
 ## mukta-m0-p29-v708
-slowly again release be since wind victory-become
+[slowly](śanaiḥ) [again](punar) [release](mokṣaṇaṃ) [syāt](syāt) [yataḥ](yataḥ) [wind](vāyu) [victory](jayo) [bhavet](bhavet)
 
 ## mukta-m0-p29-v709
-all pervades and body pleasure-causing subdued
+[all](sarvaṃ) [pervades](vyāpnoti) [ca](ca) [body](vapuḥ) [pleasure-causing](sukhakārī) [subdued](vaśīkṛtaḥ)
 
 ## mukta-m0-p29-v710
-all-indeed-means wind-holding-action
+[in-all](sarveṣu) [api](api) [means](upāyeṣu) [wind-control](maruddhāraṇa) [action](karmaṇaḥ)
 
 ## mukta-m0-p29-v711
-door-vision wakefulness-reflection-and-also running
+[door-vision](dvāradṛṣṭiḥ) [wakefulness](jāgarīka) [reflection](vimarśaḥ) [ca](ca) [api](api) [running](dhāvanam)
 
 ## mukta-m0-p29-v712
-spy-vision when do then wind victory-become
+[door-vision](cāradṛṣṭiṃ) [when](yadā) [does](kuryāt) [then](tadā) [wind](vāyu) [victory](jayo) [bhavet](bhavet)
 
 ## mukta-m0-p29-v713
-then-thief-ness abandoning wind friendship-desires
+[then](tadā) [thievishness](coratvam) [abandoning](ujjhitvā) [wind](pavanaḥ) [friendship](sakhyam) [seeks](īhate)
 
 ## mukta-m0-p29-v714
-householder becomes life-this householder-consciousness-limb
+[householder](gṛho) [becomes](bhavati) [living-being](jīvaḥ) [ayaṃ](ayaṃ) [householder](gṛhamedhī) [consciousness](cidaṃganaḥ)
 
 ## mukta-m0-p29-v715
-cause-end desires wind hidden thief
+[cause](hetu) [end](antaṃ) [seeks](īhate) [wind](vāyuḥ) [hidden](mitvatva) [thief](taskaraḥ)
 
 ## mukta-m0-p29-v716
-hole striker-steal then life-wealth desires
+[hole](raṃdhra) [striker](prahārī) [to-steal](hartuṃ) [then](tadā) [life](āyuḥ) [wealth](vittaṃ) [seeks](samīhate)
 
 ## mukta-m0-p29-v717
-real indeed becomes friendship yogis mind-wind
+[real](tātvikī) [tu](tu) [becomes](bhaven) [friendship](maitrī) [of-yogins](yogināṃ) [mind](dhī) [wind](samīrayoḥ)
 
 ## mukta-m0-p29-v718
-therefore thief wind to-be-protected diligently
+[therefore](ataḥ) [thief](coraḥ) [wind](samīroyaḥ) [to-be-guarded](pratipālya) [carefully](prayatnataḥ)
 
 ## mukta-m0-p29-v719
-protects indeed body-house by-deceit wind-thief
+[protects](rakṣati) [va](va) [body](vapuḥ) [house](gehaṃ) [by-deceit](kāpaṭyāt) [wind-thief](vāyutaskaraḥ)
 
 ## mukta-m0-p29-v720
-mind negligence seeing sometimes plunders day
+[mind](manaḥ) [negligence](pramādam) [seeing](ālokya) [sometimes](kadācit) [plunders](luṃṭate) [day](dinam)
 
 ## mukta-m0-p29-v721
-therefore nature thief indeed root-cuts
+[therefore](ataḥ) [nature](prakṛti) [thief](coraḥ) [tu](tu) [root](samūlaṃ) [cuts](avakṛṃtati)
 
 ## mukta-m0-p29-v722
-inside nature thief indeed nature-action-deserves
+[inner](antaḥ) [nature](prakṛti) [thief](coraḥ) [tu](tu) [nature-action](prakṛtīkāraṃ) [deserves](arhati)
 
 ## mukta-m0-p29-v723
-not-to-be-released he diligently or looking-other-going
+[not-to-be-released](amoktavyaḥ) [he](sa) [carefully](yatnāt) [vā](vā) [api](api) [pekṣya](pekṣya) [eva](eva) [other-goal](parāṃgatim)
 
 ## mukta-m0-p29-v724
-he thief also to-be-held observing step-by-step
+[he](satu) [thief](coraḥ) [api](api) [to-be-held](dharttavyaḥ) [observing](samavekṣya) [step](pade) [step](pade)
 
 ## mukta-m0-p29-v725
-without-observing outside-goes then thief wishes-to-steal
+[without-observing](anavekṣya) [outward](bahiryāti) [then](tadā) [thief](coraḥ) [wishes-to-steal](jihīrṣati)

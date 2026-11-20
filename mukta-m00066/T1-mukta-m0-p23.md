@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p23-v551
-[t1-pada](ānaṃdataṃtre) [t1-pada](caivāsmin) [t1-pada](catvāraḥ) [t1-pada](paramīritāḥ)
+[ānanda-tantra](ānaṃdataṃtre) [ca-eva-asmin](caivāsmin) [catvāraḥ](catvāraḥ) [param-īritāḥ](paramīritāḥ)
 
 ## mukta-m0-p23-v552
-[t1-pada](tasmāccatvāra) [t1-pada](ullāsā) [t1-pada](iha) [t1-pada](proktā) [t1-pada](maheśvari)
+[tasmāt](tasmāt) [catvāraḥ](catvāraḥ) [ullāsāḥ](ullāsā) [iha](iha) [proktāḥ](proktā) [maheśvari](maheśvari)
 
 ## mukta-m0-p23-v553
-[t1-pada](tasmādānaṃda) [t1-pada](pūjāyā) [t1-pada](mālaṃvyaṃte) [t1-pada](tu) [t1-pada](na) [t1-pada](trayaḥ)
+[tasmāt](tasmāt) [ānanda-pūjāyāḥ](ānaṃdapūjāyā) [mālaṃ-vyante](mālaṃvyaṃte) [tu](tu) [na](na) [trayaḥ](trayaḥ)
 
 ## mukta-m0-p23-v554
-[t1-pada](tathā) [t1-pada](tathā) [t1-pada](parānaṃda) [t1-pada](nāthavidyāṃ) [t1-pada](parāmṛśet)
+[tathā-tathā](tathātathā) [parānanda](parānaṃda) [nātha-vidyām](nāthavidyāṃ) [parāmṛśet](parāmṛśet)
 
 ## mukta-m0-p23-v555
-[t1-pada](dūtyā) [t1-pada](saṃdhukṣita) [t1-pada](svātmā) [t1-pada](naṃdamūrttiṃ) [t1-pada](guruṃ) [t1-pada](smaret)
+[dūtyā](dūtyā) [saṃdhukṣita](saṃdhukṣita) [sva-ātmā](svātmā) [ānanda-mūrtim](naṃdamūrttiṃ) [gurum](guruṃ) [smaret](smaret)
 
 ## mukta-m0-p23-v556
-[t1-pada](dvādaśāṃtagate) [t1-pada](raktaśuklapāde) [t1-pada](vinikṣipet)
+[dvādaśa-ante](dvādaśāṃtagate) [rakta-śukla-pāde](raktaśuklapāde) [vinikṣipet](vinikṣipet)
 
 ## mukta-m0-p23-v557
-[t1-pada](śivatvasāmrājya) [t1-pada](padābhiṣiktaṃ) [t1-pada](svaṃviciṃtayet)
+[śiva-tva-sāmrājya](śivatvasāmrājya) [pada-abhiṣiktam](padābhiṣiktaṃ) [svam](svaṃ) [viciṃtayet](viciṃtayet)
 
 ## mukta-m0-p23-v558
-[t1-pada](paśyan) [t1-pada](pratyaṃgamaṃkūradanaṃ) [t1-pada](gottuṃgamānasaḥ)
+[paśyan](paśyan) [pratyaṅga-maṅkūra-danam](pratyaṃgamaṃkūradanaṃ) [gottuṅga-mānasaḥ](gottuṃgamānasaḥ)
 
 ## mukta-m0-p23-v559
-[t1-pada](yathā) [t1-pada](yauvanamullāsaṃ) [t1-pada](saṃprāpnotyaṃba) [t1-pada](dūtikā)
+[yathā](yathā) [yauvanam-ullāsam](yauvanamullāsaṃ) [saṃprāpnoti](saṃprāpnoti) [amba](amba) [dūtikā](dūtikā)
 
 ## mukta-m0-p23-v560
-[t1-pada](ālokaneratiḥ) [t1-pada](sākṣāt) [t1-pada](smite) [t1-pada](jāgarti) [t1-pada](jāhnavī)
+[ālokane-ratiḥ](ālokaneratiḥ) [sākṣāt](sākṣāt) [smite](smite) [jāgarti](jāgarti) [jāhnavī](jāhnavī)
 
 ## mukta-m0-p23-v561
-[t1-pada](aśvinau) [t1-pada](nāsikābhāge) [t1-pada](tvoṣṭhe) [t1-pada](ca) [t1-pada](paramāmṛtam)
+[aśvinau](aśvinau) [nāsikā-bhāge](nāsikābhāge) [tu](tvoṣṭhe) [oṣṭhe](oṣṭhe) [ca](ca) [parama-amṛtam](paramāmṛtam)
 
 ## mukta-m0-p23-v562
-[t1-pada](svede) [t1-pada](ca) [t1-pada](vāruṇī) [t1-pada](devī) [t1-pada](kāmanāthastvahaṃ) [t1-pada](kṛtau)
+[svede](svede) [ca](ca) [vāruṇī-devī](vāruṇīdevī) [kāma-nāthaḥ](kāmanāthaḥ) [tu](tvahaṃ) [ahaṃ](ahaṃ) [kṛtau](kṛtau)
 
 ## mukta-m0-p23-v563
-[t1-pada](stanadvaye) [t1-pada](merugirirnniḥ) [t1-pada](śabdaṃ) [t1-pada](brahmamadhyame)
+[stana-dvaye](stanadvaye) [meru-giriḥ](merugirirnniḥ) [śabdam](śabdaṃ) [brahma-madhyame](brahmamadhyame)
 
 ## mukta-m0-p23-v564
-[t1-pada](valitraye) [t1-pada](ca) [t1-pada](trailokyaṃ) [t1-pada](nābhigarbhe) [t1-pada](guhāṃbikā)
+[vali-traye](valitraye) [ca](ca) [trailokyam](trailokyaṃ) [nābhi-garbhe](nābhigarbhe) [guhā-ambikā](guhāṃbikā)
 
 ## mukta-m0-p23-v565
-[t1-pada](nakheṣu) [t1-pada](śītāṃ) [t1-pada](śu) [t1-pada](kalādormmūleṃkuśadevatāḥ)
+[nakheṣu](nakheṣu) [śītām](śītāṃ) [śu-kalā](śukalā) [dor-mūle](dormmūleṃ) [kuśa-devatāḥ](kuśadevatāḥ)
 
 ## mukta-m0-p23-v566
-[t1-pada](kāverī) [t1-pada](caiva) [t1-pada](niśvāse) [t1-pada](godāsītkāra) [t1-pada](karmaṇi)
+[kāverī](kāverī) [ca-eva](caiva) [niśvāse](niśvāse) [godāsīt](godāsīt) [kāra-karmaṇi](kārakarmaṇi)
 
 ## mukta-m0-p23-v567
-[t1-pada](amalālāpakṛtyeṣu) [t1-pada](cittaviśrāṃti) [t1-pada](nāyakā)
+[amalālāpa-kṛtyeṣu](amalālāpakṛtyeṣu) [citta-viśrānti](cittaviśrāṃti) [nāyakā](nāyakā)
 
 ## mukta-m0-p23-v568
-[t1-pada](vākptiḥ) [t1-pada](sukhahuṃkāre) [t1-pada](gīṣpatīkākukādhvanau)
+[vākptiḥ](vākptiḥ) [sukha-huṃkāre](sukhahuṃkāre) [gīṣpatī](gīṣpatī) [kāku-kādhvanau](kākukādhvanau)
 
 ## mukta-m0-p23-v569
-[t1-pada](iṃdraścittasamunnatyāmagnirvastu) [t1-pada](grasītviṣi)
+[iṃdraḥ](iṃdraścittasamunnatyāmagnirvastu) [citta-samunnatyām](cittasamunnatyām) [agniḥ](agnirvastu) [vastu](vastu) [grasītviṣi](grasītviṣi)
 
 ## mukta-m0-p23-v570
-[t1-pada](hastādicālane) [t1-pada](yajñastvāśleṣe) [t1-pada](yajñapūruṣaḥ)
+[hastādi-cālane](hastādicālane) [yajñaḥ](yajñastvāśleṣe) [tu](tu) [āśleṣe](āśleṣe) [yajña-pūruṣaḥ](yajñapūruṣaḥ)
 
 ## mukta-m0-p23-v571
-[t1-pada](lāsyaṃ) [t1-pada](ca) [t1-pada](tāṃḍavaṃ) [t1-pada](devi) [t1-pada](tasyā) [t1-pada](dehādi) [t1-pada](ghūrṇane)
+[lāsyaṃ](lāsyaṃ) [ca](ca) [tāṃḍavaṃ](tāṃḍavaṃ) [devi](devi) [tasyāḥ](tasyā) [deha-ādi](dehādi) [ghūrṇane](ghūrṇane)
 
 ## mukta-m0-p23-v572
-[t1-pada](tānisarvāṇi) [t1-pada](varttate) [t1-pada](tasyāgaṃḍūṣavastuni)
+[tāni](tānisarvāṇi) [sarvāṇi](sarvāṇi) [varttate](varttate) [tasyāḥ](tasyāgaṃḍūṣavastuni) [gaṃḍūṣa-vastuni](gaṃḍūṣavastuni)
 
 ## mukta-m0-p23-v573
-[t1-pada](tatphalaṃ) [t1-pada](labhate) [t1-pada](dūtī) [t1-pada](sudhāgaṃḍūṣa) [t1-pada](sevanāt)
+[tat-phalam](tatphalaṃ) [labhate](labhate) [dūtī](dūtī) [sudhā-gaṃḍūṣa-sevanāt](sudhāgaṃḍūṣasevanāt)
 
 ## mukta-m0-p23-v574
-[t1-pada](gaṃḍūṣamādiraṃ) [t1-pada](devī) [t1-pada](vīrasyānaṃda) [t1-pada](varddhanam)
+[gaṃḍūṣam-ādiram](gaṃḍūṣamādiraṃ) [devī](devī) [vīrasya-ānanda-varddhanam](vīrasyānaṃdavarddhanam)
 
 ## mukta-m0-p23-v575
-[t1-pada](nityaklinnāsudhā) [t1-pada](devī) [t1-pada](rati) [t1-pada](prītiśca) [t1-pada](tadbhage)
+[nitya-klinnā-sudhā-devī](nityaklinnāsudhādevī) [rati](rati) [prītiḥ](prītiśca) [ca](ca) [tat-bhage](tadbhage)
