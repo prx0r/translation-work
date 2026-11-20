@@ -8,7 +8,7 @@
 "tokens": [
 {
 "surface": "tatrāpi",
-"quick_gloss": "there-also"
+"quick_gloss": "there"
 },
 {
 "surface": "hetavaḥ",
@@ -23,7 +23,7 @@
 "quick_gloss": "more"
 },
 {
-"surface": "yuktayaḥ",
+"surface": "uktayaḥ",
 "quick_gloss": "arguments"
 },
 {
@@ -57,7 +57,7 @@
 },
 {
 "surface": "tayoḥ",
-"quick_gloss": "of-those-two"
+"quick_gloss": "of-those"
 },
 {
 "surface": "ālokanāt",
@@ -65,7 +65,7 @@
 },
 {
 "surface": "anṛṇām",
-"quick_gloss": "not-indebted"
+"quick_gloss": "of-non-debtors"
 }
 ]
 },
@@ -89,12 +89,16 @@
 "quick_gloss": "by-you"
 },
 {
+"surface": "eva",
+"quick_gloss": "indeed"
+},
+{
 "surface": "devi",
 "quick_gloss": "goddess"
 },
 {
 "surface": "samyak",
-"quick_gloss": "properly"
+"quick_gloss": "well"
 },
 {
 "surface": "tat",
@@ -126,7 +130,7 @@
 "quick_gloss": "intellect-play"
 },
 {
-"surface": "vaikharī",
+"surface": "vaikhari",
 "quick_gloss": "speech-power"
 },
 {
@@ -155,8 +159,12 @@
 "quick_gloss": "by-doubt"
 },
 {
-"surface": "narajātyekavāsinā",
-"quick_gloss": "human-born-single-dwelling"
+"surface": "narajāti",
+"quick_gloss": "human-born"
+},
+{
+"surface": "ekavāsinā",
+"quick_gloss": "single-dweller"
 }
 ]
 },
@@ -173,7 +181,7 @@
 },
 {
 "surface": "tu",
-"quick_gloss": "but"
+"quick_gloss": "indeed"
 },
 {
 "surface": "darśanānāṃ",
@@ -185,7 +193,7 @@
 },
 {
 "surface": "vedaḥ",
-"quick_gloss": "knows"
+"quick_gloss": "veda"
 },
 {
 "surface": "prathamadarśanam",
@@ -235,7 +243,7 @@
 },
 {
 "surface": "tu",
-"quick_gloss": "but"
+"quick_gloss": "indeed"
 },
 {
 "surface": "viśrāṃti",
@@ -255,7 +263,7 @@
 },
 {
 "surface": "vādavartmanaḥ",
-"quick_gloss": "dispute-path"
+"quick_gloss": "path-of-dispute"
 }
 ]
 },
@@ -300,7 +308,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "arthāśāstraṃ",
+"surface": "arthaśāstraṃ",
 "quick_gloss": "political-science"
 },
 {
@@ -313,7 +321,7 @@
 },
 {
 "surface": "tābhyāṃ",
-"quick_gloss": "from-those-two"
+"quick_gloss": "from-them"
 },
 {
 "surface": "śāstrasamudgamaḥ",
@@ -345,12 +353,8 @@
 "quick_gloss": "cause"
 },
 {
-"surface": "tu",
-"quick_gloss": "but"
-},
-{
-"surface": "idam",
-"quick_gloss": "this"
+"surface": "tvidam",
+"quick_gloss": "indeed-this"
 }
 ]
 },
@@ -378,12 +382,12 @@
 "quick_gloss": "threefold"
 },
 {
-"surface": "ayam",
+"surface": "ayaṃ",
 "quick_gloss": "this"
 },
 {
 "surface": "pramākramaḥ",
-"quick_gloss": "knowledge-order"
+"quick_gloss": "means-of-knowledge-order"
 }
 ]
 },
@@ -416,7 +420,7 @@
 },
 {
 "surface": "jaguḥ",
-"quick_gloss": "declared"
+"quick_gloss": "said"
 }
 ]
 },
@@ -428,12 +432,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "nyāyaika",
-"quick_gloss": "nyaya-one-part"
-},
-{
-"surface": "deśinaḥ",
-"quick_gloss": "holders"
+"surface": "nyāyaika+deśinaḥ",
+"quick_gloss": "nyaya-partialists"
 },
 {
 "surface": "ca",
@@ -449,7 +449,7 @@
 },
 {
 "surface": "samudīritāḥ",
-"quick_gloss": "expounded"
+"quick_gloss": "declared"
 }
 ]
 },
@@ -462,7 +462,7 @@
 "tokens": [
 {
 "surface": "arthāpatyā",
-"quick_gloss": "by-presumption"
+"quick_gloss": "by-inference"
 },
 {
 "surface": "sahaitāni",
@@ -494,12 +494,12 @@
 "quick_gloss": "possibility"
 },
 {
-"surface": "aitīha",
+"surface": "etīha",
 "quick_gloss": "here"
 },
 {
 "surface": "yuktaiḥ",
-"quick_gloss": "by-reasoning"
+"quick_gloss": "with-reasonable"
 },
 {
 "surface": "taiḥ",
@@ -540,7 +540,7 @@
 },
 {
 "surface": "anyonyaṃ",
-"quick_gloss": "one-another"
+"quick_gloss": "each-other"
 },
 {
 "surface": "vādinaḥ",
@@ -548,7 +548,7 @@
 },
 {
 "surface": "yuktapaṇḍitāḥ",
-"quick_gloss": "reasoning-scholars"
+"quick_gloss": "reasoned-scholars"
 }
 ]
 },
@@ -573,7 +573,7 @@
 },
 {
 "surface": "yasya",
-"quick_gloss": "of-whom"
+"quick_gloss": "yasya"
 },
 {
 "surface": "svalpaparigrahaḥ",
@@ -717,8 +717,12 @@
 "quick_gloss": "of-superimposition"
 },
 {
-"surface": "svarūpantu",
+"surface": "svarūpaṃ",
 "quick_gloss": "nature"
+},
+{
+"surface": "tu",
+"quick_gloss": "indeed"
 },
 {
 "surface": "kathayāmi",
@@ -779,8 +783,12 @@
 "quick_gloss": "earth"
 },
 {
-"surface": "mṛttikaiva",
+"surface": "mṛttika",
 "quick_gloss": "clay"
+},
+{
+"surface": "eva",
+"quick_gloss": "indeed"
 },
 {
 "surface": "kuṃbhakṛt",
