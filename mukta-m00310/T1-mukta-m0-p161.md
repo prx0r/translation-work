@@ -26,13 +26,13 @@
 [rasa-gambhīra-sarasī-padminī](rasagambhīrasarasīpadminī) [rasa-sāra-sā](rasasārasā)
 
 ## mukta-m0-p161-v4009
-[naṭarāja-priyā](naṭarājapriyā) [viśva-nāṭyā](viśvanāṭyā) [nartaka-nartakī](nartakanartakī)
+[naṭa-rāja-priyā](naṭarājapriyā) [viśva-nāṭyā](viśvanāṭyā) [nartaka-nartakī](nartakanartakī)
 
 ## mukta-m0-p161-v4010
-[kūṭa-āraka-kūṭā](kūṭārakūṭā) [kūṭa-sthā](kūṭasthā) [pañca-kūṭā](pañcakūṭā) [ca](ca) [pañcamī](pañcamī)
+[kūṭa-ara-kūṭā](kūṭārakūṭā) [kūṭa-sthā](kūṭasthā) [pañca-kūṭā](pañcakūṭā) [ca](ca) [pañcamī](pañcamī)
 
 ## mukta-m0-p161-v4011
-[kūṭa-ṣoḍaśa-saṃpannā](kūṭaṣoḍaśasaṃpannā) [turīyā](turīyā) [paramā-kalā](paramākalā)
+[kūṭa-ṣoḍaśa-saṃpannā](kūṭaṣoḍaśasaṃpannā) [turīyā](turīyā) [parama-akalā](paramākalā)
 
 ## mukta-m0-p161-v4012
 [ṣoḍaśa-arṇā](ṣoḍaśārṇā) [tri-varṇā](trivarṇā) [ca](ca) [bindu-nāda-svarūpiṇī](bindunādasvarūpiṇī)
@@ -41,7 +41,7 @@
 [caitanya-vallī](caitanyavallī) [kūṭa-ātmā](kūṭātmā) [kāmeśī](kāmeśī) [svapna-dṛśya-gā](svapnadṛśyagā)
 
 ## mukta-m0-p161-v4014
-[svapna-āśrayā](svapnāśrayā) [suṣuptiḥ](suṣuptiśca) [ca](ca) [tandrā-muktā](tandrāmuktā) [ca](ca) [mādhavī](mādhavī)
+[svapna-āśrayā](svapnāśrayā) [suṣuptiḥ](suṣuptiḥ) [ca](ca) [tandrā-muktā](tandrāmuktā) [ca](ca) [mādhavī](mādhavī)
 
 ## mukta-m0-p161-v4015
 [śākambharī](śākambharī) [nandi-vidyā](nandividyā) [bhāsvat-vidyota-mālinī](bhāsvadvidyotamālinī)
@@ -50,22 +50,22 @@
 [sādhaka-indra-gatiḥ](sādhakendragatiḥ) [sādhvī](sādhvī) [su-labhā](sulabhā) [siddhi-kandarā](siddhikandarā)
 
 ## mukta-m0-p161-v4017
-[puṣṭiḥ](puṣṭirvighnaharī) [vighna-harī](vighnaharī) [bhūtiḥ](bhūtirviguṇā) [viguṇā](viguṇā) [pūjya-kāma-dhuk](pūjyakāmadhuk)
+[puṣṭiḥ](puṣṭiḥ) [vighna-harī](vighnaharī) [bhūtiḥ](bhūtiḥ) [vi-guṇā](viguṇā) [pūjya-kāma-dhuk](pūjyakāmadhuk)
 
 ## mukta-m0-p161-v4018
 [sarva-sīmantinī](sarvasīmantinī) [mokṣā](mokṣā) [dīkṣā](dīkṣā) [dīkṣita-mātṛkā](dīkṣitamātṛkā)
 
 ## mukta-m0-p161-v4019
-[yauvana-unmādinī](yauvanonmādinī) [tuṅgā](tuṅgā) [su-śroṇiḥ](suśroṇirmadamantharā) [madana-mantharā](madamantharā)
+[yauvana-unmādinī](yauvanonmādinī) [tuṅgā](tuṅgā) [su-śroṇiḥ](suśroṇiḥ) [madana-mantharā](madamantharā)
 
 ## mukta-m0-p161-v4020
-[rakta-mālā-ruciḥ](raktamālāruciḥ) [śikhā-śikhaṇḍinī](śikāśikhaṇḍinyatisundarī) [ati-sundarī](atisundarī)
+[rakta-mālā-ruciḥ](raktamālāruciḥ) [śikā-śikhaṇḍinī](śikāśikhaṇḍinī) [ati-sundarī](atisundarī)
 
 ## mukta-m0-p161-v4021
 [surabhī](surabhī) [kāma-dā](kāmadā) [kāmyā](kāmyā) [kamanīya-artha-kāma-dā](kamanīyārthakāmadā)
 
 ## mukta-m0-p161-v4022
-[goloka-devī](golokadevī) [loka-śrīḥ](lokaśrīrgolokaparipālikā) [goloka-paripālikā](golokaparipālikā)
+[goloka-devī](golokadevī) [loka-śrīḥ](lokaśrīḥ) [goloka-paripālikā](golokaparipālikā)
 
 ## mukta-m0-p161-v4023
 [rudra-patnī](rudrapatnī) [bhadra-mātā](bhadramātā) [sudhā-dhārā-ambu-vikṣatiḥ](sudhādhārā'mbuvikṣatiḥ)
