@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p71-v1751
-page(p. 217) past-present-future-knowing(bhūta+bhāvi+vibhāvinī)
+[being](bhūta)+[becoming](bhāvi)+[manifesting](vibhāvinī)
 
 ## mukta-m0-p71-v1752
-other(ato) +nyaḥ(anyaḥ) who(kaḥ) always(sadā) beginning-end(beginning+end) you(tvāṃ) to-manifest(vibhāvayituṃ) able(kṣamaḥ)
+[therefore](ato)+[other](anyaḥ) [who](kaḥ) [always-beginning-end](sadādyantastvāṃ) [to-manifest](vibhāvayituṃ) [able](kṣamaḥ)
 
 ## mukta-m0-p71-v1753
-auspicious(maṅgalā)
+[auspicious](maṅgalā)
 
 ## mukta-m0-p71-v1754
-she(sā) auspicious(maṅgalā) be(astu) his(asya) always(sadā) companion(sahāyā)
+[she](sā) [auspicious](maṅgalāḥ) [of-him](tvasya) [always](sadā) [companion](sahāyā)
 
 ## mukta-m0-p71-v1755
-good-character(suśīlā)
+[good-character](suśīlā)
 
 ## mukta-m0-p71-v1756
-yourself(svayaṃ) good-character(suśīlā) if(yadi) not(na) would-be(abhaviṣyaḥ)
+[oneself](svayaṃ) [good-character](suśīlā) [if](yadi) [not-would-be](nābhaviṣyaḥ)
 
 ## mukta-m0-p71-v1757
-supreme-meaning(paramārtha) awakening(prabodhikā)
+[supreme-truth-awakening](paramārthaprabodhikā)
 
 ## mukta-m0-p71-v1758
-by-attainment(yadāptyā) wandering(bhrāmaka) other(anyān) harms(arthāñ) I-know(jānāmi) like-grass(śaṣpavat)
+[by-attainment](yadāptyā) [wandering-other-harms](bhrāmakānanyānarthāñ) [I-know](jānāmi) [like-grass](śaṣpavat)
 
 ## mukta-m0-p71-v1759
-right-handed(dakṣiṇā)
+[right](dakṣiṇā)
 
 ## mukta-m0-p71-v1760
-therefore(yataḥ) from-that(tataḥ) by-wise(tataprajñaiḥ) right-handed(dakṣiṇā) thus(iti) proclaimed(prakīrtyase)
+[from-there](yatastataḥ)+[by-wise](tataprajñair) [right-thus](dakṣiṇeti) [are-praised](prakīrtyase)
 
 ## mukta-m0-p71-v1761
-page(p. 218) right-handed-form(dakṣiṇāmūrtiḥ)
+[right-form](dakṣiṇāmūrtiḥ)
 
 ## mukta-m0-p71-v1762
-she(sā) right-handed-form(dakṣiṇāmūrtiḥ) thus(iti) famous(prasiddhā)
+[she](sā) [right-form](dakṣiṇāmūrtiḥ) [thus](iti) [famous](prasiddhā)
 
 ## mukta-m0-p71-v1763
-very-right-handed(sudakṣiṇā)
+[very-right](sudakṣiṇā)
 
 ## mukta-m0-p71-v1764
-truly(satyaṃ) then(tataḥ) goddess(devi) very-right-handed(sudakṣiṇā) you(asi)
+[truth](satyaṃ) [then](tato) [goddess](devi) [very-right](sudakṣiṇāsi)
 
 ## mukta-m0-p71-v1765
-hari-beloved(haripriyā)
+[Hari-beloved](haripriyā)
 
 ## mukta-m0-p71-v1766
-hari(śauriḥ) by-mercy(yaddayayā) goddess(devī) proclaimed(kīrtitā) she(sā) hari-beloved(haripriyā)
+[Śauri](śauriḥ)+[by-compassion](yaddayayā) [goddess](devī) [praised](kīrtitā) [she](sā) [Hari-beloved](haripriyā)
 
 ## mukta-m0-p71-v1767
-yoginī(yoginī)
+[yogini](yoginī)
 
 ## mukta-m0-p71-v1768
-disease-sorrow-removed(rogashoka+vinivartitāśayā) yoginī(yoginī) auspicious-yoga-giving(subhagayogadā) be(astu) she(sā)
+[disease-sorrow-removed-mind](rogaśokavinivartitāśayā) [yogini](yoginī) [auspicious-yoga-giving](subhagayogadāstu) [she](sā)
 
 ## mukta-m0-p71-v1769
-yoga-united(yogayuktā)
+[yoga-united](yogayuktā)
 
 ## mukta-m0-p71-v1770
-consciousness-bliss(cidānanda) indeed(eva) because(yat) always(nityaṃ) yoga-united(yogayuktā) therefore(tataḥ) by-herself(svataḥ)
+[consciousness-bliss-only](cidānandaiva) [because](yannityaṃ) [yoga-united](yogayuktā) [therefore](tataḥ) [by-self](svataḥ)
 
 ## mukta-m0-p71-v1771
-page(p. 219) yoga-limb(yogāṅga)
+[yoga-limb](yogāṅgā)
 
 ## mukta-m0-p71-v1772
-of-afflicted(āpannānām) calamity-end(āpadanta) sole-cause(ekahetuḥ) yoga-limb(yogāṅgeyaṃ) proclaimed(kīrtitā) by-yoga-lords(yogināthaiḥ)
+[of-afflicted](āpannānām)+[calamity-end-single-cause](āpadantaikahetuḥ)+[yoga-limb-this](yogāṅgeyaṃ) [praised](kīrtitā) [by-yoga-lords](yogināthaiḥ)
 
 ## mukta-m0-p71-v1773
-meditation-possessing(dhyānaśālinī)
+[meditation-possessing](dhyānaśālinī)
 
 ## mukta-m0-p71-v1774
-all-meditation-worthy(sarvadhyeyā) although(api) all(sarvā) you(asi) you(tvam) whose(yasya) meditation-possessing(dhyānaśālinī)
+[all-meditatable](sarvadhyeyāpi) [all](sarvāsi) [you](tvaṃ) [whose](yasya) [meditation-possessing](dhyānaśālinī)
 
 ## mukta-m0-p71-v1775
-yoga-band-wearing(yogapaṭṭadharā)
+[yoga-band-wearing](yogapaṭṭadharā)
