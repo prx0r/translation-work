@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p36-v876
-[yoga-mudrā](yogamudrāṃ) [ca](ca) [śaṅkha](śaṅkhaṃ) [ca](ca) [gadā+cakra+dhara](gadācakradharaṃ) [dvaya](dvayam)
+[yoga-mudrā](yogamudrāṃ) [and](ca) [conch](śaṅkhaṃ) [and](ca) [mace-disc-bearer](gadācakradharaṃ) [pair](dvayam)
 
 ## mukta-m0-p36-v877
-[mudrā](mudrāṃ) [kuryāt](kuryāddhṛdisthāṃ) [hṛdi-sthā](hṛdisthāṃ) [ca](ca) [aśeṣa+agha+praṇāśinī](aśeṣāghapraṇāśinīm)
+[mudrā](mudrāṃ) [should-make](kuryāt) [heart-placed](dhṛdisthāṃ) [and](ca) [all-sin-destroying](aśeṣāghapraṇāśinīm)
 
 ## mukta-m0-p36-v878
-[pātra+śānti+dhara](pātraśāntidharaṃ) [yāmye](yāmye) [vāmake](vāmake) [padma+sīrin](padmasīriṇau)
+[vessel-peace-bearer](pātraśāntidharaṃ) [right](yāmye) [left](vāmake) [lotus-sīrin](padmasīriṇau)
 
 ## mukta-m0-p36-v879
-[kaumodī](kaumodyā) [heti+rāja](hetirājena) [pāñcajanya](pāñcajanyāmbujena) [ambuja](ambujena) [ca](ca)
+[kaumodī](kaumodyā) [weapon-king](hetirājena) [pāñcajanya-conch](pāñcajanyāmbujena) [and](ca)
 
 ## mukta-m0-p36-v880
-[nārāyaṇa+ādi+pañca+anya](nārāyaṇādipañcānyat) [pūrva+ukta+kara+śastra+bhṛt](pūrvoktakaraśastrabhṛt)
+[nārāyaṇa-etc-five-other](nārāyaṇādipañcānyat) [aforementioned-hand-weapon-bearing](pūrvoktakaraśastrabhṛt)
 
 ## mukta-m0-p36-v881
-[ebhiḥ](ebhiryuktaṃ) [yukta](yuktaṃ) [nava+vyūha](navavyūhaṃ) [jñātavya](jñātavyaṃ) [daiśika+uttama](daiśikottamaiḥ)
+[by-these](ebhir) [joined](yuktaṃ) [nine-formation](navavyūhaṃ) [to-be-known](jñātavyaṃ) [by-best-teachers](daiśikottamaiḥ)
 
 ## mukta-m0-p36-v882
-[vāma+utsaṅga+dhṛta+śrī](vāmotsaṅgadhṛtaśrīkam) [ardha+candra+āsana](ardhacandrāsane) [sthita](sthitam)
+[left-lap-held-śrī](vāmotsaṅgadhṛtaśrīkam) [half-moon-seat](ardhacandrāsane) [seated](sthitam)
 
 ## mukta-m0-p36-v883
-[tat](taddakṣiṇaṃ) [dakṣiṇa](dakṣiṇaṃ) [kara](karaṃ) [skandhe](skandhe) [deva+deva](devadevasya) [dakṣiṇe](dakṣiṇe)
+[that-right](taddakṣiṇaṃ) [hand](karaṃ) [shoulder](skandhe) [god-of-gods](devadevasya) [right](dakṣiṇe)
 
 ## mukta-m0-p36-v884
-[padma+stha](padmastho) [ghūrṇita+akṣa](ghūrṇitākṣaśca) [ca](ca) [gātṛ+nartana+kaiḥ](gātṛnartanakairvṛtaḥ) [vṛta](vṛtaḥ)
+[lotus-seated](padmastho) [rolling-eyed](ghūrṇitākṣaśca) [singer-dancer-surrounded](gātṛnartanakairvṛtaḥ)
 
 ## mukta-m0-p36-v885
-[advaitena](advaitena) [vidhānena](vidhānena) [pūjanīya](pūjanīyo) [vipaścit](vipaścitā)
+[non-dual](advaitena) [rite](vidhānena) [to-be-worshipped](pūjanīyo) [by-wise](vipaścitā)
 
 ## mukta-m0-p36-v886
-[yoga+nidrā+parā+vastha](yoganidrāparāvasthaḥ) [supta](supto'nantatanūpari) [ananta+tanū+pari](anantatanūpari)
+[yoga-sleep-supreme-state](yoganidrāparāvasthaḥ) [sleeping](supto) [on-ananta-body](anantatanūpari)
 
 ## mukta-m0-p36-v887
-[pāda+lagna](pādalagnā) [dharā+devī](dharādevī) [jala+śāyī](jalaśāyī) [graha+āvṛta](grahāvṛtaḥ)
+[foot-clinging](pādalagnā) [earth-goddess](dharādevī) [water-reclining](jalaśāyī) [planet-surrounded](grahāvṛtaḥ)
 
 ## mukta-m0-p36-v888
-[ābhyuttha+paṅkaja+ārūḍha](ābhyutthapaṅkajārūḍhaḥ) [pitāmaha+samanvita](pitāmahasamanvitaḥ)
+[risen-lotus-mounted](ābhyutthapaṅkajārūḍhaḥ) [grandfather-accompanied](pitāmahasamanvitaḥ)
 
 ## mukta-m0-p36-v889
-[sā](sā) [līḍha](līḍho) [nandane](nandane) [rāgī](rāgī) [sadā](sadā) [cāpa+iṣu+bhṛt](cāpeṣubhṛcchubhaḥ) [śubha](śubhaḥ)
+[she-licked](sā) [in-nandana](nandane) [passionate](rāgī) [always](sadā) [bow-arrow-bearing](cāpeṣubhṛcchubhaḥ)
 
 ## mukta-m0-p36-v890
-[tuṅga+ghrāṇa](tuṅgaghrāṇo) [narāṅghi](narāṅghirvā) [vā](vā) [pakṣi+jaṅgha](pakṣijaṅgho) [narāṅgaka](narāṅgakaḥ)
+[high-nosed](tuṅgaghrāṇo) [man-footed](narāṅghirvā) [bird-legged](pakṣijaṅgho) [man-bodied](narāṅgakaḥ)
 
 ## mukta-m0-p36-v891
-[vāma+jānu+gata](vāmajānugato) [bhūmau](bhūmau) [tārkṣya](tārkṣyaḥ) [pakṣa+samanvita](pakṣasamanvitaḥ)
+[left-knee-gone](vāmajānugato) [on-earth](bhūmau) [tārkṣya](tārkṣyaḥ) [wing-accompanied](pakṣasamanvitaḥ)
 
 ## mukta-m0-p36-v892
-[hala+śaṅkha+vara](halaśaṅkhavaro) [mālī](mālī) [viśvaksena](viśvakseno) [hareḥ+gaṇa](harergaṇaḥ)
+[plough-conch-excellent](halaśaṅkhavaro) [garlanded](mālī) [viśvaksena](viśvakseno) [hari's-troop](harergaṇaḥ)
 
 ## mukta-m0-p36-v893
-[padma+sīra+dhara](padmasīradharaṃ) [vāme](vāme) [śeṣe](śeṣe) [muśala+go+dvaha](muśalagodvaham)
+[lotus-sīra-bearer](padmasīradharaṃ) [left](vāme) [on-śeṣa](śeṣe) [mace-plough-bearer](muśalagodvaham)
 
 ## mukta-m0-p36-v894
-[ardhe+ardhe](ardhe'rdhe) [bhūṣaṇaiḥ](bhūṣaṇaiḥ) [svaiḥ](svaiḥ) [svaiḥ](svaiḥ) [yukta](yuktamūrdhvaṃ) [ūrdhvaṃ](ūrdhvaṃ) [kaja+sthita](kajasthitam)
+[half-half](ardhe'rdhe) [ornaments](bhūṣaṇaiḥ) [own](svaiḥ) [own-joined](svairyuktam) [upward](ūrdhvaṃ) [lotus-seated](kajasthitam)
 
 ## mukta-m0-p36-v895
-[akṣa+mālā](akṣamālāṃ) [tri+śūla](triśūlaṃ) [ca](ca) [śaṅkha](śaṅkhaṃ) [ca](ca) [kaumudī](kaumudīṃ) [kramāt](kramāt)
+[rosary](akṣamālāṃ) [trident](triśūlaṃ) [and](ca) [conch](śaṅkhaṃ) [and](ca) [kaumudī](kaumudīṃ) [in-order](kramāt)
 
 ## mukta-m0-p36-v896
-[puṃ+strī+svarūpaka](puṃstrīsvarūpakaṃ) [kuryāt](kuryācchivanārāyaṇātmakam) [śiva+nārāyaṇa+ātmaka](śivanārāyaṇātmakam)
+[male-female-form](puṃstrīsvarūpakaṃ) [should-make](kuryāt) [śiva-nārāyaṇa-nature](śivanārāyaṇātmakam)
 
 ## mukta-m0-p36-v897
-[brahmāṇa](brahmāṇaṃ) [vratina](vratinaṃ) [kuryāt](kuryājjaṭāmukuṭabhūṣitam) [jaṭā+mukuṭa+bhūṣita](jaṭāmukuṭabhūṣitam)
+[brahmā](brahmāṇaṃ) [vowed](vratinaṃ) [should-make](kuryāt) [matted-crown-ornamented](jaṭāmukuṭabhūṣitam)
 
 ## mukta-m0-p36-v898
-[kṛṣṇa+ajina](kṛṣṇājinaṃ) [ca](ca) [tat+skandhe](tatskandhe) [vastra](vastraṃ) [ca](ca) [ajina+vāsasa](ajinavāsasam)
+[black-deer-skin](kṛṣṇājinaṃ) [and](ca) [that-shoulder](tatskandhe) [cloth](vastraṃ) [and](ca) [deerskin-garment](ājinavāsasam)
 
 ## mukta-m0-p36-v899
-[sruva](sruvaṃ) [kamaṇḍalu](kamaṇḍaluṃ) [vāme](vāme) [sa+kuśa+ājya+ghaṭa](sakuśājyaghaṭaṃ) [tathā](tathā)
+[sruva](sruvaṃ) [water-pot](kamaṇḍaluṃ) [left](vāme) [with-kuśa-ghee-pot](sakuśājyaghaṭaṃ) [thus](tathā)
 
 ## mukta-m0-p36-v900
-[gāyatrī](gāyatrīṃ) [ca+eva](caiva) [sāvitrī](sāvitrīm) [ṛṣīn](ṛṣīṃstatpārśvayostathā) [tat+pārśvayoḥ](tatpārśvayostathā) [tathā](tathā)
+[gāyatrī](gāyatrīṃ) [and](ca) [sāvitrī](sāvitrīm) [sages](ṛṣīṃs) [their-sides](tatpārśvayos) [thus](tathā)
