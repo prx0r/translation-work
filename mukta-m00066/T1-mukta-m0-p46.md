@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p46-v1126
-[pada](vīreṇa) [pada](tāsu) [pada](karttavyo) [pada](heturaṃjanahetavaḥ)
+[by-hero](vīreṇa) [in-them](tāsu) [to-be-done](karttavyo) [cause-coloring-causes](heturaṃjanahetavaḥ)
 
 ## mukta-m0-p46-v1127
-[pada](ācāryamāṇairyastrīṇāṃ) [pada](ananyaśaraṇaṃ) [pada](manaḥ)
+[by-teaching](ācāryamāṇair) [whose-women](yastrīṇāṃ) [not-other-refuge](ananyaśaraṇaṃ) [mind](manaḥ)
 
 ## mukta-m0-p46-v1128
-[pada](skhalaneṣu) [pada](titikṣā) [pada](ca) [pada](doṣasya) [pada](punarīkṣaṇam)
+[in-stumbles](skhalaneṣu) [patience](titikṣā) [and](ca) [of-fault](doṣasya) [re-examination](punarīkṣaṇam)
 
 ## mukta-m0-p46-v1129
-[pada](daṇḍanītirnna) [pada](tu) [pada](strīṣu) [pada](prapātayitu) [pada](marhati)
+[policy-of-punishment](daṇḍanītiḥ) [not](na) [indeed](tu) [in-women](strīṣu) [to-cause-fall](prapātayitum) [is-worthy](arhati)
 
 ## mukta-m0-p46-v1130
-[pada](paśyasāhasametāsāṃ) [pada](svargate) [pada](nijabharttari)
+[behold-violence](paśyasāhasam) [with-them](etāsāṃ) [gone-to-heaven](svargate) [own-husband](nijabharttari)
 
 ## mukta-m0-p46-v1131
-[pada](khedatāḍanapāruṣyairmuṃcantyeva) [pada](svajīvitam)
+[by-grief-beating-harshness](khedatāḍanapāruṣyaiḥ) [release-indeed](muṃcantyeva) [own-life](svajīvitam)
 
 ## mukta-m0-p46-v1132
-[pada](ataścamārdavaṃtāsu) [pada](prathamaṃ) [pada](cittaraṃjanam)
+[therefore-gentleness](ataścamārdavaṃ) [in-them](tāsu) [first](prathamaṃ) [mind-coloring](cittaraṃjanam)
 
 ## mukta-m0-p46-v1133
-[pada](atyaṃtamabhivṛddhiṃ) [pada](ca) [pada](nayaccettāsusādhakaḥ)
+[extreme-increase](atyaṃtamabhivṛddhiṃ) [and](ca) [leading](nayat) [in-them](tāsu) [accomplisher](sādhakaḥ)
 
 ## mukta-m0-p46-v1134
-[pada](madhyamena) [pada](prakāreṇa) [pada](darśanaṃ) [pada](pradiśidbudhaḥ)
+[middle-manner](madhyamena prakāreṇa) [seeing](darśanaṃ) [declared](pradiśidbudhaḥ)
 
 ## mukta-m0-p46-v1135
-[pada](raktaḥ) [pada](parebhavaṃ) [pada](yāti) [pada](paribhūtaḥ) [pada](kathaṃ) [pada](priye)
+[attached](raktaḥ) [to-other-becoming](parebhavaṃ) [goes](yāti) [despised](paribhūtaḥ) [how](kathaṃ) [dear](priye)
 
 ## mukta-m0-p46-v1136
-[pada](vṛṣasyaṃtīṣu) [pada](tāsvaṃba) [pada](na) [pada](vai) [pada](mukhyaṃ) [pada](ca) [pada](cārayet)
+[in-bull-time](vṛṣasyaṃtīṣu) [in-them](tāsu) [mother](amba) [not](na) [vai](vai) [chief](mukhyaṃ) [ca](ca) [should-make-go](cārayet)
 
 ## mukta-m0-p46-v1137
-[pada](grāsānapi) [pada](ca) [pada](vāsāṃsi) [pada](yathā) [pada](śakti) [pada](nivedayet)
+[morsels](grāsān) [also](api) [ca](ca) [garments](vāsāṃsi) [according-to-ability](yathā śakti) [should-offer](nivedayet)
 
 ## mukta-m0-p46-v1138
-[pada](tasmād) [pada](vīrajanādhīnā) [pada](dūtikā) [pada](prakṛti) [pada](śive)
+[therefore-hero-people-dependent](tasmād vīrajanādhīnā) [female-messenger](dūtikā) [nature](prakṛti) [auspicious](śive)
 
 ## mukta-m0-p46-v1139
-[pada](daṃpatyorghaṭanaṃ) [pada](brūyat) [pada](puruṣārthaikakāraṇam)
+[of-couple-joining](daṃpatyorghaṭanaṃ) [should-say](brūyat) [human-aim-single-cause](puruṣārthaikakāraṇam)
 
 ## mukta-m0-p46-v1140
-[pada](anyonyamanurāgeṇa) [pada](mahatsaukhyaṃ) [pada](prajāyate)
+[mutual-affection](anyonyamanurāgeṇa) [great-happiness](mahatsaukhyaṃ) [arises](prajāyate)
 
 ## mukta-m0-p46-v1141
-[pada](tasmāt) [pada](tadānukūlyāya) [pada](svānukūlyaṃ) [pada](prakāśayet)
+[therefore](tasmāt) [for-favor](tadānukūlyāya) [own-favor](svānukūlyaṃ) [should-show](prakāśayet)
 
 ## mukta-m0-p46-v1142
-[pada](āliṃganacchalenaiva) [pada](sukhaṃ) [pada](saṃvāhanaṃ) [pada](caret)
+[by-embrace-pretext](āliṃganacchalenaiva) [happiness](sukhaṃ) [massage](saṃvāhanaṃ) [should-do](caret)
 
 ## mukta-m0-p46-v1143
-[pada](ādāyalimpeccaraṇe) [pada](dūtyāḥ) [pada](sā) [pada](nānyagābhavet)
+[should-anoint-feet](ādāyalimpec) [of-messenger](caraṇe dūtyāḥ) [she](sā) [not-other-goer](nānyagābhavet)
 
 ## mukta-m0-p46-v1144
-[pada](jugupsamāno) [pada](na) [pada](bhavedvairāgyaṃ) [pada](tena) [pada](jāyate)
+[being-disgusted](jugupsamāno) [not](na) [would-be](bhaved) [dispassion](vairāgyaṃ) [by-that](tena) [arises](jāyate)
 
 ## mukta-m0-p46-v1145
-[pada](satilokeṣu) [pada](saṃcāramutsavaṃ) [pada](ca) [pada](pade) [pada](pade)
+[in-worlds](satilokeṣu) [movement](saṃcāram) [festival](utsavaṃ) [ca](ca) [at-every-step](pade pade)
 
 ## mukta-m0-p46-v1146
-[pada](vividaiḥ) [pada](sarasaiḥ) [pada](pakvaiḥ) [pada](phalaiḥ) [pada](puṣpaiḥ) [pada](sugaṃdhibhiḥ)
+[with-various](vividaiḥ) [juicy](sarasaiḥ) [ripe](pakvaiḥ) [fruits](phalaiḥ) [flowers](puṣpaiḥ) [well-fragrant](sugaṃdhibhiḥ)
 
 ## mukta-m0-p46-v1147
-[pada](udvarttanaiścatāṃbūlairaṃjanairmukhavāsitaiḥ)
+[with-massages](udvarttanaiḥ) [with-betel](catāṃbūlaiḥ) [with-collyrium](aṃjanaiḥ) [with-mouth-perfumes](mukhavāsitaiḥ)
 
 ## mukta-m0-p46-v1148
-[pada](raṃjayedramaṇīṃ) [pada](dhīmānbhogairdīptaiśca) [pada](pārvati)
+[should-color](raṃjayed) [beloved](ramaṇīṃ) [wise](dhīmān) [with-enjoyments](bhogaiḥ) [bright](dīptaiḥ) [ca](ca) [pārvatī](pārvati)
 
 ## mukta-m0-p46-v1149
-[pada](tāvaddhiramanā) [pada](eva) [pada](bhogabhedā) [pada](tu) [pada](pācaret)
+[so-long](tāvaddhi) [pleased](ramanā) [eva](eva) [enjoyment-difference](bhogabhedā) [tu](tu) [should-do](pācaret)
 
 ## mukta-m0-p46-v1150
-[pada](ślāghayājāyate) [pada](tacca) [pada](sadarpāviphalāstriyaḥ)
+[by-praise](ślāghayā) [arises](jāyate) [that](tacca) [with-pride-fruitless](sadarpāviphalāḥ) [women](striyaḥ)

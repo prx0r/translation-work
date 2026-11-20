@@ -2,46 +2,46 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p43-v1051
-[obtaining](prāpya) [there](tatra) [strength+place](balasthānaṃ) [in-shining-jewels](dīptaratneṣu) [in-houses](veśmasu)
+[having-arrived](prāpya) [there](tatra) [power-place](balasthānaṃ) [in-shining-gems](dīptaratneṣu) [houses](veśmasu)
 
 ## mukta-m0-p43-v1052
-[from-that](tasmād) [this](idaṃ) [great-sacrifice](mahāyāgaṃ) [difficult](durllabhaṃ) [even-for-winds](marutāmapi)
+[from-that-this](tasmādidaṃ) [great-sacrifice](mahāyāgaṃ) [difficult](durllabhaṃ) [even-for-winds](marutāmapi)
 
 ## mukta-m0-p43-v1053
 [otherwise-doing](anyathākaraṇād) [goddess](devī) [fall](vinipātaḥ) [arises](prajāyate)
 
 ## mukta-m0-p43-v1054
-[on-authoritative](prāmāṇike) [this](asmin) [fair-hipped](suśroṇi) [on-path](mārge) [living](jīvati) [trusting](viśvasan)
+[on-authoritative](prāmāṇike) [this](asmin) [fair-hipped](suśroṇi) [path](mārge) [living](jīvati) [trusting](viśvasan)
 
 ## mukta-m0-p43-v1055
-[in-mantra](maṃtre) [in-mantra](maṃtre) [to-be-done](tu) [karttavye] [in-medicine](bheṣaje) [in-deity](daivate) [in-teacher](gurau)
+[in-mantra](maṃtre) [in-mantra](maṃtre) [to-be-done](karttavye) [in-medicine](bheṣaje) [in-deity](daivate) [in-teacher](gurau)
 
 ## mukta-m0-p43-v1056
-[old-age](vṛdhā)
+[old](vṛdhā)
 
 ## mukta-m0-p43-v1057
-[see](paśya) [trust-greatness](viśvāsamāhātmyaṃ) [stone-wood-earth-etc](śilādārumṛdādikam)
+[see](paśya) [faith-greatness](viśvāsamāhātmyaṃ) [stone-wood-clay-etc](śilādārumṛdādikam)
 
 ## mukta-m0-p43-v1058
 [unconscious](acetanaṃ) [inert-substance](jaḍadravyaṃ) [by-whom](kena) [success](siddhiṃ) [gives](prayacchati)
 
 ## mukta-m0-p43-v1059
-[action-faith](karmaśraddhā) [tradition](saṃpradāyā) [both](vubhāvetau) [activators](pravarttakau)
+[deed-faith](karmaśraddhā) [tradition](saṃpradāyā) [both](vubhāvetau) [activators](pravarttakau)
 
 ## mukta-m0-p43-v1060
-[always-pure](sadāmalīmasā) [fools](mūrkhāś) [and-fierce-caste-people](caṃḍālādyāśca) [births](jātayaḥ)
+[always-pure](sadāmalīmasā) [fools](mūrkhāś) [caṇḍāla-etc](caṃḍālādyāś) [castes](ca jātayaḥ)
 
 ## mukta-m0-p43-v1061
-[no-conduct](nācāro) [nor](na) [also](ca) [purity](vā) [śaucaṃ] [no-learning](na) [viduṣyaṃ] [no-intellect-qualities](na) [dhīguṇāḥ]
+[no-conduct](nācāro) [no](na) [purity](śaucaṃ) [no](na) [learning](vaiduṣyaṃ) [no](na) [intellect-qualities](dhīguṇāḥ)
 
 ## mukta-m0-p43-v1062
-[trust](viśvāso) [named-mind](nāmamanaso) [firmness](dṛḍhatāmaṃtrasādhane)
+[faith](viśvāso) [named-mind](nāmamanaso) [firmness](dṛḍhatā) [in-mantra-accomplishment](maṃtrasādhane)
 
 ## mukta-m0-p43-v1063
-[thus](evaṃ) [trust-attained](viśvāsamāpannaḥ) [fruit-desiring-fruit-form](phalārthiphalavigrahaḥ)
+[thus](evaṃ) [faith-attained](viśvāsamāpannaḥ) [fruit-desiring](phalārthi) [fruit-form](phalavigrahaḥ)
 
 ## mukta-m0-p43-v1064
-[brahmin-kshatriya-vaishya](brāhmaṇakṣatriya) [viśā](viśā) [authority-here-instruction](madhikāro'traśāsanam)
+[brahmin-kshatriya-vaishya](brāhmaṇakṣatriya viśā) [authority-here-instruction](madhikāro'traśāsanam)
 
 ## mukta-m0-p43-v1065
 [hero-service](vīraśuśrūṣaṇaṃ) [their](teṣām) [desired-fruit-success](abhiṣṭaphalasiddhayaḥ)
@@ -50,28 +50,28 @@
 [of-vaishya](vaiśyasya) [merchandise-profit-half](paṇyalābhārdhaṃ) [of-shudra-never](sudrādernakadācana)
 
 ## mukta-m0-p43-v1067
-[one-birth-woman](ekaivajātirnārīti) [to-be-taken](grāhyā) [with-marks](lakṣaṇasaṃbhave)
+[one-caste-woman](ekaivajātirnārīti) [to-be-taken](grāhyā) [with-marks](lakṣaṇasaṃbhave)
 
 ## mukta-m0-p43-v1068
-[worship-means](pūjāsādhanametā) [by-me-created](mayāsṛṣṭā) [deer-eyed](mṛgīdṛśaḥ)
+[worship-means](pūjāsādhanam) [these](etā) [by-me-created](mayāsṛṣṭā) [deer-eyed](mṛgīdṛśaḥ)
 
 ## mukta-m0-p43-v1069
 [cows](gāvastu) [back-pure](pṛṣṭhatomedhyā) [pure-mouthed](medhyāvaktreṇa) [speakers](vādinaḥ)
 
 ## mukta-m0-p43-v1070
-[woman-mouth](strīmukhaṃ) [always](tu) [purity](sadā) [śuddhirnocciṣṭaṃ] [there](tatra) [is-known](vidyate)
+[woman-mouth](strīmukhaṃ) [always](tu sadā) [purity](śuddhir) [no-leftover](nocciṣṭaṃ) [there](tatra) [is](vidyate)
 
 ## mukta-m0-p43-v1071
-[by-them-without](tābhirvinā) [no](na) [sacrifice](yajño'sti) [no](na) [austerity](tapo'sti) [no](na) [or](vā) [vow](vratam)
+[by-them-without](tābhirvinā) [no](na) [sacrifice](yajño'sti) [no](na) [austerity](tapo'sti) [no](na) [vow](vā vratam)
 
 ## mukta-m0-p43-v1072
 [eight-offerings](aṣṭāhutirmahāyāge) [principal](pradhānaṃ) [messengers](dūtikāḥ) [remembered](smṛtāḥ)
 
 ## mukta-m0-p43-v1073
-[bringing-vessel-does-this](ānīyaghaṭiyatyeṣā) [therefore](tasmād) [messenger](dūti) [proclaimed](prakīrtitā)
+[brought-vessel-does-this](ānīyaghaṭiyatyeṣā) [therefore](tasmād) [messenger](dūti) [called](prakīrtitā)
 
 ## mukta-m0-p43-v1074
-[messenger](dūtī) [by-wise](tena) [budhaiḥ] [said](proktā) [thought](ciṃtā) [distress-removing](saṃtāparodhinī)
+[messenger](dūtī) [by-wise](tena budhaiḥ) [said](proktā) [thought](ciṃtā) [distress-preventing](saṃtāparodhinī)
 
 ## mukta-m0-p43-v1075
-[enjoyer](bhoginībhogalakṣmīśca) [her](tasyāḥ) [synonym](paryāya) [hymns](sūktayaḥ)
+[enjoyer](bhoginī) [enjoyment-lakshmi](bhogalakṣmīś) [ca](ca) [her](tasyāḥ) [synonym](paryāya) [hymns](sūktayaḥ)
