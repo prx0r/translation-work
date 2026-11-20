@@ -2,76 +2,52 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p11-v251
-[gloss](ābaddhapāṭalollo) [gloss](ca) [gloss](maṇidarpaṇa) [gloss](cāmaram)
-
+[adorned](ābaddhapāṭalollo) [and](ca) [mirror](maṇidarpaṇa) [fan](cāmaram)
 ## mukta-m0-p11-v252
-[gloss](saṃpūritaṃ) [gloss](bahuvidhaiḥ) [gloss](naivedyairatiśobhanaiḥ)
-
+[filled](saṃpūritaṃ) [with-many](bahuvidhaiḥ) [offerings](naivedyairatiśobhanaiḥ)
 ## mukta-m0-p11-v253
-[gloss](trividhaiśca) [gloss](manohāri) [gloss](saurabhyaiḥ) [gloss](sarakairapi)
-
+[threefold](trividhaiśca) [charming](manohāri) [fragrances](saurabhyaiḥ) [with-juices](sarakairapi)
 ## mukta-m0-p11-v254
-[gloss](piṣṭapaṃcāṃgulodāraṃ) [gloss](pūrṇakuṃbhasamāyutam)
-
+[pounded-five-fingers](piṣṭapaṃcāṃgulodāraṃ) [full-pot](pūrṇakuṃbhasamāyutam)
 ## mukta-m0-p11-v255
-[gloss](sarvakarmaṇipaṭvībhiranukūlapravṛttibhiḥ)
-
+[skilled-in-all-rites](sarvakarmaṇipaṭvībhiranukūlapravṛttibhiḥ)
 ## mukta-m0-p11-v256
-[gloss](praviśyayāgasadanaṃ) [gloss](pīṭhamaṃtreṇa) [gloss](kaṃbale)
-
+[entering](praviśyayāgasadanaṃ) [seat](pīṭhamaṃtreṇa) [on-blanket](kaṃbale)
 ## mukta-m0-p11-v257
-[gloss](tathāgaṇapatiṃ) [gloss](dhyātvā) [gloss](tanmaṃtreṇābhi) [gloss](pūjayet)
-
+[meditating](tathāgaṇapatiṃ) [dhyātvā] [worship](tanmaṃtreṇābhi) [pūjayet]
 ## mukta-m0-p11-v258
-[gloss](siṃhāsana) [gloss](maheśānīmarcayetripurāṃbikām)
-
+[throne](siṃhāsana) [goddess](maheśānīmarcayetripurāṃbikām)
 ## mukta-m0-p11-v259
-[gloss](ratnadvipaṃ) [gloss](tataḥ) [gloss](paścānnānāvṛkṣamahāvanam)
-
+[jewel-island](ratnadvipaṃ) [then](tataḥ) [west](paścānnānāvṛkṣamahāvanam)
 ## mukta-m0-p11-v260
-[gloss](gomedhikasya) [gloss](prākāraṃ) [gloss](vajraprākārameva) [gloss](ca)
-
+[gomedhika-wall](gomedhikasya) [prākāraṃ] [vajra-wall](vajraprākārameva) [ca]
 ## mukta-m0-p11-v261
-[gloss](muktāmayaṃ) [gloss](ca) [gloss](prākāraṃ) [gloss](tadāmṛtakaraṃmayam)
-
+[pearl-wall](muktāmayaṃ) [ca] [prākāraṃ] [nectar-making](tadāmṛtakaraṃmayam)
 ## mukta-m0-p11-v262
-[gloss](sahasrastaṃbhanilayaṃ) [gloss](sudhā) [gloss](vāṭimanaṃtaram)
-
+[thousand-pillared](sahasrastaṃbhanilayaṃ) [nectar-garden](sudhā) [vāṭimanaṃtaram]
 ## mukta-m0-p11-v263
-[gloss](bālātapasamudgāraṃ) [gloss](caṃdrikād) [gloss](gārameva) [gloss](ca)
-
+[morning-sun](bālātapasamudgāraṃ) [moonlight](caṃdrikād) [gārameva] [ca]
 ## mukta-m0-p11-v264
-[gloss](ciṃtāmaṇigṛhaṃ) [gloss](caiva) [gloss](gṛharājaṃ) [gloss](samarcayet)
-
+[wish-gem-house](ciṃtāmaṇigṛhaṃ) [caiva] [house-king](gṛharājaṃ) [samarcayet]
 ## mukta-m0-p11-v265
-[gloss](ratnapradīpavalayaṃ) [gloss](madhye) [gloss](siṃhāsanaṃ) [gloss](tathā)
-
+[jewel-lamp-circle](ratnapradīpavalayaṃ) [middle](madhye) [lion-throne](siṃhāsanaṃ) [tathā]
 ## mukta-m0-p11-v266
-[gloss](pādopariṣṭaphalakairarcitaṃ) [gloss](maṃcamarcayet)
-
+[foot-board](pādopariṣṭaphalakairarcitaṃ) [couch](maṃcamarcayet)
 ## mukta-m0-p11-v267
-[gloss](mūlenamadhyamabhyarcya) [gloss](mūlakhaṃḍaistrikoṇakam)
-
+[root-middle](mūlenamadhyamabhyarcya) [root-pieces](mūlakhaṃḍaistrikoṇakam)
 ## mukta-m0-p11-v268
-[gloss](triḥprāṇān) [gloss](samudāyamya) [gloss](bhūtāvaraṇavidyayā)
-
+[thrice-breaths](triḥprāṇān) [gathering](samudāyamya) [element-cover](bhūtāvaraṇavidyayā)
 ## mukta-m0-p11-v269
-[gloss](karaśuddhakhyamanunākaraśuddhiṃ) [gloss](vidārayan)
-
+[hand-purification](karaśuddhakhyamanunākaraśuddhiṃ) [vidārayan]
 ## mukta-m0-p11-v270
-[gloss](devyātmāsanamaṃtreṇa) [gloss](svasyāsanamudīritam)
-
+[goddess-seat-mantra](devyātmāsanamaṃtreṇa) [own-seat](svasyāsanamudīritam)
 ## mukta-m0-p11-v271
-[gloss](maṃtrāṇāmāsane) [gloss](sarvamaṃtrāsanamanuṃ) [gloss](viduḥ)
-
+[of-mantras](maṃtrāṇāmāsane) [all-mantra-seat](sarvamaṃtrāsanamanuṃ) [viduḥ]
 ## mukta-m0-p11-v272
-[gloss](iti) [gloss](pīṭhānisaṃkalpya) [gloss](bālāvṛtyā) [gloss](ṣaḍaṃgakam)
-
+[thus-seats](iti) [pīṭhānisaṃkalpya] [bālāvṛtyā] [ṣaḍaṃgakam]
 ## mukta-m0-p11-v273
-[gloss](svaraistuvaśinī) [gloss](yuktā) [gloss](śirasinyasyate) [gloss](priye)
-
+[with-tones](svaraistuvaśinī) [yuktā] [śirasinyasyate] [priye]
 ## mukta-m0-p11-v274
-[gloss](modinī) [gloss](tu) [gloss](bhruvormadhye) [gloss](ca) [gloss](vargena) [gloss](samanvitā)
-
+[modinī](modinī) [tu] [between-brows](bhruvormadhye) [ca] [with-group](vargeṇasamanvitā)
 ## mukta-m0-p11-v275
-[gloss](aruṇāhṛdayet) [gloss](yasyāt) [gloss](tavargeṇavibhūṣitā)
+[aruṇā](aruṇāhṛdayet) [yasyāt] [tavargeṇavibhūṣitā]

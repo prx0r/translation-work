@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p16-v376
-[unafflictedness](akliṣṭatā) [nourishedness](puṣṭatā) [and](ca) [wheel-rim+evenness](rathanemi+samānatā)
+[pada](akliṣṭatā) [pada](puṣṭatā) [pada](ca) [pada](ratha+nemi+samānatā)
 
 ## mukta-m0-p16-v377
-[serpent-head+evenness](phaṇiśīrṣa+samānatvaṃ) [clarity](prasanna) [fluidity](dravatā) [and-so](tathā)
+[pada](phaṇi+śīrṣa+samānatvaṃ) [pada](prasanna+dravatā) [pada](tathā)
 
 ## mukta-m0-p16-v378
-[all-marks](sarva+lakṣaṇa) [endowedness](yuktatvaṃ) [bad-mark+absence](kula+kṣaṇa+vi+hīnatā)
+[pada](sarva+lakṣaṇa) [pada](yuktatvaṃ) [pada](kula+lakṣaṇa+vihīnatā)
 
 ## mukta-m0-p16-v379
-[refinement+greatness](saṃskāra+mahimneva) [shine](bhāsaṃte) [those](te) [qualities](guṇāḥ) [beloved](priye)
+[pada](saṃskārasya) [pada](mahimneva) [pada](bhāsaṃte) [pada](te) [pada](guṇāḥ) [pada](priye)
 
 ## mukta-m0-p16-v380
-[refinement+also](saṃskāra+api) [all](samastāni) [things](vastūni) [would-place](nyāvaset) [beloved](priye)
+[pada](saṃskāropi) [pada](samastāni) [pada](vastūninyāvasetpriye)
 
 ## mukta-m0-p16-v381
-[all-auspiciousness-giving](sarva+saubhāgya+janakaṃ) [all-accomplishment-great-foot](sarva+siddhi+mahā+padaṃ)
+[pada](sarva+saubhāgya+janakaṃ) [pada](sarva+siddhi+mahā+padaṃ)
 
 ## mukta-m0-p16-v382
-[bliss-bhairava](ānaṃda+bhairava) [worship](arcā) [means](sādhanaṃ) [world-enchanting](viśva+mohanam)
+[pada](ānaṃda) [pada](bhairavasyārcāsādhanaṃ) [pada](viśva+mohanam)
 
 ## mukta-m0-p16-v383
-[well-beautiful-step-devouring](su+śobha+dakra+grāsī) [all-afflictions-cutting](samasta+āpana+nikṛṃtanam)
+[pada](suśobhadakramagrāsī) [pada](samastāpannikṛṃtanam)
 
 ## mukta-m0-p16-v384
-[house-moon-crescents](veśma+caṃdra+kalānāṃ) [and](ca) [abode-auspiciousness-prosperity](sadma+saubhāgya+saṃpadām)
+[pada](veśmacaṃdrakalānāṃ) [pada](ca) [pada](sadma+saubhāgya+saṃpadām)
 
 ## mukta-m0-p16-v385
-[all-disease-giving](samasta+roga+janakaṃ) [misfortune+propagating](daurbhāgyasya+pravartakam)
+[pada](samasta+roga+janakaṃ) [pada](daurbhāgyasyapravartakam)
 
 ## mukta-m0-p16-v386
-[people-reproach-giving](loka+upakrośa+janakaṃ) [people-contempt-giving](loka+dhikkāra+dāyakam)
+[pada](loka+upakrośa+janakaṃ) [pada](loka+dhikkāra+dāyakam)
 
 ## mukta-m0-p16-v387
-[foamy](phelinaṃ) [lost](naṣṭam) [leftover](ucchiṣṭam) [degraded](apakṛṣṭaṃ) [rubbed](vicarcitam)
+[pada](phelinaṃ) [pada](naṣṭam) [pada](ucchiṣṭam) [pada](apakṛṣṭaṃ) [pada](vicarcitam)
 
 ## mukta-m0-p16-v388
-[inside](aṃtaḥ) [rough-skin-rich](karkkaśa+carmāḍhyam) [inside-tongue-having](aṃtargo+jihvayā+nvitam)
+[pada](aṃtaḥ) [pada](karkkaśa+carmāḍhyam) [pada](aṃtargo+jihvayānvitam)
 
 ## mukta-m0-p16-v389
-[itch-scabies-abundant](pāma+kaṇḍū+pracuritaṃ) [most-sinful](pāpiṣṭaṃ) [called](kathitaṃ) [fluid](dravam)
+[pada](pāma+kaṇḍū+pracuritaṃ) [pada](pāpiṣṭaṃ) [pada](kathitaṃ) [pada](dravam)
 
 ## mukta-m0-p16-v390
-[own](svakīya) [body](vapure) [indeed](vai) [that](tat) [worship-means](pūjā+sādhana) [is-held](iṣyate)
+[pada](svakīya) [pada](vapure) [pada](vai) [pada](tat) [pada](pūjā+sādhana+miṣyate)
 
 ## mukta-m0-p16-v391
-[stands-near](sannidhatte) [supreme-directly](paraḥ+sākṣāt) [bliss-nondual-form-bearing](ānaṃda+advaita+rūpa+dhṛt)
+[pada](sannidhatte) [pada](paraḥsākṣādānaṃdādvaita) [pada](rūpadhṛt)
 
 ## mukta-m0-p16-v392
-[messenger-mouth](dūtī+mukhasya) [refinement](saṃskāraḥ) [is-said](kathyate) [listen-beautiful](śṛṇu+saṃdari)
+[pada](dūtī) [pada](mukhasya) [pada](saṃskāraḥ) [pada](kathyate) [pada](śṛṇusaṃdari)
 
 ## mukta-m0-p16-v393
-[stimulation](uttejanaṃ) [and](ca) [by-weapon](śastreṇa) [purification](nirmalīkaraṇaṃ) [again](punaḥ)
+[pada](uttejanaṃ) [pada](ca) [pada](śastreṇa) [pada](nirmalīkaraṇaṃ) [pada](punaḥ)
 
 ## mukta-m0-p16-v394
-[oil-gargle](taila+gaṇḍuṣaṇāt) [beauty](kāṃtiḥ) [of-teeth](daṃtānām) [arises](upajāyate)
+[pada](tailagaṇḍuṣaṇāt) [pada](kāṃtir) [pada](daṃtānām) [pada](upajāyate)
 
 ## mukta-m0-p16-v395
-[three-pungents](trikaṭu) [three-fruits](triphalā) [flesh](māṃsi) [jaggery-bark-leaves-saffron](guḍa+tvak+patra+kesaraiḥ)
+[pada](trikaṭu) [pada](triphalāmāṃsi) [pada](guḍatvakpatrakesaraiḥ)
 
 ## mukta-m0-p16-v396
-[having-made](kṛtvā) [akṣa-like](akṣa+sadṛśān) [balls](piṇḍān) [that](taṃ) [first](pūrvaṃ) [messenger-swallow](dūtikā+gilet)
+[pada](kṛtvākṣa) [pada](sadṛśān) [pada](piṇḍān) [pada](taṃ) [pada](pūrvaṃ) [pada](dūtikāgilet)
 
 ## mukta-m0-p16-v397
-[by-impurity-created](malena+eva+āpa+sṛṣṭānāṃ) [of-all](sarveṣāṃ) [pacification](śamanaṃ) [becomes](bhavet)
+[pada](malenaivāpa) [pada](sṛṣṭānāṃ) [pada](sarveṣāṃ) [pada](śamanaṃ) [pada](bhavet)
 
 ## mukta-m0-p16-v398
-[to-be-rubbed](mardaniyaṃ) [with-effort](prayatnena) [pill-make](guṭikā+kārayet) [wise](budhaḥ)
+[pada](mardaniyaṃ) [pada](prayatnena) [pada](guṭikākārayedbudhaḥ)
 
 ## mukta-m0-p16-v399
-[messenger](dūtikā) [fragrance](saurabhya) [saliva-mouth](śāli+vaktraṃ) [should-arrange](prakalpayet)
+[pada](pūtikāmati) [pada](saurabhya) [pada](śālivaktraṃ) [pada](prakalpayet)
 
 ## mukta-m0-p16-v400
-[thus](itthaṃ) [body-refinement](śarīra+saṃskāraḥ) [external-internal](bāhya+ābhyaṃtara) [declared](īritaḥ)
+[pada](itthaṃ) [pada](śarīra+saṃskāro) [pada](bāhyābhyaṃtara) [pada](īritaḥ)

@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p32-v776
-arcayet-lingam-ishana-yama-adi-maya-ahutih
+[worship](arcayelliṃgam) [lord](īśānam) [these-beginning](iyamādyā) [my-offering](mayāhutiḥ)
 
 ## mukta-m0-p32-v777
-caṃdragarbha-iti-ka-api-asti-nadi-nali-locana
+[moon-womb](caṃdragarbha) [thus](iti) [some](kāpyasti) [nadi-eye](nāḍīnalinalocane)
 
 ## mukta-m0-p32-v778
-tatratya-amrita-viddhi-kameshvari-ukti-bhuti-dam
+[there](tatratyam) [nectar](amṛtaṃ) [know](viddhi) [desire-lady-spoken](kāmeśvaryuktibhūtidam)
 
 ## mukta-m0-p32-v779
-ishat-patala-varna-ca-yuthika-sama-saurabha
+[slightly-pink](īṣatpāṭalavarṇaṃ) [and](ca) [jasmine-like](yūthikāsamasaurabham)
 
 ## mukta-m0-p32-v780
-sa-bhavatya-samapanna-jalada-tva-vashikriyat
+[with](sabhavatyaṃ) [completed](samāpanno) [water-state](jaladatvaṃ) [subdues](vaśīkriyāt)
 
 ## mukta-m0-p32-v781
-na-sara-deva-svata-skhalita-gamana-bhavet
+[not](na) [lake-god](sarodeva) [own](svāteṣu) [stumble](skhalitaṃ) [going](gamanaṃ) [becomes](bhavet)
 
 ## mukta-m0-p32-v782
-caṃdonmatta-pada-sthana-caṃdragarbha-prakirtita
+[moon-intoxicated](caṃdonmattā) [foot-place](padasthāne) [moon-womb](caṃdragarbhā) [declared](prakīrttitā)
 
 ## mukta-m0-p32-v783
-atra-duti-sharira-purva-api-dasha-abruve
+[here-messenger](atradūtyāḥ) [body](śarīrasya) [before-also](pūrvatrāpi) [ten-states](daśābruve)
 
 ## mukta-m0-p32-v784
-ishad-araktata-netra-kimcid-bhu-valli-tandava
+[slightly-red](īṣadāraktatā) [eyes](netre) [somewhat](kiṃcid) [earth-dance](bhūvallitāṃḍavaṃ)
 
 ## mukta-m0-p32-v785
-anandanatha-bhavana-bahya-kaksha-vigahana
+[bliss-lord](ānaṃdanātha) [mansion](bhavana) [outer-chamber](bāhyakakṣyā) [entering](vigāhanam)
 
 ## mukta-m0-p32-v786
-stana-pulaka-ankura-ganda-anuraktata
+[on-breasts](stanayoḥ) [hair-erect](pulakāṃkūraḥ) [on-cheeks](gaṃḍayoś) [and-redness](cānuraktatā)
 
 ## mukta-m0-p32-v787
-evam-prakara-sa-duti-caṃdragarbha-amrita-drava
+[thus](evaṃ) [manner](prakārā) [she](sā) [messenger](dūtī) [moon-womb-nectar-drops](caṃdragarbhāmṛtadravaiḥ)
 
 ## mukta-m0-p32-v788
-yajed-anandanatham-sa-viravat-phala-ashnute
+[worship](yajed) [bliss-lord](ānaṃdanāthaṃ) [she](sā) [heroic-fruit](vīravatphalamaśnute)
 
 ## mukta-m0-p32-v789
-artha-anguli-samunnamra-tapta-kancana-sannibha
+[meaning-finger](arthāṃguli) [raised](samunnamra) [heated-gold](taptakāṃcanasannibhā)
 
 ## mukta-m0-p32-v790
-tasya-caṃdrinika-naya-bhuyo-lingesha-tadavat
+[her](tasyāś) [moon-channel](caṃdriṇikānāyā) [more](bhūyo) [linga-dance](liṃgeśatāḍavāt)
 
 ## mukta-m0-p32-v791
-kadambri-rasa-modiman-madanta-toya-udbhavet
+[wine](kādaṃbarī) [taste-fragrance](rasāmodīmānmadaṃtoya) [arises](mudbhavet)
 
 ## mukta-m0-p32-v792
-godavari-tirtha-mayi-taya-sincet-maheshvara
+[godavari](godāvarī) [pilgrimage](tīrthamayī) [by-her](tayā) [sprinkle](siṃcen) [great-lord](maheśvaram)
 
 ## mukta-m0-p32-v793
-rudratva-sima-bhaktasya-vahni-tattva-vashikritim
+[rudra-limit](rudratvasīmā) [devotee](bhaktasya) [fire-principle](vahnitattva) [subjection](vaśīkṛtim)
 
 ## mukta-m0-p32-v794
-tanoti-bhagavan-esa-mahānanda-maheshvara
+[expands](tanoti) [lord](bhagavāneṣaḥ) [great-bliss](mahānaṃda) [great-lord](maheśvaraḥ)
 
 ## mukta-m0-p32-v795
-ume-daham-prayacchanti-svayam-agni-maya-yatah
+[uma-burning](umedāhaṃ) [give](prayacchaṃti) [self-fire](svayamagni) [mayoyataḥ]
 
 ## mukta-m0-p32-v796
-asya-mantra-tu-sushroni-shruyatam-abhidhiyate
+[her-mantra](asyāmaṃtrastu) [fair-hipped](suśroṇī) [hear](śrūyatām) [spoken](abhidhīyate)
 
 ## mukta-m0-p32-v797
-arcayami-bhavad-gatra-matah-siddhim-prayacchame
+[worship](arcayāmi) [your-limb](bhavadgātra) [from-me](mataḥ) [success](siddhiṃ) [give](prayacchame)
 
 ## mukta-m0-p32-v798
-atha-anya-nadika-devi-ya-sa-caṃdra-mahodaya
+[then-other-channel-goddess](athānyanāḍikādevī) [she](yā) [moon-rise](sā) [caṃdramahodayā]
 
 ## mukta-m0-p32-v799
-anta-kimcit-shyama-varna-trishu-sthaneṣu-vakrita
+[inside](aṃtaḥ) [somewhat](kiṃcic) [dark-color](chyāmavarṇā) [three](triṣu) [places](sthāneṣu) [curved](vakritā)
 
 ## mukta-m0-p32-v800
-lila-amrita-gaurangi-valad-bhru-valli-bhasura
+[play](līlā) [nectar](namrita) [fair-limbed](gaurāṃgī) [moving-brow-creeper](valadbhrūvallibhāsurā)
