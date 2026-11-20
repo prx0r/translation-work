@@ -57,8 +57,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "śaktistatra",
+"surface": "śaktiḥ",
 "quick_gloss": "power"
+},
+{
+"surface": "tatra",
+"quick_gloss": "there"
 },
 {
 "surface": "mahādevi",
@@ -66,7 +70,7 @@
 },
 {
 "surface": "sūkṣmarūpeṇa",
-"quick_gloss": "subtle-form"
+"quick_gloss": "subtle-form-by"
 },
 {
 "surface": "bhāṣitā",
@@ -83,7 +87,7 @@
 "tokens": [
 {
 "surface": "pañcadhāpyekadhā",
-"quick_gloss": "fivefold"
+"quick_gloss": "fivefold+also"
 },
 {
 "surface": "yatra",
@@ -95,7 +99,7 @@
 },
 {
 "surface": "śivā",
-"quick_gloss": "shiva"
+"quick_gloss": "shiva-fem"
 }
 ]
 },
@@ -108,7 +112,7 @@
 "tokens": [
 {
 "surface": "avinābhāva",
-"quick_gloss": "inseparability"
+"quick_gloss": "inseparable"
 },
 {
 "surface": "sambandhaṃ",
@@ -116,7 +120,7 @@
 },
 {
 "surface": "dvayoreva",
-"quick_gloss": "of-two"
+"quick_gloss": "of-two-only"
 },
 {
 "surface": "parasparam",
@@ -133,7 +137,7 @@
 "tokens": [
 {
 "surface": "śaktyāktaśaṅkaram",
-"quick_gloss": "shakti-impregnated-shankara"
+"quick_gloss": "shakti-impelled+shankara"
 }
 ]
 },
@@ -146,7 +150,7 @@
 "tokens": [
 {
 "surface": "śaktiśca",
-"quick_gloss": "power"
+"quick_gloss": "power+and"
 },
 {
 "surface": "puruṣeṣvāktā",
@@ -158,11 +162,11 @@
 },
 {
 "surface": "sarva",
-"quick_gloss": "all-illuminating"
+"quick_gloss": "all"
 },
 {
 "surface": "prakāśinī",
-"quick_gloss": "prakāśinī"
+"quick_gloss": "illuminating"
 }
 ]
 },
@@ -174,7 +178,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "śiva",
+"surface": "śiva+jñānaṃ",
 "quick_gloss": "shiva-knowledge"
 },
 {
@@ -212,7 +216,7 @@
 },
 {
 "surface": "śrīsarvānandanāthaviracite",
-"quick_gloss": "shri-sarvanandanatha-composed"
+"quick_gloss": "shri-sarvananda-natha-composed"
 },
 {
 "surface": "sarvollāse",
@@ -220,7 +224,7 @@
 },
 {
 "surface": "ekapañcāśadullāsaḥ",
-"quick_gloss": "fifty-first-ullasa"
+"quick_gloss": "fifty-first-chapter"
 }
 ]
 },
@@ -237,10 +241,10 @@
 },
 {
 "surface": "bahujanmānte",
-"quick_gloss": "after-many-births"
+"quick_gloss": "after-many-births-end"
 },
 {
-"surface": "śakti",
+"surface": "śakti+jñānaṃ",
 "quick_gloss": "shakti-knowledge"
 },
 {
@@ -262,7 +266,7 @@
 },
 {
 "surface": "śaktirvāmā",
-"quick_gloss": "shakti-vama"
+"quick_gloss": "power-vama"
 },
 {
 "surface": "vijñeyā",
@@ -270,11 +274,11 @@
 },
 {
 "surface": "puruṣasyāpi",
-"quick_gloss": "of-purusha"
+"quick_gloss": "of-purusha-also"
 },
 {
 "surface": "muktidā",
-"quick_gloss": "liberating"
+"quick_gloss": "liberation-giving"
 }
 ]
 },
@@ -287,7 +291,7 @@
 "tokens": [
 {
 "surface": "dāyinī",
-"quick_gloss": "giving"
+"quick_gloss": "giving-fem"
 }
 ]
 },
@@ -308,7 +312,7 @@
 },
 {
 "surface": "tuṣṭā",
-"quick_gloss": "pleased"
+"quick_gloss": "satisfied"
 },
 {
 "surface": "cet",
@@ -324,7 +328,7 @@
 },
 {
 "surface": "tuṣṭitā",
-"quick_gloss": "pleased-ness"
+"quick_gloss": "satisfied"
 }
 ]
 },
@@ -370,7 +374,7 @@
 "tokens": [
 {
 "surface": "saiva",
-"quick_gloss": "she-indeed"
+"quick_gloss": "she-only"
 },
 {
 "surface": "sarveśvarī",
@@ -386,7 +390,7 @@
 },
 {
 "surface": "ca",
-"quick_gloss": "and"
+"quick_gloss": "also"
 },
 {
 "surface": "sarvo",
@@ -407,7 +411,7 @@
 "tokens": [
 {
 "surface": "kāryākāryaṃ",
-"quick_gloss": "doable-undoable"
+"quick_gloss": "action+non-action"
 },
 {
 "surface": "maheśāni",
@@ -419,7 +423,7 @@
 },
 {
 "surface": "eva",
-"quick_gloss": "indeed"
+"quick_gloss": "only"
 },
 {
 "surface": "na",
@@ -440,19 +444,23 @@
 "tokens": [
 {
 "surface": "kāryākāryaṃ",
-"quick_gloss": "doable-undoable"
+"quick_gloss": "action+non-action"
 },
 {
 "surface": "bhavet",
 "quick_gloss": "becomes"
 },
 {
-"surface": "śakternirliptaḥ",
+"surface": "śakter",
 "quick_gloss": "of-shakti"
 },
 {
+"surface": "nirliptaḥ",
+"quick_gloss": "unattached"
+},
+{
 "surface": "puruṣaḥ",
-"quick_gloss": "unattached-purusha"
+"quick_gloss": "purusha"
 },
 {
 "surface": "śive",
@@ -472,12 +480,16 @@
 "quick_gloss": "action"
 },
 {
-"surface": "śakterbhavet",
+"surface": "śakter",
 "quick_gloss": "of-shakti"
 },
 {
+"surface": "bhavet",
+"quick_gloss": "becomes"
+},
+{
 "surface": "kāryaṃ",
-"quick_gloss": "work"
+"quick_gloss": "action"
 },
 {
 "surface": "prāṇināṃ",
@@ -498,7 +510,7 @@
 "tokens": [
 {
 "surface": "athavāpi",
-"quick_gloss": "or-else"
+"quick_gloss": "or"
 },
 {
 "surface": "śivaṃ",
@@ -514,11 +526,11 @@
 },
 {
 "surface": "śakti",
-"quick_gloss": "shakti-seed"
+"quick_gloss": "shakti"
 },
 {
 "surface": "bījakam",
-"quick_gloss": "bījakam"
+"quick_gloss": "seed"
 }
 ]
 },
@@ -576,7 +588,7 @@
 },
 {
 "surface": "sadāśive",
-"quick_gloss": "in-sadashiva"
+"quick_gloss": "sadasiva"
 }
 ]
 },
@@ -630,7 +642,7 @@
 },
 {
 "surface": "naiva",
-"quick_gloss": "not-indeed"
+"quick_gloss": "not"
 },
 {
 "surface": "kartavyo",
@@ -658,16 +670,20 @@
 "quick_gloss": "own-vama"
 },
 {
-"surface": "toṣaṇārthe'pi",
+"surface": "toṣaṇārthe",
 "quick_gloss": "for-pleasing"
 },
 {
-"surface": "para",
+"surface": "pi",
 "quick_gloss": "even"
 },
 {
+"surface": "para",
+"quick_gloss": "other"
+},
+{
 "surface": "vāmāñca",
-"quick_gloss": "other-vama"
+"quick_gloss": "vama+and"
 },
 {
 "surface": "toṣayet",
@@ -692,7 +708,7 @@
 },
 {
 "surface": "vīrabhāva",
-"quick_gloss": "hero-bhava"
+"quick_gloss": "hero-state"
 },
 {
 "surface": "samāśritaḥ",
