@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p01-v1
-[bliss-deity-abode](ānaṃdadevatāsthānam) [in-this](asmin) [linga](liṃge) [great-lady](maheśvari)
+[bliss-deity-abode](ānaṃdadevatāsthānam)+[in-this](asmin) [linga](liṃge) [O-great-goddess](maheśvari)
 
 ## mukta-m0-p01-v2
 [when](yadā) [own-power-descent](svaśaktipātena) [awakened](prabuddhaḥ) [he](sa) [reflective](vimarśavān)
 
 ## mukta-m0-p01-v3
-[then](tadā) [he](sa) [teacher](deśikaḥ) [by-shiva-view](śaivyā) [by-sight](dṛṣṭyā) [of-him](tasya) [new-self](navātmanaḥ)
+[then](tadā) [he](sa) [teacher](deśikaḥ) [by-Śivā’s-gaze](śaivyā)+[by-gaze](dṛṣṭyā) [of-him](tasya) [new-self](navātmanaḥ)
 
 ## mukta-m0-p01-v4
-[other](anyadeva) [again](punarbhūyāt) [of-kaulika](kaulikasya) [great-soul](mahātmanaḥ)
+[other](anyadeva) [again](punarbhūyāt) [of-the-Kaula-great-soul](kaulikasya+mahātmanaḥ)
 
 ## mukta-m0-p01-v5
-[family](kulaṃ) [birth](jātiśca) [conduct](śīlaṃ) [also](cāpyaṣṭau) [bonds](pāśāḥ) [declared](prakīrtitāḥ)
+[family](kulaṃ) [birth](jātiśca) [character](śīlaṃ) [and](cāpyaṣṭau) [bonds](pāśāḥ) [declared](prakīrtitāḥ)
 
 ## mukta-m0-p01-v6
 [of-him](tasya) [devotee](bhaktasya) [whole](sakalaṃ) [body](vapuḥ) [good-field](sukṣetramucyate)
 
 ## mukta-m0-p01-v7
-[shakti](śāktiḥ) [by-power-unfolding](śaktyunmīlanena) [mantric](māṃtrī) [by-mantra-instruction](maṃtropadeśataḥ)
+[Śākti](śāktiḥ) [by-power-unfolding](śaktyunmīlanena) [mantric](māṃtrī) [by-mantra-instruction](maṃtropadeśataḥ)
 
 ## mukta-m0-p01-v8
 [by-these](etābhiḥ) [three](tisṛbhiścaiva) [initiations](dīkṣābhirdīkṣito) [man](naraḥ)
 
 ## mukta-m0-p01-v9
-[bodhi-linga-form](bodhaliṃgasvarūpo'sau) [becomes](jāyate) [by-vasana-exhaustion](vāsanākṣayāt)
+[awakening-linga-form](bodhaliṃgasvarūpo'sau) [becomes](jāyate) [by-vasanā-destruction](vāsanākṣayāt)
 
 ## mukta-m0-p01-v10
-[women-hated](stridviṣṭaṃ) [world-hated](lokavidviṣṭamālasyaṃ) [also](caiva) [fickleness](cāpalam)
+[women-hated](stridviṣṭaṃ) [world-hated](lokavidviṣṭamālasyaṃ) [and](caiva) [fickleness](cāpalam)
 
 ## mukta-m0-p01-v11
-[other-wife-touch](paradārāvamarśaṃ) [also](ca) [other-harm-thought](paradrohasya) [ciṃtanam]
+[other’s-wife-touch](paradārāvamarśaṃ) [and](ca) [other-harm-thought](paradrohasya+ciṃtanam)
 
 ## mukta-m0-p01-v12
-[excessive-harsh-conduct](atiniṣṭuraśīlatvamatidainyamatigrahaḥ)
+[excessive-harsh-character](atiniṣṭuraśīlatvamatidainyamatigrahaḥ)
 
 ## mukta-m0-p01-v13
-[etc](ityādayo) [great-faults](mahādoṣāḥ) [of-teacher](deśikasyaiva) [inspection](vīkṣaṇāt)
+[these-etc](ityādayo) [great-faults](mahādoṣāḥ) [of-the-teacher’s-vision](deśikasyaiva+vīkṣaṇāt)
 
 ## mukta-m0-p01-v14
-[arts](kalā) [knowledge](vidyā) [attachment](rāgaśca) [limitation](niyatiḥ) [time](kāla) [indeed](eva) [also](ca)
+[arts](kalā) [knowledge](vidyā) [attachment](rāgaśca) [limitation](niyatiḥ) [time](kāla) [indeed](eva) [and](ca)
 
 ## mukta-m0-p01-v15
-[by-these](etābhireva) [fierce](tīvrābhiḥ) [powers](śaktibhiḥ) [sheaths](kañcukāṭamabhiḥ)
+[by-these-very](etābhireva) [intense](tīvrābhiḥ) [powers](śaktibhiḥ) [armor-like](kañcukāṭamabhiḥ)
 
 ## mukta-m0-p01-v16
-[by-them](tābhirjjivatvamāpannaḥ) [like-samsarin](saṃsārīva) [struggles](viceṣṭate)
+[by-them](tābhirjjivatvamāpannaḥ) [like-saṃsārin](saṃsārīva) [struggles](viceṣṭate)
 
 ## mukta-m0-p01-v17
-[hither-thither](itastato) [taken](hṛtaṃ) [jiva](jīvaḥ) [by-himself](svayameva) [reflecting](svamāmṛśan)
+[hither-thither](itastato) [taken](hṛtaṃ) [jīva](jīvaḥ) [by-himself](svayameva) [reflecting](svamāmṛśan)
 
 ## mukta-m0-p01-v18
-[reflection](pratibimba) [not](na) [capacity](sāmarthyān) [in-dirty](maline) [mirror](darpaṇe) [as](yathā)
+[reflection](pratibimba) [not](na) [by-capacity](sāmarthyān) [in-dirty-mirror](maline+darpaṇe) [as](yathā)
 
 ## mukta-m0-p01-v19
-[therefore](tasmānmalapraṇāśena) [shiva-state-attainment-cause](śivatāpattikāraṇā)
+[therefore](tasmānmalapraṇāśena) [Śiva-state-attainment-cause](śivatāpattikāraṇā)
 
 ## mukta-m0-p01-v20
-[beginningless-ignorance-power](anādyavidyāvaśato) [impurity-mass](malarāśirmahān) [if](yadi)
+[beginningless-ignorance-power](anādyavidyāvaśato) [great-mass-of-impurity](malarāśirmahān) [if](yadi)
 
 ## mukta-m0-p01-v21
-[time-fire-koṭi-like-blazing](kālāgnikoṭivaddīptāṃ) [burning](dahaṃtīṃ) [bond](pāśamujvalām)
+[time-fire-million-blazing](kālāgnikoṭivaddīptāṃ) [burning](dahaṃtīṃ) [bond](pāśamujvalām)
 
 ## mukta-m0-p01-v22
-[own](nijāṃ) [power-mantra](śaktimanuṃ) [meditate](dhyāyed) [teacher-sight-purified](guruvīkṣaṇanirmalām)
+[own](nijāṃ) [power-mantra](śaktimanuṃ) [meditate](dhyāyed) [guru-vision-purified](guruvīkṣaṇanirmalām)
 
 ## mukta-m0-p01-v23
 [so-long](tāvad) [meditation](dhyānamidaṃ) [to-be-done](kāryaṃ) [all-impurity-destroying](sarvadurmalakartanam)
 
 ## mukta-m0-p01-v24
-[by-himself](svayameva) [shines](prakāśeta) [self](svātmā) [fortune-vessel](saubhāgyabhājanam)
+[by-itself](svayameva) [shines](prakāśeta) [self](svātmā) [fortune-vessel](saubhāgyabhājanam)
 
 ## mukta-m0-p01-v25
 [shines](bhāsate)
