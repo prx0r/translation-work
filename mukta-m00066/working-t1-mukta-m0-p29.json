@@ -8,19 +8,31 @@
 "tokens": [
 {
 "surface": "bahunā",
-"quick_gloss": "much"
+"quick_gloss": "by-much"
 },
 {
 "surface": "kim",
 "quick_gloss": "what"
 },
 {
-"surface": "ihoktena",
-"quick_gloss": "said-here"
+"surface": "iha",
+"quick_gloss": "here"
 },
 {
-"surface": "dvaumānasasamīraṇau",
-"quick_gloss": "two-mind-winds"
+"surface": "uktena",
+"quick_gloss": "by-said"
+},
+{
+"surface": "dvau",
+"quick_gloss": "two"
+},
+{
+"surface": "mānasa",
+"quick_gloss": "mind"
+},
+{
+"surface": "samīraṇau",
+"quick_gloss": "winds"
 }
 ]
 },
@@ -33,7 +45,7 @@
 "tokens": [
 {
 "surface": "tayoḥ",
-"quick_gloss": "their"
+"quick_gloss": "of-them"
 },
 {
 "surface": "saṃyojanaṃ",
@@ -74,7 +86,7 @@
 },
 {
 "surface": "mātrāṇāṃ",
-"quick_gloss": "measures"
+"quick_gloss": "matras"
 },
 {
 "surface": "pūrayen",
@@ -82,7 +94,7 @@
 },
 {
 "surface": "māruteśvaram",
-"quick_gloss": "wind-lord"
+"quick_gloss": "lord-of-wind"
 }
 ]
 },
@@ -95,11 +107,19 @@
 "tokens": [
 {
 "surface": "paṃcalaghvakṣaroccāra",
-"quick_gloss": "five-light-syllable"
+"quick_gloss": "five-light-syllable-utterance"
 },
 {
-"surface": "kālomātreti",
+"surface": "kālo",
 "quick_gloss": "time"
+},
+{
+"surface": "mātre",
+"quick_gloss": "matra"
+},
+{
+"surface": "iti",
+"quick_gloss": "thus"
 },
 {
 "surface": "kathyate",
@@ -119,12 +139,20 @@
 "quick_gloss": "inhalation"
 },
 {
-"surface": "kuṃbhakaścaiva",
+"surface": "kuṃbhakaḥ",
 "quick_gloss": "retention"
 },
 {
-"surface": "recakaśca",
+"surface": "ca",
+"quick_gloss": "also"
+},
+{
+"surface": "recakaḥ",
 "quick_gloss": "exhalation"
+},
+{
+"surface": "ca",
+"quick_gloss": "ca"
 },
 {
 "surface": "maheśvari",
@@ -140,8 +168,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "kākolakamukhaścava",
+"surface": "kākolakamukhaḥ",
 "quick_gloss": "crow-faced"
+},
+{
+"surface": "ca",
+"quick_gloss": "ca"
+},
+{
+"surface": "vā",
+"quick_gloss": "vā"
 },
 {
 "surface": "vāyupūraṇa",
@@ -149,7 +185,7 @@
 },
 {
 "surface": "bhadajāḥ",
-"quick_gloss": "blessed-born"
+"quick_gloss": "bhadajāḥ"
 }
 ]
 },
@@ -162,14 +198,18 @@
 "tokens": [
 {
 "surface": "yuktaṃ",
-"quick_gloss": "fitting"
+"quick_gloss": "fit"
 },
 {
 "surface": "yuktaṃ",
-"quick_gloss": "fitting"
+"quick_gloss": "fit"
 },
 {
 "surface": "ca",
+"quick_gloss": "ca"
+},
+{
+"surface": "gṛhṇīyā",
 "quick_gloss": "take"
 },
 {
@@ -177,8 +217,12 @@
 "quick_gloss": "god"
 },
 {
-"surface": "siddhimavāpnuyāt",
-"quick_gloss": "attain-success"
+"surface": "siddhim",
+"quick_gloss": "perfection"
+},
+{
+"surface": "avāpnuyāt",
+"quick_gloss": "obtain"
 }
 ]
 },
@@ -194,16 +238,32 @@
 "quick_gloss": "slowly"
 },
 {
-"surface": "punarmokṣaṇaṃ",
+"surface": "punar",
 "quick_gloss": "again"
+},
+{
+"surface": "mokṣaṇaṃ",
+"quick_gloss": "release"
+},
+{
+"surface": "syāt",
+"quick_gloss": "may-be"
+},
+{
+"surface": "yato",
+"quick_gloss": "whence"
 },
 {
 "surface": "vāyu",
 "quick_gloss": "wind"
 },
 {
-"surface": "jayobhavet",
+"surface": "jayo",
 "quick_gloss": "victory"
+},
+{
+"surface": "bhavet",
+"quick_gloss": "becomes"
 }
 ]
 },
@@ -224,11 +284,19 @@
 },
 {
 "surface": "ca",
+"quick_gloss": "ca"
+},
+{
+"surface": "vapuḥ",
 "quick_gloss": "body"
 },
 {
-"surface": "sukhakārīvaśīkṛtaḥ",
+"surface": "sukhakārī",
 "quick_gloss": "pleasure-causing"
+},
+{
+"surface": "vaśīkṛtaḥ",
+"quick_gloss": "subdued"
 }
 ]
 },
@@ -240,12 +308,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "sarveṣvapīhopāyeṣu",
+"surface": "sarveṣu",
 "quick_gloss": "in-all"
 },
 {
-"surface": "maruddhāraṇakarmaṇaḥ",
+"surface": "api",
+"quick_gloss": "api"
+},
+{
+"surface": "upāyeṣu",
 "quick_gloss": "means"
+},
+{
+"surface": "maruddhāraṇakarmaṇaḥ",
+"quick_gloss": "of-breath-control"
 }
 ]
 },
@@ -257,8 +333,24 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "dvāradṛṣṭirjjāgarīkavimarśaścāpi",
+"surface": "dvāradṛṣṭiḥ",
 "quick_gloss": "door-vision"
+},
+{
+"surface": "jāgarīka",
+"quick_gloss": "wakefulness"
+},
+{
+"surface": "vimarśaḥ",
+"quick_gloss": "reflection"
+},
+{
+"surface": "ca",
+"quick_gloss": "ca"
+},
+{
+"surface": "api",
+"quick_gloss": "api"
 },
 {
 "surface": "dhāvanam",
@@ -283,7 +375,7 @@
 },
 {
 "surface": "kuryāt",
-"quick_gloss": "do"
+"quick_gloss": "does"
 },
 {
 "surface": "tadā",
@@ -294,8 +386,12 @@
 "quick_gloss": "wind"
 },
 {
-"surface": "jayobhavet",
+"surface": "jayo",
 "quick_gloss": "victory"
+},
+{
+"surface": "bhavet",
+"quick_gloss": "becomes"
 }
 ]
 },
@@ -307,16 +403,28 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "tadācoratvamujjhitvā",
+"surface": "tadā",
 "quick_gloss": "then"
+},
+{
+"surface": "coratvam",
+"quick_gloss": "thievishness"
+},
+{
+"surface": "ujjhitvā",
+"quick_gloss": "abandoning"
 },
 {
 "surface": "pavanaḥ",
 "quick_gloss": "wind"
 },
 {
-"surface": "sakhyamīhate",
+"surface": "sakhyam",
 "quick_gloss": "friendship"
+},
+{
+"surface": "īhate",
+"quick_gloss": "seeks"
 }
 ]
 },
@@ -336,12 +444,20 @@
 "quick_gloss": "becomes"
 },
 {
-"surface": "jīvo'yaṃ",
-"quick_gloss": "soul"
+"surface": "jīvaḥ",
+"quick_gloss": "life"
 },
 {
-"surface": "gṛhamedhīcidaṃganaḥ",
-"quick_gloss": "householder-mind"
+"surface": "ayaṃ",
+"quick_gloss": "ayaṃ"
+},
+{
+"surface": "gṛhamedhī",
+"quick_gloss": "householder"
+},
+{
+"surface": "cidaṃganaḥ",
+"quick_gloss": "consciousness"
 }
 ]
 },
@@ -353,12 +469,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "hetvaṃtamīhate",
+"surface": "hetvaṃtam",
 "quick_gloss": "cause-end"
 },
 {
-"surface": "vāyurmitatvacchanna",
+"surface": "īhate",
+"quick_gloss": "seeks"
+},
+{
+"surface": "vāyur",
 "quick_gloss": "wind"
+},
+{
+"surface": "mitatvacchanna",
+"quick_gloss": "mitatvacchanna"
 },
 {
 "surface": "taskaraḥ",
@@ -378,16 +502,24 @@
 "quick_gloss": "hole"
 },
 {
-"surface": "prahārīhartuṃ",
-"quick_gloss": "striker-thief"
+"surface": "prahārī",
+"quick_gloss": "striker"
 },
 {
-"surface": "tadāyurvittaṃ",
+"surface": "hartuṃ",
+"quick_gloss": "to-steal"
+},
+{
+"surface": "tadā",
 "quick_gloss": "then"
 },
 {
+"surface": "āyurvittaṃ",
+"quick_gloss": "life-wealth"
+},
+{
 "surface": "samīhate",
-"quick_gloss": "desires"
+"quick_gloss": "seeks"
 }
 ]
 },
@@ -404,19 +536,27 @@
 },
 {
 "surface": "tu",
-"quick_gloss": "indeed"
+"quick_gloss": "tu"
 },
 {
 "surface": "bhaven",
+"quick_gloss": "becomes"
+},
+{
+"surface": "maitrī",
 "quick_gloss": "friendship"
 },
 {
 "surface": "yogināṃ",
-"quick_gloss": "of-yogis"
+"quick_gloss": "of-yogins"
 },
 {
-"surface": "dhīsamīrayoḥ",
-"quick_gloss": "mind-wind"
+"surface": "dhī",
+"quick_gloss": "of-intellect"
+},
+{
+"surface": "samīrayoḥ",
+"quick_gloss": "and-wind"
 }
 ]
 },
@@ -428,20 +568,24 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "ataścora",
+"surface": "ataḥ",
 "quick_gloss": "therefore"
 },
 {
-"surface": "samīroyaḥ",
+"surface": "coraḥ",
 "quick_gloss": "thief"
 },
 {
+"surface": "samīroyaḥ",
+"quick_gloss": "wind"
+},
+{
 "surface": "pratipālya",
-"quick_gloss": "guard"
+"quick_gloss": "to-be-guarded"
 },
 {
 "surface": "prayatnataḥ",
-"quick_gloss": "carefully"
+"quick_gloss": "with-effort"
 }
 ]
 },
@@ -453,16 +597,28 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "rakṣatī",
+"surface": "rakṣati",
 "quick_gloss": "protects"
 },
 {
-"surface": "va",
-"quick_gloss": "body-house"
+"surface": "iva",
+"quick_gloss": "iva"
 },
 {
-"surface": "kāpaṭyādvāyutaskaraḥ",
-"quick_gloss": "deceit"
+"surface": "vapuḥ",
+"quick_gloss": "body"
+},
+{
+"surface": "gehaṃ",
+"quick_gloss": "house"
+},
+{
+"surface": "kāpaṭyāt",
+"quick_gloss": "by-deceit"
+},
+{
+"surface": "vāyutaskaraḥ",
+"quick_gloss": "wind-thief"
 }
 ]
 },
@@ -478,12 +634,20 @@
 "quick_gloss": "mind"
 },
 {
-"surface": "pramādamālokya",
+"surface": "pramādam",
 "quick_gloss": "negligence"
 },
 {
-"surface": "kadācilluṃṭate",
+"surface": "ālokya",
+"quick_gloss": "seeing"
+},
+{
+"surface": "kadācit",
 "quick_gloss": "sometimes"
+},
+{
+"surface": "luṃṭate",
+"quick_gloss": "plunders"
 },
 {
 "surface": "dinam",
@@ -503,12 +667,20 @@
 "quick_gloss": "therefore"
 },
 {
-"surface": "prakṛti",
+"surface": "prakṛti coraḥ",
 "quick_gloss": "nature-thief"
 },
 {
-"surface": "samūlamavakṛṃtati",
-"quick_gloss": "root"
+"surface": "tu",
+"quick_gloss": "tu"
+},
+{
+"surface": "samūlam",
+"quick_gloss": "by-root"
+},
+{
+"surface": "avakṛṃtati",
+"quick_gloss": "cuts"
 }
 ]
 },
@@ -524,12 +696,20 @@
 "quick_gloss": "inner"
 },
 {
-"surface": "prakṛti",
+"surface": "prakṛti coraḥ",
 "quick_gloss": "nature-thief"
 },
 {
-"surface": "prakṛtīkāramarhati",
+"surface": "tu",
+"quick_gloss": "tu"
+},
+{
+"surface": "prakṛtīkāram",
 "quick_gloss": "nature-action"
+},
+{
+"surface": "arhati",
+"quick_gloss": "deserves"
 }
 ]
 },
@@ -549,8 +729,20 @@
 "quick_gloss": "he"
 },
 {
-"surface": "yatnādvāpya",
-"quick_gloss": "carefully"
+"surface": "yatnāt",
+"quick_gloss": "with-effort"
+},
+{
+"surface": "vā",
+"quick_gloss": "vā"
+},
+{
+"surface": "api",
+"quick_gloss": "api"
+},
+{
+"surface": "pekṣyevaparāṃgatim",
+"quick_gloss": "pekṣyevaparāṃgatim"
 }
 ]
 },
@@ -566,15 +758,23 @@
 "quick_gloss": "he"
 },
 {
-"surface": "coropi",
+"surface": "coraḥ",
 "quick_gloss": "thief"
 },
 {
-"surface": "samavekṣya",
-"quick_gloss": "observe"
+"surface": "api",
+"quick_gloss": "api"
 },
 {
-"surface": "pade",
+"surface": "dharttavyaḥ",
+"quick_gloss": "to-be-held"
+},
+{
+"surface": "samavekṣya",
+"quick_gloss": "observing"
+},
+{
+"surface": "pade pade",
 "quick_gloss": "step-by-step"
 }
 ]
@@ -599,7 +799,7 @@
 "quick_gloss": "then"
 },
 {
-"surface": "coro",
+"surface": "coraḥ",
 "quick_gloss": "thief"
 },
 {

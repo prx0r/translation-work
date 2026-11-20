@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p63-v1551
-[bīja-rūpam](bījarūpaṃ) [mahā-devam](mahādevaṃ) [sṛṣṭi-śakti](sṛṣṭiśakti) [svarūpa-kam](svarūpakam)
+seed-form great-god creation-power own-form
 
 ## mukta-m0-p63-v1552
-[prādurbhāvam](prādurbhāvaṃ) [tirobhāvam](tirobhāvaṃ) [parasparam](parasparam) [vivakṣitam](vivakṣitam)
+manifestation concealment mutual intended
 
 ## mukta-m0-p63-v1553
-[śaktiḥ](śaktistatra) [tatra](śaktistatra) [mahā-devi](mahādevi) [sūkṣma-rūpeṇa](sūkṣmarūpeṇa) [bhāṣitā](bhāṣitā)
+power there great-goddess subtle-form by spoken
 
 ## mukta-m0-p63-v1554
-[pañcadhā](pañcadhāpyekadhā) [api](pañcadhāpyekadhā) [ekadhā](pañcadhāpyekadhā) [yatra](yatra) [nānā-rūpavatī](nānārūpavatī) [śivā](śivā)
+fivefold-or-once where manifold-formed shiva
 
 ## mukta-m0-p63-v1555
-[avinābhāva](avinābhāva) [sambandham](sambandhaṃ) [dvayoḥ](dvayoreva) [eva](dvayoreva) [parasparam](parasparam)
+inseparability relation two-only mutual
 
 ## mukta-m0-p63-v1556
-[śaktyā](śaktyāktaśaṅkaram) [ākta](śaktyāktaśaṅkaram) [śaṅkaram](śaktyāktaśaṅkaram)
+power-impregnated shankara
 
 ## mukta-m0-p63-v1557
-[śaktiḥ](śaktiśca) [ca](śaktiśca) [puruṣeṣu](puruṣeṣvāktā) [āktā](puruṣeṣvāktā) [yadā](yadā) [sarva-prakāśinī](sarva prakāśinī)
+power-and in-men-impregnated when all illuminating
 
 ## mukta-m0-p63-v1558
-[śiva-jñānam](śiva jñānaṃ) [vinā](vinā) [kiñcit](kiñcit) [śakti-jñānam](śaktijñānaṃ) [na](na) [jāyate](jāyate)
+shiva knowledge without something power-knowledge not arises
 
 ## mukta-m0-p63-v1559
-[iti](iti) [śrī-sarvānanda-nātha-viracite](śrīsarvānandanāthaviracite) [sarvollāse](sarvollāse) [ekapañcāśad-ullāsaḥ](ekapañcāśadullāsaḥ)
+thus holy-sarvananda-natha-composed sarvollasa fifty-first-ullasa
 
 ## mukta-m0-p63-v1560
-[ataḥ](ataśca) [ca](ataśca) [bahu-janma-ante](bahujanmānte) [śakti-jñānam](śakti jñānaṃ) [prajāyate](prajāyate)
+therefore after-many-births end power knowledge arises
 
 ## mukta-m0-p63-v1561
-[sā](sā) [śaktiḥ](śaktirvāmā) [vāmā](śaktirvāmā) [vijñeyā](vijñeyā) [puruṣasya](puruṣasyāpi) [api](puruṣasyāpi) [mukti-dā](muktidā)
+that power vama to-be-known of-man also liberating
 
 ## mukta-m0-p63-v1562
-[dāyinī](dāyinī)
+giver
 
 ## mukta-m0-p63-v1563
-[vyaktā](vyaktā) [ramaṇa](ramaṇa) [tuṣṭā](tuṣṭā) [cet](cet) [guptā](guptā) [ramaṇa](ramaṇa) [tuṣṭitā](tuṣṭitā)
+manifest beloved pleased if hidden beloved pleased-ness
 
 ## mukta-m0-p63-v1564
-[ataḥ](atastebhyaḥ) [tebhyaḥ](atastebhyaḥ) [pradhānam](pradhānaṃ) [hi](hi) [śaktim](śaktiṃ) [viddhi](viddhi) [mahā-mate](mahāmate)
+therefore from-them principal indeed power know great-minded
 
 ## mukta-m0-p63-v1565
-[sā](saiva) [eva](saiva) [sarveśvarī](sarveśvarī) [devi](devi) [sa](sa) [ca](ca) [sarvaḥ](sarvo) [maheśvaraḥ](maheśvaraḥ)
+she-only all-lady goddess he-and all great-lord
 
 ## mukta-m0-p63-v1566
-[kārya-akāryam](kāryākāryaṃ) [maheśāni](maheśāni) [tasyāḥ](tasyā) [eva](eva) [na](na) [saṃśayaḥ](saṃśayaḥ)
+doable-undoable great-goddess her only no doubt
 
 ## mukta-m0-p63-v1567
-[kārya-akāryam](kāryākāryaṃ) [bhavet](bhavet) [śakteḥ](śakternirliptaḥ) [nirliptaḥ](śakternirliptaḥ) [puruṣaḥ](puruṣaḥ) [śive](śive)
+doable-undoable becomes power's unattached man in-shiva
 
 ## mukta-m0-p63-v1568
-[kriyā](kriyā) [śakteḥ](śakterbhavet) [bhavet](śakterbhavet) [kāryam](kāryaṃ) [prāṇinām](prāṇināṃ) [sarva-sādhane](sarvasādhane)
+action of-power becomes task of-beings all-accomplishment
 
 ## mukta-m0-p63-v1569
-[athavā](athavāpi) [api](athavāpi) [śivam](śivaṃ) [jñeyam](jñeyaṃ) [dehinam](dehinaṃ) [śakti-bījakam](śakti bījakam)
+or-also shiva to-be-known embodied power seed
 
 ## mukta-m0-p63-v1570
-[vāmā-jñānam](vāmājñānaṃ) [maheśāni](maheśāni) [sthūla-sūkṣma-pramāṇakam](sthūla sūkṣma pramāṇakam)
+vama-knowledge great-goddess gross subtle measure
 
 ## mukta-m0-p63-v1571
-[abhāve](abhāve) [svastriyam](svastriyaṃ) [devi](devi) [katham](kathamuktaṃ) [uktaṃ](kathamuktaṃ) [sadāśive](sadāśive)
+absence own-woman goddess how-said in-sadashiva
 
 ## mukta-m0-p63-v1572
-[brahma-dattāgninā](brahma dattāgninā) [hutvā](hutvā) [śiva-dattā](śiva dattā) [tu](tu) [kāmataḥ](kāmataḥ)
+brahma given-fire by-offering shiva given but by-desire
 
 ## mukta-m0-p63-v1573
-[sandehaḥ](sandeho) [na](naiva) [eva](naiva) [kartavyaḥ](kartavyo) [mama](mama) [vākya-anusārataḥ](vākyānusārataḥ)
+doubt not-at-all to-be-done my statement-according-to
 
 ## mukta-m0-p63-v1574
-[sva-vāmā](svavāmā) [toṣaṇārthe](toṣaṇārthe'pi) [api](toṣaṇārthe'pi) [para-vāmām](para vāmāñca) [ca](para vāmāñca) [toṣayet](toṣayet)
+own-vama for-pleasing even other vama-and please
 
 ## mukta-m0-p63-v1575
-[toṣayet](toṣayet) [parameśāni](parameśāni) [vīra-bhāva-samāśritaḥ](vīrabhāva samāśritaḥ)
+please supreme-goddess hero-state resorting
