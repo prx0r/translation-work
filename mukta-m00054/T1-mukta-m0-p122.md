@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p122-v3026
-[pada](bhikṣavenamaḥ) [pada](bhikṣurūpāyanamaḥ) [pada](vipaṇāyanamaḥ)
+[salutation-to-beggar](bhikṣavenamaḥ) [salutation-to-beggar-form](bhikṣurūpāyanamaḥ) [salutation-to-market](vipaṇāyanamaḥ)
 
 ## mukta-m0-p122-v3027
-[pada](vajrahastāyanamaḥ) [pada](viṣkambhinenamaḥ)
+[salutation-to-vajra-hand](vajrahastāyanamaḥ) [salutation-to-viṣkambhin](viṣkambhinenamaḥ)
 
 ## mukta-m0-p122-v3028
-[pada](camūstambhanāyanamaḥ) [pada](vṛttāvṛttakarāyanamaḥ)
+[salutation-to-army-stopping](camūstambhanāyanamaḥ) [salutation-to-round-and-nonround-maker](vṛttāvṛttakarāyanamaḥ)
 
 ## mukta-m0-p122-v3029
-[pada](tālāyanamaḥ) [pada](madhavenamaḥ) [pada](madhukalocanāyanamaḥ)
+[salutation-to-palm](tālāyanamaḥ) [salutation-to-madhava](madhavenamaḥ) [salutation-to-sweet-eyed](madhukalocanāyanamaḥ)
 
 ## mukta-m0-p122-v3030
-[pada](vācaspatyāyanamaḥ) [pada](vājasanāyanamaḥ)
+[salutation-to-vācaspati](vācaspatyāyanamaḥ) [salutation-to-vājasana](vājasanāyanamaḥ)
 
 ## mukta-m0-p122-v3031
-[pada](āśramapūjitāyanamaḥ) [pada](brahmacāriṇenamaḥ)
+[salutation-to-hermitage-honored](āśramapūjitāyanamaḥ) [salutation-to-brahmacārin](brahmacāriṇenamaḥ)
 
 ## mukta-m0-p122-v3032
-[pada](lokacāriṇenamaḥ) [pada](sarvacāriṇenamaḥ) [pada](vicāravidenamaḥ)
+[salutation-to-world-wanderer](lokacāriṇenamaḥ) [salutation-to-all-wanderer](sarvacāriṇenamaḥ) [salutation-to-inquiry-knower](vicāravidenamaḥ)
 
 ## mukta-m0-p122-v3033
-[pada](īśānāyanamaḥ) [pada](īśvarāyanamaḥ) [pada](kālāyanamaḥ)
+[salutation-to-īśāna](īśānāyanamaḥ) [salutation-to-īśvara](īśvarāyanamaḥ) [salutation-to-time](kālāyanamaḥ)
 
 ## mukta-m0-p122-v3034
-[pada](niśācāriṇenamaḥ) [pada](pinākadhṛṣenamaḥ) [pada](nimittasthāyanamaḥ)
+[salutation-to-night-wanderer](niśācāriṇenamaḥ) [salutation-to-pināka-holder](pinākadhṛṣenamaḥ) [salutation-to-sign-stander](nimittasthāyanamaḥ)
 
 ## mukta-m0-p122-v3035
-[pada](nimittāyanamaḥ) [pada](nandayenamaḥ) [pada](nandikarāyanamaḥ)
+[salutation-to-sign](nimittāyanamaḥ) [salutation-to-delighter](nandayenamaḥ) [salutation-to-nandikara](nandikarāyanamaḥ)
 
 ## mukta-m0-p122-v3036
-[pada](harayenamaḥ) [pada](nandīśvarāyanamaḥ) [pada](nandinenamaḥ)
+[salutation-to-hari](harayenamaḥ) [salutation-to-nandīśvara](nandīśvarāyanamaḥ) [salutation-to-nandin](nandinenamaḥ)
 
 ## mukta-m0-p122-v3037
-[pada](nihantrenamaḥ) [pada](kālāyanamaḥ) [pada](brahmaṇenamaḥ)
+[salutation-to-slayer](nihantrenamaḥ) [salutation-to-time](kālāyanamaḥ) [salutation-to-brahman](brahmaṇenamaḥ)
 
 ## mukta-m0-p122-v3038
-[pada](pitāmahāyanamaḥ) [pada](caturmmukhāyanamaḥ)
+[salutation-to-grandfather](pitāmahāyanamaḥ) [salutation-to-four-faced](caturmmukhāyanamaḥ)
 
 ## mukta-m0-p122-v3039
-[pada](mahāliṅgāyanamaḥ) [pada](cāruliṅgāyanamaḥ)
+[salutation-to-great-liṅga](mahāliṅgāyanamaḥ) [salutation-to-beautiful-liṅga](cāruliṅgāyanamaḥ)
 
 ## mukta-m0-p122-v3040
-[pada](liṅgādhyakṣāyanamaḥ) [pada](surādhyakṣāyanamaḥ)
+[salutation-to-liṅga-superintendent](liṅgādhyakṣāyanamaḥ) [salutation-to-god-superintendent](surādhyakṣāyanamaḥ)
 
 ## mukta-m0-p122-v3041
-[pada](yogādhyakṣāyanamaḥ) [pada](yugāvahāyanamaḥ)
+[salutation-to-yoga-superintendent](yogādhyakṣāyanamaḥ) [salutation-to-yuga-bearer](yugāvahāyanamaḥ)
 
 ## mukta-m0-p122-v3042
-[pada](bījādhyakṣāyanamaḥ) [pada](bījakarttrenamaḥ)
+[salutation-to-seed-superintendent](bījādhyakṣāyanamaḥ) [salutation-to-seed-maker](bījakarttrenamaḥ)
 
 ## mukta-m0-p122-v3043
-[pada](adhyātmānugatāyanamaḥ) [pada](balāyanamaḥ) [pada](itihāsāyanamaḥ)
+[salutation-to-self-pervading](adhyātmānugatāyanamaḥ) [salutation-to-strength](balāyanamaḥ) [salutation-to-itihasa](itihāsāyanamaḥ)
 
 ## mukta-m0-p122-v3044
-[pada](vaśyāyanamaḥ) [pada](vaśakarāyanamaḥ) [pada](kalayenamaḥ)
+[salutation-to-subduing](vaśyāyanamaḥ) [salutation-to-subduer](vaśakarāyanamaḥ) [salutation-to-kala](kalayenamaḥ)
 
 ## mukta-m0-p122-v3045
-[pada](lokakarttrenamaḥ) [pada](paśupatayenamaḥ) [pada](mahākarttrenamaḥ)
+[salutation-to-world-maker](lokakarttrenamaḥ) [salutation-to-paśupati](paśupatayenamaḥ) [salutation-to-great-maker](mahākarttrenamaḥ)
 
 ## mukta-m0-p122-v3046
-[pada](anauṣadhāyanamaḥ) [pada](akṣarāyanamaḥ) [pada](paramabrahmaṇenamaḥ)
+[salutation-to-without-medicine](anauṣadhāyanamaḥ) [salutation-to-imperishable](akṣarāyanamaḥ) [salutation-to-supreme-brahman](paramabrahmaṇenamaḥ)
 
 ## mukta-m0-p122-v3047
-[pada](balavatenamaḥ) [pada](śakrāyanamaḥ) [pada](nītayenamaḥ)
+[salutation-to-strong](balavatenamaḥ) [salutation-to-śakra](śakrāyanamaḥ) [salutation-to-policy](nītayenamaḥ)
 
 ## mukta-m0-p122-v3048
-[pada](anītayenamaḥ) [pada](śuddhātmanenamaḥ) [pada](śuddhāyanamaḥ)
+[salutation-to-without-policy](anītayenamaḥ) [salutation-to-pure-soul](śuddhātmanenamaḥ) [salutation-to-pure](śuddhāyanamaḥ)
 
 ## mukta-m0-p122-v3049
-[pada](mānyāyanamaḥ) [pada](gatāgatāyanamaḥ) [pada](bahuprasādāyanamaḥ)
+[salutation-to-honorable](mānyāyanamaḥ) [salutation-to-going-and-coming](gatāgatāyanamaḥ) [salutation-to-much-grace](bahuprasādāyanamaḥ)
 
 ## mukta-m0-p122-v3050
-[pada](vedakārāyanamaḥ) [pada](mantrakārāyanamaḥ) [pada](viduṣenamaḥ)
+[salutation-to-veda-maker](vedakārāyanamaḥ) [salutation-to-mantra-maker](mantrakārāyanamaḥ) [salutation-to-learned](viduṣenamaḥ)

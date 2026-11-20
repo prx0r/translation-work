@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p10-v226
-[prāvrājya-etc](prāvrājyānnaśyate) [pūrvaṃ](pūrvaṃ) [strīyogāt](strīyogādaparaṃ) [tathā](tathā)
+[gloss](prāvrājyānnaśyate) [gloss](pūrvaṃ) [gloss](strīyogādaparaṃ) [gloss](tathā)
 
 ## mukta-m0-p10-v227
-[trikarṇotthāḥ](trikarṇotthāstrikarṇāśca) [trikapānātma](trikapānātma) [karṇakā](karṇakā)
+[gloss](trikarṇotthāstrikarṇāśca) [gloss](trikapānātma) [gloss](karṇakā)
 
 ## mukta-m0-p10-v228
-[bhasmāṅkuraḥ](bhasmāṅkurastu) [katthosthaḥ](katthosthastatsutāḥ) [kauśikādayaḥ](kauśikādayaḥ)
+[gloss](bhasmāṅkurastu) [gloss](katthosthastatsutāḥ) [gloss](kauśikādayaḥ)
 
 ## mukta-m0-p10-v229
-[rāṣṭrakṣayakarāḥ](rāṣṭrakṣayakarā) [hyete](hyete) [ye](ye) [ca](ca) [paṣāṇḍinaḥ](paṣāṇḍino) [narāḥ](narāḥ)
+[gloss](rāṣṭrakṣayakarā) [gloss](hyete) [gloss](ye) [gloss](ca) [gloss](paṣāṇḍino) [gloss](narāḥ)
 
 ## mukta-m0-p10-v230
-[śāstrāvalokanāt](śāstrāvalokanādeva) [caṇḍeśaḥ](caṇḍeśastasya) [śāsakaḥ](śāsakaḥ)
+[gloss](śāstrāvalokanādeva) [gloss](caṇḍeśastasya) [gloss](śāsakaḥ)
 
 ## mukta-m0-p10-v231
-[sa](sa) [yāti](yāti) [narakaṃ](narakaṃ) [sadyo](sadyo) [yājñikaiḥ](yājñikaiḥ) [saha](saha) [daiśikaḥ](daiśikaḥ)
+[gloss](sa) [gloss](yāti) [gloss](narakaṃ) [gloss](sadyo) [gloss](yājñikaiḥ) [gloss](saha) [gloss](daiśikaḥ)
 
 ## mukta-m0-p10-v232
-[teṣām](teṣāmācaraṇānnityamācārya) [iti](iti) [kīrtyate](kīrtyate)
+[gloss](teṣāmācaraṇānnityamācārya) [gloss](iti) [gloss](kīrtyate)
 
 ## mukta-m0-p10-v233
-[tasmāt](tasmānna) [na](na) [mānavīṃ](mānavīṃ) [buddhiṃ](buddhiṃ) [kārayet](kārayeddaiśikaṃ) [prati](prati)
+[gloss](tasmānna) [gloss](mānavīṃ) [gloss](buddhiṃ) [gloss](kārayeddaiśikaṃ) [gloss](prati)
 
 ## mukta-m0-p10-v234
-[pañcavaktrāṇi](pañcavaktrāṇi) [devasya](devasya) [pañcāgamavivṛddhaye](pañcāgamavivṛddhaye)
+[gloss](pañcavaktrāṇi) [gloss](devasya) [gloss](pañcāgamavivṛddhaye)
 
 ## mukta-m0-p10-v235
-[dīptaṃ](dīptaṃ) [sūkṣmaṃ](sūkṣmaṃ) [ca](ca) [sāhasram](sāhasramaṃśuma) [tsuprabhaṃ](tsuprabhaṃ) [daśa](daśa)
+[gloss](dīptaṃ) [gloss](sūkṣmaṃ) [gloss](ca) [gloss](sāhasramaṃśuma) [gloss](tsuprabhaṃ) [gloss](daśa)
 
 ## mukta-m0-p10-v236
-[vijayaṃ](vijayaṃ) [pāramaiśvaryaṃ](pāramaiśvaryaṃ) [niśvāsodgītasaṃjñakam](niśvāsodgītasaṃjñakam)
+[gloss](vijayaṃ) [gloss](pāramaiśvaryaṃ) [gloss](niśvāsodgītasaṃjñakam)
 
 ## mukta-m0-p10-v237
-[narasiṃhaṃ](narasiṃhaṃ) [candrahāsaṃ](candrahāsaṃ) [vīraṃ](vīraṃ) [svāyambhurauravam](svāyambhurauravam)
+[gloss](narasiṃhaṃ) [gloss](candrahāsaṃ) [gloss](vīraṃ) [gloss](svāyambhurauravam)
 
 ## mukta-m0-p10-v238
-[rudrabhedāḥ](rudrabhedāḥ) [samākhyātāḥ](samākhyātā) [daśāṣṭādaśa](daśāṣṭādaśa) [cordhvagāḥ](cordhvagāḥ)
+[gloss](rudrabhedāḥ) [gloss](samākhyātā) [gloss](daśāṣṭādaśa) [gloss](cordhvagāḥ)
 
 ## mukta-m0-p10-v239
-[pañcabhūta](pañcabhūta) [vibhāgaṃ](vibhāgaṃ) [ca](ca) [śūnyabheda](śūnyabheda) [vinirṇayam](vinirṇayam)
+[gloss](pañcabhūta) [gloss](vibhāgaṃ) [gloss](ca) [gloss](śūnyabheda) [gloss](vinirṇayam)
 
 ## mukta-m0-p10-v240
-[kambojaṃ](kambojaṃ) [kambalaṃ](kambalaṃ) [kaṅkaṃ](kaṅkaṃ) [kālakuṇḍaṃ](kālakuṇḍaṃ) [kaṭāhakam](kaṭāhakam)
+[gloss](kambojaṃ) [gloss](kambalaṃ) [gloss](kaṅkaṃ) [gloss](kālakuṇḍaṃ) [gloss](kaṭāhakam)
 
 ## mukta-m0-p10-v241
-[gāruḍasya](gāruḍasya) [tvime](tvime) [bhedāḥ](bhedā) [aṣṭāviṃśatirīritāḥ](aṣṭāviṃśatirīritāḥ)
+[gloss](gāruḍasya) [gloss](tvime) [gloss](bhedā) [gloss](aṣṭāviṃśatirīritāḥ)
 
 ## mukta-m0-p10-v242
-[asitāṅgaṃ](asitāṅgaṃ) [ruruṃ](ruruṃ) [caiva](caiva) [kapālīśaṃ](kapālīśaṃ) [samuccayam](samuccayam)
+[gloss](asitāṅgaṃ) [gloss](ruruṃ) [gloss](caiva) [gloss](kapālīśaṃ) [gloss](samuccayam)
 
 ## mukta-m0-p10-v243
-[bhīmāṅgaṃ](bhīmāṅgaṃ) [ḍāmarārāvaṃ](ḍāmarārāvaṃ) [bhīmaṃ](bhīmaṃ) [vetālamardakam](vetālamardakam)
+[gloss](bhīmāṅgaṃ) [gloss](ḍāmarārāvaṃ) [gloss](bhīmaṃ) [gloss](vetālamardakam)
 
 ## mukta-m0-p10-v244
-[triśiraṃ](triśiraṃ) [caikapādaṃ](caikapādaṃ) [tu](tu) [siddhayogeśvarīmatam](siddhayogeśvarīmatam)
+[gloss](triśiraṃ) [gloss](caikapādaṃ) [gloss](tu) [gloss](siddhayogeśvarīmatam)
 
 ## mukta-m0-p10-v245
-[viśvarikaṇṭha](viśvarikaṇṭha) [saṅkocaṃ](saṅkocaṃ) [tilakodyānabhairavam](tilakodyānabhairavam)
+[gloss](viśvarikaṇṭha) [gloss](saṅkocaṃ) [gloss](tilakodyānabhairavam)
 
 ## mukta-m0-p10-v246
-[catuḥ](catuḥ) [ṣaṣṭipramāṇāni](ṣaṣṭipramāṇāni) [dakṣiṇāsyādbhavāni](dakṣiṇāsyādbhavāni) [ca](ca)
+[gloss](catuḥ) [gloss](ṣaṣṭipramāṇāni) [gloss](dakṣiṇāsyādbhavāni) [gloss](ca)
 
 ## mukta-m0-p10-v247
-[karapūjāvidhānaṃ](karapūjāvidhānaṃ) [tu](tu) [vīṇātantraṃ](vīṇātantraṃ) [taduttaram](taduttaram)
+[gloss](karapūjāvidhānaṃ) [gloss](tu) [gloss](vīṇātantraṃ) [gloss](taduttaram)
 
 ## mukta-m0-p10-v248
-[siddhanityodayaṃ](siddhanityodayaṃ) [jyeṣṭhaṃ](jyeṣṭhaṃ) [cintāmaṇimahodayam](cintāmaṇimahodayam)
+[gloss](siddhanityodayaṃ) [gloss](jyeṣṭhaṃ) [gloss](cintāmaṇimahodayam)
 
 ## mukta-m0-p10-v249
-[ānandarudrabhadrākhyaṃ](ānandarudrabhadrākhyaṃ) [kiṅkaraṃ](kiṅkaraṃ) [kiṅkarānugam](kiṅkarānugam)
+[gloss](ānandarudrabhadrākhyaṃ) [gloss](kiṅkaraṃ) [gloss](kiṅkarānugam)
 
 ## mukta-m0-p10-v250
-[vāmadaṃ](vāmadaṃ) [vāmadevoktaṃ](vāmadevoktaṃ) [caturviṃśatibhedagam](caturviṃśatibhedagam)
+[gloss](vāmadaṃ) [gloss](vāmadevoktaṃ) [gloss](caturviṃśatibhedagam)
