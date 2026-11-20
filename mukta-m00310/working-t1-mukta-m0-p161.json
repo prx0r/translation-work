@@ -46,7 +46,7 @@
 },
 {
 "surface": "romarājībhujaṅgakā",
-"quick_gloss": "body-hair-line-serpent-like"
+"quick_gloss": "hair-line-serpent-like"
 }
 ]
 },
@@ -59,7 +59,7 @@
 "tokens": [
 {
 "surface": "raṇatkāñcīguṇonnaddhā",
-"quick_gloss": "jingling-girdle-cord-tightened"
+"quick_gloss": "jingling-girdle-cord-bound"
 },
 {
 "surface": "paṭṭāṃśukasunīvikā",
@@ -76,7 +76,7 @@
 "tokens": [
 {
 "surface": "sujānumandarāsaktalasajjaṅghādvayānvitā",
-"quick_gloss": "beautiful-knee-mandara-attached-shining-shin-pair-endowed"
+"quick_gloss": "beautiful-knee-mandara-attached-shining-shank-pair-endowed"
 }
 ]
 },
@@ -93,7 +93,7 @@
 },
 {
 "surface": "sudhāmā'mṛtasāriṇī",
-"quick_gloss": "nectar-ambrosia-flowing"
+"quick_gloss": "nectar-immortal-flowing"
 }
 ]
 },
@@ -105,16 +105,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "sādhusiddhā subuddhā",
-"quick_gloss": "good-siddha-good-buddha"
+"surface": "sādhusiddhā",
+"quick_gloss": "good-saint-accomplished"
 },
 {
-"surface": "cāyudhā ca",
-"quick_gloss": "and-weaponed"
+"surface": "subuddhā",
+"quick_gloss": "well-awakened"
 },
 {
-"surface": "budhā vṛndārakodayā",
-"quick_gloss": "wise-god-host-rising"
+"surface": "ca",
+"quick_gloss": "and-wise"
+},
+{
+"surface": "budhā",
+"quick_gloss": "divine-host-rising"
 }
 ]
 },
@@ -131,7 +135,7 @@
 },
 {
 "surface": "rasasārasā",
-"quick_gloss": "rasa-essence-flowing"
+"quick_gloss": "essence-of-rasa"
 }
 ]
 },
@@ -144,15 +148,15 @@
 "tokens": [
 {
 "surface": "naṭarājapriyā",
-"quick_gloss": "dance-king-beloved"
+"quick_gloss": "dance-lord-beloved"
 },
 {
 "surface": "viśvanāṭyā",
-"quick_gloss": "world-dance"
+"quick_gloss": "universal-dance"
 },
 {
 "surface": "nartakanartakī",
-"quick_gloss": "dancer-dancing"
+"quick_gloss": "dancer-of-dancers"
 }
 ]
 },
@@ -169,15 +173,15 @@
 },
 {
 "surface": "kūṭasthā",
-"quick_gloss": "abiding"
+"quick_gloss": "abiding-in-peak"
 },
 {
 "surface": "pañcakūṭā",
 "quick_gloss": "five-peaked"
 },
 {
-"surface": "pañcamī",
-"quick_gloss": "fifth"
+"surface": "ca",
+"quick_gloss": "and-fifth"
 }
 ]
 },
@@ -190,11 +194,15 @@
 "tokens": [
 {
 "surface": "kūṭaṣoḍaśasaṃpannā",
-"quick_gloss": "sixteen-syllable-accomplished"
+"quick_gloss": "sixteen-syllable-endowed"
 },
 {
-"surface": "turīyā paramākalā",
-"quick_gloss": "fourth-supreme-art"
+"surface": "turīyā",
+"quick_gloss": "fourth"
+},
+{
+"surface": "paramākalā",
+"quick_gloss": "supreme-art"
 }
 ]
 },
@@ -211,7 +219,11 @@
 },
 {
 "surface": "trivarṇā",
-"quick_gloss": "three-colors"
+"quick_gloss": "three-colored"
+},
+{
+"surface": "ca",
+"quick_gloss": "and"
 },
 {
 "surface": "bindunādasvarūpiṇī",
@@ -228,7 +240,7 @@
 "tokens": [
 {
 "surface": "caitanyavallī",
-"quick_gloss": "consciousness-vine"
+"quick_gloss": "consciousness-creeper"
 },
 {
 "surface": "kūṭātmā",
@@ -253,7 +265,7 @@
 "tokens": [
 {
 "surface": "svapnāśrayā",
-"quick_gloss": "dream-support"
+"quick_gloss": "dream-refuge"
 },
 {
 "surface": "suṣuptiśca",
@@ -261,7 +273,11 @@
 },
 {
 "surface": "tandrāmuktā",
-"quick_gloss": "drowsiness-freed"
+"quick_gloss": "drowsiness-released"
+},
+{
+"surface": "ca",
+"quick_gloss": "and"
 },
 {
 "surface": "mādhavī",
@@ -286,7 +302,7 @@
 },
 {
 "surface": "bhāsvadvidyotamālinī",
-"quick_gloss": "shining-garland-radiant"
+"quick_gloss": "shining-garlanded"
 }
 ]
 },
@@ -299,7 +315,7 @@
 "tokens": [
 {
 "surface": "sādhakendragatiḥ",
-"quick_gloss": "sadhaka-lord-gait"
+"quick_gloss": "sadhaka-lord-course"
 },
 {
 "surface": "sādhvī",
@@ -324,11 +340,19 @@
 "tokens": [
 {
 "surface": "puṣṭirvighnaharī",
-"quick_gloss": "nourishment-obstacle-remover"
+"quick_gloss": "nourishment"
+},
+{
+"surface": "vighnaharī",
+"quick_gloss": "obstacle-remover"
 },
 {
 "surface": "bhūtirviguṇā",
 "quick_gloss": "prosperity"
+},
+{
+"surface": "viguṇā",
+"quick_gloss": "faultless"
 },
 {
 "surface": "pūjyakāmadhuk",
@@ -379,6 +403,10 @@
 {
 "surface": "suśroṇirmadamantharā",
 "quick_gloss": "beautiful-hips"
+},
+{
+"surface": "madamantharā",
+"quick_gloss": "love-slowing"
 }
 ]
 },
@@ -395,7 +423,11 @@
 },
 {
 "surface": "śikāśikhaṇḍinyatisundarī",
-"quick_gloss": "crest-crest-marked-very-beautiful"
+"quick_gloss": "crest-crest-marked"
+},
+{
+"surface": "atisundarī",
+"quick_gloss": "very-beautiful"
 }
 ]
 },
@@ -420,7 +452,11 @@
 },
 {
 "surface": "kamanīyārthakāmadā",
-"quick_gloss": "lovely-object-desire-giving"
+"quick_gloss": "lovely"
+},
+{
+"surface": "arthakāmadā",
+"quick_gloss": "meaning-desire-giving"
 }
 ]
 },
@@ -438,6 +474,10 @@
 {
 "surface": "lokaśrīrgolokaparipālikā",
 "quick_gloss": "world-splendor"
+},
+{
+"surface": "golokaparipālikā",
+"quick_gloss": "goloka-protectress"
 }
 ]
 },
@@ -458,7 +498,11 @@
 },
 {
 "surface": "sudhādhārā'mbuvikṣatiḥ",
-"quick_gloss": "nectar-stream-water-seeing"
+"quick_gloss": "nectar-stream"
+},
+{
+"surface": "ambuvikṣatiḥ",
+"quick_gloss": "water-piercing"
 }
 ]
 },
@@ -504,7 +548,7 @@
 },
 {
 "surface": "stanavatsalā",
-"quick_gloss": "breast-loving"
+"quick_gloss": "breast-affectionate"
 }
 ]
 }
