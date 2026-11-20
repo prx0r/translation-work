@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p46-v1126
-by-hero (vīreṇa) in-them (tāsu) to-be-done (karttavyo) cause (hetuḥ) cause-coloring-causes (heturaṃjanahetavaḥ)
+by-the-hero in-them to-be-done cause collyrium-causes
 
 ## mukta-m0-p46-v1127
-by-teaching (ācāryamāṇaiḥ) who (yaḥ) of-women (strīṇām) not-other-refuge (ananyaśaraṇam) mind (manaḥ)
+by-teaching women's not-other-refuge mind
 
 ## mukta-m0-p46-v1128
-in-slips (skhalaneṣu) patience (titikṣā) and (ca) of-fault (doṣasya) re-examination (punarīkṣaṇam)
+in-slips patience and of-fault re-examination
 
 ## mukta-m0-p46-v1129
-punishment-policy (daṇḍanītiḥ) but (tu) in-women (strīṣu) to-ruin (prapātayitum) not (na) is-fit (arhati)
+policy-not indeed in-women to-ruin not-deserves
 
 ## mukta-m0-p46-v1130
-see (paśya) boldness (sāhasa) of-these (etāsām) gone-to-heaven (svargate) own-husband (nijabharttari)
+see-violence-with-them heaven-gone own-husband
 
 ## mukta-m0-p46-v1131
-grief-beating-harshnesses (khedatāḍanapāruṣyaiḥ) release (muñcanti) indeed (eva) own-life (svajīvitam)
+grief-beating-harshnesses releasing-indeed own-life
 
 ## mukta-m0-p46-v1132
-therefore (ataḥ) and (ca) gentleness (mārdavam) in-them (tāsu) first (prathamam) mind-coloring (cittaraṃjanam)
+therefore gentleness-in-them first mind-pleasing
 
 ## mukta-m0-p46-v1133
-extreme (atyaṃtam) growth (abhivṛddhim) and (ca) leads (nayet) if (cet) in-them (tāsu) accomplisher (sādhakaḥ)
+extreme-growth and leading-in-them-accomplisher
 
 ## mukta-m0-p46-v1134
-by-middle (madhyamena) manner (prakāreṇa) seeing (darśanam) should-indicate (pradiśet) wise (budhaḥ)
+by-middle manner seeing advised-wise
 
 ## mukta-m0-p46-v1135
-attached (raktaḥ) other-becoming (parebhavam) goes (yāti) humiliated (paribhūtaḥ) how (katham) dear (priye)
+attached goes-to-other-becoming despised how beloved
 
 ## mukta-m0-p46-v1136
-in-desiring (vṛṣasyantīṣu) in-them (tāsu) mother (amba) not (na) indeed (vai) chief (mukhyam) and (ca) should-graze (cārayet)
+in-bull-desiring them mother not indeed chief and should-make-roam
 
 ## mukta-m0-p46-v1137
-morsels (grāsān) also (api) and (ca) garments (vāsāṃsi) according (yathā) ability (śakti) should-offer (nivedayet)
+morsels-also and garments as ability should-offer
 
 ## mukta-m0-p46-v1138
-therefore (tasmāt) hero-people-dependent (vīrajanādhīnā) messenger (dūtikā) nature (prakṛtiḥ) O-Śiva (śive)
+therefore hero-people-dependent messenger nature auspicious
 
 ## mukta-m0-p46-v1139
-of-couple (daṃpatyoḥ) union (ghaṭanam) should-say (brūyat) human-aim-one-cause (puruṣārthaikakāraṇam)
+of-couple-union should-say human-aim-single-cause
 
 ## mukta-m0-p46-v1140
-mutual (anyonya) by-affection (anurāgeṇa) great (mahat) happiness (saukhyam) arises (prajāyate)
+mutual-affection great-happiness arises
 
 ## mukta-m0-p46-v1141
-therefore (tasmāt) for-their-favor (tadānukūlyāya) own-favor (svānukūlyam) should-reveal (prakāśayet)
+therefore for-their-favor own-favor should-reveal
 
 ## mukta-m0-p46-v1142
-by-embrace-pretext (āliṃganacchalena) indeed (eva) pleasure (sukham) massage (saṃvāhanam) should-do (caret)
+embrace-pretext-indeed pleasure massage should-practice
 
 ## mukta-m0-p46-v1143
-taking (ādāya) should-anoint (limpet) on-feet (caraṇe) of-messenger (dūtyāḥ) she (sā) not (na) other-goer (anyagā) becomes (bhavet)
+taking-anointing-foot messenger she not-other-goer-becomes
 
 ## mukta-m0-p46-v1144
-disgusted (jugupsamānaḥ) not (na) becomes (bhavet) dispassion (vairāgyam) by-that (tena) arises (jāyate)
+disgusted not becomes dispassion by-that arises
 
 ## mukta-m0-p46-v1145
-in-true-worlds (satilokeṣu) movement (saṃcāram) festival (utsavam) and (ca) step-by-step (pade pade)
+in-true-worlds movement festival and step-by-step
 
 ## mukta-m0-p46-v1146
-various (vividaiḥ) juicy (sarasaiḥ) ripe (pakvaiḥ) fruits (phalaiḥ) flowers (puṣpaiḥ) fragrant (sugaṃdhibhiḥ)
+various juicy ripe fruits flowers fragrant
 
 ## mukta-m0-p46-v1147
-with-massages (udvarttanaiḥ) and (ca) betel (tāmbūlaiḥ) collyrium (añjanaiḥ) mouth-perfumed (mukhavāsitaiḥ)
+with-unctions-betel-collyriums-mouth-perfumes
 
 ## mukta-m0-p46-v1148
-should-color (raṃjayet) woman (ramaṇīm) wise (dhīmān) enjoyments (bhogaiḥ) bright (dīptaiḥ) and (ca) O-Pārvatī (pārvati)
+should-please-beloved wise enjoyments-bright-and parvati
 
 ## mukta-m0-p46-v1149
-so-long (tāvat) very-pleased (adhiramanā) indeed (eva) enjoyment-differences (bhogabhedāḥ) but (tu) should-remove (pācaret)
+so-long-pleased indeed enjoyments-differences but should-practice
 
 ## mukta-m0-p46-v1150
-by-praise (ślāghayā) arises (jāyate) that (tat) and (ca) with-pride (sadarpāḥ) not-fruitless (aviphalāḥ) women (striyaḥ)
+by-praise arises that and proud-unfruitful-women
