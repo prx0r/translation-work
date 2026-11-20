@@ -2,7 +2,7 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p39-v951
-[kāmeśvarī+manu](kāmeśvarīmanuṃ) [ca](ca) [eva](eva) [paṃcavidyām+anusmaret](paṃcavidyāmanusmaret)
+[kāmeśvarī](kāmeśvarī) [manuṃ](manuṃ) [ca](ca) [eva](eva) [paṃcavidyā](paṃcavidyā) [manusmaret](manusmaret)
 
 ## mukta-m0-p39-v952
 [anenāpi](anenāpi) [ca](ca) [yogena](yogena) [yadi](yadi) [sā](sā) [na](na) [hi](hi) [vidravet](vidravet)

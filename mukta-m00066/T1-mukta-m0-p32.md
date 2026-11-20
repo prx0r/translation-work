@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p32-v776
-[arcayet](arcayelliṃgamīśānamiyamādyā) [mayā](mayā) [āhutiḥ](āhutiḥ)
+[worship+linga+ishana+yama-etc](arcayelliṃgamīśānamiyamādyā) [my-offering](mayāhutiḥ) [great](mahā) [kh-note](kh)
 
 ## mukta-m0-p32-v777
-[caṃdragarbha](caṃdragarbheti) [nāḍī](nāḍī) [nalina-locane](nalinalocane)
+[moon-womb](caṃdragarbheti) [some](kāpyasti) [nadi-eye](nāḍīnalinalocane)
 
 ## mukta-m0-p32-v778
-[tatra](tatratyamamṛtaṃ) [amṛta](amṛtaṃ) [viddhi](viddhi) [kāmeśvarī-uktibhūtidam](kāmeśvaryuktibhūtidam)
+[there-nectar](tatratyamamṛtaṃ) [know](viddhi) [kameshvari-spoken](kāmeśvaryuktibhūtidam)
 
 ## mukta-m0-p32-v779
-[īṣat-pāṭala-varṇa](īṣatpāṭalavarṇaṃ) [ca](ca) [yūthikā-sama-saurabha](yūthikāsamasaurabham)
+[slightly-pink](īṣatpāṭalavarṇaṃ) [jasmine-like](yūthikāsamasaurabham) [kh-note](kh)
 
 ## mukta-m0-p32-v780
-[sabhavatyaṃ](sabhavatyaṃ) [samāpanna](samāpanno) [jalada-tva](jaladatvaṃ) [vaśīkriyāt](vaśīkriyāt)
+[with-bhavati](sabhavatyaṃ) [completed](samāpanno) [water-state](jaladatvaṃ) [subjugates](vaśīkriyāt)
 
 ## mukta-m0-p32-v781
-[na](na) [sarodeva](sarodeva) [svāteṣu](svāteṣu) [skhalita-gamana](skhalitaṃ) [bhavet](gamanaṃ) [bhavet](bhavet)
+[not-lake-deva](na sarodeva) [in-swans](svāteṣu) [stumble-gait](skhalitaṃ gamanaṃ) [becomes](bhavet)
 
 ## mukta-m0-p32-v782
-[caṃdonmattā](caṃdonmattā) [padasthāne](padasthāne) [caṃdragarbhā](caṃdragarbhā) [prakīrttitā](prakīrttitā)
+[moon-intoxicated](caṃdonmattā) [foot-place](padasthāne) [moon-womb](caṃdragarbhā) [declared](prakīrttitā)
 
 ## mukta-m0-p32-v783
-[atradūtyāḥ](atradūtyāḥ) [śarīrasya](śarīrasya) [pūrvatrāpi](pūrvatrāpi) [daśābruve](daśābruve)
+[here-messenger](atradūtyāḥ) [body](śarīrasya) [before-also](pūrvatrāpi) [ten-states](daśābruve)
 
 ## mukta-m0-p32-v784
-[īṣad-ārakta-tā](īṣadāraktatānetre) [netre](netre) [kiṃcid-bhū-vallitāṃḍava](kiṃcidbhūvallitāṃḍavaṃ)
+[slightly-reddish](īṣadāraktatānetre) [somewhat-earth-dance](kiṃcidbhūvallitāṃḍavaṃ)
 
 ## mukta-m0-p32-v785
-[ānaṃdanātha](ānaṃdanātha) [bhavana](bhavana) [bāhyakakṣyā](bāhyakakṣyā) [vigāhanam](vigāhanam)
+[ananda-natha](ānaṃdanātha) [mansion](bhavana) [outer-chamber](bāhyakakṣyā) [entering](vigāhanam)
 
 ## mukta-m0-p32-v786
-[stanayoḥ](stanayoḥ) [pulakāṃkūraḥ](pulakāṃkūraḥ) [gaṃḍayoḥ](gaṃḍayoścānuraktatā) [ca](ca) [anuraktatā](anuraktatā)
+[on-breasts](stanayoḥ) [hair-erect](pulakāṃkūraḥ) [on-cheeks](gaṃḍayoścānuraktatā)
 
 ## mukta-m0-p32-v787
-[evaṃ](evaṃ) [prakārā](prakārā) [sā](sā) [dūtī](dūtī) [caṃdragarbhāmṛtadravaiḥ](caṃdragarbhāmṛtadravaiḥ)
+[thus-kind](evaṃ prakārā) [that-messenger](sā dūtī) [moon-womb-nectar-drops](caṃdragarbhāmṛtadravaiḥ)
 
 ## mukta-m0-p32-v788
-[yajed](yajedānaṃdanāthaṃ) [ānaṃdanāthaṃ](ānaṃdanāthaṃ) [sā](sā) [vīravat-phalam](vīravatphalamaśnute) [aśnute](aśnute)
+[worship-ananda-natha](yajedānaṃdanāthaṃ) [she](sā) [heroic-fruit](vīravatphalamaśnute)
 
 ## mukta-m0-p32-v789
-[arthāṃguli](arthāṃguli) [samunnamra](samunnamra) [taptakāṃcana-sannibhā](taptakāṃcanasannibhā)
+[meaning-finger](arthāṃguli) [raised](samunnamra) [heated-gold-like](taptakāṃcanasannibhā)
 
 ## mukta-m0-p32-v790
-[tasyāḥ](tasyāścaṃdriṇikānāyā) [caṃdriṇikā-nāḍyā](caṃdriṇikānāyā) [bhūyoliṃgeśa-tāḍavāt](bhūyoliṃgeśatāḍavāt)
+[her-moon-channel](tasyāścaṃdriṇikānāyā) [more-linga-dance](bhūyoliṃgeśatāḍavāt)
 
 ## mukta-m0-p32-v791
-[kādaṃbarī](kādaṃbarī) [rasāmodīmān-madaṃtoya](rasāmodīmānmadaṃtoya) [mudbhavet](mudbhavet)
+[kadamba-juice](kādaṃbarī) [rasa-fragrant](rasāmodīmānmadaṃtoya) [mud-born](mudbhavet)
 
 ## mukta-m0-p32-v792
-[godāvarī](godāvarī) [tīrthamayī](tīrthamayī) [tayā](tayā) [siṃcet](siṃcenmaheśvaram) [maheśvaram](maheśvaram)
+[godavari-tirtha](godāvarī tīrthamayī) [with-that](tayā) [sprinkle](siṃcenmaheśvaram)
 
 ## mukta-m0-p32-v793
-[rudratva-sīmā-bhaktasya](rudratvasīmābhaktasya) [vahni-tattva](vahnitattva) [vaśīkṛtim](vaśīkṛtim)
+[rudra-limit](rudratvasīmābhaktasya) [fire-principle](vahnitattva) [subjugation](vaśīkṛtim)
 
 ## mukta-m0-p32-v794
-[tanoti](tanoti) [bhagavān](bhagavāneṣaḥ) [eṣaḥ](eṣaḥ) [mahānaṃda-maheśvaraḥ](mahānaṃdamaheśvaraḥ)
+[expands](tanoti) [lord](bhagavāneṣaḥ) [great-bliss](mahānaṃda) [maheshvara](maheśvaraḥ)
 
 ## mukta-m0-p32-v795
-[umedāhaṃ](umedāhaṃ) [prayacchaṃti](prayacchaṃti) [svayam](svayamagni) [agni](agni) [mayoyataḥ](mayoyataḥ)
+[uma-heat](umedāhaṃ) [gives](prayacchaṃti) [self-fire](svayamagni) [mayoyataḥ](mayoyataḥ)
 
 ## mukta-m0-p32-v796
-[asya](asyāmaṃtrastu) [maṃtraḥ](maṃtraḥ) [tu](tu) [suśroṇī](suśroṇī) [śrūyatām](śrūyatāmabhidhīyate) [abhidhīyate](abhidhīyate)
+[her-mantra](asyāmaṃtrastu) [fair-hipped](suśroṇī) [hear](śrūyatāmabhidhīyate)
 
 ## mukta-m0-p32-v797
-[arcayāmi](arcayāmi) [bhavad-gātra](bhavadgātra) [mataḥ](mataḥ) [siddhiṃ](siddhiṃ) [prayacchame](prayacchame)
+[worship](arcayāmi) [your-limb](bhavadgātra) [from-that](mataḥ) [success](siddhiṃ) [gives](prayacchame)
 
 ## mukta-m0-p32-v798
-[atha](athānyanāḍikādevī) [anya-nāḍikā-devī](anya-nāḍikā-devī) [yā](yā) [sā](sā) [caṃdramahodayā](caṃdramahodayā)
+[then-other-channel-goddess](athānyanāḍikādevī) [she](yā sā) [moon-rise](caṃdramahodayā)
 
 ## mukta-m0-p32-v799
-[aṃtaḥ](aṃtaḥ) [kiṃcic-chyāma-varṇā](kiṃcicchyāmavarṇātriṣu) [triṣu](triṣu) [sthāneṣu](sthāneṣu) [vakritā](vakritā)
+[inside-slightly-dark](aṃtaḥ kiṃcicchyāmavarṇātriṣu) [in-three-places](sthāneṣu) [curved](vakritā)
 
 ## mukta-m0-p32-v800
-[līlānamrita](līlānamrita) [gaurāṃgī](gaurāṃgī) [valadbhrūvallibhāsurā](valadbhrūvallibhāsurā)
+[play-nectar](līlānamrita) [golden-limbed](gaurāṃgī) [moving-brow-creeper](valadbhrūvallibhāsurā)
