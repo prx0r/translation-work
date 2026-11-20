@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p07-v151
-[pāpiṣṭhānām](pāpiṣṭhānām) [ihācāro](ihācāro) [yathā](yathā) [sarvajugupsitam](sarvajugupsitam)
+[of-the-most-sinful](pāpiṣṭhānām) [here-conduct](ihācāraḥ) [as](yathā) [by-all-abhorred](sarvajugupsitam)
 
 ## mukta-m0-p07-v152
-[karoti](karoti) [tadvatpretyāpi](tadvatpretyāpi) [parānaṃdasukhaṃ](parānaṃdasukhaṃ) [bhavet](bhavet)
+[does](karoti) [likewise](tadvat) [after-death-too](pretyāpi) [supreme-bliss-happiness](parānandasukham) [may-be](bhavet)
 
 ## mukta-m0-p07-v153
-[sukhasya](sukhasya) [saṃbhavonānya](saṃbhavonānya) [vartmanā](vartmanā) [padmalocane](padmalocane)
+[of-happiness](sukhasya) [origin-not-other](saṃbhavonānya) [path](vartmanā) [lotus-eyed](padmalocane)
 
 ## mukta-m0-p07-v154
-[sa](sa) [eva](eva) [mārgodumārgo](mārgodumārgo) [aparaḥ](aparaḥ) [parikīrtitaḥ](parikīrtitaḥ)
+[that](sa) [indeed](eva) [path-and-wrong-path](mārgodumārgaḥ) [another](aparaḥ) [is-declared](parikīrtitaḥ)
 
 ## mukta-m0-p07-v155
-[teṣu](teṣu) [sarvatra](sarvatra) [sāmyena](sāmyena) [liṃgānaṃdaḥ](liṃgānaṃdaḥ) [pravartate](pravartate)
+[in-them](teṣu) [everywhere](sarvatra) [with-equality](sāmyena) [linga-bliss](liṃgānandaḥ) [proceeds](pravartate)
 
 ## mukta-m0-p07-v156
-[na](na) [vai](vai) [jātiṃ](jātiṃ) [vināduṣṭāmanyajātiṣu](vināduṣṭāmanyajātiṣu) [vidyate](vidyate)
+[not](na) [indeed](vai) [caste](jātim) [without-evil](vināduṣṭām) [in-other-castes](anyajātiṣu) [is-found](vidyate)
 
 ## mukta-m0-p07-v157
-[mithyābhimānadarpāndhāmithyādoṣāti](mithyābhimānadarpāndhāmithyādoṣāti) [śaṃkinī](śaṃkinī)
+[false-pride-arrogance-blind](mithyābhimānadarpāndhā) [false-fault-excess](mithyādoṣāti) [suspicious](śaṃkinī)
 
 ## mukta-m0-p07-v158
-[paśupakṣimṛgādyeṣu](paśupakṣimṛgādyeṣu) [naitādṛkkrama](naitādṛkkrama) [saṃbhavaḥ](saṃbhavaḥ)
+[in-animals-birds-beasts-etc](paśupakṣimṛgādyeṣu) [not-such-order](naitādṛkkrama) [origin](saṃbhavaḥ)
 
 ## mukta-m0-p07-v159
-[na](na) [ravarjā](ravarjā) [sarvajātirvarta](sarvajātirvarta) [mānāvalaṃbinī](mānāvalaṃbinī)
+[not](na) [all-castes-existing-dependent](ravarjā+sarvajātirvarta+mānāvalaṃbinī)
 
 ## mukta-m0-p07-v160
-[na](na) [vācyavācakākāra](vācyavācakākāra) [śāstracarcā](śāstracarcā) [piśācikā](piśācikā)
+[not](na) [word-and-meaning-form](vācyavācakākāra) [scripture-discussion](śāstracarcā) [demoness](piśācikā)
 
 ## mukta-m0-p07-v161
-[na](na) [kauṭilyaṃ](kauṭilyaṃ) [ca](ca) [manaso](manaso) [na](na) [droho](droho) [nābhimānatā](nābhimānatā)
+[not](na) [crookedness](kauṭilyam) [and](ca) [of-mind](manasaḥ) [not](na) [malice](drohaḥ) [not](na) [pride](abhimānatā)
 
 ## mukta-m0-p07-v162
-[suṣupsāyāṃ](suṣupsāyāṃ) [paraṃ](paraṃ) [nidrā](nidrā) [nānyaḥ](nānyaḥ) [ko'pi](ko'pi) [manojvaraḥ](manojvaraḥ)
+[in-sleepiness](suṣupsāyām) [supreme](param) [sleep](nidrā) [not](na) [other](anyaḥ) [any](ko'pi) [mind-fever](manojvaraḥ)
 
 ## mukta-m0-p07-v163
-[nānāmārgakṛtārohaḥ](nānāmārgakṛtārohaḥ) [kutrāpya](kutrāpya) [dṛdalaṃbanaḥ](dṛdalaṃbanaḥ)
+[various-paths-made-ascent](nānāmārgakṛtārohaḥ) [somewhere](kutrāpya) [firm-support](dṛḍhalaṃbanaḥ)
 
 ## mukta-m0-p07-v164
-[ataḥ](ataḥ) [sarvāsu](sarvāsu) [jātiṣvapyakhaṃḍita](jātiṣvapyakhaṃḍita) [parākramam](parākramam)
+[therefore](ataḥ) [in-all](sarvāsu) [castes](jātiṣu) [even](api) [unbroken](akhaṃḍita) [valor](parākramam)
 
 ## mukta-m0-p07-v165
-[ānaṃdanāthamīśānaṃ](ānaṃdanāthamīśānaṃ) [na](na) [viṃdaṃtidurāśayāḥ](viṃdaṃtidurāśayāḥ)
+[bliss-lord](ānandanātham) [ruler](īśānam) [not](na) [find](vindanti) [evil-minded](durāśayāḥ)
 
 ## mukta-m0-p07-v166
-[ityānaṃdatantre](ityānaṃdatantre) [caturthaḥ](caturthaḥ) [paṭalaḥ](paṭalaḥ)
+[thus](iti) [bliss-tantra](ānandatantra) [fourth](caturthaḥ) [chapter](paṭalaḥ)
 
 ## mukta-m0-p07-v167
-[maṃtramānaṃda](maṃtramānaṃda) [devyāśca](devyāśca) [śruṇuvīraniṣevite](śruṇuvīraniṣevite)
+[mantra-bliss](mantramānanda) [of-goddess](devyāḥ) [and](ca) [hear](śruṇu) [hero-served](vīraniṣevite)
 
 ## mukta-m0-p07-v168
-[samastasiddhijanakasāṃdrānaṃda](samastasiddhijanakasāṃdrānaṃda) [mahodayaḥ](mahodayaḥ)
+[all-accomplishments-causing](samastasiddhijanaka) [dense-bliss](sāṃdrānanda) [great-rise](mahodayaḥ)
 
 ## mukta-m0-p07-v169
-[nāthāyeti](nāthāyeti) [padaṃ](padaṃ) [paścāt](paścāt) [procyabrūyāṃ](procyabrūyāṃ) [navātmikām](navātmikām)
+[to-lord](nāthāya) [thus](iti) [word](padam) [afterwards](paścāt) [declare](procyabrūyām) [nine-formed](navātmikām)
 
 ## mukta-m0-p07-v170
-[praṇavādirmahāmaṃtraḥ](praṇavādirmahāmaṃtraḥ) [prokto](prokto) [viṃśati](viṃśati) [varṇavān](varṇavān)
+[om-beginning](praṇavādi) [great-mantra](mahāmantraḥ) [declared](proktaḥ) [twenty](viṃśati) [letters-having](varṇavān)
 
 ## mukta-m0-p07-v171
-[navātmamithunākhyā](navātmamithunākhyā) [ca](ca) [mahānaṃdakalātmikā](mahānaṃdakalātmikā)
+[nine-self-couple-named](navātmamithunākhyā) [and](ca) [great-bliss-digit-formed](mahānandakalātmikā)
 
 ## mukta-m0-p07-v172
-[anayāsadṛśo](anayāsadṛśo) [maṃtrastvanayāsadṛśaṃ](maṃtrastvanayāsadṛśaṃ) [tapaḥ](tapaḥ)
+[by-this](anayā) [similar](sadṛśaḥ) [mantra](mantraḥ) [and](tu) [by-this](anayā) [similar](sadṛśam) [austerity](tapaḥ)
 
 ## mukta-m0-p07-v173
-[liṃgayoni](liṃgayoni) [sadāsaṃgā](sadāsaṃgā) [kāreṇasatataṃ](kāreṇasatataṃ) [mayā](mayā)
+[linga-yoni](liṃgayoni) [always-union](sadāsaṃgā) [by-cause](kāreṇa) [constantly](satatam) [by-me](mayā)
 
 ## mukta-m0-p07-v174
-[māṃ](māṃ) [vinānaivajānaṃti](vinānaivajānaṃti) [vidyāmetāṃ](vidyāmetāṃ) [mahodayām](mahodayām)
+[me](mām) [without](vinā) [not](na) [eva](eva) [know](jānanti) [knowledge](vidyām) [this](etām) [great-rise](mahodayām)
 
 ## mukta-m0-p07-v175
-[upadiṣṭaṃ](upadiṣṭaṃ) [mayā](mayā) [pūrvameṣā](pūrvameṣā) [sā](sā) [ca](ca) [muradviṣe](muradviṣe)
+[taught](upadiṣṭam) [by-me](mayā) [before](pūrvam) [this](eṣā) [not](nā) [and](ca) [to-Mura-enemy](muradviṣe)

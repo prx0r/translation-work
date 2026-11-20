@@ -16,11 +16,11 @@
 },
 {
 "surface": "ca",
-"quick_gloss": "and"
+"quick_gloss": "ca"
 },
 {
 "surface": "rathanemisamānatā",
-"quick_gloss": "wheel-rim-likeness"
+"quick_gloss": "chariot-hub-evenness"
 }
 ]
 },
@@ -33,15 +33,15 @@
 "tokens": [
 {
 "surface": "phaṇiśīrṣasamānatvaṃ",
-"quick_gloss": "serpent-head-likeness"
+"quick_gloss": "serpent-head-evenness"
 },
 {
 "surface": "prasannadravatā",
-"quick_gloss": "clear-fluidity"
+"quick_gloss": "clarity"
 },
 {
 "surface": "tathā",
-"quick_gloss": "thus"
+"quick_gloss": "tathā"
 }
 ]
 },
@@ -62,7 +62,7 @@
 },
 {
 "surface": "kulakṣaṇavihīnatā",
-"quick_gloss": "family-mark-absence"
+"quick_gloss": "bad-mark-absence"
 }
 ]
 },
@@ -75,11 +75,11 @@
 "tokens": [
 {
 "surface": "saṃskārasya",
-"quick_gloss": "of-refinement"
+"quick_gloss": "refinement"
 },
 {
 "surface": "mahimneva",
-"quick_gloss": "by-glory"
+"quick_gloss": "greatness"
 },
 {
 "surface": "bhāsaṃte",
@@ -95,7 +95,7 @@
 },
 {
 "surface": "priye",
-"quick_gloss": "dear"
+"quick_gloss": "beloved"
 }
 ]
 },
@@ -108,19 +108,15 @@
 "tokens": [
 {
 "surface": "saṃskāropi",
-"quick_gloss": "refinement-too"
+"quick_gloss": "refinement"
 },
 {
 "surface": "samastāni",
 "quick_gloss": "all"
 },
 {
-"surface": "vastūni",
+"surface": "vastūninyāvasetpriye",
 "quick_gloss": "things"
-},
-{
-"surface": "nyāvasetpriye",
-"quick_gloss": "settles-dear"
 }
 ]
 },
@@ -133,11 +129,11 @@
 "tokens": [
 {
 "surface": "sarvasaubhāgyajanakaṃ",
-"quick_gloss": "all-auspiciousness-causing"
+"quick_gloss": "all-auspiciousness-giving"
 },
 {
 "surface": "sarvasiddhimahāpadaṃ",
-"quick_gloss": "all-accomplishment-great-step"
+"quick_gloss": "all-siddhi-great-step"
 }
 ]
 },
@@ -149,8 +145,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "ānaṃda+bhairavasyārcāsādhanaṃ",
-"quick_gloss": "bliss-bhairava-worship-means"
+"surface": "ānaṃda+bhairavasya",
+"quick_gloss": "bliss-bhairava"
+},
+{
+"surface": "arcā",
+"quick_gloss": "worship"
+},
+{
+"surface": "sādhanaṃ",
+"quick_gloss": "means"
 },
 {
 "surface": "viśvamohanam",
@@ -167,7 +171,7 @@
 "tokens": [
 {
 "surface": "suśobhadakramagrāsī",
-"quick_gloss": "beautiful-step-devouring"
+"quick_gloss": "well-beautiful-step-grasping"
 },
 {
 "surface": "samastāpannikṛṃtanam",
@@ -184,7 +188,7 @@
 "tokens": [
 {
 "surface": "veśmacaṃdrakalānāṃ",
-"quick_gloss": "of-house-moon-digits"
+"quick_gloss": "house-moon-crescents"
 },
 {
 "surface": "ca",
@@ -192,7 +196,7 @@
 },
 {
 "surface": "sadmasaubhāgyasaṃpadām",
-"quick_gloss": "of-abode-auspiciousness-wealth"
+"quick_gloss": "abode-auspiciousness-wealth"
 }
 ]
 },
@@ -209,7 +213,7 @@
 },
 {
 "surface": "daurbhāgyasyapravartakam",
-"quick_gloss": "of-misfortune-promoting"
+"quick_gloss": "misfortune-promoting"
 }
 ]
 },
@@ -226,7 +230,7 @@
 },
 {
 "surface": "lokadhikkāradāyakam",
-"quick_gloss": "people-contempt-giving"
+"quick_gloss": "world-contempt-giving"
 }
 ]
 },
@@ -280,7 +284,7 @@
 },
 {
 "surface": "gojihvayānvitam",
-"quick_gloss": "cow-tongue-having"
+"quick_gloss": "go-tongue-having"
 }
 ]
 },
@@ -305,7 +309,7 @@
 },
 {
 "surface": "dravam",
-"quick_gloss": "fluid"
+"quick_gloss": "liquid"
 }
 ]
 },
@@ -330,15 +334,11 @@
 },
 {
 "surface": "tat",
-"quick_gloss": "that"
+"quick_gloss": "tat"
 },
 {
-"surface": "pūjāsādhanam",
+"surface": "pūjāsādhanamiṣyate",
 "quick_gloss": "worship-means"
-},
-{
-"surface": "iṣyate",
-"quick_gloss": "is-intended"
 }
 ]
 },
@@ -351,15 +351,11 @@
 "tokens": [
 {
 "surface": "sannidhatte",
-"quick_gloss": "stands-near"
+"quick_gloss": "approaches"
 },
 {
-"surface": "paraḥ",
-"quick_gloss": "supreme"
-},
-{
-"surface": "sākṣād",
-"quick_gloss": "directly"
+"surface": "paraḥsākṣād",
+"quick_gloss": "supreme-direct"
 },
 {
 "surface": "ānaṃdādvaita+rūpadhṛt",
@@ -376,7 +372,7 @@
 "tokens": [
 {
 "surface": "dūtī+mukhasya",
-"quick_gloss": "of-messenger-mouth"
+"quick_gloss": "messenger-mouth"
 },
 {
 "surface": "saṃskāraḥ",
@@ -409,7 +405,7 @@
 },
 {
 "surface": "śastreṇa",
-"quick_gloss": "by-instrument"
+"quick_gloss": "by-weapon"
 },
 {
 "surface": "nirmalīkaraṇaṃ",
@@ -430,7 +426,7 @@
 "tokens": [
 {
 "surface": "tailagaṇḍuṣaṇāt",
-"quick_gloss": "by-oil-gargling"
+"quick_gloss": "oil-gargling"
 },
 {
 "surface": "kāṃtiḥ",
@@ -455,15 +451,15 @@
 "tokens": [
 {
 "surface": "trikaṭu",
-"quick_gloss": "trikaṭu"
+"quick_gloss": "three-pungents"
 },
 {
 "surface": "triphalā",
-"quick_gloss": "triphala"
+"quick_gloss": "three-myrobalans"
 },
 {
 "surface": "māṃsi",
-"quick_gloss": "meats"
+"quick_gloss": "flesh"
 },
 {
 "surface": "guḍa",
@@ -496,11 +492,11 @@
 },
 {
 "surface": "akṣa+sadṛśān",
-"quick_gloss": "mustard-seed-like"
+"quick_gloss": "aksha-like"
 },
 {
 "surface": "piṇḍān",
-"quick_gloss": "lumps"
+"quick_gloss": "balls"
 },
 {
 "surface": "taṃ",
@@ -512,7 +508,7 @@
 },
 {
 "surface": "dūtikāgilet",
-"quick_gloss": "messenger-swallows"
+"quick_gloss": "messenger-swallow"
 }
 ]
 },
@@ -525,15 +521,15 @@
 "tokens": [
 {
 "surface": "malenaivāpa",
-"quick_gloss": "by-filth-indeed"
+"quick_gloss": "by-impurity"
 },
 {
 "surface": "sṛṣṭānāṃ",
-"quick_gloss": "of-created"
+"quick_gloss": "created"
 },
 {
 "surface": "sarveṣāṃ",
-"quick_gloss": "of-all"
+"quick_gloss": "all"
 },
 {
 "surface": "śamanaṃ",
@@ -595,7 +591,7 @@
 },
 {
 "surface": "prakalpayet",
-"quick_gloss": "prepares"
+"quick_gloss": "prepare"
 }
 ]
 },
@@ -611,7 +607,7 @@
 "quick_gloss": "thus"
 },
 {
-"surface": "śarīrasaṃskāraḥ",
+"surface": "śarīrasaṃskāro",
 "quick_gloss": "body-refinement"
 },
 {

@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p78-v1926
-rāṣṭre-in-kingdom subhikṣamārogyaṃ-prosperity-health kuryāt-make caurāri-thief-enemy nāśanam-destruction
+[in-kingdom](rāṣṭre) [abundance-health](subhikṣamārogyaṃ) [would-do](kuryāt) [thieves-etc](caurādi) [destruction](nāśanam)
 
 ## mukta-m0-p78-v1927
-sthāpakasya-of-installer sadā-always vṛddhiḥ-growth ye-who ca-and tatra-there upajīvinaḥ-living-on
+[establisher's](sthāpakasya) [always](sadā) [increase](vṛddhiḥ) [who-and](ye ca) [there-living](tatropajīvinaḥ)
 
 ## mukta-m0-p78-v1928
-śilpinaḥ-artisans karmakartāraḥ-workers sarve-all yānti-go śivālayam-shiva-temple
+[craftsmen](śilpinaḥ) [work-doers](karmakartāraḥ) [all](sarve) [go](yānti) [to-śiva-temple](śivālayam)
 
 ## mukta-m0-p78-v1929
-bhuktimuktipradaṃ-enjoyment-liberation-giving jñeyam-known anyathā-otherwise tu-but viparyayaḥ-reversal
+[enjoyment-liberation-giving](bhuktimuktipradaṃ) [to-be-known](jñeyam) [otherwise](anyathā) [but](tu) [reverse](viparyayaḥ)
 
 ## mukta-m0-p78-v1930
-tataḥ-then caṇḍeśvaram-chandeshvara devam-god sthāpayet-install vidhinā-by-rite guruḥ-guru
+[then](tataḥ) [caṇḍeśvara](caṇḍeśvaraṃ) [god](devaṃ) [would-install](sthāpayet) [by-rite](vidhinā) [guru](guruḥ)
 
 ## mukta-m0-p78-v1931
-rocanayā-with-rochana akṣirogaghnaḥ-eye-disease-destroyer phalijyām-fruit-offering ca-and priyaṅkaraḥ-beloved-maker
+[with-rocanā-eye-disease-destroying](rocanayākṣirogaghnaḥ) [fruit-offering](phalijyāṃ) [and](ca) [beloved-maker](priyaṅkaraḥ)
 
 ## mukta-m0-p78-v1932
-nāgapuṣpaṃ-naga-flower subhikṣāya-for-prosperity saptāhaṃ-seven-days ca-and phalaṃ-fruit kramāt-in-order
+[nāga-flower](nāgapuṣpaṃ) [for-abundance](subhikṣāya) [seven-days](saptāhaṃ) [and](ca) [fruit](phalaṃ) [in-order](kramāt)
 
 ## mukta-m0-p78-v1933
-candanāgurukapūrakuṅkumādyaiḥ-sandal-aloes-camphor-saffron-etc ca-and lepanam-anointing
+[sandal-aloewood-camphor-saffron-etc](candanāgurukapūrakuṅkumādyaiḥ) [and](ca) [anointing](lepanam)
 
 ## mukta-m0-p78-v1934
-ajena-with-goat rocanām-collyrium ca-and eva-indeed darpaṇam-mirror puruṣeṇa-by-man tu-but
+[by-goat](ajena) [rocanā](rocanāṃ) [and-indeed](caiva) [mirror](darpaṇaṃ) [by-man](puruṣeṇa) [but](tu)
 
 ## mukta-m0-p78-v1935
-kaṭakaṃ-bracelet kaṭisūtraṃ-waist-cord ca-and paṭṭabandhaṃ-silk-band ca-and yad-whatever bhavet-be
+[bracelet](kaṭakaṃ) [waist-cord](kaṭisūtraṃ) [and](ca) [silk-band](paṭṭabandhaṃ) [and](ca) [whatever-is](yadbhavet)
 
 ## mukta-m0-p78-v1936
-kvacit-sometimes tenaiva-by-that guhyaiḥ-by-secret vā-or sarvāṇi-all etāni-these dāyayet-give
+[sometimes](kvacit) [by-that-indeed](tenaiva) [with-secrets](guhyairvā) [all-these](sarvāṇyetāni) [would-give](dāyayet)
 
 ## mukta-m0-p78-v1937
-praṇamya-bowing daṇḍavadbhamau-prostrate śanaiḥ-slowly gacchet-go pradakṣiṇam-circumambulation
+[having-bowed](praṇamya) [staff-like](daṇḍavad) [both](bhamau) [slowly](śanair) [would-go](gacchet) [circumambulation](pradakṣiṇam)
 
 ## mukta-m0-p78-v1938
-sukṛtaṃ-good-deed duṣkṛtaṃ-bad-deed vā-or api-indeed ajñānāt-from-ignorance jñānataḥ-from-knowledge kṛtam-done
+[good-deed](sukṛtaṃ) [bad-deed](duṣkṛtaṃ) [or](vāpi) [from-ignorance](ajñānāt) [from-knowledge](jñānataḥ) [done](kṛtam)
 
 ## mukta-m0-p78-v1939
-tasmin-kāle-at-that-time pradātavyā-give dakṣiṇā-fee śivayogine-to-shiva-yogi
+[at-that-time](tasminkāle) [to-be-given](pradātavyā) [fee](dakṣiṇā) [to-śiva-yogin](śivayogine)
 
 ## mukta-m0-p78-v1940
-putrakāya-to-son ardha-half deyā-give samayibhyaḥ-to-initiates ca-and pādikā-foot-fee
+[to-son-body-half](putrakāyārdhato) [to-be-given](deyā) [to-initiates](samayibhyaḥ) [and](ca) [foot-fee](pādikā)
 
 ## mukta-m0-p78-v1941
-yathāśakti-according-ability dvijātibhyaḥ-to-brahmins dadyāt-give dānaṃ-gift yathāvidhi-according-rite
+[according-to-ability](yathāśakti) [to-twice-born](dvijātibhyaḥ) [would-give](dadyāt) [gift](dānaṃ) [according-to-rite](yathāvidhi)
 
 ## mukta-m0-p78-v1942
-tauryikān-musicians gāyakān-singers nartṛn-dancers nādyena-with-sound tu-but toṣayet-please
+[musicians](tauryikān) [singers](gāyakān) [dancers](nartṛn) [with-sound](nādyena) [but](tu) [would-please](toṣayet)
 
 ## mukta-m0-p78-v1943
-ekarātraṃ-one-night trirātraṃ-three-nights vā-or saptarātram-seven-nights atha-api-also vā-or
+[one-night](ekarātraṃ) [three-nights](trirātraṃ) [or](vā) [seven-nights](saptarātram) [then-or](athāpi) [or](vā)
 
 ## mukta-m0-p78-v1944
-pumādibhyaḥ-men-etc divāśuddhiṃ-day-purification vidyādi-knowledge-etc tacchatāvṛtam-hundred-fold
+[from-male-etc](pumādibhyaḥ) [day-purity](divāśuddhiṃ) [knowledge-etc](vidyādi) [that-hundred-fold](tacchatāvṛtam)
 
 ## mukta-m0-p78-v1945
-sthirā-firm
+[firm](sthirā)
 
 ## mukta-m0-p78-v1946
-yugabhāgāḥ-yuga-parts caturdikṣu-four-directions luptvā-dissolve ekaikaṃ-one-by-one tu-but koṇataḥ-from-corner
+[yuga-parts](yugabhāgāḥ) [in-four-directions](caturdikṣu) [having-erased](luptvā) [one-by-one](ekaikaṃ) [but](tu) [from-corner](koṇataḥ)
 
 ## mukta-m0-p78-v1947
-sthāpyāni-install teṣu-in-them liṅgāni-lingas tatsaṅgayā-with-association abhiḥ-by vidhānataḥ-rite
+[to-be-placed](sthāpyāni) [in-those](teṣu) [liṅgas](liṅgāni) [with-that-association](tatsaṅgayābhiḥ) [by-rite](vidhānataḥ)
 
 ## mukta-m0-p78-v1948
-hīnānām-inferior tu-but vidhiḥ-rite evaṃ-thus jyeṣṭhānām-superior sthitipūrvakam-established-first
+[of-inferior](hīnānāṃ) [but](tu) [rite-thus](vidhiśvāyaṃ) [of-superior](jyeṣṭhānāṃ) [placement-first](sthitipūrvakam)
 
 ## mukta-m0-p78-v1949
-tatra-there ānayet-bring mahāliṅgaṃ-great-linga yantrayogena-yantra-yoga buddhimān-wise
+[there](tatra) [would-bring](ānayet) [great-liṅga](mahāliṅgaṃ) [by-yantra-yoga](yantrayogena) [wise](buddhimān)
 
 ## mukta-m0-p78-v1950
-madhye-middle ca-and aṣṭārasaṃyuktaṃ-eight-rasa-joined dṛḍhakāṣṭhena-firm-wood maṇḍitam-adorned
+[in-middle](madhye) [and](ca) [eight-juices-joined](aṣṭārasaṃyuktaṃ) [with-firm-wood](dṛḍhakāṣṭhena) [adorned](maṇḍitam)
