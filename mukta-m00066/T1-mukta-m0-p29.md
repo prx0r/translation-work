@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p29-v701
-[pada](bahunā) [pada](kimihoktena) [pada](dvaumānasasamīraṇau)
+[much](bahunā) [what](kim) [said-here](ihoktena) [two-mind-winds](dvaumānasasamīraṇau)
 
 ## mukta-m0-p29-v702
-[pada](tayoḥ) [pada](saṃyojanaṃ) [pada](vakṣye) [pada](sāvadhānā) [pada](śruṇu) [pada](priye)
+[their](tayoḥ) [union](saṃyojanaṃ) [I-will-speak](vakṣye) [attentive](sāvadhānā) [listen](śruṇu) [beloved](priye)
 
 ## mukta-m0-p29-v703
-[pada](catuḥṣaṣṭyā) [pada](tu) [pada](mātrāṇāṃ) [pada](pūrayenmāruteśvaram)
+[with-sixty-four](catuḥṣaṣṭyā) [indeed](tu) [measures](mātrāṇāṃ) [fill](pūrayen) [wind-lord](māruteśvaram)
 
 ## mukta-m0-p29-v704
-[pada](paṃcalaghvakṣaroccāra) [pada](kālomātreti) [pada](kathyate)
+[five-light-syllable](paṃcalaghvakṣaroccāra) [time](kālomātreti) [is-called](kathyate)
 
 ## mukta-m0-p29-v705
-[pada](pūrakaḥ) [pada](kuṃbhakaścaiva) [pada](recakaśca) [pada](maheśvari)
+[inhalation](pūrakaḥ) [retention](kuṃbhakaścaiva) [exhalation](recakaśca) [great-goddess](maheśvari)
 
 ## mukta-m0-p29-v706
-[pada](kākolakamukhaścava) [pada](vāyupūraṇa) [pada](bhadajāḥ)
+[crow-faced](kākolakamukhaścava) [wind-filling](vāyupūraṇa) [blessed-born](bhadajāḥ)
 
 ## mukta-m0-p29-v707
-[pada](yuktaṃ) [pada](yuktaṃ) [pada](ca) [pada](gṛhṇīyā) [pada](devaṃ) [pada](siddhimavāpnuyāt)
+[fitting](yuktaṃ) [fitting](yuktaṃ) [take](ca) [gṛhṇīyā] [god](devaṃ) [attain-success](siddhimavāpnuyāt)
 
 ## mukta-m0-p29-v708
-[pada](śanaiḥ) [pada](punarmokṣaṇaṃ) [pada](syādyato) [pada](vāyu) [pada](jayobhavet)
+[slowly](śanaiḥ) [again](punarmokṣaṇaṃ) [syādyato] [wind](vāyu) [victory](jayobhavet)
 
 ## mukta-m0-p29-v709
-[pada](sarvaṃ) [pada](vyāpnoti) [pada](ca) [pada](vapuḥ) [pada](sukhakārīvaśīkṛtaḥ)
+[all](sarvaṃ) [pervades](vyāpnoti) [body](ca) [vapuḥ] [pleasure-causing](sukhakārīvaśīkṛtaḥ)
 
 ## mukta-m0-p29-v710
-[pada](sarveṣvapīhopāyeṣu) [pada](maruddhāraṇakarmaṇaḥ)
+[in-all](sarveṣvapīhopāyeṣu) [means](maruddhāraṇakarmaṇaḥ)
 
 ## mukta-m0-p29-v711
-[pada](dvāradṛṣṭirjjāgarīkavimarśaścāpi) [pada](dhāvanam)
+[door-vision](dvāradṛṣṭirjjāgarīkavimarśaścāpi) [running](dhāvanam)
 
 ## mukta-m0-p29-v712
-[pada](cāradṛṣṭiṃ) [pada](yadā) [pada](kuryāt) [pada](tadā) [pada](vāyu) [pada](jayobhavet)
+[door-vision](cāradṛṣṭiṃ) [when](yadā) [do](kuryāt) [then](tadā) [wind](vāyu) [victory](jayobhavet)
 
 ## mukta-m0-p29-v713
-[pada](tadācoratvamujjhitvā) [pada](pavanaḥ) [pada](sakhyamīhate)
+[then](tadācoratvamujjhitvā) [wind](pavanaḥ) [friendship](sakhyamīhate)
 
 ## mukta-m0-p29-v714
-[pada](gṛho) [pada](bhavati) [pada](jīvo'yaṃ) [pada](gṛhamedhīcidaṃganaḥ)
+[householder](gṛho) [becomes](bhavati) [soul](jīvo'yaṃ) [householder-mind](gṛhamedhīcidaṃganaḥ)
 
 ## mukta-m0-p29-v715
-[pada](hetvaṃtamīhate) [pada](vāyurmitatvacchanna) [pada](taskaraḥ)
+[cause-end](hetvaṃtamīhate) [wind](vāyurmitatvacchanna) [thief](taskaraḥ)
 
 ## mukta-m0-p29-v716
-[pada](raṃdhra) [pada](prahārīhartuṃ) [pada](tadāyurvittaṃ) [pada](samīhate)
+[hole](raṃdhra) [striker-thief](prahārīhartuṃ) [then](tadāyurvittaṃ) [desires](samīhate)
 
 ## mukta-m0-p29-v717
-[pada](tātvikī) [pada](tu) [pada](bhaven) [pada](maitrī) [pada](yogināṃ) [pada](dhīsamīrayoḥ)
+[real](tātvikī) [indeed](tu) [friendship](bhaven) [maitrī] [of-yogis](yogināṃ) [mind-wind](dhīsamīrayoḥ)
 
 ## mukta-m0-p29-v718
-[pada](ataścora) [pada](samīroyaḥ) [pada](pratipālya) [pada](prayatnataḥ)
+[therefore](ataścora) [thief](samīroyaḥ) [guard](pratipālya) [carefully](prayatnataḥ)
 
 ## mukta-m0-p29-v719
-[pada](rakṣatī) [pada](va) [pada](vapurgehaṃ) [pada](kāpaṭyādvāyutaskaraḥ)
+[protects](rakṣatī) [body-house](va) [vapurgehaṃ] [deceit](kāpaṭyādvāyutaskaraḥ)
 
 ## mukta-m0-p29-v720
-[pada](manaḥ) [pada](pramādamālokya) [pada](kadācilluṃṭate) [pada](dinam)
+[mind](manaḥ) [negligence](pramādamālokya) [sometimes](kadācilluṃṭate) [day](dinam)
 
 ## mukta-m0-p29-v721
-[pada](ataḥ) [pada](prakṛti) [pada](corastu) [pada](samūlamavakṛṃtati)
+[therefore](ataḥ) [nature-thief](prakṛti) [corastu] [root](samūlamavakṛṃtati)
 
 ## mukta-m0-p29-v722
-[pada](aṃtaḥ) [pada](prakṛti) [pada](corastu) [pada](prakṛtīkāramarhati)
+[inner](aṃtaḥ) [nature-thief](prakṛti) [corastu] [nature-action](prakṛtīkāramarhati)
 
 ## mukta-m0-p29-v723
-[pada](amoktavyaḥ) [pada](sa) [pada](yatnādvāpya) [pada](pekṣyevaparāṃgatim)
+[not-to-be-released](amoktavyaḥ) [he](sa) [carefully](yatnādvāpya) [pekṣyevaparāṃgatim]
 
 ## mukta-m0-p29-v724
-[pada](satu) [pada](coropi) [pada](dharttavyaḥ) [pada](samavekṣya) [pada](pade) [pada](pade)
+[he](satu) [thief](coropi) [dharttavyaḥ] [observe](samavekṣya) [step-by-step](pade) [pade]
 
 ## mukta-m0-p29-v725
-[pada](anavekṣya) [pada](bahiryāti) [pada](tadā) [pada](coro) [pada](jihīrṣati)
+[without-observing](anavekṣya) [outward](bahiryāti) [then](tadā) [thief](coro) [wishes-to-steal](jihīrṣati)

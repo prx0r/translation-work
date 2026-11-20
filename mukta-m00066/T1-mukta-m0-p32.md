@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p32-v776
-[gloss](arcayelliṃgamīśānamiyamādyā) [gloss](mayāhutiḥ)
+[worship](arcayelliṃgam) [ishana](īśānam) [iyama-etc](iyamādyā) [offering](mayāhutiḥ)
 
 ## mukta-m0-p32-v777
-[gloss](caṃdragarbheti) [gloss](kāpyasti) [gloss](nāḍīnalinalocane)
+[moon-womb](caṃdragarbha) [thus](iti) [some](kāpyasti) [nadi-eye](nāḍīnalinalocane)
 
 ## mukta-m0-p32-v778
-[gloss](tatratyamamṛtaṃ) [gloss](viddhi) [gloss](kāmeśvaryuktibhūtidam)
+[there](tatratya) [nectar](amṛtaṃ) [know](viddhi) [kameshvari-spoken](kāmeśvaryuktibhūtidam)
 
 ## mukta-m0-p32-v779
-[gloss](īṣatpāṭalavarṇaṃ) [gloss](ca) [gloss](yūthikāsamasaurabham)
+[slightly-pink](īṣatpāṭalavarṇaṃ) [and](ca) [jasmine-like](yūthikāsamasaurabham)
 
 ## mukta-m0-p32-v780
-[gloss](sabhavatyaṃ) [gloss](samāpanno) [gloss](jaladatvaṃ) [gloss](vaśīkriyāt)
+[with](sabhavatyaṃ) [completed](samāpanno) [water-state](jaladatvaṃ) [subdues](vaśīkriyāt)
 
 ## mukta-m0-p32-v781
-[gloss](na) [gloss](sarodeva) [gloss](svāteṣu) [gloss](skhalitaṃ) [gloss](gamanaṃ) [gloss](bhavet)
+[not](na) [lake-deva](sarodeva) [in-swift](svāteṣu) [stumbling](skhalitaṃ) [going](gamanaṃ) [becomes](bhavet)
 
 ## mukta-m0-p32-v782
-[gloss](caṃdonmattā) [gloss](padasthāne) [gloss](caṃdragarbhā) [gloss](prakīrttitā)
+[moon-intoxicated](caṃdonmattā) [foot-place](padasthāne) [moon-womb](caṃdragarbhā) [declared](prakīrttitā)
 
 ## mukta-m0-p32-v783
-[gloss](atradūtyāḥ) [gloss](śarīrasya) [gloss](pūrvatrāpi) [gloss](daśābruve)
+[here-messenger](atradūtyāḥ) [body](śarīrasya) [before-too](pūrvatrāpi) [ten-states](daśābruve)
 
 ## mukta-m0-p32-v784
-[gloss](īṣadāraktatānetre) [gloss](kiṃcidbhūvallitāṃḍavaṃ)
+[slightly-reddish](īṣadāraktatā) [eyes](netre) [somewhat](kiṃcid) [earth-dance](bhūvallitāṃḍavaṃ)
 
 ## mukta-m0-p32-v785
-[gloss](ānaṃdanātha) [gloss](bhavana) [gloss](bāhyakakṣyā) [gloss](vigāhanam)
+[ananda-natha](ānaṃdanātha) [mansion](bhavana) [outer-corridor](bāhyakakṣyā) [entering](vigāhanam)
 
 ## mukta-m0-p32-v786
-[gloss](stanayoḥ) [gloss](pulakāṃkūraḥ) [gloss](gaṃḍayoścānuraktatā)
+[on-breasts](stanayoḥ) [hair-erect](pulakāṃkūraḥ) [on-cheeks](gaṃḍayoś) [and-reddish](cānuraktatā)
 
 ## mukta-m0-p32-v787
-[gloss](evaṃ) [gloss](prakārā) [gloss](sā) [gloss](dūtī) [gloss](caṃdragarbhāmṛtadravaiḥ)
+[thus](evaṃ) [manner](prakārā) [she](sā) [messenger](dūtī) [moon-womb-nectar-fluids](caṃdragarbhāmṛtadravaiḥ)
 
 ## mukta-m0-p32-v788
-[gloss](yajedānaṃdanāthaṃ) [gloss](sā) [gloss](vīravatphalamaśnute)
+[worship](yajed) [ananda-natha](ānaṃdanāthaṃ) [she](sā) [heroic-fruit](vīravatphalamaśnute)
 
 ## mukta-m0-p32-v789
-[gloss](arthāṃguli) [gloss](samunnamra) [gloss](taptakāṃcanasannibhā)
+[meaning-finger](arthāṃguli) [raised](samunnamra) [heated-gold](taptakāṃcanasannibhā)
 
 ## mukta-m0-p32-v790
-[gloss](tasyāścaṃdriṇikānāyā) [gloss](bhūyoliṃgeśatāḍavāt)
+[her](tasyāś) [moon-channel](caṃdriṇikānāyā) [more](bhūyo) [linga-dance](liṃgeśatāḍavāt)
 
 ## mukta-m0-p32-v791
-[gloss](kādaṃbarī) [gloss](rasāmodīmānmadaṃtoya) [gloss](mudbhavet)
+[kadamba-liquor](kādaṃbarī) [taste-fragrance](rasāmodīmānmadaṃtoya) [arises](mudbhavet)
 
 ## mukta-m0-p32-v792
-[gloss](godāvarī) [gloss](tīrthamayī) [gloss](tayā) [gloss](siṃcenmaheśvaram)
+[godavari](godāvarī) [tirtha-filled](tīrthamayī) [by-her](tayā) [sprinkle](siṃcen) [maheshvara](maheśvaram)
 
 ## mukta-m0-p32-v793
-[gloss](rudratvasīmābhaktasya) [gloss](vahnitattva) [gloss](vaśīkṛtim)
+[rudra-limit](rudratvasīmā) [devotee](bhaktasya) [fire-principle](vahnitattva) [subjection](vaśīkṛtim)
 
 ## mukta-m0-p32-v794
-[gloss](tanoti) [gloss](bhagavāneṣaḥ) [gloss](mahānaṃda) [gloss](maheśvaraḥ)
+[expands](tanoti) [lord](bhagavāneṣaḥ) [great-bliss](mahānaṃda) [maheshvara](maheśvaraḥ)
 
 ## mukta-m0-p32-v795
-[gloss](umedāhaṃ) [gloss](prayacchaṃti) [gloss](svayamagni) [gloss](mayoyataḥ)
+[uma-burning](umedāhaṃ) [gives](prayacchaṃti) [self-fire](svayamagni) [mayoyataḥ](mayoyataḥ)
 
 ## mukta-m0-p32-v796
-[gloss](asyāmaṃtrastu) [gloss](suśroṇī) [gloss](śrūyatāmabhidhīyate)
+[her-mantra](asyāmaṃtrastu) [fair-hipped](suśroṇī) [listen](śrūyatām) [spoken](abhidhīyate)
 
 ## mukta-m0-p32-v797
-[gloss](arcayāmi) [gloss](bhavadgātra) [gloss](mataḥ) [gloss](siddhiṃ) [gloss](prayacchame)
+[worship](arcayāmi) [your-limb](bhavadgātra) [from-me](mataḥ) [success](siddhiṃ) [gives](prayacchame)
 
 ## mukta-m0-p32-v798
-[gloss](athānyanāḍikādevī) [gloss](yā) [gloss](sā) [gloss](caṃdramahodayā)
+[then-another-channel-goddess](athānyanāḍikādevī) [she](yā) [sā](sā) [moon-rise](caṃdramahodayā)
 
 ## mukta-m0-p32-v799
-[gloss](aṃtaḥ) [gloss](kiṃcicchyāmavarṇātriṣu) [gloss](sthāneṣu) [gloss](vakritā)
+[inside](aṃtaḥ) [somewhat](kiṃcic) [dark-colored](chyāmavarṇā) [in-three](triṣu) [places](sthāneṣu) [curved](vakritā)
 
 ## mukta-m0-p32-v800
-[gloss](līlānamrita) [gloss](gaurāṃgī) [gloss](valadbhrūvallibhāsurā)
+[play-nectar](līlānamrita) [fair-limbed](gaurāṃgī) [moving-brow-creeper](valadbhrūvallibhāsurā)

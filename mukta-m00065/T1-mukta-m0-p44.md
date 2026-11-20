@@ -5,73 +5,73 @@
 [rakṣodvitayakumbhīra](rakṣodvitayakumbhīra) [sarpacakrāsyakaṃ](sarpacakrāsyakaṃ) [ca](ca) [bham](bham)
 
 ## mukta-m0-p44-v1077
-[aśvinau](aśvinau) [ca](ca) [yamaḥ](yamaḥ) [vahniḥ](vahniḥ) [prajendrenduḥ](prajendrenduḥ) [haraḥ](haraḥ) [aditiḥ](aditiḥ)
+[aśvinau](aśvinau) [ca](ca) [yamo](yamo) [vahniḥ](vahniḥ) [prajendrenduharo'ditiḥ](prajendrenduharo'ditiḥ)
 
 ## mukta-m0-p44-v1078
-[tvaṣṭā](tvaṣṭā) [vāyuḥ](vāyuḥ) [surendraḥ](surendraḥ) [agniḥ](agniḥ) [mitra-indrau](mitrendrau) [yāvat](yāvat) [pāmpatiḥ](pāmpatiḥ)
+[tvaṣṭā](tvaṣṭā) [vāyuḥ](vāyuḥ) [surendro'gnirmitrendrau](surendro'gnirmitrendrau) [yāvatpāmpatiḥ](yāvatpāmpatiḥ)
 
 ## mukta-m0-p44-v1079
-[viṣṇuḥ](viṣṇuḥ) [vasuḥ](vasuḥ) [aja-eka-ādi-pādaḥ](ajaikādipādaḥ) [ahiḥ](ahiḥ) [budhnaḥ](budhnaḥ) [pūṣakāḥ](pūṣakāḥ)
+[viṣṇurvasurajaikādipādahirbudhna](viṣṇurvasurajaikādipādahirbudhna) [pūṣakāḥ](pūṣakāḥ)
 
 ## mukta-m0-p44-v1080
-[pumān](pumān) [gadī](gadī) [savīṇā](savīṇā) [ca](ca) [yoṣit](yoṣit) [mithunaṃ](mithunaṃ) [dhanuḥ](dhanuḥ)
+[pumān](pumān) [gadī](gadī) [savīṇā](savīṇā) [ca](ca) [yoṣitta](yoṣitta) [nmithunaṃ](nmithunaṃ) [dhanuḥ](dhanuḥ)
 
 ## mukta-m0-p44-v1081
-[strī](strī) [nauḥ](nauḥ) [stholkā](stholkā) [asi-bhṛt](asibhṛt) [kanyā](kanyā) [tulā-dhāraḥ](tulādhāraḥ) [naraḥ](naraḥ) [tulā](tulā)
+[strī](strī) [naustholkāsibhṛtkanyā](naustholkāsibhṛtkanyā) [tulādhāro](tulādhāro) [narastulā](narastulā)
 
 ## mukta-m0-p44-v1082
-[meṣa-ādyāḥ](meṣādyāḥ) [pañca](pañca) [ca](ca) [eva](caiva) [anye](anye) [sva-nāma-tulya-rūpakāḥ](svanāmatulyarūpakāḥ)
+[meṣādyāḥ](meṣādyāḥ) [pañca](pañca) [caivānye](caivānye) [svanāmatulyarūpakāḥ](svanāmatulyarūpakāḥ)
 
 ## mukta-m0-p44-v1083
-[hema-ābhaḥ](hemābhaḥ) [sa-kirīṭaḥ](sakirīṭaḥ) [ca](ca) [devarājaḥ](devarājaḥ) [surāvṛtaḥ](surāvṛtaḥ)
+[hemābhaḥ](hemābhaḥ) [sakirīṭaśca](sakirīṭaśca) [devarājaḥ](devarājaḥ) [surāvṛtaḥ](surāvṛtaḥ)
 
 ## mukta-m0-p44-v1084
-[chāga-sthaḥ](chāgasthaḥ) [sākṣa-sūtra-ugraḥ](sākṣasūtrograḥ) [sapta-arcis](saptārciḥ) [śakti-dhārakaḥ](śaktidhārakaḥ)
+[chāgasthaḥ](chāgasthaḥ) [sākṣasūtrograḥ](sākṣasūtrograḥ) [saptārciḥ](saptārciḥ) [śaktidhārakaḥ](śaktidhārakaḥ)
 
 ## mukta-m0-p44-v1085
-[rakta-hṛt](raktahṛt) [pāśa-bhṛt](pāśabhṛt) [kṛṣṇaḥ](kṛṣṇaḥ) [mahiṣa-sthaḥ](mahiṣasthaḥ) [ugra-dūtavān](ugradūtavān)
+[raktahṛkpāśabhṛtkṛṣṇo](raktahṛkpāśabhṛtkṛṣṇo) [mahiṣasthogradūtavān](mahiṣasthogradūtavān)
 
 ## mukta-m0-p44-v1086
-[puṃ-sthita](puṃsthita) [khaḍga-hastaḥ](khaḍgahastaḥ) [ca](ca) [nīla-ābhaḥ](nīlābhaḥ) [rākṣasa-āvṛtaḥ](rākṣasāvṛtaḥ)
+[puṃsthita](puṃsthita) [khaḍgahastaśca](khaḍgahastaśca) [nīlābho](nīlābho) [rākṣasāvṛtaḥ](rākṣasāvṛtaḥ)
 
 ## mukta-m0-p44-v1087
-[sarva-ābharaṇa-saṃyuktaḥ](sarvābharaṇasaṃyuktaḥ) [varūṇaḥ](varūṇaḥ) [pīta-vastra-bhṛt](pītavastrabhṛt)
+[sarvābharaṇasaṃyukto](sarvābharaṇasaṃyukto) [varūṇaḥ](varūṇaḥ) [pītavastrabhṛt](pītavastrabhṛt)
 
 ## mukta-m0-p44-v1088
-[rakta-akṣaḥ](raktakṣaḥ) [rakta-vāsaḥ](raktavāsaḥ) [ca](ca) [mṛga-sthaḥ](mṛgasthaḥ) [caṅkuśī](caṅkuśī) [dhvajī](dhvajī)
+[raktakṣo](raktakṣo) [raktavāsaśca](raktavāsaśca) [mṛgasthaścaṅkuśī](mṛgasthaścaṅkuśī) [dhvajī](dhvajī)
 
 ## mukta-m0-p44-v1089
-[dhaneśaḥ](dhaneśaḥ) [varadaḥ](varadaḥ) [kāryaḥ](kāryo) [nānā-ābharaṇa-maṇḍitaḥ](nānābharaṇamaṇḍitaḥ)
+[dhaneśo](dhaneśo) [varadaḥ](varadaḥ) [kāryo](kāryo) [nānābharaṇamaṇḍitaḥ](nānābharaṇamaṇḍitaḥ)
 
 ## mukta-m0-p44-v1090
-[īśānaḥ](īśānaḥ) [ahi-indu-bhṛt](ahīndubhṛt) [ca](ca) [ete](caite) [lokapālāḥ](lokapālāḥ) [dvi-bāhavaḥ](dvibāhavaḥ)
+[īśāno'hīndubhṛccaite](īśāno'hīndubhṛccaite) [lokapālā](lokapālā) [dvibāhavaḥ](dvibāhavaḥ)
 
 ## mukta-m0-p44-v1091
-[viśvakarmā](viśvakarmā) [sadā](sadā) [gauraḥ](gauro) [jñāna-mudrā-akṣa-sūtra-bhṛt](jñānamudrākṣasūtrabhṛt)
+[viśvakarmā](viśvakarmā) [sadā](sadā) [gauro](gauro) [jñānamudrākṣasūtrabhṛt](jñānamudrākṣasūtrabhṛt)
 
 ## mukta-m0-p44-v1092
-[ālīḍha-karaṇa-āsaktaṃ](ālīḍhakaraṇāsaktaṃ) [mahā-kāyaṃ](mahākāyaṃ) [su-bhīṣaṇam](subhīṣaṇam)
+[ālīḍhakaraṇāsaktaṃ](ālīḍhakaraṇāsaktaṃ) [mahākāyaṃ](mahākāyaṃ) [subhīṣaṇam](subhīṣaṇam)
 
 ## mukta-m0-p44-v1093
-[pīta-dhvaja-dharaṃ](pītadhvajadharaṃ) [vāme](vāme) [tarjanīṃ](tarjanīṃ) [vā](vā) [hṛt-agrataḥ](hṛdagrataḥ)
+[pītadhvajadharaṃ](pītadhvajadharaṃ) [vāme](vāme) [tarjanīṃ](tarjanīṃ) [vā](vā) [hṛdagrataḥ](hṛdagrataḥ)
 
 ## mukta-m0-p44-v1094
-[saṃpīḍya](saṃpīḍya) [rākasān](rākasān) [padbhyāṃ](padbhyāṃ) [muñcan](muñcannādaṃ) [ādaṃ](ādaṃ) [marut-sutam](marutsutam)
+[saṃpīḍya](saṃpīḍya) [rākasān](rākasān) [padbhyāṃ](padbhyāṃ) [muñcannādaṃmarutsutam](muñcannādaṃmarutsutam)
 
 ## mukta-m0-p44-v1095
-[skandha-yakṣa-anvitā](skandhayakṣānvitā) [nityaṃ](nityaṃ) [kartavyā](kartavyā) [yoṣit-anvitāḥ](yoṣidanvitāḥ)
+[skandhayakṣānvitā](skandhayakṣānvitā) [nityaṃ](nityaṃ) [kartavyā](kartavyā) [yoṣidanvitāḥ](yoṣidanvitāḥ)
 
 ## mukta-m0-p44-v1096
-[mālā-bhṛtaḥ](mālābhṛto) [athavā](athavā) [hṛṣṭāḥ](hṛṣṭāḥ) [kha-sthāḥ](khasthā) [vidyādharāḥ](vidyādharāḥ) [sadā](sadā)
+[mālābhṛto'thavā](mālābhṛto'thavā) [hṛṣṭāḥ](hṛṣṭāḥ) [khasthā](khasthā) [vidyādharāḥ](vidyādharāḥ) [sadā](sadā)
 
 ## mukta-m0-p44-v1097
-[piṅga-varvara-keśa-aśva](piṅgavarvara-keśāśva) [vetālāḥ](vetālā) [vikṛta-ānanāḥ](vikṛtānanāḥ)
+[piṅgavarvarakeśāśva](piṅgavarvarakeśāśva) [vetālā](vetālā) [vikṛtānanāḥ](vikṛtānanāḥ)
 
 ## mukta-m0-p44-v1098
-[kapāla-mālinaḥ](kapālamālinaḥ) [śūla-dhāriṇaḥ](śūladhāriṇaḥ) [kṣetra-pālakāḥ](kṣetrapālakāḥ)
+[kapālamālinaḥ](kapālamālinaḥ) [śūladhārīṇaḥ](śūladhārīṇaḥ) [kṣetrapālakāḥ](kṣetrapālakāḥ)
 
 ## mukta-m0-p44-v1099
-[kṛśāḥ](kṛśā) [mahodarāḥ](mahodarāḥ) [pretāḥ](pretā) [khalu-gallāḥ](khalugallāḥ) [ca](ca) [lomaśāḥ](lomaśāḥ)
+[kṛśā](kṛśā) [mahodarāḥ](mahodarāḥ) [pretā](pretā) [khalvagallāśca](khalvagallāśca) [lomaśāḥ](lomaśāḥ)
 
 ## mukta-m0-p44-v1100
-[sva-aṅga-varṇa-dharāḥ](svāṅgavarṇadharāḥ) [sarvāḥ](sarvā) [yathā-uktaṃ](yathoktaṃ) [brahma-yāmale](brahmayāmale)
+[svāṅgavarṇadharāḥ](svāṅgavarṇadharāḥ) [sarvā](sarvā) [yathoktaṃ](yathoktaṃ) [brahmayāmale](brahmayāmale)
