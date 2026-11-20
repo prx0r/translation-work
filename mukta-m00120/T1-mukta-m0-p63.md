@@ -5,73 +5,73 @@
 [seed-form](bījarūpaṃ) [great-god](mahādevaṃ) [creation-power](sṛṣṭiśakti) [own-form](svarūpakam)
 
 ## mukta-m0-p63-v1552
-[manifestation](prādurbhāvaṃ) [concealment](tirobhāvaṃ) [mutual](paraspara) [intended](vivakṣitam)
+[manifestation](prādurbhāvaṃ) [concealment](tirobhāvaṃ) [mutually](paraspara) [intended](vivakṣitam)
 
 ## mukta-m0-p63-v1553
-[power-there](śaktistatra) [great-goddess](mahādevi) [subtle-form-by](sūkṣmarūpeṇa) [spoken](bhāṣitā)
+[power](śaktiḥ) [there](tatra) [great-goddess](mahādevi) [subtle-form](sūkṣmarūpeṇa) [spoken](bhāṣitā)
 
 ## mukta-m0-p63-v1554
-[fivefold-or-onefold](pañcadhāpyekadhā) [where](yatra) [manifold-formed](nānārūpavatī) [shiva](śivā)
+[fivefold](pañcadhā) [or](api) [onetime](ekadhā) [where](yatra) [many-formed](nānārūpavatī) [śivā](śivā)
 
 ## mukta-m0-p63-v1555
-[inseparable](avinābhāva) [relation](sambandhaṃ) [of-two-only](dvayoreva) [mutual](parasparam)
+[inseparable](avinābhāva) [relation](sambandhaṃ) [of-two](dvayoreva) [mutually](parasparam)
 
 ## mukta-m0-p63-v1556
-[shakti-joined-shankara](śaktyāktaśaṅkaram)
+[by-power+tinged+śaṅkara](śaktyāktaśaṅkaram)
 
 ## mukta-m0-p63-v1557
-[power-and](śaktiśca) [in-purushas-joined](puruṣeṣvāktā) [when](yadā) [all](sarva) [illuminating](prakāśinī)
+[power](śaktiḥ) [ca](ca) [in-puruṣas](puruṣeṣvāktā) [when](yadā) [all](sarva) [illuminating](prakāśinī)
 
 ## mukta-m0-p63-v1558
-[shiva-knowledge](śivajñānaṃ) [without](vinā) [something](kiñcit) [shakti-knowledge](śaktijñānaṃ) [not](na) [arises](jāyate)
+[śiva-knowledge](śivajñānaṃ) [without](vinā) [anything](kiñcit) [power-knowledge](śaktijñānaṃ) [not](na) [arises](jāyate)
 
 ## mukta-m0-p63-v1559
-[thus](iti) [by-sri-sarvananda-natha-composed](śrīsarvānandanāthaviracite) [in-sarvollasa](sarvollāse) [fifty-first-ullasa](ekapañcāśadullāsaḥ)
+[thus](iti) [by-śrī-sarvānandanātha](śrīsarvānandanāthaviracite) [sarvollāsa](sarvollāse) [fifty-one](ekapañcāśadullāsaḥ)
 
 ## mukta-m0-p63-v1560
-[therefore](ataśca) [after-many-births-end](bahujanmānte) [shakti](śakti) [knowledge](jñānaṃ) [arises](prajāyate)
+[therefore](ataśca) [after-many-births](bahujanmānte) [power-knowledge](śaktijñānaṃ) [arises](prajāyate)
 
 ## mukta-m0-p63-v1561
-[that](sā) [shakti-vama](śaktirvāmā) [knowable](vijñeyā) [of-purusha](puruṣasya) [also](api) [liberation-giving](muktidā)
+[that](sā) [power](śaktiḥ) [vāmā](vāmā) [to-be-known](vijñeyā) [of-puruṣa](puruṣasyāpi) [liberating](muktidā)
 
 ## mukta-m0-p63-v1562
 [giving](dāyinī)
 
 ## mukta-m0-p63-v1563
-[manifest](vyaktā) [pleasing](ramaṇa) [pleased](tuṣṭā) [if](cet) [hidden](guptā) [pleasing](ramaṇa) [pleased-ness](tuṣṭitā)
+[manifest](vyaktā) [pleasing](ramaṇa) [satisfied](tuṣṭā) [cet](cet) [hidden](guptā) [pleasing](ramaṇa) [satisfied](tuṣṭitā)
 
 ## mukta-m0-p63-v1564
-[therefore-among-them](atastebhyaḥ) [principal](pradhānaṃ) [indeed](hi) [shakti](śaktiṃ) [know](viddhi) [great-minded](mahāmate)
+[therefore](atastebhyaḥ) [principal](pradhānaṃ) [hi](hi) [power](śaktiṃ) [know](viddhi) [wise](mahāmate)
 
 ## mukta-m0-p63-v1565
-[that-very](saiva) [all-lady](sarveśvarī) [goddess](devi) [that](sa) [and](ca) [all](sarvo) [great-lord](maheśvaraḥ)
+[she](saiva) [all-lady](sarveśvarī) [goddess](devi) [he](sa) [ca](ca) [all](sarvo) [maheśvaraḥ](maheśvaraḥ)
 
 ## mukta-m0-p63-v1566
-[action-inaction](kāryākāryaṃ) [great-goddess](maheśāni) [of-her](tasyā) [only](eva) [not](na) [doubt](saṃśayaḥ)
+[to-be-done/not](kāryākāryaṃ) [maheśāni](maheśāni) [of-her](tasyā) [eva](eva) [no](na) [doubt](saṃśayaḥ)
 
 ## mukta-m0-p63-v1567
-[action-inaction](kāryākāryaṃ) [becomes](bhavet) [of-shakti](śakter) [unattached](nirliptaḥ) [purusha](puruṣaḥ) [in-shiva](śive)
+[to-be-done/not](kāryākāryaṃ) [becomes](bhavet) [of-power](śakter) [unattached](nirliptaḥ) [puruṣaḥ](puruṣaḥ) [śive](śive)
 
 ## mukta-m0-p63-v1568
-[action](kriyā) [of-shakti-becomes](śakterbhavet) [deed](kāryaṃ) [of-beings](prāṇināṃ) [all-accomplishment](sarvasādhane)
+[action](kriyā) [of-power](śakter) [becomes](bhavet) [to-be-done](kāryaṃ) [of-beings](prāṇināṃ) [all-means](sarvasādhane)
 
 ## mukta-m0-p63-v1569
-[or-also](athavāpi) [shiva](śivaṃ) [knowable](jñeyaṃ) [embodied](dehinaṃ) [shakti](śakti) [seed](bījakam)
+[or](athavāpi) [śiva](śivaṃ) [to-be-known](jñeyaṃ) [embodied](dehinaṃ) [power](śakti) [seed](bījakam)
 
 ## mukta-m0-p63-v1570
-[vama-knowledge](vāmājñānaṃ) [great-goddess](maheśāni) [gross](sthūla) [subtle](sūkṣma) [measure](pramāṇakam)
+[vāmā-knowledge](vāmājñānaṃ) [maheśāni](maheśāni) [gross](sthūla) [subtle](sūkṣma) [measure](pramāṇakam)
 
 ## mukta-m0-p63-v1571
-[in-absence](abhāve) [own-woman](svastriyaṃ) [goddess](devi) [how-said](kathamuktaṃ) [in-sadashiva](sadāśive)
+[in-absence](abhāve) [own-wife](svastriyaṃ) [devi](devi) [how-spoken](kathamuktaṃ) [sadāśiva](sadāśive)
 
 ## mukta-m0-p63-v1572
-[brahma](brahma) [given-fire](dattāgninā) [by-offering](hutvā) [shiva](śiva) [given](dattā) [but](tu) [by-desire](kāmataḥ)
+[brahma](brahma) [given](dattā) [fire](agninā) [offered](hutvā) [śiva](śiva) [given](dattā) [tu](tu) [desire](kāmataḥ)
 
 ## mukta-m0-p63-v1573
-[doubt](sandeho) [not-indeed](naiva) [to-be-done](kartavyo) [my](mama) [word-according-to](vākyānusārataḥ)
+[doubt](sandeho) [not](naiva) [to-be-done](kartavyo) [my](mama) [words](vākyānusārataḥ)
 
 ## mukta-m0-p63-v1574
-[own-vama](svavāmā) [for-pleasing](toṣaṇārthe) [even](api) [other](para) [vama-and](vāmāñca) [please](toṣayet)
+[own-vāmā](svavāmā) [for-pleasing](toṣaṇārthe) [api](api) [other-vāmā](paravāmāñca) [please](toṣayet)
 
 ## mukta-m0-p63-v1575
-[please](toṣayet) [supreme-goddess](parameśāni) [hero-state](vīrabhāva) [resorting](samāśritaḥ)
+[please](toṣayet) [parameśāni](parameśāni) [vīra-bhāva](vīrabhāva) [resorted](samāśritaḥ)
