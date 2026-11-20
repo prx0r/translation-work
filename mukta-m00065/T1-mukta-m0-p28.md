@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p28-v676
-[new-limit-maker-end's](navāvadhikarāntasya) [zero-fault](śūnyadoṣo) [not](na) [of-anyone](kasyacit)
+[new-limit-maker-end-genitive](navāvadhikarāntasya) [void-fault](śūnyadoṣo) [not](na) [anyone's](kasyacit)
 
 ## mukta-m0-p28-v677
-[threefold](tridhā) [by-measure](mānena) [and-one](caikena) [sixteen-cornered](ṣoḍaśāsraṃ) [two-hundred](śatadvayam)
+[threefold](tridhā) [measure-instrumental](mānena) [and-one](caikena) [sixteen-cornered](ṣoḍaśāsraṃ) [two-hundred](śatadvayam)
 
 ## mukta-m0-p28-v678
-[four-six-eight-cornered](caturaṣṭaṣaḍasraṃ) [then](tu) [Indra-marked](indrāṅkaṃ) [diamond-formed](vajrarūpakam)
+[four-six-eight-cornered](caturaṣṭaṣaḍasraṃ) [then](tu) [indra-marked](indrāṅkaṃ) [vajra-shaped](vajrarūpakam)
 
 ## mukta-m0-p28-v679
-[by-bindu-impact-union](bindusaṃpātsaṃyogāt) [by-cross-threads](tiryaksūtrair) [one-turns](vivartayet)
+[bindu-arrival-union](bindusaṃpātsaṃyogāt) [oblique-threads](tiryaksūtrair) [turn](vivartayet)
 
 ## mukta-m0-p28-v680
-[above-two-corners](vasvasrordhvaṃ) [then](tu) [seven-cornered](saptāsraṃ) [by-power-fire](śaktyāgneya) [and-burning-maker](ca dāhakṛt)
+[vasu-corner-above](vasvasrordhvaṃ) [then](tu) [seven-cornered](saptāsraṃ) [power-fiery](śaktyāgneya) [and](ca) [burning-maker](dāhakṛt)
 
 ## mukta-m0-p28-v681
-[not-half](nāhārdhaṃ) [ninefold](navadhā) [having-made](kṛtvā) [by-arrows-heart-back-corners](śarairhṛtpṛṣṭhakoṭibhiḥ)
+[not-heart-half](nāhārdhaṃ) [ninefold](navadhā) [having-made](kṛtvā) [arrows](śarair) [heart-back-corner](hṛtpṛṣṭhakoṭibhiḥ)
 
 ## mukta-m0-p28-v682
-[thus](evaṃ) [and-eight-cornered-surrounded](cāṣṭāsravṛtaṃ) [would-be-south-staff](syādyāmyadaṇḍaṃ) [pain-giving](rujapradam)
+[thus](evaṃ) [ca](ca) [eight-cornered-surrounded](aṣṭāsravṛtaṃ) [would-be](syāt) [south-staff](yāmyadaṇḍaṃ) [disease-giving](rujapradam)
 
 ## mukta-m0-p28-v683
-[eight-cornered-half](aṣṭāsro'rdha) [ten-cornered](daśāstraṃ) [would-be](syāt) [sword-like](khaḍgābhaṃ) [rakshasa-fear](rākṣasaṃ bhayam)
+[eight-cornered-half](aṣṭāsro'rdha) [ten-cornered](daśāstraṃ) [would-be](syāt) [sword-like](khaḍgābhaṃ) [rakshasa-fear](rākṣasaṃ) [bhayam](bhayam)
 
 ## mukta-m0-p28-v684
-[four-eight-cornered-surrounded](caturaṣṭāsravṛttaṃ) [would-be](syāt) [noose-like](pāśavat) [Varuna-auspicious](vāruṇaṃ śubham)
+[four-eight-cornered-surrounded](caturaṣṭāsravṛttaṃ) [would-be](syāt) [noose-like](pāśavat) [varuna-auspicious](vāruṇaṃ) [śubham](śubham)
 
 ## mukta-m0-p28-v685
-[thin](kṛśaṃ) [front-formed](prāgrūpakaṃ) [long](dīrghaṃ) [moving](calam) [uprooting-banner](uccāṭakṛddhvajam)
+[thin](kṛśaṃ) [front-form](prāgrūpakaṃ) [long](dīrghaṃ) [moving](calam) [uprooting-maker](uccāṭakṛt) [banner](dhvajam)
 
 ## mukta-m0-p28-v686
-[Yaksha](yākṣaṃ) [mace-top-headed](gadāgramūrdhānaṃ) [strength-increase-making](balavṛddhikaraṃ) [Shiva](śivam)
+[yaksha](yākṣaṃ) [mace-head](gadāgramūrdhānaṃ) [strength-increase-maker](balavṛddhikaraṃ) [auspicious](śivam)
 
 ## mukta-m0-p28-v687
-[four-five-cornered](catuḥpañcāsrakaṃ) [three-cornered](tryasraṃ) [trident](śūlaṃ) [Rudra](raudraṃ) [then](tu) [liberation-giving](muktidam)
+[four-five-cornered](catuḥpañcāsrakaṃ) [three-cornered](tryasraṃ) [trident](śūlaṃ) [fierce](raudraṃ) [then](tu) [liberation-giving](muktidam)
 
 ## mukta-m0-p28-v688
-[eight-cornered-half](aṣṭāsro'rdhaṃ) [and](ca) [four-cornered](vedāsraṃ) [Brahma](brāhmaṃ) [for-heaven](svargāya) [lotus-like](padmavat)
+[eight-cornered-half](aṣṭāsro'rdhaṃ) [and](ca) [four-cornered](vedāsraṃ) [brahma](brāhmaṃ) [heaven-for](svargāya) [lotus-like](padmavat)
 
 ## mukta-m0-p28-v689
-[four-eight-cornered-surrounded](caturaṣṭāsravṛttaṃ) [would-be](syāt) [Vaishnava](vaiṣṇavaṃ) [conch-like](śaṅkhavat) [auspicious](śubham)
+[four-eight-cornered-surrounded](caturaṣṭāsravṛttaṃ) [would-be](syāt) [vaishnava](vaiṣṇavaṃ) [conch-like](śaṅkhavat) [auspicious](śubham)
 
 ## mukta-m0-p28-v690
-[from-Rudra-three-less](rudrāttrihānitaḥ) [conch](śuktir) [staff](daṇḍo) [from-directions-three-less](digbhyastrihānitaḥ)
+[rudra-from-three-less](rudrāttrihānitaḥ) [conch](śuktir) [staff](daṇḍo) [directions-from-three-less](digbhyastrihānitaḥ)
 
 ## mukta-m0-p28-v691
-[cock-egg](kukkuṭāṇḍaṃ) [and](ca) [in-northwest](vāyavye) [from-beings-part](bhūtāṃśāddhi) [where](yate) [mace](gadā)
+[cock-egg](kukkuṭāṇḍaṃ) [and](ca) [northwest](vāyavye) [beings-part-from](bhūtāṃśāddhi) [where](yate) [mace](gadā)
 
 ## mukta-m0-p28-v692
-[right-egg-portion](dakṣāṇḍabhaja) [of-Vishnu](vaiṣṇośca) [thus](ittha) [line](rekhā) [of-gem](maṇerapi)
+[right-egg-portion](dakṣāṇḍabhaja) [vaishnava's](vaiṣṇośca) [thus](ittha) [line](rekhā) [jewel's](maṇerapi)
 
 ## mukta-m0-p28-v693
-[split](sphuṭitaṃ) [like-embryo](garbhavat) [seen](daṣṭaṃ) [one-should-place](sthāpayet) [in-abhivārika](ābhivārike)
+[split](sphuṭitaṃ) [embryo-like](garbhavat) [seen](daṣṭaṃ) [place](sthāpayet) [in-protector](ābhivārike)
 
 ## mukta-m0-p28-v694
 [manifest-signs](vyaktaliṅgāni) [and](ca) [others](anyāni) [various](nānā) [forms](rūpāṇi) [I-speak](vacmyataḥ)
 
 ## mukta-m0-p28-v695
-[thus](iti) [in-characteristic-collection](lakṣaṇasamuccaye) [unmanifest-sign-characteristic](avyaktaliṅgalakṣaṇaṃ) [named](nāma) [fourth](caturtho) [rite](vidhiḥ)
+[thus](iti) [characteristics-collection](lakṣaṇasamuccaye) [unmanifest-sign-characteristic](avyaktaliṅgalakṣaṇaṃ) [named](nāma) [fourth](caturtho) [rite](vidhiḥ)
 
 ## mukta-m0-p28-v696
-[by-previous-finger-measure](pūrvāṅgulapramāṇena) [ten-five-finger-fingers](daśapañcāṅgulāṅgulāt)
+[previous-finger-measure](pūrvāṅgulapramāṇena) [ten-five-finger](daśapañcāṅgulāṅgulāt)
 
 ## mukta-m0-p28-v697
-[sometimes-hand-measure](kvaciddhastapramāṇā) [she](sā) [sometimes](kvacicca) [thirty-fingers](triṃśadaṅgulā)
+[sometimes](kvacit) [hand-measure](hastapramāṇā) [she](sā) [sometimes](kvacicca) [thirty-finger](triṃśadaṅgulā)
 
 ## mukta-m0-p28-v698
-[door-height](dvārocchrayaṃ) [having-divided](vibhajyādau) [eight-cornered](aṣṭadhaukaṃ) [having-made](vidhāya) [and](ca)
+[door-height](dvārocchrayaṃ) [dividing](vibhajyādau) [eight-part](aṣṭadhaukaṃ) [having-made](vidhāya) [and](ca)
 
 ## mukta-m0-p28-v699
-[to-be-made](vidhātavyā) [by-two-parts](dvibhāgena) [smaller](kanyasī) [image](pratimā) [and](ca) [she](sā)
+[to-be-made](vidhātavyā) [two-part](dvibhāgena) [smaller](kanyasī) [image](pratimā) [and](ca) [she](sā)
 
 ## mukta-m0-p28-v700
-[middle](madhyamā) [would-be](syāt) [by-two-parts](dvibhāgena) [by-one-part](kāryaikāṃśena) [pedestal](pīṭhikā)
+[middle](madhyamā) [would-be](syāt) [two-part](dvibhāgena) [to-be-made-one-part](kāryaikāṃśena) [pedestal](pīṭhikā)
