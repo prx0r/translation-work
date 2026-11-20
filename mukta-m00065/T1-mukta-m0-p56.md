@@ -5,73 +5,73 @@
 [in-winter](hemante) [knowledge-giving](jñānadaṃ) [liṅga](liṅgaṃ) [in-cool-season](śiśire) [all-beings-giving](sarvabhūtidam)
 
 ## mukta-m0-p56-v1377
-[of-ascetics](yatīnāṃ) [at-all-times](sarvakāleṣu) [of-liṅga](liṅgasya) [installation](āropaṇaṃ) [opinion](matam)
+[of-ascetics](yatīnāṃ) [at-all-times](sarvakāleṣu) [installation-of-liṅga](liṅgasyāropaṇaṃ) [opinion](matam)
 
 ## mukta-m0-p56-v1378
-[in-southern-course](dakṣiṇe+ayane) [not-to-be-worshipped](apūjyaṃ) [beyond-three-years](trivarṣa+ūrdhvaṃ) [fear-bringing](bhayāvaham)
+[in-southern-course](dakṣiṇāyane) [not-worshipable](apūjyaṃ) [above-three-years](trivarṣordhvaṃ) [fear-bringing](bhayāvaham)
 
 ## mukta-m0-p56-v1379
-[for-decay](kṣayāya) [for-growth](bṛddhaye) [may-be](syāt) [and](ca) [southern](yāmye) [northern](saumye) [other](apare) [sun](ravau)
+[for-decay](kṣayāya) [for-growth](bṛddhaye) [may-be](syāt) [and](ca) [in-southern](yāmye) [in-northern](saumye) [other](apare) [sun](ravau)
 
 ## mukta-m0-p56-v1380
-[after-six-six-months](ṣaṭ+ṣaṇ+māsa+uttarān) [three-years](tri+abdān) [according-to-maya](maya+matāt) [result](phalaṃ) [gradually](kramāt)
+[by-Maya-opinion](mayamatāt) [result](phalaṃ) [gradually](kramāt)
 
 ## mukta-m0-p56-v1381
-[black-magic](abhicāraḥ) [becomes](bhavet) [there](tatra) [installed](sthāpite) [in-southern](dakṣiṇe) [course](ayane)
+[black-magic](abhicāro) [may-be](bhavet) [there](tatra) [installed](sthāpite) [in-southern-course](dakṣiṇe'yane)
 
 ## mukta-m0-p56-v1382
-[boys](kumārāḥ) [are-afflicted](saṃprapīḍyante) [destruction-of-girls](kanyā+nāśaḥ) [and](ca) [arises](jāyate)
+[boys](kumārāḥ) [are-oppressed](saṃprapīḍyante) [loss-of-girls](kanyānāśaḥ) [and](ca) [arises](jāyate)
 
 ## mukta-m0-p56-v1383
-[of-maker](kartuḥ) [decay](kṣayaḥ) [constant-grief](sadā+śokaḥ) [in-house](gṛhe) [becomes](bhavati) [terrible](dāruṇaḥ)
+[of-doer](kartuḥ) [decay](kṣayaḥ) [constant-sorrow](sadāśokaḥ) [in-house](gṛhe) [occurs](bhavati) [terrible](dāruṇaḥ)
 
 ## mukta-m0-p56-v1384
-[seeking-auspicious](śubha+arthī) [not](na) [should-act](pravarteta) [of-goddess](devyāḥ) [mantra-etc-scripture](mantra+ādi+śāstrataḥ)
+[seeking-auspicious](śubhārthī) [not](na) [should-act](pravarteta) [of-goddess](devyā) [according-to-mantra-scriptures](mantrādiśāstrataḥ)
 
 ## mukta-m0-p56-v1385
-[therefore-place](tasmāt+sthānaṃ) [teacher](guruṃ) [having-obtained](prāpya) [for-protection](rakṣaye) [from-black-magic](dābhicārikam)
+[therefore](tasmāt) [place](sthānaṃ) [teacher](guruṃ) [having-obtained](prāpya) [for-protection](rakṣaye) [black-magic-related](abhicārikam)
 
 ## mukta-m0-p56-v1386
-[installation](sthāpanaṃ) [indeed](tu) [should-be-done](prakartavyaṃ) [from-cool-season](śiśirāt) [etc](ādi) [three-seasons](ṛtu+traye)
+[installation](sthāpanaṃ) [but](tu) [should-be-done](prakartavyaṃ) [in-cool-season-first](śiśirādau) [in-three-seasons](ṛtutraye)
 
 ## mukta-m0-p56-v1387
-[with-moon-star-yoga](sacandra+tāraka+yoge) [with-good-lagna-karaṇa](sulagna+karaṇa+anvite)
+[with-moon-star-conjunction](sacandratārakāyoge) [with-good-lagna-karana](sulagnakaraṇānvite)
 
 ## mukta-m0-p56-v1388
-[non-dual](advaite) [and-indeed](ca+eva) [in-dark](kṛsṇe) [also](api) [mantra-form](mantra+mūrti) [by-distinction](prabhedataḥ)
+[non-dual](advaite) [and](ca) [indeed](eva) [dark](kṛsṇe) [also](api) [mantra-form](mantramūrti) [by-distinction](prabhedataḥ)
 
 ## mukta-m0-p56-v1389
-[pañcarātra-worthy](pāñcarātra+arha) [mixed](miśrā) [fifty-years](pañcāśat+varṣa) [duration](saṃsthitiḥ)
+[mixed](miśrā) [fifty-year-duration](pañcāśadvarṣasaṃsthitiḥ)
 
 ## mukta-m0-p56-v1390
-[hundred-years](śata+abdor) [indeed](tu) [that](sā) [stands](tiṣṭhet) [vāṇa-liṅga](vāṇa+liṅgaṃ) [like-self-born](svayambhu+vat)
+[that](sā) [may-stand](tiṣṭhet) [arrow-liṅga](vāṇaliṅgaṃ) [like-self-born](svayambhubat)
 
 ## mukta-m0-p56-v1391
-[many-meanings](bahvartha) [of-falls](nipātānāṃ) [purification-etc](saṃskāra+ādau) [installation](pratiṣṭhitiḥ)
+[from-purification](saṃskārādau) [installation](pratiṣṭhitiḥ)
 
 ## mukta-m0-p56-v1392
-[purified](saṃskṛtā) [substance-mantra-purification](dravya+san+mantra+saṃskṛtiḥ) [which](yā) [divine](suragya) [and](ca)
+[purified](saṃskṛtā) [divine](suragya) [and](ca)
 
 ## mukta-m0-p56-v1393
-[image](pratimāṃ) [five-divisions](pañca+bhedaiḥ) [indeed](tu) [installation](pratiṣṭhā) [fivefold](pañcadhā) [declared](uditā)
+[image](pratimāṃ) [with-five-divisions](pañcabhedaistu) [installation](pratiṣṭhā) [fivefold-stated](pañcadhoditā)
 
 ## mukta-m0-p56-v1394
-[second](dvitīyā) [long-life](āyu) [gives](dadyāt) [third](tṛtīyā) [son-prosperity](putra+saṃpadaḥ)
+[gives-life](dvitīyāyumati) [third](tṛtīyā) [son-prosperity](putrasaṃpadaḥ)
 
 ## mukta-m0-p56-v1395
-[tenth](daśamī) [land-gain](bhūmi+lābhaṃ) [and](ca) [good-fortune](saubhāgyaṃ) [and](ca) [thirteenth](trayodaśī)
+[tenth](daśamī) [land-gain](bhūmilābhaṃ) [good-fortune](saubhāgyaṃ) [thirteenth](trayodaśī)
 
 ## mukta-m0-p56-v1396
-[one-maker-śaṅkara](ekartu+śaṅkaraiḥ) [nandā](nandā) [bhadrā](bhadrā) [pakṣa-ṛṣi-sun](pakṣa+ṛṣi+bhānubhiḥ)
+[auspicious](bhadrā)
 
 ## mukta-m0-p56-v1397
-[vāṇa-dik-tithi](bāṇa+dik+tithibhiḥ) [full](pūrṇā) [deficient-equal-harmful](hīna+tulya+ahitāḥ) [gradually](kramāt)
+[full](pūrṇā) [gradually](kramāt)
 
 ## mukta-m0-p56-v1398
-[jupiter](vṛhaspatiḥ) [ten-five-years](dvi+pañca+āyuḥ) [mercury](budyaḥ) [victory-wealth](jaya+dhanāni) [and](ca)
+[jupiter](vṛhaspatiḥ) [victory-wealth](jayadhanāni)
 
 ## mukta-m0-p56-v1399
-[cancer](karka) [taurus-libra-sagittarius](vṛṣa+tulā+cāpa) [woman-lion-dragon-pair](strī+siṃha+grāha+yugmake)
+[with-zodiac-pairs](karka-vṛṣatulācāpastrīsiṃhagrāhayugmake)
 
 ## mukta-m0-p56-v1400
-[six-eight-four-yāma](ṣaḍ+aṣṭa+catur+yāmāt) [four](catuḥ) [zodiac-in-order](rāśi+krameṇa) [indeed](tu)
+[by-zodiac-order](rāśikrameṇa) [but](tu)
