@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p32-v776
-[gloss](arcayelliṃgamīśānamiyamādyā) [gloss](mayāhutiḥ)
+[arcayelliṃgamīśānamiyamādyā](arcayelliṃgamīśānamiyamādyā) [mayāhutiḥ](mayāhutiḥ)
 
 ## mukta-m0-p32-v777
-[gloss](caṃdragarbheti) [gloss](kāpyasti) [gloss](nāḍīnalinalocane)
+[caṃdragarbheti](caṃdragarbheti) [kāpyasti](kāpyasti) [nāḍīnalinalocane](nāḍīnalinalocane)
 
 ## mukta-m0-p32-v778
-[gloss](tatratyamamṛtaṃ) [gloss](viddhi) [gloss](kāmeśvaryuktibhūtidam)
+[tatratyamamṛtaṃ](tatratyamamṛtaṃ) [viddhi](viddhi) [kāmeśvaryuktibhūtidam](kāmeśvaryuktibhūtidam)
 
 ## mukta-m0-p32-v779
-[gloss](īṣatpāṭalavarṇaṃ) [gloss](ca) [gloss](yūthikāsamasaurabham)
+[īṣatpāṭalavarṇaṃ](īṣatpāṭalavarṇaṃ) [ca](ca) [yūthikāsamasaurabham](yūthikāsamasaurabham)
 
 ## mukta-m0-p32-v780
-[gloss](sabhavatyaṃ) [gloss](samāpanno) [gloss](jaladatvaṃ) [gloss](vaśīkriyāt)
+[sabhavatyaṃ](sabhavatyaṃ) [samāpanno](samāpanno) [jaladatvaṃ](jaladatvaṃ) [vaśīkriyāt](vaśīkriyāt)
 
 ## mukta-m0-p32-v781
-[gloss](na) [gloss](sarodeva) [gloss](svāteṣu) [gloss](skhalitaṃ) [gloss](gamanaṃ) [gloss](bhavet)
+[na](na) [sarodeva](sarodeva) [svāteṣu](svāteṣu) [skhalitaṃ](skhalitaṃ) [gamanaṃ](gamanaṃ) [bhavet](bhavet)
 
 ## mukta-m0-p32-v782
-[gloss](caṃdonmattā) [gloss](padasthāne) [gloss](caṃdragarbhā) [gloss](prakīrttitā)
+[caṃdonmattā](caṃdonmattā) [padasthāne](padasthāne) [caṃdragarbhā](caṃdragarbhā) [prakīrttitā](prakīrttitā)
 
 ## mukta-m0-p32-v783
-[gloss](atradūtyāḥ) [gloss](śarīrasya) [gloss](pūrvatrāpi) [gloss](daśābruve)
+[atradūtyāḥ](atradūtyāḥ) [śarīrasya](śarīrasya) [pūrvatrāpi](pūrvatrāpi) [daśābruve](daśābruve)
 
 ## mukta-m0-p32-v784
-[gloss](īṣadāraktatānetre) [gloss](kiṃcidbhūvallitāṃḍavaṃ)
+[īṣadāraktatānetre](īṣadāraktatānetre) [kiṃcidbhūvallitāṃḍavaṃ](kiṃcidbhūvallitāṃḍavaṃ)
 
 ## mukta-m0-p32-v785
-[gloss](ānaṃdanātha) [gloss](bhavana) [gloss](bāhyakakṣyā) [gloss](vigāhanam)
+[ānaṃdanātha](ānaṃdanātha) [bhavana](bhavana) [bāhyakakṣyā](bāhyakakṣyā) [vigāhanam](vigāhanam)
 
 ## mukta-m0-p32-v786
-[gloss](stanayoḥ) [gloss](pulakāṃkūraḥ) [gloss](gaṃḍayoścānuraktatā)
+[stanayoḥ](stanayoḥ) [pulakāṃkūraḥ](pulakāṃkūraḥ) [gaṃḍayoścānuraktatā](gaṃḍayoścānuraktatā)
 
 ## mukta-m0-p32-v787
-[gloss](evaṃ) [gloss](prakārā) [gloss](sā) [gloss](dūtī) [gloss](caṃdragarbhāmṛtadravaiḥ)
+[evaṃ](evaṃ) [prakārā](prakārā) [sā](sā) [dūtī](dūtī) [caṃdragarbhāmṛtadravaiḥ](caṃdragarbhāmṛtadravaiḥ)
 
 ## mukta-m0-p32-v788
-[gloss](yajedānaṃdanāthaṃ) [gloss](sā) [gloss](vīravatphalamaśnute)
+[yajedānaṃdanāthaṃ](yajedānaṃdanāthaṃ) [sā](sā) [vīravatphalamaśnute](vīravatphalamaśnute)
 
 ## mukta-m0-p32-v789
-[gloss](arthāṃguli) [gloss](samunnamra) [gloss](taptakāṃcanasannibhā)
+[arthāṃguli](arthāṃguli) [samunnamra](samunnamra) [taptakāṃcanasannibhā](taptakāṃcanasannibhā)
 
 ## mukta-m0-p32-v790
-[gloss](tasyāścaṃdriṇikānāyā) [gloss](bhūyoliṃgeśatāḍavāt)
+[tasyāścaṃdriṇikānāyā](tasyāścaṃdriṇikānāyā) [bhūyoliṃgeśatāḍavāt](bhūyoliṃgeśatāḍavāt)
 
 ## mukta-m0-p32-v791
-[gloss](kādaṃbarī) [gloss](rasāmodīmānmadaṃtoya) [gloss](mudbhavet)
+[kādaṃbarī](kādaṃbarī) [rasāmodīmānmadaṃtoya](rasāmodīmānmadaṃtoya) [mudbhavet](mudbhavet)
 
 ## mukta-m0-p32-v792
-[gloss](godāvarī) [gloss](tīrthamayī) [gloss](tayā) [gloss](siṃcenmaheśvaram)
+[godāvarī](godāvarī) [tīrthamayī](tīrthamayī) [tayā](tayā) [siṃcenmaheśvaram](siṃcenmaheśvaram)
 
 ## mukta-m0-p32-v793
-[gloss](rudratvasīmābhaktasya) [gloss](vahnitattva) [gloss](vaśīkṛtim)
+[rudratvasīmābhaktasya](rudratvasīmābhaktasya) [vahnitattva](vahnitattva) [vaśīkṛtim](vaśīkṛtim)
 
 ## mukta-m0-p32-v794
-[gloss](tanoti) [gloss](bhagavāneṣaḥ) [gloss](mahānaṃda) [gloss](maheśvaraḥ)
+[tanoti](tanoti) [bhagavāneṣaḥ](bhagavāneṣaḥ) [mahānaṃda](mahānaṃda) [maheśvaraḥ](maheśvaraḥ)
 
 ## mukta-m0-p32-v795
-[gloss](umedāhaṃ) [gloss](prayacchaṃti) [gloss](svayamagni) [gloss](mayoyataḥ)
+[umedāhaṃ](umedāhaṃ) [prayacchaṃti](prayacchaṃti) [svayamagni](svayamagni) [mayoyataḥ](mayoyataḥ)
 
 ## mukta-m0-p32-v796
-[gloss](asyāmaṃtrastu) [gloss](suśroṇī) [gloss](śrūyatāmabhidhīyate)
+[asyāmaṃtrastu](asyāmaṃtrastu) [suśroṇī](suśroṇī) [śrūyatāmabhidhīyate](śrūyatāmabhidhīyate)
 
 ## mukta-m0-p32-v797
-[gloss](arcayāmi) [gloss](bhavadgātra) [gloss](mataḥ) [gloss](siddhiṃ) [gloss](prayacchame)
+[arcayāmi](arcayāmi) [bhavadgātra](bhavadgātra) [mataḥ](mataḥ) [siddhiṃ](siddhiṃ) [prayacchame](prayacchame)
 
 ## mukta-m0-p32-v798
-[gloss](athānyanāḍikādevī) [gloss](yā) [gloss](sā) [gloss](caṃdramahodayā)
+[athānyanāḍikādevī](athānyanāḍikādevī) [yā](yā) [sā](sā) [caṃdramahodayā](caṃdramahodayā)
 
 ## mukta-m0-p32-v799
-[gloss](aṃtaḥ) [gloss](kiṃcicchyāmavarṇātriṣu) [gloss](sthāneṣu) [gloss](vakritā)
+[aṃtaḥ](aṃtaḥ) [kiṃcicchyāmavarṇātriṣu](kiṃcicchyāmavarṇātriṣu) [sthāneṣu](sthāneṣu) [vakritā](vakritā)
 
 ## mukta-m0-p32-v800
-[gloss](līlānamrita) [gloss](gaurāṃgī) [gloss](valadbhrūvallibhāsurā)
+[līlānamrita](līlānamrita) [gaurāṃgī](gaurāṃgī) [valadbhrūvallibhāsurā](valadbhrūvallibhāsurā)
