@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p40-v976
-secondary-in-field-or six-door-one-faced praised
+secondary (gauṇaḥ) in-field (kṣetre) or (athavā) six-door-one-faced (ṣaḍdorekavaktraḥ) praised (praśasyate)
 
 ## mukta-m0-p40-v977
-as-order always six-by right-left-hands
+in-order (yathākramaṃ) always (sadā) by-six (ṣaḍbhiḥ) right-left-hands (dakṣiṇottarapāṇibhiḥ)
 
 ## mukta-m0-p40-v978
-bearing-power hand right copper-crested likewise-other
+bearing-power (bibhrachaktiṃ) in-hand (kare) right (yāmye) cock (tāmracūḍaṃ) and-other (tathetare)
 
 ## mukta-m0-p40-v979
-peacock-mounted indeed shiva this all-ornament-adorned
+peacock-mounted (śikhyārūḍhaḥ) but (tu) Śarva (śārvaḥ) this (ayaṃ) all-ornamented (sarvālaṅkārabhaṣitaḥ)
 
 ## mukta-m0-p40-v980
-stone-gold-etc-metals-or bull make-as-desired
+stone-gold-etc-metals (śilāhemādilohaiḥ) or (vā) bull (vṛṣaṃ) make (kuryāt) as-desired (yathepsitam)
 
 ## mukta-m0-p40-v981
-common-in lingas occasion-by prescribed bull
+common (sādhāraṇeṣu) liṅgas (liṅgeṣu) by-context (prastāvāt) prescribed (vihitaḥ) bull (vṛṣaḥ)
 
 ## mukta-m0-p40-v982
-linga-third-part-less made that-twice-extended-figure
+liṅga-third-part-omitted (liṅgatryaṃśojhitaḥ) to-be-made (kāryaḥ) that-twice-length (taddvirāyati) image (vigrahaḥ)
 
 ## mukta-m0-p40-v983
-auspicious-opened-eye-mark linga-head-head
+auspicious-opened-eye-mark (śubhonmolitadṛglakṣma) liṅga-head (liṅgamastaka) head (mastakaḥ)
 
 ## mukta-m0-p40-v984
-length-by four-corner-plus-? finger by that fashioned
+by-length (dairghyāt) square (caturaśa) ... (otyaśāscāṅgulaṃ) by-that (tena) measured (kalpanam)
 
 ## mukta-m0-p40-v985
-eight-eye-breadth be high that-mouth-length
+eight-eye-breadth (aṣṭanetrapṛthutvaṃ) indeed (syāt) high (proccaiḥ) that-face-length (tadvaktradīrghatā)
 
 ## mukta-m0-p40-v986
-string-part indeed star be light-that-fifth-part
+string-part (tantribhāgaṃ) star (tārā) indeed (syāt) light (jyotiḥ) that-fifth-part (tatpañcamāṃśataḥ)
 
 ## mukta-m0-p40-v987
-nose-finger-measure-round two-eye hollow-end
+nose-inch-round (nāsāṅgulapramāvṛttā) two-eye (dvinetraṃ) hollow-middle (śuṣirāntaram)
 
 ## mukta-m0-p40-v988
-five-eye indeed breadth that-above then increases
+five-eye (pañcanetraṃ) breadth (vistāraṃ) that-above (tadūrdhva) increases (vivardhate)
 
 ## mukta-m0-p40-v989
-four-eye both sides mouth-measure then joined
+four-eye (caturnetra) both-sides (ubhayoḥ) face-measure (vaktramānaṃ) joined (sandhitaḥ)
 
 ## mukta-m0-p40-v990
-that-root seven-breadth ear-root-endowed
+that-base (tanmūle) seven-breadth (saptavistāraṃ) ear-base (karṇamūlasamanvitam)
 
 ## mukta-m0-p40-v991
-finger-half-equal until root five-round
+half-inch (aṅgulārdhasamaṃ) until (yāvat) base (mūlaṃ) five-round (pañcakavartulam)
 
 ## mukta-m0-p40-v992
-ear-root-from nose-half thread-laughing bring-equal
+from-ear-base (karṇamūlāt) nose-half (nāsārdhaṃ) thread-line (sūtrahāsāt) bring-even (nayetsamam)
 
 ## mukta-m0-p40-v993
-conch-root two-eye be as-front eye-foot
+conch-base (śaṅkhamūla) two-eye (dvinetraṃ) indeed (syāt) as-front (yathāgre) eye-foot (netrapādakam)
 
 ## mukta-m0-p40-v994
-side-lump two-eye-half six-eye-front-tuft remembered
+side-lump (pārśvapiṇḍī) two-eye-half (dvinetrārdhaṃ) six-eye-front (ṣaḍnetrāgrāvaṭuḥ) remembered (smṛtaḥ)
 
 ## mukta-m0-p40-v995
-two-eye-height-above be round-above as be
+two-eye-height (dvinetrocchraya) above (ūrdhvaṃ) indeed (syāt) round-above (vṛttamūrdhvaṃ) as (yathā) becomes (bhavet)
 
 ## mukta-m0-p40-v996
-joint-eye-more stated four-eye-calf
+joint (sandhiḥ) eye-excess (netrādhikaḥ) declared (proktaḥ) four-eye-calf (caturnetropajaṅghikā)
 
 ## mukta-m0-p40-v997
-ankle-half hoof-eye foot-by measure
+ankle-half (gulphārdhaṃ) hoof-eye (khurikānetraṃ) of-foot (pādasya) measure (parimāṇataḥ)
 
 ## mukta-m0-p40-v998
-fourteen-etc that-speech three-less calf
+fourteen-etc (caturdaśādi) that-word (tadvaca) three-less (trihīne) calf (upajaṅghrikā)
 
 ## mukta-m0-p40-v999
-six-eye-within thus known thence tail-continuity
+six-eye-inside (ṣaḍnetrāntaḥ) thus (tathā) known (jñeyā) from-that (tasmāt) tail-continuity (pucchasantatiḥ)
 
 ## mukta-m0-p40-v1000
-palm-three long be palm-half hair-collection
+palm-three (tālatrayaṃ) very-long (pradīrghaṃ) indeed (syāt) palm-half (tālārdhaṃ) hair-mass (keśasaṃhatiḥ)
