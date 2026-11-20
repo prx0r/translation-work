@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p78-v1926
-[kingdom](rāṣṭre) [prosperity](subhikṣam) [health](ārogyaṃ) [make](kuryāt) [thieves+etc](caurādi) [destruction](nāśanam)
+rāṣṭre(in-kingdom) subhikṣam(prosperity) ārogyaṃ(health) kuryāt(make) caurādi(thieves-etc) nāśanam(destruction)
 
 ## mukta-m0-p78-v1927
-[founder](sthāpakasya) [always](sadā) [growth](vṛddhiḥ) [and](ye) [there](tatra) [dependents](upajīvinaḥ)
+sthāpakasya(of-installer) sadā(always) vṛddhiḥ(growth) ye(who) ca(and) tatropajīvinaḥ(living-there) [kh,gh: yoginaḥ(yogins)]
 
 ## mukta-m0-p78-v1928
-[artisans](śilpinaḥ) [workers](karmakartāraḥ) [all](sarve) [go](yānti) [śiva-temple](śivālayam)
+śilpinaḥ(artisans) karmakartāraḥ(workers) sarve(all) yānti(go) śivālayam(śiva-temple)
 
 ## mukta-m0-p78-v1929
-[enjoyment+liberation-giving](bhuktimuktipradaṃ) [known](jñeyam) [otherwise](anyathā) [contrary](viparyayaḥ)
+bhukti-mukti-pradam(giving-enjoyment-liberation) jñeyam(known) anyathā(otherwise) tu(but) viparyayaḥ(opposite)
 
 ## mukta-m0-p78-v1930
-[then](tataḥ) [caṇḍeśvara](caṇḍeśvaraṃ) [god](devaṃ) [install](sthāpayet) [by-rite](vidhinā) [guru](guruḥ)
+tataḥ(then) caṇḍeśvaram(Caṇḍeśvara) devam(god) sthāpayet(install) vidhinā(by-rite) guruḥ(teacher)
 
 ## mukta-m0-p78-v1931
-[with-rocanā](rocanayā) [eye-disease-destroying](akṣirogaghnaḥ) [fruit-offering](phalijyāṃ) [dear](priyaṅkaraḥ)
+rocanayā(by-rocanā) akṣi-roga-ghnaḥ(eye-disease-destroying) phalijyāṃ [mū: kalinyā](fruit-offering) ca(and) priyaṅkaraḥ(pleasing)
 
 ## mukta-m0-p78-v1932
-[nāga-flower](nāgapuṣpaṃ) [for-prosperity](subhikṣāya) [seven-days](saptāhaṃ) [fruit](phalaṃ) [in-order](kramāt)
+nāgapuṣpaṃ(Nāgapuṣpa) subhikṣāya(for-prosperity) saptāhaṃ(seven-days) ca(and) phalaṃ(fruit) kramāt(in-order)
 
 ## mukta-m0-p78-v1933
-[sandal+aloes+camphor+saffron+etc](candanāgurukapūrakuṅkumādyaiḥ) [anointing](lepanam)
+candana-āguru-kapūra-kuṅkuma-ādyaiḥ(sandal-etc) ca(and) lepanam(anointing)
 
 ## mukta-m0-p78-v1934
-[goat](ajena) [rocanā](rocanāṃ) [and](ca) [eva](eva) [mirror](darpaṇaṃ) [by-man](puruṣeṇa) [tu](tu)
+ajena [k,kh: añjanaṃ](collyrium) rocanāṃ(rocanā) ca(and) eva(indeed) darpaṇaṃ(mirror) puruṣeṇa(by-man) tu(but)
 
 ## mukta-m0-p78-v1935
-[bracelet](kaṭakaṃ) [waist-cord](kaṭisūtraṃ) [ca](ca) [silk-band](paṭṭabandhaṃ) [ca](ca) [whatever](yadbhavet)
+kaṭakaṃ(bracelet) kaṭisūtraṃ(waist-cord) ca(and) paṭṭabandhaṃ(silk-band) ca(and) yat-whatever(bhavet)
 
 ## mukta-m0-p78-v1936
-[sometimes](kvacit) [by-that](tena) [eva](eva) [secretly](guhyaiḥ) [vā](vā) [all](sarvāṇi) [these](etāni) [give](dāyayet)
+kvacit(sometimes) tenaiva(by-that) guhyairvā(or-secretly) sarvāṇi(all) etāni(these) dāyayet(should-give)
 
 ## mukta-m0-p78-v1937
-[bowing](praṇamya) [staff-like](daṇḍavad) [bhamau](bhamau) [slowly](śanaiḥ) [go](gacchet) [circumambulate](pradakṣiṇam)
+praṇamya(bowing) daṇḍavadbhamau(staff-like) śanaiḥ(slowly) gacchet(go) pradakṣiṇam(circumambulation)
 
 ## mukta-m0-p78-v1938
-[good-deed](sukṛtaṃ) [bad-deed](duṣkṛtaṃ) [vā](vā) [api](api) [ignorance](ajñānāt) [knowledge](jñānataḥ) [done](kṛtam)
+sukṛtaṃ(good-deed) duṣkṛtaṃ(bad-deed) vā(or) api(even) ajñānāt(from-ignorance) jñānataḥ(from-knowledge) kṛtam(done)
 
 ## mukta-m0-p78-v1939
-[at-that-time](tasminkāle) [give](pradātavyā) [fee](dakṣiṇā) [śiva-yogin](śivayogine)
+tasminkāle(at-that-time) pradātavyā(should-be-given) dakṣiṇā(fee) śivayogine(śiva-yogin)
 
 ## mukta-m0-p78-v1940
-[to-son](putrakāya) [half](ardhataḥ) [give](deyā) [to-initiates](samayibhyaḥ) [ca](ca) [foot-portion](pādikā)
+putrakāyārdhato(from-son's-half) deyā(given) samayibhyaśca(to-initiates) pādikā(foot-fee)
 
 ## mukta-m0-p78-v1941
-[according-to-ability](yathāśakti) [to-twice-born](dvijātibhyaḥ) [give](dadyāt) [gift](dānaṃ) [as-rite](yathāvidhi)
+yathāśakti(according-to-ability) dvijātibhyaḥ(to-twice-born) dadyāt(give) dānaṃ(gift) yathāvidhi(according-to-rite)
 
 ## mukta-m0-p78-v1942
-[musicians](tauryikān) [singers](gāyakān) [dancers](nartṛn) [with-sound](nādyena) [tu](tu) [please](toṣayet)
+tauryikān(musicians) gāyakān(singers) nartṛn(dancers) nādyena(with-music) tu(but) toṣayet [kh,gh: tarpayet](please)
 
 ## mukta-m0-p78-v1943
-[one-night](ekarātraṃ) [three-nights](trirātraṃ) [vā](vā) [seven-nights](saptarātram) [atha](atha) [api](api) [vā](vā)
+ekarātraṃ(one-night) trirātraṃ(three-nights) vā(or) saptarātram(seven-nights) atha-api(or-even) vā(or)
 
 ## mukta-m0-p78-v1944
-[from-men+etc](pumādibhyaḥ) [day-purity](divāśuddhiṃ) [knowledge+etc](vidyādi) [hundred-times](tacchatāvṛtam)
+pumādibhyo(from-men-etc) divāśuddhiṃ(day-purity) vidyādi(knowledge-etc) tacchatāvṛtam(hundred-fold)
 
 ## mukta-m0-p78-v1945
-[steady](sthirā)
+[mū: sthirā](firm)
 
 ## mukta-m0-p78-v1946
-[age-parts](yugabhāgāḥ) [four-directions](caturdikṣu) [dissolving](luptvā) [one-by-one](ekaikaṃ) [tu](tu) [from-corner](koṇataḥ)
+yugabhāgāḥ(yuga-parts) caturdikṣu(in-four-directions) luptvaikaikaṃ(removing-one-by-one) tu(but) koṇataḥ(from-corner)
 
 ## mukta-m0-p78-v1947
-[install](sthāpyāni) [in-them](teṣu) [liṅgas](liṅgāni) [with-union](tatsaṅgayā) [by-rite](vidhānataḥ)
+sthāpyāni(to-be-installed) teṣu(in-them) liṅgāni(liṅgas) tatsaṅgayābhirvidhānataḥ(by-procedure)
 
 ## mukta-m0-p78-v1948
-[of-inferior](hīnānāṃ) [tu](tu) [rite](vidhiḥ) [svāyaṃ](svāyaṃ) [of-superior](jyeṣṭhānāṃ) [establishment-first](sthitipūrvakam)
+hīnānāṃ(of-inferior) tu(but) vidhiḥ(rite) evaṃ(thus) jyeṣṭhānāṃ(of-superior) sthiti-pūrvakam(after-establishment)
 
 ## mukta-m0-p78-v1949
-[there](tatra) [bring](ānayet) [great-liṅga](mahāliṅgaṃ) [by-yantra-yoga](yantrayogena) [wise](buddhimān)
+tatrānayet(there-bring) mahāliṅgaṃ(great-liṅga) yantrayogena(by-yantra-yoga) buddhimān(wise-one)
 
 ## mukta-m0-p78-v1950
-[in-middle](madhye) [ca](ca) [eight-rasa-joined](aṣṭārasaṃyuktaṃ) [firm-wood](dṛḍhakāṣṭhena) [adorned](maṇḍitam)
+madhye(in-middle) ca(and) aṣṭāra-saṃyuktaṃ(eight-spoked) dṛḍhakāṣṭhena(with-firm-wood) maṇḍitam(adorned)
