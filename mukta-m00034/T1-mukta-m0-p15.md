@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p15-v351
-[pada](calanānmoharūpasya) [pada](kramaṇāt) [pada](parasaṃvidaḥ)
+[movement](calanāt) [of-delusion-form](moharūpasya) [by-progression](kramaṇāt) [of-supreme-consciousness](parasaṃvidaḥ)
 
 ## mukta-m0-p15-v352
-[pada](uddyotātikramaścāpi) [pada](udyogātika) [pada](*ścāpi) [pada](dvaividhyena) [pada](vyavasthitaḥ)
+[illumination-transcendence](uddyotātikramaḥ) [also](cāpi) [in-two-ways](dvaividhyena) [established](vyavasthitaḥ)
 
 ## mukta-m0-p15-v353
-[pada](ekastadvyukramātmānyaḥ) [pada](parākāśapratiṣṭhitaḥ)
+[one](ekaḥ) [that-transcendence-self](tadvyukramātmā) [other](anyaḥ) [in-supreme-space](parākāśapratiṣṭhitaḥ)
 
 ## mukta-m0-p15-v354
-[pada](kāmasaṃsargatastasya) [pada](pratyāvṛttyā) [pada](+tma)samantataḥ)
+[by-desire-contact](kāmasaṃsargataḥ) [of-it](tasya) [by-return](pratyāvṛttyā) [all-around](samantataḥ)
 
 ## mukta-m0-p15-v355
-[pada](viṣayābhoganirjñātanirvikalpe'pi) [pada](yat) [pada](sphuṭam)
+[objects-enjoyment-knowledge](viṣayābhoganirjñāta) [in-thought-free](nirvikalpe) [also](api) [clear](yat sphuṭam)
 
 ## mukta-m0-p15-v356
-[pada](antarmukhatve) [pada](tūddyotād) [pada](bhāvāmarśakriyātmakāt)
+[inward-turnedness](antarmukhatve) [then](tu) [from-illumination](uddyotāt) [of-being-reflection-action](bhāvāmarśakriyātmakāt)
 
 ## mukta-m0-p15-v357
-[pada](evaṃ) [pada](bahirmukhābhāvāvasare) [pada](hyudayādikam)
+[thus](evaṃ) [outward-turned-absence](bahirmukhābhāva) [occasion](avasare) [indeed](hi) [rising-etc](udayādikam)
 
 ## mukta-m0-p15-v358
-[pada](tad) [pada](*) [pada](bahirviśvamāśrityā) [pada](*) [pada](*) [pada](*) [pada](tha) [pada](kriyātmanaḥ)
+[that](tad) [outer-universe](bahirviśvam) [resorting](āśritya) [action-self](kriyātmanaḥ)
 
 ## mukta-m0-p15-v359
-[pada](*) [pada](*) [pada](*) [pada](*) [pada](samāśritya) [pada](pūrvaṃ) [pada](pīṭhakramātmanā)
+[former](pūrvaṃ) [seat-progression-self](pīṭhakramātmanā) [resorting](samāśritya)
 
 ## mukta-m0-p15-v360
-[pada](tato) [pada](viśvasya) [pada](saṃsthānamāmūlāt) [pada](pratipāditam)
+[then](tato) [of-universe](viśvasya) [establishment](saṃsthānam) [from-root](āmūlāt) [explained](pratipāditam)
 
 ## mukta-m0-p15-v361
-[pada](idānīṃ) [pada](yena) [pada](rūpeṇa) [pada](sarvākāraṃ) [pada](vilīyate)
+[now](idānīṃ) [by-which-form](yena rūpeṇa) [all-formed](sarvākāraṃ) [dissolves](vilīyate)
 
 ## mukta-m0-p15-v362
-[pada](sāmarasye) [pada](pravṛtte'pi) [pada](jñānamelāpalakṣaṇe) [pada](-melāva-)
+[in-harmony](sāmarasye) [arisen](pravṛtte) [also](api) [knowledge-melting-mark](jñānamelāpalakṣaṇe)
 
 ## mukta-m0-p15-v363
-[pada](ataḥ) [pada](kriyāṃ) [pada](vinā) [pada](teṣāṃ) [pada](hi) [pada](na) [pada](nirharaṇaṃ) [pada](bhavet)
+[therefore](ataḥ) [without-action](kriyāṃ vinā) [of-them](teṣāṃ) [indeed](hi) [removal](nirharaṇaṃ) [would-be](bhavet)
 
 ## mukta-m0-p15-v364
-[pada](alaṃ) [pada](grāsapravṛttena) [pada](kriyāveśena) [pada](tattvataḥ)
+[enough](alaṃ) [with-grasping-progression](grāsapravṛttena) [with-action-entry](kriyāveśena) [truly](tattvataḥ)
 
 ## mukta-m0-p15-v365
-[pada](raudreśvarīmayaḥ) [pada](sphāraḥ) [pada](parānugrahabhūmikaḥ)
+[of-rudreshvari](raudreśvarīmayaḥ) [sphere](sphāraḥ) [supreme-grace-stage](parānugrahabhūmikaḥ)
 
 ## mukta-m0-p15-v366
-[pada](nissaṃskāraprakāmātmā) [pada](parāśaktiḥ) [pada](pravartate)
+[without-impressions](nissaṃskāra) [desire-self](prakāmātmā) [supreme-power](parāśaktiḥ) [proceeds](pravartate)
 
 ## mukta-m0-p15-v367
-[pada](nirāvaraṇatā) [pada](-ṇaṃ) [pada](*) [pada](yasmādataḥ) [pada](sañjāyate) [pada](sphuṭam)
+[uncoveredness](nirāvaraṇatā) [because](yasmāt) [therefore](ataḥ) [arises](sañjāyate) [clearly](sphuṭam)
 
 ## mukta-m0-p15-v368
-[pada](sopānakramarūpeṇa) [pada](catuṣṣaṣṭirnirūpitāḥ)
+[step-progression-form](sopānakramarūpeṇa) [sixty-four](catuṣṣaṣṭiḥ) [determined](nirūpitāḥ)
 
 ## mukta-m0-p15-v369
-[pada](cidvimarśasvarūpeṇa) [pada](haṭhapākena) [pada](gālanam)
+[consciousness-reflection-form](cidvimarśasvarūpeṇa) [forceful-cooking](haṭhapākena) [melting](gālanam)
 
 ## mukta-m0-p15-v370
-[pada](tatra) [pada](raudreśvarīrūpaṃ) [pada](prathamaṃ) [pada](ṣoḍaśātmanaḥ)
+[there](tatra) [raudreshvari-form](raudreśvarīrūpaṃ) [first](prathamaṃ) [of-sixteen-self](ṣoḍaśātmanaḥ)
 
 ## mukta-m0-p15-v371
-[pada](nirāvaraṇatāṃ) [pada](netuṃ) [pada](pravṛttaṃ) [pada](cidvimarśataḥ) [pada](-kaḥ)
+[to-uncoveredness](nirāvaraṇatāṃ) [to-lead](netuṃ) [proceeds](pravṛttaṃ) [from-consciousness-reflection](cidvimarśataḥ)
 
 ## mukta-m0-p15-v372
-[pada](ahaṅkāreṇa) [pada](siddhatvaṃ) [pada](śritvā) [pada](tattanmarīcinām)
+[by-ego](ahaṅkāreṇa) [accomplishment](siddhatvaṃ) [resorting](śritvā) [that-ray](tattanmarīcinām)
 
 ## mukta-m0-p15-v373
-[pada](āviśya) [pada](meyasaṃskāracakraṃ) [pada](tatra) [pada](pralīyate)
+[entering](āviśya) [object-impression-wheel](meyasaṃskāracakraṃ) [there](tatra) [dissolves](pralīyate)
 
 ## mukta-m0-p15-v374
-[pada](mānasaṃskāracakrasya) [pada](pratyāvṛttikramātmanaḥ)
+[mental-impression-wheel](mānasaṃskāracakrasya) [return-progression-self](pratyāvṛttikramātmanaḥ)
 
 ## mukta-m0-p15-v375
-[pada](mananatrāṇadharmābhyāṃ) [pada](mantrasiddhamayātmatām) [pada](-nām)
+[by-mind-protection-dharma](mananatrāṇadharmābhyāṃ) [mantra-accomplished-self](mantrasiddhamayātmatām)
