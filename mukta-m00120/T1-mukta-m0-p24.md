@@ -2,52 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p24-v576
-[in-śrīcakra](śrīcakre'pi) [also](api) [drink](piven) [wine](madyaṃ) [śakti-joined](śaktiyuktaṃ) [O-maheśvarī](maheśvari)
+in-śrīcakra + also + drink + wine + joined-with-śakti + O-Maheśvarī
+
 ## mukta-m0-p24-v577
-[and](ca) [highest](uttamaṃ) [middle](madhyamaṃ) [to-be-known](jñeyaṃ) [and](ca) [lowest](adhamaṃ) [and](ca) [lowest-of-low](adhamañcādhamādhamam)
+and + highest + middle + to-be-known + and + lowest + and + lowest-of-lowest
+
 ## mukta-m0-p24-v578
-[circle](cakromamidaṃ) [this](idam) [to-be-known](jñeyaṃ) [she](sā) [Kālī](kālī) [he](sa) [and](ca) [Śaṅkara](śaṅkaraḥ)
+this-cakra + to-be-known + she + Kālī + he + and + Śaṅkara
+
 ## mukta-m0-p24-v579
-[one](ekāṃ) [śakti](śaktiṃ) [having-gathered](samānīya) [one-by-one](ekaikaḥ) [sādhaka](sādhakaḥ) [always](sadā)
+one + śakti + bringing-together + each-one + sādhaka + always
+
 ## mukta-m0-p24-v580
-[Bhairavī](bhairavī)
+Bhairavī
+
 ## mukta-m0-p24-v581
-[lowest](adhamaṃ) [circle](cakravijñeyaṃ) [to-be-known](vijñeyaṃ) [she](sā) [sādhyā](sādhyā) [he](sa) [and](ca) [sādhaka](sādhakaḥ)
+lowest + cakra + to-be-known + she + sādhyā + he + and + sādhaka
+
 ## mukta-m0-p24-v582
-[śakti-devoid](śaktihīnañca) [and](ca) [which](yat) [circle](cakraṃ) [mere](kevalaṃ) [intoxicating](madakaṃ) [O-Śivā](śive)
+śakti-devoid + and + which-cakra + mere + intoxicating + O-Śive
+
 ## mukta-m0-p24-v583
-[in-middle](madhyame) [nine-śaktis](navaśaktiñca) [and](ca) [in-deprived](hīne) [even](api) [śakti-only](śaktimātrakam)
+in-middle + nine-śakti + and + in-devoid + also + mere-śakti
+
 ## mukta-m0-p24-v584
-[in-that](tasmin) [circle](cakre) [sādhaka](sādhako) [even](api) [ever](kadācinna) [not](na) [should-enter](praveśayet)
+in-that + cakra + sādhaka + also + never + should-enter
+
 ## mukta-m0-p24-v585
-[in-śrīcakra](śrīcakre) [sexual-union](maithunaṃ) [auspicious](bhadraṃ) [śiva-hood](śivatvaṃ) [attains](yāti) [sādhaka](sādhakaḥ)
+in-śrīcakra + sexual-union + auspicious + Śiva-state + attains + sādhaka
+
 ## mukta-m0-p24-v586
-[vīra-circle](vīracakramidaṃ) [this](idam) [declared](proktaṃ) [deva-circle](devacakraṃ) [then](tataḥ) [hear](śṛṇu)
+this-vīracakra + declared + deva-cakra + then + hear
+
 ## mukta-m0-p24-v587
-[creation-formed](sṛṣṭirūpaṃ) [great-circle](mahācakraṃ) [śrī-circle](śrīcakraṃ) [O-parameśvarī](parameśvari)
+creation-form + great-cakra + śrīcakra + O-Parameśvarī
+
 ## mukta-m0-p24-v588
-[thus](iti) [composed-by-śrī-sarvānanda-nātha](śrīsarvānandanāthaviracite) [in-sarvollāsa](sarvollāse) [twenty-first-ullāsa](unviṃśatyullāsaḥ)
+thus + in-composed-by-Śrī-Sarvānandanātha + in-Sarvollāsa + twenty-first-ullāsa
+
 ## mukta-m0-p24-v589
-[there](tatra) [in-place](sthāne) [should-practice](careccakraṃ) [circle](cakraṃ) [where](yatra) [would-be](syād) [deity-house](devatāgṛha)
+there + place + perform-cakra + where + be + devatā-house
+
 ## mukta-m0-p24-v590
-[at-deity-tree-roots](devatāvṛkṣamūleṣu) [place](sthānaṃ) [should-make](kuryāt) [with-effort](prayatnataḥ)
+at-devatā-tree-roots + place + make + with-effort
+
 ## mukta-m0-p24-v591
-[of-sādhaka](sādhakasya) [house](gṛhaṃ) [O-bhadre](bhadre) [śrīcakra-place](śrīcakrasthānamuttamam) [best](uttamam)
+of-sādhaka + house + O-bhadre + śrīcakra-place + best
+
 ## mukta-m0-p24-v592
-[or](athavā) [whose](yasya) [whatever-place](yatsthānaṃ) [by-his-command](tasyājñayā) [should-arrange](prakalpayet)
+or + whose + whatever-place + by-his-command + arrange
+
 ## mukta-m0-p24-v593
-[of-that-distress](tadudvegasya) [which-sin](yatpāpaṃ) [that-sin](tatpāpaṃ) [there](tatra) [goes](gacchati)
+of-that-distress + which-sin + that-sin + there + goes
+
 ## mukta-m0-p24-v594
-[corpse-seat](śavāsanādhikaṃ) [more](adhikaṃ) [to-be-known](jñeyaṃ) [entering-creeper-house](latāgehapraveśanam)
+śava-āsana-superior + to-be-known + vine-house-entry
+
 ## mukta-m0-p24-v595
-[in-absence-of-yoni](yonyabhāve) [O-maheśānī](maheśāni) [triangle](trikoṇañcāsanaṃ) [and](ca) [seat](āsanaṃ) [auspicious](śubham)
+in-absence-of-yoni + O-Maheśānī + triangle + and + seat + auspicious
+
 ## mukta-m0-p24-v596
-[in-absence-of-corpse](śavābhāve) [stool](viṣṭaraṃ) [indeed](hi) [vīra-seat](vīrāsanamudīritam) [declared](udīritam)
+in-absence-of-śava + seat + indeed + vīrāsana + declared
+
 ## mukta-m0-p24-v597
-[one-corpse](śavaikamāsanaṃ) [seat](āsanam) [O-bhadre](bhadre) [stool](viṣṭaraṃ) [pair](yugmamāsanam) [seat](āsanam)
+one-śava-seat + O-bhadre + seat + pair-seat
+
 ## mukta-m0-p24-v598
-[other-seat](anyāsanaṃ) [square](catuṣkoṇaṃ) [triangle](trikoṇaṃ) [arranged](parikalpitam)
+other-seat + four-cornered + triangle + arranged
+
 ## mukta-m0-p24-v599
-[on-black-deerskin](kṛṣṇājine) [knowledge-siddhi](jñānasiddhirmokṣañca) [liberation](mokṣañca) [and](ca) [on-tiger-skin](vyāghracarmaṇi)
+on-black-deer-skin + knowledge-siddhi + liberation + and + on-tiger-skin
+
 ## mukta-m0-p24-v600
-[other-than-this](etadbhinnañcāsanaṃ) [and](ca) [seat](āsanam) [indeed](hi) [various](citrācitrādi) [endowed](saṃyutam)
+other-than-this + and + seat + indeed + citra-citrādi + joined
