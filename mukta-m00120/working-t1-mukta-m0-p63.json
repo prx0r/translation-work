@@ -57,8 +57,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "śaktistatra",
+"surface": "śaktiḥ",
 "quick_gloss": "power"
+},
+{
+"surface": "tatra",
+"quick_gloss": "there"
 },
 {
 "surface": "mahādevi",
@@ -82,8 +86,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "pañcadhāpyekadhā",
+"surface": "pañcadhā",
 "quick_gloss": "fivefold"
+},
+{
+"surface": "api",
+"quick_gloss": "also"
+},
+{
+"surface": "ekadhā",
+"quick_gloss": "onetime"
 },
 {
 "surface": "yatra",
@@ -132,8 +144,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "śaktyāktaśaṅkaram",
-"quick_gloss": "power-possessed-śaṅkara"
+"surface": "śaktyākta",
+"quick_gloss": "power-possessed"
+},
+{
+"surface": "śaṅkaram",
+"quick_gloss": "śaṅkara"
 }
 ]
 },
@@ -145,12 +161,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "śaktiśca",
+"surface": "śaktiḥ",
 "quick_gloss": "power"
 },
 {
+"surface": "ca",
+"quick_gloss": "ca"
+},
+{
 "surface": "puruṣeṣvāktā",
-"quick_gloss": "in-puruṣas"
+"quick_gloss": "in-persons"
 },
 {
 "surface": "yadā",
@@ -186,8 +206,12 @@
 "quick_gloss": "power-knowledge"
 },
 {
-"surface": "na+jāyate",
-"quick_gloss": "not-arises"
+"surface": "na",
+"quick_gloss": "not"
+},
+{
+"surface": "jāyate",
+"quick_gloss": "arises"
 }
 ]
 },
@@ -204,7 +228,7 @@
 },
 {
 "surface": "śrīsarvānandanāthaviracite",
-"quick_gloss": "composed-by-sarvānandanātha"
+"quick_gloss": "śrī-sarvānandanātha-composed"
 },
 {
 "surface": "sarvollāse",
@@ -253,8 +277,12 @@
 "quick_gloss": "that"
 },
 {
-"surface": "śaktirvāmā",
+"surface": "śaktiḥ",
 "quick_gloss": "power"
+},
+{
+"surface": "vāmā",
+"quick_gloss": "vāmā"
 },
 {
 "surface": "vijñeyā",
@@ -262,7 +290,7 @@
 },
 {
 "surface": "puruṣasyāpi",
-"quick_gloss": "of-puruṣa"
+"quick_gloss": "of-person"
 },
 {
 "surface": "muktidā",
@@ -279,7 +307,7 @@
 "tokens": [
 {
 "surface": "dāyinī",
-"quick_gloss": "giver"
+"quick_gloss": "giving"
 }
 ]
 },
@@ -341,7 +369,7 @@
 },
 {
 "surface": "mahāmate",
-"quick_gloss": "wise-one"
+"quick_gloss": "great-minded"
 }
 ]
 },
@@ -354,7 +382,7 @@
 "tokens": [
 {
 "surface": "saiva",
-"quick_gloss": "she"
+"quick_gloss": "she-alone"
 },
 {
 "surface": "sarveśvarī",
@@ -367,6 +395,10 @@
 {
 "surface": "sa",
 "quick_gloss": "he"
+},
+{
+"surface": "ca",
+"quick_gloss": "ca"
 },
 {
 "surface": "sarvo",
@@ -402,8 +434,12 @@
 "quick_gloss": "eva"
 },
 {
-"surface": "na+saṃśayaḥ",
-"quick_gloss": "no-doubt"
+"surface": "na",
+"quick_gloss": "no"
+},
+{
+"surface": "saṃśayaḥ",
+"quick_gloss": "doubt"
 }
 ]
 },
@@ -423,16 +459,20 @@
 "quick_gloss": "becomes"
 },
 {
-"surface": "śakternirliptaḥ",
+"surface": "śakter",
 "quick_gloss": "of-power"
 },
 {
+"surface": "nirliptaḥ",
+"quick_gloss": "unattached"
+},
+{
 "surface": "puruṣaḥ",
-"quick_gloss": "puruṣa"
+"quick_gloss": "person"
 },
 {
 "surface": "śive",
-"quick_gloss": "śiva"
+"quick_gloss": "in-śiva"
 }
 ]
 },
@@ -448,12 +488,16 @@
 "quick_gloss": "action"
 },
 {
-"surface": "śakterbhavet",
+"surface": "śakter",
 "quick_gloss": "of-power"
 },
 {
+"surface": "bhavet",
+"quick_gloss": "becomes"
+},
+{
 "surface": "kāryaṃ",
-"quick_gloss": "doable"
+"quick_gloss": "action"
 },
 {
 "surface": "prāṇināṃ",
@@ -514,8 +558,16 @@
 "quick_gloss": "great-goddess"
 },
 {
-"surface": "sthūla+sūkṣma+pramāṇakam",
-"quick_gloss": "gross-subtle-measure"
+"surface": "sthūla",
+"quick_gloss": "gross"
+},
+{
+"surface": "sūkṣma",
+"quick_gloss": "subtle"
+},
+{
+"surface": "pramāṇakam",
+"quick_gloss": "measure"
 }
 ]
 },
@@ -532,7 +584,7 @@
 },
 {
 "surface": "svastriyaṃ",
-"quick_gloss": "own-woman"
+"quick_gloss": "of-own-wife"
 },
 {
 "surface": "devi",
@@ -560,8 +612,12 @@
 "quick_gloss": "brahma"
 },
 {
-"surface": "dattāgninā",
-"quick_gloss": "given-fire"
+"surface": "dattā",
+"quick_gloss": "given"
+},
+{
+"surface": "agninā",
+"quick_gloss": "fire"
 },
 {
 "surface": "hutvā",
@@ -626,8 +682,12 @@
 "quick_gloss": "own-vāmā"
 },
 {
-"surface": "toṣaṇārthe'pi",
+"surface": "toṣaṇārthe",
 "quick_gloss": "for-pleasing"
+},
+{
+"surface": "api",
+"quick_gloss": "api"
 },
 {
 "surface": "para+vāmāñca",
