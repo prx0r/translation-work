@@ -8,7 +8,7 @@
 "tokens": [
 {
 "surface": "pāpiṣṭhānām",
-"quick_gloss": "of-most-sinful"
+"quick_gloss": "of-sinners"
 },
 {
 "surface": "ihācāro",
@@ -20,7 +20,7 @@
 },
 {
 "surface": "sarvajugupsitam",
-"quick_gloss": "by-all-despised"
+"quick_gloss": "all-abhorred"
 }
 ]
 },
@@ -36,12 +36,8 @@
 "quick_gloss": "does"
 },
 {
-"surface": "tadvat",
-"quick_gloss": "likewise"
-},
-{
-"surface": "pretyāpi",
-"quick_gloss": "after-death-also"
+"surface": "tadvatpretyāpi",
+"quick_gloss": "thus-after-death-too"
 },
 {
 "surface": "parānaṃdasukhaṃ",
@@ -65,12 +61,8 @@
 "quick_gloss": "of-happiness"
 },
 {
-"surface": "saṃbhavo",
-"quick_gloss": "origin"
-},
-{
-"surface": "nānya",
-"quick_gloss": "not-other"
+"surface": "saṃbhavonānya",
+"quick_gloss": "origin-no-other"
 },
 {
 "surface": "vartmanā",
@@ -98,16 +90,12 @@
 "quick_gloss": "indeed"
 },
 {
-"surface": "mārgo",
-"quick_gloss": "path"
-},
-{
-"surface": "dumārgo",
-"quick_gloss": "bad-path"
+"surface": "mārgodumārgo",
+"quick_gloss": "path-wrong-path"
 },
 {
 "surface": "aparaḥ",
-"quick_gloss": "other"
+"quick_gloss": "another"
 },
 {
 "surface": "parikīrtitaḥ",
@@ -164,12 +152,8 @@
 "quick_gloss": "caste"
 },
 {
-"surface": "vinā",
-"quick_gloss": "without"
-},
-{
-"surface": "duṣṭām",
-"quick_gloss": "corrupt"
+"surface": "vināduṣṭām",
+"quick_gloss": "without-corrupt"
 },
 {
 "surface": "anyajātiṣu",
@@ -215,7 +199,7 @@
 },
 {
 "surface": "naitādṛkkrama",
-"quick_gloss": "not-such-sequence"
+"quick_gloss": "not-such-order"
 },
 {
 "surface": "saṃbhavaḥ",
@@ -240,7 +224,7 @@
 },
 {
 "surface": "sarvajātir",
-"quick_gloss": "all-castes"
+"quick_gloss": "all-caste"
 },
 {
 "surface": "varta",
@@ -265,7 +249,7 @@
 },
 {
 "surface": "vācyavācakākāra",
-"quick_gloss": "word-and-meaning-form"
+"quick_gloss": "word-meaning-form"
 },
 {
 "surface": "śāstracarcā",
@@ -306,7 +290,7 @@
 },
 {
 "surface": "droho",
-"quick_gloss": "treachery"
+"quick_gloss": "malice"
 },
 {
 "surface": "na",
@@ -327,7 +311,7 @@
 "tokens": [
 {
 "surface": "suṣupsāyāṃ",
-"quick_gloss": "in-sleepiness"
+"quick_gloss": "in-sleep-desire"
 },
 {
 "surface": "paraṃ",
@@ -347,7 +331,7 @@
 },
 {
 "surface": "manojvaraḥ",
-"quick_gloss": "mental-fever"
+"quick_gloss": "mind-fever"
 }
 ]
 },
@@ -384,8 +368,16 @@
 "quick_gloss": "therefore"
 },
 {
-"surface": "sarvāsu+jātiṣu",
-"quick_gloss": "in-all-castes"
+"surface": "sarvāsu",
+"quick_gloss": "in-all"
+},
+{
+"surface": "jātiṣu",
+"quick_gloss": "castes"
+},
+{
+"surface": "api",
+"quick_gloss": "even"
 },
 {
 "surface": "akhaṃḍita",
@@ -434,8 +426,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "ityānaṃdatantre",
-"quick_gloss": "thus-in-bliss-tantra"
+"surface": "iti",
+"quick_gloss": "thus"
+},
+{
+"surface": "ānaṃdatantre",
+"quick_gloss": "bliss-tantra"
 },
 {
 "surface": "caturthaḥ",
@@ -502,7 +498,7 @@
 "tokens": [
 {
 "surface": "nāthāya",
-"quick_gloss": "to-lord"
+"quick_gloss": "lord"
 },
 {
 "surface": "iti",
@@ -518,7 +514,7 @@
 },
 {
 "surface": "procyabrūyāṃ",
-"quick_gloss": "should-be-spoken"
+"quick_gloss": "I-shall-speak"
 },
 {
 "surface": "navātmikām",
@@ -534,7 +530,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "praṇavādir",
+"surface": "praṇavādi",
 "quick_gloss": "om-beginning"
 },
 {
@@ -551,7 +547,7 @@
 },
 {
 "surface": "varṇavān",
-"quick_gloss": "having-letters"
+"quick_gloss": "letters-having"
 }
 ]
 },
@@ -572,7 +568,7 @@
 },
 {
 "surface": "mahānaṃdakalātmikā",
-"quick_gloss": "great-bliss-digit-souled"
+"quick_gloss": "great-bliss-art-souled"
 }
 ]
 },
@@ -646,8 +642,12 @@
 "quick_gloss": "without-not-know"
 },
 {
-"surface": "vidyāmetāṃ",
+"surface": "vidyām",
 "quick_gloss": "knowledge"
+},
+{
+"surface": "etāṃ",
+"quick_gloss": "this"
 },
 {
 "surface": "mahodayām",
@@ -671,8 +671,12 @@
 "quick_gloss": "by-me"
 },
 {
-"surface": "pūrvameṣā",
+"surface": "pūrvam",
 "quick_gloss": "before"
+},
+{
+"surface": "eṣā",
+"quick_gloss": "this"
 },
 {
 "surface": "sā",
@@ -684,7 +688,7 @@
 },
 {
 "surface": "muradviṣe",
-"quick_gloss": "to-Vishnu"
+"quick_gloss": "to-Vishnu-enemy"
 }
 ]
 }
