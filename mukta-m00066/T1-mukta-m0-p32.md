@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p32-v776
-[arcayet](arcayelliṃgamīśānamiyamādyā) [mayā](mayā) [hutiḥ](hutiḥ) [mahā](mahā-)
+arcayet-lingam-ishana-yama-adi-maya-ahutih
 
 ## mukta-m0-p32-v777
-[caṃdra-garbha](caṃdragarbheti) [kā](kāpyasti) [nāḍī](nāḍī) [nalina-locana](nalinalocane)
+caṃdragarbha-iti-ka-api-asti-nadi-nali-locana
 
 ## mukta-m0-p32-v778
-[tatra](tatratyamamṛtaṃ) [amṛta](amṛtaṃ) [viddhi](viddhi) [kāmeśvarī-uktibhūti-dam](kāmeśvaryuktibhūtidam)
+tatratya-amrita-viddhi-kameshvari-ukti-bhuti-dam
 
 ## mukta-m0-p32-v779
-[īṣat-pāṭala-varṇa](īṣatpāṭalavarṇaṃ) [ca](ca) [yūthikā-sama-saurabha](yūthikāsamasaurabham) [kh](kh: yūdhikā-)
+ishat-patala-varna-ca-yuthika-sama-saurabha
 
 ## mukta-m0-p32-v780
-[sabhavatyaṃ](sabhavatyaṃ) [samāpanna](samāpanno) [jalada-tva](jaladatvaṃ) [vaśīkriyāt](vaśīkriyāt)
+sa-bhavatya-samapanna-jalada-tva-vashikriyat
 
 ## mukta-m0-p32-v781
-[na](na) [sarodeva](sarodeva) [svāteṣu](svāteṣu) [skhalita-gamana](skhalitaṃ gamanaṃ) [bhavet](bhavet)
+na-sara-deva-svata-skhalita-gamana-bhavet
 
 ## mukta-m0-p32-v782
-[caṃdonmattā](caṃdonmattā) [padasthāne](padasthāne) [caṃdragarbhā](caṃdragarbhā) [prakīrttitā](prakīrttitā)
+caṃdonmatta-pada-sthana-caṃdragarbha-prakirtita
 
 ## mukta-m0-p32-v783
-[atradūtyāḥ](atradūtyāḥ) [śarīrasya](śarīrasya) [pūrvatrāpi](pūrvatrāpi) [daśābruve](daśābruve)
+atra-duti-sharira-purva-api-dasha-abruve
 
 ## mukta-m0-p32-v784
-[īṣad-ārakta-tā-netre](īṣadāraktatānetre) [kiṃcid](kiṃcidbhūvallitāṃḍavaṃ) [bhūvalli](bhūvalli) [taṃḍava](taṃḍavaṃ)
+ishad-araktata-netra-kimcid-bhu-valli-tandava
 
 ## mukta-m0-p32-v785
-[ānaṃdanātha](ānaṃdanātha) [bhavana](bhavana) [bāhyakakṣyā](bāhyakakṣyā) [vigāhanam](vigāhanam)
+anandanatha-bhavana-bahya-kaksha-vigahana
 
 ## mukta-m0-p32-v786
-[stanayoḥ](stanayoḥ) [pulakāṃkūraḥ](pulakāṃkūraḥ) [gaṃḍayoś](gaṃḍayoścānuraktatā) [ca](ca) [anuraktatā](anuraktatā)
+stana-pulaka-ankura-ganda-anuraktata
 
 ## mukta-m0-p32-v787
-[evaṃ](evaṃ) [prakārā](prakārā) [sā](sā) [dūtī](dūtī) [caṃdragarbhāmṛtadravaiḥ](caṃdragarbhāmṛtadravaiḥ)
+evam-prakara-sa-duti-caṃdragarbha-amrita-drava
 
 ## mukta-m0-p32-v788
-[yajed](yajedānaṃdanāthaṃ) [ānaṃdanāthaṃ](ānaṃdanāthaṃ) [sā](sā) [vīravat-phala](vīravatphalamaśnute) [aśnute](aśnute)
+yajed-anandanatham-sa-viravat-phala-ashnute
 
 ## mukta-m0-p32-v789
-[arthāṃguli](arthāṃguli) [samunnamra](samunnamra) [taptakāṃcana-sannibhā](taptakāṃcanasannibhā)
+artha-anguli-samunnamra-tapta-kancana-sannibha
 
 ## mukta-m0-p32-v790
-[tasyāś](tasyāścaṃdriṇikānāyā) [caṃdriṇikā](caṃdriṇikā) [nāḍyā](nāḍyā) [bhūyoliṃgeśa-tāḍavāt](bhūyoliṃgeśatāḍavāt)
+tasya-caṃdrinika-naya-bhuyo-lingesha-tadavat
 
 ## mukta-m0-p32-v791
-[kādaṃbarī](kādaṃbarī) [rasāmodīmān](rasāmodīmānmadaṃtoya) [madaṃtoya](madaṃtoya) [mudbhavet](mudbhavet)
+kadambri-rasa-modiman-madanta-toya-udbhavet
 
 ## mukta-m0-p32-v792
-[godāvarī](godāvarī) [tīrthamayī](tīrthamayī) [tayā](tayā) [siṃcet](siṃcenmaheśvaram) [maheśvaram](maheśvaram)
+godavari-tirtha-mayi-taya-sincet-maheshvara
 
 ## mukta-m0-p32-v793
-[rudratva-sīmā-bhaktasya](rudratvasīmābhaktasya) [vahni-tattva](vahnitattva) [vaśīkṛtim](vaśīkṛtim)
+rudratva-sima-bhaktasya-vahni-tattva-vashikritim
 
 ## mukta-m0-p32-v794
-[tanoti](tanoti) [bhagavān](bhagavāneṣaḥ) [eṣaḥ](eṣaḥ) [mahānaṃda-maheśvaraḥ](mahānaṃdamaheśvaraḥ)
+tanoti-bhagavan-esa-mahānanda-maheshvara
 
 ## mukta-m0-p32-v795
-[umedāhaṃ](umedāhaṃ) [prayacchaṃti](prayacchaṃti) [svayam](svayamagni) [agni](agni) [mayoyataḥ](mayoyataḥ)
+ume-daham-prayacchanti-svayam-agni-maya-yatah
 
 ## mukta-m0-p32-v796
-[asyā](asyāmaṃtrastu) [maṃtraḥ](maṃtraḥ) [tu](tu) [suśroṇī](suśroṇī) [śrūyatām](śrūyatāmabhidhīyate) [abhidhīyate](abhidhīyate)
+asya-mantra-tu-sushroni-shruyatam-abhidhiyate
 
 ## mukta-m0-p32-v797
-[arcayāmi](arcayāmi) [bhavadgātra](bhavadgātra) [mataḥ](mataḥ) [siddhiṃ](siddhiṃ) [prayacchame](prayacchame)
+arcayami-bhavad-gatra-matah-siddhim-prayacchame
 
 ## mukta-m0-p32-v798
-[athānya](athānyanāḍikādevī) [nāḍikā](nāḍikā) [devī](devī) [yā](yā) [sā](sā) [caṃdramahodayā](caṃdramahodayā)
+atha-anya-nadika-devi-ya-sa-caṃdra-mahodaya
 
 ## mukta-m0-p32-v799
-[aṃtaḥ](aṃtaḥ) [kiṃcic](kiṃcicchyāmavarṇātriṣu) [chyāma-varṇā](chyāmavarṇā) [triṣu](triṣu) [sthāneṣu](sthāneṣu) [vakritā](vakritā)
+anta-kimcit-shyama-varna-trishu-sthaneṣu-vakrita
 
 ## mukta-m0-p32-v800
-[līlānamrita](līlānamrita) [gaurāṃgī](gaurāṃgī) [valadbhrūvallibhāsurā](valadbhrūvallibhāsurā)
+lila-amrita-gaurangi-valad-bhru-valli-bhasura
