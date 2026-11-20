@@ -7,24 +7,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "bhūta",
-"quick_gloss": "past"
-},
-{
-"surface": "bhāvi",
-"quick_gloss": "future"
-},
-{
-"surface": "vibhāvinī",
-"quick_gloss": "manifesting"
-},
-{
-"surface": "devī",
-"quick_gloss": "divine"
-},
-{
-"surface": "ī",
-"quick_gloss": "feminine"
+"surface": "bhūta+bhāvi+vibhāvinī",
+"quick_gloss": "one-who-knows-past-present-future"
 }
 ]
 },
@@ -36,36 +20,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "anyaḥ",
-"quick_gloss": "other"
-},
-{
-"surface": "ataḥ",
-"quick_gloss": "than"
-},
-{
-"surface": "kaḥ",
-"quick_gloss": "who"
-},
-{
-"surface": "sadā",
-"quick_gloss": "always"
-},
-{
-"surface": "ādyanta",
-"quick_gloss": "beginning-end"
-},
-{
-"surface": "tvāṃ",
-"quick_gloss": "you"
-},
-{
-"surface": "vibhāvayituṃ",
-"quick_gloss": "manifest"
-},
-{
-"surface": "kṣamaḥ",
-"quick_gloss": "able"
+"surface": "ato+nyaḥ+kaḥ+sadādyantastvāṃ+vibhāvayituṃ+kṣamaḥ",
+"quick_gloss": "who-else-is-able-to-manifest-you"
 }
 ]
 },
@@ -78,11 +34,7 @@
 "tokens": [
 {
 "surface": "maṅgalā",
-"quick_gloss": "auspicious"
-},
-{
-"surface": "ā",
-"quick_gloss": "feminine"
+"quick_gloss": "auspicious-one"
 }
 ]
 },
@@ -94,24 +46,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "sā",
-"quick_gloss": "she"
-},
-{
-"surface": "maṅgalā",
-"quick_gloss": "auspicious"
-},
-{
-"surface": "sadā",
-"quick_gloss": "always"
-},
-{
-"surface": "sahāyā",
-"quick_gloss": "companion"
-},
-{
-"surface": "asya",
-"quick_gloss": "his"
+"surface": "sā+maṅgalā+astu+asya+sadā+sahāyā",
+"quick_gloss": "may-she-be-ever-companion"
 }
 ]
 },
@@ -124,11 +60,7 @@
 "tokens": [
 {
 "surface": "suśīlā",
-"quick_gloss": "good-character"
-},
-{
-"surface": "ā",
-"quick_gloss": "feminine"
+"quick_gloss": "of-good-character"
 }
 ]
 },
@@ -140,24 +72,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "svayaṃ",
-"quick_gloss": "self"
-},
-{
-"surface": "suśīlā",
-"quick_gloss": "good-character"
-},
-{
-"surface": "yadi",
-"quick_gloss": "if"
-},
-{
-"surface": "na",
-"quick_gloss": "not"
-},
-{
-"surface": "abhaviṣyaḥ",
-"quick_gloss": "would-be"
+"surface": "svayaṃ+suśīlā+yadi+nābhaviṣyaḥ",
+"quick_gloss": "if-you-had-not-been-good-natured"
 }
 ]
 },
@@ -169,16 +85,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "paramārtha",
-"quick_gloss": "supreme-meaning"
-},
-{
-"surface": "prabodhikā",
-"quick_gloss": "awakening"
-},
-{
-"surface": "ā",
-"quick_gloss": "feminine"
+"surface": "paramārtha+prabodhikā",
+"quick_gloss": "awakener-to-supreme-truth"
 }
 ]
 },
@@ -190,28 +98,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "yadāptyā",
-"quick_gloss": "by-attainment"
-},
-{
-"surface": "bhrāmaka",
-"quick_gloss": "wandering"
-},
-{
-"surface": "anyān",
-"quick_gloss": "other"
-},
-{
-"surface": "arthāñ",
-"quick_gloss": "harms"
-},
-{
-"surface": "jānāmi",
-"quick_gloss": "know"
-},
-{
-"surface": "śaṣpavat",
-"quick_gloss": "like-grass"
+"surface": "yadāptyā+bhrāmakān+anyān+arthāñ+jānāmi+śaṣpavat",
+"quick_gloss": "by-whose-attainment-i-know-other-errors-like-grass"
 }
 ]
 },
@@ -224,11 +112,7 @@
 "tokens": [
 {
 "surface": "dakṣiṇā",
-"quick_gloss": "southern/right"
-},
-{
-"surface": "ā",
-"quick_gloss": "feminine"
+"quick_gloss": "right-handed-generous"
 }
 ]
 },
@@ -240,28 +124,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "yataḥ",
-"quick_gloss": "whence"
-},
-{
-"surface": "tataḥ",
-"quick_gloss": "thence"
-},
-{
-"surface": "tathā",
-"quick_gloss": "thus"
-},
-{
-"surface": "prajñaiḥ",
-"quick_gloss": "wise"
-},
-{
-"surface": "dakṣiṇā",
-"quick_gloss": "southern"
-},
-{
-"surface": "prakīrtyase",
-"quick_gloss": "called"
+"surface": "yataḥ+tataḥ+tataprajñaiḥ+dakṣiṇā+iti+prakīrtyase",
+"quick_gloss": "therefore-you-are-called-dakshina-by-the-wise"
 }
 ]
 },
@@ -274,11 +138,7 @@
 "tokens": [
 {
 "surface": "dakṣiṇāmūrtiḥ",
-"quick_gloss": "southern-form"
-},
-{
-"surface": "ḥ",
-"quick_gloss": "masculine"
+"quick_gloss": "dakshinamurti"
 }
 ]
 },
@@ -290,20 +150,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "sā",
-"quick_gloss": "she"
-},
-{
-"surface": "dakṣiṇāmūrtiḥ",
-"quick_gloss": "southern-form"
-},
-{
-"surface": "iti",
-"quick_gloss": "thus"
-},
-{
-"surface": "prasiddhā",
-"quick_gloss": "famous"
+"surface": "sā+dakṣiṇāmūrtiḥ+iti+prasiddhā",
+"quick_gloss": "she-is-famous-as-dakshinamurti"
 }
 ]
 },
@@ -316,11 +164,7 @@
 "tokens": [
 {
 "surface": "sudakṣiṇā",
-"quick_gloss": "very-southern"
-},
-{
-"surface": "ā",
-"quick_gloss": "feminine"
+"quick_gloss": "very-auspicious-generous"
 }
 ]
 },
@@ -332,24 +176,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "satyaṃ",
-"quick_gloss": "true"
-},
-{
-"surface": "tato",
-"quick_gloss": "thence"
-},
-{
-"surface": "devi",
-"quick_gloss": "goddess"
-},
-{
-"surface": "sudakṣiṇā",
-"quick_gloss": "very-southern"
-},
-{
-"surface": "asi",
-"quick_gloss": "you-are"
+"surface": "satyaṃ+tataḥ+devi+sudakṣiṇā+asi",
+"quick_gloss": "truly-o-goddess-you-are-sudakshina"
 }
 ]
 },
@@ -362,11 +190,7 @@
 "tokens": [
 {
 "surface": "haripriyā",
-"quick_gloss": "hari-beloved"
-},
-{
-"surface": "ā",
-"quick_gloss": "feminine"
+"quick_gloss": "dear-to-hari"
 }
 ]
 },
@@ -378,28 +202,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "śauriḥ",
-"quick_gloss": "hari"
-},
-{
-"surface": "dayayā",
-"quick_gloss": "by-mercy"
-},
-{
-"surface": "devī",
-"quick_gloss": "goddess"
-},
-{
-"surface": "kīrtitā",
-"quick_gloss": "praised"
-},
-{
-"surface": "sā",
-"quick_gloss": "she"
-},
-{
-"surface": "haripriyā",
-"quick_gloss": "hari-beloved"
+"surface": "śauriḥ+yat+dayayā+devī+kīrtitā+sā+haripriyā",
+"quick_gloss": "the-goddess-called-haripriya-by-shauri-through-grace"
 }
 ]
 },
@@ -413,10 +217,6 @@
 {
 "surface": "yoginī",
 "quick_gloss": "yogini"
-},
-{
-"surface": "ī",
-"quick_gloss": "feminine"
 }
 ]
 },
@@ -428,32 +228,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "rogaśoka",
-"quick_gloss": "disease-sorrow"
-},
-{
-"surface": "vinivartitā",
-"quick_gloss": "removing"
-},
-{
-"surface": "āśayā",
-"quick_gloss": "mind"
-},
-{
-"surface": "yoginī",
-"quick_gloss": "yogini"
-},
-{
-"surface": "subhagayogadā",
-"quick_gloss": "fortunate-yoga-giving"
-},
-{
-"surface": "astu",
-"quick_gloss": "let-be"
-},
-{
-"surface": "sā",
-"quick_gloss": "she"
+"surface": "rogaśoka+vinivartitāśayā+yoginī+subhaga+yoga+dā+astu+sā",
+"quick_gloss": "may-she-be-yogini-removing-sorrow-and-giving-good-yoga"
 }
 ]
 },
@@ -466,11 +242,7 @@
 "tokens": [
 {
 "surface": "yogayuktā",
-"quick_gloss": "yoga-united"
-},
-{
-"surface": "ā",
-"quick_gloss": "feminine"
+"quick_gloss": "united-with-yoga"
 }
 ]
 },
@@ -482,32 +254,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "cidānanda",
-"quick_gloss": "consciousness-bliss"
-},
-{
-"surface": "eva",
-"quick_gloss": "indeed"
-},
-{
-"surface": "yat",
-"quick_gloss": "which"
-},
-{
-"surface": "nityaṃ",
-"quick_gloss": "always"
-},
-{
-"surface": "yogayuktā",
-"quick_gloss": "yoga-united"
-},
-{
-"surface": "tataḥ",
-"quick_gloss": "thence"
-},
-{
-"surface": "svataḥ",
-"quick_gloss": "by-self"
+"surface": "cidānanda+eva+yat+nityaṃ+yogayuktā+tataḥ+svataḥ",
+"quick_gloss": "by-eternal-conscious-bliss-she-is-yoga-united-by-herself"
 }
 ]
 },
@@ -519,12 +267,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "yogāṅga",
-"quick_gloss": "yoga-limb"
-},
-{
-"surface": "ā",
-"quick_gloss": "feminine"
+"surface": "yogāṅgā",
+"quick_gloss": "limb-of-yoga"
 }
 ]
 },
@@ -536,32 +280,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "āpannānām",
-"quick_gloss": "afflicted"
-},
-{
-"surface": "āpad",
-"quick_gloss": "calamity"
-},
-{
-"surface": "antaikahetuḥ",
-"quick_gloss": "single-cause"
-},
-{
-"surface": "yogāṅga",
-"quick_gloss": "yoga-limb"
-},
-{
-"surface": "iyaṃ",
-"quick_gloss": "this"
-},
-{
-"surface": "kīrtitā",
-"quick_gloss": "praised"
-},
-{
-"surface": "yogināthaiḥ",
-"quick_gloss": "by-yoga-lords"
+"surface": "āpannānām+āpad+anta+eka+hetuḥ+yogāṅgā+iyaṃ+kīrtitā+yogināthaiḥ",
+"quick_gloss": "this-is-called-yoganga-by-yoga-lords-as-sole-cause-for-the-afflicted"
 }
 ]
 },
@@ -574,11 +294,7 @@
 "tokens": [
 {
 "surface": "dhyānaśālinī",
-"quick_gloss": "meditation-possessing"
-},
-{
-"surface": "ī",
-"quick_gloss": "feminine"
+"quick_gloss": "abiding-in-meditation"
 }
 ]
 },
@@ -590,32 +306,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "sarvadhyeyā",
-"quick_gloss": "all-meditation-worthy"
-},
-{
-"surface": "api",
-"quick_gloss": "also"
-},
-{
-"surface": "sarvā",
-"quick_gloss": "all"
-},
-{
-"surface": "asi",
-"quick_gloss": "you"
-},
-{
-"surface": "tvaṃ",
-"quick_gloss": "tvam"
-},
-{
-"surface": "yasya",
-"quick_gloss": "whose"
-},
-{
-"surface": "dhyānaśālinī",
-"quick_gloss": "meditation-possessing"
+"surface": "sarva+dhyeyā+api+sarvā+asi+tvaṃ+yasya+dhyānaśālinī",
+"quick_gloss": "though-meditated-by-all-you-are-hers-who-abides-in-meditation"
 }
 ]
 },
@@ -628,11 +320,7 @@
 "tokens": [
 {
 "surface": "yogapaṭṭadharā",
-"quick_gloss": "yoga-band-wearing"
-},
-{
-"surface": "ā",
-"quick_gloss": "feminine"
+"quick_gloss": "wearing-yoga-band"
 }
 ]
 }

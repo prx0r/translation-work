@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p46-v1126
-by-hero(vīreṇa) in-them(tāsu) to-be-done(karttavyo) cause(hetuḥ) coloring-causes(raṃjana-hetavaḥ)
+[by-hero](vīreṇa) [in-them](tāsu) [to-be-done](karttavyo) [cause](hetuḥ) [collyrium](aṃjana) [causes](hetavaḥ)
 
 ## mukta-m0-p46-v1127
-by-teachers(ācāryamāṇaiḥ) who(yaḥ) of-women(strīṇām) no-other-refuge(ananya-śaraṇam) mind(manaḥ)
+[by-teachers](ācāryamāṇaiḥ) [of-women](strīṇāṃ) [not-other-refuge](ananyaśaraṇaṃ) [mind](manaḥ)
 
 ## mukta-m0-p46-v1128
-in-slips(skhalaneṣu) patience(titikṣā) and(ca) of-fault(doṣasya) re-examination(punarīkṣaṇam)
+[in-slips](skhalaneṣu) [forbearance](titikṣā) [of-fault](doṣasya) [re-examination](punarīkṣaṇam)
 
 ## mukta-m0-p46-v1129
-punishment-policy(daṇḍanītiḥ) not(na) indeed(tu) in-women(strīṣu) to-cause-fall(prapātayitum) deserves(arhati)
+[policy](daṇḍanītiḥ) [not](na) [tu](tu) [towards-women](strīṣu) [to-cast-down](prapātayitum) [deserves](arhati)
 
 ## mukta-m0-p46-v1130
-behold-violence(paśya-sāhasam) with-them(etāsām) heaven-gone(svargate) own-husband(nija-bharttari)
+[behold](paśya) [violence](sāhasa) [with-them](etāsāṃ) [gone-to-heaven](svargate) [own-husband](nijabharttari)
 
 ## mukta-m0-p46-v1131
-by-grief-beating-harshnesses(kheda-tāḍana-pāruṣyaiḥ) releasing-indeed(muṃcantyeva) own-life(sva-jīvitam)
+[by-grief](khedena) [beating](tāḍana) [harshness](pāruṣyaiḥ) [release](muṃcanti) [indeed](eva) [own-life](svajīvitam)
 
 ## mukta-m0-p46-v1132
-therefore(ataḥ) gentleness-in-them(mārdavaṃ-tāsu) first(prathamam) mind-coloring(citta-raṃjanam)
+[therefore](ataḥ) [gentleness](mārdavaṃ) [in-them](tāsu) [first](prathamaṃ) [mind-pleasing](cittaraṃjanaṃ)
 
 ## mukta-m0-p46-v1133
-extreme-growth(atyantam-abhivṛddhim) and(ca) leading-if(nayat-cet) in-them(tāsu) accomplisher(sādhakaḥ)
+[extreme](atyaṃtam) [growth](abhivṛddhiṃ) [ca](ca) [leading](nayat) [if](cet) [in-them](tāsu) [accomplisher](sādhakaḥ)
 
 ## mukta-m0-p46-v1134
-by-middle(madhyamena) manner(prakāreṇa) seeing(darśanam) instructed-wise(pradiśat-budhaḥ)
+[middle](madhyamena) [manner](prakāreṇa) [sight](darśanaṃ) [declared](pradiśat) [wise](budhaḥ)
 
 ## mukta-m0-p46-v1135
-attached(raktaḥ) goes-to-other-becoming(parebhavam-yāti) despised(paribhūtaḥ) how(katham) dear(priye)
+[attached](raktaḥ) [to-other's-disgrace](parebhavaṃ) [goes](yāti) [disgraced](paribhūtaḥ) [how](kathaṃ) [dear](priye)
 
 ## mukta-m0-p46-v1136
-in-bull-desiring(vṛṣasyantīṣu) them(tāsu) mother(amba) not(na) indeed(vai) chief(mukhyam) and(ca) should-make-roam(cārayet)
+[in-bull-like-ones](vṛṣasyantīṣu) [in-them](tāsu) [mother](amba) [not](na) [vai](vai) [chief](mukhyaṃ) [ca](ca) [should-drive](cārayet)
 
 ## mukta-m0-p46-v1137
-morsels(grāsān) also(api) and(ca) garments(vāsāṃsi) as(yathā) ability(śakti) should-offer(nivedayet)
+[morsels](grāsān) [api](api) [ca](ca) [garments](vāsāṃsi) [as](yathā) [ability](śakti) [should-offer](nivedayet)
 
 ## mukta-m0-p46-v1138
-therefore(tasmāt) hero-people-dependent(vīra-janādhīnā) messenger(dūtikā) nature(prakṛtiḥ) O-auspicious(śive)
+[therefore](tasmāt) [hero-dependent](vīrajanādhīnā) [female-messenger](dūtikā) [nature](prakṛtiḥ) [auspicious](śive)
 
 ## mukta-m0-p46-v1139
-of-couple(daṃpatyoḥ) union(ghaṭanam) should-say(brūyat) human-aim-single-cause(puruṣārtha-eka-kāraṇam)
+[of-couple](daṃpatyoḥ) [union](ghaṭanaṃ) [should-say](brūyat) [human-aim](puruṣārtha) [single-cause](ekakāraṇam)
 
 ## mukta-m0-p46-v1140
-mutual-affection(anyonya-anurāgeṇa) great-happiness(mahat-saukhyam) arises(prajāyate)
+[mutually](anyonya) [with-affection](anurāgeṇa) [great](mahat) [happiness](saukhyaṃ) [arises](prajāyate)
 
 ## mukta-m0-p46-v1141
-therefore(tasmāt) for-their-favor(tad-ānukūlyāya) own-favor(sva-ānukūlyam) should-manifest(prakāśayet)
+[therefore](tasmāt) [for-favor](tadanukūlyāya) [own-favor](svānukūlyaṃ) [should-show](prakāśayet)
 
 ## mukta-m0-p46-v1142
-by-embrace-pretext(āliṃgana-chalena) indeed(eva) pleasure(sukham) massage(saṃvāhanam) should-practice(caret)
+[by-embrace-pretext](āliṃganacchalena) [eva](eva) [pleasure](sukhaṃ) [massage](saṃvāhanaṃ) [should-do](caret)
 
 ## mukta-m0-p46-v1143
-taking-anointing(ādāya-limpet) foot(caraṇe) of-messenger(dūtyāḥ) she(sā) not-other-goer(na-anya-gā) becomes(bhavet)
+[should-anoint](ādāya) [limb](limpa) [foot](caraṇe) [of-messenger](dūtyāḥ) [she](sā) [not-other-going](nānyagā) [becomes](bhavet)
 
 ## mukta-m0-p46-v1144
-disgusted(jugupsamānaḥ) not(na) becomes(bhavet) detachment(vairāgyam) by-that(tena) arises(jāyate)
+[disgusted](jugupsamānaḥ) [not](na) [becomes](bhavet) [dispassion](vairāgyaṃ) [by-that](tena) [arises](jāyate)
 
 ## mukta-m0-p46-v1145
-in-true-worlds(sati-lokeṣu) movement(saṃcāram) festival(utsavam) and(ca) step-by-step(pade-pade)
+[in-worlds](satilokeṣu) [movement](saṃcāram) [festival](utsavaṃ) [ca](ca) [at-every-step](pade pade)
 
 ## mukta-m0-p46-v1146
-by-various(vividaiḥ) juicy(sarasaiḥ) ripe(pakvaiḥ) fruits(phalaiḥ) flowers(puṣpaiḥ) fragrant(sugaṃdhibhiḥ)
+[with-various](vividaiḥ) [juicy](sarasaiḥ) [ripe](pakvaiḥ) [fruits](phalaiḥ) [flowers](puṣpaiḥ) [fragrant](sugaṃdhibhiḥ)
 
 ## mukta-m0-p46-v1147
-by-massages(udvarttanaiḥ) betel-leaves(tāmbūlaiḥ) collyriums(aṃjanaiḥ) mouth-perfumes(mukha-vāsitaiḥ)
+[with-unctions](udvarttanaiḥ) [betel](tāmbūlaiḥ) [collyrium](aṃjanaiḥ) [mouth-perfumes](mukhavāsitaiḥ)
 
 ## mukta-m0-p46-v1148
-should-color(raṃjayet) beloved(ramaṇīm) wise(dhīmān) by-enjoyments(bhogaiḥ) bright(dīptaiḥ) and(ca) O-Parvati(pārvati)
+[should-please](raṃjayet) [beloved](ramaṇīṃ) [wise](dhīmān) [with-enjoyments](bhogaiḥ) [bright](dīptaiḥ) [ca](ca) [pārvati](pārvati)
 
 ## mukta-m0-p46-v1149
-so-long-pleased(tāvat-hṛṣṭa-manāḥ) indeed(eva) enjoyments-differences(bhoga-bhedāḥ) but(tu) should-practice(pācaret)
+[so-long](tāvat) [pleased-mind](hiramanā) [eva](eva) [enjoyment-difference](bhogabhedaḥ) [tu](tu) [should-do](pācaret)
 
 ## mukta-m0-p46-v1150
-by-praise(ślāghayā) arises(jāyate) that(tat) and(ca) proud-fruitless-women(sadarpā-viphalāḥ-strīyaḥ)
+[by-praise](ślāghayā) [arises](jāyate) [that](tat) [ca](ca) [proud](sadarpā) [fruitless](aviphalā) [women](striyaḥ)

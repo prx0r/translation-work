@@ -2,52 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p83-v2051
-dhārmikāḥ-ca-eva rājānaḥ pūrṇa-saptāṅga-saṃyutāḥ
+[righteous+and+indeed](dhārmikāścaiva) [kings](rājānaḥ) [full+seven+limb+endowed](pūrṇasaptāṅgasaṃyutāḥ)
+
 ## mukta-m0-p83-v2052
-vāñchitam samavāpnoti maṇḍalāt māsataḥ api vā
+[desired](vāñchitaṃ) [obtains](samavāpnoti) [from-circle](maṇḍalāt) [month+from](māsataḥ) [or](vā)
+
 ## mukta-m0-p83-v2053
-prāg-ukta-rakṣaḥ-vāyu-śakra-vahni-īśa-varuṇa-dikṣu sthāpanāt iti arthaḥ
+[previously-said](prāgukta) [rakshas+vayu+indra+fire+isha+varuna](rakṣovāyuśakravahnīśavaruṇa) [directions](dikṣu) [placement](sthāpanāt) [thus+meaning](ityarthaḥ)
+
 ## mukta-m0-p83-v2054
-mūrti-saptakam (ḍā)rākinyādīnām ṣaṇām devyāḥ ca iti śeṣaḥ
+[form+seven](mūrtisaptakaṃ) [(da)+rakini+etc](ḍārākinyādīnāṃ) [six](ṣaṇāṃ) [goddess+and](devyāśca) [remainder](iti+śeṣaḥ)
+
 ## mukta-m0-p83-v2055
-kleśāḥ vidyā-yantra-anubhāvataḥ ubhayoḥ sāmarthyāt
+[afflictions](kleśāḥ) [vidya+yantra](vidyāyantra) [power+from](anubhāvataḥ) [both](ubhayoḥ) [ability](sāmarthyāt)
+
 ## mukta-m0-p83-v2056
-suṣumnā-madhya-saṃstheṣu ṣaḍ-ādhāra-ambujeṣu tāḥ
+[sushumna+middle+situated](suṣumnāmadhyasaṃstheṣu) [six+support+lotus+in](ṣaḍādhārāmbujeṣu) [those](tāḥ)
+
 ## mukta-m0-p83-v2057
-bahiḥ ca maṇḍale pūjā-anugraha-anigraha-ātmikām
+[outside+and](bahiśca) [circle](maṇḍale) [worship+grace+disgrace+nature](pūjānugrahānigrahātmikām)
+
 ## mukta-m0-p83-v2058
-dhūmra-varṇa-ambuje devīm ḍākinīm tat-samākṛtim
+[smoke-colored+lotus](dhūmravarṇāmbuje) [goddess](devīṃ) [dakini](ḍākinīṃ) [that+form](tatsamākṛtim)
+
 ## mukta-m0-p83-v2059
-tayā sarvajñatā-siddhiḥ bhavati eva na saṃśayaḥ
+[by-her](tayā) [omniscience+accomplishment](sarvajñatāsiddhiḥ) [becomes+indeed](bhavatyeva) [no](na) [doubt](saṃśayaḥ)
+
 ## mukta-m0-p83-v2060
-prāpnoti
+[obtains](prāpnoti)
+
 ## mukta-m0-p83-v2061
-deheṣu sthitim tāḥ devyaḥ iti atra anvayaḥ dākinyādayaḥ iti śeṣaḥ
+[in+bodies](deheṣu) [residence](sthitim) [those](tāḥ) [goddesses](devyaḥ) [thus+connection](ityatrānvayaḥ) [dakini+etc](dākinyādayaḥ) [remainder](iti+śeṣaḥ)
+
 ## mukta-m0-p83-v2062
-mūla-devatā-samānaḥ
+[root+deity+equal](mūladevatāsamānaḥ)
+
 ## mukta-m0-p83-v2063
-rākinīm dvādaśa-dale kādi-ḍhānta-akṣara-ātmabhiḥ
+[rakini](rākinīṃ) [twelve+petal](dvādaśadale) [ka-to-dha+letters+nature](kādiḍhāntākṣarātmabhiḥ)
+
 ## mukta-m0-p83-v2064
-maṇipūraka-saṃjñe ca nābhi-sthe daśa-patrake
+[manipura+named](maṇipūrakasaṃjñe) [and](ca) [navel+situated](nābhisthe) [ten+petal](daśapatrake)
+
 ## mukta-m0-p83-v2065
-lākinīm pūjayet vairivi jaya-śrī-samṛddhaye
+[lakini](lākinīṃ) [worship](pūjayet) [enemy](vairivi) [victory+prosperity+for](jayaśrīsamṛddhaye)
+
 ## mukta-m0-p83-v2066
-vādi-ṣaḍ-varṇa-śaktībhiḥ āvṛtām ḍākinīm yajet
+[va+etc+six+letters+powers+surrounded](vādiṣaḍvarṇaśaktībhirāvṛtāṃ) [dakini](ḍākinīṃ) [sacrifice](yajet)
+
 ## mukta-m0-p83-v2067
-ādhāra-ākhye catuṣ-patre suvarṇa-ābhe saroruhe
+[support+named](ādhārākhye) [four+petal](catuṣpatre) [gold+colored](suvarṇābhe) [lotus](saroruhe)
+
 ## mukta-m0-p83-v2068
-pāyu-dhvaja-antarā tryasra-madhye tejaḥ samanvitām
+[anus+banner+between](pāyudhvajāntarā) [triangle+middle](tryasramadhye) [fire+endowed](tejaḥ+samanvitām)
+
 ## mukta-m0-p83-v2069
-sevitām hakṣa-śaktibhyām hākinīm pūjayet tathā
+[served](sevitāṃ) [ha-ksha+powers+by](hakṣaśaktibhyāṃ) [hakini](hākinīṃ) [worship+thus](pūjayettatha)
+
 ## mukta-m0-p83-v2070
-viśva-sṛṣṭi-sthiti-dhvaṃsa-śakti-dām api ayatnataḥ
+[universe+creation+preservation+destruction+power+giver+even+effortlessly](viśvasṛṣṭisthitidhvaṃsaśaktidāmapyayatnataḥ)
+
 ## mukta-m0-p83-v2071
-pūjanam sarva-duḥkha-ārti-nāśanam sampadā-aspadam
+[worship](pūjanaṃ) [all+suffering+pain+destruction](sarvaduḥkhārtināśanaṃ) [wealth+seat](sampadāspadam)
+
 ## mukta-m0-p83-v2072
-tayā pūjayā dhvaja-mūle mehana-mūle
+[by+that+worship](tayā+pūjayā) [banner+root](dhvajamūle) [urethra+root](mehanamūle)
+
 ## mukta-m0-p83-v2073
-samanvitām kuṇḍalinī-tejaḥ-rūpām tathā samuccaye
+[endowed](samanvitāṃ) [kundalini+fire+form](kuṇḍalinītejorūpām) [thus+collection](tathā+samuccaye)
+
 ## mukta-m0-p83-v2074
-bhūta-bhaviṣya-vartamāna-kārya-jñāna-sāmarthya-pradāyinīm iti arthaḥ
+[past+future+present+action+knowledge+power+giver+thus+meaning](bhūtabhaviṣyavartamānakāryajñānasāmarthyapradāyinīmityarthaḥ)
+
 ## mukta-m0-p83-v2075
-madhye ca tatra tām nitya-anityā gandha-ādinā arcayet
+[middle+and](madhye+ca) [there](tatra) [her](tāṃ) [eternal+non-eternal](nityānityā) [incense+etc](gandhādinā) [worship](arcayet)
