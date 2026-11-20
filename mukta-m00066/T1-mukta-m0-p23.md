@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p23-v551
-[ānanda-tantra](ānaṃdataṃtre) [ca-eva-asmin](caivāsmin) [catvāraḥ](catvāraḥ) [param-īritāḥ](paramīritāḥ)
+[in-this-tantra](ānaṃdataṃtre) [indeed](ca) [in-this](evāsmin) [four](catvāraḥ) [declared](paramīritāḥ)
 
 ## mukta-m0-p23-v552
-[tasmāt](tasmāt) [catvāraḥ](catvāraḥ) [ullāsāḥ](ullāsā) [iha](iha) [proktāḥ](proktā) [maheśvari](maheśvari)
+[therefore](tasmāt) [four](catvāraḥ) [delights](ullāsāḥ) [here](iha) [spoken](proktāḥ) [o-great-lady](maheśvari)
 
 ## mukta-m0-p23-v553
-[tasmāt](tasmāt) [ānanda-pūjāyāḥ](ānaṃdapūjāyā) [mālaṃ-vyante](mālaṃvyaṃte) [tu](tu) [na](na) [trayaḥ](trayaḥ)
+[therefore](tasmāt) [of-bliss-worship](ānaṃda+pūjāyāḥ) [not](na) [three](trayaḥ) [are-omitted](mālaṃvyaṃte)
 
 ## mukta-m0-p23-v554
-[tathā-tathā](tathātathā) [parānanda](parānaṃda) [nātha-vidyām](nāthavidyāṃ) [parāmṛśet](parāmṛśet)
+[thus](tathā) [thus](tathā) [supreme-bliss](parānaṃda) [lord-knowledge](nāthavidyāṃ) [should-touch](parāmṛśet)
 
 ## mukta-m0-p23-v555
-[dūtyā](dūtyā) [saṃdhukṣita](saṃdhukṣita) [sva-ātmā](svātmā) [ānanda-mūrtim](naṃdamūrttiṃ) [gurum](guruṃ) [smaret](smaret)
+[by-messenger](dūtyā) [kindled](saṃdhukṣita) [own-self](svātmā) [bliss-form](naṃdamūrttiṃ) [guru](guruṃ) [remember](smaret)
 
 ## mukta-m0-p23-v556
-[dvādaśa-ante](dvādaśāṃtagate) [rakta-śukla-pāde](raktaśuklapāde) [vinikṣipet](vinikṣipet)
+[at-twelve-limit](dvādaśāṃtagate) [red-white-foot](raktaśuklapāde) [should-place](vinikṣipet)
 
 ## mukta-m0-p23-v557
-[śiva-tva-sāmrājya](śivatvasāmrājya) [pada-abhiṣiktam](padābhiṣiktaṃ) [svam](svaṃ) [viciṃtayet](viciṃtayet)
+[of-shiva-sovereignty](śivatvasāmrājya) [foot](pada) [anointed](abhiṣiktaṃ) [own](svaṃ) [should-contemplate](viciṃtayet)
 
 ## mukta-m0-p23-v558
-[paśyan](paśyan) [pratyaṅga-maṅkūra-danam](pratyaṃgamaṃkūradanaṃ) [gottuṅga-mānasaḥ](gottuṃgamānasaḥ)
+[seeing](paśyan) [limb-by-limb](pratyaṃgamaṃ) [sprout](kūrada) [to-drink](naṃ) [gottuṃga-minded](gottuṃgamānasaḥ)
 
 ## mukta-m0-p23-v559
-[yathā](yathā) [yauvanam-ullāsam](yauvanamullāsaṃ) [saṃprāpnoti](saṃprāpnoti) [amba](amba) [dūtikā](dūtikā)
+[as](yathā) [youthful-delight](yauvanamullāsaṃ) [obtains](saṃprāpnoti) [mother](aṃba) [messenger](dūtikā)
 
 ## mukta-m0-p23-v560
-[ālokane-ratiḥ](ālokaneratiḥ) [sākṣāt](sākṣāt) [smite](smite) [jāgarti](jāgarti) [jāhnavī](jāhnavī)
+[by-gazing](ālokaneratiḥ) [directly](sākṣāt) [at-smile](smite) [awakens](jāgarti) [ganges](jāhnavī)
 
 ## mukta-m0-p23-v561
-[aśvinau](aśvinau) [nāsikā-bhāge](nāsikābhāge) [tu](tvoṣṭhe) [oṣṭhe](oṣṭhe) [ca](ca) [parama-amṛtam](paramāmṛtam)
+[ashvins](aśvinau) [at-nose-region](nāsikābhāge) [and](tu) [on-lip](oṣṭhe) [supreme-nectar](paramāmṛtam)
 
 ## mukta-m0-p23-v562
-[svede](svede) [ca](ca) [vāruṇī-devī](vāruṇīdevī) [kāma-nāthaḥ](kāmanāthaḥ) [tu](tvahaṃ) [ahaṃ](ahaṃ) [kṛtau](kṛtau)
+[in-sweat](svede) [varuni-goddess](vāruṇī+devī) [desire-lord](kāmanāthaḥ) [thus](tu) [i](ahaṃ) [in-act](kṛtau)
 
 ## mukta-m0-p23-v563
-[stana-dvaye](stanadvaye) [meru-giriḥ](merugirirnniḥ) [śabdam](śabdaṃ) [brahma-madhyame](brahmamadhyame)
+[on-two-breasts](stanadvaye) [meru-mountain](merugiriḥ) [silent](niḥśabdaṃ) [in-brahma-middle](brahmamadhyame)
 
 ## mukta-m0-p23-v564
-[vali-traye](valitraye) [ca](ca) [trailokyam](trailokyaṃ) [nābhi-garbhe](nābhigarbhe) [guhā-ambikā](guhāṃbikā)
+[in-three-folds](valitraye) [three-worlds](trailokyaṃ) [in-navel-womb](nābhigarbhe) [cave-mother](guhāṃbikā)
 
 ## mukta-m0-p23-v565
-[nakheṣu](nakheṣu) [śītām](śītāṃ) [śu-kalā](śukalā) [dor-mūle](dormmūleṃ) [kuśa-devatāḥ](kuśadevatāḥ)
+[in-nails](nakheṣu) [cool](śītāṃ) [kalā](śu+kalā) [of-arm-root](dormmūle) [hook-deities](kuśadevatāḥ)
 
 ## mukta-m0-p23-v566
-[kāverī](kāverī) [ca-eva](caiva) [niśvāse](niśvāse) [godāsīt](godāsīt) [kāra-karmaṇi](kārakarmaṇi)
+[kaveri](kāverī) [indeed](ca) [in-breath](niśvāse) [goda](godā) [as-servant](sītkāra) [in-action](karmaṇi)
 
 ## mukta-m0-p23-v567
-[amalālāpa-kṛtyeṣu](amalālāpakṛtyeṣu) [citta-viśrānti](cittaviśrāṃti) [nāyakā](nāyakā)
+[in-pure-lip-acts](amalālāpakṛtyeṣu) [mind-rest](cittaviśrāṃti) [leader](nāyakā)
 
 ## mukta-m0-p23-v568
-[vākptiḥ](vākptiḥ) [sukha-huṃkāre](sukhahuṃkāre) [gīṣpatī](gīṣpatī) [kāku-kādhvanau](kākukādhvanau)
+[speech-lordship](vākptiḥ) [in-sound-hum](sukhahuṃkāre) [gishpati](gīṣpatī) [in-cuckoo-sound](kākukādhvanau)
 
 ## mukta-m0-p23-v569
-[iṃdraḥ](iṃdraścittasamunnatyāmagnirvastu) [citta-samunnatyām](cittasamunnatyām) [agniḥ](agnirvastu) [vastu](vastu) [grasītviṣi](grasītviṣi)
+[indra](iṃdraḥ) [in-mind-elevation](cittasamunnatyām) [agni](agniḥ) [substance](vastu) [grasps](grasītviṣi)
 
 ## mukta-m0-p23-v570
-[hastādi-cālane](hastādicālane) [yajñaḥ](yajñastvāśleṣe) [tu](tu) [āśleṣe](āśleṣe) [yajña-pūruṣaḥ](yajñapūruṣaḥ)
+[in-hand-movement](hastādicālane) [sacrifice](yajñaḥ) [in-embrace](āśleṣe) [sacrifice-person](yajñapūruṣaḥ)
 
 ## mukta-m0-p23-v571
-[lāsyaṃ](lāsyaṃ) [ca](ca) [tāṃḍavaṃ](tāṃḍavaṃ) [devi](devi) [tasyāḥ](tasyā) [deha-ādi](dehādi) [ghūrṇane](ghūrṇane)
+[lasya](lāsyaṃ) [and](ca) [tandava](tāṃḍavaṃ) [goddess](devi) [of-her](tasyāḥ) [body-etc](dehādi) [whirling](ghūrṇane)
 
 ## mukta-m0-p23-v572
-[tāni](tānisarvāṇi) [sarvāṇi](sarvāṇi) [varttate](varttate) [tasyāḥ](tasyāgaṃḍūṣavastuni) [gaṃḍūṣa-vastuni](gaṃḍūṣavastuni)
+[those](tāni) [all](sarvāṇi) [occur](varttate) [of-her](tasyāḥ) [cheek-mouthful](gaṃḍūṣavastuni)
 
 ## mukta-m0-p23-v573
-[tat-phalam](tatphalaṃ) [labhate](labhate) [dūtī](dūtī) [sudhā-gaṃḍūṣa-sevanāt](sudhāgaṃḍūṣasevanāt)
+[that-fruit](tatphalaṃ) [obtains](labhate) [messenger](dūtī) [nectar-mouthful](sudhāgaṃḍūṣa) [by-consuming](sevanāt)
 
 ## mukta-m0-p23-v574
-[gaṃḍūṣam-ādiram](gaṃḍūṣamādiraṃ) [devī](devī) [vīrasya-ānanda-varddhanam](vīrasyānaṃdavarddhanam)
+[mouthful](gaṃḍūṣam) [first](ādiraṃ) [goddess](devī) [of-hero](vīrasya) [bliss-increasing](ānaṃda+varddhanam)
 
 ## mukta-m0-p23-v575
-[nitya-klinnā-sudhā-devī](nityaklinnāsudhādevī) [rati](rati) [prītiḥ](prītiśca) [ca](ca) [tat-bhage](tadbhage)
+[ever-wet](nityaklinnā) [nectar-goddess](sudhā+devī) [delight](rati) [love](prītiḥ) [ca](ca) [in-that-place](tadbhage)
