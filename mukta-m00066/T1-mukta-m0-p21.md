@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p21-v501
-[rogāṇi](diseases) [avaśyaṃ](certainly) [nighnaṃti](destroy) [svabhāvaḥ](nature) [vā](or) [asya](of-this) [vastunaḥ](thing)
+[diseases-necessarily](rogāṇyavaśyaṃ) [destroy](nighnaṃti) [nature](svabhāvo) [of-him](vāsya) [of-thing](vastunaḥ)
 
 ## mukta-m0-p21-v502
-[saḥ](he) [vīrabhadraḥ](vīrabhadra) [suśroṇi](fair-hipped) [sākṣāt](directly) [saṃhāra](destruction) [bhairavaḥ](bhairava)
+[he-vīrabhadra](sa) [vīrabhadra](vīrabhadraḥ) [good-hipped](suśroṇi) [directly](sākṣāt) [destruction-bhairava](saṃhāra) [bhairava](bhairavaḥ)
 
 ## mukta-m0-p21-v503
-[dakṣa](dakṣa) [kopāt](from-anger) [prajvalataḥ](blazing) [tasya](his) [aṃgāt](from-limb) [roma](hair) [kūpataḥ](from-pore)
+[from-dakṣa-anger](dakṣakopātprajvalataḥ) [of-him](tasyāṃgādromakūpataḥ) [from-limb-hair-pore](tasyāṃgādromakūpataḥ)
 
 ## mukta-m0-p21-v504
-[tam](him) [anuproddhitāḥ](arisen) [sarve](all) [vyādhayaḥ](diseases) [vividha](various) [kramāḥ](orders)
+[them](tamanuproddhitāḥ) [all](sarve) [diseases](vyādhayovividhakramāḥ) [various-orders](vyādhayovividhakramāḥ)
 
 ## mukta-m0-p21-v505
-[atyaṃta](extreme) [lolāḥ](unsteady) [durvārāḥ](irresistible) [prajvalaṃtaḥ](blazing) [sadā](always) [muṣā](with-muṣa)
+[extremely-unsteady](atyaṃtalolādurvārāḥ) [irresistible](atyaṃtalolādurvārāḥ) [blazing](prajvalaṃtaḥ) [always-him](sadāmuṣā)
 
 ## mukta-m0-p21-v506
-[tam](him) [āśritya](resorting) [mahā](great) [satvaṃ](being) [vīrabhadraṃ](vīrabhadra) [mahā](great) [udayam](rise)
+[him](tamāśritya) [great-being](mahāsatvaṃ) [vīrabhadra](vīrabhadraṃ) [great-rise](mahodayam)
 
 ## mukta-m0-p21-v507
-[pāpa](sinful) [śīlān](natured) [durācārān](misbehaving) [kanyā](maiden) [vidveṣa](hatred) [kāriṇaḥ](doers)
+[sinful-natured](pāpaśīlān) [bad-conducted](durācārān) [girl-hating](kanyāvidveṣakāriṇaḥ)
 
 ## mukta-m0-p21-v508
-[āgama](scripture) [drohiṇaḥ](hostile) [pāpān](sinners) [vṛthā](vain) [kalaha](quarrel) [kāriṇaḥ](doers)
+[āgama](āgama) [hostile](drohiṇo) [sinners](pāpān) [vain-quarrel-makers](vṛthākalahakāriṇaḥ)
 
 ## mukta-m0-p21-v509
-[bhakṣayaṃti](devour) [mahā](great) [rogāḥ](diseases) [pibaṃti](drink) [rudhiraṃ](blood) [bahu](much)
+[devour](bhakṣayaṃti) [great-diseases](mahārogāḥ) [drink](pibaṃti) [blood](rudhiraṃ) [much](bahu)
 
 ## mukta-m0-p21-v510
-[vṛdhe](growth)
+[vṛdhe](vṛdhe-)
 
 ## mukta-m0-p21-v511
-[marmabheda](vital-spot) [karālāpāṃ](fierce-speech) [dhārmika](righteous) [ācāra](conduct) [niṃdakān](blamers)
+[vital-point-breaking](marmabheda) [terrible](karālāpāṃ) [righteous-conduct](dhārmikācāra) [blamers](niṃdakān)
 
 ## mukta-m0-p21-v512
-[hiṃsaṃti](harm) [vyādhayaḥ](diseases) [tīvrāḥ](severe) [tat](that) [saṃgāt](from-contact) [aparān](others) [api](also)
+[harm](hiṃsaṃti) [diseases](vyādhayastīvrāstatsaṃgādaparānapi) [severe](vyādhayastīvrāstatsaṃgādaparānapi) [from-his-contact-others-too](vyādhayastīvrāstatsaṃgādaparānapi)
 
 ## mukta-m0-p21-v513
-[āśaṃkamānaiḥ](fearing) [vilaya](dissolution) [mahaṃsaṃ](great-swan) [prārthitaḥ](requested) [purā](formerly)
+[fearing](āśaṃkamānairvilaya) [great-swan](mahaṃsaṃprārthitaḥ) [prayed](mahaṃsaṃprārthitaḥ) [formerly](purā)
 
 ## mukta-m0-p21-v514
-[parabrahmaḥ](supreme-brahman) [sāsvāda](with-taste) [mayam](filled) [ānanda](bliss) [dāyakam](giving)
+[supreme-brahman](parabrahmaḥ) [taste-filled](sāsvādamayamānaṃdadāyakam) [bliss-giving](sāsvādamayamānaṃdadāyakam)
 
 ## mukta-m0-p21-v515
-[saḥ](that) [biṃdu](drop) [śata](hundred) [sāhasra](thousand) [pravahaḥ](flow) [pavana](wind) [āhatam](struck)
+[he](sa) [drop](biṃdu) [hundred-thousand](śatasāhasra) [flow](pravahaḥ) [wind-struck](pavanāhatam)
 
 ## mukta-m0-p21-v516
-[viveśa](entered) [ca](and) [oṣadhiḥ](herb) [sarvāḥ](all) [soma](soma) [rūpa](form) [mahā](great) [rasaḥ](essence)
+[entered](viveśacauṣadhiḥ) [all-herbs](viveśacauṣadhiḥ) [moon-formed](somarūpomahārasaḥ) [great-essence](somarūpomahārasaḥ)
 
 ## mukta-m0-p21-v517
-[tataḥ](then) [prabhṛti](from) [vīrut](plant) [sujāgartti](awakens) [parama](supreme) [amṛtam](nectar)
+[then](tataḥ) [from](prabhṛti) [plants](vīrutsujāgartti) [awaken](vīrutsujāgartti) [supreme-nectar](paramāmṛtam)
 
 ## mukta-m0-p21-v518
-[vividhaṃ](various) [vaidya](medical) [taṃtraṃ](system) [tu](indeed) [jvara](fever) [ādīnāṃ](etc) [vinuttaye](for-removal)
+[various](vividhaṃ) [medical-treatise](vaidyataṃtraṃ) [tu](tu) [for-fever-etc-removal](jvarādīnāṃ) [vinuttaye](vinuttaye)
 
 ## mukta-m0-p21-v519
-[śārīra](bodily) [vaidyake](medicine) [proktāḥ](stated) [prakvātha](decoction) [guṭikā](pill) [ādayaḥ](etc)
+[bodily-medicine](śārīravaidyake) [proclaimed](proktāḥ) [decoctions-pills-etc](prakvāthaghuṭikādayaḥ)
 
 ## mukta-m0-p21-v520
-[yathā](as) [deha](body) [jvaraṃ](fever) [śītaṃ](cold) [pittaṃ](bile) [śleṣma](phlegm) [malaḥ](waste) [nilaḥ](wind)
+[as](yathā) [body](dehojvaraṃ) [fever](dehojvaraṃ) [cold](śītaṃ) [bile](pittaṃ) [phlegm](śleṣmamalonilaḥ) [waste-wind](śleṣmamalonilaḥ)
 
 ## mukta-m0-p21-v521
-[tathā](so) [jīve](in-soul) [gadāḥ](diseases) [proktāḥ](stated) [krodha](anger) [udveṣa](aversion) [ca](and) [matsaraḥ](envy)
+[so](tathā) [in-living-being](jīve) [diseases](gadāḥ) [proclaimed](proktāḥ) [anger](krodhodveṣaścamatsaraḥ) [aversion](krodhodveṣaścamatsaraḥ) [envy](krodhodveṣaścamatsaraḥ)
 
 ## mukta-m0-p21-v522
-[nirvedaḥ](disgust) [ca](and) [paritrāsaḥ](terror) [śaṃkā](doubt) [kutsita](despised) [ciṃtanam](thought)
+[despair](nirvedaśca) [and](nirvedaśca) [terror](paritrāsaḥ) [doubt](śaṃkākutsitaciṃtanam) [contemptuous-thought](śaṃkākutsitaciṃtanam)
 
 ## mukta-m0-p21-v523
-[vikaṃpatvaṃ](boasting) [vimūḍhatvaṃ](delusion) [vidyā](knowledge) [loka](world) [navarjitam](devoid)
+[instability](vikaṃpatvaṃ) [delusion](vimūḍhatvaṃ) [knowledge-light](vidyāloka) [devoid](navarjitam)
 
 ## mukta-m0-p21-v524
-[sarvasya](of-all) [kutsā](contempt) [śīlatvaṃ](habit) [sarvatra](everywhere) [api](also) [jugupsanam](aversion)
+[of-all](sarvasyakutsā) [blame-nature](śīlatvaṃ) [everywhere](sarvatrāpi) [disgust](jugupsanam)
 
 ## mukta-m0-p21-v525
-[etā](these) [dṛśāna](views) [eka](one) [bhedāḥ](differences) [koṭīnām](of-crores) [api](also) [koṭayaḥ](crores)
+[these](etā) [seen](dṛśānaikabhedāḥ) [one-kind](dṛśānaikabhedāḥ) [differences](dṛśānaikabhedāḥ) [crores](koṭīnāmapikoṭayaḥ) [of-crores](koṭīnāmapikoṭayaḥ)
