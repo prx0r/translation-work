@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p15-v351
-[having-saluted](namaskṛtya) [great-goddess](maheśānīṃ) [great-tripura-beauty](mahātripurasuṃdarīm)
+having-bowed (namaskṛtya) to-great-goddess (maheśānīṃ) great-tripura-beauty (mahātripurasuṃdarīm)
 
 ## mukta-m0-p15-v352
-[pradakṣiṇa](pradakṣiṇa) [salutations](namaskārān) [having-done](kṛtvā) [devoted-bowed](bhaktiparānataḥ)
+circumambulation (pradakṣiṇa) salutations (namaskārān) having-done (kṛtvā) devotion-bowed (bhaktiparānataḥ)
 
 ## mukta-m0-p15-v353
-[by-this-mantra](maṃtreṇānena) [at-her-feet](tatpāde) [casting](vikṣipan) [prostrate-salute](daṃḍavannamet)
+by-mantra (maṃtreṇa) this (anena) at-feet (tatpāde) casting (vikṣipan) staff-like (daṃḍavat) bow (namet)
 
 ## mukta-m0-p15-v354
-[delight-āgama-now](ānaṃdayāgamadhunā) [I-do](karomi) [bless](anugṛhāṇa) [me](mām)
+delight-sacrifice-now (ānaṃdayāgamadhunā) I-do (karomi) bless-me (anugṛhāṇamām)
 
 ## mukta-m0-p15-v355
-[own-guru](svaguruṃ) [guru's-wife](gurupatnīṃ) [and](ca) [six-times](dviṣaṭkiṃte) [thrice-worship](triśo'rcayet)
+own-teacher (svaguruṃ) teacher's-wife (gurupatnīṃ) and (ca) twice-six (dviṣaṭkiṃte) thrice (triśaḥ) worship (arcayet)
 
 ## mukta-m0-p15-v356
-[beginning-with-eight](kulākulāṣṭakādīni) [inviting-summoning](nimaṃtryāhūya) [adorned](śobhitām)
+kula-akula-eight-etc (kulākulāṣṭakādīni) inviting-summoning-adorned (nimaṃtryāhūyaśobhitām)
 
 ## mukta-m0-p15-v357
-[having-worshipped](abhyarcya) [all-limbs](sarvamapyaṃgam) [wiping](avamṛjya) [expert](vicakṣaṇaḥ)
+having-worshipped (abhyarcya) all-limbs (sarvamapyaṃgam) wiping (avamṛjya) expert (vicakṣaṇaḥ)
 
 ## mukta-m0-p15-v358
-[or](athavā) [picture](citram) [or](athavā) [leaf-garment](patrorṇaṃ) [beautiful](sumanoharam)
+or (athavā) picture (citram) or (athavā) leaf-cloth (patrorṇaṃ) beautiful (sumanoharam)
 
 ## mukta-m0-p15-v359
-[waist-chain](kāṃcīlatā) [scale-tip](tulākoṭi) [necklace-single-row](hāraikāvali) [with-ornaments](vālibhiḥ)
+girdle-vine (kāṃcīlatā) scale-peak (tulākoṭi) necklace-single-strand (hāraikāvali) ornaments (vālibhiḥ)
 
 ## mukta-m0-p15-v360
-[with-other-ornaments](anyaiścābharaṇaistāṃtu) [having-adorned](bhūṣayitvā) [expert](vicakṣaṇaḥ)
+other (anyaiś) and (ca) ornaments (bharaṇaiḥ) her (tāṃ) tu (tu) adorning (bhūṣayitvā) expert (vicakṣaṇaḥ)
 
 ## mukta-m0-p15-v361
-[not-detached](naviraktā) [not-extremely-attached](navātyaṃtaraktā) [not-quarrel-loving](nakalahapriyā)
+not (na) detached (viraktā) not (na) very (atyanta) attached (raktā) not (na) quarrel (kalaha) loving (priyā)
 
 ## mukta-m0-p15-v362
-[not-attached-to-other](nānyaraktā) [not-too-stout](nātipuṣṭā) [not-too-short](nātikharvā) [not-too-thin](navākṛśā)
+not-other-attached (nānyaraktā) not-too-stout (nātipuṣṭā) not-too-short (nātikharvā) not-too-thin (navākṛśā)
 
 ## mukta-m0-p15-v363
-[not-rough-limbed](narūkṣāṃgī) [not-crooked-eyed](najihmākṣī) [not-hard-boned](nacakarkaśakīkasā)
+not-rough-limbed (narūkṣāṃgī) not-crooked-eyed (na jihmākṣī) not (na) ca (ca) harsh (karkaśa) ribbed (kīkasā)
 
 ## mukta-m0-p15-v364
-[not-bawd-like](nakuṭṭanī) [conduct](samācārā) [not-mockery-inclined](nopahāsaparāyaṇā)
+not (na) procuress (kuṭṭanī) conduct (samācārā) not (na) mockery-devoted (upahāsaparāyaṇā)
 
 ## mukta-m0-p15-v365
-[not-bad-smelling](nadurgaṃdhā) [not-ill-natured](naduḥśīlā) [not-evil-speaking](nacaduṣparivādinī)
+not (na) bad-smelling (durgaṃdhā) not (na) ill-natured (duḥśīlā) not (na) ca (ca) evil-speaking (duṣparivādinī)
 
 ## mukta-m0-p15-v366
-[not-long-disease-afflicted](nadīrgharogagrastāṃgī) [suitable](yogyā) [becomes](bhavati) [messenger](dūtikā)
+not (na) long-disease-grasped-limbed (dīrgharogagrastāṃgī) fit (yogyā) becomes (bhavati) messenger (dūtikā)
 
 ## mukta-m0-p15-v367
-[bodily-and-life](śārīramathajīvasya) [two-purifications](saṃskāradvitayaṃ) [certain](dhruve)
+bodily (śārīram) and (atha) of-life (jīvasya) purification-two (saṃskāradvitayaṃ) firm (dhruve)
 
 ## mukta-m0-p15-v368
-[anointing-rubbing](abhyaṃgodvartane) [and-indeed](caiva) [bathing-anointing](snānamālepanaṃ) [then](tataḥ)
+limb-anointing (abhyaṃgodvartane) and (ca) eva (eva) bathing (snānam) anointing (ālepanaṃ) then (tataḥ)
 
 ## mukta-m0-p15-v369
-[soft-cloth-wearing](mradīyavastradharaṇaṃ) [barley-time](yavakālaṃ) [act](kṛtiḥ) [cloth](paṭe)
+soft-cloth-wearing (mradīyavastradharaṇaṃ) barley-time (yavakālaṃ) action (kṛtiḥ) cloth (paṭe)
 
 ## mukta-m0-p15-v370
-[hairiness](ālomaśaṃtvaṃ) [cleanliness](svacchatvaṃ) [smoothness](ślakṣṇatvaṃ) [and](ca) [fragrance](sugaṃdhitā)
+hairiness (ālomaśaṃtvaṃ) cleanliness (svacchatvaṃ) smoothness (ślakṣṇatvaṃ) and (ca) fragrance (sugaṃdhitā)
 
 ## mukta-m0-p15-v371
-[softness](sukomalatvaṃ) [purity](śuddhatvaṃ) [pleasant-touch](susparśatvaṃ) [and](ca) [O-Parvati](pārvati)
+softness (sukomalatvaṃ) purity (śuddhatvaṃ) pleasant-touch (susparśatvaṃ) and (ca) Parvati (pārvati)
 
 ## mukta-m0-p15-v372
-[natural-tenderness](svabhāvasukumāratvaṃ) [by-nature](svabhāvena) [fragrance](sugaṃdhitā)
+nature (svabhāva) tenderness (sukumāratvaṃ) by-nature (svabhāvena) fragrance (sugaṃdhitā)
 
 ## mukta-m0-p15-v373
-[absence-of-excessive-laxity](ativaiśālyarāhityam) [lack-of-excessive-tightness](atisaṃkocahīnatā)
+excessive-breadth (ativaiśālya) absence (rāhityam) excessive-narrowness (atisaṃkoca) deficiency (hīnatā)
 
 ## mukta-m0-p15-v374
-[eight-enjoyments-suitability](aṣṭabhogopadheyatvaṃ) [endurance-of-enjoyment-urge](bhogavegasahiṣṇutā)
+eight-enjoyments-suitability (aṣṭabhogopadheyatvaṃ) enjoyment-impulse-endurance (bhogavegasahiṣṇutā)
 
 ## mukta-m0-p15-v375
-[absence-of-intense-itching](atyaṃtacaṇḍakaṇḍūyārahitatvaṃ) [and](ca) [O-Parvati](pārvati)
+extreme-itching (atyaṃtacaṇḍakaṇḍūyā) absence (rahitatvaṃ) and (ca) Parvati (pārvati)
