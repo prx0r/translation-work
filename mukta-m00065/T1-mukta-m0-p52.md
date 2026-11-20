@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p52-v1276
-[sutra-middle-half-sutra-by](sūtramadhye'rdhasūtreṇa) [fishes](matsyān) [corners-in](koṇeṣu) [everywhere](sarvataḥ)
+[thread+middle](sūtramadhye) [half+thread+by](ardhasūtreṇa) [fishes](matsyān) [corners+in](koṇeṣu) [everywhere](sarvataḥ)
 
 ## mukta-m0-p52-v1277
-[veda-asra](vedāsraṃ) [pedestal-field](piṇḍikākṣetraṃ) [kundas-of](kuṇḍānāmapi) [always](sarvadā)
+[veda+corner](vedāsraṃ) [pedestal+field](piṇḍikākṣetraṃ) [pits+of+also](kuṇḍānāmapi) [always](sarvadā)
 
 ## mukta-m0-p52-v1278
-[middle-from-middle-gone](madhyānmadhyagataṃ) [sutra](sūtraṃ) [corner](koṇaṃ) [encircling](saṃveṣdya) [other](cāparam)
+[middle+from](madhyāt) [middle+gone](madhyagataṃ) [thread](sūtraṃ) [corner](koṇaṃ) [encircling](saṃveṣdya) [and+other](cāparam)
 
 ## mukta-m0-p52-v1279
-[that-sutra-pair-union](tatsūtradvayasaṃyogātsādhayedvā) [three-leafed](triparṇikām)
+[that+thread+two+union+from](tatsūtradvayasaṃyogāt) [accomplish+or](sādhayedvā) [three+leaf](triparṇikām)
 
 ## mukta-m0-p52-v1280
-[revolving](saṃbhrāmya) [middle-from](madhyataḥ) [sutra](sūtraṃ) [half-moon](sādhayedardhacandrikām)
+[whirling](saṃbhrāmya) [middle+from](madhyataḥ) [thread](sūtraṃ) [accomplish+half+moon](sādhayedardhacandrikām)
 
 ## mukta-m0-p52-v1281
-[demon-fire-moon-wood-in](rakṣo'gnisaumyakāṣṭhāsu) [three-sutra-triangle](ta trisūtrya[k, kh: trisatryā]trikoṇikām)
+[demon+fire+gentle+quarters+in](rakṣo'gnisaumyakāṣṭhāsu) [that](ta) [three+thread+triangle](trisūtryatrikoṇikām)
 
 ## mukta-m0-p52-v1282
-[middle-lower-sutra-revolving](madhyādhasūtrasaṃbhrāntaiḥ) [pedestal](piṇḍikā) [round](vartulā) [becomes](bhavet)
+[middle+lower+thread+confused+by](madhyādhasūtrasaṃbhrāntaiḥ) [pedestal](piṇḍikā) [round](vartulā) [becomes](bhavet)
 
 ## mukta-m0-p52-v1283
-[fourth-asra-circle-between](turyāsravṛttayormadhye) [yama-two-sutra-falling](yamandvoḥ sūtrapātanam)
+[fourth+corner+circles+of+two+middle](turyāsravṛttayormadhye) [yama+two+of](yamandvoḥ) [thread+casting](sūtrapātanam)
 
 ## mukta-m0-p52-v1284
-[six-cornered-pedestal](bhavetṣaḍasrikāpiṇḍī) [remaining-line-erasure](śeṣarekhāvithopanāt)
+[becomes+six+cornered+pedestal](bhavetṣaḍasrikāpiṇḍī) [remaining+line+erasure+from](śeṣarekhāvithopanāt)
 
 ## mukta-m0-p52-v1285
-[sutra-middle-half-round-lotus](sūtramadhyārdha sabṛttādabjā) [syāt](syāt) [previously-stated](pūrvacoditā)
+[thread+middle+half](sūtramadhyārdha) [with+circle](sabṛttāt) [lotus](abjā) [is](syāt) [previously+stated](pūrvacoditā)
 
 ## mukta-m0-p52-v1286
-[middle-sutra-half-portion](madhyasūtrārdha bhāgena) [corners](koṇāni) [diminish](hrāsayedatha)
+[middle+thread+half+part](madhyasūtrārdha) [portion](bhāgena) [corners](koṇāni) [diminish+then](hrāsayedatha)
 
 ## mukta-m0-p52-v1287
-[corners](koṇaiḥ) [sutra-bounded](sūtraparicchinnaiḥ) [make-eight-cornered](kuryādaṣṭāsrikāṃ) [always](sadā)
+[corners](koṇaiḥ) [thread+bounded](sūtraparicchinnaiḥ) [make+eight+cornered](kuryādaṣṭāsrikāṃ) [always](sadā)
 
 ## mukta-m0-p52-v1288
-[cutting-asra-and-cutting](saṃchidyāsrīṃśca saṃchidya) [making-ten-cornered](kṛtvā tu daśamāstrikam)
+[cutting+corners+and](saṃchidyāsrīṃśca) [cutting](saṃchidya) [making+but+ten+cornered](kṛtvātudaśamāstrikam)
 
 ## mukta-m0-p52-v1289
-[to-be-made-sixteenth-parts](kartavyā ṣoḍakāṃśaistu) [pedestal](piṇḍikā) [kesava-refuge](keśavāśrayā)
+[to+be+done](kartavyā) [sixteen+parts+by](ṣoḍakāṃśaistu) [pedestal](piṇḍikā) [keśava+refuge](keśavāśrayā)
 
 ## mukta-m0-p52-v1290
-[as-before-thirty-second-parts](pūrvavatyoḍaśaṃśaistu) [make-thirty-two-cornered](kuryād dvātriṃśadasrikām)
+[as+before+sixteen+parts+by](pūrvavatyoḍaśaṃśaistu) [make+thirty+two+cornered](kuryāddvātriṃśadasrikām)
 
 ## mukta-m0-p52-v1291
-[southeastern](āgneyī) [bodhi-leaf-like](bodhipatrābhā) [pintaroga-fire-burning](pintarogāgnidāhakṛt)
+[āgneyī](āgneyī) [bodhi+leaf+like](bodhipatrābhā) [disease+fire+burning+causing](pintarogāgnidāhakṛt)
 
 ## mukta-m0-p52-v1292
-[triangle](trikoṇā) [rakshasa-born](rākṣasājāṃ) [region](tu deśo) [covering](cchadakarī) [always](sadā)
+[triangle](trikoṇā) [rākṣasa+born](rākṣasājāṃ) [but](tu) [place](deśo) [covering+making](cchadakarī) [always](sadā)
 
 ## mukta-m0-p52-v1293
-[northwestern](vāyavyā) [six-cornered](ca ṣaḍasroktā) [enemy-expulsion](śatrūccāṭanakārikā)
+[vāyavyā](vāyavyā) [and](ca) [six+cornered+stated](ṣaḍasroktā) [enemy+expulsion+causing](śatrūccāṭanakārikā)
 
 ## mukta-m0-p52-v1294
-[raudri](raudrī) [eight-cornered](tvaṣṭāsrikā) [known](jñeyā) [liberation-giving](muktidā) [poison-destroying](sārināśinī)
+[raudrī](raudrī) [eight+cornered](tvaṣṭāsrikā) [to+be+known](jñeyā) [liberation+giving](muktidā) [enemy+destroying](sārināśinī)
 
 ## mukta-m0-p52-v1295
-[thirty-two-cornered](dvātriṃśadasrikā) [fiery](vāhnī) [heaven-named-fruit-giving](svargākhyāphaladāyinī)
+[thirty+two+cornered](dvātriṃśadasrikā) [vāhnī](vāhnī) [heaven+named+fruit+giving](svargākhyāphaladāyinī)
 
 ## mukta-m0-p52-v1296
-[half-moon-like](ardhacandropamā) [blue](nīlaṃ) [remainder](śeṣaḥ) [bow-like](kodaṇḍavadbhavet)
+[half+moon+like](ardhacandropamā) [blue](nīlaṃ) [remainder](śeṣaḥ) [bow+like+becomes](kodaṇḍavadbhavet)
 
 ## mukta-m0-p52-v1297
-[pedestal-head-etc](piṇḍīmāmastakādīnāṃ) [makes-such](karotyevaṃ) [kind](vidhaṃ) [fruit](phalam)
+[pedestal+etc+head+etc+of](piṇḍīmāmastakādīnāṃ) [does+thus](karotyevaṃ) [kind](vidhaṃ) [fruit](phalam)
 
 ## mukta-m0-p52-v1298
-[bhaga-linga-marked](bhagaliṅgāṅkita) [all](sarvaṃ) [three-worlds](trailokyaṃ) [moving-immoving](sacarācaram)
+[bhaga+liṅga+marked](bhagaliṅgāṅkita) [all](sarvaṃ) [three+worlds](trailokyaṃ) [with+moving+nonmoving](sacarācaram)
 
 ## mukta-m0-p52-v1299
-[shiva-linga](śivaliṅgaṃ) [supreme](paraṃ) [that](taccaṃ) [their-union](tayoryogā) [great-fruit](nmahatphalam)
+[śiva+liṅga](śivaliṅgaṃ) [supreme](paraṃ) [that+and](taccaṃ) [their+union+from](tayoryogāt) [great+fruit](mahatphalam)
 
 ## mukta-m0-p52-v1300
-[petal-foot-cavity](dalāṅghrigartikā) [tortoise](kūrmoṃ) [veda-asra](vedāsrā) [valinga-cavity](valiṅgartinī)
+[petal+foot+cavity](dalāṅghrigartikā) [tortoise](kūrmoṃ) [veda+corner](vedāsrā) [liṅga+cavity](valiṅgartinī)
