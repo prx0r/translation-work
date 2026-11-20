@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p161-v4001
-[lotus-stalk+shining+arm](mṛṇāla+vilasat+bāhuḥ) [noose+goad+bow+bearer](pāśa+aṅkuśa+dhanuḥ+dhara)
+[lotus-stalk-shining-arm](mṛṇālavilasadbāhuḥ) [noose-goad-bow-bearing](pāśāṅkuśadhanurdharā)
 
 ## mukta-m0-p161-v4002
-[copper+lotus+hand+splendor](tāmra+paṅkaja+pāṇi+śrī) [nail+jewel+radiant](nakha+ratna+prabhāvatī)
+[tawny-lotus-hand-glory](tāmrapaṅkajapāṇiśrīḥ) [nail-gem-radiant](nakharatnaprabhāvatī)
 
 ## mukta-m0-p161-v4003
-[mandāra+pair+beautiful+breast](mandāra+dvandva+sukucā) [hair-line+serpent-like](romarājī+bhujaṅgakā)
+[pārijāta-pair-breasted](mandāradvandvasukucā) [body-hair-line-serpent](romarājībhujaṅgakā)
 
 ## mukta-m0-p161-v4004
-[jingling+girdle+cord+raised](raṇat+kāñcī+guṇa+unnaddhā) [silk+garment+well-tied](paṭṭa+aṃśuka+su+nīvikā)
+[jingling-girdle-cord-bound](raṇatkāñcīguṇonnaddhā) [silk-garment-fine-waisted](paṭṭāṃśukasunīvikā)
 
 ## mukta-m0-p161-v4005
-[beautiful+knee+mandara+attached](su+jānu+mandara+āsakta) [shining+shank+pair+endowed](lasat+jaṅghā+dvaya+anvitā)
+[beautiful-knee-mandara-attached-shining-shank-pair-endowed](sujānumandarāsaktalasajjaṅghādvayānvitā)
 
 ## mukta-m0-p161-v4006
-[yogi+meditated+foot+pair](yogi+dhyeya+pada+dvandva) [nectar+immortal+flowing](sudhā+amṛta+sāriṇī)
+[yogi-meditated-foot-pair](yogidhyeyapadadvandvā) [nectar-mother-nectar-flowing](sudhāmā'mṛtasāriṇī)
 
 ## mukta-m0-p161-v4007
-[good+siddha+good+buddha](sādhu+siddhā+su+buddhā) [and+buddha+host+gods](ca+budhā+vṛnda+arakodayā)
+[saint-accomplished](sādhusiddhā) [well-awakened](subuddhā) [and](ca) [wise](budhā) [host-rising](vṛndārakodayā)
 
 ## mukta-m0-p161-v4008
-[deep+rasa+lotus+pond](rasa+gambhīra+sarasī+padminī) [rasa+essence+flowing](rasa+sāra+sā)
+[rasa-deep-lake-lotus](rasagambhīrasarasīpadminī) [rasa-essence-flowing](rasasārasā)
 
 ## mukta-m0-p161-v4009
-[dance+king+beloved](naṭa+rāja+priyā) [universe+dance+female+dancer](viśva+nāṭya+nartaka+nartakī)
+[dance-king-beloved](naṭarājapriyā) [world-dance](viśvanāṭyā) [dancer-dancing](nartakanartakī)
 
 ## mukta-m0-p161-v4010
-[false+peak+false](kūṭa+āraka+kūṭā) [abiding+five+peak+five](kūṭa+sthā+pañca+kūṭā+pañcamī)
+[peak-peak](kūṭārakūṭā) [abiding-peak](kūṭasthā) [five-peaked](pañcakūṭā) [and](ca) [fifth](pañcamī)
 
 ## mukta-m0-p161-v4011
-[sixteen+syllable+endowed](ṣoḍaśa+arṇa+saṃpannā) [fourth+supreme+kalā](turīyā+parama+kalā)
+[sixteen-peaks-endowed](kūṭaṣoḍaśasaṃpannā) [fourth](turīyā) [supreme-art](paramākalā)
 
 ## mukta-m0-p161-v4012
-[sixteen+letters](ṣoḍaśa+arṇā) [three+colors](tri+varṇā) [bindu+nāda+form](bindu+nāda+svarūpiṇī)
+[sixteen-syllabled](ṣoḍaśārṇā) [three-colored](trivarṇā) [and](ca) [bindu-nāda-form](bindunādasvarūpiṇī)
 
 ## mukta-m0-p161-v4013
-[consciousness+creeper](caitanya+vallī) [peak+self](kūṭa+ātmā) [kāmeśī](kāmeśī) [dream+visible+going](svapna+dṛśya+gā)
+[consciousness-creeper](caitanyavallī) [peak-self](kūṭātmā) [desire-lord](kāmeśī) [dream-visible-going](svapnadṛśyagā)
 
 ## mukta-m0-p161-v4014
-[dream+support](svapna+āśrayā) [deep+sleep](suṣupti) [drowsiness+freed](tandrā+muktā) [mādhavī](mādhavī)
+[dream-refuge](svapnāśrayā) [deep-sleep](suṣuptiḥ) [and](ca) [drowsiness-freed](tandrāmuktā) [and](ca) [Mādhavī](mādhavī)
 
 ## mukta-m0-p161-v4015
-[śākambharī](śākambharī) [nandi+vidyā](nandi+vidyā) [shining+garland](bhāsvat+vidyota+mālinī)
+[Śākambharī](śākambharī) [Nandī-vidyā](nandividyā) [radiant-illumination-garlanded](bhāsvadvidyotamālinī)
 
 ## mukta-m0-p161-v4016
-[sādhaka+lord+path](sādhaka+indra+gatiḥ) [virtuous](sādhvī) [easy](sulabhā) [siddhi+cave](siddhi+kandarā)
+[adept-lord-going](sādhakendragatiḥ) [virtuous](sādhvī) [easily-obtained](sulabhā) [accomplishment-cave](siddhikandarā)
 
 ## mukta-m0-p161-v4017
-[nourishment](puṣṭiḥ) [obstacle+remover](vighna+harī) [prosperity](bhūtiḥ) [faultless](viguṇā) [worshipful+kāmadhuk](pūjya+kāmadhuk)
+[nourishment](puṣṭiḥ) [obstacle-remover](vighnaharī) [prosperity](bhūtiḥ) [virtueless](viguṇā) [worshipable-desire-cow](pūjyakāmadhuk)
 
 ## mukta-m0-p161-v4018
-[all+parted-hair](sarva+sīmantinī) [liberation](mokṣā) [initiation](dīkṣā) [initiated+mother](dīkṣita+mātṛkā)
+[all-parted-hair](sarvasīmantinī) [liberation](mokṣā) [initiation](dīkṣā) [initiated-mother](dīkṣitamātṛkā)
 
 ## mukta-m0-p161-v4019
-[youth+intoxicating](yauvana+unmādinī) [high](tuṅgā) [beautiful+hips](su+śroṇiḥ) [love+sluggish](madana+mantharā)
+[youth-intoxicating](yauvanonmādinī) [lofty](tuṅgā) [beautiful-hipped](suśroṇiḥ) [love-sluggish](madamantharā)
 
 ## mukta-m0-p161-v4020
-[red+garland+radiance](rakta+mālā+ruciḥ) [crest+crest+very+beautiful](śikhā+śikhaṇḍinī+ati+sundarī)
+[red-garland-radiance](raktamālāruciḥ) [crest-crested-very-beautiful](śikāśikhaṇḍinyatisundarī)
 
 ## mukta-m0-p161-v4021
-[wish-fulfilling+cow](surabhī) [desire+giver](kāma+dā) [desirable](kāmyā) [lovely+object+desire+giver](kamanīya+artha+kāma+dā)
+[fragrant](surabhī) [desire-giving](kāmadā) [desirable](kāmyā) [lovely-wealth-desire-giving](kamanīyārthakāmadā)
 
 ## mukta-m0-p161-v4022
-[goloka+goddess](goloka+devī) [world+splendor](loka+śrī) [goloka+protectress](goloka+paripālikā)
+[Goloka-goddess](golokadevī) [world-glory](lokaśrīḥ) [Goloka-protectress](golokaparipālikā)
 
 ## mukta-m0-p161-v4023
-[rudra+wife](rudra+patnī) [auspicious+mother](bhadra+mātā) [nectar+stream+water+seer](sudhā+dhārā+ambu+vikṣatiḥ)
+[Rudra-consort](rudrapatnī) [auspicious-mother](bhadramātā) [nectar-stream-water-sight](sudhādhārā'mbuvikṣatiḥ)
 
 ## mukta-m0-p161-v4024
-[milk+full+ocean+going](kṣīra+pūrṇa+arṇava+gatiḥ) [nectar+womb](sudhā+yoniḥ) [beautiful+eye](su+locanā)
+[milk-filled-ocean-going](kṣīrapūrṇārṇavagatiḥ) [nectar-womb](sudhāyoniḥ) [beautiful-eyed](sulocanā)
 
 ## mukta-m0-p161-v4025
-[good+conduct](su+cāritrā) [good+tripurā](su+tripurā) [good+breast](su+stanī) [breast+affectionate](stana+vatsalā)
+[good-conduct](sucāritrā) [good-Tripurā](sutripurā) [good-breasted](sustanī) [breast-affectionate](stanavatsalā)

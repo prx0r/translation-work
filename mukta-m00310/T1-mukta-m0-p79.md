@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p79-v1951
-[pillar-form](sthāṇu+rūpaḥ) [moving-gait](cara+gatiḥ) [beautiful-face](cāru+vaktraḥ) [victorious](jayī) [leader](nayī)
+[pillar-form+moving-gait+beautiful-face](sthāṇurūpaścaragatiścāruvaktro) [victorious](jayī) [leader](nayī)
 
 ## mukta-m0-p79-v1952
-[wealth-eye-subduer](lakṣmī+netra+vaśī) [wealth-smile-subdued](lakṣmī+hāsa+vaśyaḥ) [dancer](vinartakaḥ)
+[lakshmi-eyed-controller](lakṣmīnetravaśī) [lakshmi-smile-subject](lakṣmīhāsavaśyo) [dancer](vinartakaḥ)
 
 ## mukta-m0-p79-v1953
-[indra](vāsavaḥ) [hidden-path-desired](gopya+mārga+iṣṭaḥ) [viṣṇu-conduct-devoted](vaiṣṇava+ācāra+tatparaḥ)
+[indra](vāsavo) [hidden-path-desired](gopyamārgeṣṭo) [vaishnava-conduct-devoted](vaiṣṇavācāratatparaḥ)
 
 ## mukta-m0-p79-v1954
-[true](satyaḥ) [praiseworthy](stutyaḥ) [pure](śuciḥ) [eternal](nityaḥ) [eternal-self](nitya+ātmā) [eternal-vision](nitya+darśanaḥ)
+[truthful](satyaḥ) [praiseworthy](stutyaḥ) [pure](śucirnityo) [eternal-self](nityātmā) [eternal-vision](nityadarśanaḥ)
 
 ## mukta-m0-p79-v1955
-[fifth-note-singer](pañcama+svara+saṅgītaḥ) [fame-giver](kīrti+daḥ) [delusion-destroyer](mohana+aśanaḥ)
+[fifth-note-singer](pañcamasvarasaṅgītaḥ) [glory-giver](kīrtido) [delusion-destroyer](mohanāśanaḥ)
 
 ## mukta-m0-p79-v1956
-[wealth-yoga-lord](lakṣmī+yoga+īśvaraḥ) [wealth-yoga-giver](lakṣmī+yoga+daḥ) [enjoyment-leader](bhogināyakaḥ)
+[lakshmi-yoga-lord](lakṣmīyogīśvaro) [lakshmi-yoga-giver](lakṣmīyogado) [enjoyment-leader](bhogināyakaḥ)
 
 ## mukta-m0-p79-v1957
-[unthinkable-glory](acintya+mahimā) [unthinkable-weight](acintya+garimā) [terrible-roar](ghora+nisvanaḥ)
+[unthinkable-glory](acintyamahimā) [unthinkable-weight](acintyagarimā) [terrible-sound](ghoranisvanaḥ)
 
 ## mukta-m0-p79-v1958
-[love-god](kāmadevaḥ) [physician-of-physicians](vaidya+vaideyaḥ) [veda-knower](veda+vid) [veda-leader](veda+nāyakaḥ)
+[love-god](kāmadevo) [physician-of-physicians](vaidyavaidyo) [veda-knower](vedavid) [veda-leader](vedanāyakaḥ)
 
 ## mukta-m0-p79-v1959
-[sacrificer](yājñikaḥ) [ascetics-protector](yamināṃ+trātā) [three-worlds-father](triloka+janakaḥ) [ageless](ajaraḥ)
+[sacrificer](yājñiko) [ascetics-protector](yamināṃ) [trātā] [three-worlds-origin](trilokajanako) [ageless](ajaraḥ)
 
 ## mukta-m0-p79-v1960
-[wealth-broad-pleased](lakṣmī+pṛthu+vasu+prītaḥ) [wealth-glory-giver](lakṣmī+śrī+daḥ) [glory-lord](śriyaḥ+patiḥ)
+[lakshmi-broad-pleasing](lakṣmīpṛthurvasuprīto) [lakshmi-glory-giver](lakṣmīśrīdaḥ) [beauty-lord](śriyaḥpatiḥ)
 
 ## mukta-m0-p79-v1961
-[irreversible](anirvartī) [detached](niḥsaṅgaḥ) [fearless](nirbhayaḥ) [untroubled](nirupadravaḥ)
+[irreversible](anirvartī) [detached](ca) [fearless](niḥsaṅgo) [untroubled](nirbhayo) [undisturbed](nirupadravaḥ)
 
 ## mukta-m0-p79-v1962
-[supportless](nirāśrayaḥ) [qualityless](nirguṇaḥ) [beyond-qualities](guṇa+atītaḥ) [troop-lord](gaṇeśvaraḥ)
+[shelterless](nirāśrayo) [qualityless](nirguṇaśca) [beyond-qualities](guṇātīto) [lord-of-hosts](gaṇeśvaraḥ)
 
 ## mukta-m0-p79-v1963
-[great-sacrifice](mahā+kratuḥ) [sacrifice-bodied](yajña+vapuḥ) [boar](varāhaḥ) [sacrifice-leader](yajña+nāyakaḥ)
+[great-sacrifice](mahākraturyajñavapurvarāho) [sacrifice-leader](yajñanāyakaḥ)
 
 ## mukta-m0-p79-v1964
-[wealth-unsullied](lakṣmī+nirañjanaḥ) [wealth-accomplishment-giver](lakṣmī+siddhi+daḥ) [accomplishment-increaser](siddhi+vardhanaḥ)
+[lakshmi-unsullied](lakṣmīnirañjano) [lakshmi-perfection-giver](lakṣmīsiddhidaḥ) [perfection-increaser](siddhivardhanaḥ)
 
 ## mukta-m0-p79-v1965
-[all-worlds-bearer](sarva+loka+dharaḥ) [self-controlled](dāntaḥ) [elephant-tusk-armed](danti+danta+āyudhaḥ) [subduer](damī)
+[all-worlds-bearer](sarvalokadharo) [self-controlled](dānto) [elephant-tusk-armed](dantidantāyudho) [subduer](damī)
 
 ## mukta-m0-p79-v1966
-[great-actor](mahā+karmā) [great-china](mahā+cīnaḥ) [ma-syllable-shiva-worshipped](makāra+śiva+pūjitaḥ)
+[great-actor](mahākarmā) [great-china](mahācīno) [ma-syllable-shiva-worshipped](makāraśivapūjitaḥ)
 
 ## mukta-m0-p79-v1967
-[meat-eater](māṃsa+āhārī) [eternally-attached](nitya+saṅgī) [fish-essence-filled](mīna+asava+rasa+ākulaḥ)
+[meat-eater](māṃsāhārī) [eternally-attached](nityasaṅgī) [fish-essence-filled](mīnāsavarasākulaḥ)
 
 ## mukta-m0-p79-v1968
-[not-terrible-god](aghora+devaḥ) [demon-enemy](daitya+ariḥ) [conquered-god](jita+devaḥ) [sun](divākaraḥ)
+[not-terrible-god](aghoradevo) [demon-enemy](daityārirjitadevo) [sun](divākaraḥ)
 
 ## mukta-m0-p79-v1969
-[true-form](sat+svarūpaḥ) [odd-eyed](virūpa+akṣaḥ) [radiance-maker-hundred-splendor](vibhākara+śata+prabhaḥ)
+[true-form](satsvarūpo) [odd-eyed](virūpākṣo) [radiant-sun-hundred-rays](vibhākaraśataprabhaḥ)
 
 ## mukta-m0-p79-v1970
-[stout-armed](pīna+bāhuḥ) [thick-footed](sthūla+pādaḥ) [long-eyed](dīrgha+cakṣuḥ) [pendant-armed](alaṃ+bhujaḥ)
+[stout-armed](pīnabāhuḥ) [thick-footed](sthūlapādo) [long-eyed](dīrghacakṣuralaṃbhujaḥ)
 
 ## mukta-m0-p79-v1971
-[wealth-eternal](lakṣmī+sanātanaḥ) [wealth-dharma-overseer](lakṣmī+dharma+adhyakṣaḥ) [wealth-lord](dhaneśvaraḥ)
+[lakshmi-eternal](lakṣmīsanātano) [lakshmi-dharma-overseer](lakṣmīdharmādhyakṣo) [wealth-lord](dhaneśvaraḥ)
 
 ## mukta-m0-p79-v1972
-[hero-slayer?](vīra+haḥ) [lotus-eyed](puṇḍarīka+akṣaḥ) [lotus-navel](padma+nābhaḥ) [world-lord](jagat+prabhuḥ)
+[hero-slayer](vīrahaḥ) [lotus-eyed](puṇḍarīkākṣaḥ) [lotus-navel](padmanābho) [world-lord](jagatprabhuḥ)
 
 ## mukta-m0-p79-v1973
-[thousand-armed](sahasra+bāhuḥ) [kshatriya-lord](kṣatra+īśaḥ) [brahmin](brāhmaṇaḥ) [merchants-lord](vaṇijāṃ+patiḥ)
+[thousand-armed](sahasrabāhuḥ) [kshatriya-lord](kṣatreśo) [brahmin](brāhmaṇo) [merchants-lord](vaṇijāṃ) [patiḥ]
 
 ## mukta-m0-p79-v1974
-[wheel-worshipped](cakra+arcitaḥ) [crocodile-lord](nakra+patiḥ) [varuna](varuṇaḥ) [indra-brother](śakra+sodaraḥ)
+[wheel-worshipped](cakrārcito) [crocodile-lord](nakrapatirvaruṇaḥ) [indra-brother](śakrasodaraḥ)
 
 ## mukta-m0-p79-v1975
-[not-proud](amānī) [honor-giver](māna+daḥ) [honorable](mānyaḥ) [man-lord](mānava+indraḥ) [best-manu](manu+uttamaḥ)
+[not-proud](amānī) [honor-giver](mānado) [honorable](mānyo) [man-lord](mānavendro) [best-manu](manūttamaḥ)
