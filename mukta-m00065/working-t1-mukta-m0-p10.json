@@ -8,7 +8,7 @@
 "tokens": [
 {
 "surface": "prāvrājyāt",
-"quick_gloss": "renunciation"
+"quick_gloss": "by-renunciation"
 },
 {
 "surface": "naśyate",
@@ -20,15 +20,15 @@
 },
 {
 "surface": "strīyogāt",
-"quick_gloss": "women-union"
+"quick_gloss": "by-woman-union"
 },
 {
 "surface": "aparaṃ",
-"quick_gloss": "then"
+"quick_gloss": "afterwards"
 },
 {
 "surface": "tathā",
-"quick_gloss": "thus"
+"quick_gloss": "likewise"
 }
 ]
 },
@@ -77,8 +77,12 @@
 "quick_gloss": "tu"
 },
 {
-"surface": "katthosthastatsutāḥ",
+"surface": "katthosthaḥ",
 "quick_gloss": "boaster-lip-born"
+},
+{
+"surface": "tatsutāḥ",
+"quick_gloss": "his-sons"
 },
 {
 "surface": "kauśikādayaḥ",
@@ -106,12 +110,8 @@
 "quick_gloss": "these"
 },
 {
-"surface": "ye",
-"quick_gloss": "who"
-},
-{
 "surface": "ca",
-"quick_gloss": "ca"
+"quick_gloss": "and"
 },
 {
 "surface": "paṣāṇḍinaḥ",
@@ -132,7 +132,7 @@
 "tokens": [
 {
 "surface": "śāstrāvalokanāt",
-"quick_gloss": "scripture-inspection"
+"quick_gloss": "by-scripture-inspection"
 },
 {
 "surface": "eva",
@@ -169,10 +169,10 @@
 },
 {
 "surface": "narakaṃ",
-"quick_gloss": "hell"
+"quick_gloss": "to-hell"
 },
 {
-"surface": "sadyo",
+"surface": "sadyaḥ",
 "quick_gloss": "immediately"
 },
 {
@@ -197,16 +197,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "teṣām",
-"quick_gloss": "their"
-},
-{
-"surface": "ācaraṇāt",
-"quick_gloss": "conduct"
+"surface": "teṣāmācaraṇāt",
+"quick_gloss": "by-their-conduct"
 },
 {
 "surface": "nityam",
-"quick_gloss": "nityam"
+"quick_gloss": "always"
 },
 {
 "surface": "ācāryaḥ",
@@ -235,7 +231,7 @@
 },
 {
 "surface": "na",
-"quick_gloss": "na"
+"quick_gloss": "not"
 },
 {
 "surface": "mānavīṃ",
@@ -247,11 +243,11 @@
 },
 {
 "surface": "kārayet",
-"quick_gloss": "make"
+"quick_gloss": "should-make"
 },
 {
 "surface": "daiśikaṃ",
-"quick_gloss": "teacher"
+"quick_gloss": "towards-teacher"
 },
 {
 "surface": "prati",
@@ -272,11 +268,11 @@
 },
 {
 "surface": "devasya",
-"quick_gloss": "of-god"
+"quick_gloss": "of-the-god"
 },
 {
 "surface": "pañcāgamavivṛddhaye",
-"quick_gloss": "five-āgama-growth"
+"quick_gloss": "for-five-āgama-growth"
 }
 ]
 },
@@ -300,11 +296,15 @@
 "quick_gloss": "ca"
 },
 {
-"surface": "sāhasramaṃśuma",
-"quick_gloss": "thousand-rayed"
+"surface": "sāhasram",
+"quick_gloss": "sāhasra"
 },
 {
-"surface": "tsuprabhaṃ",
+"surface": "aṃśum",
+"quick_gloss": "ray"
+},
+{
+"surface": "suprabhaṃ",
 "quick_gloss": "suprabha"
 },
 {
@@ -330,7 +330,7 @@
 },
 {
 "surface": "niśvāsodgītasaṃjñakam",
-"quick_gloss": "breath-song-named"
+"quick_gloss": "niśvāsa-udgīta-named"
 }
 ]
 },
@@ -347,11 +347,11 @@
 },
 {
 "surface": "candrahāsaṃ",
-"quick_gloss": "moon-laugh"
+"quick_gloss": "candrahāsa"
 },
 {
 "surface": "vīraṃ",
-"quick_gloss": "hero"
+"quick_gloss": "vīra"
 },
 {
 "surface": "svāyambhu",
@@ -375,8 +375,8 @@
 "quick_gloss": "rudra-divisions"
 },
 {
-"surface": "samākhyātā",
-"quick_gloss": "declared"
+"surface": "samākhyātāḥ",
+"quick_gloss": "are-declared"
 },
 {
 "surface": "daśāṣṭādaśa",
@@ -384,7 +384,7 @@
 },
 {
 "surface": "cordhvagāḥ",
-"quick_gloss": "upward-going"
+"quick_gloss": "or-upward"
 }
 ]
 },
@@ -397,7 +397,7 @@
 "tokens": [
 {
 "surface": "pañcabhūta",
-"quick_gloss": "five-elements"
+"quick_gloss": "five-element"
 },
 {
 "surface": "vibhāgaṃ",
@@ -455,7 +455,7 @@
 "tokens": [
 {
 "surface": "gāruḍasya",
-"quick_gloss": "of-garuḍa"
+"quick_gloss": "of-gāruḍa"
 },
 {
 "surface": "tu",
@@ -475,7 +475,7 @@
 },
 {
 "surface": "īritāḥ",
-"quick_gloss": "said"
+"quick_gloss": "are-said"
 }
 ]
 },
@@ -533,7 +533,7 @@
 },
 {
 "surface": "vetālamardakam",
-"quick_gloss": "vetāla-crusher"
+"quick_gloss": "vetālamardaka"
 }
 ]
 },
@@ -546,7 +546,7 @@
 "tokens": [
 {
 "surface": "triśiraṃ",
-"quick_gloss": "three-headed"
+"quick_gloss": "triśira"
 },
 {
 "surface": "ca",
@@ -554,7 +554,7 @@
 },
 {
 "surface": "ekapādaṃ",
-"quick_gloss": "one-footed"
+"quick_gloss": "ekapāda"
 },
 {
 "surface": "tu",
@@ -562,7 +562,7 @@
 },
 {
 "surface": "siddhayogeśvarīmatam",
-"quick_gloss": "siddhayogeśvarī-opinion"
+"quick_gloss": "siddhayogeśvarī-mata"
 }
 ]
 },
@@ -575,15 +575,15 @@
 "tokens": [
 {
 "surface": "viśvarikaṇṭha",
-"quick_gloss": "all-pervading-throat"
+"quick_gloss": "viśvarikaṇṭha"
 },
 {
 "surface": "saṅkocaṃ",
-"quick_gloss": "contraction"
+"quick_gloss": "saṅkoca"
 },
 {
 "surface": "tilakodyānabhairavam",
-"quick_gloss": "tilaka-garden-bhairava"
+"quick_gloss": "tilaka-udyāna-bhairava"
 }
 ]
 },
@@ -604,7 +604,7 @@
 },
 {
 "surface": "dakṣiṇāsyāt",
-"quick_gloss": "from-south-face"
+"quick_gloss": "from-southern-face"
 },
 {
 "surface": "bhavāni",
@@ -650,7 +650,7 @@
 "tokens": [
 {
 "surface": "siddhanityodayaṃ",
-"quick_gloss": "siddha-daily-rise"
+"quick_gloss": "siddha-nitya-udaya"
 },
 {
 "surface": "jyeṣṭhaṃ",
@@ -658,7 +658,7 @@
 },
 {
 "surface": "cintāmaṇimahodayam",
-"quick_gloss": "cintāmaṇi-great-rise"
+"quick_gloss": "cintāmaṇi-mahodaya"
 }
 ]
 },
@@ -679,7 +679,7 @@
 },
 {
 "surface": "kiṅkarānugam",
-"quick_gloss": "kiṅkara-follower"
+"quick_gloss": "kiṅkara-anuga"
 }
 ]
 },

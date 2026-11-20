@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p21-v501
-[knot+form+elevated+knot+belly+disease+giving](granthirūponnatagranthirjaṭharāmayadāyaka)
+knot-form-raised-knot-belly-disease-giving
 
 ## mukta-m0-p21-v502
-[frost](tuṣāraṃ) [that+know](tadvijānīyā) [son+grief+pain+giving](putraśokārtidāyakam)
+frost that-know son-grief-pain-giving
 
 ## mukta-m0-p21-v503
-[gold+sound+made](hemaghoṣāmayaṃ) [copper](tāmra) [that+corrupt](tadduṣṭaṃ) [in+piṅgalā+opinion](piṅgalāmate)
+gold-sound-disease copper that-corrupt red-eyed
 
 ## mukta-m0-p21-v504
-[people](janaṃ) [kills](hantyāyasākrāntā) [stone](śilā) [and](tāmī) [ca](ca) [sculptor](śilpinam)
+people-killing iron-affected stone copper-and stone-worker
 
 ## mukta-m0-p21-v505
-[black](kṛṣṇaḥ) [yellow](pīto) [red](aruṇo) [spot](binduḥ) [he](sa) [grief+fear+disease+giving](śokabhayarogadaḥ)
+black yellow red spot grief-fear-disease-giving
 
 ## mukta-m0-p21-v506
-[yellow](pīte) [wealth+loss](dhanakṣayaḥ) [maker](kartuḥ) [black](kṛṣṇe) [bondage](bandho) [both+twofold](dvayordvidhā)
+yellow wealth-loss maker black bondage both-twofold
 
 ## mukta-m0-p21-v507
-[line](rekhā) [line+pierced](rekhānubiddhā) [or](vā) [earthly](pārthivaṃ) [that](sā) [destroys](vināśayet)
+line line-pierced-or earth-destroying
 
 ## mukta-m0-p21-v508
-[self+destroying](svāmidhnī) [and](ca) [four+cut](catuśchinnā) [many+cut](bahucchinnā) [family+ender](kulāntakṛt)
+mistress-killing four-cut many-cut family-ending
 
 ## mukta-m0-p21-v509
-[fly](makṣikā) [fly+shaped](makṣikākārā) [by+that](tayā) [leprosy](kuṣṭhaṃ) [very+terrible](sudāruṇam)
+fly fly-shaped by-that leprosy terrible
 
 ## mukta-m0-p21-v510
-[then](tadā) [various](nānā) [diseases](gadān) [makes](kuryāt) [maker+and](kartuścaiva) [no](na) [doubt](saṃśayaḥ)
+then various diseases maker no-doubt
 
 ## mukta-m0-p21-v511
-[abandon](tyājyaṃ) [that](tadā) [threefold](tridhā) [mark](liṅgaṃ) [king+realm+subjects+desiring](nṛparāṣṭraprajārthinā)
+abandonable then three-mark king-realm-subject-desiring
 
 ## mukta-m0-p21-v512
-[left+side+seated](vāmapārśvāśritaḥ) [somewhat](kiṃcit) [kills](dhanyādrāṣṭraṃ) [realm](rāṣṭraṃ) [with+king](sarājakam)
+left-side-situated somewhat realm-with-king killing
 
 ## mukta-m0-p21-v513
-[all+colors](sarvavarṇā) [very](bhṛśaṃ) [indeed](nūnaṃ) [life+taking](prāṇahṛtkṛṣṇahīrikā)
+all-colors certainly life-taking black-shame
 
 ## mukta-m0-p21-v514
-[elevated](unnato) [seen](lakṣyate) [who+and](yaśca) [cat+foot](viḍālāṅghriḥ) [that](sa) [fault+bearing](doṣabhāk)
+raised seen cat-foot fault-maker
 
 ## mukta-m0-p21-v515
-[of+stone](śilāyā) [form](rūpam) [observing](ālakṣya) [abandon](tyajettāmaśubhapradām)
+stone-form observe abandon inauspicious-giving
 
 ## mukta-m0-p21-v516
-[small+faults](svalpadoṣān) [will+tell](prakṣyāmi) [as](yathā) [in+scriptures](śāstreṣu) [spoken](bhāṣitān)
+small-faults will-tell as scriptures spoken
 
 ## mukta-m0-p21-v517
-[ant+hill+born](valmīkoṣaracityutthā) [warm](koṣṇā) [alkaline+water+middle+dwelling](kṣārāmbumadhyagā)
+ant-hill-born warm alkaline-water-middle
 
 ## mukta-m0-p21-v518
-[bad+place+standing](kudiksthā) [sun+heated](sūryasantaptā) [bitter+born](kadutthāmethyadūṣitā)
+bad-place sun-heated bitter-born impure
 
 ## mukta-m0-p21-v519
-[corrupt+life+voice](duṣṭajīvasvarā) [who](yā) [and](ca) [joined](yojitā) [not+other+work](nānyakarmaṇi)
+corrupt-life-sound joined not-other-work
 
 ## mukta-m0-p21-v520
-[who](yā) [stone+adhering](yopalānulagnā) [that](sā) [fat+cutting+causing](snehavicchittikārikāḥ)
+stone-clinging oil-cutting-cause
 
 ## mukta-m0-p21-v521
-[saline+place+standing](ūṣarasthārthahṛjjñeyā) [cit+standing](citisthā) [pain+giving](duḥkhadāyinī)
+saline-place wealth-heart-knowing citi-place sorrow-giving
 
 ## mukta-m0-p21-v522
-[stone+impure+place+standing](pāṣadāpuṇyadeśasthā) [killer](vadhakṛdbhilla) [served](sevitā)
+stone impure-place killing hill-tribe-served
 
 ## mukta-m0-p21-v523
-[burning](dāhaṃ) [loss](hāniṃ) [and](ca) [grief](śokaṃ) [ca](ca) [poverty](naiḥsvaṃ) [disease](rogaṃ) [thus](tathāvahet)
+burning loss grief poverty disease bringing
 
 ## mukta-m0-p21-v524
-[wine+smell+fat+smell](surāpakṣivasāgandhā) [agitation+causing](udvegajananī) [stone](śilā)
+liquor-smell stone agitation-causing
 
 ## mukta-m0-p21-v525
-[diamond+burned+fire+burned](vajradagdhāgnidagdhā) [and](ca) [king+fire+fear+giving](rājño'nalabhayapradā)
+thunderbolt-burned fire-burned king fire-fear-giving

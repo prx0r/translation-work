@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p36-v876
-[yoga-seal](yogamudrāṃ) [and](ca) [conch](śaṅkhaṃ) [and](ca) [mace-disc-bearer](gadācakradharaṃ) [pair](dvayam)
+[yoga-mudrā](yogamudrāṃ) [ca](ca) [śaṅkha](śaṅkhaṃ) [ca](ca) [gadā-cakra-dhara](gadācakradharaṃ) [dvaya](dvayam)
 
 ## mukta-m0-p36-v877
-[seal](mudrāṃ) [do](kuryāddhṛdisthāṃ) [ca](ca) [all-sin-destroying](aśeṣāghapraṇāśinīm)
+[mudrā](mudrāṃ) [kuryāt](kuryāddhṛdisthāṃ) [ca](ca) [aśeṣa-agha-praṇāśinī](aśeṣāghapraṇāśinīm)
 
 ## mukta-m0-p36-v878
-[vessel-peace-bearer](pātraśāntidharaṃ) [south](yāmye) [left](vāmake) [lotus-sīrin](padmasīriṇau)
+[pātra-śānti-dhara](pātraśāntidharaṃ) [yāmye](yāmye) [vāmake](vāmake) [padma-sīriṇau](padmasīriṇau)
 
 ## mukta-m0-p36-v879
-[kaumodī](kaumodyā) [weapon-king](hetirājena) [pāñcajanya](pāñcajanyāmbujena) [lotus](ca)
+[kaumodī](kaumodyā) [heti-rāja](hetirājena) [pāñcajanya-ambuja](pāñcajanyāmbujena) [ca](ca)
 
 ## mukta-m0-p36-v880
-[nārāyaṇa-etc-five-other](nārāyaṇādipañcānyat) [previously-said-hand-weapon-bearer](pūrvoktakaraśastrabhṛt)
+[nārāyaṇa-ādi-pañca-anya](nārāyaṇādipañcānyat) [pūrva-ukta-kara-śastra-bhṛt](pūrvoktakaraśastrabhṛt)
 
 ## mukta-m0-p36-v881
-[by-these](ebhiryuktaṃ) [nine-formation](navavyūhaṃ) [to-be-known](jñātavyaṃ) [by-best-teachers](daiśikottamaiḥ)
+[ebhiḥ](ebhir) [yuktaṃ](yuktaṃ) [nava-vyūha](navavyūhaṃ) [jñātavyaṃ](jñātavyaṃ) [daiśika-uttamaiḥ](daiśikottamaiḥ)
 
 ## mukta-m0-p36-v882
-[left-lap-held-śrī](vāmotsaṅgadhṛtaśrīkam) [half-moon-seat](ardhacandrāsane) [seated](sthitam)
+[vāma-utsaṅga-dhṛta-śrīka](vāmotsaṅgadhṛtaśrīkam) [ardha-candra-āsane](ardhacandrāsane) [sthitam](sthitam)
 
 ## mukta-m0-p36-v883
-[that-right](taddakṣiṇaṃ) [hand](karaṃ) [shoulder](skandhe) [god-of-gods](devadevasya) [right](dakṣiṇe)
+[tat-dakṣiṇaṃ](taddakṣiṇaṃ) [karaṃ](karaṃ) [skandhe](skandhe) [deva-devasya](devadevasya) [dakṣiṇe](dakṣiṇe)
 
 ## mukta-m0-p36-v884
-[lotus-seated](padmastho) [rolling-eyed](ghūrṇitākṣaśca) [singer-dancer-surrounded](gātṛnartanakairvṛtaḥ)
+[padma-sthaḥ](padmastho) [ghūrṇita-akṣaḥ](ghūrṇitākṣaśca) [gātṛ-nartana-kaiḥ](gātṛnartanakairvṛtaḥ)
 
 ## mukta-m0-p36-v885
-[by-non-duality](advaitena) [rite](vidhānena) [to-be-worshipped](pūjanīyo) [by-wise](vipaścitā)
+[advaitena](advaitena) [vidhānena](vidhānena) [pūjanīyaḥ](pūjanīyo) [vipaścitā](vipaścitā)
 
 ## mukta-m0-p36-v886
-[yoga-sleep-supreme-state](yoganidrāparāvasthaḥ) [sleeping](supto'nantatanūpari)
+[yoga-nidrā-parāvasthaḥ](yoganidrāparāvasthaḥ) [suptaḥ](supto'nantatanūpari) [ananta-tanū-pari](anantatanūpari)
 
 ## mukta-m0-p36-v887
-[earth-goddess-foot-clinging](pādalagnā) [dharā-devī](dharādevī) [water-reclining](jalaśāyī) [planet-surrounded](grahāvṛtaḥ)
+[pāda-lagnā](pādalagnā) [dharā-devī](dharādevī) [jala-śāyī](jalaśāyī) [graha-āvṛtaḥ](grahāvṛtaḥ)
 
 ## mukta-m0-p36-v888
-[lotus-born-ascended](ābhyutthapaṅkajārūḍhaḥ) [grandfather-accompanied](pitāmahasamanvitaḥ)
+[ābhyuttha-paṅkaja-ārūḍhaḥ](ābhyutthapaṅkajārūḍhaḥ) [pitāmaha-samanvitaḥ](pitāmahasamanvitaḥ)
 
 ## mukta-m0-p36-v889
-[she-licked](sā) [nandana](līḍho) [passionate](rāgī) [always](sadā) [bow-arrow-bearer-auspicious](cāpeṣubhṛcchubhaḥ)
+[sā](sā) [līḍhaḥ](līḍho) [nandane](nandane) [rāgī](rāgī) [sadā](sadā) [cāpa-iṣu-bhṛt](cāpeṣubhṛcchubhaḥ)
 
 ## mukta-m0-p36-v890
-[high-nosed](tuṅgaghrāṇo) [man-footed](narāṅghirvā) [bird-legged](pakṣijaṅgho) [man-bodied](narāṅgakaḥ)
+[tuṅga-ghrāṇaḥ](tuṅgaghrāṇo) [narāṅghiḥ](narāṅghirvā) [pakṣi-jaṅghaḥ](pakṣijaṅgho) [narāṅgakaḥ](narāṅgakaḥ)
 
 ## mukta-m0-p36-v891
-[left-knee-ground](vāmajānugato) [bhūmau](bhūmau) [tārkṣya](tārkṣyaḥ) [wing-accompanied](pakṣasamanvitaḥ)
+[vāma-jānu-gataḥ](vāmajānugato) [bhūmau](bhūmau) [tārkṣyaḥ](tārkṣyaḥ) [pakṣa-samanvitaḥ](pakṣasamanvitaḥ)
 
 ## mukta-m0-p36-v892
-[plough-conch-excellent](halaśaṅkhavaro) [garlanded](mālī) [viśvaksena](viśvakseno) [hari's-troop](harergaṇaḥ)
+[hala-śaṅkha-varaḥ](halaśaṅkhavaro) [mālī](mālī) [viśvaksenaḥ](viśvakseno) [hareḥ-gaṇaḥ](harergaṇaḥ)
 
 ## mukta-m0-p36-v893
-[lotus-sīra-bearer](padmasīradharaṃ) [left](vāme) [śeṣa](śeṣe) [mace-goad-bearer](muśalagodvaham)
+[padma-sīra-dharaṃ](padmasīradharaṃ) [vāme](vāme) [śeṣe](śeṣe) [muśala-go-dvaham](muśalagodvaham)
 
 ## mukta-m0-p36-v894
-[half-half](ardhe'rdhe) [ornaments](bhūṣaṇaiḥ) [own](svaiḥ) [own](svairyuktamūrdhvaṃ) [lotus-seated](kajasthitam)
+[ardhe-ardhe](ardhe'rdhe) [bhūṣaṇaiḥ](bhūṣaṇaiḥ) [svaiḥ](svaiḥ) [svaiḥ](svaiḥ) [yuktaṃ](yuktamūrdhvaṃ) [ūrdhvaṃ](ūrdhvaṃ) [kaja-sthitam](kajasthitam)
 
 ## mukta-m0-p36-v895
-[rosary](akṣamālāṃ) [trident](triśūlaṃ) [and](ca) [conch](śaṅkhaṃ) [and](ca) [kaumudī](kaumudīṃ) [in-order](kramāt)
+[akṣa-mālāṃ](akṣamālāṃ) [tri-śūlaṃ](triśūlaṃ) [ca](ca) [śaṅkhaṃ](śaṅkhaṃ) [ca](ca) [kaumudīṃ](kaumudīṃ) [kramāt](kramāt)
 
 ## mukta-m0-p36-v896
-[male-female-form](puṃstrīsvarūpakaṃ) [do](kuryācchivanārāyaṇātmakam)
+[puṃ-strī-svarūpakaṃ](puṃstrīsvarūpakaṃ) [kuryāt](kuryācchivanārāyaṇātmakam) [śiva-nārāyaṇa-ātmakam](śivanārāyaṇātmakam)
 
 ## mukta-m0-p36-v897
-[brahmā](brahmāṇaṃ) [vowed](vratinaṃ) [do](kuryājjaṭāmukuṭabhūṣitam)
+[brahmāṇaṃ](brahmāṇaṃ) [vratinaṃ](vratinaṃ) [kuryāt](kuryājjaṭāmukuṭabhūṣitam) [jaṭā-mukuṭa-bhūṣitam](jaṭāmukuṭabhūṣitam)
 
 ## mukta-m0-p36-v898
-[black-deer-skin](kṛṣṇājinaṃ) [and](ca) [that-shoulder](tatskandhe) [cloth](vastraṃ) [and](ca) [deerskin-garment](ajinavāsasam)
+[kṛṣṇa-ajinaṃ](kṛṣṇājinaṃ) [ca](ca) [tat-skandhe](tatskandhe) [vastraṃ](vastraṃ) [ca](ca) [ajina-vāsasam](ajinavāsasam)
 
 ## mukta-m0-p36-v899
-[sruva](sruvaṃ) [kamaṇḍalu](kamaṇḍaluṃ) [left](vāme) [with-kuśa-ghee-pot](sakuśājyaghaṭaṃ) [thus](tathā)
+[sruvaṃ](sruvaṃ) [kamaṇḍaluṃ](kamaṇḍaluṃ) [vāme](vāme) [sa-kuśa-ājya-ghaṭaṃ](sakuśājyaghaṭaṃ) [tathā](tathā)
 
 ## mukta-m0-p36-v900
-[gāyatrī](gāyatrīṃ) [and](ca) [sāvitrī](sāvitrīm) [sages](ṛṣīṃstatpārśvayostathā)
+[gāyatrīṃ](gāyatrīṃ) [ca-eva](caiva) [sāvitrīm](sāvitrīm) [ṛṣīn](ṛṣīṃs) [tat-pārśvayoḥ](tatpārśvayostathā) [tathā](tathā)
